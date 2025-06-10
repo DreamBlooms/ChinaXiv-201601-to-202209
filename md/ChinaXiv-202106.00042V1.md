@@ -1,0 +1,147 @@
+# 干旱砾漠区防护绿地植物群落配置模式研究
+
+周静¹²，严成1，郭瑞增¹²，闫紫烟4
+
+(1.中国科学院新疆生态与地理研究所,荒漠与绿洲生态国家重点实验室,新疆 乌鲁木齐830011;2.中国科学院大学,北京100049；3.中国科学院新疆生态与地理研究所,国家荒漠-绿洲生态建设工程技术研究中心,新疆 乌鲁木齐830011；4.新疆农业大学草业与环境科学学院,新疆 乌鲁木齐830011)
+
+摘要：以乌鲁木齐南部冲积扇砾漠区防护绿地的27个植物群落配置模式为研究对象,结合层次分析法与模糊综合评价,对不同植物群落配置模式的生态效果进行综合评价并排序。结果表明：樟子松-白滨藜-粉苞菊 $+$ 伊型绢蒿、白榆-中亚沙棘-粉苞菊 $^ +$ 准噶尔铁线莲、裂叶榆-中亚沙棘-粉苞菊 $^ +$ 顶羽菊、沙枣-白滨藜-粉苞菊的配置模式生态效果表现良好;基于植物群落生态效果相似性和景观功能需求，对优化配置模式进行多样化扩展分析,提出了三维绿量大、盖度高、适应性强的乔灌木和自然草本组成的植物群落优化配置模式,为干旱砾漠区防护绿地建设提供理论依据和技术支撑。
+
+关键词：植物群落；生态效果；优化配置模式；砾漠区；乌鲁木齐
+
+砾漠是干旱区荒漠化土壤类型之一，广布于西北盆地边缘及山麓冲积平原的上、中部，占我国国土面积的 $6 . 1 4 \%$ ，土壤砾漠化严重制约着区域经济发展和生态环境建设[1-2]。我国干旱区城市主要位于山麓平原、谷地或者盆地边缘，城区外围分布大面积砾漠3，随着城市规模不断扩张，居民对城市良好环境产生迫切需求，砾漠区生态建设刻不容缓。建立防护绿地生态防护体系，改善城市生态环境，维持绿地生态系统可持续发展具有至关重要作用[4]。砾漠土壤含量稀少、瘠薄，可选择的适应性强的树种少，营林方式不系统，配置模式过于单一，导致植物群落生态效果差[5-7]。因而加快砾漠区防护绿地配置模式研究，使其最大限度发挥生态效果，探寻植物群落优化配置工作迫在眉睫。
+
+砾漠区防护绿地主要功能需求是实现植物群落生态效果最大化[8]。植物群落配置合理性是影响防护绿地生态系统健康稳定发展的关键，植物配置越合理,植物群落生态效果越优[9]。通过优化植物配置可以增加防护绿地植物群落结构稳定性，提高城市人居环境质量[10]。目前,植物群落配置研究主要是以城市绿地斑块为单位，对不同类型绿地植物群落的结构特征、调节气候能力、景观美学进行差异比较和定量分析[1I-13],进而提出相应的优化配置模式。然而关于砾漠区虽然从植物物种适应性[14]群落多样性等[15]单一方面进行了研究，但对植物群落配置模式从整体上涵盖群落结构、生态功能、景观等多维度的生态效果评价研究较少。
+
+乌鲁木齐南部冲积扇砾漠区防护绿地经过7a生长期后形成了相对稳定的人工-自然复合植物群落，本文以不同人工-自然复合植物群落配置模式为研究对象，对其生态效果进行综合定量评价和排序，按照植物群落生态效果相似性和景观功能需求进行多样化扩展分析，提出生态效果良好的植物群落优化配置模式，为干旱砾漠区防护绿地建设提供理论依据和技术支撑。
+
+# 1研究区概况
+
+研究区位于乌鲁木齐市南郊冲积扇砾漠区，地理位置为 $8 7 ^ { \circ } 2 8 ^ { \prime } { \sim } 8 7 ^ { \circ } 3 1 ^ { \prime } \mathrm { E }$ . $4 3 ^ { \circ } 3 2 ^ { \prime } { \sim } 4 3 ^ { \circ } 3 7 ^ { \prime } \mathrm { N }$ ，面积$3 4 0 0 \mathrm { { h m } } ^ { 2 }$ ,海拔 $1 2 0 0 \mathrm { m }$ 左右。属温带大陆性气候,年均气温为 $4 \mathrm { { ^ circ C } }$ ,年均降水量在 $1 5 0 { \sim } 2 0 0 ~ \mathrm { m m }$ 之间，年均蒸发量 $2 6 1 6 ~ \mathrm { m m }$ 。土壤类型为灰棕漠土。植被稀疏，盖度不到 $5 \%$ ,地带性植被以旱生稀疏灌木荒漠植被为主,植物物种主要有荒漠锦鸡儿(Caraganaroborovskyi）、白滨藜（Atriplexcana）、盐生假木贼（Anabasis salsa）、粉苞菊（Chondrilla piptocoma）、伊犁绢蒿(Seriphidiumtransiliense）,类短命和短命植物较少。
+
+防护绿地于2012年开始进行绿化，人工绿化以乔木为主，部分乔木林间植灌木，主要物种有樟子松（Pinus sylvestris var.mongolica）、白榆(Ulmus pumi-la）沙枣(Elaeagnus angustifolia）苹果(Malus pumi-la）、五角枫(Acer pictum subsp.mono）紫穗槐(Amor-phafruticosa）紫丁香(Syringaoblata)等。防护绿地人工植物群落有纯林、混交林配置类型，均以固定株行距 $( 3 { \sim } 4 \mathrm { m } { \times } 3 { \sim } 4 \mathrm { m } )$ 方式列植。林带灌溉方式统一为滴灌，每年5—9月进行灌溉，灌溉周期为7\~10d,年灌溉量为 $3 0 0 \mathrm { m } ^ { 3 } { \cdot } ( 6 6 7 \mathrm { m } ) ^ { - 2 }$ 。
+
+# 2研究方法
+
+# 2.1样地设置与调查
+
+研究区地处冲积扇砾漠区防护绿地，立地环境条件基本一致。在这一区域成林效果明显的种植配置有纯林、混交林27种模式，这27种林地经过7a的生长期后形成了相对稳定的人工-自然复合植物群落配置类型(表1)，2019年6一7月对每一种植物群落配置类型采用典型样地法进行植被调查，每个样地内设置6个乔木样方，6个灌木样方，6个草本样方。乔木样方大小 $1 0 \mathrm { ~ m ~ } \times 1 0 \mathrm { ~ m ~ }$ ,灌木样方 $5 \mathrm { m } \times \mathrm { \Omega }$
+
+表1不同植物群落配置样地概况  
+Tab.1 Overview of plots with different plant community allocations   
+
+<html><body><table><tr><td>群落结构</td><td>样地号</td><td>群落主要种类</td></tr><tr><td>乔灌草</td><td>1</td><td>白榆+大叶榆（Ulmus laevis)-紫枝玫瑰(Rose rugose‘purple branch')-准噶尔铁线莲(Clematis songorica)+粉苞菊</td></tr><tr><td></td><td>2</td><td>白榆+大叶榆-金露梅(Potentilla fruticosa)-粉苞菊</td></tr><tr><td></td><td>3</td><td>白榆+沙枣-榆叶梅(Amygdalus triloba)-粉苞菊+伊犁绢蒿</td></tr><tr><td></td><td>4</td><td>白榆+中华金叶榆(Ulmus pumila‘jinye')-紫穗槐+白滨藜-粉苞菊+囊果臺草(Carex physodes)</td></tr><tr><td></td><td>5</td><td>白榆+裂叶榆(Ulmus laciniata)-毛樱桃(Cerasus tomentosa)-囊果臺草+顶羽菊(Rhaponticum repens）</td></tr><tr><td></td><td>6</td><td>白榆+大叶白蜡(Fraxinus rhynchophylla)-毛樱桃-蓝亚麻(Linum perenne)+伊犁绢蒿</td></tr><tr><td></td><td>7</td><td>红叶海棠（Malus yunnanensis var.veitchi)+黄果山楂(Crataegus chlorocarpa)-月季(Rosa chinensis）-马(Iris lac tea)+蓝亚麻</td></tr><tr><td></td><td>8</td><td>小叶白蜡(Fraxinus sogdiana)-紫枝玫瑰-粉苞菊+顶羽菊</td></tr><tr><td></td><td>9</td><td>大叶榆-紫枝玫瑰+白滨藜-粉苞菊</td></tr><tr><td></td><td>10</td><td>白榆-黄刺玫(Rosa xanthina)-蓝亚麻+粉苞菊</td></tr><tr><td></td><td>11</td><td>白柳(Salixalba)-珍珠梅(Sorbaria sorbifolia)-顶羽菊+准噶尔铁线莲</td></tr><tr><td></td><td>12</td><td>白榆-紫穗槐+白滨藜-伊犁绢蒿</td></tr><tr><td></td><td>13</td><td>大叶榆-红瑞木(Cornusalba)+白滨藜-伊犁绢蒿</td></tr><tr><td></td><td>14</td><td>裂叶榆-中亚沙棘(Hippophae rhamnoides subsp.turkestanica)-粉苞菊+顶羽菊</td></tr><tr><td></td><td>15</td><td>白榆-中亚沙棘-粉苞菊+铁线莲</td></tr><tr><td></td><td>16</td><td>白榆-紫丁香+白滨藜-伊犁绢蒿+准噶尔铁线莲</td></tr><tr><td></td><td>17</td><td>樟子松-白滨藜-粉苞菊+伊犁绢蒿</td></tr><tr><td></td><td>18</td><td>苹果-白滨藜-粉苞菊+顶羽菊</td></tr><tr><td></td><td>19</td><td>沙枣-白滨藜-粉苞菊</td></tr><tr><td></td><td>20</td><td>复叶槭(Acer negundo)-白滨藜—伊犁绢蒿</td></tr><tr><td>乔草</td><td>21</td><td>五角枫-拂子茅(Calamagrostis epigeios)</td></tr><tr><td></td><td>22</td><td>白榆-粉苞菊+伊犁绢蒿</td></tr><tr><td></td><td>23</td><td>山桃(Amygdalus davidiana)-粉苞菊+铁线莲+盐生假木贼</td></tr><tr><td></td><td>24</td><td>火炬树(Rhus typhina)-粉苞菊+盐生假木贼</td></tr><tr><td></td><td>25</td><td>卫矛（Euonymus alatus)-粉苞菊</td></tr><tr><td>灌草</td><td>26</td><td>紫穗槐+白滨藜-顶羽菊+伊犁绢蒿</td></tr><tr><td></td><td>27</td><td>中亚沙棘+荒漠锦鸡儿-伊犁绢蒿+大籽蒿(Artemisia sieversiana)</td></tr></table></body></html>
+
+$5 \mathrm { m }$ ,草本样方 $1 \mathrm { m } \times 1 \mathrm { m }$ 。按照植被生态学野外调查方法记录样方内的植物种类、株数、株高、枝下高、冠幅及盖度。
+
+# 2.2评价指标体系的构建和权重确定
+
+植物群落评价主要受到自然、社会、经济等因素的影响，因此，遵循“系统性、科学性、可行性、目标导向性"原则[17],结合频度分析法和专家咨询，在绿地功能需求分析的基础上，选取了14个评价指标，构建植物群落生态效果综合评价体系。参考《城市园林绿化评价标准》（GB/T50563-2010），以及借鉴其他学者相关研究[18-19],确定各指标的分级标准和取值范围。
+
+利用层次分析法确定权重。根据1\~9比例标度法将每个层次的指标两两比较，建立判断矩阵；判断矩阵经过归一化处理后获得权重，计算出矩阵最大特征根及特征向量；最后进行层次单排序和总排序的一致性检验，合格就得到各指标的最终组合权重[20](表2)[21-22]。由权重结果可得,三维绿量权重值最高，它是反映绿地生态系统生态效益的原始指标[]。其次是植物生长状况,是表征植被基本情况的直观量化指标，植物生长状况越好，植物适应性越强，反之则差。第三位植被覆盖率是体现群落结构合理性、群落自身质量综合指标[17]。其他指标的权重值不相同，在群落生态效果综合评价过程中也具有不同重要性。
+
+# 2.3评价指标与等级的模糊关系矩阵
+
+采用模糊综合评价法对植物群落生态效果的优劣进行评价。基本模型为 $B { = } A \cdot R ^ { \left[ 2 0 , 2 3 \right] } ,$ $B$ 为模糊综合评价结果向量； $A$ 为评价指标权重向量； $R$ 为各层次的隶属度矩阵。定性指标 $C _ { 1 } , C _ { 2 } , \cdots , C _ { 1 2 }$ 隶属度采用百分比统计法，其他定量指标隶属度采用降半梯形分布函数法[24]，得到准则层隶属度矩阵（表3)。将评语集进行等级赋值 $\alpha _ { j } { = } \{ 5 , 3 , 1 \} ( j { = } 1 , 2 , \cdots$ $n$ ),计算各层评价指数： $Y ^ { \prime } = \sum _ { j = 1 } ^ { 3 } b _ { j } \alpha _ { j } / \sum _ { j = 1 } ^ { 3 } b _ { j }$ ,式中： $Y ^ { \prime }$ 为各层的评价指数； $b _ { j }$ 为各评价等级； $\alpha _ { j }$ 为各等级的赋值，最后将各层评价指数进行加权平均，算出植物群落生态效果综合评价值，该值是反映植物群落生态效果的综合性指标，分值越大表示植物群落生态效果表现越好。由表3可得，不同样地的准则层指标对评价等级的隶属度不同，准则层指标对良好隶属度越大，样地的综合评分值越高。
+
+表2植物群落生态效果综合评价体系及权重  
+Tab.2 Comprehensive evaluation system and weight of ecological effect of plant communities   
+
+<html><body><table><tr><td rowspan="2">目标层</td><td rowspan="2">准则层 及权重</td><td rowspan="2">指标层</td><td colspan="3">指标分级标准</td><td rowspan="2">指标层权重</td></tr><tr><td>良好</td><td>一般</td><td>差</td></tr><tr><td rowspan="18">植物群落 生态效果 综合评价A</td><td>植物适应性Bi 0.27</td><td>植物生长状况Ci</td><td>树冠没有缺损, 叶色正常</td><td>部分树冠缺损, 叶色基本正常</td><td>树冠缺损较 大，</td><td>0.20</td></tr><tr><td></td><td>病虫害发生状况C2</td><td>零星发生</td><td>局部发生</td><td>严重发生</td><td>0.07</td></tr><tr><td>群落结构B2 0.22</td><td>植被覆盖率C3</td><td>≥0.4</td><td>0.2~0.4</td><td>≤0.2</td><td>0.11</td></tr><tr><td></td><td>群落密度C4/(株·hm-2)</td><td>500~1500, 均匀分布</td><td>≥ 1500 群落纷杂</td><td>≤500, 群落稀疏</td><td>0.03</td></tr><tr><td></td><td>乔灌比例C5</td><td>乔灌草三层, 乔灌比>1:1.5</td><td>乔灌草二层, 1:1~1:1.5</td><td>乔灌草二层, ≤1:1</td><td>0.02</td></tr><tr><td></td><td>乔灌木更替幼苗数C[21] /(株·hm-2)</td><td>≥ 5000</td><td>2000~5000</td><td>≤2000</td><td>0.05</td></tr><tr><td>生态功能B 0.37</td><td>三维绿量C[22(m·m2)</td><td>≥2</td><td>0.5~2</td><td>≤0.5</td><td>0.27</td></tr><tr><td rowspan="5">景观功能B4 0.09</td><td>植物群落多样性C8</td><td>≥2</td><td>1~2</td><td>≤1</td><td>0.05</td></tr><tr><td>群落物种丰富度C/种</td><td>≥20</td><td>10~20</td><td>≤10</td><td>0.05</td></tr><tr><td>景观地域性C10</td><td>乡土物种比例 ≥ 60%</td><td>30%~60%</td><td>≤30%</td><td>0.06</td></tr><tr><td>植被观赏特性Cu</td><td>有4种及以上观 赏类型</td><td>有2~3种</td><td>有1种</td><td>0.02</td></tr><tr><td>色调对比状况C12</td><td>浓绿,层次分明， 季相变化明显</td><td>淡绿,不分明, 有季相变化</td><td>暗绿,不分明,</td><td>0.02</td></tr><tr><td rowspan="2">经济成本B5 0.05</td><td>种植成本C13/(元·m2)</td><td>≤40</td><td>40~100</td><td>无季相变化 ≥100</td><td>0.01</td></tr><tr><td>管护成本C14/(元·m2)</td><td>≤30</td><td>30~60</td><td>≥60</td><td>0.04</td></tr></table></body></html>
+
+表3植物群落生态效果综合评价隶属度矩阵  
+Tab.3Membership matrix for comprehensive evaluation of ecological effect of plant communities   
+
+<html><body><table><tr><td colspan="3">地号准则层</td><td colspan="2">隶属度</td><td colspan="2"></td><td colspan="2">隶属度</td><td colspan="2"></td><td rowspan="2"></td><td colspan="3">隶属度</td></tr><tr><td colspan="2"></td><td>良好</td><td>一般</td><td>差</td><td>样地号准则层</td><td></td><td>良好</td><td>一般 差</td><td></td><td>样地号准则层</td><td>良好</td><td>一般 差</td></tr><tr><td>1</td><td>B B</td><td>0.85</td><td>0.15</td><td>0.00</td><td>10</td><td>B</td><td>0.85</td><td>0.15</td><td>0.00</td><td>19</td><td>B</td><td>0.78</td><td>0.23</td><td>0.00</td></tr><tr><td colspan="3"></td><td>0.26 0.56</td><td></td><td></td><td>B</td><td>0.33</td><td>0.50</td><td>0.17</td><td></td><td>B</td><td>0.26</td><td>0.53</td><td>0.21</td></tr><tr><td colspan="3"></td><td>0.02</td><td>0.75</td><td>0.18 0.24</td><td>B</td><td>0.00</td><td>0.71</td><td>0.29</td><td></td><td>B</td><td>0.50</td><td>0.50</td><td>0.00</td></tr><tr><td colspan="3"></td><td>1.00</td><td>0.00</td><td>0.00</td><td>B4</td><td>0.60</td><td>0.40</td><td>0.00</td><td></td><td>B</td><td>0.60</td><td>0.40 0.00</td></tr><tr><td colspan="3">2</td><td>0.25 0.75</td><td>0.00</td><td></td><td>B5</td><td>0.25</td><td>0.75 0.00</td><td></td><td>B5</td><td>0.00</td><td>1.00</td><td>0.00</td></tr><tr><td colspan="3"></td><td>0.73 0.28</td><td></td><td>11</td><td>B1</td><td>0.33</td><td>0.68</td><td>0.00 20</td><td>B1</td><td>0.00</td><td>1.00</td><td>0.00</td></tr><tr><td colspan="3"></td><td>0.56</td><td>0.00 0.18</td><td></td><td>B</td><td>0.02</td><td>0.44 0.53</td><td></td><td>B</td><td>0.16</td><td>0.70</td><td>0.15</td></tr><tr><td colspan="3"></td><td>0.26 0.00</td><td></td><td></td><td>B</td><td>0.00</td><td>0.36</td><td>0.64</td><td>B</td><td>0.00</td><td>0.50</td><td>0.50</td></tr><tr><td colspan="3"></td><td>0.65</td><td>0.35</td><td></td><td>B4</td><td>0.60</td><td>0.40</td><td>0.00</td><td>B</td><td>0.60</td><td>0.00</td><td>0.40</td></tr><tr><td colspan="3"></td><td>0.72 0.28</td><td>0.00</td><td></td><td>B</td><td>0.00</td><td>1.00 0.00</td><td></td><td>B5</td><td>0.00</td><td>1.00</td><td>0.00</td></tr><tr><td colspan="3">3</td><td>0.25 0.75</td><td>0.00</td><td></td><td>B1</td><td>0.40</td><td>0.60 0.00</td><td>21</td><td></td><td></td><td></td><td></td></tr><tr><td colspan="3"></td><td>0.80 0.20</td><td>0.00</td><td>12</td><td></td><td>0.12</td><td></td><td></td><td>B1</td><td>0.00</td><td>0.85</td><td>0.15</td></tr><tr><td colspan="3"></td><td>0.36 0.58</td><td>0.06</td><td></td><td>B</td><td></td><td>0.59</td><td>0.29</td><td>B</td><td>0.16</td><td>0.64</td><td>0.20</td></tr><tr><td colspan="3"></td><td>0.17 0.69</td><td>0.14</td><td></td><td>B</td><td>0.00</td><td>1.00</td><td>0.00</td><td>B</td><td>0.00</td><td>0.14</td><td>0.86</td></tr><tr><td colspan="3">4</td><td>0.80 0.20</td><td>0.00</td><td></td><td>B4</td><td>0.60</td><td>0.40</td><td>0.00</td><td>B</td><td>0.60</td><td>0.20</td><td>0.20</td></tr><tr><td colspan="3"></td><td>0.20 0.80</td><td>0.00</td><td></td><td>B5</td><td>0.25</td><td>0.75 0.00</td><td></td><td>B5</td><td>0.00</td><td>1.00</td><td>0.00</td></tr><tr><td colspan="3"></td><td>0.15 0.63</td><td>0.23</td><td>13</td><td>B1</td><td>0.78</td><td>0.23 0.00</td><td>22</td><td>B1</td><td>0.93</td><td>0.08</td><td>0.00</td></tr><tr><td colspan="3"></td><td>0.19 0.40</td><td>0.41</td><td></td><td>B</td><td>0.09</td><td>0.58</td><td>0.34</td><td>B</td><td>0.37</td><td>0.58</td><td>0.05</td></tr><tr><td colspan="3"></td><td>0.00 0.60</td><td>0.40</td><td></td><td>B</td><td>0.00</td><td>1.00</td><td>0.00</td><td>B</td><td>0.00</td><td>1.00</td><td>0.00</td></tr><tr><td colspan="3"></td><td>0.60 0.40</td><td>0.00</td><td></td><td>B4</td><td>0.60</td><td>0.40 0.00</td><td></td><td>B4</td><td>0.60</td><td>0.40</td><td>0.00</td></tr><tr><td colspan="3">5</td><td>0.25 0.75</td><td>0.00</td><td></td><td>B5</td><td>0.25</td><td>0.75 0.00</td><td></td><td>B5</td><td>0.25</td><td>0.75</td><td>0.00</td></tr><tr><td colspan="3"></td><td>0.45</td><td>0.00</td><td>14</td><td>B1</td><td>0.78</td><td>0.23 0.00</td><td>23</td><td>B</td><td>0.00</td><td>1.00</td><td>0.00</td></tr><tr><td colspan="3">B B B4</td><td>0.77</td><td>0.08</td><td></td><td>B</td><td>0.75</td><td>0.20 0.05</td><td></td><td>B</td><td>0.16</td><td>0.11</td><td>0.73</td></tr><tr><td colspan="3"></td><td>0.16 0.00 0.86</td><td>0.14</td><td></td><td>B</td><td>0.14</td><td>0.86</td><td>0.00</td><td>B</td><td>0.00</td><td>0.29</td><td>0.71</td></tr><tr><td colspan="3"></td><td>0.80 0.20</td><td>0.00</td><td></td><td>B4</td><td>0.80</td><td>0.20</td><td>0.00</td><td>B4</td><td>0.60</td><td>0.40</td><td>0.00</td></tr><tr><td colspan="3">6</td><td>0.75</td><td>0.00</td><td></td><td>B5</td><td>0.00</td><td>1.00</td><td>0.00</td><td>B5</td><td>1.00</td><td>0.00</td><td>0.00</td></tr><tr><td colspan="3"></td><td>0.60</td><td>0.00</td><td>15</td><td>B</td></table></body></html>
+
+# 3结果与分析
+
+# 3.1植物群落生态效果综合评价
+
+植物群落综合评价对于提高绿地质量及生态效果良好发挥具有重要意义[10]。根据评价因子权重和分级标准，得到27个植物群落的综合评分及排序(表4)。不同的植物群落配置模式生态效果存在差异。样地14、样地15、样地17、样地19植物群落生态效果评价中对良好的隶属度最大，综合评分值约为4.0,表明这些群落配置模式具有显著的绿量优势，其他指标也保持较高水平。样地7、样地18、样地24、样地25的评价中对差的隶属度最大，评分值约为2.2,在三维绿量、植被盖度上表现较差，这些群落的树种大部分属于干旱区绿洲适宜植物，在砾漠区适应能力弱[25]。其余19个植物群落生态效果评价中对一般的隶属度最大，其结构有乔灌草型、乔草型或灌草型，根据评价结果对群落结构可以进行针对性优化。
+
+# 3.2植物群落优化配置模式
+
+根据评价排序结果，将综合评分最高的样地17的植物群落生态效果作为优化配置模式目标，前4位的群落均达到85分以上["（以19号群落计，3.92/$4 . 4 6 \times 1 0 0 { = } 8 7 . 8 9$ )，已具备良好的生态效果，可以作为干旱砾漠区防护绿地植物群落优化配置模式（表5)。优化配置模式中，群落结构为乔灌草型，樟子松、白榆、裂叶榆、沙枣，中亚沙棘等树种是干旱荒漠区常见的绿化树种，在本地生长良好，可以作为优选树种。白滨藜是干旱区典型建群种，具有强耐旱耐盐特性[26]。草本层均为自然植被，对当地自然环境和不同植物群落配置模式林分空间具有良好适应能力，是构成群落多样性的重要组分[27]。
+
+Tab.4 Comprehensive evaluation result of ecological effect of plant communities   
+
+<html><body><table><tr><td rowspan="2">序号</td><td rowspan="2">样地号</td><td colspan="3">模糊综合评价</td><td rowspan="2">综合评分</td><td rowspan="2">序号</td><td rowspan="2">样地号</td><td colspan="3">模糊综合评价</td><td rowspan="2">综合评分</td></tr><tr><td>良好</td><td>一般</td><td>差</td><td>良好</td><td>一般</td><td>差</td></tr><tr><td>1</td><td>样地17</td><td>0.81</td><td>0.11</td><td>0.08</td><td>4.46</td><td>15</td><td>样地6</td><td>0.20</td><td>0.62</td><td>0.18</td><td>3.05</td></tr><tr><td>2</td><td>样地15</td><td>0.53</td><td>0.47</td><td>0.00</td><td>4.04</td><td>16</td><td>样地8</td><td>0.16</td><td>0.67</td><td>0.16</td><td>3.00</td></tr><tr><td>3</td><td>样地14</td><td>0.50</td><td>0.49</td><td>0.01</td><td>3.98</td><td>17</td><td>样地27</td><td>0.16</td><td>0.66</td><td>0.19</td><td>2.94</td></tr><tr><td>4</td><td>样地19</td><td>0.51</td><td>0.45</td><td>0.05</td><td>3.92</td><td>18</td><td>样地20</td><td>0.09</td><td>0.65</td><td>0.26</td><td>2.67</td></tr><tr><td>5</td><td>样地22</td><td>0.40</td><td>0.59</td><td>0.01</td><td>3.77</td><td>19</td><td>样地11</td><td>0.15</td><td>0.50</td><td>0.36</td><td>2.58</td></tr><tr><td>6</td><td>样地16</td><td>0.39</td><td>0.60</td><td>0.01</td><td>3.75</td><td>20</td><td>样地26</td><td>0.12</td><td>0.52</td><td>0.35</td><td>2.54</td></tr><tr><td>7</td><td>样地3</td><td>0.44</td><td>0.49</td><td>0.07</td><td>3.75</td><td>21</td><td>样地4</td><td>0.10</td><td>0.58</td><td>0.33</td><td>2.54</td></tr><tr><td>8</td><td>样地1</td><td>0.40</td><td>0.48</td><td>0.13</td><td>3.57</td><td>22</td><td>样地23</td><td>0.14</td><td>0.48</td><td>0.38</td><td>2.52</td></tr><tr><td>9</td><td>样地10</td><td>0.37</td><td>0.49</td><td>0.14</td><td>3.45</td><td>23</td><td>样地21</td><td>0.09</td><td>0.49</td><td>0.42</td><td>2.34</td></tr><tr><td>10</td><td>样地13</td><td>0.29</td><td>0.63</td><td>0.07</td><td>3.44</td><td>24</td><td>样地7</td><td>0.11</td><td>0.43</td><td>0.46</td><td>2.31</td></tr><tr><td>11</td><td>样地9</td><td>0.29</td><td>0.64</td><td>0.07</td><td>3.43</td><td>25</td><td>样地25</td><td>0.14</td><td>0.37</td><td>0.49</td><td>2.31</td></tr><tr><td>12</td><td>样地5</td><td>0.27</td><td>0.66</td><td>0.07</td><td>3.39</td><td>26</td><td>样地18</td><td>0.14</td><td>0.32</td><td>0.54</td><td>2.21</td></tr><tr><td>13</td><td>样地2</td><td>0.33</td><td>0.50</td><td>0.17</td><td>3.33</td><td>27</td><td>样地24</td><td>0.07</td><td>0.38</td><td>0.55</td><td>2.04</td></tr><tr><td>14</td><td>样地12</td><td>0.20</td><td>0.74</td><td>0.06</td><td>3.28</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 表5植物群落优化配置模式
+
+表4植物群落生态效果综合评价结果  
+Tab.5 Optimal allocation modes of plant communities   
+
+<html><body><table><tr><td>样地号</td><td>植物群落优化配置类型</td><td>优化配置种植模式</td></tr><tr><td>样地17</td><td>樟子松-白滨藜-粉苞菊+伊犁绢蒿</td><td>纯林种植,株行距3m×3m</td></tr><tr><td>样地15</td><td>白榆-中亚沙棘-粉苞菊+准噶尔铁线莲</td><td>行列式混交，白榆与中亚沙棘1:1种植，株行距3mX4m</td></tr><tr><td>样地14</td><td>裂叶榆-中亚沙棘-粉苞菊+顶羽菊</td><td>行列式混交,裂叶榆与中亚沙棘1:1种植,株行距3mX4m</td></tr><tr><td>样地19</td><td>沙枣-白滨藜-粉苞菊</td><td>纯林种植,株行距3m×4 m</td></tr></table></body></html>
+
+# 4讨论
+
+本研究中提出的4种植物群落优化配置模式均为乔灌草型，复层群落结构遵循生态位原理，实现对光照、养分等资源利用最大化，有效提升绿地绿量和生态效果。多种植物群落配置模式，增加植物种类丰富度和物种异质性[28]。优化配置模式中樟子松高度抗旱耐寒、抗风性强，是干旱区防风固沙效果最好的常绿乔木[29]
+
+（1）群落中以榆科榆属类数量最多，榆树喜光，根系发达，耐旱耐瘠薄，沙枣生长快、抗逆性强，对砾漠区生境条件有较高适应性[30],平均冠幅和株高均大于其他树种,所以群落植被盖度高、三维绿量大。中亚沙棘长势良好，成林种植的生态效果高于部分乔灌结构群落，其果实不仅具有高经济价值，也增加群落的观赏性。乌鲁木齐防护绿地物种适应性评价结果显示白榆、裂叶榆、樟子松、沙枣、中亚沙棘适宜能力均为I级[31],表明优化配置中的乔灌木是砾漠区防护绿地的优选绿化植物。林下自然草本层影响乔木幼苗的发生及发育，对乔木层树种更新演替有积极作用[32]。同时，草本层能够增加土壤有机质和营养元素，提高土壤肥力。粉苞菊、顶羽菊、伊犁绢蒿等本地草本植物具有耐寒耐瘠薄特性，对砾漠区灰棕漠土壤适应性强，也反映出研究区生境条件恶劣的特点[33]
+
+(2）除了提出的优化配置模式中的物种，基于植物群落生态效果相性和景观功能需求，对优化配置模式进行多样化扩展。以樟子松一白滨藜一粉苞菊 $^ +$ 伊犁绢蒿群落作为生态效果优化目标，综合评分前8位的植物群落均达到80分以上，从这些群落中选择生长健康的物种进行优化组合。乔木大叶榆，灌木紫枝玫瑰、榆叶梅、紫丁香的长势良好，可以根据防护绿地的不同配置需求选择这些物种进行搭配。已有研究表明，樟子松人工纯林在30a会发生退化，同时林地的土壤养分也会下降，需要通过后期抚育间伐，种植混交林防止樟子松林衰退[34],并且混交乔木林绿量高于乔灌草复层结构[35]。在防护绿地林带内部以常绿乔木樟子松为优势种，与榆树行间混交，常绿与落叶乔木个体数以1:6比例搭配[36],增加群落物种丰富度，提高季相变化景观。混交林中根据树种不同生态幅进行间植，充分利用光热、水分，也能防治病虫害发生和蔓延[37]防护绿地不仅具备良好的生态效果，也需要起到一定美化作用。在林缘及道路两侧以具观赏性的乔灌群落为主，选择花灌木配置，乔灌以1:1搭配[36]砾漠区环境脆弱，土壤贫瘠，对植物适应性要求高。乡土植物适应能力强，也是形成特色景观的重要载体，模拟地带性优良乡土物种群落配置，能够增加群落稳定性和抗逆性[38]。在调查群落中，排序靠前的白榆-紫丁香、白榆 $^ +$ 大叶榆-紫枝玫瑰、白榆 $^ +$ 沙枣-榆叶梅等群落均以乡土物种为主，适应性好，区域景观功能特征鲜明，可以直接应用在林缘或道路两侧。
+
+(3）防护绿地人工种植群落在7a的生长期中，一部分自然草本(如粉苞菊、顶羽菊、伊犁绢蒿)对当地自然环境和人工种植林分空间具有良好适应能力，侵入人工林下定居，发展为新片层，另一部分自然草本不适宜人工林地环境会退去，最终形成了现有的稳定的人工-自然复合植物群落。林下自然草本作为恢复地力的主导因子，对维护防护绿地人工林的健康十分重要[39],因此在其他环境条件相似的防护绿地生态建设中可以考虑人工补种草本。
+
+提出的植物群落优化配置模式均由三维绿量大、盖度高、适应强的乔灌木和自然草本组成。充分利用乡土树种和自然草本，根据树种比例合理安排群落结构，最终实现砾漠区防护绿地植物群落生态效果最大化。
+
+# 5结论
+
+（1）建立了人工-自然植物复合植物群落生态效果综合评价体系，结合模糊综合评价，得出樟子松-白滨藜-粉苞菊 $^ +$ 伊犁绢蒿、白榆-中亚沙棘-粉苞菊 $+$ 准噶尔铁线莲、裂叶榆-中亚沙棘-粉苞菊 $^ +$ 顶羽菊、沙枣-白滨藜-粉苞菊等植物群落生态效果表现良好，为干旱砾漠区防护绿地生态建设提供技术支撑。
+
+(2）基于植物群落生态效果相似和增加物种丰富度，在林带内部种植乔木混交林，物种选择樟子松、白榆、裂叶榆、大叶榆、沙枣，株行距 $3 \mathrm { m } { \times } 4 \mathrm { m }$ ，常绿与落叶树种以1:6比例搭配。
+
+(3）基于林缘及道路两侧的景观需求，选择配置具观赏性的花灌木，包括中亚沙棘、紫枝玫瑰、榆叶梅、紫丁香。乔灌树种以1:1搭配。直接应用已有的生态效果良好并且地域景观功能鲜明的植物群落配置模式白榆-紫丁香、白榆 $^ +$ 大叶榆-紫枝玫瑰、白榆 $+$ 沙枣-榆叶梅。
+
+# 参考文献(References):
+
+[1]杨发相,桂东伟,岳健,等.干旱区荒漠分类系统探讨——以新 疆为例[J].干旱区资源与环境,2015,29(11):145-151.[Yang Faxiang,Gui Dongwei,Yue Jian,etal.Adiscussiononlaification system of desert in arid land[J]. Journal of Arid Land Resources and Environment,2015,29(11): 145-151.]   
+[2]Hessel R,Reed M S,Geeson N,et al.From framework to action: the desire approach to combat desertification[J].Environmental Management,2014,54(5): 935-950.   
+[3]杜宏茹,刘毅.我国干旱区绿洲城市研究进展[J].地理科学进 展,2005,24(2): 69-79.[Du Hongru, Liu Yi.Progress on the study of oasis cities in arid zone of China[J].Progress in Geography, 2005,24(2): 69-79.]   
+[4]王策,尹林克.干旱区绿洲城市生态绿地防护体系规划布局探 索——以乌鲁木齐市为例[C]/中国公园协会2009年论文集. 北京,2009: 22-27.[Wang Ce, Yin Linke.Planning and layout of ecological green space protection system of oasis cities in arid areas:A case study of Urumqi city[C]//Proceedings of China Park Association in 2009. Beijing,2009: 22-27.]   
+[5]宋薇,程平.砾石戈壁区乔木造林技术[J].农村科技,2017(6): 58-59.[Song Wei, Cheng Ping. Afforestation technology of arbor in gravel gobi area[J]. Rural Science & Technology,2017(6): 58- 59.]   
+[6]陈艳瑞,刘康,陈启民,等.准噶尔盆地南缘防护林树种适宜性 评价[J].干旱区资源与环境,2011,25(11):152-156.[Chen Yanrui,Liu Kang,Chen Qimin,et al. Suitability evaluation on trees species of shelter belt on the southern edge of Xinjiang Junggar basin[J]. Journal of Arid Land Resources and Environment,2011,25 (11): 152-156.]   
+[7]昝少平,朱颖,魏月霞.乌鲁木齐市已建园林绿地系统现状及其 特点分析[J].干旱区研究,2006,23(1):177-182.[Zan Shaoping, Zhu Ying,Wei Yuexia.Study on the actuality and characteristics of the built greenbelt systems in Urumqi[J].Arid Zone Research, 2006,23(1): 177-182.]   
+[8]孙化蓉.城市防护绿地的布局与结构[D].南京:南京林业大学, 2006.[Sun Huarong.Layout and Structure of Urban Protection Green Buffer[D].Nanjing: Nanjing Forestry University,2006.]   
+[9]葛佩琳,郭利平,邓伟.城市绿地植物群落优化配置方法初探 [J].林业调查规划,2019,44(2):203-208,215.[Ge Peiling,Guo Liping,Deng Wei.Preliminary study on plant community optimization of urban green space[J].Forest Inventory and Planning,2019, 44(2): 203-208,215.]
+
+[10]毛齐正,罗上华,马克明,等.城市绿地生态评价研究进展[J].生
+
+态学报,2012,32(17): 5589-5600. [Mao Qizheng,Luo Shanghua, Ma Keming,et al. Research advances in ecological assessment of urban green space[J].Acta Ecologica Sinica,2012,32(17): 5589- 5600.]   
+[11]史久西,王小明,阙国宁,等.绍兴市城市森林人工群落配置模 式研究[J].林业科学研究,2005,18(4):398-405.[Shi Jiuxi, Wang Xiaoming,Que Guoning,et al. Study on urban forest community models of Shaoxing city[J]. Forest Research,2005,18(4): 398-405.]   
+[12] 施翌,汤晓敏.上海环城绿带百米林带植物群落综合评价研究 [J].上海交通大学学报(农业科学版),2018,36(5):28-35.[Shi Yi,Tang Xiaomin.Evaluation on plant community in Shanghai 100-meter green belt[J]. Journal of Shanghai Jiaotong University (Agricultural Science Edition),2018,36(5): 28-35.]   
+[13] 宋晨晨,刘时彦,赵娟娟,等.基于功能特征的城市植物群落生 态功能评价[J].生态学杂志,2020,39(2):703-704.[Song Chenchen,Liu Shiyan, Zhao Juanjuan,et al.Evaluation of ecological function for urban plant communities based on functional traits [J.Chinese Journal of Ecology,2020,39(2): 703-704.]   
+[14]韦小霞.乌鲁木齐市东山生态防护林体系建设研究[D].乌鲁木 齐：新疆农业大学,2009.[Wei Xiaoxia.Construction of Ecology Protective Forest System of Dongshan in Urumqi[D]. Urumqi: Xin jiang Agricultural University,2009.]   
+[15]王健铭,王文娟,李景文,等.中国西北荒漠区植物物种丰富度 分布格局及其环境解释[J].生物多样性,2017,25(11):52-61. [Wang Jianming,Wang Wenjuan,Li Jingwen,et al. Biogeographic patterns and environmental interpretation of plant species richness in desert regions of northwest China[J]. Biodiversity Science, 2017, 25(11): 52-61.]   
+[16]董鸣.陆地生物群落调查观测与分析[M].北京:中国标准出版 社,1997.[Dong Ming. Survey,Observation and Analysis of Terres trial Biocommunities[M]. Beijing:Standards Pressof China, 1997.]   
+[17] 刘滨谊,姜允芳.中国城市绿地系统规划评价指标体系的研究 [J].城市规划汇刊,2002(2):27-29,79.[Liu Binyi,Jiang Yunfang.The research onindices systemofthe urban gree space system planning in China[J]. Urban Planning Forum,20O2(2): 27-29,79.]   
+[18] 徐晓红,尹林克,胡秀琴,等.干旱区绿洲城市园林绿地系统健 康的评价方法——以新疆克拉玛依市为例[J].干旱区研究, 2008,25(4): 464-469.[Xu Xiaohong, Yin Linke,Hu Xiuqin, et al. Study on the evaluation methods of the health of green-land system in the oasis cities in arid areas: A case study in Karamay[J]. Arid Zone Research,2008,25(4): 464-469.]   
+[19] 韩轶,李吉跃,高润宏,等.包头市城市绿地现状评价[J].北京林 业大学学报,2005,27(1): 64-69.[Han Yi,Li Jiyue,Gao Runhong,et al.Assessment of current status of the urban forest in Baotou city[J]. Journal of Beijing Forestry University,2O05,27(1): 64-69.]   
+[20] 韩利,梅强,陆玉梅,等.AHP-模糊综合评价方法的分析与研究 [J].中国安全科学学报.2004.14(7):86-89.[Han Li,Mei Oiang. Lu Yumei,et al.Analysis and study on AHP-fuzzy comprehensive evaluation[J]. China Safety Science Journal,2004,14(7): 86-89.]   
+[21] 徐伟,林立,祝浩翔,等.重庆市核心区半自然林地群落物种组 成及其更新演替研究[J].林业调查规划,2016,41(2):23-28. [Xu Wei,LinLi, Zhu Haoxiang,etal.Successonandspeciescomposition ofsemi-naturalforestcommunities incore districtof Chongqing[J].Forest Inventory and Planning,2O16,41(2): 23-28.]   
+[22] 刘常富,何兴元,陈玮,等.沈阳城市森林三维绿量测算[J].北京 林业大学学报,2006,28(3):32-37.[Liu Changfu,He Xingyuan, Chen Wei,et al. Tridimensional green biomass measures of Shenyang urban forests[J]. Journal of Beijing Forestry University, 2006,28(3): 32-37.]   
+[23]杨纶标,高英仪,凌卫新.模糊数学原理及应用[M].广州:华南 理工大学出版社,2O11.[Yang Lunbiao,Gao Yingyi,LingWeixin.Principle and Application of Fuzzy Mathematics[M]. Guangzhou: South China University of Technology Press,2011.]   
+[24] 王举位,张征,闫国振,等.基于AHP-模糊综合评价的中亚沙 棘生态服务功能研究[J].生态科学,2011,30(4):393-398. [Wang Juwei, Zhang Zheng,Yan Guozhen, et al. Ecosystem services of seabuckthorn based on AHP-fuzzy comprehensive evaluation [J]. Ecological Science,2011,30(4): 393-398.]   
+[25] 徐基平,郑路,李艳红,等.克拉玛依城市防护绿地稳定性现状 评价与分析[J].安徽农业科学,2015,43(28):202-205.Xu Jiping, Zheng Lu,Li Yanhong,et al. Evaluation and analysis of urban protective greenbelt stability in Karamay[J]. Journal of Anhui Agricultural Sciences,2015,43(28): 202-205.]   
+[26] 王宇超,王得祥,彭少兵,等.干旱胁迫对木本滨藜生理特性的 影响[J].林业科学,2010,46(1): 64-70.[Wang Yuchao,Wang Dexiang, Peng Shaoping, et al. Effects of drought stress on physiological characteristics of woody saltbush[J]. Scientia Silvae Sinicae,2010,46(1): 64-70.]   
+[27]Lanta V,Hyvonen T,Norrdahl K. Non-native and native shrubs have differing impacts on species diversity and composition of associated plant communities[J]. Plant Ecology,2013,214(12):1517- 1528.   
+[28] 杨洁,谢颂华,喻荣岗,等.红壤侵蚀区水土保持植物配置模式 [J].中国水土保持科学,2010,8(1):40-45,70.[Yang Jie,Xie Songhua, Yu Ronggang,et al. Disposition pattern of soil and water conservation plant in red soil erosion area[J]. Science of Soil and Water Conservation,2010,8(1): 40-45,70.]   
+[29] 王思琪,武曙红,朱晓梅,等.我国樟子松人工林天然更新研究 进展[J].世界林业研究,2018,31(3):58-62.[Wang Siqi,Wu Shuhong, Zhu Xiaomei, etal.Research progressin naturalregeneration of Pinus sylvestris var.mongolica plantation[J].World Forestry Research,2018,31(3): 58-62.] [30]Du Sheng,Li Guoqing,Zhang Xiaoqin. Simulating the potential distribution of Elaeagnus angustifolia L.based on climatic constraints in China[J]. Ecological Engineering,2018,113(3): 27-34. [31]易治伍.乌鲁木齐市园林植物适宜性评价[D].乌鲁木齐:新疆 农业大学,2Oo8.[Yi Zhiwu.Suitability Evaluation of Landscape Plants in Urumqi[D]. Urumqi: Xinjiang Agricultural University,   
+2008.] [32]Gilliam FS.The ecological significance of the herbaceous layer in temperate forest ecosystems[J]. Bioscience,2007,57(10): 845-858. [33] 袁蕾,周华荣,宗召磊,等.乌鲁木齐地区典型灌木群落结构特 征及其多样性研究[J].西北植物学报,2014,34(3):595-603. [Yuan Lei, Zhou Huarong,Zong Zhaolei, et al. Structural characteristics and diversity of typical shrub plant community in the Urumqi region[J].Acta Botanica Boreali-Occidentalia Sinica, 2014,   
+34(3): 595-603.] [34] 张日升,贾树海,徐贵军,等.营林措施对沙地樟子松人工林土 壤养分、酶活性及微生物量碳的影响[J].土壤通报,2011,42 (1): 65-69.[Zhang Risheng,Jia Shuhai,Xu Guijun, et al.Effects of silvicultural measures on soil nutrient,enzyme activity and microbial biomass carbon in Pinus sylvestris var.mongolica plantations in sandy area[J]. Chinese Journal of Soil Science,2011,42 (1): 65-69.] [35] 方敏彦,章明,张德罡.宝钢车间防护绿地不同配置模式环境效 益评价[J].草地学报,2009,17(3):365-370.[Fang Minyan, Zhang Ming,Zhang Degang. Environmental benefit evaluation of different plant allocation patterns in the greening areas surrounding baosteel workshops[J]. Acta Agrestia Sinica,2009,17(3): 365-   
+370.] [36] 古丽巴衣那,王利江.乌鲁木齐市园林树种的调查、评价与规划 [J].中国农学通报,2010,26(18): 128-132.[Gulibanya,Wang Lijiang.Investigation and distribution, planning on the garden trees in Urmqi city[J]. Chinese Agricultural Science Bulltin,2010,26 (18): 128-132.] [37] 赵晨,韩冰,康君.混交林的研究进展分析[J].森林工程,2009,   
+25(2):18-21.[Zhao Chen,Han Bing,Kang Jun. Review on re search progress of mixed forest[J]. Forest Engineering,2009,25 (2): 18-21.] [38] Breuste JH. Decision making, plannng and design for the conservation of indigenous vegetation within urban development[J].Landscape and Urban Planning,2004,68(4): 439-452. [39]张日升,宋鸽.章古台地区樟子松人工林林下草本植物群落动 态[J].水土保持通报,2019,39(1):233-238,243.[Zhang Risheng,Song Ge.Dynamics of herbaceous communities under Pinus Sylvestris var. Mongolica plantations in Zhanggutai area[J]. Bulletin of Soil and Water Conservation,2019,39(1): 233-238,243.]
+
+# Plant community allocation modes of protection greenbelt in an arid gravel desert region
+
+ZHOUJing1,²， YAN Cheng',3， GUO Ruizeng'²， YAN Ziyan4   
+(1.State KeyLaboratory of Desert and Oasis Ecology,Xinjiang Instituteof Ecology and Geography,Chinese   
+Academy of Sciences,Urumqi 830o11, Xinjiang, China; 2. University of Chinese Academy of Sciences,   
+Beijing1OO049,China; 3.National Engineering Technology Research Center for Desert-Oasis Ecological   
+Construction, Xinjiang Institute of Ecologyand Geography,Chinese Academy of Sciences,Urumqi 830011,   
+Xinjiang, China; 4. Collge of Prataculture and Environmental Science,Xinjiang Agricultural University, Urumqi 830011, Xinjiang, China)
+
+Abstract:We investigated 27 diferent plant community allocation modes for a protection greenbelt in the aluvial fan gravel desert area in southern Urumqi.The ecological effcts of different plantcommunity allocation modes were evaluated and ranked using the analytic hierarchy process and fuzzy comprehensive evaluation model. We found that the allocation of several species was beneficial: Pinus sylvestris var. mongolica-Atriplex cana-Chondrilla piptocoma+Seriphidium transiliense,Ulmus pumila-Hippophae rhamnoides-Chondrillapiptocoma $+$ Clematis songorica， Ulmus laciniata- Hippophae rhamnoides- Chondrilla piptocoma $^ +$ Acroptilon repens, and Elaeagnus angustifolia-Atriplex cana-Chondrilla piptocoma.The expansion of these optimal allocation modes was analyzed based on the similarityof ecological effcts of plant communities and landscapes.The allcation modes composed of high tridimensional green biomass,high coverage,and strong adaptability are proposed as being optimal.This study provides a theoretical basis and technical support for the construction of a protection greenbelt in an arid gravel desert region.
+
+Keywords: plant community； ecological efect; optimized allocation mode； gravel desert region; Urumqi

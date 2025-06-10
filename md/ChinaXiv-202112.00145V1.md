@@ -1,0 +1,165 @@
+# 10种金花茶组植物的花粉形态及分类学意义
+
+石思云1，吴雯霏1，崔佳1，张伊伊1，李志辉²，王翊l\*(1．广西大学 林学院，南宁 530001；2.南宁市金花茶公园，南宁 530022)
+
+摘要：金花茶组（Sect.Chrysanthae）植物具有很高的观赏价值，但其分类存在争议。为探讨金花茶组植物花粉的形态特征和分类学意义，该研究用扫描电镜观察了10种金花茶的花粉形状、外壁纹饰以及穿孔特征，统计了极轴、赤道轴和萌发沟长，并进行聚类分析。结果表明：（1）10种供试金花茶植物花粉为中粒花粉，大部分花粉呈近球形，仅有东兴金花茶为扁球形、凹脉金花茶为长球形。花粉的外壁纹饰可以分为脑纹状纹饰、拟网状纹饰和疣状纹饰三类，不同种花粉表面穿孔大小和密度存在明显差异。（2）聚类分析结果显示10 种金花茶可以分为4大类：四季金花茶、中东金花茶、金花茶以及显脉金花茶的花粉形态较为相近；淡黄金花茶、中越山茶、小花金花茶、东兴金花茶的花粉比较相近；而凹脉金花茶和毛瓣金花茶的花粉形态与其他金花茶区别较大。金花茶组植物花粉的外壁纹饰和穿孔状况各异，需结合极轴、赤道轴以及萌发沟长度等特征可区分10种供试金花茶。从孢粉学角度来看，金花茶组植物的花粉具有山茶属植物的一般特征，不具有特异性，该组植物可能不是一个独立类群，但其花粉形态存在明显种间差异，可以作为分类学依据。该研究结果可为金花茶组植物种间分类提供依据。
+
+关键词：金花茶组，扫描电镜，外壁纹饰，花粉形态，分类学中图分类号:Q944.5文献标识码：A 文章编号：
+
+# Pollen morphology and taxonomic significance of ten species
+
+of sect. Chrysanthae
+
+SHI Siyun1,WU Wenfei',CUI Jia', ZHANG Yiyi',LI Zhihui²,WANG ${ \mathrm { Y i ^ { * } } }$ (1. College of Forestry, Guangxi University, Nanning 530001, China; 2. Yellow Camellias Park, Nanning 530022, China)
+
+Abstract : Sect. Chrysanthae have high ornamental value， but their classifications are controversial. In order to study the morphological characteristics and taxonomic significance of pollen in sect. Chrysanthae，we observed morphological shape， exine ornamentations and perforation characteristics of 1O species of sect. Chrysanthae pollen grains by scanning electron microscope,and the polar axis,equatorial axis and germination ditch length were analyzed by cluster.The results were as folows: (1) The pollen of sect. Chrysanthae was single, medium size and most of them were subspherical, only C.indochinensis var. tunghinensis was oblate sphere and $C .$ impressinervis was prolate; The extine ornamentation of pollen could be broadly divided into three types: ornate, verrucate and tuberculate-baculate,and thesize and density of various surface perforation were obviously different. (2） Cluster analysis showed that the pollen morphology of C. perpetua, C. petelotii var. grandiflora， C. petelotii and C. euphlebia were proximity ；C. flavida, C. micrantha and $C$ indochinensis var. Tunghinensis had similar characteristics.However, $C .$ pubipetala and $C .$ impressinervisare were clearly different from the others.The extine ornamentation and perforation of pollen were different, but it was still necessary to combine the polar axis, equatorial axis and the length of germination groove to clearly distinguish the 10 species of sect. Chrysanthae. From the perspective of palynology, the polen of sect. Chrysanthae has the general characteristics of Camellia without specificity,and this group of plants may not be an independent group, but the pollen morphology of this group of plants has obvious inter-specific differences,which can be used as the basis for taxonomy. The results of this study provide the basis for the taxonomic status among species of Camellia.
+
+Key words: Sect. Chrysanthae， scanning electron microscope， exine ornamentation， pollen morphology, taxonomy
+
+金花茶组（Sect.Chrysantha Chang）植物主要分布于广西南宁、崇左及龙洲等地区，越南北部和云南省也有少量分布。自从张宏达教授建立金花茶组以来，不断有新种被报道，现已超过40种（含5个变种）（梁盛业，2007）。关于金花茶组植物是否作为一个独立的分类单元一直存在争议。一方面，金花茶组植物应该独立，这是因为本组植物具有鲜明而独特的黄色花，苞片和萼片等分化明显且该性状受隐性基因控制(张宏达，1979,1996；张宏达和叶创兴，1993)。另一方面，也有分类学家认为金花茶组植物基本分类特征与 J.R.Sealy(1958)建立的古茶组相符，其模式种的标本（C.chrysantha）和（C.nitidissima）分类特征与古茶组模式种（C.petelotii）一致，应将金花茶组并入古茶组(闵天禄和张文驹，1993)。目前《中国植物志》中已将金花茶的拉丁名修订为（C.petelotii），但仍然保留了金花茶组的分类单元，共收录了16种金花茶(张宏达和任善湘，1998)。
+
+然而，由于金花茶组植物缺乏稳定的分类依据，该组植物分类还存在较大的矛盾。传统的分类以金花茶的形态差异为基础，有些种只是个体间的差异也被当作种的标准来描述；还有一些种的生态型或一些具有可变异特征的标本被确立为独立的种。经过形态学分类修订，新种发表、旧种合并产生大量异名。修订后中东金花茶（C.petelotiivar.grandiflora）、小瓣金花茶（C.parvipetala）、东兴金花茶（C.indochinensis var.tunghinensis）等金花茶分类仍存在争议，新发现的四季金花茶（C.perpetua）分类地位不明确。有些学者认为叶片形态特征可以作为金花茶组植物的分类依据（覃冬梅等，2020；朱栗琼等，2021），但从叶片解剖结构来看，只有部分金花茶组植物的表皮细胞和气孔形状特征存在明显差异（陈春如等，2019）。同时，我们前期研究也发现金花茶组植物在相同的环境中花部性状也存在丰富的种内变异（王翊等，2020），可见形态学的分类证据存在一定的局限性。另一方面，基于分子标记技术的分类研究结果往往不能相互印证，不同的分子标记往往得出不同的结论（谭晓风等，2005；肖政等，2014；卢家仕等，2020）。
+
+孢粉学研究在植物分类学方面具有重要的参考价值。花粉形态研究发现同属植物不同种间花粉形态具有一定差异，形态大小、萌发沟以及外壁表面纹饰对种间划分具有重要分类学意义（黄华等，2020；王茜等，2020）。已有研究表明，山茶属花粉形态特征在不同种间变化明显，具有重要的分类学意义（韦仲新，1997；李广清等，2005）。而金花茶组植物种间及变种之间的花粉形态是存在差异的（汪小兰，1985，1986），表现在花粉形态、大小、外壁纹饰和萌发沟等方面（谢永泉和梁盛业，1991)，尤其是外壁纹饰（王任翔等，1997，1998)。花粉外壁纹饰特征可以作为金花茶种属鉴别的重要依据，比如淡黄金花茶属于疣状纹饰类型，柠檬黄金花茶属于脑纹状纹饰类型，它们分属于不同的类型，差别显著，支持把淡黄金花茶和柠檬黄金花茶分属于不同种的观点（倪穗等，2007）。龙州金花茶属于拟网状纹饰类型，薄叶金花茶属于疣状纹饰类型。外壁纹饰特征表明金花茶与平果金花茶、直脉金花茶亲缘关系较远（谭莎等，2016），这可以作为花粉对于分类学具有重要意义的佐证；可见现已有报道研究花粉形态对于金花茶组植物的分类学意义，但利用孢粉学全面系统的对金花茶组植物进行种间分类未见报道。因此，本研究以南宁市金花茶基因库内10种金花茶的花粉为材料，通过扫描电镜观测外壁纹饰及穿孔特点，并分析了它们的大小、形状、萌发沟的差异，根据测量结果进行聚类分析，拟探讨以下问题：（1）通过孢粉学是否能证明金花茶组植物分类是一个独立类群。（2）金花茶组植物花粉特征在种间的分类学意义。（3）四季金花茶的分类地位。
+
+# 1材料与方法
+
+# 1.1 材料
+
+该研究从南宁市金花茶公园国家金花茶种质资源库（东经 $1 0 8 ^ { \circ } 2 1 "$ ，北纬 $2 2 ^ { \circ } 4 9 "$ ）内选取生长状态良好的10种金花茶的花粉作为研究材料，详细资料见表1。
+
+# 表110种供试金花茶组植物信息
+
+Table 1 Information of 10 selected species sect. Chrysanthae   
+
+<html><body><table><tr><td>编号 No.</td><td>种名 Species</td><td>分类特征 Classification features</td><td>花期 Flowering phase</td><td>产地 Place of origin</td><td>凭证号 Voucher</td></tr><tr><td>1</td><td>显脉金花茶 C. euphlebia</td><td>叶片大，叶脉明显 Leaves large, veins obvious</td><td>12月至翌年2月 December to February of the next year</td><td>广西防城和东兴 Fangcheng and Dongxing, Guangxi</td><td>/</td></tr><tr><td>2</td><td>中越山茶 C.indochinensis</td><td>叶片较大，花小，淡黄色 Leaves are large, flowers small and pale yellow</td><td>11—12月 November-December</td><td>广西、贵州及云南 Guangxi, Guizhou and Yunnan</td><td>/</td></tr><tr><td>3</td><td>东兴金花茶 C.1、 indochinensis var.tunghinensis</td><td>叶小，叶面平整，中脉凸起 Leaves small and flat, midrib raised 叶片大，花小，淡黄色，子房被</td><td>2-3月 February-March</td><td>广西龙州弄岗 Nonggang,Longzhou, Guangxi</td><td>/</td></tr><tr><td>4</td><td>小花金花茶 C. micrantha</td><td>灰白色短柔毛 Leaves are large,flowers small and December-January of pale yellow, Ovary covered with grayish white pubescence</td><td>12一翌年1月 the next year</td><td>广西凭祥夏石 Xiashi, Pingxiang, Guangxi</td><td></td></tr><tr><td>5</td><td>毛瓣金花茶 C.pubipetala</td><td>嫩枝、叶、苞片、萼片、花瓣、 花丝、花柱及子房等均被柔毛 Tender branches, leaves, bracts, sepals,petals, filaments, styles and ovary are pubescent</td><td>1-2月 January-February</td><td>广西隆安和大新 Longan and Daxin, Guangxi</td><td>050207</td></tr><tr><td>6</td><td>金花茶 C. petelotii</td><td>花金黄色，花瓣肉质肥厚，有蜡 质光泽 Flowers golden,petals fleshy withNovember-December waxy luster</td><td>11—12月</td><td>广西扶绥 Fusui, Guangxi</td><td>050219</td></tr><tr><td>7</td><td>中东金花茶 C. petelotii var.</td><td>枝叶繁密，叶椭圆形，叶缘近全 缘 Branches and leaves canopies,</td><td>11—12月 Novembe-December</td><td>广西扶绥 Fusui, Guangxi</td><td>93012025</td></tr><tr><td>8</td><td>grandiflora 凹脉金花茶</td><td>Leaves elliptic, nearly entire 叶脉较多，叶片叶脉明显凹陷</td><td>1-2月</td><td>广西龙州和大新</td><td>/</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="3">C.impressinervisLeaf veins numerous,impressed on</td><td>January-February</td><td>Longzhou and Daxin, Guangxi</td></tr><tr><td rowspan="2">9</td><td rowspan="2">四季金花茶 C. perpetua</td><td>surface 花瓣较多，13~16片，花期长</td><td>5-7月</td><td>广西崇左</td></tr><tr><td>Petals13-16,long blooming period</td><td>May-July</td><td>Chongzuo, Guangxi</td></tr><tr><td rowspan="3">10</td><td rowspan="3">淡黄金花茶 C. flavida</td><td>花期较早，花瓣基部具紫红色或 玫瑰色斑块，外面颜色深内面颜</td><td></td><td></td></tr><tr><td>色浅</td><td>6-7月 June-July</td><td>广西宁明和龙州 Ningming and Longzhou,</td></tr><tr><td>Early blooming, petals purple or rose-spotted at the petal bases, dark</td><td></td><td>Guangxi</td></tr></table></body></html>
+
+# 1.2取样和观察
+
+参考刘伟等（2018）方法并做调整，每种金花茶选择3棵15年成年植株，从东西南北四个不同方位分别标记10个待开放的花蕾，于第二天上午10：00—12：00从开放程度一致的花朵中采集新鲜的散粉花药，混合后放入 $2 { \mathrm { m L } }$ 的离心管中带回实验室， $3 7 \mathrm { ~ \textdegree ~ }$ 烘箱干燥$2 4 \mathrm { h }$ 。花粉扫描电镜观察制样时，在解剖镜下用镊子和解剖针将干燥过的花粉均匀撒开在导电橡胶样品平台上，置于速普ISC150离子溅射仪中喷金镀膜，取出样品后在HITACHIS-3400N 电子显微镜下放大800\~8000 倍观察。随机选取20粒花粉，每个样品选有代表性的花粉极轴面、赤道轴面、萌发沟和外壁纹饰进行拍照。
+
+# 1.3数据分析
+
+参考李广清等（2005）方法用ImageJv1.8测量花粉极轴长（polar axis）、赤道轴长（equatori axis）以及萌发沟长（germinal furrow）等花粉形态指标，取最大值、最小值、平均值及标准差表示变化幅度，并观察外壁纹饰和穿孔等特点。Excel2019进行数据统计，PhotoshopCS 6.0 进行图片排版，SPSS 23.0 对花粉的极轴长、赤道轴长以及萌发沟长等指标进行显著性差异分析，采用组间联系方法和欧式距离进行聚类分析。文中术语的描述参考Erdtman（1978）、韦仲新（2003）和Punt等（2007）著作。
+
+# 2结果与分析
+
+# 2.1花粉的形状和大小
+
+极轴长和赤道轴长比值（P/E）通常用于判断花粉形态。由表2可知10种供试金花茶植物的花粉粒极赤比P/E介于 $0 . 8 2 { \sim } 1 . 1 3$ ，花粉的形状可分为：扁球形、近球形和长球形。其中凹脉金花茶的 $\mathrm { P / E } { = } 1 . 4 8$ ，属于长球形，东兴金花茶 $\mathrm { P / E } { = } 0 . 8 2$ ，为扁球形，其余8种金花茶为近球形。10种供试金花茶组植物花粉极面观为三裂近圆形或三裂近三角形（图1：1A-10A），赤道面观多为长椭圆形或近圆形（图1：1B-10B）。
+
+极轴长（P）可以反映花粉的大小。由表2可知10种供试金花茶植物均属于中等大小，极轴平均长度介于 $2 7 . 4 6 { \sim } 4 4 . 5 4 ~ \mu \mathrm { m }$ ，赤道轴平均长度为 $2 8 . 9 6 { \sim } 3 7 . 3 3 ~ { \mu \mathrm { m } }$ 。其中凹脉金花茶的花粉最大（ $\scriptstyle \cdot \mathbf { P = } 4 4 . 5 4 \ \mu \mathrm { m }$ ， $_ { \mathrm { E } = 3 0 . 3 3 ~ \mu \mathrm { m } }$ ），小花金花茶的花粉最小（ $\scriptstyle \mathtt { P = } 2 7 . 4 6 \ \mu \mathrm { m }$ $\scriptstyle \mathrm { E = } 2 9 . 9 6 \ \mu \mathrm { m }$ ）。此外，显脉金花茶、毛瓣金花茶和四季金花茶，金花茶和中东金花茶极轴长度没有显著性差异，而其它5种金花茶的极轴长度均呈显著差异。
+
+# 2.2花粉的萌发沟
+
+参照Erdtman（1978）的NPC分类系统，10 种供试金花茶组植物的花粉应为 $\mathrm { N } _ { 3 } \mathrm { P } _ { 4 } \mathrm { C } _ { 5 }$ 型，即三环孔沟类型（图1）。萌发沟沿着极轴方向分布，赤道中部沟较宽，两端渐尖，常缢缩形成两个半沟，赤道处有均有明显突起物，沟内有颗粒或块状凸起，不同种萌发沟形态不同。其中显脉金花茶和淡黄金花茶萌发沟的赤道处呈半圆形凸起，而其他金花茶花粉的萌发沟赤道处凸起较小且形状各不相同（图1：1C-10C）。毛瓣金花茶萌发沟最长 $\mathrm { G } { = } 4 4 . 4 3 \pm 3 . 4 9 \mu \mathrm { m }$ 小花金花茶最小 $\mathrm { G } { = } 2 0 . 9 8 { \pm } 1 . 1 9 ~ \mu \mathrm { m }$ （表2）。
+
+表 210 种供试金花茶组植物的花粉形态特征比较  
+Table 2Comparison of polln morphological characteristion of 10 selected species sect. Chrysanthae   
+
+<html><body><table><tr><td>种名 Species</td><td>极轴长(P) Polar axis (μm)</td><td>赤道轴长(E) Equatori axis (μm)</td><td>萌发沟长（G) Germinal furrow (μm)</td><td>极轴长/赤道轴长(P/E) Polar axis /equatorial axis</td><td>花粉形状 Polen shape</td></tr><tr><td>显脉金花茶 C. euphlebia</td><td>39.12±1.06 (37.973~41.279) b</td><td>36.71±3.34 (28.34~39.44) a</td><td>40.14±3.35 (35.33~45.84) b</td><td>1.08±0.12 (0.97~1.35) b</td><td>近球形 Subspheroidal</td></tr><tr><td>中越山茶 C. indochinensis</td><td>32.11±3.27 (21.68~37.44) e</td><td>28.96±3.33 (23.48~34.39) d</td><td>27.62±2.57 (21.43~31.41) f</td><td>1.12±0.19 (0.81~1.45) b</td><td>近球形 Subspheroidal</td></tr><tr><td>东兴金花茶 C.indochinensis var. tunghinensis</td><td>29.99±1.29 (27.95~33.34) f</td><td>36.96±3.53 (30.64~43.42) a</td><td>25.40±1.91 (22.26~28.68) g</td><td>0.82±0.09 (0.64~1.02) d</td><td>扁球形 Oblatesphere</td></tr><tr><td>小花金花茶 C. micrantha</td><td>27.46±1.19 (25.37~30.04) g</td><td>29.96±1.76 (26.23~32.93) cd</td><td>20.98±1.19 (19.11~22.71) h</td><td>0.92±0.06 (0.85~1.05) c</td><td>近球形 Subspheroidal</td></tr><tr><td>毛瓣金花茶 C. pubipetala</td><td>39.62±3.84 (31.42~45.99) b</td><td>36.97±5.62 (24.73~51.70) a</td><td>44.43±3.49 (39.09~54.11) a</td><td>1.11±0.21 (0.78~1.71) e</td><td>近球形 Subspheroidal</td></tr><tr><td>金花茶 C. petelotii</td><td>36.43±2.08(39.34~32.08) c</td><td>33.40±3.03(28.66~39.23) b</td><td>36.54±3.62(30.75~41.79) c</td><td>1.11±0.11(0.89~1.27) b</td><td>近球形 Subspheroidal</td></tr><tr><td>C.p东金花 grandiflora</td><td>36.57±1.11 (34.34~38.45) c</td><td>37.33±2.17 (32.50~41.40) a</td><td>29.72±1.73 (26.63~33.42) e</td><td>0.98±0.06 (0.85~1.10) c</td><td>近球形 Subspheroidal</td></tr><tr><td>凹脉金花茶 C. impressinervis</td><td>44.54±2.40 (39.63~48.77) a</td><td>30.33±3.19 (25.73~36.43) cd</td><td>38.78±4.11 (29.87~46.22) b</td><td>1.48±0.17 (1.20~1.78) a</td><td>长球形 Prolate</td></tr><tr><td>四季金花茶 C. perpetua</td><td>40.18±1.50 (37.66~43.62) b</td><td>35.90±3.00(30.10~45.29) a</td><td>32.38±2.09 (28.61~37.29)d</td><td>1.13±0.10 (0.88~1.34) b</td><td>近球形 Subspheroidal</td></tr><tr><td>淡黄金花茶 C. flavida</td><td>34.44±4.61 (28.16~42.17) d</td><td>31.41±3.22 (26.47~37.80) bc</td><td>28.41±3.57 (22.85~35.92) ef</td><td>1.11±0.19 (0.85~1.55) b</td><td>近球形 Subspheroidal</td></tr></table></body></html>
+
+注：不同小写字母表示在0.05 水平差异显著。Note：Lowercase letters indicate significant differences at the O.O5 level.
+
+![](images/fb69a11f17005df4f3b461c8103b7c26c43e8d461c91e40e39b8e27f8166b279.jpg)
+
+1.显脉金花茶；2.中越山茶；3.东兴金花茶；4.小花金花茶；5.毛瓣金花茶；6.金花茶；7.中东金花茶；   
+8.凹脉金花茶；9.四季金花茶；10.淡黄金花茶。A．极面观；B.赤道面观；C．萌发沟；D.外壁纹饰。   
+1.C.euphlebia；2.C.indochinensis；3.C.indochinensisvar.tunghinensis；4.C.micrantha；5.C.pubipetala;   
+6.C.petelotii；7. C.petelotiivar. grandiflora；8.C.impressinervis；9.C.perpetua；10.C.flavida.A.Polar view;   
+B. Equatorial view; C. Germinal furrow; D. Exine ornamentation.
+
+Fig .1Pollen morphology of 10 selected species sect. Chrysanthae   
+表310 种供试金花茶组植物花粉的微观形态特征  
+
+<html><body><table><tr><td>种名 Species</td><td>外壁纹饰 Extine</td><td>穿孔特征 Hole characteristics</td><td>极面观 Polar view</td><td>赤面观 Equatorial</td></tr><tr><td>显脉金花茶</td><td>ornamentation 疣状纹饰</td><td>穿孔小而稀疏</td><td>1</td><td>view 1</td></tr><tr><td>C. euphlebia</td><td>Verrucate</td><td>Holes are small and sparse</td><td></td><td></td></tr><tr><td>中越山茶</td><td>疣状纹饰</td><td>穿孔小而稀疏</td><td>2</td><td>2</td></tr><tr><td>C.indochinensis</td><td>Verrucate</td><td>Holes are small and sparse</td><td></td><td></td></tr><tr><td>东兴金花茶</td><td>疣状纹饰</td><td>穿孔小而稀疏</td><td>2</td><td>1</td></tr><tr><td>C.indochinensis var.</td><td>Verrucate</td><td>Holes are small and sparse</td><td></td><td></td></tr><tr><td>tunghinensis</td><td></td><td></td><td></td><td></td></tr><tr><td>小花金花茶</td><td>疣状纹饰</td><td>穿孔小而密集</td><td>2</td><td>1</td></tr><tr><td>C.micrantha</td><td>Verrucate</td><td>Holes are small and dense</td><td></td><td></td></tr><tr><td>毛瓣金花茶</td><td>拟网状纹饰</td><td>穿孔大而密集</td><td>1</td><td>2</td></tr><tr><td>C. pubipetala</td><td>Ornate</td><td>Holes are large and dense</td><td></td><td></td></tr><tr><td>金花茶</td><td>拟网状纹饰</td><td>穿孔大而密集</td><td>1</td><td>2</td></tr><tr><td>C. petelotii</td><td>Ornate</td><td>Holes are large and dense</td><td></td><td></td></tr><tr><td>中东金花茶</td><td>拟网状纹饰</td><td>穿孔小而密集</td><td>2</td><td>1</td></tr><tr><td>C. petelotii var.</td><td>Ornate</td><td>Holes are small and dense</td><td></td><td></td></tr><tr><td>grandiflora</td><td></td><td></td><td></td><td></td></tr><tr><td>凹脉金花茶</td><td>脑纹状纹饰</td><td>穿孔大而密集</td><td>2</td><td>2</td></tr><tr><td>C.impressinervis</td><td>Tuberculate-baculate</td><td>Holes are large and dense</td><td></td><td></td></tr><tr><td>四季金花茶</td><td>脑纹状纹饰</td><td>穿孔小而稀疏</td><td>1</td><td>2</td></tr><tr><td>C. perpetua</td><td>Tuberculate-baculate</td><td>Holes are small and sparse</td><td></td><td></td></tr><tr><td>淡黄金花茶</td><td>脑纹状纹饰</td><td>穿孔大而稀疏</td><td>1</td><td>2</td></tr><tr><td>C. flavida</td><td>Tuberculate-baculate</td><td>Holes are large and sparse</td><td></td><td></td></tr></table></body></html>
+
+注：极面观1.三裂近圆形；2.三裂近三角形。赤道面观1.近圆形；2.长椭圆形。 Note: Polar view1. Three split sub circle; 2.Three split sub triangle.Equatorial view1.Near circle; 2. Long ellipse.
+
+# 2.3花粉的外壁纹饰和穿孔特征
+
+外壁纹饰是区分花粉形态最重要特征之一。通过扫描电镜观察发现10种供试金花茶花粉的外壁纹饰可以大致分为三类（图2）：疣状纹饰（verrucate）、拟网状纹饰（ormate）、脑纹状纹饰（tuberculate-baculate），其中显脉金花茶、中越山茶、东兴金花茶和小花金花茶为疣状纹饰，毛瓣金花茶、金花茶和中东金花茶为拟网状纹饰，凹脉金花茶、四季金花茶和淡黄金花茶为脑纹状纹饰。同时，该研究发现10种供试金花茶组植物的花粉外壁纹饰均有不同程度的穿孔（图1：1D-10D）。显脉金花茶、中越山茶、东兴金花茶、四季金花茶和淡黄金花茶穿孔数量比较少，该类金花茶中，除淡黄金花茶穿孔较大外，其余四种穿孔较小。毛瓣金花茶、金花茶、中东金花茶、凹脉金花茶和小花金花茶穿孔数量较多，其中中东金花茶和小花金花茶穿孔比较小，其余三种穿孔较大，种间差异明显（表3）。以上数据表明10种供试金花茶的花粉外壁纹饰和穿孔特征各具特点，可作为金花茶组植物分类的重要依据之一。
+
+![](images/13cf8d9fe244ed0b12793babbff5e3a7e1b7ca139a7e4434888499e10bb6519b.jpg)  
+图2供试金花茶外壁纹饰形态特征
+
+A．疣状纹饰；B.拟网状纹饰；C.脑纹状纹饰。   
+A.Verrucate; B. Ornate; C.Tuberculate-baculate.
+
+Fig.2Morphological characteristics of exine ornamentation on selected sect. Chrysanthae
+
+# 2.4花粉形态特征的聚类分析
+
+以极轴长、赤道轴长、萌发沟长及极轴长/赤道轴长（P/E）为参数，进行聚类分析，结果显示10种供试金花茶组植物的花粉在距离为10处可分为4大类：第I类为四季金花茶、中东金花茶、金花茶、显脉金花茶以及凹脉金花茶；第Ⅱ类为凹脉金花茶；第Ⅲ类为毛瓣金花茶；第IV类为淡黄金花茶、中越山茶、小花金花茶及东兴金花茶，其中小花金花茶和东兴金花茶花粉形态较接近（图3）。
+
+![](images/57377ceeaee95be3080237f58ac9c0416a4e834686a39700e96715b51d2a4cff.jpg)  
+图310 种金花茶组植物花粉性状聚类分析
+
+图中纵坐标1-10分别代表10种供试金花茶编号，详见表1。   
+1-10 on the ordinate represent 10 selected species of sect. Chrysanthae,as shown in Table 1.
+
+Fig.3Cluster analysis of pollen characteristion of 1O species of sect. Chrysanthae
+
+# 3讨论
+
+# 3.1金花茶花粉形态属内分类意义
+
+该研究统计发现金花茶组植物的花粉极轴长度介于 $2 7 . 4 6 { \sim } 4 4 . 5 4 \mu \mathrm { m }$ 。参照韦仲新（2003）分类标准：花粉极轴长度 $1 0 { \sim } 2 0 ~ \mu \mathrm { m }$ 属于小粒花粉， $2 5 \sim 5 0 ~ \mu \mathrm { m }$ 属于中粒花粉， $5 0 \sim 1 0 0 ~ \mu \mathrm { m }$ 属于大粒花粉。因此，10种供试金花茶组植物的花粉均为中粒花粉。此前的研究也表明金花茶组植物的花粉为中粒花粉（邹琦丽和梁盛业，1984；汪小兰，1985，1986；谭莎等，2016)，山茶属其他植物的花粉大多属于中粒花粉，而大粒花粉仅存于红山茶组植物和油茶组植物中较原始的种（束际林等，1998）。在形态方面，大部供试金花茶的花粉性状为近球形，仅有东兴金花茶的花粉为扁球形，凹脉金花茶花粉为长球形。以上数据说明金花茶组植物的花粉形状和大小与山茶属植物是相同的。
+
+关于花粉的外壁纹饰，韦仲新（1992）认为山茶属植物中至少存在6种不同类型，随后有学者根据形态特点简化成三种不同类型：颗粒状至皱颗粒状纹饰、皱沟状纹饰和穴-网状纹饰以及拟穴-网状纹饰（敖成齐等，2002）。金花茶组植物的花粉的外壁纹饰则分别为疣状纹饰、脑状纹饰以及拟网状纹饰（王任翔，1996，1997），该研究结果与之对应。另外，10种供试金花茶组植物的花粉以单粒形式存在，极面观多为三裂近圆形或三裂近三角形，赤道面观多为长椭圆形或近圆形；具3孔沟，萌发沟赤道处均有明显突起物，这些特性与山茶属植物的花粉形态特征基本一致。综上所述，该研究发现金花茶组植物的花粉符合山茶属植物的一般特征，但并没有特异性，从孢粉学的角度看金花茶组植物可能不是一个独立的类群。
+
+# 3.2金花茶花粉形态种间分类意义
+
+金花茶组植物的外壁纹饰和穿孔特征对种间分类具有重要意义。该研究发现金花茶组植物花粉的外壁纹饰和穿孔状况各异（表3）。比如金花茶和中东金花茶在《中国植物志》归并为同一种（张宏达和任善湘，1998），两者外壁纹饰均为拟网状纹饰，但在高倍镜下两者的外壁纹饰的穿孔特征明显不同，金花茶的穿孔较大（图1：6D），而中东金花茶的穿孔较小（图1：7D）。同时，聚类分析显示中东金花茶花粉的形状与四季金花茶更接近，金花茶则与显脉金花茶接近（图3）。因此，该研究认为金花茶和中东金花茶可能是两种不同的金花茶。
+
+有些金花茶组植物的分类中，除了关注金花茶组植物花粉的外壁纹饰和穿孔特征以外，还应综合花粉形状和大小等特征。通过聚类分析发现凹脉金花茶和毛瓣金花茶各单独呈一类，两者的花粉明显大于其他金花茶（表2）。该研究发现凹脉金花茶花粉较大（极轴长 $\scriptstyle \mathrm { P = } 4 4 . 5 4$ $\mathrm { P / E } { = } 1 . 4 8$ ）属于典型的长球形（图1），明显区别于其他金花茶。同时，叶表皮形态特征和分子标记证据也显示毛瓣金花茶与其他金花茶不同（李凤英等，2013；陈莹等，2021），孢粉学研究结果与之吻合。因此，支持这两种金花茶是两个不同独立种。另外，东兴金花茶和中越山茶属于种与变种的关系(张宏达和任善湘，1998)，但两种金花茶的花色明显不同，中越山茶花色偏白，而东兴金花茶花色偏黄。再者，两者的花粉形状明显不同，该研究显示中越山茶的花粉为球形或近球形，而东兴金花茶花粉为扁球形，与先前研究相同（邹琦丽和梁盛业，1984；王任翔等，1997）。该研究还发现小花金花茶和东兴金花茶的花粉形态相似(图3)，两者花粉粒均较小，外壁纹饰和穿孔特征相近（图1：3D；图1：4D），iPBS分析也表明两者的的遗传相似系数较稳定、亲缘关系较近（卢家仕等，2020），从叶表皮形态来看小花金花茶和东兴金花茶的气孔类型、形状以及细胞垂周壁式样形似度较高(李凤英等，2013)，该研究认为东兴金花茶和中越山茶是否可以作为种与变种有待商榷，作为小花金花茶的变种可能更合适。
+
+# 3.3四季金花茶的分类地位
+
+四季金花茶最初于广西崇左市发现，是金花茶组植物中唯一多次开花的种类，早期曾被命名为崇左金花茶（C.chuongthoensis），由广西林业科学研究院梁振业先生于2008年发表和定名，但后来被定为无效发表。2014年梁盛业先生以四季花金花茶（C.perpetua Liang etHuang）的新名称重新发表（梁盛业和黄连冬，2010；黄连冬等，2014），以区别于淡黄金花茶。淡黄金花茶曾被误认为多次开花，也被名命为四季金花茶，实际上淡黄金花茶主要在夏季开放，秋冬季节偶尔开放，并不是真正的“四季金花茶”（喇燕菲等，2021）。该研究首次对四季金花茶花粉外壁纹饰和穿孔特征进行了观察，同时统计四季金花茶花粉的极轴长、赤道轴长和萌发沟的长度。结果表明四季金花茶花粉形态为近球形的中粒花粉，外壁纹饰为脑纹状纹饰、具有小而稀疏的穿孔（表3），而萌发沟长度与其他9种金花茶有显著差异（表2）。此外，裴思玉（2020）通过遗传学研究发现四季金花茶具有较高水平的遗传多样性，且遗传分化水平较低，具有独特的遗传背景。因此，该研究支持将四季金花茶作为金花茶组植物的新种。
+
+# 4结论
+
+综上所述，该研究发现10种供试金花茶组植物的花粉具有山茶属植物花粉一般特征，不支持该组植物为独立的分类单元。金花茶组植物的花粉种间差异明显，尤其是外壁纹饰和穿孔状况，但作为分类依据还需结合花粉极轴长、赤道轴长和萌发沟长度等数量性状的特征，同时，进一步结合形态学、解剖学及分子生物学等证据相互印证。
+
+# 参考文献：
+
+AO CQ, CHENG GX, ZHANG GP, et al., 2002. Study on micromorphology of pollen exine  
+surface in Camellia[J].Acta Bot Yunnan,24(5):619-626.[敖成齐，陈功锡，张国萍，等，2002.  
+山茶属花粉外壁表面微形态特征的研究[J]．云南植物研究,24(5)：619-626.]  
+CHEN CR, XIE PW, ZOU JT, et al.,2019. Comparative leaf morphology study of 12 species ofsect .Chrysantha (Theaceae,Camellia)[J].For Environ Sci, 35(6): 7-15.[陈春如，谢佩吾，邹家通，等，2019.12种金花茶组植物叶片的比较形态学研究[J]．林业与环境科学，35(6)：7-15.]  
+CHEN Y, GUO BL， YAO LM, et al.，2021. Camellia sinensis DNA barcode molecularidentification[J].Seed,40(2):139-142.[陈莹，郭蓓琳，姚丽敏，等，2021.基于DNA条形码进行金花茶组种间鉴别[J]．种子，40(2)：139-142.]  
+Erdtman G,1978.A handbook of palynology[M]. Translated by Institute of Botany, The ChineseAcademy of Sciences.Beijing:Science Press:1-45.[埃尔特曼，1978.《孢粉学手册》[M]．中国科学院植物研究所译．北京：科学出版社：1-45.]  
+HUANG LD, LIANG SY, YE CX, 2014. Camelia perpetua —A new species of Camelliasinensis[J].Guangdong Land Archi,36(1): 69-70.[黄连冬，梁盛业，叶创兴，2014.四季花金花茶——金花茶一新种[J]．广东园林，36(1)：69-70.]  
+HUANG H, LAI HQ, JIANG Y,et al.， 2020. Comparative study on pollen morphology ofEpimedium sagitatum and its sibling species E. myrianthum[J]. Guihaia, 40(9): 1300-1314.[黄华，赖华清，蒋勇，等，2020.箭叶淫羊藿与近缘种天平山淫羊藿花粉形态对比研究[J]．广西植物，40(9)：1300-1314.]  
+LA YF，XIAO LM,HUANG H, et al.， 2021. Process of blowering bud differentiation andcomparison of morphological characteristics of three species in Yellow Camellia[J].Southwest China JAgric Sci,34(5): 977-983.[喇燕菲，肖丽梅，黄涵，等，2021.3种金花茶花芽分化进程及形态学特征比较［J]．西南农业学报，34(5)：977-983.]LI GQ, SUN L, LIU Y, 2005. Pollen features of 6 species in sect. Theopsis of genus Camellias[J].JTropical Subtrop Bot,13(1):40-44.[李广清,孙立,刘燕,2005.山茶属连蕊茶组6种植物花粉形态特征研究[J]．热带亚热带植物学报，13(1)：40-44.]LIANG SY, 2007. The world list of Camellia[J]. Guangxi For Sci and Techonl, 36(4): 221-223.[梁盛业，2007．世界金花茶植物名录[J]．广西林业科学，36(4)：221-223.]LIANG SY， HUANG LD，2010. A new species of Camellia sinensis - CamelliaChuongthoensis[J].For of Guangxi,28(6):33.[梁盛业，黄连冬，2010.金花茶新种—一崇左金花茶[J]．广西林业，28(6)：33.]LIU W, LI GX, DONG XM, et al., 2018. Observation on pollen grains of Feicheng peaches[J]. JFruit Sci,35(1):38-45.[刘伟，李桂祥，董晓民，等，2018.肥城桃花粉形态观察［J]．果树学报，35(1)：38-45.]LI FY, TANG SQ, LIANG SC, 2013.Leaf epidermal morphology of ser. Chrysantha (Camellia,sect.Chrysantha)[J].Guihaia,32(3):96-102.[李凤英，唐绍清，梁士楚，2013.山茶属金花茶组金花茶系植物叶表皮形态学研究[J]．广西植物，32(3)：96-102.]LU JS, HUANG ZW,LI XM, et al., 2020. Genetic diversity analysis of Camellia sect. ChrysanthaChang germplasm resources by using iPBS molecular markers technology[J]. Southwest ChinaJAgric Sci,33(8):1638-1644.[卢家仕，黄展文，李先民，等，2020.金花茶组植物种质资源遗传多样性的iPBS分析[J]．西南农业学报，33(8)：1638-1644.]MIN TL, ZHANG WX,1993. On taxonomic problems of sect Archecamellia sely and sect.Chrysantha Chang in the genus Camellia[J]. Acta Bot Yunnan, 21(1): 1-15.[闵天禄，张文驹,  
+1993.山茶属古茶组和金花茶组的分类学问题[J]．云南植物研究，21(1)：1-15.]NI S,LI JY, TIAN M, et al., 20O7. Pollen exine sculpture of sect. Camellia in genus Camellia andIts taxonomic significance[J].JNanjing For Univ,31(4): 16-20.[倪穗，李纪元,田敏,等,2007.红山茶组植物花粉外壁纹饰特征及其演化关系［J]．南京林业大学学报(自然科学版)，  
+31(4): 16-20.]PEI SY, 2020. Studies on conservation genetics of Camelia perpetua[D]. Nanning: Guangxi NorUniv:1-56.[裴思玉,2020.四季金花茶的保护遗传学研究[D].南宁：广西师范大学：1-56.]Punt W,Hoen P, et al., 2007. Glossry of pollen and spore terminology[J]. Rev Palaeobot Palyno,  
+143(1): 1-81.QIN DM, ZHU LQ, DENG BS,et al., 2020. Comparison and classification of leaf microscopicmmorphological features of five species of sect. Chrysantha[J]. J Nanning Nor Univ (Nat SciEdn),37(1):91-96.[覃冬梅，朱栗琼，邓斌胜，等，2020.五种金花茶叶片表皮显微形态特征比较及分类研究［J]．南宁师范大学学报(自然科学版)，37(1)：91-96.]Sealy JR, 1958. A Revision of the genus Camellia [M]. London: The royal horticultural society:  
+36-88.SHI SH, TANG SQ, CHEN YQ,et al.， 1998.Phylogenetic relationshipa among eleve yellowflowered Camellia species based on random amplified polymorphic[J]. Acta Phytotax Sin,  
+36(4):317-322.[施苏华，唐绍清，陈月琴，等，1998.11种金花茶植物的 RAPD 分析及其系统学意义［J]．植物分类学报，36(4)：317-322.]SU JL, CHEN L,WANG HS, et al.，1998. Pollen morphology, ultrastructure and evolution of teaplantand other genus Camellia plants[J].JTea Sci,34(1): 6-15.[束际林，陈亮，王海思，等，  
+1998.茶树及其他山茶属植物花粉形态,超微结构及演化[J]．茶叶科学，34(1):6-15.]TAN XF, QI LL, HE J, et al., 2005. Molecular classification of section Oleifera Chang and sectionChrysantha Chang of Camellia L[J]. J Cent South Univ of For & Technol, 24(4): 31-34.[谭晓风，漆龙霖，贺晶，等，2005.山茶属植物油茶组与金花茶组的分子分类［J]．中南林学院学报,24(4)：31-34.]  
+TAN S,CHA QH, HUANG YF,et al.， 2016. Polln morphology of three species in sect.Chrysantha studied by scanning electron microscope[J]. Guihaia, 36(12):1422-1425.[谭莎，查钱慧，黄永芳，等，2016.三种金花茶花粉形态的扫描电镜研究[J]．广西植物，36(12)：1422-1425.]  
+TANG SQ, DU LF, WANG Y, 2004. AFLP analysis of ser. Chrysantha Chang (Camellia Sect.Chrysantha)[J].JWuhan Bot Res,21(1): 44-48.[唐绍清，杜林方，王燕，2004.山茶属金花茶组金花茶系的AFLP分析[J]．武汉植物学研究，21(1)：44-48.]  
+WANG Q, YANG XD, XIA CY, et al., 2020. Pollen morphology of impatiens sect. Impatiens(Balsaminaceae)[J].Acta Hortic Sin,47(5):893-906.[王茜，杨旭东，夏常英，等．2020.凤仙花组植物花粉形态研究［J]．园艺学报,47(5):893-906.]  
+WEI ZX,MIN TL， Zavada MS,1992. Pollen morphology of Camella (Theaceae） and its  
+taxonomic significance[J].Acta Bot Yunnan,14(3): 275-282.[韦仲新,Zavada MS,闵天禄，1992.  
+山茶属的花粉形态及其分类学意义[J]．云南植物研究,14(3)：275-282.]  
+WEI ZX, 1997. Pollen ultrastructure of Theaceae and its systematic significance[J]. Acta BotYunnan,19(2):143-153.[韦仲新，1997.山茶科花粉超微结构及其系统学意义[J]．云南植物研究,19(2)：143-153.]  
+WEI ZX, 2003. Pollen electron microscopic chart of seed plants[M]. Kunming: Yunnan Scienceand Technology Press:1-9.[韦仲新，2003.种子植物花粉电镜图志[M]．昆明：云南科技出版社：1-9.]  
+WANG RX, HU ZH, LIANG QH, et al., 1997. The pollen of Sect. Chrysantha plants studied byScanning electron microscope (I)[J].Guihaia,22(3): 51-54.[王任翔，胡长华,梁倩华,等，1997.金花茶组植物花粉扫描电镜研究(一)[J]．广西植物,22(3)：51-54.]  
+WANG RX,HU ZH,LI CY,et al.， 1997. The pollen of Sect. Chrysantha plants studied byScanning electron microscope (II)[J]. J Guangxi Nor Univ (Nat Sci Ed), 40(3): 79-83.[王任翔，胡长华，李春瑶，等，1997.金花茶组植物花粉扫描电镜研究Ⅱ[J]．广西师范大学学报(自然科学版)，40(3)：79-83.]  
+WANG RX, HU ZH, LIANG SY, et al., 2002. Scanning electron microscope observation of leafepidermis characteristics of Sect.Chrysantha[J]. Guangxi For Sci,31(3): 133-136.[王任翔，胡长华，梁盛业，等，2002.金花茶组植物叶表皮特征的扫描电镜观察[J]．广西林业科学，31(3): 133-136.]  
+WANG Y, LA YF, DAI YQ, et al., 2020. Observation and comparison on flowering phenology andfloral morphological characteristics of nine species of Yellow Camellia plants in NanningCity[J].JPlant Resour Environ,29(3): 43-49.[王翊，喇燕菲，戴宇琴，等，2020.9种金花茶类植物在南宁的开花物候期及花部形态特征的观察和比较[J]．植物资源与环境学报，29(3): 43-49.]  
+WANG XL，1985. Obesrvation of pollen Morphology of several Yellow Camellias (Theaceae)under scanning electron microscope[J]. J Wuhan Bot Res, 2(2): 131-135.[汪小兰，1985.几种金花茶花粉的扫描电镜观察[J]．武汉植物学研究，2(2)：131-135.]  
+WANG XL,1986. Pollen morphology of Series Chrysanthae Chang[J]. J Beijing For Univ, 7(3):48-51.[汪小兰，1986.金花茶系植物的花粉形态［J]．北京林业大学学报，7(3)：48-51.]  
+XIAO Z, LI JY,LI ZH, et al., 2014. Genetic relationships among species from Camellia Sect.Chrysantha Chang revealed by ISSR analysis[J]. For Res,27(1): 71-76.[肖政，李纪元，李志辉，等，2014.金花茶组物种遗传关系的 ISSR 分析[J]．林业科学研究，27(1)：71-76.]  
+XIE YQ, LIABG SY,1991. The pollen morphology of Camellia[J]. Guangxi For Sci, 20(2): 65-70.[谢永泉，梁盛业，1991.金花茶系植物花粉形态[J].广西林业科学，20(2)：65-70.]  
+ZOU QL,LIANG SY, 1984. Pollen morphology of Camellia Sect. Chrysantha from Guangxi[J].Guihaia,3(3):223-226.[邹琦丽，梁盛业，1984.广西金花茶花粉形态[J].广西植物，3(3)：223-226.]  
+ZHANG HD,REN SX,1998. Flora of China, Phylum Angiosperms, Class Dicotyledonae,Theaceae (I), Subfamily Theaceae[M].Beijing: Science Press: 49.[张宏达，任善湘，1998.中国植物志，被子植物门，双子叶植物纲，山茶科(一)山茶亚科[M].北京：科学出版社：49.]  
+ZHANG HD,1979. Camellia formation of cathaysia flora[J]. Acta Sci Nat Univ Sunyatseni (NatSciEd),24(3):74-79.[张宏达,1979.华夏植物区系的金花茶组[J]．中山大学学报（自然科学版)，24(3)：74-79.]  
+ZHANG HD,1996.Diagnosis on the syatematic development of Theaeea I.A review on thesections Chrysantha and Archaecamelia of the genus Camellia[J]. Acta Sci Nat Univ.Sunyatseni (Nat SciEd),41(1):77-83.[张宏达，1996.山茶科的系统发育诠析I.金花茶组与古茶组的比较研究[J]．中山大学学报(自然科学版)，41(1)：77-83.]  
+ZHANG HD，YE CX，1993.Diagnosis on the syatematic development of Theaeea II.-Thesystematic characters of golden Camellia nitidissima Chi[J]. Acta Sci Nat Univ Sunyatseni,(Nat Sci Ed)38(3):122-124.[张宏达，叶创兴，1993.山茶科的系统发育诠析II.金花茶的分类特征[J]．中山大学学报(自然科学版)，38(3)：122-124.]  
+ZHU LQ, QIN DM, ZHAO LJ, et al.， 2021. Characteristics and phylogenetic significance ofepidermal micromorphology of six species of wild Camellia[J]. Bull Bot Res, 62(5): 1-10. [朱栗琼,覃冬梅，招礼军,等,2021.6种野生金花茶叶表皮微形态特征及其系统学意义［J].植物研究，62(5)：1-10.]

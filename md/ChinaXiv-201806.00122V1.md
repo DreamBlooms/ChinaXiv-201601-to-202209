@@ -1,0 +1,267 @@
+# 一种多目标不等面积设施布局问题的启发式算法‘
+
+刘景发ab，刘军a,b
+
+(南京信息工程大学 a.江苏省网络监控中心;b.计算机与软件学院，南京 210044)
+
+摘要：多目标不等面积设施布局问题（UA-FLP）是将一些不等面积设施放置在车间内进行布局，要求优化多个目标并满足一定的限制条件。以物料搬运成本最小和非物流关系强度最大，建立生产车间的多目标优化模型，并提出一种启发式算法进行求解。算法采用启发式布局更新策略更新构型，并通过结合基于自适应步长梯度法的局部搜索机制和启发式设施变形策略来处理设施之间的干涉性约束。为了得到问题的Pareto最优解集，提出了基于Pareto优化的局部搜索和基于小生境技术的全局优化方法。通过两个典型算例对算法性能进行测试，实验结果表明，所提出的启发式算法是求解多目标UA-FLP的有效方法。
+
+关键词：设施布局问题；启发式算法；多目标优化；Pareto优化；小生境技术 中图分类号：TP391 doi:10.3969/j.issn.1001-3695.2018.03.0203
+
+# Heuristic algorithm for unequal area facility layout problem with multiple objectives
+
+Liu Jingfaa b, Liu Juna, b (a.JiangsuEngineering CenterofNetworkMonitoring,b.SchoolofComputer&Software,Nanjing UniversityofInformation Science & Technology,Nanjing 210044, China)
+
+Abstract: The multi-objective unequal area facilitylayout problem (UA-FLP)is the problem of placing departments with diferentareas inafacilitysothatdepartmentssatisfysomegivenobjectivesandconstraints.This paperbuiltamulti-objective optimization model basedon minimizing the material handlingcosts and maximizingthe closeness rating scores,nd proposed a heuristic algorithm (HA)to solve the multi-objective UA-FLP.This paperproposed the heuristic layout updating strategyto updatetelayouts,andused thecombination of the localsearch basedon theadaptivegradient method and the heuristic department deformation strategytodeal withthe interface betweenanytwodifferent departments.Theproposed heuristic algorithmcombines thelocal searchbasedon thePareto optimization andthe global search based onthe niche technologyto obtainPareto-optimal solutionsof the problem.Using tworepresentative instances fromthe literature to testthe performance of thealgorithm,theexperimentalresults show that theproposed heuristic algorithm isanefectivemethod forsolving the multi-objective UA-FLP.
+
+Key words: facilitylayout problem; heuristic algorithm; multi-objective optimization; Pareto optimal; niche technology
+
+# 0 引言
+
+设施布局问题(facilitylayoutproblem,FLP)是指将若干个待布局的设施放置在给定的车间内，在满足一定的约束条件下，优化一个或多个目标函数。合理的设施布局能够帮助企业提高生产效率，降低生产成本，缩短产品周期。因此，车间设施布局问题在制造业中具有重要的研究意义。
+
+近年来，一些学者对设施布局问题进行了广泛的研究，但是大多数文献是针对相等面积设施的布局问题[1进行讨论,在实际生产应用中，相等面积的设施不符合实际车间布局情况。目前，对于不等面积设施布局问题(UA-FLP)，一些学者也提出了一些求解算法。Komarudin 等人[2提出了基于切片树特征的蚁群系统算法，并结合了几种局部搜索方法以提高算法的搜索性能。Goncalve 等人[3]建立了一种线性规划模型，并提出了一个带偏向的随机密钥的遗传算法。Liu等人[4提出了一种基于序列对特征的模型，并通过结合遗传算法和混合整数规划方法进行求解。Vitayasak 等人[5提出了一种基于遗传算法的回溯搜索算法求解UA-FLP，其中回溯搜索算法是一种基于群体的迭代进化算法。Paes 等人[提出一种结合分解策略的遗传算法，该算法在经典Benchmark实例上进行了测试，并取得了高质量的布局解决方案。As1等人[7提出了一种改进的粒子群算法，该算法应用了两种局部搜索方法和设施交换方法来提高布局方案的质量，防止局部最优解。邱胜海等人[8提出了一种改进的遗传算法，通过对螺杆制造车间布局设计方案进行优化，实验结果证明了所提出的算法的有效性。廖源泉等人9提出了一种采用顺序编码方式的遗传算法，对车间布局进行优化设计以减少物流搬运费用。
+
+尽管以上方法对求解UA-FLP取得了不错的进展，但优化的目标主要集中在以物料搬运成本为主的单个目标优化，忽略了其他目标的实现，比如空间利用率、非物流关系强度等。对于多目标UA-FLP，一般使用线性加权求和的方法将多目标转化成单目标进行求解，但是线性加权法中权重系数难以合理设置，具有一定的局限性[10]。因此，Pareto 优化方法成为一种新的多目标求解方法。徐立云等人[1I针对UA-FLP，提出一种自适应遗传算法，通过对其交叉和变异算子进行非线性化处理，克服了算法过早收敛和陷入局部最优的缺点。Ripon 等人[2]提出了一种基于进化方法的自适应可变邻域搜索的算法，以最小物料搬运成本和最大非物流关系强度为优化目标，实验结果表明算法具有较好的性能。Kumar等人[13]提出一种基于整数线性规划和变邻域的方法求解多目标UA-FLP。最近，Hunagund等人[14]针对动态的UA-FLP，提出了一种基于弹性区带结构的模拟退火算法。Liu 等人[15]以物料搬运费、总邻接值和车间利用率为优化目标，提出了一种结合目标空间分割方法的多目标粒子群优化算法。
+
+本文以最小物料搬运费和最大非物流关系强度为优化目标，通过应用基于Pareto优化的局部搜索和基于小生境技术的全局优化搜索，以及多种启发式策略相结合，为解决UA-FLP提出了一种启发式算法(HA)。通过对文献中的两个代表性算例进行计算，实验结果表明，所提出的启发式算法是一种求解多目标UA-FLP的有效算法。
+
+# 1 问题描述与数学模型
+
+# 1.1问题描述
+
+假设所有设施及车间的形状均为矩形，设施的长宽可变，但其面积固定，设施的面积之和等于或小于车间面积。多目标UA-FLP可描述为：给定矩形车间的长宽，所有待布设施的面积，设施之间的物流量，单位物料搬运费用以及设施之间的非物流关系强度，要求给出布局方案使得布局的物料搬运费最小且非物流关系最大，并满足以下约束条件：a)所有设施必须放置在车间内部，设施之间不能存在嵌入，且设施与车间边界之间不存在嵌入；b)所有设施满足最小边长或者最大纵横比限制。
+
+如图1所示，假设笛卡尔坐标系的原点位于矩形车间 $F$ 的左下角， $L$ 和 $W$ 分别是矩形车间 $F$ 的长和宽， $l _ { i }$ 和 $w _ { i }$ 分别表示设施 $D _ { i }$ 的长和宽。设施的放置方式有水平或垂直两种方式。如果设施的长边与 $x$ 轴平行，则为水平放置，如果设施的长边与$y$ 轴平行，则为垂直放置。一个布局（或称构型）用$X \mathrm { = } ( x 1 , y 1 , l _ { 1 } , w 1 , x 2 , y 2 , l _ { 2 } , w 2 , . . . , x N , y N , l N , w N ) .$ 表示，其中 $( x _ { i } , y _ { i } )$ 表示设施$D _ { i }$ 的中心点坐标， $N$ 是车间中设施的数目。
+
+![](images/00a4c8acabc089298909987b927f6f35f2ffe2fae340a2b3fe4bf1dfda72cd30.jpg)  
+图1设施布局示意图
+
+# 1.2数学模型
+
+a）目标函数
+
+$$
+\operatorname* { m i n } { f _ { 1 } ( X ) } = \sum _ { i = 1 } ^ { N } \sum _ { j = 1 , j \ne i } ^ { N } C _ { i j } f _ { i j } d _ { i j }
+$$
+
+$$
+\ \operatorname* { m a x } { \it f _ { 2 } ( X ) } = \sum _ { i = 1 } ^ { N } \sum _ { j = 1 , j \ne i } ^ { N } r _ { i j }
+$$
+
+目标函数式(1)表示最小化物料搬运费用 $\left( \mathrm { M H \ C o s t } \right)$ ，其中$C _ { i j }$ 为设施 $D _ { i }$ 与 $D _ { j }$ 之间的单位物料单位距离搬运费； $f _ { i j }$ 为设施$D _ { i }$ 和 $D _ { j }$ 之间物料搬运频率； $d _ { i j }$ 为设施 $D _ { i }$ 和 $D _ { j }$ 之间的物料搬运距离，即设施中心点之间的欧氏距离。目标函数式(2)表示最大化非物流关系强度(CRScore)， $r _ { i j }$ 为设施之间的非物流密切度值（如表1所示）。如果设施之间存在共同的边界，则根据设施间的密切度等级，计算密切度值，否则密切度值为0。设施之间非物流关系的值越大，表明它们之间非物流关系越密切。
+
+b）约束条件
+
+$$
+\begin{array} { r l } { I _ { i } \cap J _ { i } = \phi , } & { i , j \in \{ 1 , 2 , \ldots , N \} , i , } \\ { x , - 0 . 5 i , 2 = 0 , } & { i \in \{ 1 , 2 , \ldots , N \} } \\ { x _ { i } = 0 . 5 i , 2 = L , } & { i \in \{ 1 , 2 , \ldots , N \} } \\ { x _ { i } = 0 . 5 i \times \{ 2 , \ldots , N \} } \\ { y _ { i } = 0 . 5 w _ { i } \geq 0 , } & { i \in \{ 1 , 2 , \ldots , N \} } \\ { y _ { i } = 0 . 5 w _ { i } \leq W , } & { i \in \{ 1 , 2 , \ldots , N \} } \\ { \displaystyle \operatorname* { m a x } \{ I _ { i } , w _ { i } \} } \\ { \operatorname* { m i n } \{ I _ { i } , w _ { i } \} } \\ { \operatorname* { m i n } \{ I _ { i } , w _ { i } \} \leq \alpha , } & { i \in \{ 1 , 2 , \ldots , N \} } \\ { \operatorname* { m i n } \{ I _ { i } , w _ { i } \} \geq s , } & { i \in \{ 1 , 2 , \ldots , N \} } \end{array}
+$$
+
+其中： $I _ { i }$ 和 $I _ { j }$ 表示设施 $D _ { i }$ 和 $D _ { j }$ 的内部空间， $\alpha$ 和 $s$ 分别表示设施 $D _ { i }$ 最大纵横比的值和最小边长的值。约束式(3)表示设施 $D _ { i }$ 和 $D _ { j }$ 之间互不嵌入；约束式(4)\~(7)表示设施在车间内部且与车间边界之间不存在嵌入；约束式(8)表示所有设施满足最大纵横比限制；约束式(9)表示所有设施满足最小边长限制。
+
+表1设施关系密切度分类  
+
+<html><body><table><tr><td>密切度等级</td><td>等级代号</td><td>密切度值rij</td></tr><tr><td>绝对必要</td><td>A</td><td>6</td></tr><tr><td>特别重要</td><td>E</td><td>5</td></tr><tr><td>重要</td><td>I</td><td>4</td></tr><tr><td>一般</td><td>o</td><td>3</td></tr><tr><td>不重要</td><td>U</td><td>2</td></tr><tr><td>不能靠近</td><td>X</td><td>1</td></tr></table></body></html>
+
+![](images/53429635fea44515fb6a0b043b9941732b635ae054a8bbbef66472c434c2fe86.jpg)
+
+(a）设施与车间边界在 $x$ 轴方向相交(b）设施与车间边界在 $y$ 轴方向相交(c）设施与车间边界在 $x$ 轴和 $y$ 轴方向同时相交
+
+![](images/42c73e25193e1bc5f229359fc879acebaa7b7bf64a293d12ec5f7f8f4c1b9975.jpg)
+
+![](images/ecbec948ef278d35a2aa318f3438bf746965b8ec702ec97e3ee76308554982a8.jpg)  
+图2设施Di与车间边界之间嵌入示意图
+
+借鉴拟物思想[16]，将所有设施内部和车间外部均想象为光滑的弹性实体。根据弹性力学的原理，当两个不同设施之间存在干涉或者设施与车间边界之间存在干涉时，它们之间的挤压弹性势能正比于嵌入深度的平方[17]，所以整个系统的弹性势能可定义为
+
+$$
+E ( X ) = \sum _ { i = 1 } ^ { N - 1 } \sum _ { j = i + 1 } ^ { N } \mu l _ { i j } ^ { 2 } + \sum _ { i = 1 } ^ { N } \mu l _ { i F } ^ { 2 }
+$$
+
+其中： $\mu$ 是弹性系数，本文设置 $\scriptstyle \mu = 1$ ： $E ( X )$ 表示布局的总的弹性势能； $l _ { i j }$ 表示设施 $D _ { i }$ 和 $D _ { j }$ 之间的嵌入深度， $l _ { i F }$ 表示设施 $D _ { i }$ 与车间边界之间的嵌入深度。如果设施 $D _ { i }$ 与 $D _ { j }$ 互相嵌入，则嵌入深度定义为将设施 $D _ { i }$ 和 $D _ { j }$ 变为不相交状态所需要在 $x$ 轴或者 $y$ 轴方向上移动的最短距离[17]。如果设施 $D _ { i }$ 与车间边界相交，可分为三种情况：a)设施 $D _ { i }$ 与车间边界在 $x$ 轴方向相交（如图2(a)所示）；b)设施 $D _ { i }$ 与车间边界在 $y$ 轴方向相交(如图 2(b)所示）；c)设施 $D _ { i }$ 与车间边界在 $x$ 轴方向与 $y$ 轴方向同时相交（如图2(c)所示），则嵌入深度分别为 $l _ { i F } { = } { \vert } b _ { i } p _ { F } { \vert } , { \vert } c _ { i } p _ { F } { \vert } ,$ 和 $| d _ { i } p _ { F } |$ 其中AB表示顶点A与顶点B之间的欧氏距离。
+
+# 2 算法设计
+
+对于多目标UA-FLP，为了得到一组Pareto最优解，本文提出一种启发式算法(HA)。首先随机产生一组规模为 $n$ 的初始布局（构型)，针对每种布局，提出一种启发式布局更新策略来更新当前布局；再运用结合了基于自适应步长的梯度法和启发式设施变形策略的布局合法化机制，使每个布局满足约束条件；然后提出基于Pareto优化的局部搜索和基于小生境技术的全局搜索的两种搜索方法寻找最优布局；最后给出所提出启发式算法的具体步骤。
+
+# 2.1启发式布局更新策略
+
+在提出的HA中，每次迭代都需要更新布局，根据车间布局的特点，本文提出一种启发式布局更新策略，对设施进行挑选和放置。
+
+如果当前布局是非法的布局，则从布局中挑选出相对挤压
+
+弹性势能 $C P _ { i }$ 最大的设施 $D _ { i }$ 进行重新放置，其中 $C P _ { i }$ 的计算方式见公式(11)，其中 $A _ { i }$ 是设施 $D _ { i }$ 的面积。
+
+$$
+C P _ { i } = \frac { \displaystyle \sum _ { j = 1 , j \neq i } ^ { N } { l _ { i j } } ^ { 2 } + { l _ { i F } } ^ { 2 } } { A _ { i } } , i = 1 , 2 , . . . , N .
+$$
+
+如果当前布局是合法布局，则挑选出相对物料搬运费 $M C _ { i }$ 最大的设施 $D _ { i }$ 进行重新放置。
+
+$$
+M C _ { i } = \frac { \displaystyle \sum _ { j = 1 , j \neq i } ^ { N } C _ { i j } d _ { i j } f _ { i j } } { \displaystyle \sum _ { j = 1 , j \neq i } ^ { N } C _ { i j } f _ { i j } } , i = 1 , 2 , . . . , N .
+$$
+
+为了增加布局的多样性，设施放置的方式为：将被挑选设施的中心随机放置在车间空白区域内2N次（如果车间内没有空白区域，则将被挑选设施的中心随机放置在车间内2N次)，且每次放置均包含水平放置和垂直放置两种方式，这样一共得到4N个新构型。
+
+# 2.2布局合法化
+
+当通过启发式布局更新策略产生4N个新构型后，这些构型不一定满足约束条件，构型中可能存在设施之间或设施与车间边界之间相互嵌入。本文通过交替执行局部搜索机制和启发式设施变形策略对不合法的构型进行布局合法化操作，使得所有构型满足约束条件。
+
+# 2.2.1局部搜索机制
+
+当通过启发式布局更新策略得到一组新布局后，为了得到布局附近弹性势能更低的布局，本文引入一种基于自适应步长梯度法(GM)[18]的局部搜索机制，使设施之间或设施与车间边界之间的嵌入部分由于弹性力的作用，相互推开，从而获得合法布局。
+
+GM又被称为最速下降法，其搜索方向为函数值下降最快的负梯度方向。在GM迭代过程中，对于一个构型 $X ^ { 1 }$ ，先计算$X ^ { 1 }$ 在 $x$ 轴方向和 $y$ 轴方向的梯度，从而得到新构型 $X ^ { 2 } = X ^ { 1 } - h \times$ $\nabla ( E ( X ^ { 1 } ) )$ ，其中 $h$ 为迭代步长。如果新产生构型 $X ^ { 2 }$ 的能量 $E ( X ^ { 2 } )$ 比 $X ^ { 1 }$ 的能量 $E ( X ^ { 1 } )$ 高，则表明步长 $h$ 太大，通过将 $h$ 乘以系数0.8以减少步长，否则维持步长不变。为了缩短GM的运行时间，一种“提前逃离”策略被应用于GM，即如果新产生构型$X ^ { 2 }$ 与构型 $X ^ { 1 }$ 的能量很接近 $( \vert E ( X ^ { 2 } ) - E ( X ^ { 1 } ) \vert { < } 1 0 ^ { - 4 } )$ 且新构型 $X ^ { 2 }$ 的能量 $E ( X ^ { 2 } )$ 大于1，则认为构型 $X ^ { 2 }$ 不是一个有“前景”的构型，GM提前结束，这样可以避免由于GM步长过小导致搜索时间过长的问题。如果新产生的构型 $X ^ { 2 }$ 的能量 $E ( X ^ { 2 } )$ 小于1，则继续执行梯度法，直到构型的能量满足 $E ( X ^ { 2 } ) < \mathfrak { E }$ ，或者迭代步长 $h$ 小于最小迭代步长 $h _ { m i n }$ ，其中是一个合法构型必须达到的弹性势能的最小值。事实上， $h$ ， $h _ { m i n }$ 和 $\boldsymbol { \varepsilon }$ 均是通过反复实验得到的经验值，当 $h \in [ 0 . 1 , 1 0 ]$ ， $h _ { m i n } \in [ 1 0 ^ { - 5 } , 1 0 ^ { - 3 } ]$ $\varepsilon \in [ 1 0 ^ { - 2 5 }$ $1 0 ^ { - 1 5 ^ { - } }$ 时，本文启发式算法得到的计算结果没有什么差别，且均能得到一个合法构型。因此，本文设置 $h { = } 1$ ， $h _ { m i n } { = } 1 0 ^ { - 4 }$ ， $\scriptstyle \varepsilon = 1 0 ^ { - 2 0 }$ 。
+
+自适应步长的梯度法GM的详细步骤如下：
+
+a)设置参数 $h = 1$ $h _ { \operatorname* { m i n } } = 1 0 ^ { - 4 }$ 5 $\scriptstyle \varepsilon = 1 0 ^ { - 2 0 }$ ·
+
+b)计算当前构型 $X ^ { 1 }$ 的能量函数 $E ( X ^ { 1 } )$ 的 $x$ 轴和 $y$ 轴方向的梯度:
+
+$$
+\nabla E ( X ^ { 1 } ) = \left( \frac { \hat { \sigma } E ( X ) } { \hat { \sigma } x _ { 1 } } , \frac { \hat { \sigma } E ( X ) } { \hat { \sigma } y _ { 1 } } , \frac { \hat { \sigma } E ( X ) } { \hat { \sigma } x _ { 2 } } , \frac { \hat { \sigma } E ( X ) } { \hat { \sigma } y _ { 2 } } , . . . , \frac { \hat { \sigma } E ( X ) } { \hat { \sigma } x _ { n } } , \frac { \hat { \sigma } E ( X ) } { \hat { \sigma } y _ { n } } \right) \Bigr | _ { X = X ^ { 1 } }
+$$
+
+得到新的构型 $X ^ { 2 } { = } X ^ { 1 } - h \times \nabla ( E ( X ^ { 1 } ) )$
+
+c)如果 $E ( X ^ { 2 } ) \geq 1$ ，则
+
+(a)如果 $E ( X ^ { 2 } ) > E ( X ^ { 1 } )$ ，则令 $h = h \times 0 . 8$ (b) $X ^ { 1 } { = } X ^ { 2 } , X ^ { 2 } { = } X ^ { 1 } { - } h { \times } \nabla ( E ( X ^ { 1 } ) ;$ （20 (c）如果 $\left| E ( X ^ { 2 } ) - E ( X ^ { 1 } ) \right| > 1 0 ^ { - 4 }$ ，则转步骤 (a); d)如果 $E ( X ^ { 2 } ) < 1$ ，则 (a)如果 $E ( X ^ { 2 } ) > E ( X ^ { 1 } )$ ，则令 $h = h \times 0 . 8$ · $\mathrm { ( b ) } X ^ { \mathrm { l } } \mathrm { = } X ^ { \mathrm { 2 } } , X ^ { \mathrm { 2 } } \mathrm { = } X ^ { \mathrm { l } } \mathrm { - } h { \times } \nabla ( E ( X ^ { \mathrm { 1 } } ) ;$ （204号 (c）如果 $E ( X ^ { 2 } ) \geq \varepsilon$ 且 $h \geq h _ { \operatorname* { m i n } }$ ，则转到步骤 (a); e)输出 $X ^ { 2 }$
+
+# 2.2.2启发式设施变形策略
+
+在执行GM过程中，有可能产生“卡壳”现象，即虽然构型中存在设施嵌入，但是嵌入设施的受力在两个不同方向上达到平衡，此时无法通过执行GM将嵌入的设施推开来使布局合法化。由于设施的面积是固定的，在满足约束条件式(8)和(9)的前提下，适当改变矩形设施的长宽，可以得到合法布局。因此在执行完GM后，提出一种启发式设施变形策略，来使布局合法。
+
+启发式设施变形策略过程如下：首先挑选出所有与车间边界嵌入的设施，按照设施与车间边界嵌入深度由小到大的顺序进行设施变形操作，即将设施与车间边界嵌入的部分移动到设施周围空白的区域内，同时保证变形后的设施仍然是矩形设施，且满足约束式(8)和(9)；其次，对于设施之间相互嵌入的情况，同样按照嵌入深度从小到大的顺序依次挑选设施进行类似的变形操作，将嵌入部分转移到设施周围空白的区域。判断一个设施是否适合进行变形操作的依据是：在执行完设施变形后，布局系统总的弹性势能是否下降？如果弹性势能下降，则进行该设施的变形，否则不执行此设施的变形。如果设施周围没有足够的空白区域容纳嵌入的部分，则先移动嵌入的一部分到空白区域，然后将剩余的嵌入部分与其他设施与其嵌入部分之和移动到此设施周围其他的空白区域内。如果执行完启发式设施变形策略以后，车间中仍然存在设施之间或设施与车间边界之间的嵌入，或设施周围存在空隙，则再次执行GM，使得设施之间更加紧凑，同时使得布局能成为满足约束的合法布局。
+
+下面给出一个典型的例子来阐述设施变形的过程（如图3所示)。为了提高阅读性，将车间空白区域用阴影表示。假设图3(a)是执行完GM之后的布局状态，其中 $D _ { 5 }$ 嵌入 $D _ { 6 }$ 和车间 $F$ 的边界， $D _ { 2 }$ 嵌入 $D _ { 1 }$ 和 $D _ { 3 }$ 。按照启发式设施变形策略的原则，首先挑选与车间边界嵌入的设施 $D _ { 5 }$ 进行变形操作，将 $D _ { 5 }$ 与车间嵌入的部分转移到 $D _ { 5 }$ 上方包含空白区域的矩形区域内（图3(b))。然后挑选设施之间相互嵌入的设施，按照嵌入深度由小到大的顺序对设施进行变形操作。先将 $D _ { 2 }$ 与 $D _ { 3 }$ 的嵌入部分转移到 $D _ { 2 }$ 左侧包含空白区域的矩形区域内(图3(c))；其次将 $D _ { 5 }$ 与 $D _ { 6 }$ 的嵌入部分转移到 $D _ { 5 }$ 下方包含空白区域的矩形区域内(图3(d))；最后再移动 $D _ { 2 }$ 与 $D _ { 1 }$ 的嵌入部分到 $D _ { 2 }$ 右侧包含空白区域的矩形区域(图3(e))，在此过程中布局整体的弹性势能不断变小，但执行完所有设施依次变形操作后， $D _ { 5 }$ 与 $D _ { 7 }$ 仍然存在嵌入，再次执行梯度法，最终得到合法布局，如图(3(f))所示。
+
+![](images/7ea755b82b82e1e739dd2192c46266e1e2dfc4ed01ae598634a74d31c27b7060.jpg)  
+图3一种典型的启发式设施变形策略执行过程示意图
+
+# 2.3基于Pareto 支配的局部搜索
+
+在针对多目标UA-FLP的HA算法中，首先随机产生 $n$ 个初始构型，然后对于每个构型 $X _ { i } ( i { \in } \{ 1 , 2 , . . . , n \} )$ ，通过执行启发式布局更新策略和布局合法化操作，得到一组由4N个布局组成的试验性构型库，记为 $T C$ 。在UA-FLP中，一个解对应一个布局或构型。通过比较当前解 $X _ { i }$ 与其对应的试验性构型库 $T C$ 中解 $X _ { j } ~ ( { j = 1 , 2 , . . . , 4 N } )$ 之间的Pareto 支配关系[10]来决定 $T C$ 中解的质量函数的值以及当前解的搜索方向。如果试验性构型库中的解 $X _ { j }$ 是不可行的解，则说明解 $X _ { j }$ 对当前解 $X _ { i }$ 的搜索方向没有帮助；如果解 $X _ { j }$ 是可行解且支配 $X _ { i }$ ，则说明解 $X _ { j }$ 有利于当前解 $X _ { i }$ 朝着Pareto 前沿的方向迭代，因此解的质量函数的值也就越大。在迭代 $t$ 步时，当前解 $X _ { i }$ 相对于 $T C$ 中 $X _ { j }$ 的质量函数$\theta _ { } ( t )$ 的定义如下：
+
+$$
+\theta _ { j } ( t ) = \left\{ \begin{array} { l l } { \lambda _ { 1 } , ~ X _ { j } \mathcal { H } \mathbb { J } \mathbb { H } \mathbb { J } \left. \overline { { \mathbb { T } } } \overline { { \mathbb { H } } } ^ { \mathcal { H } } \right. } \\ { \lambda _ { 2 } , ~ X _ { j } \mathcal { H } \overline { { \mathbb { J } } } \left. \overline { { \mathbb { T } } } \overline { { \mathbb { H } } } ^ { \mathcal { H } } \mathbb { H } \right. \mathrm { X } _ { i } \overline { { \mathbb { X } } } \overline { { \mathbb { H } } } \overline { { \mathbb { X } } } _ { j } ; } \\ { \lambda _ { 3 } , ~ X _ { j } \mathcal { H } \overline { { \mathbb { J } } } \left. \overline { { \mathbb { T } } } \overline { { \mathbb { H } } } \overline { { \mathbb { H } } } ^ { \mathcal { H } } \mathbb { H } X _ { i } \Xi \boldsymbol { X } _ { j } \mathcal { H } \overline { { \mathbb { J } } } \mathbb { J } \mathbb { Z } \right. \mathrm { \neq } \overline { { \mathbb { H } } } \overline { { \mathbb { J } } } \overline { { \mathbb { H } } } \overline { { \mathbb { J } } } \overline { { \mathbb { K } } } \overline { { \mathcal { H } } } \overline { { \mathbb { K } } } } \\ { \lambda _ { 4 } , ~ X _ { j } \left. \lambda \right. \mathbb { H } \overline { { \mathbb { J } } } \overline { { \mathbb { H } } } \mathbb { H } \mathbb { H } \mathrm { ~ X } _ { j } \overline { { \mathbb { X } } } \overline { { \mathbb { H } } } \overline { { \mathbb { X } } } _ { i } . } \end{array} \right.
+$$
+
+其中： $j { \in } \{ 1 , 2 , . . . , 4 N \}$ 。参数 $\lambda _ { 1 } , \lambda _ { 2 } , \lambda _ { 3 } , \lambda _ { 4 }$ 是质量函数的4个等级且 $\lambda _ { 1 } < \lambda _ { 2 } < \lambda _ { 3 } < \lambda _ { 4 }$ 。考虑到寻优方向除了与解的质量有关之外，也与解之间的距离有关。实验性构型库中解的质量函数值越大，与当前解的距离越近，则被选为当前解寻优方向的概率越大，故对于 $T C$ 中的每个实验性构型 $X _ { j }$ ，选择的概率定义如下：
+
+$$
+P _ { j } ( t ) = \frac { \theta _ { j } ( t ) \delta _ { j } ( t ) } { \sum _ { j = 1 } ^ { 4 N } \theta _ { j } ( t ) \delta _ { j } ( t ) } , j = 1 , 2 , . . . , 4 N
+$$
+
+其中： $\theta _ { j } ( t )$ 是算法迭代 $t$ 步时 $X _ { j }$ 的质量函数， $\delta ( t ) { = } 1 / f d _ { i j }$ ,其中 $f d _ { i j }$ 为当前解 $X _ { i }$ 与试验性构型库中 $X _ { j }$ 之间的距离，计算公式如下：
+
+$$
+f d _ { i j } = { \sqrt { \sum _ { s = 1 } ^ { m } ( f _ { s } ( X _ { i } ) - f _ { s } ( X _ { j } ) ) ^ { 2 } } }
+$$
+
+其中： $j { \in } \{ 1 , 2 , . . . , 4 N \}$ ， $m$ 是目标函数的个数。
+
+# 2.4基于小生境技术的全局搜索
+
+仅仅依靠于基于Pareto优化的局部搜索方法，算法可能陷入局部极小值，且对解的多样性不易保存。为了提高算法的全局搜索能力，本文提出一种基于小生境技术的全局搜索方式。设立一个用来保存当前算法找到的所有可能的非支配解的外部集合(文档)，记为 $B P$ 。当算法采用基于小生境技术的全局搜索进行寻优时，挑选集合 $B P$ 中散布最为稀疏的非支配解 $X _ { l }$ 作为当前解 $X _ { i }$ 的搜索方向。
+
+假设当前 $B P$ 中有 $p$ 个非支配解 $X _ { 1 } , X _ { 2 } , . . . , X _ { p }$ ，对于当前解$X _ { i }$ ，集合 $B P$ 中小生境数最小的非支配解 $X _ { l }$ 作为 $X _ { i }$ 的寻优方向，小生境数niche $( l )$ 的计算公式如下：
+
+$$
+n i c h e ( l ) = \sum _ { j = 1 , j \neq l } ^ { p } S ( f d _ { l j } ) , \ l = 1 , 2 , . . , p .
+$$
+
+其中： $S ( f d _ { l j } )$ 为共享函数的值，其计算公式如下：
+
+$$
+S ( f d _ { l j } ) = \left\{ { 1 - f d _ { l j } } \ / \ \sigma _ { s h a r e } \ , \mathrm { i f } \ f d _ { l j } < \sigma _ { s h a r e } ; \right.
+$$
+
+其中： $\sigma _ { s h a r e }$ 是小生境半径， $f d l j$ 为 $B P$ 中两个解 $X _ { l }$ 和 $X _ { j }$ 之间的距离，其计算公式参见式（15)。
+
+# 2.5启发式算法步骤描述
+
+HA的具体迭代步骤如下：
+
+a)随机产生 $n$ 个初始布局。设 $P _ { 0 } = 0 . 6$ ， $t = 1$ ，最大迭代步数为 $T$ 。
+
+b)对于每一个布局，执行GM和启发式设施变形策略进行合法化操作，得到一组尽可能合法的布局，称为构型库，记为$c$ 。
+
+c)确定 $c$ 中所有非支配解，记为 $B P$ 。
+
+d)令 $\scriptstyle { i = 1 }$ 。
+
+e)随机产生一个[0，1]内的随机数 $P$ ，当 $P \leq P _ { 0 }$ 时，则对 $c$ 中的当前构型 $X _ { i }$ 采用基于小生境技术的全局搜索，从 $B P$ 中挑选出最为稀疏的非支配解,记为 $X _ { l }$ ；否则转步骤f)。
+
+f)对于 $c$ 中的当前构型 $X _ { i }$ ，采用启发式布局更新策略，产生 $4 N$ 个新构型，对每个新构型执行GM和启发式设施变形策略，得到4N个尽可能合法的构型，称为试验性构型库，记为TC。采用基于Pareto 优化的局部搜索策略，从 $T C$ 中挑选出一个最优构型，记为 $X _ { l }$ 。
+
+g)更新构型库 $c$ ，即令 $\scriptstyle X _ { i } = X _ { l }$ 。
+
+h)更新 $B P$ 。如果挑选的可行解 $X _ { l }$ 对于 $B P$ 来说是非支配的，则将构型 $X _ { l }$ 加入 $B P$ ，并删除 $B P$ 中被 $X _ { l }$ 所支配的解；否则 $B P$ 保持不变。
+
+i)令 $i = i { + } 1$ 。如果 $i \leq n$ ，则转到步骤 e)；否则转到步骤j)。
+
+j)令 $t = t { + } 1$ 。如果 $t < T$ ，则转到步骤c)；否则输出 $B P$ 算法结束。
+
+# 3 仿真实验与结果分析
+
+# 3.1测试算例
+
+采用文献中两种不同规模的普遍使用算例对所提出的HA算法进行测试。算例O8由Meller等[19]首次提出，将8个设施放置在大小为 $1 1 . 3 1 \times 1 3$ 的车间内。本文设置初始构型的个数 $n$ 为200，迭代步数 $T$ 为100，质量函数的4个等级分别设为 $\lambda _ { 1 } =$ 0.01， $\lambda _ { 2 } { = } 0 . 1$ ， $\lambda _ { 3 } = 2$ ， $\lambda _ { 4 } = 5$ ；算例SC30由Liu和Meller[4提出，将 30个设施放置在大小为 $5 0 { \times } 5 0$ 的车间内，本文设置初始构型的个数 $n$ 为1000，迭代步数 $T$ 为900，质量函数的4个等级分别设为 $\lambda _ { 1 } = 0 . 0 1$ ， $\lambda _ { 2 } { = } 0 . 2$ ， $\lambda _ { 3 } = 8$ ， $\lambda _ { 4 } = 3 2$ 。对于每个算例，单位距离单位物流搬运费都设为1。关于物流量，设施的面积，密切度等级，最大纵横比约束和最小边长约束等详细参数设置，均可在文献[2]中找到。
+
+# 3.2 实验结果与分析
+
+在一台配置为Intel Core 2 Duo,2.94 GHz CPU 和2.0 GBRAM的PC上，利用Java语言对HA算法进行运算。对于每个算例，分别独立运行HA算法30次，对HA算法得到的目标最好值(Best)与平均值(Avg)这两个方面进行评估，并与Ripon 等[12]提出的自适应变邻域搜索算法(VNS)和 Ripon 等[20]提出的带局部搜索的进化算法(EAwithLS)和不带局部搜索的进化的算法(EAwithoutLS)进行结果对比，并将实验结果列在表2中。
+
+根据表2中的结果可知，HA对于物流搬运费(MHcost)和非物流关系强度(CRscore)在最好值和平均值上都优于或等于其他三种算法。对于算例O8，本文算法相比于三种对比算法中结果最好的VNS方法，HA得到的关于目标MHCost的结果改进了 $( 2 0 2 . 7 2 - 2 0 2 . 2 9 ) / 2 0 2 . 7 1 = 0 . 2 1 \%$ ，而CRScore的值相同。对于算例SC30，本文HA算法的结果比VNS 算法得到的关于目标 MHcost 的结果改进了 $( 3 7 0 7 - 3 5 5 3 . 5 3 ) / 3 7 0 7 { = } 4 . 1 4 \%$ ，而CRscore 改进了 $( 3 9 2 - 3 8 0 ) / 3 9 2 = ~ 3 . 0 6 \%$ 。图4和图5用三角形点分别表示由算法HA得到的算例O8和SC30的Pareto最优解集。从图中可以看出，通过HA算法得到的Pareto 解分布均匀，具有良好的多样性，能形成明显的Pareto前端。
+
+表2四种不同算法得到算例O8和SC30的结果比较  
+
+<html><body><table><tr><td rowspan="2">算例</td><td rowspan="2">对比算法</td><td colspan="2">物料搬运费 (MH Cost)</td><td colspan="2">非物流关系强度 (CR Score)</td></tr><tr><td>最优值 (Best)</td><td>平均值 (Avg)</td><td>最优值 (Best)</td><td>平均值 (Avg)</td></tr><tr><td>08</td><td>HA(本文方法)</td><td>202.29</td><td>251.157</td><td>70</td><td>51.428</td></tr><tr><td rowspan="6">SC30</td><td>VNS[12]</td><td>202.72</td><td>270.125</td><td>70</td><td>42.328</td></tr><tr><td>EA with LS[20]</td><td>202.72</td><td>279.69</td><td>68</td><td>38.00</td></tr><tr><td>EA without LS[20]</td><td>202.72</td><td>292.602</td><td>64</td><td>32.267</td></tr><tr><td>HA(本文方法）</td><td>3553.53</td><td>4101.84</td><td>392</td><td>287.48</td></tr><tr><td>VNS[12]</td><td>3707.00</td><td>4146.27</td><td>380</td><td>264.62</td></tr><tr><td>EA with LS[20]</td><td>3716.44</td><td>4186.04</td><td>370</td><td>249.834</td></tr><tr><td></td><td>EA without LS[20]</td><td>3740.75</td><td>4444.037</td><td>349</td><td>241.872</td></tr></table></body></html>
+
+为了进一步分析算法的性能，本文分别给出了两个算例目标的最优值(best)和平均值(avg)随着迭代步数增加的变化情况。图6(a)和图6(b)分别是算例O8 的两个目标MHCost和CR score的迭代图，图7(a)和图7(b)分别是算例SC30的两个目标MHcost 和CRscore的迭代图，图中目标值取自于HA算法30次运行的结果。从图中可以看出，两组算列的目标在算法迭代初期，波动比较大，但是随着迭代步数的增加，Best和Avg都趋于稳定，说明了算法具有较好的收敛速度和稳定性。
+
+![](images/dabc4f0c50f723067e05f6f2b0326590a7caa6eee34645a4a834cf4578364d53.jpg)  
+图4HA算法得到算例O8的Pareto最优解集
+
+![](images/55a03aacbc67f6faf590901f0948d7588331274610c881a9390dca4e07940b2c.jpg)  
+图5HA算法得到算例SC30的Pareto最优解集  
+(b) CR score 迭代图
+
+![](images/00fc1dd774c1d584e4d80ddad566ee6182b00d392139cb6b588f8c95c8fa6b61.jpg)
+
+![](images/9013e9a8d83f1136f56db393968bc96866b1ecea04e9dc40141582f7d8a9a49b.jpg)  
+图6算例O8目标迭代图  
+图7算例SC30目标迭代图
+
+# 4 结束语
+
+本文研究多目标UA-FLP，通过结合GM和启发式设施变形策略，提出了一种高效的解决设施之间互不嵌入的约束处理机制。该约束处理方法是一种解决（二维）车间设施布局问题中设施之间不嵌入的有效方法，同时也能推广到三维矩形布局问题，但从设施变形过程不难看出：该方法主要适用于矩形设施布局，对于圆形、三角形、以及不规则形状的任意设施变形，直接简单的推广具有困难，这将是以后研究的方向。另外，通过将基于Pareto 的局部搜索和基于小生境的全局搜索两种搜索方式相结合，避免了通常使用单一搜索方式的局限性，这不仅能够避免算法陷入局部最优，增强算法的全局搜索能力，而且能够提高算法获得Pareto最优解的多样性。通过两个典型的算例对算法性能进行测试和分析，并与目前文献中优秀的算法进行对比。实验结果表明，本文提出的HA算法对于解决多目标UA-FLP是一种有效的方法，在解的收敛性和解的多样性等方面均具有明显的优势，能够为企业提供有效的布局解决方案；同时，所提出的HA算法也能推广应用于解决其他多目标优化问题。
+
+# 参考文献：
+
+[1]Matai R,Singh S P,Mittal ML.Modified simulated annealing based approach for multi-objective facility layout problem [J].International Journal of Production Research,2013,51(14): 4273-4288.   
+[2]Komarudin,Wong K Y.Applying ant system for solving unequal area facility layout problems [J]. European Journal of Operational Research, 2010,202 (3): 730-746.   
+[3]Goncalves JF, Resende MG C.A biased random-key genetic algorithm for the unequal area facility layout problem [J].European Journal of Operational Research,2015,246 (1): 86-107.   
+[4]Liu Q,Meller R D.A sequence-pair representation and MIP-model-based heuristic for the facility layout problem with rectangular departments [J]. IE Transactions,2007,39 (4):377-394.   
+[5]Vitayasak S,Pongcharoen P,Hicks C.A tool for solving stochastic dynamic facility layout problems with stochastic demand using either a geneticalgorithm or modified backtracking search algorithm [J]. International Journal of Production Economics,2017,190 (8): 146-157.   
+[6]PaesF G,Pessoa A A，Vidal T.A hybrid genetic algorithm with decomposition phases for the unequal area facility layout problem [J]. European Journal of Operational Research,2017,256 (3): 742-756.   
+[7]Asl A D,Wong K Y. Solving unequal-area static and dynamic facility layout problems using modified particle swarm optimization [J]. Journal of Intelligent Manufacturing,2017,28 (6):1317-1336.   
+[8] 邱胜海，陈曙鼎，王云霞，等.遗传算法在车间设施布局优化中的应用 [J]．机械设计与制造工程，2017,46(2):80-83.(Qiu Shenghai,Chen Shuding，Wang Yunxia,et al.Application of genetic algorithm in optimization of facility layout workshop [J].Machine Design and Manufacturing Engineering,2017,46 (2): 80-83.)   
+[9]廖源泉，刘琼，陈俊明．基于遗传算法的车间设施布局优化及仿真研究 [J].机械研究与应用,2017,30(4):119-122.(Liao Yuanquan,Liu Qiong, Chen Junming.Optimization and simulation research of workshop facility layout based on genetic algorithm [J].Mechanical Research and Application,2017,30 (4): 119-122.)
+
+[10]王勇，蔡自兴，周育人，等．约束优化进化算法[J].软件学报，2009,
+
+20(1):11-29.(Wang Yong,Cai Zixing,Zhou Yuren,etal. Constrained optimization evolutionary algorithms [J].Journal of Software,2Oo9,20 (1): 11-29. )   
+[11]徐立云，杨守银，李爱平，等．生产车间布局多目标优化及其仿真分析 [J].机械设计与研究,2011,27(6):55-59.(Xu Liyun,Yang Shouyin,Li Aiping，et al.Multi-objectiveoptimization for facility layout and its simulation analysis [J].Machine Design and Research,2011,27 (6): 55-59.)   
+[12] Ripon K S N,Glete K, Khan KN,et al. Adaptive variable neighborhood search for solving multi-objective facility layout problems with unequal area facilities [J].Swarm and Evolutionary Computation,2013,8(1):1-12.   
+[13] Kumar R,Singh S P. Optimal selection of multi-criteria unequal area facilitylayoutproblem:anintegerlinearprogramand Borda-Kendall-based method [J]. International Journal of Business and Systems Research,2017,11 (1-2): 62-81.   
+[14] Hunagund I B,Pillai V M,Kempaiah U N.A simulated annealing algorithm for unequal area dynamic facility layout problems with flexible baystructure[J].International Journalof Industrial Engineering Computations,2018,9(3): 307-330.   
+[15] Liu Jingfa, Zhang Huiyun,He Kun,et al. Multi-objective particle swarm optimization algorithm based on objective space division for the unequal-area facility layout problem [J]. Expert Systems with Applications, 2018, 102 (5): 179-192.   
+[16]Liu Jingfa,Xue Shengjun,Liu Zhaoxia,et al.Animproved energy landscape paving algorithm for the problemof packing circles into a larger containing circle [J].Computers and Industrial Engineering,2009,57 (3): 1144-1149.   
+[17]Liu Jingfa,Li Jian,Lyu Zhipeng,et al.A quasi-human strategy-based improved basin filing algorithm for the orthogonal rectangular packing problem with mass balance constraint [J].Computers and Industrial Engineering,2017,107 (5):196-210.   
+[18]刘景发，李刚．求解带平衡性能约束的圆形装填问题的吸引盘填充算 法[J].中国科学：信息科学,2010,40(3): 423-432.(Liu Jingfa,Li Gang. Basin filing algorithm for the circular packing problem with equilibrium behavioral constraints [J]. Science China: Information Sciences,2010,40 (3), 423-432.)   
+[19]Meller RD,Narayanan V, Vance PH. Optimal facility layout design [J]. Operations Research Leters,1998,23 (3-5): 117-127.   
+[20] Ripon K S N,Khan K N,Glette K,et al.Using pareto-optimality for solving multi-objective unequal area facility layout problem [C]// Proc of the 13th Annual Conference on Genetic and Evolutionary Computation. New York: ACM Press,2011: 681-688.

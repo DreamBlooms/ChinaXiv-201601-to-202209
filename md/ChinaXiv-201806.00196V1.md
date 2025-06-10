@@ -1,0 +1,152 @@
+临床研究
+
+# 白细胞介素-22促进类风湿关节炎成纤维化膜细胞的增殖
+
+朱俊卿'，王 然²，陈世贤²，赵 迪²,李 娟²  
+南方医科大学南方医院，中医药学院，广东广州510515
+
+摘要：目的 通过白细胞介素-22(IL-22)干预类风湿关节炎(RA)成纤维滑膜细胞(FLS)以期明确IL-22促进其增殖的机制。方法无菌条件下获取的RA滑膜组织,应用组织块分离法培养RA-FLS,含 $10 \%$ FBS的DMEM培养基进行细胞传代培养，并对第 $4 { \sim } 5$ 代FLS应用vimentin/CD68进行免疫组化法鉴定;不同浓度的IL-22干预FLS培养24、48、72h后,MTT法检测细胞增殖程度;联合IL-22和/或AG490干预FLS,于冰面上用含蛋白酶抑制剂的细胞裂解液获取细胞总蛋白，再经超声、离心提取、蛋白定量后,Western blot法检测STAT3、ERK1/2、P38蛋白及其磷酸化蛋白的表达,统计分析采用SPSS20.0软件进行， $P { < } 0 . 0 5$ 为差异有统计学意义。结果不同浓度IL-22干预FLS的增殖均较对照组呈梯度增高变化，差异具有统计学意义 $( P { < } 0 . 0 5 )$ 。随着IL-22干预时间的延长，STAT3总蛋白表达相对灰度值的整体水平差异无统计学意义（ $\scriptstyle ( P = 0 . 6 8 )$ ，但是其磷酸化蛋白表达相对灰度值整体水平差异具有统计学意义( $P { < } 0 . 0 0 1$ ),且在干预的不同时间点STAT3磷酸化蛋白相对表达量较基线0h时均显著升高，且差异具有统计学意义 $( P { < } 0 . 0 0 1$ )。IL-22干预后的ERK1/2和P38总蛋白及其磷酸化蛋白表达相对灰度值差异均无统计学意义 $_ { ( P > 0 . 0 5 ) }$ 。联合 $5 0 ~ \mathrm { n g / m L }$ IL-22和 $1 0 0 \mathrm { \textmu m o l / L }$ AG490干预FLS不同时间后，细胞的增殖程度较单用IL-22干预均显著降低$( P { < } 0 . 0 1 )$ 。结论IL-22以浓度依赖方式促进RA成纤维化膜细胞STAT3蛋白磷酸化所介导的细胞增殖，而非ERK1/2和P38蛋白所介导的信号通路。
+
+关键词：类风湿关节炎；成纤维滑膜细胞；白细胞介素22；细胞信号通路
+
+# Interleukin-22 promotes proliferation of fibroblast-like synoviocytes from patients with rheumatoid arthritis by inducing STAT3 phosphorylation
+
+ZHU Junqing,WANG Ran,CHENShixian²,ZHAO Di²,LI Juan 1NanfangHospital,ColegeofaditionalCineseMedicine,SouthernMedicalUniersityGuangzhou55,Cina
+
+Abstract: ObjectiveToclarifythe mechanismbywhich interleukin-22(IL-2)promotestheproliferationoffibroblast-like synoviocytes (FLS)from patients with rheumatoid arthritis (RA). MethodsFLS were isolated from the synovial tissues of patients withRAand identified by immunohistochemistryfor vimentin/CD68.Thecels were subculturedand incubated with different concentrations of IL-22 for 24, 48, or $7 2 \mathrm { h } ,$ and their proliferation was examined using MTT assay. After treatment of the cells with IL-22andAG490,aloneor incombination,theexpressionsofthe totaland phosphorylated proteinsof STAT3, ERK1/2 and P38 were detected with Western bloting.Results IL-22 significantly increased the proliferation of FLS in a dose-dependent manner $( P { < } 0 . 0 5 )$ . The total protein of STAT3 in the cells showed no significant changes with extended time of IL-22 treatment $( P { = } 0 . 6 8 ) ,$ ,but the expression of phosphorylated STAT3 protein increased significantly $( P { < } 0 . 0 0 1 )$ . The total and phosphorylated proteins of ERK1/2 and P38 underwent no significant changes after IL-22 treatment $( P { > } 0 . 0 5 )$ . A combined treatment with $5 0 ~ \mathrm { n g / m L }$ IL-22 and $1 0 0 \ \mu \mathrm { m o l / L }$ AG490 resulted in a significant decrease in the proliferation of FLS as compared with IL-22 treatment alone $( P { < } 0 . 0 1 )$ . Conclusion IL-22 can dose-dependently promote the proliferation of FLS from patients with RAby inducing phosphorylation of STAT3 protein but notthrough ERK1/2 or P38 signal pathway. Keywords: rheumatoid arthritis; fibroblast-like synoviocytes; interleukin-22; signaling pathway
+
+类风湿关节炎(RA)是一种慢性、炎性、系统性的自身免疫疾病，其主要发病特点为持续进展性的外周对称性小关节滑膜炎症形成，并导致关节骨和软骨破坏，进而出现受累关节的畸形和功能障碍[2]。目前RA的确切发病机制尚不清楚，绝大多数观点认为其发病主要是由细胞因子、生长与分化因子等免疫蛋白和分子通过胞内外信号转导在树突状细胞、T/B淋巴细胞、成纤维滑膜细胞(FLS)成骨/破骨细胞等免疫细胞间形成复杂的调节网络而参与RA的发生与发展[3-4]。
+
+白细胞介素-22(IL-22)作为IL-10细胞因子家族成员，主要有活化辅助性T淋巴细胞、自然杀伤细胞等产生，并通过对靶细胞的作用发挥致病机制[5。既往在胶原诱导关节炎小鼠模型研究显示：与野生小鼠相比，IL-22缺陷小鼠对胶原诱导关节炎易感性显著下降。在RA患者中研究发现IL-22受体1在RA滑膜组织衬里层和衬里下层的vimentin $( + ) \mathrm { F L S }$ 中高表达，提示IL-22可能参与了RA滑膜病变的发展过程。同时，我们的既往研究亦发现自然杀伤细胞NKp44细胞亚群能够表达IL-22和肿瘤坏死因子 $\mathbf { \alpha } _ { \mathrm { { a } } } ( \mathrm { { T N F a } } )$ ,且其细胞上清液能在一定程度上促进FLS增殖[8-9],但IL-22参与RA-FLS增殖活化的机制尚未完全清楚。为此,本研究通过IL-22干预RA离体FLS并检测细胞的增殖程度及相关信号通路蛋白表达，以期明确IL-22促进FLS增殖的机制。
+
+# 1资料和方法
+
+# 1.1研究对象
+
+2012年2月\~2013年12月期间，南方医科大学附属南方医院中医风湿科和关节骨病外科行腔镜术或关节置换术的RA膝关节滑膜组织3例，患者均满足美国风湿病学会1987年修订的RA分类标准[或美国风湿病学会/欧洲抗风湿病联盟2010年RA新分类标准[]。该研究遵循赫尔辛基宣言原则，所有涉及人体样本的获得均得到患者本人的知情同意以及南方医科大学南方医院医疗机构伦理审查委员会批准（NO.NFEC-20120201)。
+
+# 1.2主要仪器和试剂
+
+全自动酶标仪(BIOTEK),Mini-PROTEAN TetraCell蛋白电泳仪、Tram-BlotSD半干电转仪、GelDoe2000凝胶成像系统（Bio-Rad），BCA蛋白试剂盒（Sangon Biotech）,RIPALysisBufferI,ECLPluskit（AmershamPharmacia）,immunoCruz M mouse LSAB染色试剂盒(Santa Cruz),重组人IL-22(RD),小鼠IgG1抗人vimentin、小鼠IgG1抗人CD68、小鼠IgG1同型对照抗体、 $a -$ 氰基-(3,4-羟基)N-苄苯乙烯胺(AG490)(SantaCruz)，抗信号传导及转录激活因子3(STAT3）小鼠单抗、抗磷酸化STAT3(p-STAT3)小鼠单抗、抗细胞外信号调节蛋白激酶1/2(ERK1/2)兔单抗、抗磷酸化ERK1/2(p-ERK1/2)兔单抗、抗P38兔单抗、抗磷酸化P38(p-P38)兔单抗、抗GAPDH兔单抗(Cell Signaling),PeroxidaseAffiniPure羊抗鼠IgGPeroxidaseAffiniPure羊抗兔IgG(JacksonImmuno),胎牛血清(FBS）DMEM培养基 $0 . 2 5 \%$ 胰酶(GIBCO)，甲基噻唑基四唑(MTT）、二甲基亚砜(DMSO）、Triton X-100(Sigma)。
+
+# 1.3FLS分离培养和鉴定[12-13]
+
+组织块法分离培养RA-FLS：无菌条件下获取滑膜组织块，PBS洗涤后加入含 $\mathrm { 2 0 \% ~ F B S + 1 0 0 ~ U / m L }$ 青霉素 $\mathrm { \dot { \cdot } + 1 0 0 ~ m g / m L }$ 链霉素的DMEM $1 ~ \mathrm { m L }$ ,将组织块用手术剪剪成 $1 \ \mathrm { m m } { \times } 1 \ \mathrm { m m } { \times } 1 \ \mathrm { m m }$ 大小,铺至细胞培养瓶底部,倒置于 $3 7 ~ \mathrm { { ^ { \circ } C } , 5 \% \ C O _ { 2 } }$ 细胞培养箱中培养2h后，加入上述培养基 $3 ~ \mathrm { m L }$ 覆盖组织块，并正置细胞培养瓶继续培养,2\~3d更换1次培养基，当大量FLS爬出后，去除贴附的组织块继续培养，镜下FLS爬满培养瓶面积$80 \%$ 时进行细胞传代培养。
+
+应用免疫组化法对第4\~5代FLS进行鉴定：将FLS用含 $10 \%$ FBS的DMEM培养基(或含干预药物的培养基)重悬、计数、调整细胞浓度至 $2 \times 1 0 ^ { 5 } / \mathrm { m L }$ ，接种0.5mL/孔于48孔板，细胞培养箱培养24、48、72h后 $4 \%$ 多聚甲醛 $1 ~ \mathrm { m L }$ 室温固定 $2 0 ~ \mathrm { { m i n } }$ ，按照免疫组化试剂盒步骤进行一抗、二抗孵育及终止，室温细胞核复染并封片后，荧光倒置显微镜下观察并拍照记录。
+
+# 1.4细胞体外干预分组
+
+IL-22干预FLS增殖分组： $1 \mathrm { n g / m L }$ IL-22组 $\scriptstyle \cdot 1 0 \mathrm { n g / m L }$ IL-22组 $ { 5 0 }  { \mathrm { n g / m L } }$ IL-22组、 $1 0 0 ~ \mathrm { { n g / m L } }$ IL-22组、正常细胞培养液对照组，分别培养24、48、72h后，MTT法检测细胞增殖程度。
+
+IL-22干预FLS信号通路分组： $5 0 ~ \mathrm { n g / m L }$ IL-22分别干预FLS $0 , 0 . 2 5 , 0 . 5 , 1 , 1 . 5 , 2 , 4 \mathrm { ~ h ~ }$ 以及 $8 \mathrm { ~ h ~ }$ 后，Westernblot检测STAT3、ERK1/2、P38总蛋白/磷酸化蛋白以及内参蛋白的表达。
+
+AG490抑制IL-22促进FLS增殖分组： $5 0 ~ \mathrm { n g / m L }$ IL-22 组、 $5 0 ~ \mathrm { n g / m L }$ IL $\cdot 2 2 + 1 0 0 \mathrm { \ \textmu m o l / L }$ AG490组、$1 0 0 \ \mathrm { \textmu m o l / L }$ AG490组、正常细胞培养液对照组，分别培养24、48、72h后，MTT法检测细胞增殖程度。
+
+# 1.5FLS增殖MTT检测[]
+
+取第4\~5代FLS制备成重悬细胞液，调整细胞浓度为 $3 { \times } 1 0 ^ { 4 } ~ \mathrm { c e l l / m L }$ ,分别接种 $1 0 0 ~ \mathrm { m L }$ 孔细胞于96孔板(均设置3个复孔),置于 $3 7 \%$ CO2培养箱中培养 $4 \mathrm { h }$ 分别在细胞贴壁后的第0、24、48小时加入含不同十预方案的培养基，并继续于细胞培养箱中培养细胞至贴壁后的第72小时，弃培养基，每孔加入含 $10 \%$ FBS的DMEM培养基 $9 0 \mu \mathrm { L }$ 和PBS配制的 $5 \mathrm { m g / m L }$ 的MTT液 $1 0 \mu \mathrm { L }$ ,细胞培养箱继续培养 $^ { 4 \mathrm { h } }$ 后每孔加入DMSO $1 2 0 { \mu \mathrm { L } }$ ，低速振荡溶解结晶后酶标仪测定吸光度 $\mathbf { A } _ { 4 9 0 \mathrm { n m } }$ 。
+
+# 1.6信号通路蛋白Western blot检测[7]
+
+取第4\~5代FLS制备成重悬细胞液，调整细胞浓度为 $1 \times 1 0 ^ { 5 } \mathrm { m L }$ ，分别接种 $1 \mathrm { m L }$ 孔细胞于6孔板，并加入含$10 \%$ FBS的DMEM培养基 $2 { \mathrm { ~ m L ~ } }$ 后置于 $3 7 \%$ $\mathrm { C O } _ { 2 }$ 培养箱中培养 $2 4 \mathrm { h }$ ,加入含不同干预方案的培养基继续培养至干预结束，于冰面上用含蛋白酶抑制剂的细胞裂解液(RIPALysisBufferI)收集细胞并超声打断、离心、提取蛋白层液体，BCA蛋白试剂盒计算样品蛋白浓度（步骤见试剂盒说明书）， $1 0 0 \mathrm { { ^ { \circ } C } }$ 沸水预处理蛋白变性并离心、冷却后，分别将 $3 0 ~ \mu \ g$ 总量的蛋白样本加入SDS-PAGE胶上样孔，电压 $1 0 0 { \mathrm { V } }$ 下浓缩胶电泳 $2 0 ~ \mathrm { { m i n } }$ ，电压$2 0 0 { \mathrm { V } }$ 下分离胶电泳 $4 0 \mathrm { m i n }$ ,PVDF半干转膜,封闭液封闭 $1 \mathrm { h } , 4 ^ { \circ } \mathrm { C }$ 摇床孵育一抗过夜，室温摇床孵育二抗1h,化学发光法(ECLPluskit)显影曝光后，凝胶成像系统摄图并Gel-Pro analyzer4.0比较分析条带光密度。
+
+# 1.7统计学方法
+
+采用SPSS20.0软件统计分析，描述计量资料用均数 $\ni ( \pm ,$ 标准差,Shapiro-Wilk进行正态性检验,Levene进行方差齐性检验，检验水准为0.1，多组正态资料比较采用One-WayANOVA，组间多重比较采用Bonferroni法(方差齐)或Tambane'sT2法(方差不齐);多组非正态分布计量资料用Kruskal-Wallis秩和检验,统一双侧假设检验， $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+# 2.1FLS胞体外培养和鉴定
+
+RA膝关节来源的FLS体外培养呈现长梭形、“涡旋状”贴壁优势生长(图1A\~C)。应用第4\~5代FLS进行免疫组化鉴定显示：细胞因表达Vimentin使其胞质呈棕黄色染色，CD68染色呈阴性(图1D\~F)。
+
+![](images/593250213cb18b29b3c5d6e56a2bfb58e37384618c54ae2fe135e919e89d6e54.jpg)  
+图1FLS体外培养和鉴定 Fig.1Invitro cultureand identificationof fibroblast-likesynoviocytes (FLS)from patients with rheumatic arthritis (RA).A: Primary FLS (Original magnification: $\times 1 0 0 ^ { \cdot }$ ; B: Fourth passage of FLS $( \times 1 0 0 ) .$ C: Fourth passage of FLS $( \times 2 0 0 )$ D,E IdentificationofFLS byimmunohistochemistryfor vimentinand CD68,respectively;F:IdentificationofFLS by immunohistochemistry with PBS.
+
+# 2.2IL-22促进FLS增殖呈剂量浓度依赖趋势
+
+应用不同浓度IL-22干预FLS24、48、72h后，MTT法检测细胞增殖结果(表1)：在不同干预时间组，FLS增殖的整体水平差异均具有统计学意义( $F { = } 1 2 . 8 1 , 1 7 . 3 6$ $1 4 . 1 6 ; P { < } 0 . 0 0 1 \$ )。进一步组间多重比较分析显示，在干预 $2 4 \mathrm { h }$ 和 $4 8 \mathrm { ~ h ~ }$ 组，除 $1 ~ \mathrm { n g / m L }$ IL-22干预与对照组相比细胞增殖无显著差异外( $\scriptstyle P = 0 . 2 1 , 0 . 0 5 )$ ,其它浓度干预组FLS的增殖均较对照组呈梯度增高变化，差异具有统计学意义 $( P { < } 0 . 0 5 )$ ；在干预 $7 2 \mathrm { ~ h ~ }$ 组，不同浓度IL-22干预FLS增殖均呈浓度梯度变化趋势 $( P { < } 0 . 0 5 )$ 。
+
+表1IL-22促进RA-FLS的增殖 Tab.1Effect of different concentrations of IL-22 on FLS proliferation (Mean±SD   
+
+<html><body><table><tr><td rowspan="2">Group</td><td colspan="6">IL-22 (ng/mL)</td><td rowspan="2"></td><td rowspan="2">P</td></tr><tr><td>0</td><td>1</td><td>10</td><td>50</td><td></td><td>100</td></tr><tr><td>24 h</td><td>0.15±0.03</td><td>0.19±0.03</td><td>0.21±0.01*</td><td>0.23±0.03**</td><td>0.27±0.03***</td><td>12.81</td><td></td><td><0.001</td></tr><tr><td>48h</td><td>0.17±0.03</td><td>0.21±0.01</td><td>0.24±0.04*</td><td></td><td>0.28±0.04**</td><td>0.27±0.04**</td><td>17.36</td><td><0.001</td></tr><tr><td>72 h</td><td>0.17±0.01</td><td>0.20±0.02*</td><td>0.27±0.05*</td><td>0.31±0.06**</td><td></td><td>0.31±0.06**</td><td>14.16</td><td><0.001</td></tr></table></body></html>
+
+Compared with $0 ~ \mathrm { n g / m L }$ IL-22 group; $^ { * } P { < } 0 . 0 5$ $* * P { < } 0 . 0 1$ $^ { * * * } P { < } 0 . 0 0 1$
+
+# 2.3IL-22通过STAT3蛋白磷酸化促进FLS增殖
+
+应用 $5 0 \mathrm { \ n g / m L }$ IL-22干预FLS不同时间后，Westernblot检测STAT3总蛋白及其磷酸化蛋白表达的结果显示：随着干预时间的延长，STAT3磷酸化蛋白表达呈增加的变化趋势，而STAT3总蛋白及内参甘油醛-3-磷酸脱氢酶(GAPDH)蛋白未见明显变化(图2)。进一步蛋白半定量分析结果显示(表2)：随着干预时间的延长，STAT3总蛋白表达相对灰度值(STAT3/GAPDH)的整体水平差异无统计学意义 $\scriptstyle ( F = 4 . 8 7 ; P = 0 . 6 8 )$ ，但是其磷酸化蛋白表达相对灰度值(p-STAT3/STAT3)的整体水平差异具有统计学意义 $\scriptstyle { ( F = 4 9 1 8 . 4 3 ; P < 0 . 0 0 1 ) }$ ；进一步组间多重比较结果显示：IL-22干预不同时间点STAT3磷酸化蛋白相对表达量较基线 $0 \mathrm { { h } }$ 均显著升高，且差异具有统计学意义 $_ { ( P < 0 . 0 0 1 }$ )。
+
+![](images/4c1b3f49a8cbeef61ca4fbb71e3aa8dcbe2b880720de4c99db8a65e12b6d75d1.jpg)  
+图2IL-22对FLSSTAT3总蛋白及其磷酸化蛋白表达的影响 Fig.2 Effect of IL-22 on expressions of total and phosphorylated STAT3 proteins in FLS.
+
+表2IL-22对FLSSTAT3、ERK1/2和P38总蛋白及其磷酸化蛋白表达的影响Tab.2EffectofIL-22on expressionsofSTAT3,ERK1/2,P38andtheir phosphorylated proteins inFLS (Mean±SD)  
+
+<html><body><table><tr><td>Group</td><td>p-STAT3</td><td>t-STAT3</td><td>p-ERK1/2</td><td>t-ERK1/2</td><td>p-P38</td><td>t-P38</td></tr><tr><td>0h</td><td>0.89±0.03</td><td>0.04±0.00</td><td>1.00±0.01</td><td>0.21±0.01</td><td>0.99±0.01</td><td>0.89±0.03</td></tr><tr><td>0.25h</td><td>0.91±0.07</td><td>0.11±0.00***</td><td>1.00±0.02</td><td>0.23±0.01</td><td>1.04±0.03</td><td>0.92±0.06</td></tr><tr><td>0.5h</td><td>0.91±0.12</td><td>0.15±0.00***</td><td>1.01±0.02</td><td>0.23±0.02</td><td>1.03±0.05</td><td>0.94±0.09</td></tr><tr><td>1h</td><td>0.88±0.03</td><td>0.16±0.01***</td><td>1.01±0.02</td><td>0.21±0.01</td><td>1.00±0.00</td><td>0.91±0.03</td></tr><tr><td>1.5 h*</td><td>0.94±0.06</td><td>0.22±0.00***</td><td>1.01±0.01</td><td>0.22±0.02</td><td>1.00±0.01</td><td>0.94±0.07</td></tr><tr><td>2h</td><td>0.95±0.07</td><td>0.26±0.00***</td><td>1.00±0.00</td><td>0.23±0.00</td><td>1.00±0.01</td><td>0.93±0.07</td></tr><tr><td>4 h</td><td>0.90±0.06</td><td>0.30±0.00***</td><td>1.00±0.01</td><td>0.23±0.03</td><td>1.02±0.04</td><td>0.90±0.04</td></tr><tr><td>8h</td><td>0.91±0.10</td><td>0.36±0.00***</td><td>1.01±0.01</td><td>0.23±0.02</td><td>1.05±0.04</td><td>0.93±0.09</td></tr><tr><td>x/F</td><td>4.87</td><td>4918.43</td><td>6.98</td><td>9.24</td><td>10.06</td><td>0.24</td></tr><tr><td>P</td><td>0.68</td><td><0.001</td><td>0.43</td><td>0.24</td><td>0.19</td><td>0.97</td></tr></table></body></html>
+
+#Compared with O h group; p-,phosphorylated protein; t-,total protein; $^ { * * * } P { < } 0 . 0 0 1$
+
+# 2.4IL-22促进FLS增殖不依赖ERK1/2和P38蛋白磷酸化
+
+应用 $5 0 ~ \mathrm { n g / m L }$ IL-22干预FLS不同时间后，Westemblot检测ERK1/2和P38总蛋白及其磷酸化蛋白表达的结果显示：在不同的干预时间，ERK1/2和P38的总蛋白、磷酸化蛋白以及内参GAPDH蛋白均未见明显变化差异(图3)。进一步蛋白半定量分析结果显示(表2)：随着干预时间的延长，ERK1/2总蛋白表达相对灰度值(ERK1/2/GAPDH）ERK1/2磷酸化蛋白表达相对灰度值(p-ERK1/2/ERK1/2）、P38总蛋白表达相对灰度值(P38/GAPDH)以及P38磷酸化蛋白表达相对灰度值(p-P38/P38)的整体水平差异均无统计学意义。
+
+# 2.5阻断STAT3磷酸化能够抑制FLS的增殖
+
+联合应用 $5 0 ~ \mathrm { n g / m L }$ IL-22和 $1 0 0 \mathrm { \textmu m o l / L }$ AG490干预FLS24、48、72h后，MTT增殖结果显示(表3)：在不同十预时间组，FLS增殖的整体水平差异均具有统计学意义 $( F \mathrm { = } 4 7 . 2 0 , 5 8 . 0 4 , 3 2 . 9 0 ; P \mathrm { < } 0 . 0 0 1 )$ ; $5 0 ~ \mathrm { n g / m L }$ IL-22分别干预FLS不同时间后，细胞增殖程度与空白对照组相比均显著升高，差异均具有统计学意义 $\scriptstyle { \mathit { P } = 0 . 0 0 1 , 0 . 0 0 8 }$ 0.005);联合 $5 0 ~ \mathrm { n g / m L }$ IL-22和 $1 0 0 \mu \mathrm { m o l / L A G } 4 9 0$ 干预FLS不同时间后，细胞增殖程度较单用IL-22干预均显著降低 $( P { < } 0 . 0 1 \$ );此外，单用 $1 0 0 \mathrm { \textmu m o l { } L }$ AG490干预FLS培养24、48、72h后，细胞增殖程度与空白对照组相比亦均显著降低,差异具有统计学意义 $( P { < } 0 . 0 1$ )。
+
+![](images/dcfb876f5f0cfdb31c6c6b97288fca5ff396a0c124987e088cf9a605f533ed63.jpg)  
+图3IL-22对FLSERK1/2和P38总蛋白及其磷酸化蛋白表达的影响 Fig.3Effect of IL-22 onexpressions of ERK1/2,P38and their phosphorylated proteins inFLS.
+
+表3AG490抑制IL-22促进的FLS增殖 'ab.3AG490 inhibited the proliferation of FLS induced by IL-22 (Mean±SD)   
+
+<html><body><table><tr><td>Group</td><td>Control</td><td>50 ng/mL IL-22*</td><td>50 ng/mL IL-22+AG490&</td><td>AG490*</td><td>F</td><td>P</td></tr><tr><td>24 h</td><td>0.16±0.03</td><td>0.22±0.03**</td><td>0.10±0.01***</td><td>0.06±0.03***</td><td>47.20</td><td><0.001</td></tr><tr><td>48 h</td><td>0.19±0.02</td><td>0.29±0.48**</td><td>0.10±0.02***</td><td>0.09±0.04***</td><td>58.04</td><td><0.001</td></tr><tr><td>72 h</td><td>0.21±0.03</td><td>0.30±0.05**</td><td>0.10±0.05***</td><td>0.09±0.05***</td><td>32.90</td><td><0.001</td></tr></table></body></html>
+
+\*Compared with control group;‘compared with IL-22 group; $^ { * * } P { < } 0 . 0 1$ ， $^ { * * * } P { < } 0 . 0 0 1$
+
+# 3讨论
+
+关节滑膜组织是RA主要的炎症部位，FLS的过度增殖使其通过类肿瘤细胞样方式侵蚀组织，是RA滑膜炎及最终导致骨破坏的重要机制[1415]。通过自分泌或其它免疫细胞分泌多种细胞因子和生长趋化因子（如TNFα、IL-1、IL-17、IL-22、TGF-β等)的方式,FLS实现自身的过度增殖、活化，并迁移至关节效应部位发挥重要生物学作用[16-19]。本研究FLS体外培养显示：细胞呈现长梭形、“涡旋状”贴壁优势生长，第4\~5代FLS表达Vimentin蛋白。基于上述FLS在RA发病中的重要机制，本研究进一步以FLS为干预靶细胞进行了上游RA免疫调控机制的探讨。
+
+IL-22主要由 $\mathrm { C D 4 ^ { + } T }$ 细胞、自然杀伤T细胞、先天淋巴细胞以及TH22细胞分泌产生[19-20],并作用于角质形成细胞、上皮细胞，肝细胞以及成纤维细胞等多种细胞类型，通过促进自然免疫，减少组织损伤，加速再生等发挥相关生物学功能[5]。既往研究发现,IL-22缺陷小鼠对胶原诱导关节炎的发生率及关节血管翳明显下降，且低表达TNFα、IL-6、IL-1β和基质金属蛋白酶。同时有研究报道同种异体间充质干细胞移植能够通过减少IL-22的表达抑制基质金属蛋白酶3的表达，进而改善大鼠关节炎症[21]。此外在人体研究的系统分析发现与骨关节患者相比，IL-22的表达在银屑病关节炎和RA患者的滑液中均显著升高[22]。鉴于IL-22受体在RA滑膜组织衬里层和衬里下层的vimentin $( + )$ FLS中高表达，那么，IL-22是否直接参与了RA-FLS的病理过程？本研究应用不同浓度IL-22干预RA离体FLS，结果发现IL-22能够促进FLS的增殖，且其促增殖效应呈现一定的IL-22浓度梯度趋势。上述研究结果从另外一个角度验证了本课题组既往的研究发现，即RA患者离体自然杀伤细胞亚群NKp44细胞能够表达IL-22和TNFα,且其细胞上清液能在一定程度促进FLS增殖[8]
+
+RA-FLS参与免疫活化及功能依赖特定相关信号通路的激活，包括：丝裂原活化蛋白激酶途径，如JNK/ERK/P38在RA滑膜中磷酸化水平更高，能够参与细胞的增殖、炎症因子及基质金属蛋白酶的合成分泌[23];JAK激酶/STAT途径，其中作为多种细胞因子的共同途径，
+
+STAT3是细胞存活、增殖和分化的重要信号通路[24]，STAT3负突变体研究亦证明其是FLS存活的重要胞内信号[25];脾酪氨酸激酶途径,其不仅调节多种T/B免疫细胞受体信号，同时在FLS活化及IL-6分泌过程中具有重要作用26；核因子kB途径，在炎症因子IL-1或TNFa刺激下，FLS通过活化上述信号通路促进IL-6、IL-8、基质金属蛋白酶以及细胞间粘附分子-1的转录表达[27]。可见，不同信号通路的激活不仅依赖特定的刺激信号，同时其所发挥的生物学效应亦存在较大的差异。那么在本研究中，IL-22所促进的FLS增殖的相关信号通路机制是什么？
+
+既往研究发现RA患者NK-22细胞上清液能够分泌IL-22并上调FLS STAT3 mRNA和p-STAT3的表达[28]。IL-22能够通过STAT3磷酸化保护硝普钠诱导的FLS凋亡[29]。由于STAT3mRNA的高表达更可能提示STAT3总蛋白的表达差异，那么IL-22究竟是通过影响STAT3总蛋白表达还是其磷酸化蛋白的表达而发挥生物学功能？此外,缺乏外源性RANKL时，IL-22预处理的RA-FLS能够促进单核细胞分化为破骨细胞，但该过程能够被p38MAPK/NF- $\cdot \mathbf { \{ } \mathbf { B } _ { } $ 或JAK2/STAT3信号通路阻断剂所抑制3。那么,IL-22促进FLS的增殖过程是否同时也存在其他信号通路途径的参与？为此，本研究应用Westernblot方法分析 $5 0 ~ \mathrm { n g / m L }$ IL-22干预FLS后STAT3、ERK1/2、P38总蛋白及其磷酸化蛋白的表达，结果显示：IL-22在不同的时间点均能够促进FLS中STAT3蛋白的磷酸化水平，且呈现一定的时间延长效应趋势，但IL-22干预后的STAT3总蛋白、ERK1/2总蛋白和磷酸化蛋白、P38总蛋白和磷酸化蛋白水平均未见明显表达差异。在此基础上，进一步应用 $1 0 0 \mathrm { \textmu m o l / L }$ AG490阻断STAT3蛋白磷酸化后， $5 0 ~ \mathrm { n g / m L }$ IL-22所促进的FLS增殖水平较对照组出现了显著降低,差异具有统计学意义，提示IL-22促进FLS的增殖依赖STAT3蛋白的磷酸化。
+
+综上所述，本研究发现IL-22能够以浓度依赖方式促进RA-FLS的增殖，且该增殖过程是由STAT3蛋白磷酸化所介导的信号通路激活而实现，同时我们亦发现IL-22对FLS的ERK1/2和P38蛋白及其磷酸化蛋白的表达无明显作用。今后继续深入探讨RA中高表达的IL-22与FLS及其他免疫细胞之间的相互作用机制，对进一步揭示RA的发病机制以及相关靶向药物的研发具有重要的理论意义和临床价值。
+
+# 参考文献：
+
+[1]Smolen JS,AletahaD,Mcinnes IB.Rheumatoid arthritis[J].Lancet, 2016,388(10055): 2023-38.   
+[2]Valesini G,Barone F,Bompane D,et al.Advances in immunology and rheumatoid arthritis pathogenesis[J].Reumatismo,2oo4,56(1 Suppl 1): 9-20.   
+[3]Mcinnes IB, Schett G. The pathogenesis of rheumatoid arthritis[J]. N Engl JMed,2011,365(23): 2205-19.   
+[4]Bellucci E,Terenzi R,La Paglia G,et al. One year in review 2016: pathogenesis of rheumatoid arthritis[J]. Clin Exp Rheumatol, 2016, 34(5): 793-801.   
+[5]Shabgah AG, Navashenaq JG, Shabgah OG,et al. Interleukin-22 in human inflammatory diseases and viral infections［J].Autoimmun Rev,2017,16(12): 1209-18.   
+[6] Geboes L, Dumoutier L, Kelchtermans H,et al. Proinflammatory role of the Thl7 cytokine interleukin-22 in collagen-induced arthritis in C57BL/6 mice[J].Arthritis Rheum,2009,60(2):390-5.   
+[7] Ikeuchi H, Kuroiwa T,Hiramatsu N,et al.Expressionof interleukin22 in rheumatoid arthritis: potential role asa proinflammatory cytokine[J].Arthritis Rheum,2005,52(4):1037-46.   
+[8]Ren J, Feng Z,Lv Z,et al. Natural killer-22 cels in the synovial fluid of patients with rheumatoid arthritis are an innate source of interleukin 22 and tumor necrosis factor $\mathbf { \sigma } _ { \mathbf { \cdot } \mathbf { d } \left[ \mathbf { J } \right] }$ JRheumatol,2011,38 (10): 2112-8.   
+[9] Zhu J,Jia E,Zhou Y,et al. Interleukin-22 secreted by $\mathrm { N K p 4 4 } +$ natural killer cellspromotesproliferation of Fibroblast-Like synoviocytes in rheumatoid arthritis [J].Medicine (Baltimore), 2015, 94(52): e2137.   
+[10]Arnett FC,Edworthy SM,Bloch DA，et al.The American rheumatism association 1987 revised criteria for the classification of rheumatoid arthritis[J].Arthritis Rheum,1988,31(3): 315-24.   
+[11]Aletaha D,Neogi T,Silman AJ,et al.201O rheumatoid arthritis classification criteria:an American College of Rheumatology/ European League Against Rheumatism collaborative initiative[J]. Ann Rheum Dis,2010,69(9): 1580-8.   
+[12]OtaF,Maeshima A,Yamashita S,etal.Activin a induces cellproliferation of fibroblast-like synoviocytes in rheumatoid arthritis[J]. Arthritis Rheum,2003,48(9): 2442-9.   
+[13]Neidhart M,Seemayer CA，Hummel KM,et al．Functional characterization of adherent synovial fluid cells in rheumatoid arthritis:destructive potential in vitro andinvivo [J].Arthritis Rheum,2003,48(7):1873-80.   
+[14]Meinecke I,Rutkauskaite E,Gay S,et al. The role of synovial fibroblasts in mediating joint destruction in rheumatoid arthritis[J]. Curr Pharm Des,2005,11(5): 563-8.   
+[15]Guiducci S,Del Rosso A,Cinelli M,et al. Rheumatoid synovial fibroblasts constitutively Express the fibrinolytic pattern of invasive tumor-like cels[J].Clin Exp Rheumatol,2005,23(3): 364-72.   
+[16] Pierer M,Brentano F,Rethage J,et al.The TNF superfamily member LIGHT contributes to survival and activation of synovial fibroblastsin rheumatoidarthritis [J].Rheumatology (Oxford), 2007,46(7): 1063-70.   
+[17] Xue C,Hasunuma T,Asahara H, et al. Transcriptional regulation of the HOX4C gene by basic fibroblast growth factor on rheumatoid synovial fibroblasts[J].Arthritis Rheum,1997,40(9):1628-35.   
+[18] Stanford SM,Aleman Muench GR，Bartok B,et al.TGFβ responsive tyrosine phosphatase promotes rheumatoid synovial fibroblast invasiveness[J].Ann Rheum Dis,2016,75(1):295-302.   
+[19]Xu S,Xiao Y, Zeng S,et al．Piperlongumine inhibits the proliferation,migration and invasion of fibroblast-like synoviocytes from patients with rheumatoid arthritis[J].Inflamm Res,2017,8: doi: 10.1007/s00011-017-1112-9.[Epub ahead of print].   
+[20] Zhen J,Yuan J,Fu YW,et al. IL-22 promotes Fas expression in oligodendrocytes and inhibits FOXP3 expression in T cells by activating the NF-kappa B pathway in multiple sclerosis[J].Mol Immunol,2017,82(5): 84-93.   
+[21]Liu GY,Bian S,Li F,et al. Effect of allogenic mesenchymal stem cells transplantation on the expression of interleukin-22 and matrix metalloproteinase-3 in rats with collagen induced arthritis [J]. Zhonghua Yi Xue Za Zhi,2017,97(9): 698-702.   
+[22]Altobelli E,Angeleti PM,Piccolo D,et al.Synovial fluid and serum concentrations of inflammatory markers in rheumatoid arthritis,psoriatic arthritis and osteoarthitis:a systematic review[J]. Curr Rheumatol Rev, 2017,[Epub ahead of print]   
+[23]Thalhamer T,Mcgrath MA,Harnett MM.MAPKs and their relevance to arthritis and inflammation[J].Rheumatology,2008,47 (4): 409-14.   
+[24] Okamoto H, Kobayashi A. Tyrosine kinases in rheumatoid arthritis [J].JInflamm,2011,8(1): 21.   
+[25]Krause A, Scaletta N,Ji JD, et al.Rheumatoid arthritis synoviocyte survival is dependent on Stat3[J].JImmunol,2002,169(11): 6610- 6.   
+[26] Cha HS,Boyle DL, Inoue T,et al.A novel spleen tyrosine kinase inhibitor blocks c-Jun N-terminal kinase-mediated gene expression in synoviocytes[J].JPharmacol Exp Ther,2006,317(2):571-8.   
+[27]Aupperle KR,Bennett BL,Han ZN,et al. NF-kappa B regulation byI kappa B kinase-2 in rheumatoid arthritis synoviocytes[J].J Immunol,2001,166(4): 2705-11.   
+[28]RenJ, Zhou Y,Wu H,et al.Role of NK-22 cellsand interleukin-22- related molecules in proliferation of fibroblast-like synoviocytes in patients with rheumatoid arthritis[J].Nan Fang Yi Ke Da Xue Xue Bao,2014,34(1): 20-4.   
+[29] Zhao M,Li Y,Xiao W.Anti-apoptotic effect of interleukin-22 on fibroblast-like synoviocytes in patients with rheumatoid arthritis is mediated via the signal transducer and activator of transcription 3 signaling pathway[J]. Int JRheum Dis,2017,20(2): 214-24.   
+[30]Kim KW,Kim HR,Park JY,et al.Interleukin-22 promotes osteoclastogenesis in rheumatoid arthritis through induction of RANKL in human synovial fibroblasts[J].Arthritis Rheum,2012, 64(4): 1015-23.

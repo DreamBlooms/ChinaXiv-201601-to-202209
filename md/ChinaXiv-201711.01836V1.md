@@ -1,0 +1,191 @@
+不同物理有效纤维水平饲粮制粒对山羊养分表观消化率的影响1杨丽高立鹏白云峰\*张　凯孟梅娟宋谦（江苏省农业科学院，六合动物科学基地，南京210014)
+
+4摘要：本试验旨在研究不同物理有效纤维(peNDF)水平饲粮制粒对山羊养分表观消化率的影响。选取4只体重约为 $2 5 ~ \mathrm { k g }$ 的波杂公山羊（波尔山羊 $\times$ 徐淮山羊），采用 $4 { \times } 4$ 拉丁方试验设计，4只试验山羊分别饲喂4种不同的饲粮。饲粮A、B分别为peNDF水平为 $2 2 . 6 9 \%$ 的粉料、颗粒料，饲粮C、D 分别为peNDF水平为 $3 1 . 6 9 \%$ 的粉料、颗粒料。4种饲粮的中性洗涤纤维、粗蛋白质含量及总能等相等或接近。试验分为4期，每期 $1 5 { \mathrm { d } }$ ，其中预试期 $1 0 \mathrm { d }$ ，正试期5d。结果表明：1）低peNDF水平下，与饲粮A相比，饲粮B显著提高了酸性洗涤纤维、粗蛋白质、干物质、有机物、钙、磷表观消化率及氮保留量、氮保留率与氮生物学价值（ $P { < } 0 . 0 5$ ）；2）高peNDF水平下，与饲粮C相比，饲粮D 显著提高了中性洗涤纤维、酸性洗涤纤维、粗蛋白质、干物质、有机物、钙、总能表观消化率及氮保留率（ $P { < } 0 . 0 5$ ）；3）相同饲粮形态下，与高 peNDF 饲粮（饲粮C、D）相比，低 peNDF水平饲粮（饲粮A、B）除钙表观消化率无显著提高（ $P { > } 0 . 0 5$ ）外，其余养分表观消化率均显著提高（ $\cdot P { < } 0 . 0 5$ ）。由本试验结果得出，在高和低2种peNDF水平下，饲粮经制粒均提高了山羊的养分表观消化率。
+
+关键词：物理有效纤维；制粒；山羊；表观消化率中图分类号：S816 文献标识码：A 文章编号：
+
+随着国家对环境生态问题的日益重视，畜牧业生产向工厂化舍饲方式转变已是必然趋势。反刍动物舍饲圈养需要有充足的草料资源，虽然我国每年农作物秸秆的产量巨大，但直接饲喂动物秸秆采食量低、易造成挑食，导致饲粮纤维素供给不足或者利用率降低，进而引发代谢紊乱及代谢病（酮病、妊娠毒血症等）[]。采用颗粒化全价饲粮饲喂羊，有利于羊的工厂化舍饲圈养。颗粒化饲料有利于大规模工业化生产，可明显改善饲料的适口性，提高采食量[2，避免动物挑食造成的营养不均衡，减少饲料浪费[3]。Holter 等[4]在保持精粗比一致的基础上，用不同处理的全混合日粮饲喂奶牛，研究发现全混合日粮的颗粒化可以显著提高饲粮养分的表观消化率。Reddy等[5]以绵羊为试验动物对全混合日粮的物理形状作了研究，结果表明颗粒化全混合日粮较散状饲粮显著提高了氮的保留率。
+
+Mertens[]在1997 年提出了物理有效纤维(physically effective neutral detergent fiber,peNDF)这一概念。peNDF 指的是饲粮中影响咀嚼活动和瘤胃内容物两相分层的那部分纤维，与饲料颗粒的长度有关。由于中性洗涤纤维(NDF)是反刍动物必不可少的一种营养素，peNDF 更能理想地反映出反刍动物瘤胃内环境的稳定状况，饲喂不同peNDF 水平的饲粮对反刍动物的采食量[]、唾液分泌和瘤胃内环境[8]及养分表观消化率等均会造成影响。当饲粮缺乏纤维时，动物的唾液分泌量将会减少，造成瘤胃内环境发生变化，主要是降低瘤胃pH，改变胃肠道内微生物种类及数量以及瘤胃发酵模式，长此以往，会对动物的健康造成损害，从而影响生产性能[9]。但饲粮经制粒后，peNDF 水平降低，而不同peNDF 水平饲粮制粒对山羊养分的消化利用尤其是纤维素的消化利用是否存在影响，目前尚未有统一的结果。因此，本试验拟通过研究不同peNDF水平下饲粮经制粒后对山羊养分表观消化率的影响，为在反刍动物不同peNDF水平下全混合日粮中合理应用各种饲料加工处理技术提供参考。
+
+1材料与方法
+
+1.1 试验设计
+
+选取4只8月龄、体重为（ $2 5 . 0 { \pm } 0 . 5 \$ ） $\mathrm { k g }$ 的波杂公山羊（波尔山羊 $\mathbf { \nabla } \times$ 徐淮山羊），采用 $4 { \times } 4$ 拉丁方试验设计，每期试验 $1 5 \mathrm { ~ d ~ }$ ，共进行4期，4组试验山羊分别饲喂4种不同的饲粮。饲粮A为低 peNDF水平（peNDF水平为 $2 2 . 6 9 \%$ ）的粉料，饲粮B为低 peNDF水平（peNDF水平为 $2 2 . 6 9 \%$ ）的颗粒料，饲粮C 为高 peNDF 水平（peNDF 水平为 $31 . 6 9 \%$ 的粉料，饲粮D为高 peNDF水平（peNDF水平为 $3 1 . 6 9 \%$ ）的颗粒料。
+
+1.2.1 试验饲粮
+
+参照 NRC（1985）[10]山羊营养需要，即营养水平可满足 $\boldsymbol { 1 5 0 } \mathrm { \ g }$ 日增重需要，配制试验饲粮。试验饲粮组成及营养水平见表1。
+
+表1试验饲粮组成及营养水平 (风干基础)  
+Table 1Composition and nutrient levels of experimental diets (air-dry basic)   
+
+<html><body><table><tr><td>项目Items</td><td>饲粮Diets</td></tr><tr><td></td><td>A/B1) C/D1)</td></tr><tr><td>原料Ingredients</td><td></td></tr><tr><td>玉米 Maize</td><td>26.84 28.78</td></tr><tr><td>豆粕 Soybean meal</td><td>1.81 2.34</td></tr><tr><td>小麦 Wheat</td><td>2.00 2.00</td></tr></table></body></html>
+
+<html><body><table><tr><td>麦麸Wheat bran</td><td>9.48</td></tr><tr><td>稻草 Straw</td><td>9.00 15.00 30.00</td></tr><tr><td>大豆皮 Soybean hull</td><td>40.00 25.02</td></tr><tr><td>石粉Limestone</td><td>0.91 0.91</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>0.96 0.95</td></tr><tr><td>食盐 NaCl</td><td>0.50 0.50</td></tr><tr><td>预混料 Premix2)</td><td>0.50 0.50</td></tr><tr><td>膨润土 Bentonite</td><td>2.00</td></tr><tr><td>合计 Total</td><td>100.00 100.00</td></tr><tr><td>营养水平 Nutrient levels3)</td><td></td></tr><tr><td>消化能 DE/（MJ/kg)</td><td>10.98 10.96</td></tr><tr><td>粗蛋白质 CP</td><td>9.90 9.90</td></tr><tr><td>钙Ca</td><td>0.65 0.65</td></tr><tr><td>磷P</td><td>0.38 0.38</td></tr><tr><td>中性洗涤纤维 NDF</td><td>39.13 39.13</td></tr><tr><td>物理有效纤维 peNDF</td><td>22.69 31.69</td></tr></table></body></html>
+
+1饲粮A和B配方相同,饲粮C和D配方相同。表2同。The formula of diets Aand Bwas the same, and the formula of diets C and D was the same.The same as below.
+
+2预混料为每千克饲粮提供 The premix provided the following per kg of diets:VA 400 IU, $\mathrm { V D } _ { 3 }$ 400IU,VE 20 000 IU, $\mathrm { F e S O _ { 4 } } 6 9 . 0 3 \mathrm { m g }$ ， $\mathrm { C u S O _ { 4 } } 1 7 . 6 \mathrm { m g }$ ， $\mathrm { K _ { 2 } S O _ { 4 } } 3 1 . 7 0 \mathrm { m g }$ ， $Z _ { \mathrm { n S O } _ { 4 } } 5 7 . 1 4 \mathrm { m g }$ ， $\mathrm { M n S O _ { 4 } }$ 44.03mg， $\mathrm { C o C l } _ { 2 } 0 . 2 5 \ : \mathrm { m g }$ ， $\mathrm { N a _ { 2 } S e O _ { 3 } 8 . 9 5 m g }$ ，莫能菌素 monensin $6 . 0 0 \mathrm { m g }$ ，NaHCO $_ 3$ 3 740.91 mg。
+
+3）营养水平为计算值。Nutrient levels were calculated values.
+
+# 1.2.2 饲养管理
+
+饲养试验于2016年5月20日至2016年6月9日在江苏省农科院试验羊场进行。试验开始前对试验羊进行驱虫，每期预试期为 $1 0 \mathrm { d }$ ，正式期为5d，正式期按预试期采食最低组的饲喂量进行定量饲喂，试验动物均单独饲养在代谢笼内，收集全部粪便和尿液，准确计量采食量，自由饮水。
+
+1.3样品采集  
+1.3.1 饲粮样品采集
+
+按照四分法收集饲粮样，每天采集饲粮 $\mathrm { 1 0 0 ~ g }$ ，共采集 $1 0 \mathrm { ~ d ~ }$ ，经40目筛粉碎后，置于-20℃冰箱中待测。
+
+# 1.3.2 粪样品采集
+
+采用全收粪法，连续收集5d的粪便，准确称重并记录试验动物日排粪量。每日取鲜粪的 $10 \%$ 置于铝盒中，加 $20 \%$ 的盐酸进行固氮，放入75℃烘箱中烘至恒重，室温下回潮 $2 4 \mathrm { h }$ ，称重并记录，粉碎过40目筛，用密封袋保存于-20℃冰箱中待测。
+
+# 1.3.3 尿样品采集
+
+采用全收尿法，连续收集5d的尿液，准确称重并记录试验动物排尿量，保存于密封的桶中，滴加少许 $30 \%$ 盐酸固氮，5d后，将收集的尿样摇匀、纱布过滤后，取尿样 $2 0 0 ~ \mathrm { m L }$ 置于样品瓶中，-20℃冰箱中保存待测。
+
+1.4检测指标及方法
+
+饲粮和粪样中的干物质（DM）、粗灰分(ash)、NDF、酸性洗涤纤维(ADF)、有机物（OM）、粗蛋白质(CP)含量以及总能(GE)按 AOAC(1995)[1]中方法测定。饲粮和粪样中的钙含量采用GB/T13885-2003中的乙炔-空气火焰原子吸收光谱法进行测定，饲粮和粪样中的磷含量采用GB/T6437-2002中的钒钼黄比色法进行测定。peNDF 水平采用 Heinrichs 等[12]制作的宾夕法尼亚州颗粒分离装置(PSPS)测定，PSPS 共分为 4层(上面3层筛网的孔径分别是19.00、8.00、 $1 . 1 8 ~ \mathrm { m m }$ ，最下面是1个底盘)，具体测定方法为：将筛子和底盘按孔径由大到小依次向下排列，取约 $2 0 0 ~ \mathrm { g }$ 鲜样置于最上层筛(孔径 $1 9 . 0 0 \mathrm { m m }$ )。筛子总共水平振荡 40次(每个方向5次，共2组)，振荡频率为1次/s或水平振荡距离大于 $1 7 \mathrm { c m }$ ，振荡过程中不允许出现垂直振动。振动结束后，称量每层筛上物，测定DM含量，求出筛上物DM占总 DM的比例，其物理有效因子pefi.18就等于每层筛上物干物质含量之和。4种饲粮的颗粒大小分布及pefi.18见表2。
+
+peNDF（%） $\ c =$ pef1.18×NDF(%)。
+
+# 表24种饲粮的颗粒大小分布及 pefi.18
+
+Table 2 Particle size and pefi.18 of 4 diets   
+
+<html><body><table><tr><td>项目Items 饲粮Diets</td></tr></table></body></html>
+
+<html><body><table><tr><td>A/B</td><td>C/D</td></tr><tr><td>筛上物 DM 占总 DM 的比例 The ratio of DM for oversize product to total DM/%</td><td></td></tr><tr><td>>19.00mm 17.6</td><td>21.4</td></tr><tr><td>>8.00～19.00mm 22.7</td><td>34.5</td></tr><tr><td>1.18～8.00mm 17.8</td><td>25.3</td></tr><tr><td><1.18mm 41.9</td><td>18.8</td></tr><tr><td>pef1.18 0.58</td><td>0.81</td></tr></table></body></html>
+
+1.5 计算公式
+
+1.5.1 养分表观消化率
+
+某养分的表观消化率 $( \% ) = 1 0 0 \times$ （该养分的摄入量-粪中该养分排出量）/该养分的摄入量。
+
+1.5.2氮保留量、氮保留率以及氮生物学价值
+
+氮保留量[g/(只·d)] $\vDash$ 食入氮-粪氮-尿氮氮保留率 $( \% ) = 1 0 0 \times$ （食入氮-粪氮-尿氮）/食入氮；氮生物学价值 $( \% ) = 1 0 0 \times$ 氮保留/食入氮。
+
+# 1.6 数据统计分析
+
+试验数据采用 SPSS 20.0软件中一般线性模型中的多变量程序进行拉丁方分析，组间多重比较采用的Duncan 氏法进行分析。结果均以平均值 $\pm$ 标准差表示。 $P { < } 0 . 0 5$ 表示差异显著。
+
+2结果与分析
+
+2.1不同 peNDF 水平饲粮制粒对山羊 NDF、ADF 表观消化率的影响  
+由表3可知，4种饲粮NDF、ADF摄入量差异均不显著（ $P { > } 0 . 0 5$ ）。在低peNDF水平下，饲粮A与饲粮B的NDF表观消化率差异不显著（ ${ \cdot } P { > } 0 . 0 5$ ），但饲粮A的NDF表观消化率比饲粮B降低$0 . 8 3 \%$ ，饲粮A的ADF表观消化率显著低于饲粮B（ $( P { < } 0 . 0 5 )$ ；在高 peNDF水平下，饲粮C的 NDF和 ADF表观消化率显著低于饲粮D（ $P { < } 0 . 0 5$ ）。这表明，在制粒情况下饲粮中NDF、ADF的可消化性较高。在不制粒情况下，饲粮A的NDF、ADF 显著高于饲粮C（ $\cdot P { < } 0 . 0 5$ ）；在制粒情况下，饲粮B的 NDF、ADF 显著高于饲粮D（ $\cdot P { < } 0 . 0 5$ ）。这表明，在低 peNDF水平下饲粮中NDF、ADF 的可消化性较高。
+
+表3不同peNDF水平饲粮制粒对山羊NDF 和 ADF 表观消化率的影响
+
+Table 3Effects of pellted diets with different peNDF levels on NDF and ADF apparent digestibility of goats $( n { = } 4 )$   
+
+<html><body><table><tr><td colspan="5"></td></tr><tr><td rowspan="2">项目Items</td><td colspan="4">饲粮 Diets</td></tr><tr><td>A</td><td>B</td><td>C</td><td>D</td></tr><tr><td>中性洗涤纤维 NDF</td><td></td><td></td><td></td><td></td></tr><tr><td>摄入量 Intake/[g/(只·d)]</td><td>353.12±0.00</td><td>359.93±0.00</td><td>344.91±0.00</td><td>357.54±0.00</td></tr><tr><td>排出量 Output/[g/(只·d)]</td><td>121.10±0.53c</td><td>110.22±3.43d</td><td>164.91±2.73a</td><td>143.03±6.21b</td></tr><tr><td>保留量retention/[g/(只·d)]</td><td>232.02±0.53b</td><td>249.70±3.43a</td><td>180.01±2.73d</td><td>214.23±6.21</td></tr><tr><td>表观消化率 Apparent digestibil- ity/%</td><td>63.71±3.46a</td><td>64.24±4.20a</td><td>52.19±0.79c</td><td>59.92±1.74b</td></tr><tr><td colspan="5">酸性洗涤纤维 ADF</td></tr><tr><td>摄入量 Intake/[g/(只·d)]</td><td>201.94±0.00</td><td>198.06±0.00</td><td>211.65±0.00</td><td>188.29±0.00</td></tr><tr><td>排出量 Output/[g/(只·d)]</td><td>90.60±4.39b</td><td>75.83±0.97℃</td><td>112.30±3.88a</td><td>89.85±1.15b</td></tr><tr><td>保留量 retention/[g/(只·d)]</td><td>111.34±4.39b</td><td>122.23±0.97a</td><td>99.35±3.88c</td><td>98.43±1.15℃</td></tr><tr><td>表观消化率 Apparent digestibil-</td><td></td><td></td><td></td><td></td></tr><tr><td>ity/%</td><td>55.13±2.18b</td><td>61.71±0.49a</td><td>46.94±1.83d</td><td>52.28±0.61</td></tr></table></body></html>
+
+同行数据肩标相同或无小写字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ 。下表同。
+
+In the same row, values with the same or no small letter superscripts mean no significant diference （204号 $( P { > } 0 . 0 5 )$ ，while with different small letter superscripts mean no significant difference $( P { < } 0 . 0 5 )$ . The same as below.
+
+2.2不同peNDF 饲粮制粒对山羊CP、OM、DM表观消化率的影响
+
+由表4可知,在低 peNDF 水平下,饲粮A的CP、OM、DM表观消化率显著低于饲粮 $\mathsf { B } ( P { < } 0 . 0 5 )$ ， 饲粮A的CP、OM、DM表观消化率比饲粮B分别降低 $2 7 . 7 1 \%$ 、 $9 . 1 7 \%$ 和 $1 4 . 1 5 \%$ ；在高 peNDF 水 平下；饲粮C的CP、OM、DM表观消化率显著低于饲粮D（ $\cdot P { < } 0 . 0 5$ ），饲粮C的CP、OM、DM 表观消化率比饲粮D分别降低 $1 9 . 5 2 \%$ 、 $8 . 0 4 \%$ 和 $1 5 . 6 0 \%$ 。这表明，在制粒情况下饲粮中CP、OM、 DM的可消化性较高。在不制粒情况下,饲粮A的CP、OM、DM表观消化率显著高于饲粮 ${ \bf C } ( P { \bf < } 0 . 0 5 )$ ， 饲粮A的CP、OM、DM表观消化率比饲粮C分别提高 $7 . 3 8 \%$ 、 $1 1 . 7 6 \%$ 和 $1 8 . 7 4 \%$ ；在制粒情况下， 饲粮B的CP、OM、DM表观消化率显著高于饲粮D（ $P { < } 0 . 0 5$ ），饲粮B的CP、OM、DM表观消 化率比饲粮D分别提高 $1 3 . 3 2 \%$ 、 $12 . 6 8 \%$ 和 $1 7 . 7 1 \%$ 。这表明，在低 peNDF 水平下饲粮中CP、OM、 DM的可消化性较高。
+
+Table 4Effects of pellted diets with different peNDF levels on CP, OM and DMapparent digestibility of goats $( n { = } 4 ) \%$ （204号   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">0 饲粮 Diets</td></tr><tr><td>A</td><td>B</td><td>C</td><td>D</td></tr><tr><td>粗蛋白质 CP</td><td>52.55±1.78</td><td>67.11±1.31a</td><td>48.67±1.13d</td><td>58.17±0.16b</td></tr><tr><td>有机物OM</td><td>70.09±1.04b</td><td>76.52±0.98a</td><td>61.85±1.31d</td><td>66.82±0.61</td></tr><tr><td>干物质 DM</td><td>61.63±0.63b</td><td>70.35±0.59a</td><td>50.08±1.87d</td><td>57.89±1.01c</td></tr></table></body></html>
+
+2.3不同peNDF水平饲粮制粒对山羊氮代谢的影响
+
+由表5可知，4种饲粮氮摄入量差异不显著（ $P { > } 0 . 0 5$ ）。在低peNDF水平下，饲粮A的氮保留量、氮保留率及氮生物学价值显著低于饲粮B（ $\cdot P { < } 0 . 0 5$ ）；在高peNDF水平下，饲粮C与饲粮D 相比，氮保留量和氮生物学价值差异不显著（ $P { > } 0 . 0 5$ ），但饲粮C的氮保留量和氮生物学价值比饲粮D分别降低 $2 4 . 3 4 \%$ 和 $1 8 . 9 8 \%$ ，同时饲粮C的氮保留率显著低于饲粮D（ $\cdot P { < } 0 . 0 5$ ）。这表明，在制粒情况下更有利于饲粮中氮的沉积和利用。在不制粒情况下，饲粮A与饲粮C相比，氮保留量、氮保留率和氮生物学价值均差异不显著（ $P { > } 0 . 0 5$ ），但饲粮A的氮生物学价值比饲粮C 提高 $1 0 . 9 9 \%$ 饲粮在制粒情况下，饲粮B与饲粮D相比，氮保留量、氮保留率及氮生物学价值差异显著（ $( P { < } 0 . 0 5 )$ 。这表明，在低peNDF水平下更有利于饲粮中氮的沉积及利用。
+
+表4不同peNDF 饲粮制粒对山羊CP、OM、DM表观消化率的影响   
+表5不同peNDF水平饲粮制粒对山羊氮代谢的影响  
+Table 5Effects of pelleted diets with different peNDF levels on N metabolism of goats $( n { = } 4 )$ （204号   
+
+<html><body><table><tr><td></td><td colspan="4">饲粮 Diets</td></tr><tr><td>项目 Items</td><td>A</td><td>B</td><td>C</td><td>D</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="5">氮摄入量Intake N</td></tr><tr><td>/[g/(只·d)]</td><td>14.37±0.00</td><td>14.38±0.00</td><td>14.62±6.91</td><td>14.32±6.43</td></tr><tr><td>粪氮 Fecal N/[g/(只·d)]</td><td>6.30±0.73a</td><td>5.14±0.46b</td><td>6.91±0.71a</td><td>6.43±0.60a</td></tr><tr><td>尿氮 Urinary N/[g/(只·d)]</td><td>4.39±0.25a</td><td>2.62±0.18℃</td><td>3.52±0.36b</td><td>2.68±0.41c</td></tr><tr><td>氮保留量 N reten-</td><td></td><td></td><td></td><td></td></tr><tr><td>tion/[g/(只· d)]</td><td>3.68±0.72c</td><td>6.62±1.27a</td><td>4.19±0.48bc</td><td>5.21±0.94b</td></tr><tr><td>氮保留率 Nretention</td><td>25.61±2.17℃</td><td>46.04±7.55a</td><td>28.66±1.81c</td><td>36.38±0.93b</td></tr><tr><td>rate/%</td><td></td><td></td><td></td><td></td></tr><tr><td>氮生物学价值 BVof N/%</td><td>30.81±4.99b</td><td>49.20±7.70a</td><td>27.76±3.28b</td><td>33.03±6.56b</td></tr></table></body></html>
+
+2.4不同peNDF水平饲粮制粒对山羊钙、磷表观消化率的影响
+
+由表6可知，4种饲粮钙、磷摄入量差异不显著（ $P { > } 0 . 0 5$ ）。在低peNDF水平下，饲粮A的钙和磷表观消化率显著低于饲粮B( $\cdot P { < } 0 . 0 5 \$ ）；在高peNDF水平下，饲粮C的磷表观消化率与饲粮D差异不显著（ $P { > } 0 . 0 5$ ），但饲粮C的钙表观消化率显著低于饲粮D（ $P { < } 0 . 0 5$ ），饲粮C钙表观消化率比饲粮D 降低 $6 . 9 3 \%$ 。这表明，在制粒情况下更有利于饲粮中钙、磷的消化吸收。在不制粒情况下，饲粮A的磷表观消化率显著高于饲粮C（ $P { < } 0 . 0 5$ ），虽然饲粮A的钙表观消化率与饲粮C差异不显著（ $. P { > } 0 . 0 5$ ），但饲粮A的钙表观消化率比饲粮C 提高 $4 . 2 5 \%$ ；在制粒情况下，饲粮B的磷表观消化率显著高于饲粮D（ $\cdot P { < } 0 . 0 5$ ），虽然饲粮B的钙表观消化率与饲粮D差异不显著（ $\cdot P { > } 0 . 0 5 \$ ），但饲粮B的钙表观消化率比饲粮 $\mathrm { ~ D ~ }$ 提高 $7 . 8 0 \%$ 。这表明，在低peNDF水平下更有利于饲粮中钙、磷的消化吸收。
+
+表6不同peNDF水平饲粮制粒对山羊钙和磷表观消化率的影响  
+Table 6Effects of pelleted diets with different peNDF levels on Ca and P apparent digestibility of goats   
+
+<html><body><table><tr><td colspan="6">(n=4)</td></tr><tr><td rowspan="3">项目Items</td><td colspan="4">饲粮 Diets</td></tr><tr><td>A</td><td>B</td><td>C</td><td>D</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>钙Ca 摄入量 Intake/[g/(只·d)]</td><td>5.52±0.00</td><td>5.42±0.00</td><td>5.66±0.00</td><td>5.85±0.00</td></tr><tr><td>排出量 Output/[g/(只·d)]</td><td>3.82±0.25b</td><td>3.50±0.19b</td><td>3.93±0.13a</td><td>3.94±0.10a</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>表观消化率 Apparent digestibil-</td><td>31.90±4.43bc</td><td>35.27±3.45a</td><td>30.60±2.30c</td><td>32.72±1.73ab</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="5">ity/%</td></tr><tr><td>磷P 摄入量 Intake/[g/(只·d)]</td><td>4.58±0.00</td><td>4.62±0.00</td><td>4.62±0.00</td><td>4.61±0.00</td></tr><tr><td>排出量 Output/[g/(只·d)]</td><td>3.01±0.07b</td><td>2.87±0.09b</td><td>3.27±0.10a</td><td>3.28±0.07a</td></tr><tr><td>表观消化率 Apparent digestibil-</td><td>34.35±1.63b</td><td>37.71±2.04a</td><td>29.15±2.32</td><td>28.83±1.44c</td></tr><tr><td>ity/%</td><td></td><td></td><td></td><td></td></tr><tr><td colspan="5"></td></tr></table></body></html>
+
+2.5不同peNDF水平饲粮制粒对山羊总能表观消化率的影响
+
+由表7可知，4种饲粮总能摄入量差异不显著（ $. P { > } 0 . 0 5$ ）。在低peNDF水平下，饲粮A的总能表观消化率与饲粮B差异不显著（ $. { \cal P } { > } 0 . 0 5$ ），但饲粮A的总能表观消化率比饲粮B 降低 $1 . 6 5 \%$ ；在高 peNDF水平下，饲粮C的总能表观消化率显著低于饲粮D（ $\cdot P { < } 0 . 0 5$ ）。这表明，在制粒情况下饲粮中能量的利用效率较高。在不制粒情况下，饲粮A的总能表观消化率显著高于饲粮C（ $\cdot P { < } 0 . 0 5 \$ ）；在制粒情况下，饲粮B的总能表观消化率显著高于饲粮D（ $\cdot P { < } 0 . 0 5$ ）。这表明，在低peNDF水平下饲粮中能量的利用效率较高。
+
+表7不同peNDF水平饲粮制粒对山羊总能表观消化率的影响  
+Table 7Effects of pellted diets with different peNDF levels on GE apparent digestibility of goats $( n { = } 4 )$   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">饲粮Diets</td></tr><tr><td>A</td><td>B</td><td>C</td><td>D</td></tr><tr><td>总能摄入量 Intake GE/(kJ/d)</td><td>135.81±0.00</td><td>138.05±0.00</td><td>132.71±0.00</td><td>141.12±0.00</td></tr><tr><td>粪能Fecal Energy/(kJ/d)</td><td>47.43±1.16c</td><td>46.26±0.87℃</td><td>63.42±2.98a</td><td>51.73±2.97b</td></tr><tr><td>消化能 DE/（MJ/kg）</td><td>88.39±1.16b</td><td>91.79±0.87a</td><td>69.29±2.98℃</td><td>88.04±2.97b</td></tr><tr><td>总能表观消化率 Apparent di- gestibility of GE/%</td><td>65.0±0.86ab</td><td>66.49±0.63a</td><td>52.21±2.24℃</td><td>63.34±2.10b</td></tr></table></body></html>
+
+3讨论
+
+3.1不同peNDF 水平饲粮制粒对山羊 NDF、ADF 表观消化率的影响
+
+颗粒化饲粮对饲粮在反刍动物瘤胃内滞留时间、营养物质消化率等多方面有影响。由于稻草秸秆细胞壁具有复杂的三维立体结构，抵御瘤胃内微生物作用的能力很强，直接饲喂不能被充分消化，造成其养分消化率低下。本研究采用制粒的方法将全混合日粮颗粒化，从物理学方面来改善稻草秸秆的营养价值。从NDF、ADF表观消化率的结果来看，制粒处理显著提高了饲粮中纤维素的表观消化率，大大改善了饲粮的营养价值。其主要原因是，制粒处理通过皂化秸秆细胞壁的木质素与碳水化合物间或酚醛酸一碳水化合物复合物内部的酯键，使得其木质化或非木质化组织间的碳水化合物部分变得更易于消化，从而提高纤维素的消化率。本试验中，在同等配方条件下，饲粮经过制粒后提高了DNF、ADF 的表观消化率。本试验发现，在低 peNDF 水平下有利于提高饲粮中 NDF、ADF的表观消化率，因为低 peNDF 水平下，饲粮粗饲料颗粒度减小，与瘤胃中微生物接触面积增加，从而提高了NDF、ADF 的消化率。此外，相较于高peNDF 水平的颗粒饲粮，低 peNDF 水平的颗粒饲粮对 NDF、ADF 消化率的提高作用更明显。但低 peNDF 水平颗粒饲粮是否会对育肥山羊瘤胃胃壁的发育情况造成影响，需进一步研究验证。
+
+3.2不同peNDF水平饲粮制粒对山羊CP、DM、OM表观消化率的影响
+
+本试验条件下，饲粮经制粒后显著提高了CP、DM、OM的表观消化率。史清河等[13]研究了幼羊对不同加工处理的全混合日粮养分表观消化率的影响，研究表明，颗粒化与粉状全混合日粮相比，饲粮CP表观消化率提高，DM、OM表观消化率有所下降。孙国荣等[14]研究发现，与粉料相比，颗粒料能够提高饲粮的养分表观消化率，这可能是因为，与粉料相比，颗粒料中粗饲料的粒度减小，增加了饲粮与消化酶的有效接触，因此可提高饲粮中养分的表观消化率。有关饲粮 peNDF 水平对羊养分表观消化率的报道较少，本试验结果表明，与低 peNDF 水平饲粮相比，低 peNDF 水平饲粮中CP、DM和OM的表观消化率显著增加。Yang等[15]等、Zhao 等[16]均发现降低饲粮 peNDF 水平提高了试验动物的DM和OM的表观消化率。
+
+对于反刍动物来说，氮保留量参数比其表观消化率更具有实际意义。本试验结果说明，在氮摄入量相同的情况下，在低和高2种peNDF 水平下，饲粮经制粒后，氮保留量和氮生物学价值均提高，说明制粒更加有利于氮的消化吸收，可能是瘤胃微生物降解蛋白质的速率减弱和流入小肠的微生物合成蛋白质的速率提高2个方面的原因，从而使氮的消化率提高。董凌云等[17]对妊娠母羊饲喂颗粒料后发现氮保留量显著提高。饲粮peNDF水平的改变能影响瘤胃的消化率、食糜的后送速度及微生物蛋白的合成等。Yang 等[18]研究发现，饲粮中 peNDF 水平低，微生物氮占十二指肠氮的比例较高，小肠氮生物学价值较高。本试验中，与高 peNDF 水平饲粮相比，低 peNDF 水平饲粮中氮保留量和氮的生物学价值较高，与上述研究结果一致。
+
+3.4不同peNDF水平饲粮制粒对山羊钙、磷表观消化率的影响动物体内的磷主要通过粪便排出体外，占总排泄量的 $9 5 \% { \sim } 9 8 \%$ ，而磷经尿的排出量一般很少。反刍动物对钙的消化率取决于饲粮含钙量、无机钙的可利用性，以及动物小肠上皮对钙的吸收能力等因素。如果饲粮中含有足够的可利用钙，那么动物从饲粮中吸收的钙基本可以满足机体对钙的需要。从钙和磷的利用来看，试验动物在钙、磷摄入粮相同的情况下，饲粮经制粒处理能提高钙、磷的消化率。有关饲粮中peNDF水平对动物矿物元素表观消化率影响的研究较少。本试验中，低 peNDF水平饲粮中钙、磷表观消化率均较高 peNDF 水平饲粮高，表明在此试验条件情况下波杂山羊对低peNDF 水平饲粮中钙、磷的吸收利用率较高。
+
+3.5不同peNDF水平饲粮制粒对山羊总能表观消化率的影响
+
+饲喂不同peNDF水平制粒与不制粒饲粮对反刍动物总能表观消化率影响的研究较少。消化能值直接反映可消化干物质的多少。动物采食饲粮后，饲粮内的纤维素、蛋白质、碳水化合物、脂肪等营养物质经过消化和代谢作用产生能量，能量在机体内转变成ATP，ATP是动物最终利用能量的形式，反刍动物机体能量的主要来源是挥发性脂肪酸（VFA）。一般情况下，粪能约占摄入总能的 $1 / 3 ^ { [ 1 9 ] }$ 能量损失的主要形式是粪能。本试验结果显示，饲粮在制粒后总能表观消化率有增加的趋势，说明制粒能更好地提高能量在机体内的消化代谢。总能表观消化率提高的原因可能是颗粒化的食糜在消化道中的流通速度加快，这虽不利于瘤胃的消化作用，但使反刍动物采食、反刍、瘤胃消化蠕动所消耗的能量减少，饲粮净能值增加，代谢能利用率提高，从而增加了反当动物有效能的摄入量和能量转化效率[20]。本试验中,低peNDF水平饲粮A总能表观消化率高于高peNDF 水平饲粮C,低peNDF水平饲粮 B总能表观消化率高于高peNDF水平饲粮D，说明低 peNDF 水平有利于山羊对饲粮中能量的消化利用。
+
+4结论
+
+在高和低2种 peNDF水平下，饲粮经制粒后显著提高了NDF、ADF、CP、DM、OM、总能、钙、磷的表观消化率以及氮保留率与氮生物学价值。
+
+参考文献
+
+[1] OSTERGAARD S,GROHN Y T.Concentrate feeding,dry-matter intake, and metabolic disorders in Danish dairy cows[J].Livestock Production Science,2000,65(1/2):107-118.
+
+[2] OWEN J B.Complete-diet feding of dairy cows[M]//HARESIGN W,COLE D JA.Recent developments in ruminant nutrition.Amsterdam:Elsevier,1981:312-324.
+
+[3]高健,丁洛阳,陈连民,等.颗粒饲料对不同品种生长期牛育肥效果的比较研究[J].家畜生态学报,2013,34(5):71-74.
+
+[4] HOLTER JB, JR W EU, HAYES HH,et al. Utilization of Diet Components Fed Blended or Separately to Lactating Cows[J]. Journal of Dairy Science, 1977, 60(8):1288-1293.
+
+[5] REDDY K J,REDDY M R.Eect offeeding complete feeds on various nitrogen fractions and total VFA concentrations in the rumen fluid of sheep[J].Indian Journal of Animal Sciences,1985,55(9):819-8232.   
+[6] MERTENS D R.Creating a system for meeting the fiber requirements of dairy cows[J].Journal of Dairy Science,1997,80(7):1463-1481.   
+[7] TJARDES K E,BUSKIRK D D,ALLEN M S,et al.Neutral detergent fiber concentration of corn silage and rumen inert bulk influences dry matter intake and ruminal digesta kinetics of growing steers[J].Journal of Animal Science ,2002,80(3):833-840.   
+[8] AITCHISON E M,GILL M,DHANOA M S,et al.The effct of digestibility and forage species on the removal of digesta from the rumen and the voluntary intake of hay by sheep[J].British Journal of Nutrition, 1986,56(2):463-476.   
+[9] 朱立涛.物理有效纤维对山羊营养物质流通量,消化性能和氮平衡的影响[D].湖南农业大学,2007.   
+[10] NRC.Nutrient requirements of sheep[S].6th ed. Washington,D.C.:National Academy of Science,1985:45-73.   
+[11] AOAC.Oficial methods of analysis of AOAC international[S].16th ed. Arlington,VA:AOAC International,1995.   
+[12] HEINRICHS A J.Evaluating particle size of forages and TMRs using the new Penn State Particle Separator[D].University Park,PA:The Pennsylvania State University,1996.   
+[13] 史清河,韩友文.不同加工处理的幼羊全混合日粮各养分表观消化率的研究[J].中国草食动 物,1999,1(6):7-9.   
+[14]孙国荣,林月霞,吕玉华,等.膨胀颗粒饲料对奶牛生产性能、血液生化指标及营养物质表观消化率 的影响[J].中国牛业科学,2009,35(1):13-16+32.   
+[15] YANG W Z,BEAUCHEMIN K A.Increasing the physically effective fiber content of dairy cow diets may lower efficiency of feed use[J].Journal of Dairy Science,2006,89(7):2694-2704.   
+[16] ZHAO X H,ZHANG T,XU M,et al.Efects of physically effective fiber on chewing activity,ruminal fermentation,and digestibility in goats[J].Journal of Animal Science,2011,89(2):501-509.   
+[17] 董凌云,雒秋江,潘超,等.饲喂颗粒日粮对妊娠母羊采食和消化代谢的影响[J].中国畜牧兽 医,2014,41(6):77-84.
+
+[18] YANG W Z,BEAUCHEMIN K A,RODE L M.Effcts of particle size of alfalfa-based dairy cow diets on site and extent of digestion[J].Journal of Animal Science,2002,85(8):1958-1968.
+
+[19]王新谋.家畜粪便学[M]上海:上海交通大学出版,1997.
+
+[20]翼一伦.秸秆饲料营养价值研究的进展[J].中国畜牧杂志,1990,26(4):61-63.
+
+Effects of Pelleted Diets with Diferent Physically Effective Neutral Detergent Fiber Levels on Nutrient Apparent Digestibility of Goats
+
+YANG Li GAO Lipeng BAI Yunfeng\*ZHANG KaiMENG Meijuan SONG Qian (Liuhe Animal Science Base, Jiangsu Province Academy of Agricultural Sciences, Nanjing 2100l4, China) Abstract: This study aimed to investigate the effcts of pelleted diets with different physically effctive neutral detergent fiber（peNDF） levels on nutrient apparent digestibility of goats. Four male hybrid goats (Boer goats $\times$ Xuhuai goats）with the body weight about $2 5 \mathrm { k g }$ were selected, and the 4 goats respectively fed with 4 different diets according to the $4 \times 4$ Latin square design of experiment. For the 4 diets, diet A was a powder diet with the peNDF level was $2 2 . 7 5 \%$ , diet $\mathbf { B }$ was a pelleted diet with the peNDF level was $2 2 . 7 5 \%$ , diet C was a powder diet with the peNDF level was $3 1 . 7 6 \%$ , and diet D was a pelleted diet with the peNDF level was $3 1 . 7 6 \%$ . The 4 diets had the same or similar neutral detergent fiber (NDF) content, crude protein (CP) content and gross energy (GE),etc. The test was divided into 4 periods,and each period had 15 days with the pilot test period of 1O days and formal experiment period of 5 days.The results showed as following: 1) under the low peNDF level,compared with the diet A,the diet B significantly increased the apparent digestibility of acid detergent fiber (ADF), CP, dry matter (DM),organic mattr (OM), calcium (Ca) and phosphorus (P),and nitrogen retention, nitrogen retention rate and nitrogen biological value $( P { < } 0 . 0 5 )$ . 2)Under the high peNDF level, compared with the diet C, the diet D significantly increased the apparent digestibility of NDF,ADF, CP,DM,OM, GE, Ca and GE,and nitrogen retention rate $( P { < } 0 . 0 5 )$ . 3) Under same diet form,compared with the high peNDF level diets (diets C and D),in addition to the calcium apparent digestibility had no significant increase $( P { > } 0 . 0 5 )$ , the rest of the apparent digestibility of nutrients in the low peNDF diets (diets Aand B) were significantly increased $( P { < } 0 . 0 5 )$ . The results
+
+indicate that whether under high or low peNDF level, diets with pelleting treatment both can improve the nutrient apparent digestibility of goats.   
+Key words: peNDF; pelleted; goats; apparent digestibility

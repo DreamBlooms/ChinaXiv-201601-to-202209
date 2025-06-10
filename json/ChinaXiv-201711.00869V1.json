@@ -1,0 +1,396 @@
+[
+    {
+        "type": "text",
+        "text": "乳酸菌和酵母菌复合制剂对肉仔鸡生长性能、屠宰性能和肠道健康的影响  \n张彩凤1,2 王晓翠2\\* 张海军²齐广海1,2\\*\\*武书庚2\\*\\*王 晶² 史兆国」王晖3  \n（1.甘肃农业大学动物科学技术学院，兰州730070；2.中国农业科学院饲料研究所，农业部  \n饲料生物技术重点开放实验室，生物饲料开发国家工程研究中心，北京100081；3.厦门泓禾谷生物科技有限公司，厦门361000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在研究乳酸菌和酵母菌复合制剂（LS）及其与维吉尼亚霉素（VM）联用对爱拔益加（AA）肉仔鸡生长性能、屠宰性能和肠道健康的影响。选取1日龄健康 AA肉鸡公雏400只，据体重相近原则分为4组，每组5个重复，每重复20只鸡。对照组饲喂基础饲粮，试验组分别饲喂在基础饲粮中添加 $3 0 ~ \\mathrm { m g / k g ~ V M }$ （VM组）、 $1 5 \\ \\mathrm { m g / k g \\ V M + 1 \\ 0 0 0 }$ mg/kg LS ( $\\mathsf { V M } { + } \\mathsf { L S }$ 组）和 $1 0 0 0 \\mathrm { m g / k g \\ L S }$ （LS 组）的试验饲粮。试验期 $4 2 { \\mathrm { ~ d ~ } }$ 。结果表明：1）VM、 $\\mathsf { V M } { + } \\mathsf { L S }$ 和LS 组的42日龄肉仔鸡体重显著高于对照组（ $\\scriptstyle \\cdot { P < 0 . 0 5 }$ ）； $\\mathtt { V M + L S }$ 和LS组的 22\\~42 和1\\~42 日龄肉仔鸡平均日增重和料重比显著优于对照组( $. P { < } 0 . 0 5$ ）。2）VM+LS组的42日龄胸肌率和全净膛率显著高于对照组（ $. P { < } 0 . 0 5$ ）。3）与对照组相比，LS组21日龄空肠黏膜形态显著改善（ $P { < } 0 . 0 5$ ），十二指肠绒毛高度和绒毛高度/隐窝深度值显著提高（ $P { < } 0 . 0 5 )$ ； $\\mathsf { V M } { + } \\mathsf { L S }$ 和LS 组42 日龄十二指肠和空肠绒毛高度及绒毛高度/隐窝深度值显著提高（ $P { < } 0 . 0 5$ ）。4）VM+LS 和LS 组的42日龄盲肠大肠杆菌数量和大肠杆菌/乳酸杆菌值显著低于对照组（ $_ { . P < 0 . 0 5 }$ ）。综上，LS及其与VM联合使用均能改善肠道健康，促进肉仔鸡生长。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：微生态制剂；维吉尼亚霉素；肉仔鸡；生长性能；肠道健康中图分类号：S816.7 文献标识码：A 文章编码：1006-267X(2017)04-0000-00",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "现代畜牧生产中，抗生素被广泛用作生长促进剂，但因抗药性、药物残留等问题，饲用抗生素在畜牧养殖中的限用和禁用已为大势所趋，而抗生素替代品的研究成为动物营养学的研究热点之一，该项研究也因此对维持畜禽健康和生态环境具有重要意义。乳酸菌对肠道黏膜表面的黏附能力，是颌顽肠道病原微生物定植及集群生长的先决条件，并且对免疫调节及促进受损黏膜的修复具重要意义[1]。乳酸菌和酵母菌通过代谢产物的互补和群体感应作用，相互促进生长，因此乳酸菌和酵母菌复合制剂在肠道等环境里比单独添加乳酸菌或酵母菌生长更好，也能更充分地发挥益生作用[2]。在饲粮或饮水中添加乳酸菌或酵母菌可显著提高肉鸡体重，降低料重比(feed to gain,F/G)，增加绒毛高度和绒毛高度/隐窝深度（V/C）值，增加肠道有益菌数量，降低有害菌数量，且乳酸菌或酵母菌组改善生长性能效果显著优于抗生素组[3-6]。但目前关于乳酸菌和酵母菌复合制剂替代抗生素以及与抗生素联合使用的研究还不充分。因此，本试验旨在研究乳酸菌和酵母菌的复合制剂替代抗生素以及联合使用对爱拔益加（AA）肉仔鸡生长性能、屠宰性能以及肠道健康的影响，为该微生态制剂在肉仔鸡养殖生产中的合理应用提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "乳酸菌和酵母菌复合制剂：乳酸菌(BCRC16092)活菌数为 $2 . 5 { \\times } 1 0 ^ { 9 } \\mathrm { C F U / g }$ （实测 $2 . 3 { \\times } 1 0 ^ { 6 }$ CFU/g），酵母菌（BCRC20262）活菌数为 $1 . 3 { \\times } 1 0 ^ { 9 } \\mathrm { C F U / g }$ （实测 $1 . 3 { \\times } 1 0 ^ { 6 } \\mathrm { C F U / g }$ ），由厦门泓禾谷生物科技有限公司提供。维吉尼亚霉素：有效成份含量 $5 0 \\%$ ，购自美国辉宝有限公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2试验设计与饲养管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验随机选取健康、体重相近[（ $\\cdot 4 0 . 3 { \\pm } 5 . 0 \\$ ）g]的1日龄AA肉仔鸡公雏 400只，随机分为4组，每组5个重复，每重复20只鸡。对照组饲喂基础饲粮，试验组分别饲喂在基础饲粮中添加 $3 0 ~ \\mathrm { m g / k g }$ 维吉尼亚霉素（VM组）、 $1 5 ~ \\mathrm { m g / k g }$ 维吉尼亚霉素 $+ 1 ~ 0 0 0 ~ \\mathrm { { m g / k g } }$ 乳酸菌和酵母菌复合制剂（ $\\mathsf { V M } { + } \\mathsf { L S }$ 组）、 $\\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 乳酸菌和酵母菌复合制剂（LS 组）的试验饲粮。采用4层立体网上笼养，试验分前期（ $_ { 1 \\sim 2 1 }$ 日龄）和后期（ $2 2 { \\sim } 4 2$ 日龄），共42 d。基础饲粮（组成及营养水平见表1）参照NRC（1994）和《鸡饲养标准》（NY/T33—2004），结合《AA肉仔鸡饲养手册》配制粉料，配合饲料再经冷压制粒（制粒过程中最高温度 $6 5 \\ \\mathrm { { ^ \\circ C } }$ 左右），制粒后迅速冷却颗粒料，以减小制粒温度对乳酸菌和酵母菌复合制剂的影响，最终以颗粒料形式进行饲喂。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验期间自由饮食、饮水，自然光照加人工补光， $_ { 1 \\sim 7 }$ 日龄每天光照 $2 4 \\mathrm { ~ h ~ }$ ，8日龄后$2 3 \\mathrm { ~ h ~ }$ 。试验前3d室温 $3 3 ^ { \\circ } \\mathrm { C }$ ，此后每周降低 $2 \\ \\mathrm { { ^ circ C } }$ ，直到 $2 4 ~ \\mathrm { ^ { \\circ } C }$ 并维持。按照《AA肉仔鸡饲养管理手册》操作，常规免疫、消毒，试验鸡舍良好通风。试验过程中，每日 $2 4 \\mathrm { ~ h ~ }$ 记录鸡舍温度和湿度，清扫卫生，记录死淘鸡数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1基础饲粮组成及营养水平 (风干基础)",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/3b97ca60458f9d68352dbd25b58fb1fd887e4b4429875d30e00e206dbd03f9a2.jpg",
+        "table_caption": [
+            "Table 1Composition and nutrient levels of basal diets (air-dry basis) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>1～21 日龄1 to 21 days of age</td><td>22～42 日龄 22 to 42 days (</td></tr><tr><td>原料 Ingredients</td><td></td><td></td></tr><tr><td>玉米Corn</td><td>56.70</td><td>59.95</td></tr><tr><td>豆粕 Soybean meal (43%)</td><td>31.80</td><td>27.55</td></tr><tr><td>菜籽粕 Rapeseed meal</td><td>2.50</td><td>2.50</td></tr><tr><td>棉籽粕 Cottonseed meal</td><td>2.00</td><td>2.50</td></tr><tr><td>豆油 Soybean oil</td><td>2.88</td><td>3.31</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.90</td><td>1.85</td></tr><tr><td>石粉 Limestone</td><td>1.28</td><td>1.43</td></tr><tr><td>食盐 NaCl</td><td>0.30</td><td>0.30</td></tr><tr><td>氯化胆碱 Choline chloride (50%)</td><td>0.10</td><td>0.10</td></tr><tr><td>DL-蛋氨酸DL-Met</td><td>0.18</td><td>0.12</td></tr><tr><td>L-赖氨酸盐酸盐 L-Lys·HCl</td><td>0.14</td><td>0.17</td></tr><tr><td>维生素预混料 Vitamin premix1)</td><td>0.02</td><td>0.02</td></tr><tr><td>矿物质预混料Mineral premix2)</td><td>0.20</td><td>0.20</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels3)</td><td></td><td></td></tr><tr><td>代谢能 ME/(MJ/kg)</td><td>12.15</td><td>12.55</td></tr><tr><td>粗蛋白质 CP</td><td>20.89</td><td>19.03</td></tr><tr><td>钙Ca</td><td>0.95</td><td>0.86</td></tr><tr><td>有效磷 AP</td><td>0.48</td><td>0.40</td></tr><tr><td>赖氨酸Lys</td><td>1.13</td><td>0.98</td></tr><tr><td>蛋氨酸Met</td><td>0.51</td><td>0.39</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.89</td><td>0.75</td></tr><tr><td>苏氨酸Thr</td><td>0.86</td><td>0.76</td></tr><tr><td>色氨酸Trp</td><td>0.23</td><td>0.22</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1)维生素预混料为每千克饲粮提供Vitamin premix provided the following per $\\mathbf { k g }$ ofdiets:VA 12 500 IU，VD3 2 500 IU，VE $1 5 ~ \\mathrm { m g }$ ， $\\mathrm { V K } _ { 3 } 2 . 6 5 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 } 2 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 2 } 6 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 2 } 0 . 0 2 5$ mg，生物素 biotin $0 . 3 5 ~ \\mathrm { m g }$ ，叶酸 folic acid $1 . 2 5 ~ \\mathrm { m g }$ ，泛酸 pantothenic acid $1 2 ~ \\mathrm { m g }$ ，烟酸",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "nicotinic acid $5 0 \\mathrm { m g }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2)矿物质预混料为每千克饲粮提供 Mineral premix provided the following per kg of diets:Cu (as copper sulfate) $8 ~ \\mathrm { m g }$ ， $Z \\mathrm { n }$ (as zinc sulfate) $7 5 ~ \\mathrm { m g }$ ，Fe (as ferrous sulfate) $8 0 ~ \\mathrm { m g }$ ，Mn (as manganese sulfate) $8 0 \\mathrm { m g }$ ， Se (as sodium selenite) $0 . 1 5 \\mathrm { m g }$ ， I(as potassium iodide) $0 . 3 5 \\mathrm { m g }$ 。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3)代谢能和有效磷为计算值，其余为实测值。ME and AP were calculated values,while the otherswere measured values. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 测定指标与方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 生长性能",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "每天观察鸡的生长、发病及死亡情况，以重复为单位，记录死淘数和耗料量；分别于1、21和42日龄09：00之前，以重复为单位空腹称重，统计各重复试验鸡 $_ { 1 \\sim 2 1 }$ 、 $2 2 { \\sim } 4 2$ 日龄耗料量，计算21和42日龄的平均体重， $_ { 1 \\sim 2 1 . 2 2 \\sim 4 2 }$ 和 $_ { 1 \\sim 4 2 }$ 日龄的平均日增重(averagedaily gain,ADG)、平均日采食量(average daily feed intake,ADFI)、F/G 和死亡率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 屠宰性能",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分别于肉仔鸡的21和42日龄，每重复选取2只体重接近该重复平均值的肉仔鸡，颈静脉放血屠宰，分离胸肌、腿肌和腹脂，称重并记录，按照全国家禽育种委员会的家禽生产性能计算方法，计算全净膛率、胸肌率、腿肌率和腹脂率。公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "全净膛率 $( \\% ) \\ = 1 0 0 \\times$ 全净膛重／宰前体重;  \n胸肌率 $( \\% ) \\ = 1 0 0 \\times$ 胸肌重／全净膛重；  \n腿肌率 $( \\% ) \\ = 1 0 0 \\times$ 腿肌重／全净膛重；  \n腹脂率 $( \\% ) \\mathop { = } 1 0 0 \\times$ 腹脂重／（全净膛重十腹脂重）。  \n其中，宰前体重指在屠宰前停饲 $1 2 \\mathrm { h }$ 后的重量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.3 肠道黏膜形态 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分别于21和42日龄，每重复随机选取1只体重接近该重复平均值的肉仔鸡，屠宰，剥离出十二指肠、空肠和回肠，各自截取中段约 $1 \\mathrm { { c m } }$ 的肠道组织，用预冷的生理盐水缓缓冲洗，浸入pH为7.4的福尔马林固定液，4℃冰箱保存。将固定好的肠道组织进行石蜡切片：组织脱水 $$ 透明 $$ 浸蜡 $$ 包埋 $$ 不连续切（厚度为 $6 { \\sim } 8 \\mu \\mathrm { m }$ ） $$ 苏木精-伊红（HE）染色处理 $$ 封片待测黏膜形态。从每20张中取1张切片，每个肠道组织取5张切片，于光学显微镜下观察形态。每个切片随机抽取5个非连续性视野（保证绒毛完整且走向平直），每个视野统计3组数据，测定绒毛高度、隐窝深度，并计算V/C值。每个指标选取9个值计算。切片制备及相关指标的测定由北京嘉蓝海生物科技有限公司操作。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.4 盲肠菌群数量",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分别于21和 42日龄，从每个重复中随机抽取1只空腹(自由饮水) $^ { 1 2 \\mathrm { ~ h ~ } }$ ，且接近平均体重的肉鸡称重，采用心脏注入空气法处死鸡，截取盲肠肠段，液氮保存至分析。采用平板菌落计数法检测盲肠食糜内菌群。从液氮中取出样品，在无菌操作室内用酒精棉球消毒各结扎□，取盲肠食糜 $\\mathrm { ~ 1 ~ g ~ }$ 加入盛 $9 \\mathrm { m L } 0 . 9 \\%$ 无菌生理盐水的试管中摇匀，小型振动器充分混匀;取 $0 . 5 { \\mathrm { ~ m L } }$ 该悬浮液加入到盛 $4 . 5 ~ \\mathrm { m L }$ 无菌 $0 . 9 \\%$ 生理盐水的试管中，混匀，重复同样操作，直至稀释倍数为 $1 0 ^ { - 4 } { \\sim } 1 0 ^ { - 6 }$ 的3个梯度，分别取 $0 . 1 \\mathrm { m L }$ 稀释液加入准备好的平板培养皿中，用灭菌的曲玻棒将菌液小心涂匀至整个平板培养皿。每个稀释梯度做3个重复。大肠杆菌接种于伊红美蓝（EMB）平板培养基上， $3 7 \\ ^ { \\circ } \\mathrm { C }$ 有氧培养箱内培养 $2 4 \\mathrm { ~ h ~ }$ ；乳酸菌接种于MRS平板培养基上， $3 7 ^ { \\circ } \\mathrm { C }$ 的 $\\mathrm { C O } _ { 2 }$ 培养箱内培养 $^ { 4 8 \\mathrm { ~ h ~ } }$ 。将培养后的平板培养皿进行菌落计数，以菌落数量在 $3 0 { \\sim } 3 0 0$ 个之间的平血计数。菌群数量以每克盲肠食糜所含细菌群落总数的对数lg（CFU/g）表示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4统计分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "数据以“平均值 $\\pm$ 标准差\"表示，采用SPSS16.0软件进行数据分析。前期和后期生长性能采用一般线性模型(General LinearModel)的 Repeated Measures 过程分析，若球形检验结果$P { > } 0 . 0 5$ 则进行单因素方差分析（One-wayANOVA），若 $P { < } 0 . 0 5$ 则用Multivariate过程对4个处理进行分析。死亡率采用卡方检验。其余指标数据采用One-way ANOVA对4个处理进行分析，当有显著性差异时再采用Duncan氏法进行多重比较，以 $P { < } 0 . 0 5$ 为差异显著性标准。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1乳酸菌和酵母菌复合制剂对肉仔鸡生长性能的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表2可知， $_ { 1 \\sim 2 1 }$ 日龄，与对照组相比，VM、 $\\mathsf { V M } { + } \\mathsf { L S }$ 和LS 组的ADG、ADFI、F/G、死亡率以及 21日龄体重均无显著变化（ $_ { \\cdot \\cdot P > 0 . 0 5 }$ ）。 $2 2 { \\sim } 4 2$ 日龄，与对照组相比， $\\mathtt { V M + L S }$ 和LS 组的ADG 显著提高( $P { < } 0 . 0 5 \\$ ),F/G显著降低( $. P { < } 0 . 0 5 )$ ，且2组间差异不显著( $( P { > } 0 . 0 5 )$ ；此外，LS 组的F/G 显著低于VM组（ $. P { < } 0 . 0 5 )$ ），VM组的F/G与对照和 $\\mathsf { V M } { + } \\mathsf { L S }$ 组差异不显著 $( P { > } 0 . 0 5 )$ ）。42 日龄，与对照组相比，VM、VM+LS 和LS 组的体重显著提高（ $( P { < } 0 . 0 5 )$ ’且 $\\mathrm { \\Delta V M + L S }$ 组显著高于LS 和VM组（ $P { < } 0 . 0 5$ ）。 $_ { 1 \\sim 4 2 }$ 日龄，与对照组相比，VM、 $\\mathsf { V M } { + } \\mathsf { L S }$ 和LS 组的 ADG 显著提高( $P { < } 0 . 0 5 )$ ，且 $\\mathsf { V M } { + } \\mathsf { L S }$ 组的 ADG 显著高于VM和LS 组( $_ { . P < 0 . 0 5 ) }$ ；此外， $\\mathsf { V M } { + } \\mathsf { L S }$ 和LS 组的F/G 显著低于对照组（ $. P { < } 0 . 0 5$ ）。结果表明，肉仔鸡饲粮中添加1$0 0 0 \\mathrm { m g / k g }$ 乳酸菌和酵母菌复合制剂可以替代或部分替代抗生素，并且部分替代维吉尼亚霉素的联用组促生长效果比单独使用维吉尼亚霉素或乳酸菌和酵母菌复合制剂更优。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2乳酸菌和酵母菌复合制剂对肉仔鸡生长性能的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d00cfad9d6ca254b9d554633f42cc3054b5c611add08f14192a7d7d0fe834ff5.jpg",
+        "table_caption": [
+            "Table 2Effects of Lactobacillus and Saccharomycetes compound preparation on growth "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">performance of broilers</td></tr><tr><td>项目Items</td><td>对照组</td><td>VM组</td><td>VM+LS组</td><td>LS组</td><td>P值</td></tr><tr><td></td><td>Control group</td><td>VM group</td><td>VM+LS group</td><td>LS group</td><td>P-value</td></tr><tr><td>1~21 日龄 1 to 21 days of age</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>体重BW/g</td><td>790.71±20.41</td><td>820.81±7.64</td><td>833.54±41.05</td><td>815.04±27.76</td><td>0.128</td></tr><tr><td>平均日增重 ADG/g</td><td>34.83±1.14</td><td>36.88±0.51</td><td>36.51±1.60</td><td>35.96±1.35</td><td>0.082</td></tr><tr><td>平均日采食量 ADFI/g</td><td>47.69±1.36</td><td>48.65±0.58</td><td>48.05±2.00</td><td>48.11±1.20</td><td>0.746</td></tr><tr><td>料重比F/G</td><td>1.37±0.06</td><td>1.32±0.02</td><td>1.31±0.04</td><td>1.34±0.03</td><td>0.145</td></tr><tr><td>死亡率Mortality/%</td><td>2.00±4.47</td><td>3.00±2.74</td><td>2.00±2.74</td><td>1.00±2.24</td><td>0.796</td></tr><tr><td colspan=\"6\">22~42 日龄 22 to 42 days of</td></tr><tr><td colspan=\"6\">age</td></tr><tr><td>体重BW/g</td><td>2</td><td>2</td><td>2</td><td>2</td><td><0.001</td></tr><tr><td></td><td>369.70±47.07c</td><td>439±55.34b</td><td>551.90±39.03a</td><td>490.1±18.16b</td><td></td></tr><tr><td>平均日增重 ADG/g</td><td>73.69±1.80b</td><td>75.97±2.62b</td><td>81.18±1.74a</td><td>80.26±1.51a</td><td><0.001</td></tr><tr><td>平均日采食量 ADFI/g</td><td>141.68±4.88</td><td>144.01±5.84</td><td>149.96±3.93</td><td>147.56±3.57</td><td>0.054</td></tr><tr><td>料重比F/G</td><td>1.92±0.05a</td><td>1.90±0.04ab</td><td>1.85±0.03bc</td><td>1.84±0.03c</td><td>0.014</td></tr><tr><td>死亡率Mortality/%</td><td>5.00±3.54</td><td>3.00±2.74</td><td>3.00±2.74</td><td>1.00±2.24</td><td>0.419</td></tr><tr><td colspan=\"6\">1~42 日龄 1 to 42 days of age</td></tr><tr><td>平均日增重 ADG/g</td><td>54.89±0.95c</td><td>56.25±1.10b</td><td>58.87±0.88a</td><td>57.47±1.07b</td><td><0.001</td></tr><tr><td>平均日采食量 ADFI/g</td><td>93.97±1.79</td><td>94.77±3.09</td><td>97.06±1.73</td><td>95.29±3.10</td><td>0.292</td></tr><tr><td>料重比F/G</td><td>1.71±0.01a</td><td>1.68±0.03ab</td><td>1.65±0.03b</td><td>1.66±0.03b</td><td>0.008</td></tr><tr><td>死亡率 Mortality/%</td><td>7.00±5.70</td><td>6.00±2.24</td><td>5.00±5.00</td><td>2.00±2.74</td><td>0.400</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "同行数据肩标不同字母表示差异显著（ $_ { . P < 0 . 0 5 }$ ）。下表同。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Values in the same row with different letter superscripts mean significantly different $( P { < } 0 . 0 5 )$ The same as below. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2乳酸菌和酵母菌复合制剂肉仔鸡屠宰性能的影响 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，饲粮中添加乳酸菌和酵母菌复合制剂及其与维吉尼亚霉素联用对21日龄肉仔鸡的屠宰性能无显著影响（ $. P { > } 0 . 0 5$ ）；42日龄， $\\mathsf { V M } { + } \\mathsf { L S }$ 组肉仔鸡全净膛率显著高于对照组( $. P { < } 0 . 0 5 \\$ )，LS 组的全净膛率与对照组和 $\\mathtt { V M + L S }$ 组无显著差异 ( $. P { > } 0 . 0 5 \\$ ）,VM、VM+LS和LS 组胸肌率显著高于对照组（ $. P { < } 0 . 0 5$ ），且3组间差异不显著（ ${ \\cdot } P { > } 0 . 0 5$ ）。结果表明，1$0 0 0 ~ \\mathrm { m g / k g }$ 乳酸菌和酵母菌复合制剂及其与 $1 5 ~ \\mathrm { m g / k g }$ 维吉尼亚霉素联用可显著提高42 日龄肉仔鸡的屠宰性能。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/475015d9509a71db30bbebb6f6374f7a4a774647791c9e6a8a4fe95984ea1660.jpg",
+        "table_caption": [
+            "表3乳酸菌和酵母菌复合制剂对肉仔鸡屠宰性能的影响",
+            "Table 3 Effects of Lactobacillus and Saccharomycetes compound preparation on slaughter "
+        ],
+        "table_footnote": [
+            "2.3乳酸菌和酵母菌复合制剂对肉仔鸡肠道黏膜形态的影响"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">performance of broilers</td><td colspan=\"2\">%</td></tr><tr><td>项目Items</td><td>对照组</td><td>VM组</td><td>VM+LS组</td><td>LS组</td><td>P值</td></tr><tr><td></td><td>Control group</td><td>VM group</td><td>VM+LS group</td><td>LS group</td><td>P-value</td></tr><tr><td colspan=\"6\">21日龄 21 days of age</td></tr><tr><td>全净膛率 Eviscerated yield</td><td>75.45±1.67</td><td>76.33±1.70</td><td>75.71±1.79</td><td>76.85±1.24</td><td>0.225</td></tr><tr><td>胸肌率 Breast muscle yield</td><td>22.25±1.50</td><td>22.69±0.95</td><td>22.75±1.70</td><td>22.85±1.74</td><td>0.820</td></tr><tr><td>腿肌率Leg muscle yield</td><td>19.84±1.14</td><td>19.88±1.27</td><td>20.44±0.88</td><td>20.77±0.75</td><td>0.150</td></tr><tr><td>腹脂率 Abdominal fat percentage</td><td>0.99±0.12</td><td>1.16±0.29</td><td>1.25±0.21</td><td>1.18±0.22</td><td>0.073</td></tr><tr><td colspan=\"6\">42 日龄 42 days of age</td></tr><tr><td>全净膛率 Eviscerated yield</td><td>72.66±2.19b</td><td>73.64±1.57b</td><td>75.34±1.00a</td><td>74.16±1.52ab</td><td>0.007</td></tr><tr><td>胸肌率 Breast muscle yield</td><td>25.59±0.54b</td><td>26.84±0.67a</td><td>26.76±0.52a</td><td>26.70±0.93a</td><td>0.001</td></tr><tr><td>腿肌率Leg muscle yield</td><td>19.47±0.67</td><td>20.05±0.57</td><td>19.74±0.78</td><td>20.23±1.12</td><td>0.186</td></tr><tr><td>腹脂率 Abdominal fat percentage</td><td>1.41±0.16</td><td>1.55±0.21</td><td>1.47±0.25</td><td>1.51±0.18</td><td>0.463</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，与对照组相比，21日龄，LS 组的十二指肠绒毛高度及V/C 值显著提高（ $P { < } 0 . 0 5 \\$ );LS 组的空肠绒毛高度及V/C值显著提高( $. P { < } 0 . 0 5 )$ ，隐窝深度显著降低 $( P { < } 0 . 0 5 )$ ；$\\mathrm { \\Delta V M + L S }$ 和LS 组回肠的V/C 值显著提高（ $P { < } 0 . 0 5$ ）。与对照组相比，42日龄， $\\mathsf { V M } { + } \\mathsf { L S }$ 和LS 组的十二指肠和空肠绒毛高度及V/C 值显著提高（ $_ { \\cdot } P { < } 0 . 0 5 { \\mathrm { : } }$ ）。VM组的21和42日龄肠道黏膜形态与对照组相比均无显著差异（ $P { > } 0 . 0 5$ ）。结果表明，饲粮中添加 $1 5 \\mathrm { \\ m g / k g }$ 维吉尼亚霉素和 $\\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 乳酸菌和酵母菌复合制剂，或 $\\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 乳酸菌和酵母菌复合制剂均可改善42日龄肉仔鸡的小肠黏膜形态，且 $\\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 乳酸菌和酵母菌复合制剂对 21日龄肉仔鸡小肠黏膜形态也有改善作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表4乳酸菌和酵母菌复合制剂对肉仔鸡肠道黏膜形态的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Table 4Effects of Lactobacillus and Saccharomycetes compound preparation on intestinal ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "mucosal morphology of broilers ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/467fab5217ab8d919aaf29aa9cb8588fdc11bc07f4b562b5366c0ec3f953a6f8.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">项目Items</td><td>对照组</td><td>VM组</td><td>VM+LS 组</td><td>LS组</td><td>P值</td></tr><tr><td colspan=\"2\"></td><td>Control group</td><td>VM group</td><td>VM+LS group</td><td>LS group</td><td>P-value</td></tr><tr><td colspan=\"2\">21日龄 21 days of age</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>绒毛高度</td><td>1 413.20±122.82b</td><td>1 460.21±104.56b</td><td>1 527.20±225.05ab</td><td>1 724.30±195.70a</td><td>0.049</td></tr><tr><td>十二指</td><td>Villus height/um</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>肠</td><td>隐窝深度</td><td>318.82±23.76</td><td>320.26±14.94</td><td>314.25±13.02</td><td>298.11±24.07</td><td>0.295</td></tr><tr><td>Duoden</td><td>Crypt depth/um</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>um</td><td>绒毛高度/隐窝深度 V/C</td><td>4.44±0.34b</td><td>4.57±0.38b</td><td>4.86±0.70b</td><td>5.77±0.35a</td><td>0.001</td></tr><tr><td rowspan=\"4\"></td><td>绒毛高度</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Villus height/um</td><td>1 042.90±56.75b</td><td>1 070.71±68.39b</td><td>1 047.50±71.46b</td><td>1 212.90±76.14a</td><td>0.003</td></tr><tr><td>隐窝深度</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>311.81±13.90a</td><td>311.43±21.75a</td><td>294.38±12.62a</td><td>246.39±22.50b</td><td><0.001</td></tr><tr><td> Jejunum</td><td>Crypt depth/um</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>绒毛高度/隐窝深度</td><td>3.35±0.18c</td><td>3.44±0.12c</td><td>3.56±0.29b</td><td>4.94±0.29a</td><td><0.001</td></tr><tr><td></td><td>V/C</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>绒毛高度</td><td>842.95±56.89</td><td>845.04±57.78</td><td>873.52±71.78</td><td>865.24±71.80</td><td>0.847</td></tr><tr><td>回肠</td><td>Villus height/um</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ileum</td><td>隐窝深度</td><td>233.52±14.38</td><td>221.62±28.86</td><td>212.11±8.88</td><td>203.62±21.36</td><td>0141</td></tr><tr><td></td><td>Crypt depth/um</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>绒毛高度/隐窝深度</td><td>3.61±0.12b</td><td>3.83±0.26ab</td><td>4.13±0.41a</td><td>4.27±0.41a</td><td>0.023</td></tr><tr><td>42 日龄 42 days of age</td><td>V/C</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>绒毛高度</td><td>1 411.30±103.21c</td><td>1 527.24±225.05bc</td><td>1 654.20±82.98ab</td><td>1 771.20±127.28a</td><td>0.001</td></tr><tr><td>十二指</td><td>Villus height/um</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>肠</td><td>隐窝深度</td><td>351.62±26.99</td><td></td><td></td><td></td><td></td></tr><tr><td>Duoden</td><td>Crypt depth/um</td><td></td><td>314.25±13.02</td><td>327.09±42.16</td><td>317.33±25.94</td><td>0.629</td></tr><tr><td>um</td><td>绒毛高度/隐窝深度</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>4.04±0.57c</td><td>4.86±0.70c</td><td>5.12±0.66b</td><td>5.60±0.37a</td><td></td></tr><tr><td></td><td>V/C</td><td></td><td></td><td></td><td></td><td>0.003</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/2d5ae681a3fdf93d4317e6511f6e23516eb350822223962f4eb6b6b01c468298.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">绒毛高度</td><td rowspan=\"2\">1 176.80±66.21c</td><td rowspan=\"2\">1 107.49±47.38c</td><td rowspan=\"2\">1 371.80±51.19b</td><td rowspan=\"2\">1 434.40±61.25a</td><td rowspan=\"2\"><0.001</td></tr><tr><td></td><td>Villus height/um</td></tr><tr><td>空肠</td><td>隐窝深度</td><td>284.86±13.95</td><td>294.38±12.62</td><td></td><td></td><td>0.384</td></tr><tr><td>Jejunum</td><td>Crypt depth /um</td><td></td><td></td><td>275.78±11.88</td><td>276.01±8.27</td><td></td></tr><tr><td></td><td>绒毛高度/隐窝深度</td><td>4.14±0.29c</td><td>4.49±0.339bc</td><td>4.98±0.31ab</td><td>5.20±0.16a</td><td><0.001</td></tr><tr><td></td><td>V/C</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>绒毛高度</td><td>1 049.10±122.67</td><td>873.52±71.78</td><td>1 113.60±56.70</td><td>1 114.30±70.24</td><td>0.321</td></tr><tr><td></td><td>Villus height/um</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>回肠</td><td>隐窝深度</td><td>230.35±21.67</td><td>212.11±8.88</td><td>239.08±20.22</td><td>224.11±18.57</td><td></td></tr><tr><td>Ileum</td><td>Crypt depth/um</td><td></td><td></td><td></td><td></td><td>0.784</td></tr><tr><td></td><td>绒毛高度/隐窝深度</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>4.55±0.27</td><td>4.13±0.41</td><td>4.68±0.41</td><td>4.98±0.18</td><td>0.136</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.4乳酸菌和酵母菌复合制剂对肉仔鸡盲肠菌群数量的影响",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由表5可知，21日龄，与对照组相比，VM、 $\\mathsf { V M } { + } \\mathsf { L S }$ 和LS 组盲肠大肠杆菌和乳酸杆菌数量以及大肠杆菌/乳酸杆菌值均无显著差异( $. P { > } 0 . 0 5 .$ ）。42日龄，与对照组相比， $\\mathrm { \\Delta V M + L S }$ 和 LS 组的盲肠大肠杆菌数量和大肠杆菌/乳酸杆菌值显著降低（ $P { < } 0 . 0 5 )$ ）； $\\mathsf { V M } { + } \\mathsf { L S }$ 和LS组盲肠乳酸杆菌数量无显著差异（ $. P { > } 0 . 0 5$ ）。与对照组相比，VM组21和42日龄盲肠大肠杆菌和乳酸杆菌数量均无显著变化（ $. P { > } 0 . 0 5$ ）。结果表明，饲粮中添加 $1 5 \\mathrm { \\ m g / k g }$ 维吉尼亚霉素 $+ 1 ~ 0 0 0 ~ \\mathrm { { m g / k g } }$ 乳酸菌和酵母菌复合制剂，或 $1 0 0 0 \\mathrm { m g / k g }$ 乳酸菌和酵母菌复合制剂均可改善肠道微生态区系，利于肠道健康。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/8b354315b7b9931c8e1966e3fc5a68c3886d580a2bd7975a0c61d185b565af8a.jpg",
+        "table_caption": [
+            "表5乳酸菌和酵母菌复合制剂对肉仔鸡盲肠菌群数量的影响",
+            "Table 5Effects of Lactobacillus and Saccharomycetes compound preparation on cecal bacterial "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">populations of broilers</td></tr><tr><td rowspan=\"2\">项目Items</td><td>对照组</td><td>VM组</td><td>VM+LS组</td><td>LS组</td><td>P值</td></tr><tr><td>Control group</td><td>VM group</td><td>VM+LS group</td><td>LS group</td><td>P-value</td></tr><tr><td>21日龄 21 days of age</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>大肠杆菌 Escherichia</td><td>7.48±0.62</td><td>7.19±0.51</td><td>7.48±0.37</td><td>7.35±0.40</td><td>0.749</td></tr><tr><td>coliAg(CFU/g)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>乳酸杆菌</td><td>7.39±0.14</td><td>7.19±0.48</td><td>7.33±0.42</td><td>7.37±0.38</td><td>0.838</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "LactobacilliAg(CFU/g)",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/6d8487c5e3327907201b952d1b2111b30cfc812d9aea277fe237a992d35ed590.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">大肠杆菌/乳酸杆菌Escherichia</td></tr><tr><td>colilLactobacilli</td><td>1.01±0.07</td><td>1.00±0.03</td><td>1.02±0.04</td><td>1.00±0.06</td><td>0.904</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>42 日龄 42 days of age</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>大肠杆菌Escherichia</td><td>7.76±0.59a</td><td>7.53±0.58ab</td><td>6.92±0.52b</td><td>6.56±0.40b</td><td>0.008</td></tr><tr><td>coli/g(CFU/g)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>乳酸杆菌</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>7.55±0.18</td><td>7.56±0.25</td><td>7.77±0.18</td><td>7.65±0.29</td><td>0.417</td></tr><tr><td>Lactobacilli/g(CFU/g)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>大肠杆菌/乳酸杆菌Escherichia</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>1.03±0.07a</td><td>1.00±0.72a</td><td>0.89±0.08b</td><td>0.86±0.07b</td><td>0.006</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>coli/Lactobacilli</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1乳酸菌和酵母菌复合制剂对肉仔鸡生长性能的影响",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "畜禽的ADG 和F/G 是反映益生菌制剂有效性和经济性的重要指标。王利红[7]研究表明，饲粮中添加 $1 0 ^ { 9 }$ CFU/kg 的乳酸菌可显著提高肉仔鸡42日龄体重，显著降低 $_ { 1 \\sim 4 2 }$ 日龄的F/G，而在肉仔鸡饮水中添加乳酸菌，肉仔鸡的 ADG 显著提高，F/G 显著降低[8]；Gil De LoSSantos 等[研究表明，饲粮中添加 $1 { \\times } 1 0 ^ { 7 } \\ \\mathrm { C F U / g }$ 活酵母菌显著提高肉仔鸡BW，说明无论是乳酸菌还是酵母菌都可显著改善肉仔鸡生长性能。这些研究与本试验结果相一致，即在肉仔鸡饲粮中添加 $1 0 0 0 \\mathrm { m g / k g }$ 乳酸菌和酵母菌复合制剂可显著提高生长性能，且本试验中乳酸菌和酵母菌复合制剂组的 $2 2 { \\sim } 4 2$ 日龄 ADG 显著高于维吉尼亚霉素组、F/G 显著低于维吉尼亚霉素组。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "维吉尼亚霉素能够不可逆地抑制细菌蛋白质的合成，最终导致细菌死亡，通常用于预防和治疗革兰氏阳性菌的感染。目前，乳酸菌或酵母菌与抗生素联合使用的研究较少，本试验中用乳酸菌和酵母菌复合制剂替代部分维吉尼亚霉素，结果表明 $1 5 \\mathrm { \\ m g / k g }$ 维吉尼亚霉素与$1 ~ 0 0 0 ~ \\mathrm { { m g / k g } }$ 乳酸菌和酵母菌联用组的 $_ { 1 \\sim 4 2 }$ 日龄 ADG 和42 日龄体重均显著高于 $3 0 \\mathrm { m g / k g }$ 维吉尼亚霉素组。说明 $1 0 0 0 \\mathrm { m g / k g }$ 乳酸菌和酵母菌复合制剂与 $1 5 \\mathrm { m g / k g }$ 维吉尼亚霉素联合使用促生长作用效果更好，二者之间可能存在协同作用，具体机制有待进一步研究。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2乳酸菌和酵母菌复合制剂对肉仔鸡屠宰性能的影响 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "乳酸菌可显著提高肉仔鸡的全净膛率和胸肌率[9]，李菊等[10]研究表明，与对照组和 100mg/kg金霉素组相比， $5 0 0 0 \\mathrm { m g / k g }$ 乳酸菌组的胸肌率分别显著提高了 $7 . 1 5 \\%$ 和 $4 . 3 8 \\%$ 。微生态制剂与抗生素联用对屠宰性能影响的研究较少，本试验中，乳酸菌和酵母菌复合制剂组及其与维吉尼亚霉素联用组与对照组相比，胸肌率分别显著提高了 $4 . 3 3 \\%$ 和 $4 . 5 7 \\%$ ，说明乳酸菌和酵母菌复合制剂及其与维吉尼亚霉素联用均能显著提高42日龄肉仔鸡的屠宰性能。当肉仔鸡饲粮中分别添加 $5 { \\sim } 2 0 ~ \\mathrm { m g / k g }$ 维吉尼亚霉素对屠宰性能无显著影响[1]，而本试验结果显示，饲粮添加 $3 0 \\mathrm { m g / k g }$ 维吉尼亚霉素可显著提高胸肌率；而维吉尼亚霉素剂量减少至15$\\mathrm { m g / k g }$ ，同时添加 $1 0 0 0 \\mathrm { m g / k g }$ 乳酸菌和酵母菌复合制剂时，全净膛率和胸肌率都显著提高，可能是维吉尼亚霉素与乳酸菌和酵母菌复合制剂联合使用时存在协同作用，但还需后续试验验证。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3乳酸菌和酵母菌复合制剂对肉仔鸡肠道健康的影响",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "肠道是肉仔鸡主要的消化吸收器官，当绒毛高度增加时，小肠的消化吸收功能增强；隐窝深度变浅时，机体消化道发育更成熟[12]。V/C 值升高，表明小肠消化吸收功能增强，肠黏膜结构改善。许多研究表明，肉仔鸡饲粮中添加乳酸菌，肠道绒毛高度及V/C 值显著提高，隐窝深度显著降低[13-15]。本试验结果表明，21和42 日龄时，饲粮添加 $\\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 乳酸菌和酵母菌复合制剂使得空肠绒毛高度和V/C 值显著升高，与前人研究结果相近。此外，本试验中，与添加 $3 0 \\mathrm { m g / k g }$ 维吉尼亚霉素相比，添加 $1 0 0 0 \\mathrm { m g / k g }$ 乳酸菌和酵母菌复合制剂可显著改善肠道黏膜形态，说明该益生菌复合制剂更利于维持肠道形态健康。维吉尼亚霉素主要在肠道中起到杀菌作用，减少有害菌对肠黏膜的损害，乳酸菌可通过刺激肠道黏液蛋白 2的表达来保护肉仔鸡小肠黏膜，二者协同作用改善肠道健康[16]。徐基利等[13]研究表明，在肉仔鸡饲粮中分别添加乳酸菌和黄霉素，乳酸菌组的肠道绒毛高度显著增加，隐窝深度显著降低，抗生素组十二指肠绒毛高度和隐窝深度没有显著变化。本试验中，与对照组相比，维吉尼亚霉素组十二指肠、回肠和空肠的绒毛高度和隐窝深度均无显著变化，而维吉尼亚霉素与乳酸菌和酵母菌复合制剂联用组的 42 日龄十二指肠和空肠的绒毛高度和 V/C 值显著升高，说明维吉尼亚霉素与乳酸菌和酵母菌复合制剂联合使用可改善肠道黏膜形态，从而提高肠道对营养物质的吸收能力，提高生长性能。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "动物肠道内主要依靠有益菌（乳酸杆菌、双歧杆菌等）维持微生物区系平衡。有益菌通过产生细菌素、抗生素和其代谢产物，以及争夺空间、营养，从而阻止有害菌群过度繁殖，保持微生物区系的稳定性，从而提高生长性能。研究证实饲粮中添加乳酸菌能够显著增加盲肠乳酸杆菌数量[17]。本试验结果表明，乳酸菌和酵母菌复合制剂组的盲肠大肠杆菌数量和大肠杆菌/乳酸杆菌值显著降低，与崔一喆等[18]在肉仔鸡饲粮中添加 $2 0 0 0 \\mathrm { m g / k g }$ 植物乳酸菌的研究结果相一致，而本试验中维吉尼亚霉素组的盲肠大肠杆菌数量没有显著变化，可能是因为维吉尼亚霉素主要是改善前段肠道菌群稳定性。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "维吉尼亚霉素通过抑制细菌核糖体的合成杀死部分革兰氏阳性细菌，乳酸菌和酵母菌通过拮抗作用、干扰作用和屏障作用等减少肠道有害菌的数量，二者协同增加肠道有益菌数量和种类，减少有害菌的数量，改善肠道健康。Dumonceaux等[19]研究表明，在肉仔鸡饲粮中添加 $2 0 \\ \\mathrm { m g / k g }$ 维吉尼亚霉素，可显著增加小肠前段的菌群稳定性。本试验中乳酸菌和酵母菌复合制剂与维吉尼亚霉素联合使用能显著降低盲肠大肠杆菌数量和大肠杆菌/乳酸杆菌值，说明 $1 0 0 0 \\mathrm { m g / k g }$ 乳酸菌和酵母菌复合制剂与 $1 5 \\mathrm { m g / k g }$ 维吉尼亚霉素通过在肠道内协同提高肠道菌群的稳定性，提高肠道吸收能力，从而改善肉仔鸡的生长性能。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4结论   \n$\\textcircled{1}$ 乳酸菌和酵母菌复合制剂及其与维吉尼亚霉素联用均能改善肉仔鸡生长性能和饲料 效率，且维吉尼亚霉素与乳酸菌和酵母菌复合制剂联用效果更优;   \n$\\textcircled{2}$ 乳酸菌和酵母菌复合制剂及其与维吉尼亚霉素联用均能改善肠道黏膜形态，降低盲 肠大肠杆菌数量，改善肠道微生物区系，促进生长。   \n参考文献：   \n[1]马治宇.乳酸菌及其培养液对肉鸡生产性能、肠道菌群及肠道结构的影响[D].硕士学位论 文.杨凌:西北农林科技大学,2008.   \n[2]闫彬,贺银凤.乳酸菌与酵母菌共生机理综述[J].食品科学,2012,33(3):277-281.   \n[3] MOUNTZOURIS K C,TSITRSIKOS P,PALAMIDI I,et al.Efects of probiotic inclusion levels in broiler nutrition on growth performance,nutrient digestibility,plasma immunoglobulins,and cecal microflora composition[J].Poultry Science,2010,89(1):58-67.   \n[4] 胡顺珍,张建梅,谢全喜,等.复合微生态制剂对肉鸡生产性能、肠道菌群、抗氧化指标和免 疫功能的影响[J].动物营养学报,2012,24(2):334-341.   \n[5] 吴娟娟,赖水明,潘珂,等.肠道菌群对仔鸡肠道发育、黏膜形态和免疫器官发育的影响[J]. 动物营养学报,2015,27(4):1101-1109.   \n[6] GIL DE LOS SANTOS J R,STORCH O B,GIL-TURNES C.Bacillus cereus var. toyoii and Saccharomyces boulardii increased feed efficiency in broilers infected with Salmonella enteritidis[J].British Poultry Science,2005,46(4):494-497.   \n[7] 王利红.鸡源乳酸菌的分离筛选及其对肉鸡生产性能的影响[D].硕士学位论文.杨凌:西北 农林科技大学,2014.   \n[8]王晶,许丽,孙文,等.鸡源乳酸菌对雏鸡生长性能和免疫性能的影响[C]//第十四届全国家 禽科学学术讨论会论文集.哈尔滨:中国畜牧兽医学会,2009 [9] 郭元晟.乳酸杆菌对肉鸡生产性能、免疫机能及肠道菌群的影响[D].博士学位论文.呼和浩 特:内蒙古农业大学,2011.   \n[10] 李菊,张日俊.益生素对肉仔鸡生长性能、屠体性状及肉品质的影响[J].动物营养学 报,2007,19(4):372-378.   \n[11]万建美.肉鸡饲粮中添加维吉尼亚霉素的应用效果研究[D].硕士学位论文.雅安:四川农 业大学,2009.   \n[12] 高侃,汪海峰,章文明,等.益生菌调节肠道上皮屏障功能及作用机制[J].动物营养学 报,2013,25(9):1936-1945.   \n[13] 徐基利,许丽.不同乳酸菌及其添加水平对肉仔鸡生长性能、免疫机能和肠道结构的影响 [J].动物营养学报,2011,23(11):1976-1983.   \n[14] WAD W A,GHAREEB K,ABDEL-RAHEEM S,et al.Effects of dietary inclusion of probiotic and synbiotic on growth performance,organ weights,and intestinal histomorphology of broiler chickens[J].Poultry Science,2009,88(1):49-56.   \n[15] SIEO C C,ABDULLAH N,TAN W S,et al.Influence of beta-glucanase-producing Lactobacillusstrainson intestinal characteristicsand feedpassage rate ofbroiler chickens[J].Poultry Science,2005,84(5):734-741.   \n[16] 曹力.乳酸杆菌对肉鸡肠道黏膜屏障功能的调节及机理[D].博士学位论文.杨凌:西北农 林科技大学,2012.   \n[17] MOUNTZOURIS K C,TSIRTSIKOS P,KALAMARA E,et al.Evaluation of the efficacy of a probiotic containing Lactobacillus,Bifidobacterium,Enterococcus,and Pediococcusstrains in promoting broiler performance and modulating cecal microflora composition and metabolic activities[J].Poultry Science,2007,86(2):309-317.   \n[18]崔一喆,蒋再慧,周亚强,等.鸡源抑菌性乳酸菌的特性研究与鉴定及饲喂肉仔鸡的效果研 究[J].中国微生态学杂志,2016,28(5):506-511.   \n[19]DUMONCEAUX T J,HILL JE,HEMMINGSEN S M,et al.Characterization of intestinal microbiotaandresponsetodietaryvirginiamycinsupplementationinthebroiler chicken[J].Applied and Environmental Microbiology,2006,72(4):2815-2823.   \nEffects of Lactobacillus and Saccharomycetes Compound Preparation on Growth Performance,   \nSlaughter Performance and Intestinal Health of Broilers   \nZHANG Caifeng1,2 WANG Xiaocui2\\*ZHANG Haijun² QI Guanghai.,2\\*\\* WU Shugeng 2\\*\\*   \nWANG Jing²SHI ZhaoguolWANG Hui3   \n(1. College of Animal Science and Technology, Gansu Agricultural University,Lanzhou 730070,   \nChina; 2. Key Laboratory for Feed Biotechnology of Ministry of Agriculture, National   \nEngineering Research Center of Biological Feed,Feed Research Institute, Chinese Academy of   \nAgricultural Sciences, Beijing 1O0o81, China; 3. Xiamen Honghegu Biotechnology Co. Ltd,   \nXiamen 361000, China) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This study was carried out to investigate the Lactobacillus and Saccharomycetes compound preparation (LS） and its combination with virginiamycin (VM) in diets on growth performance, slaughter performance and intestinal health of Arbor Acres (AA) broilers.A total of 400 one-day-old AA male broilers were randomly allotted into 4 groups with 5 replicates each and 20 broilers in each replicate. Chickens in the control group were fed a basal diet, and the others in experimental groups were fed basal diets supplemented with 30 mg/kg VM(VM group),15 mg/kg VM+1 000 mg/kg LS (VM+LS group) and $\\mathrm { 1 ~ 0 0 0 ~ m g / k g ~ l }$ LS (LS group), respectively. The whole experiment period was 42 days. The results showed as follows: 1) body weight of broilers at 42 days of age in VM, VM+LS and LS groups was significantly higher than that in the control group （2 $( P { < } 0 . 0 5 )$ . The ratio of feed to gain and average daily gain of broilers in 22 to 42 days of age and 1 to 42 days of age in $_ { \\mathrm { V M + L S } }$ and LS groups were better than those in the control group $( P { < } 0 . 0 5 )$ 2) Breast muscle yield and eviscerated yield of broilers at 42 days of age in $_ { \\mathrm { V M + L S } }$ group were significantly increased compared with those in the control group $( P { < } 0 . 0 5 )$ . 3) Compared with the control group, jejunum mucosal morphology of broilers at 21 days of age in LS group was significantly improved ( $P { < } 0 . 0 5 )$ ,and villus height and the ratio of villus height to crypt depth in duodenum of broilers at 21 days of age in the same group were significantly increased $( P { < } 0 . 0 5 )$ Meanwhile, villus height and the ratio of villus height to crypt depth in duodenum and jejunum of broilers at 42 days of age in $_ { \\mathrm { V M + L S } }$ and LS group were significantly increased compared with the control group $( P { < } 0 . 0 5 )$ . 4) The amount of Escherichia coli and the ratio of Escherichia coli to Lactobacillus in caecum of broilers at 42 days of age in VM+LS and LS groups were lower than those in the control group $( P { < } 0 . 0 5 )$ .In conclusion,LS alone or in combination with VM can improve intestinal health and promote growth performance of broilers. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Key words: probiotics; virginiamycin; broilers; growth performance; intestinal healthi ",
+        "page_idx": 14
+    }
+]

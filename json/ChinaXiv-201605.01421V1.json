@@ -1,0 +1,476 @@
+[
+    {
+        "type": "text",
+        "text": "The Effect of Ionizing Radiation on mRNA Levels of the DNA Damage Response Genes Rad9, Radl and Hus1 in Various Mouse Tissues ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Author(s): Zhenya Zhang, Zeyuan Cai, Kaiming Li, Yu Fang, Lili An, Zhishang Hu, Shihua Wang and Haiying Hang   \nSource: Radiation Research, 183(1):94-104.   \nPublished By: Radiation Research Society   \nDOI: http://dx.doi.0rg/10.1667/RR13781.1   \nURL: http://www.bioone.0rg/doi/full/10.1667/RR13781.1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BioOne(www.bioone.org) is a nonprofit, online aggregation of core research in the biological, ecological,and environmental sciences.BioOne provides a sustainable online platform for over 17O journalsand books published by nonprofit societies,associations,museums,institutions,and presses. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Your use of this PDF,the BioOne Web site,and all posted and associated content indicates your acceptance of BioOne's Terms of Use, available at www.bioone.org/page/terms_of_use. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Usage of BioOne content isstrictly limited to personal, educational,and non-commercial use.Commercial inquirie or rights and permissions requests should be directed to the individual publisher as copyright holder. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Effect of lonizing Radiation on mRNA Levels of the DNA Damage Response Genes Rad9, Rad1 and Hus1 in Various Mouse Tissues ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Zhenya Zhang,\"1 Zeyuan Cai,b.1 Kaiming Li,\" Yu Fang,Lili An, Zhishang Hu,b² Shihua Wange² and Haiying Hangb.2 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DepartmentofeealurryFtfledsialfbdicalUivesitygla;eterftd Protein Pharmaceuticals,Institute of Biophysics,Chinese Academy of Sciences,Beijing lOolol,China;and $\\textit { \\textbf { c } }$ School ofLife Sciences,Fujian Agriculture and Forestry University，,Fuzhou 35ooO2,China ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Zhang, Z., Cai, Z., Li, K., Fang, Y., Hu, Z.,Wang, S. and Hang,H. The Effect of Ionizing Radiation on Transcription of DNA Damage Response Gene Rad9,Radl and Hus1 in Different Tissues of Mice.Radiat.Res.183, 94-104 (2015). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Rad9,Radl and Hus1 are essential genes conserved from yeast to humans.They form a heterotrimer complex (9-1-1 complex） that participates in the cell cycle checkpoint activation and DNA damage repair in eukaryotic cells. Rad9，Radl and Hus1 deficient cells are hypersensitive to ionizing radiation and mouse cells deleted for anyone of the three genes are highly sensitive to the killing by gamma rays. We propose that ionizing radiation-induced transcription of these genes is a mechanism by which cells respond to radiation-induced damage.In this study we used quantitative real-time RT-PCR(qPCR) to analyze the mRNA levels of Rad9，RadlandHus1invarioustissuesisolatedfrommice that were either mock irradiated or exposed to 10 Gy gamma radiation.Our results indicated that the mRNA levels of Rad9,Radl and Hus1 genes were very different among these tissues,and we found high natural levels of mRNA in the spleen,lung,ovary and testis of mice before exposure to radiation.The mRNA levels of the three genes were well correlated across these tissues,being high,medium or low in each of the tissues simultaneously. The mRNA levels of the three genes were analyzed at 2,6,12,24 and $\\mathbf { 4 8 \\lambda h }$ after irradiation.In most tissues Rad9 was strongly induced at 2 and $\\mathbf { 1 } 2 \\mathbf { h }$ time points and Hus1 was strongly induced at 2,12 and $\\mathbf { 4 8 \\ h }$ time points,but Radl was minimally induced in most of the tissues with the exception of slightly higher levels in the heart and lung tissues at the $\\mathbf { 4 8 \\ h }$ time point.These results suggest that theregulation mechanismsforthemRNA levels of the three genes in response to ionizing radiation are complex and not well orchestrated.We also detected the induction of Rad9 and Husl proteins in the heart and liver of ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Editor's note.The online version of this article (DOI:1O.1667/ RR13781.1) contains supplementary information that is available to all authorized users. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "l These authors contributed equally to this work. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Address for correspondence:Institute of Biophysics,Chinese Academy of Sciences,15 Datun Road,Chaoyang District,Beijing 100101,China;e-mail: $\\operatorname { h h 9 1 } ( \\varnothing $ sun5.ibp.ac.cn; and the School of Life Sciences，Fujian Agriculture and Forestry University，Fuzhou 350002, China; e-mail: wshyyl@ sina.com; hzs_cn@hotmail.com. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "theanimals after irradiation,and found that Rad9 protein levels were highly induced in both the heart and liver, while the Hus1 protein levels were significantly induced only in the liver, suggesting that Rad9 and Hus1 protein levels are not regulated in a coordinated manner in response to irradiation. Wethen went onto measure the mRNA levels of the three genes and the Rad9 and Hus1 protein levels in the mouse liver cell line (NCTC 1469) in response to irradiation in vitro.All three genes in the cultured cells were minimally induced at mRNA level,obviously different from the highly dynamic induction in liver.Rad9 and Hus1 were significantly induced at the protein level,but the induced Rad9 protein levels were higher than the Hus1 levels.Taken together, the good correlation of the mRNA levels of Rad9，Hus1 and Radl genes across different tissues isolated from the animals that were mock irradiated and the lack of correlation in mRNA as well as protein levels after irradiation suggest that the 9-1-1 complex has evolved to play various physiological roles in tissues rather than dealing with high doses of gamma radiation or other genotoxic agents. $\\circledcirc$ 2015 by Radiation Research Society ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ionizing radiation (IR） is ubiquitous in the environment and widely used in radiotherapy and for diagnostic purposes. IR is also potentially hazardous to humans because it is also a mutagen and a carcinogen $( I )$ .To determine its potential health risks for humans or animals, an understanding of how tissue responded to IR is of vital importance.Radiation exposure induces damage that can be detected by cellular systems, triggering cell cycle arrest (2) and DNA repair pathways (3). In response to radiation exposure,a variety of DNA repair proteins detect and repair various types of DNA lesions such as double-strand breaks and replication errors.These DNA repair pathways include the base excision repair (BER),nucleotide excision repair (NER）and mismatch repair (MMR） pathways (4). If the lesions cannot be repaired, the cell can enter into permanent arrest or can die by programmed cell death pathways such as apoptosis (4-6). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In recent years,a number of radiation-induced biomarkers have been developed(7).These radiation biomarkers include gene expression changes (8,9),DNA mutations $( I O )$ and protein expression changes (l1). Rad9,Radl and Husl genes are conserved from yeast to humans, that form a heterotrimer complex called the 9-1-1 complex (12-15). Each component of the 9-1-1 complex plays an important role in the maintenance of genome integrity and in resistance to genotoxic stresses (l6-29)，although there has been no direct experimental evidence that the 9-1-1 complex itself plays a key role in resistance to large scale DNA lesions induced by exposure to high doses of ionizing radiation or other genotoxic stresses.Because of the availability of high quality antibodies for detecting Rad9 protein,many more articles on Rad9 have been published than on Hus1 and Rad1.In clinical tumor samples,aberrant Rad9 expression has been associated with prostate $( 3 0 )$ breast $( 3 I )$ , lung (32), thyroid (33)，skin (20) and gastric cancers $( 3 4 )$ .There are highlevels of Rad9 expressions in lung，thyroid,breast and prostate cancers and diminished levels of Rad9 expression in skin papilloma and gastric carcinoma. Although radiation-induced gene expression changes in cells (35） have been widely studied,data on the induction of Rad9，Radl and Husl in tissues postirradiation is lacking. It has been reported that Rad9, Rad1 and Hus1 became more firmly anchored to cell nuclear components after gamma irradiation, consistent with their function in DNA damage-activated checkpoint signaling pathways $( 3 6 )$ ．However，the effects of gamma irradiation on the Rad9,Radl and Husl expression in vivo afterwhole body irradiation on Rad9,Radl and Husl gene expression in mice has not been reported and may be different from those in cultured cells. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The underlying mechanisms for the regulation of Rad9, Radl and Husl genes remain unclear. While it is widely believed thatRad9,Rad1 and Hus1 usually form the 9-1-1 complex to participate in DNA repair, several recent studies have shown that the contributions of Rad9,Radl and Husl genes to DNA repair can sometimes be independent of their roles in the 9-1-1 complex (22，37). Hence,this study focused on investigating any potential correlations of Rad9, Radl and Husl gene expression in various normal mouse tissues and the regulation of theses genes in the tissues after gamma-radiation exposure.To the best of our knowledge, investigation of the expression responses of Rad9,Radl and Husl genes to gamma irradiation in either isolated cells or in animal tissues is novel.In this study，we attempted to quantify changesin the expression ofRad9,Radl and Husl genes of whole body gamma-irradiated mice using qPCR analysis,and studied various tissues isolated from the irradiated animals.For this study we used qPCR because it is considered to be an accurate quantitative method for gene expression analysis (38).Using qPCR analysis,we first analyzed the mRNA levels ofRad9，Radl and Husl in different normal mouse tissues,and then investigated the radiation-induced changesat the mRNA levelsofRad9, Radl andHusl genesin different tissues from the irradiated mice.Our results indicated that the mRNAlevels of Rad9, Radl and Husl genes strongly correlated with various nonirradiated normal mouse tissues in both male and female mice,but these differences were not maintained within each of the these tissues after ionizing radiation.The results of this study suggest that the regulation mechanisms for the mRNA levels of Rad9,Radl and Husl genes in response to ionizing radiation exposure are different. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MATERIALSANDMETHODS ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Animals,CellsandIrradiation ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A total of 11 male and 35 female,6-8 weeks old,wild-type 129 mice were purchased from Vital River Laboratories Inc.(Beijing, China).In the first experiment, the tissues of 5 male and 5 female mice were dissected andcollectedto analyze themRNAlevels of the Rad9, Radl and Husl genes. Second,after a two day acclimatization period, the remaining 3O female mice were delivered to the Peking University Radiation Facility (Beijing,P.R.China),where they were exposed to O or10 Gy of whole body gamma irradiation.The mice in group 1 served as the control group (O Gy),and the mice in groups 2-6 were exposed to a single dose of 1O Gy radiation from a $\\scriptstyle \\mathrm { C o - } 6 0$ source at a dose rate of $1 \\mathrm { G y } / 6 0 \\mathrm { s }$ ，After exposure,the controls and irradiated mice were sacrificed by cervical dislocation at 2,6,12,24 and $^ { 4 8 \\mathrm { ~ h ~ } }$ postirradiation，respectively，and the tissues were dissected and immediately frozen in liquid nitrogen.The male mice were also used ina similar radiation exposure experiment.All animal procedures were approved by the Institutional Animal Care and Use Committee at the Institute of Biophysics,Chinese Academy of Sciences. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Mouse liver cells(NCTC1469)were cultured and placed in a $5 \\%$ $\\mathrm { C O } _ { 2 }$ （204号 $3 7 ^ { \\circ } \\mathrm { C }$ cell incubator. The cells were irradiated with O or 10 Gy using the same procedure as described above for mouse irradiation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RNAIsolation and Quantitative Real-TimeRT-PCR Analysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Total RNA was isolated from tissues of irradiated and shamirradiated mice with the RNeasy Mini kit (QIAGEN，Hilden, Germany),as described by the manufacturer.A total of $2 ~ { \\mu \\mathrm { g } }$ RNA werereverse-transcribed in a $2 0 ~ \\mu \\mathrm { L }$ reaction volume to form cDNA usingthe SuperScript?First-Strand Synthesis System for Quantitative real-time RT-PCR (InvitrogenTM，Carlsbad,CA). RT-PCRwas performed using the StepOnePlusTM system (Applied Biosystems, Carlsbad, CA) with SYBR green reaction master mix(TaKaRa, Shiga, Japan） to label amplified DNA．A standard curve method of quantification was used to calculate the expression of target genes relative to the housekeeping_ gene GAPDH. Experimentswere performed three times.The following primer pairs，which were synthesized by Biosune,Inc.(Beijing,China),were used for the PCR reactions: ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Mouse Rad9: $5 ^ { \\prime }$ -GCCTCATGCCCTCACTT- $3 ^ { \\prime }$ and $5 ^ { \\prime } { \\cdot }$ 1 TGCTGTCTGCCTCCTCTT- $3 ^ { \\prime }$   \nMouse Radl: $5 ^ { \\prime }$ -GCCCTATTTCAGGTTGT- $3 ^ { \\prime }$ and $5 ^ { \\prime } { \\cdot }$ TGCCCATCTTCATTTCT- $3 ^ { \\prime }$   \nMouse $H u s I$ ： $5 ^ { \\prime }$ -TCCCTGTCTTACCGTGTC- $3 ^ { \\prime }$ and $5 ^ { \\prime } { \\cdot }$ 1 CTCCCTTTAGGTTTGCTT- $3 ^ { \\prime }$   \nMouse GAPDH: $5 ^ { \\prime }$ -ACCCAGAAGACTGTGGATGG ${ \\cdot } 3 { ^ \\prime }$ and $5 ^ { \\prime } { \\cdot }$ 1 GGATGCAGGGATGATGTTCT- $3 ^ { \\prime }$ · ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The PCR procedure was performed as follows: template denaturation at $9 5 ^ { \\circ } \\mathrm { C }$ for $1 5 \\mathrm { ~ s ~ }$ ，then40cycles of $9 5 ^ { \\circ } \\mathrm { C }$ for $1 0 ~ \\mathrm { s }$ 5 $6 0 ^ { \\circ } \\mathrm { C }$ for $2 0 ~ \\mathrm { s }$ and $7 2 ^ { \\circ } \\mathrm { C }$ for $2 0 \\mathrm { ~ s ~ }$ 、The RNA isolation from the mouse liver cells ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c75ddd1d5d5f354e1e7b90e759b6c6122d997b9f335b70789eca822873fa0be0.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FIG.1.The expressions of Rad9,Radl and Husl genes in female 129 mouse tissues (heart, liver,spleen,lung,brain,stomach,small intestine,skeletal muscle,ovary and skin).The expressions were measured by quantitative real-time PCR.Panel A:The mRNA levels of Rad9,Radl and Husl genes in various normal mouse tissues. The expression levels in spleen,lung and ovary were significantly higher than the other seven tissues.Data are shown as ratios relative to the expression of GAPDH and are normalized by average levels of the 10 tissues.Error bars represent standard deviations of three independent experiments.Sm.int. $\\ b =$ small intestine; Sk.Mus. $\\ b =$ skeletal muscle. Panel B:Correlation coefficient of expression levels of Rad9,Radl and Husl genes.The mRNA levels ofRad9,Radl and Husl genes showed statistically significant correlations in various normal mouse tissues,especially between Radl and Husl. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(NCTC 1469) and the RT-PCR for tissues were the same as described above. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Western Blotting ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To prepare protein from mouse liver,approximately $3 0 ~ { \\mu \\mathrm { g } }$ of the liver was homogenized in lysis buffer.The lysate was then prepared in $1 \\times \\mathrm { S D S }$ -sample buffer.Fifty $\\mu \\mathrm { g }$ of protein was resolved on $10 \\%$ SDSpolyacrylamide gel electrophoresis (PAGE） gel,and then transferred to a polyvinylidene difluoride membrane (PVDF).The membrane was probed consecutively with primary and peroxidase-conjugated secondary antibodies,and the signal was detected using the Super Signal West Pico Chemiluminescence Substrate system (Pierce,Rockford, IL).The primary and secondary antibodies used in this study were: mouse anti-GAPDH (KangChen，China)，mouse anti-RAD9 (BD Pharmingen TM, San Diego, CA) and peroxidase-conjugated anti-mouse IgG(A9044，Sigma-Aldrich?，St.Louis，MO).The protein lysate preparation from the mouse liver cells (NCTC1469) and their analysis were the same as above described for tissues. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Statistical Analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "All statistical analyses were performed using statistical software package SPSSVersion 1O.0.The Student's $t$ test was performed to determine statistical significance of the differences between the expressions ofRad9,Radl and Husl.Inall theabove analyses,a $P$ value of $< 0 . 0 5$ was considered statistically significant. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ThemRNALevelsofRad9,Radl andHusl GenesWere Well Correlated in VariousNormal Mouse Tissues ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Using qPCR analysis,we examined the mRNA levels of Rad9,Radl and Husl in 1O normal wild-type 129 mouse tissues(heart,liver，spleen，lung，brain，stomach，small intestine,skeletal muscle,ovary/testis and skin）of both sexes [Fig.1 and Supplementary Fig. S1 (http://dx.doi.org/ 10.1667/RR13781.1.S1)]. Statistical analysis of our results demonstrated that there was good correlation between the mRNA levels of Rad9,Radl and Husl genes in the various mouse tissues,especially between Radl and Husl [Fig.1B and Supplementary Fig. S1B (http://dx.doi.org/1O.1667/ RR13781.1.S1)],and there was no difference in the mRNA levels of these genes between the male and female mice (Fig.2)，suggesting that the three genes are regulated in normal mouse tissues in a coordinated manner. Interestingly,the expression levels in the spleen,lung and ovary/testis were significantly higher than the other tissues [Fig.1A and Supplementary Fig. S1A (http://dx.doi.org/1O.1667/ RR13781.1.S1)].Understandably, the induced DNA breaks and their repair required for antibody formation in the blood cells of the spleen and that occurs in the gamete cells during meiosis of ovary/testis may explain the higher expression of repair genes such as Rad9,Radl and Husl in those two tissues (24,39-41),but the higher expressions of these three genes in the lung is not well understood. The deviations of Rad9 expression levels from Radl and Husl expression levels in the spleen and lung are major contributors to a weaker correlation between Rad9 and Radl/Husl expression levels [Fig. 1 and Supplementary Fig. S1]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Responses of Rad9,Radl and Husl Genes to Gamma Irradiation Were Not Correlated in Each of the Same Mouse Tissues ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The main purpose of this study was to better characterize the cellular response of tissues to gamma irradiation.Female mice were exposed to a whole body lethal dose $( 1 0 ~ \\mathrm { G y } )$ of gamma irradiation (42). The mRNA levels from these tissues wereexaminedbyqPCR at2,6,12,24 and $4 8 \\mathrm { ~ h ~ }$ after irradiation compared to sham-irradiated controls. The results showed prominent increase in the mRNAlevels of Rad9 and Husl genes after irradiation at some time points (Fig. 3A and C),while the mRNA level of the Radl gene was barely altered under the same conditions (Fig. 3B), indicating that the induction mechanisms of the three genes aftera high dose of gamma radiation are different in most if not in all tissues. We also performed experiments on 6 tissues from male mice (liver, lung,small intestine,skeletal muscle,testis and skin).The expressions of 5 tissues (excluding the testis) after irradiation were similar to those in the corresponding tissues from female mice (Supplementary Fig. S2;http://dx.doi.org/10.1667/RR13781.1.S1). The expression pattern of testis was also similar to that of ovary although the induction scales of the expressions of the 3 genes in the testis were larger than those in the ovary. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c75bbf433911172394d68dc2877a0473653aa6ba83e421e3fb1410cb7cd25559.jpg",
+        "table_caption": [
+            "FIG.2.The mRNA levels of Rad9,Radl and Husl genes were strongly correlated in various normal mouse tissues between male and female mice.Panel A:Correlation coefficient of expression levels of Rad9 gene between the male and female mice.Panel B:Correlation coefficient of expressionlevels of Radl gene betweenthemaleand female mice.Panel C:Correlation coefficient of expression levels of Husl gene between the male and female mice. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>A</td><td colspan=\"3\">Correlations</td></tr><tr><td></td><td></td><td>Rad9 Female</td><td>Rad9 Male</td></tr><tr><td>Rad9 Female</td><td>Pearson correlation Sig. (2-tailed)</td><td>1</td><td>0.951** 0.000</td></tr><tr><td></td><td>N</td><td>9</td><td>9</td></tr><tr><td>Rad9</td><td>Pearson correlation</td><td>0.951**</td><td>1</td></tr><tr><td>Male</td><td>Sig. (2-tailed)</td><td>0.000</td><td></td></tr><tr><td></td><td>N</td><td>9</td><td>9</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>B</td><td>Correlations</td><td></td><td></td></tr><tr><td></td><td></td><td>Rad1 Female</td><td>Rad1 Male</td></tr><tr><td>Rad1 Female</td><td>Pearsoncorrelation Sig. (2-tailed)</td><td>1</td><td>0.982** 0.000</td></tr><tr><td>Rad1</td><td>N Pearson correlation</td><td>9</td><td>9</td></tr><tr><td>Male</td><td>Sig. (2-tailed)</td><td>0.982** 0.000</td><td>1</td></tr><tr><td></td><td>N</td><td>9</td><td>9</td></tr><tr><td>C</td><td>Correlations</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Hus1</td><td>Hus1</td></tr><tr><td>Hus1</td><td>Pearson correlation</td><td>Female</td><td>Male 0.985**</td></tr><tr><td>Female</td><td>Sig. (2-tailed)</td><td>1</td><td>0.000</td></tr><tr><td></td><td>N</td><td>9</td><td>9</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Hus1</td><td>Pearson correlation</td><td>0.985**</td><td>1</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Male</td><td>Sig. (2-tailed)</td><td>0.000</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>9</td></tr><tr><td></td><td></td><td>9</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td>N</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Induced expression of Rad9 characteristically peaked at 2 and $1 2 \\mathrm { ~ h ~ }$ after irradiation in all the tissues except the spleen and skeletal muscle (Fig.3A). This pattern also occurred for Husl in skin tissue and less typically in heart tissue,but not in the other tissues (Fig.3C).Hus1 expression peaked at $2 \\mathrm { h }$ afterirradiation in all tissues except the small intestine and skeletal muscle,however Hus1 expression also reached very high levels at $^ { 4 8 \\mathrm { ~ h ~ } }$ postirradiation in many tissues.Radl expressions were not significantly altered, but there was a slight enhancement in lung,heart and liver tissues at $^ { 4 8 \\mathrm { ~ h ~ } }$ after irradiation (Fig.3B).Although both Rad9 and Hus1 had significantly altered expression levels after irradiation in some tissues at several overlapping time points,there was no correlation between their changes (data not shown here). These results suggest that the mechanisms of radiationinduced gene regulation are different for the three genes. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1717c211bd6c930946de04cb80267202b7d6ee082e2269047aaf1d2d86ba7fa.jpg",
+        "img_caption": [
+            "FIG.3.Thealterationsof the mRNA ofRad9,Husl and Radl genes in female 129 mouse tissues (heart, liver,spleen,lung,brain, stomach,small intestine,skeletal muscle,ovary and skin) in response to gamma irradiation. The mRNA levels were measured by quantitative real-time PCR.Panel A:The mRNA levels of Rad9. PanelB:ThemRNAlevelsofRadl.PanelC:ThemRNAlevels of Husl.Sm. int. $\\ b =$ small intestine;Sk.mus. $\\ c =$ skeletal muscle. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e3fad2993d549917714032d5b1045427eb89ca3597427a3d6c137f7f7314257.jpg",
+        "img_caption": [
+            "FIG.4.The alterations of the mRNA of Rad9,Husl and Radl genes in mouse liver cells (NCTC 1469). "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Furthermore,our data indicates that for each of the three genes,there was not a single consistent trend in their mRNA induction response to gamma irradiation across all the tissues.In addition，even though there were distinct dominant features in each of the three genes such as the peaked expressions of Rad9 at 2 and $1 2 \\mathrm { h }$ ,and ofHusl at 48 h,as well as the minimally induced alterations of Radl expression,the extent of these changes varied significantly among these tissues.These data suggest that there is not a single mechanism of the radiation-induced regulation of gene expression for any one of the three genes that fit with all the tissues examined. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ResponsesofRad9,Husl andRadlGenesatmRNALevels ofInVitro CulturedMouseLiverCellstoIonizingRadiation ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The two peaks of Rad9 mRNA in 8 of the 1O tissues,and ofHusl mRNA in 3 of the 1O tissues,which were induced by 1O Gy gamma irradiation are particularly unusual, because radiation-induced gene upregulation of cellsis more often single-peaked (43-45).To determine if these peculiar responses of the Rad9 and Husl genes to irradiation were tissue environment-dependent, mouse liver cells (NCTC 1469) cultured in dishes were gamma irradiated with 1O Gy and the mRNA levels of the three genes were then examined using qPCR.In contrast to the dramatic changesofRad9 and Husl mRNAlevelsin themouseliver tissue, the mRNA levels of these two genes were altered less than onefold.And although the Radl mRNA level in the mouse liver tissue was not very responsive to radiation,it did change a bit more than the cultured mouse liver cells [Fig.4 and Supplementary Fig. S3 (http://dx.doi.org/10. 1667/RR13781.1.S1)]. These data suggest that the organization of tissues significantly modifies cellular regulation of the mRNA levels in response to radiation. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Changes of Rad9 and Husl Protein Levels in Mouse Liver andHeart Tissues and Cultured MouseLiver Cellsin Response to Ionizing Radiation ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Biological functions of coding genes are carried out by their proteins.Although the mRNA levels of the three genes did not change in a coordinated manner in response to exposure to ionizing radiation,as shown above, their protein levels might still be altered in a coordinated manner so the 9-1-1 complex could be formed and carry out its functions efficiently.Using Western blotting，we measured protein levels of Rad9 and Hus1 in liver and heart tissues,and in cultured liver cells before and after 1O Gy gamma irradiation. Interestingly,Rad9 protein levels were sequentially peaked, dipped and enhanced/peaked again in the two tissues and the cultured cells,although the timing of when the protein levels peaked and dipped were different from their mRNA levels [Figs.5 and 6; Supplementary Figs. S4 and S5 (http://dx.doi.org/10.1667/RR13781.1.S1)]. In contrast to Rad9,the protein level alterations of Husl after irradiation followed three different patterns (Figs.5 and 6; Supplementary Figs. S4 and S5). The Hus1 protein level in mouse liver tissue peaked at $1 2 \\mathrm { ~ h ~ }$ ，dipped slightly at $2 4 \\mathrm { ~ h ~ }$ and then rose again.In the heart tissue,the Husl protein level changed only minimally during the $^ { 4 8 \\mathrm { ~ h ~ } }$ period after irradiation.In the cultured liver cells the Hus1 protein level quickly increased within the first $1 2 ~ \\mathrm { ~ h ~ }$ ，then slowly continued to enhance until the end of the experiment at $^ { 4 8 \\mathrm { ~ h ~ } }$ ，These data suggest that the Rad9 and Hus1 protein levels do not change in a coordinated manner in mouse liver and heart tissues,as well as in cultured mouse liver cells. These data also indicate that Husl protein levels change differently in liver and heart tissues in response to exposure to ionizing radiation. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We also assayed the Rad9 and Hus1 proteins in the other tissues,but the specificity was not sufficient enough to provide clear results.Other commercial antibodies were tested,but none of them worked for this study.In addition, we tested many commercial Rad1 antibodies and several batches of self-made Rad1 antibodies,and none of these provided sufficiently clear results. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Rad9,Hus1 and Rad1 form a ring-like trimer complex that has been suggested to play a role in cell cycle checkpoint control(14,15,46)and various forms ofDNA repair (47).In this study,themRNAlevels ofRad9,Hus1 and Radl were found to be well correlated across 1O tissues of 129 mice under sham-irradiated conditions [Fig.1 and Supplementary Fig. S1 (http://dx.doi.org/10.1667/ RR13781.1.S1)], suggesting that the mRNA levels of the three genes are maintained in an orchestrated manner perhaps so the 9-1-1 complex can be formed efficiently and maintain genome integrity in normal physiological conditions.Interestingly,the mRNA levels in spleen,ovary/testis and lung were significantly higher than in the other tissues. The high mRNA levels of the three genes in spleen and ovary/testis are consistent with their roles in cell cycle checkpoint and DNA repair of genes needed for formation of antibodies in spleen and meiosis in ovary/testis that utilize DNA breakage/repair processes (48-51). The high mRNA levels of the three genes in lung were surprising but perhaps understandable,since oxygen causes DNA lesions (52,53).Lung alveolar cells are exposed to a much higher concentration of oxygen than the other normal tissues,i.e., partial pressures of alveolar air and normal tissues are 104 $\\mathrm { \\ m m H { g } }$ and $3 0 \\mathrm { m m H g }$ , respectively (54-57).Rad9 has been shown to play an important role in antioxidation in mouse skin keratinocytes (2O). The high mRNA levels of the three genes in the lung tissue suggest that lung cells,particularly the alveolar cells,are exposed to elevated oxidative stress and need a mechanism to maintain cellular genome integrity with perphaps Rad9,Husl and Radl playing an important role.The differential levels of mRNA measured by qPCR generally agree with the Northern blot results previously reported, although the mouse Hus1 and Rad1 Northern blot results were not quantitatively analyzed in the original reports,and all the RNA species(with various sizes on the blots）of the 9-1-1 complex component genes and the control genes $\\beta$ -actin or Gapdh would needto beadded and the data reanalyzed to reach a conclusion (58-60). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab9020f1ad3f7d57171c9ef98b8fbaeea496269909b1cc1fe26c081ef8d6afc0.jpg",
+        "img_caption": [
+            "FIG.5.Western blotting analysis of Rad9 and Hus1 protein levels in irradiated mouse heart and liver tissue: Rad9 in heart (panelA); Husl in heart (panel B); Rad9 in liver (panel C);and Hus1 in liver (panel D).In each set of the above experiments,panels $_ \\mathrm { A - D }$ ,the first lane is the protein level in the sham-irradiated control and the remaining five lanes are the protein levels in the liver tissue harvested at 2,6,12,24 and $4 8 \\mathrm { ~ h ~ }$ after irradiation. The top portion of the panels are scanned Western blots and the line graphs are the corresponding density quantification result (presented as protein level versus time). "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Notably,Rad9 mRNA levels were significantly higher than Radl and Husl mRNA levels in the lung and spleen tissues， and this contributes to the lower correlations betweenRad9andRadlorHuslmRNAlevelsthanthe correlations between Radl and Husl mRNA levels [Fig.1 and Supplementary Fig. S1 (http://dx.doi.org/1O.1667/ RR13781.1.S1)]. The current general view on the working mechanism of Rad9,Rad1 and Hus1 proteins is that they form a heterotrimer ring and function in DNA repair and cell cycle checkpoint by this ring structure form. The question is whether the three components also play roles in a ring-independent individual form. The three genes manifest some distinct features. $R a d 9 ^ { + / - }$ mouse keratinocytes grow significantly slower than $R a d I ^ { + / - }$ mouse keratinocytes (22，41). Radl protein exists in a free single-molecular form besides the 9-1-1 complex form in human leukemia K562 (37) and human embryonic kidney 293 cells (our unpublished data).More studies are needed to specify the exact molecular role(s) of individual molecules ofRad9,Rad1 and/or Hus1 proteins in cells. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/194887f2aded1916ee8fff5f2734ce303918d19d3c8759755479da8e15ee4932.jpg",
+        "img_caption": [
+            "FIG.6.Western Blotting analysis of Rad9 and Hus1 protein levels in irradiated mouse liver cells (NCTC1469):Rad9 (panel A);Hus1 (panel B). "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The mRNA levels of the three genes in response to $1 0 \\mathrm { G y }$ gamma irradiation were altered very differently in timing and extent (Fig. 3).Rad9 mRNA levels in many tissues peaked at2 and/or $1 2 \\mathrm { h }$ afterirradiation,Hus1 mRNAlevels in many tissues peaked at 2,12 and/or $2 4 \\mathrm { h }$ after irradiation, while Radl mRNA levels were minimally changed except foravery slight enhancementinlung,heart andliver tissues $^ { 4 8 \\mathrm { ~ h ~ } }$ after irradiation (Fig. 3B).The distinct patterns of the mRNA level changes for the three genes in response to exposure to gamma radiation suggest that the mRNA levels areregulatedbydifferentmechanisms.mRNAlevels canbe influenced by transcription and mRNA stabilization. The good correlation among the mRNA levels across these tissues under normal conditions [Fig.1A and Supplementary Fig. S1 (http:/dx.doi.org/10.1667/RR13781.1.S1)], suggests that DNA lesion levels are monitored by cells and the signals are transmitted to the transcription machinery and/or mRNA stabilizing factors.For example, the physiological programmed DNA lesions and repair in spleen,testis and ovary are sensed,and high levels of mRNA of the three genes are maintained for repair in the cells in these tissues.The fact that the mRNA level changes of the three genes at various time points after irradiation are not correlated [Fig. 3 and Supplementary Fig. S2 (http://dx. doi.org/10.1667/RR13781.1.S1)] suggests that the DNA lesion level is not the only element sensed by transcription machineryand/ormRNA stabilizing factors,and the other element(s） that influence the mRNA level play different roles in controlling the mRNA levels of the three different genes.Since the patterns of mRNA changes for the three genes were different from each other,at least some other of the mRNA controlling elements should be on these genes. Therefore， there should be at least two mechanisms controlling the mRNA levels; one is dominant under physiological conditions,while the other exerts its influence mainly when the cells undergo stresses such as irradiation. Althoughtheradiation-induced mRNAlevels ofRad9 and Huslwere highly dynamic in the liver, they barelychanged in the in vitro cultured liver cells after irradiation [Fig.4 and Supplementary Fig. S3 (http://dx.doi.org/10.1667/ RR13781.1.S1)]，suggesting that signals outside of cells greatly influence transcription machinery and/or mRNA stabilizing factors through the aforementioned second mechanism. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The differences of mRNA induction of the three genes did not necessarily transfer to the unbalanced protein levels and inefficiency of the formation of the 9-1-1 complex.Notably, there exists free Rad1 protein in untreated K526 (37)and 293 cells (our unpublished data),and the extra free Rad1 might form the 9-1-1 complex with newly synthesized Rad9 and Hus1. To clarify the above question on the balanced protein concentrations of the three genes,we attempted to detect the three proteins in mouse tissues before and after irradiation. However， all Western bloting assays using commercial and self-made mouse Rad1 antibodies failed to generate useful data. We were also unable to obtain sufficient Western blotting data on Rad9 and Hus1 of all the mouse tissues except for the liver and heart [Figs.5 and 6；Supplementary Figs. S4 and S5 (http://dx.doi.org/10. 1667/RR13781.1.S1);unpublished data]. However, we are still able to make three comparisons using the protein data and the above mRNA data:1. protein level changes between Rad9 and Husl;2.protein level changes between heart and liver;3.protein level changes and mRNA level changes. These arefurtherdiscussedbelow. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the liver, both Rad9 and Hus1 protein levels peaked at $1 2 \\mathrm { ~ h ~ }$ and reached even higher values at $^ { 4 8 \\mathrm { ~ h ~ } }$ ；Rad9protein level reached a concave low point at $2 4 \\mathrm { ~ h ~ }$ while Hus1 protein level was only slightly lower before rising again [Fig. 5C and D; Supplementary Fig. S4C and D (http://dx. doi.org/10.1667/RR13781.1.S1)]. In the heart tissue,Rad9 protein level peaked at $6 \\mathrm { ~ h ~ }$ and reached a concave point at ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$2 4  { \\mathrm { ~ h ~ } }$ before rising again to the highest value in the experiment time range.Meanwhile,the change of Hus1 protein level was much less dynamic,and its highest value only doubled that of the nonirradiated control [Fig. 5A and B；Supplementary Fig. S4A and B (http://dx.doi.org/10. 1667/RR13781.1.S1)]. These results suggest that the Rad9 and Hus1 protein levels were not altered in an orchestrated manner in the heart,and changed at most in a loosely coordinated manner in the liver. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "As for comparisons of the radiation-induced changes of the Rad9 and Hus1 protein levels between liver and heart, there are two interesting points.First, the Rad9 protein level reached the first peak in the heart and liver at 6 and $1 2 \\mathrm { ~ h ~ }$ respectively.Second, the Hus1 protein level changed in a highly dynamic manner in the liver,but only slightly altered in the heart during the $^ { 4 8 \\mathrm { ~ h ~ } }$ after irradiation [Fig.5 and Supplementary Fig. S4 (http://dx.doi.org/10.1667/ RR13781.1.S1)]. In short,either the timing (Rad9） or extent(Hus1) of the protein level alteration was different in liver and heart tissues,indicating that the two proteins are regulated differently in the two tissues,or simply that this reflects distinct intracellular environments in the two tissues that influence the proteinlevels in response to the same dose of ionizing radiation. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The dynamic changes ofRad9 and Hus1 protein levels in liver and heart tissues were obviously different from those of the mRNA levels after irradiation (Figs.3 and 5).Rad9 mRNAlevels peaked in both the heart and liver at2 and 12 h while the protein levels in the heart peaked at 6 and $4 8 \\mathrm { ~ h ~ }$ and in the liver at 12 and $^ { 4 8 \\mathrm { ~ h ~ } }$ ，thus the rise of the Rad9 protein level followed the trend of the induced mRNA level. The Husl mRNA level peaked both at2 and $1 2 \\mathrm { { h } }$ the in heart, and only peaked at $^ { 2 \\mathrm { ~ h ~ } }$ to a level less than that in the liver during the $2 4 \\mathrm { h }$ period after irradiation.However, the Hus1 protein levels changed much more dramatically in the liver than in the heart during the $2 4 \\mathrm { ~ h ~ }$ period. The above data indicates that the Husl protein induction in the heart does not follow the trend of its mRNA level, suggesting that Husl protein level in the heart maybe mainly regulated at translation and/or protein degradation, and that the Hus1 protein levels are regulated differently in the liver and heart. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The two or three peaks of the Rad9 and Husl mRNA levels in some mouse tissues after irradiation were quite unique (Fig.3)，and this phenomenon prompted us to investigate if there wasa similar trend for in vitro cultured mouse liver hepatocytes (NCTC 1469). In contrast to the highlydynamic alterations inlivertissues,theRad9,Radl and Husl mRNA levels barely changed after irradiation [Fig.4 and Supplementary Fig. S3 (http://dx.doi.org/10. 1667/RR13781.1.S1)]，suggesting that the liver cellsin tissue respond to radiation very differently from those in culture.Despite this difference in radiation-induced mRNA levels,the changes in the Rad9 and Husl protein levels between cultured liver cells and cells in the liver were somewhat close to each other even though the timings and extents were not the same. These data indicate that regulation of translation or protein degradation may play an important role in determining Rad9 and Hus1 protein levels. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The differential radiation-induced mRNA or protein levels of the three genes do not challenge the 9-1-1 complex structure and its potential physiological roles. However, this does not appear to reconcile with the current proposal that the complex plays an important role in dealing with severe DNA damage caused by high-dose ionizing irradiation.Thus far there has been no direct evidence that supports this proposal. An experiment, where one mutant component protein (such as mutant Rad1） unable to physically interact with the other two components (such asRad9 and Hus1) still confers resistance to a high dose of radiation,would help clarify if the complex plays a role in resistance to a high dose of radiation or not. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The 9-1-1 complex is not the only complex in which component genes are expressed in a correlated manner among different tissues under normal conditions and expressed in an uncorrelated manner under genotoxic stresses. The $\\mathrm { K u 7 0 / K u 8 0 }$ complex plays a critical role in DNA double-strand nonhomologous end joining (NHEJ). The mRNA levels of $\\mathtt { K u 7 0 }$ and $\\mathtt { K u 8 0 }$ undergo a dynamic and correlated change during zebrafish embryogenesis $( 6 I _ { \\cdot }$ $6 2 \\AA$ ).The expression levels of $\\mathtt { K u 7 0 }$ and ${ \\mathrm { K u } } 8 0$ in human rectal intestine (63), breast, cervix (64) epithelium cells (65) (immunostaining）and fibroblasts $( 6 6 )$ (Northern blotting) were also reported to be correlated.However,their expressions are not always correlated under genotoxic stress conditions,such as the $\\mathtt { K u 7 0 }$ and $\\mathtt { K u 8 0 }$ protein levels in livers of mice injected with dimethylnitrosamine $( 6 7 )$ and in mouse B cells during B cell differentiation (68). Consistently, $\\mathtt { K u 7 0 }$ and $\\mathtt { K u 8 0 }$ manifest different functions in T cell differentiation (69-7l） and apoptosis (72-74), although both are required for NHEJ.It is likely that the correlated and uncorrelated expressions correspond to functions requiring both components and only one component,respectively. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In summary we found: 1.A good correlation of mRNA levelsamong the three genesRad9,Hus2 and Radl,which indicates that they function coordinately under normal physical conditions in vivo,probably through the formation of the 9-1-1 complex; 2. Tissue environment plays a profound role in the regulation of the mRNA and protein levels of the three genes in response to exposure to ionizing radiation;and 3.There is no orchestration in either mRNA or protein level change in response to 1O Gy gamma irradiation, suggesting that either the genes do not respond in a coordinated manner to the high dose of radiation not in mechanisms evolved through adapting environment, or the individual components play independent and diverse roles in high-dose radiation response.It is evident that further experimental studies are needed to investigate these possibilities. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "SUPPLEMENTARYINFORMATION ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig. S1.The expressions of Rad9,Radl and Husl genes in male 129 mouse tissues (heart, liver, spleen, lung, brain, stomach,small intestine,skeletal muscle,testis and skin). The expressions were measured by quantitative real-time PCR.PanelA:ThemRNAlevelsofRad9,Radl andHusl genes in various normal mouse tissues.The expression levels in spleen,lung and testis were significantly higher than in the other seven tissues.Data are presented as ratios relative to the expression of GAPDH and are normalized by average levels of the 1O tissues.Error bars represent standard deviations of three independent experiments. Sm. Int. $\\ c =$ small intestine; Sk.Mus. $\\ c =$ skeletal muscle.Panel B: Correlation coefficient of expression levels of Rad9,Radl and Husl genes.The mRNA levels of Rad9,Radl and Husl genes showed statistically significant correlations in various normal mouse tissues,especially between Radl and Hus1. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig. S2.The alterations of the mRNA of Rad9,Husl and Radl genes in male 129 mouse tissues (liver, lung,small intestine，skeletal muscle,testis and skin） in response to gamma irradiation. This data, from a partially duplicated experiment shown in Fig.3,here uses male mice instead of the female mice shown in Fig.3. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig.S3.Thealterationsof themRNAofRad9,Hus1 and Radl genes in mouse liver cells (NCTC 1469).This is the data of a duplicated experiment of that shown in Fig.4. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig. S4. Western blotting analysis of Rad9 and Hus1 protein levels in irradiated mouse heart and liver tissue.This is the data of a duplicated experiment of that shown in Fig. 5. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig. S5.Western Blotting analysis of Rad9 and Hus1 protein levels in irradiated mouse liver cells (NCTC 1469): Rad9 (panel A);Husl (panel B). This is the data of a duplicated experiment of that shown in Fig.6. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Natural Science Foundation of China [National Natural Science Foundation,grants no.11179o4O9 (LA) and 309oo813 (ZSH)] and Knowledge Innovation Program of Chinese Academyof Sciences(SJ1O),“Strategic PriorityResearchProgram”of the Chinese Academy of Sciences，grants no.XDA04020202-13 and XDA04020413. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Received:April 29,2014；accepted:September 23，2014；published online:January O6,2015 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1.Snyder AR,Morgan WF.Radiation-induced chromosomal instability and gene expression profiling: searching for clues to initiation and perpetuation.Mutat Res 2004; 568:89-96.   \n2.Branzei D,Foiani M.Regulation of DNA repair throughout the cell cycle.Nat Rev Mol Cell Biol 2008;9:297-308.   \n3.Szumiel I. Intrinsic radiation sensitivity: cellular signaling is the key.Radiat Res 2008;169:249-58.   \n4．Jaroudi S,Kakourou G,Cawood S,Doshi A,Ranieri DM,Serhal P,et al. Expression profiling of DNA repair genes in human Oocytes aiu UIastwcysts usIg IucioaIays. HuII KepIou ZUUy; 24:2649-55. 5.Bergamini E.Autophagy:a cell repair mechanism that retards ageing and age-associated diseasesand can be intensified pharmacologically.Mol Aspects Med 2006; 27:403-10. 6.Kaushik S,Cuervo AM.Autophagy as a cell-repair mechanism: activation of chaperone-mediated autophagy during oxidative stress.Mol Aspects Med 2006; 27:444-54. 7. Amundson SA,Fornace AJ, Jr. Gene expression profiles for monitoring radiation exposure. Radiat Prot Dosimetry 2001; 97:11-6. 8.Heinloth AN, Shackelford RE,Innes CL,Bennett L,Li L,Amin RP,et al. Identification of distinct and common gene expression changes after oxidative stress and gamma and ultraviolet radiation. Mol Carcinog 2003; 37:65-82. 9.Amundson SA,Do KT, Shahab S,Bittner M,Meltzer P,Trent J,et al.Identification of potential mRNA biomarkers in peripheral blood lymphocytes_for human exposure to ionizing radiation. Radiat Res 2000; 154:342-6.   \n10.Jensen RH,Bigbee WL,Langlois RG.Multiple endpoints for somatic mutations in humans provide complementary views for biodosimetry，genotoxicity and health risks.Prog Clin Biol Res 1990; 340:81-92.   \n11.Maity A，Kao GD，Muschel RJ，McKenna WG．Potential molecular targets for manipulating the_radiation response. Int J Radiat Oncol Biol Phys 1997;37:639-53.   \n12.Parrilla-Castellar ER,Arlander SJ, Karnitz L. Dial 9-1-1 for DNA damage: the Rad9-Hus1-Rad1 (9-1-1) clamp complex.DNA Repair (Amst) 2004; 3:1009-14.   \n13.Dore AS，Kilkenny ML，Rzechorzek NJ，Pearl LH.Crystal structure of the rad9-rad1-hus1 DNA damage checkpoint complex-implications for clamp loading and regulation. Mol Cell 2009;34:735-45.   \n14. Xu M, Bai L, Gong Y, Xie W, Hang H, Jiang T. Structure and functional implications_of the human rad9-hus1-rad1cell cycle checkpoint complex. JBiol Chem 2009; 284:20457-61.   \n15.Sohn SY, Cho Y. Crystal structure of the human rad9-husl-rad1 clamp. J Mol Biol 2009; 390:490-502.   \n16.Ishikawa K,Ishii H, Saito T,Ichimura K.Multiple functions of rad9_for preserving genomic integrity. Curr Genomics 2006; 7:477-80.   \n17.Lieberman HB.Rad9,an evolutionarily conserved gene with multiple functions for_preserving genomic integrity. J Cell Biochem 2006; 97:690-7.   \n18.Weiss RS,Enoch T,Leder P.Inactivation of mouse Hus1 results in genomic instability and impaired responses to genotoxic stress. Genes Dev 2000;14:1886-98.   \n19.Hopkins KM,Auerbach W,Wang XY,Hande MP,Hang H, Wolgemuth DJ,et al. Deletion of mouse rad9 causes abnormal cellularresponsestoDNA damage,genomic_instability，and embryonic lethality.Mol Cell Biol 2004; 24:7235-48.   \n20. Hu Z, Liu Y, Zhang C, Zhao Y,He W, Han L, et al. Targeted deletion of Rad9 in mouse skin keratinocytes enhances genotoxininduced tumor development. Cancer Res 2008; 68:5552-61.   \n21. Zhang C,Liu Y,Hu Z,An L,He Y,Hang H. Targeted deletion of mouse Rad1 leads to deficient cellular DNA damage responses. Protein Cell 2011; 2:410-22.   \n22.Han L,Hu Z,Liu Y,Wang X,Hopkins KM, Lieberman HB,et al. Mouse Rad1 deletion enhancessusceptibility for skin tumor development. Mol Cancer 2010; 9:67.   \n23.Freire R, Murguia JR, Tarsounas M,Lowndes NF, Moens PB, Jackson SP. Human and mouse homologs of Schizosaccharomyces pombe rad1 $( + )$ and Saccharomyces cerevisiae RAD17: linkage to checkpoint control and mammalian meiosis. Genes Dev 1998; 12:2560-73.   \n24.Lyndaker AM,Lim PX,Mleczko JM,Diggins CE,Holloway JK, Holmes RJ,et al. Conditional inactivation of the DNA damage Ivvpuiovgiy 1mvusv vuis sepuiuvr 1U IU components of the RAD9-RAD1-HUS1 complex in meiotic chromosome maintenance. PLoS Genet 2013; 9:e1003320.   \n25.Pandita RK,Sharma GG,Laszlo A，Hopkins KM,Davey S, Chakhparonian M, et al.Mammalian Rad9 plays a role in telomere stability, S- and G2-phase-specific cell survival,and homologous recombinational repair. Mol Cell Biol 2006; 26:1850-64. 26.GuanX,BaiH, ShiG,Theriot CA,Hazra TK,Mitra S,et al. The human checkpoint sensor Rad9-Radl-Hus1 interacts with and stimulates NEIL1 glycosylase. Nucleic Acids Res 2007; 35:2463- 72.   \n27. Guan X, Madabushi A, Chang DY,Fitzgerald ME, Shi G, Drohat AC,et al. The human checkpoint sensor Rad9-Rad1-Hus1 interacts with and stimulates DNA repair enzyme TDG glycosylase. Nucleic Acids Res 2007;35:6207-18.   \n28.He W, Zhao Y, Zhang CB,An LL,Hu ZS,Liu YH,et al. Rad9 plays an important role in DNA mismatch repair through physical interaction with MLH1.Nucleic Acids Res 2008;36:6406-17.   \n29.Li T,Wang Z, Zhao Y,He W,An L,Liu S,et al. Checkpoint protein Rad9 plays an important role in nucleotide excision repair. DNA Repair (Amst) 2013; 12:284-92.   \n30. Zhu A, Zhang CX,Lieberman HB. Rad9 has a functional role in human prostate carcinogenesis. Cancer Res 20o8;68:1267-74.   \n31.Cheng CK, Chow LWC,Loo WTY, Chan TK,Chan V. The cell cycle checkpoint gene Rad9 is a novel oncogene activated by 11q13 amplification and DNA methylation in breast cancer. Cancer Res 2005; 65:8646-54.   \n32. Maniwa Y, Yoshimura M, Bermudez VP, Yuki T, Okada K, Kanomata N, et al. Accumulation of hRad9 protein in the nuclei of nonsmall cell lung carcinoma cells. Cancer 20o5；103:126-32.   \n33.Kebebew E,Peng M,Reiff E,Duh QY,Clark OH,McMillan A. Diagnostic and prognostic value of cell-cycle regulatory genes in malignant thyroid neoplasms.World J Surg 2006; 30:767-74. 34.Lee HS,Cho SB,Lee HE,Kim MA,Kim JH,Park DJ,et al. Protein expression profiling and molecular classification of gastric cancer by the tissue array method. Clin Cancer Res 2007; 13:4154-63.   \n35. Taki K,Wang B,Nakajima T,Wu JY,Ono T,Uehara Y, et al. Microarray analysis of differentially expressed genes in the kidneys and testes of mice after long-term irradiation with lowdose-rate gamma-rays. JRadiat Res 2009; 50:241-52.   \n36.Burtelow MA, Kaufmann SH,Karnitz LM. Retention of the human Rad9 checkpoint complex in extraction-resistant nuclear complexes after DNA damage.JBiol Chem 2000; 275:26343-8.   \n37.Burtelow MA,Roos-Mattjus PMK，Rauen M,Babendure JR, Karnitz LM.Reconstitution and molecular analysis of the hRad9- hHus1-hRad1 (9-1-1) DNA_damage responsive checkpoint complex.JBiol Chem 2001; 276:25903-9.   \n38.Taniguchi K,Kajiyama T,Kambara H. Quantitative analysis of gene expression in a single cell by qPCR.Nat Methods 2009; 6:503-6.   \n39. An LL, Wang YL, Liu YH, Yang XA, Liu CC, Hu ZS,et al. Rad9 is required for B cell proliferation and immunoglobulin class switch recombination.J Biol Chem 2010; 285:35267-73.   \n40.Vasileva A,Hopkins KM,Wang XY,Weisbach MM,Friedman RA,Wolgemuth DJ, et al. The DNA damage checkpoint protein RAD9A is essential for male meiosis in the mouse.J Cell Sci 2013；126:3927-38.   \n41.Lyndaker AM,Vasileva A,Wolgemuth DJ,Weiss RS,Lieberman HB.Clamping down on mammalian meiosis.Cell Cycle 2013; 12:3135-45.   \n42.Goel HC,Prakash H,Ali A,Bala M. Podophyllum hexandrum modulates gamma radiation-induced immunosuppression in Balb/c mice:Implications in radioprotection. Mol Cell Biochem 2007; 295:93-103.   \n43.Datta R，Rubin E，Sukhatme V，Qureshi S,Hallahan D, Weichselbaum RR,et al. Ionizing radiation activates transcription v1 uIc LUI ICmCns GA   \n1992; 89:10149-53.   \n44．Sherman ML,Datta R,Hallahan DE,Weichselbaum RR,Kufe DW.Ionizing radiation regulatesexpressionof the c-jun protooncogene.Proc Natl Acad Sci U S A 1990; 87:5663-6.   \n45.Woloschak GE,Chang-Liu CM, Shearin-Jones P.Regulation of protein kinase C by ionizing radiation.Cancer Res 199O; 50:3963-   \n7.   \n46.Dore AS，Kilkenny ML，Rzechorzek NJ，Pearl LH. Crystal structure of the Rad9-Rad1-Hus1 DNA damage checkpoint complex- implications for clamp loading and regulation. Mol Cell 2009; 34:735-45.   \n47.Broustas CG,Lieberman HB.Contributions of Rad9 to tumorigenesis.J Cell Biochem 2012;113:742-51.   \n48. Saribasak H, Gearhart PJ. Does DNA repair occur during somatic hypermutation? Semin Immunol 2012; 24:287-92.   \n49.Liu M, Schatz DG.Balancing AID and DNA repair during somatic hypermutation. Trends Immunol 2009; 30:173-81.   \n50.Kohl KP，Sekelsky J. Meiotic and mitotic recombination in meiosis. Genetics 2013;194:327-34.   \n51.Marcon E,Moens PB.The evolution of meiosis: recruitment and modification of somatic DNA-repair proteins. Bioessays 2005;   \n27:795-808.   \n52. Chen Q, Fischer A, Reagan JD, Yan LJ,Ames BN. Oxidative DNA-damage and senescence of human-diploid fibroblast cells. Proc Natl Acad Sci U S A 1995; 92:4337-41.   \n53.Saito H,Hammond AT,Moses RE. The effect of low-oxygen tension on the in-vitro replicative life-span of human-diploid fibroblast cellsand their transformed derivatives.Exp Cell Res   \n1995; 217:272-9.   \n54.Guyton AC. Basic human physiology: normal function and mechanisms of disease.Philadelphia: W.B. Saunders Company;   \n2008.   \n55. Sung HJ, Ma WZ, Wang PY,Hynes J, O'Riordan TC, Combs CA, et al.Mitochondrial respiration protects against oxygen-associated DNA damage. Nat Commun 2010; 1.   \n56.Parrinello S,Samper E,Krtolica A,Goldstein J,Melov S,Campisi J. Oxygen sensitivity severely limits the_replicative lifespan of murine fibroblasts.Nat Cell Biol 2O03;5:741-7.   \n57. Sung HJ,Ma W, Starost MF,Lago CU, Lim PK, Sack MN, et al. Ambient oxygen promotes tumorigenesis.PLoS One 2011;   \n6:e19785.   \n58.Hang H, Rauth SJ,Hopkins KM,Davey SK,Lieberman HB. Molecular cloning and tissue-specific expression of Mrad9,a murine orthologue of the Schizosaccharomyces pombe rad9 $+$ （204号 checkpoint control gene. J Cell Physiol 1998;177:241-7.   \n59.Weiss RS,Kostrub CF，Enoch T,Leder P. Mouse Hus1，a homolog of the Schizosaccharomyces pombe hus1 $+$ cell cycle checkpoint gene. Genomics 1999; 59:32-9.   \n60.Parker AE,Van de Weyer I, Laus MC,Oostveen I，Yon J, Verhasselt P,et al. A human homologue of the Schizosaccharomyces pombe rad1 $+$ checkpoint gene encodes an exonuclease. J Biol Chem 1998;273:18332-9.   \n61. Bladen CL, Lam WK, Dynan WS, Kozlowski DJ. DNA damage response and $\\mathtt { K u 8 0 }$ function in the vertebrate embryo.Nucleic Acids Res 2005;33:3002-10.   \n62．Bladen CL,Navarre S,Dynan WS,Kozlowski DJ. Expression of the $\\mathrm { K u } 7 0$ subunit (XRCC6) and protection from low dose ionizing radiation during zebrafish embryogenesis.Neurosci Lett 2007;   \n422:97-102.   \n63. Yamazaki T, Matsushita Y, Kawashima K, Someya M, Nakajima Y,Kurashige T.Evaluation of the pharmacological activity of extracts from amomi semen on the gastrointestinal tracts.J Ethnopharmacol 2000; 71:331-5.   \n64．Wilson CR,Davidson SE,Margison GP,Jackson SP,Hendry JH, West CM.Expression of Ku7O correlates with survival in carcinoma of the cervix.BrJCancer 2O0O;83:1702-6.   \n65.Komuro Y,Watanabe T,Hosoi Y,Matsumoto Y,Nakagawa K, Tsuno N,et al. The expression pattern of Ku correlates with tumor radiosensitivity and disease free survival in patients with rectal carcinoma. Cancer 2002;95:1199-205.   \n66.KastenU,PlottnerN,JohansenJ,OvergaardJ,DikomeyE.Ku70/ 80 gene expression and DNA-dependent protein kinase (DNA-PK) activity do not correlate with double-strand break(dsb）repair capacity and cellular radiosensitivity in normal human fibroblasts. BrJ Cancer 1999;79:1037-41.   \n67.Wang Z,YanJ,Lin H,Hua F,Wang X,Liu H,et al. Toll-like receptor 4 activity protects against hepatocellular tumorigenesis and progression by regulating expression of DNA repair protein $\\mathrm { K u } 7 \\hat { 0 }$ in mice.Hepatology 2013; 57:1869-81.   \n68.Grawunder U,Finnie N,Jackson SP,Riwar B,Jessberger R. Expression of DNA-dependent protein kinase holoenzyme upon induction of lymphocyte differentiation and V(D)J recombination. Eur JBiochem 1996; 241:931-40.   \n69.Nussenzweig A,Chen CH,Soares VD，Sanchez M,Sokol K, Nussenzweig MC,et al.Requirement for $\\mathtt { K u 8 0 }$ in growth and immunoglobulin V(D)J recombination.Nature 1996;382:551-5.   \n70.Mahaney BL,Yu Y,Lees-Miller SP.The XLF C-terminal region is required for DNA binding and interaction with $\\mathrm { K u } 7 0 / 8 0$ in vitro but not for repair of double-strand breaks in vivo [abstract P11]. Environ Mol Mutagen 2011; 52:S44.   \n71.Li GC, Ouyang HH, Li XL,Nagasawa H,Little JB, Chen DJ, et al. Ku70:A candidate tumor suppressor gene for murine T cell lymphoma.Mol Cell 1998;2:1-8.   \n72.Sawada M,Sun WY，Hayes P，Leskov K，Boothman DA, Matsuyama S.Ku7O suppresses the apoptotic translocation of Bax to mitochondria.Nat Cell Biol 2003;5:320-9.   \n73.Qin Q,Patil K,Sharma SC. The role of Bax-inhibiting peptide in retinal ganglion cell apoptosis after optic nerve transection. Neurosci Lett 2004;372:17-21.   \n74.Subramanian C,Opipari AW,Bian X,Castle VP,Kwok RPS. Ku7O acetylation mediates neuroblastoma cell death induced by histone deacetylase inhibitors.Proc Natl Acad SciU S A 2005; 102:4842-7. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

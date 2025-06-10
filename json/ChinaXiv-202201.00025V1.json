@@ -1,0 +1,454 @@
+[
+    {
+        "type": "text",
+        "text": "Contribution of underlying terrain to sand dunes: evidence from the Qaidam Basin, Northwest China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Jiyan1\\*, QU Xin', DONG Zhibao², CAI Yingying],LIU Min1, REN Xiaozong', CUI Xujial ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 School of Geography Science,Taiyuan Normal University, Jinzhong 030619, China;   \n2 School of Geography and Tourism, Shaanxi Normal University,Xi'an 710119,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Underlying terrain strongly influences dune formation. However, the impacts of underlying terrain on the dune formation are poorly studied. In the present research, we focused on dunes that formed in the aluvial fans and dry salt flats in the Qaidam Basin,Northwest China. We quantified the dunes' sediment characteristics on different types of underlying terrain and the terrain' effects on the surface quartz grains by analyzing grain-size distribution, soluble salt contents and grain surface micro-textures.Results showed that barchan dunes were dominated by medium sands with a unimodal frequency distribution，whose peak corresponded to the saltation load.Linear dunes were mainly composed of fine sands with a bimodal frequency distribution, whose main peak represented the saltation load,and whose secondary peak represented the modified saltation or suspension load. Sand was transported from source area by running water (inland rivers) over short distances and by wind over relatively longer distances. Thus, quartz grains had poor roundness and were dominated by sub-angular and angular shapes. Surface micro-textures indicated that dune sands were successvely transported by exogenic agents (glaciation, fluviation and wind).Soluble salt contents were low in dunes that developed in thealluvial fans，which represented a low-energy chemical environment， so the grain surface micro-textures mainly resulted from mechanical erosion, with weak micro-textures formed by $\\mathrm { S i O } _ { 2 }$ solution and precipitation. However, soluble salt contents were much higher in dunes that developed in the drysalt flats，which indicated a high-energy chemical environment. Therefore，in addition to micro-structures caused by mechanical erosion, micro-textures formed by $\\mathrm { S i O } _ { 2 }$ solution and precipitation also well developed. Our results improve understanding of the sediment characteristics of dune sands and the effects of underlying terrain on dune development in the Qaidam Basin, China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:dune; grain-size distribution; soluble salts; surface micro-texture; Qaidam Basin ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sandy deserts are mainly located in the world's hyper-arid and arid areas,as well as in some coastal areas. Deserts represent the regional deposition centers for sediments and contain a range of types and scales of sand dunes, as wellas large areas of sand sheets and wide inter-dune areas (Lancaster, 2013). Regional sand transport system consists of three components,i.e., sand source areas, transport pathways and depositional sinks (Lancaster et al.， 2O15). The main factors that ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "control these components include the supply of sand, the availability of erodible surface sand and the wind's transport capacity (Kocurek and Lancaster,1999). Regional aeolian landform studies not only demonstrate the morpho-dynamic processes that control the development of different dune types (Dong et al.,2004,2010), but also clarify the characteristics of dune sediments to reveal their provenance and transport pathways (Muhs et al., 20o3; Li et al., 2015; Qian et al., 2020). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "These issues have been mainly addressed by comparing the mineral and chemical element composition of dune sands with the surface sediments of potential source areas,and this approach has been successfully applied in studies of sediment provenance in deserts around the world (Xu et al.,2010; Scheidt et al.,2011; Garzanti et al.,2013; Hu and Yang,2016; Zhang et al., 2020). These studies indicated that the clastic materials were produced by weathering and denudation. A region's fluvial,alluvial and lacustrine sediments can provide materials for the formation of sandy deserts (Wu,201O). However, it's still necessary to clarify the effects of exogenic agents other than water and wind during the transport of dune sands from source areas to sinks in sandy deserts, as well as the effects of underlying terrain on the processes that lead to the formation of dune sands. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Desert in the Qaidam Basin is the sixth-largest desert with the highest elevation in China,and includes large areas of wind erosional and depositional landforms (Zhu et al., 1980). Simple dunes and sporadic dunes are dominated in the desert. The provenance and dominant transport pathways in the basin are not yet well understood. Aeolian sands are mainly composed of quartz and feldspar, with the quartz sand grains most resistant to physical and chemical alteration. In contrast, feldspar is softer and more vulnerable to physical and chemical erosion, and a decrease in the feldspar content provides evidence of the sediment's post-formation evolution. Thus, quartz sand grains bear abundant information on the sedimentary environment where they formed (Bristow and Livingstone, 2O19). Aeolian sands play an important role in research on the evolution of the Quaternary paleogeographic environment in the Qaidam Basin, especially since the Last Glacial Maximum (Zeng et al., 2003; Yu and Lai, 2014; Yu et al., 2015). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Chen and Lü (1959) proposed that aeolian sands in the Qaidam Basin may originated from the Tarim Basin. However, their conclusion lacked confirmation by subsequent experimental evidence.More recent research suggested that mineral assemblage characteristics of dune sands in the basin resulted from transport of piedmont alluvial-diluvial deposits from the surrounding mountains and the transport of exposed lacustrine sediments after drying of the Qarhan Salt Lake (Bao and Dong,2015).By analyzing the geochemical element composition of dune sands in different grain-size fractions,Du et al.(2o18) found that coarse components $( 7 5 { - } 5 0 0 ~ \\mu \\mathrm { m } )$ were derived from local fluvial and alluvial-diluvial deposits, whereas fine components $( < 7 5 ~ \\mu \\mathrm { m } )$ were derived from the Tarim Basin. Based on the characteristics of geochemical elements and mineral assemblages in dune sands and surface sediments from potential source areas,Li et al. (2018, 2020) found that both gobi surface sediments and yardang corridor sands could provide sandy material to support the development of linear dunes on the northern margin of the Qarhan Salt Lake,which is a residual of ancient lake. These sands were derived from granite and granodiorite rocks in the Qilian Mountains.However, there have been few studies on the surface micro-textures of quartz sand grains that provide evidence of their provenance and transport pathways (Dong et al., 2017a). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Linear and barchan dunes are the most common dunes in the Qaidam Basin. The former are mainly found in the dry salt flats around the Qarhan Salt Lake,whereas the latter are mostly found in the aluvial fans in the piedmont of basin's surrounding mountains (Zhang et al., 2018). Given our summary of previous research in this area, we focused on linear and barchan dunes that developed on different types of underlying terrain (salt flats vs. alluvial fans) in the Qaidam Basin, and analyzed their sedimentary characteristics (grain-size, soluble salt content, roundness and surface micro-texture) of quartz sand grains. We did not study the feldspar particles because their vulnerability to physical and chemical erosion made them an unreliable clue to the origins of particles.Furthermore,we compared the differences of sedimentary characteristics between dune sands that accumulated in the salt flats and alluvial fans,and discuss the influence of underlying terrain on these aeolian sands. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Qaidam Basin is the largest intermontane fault basin on the northeastern Tibetan Plateau, China. It is encircled by the Kunlun Mountains in the south and west, the Altun Mountains in the northwest,and the Qilian Mountains in the northeast (Fig. 1).Elevation of the surrounding mountains ranges from 4000 to $5 0 0 0 \\mathrm { ~ m ~ a . s . l . }$ ,versus an average of $2 8 0 0 \\mathrm { ~ m ~ a . s . l }$ .for the floor of the basin, which covers an area of $1 2 \\times 1 0 ^ { 4 } \\mathrm { k m } ^ { 2 }$ . As a typical endorheic basin, the Qaidam Basin is characterized by a convergent drainage system， with rivers that originate in the surrounding mountains and feed the saline lakes in the central-southern part of the basin.The highest elevation and the largest yardang field in China occurred in northwestern Qaidam Basin (Li et al.,2016). The basin has a hyper-arid climate,with mean annual precipitation ranging from $1 0 0 ~ \\mathrm { { m m } }$ in the southeast to less than $2 0 \\ \\mathrm { m m }$ in the northwest,with mean annual potential evaporation that reaches more than 100 times the precipitation (Han et al.,2014). Another climate characteristic of the Qaidam Basin is the frequent occurrence of sand and dust storms, especially from March to May,with a frequency of $4 0 \\ \\mathrm { d / a }$ under the influence of prevailing northerly and northwesterly winds (Yu and Lai, 2012). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/48bcfb0461be558a58a96bd4c00038b2c5e8fff18bca884f03c7299e7c850b40.jpg",
+        "img_caption": [
+            "Fig.1(a), geographical settings of the Qaidam Basin; (b), location of samples. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Aeolian landforms in the Qaidam Basin cover up to $3 . 4 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ , with the aeolian depositional landforms covering $1 . 3 { \\times } 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ， and the aeolian erosional landforms covering $2 . 1 { \\times } 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ (Dong et al., 2017b). Dunes in the basin have mainly developed on two types of underlying terrain.The first comprises alluvial fans, especially in the piedmont of the Qimantagh Mountains inward basin (Fig.1).Dunes that formed in the alluvial fans are dominated by barchans and barchan chains,with dunes reaching 5 to $1 0 \\mathrm { ~ m ~ }$ in height; and the dunes migrate $2 0 ~ \\mathrm { { m } / a }$ in the prevailing wind direction (Zhu et al.,1980). The second type of underlying terrain comprises dry salt flats that surround the Qarhan Salt Lake.These regions are dominated by linear dunes, with heights reaching $3 0 \\mathrm { ~ m ~ }$ (Zhou et al.,2O12).The linear dunes are much more stable than the barchans,and their elongation rate attains $4 { - } 1 0 \\mathrm { m / a }$ (Qian, 1986). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Based on the differences between two types of underlying terrain, we studied barchan dunes (BD01 and BDo2) that developed on the north-slope alluvial fans of the Lvliang Mountains, and linear dunes (LDol to LDo3) and barchan dunes (BDO3) that developed on the salt flats around the Qarhan Salt Lake (Fig. 2). We collcted surface sediment samples from the barchans' crest (Fig. 3a), and collected samples from linear dunes along a topography transect perpendicular to dune orientation at the following positions: the base of SSW (south-southwest） slope,the crest, the base of NNE (north-northeast) slope and inter-dune area (Fig. 3b). We collcted a total of 15 samples: one crest sample at each barchan site and four samples at each of the linear dune site. Each sample contained the surface sediments in an area of $2 0 \\ \\mathrm { c m } { \\times } 2 0$ cm to a depth of $2 \\mathrm { c m }$ .Each sample weighed about $5 0 0 ~ \\mathrm { g }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/590bb7678bb46c0021c443c582a25ce6392ee4a7f301ec86ca1c03647ac348ea.jpg",
+        "img_caption": [
+            "Fig.2Location and sampling position of the study dunes "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/442031a0c3df246d28a7f353141ee0a3502defc646c5bb18964c5060963361aa.jpg",
+        "img_caption": [
+            "Fig.3Sample positions of dune surface sediments for barchan (BD,a) and linear(LD,b) dunes.SSW, south-southwest; NNE,north-northeast. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We analyzed the grain-size distribution of samples using a Malvern Mastersizer 2Ooo (Malvern Instruments, Malvern, UK) at the School of Geography and Tourism, Shaanxi Normal University, China. Grain-size parameters were the mean grain-size $\\left( \\mathbf { M } _ { \\mathrm { z } } , \\mathbf { \\Lambda } \\phi \\right)$ , sorting $\\left( \\sigma _ { \\mathrm { I } } \\right)$ ， skewness (SKi) and kurtosis $\\mathrm { ( K _ { g } ) }$ . We calculated their values graphically according to the methods proposed by Folk and Ward (1957). Soluble salt content was calculated from the mass of dried residue. We examined the surface micro-texture of quartz sand grains using a Mineral Liberation Analyzer (MLA 650, FEI Company, Hillsboro, USA). We had totally observed 476 quartz sand grains of their roundness and surface micro-textures for the 15 samples. Roundness of quartz sand grains was determined following the method described by Powers (1953),and surface micro-texture was interpreted by Krinsley and Doornkamp (1973) and Xie (1984). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Grain-size characteristics ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 Grain-size distribution ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Grain-size distribution of sediments is not only affected by sand source, but also influenced by the changes that occur during subsequent transport and deposition processes. Contents of different grain-size fractions differed greatly among the dune and inter-dune deposits as well as between different types of dunes (Table 1). Dune surface sediments were dominated by fine and medium sands,with average contents of $30 . 4 9 \\%$ and $2 8 . 0 5 \\%$ ，respectively, versus $1 5 . 3 3 \\%$ and $1 1 . 4 6 \\%$ ， respectively, for coarse and very fine sands. In contrast, inter-dune sediments between linear dunes were dominated by silt, with an average content of $2 8 . 3 5 \\%$ ， followed by similar average contents of fine $( 1 8 . 2 5 \\% )$ and very fine sands $( 1 7 . 6 0 \\% )$ ,respectively. In barchan dunes,medium sand was the dominant size category, with an average content of $5 9 . 3 2 \\%$ , and mean contents of fine and coarse sands were $2 8 . 2 6 \\%$ and $1 1 . 3 6 \\%$ , respectively. Fine sand content was the highest in linear dune sediments,with an average value of $3 1 . 2 4 \\%$ ， followed by medium sand $( 1 7 . 6 3 \\% )$ ， with similar contents of coarse and very fine sands ( $1 6 . 6 6 \\%$ and $1 5 . 1 5 \\%$ ,respectively). ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c45c5d69338ca6736fe9e5c761f44d865bae3e8a4e16ee45ff24294ff89f6cf8.jpg",
+        "table_caption": [
+            "Table 1 Grain-size fractions and soluble salt contents for dune surface sediments "
+        ],
+        "table_footnote": [
+            "Note: clay, $< 5 ~ { \\mu \\mathrm { m } }$ ; silt, $5 \\mathrm { - } 6 3 ~ \\mu \\mathrm { m }$ ; VFS,very fine sand, $6 3 - 1 2 5 ~ { \\mu \\mathrm { m } }$ ；FS,fine sand, $1 2 5 { - } 2 5 0 ~ \\mu \\mathrm { m }$ MS,medium sand, $2 5 0 { - } 5 0 0 ~ \\mu \\mathrm { m }$ ；CS, coarse sand, $5 0 0 { \\mathrm { - } } 1 0 0 0 ~ { \\mu \\mathrm { m } }$ ; VCS,very coarse sand, $1 0 0 0 { - } 2 0 0 0 ~ { \\mu \\mathrm { m } }$ # $\\mathbf { M } _ { \\mathrm { z } }$ ，mean grain-size; $\\sigma _ { \\mathrm { I } }$ ,sorting; $\\mathrm { S K _ { I } }$ ,skewness; $\\mathrm { K _ { g } }$ ,kurtosis. BD, barchan dunes;LD,linear dunes. "
+        ],
+        "table_body": "<html><body><table><tr><td>Sample</td><td>Clay</td><td>Silt</td><td>VFS</td><td>FS</td><td>MS</td><td>CS</td><td>vcs</td><td>Saluble</td><td>M(@)</td><td>01</td><td>SK1</td><td>Kg</td></tr><tr><td>BD01</td><td>0.00</td><td>0.00</td><td>0.13</td><td>36.51</td><td>61.10</td><td>2.13</td><td>0.00</td><td>0.13</td><td>1.84</td><td>0.44</td><td>0.01</td><td>0.95</td></tr><tr><td>BD02</td><td>0.00</td><td>0.00</td><td>0.68</td><td>36.92</td><td>57.75</td><td>4.62</td><td>0.00</td><td>0.03</td><td>1.83</td><td>0.51</td><td>0.01</td><td>0.95</td></tr><tr><td>BD03</td><td>0.00</td><td>0.91</td><td>0.41</td><td>11.36</td><td>59.10</td><td>27.32</td><td>0.00</td><td>0.90</td><td>1.35</td><td>0.56</td><td>0.04</td><td>0.96</td></tr><tr><td>LD01-1</td><td>7.76</td><td>22.80</td><td>15.76</td><td>24.68</td><td>17.83</td><td>2.03</td><td>0.00</td><td>9.14</td><td>3.65</td><td>2.21</td><td>0.46</td><td>1.12</td></tr><tr><td>LD01-2</td><td>7.28</td><td>12.74</td><td>26.88</td><td>39.87</td><td>8.15</td><td>0.00</td><td>0.00</td><td>5.09</td><td>3.57</td><td>1.82</td><td>0.60</td><td>2.15</td></tr><tr><td>LD01-3</td><td>5.43</td><td>12.45</td><td>14.24</td><td>33.24</td><td>24.90</td><td>2.24</td><td>0.00</td><td>7.51</td><td>2.92</td><td>1.78</td><td>0.50</td><td>1.77</td></tr><tr><td>LD01-4</td><td>12.02</td><td>33.42</td><td>19.29</td><td>16.34</td><td>7.92</td><td>0.18</td><td>0.00</td><td>10.83</td><td>4.56</td><td>2.37</td><td>0.36</td><td>1.03</td></tr><tr><td>LD02-1</td><td>0.42</td><td>1.68</td><td>9.46</td><td>23.02</td><td>20.51</td><td>28.59</td><td>15.33</td><td>0.99</td><td>1.36</td><td>1.29</td><td>0.12</td><td>0.76</td></tr><tr><td>LD02-2</td><td>1.58</td><td>3.36</td><td>16.92</td><td>69.72</td><td>6.99</td><td>0.00</td><td>0.00</td><td>1.42</td><td>2.65</td><td>0.72</td><td>0.30</td><td>2.12</td></tr><tr><td>LD02-3</td><td>0.17</td><td>1.31</td><td>3.19</td><td>10.71</td><td>34.74</td><td>41.07</td><td>8.16</td><td>0.65</td><td>1.08</td><td>0.90</td><td>0.19</td><td>1.11</td></tr><tr><td>LD02-4</td><td>6.98</td><td>32.39</td><td>15.59</td><td>14.67</td><td>5.21</td><td>4.22</td><td>2.54</td><td>18.39</td><td>4.20</td><td>2.36</td><td>0.17</td><td>1.07</td></tr><tr><td>LD03-1</td><td>0.03</td><td>0.86</td><td>1.35</td><td>0.43</td><td>16.86</td><td>55.56</td><td>24.27</td><td>0.65</td><td>0.45</td><td>0.64</td><td>0.04</td><td>0.99</td></tr><tr><td>LD03-2</td><td>2.47</td><td>4.62</td><td>33.89</td><td>55.62</td><td>1.14</td><td>0.00</td><td>0.00</td><td>2.26</td><td>2.93</td><td>0.85</td><td>0.36</td><td>2.59</td></tr><tr><td>LD03-3</td><td>1.91</td><td>6.91</td><td>14.63</td><td>23.86</td><td>27.58</td><td>20.40</td><td>1.53</td><td>3.18</td><td>2.04</td><td>1.54</td><td>0.26</td><td>1.27</td></tr><tr><td>LD03-4</td><td>7.26</td><td>19.24</td><td>17.90</td><td>23.73</td><td>15.20</td><td>8.16</td><td>0.59</td><td>7.92</td><td>3.42</td><td>2.19</td><td>0.34</td><td>1.16</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.2Frequency curve ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 shows the frequency curves for the samples. Two barchan dunes (BDOl and BD02) developed in the alluvial fans of the Lvliang Mountains,showed a unimodal distribution, with the main peak between 200 and $3 0 0 ~ { \\mu \\mathrm { m } }$ . Their cumulative frequency curves exhibited a single segment that represents the saltation load (i.e., all particles between 100 and $5 0 0 ~ { \\mu \\mathrm { m } }$ ). In contrast, frequency curve for the third barchan dune (BDO3),which developed in the dry salt flats in the Sebei area (Fig. 2), displayed a bimodal distribution, with the main peak between 300 and $5 0 0 ~ { \\mu \\mathrm { m } }$ and a secondary peak between 40 and $6 0 ~ { \\mu \\mathrm { m } }$ ， which formed a fine tail. Cumulative frequency curve for this dune showed two segments, which represented the modified saltation load (i.e., particles between 63 and $1 0 0 ~ { \\mu \\mathrm { m } }$ ） and the saltation load, respectively, and the boundary between these two loads occurred near $1 2 0 \\mu \\mathrm { m }$ (Fig. 4). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/39a642176a9f6caf303a2da9d9a12dd195b263b0e80f59aa0b0b04be687d48a9.jpg",
+        "img_caption": [
+            "Fig.4Grain-size frequency(blue line)and cumulative frequency (red line) curves for dune surface sediments "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Grain-size distribution curves for different positions on and near linear dunes (LDo1-LD03) differed greatly. Frequency curves for crest sediments showed an obvious bimodal distribution with the main peak between 10o and $2 0 0 ~ { \\mu \\mathrm { m } }$ and a secondary peak between 1O and $2 0 ~ \\mu \\mathrm { m }$ ，which represent the saltation load and suspension load,respectively. Suspension load formed a fine tail similar to that of barchan dune in the dry salt flats. Their cumulative frequency curves also included two segments,with the suspension load showing a gentle slope and the saltation load showing a steep slope. Frequency curves for sediments at the toe of dune slopes also exhibited a bimodal distribution, but with their main peak between 20o and $5 0 0 ~ { \\mu \\mathrm { m } }$ and the secondary peak between 20 and $1 0 0 ~ { \\mu \\mathrm { m } }$ ，which represent the saltation load and suspension/modified saltation load. Their cumulative frequency curves also consisted of two segments. The obvious difference from dune crest distribution is that the suspension and modified saltation loads were mixed for sediments at slope toes. Grain-size distribution curves for inter-dune sediments were more complex. Their frequency curves were wider and flatter, and showed an obvious bimodal distribution. Most of cumulative frequency curves included two segments,but the points that marked the boundaries among suspension, modified saltation and saltation loads were ambiguous, which indicated that sorting of inter-dune sediments was poor (Fig. 4). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1.3 Grain-size parameter ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 5 shows the relationships between $\\mathbf { M } _ { \\mathrm { z } }$ and other grain-size parameters for the dunes that are summarized in Table 1. In summary, these relationships differed among dune types and sample positions. With the coarsening of $\\mathbf { M } _ { \\mathrm { z } }$ for dune surface sediments,their $\\sigma _ { \\mathrm { I } }$ gradually increased and $\\mathrm { S K _ { I } }$ changed from strongly positively skewed to a nearly symmetrical distribution, whereas $\\mathrm { K _ { g } }$ showed no obvious trend as a function of grain-size. The $\\sigma _ { \\mathrm { I } }$ was the strongest for barchan dunes that developed in the aluvial fans,followed by barchan dunes in the dry salt flats, whereas linear dunes had the poorest sorting. Grain-size frequency curves for barchan dunes and SSW slope sample of linear dune LDo3 showed nearly symmetrical distributions. However, grain-size frequency curves of other sediments showed a positively skewed distribution with a fine tail, especially for LDO1,and these patterns may have been influenced by underlying terrain. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/5918e772582f1244219f4c948033cff1d46652c8bb60e20bb04f1ec0a46cd81c.jpg",
+        "img_caption": [
+            "Fig.5Grain-size parameters (oI, sorting (a); SKi, skewness (b); $\\mathrm { K _ { g } }$ ,kurtosiss (c)) for dune surface sediments as a function of mean particle size $( \\mathbf { M } _ { \\mathrm { Z } } )$ （204号 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 Soluble salt content ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Table l shows an obvious contrast in soluble salt contents for dunes on two types of underlying terrain. Soluble salt contents of barchan dunes in the alluvial fans of the Lvliang Mountains ranged between $0 . 0 3 \\%$ and $0 . 1 3 \\%$ . And soluble salt content of barchan dune in the dry salt flats near Sebei area reached $0 . 9 0 \\%$ . In contrast, soluble salt contents of linear dunes were much higher. At sampling position LDo1，soluble salt contents ranged between $5 . 0 9 \\%$ and $10 . 8 3 \\%$ ，versus between $0 . 6 5 \\%$ and $1 8 . 3 9 \\%$ at LD02 and between $0 . 6 5 \\%$ and $7 . 9 2 \\%$ at LDo3.Salt contents also differed among positions,with values ranging between $0 . 6 5 \\%$ and $9 . 1 4 \\%$ at toe,between $1 . 4 2 \\%$ and $5 . 0 9 \\%$ at dune crest,and between $7 . 9 2 \\%$ and $1 8 . 3 9 \\%$ in inter-dune areas. These results showed that soluble salt contents were the highest in inter-dune areas,followed by dune crest, with slope toes having the lowest values.This result can be atributed to the higher contents of coarser grains at the toe of linear dune slope (Table 1),which have a lower surface area and therefore hold a smaller amount of soluble salts. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Soluble salts can bind silt and clay particles together, thereby increasing the cohesion of dune sediments. Therefore，soluble salt contents in underlying terrain can potentially control dune development through their effect on cohesion.Figure 6 shows the relationship between total content of silt, clay particles and soluble salts for dune surface sediments. Total contents of silt, clay particles and soluble salts for barchan dunes range between $0 . 0 3 \\%$ and $1 . 8 1 \\%$ ，with a mean value of $0 . 6 5 \\%$ . In contrast, soluble salt contents for different positions on and around the linear dunes ranged widely, between $1 . 5 3 \\%$ and $3 9 . 7 0 \\%$ ， and averaged $1 3 . 8 5 \\%$ . Total contents of silt, clay particles and soluble salts were the highest for inter-dune sediments,with a mean value （ $) f 4 9 . 4 8 \\%$ and a range between $34 . 4 2 \\%$ and $5 7 . 7 7 \\%$ . There was a strong and statistically significant negative relationship between total content of silt, clay particles and soluble salts. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/360c8cdf4beffe49338af221504213e32a75f67d133e03d7213a96816c2ebddf.jpg",
+        "img_caption": [
+            "Fig.6Relationship between sand content and total content of silt, clay and salt "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3 Micro-textures of quartz sand grains ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 Roundness ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Roundness of quartz sand grains provides abundant information on the exogenic agents that shaped their evolution and transport distance.Based on their appearance, we divide roundness of quartz sand grains into rounded, sub-rounded, sub-angular and angular. Generally speaking, rounded and sub-rounded quartz sand grains have been transported a long distance or by strong hydrodynamic forces, since repeated impacts with other particles tends to remove angular parts of the surface，and the amount of rounding increases with transport distance or flow strength. Sub-angular and angular quartz sand grains, which have retained at least some of their angular features, have typically been transported a relatively short distance or by weak hydrodynamic forces,or may have been shaped by glaciation. Quartz sand grains that developed in an aeolian environment are usually well rounded, whereas those that developed in an aqueous environment usually have medium to slight roundness. Roundness of quartz sand grains formed in a glacial environment is the poorest. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Roundness of quartz sand grains was poor, as they were dominated by sub-angular and angular grains,and contents of sub-rounded and rounded grains were relatively low (Table 2). Dune sands at the crest of barchans were mainly composed of sub-angular grains, with an average of $4 1 . 2 7 \\%$ ： Sub-rounded grains were the second-most abundant,with an average of $3 8 . 3 7 \\%$ ，followed by $1 0 . 3 2 \\%$ and $1 0 . 0 5 \\%$ for angular and rounded grains, respectively. Linear dunes were also mainly composed of sub-angular grains,with an average of $4 2 . 2 3 \\%$ . This was followed by the contents of angular and sub-rounded grains,with the values of $2 8 . 4 5 \\%$ and $2 4 . 8 8 \\%$ ，respectively,and the content of rounded grains was only $4 . 4 5 \\%$ . Roundness was the poorest for inter-dune sediments, with total content of angular and sub-angular grains reaching $80 . 7 5 \\%$ and contents of sub-rounded and rounded grains totaling only $1 9 . 2 5 \\%$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/ed407356dd7909169038c04c26a2793fa93af5692daf1f601fc13201d2c105ad.jpg",
+        "table_caption": [
+            "Table 2Frequency of roundness features of quartz sand grains for dune surface sediments "
+        ],
+        "table_footnote": [
+            "Note:BD,barchans;LD,linear dunes. "
+        ],
+        "table_body": "<html><body><table><tr><td>Sample</td><td>Rounded (%)</td><td>Sub-rounded (%)</td><td>Sub-angular (%)</td><td>Angular (%)</td></tr><tr><td>BD01 (n=28)</td><td>21.43</td><td>32.14</td><td>32.14</td><td>14.29</td></tr><tr><td>BD02 (n=22)</td><td>4.55</td><td>45.45</td><td>50.00</td><td>0.00</td></tr><tr><td>BD03 (n=24)</td><td>4.17</td><td>37.50</td><td>41.67</td><td>16.67</td></tr><tr><td>LD01-1 (n=48)</td><td>0.00</td><td>29.17</td><td>41.67</td><td>29.17</td></tr><tr><td>LD01-2 (n=32)</td><td>3.13</td><td>37.50</td><td>40.63</td><td>18.75</td></tr><tr><td>LD01-3 (n=33)</td><td>12.12</td><td>42.42</td><td>18.18</td><td>27.27</td></tr><tr><td>LD01-4 (n=50)</td><td>0.00</td><td>26.00</td><td>48.00</td><td>26.00</td></tr><tr><td>LD02-1 (n=35)</td><td>5.71</td><td>11.43</td><td>48.57</td><td>34.29</td></tr><tr><td>LD02-2 (n=44)</td><td>0.00</td><td>6.82</td><td>38.64</td><td>54.55</td></tr><tr><td>LD02-3 (n=21)</td><td>19.05</td><td>14.29</td><td>38.10</td><td>28.57</td></tr><tr><td>LD02-4 (n=38)</td><td>0.00</td><td>18.42</td><td>55.26</td><td>26.32</td></tr><tr><td>LD03-1 (n=10)</td><td>0.00</td><td>50.00</td><td>40.00</td><td>10.00</td></tr><tr><td>LD03-2 (n=38)</td><td>0.00</td><td>10.53</td><td>44.74</td><td>44.74</td></tr><tr><td>LD03-3 (n=23)</td><td>0.00</td><td>21.74</td><td>69.57</td><td>8.70</td></tr><tr><td>LD03-4 (n=30)</td><td>3.33</td><td>10.00</td><td>30.00</td><td>56.67</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3.2Surface micro-textures ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Surface micro-textures on quartz sand grains provide insights into the sedimentary history of clastic sediments and their transport agents. Crescent- and dish-shaped depressions, pockmarked pits and upturned cleavage plates are common for quartz sand grains that developed in an aeolian environment. Conchoidal fractures are well developed for quartz sands that developed in a glacial environment, and cleavage planes, striation and impact pits are also common. In contrast, quartz sand grains that developed in a subaqueous environment usually develop a polished surface, with V-shaped depressions and straight or bent impact grooves. Quartz sand grains that developed in a chemical environment (i.e.，an environment with strong chemical reactions） usually form corresponding solution and precipitation structures. For example， grains that developed in an environment where $\\mathrm { S i O } _ { 2 }$ solution is strong usually develop pits, grooves and scaly exfoliation. In contrast, the precipitation of $\\mathrm { S i O } _ { 2 }$ usually forms siliceous spheres,scales,films or botryoidal precipitate micro-structures(Table 3; Fig. 7). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "By thoroughly analyzing the scanning electron micrographs, we found allof the micro-textures produced by mechanical transport by glacial, fluvial and aeolian forces,as wellas the results of $\\mathrm { S i O } _ { 2 }$ solution and precipitation on the surface of quartz sand grains (Fig. 7).However, the combination and occurrence frequency of specific micro-textures differed greatly among the dune sands from different environments and dune types (Fig. 8). Barchan dunes (BDOl and BD02) that developed in the alluvial fans of the Lvliang Mountains were dominated by micro-textures produced by aeolian transport. Occurrence frequency of crescent- and dish-shaped depressions was much higher. Micro-textures produced by glacial and fluvial forces were the second most frequent,and micro-textures that developed in a chemical environment were much less frequent. These micro-textures indicate that alluvial sediments in the piedmont of the Lvliang Mountains were transported by glacial and fluvial forces,and then deposited at the foot of mountain slopes. Sand-sized particles then transformed into barchan dunes under the influence of wind (i.e., aeolian transport). V-shaped depressions and subaqueous polished surfaces caused by fluvial transport were the most common in the Sebei area. Typical micro-textures caused by aeolian transport, such as dish- and crescent-shaped depressions,also occurred at a high frequency, which indicates a strong aeolian environment. In addition, micro-textures of quartz sand grains in chemical environment were well developed compared with barchans in the alluvial fans, which suggests that those quartz sand grains developed in a much warmer paleoclimate. Hence, dune sands of barchan in the Sebei area probably first experienced short-distance glacial transport, followed by long-distance transport of strong hydrodynamic forces. Besides, these dune sands also evolved under strong aeolian transport combined with chemical etching and precipitation, because the climate of the Sebei area is characterized by strong winds and their underlying terrain is characterized by a high content of soluble salts. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Although linear dunes contained particles with allthe surface micro-textures caused by glacial, fluvial,aeolian and chemical forces, the occurrence frequency of micro- textures caused by chemical forces was much higher than that of barchan dunes (Fig. 8). This result can be attributed to the short distance of linear dunes to the Qarhan Salt Lake.At sample location LD01, the frequency of surface micro-textures caused by aeolian transport, such as crescent- and dish-shaped depressions,accounted for $4 0 . 9 7 \\%$ of the total, followed by V-shaped depressions and straight impact grooves $( 2 9 . 6 0 \\% )$ ，which were produced by fluvial forces. Occurrence frequencies of micro-textures caused by chemical and glacial forces totaled $1 5 . 8 7 \\%$ and $1 3 . 5 6 \\%$ ， respectively. Patterns and frequencies for quartz sand grains sampled at locations LDO2 and LD03 were similar to those at location LD01. At sample location LD02, the frequency of micro-textures caused by aeolian transport was obviously higher than those at the other sites,which can be attributed to a longer distance of transport by wind. At sample location LDo3，occurrence frequency of micro-textures caused by chemical processes was higher than those of the other sediments,which can be ascribed to the location of these dune sands on the northern margin of the Qarhan Salt Lake (Fig.2). Meltwater from ice and snow can expand the lake's area in the spring,and the water can even enter into inter-dune areas (Fig.9). Thus, soluble salts can concentrate at the surface of formerly dry salt flats under capillary action, leading to strong chemical etching and precipitation in dune sands near the salt lake. In addition, the occurrence frequency of micro-textures caused by fluvial forces was slightly higher than those of the other sites.This suggests that sands of linear dunes were first transported into the basin by glacial and fluvial processes,and then wind transported these sands to their current locations in the salt flats, where chemical etching and precipitation occurred. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/71d7c1036f0653d416adaa8704bfc93806f2f4f72fcca6e3d7f62a3121a4cb85.jpg",
+        "table_caption": [
+            "Table 3Relationship between surface micro-textures of quartz sand grains and exogenic agents responsible for these features "
+        ],
+        "table_footnote": [
+            "Note:Numbers refer to the microphotographs in Figure 7 that shows these features. "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Sedimentary environment</td><td>Micro-texture and corresponding code</td></tr><tr><td rowspan=\"3\">Mechanical erosion</td><td>Glacial environment</td><td>Conchoidal fracture-1,cleavage plane-2,striation-3,impact pits-4</td></tr><tr><td>Subaqueous environment</td><td>Subagouseiseprsai</td></tr><tr><td>Aeolian environment</td><td>Crescent-shaped depression-9,dish-shaped depression-10, pockmarked pit-11,upturned cleavage plate-12</td></tr><tr><td rowspan=\"2\">Chemical environment</td><td>SiO2 solution</td><td>Solution pits-13,solution grooves-14, scaly exfoliation-15</td></tr><tr><td>SiO2 precipitation</td><td>Siliceous sphere-16,siliceous scale-17,siliceous film-18,botryoidal precipitate of SiOz-19</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/957612b726a6cfd1b9bac577aedb57f724f2ff8c29dffd8755830f0bec878a8a.jpg",
+        "img_caption": [
+            "Fig.7Surface micro-textures of quartz sand grains for sand dune sediments.The connotations of the numbers are explained in Table 3. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/9810eb3e079ade4a4314bf29d901f656f144445f92e19b70d32afafd74eedac2.jpg",
+        "img_caption": [
+            "Fig.8Frequency of surface micro-textures on quartz sand grains.Table 3 defines the meaning of the numbers for micro-texture type and Figure 7illustrates these features. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/86be2eeb0eb0fb8f61dd271ffa2b3cd01ebf8adb5884d9615f6dd945702667f4.jpg",
+        "img_caption": [
+            "Fig.9Lake water that has entered inter-dune area in the field of linear dunes during spring melting of snow and ice "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.1Influence of underlying terrain on dune development ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Formation and development of aeolian dunes are influenced by local wind regime, sand supply and underlying terrain (Pye and Tsoar,2Oo9). The Qaidam Basin is a closed inland fault basin, and northerly and northwesterly winds are the dominant aeolian forces in the basin. Linear and barchan dunes in the Sebei area developed under a broad unimodal wind regime (Li et al., 2020), whereas barchan dunes in the piedmont of the Lvliang Mountains were mainly influenced by northwesterly winds (Fig.3a). These two dune types coexist in the western part of the Qarhan Salt ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Lake (Lü et al.,2O18). Therefore,wind regime cannot by itself explain the formation of the barchan and linear dunes.Aeolian sands in the Qaidam Basin mainly originated from fluvial and lacustrine sediments (Bao and Dong,2O15; Du et al.,2O18), so barchan and linear dunes are of similar provenance.However, the underlying terrain for both dune types was quite distinct. Barchan dunes are mainly distributed in the alluvial fans of the surrounding mountains, whereas linear dunes are mainly distributed in the dry salt flats of modern salt lakes.Although barchan dunes in the Sebei area developed in the dry salt flats of ancient lakes,soluble salt content in their crests was similar to that in barchan dunes that developed in the alluvial fans.However, the soluble salt content of linear dunes was much higher than that of barchan dunes,especially in the inter-dune area, where the values can be hundreds of times that for barchans (Table 1). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Soluble salt contents in the surfaces of alluvial fans and dry salt flats of ancient lakes were much lower than those in the other locations.The underlying terrain of both types are flat with a limited supply of loose sand. Therefore,barchan dunes developed under the influence of a unimodal wind regime (Wasson and Hyde,1983). In contrast, dry salt flats around modern salt lakes allow soluble salts to become concentrated at the surface under the influence of running water and evaporation. Silt and clay contents were also much higher in the surface sediments of salt flats (Table 1). Both factors make these sediments more cohesive. When the wind carries loose sand and salt particles to the modern dry salt flats, these particles are captured by the underlying cohesive finer particles,leading to the formation of initial topographic obstacles around which the dunes formed. With a continuous supply of loose sediments and unimodal wind regime, these obstacles gradually grew in length and height,and eventually developed into linear dunes (Rubin and Hesp, 2Oo9). Hence,our results suggest that diferent environmental settings especially diffrences in soluble salts contents in underlying terrain were important factors that determined the types of dunes that developed. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.2Transport pathways and sedimentary environments for dune sands ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Denudation clastic sediments from surrounding mountains that produced by weathering are the ultimate provenance of various aeolian depositional landforms in the Qaidam Basin. However, exogenic agents transported these sediments cannot be confirmed until the quartz sand grains eventually accumulated into dunes. Because of widespread distribution of quartz sand grains and their physical and chemical stability， their surface micro-textures，which are produced by mechanical erosion caused by exogenic agents as well as by chemical etching and precipitation, can remain visible for a long time on the surface of quartz sand grains (Vos et al., 2O14). Thus, these particles bear abundant information on their transport agents and sedimentary environments. Micro-textures caused by glacial forces, such as conchoidal fractures and cleavage planes,can be found on the quartz sand grains in all of the sediment samples. However, these samples were weakened in some samples,which indicated that the dune sands underwent glacial transport before they entered into the basin (Gao et al.,1995). Glacial tills became concentrated in erosion channels in the mountainous areas under the action of gravity and slope runoff. They were then transported by running water and deposited in the piedmont of mountains to form alluvial fans, during which time micro-textures caused by fluvial forces, such as V-shaped depressons and straight and bent impact grooves,became well developed. With the continuous uplift of surrounding mountains since the late Pleistocene, the lakes in the basin gradually dried up and the climate became arid and windy. Sand-sized particles preserved near the dried lakes, ancient channels and alluvial fans were then transported by northerly and northwesterly winds and eventually developed into various dune types. During this transport, the typical aeolian surface micro-textures of crescent- and dish-shaped depressions as well as pockmarked pits produced by aeolian transport became well developed. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Dune sands in the Qaidam Basin have been transported by glacial, fluvial and aeolian processes in sequence.However, their overall roundness was poor (Table 2). On the one hand, this can be attributed to the shorter flow paths for the inland rivers in the basin (Zhang and Liu,1985); on the other hand, the dunes are close to their source regions.Despite these similarities,the chemical processes that acted on the quartz sand grains showed distinct differences between underlying terrain types. The overall surface of quartz sand grains distributed in the alluvial fans showed fewer signs of long-term modification, which suggests that the particles were recently deposited. The surface micro-textures, such as solution grooves, scaly exfoliation and siliceous films that indicated a low-energy chemical environment were only found on the surface of some quartz sand grains. However, the micro-textures of pits, grooves and scaly exfoliation caused by $\\mathrm { S i O } _ { 2 }$ solution, and the siliceous scales and siliceous films caused by $\\mathrm { S i O } _ { 2 }$ precipitation were well developed for quartz sand grains in the dry salt flats, which represented a high-energy chemical environment. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Based on the grain-size data, soluble salt contents and surface micro-textures of quartz sand grains in the Qaidam Basin, we explored the influence of underlying terrain on dune sands. Barchan dunes were dominated by medium sands, and their frequency curves for barchan dunes showed a unimodal distribution pattern, dominated by saltation load. In contrast, linear dunes were mainly composed of fine sands,and their frequency curves showed a bimodal distribution, with the main peak represented saltation load and the secondary peak represented modified saltation load or suspension load. Soluble salt contents of linear dunes that developed in the salt flats were much higher than those of barchan dunes that developed in the alluvial fans. The overall roundness of dune sands in the Qaidam Basin was poor, with the sands dominated by sub-angular and angular particles. This suggested that dune sands were transported over a relatively short distance by exogenic agents. Surface micro-textures of quartz sand grains indicated that they were transported by glacial, fluvial and aeolian processes successively, and eventually deposited at their current location, where they evolved into dunes. Alluvial fans below mountains represented a low-energy chemical environment, so the micro-textures caused by chemical etching and precipitation were not well developed for quartz sand grains in these barchan dunes. In contrast, salt flats had a high-energy chemical environment，and the micro-textures introduced by chemical etching and precipitation were well developed for quartz sand grains in linear dunes. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The study was funded by the National Natural Science Foundation of China (41601005,41930641） and the Scientific and Technological Innovation Programs of Higher Education Institutions in Shanxi Province (2019L0797).We appreciate the constructive and insightful comments from two anonymous reviewers who greatly improved the manuscript. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "BaoF,Dong ZB.2015.Mineral compositionand originofsurface sediment inthedesertof the Qaidam Basin.Journalof Northwest University,45(1):90-96.(in Chinese)   \nBristowC,LivingstoneI.2O19.Dune sediments.In:LivingstoneI,WarenA.Aeolian GeomorphologyChichester:John Wiley & Sons,209-236.   \nChenBX,Lu MQ.1959.Aeolian landforms intheQaidamBasin.Journal ofNanjing University,(6):35-42.(in Chinese)   \nDong ZB,Wang T,Wang XM.2004. Geomorphologyof the megadunes in the BadainJaran Desert.Geomorphology,0(1-2): 191-203.   \nDong ZB,Wei ZH,Qian G Q,etal.2010.\"Raked\"linear dunes inthe Kumtagh Desert,China.Geomorphology,123(1-2): 122-128.   \nDong ZB,HuGY,QianGQ,etal.2017a.High-altitudeaeolianresearchontheTibetanPlateau.ReviewsofGeophysics,5(4): 864-901.   \nDong ZB,LuJH,Qia GQ,etal.20l7b.TibetanPlateau AtlasofAeolian Geomorphology.Xi'an: Xi'an MapPress,1437.(in Chinese)   \nDuS S,WuYQ,TanLH.20l8.Geochemical evidenceforthe provenanceof aeolian deposits intheQaidam Basin,Tibetan   \nFolk RL,Ward W C.1957.Brazos River bar: a study in the significanceof grain size parameters.Journalof Sedimentary Research,27(1):3-26.   \nGao CH,Mu GJ,YanS,etal.1995.Featuresofsurface microtexturesofquartzsand grainsinthe hinterlandoftheTaklmakan Desert and their environmental significance.Geological Review,41(2):152-158.(in Chinese)   \nGarzantiE,Vermeesch P,Ando S,etal.20l3.Provenanceandrecycling of Arabian desert sand.Earth-Science Reviews,120: 1-19.   \nHan WX,Ma ZB,Lai ZP,etal.2O14.Winderosiononthenorth-eastern Tibetan Plateau: constraints from OSLand U-Th dating of playa salt crust in the Qaidam Basin.Earth Surface Processes and Landforms,39(6):779-789.   \nHuFG,YangXP.2016.Geochemicaland geomorphologicalevidenceforthe provenanceofaeoliandeposit intheBadain Jaran Desert, northwestern China. Quaternary Science Reviews,131: 179-192.   \nKocurek G,Lancaster N.1999.Aeolian systemsediment state:theoryand Mojave Desert Kelso dune fieldexample. Sedimentology, 46(3): 505-515.   \nKrinsleyDH,DoornkampJC.1973.Atlas of Quartz Sand Surface Textures.Cambridge: Cambridge UniversityPres,1-91.   \nLancaster N.2013.Sand seas and dune fields.In: ShroderJ,LancasterN,Sherman DJ,etal.TreatiseonGeomorphology.San Diego: Academic Press, 219-245.   \nLancaster N,Baker S,Bacon S,etal.2O15.Owens Lakedune fields:composition,sourcesofsand,andtransport pathways. CATENA,134: 41-49.   \nLiJY,DongZB,ZhangZC,etal.2O15.Grain-sizecharacteristicsoflineardunesonthenorthern marginofQarhan SaltLake, northwestern China. Journal of Arid Land,7(4): 438-449.   \nLi JY,Dong ZB,Qian GQ,et al.2016.Yardangs inthe Qaidam Basin,northwestern China: distribution and morphology Aeolian Research,20:89-99.   \nLi JY,ZhaoED,Liu WL.2O18.Provenanceand transport pathwaysof lineardunes in the northernmarginof Qarhan Salt Lake of China. Journal of Desert Research,38(5): 909-918.(in Chinese)   \nLi JY,ZhouL,YanJL,et al.2O2o.Source ofaeolian dune sands onthe northern marginof Qarhan SaltLake,Qaidam Basin, NW China. Geological Journal,55(5): 3643-3653.   \nLu P,Dong ZB,RozierO.2018 Thecombined effectofsediment availabilityand windregimeonthe morphologyof aeolian sand dunes. Journal of Geophysical Research: Earth Surface,123(11):2878-2886.   \nMuhs DR,Reynolds RL,Been J.2Oo3.Aeoliansand transport pathways inthe southwestern United States: importanceof the Colorado River and local sources. Quaternary International,104(1): 3-18.   \nPowers MC.1953.Anewroundness scale for sedimentary particles.Journal of Sedimentary Petrology,23(2):17-119.   \nPye K,Tsoar H.20o9.Aeolian Sand and Sand Dunes.Berlin: Springer,l41-173.   \nQian GQ,Yang ZL,LuoWY,etal.2020.Morphologicalandsedimentarycharacteristicsofdomedunes inthenortheastern Qaidam Basin, China. Geomorphology,350:106923,doi: 10.1016/j.geomorph.2019.106923.   \nQian ZY.1986.Investigationsonthe sand harm to Qinghai-Xizang railwayin Yanqiao area and sandcontrol plan.Journal of Desert Research, 6(2): 27-30.   \nRubin D M,Hesp PA.20o9.Multiple origins oflinear dunes on Earth and Titan.Nature Geoscience,2: 653-658.   \nScheidt S,LancasterN,RamseyM.2Ol1.EoliandynamicsandsedimentmixingintheGranDesiertoMexicodetermiedfrom thermal infrared spectroscopyandremote-sensing data. Geological SocietyofAmericaBuletin,123(7-8):1628-1644.   \nVos K,Vandenberghe N,Elsen J.2014.Surface textural analysisofquartz grains byscanning electron microscopy (SEM): From sample preparation to environmental interpretation. Earth-Science Reviews,128: 93-104.   \nWasson RJ,Hyde R.1983.Factors determining desert dune type.Nature,304: 337-339.   \nWu Z.2010.Geomorphologyof Wind-drift Sands and Their Controlled Enginering.Beijing:Science Press，236-286.(in Chinese)   \nXieYY.1984.Atlas of Quartz Sand Surface Textural Features of China Micrographs.Beijing: China Ocean Pres,1-148.(in Chinese)   \nXu Z W,LuHY,ZhaoCF,etal.210.Composition,rigiand weathering processofsurface sedimentinKumtaghDesert, northwest China.Acta Geographica Sinica, 65(1):53-64.(in Chinese)   \nYuLP,Lai ZP.2012.OSLchronologyand palaeoclimaticimplications ofaeoliansediments in theeastern Qaidam Basinof the northeastern Qinghai-Tibetan Plateau.Palaeogeography,Palaeoclimatology,Palaeoecology,337-338:120-129.   \nYuLP,Lai ZP.2014.Holocene climate change infered from stratigraphyandOSL chronologyof aeolian sediments in the Qaidam Basin, northeastern Qinghai-Tibetan Plateau. Quaternary Research,81(3): 488-499.   \nYuLP,Lai ZP,AnP,etal.20l5.Aeolian sediments evolutioncontrolled byfluvial proceses,climatechangeand human activities since LGM in the Qaidam Basin,Qinghai-Tibetan Plateau. Quaternary International,372:23-32.   \nZeng YN,Feng ZD,Cao GC.2O03.Desert formation and evolution in Qaidam Basin sincethelast glacial epoch.Acta Geographica Sinica,58(3): 452-457.(in Chinese)   \nZhang C,LiZL,Chen QJ,etal.2O20.Provenanceofaeoliansandsinthe UlanBuhDesert,northwestern China,revealed by heavy mineral assemblages.CATENA,193:104624,doi:10.1016/j.catena.2020.104624.   \nZhangJZ,LiuEB.1985.Hydrologicalcharacteristics of streams in QaidamBasin.Acta GeographicaSinica,52(3):242-255. (in Chinese)   \nZhang ZC,Dong ZB,Qian GQ,et al.2018.Formation and development of dunes inthe northern Qarhan Desert,central Qaidam Basin, China. Geological Journal, 53(3):1123-1134.   \nZhouJX,ZhuY,Yuan CQ.2012.Originand lateral migrationof lineardunes in the Qaidam BasinofNWChinarevealed by dune sediments,internal structures,andopticallstimulated luminescenceages,with implications for lineardunesonTitan. GSA Bulletin,124(7-8):1147-1154.   \nZhu ZD,Wu Z,Liu S,etal.1980.An Outline of Chinese Desert.Beijing: Science Press,77-78.(in Chinese) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

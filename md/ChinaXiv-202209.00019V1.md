@@ -1,0 +1,252 @@
+# 中国腹枝衣属地衣的多样性与区系研究
+
+刘琳琳，左骐嘉，张璐璐
+
+（山东师范大学环境与生态研究院，济南，250014)
+
+摘要：为探讨中国腹枝衣属地衣的物种多样性，进一步明确其分布特征与种类组成，该文通过野外调查及采集地衣标本，结合形态、解剖、化学等研究方法，对128份采自中国热带及亚热带地区多个省份的腹枝衣属（Herpothallon）地衣标本进行了分类鉴定，共鉴定出腹枝衣属地衣12种，其中南方腹枝衣[H.australasicum(Elix)Elix&G.Thor]、颗粒腹枝衣（ $\mathrm { . } H .$ granulosumJagadeeshRam&G.P.Sinha）、喜马拉雅腹枝衣（ $H .$ himalayanum Jagadeesh& G.P.Sinha）、裂芽腹枝衣（H.isidiatumJagadeeshRam&G.P.Sinha）和小腹枝衣（ $H .$ minutumJagadeesh）为中国新记录种。对该属所有已知（已报道和本次鉴定）种类的综合分析。结果表明：（1）中国已知腹枝衣属地衣14种，占世界已报道种类的 $2 9 . 1 7 \%$ ；（2）地理成分有5种类型：泛热带分布、热带亚洲至热带澳大利亚分布、热带亚洲和热带美洲间断分布、热带亚洲分布和中国特有分布；(3)中国腹枝衣属地衣主要分布在海拔 $3 0 0 \mathrm { m } { \sim } 2 5 0 0 \mathrm { m }$ 的范围内；（4）生长基物多为树皮，叶生、石生和藓生的物种较少。该研究结果表明，中国南方腹枝衣属地衣的物种多样性较高，这对明确中国该属地衣物种组成以及地衣多样性保护具有重要意义。
+
+关键词：中国南方，腹枝衣属，地衣型真菌，分布型，生物多样性中图分类号：Q948.2；Q949.34 文献标识码：A 文章编号：202204075
+
+# Species diversity and floristic elements of the lichen genus Herpothallon in China
+
+LIULinlin, ZUO Qijia, ZHANGLulu\*
+
+(Institute of Environment and Ecology, Shandong Normal University, Jinan 25o014, China)
+
+Abstract: The purpose of this study is to investigate the species diversity of Herpothallon in China and further identify its distribution characteristics and species composition. One hundred and twenty-eight specimens of the lichen genus Herpothallon were collcted from tropical and subtropical regions of China as part of our field investigations.Identification was carried out using morphological, anatomical and chemical methods.The examined specimens are deposited in the Lichen Section of the Botanical Herbarium, Shandong Normal University (SDNU) and the Herbarium of Kunming Institute of Botany, Chinese Academy of Sciences, Kunming, China (KUN).A total of 12 species of Herpothallon are reported, of which Herpothallon australasicum(Elix) Elix & G.Thor, $H .$ granulosum Jagadeesh Ram & G. P. Sinha, $H .$ himalayanum Jagadeesh & G.P. Sinha, $H .$ isidiatum Jagadeesh Ram & G.P.Sinha and $H .$ minutum Jagadeesh are new records for China.Hitherto known species of Herpothallon in China were comprehensively analyzed. The results were as follows: (1） There are two additional species of Herpothallon found in China making a total of 14 and accounting for $2 9 . 1 7 \%$ of the known Herpothallon species worldwide; (2) These species belong to five types of geographical element: Pantropical,Tropical Asia to Tropical Australia,Topical Asia and tropical America,Tropical Asia,and Endemic to China; （3) Herpothallon species in China grows mainly in the altitude ranging $3 0 0 \mathrm { ~ m ~ }$ to 2 $5 0 0 \mathrm { ~ m ~ }$ ; (4) Most of these species are mainly corticolous with a few being folicolous, saxicolous and muscicolous in China.The results of initial filed work indicate that this group is distributed sporadically in some mountainous forests in tropical and subtropical regions of the world,and indicate a higher biodiversity of Herpothallon in southern China, changes in substrate and altitude also have important effects on the distribution of Herpothallon in China,they are important for the understanding of the genus and the protection of lichen diversity in the country. We plan to carry out further surveys and studies on this genus to provide more detailed and reliable data that can make species definition more objective and establish a more reliable classification.
+
+Key words: Southern China, Herpothallon, lichenized fungi, distribution type, biodiversity
+
+地衣是地球生物圈中生物多样性的重要组成部分，从南北两极到赤道，从高山到沙漠中心都有地衣的分布。地衣在真菌分类中居重要地位，目前，全球已知地衣型真菌约19 500 种，约占已知真菌物种总数的 $1 5 \%$ （Lucking etal.,2017)。我国已知地衣型真菌约3085种（魏江春，2020），约占世界已知地衣型真菌总数的 $1 5 . 8 2 \%$ 。据生长型，地衣可分为壳状地衣、叶状地衣和枝状地衣。地衣生长基物多种多样，不但附生在树干、树枝、树叶、地表、岩石表面，甚至玻璃表面也有地衣的生长。但地衣对大气环境、河流水质变化极为敏感，大气和水污染都能导致地衣共生体解体和死亡，因此地衣是环境监测的最佳生物材料（Nimis&Purvis,2002）。
+
+腹枝衣属（Herpothallon Tobler）地衣隶属于真菌界（Fungi）、子囊菌门（Ascomycota）、斑衣菌纲（Arthonimycetes）、斑衣菌目（Arthoniales）、斑衣菌科（Arthoniaceae）（魏江春，2020）。该类群分布在全球热带及亚热带地区，在潮湿、避光处多有生长，属于壳状地衣，大多为树生，少有叶生、石生和藓生，地衣体为毡状至细丝状的圆形或不规则形状斑块，前地衣体和下地衣体为细丝状，普遍存在假裂芽或类似假裂芽的结构，光合共生物为绿藻，通常不育（Aptroot et al,2009；任强，2022)。迄今为止，全世界共报道腹枝衣属地衣约48种，中国已报道9种（Aptroot& Souza,2021;Chen etal.,2022)。在2010 年以前，仅由国外学者发现并报道过采自中国台湾、香港、云南和贵州省的四种腹枝衣属地衣：刺腹枝衣（Herpothalon echinatum Aptroot,Lücking &Will-Wolf）、粒状腹枝衣[H.granulare（Sipman) Aptroot&Lücking]、菲律宾腹枝衣[H.philippinum (Vain.) Aptroot & Lücking]和红带腹枝衣 [H. rubrocinctum (Ehrenb.) Aptroot, Lücking& G.Thor]（Aptr00t et al.,2009；魏江春，2020)；自 2012 年起，本实验室对该类群进行研究并取得了一定的进展，在贵州、浙江、广东和云南省陆续发现了五个腹枝衣属新种，分别是：魏氏腹枝衣（Herpothallon weiiY.L.Cheng &H.Y.Wang）、毛腹枝衣（H. capilliferum P.F.Chen & L.L.Zhang）、多裂芽腹枝衣（H.polyisidiatumP.F.Chen&L.L.Zhang）、亚球腹枝衣（H.subglobosumP.F.Chen &L.L. Zhang）和绿裂芽腹枝衣（H.viridi-isidiatum P.F.Chen &L.L.Zhang）（Cheng etal., 2012; Chen et al.,2022)。
+
+我国疆域辽阔，地跨热、温、寒三个温度带，生物多样性很高，蕴藏着十分丰富的地衣资源，但研究基础较为薄弱，据估计我国已知地衣型真菌种数仅占估计种数的 $8 . 5 \%$ ，尚有 $91 . 5 \%$ 的物种有待调查研究和认识（魏江春，2018)。中国南方主要植被类型为热带雨林和亚热带常绿阔叶林，森林覆盖率较高，气候温暖且湿润多雨，地形以山地丘陵为主（吴征镒等，2011)。经我们前期调查研究，腹枝衣属地衣在中国南方地区分布极其广泛，但该属地衣的研究只局限在分类学领域，对其分布特点和地理分布格局的研究尚为空白；因此，进一步对该属开展全面的标本采集和系统性研究十分必要。
+
+本研究以中国南方热带亚热带气候区为研究区域，采用野外调查及实验室地衣分类学研究方法，通过在浙江、广西和广东等地进行腹枝衣属地衣标本的采集，并对馆藏于山东师范大学植物标本室（SDNU）和中国科学院昆明植物研究所植物标本馆（KUN）的腹枝衣属地衣标本进行分类学研究，结合国内外文献信息，拟解决以下问题：（1）澄清中国腹枝衣属地衣的物种组成，客观反映我国地衣物种的多样性及独特性；（2）明确腹枝衣属地衣的生物地理格局，为深入研究该类群提供科学依据；（3）在分析腹枝衣属地衣的海拔分布特点和基物类型的基础上，进一步探讨影响该属地衣多样性的潜在因素，如人类活动干扰导致的气候和生境改变，全球变暖对物种海拔分布的影响，这对中国地衣的多样性保护工作具有重要意义。
+
+# 1材料与方法
+
+# 1.1研究区域
+
+本研究所涉及的标本采集地区为中国南方九个省/区的森林、山地等人为干扰轻微的区域，主要植被类型为热带雨林和亚热带常绿阔叶林，主要气候类型为热带季风气候和亚热带季风气候。按照纬度由高到低的顺序如下。
+
+贵州省：习水丹霞谷旅游度假区（ $1 0 6 ^ { \circ } 2 3 ^ { \prime } 5 7 ^ { \prime \prime }$ E, $2 8 ^ { \circ } 3 3 ^ { \prime } 0 6 ^ { \prime \prime } \mathrm { ~ N ~ }$ ）、雷公山国家森林公园$\langle { 1 0 8 ^ { \circ } 1 7 ^ { \prime } 5 7 ^ { \prime \prime } }$ E, $2 6 ^ { \circ } 2 0 ^ { \prime } 1 1 ^ { \prime \prime } \mathrm { N } \rangle$ 。
+
+浙江省：大仰湖高山湿地群自然保护区（ $1 1 9 ^ { \circ } 7 3 ^ { \prime } 0 9 ^ { \prime \prime }$ E, $2 7 ^ { \circ } 8 6 ^ { \prime } 9 8 ^ { \prime \prime } \mathrm { N } .$ )、望东垟高山湿地自然保护区（ $1 1 9 ^ { \circ } 6 4 ^ { \prime } 1 2 ^ { \prime \prime } \mathrm { ~ F ~ }$ [， $2 7 ^ { \circ } 7 2 ^ { \prime } 5 7 ^ { \prime \prime } \mathrm { N } )$ 。
+
+福建省：武夷山国家自然保护区桐木村（ $1 1 7 ^ { \circ } 4 0 ^ { \prime } 3 3 ^ { \prime \prime }$ E, $2 7 ^ { \circ } 4 4 ^ { \prime } 5 9 ^ { \prime \prime } \mathrm { N } \rangle$ 、玳瑁山（ $1 1 7 ^ { \circ } 4 8 ^ { \prime } 3 ^ { \prime \prime } \mathrm { E }$ $2 4 ^ { \circ } 1 8 ^ { \prime } 3 7 ^ { \prime \prime } \mathrm { N } \rangle$ 。
+
+云南省：维西傈僳族自治县白马罗生产队（ $9 8 ^ { \circ } 5 4 ^ { \prime } \mathrm { E }$ 0 $2 6 ^ { \circ } 5 3 ^ { \prime } \mathrm { N } )$ 、大理南涧彝族自治县石丫口山（ $1 0 0 ^ { \circ } 2 9 ^ { \prime } 7 ^ { \prime \prime }$ E, $2 4 ^ { \circ } 5 6 ^ { \prime } 2 2 ^ { \prime \prime } \mathrm { N } \rangle$ 、高黎贡山国家自然保护区 $( 9 8 ^ { \circ } 0 8 ^ { \prime } \mathrm { E } , 2 4 ^ { \circ } 5 6 ^ { \prime } \mathrm { N } )$ 、易门龙泉国家森林公园（ $1 0 1 ^ { \circ } 0 0 ^ { \prime } 3 7 ^ { \prime \prime }$ E, $2 4 ^ { \circ } 3 4 ^ { \prime } 4 5 ^ { \prime \prime } \mathrm { ~ N ~ } )$ 、中国科学院哀牢山亚热带森林生态系统研究站中 $\left( 1 0 1 ^ { \circ } 0 1 ^ { \prime } 2 9 ^ { \prime \prime } \right.$ E, $2 4 ^ { \circ } 3 2 ^ { \prime } 4 5 ^ { \prime \prime } \mathrm { N } )$ 、中国科学院西双版纳热带植物园（ $\langle 1 0 1 ^ { \circ } 2 5 ^ { \prime } \mathrm { E } , 2 1 ^ { \circ } 4 1 ^ { \prime } \mathrm { N } \rangle$ 。
+
+台湾省：溪头台湾大学实验林场（ $1 2 1 ^ { \circ } 3 4 ^ { \prime } \mathrm { E }$ $2 5 ^ { \circ } 1 ^ { \prime } \mathrm { N } )$ 、花莲县（ $\cdot 1 2 1 ^ { \circ } 3 6 ^ { \prime } 1 6 ^ { \prime \prime } \mathrm { E }$ $2 3 ^ { \circ } 5 8 ^ { \prime } 3 6 ^ { \prime \prime } \mathrm { N } )$ 、垦丁森林公园（ $\langle 1 2 0 ^ { \circ } 4 8 ^ { \prime } 3 1 ^ { \prime \prime } \mathrm { E } , 2 1 ^ { \circ } 5 7 ^ { \prime } 3 6 ^ { \prime \prime } \mathrm { N } \rangle$ 。
+
+广西壮族自治区：九万山国家自然保护区清水塘保护站（ $1 0 8 ^ { \circ } 4 7 ^ { \prime } 4 6 ^ { \prime \prime }$ E, $2 5 ^ { \circ } 1 1 ^ { \prime } 5 9 ^ { \prime \prime } \mathrm { N } \rangle$ 、岑王老山国家自然保护区（ $1 0 6 ^ { \circ } 3 8 ^ { \prime } 4 0 ^ { \prime \prime }$ E, $2 3 ^ { \circ } 5 3 ^ { \prime } 2 2 ^ { \prime \prime } \mathrm { \Delta N } .$ ）、大明山国家自然保护区（ $1 0 8 ^ { \circ } 2 6 ^ { \prime } 1 3 ^ { \prime \prime } \mathrm { ~ E ~ }$ $2 3 ^ { \circ } 2 9 ^ { \prime } 5 0 ^ { \prime \prime } \mathrm { N } )$ 、十万大山国家森林公园（ $\langle 1 0 7 ^ { \circ } 5 4 ^ { \prime } 2 1 ^ { \prime \prime } \mathrm { E } , 2 1 ^ { \circ } 5 4 ^ { \prime } 0 4 ^ { \prime \prime } \mathrm { N } \rangle$ 。
+
+湖南省：郴州市莽山国家森林公园（ $1 1 2 ^ { \circ } 5 9 ^ { \prime } 3 0 ^ { \prime \prime } \mathrm { E }$ 0 $2 4 ^ { \circ } 5 6 ^ { \prime } 4 6 ^ { \prime \prime } \mathrm { N } )$ 。
+
+广东省：清远市莽山国家森林公园（ $1 1 2 ^ { \circ } 5 9 ^ { \prime } 3 6 ^ { \prime \prime } \mathrm { E }$ ， $2 4 ^ { \circ } 5 5 ^ { \prime } 2 3 ^ { \prime \prime } \mathrm { N } \dot { , }$ ）
+
+香港特别行政区：龙虎山郊野公园（ $1 1 4 ^ { \circ } 8 ^ { \prime } 9 ^ { \prime \prime } \mathrm { ~ E ~ }$ ， $2 2 ^ { \circ } 1 6 ^ { \prime } 4 1 ^ { \prime \prime } \mathrm { N } \rangle$ 、大屿山岛（ $1 1 3 ^ { \circ } 5 4 ^ { \prime } 2 7 ^ { \prime \prime } \mathrm { \Delta E }$ ，$2 2 ^ { \circ } 1 5 ^ { \prime } 2 0 ^ { \prime \prime } \mathrm { N } )$ 。
+
+# 1.2 实验材料
+
+本研究所用实验材料为1982—2020年采自中国云南、广西等地，并馆藏于山东师范大学植物标本室（SDNU）和中国科学院昆明植物研究所植物标本馆（KUN）的腹枝衣属地衣标本。
+
+# 1.3标本鉴定方法
+
+1.3.1形态学及解剖学研究方法：
+
+使用光学体视显微镜COICXTL7045B2对地衣体的外部形态进行观察并测量相关数据，拍照时使用的是配有 Olympus DP72 摄像头的Olympus SZX16光学体视显微镜；使用光学透视显微
+
+镜 Olympus CX21对地衣的解剖特征进行研究,拍照时使用配有 Olympus DP72摄像头的OlympusBX61光学透视显微镜。
+
+# 1.3.2化学物质测定方法：
+
+首先应用化学显色反应法：使用K（ $10 \%$ KOH水溶液）、C（漂白粉饱和水溶液）、I（ $3 \%$ 碘-碘化钾溶液）和Pd（ $5 \%$ 对苯二胺乙醇溶液）与地衣体的皮层和髓层反应，对每份标本进行化学显色反应并记录；在此基础上进一步使用薄层层析法（TLC）（Orange et al.,2010)：用不同的溶剂系统（A、B'、C）进行薄层层析，鉴定地衣标本所含的次生代谢产物。
+
+# 1.4生境与区系分析
+
+参照现有文献中的地理成分划分类型（吴征镒等，2011；李博等，2020）及腹枝衣属地衣的相关文献和标本信息，确定我国腹枝衣属地衣的分布类型、海拔和基物。
+
+# 2结果与分析
+
+本研究共发现中国腹枝衣属地衣12种，其中5种为中国新记录种，采自广西和云南，分别是：南方腹枝衣（Herpothallon australasicum）、颗粒腹枝衣（H.granulosum）、喜马拉雅腹枝衣（H.himalayanum）、裂芽腹枝衣（H.isidiatum）和小腹枝衣（H.minutum）。
+
+至此，中国共分布有腹枝衣属地衣14种（表1)，约占全世界已报道腹枝衣属地衣总数的$2 9 . 1 7 \%$ 。前人报道的粒状腹枝衣（Herpothallon granulare）和红带腹枝衣（H.rubrocinctum），在本次研究中未发现。下文对中国新记录种进行详细描述，其外观形态见图1。
+
+# 2.1中国新记录种
+
+南方腹枝衣（图1：A-B)
+
+Herpothallon australasicum (Elix) Elix & G.Thor, in Biblthca Lichenol. 99:33 (2009).
+
+地衣体壳状，树皮生，直径 $2 . 5 \sim 3 ~ \mathrm { c m }$ ，紧密附着于基物，不易剥离，细丝状、毡状至粉末状，表面乳白色至浅绿色，厚度可达 $1 5 0 ~ { \mu \mathrm { m } }$ ，藻层中有少量草酸钙晶体；下地衣体白色细丝状，由 $2 \sim 3 ~ { \mu \mathrm { m } }$ 宽的菌丝组成；前地衣体宽度可达 $1 . 5 \mathrm { m m }$ ，白色，或内侧白色外侧橙色或红色，细丝状，由交织辐射状的菌丝组成；假裂芽多数，分散至密集分布，柱状，不分枝，有少量菌丝伸出，与地衣体同色， $( 0 . 1 5 { \sim } 0 . 3 ) \mathrm { m m } \ \times \ ( 0 . 0 5 { \sim } 0 . 1 ) \mathrm { m m }$ ；光合共生物为绿藻，单细胞或少数细胞聚集到一起，(12\~16) ${ \mu \mathrm { ~ m ~ } \times \mathrm { ~ } ( 5 { \sim } 8 ) }$ $\mu \mathrm { m }$ ；未见子囊和分生孢子器。
+
+化学反应：地衣体、前地衣体 $\mathrm { K } ^ { - }$ ，有红、橙色着色的部分 $\mathsf { K } ^ { + }$ 紫色， $C ^ { - }$ ， $\mathrm { \bf P + \mathrm { \bf } }$ 亮黄色至橙色，$\mathrm { I - }$ ；化学成分：茶痂衣酸（psoromic acid）、 $2 ^ { \circ }$ -O-demethylpsoromic acid。
+
+生境：生长在广西十万大山亚热带森林的树皮上。
+
+凭证标本：广西壮族自治区，防城港市，十万大山国家森林公园，E: $1 0 7 ^ { \circ } 5 4 ^ { \prime } 2 1 . 5 7 4 ^ { \prime \prime }$ ，N:$2 1 ^ { \circ } 5 4 ^ { \prime } 0 4 . 7 9 2 ^ { \prime \prime }$ ， $3 2 6 \mathrm { m }$ ，2020.12.28，张璐璐、张潇、刘琳琳、左骐嘉、苗丛丛，20200224、20211613(SDNU)。
+
+文献记载：澳大利亚（Aptroot etal.,2009）。
+
+分布类型：热带亚洲至热带澳大利亚分布。
+
+颗粒腹枝衣（图1：C-D）
+
+Herpothallon granulosum Jagadeesh Ram & G.P. Sinha, in Lichenologist 41(6): 610 (2009).
+
+地衣体壳状，树皮生，直径可达 $8 \mathrm { c m }$ ，松散至紧密附着于基物，大多不易剥离，细丝状至毡状，表面灰绿色至浅白色，厚度可达 $1 5 0 ~ { \mu \mathrm { m } }$ ，藻层中有大量草酸钙晶体；下地衣体白色细丝状，由 $1 . 5 ~ { \mu \mathrm { m } } { \sim } 2 . 5 ~ { \mu \mathrm { m } }$ 宽的菌丝组成；前地衣体明显，宽度可达 $2 . 5 \mathrm { m m }$ ，白色细丝状，由交织辐射状菌丝组成；假裂芽多数，分散至密集分布，不规则的球状至粉芽堆状颗粒，白色至浅白绿色，直径 $0 . 0 6 \mathrm { m m } { \sim } 0 . 2 \mathrm { m m }$ ；光合共生物为绿藻，单细胞、少数细胞聚集到一起，或多细胞呈不规则线形，12\~15 $\mu \textrm { m } \times \ 7 . 5 { \sim } 1 0 \textrm { \textmu m }$ ；未见子囊和分生孢子器。
+
+化学反应：地衣体、前地衣体 $\mathrm { K } ^ { - }$ ， $C ^ { - }$ ，P-，I-；化学成分：巴尔巴地衣酸（barbatic acid)。
+
+生境：生长在云南哀牢山亚热带森林的树皮上。
+
+凭证标本：云南省，普洱市，景东彝族自治县，中科院哀牢山亚热带森林生态系统研究站，进站路旁，E: $1 0 1 ^ { \circ } 0 1 ^ { \prime } 2 9 . 3 0 ^ { \prime \prime }$ ，N: $2 4 ^ { \circ } 3 2 ^ { \prime } 4 5 . 2 9 ^ { \prime \prime }$ ， $2 4 5 8 . 5 3 \mathrm { m }$ ，2020.12，董琳琳，20211612（SDNU）。
+
+文献记载：印度（Jagadeesh etal.,2009）。
+
+分布类型：热带亚洲分布。
+
+喜马拉雅腹枝衣（图1：E-F)
+
+Herpothallon himalayanum Jagadeesh & G.P. Sinha, in Mycotaxon 11O: 40 (2009).
+
+地衣体壳状，树皮生，直径可达 $4 \mathrm { c m }$ ，松散附着于基物，易剥离，细丝状至致密毡状，表面灰绿色至石灰色，厚度可达 $2 5 0 ~ { \mu \mathrm { m } }$ ，藻层中有少量至大量草酸钙晶体；下地衣体白色细丝状，由 $2 { \sim } 3 ~ { \mu } \mathrm { m }$ 宽的菌丝组成；前地衣体明显，宽度可达 $2 . 5 \mathrm { m m }$ ，白色或浅黄色，毡状至细丝状，由交织辐射状的菌丝组成；假裂芽多数，分散至密集分布，外表为不规则的绒毛垫状，有许多直立菌丝，有的假裂芽在表面聚集成疣状，比地衣体颜色浅，呈白色至浅白绿色， $( 0 . 2 { \sim } 0 . 4 5 ) \mathrm { m m } \times$ (0.15\~0.3)mm；光合共生物为绿藻，单细胞、少数细胞聚集到一起，或多细胞呈不规则线形，(10\~15)$\begin{array} { r l } { \mu \textrm { m } \times } & { { } ( 3 { \sim } 8 ) } \end{array}$ $\mu \mathrm { m }$ ；未见子囊；分生孢子器深棕色至黑色，分布于假裂芽附近，直径 $0 . 0 6 { \sim } 0 . 2$ $\mathrm { m m }$ ，分生孢子无色，杆状，（4\~7） $\mu \textrm { m } \times \left( 1 { \sim } 1 . 5 \right) \mu \mathrm { m } .$
+
+化学反应：地衣体、前地衣体 $\mathrm { K } ^ { - }$ ， $C +$ 红色， $\mathrm { P - }$ ，髓层 $\mathrm { I } +$ 蓝色；化学成分：三苔色酸（gyrophoricacid）、茶渍酸（lecanoric acid）。
+
+生境：生长在云南石丫口山的树皮上。
+
+凭证标本：云南省，大理白族自治州，南涧彝族自治县，石丫口山，E: $1 0 0 ^ { \circ } 2 9 ^ { \prime } 7 ^ { \prime \prime }$ ,N: $2 4 ^ { \circ } 5 6 ^ { \prime } 2 2 ^ { \prime \prime }$ ，$2 ~ 1 2 5 ~ \mathrm { m }$ ，2017.08.08，唐蓉、孙美洁、闫述坤、付结盟，20171056（SDNU）。
+
+文献记载：印度（Jagadeesh& Sinha,2009）。
+
+分布类型：热带亚洲分布。
+
+裂芽腹枝衣（图1：G-H)
+
+Herpothallon isidiatum Jagadeesh Ram & G. P. Sinha, in Lichenologist 41(6): 611 (2009).
+
+地衣体壳状，树皮生，直径 $2 { \sim } 4 ~ \mathrm { c m }$ ，紧密附着于基物，不易剥离，坚硬，致密毡状，表面灰白色至浅灰色，厚度可达 $2 5 0 ~ { \mu \mathrm { m } }$ ，藻层中有大量草酸钙晶体；下地衣体白色细丝状，由 $1 \ \mu \mathrm { m } { \sim } 2 . 5$ $\mu \mathrm { m }$ 宽的菌丝组成；前地衣体宽度为 $0 . 2 { \sim } 0 . 8 \ \mathrm { m m }$ ，白色细丝状，由交织辐射状菌丝组成；假裂芽多数，分散至密集分布，柱状，与地衣体同色，顶端浅棕色至棕黑色，且顶端碘反应为蓝色，有少量菌丝伸出，极少分枝， $( 0 . 4 { \sim } 1 . 2 ) \mathrm { m m } \ \times \ ( 0 . 1 { \sim } 0 . 2 5 ) \mathrm { m m }$ ；光合共生物为绿藻，单细胞或少数细胞聚集到一起， $( 7 . 5 { \sim } 1 6 ) ~ \mu \mathrm { m } ~ \times ~ ( 5 . 5 { \sim } 1 0 ) ~ \mu \mathrm { m }$ ；未见子囊；分生孢子器深棕色至黑色，分布于假裂芽顶端，未见分生孢子。
+
+化学反应：地衣体、前地衣体 $\mathrm { K } +$ 黄色， $C +$ 黄色， $\mathrm { P + }$ 橙色， $\mathrm { I - }$ ；化学成分：斑点酸（stictic acid）、伴斑点酸（constictic acid）、（次斑点酸）hypostictic acid、降斑点酸（norstictic acid）。
+
+生境：生长于云南亚热带森林的树皮上。
+
+凭证标本：云南省，玉溪市，易门龙泉森林公园，E: $1 0 1 ^ { \circ } 0 0 ^ { \prime }$ ，N: $2 4 ^ { \circ } 3 4 ^ { \prime }$ ， $2 3 0 0 \mathrm { m }$ ，2016.04.07,王立松、王欣宇、石海霞、张雁云、杨美霞、李丽娟，53420（KUN)。
+
+文献记载：印度（Jagadeesh etal.,2009）。
+
+分布类型：热带亚洲分布。
+
+小腹枝衣（图1：I-J)
+
+Herpothallon minutum Jagadeesh, in Lichenologist 46(1): 45 (2014).
+
+地衣体壳状，树皮生，直径可达 $4 \mathrm { c m }$ ，松散至紧密附着于基物，部分不易剥离，细丝状至致密毡状，表面绿色至灰绿色，厚度可达 $2 0 0 ~ { \mu \mathrm { m } }$ ，藻层中有少量草酸钙晶体；下地衣体白色棉絮至细丝状，由 $1 { \sim } 2 ~ { \mu } \mathrm { m }$ 宽的菌丝组成；前地衣体明显，宽度为 $0 . 2 { \sim } 1 ~ \mathrm { m m }$ ，白色细丝状，由交织辐射状的菌丝组成；假裂芽多数，分散至密集分布，微小，不分枝，颗粒状、球状至短柱状，直径为 $0 . 0 4 { \sim } 0 . 1 \ \mathrm { m m }$ ，或 $( 0 . 1 { \sim } 0 . 1 3 ) ~ \mathrm { m m } \times ( 0 . 0 4 { \sim } 0 . 0 6 ) ~ \mathrm { m m }$ ，松软，绒毛状，有许多菌丝伸出，与地衣体同色；光合共生物为绿藻，单细胞或少数细胞聚集到一起， $( 8 { \sim } 1 2 . 5 ) \mu \mathrm { m } \times ( 5 { \sim } 7 . 5 ) \mu \mathrm { m }$ ；未见子囊和分生孢子器。
+
+化学反应：地衣体、前地衣体 $\mathrm { K } ^ { - }$ ， $\mathrm { C } +$ 红色， $\mathrm { P - }$ ，髓层 $\mathrm { I } +$ 蓝色；化学成分：三苔色酸（gyrophoricacid)。
+
+生境：生长在广西十万大山亚热带森林，石栎树（Lithocarpus glaber(Thunb.)Nakai）的树皮上。
+
+凭证标本：广西壮族自治区，防城港市，十万大山国家森林公园， $1 0 7 ^ { \circ } 5 4 ^ { \prime } 2 3 . 6 0 9 ^ { \prime \prime } \mathrm { ~ E ~ }$ ，$2 1 ^ { \circ } 5 3 ^ { \prime } 5 7 . 8 9 1 ^ { \prime \prime } \mathrm { N } , 3 4 1 \mathrm { m } , 2 0 2 0 . 1 2 . 2 8$ ，张璐璐、张潇、刘琳琳、左骐嘉、苗丛丛，20200229（SDNU）。
+
+文献记载：印度（Jagadeesh,2014）。
+
+分布类型：热带亚洲分布。
+
+![](images/a68fa96398a209fc13f28f98e56dd6af89e939fe46a28e41fae1d7aeb11f3a93.jpg)
+
+南方腹枝衣（SDNU 20200224)：A.地衣体及前地衣体；B.假裂芽。颗粒腹枝衣（SDNU 20211612)：C．地衣 体及前地衣体；D.假裂芽。喜马拉雅腹枝衣（SDNU 20171056)：E.地衣体及前地衣体；F.假裂芽。裂芽腹枝 衣（KUN 53420)：G.地衣体及前地衣体；H.假裂芽。小腹枝衣（SDNU 20200229)：I.地衣体及前地衣体；J. 假裂芽。   
+Herpothallon australasicum (SDNU 202o0224): A.Thallus with prothallus; B.Pseudisidia. Herpothallon granulosum (SDNU 20211612): C.Thallus with prothallus;D.Pseudisidia. Herpothallon himalayanum (SDNU 20171056): E. Thallus with prothallus; F.Pseudisidia. Herpothallon isidiatum (KUN53420): G.Thallus with prothalus; H.Pseudisidia. Herpothallon minutum (SDNU 20200229): I.Thallus with prothallus; J.Pseudisidia.
+
+# 图1腹枝衣属地衣的5个中国新记录种
+
+Fig.1Five new recordsofHerpothallon from China
+
+# 2.2腹枝衣属地衣物种多样性及区系研究
+
+2.2.1腹枝衣属地衣的地理成分分析
+
+结合已报道数据与本研究数据，列出中国腹枝衣属地衣的地理成分见表1。由表1可知，中国腹枝衣属地衣的区系地理成分可划分为5种类型，其特征为：以热带地区为主要分布中心，分布北界可达亚热带地区。
+
+（1）泛热带分布，是指广泛分布于温度较高的热带地区，有的还分布到亚热带至暖温带地区的物种。此成分在中国有2种，刺腹枝衣（Herpothallon echinatum）和菲律宾腹枝衣（ $H .$ philippinum)，这两个种在亚洲、美洲、大洋洲和非洲的热带、亚热带地区都有分布，如泰国、菲律宾、印度尼西亚、哥斯达黎加、巴西、澳大利亚和塞舌尔等国家，约占中国已知种数的 $14 \%$ 。
+
+（2）热带亚洲至热带澳大利亚分布，是指分布在热带亚洲和热带大洋洲的物种，在非洲大陆不分布。此成分在中国仅有南方腹枝衣（ $H .$ australasicum）1种，该种分布在亚洲及大洋洲，包括中国、印度和澳大利亚，约占中国已知种数的 $7 \%$ 。
+
+（3）热带亚洲和热带美洲间断分布，指间断分布于亚洲和美洲热带地区的物种，某些可达两洲的亚热带地区,可以延伸至西南太平洋岛屿。此成分在中国有2种,粒状腹枝衣( $H .$ granulare)和红带腹枝衣（H.rubrocinctum)，这两个种分布于南美洲、北美洲和亚洲的温暖地区，如美国、墨西哥、巴西、中国、印度等国家，约占中国已知种数的 $14 \%$ 。
+
+（4）热带亚洲分布，指仅在亚洲分布，其他地区未见报道的物种，从亚洲大陆的亚热带和热带地区一直到东南亚和西太平洋岛屿，但是不到澳大利亚的热带地区。此成分在中国有4种，颗粒腹枝衣（ $H .$ granulosum）、喜马拉雅腹枝衣（H.himalayanum）、裂芽腹枝衣（H.isidiatum）和小腹枝衣（H.minutum)，在该文报道之前，这四个物种仅在印度报道过，约占中国已知种数的 $2 9 \%$ 。
+
+（5）中国特有分布，是指仅在中国分布的物种。此成分共5种：魏氏腹枝衣（H.weii）、毛腹枝衣（ $H .$ capilliferum）、多裂芽腹枝衣（H.polyisidiatum）、亚球腹枝衣（H.subglobosum）和绿裂芽腹枝衣（ $H .$ viridi-isidiatum)，约占中国已知种数的 $3 6 \%$ 。
+
+从物种的地理成分上来看，中国的腹枝衣属地衣主要是以在亚洲分布为主，包括热带亚洲分布型和中国特有分布型，共9种，约占中国已知总种数的 $64 \%$ 。
+
+# 表1中国腹枝衣属地衣信息
+
+Table1 Information of Herpothallon species in China   
+
+<html><body><table><tr><td>种名 Species</td><td>采集地点 Collection site</td><td>海拔 Altitude (m)</td><td>基物类型 Substrates</td><td>其他分布地区 Other distribution area</td><td>分布类型 Distribution type</td></tr><tr><td>南方腹枝衣 Herpothallon australasicum</td><td>云南、广西 Yunnan, Guangxi</td><td>326.0</td><td>树生、叶生 Corticolous, foliicolous</td><td>大洋洲、亚洲 Oceania, Asia</td><td>B</td></tr><tr><td>毛腹枝衣 H. capilliferum</td><td>浙江、台湾 Zhejiang, Taiwan</td><td>1405.3</td><td>树生 Corticolous</td><td></td><td>E</td></tr><tr><td>刺腹枝衣 H. echinatum</td><td>台湾、贵州、浙江、广西 Taiwan, Guizhou, Zhejiang, Guangxi</td><td>359.0~1 131.3</td><td>树生 Corticolous</td><td>北美洲、南美洲 大洋洲、亚洲 North and South America, Oceania,Asia</td><td>A</td></tr><tr><td>粒状腹枝衣 H. granulare</td><td>香港 Hong Kong</td><td></td><td>树生、叶生 Corticolous, foliicolous</td><td>北美洲、南美洲、亚洲 North and South America, Asia</td><td>C</td></tr><tr><td>颗粒腹枝衣 H. granulosum</td><td>云南 Yunnan</td><td>2 458.5</td><td>树生 Corticolous 树生、藓生</td><td>亚洲 Asia</td><td>D</td></tr><tr><td>喜马拉雅腹枝衣 H. himalayanum</td><td>云南 Yunnan</td><td>2 125.0</td><td>Corticolous, muscicolous</td><td>亚洲 Asia</td><td>D</td></tr><tr><td>裂芽腹枝衣 H. isidiatum</td><td>云南 Yunnan</td><td>2300.0</td><td>树生 Corticolous</td><td>亚洲 Asia</td><td>D</td></tr><tr><td>小腹枝衣 H. minutum</td><td>广西 Guangxi</td><td>341.0</td><td>树生 Corticolous</td><td>亚洲 Asia 北美洲、南美洲、非洲、</td><td>D</td></tr><tr><td>菲律宾腹枝衣 H. philippinum</td><td>香港，台湾，云南，湖南， 广西 Hong Kong,Taiwan, Yunnan, Hunan, Guangxi 广东，福建，浙江，云南，</td><td>592.0~1363.0</td><td>树生、石生 Corticolous, saxicolous</td><td>大洋洲、亚洲 North and South America, Africa, Oceania, Asia</td><td>A</td></tr><tr><td>多裂芽腹枝衣 H. polyisidiatum</td><td>广西 Guangdong, Fujian, Zhejiang, Yunnan, Guangxi</td><td>359.0~2 300.0</td><td>树生 Corticolous</td><td></td><td>E</td></tr><tr><td>红带腹枝衣 H. rubrocinctum</td><td>贵州 Guizhou</td><td></td><td>树生、叶生、石生 Corticolous, foliicolous, saxicolous</td><td>南美洲、北美洲、亚洲 North and South America, Asia</td><td>C</td></tr></table></body></html>
+
+<html><body><table><tr><td>种名 Species</td><td>采集地点 Collection site</td><td>海拔 Altitude (m)</td><td>基物类型 Substrates</td><td>其他分布地区 Other distribution area</td><td>分布类型 Distribution type</td></tr><tr><td>亚球腹枝衣 H.subglobosum</td><td>浙江，台湾，贵州，云南， 广西 Zhejiang, Taiwan, Guizhou, Yunnan, Guangxi</td><td>359.0~2100.0</td><td>树生 Corticolous</td><td>一</td><td>E</td></tr><tr><td>绿裂芽腹枝衣 H.viridi-isidiatum</td><td>浙江，福建，广西 Zhejiang,Fujian, Guangxi</td><td>359.0~1 298.7</td><td>树生 Corticolous</td><td></td><td>E</td></tr><tr><td>魏氏腹枝衣 H. weii</td><td>贵州 Guizhou</td><td>1000.0</td><td>树生 Corticolous</td><td></td><td>E</td></tr></table></body></html>
+
+注：A.代表泛热带分布；B.代表热带亚洲至热带澳大利亚分布；C.代表热带亚洲和热带美洲间断分布；D.代表热带亚洲分布；E.代表中国特有分布。Note: A.Pantropical; B.Tropical Asia to Tropical Australia; C.Topical Asia and tropical America; D.Tropical Asia;E.Endemic to China.
+
+2.2.2海拔与腹枝衣属地衣分布的关系
+
+由表1可知,我国腹枝衣属地衣在垂直方向上的分布范围较广，多分布于海拔 $3 0 0 \mathrm { m } { \sim } 2 5 0 0 \mathrm { m }$ 的范围。其中，多裂芽腹枝衣（Herpothallon polyisidiatum）和亚球腹枝衣（ $H .$ subglobosum）在我国的垂直分布范围最广，最低为 $3 0 0 \mathrm { ~ m ~ }$ 左右，最高达 $2 \ 0 0 0 \ \mathrm { m }$ 以上；其次是刺腹枝衣（ $H .$ echinatum）、菲律宾腹枝衣（H.philippinum）和绿裂芽腹枝衣( $H .$ viridi-isidiatum)，在海拔 $3 0 0 \mathrm { m } { \sim } 1$ $3 0 0 \mathrm { m }$ 范围内皆有生长。由于腹枝衣属地衣生长于温暖湿润的区域，对温度、湿度和气候等因素的要求较高，因此我们推测，该类群应当不分布于高寒高海拔地区，往年的文献资料、标本采集信息以及本课题组实际的野外调查也佐证了这一观点。但是由于实际采集范围和标本采集量不够丰富，加上参考资料所提供的数据不充分，缺少了部分物种的海拔信息，因此随着后续调查的深入，中国腹枝衣属地衣的分布与海拔高度之间的关系将会更加明晰。
+
+# 2.2.3基物与腹枝衣属地衣分布的关系
+
+表1显示，我国腹枝衣属地衣的基物主要分为四种类型：树皮、树叶、石头和苔藓，该属地衣大多为树生，少有叶生、石生和藓生。
+
+树生地衣：指生长于树皮及朽木上的地衣。该文调查发现的14种腹枝衣属地衣，在树皮上皆有分布。其中仅生长于树皮上的有9种，分别是：毛腹枝衣（Herpothallon capillferum）、刺腹枝衣（H.echinatum）、颗粒腹枝衣（ $H .$ granulosum）、裂芽腹枝衣（ $H .$ isidiatum）、小腹枝衣（ $H .$ minutum）、多裂芽腹枝衣（H.polyisidiatum）、亚球腹枝衣（ $H .$ subglobosum）、绿裂芽腹枝衣（ $H .$ viridi-isidiatum）和魏氏腹枝衣（ ${ ( H , w e i i ) }$ ，约占中国已知总种数的 $64 \%$ 。此类地衣的生境较为单一，需要加强对其物种多样性的保护。
+
+叶生地衣：指能够生长于树叶上的地衣。此类型腹枝衣属地衣在我国有3种：南方腹枝衣( $H .$ australasicum）、粒状腹枝衣（ $H .$ granulare）和红带腹枝衣（ $H .$ rubrocinctum），三者在树皮、树叶上均可生长，约占中国已知总种数的 $21 \%$ 。
+
+石生地衣：指生长在岩石上的地衣。在我国有2个种：菲律宾腹枝衣（ $H .$ philippinum）和红带腹枝衣（H.rubrocinctum)，二者在树皮、石头上均有分布，约占中国已知总种数的 $14 \%$ 。
+
+藓生地衣：指生长基物为苔藓的地衣。目前在我国仅喜马拉雅腹枝衣（ $H .$ himalayanum）在苔藓上有分布，同时该种也能生长于树皮上，约占中国已知总种数的 $7 \%$ 。
+
+需要注意的是，上文提到的5种叶生、石生和藓生地衣，因其能生长于不同的基物，属于多生境生地衣，其中，红带腹枝衣（H.rubrocinctum）在树皮、树叶和石头上均有发现，生境类型
+
+最为多样，对环境的适应能力较强。
+
+# 3讨论与结论
+
+腹枝衣属地衣作为不育的热带地衣的代表类群，无论在多样性、遗传变异性还是生物之间的相互作用方面，它们的研究仍然不足。近年来，国外学者对腹枝衣属地衣进行的研究相对较多，而我国的地衣研究起步较晚，在本实验室研究之前，对于我国腹枝衣属地衣的了解更是匮乏。但经过对我国浙江、广西、广东省等地较为广泛的地衣资源调查和标本采集发现，该类群在我国南方的分布范围较广，多样性丰富，除本研究所涉及的14个物种外，尚有很多物种有待发掘，特别是人为干扰较少的区域。但是旧动能推动下的经济发展模式已造成我国部分地区的严重环境污染、生态系统退化。我国丰富而独特的地衣资源正因环境污染而受到巨大威胁，如不加以研究和保护，某些珍稀物种很可能还没有被认知之前就已灭绝（魏鑫丽等，2020)。我们实验室成员从上世纪80年代开始就对中国地衣资源进行调查研究，该文研究材料的采集时间也为横跨前后近40年的时间。在我们调查研究中发现，随着人类活动的干扰，地衣的整体分布范围在不断的缩小，但腹枝衣属地衣目前变化不是很明显，主要原因一是该属本身就分布于人为干扰较少的区域，二是调查研究不够深入，缺乏前期数据对照。
+
+因此，虽然中国腹枝衣属地衣有着更大的潜在物种多样性，但对其物种多样性的保护急需加强，特别需要关注人类活动干扰下的生境改变对这些物种的影响。值得注意的是，所有的中国腹枝衣属地衣都局限分布在中国南方热带亚热带地区人类活动轻微的山地森林中，表明其对宏观气候和森林的依赖性较高。从全球考虑，腹枝衣属地衣在热带亚热带区域若干山区森林零星地且局限地分布，如在印度（Jagadeesh Ram&G.P.Sinha,2009;Jagadeesh Ram et al.,2009;）、瓦努阿图（Sipman,2018）和巴西（Aptroot& Souza,2021）有零散报道。未来全球气候变化和人类活动对这些零星分布地衣的影响显得尤为重要，但尚缺乏研究。
+
+基物特别是森林的变化对中国腹枝衣属地衣也应有重要的影响。在这14种地衣中，有9种地衣为专性树生（表1)，它们对森林分布和树种演替的变化应有强烈的响应，但在全球范围内，尚缺乏此方面的专门研究。另外，也需关注海拔对中国腹枝衣属地衣的影响。已有研究表明，海拔对中国地衣有不可忽视的影响（Huang,2010;Liu etal.,2011)。海拔与生境特别是温度、水分和基物等的有效性有关，全球气候变暖可能会将地衣驱逐至更高海拔，也有可能会造成一些分布海拔段较狭窄的中国地衣物种的灭绝（Huang,2010;Liu etal.,2011)。本研究显示，一些物种（如魏氏腹枝衣等）的分布海拔段狭窄（表1)，尽管这种狭窄的海拔分布可能源于调查研究力度不足，但其对环境变化的抗性仍堪忧。
+
+总之，中国腹枝衣属地衣的分类学、区系学和生态学研究仍显不足，其物种多样性现状及其潜在威胁堪忧，需要更加深入地去探索认识地衣，以保护地衣资源。
+
+# 致谢
+
+中国科学院昆明植物研究所植物标本馆王立松研究员和王欣宇老师，在标本借阅方面给予了大力协助,在此一并致谢！
+
+# 参考文献
+
+APTROOTA,THORG,LUCKINGR,etal.,2009.The lichen genus Herpothallonreinstated[J].BibLichenol,99:19-66.   
+APTROOTA,SOUZAMF,2O21.Newcrustoselichens fromatropicalcoastalarea inParana (Brazil)[J].Cryptog Mycol,42(2): 191-197.   
+CHENGYL,NINGJ,XUHP,etal.,2012.Herpothallon weii,anew lichen from China[J].Mycotaxon,119: 439-443.   
+CHENPF,IU,tausiesofolo(oce,tsthtes from China [J].Phytotaxa,536: 83-91.   
+HUANGMR,2010.Altitudinal paternsofStereocaulon (Lichenzed Ascomycota)in China[J].ActaOecol,36(2):17-178.   
+JADADEESHRAMTAM,INHAGP,2009.New speciesandnewrecordsofHerpothalon(lichenized Ascomycota)fromIdia[J]. Mycotaxon,110: 37-42.   
+JADADEESHATAM,INHAGP,NGHKP,09.NewspeciesandnewrecordsofCrptoteciandHpohallon (Aoales) from India [J]. Lichenologist, 41(6): 605-613.   
+JADADEESHRAMTAM,2014.Thegenus Herpothallon (Arthoniaceae)intheAndaman Islands,India[J].Lichenologist,46(1): 39-49.   
+LIB,YANT.esdiesitydfsticlementsofthlcnfilydaceaeina[J].Jlanti9(): 14-21.[李博，闫活激，石瑛，2021.中国石蕊科地衣多样性与区系研究 [J]．植物科学学报，39(1):14-21.]   
+LIUHJ,HUANGM,WUQF,etal.,2O11Ananalysisonthealtitudinal patersof Peltigerain China[J].Mycosystema,30(6): 955-964.[刘华杰，黄满荣，吴清凤，等，2011．中国地卷属地衣海拔分布分析[J].菌物学报，30(6):955-964.]   
+LuCKINGR,HODONB,LEAVID,217.Corrtiosndamendments tothe16cassficatioflicnedfuie Ascomycota and Basidiomycota[J].Bryologist,120(1): 58-69.   
+NIMIS PL,PURVISOW,2002.Monitoring lichens asindicatorsof polution-AnIntroduction[M]//NIMSPL,SCHEDEGGERC WOLSELEYPA.Monitoring withLichens-Monitoring Lichens.Dordrecht,The Netherlands:Kluwer AcademicPublishers: 7-10.   
+ORANGEA,JAMESPW,WHITEFJ,2010.Microchemicalmethods fortheidentificationofLichens[M].2nded.Londonritish Lichen Society: 1-101.   
+RENQ,2022.Key to the lichen generaofChina[J].JLiaocheng Univ(Natural Science Edition):1-45.[任强,2022．中国地衣分属检 索表[J/OL].聊城大学学报(自然科学版)：1-45.]   
+SIPMANHJM,2018.Threenewlichenspeciesand48newrecords fromVauatu[J].Australas Lichenlogy,2018(82):106-129.   
+WU ZY,SUNH,ZHOUZK,etal.,2011.Floristics of seed plants fromChina[M].Beijing:SciencePress:122-155.[吴征，孙航， 周浙昆，等，2011．中国种子植物区系地理[M]．北京：科学出版社：122-155.]   
+WEIJC,2018.Areviewonthe presentsituationof lichenologyin China[J].Mycosystema,37(7):812-818.[魏江春，2018．中国地衣 学现状综述[J]．菌物学报，37(7):812-818.]   
+WEIJC,020.TheenumerationoflichenizedfungiinChina[M].Beijing:ChinaForestryPublishing House:4447.魏江春，2020. 中国地衣型真菌综览[M]．北京：中国林业出版社：44-47.]   
+WEI XL,DENGH,WEIJC,020.TreatenedcategoriesassessmentoflichnsinChia[J].BiodiversSci,28(1):5465.丽， 红，魏江春，2020.中国地衣的濒危等级评估 [J].生物多样性，28(1):54-65.]

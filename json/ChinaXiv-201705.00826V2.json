@@ -1,0 +1,507 @@
+[
+    {
+        "type": "text",
+        "text": "Relative Entropy Minimizing-Based Theory of Intelligent Systems ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\"ICAI:LATE BREAKING PAPER\" Guangcheng Xi (State Key Laboratory of Management and Control for Complex Systems, Institute of Automation, Chinese Academy of Sciences,Beijing,10o190,P.R.China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Based on the point of view of neuroethology and cognition-psychology, general frame of theory for inteligent systems is presented by means of principle of relative entropy minimizing in this paper. Cream of the general frame of theory is to present and to prove basic principle of intellgent systems: entropy increases or decreases together with intelligence in the inteligent systems.The basic principle isof momentous theoretical significance and practical significance .From the basic principle can not only derive two kind of learning algorithms (statistical simulating annealing algorithms and annealing algorithms of mean-field theory approximation) for training large kinds of stochastic neural networks,but also can thoroughly dispel misgivings created by second law of thermodynamics on people s psychology ,hence make one be fully confident of facing life.Because of Human society， natural world,and even universe all are intelligent systemsIn particular, Population systems are intelligent systems. According to the basic principles of inteligent systems， The intelligence of population system is proportional to the volume of population space，and decreases with the logarithm of population density.. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Complex systems; Intelligent systems；Relative entropy minimizing; General frame of theory; Basic principle. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Until now, human brain is the sophisticated creation of natural world and is only place where are produced cognition and intelligence,and hence spirit. Human being as a body carrying life is the most advanced and perfect intelligent system on the planet. It has the features common to general complex system. As we see it[1]， a complex system is a functional system having any structure(including hierarchical and variably hierarchical structure) and consisting of any number of subsystems $( \\geq _ { 1 } )$ capable of particular functions.These subsystems form closed loops of their own based on the feedback mechanism and are capable of self-adjustment according to different optimum criteria and interact with each other in various ways,and are composed of various dynamical，logical， nonlogical，and heuristic links.A complex system integrates at least the following six aspects: ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1)Multi-dimensionality: magnitude of dimension,type of dimension ,and transition each other of the types of dimension;   \n(2) Multi-parameter;   \n(3)Multi-relationship: relationships between(among)variables at same level(in particular, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "nonlinear relationships) and relationships between(among)variables at different level(in particular, nonlinear relationships)or the crossover of the two relationships; ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(4)Multi-criterion: multi-component, multi-scales(levels);   \n(5）Multi-functionality: emergence,co-operation, competition,adaption, closed-openness,and so on;   \n(6) Multi-discipline of knowledge used. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Obviously,an intelligent system is complex system. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Intelligent control is the process of performing a task by an intelligent machine[2].The theory of intellgent control is a composition of mathematic,lingual method and algorithm used in the system and the process and is based on cross disciplines of neuroethology, cognition-psychology, computer science,systematic science,artificial inteligence and information science. Only when we are accustomedboth to introduction and effective use of allknowledge of modern science， in particular, of the systematic science inscientific fields related to “human being\"and to introduction and effective use of all scientific knowledge related to “human bring\" in other modern science,in particular ,in the fields of systematic science,in other words,only when human being has full knowledge of itself, can an intelligent control system in true sense be obtained and can an the theory of intelligent system in true sense be established. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Based on the point of view of neuroethology and cognition-psychology， general frame of theory for intelligent systems is presented by means of principle of relative entropy minimizing in this paper. Cream of the general frame of theory is to present and to prove basic principle of intelligent systems: entropy increases or decreases together with inteligence in the intelligent systems.The basic principle isof momentous theoretical significance and practical significance .From the basic principle can not only derive two kind of learning algorithms (statistical simulating annealing algorithms and annealing algorithms of mean-field theory approximation) for training large kinds of stochastic neural networks,but also can thoroughly dispel misgivings created by second law of thermodynamics on people s psychology ,hence make one be fully confident of facing life.Because of Human society, natural world,and even universe all are intelligent systems.Human intelligence is in the Brain, intelligence of universe is in Black holes.In particular,highest intelligence ofuniverse is in the black hole which possesses maximum volume in all black holes. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This paper is organized as folows:Section 2 presents the basic viewpoint and basic construction on intelligent systems,gives block diagram of inteligent control system.Section 3 presents and proves basicprinciple of inteligent system:entropy increases or decreases together with intelligence in the intelligent system.Sectiion 4demonstrates how derive two kind of learning algorithms (statistical simulating annealing algorithms and annealing algorithms of mean-field theory approximation) for training large kinds of stochastic neural networks by means of the basic principle of the intelligent system. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Basic viewpoint and basic construction on intelligent systems ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The following is a block diagram of intelligent system from the perceptive of neuroethology and cognition-psychology. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It is a description of an abstracted framework of common intelligent control system, including the description of the hierarchical inteligent control system.We will give a brief description of the block diagram of intelligent control system shown in figure 1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The perception system makes characteristic abstraction，transformation， integration and coding of environmental stimuli. The coded environmental stimuli are input to the memory system.The memory is categorized as short-term memory and long-term memory. Information processing by short-term memory comes from two sources. On one hand,it processes the coded information from environment. At this time, the short-term memory shows up great selectivity: elimination of the unwanted or minor information and preservation and further acknowledgment of the needed information. On the other hand,the short-term memory refines some portion of the information stored in the long-term memory.The long-term memory is a huge information storage-base storing various kinds of information，such as sport skils， grammar information, semantic information， pragmatic information,value,processing procedure, etc. Migrating with current and past input， some portion of the long-term memory is activated. The activated information is called active memory [3].Some portion of the active memory undergoes a refining process in the short-memory which is the place where current cognitive activities take place. It is obvious that there must be a channel for information exchange between the short-memory and long-memory .The information exchange at the same time serves as a coordinator between the control system and reaction system.The control system itself has complete,multi-functional, high-level learning system.The control system determines how the entire intelligent control ssystem works. By means of direct learning from the environment and making use of the information stored in the memory system,the control system implements its organization and management function,processes the objectives and provides policy to achieve these objectives, that is，determines a plan and make a decision.The coordination system is an intermediate structure between the control system and other subsystems and makes decision and coordination based on short-term memory,\"to pass information from the higher level down to the lower level\"and “to report information from the lower level to the higher level\".Thereaction system controls the output of the entire inteligent system ranging from various actions to language and expression. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b40634860f48508226eb5f8760019852009a657c1868ea2f2ab77e4d50c8791.jpg",
+        "img_caption": [
+            "Fig.1Block diagram of intelligent control system "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Basic principle in intelligent system ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Assume the intelligent system $S$ shown in Figure 1 can be expressed as following triplet with a function ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS = ( \\textit { X } , \\boldsymbol { F } , \\boldsymbol { P } , \\boldsymbol { H } \\ : ( \\ : p _ { 0 } , p \\ : ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Where $X$ is the state space; $F$ isa $\\sigma$ --algebra; $P$ is a probability measure on $( X , F ) ; H ( p _ { 0 } , p )$ is relative entropy defined as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ( P _ { 0 } , p ) = \\int p _ { 0 } ( x , \\theta ) \\ln \\frac { p _ { 0 } ( x , \\theta ) } { p ( x ) } d x\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Where $p _ { 0 } ( x , \\theta )$ is determined by observation, $\\theta = ( \\xi , \\eta , t )$ is a parameter, where $\\xi$ is the action rule of the intelligent system $s , \\eta$ is the event database,i.e.event set stored in the memory system,and $t$ is time; $p ( x )$ is a function of maximum entropy probability density representing a priori knowledge and is given by the following equation ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\np ( x ) = { \\frac { 1 } { Z } } \\mathrm { e x p } ( - m U ( x ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Where $U ( x )$ is a vector potential, $m$ is a vector factor and $Z$ is partition function. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Whenever there is a new sufficiently large input to the system,the system executes a minimization process of formula (2） and when the process ends,the O-1 symbol string supplied by the reaction system is the optimal task of the system. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The principle of minimum relative entropy is well known.And here, just to give ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "you a sense of what we're seeing. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Theorem 1. Express the relative entropy in equation (2） as $H ( p _ { 0 } , p )$ ，we have ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname * { l i m } _ { x  \\infty } H ( p _ { o } ( x _ { i } ) , p ( x _ { i } ) ) = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Proof Because of $p _ { 0 } ( x _ { i } )$ is estimates to $p ( x _ { i } )$ which are obtained by any practicable method to do random experiment (learning) about certain constraint of $p ( x )$ ,for example,because of formula (3),there is a Markov chain of observable   \nsample $x _ { 1 } , \\ldots , x _ { n } $ whose limit distribution is $p ( x )$ on state space $X$ .By means of   \nergodic theorem,from orbits $x _ { i } ( t ) , i = 1 , 2 , \\ldots ; t \\geq 0 ;$ of the Markov chain,estimate   \n$p _ { 0 } ( x _ { i } )$ of density function $p ( x _ { i } )$ can be obtained.The process is producing directive sequence $p _ { 0 } ( x _ { i } ) ( i = 1 , 2 _ { , } . . . . . )$ andits directive subsequence $p _ { 0 } ( x _ { { \\scriptscriptstyle L } ( i ) } ) , L ( i ) > i , i = 1 , 2 , . . .$ on complete metric space $( D , d ) , D$ isset of probability density function on measurable space $( X , F )$ .At this time, ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { l i m } _ { i \\to \\infty } p _ { 0 } ( x _ { i } ) = \\operatorname* { l i m } _ { i \\to \\infty } p _ { 0 } ( x _ { L ( i ) } ) = \\operatorname* { l i m } _ { i \\to \\infty } p ( x _ { i } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Infact, suppose $\\operatorname* { l i m } _ { i \\to \\infty } p _ { 0 } ( i ) = \\overline { { \\eta } }$ , then for any small positive number $\\varepsilon$ ,there is positive integer $I$ ，such that when $i > I$ ， $\\parallel \\ p _ { 0 } ( x _ { i } ) - \\overline { { { \\eta } } } \\parallel < \\varepsilon$ . Because of lim $i \\to \\infty$ $\\{ \\textit { \\textbf { L } } ( i ) \\} = \\infty$ ,thus there is a positive integer $i _ { 0 }$ ,such that when $i > i _ { 0 } , L ( i ) > I$ ,at this timeI $p _ { 0 } ( x _ { L ( i ) } ) - \\overline { { { \\eta } } } \\qquad \\parallel < \\varepsilon$ ,hence subsequence $\\{ \\ : p _ { 0 } ( x _ { L ( i ) } ) \\} \\mathrm { c o n v e r g e s } , \\mathrm { a n d } \\ \\operatorname* { l i m } _ { i  \\infty } p _ { 0 } ( x _ { i } ) = \\operatorname * { l i m } _ { i  \\infty } p _ { 0 } ( x _ { L ( i ) } ) = \\operatorname * { l i m } _ { i  \\infty } p ( x _ { i } ) = \\overline { { { \\eta } } } \\ .$ . The proof is completed. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The proving process of above theorem is the process in which $H ( p _ { 0 } , p )$ is minimized. The limit theory dictates that there must be a minimum value approaching to O，and the minimum value is unique. The minimum value corresponds to the uniquely correct O,1 character string for implementation of a given objective(environmental input).At control level, aO,1 character string corresponding to the correct decision-making is given， and at the reaction system(level),a O,1 character string corresponding to correct task is given. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "From the above discussion， we find the following proposition ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Proposition The sufficient and necessary condition for the intelligent system $S = ( X , F , P , H ( p _ { 0 } , p ) )$ to exist is that it can be given by ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS = ( X , F , P , H ( p _ { 0 } , p ) ) = \\lambda \\operatorname* { m i n } _ { p _ { 0 } } \\ \\{ \\int p _ { 0 } ( x , \\theta ) \\ln \\frac { p _ { 0 } ( x , \\theta ) } { p ( x ) } d x \\ \\} ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $\\lambda > 0$ ：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Definition 1. Knowledge on the intelligent system $S$ is defined as the structural information on the intelligent system $S$ ，measured by equation (2). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Definition 2. The intelligence of an intelligent system is change ratio of the knowledge acquired by the intelligent system to the linkage coefficient between component units in the intelligent system. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Theorem 2（Basic principle of intelligent system）.Entropy increases or decreases together with intelligence on the intelligent system $S$ · ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To make the discussion simple and sufficient,the concept of sufficiency of relative entropy is introduced [4]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Definition 3. For the intelligent system $S$ ,we assume $\\mathfrak { A }$ is $\\sigma -$ algebra on set $\\mathcal { X }$ of sub-vectors of $x \\in X$ produced by its subsystem—memory system and control system, it is $\\sigma -$ subalgebra of $F$ ,thatis, ${ \\mathfrak { A } } \\subseteq F$ .Let $P ( X )$ is set of the all probability measures on $( X , F )$ and $P ^ { \\prime } \\subset P ( X )$ 。By $\\sigma -$ subalgebra $\\mathfrak { A }$ is sufficient with respect to $P ^ { ' }$ is meant there exists $\\mathfrak { A }$ -measurable function ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh = E _ { \\mu } ( 1 _ { A } \\mid \\mathfrak { A } ) , \\mu - a . e . , \\forall \\mu \\in P ^ { }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "for any A∈ F. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Assume $P _ { 0 }$ and $P$ are probability measures corresponding to probability density function $p _ { 0 } ( x ) , p ( x )$ ,respectively, $\\{ P _ { 0 } , P \\} \\in P ( X )$ .From the definition of sufficiency we easily find that $\\mathfrak { A }$ is sufficient with respect to $\\{ P _ { 0 } , P \\}$ .Therefore we have : ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { \\mathfrak { A } } ( p _ { 0 } , p ) = H _ { F } ( p _ { 0 } , p ) = H ( p _ { 0 } , p ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Since the $\\mathfrak { A }$ is sufficient with respect to $\\{ P _ { 0 } , P \\}$ ，then the difference between $P _ { 0 }$ and $P$ can be determined all by $\\mathfrak { A }$ alone.Therefore the conclusion concerning ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$S = ( X , F , P , H ( p _ { 0 } , p ) ) = \\lambda \\operatorname* { m i n } _ { p _ { 0 } } \\ \\begin{array} { l } { \\{ \\displaystyle \\int p _ { 0 } ( x , \\theta ) \\ln \\frac { p _ { 0 } ( x , \\theta ) } { p ( x ) } d x \\ \\mathrm { ~ j c a n ~ b e ~ d i s c u s s e d ~ f o r ~ a r ~ \\theta ~ } \\} } \\end{array}$ on its subsystems—memory system and control system. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Following this thinking in the discussion, we can not only prove the basic principle of the intelligent system $S$ ,but also produce a special algorithm —algorithm of mean-field theory approximation [5].The proof of theorem 2 is given in following ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Note that vector m in equation (3) denotes linkage coefficient between component units(nerve cells).For simplicity, we rewrite $p _ { 0 } ( x , \\theta )$ as $p _ { 0 } ( x )$ .We will find ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$\\hat { \\sigma } H _ { \\mathfrak { A } } ( p _ { 0 } , p ) / \\hat { \\sigma } m _ { i }$ in the following. ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial H _ { \\mathfrak { A } } ( p _ { o } , p ) } { \\partial m _ { i } } = - \\int \\frac { p _ { 0 } ( x _ { T } ) } { p ( x _ { T } ) } \\frac { \\partial p ( x _ { T } ) } { \\partial m _ { i } } d x _ { T }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Where $x _ { T } \\in \\mathcal X .$ We have: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\hat { \\mathcal { O } } p ( x _ { T } ) } { \\hat { \\mathcal { O } } m _ { i } } = [ \\exp ( - \\sum _ { i } m _ { i } U _ { i } ( x _ { T } ) ) ] U _ { i } ( x _ { T } ) / Z _ { N } - p ( x _ { T } ) [ \\sum _ { x _ { T } } \\exp ( - \\sum _ { i } m _ { i } U _ { i } ( x _ { T } ) ) ] U _ { i } ( x _ { T } ) / Z _ { N }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= p ( x _ { _ T } ) U _ { i } ( x _ { _ T } ) - p ( x _ { _ T } ) { \\sum _ { x _ { T } } } p ( x _ { _ T } ) U _ { i } ( x _ { _ T } )\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Where $Z _ { \\scriptscriptstyle N }$ is restriction of $Z$ on $\\mathcal { X }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Substitute above equation into (7) we have ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\frac { \\hat { c } H _ { \\mathfrak { A } } ( p _ { 0 } , p ) } { \\hat { c } m _ { i } } = - \\displaystyle { \\int \\frac { p _ { 0 } ( x _ { T } ) } { p ( x _ { T } ) } \\frac { \\hat { c } p ( x _ { T } ) } { \\hat { c } m _ { i } } d x _ { T } } } \\\\ & { = - ( - \\displaystyle { \\int p _ { 0 } ( x _ { T } ) U _ { i } ( x _ { T } ) d x _ { T } } + \\displaystyle { \\int p _ { 0 } ( x _ { T } ) } \\sum _ { x _ { T } } p ( x _ { T } ) U _ { i } ( x _ { T } ) d x _ { T } ) } \\\\ & { = E _ { p _ { 0 } } ( U _ { i } ( x _ { T } ) ) - E _ { p } ( U _ { i } ( x _ { T } ) ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Because of $E _ { p _ { 0 } } ( U _ { i } ( x _ { T } ) ) = H _ { p _ { 0 } } - \\mathrm { l n } Z _ { N }$ ,equation(8) reads ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\hat { \\sigma } H _ { \\mathfrak { A } } ( p _ { 0 } , p ) } { \\hat { \\sigma } m _ { i } } { = } H _ { p _ { 0 } } \\left( x _ { T } \\right) { - } \\ln { Z _ { N } } - E _ { p } ( U _ { i } ( x _ { T } ) ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Consequently we have: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ln Z _ { _ { N } } + E _ { _ p } ( U _ { i } ( x _ { _ { T } } ) ) = H _ { _ { p _ { _ 0 } } } ( x _ { _ T } ) - \\frac { \\hat { \\sigma } H _ { _ { \\mathfrak { A } } } ( p _ { _ 0 } , p ) } { \\hat { \\sigma } m _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Where $H _ { p _ { 0 } } ( x _ { T } )$ is the maximum entropy determined by the observation sampling set or training sampling set, and is the measurement of uncertainty of task executed by the memory system and the control system. Notice $E _ { p } ( U _ { i } ( x _ { T } ) )$ is determinate real number. After the number of component units (nerve cells) of memory system and control system is determined, $Z _ { \\scriptscriptstyle N }$ (partition function) is determined as well. Therefore the left side of equation(9)can be regarded as a constant .If the first item at the right side increases(or decreases),the second item must increases(or decreases) .Since $\\mathfrak { A }$ is sufficient for $\\{ P _ { 0 } , P \\}$ ， the above conclusion is completely applicable to the entire system $S$ .The proof of basic principle is completed. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Let's look at the population system。 Population systems are intelligent systems. According to the basic principles of intelligent systems， The intelligence of population system is proportional to the volume of population space，and decreases with the logarithm of population density.. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4Intelligent behavior of intelligent system ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Intelligent behavior of the intelligent system $S$ is accomplished by the subsystemscontrol system and memory system. The control system and memory system are systems of neural networks. Various intelligent behaviors are shown biologically as the change of linkage weight between nerve cells. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Learning process is the process of acquiring knowledge .The learning process of system of neural network is divided into two phases. The first phase is a processes in which the system of neural systems abstracts the environment and establishes the to be solved problem model—model establishment process. The second phase is a process in which the problem is solved -namely uncertainty caused by environmental regularity in the system is minimized. Corresponding to the two phases, there are the following results. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Theorem 3[6].Assume the compounded system formed by system $N$ of neural network and the environment $E$ that it is in is isolated from the outside world,and the learning process of the system of neural network is a Markov process that has a given transition probability function .When input information of sufficient magnitude is obtained, the system of neural network starts its learning process. The process will finally arrive at its the equilibrium from far from the equilibrium. The equilibrium is state when the system has maximum entropy. The sufficient and necessary condition of the maximum entropy is that the distribution density function of the system is given by ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\np ( x _ { _ T } ) { = } \\frac { 1 } { Z _ { _ N } } { \\exp } ( { - } m _ { _ N } U ( x _ { _ T } ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Where $x _ { T }$ is state variable of the system of neural network, $U ( x _ { T } )$ is vector potential function and $Z _ { \\scriptscriptstyle { N } }$ is partition function。 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Theorem 4[6]. Under the condition of the theorem 3，assume the linkage weight between the $i$ th and $j$ th nerve cells of system of neural network is $w _ { i j }$ and $w _ { i j } = w _ { j i }$ ,then based on basic principle of the intelligent system， we have $\\frac { \\partial H _ { \\mathfrak { g } } ( p _ { 0 } , p ) } { \\partial w _ { i j } } = \\gamma ( P _ { i j } - P _ { i j } ^ { \\cdot } ) \\quad , \\mathrm { w h e r e } \\quad \\gamma = \\frac { 1 } { k T } \\quad \\mathrm { ~ a n d ~ } \\quad k \\quad \\mathrm { ~ i s ~ \\Omega ~ B o l ~ t z m a n n ~ \\Gamma ~ c o n s t a n t } , T \\in \\Omega .$ （204 corresponds to the temperature in a physical system,but is a control parameter here; $P _ { i j }$ is the average probability when there is environmental input and the network arrives at equilibrium with both unit $i$ and unit $j$ conducting; $\\boldsymbol { P } _ { i j } ^ { ' }$ isthe corresponding probability when there is not environmental input. Theorem 5[5]. Under condition of theorem 3,assume that the linkage weight between the $i$ th and $j$ th nerve cells of system of neural network is $w _ { i j }$ and $w _ { i j } = w _ { j i }$ ,and that number of nerve cells of the system of neural network is sufficiently large, then based on the basic principle of the intelligent system and in the sense of mean square limit，we find Ha(Po,P)=U(Ep(x))-U(E(x)，hereE Wij $E _ { p _ { _ { 0 } } }$ （20 and $E _ { p }$ denote expectation operators of $p _ { 0 } ( x )$ and $p ( x )$ ,respectively. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "From theorems 4and 5 we find two kinds of learning algorithms for training stochastic neural networks: ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\triangle w _ { i j } = \\beta ( P _ { i j } - P _ { i j } ^ { ' } )\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Where $\\beta$ is a constant less than but approaching 1. ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\triangle w _ { i j } = \\alpha ( E [ \\dot { x _ { T } } ( k ) ] E [ \\dot { x _ { T } } ( l ) ] - E [ \\ddot { x _ { T } } ( k ) ] E [ \\stackrel { - } { x _ { T } } ( l ) ] )\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Where $\\alpha$ is a constant less than but approaching 1,and $E [ x _ { T } ( k ) ]$ is given by ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "0r ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE [ x _ { T } ( k ) ] = \\frac { 1 } { 1 + \\exp ( \\frac { - U _ { k } } { T } ) } , \\qquad x _ { T } ( k ) \\in \\{ 0 , 1 \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE [ x _ { T } ( k ) ] = \\operatorname { t a n h } ( \\frac { - U _ { k } } { T } ) , \\qquad x _ { T } ( k ) \\in \\{ 1 , - 1 \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1)Statistic simulation annealing algorithm ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Statistic simulation annealing algorithm[7] as a common methodfor approximately solving problem in large-scale combinatory optimization has seen great development in theory and practice. This algorithm can be widely used in the optimization field to provide solution to various optimization problems and the solution can arbitrarily approach to the overall optimization. This algorithm allow cost function related to state to climb the slope randomly simulating the metal annealing process. That is， with the function of the control parameter $T$ ,random noise is added to the conventional fastest decline process, thus if“unfortunately\" the system of neural network runs into the local minimum trap, it will be able to get out of this local minimum trap until it maximally approaches the overall optimum, in other word, obtains the overall minimum of the cost function. In this article, the cost function is the relative entropy and the minimum process of relative entropy is synchronized with that of energy function-const function defined in other articles. The procedures for computer implementation of the statistic simulation annealing algorithm are: ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1) Decide the sufficiently high initial $T$ and randomly determine the linkage weight between nerve cells of the system.   \n(2) Givena small perturbation to initial state ${ x _ { T } } ^ { i }$ of the system,we find ${ x _ { T } } ^ { i }$ and the relative entropy increment $\\triangle H _ { \\mathfrak { A } }$   \n(3) If $\\triangle H _ { \\mathfrak { A } } \\leq 0$ ,then accept this change ,or otherwise if $\\exp ( - \\triangle H _ { \\mathfrak { A } } )$ （20 $>$ random number $\\in [ 0 , 1 )$ ,then accept this change and ${ x _ { T } } ^ { i + 1 } = { x _ { T } } ^ { i }$ （   \n(4) Compute new temperature: ${ \\cal T } ( i + 1 ) = { \\cal T } ( 0 ) / \\ln ( i + 1 ) , i \\geq 1$ ,where $T ( 0 )$ is the initial temperature.   \n(5) Repeat steps（2） through to（4）until $T$ approaches zero and the system no longer makes state transfer. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2)Annealing algorithm of mean-field theory approximation ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The above statistic simulation annealing algorithm“inherits ” the connatural essentiality of the Mote Carlo method 一slow convergence rate and high computation complexity， which greatly restricts its application. For this reason， in recent years, specialists and scholars have put forward annealing algorithm of mean-field theory approximation， which has yielded good result. All methods for deducing annealing algorithm of mean-field theory approximation are based on the reduction of the system free energy in statistic physics. Our deduction[5] of this algorithm from the perceptive of relative entropy minimization is determined by the basic principle of the intelligent system and is a natural extension and result of the thinking—using relative entropy minimization to implement the intelligent control. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The annealing algorithm of mean-field theory approximation is as follows: (1）Randomly choose a high-value parameter $T$ and randomly initialize the mean field $E [ x _ { T } ( k ) ]$ and linkage weight $w _ { k l }$ of all free units. (2) Do following cycle : $a$ ）Randomly choose a mean-field variable $E [ x _ { _ { T } } ( l ) ] , l = 1 , \\cdots , r$ ，and compute according to equation (13) or (14) till to arrive at stable state to find $E [ { x _ { T } } ^ { 1 } ( 1 ) ]$ ： $b$ )Decrease $T$ repeat step $a$ )until a stable solution of equation (13)(or (14)) appears. (3) Implement the above procedures on “-”phaseand‘ $\\cdot _ { + } , \\cdot _ { }$ phase， respectively. (4) Modify weight according to equation (12). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The annealing algorithm of mean-field theory approximation has a convergence rate about $5 0 \\sim 1 0 0$ times higher than that of statistic simulation annealing algorithm and declines the time complexity from $\\bigcirc ( 2 ^ { n } )$ to $\\mathrm { ~ O ~ } ( n )$ ,where $n$ is the number of nerve cells in the system of neural network. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The above two learning algorithm can be used to train large kinds of stochastic neural network, for example, Markov neural networks[6],neural network based on mean-field theory approximation[5],and so on. Our system of neural network in the intelligent system has learning function[6],memory function[8] and thought function[9]. Having constructed the intelligent system,having given mathematical method analyzing it and its algorithm， we have constructed theory of intelligent system, which is implemented through relative entropy minimization. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Reference   \n[1]Guangcheng,X.（1987)，“Entropy—method of partition of complex system”,ACTA AUTOMATICA SINICA（In Chinese）,Vol.13,No.3,pp.216—220.   \n[2]Mode $\\texttt { M C }$ and Saridis G N.(1990)，“A Boltzmann machine for the organization of intelligent machines”， IEEE Trans. Syst.， Man,and Cybern.,Vol.20,No.5,pp.1094 —1102.   \n[3]Lindsay PH and Norman DA.（1977)，“HUMA INFORMATION PROCESSINGAn Introduction to Psychology”（Second Edition）,Academic Press.   \n[4] Halmos P R and Savage L T.(1949)“Application of the Radon—Nikodym theorem to the theory of Sufficient Statistics”，Ann.Math. Statistics ,Vol.20,pp.225-241. [5] Guangcheng,X.（1995)，“Neural network Based on Mean-field theory approximation”, ACTAELECTRONICA SINICA(In Chinese),Vol.23,No.8,pp.62—64.   \n[6]Guangcheng, X. (1991),\"A tentative investigation of the learning process of neural network system”,ACTA AUTOMATICA SINICA(In Chinese),Vol.13,No.3， pp.311—316. [7] Kirdpatrick S,Gellat C D and Vechi MP.(1983)，“Optimization by Simulation Annealing”，Science,Vol.220,No.4598，pp.671—680.   \n[8] Guangcheng， X.（1998b)，“A stochastic theory of associative memory”,Control Theory and Application(In Chinese),Vol.15,No.5,pp.688—694.   \n[9]Guangcheng,X. (2003)，“Variability of structure of Abstract Neural Automata and the ability of thought”,Kybernetes,Vol.32,No.9,pp.1549—1554. Acknowledgements   \nThe research has been supported by National Basic Research Program of China (973 Program)under grant No.2003CB517106. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

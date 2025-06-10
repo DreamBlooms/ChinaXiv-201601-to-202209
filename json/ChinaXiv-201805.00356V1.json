@@ -1,0 +1,545 @@
+[
+    {
+        "type": "text",
+        "text": "面向车载容迟网络的连通性建模与仿真研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "毕俊蕾ä，李致远b ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(江苏大学 a.信息化中心;b.计算机科学与通信工程学院，江苏 镇江 212013)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对车载容迟网络连通性建模进行了研究。首先假设车辆驶入道路的过程服从泊松分布，以及车辆在道路上的行驶速度服从正态分布。继而对基于泊松过程的车间时距分布进行推导，并以此导出行驶车辆在道路上的连通概率。为了验证所提假设和连通模型的正确性和有效性，以欧洲城市卢森堡在 $7 { : } 3 0 \\mathrm { a . m . } { \\sim } 8 { : } 3 0 \\mathrm { a . m }$ 时间段内的交通数据为实验场景，在城市交通仿真平台（simulationofurban mobility，SUMO）对车辆速度的概率分布、车辆到达率、道路中的平均车辆数及网络连通概率进行了理论计算和仿真实验分析。实验结果表明理论模型的计算值和仿真结果是一致的，所提出的假设和连通模型具有合理性和正确性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：车载容迟网络；网络连通性；车流模型；城市交通仿真平台 中图分类号：TP393 doi:10.3969/j.issn.1001-3695.2017.10.0952 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research on connectivity modeling and simulation for vehicle delay tolerant networks ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bi Junleia,Li Zhiyuanb (a.Information Center,b.School of Computer Science &Telecommunications Enginering Jiangsu University,Zhenjiang Jiangsu 212013,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Thispaperstudiedthenetworkconnectivitymodelingforvehicledelaytolerantnetworking.Firstly,itassmedthat theprocess of vehicleentry intotheroadobeyed the Poissndistributionandthe speedsof the vehicles ontheroad were the Normaldistribution.Andthen,itderived thetime interval distributionbetweentwoadjacent vehicles basedonPoisonproces. Next,itstrictlyderivedtheconnectiveprobabilityforthetravelingvehicles onaroad.Inordertoverifythecorrectnessand validityofthetohypothesesandtheproposednetworkconnectivitymodel,ichosethetaficdataintheperiodof7:amto 8:30am for themediumcityLuxembourg inEuropean as theexperimental scenario.After that,itimplemented the simulation on the urbantrafic simulation platform (simulationofurban mobilitySUMO).Inthe simulation experiment,it simulated the probabilitydistributionof vehicle speed,thearivalrateofvehicles,and theaverage numberof vehicles in theroadand the probabilityof network connectivity.Theexperimental resultsshowthatthecalculatedvaluesof thetheoretical modelare consistent withthe simulationresults.Hence,thispaper proves that thetwohypothesesand theproposednetworks conectivity model are reasonable and correct. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:vehicledelaytolerant networks;network connectivity;vehicular traffc model;simulationofurbanmobility ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "短距离通信、智能交通技术的快速发展以及用户对移动车载服务（主动安全和用户娱乐）的需求，使得车载容迟网络（vehicledelay tolerantnetwork，VDTN）作为一种新兴的技术日益受到学术界和工业界的重视[I]。VDTN与传统的自组织网络（mobileAd hoc network，MANET）不同，VDTN下的车辆节点采用机会式通信，其连接具有间歇性。文献[2\\~6]对VDTN环境下的路由和数据转发进行了研究，所不同的是这些工作设置了不同的路由度量标准，比如节点地理位置、节点间的链路质量以及根据节点的历史相遇记录选择下一跳，并在此基础上提出了基于贪心策略的VDTN路由优化算法。上述工作通过各类预测机制和相关策略，提高了节点间机会相遇的概率。但是，若要实现提高数据转发成功率的目标，VDTN环境下的车辆连通性是一个亟待解决的技术问题。比如，基于地理位置信息的路由方法其实就是选择离自己最近的节点进行数据转发。其本质是期望节点在通信时，它们之间的一跳距离在其通信范围内。此外，在VDTN的各类应用中，道路中车辆节点之间的网络连通性能够直接或间接地反映车辆间的链路质量状况。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[7\\~9]以连通性为手段对车载自组织网络(mobileAdhoc network，VANET)的拓扑特性进行了研究。其中，文献[7]重点分析了车辆节点密度、路径损耗指数和衰落因子等因素对网络连通性的影响；文献[8]针对车辆移动模型和车辆行驶轨迹进行了分析，得到交通“热点”和红绿灯规则造成的节点聚簇行为能够增强网络连通度以及节点分布不均匀使得VANET具有较高中心度等结论；文献[9]假设“车间时距服从爱尔朗分布”，然后在此基础上对VANET下的网络连通",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "性进行了建模，但车间时距是否服从爱尔朗分布目前仍缺乏足够的交通数据统计验证和数学理论证明。鉴于此，有必要对VDTN环境下的网络连通性建模进行深入地研究，并以真实的交通数据为基础对理论模型进行分析验证。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "考虑到同向行驶的车辆易于实现数据的成功转发，因此，本文仅对车辆同向行驶的VDTN环境下网络连通性进行研究。首先，假设车辆驶入车道的过程服从参数为的泊松过程，并在此基础上得出车间时距服从指数分布，继而进一步研究车道上车辆之间的连通概率情况。最后，通过在城市交通仿真平台(simulationofurbanmobility，SUMO)对所提出的联通概率模型进行分析验证，地图和模型验证所需要的参数选用了欧洲有代表性的中等规模城市卢森堡。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 网络模型和假设",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设每条车道的长度为 $L$ ，相对于车辆间的通信距离而言车道宽度可以忽略不计。如图1所示，为道路中的车流模型。 $X _ { i }$ 代表车流到达观察点这个泊松过程在 $\\scriptstyle t = 0$ 时刻两个相邻车辆之间的车间距，车辆节点通信范围由 $R$ 来表示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "下面给出两个基本假设：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）车辆在道路中的速度 $\\nu$ 是相互独立的，且速度 $\\nu$ 在道路中出现的频率服从参数为 $N ( \\mu , \\sigma )$ 的正态分布[0,11]。b）车辆驶入车道的过程服从参数为λ的泊松过程，λ是单位时间内驶入道路的车辆平均数[12,13]。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c6882f989100c4fb175ca2bc747516a1b7b65878d2a454c4fc310edb90335d7.jpg",
+        "img_caption": [
+            "图1道路中的车流模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 车载容迟网络的连通性建模",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1基于泊松过程的车间时距分布",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "车间时距对网络连通性建模具有重要的作用，它指的是道路中同向连续行驶的相邻两车车头分别经过道路的某一断面（图2中的观察点）时所用时间的时间间隔。对于参数为λ的泊松过程，使用 $N ( t )$ 表示t时刻已到达的车辆数，根据泊松过程的定义，对于任意时刻 $h$ ，在长度为 $t$ 的时间区间内到达 $n$ 辆车的概率可表示为式(1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以 $T _ { 1 }$ 表示第一辆车到达道路观察点的时刻，对于 $n \\geq 2$ ，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以 $T _ { n }$ 表示第 $^ { n - 1 }$ 辆与第 $n$ 辆车之间的到达时间间隔，则时间序列 $\\{ T _ { n } , n \\geq 1$ }为车间时距序列。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP \\{ N ( h + t ) ^ { - } N ( h ) { = } n \\} = { \\mathrm { e } } ^ { - \\lambda t } { \\frac { ( \\lambda t ) ^ { n } } { n ! } } , ~ n { = } 0 , 1 , \\cdots\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设定第一辆车在时刻 $\\mathbf { \\chi } _ { t } ^ { }$ 之后到达观察点(即事件 $\\{ T _ { 1 } > \\ t \\}$ 发生)，当且仅当泊松过程在时间区间 $[ 0 , t ]$ 之间没有车辆驶过，如式(2)所示。由此可见， $T _ { 1 }$ 服从均值为 $1 / \\lambda$ 的指数分布。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP \\{ T _ { 1 } > t \\} = P \\{ N ( t ) = 0 \\} = e ^ { - \\lambda t }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "继而得出 $T _ { 2 }$ 的分布，如式(3)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } { P \\{ T _ { 2 } > t \\vert T _ { 1 } = h \\} = P \\{ ( h , h + t ] \\stackrel {  } { \\dotsc } | \\boxplus 0 \\land \\frac { \\scriptscriptstyle { q } \\dotsc \\# \\overrightarrow { p } } { \\dotsc } \\dotsc \\vert \\} \\dotsc | T _ { 1 } = h \\} } \\\\ & { } & { = P \\{ ( h , h + t ] \\stackrel {  } { \\dotsc } \\dotsc \\Vert \\overrightarrow { q } \\dotsc \\Vert \\overrightarrow { p } \\dotsc \\Vert \\dotsc \\} \\stackrel { \\scriptscriptstyle { q } \\dotsc } { \\dotsc } ( \\boxplus \\det \\frac { \\textnormal {  } } { \\dotsc } \\dotsc \\boxed { \\frac { q } { \\dotsc } } \\dotsc h \\dotsc } \\\\ & { } & { = e ^ { - \\lambda t } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由此可得， $T _ { 2 }$ 也服从均值为 $1 / \\lambda$ 的指数分布，且 $T _ { 2 }$ 与 $T _ { 1 }$ 独立。重复以上论证过程，可得车间时距服从参数为 $\\lambda$ 的指数分布，如式(4)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP \\{ T _ { i } > t \\} = e ^ { - \\lambda t }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2VDTN网络的连通性建模",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设道路上每一辆车的车速 $\\nu \\in \\left\\{ \\nu _ { 1 } , \\nu _ { 2 } , \\cdots , \\nu _ { M } \\right\\}$ 。所有车速为$\\nu _ { i }$ 的车构成车辆子集 $C _ { i } ( i { = } 1 , \\cdots , M )$ 。令 $\\left\\{ X _ { n } ^ { i } \\right\\}$ $( n { = } 1 , \\cdots , \\big | C _ { i } \\big | )$ 表示车辆子集 $C _ { i }$ 中的相邻车辆在 $\\scriptstyle t = 0$ 时刻的车间距，其中 $\\boldsymbol { X } _ { 1 } ^ { i }$ 表示 $\\scriptstyle t = 0$ 时刻 $C _ { i }$ 中的第一辆车与观察点之间的距离，$X _ { n } ^ { i } \\left( n \\geq 2 \\right)$ 表示 $C _ { i }$ 中距离观察点第 $n$ 近与第 $\\left| n \\mathrm { - } 1 \\right.$ 近的车之间距离。令 $\\Big \\{ T _ { n } ^ { i } \\Big \\} ( n = 1 , \\cdots , \\Big | C _ { i } \\Big | )$ 表示车辆子集 $C _ { i }$ 中的相邻车辆到达观察点的车间时距，其中 $T _ { 1 } ^ { i }$ 表示 $C _ { i }$ 中的第一辆车到达观察点的时刻， $T _ { n } ^ { i } \\left( n \\geq 2 \\right)$ 表示 $C _ { i }$ 中距离观察点第 $n$ 近与第 $^ { n - 1 }$ 近的车到达观察点的车间时距。由上文可知，车辆子集 $C _ { i }$ 中的车辆到达观察点的过程是服从参数为 $\\lambda _ { i }$ 的泊松过程，如式(5)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP \\big ( X _ { n } ^ { i } > x \\big ) = P \\big ( \\nu _ { i } T _ { n } ^ { i } > x \\big ) = P ( T _ { n } ^ { i } > \\frac { x } { \\nu _ { i } } ) = e ^ { - \\frac { \\lambda _ { i } } { \\nu _ { i } } x }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此， $C _ { i }$ 中相邻两车之间的距离 $\\left\\{ X _ { \\mathfrak { n } } ^ { i } \\right\\} ( n = 1 , \\cdots , | C _ { i } | )$ 是独立同分布的，且服从参数为 $\\lambda _ { \\scriptscriptstyle i } / \\nu _ { \\scriptscriptstyle i }$ 的指数分布。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "令 $\\left\\{ X _ { i } \\right\\} \\left( i \\geq 1 \\right)$ 表示 $\\scriptstyle t = 0$ 时刻相邻两车的车间距，其中 $X _ { \\mathfrak { i } }$ 表示 $\\scriptstyle t = 0$ 时刻全体车辆中第一辆车与观察点之间的距离， $X _ { n }$ （ $n \\geq 2$ )表示全体车辆中距离观察点第 $n$ 近与第 $^ { n - 1 }$ 近的车之间的距离。下面将基于各车辆子集 $C _ { i } \\left( i = 1 , \\cdots , M \\right)$ 中的相邻车间距 $\\left\\{ X _ { n } ^ { i } \\right\\} n = 1 , \\cdots , \\left| C _ { i } \\right|$ 的分布，推导全体车辆到达观察点这一非经典泊松过程在 $\\scriptstyle t = 0$ 时刻，车间距 $\\left\\{ X _ { i } \\right\\} ( i \\geq 1 )$ 概率分布。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "首先，令 $X _ { 1 } = \\operatorname* { m i n } \\big \\{ X _ { 1 } ^ { i } \\big \\} ( i = 1 , 2 , \\cdots , M )$ ，可得式(6)。因此,",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$X _ { \\mathfrak { i } }$ 服从参数为 $\\sum _ { i = 1 } ^ { M } \\frac { \\lambda _ { i } } { \\nu _ { i } }$ 的指数分布。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { P \\big ( X _ { 1 } > x \\big ) = P \\Big ( \\operatorname* { m i n } \\big \\{ X _ { 1 } ^ { 1 } , X _ { 1 } ^ { 2 } , \\cdots , X _ { 1 } ^ { M } \\big \\} > x \\Big ) } \\\\ { \\qquad = P \\Big ( X _ { 1 } ^ { 1 } > x , X _ { 1 } ^ { 2 } > x , . . . . , X _ { 1 } ^ { M } > x \\Big ) } \\\\ { \\qquad = e ^ { - \\displaystyle \\sum _ { i = 1 } ^ { M } \\frac { \\lambda _ { i } } { v _ { i } } . x } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "再令 $i _ { 1 } = \\underset { i } { \\arg \\operatorname* { m i n } } \\left\\{ X _ { 1 } ^ { i } \\right\\} ( i = 1 , 2 , \\cdots , M )$ ，可得式(7)(8)。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { _ 2 } = \\operatorname* { m i n } \\left\\{ \\begin{array} { l } { { X _ { _ 1 } ^ { 1 } - X _ { _ 1 } ^ { i _ { 1 } } , X _ { _ 1 } ^ { \\mathrm { ~ 2 } } - X _ { _ 1 } ^ { i _ { 1 } } , . . . , X _ { _ 2 } ^ { i _ { 1 } } , . . . , X _ { _ 1 } ^ { \\mathrm { ~ M } } - X _ { _ 1 } ^ { i _ { 1 } } \\left| X _ { _ 1 } ^ { 1 } > X _ { _ 1 } ^ { i _ { 1 } } , \\right. } } \\\\ { { \\left. \\vphantom { \\sum _ { 1 } ^ { i _ { 1 } } } X _ { _ { 1 } } ^ { \\mathrm { ~ 2 } } > X _ { _ { 1 } } ^ { i _ { 1 } } , . . . , X _ { _ { 2 } } ^ { i _ { 1 } } > X _ { _ { 1 } } ^ { i _ { 1 } } , . . . , X _ { _ { 1 } } ^ { \\mathrm { ~ M } } > X _ { _ { 1 } } ^ { i _ { 1 } } \\right. } } \\end{array} \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { P \\big ( X _ { _ 1 } > x \\big ) = P \\displaystyle \\left( \\operatorname* { m i n } \\left\\{ X _ { _ 1 } ^ { 1 } - X _ { _ 1 } ^ { 1 } , X _ { _ 1 } ^ { 1 } - X _ { _ 1 } ^ { 1 } , \\ldots , X _ { _ 2 } ^ { 1 } , \\ldots , X _ { _ 1 } ^ { n } - X _ { _ 1 } ^ { 1 } \\right\\} > x \\bigg | X _ { _ 1 } ^ { 1 } > X _ { _ 1 } ^ { 1 } , \\right) } \\\\ & { \\qquad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { \\qquad = P \\Big ( X _ { _ 1 } ^ { 1 } > x , X _ { _ 1 } ^ { 2 } > x , \\ldots , X _ { _ 1 } ^ { n } > x , \\ldots , X _ { _ 1 } ^ { n } > x \\Big ) } \\\\ & { \\qquad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\frac { \\tilde { X } _ { _ 1 } ^ { n } } { x ^ { n } } , } \\\\ & { \\qquad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { \\qquad = e ^ { \\mathrm { ~ a n ~ } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因此， $X _ { _ 2 }$ 也服从参数为 $\\sum _ { i = 1 } ^ { M } \\frac { \\lambda _ { i } } { \\nu _ { i } }$ 的指数分布，且与 $X _ { 1 }$ 是相互独立的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "继而，可推出 $X _ { 3 } , X _ { 4 } , \\dots$ 均服从参数为 $\\sum _ { i = 1 } ^ { M } \\frac { \\lambda _ { i } } { \\nu _ { i } }$ 的指数分布，且 $X _ { 1 } , X _ { 2 } , \\dots$ 之间相互独立。综上， $\\left\\{ X _ { i } \\right\\} ( i \\geq 1 )$ 服从参数为$\\sum _ { i = 1 } ^ { M } \\frac { \\lambda _ { i } } { \\nu _ { i } } = \\lambda \\sum _ { i = 1 } ^ { M } \\frac { p _ { i } } { \\nu _ { i } }$ 的指数分布，如式(9)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP ( X _ { i } > x ) = e ^ { - \\lambda \\sum _ { i = 1 } ^ { M } { \\frac { p _ { i } } { \\nu _ { i } } } x }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据第1章中的基本假设，速度 $\\mathbf { \\Psi } _ { \\nu }$ 服从参数为 $N ( \\mu , \\sigma )$ 的正态分布， $\\mu$ 为车速的平均值， $\\sigma$ 为车速得标准差，则其概率密度函数如式(10)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf \\left( \\nu \\right) = \\frac { 1 } { \\sigma \\sqrt { 2 \\pi } } e ^ { - \\frac { \\left( \\nu - \\mu \\right) ^ { 2 } } { 2 \\sigma ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设当前车道上车速 $\\nu$ 的最小值和最大值分别为 $\\nu _ { \\mathrm { m i n } }$ 和 $\\nu _ { \\mathrm { m a x } }$ 。综合式(9)(10)，车辆速度 $\\nu$ 在整个速度区间 $[ \\nu _ { \\operatorname* { m i n } } , \\nu _ { \\operatorname* { m a x } } ]$ 中出现的概率如式(11)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP { \\left( { X } _ { i } > x \\right) } = e ^ { - \\lambda \\int _ { { \\nu } _ { \\operatorname* { m i n } } } ^ { { \\nu } _ { \\operatorname { m a x } } } \\frac { p _ { \\nu } } { \\nu } d { \\nu } \\cdot x } = e ^ { - \\lambda \\int _ { { \\nu } _ { \\operatorname* { m i n } } } ^ { { \\nu } _ { \\operatorname* { m a x } } } \\frac { \\hat { f } \\left( \\nu \\right) } { \\nu } d { \\nu } \\cdot x }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "继而可得相邻两车车间距累积分布函数，如式(12)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF \\big ( X _ { i } \\big ) = P \\{ X _ { i } \\leq x \\} = 1 - e ^ { - \\lambda \\int _ { \\nu _ { \\operatorname* { m i n } } } ^ { \\nu _ { \\operatorname* { m a x } } } \\frac { \\hat { f } ( \\nu ) } { \\nu } d \\nu \\cdot x }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "道路中平均车辆密度如式(13)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho _ { \\mathrm { a v e r a g e } } { = } \\frac { 1 } { \\operatorname { E } \\big ( X _ { i } \\big ) } { = } \\lambda \\int _ { \\nu _ { \\mathrm { m i n } } } ^ { \\nu _ { \\mathrm { m a x } } } \\frac { \\hat { f } ( \\nu ) } { \\nu } d \\nu\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由式(13)可得道路上平均车辆数 $N _ { a v e r a g e }$ ，如式(14)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN _ { a \\mathrm { v e r } a g e } = L \\rho _ { \\mathrm { a v e r a g e } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当两个车辆节点间的车间距小于或等于通信距离 $R$ 时，视为车辆节点处于连通状态，由此可获得路段中 $N _ { a \\nu e r a g e }$ 辆车间的连通概率的计算公式，即为文章所研究的网络连通概率，如式(15)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { P _ { N _ { a v e r a g e } } = P \\left\\{ X _ { 1 } \\leq R , X _ { 2 } \\leq R , \\cdots , X _ { N _ { a v e r a g e ^ { - 1 } } } \\leq R \\right\\} } \\\\ & { \\qquad = \\prod _ { i = 1 } ^ { N _ { a v e r a g e ^ { - 1 } } } P \\left\\{ X _ { i } \\leq R \\right\\} } \\\\ & { \\qquad = \\left( 1 - e ^ { - \\lambda \\int _ { \\nu _ { \\operatorname* { m i n } } } ^ { \\nu _ { \\operatorname* { m a x } } } \\frac { \\hat { f } ( \\nu ) } { \\nu } d \\nu \\cdot R } \\right) ^ { N _ { a v e r a g e ^ { - 1 } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同理，可以根据式(15)推导出的单路段网络连通概率推算出整个路网上的网络连通概率模型。然而，鉴于计算整个路网范围内的网络连通概率对于VDTN的数据转发并无实际意义，本文以实际数据转发为背景，计算从源节点到目的节点所经过路段的网络连通概率。下面给出详细的阐述。如图2所示，十字路口处的基础设施I作为协调器，当需要发送消息时，源节点 $s$ 向其最近的交叉口处的基础设施发送请求，并将目的节点与自身的位置信息一并发送给该基础设施。基础设施在完成通往目的节点所在路段的各个路径连通概率的计算之后，向源节点反馈网络连通概率最大的路径信息给源节点，具体计算方法如下。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图2显示源节点 $s$ 可通过2条路径向目的节点 $D$ 转发数据。一条是通过最短路径 $R 1$ 到达目标路段 $R 4$ ，另一条是通过$R ^ { 2 } { - } R ^ { 3 }$ 到达目标路段 $R 4$ 。用符号 $P _ { R _ { i } }$ 来表示不同路段中车辆间的网络连通概率，则传输路径上的网络连通概率可由公式(16)计算得出。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { c } = \\prod _ { R _ { i } \\in R } P _ { R _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $P _ { c }$ 为源节点到目标节点所经过路段的网络连通概率；R为道路的集合； $P _ { R _ { i } }$ 为每个路段 $\\mathbb { R } _ { \\mathrm { i } }$ 上的网络连通概率，由式(15)计算得出。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac80d4df6c7a739ef44081135f1d74d2d0511ed924a68c2e53d2eee1406c751b.jpg",
+        "img_caption": [
+            "图2路网中的网络连通模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于路段R1有不连通的路段空洞，使得路径R1—R4上网络的连通性取决于路段 $R 1$ 上虚线段相连两车是否处于对方的通信范围以内。当且仅当后车大于前车的速度且时间足够长时，路段R1上的车辆才是连通的。而路段R2—R3—R4上车辆间的网络一直属于连通状态，因此，源节点选择此路段作为实际的路由转发路线。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 网络连通性仿真与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 仿真工具简介",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "城市交通仿真平台(simulation ofurban mobility，SUMO)[14]是一个开源的、微观的、多模式的仿真软件，该软件始于2000年，它是德国宇航中心(German Aerospace Center(DLR))的研发成果。研发SUMO的主要目的是给交通研究组织提供一个实现和评估自己算法的工具。SUMO优点很多，主要包括：a）支持VISUM，XML，OSM等多种网络格式的导入；b）具有微观路径，每个车辆一个路径，可实现动态用户分配；c)具有高可移植性，仅使用标准 $\\scriptstyle { \\mathrm { C } } + +$ 库和兼容类库，主要是Linux发行包；d）具有高互操作性，因为其仅使用XML数据;e)运行速度快，可管理具有几万条街道的网络。目前，SUMO软件已成为车辆交通研究者的标准仿真分析平台。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2实验环境与实现过程描述",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验使用SUMO仿真平台验证所提出的网络连通性模型及其相关车流理论。实验中采用Luxembourg SUMO Traffic(LuST)[4作为仿真场景，如图3所示。LuST中所有路段的场景参数值均已被设置好，场景参数主要包括道路拓扑和车辆移动模式。LuST可提供一个能够在场景规模、现实性和持续时间方面均满足仿真需求的方案。LuST场景的实际地理位置设置在卢森堡市，卢森堡是一个中等规模的城市，它的城市道路拓扑在欧洲的中等规模城市中具有代表性。LuST构建的过程中充分考虑了卢森堡市的日常真实交通需求以及该地区的车辆移动模式，因此，可以精确仿真关于卢森堡地区的全天候的交通状况。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "仿真实验从LuST中选取两条公路的部分路段作为实验观察路段，将每个观察路段的入口设置为观察点。为了验证第1节中定义的两个基本假设，利用SUMO软件在各个观察点上都设置类型为InstantaneousInductionLoops 的探测器，从而可以获得包括车辆经过观察点的时间和车辆经过观察点的速度在内的统计量，继而验证各种车速出现的频率是否服从正态分布以及车辆经过观察点的过程是否为泊松过程。图4为仿真过程中的一条观察路段，紫红色的小方块即是设置在该观察路段上的探测器。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了验证道路平均车辆数和网络连通性理论推导的准确性，在 SUMO 软件内将仿真输出(simulation output)设置为 fcd output类型，从而获得仿真过程中每一帧（默认值为60帧/min）的仿真场景详细信息，包括场景中各车辆位置、速度、所在路段等。在每一帧中，首先统计各观察路段上的车辆数，继而综合各帧数据并最终求得各观察路段的道路平均车辆数 $N _ { \\mathit { a v e r a g e } }$ 。紧接着，根据各观察路段上的车辆位置排布，判断各观察路段的车辆连通状况。然后，综合各帧数据求得各观察路段的网络连通概率$P _ { N _ { a v e r a g e } } ~ \\circ$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cc89996987738492a278a93b8eba91c8b2ed68ec19250516af163dce551882fe.jpg",
+        "img_caption": [
+            "图3SUMO 中的仿真实验场景"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3 实验结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本次仿真实验对每个观察路段各进行300次观察，每次的观察时长为1h，观察时段都选取在 $7 { : } 3 0 \\ \\mathrm { a . m . } { \\sim } 8 { : } 3 0 \\ \\mathrm { a . m }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/116013aeb6d23a26ed35bccdd2b9115b18d3d54027ddd93212f635f6747c35b3.jpg",
+        "img_caption": [
+            "图4SUMO 中设置的观察路段"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1）车辆移动模型的验证与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图5和6是为了验证LuST中车流数据是否符合第1节中关于车流模型的基本假设。各观察路段的观察点处设置探测器可以获取所有经过观察点的车辆速度。对300次的观察获取到的经过各观察点的车速数据进行汇总统计。图5是对其中一个观察点进行统计的结果。从图中可以看出，车辆在该路段上的车辆速度分布在 $8 ~ \\mathrm { { m } / \\mathrm { { s } } \\mathrm { { \\sim } 1 8 ~ \\mathrm { { m } / \\mathrm { { s } } } } }$ 间，且在速度区间 $[ 8 \\ \\mathrm { m } / \\mathrm { s } , 1 8 \\ \\mathrm { m } / \\mathrm { s } ]$ 中的各种速度出现的频率服从正态分布，从而验证了第1章中道路上的各种车辆速度出现的概率服从正态分布的假设合理性。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea811c427b3c3ce6868ac656621555da2a4e0ab55f8290050eb46a975587fda8.jpg",
+        "img_caption": [
+            "图5车辆速度概率分布统计"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "此外，观察点处设置的探测器还可以获取到达各观察点车辆的到达时间。图6是对长度为 $1 ~ \\mathrm { k m }$ 的观察路段上的观察点的统计结果。从中可以看出，如果将观察时段 $7 { : } 3 0 \\mathrm { a . m }$ 至8:30a.m.划分成时间间隔为60s的时间区间，比如 $7 { : } 3 0 \\ \\mathrm { a . m . } { \\sim } 7 { : } 3 1$ a.m.,7:31a.m.\\~7:32a.m.,..,8:29a.m.\\~8:30 a.m.，那么，在时间间隔为60s的时间区间内，车辆到达数围绕7.86（图6中的红色虚线）上下波动。因此，车辆到达该观察点的过程是一个参数$\\lambda { = } 0 . 1 3 1$ 辆/s 的泊松过程，从而验证了第1章中车辆到达道路的过程服从泊松分布的假设合理性。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d6030b7dd29a531c2d29e97c1f14895d4803aa14f0efb8d9d801fab64e4a4c19.jpg",
+        "img_caption": [
+            "图6车辆到达率统计"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2)网络连通性理论验证与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在时长为1h的观察中，SUMO的fcdoutput记录方式将记录观察时段中仿真场景每一帧（默认值为60帧/min）的详细信息，其中包含场景的当前帧中所有车辆的位置信息。从而可以获得各观察路段在每一次观察过程中每一帧的路段上的车辆数。图7中蓝色锯齿形曲线对应的300次观察中每次观察的各帧车辆数目的平均值。对每次观察的平均车辆数再取平均值即对应图中蓝色实线，而红色虚线表示利用式(14)计算出的理论平均车辆数，不难发现道路中平均车辆数的实验值与理论值一致，由此验证了道路中平均车辆数理论计算的正确性和精度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3813fd12693ce50b51ca2a51f95b91e9e52d7506a31bfed625a73e2a2f918ab9.jpg",
+        "img_caption": [
+            "图7道路中的车辆数统计"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "下面对网络连通概率的估计进行验证。在SUMO中对选取的两个观察路段分别进行观察。每次观察期间，通过场景中每帧的车辆位置信息检查选取的两条路段是否连通，则每次观察共获取3600个网络连通状态。假设第 $i$ 次观察过程中，路段1中有 $k$ 个网络连通状态表明路段1是连通的，那么路段1在第$i$ 次观察过程中的车辆连通概率为 $k / 3 6 0 0$ 。对300次观察的车辆连通概率求均值作为该路段的车辆连通率。图8为两个观察路段的网络连通性实验与理论的对比。其中道路1长度为2.4km，道路2长度为 $1 \\mathrm { k m }$ ，根据每个路段统计出的平均车速、车速标准误差以及车辆到达率，可由式(15)计算出连通率理论值，实验中设置通信半径为 $0 { \\sim } 6 0 0 \\mathrm { ~ m ~ }$ ，车间距小于通信半径即视为两车辆连通。由图8所示，网络连通概率实验所得曲线与理论曲线吻合，由此验证了文章提出的网络连通性模型的正确性。此外，道路连通概率随着通信半径 $R$ 的增大呈指数型增长，且当车辆的通信半径大于 $4 0 0 \\mathrm { m }$ 时，连通概率大于 $80 \\%$ ，且随着车辆节点通信半径的继续增长，道路连通性持续增长并逐渐呈现出稳定状态。连通概率反映了车辆间互相连接通信的强度，仿真结果证明了网络连通性实验与理论的一致性，从而验证了服从指数分布的车间距的有效性，一个良好的网络连通性模型必将对路由和数据转发的设计起到重要的理论指导意义。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/eeab5b9ffb81ccb7c8cd689318b89113e216807fcdbcbc53b75e1752422db078.jpg",
+        "img_caption": [
+            "图8网络连通性实验与理论计算结果对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文对VTDN 环境下的网络连通性问题进行建模和仿真分析。主要工作如下：从车辆驶入车道的过程服从泊松过程，以及车辆在道路中的速度服从正态分布两个基本假设入手，首先给出基于泊松过程的车间时距分布。然后在此基础上，通过严谨的数学推导得到了网络的连通概率。网络的连通率与车辆的速度 $\\nu$ ，车辆的到达率λ，节点的通信距离 $R$ ，道路长度 $L$ 和车辆密度 $\\rho$ 相关。之后，通过SUMO仿真平台验证所提出的车辆移动模型及其网络连通性模型。实验环境选择欧洲有代表性中等规模城市卢森堡，与网络连通率相关的上述参数均来自于卢森堡市 $7 { : } 3 0 \\mathrm { a . m . } { \\sim } 8 { : } 3 0 \\mathrm { a . m } .$ 的交通数据。实验对两个基本假设，车辆速度概率分布和车辆到达率进行了理论计算和仿真实验分析。实验结果表明本文所提出的假设具有合理性和正确性。最后对道路中的平均车辆数和网络连通概率进行了仿真，结果表明理论模型的计算值和仿真实验结果是一致的。本文的工作为后续VTDN环境下基于网络连通性的路由和数据转发研究提供了重要的移动模型和理论模型参考。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Pereira PR,Casaca A,Rodrigues JJ,et al.From delay-tolerant networks to vehicular delay-tolerant networks [J].IEEE Communications Surveys & Tutorials,2012,14(4):1166-1182.   \n[2]Burgess J,Gallagher B,Jensen DD,et al.MaxProp:routing for vehiclebased disruption-tolerant networks [C]// Proc of the 25th International Conference on Computer Communications.[S.1.] : IEEE Computer Society, 2006: 1-11.   \n[3]Soares VN,Rodrigues JJ,Farahmand F.GeoSpray: a geographic routing protocol for vehicular delay-tolerant networks [J].Information Fusion.2014, 15:102-113.   \n[4]Khabbaz MJ,Fawaz WF,et al.Probabilistic bundle relaying schemes in two-hop vehicular delay tolerant networks [J].IEEE Communications Letter, ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "∠UI1,1J (3): ∠01-205.   \n[5]Togou MA,Hafid A,Khoukhi L. SCRP: stable CDS-based routing protocol forurban vehicular Ad hoc networks [J].IEEE Trans on Intelligent Transportation Systems,2016,17(5): 1298-1307.   \n[6]Alsharif N,Cespedes S,Shen X.iCAR:intersection-based connectivity aware routing in vehicular Ad hoc networks [Cl//Proc of IEEE International Conference on Communications.[S.1.]:IEEE Computer Society, 2013: 1736-1741.   \n[7]冯慧芳，王瑞．衰落信道下车载自组织网络连通性分析[J].计算机工 程与应用,2016,52(18):133-138.   \n[8]杨卫东，冯琳琳，刘伎昭，等．车载自组织网络中网络连通特性研究 [J].通信学报,2012(s1):48-52.   \n[9]陈思敏，赵海涛，朱洪波，等．车载通信的网络连通性建模[J]．应用 科学学报,2017,35(1):63-70.   \n[10] Yousefi S,Altman E,El-Azouzi R,et al. Analytical model for connectivity in vehicular Ad hoc networks [J].IEEE Trans on Vehicular Technology,2008, 57 (6): 3341-3356.   \n[11] El-Atty S M A， Stamatiou G K. Performance analysis of multihop connectivity in VANET $[ \\mathrm { C } ] / \\AA$ Proc of the International Symposium on Wireless Communication Systems.[S.1.] :IEEE Computer Society,2010: 335-339.   \n[12] Wu C,JiY,Liu F,etal.Toward practical and intelligent routing in vehicular Ad hoc networks [J].IEEE Trans on Vehicular Technology,2015,64 (12): 5503-5519.   \n[13] Jia D,Lu K,Wang J.On The network connectivity of platoon-based vehicular cyber-physical systems [J]. Transportation Research Part C Emerging Technologies,2014,40 (1):215-230.   \n[14] Codeca L,Frank R,Engel T.Luxembourg SUMO trafic (LuST) scenario: 24 hours of mobility for vehicular networking research [C]// Proc of International Conference on Vehicular Networking.[S.1.] : IEEE Computer Society,2015: 1-8. ",
+        "page_idx": 5
+    }
+]

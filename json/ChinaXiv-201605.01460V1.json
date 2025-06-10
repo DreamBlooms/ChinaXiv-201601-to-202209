@@ -1,0 +1,324 @@
+[
+    {
+        "type": "text",
+        "text": "Behavioral/Cognitive ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Behavioral Oscillation in Priming: Competing Perceptual Predictions Conveyed in Alternating Theta-Band Rhythms ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yan Huang,1 Lin Chen,1 and Huan Luo2.3 1StateKeybited Psychology,PekingUiversityndPKU-G/GovenIstituteforBraiResearch,PekingUiversity,eijing,871,.Cina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Thebrainconstantlycreatesperceptualpredictionsaboutforthcomingstimulitguide perceptioneficiently.Abundantstudiesave demonstratedthatperceptualpredictions modulatesensoryactivitiesdependingonwhethertheactualinputsareconsistentwithone particularprediction.Inreal-lifecontexts,oweer,ultipleandvenonfliingpredtionsmightconcurentlyexisttoetested, requiringamultipredictioncordinationproces.Itremainslargelyunknohowmultiplehypothesesareconveyedandharmoizedto guidemoment-by-momentperceptionBasedonrecentfindingsrevealing thatmultiplelocationsaresampledalternativelyinvarious phaseofattentionalrhythms,wehypothesizethat thisoscilation-bsedtmporalorganizationmechanismmayalsounderliethemultipredictiocoodinationprocssToaddresthesueweusedellestablisedprimingpardigmsinombinationithatiresoled behavioralapproachtoinvestigatethefinetmporaldynamicsoftheultipredictionarmonzationcourseinumansubjects.Wefist replicateclassical primingefects insowlydeveloping trendsof primingtimecourses.econd,afterremovingthetypicalpriing patterns, we reveal a new theta-band $( { \\sim } 4 \\mathrm { H z } )$ oscillatory component in the priming behavioral data regardless of whether the prime was masked.Third,ehothatteseteta-bandprimingosilltionsrigeedbongutdincongruentpmesaeianoutf-se relationship.These findings suggest thatperceptual predictionsreturn tolow-sensoryareas notcontinuouslybutrecurrntlyina theta-band rhythm (every $2 0 0 - 3 0 0 \\mathrm { m s }$ )andthat multiple predictions are dynamicall coordinated in time by being conveyedin diferent phases ofthe theta-band oscillations to achieve dissociated but temporally organized neural representations. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: behavioraloscilation; predictive coding; priming;rhythmic sampling; theta phase; time-resolved behavior ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We do notlive ina static and invariableworld; rather,external information dynamically evolves over time. Therefore, to cope adaptively with an ever-changing environment, the brain constantly creates perceptual predictions about forthcoming stimuli to guide perception efficiently (Rao and Ballard, 1999; Engel et al.,2001; Summerfield and Egner,2009; Bastos et al.,20l2; den Ouden et al.,20l2).Meanwhile,in most real-world contexts, multiple and even conflicting predictions might exist concurrently to be tested against the current inputs(Carpenter and Grossberg,1987; Mumford,1991,1992),requiring a multiprediction coordination process.However,the mechanisms by which the brain dynamically sends and coordinates multiple predictions to guide and modulate perception remain unknown. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Neuronal oscillations may act as a temporal organization infrastructure (Klimesch,1999; Ward,2003; Buzsaki,2006) to me diate dynamically and harmonize multiple perceptual hypotheses (Roelfsema et al., 1996; von Stein et al., 2000; Engel et al., 2001; Arnal et al., 2011). Recently, several psychophysical studies using a time-resolved behavioral measurement revealed rhythmic fluctuations (Landau and Fries,20l2; Fiebelkorn et al.,20l3a; Song et al.,20l4) directly in behavioral performances(‘behavioral oscillations') and demonstrated a novel oscillation-based temporal mechanism in spatial attention such that multiple locations are sampled alternatively in various phase of attentional rhythms.Based on these findings,we posit that this oscillation-based temporal organization mechanism may also underlie the multiprediction coordination process. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Here,we used priming paradigms (Eimer and Schlaghecken 2003; Sumner,2007; Huang et al.,201l) in combination with a time-resolved behavioral approach to address the issue.Ina typ ical priming trial,an initial feedforward input (i.e.,a prime) rapidly activates one perceptual prediction,which then descends through re-entrant pathways to lower levels,where they are matched to ongoing sensory inputs (i.e.,a probe that is either congruent or incongruent with the perceptual prediction triggered by the prime; Enns and Di Lollo,2ooO).As a result,we can plot the fine temporal course of the prediction re-entrance process by measuring performance of the subsequent probe at variable time lags after prime presentation. Moreover, by examining the temporal relationship in the priming courses between congruent and incongruent probe,we could also study how multiple perceptual predictions interact dynamically with each other, given that equally likely predictions about the probe have to be held simultaneously. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/3a7084a1771000b61347e0c15b5cbb0f819c84fab0a5d7f9b3c878deb95eb6a6.jpg",
+        "img_caption": [
+            "Figure 1.Experiment procedure and design.A,Left, Masked priming.Subjects were instructed to fix their gaze on a central spot and make speeded responses to the orientation of a 100 ms probe stimulus (pointing left orright).The stimulus sequence consisted ofa 20 ms prime stimulus, $\\mathsf { a } 6 0 \\mathsf { m s }$ blank screen,a 100 ms mask stimulus,and a $1 0 0 \\mathrm { m s }$ probe stimulus. Right, Unmasked priming.Subjects performed the same task as in masked priming.Stimulus sequence consisted of a 20 ms prime stimulus and a 100 ms probe stimulus without a mask in between.Notably,the probe stimulus occurred at varying intervals $( 0 \\mathsf { t } 0 \\sim 0 . 8 \\mathsf { s } )$ after onset of the preceding stimulus; the SOA for each trial was pseudorandom,ranging from O to 0.8 s in stepsof $2 0 \\mathsf { m s }$ ,balanced across trials to have exactly the same likelihood forall conditions. $B ,$ Prime stimuli contained congruent (same orientation),incongruent (different orientation) or neutral (lower) information about the subsequent probe stimuli. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Specifically,as illustrated in Figure lA,participants fixed their gaze on the central spot and made speeded responses to orientation of the probe stimuli (pointing to left or right） with their reaction time (RT) recorded.The $1 0 0 \\mathrm { { m s } }$ probe was preceded by a $2 0 \\mathrm { m s }$ prime stimulus,which was either backward masked (Fig. lA,left) or unmasked (Fig.lA,right).The probe and the prime stimuli had either the same(congruent condition） or different (incongruent condition) orientations (Fig.1B).Critically, to assess the fine temporal dynamics of priming courses,we ranged the stimulus onset asynchronies (SOAs; masked priming: maskto-probe SOA; unmasked priming: prime-to-probe SOA) from 0 to $0 . 8 \\mathrm { ~ s ~ }$ in steps of $0 . 0 2 \\ : s$ (Fig. lA), corresponding to a sampling frequency of $5 0 \\mathrm { H z }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MaterialsandMethods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ethics statement. The study was approved by the ethics committee of Institute of Biophysics at Chinese Academy of Sciences, Beijing. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Subjects.Fifty-six human subjects(18 for the masked priming experiment,8 males;16 for the unmasked priming experiment,6 males;16 for the neutral priming experiment,6 males;6 for the single-subject experiment,4 males; all right handed,average age 24 years) participated in the experiments.All subjects had normal or corrected-to-normal visual acuity,provided written informed consent,and were paid to compensate them for their time. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experimental procedures.Subjects satinadarkroom $5 7 \\mathrm { c m }$ in front of a CRT monitor $( 1 0 0 ~ \\mathrm { H z } )$ ）with their heads stabilized inachinrest and their responses were recorded using a parallel port response keypad. Visual stimuli were presented in black $( 0 \\mathrm { \\ c d } / \\mathrm { m } ^ { 2 } ) \\$ ）ona gray background $( 0 . 9 9 \\mathrm { c d } / \\mathrm { m } ^ { 2 } )$ ).As shown in Figure 1,the prime stimulus was a left- or right-pointing arrow $( 2 . 8 6 ^ { \\circ } \\times 1 . 2 1 ^ { \\circ } .$ ),fitting into the inner cutout of a mask with a rectangular outer shape $( 3 . 4 3 ^ { \\circ } \\times 1 . 7 9 ^ { \\circ } ,$ .The neutral prime stimulus was a rectangle of the same size as the arrow prime.The probe stimulus was a left-or right-pointing hollow arrow $( 6 . 2 1 ^ { \\circ } \\times 2 . 2 9 ^ { \\circ } )$ . ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In each trial,subjects were requested to maintain visual fixation at a central spot and make speeded response to the orientation of a probe stimulus (pointing left or right).The RTs in each trial were calculated from the offset of the probe stimulus.In masked and unmasked priming experiments,the prime and probe are either congruent (pointing in the same direction) or incongruent (pointing ina different direction).In the neutral masked priming experiment,the prime is a“neutral\" rectangle figure that did not contain relevant orientation information for the subsequent probe stimulus.The masked priming experiment consisted of a $2 0 \\mathrm { m s }$ prime stimulus,a 6O ms blank screen,a $1 0 0 \\mathrm { { m s } }$ mask stimulus,and a $1 0 0 \\mathrm { { m s } }$ probe stimulus (Fig.lA,left),whereas in the unmasked priming experiment (Fig.lA,right),the stimulus sequence consisted of a $2 0 ~ \\mathrm { { m s } }$ prime stimulus and a $1 0 0 \\mathrm { { m s } }$ probe stimulus without a mask stimulus in between.The intertrial interval ranged from1 to 2 s.Critically,to achieve dense temporal assessment of behavioral performance,we used timeresolved measurement such that the probe stimuli appeared at one of 40 temporal intervals from O s to $0 . 8 \\ s$ in steps of $2 0 ~ \\mathrm { m s }$ (masked priming experiment: mask-probe SOA; unmasked priming experiment: primeprobe SOA),corresponding to a sampling frequency of $5 0 ~ \\mathrm { H z }$ .Each subject completed 16 trials for each condition (congruent and incongruent) at each of the 40 SOA intervals.The SOA of each trial was pseudorandom from O to $0 . 8 \\mathrm { ~ s ~ }$ in steps of $2 0 ~ \\mathrm { m s }$ ,balanced across trials to have exactly the same likelihood.For the single-subject study,each subject completed 64 trials for each condition(congruent and incongruent) at each SOA interval.For the masked priming task, the mask-probe SOA ranged from 0 to $0 . 4 \\ : s$ in steps of $2 0 ~ \\mathrm { { m s } }$ and, for the unmasked priming task, the prime-probe SOA ranged from O to $0 . 5 \\ : s$ in steps of $2 0 ~ \\mathrm { { m s } }$ .The reason we shortened the SOA range in the single-subject study was to obtain enough trials (64 instead of 16 trials in previous experiments) at each SOA interval to get a good approximation of the behavioral time courses in single subject. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Data analyses.BehavioralRTdata were analyzed with MATLAB(The MathWorks） using functions from the EEGLAB toolbox and CircStat toolbox.For each subject,we excluded RTs ${ > } 3$ SDs from the mean cross all trials.We calculated the temporal profile of RTs as a function of SOA from 0 to $0 . 8 \\ s$ in steps of $0 . 0 2 \\ s$ 0 $5 0 ~ \\mathrm { H z }$ sampling frequency） for each condition (congruent vs incongruent). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For each subject,we first extracted a slowly developing trend representing the classical priming effect time course by calculating the $2 4 0 \\mathrm { m s }$ (12 time bins） moving average of RT time courses for each condition (congruent and incongruent),respectively.Next, for each subject,we subtracted the slow trends from corresponding RT time courses to obtain detrended RT time courses separately for each condition to remove possible interferences from classical priming and expectancy effects (Fiebelkorn et al.,2013a; Song et al.,2014). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Next,to investigate the spectral characteristics of the detrended RT temporal profiles,we conducted spectrum analysis on the detrended RT time courses separately for each subject. Specifically,we performed fast ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fourier transform (FFT) to convert the priming time courses into the frequency domain (after zero padding and application of a Hanning window）separately for each condition (congruent and incongruent). To examine the phase relationship between congruent and incongruent conditions,we calculated the phase difference between congruent and incongruent conditions as a function of frequency from 0 to $2 0 \\mathrm { H z }$ (sampling frequencyof $\\mathrm { 5 0 H z }$ here) separately for each subject, then we calculated cross-subject coherence in the phase difference values,resulting in a congruent-incongruent (C-IC） phase difference coherence pattern as a function of frequency. Testing for nonuniformity for C-IC phase differences in the theta-band $\\left( 3 \\mathrm { - } 5 \\mathrm { H z } \\right)$ across subjects involved use of circular statistics (Rayleigh test for nonuniformity for circular data in CircStats toolbox). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We further performed a randomization procedure by shuffling the RT time series for congruent and incongruent conditions separately within each subject to assess statistical significance of observed priming oscillations at theta band as well as the C-IC phase relationship.After each randomization,we conducted FFT on surrogate signals,similar to that of the original RT data analysis; we repeated this procedure 2Oo times,arriving at a distribution of spectral power for each frequency point from which we obtained the $\\mathit { p } < 0 . 0 5$ threshold (uncorrected).We applied multiplecomparison correction to the uncorrected randomization threshold spectrum profile by setting the maximum across all frequency bins as the threshold (Nichols and Homes,2002; Song et al.,2014).Similarly,for each randomization, we conducted the same phase analysis on the surrogate signals by calculating cross-subject coherence in the C-IC phase difference,resulting ina distribution ofC-IC phase coherence for each frequency point, from which we obtained the $\\begin{array} { r } { p < 0 . 0 5 } \\end{array}$ threshold (uncorrected). Similar multiple-comparison correction analysis was applied by setting the maximum threshold values across all frequency bins as the final permutation threshold for cross-subject coherence in the C-IC phase difference. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Correlation analysis was performed to examine the relationship between the thetaband priming oscillations and the typical priming effects.Specifically,for each subject, we calculated the spectral amplitude of the theta-band rhythm for Congruent and Incongruent conditions respectively (i.e.,Congruent,Incongruent). Furthermore,to characterize the typical priming effects[(i.e.,positive compatibility effect (PCE),negative compatibility effect (NCE)],the slow trends for Congruent and Incongruent conditions were compared,resulting in C-IC difference waveforms in each subject. The PCE effects were calculated by averaging the C-IC differences within PCE time range (for masked priming,SOA within $0 { \\cdot } 1 0 0 \\ \\mathrm { \\ m s }$ ；for unmasked priming,SOA within $1 0 0 { - } 8 0 0 \\ \\mathrm { m s }$ ）andtheNCE effects were calculated by averaging within NCE time range (for masked priming,SOA within $2 0 0 - 8 0 0 ~ \\mathrm { m s }$ ; none for unmasked priming).The correlation analysis was then performed between the amplitude of the theta-band rhythms (Congruent and Incongruent） and the typical priming effects (PCE and NCE). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/38d2f879f8226b0a59f3a20a51b46b47159f90d2cea6d19cb731d39558695183.jpg",
+        "img_caption": [
+            "Figure 2.Masked priming.A, Grand average RT time courses $( \\boldsymbol { \\eta } = 1 8 ,$ mean $\\pm$ SEM) as a function of mask-to-probe SOA $( 0 - 0 . 8 5$ in steps of 0.o2 s),for congruent (red) and incongruent (black) conditions. $B ,$ Grand average 240 ms smoothed RT time courses representing slowlydeveloping trends,which resemble theclasicalmasked priming effcts (PCEfollowed by NCE\" pattern).C,GrandaveragedetrendedRTtimecoursesobtainedbysubtractingsowlydeveloping trendsshowninAfromraw RT timecourses shown in B.Black dots indicate statistically significant diference between congruentand incongruentconditions (pairedttest, $\\eta = 1 8 , p < 0 . 0 5 ) . D$ ,Grand average spectrum $( n = 1 8 )$ fordetrended RT time courses as a function offrequency of 0 to $2 0 H z$ forcongruent(red)and incongruent(black)conditions.Dashed lines represent the statisticall significance threshold $( p < 0 . 0 5 )$ after permutation testing and corrections for multiple comparisons for congruent (red)and incongruent (black) conditions,respectively.E,Cross-subject $( n = 1 8 )$ coherence in the phase diference between congruent and incongruent conditions as a function of frequency ranging from O to $2 0 ~ { \\mathsf { H } } z$ The dashed lines represent the corresponding statistical significance threshold $( p < 0 . 0 5 )$ after permutation testing and corrections for multiple comparisons.The red smallfigure shows polar plots for the distribution $( n = 1 8 )$ of phase difference between congruent and incongruent conditions in the theta-band $( 3 - 5 { \\mathsf { H z } } ,$ indicatedbyred star).Theredlinein thesmallpolarfigure indicates themean C-ICtheta-band phase difference across subjects. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results Alternating theta-band oscillations in masked priming time courses ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Eighteen subjects participated in the masked priming task (Fig. 1A,left) and performed well in the probe orientation discrimination task (percentage correct: $0 . 9 9 \\pm 0 . 0 0 1 8$ ).Only small number of trials were discarded due to either no response or out-of-range RTs(trial discarding percentage: $0 . 0 2 \\pm 0 . 0 0 2$ ).Figure2Aillustrates the raw RT time courses as a function of mask-to-probe SOAs under prime-probe congruent (red） and incongruent (black) conditions averaged across all subjects.Generally,the RT traces showed classical “facilitation followed by inhibition\"prim ing patterns,as revealed in previous masked priming studies (Eimer and Schlaghecken,20o3).Specifically,for short SOAs ( $\\cdot <$ $1 0 0 ~ \\mathrm { { m s } }$ ),the congruent condition elicited faster RTs than the incongruent condition (i.e.,PCE),whereas for longer SOAs,the priming effects reversed (i.e.,NCE) such that the congruent condition was slower than the incongruent condition. Furthermore and critically,the RT time courses displayed an oscillatory pattern in addition to the slowly developing“PCE followed by $\\mathrm { \\Delta N C E ^ { \\prime \\prime } }$ trend. Specifically,the NCE was not sustained but revealed an intermittent rhythmic pattern;in fact,statistically significant NCE effects occurred in several nonconsecutive temporal intervals and not at SOAs around 300 and $6 0 0 ~ \\mathrm { { m s } }$ (paired $t$ test, Fig. 2A).To better examine the oscillatory pattern embedded in RT time courses,we extracted slow trends ofRT time courses in each subjectby calculating $2 4 0 \\mathrm { m s }$ smoothed RT traces for the congruent and incongruent conditions separately (similar slow trends were obtained when using least-squares polynomial fiting method). The slowly developing trends exhibited a $^ { \\mathfrak { e } } \\mathrm { P C E }$ followed byNCE\"pattern (paired ttest,Fig.2B) resemblingclassical masked priming effects (Eimer and Schlaghecken,20o3). To remove possible interferences from the classical priming and expectancy patterns,we next removed the slow trends from the raw RT courses separately for each subject.Detrended RT time courses demonstrated a clear periodic pattern under both congruent and incongruent conditions (Fig.2C).Moreover, the oscillations under the two conditions were in a type of temporally switching relationship (Fig.2C),suggesting that the rhythms initiated by the congruent and incongruent primes might have a consistent phase lag relationship in the theta-band. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To further examine the characteristics of oscillatory components in masked priming,we next performed spectrum analyses on the detrended priming traces separately for each subject. Moreover,to determine whether they reflected simply random fluctuations in time,we performed permutation tests to examine statistical significances.Figure $2 D$ shows the grand average ( ${ \\bf \\dot { \\boldsymbol { n } } = }$ 18)power spectrum of the detrended RT traces for the congruent (red)and incongruent (black) conditions.Both congruent and incongruent conditions showed significant ( $\\dot { p } < 0 . 0 5$ ,corrected for multiple comparison) activations in the theta-band $( { \\sim } 4 \\mathrm { H z } )$ ： We next examined the phase relationship between the congruent (red) and incongruent(black） conditions by calculating crosssubject consistency in the C-IC phase differences as a function of frequency. As shown in Figure $2 E .$ ，the theta-band $( \\sim 4 \\ \\mathrm { H z } ,$ marked by red star） showed significant ( $\\dot { \\cdot } p < 0 . 0 5$ ，permutation test corrected formultiple comparison） cross-subject coherence in the C-IC phase difference.The C-IC theta-band phase difference,representing the phase lag between congruent and incongruent conditions,clustered around $1 0 8 . 4 ^ { \\circ }$ (Fig. $2 E .$ ,inset small figure) and was statistically significant (Rayleigh test, $p = 0 . 0 3 \\mathrm { \\cdot }$ ), supporting the consistent phase relationship in the theta-band rhythms between the congruent and incongruent conditions (Fig.2C).Finally,we found no correlations (Pearson's correlation, $n = 1 8$ ）between theta-band oscillatory components and classical priming effects (congruent vs PCE: $r = 0 . 0 5$ $p = 0 . 8 6$ incongruent vs PCE: $r = 0 . 1 2$ $p = 0 . 6 5$ ; congruent vs NCE: $r =$ $- 0 . 3 1$ $p = 0 . 2$ ; incongruent vs NCE: $r = - 0 . 0 9$ $p = 0 . 7 3$ ).In other words,the theta-band periodic pattern seems to be a separable component embedded in time-resolved priming time courses that is not attributable to classical priming effects. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In sum,we demonstrated that masked priming traces (Fig 2A) actually consist of two concurrent components,a well established $^ { \\mathfrak { e } } \\mathrm { P C E }$ followed by $\\mathrm { \\Delta N C E ^ { \\prime \\prime } }$ pattern (Fig.2B) widely reported in previous masked priming studies and,more critically,a new theta-band $( { \\sim } 4 \\mathrm { H z } )$ oscillatory component (Fig.2C) driven in an out-of-phase manner by congruent and incongruent primes. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Unmasked priming also reveals alternating theta-band oscillations ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The logical next question is,do theta-band oscillations only occur in masked priming or do they reflect a general phenomenon (i.e., prediction re-entrance and coordination）in priming? Unlike masked priming (Fig.1A,left),which is associated witha“PCEfollowed-by-NCE” pattern,unmasked priming (Fig.1A, right) reveals a“PCE-only” pattern.Theories abound to explain the dissociations between masked and unmasked priming (e.g., motor inhibition,perceptual interactions,mask-triggered inhibition; for review,see Sumner,2Oo7; Sohrabi and West,2009). Taking a different perspective here,we focused on examining the generality of rhythmic fluctuations in priming because both masked and unmasked priming are associated with the generative process with two concurrent perceptual predictions.Specifically, we investigated whether theta-band oscillations observed in masked priming also occur in unmasked priming despite their dissociated classical priming effects (PCE-followed-by-NCE vs sustained PCE only). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Sixteen subjects participated in the unmasked priming task (percentage correct: $0 . 9 9 \\mathrm { ~ \\pm ~ } 0 . 0 0 2$ ; trial discarding percentage: $0 . 0 2 5 \\pm 0 . 0 0 2$ ).As shown in Figure $3 A$ ,the unmasked priming tracesalso displayed an oscillatory pattern in addition to a slowly developing trend. Specifically,the congruent condition (red) elicited faster RTs than the incongruent condition (black）on average,consistent with the typical PCE pattern in unmasked priming (for review, see Sumner,2o07; Sohrabi and West, 2009); the fine temporal structure of the unmasked priming traces, again, showed a rhythmic pattern. After extracting and removing slowRT trends(PCE-only course,similar slow trends were obtained when using least-squares polynomial fitting method) representing the classical unmasked priming effect (Fig.3B),the detrended RT time courses (Fig.3C) demonstrated clear rhythmical fluctuations for both congruent (red） and incongruent (black)conditions.Initiated theta rhythms under both conditions were also in an out-of-phase relationship.Spectrum analysis and permutation testing supported significant theta-band $( { \\sim } 4 \\ \\mathrm { H z } )$ activations(Fig. $3 D$ ）and consistent theta-band phase differences between congruent and incongruent conditions (Fig. 3E); the C-IC phase lag clustered around $1 5 2 ^ { \\circ }$ (Rayleigh test, $p =$ 0.002).We found no correlations (Pearson's correlation, $n = 1 6$ ） between theta-band oscillatory components and classical PCE effects in unmasked priming (congruent vs PCE: $r = - 0 . 0 3 , p =$ 0.9;incongruent vs PCE: $r = - 0 . 2 9$ $p = 0 . 2 8 \\$ ） ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Taking these two experiments together,in addition to replicating classical priming effects (PCE-followed-by-NCE in masked priming;PCE-only in unmasked priming) in slowly de veloping trends,we discovered a general theta-band oscillation component in priming behavior regardless of whether the prime is masked.Furthermore,both congruent and incongruent conditions underwent these rhythmic modulations in an out-ofphase manner. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Neutral primes do not initiate priming oscillations ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Previous work has shown rhythmic patterns in visual detection aftera salient event (e.g.,an auditory sound; Fiebelkorn et al, 2011;Romei et al.,2Ol2),we next conducted a control masked priming task to determine whether a neutral prime (Fig. $1 B$ ,bottom),whichisa salientbut irrelevant event,couldalso initiate theta-band oscillations in subsequent probe performances.Sixteen subjects participated in the study and performed the same task (percentage correct: $0 . 9 9 \\mathrm { ~ \\pm ~ } 0 . 0 0 1$ ； trial discarding percentage: $0 . 0 2 3 \\pm 0 . 0 0 2$ ).Asillustrated in Figure 4A,the detrended RT time courses (middle） with neutral prime revealed smaller(cf. Figs.2D, $3 D$ ）and no significant spectral peaks in the theta band (right),indicating that salient but uninformative primes do not effectively initiate priming oscillations,possibly because of their failure to trigger particular perceptual predictions.These resultsalso suggest that onset-triggered periodicities in detection performances cannot account for the observed theta-band oscillations in the present studies. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Priming oscillations in individual subjects ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Finally,we investigated whether thetaband rhythms and the C-IC phase relationship in priming could be reliably demonstrated in individual subjects.We recruited additional subjects (three for masked priming and three for unmasked priming) to perform the priming task for 64 trials at each SOA value under each condition (congruent and incongruent). Figure 4B plots the rawRT time courses as a function of SOA under the congruent (red) and incongruent(black) conditions for each of the three subjects ina masked priming(Fig.4B,left)and an unmasked priming task (Fig.4B,right).Similar to the group results (see Fig.2C for masked priming; Fig.3C for unmasked priming), every individual subject showed reliable priming oscillations directly,as well as the C-IC switching patterns in raw RT traces. Note that despite the priming periodicities consistently shown in all subjects, the fine temporal structures varied to some extent across subjects.For example,in masked priming (Fig. 4B,left),subject 3 began to leave $\\mathrm { ^ { \\sc \\mathfrak { e } } P C E ^ { \\mathfrak { n } } }$ and enter the $^ { \\mathfrak { c } } \\mathrm { N C E } ^ { \\mathfrak { n } }$ pattern around $3 0 0 ~ \\mathrm { { m s } }$ ，whereas subject1 and subject 2 were still in the $\\mathrm { ^ { \\mathfrak { c } } P C E ^ { \\mathfrak { n } } }$ phase.Rhythmic fluctuations were most consistent across subjects during early SOA periods,likely reflecting temporary intersubject alignment by the resetting event (i.e.,the prime stimuli) and became gradually variable across subjects thereafter. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Using a fine-grained behavioral measurement, we assessed primingperformances in human subjects to investigate the fine tem poral structure of the multiprediction coordination processes during which the brain generates,sends,and harmonizes multiple and conflicting perceptual hypotheses about forthcoming inputs.Typical priming effects(\"PCE followed by $\\mathrm { { N C E } ^ { \\mathrm { { \\Rightarrow } } } }$ in masked primingand“PCE-only” in unmasked priming) were replicated in slowly developing trends. Critically,after removing classical priming patterns, we demonstrated a new theta-band oscillatory component driven in an out-of-phase manner by congruent and incongruent primes in both masked and unmasked priming tasks. Together,these results suggest that perceptual predictions descend to sensory areas not continuously but recurrently in a theta-band rhythmand multiple predictions are carried by feedback signals in a temporally dissociated \"competition-like\"manner (i.e.,conveyed in different phases of theta-band rhythms). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d3950f095adec0195ae59f145c9e96d712ddaa660ca310f832e02a62d74be13d.jpg",
+        "img_caption": [
+            "",
+            "Figure 3.Unmasked priming.A,Grand average RT time courses $( \\boldsymbol { n } = 1 6 ,$ mean $\\pm$ SEM)as a function of probe-to-probe SOA $( 0 - 0 . 8 5$ instepsof 0.02s)forcongruent(red)and incongruent (black)conditions.B,Grand average 240ms smoothed RT time coursesepresentingslowlydevelopingtrends,whichresembleclasicalunmasked primingefects(PCEonly\"pattern).,Grand average detrended RTtimecourses.Black dots indicate statisticallysignificantdifferences betweencongruentandincongruent conditions (paired t test, $\\eta = 1 6 , p < 0 . 0 5 ) . { \\pmb { D } }$ ,Grand average spectrum $( n = 1 6 )$ fordetrended RT time courses as a function of frequency of 0 to $2 0 ~ \\mathsf { H z }$ for congruent (red) and incongruent (black) conditions.The dashed lines represent the statistically significance threshold $( p < 0 . 0 5 )$ after permutation testing and corrections for multiple comparisons for congruent (red and incongruent (black) conditions,respectively.E, Cross-subject $( n = 1 6 )$ coherence in the phase difference between the congruent andincongruentconditionsasafunctionoffrequencyofOto2OHz.Dashedlinesrepresentthecorrespondingstatisticalysignificance threshold $( p < 0 . 0 5 )$ after permutation testing and corrections for multiple comparisons.The red smallfigure shows polar plots for the distribution $( n = 1 6 )$ of phase difference between congruentand incongruent conditions in the theta band $( 3 - 5 \\mathsf { H z } ,$ （204号 indicatedbyredstar).Theredlineintesmallpolarfigure indicates themean C-ICtheta-bandphasediferenceacrossubjects. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Perception has been viewed as an inferential process of hypothesis testing (i.e.,predictive coding; Rao and Ballard,1999) duringwhich generated hypotheses descend to lower areas to be matched against sensory inputs.This process has been suggested to be mediated by ongoing interactions between feedback connections carrying perceptual hypotheses and bottom-up inputs ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A Neutral condition (reaction time, $M = 1 6 )$ RT time course Detrended RT time course Power spectrum 320 25 80 rrarer lr elnreer 250 prpueenrad p<=0.05 corrected 180 -25 20 0 400 800 0 400 800 0 10 20 Mask-to-Probe SOA (msec) Mask-to-Probe SOA (msec) Frequency (Hz)   \nB Single-subj raw RT time course Masked priming Unmasked priming 300 Subj1 Subj2 300 Subj1 Subj2   \nrerrnrres 150 Congruent Congruent Incongruent Incongruent Subj3 Avg 300 Subj3 Avg 150 150 0 200 400 0 200 400 0 200 400 0 200 400 Mask-to-Probe SOA (msec) Prime-to-Probe SOA(msec) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "theories(for review,see Sumner,2007; Sohrabi and West,20o9) that account for the dissociations between masked and unmasked priming in typical priming effects (i.e.,“PCE followed by NCE”in masked priming and “PCE-only” in unmasked priming).Moreover, the theta-band oscillatory did not correlate with the slow trends, further suggesting that priming oscillation might be a new and separable componentin primingbehavior.Therefore, we suggest that overall priming patterns are concurrently mediated through two processes,one based on classical priming models and one presumably related to the thetaband prediction waves. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Transition from PCE to NCEin masked priming but not in unmasked priming was originally suggested to represent automatic motor inhibition that sup presses partial activation initially caused bythe prime (i.e.,“motor self-inhibition\"; Eimer and Schlaghecken,20o3).Previous studies reported reciprocal inhibitory interactions in movement-related EEG potentials after masked primes (Praamstra and Seiss，2005)，suggesting response competition taking place in motor cortex. Moreover,additional PCE occurs after the “PCE followed by NCE” pattern in masked priming behavior (Sumner and Brandwood,20o8),also consistent with this interpretation.We postulate that the observed priming oscillations are not solely based on motor priming explanations.First,we observed theta-band oscil(Harth etal.,1987; Mumford,1991,1992).Notably,an appropriate match may not be accomplished in just one pass,thus requiring iterative interactions and matching between the perceptual hypotheses and sensory events (Carpenter and Grossberg,1987; Harth et al.，1987;Mumford,1992;Ullman,1995;Enns and Di Lollo, 2000; Ahissar and Hochstein,20o4; McMains and Kastner,2011). Actually,several proposed models suggest iterative looping feedback that finally culminates in confirmation of the perceptual hypothesis that best fits input data (Carpenter and Grossberg,l987;Harth et al., 1987; Mumford,1992; Enns and Di Lollo,2000; Engel et al., 2001). In the present study,we demonstrated a general theta-band oscillation component in priming behavioral time courses,suggesting that perceptual predictions,initially triggered by prime events,return to lower-order areas not continuously but recurrently and periodically ina theta-band rhythm (every $2 0 0 { - } 3 0 0 ~ \\mathrm { m s }$ ). Our results thus provide novel evidence supporting the iterative dynamic characteristics of the “predictive coding\" process in visual perception. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We demonstrated that the fine priming time course actually consist of two components: a slowly developing trend that resembles a classical priming pattern and a new theta-band $( { \\sim } 4 \\ \\mathrm { H z } )$ rhythmic component.Replication of classical priming effects in slow trends is consistent with coarse temporal measurements (at SOAs every several hundred milliseconds)used in previous studies,thus suggesting little influence of the present design on classical priming behavior. Conversely，theta-band oscillatory patterns,given their presence in both masked and unmasked priming tasks,cannot be explained in terms of previous priming lations in unmasked priming aswell, which would be inconsistent with“motor self-inhibition” because that is triggered by partial motor activation caused by masked primes only. Second, there were no correlations between priming oscillations and the classical priming effects in the masked priming task; this would not be expected if theta-band rhythms reflect reciprocal motor inhibitions initiated by masked primes.Third,recent EEG studies reported that the inhibitory EEG movement-related component was actually triggered and modulated by the mask stimulus after prime rather than being automatically initiated by the masked prime (Jaskowski et al.,20o8).Further studies using both masked and unmasked priming paradigms are needed to elucidate the neural correlates of priming oscillations. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Here,priming oscillations were found to occur at the thetaband.Theta-band rhythms are known to mediate sensory stream processing (Luo and Poeppel, 2007,2012; Luo et al.,2010; Kayser et al.,2012; Fiebelkorn et al.,2013b),attention (Schroeder and Lakatos, 2009; Busch and VanRullen, 201o; Landau and Fries, 2012; Fiebelkorn et al.,2013a; Song et al., 2014),and memory (Lisman and Idiart,1995; Luo et al., 2013) by cyclically modulating cortical excitability and segmenting inputs into appropriate chunks in time (Giraud and Poeppel, 20l2; Kayser et al.,2012). Several recent behavioral studies also showed theta-band fluctuations in spatial-orobject-based attentional performance(Landau and Fries,2012; Fiebelkorn et al.,2013a; Song et al.,2014). Specifically,after resetting attention to 1 of 2 spatial locations, visual performance at these locations underwent a $4 \\ : \\mathrm { H z }$ fluctuation.However,in the present study,instead of being distributed at multiple spatial locations as in previous studies,both primes and probes occurred at the same location throughout the experiments.Therefore, theta-band priming oscillations here cannot be accounted forby spatial sampling rhythms that were suggested in previous attentional studies.Furthermore,the results substantially extend previous findings by suggesting that the theta rhythm is not limited to spatial attention,but may reflect a more general oscillatory mechanism in multi-item attention (e.g.,location,feature,perceptual prediction, etc.). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Finally,our findings addressed an important but essentially unexplored question: how the brain dynamically manages and coalesces multiple perceptual predictions to guide moment-bymoment perceptions about the external environment. Although abundant studies have demonstrated that perceptual predictions modulate sensory activities (Hupé et al.,1998; Murray et al., 2002; Summerfield et al.,2008; Alink et al., 2010; Arnal et al., 2011; Costa-Faidella et al.,201l; Wacongne et al.,201l; den Ouden et al., 2012; Kok and de Lange,2014),most of them examined how one particular perceptual prediction afects lowlevel sensory responses (i.e.,consistent or inconsistent with the hypothesis).To ourknowledge,there are virtuallyno experimental data revealing the dynamic structure of the multiprediction coordination process.Our results suggest that the re-entrance process actually fluctuates over time in a theta-band rhythm and the two predictions (i.e.,congruent and incongruent) descend to lower sensory areas alternately in time.Such “competition-like\" relationship between the two perceptual predictions might be mediated by an oscillation-based temporal coordination mechanism in higher brain regions. Specifically,different predictions are carried by feedback signals in different phases of theta-band oscillations to achieve organized and dissociated neural representations.Alternatively,it might be also accounted for bya“mutual inhibition”interpretation in that one perceptual prediction,activated by a prime,waxes and wanes ina theta-band rhythm, which would make the other prediction to be inhibited and disinhibited accordingly.Most interestingly,such oscilltion-mediated population competition mechanisms have been proposed and demonstrated in spatial attention (Buschman and Miller,2009; Fries,2009; Landau and Fries,2012; Fiebelkorn etal.,2013a; Song et al., 2014),working memory (Lisman and Idiart, 1995),consciousness (Doesburg et al.,20o9), task rule switching (Buschman et al., 2012),discrete nature of perception (VanRullen et al.,2007),and interactions between feedforward and top-down processing (Fontolan et al.,2Ol4).Together,our results,in combination with accumulating evidence,support an important role for neuronal oscillation in various cognitive processes,via dynamical organization and segregation of multiple neuronal populations over time. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Ahissar M,Hochstein S (2o04） The reverse hierarchy theory of visual perceptual learning. Trends Cogn Sci 8:457-464. CrossRef Medline   \nAlinkA,Schwiedrzik CM,KohlerA,SingerW,MuckliL(2010）Stimulus predictability reduces responses in primary visual cortex.J Neurosci 30: 2960-2966.CrossRef Medline   \nArnal LH,Wyart V,Giraud AL(2o11） Transitions in neural oscillations reflect prediction errors generated in audiovisual speech.Nat Neurosci 14:797-801. CrossRef Medline   \nBastos AM,Usrey WM,Adams RA,Mangun GR,FriesP,Friston KJ (2012) Canonical microcircuits for predictive coding. Neuron 76:695-711. CrossRefMedline   \nBusch NA,VanRullen R (2olo） Spontaneous EEG oscillations reveal periodic sampling of visual attention.Proc Natl Acad Sci U SA 1O7:16048- 16053.CrossRef Medline ulation oscillations.Neuron 63:386-396. CrossRef Medline   \nBuschman TJ, Denovells EL,Diogo C, Bullock D,Miller EK (2012） Synchronous oscillatory neural ensembles for rules in the prefrontal cortex. Neuron 76:838-846. CrossRef Medline   \nBuzsaki G (2006） Rhythms of the brain.New York: Oxford UP.   \nCarpenter G,Grossberg S (1987）A massively parallel architecture for a selforganizing neural pattern recognition machine. Comp Vis Graphics Image Process 37:54-115.CrossRef   \nCosta-Faidella J,Baldeweg T,Grimm S,Escera C(2011） Interactions between“what”and“when” in the auditory system: temporal predictability enhances repetition suppression.J Neurosci 31:18590-18597. CrossRef Medline   \nden Ouden HE,Kok P,de Lange FP (2012）How prediction errors shape perception,attention,and motivation. Front Psychol 3:548.CrossRef Medline   \nDoesburg SM,Green JJ,McDonald JJ,Ward LM (2009）Rhythms of consciousnes: binocular rivalry reveals large-scale oscillatory network dynamics mediating visual perception. PLoS One 4:e6l42. CrossRef Medline   \nEimer M,Schlaghecken F(2oo3）Response facilitation and inhibition in subliminal priming. Biol Psychol 64:7-26.CrossRef Medline   \nEngel AK,Fries P,Singer W (20o1） Dynamic predictions: oscilations and synchrony in top-down processing. Nat Rev Neurosci 2:704-716. CrossRef Medline   \nEnns JT,Di Lollo V (2oo0）What's new in visual masking? Trends Cogn Sci 4:345-352.CrossRef Medline   \nFiebelkorn IC,FoxeJJ, Butler JS,Mercier MR,Snyder AC,Molholm S (2011) Ready,set, reset: stimulus-locked periodicity in behavioral performance demonstrates the consequences of cros-sensory phase reset. J Neurosci 31:9971-9981. CrossRef Medline   \nFiebelkorn IC,Saalmann YB,Kastner S (20l3a） Rhythmic sampling within and between objects despite sustained attention at a cued location. Curr Biol 23:2553-2558.CrossRef Medline   \nFiebelkorn IC,Snyder AC,Mercier MR,Butler JS,Molholm S,Foxe JJ (2013b） Cortical cros-frequency coupling predicts perceptual outcomes. Neuroimage 69:126-137. CrossRef Medline   \nFontolan L,Morillon B,Liegeois-Chauvel C,Giraud AL (20l4） The contribution of frequency-specific activity to hierarchical information process ing in the human auditory cortex.Nat Commun 5:4694.CrossRef Medline   \nFries P (2oo9） Neuronal gamma-band synchronization as a fundamental process in cortical computation.Annu Rev Neurosci 32:209-224. CrossRef Medline   \nGiraud AL,Poeppel D (2012） Cortical oscilltions and speech processng: emerging computational principles and operations.Nat Neurosci 15: 511-517.CrossRef Medline   \nHarth E,Unnikrishnan KP,Pandya AS(1987） The inversion of sensory processing by feedback pathways:a model of visual cognitive functions. Science 237:184-187. CrossRef Medline   \nHuang Y,Zhou T,ChenL (2011） The precedence oftopological change over top-down attention in masked priming.JVis 11(12) 1-9.CrossRef   \nHupé JM,James AC,Payne BR,Lomber SG,Girard P,BulierJ (1998） Cortical feedback improves discrimination between figure and background by V1,V2 and V3 neurons.Nature 394:784-787.CrossRef Medline   \nJaskowski P,Bialunska A,Tomanek M,Verleger R(2oo8）Mask- and distractor-triggered inhibitory processes in the priming of motor responses: an EEG study.Psychophysiology 45:70-85.CrossRef Medline   \nKayser C,InceRA,Panzeri S (20l2）Analysis of slow(theta) oscillations as a potential temporal reference frame for information coding in sensory cortices.PLoS Comput Biol 8:e1002717. CrossRef Medline   \nKlimesch W(1999） EEG alpha and theta oscillations reflect cognitive and memory performance:a review and analysis.Brain Res Brain Res Rev 29:169-195.CrossRef Medline   \nKok P,de Lange FP (2014） Shape perception simultaneously up-and downregulates neural activity in the primary visual cortex.Curr Biol 24:1531- 1535. CrossRef Medline   \nLandau AN,Fries P (20l2） Attention samples stimuli rhythmically. Curr Biol 22:1000-1004. CrossRef Medline   \nLisman JE,Idiart MA（1995） Storage of $7 + / - 2$ short-term memories in nsrillatnrv cuhrvrlec Srience 267·1512_1515 CrncsRef Medline   \nLuo H,Poeppel D (2oo7）Phase patterns of neuronal responses reliably discriminate speech in human auditory cortex.Neuron 54:loo1-1010. CrossRefMedline   \nLuo H,Poeppel D (20l2）Cortical oscillations in auditory perception and speech: evidence for two temporal windows in human auditory cortex. Front Psychol 3:170.CrossRef Medline   \nLuo H,Liu Z,Poeppel D (20lo)Auditory cortex tracks both auditory and visual stimulus dynamics using low-frequency neuronal phase modulation.PLoS Biol 8:e1000445.CrossRef Medline   \nLuo H, Tian X,Song K,Zhou K,Poeppel D(2ol3）Neural response phase tracks how listeners learn new acoustic representations.Curr Biol 23: 968-974. CrossRef Medline   \nMcMains S,Kastner S (20ll） Interactions of top-down and bottom-up mechanisms in human visual cortex.JNeurosci 31:587-597. CrossRef Medline   \nMumford D (1991） On the computational architecture of the neocortex.I. The role of the thalamo-cortical loop.Biol Cybern 65:135-145.CrossRef Medline   \nMumford D (1992）On the computational architecture of the neocortex. II. The role of cortico-cortical loops.Biol Cybern 66:24l-251.CrossRef Medline   \nMurray SO,Kersten D,Olshausen BA,Schrater P,Woods DL (2002）Shape perception reduces activity in human primary visual cortex.Proc Natl Acad SciUSA99:15164-15169.CrossRefMedline   \nNichols TE,Holmes AP (2oo2） Nonparametric permutation tests for functional neuroimaging: a primer with examples.Hum Brain Mapp 15:1-25. Medline   \nPraamstra P,Seiss E(2oo5） The neurophysiology of response competition: motor cortex activation and inhibition following subliminal response priming.JCogn Neurosci 17:483-493.CrossRef Medline   \nRao RP,Ballard DH(1999）Predictive coding in the visual cortex:a functional interpretation of some extra-classical receptive-field effects.Nat Neurosci 2:79-87. CrossRef Medline   \nRoelfsema PR,Engel AK,Konig P,Singer W(1996） The role of neuronal synchronization in response selection:a biologically plausible theory of structured representations in the visual cortex.J Cogn Neurosci 8:603- 625.CrossRef Medline   \nRomei V,GrossJ,ThutG(2012）Sounds reset rhythms of visual cortex and corresponding human visual perception.Curr Biol 22:807-813.CrossRef Medline   \nSchroeder CE,Lakatos P (2oo9） Low-frequency neuronal oscillations as instruments of sensory selection. Trends Neurosci 32:9-18.CrossRef Medline   \nSohrabi A,West RL(2oo9）Positive and negative congruency efects in masked priming:a neuro-computational model based on representation, attention,and conflict.Brain Res 1289:124-132.CrossRef Medline   \nSong K,Meng M,ChenL,Zhou K,Luo H(2014）Behavioral oscillations in attention: rhythmic alpha pulses mediated through theta band.JNeurosci 34:4837-4844. CrossRef Medline   \nSummerfield C,Egner T （20o9）Expectation (and attention) in visual cognition.Trends Cogn Sci13:403-409.CrossRef Medline   \nSummerfield C,Trittschuh EH,Monti JM,Mesulam MM,Egner T (2008) Neural repetition suppression reflects fulfilled perceptual expectations. Nat Neurosci 11:1004-1006.CrossRef Medline   \nSumner P(2oo7）Negative and positive masked-priming-implications for motor inhibition.Adv Cogn Psychol 3:317-326.CrossRef Medline   \nSumner P,Brandwood T(2oo8）Oscillations in motor priming:positive rebound follows the inhibitory phase in the masked prime paradigm. JMot Behav 40:484-489.CrossRef Medline   \nUllman S(1995） Sequence seeking and counter streams: a computational model for bidirectional information flow in the visual cortex.Cereb Cortex 5:1-11. Medline   \nVanRullen R,Carlson T,Cavanagh P(2oo7） The blinking spotlight of attention.Proc Natl Acad Sci U SA 104:19204-19209.Medline   \nvon Stein A,Chiang C,KonigP (2ooo） Top-down processing mediated by interareal synchronization.Proc Natl Acad Sci U SA 97:14748-14753. Medline   \nWacongne C,Labyt E,van Wassenhove V,Bekinschtein T,Naccache L,Dehaene S (2ol1） Evidence for a hierarchy of predictions and prediction errors in human cortex.Proc Natl Acad SciU SA 108:20754-20759. CrossRef Medline   \nWard LM (2oo3） Synchronous neural oscillations and cognitive processes. Trends Cogn Sci 7:553-559. CrossRef Medline ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

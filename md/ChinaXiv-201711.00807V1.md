@@ -1,0 +1,148 @@
+饲粮中不同比例桑叶粉对湖羊瘤胃上皮组织结构的影响冯　丹」欧阳佳良」王梦芝1\*侯启瑞²（1.扬州大学动物科学与技术学院，扬州225009；2.中国农业科学院蚕业研究所，镇江212018)
+
+摘要：本试验旨在研究饲粮中不同比例的桑叶粉对育肥湖羊瘤胃上皮组织结构的影响。选取3月龄育肥湖羊40只，随机分为5组，每组8只。各组用桑叶粉分别替代饲粮中精料的0（A组）、 $1 5 \%$ （B组）、 $30 \%$ （C组）、 $45 \%$ （D组）、 $60 \%$ （E组）。预试期2周，正试期8周。结果表明：1）B组和C 组瘤胃重/复胃重显著高于A组（ $\scriptstyle \cdot < 0 . 0 5$ ）。2）各组瘤胃乳头宽度的差异不显著（ $P { > } 0 . 0 5 \$ ）。3）对于瘤胃上皮的角质层宽度，A组高于其他各组，其中显著高于C组和 $\mathrm { ~ D ~ }$ 组 $( P { < } 0 . 0 5 )$ ;对于瘤胃上皮颗粒层宽度，除D组显著高于E组( $. P { < } 0 . 0 5$ ））外，其余各组间差异不显著（ $P { > } 0 . 0 5$ ）；对于棘突层和基底层宽度，与A组相比，桑叶粉处理能提高棘突层和基底层的宽度，但是作用不显著（ $\cdot P { > } 0 . 0 5 .$ ），D组和B组的基底层宽度显著高于C组（ $\cdot P { < } 0 . 0 5$ ）。总之，用桑叶粉替代 $1 5 \% { \sim } 4 5 \%$ 的精料能在一定程度上提高复胃的重量，促进的棘突层和基底层细胞的分裂，从而促进瘤胃上皮组织发育，同时，也有效降低了瘤胃上皮角质层的宽度。
+
+关键词：桑叶粉；湖羊；瘤胃组织中图分类号：S826
+
+我国桑树（Morus albaL.）资源丰富，桑叶中含有丰富的蛋白质、纤维素等物质以及黄酮类化合物（ $3 . 3 \%$ ）、多糖、1-脱氧野尻霉素等多种活性物质[1]，并有相应的多种生理功能。如，其异槲皮苷具有抑制血清脂质增加的功能[2]；其不饱和脂肪酸还有降低血清胆固醇的作用，能保持机体的生理状态正常[3-5]。因此，桑叶在食用、药用、饲用等方面得到了研究与应用。鉴于当前蛋白质饲料资源的紧缺和桑叶粉的高蛋白质含量，研发其作为反刍家畜的蛋白质饲料源具有节约蛋白质饲料资源和充分利用桑叶粉闲置资源的生产实践意义。近年来的研究表明，以干物质为基础，桑叶中粗蛋白质含量 $1 5 \% \sim 3 0 \%$ ，粗脂肪 $4 \% \sim 1 0 \%$ ，粗纤维$8 \% \sim 1 2 \%$ ，无氮浸出物 $30 \% \sim 3 5 \%$ ，粗灰分 $8 \% \sim 1 2 \%$ ，钙 $1 \% \sim 3 \%$ ，磷 $1 . 3 \% \sim 0 . 6 \% ^ { [ 6 - 7 ] }$ 可以部分替代豆饼或精料喂奶牛。马双马等8表明，在羊的饲粮中添加干桑叶或鲜桑叶都能够满足其营养物质的需求，加快增重速度，增加收益。另外，李昊帮等[]研究桑叶粉不同添加水平对湘东黑山羊的瘤胃发酵参数的影响，结果表明饲粮中添加桑叶粉能够改善瘤胃发酵，$10 \%$ 的添加量能够显著提高瘤胃液总挥发性脂肪酸(TVFA)浓度，而其对挥发性脂肪酸（VFA）发酵类型的影响则影响着幼畜瘤胃组织形态，包括参与VFA 吸收的瘤胃乳头的形态结构。研究者们认为瘤胃上皮对VFA 的适应性过程中，瘤胃乳头的长度和宽度以及瘤胃壁的厚度是瘤胃发育的重要指标，同时瘤胃乳头表面积的变化也是瘤胃黏膜代谢水平的重要体现[10]。瘤胃发酵产生的VFA在为反刍动物机体提供能量的同时，作为化学刺激因素促进瘤胃的发育。若瘤胃发酵产生的VFA 浓度过低，满足不了瘤胃乳头生长需要时就会抑制瘤胃的发育。相反，瘤胃内过高浓度的VFA 通过快速促进上皮细胞增殖和减缓细胞凋亡，导致瘤胃上皮角质化过度也会影响 VFA 的吸收作用[1]。Beiranvand 等[12]认为瘤胃乳头的形态变化与分支的出现，主要是由于瘤胃内丁酸和丙酸对瘤胃乳头细胞的刺激作用。相对于丙酸，丁酸在体内不仅可以促进瘤胃上皮细胞增殖和分化，还可以提高胃肠道敏感性和促进胃肠道蠕动[13],增强 VFA 在瘤胃的吸收作用；同时作为直接刺激因子不仅可以影响胃肠道的血流量还可以调节胰岛素和胰高血糖素的分泌[14]，促进VFA在细胞内代谢作用，调节瘤胃上皮细胞对丁酸的适应性。本课题组前期研究表明，饲粮中不同比例的桑叶粉影响育肥羊瘤胃中VFA 发酵模式，但是否影响瘤胃上皮组织结构却不得而知。本试验研究饲粮中不同比例桑叶粉对湖羊瘤胃上皮组织形态的影响，以期为研究桑叶粉影响瘤胃消化和吸收的机制，以及其在反刍动物生产中的应用提供一些基础数据。
+
+# 1材料与方法
+
+1.1试验材料桑叶粉，从市场上购买，经检测营养水平为：水分 $1 0 . 4 6 \%$ 、粗蛋白质 $2 0 . 3 0 \%$ 、粗脂肪
+
+$8 . 1 5 \%$ 、粗灰分 $7 . 5 6 \%$ 、中性洗涤纤维 $34 . 3 0 \%$ 、酸性洗涤纤维 $1 6 . 2 8 \%$ 、钙 $1 . 5 4 \%$ 、磷 $0 . 1 0 \%$
+
+# 1.2 试验动物及饲粮
+
+在泗阳伟禾湖羊养殖场选取40 只3月龄健康状况良好的育肥湖羊[（ $1 6 . 5 { \pm } 0 . 6 \ \$ ）kg]，采用完全随机试验设计，试验羊随机分成5组，每组8只。5组分别饲喂5种不同的饲粮，以羊场的饲粮为基础饲粮，用桑叶粉分别替代精料的0（A组）、 $1 5 \%$ （B组）、 $30 \%$ （C组）、 $45 \%$ （D组）、 $60 \%$ （E 组），粗料为玉米青贮。保证饲粮的精粗比不变和各组饲粮等氮，饲粮的精粗比为5:5（干物质基础），制成颗粒使用。预试期2周，正试期8周。饲粮参照 NRC（2007）[15]建议的肉用绵羊营养需要，按照日增重 $2 0 0 \mathrm { g / d }$ 配制。精料组成及营养水平见表1。其中粗蛋白质、粗脂肪、中性洗涤纤维、酸性洗涤纤维、钙、磷含量参考《饲料分析及饲料质量检测技术》[16]进行测定。粗蛋白质含量用半微量凯氏定氮法测定；粗脂肪含量用索氏乙醚抽提法测定；中性洗涤纤维和酸性洗涤纤维含量用传统抽滤方法测定；钙、磷含量用NPC-02 型钙磷测定仪。
+
+# 表1精料组成及营养水平 (干物质基础)
+
+Table 1 Composition and nutrient levels of concentrates (DM basis)   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">组别 Groups</td></tr><tr><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td></tr><tr><td>原料Ingredients</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>桑叶粉 Mulberry leaf powder</td><td></td><td>15.00</td><td>30.00</td><td>45.00</td><td>60.00</td></tr><tr><td>玉米Corn</td><td>30.00</td><td>30.50</td><td>33.50</td><td>21.00</td><td>7.30</td></tr><tr><td>豆粕 Soybean meal</td><td>27.00</td><td>25.50</td><td>28.00</td><td>24.00</td><td>15.50</td></tr><tr><td>小麦麸 Wheat bran</td><td>16.30</td><td>9.80</td><td>2.50</td><td></td><td></td></tr><tr><td>糙米 Brown rice</td><td>14.20</td><td>9.00</td><td></td><td></td><td></td></tr><tr><td>啤酒酵母 Saccharomyces cerevisiae</td><td>6.70</td><td>3.50</td><td></td><td>1.50</td><td>5.00</td></tr><tr><td>玉米蛋白粉 Corn protein meal</td><td>2.00</td><td>3.00</td><td>1.50</td><td></td><td></td></tr><tr><td>磷酸二氢钙 CaHPO4</td><td>1.20</td><td>1.20</td><td>1.20</td><td>1.00</td><td>1.50</td></tr><tr><td>脂肪粉 Fat powder</td><td></td><td></td><td>1.00</td><td>5.30</td><td>8.70</td></tr><tr><td>石粉 Limestone</td><td>1.60</td><td>1.50</td><td>1.30</td><td>1.20</td><td>1.00</td></tr><tr><td>食盐 NaCl</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>预混料 Premix1》</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>消化能 DE/(MJ/kg)</td><td>14.28</td><td>13.85</td><td>13.92</td><td>13.92</td><td>13.54</td></tr><tr><td>粗蛋白质 CP</td><td>359.50</td><td>374.00</td><td>381.50</td><td>331.50</td><td>299.50</td></tr><tr><td>粗脂肪 EE</td><td>18.72</td><td>20.81</td><td>29.05</td><td>27.11</td><td>37.46</td></tr><tr><td>中性洗涤纤维 NDF</td><td>205.15</td><td>234.95</td><td>283.14</td><td>392.95</td><td>446.62</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>100.71</td><td>151.39</td><td>210.37</td><td>281.98</td><td>342.22</td></tr></table></body></html>
+
+<html><body><table><tr><td>钙Ca</td><td>9.63</td><td>9.94</td><td>9.95</td><td>9.94</td><td>10.57</td></tr><tr><td>磷P</td><td>6.75</td><td>6.37</td><td>6.14</td><td>5.59</td><td>6.75</td></tr></table></body></html>
+
+1 预混料可为每千克饲粮提供 The premix provides the following per kg of diets: $\mathrm { C u } 2 0 0 { \sim } 5 0 0 \mathrm { m g }$ ，Fe (as ferrous sulfate) $1 \ 5 0 0 { \sim } 2 \ 5 0 0 \ \mathrm { m g }$ ，Mn (as manganese sulfate) $1 \ 0 0 0 { \sim } 2 \ 0 0 0 \ \mathrm { m g }$ ,Zn (as zinc sulfate) $1 \ 0 0 0 { \sim } 2 \ 5 0 0$ mg，VA 200 000～370 000 IU，VD 3 250 000～1 250 000 IU, $\mathrm { V E } { \gtrsim } 7 5 0 ~ \mathrm { m g }$ ，赖氨酸Lys $5 4 . 9 \%$ I， $3 5 { \sim } 5 0 \mathrm { m g }$ ， Se (as sodium selenite) $5 \sim 1 5 ~ \mathrm { m g }$ ，Co (as cobalt sulfate) $5 \sim 1 5 ~ \mathrm { m g }$ ，Ca (as calcium sulfate) $1 0 \% \sim 1 6 \%$ ，食盐 NaCl $1 0 \% \sim 1 6 \%$ 。 2消化能根据原料组成计算,其余为实测值。DE is calculated according to ingredient composition,while the othernutrientlevels are measured values.
+
+# 1.3 饲养管理
+
+试验羊采取群饲舍养方式，试验前对羊舍进行清理与消毒后，所有羊只统一进行驱虫和免疫。正试期前3周全株玉米青贮按每天每只羊 $1 . 5 \mathrm { k g }$ 投料，之后按 $1 . 7 5 \mathrm { k g }$ 投料。试验各组精料投饲方案：正试期第1周每天每只羊 $3 7 5 { \mathrm { ~ g ~ } }$ 精料，随后每周增加 $2 5 \mathrm { g }$ 直至第8周试验结束。试验期间每天饲喂2次（07:00和17:00），先粗后精，自由饮水。
+
+饲养试验结束前1天选取3只试验羊开始绝食 $2 4 \mathrm { h }$ ，次日称重屠宰，称取复胃及其各部分（瘤胃、网胃、瓣胃、皱胃）的重量，并取1块生长均匀的瘤胃用于制作石蜡切片。
+
+1.4石蜡切片制作
+
+将取下的瘤胃组织用预冷的磷酸缓冲盐溶液（phosphate buffer saline，PBS）冲洗干净后，立即投入 $4 \%$ 甲醛溶液中固定至少 $4 8 \mathrm { ~ h ~ }$ 。固定好修剪成 $5 \mathrm { m m }$ 厚的组织块。采用石蜡切片、苏木精-伊红染色（HE）方法观察羔羊瘤胃形态结构。参照Wang 等[17]阐述的方法制作组织切片，步骤如下：冲洗组织块并将其依次放置在 $80 \%$ 乙醇溶液中1次、 $90 \%$ 乙醇溶液中2次、 $100 \%$ 乙醇溶液中脱水3次，苯透明2次，浸蜡，包埋。切片、贴片、烤片。参照王龙 $\mathrm { [ 1 8 ] _ { H E } }$ 方法染色，步骤如下：将切片一次放入二甲苯Ⅰ、二甲苯Ⅱ各 $3 0 \mathrm { m i n }$ 至透明，放入乙醇溶液中复苏，浸泡于PBS 溶液 $5 \mathrm { m i n }$ ，放入苏木精染液中避光 $5 \mathrm { m i n }$ ，冲洗 $5 \mathrm { m i n }$ ；PBS溶液浸泡 $5 \mathrm { m i n }$ ， $6 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 烘箱 $2 0 \mathrm { m i n }$ ， $100 \%$ 乙醇中2次，每次 $3 \mathrm { m i n }$ ，中性树脂滴胶封片。
+
+# 1.5 测定指标
+
+记录正试期采食量，计算干物质采食量。记录初始和终末体重，计算平均日增重。
+
+每个样品制作3片切片，厚度为 $7 \mu \mathrm { m }$ ；相邻切片之间至少距离 $1 0 0 \mu \mathrm { m }$ 。用广州明美成像系统软件进行形态计量分析，利用光学显微镜（Olympus，日本）观察切片的结构，利用Olympus IX71显微镜软件cellSens Dimension 测量并记录数据，包括瘤胃乳头的宽度、瘤胃上皮的角质层（stratum cormeum，SC）、颗粒层（stratum granulosum，SC）、棘突层（stratumspinosum，SS）和基底层（stratumbasale，SB）的宽度。瘤胃细胞层厚度的测量采用 $2 0 \times$ 物镜观察，瘤胃乳头宽度的测量采用 $\scriptstyle 4 \times$ 物镜观察。所有的形态计量分析均由同一人操作，每个切片测定6个视野计算平均值。
+
+复胃指数（ ${ \mathrm { \Omega } } ( \% ) { \mathrm { \Omega } } = 1 0 0 \times$ 复胃/宰前活重。
+
+# 1.6 统计分析
+
+试验数据经 Excel2013初步整理后，采用 SPSS19.0软件中的ANOVA过程进行单因素方差分析，使用Duncan氏法进行多重比较，结果以平均值和标准误（SEM）表示，以 $P { < } 0 . 0 5$ 作为差异显著的判断标准。
+
+# 2结果与分析
+
+2.1饲粮中不同比例桑叶粉对湖羊复胃发育的影响
+
+从表1可以看出，干物质采食量和平均日增重皆以D组和E组显著低于A组、B组合C组（ $\cdot P { < } 0 . 0 5$ ），而B组、C组与A组差异不显著（ $P { > } 0 . 0 5$ ）。宰前活重以A组、B组、C组的较高，显著高于D组、E组（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ ）；而复胃重和复胃指数都以B组、C组为高，分别显著高于D组、E组和A组、D组、E组（ $\cdot P { < } 0 . 0 5$ ）。另外，瘤胃重/复胃重也以B组、C 组较高，显著高于A组（ $_ { \cdot \textcircled { P } < 0 . 0 5 }$ ），与D组、E组没有显著差异（ $. P { > } 0 . 0 5$ ）；而皱胃重/复胃重则以A组的最高，显著高于B组、C组（ $P { < } 0 . 0 5$ ）。
+
+Table 2Efects of diferent proportions of mulbery leaf powder in diet on development ofcompound stomach of
+
+表2饲粮中不同比例桑叶粉对湖羊复胃发育的影响  
+
+<html><body><table><tr><td colspan="8">109 Hu sheep</td></tr><tr><td>项目Items</td><td colspan="5">组别Groups</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td></td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td></tr><tr><td>干物质采食量 DMI/(g/d)</td><td>869.9a</td><td>857.5a</td><td>859.9a</td><td>801.4b</td><td>817.4b</td><td>14.48</td><td>0.002</td></tr><tr><td>平均日增重 ADG/(g/d)</td><td>120.4a</td><td>120.0a</td><td>114.1a</td><td>100.0b</td><td>87.0c</td><td>4.89</td><td>0.002</td></tr><tr><td>宰前活重 Live body weight before slaughter/kg</td><td>22.50a</td><td>22.87a</td><td>22.28a</td><td>20.73b</td><td>21.08b</td><td>0.357</td><td>0.006</td></tr><tr><td>复胃重 Compound stomach weight/kg</td><td>1.31ab</td><td>1.52a</td><td>1.49a</td><td>1.22b</td><td>1.27b</td><td>0.070</td><td>0.013</td></tr></table></body></html>
+
+<html><body><table><tr><td>复胃指数 Index of compound stomach/%</td><td>5.82b</td><td>6.65a</td><td>6.69a</td><td>5.88b</td><td>6.02b</td><td>0.095</td><td><0.001</td></tr><tr><td>瘤胃重/复胃重 Rumen weight/compound stomach weight/%</td><td>56.31b</td><td>62.46a</td><td>62.91a</td><td>60.61ab</td><td>60.35ab</td><td>1.833</td><td>0.031</td></tr><tr><td>网胃重/复胃重 Reticulum weight/compound stomach weight/%</td><td>10.56</td><td>9.17</td><td>10.38</td><td>10.06</td><td>9.57</td><td>0.523</td><td>0.132</td></tr><tr><td>瓣胃重/复胃重 Omasum weight/compound stomach weight/%</td><td>10.60</td><td>9.89</td><td>9.71</td><td>10.31</td><td>10.22</td><td>0.663</td><td>0.671</td></tr><tr><td>皱胃重/复胃重 Abomasum weight/compound stomach weight/%</td><td>22.51a</td><td>18.48b</td><td>17.00b</td><td>19.02ab</td><td>19.87ab</td><td>0.883</td><td>0.003</td></tr></table></body></html>
+
+同行数据肩标相同或无字母表示差异不显著（ $P { > } 0 . 0 5$ ），不同小写字母表示差异显著（ $P { < } 0 . 0 5$ ）。下表同。In the same row,values with no letter or the same letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ while with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ . The same as below.
+
+# 2.2 饲粮中不同比例桑叶粉对瘤胃上皮组织的影响
+
+通过显微镜对瘤胃上皮组织切片进行观察，瘤胃上皮显微结构如图1所示，瘤胃乳头显微结构如图2所示。从图1可以看出，A组瘤胃上皮角质层宽度大于其他各组，其他各细胞层宽度差别不大。从图2可以看出，各组瘤胃乳头宽度差别不大。通过软件对瘤胃乳头的宽度及瘤胃上皮的角质层、颗粒层、棘突层和基底层的宽度的测量结果（表3）可以看出，饲粮中不同比例的桑叶粉对瘤胃乳头宽度的影响不显著（ $P { > } 0 . 0 5$ ），除C组外，其余各组的瘤胃乳头宽度均在数值上高于A组。对于瘤胃上皮的角质层宽度，A组高于其他各组，其中显著高于C 组和 $\mathrm { ~ D ~ }$ 组( $P { < } 0 . 0 5$ ），其他各组间差异不显著（ $P { > } 0 . 0 5$ ）。对于瘤胃上皮颗粒层宽度，除D组显著高于E组（ $\cdot P { < } 0 . 0 5$ ）外，其余各组间差异不显著（ $P { > } 0 . 0 5$ ）。桑叶粉替代精料在数值上提高了棘突层的宽度，但是影响不显著（ $\cdot P { > } 0 . 0 5$ ）。 $\mathrm { ~ D ~ }$ 组和B 组的基底层宽度显著高于C组（ $\cdot - 0 . 0 5$ ）。
+
+Table 3Efcts of different proportions of mulberry leaf powder in diet on rumen epithelium structure of $H u$
+
+表3饲粮中不同比例桑叶粉对瘤胃上皮结构的影响  
+
+<html><body><table><tr><td colspan="7">sheep</td></tr><tr><td rowspan="2">项目Items</td><td colspan="4">组别Groups</td><td rowspan="2">E SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>A</td><td>B</td><td>C</td><td>D</td></tr><tr><td>角质层SC</td><td>19.3a</td><td>16.8ab</td><td>15.9b</td><td>15.9b</td><td>16.5ab</td><td>1.25</td><td>0.155</td></tr><tr><td>颗粒层 SG</td><td>40.4ab</td><td>44.1ab</td><td>40.9ab</td><td>46.4a</td><td>38.7b</td><td>2.98</td><td>0.214</td></tr><tr><td>棘突层 SS</td><td>47.7</td><td>52.9</td><td>52.1</td><td>54.7</td><td>52.7</td><td>2.79</td><td>0.278</td></tr><tr><td>基底层 SB</td><td>22.6ab</td><td>25.9b</td><td>19.7a</td><td>26.8b</td><td>24.2ab</td><td>1.78</td><td>0.034</td></tr><tr><td>瘤胃乳头宽度 Width of rumen papillae</td><td>321.2</td><td>366.3</td><td>315.1</td><td>356.3</td><td>330.0</td><td>29.70</td><td>0.437</td></tr></table></body></html>
+
+SC：角质层 stratum corneum；SG：颗粒层 stratum granulosum；SS：棘突层 stratum spinosum；SB:
+
+基底层 stratum basale。
+
+Fig.1Morphological structure of rumen epithelium of Hu Sheep $( 2 0 \times )$
+
+![](images/2ddba6a976f65576e7caf141b8740baed1f95929938512843910fedcc46cd3ac.jpg)  
+图1湖羊瘤胃上皮显微结构图  
+图2育肥湖羊瘤胃乳头显微结构图  
+Fig.2Morphological structure of rumen papillae of Hu Sheep $( 4 \times )$ （204号
+
+A O 山全
+
+134
+
+# 3.1饲粮中不同比例桑叶粉对湖羊采食与消化的影响
+
+桑叶具有较好的适口性。当家畜首次接触桑叶时，很容易接受并无采食障碍。对反刍动物而言，采食量受消化道动态容量、静化学、静力学和代谢等各种生理的调节[19]，并受到饲料、动物、环境等综合因素的影响。桑叶可改善瘤胃生态环境，增加了瘤胃内纤维分解菌在纤维物质颗粒上的附着，促进其繁殖，从而提高秸秆的消化率和采食量[20]。桑叶也具有很高的消化率。严冰等[21]研究表明，桑叶在瘤胃内 $^ { 4 8 \mathrm { ~ h ~ } }$ 干物质消化率高达 $62 \%$ 。添加桑叶粉增加牛饲粮中的蛋白质含量，改善瘤胃生态环境并可通过促进微生物的繁殖提高干物质、有机质和蛋白质等的表观消化率[22]。
+
+# 3.2瘤胃上皮组织对营养物质的利用机制
+
+瘤胃上皮组织由外向内可分为4层，分别为：角质层、颗粒层、棘突层和基底层。角质层曾被认为不利于瘤胃的吸收，而之后的研究发现，正常情况下，在瘤胃内容物的连续磨损下，角质化细胞层只有3\~4层细胞，对营养物质的吸收作用影响不大，却具有明显的保护作用；颗粒细胞层具有紧密的连接，但该层为不连续层，没有皮脂腺分泌，水分可自由通过；棘突层是瘤胃上皮组织中短链脂肪酸代谢的部位。由此可见，瘤胃上皮对营养物质的转运吸收在很大程度上有赖于角质层细胞的角质化程度和角质层的完整性[23]。角质层的细胞层数是角质化程度的直接体现，与饲粮的组成及形式高度相关，即：高精料饲粮能够使角质层厚度达到15个细胞层；而高粗料饲粮条件下，瘤胃上皮角质层仅由4层细胞组成。过厚的角质层不利于营养物质的吸收。瘤胃角质化不全是瘤胃鳞状上皮细胞产生坚硬的角蛋白层，它是瘤胃乳头的物理屏障，使得乳头表面覆膜，降低了瘤胃表层血液流动，引起乳头的退化，并在边缘部分形成腐肉，最后乳头发生结块现象[10]，主要由于饲料粒度不够不能够摩擦去除不断老化的上皮细胞所引起。
+
+# 3.3饲粮中不同比例桑叶粉对瘤胃上皮组织结构的影响
+
+瘤胃组织形态的发育可分为2个方面：容量的增加和黏膜的发育。对于容量的增加，即瘤胃组织重量的增加，在健康的前提下对于成年羊只对粗料的利用有着至关重要的作用。倪俊芬等[24]研究发现，桑叶粉不但能够替代部分精料，而且一定的添加水平（ $1 5 \%$ 、 $30 \%$ 和 $45 \%$ 水平）还能够显著改善育肥湖羊的体况发育；而当替代比例继续增加（ $60 \%$ ）时，不但没有增加湖羊的体况发育，反而产生了负面影响，可能过多地添加桑叶粉会影响饲粮的适口性以及很容易使羊产生饱腹感，从而降低了营养和能量的摄入水平。本研究中，桑叶粉替代 $1 5 \%$ 和 $30 \%$ 的精料其宰前活重和复胃重量都与未替代精料的一致，而桑叶粉替代 $45 \%$ 和 $60 \%$ 精料则显著低于未替代精料组，表明用桑叶粉替代 $1 5 \%$ 和 $30 \%$ 的精料并不影响试验羊的生长性能，但该2组的复胃指数显著高于未替代精料组，提示这2组可能促进了复胃的发育；进一步分析其4个胃的比例表明，复胃发育的区别是由于这2组瘤胃重/复胃重的提高；同时，未替代精料组的皱胃重/复胃重低于这2组，这从另一个角度进一步说明了没有桑叶粉替代精料，羊只的皱胃发育较替代组为好，这可能是饲粮的适应性所致。
+
+瘤胃黏膜的发育在反刍动物的胚胎时期就已开始分化。瘤胃乳头是其黏膜上皮的小突起与吸收功能有关，该突起可增加瘤胃壁吸收挥发性脂肪酸的表面积，一个瘤胃壁上约有 25万个瘤胃乳头，使黏膜表面积扩大 $6 { \sim } 7$ 倍，因此乳头黏膜的表面积是评价瘤胃及其黏膜代谢水平的重要标准[25]。瘤胃黏膜的乳头是上皮和固有膜向胃腔内突出形成的舌状或叶片状突起。乳头的表面由复层扁平上皮细胞组成，浅层上皮角质化，乳头可以活动，在瘤胃的机械性消化中起着揉搓、磨碎作用，并可以增加吸收的表面积。有研究表明，饲料的物理形式可显著影响犊牛瘤胃的组织形态学发育：用磨碎的饲料饲喂犊牛，犊牛瘤胃的乳头较短，其表面积较小[10]。本研究发现，瘤胃乳头宽度受饲粮中精料桑叶粉影响较大，而对于乳头宽度受桑叶粉添加比例的影响不明显，需进一步研究。另外，各上皮细胞层差异性不完全一致，说明饲粮组成及营养物质成分虽然对瘤胃乳头宽度、瘤胃上皮4层宽度有一定的影响，但它不是唯一的决定因素。
+
+4结论
+
+用桑叶粉替代 $1 5 \% { \sim } 4 5 \%$ 的精料能在一定程度上提高复胃的重量，促进的棘突层和基底层细胞的分裂，从而促进瘤胃上皮组织发育，同时，也有效降低了瘤胃上皮角质层的宽度。
+
+致谢：
+
+非常感谢扬州大学高健师兄对试验研究方法指导和论文修改的帮助。特别感谢泗阳伟禾湖羊养殖基地提供试验场地与试验动物。
+
+参考文献：
+
+[1]杜周和,刘俊凤,左艳春,等.桑叶的营养特性及其饲料开发利用价值[J].草业学报,2011,20(5):192-200.
+
+[2]罗存敏,施新琴,徐升胜,等.桑叶提取物对小鼠血糖的影响及有效成分测定[J].蚕业科 学,2005,31(4):418-421.   
+[3] 贾之慎,唐孟成,朱祥瑞.桑树黄酮类化合物清除超氧离子自由基 $\mathbf { O } _ { 2 } ^ { \overline { { \cdot } } }$ 的研究[J].浙江农业大 学学报,1996,22(5):519-523.   
+[4] 陈福君,卢军,张永煜.桑的药理研究(I）——桑叶降血糖有效组分对糖尿病动物糖代谢的 影响[J].沈阳药科大学学报,1996,13(1):24-27.   
+[5] 佐藤修二.桑叶提取物对大鼠小肠二糖类吸收的抑制作用[J].国外医学中医药分 册,1999,21(4):54.   
+[6] 张爱芹.畜牧业新型饲料源——桑叶的营养价值及青贮技术[J].甘肃农业,2004(9):60. [7] 李勇,苗敬芝.桑叶的功能性成分及保健制品的开发[J].中国食物与营养,1999(3):25. [8] 马双马,王军,宋永学,等.桑叶在畜牧业中的应用研究[J].安徽农业科学,2008,36(21):9091- 9092.   
+[9] 李昊帮,曾佩,李晟,等.桑叶粉对湘东黑山羊瘤胃发酵参数的影响[J].家畜生态学 报,2016,37(1):19-25.   
+[10] BEHARKA A A,NAGARAJA T G,MORRILL J L,et al.Efcts of form of the diet on anatomical,microbial,and fermentative development of the rumen of neonatal calves[J].Journal of Dairy Science,1998,81(7):1946-1955.   
+[11] GABEL G,BUTTER H,MARTENS H.Regulatory role of cAMP in transport of $\mathrm { \Delta N a ^ { + } , C l ^ { - } }$ and short-chainfattyacidsacrosssheepruminalepithelium[J].Experimental Physiology,1999,84(2):333-345.   
+[12] BEIRANVAND H,GHORBANI G R,KHORVASH M,et al.Interactions of alfalfa hay and sodium propionate on dairy calf performance and rumen development[J].Journal of Dairy Science,2014,97(4):2270-2280.   
+[13] CANANI R B,DI COSTANZO M,LEONE L,et al.Potential beneficial effects of butyrate in intestinal and extraintestinal diseases[J].World Journal of Gastroenterology,2011,17(12):1519- 1528.   
+[14] BERGMAN E N.Energy contributions of volatile fatty acids from the gastrointestinal tract in various species[J].Physiological Reviews,1990,70(2):567-590.   
+[15] NRC.Nutrient requirements of small ruminants:sheep,goats,cervids,and new world camelids[S].Washington， D.C.:National Academy Press,2007:246-266.   
+[16] 张丽英.饲料分析及饲料质量检测技术[M].3版.北京:中国农业大学出版社,2007. [17] WANG Y H,XU M,WANG F N,et al.Effect of dietary starch on rumen and small intestine morphology and digesta pH in goats[J].Livestock Science,2009,122(1):48-52.   
+[18]王龙.硫胺素对犊牛瘤胃组织形态及其生长发育影响的研究[D].硕士学位论文.扬州:扬 州大学,2013.   
+[19] 卢德勋.反刍动物营养调控理论及其应用[J].内蒙古畜牧科学,1993(特刊)： (待补充页码) [20] URIBE T F,SANCHEZ M D.Mulberry for animal production.Animal production and health series[M].Roman:FAO,2001:199-202.   
+[21]严冰,刘建新,姚军.氨化稻草日粮补饲桑叶对湖羊生长性能的影响[J].中国畜牧杂 志,2002,38(1):36-37.   
+[22] HUYEN N T,WANAPAT M,NAVANUKRAW C.Effect of Mulberry leaf pellet (MUP) supplementation on rumen fermentation and nutrient digestibility in beef catte fed on rice straw-based diets[J].Animal Feed Science and Technology,2012,175(1/2):8-15.   
+[23] BALDWIN R L,JESSE B W.Developmental changes in glucose and butyrate metabolism by isolated sheep ruminal cells[J].The Journal of Nutrition,1992,122(5):1149-1153.   
+[24] 倪俊芬,皮宇,陈前岭,等.不同水平精料桑叶粉对育肥湖羊体尺与器官发育的影响[J].饲料 工业,2016,37(15):31-34.   
+[25] 高艳霞,王加启.新生犊牛消化功能的发育及影响因素[J].中国奶牛,2006(8):6-9.   
+Effects of Different Proportions of Mulberry Leaf Powder in Diet on Rumen Epithelium Structure of Hu Sheep   
+FENG Dan1OUYANG Jialiang1 WANG Mengzhi1\*HOU Qirui²   
+\*Corresponding author, associate professor, E-mail: mengzhiwangyz@126.com（责任编辑王
+
+智航)
+
+(1. College of Animal Science and Technology， Yangzhou University, Yangzhou 225009, China; 2. Sericulture Research Institute, Chinese Academy of Agricultural Sciences, Zhenjiang 212018, China)
+
+Abstract: This experiment was conducted to investigate the effects of different proportions of mulberry leaf powder in diet on rumen epithelium structure of fatting $H u$ sheep. Forty fatting $H u$ sheep at the age of 3 months were randomly divided into 5 groups with 8 sheep in each group. The sheep were fed a fattening diet containing O (group A), $1 5 \%$ (group B), $30 \%$ (group C), $45 \%$ （204 (group D) and $60 \%$ (group E) of mulberry leaf powder instead of concentrate, respectively. The feeding experiment comprised 2-week adaption and 8-week experimental period. The results showed as follows: 1） rumen weight/compound stomach weight in groups B and C was significantly higher than that in group A ( $( P { < } 0 . 0 5 )$ . 2) There was no significant difference of width of rumen papillae among groups ( $\mathrm { \langle } P { > } 0 . 0 5 \mathrm { \rangle }$ . 3） The width of stratum corneum of rumen epithelium in group A was higher than that in other groups,and was significantly higher than that in groups C and D $( P { < } 0 . 0 5 )$ ； about the width of stratum granulosum of rumen epithelium, there was no significant difference among groups ( $\mathrm { \langle } P { > } 0 . 0 5 \mathrm { \rangle }$ ), except that group D was significantly higher than that in group E（ $P { < } 0 . 0 5 )$ ） ； compared with group A, mulberry leaf powder could improve the width of stratum spinosum and stratum basale, but the effects were not significant $( P { > } 0 . 0 5 )$ ,and the width of stratum basale in groups $\mathrm { ~ D ~ }$ and B was significantly higher than that in group C （2 $( P { < } 0 . 0 5 )$ . In conclusion, the supplementation of mulberry leaf powder from $1 5 \%$ to $45 \%$ instead of concentrate can increase compound stomach weight, promote the division of cells of stratum spinosum and stratum basale at some extent, which promote the development of rumen epithelial tissue,besides,adding mulberry leaf powder also can eectively reduce the width of stratum corneum.
+
+Key words: mulberry leaf powder; Hu sheep; rumen epithelium

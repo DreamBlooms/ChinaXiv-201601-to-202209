@@ -1,0 +1,250 @@
+# 情绪效价、唤醒度和有无评价影响手部动作
+
+# 唐日新 李佳佳 王志鹏
+
+(南京大学社会学院心理学系，南京 210023)
+
+摘要研究探讨情绪正-负效价、唤醒度水平(高、中、低)以及有意识评价对推拉动作的影响。分3个实验进行，收集反应时(RT)和手部动作指标等。实验1使用正-负效价下高、中、低唤醒水平的图片进行评价并执行推-拉动作任务；实验2使用中性图片和灰色空白图片完成相同任务；实验3在不进行效价评估情况下完成推-拉动作。结果表明(1)情绪效价对反应时，运动时间和到达峰速时间等有显著影响：向上拖动图片时，消极图片拖得更快；向下拖动时，则积极图片更快。(2)情绪唤醒度调节情绪效价对推-拉动作的作用：唤醒度越高，情绪效价尤其是负性情绪对推-拉动作的作用越大；反之，则作用越小。(3)无评价条件下，情绪效价对推-拉动作无显著影响；即情绪对动作的影响需要在有意识评价的参与。这些结果说明情绪对推拉动作影响可能发生在早期，不仅影响动作计划，而且影响到随后动作的执行，而高唤醒度和有意识评价增强了这种影响。
+
+关键词接近-回避；情绪；手部动作；唤醒；评估
+
+分类号 B842
+
+# 1问题提出
+
+情绪研究是心理学领域的热点之一。研究表明情绪可影响神经生理活动(e.g.Dixon,Thiruchselvam,Todd,& Christoff,2017)、决策任务(Fu,Yu,Ni,&Li,2018)，并引发特定行为动作(Kret & Bocanegra,2016; Chester & DeWall,2017)。“战或逃”(Fight-or-flight response)是人类进化过程中情绪与生理系统、应激行为关系的典型表现。当个体面临威胁，有机体的生理系统在经过评估后可迅速改变以做出"战斗"或"逃跑"的反应，即情绪会影响动作行为。而具身认知理论则认为身体的感知或动作变化可以通过大脑运动皮层影响个体对环境的理解和互动(见黎晓丹，叶浩生，丁道群，2018)，即身体的运动或感知经验塑造个体的认知和判断。情绪的外周理论以及躯体标记假说(Reimann& Bechara，2010)也认为情绪是具身的。但是，关于情绪如何影响动作任务的研究较少。生活中，周围刺激会引发个体积极或消极的情绪(Krpan& Schnall,2014)，并且人需要在情绪影响下做出动作，如清除房间老鼠、蜘蛛；工作中操作危险有毒的物品；运动员在高度紧张的情况下完成相应动作等。动作行为过程是否受到刺激所引起情绪的影响，或者主要受到情绪中何种因素影响，这对于认知工效学，运动心理学和情绪研究等领域都有重要的意义。对情绪与动作关系的讨论和验证，有助于通过外在的行为动作来解释真实的情绪或态度，帮助个体理解自己以及他人行为；还可根据情绪状态预测行为动作，并通过情绪与动作相互作用的机制调节情绪或认知。
+
+情绪包含不同维度，Russell在1980 年将"效价"和"唤醒度"结合提出了情绪的环状模式(Russell,1980)。情绪效价影响反应时的研究主要集中在推-拉动作方面。人在拉(pul)积极刺激的反应时要比推更快，推(push)消极刺激时反应时更快(Solarz，1960；Duckworth,BarghGarcia,&Chaiken,2002)。但是在动作执行过程中，情绪效价如何影响动作目前还不清楚。Goodale 等提出知觉和行为分属两套独立的但是相互作用的视觉系统(e.g.，Goodale &Humphrey，1998)，腹侧视觉系统(Ventral stream)负责物体的感知；背侧视觉系统(Dorsalstream)则负责行为的引导。详细地说，腹侧系统将视觉信息转化为感知表征，体现对象及其关系的持久特征，使个体能够识别客体并建立客体与意义之间的因果关系，而背侧系统主要处理关于物体相对于正在使用的效应器的位置和位置的时刻信息，从而调节视觉控制。近期研究证明积极刺激的注意偏向快速且不自主地发生在测量早期；情绪启动效应发生在词汇加工的早期阶段(Pool,Brosch,Delplanque,& Sander,2016；范宁，许晓，周芳洁,2017)。根据两套系统的理论，如果周围环境的影响发生在初级视觉皮层的初始信号处理之前或期间，那么这种影响的后果将传递给两个视觉系统继而影响后续动作。如果情绪影响较晚，动作可能较少受到知觉所引起情绪的影响。因此，对知觉到物体刺激产生的情绪效价是否对后续动作操作产生影响进行研究有助于理解情绪效价对动作作用的机制。
+
+唤醒度(arousal)作为情绪的重要维度也被广泛研究(Frijda,Kuipers，& Ter Schure,1989;Kuppens,Tuerlinckx,Russell,&Barrett,2013;Reisenzein,2017)。情绪与动作倾向性的关系可区分为不同种类的情绪体验，而唤醒度在动作准备和认知加工中的作用也不可忽视(Kret &Bocanegra,2016)。以往研究对唤醒度高低造成的影响观点并不一致，例如高唤醒度下正-负效价情绪刺激的步调(step initiation)模式无明显差异，而反应时存在显著差异(Bouman, Stins,& Beek,2015)。高唤醒度下老年与成年人在不同效价图片注视时间上的差异不显著，在其他唤醒度水平时则存在显著的年龄差异(Kappes,Streubel,Droste,&Folta-Schoofs,2017)。情绪唤醒度的高低对个体反应也存在一定影响，如高唤醒下启动词的激活程度更高，当启动刺激与目标刺激呈现时间长达 $3 0 0 ~ \mathrm { { m s } }$ 时只有高唤醒度词汇出现启动效应(范宁等，2017)。同时,脑电研究的结果表明人体对高唤醒刺激更难进行抑制控制(赵绍晨，郑希付,2017)。高情绪唤醒度可能增加了情绪刺激的强度，因此，在当前研究中，如果情绪影响了后续动作过程，唤醒度高低是否会影响后续动作的速度和幅度也值得进一步考察。以往研究着重研究情绪的效价而忽视了情绪唤醒度的对行为可能存在的影响，本研究将综合情绪的不同效价和不同唤醒度水平来探讨其对动作调整的作用。
+
+此外，以往研究对情绪的评价和测量多采用主观评价，但这种评价可能加强了个体对刺激效价的记忆或影响到被试对刺激的唤醒度，从而对结果产生影响。徐慧芳、张钦和郭春彦(2015)的研究认为，情绪效价是有意识使用认知资源对情绪刺激进行精细加工的结果，从而影响了回想和熟悉性的过程。Veling 和 Aarts (2011)发现在偶然知觉到需求目标物(积极刺激,可视为某种情绪性刺激)时，会引起运动系统的无意识准备。从原始感受性反射(Grau et al.,2006;Lang& Bradley,2013)到皮下层计算(Moscarello & LeDoux; 2013,Panksepp,2013)，再到更高层大脑皮层的处理加工(Rolls，2013)，意识对刺激的评估以多种水平贯穿在整个神经系统中。Chen 和 Bargh(1999)呈现词汇刺激后让一半被试尽快地只拉而一半被试只进行"推"动作以排除有意识的评估，结果显示依然存在情绪与反应倾向的交互作用，说明情绪效价对与运动倾向的影响不需要意识参与也可以自动完成。而Rotteveel和Phaf (2004)的研究在被试只加工图片中性别信息而忽略效价信息时显示效价和运动倾向性不存在交互作用，即情绪对动作的影响需要意识的参与。因此，本研究期望考察有意识评价是否会加重被试对自身情绪的感知从而影响行为。
+
+综上所述，以往研究中主要考察推和拉的动作对反应时的影响，而个体在动作执行前的动作计划除了启动反应时之外，还包括随后手部动作的速度等，因此可能存在效价对启动后的动作仍然产生影响。此外，情绪对行为的影响由于不同唤醒度水平可能存在不同。“唤醒偏好竞争”(arousal-biased competition，ABC)理论认为情绪的唤醒度增强了个体对明显刺激的感知和记忆(如对生命有威胁的武器、对自身的奖励/惩罚有关联的物体、与当前目标相关的刺激)，对刺激的感知有助于有机体迅速做出反应(Mather＆ Sutherland,2011)，从这一理论看，不同唤醒度和有无意识评价可能对推拉动作过程的影响也不同。因此，研究通过3个实验分析以上问题。实验1主要考察不同唤醒度水平下效价对手的动作影响是否相同，研究假设情绪刺激的效价和唤醒度影响手的操作动作；实验2用中性图片和灰色空白图片作为实验材料，排除实验1中被试主观随意拖动动作导致结果的可能；实验3检验无意识状态下是否存在以往情绪与动作的作用，来验证有意识评价的参与是否影响动作模式。实验假设情绪对动作的影响发生在早期并影响后续动作，不同唤醒度水平能够调节情绪对动作的作用，对情绪刺激的评估(认知)是其中的重要组成部分。
+
+# 2实验1：情绪效价与唤醒度水平对手推-拉动作的影响
+
+实验1主要检验不同唤醒度水平下情绪效价对动作的作用，并假设(1)效价对动作产生影响。向下拖动积极和消极的图片，积极情况下比消极下更快；向上拖动积极和消极图片,消极情况下比积极情况时更快;(2)唤醒度不同时，情绪效价对运动倾向一致性的影响大小也不同，具体表现为唤醒度越高情绪效价对运动倾向性影响越强，唤醒度越低则情绪效价对运动倾向性的影响越弱。
+
+# 2.1被试
+
+南京大学 24 名本科生和研究生(男12女12)，均为右利手，年龄在 20\~28 岁之间，视力或矫正视力正常，无神经系统和运动系统重大疾病，所有被试均是在严格的实验伦理下自愿参加并完成实验，实验结束后会支付被试相应的报酬。被试参加了实验1和实验2，实验1和实验2时间相隔1周。
+
+# 2.2 实验设备和材料
+
+常温和正常光照条件实验室内进行，被试右手手指拖动图片的数据通过加拿大 NDI 公司生产的 OPTOTRAKCertus 三维运动捕获系统进行测量，将系统采样频率设定为 $2 0 0 \mathrm { H z }$ 即每秒钟会收集被试 200个运动数据。实验图片来自《中国情绪材料情感图片系统》(CAPS,Chinese Affective Picture System)中不同情绪效价图片 60 张(其中积极、消极各30 张)。根据实验之前被试在唤醒度上评分结果，将60 张图片在唤醒强度分为强(强度得分最高 10 张)、中(居中10张)、弱(最低 10张)。统计结果表明，正、负效价图片在效价上存在显著差异 $( p <$ 0.01)；高、中、低唤醒度在正效价和负效价的事后检验两两之间均存在显著差异 $( p < 0 . 0 1 )$ 。
+
+# 2.3 实验变量设计
+
+为了防止之前行为对随后行为的影响(Tang，Whitwell,& Goodale,2016)，实验采用被试间设计，随机分配一半被试先进行实验1而剩下的被试先进行实验2。研究的实验采取 $2 { \times } 3$ 的混合设计,(1)图片的效价为被试间变量：积极(正效价)、消极(负效价)；即每个被试只接受一种指导语，被试看到图片后进行效价评价，一半被试将积极图片拖入上框消极图片拖入下框，另一半相反。(2)唤醒度为被试内变量：高、中、低；由于向上和向下动作存在很大不同，分别对向上拖动、向下拖动动作进行分析。对于动作指标，我们参照以往研究(e.g.Chapman& Goodale，2010; Ciardo,Campanini， Merlo,Rubichi,& Iani， 2018;Whitwell,Lambert，&Goodale,2008;Tang,Whitwell,&Goodale,2015)，收集向上和向下拖动时的反应时、达到峰速时间、运动时间和峰速等描述手部动作的指标作为因变量。研究的因变量通过软件进行计算，反应时为图片呈现到被试拖动速度刚大于 $0 . 1 \mathrm { \ m / s }$ 的时间；到达峰速时间即图片呈现到被试拖动速度最大的时间；运动时间即拖动速度大于 $0 . 1 \mathrm { \ m / s }$ 到拖动结束图片消失的时间；峰速即图片呈现到图片消失过程中被试最大拖动速度。由于实验场景，任务和分析软件与以往研究不同，在变量具体参数规定等方面略有差异。
+
+# 2.4实验任务和程序
+
+所有被试全程站立于距电脑屏幕水平距离为 $1 0 { \sim } 1 5 ~ \mathrm { c m }$ 的位置，眼睛距离电脑屏幕约 75cm，图片刺激呈现的方向一致。正式实验之前，呈现练习实验。练习实验中使用6张图片，其中3张积极图片、3张消极图片，每张图片随机呈现3次，直到被试进行三次正确操作为止。练习实验所用的图片不会在正式实验中出现，练习实验数据不用于分析。首先被试按要求站在电脑屏幕前，在被试右手的食指上贴有运动传感器 marker点，通过编程呈现不同效价和唤醒度的刺激并记录被试动作数据的变化指标。整个过程的拖动动作要保持垂直于电脑屏幕上、下边缘，且保持手指与屏幕的接触，不能出现手指抬离屏幕的情况。屏幕中央矩形框会在程序打开后呈现不同效价图片，被试需要按照指导语要求将不同效价的图片拖入相应的上或下框，然后将手指放回起始框（见图1）。如果情绪效价影响动作，则向下拖动积极效价图片、向上拖动消极效价图片的反应时、峰速、到达峰速时间将显著快于向下拖动消极图片、向上拖动积极图片的反应。如果唤醒度同样对动作有影响，则高、中、低唤醒度下图片刺激的动作将存在显著差异。
+
+![](images/1fb1774ac7f56771be80c53ca0e9ec88a44dce2ff24dba324533c6afc6e7f01f.jpg)
+
+图1实验流程图。图片在分辨率为 $1 9 2 0 \times 1 0 8 0$ 像素的21.5英寸电脑屏幕上呈现和拖动，请被试按要求站在距电脑屏幕 $1 0 { \sim } 1 5 ~ \mathrm { c m }$ 稍接近电脑左半侧的位置，电脑屏幕中央矩形框会在程序打开后呈现不同效价图片，图片内靠右侧有一个提示被试放食指(贴marker 点)的圆形筐，屏幕上下两个边缘处各有一个拖放图片的矩形框，三个矩形框大小一样均为 $1 0 \mathrm { c m } \times 1 0 \mathrm { c m }$ ，矩形框背景颜色为中性的米黄色。
+
+# 2.5 实验结果
+
+分别对反应时RT，运动时间MT和达到最大速度的时间PT等指标进行了方差分析，实
+
+验中反应时小于 $1 0 0 ~ \mathrm { { m s } }$ 或大于 $1 0 0 0 ~ \mathrm { { m s } }$ 及PT和MT小于 $1 0 0 ~ \mathrm { { m s } }$ 或者大于 $2 0 0 0 ~ \mathrm { { m s } }$ 数据视为极值，被试重做。分别将被试数据分为向上拖动的正、负效价图片相对应的数据和向下拖动的正、负效价图片的数据进行分析。
+
+# 2.5.1 向上拖动的正、负效价图片各指标分析
+
+![](images/c3c24c7d1a670502cdc440de69599bf665fac0a7e87e3efcff23f86d1fbef386.jpg)  
+图2实验1向上拖动正、负效价图片在反应时、到达峰速时间、运动时间和峰速上均值的比较
+
+向上拖动时，情绪效价与唤醒度的交互作用在反应时RT上显著, $F ( 2 , 4 4 ) = 1 7 . 1 7 , p <$ 0.001, $\boldsymbol { \eta _ { \mathrm { p } } } ^ { 2 } = 0 . 4 4$ ；唤醒度的主效应在反应时 RT上显著 $F ( 2 , 4 4 ) = 1 4 . 7 7 , p < 0 . 0 0 1$ $\eta _ { \mathrm { p } } { } ^ { 2 } = 0 . 4 0$ 配对检验结果说明反应时RT在负效价图片高-中唤醒度配对中差异显著, $t ( 1 1 ) = - 6 . 7 0 ,$ p<0.001, $d = 0 . 2 3$ ，高-低唤醒度配对差异显著, $t ( 1 1 ) = - 4 . 9 0 , p < 0 . 0 0 1 , d = 0 . 3 3 ,$ 。高唤醒度水平下，反应时显著快于中、低唤醒度水平。高唤醒度水平时，正、负效价图片在反应时 RT 上存在显著差异, $F ( 1 , 2 2 ) = 1 5 . 5 0 , p < 0 . 0 0 1 , \eta _ { \mathrm { p } } ^ { 2 } = 0 . 4 1$ 。其他无显著差异(见图 2a)。
+
+情绪效价与唤醒度的交互作用在到达峰速时间PT上也显著, $F ( 2 , 4 4 ) = 1 2 . 9 5 , p < 0 . 0 0 1$ $\boldsymbol { \eta _ { \mathrm { p } } } ^ { 2 } = 0 . 3 7$ 。唤醒度的主效应在到达峰速时间PT上差异显著 $F ( 2 , 4 4 ) = 1 7 . 0 0$ $p < 0 . 0 0 1$ ， $\boldsymbol \eta _ { \mathrm { p } } { } ^ { 2 } =$ 0.44；配对检验结果显示到达峰速时间 PT在负效价图片高-中唤醒度配对中差异显著，t(11)$= 7 . 8 9$ ， $p < 0 . 0 0 1$ ， $d = 0 . 1 9$ 和高-低唤醒度配对中差异显著, $t ( 1 1 ) = - 5 . 1 7 , p < 0 . 0 0 1 , d = 0 . 2 3 .$ 高唤醒度水平下到达峰速时间PT 显著快于中、低唤醒度水平。高唤醒度水平时，正、负效价图片在到达峰速时间PT上存在显著差异, $F ( 1 , 2 2 ) = 1 2 . 2 5 , p < 0 . 0 0 3 , { \mathfrak { \eta } } _ { \mathfrak { p } } ^ { 2 } = 0$ 。其他无显
+
+著差异（见图2b）。
+
+在运动时间MT上，效价与唤醒度交互作用不显著, $F ( 2 , 4 4 ) = 1 . 3 3 , p > 0 . 2 \$ ；但是唤醒度主效应显著, $F ( 2 , 4 4 ) = 4 . 8 9$ ， $p < 0 . 0 5$ $\mathfrak { N } _ { \mathrm { p } } { } ^ { 2 } = 0 . 1 8$ ；事后检验结果表明高唤醒度水平下的运动时间显著快于中、低唤醒度水平 $( p < 0 . 0 5 )$ 。正效价图片数据配对 $t$ 检验结果显示，运动时间MT 在中-低唤醒度配对时差异显著, $t ( 1 1 ) = - 2 . 3 1 , p < 0 . 0 5 , d = 0 . 2 0$ ；这说明向上拖动动作的完成受到唤醒度一定程度的影响。高唤醒度水平时，正、负效价图片在运动时间MT上存在显著差异, $F ( 1 , 2 2 ) = 4 . 4 9 , p < 0 . 0 5 , { \mathfrak { \eta } } _ { \mathrm { p } } ^ { 2 } = 0 . 1 7$ 。其余均未达到显著的水平。峰速PS上交互作用，主效应均不显著（见图 2c、d）。
+
+在唤醒度高时向上拖动不同效价的图片，负效价图片在反应时RT、到达峰速的时间PT和运动时间上MT上显著比正效价图片短，即图片所具有的负效价相对于正效价更能激活被试向上拖动动作的发生和进行。负效价图片数据在反应时RT 和达到峰速的时间PT上，高唤醒度的图片比中、低唤醒度图片启动被试的反应时间明显更快。这表明向上拖动负效价图片的过程中，唤醒度在情绪效价对动作一致性的影响中起到了显著的调节作用：当唤醒度越高时，图片中的负效价对向上动作的激活和促进就越明显，越能激活向上拖动动作的发生并最快到达峰速以促进动作的进行；整个运动过程中所耗费的时间上随唤醒度不同而略有差别。
+
+# 2.5.2 向下拖动的正、负效价图片各指标分析
+
+同样对向下拖动正、负效价图片数据进行分析，得到的结果与向上拖动数据有很大的差别。在反应时RT上效价与唤醒度二者存在交互作用, $F ( 2 , 4 4 ) = 1 3 . 8 1$ ， $p < 0 . 0 0 1$ ， ${ \mathfrak { \eta } } _ { \mathfrak { p } } { } ^ { 2 } = 0 . 3 9$ 唤醒度主效应显著, $F ( 2 , 4 4 ) = 1 5 . 0 1 , p < 0 . 0 0 1$ $\eta _ { \mathrm { p } } { } ^ { 2 } = 0 . 4 1$ ；效价主效应显著, $F ( 1 , 2 2 ) = 2 5 . 8 9$ （2$p < 0 . 0 0 1$ ， $\mathfrak { \eta _ { \mathtt { p } } } ^ { 2 } = 0 . 5 4$ 。向下拖动动作在负效价图片的反应时RT上高-中配对差异显著, $t ( 1 1 ) =$ $- 8 . 4 1 , p < 0 . 0 0 1 , d = 0 . 3$ ；高-低配对差异显著， $t ( 1 1 ) = - 6 . 4 1 , p < 0 . 0 0 1 ,$ （20 $d = 0 . 4 0$ 。正效价图片的反应时在各个唤醒度水平上无显著差异。正效价图片的反应时均显著快于负效价图片；与负效价图片相比，正效价图片在向下拖动动作，也就是朝向被试者方向上促进动作激活的程度更强（见图3a）。
+
+到达峰速时间PT上效价与唤醒度交互作用同样显著, $F ( 2 , 4 4 ) = 1 4 . 5 4 \$ ， $p < 0 . 0 0 1$ ， ${ \mathfrak { n } } _ { \mathfrak { p } } { } ^ { 2 } =$ 0.40；唤醒度主效应显著, $F ( 2 , 4 4 ) = 1 8 . 2 6 , p < 0 . 0 0 1 , \eta _ { \mathrm { p } } { } ^ { 2 } = ($ $\eta _ { \mathrm { p } } { } ^ { 2 } = 0 . 4 5$ ；效价主效应显著, $F ( 1 , 2 2 ) =$ 17.94, $p < 0 . 0 0 1$ ， $\boldsymbol { \eta _ { \mathrm { p } } } ^ { 2 } = 0 . 4 5$ 。对于负效价图片，向下拖动动作到达峰速时间PT中，高-中唤醒度间差异显著, $t ( 1 1 ) = - 8 . 0 4$ $p < 0 . 0 0 1$ ， $d = 0 . 2 4$ ；高-低唤醒度间差异显著， $t ( 1 1 ) = - 7 . 9 1$ $p <$ 0.001, $d = 0 . 2 9$ 。正效价图片各个唤醒度水平在到达峰速时间上无显著差异。正效价图片在到达峰速时间上均显著快于负效价图片；与负效价图片相比，正效价图片更能促进向下拖动动作到达峰速（见图3b）。
+
+运动时间 MT 中情绪效价与唤醒度的交互作用不显著，主效应也不存在显著。在峰速PS 上情绪效价与唤醒度的交互作用不显著；唤醒度的主效应显著, $F ( 2 , 4 4 ) = 4 . 6 8$ $p < 0 . 0 5$ $\eta _ { \mathrm { p } } { } ^ { 2 } = 0 . 1 8$ 。除高-低唤醒度配对在峰速PS 上差异接近显著外， $t ( 1 1 ) = 1 . 9 9$ ， $p = 0 . 0 7$ $d = 0 . 1 6$ 其余指标配对检验则未发现显著效应 $( p > 0 . 1 )$ ，表明了整个运动过程中相比于低唤醒度，高唤醒度对被试达到的峰速PS 指标上可能存在一定影响。但是动作所达到的峰速并未随着图片效价不同而产生差异（见图3c、d）。
+
+向下拖动正效价图片动作的激活和加速到峰速的过程并未受到唤醒度的显著影响，而峰速受到唤醒度的影响。负效价中高唤醒度水平图片启动比中、低唤醒度更快。结果说明唤醒度在情绪效价对动作一致性的影响中起到了显著的调节作用，图片负效价唤醒度越高越能激活被试向下拖动的动作并越快到达峰速。向下拖动正效价的图片比向下拖动负效价的图片反应上显著地快，到达峰速时间上显著地短，即表明了被拖动的图片所传达的正效价相对于负效价更能快地激活并促进向下动作的发生及进行。
+
+![](images/46701038b7b93f3678174470ae9096c32094ad928f774afb9f45d47e0a25d779.jpg)  
+图3实验1向下拖动正、负效价图片在反应时、到达峰速时间、运动时间和峰速上均值的比较
+
+# 2.5.3 讨论
+
+在唤醒度较高的情况下，被试表现出了更快推开负效价图片的倾向性，即消极情绪相对于积极情绪更能促进推的动作的激活和进行。并且，无论向上还是向下的拖动动作，消极情绪图片的唤醒度越高对动作调节作用越强，就越能促进动作的产生和进行。综上所述，实验1可以得出以下结论：(1)积极情绪相对于消极情绪更能促进向下拖动动作的激活和完成，消极情绪则更能促进向上拖动动作的激活和完成;(2)唤醒度越高，消极情绪向上、向下的拖动动作都会加快；唤醒度水平对积极情绪的作用不明显。
+
+# 3实验2：中性情绪刺激对手推-拉动作的影响
+
+实验1结果表明，被试向上拖动积极图片时速度更快，向下拖动时消极图片速度更快。为了进一步确定，该结果确实由于情绪影响，而不是被试主观随意性或向上向下动作差异的作用，实验2采用中性图片以及一定数量的灰色空白图片作为实验刺激。研究假设，实验1的结果是由不同情绪效价目标刺激物产生的，且对被试的运动倾向性产生了显著的影响，那么，当中性效价图片作为刺激物时，不存在显著的接近-拒斥效应。
+
+# 3.1被试
+
+同实验1。
+
+# 3.2 实验设备和材料
+
+采用《中国情绪材料情感图片系统》(CAPS,Chinese Affective Picture System)中的中性图片 30张以及10张同样大小的灰色空白图片。根据图片在唤醒度上数值的高低，这40 张唤醒强度分为强(强度数值最高10张)、中(居中10张)、弱(最低 10张)以及10张图片大小的灰色空白图片。为了确定中性图片效价，将中性图片与实验1正负效价图片放在一起让被试评价，结果表明正效价、中性、负效价图片在效价上两两之间存在显著差异 $( p < 0 . 0 1 )$ ，中性图片在高、中、低唤醒度上也存在显著差异 $( p < 0 . 0 1 )$ 。
+
+# 3.3 实验变量设计
+
+实验2也采用 $2 { \times } 3$ 的混合设计，(1)图片的"效价"为被试间变量：中性效价图片、灰色空白图片；(2)唤醒度为被试内变量：高、中、低；与实验1相同，向上拖动、向下拖动动作分开进行分析。
+
+# 3.4 实验任务和程序
+
+同实验1，练习实验中被试连续三次完全没有任何操作上的错误即可进入正式实验。正式实验中呈现图片后要求被试尽快地评估图片的“效价”，即所呈现的内容是中性事物还是灰色空白图片。然后被试按照所评估图片内容的不同，将图片拖放入上框或下框；一半被试，
+
+中性的事物拖入上框，灰色空白图片拖入下框；另一半被试指导语则相反。每次正确的动作完成以后，会有 $2 0 0 0 ~ \mathrm { { m s } }$ 的休息时间。此时被试要将手指重新放回起始框，等待下一张图片的出现。
+
+# 3.5结果
+
+重复测量方差分析的结果显示所有指标的效价主效应、唤醒度主效应及效价与唤醒度交互作用均不显著。其中最大 $F$ 值和最小 $p$ 值为 $F ( 2 , 4 4 ) = 1 . 6 5 , p > 0 . 2$ 。由于向上和向下动作在生理上存在不同，与之前实验分析一致，对向上和向下的动作指标分别进行方差分析。
+
+向上拖动中性、灰色空白图片在反应时RT、到达峰速的时间PT、运动时间MT和峰速PS 均未发现显著差异 $( p > 0 . 0 1 )$ 。其中 $F$ 值最大且 $p$ 值最小为 $F ( 2 , 4 4 ) = 1 . 5 6 , p > 0 . 2$ 。向下拖动中性、灰色空白图片在反应时RT、到达峰速的时间PT、运动时间 MT 和峰速PS 也不存在显著差异 $( p > 0 . 1 )$ ，其中 $F$ 值最大 $p$ 值为 $F ( 2 , 4 4 ) = 1 . 6 5 , p > 0 . 2$ 。由此可得，中性图片不存在显著的接近-拒斥效应，支持了实验2的假设并排除了实验1中被试主观随意性操作的额外变量的干扰，即情绪效价图片与唤醒度确实调整了个体的运动倾向性(见图4、图 5)。
+
+中性图片 中性图片灰色空白 灰色空白500600200 三到2001000高唤醒度 中唤醒度 低唤醒度 高唤醒度 中唤醒度 低唤醒度唤醒度 唤醒度中性图片 中性图片灰色空白 灰色空白1.51 1.0 三200 (s/u)d0.51000.0高唤醒度 中唤醒度 低唤醒度唤醒度 唤醒度
+
+![](images/e841d4fd53fca10ece0513ae9136a0297158255e6d5ccbde8f37d120b38dc0c6.jpg)  
+图5实验2向下拖动中性图片、灰色空白图片在反应时、到达峰速时间、运动时间和峰速上均值的比较
+
+# 3.6 讨论
+
+结果显示，在RT/PT/MT/PS 这些指标上，中性图片和灰色空白图片的差异都是不显著的，结果证明了实验假设：中性的图片不存在显著的接近-拒斥效应。如果被试存在随意操作的行为，即被试不是根据图片的效价判断而是随意拖动实验呈现的图片，那么即使呈现没有情绪效价的中性的图片，也会存在实验1中的某些显著差异。但是实验2数据显示所有的指标均不存在显著差异，从而排除了实验1中的结果是由被试随意拖动而产生的可能性。
+
+# 4实验3：有无情绪刺激评价对手推-拉动作的影响
+
+实验3检验情绪效价对运动倾向性的影响是否在无意识条件下也能实现。实验中，被试看到图片呈现后无需评估，而是尽快地只往上或者只往下拖动。若结果发现不同效价的情绪图片在运动倾向性上依旧存在显著差异，则说明运动倾向性在无意识状态下也能受到情绪的显著影响，反之，则说明了情绪效价必须在有意识评价参与条件下才能调节被试的接近-拒斥的运动倾向。
+
+# 4.1被试
+
+南京大学15名参与过实验1和实验2的本科生和研究生(男7女8)，因实验时隔两个月导致被试流失，基本结果与之前实验一致。被试均为右利手，年龄在 20\~28岁之间，视力或矫正视力正常，无神经系统和运动系统重大疾病，身体能直立并胳膊能自由伸展和收缩，所有被试均在严格的实验伦理下自愿参加并完成实验，实验结束后会支付被试相应的报酬。
+
+# 4.2程序
+
+实验设备和实验图片选择方法同实验1。自变量分别为情绪效价(被试间：正、负效价)和唤醒度(被试内：高、中、低)的混合设计，其它情况同实验1。在呈现某种具有效价图片以后无需评估效价，要求一半被试(7人)尽快将所有图片拖入上框；另一半被试(8人)将呈现图片全部拖入下框。每次正确的动作完成以后会有 $2 0 0 0 \mathrm { { m s } }$ 的休息时间，在这段时间内被试要将手指重新放回起始框内。
+
+# 4.3结果
+
+分别对向上和向下拖动的数据进行了唤醒度被试内、效价被试间重复测量方差分析，结果显示所有指标的效价主效应、唤醒度主效应及效价与唤醒度交互作用均不显著 $( p > 0 . 1 )$ 。对无意识状态下向上拖动正、负效价图片的反应时RT、到达峰速的时间PT、运动时间 MT、达到的峰速PS 分析的结果显示，被试在此过程中的反应时、到达峰速的时间、运动时间和到达峰速无显著差异。其中, $F$ 值最大且 $p$ 值最小为 $F ( 2 , 2 6 ) = 0 . 8 4 , p > 0 . 3$ 。向下拖动动作在各个指标上也未发现显著差异（见图6、图7）。最大 $F$ 值且最小的 $p$ 值为 $F ( 2 , 2 6 ) = 0 . 4 1 , p$ （204号$= 0 . 5 3$ 。
+
+![](images/d0203108803e9e25917ba6a808bedb3f7507b196517f66209afdf8295bfdcb36.jpg)  
+图6实验3向上拖动正、负效价图片在反应时、到达峰速时间、运动时间和峰速上均值的比较
+
+![](images/90df2246218796d98bc505749891249a610c428d5bcf0dd1e0257a3528b64b78.jpg)  
+图7实验3向下拖动正、负效价图片在反应时、到达峰速时间、运动时间和峰速上均值的比较
+
+# 4.4讨论
+
+实验3结果表明在没有意识参与的图片效价评估时，图片情绪效价并未影响到动作在某个方向上的一致性；结合实验1，当被试先进行效价评估并根据评估结果进行拖动时，情绪效价对动作在某个方向上的一致性起到了显著的激活和促进作用。两个实验结合起来，可以得出情绪对动作的影响是需要意识参与的结论。即情绪对动作影响的过程就是个体自主评价的过程，根据评价结果个体再选择出最符合自己标准行动。对被试拖动的数据在唤醒度上进行配对 $\mathbf { \chi } _ { t }$ 检验以后，未发现在实验1中出现的显著现象，这也说明唤醒度并未在无意识状态下对动作各种反应指标起到任何显著的作用。情绪效价对被试动作一致性的影响是意识参与下的结果，不是在无意识状态下自动完成的。
+
+# 5总讨论
+
+情绪在社会互动、动机行为、决策、记忆、注意和知觉等多种领域内都发挥着重要作用(Kret&Bocanegra,2016)。研究主要观察了个体如何处理不同唤醒度水平下的情绪效价刺激，其结果发展了以往研究的结论，即情绪效价影响反应时的同时也作用于其他运动指标。实验1 的结果证明，情绪效价影响个体的运动倾向性，即向上推负效价图片、向下拉正效价图片的加工时间较短。同时，在不同唤醒度的作用下表现出唤醒度越高，动作的促进程度越强的趋势。实验2被试在对中性图片和灰色空白图片反应时动作指标无明显差异，这表明实验1的效应与情绪有关，而不是由于向上向下动作不同导致。实验3要求个体在缺少对图片的效价评估情况下，进行无意识地向上或向下拖动，发现正、负效价图片在运动指标上无明显差异。这说明意识在情绪与动作的关系中的作用，即对图片效价进行评估后更能激发或者强化情绪的作用。
+
+实验结果支持了情绪对动作的影响作用，情绪通过认知评价影响了手部动作。“拉近”正效价刺激以及"推离"负效价刺激情况下动作的反应时、到达峰速时间都较短，这一结果符合具身认知的观点，即情绪刺激与身体的位置和活动有关。以身体为中心，上面的、接近的隐喻为积极的，下面的、远离的多被隐喻为消极的(Landau.，Meier,& Keefer,2010；叶浩生，2010)，未来可尝试更多身体动作与认知的关联以更好地了解认知、身体与环境的互动关系。实验中动作被赋予或激活了情感属性，身体动作(如接近-回避)中的效价意义与情感刺激在效价上的一致能够影响认知加工即情感并促进之后的加工，不一致则造成阻碍(严磊，佐斌，吴漾,2016)。研究证明了正、负效价情绪图片影响动作执行的反应时，这与以往研究的结果一致(Zhang,Proctor,& Wegener,2012; Pereira et al.,2010)。同时说明了情绪效价在个体动作调整过程中的作用。实验结果显示向上拖动动作中的显著差异多集中在高唤醒度指标上，这说明只有较明显的目标刺激物才会对接近-拒斥的运动倾向性产生显著的影响；在向下拖动动作中，高、中、低唤醒度图片数据间的差异在反应时(RT)和到达峰速的时间(PT)上均达到了显著水平。这不仅说明向上和向下拖动动作间的差异，也说明了向下拖动(接近动作)更容易受到效价的影响，或对刺激物的效价更加敏感。以往研究使用操纵杆(e.g.，Eder &Rothermund,2008)，杠杆(e.g., Chen & Bargh,1999)，按键(e.g.,De Houwer, Crombez,Baeyens,& Hermans,2001)以及 whole-body movement 范式，如皮肤电等(Bouman et al.,2015）来说明情绪效价影响相应动作及反应时。本研究不仅分析了反应时，且考察了手的操作动作过程的变化。向下拖动正效价图片不仅在反应时上较短，到达峰速的时间也短；向上拖动负效价图片在反应时和到达峰速时间上较短。情绪效价调整了动作的激活和维持。
+
+情绪效价影响动作行为，唤醒度是其中很重要的因素。情绪影响了后续动作且在高唤醒度下影响变大，也就是说情绪在初级信号处理之前或期间对视觉的两个系统发生了作用。但研究结果表明，这种作用主要发生在负性情绪上。唤醒度对动作指标的影响符合进化形成的心理机制所产生的输出，它包括生理活动和外显行为——如面对威胁时迅速做出“战或逃"反应。研究结果证明情绪的高唤醒度对个体行为调整和执行有重要作用。因此，情绪是否影响行为与刺激物对个体的唤醒度有关。唤醒度越高，尤其在负效价图片向上拖动动作的效应越强。有趣的是，负效价图片在向下拖动时，唤醒度越高反应时越短。唤醒度与效价的效应似乎出现了分离，这可能与负效价图片所具有的危险信息有关。特定情绪如威胁信号(消极情绪)与动作的联系更强(Kret&Bocanegra,2016)，它可以被完全加工、快速检测并进行更多准备、进行快速动作。而积极情绪的反应较弱可能因为其扩大了注意范围，如以快乐、中性和悲伤的音乐为刺激的 ERP和行为结果表明，处于愉快心情的被试的注意更为分散(Putkinen,Makkonen,&Eerola,2017)。因此，情绪唤醒度对动作存在影响且在消极情绪上作用更强。研究主要考察了情绪的效价与唤醒度，之后的研究可结合愉悦度-激活度-优势度(pleasure-arousal-dominance,PAD)的模型继续探讨情绪与动作的关系(刘烨，付秋芳，傅小兰，2009；严磊，佐斌，吴漾,2016)。
+
+是否对图片效价进行评估影响了动作结果，即意识参与可能加强了情绪的影响，这支持了以往研究的结果(Rotteveel& Phaf,2004)。在不需要进行效价评估的情况下发现不同刺激下的运动模式无显著差异，这说明缺乏有意识评估可能使得情绪的唤起水平降低。对情绪刺激的评价(积极/消极)使得个体产生了动机的方向(接近/回避)，并由此做出适应性的调节行为(Balcetis，2015)。结合两套系统理论，有意识评估促使个体知觉到了物体刺激产生的情绪效价，这种影响可能发生在初级视觉皮层的初始信号处理之前或期间便将信息传递到两套视觉系统，进而影响了后续动作。但在目前的情绪研究中，如情绪启动条件范式在实验之前对图片效价进行评估(方平，陈满琪，姜媛,2006)，而一些实验的效价评估处于刺激出现之后(王若茵，范宁，2016)，这可能是许多情绪实验结果不一致的原因之一。结合实验1的结果，意识可能是通过唤醒度加强了情绪对动作的影响。情绪、动作与认知背后的机制还有待进一步深入研究。此外，情绪评价理论主张从身体的感觉、过去的经验和情境因素中衍生出多个评价过程(Jamieson,Hangen,Lee,& Yeager,2017)。了解个体感知和表示距离差异的因素(近/远)，有助于解释社会背景下适应性反应的成功和失败。接近/回避是对环境刺激的一种关键反应，近期研究表明这种感觉运动信息可以拓展到手臂运动上(Rougier et al.,2018)，未来可以尝试研究身体其他部分的动作是否与手指、手臂存在同样的效应。
+
+实验结果为情绪认知评价理论(Siemer,Mauss,&Gorss,2007)和动作的评价效应(王汉林，莫雷,2017)提供了支持，同时提出了情绪研究中需要注意的问题。情绪的效价和唤醒度确实影响了手的操作动作，这表现在动作的激活及随后的维持过程，即情绪可以对行为产生影响。但是，不同水平的唤醒度和不同类型的情绪效价对注意的影响不同(Saxton，MyhreSiyaguna,&Rokke,2018)，消极情绪在高唤醒度水平下可以更快检测到目标而积极情绪在低唤醒度水平下产生了更好的表现。消极情绪如恐惧与集中注意力和有效处理负面信息有关，而积极情绪与认知灵活性和广泛的注意力有关。未来可探索特定的情绪状态下是否存在不同的运作机制。研究主要探讨了正-负效价下有无评价对动作的影响，之后的研究可关注更多类型的如感激、自豪、羞愧等复杂情绪来进一步了解特定情绪引起的动作变化差异。另外，本研究通过编程实现了手的动作和电脑屏幕上刺激的交互，结果还可应用于现代智能手机等触摸屏设备。同时，不同效价下动作指标存在显著差异说明了情绪或情绪评估的影响可能发生在早期，从而使得正-负效价的信息传递到两个视觉系统并影响了动作。未来可探索变化情绪图片刺激的呈现时段和时长来探讨情绪作用的时间范围。
+
+# 参考文献
+
+Balcetis,E. (2O15).Approach and avoidance as organizing structures for motivated distance perception. Emotion Review,8(2),115-128.   
+Bouman,D.， Stins,J.F.，& Beek,P.J.(2O15). Arousal and exposure duration affect forward step initiation. Frontiers in Psychology,6,1667,1-10.   
+Chapman, C.S.,& Goodale,M.A. (2010).Seing allthe obstacles in your way: The effect of visual feedback and visual feedback schedule on obstacle avoidance while reaching.Experimental Brain Research,202(2), 363-375.   
+Chen,M.,& Bargh,J.A.(1999).Consequences of automatic evaluation: Immediate behavioral predispositions to approach or avoid the stimulus.Personality & Social Psychology Bulletin,25(2),215-224.   
+Chester,D.S.,& DeWal, C.N. (2017). Combating the sting of rejection with the pleasure of revenge: A new look at how emotion shapes aggression. Journal of Personality and Social Psychology,ll2(3),413-430.   
+Ciardo,F.,Campanini,I.,Merlo,A.，Rubichi,S.,& Iani, C.(2018). The role of perspective in discriminating between social and non-social intentions from reach-to-grasp kinematics. Psychological Research,82(5), 915-928.   
+De Houwer,J., Crombez, G.,Baeyens,F.,& Hermans,D.(2Oo1). On the generalityof the affective Simon effect. Cognition & Emotion,15(2),189-206.   
+Dixon,M.L., Thiruchselvam,R.， Todd,R.，& Christoff,K.(2017).Emotion and the prefrontal cortex:An integrative review.Psychological Bulletin,143(10),1033-1081.   
+Duckworth,K.L.,Bargh,J.A.， Garcia,M.,& Chaiken,S.(2002). The automatic evaluation of novel stimuli. Psychological Science,13(6),513-519.   
+Eder,A.B.,& Rothermund,K. (2Oo8). When do motor behaviors (mis)match affective stimuli? an evaluative coding view of approach and avoidance reactions. Journal of Experimental Psychology: General,137(2), 262-281.   
+Fan,N.,Xu,X.,& Zhou,F.J.(2O17).The influence from arousal toaffective priming effectofChineseemotional words.Psychological Exploration.37(1),23-28.   
+[范宁，许骁，周芳洁.(2017)．唤醒度对汉语情绪词情绪启动效应的影响．心理学探新,37(1),23-28.]   
+Fang,P.,Chen, M. Q.,& Jiang,Y. (2006). Experimental paradigms of affective priming. Psychological Science, 29(6), 1396–1399.   
+[方平，陈满琪，姜媛.(2006).情绪启动研究的实验范式．心理科学,29(6),1396-1399.]   
+Frijda,N.H.,Kuipers,P.,& Ter Schure,E.(1989).Relations among emotion,appraisal,and emotional action readiness.Journal of Personality & Social Psychology,57(2),212-228.   
+Fu,L. S., Yu,J.J.,Ni,S.G.,&Li, H. (2018). Reduced framing effect: Experienceadjusts aective forecasting withlosses. Journal of Experimental Social Psychology,76,231-38.   
+Goodale, M. A.,& Humphrey, G. K. (1998). The objects of action and perception. Cognition, 67(1-2),181-207.   
+Grau,J.W., Crown,E.D.,Ferguson,A.R.,Washburn,S.N.,Hook,M.A.,& Miranda,R.C. (206). Instrumental learning withinthe spinalcord: Underlying mechanismsand implications forrecoveryafter injury. Behavioral and Cognitive Neuroscience Reviews, 5(4),191-239.   
+Jamieson,J.P.,Hangen,E.J.,Lee,H.Y.,& Yeager,D.S.(2O17).Capitalizing on appraisal processes to improve affective responses to social stress.Emotion Review,1O(1),30-39.   
+Kappes,C.,Streubel,B.,Droste,K.L.,&Folta-Schoofs,K. (2O17).Linking the positivityeect inattention with affective outcomes: Age group diferences and the role of arousal. Frontiers in Psychology,8,1877.1-11.doi: 10.3389/fpsyg.2017.01877   
+Kret,M.E.,& Bocanegra,B.R.(2016).Editorial: Adaptive hot cognition: How emotion drives information processing and cognition steers affective processing. Frontiers in Psychology，7，1920.1-4. doi: 10.3389/fpsyg.2016.01920   
+Krpan,D.,& Schnall,S.(2O14).Too close for comfort: Stimulus valence moderates the influence of motivational orientation on distance perception. Journal of Personality and Social Psychology,107(6),978-993.   
+Kuppens,P.,Tuerlinckx,F.,Russell,J.A.，&Barret,L.F. (2o13).Therelationbetweenvalence andarousalin subjective experience. Psychological Bulletin,139(4),917-940.   
+Landau,M.J.,Meier,B.P.,&Keefer,L.A. (201O). Ametaphor-enriched social cognition.Psychological Bulltin, 136(6),1045-1067   
+Lang,P.J.,& Bradley,M.M.(2O13).Appetitive and defensive motivation: Goal-directed or goal-determined? Emotion Review,5(3),230-234.   
+Li, X.D.,Ye, H. S.,& Ding,D. Q. (2018). Understanding by action: A perspect of embodied social cognition. Psychological Exploration,38(1),20-24.   
+[黎晓丹，叶浩生，丁道群.(2018)．通过身体动作理解人与环境:具身的社会认知．心理学探新.38(1),20-24.]   
+Liu,Y.,Fu, Q.F.,Fu, X.L. (2O09).The interaction between cognition and emotion. Chinese Science Bulletin, 54(18), 2783-2796.   
+[刘烨，付秋芳，傅小兰.(2009).认知与情绪的交互作用．科学通报,54(18),2783-2796.]   
+Mather,M.,& Sutherland, M.R. (2011). Arousal-biased competition in perception and memory. Perspectives on Psychological Science,6(2),114-13..   
+Moscarello,J.M.,&LeDoux,J.E. (2O13).Thecontribution of the amygdala to aversive and appetitive Pavlovian processes. Emotion Review,5(3),248-253.   
+Panksepp,J. (2013). Cros-species neuroaffective parsing of primal emotional desires and aversions in mammals. Emotion Review,5(3),235-240.   
+Pereira,M.G.,de Oliveira,L.,Erthal,F.S.,Jofily,M.,Mocaiber,I.F.,& Volchan,E.,&Pessoa,L.(2010). Emotion affects action: Midcingulate cortex as a pivotal node of interaction between negative emotion and motor signals. Cognitive Affective & Behavioral Neuroscience,10(1),94-106.   
+Pool,E., Brosch,T.,Delplanque,S.，& Sander,D.(2016).Attentional bias for positive emotional stimuli:A meta-analytic investigation. Psychological Bulletin,142(1),79-106.   
+Putkinen,V., Makkonen,T.,& Eerola,T. (2O17). Music-induced positive mood broadens the scope of auditory attention. Social Cognitive and Affective Neuroscience,12(7),1159-1168.   
+Reimann,M.,& Bechara,A. (2O1O).The somatic marker framework as a neurological theory of decision-making; Review, conceptual comparisons, and future neuroeconomics research. Journal of Economic Psychology, 31(5), 767-776.   
+Reisenzein,R. (2O17). The legacy of cognition-arousal theory: Introduction to a special section of emotion review. Emotion Review, 9(1),3-6.   
+Rolls,E.T. (2013). What are emotional states,and why do we have them? Emotion Review,5(3),241-247.   
+Rotteveel, M.,& Phaf, R.H. (2o04).Automatic affective evaluation does not automatically predispose for arm flexion and extension. Emotion, 4(2),156-172   
+Rougier,M.,Muller,D.,Ric,F.,Alexopoulos,T.,Batailler,C.,&Smeding,A.,&Aubeb,B.(2O18).Anewlookat sensorimotor aspects in approach/avoidance tendencies: The role of visual whole-body movement
+
+information.Journal of Experimental Social Psychology,76,42-53.
+
+Russell,J.A. (1980).A circumplex model of affect. Journal of Personality and Social Psychology，39(6), 1161-1178   
+Saxton,B.T.，Myhre,S.K.，Siyaguna,T.，&Rokke,P.D.(2O18).Do arousal andvalence have separable influences on atention across time? Psychological Research,1-17.   
+Siemer,M.，Mauss,I.，& Gross,J.J. (2007). Same situation-diferent emotions: How appraisals shape our emotions. Emotion,7(3),592-600.   
+Solarz,A.K. (196O).Latencyof instrumental responses as a function of compatibility with the meaning of eliciting verbal signs. Journal of Experimental Psychology,59(4),239-245.   
+Tang,R. X.,Whitwell,R.L.,& Goodale,M. A. (2015).The influenceof visual feedback from the recent past on the programming of grip aperture is grasp-specific,shared between hands,and mediated by sensorimotor memory not task set. Cognition,138, 49-63.   
+Tang,R.X.,Whitwell,R.L.,& Goodale,M. A. (2O16). Unusual hand postures but not familiar tools show motor equivalence with precision grasping. Cognition,151, 28-36.   
+Veling,H.，& Aarts，H. (2O11). Unintentional preparation of motor impulsesafter incidental perception of need-rewarding objects. Cognition & Emotion, 25(6), 1131-1138.   
+Wang,H.L.,Mo,L.(2O17). "Action-evaluation" efect: The interaction between body movement and cognitive activity. Studies of Psychology& Behavior.15(5), 626-632.   
+[王汉林，莫雷.(2017).“动作-评价”效应：动作与认知的交互作用．心理与行为研究,15(5),626-632.]   
+Wang,R.Y.,Fan,N.,& University,H. (2O16). Anexplanation about reversal effect ofaffctive priming in Chinese character: The interaction between frequency and task paradigm. Journal of Psychological Science. 39(3), 559-565.   
+[王若茵，范宁.(2016)．任务与字频对汉字情绪启动反转效应的影响．心理科学.39(3),559-565.]   
+Whitwell,R.L.,Lambert,L.M.,& Goodale,M. A. (2008). Grasping future events: Explicit knowledge of the availability of visual feedback fails to reliably influence prehension.Experimental Brain Research,188(4), 603-611.   
+Xu,H.F.,Zhang, Q.,& Guo,C.Y. (2015). Different effctsof valence and arousal on familiarityand recollection Journal of Psychological Science.38(2),263-269   
+[徐慧芳，张钦，郭春彦.(2015)．情绪效价和唤醒对熟悉性和回想的不同影响．心理科学.38(2),263-269]   
+Yan,L.,Zuo,B.,& Wu, Y. (2O16). Affective coherence and its influenceon cognitive processing. Journal of
+
+Psychological Science.39(6),1379-1384.
+
+[严磊，佐斌，吴漾 (2016)．情感一致性及其对认知加工的影响．心理科学,39(6),1379-1384.]   
+Ye H. S.(2010). Embodied cognition: A new approach in cognitive psychology. Advance in Psychological Science. 18(5),705-710.   
+[叶浩生.(2010)．具身认知:认知心理学的新取向.心理科学进展,18(5),705-710]   
+Zhang,Y.M.,Proctor,R. W.,& Wegener,D.T.(2O12). Approach-avoidance actions or categorization? Amatching account of reference valence effects in affctive S-R compatibility. Journal of Experimental Social Psychology,48(3),609-616.   
+Zhao，S.C.，& Zheng，X.F.(2017).The behavior inhibition characteristicsof different arousal negative stimulation.Psychological Research.10(1),17-23.   
+[赵绍晨，郑希付.(2017).不同唤醒度负性刺激抑制控制特点．心理研究,10(1),17-23.]
+
+# Valence, arousal and appraisal of emotion influence the hand movement
+
+TANG Rixin; LI Jiajia; WANG Zhipeng
+
+(Departmentof Psychology,Schoolof Social and Behavioral Sciences,Nanjing University,21oo23,China)
+
+# Abstrast
+
+The positive-negative valence of emotion affecting hand movements toward or away from the body is known as the approach-avoidance effect. Previous studies have shown that the positive images elicit quicker reaction on approach movement while negative images are sensitive to the avoidance.However, few studies have focused on how emotion affects the complete process of the movement. In current research, the effects of valence,arousal and appraisal of emotion on the dragging movement were investigated.
+
+A push-pull task was performed on a touch screen to evaluate the ramifications which emotion holds for hand movement. Twenty-four right-handed participants volunteered in Experiments 1 and 2,and fifteen of these participants continued Experiment 3 two months later. In
+
+Experiments 1 and 3,emotional pictures with half positive and half negative valences included equal numbers of high-，medium- and low- arousal images. Participants were required to drag pictures upward or downward with their index finger. Experiment 1 and 3 differed in that only in Experiment 1 did the participants evaluate the valence of pictures. Neutral pictures as well as grey blank images were exploited in Experiment 2 to rule out the effects of other factors.
+
+Repeated-measured ANOVA and Paired t-tests were carried out. The results illustrate that (1) approaching (puling) the positive pictures or avoiding (pushing) the negative ones yields faster dragging movement; (2） compared to medium and low arousal， high arousal enhances the emotional effect,especially in negative condition;(3） the emotional effect diminishes when participants did not evaluate the valence of images,and when neutral images (e.g., furnitures) and grey blank images were displayed.
+
+In conclusion, this study indicates that the emotion does not only affect the reaction time of approach-avoidance movement, but also affects the latter hand movement. In addition,arousal and appraisal play an important role in this effect. This result suggests that the effects of emotion on the dragging movement might happen at the early stage and thus both movement programming and motor control are influenced by emotions.
+
+Key wordsapproach-avoidance; emotion; hand movement; arousal; appraisal

@@ -1,0 +1,410 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.13930/j.cnki.cjea.170125 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张晓萌，王寅，焉莉，冯国忠，高强．长春地区食物链磷素养分流动历史变化特征分析[J].中国生态农业学报，2017,25(8):1099-1105  \nZhang XM,Wang Y,YanL,FengGZ,GaoQ.Analysisofhistorical characteristicsofphosphorus nutrient flowin foodchainin Changchun area[J]. Chinese Journal of Eco-Agriculture,2017,25(8): 1099-1105",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "长春地区食物链磷素养分流动历史变化特征分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张晓萌，王 寅，焉莉，冯国忠，高强 \\*\\*(吉林农业大学资源与环境学院长春130118)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：磷是重要的生命元素，其循环与转化在食物链中起着至关重要的作用。研究通过整理统计资料和文献数据，利用 NUFER 模型(Nutrient flows in Food chain,Environment and Resources use,NUFER)，分析长春地区1993—2013年食物链磷素流动趋势特征，揭示其存在的问题并提出策略，为该地区食物链磷素的优化管理提供依据。结果表明，1993年长春地区食物链磷素总输入量为 $3 2 . 6 \\mathrm { G g }$ ，至2013年增长至 $1 1 3 . 9 \\mathrm { G g }$ 。食品生产方面，动物性食品磷素养分生产量由1993年的 $0 . 7 \\mathrm { G g }$ 提高到2013年的 $2 . 7 \\mathrm { G g }$ ，而植物性食品则由1993年的16.1Gg 降低至2013年的 $1 5 . 7 \\mathrm { G g }$ 。食品消费方面，动物性食品磷素消耗量由1993年的 $0 . 5 \\mathrm { G g }$ 提高到 2013年的1.1Gg，植物性食品则由1993年的 $5 . 0 \\mathrm { G g }$ 降低至2013年的 $4 . 4 \\mathrm { G g }$ 。20年间，长春地区食物链以废物形式累积的磷素量上升了15个百分点，通过径流、淋洗及侵蚀方式损失掉的磷素增加了 $1 7 . 6 ~ \\mathrm { G g }$ 。至2013年，食物链中磷素的损失率达到 $2 0 . 2 \\%$ 。食物链各环节的磷素利用效率均呈下降趋势，其中作物生产和畜禽生产系统磷素利用效率分别由 $9 4 . 2 \\%$ 和 $4 . 1 \\%$ 降至 $4 9 . 3 \\%$ 和 $3 . 8 \\%$ 。整个食物链的磷素利用效率降低了20.3个百分点。同时，磷素的循环再利用效率也在逐渐降低。20年间，长春地区食物链磷素流动呈现出“投入量大、累积量多、损失量高、利用效率和循环再利用率低\"的形式。因此，该地区的食物链中应控制磷素养分的投入，注意畜禽系统中废弃物的磷素循环利用，减少磷素损失从而提高磷素的利用效率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：磷素;NUFER模型；食物链；养分流动；磷素利用效率；磷素损失率；长春地区中图分类号：S19;X2 文献标识码：A 文章编号：1671-3990(2017)08-1099-07",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Analysis of historical characteristics of phosphorus nutrient flow in food chain in Changchun area ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Xiaomeng, WANG Yin, YAN Li, FENG Guozhong, GAO Qiang\\*\\* (Collge of Resources and Environmental Sciences,Jilin Agricultural University,Changchun 130l18,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Phosphorusisanimportanteementoflife,whosecycleandtransformationarecitical inthefodchain.Withstatitical andliteraturedata,thetrendsandcharacteristicsofphosphorusflowinthefoodchaininChangchunarea were investigatedforthe period 1993-2013using the NUFER(Nutrientflows inFood chain,Environmentand Resourcesuse)model.The studydetermined theexisting problems,putforward strategiesandprovided examplesofoptimalmanagementof phosphorus inthefoodchain.The results showed that total input of phosphorus in the food chain system in Changchun area increased from $3 2 . 6 ~ \\mathrm { G g }$ in 1993 to 113.9 Gg in 2013.In food production,phosphorus flow in animal-derived food increased from $0 . 7 ~ \\mathrm { G g }$ in 1993 to $2 . 7 \\mathrm { G g }$ in 2013,and that of plant-derived food dropped from $1 6 . 1 \\ \\mathrm { G g }$ in 1993 to $1 5 . 7 ~ \\mathrm { G g }$ in 2013.In food consumption, phosphorus flow rate in animal-derived food increased from $0 . 5 \\mathrm { G g }$ in 1993 to $1 . 1 \\mathrm { G g }$ in 2013,and phosphorus flow in plant-derived food dropped from ${ 5 . 0 } \\mathrm { G g }$ in 1993 to $4 . 4 \\mathrm { G g }$ in 2013.In the last two decades, phosphorus accumulation in the form of waste in the food chain increased by $1 5 \\%$ while phosphorus loss via runoff, leaching and erosion increased by $1 7 . 6 ~ \\mathrm { G g }$ .Up till 2013,the rate of phosphorus loss in the food chain was $2 0 . 2 \\%$ .The trend in phosphorus use efficiency in various paths of the food chain decreased,inwhichthe phosphorus utilization rate by animals/crops decreased from $9 4 . 2 \\% / 4 . 1 \\%$ to $4 9 . 3 \\% / 3 . 8 \\%$ ,respectively. Phosphorus use efficiency in the whole food chain decreased by $20 . 3 \\%$ .At the same time,the recycling efficiency of phosphorus gradually reduced.In the last two decades, phosphorusflowoffoodchaininChangchunareafollowedthepathof“highinput,highaccumulation,highlos,loweffcincand lowrecycle\".Therefore,itwas importanttocontrol phosphorus input,reduce phosphorus loss,increasephosphorusrcyclingin waste and enhance the rate of phosphorus use efficiency in Changchun area. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Phosphorus; NUFERmodel; Foodchain; Nutrientflow; Phosphorus use eficiency;Phosphorus loss rate;Changchun area ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "磷素既是动植物生长发育的必需营养元素，又是食物链系统中重要的养分资源[1]。同时也是决定水体富养化及生物多样性的限制因子[2]。磷素的投入是维持动植物产品品质、产量及满足全球食品需求的重要手段[3]。但是，过量的供应不仅造成资源浪费又给环境带来压力。我国作为农牧业发展大国，磷肥使用量居于全球首位[4]。磷素大量累积于土壤中，并通过径流、淋洗及侵蚀等方式进入水体，造成环境污染。同时，磷资源的可持续发展一直是国内外关注的热点问题之一。目前，对磷素养分的物质流相关研究也逐渐受到重视。Smit 等[5对荷兰农业及非农业子系统中磷素流动进行定量分析，发现2005年磷素总盈余的一半累积于农田土壤，剩余部分以不同方式损失掉，极少部分回收到农田，并讨论了如何可持续使用磷资源。Suh等[绘制了食品系统的磷素流量框架，并计算磷素利用效率。揭示了食物中仅有 $1 5 \\%$ 的磷素被人类摄取，其余损失到环境中，其主要损失发生在畜禽生产和作物种植阶段。并设想了提高磷素利用效率的相关措施。Egle等7]试图量化废弃物及废水中磷素的流量和库存量,并利用STAN软件构建模型，为评估奥地利农田土壤中及废弃物中磷素累积量和制定相关管理方案提供了良好的基础。Chen等8研究揭示了农田系统过量的磷肥输入导致土壤磷累积，对水体构成风险;草地放牧系统面临严重的磷缺陷，导致草地大范围退化。Bai等从奶制品生产角度分析了氮、磷养分流动情况，指出必须在乳制品生产中更有效地利用畜禽排泄物中的养分，才有助于提高整个系统的养分利用率。Ma等[10-11]通过相关研究总结归纳，建立了食物链养分流动模型(Nutrient flows in Food chain,Environment and Resources use,NUFER)，并基于此模型预测我国磷损失情况，指出磷肥的变化受人口增长和饮食结构改变的驱动[12]。张建杰等[13]借助NUFER模型，探究山西省农牧生产体系磷素流动空间分布特征，为山西省养分资源管理提供相应的科学建议。仅分析单一系统的养分流动特征，很难对食物链整体养分进行调控管理。因而，从食物链的角度评价磷素养分管理的方式备受关注，而我国各区域对食物链整体磷素流动的相关研究较少。长春地区作为农牧产品大量生产及出口的典型区域，自前对其磷素养分流特征尚少有详细的了解。因此，探究长春地区食物链磷素流动趋势特征，有助于该地区的磷资源可持续利用，对提高长春地区磷的利用效率及降低环境风险具有指导意义。本研究利用NUFER模型分析长春地区1993—2013年间食物链磷素流动规律，明确该地区食物链的磷素流动趋势特征，揭示其中存在的问题，全面、系统地为该地区磷素的养分优化管理提供依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 长春地区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "长春市位于吉林省中部地区。属温带大陆性半湿润季风气候，雨热同季。其国土面积 $2 . 0 6 \\times 1 0 ^ { 6 } \\mathrm { h m } ^ { 2 }$ 耕地面积 $1 . 3 1 \\times 1 0 ^ { 6 } \\ \\mathrm { h m } ^ { 2 }$ ，其中约 $30 \\%$ 用于农作物种植。长春地区地处全球三大“黄金玉米带\"之一的松辽平原，因此形成长期以玉米为主的农业种植模式。2008一2013年的5年间，该地区粮食平均产量达$8 . 4 7 \\times 1 0 ^ { 6 }$ t，其中玉米产量达 $6 . 6 9 \\times 1 0 ^ { 6 }$ t，占吉林省玉米总产量的 $2 9 \\%$ 。畜牧业市场则主要以猪、肉牛、家禽及其副产品生产为主。近5年，猪、肉牛、家禽的养殖量分别约占畜禽总数量的 $| 3 7 \\% , 3 1 \\% , 2 7 \\% ^ { [ 1 4 ] }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2长春地区食物链系统",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究以长春行政区域边界作为系统边界，长春地区食物链系统包括作物生产系统、畜禽生产系统、家庭消费系统、废弃物(如作物秸秆、人畜粪便、生活垃圾等)。磷素在食物链中的流动和循环途径如图1所示。食物链磷素通过(1)肥料、 (2)饲料外源输入的方式进入食物链。食物链中磷素的产出表现为(3)",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物性产品输出、(4)动物性产品输出、(5)淋洗和径流及侵蚀等方式损失。另外，系统内部通过(7)植物性食品、(8)籽粒和秸秆作饲料、(9)动物性食品、(10)秸秆、(11)动物排泄物、(12)食物残渣和人类排泄物等生活垃圾、(13)畜禽粪便还田、(14)秸秆作饲料再利用、(15)秸秆还田、(6)系统总输入和总输出之间的废弃物磷素积累等途径进行养分流动。随着人口和食品消费的增加，人体中磷素的沉积量也在增加，但是相对于食物链中总磷的输入来说，其含量不足$1 \\%$ ，因此不作为考虑的对象。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/141e6f7b1ec81a0965ca10aeca14ac71100dbb8eaa315da0ee25f605ca64fde2.jpg",
+        "img_caption": [
+            "",
+            "图1食物链磷素养分循环示意图 Fig.1Schematic diagram of phosphorus nutrient cycling in food chain "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 食物链数据来源",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "食物链中的基础数据和信息(人口、耕地面积、化肥使用量、作物种植面积和产量、畜禽数量、食品消费情况)均来自长春统计年鉴[13]，研究将农作物归为4类(谷物、其他作物、蔬菜、水果)，动物分成7类(猪、肉牛、役用牛、奶牛、羊、蛋禽和肉禽)，并采用欧盟统计局折算方法对畜禽数量进行估算比较[15]，将奶牛作为标准单位，其他畜禽均折算成相应奶牛数量进行比较。肥料中磷素消耗量来源于磷肥中纯磷含量和复合肥中磷素纯养分含量。收获作物和动物产品中的磷含量、每种动物的排泄物磷含量及动物产品中可食用部分和其他部分的划分均从文献中获取[10-11]。动植物生产中磷素的排放系数等参数来源于文献中的数据及调查结果[10-11]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4食物链磷素流动分析计算[11]",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "食物链磷素养分的计算方法如下（单位：$\\mathrm { G g } { = } 1 0 ^ { 3 }$ t):",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "磷素总输入量 $: =$ 肥料含磷量 $^ { + }$ 饲料外源输入含磷量",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "磷素总输出量 $\\mathbf { \\Psi } : =$ 植物性产品含磷量 $\\cdot +$ 动物性产品含磷量 $\\cdot ^ { + }$ 径流、侵蚀、淋洗的磷素损失量 (2)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中，一部分磷素累积于废弃物中，即存在于家庭消耗中产生的排泄物及生活厨余垃圾等的磷素养分，其计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "磷素累积量 $\\cdot =$ 磷素总输入量-磷素总输出量 (3)",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "磷素养分损失率(LIR， $0 \\%$ )=(磷素损失量/磷素总输入量） $1 \\times 1 0 0 \\%$ (4)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "磷素循环再利用率(RRR， $0 \\%$ )-(作物秸秆作为饲料的磷素量 $^ +$ 动物粪便还田的磷素量)/(秸秆收获的总磷素量 $: +$ 畜禽粪便总磷素量 $1 \\times 1 0 0 \\%$ (5)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "磷素养分利用效率公式：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "作物生产系统磷素利用效率(PUEc) $\\vDash$ （主要农产品输出/作物生产输入） $1 \\times 1 0 0 \\%$ (6)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "畜禽生产系统磷素利用效率(PUEa) $\\vDash$ （畜禽产品输出/畜禽生产输入) $1 \\times 1 0 0 \\%$ (7)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "农牧结合系统磷素利用效率 $( { \\mathrm { P U E c } } + { \\tt a } ) =$ (农牧产品输出/农牧生产输入) $1 \\times 1 0 0 \\%$ (8)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "食物链磷素利用效率(PUEf) $\\scriptstyle 1 = \\left. { \\begin{array} { r l } \\end{array} } \\right|$ （食品磷素输出/磷素生产总输入） $1 \\times 1 0 0 \\%$ (9)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其余磷素养分计算相关指标如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "单位食物磷素消耗量：食物链系统来自作物和畜牧生产系统中的每千克磷素进入到家庭消费系统中的磷素量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "动物性食品在饮食中消费比例(AFER， $0 \\%$ ：来自于动物食品中的磷素量占饮食中磷素量的比例。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "磷素外源输入比例(ITR， $0 \\%$ )：来自其他区域的食品中磷素量占磷素总投入量的比例。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1食物链中磷素总输入与输出的变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1993—2013年，长春地区磷素总投入量由32.6Gg提高至 $1 1 3 . 9 ~ \\mathrm { G g }$ ，增长了2.5倍(图2)。其中大部分磷素投入来自于农田肥料施用，由1993年的 $3 0 . 2 ~ \\mathrm { G g }$ 增加至2013年 $8 7 . 7 ~ \\mathrm { G g } _ { \\circ }$ 随畜禽数量的增加，饲料粮的外源输入比例大幅提高，由最初的 $7 \\%$ 上涨为$23 \\text{‰}$ 养分输出方面，大部分磷素以废弃物的形式累积下来，并且累积量逐年增加，由1993年的 $56 \\%$ 增加至2013年的 $71 \\%$ ,2013年累积量已达 $8 0 . 6 \\mathrm { G g } _ { \\circ }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4453b715f2d26eb61a38c4de518c38a957f20936d6e9492c4b2d4305ce89ecb3.jpg",
+        "img_caption": [
+            "图21993—2013年长春地区食物链系统磷素输入与输出情况ig.2Input and output of phosphorus in food chain system in Changchun area from 1993 to 201:"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2食品磷素生产与消耗的变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1993一2013年，长春地区食物链食品中磷素的生产、消耗及出口其他地区情况如图3所示。长春地区农牧产品长期供过于求，导致磷素养分大量输出其他地区。20年间，长春地区农牧产品生产主要以植物性食品为主，植物性食品磷素生产量分别在1998—2000年、2006—2009年期间出现短暂的下降趋势；而动物性食品在2009年之前呈快速增长阶段，2010年受畜禽疫情影响大幅下降，之后处于恢复阶段(图3)。植物性食品磷素消耗量趋于平缓，至2013年达到 $4 . 4 ~ \\mathrm { G g }$ ；动物性食品磷素消耗量呈小幅增加趋势，2013年磷素消耗量增加至1993年的2.2倍。动物性食品磷素在消费中所占比例也逐渐提高，由$8 . 3 \\%$ 提高至 $1 7 . 9 \\%$ (图4)。植物性食品和动物性食品磷素的出口量随生产情况发生波动，2013年出口比例分别为 $72 \\%$ 、 $60 \\%$ 。总体来说，食物链中单位食物的生产投入成本大幅提高，单位食品磷素消耗量由$3 . 6 \\mathrm { ~ k g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ 增加至 $1 8 . 5 \\mathrm { k g ^ { . } k g ^ { - 1 } }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3食物链磷素的损失 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1993—2013年，长春地区食物链有机养分磷素可利用量(秸秆、动物排泄物)由 $1 8 . 4 ~ \\mathrm { G g }$ 增加到52.5Gg(图5)，但磷素养分的循环利用效率并不容乐观。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a3f81106638e9b61332c5497fcc537ff85fa01db423d6ed345e5fb9eae71cc8d.jpg",
+        "img_caption": [
+            "图31993一2013年长春地区植物、动物性食品磷素生产、消费及出口情况Fig.3Changes of phosphorus production,consumption and export of plant and animal foods in Changchunarea from1993 to 2013"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "25rrrrr nrrrnongrnerrnrrsers 单位食物磷素消耗量 Phosphorus cost of unit food (%) nlniirind nindonnuor nirngroonl\\*动物性食品消费比例店 20 20APFR1510 105 59 哈名名名白白年份Year",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "APFR：动物性食品在食品消费中所占的比例。APFR：proportion of animal food in food consumption. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2000年之前虽有小幅上升阶段，随后呈持续下降趋势。2013年磷素的循环再利用率已降至 $55 \\%$ 。磷素通过淋洗、径流、侵蚀等方式损失量显著增加，整体损失率由1993年的 $1 4 . 3 \\%$ 达到2009年的 $2 1 . 7 \\%$ 2013年降回至 $20 . 5 \\%$ (图5）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4食物链磷素养分利用效率",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从作物生产系统来看，磷素的利用率(PUEc)从1993年的 $9 4 . 2 \\%$ 降至2009年的 $3 7 . 6 \\%$ ，2013年又提高到 $4 9 . 3 \\%$ 。从畜禽生产系统来看，磷素的利用效率(PUEa)相对较低，由 $4 . 1 \\%$ 下降为 $3 . 8 \\%$ ，呈缓慢降低趋势。20年间，长春地区食物链磷素整体养分利用效率(PUEf)持续降低，从1993年的 $2 5 . 7 \\%$ 下降至2013年的 $5 . 4 \\%$ ，降幅较大，达4.8倍(图6)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 结论和讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1993一2013年间，长春地区人口快速增加，城镇化率增加6.6个百分点。为了满足日益增长的粮食需求，以及农牧产品长期输出其他地区的供应，长春地区食物链磷素养分大量投入。同时，食品结构发生转变，动物性食品消费快速增加，进而对养分流动趋势及利用效率产生了影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "研究结果显示，1993一2013年长春地区食物链农田生产系统磷素利用效率下降 $4 4 . 9 \\%$ ，磷素以磷肥的形式进入作物生产系统中，而磷肥的利用率偏低，通常情况下，被作物直接利用的只有$5 \\% { \\sim } 2 5 \\% ^ { [ 1 6 ] }$ 。在农田管理中，一方面，长春地区农户习惯将化肥一次性施入土壤中，并且该地区磷肥的施用量普遍偏高[17]。长期过量施用磷肥，导致土壤中磷的盈余量不断攀升，磷素通过地表径流和地下排水等方式损失掉，并由此带来了水体富营养化等环境问题。另一方面，作物生产中收获的大量秸秆未被合理利用，农户为方便耕作、减少成本而习惯将作物秸秆露天焚烧，导致部分磷素养分损失。因此，提高农民观念，合理施用磷肥，高效利用磷资源是提高作物生产系统磷素利用效率的直接有效途径。目前，我国开展的测土配方施肥技术[18]，在提高产量的同时减少施肥量，这一相关研究还需进一步深入且普遍应用。同时应注意增加秸秆还田量提高磷素养分循环利用率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在畜禽生产中，随着居民饮食结构的改变，长春地区动物性食品消费比例提高了 $9 . 6 \\%$ ，畜禽生产系统的磷素利用效率却下降 $0 . 3 \\%$ 。而北京地区1978—2008年间随着动物性食品比例的提高，畜禽生产系统磷素的利用效率增加 $| 5 \\% ^ { [ 1 9 ] }$ 。2013年长春地区畜禽生产",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "rrr resrls pre ersrles lerrsers 100 损率用率Recyeling rate 1  \n南有料 80 60  \nA  \n40  \n20  \n1  \n19931995199719992001200320052007200920112013 19931995199719992001200320052007200920112013年份Year",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e79a270de3dd5eb454462ebeeab151ccaafe2e360ad5050a20c10e43de981c8.jpg",
+        "img_caption": [
+            "图61993—2013年长春地区食物链各系统磷素利用效率变化趋势",
+            "Fig.6Variation trends of phosphorus utilization efficiency in different systems of the food chain system in Changchun area from 1993 to 2013 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "PUEc:作物生产系统磷素利用效率；PUEa:畜禽生产系统 磷素利用效率；PUEc $_ { \\mathrm { + a } }$ ：农牧结合系统磷素利用效率；PUEf:食 物链磷素利用效率。PUEc:phosphorus utilization efficiency of crop production system;PUEa:phosphorus utilization efficiency of animal production system; $\\mathrm { P U E c + a }$ :phosphorus utilization efficiency of farming-grazing system;PUEf: phosphorus utilization efficiencyof food chain system. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "系统磷素利用效率仅为 $3 . 8 \\%$ ，远远低于全国的平均水平 $( 1 7 \\% ) ^ { [ 4 ] }$ ，进一步对比分析发现由于1993一2013年，长春地区居民饮食结构由以植物性食品为主转向以动物性食品为主，畜牧业迅速发展，带动饲料粮的外源输入大幅提高。同时，随着畜牧业集约化、规模化发展，大量粪尿资源产生。而长春地区规模化养殖体系不够完善，对畜禽粪便未能集中处理及时利用，导致磷素养分在各环节的转化利用效率低。农民也越来越多以化肥提高粮食产量，而不愿花费时间和体力收集施用农家粪尿肥，导致其不能及时还田。因此，长春地区的畜牧生产方面，需要更多地利用秸秆等物质加工饲料，以减少饲料的外源输入，缩小养分投入量。同时加强关注畜禽粪尿的处理问题。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "家庭消费中，随着长春地区的都市化发展，居民生活水平的提高，一些食物浪费现象普遍存在。亟待提高居民意识，杜绝粮食浪费，从而提高食物链的磷素养分利用效率。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1993一2013年，长春地区食物链磷素养分总投入大幅提高，增加了 $8 1 . 3 ~ \\mathrm { G g } _ { \\mathsf { c } }$ 。废物累积中磷素增加了 $6 2 . 2 ~ \\mathrm { G g }$ ，通过淋洗、径流和侵蚀而损失的磷素增加了 $1 7 . 6 { \\mathrm { ~ G g } }$ ，而磷素整体循环利用率却下降了 $5 . 3 \\%$ 整体利用效率下降了 $20 . 3 \\text{‰}$ 磷素的整体流动趋势与我们对氮素的研究结果相似[20]，但磷素的损失率显著高于氮素。主要由于畜禽排泄物中的磷素含量较多。长春地区磷素养分随农牧产品的出口大量流出，而农牧产品生产过程中的废弃物却累积于本地区食物链内部，造成养分利用效率低下。因此，可利用废弃物中的养分来提高利用效率。除磷肥外，动物粪尿、作物秸秆、污水和污泥都是较为常见的作物可用磷资源[21]。在对待磷资源的问题上，一方面可以有计划地加以利用，变废为宝。规模养殖场可以通过对粪尿进行集中处理后还田，生活垃圾及污水经过处理后排放，也可降低随地表径流而造成水体富营养化的环境问题发生。另一方面可以制定相关政策规划管理，可以借鉴欧美国家的成功经验，为农户提供相应的补偿，并制定相关政策控制磷肥的投入，监督其作物秸秆等还田处理情况。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "统计数据作为宏观数据的来源，其不确定性会对研究结果的估算造成一定的影响。研究通过参考1994一2013年的《长春统计年鉴》收集基础数据，尽量确保数据的真实可靠性。对研究中所涉及到的其他参数，则是借鉴Ma等[19]总结出的较为成熟的一套参数，并根据长春地区的实际情况做了部分调整[20],以此来尽量减小研究结果的偏差。同时，为了便于了解畜禽结构情况，畜禽数量采用欧盟统计局折算方法为标准进行估算对比，是欧美等国家常用的评价标准，可能会对结果略有影响。随着区域养分管理研究的不断深入，今后则需建立更准确权威的参数体系及评价标准，进一步修正不同地区的差异，完善研究结果。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "长春作为农牧产品大量输出的地区，食物链磷素流动特征呈现出高投入、高累积、高损失、低效率、低循环的“三高两低\"形式。因此，今后长春地区食物链中磷素的管理应：1)合理施肥并注意养分循环利用。减少秸秆焚烧量，增加秸秆还田量，减少养分损失。同时对畜禽生产中粪便加工处理、及时还田。2)建立合理规范化养殖体系，减少各环节养分流动的损失。利用作物秸秆等物质加工饲料，减少饲料粮的外源输入。3)根据区域食品消费特点，合理调整食品消费结构。并杜绝食品浪费，以减少家庭消费系统中的养分损失。进一步加强长春地区食物链各系统间磷素养分协调管理，实现区域磷素养分可持续发展的目的。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献References",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]马文奇，张福锁．食物链养分管理一一中国可持续发展面临的挑战[J]．科技导报,2008,26(1):68-73Ma W Q,Zhang F S.Nutrient management in human food",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "chain:A challenge for sustainable development of China[J]. Science & Technology Review,2008,26(1):68-73   \n[2] Sharpley A N, Chapra S C, Wedepohl R, et al. Managing agricultural phosphorus for protection of surface waters: Issues and options[J].Journal of Environmental Quality,1994,23(3): 437-451   \n[3]鲁如坤．植物营养与施肥原理[M]．北京：农业出版社, 2000:201-202 LuRK.Principles of Plant Nutrition and Fertilizer Application[M]. Beijing:Agriculture Press,20oo: 201-202   \n[4] Bai Z H,Ma L,Ma W Q,et al.Changes in phosphorus use and losses in the food chain of China during 1950-2010 and forecasts for 2030[J]. Nutrient Cycling in Agroecosystems, 2016,104(3): 361-372   \n[5]Smit AL,Van Middelkoop JC,Van Dijk W,et al.A quantification of phosphorus flows in the Netherlands through agricultural production,industrial processing and households[R]. Wageningen: Plant Research International,2010, [6]Suh S,Yee S.Phosphorus use-efficiency of agriculture and food system in the US[J].Chemosphere,2011,84(6): 806-813   \n[7] Egle L,Zoboli O,Thaler S,et al. The Austrian P budget as a basis for resource optimization[J]. Resources,Conservation and Recycling,2014,83:152-162   \n[8] Chen M,Chen J,Sun F.Agricultural phosphorus flow and its environmental impacts in China[J]. Science of the Total Environment,2008,405(1/3): 140-152   \n[9]Bai Z H,Ma L,Oenema O,et al. Nitrogen and phosphorus use efficiencies in dairy production in China[J]. Journal of Environmental Quality,2013,42(4):990-1001   \n[10] Ma L,Ma WQ,Velthof GL,et al.Modeling nutrient flows in the food chain of China[J]. Journal of Environmental Quality, 2010,39(4): 1279-1289   \n[11] Ma L,Velthof GL,Wang F H,et al. Nitrogen and phosphorus use efficiencies and losses in the food chain in China at regional scales in 1980 and 2005[J].Science of the Total Environment,2012,434:51-61   \n[12] Ma L,Wang F,Zhang W,et al.Environmental assessment of management options for nutrient flows in the food chain in China[J]. Environmental Science & Technology,2013,47(13): 7260-7268 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[13]张建杰，郭彩霞，张一弓，等．山西省农牧生产体系磷流动",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "空间变异特征[J].中国生态农业学报,2016,24(5):553-562 ZhangJJ,Guo CX,ZhangYG,etal.Spatial characteristics of phosphorus flow in crop-livestock production systems in Shanxi, China[J]. Chinese Journal of Eco-Agriculture,2016,   \n24(5):553-562 [14]长春市统计局．长春统计年鉴[M]．北京：中国统计出版社,   \n1994—2014 Changchun Statistic Bureau. Changchun Statistical Yearbook[M]. Beijing: China Statistic Press,1994-2014 [15]Eurostat.Glossary:Livestock unit[EB/OL]. [2014-06-07]. http://ec.europa.eu/eurostat/statistics-explained/index.php/ Glossary: Livestock_unit_(LSU)- [16]李可芳，黄霞．磷肥的使用与农业面源污染[J]．环境科学 与技术,2004,27(S1):189-190 Li K F,Huang X.Use of phosphorus fertilizer and agricultural pollution[J].Environmental Science & Technology,   \n2004,27(S1): 189-190 [17]高强，冯国忠，王志刚．东北地区春玉米施肥现状调查[J]. 中国农学通报,2010,26(14):229-231 Gao Q,Feng G Z,Wang Z G.Present situation of fertilizer application on spring maize in Northeast China[J]. Chinese Agricultural Science Bulletin,2010,26(14): 229-231 [18]张福锁．我国肥料产业与科学施肥战略研究报告[M]．北京: 中国农业大学出版社,2008 Zhang F S.China's Fertilizer Industry and Scientific Fertilization Strategy Research Report[M].Beijing: China Agricultural University Press,2008 [19] Ma L,Guo JH,Velthof G L,et al. Impacts of urban expansion on nitrogen and phosphorus flows in the food system of Beijing from 1978 to 2008[J].Global Environment Change,   \n2014,28:192-204 [20]张晓萌，王寅，焉莉，等．长春地区食物链氮素养分流动趋 势与特征分析[J]．自然资源学报,2017,32(2):255-265 Zhang X M,Wang Y,Yan L,et al.The trend and characteristics of nitrogen nutrition in the food chain in Changchun[J]. Journal of Natural Resources,2017,32(2): 255-265 [21]郝晓地，王崇臣，金文标．磷危机概观与磷回收技术[M]. 北京：高等教育出版社,2011 Hao XD,Wang CC,Jin WB.Overview of Phosphorus Crisis and Technologies of Its Recovery[M].Beijing:Higher Education Press,2011 ",
+        "page_idx": 6
+    }
+]

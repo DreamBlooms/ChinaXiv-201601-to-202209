@@ -1,0 +1,145 @@
+1 早期瘤胃微生物区系发育及其调控
+
+2 田可柳君辉 董国忠\*（西南大学动物科技学院，重庆市牧草与草食家畜重点实验室，重庆 400716)
+
+4摘要：反刍动物瘤胃中存在着大量微生物，为动物维持和生产提供所需能量和营养。通过  
+5 调节瘤胃微生物区系可提高瘤胃对饲料的利用效率和减少代谢副产物的排放，从而最终提高  
+6 反刍动物养殖的整体经济效益，同时减少养殖对环境的污染。近年来研究表明，瘤胃微生物  
+7 区系对幼龄动物的营养代谢和生长发育极为重要。本文旨在综述反刍动物早期瘤胃微生物区  
+8 系的发育及调控效果，为早期瘤胃微生物区系调控在实际生产中的应用提供参考。
+
+关键词：幼龄反刍动物；瘤胃；微生物区系；调控中图分类号：S852.6文献标识码：A 文章编号：
+
+11 随着科学技术的发展，对反刍动物瘤胃的研究不再局限于生理生化指标与发酵参数，而  
+12 是拓展到了更深层次的瘤胃微生物对动物整体的作用层面。瘤胃微生物主要由细菌、古生菌  
+13 和真核生物（真菌和原虫）构成[1]，而单是其中的细菌数量都远多于宿主动物细胞数量[2]。  
+14 反刍动物瘤胃微生物能够将饲粮中养分转化为可供反刍动物（宿主）吸收利用的营养物质，  
+15 所以瘤胃微生物充当了主要的营养物质转换者[3]。同时，瘤胃微生物对动物代谢和健康也发  
+16 挥着重要作用。
+
+早期瘤胃微生物区系是一个重要的研究领域。随着对反刍动物早期瘤胃微生物区系的研究逐渐增多，研究者们发现腹泻和断奶应激等一系列多发于幼龄动物的问题都与早期瘤胃微生物区系的变化以及紊乱有关，而针对于这些问题的解决方法也有了许多研究进展。本文主要就牛、羊的早期瘤胄微生物区系发育及其影响因素和调控效果进行综述，为在实际生产中更好地改进幼畜健康状况和生长性能提供参考。
+
+收稿日期：2018-05-17  
+基金项目：重庆市社会民生科技创新专项（cstc2016shmszx80078)；重庆市基础科学与前沿  
+技术研究项目（cstc2017jcyjBX0015）  
+作者简介：田可（1995—)，男，重庆荣昌人，硕士研究生，从事反刍动物营养研究。E-mail:  
+tiankekeke@qq.com  
+\*通信作者：董国忠，教授，博士生导师，E-mail: gzdong@swu.edu.cn
+
+# ）1早期瘤胃微生态系统
+
+1.1早期瘤胃微生物区系
+
+早期瘤胃指的是没有发育完全的反刍动物瘤胃，相比于成熟瘤胃较为齐全的功能，早期瘤胃在微生物种类和数量的发育程度都不如成熟瘤胄。部分研究将3\~4周龄以后的瘤胃微生物区系定义为成熟瘤胃[46]，在这段时间过后，瘤胃微生物区系基本定型而且很难再改变（除非饲粮或者动物健康状况发生巨大变化)；但也有研究表明，从出生到2岁的时间段内瘤胃微生物区系都可能有较大变化[7-8]。虽然在瘤胃最终发育完全的时间上存在争议，但瘤胃微生物区系最终都会根据饲粮以及环境等各种影响因素稳定后而呈现动态平衡状态，所以早期瘤胃应该是瘤胃微生物区系还未完全稳定的时间段[9]。初生反刍动物瘤胃一直被认为是无菌的[10-11],是随着初生反刍动物对母乳的摄入和环境的接触，微生物才开始在瘤胃中出现然后繁殖扩增。大量试验表明，反刍动物瘤胃为厌氧环境，其中的细菌也全部都是厌氧菌。但是早期的瘤胃微生物不完全都厌氧。以前通过传统的体外培养方法发现早期的瘤胃微生物区系含有需氧菌和兼性厌氧菌，但是随着幼龄反刍动物的成长，这一类菌群被厌氧菌完全取代[12]。最近，通过焦磷酸测序对1\~3日龄犊牛的研究获得了相同的结论[8]。虽然需氧菌和兼性厌氧菌被证明存在过，但是存在时间较短，加上现在常用的新一代基因测序也有一定局限（如在测序时无法复原之前打断的密码子片段等)[13-14],所以还没有研究报道过这类细菌在反刍动物早期瘤胃中的作用以及是否对幼龄动物的生长以及其他性能具有影响。
+
+成熟反刍动物瘤胃中主要细菌及相对丰富度为：厚壁菌门 $56 \%$ 、拟杆菌门 $31 \%$ 、变形菌门 $4 \% ^ { [ 1 5 - 1 6 ] }$ 。在幼龄反刍动物瘤胃内也可以检测到这3类细菌，不过占比并不遵循成熟反刍动物瘤胃的规律。较之于成熟反刍动物瘤胃微生物区系的较稳定状态，早期瘤胃微生物区系随着出生后时间的延长会有数量和种类上的明显变化。研究发现， $8 { \sim } 1 0$ 月龄犊牛瘤胃微生物区系中细菌的操作分类单元（OTU）有2095个，其中有24个细菌门类能被检测到[17];但7\~63 日龄的特牛瘤胃微生物区系中细菌的OTU 只有1588个，能检测到的只有 23个细菌门类[18]。具体到细菌种类上，Jami 等8使用实时荧光 PCR 技术对初生犊牛的瘤胃微生物区系的研究发现，变形菌门在出生后第1\~3天时占比极高，甚至超过厚壁菌门和拟杆菌门，但是随着时间的推移，变形菌门的占比逐渐减少；Rey 等[5]研究发现，拟杆菌门在第3天成为占比最高的菌门，在83日龄前最高时甚至可以占到 $6 2 . 1 \%$ 。虽然上述2个研究都表明瘤胃微生物区系最终发展方向符合成熟后三大菌群的大致占比，但是可以看出早期瘤胃微生物区系受年龄的影响非常大。在比较同种动物不同年龄的早期瘤胃微生物区系变化时，饲粮是一个重要的干扰因素[19]。所以笔者认为必须要在饲喂相同饲粮的情况下才能比较出年龄对瘤胃微生物区系的影响，如果要将饲粮误差控制到最小，只能比较仅在母乳饲喂条件下的早期瘤胃微生物区系。为了得出比较有依据的早期瘤胃微生物区系随年龄变化而发生的改变，我们根据一些试验结果[5,8,20]总结出了仅饲喂母乳条件下年龄为单一变量的早期瘤胃细菌种类的变化（表1)。
+
+# 表1仅饲喂母乳的犊牛瘤胃细菌种类的变化
+
+Table 1Changes of ruminal bacterial species of calf fed only milk   
+
+<html><body><table><tr><td rowspan="2">项目Items Phylum</td><td colspan="8">日龄 Days of age</td></tr><tr><td>1</td><td>2</td><td>3</td><td>7</td><td>28</td><td>49</td><td>63</td><td></td></tr><tr><td>变形菌门Proteobacteria</td><td>√</td><td></td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td></tr><tr><td>厚壁菌门 Firmicutes</td><td>√</td><td>√</td><td>√</td><td>√</td><td></td><td>√</td><td>√</td><td>√</td></tr><tr><td>拟杆菌门 Bacteroidetes</td><td>√</td><td>√</td><td></td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td></tr><tr><td>放线菌门 Actinobacteria</td><td>√</td><td>√</td><td>√</td><td>√</td><td></td><td>√</td><td>√</td><td>O</td></tr><tr><td>梭杆菌门Fusobacteria</td><td>O</td><td>√</td><td>√</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>疣微 菌</td><td>门 O</td><td>√</td><td></td><td>√</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+“√”表示能检测到；“O”表示不能被大量检测到(相关丰富度 $< 1 . 0 \%$ 或者不清楚；“—”表示没有验数据。
+
+√”represents being detectable；“O” represents not being largely detected (relative abundance $< 1 . 0 \%$ ） or being unclear；“-”represents a lack of experimental data.
+
+值得一提的是，最近有研究发现，试验山羊在出生后 $8 0 \sim 1 0 0 \mathrm { d }$ 内，除了变形菌门和厚壁菌门，互养菌门成为了瘤胃内三大细菌门类之一（占比超过了 $30 \%$ )，第110天后才被拟杆菌门取代[21]。这是以前的研究所没有观察到的，说明了早期瘤胃微生物区系在特定时间段内可能会有不同规律的变化，所以今后对早期瘤胃微生物种类的测定可能需要更加精确的
+
+时间段。
+
+# 1.2瘤胃上皮与瘤胃微生物区系
+
+瘤胃上皮主要指瘤胃乳头和瘤胄黏膜。瘤胃微生物区系发酵产物直接作用于瘤胃上皮后再作用于动物机体，而且瘤胃微生物的种类以及数量与瘤胄上皮的发育存在相互作用关系[19,22]。因此，涉及到瘤胃微生物区系发育时，有必要同时考虑到瘤胃上皮。但是，在研究早期瘤胃微生物区系时应该有明确的瘤胃上皮发育时期，因为瘤胃在早期是没有消化能力的，此时的反刍动物如同单胃动物，处在皱胃单独发挥消化吸收作用的单胃时期。单胃时期之后的瘤胃乳头以及黏膜组织的发育是由瘤胃微生物在消化饲粮后的产物诱导下发育的，而且饲粮成分的不同会导致各种微生物的比例不同[23-24]。需要注意的是，瘤胃黏膜上与瘤胃食糜中的微生物区系也有差别。Mao等[25]对成年牛整个胃肠道（GIT）的黏膜上和食糜中的微生物测序发现，黏膜上OTU为6327，而食糜中OTU为5573；瘤胃中，厚壁菌门和拟杆菌门在食糜中的丰富度显著大于黏膜上；相反，变形菌门在黏膜上丰富度显著高于厚壁菌门和拟杆菌门。而 Malmuthuge 等[26]对断奶前犊牛（7日龄)的GIT 测序发现，黏膜上OTU为6051,食糜中OTU为7374；同样是瘤胃中，拟杆菌门在黏膜上和食糜中的丰富度都是最高的。
+
+2影响早期瘤胃微生物区系的因素
+
+瘤胃微生物区系发育被认为是由无菌到被各种微生物占领的过程，而瘤胄微生物区系通过改变自身成分与数量使反刍动物宿主获得对饲粮或环境变化的适应能力。早期瘤胃微生物是在各方面的影响下发育的，也正是这些影响，才使早期瘤胃微生物区系最终发育成对饲粮及环境适应、对宿主有利而且较为稳定的状态。
+
+2.1母体
+
+反刍动物出生时从母体处获得的微生物可以认为是最早出现在瘤胃中的微生物，母体对早期瘤胃微生物区系的影响主要可以分为2种：出生时动物与母体的接触、动物出生后对初乳的摄取。从出生到出生后第 20天时，在犊牛的瘤胃内能检测到与母体阴道内和初乳中相同的微生物[27]。据报道[9]，从出生到出生后第2周的幼龄反刍动物体内的原虫来源于动物之间的相互舔舐，因为原虫存在于动物唾液中，如果刚出生时就立即与其他反刍动物隔离，则不能在这个时间段内检测到原虫。Abecia 等将出生后的羊分为跟随母羊和离开母羊2种培育方式，前者使羔羊瘤胄细菌丰富度在出生后第3、5、7、14天时显著增加，而且最明显的
+
+是原虫快速增多；尔后他们以同样的试验方法发现螺旋菌门在跟随母羊的羔羊瘤胃内显著增多，拟杆菌属则始终比与离开母羊的羔羊多[28]。  
+有研究发现，即使在母牛分娩前用无菌水清洗了母牛的阴道、肛门、尾巴和腿（分娩时胎儿直接或间接接触到母牛的部位)，且分娩时用无菌布接生犊牛，还是能在出生后 $2 0 \mathrm { m i n }$ 的特牛瘤胃内检测到产甲烷菌（Methanobrevibacter mobile、Methanobrevibacter votae 和Methanobrevibacter spp）、纤维降解细菌（Fibrobacter succinogenes、Ruminococcus flavefaciens和Prevotella ruminicola）和地杆菌(Geobacter spp.)[4]。同时，最近有研究通过16S rRNA 基因测序技术对同父异母的犊牛瘤胃微生物测序得出，瘤胃微生物在亲子代之间可能具有传递性[29]。显然，这一系列的结果证明早期瘤胃微生物除了与母体接触及初乳摄取获得外，早期瘤胃微生物还有可能在胎儿时期就直接从母体内获得。
+
+# 2.2 开食料
+
+开食料是反刍动物养殖中比较常用的早期饲粮，通常是配合母乳或者代乳品一起使用，也是决定断奶成败的关键。在羔羊上，普雷沃氏菌科的丰富度在开食料饲喂后能从 $31 \%$ 变为 $48 \%$ 而成为瘤胃内丰富度最大的细菌[5；如果给10 日龄羔羊饲喂开食料，瘤胃上皮上的互养菌门丰富度在第56天屠宰时比没有饲喂开食料的羔羊显著增加，变形菌门、无壁菌门和候选菌门的丰富度则减少，而且从细菌属类上改变了一些没有归类细菌的丰富度[30]。对于饲喂牛奶或饲喂牛奶 $^ +$ 精料的犊牛，可以从第28天开始观察到饲喂牛奶的犊牛瘤胃内放线菌门的占比开始降低[20]。在另外的研究中，只饲喂精料的犊牛瘤胃中有47种细菌属，而饲喂精料 $+$ 牧草的犊牛瘤胃中细菌属类变为72种，而且普氏菌属显著增多[31]。
+
+# 2.3断奶
+
+断奶期能比较明显地观察到瘤胃微生物区系的变化[16,22]。Meale 等[32]用16S rRNA基因测序法对断奶期犊牛瘤胃微生物区系测序时发现OTU 和多样性（Chaol和 Shannon 指数）减少，同时拟杆菌门在瘤胃中的丰富度从断奶前的 $6 6 . 1 \%$ 显著降至断奶后的 $4 2 . 2 \%$ ，放线菌门和疣微菌门的丰富度也显著降低；相反，变形菌门和厚壁菌门的丰富度在断奶后显著增加。之后他们在另一个试验中发现，瘤胃中拟杆菌门的丰富度原本大于厚壁菌门，断奶造成了拟杆菌门的丰富度降低，使厚壁菌门成为瘤胃中丰富度最高的细菌[33]。而且断奶方式（早期或推迟）并不影响最终三大菌门在瘤胃微生物区系内的占比[32-33]。虽然大部分研究都表明断奶的确会引起幼龄反刍动物瘤胃微生物区系的巨大改变，但是还没有任何研究表明能通过断奶或断奶方式改变瘤胃中占主导地位的几种菌群。不过，推迟断奶能让试验动物的微生物区系变化减缓，可避免因早期断奶时微生物区系的剧烈变化而造成的应激[34]。
+
+# 2.4动物种类和品种
+
+包括人在内的哺乳动物胃肠道微生物区系会因为动物种类的不同而有差别[2]。例如，同为反刍动物的牛和羊的胃肠道微生物区系就有差别。其中，双歧杆菌属（Bifidobacterium）、乳酸杆菌属（Lactobacillus）、肠球菌属（Enterococcus）和丙酸菌属（Propionibacterium）在羔羊（6\~9 月龄）瘤胃上皮上的丰富度是最高的；而在犊牛（9\~11月龄）瘤胃中，梭菌属（Clostridium）代替了双歧杆菌属并与其他3种菌属类成为了丰富度较高的细菌；而且，羔羊瘤胃黏膜上的细菌总量多于犊牛[35]。同一动物种类不同品种之间胃肠道微生物区系也会存在差别，如不同奶牛品种（荷斯坦和娟姗牛）的瘤胃微生物种类也不同，荷斯坦牛的细菌丰富度在OTU 和Chao1指数上都要显著高于娟姗牛[36]。对比不同地区3日龄的荷斯坦犊牛，在法国[5]的研究表明拟杆菌门为丰富度最高的菌门，而在以色列[8]和美国[27]的研究则表明变形菌门为丰富度最高的菌门。如果以同一地区同一品种为研究对象，犊牛瘤胃内产甲烷菌的种类会因为动物个体的不同而具有较大的差异[37]。
+
+3对早期微瘤胃微生物区系的调控
+
+对早期瘤胃微生物的调控可在一定程度上减少幼龄反刍动物多发的腹泻甚至死亡等问题[38]，也能在减少疾病给反刍动物养殖带来的经济损失的同时提高幼龄反刍动物的生长性能。
+
+使用益生菌（以乳酸菌和双歧杆菌为主）不仅能直接调节瘤胃发酵参数，而且有助于其他有益菌的生长[39]。Qadis 等[40]在晨饲前给荷斯坦犊牛[（12±3）周龄）]饲喂乳酸菌，与对照组（不饲喂乳酸菌）相比，饲喂乳酸菌后第7天和第14天观察到了拟杆菌数量增多，并伴随着瘤胃pH的升高和瘤胃氨态氮含量的增多。Foditsch 等[38]在用牛奶饲喂犊牛（2 日龄)1h 后再饲喂普氏栖粪杆菌(Faecalibacterium prausnitzii)，发现特牛粪便中 Faecalibacteriumprausnitzii的数量增多，同时显著降低了犊牛的腹泻率和死亡率，而且犊牛日增重在断奶期间显著提高。
+
+益生元主要以糖类和酵母培养物为主，而甘露聚糖、纤维低聚糖与酵母培养物则是其中比较常用的类型。据报道，在断奶前后的犊牛饲粮中添加益生元虽然可以一定程度上改善特牛的生长性能，但是并不能显著改变瘤胃微生物区系，而且益生元的添加对健康犊牛的作用很小[39,41]。
+
+离子载体中莫能菌素等则是比较常用的种类，在犊牛饲粮中添加莫能菌素可以显著降低瘤胃中厚壁菌门和螺旋菌门的丰富度，同时显著提高瘤胃pH并降低甲烷产量[42]。
+
+瘤胃液接种也是调控幼龄动物瘤胃微生物区系的方法。有研究表明，接种母羊瘤胃液可以显著增加羔羊瘤胃微生物的数量以及丰富度，提高羔羊的日增重以及饲粮干物质、中性洗涤纤维和酸性洗涤纤维的消化率，并且不会影响羔羊的健康状况和采食量。但是，接种后的效果会随时间推移逐渐消失[43-44]。
+
+在出生到3月龄羔羊饲粮中添加溴甲烷（BCM)，到6月龄时，显著减少了产甲烷菌数量与甲烷产量；如果同时在产羔到第2个月羔羊断奶期间的母羊饲粮中添加BCM，能使羔羊的日增重显著提高[45]。如果在 2\~6 周龄羔羊饲粮中添加亚麻籽油，到羔羊16 周龄时，羔羊瘤胃内甲烷短杆菌属（Methanobrevibacter）和甲烷球形菌属（Methanosphaera）的丰富度显著降低，而且添加亚麻籽油对羔羊的日增重和采食量以及健康状况没有显著影响[46]。
+
+4小结
+
+早期瘤胃微生物区系相对于成年动物瘤胃微生物区系简单但是比较特殊，因为存在一些比较明显的变化过程：有类似单胃动物的皱胃单独发挥作用的时期，也有需氧菌与厌氧菌互换的时期，同时也存在有断奶前与断奶后的时期。同时，早期瘤胃微生物区系发育受到许多因素影响。对早期瘤胃微生物的调控可在一定程度上减少幼龄反刍动物多发的腹泻甚至死亡等问题，并在减少疾病给反刍动物养殖带来的经济损失的同时提高生长性能。由于瘤胃微生物的种类繁多且功能各异，加上研究手段不足，目前对早期瘤胃微生物区系的认识只是管中窥豹，但是随着今后研究工作的积累，我们对早期瘤胃微生物区系的认识及其调控会上升到一个新台阶。
+
+参考文献：
+
+[1] NAGARAJA T G.Microbiology of the rumen[M]//MILLEN D D,DE BENI ARRIGONI M,PACHECO R D L.Rumenology.Botucatu:Springer International Publishing,2016:41-42. [2] ZOETENDAL E G,COLLIER C T,KOIKE S,et al.Molecular ecological analysis of the
+
+gastrointestinal microbiota:a review[J].Journal of Nutrition,2004,134(2):465-472.   
+[3]DE ALMEIDA P N M,DUARTE E R,ABRAO F O,et al.Aerobic fungi in the rumen fluid fromdairycattlefeddifferentsourcesofforage[J].RevistaBrasileirade Zootecnia,2012,41(11):2336-2342.   
+[4] GUZMAN C E,BEREZA-MALCOLM L T,DE GROEF B,et al.Presence of selected methanogens,fibrolytic bacteria,and proteobacteria in the gastrointestinal tract of neonatal dairy calves from birth to 72 hours[J].PLoS One,2015,10(7):e0133048.   
+[5]REY M,ENJALBERT F,COMBES S,et al.Establishment of ruminal bacterial community in dairy calvesfrombirthtoweaningissequential[J].JournalofApplied Microbiol0gy,2014,116(2):245-257.   
+[6] ABECIA L,RAMOS-MORALESE,MARTINEZ-FERNANDEZG,et al.Feeding management in early life influences microbial colonisation and fermentation in the rumen of newborn goat kids[J].Animal Production Science,2014,54(9):1449-1454.   
+[7]LI R W,CONNOR E E,LI C J,et al.Characterization of the rumen microbiota of pre-ruminant calves using metagenomic tools[J].Environmental Microbiology,2012,14(1):129-139.   
+[8]JAMI E,ISRAEL A,KOTSER A,et al.Exploring the bovine rumen bacterial community from birth to adulthood[J].ISME Journal,2013,7(6):1069-1079.   
+[9] YANEZ-RUIZ D R,ABECIA L,NEWBOLD C J.Manipulating rumen microbiome and fermentationthroughinterventionsduringearlylife:areview[J].Frontiers in Microbiology,2015,6:1133.   
+[10] ZIOLECKI A,BRIGGS C A E.The microflora of the rumen of the young calf: II.Source,nature and development[J].Journal of Applied Microbiology,1961,24(2):148-163. [11]BALDWIN VI R L,MCLEOD K R,KLOTZ JL,et al.Rumen development,intestinal growth andhepaticmetabolisminthepre-andpostweaning ruminant[J].Journal ofDairy Science,2004,87(Suppl.):E55-E65.   
+[12]FONTY G,GOUET P,JOUANY JP,et al.Establishment of the microflora and anaerobic fungi in the rumen of lambs[J].Microbiology,1987,133(7):1835-1843. [13]MYER P R,KIM M,FREETLY H C,et al.Evaluation of 16S rRNA amplicon sequencing using two next-generation sequencing technologies for phylogenetic analysis of the rumen bacterial community in steers[J].Journal of Microbiological Methods,2016,127:132-140.   
+[14]FOUTS D E,SZPAKOWSKI S,PURUSHE J,et al.Next generation sequencing to define prokaryotic and fungal diversity in the bovine rumen[J].PLoS One,2012,7(11):e48289.   
+[15] CHAUCHEYRAS-DURAND F,OSSA F.Review:the rumen microbiome:composition,abundance,diversity,and new investigative tools[J].Professional Animal Scientist,2014,30(1):1-12.   
+[16]WANG L Z,XU Q,KONG F L,et al.Exploring the goat rumen microbiome from seven days to two years[J].PLoS One,2016,11(5):e0154354.   
+[17]ZHANG J,SHI H T,WANG Y J,et al.Eect of dietary forage to concentrate ratios on dynamic profile changes and interactions of ruminal microbiota and metabolites in holstein heifers[J].Frontiers in Microbiology,2017,8:2206.   
+[18]DIAS J,MARCONDES M I,DE SOUZA S M,et al.Assessing bacterial community dynamicsacrossthegastrointestinaltractsofdairycalvesduringpreweaning development[J].Applied and Environmental Microbiology,2018,84(9):e02675-17.   
+[19] MALMUTHUGE N,GUAN L L.Understanding host-microbial interactionsin rumen:searching the best opportunity for microbiota manipulation[J].Journal of Animal Science and Biotechnology,2017,8:8.   
+[20]DIAS J,MARCONDES M I,NORONHA M F,et al.Effect of pre-weaning diet on the ruminalarchaeal,bacterial,andfungalcommunitiesofdairycalves[J].Frontiersin Microbiology,2017,8:1553.   
+[21]HAN X F,YANG Y X,YAN H L,et al.Rumen bacterial diversity of 80 to 110-day-old goats using 16S rRNA sequencing[J].PLoS One,2015,10(2):e0117811.   
+[22] MEALES J,CHAUCHEYRAS-DURAND F,BERENDSH,et al.Frompre-to postweaning:transformation of the young calf'sgastrointestinal tract[J].Journal of Dairy Science,2017,100(7):5984-5995. [23]GUZMAN C E,BEREZA-MALCOLM L T,DE GROEF B,et al.Uptake of milk with and without solid feed during the monogastric phase:effect on fibrolytic and methanogenic microorganisms inthe gastrointestinal tractofcalves[J].Animal Science Journal,2016,87(3):378-88.   
+[24] OIKONOMOU G,TEIXEIRA A G V,FODITSCH C,et al.Fecal microbial diversity in pre-weaned dairy calves as described by pyrosequencing of metagenomic 16S rDNA.Associations of faecalibacterium species with health and growth[J].PLoS One,2013,8(4):e63157.   
+[25]MAO S Y,ZHANG M L,LIU J H,et al.Characterising the bacterial microbiota across the gastrointestinaltractsofdairycattle:membershipandpotentialfunction[J].Scientific Reports,2015,5:16116.   
+[26]MALMUTHUGE N,GRIEBEL P J,GUAN L L.Taxonomic identification of commensal bacteria associated with the mucosa and digesta throughout the gastrointestinal tracts of preweaned calves[J].Applied and Environmental Microbiology,2014,80(6):2021-2028.   
+[27]YEOMAN C J,ISHAQ S L,BICHI E,et al.Biogeographical diferences in the influence of maternal microbial sources on the early successional development of the bovine neonatal gastrointestinal tract[J].Scientific Reports,2018,8(1):3197.   
+[28]ABECIA L,JIMENEZ E,MARTiNEZ-FERNANDEZ G,et al.Natural and artificial feeding management before weaning promote diferent rumen microbial colonization but not differences ingeneexpressionlevelsattherumenepitheliumofnewborngoats[J].PLoS One,2017,12(8):e0182235.   
+[29]SASSON G,BEN-SHABAT S K,SEROUSSI E,et al.Heritable bovine rumen bacteria are phylogenetically related and correlated with the cow's capacity to harvest energy from its feed[J].mBio,2017,8(4):e00703-17.   
+[30]LIU J,BIAN G,SUN D,et al.Starter feeding altered ruminal epithelial bacterial communities and some key immune-related genes' expresson before weaning in lambs[J].Journal of Animal Science,2017,95(2):910-921.   
+[31]KIM Y H,NAGATA R,OHTANI N,et al.Effects of dietary forage and calf starter diet on ruminal pH and bacteria in Holstein calves during weaning transition[J].Frontiersin Microbiology,2016,7:1575.   
+[32]MEALE S J,LI S C,AZEVEDO P,et al.Development of ruminal and fecal microbiomes are affectedbyweaningbutnotweaningstrategyindairycalves[J].Frontiersin Microbiology,2016,7:582.   
+[33] MEALE S J,LI S C,AZEVEDO P,et al.Weaning age influences the severity of gastrointestinal microbiome shifts in dairy calves[J].Scientific Reports,2017,7(1):198.   
+[34]LOBERG J M,HERNANDEZ C E,THIERFELDER T,et al.Weaning and separation in two steps—a way to decrease stress in dairy calves suckled by foster cows[J].Applied Animal Behaviour Science,2008,111(3/4):222-234.   
+[35]COLLADO M C,SANZ Y.Quantification of mucosa-adhered microbiota of lambs and calves by the use of culture methods and fluorescent in situ hybridization coupled with flow cytometry techniques[J].Veterinary Microbiology,2007,121(3/4):299-306.   
+[36]PAZ H A,ANDERSON C L,MULLER M J,et al.Rumen bacterial community composition in holstein and jersey cows is different under same dietary condition and is not affected by sampling method[J].Frontiers in Microbiology,2016,7:1206.   
+[37]ZHOU M,CHEN Y H,GRIEBEL P J,et al.Methanogen prevalence throughout the gastrointestinal tract of pre-weaned dairy calves[J].Gut Microbes,2014,5(5):628-638.   
+[38]FODITSCH C,VAN VLECK PEREIRA R,GANDA E K,et al.Oral administration of Faecalibacterium prausnitzii decreased the incidence of severe diarrhea and related mortality rate and increased weight gain in preweaned dairy heifers[J].PLoS One,2015,10(12):e0145485. [39]UYENO Y,SHIGEMORI S,SHIMOSATO T.Effect of probiotics/prebiotics on cattle health and productivity[J].Microbes and Environments,2015,30(2):126-132.   
+[40]QADIS A Q,GOYA S,IKUTA K,et al.Effects of a bacteria-based probiotic on ruminal pH,volatile fatty acids and bacterial flora of Holstein calves[J].Journal of Veterinary Medical Science,2014,76(6):877-885.   
+[41] KIDO K,TEJIMA S,NAGAYAMA H,et al.Effectsofsupplementationwith cellooligosaccharides on growth performance of weaned calves on pasture[J].Animal Science Journal,2016,87(5):661-665.   
+[42] SHEN J S,LIU Z,YU Z T,et al.Monensin and nisin affect rumen fermentation and microbiota differently in vitro[J].Frontiers in Microbiology,2017,8:1111.   
+[43] DE BARBIERI I,HEGARTY R S,SILVEIRA C,et al.Programming rumen bacterial communities in newborn Merino lambs[J].Small Ruminant Research,2015,129:48-59.   
+[44]ZHONG R Z,SUN H X,LI G D,et al.Effects of inoculation with rumen fluid on nutrient digestibility,growth performance and rumen fermentation of early weaned lambs[J].Livestock Science,2014,162:154-158.   
+[45]ABECIA L,MARTiN-GARCiA A 1,MARTiNEZ G,et al.Nutritional intervention in early life to manipulate rumen microbial colonization and methane output by kid goats postweaning[J].Journal of Animal Science,2013,91(10):4832-4840.   
+[46]LYONS T,BOLAND T,STOREY S,et al.Linseed oil supplementation of lambs’ diet in early life leads to persistent changesinrumenmicrobiomestructure[J].Frontiersin Microbiology,2017,8:1656.   
+Development and Manipulation of Rumen Microbiota During Early-Life   
+TIAN Ke LIU Junhui DONG Guozhong\*   
+(Chongqing Key Laboratory of Forage and Herbivores, Collge of Animal Science and Technology, Southwest University, Chongqing 400716, China)   
+Abstract: The rumen harbors a great diversity of microorganisms that provide energy and nutrients for both maintenance and production of ruminant animals. Manipulating rumen microbiota could increase feed utilization and decrease metabolic by-products in the rumen,resulting in enhanced economic benefits and reduced pollution in ruminant production. Recent studies showed that rumen microbiota were very important for nutritional metabolism and body development of young ruminant animals. This article reviewed the development and manipulation of early-life rumen microbiota,so as to provide a reference for the application of early-life rumen microbiota manipulation in practical ruminant production.   
+Key words: young ruminant animals; rumen; microbiota; manipulation

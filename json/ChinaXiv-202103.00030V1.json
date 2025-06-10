@@ -1,0 +1,508 @@
+[
+    {
+        "type": "text",
+        "text": "黄河流域NDVI/土地利用对蒸散发时空变化的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "夺佳贺1²，薛华柱'，董国涛23，周利娟'，李静茹'，党素珍²，李尚志'(1.河南理工大学测绘与国土信息工程学院,河南 焦作454000；2.黄河水利委员会黄河水利科学研究院，河南 郑州450003；3.黑河水资源与生态保护研究中心，甘肃 兰州730030)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于蒸散发(ET)、归一化植被指数(NDVI)及土地利用数据利用M-K检验、Sen趋势分析等方法,研究2001—2015年黄河流域ET时空分布及不同植被覆盖/土地利用下的ET变化规律。结果表明：(1)黄河流域年均ET呈东南高西北低的空间分布格局，与植被覆盖和土地利用的关系具有较好的一致性；(2)黄河流域ET、NDVI均呈现波动式增长状态，土地利用除草地外其他类型面积均有增加，上中下游的变化具有明显差异；(3)流域大部分地区ET与植被呈正相关关系,植被变化是影响ET的主要因素之一；(4)黄河流域土地利用类型对ET的响应时空差异比较明显。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：蒸散发；植被覆盖；NDVI；土地利用；黄河流域文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蒸散发(Evapotranspiration,ET)主要包括地表植被蒸腾、水面和土壤的蒸发[],可以较好的反映流域需水和植被耗水情况[2-3],是水文循环和能量平衡的关键要素[4],在地球大气圈、水圈和生物圈中发挥着重大作用[5]。随着水资源短缺和生态环境问题的研究以及对水资源合理配置的迫切需求，ET的时空格局变化和定量分析显得至关重要[。黄河流域生态环境脆弱、水土流失严重、水资源供需矛盾尖锐和荒漠化问题均十分突出[7-8],因此充分认识ET和植被覆盖/土地利用的时空变化规律及其响应关系，不仅有利于理解其对水循环的影响作用机制，也可为区域生态环境问题提供科学依据[9]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "遥感技术是开展全球或区域尺度ET与植被覆盖/土地利用动态监测的有效方法[10],基于遥感的ET研究已成为近年来该领域研究热点之一[11-12]。国内学者研究了博斯腾湖流域[13]、高原地区[14-15]、黄河源区[16]、黄土高原[1]、西北干旱区[18]等区域ET时空分布规律及与影响因子的关系，并取得一系列的进展和突破。Wang等[19]从中发现低植被覆盖时植被的变化对流域ET产生负面影响，随着植被覆盖度的增加，负效应逐渐向正效应转变； $\\mathbb { W } \\mathbf { u }$ 等[20对淮河流域实际ET的时空变化特征、不同覆盖类型下的区域实际蒸散特征以及主要影响因子进行定量分析；Ma等[2采用统计学方法探讨了黄土高原ET时空变化与气候因子和植被变化的关系；阮宏威等[22]研究了1992—2015年中亚五国土地覆盖与ET时空变化特征并分析耕地蒸散耗水特征；Yan等23研究了华北平原地区实际ET具有明显的时空变化差异且植被覆盖度、风速和气压的变化是影响年际ET趋势的主要因素;Liu等24探讨了土地利用/覆盖变化和气候变化对湿地ET的影响，并确定ET时空动态中主要影响因子的重要性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文基于MODISET、归一化植被指数(NDVI)和土地利用数据运用M-K检验、Sen趋势分析等方法，对2001—2015年黄河流域及上中下游ET时空格局变化进行分析和评估，进一步探讨ET与不同植被覆盖/土地类型之间的关系，揭示研究区内ET和植被的演变规律，以期为黄河流域生态保护和高质量发展提供科学参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "黄河流域位于我国干旱、半干旱和半湿润地区，介于 $9 6 ^ { \\circ } { \\sim } 1 1 9 ^ { \\circ } \\mathrm { E } \\cdot 3 2 ^ { \\circ } { \\sim } 4 2 ^ { \\circ } \\mathrm { N }$ 之间，流域面积 $7 9 . 5 \\times$ $1 0 ^ { 4 } \\mathrm { k m } ^ { 2 }$ （图1)。黄河流域幅员辽阔，地势西高东低，河源至内蒙古河口镇为上游地区，河段落差较大;内蒙古河口镇至河南省桃花峪为中游地区，地形为黄土地貌，水土流失严重;河南省桃花峪以下的河段为下游地区，主要由黄土冲击平原形成[25]。黄河流域属大陆性气候，从东南至西北依次是半湿润气候、半干旱气候和干旱气候。全年气温差异明显，年平均降水量为 $2 0 0 { \\sim } 6 0 0 ~ \\mathrm { m m }$ 。流域内地貌类型多样[26],植被呈东南高西北低的空间分布格局，主要土地利用类型为林地、草地和耕地[27]。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/0cde71a29efdb077588dc3152f8694d223e435d476c0714a0a6b5f89121b34cf.jpg",
+        "img_caption": [
+            "图1黄河流域位置示意图",
+            "Fig.1 Location diagram of the YellowRiver Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2数据来源与处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文使用的MODIS数据来源于美国国家航天局NASA网站，该数据集特征参数完整、时间分辨率较高，因而在区域时空分布特征监测方面具有一定的优势。ET数据来源于MOD16A2产品，空间分辨率为 $5 0 0 \\mathrm { ~ m ~ }$ ,时间分辨率为8d;NDVI数据来源于MOD13Q1产品，空间分辨率为 $2 5 0 \\mathrm { ~ m ~ }$ ,时间分辨率为16d;土地利用数据来源于MCD12Q1产品，IPGP全球植被分类包括17种土地利用类型。本文分析黄河流域主要土地利用类型的变化特征时，将15期土地覆盖数据重分类为林地、草地、永久湿地、农用地、建筑用地和水体(表1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.1M-K检验在M-K检验中，原假设H0为时间序列数据 $( X _ { 1 } , X _ { 2 } { \\cdots } , X _ { n } )$ ，是 $n$ 个独立的、随机变量同",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1土地利用重分类",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/aa2897b3fd8e1d7076262d6f2ae09314ce61dbadb114f78e7e55d9b0a3b0ed69.jpg",
+        "table_caption": [
+            "Tab.1 Land-use reclassification "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>重分类</td><td>IPGP全球植被分类</td></tr><tr><td rowspan=\"7\">1林地</td><td>1常绿针叶林</td></tr><tr><td>2常绿阔叶林</td></tr><tr><td>3落叶针叶林</td></tr><tr><td>4落叶阔叶林</td></tr><tr><td>5混交林</td></tr><tr><td>6稠密灌丛</td></tr><tr><td>7稀疏灌丛</td></tr><tr><td rowspan=\"6\">2草地</td><td>8木本热带稀树草原</td></tr><tr><td>9热带稀树草原</td></tr><tr><td>10草地</td></tr><tr><td>16稀疏植被</td></tr><tr><td>11永久湿地</td></tr><tr><td>12农用地</td></tr><tr><td rowspan=\"4\">5建筑用地 6水体</td><td>14农用地/自然植被拼接</td></tr><tr><td>13城市和建筑区</td></tr><tr><td></td></tr><tr><td>15雪和冰</td></tr><tr><td></td><td>17水</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "分布的样本;假设H1是双边检验,对于所有的 $k , j \\leqslant$ $n$ ，且 $k { \\neq } j , X _ { k }$ 和 $X _ { j }$ 的分布是不相同的，检验的统计量 $s$ 计算如下式：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS = \\sum _ { k = 1 } ^ { n - 1 } \\sum _ { j = k + 1 } ^ { n } \\operatorname { S g n } \\left( X _ { j } - X _ { k } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname { S g n } \\bigl ( X _ { j } - X _ { k } \\bigr ) = \\left\\{ \\begin{array} { l l } { + 1 , \\bigl ( X _ { j } - X _ { k } \\bigr ) > 0 } \\\\ { 0 , \\bigl ( X _ { j } - X _ { k } \\bigr ) = 0 } \\\\ { - 1 , \\bigl ( X _ { j } - X _ { k } \\bigr ) < 0 } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$s$ 为正态分布，其均值为0,方差 $\\operatorname { V a r } ( S ) { = } n \\times ( n -$ $1 ) \\times ( 2 n + 5 ) / 1 8$ 。当 $n { > } 1 0$ 时，标准的正态系统变量通过下式计算：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ = \\left\\{ \\begin{array} { l l } { \\displaystyle { \\frac { S - 1 } { \\sqrt { V ( S ) } } } , S > 0 } \\\\ { 0 , \\qquad S = 0 } \\\\ { \\displaystyle { \\frac { S + 1 } { \\sqrt { V ( S ) } } } , S < 0 } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在双边的趋势检验中，在给定的 $\\boldsymbol { a }$ 置信水平上，如果 $\\scriptstyle | Z | \\geq Z _ { 1 - a / 2 }$ ，即在 $\\overset { \\cdot } { \\alpha }$ 置信水平上，时间序列数据存在明显的上升或下降趋势。对于统计量 ${ \\cal Z } , { \\cal Z } { \\mathrm { > } } 0$ 时是上升趋势； $Z { < } 0$ 时是下降趋势。 $| Z | \\geq 1 . 2 8 , 1 . 6 4$ 和2.32时，分别表示通过了信度 $9 0 \\% 9 5 \\% . 9 9 \\%$ 的显著性检验。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.2Sen趋势分析法Sen趋势分析用于量化变化趋势，表示单位时间内的变化量，计算公式为：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干辛区地理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta { \\mathrm { = } } { \\mathrm { m e d i a n } } \\left( { \\frac { X _ { i } - X _ { j } } { i - j } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $1 < j < i < n$ 。当 $\\beta > 0$ 时，反映了时间序列呈上升趋势；反之，则呈现下降趋势，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1ET与NDVI/土地利用空间特征分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "黄河流域ET与NDVI的多年均值空间分布及2015年土地利用现状如图2所示。高蒸发区域主要集中在黄河源区、渭河上游、泾河、北洛河、延河流域等，而风沙区的蒸发程度较低。黄河流域不同区域植被空间分布差异明显，整体上呈现由东南向西北逐渐减小的变化趋势。NDVI较高的地区集中在黄河源区和黄河流域中下游，风沙区、河套灌区北部、十大孔兑等地区植被覆盖较低。黄河流域主要的土地利用类型是草地，分布在黄河上游、泾河北部、清涧河北部以及汾河西北部地区；泾渭河平原和汾河平原等区域适合农作物的生长。整体来说，黄河流域ET与植被覆盖和土地利用类型具有一定的相关性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2ET与NDVI/土地利用时间序列分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2001—2015年黄河流域以及上中下游ET和NDVI年际变化如图3所示。由图可知，黄河流域ET整体处于增长阶段，2003年由于气温高于常年导致ET变化剧烈[28],2004—2009年ET增长较为平缓,2009年之后ET增长速度明显加快。上、中、下游ET均处于增长水平，黄河流域下游ET的波动幅度更为剧烈。2001—2009年黄河流域下游蒸发量在整个研究区位于最高水平，然后依次为上游、中游。在2009年之后黄河流域中游地区的ET增长趋势更为显著，在2013年达到 $3 7 7 . 3 5 \\mathrm { m m }$ ,黄河上游地区ET处于研究区最低水平。不同河段ET虽然差异较大，但年际波动基本一致。黄河流域的植被NDVI平均值常年在0.5以上，处于增长水平。年NDVI最小值、最大值出现在2001、2012年，分别为0.52、0.61。黄河流域下游地区植被生长旺盛，植被指数均在0.75以上，变化趋势较为平缓，无明显增长趋势；2001—2015年黄河中游地区植被指数处于平稳的增长状态且趋势明显；黄河流域下游植被指数在0.45\\~0.55之间，NDVI波动变化情况与黄河流域整体上植被变化具有较好的一致性。总体来说，黄河流域不同河段植被生长变化具有明显差异，ET具有随着植被盖度增加而增大的趋势[29]。黄河流域 ND-VI和ET整体上呈一致的年际波动，各个河段的NDVI和ET变化趋势大致基本相同，在一定程度上表明年ET与NDVI具有较好的相关性。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d9923c29604e8a72c09088ef307aac676ace89e96b6a4e2f8805447598b68e87.jpg",
+        "img_caption": [
+            "图2黄河流域ET、NDVI和土地利用空间分布图",
+            "Fig.2Spatial distributions of ET,NDVI and land-use in the Yellow River Basin "
+        ],
+        "img_footnote": [
+            "注：ET,蒸散发;NDVI,归一化植被指数。"
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5f2508d2f1dae02ba3acb658e710c34c2c7aed45b97c783fa4b4a0b39fa5584f.jpg",
+        "img_caption": [
+            "图3黄河流域ET、NDVI时间序列变化 Fig.3Changes ofET and NDVI time series in the Yellow River Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2001—2015年黄河流域及上中下游土地利用类型面积变化情况如图4、5所示。由图可知，林地、湿地、农用地、建筑用地和水体面积持续增加，分别增加了 $0 . 8 \\times 1 0 ^ { 4 } \\ \\mathrm { k m ^ { 2 } } \\cdot 0 . 0 3 \\times 1 0 ^ { 4 } \\ \\mathrm { k m ^ { 2 } } \\cdot 1 . 8 1 \\times 1 0 ^ { 4 } \\ \\mathrm { k m ^ { 2 } }$ $0 . 0 8 { \\times } 1 0 ^ { 4 } \\mathrm { k m } ^ { 2 } \\setminus 0 . 0 2 { \\times } 1 0 ^ { 4 } \\mathrm { k m } ^ { 2 }$ ,而仅有草地面积呈下降趋势。黄河流域的主要土地利用类型具有明显的阶段性特征，不同土地利用类型之间的变化也具有明显的对应关系。2001—2003年黄河流域农用地面积显著增加，相应时期的草地面积显著减少；2003一2011年黄河流域林地、农用地、建筑用地面积均以平稳速率上升，同时期草地的面积也以平稳的速率下降；2012—2015年农用地、水体的面积处于稳定的状态，该时间段内草地减少的趋势逐渐放缓。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2001一2015年上、中游林地面积的增长变化速率相对稳定，而下游地区的林地面积波动幅度较大，且在2011—2013年林地面积减少了 $0 . 0 1 7 \\times 1 0 ^ { 4 }$ $ { \\mathrm { k m } } ^ { 2 }$ 。至2015年,林地面积基本恢复到往年最高水平。草地面积一直处于减少的趋势，在各个河段内变化差异较为明显。上游地区的草地面积由2001年的 $4 4 . 9 1 \\times 1 0 ^ { 4 } { \\mathrm { k m } } ^ { 2 }$ 减少到2015年的 $4 4 . 1 2 \\times 1 0 ^ { 4 } \\mathrm { k m } ^ { 2 }$ 面积减少速率较大的时间段集中在2009—2013年；中游地区草地面积在2001—2012年均以平稳速率减少，在2012年以后基本处于稳定状态；2001—2003年下游地区的草地面积以 $0 . 0 7 6 \\times 1 0 ^ { 4 } \\ \\mathrm { k m } ^ { 2 } \\cdot \\mathrm { a } ^ { - 1 }$ 的速率下降，2003年以后草地面积呈现波动式变化，无明显上升和下降的趋势。黄河流域上中下游的湿地面积波动情况相对较小，均以缓慢速率增长。黄河流域上中下游的农用地、建筑用地和水体的面积处于稳定的变化趋势。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3NDVI变化对蒸散发的影响分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "按相等间隔将黄河流域年均NDVI和ET分为5级来分析NDVI变化对ET的影响(表2、表3)。研究",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f53a4eae9e63cfb5b97034b045949b84003c85217dee9b5d94bd6c8edd04d08.jpg",
+        "img_caption": [
+            "图4黄河流域土地利用类型面积变化",
+            "Fig.4Area changes of land-use types in the Yellow River Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c4bac5edfba3b9bf08d7895103d61ef6d13160c9347cafd383005bab62c772f3.jpg",
+        "img_caption": [
+            "图5黄河流域上中下游土地利用类型面积变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.5 Area changes of land-use types in upper, middle and lower reaches of the Yellow River Basin ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f1ce85646ffe9abb8ba20cae48d07a1aef1852f90a84b1043702ccef52f4cd0d.jpg",
+        "table_caption": [
+            "表2研究区各河段及全区平均NDVI及NDVI等级比例",
+            "age NDVIand NDVI grade ratio of each river section and the whole area in the study area "
+        ],
+        "table_footnote": [
+            "注：NDVI，归一化植被指数。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">河段</td><td rowspan=\"2\">平均NDVI</td><td colspan=\"5\">NDVI等级/%</td></tr><tr><td><0.2</td><td>0.2~0.4</td><td>0.4~0.6</td><td>0.6~0.8</td><td>>0.8</td></tr><tr><td>上游</td><td>0.53</td><td>7.04</td><td>25.57</td><td>25.54</td><td>30.61</td><td>11.16</td></tr><tr><td>中游</td><td>0.69</td><td>0.13</td><td>4.71</td><td>21.59</td><td>47.47</td><td>26.10</td></tr><tr><td>下游</td><td>0.76</td><td>0.11</td><td>1.07</td><td>7.96</td><td>48.47</td><td>42.33</td></tr><tr><td>全区</td><td>0.59</td><td>4.62</td><td>18.02</td><td>23.31</td><td>36.57</td><td>17.14</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3研究区各河段及全区平均ET及ET等级比例",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/ac79708cc239c3f11e5e98a577e29667f744030af6cfed69406467613c43a28c.jpg",
+        "table_caption": [
+            "Tab.3Average ETand ET grade ratio of each river sectionand the whole area in the study area "
+        ],
+        "table_footnote": [
+            "注：ET,蒸散发。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">河段</td><td rowspan=\"2\">平均ET/mm</td><td colspan=\"5\">ET等级/%</td></tr><tr><td><200 mm</td><td>200~400 mm</td><td>400~600 mm</td><td>600~800 mm</td><td>>800 mm</td></tr><tr><td>上游</td><td>318.70</td><td>30.41</td><td>32.99</td><td>36.51</td><td>0.09</td><td>0</td></tr><tr><td>中游</td><td>316.69</td><td>13.69</td><td>63.19</td><td>22.45</td><td>0.71</td><td>0</td></tr><tr><td>下游</td><td>337.70</td><td>4.60</td><td>74.70</td><td>20.14</td><td>0.56</td><td>0</td></tr><tr><td>全区</td><td>319.24</td><td>23.99</td><td>44.30</td><td>31.42</td><td>0.30</td><td>0</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "区多年平均NDVI为 $0 . 5 9 , 2 2 . 6 4 \\%$ 的区域 $\\mathrm { N D V I } { < } 0 . 4$ 仅有 $1 7 . 1 4 \\%$ 的区域 $\\mathrm { N D V I } { > } 0 . 8$ ,NDVI介于 $0 . 4 { \\sim } 0 . 8$ 的区域占总流域的 $5 9 . 8 8 \\%$ 。上、中、下游 $\\mathrm { N D V I } { > } 0 . 6$ 的区域所占比例越来越高，表明从东至西植被覆盖度越来越高。下游地区的NDVI达到最高为0.76，该河段超过 $9 0 \\%$ 的区域 $\\mathrm { N D V I } { > } 0 . 6$ 。黄河流域年均ET为 $3 1 9 . 2 4 ~ \\mathrm { m m }$ $4 4 . 3 0 \\%$ 的区域ET在 $2 0 0 { \\sim } 4 0 0 ~ \\mathrm { m m }$ 之间，ET在 $0 { \\sim } 2 0 0 ~ \\mathrm { m m }$ 和 $4 0 0 { \\sim } 6 0 0 ~ \\mathrm { m m }$ 分别占流域的",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$2 3 . 9 9 \\%$ ） $3 1 . 4 2 \\%$ ，而仅有 $0 . 3 0 \\%$ 的区域ET值达到$6 0 0 ~ \\mathrm { m m }$ 以上。ET处于 $2 0 0 { \\sim } 4 0 0 ~ \\mathrm { m m }$ 阶段的面积所占比例随着上游、中游、下游逐渐增加，表明ET程度从东至西越来越剧烈。下游地区 $9 5 . 4 0 \\%$ 的区域ET大于 $2 0 0 ~ \\mathrm { m m }$ ,年均ET最大。黄河流域下游是NDVI和ET高值的集中分布区，中低程度植被覆盖和ET分布在流域中上游。总体来说，研究区NDVI与ET的空间分布基本一致，同时表明了ET的大小与植被覆盖的高低具有较好的相关性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据M-K检验与Sen趋势分析的方法对研究区NDVI和ET逐像元计算，获得NDVI与ET的M-K检验统计量 $Z _ { c }$ 值及年际变化速率β值结果，并对NDVI和ET的变化趋势及变化速率进行分类和划等，统计其比例特征(表4)。研究发现：中游的NDVI和ET的变化速率最大，分别为0.007、8.26，呈显著增加的变化趋势，通过 $\\scriptstyle \\alpha = 0 . 0 5$ 显著检验；上游地区植被指数的 $Z _ { c }$ 值为1.59，达到显著化增加水平，而ET变化呈不显著水平增加；下游地区NDVI的变化速率仅为-0.001，生长情况处于稳定状态，ET变化则处于平稳增加阶段。从流域整体来看，植被NDVI和ET变化情况呈现不显著增加趋势。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表5、表6可知，黄河流域NDVI变化率主要介于0\\~0.01之间，其比例为 $6 9 . 5 4 \\%$ ,变化率小于0和变化率大于0.01的比例分别为 $1 5 . 3 2 \\%$ 和$1 5 . 1 4 \\%$ 。上游地区NDVI变化速率等级在 $- 0 . 0 0 5 { \\sim } 0$ 之间占其区域的 $5 1 . 5 5 \\%$ ，处于缓慢增长阶段；中游地区植被增长趋势明显， $3 0 . 4 1 \\%$ 的区域NDVI增长速率大于0.01;下游 $4 7 . 9 6 \\%$ 区域的植被呈缓慢减少的趋势。黄河流域ET变化率主要介于 $0 { \\sim } 1 2 \\ \\mathrm { m m ^ { \\bullet } a ^ { - 1 } }$ ，其比例为 $7 2 . 5 7 \\%$ ,变化率小于 $0 \\ : \\mathrm { m m \\cdot a ^ { - 1 } }$ 及变化率大于 $1 2 { \\mathrm { ~ m m } } \\cdot { \\mathrm { a } } ^ { - 1 }$ 的比例分别为 $1 4 . 9 3 \\%$ 和 $1 2 . 4 9 \\%$ 。中游是NDVI及ET增加速率最快的集中区域，其NDVI变化速率大于0.005和ET变化速率大于 $4 \\mathrm { m m } \\cdot \\mathrm { a } ^ { - 1 }$ 比例分别达到了 $6 3 . 0 2 \\%$ 和 $7 7 . 9 5 \\%$ 。上游和下游地区ND-VI与ET的主要呈现增加趋势，但变化相对幅度较小。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "利用2001—2015年黄河流域ET和NDVI的长时间序列数据分析其相关系数(图6)。由图6可知，黄河流域大部分地区ET与植被均呈正相关关系，相关性较好的地区主要集中在河龙区间黄丘区、泾渭河上游、内蒙古黄河段东北部等区域。黄河流域中游南部地区降雨量较多，植被生长茂盛，蒸发程度较高，ET与NDVI变化的趋势较为一致。相关系数相对较小的区域主要集中在黄河源区，该区域海拔高地貌多系山岭及草地高原，植被覆盖度较低，但是ET程度相对较高。农用地区域的ET和NDVI相关性较低。整体来说，ET的变化情况与植被生长状态具有一定的相关性，植被的长势是影响ET的主要因素之一。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4土地利用变化对蒸散发的影响分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图7为黄河流域各河段土地利用和ET的变化",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/660b78e562e157b23239196de4116c8b593cbea910d637bd05593f42be61e47f.jpg",
+        "table_caption": [
+            "Tab.4Variation trends of NDVIand ET in the whole study area and different river sections "
+        ],
+        "table_footnote": [
+            "注： $Z _ { c \\setminus } \\beta$ 分别表示M-K检验统计量、年际变化速率；\\*代表达到显著水平， $P { < } 0 . 0 5$ 0"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">河段</td><td colspan=\"3\">NDVI</td><td colspan=\"3\">ET</td></tr><tr><td>Z</td><td>β</td><td>趋势</td><td>Z</td><td>β</td><td>趋势</td></tr><tr><td>上游</td><td>1.59*</td><td>0.004</td><td>显著增加</td><td>0.88</td><td>4.02</td><td>不显著增加</td></tr><tr><td>中游</td><td>2.10*</td><td>0.007</td><td>显著增加</td><td>1.65*</td><td>8.26</td><td>显著增加</td></tr><tr><td>下游</td><td>0.06</td><td>-0.001</td><td>不显著减少</td><td>0.68</td><td>3.55</td><td>不显著增加</td></tr><tr><td>全区</td><td>0.58</td><td>0.005</td><td>不显著增加</td><td>1.09</td><td>1.87</td><td>不显著增加</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e7c645c4118bf52903341131619b2aec1a1f954dc2428592c6fde638580e200e.jpg",
+        "table_caption": [
+            "表4研究区全区及不同河段NDVI和ET变化趋势",
+            "表5研究区全区及各河段NDVI不同变化速率等级比例",
+            "Tab.5Proportions of NDVIwith different rate of change in the whole areaand river sections of the study are "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">河段</td><td colspan=\"5\">NDVI变化速率等级/%</td></tr><tr><td><-0.005</td><td>-0.005~0</td><td>0~0.005</td><td>0.005~0.01</td><td>>0.01</td></tr><tr><td>上游</td><td>0.81</td><td>13.27</td><td>51.55</td><td>24.48</td><td>9.89</td></tr><tr><td>中游</td><td>2.98</td><td>6.84</td><td>27.15</td><td>32.61</td><td>30.41</td></tr><tr><td>下游</td><td>14.77</td><td>33.19</td><td>36.78</td><td>11.96</td><td>0.3</td></tr><tr><td>全区</td><td>2.3</td><td>13.02</td><td>43.62</td><td>25.92</td><td>15.14</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/d046e42af82caa342a07d32747e1a06b239bb1415bffbe412622f69c5d7a78fd.jpg",
+        "table_caption": [
+            "表6研究区全区及各河段ET不同变化速率等级比例",
+            "Tab.6Proportions of ETwith different rate of change in the whole area and river sections of the study area "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">河段</td><td colspan=\"6\">ET变化速率等级/mm·a-</td></tr><tr><td>-4</td><td>-4~0</td><td>0~4</td><td>4~8</td><td>8~12</td><td>>12</td></tr><tr><td>上游</td><td>1.79</td><td>16.44</td><td>39.05</td><td>23.82</td><td>11.90</td><td>7.00</td></tr><tr><td>中游</td><td>2.53</td><td>3.02</td><td>16.05</td><td>26.83</td><td>25.50</td><td>26.07</td></tr><tr><td>下游</td><td>9.27</td><td>15.50</td><td>24.01</td><td>28.27</td><td>16.41</td><td>6.53</td></tr><tr><td>全区</td><td>2.46</td><td>12.47</td><td>31.51</td><td>24.97</td><td>16.09</td><td>12.49</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "特征。从流域整体来看，草地作为研究区主要的土地利用类型随时间变化面积逐渐减少，其他土地利用类型面积则逐渐增加，但6种土地利用类型的蒸发量均呈增加的趋势。黄河流域 $7 0 \\%$ 以上的草地位于研究区的上游，各类土地利用类型面积的变化与整个流域较为一致，同样蒸发量也随着时间变化逐渐增大，研究区内的林地和农用地主要分布在黄河流域中游地区，6种土地利用类型的蒸发量随时间变化基本一致。黄河流域下游土地利用类型以农用地为主，各类土地类型的蒸发程度均大于中上游，且湿地和林地的蒸发量较大。典型流域中浑河、十大孔兑、皇甫川、窟野河、秃尾河、无定河均以草地为主要的土地利用类型，泾河、北洛河以及渭河下游主要的土地利用类型是农用地，清涧河、延河流域以林地为主，蒸发量从西北向东南逐渐增加。综上所述，土地利用是影响ET的重要因素[30]，黄河流域土地利用类型对ET的响应时空差异比较明显。明确ET实际时空格局变化特征,对于合理分配水资源、提高水资源利用率具有重要意义。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/7273e77ad19506c69fa1c2f20dffbdc1b6f106fe9815b25afe51ad3eb8a32475.jpg",
+        "img_caption": [
+            "图6ET与NDVI相关系数空间分布图 Fig.6Spatial distribution of correlation coefficients between ET and NDVI "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/7d1d3b165ecc3a871434d9456405ff50a011acc7f1a0211fca6c1902e1401470.jpg",
+        "img_caption": [
+            "图7黄河流域土地利用类型及蒸散发变化",
+            "Fig.7Land-use types and evapotranspiration changes in the Yellow River Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "目前，对于ET的研究较多利用MODIS产品或者遥感估算模型来分析ET的时空变化特征，较多集中在小尺度范围，而对黄河流域ET的研究较少。MODISET数据集在充分考虑植被蒸腾、冠层截留蒸发和土壤水分蒸发的基础上能够满足区域尺度的研究。本文采用MOD16A2产品可以有效地反映黄河流域ET的变化状况，有助于促进区域生态环境的保护和水资源合理配置。基于MODIS的ET、ND-VI和土地利用数据研究了2001—2015年黄河流域ET时空变化特征，采用趋势分析和相关分析探索了上中下游ET与NDVI响应关系，统计分析了黄河流域不同土地利用类型的ET变化规律。主要结论如下：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）2001—2015年黄河流域及上中下游ET均处于上升水平，下游ET的波动幅度更为剧烈。研究区年均NDVI大于0.5且植被变化呈波动式增长状态，不同河段植被年生长变化差异较为明显。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）黄河流域NDVI与ET的空间分布基本一致，在中游地区ET、NDVI均处于显著增加的水平。大部分地区ET与植被均呈正相关关系，植被的变化是影响ET的主要因素之一。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）研究区在2001—2015年除草地以外其余土地利用类型面积均呈现增加的趋势，且具有明显的阶段性特征，不同河段的土地利用类型面积的变化趋势均有一定的差异，整体来说黄河流域土地利用向良好的方向发展。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(4）不同河段土地利用类型对于ET的响应具有一定的差异，黄河流域下游地区蒸发量明显较大。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]叶红,张廷斌,易桂花,等.2000—2014年黄河源区ET时空特 征及其与气候因子关系[J].地理学报，2018,73(11):2117- 2134.[Ye Hong,Zhang Tingbin,Yi Guihua,etal. Spatio-temporal characteristics of evapotranspiration and its relationship with climate factorsin the source region of theYellowRiver from 2OOO to ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2014[J]. Acta Geographica Sinica,2018,73(11): 2117-2134.]   \n[2]姜艳阳,王文,周正昊.MODIS MOD16蒸散发产品在中国流域 的质量评估[J].自然资源学报,2017,32(3):517-528.[Jiang Yanyang.Wang Wen, Zhou Zhenghao.Evaluation of MODIS MOD16 evaportranspiration product in Chineseriver basins[J]. Journal of Natural Resources,2017,32(3): 517-528.]   \n[3]曹文旭,张志强,查同刚,等.基于Budyko假设的潮河流域气候 和植被变化对实际蒸散发的影响研究[J].生态学报,2018,38 (16): 5750-5758.[Cao Wenxu, Zhang Zhiqiang, Zha Tongganget al. Exploring the effects of vegetation dynamics and climate changes on the Chaohe watershed actual evapotranspiration: Budyko Hypothesis approach[J]. Acta Ecologica Sinica, 2018,38(16): 5750-5758.]   \n[4]邓兴耀,刘洋,刘志辉,等.中国西北干旱区蒸散发时空动态特 征[J].生态学报,2017,37(9):2994-3008.[Deng Xingyao,Liu Yang, Liu Zhihui, et al. Temporal-spatial dynamic change haracteristics of evapotranspiration in arid region of northwest China[J]. Acta Ecologica Sinica,2017,37(9): 2994-3008.]   \n[5]杨秀芹,王国杰,潘欣 等.基于GLEAM遥感模型的中国1980— 2011年地表蒸散发时空变化[J].农业工程学报,2015,31(21): 132-141.[Yang Xiuqin, Wang Guojie,Pan Xin, et al.Spatio-temporal variability of terrestrial evapotranspiration in China from 1980 to 2O11 based on GLEAM data[J]. Journal of Agricultural Engineering,2015,31(21): 132-141.]   \n[6]董晴晴,占车生,王会肖,等.2000年以来的渭河流域实际蒸散 发时空格局分析[J].干旱区地理,2016,166(2):97-105.[Dong Qingqing, Zhan Chesheng, Wang Huixiao,et al. Spatio-temporal patterns of actual evapotranspiration in the Weihe River Basin since 2000[J]. Arid Land Geography,2016,166(2): 97-105.]   \n[7]孙永军,周强,杨日红.黄河流域土地荒漠化动态变化遥感研究 [J].国土资源遥感,2009,20(2):74-78.[Sun Yongjun, Zhou Qiang,Yang Rihong.A study of land desertification dynamic change in Yellow River Basin[J]. Remote Sensing of Land and Resources,2009,20(2): 74-78.]   \n[8]王思远,王光谦,陈志祥.黄河流域生态环境综合评价及其演变 [J].山地学报,2004,22(2):133-139.[Wang Siyuan,Wang Guangqian,ChenZixiang.Eco-environmentalevaluationdag es in Yellow River Basin[J]. Journal of Mountain Science,2004,22 (2): 133-139.]   \n[9]金翠,张柏,宋开山,等.土地利用/覆被变化对区域蒸散发影响 的遥感分析——以吉林省乾安县为例[J].干旱区研究,2009, 26(5):734- 743.[Jin Cui,Zhang Bai, Song Kaishan,et al.RSbased analysis on the effcts of land use/cover change on regional evapotranspiration: A case study Qian’an County, Jilin Province [J]. Arid Zone Research,2009,26(5): 734-743.]   \n[10] 王燕鑫,李瑞平,李夏子.河套灌区不同土地类型生长季蒸散发 量估算及其变化特征[J].干旱区研究,2020,37(2):364-373. [Wang Yanxin,Li Ruiping,Li Xiazi. Estimation and variability of evapotranspiration for diffrent land types during the growing season in the Hetao Irrigation District[J].Arid Zone Research, 2020, ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "37(2): 364-373.]   \n[11] 曾丽红,宋开山,张柏,等.基于 SEBAL模型与MODIS产品的松 嫩平原蒸散量研究[J].干旱区资源与环境,2011,25(1):140- 147.[Zeng Lihong,Song Kaishan, Zhang Bai, et al. Study on regional evapotranspiration over Songnen Plain based on SEBAL model and MODIS products[J]. Arid Land Resources and Environment, 2011,25(1): 140-147.]   \n[12] Ruhoff A L, Paz A R,Aragao L E O C,et al. Assessment of the MODIS global evapotranspiration algorithm using eddy covariance measurements and hydrological modelling in the Rio Grande Basin [J].International Association of Scientific Hydrology Bulletin, 2013,58(8): 1658-1676.   \n[13] 钟巧,焦黎,李稚,等.博斯腾湖流域潜在蒸散发时空演变及归 因分析[J].干旱区地理,2019,42(1):103-112.[Zhong Qiao,Jiao Li,Li Zhi,et al. Spatial and temporal changes of potential evapotranspiration and its attribution in the Bosten Lake Basin[J].Arid Land Geography,2019,42(1): 103-112.]   \n[14] 张翔,朱晓昱,沈贝贝,等.呼伦贝尔植被蒸散发时空变化研究 [J].中国农业资源与区划,2020,41(4): 308-316.[Zhang Xiang, Zhu Xiaoyu, Shen Beibei,et al. Analysis of temporal and spatial variation of vegetation evaportranspiration in Hulunbuir[J]. China' s Agricultural Resources and Regionalization, 2O20,41(4): 308- 316.]   \n[15] 尹云鹤,吴绍洪,赵东升,等.1981—2010年气候变化对青藏高 原实际蒸散的影响[J].地理学报,2012,67(11):1471-1481. [Yin Yunhe,Wu Shaohong, Zhao Dongsheng,et al. Impactof climate change on actual evapotranspiration on the Tibetan Plateau during 1981—2010[J].Acta Geographica Sinica,2012,67(11): 1471-1481.]   \n[16]刘蓉,文军,王欣.黄河源区蒸散发量时空变化趋势及突变分析 [J].气候与环境研究,2016,21(5):503-511.[Liu Rong,Wen Jun,Wang Xin. Spatial-temporal variation and abrupt analysis of evapotranspiration over the Yellow River source region[J]. Climatic and Environmental Research,2016,21(5): 503-511.]   \n[17] 韩盟伟,赵广举,穆兴民,等.黄土高原1959—2015年潜在蒸发 量的时空变化[J].干旱区地理,2017,40(5):997-1004.[Han Mengwei, Zhao Guangju,Mu Xingmin,et al. Spatial and temporal variations of potential evapotranspiration on the Loess Plateau during 1959—2015[J]. Arid Land Geography，2017,40(5):997- 1004.]   \n[18] 邓兴耀,刘洋,刘志辉,等.中国西北干旱区蒸散发时空动态特 征[J].生态学报,2017,37(9): 2994-3008.[Deng Xingyao,Liu Yang,Liu Zhihui, et al. Temporal-spatial dynamic change characteristics of evapotranspiration in aridregion of northwest Chia[J]. Acta Ecologica Sinica, 2017,37(9): 2994-3008.]   \n[19]Wang Y,Liu Y B,Jin JX. Contrast effcts of vegetation cover change on evapotranspiration during a revegetation period in the Poyang Lake Basin, China[J]. Forests,2018,9(4): 217-230.   \n[20]Wu R J, Xing XR. Variation characteristics and influencing factors of actual evapotranspiration under various vegetation types: A case study in the Huaihe River Basin,China[J]. Journal of Applied Ecology,2016,27(6): 1727-1736.   \n[21]Ma Z, Yan N, Wu B,et al. Variation in actual evapotranspiration following changes in climate and vegetation cover during an ecological restoration period (2000—2015) in the Loess Plateau, China[J]. Science of the Total Environment,2019,689: 564-545.   \n[22] 阮宏威,于静洁.1992—2015年中亚五国土地覆盖与蒸散发变 化[J].地理学报,2019,74(7):1292-1304.[Ruan Hongwei,Yu Jingjie.Changes in land cover and evapotranspiration in the five Central Asian countries from 1992 to 2015[J].Acta Geographica Sinica,2019,74(7): 1292-1304.]   \n[23] Yan NN,TianFY,WuBF,et al.Spatiotemporal analysisof actual evapotranspiration and its causes in the Hai Basin[J].Remote Sensing,2018,10(2): 332-348.   \n[24] Liu M Q, Hu D Y. Response of wetland evapotranspiration to land use/cover change and climate change in Liaohe River Delta, China [J]. Water,2019,11(5): 955-970.   \n[25] He Z, He JP.Spatio-temporal variation of vegetation cover based on SPOT-VGT in Yellow River Basin[J].Ecology and Environmental Sciences,2012,21(10): 1655-1659.   \n[26]Liu L L, Xiao FJ. Spatial-temporal correlations of NDVI with precipitation and temperature in Yellow River Basin[J]. Chinese Journal of Ecology,2006,25(5): 477-481.   \n[27] 田智慧,张丹丹,赫晓慧,等.2000—2015年黄河流域植被净初 级生产力时空变化特征及其驱动因子[J.水土保持研究, 2019,26(2): 259-266.[Tian Zhihui, Zhang Dandan, He Xiaohui, et al. Spatiotemporal variations in vegetation net primary productivity and their driving factors in Yellow River Basin from 2000 to 2015[J].Research of Soil and Water Coservation,2019,26(2): 259-266.]   \n[28] 秦年秀,姜彤.2003年重大自然灾害回顾[J].自然灾害学报, 2005,14(1):38-44.[Qin Nianxiu,Jiang Tong.A review on global natural disasters in 2Oo3[J].Journal of Natural Disasters,2005,14 (1): 38-44.]   \n[29] 陈晓菲,任立良,江善虎,等.赣江上游流域蒸散发量影响因素 的遥感分析[J].水资源保护,2014,30(2):33-37.[Chen Xiaofei, Ren Liliang, Jiang Shanhu, et al. RS-based analysis offactors influencing evapotranspiration in upstream region of Ganjiang Basin [J]. Water Resources Protection,2014,30(2): 33-37.]   \n[30] 张殿君,张学霞,武鹏飞,等.黄土高原典型流域土地利用变化 对蒸散发影响研究[J].干旱区地理,2011,34(3):400-408. [Zhang Dianjun, Zhang Xuexia,Wu Pengfei,et al.Relationship be tween ET and LUCC in a typical watershed of Loess Plateau over the past 20 years[J].Arid Land Geography,2011,34(3): 400-408.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Effects of NDVI/land-use on spatiotemporal changes of evapotranspiration in the Yellow River Basin ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "GU Jiahel²， XUE Huazhu'，DONG Guotao²³， ZHOU Lijuan', LI Jingru'， DANG Suzhen²， LI Shangzhi' (1.SchoolofSurveyingandLandInformationEngineering,HenanPolytechnicUniversityJiaozuo454oo,Henan,China; 2.YellowRiverInstituteofHydraulicResearch,Zhengzhou45Oo3,Henan,China;3.Heihe WaterResourcesandEcological Protection Research Center,Lanzhou 73Oo3O,Gansu, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The Yelow River Basin is mainly distributed inarid,semi-arid,and semi-humid areas witha fragile ecological environment,which has become the most serious soil erosion area in China and even in the world. Evapotranspiration (ET) is an essential partof the land water and energy cycle,playing a vital role in the global ecosystem regulation and the hydrological cycle.ET is mainly composed of vegetation and transpiration of soil water and diferent vegetationcover orland-use types,showing diffrent spatial-temporal distribution characteristics. Accurate exploration of theET's spatial-temporal distribution and its response relationship is conducive to mastering regional surface water and heat balance law. Remote sensing has been widely used in ET's dynamic monitoring on a global or regional scale.Analyzing the ET's spatial-temporal changes in the Yelow River Basin promotes understanding the impact of vegetation and land-use changes on the water cycle and the rational alocation of water resources. On the basis of ET-MODIS data,normalized difference vegetation index (NDVI)，and land-use products as data sources, we studied the ET's spatial-temporal change patern in the Yellow River Basin from 2001 to 2015 using the Manner-Kendall test and Sen’s trend analysis.We discussed ET’s impact and the diferent change characteristics under diffrent NDVI conditions and land-use types.We found the following results: (1)The ETdistribution pattern in the Yellow River Basin is obvious, gradually decreasing from southeast to northwest. The average ET value in the study area is $3 1 9 . 2 4 ~ \\mathrm { m m }$ ，and the average NDVI is 0.59.The high values of ET and NDVI are concentrated on the downstream areas,and their spatial distribution is in good consistent. (2) The time series of ETand NDVI in the Yellow River Basin all showed a fluctuant growth state, and the changes in each river segment were significantly different from 2O01 to 2O15.In inter-annual changes,the trends of ETand NDVIare the same,and they haveasignificantly increased level in the middle reaches. (3) Vegetation change is the main factor affecting ET,positively correlating with ET in most Yellow River Basin areas. (4)From 2O0l to 2O15,the area of land cover types in the Yelow River Basin except the weeding areas showed an increasing trend,in which theETresponse in different river reaches was different to some extent.The spatial-temporal differences in land-use types inresponse to ETareobvious.It is of great significance for ecosystem protection and water resources management to comprehensively analyze the variation law of evaporation in the upper, middle,and lower reaches of the Yellow River Basin and provide a reference for promoting the sustainable development of the regional economy and society. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words: evapotranspiration; vegetation cover; NDVI; land use； Yellow River Basin ",
+        "page_idx": 9
+    }
+]

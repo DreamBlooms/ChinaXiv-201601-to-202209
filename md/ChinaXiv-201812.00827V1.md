@@ -1,0 +1,108 @@
+1 不同淀粉源对獭兔内源氮和内源能损失的影响杨新宇曹宁坤 吴峰洋崔嘉陈宝江\*
+
+3 （河北农业大学动物科技学院，保定071001）
+
+摘要：本试验旨在研究不同淀粉源对獭兔内源氮和内源能损失的影响。选用1.5岁左右健康的獭兔 30只，随机分成3组，每组10只，公母各占1/2。3组獭兔分别饲喂玉米淀粉型、马铃薯淀粉型和木薯淀粉型无氮饲粮。预试期和正试期各7d。结果显示：内源氮损失方面，各组獭兔的代谢粪氮（MFN）和内源尿氮(EUN)差异不显著 $( P { > } 0 . 0 5 )$ ；总体上看，木薯淀粉组内源氮损失最高，马铃薯淀粉组最低，玉米淀粉组居中；内源能损失方面，各组獭兔的代谢粪能（FmE）和内源尿能(UeE)差异不显著 $( P { > } 0 . 0 5 )$ 总体上看，木薯淀粉组内源能损失最高，马铃薯淀粉组最低，玉米淀粉组居中。由此得出，虽然不同淀粉源对獭兔MFN、EUN、FmE 和UeE均无显著影响，但总体看，木薯淀粉组獭兔的内源氮和内源能损失要高于玉米淀粉组和马铃薯淀粉组。
+
+关键词：獭兔；不同淀粉源；内源氮损失；内源能损失中图分类号：S816 文献标识码：A 文章编号：
+
+近年来，内源损失的测定逐渐成为人们关注的焦点，借助内源损失对表观消化率、消化能进行校正，可排除动物个体间由于内源损失差异对饲料消化率造成的不良影响，从而更加准确地评价饲料的营养价值。内源损失包括内源氮和内源能损失，内源氮损失是评价动物维持蛋白质需要、饲料蛋白质生物学的基础，内源能损失是研究真消化能、代谢能的基础。影响动物内源损失的因素有很多，如饲粮组成、环境条件、动物体重等[1]。淀粉是饲粮的重要组成成分，能够为动物提供近1/2 的能量需要[2]，但近年来的研究表明，不同来源的淀粉，其结构组成不同，会对消化性能产生一定影响，如不同淀粉消化速度和消化程度不同，能量供应效率也不同[3-5]。但不同淀粉源是否会影响内源损失，目前在家兔上尚未见报道。本试验以白色獭兔作为试验动物，选用玉米淀粉、马铃薯淀粉和木薯淀粉作为淀粉源，配制玉米淀粉型、马铃薯淀粉型和木薯淀粉型无氮饲粮，研究不同淀粉源对獭兔内源氮和内源能损失的影响，旨在为准确估测獭兔的内源损失、评价饲料利用率提供参考。
+
+# 41材料与方法
+
+# 1.1试验材料
+
+爱博素、万利纤、木薯淀粉和棕榈脂肪粉（为黄色颗粒状，含量 $9 8 \%$ ）分别来自瑞登梅尔纤维公司、奥地利Agromed 公司、广西红枫淀粉有限公司以及泰安饲料公司。马铃薯淀粉、玉米淀粉和蔗糖为市购。
+
+试验动物：1.5岁左右、体重相近（ $3 \mathrm { k g }$ 左右）的健康白色獭兔30只，公母各占1/2，由河北农大獭兔繁育养殖基地提供。
+
+# 1.2 试验饲粮
+
+参考谷子林推荐的獭兔营养需求量，并分别选用玉米淀粉、马铃薯淀粉和木薯淀粉作为淀粉源，配成3种无氮饲粮，其组成及营养水平见表1。按比例称取饲料原料，充分混合，为适应家兔的采食习性，将饲粮制成直径约 $4 \mathrm { m m }$ 、长约 $1 0 \mathrm { m m }$ 的颗粒饲料，饲粮粗蛋白质含量 $< 0 . 5 \%$ 。
+
+表1 无氮饲粮组成及营养水平(风干基础)  
+Table 1Composition and nutrient levels of nitrogen-free diet (air-dry basis) %   
+
+<html><body><table><tr><td rowspan="3">项目Items</td><td colspan="3">无氮饲粮 Nitrogen-free diets</td></tr><tr><td>玉米淀粉型</td><td>马铃薯淀粉型</td><td>木薯淀粉型</td></tr><tr><td>Corn starch type</td><td>Potato starch type</td><td>Cassava starch type</td></tr><tr><td>原料Ingredients</td><td></td><td></td><td></td></tr><tr><td>爱博素 ARBOCEL?</td><td>35.00</td><td>35.00</td><td>35.00</td></tr><tr><td>万利纤 Opticell</td><td>28.12</td><td>28.12</td><td>28.12</td></tr><tr><td>棕榈油 Palm oil</td><td>10.00</td><td>10.00</td><td>10.00</td></tr><tr><td>蔗糖 Sucrose</td><td>5.00</td><td>5.00</td><td>5.00</td></tr><tr><td>玉米淀粉 Corn starch</td><td>18.00</td><td></td><td></td></tr><tr><td>马铃薯淀粉 Potato starch</td><td></td><td>18.00</td><td></td></tr><tr><td>木薯淀粉 Cassava starch</td><td></td><td></td><td>18.00</td></tr><tr><td>石粉 Limestone</td><td>0.71</td><td>0.71</td><td>0.71</td></tr><tr><td>二水合磷酸氢钙</td><td>2.37</td><td>2.37</td><td>2.37</td></tr></table></body></html>
+
+<html><body><table><tr><td>食盐 NaCl</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>兔用预混料 Rabbitpremix1)</td><td>0.30</td><td>0.30</td><td>0.30</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td></tr><tr><td>消化能 DE/（MJ/kg）</td><td>10.30</td><td>10.30</td><td>10.30</td></tr><tr><td>纤维Fiber</td><td>63.12</td><td>63.56</td><td>64.01</td></tr><tr><td>纤维素 Cellulose</td><td>24.87</td><td>24.42</td><td>24.66</td></tr><tr><td>半纤维素 Hemicellulose</td><td>26.65</td><td>26.93</td><td>26.28</td></tr><tr><td>木质素 ADL</td><td>11.60</td><td>11.19</td><td>11.44</td></tr><tr><td>粗脂肪 EE</td><td>10.00</td><td>10.52</td><td>10.29</td></tr><tr><td>钙Ca</td><td>0.78</td><td>0.73</td><td>0.80</td></tr><tr><td>磷P</td><td>0.56</td><td>0.59</td><td>0.55</td></tr></table></body></html>
+
+1)兔用预混料为每千克饲粮提供 The rabbit premix provided the following per $\mathrm { k g }$ of diets: Fe (as ferric sulfate) $7 0 \mathrm { m g }$ ，Cu (as copper sulfate) $2 0 \mathrm { m g }$ $Z \mathrm { n }$ (as zinc sulfate) $7 0 \mathrm { m g }$ , Mn (as manganese sulfate) $1 0 \mathrm { m g }$ , Se (as sodium sulfate) $0 . 2 5 \mathrm { m g }$ ,Co 0.15 mg， $\mathrm { ~ I ~ } 0 . 2 \ \mathrm { m g }$ ，VA 10 000 IU, $\mathrm { V D 9 0 0 \ : I U }$ ，VE $5 0 \mathrm { m g }$ ，VK $2 \ : \mathrm { m g }$ ，硫胺素 thiamine $2 \ : \mathrm { m g }$ ，核黄素 riboflavin $6 ~ \mathrm { m g }$ ，泛酸 pantothenic acid $5 0 \mathrm { m g }$ ，吡哆醇pyridoxine $2 \ : \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 2 \ : \mathrm { m g }$ ，烟酸niacin $5 0 \mathrm { m g }$ ，胆碱chorine $1 0 0 0 \mathrm { m g }$ ，生物素biotin 0.2 mg
+
+2)消化能为计算值，其他为实测值。DE was a calculated value,while the others were measured values.
+
+1.3试验时间和地点本试验于2017年10月至2018年1月于河北农业大学教学试验基地进行。
+
+# 1.4 消化试验
+
+选用1.5岁左右健康的獭兔30只，随机分成3组，每组10只，公母各占1/2。3组獭兔分别饲喂玉米淀粉型、马铃薯淀粉型和木薯淀粉型无氮饲粮。试验兔于消化代谢笼中单独饲养，由专人管理，日喂2次，自由采食、饮水，自然通风和光照。预试期和正试期各7d。正试期称重、记录试验兔的每日采食量。采用全收粪法，每日早晨收集粪便，称重并记录，同时收集、记录家兔的排尿量。将新鲜粪便、尿液均分成2份。一份粪便按 $1 0 0 \ \mathrm { g }$ 加入 $1 0 \mathrm { m L } 1 0 \%$ 的盐酸溶液固氮，充分混匀，用于测定粪中氮含量;
+
+另一份粪便不添加盐酸，置于 ${ } - 2 0 \ { } ^ { \circ } { \mathrm { C } }$ 冰箱中冷冻保存，用于测定粪能。一份尿液按每 $1 0 0 ~ \mathrm { { m L } }$ 加入 $5 \mathrm { m L }$ $10 \%$ 的盐酸溶液，用于测定尿液中氮含量；另一份尿液不添加盐酸，置于 $4 \mathrm { { ^ \circ C } }$ 冰箱中保存，用于测定尿能。正试期结束后，将粪便充分混匀，置于 $6 5 ^ { \circ } \mathrm { C }$ 左右的烘箱中烘 $4 8 \mathrm { { h } }$ 至恒重，在空气中回潮 $2 4 \mathrm { h }$ 后，粉碎制成风干样品，密封保存于样品袋中备测。
+
+# 1.5 测定指标和方法
+
+氮含量的测定：采用凯氏定氮法，使用K9860全自动凯式定氮仪测定。能量的测定：采用氧弹式测热法，使用长沙友欣YX-ZR9302自动量热仪测定。尿能的测定：采用滤纸法，移取 $3 ~ \mathrm { m L }$ 尿样，分多次滴在直径 $7 \mathrm { c m }$ 的定量滤纸上，于 $6 5 ^ { \circ } \mathrm { C }$ 鼓风烘箱中烘干，将带有尿液的滤纸折叠置于坩埚中测定能值，并对空白滤纸的能值进行测定，两者之差即为尿能。内源氮损伤包含内源尿氮（EUN）、代谢粪氮（MFN）和体表损失氮（SLN)。本试验中，内源尿氮以单位代谢体重（BW0.75）为基础进行表示；代谢粪氮以单位干物质采食量(DMI)为基础进行表示;獭兔体表损失氮较小，常忽略不计。内源能损失包含代谢粪能（FmE）和内源尿能(UeE)。1.7数据处理与分析采用 Excel2010和 SPSS20.0统计软件对数据进行处理与分析，结果以平均值±标准差表示。2结果
+
+# 2.1獭兔采食不同淀粉源无氮饲粮的内源氮损失
+
+由表2可知，各组獭兔日干物质采食量和日排粪量均无显著差异 $( P { > } 0 . 0 5 )$ ，且两者均以马铃薯淀粉组最高，比玉米淀粉组分别提高 $1 6 . 2 3 \%$ 和 $4 . 8 0 \%$ ，比木薯淀粉组分别提高 $3 3 . 8 7 \%$ 和 $1 4 . 7 0 \%$ ；獭兔日排尿量以木薯淀粉组最高，比玉米淀粉组和马铃薯淀粉组分别提高 $2 4 . 9 1 \%$ 和 $2 7 . 6 3 \%$ ，差异显著 $( P { > } 0 . 0 5 )$ ：粪中氮含量3组间差异不显著 $( P { > } 0 . 0 5 )$ ；马铃薯淀粉组尿中氮含量显著高于木薯淀粉组 $_ { ( P < 0 . 0 5 ) }$ ，较木薯淀粉组提高 $34 . 5 0 \%$ ，而玉米淀粉组则与其他2 种淀粉组不存在显著差异 $( P { > } 0 . 0 5 )$ ；MFN、EUN3组间差异不显著 $( P { > } 0 . 0 5 )$ ，其中 MFN 以木薯淀粉组最高，比玉米淀粉组和马铃薯淀粉组分别提高 $2 . 3 2 \%$ 和 $12 . 8 2 \%$ ，EUN以玉米淀粉组最高，比马铃薯淀粉组和木薯淀粉组分别提高 $0 . 9 4 \%$ 和 $2 . 0 8 \%$ 。
+
+Table 2Endogenous nitrogen loss of Rex rabbits in each group   
+
+<html><body><table><tr><td>项目</td><td>玉米淀粉组</td><td>马铃薯淀粉组</td><td>木薯淀粉组</td></tr><tr><td>Items</td><td>Corn starch group</td><td>Potato starch group</td><td>Cassava starch group</td></tr><tr><td>体重BW/kg</td><td>3.28±0.11</td><td>3.31±0.05</td><td>3.18±0.15</td></tr><tr><td>代谢体重BW0.75/kg</td><td>2.44±0.06</td><td>2.45±0.03</td><td>2.40±0.05</td></tr><tr><td>日干物质采食量 Daily DMI/(g/d)</td><td>77.00±2.83</td><td>89.50±6.36</td><td>85.40±4.81</td></tr><tr><td>日排粪量 Daily feces excretion/（g/d)</td><td>28.67±2.36</td><td>38.38±4.78</td><td>33.46±3.48</td></tr><tr><td>日排尿量 Daily urinary excretion/（mL/d)</td><td>136.04±2.42b</td><td>139.00±8.49b</td><td>173.63±6.53a</td></tr><tr><td>粪氮含量 Fecal nitrogen content/(mg/g)</td><td>4.62±0.31</td><td>3.65±0.21</td><td>4.48±0.68</td></tr><tr><td>尿氮含量 Urinary nitrogen</td><td>5.38±0.49ab</td><td>5.81±0.10a</td><td>4.32±0.27b</td></tr><tr><td>content/(mg/mL) 代谢粪氮 MFN/(g/kgDMI)</td><td>1.72±0.04</td><td></td><td></td></tr><tr><td></td><td></td><td>1.56±0.20</td><td>1.76±0.37</td></tr><tr><td>内源尿氮 EUN/[mg/(d·BW0.75)]</td><td>320.51±7.70</td><td>317.51±36.79</td><td>313.98±24.35</td></tr></table></body></html>
+
+同行数据肩标相同字母或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著$( P { < } 0 . 0 5 )$ 。下表同。
+
+In the same row, values with the same or no leter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ，with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ . The same as below.
+
+2.2獭兔采食不同淀粉源无氮饲粮的内源能损失
+
+由表3可知，各组间粪能、尿能差异不显著 $( P { > } 0 . 0 5 )$ ;各组间代谢粪能、内源尿能差异不显著 $( P { > } 0 . 0 5 )$ 但木薯淀粉组代谢粪能比比玉米淀粉组和马铃薯淀粉组均提高 $1 0 . 0 0 \%$ ，内源尿能比玉米淀粉组和马铃薯淀粉组分别提高 $8 . 7 0 \%$ 和 $1 9 . 0 5 \%$ 。
+
+Table 3Endogenous energy loss of Rex rabbits in each group   
+
+<html><body><table><tr><td>项目</td><td>玉米淀粉组</td><td>马铃薯淀粉组</td><td>木薯淀粉组</td></tr><tr><td>Items</td><td>Corn starch group</td><td>Potato starch group</td><td>Cassava starch group</td></tr><tr><td>粪能Fecal energy/（MJ/kg)</td><td>16.05±0.78</td><td>14.00±0.71</td><td>15.78±0.40</td></tr><tr><td>尿能Urinary energy/(MJ/L)</td><td>0.041±0.008</td><td>0.038±0.004</td><td>0.034±0.006</td></tr><tr><td>代谢粪能 FmE/[MJ/(d·BW0.75)]</td><td>0.20±0.05</td><td>0.20±0.09</td><td>0.22±0.03</td></tr><tr><td>内源尿能 UeE/[MJ/(d·BW0.75)]</td><td>0.002 3±0.000 3</td><td>0.002 1±0.000 4</td><td>0.002 5±0.000 7</td></tr></table></body></html>
+
+3讨论
+
+# 3.1不同淀粉源对獭兔内源氮损失的影响
+
+淀粉是能量饲料的主要成分，能够为机体氮合成提供能量，提高氮的利用率。淀粉的消化速率[7、淀粉中直/支链的比值、抗性淀粉（RS）含量9等会影响动物的消化代谢过程，进而影响内源氮损失。宾石玉等[10]选用不同来源的淀粉配制饲粮，发现养分消化率与饲粮中直链淀粉含量呈负相关关系，RS使蛋白质和能量的消化率均降低。戴求仲等[报道，淀粉中直/支链的比值对肉鸡氨基酸消化率和能量代谢率影响较大，直/支链的比值为0.23时，氨基酸消化率和能量代谢率最高。相振田[12选用不同来源的淀粉配制成4种半纯合饲粮饲喂仔猪，研究其对饲粮的消化情况，结果表明，木薯淀粉组（直/支链的比值较小）的消化速率最快，消化率最高，其次是玉米淀粉组（直链与支链的比例一致)，豌豆淀粉组（直/链比值的较大）的消化最慢，消化率最低。
+
+本试验选用的马铃薯淀粉中快速消化淀粉（RDS）和RS的含量分别为 $8 . 3 \%$ 、 $7 4 . 8 \% [ 1 3 ]$ ，玉米淀粉分别为 $2 6 . 6 \%$ 、 $2 1 . 6 \% [ 1 4 ]$ ，木薯淀粉分别为 $80 . 6 2 \%$ 、 $4 . 1 8 \% ^ { [ 1 5 ] }$ 。RDS 在小肠经化学性消化作用被快速降解，消化率高；RS 性质类似于溶解性纤维素，分解速度较慢，在小肠无法消化，主要在大肠经微生物发酵，降解为脂肪酸，能量供给效率和消化率均低，且会影响其他养分的消化率[16-17]。马铃薯和木薯淀粉均为低直/支链比值淀粉[18]，但马铃薯中含大量RS；玉米淀粉中直/支链的比值高于其他2种淀粉，但RS 含量比马铃薯低；木薯淀粉的直/支链比值较低，且RS 含量也低。本试验结果表明，獭兔在采食不同淀粉源无氮饲粮时，木薯淀粉组MFN最高，马铃薯淀粉组最低，玉米淀粉组居中，经表观消化率校正后，木薯淀粉组的真消化率较高，马铃薯较低。可见，淀粉中直/支链的比值、RS 含量的确会对养
+
+分的消化率产生一定影响。
+
+# 3.2不同淀粉源对獭兔内源能损失的影响
+
+不同淀粉，其分子组成、空间结构有一定差异。韩睿等[19]研究表明，不同淀粉因其内部结构存在差异，能量供应效率不同，其中直/支链的比值会影响动物的代谢能，直链淀粉比例高的饲粮代谢能低。张遨然等[20]报道，用支链淀粉含量较高的玉米原料饲喂仔猪，发现其显著提高了消化能和能量消化率。戴求仲等[21研究表明，淀粉主要以葡萄糖、挥发性脂肪酸的形式被机体吸收，而后者有效能值和能量利用效率均低。宾石玉等[22]选用玉米、糯米、RS 配制饲粮饲喂仔猪，结果表明，RS 组的代谢能低于其他2组。据报道，RS 可显著降低淀粉的消化率和能量利用率[23]，而淀粉的消化率与代谢能之间具有较高的相关性[24]。
+
+木薯淀粉中RDS 含量高，RS 含量低，大部分可在小肠内吸收，消化率高；马铃薯淀粉中RS 含量高，RDS含量低，在小肠几乎不消化，进入大肠被微生物发酵降解，消化率低，且RS 还会直接影响代谢能；玉米淀粉中直链淀粉含量较高，与马铃薯淀粉相比，RDS 含量较高、RS 含量较低。本试验结果显示，獭兔采食不同淀粉源无氮饲粮时，内源能损失存在差异，木薯淀粉组内源能损失最高，马铃薯淀粉组最低，玉米淀粉组居中。这可能与淀粉的营养构成和消化率差异有关。
+
+4结论
+
+不同淀粉源对獭兔的MFN、EUN、FmE 和UeE 虽均无显著影响，但对獭兔的内源氮和内源能损失仍有一定影响，实践中应充分考虑这些因素，提高内源损失测定的准确性。  
+参考文献  
+[1]王旭贞.畜禽内源氨基酸损失的影响因素[J].中国畜牧杂志,2016,52(9):83-86.  
+[2]谭支良,黄瑞林,李铁军,等.猪回肠蛋白质和氨基酸消化率测定方法与标准化[C]//动物营养、保健与饲料添加剂国际学术研讨会论文集.长沙:中国科学院亚热带区域农业研究所,2002:8-17.  
+[3]WEURDING R E,VELDMAN A,VEEN WA G,et al.In vitro starch digestion correlates well with rateand extent of starch digestion in broiler chickens[J].Journal of Nutrition,2001,131(9):2336 - 2342.  
+[4]WEURDING R E,VELDMAN A,VEEN W A G,et al.Starch digestion rate in the small intestine of broilerchickens differs among feedstuffs[J].Journal of Nutrition,2001,131(9):2329 - 2335.  
+[5] WEURDING RE.Kineticsofstarchdigestionandperformanceof broilerchickens[D].Ph.D.Thesis.Wageningen:Wageningen University,2002:65-71.  
+[6]谷子林.家兔饲料的配制与配方[M].北京:中国农业出版社,2002.  
+[7]宾石玉.日粮淀粉来源对断奶仔猪生产性能、小肠淀粉消化和内脏组织蛋白质合成的影响[D].博士学位论文.成都:四川农业大学,2005:65-69.  
+[8]SASAKI T,KOHYAMA K,SUZUKI Y,et al.Physicochemical characteristics of waxy rice starchinfluencing theinvitrodigestibilityofastarchgel[J].FoodChemistry,2009,116(1):13714.  
+[9]李丰隆.不同来源淀粉对育肥猪生长性能、养分消化率以及血液生化指标的影响[D].硕士学位论文.杨凌:西北农林科技大学,2015:4-5.  
+[10]宾石玉,赵霞.不同来源淀粉对断奶仔猪日粮养分消化率的影响[J].湖南畜牧兽医,2007(1):4-6.[11]戴求仲,李湘,张石蕊,等.日粮直/支链淀粉比对黄羽肉仔鸡生产性能和养分利用率的影响[J].动物营养学报,2008,20(3):249-255.  
+[12]相振田.饲粮不同来源淀粉对断奶仔猪肠道功能和健康的影响及机理研究[D].博士学位论文.雅安:四川农业大学,2011:36-38.  
+[13]缪铭,沐万孟,张涛,等.温和酸解马铃薯淀粉的分子结构与消化性能研究[J].食品与发酵工业,2010,36(3):10-14.  
+[14]缪铭.慢消化淀粉的特性及形成机理研究[D].博士学位论文.无锡:江南大学,2009:32-33.  
+[15]薛慧.木薯抗性淀粉的制备与性质研究[D].硕士学位论文.郑州:河南工业大学,2013:16-17.[16] 祖岩岩.不同消化性能木薯淀粉在不同生长期结构与性质的研究[D].硕士学位论文.广州:华南理工大学,2016:22-23.  
+[17]LIVESEY G.Energy values of unavailable carbohydrate and diets:an inquiry and analysis[J].AmericanJournal of Clinical Nutrition,1990,51(4):617-637.  
+[18]赵萍,巩慧玲,赵瑛.不同品种马铃薯淀粉及其直链淀粉、支链淀粉含量的测定[J].兰州理工大学学报,2004,30(1):76-78.  
+[19]韩睿,朴香淑,李德发.原料中直、支链淀粉含量不同对猪消化代谢能的影响[C]//第六次全国饲料营养学术研讨会论文集.杨凌:中国畜牧兽医学会动物营养学分会,2010:1.  
+[20]张遨然,李勇,周远飞,等.玉米淀粉支/直比及膨化加工和酶制剂对断奶仔猪日粮消化率的影响[C]/中国畜牧兽医学会动物营养学分会第十一次全国动物营养学术研讨会论文集.长沙:中国畜牧兽医学会动物营养学分会,2012:1.[21] 戴求仲,王康宁,印遇龙,等.日粮淀粉来源对生长猪门静脉养分及能量净吸收的影响[J].动物营养学报,2009,21(3):272-278.  
+[22]宾石玉,赵霞.日粮淀粉来源对断奶仔猪小肠淀粉消化率的影响[J].贺州学院学报,2007,23(1):141-144.  
+[23]李恒,刘静,孙桂菊,等.抗性淀粉、脂肪和蛋白质对淀粉体外消化速度的影响[J].卫生研究,2007(3):308-310.  
+[24]ROGEL A M,ANNISON E F,BRYDEN W L,et al.The digestion of wheat starch in broilerchickens[J].Australian Journal of Agricultural Research,1987,38(3):639-649.
+
+Effects of Different Starch Sources on Endogenous Nitrogen and Endogenous Energy Losses in Rex Rabbitsi YANG Xinyu CAO NingkunWU FengyangCUI JiaCHEN Baojiang\* (Collge of Animal Science and Technology, Hebei Agricultural University, Baoding 0710o1, China) Abstract: The aim of this study was to investigate the effects of different starch sources on endogenous nitrogen and endogenous energy losses in Rex rabbits.Thirty about 1.5-year-old Rex rabbits were selected and randomly divided into 3 groups,and each group had 10 rabbits (half male and half female).The rabbits in the 3 groups were fed corn starch type, potato starch type, and cassava starch type nitrogen-free diets,respectively. Both pretrial and formal trial periods lasted for7 days.The result showed as follows: in the endogenous nitrogen loss respect, the metabolic fecal nitrogen (MFN) and endogenous urinary nitrogen (EUN) of Rex rabbits had no significant differences among groups $( P { > } 0 . 0 5 )$ . But in general, the endogenous nitrogen loss of cassava starch group was the highest， followed by corn starch group and potato starch group. In the endogenous energy loss respect, the fecal energy from metabolic origin products (FmE) and urinary energy from endogenous origin products (UeE） of Rex rabbits had no significant diffrences among groups,too （204号 $( P { > } 0 . 0 5 )$ . But in general, the endogenous energy loss of cassava starch group was the highest, followed by corn starch group and potato starch group. In conclusion,although the MFN,EUN,FmE and UeE are not significantly affected by different starch sources,the cassava starch group as a whole has higher endogenous nitrogen and endogenous energy losses than the corn starch group and potato starch group. Key words: rabbits; different starch sources; endogenous nitrogen loss; endogenous energy loss

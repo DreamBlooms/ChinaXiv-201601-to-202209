@@ -1,0 +1,490 @@
+[
+    {
+        "type": "text",
+        "text": "空间相关信道下大规模MU-MISO系统频谱效率分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "胡耀文‘，曾桂根b",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(南京邮电大学a.通信与信息工程学院;b.信号处理与传输研究院，南京 210003)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对大规模MU-MISO系统中频谱效率受信道和功率分配影响，研究在空间相关信道下的频谱效率问题。首先通过发射信号的的波程差确定导向矩阵得出用户发射相关矩阵，并结合大尺度阴影衰落和具有高斯分布的散射环境，建立空间相关信道；然后基于空间相关信道下，通过预编码减少多用户之间的干扰，并仿真预编码对频谱效率的影响;最后在发射功率受限、各用户接收信号具有一定信干比场景下提出一种功率分配算法，使得系统的频谱效率总和最大化。仿真结果表明，RZF 预编码在空间相关信道的频谱效率优于MRT预编码频谱效率；与平均功率分配方式相比，提出的算法在频谱效率有了明显的提升，并具有较强的理论价值和实践意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：多用户；空间相关信道；功率分配 中图分类号：TN929.5 doi:10.3969/j.issn.1001-3695.2018.07.0467 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Analysis of spectrum efficiency of large-scale MU-MISO system in spatial correlation channel ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hu Yaowena, Zeng Guigenb (a.College ofTelecommunications&Information Engineering;b.Instituteof Signal Processing&Transmision,Nanjing University of Posts &Telecommunications,Nanjing 21ooo3.China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Inthelarge-scale MU-MISO system,thespectral eficiencyafectbythechanneland poweralocationis studiedin spatiallycorrelated channels.Firstly,the transmit correlation matrix of theuser was derived from steering matrix which was determined bythe wavepath diferenceofthe transmission signal.The spatialcorelation channel was establishedunderthe large scaleshadow fadingand the scatering environment with Gaussian distribution.Thenbased onthe spatialcorrelation chanel,precoding whichcould reduce the interference between multipleuserswas simulated for the spectral effciency performance.Finaly,a power alocation algorithmthat make the spectrum eficiency maximized was proposed inthe scenario wherethetransmit power was limitedand signal to interference plus noiseratioofeach user was limited inreceive signal.The simulationshow that the spectral ffciencyofRZF precoding in spatialycorrelated channels is better thanthatof MRT precoding.And compared with the average power alocation,the spectral efficiency with the algorithm which has strong theoretical and practical significance has the improvement. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:multi-user; spatial correlation channel; power allocation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着无线业务的快速发展，在频谱效率和功率效率方面，第四代移动通信系统(4G)，已经不能满足人们对无线传输速率的需求，因此在未来第五代移动通信系统(5G)中无线传输方面需要有新的突破，以实现更高频谱效率和绿色无线通信的双重目标[1]。多入多出(multiple-input multiple-output,MIMO)技术[2],因其在提高频谱效率和链路可靠性上存在巨大潜能而备受关注，是重点研究方向之一。在MIMO无线通信系统中，根据用户数量可以分为单用户MIMO(singleuserMIMO,SU-MIMO)系统和多用户 MIMO(multi-userMIMO,MU-MIMO)系统。文献[3,4]研究了在单用户多输入多输出(SU-MIMO)系统中，系统频谱效率与收发天线的关系，得出频谱效率与收发天线数呈线性增长。然而在多用户MIMO系统中，由于存在多个用户共用同一时频资源与基站通信，用户间存在着共信道干扰(co-channelinterference,CCI)。为减少或消除用户间的干扰，在基站发送端可以采用预编码的技术。预编码技术又可以分为线性预编码和非线性预编码。在非线性预编码中，脏纸编码(dirty paper coding,DPC)[5]可以获得系统频谱效率的最优预编码方案；但是在计算复杂度方面，DPC预编码方案比线性预编码高。线性预编码方案包括迫零(Zero Forcing,ZF)预编码、规则化迫零 (regularizedzero forcing,RZF)预编码、块对角化(blockdiagonalization，BD)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "预编码[8]、最小均方准则(minimum mean square error,MMSE)预编码[9、l0]和最大化信漏噪比(signal to leakage and noise radio,SLNR)预编码准则[11]。文献[12]研究在大规模MU-MIMO系统中，通过对用户的接收信号的信干噪比最小化分析，得出RZF预编码的最优表达式。文献[13]在当天线数和用户数趋于无穷大且其比值有界时，得出RZF预编码的最优参数解和ZF预编码的最优用户数的设计，以及RZF和ZF的最优功率分配问题。文献[14]研究在具有阴影衰落的信道下基站发送功率和天线数量对MU-MISO系统的频谱效率影响，得出了在基站发送总功率一定，随着天线数量的增加，系统频谱效率趋于一个恒值。但是在实际MIMO系统中，信道存在空间相关性及周围环境的散射影响，系统频谱效率性能低于其理想信道分析值[15]。文献[16]研究大规模 MIMO系统在时分复用（TDD）传输模式下，空间相关信道对频谱效率和能效影响，得出了在具有空间相关性的系统下，其系统频谱效率低于具有非空间相关性的系统频谱效率。基于MIMO信道的空间相关性，文献[17]建立大规模MU-MIMO的空间相关信道模型，并假设用户相互独立，研究在用户信噪比（SignalNoiseRatio，SNR）一定下，空间相关性对系统频谱效率影响，最后得出在空间相关信道下，随着天线数量增长到一定时，系统频谱效率趋于恒值。本文考虑在具空间的相关性的信道下，研究在大规模MU-MISO系统中预编码和功率分配下对频谱效率影响，提出一种功率分配算法，求解在系统功率受限、满足用户接收信号具有一定信干比下，使得系统频谱效率最大化。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 系统模型与问题描述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "大规模MU-MISO系统框图如图1所示。系统中包含配置M根天线的基站和配置N个单天线的用户。假设信道能被准确估计，并且基站发送给所有用户的信号表示为$X = \\left[ \\sqrt { \\mathrm { p } _ { 1 } } \\mathrm { { x } } _ { 1 } , \\sqrt { \\mathrm { p } _ { 2 } } \\mathrm { { x } } _ { 2 } , . . . , \\sqrt { \\mathrm { p } _ { \\mathrm { N } } } \\mathrm { { x } } _ { \\mathrm { N } } \\right]$ ，其中 $\\mathbf { X _ { i } }$ 表示基站发送给用户 $U _ { i }$ （204号的数据符号， ${ \\boldsymbol { p } } _ { i }$ 表示基站给第 $U _ { i }$ 个用户分配的功率;基站发射端的发送预编码矩阵表示为 $\\pmb { W } = \\left[ \\pmb { W } _ { 1 , } \\pmb { W } _ { 2 , } . . . , \\pmb { W } _ { N } \\right]$ ， $w _ { i }$ 表示基站发送给第 $U _ { \\scriptscriptstyle i }$ 个用户信号的预编码矢量， $\\boldsymbol { w } _ { i } \\in \\mathbb { C } ^ { M \\times 1 }$ ；信道矩阵可以表示为 $\\pmb { G } = \\left[ \\pmb { g } _ { 1 } \\pmb { g } _ { 2 , } . . . , \\pmb { g } _ { N } \\right]$ ，其中 $\\pmb { g } _ { i } = \\left[ g _ { i 1 } , g _ { i 2 } , . . . , g _ { i M } \\right]$ 表示基站M根天线与第 $U _ { i }$ 用户的信道， ${ \\pmb g } _ { i } \\in \\mathbb { C } ^ { 1 \\times M }$ 。 $\\pmb { Z } = \\left[ z _ { 1 } , z _ { 2 } , . . . , z _ { N } \\right] ^ { T }$ 为所有用户的噪声矩阵，其中 $z _ { i }$ 为第 $U _ { i }$ 个用户的加性高斯白噪声。N 个用户的接收信号的矢量表示为 $\\pmb { Y } = \\left[ y _ { 1 } , y _ { 2 } , . . . , y _ { N } \\right] ^ { T }$ ，其中 $y _ { i }$ 为用户 $U _ { i }$ 的接收信号，则系统接收信号的矩阵：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文考虑信号在信道中传播存在大尺度衰落，则信道矩阵可以由系统的大尺度阴影衰落矩阵D和具有空间相关性的矩阵H组成，信道矩阵表示为 ${ \\bf \\delta } G = D { \\bf \\delta } H$ ；其中$\\pmb { D } = \\mathrm { d i g } \\Big [ \\sqrt { \\beta _ { 1 } } , \\sqrt { \\beta _ { 2 } } , . . . , \\sqrt { \\beta _ { N } } \\Big ]$ ： $\\beta _ { i } = \\varphi \\varepsilon / d _ { i } ^ { \\alpha }$ 表示基站到第 $U _ { i }$ 个用户的路径损耗以及阴影衰落， $\\varphi$ 是包含载波频率和天线增益的常量， $\\mathfrak { a }$ 是路径损耗因子， $d _ { i }$ 是基站发射端与第 $U _ { i }$ 个用户之间的距离， $\\varepsilon$ 服从 $1 0 l o g _ { 1 0 } ^ { \\varepsilon } \\sim \\mathrm { N } \\big ( 0 , \\sigma _ { f } ^ { 2 } \\big )$ 分布的阴影衰落，矩阵$\\pmb { H } = \\left[ \\pmb { h } _ { 1 } , \\pmb { h } _ { 2 } , . . . , \\pmb { h } _ { N } \\right] ^ { T }$ ,其中 $\\pmb { h } _ { i }$ 表示基站到第 $U _ { i }$ 个用户具有空间相关性的衰落信道， $\\pmb { h } _ { i } \\in \\mathbb { C } ^ { 1 \\times M }$ ；则第 $U _ { \\scriptscriptstyle i }$ 个用户的接收信号表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { y _ { i } = \\sqrt { \\beta _ { i } } h _ { i } w _ { i } \\sqrt { p _ { i } } x _ { i } + \\sum _ { j = 1 , j \\ne i } ^ { N } \\sqrt { \\beta _ { i } } h _ { i } w _ { j } \\sqrt { p _ { j } } x _ { j } + z _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9ad037b25ea68e9ab9984ba16ff939812e640cef213c55dd7d317bd55f7381b.jpg",
+        "img_caption": [
+            "图1大规模MU-MISO下行链路模型 Fig.1Link model of large scale MU-MISO "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1空间相关信道建模 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "空间相关随机MIMO信道在独立随机MIMO信道基础上采用相关矩阵相乘[18]的方法生成。其中相关矩阵可以表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： ${ \\pmb R } _ { i }$ 表示为基站与 $U _ { i }$ 用户的空间相关矩阵，由 $\\pmb { R } _ { i _ { r } }$ 表示为接收相关矩阵和发送相关矩阵 $\\pmb { R } _ { i _ { t } }$ 的Kronecker 积构成； $\\otimes$ 为Kronecker积。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在大规模MU-MISO系统中，基站发射端天线阵列有 $\\mathbf { M }$ 根，接收端是由 $\\mathrm { ~ N ~ }$ 个单天线的用户组成，假设系统中各用户相互独立,即用户之间的不存在相关性,并且在用户接收端存在散射体。则具有空间相关性和散射体的信道[19] $h _ { \\scriptscriptstyle i }$ 表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\pmb h } _ { i } = I _ { i _ { r } } { \\pmb h } _ { i } ^ { i i d } { \\pmb R } _ { i _ { t } } ^ { 1 / 2 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $h _ { i } ^ { i i d } \\sim N ( 0 , I _ { M } )$ ，表示在用户侧的散射环境，并服从均值为0，方差为1单位阵； $\\pmb { R } _ { i _ { t } }$ 为发送相关矩阵， $\\pmb { R _ { i _ { t } } } \\in \\mathbb { C } ^ { M \\times M }$ $I _ { i _ { r } }$ 表示接收相关矩阵，即 $\\pmb { R } _ { i _ { r } } = \\pmb { I } _ { i _ { r } }$ 。由文献[20、21]可知发送相关矩阵可以表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { R } _ { i _ { t } } = \\intop _ { \\theta _ { i } ^ { m i n } } ^ { \\theta _ { i } ^ { m a x } } f _ { i } ( \\theta ) a ( \\theta ) a ^ { H } ( \\theta ) d \\theta\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $f _ { i } ( \\theta )$ 表示功率角度谱，并且满足：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { \\theta _ { i } ^ { m i n } } ^ { \\theta _ { i } ^ { m a x } } f _ { i } \\left( \\theta \\right) d \\theta = 1\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设 $\\varphi _ { i }$ 第 $U _ { \\scriptscriptstyle i }$ 个用户发射端的平均发射角，令上式中$\\Theta = \\varphi _ { i } + \\delta$ ， $\\delta$ 是散射体引起导致基站发射角的随机偏差角度；$\\delta$ 服从均值为0，角度标准差 $\\sigma _ { \\varphi } ^ { 2 }$ 高斯分布即 $\\ S \\sim N \\big ( 0 , \\sigma _ { \\varphi } ^ { 2 } \\big )$ ，则$\\theta _ { i } ^ { m a x }$ 表示 $\\delta$ 偏离平均发射角后的最大发射角， $\\theta _ { i } ^ { m i n }$ 表示 $\\delta$ 偏离平均发射角后的最小发射角。本文考虑系统中，基站发射端的使用线性阵列，线阵的导向向量表示为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\na ( \\boldsymbol { \\Theta } ) = \\left[ 1 , \\mathrm { e } ^ { \\boldsymbol { \\wedge } } \\left( \\frac { \\mathrm { j } 2 \\pi \\mathrm { d } \\sin ( \\boldsymbol { \\Theta } ) } { \\lambda } \\right) , . . . , \\mathrm { e } ^ { \\boldsymbol { \\wedge } } \\left( \\frac { \\mathrm { j } 2 \\pi ( \\mathbf { M } - 1 ) \\mathrm { d } \\sin ( \\boldsymbol { \\Theta } ) } { \\lambda } \\right) \\right] ^ { T }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\boldsymbol a ( \\boldsymbol { \\theta } ) \\in \\complement ^ { M \\times M }$ ，其中d天线之间的距离； $\\lambda$ 为下行信号的波长。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2系统预编码",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于在大规模MU-MIMO系统中存在共信道干扰，可以在发送端通过预编码技术减少和消除预编码技术。文献[11]中SLRN预编码以最大化目标用户的信噪比为基础，对信号进行预处理，该预编码能有效消除用户间干扰，但由于残存干扰，系统性能并不能得到很大的提升并且其算法的复杂度较高。MRT预编码是最简单的线性预编码，只需对信道矩阵进行简单的变换即可，复杂度较小。ZF预编码是最经典的算法，能较好的消除共信道干扰，但是没有考虑噪声的影响。RZF预编码相比与 ZF 预编码，在共信道干扰的影响与噪声的影响之间进行了折中。本文主要考虑MRT预编码和RZF预编码减少用户间的干扰。结合文献[14]和空间相关信道可以得出第 $U _ { i }$ 个用户的MRT预编码可以表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { \\mathrm { i } } ^ { \\mathrm { M R T } } = \\frac { h _ { i } ^ { H } } { { h _ { i } ^ { H } } } = \\frac { \\left( { h _ { i } ^ { i i d } { R _ { i } ^ { 1 / 2 } } \\mathord { \\uparrow } } ^ { \\mathrm { H } } \\right) ^ { \\mathrm { H } } } { ( { h _ { i } ^ { i i d } { R _ { i } ^ { 1 / 2 } } \\mathord { \\uparrow } } ^ { \\mathrm { H } } ) ^ { \\mathrm { H } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将MRT预编码换成较为复杂的规则化迫零预编码RZF，则第 $U _ { i }$ 个用户的RZF预编码矩阵[22]表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { W } _ { \\mathrm { i } } ^ { \\mathrm { R Z F } } = \\mathrm { c } \\big ( \\hbar _ { i } ^ { H } \\pmb { \\operatorname { \\eta } } _ { i } + \\varphi _ { _ { R Z F } } \\pmb { I } \\big ) ^ { - 1 } \\pmb { h } _ { i } ^ { H }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\varphi _ { R Z F }$ 为归一化系数，c为功率控制因子；",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathsf { c } = \\frac { \\mathsf { P } _ { \\mathrm { t r } } } { \\operatorname { t r a c e } \\left\\{ \\left( h _ { i } ^ { H } h _ { i } + \\Phi _ { \\mathrm { R Z F } } \\boldsymbol { I } \\right) ^ { - 1 } h _ { i } h _ { i } ^ { H } \\left( h _ { i } ^ { H } h _ { i } + \\Phi _ { \\mathrm { R Z F } } \\boldsymbol { I } \\right) ^ { - 1 } \\right\\} }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $P _ { { { t r } } }$ 为信号发送总功率。trace $( ^ { * } )$ 表示矩阵的迹。通过观察式（2)，可知等号右边的第一项为有用信号，第二项为基站发送给其他用户信号，但对于第 $U _ { i }$ 个用户形成干扰信号，最后一项为加性高斯白噪声。并结合式（8）（9）得以得出不同预编码下第 $U _ { i }$ 个用户的信干比(Signal to Interference plus Noise Ratio,SINR)表示：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS I N R _ { i } ^ { M R T } = \\frac { P _ { i } \\beta _ { i } \\big | { h _ { i } ^ { i i d } R _ { i } ^ { 1 / 2 } } ^ { 2 } w _ { i } ^ { M R T } \\big | ^ { 2 } } { \\sum _ { j = 1 , j \\ne i } ^ { N } \\beta _ { i } p _ { j } \\big | { h _ { i } ^ { i i d } R _ { i } ^ { 1 / 2 } } w _ { j } ^ { M R T } \\big | ^ { 2 } + \\sigma ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS I N R _ { i } ^ { R Z F } = \\frac { P _ { i } \\beta _ { i } \\big | \\pmb { h } _ { i } ^ { i i d } \\pmb { R } _ { i } ^ { 1 / 2 } \\pmb { \\mathscr { W } } _ { i } ^ { R Z F } \\big | ^ { 2 } } { \\sum _ { \\substack { j = 1 , j \\neq i } } ^ { N } \\beta _ { i } p _ { j } \\big | \\pmb { h } _ { i } ^ { i i d } \\pmb { R } _ { i } ^ { 1 / 2 } \\pmb { w } _ { j } ^ { R Z F } \\big | ^ { 2 } + \\sigma ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同时系统的频谱效率表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { i = 1 } ^ { N } { R _ { i } } = \\sum _ { i = 1 } ^ { N } { E \\{ B l o g _ { 2 } \\left( 1 + S I N R _ { i } \\right) \\} }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 系统功率分配的算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过式（13）的系统频谱效率可知，频谱效率与功率和预编码的选择有关。预编码技术可以减轻或消除用户之间的干扰，配合功率算法能使得系统频谱效率更加高效的利用。本文考虑在MRT预编码或RZF预编码下研究功率受限系统、各用户在最低的信干比条件时，如何给用户分配功率使得系统的频谱效率最大化。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将本文求解的目标以不等式建模，建立如下的数学表达式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { m a x } } \\\\ { { \\{ p _ { 1 } , p _ { 2 } , . . . , p _ { N } \\} \\quad \\displaystyle \\sum _ { i = 1 } ^ { N } R _ { i } } } \\\\ { { s . t . \\sum _ { i = 1 } ^ { N } p _ { i } \\leq P _ { t r } } } \\\\ { { S I R N _ { i } \\geq \\eta _ { i } , i = 1 , . . . , N } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\boldsymbol { P } _ { t r }$ 表示系统发射总功率， $\\eta _ { i }$ 为第 $U _ { i }$ 个用户为保证通信最低的信干比。通过观察系统频谱效率式(13)，可以将系统频谱效率简化。系统频谱效率可表示如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { \\mathrm { i = 1 } } ^ { \\mathrm { N } } \\mathrm { B l o g } _ { 2 } \\left( 1 + \\mathrm { S I N R } _ { \\mathrm { i } } \\right) \\geq \\mathrm { B l o g } _ { 2 } \\Bigg ( \\prod _ { \\mathrm { i = 1 } } ^ { \\mathrm { N } } \\mathrm { S I N R } _ { \\mathrm { i } } \\Bigg )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由式(8)和(9)可知，RZF预编码比MRT预编码考虑因素更多也更复杂，为不失一般性使用 $\\pmb { w } _ { i }$ 表示第 $U _ { i }$ 个用户的预编码矩阵， $\\pmb { h } _ { i }$ 表示第 $U _ { i }$ 个用户的具有空间相关性和散射体的矩阵；并且给每个用户信干比引入变量 $\\gamma _ { i }$ ，则第 $U _ { i }$ 个用户的信干比表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS I N R _ { i } = \\frac { \\beta _ { i } p _ { i } \\left| \\pmb { h _ { i } } \\pmb { w _ { i } } \\right| ^ { 2 } } { \\sum _ { j = 1 , j \\neq i } ^ { N } \\beta _ { i } p _ { j } \\left| \\pmb { h _ { i } } \\pmb { w _ { j } } \\right| ^ { 2 } + \\sigma ^ { 2 } } \\geq \\gamma _ { i } \\geq \\eta _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上式可以转换为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\gamma _ { i } ( \\displaystyle \\sum _ { j = 1 , j \\neq i } ^ { N } \\beta _ { i } p _ { j } \\left| h _ { i } w _ { i } \\right| ^ { 2 } + \\sigma ^ { 2 } ) } { \\beta _ { i } p _ { i } \\left| h _ { i } w _ { i } \\right| ^ { 2 } } \\le 1 \\frac { \\gamma _ { i } \\displaystyle \\sum _ { j = 1 , j \\neq i } ^ { N } \\beta _ { i } p _ { j } \\left| h _ { i } w _ { i } \\right| ^ { 2 } + \\sigma ^ { 2 } } { \\beta _ { i } p _ { i } \\left| h _ { i } w _ { i } \\right| ^ { 2 } } \\le 1  { \\mathsf { ( } } \\boldsymbol { \\partial } _ { i } p _ { i } \\left| h _ { i } w _ { i } \\right| ^ { 2 } + \\sigma ^ { 2 } )  \\qquad \n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过上面是表达式可知，将求解的系统频谱效率的最大化转换为求解最低信干比乘积的最大化。因此求解的目标的数学表达式可以表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\operatorname* { m a x } } & { \\displaystyle \\prod _ { j = 1 , p _ { j } , \\ldots , p _ { N } } ^ { N } \\ \\prod _ { i = 1 } ^ { N } \\gamma _ { i } \\qquad \\operatorname* { m a x } } \\\\ { \\displaystyle \\qquad \\mathrm { s . t . } \\sum _ { i = 1 } ^ { N } p _ { i } \\le P _ { r } } \\\\ { \\displaystyle \\qquad \\sum _ { j = 1 , j \\neq i } ^ { N } \\beta _ { i } \\boldsymbol { p } _ { j } \\big | _ { i } \\boldsymbol { h } _ { i } \\big | ^ { 2 } + \\sigma ^ { 2 } ) } & { \\displaystyle \\sum _ { j _ { i } = 1 , j \\neq i } ^ { N } \\beta _ { i } p _ { j } \\big | _ { i } \\boldsymbol { h } _ { i } \\big | ^ { 2 } + \\sigma ^ { 2 } } \\\\ { \\displaystyle \\qquad \\beta _ { i } p _ { i } \\big | _ { i } \\mathbb { W } _ { i } \\big | ^ { 2 } \\qquad \\le 1 \\ \\frac { \\gamma _ { i } p _ { i } } { \\beta _ { i } } , \\big | \\beta _ { i } p _ { i } \\big | _ { i } \\mathbb { W } _ { i } \\big | ^ { 2 } \\qquad \\le 1 } \\\\ { \\displaystyle \\qquad \\eta _ { \\perp } \\le \\gamma _ { i } \\bar { l } = 1 , \\ldots , N } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由上式目标的表达式可知这是一个GP(geometricprograms)问题。由文献[23,24]可知,可以将上式转换为凸优化问题。本文通过凸优化工具和文献[25]的Bisection algorithm迭代求解算法，求解上式(18)的最优解。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法步骤如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文在具有空间相关性的信道条件下比较了不同预编码的系统频谱效率；同时也仿真了非相关瑞利平坦衰落信道下频谱效率。与具有非空间相关性的信道相比，具有空间相关性信道更接近实际的系统信道环境。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)初始化参数，设置引入变量最小值 $\\gamma _ { _ { l o w e r } } = 0$ ，设置引入变量最大值 $\\gamma _ { \\boldsymbol { u p p e r } } = \\operatorname* { m i n } \\left( P _ { \\boldsymbol { t r } } \\frac { \\left| \\boldsymbol { h _ { i } } \\boldsymbol { w _ { j } } \\right| ^ { 2 } } { \\sigma ^ { 2 } } \\right)$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e23e390fd4e22df9365c2c4f134f6ae863254c4085fa89f41e139b28755c6a8f.jpg",
+        "img_caption": [
+            "图2等功率分配相关信道预编码方案的比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "channel ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b)如果 $\\gamma _ { _ { u p p e r } } - \\gamma _ { _ { l o w e r } } > \\varepsilon 1 , \\varepsilon 1$ 为最小误差，计算下一次最佳的变量Ycandidate $\\gamma _ { c a n d i d a t e } = \\frac { \\gamma _ { u p p e r } + \\gamma _ { l o w e r } } { 2 }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c)将 $\\gamma _ { c a n d i d a t e }$ 带入上式（18）中，如果上式（18）解得，计算Ylower=Ycandidate；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "否则将计算 $\\gamma _ { _ { u p p e r } } = \\gamma _ { _ { c a n d i d a t e } }$ ；d)如果 $\\gamma _ { u p p e r } - \\gamma _ { l o w e r } < \\varepsilon 1$ ，求得的最优的功率分配（204号 $P ^ { o p t } = \\left[ p _ { 1 } , p _ { 2 } , . . . , p _ { N } \\right]$ ，停止迭代。否则执行b)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 仿真结果与分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过仿真验证所提方案的有效性。在仿真时假设每个用户的最低的信干比 $\\eta _ { i }$ 相同；用户随机分布在半径R的小区中，通过用户分布在小区的位置确定基站发射的平均发射角，再由式（5）（6）确定发射相关矩阵；本文假设用户之间不相关，接收相关矩阵由单位阵表示。系统的设置仿真参数如表1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/aaadb1472b78b3b7465bde8d8481176833a7955a0ec416898e5f778957e33de4.jpg",
+        "table_caption": [
+            "表1仿真参数",
+            "Table 1 Simulation parameters "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数</td><td>取值</td></tr><tr><td>对数正太分布阴影衰落方差o2sh</td><td>10dB</td></tr><tr><td>因子Φ</td><td>1</td></tr><tr><td>路损指数α</td><td>3.7</td></tr><tr><td>噪声功率谱密度 NO</td><td>-94dBmW/MHz</td></tr><tr><td>基站每根天线发射的功率 pt</td><td>100mw</td></tr><tr><td>基站天线数M</td><td>100</td></tr><tr><td>用户数</td><td>10</td></tr><tr><td>信号的带宽B</td><td>20MHz</td></tr><tr><td>系统设计的小区半径R</td><td>500m</td></tr><tr><td>天线间距</td><td>/2</td></tr><tr><td></td><td>10</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图2仿真了等功率分配并且系统在空间相关信道条件下基站天线数对系统平均频谱效率性能的影响。在图2系统的仿真采用的用户数为10和20。从图2可知，在预编码和用户数相同条件下，系统频谱效率随着天线数增加而增加;在天线数目一定条件下，RZF预编码的系统频谱效率高于MRT预编码系统频谱效率；在天线数目较小时，RZF预编码系统频谱效率高于ZF预编码,随天线数量逐渐增大，ZF预编码系统频谱效率接近RZF 与编码。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图3仿真了发射角的随机偏差角度 $\\delta$ 与系统的频谱效率的关系；在图3中仿真中，随着发射角的随机偏差角度 $\\delta$ 逐渐增大，频谱效率逐渐减小。比较图中MRT预编码与RZF预编码条件下的曲线。在随机偏差角度和用户数相同的，MRT预编码频谱效率低于RZF预编码频谱效率。并且MRT预编码在随机偏差角度低于10时，下降变化比RZF预编码变化快；随着随机偏差角度逐渐增加，RZF预编码相比于MRT预编码变化缓慢。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9fbd726bce6429d09e47d96e1197c1adae54396cd1293d0d2c0143f9bdb6fa72.jpg",
+        "img_caption": [
+            "Fig.2Precoding schemes comparison of equal power allocation related ",
+            "图3不同预编码下角度 $\\delta$ 与频谱效率",
+            "Fig.3 $\\delta$ and spectrum efficiency under different precoding "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图4仿真了不同预编码下相关信道与非相关信道的累计分布函数。由于本文用户位置是均匀分布在小区中，所以从统计上比较相关性信道与非相关信道的频谱效率。从图4中比较可知，同一种预编码的条件下，每个用户在相关信道与非相关信道的频谱效率累计分布函数相比，非相关的累计分布函数优于相关的累计分布函数。在相同的信道环境下，RZF预编码频谱效率优于MRT预编码频谱效率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e2fb0d02f0e4c2d4fb5da665d249e2ad40586267ffba84af58070418a32ce5e.jpg",
+        "img_caption": [
+            "图4相关信道与非相关信道在预编码下的累计分布函数"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "channels under precoding ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图5仿真了本文提出的功率分配算法和平均功率算法下的频谱效率。从图5可知，本文提出的功率分配算法与平均功率算法相比，在相同的累计分布值下本文的算法使得每个用户的频谱效率高于平均功率算法下每个用户的频谱效率。并且在相同的功率分配下，RZF预编码的用户的频谱效率优于MRT预编码的情况。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bab8c09889f72636ea7661ba9a67cde841c1147eafb5df49275e14a46b249c4b.jpg",
+        "img_caption": [
+            "Fig.4Cumulative distribution function of correlated and uncorrelated ",
+            "图5MRT预编码与RZF预编码下系统最低信干比乘积下最大化频谱效率算法与平均功率算法的比较",
+            "Fig.5Comparison of maximum spectral efficiency algorithm and average power algorithm under the minimum signal-to-dry ratio "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文基于具有空间相关性和大尺度平坦衰落信道，研究大规模MU-MISO系统下行链路的频谱效率。首先构建了大尺度阴影衰落与具有空间相关性信道模型，并通过相关矩阵建立带有散射体环境的空间相关信道，并给出发射端空间相关矩阵的求解表达式；然后建立的上述的相关信道模型下推出RZF预编码与MRT预编码表达式。最后在系统功率受限下，并满足用户频谱效率不为零的条件下，建立以最大化频谱效率为准则的功率分配算法的优化模型，并为解决此模型提出的本文功率分配算法方案。此方案通过联合发射功率分配和预编码的方式求解系统的频谱效率最优。与只考虑理想的瑞利平坦衰落信道模型相比，本文的提出的信道更接近实际的信道模型。仿真结果表明，在本文构建的信道模型中RZF预编码优于MRT预编码频谱效率；在本文提出的信道下，与平均功率分配方案相比，本文所提方案大大提高了频谱效率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：   \n[1] Chihlin I, RowellC, Han S,et al. Toward green and soft: A5G perspective [J].IEEE Communications Magazine,2014,52(2): 66-73.   \n[2]Foschini G J. Layered space-time architecture for wireless communication in a fading environment when using multi-element antennas [J].Bell Labs Technical Journal,2010,1(2): 41-59.   \n[3]Foschini G J,Gans MJ.On limits of wireless communications in a fading environment when using multiple antennas [J].Wireless Personal Communications,1998,6 (3): 311-35.   \n[4]Telatar E. Capacity of multi- antenna Gaussian channels [J]. European Trans on Telecommunications,1999,10(6): 585-595.   \n[5]Costa MHM.Writing on dirty paper[J]. IEEE Transactions on Information Theory,1983,29 (3): 439-441.   \n[6]Peel C B,Hochwald B M, Swindlehurse A L.A Vector-perturbation technique for communication,part i: channel inversion and regularization [J].IEEE Trans on Communications,2005,53(1):195-202.   \n[7]Yoo T, Goldsmith A. On the optimality ofmultiantenna broadcast scheduling using zero-forcing beamforming [J]. IEEE Journal on Selected Areas in Communications,2006,24 (3): 528-541.   \n[8] Park J，Lee B，Shim B.A MMSE vector precoding with block diagonalization for multiuser MIMO downlink [J].IEEE Trans on Communications,2012, 60 (2): 569-577.   \n[9]Zhou H, Zong R,Zhang Q.Low complexity MMSE precoding and decoding for Multiuser MIMO [Cl//Proc of International Conference on Future Computer and Communication.IEEE,2010: V3-282-V3-285.   \n[10] Shi Shuying，Schubert M,Boche H. Downlink MMSE transceiver optimization for multiuser MIMO systems:MMSE balancing [J].IEEE Trans on Signal Processing,2007,55 (11): 5436-5446.   \n[11] Sadek M, Tarighat A,Sayed A H.A leakage-based precoding scheme for downlink multi-user MIMO channels [J].IEEE Transon Wireless Communications,2007,6 (5): 1711-1721.   \n[12] Nguyen V K, Evans J S. Multiuser transmit beamforming via regularized channel inversion: a large systemanalysis[Cl// Proc of Global Telecommunications Conference.2008: 1-4.   \n[13] Wagner S,Couilet R,Debbah, M,et al. Large system analysisof linear precoding in correlated MISO broadcast channels under limited feedback [J]. IEEE Trans on Information Theory,2012,58(7): 4509-4537.   \n[14]李菊芳，赵睿，江彬，等．基于大规模天线的多用户MISO下行链路频 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "谱效率分析 [J].通信学报,2014,35(2):125-136.(LiJu-fang,Zhao Rui,",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Jiang Bin et al.Analysis of spectral efficiency of multiuser MISO downlink based on large-scale antennas [J]. Journal on Communications,2014,35 (2): 125-136.)   \n[15] GesbertD,KountourisM,JrRWH,etal.From single user to multiuser communications:shifting the MIMO paradigm [EB/OL].(2007-05-30）. http://www.eurecom.fr/\\~gesbert/papers/TutorialMUMIMOv3.pdf.   \n[16]AlshammariA,Albdran S,Matin M.The effect of channel spatial correlation on capacity and energy efficiency of massive MIMO systems [C]//Proc of Computing and Communication Workshop.2017: 1-5.   \n[17]Artiga X,Devillers B,Perruisseau-Carrier J.Mutual coupling effects in multi-user massive MIMO base stations [C]// Proc of International Symposium on Antennas and Propagation Society. 2012:1-2.   \n[18] Ozcelik H，HerdinM,WeichselbergerW,etal.Deficiencies ofKronecker'MIMO radio channel model[J].Electronics Letters,2003,39 (16): 1209-1210.   \n[19]Liu X,Bialkowski ME,WangF. Investigations into the effect of spatial correlation on channel estimation and capacity of multiple input multiple output system [J]. International Journal of Communications Network & System Sciences,2009,2(4): 267-275.   \n[20] AdhikaryA,Nam J,Ahn JY,et al. Joint spatial divisionand multiplexing: the large-scale array regime [J].IEEE Trans on Information Theory,2013, 59 (10): 6441-6463.   \n[21]Liu X,Bialkowski ME,Wang F. Investigations into the effect of spatial correlation on channel estimation and capacity of multiple input multiple output system [J]. International Journal of Communications Network & System Sciences,2009,2(4):267-275.   \n[22] Nguyen VK,Evans JS.Multiuser Transmit Beamforming via Regularized Channel Inversion:A Large System Analysis [C]// Proc of Global Telecommunications Conference.2oo8:1-4.   \n[23] Boyd S,Kim S J,Vandenberghe L,et al.A tutorial on geometric programming [J]. Optimization & Engineering,20o7,8(1): 67.   \n[24] Chiang M,HandeP,Lan T,et al.Power control in wireless cellular networks [J].Foundations & Trends? in Networking,2008,2(4):381-533.   \n[25] Chien TV,Bjornson E,Larsson E G.Joint power allocation and user association optimization for massive MIMO systems [J].IEEE Trans on Wireless Communications,2016,15 (9): 6384-6399. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

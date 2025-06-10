@@ -1,0 +1,249 @@
+# An evolutionary analysis of economic hubs and transmission mechanisms for wastewater discharge
+
+Xuefeng Li 1.2\* 1 Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Zhongguancun East Road No. 55,Beijing, 100190, People's Republic of China 2 University of Chinese Academy of Sciences， 19 A Yuquan Road， Shijingshan District, Beijing, 100049, People's Republic of China
+
+Abstract: Due to the destruction of aquatic ecology and pollution of the water environment, policy formulation needs to pay more attention to factors other than economic benefits. Past research mainly relied on the average propagation lengths (APL) of wastewater discharge to empirically analyze the wastewater propagation between sectors.The hub sectors of wastewater discharge, which are denselyconnected to other sectors, play key roles in reflecting wastewater discharge or wastewater treatment in the overall economic system. However,there is current ambiguity deficiency in analytic results of economic hubs and transmission mechanisms of wastewater discharge. At the same time,analyzing the transmission mechanism of wastewater discharge， proposing wastewater management and containment strategies are essential to sustainable development of water resource. This paper calculates the wastewater discharge APL based on the compiled sequential water input-occupancyoutput tables of 49 sectors for 2002,2007,2012 and 2017 in China. Then, we introduce more broadly marginal dependence linkages into APL.A coupled model named APL-HCG (APL with hub covariance graph) is proposed to analyze the hub wastewater discharge sectors and hub propagation chains overall. The results illustrate the evolutionary patern of the hub sectors of wastewater discharge and the transmisson mechanism implicit in the key wastewater propagation chains nationwide from 2002 to 2017.
+
+Keywords: wastewater; input-occupancy-output; average propagation lengths (APL); hub sector of wastewater discharge; hub covariance graph (HCG) model
+
+# 1 Introduction
+
+Under the background of Chinese economy entering a new development trajectory， the environmental issues to sustainable economic development has received increasing attention, including topics about water resource.Water is closely related to people's production and life. Resulting from severe water exploitation in production and life, water pollution and water shortage emerged. They have become some of the most important aspects affecting the sustainable development of economy, society and environment. Therefore,analyzing issues about utilization of water resource, wastewater discharge and wastewater treatment are urgent. It needs essential research to alleviate the influence of wastewater on the sustainable development of economy，society and environment.
+
+Sectors or industries are directly or indirectly connected to each other by wastewater propagation. Wastewater discharge average propagation lengths (APL） possess the ability to depict intrinsic economic connections between sectors. The idea of APL is firstly proposed by Dietzenbacher et al. (2005; 2O07). It has been adopted to study the impact of fragmentation to economic complexity of Chicago (Luna et al., 2O09), the measurement of upstream sectors (Antras et al.,2012), the production chains discovery and evolutionary process of agricultural production chains (Deng and Chen, 2008; 2009), the important coeficients in APL matrix (Lu and Xu,2O13)and the grouped APL (Chen, 2014) and so on. Tu et al. (2O17) used the APL model to analyze and evaluate wastewater propagation chains in Jing-Jin-Ji region. Wastewater APL's type of economic connections construct wastewater propagation network. Some sectors are more broadly associated with other sectors,or there are densely-connected nodes (hubs) in this network. It may also have block structure in such a wastewater propagation network implying wastewater propagation chains. That's why we can find important APL coefficients and grouped APL as Lu et al. (2013) and Chen et al. (2O14) and analyze wastewater propagation chains as Tu et al. (2017).
+
+Using the sequential input-occupancy-output water resource tables of 49 sectors in China, we calculate the average impact distance of wastewater discharge between sectors.At the same time, the hub sectors and hub APLs of wastewater discharge in the economic system play significant roles in analyzing and evaluating wastewater discharge in the entire economic system. However, there is currently a lack of corresponding method for exploring the hub industries and hub APLs. In this paper, we couple APL with hub covariance graph (Tan et al.,2O14) (APL-HCG) to analyze and evaluate the evolutionary process and wastewater transmission mechanisms of China. APL-HCG directly and generally reveals the hubs of economy and block structures implying economic significance intrinsically embedded in the APL matrix, i.e. significant propagation chains (production or wastewater discharge or other economic meanings). Comparing with past researches，APL-HCG considers marginally economic dependence representing by wastewater APL covariance between sectors.It is a direct and general framework to beter uncover intrinsically economic hub industries and significant propagation chains (hub APLs） and to beter reflect the linkage relevance by considering possibly marginal dependence of all sectors. With hub sectors and hub wastewater propagation chains, we can make strategies for wastewater discharge control or wastewater treatment.
+
+The following contents of this article are arranged as follows: The second part introduces the data and models used to analyze and evaluate hub sectors and hub propagation chains of wastewater
+
+discharge; the third part illustrates the result and analysis of hub sectors and hub propagation chains;   
+the fourth part carries on the article summarization and proposes corresponding policy implications.
+
+# 2 Methodology
+
+# 2.1 Data
+
+We compiled water resource input-occupancy-output tables of 49 sectors for year 2O02, 2007, 2012 and 2O17 based on the input-output tables released by the National Bureau of Statistics and the statistical data announced by the Environmental Statistics Yearbook,Energy Statistics Yearbook and National Water Bulltin and so on. The occupancy includes 12 indicators: Water Consumption (100 million cubic meters),Wastewater Discharge (100 million tons), Chemical Oxygen Demand (COD) (10,000 tons),Ammonia Nitrogen Emissions (NH) (10,0o0 tons), Coal Consumption (10,000 tons), Crude Oil Consumption (10,O0o tons)，Natural Gas Consumption (1OO million cubic meters)，and Total Primary Energy Consumption (10,OOO tons of standard coal),Employed Population (10,000 people), Capital Deposit (10,000 Chinese yuan), Sulfur Dioxide Emissions (SO2)(10,000 tons） and Carbon Dioxide Emissions (CO2) (10,000 tons). Due to the inability to obtain wastewater discharge data from the agricultural sectors,5 agricultural sectors (Agricultural Products，Forest Products, Animal Husbandry Products,Fishery Products and Agriculture,Forestry，Animal Husbandry and Fishery Service Products） have all zero wastewater emissions in the compiled 49-industry water resource input-occupancy-output table. In addition,data on Chemical Oxygen Demand,Ammonia Nitrogen Emissions and Crude Oil Consumption for some sectors are not available,so they are vacant. See Appendix A for structure description of the tables and Appendix B for information about 49 sectors.
+
+# 2.2 Model
+
+A hub penalty function is used to discover densely-connected or hub nodes in a graph (Tan et al., 2014). Namely,
+
+$$
+\mathbf { P ( \pmb { \Theta } ) } = \operatorname* { m i n } _ { \mathbf { V } , \mathbf { Z } : \mathbf { \theta } = \mathbf { Z } + \mathbf { V } + \mathbf { V } ^ { \mathsf { T } } } \left\{ \lambda _ { 1 } | | \mathbf { Z } - \mathrm { d i a g } ( \mathbf { Z } ) | | _ { 1 } + \lambda _ { 2 } | | \mathbf { V } - \mathrm { d i a g } ( \mathbf { V } ) | | _ { 1 } + \lambda _ { 3 } \sum _ { \mathbf { j } = 1 } ^ { \mathbf { p } } \big | \big | \big ( \mathbf { V } - \mathrm { d i a g } ( \mathbf { V } ) \big ) _ { \mathbf { j } } \big | \big | _ { \mathbf { q } } \right\}
+$$
+
+where $\Theta$ is parameter matrix, symmetric matrix $\mathbf { z }$ is sparse whose non-zero elements stand for edges between nodes, $\mathbf { V }$ 's non-zero columns represent hub nodes.
+
+For observations $\mathbf { X } = \{ \mathbf { x _ { i } } \} _ { \mathrm { i = 1 } } ^ { \mathrm { n } } , \mathbf { x _ { i } } \in \mathbb { R } ^ { \mathrm { p } }$ ，combining specific loss function $\ell ( { \mathbf { X } } , \Theta )$ with hub penalty function $\mathrm { P } ( \Theta )$ yields a general convex optimization problem of hub graphical model ,
+
+$$
+\begin{array} { l } { \displaystyle \operatorname* { m i n } _ { \Theta \in \mathcal { S } , \nabla , \mathbb { Z } } \left\{ \ell ( { \mathbf { X } } , \Theta ) + \lambda _ { 1 } \| { \mathbf { Z } } - \mathrm { d i a g } ( { \mathbf { Z } } ) \| _ { 1 } + \lambda _ { 2 } \| \nabla - \mathrm { d i a g } ( { \mathbf { V } } ) \| _ { 1 } + \lambda _ { 3 } \sum _ { \mathrm { i } = 1 } ^ { \mathrm { p } } \left\| \left( { \mathbf { V } } - \mathrm { d i a g } ( { \mathbf { V } } ) \right) _ { \mathrm { j } } \right\| _ { \mathrm { q } } \right\} } \\ { \displaystyle \textrm { s t } , \Theta = { \mathbf { Z } } + { \mathbf { V } } + { \mathbf { V } } ^ { { \mathbf { T } } } } \end{array}
+$$
+
+In this paper,we will take hub graphical model to be APL hub covariance graph which is 99 formulated as:
+
+$$
+\displaystyle \operatorname* { m i n } _ { \mathbf { z } \in S , \mathbf { V } , \mathbf { Z } } \left\{ \frac { 1 } { 2 } \| \mathbf { \boldsymbol { \Sigma } } - \mathbf { \boldsymbol { S } } \| _ { F } ^ { 2 } + \lambda _ { 1 } \| \mathbf { \boldsymbol { Z } } - \operatorname { d i a g } ( \mathbf { \boldsymbol { Z } } ) \| _ { 1 } + \lambda _ { 2 } \| \mathbf { \boldsymbol { V } } - \operatorname { d i a g } ( \mathbf { \boldsymbol { V } } ) \| _ { 1 } + \lambda _ { 3 } \sum _ { \mathbf { j } = 1 } ^ { \mathfrak { p } } \left\| \left( \mathbf { \boldsymbol { V } } - \operatorname { d i a g } ( \mathbf { \boldsymbol { V } } ) \right) _ { \mathbf { j } } \right\| _ { \mathbf { q } } \right\} \left( \mathbf { \boldsymbol { V } } - \operatorname { d i a g } ( \mathbf { \boldsymbol { V } } ) \right) ,
+$$
+
+where S denotes empirical covariance matrix of APL.
+
+Convex optimization problem (2) and its specific form (3) can be solved by ADMM algorithm as described in Tan et al. (2014). For more details about ADMM,see,e.g.,Tan et al. (2014),Eckstein and Bertsekas (1992),Ma et al. (2013),Boyd et al. (2010) and Eckstein (2012).For more fine discussion about hub covariance graph,see,e.g., Tan et al. (2014), Xue et al. (2012),Drton and Richardson (2003), Chaudhuri et al. (20O7),Drton and Richardson (2008).
+
+Average propagation lengths (APL）(Dietzenbacher et al.， 20o5） imply average economy distance or the degree of economic relevance between sectors.They count average steps of effect that reflect the economic relevance is direct or indirect within sectors and how many steps one industry connects to others. Considering wastewater discharge， the APL means wastewater propagation lengths. Let
+
+$$
+\begin{array} { r l } & { \mathbf { H } = \hat { \mathbf { a } } _ { \mathbf { w } } ( \mathbf { I } - \mathbf { A } ) ^ { - 1 } [ ( \mathbf { I } - \mathbf { A } ) ^ { - 1 } - \mathbf { I } ] } \\ & { \mathbf { Q } = \hat { \mathbf { a } } _ { \mathbf { w } } [ ( \mathbf { I } - \mathbf { A } ) ^ { - 1 } - \mathbf { I } ] } \end{array}
+$$
+
+where A is Leontief technical coefficient matrix, $\hat { \mathbf { a } } _ { \mathbf { w } }$ is diagonal matrix of wastewater discharge coefficients. And $\mathbf { V } = ( \mathrm { v _ { i j } } ) _ { \mathrm { i , j = 1 } } ^ { s }$ denote the Leontief's type of APL or backward APL, then
+
+$$
+\mathrm { v _ { i j } = \left\{ \begin{array} { l l } { \mathrm { \frac { h _ { i j } } { q _ { i j } } , i f \mathrm { q _ { i j } > 0 } } } \\ { 0 , i f \mathrm { q _ { i j } = 0 } } \end{array} \right. }
+$$
+
+From Ghosh'spoint of view, let $\mathbf { B }$ be Ghosh technical coefficient matrix, and
+
+$$
+\begin{array} { r l } & { \widetilde { \mathbf { H } } = ( \mathbf { I } - \mathbf { B } ) ^ { - 1 } [ ( \mathbf { I } - \mathbf { B } ) ^ { - 1 } - \mathbf { I } ] \hat { \mathbf { a } } _ { \mathbf { w } } } \\ & { \widetilde { \mathbf { Q } } = [ ( \mathbf { I } - \mathbf { B } ) ^ { - 1 } - \mathbf { I } ] \hat { \mathbf { a } } _ { \mathbf { w } } } \end{array}
+$$
+
+Correspondingly, $\widetilde { \mathbf { V } } = ( \widetilde { \mathbf { v } } _ { \mathrm { i j } } ) _ { \mathrm { i , j = 1 } } ^ { s }$ denote the Ghosh's type of APL or forward APL, then
+
+$$
+\tilde { \mathrm { v } } _ { \mathrm { i j } } = \left\{ \begin{array} { l l } { \mathrm { \widetilde { h } _ { \mathrm { i j } } } , \mathrm { i f ~ } \tilde { \mathrm { q } } _ { \mathrm { i j } } > 0 } \\ { \mathrm { \widetilde { q } _ { \mathrm { i j } } } } \\ { 0 , \mathrm { i f ~ } \tilde { \mathrm { q } } _ { \mathrm { i j } } = 0 } \end{array} \right.
+$$
+
+Theoretically, backward wastewater propagation lengths (pulling by final demand) equal forward Wastewater propagation lengths (driving by cost). We can construct wastewater propagation networks using either of them.
+
+# 3 Results
+
+# 3.1 Wastewater Discharge Propagation Chains
+
+125 When the elements of wastewater discharge intensity matrix $\mathbf { F } = ( \mathbf { Q } + \widetilde { \mathbf { Q } } ) / 2$ less than a specific   
+126 threshold T,we remove the corresponding wastewater discharge APL linkage.Figure 1-Figure 4   
+127 show the evolutionary process of wastewater propagation networks with wastewater discharge APL   
+128 direct linkage in size in cost driving aspect from 2002 to 2017. Both in 2002 and 2017,only one   
+129 wastewater discharge propagation chain that APL direct linkage in size found. Wastewater discharge   
+130 amount (percentage of total wastewater discharge） of Chain.1 are $1 1 8 . 5 4 ( 2 6 . 9 7 \% )$ and   
+131 （204号 $1 1 9 . 1 0 ( 1 7 . 0 2 \% )$ ,measured in 10O million cubic meters. In 2007 and 2012, there are three wastewater   
+132 propagation chains respectively. Wastewater discharge amount (percentage of total wastewater   
+133 discharge) of Chain.1 are $1 1 2 . 4 0 ( 2 0 . 1 9 \% )$ and $1 0 4 . 1 0 ( 1 5 . 2 0 \% )$ , measured in 10O million cubic meters   
+134 (Table 1). The results of Chain.1 illustrated the evolutionary wastewater transmission mechanisms.   
+135 We claim sector with large sum of in degree and out degree as center. Therefore, a center can be   
+136 categorized as cost driven center in the aspect that it produces much more wastewater driven by other   
+137 sectors than the wastewater it drives other sectors or cost driving center in the opposite direction. In   
+138 2002, S27 (Metal Products, Machinery and Equipment Repair Services), S28 (Electricity, Steam and   
+139 Hot Water Production and Supply (Excluding Water and Electricity)), S30 (Construction） and S33   
+140 (Business） are cost driven centers by other sectors. S14 (Papermaking， Printing and Cultural,   
+141 Educational and Sporting Goods)， S15 (Petroleum, Coking Products and Nuclear Fuel Processed   
+142 Products)and S45 (Hydropower) are centers to drive other sectors (cost driving centers). In 2007, S27   
+143 (Metal Products, Machinery and Equipment Repair Services） and S45 (Hydropower) are cost driven   
+144 centers. In 2012, S45 (Hydropower) and S46 (Water Supply) are cost driven centers. In year 2017,   
+145 S31 (Merchandise Transportation and Storage (Excluding Water Transportation)， S33 (Business),   
+146 S45 (Hydropower) and S46 (Water Supply) are cost driven centers, S14 (Papermaking, Printing and   
+147 Cultural，Educational and Sporting Goods） are cost driving centers. Although some sectors are   
+148 regarded as cost driven centers,they still have dense connections in the opposite direction(cost   
+149 driving). For example, sectors S27 (Metal Products, Machinery and Equipment Repair Services） and   
+150 S28 (Electricity, Steam and Hot Water Production and Supply (Excluding Water and Electricity) in   
+151 2002; sectors S27 (Metal Products, Machinery and Equipment Repair Services) and S45 (Hydropower)   
+152 in 2007; sectors S45 (Hydropower) and S46(Water Supply) in 2012 and 2017. In a certain sense,   
+153 there is ambiguity by adopting this heuristic rule because we may reach opposite results in the   
+154 maximal degree aspect.
+
+![](images/dfb1b50cec16a37bd0f8d32952ffea7b6d989b20e6af3f9a2859ff87f5b19bdf.jpg)  
+Wastewater propagation chains (2002)   
+Figure 1: Wastewater propagation network with wastewater discharge APL direct linkage in size in cost driving aspect of 2002.
+
+![](images/63cdbf43dd006659176609d7df4e495576f2b66df1f0826733e04fb41e25417d.jpg)  
+Wastewater propagation chains (2007)   
+Figure 2: Wastewater propagation network with wastewater discharge APL direct linkage in size in cost driving aspect of 2007.
+
+![](images/565480284eddd9d42308ba28e98a35cff362067ffc44befb2b512d13ce74ecbd.jpg)  
+Wastewater propagation chains (2012)   
+Figure 3: Wastewater propagation network with wastewater discharge APL direct linkage in size in cost driving aspect of 2012.
+
+![](images/a4e6d1c6e09d694c73aea4edca3b79a1221aebf2c8cf407b583e2336ff7346c0.jpg)  
+Wastewater propagation chains (2017)   
+Figure 4: Wastewater propagation network with wastewater discharge APL direct linkage in size in cost driving aspect of 2017.
+
+Table 1:Wastewater discharge amount (percentage of total wastewater discharge in bracket） of wastewater discharge propagation chains with wastewater discharge APL direct linkage in size of year 2002, 2007,2012 and 2017, measured in 100 million cubic meters.   
+
+<html><body><table><tr><td>Year</td><td>Chain.1 Chain.2</td><td>Chain.3</td></tr><tr><td>2002</td><td>118.54(26.97%)</td><td>1</td></tr><tr><td>2007</td><td>112.40(20.19%)</td><td>6.05(1.09%) 0.15(0.03%)</td></tr><tr><td>2012</td><td>104.10(15.20%)</td><td>0.25(0.04%) 0.03(0.00%)</td></tr><tr><td>2017</td><td>119.10(17.02%)</td><td></td></tr></table></body></html>
+
+# 3.2Hub WastewaterDischarge Sectors
+
+Some cost driven centers still have dense connections in the direction of cost driving,it implies that we should take more broadly marginal dependence linkage into consideration when analyzing
+
+center sectors in wastewater discharge APL network other than in single cost driven or cost driving direction. There are 44 sectors except for 5 agricultural sectors can be used to analyze potential key Wastewater discharge hubs. We find some sectors are densely-connected to other sectors in the wastewater discharge average propagation lengths aspect. They might be hubs to control wastewater discharge or to treat wastewater in the whole economy system. In year 2002, there are 7 sectors are anchored to be potential hubs: Textile, Business, Information Transmission, Computer Services and Software, Scientific Research and Technical Services, Environment and Public Facilities Management, Health and Social Work, Water Supply (Figure 5(Hub industries (2OO2) and Table 2). Among them, Textile is a well-known labor-intensive and key heavy pollution industry according to “the First National Pollution Source Survey Program” issued at May,2OO7. It discharged 2.1634 bilion cubic meter wastewater in 2OO2.The statistics released by the National Environmental Protection Agency of China shows,total wastewater discharge from printing and dyeing industry ranks the 5th among all national manufacturing sectors and counting about $60 \%$ of total wastewater discharged by different sectors. Moreover,treating Textile-type wastewater is dificult,and the recycling rate is low. From the economic view,the Textile industry highly depended on external economies. China is the world's largest producer and exporter of textile clothing.It is essential to ensure the foreign exchange deposit, the balance of international payments，the stability of exchange rate of Chinese yuan， social employment and sustainable development of the Textile industry of China by keeping continuous and stable growth of textile clothing exports.The results of our method coordinate with reality and reflect the intensive-dependence of Textile industry to other sectors in the wastewater discharge APL aspect under the whole macroeconomic system. The rest of hub sectors all belong to the tertiary industry. It implies tertiary industry is responsible for most of the wastewater discharge connections in economy. For example,varieties of sectors inevitably directly or indirectly linked to Business that discharged 1.4866 billion cubic meter wastewater. High-tech industry Information Transmission, Computer ： Services and Software discharged O.4164 billion cubic meter wastewater taking about $1 \%$ of total 206 wastewater discharge in the economy. Scientific Research and Technical Services,Environmental 207 Resources and Public Facilities Management, Health and Social Work and Water Supply altogether 208 released about $0 . 8 5 \%$ of total wastewater.However, they are densely-connected to other sectors in the 209 relationship of wastewater discharge. One of the explanations to this phenomenon might be the 210 products the former three sectors used implicitly embedding Wastewater discharge. And Water Supply 211 industry densely-connected to other sectors is ordinary due to the fact that water possesses vital 212 importance for all sectors.
+
+In year 2OO7,only 3 sectors are hubs. They are Merchandise Transportation and Storage (Excluding Water Transportation)，Environment and Public Facilities Management，Education respectively (Figure 5(Hub industries (2OO7) and Table 2). In year 2O12,ten sectors are found to be hubs: Food Manufacturing and Tobacco,Textile, Wood Processing and Furniture, Catering,Real Estate, Environment and Public Facilities Management, Health and Social Work， Water Supply， Sewage Treatment， Water Management (Figure 5(Hub industries (2O12) and Table 2).The wastewater discharge of sectors Food Manufacturing and Tobacco and Textile ranked the fourth and the fifth respectively. Other hub sectors take about $2 . 2 0 \%$ responsibility of total wastewater discharge of the whole nation.Environment and Public Facilities Management, Health and Social Work and Water Supply are the same with year 2OO2. Sewage Treatment becomes hub industry for the first time which reflects that more and more attention is paid to the safety of water environment， sustainable development of water resource and forward environmental protection related to water.
+
+![](images/94574dbce0a8c1887ef60b28e3b4d47dca5292d951086984c7f193514765e53e.jpg)  
+Figure 5: Hub wastewater discharge sectors of 2002,2007,2012 and 2017 under hub wastewater discharge APL covariance graphical model.
+
+Table 2: The number of edges representing by the elements of Sigma and Z. The hub wastewater discharge sectors and the number of edges within each hub sector.The last column is the number of edges in size(directly or indirectly) shown in Appendix E.   
+
+<html><body><table><tr><td></td><td>YearNumber.of. Edges (Sigma)</td><td>Number.of. Edges (Z)</td><td>Hub.Sectors</td><td>Number.of.Ed ges (Hub)</td><td>Number.of.Edges.in .Size (Hub)</td></tr><tr><td>2002</td><td>358</td><td>201</td><td>S11, S33, S35, S38, S39, S42, S46</td><td>33,38,37,38,</td><td>12, 17, 4, 0, 3, 1, 4</td></tr><tr><td>2007</td><td>235</td><td>197</td><td>S31, S39, S41</td><td>31, 40, 41 29,30, 30</td><td>6,0,0</td></tr><tr><td>2012</td><td>453</td><td>202</td><td>S10, S11, S13, S34,</td><td>40, 37,39, 35,</td><td>6, 6, 2, 4, 1, 1, 1, 5,</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td></td><td>S37, S39, S42, S46, S47, S49</td><td>37,39,39,40, 39,41</td><td>2,2</td></tr><tr><td>2017 456</td><td>191</td><td>S10, S11, S12, S13, S34, S37, S39, S46,</td><td>42,37,39, 39, 34,35,38, 40,</td><td>5,6, 2, 3, 4, 1, 2, 3, 1,2</td></tr></table></body></html>
+
+For year 2O17,Food Manufacturing and Tobacco,Textile, Textile Clothing, Shoes,Hats, Leather, Down and Their Products,Wood Processing and Furniture, Catering,Real Estate,Environment and Public Facilities Management, Water Supply, Sewage Treatment, Water Management (Figure 5(Hub industries (2017) and Table 2).It is almost the same as year 2012 except for industry Textile Clothing, Shoes,Hats, Leather, Down and Their Products that is not a hub in year 2O12. And industry Health and Social Work is no longer a hub in year 2Ol7.The analysis for specific sectors may refer to the conclusion summarized for year 2O02,2O07 and 2012.The dynamics course of the evolution of hub sectors from year 2002 to 2017 shows: (1）Regular distribution pattern of hub sectors under wastewater APL framework remains consistent in year 2002,2012 and 2017. One side of the hubs belongs to the top highly discharge wastewater sectors but important to meet people's daily food, clothing, housing and transportation needs,the other side of hubs belongs to lightly water poluting sectors like high-tech sectors and public service sectors.(2） It illustrates water protection and sustainable development of water resource has attracted much more attention as Sewage Treatment industry became a key hub since year 2Ol2.(3）For wastewater discharge control or wastewater treatment, the governance can be taken with both hands. On the one hand, government may consider taking strict and efcient policies and measures to control wastewater discharge of highly water polluting sectors. On the other hand, the government can advocate lightly water poluting hub sectors to raise environmental protection requirements for products they used.
+
+# 3.3 Hub Wastewater Propagation Chains
+
+Substituting non-zero elements of symmetric sparse matrix $\mathbf { z }$ with wastewater APL,we can recover the adjacency matrix of sectors.Wastewater propagation networks with hub are showed in Figure 6-Figure9.The hub sectors in the networks can be regarded as grips to wastewater treatment. So an ideal propagation chain to wastewater treatment may contain hub sectors and can reflect the most significant linkages.By analyzing the hub wastewater propagation networks, it ilustrates the most explanatory transmission course of wastewater discharge.We carefully select the wastewater propagation chains according to the following rules: containing as much hub sectors as possible; coordinate with reality logic of economy.The results are presented in Figure 6-Figure 9 and Table 3.
+
+![](images/bf2db6d2f8ee236932edc586bae726f09838826072d7af0c301ed717d1f7bc66.jpg)  
+Hub wastewater propagation chains (2002)   
+Figure 6: Hub wastewater propagation network with wastewater discharge APL direct linkage in size in cost driving aspect under hub wastewater discharge APL covariance graphical model of 2002.
+
+![](images/1624dbb50b3a183f2a347ae82c7811f1ed6b1b70f4f8dfc6d83525bd0c2a026a.jpg)  
+Hub wastewater propagation chains (2007)   
+Figure 7: Hub wastewater propagation network with wastewater discharge APL direct linkage in size in cost driving aspect under hub wastewater discharge APL covariance graphical model of 2007.
+
+![](images/dbbd89c83c704e2163d13c9ffb0a7f3b136a85fb5563905c2f0b12f4ea51a035.jpg)  
+Hub wastewater propagation chains (2012)   
+Figure 8: Hub wastewater propagation network with wastewater discharge APL direct linkage in size in cost driving aspect under hub wastewater discharge APL covariance graphical model of 2012.
+
+![](images/b93a0b9b94a8a243f72379322dffc962d103a534e4f791a7b1b1cfe71d3d5ce6.jpg)  
+Hub wastewater propagation chains (2017)   
+Figure 9: Hub wastewater propagation network with wastewater discharge APL direct linkage in size in cost driving aspect under hub wastewater discharge APL covariance graphical model of 2017.
+
+Table 3: Wastewater discharge amount of hub wastewater discharge propagation chains with wastewater discharge APL direct linkage in 2002,2007,2012 and 2017,measured in 100 million cubic meters.   
+
+<html><body><table><tr><td>Year Hub.Chain.1</td><td></td><td>Hub.Chain.2</td><td>Hub.Chain.3</td></tr><tr><td>2002</td><td>39.84(9.06%)</td><td></td><td></td></tr><tr><td>2007</td><td>43.38(7.79%)</td><td>0.46(0.08%)</td><td>0.00(0.00%)</td></tr><tr><td>2012</td><td>64.55(9.43%)</td><td>1</td><td>1</td></tr><tr><td>2017</td><td>40.91(5.85%)</td><td>12.09(1.73%)</td><td>0.010</td></tr></table></body></html>
+
+In 2002,2007,2012 and 2017, Hub.Chain.1 directly illustrated by APL-HCG accounts for $9 . 0 6 \%$ （204号 $7 . 7 9 \%$ ， $9 . 4 3 \%$ and $5 . 8 5 \%$ of total wastewater discharge, namely 39.84,43.38, 64.55 and 40.91 100 million cubic meters.In 2012,hub sector S13(Wood Processing and Furniture) is eliminated from direct linkage propagation chains. By considering more broadly marginal dependence linkages when
+
+analyzing center sectors in wastewater discharge APL network other than in single cost driven or cost driving direction, we erase the ambiguity of centers in wastewater APL network only keeping direct linkage in size.For example, S27 (Metal Products, Machinery and Equipment Repair Services） and S45 (Hydropower) which have opposite meanings in diferent heuristics are never again been center sectors in direct linkage in size APL-HCG (Figure 6-Figure 9). The wastewater discharge of marginal dependence edges embracing around S27 and S45 holds very small. The ambiguous center sector S46 (Water Supply) in the wastewater propagation network with wastewater discharge APL direct linkage in size still a hub in the hub wastewater propagation network. Surrounding water supply and wastewater treatment, we can illuminate hub transmission chains. In 2OO2, they are S6(Coal Mining and Washing Products) $\phantom { 0 } { < } \mathrm { - } > \phantom { 0 } { \phantom { 0 } } 2 8$ (Electricity, Steam and Hot Water Production and Supply (Excluding Water and Electricity))- $. >$ S46(Water Supply) $. >$ S45(Hydropower)<->S47(Sewage Treatment） and S10(Food Manufacturing and Tobacco Processing)- $. >$ S34(Catering) $\phantom { 0 } { < } \mathbf { - } > \mathbf { S } 2 9 $ (Gas Production and Supply) $\mathrm { < - > S 4 6 }$ (Water Supply) $. >$ S45(Hydropower) $\mathrm { < - > S 4 7 }$ (Sewage Treatment). In 2007, it is S7(Oil and Gas Extraction Products) $\cdot >$ S15(Petroleum，Coking Products and Nuclear Fuel Processed Products) $\mathrm { < - > S 4 5 }$ (Hydropower)<->S47(Sewage Treatment)<->S49(Water Management)<- >S46(WaterSupply)- $\cdot >$ S41(Education)<->S47(Sewage Treatment). In 2012， it is S10(Food Manufacturing and Tobacco Processing) $. >$ S34(Catering) $. >$ S49(Water Management)- $. >$ S46(Water Supply) $\mathrm { < - > S 4 7 }$ (Sewage Treatment). In 2017, they are S11(Textile) ${ \mathrm { - } } { \mathrm { } } { \mathrm { } } { \mathrm { } } { \mathrm { } } { \mathrm { } } { \mathrm { } } \quad \cdots { } { \mathrm { } } { \mathrm { } } 1 2$ (Textile Clothing， Shoes, Hats,Leather,Down and Their Products) ${ \cdot > } S 4 4$ (Public Administration, Social Security and Social Organization)- $. >$ S49(WaterManagement)- $. >$ S46(WaterSupply)<->S47(SewageTreatment） and S10(Food Manufacturing and Tobacco Processing) $. >$ S34(Catering) $\cdot >$ S44(Public Administration, Social Security and Social Organization) $. >$ S49(WaterManagement)- $. >$ S46(WaterSupply)<- >S47(Sewage Treatment). Therefore, the transmission mechanisms about water supply and wastewater treatment evolve from heavy industry sources like Coal Mining and Washing Products, 310 Oil and Gas Extraction Products to light industry source like Texitile.However,transmission 311 mechanism originating from Food Manufacturing and Tobacco Processing->Catering always play 312 significant role in water supply and wastewater treatment. In addition， densely-connected block 313 structures including sectors Water Supply, Sewage Treatment and Water Management are found in 314 hub wastewater propagation network with wastewater discharge APL direct linkage in size,as shown 315 byFigure 6-Figure 9 and Apendix F.Hub transmisson chains and hub block structures all may reflect 316 the evolutionary and most significant transmisson mechanisms in a more broadly marginal 317 dependence linkages aspect.
+
+Hub.Chain.1 that lies in linkage in size wastewater propagation network is responsible for $5 . 0 3 \%$ $1 . 9 7 \%$ ， $1 . 1 2 \%$ and $1 . 7 3 \%$ of total wastewater discharge，absolutely 22.12，10.98,7.66 and 12.09 measured in 10O million cubic meters respectively (Appendix C and Appendix D). It makes sense to construct explanatory transmisson mechanism in a maximal wastewater discharge aspect. However, in 2017, Hub.Chain.1 is S8(Metal Mining Products) ${ \cdot > } \mathbf { S } 1 8$ (Metal Smelting and Calendered Products)- >S19(Metal Products). It plots the industrial upstream and downstream wastewater driving chain relationship of metal industry coordinate with reality.But the Hub.Chain.1 of 2O17 excludes hub sectors.Hub.Chain.1 of 2002,2007 and 2012 contain 4,1 and 4 hub sectors respectively and they are the chains including the most hub sectors in corresponding years.
+
+# 4 Conclusions and Implications
+
+This paper calculates the average propagation lengths of wastewater discharge between sectors through the compilation of sequential water input-occupancy-output tables for 2O02,2O07,2012 and 2017.In view of current deficiency of ambiguity in analytic results of economic hubs and transmission mechanisms,we propose to introduce more broadly marginal dependence linkages. A coupled model named APL-HCG (APL with hub covariance graph) is proposed to analyze the hub wastewater discharge sectors and hub propagation chains in overall economic system. The basic conclusion is as follows: (1) We distinguish cost driven center sectors and cost driving center sectors in a general wastewater propagation network with wastewater discharge APL direct linkage in size. Metal Products, Machinery and Equipment Repair Services and Hydropower are two common seen cost driven centers,Papermaking，Printing and Cultural，Educational and Sporting Goods is a common seen cost driving center.(2) Regular distribution patern of hub sectors under wastewater APL framework remains consistent in year 2002,2012 and 2017. One side of the hubs belongs to the top highly discharge wastewater sectors but important to meet people's daily food, clothing, housing and transportation needs,the other side of hubs belongs to lightly water polluting sectors like hightech sectors and public service sectors.(3) It illustrates water protection and sustainable development of water resource has attracted much more attention as Sewage Treatment industry became a key hub since year 2O12. (4) For wastewater discharge control or wastewater treatment, the governance can implement with both hands. On the one hand,government may consider taking strict and efficient policies and measures to control wastewater discharge of highly water poluting sectors. On the other hand,the government can advocate lightly water polluting hub sectors to raise environmental protection requirements for products they used. (5） Textile shows the maximum effectiveness in wastewater reduction. The most important wastewater propagation chains imply that hub sectors like Textile should be considered as one of the best grips in wastewater treatment. (6)The transmission mechanisms about water supply and wastewater treatment evolve from heavy industry sources like Coal Mining and Washing Products,Oil and Gas Extraction Products to light industry source like
+
+Texitile. (7) Transmission mechanism originating from Food Manufacturing and Tobacco Processing>Catering always play significant role in water supply and wastewater treatment. (8） Denselyconnected block structures including sectors Water Supply， Sewage Treatment and Water Management are found in hub wastewater propagation network with wastewater discharge APL direct linkage in size. In a word,with the illumination of propagation chains in general wastewater propagation networks，hub sectors,hub transmisson chains and hub block structures in hub wastewater propagation networks, it may reflect the evolutionary and most significant transmission mechanisms in a more broadly marginal dependence linkages aspect.
+
+# ACKNOWLEDGEMENTS
+
+I gratefully thank Professor Xiuli Liu, Ph.D Xin Xiang and Ph.D Minghui Qin for comments on the methodology and earlier draft of this manuscript.
+
+# References
+
+Erik Dietzenbacher, Isidoro Romero Luna and Niels S. Bosma. Using average propagation lengths to identify production chains in the Andalusian economy.Estudios de Economia Aplicada, 2Oo5,23(2): 405-422. Erik Dietzenbacher and Isidoro Romero. Production chains in an interregional framework: identification by means of average propagation lengths. International Regional Science Review, 2007, 30(4): 362-383. Isidoro Romero，Erik Dietzenbacher and Geoffrey J. D. Hewings. Fragmentation and complexity: analyzing structural change in the Chicago regional economy. Revista De Economia Mundial, 2009, 15(23): 263-282. Pol Antras, Davin Chor, Thibault Fally and Russell Hillberry. Measuring the upstreamness of 78 production and trade flows. American Economic Review: Papers & Proceedings,2012, 79 102(3): 412-416. 30 Zhiguo Deng and Xikang Chen. Analysis on Chinese product sectors' production chains and 31 their evolution based on APL model. Mathematics in Practice and Theory,20O8, 38(1): 53-59. 32 Xiaolin Lu and Xu Jian. Explaining the changes in ALPs by identifying ALPs important 33 coefficients: an empirical application of China. Journal of Systems Science and Complexity, 34 2013,26(3): 383-406. 35 Quanrun Chen. The average propagation length: an extended analysis. 22nd International 36 Input-Output Conference,Lisbon. 2014.
+
+Kean Ming Tan, Palma London,Karthik Mohan, Su-In Lee, Maryam Fazel and Daniela Witten. Learning graphical models with hubs. Journal of Machine Learning Research, 2014, 15: 3297-3331. Jonathan Eckstein and Dimitri P. Bertsekas. On the Douglas-Rachford splitting method and the proximal point algorithm for maximal monotone operators. Mathematical Programming, 1992, 55(3, Ser. A): 293-318. Shiqian Ma, Lingzhou Xue,and Hui Zou. Alternating direction methods for latent variable Gaussian graphical model selection. Neural Computation, 2013,25: 2172-2198. Stephen Boyd,Neal Parikh, Eric Chu,Borja Peleato,and Jonathan Eckstein. Distributed optimization and statistical learning via the ADMM. Foundations and Trends in Machine Learning, 2010, 3(1): 1-122. Jonathan Eckstein. Augmented Lagrangian and alternating direction methods for convex optimization: A tutorial and some illustrative computational results.Rutcor Research Reports,2O12,32: 1-34. Lingzhou Xue，Shiqian Ma,and Hui Zou.Positive definite $\ell { 1 }$ penalized estimation of large covariance matrices. Journal of the American Statistical Association, 2012,107(500):1480-1491. Mathias Drton and Thomas S. Richardson. A new algorithm for maximum likelihood estimation in Gausian graphical models for marginal independence. Proceedings of the 19th Conference on Uncertainty in Artificial Intelligence,2003: 184-191. Sanjay Chaudhuri, Mathias Drton,and Thomas S. Richardson. Estimation of a covariance matrix with zeros. Biometrika, 2007,94(1): 199-216. Mathias Drton and Thomas S.Richardson. Graphical methods for efficient likelihood inference in Gaussian covariance models. Journal of Machine Learning Research, 2Oo8, 9: 893-914. Erik Dietzenbacher, Isidoro Romero.Production chains in an interregional framework: identification by means of average propagation lengths. International Regional Science Review, 2OO5, 30(4): 362- 383. 419
+
+414 Appendix A. Water Resource Input-Occupancy-Output Table Format for 415 Year 2002, 2007, 2012 and 2017   
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Output</td></tr><tr><td>Intermediate Demand</td><td>Final Demand</td><td>Total Output</td></tr><tr><td rowspan="3">Input</td><td>Intermediate Input</td><td>Z</td><td>f</td><td>X</td></tr><tr><td>Value-added</td><td>V</td><td></td><td></td></tr><tr><td>Total Input</td><td>X</td><td></td><td></td></tr><tr><td>Occupancy</td><td>Water Consumption</td><td>W1</td><td>Wf</td><td>W</td></tr><tr><td></td><td>Wastewater Discharge</td><td>WD1</td><td>WDf</td><td>WD</td></tr><tr><td></td><td>Chemical Oxygen Demand</td><td>COD1</td><td>CODf</td><td>COD</td></tr><tr><td></td><td>Ammonia Nitrogen Emissions</td><td>NH1</td><td>NHf</td><td>NH</td></tr><tr><td></td><td>Coal Consumption</td><td>C</td><td>Cf</td><td>C</td></tr><tr><td></td><td>Crude Oil Consumption</td><td>C01</td><td>COf</td><td>CO</td></tr><tr><td></td><td>Natural Gas Consumption</td><td>NG1</td><td>NGf</td><td>NG</td></tr><tr><td></td><td>Total Primary Energy Consumption</td><td>TPE1</td><td>TPEf</td><td>TPE</td></tr><tr><td></td><td>Employed Population</td><td>EP1</td><td></td><td>EP</td></tr><tr><td></td><td>Capital Deposit</td><td>CD1</td><td></td><td>CD</td></tr><tr><td></td><td>Sulfur Dioxide Emissions</td><td>S021</td><td>S02f</td><td>S02</td></tr><tr><td></td><td>Carbon Dioxide Emissions</td><td>C02</td><td></td><td>C02</td></tr></table></body></html>
+
+<html><body><table><tr><td>Code</td><td>Sector</td><td>Code</td><td>Industry</td></tr><tr><td>S1</td><td>Agricultural Products</td><td>S26</td><td>Waste Resources and Waste Material Recycling Processed Products</td></tr><tr><td>S2</td><td>Forest Products</td><td>S27</td><td>Metal Products, Machinery and Equipment Repair Services</td></tr><tr><td>S3</td><td>Animal Husbandry Products</td><td>S28</td><td>Electricity, Steam and Hot Water Production and Supply (Excluding Water and Electricity)</td></tr><tr><td>S4</td><td>Fishery Products</td><td>S29</td><td>Gas Production and Supply</td></tr><tr><td>S5</td><td>Agriculture, Forestry,Animal Husbandryand Fishery Service Products</td><td>S30</td><td>Construction</td></tr><tr><td>S6</td><td>Coal Mining and Washing Products</td><td>S31</td><td>Merchandise Transportation and Storage (Excluding Water Transportation)</td></tr><tr><td>S7</td><td>Oil and Gas Extraction Products</td><td>S32</td><td>Postal Service</td></tr><tr><td>S8</td><td>Metal Mining Products</td><td>S33</td><td>Business</td></tr><tr><td>S9</td><td>Non-metallic Mining Products</td><td>S34</td><td>Catering</td></tr><tr><td>S10</td><td>Food Manufacturing and Tobacco Processing</td><td>S35</td><td>Information Transmission, Computer Services and Software</td></tr><tr><td>S11</td><td>Textile</td><td>S36</td><td>Finance and Insurance</td></tr><tr><td>S12</td><td>Textile Clothing, Shoes,Hats, Leather,Down and Their Products</td><td>S37</td><td>Real Estate</td></tr><tr><td>S13</td><td>Wood Processing and Furniture</td><td>S38</td><td>Scientific Researchand Technical Services</td></tr><tr><td>S14</td><td>Papermaking, Printing and Cultural, Educational and Sporting Goods</td><td>S39</td><td>Environment and Public FacilitiesManagement</td></tr><tr><td>S15</td><td>Petroleum, Coking Products and Nuclear Fuel Processed Products</td><td>S40</td><td>Resident Services,Repairs and Other Services</td></tr><tr><td>S16</td><td>Chemical Products</td><td>S41</td><td>Education</td></tr><tr><td>S17</td><td>Non-metallic Mineral Products</td><td>S42</td><td>Health and Social Work</td></tr><tr><td>S18</td><td>Metal Smelting and Calendered Products</td><td>S43</td><td>Culture,Sports and Entertainment</td></tr><tr><td>S19</td><td>Metal Products</td><td>S44</td><td>Public Administration, Social Security and Social Organization</td></tr><tr><td>S20</td><td>Mechanical Equipment</td><td>S45</td><td>Hydropower</td></tr><tr><td>S21</td><td>Transportation Equipment</td><td>S46</td><td>Water Supply</td></tr><tr><td>S22</td><td>Electrical Machinery and Equipment</td><td>S47</td><td>Sewage Treatment</td></tr><tr><td>S23</td><td>Communication Equipment, Computersand OtherElectronic Equipment</td><td>S48</td><td>Water Transportation</td></tr><tr><td>S24 S25</td><td>Instrumentation Other Manufactured Products</td><td></td><td>S49Water Management</td></tr></table></body></html>
+
+420 421 422
+
+# 423 Appendix C. Hub wastewater propagation chains with wastewater APL 424 direct linkage in size and labeled each linkage with direct wastewater 425 discharge amount in cost driving aspect (denoted by out arrows).
+
+Hub wastewater propagation chains (2002)
+
+![](images/41570e8e350fe21442e7257bafe0fcdb6b428252d691ff9a98a0b98dfa5ec98f.jpg)
+
+![](images/136d9cd87e7e3f8cbe919b166b055c92968641123793093253ffa44f7b0c1a05.jpg)  
+Hub wastewater propagation chains (2007)
+
+![](images/6efe7a2c25a0570113748e294ed4aa7fe36a8fb76fb820111d9695213cfbb9d2.jpg)  
+Hub wastewater propagation chains (2012)
+
+![](images/78d9eea8e5598bd52515aca93dc6ad2588450806ee324e746f8e10395df4f6a7.jpg)  
+Hub wastewater propagation chains (2017)
+
+# Appendix D. Wastewater discharge amount of hub wastewater discharge propagation chains with wastewater discharge APL direct linkage in size in 2002, 2007, 2012 and 2017, measured in 100 million cubic meters.
+
+<html><body><table><tr><td>Year</td><td>Hub.Chain.1</td><td>Hub.Chain.2</td><td>Hub.Chain.3</td><td>Hub.Chain.4</td><td>Hub.Chain.5</td><td>Hub.Chain.6</td></tr><tr><td>2002</td><td>22.12(5.03%)</td><td>2.40(0.55%)</td><td>0.60(0.14%)</td><td></td><td></td><td></td></tr><tr><td>2007</td><td>10.98(1.97%)</td><td>6.05(1.09%)</td><td>0.46(0.08%)</td><td>0.15(0.03%)</td><td>0.00(0.00%)</td><td>=</td></tr><tr><td>2012</td><td>7.66(1.12%)</td><td>5.53(0.81%)</td><td>2.63(0.38%)</td><td>0.28(0.04%)</td><td>0.25(0.04%)</td><td>0.03(0.00%)</td></tr><tr><td>2017</td><td>12.09(1.73%)</td><td>7.73(1.10%)</td><td>7.36(1.05%)</td><td>0.06(0.01%)</td><td></td><td></td></tr></table></body></html>
+
+# Appendix E. Hub wastewater propagation chains with wastewater APL linkage in size.
+
+![](images/2af741bb656e4ed3742b413fa39c332aff64d4c6485094bf9c8d620d65d97c78.jpg)  
+Hub wastewater propagation chains (2002)
+
+![](images/ab87b6eeed4f637035bc937b4e61588fd6646a2b62414b28b05dcc1154704ada.jpg)  
+Hub wastewater propagation chains (2007)
+
+![](images/cf03e7bc5783891c8c0ac2762d88c28511bb0aa119def5a87f142be2712034bf.jpg)  
+Hub wastewater propagation chains (2012)
+
+![](images/f5d7456c54be9351206b6c424b7b973caaa78b6676e96f187bc0afb6a1f7a344.jpg)  
+Hub wastewater propagation chains (2017)
+
+Appendix F. The heat maps of $\mathbf { Z }$ and V in hub covariance graph of 2002, 2007, 2012 and 2017.
+
+![](images/613cfed53419e5ef8c6b1854ad8b74bec17439fe2bdcae114b89da0838a17ad6.jpg)
+
+![](images/607b5e38f06cb5249db16d94222f6370131df7a1f6a88d28113798811cee76fa.jpg)
+
+![](images/fd445e59a1d9ea663f07720d206a2fa91d078714e6014dfa48e13072e28cfede.jpg)
+
+![](images/e0c16e7951b9ed4108ef206021d3723e7669ea1ef12320273dcca6b50b567e89.jpg)

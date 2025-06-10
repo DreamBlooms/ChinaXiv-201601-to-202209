@@ -1,0 +1,469 @@
+[
+    {
+        "type": "text",
+        "text": "对2015年9月28日月全食期间月基光学望远镜图像中宇宙线",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "事件的分析研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘奇1²，王竞³，黄茂海²，魏建彦1,2（1.中国科学院国家天文台空间天文与技术重点实验室，北京，100101;2.中国科学院大学，北京，100049;",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3.广西大学物理科学与技术学院广西相对论天体物理重点实验室，广西 南宁 530004)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：2015年9月28日月基光学望远镜在其任务期间经历了唯一一次完整的月全食过程，为研究地球对太阳光的几何遮挡是否会对月面辐射环境产生影响提供了难得机遇。首先，利用月食期间连续长达2小时27分的CCD天文观测图像，统计分析了月食期间的宇宙线事件计数，发现月食期间宇宙线计数不存在明显变化，在30秒曝光时间内，宇宙线事件平均计数为 $1 2 9 . 2 7 ( \\pm 1 5 . 7 8 )$ ；其次，还分析了8月、10\\~12月采集的CCD暗场图像中的宇宙线事件计数，分别为 $1 1 9 . 9 2 ( \\pm 6 . 3 7 )$ 次、 $1 1 7 . 0 0 ( \\pm 1 0 . 9 0 ) \\$ 次、 $1 1 8 . 6 1 ( \\pm 8 . 9 4 ) \\$ 次、 $1 2 3 . 9 0 ( \\pm 8 . 9 2 ) \\$ 次，在$1 \\sigma$ 误差分为内，与月食期间的宇宙线事件计数一致，说明地球对太阳的几何遮挡对月面辐射环境没有产生明显影响。最后，文章对以上结果进行了分析讨论。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：月面辐射环境；月基光学望远镜；宇宙线；",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：P172.4 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "月基光学望远镜（Lunar-based Ultraviolet Telescope，LUT）是安装于嫦娥三号着陆器上的科学有效载荷，其主要科学目标是利用月球极慢的自转和极为稀薄的真空环境，在近紫外波段对各种天文变源的亮度变化进行长时间的连续监测[1]。自2013年12月16日开机观测以来，LUT顺利完成了3年的天文观测任务，并额外进行了2年的拓展实验，在此期间积累了海量的原始图像数据。LUT图像中除观测目标源外，还存在着很多亮度高、轮廓多数情况下比恒星星像大的宇宙线事件。LUT是在月面观测，其探测器可直接遭受银河宇宙线、太阳宇宙线以及太阳风等带电粒子的轰击[2]。这些带电粒子打在CCD靶面上，激发产生电子-空穴对，这些电子-空穴对同光子产生的电子-空穴对一样被CCD收集读出，在图像中表现为“线状\"或“点状”结构，甚至有些形态与恒星目标源类似，对后续图像处理产生干扰。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "嫦娥三号着陆器设备工作时的电能来自太阳光照射提供的能量，因此LUT只能在月昼期间观测。2015年9月28日发生了一次月全食，这是LUT在其任务期间所经历的唯一一次完整的月全食过程。在全食过程中，由于地球对太阳光辐射的几何遮挡，LUT不会直接暴露在太阳光辐射之下。本文通过分析月食发生期间及前后一段时间中CCD图像中宇宙线事件计数，来研究地球对太阳风粒子和太阳宇宙线的几何遮挡是否会引起月面辐射环境的变化。通过文献调研，很可能是首次使用月面天文CCD图像来研究月面辐射环境。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着嫦娥探月工程的开展，我国科研人员对月面空间环境的研究做出了显著贡献。欧阳自远、叶培建、褚桂柏等对月面和近月空间环境做了综述性总结[3-5]，近月空间辐射环境分为太阳电磁辐射和带电粒子辐射；月球表面上可遭遇的带电粒子辐射主要来源于太阳宇宙线、银河宇宙线以及太阳风；在没有太阳光照射的情况下，太阳风粒子依然存在，可对月尘产生充电效应。薛玉雄等分析了月球探测器着陆月面上之后所遭受的辐射环境，在月昼期间,探测器所面临的辐射环境与在环月轨道上基本相似，即主要包括太阳风和银河宇宙线，如遇太阳耀斑爆发则有太阳宇宙线；月夜期间，由于月球的几何遮挡，月球探测器只遭遇银河宇宙线。王馨悦等[7利用太阳高能粒子探测器（High-energetic Particles Detectors，HPD）高能电子数据和太阳风离子探测器（SolarWindIon Detectors，SWIDs）等离子体数据分析发现，太阳活动低年、空间环境扰动水平相对较低、月球处于太阳风中时，近月空间带电粒子环境的基本特征与行星际空间相比变化不大。王晓栋等[利用\"嫦娥1号\"SWIDs的数据发现了月球晨昏线附近太阳风离子经月面散射，被对流电场加速的现象。王洁和秦刚等[利用“嫦娥1号\"HPD高能粒子数据对月球轨道的磁层屏蔽效应进行了分析研究，当月球位于地球磁层内，没有发现明显的地球磁层屏蔽效应。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文利用LUT月食期间的观测数据，研究月食期间月面辐射环境是否存在变化；结合月食前后几个月的暗场数据，进一步对比研究了地球对太阳光的几何遮挡是否会对月面辐射环境产生影响。首先，对于月食期间的观测数据，我们采用了天文位置定标的方法识别提取了宇宙线；对于暗场图像，我们采用了直接识别提取的方法。文章最后在考虑图像拍摄期间太阳活动情况的前提下，对宇宙线事件发生的概率进行对比分析，讨论研究了地球几何遮挡对月面辐射环境的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1月基光学望远镜系统简介",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/babaed494555d909068ef2922abdcde756e6da475c139cb5f5200c9ea78b60a5.jpg",
+        "img_caption": [
+            "图1月基光学望远镜。（a）光路设计图；（b）横截面图",
+            "Fig.1 Image on the left is the cross sectional view ofLUT,and on the right is LUT light path. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LUT望远镜的光路设计图和横截面图如图1所示。望远镜采用R-C系统设计，焦比为F/3.75，其主镜直径 $1 5 0 \\mathrm { m m }$ 。为了缩短整个仪器的长度，使用了一个平面镜将光线反射到耐氏焦点，CCD安装在耐氏焦点上，型号为E2V公司生产的CCD47-20的帧转移CCD。含有 $1 0 2 4 \\times 1 0 2 4$ 像元，像元尺寸为 $1 3 \\times 1 3 \\mu \\mathrm { m }$ ，CCD制冷可达到 $. 4 0 ^ { \\circ } \\mathrm { C }$ 。LUT的主要技术指标见表1[10]。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/0c1fa998797aa41e288363c3c995a12b287af1edb550c1a68d1c5f72030727e0.jpg",
+        "table_caption": [
+            "表1月基光学望远镜的特征参数 Table1The Main Characteristics ofLUT "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Item</td><td>Value</td></tr><tr><td>Focal ratio</td><td>3.75</td></tr><tr><td>Diameter</td><td>150mm</td></tr><tr><td>Field of View（FOV)</td><td>1.36×1.36degree2</td></tr><tr><td>Active pixels</td><td>1024×1024pixel</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/685c894c6f8e702cbd0a39d2718f0b178fac02d3d0522fc52f8215ed00a85c47.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Pixel scale</td><td>4.76(arcsec/pixel)</td></tr><tr><td>Readout noise</td><td>8(e-1/pixel)</td></tr><tr><td>Dark current</td><td><0.2(e-1/pixel/s)</td></tr><tr><td>Reflector elevation</td><td>[+20°，+38°]</td></tr><tr><td>Reflector azimuth</td><td>[-28°，+13°]</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2数据选取与处理流程",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2015年9月28日，LUT在巡天观测过程中经历了一次完整的月全食过程。LUT在月食发生的4个小时内共拍摄了374帧图像，我们分析了整个过程中天空背景亮度的变化，结果如图2所示。图2中，横坐标是UT时间，纵坐标是每个像元的背景亮度计数。从图示可知，LUT观测图像在整个月食过程中，图像的天空背景亮度经历了一次由亮变暗、再变亮的过程。自2015年09月28日01:27:49.23UT到03:55:03.95UT共计2个小时27分，天空背景亮度最低，嫦娥三号着陆器着陆点完全进入了月食阴影区，因此我们选择这段时间内拍摄的230帧图像作为月食期间的观测数据，分析研究月食期间宇宙线事件的变化情况。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1f6cb06b3a131b59d22399de01669754569f45632c45155ea7945c8238284c6a.jpg",
+        "img_caption": [
+            "图2月全食过程中天空背景亮度的变化",
+            "Fig.2 The change of sky background during eclipse "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "作为对照样本，还选取了2015年8月、10月、11月、12月LUT拍摄的暗场图像，用来对比研究月食期间地球遮挡对月球表面宇宙线环境的影响。选择暗场图像的原因是，LUT在拍摄暗场时舱门关闭，处于黑暗环境，不受月昼阳光及恒星的影响，最接近月全食时暗背景环境；同时，舱门很轻薄，对宇宙线的穿透没有明显影响。最终选取数据的具体信息如表2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/6ada5ac362469b89c4da1e257d6599851395738ca2283fd828fd31f7a355bfac.jpg",
+        "table_caption": [
+            "表2数据信息Table 2Data information"
+        ],
+        "table_footnote": [
+            "2.1月食期间观测图像的处理"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Exposure start time</td><td>Image type</td><td>Exposure time(s)</td><td>Number</td><td>Temperature of cooler(℃)</td></tr><tr><td>2015-08-25</td><td>09:35:00.26</td><td>Dark</td><td>100</td><td>11</td><td>-40</td></tr><tr><td>2015-09-28</td><td>01:27:49.23</td><td>Object</td><td>30</td><td>230</td><td>-36</td></tr><tr><td>2015-10-23</td><td>08:35:00.40</td><td>Dark</td><td>100</td><td>11</td><td>-39</td></tr><tr><td>2015-11-21</td><td>11:35:00.98</td><td>Dark</td><td>100</td><td>11</td><td>-39</td></tr><tr><td>2015-12-21</td><td>07:45:01.01</td><td>Dark</td><td>100</td><td>11</td><td>-40</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在LUT的观测数据中存在很多形态轮廓与恒星星像类似的宇宙线事件。传统的宇宙线识别算法（例如，中值滤波法、拉普拉斯边缘检测法、基于直方图的快速算法以及万能噪声消除算法等）[I对于此类宇宙线事件的识别效率并不高，并存在一定的错误识别。本文采用了一种基于天文位置定标的检测方法提取图像中的宇宙线事件。相比于其他方法，可以更有效的从单次曝光的图像中识别出宇宙线事件。数据处理详细流程参见文献[12]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于天文位置定标的宇宙线检测算法流程概述如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）图像预处理。本文对LUT月食中图像的预处理主要包含了对偏置场（Bias）、平场（Flat）及暗场（Dark）的校准。偏置场用来校准零时间测量下的直流零点，平场用来校准  \nCCD器件的非均匀量子效应，暗场用来校准无光照情况下的暗电流噪声。（2）背景扣除。月食期间LUT处于巡天观测模式，在相邻采集的图像中，恒星的星像位  \n置有几个像元的差别。为了获得背景拟合图像，我们首先将序列观测图像进行分组；然后对  \n每一帧图像，使用除自身外其它的同组图像进行中值合并，得到其对应的背景拟合图像；最  \n后每一帧图像减去其相对应的背景拟合图像，同时也剔除了图像中的“热点”和“坏点”。  \n扣除了背景的图像保留了恒星星像和宇宙线[13]。（3）天文位置定标。对每帧扣除了背景的图像提取5\\~10颗亮星，获得其位置和亮度信息，  \n再与第谷星表（Tycho_2.0）进行位置和亮度双层匹配，利用第谷星表的高精度J2000天文坐  \n标实现天文位置定标，定标精度约1角秒。（4）提取宇宙线候选体。利用SEXtractor软件对LUT图像提取宇宙线候选体，其判据包含  \n两条：（1）单像元计数大于5倍的背景噪声；(2）连通像元数大于等于4。根据天文位置定  \n标参数，计算获得每个候选体相对应的J2000天文坐标。（5）证认识别宇宙线样本。宇宙线候选体中包含了一些恒星星像，需要剔除。将宇宙线  \n候选体与tycho_2.0星表和USNO_B1.0星表进行位置交叉认证，剔除样本中的恒星星像，获  \n得宇宙线样本。图3给出了LUT月食期间观测图像的效果图。其中图3（a）为原始图像，图3（b）为预处  \n理及扣除背景后的效果图。和图3（a）相比较，可以看出图3（b）中的背景及噪声已经得到  \n了很好的扣除。图3(c)展示了对图3（b）的宇宙线识别结果，其中宇宙线事件用蓝色圆圈标",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "记，恒星星像用红色圆圈标记。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3ef85ea092747be9bf45d9caca5332a4ca9e9fad4363a7b0f624b96bf3a97103.jpg",
+        "img_caption": [
+            "图3（a）LUT月食中巡天原始图像；（b）预处理后图像；（c）标识出宇宙线及星像图像",
+            "Fig.3(a)OriginalskysurveyimageofLUTduring eclipse; (b)Preprocessed image;(c)Imageidentifiedcosmicraysandstars "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 LUT暗场图像的处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "暗场图像是CCD器件在完全黑暗环境中曝光一定时间后所得的图像。理论上暗场图像包含了两部分，一部分是本底场的偏置电压读数；第二部分是CCD器件在曝光时间内，像元间暗电流产生的热噪声。从LUT的暗场图像发现，有一部分像元的亮度值明显超出平均值。这些超亮的像元，如果每帧都发生，通常认为是“热点”或者“坏点”；如果是偶然发生，通常认识是宇宙线事件。我们将暗场图像中的宇宙线事件作为目标进行识别提取，具体处理",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "方法概述如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）图像预处理。如同对LUT月食期间数据处理一样，本文对暗场图像进行减本底的预  \n处理操作。（2）扣除暗电流噪声。预处理后的暗场图像通过多帧图像中值合并，可将偶发宇宙线事  \n件剔除掉。得到这组暗场图像的平均暗电流图像；然后每一帧暗场图像减去其相对应的平均  \n暗电流图像；扣除了暗电流噪声的图像保留了宇宙线事件，同时也剔除了图像中的“热点”  \n和“坏点”。（3）提取宇宙线样本。为了保证宇宙线样本的一致性，在宇宙线识别提取时，采用了相  \n同的判据。为了确定宇宙线事件的亮度阈值，首先计算得到每个月的暗场图像背景噪声，以  \n及月食期间图像的背景噪声，结果见表3。4个月的暗场图像背景噪声在5.81\\~5.92ADU之间，  \n小于月食期间的背景噪声6.87ADU，因此亮度阈值统一取值为 ${ 5 \\times 6 . 8 7 \\mathrm { A D U } }$ 。因此，宇宙线  \n识别提取的判据包含以下两条：（1）亮度阈值大于34.35ADU；（2）连通像元数大于等于4。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3图像背景起伏及提取参数",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/71094aae28de60bc29291e98d634bb2fd399aa0f1885935ddab9e131c1a90729.jpg",
+        "table_caption": [
+            "Table3RMSandDETECTTHRESHofLUT "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Image</td><td>8.25 Dark</td><td>9.28 Eclipse</td><td>10.23Dark</td><td>11.21 Dark</td><td>12.21 Dark</td></tr><tr><td>RMS /ADU</td><td>5.81</td><td>6.87</td><td>5.92</td><td>5.82</td><td>5.87</td></tr><tr><td>DETECT_THRESH</td><td>5.91</td><td>5</td><td>5.81</td><td>5.90</td><td>5.85</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图4给出了LUT暗场图像处理流程的效果图。其中图4（a）为原始暗场图像，图4（b）为预处理及扣除暗电流噪声后的效果图。和图4（a）相比较，可以看出图4（b）中的系统噪声已经被扣除。图4(c)展示了对图4（b）的宇宙线识别结果，其中宇宙线事件用蓝色圆圈标记。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/46facff95108a3d2ec29cdc37eec3260fcdd55ffe76463cc76e17a3d4d8c67ce.jpg",
+        "img_caption": [
+            "图4（a）LUT暗场原始图像；（b）预处理后图像；（c）标识出宇宙线后图像Fig.4(a) Original Dark of LUT;(b) Preprocessed image;(c) Image identified cosmic ray:"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3统计分析与结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1月食期间宇审线事件的统计分析",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "应用天文位置定标的方法对LUT在月食期间实拍的230帧图像进行了宇宙线事件的识别和提取，结果如图5所示。其中，横坐标是每帧图像开始曝光的UT时间，纵坐标是每帧图像中宇宙线事件的数目。本文算法识别提取宇宙线事件共计29731例，统计平均值为129.27(±15.78)次每帧。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/982a1cd3fa24c8ebd2d3be4e54325df88b11ca8d0d306e619763f18271e31662.jpg",
+        "img_caption": [
+            "图5月食期间每帧LUT图像中宇宙线事件数量统计图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了研究月食期间月面辐射环境是否存在变化，我们按照时序分组统计分析了月食期间宇宙线事件的平均计数。将230帧图像分为7组，前六组每组含33帧，第七组含32帧图像，分组统计结果见表4，如图6所示。图6中，横坐标是每组图像的曝光的起止UT时间，纵坐标是每组图像中宇宙线事件的平均数和1σ误差。很明显，在1σ误差范围内，月食期间宇宙线事件没有发生变化，说明月面辐射环境没有发生明显改变。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表4月食期间LUT图像分组及中宇宙线事件发生平均次数",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/c8a0ad6f2f67e74f0e55f21026524fb72f9ac6161e0ae789b5c8b7bb62160e90.jpg",
+        "table_caption": [
+            "Table 4 LUT image grouping and the mean number of CR in each group during eclipse "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Group</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>UT time of Group</td><td>01:27:49~</td><td>01:48:47~</td><td>02:10:31~</td><td>02:31:37~</td><td>02:52:36~</td><td>03:13:39~</td><td>03:34:38~</td></tr><tr><td></td><td>01:48:10</td><td>02:09:53</td><td>02:30:59</td><td>02:51:59</td><td>03:13:02</td><td>03:34:01</td><td>03:54:21</td></tr><tr><td>Images Number per Group</td><td>33</td><td>33</td><td>33</td><td>33</td><td>33</td><td>33</td><td>32</td></tr><tr><td>Mean CR Numer per Group</td><td>123.03</td><td>127.91</td><td>132.70</td><td>129.85</td><td>130.33</td><td>132.27</td><td>128.75</td></tr><tr><td>Std CR Numer per Group</td><td>14.13</td><td>16.26</td><td>13.62</td><td>20.46</td><td>14.97</td><td>17.72</td><td>10.64</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/06087550d0aa7229bf14ff433d6a1b1d34bd26c4d942a4600f40c9f081561154.jpg",
+        "img_caption": [
+            "Fig.5 The number of cosmic rays of LUT during eclipse ",
+            "图6月食期间每组LUT图像中宇宙线事件发生平均计数统计图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2月食前中后期宇宙线事件对比分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了研究地球对太阳的几何遮挡是否会对月面辐射环境产生影响，我们对比分析了月食期间和月食前后的宇宙线事件变化。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文进一步分别对2015年8月、 $1 0 { \\sim } 1 2$ 月，月食前后四个月每月LUT拍摄的暗场图像中的宇宙线事件进行了统计分析，结果如图7所示。图7中，横坐标是每组暗场图像的图像时序编号，纵坐标是每帧暗场图像中宇宙线事件的计数。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ree 400 e 400   \n350 350   \n300 300 300 300   \n1234567891011 1234567891011 1234567891011 1234567891011   \n8.25Dark 10.23Dark 11.21 Dark 12.21 Drak ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "8月，10月、11月、12月LUT暗场图像中宇宙线事件每帧图像平均计数分别为399.72（±21.25）次、390.00（±36.32）次、395.36（±29.81）次、413.00（±29.72）次。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "已知月食期间图像的曝光时间为30秒，暗场图像的曝光事件为100秒。为了方便对比分析，我们将统计时间统一规划到30秒，得到宇宙线事件在30秒时间内发生的次数如表5所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表5暗场图像中单位时间（30s）内宇宙线事件平均计数",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/fc8b969f203359d304d146714856a3e42de65ae6a7f3a36467011130ec9bd91a.jpg",
+        "table_caption": [
+            "Table 5 The number of cosmic rays per 3O sec of dark "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Data /day</td><td>8/25 dark</td><td>9/25 eclipse</td><td>10/23 dark</td><td></td><td>11/21 dark</td><td>12/21 dark</td></tr><tr><td>Number</td><td>/LUT/30 sec</td><td>119.92(± 6.37)</td><td>129.27(±15.78)</td><td>117.00(±10.90)</td><td>118.61(±8.94)</td><td>123.90(±8.92)</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从表5所示可知，在1σ误差范围内，月食前、中、后期宇宙线事件没有发生变化，说明地球对太阳的几何遮挡对月面辐射环境没有产生明显影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "月球表面上可遭遇的带电粒子辐射主要来源于银河宇宙线、太阳宇宙线以及太阳风[3-5]。结合本文对LUT月食期间观测图像及月食前后暗场图像中的宇宙线事件数量进行了对比分析。发现月食的发生并没有影响到LUT图像中宇宙线事件的发生概率。文章分别对银河宇宙线、太阳宇宙线，及太阳风粒子在月食前后对LUT图像中宇宙线事件的影响进行讨论。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "行星际空间银河宇宙线的空间分布基本上是各向同性的，主要由通量很低、能量在( $1 0 ^ { 8 } \\sim$ $1 0 ^ { 1 9 } ) \\mathrm { e V }$ 的带电粒子组成。研究表明，地球磁层不能对月球轨道附近宇宙线粒子产生显著的磁屏蔽效应[14]。因此，我们认为月面环境下，月食时地球对太阳的几何遮挡不会造成月面银河宇宙线事件的明显变化。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "太阳宇宙射线是在太阳耀发时喷射出来的能量在 $( 1 0 ^ { 5 } { \\sim } 1 0 ^ { 1 0 } ) \\mathrm { e V }$ 的高能粒子，只有当遇到太阳耀斑爆发时月面才可遭遇太阳宇宙线轰击[7。我们对2015年8\\~12月期间太阳活动情况进行了查询。依据太阳和太阳圈探测器（Solar and Heliospheric Observatory，SOHO）卫星数据和比利时皇家天文台（Royal Observatory of Belgium）数据，此期间太阳黑子及太阳耀斑发生情况如图8所示。图8中，横坐标是统计数据的日期，纵坐标是黑子及耀斑数量。从图可知，太阳黑子数及耀斑数此期间并没有发生明显变化，太阳黑子数在长周期中属于中等水平。说明在此期间LUT图像遭受的太阳宇宙线事件比较平稳。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f20e59261f99c24e35f64e04eb25c24ea3a2bb94b79f76420a459e93e70a980f.jpg",
+        "img_caption": [
+            "图8观测期间耀斑及太阳黑子数量，及LUT图像中宇宙线事件数量"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.8 The number of cosmic rays ofLUT,and the number of solar flares and sunspots during the observation per ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "太阳风是由电子和离子(主要是质子)组成的等离子体，无论是否有太阳光照射，月面都有太阳风粒子存在[3-5]。平静期太阳风的平均速度约为 $4 0 0 \\mathrm { k m / s ^ { [ 1 4 ] } }$ ，太阳风粒子到达月面的典型时标是3\\~4天。月食期间LUT采集图像2小时27分钟，远小于太阳风粒子到达月面所需的时标，因此，很难检测到地球对太阳的几何遮挡对太阳风粒子的影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4总结 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "LUT因在月面观测，其图像中存在着很多亮度高、影响面积大、形态与星像类似的宇宙线事件。统计分析这些宇宙线事件发生概率可为研究月面辐射环境提供一定的数据支持。并且LUT在2015年9月28日其巡天任务期间经历了唯一一次完整的月全食过程本文针对LUT图像中宇宙线形态特征，运用天文位置定标的方法，能够精确的将特定亮度的宇宙线事件和图像中的恒星星像区分开。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "文章对LUT在2015年9月月食发生期间拍摄的230帧巡天观测数据进行分析，识别提取到4连通高于5倍背景起伏的宇宙线事件29931例；统计得出，月食期间LUT图像中宇宙线事件平均发生的概率为 $1 2 9 . 2 7 ( \\pm 1 5 . 7 8 )$ 次每帧；月食发生期间，在LUT图像中宇宙线事件的发生概率不变，在此期间月面辐射环境并没有发生变化。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "作为对比，文章对2015年8月、10\\~12月4个月中LUT每月拍摄的暗场图像中特定亮度宇宙线事件进行了识别提取。在30秒曝光时间内，暗场图像中宇宙线事件平均计数分别为119.92( $\\pm 6 . 3 7 )$ 次、 $1 1 7 . 0 0 ( \\pm 1 0 . 9 0 ) \\$ 次、 $1 1 8 . 6 1 ( \\pm 8 . 9 4 )$ 次、 $1 2 3 . 9 0 ( \\pm 8 . 9 2 )$ 次。误差范围内与月食期间的宇宙线事件计数一致，说明地球对太阳的几何遮挡对月面辐射环境没有产生明显影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "最后，分别从银河宇宙线，太阳宇宙线，及太阳风粒子角度，对文章结果进行了分析讨论。银河宇宙线在行星际空间的分布基本上是各向同性的，并且地球磁层的磁屏蔽效应不会影响到月面辐射环境，月食的发生不会造成月面银河宇宙线事件的明显变化；太阳宇宙线只有在太阳耀斑爆发时才会轰击到月面，月食发生期间太阳耀斑活动稳定，LUT图像遭受的太阳宇宙线事件比较平稳；对于太阳风粒子，因其到达月面所需的时标远大于月食期间采集图像的时间，我们通过分析LUT图像宇宙线事件数据无法检测到地球对太阳的几何遮挡对太阳风粒子的影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由于LUT在其任务期间没有遭遇到剧烈太阳爆发事件，很遗憾我们失去了通过分析LUT数据来研究太阳爆发期间地球对太阳的几何遮挡是否会引起月面辐射环境变化的机会。本文对此不作深入讨论。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Research on cosmic rays in Lunar-based Ultraviolet Telescope lmages during Eclipse of September 28， 2015 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Liu $\\boldsymbol { \\mathfrak { Q } } \\boldsymbol { \\mathfrak { i } } ^ { 1 , 2 }$ ，Wang jing³1， Huang Maohai1,2，Wei Jianyan1,2 (1.KeyLaboratoryofSpaceAstronomyndcholgy,ationalAstronoicalObservatories,ineseAcadeyofiencs,eiing ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "100101, China; ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.University of Chinese Academy of Sciences,Beijing 1ooo49,China; ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "iKeyLaboratory forRelativistic Astrophysics,SchoolofPhysical ScienceandTechnology,Guangxi University,N ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "530004,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract: On September 28,2015,the Lunar-based Ultraviolet Telescope (LUT) experienced the only complete lunar eclipse during its mission, which provided a rare opportunity to study whether the Earth's geometric shielding of sunlight would affect the lunar radiation environment. Firstly, the count of cosmic rays in CCD astronomical images that lasted for 2 hours and 27 minutes during the eclipse was statistically analyzed,and it was found that there was no significant change. Within the 3O second exposure time,the average count of cosmic rays is 129.27 $( \\pm 1 5 . 7 8 )$ ： Secondly, the count of cosmic rays in dark field images collected in August and October to December were analyzed, which are 119.92 (± 6.37),117.00 (± 10.90),118.61 $( \\pm 8 . 9 4 )$ ,123.90 $( \\pm$ 8.92). Within $1 \\sigma$ error, it is consistent with the count of cosmic rays during the eclipse,indicate that the Earth's geometric shielding of the sun has no significant effect on the moon's radiation environment.Finally, the above results were analyzed and discussed. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words: Lunar Surface Radiation Environment; Lunar-based Ultraviolet Telescope; Cosmic Rays; ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]孙辉先，李慧军，张宝明，等.中国月球与深空探测有效载荷技术的成就与展望[J].深空探测学报，2017，4(6)：495-509.SUNHX,LIHJ,HANBM,etal.Achievementsand prospectofpayloadstechnlogyinChineseunaranddepspaceexploatio[J].Journal of Deep Space Exploration，2017，4(6):495-509.  \n[2] 陈磊，李飞，任德鹏，等.月面和近月空间环境及其影响[J].航天器工程，2010，19(05)：76-81.  \nCHENL，LIF，CAI ZB，etal.Lunar Surfaceand Near Lunar Space Environmentsand Their Efects[J].SPACECRAFTENGINEERING，2010，19(05):76-81.  \n[3]欧阳自远.月球科学概论[M].北京：中国宇航出版社,2005.  \nOUYANG ZY.The generality of the lunar science[M]. China Aerospace Press，2005.  \n[4]叶培建，肖福根.月球探测工程中的月球环境问题[J].航天器环境工程，2006(01)：1-11.  \nYEP J，XIAOFG.Ssues about Lunar Environment in Lunar Exploration[J].SPACECRAFT ENVIRONMENT ENGINEERING,2006(01): 1-11.  \n[5]褚桂柏，张熵.月球探测器技术[M].北京：中国科学技术出版社，2007.  \nZHU GB，ZHANG H.Lunar probe technology[M].Beijing： China Science and Technology Press，2007.  \n[6]薛玉雄，杨生胜，安恒，等.月球探测辐射环境分析[J].真空与低温，2011，17(03)： $1 4 5 \\substack { - 1 5 0 + 1 7 5 }$   \nXUE Y X,，YANG S S，AN H，et al. ANALYSIS OF RADIATION ENVIRONMENTFOR LUNAR EXPLORATION[J].Vacuum &Cryogenics，2011，17(03):145-150+175.[7]王馨悦，张爱兵，荆涛，等．近月空间带电粒子环境——“嫦娥1号\"嫦娥2号\"观测结果[J].深空探测学报，2019,6(2)：119-126.WANGXY，ZHANGAB，JINGT，etal.Thelunarcharged particle environmentbyChang'E-1andChangE-2[J].JouralofDeepSpace Exploration，2019，6（2）：119-126.  \n[8]WANGXDWEIB,WANGJ-S,etal.AccelerationofscateedsolawindprotosatthepolartenatorofteMoonultsfroChang'E-1/SWIDs[J].Geophysical Research Letters，2010，37（7）:1-5.  \n[9]王洁，秦刚.基于嫦娥一号高能粒子数据的地球磁层屏蔽效应研究[J].空间科学学报，2013，33（5）：532-539.WANGJ，QING.Studyofmagnetosphericshieldingefect withnergeticparticlesdatafromChang'E-1J].ChineseJouralofSpaceScience，2013，33（5）：532-539.  \n[10]WANGJ，CAOL，MENGXM，talPhotometricCalibrationoftheLunar-basedUltravioletTelescopforItsFirstSixMonthsofOperationontheLunar Surface SupportedbytheNationalNatural ScienceFoundationofChina[J].ResearchinAstronomyandAstrophysics，2015，15(7).  \n[11] 冯海霞，陈建军，邓建榕，等.CCD 图像中宇宙线u子甄选技术[J].天文研究与技术，2020，17(2)：201-209.  \nFengHX,ChenJJ,DengJR,etal.Cosmic-rayMuonsExtractionTechnologyiCCDImage[J].AstronomicalResearch&Techology2020，17(2):201-209.  \n[12]刘奇，王竞，魏建彦，等.嫦娥三号月基光学望远镜图像中的宇宙线：识别和样本[J].光学精密工程，2021.  \nLIUQ，WANGJ，WEIJY，etal.CosmicRaysinLunar-based UltravioletTelescopeImages:IdentificationandSample[J].OpticsandPrecision Engineering，2021.  \n[13]MENGXM，CAOL，QIUYL，etal.DataprocessingpipelineforpointingobservationsofLunar-basedUltravioletTelescope[J]Astrophysics and Space Science，2015，358(2).  \n[14]朱光武，李保权.空间环境对航天器的影响及其对策研究[J].上海航天，2002(04)：1-7.  \nZHUGW，LIBQ.Space Environment EfectandCountermeasure Researchon Spacecraf[J].AEROSPACE SHANGHAI，2002(04):1-7.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

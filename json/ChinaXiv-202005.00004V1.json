@@ -1,0 +1,452 @@
+[
+    {
+        "type": "text",
+        "text": "微咸水膜下滴灌对土壤盐分及棉花产量的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘雪艳¹，丁邦新'，白云岗²，陈星星²，肖军²（1．新疆农业大学草业与环境科学学院,新疆 乌鲁木齐830052;2．新疆水利水电科学研究院,新疆 乌鲁木齐830049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：合理利用微咸水资源灌溉对于缓解新疆南部地区淡水资源短缺的问题有着至关重要的意义。本文以库尔勒31团棉田为供试对象,淡水作为对照,利用排碱渠咸水与淡水不同比例混合,设置6种梯度配比,研究微咸水及咸水对棉田土壤盐分分布及产量的影响。结果表明： $\\textcircled{1}$ 随着矿化度的增加,各处理土壤盐分呈现不同程度的增加,其中处理5(全咸)增加程度最大,积盐率为 $1 3 1 . 0 3 \\%$ 。 $\\textcircled{2}$ 在垂直方向上，随着土层深度的增加,各处理土壤盐分在$2 0 \\sim 4 0 \\ \\mathrm { c m }$ 处达到峰值;在水平方向上,盐分累积程度的大小为：膜间 $>$ 宽行 $>$ 窄行。 $\\textcircled{3}$ 随着矿化度的增加,棉花的产量逐渐下降,棉花产量下降的主要因素是单株结铃数,而单铃重对棉花产量无明显影响。由膜下滴灌土壤盐分对棉花生长和产量的影响得出，当灌溉水的矿化度在淡咸水比为4:1（矿化度 $2 . 3 6 \\sim 3 . 3 9 \\mathrm { ~ g ~ } \\cdot \\mathrm { L } ^ { - 1 } ,$ 时对棉花生长的抑制作用较小，较对照处理相比，产量减少 $1 1 . 8 5 \\%$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：膜下滴灌；微咸水；土壤盐分；棉花产量；库尔勒；新疆 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "淡水资源的短缺是制约我国农业生产的主要因素，为了节约淡水资源，提高水资源的利用率，利用微咸水是解决农业生产与水资源之间矛盾的重要途径[1-2]。新疆南部存在丰富的微咸水[3],绝大部分在地下 $1 0 \\sim 1 0 0 \\mathrm { ~ m ~ }$ 处,极易开发和利用[4]。将矿化度较高的咸水直接进行灌溉，会导致盐分在土壤中累积，不利于农业可持续发展。将咸水与淡水进行不同比例的混合，可以有效提高水分利用效率，缓解南疆因淡水资源不足而造成的供需矛盾。膜下滴灌因其节水、节肥、增温、保湿、抑盐和可控性高等优势[5-7],在新疆得到大力推广。一方面膜下滴灌可以把盐分淋洗到根区以下，为作物的生存提供良好的环境;另一方面膜下滴灌可以抑制因表层土壤水分蒸发,造成盐分在表层累积的现象[8]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "将微咸水与膜下滴灌进行结合，可有效缓解淡水资源不足带来的压力。同时，微咸水膜下滴灌，存在次生盐渍化的风险。咸水本身携带大量盐分，经灌溉进入土壤后会累积在土壤中，并且膜下滴灌灌入的水量相对较少，淋洗程度有限，土体中的盐分并未排出土体[9-10],地表覆膜后对膜内外的水盐运移也会产生一定影响。因此，揭示覆膜条件下微咸水滴灌对土壤盐分的影响对微咸水的利用具有重要意义。前人对微咸水灌溉基础技术和理论进行了大量的研究，其中在微咸水灌溉条件下以土壤水盐运移以及棉花产量为重点，取得了一定成果。肖振华等[]研究表明：灌溉水带入土壤的盐分在土壤中累积与淋洗交替进行。当灌溉水矿化度小于 $3 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ L ~ } ^ { - 1 }$ 时,土壤剖面中的盐分处于平衡状态,超过 $\\ 3 . \\ 3 \\ \\mathrm { \\tt { g } } \\cdot \\mathrm { \\tt { j } }$ （204号${ \\mathrm { ~ L ~ } } ^ { - 1 }$ ,则有不同程度积盐，甚至发生中度次生盐化。郭仁松等[12]通过试验发现,矿化度为 $3 . 5 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ L ~ } ^ { - 1 }$ 处理的土壤含水量、含盐量在整个生育期呈上升趋势，且随矿化度增加而增大。谭帅[13连续多年开展微咸水膜下滴灌大田试验发现，生育期内根层土壤水分和盐分大小在膜间最大，宽行其次，窄行最小。曹永清[14]认为,微咸水灌溉 $( 4 . 6 1 ~ \\mathrm { d S } \\cdot \\mathrm { ~ m ~ } ^ { - 1 }$ )对棉花产量影响不大，但高盐度的咸水灌溉 $( 8 . 0 4 ~ \\mathrm { d } \\mathrm { S } \\cdot \\mathrm { ~ m } ^ { - 1 }$ ）会导致棉花产量显著降低，且减产幅度呈现逐年增加趋势。综上所述，确定合理的矿化度对有效控制土壤盐分增加和保证棉花产量具有重要意义。因此，本文结合当地生产实际，通过揭示膜下滴灌条件下不同矿化度对土壤盐分以及棉花产量的影响，制定合理的微咸水及咸水利用方案，为解决淡水资源短缺问题以及土壤盐渍化的防治提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验区新疆兵团第2师31团位于塔克拉玛干沙漠东北边缘，地处新疆巴州尉犁县境内，地理坐标为 ${ 8 5 ^ { \\circ } 2 4 ^ { \\prime } \\sim 8 8 ^ { \\circ } 3 0 ^ { \\prime } \\mathrm { E } , 3 9 ^ { \\circ } 3 0 ^ { \\prime } \\sim 4 2 ^ { \\circ } 2 0 ^ { \\prime } \\mathrm { N } }$ ,距尉犁县城$7 5 ~ \\mathrm { k m }$ ,距库尔勒市 $^ { 1 3 8 } \\ \\mathrm { k m }$ ，全团土地规划面积$3 6 ~ 5 8 6 . 7 ~ \\mathrm { h m } ^ { 2 }$ 。31团深处内陆腹地,属暖温带大陆性荒漠气候，日照时间长，气温高，冬寒夏热，昼夜温差大，无霜期长，特别适宜种植优质棉花、香梨。区内多风而干热，尤其每年春夏季大风和风沙、浮尘及干热风对农业生产带来极大危害。降水稀少，多年平均降水量仅为 $5 3 . 3 \\sim 6 2 . 7 ~ \\mathrm { m m }$ ;蒸发强烈，年蒸发量在 $3 ~ 0 0 0 ~ \\mathrm { { m m } }$ 左右;土地盐渍化严重。土壤主要以砂壤土、壤土地为主，有部分砂土和黏土。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验采用1膜2管4行的种植方式，覆膜宽度为 $1 2 5 \\ \\mathrm { c m }$ ，宽行、窄行以及膜间的距离分别为65$\\mathrm { c m } , 1 2 \\ \\mathrm { c m }$ 和 $2 0 ~ \\mathrm { c m }$ ，滴灌带铺设见（图1）。采取矿化度为 $0 . \\ 3 8 \\sim 0 . \\ 7 5 \\ \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ L ~ } ^ { - 1 }$ 的淡水与矿化度为$9 . 8 1 \\sim 1 1 . 8 1 \\mathrm { ~ g ~ } \\cdot \\mathrm { L } ^ { - 1 }$ 的咸水进行不同比例的混合，设计6个不同的处理（表1），各处理间灌水量相同。每个小区面积为 $5 \\ \\mathrm { m } \\times 6 \\ \\mathrm { m } = 3 0 \\ \\mathrm { m } ^ { 2 }$ ,每个处理重复3次。在苗期进行少量淡水灌溉，以保证棉花正常生长，在现蕾期之后采用微咸水。试验地棉花施肥量及农艺措施均参考当地经验。灌水日期为6月12日至8月30日，每7天1次，共计12次，灌溉制度见表2，根据棉花生育期需水量的不同进行灌溉，以全淡水灌溉的棉田作为对照。每个试验处理设置容量为1t的水罐，放置在高 $2 \\mathrm { ~ m ~ }$ 的铁架上，采取自压灌水，不同淡咸水比例在水罐中进行调配，调配均匀后进行灌溉。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/fe7e4a19c08b2da793126679477dd030fef3e82038b970968c092ea8f4dcf84a.jpg",
+        "img_caption": [
+            "图1棉花种植模式及滴灌带布置(单位：cm)",
+            "Fig.1Cotton planting mode and drip irrigation belt arrangemeni "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/60dd58732bbf54849aa2ecd13a24cc41e5775f6ab3e7552ff36cc841b47aade6.jpg",
+        "table_caption": [
+            "Tab.1Irrigation level setting and salinity "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>处理</td><td>淡水与咸水混合比例</td><td>矿化度/(g·L-1)</td></tr><tr><td>对照</td><td>淡水：咸水1:0</td><td>0.38~0.75</td></tr><tr><td>处理1</td><td>淡水：咸水4:1</td><td>2.36~3.39</td></tr><tr><td>处理2</td><td>淡水：咸水3:2</td><td>3.34~5.51</td></tr><tr><td>处理3</td><td>淡水：咸水2:3</td><td>6.36~7.74</td></tr><tr><td>处理4</td><td>淡水：咸水1:4</td><td>7.30~9.32</td></tr><tr><td>处理5</td><td>淡水：咸水0:1</td><td>9.81~11.81</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/91c1b29ffca5e184a84a2e29bd980ce7a4d80f6941cb57438028af71fbc3bf7b.jpg",
+        "table_caption": [
+            "表1灌溉水平设置及矿化度",
+            "表2棉花生育期内灌水量",
+            "Tab.2Irrigation amount during cotton growth period "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>灌水次数</td><td>灌水日期</td><td>生育期</td><td>灌水量/m</td></tr><tr><td>1</td><td>6.12</td><td>蕾期</td><td>0.67</td></tr><tr><td>2</td><td>6.18</td><td></td><td>1.12</td></tr><tr><td>3</td><td>6.26</td><td></td><td>1.35</td></tr><tr><td>4</td><td>7.30</td><td>花期</td><td>1.35</td></tr><tr><td>5</td><td>7.10</td><td></td><td>1.35</td></tr><tr><td>6</td><td>7.17</td><td></td><td>1.57</td></tr><tr><td>7</td><td>7.24</td><td>铃期</td><td>1.57</td></tr><tr><td>8</td><td>7.31</td><td></td><td>1.57</td></tr><tr><td>9</td><td>8.70</td><td></td><td>1.57</td></tr><tr><td>10</td><td>8.14</td><td>吐絮期</td><td>1.35</td></tr><tr><td>11</td><td>8.22</td><td></td><td>1.12</td></tr><tr><td>12</td><td>8.30</td><td></td><td>1. 12</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 观测项目与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1土壤盐分监测：采用土钻,在生育期第一次灌水前后(蕾期)以及最后一次灌水后(吐絮期)分别在各个小区宽行、窄行、膜间3个位置，取土深度分别为 $1 0 \\ 、 2 0 \\ 、 3 0 \\ 、 4 0 \\ 、 6 0 \\ 、 8 0 \\ \\mathrm { c m }$ 和 $1 0 0 ~ \\mathrm { c m }$ ,每个处理取三个重复，采用烘干法土水比为1:5，将纯水倒入锥形瓶中。然后用玻璃棒搅拌均匀，将锥形瓶固定在振荡器上设置时间为 $1 0 ~ \\mathrm { m i n }$ ,使土壤中的盐分充分溶解。振荡完成后静止 $1 0 ~ \\mathrm { m i n }$ ,然后将锥形瓶中的可溶性液体通过滤纸倒入蒸发皿中，利用DDS-307A电导率仪测定过滤溶液。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2　棉花产量　在吐絮期,每个小区选择长势均匀的3处条田，测定 $5 . 3 6 ~ \\mathrm { m } \\times 1 . 2 5 ~ \\mathrm { m }$ 内所有棉花株数，单株结铃数，并在条田中采集100朵吐絮的棉花，计算单铃重。利用株数、结铃数以及单铃重计算各条田籽棉产量，3处条田的均值，作为该小区的籽棉产量，然后推算每公顷籽棉产量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 数据处理与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用Excel 软件进行数据整理，Sigmaplot10.0软件绘图，SPSS进行显著性分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1不同处理土壤盐分变化情况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1灌水前各处理盐分值由图2可知,灌水前不同处理土壤盐分值相对较低，介于 $0 . 3 1 \\sim 0$ .91$\\mathrm { m S \\cdot { c m } ^ { - 1 } }$ ,且变化幅度较小。根据当地经验进行冬灌，由于冬季气温低、蒸发少，减少了灌后返盐的几率，而且在较长的越冬期间可以使地下水位充分的下降(盐随水动），避免因春季气温高，蒸发量大导致盐分大量向表土聚集，为生育期棉花的生长创造了良好条件。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a0cf59b5b55e0f56d2260672fde535f1722ca597f21a91a94d08d46f223d12f8.jpg",
+        "img_caption": [
+            "图2棉田灌水前土壤盐分分布 Fig.2Distribution of soil salinity before irrigation in cotton field "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0083b429a87473b8b63af0874613ecd30345b17e083ca06d2a9e2f550c58bbee.jpg",
+        "img_caption": [
+            "图3灌水后的棉田土壤盐分分布 Fig.3Distribution of soil salt in cotton fields after drip irrigation "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2灌水后不同处理盐分值由图3可以看出，各处理土壤盐分的分布在垂直方向上具有相似的变化趋势：在 $4 0 \\ \\mathrm { c m }$ 土层以上土壤盐分较大,随着土壤深度的增加土壤盐分呈降低趋势。在水平方向上，盐分累积顺序为：膜间 $>$ 宽行 $>$ 窄行。各处理不同位置的土壤盐分含量随着灌溉水矿化度的升高而增加，在咸水灌溉下盐分出现累积现象。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤湿润层在空间形态上，滴灌形成近倒圆锥形的土壤湿润区，沟灌则形成一个U形的土壤湿润区,漫灌湿润层没有水平差异[15],与沟灌和漫灌相比，滴灌更容易使盐分在水平方向上存在差异。采用膜下滴灌时，同一处理的 $0 \\sim 4 0 ~ \\mathrm { c m }$ 土层盐分分布在宽行、窄行及膜间均有差异。窄行的含盐量较小，因为滴灌带铺设靠近窄行的位置，使得该位置土层中的盐分受到充分的淋洗;同时，棉花根系对于该位置盐分有较大影响。除处理1外，各处理膜间盐分分布明显高于其他位置，造成这种差异的原因有2个：一是由于膜间地表没有薄膜覆盖造成的，膜间地表土层中的水分蒸发与其他两个位置相比较强烈，水分被蒸发，盐分聚集；二是滴灌时，水分以水滴形式滴入土层表面，在滴头下方形成饱和区。水分在重力的作用下向下运动的同时，在水平方向进行扩散，土壤盐分随着水分移动，累积在湿润体边缘，即膜间裸地形成了含盐量较高的积盐区。宽行盐分大小介于窄行和膜间之间，覆膜在一定程度上起到了抑盐的作用，导致宽行盐分小于膜间。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表层盐分受到灌水和蒸发的直接影响，盐分变化非常活跃,洗盐和积盐现象都比较显著[16]对比所有处理的土层可以发现，不同矿化度处理下的土壤盐分在表层处最大，随着土层深度的增加，土壤盐分呈现逐渐降低的趋势，这是因为试验区气候干旱，春季多风少雨，地表温度较高，植被覆盖度低，表层土壤蒸发强烈，使得盐分形成表聚现象；虽然苗期的棉花叶面积较小，但蒸腾作用还是存在的，在棉花根系对水的吸力以及土壤毛管力的共同作用下，深层的水分被运移至表层，水分的运移决定着盐分的分布，所以，不同处理土壤表层的盐分大于土壤深层的盐分。蒸发量是由植物蒸腾和土面蒸发决定的，棉花生育前期（苗期）主要以土面蒸发为主，此时棉花叶面积较小,对水分的需求较小，植物蒸腾能力小于土面蒸发；后期由于棉花叶面积增大,造成封行，减少土面蒸发，因此植物蒸腾能力大于土面蒸发能力。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图3可以看出，各处理土壤盐分分布出现一定规律。同一矿化度，土壤盐分随着土层深度的增加而降低，主要集中在 $2 0 \\sim 4 0 ~ \\mathrm { c m }$ 土层;土层越深盐分累积越小,各处理 $0 \\sim 4 0 ~ \\mathrm { c m }$ 土层土壤平均含盐量大于 $4 0 \\sim 1 0 0 ~ \\mathrm { c m }$ 土层，造成这种现象有多种因素：$\\textcircled{1}$ 滴灌灌水量有限，不能把带入土体中的盐分运移出根系层。 $\\textcircled { 2 } 0 \\sim 4 0 \\ \\mathrm { c m }$ 土层是棉花根系所在的位置，故对 $0 \\sim 4 0 ~ \\mathrm { c m }$ 土层含盐量影响剧烈。 $\\textcircled{3}$ 夏季温度较春季高，持续的地表蒸发作用下，深层土壤以及地下水中的可溶性盐类借助毛细管作用上升并在地表积聚，导致土壤含盐量在 $0 \\sim 4 0 \\ \\mathrm { c m }$ 出现累积。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.3试验结束后不同处理土壤盐分值为保证棉花正常生长所需要的营养，在棉花生长关键时期进行施肥，化肥的使用，导致土壤中盐分增加。同一土层深度，随着生育期的推进，滴灌次数不断增多，矿化度越高的咸水盐分也就越多，这些盐分被灌入土壤,导致土壤盐分增大。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f28231d794b8b2f9f6e7a102fc19e0408dc8fd6f5b83eda7b1800be7a8aded53.jpg",
+        "img_caption": [
+            "图4试验结束后各处理土壤盐分分布",
+            "Fig.4Distribution of soil salinity after treatment "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图4可以得知，不同矿化度咸水灌溉下的土壤平均盐分含量均大于对照，其中处理5（全咸)带入的盐分最多，其平均含盐量也最高。随着深度的增加，灌溉和蒸发对深层土壤的作用越来越小，水分的运动趋于稳定，盐分分布亦被限制，所以盐分变化逐渐减缓。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.4不同处理下棉花生长周期内土壤盐分前后变化比较由表3可知，棉花生长周期内灌水后不同处理 $1 \\mathrm { ~ m ~ }$ 内各土层较灌水前均会发生积盐现象，这是由于土壤盐分积累量和土壤积盐率随灌溉水矿化度的增大而增大。其中土壤积盐率最大是处理5（全咸），为 $1 3 1 . 0 3 \\%$ ,其次是处理4（1淡4咸），积盐率为68. $00 \\%$ ，对照（全淡）积盐率最小，为$2 2 . 9 7 \\%$ ，即使是淡水灌溉，也会发生积盐，淡水灌溉的土壤积盐率比咸水灌溉小。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "同一灌水量不同处理土壤中盐分呈现不同程度的累积,其中以处理5最大，达 $1 . 3 4 \\mathrm { m S } \\cdot \\mathrm { c m } ^ { - 1 }$ 。这",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3棉花生长周期内灌溉前后土壤盐分的变化比较",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a1ba9decca988d076402da0d0c3ccc2ea7504371433ea9bdce646c5e00e1a8f7.jpg",
+        "table_caption": [
+            "Tab.3Comparison of soil salinity before and after irrigation in cotton growth cycle "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理</td><td rowspan=\"2\">灌溉前 /(mS·cm-1)</td><td rowspan=\"2\">灌溉后 /(mS·cm-1)</td><td rowspan=\"2\">相对增长率 /%</td></tr><tr><td></td></tr><tr><td>对照</td><td>0.74</td><td>0.91</td><td>22.97</td></tr><tr><td>处理1</td><td>0.53</td><td>0.83</td><td>56.60</td></tr><tr><td>处理2</td><td>0.62</td><td>0.90</td><td>45.16</td></tr><tr><td>处理3</td><td>0.51</td><td>0.80</td><td>56.86</td></tr><tr><td>处理4</td><td>0.75</td><td>1.26</td><td>68.00</td></tr><tr><td>处理5</td><td>0.58</td><td>1.34</td><td>131.03</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "是由于在相同灌水量条件下，灌水矿化度越高，随着灌溉次数的增加，带入土体中的盐分越多，土壤越容易产生盐分积累。试验表明，咸水和微咸水灌溉会导致滴灌棉田土壤盐分显著增加，积累效应明显。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2微咸水膜下滴灌对棉花产量的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "微咸水灌溉后，棉花是否能正常生长取决于棉花根层的土壤盐分含量，当棉花根层的土壤盐分含量超过其耐盐度的临界值时，棉花生长受到抑制甚至死亡[17]。由表4可知,在棉花成熟后,各处理棉株单铃重之间没有显著差异，但是咸水处理棉花的产量均比对照处理低，且随着矿化度的增加，棉花产量逐渐下降，在处理5棉花的减产最大，较对照减产$5 9 . 6 9 \\%$ 。产量降低的主要因素是咸水灌溉使得棉花根层的盐分含量过高，造成棉花根系不能充分吸收水分，从而导致花铃期缩短，单株铃数明显减少，而棉花的单铃重对产量的影响较小。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/8d27e81f67c4dc7b2ec9b9a06f6a21ddfa101ecfcc2db32c28b2b1ce085a85d4.jpg",
+        "table_caption": [
+            "表4不同处理对棉花的铃数、铃重和籽棉产量的影响 Tab.4Effects of different treatments on the number of bolls，boll weight and seed cotton yield of cotton "
+        ],
+        "table_footnote": [
+            "注：不同小写字母表示处理间差异达到显著水平( $\\textstyle P < 0 . 0 5$ 。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>单铃重 /g</td><td>单株铃数 /个</td><td>产量 /kg</td><td>产量比较 /%</td></tr><tr><td>对照</td><td>5.51a</td><td>7.75a</td><td>6 835.50a</td><td>0</td></tr><tr><td>处理1</td><td>5.47a</td><td>7.10ab</td><td>6 025.35b</td><td>- 11.85</td></tr><tr><td>处理2</td><td>5.18a</td><td>6.59b</td><td>5 307.30c</td><td>-22.37</td></tr><tr><td>处理3</td><td>5.30a</td><td>5.26c</td><td>4 876.20cd</td><td>-28.66</td></tr><tr><td>处理4</td><td>4.94a</td><td>5.55c</td><td>4 250.80d</td><td>-37.78</td></tr><tr><td>处理5</td><td>4.96a</td><td>3.96d</td><td>2 755.65e</td><td>-59.69</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综合以上说明，在同一灌水定额条件下，棉花植株的生长随着盐分的变化而变化，合理的盐分浓度促进棉花的生长，当土壤盐分浓度较大时会抑制植株的生长。整体来说，当灌溉水的矿化度在淡咸水比为4:1时（处理1），即灌溉水矿化度在 $3 . 0 \\mathrm { ~ g ~ }$ ：${ \\mathrm { ~ L ~ } } ^ { - 1 }$ 以内，对棉花生长的抑制作用最小，这与肖振华等[1]研究结论一致,相比其他咸水处理而言对棉花的产量影响相对较小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试验结果表明，随着矿化度升高，滴灌次数的增多,带入土体中的盐分逐渐累积，在垂直方向上，不同矿化度处理 $0 \\sim 4 0 ~ \\mathrm { c m }$ 土层的都较淡水处理大。这是由于不同矿化度的微咸水所携带的盐分不一样，随着生育期的推进，灌溉次数不断增加，盐分不断进入土体；同时滴灌的灌水量有限，并不能把土壤中的盐分淋洗到土层深处；南疆地区棉花生育期内降水少，蒸发大，导致水平方向上盐分在膜间土层表面聚集。由于滴灌独特的性质，盐分在膜间聚集，为棉花的生长提供有利的条件,这与王振华、马洁等[18-19]所得出的结果一致。为了保证棉花的正常生长，会在灌水时给棉花施肥,有研究表明，土体中硝态氮的累积是土壤盐分增加的重要因素[20]。由于本试验未作施肥处理,故施肥后对盐分积累的影响以及微咸水膜下滴灌对土壤水分、土壤质地、土壤肥力、土壤通气性和透水性的影响有待进一步的讨论。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于受咸水中盐分的影响，导致棉花的生长状况及产量出现不同程度的变化。不同矿化度的咸水灌溉对棉花单铃重影响不大，这与阮明艳等[21]研究结果一致。但是随着生育期的推进以及灌水次数的增加，虽然棉花是耐盐作物，但是其耐盐程度是有限的，当土壤含盐量低于作物耐盐度的临界值时，作物能在不影响作物产量的前提下正常生长;而土壤含盐量超过作物耐盐度的临界值时，作物受盐害而生长不良甚至死亡[22-23]。微咸水灌溉带入土壤的盐分降低了土壤溶液的水势，从而对植物的正常生长发育产生渗透胁迫，并造成植物根系吸水困难[24-26],且随着矿化度的升高棉花产量呈现下降的趋势。本试验只是探究不同比例微咸水对棉田土壤盐分和产量的影响，该试验区最佳的淡咸水比例以及长时间咸水灌溉和水盐共同胁迫下，该地区水盐运移规律和对棉花产量及品质的影响还有待进一步试验研究。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将咸水与膜下滴灌结合，可以有效缓解新疆淡水资源紧缺问题，为干旱区农业灌溉提出一种新的方式。适宜的微咸水可以增加土壤中的水分，利于作物生长，提高作物产量。无论是淡水还是微咸水都会增加土壤中的盐分，因此，降低土壤中的盐分是棉花生长的关键。孙驰涛等[27]通过研究发现,滴灌条件下起垄沟播的水分入渗深度和盐分淋洗深度均明显大于常规平播植棉方式。用合理的灌溉和管理等技术，在不对环境以及土壤造成危害的前提下，把微咸水利用到最大程度，对作物的品质不产生负面影响的同时提高作物的产量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "阮明艳[21] 、邢小宁[28]研究矿化度设置较低,针对南疆高矿化度灌溉水，本试验设置较大梯度的咸淡水比例对棉田土壤盐分的影响，研究结果能有效表现膜下滴灌盐分的分布规律。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）盐分空间分布特点：在垂直方向上，土层深度在 $2 0 \\sim 4 0 \\ \\mathrm { c m }$ 时土壤盐分分布较大, $4 0 \\ \\mathrm { c m }$ 以下土层深度的盐分较小。土壤盐分变化总体趋势：随着深度的增加，土壤盐分先增大后减小，如果不进行洗盐措施,将会影响作物的正常生长；在水平方向上，不同水平位置的盐分累积为：膜间 $>$ 宽行 $>$ 窄行。窄行的盐分累积较少，为棉花提供了良好的生存环境。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）不同矿化度的微咸水进行灌溉对棉花单铃重影响不大，主要影响单株结铃数，进而导致棉花产量下降。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）当灌溉水的矿化度在淡咸水比为4：1时，即灌溉水矿化度在 $3 . 0 \\mathrm { ~ g ~ } \\cdot \\mathrm { L } ^ { - 1 }$ 以内,对棉花生长的抑制作用最小，对产量的影响也较小。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1］徐秉信,李如意,武东波,等.微咸水的利用现状和研究进展[J].安徽农业科学,2013,41（36）：13914-13916,13981.［XuBingxin,Li Ruyi,Wu Dongbo,etal. Utilization statusand researchprogress of brackish water[J].Journal of Anhui Agricultural Sci-ences,2013,41（36):13914-13916,13981.]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[2]白春艳,周金龙.中盐度地下水灌溉试验研究现状及展望[J]. 地下水,2013,35（1）:69-71.［Bai Chunyan,Zhou Jinlong.Cur rent status and prospects of experimental research on medium salinity groundwater irrigation[J].Ground Water,2013,35（1）:69 -71.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[3］王艳娜,侯振安,龚江.咸水滴灌对土壤盐分分布、棉花生长和产量的影响[J].石河子大学学报（自然科学版），2007，25(2）：158-162.［Wang Yanna,Hou Zhen'an,Gong Jiang.Theeffect of drip irrigation with saline water to the distribution of saltand development and yield of cotton[J]. Journal of Shihezi Uni-versity(Natural Science Edition）,2007,25(2）:158-162.]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[4］农业部\"948\"项目\"微咸水农田灌溉技术\"验收技术文件报告 [R].中国农科院土壤研究所,2000:55.［Report on the Acceptance of Technical Documents for the“Brackish Water Farmland Irrigation Technology”of the“948”Project of the Ministry of Ag riculture[R].Institute of Soil Science,Chinese Academy of Agricultural Sciences,2000:55.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[5]徐飞鹏,李云开,任树梅.新疆棉花膜下滴灌技术的应用与发展的思考[J].农业工程学报，2003，19（1）：25-27.［XuFeipeng,Li Yunkai,Ren Shumei.Investigation and discussion ofdrip irrigation under mulching Xinjiang Uygur Autonomous Region[J].Transactions of the Chinese Society of Agricultural Engineer-ing,2003,19(1) :25-27.]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[6］张金萍,周胜利，张奥.膜下滴灌技术应用研究进展[J].黑龙 江水利,2016,33（9）:11-15.[Zhang Jinping,Zhou Shengli, Zhang Ao. The research progress of drip irigation under mulch [J]. Heilongjiang Hydraulic,2016,33（9）:11-15.]   \n[7］肖亮.浅谈膜下滴灌技术的应用现状及优点[J].农业科技与 信息,2015,32（7）:66-67.[Xiao Liang.On the application status and advantages of drip irrigation under membrane[J].Agricultural Science-Technology and Information,2015,32（7）:66- 67.]   \n[8］刘艳梅.膜下滴灌技术的研究与应用[J].农业科技与装备， 2012,34(6）:69-70.[Liu Yanmei.Research and application of drip irrigation under plastic film[J].Agricultural Science & Technology and Equipment,2012,34(6）:69 -70.]   \n[9］孙三民,安巧霞.新疆农业水资源可持续利用面临的问题与对 策[J].塔里木农垦大学学报,2003,26(4）:75-77.[Sun Sanmin,An Qiaoxia.Problems and countermeasures of sustainable utilization of agricultural water resources in Xinjiang[J]. Journal of Tarim University of Agricultural Reclamation,20o3,26（4）:75- 77.]   \n[10］艾先涛,李雪源,孙国清,等.新疆棉花应用膜下滴灌技术中存 在的问题[J].中国棉花,2004,47(2）：38-39.［AiXiantao,Li Xueyuan,Sun Guoqing,et al.Problems in the application of submembrane drip irrigation to cotton in Xinjiang[J].China Cotton, 2004,47(2) :38 -39. ]   \n[11］肖振华,万洪富,郑莲芬.灌溉水质对土壤化学特征和作物生 长的影响[J].土壤学报,1997,50（3）:272－285.[Xiao Zhenhua,Wan Hongfu,Zheng Lianfen.Effectsof irrigation water quality on soil chemical characteristics and crop growth[J].Acta Pedologica Sinica,1997,50(3):272-285.]   \n[12］郭仁松,林涛,徐海江,等.微咸水滴灌对绿洲棉田水盐运移特 征及棉花产量的影响[J].水土保持学报,2017,31（1):211- 216.[Guo Rensong,Lin Tao,Xu Haijiang,etal.Efctsof saline water drip irrigation on water and salt transport features and cotton yield of oasis coton field[J].Journal of Soil and Water Conservation,2017,31(1) :211-216.]   \n[13］谭帅.微咸水膜下滴灌土壤盐调控与棉花生长特征研究[D]. 西安：西安理工大学,2018.[Tan Shuai.Soil Salt Regulation and Cotton Growth Characteristics under Drip Irrigation with Brackish Water[D].Xi'an: Xi'an University of Technology,2018.]   \n[14］曹永清.咸水滴灌对土壤水盐运移和棉花产量的影响[D].石 河子：石河子大学,2013.[Cao Yongqing.Effects of Saline Water on Soil Water and Salinity Transport and Cotton Yield under Drip Irrigation[D].Shihezi:Shihezi University,2013.]   \n[15］郑晓辉,巴特尔·巴克,李宏,等.不同灌水方式下干旱区盐碱 地土壤水盐运移特征分析[J].东北农业大学学报,2011,42 (5）:95-99,148-149.[Zheng Xiaohui,Barter Barker,Li Hong,et al.Effect of irrigation methods on movement of soil water and salt inarid area[J].Journal of Northeast Agricultural Univer",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "sity,2011,42(5) :95 -99,148-149.] [16］李明思，康绍忠,杨海梅.地膜覆盖对滴灌土壤湿润区及棉花 耗水与生长的影响[J].农业工程学报，2007，23(6)：49-54. [Li Mingsi,Kang Shaozhong,YangHaimei.Effects of plastic film mulch on the soil wetting pattrn water consumption and growth of cotton under drip irrigation[J].Journal of Northeast Agricultural, 2007,23(6):49-54.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[17］王久生，王龙，姚宝林，等.微咸水膜下滴灌条件下水盐对棉花 生长的影响研究［J].节水灌溉,2012,37（12）：9-15.［Wang Jiusheng,Wang Long,Yao Baolin,et al. Study on soil water and salt effects on cotton growth with light-saline water drip irrigation undermulching[J].Water SavingIrrigation,2012,37（12）：9- 15.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[18］王振华，吕德生，温新明,等.新疆棉田地下滴灌土壤水盐运移规律的初步研究[J].灌溉排水学报，2005，24（5）：22-24，28.[Wang Zhenhua,Lyu Desheng,Wen Xinming,et al.Research onregulation of soil water-salt transport under subsurface drip irriga-tionin cotton field in Xinjiang[J].Journal of Irrigation and Drain-age,2005,24(5):22-24,28.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[19］马洁，朱珠，姚宝林，等.阿拉尔灌区微咸水滴灌对土壤水盐分 布影响的试验研究[J].节水灌溉，2010，35（5）：40-42，45. [Ma Jie,Zhu Zhu,Yao Baolin,et al.Experimental research on effect of soil moisture and salinity distribution under light-saline water of drip irrigation in Alar irrigated area[J].Water Saving Irrigation,2010,35(5):40-42,45.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[20］李廷轩，周健民，段增强，等.中国设施栽培系统中的养分管理[J」.水土保持学报，2005，19（4）：70-75.［LiTingxuan，ZhouJianmin,Duan Zengqiang,et al.Nutrient management of green-house cropping systems in China[J].Journal of Soil and WaterConservation,2005,19(4）:70-75.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[21］阮明艳.咸水膜下滴灌对棉花产质量效应及土壤水盐环境的 影响［D].杨凌：西北农林科技大学,2007.［Ruan Mingyan. Effects on Yield and Soil Water-Saline Environmental of the Cotton inSalineWater IrrigationUnder-Film Drip[D].Yangling:Northwest Agriculture&Forestry University,2007.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[22］毛振强，宇振荣，马永良.微咸水灌溉对土壤盐分及冬小麦和 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "夏玉米产量的影响[J].中国农业大学学报,2003,8（增刊)： 20 -25.[Mao Zhenqiang,Yu Zhenrong,Ma Yongliang.Influence of brackish water on the soil salt regime and yield of winter wheat and summer maize[J]. Journal of China Agricultural University, 2003,8(Suppl.）:20-25.]   \n[23］雷廷武,肖娟,詹卫华,等.沟灌条件下不同灌溉水质对玉米产 量和土壤盐分的影响[J].水利学报,2004,35（9)：118-122. [Lei Tingwu,Xiao Juan,Zhan Weihua,et al.Effect of water quality in furrow irrigation on corn yield and soil salinity[J].Journal of Hydraulic Engineering,2004,35(9） :118-122.]   \n[24］陈拓,冯虎元.荒漠植物叶片碳同位素组成及其水分利用效率 [J].中国沙漠,2002,22（3）:288-291.[Chen Tuo,Feng Huyuan.Carbon isotope composition of desert plant leaves and wateruse efficiency[J].Journal of Desert Research,2002,22（3）:288 -291.]   \n[25］张道远,尹林克,潘伯荣.怪柳属植物抗旱性能研究及其应用 潜力评价[J].中国沙漠,2003,23（3）：252－256.[Zhang Daoyuan,Yin Linke,Pan Borong.Study on drought-resisting mechanism of Tamarix L.and its application potential evaluation[J]. Journal of Desert Research,2003,23（3） :252-256.]   \n[26］庄丽，陈亚宁,李卫红，等.渗透胁迫条件下植物茎叶水势的变 化——以塔里木河下游胡杨为例[J].中国沙漠,2006,26 (6）:1003-1008.[Zhuang Li,Chen Yaning,Li Weihong,et al. Response of leaf and stem water potential of Populus euphraticato osmotic stress in lower reaches of Tarim River[J].Journal of Desert Research,2006,26(6）:1003-1008.]   \n[27］孙池涛,张俊鹏,张谦,等.起垄沟播和常规平播下滴灌棉田土 壤水盐的运移[J].干旱区研究,2019,36(2）:307-313.［ Sun Chitao,Zhang Junpeng,Zhang Qian,et al. Soil water and salt migration in cotton field in ridge-furrow planting and conventional flat planting under drip irrigation[J].Arid Zone Research,2019,36 (2):307 -313.]   \n[28］邢小宁.微咸水滴灌条件下土壤水盐运移的试验研究[D].兰 州：兰州大学,201o.[Xing Xiaoning.Water and Salt Migration in Soil under Brackish Drip Irrigation Condition［D].Lanzhou： Lanzhou University,2010.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Effects of drip irrigation under a brackish water film with respect to the soil salinity and cotton yield ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "LIU Xue-yan’，DING Bang-xin’，BAI Yun-gang²，CHEN Xing-xing²， XIAO Jun² (1. Collegeof Grassandand Environmental Science,Xinjiang Agriculture University,Urumqi 830o52,Xinjiang,China; 2.Xinjiang Research Institute of water Resources and Hydropower,Urumqi 83o049,Xinjiang,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Water scarcity isa major factor that affects the sustainable development of agriculture in Xinjiang. However,brackish watercontainsabundant natural resources in Xinjiang,and reasonable utilization of brackish waterinagriculture isofconsiderable significance to copewith the waterscarcityproblems,increase thecrop yield, and conserve freshwaterresources in southern Xinjiang.Theobjectiveof this study is to investigate the effcts of the utilization ofbrackish water exhibiting diferent degrees of mineralizationonthesoil salt distribution,yield components,and seed cotton yield.A field experiment was conducted at the 31st Regiment of Yuli County in Korla City, Xinjiang Province,Northwest China.Six different volume ratiosof freshwater to saltwater,freshwater（CK）,4:1 (treatment1）,3:2（treatment2）,2:3（treatment3）,1:4（treatment4）,and saltwater（treatment5）were verified viaa field experiment.Theresults indicate thatthesoilsalinitysignificantly increased for treatments1-5 when compared with CK.The highest soil salinity was obtained using treatment5,where the relative growth rateof the soil salinity reached $1 3 1 . 0 3 \\%$ . In the vertical direction,the soil salinity initially increased and subsequently decreased with increasing soil depth;thesoilsalinityunderallthe treatments is observed to primarily accumulateinthe 20- $4 0 \\ \\mathrm { c m }$ soil layer.In the horizontal direction,the order of soil salinityat different locations was no-mulch zone $>$ wide row $>$ narrow row.In addition,the boll numbers per plant significantly decreased with increasing mineralization degree.However,there were no significant diferences in the weight perbollfor different treatments.The seed coton yield significantly decreased with increasing mineralization degree.Compared with CK,the seed cotton yield decreased by $1 1 . 8 5 \\%$ K $2 2 . 3 7 \\%$ ? $2 8 . 6 6 \\%$ ， $3 7 . 7 8 \\%$ ,and $5 9 . 6 9 \\%$ in treatments 1-5,respectively.The reduction in the seedcottn yield under treatment1 was minimal.This study suggests that theoptimal volume ratiooffreshwater to saltwateris treatment1（4:1）.Accordingly,theusage of treatment1（4:1） is recommended todeal with water scarcity and ensure sustainable agricultural development in southern Xinjiang. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words:under mulched drip irrigation；brackish water; soil salt；coton yield； Korla; Xinjiang ",
+        "page_idx": 7
+    }
+]

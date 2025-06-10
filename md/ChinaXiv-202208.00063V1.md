@@ -1,0 +1,159 @@
+# 阿尔泰山降水氢氧稳定同位素特征及水汽来源分析
+
+段丽洪¹²，王圣杰1²，张明军1,²，王力福³(1.西北师范大学地理与环境科学学院，甘肃 兰州730070；2.甘肃省绿洲资源环境与可持续发展重点实验室，甘肃 兰州 730070；3.阿勒泰市气象局，新疆 阿勒泰836500)
+
+摘要：阿尔泰山横亘于亚欧大陆中部，是中纬度西风带气候研究的重点区域之一。利用阿尔泰山地区4个站点的监测数据，研究了该区域降水氢氧稳定同位素的年内变化特征及大气降水线方程，分析了降水同位素的温度效应，并利用后向轨迹探讨了水汽来源。结果表明：(1)阿尔泰山各站点降水同位素比率在季节上表现为夏高冬低，且南侧站点的季节差异比北侧大，除Novosibirsk外大多数站点的降水气盈余值为夏低冬高。（2）除Novosibirsk外，研究区大多数站点大气降水线方程的斜率和截距都低于全球平均值。(3)各站点降水同位素存在明显的温度效应，体现在季节变化和空间分布上。(4）后向轨迹表明,研究区受到西风水汽、极地水汽和近源水汽路径的影响，且偏北站点可能受极地水汽路径的影响更大。上述认识有助于明确阿尔泰山不同区域降水同位素时空变化反映的水文气候信息，并为该区域大气水循环及气候变化研究提供参考。
+
+关键词：降水同位素；后向轨迹；水汽来源；阿尔泰山
+
+# 文章编号：
+
+大气降水是水循环的重要环节和地表水资源输入的主要形式[1-2],利用降水中的氢氧稳定同位素作为示踪剂可以深人揭示包括蒸发、凝结和水汽输送等在内的水循环过程[3-4]。在亚洲中部干旱区，山区降水是区域水资源的重要来源[5-6],也是氢氧稳定同位素监测的关键环节[7-8]。其中,天山和祁连山一带的长期监测研究表明，该区域降水同位素比率的冬夏季节差异明显[9-,而强烈的云下二次蒸发作用进一步强化了同位素的季节差异[12-13],除了西风环流和季风环流可能对这些山区的降水存在贡献外[14-16],局地水汽再循环对降水的贡献也不可忽略[17]。这些降水同位素监测研究为认识亚洲中部山区的水循环过程提供了重要的基础。
+
+在亚洲中部山区中，纬度相对较高的阿尔泰山常年受到西风环流与极地气团的影响，冬春季节降水较多,具有明显的区域特色[18]。在过去的几十年中，阿尔泰山呈现出明显的升温趋势，但南北两侧降水的变化幅度存在差异[19]。相较于天山和祁连山而言，在阿尔泰山开展的现代大气降水氢氧稳定同位素监测仍比较有限[20-21]。就我国境内的阿尔泰山南坡而言，仅在阿勒泰城区22有降水同位素的监测报道，其余多为临时性的短期采样[23]。阿尔泰山东西绵延较长，不同区域受西风环流和极地气团的影响程度也不同，目前尚缺乏对其不同区域降水同位素的对比研究。
+
+基于此，本文选取阿尔泰山地区4个站点，分析了大气降水氢氧稳定同位素的年内变化特征及大气降水线方程，探讨了降水同位素的温度效应，并结合后向轨迹分析了该区域的水汽来源，旨在明确阿尔泰山地区氢氧稳定同位素反映的水文气候信息，为现代大气水循环过程以及古气候环境记录研究提供参考。
+
+# 数据与方法
+
+# 1.1数据来源
+
+1.1.1 降水同位素实测数据阿尔泰山位于亚欧大陆中部中国、哈萨克斯坦、俄罗斯和蒙古四国交界之处，山脉呈西北一东南走向，东西绵延近2000$\mathrm { k m }$ ，大陆性气候明显。本文选用了阿尔泰山地区以往研究中4个站点的大气降水氢氧稳定同位素数据（表1和图1)，自南向北依次为蒙古的Takhin Tal[24]、中国的阿勒泰[22]、俄罗斯的Zonalnoe[25]和Novosi-birsk[26]。本文主要关注降水同位素年内变化与空间分布，分析各站点多年平均的各月降水氢氧稳定同位素，同位素比率用相对于维也纳平均标准大洋水（Vienna standard mean ocean water,VSMOW)的千分差来表示。
+
+表1阿尔泰山各站点相关信息  
+Tab.1 Information about each site in the Altay Mountains   
+
+<html><body><table><tr><td>站点</td><td>纬度/N</td><td>经度/E</td><td>海拔/m</td><td>气温/℃</td><td>降水量/mm</td></tr><tr><td>Takhin Tal[24]</td><td>45.5</td><td>93.7</td><td>1760</td><td>-1.7</td><td>138.8</td></tr><tr><td>阿勒泰[22]</td><td>47.7</td><td>88.1</td><td>735</td><td>5.8</td><td>168.1</td></tr><tr><td>Zonalnoe[25]</td><td>52.3</td><td>85.1</td><td>270</td><td>3.3</td><td>524.5</td></tr><tr><td>Novosibirsk[26]</td><td>55.1</td><td>82.9</td><td>162</td><td>1.8</td><td>525.5</td></tr></table></body></html>
+
+![](images/5dbf7e507d310998a78391f5f89538fc8c92e51d84490f9969d202485d52f5b7.jpg)  
+图1各站点在阿尔泰山的分布位置  
+Fig.1 Locations of each site in the Altay Mountains
+
+1.1.2降水同位素模拟数据为了认识以往全球降 水同位素模拟产品在研究区的适用性，本文还利用 了 OIPC(Online isotopes in precipitation calculator)和 RCWIP(Regionalized cluster based water isotope prediction)降水同位素景观图谱产品。上述产品都包含 多年平均的各月降水 $\mathfrak { F } ^ { 2 } \mathrm { H }$ 和 $\mathbf { \delta } ^ { 8 } \mathbf { { ^ { 1 8 } } }$ ,其中OIPC 数据[27]
+
+3.2版由美国犹他大学发布，空间分辨率为 $5 ^ { \prime } \times 5 ^ { \prime }$ ，RCWIP数据 $^ { [ 2 8 ] } 1 . 0$ 版由国际原子能机构发布，空间分辨率为 $1 0 ^ { \prime } { \times } 1 0 ^ { \prime }$ ○
+
+1.1.3气候格点数据多年平均气候资料采用英国东英格利亚大学气候研究所（ClimaticResearchUnit,CRU)提供的全球月平均地表气候要素数据[29]4.05版，分辨率为 $0 . 5 ^ { \circ } \times 0 . 5 ^ { \circ }$ ，主要包括气温和降水量。
+
+# 1.2 研究方法
+
+本文利用美国国家海洋和大气管理局(Nation-al Oceanic and Atmospheric Administration,NOAA)大气资源实验室(AirResourcesLaboratory,ARL)开发的混合单粒子拉格朗日积分轨迹模式(Hybrid sin-gle-particle lagrangian integrated trajectory,HYSPLIT)进行水汽来源的轨迹计算[30]。本文选取每日世界协调时 $0 0 { : } 0 0 \ 、 0 6 { : } 0 0 \ 、 1 2 { : } 0 0$ 和18:00作为起算时刻，采用 $5 \mathrm { d } ^ { [ 3 1 ] }$ 作为水汽回溯时长，以所选站点位置作为气团回溯起点，选择 $5 0 0 \mathrm { m } ^ { [ 3 2 ] }$ 作为降水高度计算。同时采用美国国家环境预报中心（NationalCentersforEnvironmentalPrediction,NCEP)运行的全球数据同化系统(Global data assimilation system,GDAS)数据[33作为回溯的输入参数，其空间分辨率为 $1 ^ { \circ } \times 1 ^ { \circ }$ 分别选取采样年份1、4、7月和10月计算各站点的后向轨迹，并将每个月的轨迹进行聚类分析。
+
+# 2结果与分析
+
+# 2.1降水同位素年内变化
+
+TakhinTal、阿勒泰、Zonalnoe和Novosibirsk的降水 $\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~ ‰ ~ } }$ 变化范围(图2a)分别介于 $- 2 8 . 7 \% o - 7 . 6 \% o$ /$- 2 4 . 2 \% o \mathrm { { \sim } - 5 . 3 \% { \it 0 } \mathrm { { \sim } - 2 2 . 4 \% o \mathrm { { \sim } - 5 . 6 \% { \it 0 } } } }$ 和 $- 2 5 . 4 \% o \mathrm { \sim } 1 1 . 1 \%$ 之间，降水量加权平均值分别为 $- 2 0 . 0 1 \mathrm { \ } \% o$ 、$- 1 3 . 3 5 \% o \ 、 - 1 3 . 6 3 \% o$ 和 $- 1 5 . 9 6 \% o$ 。各站点的降水 $\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~ ‰ ~ } }$ 都表现出明显的年内变化，夏季偏高，冬季偏低，并且南侧站点TakhinTal和阿勒泰的年较差要比北侧的Zonalnoe和Novosibirsk大。在各站点中，除1月和2月外，阿勒泰的逐月 $\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~ ‰ ~ } }$ 普遍高于其他站点。相比之下，除7月和8月外，TakhinTal的逐月 $\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~ ‰ ~ } }$ 普遍为各站点中最低，这可能与海拔因素有关，其海拔在 $1 7 0 0 \mathrm { m }$ 以上，为各点中最高，加之又位于亚洲中部荒漠地带，受山脉的阻挡，水汽在长距离的输送过程中同位素不断被贫化。降水 $\mathfrak { \delta } ^ { 2 } \mathrm { H }$ 的加权平均值分别为 $- 1 3 4 . 1 9 \% o \ Q _ { 0 } - 9 7 . 3 5 \% o \ Q _ { - } - 9 7 . 7 5 \% o \ Q _ { - } - 1 0 6 . 4 2 \% o \ Q$ 年内变化特征与 $8 ^ { 1 8 } 0$ 类似(图2b)。
+
+![](images/4338d4dcece28d39d6c595278816afd99d2e318094ed1e6b10edf97446696155.jpg)  
+图2阿尔泰山各站点降水 $\delta ^ { 1 8 } \mathrm { O } , \delta ^ { 2 } \mathrm { H }$ 和 $d$ 的年内变化  
+Fig.2 Intra-annual variations of $\delta ^ { 1 8 } \mathrm { O }$ $\delta ^ { 2 } \mathrm { H }$ and $d$ in precipitation at each site in the Altay Mountains
+
+氘盈余 $\zeta = 8 ^ { 2 } \mathrm { H } - 8 8 ^ { 1 8 } \mathrm { O }$ )常用来指示降水过程受蒸发的影响程度[34]，除Novosibirsk外大部分站点的降水 $d$ 均表现出夏低冬高的特征（图2c）。从空间分布来看，TakhinTal降水 $d$ 为各站点中最低，介于 $- 2 4 . 8 \% o \sim - 5 \% o$ 之间，平均值为 $- 1 1 . 0 5 \% o$ ,该站点位于蒙古高原西部边缘荒漠地带极端干旱区，降水过程中可能受云下二次蒸发影响最为强烈；阿勒泰降水 $d$ 介于 $2 . 2 \% o { \sim } 1 5 . 5 \% o$ 之间，平均值 $( 9 . 4 5 \% )$ 0稍低于全球平均值( $10 \text{‰}$ ）；Zonalnoe降水 $d$ 介于$- 2 . 4 \% o { \sim } 1 0 . 5 \% o$ ,平均值为 $3 . 8 9 \text{‰}$ ,相对于全球平均值也偏低;Novosibirsk降水 $d$ 介于 $- 7 . 6 \% o { \sim } 2 5 . 8 \%$ 之间，平均值( $( 1 1 . 8 3 \% o$ )为各站点中最高，并且秋高冬低的特点也与其他站点不同。各站点降水中 $d$ 的年内差异普遍比较大，这可能在一定程度上反映了阿尔泰山降水水汽来源地及蒸发条件在不同季节上存在很大差异。阿尔泰山大多数站点降水氢氧稳定同位素比率的年内变化特征与以往在亚洲中部一些高山区域的认识较为一致，但相较于天山[、祁连山[1]偏低，尤其是TakhinTal降水 $d$ 为 $- 1 1 . 0 5 \% o$ ，远低于其他站点的值，这在以往的研究中也很少出现。
+
+在一些不易实现长期观测的区域，常使用全球降水同位素景观图谱产品中相应位置的同位素比率代替，这里基于实测数据对两种常见产品OIPC和RCWIP的适用性进行分析(表2)。根据各站点的决定系数(Determinationcoefficient, $R ^ { 2 }$ )、平均绝对误差（Meanabsoluteerror,MAE）平均偏置误差(Mean bi-as error,MBE)和均方根误差(Root mean square er-ror,RMSE）, $\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~ ‰ ~ } }$ 的模拟效果整体上优于 $d$ ,两种产品均是如此；在TakhinTal,OIPC的模拟效果优于RCWIP，而在阿勒泰、Zonalnoe和Novosibirsk则是RCWIP的模拟效果更好。各站点中，在阿勒泰的模拟效果总体上优于其他3个站点，而在最为干旱的TakhinTal模拟效果最差。
+
+# 2.2大气降水线
+
+利用降水氢氧稳定同位素数据，分别得到各站点的大气降水线（图3），即：TakhinTal为 ${ \delta } ^ { 2 } \mathrm { H } = 7 . 4 0$ $\ S ^ { 1 8 } \mathrm { O } - 1 3 . 5 7 \% o ( R ^ { 2 } { = } 0 . 9 3 , n { = } 1 0 , P { < } 0 . 0 1 )$ ;阿勒泰为 $\delta ^ { 2 } \mathrm { H } =$ $7 . 7 4 \delta ^ { 1 8 } \mathrm { O } + 5 . 9 4 \%$ （ $R ^ { 2 } { = } 0 . 9 8$ . $n { = } 1 2$ ， $P { < } 0 . 0 1$ ）;Zonalnoe为 ${ 8 ^ { 2 } \mathrm { H } } { = } 7 . 3 7 { 8 ^ { 1 8 } } \mathrm { O } { - } 4 . 0 7 \% ( R ^ { 2 } { = } 0 . 9 9 ,$ $n { = } 1 0$ $P { < } 0 . 0 1$ );No-vosibirsk 为 $8 ^ { 2 } \mathrm { H } { = } 8 . 7 6 \delta ^ { 1 8 } \mathrm { O } { + } 2 4 . 1 \%$ （ $R ^ { 2 } { = } 0 . 9 7$ . $n { = } 1 2$ ， $P <$ 0.01)。
+
+表2OIPC和RCWIP降水 ${ \delta } ^ { 1 8 } { \bf { O } }$ 和 $\pmb { d }$ 在阿尔泰山各站点的模拟效果比较  
+Tab.2 Comparison of simulated ${ \delta } ^ { \mathbf { \imath } \mathbf { \imath } } \mathbf { 0 }$ and $\pmb { d }$ in precipitation of OIPC and RCWIP at each site in the Altay Mountai   
+
+<html><body><table><tr><td rowspan="2">站点</td><td rowspan="2">模拟产品</td><td colspan="2">R</td><td colspan="2">MAE/%0</td><td colspan="2">MBE/%0</td><td colspan="2">RMSE/%0</td></tr><tr><td>8180</td><td>d</td><td>8180</td><td>d</td><td>8180</td><td>d</td><td>8180</td><td>d</td></tr><tr><td>Takhin Tal</td><td>OIPC</td><td>0.86</td><td>0.23</td><td>3.58</td><td>31.19</td><td>-1.66</td><td>-29.74</td><td>3.59</td><td>30.69</td></tr><tr><td></td><td>RCWIP</td><td>0.79</td><td>0.52</td><td>3.44</td><td>19.58</td><td>-2.94</td><td>-19.58</td><td>4.81</td><td>19.98</td></tr><tr><td>阿勒泰</td><td>OIPC</td><td>0.89</td><td>0.29</td><td>1.65</td><td>4.21</td><td>-0.41</td><td>-0.24</td><td>2.16</td><td>4.77</td></tr><tr><td></td><td>RCWIP</td><td>0.93</td><td>0.06</td><td>1.54</td><td>4.98</td><td>1.13</td><td>3.59</td><td>2.04</td><td>6.49</td></tr><tr><td>Zonalnoe</td><td>OIPC</td><td>0.71</td><td>0.45</td><td>2.17</td><td>8.61</td><td>0.96</td><td>-8.61</td><td>3.02</td><td>9.08</td></tr><tr><td></td><td>RCWIP</td><td>0.77</td><td>0.41</td><td>2.28</td><td>3.04</td><td>-0.54</td><td>-1.62</td><td>2.65</td><td>3.32</td></tr><tr><td>Novosibirsk</td><td>OIPC</td><td>0.81</td><td>0.02</td><td>2.05</td><td>6.20</td><td>0.78</td><td>-1.73</td><td>2.39</td><td>8.44</td></tr><tr><td></td><td>RCWIP</td><td>0.85</td><td>0.08</td><td>2.39</td><td>11.36</td><td>-1.45</td><td>7.13</td><td>3.08</td><td>12.53</td></tr></table></body></html>
+
+注： $R ^ { 2 }$ 为决定系数;MAE为平均绝对误差;MBE为平均偏置误差;RMSE为均方根误差;d为降水氘盈余。
+
+![](images/ac4741c6d9fe1f7f9dd31f367918613dfde02899d5c0619fc5d898e5f323803c.jpg)  
+图3阿尔泰山各站点大气降水线
+
+大气降水线的斜率可以较好地反映蒸发状况，全球大气降水线方程为 $\mathfrak { \delta ^ { 2 } H } \mathrm { = } 8 \mathfrak { d ^ { 1 8 } } \mathrm { O } + 1 0 \% o ^ { [ 3 5 ] }$ ,如果局地大气降水线的斜率低于全球平均值8，表明降水区气候干旱，降水受蒸发因素影响较大。TakhinTal、阿勒泰和Zonalnoe大气降水线的斜率低于全球平均值，其降水过程已经受到云下二次蒸发的明显影响，蒸发作用引起同位素非平衡分馏。Novosi-birsk大气降水线斜率高于全球平均值，其纬度为各点中最高，气温较低，降水过程中受蒸发作用影响较小。孙从建等[整理了天山、昆仑山和祁连山的大气降水线，分别为 $\delta ^ { 2 } \mathrm { H } { = } 7 . 5 1 \delta ^ { 1 8 } \mathrm { O } + 0 . 5 4 \%$ 、 $\delta ^ { 2 } \mathrm { H } =$ $8 . 0 9 8 ^ { 1 8 } \mathrm { O } + 1 3 . 3 5 \%$ 和 $\hat { 8 } ^ { 2 } \mathrm { H } { = } 7 . 7 7 \hat { 8 } ^ { 1 8 } \mathrm { O } { + } 1 3 . 0 3 \%$ ,其斜率也普遍接近或低于全球平均值，这与本研究的结论类似，在一定程度上反映出亚洲中部干旱区总体的气候背景。
+
+# 2.3降水同位素温度效应
+
+阿尔泰山各站点降水 $\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~ ‰ ~ } }$ 与气温存在明显的正相关关系(图4)，这种同位素比率与气温之间的关系在同位素水文学中也被称为温度效应[434]。一般来说，在年内尺度上，降水同位素的温度效应主要存在于中高纬度，而在空间尺度上则全球普遍存在温度效应。结合图2的降水同位素季节变化来看，夏季气温最高，降水同位素最高值也都出现在夏季，冬季则相反，气温低对应着降水同位素比率低。从空间上来看，东南侧的TakhinTal由于海拔在 $1 7 0 0 \mathrm { ~ m ~ }$ 以上，年均气温最低，对应的降水 $\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~ ‰ ~ } }$ 也最低；其他3个站点气温随着纬度的升高逐渐降低，相对偏南的阿勒泰年均气温最高，降水 $\delta ^ { 1 8 } \mathrm { O }$ 也为4
+
+![](images/10a56dd2b3061d951511f43667d3a8fff673317a2bdbcc8a8f7e6481fb16370e.jpg)  
+Fig.3Meteoric water linesat each site of the Altay Mountains   
+图4阿尔泰山各站点降水 $\delta ^ { 1 8 } \mathrm { O }$ 与气温的关系 Fig.4 Correlation between precipitation $\delta ^ { 1 8 } \mathrm { O }$ and air temperature at each site in theAltay Mountains
+
+# 干吴区地理
+
+个点中最高。从上述分析可以得出，在阿尔泰山降水同位素的温度效应既体现在季节变化上，也体现在空间分布上。
+
+# 2.4水汽来源轨迹分析
+
+图5为阿尔泰山各站点在不同季节的气流后向轨迹聚类分析结果，各月的最佳聚类数均为2。可以看出，影响阿尔泰山降水的气团主要包括西风输送的海源及沿途补给水汽、极地北冰洋水汽以及局地再蒸发的近源水汽等。由于极地气团携带的水汽较少，加之山脉的阻挡，其对阿尔泰山南侧降水的影响相对较小，偏北站点可能受极地水汽路径的影响更大。结合表3来看，1月阿勒泰和Zonalnoe降水中近源水汽路径的贡献率大于TakhinTal和Novosibirsk，其中，TakhinTal的海拔高，Novosibirsk的纬度高，1月气温都相对较低，近源水汽较少。4月阿勒泰、TakhinTal和Zonalnoe水汽来源主要为西风携带的北海、波罗的海的水汽以及近源水汽，而No-vosibirsk同时还受北冰洋水汽的影响。7月西风输送的水汽对各站点的影响都比较大，阿勒泰除了西风水汽外更受近源水汽的影响，近源水汽路径对阿勒泰的降水贡献率达 $7 1 \%$ ，而极地水汽对Novosi-birsk的贡献率达 $4 0 \%$ 。10月西风活动范围南移，输送的水汽减少，极地水汽对北侧降水的影响较为明显，近源水汽路径对阿勒泰降水的贡献仍比较明显。
+
+![](images/466b8878602b13f17641687b6641544e77ac3d1212fe32147c63414dcd48030c.jpg)  
+图5阿尔泰山各站点不同月份气流后向轨迹聚类  
+Fig.5Cluster analysis of backward trajectory of aiy masses in different months at each siteofthe Altay Mountains
+
+表3阿尔泰山各站点不同月份主要水汽来源及所占比率  
+Tab.3Main water vapor sources and their proportion in different months at each site in the Altay Mountains   
+
+<html><body><table><tr><td rowspan="2">月份</td><td colspan="2">Takhin Tal</td><td colspan="2">阿勒泰</td><td colspan="2">Zonalnoe</td><td colspan="2">Novosibirsk</td></tr><tr><td>水汽来源</td><td>贡献率/%</td><td>水汽来源</td><td>贡献率/%</td><td>水汽来源</td><td>贡献率/%</td><td>水汽来源</td><td>贡献率/%</td></tr><tr><td rowspan="2">1</td><td>西风水汽</td><td>54</td><td>西风水汽</td><td>42</td><td>西风水汽</td><td>49</td><td>西风水汽</td><td>69</td></tr><tr><td>近源水汽</td><td>46</td><td>近源水汽</td><td>58</td><td>极地水汽</td><td>51</td><td>极地水汽</td><td>31</td></tr><tr><td rowspan="2">4</td><td>西风水汽</td><td>59</td><td>西风水汽</td><td>41</td><td>西风水汽</td><td>69</td><td>西风水汽</td><td>33</td></tr><tr><td>近源水汽</td><td>41</td><td>近源水汽</td><td>59</td><td>极地水汽</td><td>31</td><td>极地水汽</td><td>67</td></tr><tr><td rowspan="2">7</td><td>西风水汽</td><td>34</td><td>西风水汽</td><td>29</td><td>西风水汽</td><td>35</td><td>西风水汽</td><td>60</td></tr><tr><td>近源水汽</td><td>66</td><td>近源水汽</td><td>71</td><td>近源水汽</td><td>65</td><td>极地水汽</td><td>40</td></tr><tr><td rowspan="2">10</td><td>西风水汽</td><td>55</td><td>西风水汽</td><td>46</td><td>西风水汽</td><td>60</td><td>西风水汽</td><td>52</td></tr><tr><td>近源水汽</td><td>45</td><td>近源水汽</td><td>54</td><td>极地水汽</td><td>40</td><td>极地水汽</td><td>48</td></tr></table></body></html>
+
+阿尔泰山各站点不同季节的后向轨迹分别代表了不同性质的水汽及其输送路径，夏季气温高，大陆河湖蒸发水汽较多，西风输送的水汽中携带了大量的陆地蒸发水汽，其中可能富含重同位素，且雨滴在降落过程中易受到云下二次蒸发的影响，各站点夏季降水同位素比率都比较高；冬季气温低，陆地蒸发的水汽较少，水汽输送过程中重同位素不断被贫化，降水受云下二次蒸发影响也较小，同位素比率偏低。从空间上看，近源水汽路径对阿勒泰全年降水贡献率几乎都在 $5 0 \%$ 以上，阿勒泰降水同位素比率年均值相对其他站点较高;而偏北的Novosibirsk站点则更受极地水汽路径的影响。
+
+总体来看，西风输送的水汽路径在阿尔泰山降水中占主导地位，各站点全年均受到西风环流的影响，由于阿尔泰山东西绵延较长，对西风和极地气团都有一定的阻挡作用，南侧及东侧区域的降水明显少于北侧和西侧，极地气团对南侧降水的影响甚微，近源水汽对偏北区域的贡献也较小。与天山[14]、祁连山[15]等区域相比，阿尔泰山各区域降水几乎不受季风环流的影响。
+
+# 3结论
+
+本文利用阿尔泰山4个站点的降水氢氧稳定同位素数据，研究了其降水同位素特征及水汽来源轨迹，得出以下结论：
+
+（1）阿尔泰山各站点降水同位素比率年内变化显著，总体表现为夏高冬低的趋势，南侧站点的降水同位素季节差异比北侧的季节变化大，除Novosibirsk外降水 $d$ 在大多数站点表现为夏低冬高。
+
+(2）除Novosibirsk外，研究区大多数站点大气降水线的斜率和截距都低于全球平均值，在干旱的气候背景下降水过程受到云下二次蒸发的影响较大。阿尔泰山降水同位素温度效应明显，体现在季节变化和空间分布上。
+
+(3）根据后向轨迹分析，阿尔泰山各站点主要受到西风水汽、极地水汽和近源水汽路径的影响，而偏北站点降水更受极地水汽路径的影响。
+
+# 参考文献(References)
+
+[1]Konapala G,Mishra A K,Wada Y,et al.Climate change will af
+
+fect global water availability through compounding changes in seasonal precipitation and evaporation[J]. Nature Communications, 2020,11: 3044,doi: 10.1038/s41467-020-16757-w.   
+[2] 郭玉琳,赵勇,周雅蔓,等.新疆天山山区夏季降水日变化特征 及其与海拔高度关系[J].干旱区地理,2022,45(1):57-65.[Guo Yulin,Zhao Yong, Zhou Yaman, et al.Diurnal variation of summer precipitation and its relationship with altitude in Tianshan Mountains of Xinjiang[J].Arid Land Geography,2022,45(1): 57- 65.]   
+[3] Bowen G J, Cai Z Y,Fiorella RP,et al. Isotopes in the water cycle: Regional- to global-scale patterns and applications[J].Annual Review of Earth and Planetary Sciences,2019,47: 453-479.   
+[4]Zhang M J, Wang S J. A review of precipitation isotope studies in China: Basic pattern and hydrological process[J]. Journal of Geographical Sciences,2016,26(7): 921-938.   
+[5] Chen Y N, Li Z,Fang G H, et al.Large hydrological processes changes in the transboundary rivers of Central Asia[J]. Journal of Geophysical Research: Atmospheres,2018,123(10): 5059-5069.   
+[6]Yu Y,Pi Y Y,Yu X,et al. Climate change, water resources and sustainable development in the arid and semi-arid lands of Central Asia in the past 3O years[J]. Journal ofAridLand,2019,11(1): 1-14.   
+[7]Yao JQ,Liu X C,HWF. Stable isotope compositions of precipitation over Central Asia[J].PeerJ,2021,9:e11312,doi:10.7717/ PEERJ.11312.   
+[8]Zhang MJ, Wang S J.Precipitation isotopes in the Tianshan Mountains as a key to water cycle inarid Central Asia[J]. Sciences in Cold and Arid Regions,2018,10(1): 27-37.   
+[9]Li Z X,Gui J, Wang X F,et al. Water resources in inland regions of Central Asia: Evidence from stable isotope tracing[J]. Journal of Hydrology,2019,570: 1-16.   
+[10]Wang L H, Dong Y H,Han D M,et al. Stable isotopic compositions in precipitation over wet island in Central Asia[J]. Journal of Hydrology,2019,573: 581-591.   
+[11]孙从建,张子宇,陈伟,等.亚洲中部高山降水稳定同位素空间 分布特征[J].干旱区研究,2019,36(1):19-28.[Sun Congjian, Zhang Ziyu, Chen Wei,et al. Spatial distribution of precipitation stable isotopes in the alpine zones in Central Asia[J].Arid Zone Research,2019,36(1): 19-28.]   
+[12] Chen HY,Chen Y N,Li D L,et al. Effect of sub-cloud evaporation on precipitation in the Tianshan Mountains (Central Asia) under the influence of global warming[J].Hydrological Processes, 2020,34(26): 5557-5566.   
+[13] Wang SJ,Jiao R,Zhang MJ, et al. Changes in below-cloud evaporation afect precipitation isotopes during five decades of warming across China[J]. Journal of Geophysical Research: Atmospheres, 2021,126(7): e2020JD033075,doi: 10.1029/2020JD033075.   
+[14]Liu X K,Rao Z G,Zhang X J, et al.Variations in the oxygen isotopic composition of precipitation in the Tianshan Mountains region and their significance for the westerly circulation[J]. Journal of Geographical Sciences,2015,25(7): 801-816.   
+[15] Du W T, Kang S C,Qin X,et al.Can summer monsoon moisture invade the Jade Pass in northwestern China?[J]. Climate Dynamics, 2020,55(11): 3101-3115.   
+[16]Shi YD,Wang S J,Wang L W,et al. Isotopic evidence in modern precipitation for the westerly meridional movement in Central Asia [J].Atmospheric Research,2021,259: 105698,doi: 10.1016/J.ATMOSRES.2021.105698.   
+[17]Wang SJ,Zhang MJ, Che Y J,et al. Contribution of recycled moisture to precipitation in oases of arid Central Asia: A stable isotope approach[J]. Water Resources Research,2016,52(4): 3246-3257.   
+[18] Fu Q,Li B,Hou Y,et al.Effects of land use and climate change on ecosystem services in Central Asia's arid regions: A case study in Altay Prefecture,China[J]. Science of the Total Environment, 2017,607: 633-646.   
+[19] 张东良,兰波,杨运鹏.不同时间尺度的阿尔泰山北部和南部降 水对比研究[J].地理学报,2017,72(9):1569-1579.[Zhang Dongliang,Lan Bo,Yang Yunpeng. Comparison of precipitation variations at different time scales in the northern and southern Altay Mountains[J].Acta Geographica Sinica,2017,72(9): 1569-1579.]   
+[20] Aizen VB,Aizen E,Fujita K,et al. Stable-isotope time series and precipitation origin from firn-core and snow samples,Altai glaciers, Siberia[J]. Journal of Glaciology,2005,51(175): 637-654.   
+[21]Sidorova O V, Siegwolf R TW, Myglan V S,et al. The application of tree-rings and stable isotopes for reconstructions of climate conditions in the Russian Altai[J]. Climatic Change,2013,120(1): 153-167.   
+[22] Tian L D, Yao TD, MacClune K,et al. Stable isotopic variations in west China: A consideration of moisture sources[J]. Journal of Geophysical Research,2007,112:D10112,doi: 10.1029/2006JD 007718.   
+[23] 侯浩,侯书贵,庞洪喜.阿尔泰山蒙赫海尔汗冰川不同水体稳定 同位素空间分布特征及水汽来源[J].冰川冻土,2014,36(5): 1271-1279.[Hou Hao,Hou Shugui,Pang Hongxi. Stable isotopes in different water samples on the Monh Hayrhan Glacier,Altay Mountains: Spatial distribution features and vapor sources[J]. Journal of Glaciology and Geocryology,2014,36(5): 1271-1279.]   
+[24]Burnik Sturm M,Ganbaatar O, Voigt C C,et al. First field-based observations of $\ S ^ { 2 } \mathrm { H }$ and $\ S ^ { 1 8 } \mathrm { O }$ values of event-based precipitation, rivers and other water bodies in the Dzungarian Gobi,SW Mongolia[J]. Isotopes in Environmental and Health Studies,2017,53(2): 157-171.   
+[25]Malygina N S,Eirikh A N,Kurepina N Y,etal. Isotopic composition of precipitation in Altai foothills:Observation and interpolation data[J]. Bulletin of the Tomsk Polytechnic University,Geo Assets Engineering,2019,330(2): 44-54.   
+[26]IAEA/WMO.Global network of isotopes in precipitation[DB/OL]. [2021-5-24]. htp://www.iaea.org/water.   
+[27]Bowen G J,Wilkinson B. Spatial distribution of $\mathrm { 8 ^ { 1 8 } O }$ in meteoric precipitation[J]. Geology,2002,30(4): 315-318.   
+[28]Terzer S,Wassenaar L I,Araguás-Araguas L J,et al.Global isoscapes for $\delta ^ { 1 8 } 0$ and $\ S ^ { 2 } \mathrm { H }$ in precipitation: Improved prediction using regionalized climatic regression models[J]. Hydrology and Earth System Sciences,2013,17(11): 4713-4728.   
+[29]Harris I, Jones P D,Osborn T J,et al.Updated high-resolution grids of monthly climatic observations the CRU TS3.10 Dataset[J]. International Journal of Climatology,2014,34(3): 623-642.   
+[30] Draxler R R, Hess G D.An overview of the HYSPLIT_4 modelling system for trajectories[J].Australian Meteorological Magazine, 1998, 47(4): 295-308.   
+[31] 张亚宁,张明军,王圣杰,等.基于比湿订正拉格朗日模型的新 疆短时强降水的水汽来源[J].干旱区研究,2019,36(3):698- 711.[Zhang Yaning,Zhang Mingjun, Wang Shengjie,et al. Water vapor sources of short-time heavy rainfallin Xinjiang based on specific humidity-adjusted Lagrangian model[J].Arid Zone Research, 2019,36(3): 698-711.]   
+[32]Wang S J, Zhang M J,Che Y J,et al. Influence of below-cloud evaporation on deuterium excess in precipitation of arid Central Asia and its meteorological controls[J]. Journal of Hydrometeorology,2016,17(7): 1973-1984.   
+[33]Kleist D T,Parrish DF,Derber JC,et al. Introduction of the GSI into the NCEP global data assimilation system[J].Weather and Forecasting,2009,24(6): 1691-1705.   
+[34]Dansgaard W. Stable isotopes in precipitation[J]. Tellus,1964,16 (4): 436-468.   
+[35]Craig H. Isotopic variations in meteoric waters[J]. Science,1961, 133(3465): 1702-1703.
+
+# Stable hydrogen and oxygen isotopes in precipitation and water vapor source in the Altay Mountains
+
+DUAN Lihong1²， WANG Shengjie1²， ZHANG Mingjun1²， WANG Lifu³   
+(1.College ofGeographyandEnvironmentalScience,NorthwestNormalUniversityLanzhou73ooo,Gansu,China;2.Key   
+Laboratory ofResourceEnvironmentandSustainableDevelopmentofOasis ofGansuProvince,Lanzhou 73Oo7o,Gansu,China; 3.Meteorological Bureau of Altay City,Altay 8365Oo,Xinjiang, China)
+
+Abstract:The Altay Mountains located in the middle of the Eurasian continent are one of the key areas of climate research in the mid-latitude westerlies.On thebasis ofthedata collected from the four stations across the Altay Mountains,the intra-annual variations of stable hydrogenand oxygen isotopes in precipitation and the meteoric water lines were investigated.The temperature efect on precipitation isotopes was examined,and the water vapor sources were analyzed using backward trajectory.The following results were obtained.(1） The isotope ratios in precipitation are higher in summer and lower in winter,and the seasonal difference in the southern side is larger than that in the northern side.The deuterium excess value in precipitation is lower in summer and higher in winter at most stations,except for Novosibirsk.(2)The slope and intercept of meteoric water lines are lower than the global average at most stations,except for Novosibirsk.(3)The isotope ratios in precipitation have an obvious temperature effect, which can be seen from seasonal variations and spatial paterns. (4)The backward trajectory indicates a joint influence of the westerlies,the polar air mas,and the locally evaporated water vapor,and the northern stations may be more influenced by the polar path than other stations. These findings are useful for understanding the hydrological and climate information about stable precipitation isotopes across diferent parts of the Altay Mountains and provide a reference for investigating regional atmospheric water cycle and climate change.
+
+Key words: precipitation isotope; backward trajectory; water vapor source; Altay Mountains

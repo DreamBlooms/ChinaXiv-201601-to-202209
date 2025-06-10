@@ -1,0 +1,100 @@
+空腹血糖异常升高对估算肾小球滤过率影响 10.12114/j.issn.1007-9572.2022.0492 占锦峰，刘林华\*，夏忠彬
+
+330000南昌大学第二附属医院体检中心\*通讯作者：刘林华,主任医师， e-mail:jiangxiliu168@126.com
+
+【摘要】背景：糖尿病前期血糖升高增加慢性肾病风险，但对肾小球滤过率直接影响尚未见报道。目的：探讨社区人群中空腹血糖受损患者血糖水平（FPG）对估算肾小球滤过率（eGFR）的影响。方法：选择南昌地区2020年在南昌大学第二附属医院体检中心体检者，排除糖尿病、高血压、肾脏疾病、严重心脑血管病、移植、肿瘤等。纳入的29601名客户根据FPG分为空腹血糖升高组（ $5 . 6 < \mathsf { F P G } < 7 . 0 \mathsf { m m o l / L } )$ 、空腹血糖正常组 $( \mathsf { F P G } < 5 . 6 \mathsf { m m o l / L } )$ 两组人群，比较两者基线特征。采用个案匹配控制对人群进行多因素（性别 $= 0$ 、年龄 $= 5$ 岁、平均动脉压 $= 5 \mathsf { m m H } \mathsf { g }$ 、尿酸 $: = 1 0 \mathrm { { m m o l } / L }$ 、总胆固醇=1mmol/L体质指数 $= 1 { \sf k g } / { \sf m } \wedge 2 .$ ）匹配，Mann-whitneyU秩和检验方法比较两组人群 eGFR。为明确空腹血糖对 eGFR 影>响，分别在全人群内部(包括空腹血糖正常组、血糖升高组)、匹配后人群内部（包括空腹血糖正常组、空腹血糖升高组）进行FPG与eGFR 之间的相关性分析。结果：空腹血糖升高组较空腹血糖正常组年龄更大、平均动脉压更高、尿酸更高、总胆固醇更高，eGFR更低差异有统计学意义（ $\mathsf { P } { < } 0 . 0 0 0 0 1 )$ ；匹配后空腹血糖升高组较空腹血糖正常组年龄、平均动脉压、尿酸、胆固醇、体质指数均无统计学差异；而eGFR 较血糖正常组升高（ $\mathsf { P } { < } 0 . 0 0 0 1 )$ 。FPG 与eGFR之间存在弱相关，spearman 相关系数显示，全人群中空腹血糖对 eGFR 负相关，匹配人群中空腹血糖对 eGFR 影响为正相关，且匹配人群空腹血糖升高亚组中相关系数进一步增加。结论：空腹血糖异常升高会引起eGFR 升高。
+
+关键词：糖尿病前期 空腹血糖 估算肾小球滤过率 (eGFR)   
+?   
+N   
+Title :effect of elevated fasting plasma glucose on estimated glomerular filtration rate   
+v   
+zhan-jingfenliu-linhua xia-zhongbing   
+Health Management Center,The Second Afiliated Hospital of Nanchang University， Nanchang, China
+
+corresponding author: liu-linhua email:jiangxiliu168@126.com [Abstract] Background: Elevated blood glucose in pre-diabetes increases the risk of chronic kidney disease however,the direct effects of higher fasting glucose on glomerular filtration rate has not been reported. Objective:To investigate the efect of blood glucose level (FPG)on estimatedglomerular filtration rate (eGFR) in patients with impaired fasting plasma glucose in community population. Methods: the physical examinees in the physical examination center of the Second Afiliated Hospital of Nanchang University in
+
+2020 were selected, excluding diabetes,hypertension, kidney disease,serious cardiovascular and   
+cerebrovascular disease,transplantation,tumor,etc.29601 subjects included were divided into two groups according to FPG,including higher blood glucose group $( \mathsf { H B G } , 5 . 6 < \mathsf { F P G } < 7 . 0 \mathsf { m m o l } / \mathsf { l } )$ and normal blood glucose group(NBG,FPG<5.6mmol/).The baseline characteristics of the two groups were compared. Case-controlmatching was used to match the population with multiple factors (gender $\mathbf { \tau } = 0 ,$ age $= 5$ years,mean arterial pressure $\mathbf { \Sigma } = \mathbf { \Sigma }$ 5mmhg, uric acid $\mathbf { \Sigma } = \mathbf { \Sigma }$ 10mmol / L, total cholesterol $\mathbf { \Sigma } = \mathbf { \Sigma }$ 1mmol /L, body mass index $\scriptstyle : = 1 \mathsf { K g } / \mathsf { m } ^ { \wedge } 2 ,$ and Mann Whitney U rank sum test was used to compare the eGFR of the two groups.Inorder to determine the effect offasting plasma glucose on eGFR,the correlation analysis between FPGand eGFR was conducted within the whole population (including the NBG subgroup and the HBG subgroup)and within the matched population (including NBG Isubgroup and HBGsubgroup).   
+O   
+Results: Age, mean arterial pressure,uric acid, total cholesterol and eGFR of the HBG group were   
+3   
+significantly more than those of the NBG group $( \mathsf { p } < 0 . 0 0 0 0 1 )$ ; After matching, there was no significant D   
+Ndiference in age, mean arterial pressure, uric acid,cholesterol and body massindex between both groups; J D   
+NeGFR was higher than that in NBG group $\mathsf { \Phi } < 0 . 0 0 0 1 \$ . There is a weak correlation between FPG and eGFR. Spearman correlation coeffcient shows that FPG is negatively correlated with eGFR in the whole population,whilea positive correlation in the matched population,and the correlation coeffcient in the HBG subgroup among the matched population is further increased.   
+Conclusion: the increase offasting plasma glucose can cause the increase of eGFR,in particular in subjects with Tabnormal higher fasting plasma glucose.
+
+Key words: pre diabetes fasting plasma glucose estimation of glomerular filtration rate (eGFR)
+
+随着现代生活水平的提高和生活方式改变，糖尿病前期发病率逐年增高，据2013年全国调查显示为30-40%[1]。据大多文献纵向调查研究显示，糖尿病前期出现的血糖升高，增加了慢性肾脏病的发病风险[2-4]。但在发展为慢性肾脏病的过程中，糖尿病前期血糖升高对肾脏功能直接影响文献报道不多，早期研究更多掺杂多种混杂因素。
+
+肾小球滤过率是评价肾脏功能关键指标，是反映慢性肾脏病严重程度的量化指标之一。多种因素可能影响肾小球滤过率，包括年龄、性别、尿酸[5]、体质指数、血压[6]、血脂等。我们对本院体检中心客户采集数据，据空腹血糖水平分为空腹血糖升高组和空腹血糖正常组。采用个案匹配控制方法，对两组资料年龄、性别、体质指数、血脂、血压、血尿酸匹配，比较两组人群估算肾小球滤过率（eGFR）差异，结果显示，空腹血糖升高组出现eGFR升高。同时匹配后人群空腹血糖升高亚组空腹血糖与eGFR正相关，且相关系数增大。
+
+# 1、对象和方法
+
+1.1对象
+
+选取2020年1月\~12月南昌大学第二附属医院体检且资料完整的客户，根据病史和此次检查结果，排外有高血压、糖尿病、肾脏疾病、严重心脑血管疾病、癌症、移植等，高血压采用标准为血压>=140/90mmHg、糖尿病采用标准为 FPG>=7mmol/L。肾脏疾病包括此次 eGFR<=60ml/min/1.73m^2，和（或）尿常规尿蛋白阳性。
+
+1.2方法：
+
+1.2.1 数据测量：体检者填写调查问卷，经医生详细询问病史录入。血压采用欧姆龙电子血压计测量、欧姆龙体重身高测量仪测量。体检者测量血压前静坐至少5分钟后获取数据，血压测量时前臂袖筒和心脏同一水平面，连续测量3次、期间至少间隔1分钟，取平均值。体质指数（BMI） $\ c =$ 体重（Kg）/身高（ $\mathsf { m } ^ { \wedge } 2 \mathsf { \cdot }$
+
+1.2.2实验室检查：体检者晚餐后禁食8-10 小时，次日清晨空腹采集静脉血。检测指标包括血清总胆固醇、甘油三酯、高密度脂蛋白胆固醇、低密度脂蛋白胆固醇、尿酸、血糖等。尿液分析采用清晨中段尿。
+
+1.2.3分组和匹配后分组采用ADA标准，空腹血糖受损为FPG在5.6-7mmol/L，血糖正常为低于5.6mmol/L。据此将入选人群分为空腹血糖正常组和空腹血糖升高组，比较两组血压、血糖水平、eGFR、BMI、血脂、尿酸等。采用个案控制匹配进行变量控制1:1匹配，变量控制范围分别为：尿酸10mmol/L总胆固醇1mmol/L、年龄5岁、体质指
+
+数1、性别0平均动脉压5mmHg。为明确空腹血糖对eGFR 影响，分别在全人群内部（包括空腹血糖正常组、血糖升高组)、匹配后人群内部（包括空腹血糖正常组、空腹血糖升高组）进行FPG与eGFR之间的相关性分析。
+
+1.2.4 eGFR 计算 依据肾脏病膳食改良试验（MDRD）简化公式计算eGFR，血肌酐单位为mg/dL，年龄单位为岁，eGFR[mL/（min $\cdot \cdot$ 1.73 m ）]=186×[血肌酐]^-1.154×[年龄]^-0.203 ×[女性 $\times 0 . 7 9 ]$ ，慢性肾脏病为eGFR<60ml
+
+/min.1.73m^2.
+
+1.3统计学处理采用SPSS26进行统计分析。计量资料经正态性分布检验，正态分布资料采用均数 $+ / \ l$ 标准差（ $x + 1 -$ S）表示，非正态分布资料采用四分位数M（Q1，Q3)表示。正态分布两组数据为t检验，非正态分布采用秩和检验。计数资料采用卡方检验。对非正态分布的两组数据采用 spearman 相关分析。 $\mathsf { p } { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2、结果
+
+2.1受试者基线特征：入选研究对象共 29601例，年龄为18-90岁。根据ADA糖尿病前期FPG诊断标准，空腹血糖正常组25539例、空腹血糖升高组3062例(占 $12 \%$ ）。从自然状态人群特征看，空腹血糖升高组相对于正常人群，年pi  
+龄更大（36 vs 47， $\mathsf { p } { < } 0 . 0 0 0 1 \$ ）、尿酸更高（340.88 vs 367.84， $\mathsf { p } { < } 0 . 0 0 0 1 \rangle$ 、总胆固醇更高(4.91vs 5.22,5  
+p<0.0001)、低密度脂蛋白更高(2.84vs 3.16, $\mathsf { p } { < } 0 . 0 0 0 \rangle$ 、血压更高(平均动脉压：85.33vs 90, $\mathsf { p } { < } 0 . 0 0 0 \rangle$ 、体质指数高(22.78 vs 24.50, $\mathsf { p } { < } 0 . 0 0 0 \}$ ，而eGFR更低（105vs101.08， $\mathsf { P } { < } 0 . 0 0 0 )$ 。
+
+2.2、匹配后基线特征和肾小球滤过率的比较：文献报道多种因素可影响 eGFR水平，我们对各种影响因子进行匹配以消除组间混杂因素影响。采用个案控制匹配方法（case-control-matching)，两组人群按1:1匹配后，成功匹配 2346对病例。采用Mann-whitneyU秩和检验验证两组间差异。结果显示：血脂、血压、尿酸、年龄之间无显著差异（ $\mathsf { P { > } } 0 . 0 5$ )，而血糖之间存在显著差异(p<0.000)，提示两组间混杂变量匹配成功、混杂因素影响得以消除。比较消除干扰因素后两组的eGFR，结果显示空腹血糖升高组高于正常组（99.71vs101.74， $\mathsf { p } { < } 0 . 0 0 0 \}$ 。(表2）。两组间肾小球滤过率直方图直观显示两组间差异，即空腹血糖升高组eGFR高于血糖正常组（ $\mathsf { P } { < } 0 . 0 0 0 0 \rangle$ 。(图1）
+
+2.3、空腹血糖和肾小球滤过率相关性分析：结果显示，（1）FPG 与eGFR 存在弱相关。（2）在全人群中FPG 和 eGFR 呈负相关，而数据匹配后人群中FPG和eGFR呈正相关，提示排除各种混杂因素后eGFR随 FPG升高而升高。（3）匹配后人群中空腹血糖升高组相关系数进一步升高，提示空腹血糖达到一定阈值（血糖异常升高水平，FPG 5.6mmol/L以上)，血糖对eGFR 影响增大。 (表3)
+
+# 3、讨论
+
+慢性肾脏病（CKD）是一种常见的慢性病，患病率逐年增高，正逐步成为我国乃至全球的公共卫生问题[7]。肾小球滤过率（GFR）是评价肾功能的金指标。鉴于采用核素成像测定GFR繁杂性，因此MDRD 公式估算GFR（eGFR）受到青睐。本研究采用依据肾脏病膳食改良试验MDRD 简化公式计算eGFR 值。引起eGFR变化的因素很多，包括尿酸血压血糖血脂年龄性别等。随着年龄增长，eGFR降低；女性一般较男性低[8]；高尿酸血症者较尿酸正常人群 eGFR水平低[5]。这些因素的混杂，可能是导致研究结果差异的原因。本研究采用个案匹配控制分析，匹配后经检验两组间尿酸、血脂、年龄、性别、血压等均无显著差异，提示匹配成功，有效消除组间混杂变量影响。
+
+CKD 根据eGFR分为1-5期，1期可以出现eGFR正常或升高[9]。当eGFR下降到60以下，为CKD3期。既往多采用纵向研究，集中在糖尿病前期血糖升高增加CKD 风险[2-4]，但血糖升高对 eGFR 直接影响研究较少。本研究控制混杂变量前，空腹血糖升高组eGFR较正常组低；可能原因与两组间年龄、性别、血压、尿酸、血脂等不匹配相关。多个混杂变量成功匹配后，空腹血糖升高组eGFR较血糖正常组升高。空腹血糖和肾小球滤过率相关性分析显示，在全人群两者呈负相关，但当调整影响因子的匹配人群中，两者呈正相关，进一步印证了eGFR 随空腹血糖升高而升高，并且空腹血糖达到一定阈值（血糖异常升高），血糖对 eGFR 影响增大（spearman 相关系数增大）空腹血糖异常升高时出现的这种 eGFR升高，也符合慢性肾损伤初期一般变化规律。理论上，血糖异常升高引起近曲小管钠-糖-氯重吸收增加、管-球反馈增加GFR，同时NO产生增加触发GFR增加。[10]既往研究已经证实，糖尿病前期血糖升高是高滤过状态危险因素，增加了高滤过状态风险[11,12]。但在发展为高滤过状态的过程中，eGFR是否存在一个逐步累积增加的过程尚未可知。
+
+空腹血糖升高出现的eGFR轻微升高意义尚不明确，是生理抑或病理意义尚不清楚，但非常明确的是血糖升高增加了CKD 风险，是否eGFR升高是连接高滤过状态继而出现CKD 因果关系尚不明确。我们数据来源于日常正常体检人群，血糖数据主要是空腹血糖，而诊断糖尿病前期的糖化血红蛋白、餐后2小时血糖未做分析，因此需要进一步完善。
+
+表1两组人群基线特征  
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="2">空腹血糖正常组</td><td colspan="5">空腹血糖升高组</td></tr><tr><td>例数</td><td>M (Q1,Q3)</td><td>例数</td><td>M (Q1.Q3)</td><td></td><td>z值或×^2值</td><td>P值</td></tr><tr><td>年龄 (岁)</td><td>25539</td><td>36 (29,48)</td><td>3062</td><td></td><td>47 (36,57)</td><td>-31.263</td><td>0</td></tr><tr><td>性别 (男/女)</td><td>25504</td><td>12881/12623</td><td>3055</td><td></td><td>1851/1204</td><td>110.664</td><td>0</td></tr><tr><td>FPG</td><td>25539</td><td>4.87 (4.58,5.15)</td><td>3062</td><td></td><td>5.85 (5.7,6.12)</td><td>-90.568</td><td>0</td></tr><tr><td>血尿酸定量测定</td><td>25539</td><td>340.88 (278.53,412.27)</td><td>3062</td><td></td><td>367.845 (301.32,436.58)</td><td>-12.723</td><td>0</td></tr><tr><td>eGFR (ml/min.1.73m^2)</td><td>25539</td><td>105 (92.72，119.18)</td><td>3062</td><td></td><td>101.08 (88.89,115.18)</td><td>-10.269</td><td>0</td></tr><tr><td>TC(mmol/L)</td><td>23172</td><td>4.91 (4.35,5.57)</td><td>2910</td><td></td><td>5.22 (4.59,5.84)</td><td>-14.629</td><td>0</td></tr><tr><td>LDL-C(mmol/L)</td><td>23171</td><td>2.84 (2.66,3.74)</td><td>2909</td><td></td><td>3.16 (2.66,3.74)</td><td>-19.339</td><td>0</td></tr><tr><td>TG(mmol/L)</td><td>23172</td><td>1.09 (0.75,1.65)</td><td>2910</td><td></td><td>1.42 (0.95,2.15)</td><td>-21.034</td><td>0</td></tr><tr><td>SBP(mmHg)</td><td>25503</td><td>115 (106,124)</td><td>3061</td><td></td><td>121 (113,129)</td><td>-24.494</td><td>0</td></tr><tr><td>DBP(mmHg)</td><td>25361</td><td>70 (64,77)</td><td>3050</td><td></td><td>74 (68,80)</td><td>-19.807</td><td>0</td></tr><tr><td>MAP(mmHg)</td><td>25344</td><td>85.33 (78.67,91.67)</td><td>3050</td><td></td><td>90(83.33,95.67)</td><td>-23.565</td><td>0</td></tr><tr><td>BMI(Kg/m^2)</td><td>25416</td><td>22.7796 (20.75,24.95)</td><td>3047</td><td></td><td>24.5201 (22.40,26.64)</td><td>-26.426</td><td>0</td></tr></table></body></html>
+
+FPG 空腹血糖 eGFR 估算肾小球滤过率 TC 血清胆固醇 LDL-C 低密度脂蛋白胆固醇 TG 甘油三酯 SBP 收缩压 DBP舒张压 MAP 平均动脉压
+
+表2、数据匹配及肾小球滤过率差异  
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="2">空腹血糖正常组</td><td colspan="3">空腹血糖升高组</td></tr><tr><td>例数</td><td>M (Q1，Q3)</td><td>M (Q1，Q3)</td><td>z/t值</td><td>p</td></tr><tr><td>年龄 (岁)</td><td>2346</td><td>46(35,55)</td><td>46(36,55)</td><td>-0.519</td><td>0.604</td></tr><tr><td>性别 (男/女)</td><td>2346</td><td>1423/923</td><td>1423/923</td><td></td><td></td></tr><tr><td>血葡萄糖测定 (血糖)</td><td>2346</td><td>5.32(5.12,5.46)</td><td>5.83(5.69,6.10)</td><td>.59.317</td><td>0</td></tr><tr><td>血尿酸定量测定</td><td>2346</td><td>362.54(300.43,425.72)</td><td>362.76(300.76,115.52)</td><td>-0.075</td><td>0.94</td></tr><tr><td>血清总胆固醇</td><td>2346</td><td>5.15(4.60,5.75)</td><td>5.21(4.63,5.76)</td><td>-1.636</td><td>0.102</td></tr><tr><td>MAP (平均动脉压)</td><td>2346</td><td>89.33(83.33,95.00)</td><td>89.67(83.33,95.33)</td><td>-0.945</td><td>0.345</td></tr><tr><td>BMI (体质指数，×+/-s)</td><td>2346</td><td>24.30+/-2.78</td><td>24.33+/-2.79</td><td>-0.326</td><td>0.744</td></tr><tr><td>血肾小球滤过率</td><td>2346</td><td>99.71(88.75,113.76)</td><td>101.74(90.49,115.52)</td><td>-3.208</td><td>0.001</td></tr></table></body></html>
+
+表3、空腹血糖和eGFR相关系数  
+
+<html><body><table><tr><td></td><td>相关系数 (spearman 法)</td><td>p值</td></tr><tr><td>全人群</td><td>-0.047</td><td>0</td></tr><tr><td>空腹血糖正常组</td><td>-0.018</td><td>0.005</td></tr><tr><td>空腹血糖升高组</td><td>-0.057</td><td>0.002</td></tr><tr><td>匹配后人群</td><td>0.065</td><td>0</td></tr><tr><td>空腹血糖正常组</td><td>-0.028</td><td>0.176</td></tr><tr><td>空腹血糖升高组</td><td>0.127</td><td>0</td></tr></table></body></html>
+
+![](images/751b5837703dd4952780cc9523be0ee417186ad21028dd57ad79309bbd598b49.jpg)
+
+1. Xu Y,Wang L, He J, BiY,Li M, Wang T, Wang L,Jiang Y,Dai M,Lu J et a/: Prevalence and Controlof Diabetes in Chinese Adults.[Journal of the American Medical Association 2013, 310(9):948-958.   
+2. Zhou Y,Echouffo-Tcheugui JB,Gu J-J, Ruan X-n, Zhao G-m, Xu W-h, Yang L-m, Zhang H, Qiu H, Narayan KMV et a/.[J] Prevalence of chronic kidney disease across levels of glycemia among adults in Pudong New Area, Shanghai, China. Bmc Nephro/ogy 2O13,14.   
+3. Kim GS,Oh HH, Kim SH, Kim BO, Byun YS: Association between prediabetes (defined by HbA1(C), fasting plasma glucose,and impaired glucose tolerance) and the development of chronic kidney disease: a 9-year prospective cohort study.[J] Bmc Nephrology 2019, 20.   
+4. Li W,Wang A, Jiang J, Liu G,Wang M, Li D,Wen J, Mu Y,Du X,Gaisano H et a/: Risk of chronic kidney disease defined by decreased estimated glomerular filtration rate in individuals with different prediabetic phenotypes: results from a prospective cohort study in China.[J] BMJ Open Diabetes Res Care 2020, 8(1).   
+5. 拾莉，刘学奎，龚莹，桑谊荃，梁军：空腹血糖受损患者血尿酸与肾小球滤过率的相关性分析.[]江苏 大学学报（医学版）2020,30(4):347-350.   
+6. Li C-h,Chi H, Shang X, Song L, Wang Y, Chen X, LiW, Yu J, Feng H, Yang X et a/: Correlation between clinic, cumulative, 24h-ambulatory systolic blood pressure,and chronic kidney damage in Chinese elderly.[J]Clinical and Experimental Hypertension 2018,40(5):434-439.   
+7 Lv JC,Zhang LX: Prevalence and Disease Burden of Chronic Kidney Disease.[J]Adv Exp Med Bio/ 2019, 1165:3-15.   
+8. Stevens LA, Coresh J, Greene T, Levey AS: Assessing kidney function--measured and estimated glomerular filtration rate.[J]N Eng/ J Med 2006, 354(23):2473-2483.   
+9. 中华医学会糖尿病学分会：中国2型糖尿病防治指南(2017年版).[J]中华糖尿病杂志%]Chinese Journal of Diabetes Mellitus 2018,10(1):4-67.   
+10. Vallon V,Thomson SC: The tubular hypothesis of nephron filtration and diabetic kidney disease.[J] Nat Rev Nephro/ 2020,16(6):317-336.   
+11. Sasson AN, Cherney DZ: Renal hyperfiltration related to diabetes melitus and obesity in human disease. [J]World J Diabetes 2012, 3(1):1-6.   
+12. Sun ZJ, Yang YC, Wu JS,Wang MC,Chang CJ, Lu FH: Increased risk of glomerular hyperfiltration in subjects with impaired glucose tolerance and newly diagnosed diabetes. [J] Nephrol Dial Transplant 2016,31(8):1295-1301.

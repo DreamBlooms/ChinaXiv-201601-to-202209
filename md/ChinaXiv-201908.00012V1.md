@@ -1,0 +1,165 @@
+# 室内人工降雨条件下黄土侵蚀坡面的变异特征研究
+
+赵卫东1,2,3，章浩南,²，姜琼³，卫佳佳,²，郑勇}（1合肥工业大学资源与环境工程学院,安徽 合肥 230009；2合肥工业大学智能制造技术研究院,安徽 合肥 230088；3合肥工业大学土木与水利工程学院,安徽 合肥230009)
+
+摘要：基于室内人工降雨试验条件下获取的黄土坡面侵蚀的九期DEM数据,计算出不同演化时期黄土坡面的坡度、坡向及沟道网络,利用等分坡度直方图、等分坡向玫瑰花图和沟道分级网络对坡面侵蚀变异特征进行研究，并初步分析了该变异特征与黄土坡面侵蚀和演化过程之间的关系。结果表明：在黄土坡面侵蚀过程中,该坡面的坡度离散程度在逐步增加后基本保持稳定;其主导坡向总体呈现逐步有序化的变化特征，由多个主导坡向逐步演化为与该坡面主干沟道总体走向基本一致的一个主导坡向;其沟道网络逐步发育成典型树状网络并基本保持稳定，且形成了完整和严密的沟道等级结构。上述侵蚀坡面变异特征在一定程度上反映出该坡面在发育初期侵蚀较为强烈但在后期强度有所减弱。本研究是对黄土侵蚀坡面变异特征的初步探索，对未来进一步揭示黄土坡面的侵蚀机理和演化规律具有重要理论意义。
+
+关键 词：黄土侵蚀；地貌演化；数字高程模型；人工降雨；坡面侵蚀文章编号： 1000 -6060(2019)04 -0867 -09(0867\~0875)
+
+受复杂地形、岩性和降雨等诸多影响因素的综合作用，黄土地貌的土壤侵蚀类型多样。坡面侵蚀，特别是沟道侵蚀，是黄土高原地区土壤侵蚀中主要侵蚀类型之一。为此,诸多学者利用野外调查或试验[1-2]和室内人工降雨模拟试验[3-8]等对黄土侵蚀坡面上的沟道形态特征、沟道产生的临界条件等进行了较为深入的研究。以往研究表明，坡度是影响黄土坡面侵蚀的重要因素。张梦等的研究表明，随着坡度的抬升，黄土坡面侵蚀量呈现出先剧烈增加后缓慢减小的变化趋势，坡度为 $1 5 ^ { \circ }$ 时坡面侵蚀量达到最大值。近年来，由于不同分辨率DEM的建立以及数字地形分析（DigitalTerrainAnalysis，DTA）理论的完善和发展，基于DEM的黄土地貌的侵蚀演化研究也取得了丰硕的成果。熊礼阳等[10-]通过重建黄土高原第四纪黄土堆积前原始地形的DEM，得出了黄土地貌的演化过程总体上继承了其下伏古地形的形态特征的重要结论，为揭示黄土高原地貌演化和发育机理做出了有益探索。张芳等[12]基于不同时期黄土高原小流域地貌的DEM数据，模拟了黄土地貌正负地形的侵蚀和演变过程。此外，部分学者分别从面积高程积分[13-15]、分形分维[16]、流域地貌信息熵[17]、沟壑密度[18]、河流网络[19-20]等不同角度研究了黄土地貌的侵蚀演化特征并取得了重要进展[2I-22]。然而,以往研究大多集中在黄土坡面沟道产生的临界条件、坡面细沟的平面和剖面形态、坡度等对地表径流及汇流产沙的影响等某一方面的研究。事实上，黄土侵蚀坡面的坡度变化是坡面地表径流形成的主要动力来源，坡向变化则是改变地表径流方向的主要影响因素，而剖面沟道网络是地表径流的主要通道，也是黄土坡面侵蚀过程中最主要的物质输送通道。三者共同相互作用和影响对黄土坡面的侵蚀和地貌形态发育具有重要影响。因此，综合研究黄土坡面侵蚀过程中坡度、坡向和沟道网络的变异特征对于进一步揭示黄土坡面的侵蚀机理及其地貌形态的发育规律具有重要意义。
+
+# 1 研究数据
+
+研究数据由黄土高原土壤侵蚀与旱地农业国家重点实验室提供，人工降雨侵蚀模拟实验中需要的供试土来源于陕西杨凌地区的黄土，平均土壤密度为 $1 . 3 9 \mathrm { ~ g ~ } \cdot \mathrm { ~ c m } ^ { - 3 }$ 。模拟室内人工降雨的实验箱体设计的最大长度 $9 . 1 \mathrm { ~ m ~ }$ ,最大宽度 $5 . 8 \mathrm { ~ m ~ }$ ，周长为$2 3 . 3 \mathrm { ~ m ~ }$ 。黄土地形表面的平均坡度为 $1 5 ^ { \circ }$ ,高差最大值为 $2 . 5 7 \mathrm { ~ m ~ }$ 。当把黄土填充到实验箱体时，采取以 $5 \ \mathrm { c m }$ 为单位的水平分层填土方式,并且在每一层填土完成后都需要进行夯实。同时，为确保相邻填王之间的紧密接合，在填充下层土壤之前，先前的填土会被耙松。根据实验目的，通过设置不同的降雨持续时间、降雨强度和降雨量条件，分25次实验，对该黄土侵蚀坡面的侵蚀过程进行模拟，并基于摄影测量技术制作出九个侵蚀阶段的DEM数据（第一到第九期DEM）。第一期DEM是在正式实施人工降雨之前获取的地貌演化初始地形数据。该DEM数据空间分辨率是 $1 0 \ \mathrm { m m } \times 1 0 \ \mathrm { m m }$ ,最大相对高程为 $3 ~ 1 9 3 ~ \mathrm { m m }$ 和最小相对高程为 $5 6 1 . 2 \ \mathrm { m m }$ 。
+
+# 2黄土侵蚀坡面的变异特征计算
+
+# 2.1坡度
+
+坡度是描述地表单元陡缓程度的重要指标。以往研究表明，坡度是影响黄土地貌坡面侵蚀和发育演化的重要因素，坡度的变化能在一定程度上反映黄土坡面的侵蚀和发育演化特征。本文基于Arc-GIS 软件提取了九期DEM数据的坡度值，按照每
+
+$1 0 ^ { \circ }$ 进行坡度等级划分[23],并统计每个坡度分级中所包含的栅格个数，结果如表1所示。
+
+# 2.2 坡向
+
+坡向是指坡面法线在水平面上的投影方向，用于描述该点高差变化最大的方向。坡向能够有效控制坡面接受或是重新分配太阳辐射量，对地貌的侵蚀和演化具有重要影响。为了有效表达黄土侵蚀坡面的坡向变异特征，本文采用等分坡向值来描述坡向的变化。首先，提取九期DEM数据的坡向值，然后将坡向值按照每 $3 0 ^ { \circ }$ 进行等分，并统计每个坡向分级中所包含的栅格个数，结果如表2所示。
+
+# 2.3 坡面沟道
+
+本文采用D8 算法[24]从九期DEM中提取研究区的沟道网络。在进行沟道网络的提取前，首先要进行水流方向的提取和无洼地DEM的填充，生成更加符合实际地形的DEM。在完成水流方向的提取、无洼地填充和汇流累积量的计算后，需要设定一个合理的集水阈值进行沟道网络的提取。为此，文章基于南学良等[25]提出的沟道密度与汇流累积量阈值的二阶导函数为0的点来作为最合理的阈值分割点。首先，对第九期DEM数据的进行提取，计算不同阈值下对应的沟道长度和沟道密度（表3）。然后，将表3中的集水阈值与对应的沟道密度数据输入到Matlab软件内，拟合出沟道密度的幂函数方程，并在此基础上计算该幂函数的二阶导函数（图1）。
+
+由于幂函数不存在二阶导函数为0的点，故二阶导函数最先趋近于零时的对应的阈值理论上可以被选为最合理的阈值分割点。由图1可知，当沟道集水阈值为8000时，沟道密度二阶导函数的变化
+
+# 表1坡度数据统计表
+
+Tab.1 Statistical table of slopes   
+
+<html><body><table><tr><td rowspan="2">坡度值</td><td colspan="9">栅格占比／%</td></tr><tr><td>1期</td><td>2期</td><td>3期</td><td>4期</td><td>5期</td><td>6期</td><td>7期</td><td>8期</td><td>9期</td></tr><tr><td>/ 0~10</td><td>20.95</td><td>14.20</td><td>15.18</td><td>13.09</td><td>12.84</td><td>11.39</td><td>12.13</td><td>13.48</td><td>11.34</td></tr><tr><td>10~20</td><td>73.06</td><td>44.55</td><td>42.07</td><td>37.56</td><td>32.54</td><td>29.14</td><td>24.67</td><td>21.71</td><td>20.54</td></tr><tr><td>20~30</td><td>4.33</td><td>27.74</td><td>21.86</td><td>20.6</td><td>16.57</td><td>17.28</td><td>14.33</td><td>12.78</td><td>14.69</td></tr><tr><td>30~40</td><td>1.65</td><td>5.00</td><td>7.17</td><td>9.30</td><td>9.94</td><td>13.55</td><td>12.89</td><td>12.43</td><td>17.45</td></tr><tr><td>40 ~50</td><td>0.01</td><td>3.25</td><td>5.24</td><td>7.25</td><td>9.21</td><td>10.92</td><td>13.85</td><td>14.03</td><td>15.34</td></tr><tr><td>50~60</td><td>0</td><td>2.40</td><td>4.03</td><td>6.61</td><td>9.04</td><td>9.88</td><td>12.81</td><td>14.13</td><td>11.46</td></tr><tr><td>60~70</td><td>0</td><td>1.69</td><td>3.4</td><td>4.5</td><td>7.45</td><td>6.27</td><td>6.93</td><td>8.45</td><td>6.89</td></tr><tr><td>70~80</td><td>0</td><td>1.17</td><td>1.05</td><td>1.09</td><td>2.41</td><td>1.57</td><td>2.39</td><td>2.96</td><td>2.27</td></tr><tr><td>80~90</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0.03</td><td>0.02</td></tr></table></body></html>
+
+# 表2坡向数据统计表
+
+Tab.2Statistical table of aspect   
+
+<html><body><table><tr><td rowspan="2">坡向值 /</td><td colspan="9">坡向栅格数／个</td></tr><tr><td>1期</td><td>2期</td><td>3期</td><td>4期</td><td>5期</td><td>6期</td><td>7期</td><td>8期</td><td>9期</td></tr><tr><td>0~30</td><td>2 594</td><td>3 774</td><td>4 171</td><td>3405</td><td>5 871</td><td>5 315</td><td>5 342</td><td>6 523</td><td>5 766</td></tr><tr><td>30~60</td><td>2 500</td><td>4 507</td><td>5 583</td><td>6200</td><td>8 713</td><td>7638</td><td>10 172</td><td>12 218</td><td>12 315</td></tr><tr><td>60~90</td><td>3 345</td><td>7 010</td><td>8 570</td><td>13 780</td><td>15219</td><td>18124</td><td>20 847</td><td>20826</td><td>22 482</td></tr><tr><td>90 ~120</td><td>13 067</td><td>19 985</td><td>20 387</td><td>24 589</td><td>26 329</td><td>29 552</td><td>26 427</td><td>25 362</td><td>28 685</td></tr><tr><td>120~150</td><td>77 040</td><td>73 472</td><td>65 581</td><td>55 910</td><td>48 730</td><td>45463</td><td>44 945</td><td>42 811</td><td>38 888</td></tr><tr><td>150~180</td><td>76 562</td><td>67 423</td><td>67 951</td><td>71 559</td><td>68 817</td><td>65 951</td><td>67 445</td><td>65 819</td><td>61 397</td></tr><tr><td>180~210</td><td>48 096</td><td>43 674</td><td>50 976</td><td>51 441</td><td>53 117</td><td>54 847</td><td>54 000</td><td>53 937</td><td>52 308</td></tr><tr><td>210~240</td><td>76 120</td><td>69 491</td><td>57 889</td><td>47 356</td><td>41 522</td><td>38 020</td><td>32 138</td><td>34 572</td><td>37 084</td></tr><tr><td>240~270</td><td>24 880</td><td>24 880</td><td>27 535</td><td>29 040</td><td>28 800</td><td>30 377</td><td>29 635</td><td>28 739</td><td>28 482</td></tr><tr><td>270~300</td><td>8286</td><td>11 016</td><td>13 245</td><td>17 766</td><td>18 968</td><td>21 486</td><td>21 822</td><td>21 266</td><td>23205</td></tr><tr><td>300~330</td><td>4 662</td><td>10 738</td><td>1 3281</td><td>12 674</td><td>15 666</td><td>15 744</td><td>19 611</td><td>18 286</td><td>19 589</td></tr><tr><td>330~360</td><td>418</td><td>2026</td><td>2 475</td><td>3898</td><td>5924</td><td>5142</td><td>5232</td><td>7 214</td><td>6698</td></tr></table></body></html>
+
+表3汇流累积量阈值与沟道密度对照表  
+Tab.3Table of channel density with different confluence accumulation thresholds   
+
+<html><body><table><tr><td rowspan="2">阈值</td><td colspan="10">汇流累积量／mm²</td></tr><tr><td>1000</td><td>2000</td><td>3000</td><td>4 000</td><td>5000</td><td>6000</td><td>7 000</td><td>8000</td><td>9000</td><td>10000</td></tr><tr><td>沟道长度／mm</td><td>5562</td><td>4 109</td><td>3 618</td><td>3288</td><td>2 993</td><td>2 714</td><td>2 587</td><td>2 424</td><td>2 359</td><td>2 290</td></tr><tr><td>沟道密度/mm·mm-2</td><td>16.449</td><td>12. 169</td><td>10.720</td><td>9.764</td><td>8.831</td><td>8.019</td><td>7. 674</td><td>7.202</td><td>7.001</td><td>6.758</td></tr></table></body></html>
+
+![](images/94250c1cfab86f140af23079936826bc79e68f35469f9a0fd0add3b50bb77564.jpg)  
+图1沟道密度二阶导函数曲线图  
+Fig.1Curve of second derivative of channel network density
+
+值仅为 $1 . 9 4 \times 1 0 ^ { - 1 0 }$ ,可以认为此时沟道密度函数的二阶导函数曲线基本且最先趋近于0。为了进一步验证集水面积为8000时是否为最合理的集水面积阈值,本文依据李照会等[26]和孔凡哲等[27]人提出的河网密度及河网长度与集水阈值变化的趋势来进行检验，最终得出阈值为8000时，曲线由缓减到逐渐平稳不变，说明该点为细小沟道上沟道网络链消失的阈值分界点。因此，本文最终选取8000作为最佳集水阈值。据此，分别提取出九期DEM数据中的沟道网络，并按照shreve分级法，对其进行沟道分级。
+
+# 3侵蚀坡面的变异特征分析
+
+# 3.1 坡度变异特征
+
+由于本次实验是在室内人工降雨的条件下进行，在正式开始实验之前黄土坡面经过了人为的修整和夯实，地形表面总体较为平整。因此，从第1期DEM中提取的坡度值的分布范围较为单一，该坡面的总体坡度约为 $1 0 ^ { \circ } \ \sim 2 0 ^ { \circ }$ （栅格数占比达到$7 3 . 0 6 \%$ ）。经过多期人工降雨后，地形表面变得越来越破碎，坡度值的分布产生了较为明显的变异特征。为突出展示黄土侵蚀坡面的坡度变化规律，基于前述坡度等级划分结果绘制出九期DEM对应的坡度分级柱状图（图2）。
+
+从上图第1期的坡度直方图中可以看出，坡度值在 $1 0 ^ { \circ } \sim 2 0 ^ { \circ }$ 之间栅格数占绝对优势( $7 3 . 0 6 \% \cdot$ ，由于在地貌演化前人工制作的坡面初始坡度约为$1 5 ^ { \circ }$ ，因此，该图反映出初始坡面的坡度分布集中的情况。在坡面演化发育的初期，坡度值在 $1 0 ^ { \circ } \sim 2 0 ^ { \circ }$ 之间的栅格数急剧减少（由 $7 3 . 0 6 \%$ 大幅减少到$3 7 . 5 6 \%$ ），而坡度值在 $3 0 ^ { \circ } \sim 9 0 ^ { \circ }$ 之间的其他坡度区间的栅格数都有较大幅度的增加，反映出该坡面的坡度离散程度增加、地形破碎程度加剧、侵蚀作用较
+
+80 第1期 80 第2期 80 第3期   
+0 %/ 60 %/ 60 40 40   
+20 20 20 0 □ 0 □ 0 □ □ 0[\~0 00\~01 08-00 05-00 09\~00 09\~09 0L\~09 08\~0L 06\~08 01\~0 07-00 20-00 05-00 00\~00 09\~09 0L\~09 08\~0L 06\~08 O[\~0 00\~00 20-00 05-00 09\~05 09\~09 0L\~09 08\~0L 06\~08 坡度分级／° 坡度分级／° 坡度分级／° 80 第4期 80 第5期 80 第6期 %/ 60 %/ 60 40 40 40 20 20 20 0 □ □ □ ■ □ 0 □ 一 □ □ □ □ □ 0 □ □ □ □ □ O[\~0 00-00 20-00 05-00 09\~00 09\~09 0L\~09 08\~0L 06\~08 O1\~0 07\~01 00-00 05-00 09\~00 09\~09 0L\~09 08\~0L 06\~08 01\~0 07\~01 20-00 05\~08 09\~00 09\~09 0L\~09 08\~0L 06\~08 坡度分级／° 坡度分级／° 坡度分级／° 80 第7期 80 第8期 80 第9期 %/ 60 %/ 60 40 40 40 20 20 20 1 1 □ □ 1 1 □ □ 1 山L□ 0 0 □ 0 O[\~0 00\~01 20-00 05-00 09\~05 09\~09 0L\~09 08\~0L 06\~08 0[\~0 07\~01 20-00 05-00 20-00 09\~09 02\~09 08\~0L 06\~08 0[\~0 07\~01 00-00 05-00 20-00 09\~09 0L\~09 08\~0L 06\~08 坡度分级／° 坡度分级／° 坡度分级／°
+
+强烈。在坡面发育的后期，上述坡度变化的总体趋势不变,但变化速度逐步减小。在后期的侵蚀过程中，坡度的分散程度逐步均匀化，坡度较均匀地分布在 $1 0 ^ { \circ } \sim 6 0 ^ { \circ }$ 之间的6个等级中（各坡度分级的栅格数平均占比为 $1 5 . 6 5 \%$ ），反映出该坡面的坡度离散程度和地形破碎程度基本稳定，侵蚀作用的剧烈程度有所减弱。
+
+# 3.2 坡向变异特征
+
+节理玫瑰花图是指状似玫瑰花的用于直观反映节理走向和倾向及条数的统计图，可以客观表达节理的有效发育程度和突出显示节理发育的优势方位[28]。为突出展示侵蚀坡面的坡向主导方向并找出坡向的变化特征，对从九期DEM数据中提取的坡向值按照每 $1 0 ^ { \circ }$ 进行分类，并采用节理倾向玫瑰花图的绘制方法，生成九期DEM的坡向玫瑰花图如图3所示。
+
+根据节理玫瑰花图的定义，圆半径的长度按照一定比例表示该方向上具备同样坡向值的栅格数目，其半径所指方向则对应坡向值的大小。从图3中可以看出，第一期DEM的坡向玫瑰花图上半径最长的区域(即坡向的主导方向)在 $2 2 5 ^ { \circ } \sim 2 3 5 ^ { \circ }$ 之间，而第四期DEM的坡向主导方向变成了 $1 6 5 ^ { \circ } \ \sim$ $1 7 5 ^ { \circ }$ 。从第一期到第四期DEM可以看出该坡面均有2\~3个主导坡向，且主导坡向的分布较分散。但是从第五期DEM开始，该坡面的主导坡向具有唯一性，且整个玫瑰花图沿着主沟道的坡向逐步呈对称分布，尤其是第九期DEM（图4），其玫瑰花图和晕渲图极为相似且对称性明显。
+
+此外，从第五期DEM开始，该侵蚀坡面的主导坡向为 $1 6 5 ^ { \circ } \sim 1 7 5 ^ { \circ }$ ,与坡面主沟道的坡向沿伸方向基本一致。为此,本文利用已经提取的坡面沟道,进一步提取出每期DEM的主沟道。并基于GIS 的空间分析功能统计出该坡面的沿着主沟道方向上的坡向栅格数据如表3所示。
+
+表3数据显示九期DEM主沟道坡向的平均值均在 $1 7 0 ^ { \circ } \sim 1 8 0 ^ { \circ }$ 之间，且该方向与第九期DEM的
+
+![](images/892793adb9837cf808220b760a24a4914e7314819ff1af1472de94a9f97e91db.jpg)  
+图3坡向玫瑰花图
+
+![](images/2c6252f4f4f15f0ba42c3eb35fe195535098a0be3f524ec7d060cb06095e62ac.jpg)  
+Fig.3Diagram of aspect roses   
+图4坡向玫瑰花图和晕渲图  
+Fig.4Rose diagram and hillshade of aspects
+
+# 干吴区地理
+
+# 表3主沟道坡向表
+
+Tab.3Aspects of the main channel   
+
+<html><body><table><tr><td>相关</td><td colspan="9">坡向期数</td></tr><tr><td>参数</td><td>1期</td><td>2期</td><td>3期</td><td>4期</td><td>5期</td><td>6期</td><td>7期</td><td>8期</td><td>9期</td></tr><tr><td>最大值／°</td><td>206.21</td><td>278.69</td><td>329.24</td><td>271.78</td><td>353.86</td><td>263.01</td><td>310.92</td><td>352.59</td><td>342.73</td></tr><tr><td>最小值／°</td><td>149.01</td><td>64.57</td><td>3.79</td><td>-1</td><td>-1</td><td>92.24</td><td>-1</td><td>-1</td><td>-1</td></tr><tr><td>平均坡向</td><td>180.09</td><td>180.87</td><td>177.43</td><td>174.41</td><td>178.72</td><td>180.89</td><td>178.49</td><td>180.88</td><td>170.22</td></tr></table></body></html>
+
+注：表中的-1表示没有坡向值，为平面
+
+坡向主导方向( $1 6 5 ^ { \circ } \sim 1 7 5 ^ { \circ }$ 范围内)基本吻合，表明该坡面主导坡向是沿着主沟道的坡向逐步靠拢，而且沿着主沟道两侧坡向分布具有较好的对称性。
+
+综上所述，在坡面演化发育的初期，坡向玫瑰花图的主导方向不唯一，主导坡向总体分布较为分散，但坡向玫瑰花图的主导方向是逐渐向主沟道延伸方向靠近。在坡面发育的后期，坡向玫瑰花图的主导方向逐步演化为一个方向，即主沟道的平均坡向值，而且总体坡向逐渐沿主导方向呈对称有序分布，表明该黄土坡面的侵蚀过程是一个坡向逐步有序化的变化过程。
+
+# 3.3坡面沟道的变异特征
+
+本文的黄土坡面侵蚀沟道具有典型的树状网络特征，沟道等级秩序严谨，不同级别的沟道网络代表不同的汇流累积量，级别越高，汇流累积量越大，坡面侵蚀越剧烈。因此，沟道网络的等级变化也在一定程度上反映着黄土坡面的地形侵蚀程度。九期DEM的Shreve分级沟道数据如表4所示，该表统计出九期DEM的沟道网络中各等级沟道的数量。从表4中可以看出，在第一期DEM时缺少4、6、7、10四个级别的沟道(其主要原因有可能是因为第一期DEM是在人工降雨实验实施之前测定的初始地形
+
+DEM，其地形表面为人工制作的地形），且2级和3级沟道数均大于1条；而到第五期DEM时只有第3级沟道出现空缺，并且3级以上的沟道都只有1条;最后在第九期DEM时已经没有了沟道空缺，除第1级沟道外，其余各级沟道均只有1条。从上述沟道等级变化中可以看到，在黄土坡面的侵蚀过程中，沟道等级数总体呈现由少变多并在达到最多13级沟道后逐步变少的趋势。此外，从第六期DEM沟道数据往后，1级以上的沟道均只有1条，表明随着侵蚀地貌的不断变化，沟道分级越单一，除了主沟道外，其他沟道不再有支流汇入，表明沟道网络结构逐步趋于稳定。沟道等级也从存在级数空缺到级数完整，其变化过程是一个沟道等级结构逐步趋于稳定的演化过程。
+
+总之，除了人工降雨实验之前的第一期DEM（为尚未受到人工降雨侵蚀的人工地形表面)外，从第二期到第五期DEM，黄土坡面内一级沟道总数呈逐渐增大的趋势，反映出黄土坡面上发生了较为强烈的侵蚀过程,形成了多条一级沟道且其分布具有随机性；而从第五期末期开始，一级沟道总数在达到最多13条(第五期和第六期DEM均为13条)后逐步减少到11条，沟道网络的最高级别也由最多13级逐步较少为11级（第五期和第六期DEM均为13级），表明此时的黄土坡面的坡脚区域进入了较强烈侵蚀过程,并开始进入了主沟道的溯源侵蚀过程。因为只有进入了溯源侵蚀过程，强烈的溯源侵蚀作用才能使主沟道逐步消失从而导致沟道的总级别数量逐步减少。在整个坡面侵蚀过程中，沟道网络在演化初期快速形成树状网后逐步保持基本稳定，并形成了完整和严密的沟道等级结构。
+
+表4坡面沟道分级统计表  
+Tab.4Grading statistical table of erosion channel   
+
+<html><body><table><tr><td rowspan="2">期数</td><td colspan="11">沟道等级</td></tr><tr><td>1级</td><td>2级</td><td>3级</td><td>4级</td><td>5级</td><td>6级</td><td>7级</td><td>8级</td><td>9级</td><td>10级</td><td>11级</td><td>12级</td><td>13级</td></tr><tr><td>1期</td><td>12</td><td>4</td><td>2</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>1</td><td>1</td><td></td></tr><tr><td>2期</td><td>10</td><td>2</td><td>1</td><td>1</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>1</td><td></td><td></td><td></td></tr><tr><td>3期</td><td>11</td><td>2</td><td>1</td><td>1</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td></td><td></td></tr><tr><td>4期</td><td>12</td><td>3</td><td>1</td><td>1</td><td>1</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>0</td><td>1</td><td></td></tr><tr><td>5期</td><td>13</td><td>2</td><td>0</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>6期</td><td>13</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>7期</td><td>12</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td></td></tr><tr><td>8期</td><td>12</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td></td></tr><tr><td>9期</td><td>11</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td></td><td></td></tr></table></body></html>
+
+# 4结论
+
+本文以黄土侵蚀坡面的坡度、坡向和沟道为研究对象，利用室内人工降雨实验获取的九期地貌演化DEM数据提取了坡度、坡向及沟道网络，对该坡面侵蚀过程中的等分坡度柱状图、等分坡向玫瑰花图和沟道分级网络的变异特征进行研究，并初步分析了该变异特征与黄土坡面的侵蚀和发育演化过程之间的关系，为未来进一步揭示黄土侵蚀坡面的侵蚀和发育演化机理奠定基础。研究结果表明，在室内人工降雨条件下黄土坡面侵蚀过程具有以下变异特征：
+
+(1)在坡面演化发育的初期，黄土侵蚀坡面的坡度离散程度逐步增加、地形破碎程度加剧、侵蚀作用较强烈。在坡面发育的后期，上述坡度变化特征的总体趋势不变，但变化速度逐步减小。在该侵蚀过程的后期，坡度的分散程度逐步均匀化，坡度较均匀地分布在 $1 0 ^ { \circ } \sim 6 0 ^ { \circ }$ 之间，反映出该坡面的坡度离散程度和地形破碎程度基本稳定，侵蚀作用的剧烈程度有所减弱。
+
+（2）在黄土坡面的侵蚀和发育过程中，该坡面的主导坡向总体呈现逐步有序化的变化特征。在黄土坡面侵蚀发育的初期,该坡面的主导坡向不唯一，分布较分散；而在侵蚀发育的后期，该坡面的主导坡向唯一且和该坡面主沟道的总体延伸方向基本一致。
+
+（3）在黄土坡面侵蚀发育的初期,该坡面内一级沟道数量呈逐渐增大的趋势，反映出该黄土坡面在侵蚀初期发生了较为强烈的侵蚀过程，这一过程以产生较多新一级沟道为主要特征；而在侵蚀发育的后期，该坡面内一级沟道数和沟道网络级别数均逐步减少，表明黄土坡面的坡脚区域产生了较强烈侵蚀过程，并开始进入了主沟道的溯源侵蚀过程，此时沟道网络保持基本稳定，且形成了完整和严密的
+
+沟道等级结构。
+
+（4）尽管上述研究表明，在室内人工降雨模拟条件下，黄土坡面侵蚀过程具有上述较为明显的变异特征,但在野外真实的黄土高原坡面侵蚀过程中是否也同样具有类似变异特征仍有待于未来进一步的深入研究。
+
+参考文献(References）   
+[1］蔡强国,陆兆熊,王贵平.黄土丘陵沟壑区典型小流域侵蚀产 沙过程模型［J].地理学报,1996,（2）：108－117.［CAIGuoqiang,LU Zhaoxiong,WANG Guiping. Process-based soil erosion and sediment yield model in asmallbasin in the hilly Loess region [J].Acta Geographica Sinica,1996,（2）:108 -117.]   
+[2]YANG B,WANG Q.Soil erosion assessment in the core area of the Loss Plateau[C]//Iop Conference Series:Earth& Environmental Science.2017,94(1):117-123.   
+[3］沈海鸥,郑粉莉,温磊磊,等.黄土坡面细沟侵蚀形态试验[J]. 生态学报,2014,34（19）:5514-5521.[SHENHaiou,ZHENG Fenli,WEN Leilei,et al.The study of watershed topography characteristics in the middle reaches of the Yellow River[J].Acta Ecologica Sinica,2014,34（19）:5514 -5521.]   
+[4］田风霞,王占礼,牛振华,等.黄土坡面土壤侵蚀过程试验研究 [J].干旱地区农业研究,2005,23（6）：141－146.[TIAN Fengxia,WANG Zhanli,NIU Zhenhua,et al.Experimental research on soil erosion process in Loess hill slope[J].Agricultural Research in the Arid Areas,2005,23(6):141-146.]   
+[5］张永东,吴淑芳,冯浩,等.黄土陡坡细沟侵蚀动态发育过程及 其发生临界动力条件试验研究［J]．泥沙研究,2013，（2）： 25-32.[ ZHANG Yongdong,WU Shufang,FENG Hao,et al. Experimental study of rill dynamic development process and its critical dynamic conditions on loess slope[J].Journal of Sediment Research,2013,（2):25-32.]   
+[6］丁文峰,李占斌,鲁克新,等.坡面细沟发生临界水动力条件初 探[J].土壤学报,2003,40(6）:822-828.［DING Wenfeng,LI Zhanbin,LU Kexin,etal.The elementary study of the reason of rill erosion on slope[J].Acta Pedologica Sinica,2003,40(6） :822- 828.]   
+[7］王春,汤国安,张婷,等.黄土模拟小流域降雨侵蚀中地面坡度 的空间变异[J]．地理科学,2005,25(6）:683-689．［WANG Chun,TANG Guo'an,ZHANG Ting,et al. Slope variation of small tested loess watershed under erosion of rainfall[J]. Scientia Geographica Sinica,2005,25(6）:683-689.]   
+[8]XIANG Z,LI Z,PENG L,et al. Influences of sand cover on erosion processes of loess slopes based on rainfall simulation experiments [J]. Journal of Arid Land,2018,10(1):39 -52.   
+[9］张梦,李冬杰,周玥.雨强和坡度对黄土坡面土壤侵蚀及氮磷 流失的影响［J].水土保持学报,2018,32（1)：85－90. [ZHANG Meng,LI Dongjie,ZHOU Yue,et al.Effects of rainfall intensity and slope gradient on soil erosion,nitrogen and potassium loss on loess slope[J].Journal of Soil and Water Conservation, 2018,32(1) :85-90.]   
+[10］熊礼阳,汤国安,袁宝印,等.基于DEM的黄土高原(重点流失 区)地貌演化的继承性研究[J].中国科学:地球科学,2014,44 (2）:313-321.[ XIONG Liyang,TANG Guo'an,YUAN Baoyin, et al. Geomorphological inheritance for loess landform evolution in a severe soil erosion region of Loess Plateau of China based on dig ital elevation models[J]. Scientia Sinica(Terrae）,2014,44（2）: 313 -321.]   
+[11]XIONG L Y,TANG G A,LIF Y,et al. Modeling the evolution of loess-covered landforms in the Loess Plateau of China using a DEM of underground bedrock surface[J].Geomorphology,2014,209 (1):18-26.   
+[12］张芳,汤国安,曹敏,等.基于ANN-CA 模型的黄土小流域正负 地形演化模拟[J].地理与地理信息科学,2013,29（1）：28- 31,1.[ZHANG Fang,TANG Guo'an,CAO Min,et al. Simulation of positive and negative terrain evolution in small Loess Watershed based on ANN-CA model[J]. Geography and Geographic Information Science,2013,29(1）:28-31,1]   
+[13］曹敏,汤国安,张芳,等.基于元胞自动机的黄土小流域地形演 变模拟[J].农业工程学报,2012,28（22）：149－155.[CAO Min,TANG Guoan,ZHANG Fang,et al.Simulation of terran evolution in small Loess watershed based on cellular automata[J]. Transactions of the Chinese Societyof Agricultural Engineering,， 2012,28(22) :149 -155. ]   
+[14］祝士杰,汤国安,李发源,等.基于DEM 的黄土高原面积高程 积分研究[J].地理学报,2013,68（7）:921-932.[ZHU Shijie, TANG Guo'an,LI Fayuan,etal.Spatial variation of hypsometric integral in the Loess Plateau based on DEM[J].Acta Geographica Sinica,2013,68(7) :921-932.]   
+[15］郭娇,王伟,石建省.陕北洛河流域地貌演化阶段的定量分析 [J].干旱区地理,2015,38(6）:1161-1168.[GUO Jiao,WANG Wei,SHI Jiansheng.A quantitative analysis of the stage of geomorphologic evolution in Luohe Drainage Basin,north of Shaanxi Province[J]. Arid Land Geography,2015,38(6):1161 -1168.]   
+[16］蔡凌雁,汤国安,熊礼阳,等.基于DEM 的陕北黄土高原典型 地貌分形特征研究［J].水土保持通报，2014,34（3）：141- 144.[CAI Lingyan,TANG Guo'an,XIONG Liyang,et al.An analysis on fractal characteristics of typical landform patterns in northern Shaanxi Loess Platea based on DEM[J].Bulletin of Soil and Water Conservation,2014,34(3）:141-144.]   
+[17]ZHAO W D,TANG GA,MA L,et al. Digital elevation modelbased watershed geomorphic entropy for the study of landscape evolution of a watershed geomorphic system in the loess landforms of China[J]. Progress in Physical Geography,2017,41（2）:139- 153.   
+[18］吴秉校,侯雷,宋敏敏,等.基于汇流累积计算的沟壑密度分析 方法［J].水土保持研究,2017,24（3）:39-44.[WUBingxiao, HOU Lei,SONG Minmin,et al.Gully density analysis based on flow accumulation method[J].Research of Soil and Water Conservation,2017,24(3) :39 -44.]   
+[19］陈浩.陕北黄土高原沟道小流域形态特征分析[J].地理研究, 1986,5(1):82-92.[CHEN Hao.A preliminary study on geomorphic features of small drainage basins on the Loess Plateau in northern Shaanxi[J].Geographical Research,1986,5（1）:82- 92.]   
+[20］顾畛逵,师长兴,阳辉,等．内蒙古十大孔兑流域地貌演化格局 及其成因机制[J]．干旱区地理,2017,40(6）：1188-1197. [GU Zhenkui,SHI Changxing,YANG Hui,et al.Landform evolution pattern of the ten Kongdui basins and its genetic mechanisms in Inner Mongolia of China[J].Arid Land Geography,2017,40 (6) :1188 -1197.]   
+[21］李晨瑞,李发源,马锦,等.黄河中游流域地貌形态特征研究 [J].地理与地理信息科学,2017,33（4):107-112,2.[LI Chenrui,LI Fayuan,MA Jin,et al.An experimental study on rill morphology at loess hillslope［J].Geography and Geo-information Science,2017,33(4):107 -112,2.]   
+[22］程彦培,石建省,杨振京,等.古地形对黄土区岩土侵蚀趋势的 控制作用[J].干旱区地理,2010,33（3）:34-339.[CHENG Yanpei,SHI Jianshen,YANG Zhenjing,etal.Control of ancent landform onrocksoil erosion inloessarea[J].AridLand Geography,2010,33(3) 334 -339.]   
+[23］汤国安,赵牡丹,李天文,等.DEM 提取黄土高原地面坡度的不 确定性[J].地理学报,2003,58（6）:824-830.[TANG Guo’ an,ZHAO Mudan,Li Tianwen,et al. Modeling slope uncertainty derived from DEMs in Loess Plateau[J].Acta Geographica Sinica, 2003,58(6) :824 -830.]   
+[24]O'CALLAGHAN JF,MARK D M. The extraction of drainage networks from digital elevation data[J].Computer Vision,Graphics, and Image Processing,1984,28(3） :323-344.   
+[25］南学良,马文明,王水献.基于DEM 的新疆开都河流域河网提 取研究[J].甘肃科学学报,2014,26(1）:37-41.[NAN Xueliang,MA Wenming,WANG Shuixian.DEM-based extraction of river network of the Kaidu River Basin in Xinjiang[J].Journal of Gansu Sciences,2014,26(1） :37 -41.]   
+[26]李照会,郭良,刘荣华,等.基于DEM 数字河网提取时集水面 积阈值与河源密度关系的研究[J].地球信息科学学报,2018, 20(9）:1244-1251.[LI Zhaohui,GUO Liang,LIU Ronghua,et al.The relationship between the threshold of catchment area for extractionof digital river network from DEM and the river source density[J]. Journal of Geo-information Sciences,2018,20（9）： 1244 - 1251. ]   
+[27］孔凡哲,李莉莉.利用 DEM提取河网时集水面积阈值的确定 [J].水电能源科学,2005,（4）:65-67.[KONG Fanzhe,LI Lili.Determination of river drainage area threshold for extraction of drainage network by DEM[J].Water Resources and Power,2005, (4) :65 -67. ]   
+[28］龚俊豪.基于DEM的黄土高原小流域地貌系统的有序化演化 机理研究［D].合肥：合肥工业大学,2018.［GONG Junhao. DEM-based study on orderly evolution mechanism of geomorphologic system in small watershed of the Loess Plateau[D].Hefei: Hefei University of Technology,2018.]
+
+# Variation characteristics of loess erosion hillside under indoor artificial rainfall conditions
+
+ZHAO Wei-dong1,23，ZHANG Hao-nan12，JIANG Qiong³，WEI Jia-jia $^ { 1 , 2 }$ ，ZHENG Yong' (1Schoolof Resource &Environmental Engineering,Hefei UniversityofTechnology,Hefei 23o9,Anhui,China; 2Intelligent Manufacturing TechnologyInstitute，Hefei UniversityofTechnology,Hefei23oo88,Anhui,China; 3SchoolofCivilandHydraulic Engineering,Hefei UniversityofTechnology,Hefei 23oo09,Anhui,China)
+
+Abstract：The erosion mechanism of loesshilside and its landform variation characteristics during erosion need further research.Therefore,based on the nine-phase DEM data of erosion and evolution ofa loess hilside obtained from indoor artificial rainfall experimentsat Yangling District,Shaanxi Province,China,the slope,aspectand channel networksof the loesshilside in diffrent evolution periods have been calculated.Weused the slope histogram, therose diagram of aspect and the channel networks to study the variation characteristics of erosion process of the loesshillside,and preliminarilyanalyzedtherelationship between the variationcharacteristics and the erosion and evolution process of the loess hilside.The results show that the slope dispersion degreeof the loess hillide is basically stable after gradually increasing during the erosion process;The dominant aspects of the loess hillside show a gradual orderly change and gradually evolve from a pluralityof dominant aspects toa dominant aspect that is basicallyconsistent with the overallorientationof the main channelof theloesshilside.Thechannel network gradually develops into a typical tree network,and remains basically stable and forms a complete and strict channel hierarchy. The above-mentioned variation characteristics of the loess hilside reflect that the hilside is eroded strongly during its prophase but weakened during its activity stage.This study is apreliminary exploration of the variation characteristics of loesserosion hilside,and ithas important theoretical significance for further revealing theerosion mechanism and evolution law of loess hillside.
+
+Key words:loess erosion；geomorphological evolution；digital elevation model；artificial rainfall； slope erosion

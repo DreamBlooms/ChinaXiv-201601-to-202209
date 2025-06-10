@@ -1,0 +1,412 @@
+[
+    {
+        "type": "text",
+        "text": "巨桉叶绿体基因组密码子偏好性分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王鹏良1,2，吴双成²，杨利平，王华宇²，陈乃明，张照远1,\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1．广西优良用材林资源培育重点实验室，广西壮族自治区林业科学研究院，南宁530002；2．广西北部湾海洋生物多样性养护重点实验室，钦州学院，广西 钦州 535011；3．钦州市植物生物技术重点实验室，广西钦州市林业科学研究所，广西 钦州 535099)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了提高基因表达效率从而利用叶绿体基因工程改良巨桉重要性状，该文以巨桉叶绿体基因组序列为材料，选取其中长于 $3 0 0 \\mathrm { n t }$ 且以AUG为起始密码子的43个非重复基因为研究对象，采用CodonW1.4.2软件分析巨桉叶绿体基因组的密码子使用偏好性。分析结果表明：第3位密码子的平均GC含量为 $2 7 . 9 7 \\%$ ；ENC的变化范围为 $3 9 . 4 9 \\mathrm { \\sim } 6 1 . 0 0 \\$ ，平均为47.04;${ \\mathrm { R S C U } } { > } 1$ 的密码子有31个，其中29个以A/U 结尾；中性分析显示GC12与GC3无显著相关，回归分析也未达到显著性水平；ENC-plot分析发现大部分基因落在曲线上或附近；对应分析表明第一轴的贡献率为 $1 7 . 6 8 \\%$ ，第二轴的贡献率为 $1 1 . 4 9 \\%$ ，第三、四轴的贡献率分别为 $8 . 0 0 \\%$ 和 $5 . 7 6 \\%$ ，前四轴累计贡献率达 $4 2 . 9 3 \\%$ ，第一轴与GC、ENC、CAI达到极显著相关；上述分析结果表明，巨桉叶绿体基因组的密码子偏好较弱，密码子第3位偏好以A或U结尾；选择和突变在巨桉叶绿体基因组密码子偏好中起相对均衡的作用；最终确定UUG、CUU、GUU、UCC、UCA、ACA、UAU、UAA、CAU、AAU、AGA 和 GGA12个高频高表达密码子为最优密码子。该研究为转化叶绿体基因密码子优化从而提高表达效率改良巨桉目标性状奠定了坚实基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：巨桉，叶绿体，基因组，密码子偏好性 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Analysis of codon bias of chloroplast genome in Eucalyptus grandis ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Pengliang $^ { 1 , 2 }$ , WU Shuangcheng², YANG Liping³, WANG Huayu², CHEN Naiming³, ZHANG Zhaoyuan1\\* (1. Guangxi Forestry Research institute, Guangxi Key Laboratory of Superior Timber Trees Resource Cultivation, Nanning 530o02, China; 2. Qinzhou University, Guangxi Key Laboratory of Beibu Gulf Marine Biodiversity Conservation,Qinzhou 535011, Guangxi, China; 3. Qinzhou Forestry Research institute, Qinzhou Key Laboratory of Plant biotechnology, Qinzhou 535099, Guangxi, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In order to increase the expression eficiency of genes in chloroplast for future improvement of important traits in Eucalyptus grandis,analysis of codon bias was carried out using CodonW 1.4.2 software, with chloroplast genome of Eucalyptus grandis as a material and 43 non-repeated genes beginning with AUG as objects. The results indicated that the average of GC content in $3 ^ { \\mathrm { r d } }$ position was $2 7 . 9 7 \\%$ ; ENC ranged from 39.49 to 61.00 with an average of 47.04; there were31 codons whose RSCUs were more than 1.00 in the chloroplast genome; of them, 29 codons ended with $\\mathrm { \\bf A } / \\mathrm { \\bf U }$ ； neutral plot analysis showed correction and regression analysis between GC12 and GC3 were not significant; ENC-plot revealed most genes located along or near the standard curve; correspondence analysis indicated the $1 ^ { \\mathrm { s t } }$ axis accounted for $1 7 . 6 8 \\%$ contribution, the $2 ^ { \\mathrm { n d } }$ axis $1 1 . 4 9 \\%$ ， the rest axes accounted for $8 . 0 0 \\%$ and $5 . 7 6 \\%$ and the first four axes accounted for $4 2 . 9 3 \\%$ in total; the correction between the $1 ^ { \\mathrm { s t } }$ axis and GC3S was not significant, however the negative correction between $1 ^ { \\mathrm { s t } }$ axis and ENC was significant. The results mentioned above revealed that the codon bias level was low in the chloroplast genome and the codon always end with $_ \\mathrm { A / U }$ and codon bias might be determined by both mutation and selection nearly equally. Finally,the codons that were not only highly expressed but frequently were determined as the optimal codons including UUG, CUU, GUU, UCC, UCA, ACA, UAU, UAA, CAU, AAU, AGA and GGA. This study will provide a solid foundation for codon optimization of the genes transformed into chloroplast genome and future increasing the expression efficiency for improvement of important traits. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Eucalyptus grandis, chloroplast, genome, codon bias ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "巨桉(Eucalyptus grandis)原产于澳大利亚，为桃金娘科桉属中的一个多年生木本树种。因其生长迅速，树形通直，树体高大，巨桉被引种至世界各地广泛种植，成为各国重要的外来树种(祁述雄，2006；陈少雄等，2018)。因此，研究人员在引种驯化的基础上开展了种源/家系/单株不同性状变异研究；结果表明，巨桉的抗寒性不足(刘建等,2009)，易受癭姬小蜂感染(张照远等，2016)，不同遗传资源在生长和形质方面也存在较大差异(吴世军等,2016；张捷等,2016)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基因工程技术育种与传统育种技术相比具有针对性强，周期短，效率高等明显优势(王关林和方宏筠,2014)。叶绿体基因工程具有明显的高效表达，并能有效控制转化基因的扩散等特点，是极为理想的转化方式(Daniell&Chase,2004)。密码子被称为第二套遗传密码(Nelson& Cox,2017;Hanson&Collr,2018)；密码子使用的选择不仅影响基因的表达(Zhouet al,2016)，也影响基因相应的功能(Hershberg&Petrov,2008)。不同物种间叶绿体基因组的密码子偏好存在较大差异(Zhouetal,2008；刘慧等,2017；王鹏良等,2018；王文斌等，2018)。本文旨在分析巨桉叶绿体基因组密码子偏好性的特征，并确定其最优密码子，为巨按叶绿体基因工程的开展和遗传改良奠定基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.材料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1序列 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从NCBI网站的细胞器基因组网页中搜索巨桉的拉丁名：Eucalyptus grandis 找到巨桉的叶绿体基因组（https://www.ncbi.nlm.nih.gov/nuccore/NC_014570.1)，下载其 Fasta 格式的全基因组和基因编码序列(Coding sequences)。巨桉叶绿体基因组总长为160137bp，共含有 75个基因。为了降低误差，本文选用其中以AUG为起始密码子且长度超过 $3 0 0 \\mathrm { n t }$ 的43条非重复序列用于密码子偏好性分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2数据分析 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1密码子偏好参数计算 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以所选的43个非重复基因的编码序列为对象，采用CodonW1.4.2软件分析密码子偏好参数：同义密码子相对使用度（RSCU,relative synonymous codon usage）、有效密码子数目（ENC,effective number ofcodon)，其最小理论值为20,说明每个氨基酸都只有一个密码子，最大理论值为61，说明所有密码子都均等使用、密码子适应指数(CAI,codon adaption index)，变化范围为 $0 \\sim 1$ ，值越大偏性越强、密码子偏好性指数(CBI,codon bias index)，最优密码子使用频率(FOP,frequency of optimal codons)，该基因表达为蛋白质的疏水性(Gravy)及不同位置的GC 含量，包括GC1，GC2，GC3，GC3S，GC12和GC，分别代表密码子中第1，2,3位的GC含量，第3位同义密码子GC含量，第1，2位密码子平均GC含量和密码子总体的GC含量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2中性绘图分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了初步确定影响密码子偏好的因素，中性绘图分析根据GC1和GC2的信息计算两者的平均值GC12作为纵坐标，以GC3为横坐标，以散点图的形式在坐标中定位各基因的位置，根据基因的坐标信息与坐标对角线的关系，若基因位于对角线上，则表明基因受突变作用；若基因不位于对角线，则表明该基因收到选择的影响，从而判断造成密码子的使用偏好的因素。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 ENC-plot绘图",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了进一步确定影响密码子偏好的因素，ENC-plot 绘图以ENC 为纵坐标，以GC3S 为横坐标建立坐标系，将各基因定位在该坐标中形成散点图。再在坐标系中添加ENC 的标准曲线，标准曲线方程(Wright,1990)为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { E N C _ { \\varepsilon x y } = 2 + G C 3 S + \\frac { 2 9 } { G C 3 S ^ { 2 } + ( 1 - G C 3 S ) ^ { 2 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ENC比值的公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { E N C _ { R a t i o } = \\frac { E N C _ { e x p } - E N C _ { a 5 s } } { E N C _ { a 5 p } } ~ } & { { } ( 2 ) \\frac { 1 } { \\Sigma _ { y } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据散点图和ENC比值的分布结果；若偏离标准曲线，则表明受到选择作用；若在标准曲线上，则只是受到突变作用从而推断造成密码子偏好的可能原因。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.4对应分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对应分析是一种对原始数据采用适当的标度方法，将变量和样本分析结合起来，同时得到两方面的结果，在同一因子平面上对变量和样本一起进行分类，从而揭示样本和变量间的内在联系。利用CodonW软件将对应分析用于巨桉叶绿体基因组密码子分析，从而揭示巨桉叶绿体基因组密码子使用的规律。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.5最优密码子的确定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了确定最优密码子，本文以ENC参数为标准对所有参试基因按从大到小的顺序排列，分别从ENC最高和最低两端都选取所有参试基因的 $10 \\%$ ，建立高表达和低表达库。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将高表达库与低表达库的同义密码子相对使用度的差值( ARSCU高于0.08且同义密码子相对使用度( RSCU高于1的密码子确定为最优密码子(李娟和薛庆中,2005；续晨等,2010；杨国锋等,2015；王鹏良等,2018)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.结果与分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1密码子组成分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了更加准确分析密码子偏好性，本研究选取了巨桉叶绿体基因组中以AUG为起始密码子且编码区序列长度超过 $3 0 0 \\mathrm { n t }$ 的43个非重复基因的编码序列为研究对象，采用codonW软件对参试基因开展密码子相关参数的计算和分析。结果（表1）表明：不同基因密码子不同位置的GC含量并不相同，第1、2、3位密码子的GC含量的变化范围分别为$3 4 . 2 0 \\% { \\sim } 5 8 . 9 0 \\%$ ， $2 7 . 9 0 \\% { \\sim } 5 8 . 7 0 \\%$ $2 0 . 2 0 \\% { \\sim } 3 7 . 0 0 \\%$ ，其平均值分别为 $4 7 . 4 0 \\% , 3 9 . 4 7 \\% , 2 7 . 9 7 \\%$ 第1，2位的GC含量明显高于第3位。ENC的范围在 $3 9 . 4 9 \\mathrm { \\sim } 6 1 . 0 0$ 之间，平均值为47.04。CAI的范围为 $0 . 0 8 2 { \\sim } 0 . 3 0 1$ ，平均值为0.1714。CBI的范围为- ${ } . 0 . 2 2 2 { \\sim } 0 . 1 9 6$ ，平均值为-0.092。FOP的范围为 $0 . 2 6 3 { \\sim } 0 . 5 3 2$ ，其平均值为0.356。蛋白质的Gravy变化范围为 ${ \\cdot 0 . 7 0 4 { \\sim } 1 . 1 0 2 }$ ，平均值为0.017。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/10548c871c40ef7b3aeacd954d5e42cad916bdd3ea020d7d1dceb09e6ebf3dcf.jpg",
+        "table_caption": [
+            "表1巨桉叶绿体基因组密码子主要参数",
+            "Table1 Main parameters in chloroplast genomics of Eucalyptus grandis "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"9\">Tabler Manparaneters last Eucatyptusgranats</td></tr><tr><td>Gene</td><td>GC1</td><td>GC2</td><td>GC3</td><td>GC</td><td>GC3S</td><td>ENC</td><td>CAI CBI</td><td>FOP</td><td>Gravy</td></tr><tr><td>psbA</td><td>0.504</td><td>0.433</td><td>0.328</td><td>0.422</td><td>0.284 41.24</td><td>0.301</td><td>0.196</td><td>0.532</td><td>0.341</td></tr><tr><td>matK</td><td>0.402</td><td>0.312</td><td>0.276</td><td>0.330</td><td>0.257 51.29</td><td>0.167</td><td>-0.141</td><td>0.331</td><td>-0.172</td></tr><tr><td>atpA</td><td>0.558</td><td>0.397</td><td>0.248</td><td>0.401</td><td>0.232 44.61</td><td>0.203</td><td>-0.037</td><td>0.393</td><td>-0.055</td></tr><tr><td>atpF</td><td>0.478</td><td>0.332</td><td>0.348</td><td>0.386</td><td>0.330 48.37</td><td>0.155</td><td>-0.106</td><td>0.358</td><td>-0.345</td></tr><tr><td>atpI</td><td>0.482</td><td>0.369</td><td>0.263</td><td>0.371</td><td>0.235 44.97</td><td>0.168</td><td>-0.075</td><td>0.353</td><td>0.625</td></tr><tr><td>rps2</td><td>0.445</td><td>0.432</td><td>0.271</td><td>0.383</td><td>0.236 47.19</td><td>0.167</td><td>-0.174</td><td>0.316</td><td>-0.282</td></tr><tr><td>rpoB</td><td>0.503</td><td>0.377</td><td>0.280</td><td>0.387</td><td>0.259 48.77</td><td>0.149</td><td>-0.121</td><td>0.341</td><td>-0.286</td></tr><tr><td>psbD</td><td>0.527</td><td>0.434</td><td>0.317</td><td>0.426</td><td>0.272 44.02</td><td>0.263</td><td>0.083</td><td>0.465</td><td>0.359</td></tr><tr><td>psbC</td><td>0.537</td><td>0.461</td><td>0.302</td><td>0.433</td><td>0.263 45.82</td><td>0.196</td><td>-0.003</td><td>0.406</td><td>0.265</td></tr><tr><td>psaB</td><td>0.487</td><td>0.429</td><td>0.308</td><td>0.408</td><td>0.263 47.83</td><td>0.182</td><td>-0.108</td><td>0.356</td><td>0.117</td></tr><tr><td>psaA</td><td>0.527</td><td>0.433</td><td>0.324</td><td>0.428</td><td>0.283</td><td>50.26 0.197</td><td>-0.099</td><td>0.358</td><td>0.259</td></tr><tr><td>ycf3</td><td>0.477</td><td>0.387</td><td>0.333</td><td>0.399</td><td>0.304</td><td>61.00 0.151</td><td>-0.178</td><td>0.335</td><td>-0.502</td></tr><tr><td>rps4</td><td>0.503</td><td>0.383</td><td>0.263</td><td>0.383</td><td>0.245</td><td>51.59 0.155</td><td>-0.053</td><td>0.372</td><td>-0.606</td></tr><tr><td>ndhJ</td><td>0.525</td><td>0.387</td><td>0.285</td><td>0.399</td><td>0.242</td><td>47.52 0.162</td><td>-0.180</td><td>0.302</td><td>-0.273</td></tr><tr><td>ndhC</td><td>0.475</td><td>0.333</td><td>0.259</td><td>0.356</td><td>0.198</td><td>46.03 0.182</td><td>-0.104</td><td>0.324</td><td>1.094</td></tr><tr><td>atpE</td><td>0.518</td><td>0.406</td><td>0.255</td><td>0.393</td><td>0.227</td><td>50.16 0.164</td><td>-0.054</td><td>0.375</td><td>-0.068</td></tr><tr><td>atpB</td><td>0.565</td><td>0.416</td><td>0.284</td><td>0.421</td><td>0.261</td><td>45.37 0.202</td><td>-0.006</td><td>0.406</td><td>-0.035</td></tr><tr><td>rbcL</td><td>0.575</td><td>0.435</td><td>0.288</td><td>0.433</td><td>0.260</td><td>46.54 0.265</td><td>0.071</td><td>0.464</td><td>-0.284</td></tr><tr><td>ycf4</td><td>0.462</td><td>0.403</td><td>0.342</td><td>0.402</td><td>0.309</td><td>50.13 0.183</td><td>-0.032</td><td>0.389</td><td>0.240</td></tr><tr><td>cemA</td><td>0.394</td><td>0.279</td><td>0.297</td><td>0.323</td><td>0.251</td><td>45.87 0.188</td><td>-0.046</td><td>0.377</td><td>0.248</td></tr><tr><td>petA</td><td>0.531</td><td>0.363</td><td>0.315</td><td>0.403</td><td>0.303</td><td>52.23 0.189</td><td>-0.048</td><td>0.382</td><td>-0.114</td></tr><tr><td>rps18</td><td>0.376</td><td>0.416</td><td>0.248</td><td>0.347</td><td>0.232</td><td>43.41 0.106</td><td>-0.153</td><td>0.313</td><td>-0.614</td></tr><tr><td>rpl20</td><td>0.351</td><td>0.453</td><td>0.231</td><td>0.345</td><td>0.211</td><td>45.47 0.082</td><td>-0.222</td><td>0.263</td><td>-0.551</td></tr><tr><td>clpP</td><td>0.589</td><td>0.364</td><td>0.323</td><td>0.426</td><td>0.283</td><td>53.46</td><td>0.181 -0.123</td><td>0.332</td><td>0.088</td></tr><tr><td>psbB</td><td>0.551</td><td>0.460</td><td>0.282</td><td>0.431</td><td>0.241</td><td>45.75</td><td>0.185 -0.073</td><td>0.372</td><td>0.113</td></tr><tr><td>petB</td><td>0.493</td><td>0.414</td><td>0.274</td><td>0.394</td><td>0.216</td><td>39.49</td><td>0.216 -0.046</td><td>0.372</td><td>0.582</td></tr><tr><td>rpoA</td><td>0.454</td><td>0.326</td><td>0.267</td><td>0.349</td><td>0.247</td><td>48.93</td><td>0.157 -0.122</td><td>0.345</td><td>-0.334</td></tr><tr><td>rps11</td><td>0.522</td><td>0.587</td><td>0.202</td><td>0.437</td><td>0.173</td><td>42.79 0.152</td><td>-0.140</td><td>0.331</td><td>-0.415</td></tr><tr><td>rps8</td><td>0.388</td><td>0.403</td><td>0.328</td><td>0.373</td><td>0.302</td><td>47.18</td><td>0.108 -0.042</td><td>0.380</td><td>-0.325</td></tr><tr><td>rpl14</td><td>0.533</td><td>0.386</td><td>0.246</td><td>0.388</td><td>0.227</td><td>44.66 0.165</td><td>-0.070</td><td>0.361</td><td>-0.043</td></tr><tr><td>rpl16</td><td>0.503</td><td>0.525</td><td>0.222</td><td>0.417</td><td>0.167</td><td>41.74 0.121</td><td>-0.100</td><td>0.357</td><td>-0.460</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/915451f6f5026ac8bb1f1e2ed11735219547dcd1f0c4f360484f96f54116232f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>rps3</td><td>0.476</td><td>0.347</td><td>0.259</td><td>0.361</td><td>0.227</td><td>43.47</td><td>0.154</td><td>-0.150</td><td>0.329</td><td>-0.318</td></tr><tr><td>rpl22</td><td>0.419</td><td>0.369</td><td>0.269</td><td>0.352</td><td>0.220</td><td>47.47</td><td>0.198</td><td>-0.075</td><td>0.393</td><td>-0.704</td></tr><tr><td>ycf2</td><td>0.414</td><td>0.344</td><td>0.370</td><td>0.376</td><td>0.343</td><td>53.16</td><td>0.158</td><td>-0.140</td><td>0.337</td><td>-0.435</td></tr><tr><td>ndhB</td><td>0.421</td><td>0.384</td><td>0.317</td><td>0.375</td><td>0.280</td><td>47.80</td><td>0.164</td><td>-0.084</td><td>0.354</td><td>0.685</td></tr><tr><td>rps7</td><td>0.529</td><td>0.458</td><td>0.246</td><td>0.411</td><td>0.215</td><td>43.44</td><td>0.188</td><td>-0.055</td><td>0.389</td><td>-0.593</td></tr><tr><td>ndhF</td><td>0.370</td><td>0.364</td><td>0.221</td><td>0.319</td><td>0.181</td><td>43.50</td><td>0.133</td><td>-0.210</td><td>0.282</td><td>0.535</td></tr><tr><td>ccsA</td><td>0.342</td><td>0.379</td><td>0.273</td><td>0.331</td><td>0.221</td><td>47.49</td><td>0.139</td><td>-0.198</td><td>0.295</td><td>0.551</td></tr><tr><td>ndhD</td><td>0.406</td><td>0.366</td><td>0.270</td><td>0.347</td><td>0.230</td><td>46.76</td><td>0.135</td><td>-0.129</td><td>0.316</td><td>0.788</td></tr><tr><td>ndhE</td><td>0.396</td><td>0.337</td><td>0.248</td><td>0.327</td><td>0.224</td><td>49.43</td><td>0.142</td><td>-0.198</td><td>0.286</td><td>0.734</td></tr><tr><td>ndhG</td><td>0.438</td><td>0.341</td><td>0.261</td><td>0.347</td><td>0.231</td><td>45.73</td><td>0.140</td><td>-0.181</td><td>0.278</td><td>1.102</td></tr><tr><td>ndhI</td><td>0.426</td><td>0.378</td><td>0.228</td><td>0.343</td><td>0.194</td><td>42.59</td><td>0.203</td><td>-0.112</td><td>0.350</td><td>-0.036</td></tr><tr><td>ndhH</td><td>0.509</td><td>0.369</td><td>0.254</td><td>0.377</td><td>0.202</td><td>48.27</td><td>0.155</td><td>-0.113</td><td>0.338</td><td>-0.145</td></tr><tr><td>平均</td><td>0.474</td><td>0.395</td><td>0.280</td><td>0.383</td><td>0.246</td><td>47.04</td><td>0.171</td><td>-0.092</td><td>0.356</td><td>0.017</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "密码子参数的相关分析（表2）表明，GC1与GC2为显著相关，其相关系数为0.363；GC1与GC3 相关不显著，GC2与GC3 相关也不显著；同时GC 含量与GC1和GC2极显著相关，与GC3 无显著相关。ENC与GC1不相关，与GC2显著负相关，与GC3 极显著正相关,其相关系数为0.521。GC1和GC 两个参数与CAI,CBI和FOP 极显著相关,GC3与CAI、CBI和FOP呈显著相关；Gravy与其余的密码子参数均无显著相关；密码子数目（N）与GC3 极显著相关外，不与ENc和CAI等其他参数显著相关。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/df5f0e56441be614bda4c7e56ff2add3fae0e3389ac2963ddfbff05fb820b3bd.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：\\*表示在0.05水平上显著相关；\\*\\*表示在0.01水平上显著相关。 Note: \\* means significant correlation at 0.05 level; \\*\\* means significant correlation at 0.01 level. "
+        ],
+        "table_body": "<html><body><table><tr><td>Item</td><td>GC1</td><td>GC2</td><td>GC3</td><td>GC</td><td>GC3S</td><td>ENC</td><td>CAI</td><td>CBI</td><td>FOP</td><td>Gravy</td></tr><tr><td>GC2</td><td>0.363*</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>GC3</td><td>0.117</td><td>-0.258</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>GC</td><td>0.857**</td><td>0.669**</td><td>0.300</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>GC3S</td><td>0.114</td><td>-0.282</td><td>0.950**</td><td>0.266</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ENc</td><td>0.008</td><td>-0.365*</td><td>0.521**</td><td>0.000</td><td>0.584**</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CAI</td><td>0.551**</td><td>0.084</td><td>0.320*</td><td>0.502**</td><td>0.225</td><td>-0.184</td><td></td><td></td><td></td><td></td></tr><tr><td>CBI</td><td>0.513**</td><td>0.213</td><td>0.340*</td><td>0.555**</td><td>0.295</td><td>-0.263</td><td>0.813**</td><td></td><td></td><td></td></tr><tr><td>Fop</td><td>0.526**</td><td>0.241</td><td>0.380*</td><td>0.593**</td><td>0.338*</td><td>-0.188</td><td>0.834**</td><td>0.997**</td><td></td><td></td></tr><tr><td>Gravy</td><td>-0.120</td><td>-0.270</td><td>0.040</td><td>-0.204</td><td>-0.091</td><td>-0.188</td><td>0.177</td><td>0.045</td><td>-0.091</td><td></td></tr><tr><td>N</td><td>-0.030</td><td>-0.122</td><td>0.399**</td><td>0.062</td><td>0.397</td><td>0.234</td><td>0.071</td><td>-0.018</td><td>0.023</td><td>-0.025</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "RSCU分析（表3）表明，RSCU大于1.00的密码子数目为31个。其中，以U结尾的密码子有16个，以A结尾的密码子有13个，以G和C结尾的密码子分别为1个。以A或U 结尾的密码子占全部的 $9 3 . 5 4 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/10e25ab1a158e2775b66017100376d2978b239a26318f0251f3e35788798f895.jpg",
+        "table_caption": [
+            "表2密码子参数的相关性分析Table 2Correlation analysis of the parameters of coding sequences'codon usage",
+            "表3巨桉叶绿体基因同义密码子相对使用度",
+            "Table3Relative synonymous codon usage analysis of genes on chloroplast genome in Eucalyptus grandis "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>氨基酸</td><td>密码子 数目</td><td>RSCU</td><td>氨基酸 密码子</td><td>数目 RSCU</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/2bbf59aebce58b3c8263d57591e7daf38fc43a2ba01733d03f0c05529e874c82.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Amino acid</td><td>Codon</td><td>Number</td><td></td><td>Amino acid</td><td>Codon</td><td>Number</td><td></td></tr><tr><td>Phe</td><td>UUU</td><td>584</td><td>1.28</td><td>Ser</td><td>UCU</td><td>340</td><td>1.8</td></tr><tr><td></td><td>UUC</td><td>329</td><td>0.72</td><td></td><td>UCC</td><td>192</td><td>1.02</td></tr><tr><td>Leu</td><td>UUA</td><td>562</td><td>1.99</td><td></td><td>UCA</td><td>202</td><td>1.07</td></tr><tr><td></td><td>UUG</td><td>321</td><td>1.14</td><td></td><td>UCG</td><td>110</td><td>0.58</td></tr><tr><td></td><td>CUU</td><td>366</td><td>1.3</td><td>Pro</td><td>CCU</td><td>268</td><td>1.68</td></tr><tr><td></td><td>CUC</td><td>105</td><td>0.37</td><td></td><td>CCC</td><td>107</td><td>0.67</td></tr><tr><td></td><td>CUA</td><td>241</td><td>0.85</td><td></td><td>CCA</td><td>185</td><td>1.16</td></tr><tr><td></td><td>CUG</td><td>99</td><td>0.35</td><td></td><td>CCG</td><td>77</td><td>0.48</td></tr><tr><td>Ile</td><td>AUU</td><td>657</td><td>1.48</td><td>Thr</td><td>ACU</td><td>337</td><td>1.68</td></tr><tr><td></td><td>AUC</td><td>266</td><td>0.6</td><td></td><td>ACC</td><td>156</td><td>0.78</td></tr><tr><td></td><td>AUA</td><td>412</td><td>0.93</td><td></td><td>ACA</td><td>222</td><td>1.11</td></tr><tr><td>Met</td><td>AUG</td><td>385</td><td>1</td><td></td><td>ACG</td><td>86</td><td>0.43</td></tr><tr><td>Val</td><td>GUU</td><td>309</td><td>1.44</td><td>Ala</td><td>GCU</td><td>455</td><td>1.88</td></tr><tr><td></td><td>GUC</td><td>93</td><td>0.43</td><td></td><td>GCC</td><td>143</td><td>0.59</td></tr><tr><td></td><td>GUA</td><td>339</td><td>1.58</td><td></td><td>GCA</td><td>269</td><td>1.11</td></tr><tr><td></td><td>GUG</td><td>119</td><td>0.55</td><td></td><td>GCG</td><td>102</td><td>0.42</td></tr><tr><td>Tyr</td><td>UAU</td><td>475</td><td>1.63</td><td>Cys</td><td>UGU</td><td>120</td><td>1.45</td></tr><tr><td></td><td>UAC</td><td>107</td><td>0.37</td><td></td><td>UGC</td><td>46</td><td>0.55</td></tr><tr><td>TER</td><td>UAA</td><td>22</td><td>1.57</td><td>TER</td><td>UGA</td><td>11</td><td>0.79</td></tr><tr><td></td><td>UAG</td><td>9</td><td>0.64</td><td>Trp</td><td>UGG</td><td>312</td><td>1</td></tr><tr><td>His</td><td>CAU</td><td>312</td><td>1.57</td><td>Arg</td><td>CGU</td><td>226</td><td>1.52</td></tr><tr><td></td><td>CAC</td><td>85</td><td>0.43</td><td></td><td>CGC</td><td>58</td><td>0.39</td></tr><tr><td>Gln</td><td>CAA</td><td>424</td><td>1.5</td><td></td><td>CGA</td><td>214</td><td>1.44</td></tr><tr><td></td><td>CAG</td><td>140</td><td>0.5</td><td></td><td>CGG</td><td>50</td><td>0.34</td></tr><tr><td>Asn</td><td>AAU</td><td>532</td><td>1.53</td><td>Ser</td><td>AGU</td><td>224</td><td>1.19</td></tr><tr><td></td><td>AAC</td><td>164</td><td>0.47</td><td></td><td>AGC</td><td>65</td><td>0.34</td></tr><tr><td>Lys</td><td>AAA</td><td>521</td><td>1.51</td><td>Arg</td><td>AGA</td><td>244</td><td>1.64</td></tr><tr><td></td><td>AAG</td><td>169</td><td>0.49</td><td></td><td>AGG</td><td>102</td><td>0.68</td></tr><tr><td>Asp</td><td>GAU</td><td>504</td><td>1.62</td><td>Gly</td><td>GGU</td><td>405</td><td>1.42</td></tr><tr><td></td><td>GAC</td><td>118</td><td>0.38</td><td></td><td>GGC</td><td>119</td><td>0.42</td></tr><tr><td>Glu</td><td>GAA</td><td>610</td><td>1.49</td><td></td><td>GGA</td><td>450</td><td>1.57</td></tr><tr><td></td><td>GAG</td><td>209</td><td>0.51</td><td></td><td>GGG</td><td>169</td><td>0.59</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2中性绘图分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "巨桉叶绿体基因中性绘图表明，GC12的变化范围为 $3 3 . 6 5 \\% { \\sim } 5 5 . 4 5 \\%$ ，GC3的变化范围为 $2 0 . 2 0 \\% { \\sim } 3 7 . 0 0 \\%$ ，GC12与GC3未达到显著水平，说明GC12与GC3相关性弱。突变对密码子第1、2位和第3位碱基组成有着不同的影响。假如完全由随机突变造成的，那么基因应该在对角线上，图1中绝大多数基因都分布于对角线上方，GC12均高于GC3，绝大多数基因所在的位点高于对角线，这说明选择在密码子偏好中起主要作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/4d5d416a6afdc5e31d2dfae4ea1d47d40ab89832fe6eeb3307b56155cd916a5c.jpg",
+        "img_caption": [
+            "图1巨桉叶绿体基因中性绘图分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3ENC-plot分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ENC-plot绘图以ENC为 $y$ 轴，GC3S为 $x$ 轴建立坐标系，将所有参试基因定位于该坐标系中，同时根据公式(1)添加标准曲线。ENC-plot分析结果（图2）表明，尽管有一小部分偏离标准曲线，大多数基因位于标准曲线附近。为了更加准确反映差异，本文根据(1)式求出 ENC 的理论值，再根据(2)式求算出 ENC 比值。在此基础上分析所有参试基因的 ENC 频数分布（表4)，统计结果表明， $5 1 . 1 6 \\%$ 的基因分布在 $. 0 . 0 5 \\sim 0 . 0 5$ 之间， $34 . 8 8 \\%$ 的基因分布在 $0 . 0 5 \\sim 0 . 1 5$ 之间。 $9 . 3 0 \\%$ 的基因分布在 $. 0 . 1 5 \\sim - 0 . 0 5$ 之间，另有 $2 . 3 3 \\%$ 的基因分布在- $. 0 . 2 5 \\sim$ -0.15和 $0 . 1 5 \\sim 0 . 2 5$ 之间。这说明突变对巨桉叶绿体基因组密码子偏好的形成起重要作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f9afbfde4fd0e6781a9f800676ff413d4bf1059cb0ce87fc6ff9d1cebceb596.jpg",
+        "img_caption": [
+            "Fig.1Neutrality plot analysis of genes on chloroplast of Eucalyptus grandis ",
+            "图2巨桉叶绿体基因的ENC-plot分析",
+            "Fig.2ENC-plot analysis for genes on chloroplast genome in Eucalyptus grandis "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/6f769aef9306382a8794e1619fffd2fde9e8ac668cd155819ecf24d7ffd67e1b.jpg",
+        "table_caption": [
+            "表4巨桉叶绿体基因ENC比值频数分布",
+            "Table 4 ENC ratio of genes of chloroplast genome in Eucalyptus grandis "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>分组 Group</td><td>数目 Number</td><td>频率/% Frequency</td></tr><tr><td>-0.25~ -0.15</td><td>1</td><td>2.33</td></tr><tr><td>-0.15~ -0.05</td><td>4</td><td>9.30</td></tr><tr><td>-0.05~ 0.05</td><td>22</td><td>51.16</td></tr><tr><td>0.05~ 0.15</td><td>15</td><td>34.88</td></tr><tr><td>0.15~ 0.25</td><td>1</td><td>2.33</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4 对应分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对应分析表明，第1轴贡献率为 $1 7 . 6 8 \\%$ ，第2轴贡献率为 $1 1 . 4 9 \\%$ ，第3、4轴的贡献率分别 $8 . 0 0 \\%$ 和 $5 . 7 6 \\%$ 。前4个向量的总贡献率为 $4 2 . 9 3 \\%$ 。第1轴和第2轴的贡献率均超过$10 \\%$ ，说明第1轴和第2轴都是密码子偏好的主要影响因素。第1轴与与GC、CAI、CBI和Fop 呈极显著的正相关，其相关系数分别为0.573、0.670、0.578和0.523；第1轴 ENC呈极显著的负相关，其相关系数为-0.395；第1轴与GC3S无显著相关，而与第3位同义密码子A和G含量呈极显著相关，其相关系数分别为-0.440 和-0.606。为了更加直观的观察密码子偏好，建立以第1轴为 $x$ 轴，以第2轴为 $y$ 轴的平面坐标系，将所有参试基因按不同功能分布于坐标系中(图3)。图3显示核糖体蛋白基因分布相对集中，其余基因分布相对比较分散，说明核糖体蛋白基因的密码子偏好相近，与其他基因的密码子偏好相差较大。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/249a286613f54ab1188fb1034b1571c9ca74ec736fd26cf24ae84e6a5e86ec27.jpg",
+        "img_caption": [
+            "图3基于RSCU的对应性分析Fig.3 Corresponding analysis of RSCU"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5最优密码子的确定",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文以密码子的ENC参数为标准，对参试基因进行排序，从两端各选取 $10 \\%$ 的基因（本文中两端各选取4个)，分别建立高/低表达基因库；在此基础上重新计算各表达库的RSCU，求算出两个库的△RSCU（表5)。以 $\\Delta { \\mathrm { R S C U } } { > } 0 . 0 8$ 为标准确定了31个高表达密码子（表5中\\*标注的密码子)，其中12以G结尾，8个以C结尾，6个以A结尾，5个以U结尾。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "将表3中的高频密码子与表5中确定的高表达密码进行分析，选取其中共有的密码子作为最优密码子。巨桉叶绿体基因中有12个最优密码子为UUG、CUU、GUU、UCC、UCA、",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ACA、UAU、UAA、CAU、AAU、AGA 和GGA，其中10个密码子以U或A结尾，另外2个以G或C结尾。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/e41b7bac5351fc609521c5a360ef794628689f445d4c29519f55a95f7f708400.jpg",
+        "table_caption": [
+            "表5巨桉叶绿体基因高/低表达库的同义密码子相对使用度[able 5 Relative Synonymous Codon Usage of genes of chloroplast genome in Eucalyptus grandis"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td colspan=\"2\">高表达基因</td><td colspan=\"2\">低表达基因</td><td></td></tr><tr><td>氨基酸</td><td>密码子</td><td colspan=\"2\">High expressed genes</td><td colspan=\"2\">Low expressed genes</td><td></td></tr><tr><td></td><td></td><td>数目</td><td></td><td>数目</td><td></td><td></td></tr><tr><td>Amino acid</td><td>Codon</td><td>Number</td><td>RSCU</td><td>Number</td><td>RSCU</td><td>△RSCU</td></tr><tr><td>Phe</td><td>UUU UUC</td><td>102 87</td><td>1.08</td><td>27 25</td><td>1.04</td><td>0.04 -0.04</td></tr><tr><td>Leu</td><td>UUA</td><td>51</td><td>0.92 1.02</td><td>23</td><td>0.96 1.97</td><td>-0.95</td></tr><tr><td></td><td>UUG*</td><td>69</td><td>1.38</td><td>13</td><td></td><td>0.27</td></tr><tr><td></td><td>CUU**</td><td>80</td><td>1.61</td><td>15</td><td>1.11</td><td>0.32</td></tr><tr><td></td><td>CUC**</td><td>27</td><td>0.54</td><td>2</td><td>1.29 0.17</td><td>0.37</td></tr><tr><td></td><td>CUA</td><td>43</td><td>0.86</td><td>14</td><td>1.2</td><td>-0.34</td></tr><tr><td></td><td>CUG**</td><td>29</td><td>0.58</td><td>3</td><td>0.26</td><td>0.32</td></tr><tr><td>Ile</td><td>AUU</td><td>103</td><td>1.33</td><td>41</td><td>1.64</td><td>-0.31</td></tr><tr><td></td><td>AUC*</td><td>55</td><td>0.71</td><td>13</td><td>0.52</td><td>0.19</td></tr><tr><td></td><td>AUA*</td><td>75</td><td>0.97</td><td>21</td><td>0.84</td><td>0.13</td></tr><tr><td>Met</td><td>AUG</td><td>62</td><td>1</td><td>34</td><td>1</td><td>0</td></tr><tr><td>Val</td><td>GUU*</td><td>51</td><td>1.5</td><td>22</td><td>1.35</td><td>0.15</td></tr><tr><td></td><td>GUC*</td><td>20</td><td>0.59</td><td>6</td><td>0.37</td><td>0.22</td></tr><tr><td></td><td>GUA</td><td>40</td><td>1.18</td><td>31</td><td>1.91</td><td>-0.73</td></tr><tr><td></td><td>GUG**</td><td>25</td><td>0.74</td><td>6</td><td>0.37</td><td>0.37</td></tr><tr><td>Ser</td><td>UCU</td><td>77</td><td>1.64</td><td>18</td><td>1.89</td><td>-0.25</td></tr><tr><td></td><td>UCC*</td><td>52</td><td>1.11</td><td>8</td><td>0.84</td><td>0.27</td></tr><tr><td></td><td>UCA***</td><td>55</td><td>1.17</td><td>5</td><td>0.53</td><td>0.64</td></tr><tr><td></td><td>UCG</td><td>39</td><td>0.83</td><td>8</td><td>0.84</td><td>-0.01</td></tr><tr><td>Pro</td><td>CCU</td><td>41</td><td>1.3</td><td>27</td><td>2.63</td><td>-1.33</td></tr><tr><td></td><td>CCC***</td><td>32</td><td>1.02</td><td>2</td><td>0.2</td><td>0.82</td></tr><tr><td></td><td>CCA</td><td>34</td><td>1.08</td><td>11</td><td>1.07</td><td>0.01</td></tr><tr><td></td><td>CCG**</td><td>19</td><td>0.6</td><td>1</td><td>0.1</td><td>0.5</td></tr><tr><td>Thr</td><td>ACU</td><td>35</td><td>1.13</td><td>27</td><td>2.04</td><td>-0.91</td></tr><tr><td></td><td>ACC</td><td>25</td><td>0.81</td><td>10</td><td>0.75</td><td>0.06</td></tr><tr><td></td><td>ACA**</td><td>43</td><td>1.39</td><td>13</td><td>0.98</td><td>0.41</td></tr><tr><td></td><td>ACG**</td><td>21</td><td>0.68</td><td>3</td><td>0.23</td><td>0.45</td></tr><tr><td>Ala</td><td>GCU</td><td>42</td><td>1.75</td><td>39</td><td>2.44</td><td>-0.69</td></tr><tr><td></td><td>GCC*</td><td>13</td><td>0.54</td><td>4</td><td>0.25</td><td>0.29</td></tr><tr><td></td><td>GCA</td><td>25</td><td>1.04</td><td>17</td><td>1.06</td><td>-0.02</td></tr><tr><td></td><td>GCG**</td><td>16</td><td>0.67</td><td>4</td><td>0.25</td><td>0.42</td></tr><tr><td>Tyr</td><td>UAU*</td><td>88</td><td>1.59</td><td>24</td><td>1.33</td><td>0.26</td></tr><tr><td></td><td>UAC</td><td>23</td><td>0.41</td><td>12</td><td>0.67</td><td>-0.26</td></tr><tr><td>TER</td><td>UAA***</td><td>3</td><td>2.25</td><td>2</td><td>1.5</td><td>0.75</td></tr><tr><td></td><td>UAG</td><td>1</td><td>0.75</td><td>2</td><td>1.5</td><td>-0.75</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/d72f60c10e364f80d64cc95affe993fc78e5925c62e2bf3e3599cdabd349548b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>His</td><td>CAU**</td><td>54</td><td>1.52</td><td>10</td><td>1.05</td><td>0.47</td></tr><tr><td></td><td>CAC</td><td>17</td><td>0.48</td><td>9</td><td>0.95</td><td>-0.47</td></tr><tr><td>Gln</td><td>CAA</td><td>87</td><td>1.4</td><td>19</td><td>1.73</td><td>-0.33</td></tr><tr><td rowspan=\"2\">Asn</td><td>CAG**</td><td>37</td><td>0.6</td><td>3</td><td>0.27</td><td>0.33</td></tr><tr><td>AAU**</td><td>132</td><td>1.52</td><td>21</td><td>1.17</td><td>0.35</td></tr><tr><td></td><td>AAC</td><td>42</td><td>0.48</td><td>15</td><td>0.83</td><td>-0.35</td></tr><tr><td>Lys</td><td>AAA</td><td>114</td><td>1.25</td><td>19</td><td>1.73</td><td>-0.48</td></tr><tr><td rowspan=\"2\">Asp</td><td>AAG**</td><td>69</td><td>0.75</td><td>3</td><td>0.27</td><td>0.48</td></tr><tr><td>GAU</td><td>135</td><td>1.68</td><td>15</td><td>1.67</td><td>0.01</td></tr><tr><td></td><td>GAC</td><td>26</td><td>0.32</td><td>3</td><td>0.33</td><td>-0.01</td></tr><tr><td>Glu</td><td>GAA</td><td>116</td><td>1.25</td><td>35</td><td>1.56</td><td>-0.31</td></tr><tr><td rowspan=\"2\">Cys</td><td>GAG**</td><td>69</td><td>0.75</td><td>10</td><td>0.44</td><td>0.31</td></tr><tr><td>UGU</td><td>22</td><td>1.29</td><td>13</td><td>1.86</td><td>-0.57</td></tr><tr><td></td><td>UGC***</td><td>12</td><td>0.71</td><td>1</td><td>0.14</td><td>0.57</td></tr><tr><td>TER</td><td>UGA</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Trp</td><td>UGG</td><td>57</td><td>1</td><td>20</td><td>1</td><td>0</td></tr><tr><td>Arg</td><td>CGU</td><td>20</td><td>0.68</td><td>22</td><td>2.4</td><td>-1.72</td></tr><tr><td></td><td>CGC</td><td>11</td><td>0.37</td><td>8</td><td>0.87</td><td>-0.5</td></tr><tr><td></td><td>CGA</td><td>44</td><td>1.49</td><td>13</td><td>1.42</td><td>0.07</td></tr><tr><td>Ser</td><td>CGG***</td><td>18</td><td>0.61</td><td>0</td><td>0</td><td>0.61</td></tr><tr><td></td><td>AGU</td><td>43</td><td>0.91</td><td>14</td><td>1.47</td><td>-0.56</td></tr><tr><td></td><td>AGC</td><td>16</td><td>0.34</td><td>4</td><td>0.42</td><td>-0.08</td></tr><tr><td>Arg</td><td>AGA***</td><td>53</td><td>1.8</td><td>10</td><td>1.09</td><td>0.71</td></tr><tr><td>Gly</td><td>AGG***</td><td>31</td><td>1.05</td><td>2</td><td>0.22</td><td>0.83</td></tr><tr><td rowspan=\"4\"></td><td>GGU</td><td>33</td><td>0.95</td><td>43</td><td>2.39</td><td>-1.44</td></tr><tr><td>GGC*</td><td>17</td><td>0.49</td><td>7</td><td>0.39</td><td>0.1</td></tr><tr><td>GGA***</td><td>61</td><td>1.76</td><td>18</td><td>1</td><td>0.76</td></tr><tr><td>GGG***</td><td>28</td><td>0.81</td><td>4</td><td>0.22</td><td>0.59</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "遗传密码是指核苷酸序列与氨基酸序列的对应关系。20 种蛋白质氨基酸中Met 和 Trp两种氨基酸只有一个密码子，其余18种氨基酸均有2\\~6个不等密码子编码，即密码子的简并性，编码同一氨基酸的密码子为同义密码子(朱圣庚和徐长发,2016)。同义密码子差别主要在于第三位密码子的变化。本文中巨桉叶绿体基因组中GC3与GC1和GC2无显著相关，并且明显小于GC1和GC2。这说明巨桉叶绿体基因密码子偏好以A和U结尾，RSCU 分析结果从定量分析的角度也充分证明这一观点。这与已报道的黄芩(Scutellaria baicalensis)(王文斌等，2018)，普通油茶(Camellia oleifera)(王鹏良等,2018)，蒺藜苜蓿(Medicagotruncatula)(杨国锋等,2015)等植物叶绿体基因的特征一致。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "生物在编码氨基酸时经常倾向使用某个特定的同义密码子的现象称为密码子使用偏好性(吴宪明等,2007)。巨尾桉叶绿体基因组的密码子的ENC平均值为47.04。以35为标准，ENC 低于35 的为强偏好性密码子；高于35 的为弱偏好性密码子(Jiang,2008)。因此，巨尾桉叶绿体基因组密码子为弱偏好性的，CAI参数也支持这一观点。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "密码子偏好受碱基组成、选择、tRNA丰度、基因长度和蛋白质的疏水性等许多因素的影响 (梁菲菲,2010)。本文中由于密码子数目不与 ENC 及CAI等密码子参数显著相关，所以巨桉叶绿体基因组中基因长度对密码子偏好没有明显作用；同样蛋白质疏水性对巨桉叶绿体基因组密码子偏好也无明显作用；同义密码子第3位A和G含量及GC含量与第1轴达到极显著相关，表明碱基差异对密码子的偏好也有影响；CAI、CBI和FOP与第1轴极显著相关，表明基因有选择地使用高丰度的 tRNA对应的密码子，导致基因的高表达(Ikemura,1981a;1981b;1985)，所以选择也是影响密码子偏好的重要原因；由于第3位A、G含量和GC 含量与第1轴的相关系数与CAI、CBI和FOP 和第1轴的相关系数比较接近，因此突变和自然选择在密码子偏好中的作用基本相当。中性绘图分析表明选择是导致密码子偏好的相对主要因素；而ENC-plot分析结果显示突变也占较大比例。因此，本文认为突变和选择在巨桉叶绿体基因组中可能起相对均衡的作用。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本文以高表达的高频密码子为最优密码子，在巨桉叶绿体基因组中确定的12个最优密码子分别为UUG、CUU、GUU、UCC、UCA、ACA、UAU、UAA、CAU、AAU、AGA 和GGA。巨桉叶绿体基因组最优密码子的确定为优化目标基因的密码子，提高表达效率，从而利用叶绿体基因工程改良巨按重要性状奠定良好基础。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "CHEN SX, ZHENG JQ,LIU XF,et al, 2018. Hundred year histories and prospect of Eucalyptus cultivation technology development in China[J]. World Forestry Research, 31:7-21. [陈少 雄，郑嘉琪,刘学锋,2018．中国桉树培育技术百年发展史与展望[J]．世界林业研究， 31:7-12.]   \nDANIELL H, CHASE C,2004.Molecular biology and biotechnology of plant organelles[M]. Dordrecht: Springer.   \nHANSON G, COLLER J, 2018. Codon optimality, bias and usage in translation and mRNA decay[J]. Nat Rev Mol Cell Biol, 19:20-30.   \nHERSHBERG R, PETROV DA, 2008. Selection on codon bias[J]. Annu Rev Genet, 42:287-299.   \nIKEMURA T,198la. Correction between the abundance of Escherichia coli transfer RNAs and the occurrence of the Respective codons in its protein genes[J]. JMol Biol,146:1-21.   \nIKEMURA T, 1981b.Correction between the abundance of Escherichia coli transfer RNAs and the occurrence of the respective codon in its protein genes : A proposal for a synonymous codon choice that is optimal for the $E$ ，coli translation system[J]. J Mol Biol, 151:389-409.   \nIKEMURA T, 1985. Codon usage and tRNA content in unicellular and multicellular organisms[J]. Mol Biol Evol 2:13-34.   \nJIANG Y, DENG F, WANG H, et al., 2008. An extensive analysis on the global codon usage pattern of baculoviruses[J].Arch Virol, 153:2273-2282.   \nLI J,XUE QZ, 20o5. Comparison of MADS transcriptional factor on codon bias in arabidopsis and rice[J].J Zhejiang Univ (Agric Life Sci Ed): 513-517.[李娟,薛庆中,2005．拟南芥 及水稻转录因子MADS 密码子的偏好性比较[J].浙江大学学报(农业与生命科学 版):513-517.]   \nLIANG FF,2010. Influencing of codon bias and its research significance [J]. Anim Husb Feed Sci, 31(1):118-119.[梁菲菲，2010.密码子偏性的影响因素及研究意义[J].畜牧与饲料科学 31(1):118-119.]   \nLIU H, WANG MX, YUE WJ, 2017. Analysis of codon usage in the chloroplast genome of Broomcorn millet (Panicum miliaceum L.)[J]. Plant Sci J, 35:362-371[刘慧，王梦醒, 岳文杰，等,2017．糜子叶绿体基因组密码子使用偏性的分析[J]．植物科学学报 35:362-371.]   \nLIU J, XIANG DY, CHEN JB, et al., 2009. Low temperature LT50 of three Eucalyptus seedlings with Electrical conductivity method and logistic equation[J]. Guangxi Forestry Science, 38:75-78.[刘建，项东云，陈健波，等,2009．应用Logistic方程确定三种桉树的低温 半致死温度[J]．广西林业科学38:75-78.]   \nNELSON DL，COX MM，2017.Lehninger Principles of Biochemistr[M]. New York: W.H.Freeman and Company   \nQI SX，2Oo6. Introduction and status of Eucalyptus in China[J].Guangxi Forestry Science, 35:250-252.[祁述雄,2006．中国引种桉树与发展现状[J]．广西林业科学,35:250-252]   \nWANG GL,FANG HJ, 2014. Plant genetic engineering[M]. Beijing: Science Press [王关林,方宏 筠,2014．植物基因工程[M]．北京：科学出版社.]   \nWANG PL, YANG LP, WU HY, et al, 2018. Codon preference of chloroplast genome in Camellia oleifera[J].Guihaia,38:135-144[王鹏良，杨利平，吴红英，等,2018．普通油茶叶绿体 基因组密码子偏好性分析[J]．广西植物，38:135-144.]   \nWANG WB, YU H, QIU XP, 2018. Analysis of repeat sequence and codon bias of chloroplast genome in Scutellaria baicalensis[J]. Molecular Plant Breeding, 16:2445-2452.[王文斌, 于欢,邱相坡,2018．黄芩叶绿体基因组重复序列及密码子偏好性分析[J]．分子植物 育种16:2445-2452.]   \nWRIGHT F,1990.The effective number ofcodons used in a gene[J]. Gene, 87:23-29.   \nWU SJ, CHEN GC, XU JM, et al., 2016. Variation analysis and selection for Eucalyptus grandis provenances and families in multiple-sties[J].For Environ Sci, 32:10-15[吴世军，陈广 超,徐建民,等,2016.巨桉种源/家系多点遗传变异及选择比较[J]．林业与环境科学， 32:10-15]   \nWU XM, WU SF,REN DM, et al, 2007. The analysis method and progress in the study of codon bias[J].HEREDITAS,29:420-426.[吴宪明，吴松锋，任大明等,2007．密码子偏性的分 析方法及相关研究进展[J]．遗传,29:420-426.]   \nXU C, BEN AL, CAI XN, 2010. Analysis of synonymous codon usage in chloroplast geneome of Phalaenopsis aphrodite subsp.formosana[J]. Mol Plant Breed, 8:945-950 [续晨，贲爱玲, 蔡晓宁,2010．蝴蝶兰叶绿体基因组密码子使用的相关分析[J].分子植物育种 8:945-950.]   \nYANG GF, SU KL, ZHAO YR, et al., 2015. Analysis of codon usage in the chloroplast genome of Medicago truncatula[J].Acta Prataculturae Sinica, 24:171-179.[杨国锋，苏昆龙，赵怡 然,等,2015．蒺藜苜蓿叶绿体密码子偏好性分析[J]．草业学报24:171-179.]   \nZHANG J, CHEN GC, XU JM, et al., 2016. Comprehensive selection for Eucalyptus grandis provenances and families[J]. Journal of Tropical and subtropical Botany, 24:280-286.[张 捷，陈广超，徐建民，等,2016．巨桉种源/家系综合选择研究[J]．热带亚热带植物学 报，24:280-286.]   \nZHANG ZY, XIANG DY, XU JM, et al., 2016. Comprehensive analysis of growth, stem form and ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "resistance to Leptocybe invasa of Eucalyptus grandis provenances[J]. Forest ResourcesManagement:107-111[张照远，项东云，徐建民,等,2016.不同种源巨桉生长、干形和抗桉树枝瘦姬小蜂的综合评价[J]．林业资源管理:107-111.]",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "ZHOU M, LONG W,LI X, 2008.Analysis of synonymous codon usage in chloroplast genome of Populus alba[J].JFor Res,19:293-297.   \nZHOU ZP, DANG YK, ZHOU M, et al, 2016. Codon usage is an important determinant of gene expression levels largely through its effects on transcription[J]. Proc Nat Acad Sci USA 26:e6117-e6125.   \nZHU SG,XU CF,2016.Biochemistry (4th Ed)[M]. Beijing: Higher Education Press.[朱圣庚,徐 长发,2016.生物化学(第四版)[M]．北京：高等教育出版社.] ",
+        "page_idx": 12
+    }
+]

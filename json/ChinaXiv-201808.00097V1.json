@@ -1,0 +1,488 @@
+[
+    {
+        "type": "text",
+        "text": "改进WFQ算法在列车网络调度中的应用研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "秦剑秀，宋建霖，戴小文(西南交通大学 电气工程学院，成都 611756)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：随着我国轨道交通的迅猛发展，基于TCN的列车网络已经不能满足列车数据传输业务的需求，列车控制与服务网络TCSN应运而生。针对列车数据传输业务研究了基于综合服务模型的列车通信网络，建立了4类列车业务流量模型，分析了网络分组的加权公平队列调度算法(WFQ)，设计了基于服务分类和带宽分配的加权公平队列调度算法(SCBAWFQ),并且利用仿真软件对恒定数据流和突发数据流分别在WFQ与SCBAWFQ算法下的时延做了仿真与分析，仿真结果证明改进算法在降低实时业务流延时方面有很好的效果，从而SCBAWFQ算法实现了既保持WFQ算法公平性又满足实时业务服务质量的需求。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：列车控制与服务网络；调度算法；SCBAWFQ算法；网络仿真中图分类号：TP399 doi:10.3969/j.issn.1001-3695.2018.04.0290",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research on application of improved WFQ algorithm in train network scheduling ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Qin Jianxiu, Song Jianlin,Dai Xiaowen (School ofElectrical Engineering,Southwest Jiaotong University,Chengdu 611756,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Withtherapid developmentofrailtransit in China,the TCN-based train network canno longer met the needs of traindata transmisson services.The train control and service network TCSN emergedas the times require.Atrain service communication network basedonthe integrated service model was studied forthetraindata transmissonbusines.The traffic flow model forthe four trains was established.The weighted fair queue scheduling algorithm (WFQ)for network grouping was analyzed and weighted fairness based on service clasification and bandwidth allocation queue scheduling algorithm (SCBAWFQ)was designed.And using simulation software to simulate and analyze the time delays ofconstant data stream and burst data stream under WFQ and SCBAWFQ respectively.The simulation results prove that the improved algorithm can reducete latencyofreal-time service stream.It has a good effect,so thatthe SCBAWFQ algorithmrealizes the need to maintain both the fairness of the WFQ algorithm and the quality of service for real-time services. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: train control and service network; scheduling algorithm; SCBAWFQ algorithm; network simulation 要的。 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着我国的列车通信技术的迅猛发展和人们生活水平的提高，列车网络仅仅保证列车控制业务数据传输已经远远不够，还要为旅客提供服务信息业务，如旅客可以在列车中上网娱乐等。工业以太网在各个领域的应用中显示出了巨大的优势，许多研究者提出了将工业以太网引入列车网络，以此解决了传统列车网络带宽小的问题。但是，列车网络性能好坏不仅依靠网络拓扑结构，通信协议，还要有高效的调度算法[1。它能最大程度的利用网络资源，使列车网络系统的性能达到实时性、可靠性2的要求。就目前国内外研究情况来看，国内的调度算法研发还较为落后，仍然需要依靠引进国外技术，但是国外最先进的技术却对国内封闭，所以设计先进的调度算法是非常有必",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 列车网络与调度算法研究现状",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近几年，我国在高速铁路和高速列车领域发展迅猛，这就对高速列车在安全性、可靠性和高效性方面提出了更高的要求，同时还要保证列车在高速化、舒适化和智能化方面不断提高[3]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在传统的列车网络中，主要有WorldFIP网络、LonWorks网络、CAN网络、ARCNET网络、TCN网络等，但是每一种网络都存在一定缺陷，如实时性比较差、可靠性比较差、通信带宽不足等[4]。随着工业以太网与列车网络的结合，国际电工委员会IEC推出基于以太网的列车通信网络的相关标准，这极大的推动了列车网络的发展，出现了许多改进型列车网络。列车控制与服务网络TCSN（traincontrol and servicenetwork,",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TCSN)[5.6]就是在早期 TCN(train communication network,TCN）[7.8]网络的基础上发展而来，目标是建立具有大带宽、高可靠、高可信、可重构和智能化特征的列车网络[9]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "调度算法是根据系统的资源分配策略规定的资源分配算法，是实现网络服务质量(QoS)的核心技术之一，通过不同的网络调度策略对网络中的资源分配，提高网络资源的利用率并且避免网络阻塞。评判分组调度算法好坏的指标主要有时延性能、公平性、简单性、可扩展性和复杂性。目前常见的调度算法有PQ（priorityqueue）调度算法、QLT（queuelengththreshold）调度算法、EDF(earliest deadline first）调度算法、WFQ（weightedfair queueing）调度算法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "同时国内外学者也对该方面进行了大量的研究。文献[10]提出了一种分组任务调度（GTS）的算法，按照用户类型、任务类型、任务大小和任务延迟四类特征将所有任务划分成五类，并且五个类别按照优先级依次调度，在每个类别内部，又按照Min-Min算法调度该类别中的任务。GTS算法的特点在于先对类别调度，再对任务调度，这很大程度上保证了紧急任务和具有最小执行时间任务的优先级，很好的降低了这些任务的延迟特性，但对执行时间较长的任务可能会增加其延迟。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[11]提出了一种基于模糊逻辑的调度方法，特点在于开发了模糊专家系统，该系统可以依据任务的队列长度变化值、吞吐量和延时特性重新计算任务的权重系数，通过自主改变实时业务和非实时业务队列的权重系数达到优化资源分配和合理性调度的目的。这种算法很好地保证了实时业务和非实时业务在重负载条件下的服务质量，但是该系统较为复杂，模糊逻辑设计和优化花费的时间较长，可以探索使用另外一种优化方法来实现调度程序的优化，比如神经网络。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[12]提出了FC-WFQ算法，其随着命令到达率以及命令中读写比例的变化，对各数据流的转发带宽权重做相应的实时调整，实验结果显示,该调度算法可明显降低读写任务的平均响应时间,并显著提高吞吐量，这种算法的特点是不再标记数据包的物理转发长度，而是以转发该包应耗费的处理机资源来标记其逻辑转发长度，随着负载条件的加重，FC-WFQ算法对转发带宽的合理分配优势会更加明显。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[13]提出了一种实时系统的全局抢占阈值调度算法GPTS，这是一种介于抢占调度和不可抢占调度之间的混合调度算法，这种算法在会给每个任务设置抢占阈值，在任务开始之后会提升任务的优先级，降低任务被高优先级任务抢占的可能性，在保持系统可调度的基础上，这大大减少了系统运行过程中的抢占次数，同时也减少了资源的消耗，提高了调度能力。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[14]针对CAN网络的周期性报文延迟，提出了一种基于网络节点优先级的静态调度算法[14]，这种算法在单调速率调度算法的基础上，通过分析网络节点的优先级和报文周期的关系，找出通信过程延迟最大的时刻点，并将该时刻作为延迟的变量引入到数学模型中，从而可以准确的估算出网络节点时延的情况，通过仿真验证表明，该算法能够有效的减少网络延迟，提高系统的整体性能。本文提出了一种基于WFQ 算法的改进算法，并且通过仿真验证了改进算法可以严格保证实时性业务的服务质量，但是会牺牲小部分非实时性业务的服务质量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 WFQ算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "WFQ调度算法[15]对报文的分类是按照流进行分类的，它将拥有相同优先级的流分配到同一个队列中，这样就可以保证对应这个队列中的所有流中的数据报文的公平性。在数据报文出队的时候，WFQ按照每个队列的权重值来给该队列分配带宽，要保证提供尽可能多的队列，这样就能达到每个流能更加均匀的放入不同队列中的目的，以此满足各个流业务的延时特性，而该权重是由本队列中的流对应的优先级计算得到的[16]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "WFQ算法中引入了两个新的概念，分别是虚拟时钟和虚拟时间函数。顾名思义虚拟时间函数指的是一个随时间变化而变化的函数，用 ${ \\mathbf { \\xi } } _ { t } ^ { } \\mathbf { \\xi } _ { j } ^ { }$ 来表示第 $j$ 个事件发生的时间，用 $B _ { j }$ 表示在(tj-1,tj）期间积压的所有会话集合，φi是表述会话的正实数，也被称为每个会话的权重或者是会话的服务共享参数（预约的带宽大小)。虚拟时间 $\\mathbf { } V \\left( t \\right)$ 的定义如式(1)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { V ( 0 ) = 0 } \\\\ { V ( t _ { j - 1 } + \\tau ) = V ( t _ { j - 1 } ) + \\displaystyle \\frac { \\tau } { \\sum _ { i \\in B _ { j } } \\varphi _ { i } } } \\\\ { \\tau \\leq t _ { j } - t _ { j - 1 } , j = 2 , 3 . . . . . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在上式定义的基础上，WFQ算法还定义了虚拟开始时间和虚拟完成时间两个变量，并将它们赋予给到达队列的分组。定义 $P _ { i } ^ { k }$ 为连接 $\\mathbf { \\nabla } _ { j }$ 的第 $k$ 个分组，使用 $a _ { i } ^ { k }$ 表示 $P _ { i } ^ { k }$ 的到达时间，使用变量 $s _ { i } ^ { k }$ 表示 $P _ { i } ^ { k }$ 分组的开始服务时间标签，变量 $F _ { i } ^ { k }$ 表示 $P _ { i } ^ { k }$ 分组的结束服务时间标签，变量 $\\boldsymbol { L } _ { i } ^ { k }$ 表示 $P _ { i } ^ { k }$ 分组的长度，使用 $r _ { i }$ 表示连接 $\\mathbf { \\nabla } _ { \\boldsymbol { i } }$ 所预约的服务速率，并且对所有的会话都满足$F _ { i } ^ { 0 } = 0$ ，因此得到 $P _ { i } ^ { k }$ 分组的虚拟开始时间 $s _ { i } ^ { k }$ 和虚拟完成时间${ \\mathbf { } } _ { F _ { i } ^ { k } }$ 的计算公式如式(2)(3)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { S _ { i } ^ { k } } = \\operatorname* { m a x } ( \\boldsymbol { F _ { i } ^ { k - 1 } } , \\boldsymbol { V ( a _ { i } ^ { k } ) } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { F _ { i } ^ { k } } = \\boldsymbol { S _ { i } ^ { k } } + \\boldsymbol { L _ { i } ^ { k } } / \\boldsymbol { r _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "WFQ算法选择的调度规则是SFF，即分组的调度顺序是具有最小的虚拟完成时间的分组将会被最先发送。本文中的WFQ算法受到漏桶的约束，其端到端的最大时延(end-to-end delaybound）如式(4)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { i } = \\frac { c _ { i } } { \\rho _ { i } } + \\frac { L _ { \\operatorname* { m a x } } } { R }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\underline { { \\boldsymbol { c } } } _ { i }$ 表示的是数据传输的端到端最大的时延抖动，$\\rho _ { i }$ （20Lmax 为最大的分组长度，R为服务器的服务速率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "WFQ算法可以精细的控制单个业务流，并且保证了每个业务流的端到端时延，但是WFQ算法的计算粒度过细，计算的复杂度较高，尤其是当分组队列越多时复杂性越高，并且对长度不固定和具有突发的业务流处理不好。具体来说WFQ算法在实际的应用中存在以下几点不足：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)WFQ算法不能区分业务的类型。产生这种现象的主要原因在于WFQ算法的原理，该算法是一种公平的调度算法，在调度的过程中只计算每个业务流中对应分组的最小虚拟时间，但是并没有区分各个分组之间的优先级问题，使得各个会话按照权重比例要求分享带宽资源。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)WFQ算法在带宽分配方面存在缺陷，由于WFQ算法按照权重比例要求分配带宽资源，对于带有突发的业务流往往很难保证其服务质量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)WFQ算法在带宽保证和时延保证方面具有耦合性，也就是低带宽保证就意味着不严格或者减弱的时延保证，这中缺陷也就意味着WFQ 算法不适合调度某些类型的业务流，比如语音类的业务和视频类的业务，这种业务的特点是对带宽的需求不大，但是要求具有严格的时延要求和保证。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 改进的WFQ算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "WFQ 算法中没有对会话进行详细的分类,即其服务优先级是相同的。因此本文基于WFQ算法设计并实现了一种改进的加权公平队列调度算法（service class and bandwidth allocationbasedWFQ，SCBAWFQ)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1迭代带宽分配法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设网络节点中有 $P$ 个会话，每个会话i对应的优先级为$T _ { i }$ ，每个会话的权重值为 $w _ { i }$ ，其中优先级是根据每种业务的传输量和业务的重要程度给定的值， $w _ { i }$ 的计算如公式5所示。每个数据包的大小为 $\\boldsymbol { L } _ { i }$ ，数据包的到达速率为 $\\lambda _ { i }$ ，将这两个变量的乘积表示为当前会话预约的带宽大小，如式(6)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { i } = \\frac { 1 } { T _ { i } + 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { I } _ { i } = \\lambda _ { i } \\boldsymbol { L } _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第一步迭代过程每个会话分配得到的带宽可能出现两种情况。第一种情况，每个会话得到的带宽刚好够自己传输或者均小于要求的带宽；第二种情况，每个会话得到的带宽大小均大于要求的带宽，所以第一步迭代过程可以用式(7)来表示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { B } _ { i , 1 } = \\operatorname* { m i n } ( \\boldsymbol { R } \\frac { \\begin{array} { l } { w _ { i } } \\\\ { P } \\end{array} } { \\begin{array} { l } { \\sum _ { j = 1 } ^ { } w _ { j } } \\end{array} } , I _ { i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中：R代表的是链路总带宽，如果第一步迭代过程结束后，有的会话分配得到的带宽大于预约的带宽，有的会话分配得到的带宽小于预约的带宽，那么会话中多余的带宽分配将由下一步的迭代过程计算得到，即一些会话需要获得更多的带宽，而另外一些会话带宽通过式(6)计算得到。会话中多余的带宽按照权重比例分配给其它带宽不足的会话，通过式（8）来判断每个会话是否需要分配更多的带宽。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { i } - B _ { i , k - 1 } = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如果式（8）的计算结果为0，说明会话 $i$ 刚好得到需求的带宽，如果结果为正实数，说明在该次迭代过程中，会话i获得的带宽小于其预约的带宽。通过上式判断每个会话是否获得了预约的带宽。在最坏的情况下，会话的带宽分配需要迭代P-1次，才能将每次迭代过程中多余的带宽分配给其他会话，直到没有多余的带宽为止。每次迭代过程如式（9）所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB _ { i , k } = \\operatorname* { m i n } \\left( I _ { i } , B _ { i , k - 1 } + \\left( R - \\sum _ { j = 1 } ^ { P } B _ { j , k - 1 } \\right) \\times \\underset { j = 1 } { \\overset { w _ { i } } { \\sum } } w _ { j } \\operatorname* { m i n } ( I _ { i } - B _ { j , k - 1 } , 1 ) \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 SCBAWFQ算法原理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SCBAWFQ算法中对每个会话的服务标记了优先级，在整个网络带宽不充足的情况下，算法可以保证拥有高优先级的实时性业务的服务质量，同时 SCBAWFQ算法的公平性与WFQ算法的公平性相差不大。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在带宽分配过程中采用迭代的带宽分配方法，具体的分类过程如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1)网络总带宽充足",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当 $R \\geq \\sum _ { i = 1 } ^ { P } I _ { i }$ ， $\\boldsymbol { I } _ { i }$ 表示会话 $i$ 预约的带宽大小。SCBAWFQ算法可以满足所有会话的服务质量，因此直接采用迭代分配模型，其带宽分配如公式10所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB _ { i , k } = \\left\\{ \\begin{array} { l l } { \\displaystyle \\operatorname* { m i n } ( R \\frac { w _ { i } } { \\displaystyle \\sum _ { j = 1 } ^ { P } w _ { j } } , I _ { i } ) , \\mathbf { k } = 1 } & \\\\ { \\displaystyle } & \\\\ { \\displaystyle \\operatorname* { m i n } \\left( I _ { i } , B _ { i , k - 1 } + \\left( R - \\sum _ { j = 1 } ^ { P } B _ { j , k - 1 } \\right) \\times \\frac { w _ { i } } { \\displaystyle \\sum _ { j = 1 } ^ { P } w _ { j } \\operatorname* { m i n } ( I _ { i } - B _ { j , k - 1 } , 1 ) } \\right) , k = 2 , 3 , \\cdots } & \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2)网络总带宽不足",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当 $R < \\sum _ { i = 1 } ^ { P } I _ { i }$ ,SCBAWFQ 算法首先判断服务的业务类型,确定实时性业务和非实时性业务,实时性业务分配得到的带宽等于预约的带宽,确保其服务质量;然后计算得出总带宽中剩余带宽，将剩余带宽按照选代的带宽分配原则分配给所有非实时性业务。带宽分配如式(11)所示。式中 $s$ 表示的是实时业务的会话集合， $\\bar { s }$ 表示的是非实时业务的会话集合。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于服务分类和带宽分配的加权公平队列调度算法流程图如图1所示。分析可知,SCBAWFQ算法和WFQ算法的不同之处主要有以下两点:SCBAWFQ算法对会话进行了服务业务分类;SCBAWFQ算法使用了迭代的带宽分配方案,使每个会话按照迭代带宽分配法获得更加合理的带宽分配。通过对服务分类,SCBAWFQ算法改善了WFQ算法按照比例分配带宽的缺陷。在带宽分配时使用了迭代的带宽分配方法,使带宽利用更加充分、分配更加合理。当业务量大于总带宽资源的时候,SCBAWFQ算法优先考虑服务的是实时性业务,保证所有实时业务的服务质量要求。而对于非实时业务,也让其在一定程度上满足了服务的公平性要求。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f71f1ba0af8b8cda07cfe302c4d7d60ea5186a7fe9a0f85f8de260e4bbdfa88.jpg",
+        "img_caption": [
+            "图1SCBAWFQ调度算法流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 仿真结果分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "建立4类服从漏桶模型的业务流，通过分析验证4业务流分别在WFQ算法与SCBAWFQ算法下的延时性能。网络拓扑结构如图2所示。网络拓扑结构中的源端节点总共有4个，每个源节点都能产生对应的数据流，代表的业务分别是牵引和制动控制业务、辅助电源和空调等控制业务、视频旅客服务信息业务和普通数据旅客服务业务。4类业务流的传输全部使用",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "UDP协议，产生数据的4类业务流流过节点 $r _ { 1 }$ 并最终到达终端节点。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bfedf7084da883bd6fde5ad774e85110f8889bd596590a38dbeb61097ec3ccd6.jpg",
+        "img_caption": [
+            "图2网络拓扑结构图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1）恒定流量数据流仿真",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "设置仿真带宽为90 Mbps，仿真参数如表1所示。其中 $D _ { i }$ 为端到端的最大时延， $\\boldsymbol { \\mathbf { \\mathit { c } } } _ { i }$ 为业务流的最大突发尺度， $\\rho _ { i }$ 为产生流量的最大速率， $w _ { i }$ 为数据流对应的权重。其中前三种业务流设置为实时业务流，第四种业务流设置为非实时业务流。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a98bfeb4d08c39ef8c1bc58d49a0a9e2332f1663d8683f45ca9bc0f451292b0a.jpg",
+        "table_caption": [
+            "表1SCBAWFQ算法仿真参数设置"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>流号</td><td>D (ms)</td><td>(byte)</td><td>P: (Mbps)</td><td>W</td><td>业务类型</td></tr><tr><td>1</td><td>10</td><td>1024</td><td>0.8</td><td>0.008</td><td>实时</td></tr><tr><td>2</td><td>200</td><td>4096</td><td>0.2</td><td>0.002</td><td>实时</td></tr><tr><td>3</td><td>100</td><td>250200</td><td>20</td><td>0.2</td><td>实时</td></tr><tr><td>4</td><td>200</td><td>918180</td><td>79</td><td>0.79</td><td>非实时</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图3、4所示，是4种业务分别在两种调度算法下的端到端延时仿真图。图中曲线 $\\textcircled{1}$ 所示的是牵引和制动业务； $\\textcircled{2}$ 所示的是辅助电源和空调等业务； $\\textcircled{3}$ 所示的是视频业务； $\\textcircled{4}$ 所示的是数据业务。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc02d7a28b3b69bf828269738111186a336cae3fd024baa5d69f08e00fc14057.jpg",
+        "img_caption": [
+            "图3WFQ算法下的端到端延时仿真图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/88fa279dba8c1d390b48110eb3354c863b524e4d9418874bd76e6591f8bfd55b.jpg",
+        "img_caption": [
+            "图4SCBAWFQ算法下的端到端延时仿真图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图中数据分析，实时数据流1、2、3在SCBAWFQ算法下的延时相比在WFQ算法下的延时均有大幅度下降，分别下降了 $2 5 ~ \\mathrm { m s }$ 、 $1 6 5 ~ \\mathrm { m s }$ 、 $1 0 7 ~ \\mathrm { { m s } }$ 。说明SCBAWFQ算法对实时性的牵引与制动业务、辅助电源与空调业务和视频业务的延时性能有较明显的提高。非实时数据流4在WFQ算法下的延时为$1 5 4 \\mathrm { m s }$ ，在SCBAWFQ算法下的延时为 $1 5 8 ~ \\mathrm { m s }$ 。两者的延时均小于要求的 $2 0 0 ~ \\mathrm { { m s } }$ ，但是SCBAWFQ算法的延时比WFQ算法的延时高，原因是SCBAWFQ算法牺牲了小部分非实时性业务的端到端延时性能，以保证实时性业务的延时性能。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2）突发流量数据流仿真",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "设置仿真带宽为90Mbps，仿真参数如表1所示。如图5、图6所示，是4种业务分别在WFQ算法和SCBAWFQ算法下的端到端延时仿真结果，图中曲线 $\\textcircled{1}$ 所示的是牵引与制动业务；$\\textcircled{2}$ 所示的是辅助电源与空调等业务； $\\textcircled{3}$ 所示的是视频业务； $\\textcircled{4}$ 所示的是数据业务。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/11eba8d3109aa456fae2ad55d2dc5687343418add3653abd71ba23c66754d869.jpg",
+        "img_caption": [
+            "图5WFQ算法下端到端延时仿真图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/352eff5cb2133205d45ac1cc085c1e7ec3bacab42e082b2343c0391bb54760bd.jpg",
+        "img_caption": [
+            "图6SCBAWFQ算法下端到端延时仿真图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "两种算法对应的仿真结果分析如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图中 $\\textcircled{1}$ 曲线在WFQ算法下延时在 $3 1 - 3 3 \\mathrm { m s }$ 毫秒范围内波动，这个延时远远大于该业务的延时要求， $\\textcircled{1}$ 曲线在SCBAWFQ算法下的延时在仿真2.5-4秒之间的时候在 $6 { - } 7 . 5 \\mathrm { m s }$ 内波动，其余时间均稳定在6ms，原因是在2.5-4秒之间由于3种业务均产生了突发使得该时间段中总的业务流量大幅度的增加从而导致的结果，但是在整体上满足该业务对延时的要求。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图中 $\\textcircled{2}$ 曲线所示业务在WFQ算法下正常传输过程中延时为 $6 7 \\mathrm { m s }$ 左右，但是在产生突发的时候对应延时明显上升，最高延时为 $2 0 0 \\mathrm { { m s } }$ 左右，有可能超出该业务对延时的要求， $\\textcircled{2}$ 曲线在SCBAWFQ算法下的延时大概为 $3 5 \\mathrm { m s }$ 左右，但是在2.5-4秒之间的延时出现了波动，原因也是由于总业务的大幅增加造成的。但是从整体上可以得出，改进算法大幅度的降低了该实时业务的延时，满足了其端到端的延时要求。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图中 $\\textcircled{3}$ 曲线在WFQ算法下没有突发的情况中延时为$9 3 \\mathrm { m s }$ ，突发后最大延时达到 $1 2 7 \\mathrm { m s }$ ，大于该业务要求的 $1 0 0 \\mathrm { { m s } }$ 及以内延时； $\\textcircled{3}$ 曲线在 SCBAWFQ算法下的延时为 $9 3 \\mathrm { m s }$ 。改进算法使得视频业务的延时降低了，并且满足了整个过程中该实时性业务的延时要求。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图中 $\\textcircled{4}$ 曲线为非实时性业务，其在WFQ算法下前2 秒中延时增加比较缓慢，在2s后该业务数据产生突发，延时迅速增加并达到最大值 $7 5 . 4 ~ \\mathrm { { m s } }$ ； $\\textcircled{4}$ 曲线在SCBAWFQ算法下的延时以一定的速率增加并达到 $7 6 . 5 \\mathrm { m s }$ 。两者的延时均小于要求的$2 0 0 ~ \\mathrm { { m s } }$ ，但是SCBAWFQ算法的延时比WFQ算法的延时略高，说明SCBAWFQ算法牺牲了非实时性业务的端到端延时性能。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文提出了基于服务分类和带宽分配的加权公平队列（SCBAWFQ）调度算法，该算法首先获取业务的类型分类，区分出实时性业务和非实时性业务，然后采用迭代带宽分配方案给每种业务分配带宽，保证带有突发流量的实时性业务的服务质量。仿真结果表明，对恒定数据流或者有突发的数据流，SCBAWFQ算法拥有和WFQ算法的相同的公平性，而且还能减小所有实时性业务的分组时延，保证它们的服务质量，但是会牺牲小部分非实时业务的服务质量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]张华，谭献海，赵晋南，等．列车控制与服务网络流量调度策略研究[J].铁路计算机应用，2017,26(11):54-58.(Zhang Hua,Tan Xianhai,Zhao Jinnan,et al.Scheduling policy for traffic of TCSN[J].RailwayComputer Application,2017,26(11): 54-58.)",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[2]诸葛暄雨，郭其一，王梦超．列车通信网络可靠性评价技术研究[J]. 机车电传动,2017(4): 9-14.(Zhuge Xuanyu,Guo Qiyi,Wang Mengchao. Research on reliability evaluation method of train communication network [J].Electric Drive for Locomotives,2017(4): 9-14. )   \n[3]郭其一，康劲松，冯江华，等.轨道交通车辆牵引控制发展现状与趋势 [J].电源学报，2017，15(2):40-45.(Guo Qiyi，Kang Jinsong，Feng Jianghua,et al. Current development and trend of rail transit vehicle traction control[J]. Journal ofPower Supply,2017,15 (O2): 40-45.)   \n[4]陈佳凯．列车网络通信模式优化与可靠性分析研究[D].杭州：浙江大 学,2015.(Chen Jiakai. Research on optimization of communication mode on train communication network and reliability analysis [D]. Hangzhou: Zhejiang University,2015.)   \n[5]张华，谭献海，赵晋南，等．动态调整调度配额的TCSN调度算法 [J/OL].计算机应用研究，2018,35(11）.[2018-06-02].http://kns.cnki. net/kcms/detail/51.1196.TP.20171115.1041.028.html.(ZhangHua,Tan ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Xianhai,Zhao Jinnan，etal.TCSN scheduling algorithm for dynamic ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "adjustment scheduling quotas [J/OL].Application Research of Computers, 2018,35(11).[2018-06-02].http:/kns.cnki. net/kcms/detail/51.1196.TP. 20171115.1041.028. html. )   \n[6]白雪，谭献海，刘力浩．高速列车控制与服务网络（TCSN）业务分析 与建模[J].物联网技术,2017,7(8):84-86.(Bai Xue,Tan Xianhai,Liu Lihao.High-speed train control and service network (tcsn） business analysis and modeling [J].Internet of Things Technologies,2O17,7(8): 84-86.)   \n[7]Li Xiangning,Ma Jing.Research on modeling and simulation of data services of TCN [C]// Proc of the 2nd International Conference on Computer and Automation Engineering.2010.   \n[8]Fan Zhaoyong,Gan Zhichun, Shen Jianjun,et al. Research on networking simulation in TCN simulation training [C]// Proc of International Asia Conference on Informatics in Control, Automation and Robotics.2009.   \n[9]罗杰．基于以太列车骨干网的高速列车网络应用研究[D]．成都：西南 交通大学，2O13.(Luo Jie.Train network applied research based on high-speed ethernet train backbone network [D].Chengdu: Southwest Jiaotong University,2013.)   \n[10] El Din Hassn Ali HG, Saroit IA,Kotb A M. Grouped tasks scheduling algorithm based on QoS in cloud computing network [J].Egyptian Informatics Journal,2017,18(1):11-19.   \n[11]Akashdeep,Kahlon KS.An embedded fuzzy expert system for adaptive WFQ scheduling of IEEE 802.16 networks [J].Expert Systems with Applications,2014,41(16): 7621-7629.   \n[12]韩永，姚念民，蔡绍滨，等.iSCSI虚拟交换机包转发调度算法FC-WFQ [J].电子学报，2013，41(3):587-592.(Han Yong，Yao Nianmin,Cai Shaobin,et al.Packet forwarding scheduling algorithm FC-WFQ for iSCSI virtualization switch [J].Acta Electronica Sinica,2013,41(O3):587-592.)   \n[13]彭浩．多处理器硬实时系统的调度算法研究[D].合肥：合肥工业大学, 2015. (Peng Hao. Scheduling algorithms for multiprocessor hard real-time systems [D]. Hefei: Hefei University of Technology,2015.)   \n[14]程安宇．乘用车网络控制系统中调度算法的研究与实现[D].武汉：武 汉大学，2014.(Chen Anyu.The research and implementation of scheduling algorithm in passenger vehicle network control system [D]. Wuhan: Wuhan University,2014.)   \n[15]李秉权，张松，王兆伟，等.WFQ与WRR调度算法的性能分析与改进 [J].北京理工大学学报，2015，35(3):316-320.(Li Bingquan，Zhang Song,Wang Zhaowei,et al. Performance analysis and improvement about WFQ and WRR schedule algorithm [J]. Transactions of Beijing Institute of Technology,2015,35(3):316-320.)   \n[16]李常贤，赵焱，张彤，等．列车网络控制系统时延特性研究[J].中国 铁路，2018(1):49-53,59.(Li Changxian,Zhao Yan,Zhang Tong,etal, Research on Delay Characteristics of Train Network Control System [J]. ChinaRailway,2018(1):49-53,59.) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

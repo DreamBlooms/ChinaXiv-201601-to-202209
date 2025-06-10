@@ -1,0 +1,322 @@
+# 儿童和青少年同伴侵害与攻击行为关系的三水平元分析\*
+
+陈　静1冉光明1张琪²牛湘1(西华师范大学教育学院心理系;2西华师范大学学前与初等教育学院，四川 南充 637002)
+
+摘要攻击行为在儿童和青少年的社会、情感和心理适应中发挥着重要作用，而同伴侵害是儿童和青少年攻击行为一个重要的预测因素。先前的一些研究已经考察了儿童和青少年同伴侵害与攻击行为之间的关系，但是尚不完全清楚调节效应对二者关系的影响。因此当前研究采用三水平元分析方法检验效应量的可靠性和一系列调节效应。在系统地搜索了2020 年10月之前发表的文献后，当前元分析确定了40项研究，包括 25605名被试，共计333个独立效应量。主效应检验发现儿童和青少年的同伴侵害与攻击行为呈显著正相关。此外，调节效应检验发现同伴侵害变量具有显著的调节作用。与身体侵害相比，关系侵害与儿童和青少年攻击行为之间的相关更强。儿童和青少年的同伴侵害与攻击行为也受到了地区的调节，它们之间的关系在亚洲地区比在南美洲地区更强。研究设计也是一个显著的调节变量，儿童和青少年同伴侵害与攻击行为的相关在纵向研究中比在横向研究中更低。最后，当前元分析的结果显示同伴侵害的报告者也是一个显著的调节变量。与同伴报告的同伴侵害相比，教师报告的同伴侵害与儿童和青少年攻击行为之间的相关较高。当前研究的结果指出，在预防、控制儿童和青少年的攻击行为时应该注意同伴侵害对其的影响。
+
+关键词儿童和青少年，同伴侵害，攻击行为，三水平元分析，调节效应
+
+分类号 B844
+
+# 1问题提出
+
+攻击(Aggresson)一直是心理学领域研究的热点问题之一。具有攻击行为的儿童和青少年容易违反社会道德规范，严重的甚至会违法犯罪(林红霞,2013)。大量研究发现，同伴侵害是影响儿童和青少年攻击行为的一个重要因素(王建平 等,2020;Cooley&Fite,2016)。遭受同伴侵害的儿童和青少年会将攻击者表征为敌意，并将此认识泛化到整个同伴群体，从而在以后的人际交往中表现出更多的攻击行为(叶诗敏，2018)。但是由于研究设计的差异和研究结果的不一致，儿童和青少年同伴侵害与攻击行为之间的关系仍存在一些不确定性。这阻碍了研究者对儿童和青少年同伴侵害与攻击行为关系的理解。因此，当前研究采用三水平元分析方法定量综合了以往研究的结果，以考察儿童和青少年同伴侵害与攻击行为之间的关系。
+
+# 1.1儿童和青少年同伴侵害与攻击行为的关系
+
+近年来，儿童和青少年的攻击行为一直受到心理学界的广泛关注。大量研究表明，攻击行为在儿童和青少年的社会、情感和心理适应中发挥着重要作用(Kawabata&Crick,2013)。因此，探究儿童和青少年攻击行为的预测因子是十分重要的。值得注意的是，同伴侵害被认为是儿童和青少年攻击行为的主要风险因素(Linetal.,2018；叶诗敏,2018)。同伴侵害是指个体遭受同伴的身体、言语、财物以及人际关系方面攻击的经历(张文新 等,2009；Mynard &Joseph，2000)。遭受同伴侵害的个体在其社会心理发展过程中可能会面临重大障碍(Troop-Gordon&Ladd,2015)。具体而言，同伴侵害有三个重要的类型，它们分别是身体侵害、言语侵害和关系侵害(Crick& Bigbee,1998;Mynard&Joseph,2000)。身体侵害主要是指受侵害者遭受到攻击者对其实施肢体方式的攻击，比如“被踢”、“被击打"等(Mynard& Joseph,2000；陈亮，2012)。言语侵害是指受侵害者遭受到攻击者的辱骂或嘲笑等言语方面的侵害，比如"被起外号”、“被别人骂"等(Mynard&Joseph,2000；陈亮,2012)。关系侵害是指在人际关系和社会互动等方面遭受到来自同伴的蓄意伤害(Crick& Bigbee，1998)，比如"被挑拨关系”、“被造谣"等(Mynard & Joseph,2000；陈亮,2012)。
+
+大量的实证研究已经考察了儿童和青少年同伴侵害与攻击行为之间的关系(Ferguson etal.,2016;Martinez-Ferrer et al.,2018)。有研究表明，儿童和青少年的攻击行为与身体侵害、言语侵害和关系侵害呈正相关(叶诗敏,2018;Ettekal& Ladd,2017)。在学界有三个理论可以用来解释儿童和青少年同伴侵害与攻击行为的关系。
+
+首先Lazarus 和Folkman (1984)的压力应对理论认为同伴侵害对儿童和青少年来说是一个压力源(Boulton& Underwood,1992; Taylor et al.,2013)，它会引发儿童和青少年适应性或非适应性应对反应去缓解或管理与同伴侵害经历有关的压力。具体而言，遭受到同伴侵害的儿童和青少年可能会出现尴尬、害怕和愤怒等情绪反应，其中愤怒是最常见的情绪唤起(Kochenderfer-Ladd,2004)。当儿童和青少年应对愤怒等常见的情绪反应时，经常通过攻击行为等非适应性应对策略进行报复(Sullivan et al.,2006)。然后根据Crick 等人提出的同伴经验可以作为儿童和青少年用来评价他人的社会信息数据库的基础(Crick&Dodge,1994)。Crick和 Bigbee (1998)认为同伴侵害可以为儿童和青少年提供一个明确的反馈，表明某人不适合同伴群体，这一情况会导致儿童和青少年对他人形成负面评价。基于自己的受害经历对同伴形成负面评价的儿童和青少年，可能会通过攻击行为报复施害者(Crick& Bigbee,1998)。最后根据特异性假说，有研究者认为受到同伴侵害的儿童和青少年可能会以同样的方式进行报复(Crick et al.，1999；Ostrov，2008)，因此会产生与其受害经历相同形式的攻击行为(McQuade，2017)。先前的一些研究已经证实了这一假说。有研究指出身体侵害只能够显著预测身体攻击，对关系攻击无显著影响(纪林芹 等,2012)。而Ostrov (2010)的研究认为关系侵害与关系攻击有独特的关联。
+
+因此，有必要对研究儿童和青少年同伴侵害与攻击行为关系的文献进行整合。国内早期的一项元分析考察了同伴关系与攻击行为之间的关联(郭伯良，张雷,2003)。此外，国外的一项元分析探究了关系侵害与关系攻击之间的关系(Casper et al.,2020)。尽管这些研究做出了令人佩服的工作，但仍然有些方面需要做进一步的探究。第一，两项元分析均未探究同伴侵害变量(身体侵害、言语侵害、关系侵害和同伴侵害)、研究设计(横向和纵向研究)以及地区(亚洲、欧洲、大洋洲、北美洲和南美洲)对上述变量关系的影响。第二,Casper 等人(2020)的元分析只探究了关系侵害和关系攻击，并未考察同伴侵害的其它重要类型(身体、言语侵害),也未考察攻击行为的其它关键方面(比如，身体攻击、言语攻击)。第三，郭伯良和张雷(2003)的元分析距今约 20 年，在这期间学界又更新了大量的关于同伴关系与攻击行为之间关联的文献。且在这期间中国社会发生着巨大的变化，两个变量之间的关系也有可能发生改变。
+
+# 1.2儿童和青少年同伴侵害与攻击行为关系的调节变量
+
+目前，有关同伴侵害性别效应的研究并没有得出一致的结论。有研究发现，男孩比女孩更容易受到同伴侵害(Santo et al.,2017；刘娟 等,2011)。这可能是因为与女生相比，男生的同伴群体更大、更分散和更具有竞争性，同伴间发生攻击行为的风险更高、数量更多(张文新 等,2009；孙晓军 等,2013)。而且在社会习俗和道德标准中女生处于受保护的地位，这在一定程度上减少了女生受到的同伴侵害(张文新 等,2009)。但也有研究指出，同伴侵害不存在显著的性别差异(Adams et al.,2010;Lee et al.,2016)。这可能是因为男孩和女孩经历了不同类型的同伴侵害，对不同项目的得分进行平均可能掩盖了这些差异(Wang et al.,2014)。比如,有研究指出男孩更容易受到身体、言语侵害(Pistella et al.,2020;Bevans et al.,2013)，而女孩经历更多的关系侵害(Bevans etal.,2013;Bradshaw et al.,2013)。
+
+除此之外，儿童和青少年的年龄也是一个潜在的调节变量。有研究发现，与年龄较大的孩子相比，年龄较小的孩子遭受到更多的同伴侵害(Unnever & Cornell，2004；Nansel et al,2001)。这可能是因为年龄较小的孩子身体更弱小，他们不仅被同龄人所侵害，还容易受到高年级学生的侵害(Bentley&Li,1996; Aspenlieder et al.,2009)。但也有一些研究表明，年龄较大的孩子报告的同伴侵害更多(Beran& Tutty,2002; Jenkins &Demaray,2012)。社会支配理论认为，升入中学后的学生经常会探索新的社会角色来获得同伴接纳(Pellegrini& Long,2002),难以建立同伴关系的学生甚至还会使用攻击行为以获得在新同学中的影响力和权利(Hawley,2003;Williford et al.,2011)。因此，被同伴接纳的渴望和尝试新社会角色的意愿增加了进入中学后遭受到同伴侵害的可能性(Adams et al.,2010; Williford et al.,2011)。
+
+值得注意的是，不同类型的同伴侵害对儿童和青少年的攻击行为有着不一样的影响。这表明同伴侵害变量在儿童和青少年同伴侵害与攻击行为的关系中可能存在潜在的调节作用。有研究指出，儿童和青少年遭受的言语侵害显著高于身体侵害和关系侵害(张文新，2002;Wang et al.,2010)。这可能是因为言语攻击容易实施、不易被监控，其危害性常常被低估或忽视(张文新，2002；黎亚军，2021)。并且言语攻击隐蔽性较强，受侵害的儿童和青少年往往没有去教师或其他成人那里诉求的证据，这样攻击者就可以避免被教师或他人惩罚(陈健芷等，2013)。但 Taylor 等人(2013)的研究显示，关系侵害对儿童和青少年的攻击行为有着显著的调节作用，但是身体侵害则不存在显著的调节作用。这可能是因为关系侵害是儿童和青少年遭受到攻击者对其人际关系和社会地位的操纵和破坏(董会芹,2015；张文新 等,2009)。这将给受侵害的儿童和青少年带来更多的适应问题，从而出现攻击等外化问题行为(董会芹，2015；董会芹，张文新,2013)。
+
+以往的研究表明，一些地区的社会特点是人们相互依赖，集体的目标和抱负优于个人的目标和抱负，高度重视社会环境的和谐；另一些地区的社会特征是个人独立于他人，高度强调个人的需要和愿望，社会成员间的联系相对较少(Oyserman et al.，2002；Hofstede et äal.,2010; Bergmuller,2013)。因此，不同地区儿童和青少年同伴侵害与攻击行为之间的相关可能存在差异。有些地区强调保持和谐、避免冲突的重要性；而另一些地区认为对抗是正常的，并且说出自己的想法被认为是诚实的特征(Bergmuller,2013;Hofstede,2001)。由于十分强调避免冲突和维护社会和谐，攻击行为在一些地区可能就不太常见，也不太被接受(Bergmuiller,2013)。甚至Chen 和French(2008)的研究指出在一些地区中，攻击、破坏性行为等是被严格禁止的。由于不同地区在将攻击行为视为违反规范的程度和从同伴群体中引发社会后果的倾向上存在差异(Bassetal.,2018)。因此，地区可能会影响儿童和青少年同伴侵害与攻击行为之间的关系。
+
+在儿童和青少年同伴侵害与攻击行为关系的研究中，研究设计也被认为是一个潜在的调节变量。研究设计用来检验儿童和青少年同伴侵害与攻击行为之间的相互影响。与之前的元分析一致的是(Yan et al.,2020;Ran et al.,2021)，在儿童和青少年同伴侵害与攻击行为之间的关系中，发表时间、发表状态、研究设计、攻击的类型、同伴侵害的报告者和攻击的报告者也可能是潜在的调节变量。
+
+# 1.3 当前研究
+
+当前研究的第一个目标是采用三水平元分析方法检验儿童和青少年同伴侵害与攻击行为的总体相关。更具体地说，本研究定量地总结了原始文献的结果以提高人们对这两个变量关系的认识。此外，当前研究的第二个目标是分析调节效应对儿童和青少年同伴侵害与攻击行为关系的影响。基于主要的理论框架和以往的研究结果，本研究假设样本特征、发表特征、研究设计、结果变量和评估特征会影响儿童和青少年同伴侵害与攻击行为关系的显著性。
+
+# 2 研究方法
+
+# 2.1文献搜索和文献选取标准
+
+当前研究在多个电子数据库搜索文献。中文文献主要在中国知网数据库、中国优秀硕博士论文数据库、维普数据库、万方数据库以及百度学术等进行检索。检索关键词为"侵害”“同伴侵害”“同伴关系”“攻击”“攻击行为"和"外化问题"等。外文文献则主要在 ScienceDirect、Elsevier SD、Web of Science 和 Google 学术等进行检索。检索关键词为"victimization”“peervictimization”“aggression”“aggressive behavior"和"externalizing problems"等。所有文献检索的时间范围是1988年11月\~2020 年10月。
+
+对于检索到的相关文献是否纳入元分析，当前研究采用了下述标准进行判断。(1)纳入文献为考察儿童和青少年同伴侵害与攻击行为关系的实证研究，这些研究数据资料完整。(2)文献报告了儿童和青少年同伴侵害与攻击行为之间的相关系数。(3)研究对象的平均年龄为6\~19 岁。(4)研究设计为横向研究或纵向研究。(5)1988年11月\~2020年10月公开发表或未公开发表的文献，数据重复发表的只取其中最早的部分。如图1所示流程筛选文献后，发现有2篇研究没有报告相关系数。通过电子邮件询问了文献的通讯作者，但是没有得到作者的回复。最终符合条件纳入当前元分析的文献共有40篇，其中中文文献6篇，外文文献34篇。共获得独立效应量333个。
+
+# 2.2 文献特征编码
+
+为了对原始文献的结果进行有效地定量综合，当前研究根据Lipsey 和Wilson (2001)的方法对文献数据进行编码：(1)文献信息(第一作者名 $^ +$ 发表时间);(2)效应量数;(3)被试数量;
+
+![](images/3f57f0ed103a8cf43cbeabf9bd82015c05d91b92619afdbf1b0f00d2c8cc77f7.jpg)  
+图1文献筛选流程图
+
+(4)被试性别(男性比);(5)被试年龄;(6)地区(亚洲 vs 欧洲 vs 大洋洲 vs 北美洲 vs 南美洲)(Li et al.,2021);(7)研究设计(横向研究vs 纵向研究);(8)同伴侵害变量(身体侵害vs 言语侵害vs 关系侵害 vs 同伴侵害);(9)攻击变量(身体攻击 vs 言语攻击 vs 关系攻击 vs 攻击);(10)同伴侵害报告者(同伴报告 vs 自我报告 vs 母亲报告 vs 教师报告 vs 组合报告1); (11)攻击报告者(同伴报告 vs 自我报告 vs 教师报告 vs 组合报告);(12)发表状态(已发表 vs 未发表)。
+
+在编码过程中主要遵循以下原则：(1)每一个独立样本编码为一个效应值，如果一篇文章同时报告了多个独立样本，则分别编码。(2)若被试特征(如男/女)分别报告了相关，则分别编码。(3)若研究为纵向研究，则对每次结果分别编码。由于纳入当前元分析的数据来自不同的文献，编码错误是不可避免的。为了解决这个问题，依据以往研究中使用的方法，所有的初始文献由同一编码者在两个时间段(间隔一个月)进行重复编码(雷丽丽 等,2020；叶静，张戌凡,2021)。两次编码的一致性如下：(1)性别 $\mathrm { ( I C C = 0 . 9 7 0 ) }$ ; (2)年龄 $( \mathrm { I C C } = 1 . 0 0 0 )$ ; (3)发表时间（204号 $( \mathrm { I C C } = 0 . 9 9 7 )$ ；(4)相关系数 $( \mathrm { I C C } = 1 . 0 0 0 )$ ；(5）地区 $( k = 0 . 9 4 5 )$ ; (6)发表状态 $( k = 0 . 9 6 5 )$ ；(7)同伴侵害报告者 $( k = 0 . 9 4 6 )$ ; (8)攻击报告者 $( k = 0 . 9 3 8 )$ ; (9)研究设计 $( k = 0 . 9 6 5 )$ ; (10)同伴侵害变量
+
+$k = 0 . 9 5 3 \mathrm { , }$ ;(11)攻击变量 $\left( k = 0 . 9 5 3 \right)$ 。
+
+# 2.3 元分析过程
+
+# 2.3.1 效应量计算
+
+在当前研究中，选取相关系数 $\boldsymbol { r }$ 作为效应量。在进行元分析之前，通过ComprehensiveMeta-Analysis (CMA)软件，将相关系数 $\boldsymbol { r }$ 转换为呈正态分布的Fisher's Z分数(Mullen,1989;Card，2012)。然后再将Fisher's $Z$ 分数转换回相关系数 $\boldsymbol { r }$ 以利于对结果进行解释(Yan et al.,2020）。传统元分析方法假设各效应量之间相互独立，因而在一项研究中只提取一个效应量(Assink&Wibbelink,2016)。但是，本研究所纳入的部分原始文献报告了多个独立效应量。出现多个效应量主要包括以下几个原因：(1)研究中使用多种测量工具评估同一结构;(2)研究中报告了多个结果变量；(3)研究中报告了多个时间条件下构造的类似效应量(van denBussche et al.,2009)。Cheung (2014)指出，当同一研究报告多个效应量时，不应假设效应量之间是相互独立的。值得注意的是，与由不同研究报告的效应量相比，来源于同一研究的效应量会夸大变量间的相关。这违背了传统元分析模型中效应量独立的假设(Lipsey& Wilson,2001)。因此，当前研究采用三水平元分析方法来解决这一问题。
+
+三水平元分析方法将方差来源分为抽样方差(水平1)、研究内方差(水平2)和研究间方差(水平3)(Cheung,2014;Gao et al.,2017)。采用三水平元分析方法可以从原始文献中提取所有的效应量，从而最大化的保留信息，提高统计效率(Assink et al.,2015)。相比之下，传统的元分析方法在同一研究中提取效应量往往采取平均为单个效应量或者丢弃的方式，这会导致信息的丢失并降低统计效率(Gao et al.,2017)。
+
+# 2.3.2 数据处理与分析
+
+当前研究在数据分析中采用R x64 4.0.3-win 版本的 metafor 包进行元分析(Viechtbauer,2010)。按照 Assink 和Wibbelink (2016)的教程编写R语法。在元分析方法中采用Cheung (2014)的公式对元分析的抽样方差(水平1)进行估计。然后对研究内方差(水平 2)和研究间方差(水平 3)进行单侧对数似然比检验(One tailed log likelihood ratio tests)，以确定其是否显著。当研究内方差(水平2)和研究间方差(水平3)显著时，则进一步进行调节效应检验以确定异质性的来源(Gao et al.,2017)。
+
+# 2.3.3 发表偏差
+
+发表偏差(Publication bias)是指已经发表的研究文献不能系统全面地代表该领域已经完成的研究总体的一种偏差现象(Rothstein et al.，2006)。当前研究采用漏斗图(Funnel plot)和Egger's回归法检验是否存在发表偏差。研究者目测漏斗图，当漏斗图的形状为对称时，表明
+
+表1元分析纳入文献的特征  
+
+<html><body><table><tr><td>第一作者</td><td rowspan="3">效应量数 样本量</td><td rowspan="3">性别</td><td rowspan="3">地区</td><td rowspan="3"></td><td colspan="2">同伴侵害 攻击</td><td rowspan="2">同伴侵害</td><td colspan="2">攻击</td><td rowspan="3">研究 发表</td></tr><tr><td></td><td>变量</td><td>变量</td><td></td><td></td></tr><tr><td>发表时间</td><td>1806</td><td></td><td></td><td>报告者</td><td>报告者</td><td>设计 状态</td></tr><tr><td>纪林芹等(2012)</td><td>4</td><td></td><td>0.50</td><td>亚洲</td><td>P/R</td><td>P/R</td><td>S</td><td>P</td><td>横向</td><td>已发表</td></tr><tr><td>李腾飞(2017)</td><td>4</td><td>1508</td><td>0.51</td><td>亚洲</td><td>A</td><td>A</td><td>S</td><td>P</td><td>纵向</td><td>未发表</td></tr><tr><td>刘娟(2011)</td><td>12</td><td>1937</td><td>0.50</td><td>亚洲</td><td>P/R</td><td>P/R</td><td>S</td><td>P</td><td>横向</td><td>未发表</td></tr><tr><td>王建平等(2020)</td><td>3</td><td>1347</td><td>0.49</td><td>亚洲</td><td>A</td><td>P/V/R</td><td>S</td><td>S</td><td>横向</td><td>已发表</td></tr><tr><td>薛雯雯等(2015)</td><td>1</td><td>845</td><td>0.22</td><td>亚洲</td><td>A</td><td>A</td><td>S</td><td>S</td><td>横向</td><td>已发表</td></tr><tr><td>叶诗敏(2018)</td><td>20</td><td>551</td><td>0.54</td><td>亚洲</td><td>A/P/V/R</td><td>A/P/V/R</td><td>S</td><td>S</td><td>横向</td><td>未发表</td></tr><tr><td>Adams 等(2010)</td><td>1</td><td>367</td><td>0.48</td><td>北美</td><td>A</td><td>R</td><td>P</td><td>P</td><td>横向</td><td>已发表</td></tr><tr><td>Armocky 和 Vaillancourt (2012)</td><td>2</td><td>350</td><td>0.49</td><td>北美</td><td>A</td><td>P</td><td>S/P</td><td>P</td><td>纵向</td><td>已发表</td></tr><tr><td>Bass 等(2018)</td><td>24</td><td>865</td><td>0.55</td><td>亚洲/北 美/南美</td><td>A</td><td>P/R</td><td>P</td><td>P</td><td>横向</td><td>已发表</td></tr><tr><td>Boivin 和 Hymel(1997)</td><td>1</td><td>793</td><td>0.50</td><td>北美</td><td>A</td><td>A</td><td>P</td><td>P</td><td>横向</td><td>已发表</td></tr><tr><td>Brendgen 等(2011)</td><td>1</td><td>434</td><td>0.50</td><td>北美</td><td>A</td><td>A</td><td>P</td><td>P</td><td>横向</td><td>已发表</td></tr><tr><td>Brendgen 等(2015)</td><td>2</td><td>394</td><td>0.52</td><td>北美</td><td>A</td><td>P/R</td><td>S</td><td>P</td><td>横向</td><td>已发表</td></tr><tr><td>Cooley (2010)</td><td>2</td><td>253</td><td>0.39</td><td>北美</td><td>R</td><td>A</td><td>S</td><td>S/P</td><td>横向</td><td>未发表</td></tr><tr><td>Cooley 和 Fite (2016)</td><td>8</td><td>278</td><td>0.48</td><td>北美</td><td>A</td><td>P/R</td><td>S/T</td><td>T</td><td>纵向</td><td>已发表</td></tr><tr><td>Cooley 等(2017)</td><td>8</td><td>228</td><td>0.50</td><td>北美</td><td>A</td><td>P/R</td><td>S</td><td>T</td><td>纵向</td><td>已发表</td></tr><tr><td>Ettekal 和 Ladd (2017)</td><td>121</td><td>482</td><td>0.50</td><td>北美</td><td>P/V/R</td><td>P/V/R</td><td>P</td><td>P</td><td>纵向</td><td>已发表</td></tr><tr><td>Ferguson 等(2016)</td><td>8</td><td>357</td><td>0.52</td><td>大洋</td><td>R</td><td>R</td><td>P</td><td>P</td><td>纵向</td><td>已发表</td></tr><tr><td>Graham 等(2006)</td><td>1</td><td>1985</td><td>0.46</td><td>北美</td><td>A</td><td>A</td><td>P</td><td>P</td><td>横向</td><td>已发表</td></tr><tr><td>Huesmann 等(1994)</td><td>2</td><td>179</td><td>0.46</td><td>北美</td><td>A</td><td>A</td><td>P</td><td>P/T</td><td>横向</td><td>已发表</td></tr><tr><td>Kawabata 等(2010a)</td><td>16</td><td>138</td><td>0.50</td><td>亚洲</td><td>P/R</td><td>P/R</td><td>T</td><td>T</td><td>纵向</td><td>已发表</td></tr><tr><td>Kawabata 和 Crick (2013)</td><td>8</td><td>232</td><td>0.55</td><td>北美</td><td>P/R</td><td>P/R</td><td>P</td><td>P</td><td>横向</td><td>已发表</td></tr><tr><td>Khatri 等(2000)</td><td>8</td><td>471</td><td>0.46</td><td>北美</td><td>A</td><td>A</td><td>P</td><td>P</td><td>纵向</td><td>已发表</td></tr><tr><td>Kliewer 等(2012)</td><td>4</td><td>228</td><td>0.45</td><td>北美</td><td>P/R</td><td>P/R</td><td>S</td><td>S</td><td>纵向</td><td>已发表</td></tr><tr><td>Martinez 等(2018)</td><td>6</td><td>1952</td><td>0.50</td><td>欧洲</td><td>P/V/R</td><td>R</td><td>S</td><td>S</td><td>横向</td><td>已发表</td></tr><tr><td>Mathieson 等(2014)</td><td>1</td><td>499</td><td>0.49</td><td>北美</td><td>R</td><td>R</td><td>T</td><td>T</td><td>横向</td><td>已发表</td></tr><tr><td>McQuade (2017)</td><td>8</td><td>61</td><td>0.48</td><td>北美</td><td>P/R</td><td>P/R</td><td>C</td><td>C</td><td>纵向</td><td>已发表</td></tr><tr><td>Morrow 等(2016)</td><td>1</td><td>516</td><td>0.46</td><td>北美</td><td>A</td><td>A</td><td>P</td><td>T</td><td>横向</td><td>已发表</td></tr><tr><td>Osterman (1994)</td><td>4</td><td>404</td><td>0.50</td><td>1</td><td>A</td><td>P/V</td><td>C</td><td>C</td><td>横向</td><td>已发表</td></tr><tr><td>Ostrov 和 Godleski (2013)</td><td>6</td><td>1035</td><td>0.50</td><td>北美</td><td>R</td><td>P/R</td><td>M</td><td>T</td><td>纵向</td><td>已发表</td></tr><tr><td>Perry 等(1988)</td><td>1</td><td>165</td><td>0.50</td><td>北美</td><td>A</td><td>A</td><td>C</td><td>P</td><td>横向</td><td>已发表</td></tr><tr><td>Pouwels 和 Cillessen (2013)</td><td>1</td><td>333</td><td>0.50</td><td>北美</td><td>A</td><td>A</td><td>P</td><td>P</td><td>纵向</td><td>已发表</td></tr><tr><td>Reavis (2011)</td><td>16</td><td>1312</td><td>1</td><td>北美</td><td>A</td><td>A</td><td>P</td><td>P</td><td>纵向</td><td>未发表</td></tr><tr><td>Rudolph 等(2010)</td><td>1</td><td>132</td><td>0.48</td><td>北美</td><td>A</td><td>A</td><td>S</td><td>T</td><td>纵向</td><td>已发表</td></tr><tr><td>Santo 等(2017)</td><td>4</td><td>823</td><td>0.49</td><td>南美 北美</td><td>A A</td><td>P/R A</td><td>P P</td><td>P P</td><td>横向 纵向</td><td>已发表 已发表</td></tr><tr><td rowspan="2">Schwartz 等(2008)</td><td>1 1</td><td>199</td><td>0.53</td></table></body></html>
+
+<html><body><table><tr><td>Zhao 等(2020)</td><td>1</td><td>689</td><td>0.51</td><td>亚洲</td><td>A</td><td>A</td><td>S</td><td>S</td><td>横向</td><td>已发表</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+注：性别：男性比；同伴侵害变量：P为身体侵害,V为言语侵害,R为关系侵害,A为同伴侵害；攻击变量：P为身体攻击,V为言语攻击,R为关系攻击,A为攻击。同伴侵害报告者：S为自我报告,T为教师报告,P为同伴报告,M为母亲报告,C为组合报告;攻击报告者：S为自我报告,T为教师报告,P为同伴报告,C为组合报告。
+
+不存在显著的发表偏差(Wei etal.,2017)。Egger's 回归法的 $P$ 值大于0.05 时，表示不存在明显的发表偏差(Egger et al.，1997)。当存在显著的发表偏差时，采用剪补法(Trim and fillmethod)进一步检验(Duval& Tweedie,2000)。
+
+# 3 研究结果
+
+# 3.1 研究特征
+
+当前元分析包括 40 项研究，其中中文文献6篇，外文文献 34篇(见表1)。共有 333 个独立效应量,25605 名被试，被试平均年龄为11.12岁(年龄范围:6\~19 岁)。在同一项研究中，效应量数最少的是1个，最多的是121个。纳入文献的发表时间为1988年11月\~2020 年 10月。各调节变量中效应量数及所占百分比如表2所示。
+
+# 3.2发表偏差和主效应检验
+
+# 3.2.1 发表偏差
+
+漏斗图上代表效应量的小点基本均匀分布在平均效应量两侧且位于顶端，这表明当前研究不存在显著的发表偏差。除此之外,Egger's 回归法的 $P$ 值大于0.05 $( t = 1 . 5 5$ $p = 0 . 1 2 1$ ）也表明当前元分析不存在明显的发表偏差。由于漏斗图和 Egger's 回归法检验都表明当前研究不存在显著的发表偏差。因此，本研究没有采用Duval和Tweedie 的剪补法进一步检验发表偏差问题(Yan etal.,2020)。以上结果表明当前元分析不存在明显的发表偏差，元分析的结果准确可靠。
+
+# 3.2.2儿童和青少年同伴侵害与攻击行为的主效应检验
+
+当前研究采用随机效应模型对儿童和青少年的同伴侵害与攻击行为进行主效应检验。结果显示儿童和青少年的同伴侵害与攻击行为之间呈显著正相关( $\stackrel { \cdot } { r } = 0 . 2 9 5$ ， $p < 0 . 0 0 1 \$ )。此外，本研究采用单侧对数似然比检验法确定研究内方差(水平2)和研究间方差(水平3)的显著性。结果表明，当前研究在研究内方差(水平 2) $( p < 0 . 0 0 1 \$ )和研究间方差(水平3) $( p < 0 . 0 0 1 )$ 均存在显著差异。在总的方差来源中，抽样方差(水平1)为 $4 . 5 1 \%$ ，研究内方差(水平2)为 $5 3 . 2 0 \%$ 研究间方差(水平3)为 $4 2 . 2 9 \%$ 。因此，可以分析调节变量以便进一步解释儿童和青少年同伴侵害与攻击行为之间的关系。
+
+<html><body><table><tr><td colspan="3">表2 调节变量中效应量数及所占百分比</td></tr><tr><td>调节变量 k</td><td></td><td>%</td></tr><tr><td colspan="3">(1）样本特征</td></tr><tr><td>a.性别</td><td>317</td><td>95.20</td></tr><tr><td>缺失值</td><td>16</td><td>4.80</td></tr><tr><td>b.年龄</td><td>190</td><td>57.06</td></tr><tr><td>缺失值</td><td>143</td><td>42.94</td></tr><tr><td colspan="3">c.地区</td></tr><tr><td>亚洲</td><td>71</td><td>21.32</td></tr><tr><td>欧洲</td><td>6</td><td>1.80</td></tr><tr><td>大洋洲</td><td>8</td><td>2.40</td></tr><tr><td>北美洲</td><td>228</td><td>68.47</td></tr><tr><td>南美洲</td><td>16</td><td>4.80</td></tr><tr><td>缺失值</td><td>4</td><td>1.21</td></tr><tr><td colspan="3">(2)发表特征</td></tr><tr><td>a.发表时间</td><td>333</td><td>100</td></tr><tr><td colspan="3">b．发表状态</td></tr><tr><td>已发表</td><td>279</td><td>83.78</td></tr><tr><td>未发表</td><td>54</td><td>16.22</td></tr><tr><td colspan="3">(3）评估特征</td></tr><tr><td colspan="3">a.同伴侵害报告者</td></tr><tr><td>同伴报告</td><td>206</td><td>61.86</td></tr><tr><td>自我报告</td><td>87</td><td>26.13</td></tr><tr><td>母亲报告</td><td>6</td><td>1.80</td></tr><tr><td>教师报告</td><td>21</td><td>6.31</td></tr><tr><td>组合报告</td><td>13</td><td>3.90</td></tr><tr><td colspan="3">b.攻击报告者</td></tr><tr><td>同伴报告</td><td>229</td><td>68.77</td></tr><tr><td>自我报告</td><td>48</td><td>14.41</td></tr><tr><td>教师报告</td><td>42</td><td>12.61</td></tr><tr><td>组合报告</td><td>14</td><td>4.21</td></tr><tr><td colspan="3">(4）研究设计和结果特征</td></tr><tr><td colspan="3">a.研究设计</td></tr><tr><td>横向研究</td><td>116</td><td>34.83</td></tr><tr><td>纵向研究</td><td>217</td><td>65.17</td></tr><tr><td colspan="3">b.同伴侵害变量</td></tr><tr><td>身体侵害</td><td>82</td><td>24.62</td></tr><tr><td>言语侵害</td><td>52</td><td>15.62</td></tr><tr><td>关系侵害</td><td>96</td><td>28.83</td></tr><tr><td>同伴侵害</td><td>103</td><td>30.93</td></tr><tr><td colspan="3">c.攻击变量</td></tr><tr><td>身体攻击</td><td>108</td><td>32.43</td></tr><tr><td>言语攻击</td><td>53</td><td>15.92</td></tr><tr><td>关系攻击</td><td>119</td><td>35.73</td></tr></table></body></html>
+
+# 3.3儿童和青少年同伴侵害与攻击行为的调节效应检验
+
+儿童和青少年同伴侵害与攻击行为关系的调节效应检验结果如表3所示。结果表明，同伴侵害变量具有显著的调节效应, $F \left( 3 , 3 2 9 \right) = 4 . 3 0 8$ ， $p = 0 . 0 0 5$ 。与身体侵害 $( r = 0 . 2 1 9 )$ 相比，儿童和青少年的攻击行为与关系侵害 $( r = 0 . 2 9 8 )$ 之间的相关更强。此外，研究设计也是一个显著的调节变量, $F \left( 1 , 3 3 1 \right) = 6 . 0 6 3$ $p = 0 . 0 1 4$ 。横向研究 $( r = 0 . 3 3 9 )$ 中儿童和青少年同伴侵害与攻击行为的相关大于纵向研究( $\overset { \cdot } { r } = 0 . 2 3 4 )$ 。同时，地区也具有显著的调节效应, $F \left( 4 , 3 2 4 \right) =$ 3.683, $p = 0 . 0 0 6$ 。这两个变量之间的相关在亚洲 $\left( r = 0 . 3 5 1 \right)$ 地区较高，在南美洲 $( r = 0 . 1 4 9 )$ 地区较低。除此之外，同伴侵害的报告者也是一个显著的调节变量, $F \left( 4 , 3 2 8 \right) = 2 . 8 6 5$ $p = 0 . 0 2 3$ 。当同伴侵害的报告者为教师 $( r = 0 . 4 7 6 )$ 时，儿童和青少年同伴侵害与攻击行为之间的相关大于由同伴报告 $( r = 0 . 2 9 0 )$ 的同伴侵害。但以下变量没有发现显著的调节效应：(1)性别： $F$ (1,$3 1 5 ) = 0 . 0 0 5$ $p = 0 . 9 4 2$ ; (2)年龄： $F \left( 1 , 1 8 8 \right) = 0 . 0 9 0$ $p = 0 . 7 6 4$ ;(3)发表时间： $F \left( 1 , 3 3 1 \right) = 0 . 0 0 2$ $p = 0 . 9 6 9$ ; (4)发表状态： $F \left( 1 , 3 3 1 \right) = 2 . 6 7 9$ $p = 0 . 1 0 3$ ;(5)攻击变量： $F \left( 3 , 3 2 9 \right) = 0 . 6 9 3$ $p = 0 . 5 5 7$ ：，(6)攻击报告者： $F \left( 3 , 3 2 9 \right) = 0 . 4 9 5$ ， $p = 0 . 6 8 6$ 。
+
+# 3.4调节变量的多重回归分析
+
+为了排除调节变量之间的共线性，根据 Assink 和Wibbelink (2016)的方法，当前元分析对显著的调节变量进行了多重回归分析。以地区(亚洲)、研究设计(横向研究)、同伴侵害变量(身体侵害)和同伴侵害报告者(同伴报告)为参照变量，结果显示至少有一个调节变量的回归系数显著偏离零(见表 4)。
+
+表4调节变量的多重回归分析  
+
+<html><body><table><tr><td>多重回归模型</td><td>k</td><td>F (df1,df2)</td><td>P</td><td>Level2</td><td>Level3</td></tr><tr><td></td><td>329</td><td>F(12,316)= 3.973</td><td><0.001</td><td>0.019***</td><td>0.016***</td></tr><tr><td>调节变量</td><td></td><td></td><td></td><td>β(95% CI)</td><td></td></tr><tr><td>地区</td><td>Intercept</td><td></td><td></td><td>0.318 (0.182;0.454)***</td><td></td></tr><tr><td></td><td>欧洲</td><td></td><td>6</td><td>-0.196 (-0.490;0.098)</td><td></td></tr><tr><td></td><td>大洋洲</td><td></td><td>8</td><td></td><td>-0.081(-0.396;0.235)</td></tr><tr><td></td><td>北美洲</td><td></td><td>228</td><td></td><td>-0.026(—0.128;0.076)</td></tr><tr><td></td><td>南美洲</td><td></td><td>16</td><td></td><td>-0.209(—0.328;—0.089)***</td></tr><tr><td>研究设计</td><td>纵向研究</td><td></td><td>217</td><td></td><td></td></tr><tr><td>同伴侵害变量</td><td>言语侵害</td><td></td><td></td><td></td><td>-0.153(—0.261;-0.044)** 0.044 (-0.009; 0.098)</td></tr><tr><td></td><td></td><td></td><td>52</td><td></td><td></td></tr><tr><td></td><td>关系侵害 同伴侵害</td><td></td><td>96 99</td><td>0.112 (0.011; 0.214)*</td><td>0.084 (0.037;0.132)***</td></tr></table></body></html>
+
+注： $k$ 为效应量数
+
+<html><body><table><tr><td>同伴侵害报告者</td><td>自我报告</td><td>87</td><td>-0.029(—0.128;0.070)</td></tr><tr><td></td><td>母亲报告</td><td>6</td><td>-0.077 (-0.379;0.224)</td></tr><tr><td></td><td>教师报告</td><td>21</td><td>0.244 (0.070;0.418)**</td></tr><tr><td></td><td>组合报告</td><td>9</td><td>0.061 (-0.186;0.309)</td></tr></table></body></html>
+
+注： $k$ 为效应量数;Level2为研究内方差，Level3为研究间方差
+
+# 4讨论
+
+美国国家儿童健康信息中心2007年的调查显示：攻击行为已经成为10\~24岁个体死亡的第二大因素(孙丽君 等,2017)。除此之外，儿童和青少年的攻击行为还将影响其学业成绩、社会适应和身心健康等(Vuoksimaa et al.,2021; Kawabata & Crick,2013; Gini& Pozzoli,2013)。大量的实证研究发现儿童和青少年的同伴侵害与攻击行为有关(Lin et al.，2018；杨晓霞 等，2020)。但尚不确定的是，由于研究设计和研究结果的差异，同伴侵害是如何影响儿童和青少年的攻击行为。考虑到这种不确定性，本研究采用三水平元分析来更好地理解儿童和青少年同伴侵害与攻击行为之间的关系。
+
+# 4.1儿童和青少年同伴侵害与攻击行为的关系
+
+当前元分析的结果显示儿童和青少年的同伴侵害与攻击行为呈显著正相关。当儿童和青少年遭受的同伴侵害越多，他们将会表现出越高水平的攻击行为。Bensimon 和Ronel (2012)提出的现象学模型(受害者—施暴者互动旋转；Victim－Perpetrator Interactive Spin,VPIS)可以用来解释这个结果。具体而言，受害者可能会经历一种旋转体验，这种体验将其困在一个看似无休止的受害循环中(Bensimon& Ronel,2012)。值得注意的是，受害者和施暴者的相互作用进一步加剧了这种旋转体验，该体验将受害者和施暴者都困在恶性互动中(Denzin,1984;Eisikovits& Buchbinder,2000)。在没有外部干预的情况下，受害者和施暴者将进行持续的暴力，从而使得受害者表现出更多的攻击行为(Bensimon&Ronel,2012)。
+
+# 4.2儿童和青少年同伴侵害与攻击行为关系的调节变量
+
+当前元分析结果表明，同伴侵害变量对儿童和青少年同伴侵害与攻击行为之间的关系有调节作用。与身体侵害相比，关系侵害与儿童和青少年攻击行为之间的相关更强。有研究表明，关系侵害比身体侵害普遍(Rosen et al.,2012;Wang et al. 2009)，关系侵害导致的攻击等外化问题行为显著高于身体侵害(董会芹,2015;Malhi etal.,2015)。这可能是因为随着儿童和青少年与同伴相处时间的增加以及同伴支持重要性的提高，关系侵害显得更加突出(Prinstein et al.,2001)。而关系侵害背叛了同伴关系中的信任，并且同伴关系中高度的自我表露会使儿童和青少年容易被个人信息所攻击(Prinstein et al.,2001; Sullivan et al.,2006)。因此,遭受到关系侵害的儿童和青少年可能会更多的采用攻击行为从而使得自己获得更多的同伴接纳(Malhi et al., 2015)。
+
+表3儿童和青少年同伴侵害与攻击行为关系的调节效应检验  
+
+<html><body><table><tr><td>#调节变量</td><td>k</td><td>Intercept/mean z (95% CI)</td><td>β (95% CI)</td><td>Mean r</td><td>F (df1, df2)a</td><td>pb</td><td>水平2方差</td><td>水平3方差</td></tr><tr><td>(1）样本特征</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>a.性别</td><td>317</td><td>0.308 (0.257;0.360)***</td><td>-0.039 (-1.087; 1.010)</td><td>1</td><td>F(1,315)= 0.005</td><td>0.942</td><td>0.023***</td><td>0.017***</td></tr><tr><td>b.年龄</td><td>190</td><td>0.306 (0.254; 0.359)***</td><td>-0.004 (-0.028; 0.021)</td><td>1</td><td>F (1,188) = 0.090</td><td>0.764</td><td>0.029***</td><td>0.015***</td></tr><tr><td>c.地区</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>亚洲</td><td>71</td><td>0.367 (0.278; 0.457)***</td><td></td><td>0.351</td><td>F (4,324)= 3.683</td><td>0.006**</td><td>0.020***</td><td>0.020***</td></tr><tr><td>欧洲</td><td>6</td><td>0.136(-0.168;0.440)</td><td>-0.231 (-0.548;0.085)</td><td>0.135</td><td></td><td></td><td></td><td></td></tr><tr><td>大洋洲</td><td>8</td><td>0.169 (-0.131; 0.469)</td><td>-0.198 (-0.511; 0.115)</td><td>0.167</td><td></td><td></td><td></td><td></td></tr><tr><td>北美洲</td><td>228</td><td>0.304 (0.242; 0.367)***</td><td>-0.063 (-0.163;0.037)</td><td>0.295</td><td></td><td></td><td></td><td></td></tr><tr><td>南美洲</td><td>16</td><td>0.150 (0.032; 0.268)*</td><td>-0.217(-0.338; -0.096)***</td><td>0.149</td><td></td><td></td><td></td><td></td></tr><tr><td>(2）发表特征</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>a.发表时间</td><td>333</td><td>0.304 (0.252; 0.355)***</td><td>0.000 (-0.007; 0.007)</td><td>1</td><td>F (1,331) = 0.002</td><td>0.969</td><td>0.021***</td><td>0.017***</td></tr><tr><td>b．发表状态</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>已发表</td><td>279</td><td>0.320 (0.268;0.371)***</td><td></td><td>0.310</td><td>F (1,331) = 2.679</td><td>0.103</td><td>0.021***</td><td>0.016***</td></tr><tr><td>未发表</td><td>54</td><td>0.209 (0.087; 0.331)***</td><td>0.111(—0.243;0.022)</td><td>0.206</td><td></td><td></td><td></td><td></td></tr><tr><td>(3）评估特征</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>a.同伴侵害报告者</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>同伴报告</td><td>206</td><td>0.299 (0.231; 0.367)***</td><td></td><td>0.290</td><td>F (4,328)= 2.865</td><td>0.023*</td><td>0.021***</td><td>0.014***</td></tr><tr><td>自我报告</td><td>87</td><td>0.278 (0.214; 0.342)***</td><td>-0.021(-0.109;0.066)</td><td>0.271</td><td></td><td></td><td></td><td></td></tr><tr><td>母亲报告</td><td>6</td><td>0.146(-0.114; 0.407)</td><td>-0.153 (-0.421; 0.116)</td><td>0.145</td><td></td><td></td><td></td><td></td></tr><tr><td>教师报告</td><td>21</td><td>0.518 (0.372; 0.664)***</td><td>0.219 (0.059; 0.379)**</td><td>0.476</td><td></td><td></td><td></td><td></td></tr><tr><td>组合报告</td><td>13</td><td>0.338 (0.165; 0.511)***</td><td>0.039(-0.147; 0.224)</td><td>0.326</td><td></td><td></td><td></td><td></td></tr><tr><td>b.攻击报告者</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>同伴报告</td><td>229</td><td>0.279 (0.215; 0.342)***</td><td></td><td>0.272</td><td>F (3,329)= 0.495</td><td>0.686</td><td>0.021***</td><td>0.016***</td></tr><tr><td>自我报告</td><td>48</td><td>0.312 (0.224; 0.400)***</td><td>0.033(-0.067; 0.134)</td><td>0.302</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>教师报告</td><td>42</td><td>0.347 (0.235;0.459)***</td><td>0.069 (-0.059;0.196)</td><td>0.334</td><td></td><td></td><td></td><td></td></tr><tr><td>组合报告</td><td>14</td><td>0.341 (0.177; 0.506)***</td><td>0.063 (-0.113;0.238)</td><td>0.328</td><td></td><td></td><td></td><td></td></tr><tr><td colspan="9">(4）研究设计和结果特征</td></tr><tr><td>a.研究设计</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.021***</td><td>0.014***</td></tr><tr><td>横向研究 纵向研究</td><td>116 217</td><td>0.353(0.292;0.415)***</td><td>-0.115 (-0.208;-0.023)*</td><td>0.339 0.234</td><td>F(1,331)= 6.063</td><td>0.014*</td><td></td><td></td></tr><tr><td>b.同伴侵害变量</td><td></td><td>0.238(0.169;0.307)***</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="9"></td></tr><tr><td>身体侵害</td><td>82</td><td>0.223(0.148;0.299)***</td><td></td><td>0.219</td><td>F (3,329)= 4.308</td><td>0.005**</td><td>0.020***</td><td>0.017***</td></tr><tr><td>言语侵害</td><td>52</td><td>0.265 (0.182; 0.349)***</td><td>0.042 (-0.013; 0.097)</td><td>0.259</td><td></td><td></td><td></td><td></td></tr><tr><td>关系侵害</td><td>96</td><td>0.307(0.235;0.379)***</td><td>0.084 (0.035;0.132)***</td><td>0.298</td><td></td><td></td><td></td><td></td></tr><tr><td>同伴侵害</td><td>103</td><td>0.327 (0.263;0.392)***</td><td>0.104 (0.009; 0.199)*</td><td>0.316</td><td></td><td></td><td></td><td></td></tr><tr><td colspan="9">c.攻击变量</td></tr><tr><td>身体攻击</td><td>108</td><td>0.287 (0.223;0.352)***</td><td></td><td>0.279</td><td>F (3,329)= 0.693</td><td>0.557</td><td>0.021***</td><td>0.017***</td></tr><tr><td>言语攻击</td><td>53</td><td>0.322 (0.246;0.398)***</td><td>0.035 (-0.020;0.089)</td><td>0.311</td><td></td><td></td><td></td><td></td></tr><tr><td>关系攻击</td><td>119</td><td>0.311 (0.248;0.374)***</td><td>0.024 (-0.019;0.067)</td><td>0.301</td><td></td><td></td><td></td><td></td></tr><tr><td>攻击</td><td>53</td><td>0.307(0.228;0.385)***</td><td>0.020(-0.078;0.117)</td><td>0.298</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+注：水平2方差为研究内方差，水平3方差为研究间方差$k$ 为效应量数,meanz为效应量(Fisher's Z), $C I$ 为置信区间， $\beta _ { 1 }$ 为估计回归系数， $\boldsymbol { r }$ 为皮尔逊相关系数，df为自由度
+
+当前元分析结果表明，儿童和青少年同伴侵害与攻击行为之间的关系受到了地区的调节，即这两个变量之间的相关在亚洲地区较高。尽管有研究表明，在亚洲地区孩子被教导要考虑别人的需要、期望和反应，而攻击、直接表达情绪以及当面冲突是要避免的(赵冬梅，周宗奎,2010; Bergeron& Schneider,2005)。但值得注意的是，在回避冲突和寻求和谐的亚洲地区，也可能存在对群体外成员的高度攻击(Triandis，1994)。当亚洲社会成员的荣誉观受到威胁时，可能会使用攻击行为进行回应(Nisbett&Cohen,1996)。同时，与其他地区的孩子相比,亚洲地区的孩子对关系，尤其是负面的关系体验更敏感(Triandis，1989)。并且亚洲地区强调的亲密关系和相互依赖等特征在一定程度上可能创造了一种社交环境，在这种环境中，儿童和青少年可能会通过关系攻击伤害同伴(Kawabata et al.,2010b)。因此，亚洲地区在特定条件下和特定群体中可能会有更高的攻击性(Bergmuller,2013)。
+
+当前元分析结果表明，研究设计对儿童和青少年同伴侵害与攻击行为之间的关系有调节作用。具体而言，与纵向研究相比，横向研究中儿童和青少年同伴侵害与攻击行为之间的相关更高。由于生物和环境的改变导致发展轨迹的变化，同伴侵害的受害程度会随时间的变化而上升或下降，这是一种典型的动态社会行为(Kochenderfer-Ladd& Wardrop，2001;Pouwels et al.,2016)。并且同伴侵害和攻击行为随着时间的推移会变得相对独立(Pouwels &Cillessen,2013)，这也会造成两个变量相关的强度趋于下降(Ettekal&Ladd,2017;Pouwels &Cillessen，2013)。同时，儿童、青少年、父母和教师等可能会通过使用某种策略以减少同伴侵害(Troop-Gordon&Ladd,2015; Kochenderfer-Ladd & Skinner,2002)。这一结果与之前的研究不一致(Reijntjes etal.,2011)，可能是因为儿童和青少年的家庭经济状况等方面存在差异。
+
+当前元分析结果表明，儿童和青少年同伴侵害与攻击行为之间的关系受到了同伴侵害报告者的调节作用。当同伴侵害报告者为教师时，儿童和青少年同伴侵害与攻击行为之间的相关更强。报告者视角的差异(比如，角色、价值、归因等)，会引导他们选择性的将回忆聚焦在对特定类型孩子的评价(Achenbach et al.,1987; Ladd& Kochenderfer-Ladd,2002)。同时,教师对学生的社会关系和互动有着不同的看法和独特的视角(Cullerton-Sen& Crick，2005),能够在学生的行为之间看出更精细、定性的区别(Coie&Dodge,1988;Ladd&Profilet,1996)。因此教师会注意到被同伴们忽视的微妙受害形式，更容易在与学生的互动中识别出受侵害者(Ladd & Kochenderfer-Ladd, 2002)。
+
+当前元分析的结果发现，儿童和青少年同伴侵害与攻击行为之间的关系在性别和年龄上没有显著差异。这一结果表明，同伴侵害的差异效应不能解释攻击行为的性别和年龄差异。此外，在当前元分析中，攻击行为的类型和报告者不是显著的调节变量。然而，在儿童和青少年同伴侵害与攻击行为之间的关系中，研究攻击行为的类型和报告者是很重要的。因为准确有效地对攻击行为进行测评是该领域研究的基础和前提(王益文 等,2004)，并且攻击行为的测评结果受到报告者的影响(王姝琼 等,2011)。
+
+# 4.3 研究不足与展望
+
+虽然当前研究按照相关标准和程序对儿童和青少年同伴侵害与攻击行为之间的关系进行了分析，但是仍然存在一些不足。首先在调节效应检验中，当前元分析仅对性别、地区、同伴侵害变量和同伴侵害报告者等进行检验。而没有对其他潜在调节变量(如父母受教育水平、家庭经济状况等)进行分析，将来应该进一步探究其他潜在调节变量在儿童和青少年同伴侵害与攻击行为关系中的作用。而且地区与文化存在较大的差异，地区这种编码并不能完全反映文化背景。未来的研究应该探究一种更好的编码方式来反映文化背景对儿童和青少年同伴侵害与攻击行为关系的调节作用。其次在文献搜索过程中由于文献加密或者其他原因，可能会导致数据的缺失，未来的研究需要运用其他方法或资源对文献进行更全面的搜索，以便更准确地评估儿童和青少年同伴侵害与攻击行为之间的关系。然后当前元分析中的样本是普通儿童和青少年群体，研究结论很难推广到临床儿童和青少年群体、成年人群体以及老年人群体。未来的研究应该考虑同伴侵害与攻击行为在其他群体(如临床儿童和青少年群体)中的关系。最后，与以往一些元分析研究类似(Yan et al.,2020;Ran et al.,2021)，当前元分析研究中有些调节变量的效应量的数量偏少，这会对结果产生一定的影响。
+
+# 5 启示
+
+当前元分析研究的结果显示儿童和青少年的同伴侵害与攻击行为呈显著正相关，这一结果对于预防同伴侵害、攻击行为具有一定的意义。人们应该注重培养孩子的人际交往能力，帮助孩子建立良好的同伴关系，以降低其遭受到同伴侵害的可能性，从而减少儿童与青少年的攻击行为。同时，父母、教师等应对儿童和青少年进行正确的教育和引导，改变他们对问题的错误认知，提高其问题解决能力。帮助儿童和青少年采用合理的方式处理学习生活中的矛盾和冲突，以防止攻击行为的发生。
+
+# 6 结论
+
+当前研究采用三水平元分析方法对已有数据进行了定量综合，结果表明儿童和青少年的同伴侵害与攻击行为呈显著正相关。这一结果支持了儿童和青少年同伴侵害与攻击行为关系有关的现有理论(如压力应对理论等)。此外，调节效应检验发现地区、研究设计、同伴侵害变量和同伴侵害报告者对儿童和青少年同伴侵害与攻击行为之间的关系存在显著的调节作用。总的来说，当前研究能够帮助人们更好地理解儿童和青少年同伴侵害与攻击行为的关系，也可以为将来进一步解释儿童和青少年攻击行为的实证研究提供参照依据。
+
+# 参考文献
+
+(带\*的为纳入元分析的文献)  
+陈健芷，刘昭阳，刘勇.(2013).初中生受欺负现状及其与亲子依恋和同伴关系的关系．中国临床心理学杂志,21(5), 795-799.  
+陈亮.(2012)．青少年早期的同伴侵害：发展轨迹、相关因素及性别差异(博士学位论文).山东师范大学，济南.  
+董会芹.(2015).同伴侵害与儿童问题行为：自尊的调节作用．中国临床心理学杂志,23(2),281-284.  
+董会芹，张文新.(2013).幼儿同伴侵害与社会能力、问题行为的关系．中国特殊教育,(5),77-82.  
+郭伯良，张雷.(2003)．儿童攻击和同伴关系的相关:20 年研究的元分析．心理科学,(5),843-846.  
+\*纪林芹，魏星，陈亮，张文新.(2012).童年晚期同伴关系不利与儿童的攻击行为：自我概念与同伴信念的中介作用．心理学报,44(11),1479-1489.  
+雷丽丽，冉光明，张琪，米倩文，陈旭.(2020).父母教养方式与幼儿焦虑关系的三水平元分析．心理发展与教育,36(3),329-340.  
+\*李腾飞.(2017)．青少年早期同伴侵害与学习成绩、问题行为的关系：朋友数量的调节作用(硕士学位论文).山东师范大学，济南.  
+黎亚军.(2021)．儿童青少年欺负/受欺负行为的发生模式研究．中国临床心理学杂志,29(3),489-495+472.  
+林红霞.(2013)．攻击行为规范信念、同伴关系与校园攻击行为的关系研究(硕士学位论文).山东师范大学，济南.  
+\*刘娟.(2011).同伴关系不利、儿童的自我概念与同伴信念和攻击行为的关系(硕士学位论文).山东师范大学,济南.  
+刘娟，陈亮，纪林芹，王姝琼，张文新.(2011).童年晚期身体侵害、关系侵害与儿童的自我概念．心理发展与教育,27(4), 412–416.  
+孙丽君，杜红芹，牛更枫，李俊一，胡祥恩.(2017).心理虐待与忽视对青少年攻击行为的影响：道德推脱的中介与调节作用．心理发展与教育,33(1),65-75.  
+孙晓军，张永欣，周宗奎.(2013).攻击行为对儿童受欺负的预测:社会喜好的中介效应及性别差异．心理科学,36(2),383-389.  
+\*王建平，喻承甫，甄霜菊，曾姝倩.(2020).同伴侵害与青少年攻击行为——心理需求满足与意向性自我调节的作用．北京师范大学学报(社会科学版),(4),60-69.  
+王姝琼，张文新，陈亮，李海垒，李春，周利娜.(2011).儿童中期攻击行为测评的多质多法分析．心理学报,43(3),294-307.  
+王益文，林崇德，张文新.(2004)．儿童攻击行为的多方法测评研究．心理发展与教育,(2),69-74.  
+\*薛雯雯，韩磊，窦菲菲，武云鹏，高峰强.(2015).羞怯对攻击和社交回避的影响：同伴侵害的中介作用．中国临床心理学杂志,23(6),1053-1055.  
+杨晓霞，陈亮，曹衍淼，毕馨文，陈光辉，张文新.(2020)．青少年早期同伴侵害的亚类别及其稳定性：个体定向的分析．心理发展与教育,36(2),146-156.  
+叶静，张戌凡.(2021).老年人心理韧性与幸福感的关系：一项元分析．心理科学进展,29(2),202-217.  
+\*叶诗敏.(2018).父母冲突、同伴侵害与青少年攻击行为的关系:C0MT 基因的调节效应(硕士学位论文)．广州大学.  
+张文新.(2002).中小学生欺负/受欺负的普遍性与基本特点．心理学报,(4),387-394.  
+张文新，陈亮，纪林芹，张玲玲，陈光辉，王姝琼.(2009).童年中期身体侵害、关系侵害与儿童的情绪适应心理学报,41(5),433-443  
+赵冬梅，周宗奎.(2010).儿童同伴交往中的攻击行为：文化和性别特征．心理科学,33(1),144-146.  
+Achenbach, T. M.， Mcconaughy, S.H.，& Howell C. T. (1987). Child/adolescent behavioral and emotionalproblems: Implications of cros-informantcorrelations forsituational specificity.Psychological Bulletin,101(2)213-232.  
+\*Adams,R.E., Bartlet,N. H.,& Bukowski, W.M. (2010). Peer victimization and social dominance as interveningvariablesof the link between peer liking and relational aggression.The Journal of Early Adolescence,30(1),102-121.  
+\*Arnocky，S.，& Vaillancourt,T.(2O12).A multi-informant longitudinal studyon therelationship betweenaggression,peer victimization,and dating status inadolescence.Evolutionary Psychology,10(2),253-270.  
+Aspenlieder,L.，Buchanan,C. M.，Mcdougall,P.，& Sippola,L.K. (2009). Gender nonconformityand peer
+
+victimization in pre- and early adolescence.European Journal of Developmental Science,3(1),3-16.
+
+Assink,M.,van der Put,C.,Hoeve,M.,de Vries,S.,Stams,G.,&Oort,F.J.(2O15).Risk factors for persistent delinquent behavior among juveniles: Ameta-analytic review. Clinical Psychology Review.42, 47-61.   
+Assink,M.,& Wibbelink, C. (2016). Fiting three-level meta-analytic models in R: A step-by-step tutorial. The Quantitative Methods for Psychology,12(3),154-174.   
+\*Bass,E.C.，Saldariaga,L.,Cunha,J.,Chen,B.-B.,Santo,J.B.,& Bukowski, W. M. (2018). A cross-cultural analysis of the relations of physical and relational aggresson with peer victimization. International Journal of Behavioral Development,42(1),132-142.   
+Beran,T.N.,& Tuty,L. (20o2). Children's reports of bullying and safety at school. Canadian Journal of School Psychology,17(2),1-14.   
+Bensimon,M.，& Ronel,N.(2012).The flywhel efect of intimate partner violence:A victim-perpetrator interactive spin. Aggression and Violent Behavior, 17(5), 423-429.   
+Bentley,K.M.,&Li,A.K.F. (996).Bulland victim problems inelementaryschools and students'beliefs about aggression. Canadian Journal of School Psychology, 11(2),153-165.   
+Bergeron,N.，& Schneider,B. H. (2oo5).Explaining cross-national differences in per-directed aggression: A quantitative synthesis. Aggressive Behavior, 31(2),116-137.   
+Bergmuller,S. (20l3).The relationship between cultural individualism-colectivismand student aggression across 62 countries.Aggressive Behavior, 39(3),182-200.   
+Bevans,K.B., Bradshaw,C.P.,& Wasdorp,T.E. (2O13). Gender bias in the measurement of peer victimization: An application of item response theory. Aggressive Behavior,39(5), 370-380.   
+\*Boivin，M.，& Hymel， S. (1997).Peer experiences and social self-perceptions: A sequential model. Developmental Psychology, 33(1),135-145.   
+Boulton,M.J.,& Underwood, K. (1992).Bull/victim problemsamong middle schoolchildren.British Journalof Educational Psychology, 62(1), 73-87.   
+Bradshaw, C. P., Waasdorp,T.E.,& O'Brennan,L. M. (2013). A latent class approach to examining forms of peer victimization. Journal of Educational Psychology,105(3),839-849.   
+\*Brendgen,M.，Boivin,M.，Dionne,G.,Barker,E.D.,Vitaro,F.，..Pérusse,D.(2011).Gene-environment processes linking aggression, peer victimization,and the teacher-child relationship. Child Development,82(6), 2021-2036.   
+\*Brendgen, M., Girard,A., Vitaro,F.,Dionne,G.,& Boivin,M. (2015).Gene-environment correlation linking
+
+aggression and peer victimization:Do clasroom behavioral norms matter? Journal of Abnormal Child Psychology, 43(1),19-31.
+
+Card,N.A. (2Ol2). Applied meta-analysis for social science research. New York: Guilford Press   
+Casper,D. M., Card, N. A.,& Barlow, C. (2O2o). Relational aggression and victimization during adolescence: A meta-analytic review of unique assciations with popularity， peer acceptance,rejection，and friendship characteristics. Journal of Adolescence, 80, 41-52.   
+Chen, X.,& French,D. C. (2O08). Children's social competence in cultural context. Annual Review of Psychology, 59(1), 591-616.   
+Cheung,M.W.-L. (2O14). Modeling dependent effect sizes with three-level meta-analyses: A structural equation modeling approach. Psychological Methods,19(2),211-229.   
+Coie, J.D.,& Dodge,K.A. (1988).Multiple sources of data on social behavior and social status in the school: A cross-age comparison. Child Development, 59(3), 815-829.   
+\*Cooley, J. L. (2010). Peer victimization, internalizing symptoms, and aggression among high-risk youth: The mediating role of emotion dysregulation (Undergraduate Honors Theses). College of William and Mary.   
+\*Cooley, J.L.,& Fite,P.J. (2016). Peer victimization and forms of aggression during middle childhood: The role of emotion regulation. Journal of Abnormal Child Psychology, 44(3), 535-546.   
+\*Cooley, J.L.,Frazer,A.L.,Fite,P.J.,Brown,S.&Dipierro,M. (2017). Anxietysymptoms asa moderatorofthe reciprocal links between forms of aggression and per victimization in middle childhood. Aggressive Behavior, 43(5), 450-459.   
+Crick, N.R.,& Bigbe,M. A.(1998). Relational and overt forms of peer victimization: Amultiinformant approach. Journal of Consulting and Clinical Psychology, 66(2), 337-347.   
+Crick,N.R., Casas,J.F.,& Ku,H. C. (1999). Relationaland physical forms of peer victimization in preschool. Developmental Psychology,35(2),376-385.   
+Crick, N. R.,& Dodge,K.A. (1994). Areview and reformulation of social information-processing mechanisms in children's social adjustment. Psychological Bulletin,115(1),74-101.   
+Cullerton-Sen,C.,& Crick,N.R.(2Oo5). Understanding the efects of physical and relational victimization: The utility of multiple perspectives in predicting social-emotional adjustment. School Psychology Review,34(2), 147-160.   
+Denzin,N. K.(1984). On understanding emotions. San Francisco: Jossey-Bass.   
+Duval,S.,& Tweedie,R.(2Oo0).Trimand fil: A simple funnel-plot-based method of testing and adjusting for
+
+publication bias in meta-analysis.Biometrics,56(2),455-463.
+
+Egger,M.，Smith,G.D.，Schneider,M.,& Minder,C.(1997).Bias in meta-analysis detected by a simple, graphical test. British Medical Journal,315(7109),629-634.   
+Eisikovits,Z.C.,& Buchbinder,E. (20oo).Locked in a violent embrace. Thousand Oaks, CA: Sage.   
+\*Ettekal,I.，& Ladd,G.W. (2o17).Developmental continuityand change in physical,verbal,and relational aggression and peer victimization from childhood to adolescence.Developmental Psychology， 53(9), 1709-1721.   
+\*Ferguson,S., Zimmer-Gembeck,M.J.,& Dufy,A.L. (2O16).Alongitudinal studyof relational aggression and victimisation in early adolescence: Gender differences in the moderating efects of social status.Journal of Relationship Marketing, 7, E8.   
+Gao,S.,Assnk, M., Cipriani, A.,& Lin, K. (2O17). Associations between rejection sensitivity and mental health outcomes: A meta-analytic review. Clinical Psychology Review, 57,59-74.   
+Gini, G.,& Pozzoli,T. (2O13).Buliedchildrenand psychosomatic problems: Ameta-analysis.Pediatrics,132(4), 720-729.   
+\*Graham,S.,Bellmore,A.D.,& Mize,J. (2o6).Peervictimization,aggresion,andtheirco-occurrence inmiddle school: Pathways to adjustment problems. Journal ofAbnormal Child Psychology,34(3),363-378.   
+Hawley,P.H.(2Oo3).Prosocial and coercive configurations of resource control inearlyadolescence: Acase for the well-adapted Machiavelian. Merrill-Palmer Quarterly,49(3),279-309.   
+Hofstede,G. H. (2oo1). Culture's consequences: Comparing values, behaviors, institutions, and organizations across nations (2nd ed.). Thousand Oaks, CA: Sage.   
+Hofstede,G.H.,Hofstede,G. J.,& Minkov,M. (20lO). Culturesand organizations: Softwareofthe mind (3rd ed.) New York,NY: McGrawHill.   
+\*Huesmann,L.R.,Eron,L.D.,Guerra,N.G.,& Crawshaw, V.B.(1994). Measuring children's aggression with teachers' predictions of peer-nominations. Psychological Assessment, 6(4),329-336.   
+Jenkins,L.N.,& Demaray,M. K. (2O12). Social support and self-concept in relation to peer victimization and peer aggression. Journal of School Violence,1l(1), 56-74.   
+\*Kawabata, Y.,& Crick,R.N.(2013).Relational and physical aggression,peer victimization,andadjustment problems in Asian American and European American children. Asian American Journal of Psychology， 4(3), 211-216.   
+\*Kawabata, Y., Crick,N.R.,& Hamaguchi, Y.(2O10a).Forms of aggresson,social-psychological adjustment,and peer victimization in a Japanese sample: The moderating role of positive and negative friendship quality.   
+Journal of Abnormal Child Psychology, 38(4),471-484.   
+Kawabata,Y., Crick,N.R.,& Hamaguchi, Y. (201ob).The roleof culture in relationalaggression: Associations with social-psychological adjustment problems in Japanese and us school-aged children. International Journal of Behavioral Development,34(4),354-362.   
+\*Khatri,P.，Kupersmidt,J.B.，& Patterson，C.(20o0).Aggression and peer victimization aspredictors of self-reported behavioral and emotional adjustment. Aggressive Behavior, 26(5),345-358.   
+\*Kliewer,W.，Dibbe，A.E.，Goodman，K.L.，& Sulivan，T. N. (2012). Physiological correlates of per victimization and aggression in African American urban adolescents. Development and Psychopathology, 24(2), 637-650.   
+Kochenderfer-Ladd,B. (2004). Peer victimization: The role of emotions in adaptive and maladaptive coping. Social Development,13(3),329-349.   
+Kochenderfer-Ladd,B.，& Skinner, K.(2O02). Children's coping strategies: Moderators of the effectsof peer victimization? Developmental Psychology， 38(2),267-278.   
+Kochenderfer-Ladd,B.，& Wardrop,J.L.(2O01).Chronicityand instabilityof children's peer victimization experiences as predictors of loneliness and social satisfaction trajectories. Child Development.72(1),134-151.   
+Ladd,G.W.，& Kochenderfer-Ladd,B.(2002). Identifying victims of peer aggression from early to middle childhood: Analysis of cross-informant data for concordance, estimation of relational adjustment, prevalence of victimization,and characteristics of identified victims.Psychological Assessment,14(1),74-96.   
+Ladd,G. W.,& Profilet,S.M.(1996). The child behavior scale: A teacher-report measure of young children's aggressive, withdrawn,and prosocial behaviors. Developmental Psychology, 32(6),1008-1024.   
+Lazarus,R.S.,&Folkman,S.(1984).Stre,appraisal, andcoing. New York: Sprger.   
+Lee,S.H., Smith, P. K.,& Monks, C.P. (2016). Participant roles in peer-victimization among young children in South Korea: Peer-,self-,and teacher-nominations.Aggressive Behavior, 42(3), 287-298.   
+Li,J.B.,Bi,S.S.,Willems，Y. E.，& Finkenauer,C. (2021). The association between school discipline and self-control from preschoolers to high school students:A three-level meta-analysis.Review of Educational Research,91(1),73-111.   
+Lin,S.,Yu, C., Chen, W., Tian, Y.,& Zhang,W. (2018). Peer victimization and aggressive behavior among Chinese adolescents: Delinquent peer affiliation as a mediator and parental knowledge as a moderator. Frontiers in Psychology, 9, 1036.
+
+Lipsey,M.W.,& Wilson,D.B.(2Oo1).Practical meta-analysis.London: Sage Publications, Inc
+
+Malhi,P.，Bharti，B.，& Sidhu,M.(2O15).Peer victimization among adolescents: Relational and physical aggression in Indian schools. Psychological Studies, 60(1),77-83.   
+\*Mathieson, L.C., Klimes-Dougan,B.,& Crick, N. R. (2014). Dweling on it may make it worse: The links betweenrelational victimization,relational aggression,rumination,and depressive symptoms in adolescents Development and Psychopathology, 26(3),735-747.   
+\*Martinez-Ferrer, B.,Moreno,D.,& Musitu, G. (2O18). Are adolescents engaged in the problematic use of social networking sites more involved in peer aggression and victimization? Frontiers in Psychology, 9,801.   
+\*McQuade, J. D. (2O17). Peer victimization and changes in physical and relational aggression: The moderating role of executive functioning abilities. Aggressive Behavior, 43(5),503-512.   
+\*Morrow,M.T., Hubbard,J.A.,Salee,M.L.,Barhight,L.R.,Lines,M.M.,& Rubin,R.M.(2016).Dyadic accuracy and bias in preadolescents' perceived peer relations: Associations with aggression, depression,and peer victimization. Journal of Social and Personal Relationships. 33(7), 892-916.   
+Mullen,B. (1989). Basic meta-analysis: Procedures and programs. Hilldale,NJ: Lawrence Erlbaum Associates.   
+Mynard,H.,& Joseph,S.(20oo).Development of the multidimensional peer-victimization scale. Aggressive Behavior; 26(2),169-178.   
+Nansel,T.R., Overpeck,M.,Pilla,R. S.,Ruan,W. J.， Simons-Morton,B.，& Scheidt,P. (2001).Bullying behaviors among us youth: Prevalence and association with psychosocial adjustment. Journal of the American Medical Association, 285(16),2094-2100.   
+Nisbett,R. E.,& Cohen,D. (1996). Culture of honor: The psychology of violence in the South. Denver, CO: Westview Press.   
+\*Osterman, K., Bjorkqvist, K.,Lagerspetz, K.M.J., Kaukiainen,A.,Huesmann,L.R.,&Fraczek,A. (1994).Peer and self-estimated aggression and victimization in 8-year-old children from five ethnic groups.Aggressive Behavior,20(6), 411-428.   
+Ostrov, J. M. (2O08).Forms of aggressonand peer victimization during earlychildhood: A short-term longitudinal study. Journal of Abnormal Child Psychology, 36(3),311-322.   
+Ostrov,J. M. (2010). Prospective associations between peer victimization and aggresion. Child Development, 81(6), 1670-1677.   
+\*Ostrov,J. M.,& Godleski, S.A. (2013). Relational aggression,victimization,and adjustment during middle childhood. Development and Psychopathology, 25(3),801-815.
+
+Oyserman,D.,Coon,H.M.,& Kemmelmeier,M.(2O02).Rethinking individualismandcollectivism: Evaluation of theoretical assumptions and meta-analyses. Psychological Bulletin,128(1),3-72.
+
+Pellegrni,A.D.,& Long,J.D.(2OO2). A longitudinal studyof bullying,dominance,and victimization during the transition from primary school through secondary school. British Journal of Developmental Psychology,20(2), 259-280.   
+\*Perry,D. G., Kusel, S.J.,&Perry,L.C. (1988). Victims of peer aggression. Developmental Psychology,24(6) 807-814.   
+Pistella,J.,Baumgartner,E.,Laghi,F.,alvati,.,Carone,N.osati,F.,&Baiocco,R.(2OO).Verbal,psical, and relational peer victimization: The role of immigrant status and gender. Psicothema,32(2), 214-220.   
+\*Pouwels,J.L.,& Cilessen,A. (20l3).Correlates and outcomes associated with aggression and victimization among elementary-school children in a low-income urban context. Journal of Youth and Adolescence,42(2), 190-205.   
+Pouwels,J.L.,Souren,P.M.,Lansu,T.,& Cillessen,A. (20l6). Stability of peer victimization: Ameta-analysisof longitudinal research. Developmental Review, 40,1-24.   
+Prinstein,M.J.，Boergers，J.，& Vernberg，E.M.(200l). Overt and relational aggression in adolescents: Social-psychological adjustment of aggressrs and victims. Journal of Clinical Child Psychology， 30(4), 479-491.   
+Ran, G., Niu, X.,Zhang,Q.,Li,S.,Liu,J., Chen,X.，& Wu J. (2021). The association between interparental conflict and youth anxiety: A three-level meta-analysis. Journal of Youth and Adolescence,5O(4),599-612.   
+\*Reavis,R. D. (2011). Peer victimization and aggression across elementary school. The University of North Carolina at Greensboro.   
+Reijntjes,A.,Kamphuis,J.H.,Prinzie,P.,Boelen,P.A.,van derSchoot,M.,&Telch,M.J. (201).Prospective linkages between peer victimization and externalizing problems in children: A meta-analysis. Aggressive Behavior,37(3),215-222.   
+Rosen,L.H., Underwood, M. K., Gentsch,J. K., Rahdar,A.& Wharton,M. E. (2012). Emerging adults' recollections of peer victimization experiences during middle school. Journal of Applied Developmental Psychology, 33(6),273-281.   
+Rothstein, H.R.,Suton,A.J.,&Borenstein,M. (2O6).Publicationbias inmeta-analysis: Prevention,ssesment and adjustments. Hoboken, NJ: Wiley.   
+\*Rudolph, K.D., Troop-Gordon, W.,& Granger,D.A. (2010). Peer victimization and aggression: Moderation by individual differences in salivary cortiol and alpha-amylase. Journal of Abnormal Child Psychology，38(6), 843-856.   
+\*Santo,J.B.,Bass,E.C.，Stella-Lopez,L.,& Bukowski,W.M. (20l7).Contextual influences on the relations between physical and relational aggression and peer victimization. School Psychology International38(1) 42-59.   
+\*Schwartz,D., Gorman, A. H.,Dodge,K. A.,Petit,G.S.,& Bates,J.E. (2008).Friendships with peers who are low or high in aggression as moderators of the link between peer victimization and declines in academic functioning. Journal of Abnormal Child Psychology, 36(5),719-730.   
+\*Shin,J. H.,Hong,J. S.，Yoon,J.，& Espelage,D.L. (2014).Interparental conflict,parenting behavior,and children's friendship qualityas correlates of peer aggression and peer victimization among aggressor/victim subgroups in South Korea. Journal of Interpersonal Violence, 29(10),1933-1952.   
+\*Sulivan,T. N.，Farrell，A. D.,& Kliewer，W.(2006). Peer victimization in early adolescence: Association between physical and relational victimization and drug use,aggresion, and delinquent behaviors among urban middle school students. Development and Psychopathology,18(1),119-137.   
+\*Taylor, K. A., Sulivan,T. N.,& Kliewer,W. (2O13).A longitudinal path analysis of peer victimization, threat appraisals to the self,and aggression,anxiety,and depression among urban African American adolescents. Journal of Youth and Adolescence, 42(2),178-189.   
+\*Toomey,R.B., Card,N. A.,& Casper,D. M. (2014).Peers' perceptions of gender nonconformity: Associations with overt and relational peer victimization and aggression in early adolescence. The Journal of Early Adolescence, 34(4),463-485.   
+Triandis,H. C.(1989).The self and social behavior in differing cultural contexts.Psychological Review, 96(3), 506-520.   
+Triandis, H. C. (1994). Culture and social behavior: New York: McGraw - Hill.   
+Troop-Gordon,W.,&Ladd, G.W. (2015).Teachers' victimization-related beliefsand strategies: Associations with students' aggressive behavior and peer victimization.Journal of Abnormal Child Psychology, 43(1),45-60.   
+Unever,J. D.,& Cornell,D. G. (2004). Middle school victims of bullying: Who reports being bullied? Aggressive Behavior 30(5),373-388.   
+van den Bussche,E., van den Noortgate，W.，& Reynvoet,B.(2009). Mechanisms of masked priming: A meta-analysis.Psychological Bulletin,135(3),452-477.   
+Viechtbauer, W. (2010). Conducting meta- analyses in R with the metafor package. Journal of Statistical Software.
+
+36(3), 1-48.
+
+Vuoksimaa,E.,Rose,R.J.,Pulkinen,L.,Palviainen,T.,Rimfeld,K.,Lundstrom,S..Kaprio,J. (2O21).Higher aggression is related to poorer academic performance in compulsory education. Journal of Child Psychology and Psychiatry, 62(3),327-338.   
+Wang, J.,Iannoti,R.J.,Luk,J. W.,& Nansel,T.R.(2Ol0). Co-occurrenceof victimization from fivesubtypesof bullying: Physical, verbal,social exclusion，spreading rumors,and cyber. Journal of Pediatric Psychology, 35(10), 1103-1112.   
+Wang,J.,Iannoti,R.J.,&Nansel,T.R. (2O9).School bullying amongadolescents inthe United States: Physical, verbal,relational,and cyber.Journal ofAdolescent Health, 45(4),368-375.   
+Wang,W.,Vaillancourt,T.,Britain,H.L.,Mcdougall,P.,Krygsman,A.,Smith,D.,..Hymel,S.(214).School climate,peer victimization，and academic achievement: Results from a multi-informant study. School Psychology Quarterly, 29(3),360-377.   
+Wei,J.,Zhang,W.,Feng,L.,& Gao,W. (2017). Comparison of fertility-sparing treatments in patients with early endometrial cancer and atypical complex hyperplasia: A meta-analysis and systematic review. Medicine, 96(37), e8034.   
+Wilifrd,A.P.，Brisson,D.,Bender,K.A.，Jenson,J.M.，&Forest-Bank,S.(2011).Patternsof aggressve behavior and peer victimization from childhood to early adolescence: A latent classanalysis. Journal of Youth and Adolescence, 40(6), 644-655.   
+Yan,F.,Zhang,Q.,Ran,G.,Li, S.,& Niu, X.(2O2O). Relationship between parental psychological control and problem behaviours in youths: A three-level meta-analysis. Children and Youth Services Review,112,104900.   
+\*Zhao,J.,Gao,F.,Xu,Y.,Sun,Y.,& Han,L. (2O2O).The relationship between shyness and aggression: The multiple mediation of peer victimization and security and the moderation of parent-child atachment. Personality and Individual Differences,156,109733.
+
+# The association between peer victimization and aggressive behavior in children and adolescents: A three-level meta-analysis
+
+CHEN Jing1, RAN Guangming1, ZHANG Qi², NIU Xiang (DepartmentofPsychology,SchoolofEducation,China WestNormal University,Nanchong 637oo2,China)
+
+26
+
+Abstract: Aggressve behavior plays an important role in social, emotional and psychological adjustment of children and adolescents. It is noted that peer victimization is an important predictor of aggressive behavior. Although several previous studies have examined the relationship between peer victimization and aggressive behavior in children and adolescents,the moderating effect on this relationship is not fully clear. Therefore，the present study employed a three-level meta-analysis to obtain reliable estimates of effect sizes and examined a range of moderators. Through the retrieval of articles published before October 2O2O,the current meta-analysis identified 4O studies, with 25605 participants and 333 independent effect sizes. Analysis revealed a significant positive association between peer victimization and aggressive behavior in children and adolescents. In addition， the present study found a significant moderating effect of peer victimization variable. Compared with physical victimization,the association between relational victimization and aggressve behavior in children and adolescents was stronger. Moreover, the overall association was influenced by region. Aggressive behavior was more strongly associated with peer victimization in Asia than in South America. Study design was also a significant moderator. The association between peer victimization and aggressive behavior in children and adolescents was smaller in longitudinal than in cross-sectional studies.Finally，the moderator analyses also showed that the informant of peer victimization was a significant moderator. The strength of the association between peer victimization and aggressive behavior in children and adolescents was significantly stronger when peer victimization was reported by teachers than by peers. The results of the current meta-analysis indicated that people should pay attention to the influence of peer victimization in children and adolescents when preventing and controlling their aggressive behavior.
+
+Key words: children and adolescents， peer victimization， aggressive behavior, three-level meta-analysis,moderate effect

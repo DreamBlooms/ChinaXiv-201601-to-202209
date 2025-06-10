@@ -1,0 +1,320 @@
+# 融合内容与矩阵分解的混合推荐算法
+
+王永贵，陈玉伟
+
+(辽宁工程技术大学 软件学院，辽宁 葫芦岛 125105)
+
+摘要：传统的基于内容的推荐算法往往具有较低的准确性，而协同过滤推荐算法中普遍存在数据稀缺性和项目冷启动问题。为解决上述问题，提出了一种融合内容与协同矩阵分解技术的混合推荐算法。该算法实现了在共同的低维空间中分解内容和协同矩阵，同时保留数据的局部结构。在参数优化方面利用一种基于乘法更新规则的迭代方法，以此提高学习能力。实验结果表明，该算法优于其他具有代表性的项目冷启动推荐算法，有效缓解了数据稀疏性，提高了推荐准确性。
+
+关键词：混合推荐；矩阵分解；冷启动；参数优化；局部结构 中图分类号：TP391 doi: 10.19734/j.issn.1001-3695.2018.11.0797
+
+Hybrid recommendation algorithm based on content and matrix factorization
+
+Wang Yonggui, Chen Yuweit (CollegeofSoftware,Liaoning Technical University,Huludao Liaoning 1251o5,China)
+
+Abstract: Traditional content-based recommendation algorithms have loweraccuracy,whiledata sparsenes and cold start problems are common incollaborative filtering recommendation algorithms.To solvethis problem,this paper proposeda hybrid recommendationalgorithmbasedoncontentandcollborative matrix factorization technique.Thealgorithmrealized the decompositionofcontent and colaborative matrix in a common low-dimensional space while preserving the local data structure.This paper used an iterative method based on multiplication update rules inparameter optimization,improved learning ability.The experimental results show that the proposed algorithm is superiortoother representative projects cold startrecommendation algorithm，which effectivelyaleviates the data sparsenessand improves the effciencyof the algorithm.
+
+Key words:hybrid recommendation; matrix factorization; cold start; parameter optimization;local structure
+
+# 0 引言
+
+随着大数据时代的到来，如何更好地处理运用好用户的信息数据，解决信息过载现象，已经成为互联网领域重要的课题之一。于是个性化推荐系统应运而生[1]。目前推荐算法已得到非常广泛的应用，如亚马逊、淘宝、网易云音乐等都具有强大的推荐系统，因其能根据海量的用户历史信息进行筛选过滤，挖掘出深层次的用户与用户或项目之间的关系，产生较为准确的具有偏好特性的个性化推荐，可以更好地满足用户需求，深受用户喜爱。
+
+推荐算法主要可以分为基于内容的推荐[2、协同过滤推荐[3]以及混合推荐算法[4]。基于内容的推荐算法通过抽取项目属性进行特征学习，根据计算出的项目相似度向用户推荐相似度值较大的项目。协同过滤算法是目前应用研究最为广泛的算法，主要可分为基于用户的协同过滤推荐和基于项目的协同过滤推荐，两者的核心在于通过用户一项目评分矩阵计算出用户或项目之间的相似度并进行推荐。但在现实应用中，只有一小部分用户会对少部分项目评分或评论，因此协同过滤技术存在明显的数据稀疏问题和项目冷启动问题[5]。冷启动问题主要可分为用户冷启动和物品冷启动，即如何为新用户推荐物品，或如何为用户推荐新物品。基于内容的方法虽然可以缓解冷启动问题，但是自身的推荐准确率较低，很少成为唯一选择。
+
+为解决上述问题，本文将基于内容的推荐算法与矩阵分解结合，提出了一种混合推荐算法。其主要贡献可概括如下：a)将内容与协同信息结合在统一的矩阵分解框架中，同时利用数据的局部结构，通过最近邻居形成的权重矩阵测量低维表示的局部平滑度。b)利用一种基于乘法更新规则的学习模型进行参数学习，同时施加非负性约束，引入正则化，优化了目标函数，减少了运行时间。c)在nips12raw_str602公开数据集上进行了大量的实验，证明了本文算法优于其他几种项目冷启动推荐算法，提高了推荐准确率，有效解决了项目冷启动问题。
+
+# 1 相关工作
+
+混合推荐算法的主要手段是综合利用基于内容的推荐算法和协同过滤推荐算法的优点，并避免各自的不足之处，可以有效缓解冷启动问题，实现多样性；但往往会出现复杂度过高、推荐时间增长、不易实现平衡等问题。常见的混合推荐算法主要可以分为加权型[6、合并型[7和特征组合[8]等几种类型。加权型混合推荐是将多种推荐计算结果加权后输出最终推荐结果。合并型混合推荐利用多种推荐算法产生多种推荐结果。特征组合混合推荐则是将不同推荐数据源的特征结合起来产生推荐。下面简要介绍几种相关的推荐算法。
+
+Soboroff等人[9]提出了一种基于潜在语义索引的技术，是较早结合协同过滤和文档内容进行文本推荐的混合推荐算法。该方法通过为每个用户构建内容配置文件来发现集合中的主题，然后将与用户配置文件最相似的文档推荐给用户。Singh等人[10]提出了协同矩阵分解的方法，是多关系分解模型的一个通用框架，解决了项目推荐和评分预测问题。Gantner 等人[11]使用KNN（K-nearest-neighbor）和 BPR（Bayesianpersonalizedranking）优化学习项目或用户与潜在因子间的映射。Wang 等人[12]提出一个混合推荐框架，利用用户上下文、操作记录和用户特征将用户分类，然后根据分类动态选择推荐算法。Ahn[13]引入了一种混合相似度计算方法，融入了个性化信息，缓和了冷启动问题，但算法实现复杂度过高。Rosen-Zvi 等人[14],提出了一种生成概率模型ATM(author-topicmodel)，将每个作者与相关主题的多项分布关联，每个主题都具有关于词汇的多项分布。在新闻推荐中，将用户建模为作者。Felfernig等人[15]提出了将高维评分矩阵映射到低维特征矩阵，利用用户的隐性数据和社交信息进行推荐，提高了推荐准确度，但存在部分信息丢失的问题。Cai等人[16]利用了数据局部几何结构更好地进行低维表示。该算法受最近邻图的标签传播启发，提出了一种施加约束的聚类技术，取得了较好的效果。
+
+以上算法融入了不同的因素，均有效缓解了冷启动问题，但存在复杂度过高、信息缺失等问题。本文算法融入了上述算法的部分优点，同时避免了信息缺失问题，利用了矩阵低秩特性和局部特性，并施加非负性约束来加强效应，采用基于乘法更新规则的方法优化参数，有效解决了冷启动问题，提高了推荐准确性。
+
+# 2 融合内容和矩阵分解的混合推荐算法
+
+对于初始项目矩阵 $X _ { I }$ 和用户矩阵 $X _ { U }$ ，利用参数矩阵 $\pmb { W }$ ，${ \cal H } _ { I }$ 和 $\mathbf { \nabla } H _ { U }$ 对两者进行协同分解，加入局部特性对分解后的数据进行处理优化，定义出由参数 ${ \boldsymbol { a } } , { \boldsymbol { \beta } } $ 、 $\lambda$ 控制的优化目标函数，利用一种参数学习算法，使参数矩阵 $\pmb { W }$ ， $H _ { I }$ 和 $\pmb { H } \tau$ 在优化目标函数的背景下进行迭代学习，最终达到一个平稳点，产生推荐结果。
+
+# 2.1问题描述
+
+针对项目冷启动问题，应向潜在感兴趣的用户推荐新项目，即至今没表达出兴趣但可能感兴趣的项目。根据用户的历史记录和新项目的描述，检索出最有可能对此新项目感兴趣的用户。可以将此问题定义如下：对于一个具有 $n$ 个项目的集合，存储在矩阵 $\ b { X } _ { I } \in \ b { R } ^ { n ^ { \times } m }$ 中的 $\mathrm { ~ m ~ }$ 表示项目属性个数，矩阵的一行表示一个项目，矩阵的一列表示一个项目属性，见表1；存储在矩阵 $\ b { X } _ { U } \in \ b { R } ^ { n ^ { \times } u }$ 中的 $u$ 表示用户数量，其中一个单元 $( i , j )$ 表示用户 $j$ 是否对项目 $i$ 有兴趣，见表2。
+
+基于以上定义，每个项目及对应的描述与所消费的用户相关联，如新闻。每篇新闻都由词汇和产生评论的用户来描述。这种情况可以用两个矩阵表示出来，其中一个矩阵表示为项目矩阵 $\ b { X } _ { I } \in \ b { R } ^ { n ^ { \times } \nu }$ ， $n$ 为文档数目， $\nu$ 表示词汇量；另一个矩阵表示为用户矩阵 $\ b { X } \ b { v } \in \ b { R } ^ { n ^ { \times } u }$ ， $n$ 为文档数目， $u$ 表示用户数量。项目矩阵 $X _ { I }$ 可以用来表示文档中词汇的TF-IDF分数，用户矩阵 $X _ { U }$ 用来反映相关用户是否对当前文档产生评论。
+
+将 $X _ { I }$ 分解成两个低维矩阵可以发现文档主题以及每个文档所属主题的程度；同样的，将 $X v$ 分解可以发现用户社区和文档在社区内引发兴趣的程度。这样分解的问题在于没有将文档和用户在共同的潜在空间表现出来，每个分解表示不同的潜在空间，无法将主题与社区联系起来。为使文档和用户在同一空间表示出来，使每个项目既能用一个主题描述，也能由一组用户即社区描述，本文将 $X _ { I }$ 和 $X v$ 分解后在共同的空间进行低维表示。对于矩阵 $X _ { I }$ 和 $X _ { U }$ ，定义如下的优化函数：
+
+$$
+\begin{array} { r l } & { \operatorname* { m i n } : Z = \alpha \parallel X _ { \mathrm { I } } - W H _ { \mathrm { I } } \parallel _ { \mathrm { F } } ^ { 2 } + \left( 1 - \alpha \right) \parallel X _ { v } \ - W H _ { \mathrm { U } } \parallel _ { \mathrm { F } } ^ { 2 } } \\ & { \qquad + \lambda \big ( \parallel W \parallel _ { \mathrm { F } } ^ { 2 } + \parallel H _ { \mathrm { I } } \parallel _ { \mathrm { F } } ^ { 2 } + \parallel H _ { \mathrm { U } } \parallel _ { \mathrm { F } } ^ { 2 } \big ) } \\ & { \qquad \quad s . t . W \geq 0 , H _ { \mathrm { I } } \geq 0 , H _ { \mathrm { U } } \geq 0 } \end{array}
+$$
+
+其中：前两项是通过使用同一矩阵 $\pmb { W }$ 实现在同一潜在空间下的项目矩阵 $X _ { I }$ 和用户矩阵 $X v$ 的分解，其中的符号表示矩阵的F-范数，运算后可实现对 $X _ { I }$ 和 $X _ { U }$ 的降维表示。其中超参数 $\boldsymbol { a }$ 用来控制矩阵分解的重要程度，控制在[0,1]内。若 $\scriptstyle a = 0 . 5$ 则表示两个分解同等重要；若 $\scriptstyle { a < 0 . 5 }$ ，则表明用户矩阵 $X _ { U }$ 的分解更重要；若 $a > 0 . 5$ ，则表明项目内容矩阵 $X _ { I }$ 的分解更重要。另一项为由超参数 $\lambda \geqslant 0$ 控制的关于参数矩阵 $\pmb { W }$ ， ${ \cal { H } } _ { I }$ 和 $\pmb { H } _ { U }$ 的正则化项，用来防止过拟合，衡量函数光滑的程度。
+
+Table1Item-attribute   
+表2项目一用户表  
+
+<html><body><table><tr><td rowspan="2">项目</td><td colspan="4">属性</td></tr><tr><td>ATTR1</td><td>ATTR2</td><td></td><td>ATTRm</td></tr><tr><td>Item1</td><td>R11</td><td>R12</td><td>…</td><td>R1m</td></tr><tr><td>Item2</td><td>R21</td><td>R22</td><td></td><td>R2m</td></tr><tr><td>：</td><td>：</td><td>：</td><td></td><td>：</td></tr><tr><td>Itemn</td><td>Rn1</td><td>Rn2</td><td>：</td><td>Rnm</td></tr></table></body></html>
+
+表1项目一属性表  
+Table 2 Item-user   
+
+<html><body><table><tr><td rowspan="2">项目</td><td colspan="4">用户</td></tr><tr><td>User1</td><td>User 2</td><td>：</td><td>Useru</td></tr><tr><td>Item1</td><td>R11</td><td>R12</td><td>…</td><td>R1u</td></tr><tr><td>Item2</td><td>R21</td><td>R22</td><td></td><td>R2u</td></tr><tr><td>：</td><td>：</td><td>：</td><td></td><td>：</td></tr><tr><td>Itemn</td><td>Rn1</td><td>Rn2</td><td></td><td>Rnu</td></tr></table></body></html>
+
+# 2.2局部结构的特性与衡量
+
+当进行协同分解时，应找到一个共同的低维空间对不同维数的数据进行处理优化，如式（1）所示。在考虑局部结构时引入流型假设，这种假设主要考虑模型的局部特性，如果两个数据点 $\mathbf { \sigma } _ { \mathbf { X } _ { i } }$ 和 $\mathbf { x _ { j } }$ 在原有分布几何中距离接近，那么在低维空间中也应该彼此接近，这在降维[17]和半监督学习[18]中有重要作用。但这一理论在分布的几何结构未知的情况下不能直接使用，然而根据流形学习[19]的研究,局部几何结构可以通过最近邻图的方式来建模。
+
+假设一个图具有 $n$ 个节点，每个节点表示一个数据点，找到每个点拥有的 $g$ 个最近邻居，并将这些点连接起来。对这些连接边进行描述，可以采用二进制和加权两种表示方法。若采用二进制表示方法，则描述成最近邻居为1，其余为0;若采用加权方式，则可以用余弦相似度值描述。本文采用余弦相似度值进行加权表示，并构成邻接矩阵 $A$ ，以此来测量两个数据点之间的局部紧密度。若 $x _ { i } { = } ~ ( { \bf x } _ { 1 } , { \bf y } _ { 1 } )$ ， $x _ { j } = { \bf \xi } ( { \bf x } _ { 2 }$ $\mathbf { y } _ { 2 } )$ ，则 $x _ { i }$ 与 $x _ { j }$ 之间的余弦相似度计算如下：
+
+$$
+s i m ( x _ { _ i } , x _ { _ j } ) { = } \frac { x _ { _ 1 } x _ { _ 2 } { + } y _ { _ 1 } y _ { _ 2 } } { \sqrt { x _ { _ 1 } ^ { 2 } + y _ { _ 1 } ^ { 2 } } \times \sqrt { x _ { _ 2 } ^ { 2 } + y _ { _ 2 } ^ { 2 } } }
+$$
+
+运用矩阵 $\mathbf { \Delta } _ { W }$ 协同分解后，每个数据点 $x _ { i }$ 被低维映射成了$w _ { i \circ }$ 测量两个低维数据点间的距离是通过计算欧几里德距离，即 $\| \omega _ { i ^ { - } } \omega _ { j } \| ^ { 2 }$ 。利用邻接权重矩阵 $A$ 可以测量低维表示的局部平滑度。给定损失函数如下：
+
+$$
+S = \frac 1 2 \sum _ { i , j = 1 } ^ { \ n } \lVert \omega _ { i } - \omega _ { j } \rVert ^ { * } \mathcal { A } _ { j }  &  = \sum _ { i = 1 } ^ { n } \mathbb { \langle } \omega _ { i } ^ { \prime } \omega _ { i } ) D _ { i i } - \sum _ { i , j = 1 } ^ { n } \bigl ( \omega _ { i } ^ { \prime } \omega _ { j } \bigr ) \mathcal { A } _ { j }
+$$
+
+$$
+\mathbf { \Sigma } = \operatorname { T r } \left( W \mathbf { \Sigma } W \mathbf { \Sigma } \right) \operatorname { \mathrm { ~ . ~ } } \operatorname { T r } \left( W ^ { \tau } A W \mathbf { \Sigma } \right) \mathbf { \Lambda } = \operatorname { T r } \left( W \mathbf { Z } W \mathbf { \Sigma } \right)
+$$
+
+其中： $\pmb { D }$ 为对角矩阵；其对角值为 $A$ 中每行元素的和； $D _ { i i } =$   
+$\textstyle \sum \ i A _ { i j }$ 。Tr表示矩阵的迹； $\textbf { \em L }$ 为拉普拉斯矩阵[20]。
+
+为了融入这种局部特性，针对式（1）进行优化，加入参数 $\beta$ 来控制局部性的执行程度。优化后的目标函数如下：
+
+$$
+\operatorname* { m i n } : Z = \alpha \parallel X _ { \mathrm { I } } - W H _ { \mathrm { I } } \parallel _ { \mathrm { F } } ^ { 2 } + ( 1 - \alpha ) \parallel X _ { v } \ - W H _ { \mathrm { I } } \parallel _ { \mathrm { F } } ^ { 2 } +
+$$
+
+$$
+\beta \operatorname { T r } ( W ^ { T } L W ) + \lambda \big ( \| W \| _ { \mathrm { F } } ^ { 2 } + \| H _ { \mathrm { I } } \| _ { \mathrm { F } } ^ { 2 } + \| H _ { \mathrm { U } } \| _ { \mathrm { F } } ^ { 2 } \big )
+$$
+
+$$
+s . t . W \ge 0 , H _ { \mathrm { I } } \ge 0 , H _ { \mathrm { U } } \ge 0
+$$
+
+其中： $\boldsymbol { a }$ 控制 $X _ { I }$ 和 $X v$ 分解的重要程度； $\lambda$ 控制正则化，防止过拟合； $\textbf { \em L }$ 为式（3）中的拉普拉斯矩阵。
+
+# 2.3基于乘法更新的参数学习算法
+
+上述目标函数是想通过迭代来寻找最小值，但由于参数$\pmb { W }$ 、 $H _ { I }$ 、 $\pmb { H } \tau$ 都是非凸的，所以找到全局最小值非常困难。为此推导出一种基于乘法更新规则的迭代算法，进行参数学习，可以实现一个平稳点。首先求出关于 $\pmb { W }$ ， ${ \cal { H } } _ { I }$ ， $\pmb { H } _ { U }$ 的偏导数，如式（5）～（7）所示。
+
+$$
+\nabla _ { W } Z = \alpha W H _ { I } H _ { I } ^ { \textit { r } } - \alpha X _ { I } H _ { I } ^ { \textit { r } } + ( 1 - \alpha ) W H _ { v } H _ { v } ^ { \textit { r } } -
+$$
+
+$$
+\left( 1 - \alpha \right) \boldsymbol { X _ { v } } \mathbf { { \boldsymbol { H _ { v } } } ^ { \tau } } + \beta \mathbf { { \boldsymbol { L } } } \mathbf { { \boldsymbol { W } } } + \lambda \mathbf { { \boldsymbol { W } } }
+$$
+
+$$
+\nabla _ { H _ { I } } Z = \alpha W ^ { T } W H _ { I } - \alpha W ^ { T } X _ { I } + \lambda H _ { I } ~
+$$
+
+$$
+\nabla _ { H _ { U } } Z = ( 1 - \alpha ) W ^ { T } W H _ { U } - ( 1 - \alpha ) W ^ { T } X _ { U } + \lambda H _ { U }
+$$
+
+然后再利用KKT（karush-kuhn-tucker）一阶最优性条[21],可以推导出如下结论：
+
+$$
+\pmb { W } \ge 0 , \pmb { H } _ { t } \ge 0 , \pmb { H } _ { v } \ge 0
+$$
+
+$$
+\nabla _ { W } Z \ge 0 , \nabla _ { H _ { I } } Z \ge 0 , \nabla _ { H _ { v } } Z \ge 0
+$$
+
+$$
+W \odot \nabla _ { W } Z = 0 , H _ { I } \odot \nabla _ { H _ { I } } Z = 0 , H _ { v } \odot \nabla _ { H _ { U } } Z = 0
+$$
+
+其中： $\odot$ 为矩阵乘法运算符。再将式（5）～（7）分别带入式（10）中的三个结论，可以得到参数 $\mathbf { \Delta } _ { W }$ 、 ${ \cal { H } } _ { I }$ 、 $\pmb { H } _ { U }$ 的更新规则：
+
+$$
+W  W \odot \frac { [ \alpha X _ { I } H _ { I } ^ { \tau } \ + ( 1 - \alpha ) X v H v ^ { \tau } \ + \beta A W ] } { [ \alpha W H _ { I } H _ { I } ^ { \tau } \ + ( 1 - \alpha ) W H v H v ^ { \tau } \ + \beta D W + \lambda W ] }
+$$
+
+$$
+H _ { I } \gets H _ { I } \odot \frac { [ \alpha W ^ { T } X _ { I } ] } { [ \alpha W ^ { T } W H _ { I } + \lambda H _ { I } ] }
+$$
+
+$$
+H _ { v } \gets H _ { v } \odot \frac { \Big [ ( 1 - \alpha ) W ^ { \tau } { \pmb X } _ { v } \Big ] } { \Big [ ( 1 - \alpha ) W ^ { \tau } \pmb W H _ { v } + \lambda H _ { v } \Big ] }
+$$
+
+基于上式， $\pmb { W }$ ， $H _ { I }$ 、 $\pmb { H } _ { U }$ 通过迭代可以达到学习的效果，最终实现一个平稳点。目标函数 $Z$ 在 $W$ ， ${ \cal H } _ { I }$ 、 $\pmb { H } \tau$ 处于稳定点时的更新规则下是不变的。本文又考虑到项目矩阵 $X _ { I }$ 和用户矩阵 $X _ { U }$ 的样本个数，将样本数的影响加入目标函数形成最终的优化目标函数：
+
+$$
+\operatorname* { m i n } : Z = { \frac { \alpha } { \log \left( \nu _ { 1 } \right) } } \parallel X _ { I } - W H _ { I } \parallel _ { \mathrm { F } } ^ { 2 } + { \frac { \left( 1 - \alpha \right) } { \log \left( \nu _ { 2 } \right) } } \parallel X _ { I } - W H _ { U } \parallel _ { \mathrm { F } }
+$$
+
+$$
++ \beta \mathrm { T r } ( W ^ { T } L W ) + \lambda ( | | W | | _ { F } ^ { 2 } + | | H _ { I } | | _ { F } ^ { 2 } + | | H _ { U } | | _ { F } ^ { 2 } )
+$$
+
+$$
+_ { S . t . W \geq 0 , H _ { t } \geq 0 , H _ { v } \geq 0 }
+$$
+
+其中： $\nu _ { I }$ 表示项目数； $\mathbf { \sigma } _ { \nu _ { 2 } }$ 表示用户数。该优化目标函数能减少迭代次数，有效减少运行时间。一旦模型训练学习 $W , H _ { I }$ ，$\pmb { H } _ { U }$ ，这些参数就具有了预测作用。例如给定一篇新的新闻文章描述词就可以预测最有可能评论这篇文章的用户 $q _ { i }$ 。通过使用最小二乘法[22]求解出 $q _ { i } = { \boldsymbol { w } } { \boldsymbol { H } } _ { i }$ ，然后将文档向量 $q _ { i }$ 投影到公共潜在空间。不断更新的 $w$ 会在潜在空间中捕获到 $q _ { i }$ 并计算出 ${ } _ { w } H _ { u }$ ，即用户评论新文章的可能性 $q _ { u }$ ，从而根据这些可能性评分对这些用户进行排名。
+
+# 3 实验结果与分析
+
+# 3.1实验环境
+
+本文实验采用的硬件环境：AMDA8-5545MAPU四核，主频 $1 . 7 0 \ : \mathrm { G H z }$ ，内存4GB，硬盘750GB；操作系统：Windows7操作系统；编程环境：MATLABR2016a，MicrosoftVC $+ +$ 2015。
+
+# 3.2数据集描述
+
+实验采用的是nips12raw_str602公开数据集，可以在https://cs.nyu.edu/\~roweis/data.html找到。该数据集为稀疏数据集，对文章内容进行了预处理，去除停用词、数字、标点以及不常用标记，包含2037篇文章和用户名、13649个描述词汇以及1740个标题。
+
+# 3.3实验设置
+
+# 3.3.1实验方法
+
+按时间顺序对数据集进行排序，并通过移动时间窗生成训练集和测试集，其中还将测试集限制为至少评论过一次文章的用户。然后采用 $k$ 折交叉验证[23]，将数据集平分成10组，每次选取其中一组数据作为测试集，剩余组数据作为训练集。每个实验进行10次，取平均值作为最终的实验结果，并与其他算法比较分析。
+
+# 3.3.2评价指标
+
+推荐系统常用的性能评价指标有准确率（precision）、召回率（recall)、平均绝对误差（meanabsolute error，MAE）和均方根误差（root mean square error，RMSE）等[24]。但这些都属于准确性指标，具有不适合评估排序性能的局限性。
+
+本实验采用的评价指标为均值平均精度(mean averageprecision，MAP)和归一化折损累计增益（normalizeddiscountedcumulativegain，NDCG）[25]。两者都考虑到了位置因素对实验结果的影响。MAP较好地平衡了准确率和召回率，排名越靠前MAP值就越高；NDCG可以评估整个测试集中的用户和推荐列表，进行归一化处理。上述两个指标的相关定义如下：
+
+a）MAP的具体定义见式（15）（16）所示。
+
+$$
+A P = \frac { 1 } { R } \times \sum _ { r = 1 } ^ { R } \frac { r } { p o s i t i o n \left( r \right) }
+$$
+
+$$
+M A P = \sum _ { q = 1 } ^ { Q } \frac { A P ( q ) } { Q }
+$$
+
+其中：AP 表示平均准确率（average precision，AP）； $R$ 表示文档个数；position（r）是第 $\boldsymbol { r }$ 篇文档在列表中的位置； $\varrho$ 表示求出的AP值总数。
+
+b）NDCG是用IDCG进行归一化处理，表示DCG(discounted cumulative gain)与 IDCG（ideal discountedcumulativegain）差的距离。相关定义如下：
+
+$$
+D C G _ { p } = \sum _ { i = 1 } ^ { p } \frac { 2 ^ { r e l _ { i } } - 1 } { \log _ { 2 } ( i + 1 ) }
+$$
+
+$$
+I D C G _ { p } = \sum _ { i = 1 } ^ { \left| { \cal R E L } \right| } \frac { 2 ^ { r e l _ { i } } - 1 } { \log _ { 2 } ( i + 1 ) }
+$$
+
+$$
+N D C G _ { p } = { \frac { D C G _ { p } } { I D C G _ { p } } }
+$$
+
+式（17）是一种增加相关度影响比重的DCG，表示前 $p$ 个位置的文档产生的效益，其中reli表示第 $i$ 个文档的相关度等级。IDCG意为理想状态下的DCG最大值。丨REL丨表示前 $p$ 个文档的相关性大小排序。
+
+# 3.4实验结果与分析
+
+实验将本文算法的两种模型与其他四种推荐算法进行性能比较。本文的两种模型为CMF和未构建最近邻图的CMF，即CMF（ $\mathrm { \beta } \mathrm { = } \mathrm { 0 } \mathrm { \dot { \Omega } }$ )。用来比较的四种算法分别为较为经典的混合推荐算法UP-LSI[9]、解决冷启动的推荐算法BPR-KNN[11]、生成概率模型推荐算法 ATM[14]和一种较新的混合推荐算法SGHR（semi-genetic hybrid recommendation）[26]，采用遗传算法与权重相结合的方式提高推荐性能。
+
+实验从算法平均性能、潜在主题数量 $k$ 的影响、内容对协同信息的权重 $\boldsymbol { a }$ 的影响、控制解的平滑度参数 $\lambda$ 的影响、选取最近邻居数 $g$ 的影响以及运行时间上对算法进行对比评估。
+
+# 1）算法平均性能对比
+
+图1显示的是本文算法的两个模型CMF和CMF（ $\scriptstyle { \beta = 0 }$ ）的参数调至最佳时，在10个不同训练集和测试集下取得的平均性能。可以看出本文的两个模型在两个评价指标上都明显高于另外四种冷启动算法，MAP值提升了 $1 5 \%$ 左右，NDCG值提升了 $5 \% { \sim } 1 0 \%$ ，并且模型CMF优于模型CMF（ $\scriptstyle { \beta = 0 } .$ )，证明了本文算法有效提升了推荐准确度。
+
+0.7   
+BPR-KNN SGHR   
+0.6 ATMLSI CMF(β=0)   
+0.5 □   
+0.3   
+0.2   
+0.1   
+0.0
+
+2）潜在主题数量的影响
+
+主题数量 $k$ 控制着模型的复杂度，若 $k$ 值太小，即模型过于简单；若 $k$ 值过大，会产生数据拟合，并且性能上会受到较大影响，导致性能较差。因此需找到合适的主题数量来平衡上述问题。本文算法将 $k$ 控制在100\~1000。不同k值时的NDCG如图2所示。通过图2表明，主题数量在400\~700时性能较稳定；当 $k { = } 6 0 0$ 时基本达到最佳性能；但当 $k { > } 7 0 0$ 后性能下滑明显，NDCG值低于被对比算法；当 $k { > } 8 0 0$ 时模型CMF（ $\scriptstyle { \beta = 0 }$ ）与CMF差距明显。但本文算法总体性能要远优于其他四种算法。
+
+![](images/80a6539d1eee3aca1f5c089947fbc090258263b510ffb391b3a4c3ace87e4aaa.jpg)  
+图1平均性能比较
+
+3）内容对协同信息的影响
+
+参数 $\scriptstyle a$ 控制着内容对协同信息的重要程度。根据实验(2)结论，本实验设置潜在主题数量 $k { = } 6 0 0$ 来观察 $\alpha$ 的影响。其结果如图3所示。本文两种模型在 $a \in [ 0 . 1 , 0 . 5 ]$ 时性能较高较稳定，意味着协同分解时 $X _ { U }$ 更重要；当 $\scriptstyle { a = 0 . 2 }$ 时CMF达到最佳性能，且在 $\scriptstyle a$ 变化的整个过程中，CMF整体性能优于
+
+CMF（ $\scriptstyle { \beta = 0 }$ )，本文两种模型一直优于被对比算法。
+
+![](images/c529e841f945a4e9b59f191d3eb7d330c8a5b3b4a91c0f65b08b07b68f9f011e.jpg)  
+图3不同α值时的NDCGFig.3NDCG at different $\mathfrak { a }$ values
+
+4）解的平滑度的影响
+
+参数 $\lambda$ 通过调整正则化项来控制解的平滑度。实验将 $k$ 设定为600，将 $\scriptstyle a$ 设定为0.2，将控制局部平滑度的参数 $\beta$ 设置为0.25，同时控制 $\lambda \in \ ( 0 , 1 )$ 。不同入值时的NDCG如图4所示。由图4可以得出，当 $\lambda \in [ 0 . 1 5 , 0 . 3 5 ]$ 时可取得稳定高性能，CMF 性能略高于CMF（ ${ \mathrm {  ~ \beta ~ } } { \mathrm {  ~ \sigma ~ } } \mathrm {  ~ \beta ~ } = 0 \ \mathrm {  ~ \cdot ~ }$ ，同时两者远高于被对比算法；但当 $\lambda { > } 0 . 5$ 时性能较差，低于其他四种算法。
+
+![](images/7f7b430b8ec7ce484c3b39fd153c9fa0008bde47bd629d95b852851afd08dece.jpg)  
+Fig.1Average performance comparison   
+图4不同入值时的NDCG  
+Fig.4NDCG at different λ values
+
+5）局部平滑度的影响
+
+CMF模型通过构建最近邻图形成的邻接权重矩阵 $A$ 可计算局部平滑度，而参数 $\beta$ 控制着局部平滑度的重要程度。图5显示了不同 $\beta$ 值下的算法性能。当 $\beta \in [ 0 . 1 , 0 . 9 ]$ 时表现出较好的性能，且在 $\scriptstyle { \beta = 0 . 2 }$ 时NDCG值最高；当 $_ { \beta > 1 }$ 时性能表现不佳。因此本实验将 $\beta$ 控制在[0,1]内。
+
+![](images/4a34b7074500a73b3901193fe3e50a8c76b2ec240209896d70e0f0a30e6c3682.jpg)  
+图2不同k值时的NDCGFig.2NDCG at different k values  
+图5不同β值时的NDCGFig.5NDCG at different $\beta$ values
+
+6）最近邻居数的影响
+
+本文算法的CMF模型通过构建最近邻图来计算文档之间的相似度，而CMF（ $\scriptstyle { \beta = 0 }$ ）模型并没采用这种方式，因此实验只针对CMF模型进行了最近邻居数影响的研究，如图6所示。可以看出，当最近邻居数在1\~4个时，可以保持较高性能；当最近邻个数大于5时，则表现出较差的推荐准确性。
+
+![](images/198816c5b2085761354928d41d81c991e3603c86ced13c260983ea262b51fc69.jpg)  
+图6不同最近邻个数的NDCG Fig.6NDCG at different nearest neighbors
+
+7）算法运行时间
+
+将参数分别设置为 $\scriptstyle a = 0 . 3$ ， $\lambda { = } 0 . 2 5$ ， $\beta { = } 0 . 2 5$ 。测试本文两种模型在不同模型复杂度下的运行时间，在不同的 $k$ 值下每个模型运行10次后取平均值，实验结果见图7。可见 $k { > } 3 0 0$ 时CMF具有明显的优势，运行时间较CMF（ $\scriptstyle { \beta = 0 }$ ）减少很多；在 $k { = } 8 0 0$ 时时间相差了 $2 ~ 1 0 0 ~ \mathrm { s }$ 之多，可以得出加入最近邻加权和局部平滑度后的CMF模型可以有效减少运行时间;当 $k { > } 8 0 0$ 时由于实验性能较差，且运行时间较长，故不作考虑。
+
+![](images/1d58564c6f0d5baeed477d460be828fdfa1c8955dd4cfdd0a5d880b98a55c177.jpg)  
+图7不同k值下的运行时间  
+Fig.7Run time at different k values
+
+# 4 结束语
+
+本文提出了内容与协同信息相结合的混合推荐算法。将内容与协同矩阵在共同的空间中分解，得到项目主题和主题程度矩阵，同时考虑到局部结构，通过构建最近邻图的方式计算用户间的偏好相似性，形成权重邻接矩阵，用来测量局部平滑度，施加了非负性约束，导致可解释和稀疏的潜在表示。
+
+利用基于乘法更新规则进行参数学习，优化目标函数，找到性能稳定点。在评价指标上，使用了MAP和NDCG，融入了位置因素，增加了相关度比重，可以更好地评估排序性能。本文算法进行了多次实验后与冷启动算法对比评估，结果显示本文算法显著优于对比算法，有效缓解了冷启动问题，提高了推荐准确性。并且通过本文两种模型之间的对比，证明了引入局部结构的有效性。
+
+本文提出的融合内容和矩阵分解的算法虽然在该数据集上表现出较好的性能，但是否能支撑大规模数据集还有待研究。并且在今后的研究中，可以考虑加入更多的项目属性，如年龄、性别等属性，可以帮助提高用户的偏好相似性，从而提高推荐准确性。
+
+# 参考文献：
+
+[1]陈洁敏，汤庸，李建国，等．个性化推荐算法研究[J].华南师范大
+
+学学报:自然科学版，2014,46 (5):8-15.(Chen Jiemin,Tang Yong, Li Jianguo,et al. Survey of personalized recommendation algorithms [J]. Journal of South China Normal University :Natural Science Edition, 2014, 46 (5): 8-15. )   
+[2]王立才，孟祥武，张玉洁．上下文感知推荐系统[J]．软件学报， 2012,23(1):1-20.(Wang Licai,Meng Xiangwu， Zhang Yujie. Context-aware recommender systems [J].Journal of Software,2012,23 (1): 1-20.)   
+[3] Breese JS, Heckerman D, Kadie C. Empirical analysis of predictive algorithms forcollaborative filtering [Cl/ Proc of the 14th Conference on Uncertainty in Artificial Intelligence.San Francisco:Morgan Kaufmann Publishers Inc,1998: 43-52.   
+[4]De Campos L M,Fermandez-Luna JM, Huete JF,et al. Combining content-based and collaborative recommendations:a hybrid approach based on Bayesian networks [J]. International Journal of Approximate Reasoning,2010,51(7): 785-799.   
+[5]于洪，李俊华．一种解决新项目冷启动问题的推荐算法[J].软件学 报,2015,26 (6): 1395-1408.(Yu Hong,Li Junhua.Algorithm to solve the cold-start problem in new item recommendations [J].Journal of Software,2015,26 (6): 1395-1408.)   
+[6]邹凌君，陈崚，李娟．时间加权的混合推荐算法[J].计算机科学, 2016,43(S2):451-454.(Zou Lingjun，Chen Jun,Li Juan. Time-weighted hybrid recommender algorithm [J]. Computer Science, 2016, 43 (S2): 451-454.)   
+[7]吴彦文，王洁．基于混合遗传粒子群优化推荐算法的设计[J].计算 机工程与设计，2017，38(2):405-408.(Wu Yanwen，Wang Jie. Similarity recommendation based on hybrid of GA and PSO [J]. Computer Enginering and Design,2017,38 (2): 405-408. )   
+[8]李克潮，蓝冬梅．一种属性和评分的协同过滤混合推荐算法[J].计 算机技术与发展,2013,23(7):116-119,123.(LiKechao,Lan Dongmei. A collaborative filtering hybrid recommendation algorithm for attribute and rating [J].Computer Technology and Development,2013,23（7): 116-119,123. )   
+[9]Soboroff I, Nicholas C.Combining content and collaboration in text filtering[C]//Proc of the IJCAI'99 Workshop on Machine Learning for Information Filtering. 1999: 86-91.   
+[10] Singh A，Gordon G.Relational learning via collctive matrix factorization [Cl// Proc of the 14th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, New York: ACM Press, 2008: 650-658.   
+[11] GantnerZ，DrumondL，FreudenthalerC，etal.Learning atribute-to-feature mappings for cold-start recommendations [Cl/ Proc of IEEE International Conference on Data Mining.Washington DC: IEEE Press,2010: 176-185.   
+[12] Wang JH, Chen Yihao.A distributed hybrid framework to address the new-user cold-start problem [C]//Proc of the 13th IEEE International Conference on Ubiqutous Itelligence and Computing. Piscataway, NJ: IEEE Press,2015: 1686-1691.   
+[13]Ahn HJ.Anew similaritymeasureforcollborativefltering to alleviate the new user cold-starting problem [J]. Information Sciences, 2008,178 (1): 37-51.   
+[14] Rosen-ZviM,Griffths T,Steyvers M,et al. The author-topic modelfor authorsand documents [C]/ Proc of Uncertainty in Artificial Intelligence. 2004: 487-494.   
+[15] Felfernig A,Ninaus G, Grabner H,et al. An overview of recommender systems in requirements engineering [M]//Maalej W, Thurimella AK. Managing Requirements Knowledge.Berlin: Springer,2013:315-332.   
+[16] Cai Deng,He Xiaofei,Wu Xiaoyun,et al.Non-negative matrix factorization on manifold [C]// Proc of the 8th IEEE International Conference on Data Mining.Pisa:IEEE Press,20o8:63-72.   
+[17] Yin Jun,Lai Zhihui,Yan Hui.Dimension reduction using kernel collaborative representation based projection [J].AEUE-International Journal of Electronics and Communications,2017,81 (11): 23-30.   
+[18]刘建伟，刘媛，罗雄麟．半监督学习方法[J].计算机学报，2015，38 (8):1592-1617.(Liu Jianwei,Liu Yuan,Luo Xionglin. Semi-supervised learning methods [J].Chinese Journal of Computers,2015,38 (8): 1592-1617.)   
+[19]Allab K,Labiod L,Nadif M.Multi-manifold matrix decomposition for data co-clustering[J].Pattern Recognition,2017,64 (4):386-398.   
+[20] KatsnelsonV.Thematrixfunction\(varvec $\{ \mathbf { e } ^ { \wedge } \{ \mathbf { A } + \mathbf { B } \} \backslash \}$ ）is representable as the Laplace transform of a matrix measure [J]. Integral Equations and Operator Theory,2016,86 (3): 439-452.   
+[21] Cichocki A, Zdunek R,Phan AH,et al.Nonnegative matrix and tensor factorizations:applications to exploratory multi-way data analysis and blind source separation[M].[S.l.]:Wiley,2009.   
+[22] Dehghan M,Mohammadi V.Error analysis of method of lines (MOL) viageneralizedinterpolatingmovingleastsquares(GIMLS) approximation [J].Journal of Computational and Applied Mathematics, 2017,321 (9): 540-554.   
+[23]Wang Meiling,Ma Jun.A novel recommendation approach based on users'weighted trust relations and the rating similarities [J].Soft Computing,2015,20 (10):3981-3990.   
+[24] Willmott CJ，Matsuura K.Advantages of the mean absolute error (MAE) over the root mean square error (RMSE) in assessing average model performance[J].Climate Research,2oo5,30:79-82.   
+[25]Keyhanipour AH,Moshiri B,RahgozarM.CF-Rank: learning to rank by classifier fusion on click-through data [J].Expert Systems With Applications,2015,42(22) :8597-8608.   
+[26] Mueller J.Combining aspects of genetic algorithms with weighted recommender hybridization [C]// Proc of the 19th International Conference on Information Integration and Web-based Applications $\&$ Services.New York:ACMPress,2017:13-22.

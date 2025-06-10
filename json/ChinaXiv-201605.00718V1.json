@@ -1,0 +1,464 @@
+[
+    {
+        "type": "text",
+        "text": "Clearing Persistent Extracellular Antigen of Hepatitis B Virus: An Immunomodulatory Strategy To Reverse Tolerance for an Effective Therapeutic Vaccination ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Danming Zhu,Longchao Liu, Dan Yang, Sherry Fu, Yingjie Bian, Zhichen Sun, Junming He,Lishan Su, Liguo Zhang, Hua Peng and Yang-Xin Fu ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JImmunol 2016; 196:3079-3087; Prepublished online 2 March 2016;   \ndoi: 10.4049/jimmunol.1502061   \nhttp://www.jimmunol.org/content/196/7/3079 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Supplementary Material ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "http://www.jimmunol.org/content/suppl/2016/03/01/jimmunol.150206 1.DCSupplemental.html ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This article cites 38 articles,13 of which you can access for free at: http://www.jimmunol.org/content/196/7/3079.full#ref-list-1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Subscriptions ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Information about subscribing to The Journal of Immunology is online at: http://jimmunol.org/subscriptions ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Permissions ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Submit copyright permission requests at: http://www.aai.org/ji/copyright.html ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Email Alerts ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Receive free email-alerts when new articles cite this article. Sign up at: http://jimmunol.org/cgi/alerts/etoc ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Clearing Persistent Extracellular Antigen of Hepatitis B Virus: An Immunomodulatory Strategy To Reverse Tolerance for an Effective Therapeutic Vaccination ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Danming Zhu,\\*\\*1 Longchao Liu,\\*+,1 Dan Yang,\\* Sherry $\\mathbf { F u } _ { \\mathrm { } } ^ { \\ddag }$ Yingjie Bian,\\*,† Zhichen Sun,\\*\\* Junming He,\\* Lishan Su, Liguo Zhang,\\* Hua Peng,\\* and Yang-Xin $\\mathbf { F u ^ { * } { } ^ { \\ddag } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Development of therapeutic vaccnes/strategies tocontrolchronic epatitis Bvirus (HBV)infectionhas beenchallenging because of HBV-induced tolerane.Inthisstudy,weexploredstrategies forbreakingtoleranceandrestoring theimmuneresponse tothe HBV surfaceAg in tolerant mice.We demonstrated that immune tolerance status is atributed totheleveland durationof circulating HBsAg inHBVcarrier models.Removal ofcirculating HBsAgbyamonoclonalanti-HBsAg Abintolerant micecould gradually reduce tolerance and reestablish B cell and $\\mathbf { C D 4 } ^ { + }$ T cell responses to subsequent Engerix-B vaccination, producing protective IgG. Furthermore, HBsAg-specific $\\mathbf { C D 8 ^ { + } }$ T cells induced by the addition of a TLR agonist resulted in clearance of HBV inboth serum andliver.Thus，generation of protective immunitycan beachievedby clearing extracelular viral Ag with neutralizing Abs followed by vaccination. The Journal of Immunology,2016,196: 3079-3087. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A n estimated 2 billion people worldwide have been infected with the hepatitis B virus (HBV),with 35O million of them living with chronic HBV infection.Approxi  \nmately one quarter of adult HBV carrier and chronic hepatitis B   \n(CHB）patients later die of HBV-related complications of liver   \ncirrhosis and hepatocellular carcinoma(1,2).Despite enormous   \nefforts to develop antiviral agents,no successful treatment has   \nbeen reported to eradicate HBVor produce protective anti-hepatitis   \nB surface $\\mathbf { A } \\mathbf { g }$ (anti-HBsAg) Abs,the clinically desired goal of anti",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "HBV therapy (3,4). Anti-HBsAg Ab production and virus-specific $\\mathrm { C D 8 ^ { + } }$ T cell response are impaired in CHB patients (5,6),as well as in the reported HBV-carrier mouse model (7),which has been attributed to viral Ag-induced immune tolerance (8).A study using adeno-associated virus (AAV)/HBV mouse model also found that DNA vaccine could induce T/B cell response but was much weaker than in wild type (WT) mice and failed to reduce HBsAg, suggesting that tolerance was not broken (9). It has been challenging but essential to develop translational strategies that can break tolerance in HBV carriers and CHB patients,and induce neutralizing Ab (NAb) response and/or HBV-specific CTL response to eradicate HBV infection. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Awidely used preventive vaccine,EngerixB (EnxB),containing HBV surface Ag in aluminum (alum),induces protective anti$\\mathrm { H B s A g }$ in $90 \\%$ of noninfected individuals but fails to produce protective anti-HBsAg in either chronic carriers or CHB patients. In recent large-scale clinical trials,there was no increase of HBV carriers who developed neutralizing anti-HBsAg against infecting virus despite repeated vaccination,compared with the placebo control group(1O,11).Those data have elucidated the difficulties in breaking tolerance and inducing anti-HBsAg.HBeAg is another HBV-secreted protein that usually serves as a marker of a high level of HBV replication.It is also thought to act as a major T cell tolerogen for both HBe (precore) and core Ags,and regulates the immune response to HBV infection (12).However, the $\\mathrm { H B e A g } ^ { - }$ variant,a potential CTL-escape mutant,has shown a selective advantage over wild type HBV within the livers of CHB patients, indicating the complex roles of this HBV protein (13). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For patients with seroconversion from $\\mathrm { H B s A g ^ { + } / a n t i \\mathrm { - } H B s A g ^ { - } }$ to $\\mathrm { H B s A g ^ { - } / a n t i – H B s A g ^ { + } }$ ，liver inflammation and fibrosis reduced gradually over time (14,15).HBV DNA in the serum of these patients always decreases to an undetectable level, suggesting a correlation between serum HBsAg depletion and HBV control (16).This raises the possibility that existing levels of circulating HBsAg induce a specific tolerance that prevents the host from responding to HBsAg vaccination.Therefore,we hypothesize that clearance of circulating HBsAg might sufficiently reduce the tolerance enough for the host to reestablish a protective immune response to the clinical HBsAg vaccine.First,using HBV carrier mouse models that have defined low and high levels of serum HBsAg (9，17)，we have observed aclose correlation between HBsAg level and tolerance status.By pretreating the AAV/HBVinfected tolerant mice with HBsAg NAbs,we cleared circulating HBsAg efficiently and restored protective anti-HBsAg responses to the prophylactic HBV vaccine currently used in clinic. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MaterialsandMethods Mice ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "C57BL/6j (B6) mice were provided by Beijing Vital River.Ragl-deficient B6 strain $\\left( \\mathrm { R a g 1 } ^ { - / - } \\right)$ producing no mature T cells and B cells was obtained from the Model Animal Research Center (Nanjing,China).Mice were maintained under specific pathogen-free condition in BSL $\\cdot 2 ^ { + }$ animal facility,and animal experiments were followed with protocol no.DWSWAQ (ABSL-2) 2O122O5 at the Institute of Biophysics,Chinese Academy of Sciences.Animal experiments performed at the University of Chicago were approved by University of Chicago Institutional Animal Care Committee protocol(71866 for University of Chicago). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Reagents ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "AAV/HBV virus,an AAV-serotype-8 gene transfer vector expressing1.3- fold whole HBV genome (genotype D,serotype ayw),was provided by Beijing Five Plus Molecular Medicine Institute (Beijing,China).Peptides were purchased from China Peptide (Shanghai,China).HBsAg and HBeAg ELISA kits were purchased from Kehua Bioengineering (Shanghai,China).EnxB,containing HBsAg genotype A/serotype adw2,was purchased from GlaxoSmithKline Biological (Shanghai, China).Ab-H,a mouse IgG1 mAb to HBsAg,and Abs TIB21O(ATCC no.TIB-210,antiCD8)and GK1.5(ATCC no.TIB-2O7,anti-CD4) were prepared and purified in-house.HBsAg(ayw）were purified by CsCl density gradient centrifugation from the supernatant of HEK293 transient transfected by HBsAg (ayw)-expressing plasmid. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "HBVcarriermouse model ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Generation of the AAV/HBV carrier mouse model was described previously (9,17).In brief,C57BL/6 mice (male,5-7 wk of age) were i.v. injected with $5 \\times 1 0 ^ { 9 }$ $5 \\times 1 0 ^ { 1 0 }$ ，or $1 \\times 1 0 ^ { 1 1 }$ viral particles through the tail vein （204号 $( 2 0 0 ~ \\mu \\mathrm { l / i }$ njection,diluted in PBS).The model was used throughout this study and isabbreviated as“carrier”in the text or figures.The hydrodynamic tail vein injection (HDI)/HBV carrier mouse model was generated byhydrodynamic injection of plasmid pAAV/HBV1.2 into male B6 mice (7). In brief,5 or $0 . 2 5 \\mu \\mathrm { g }$ plasmid DNA was diluted to the equivalent of $8 \\%$ of the individual mouse's body weight; the total injection volume was delivered within $5 { - } 8 \\mathrm { ~ s ~ }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$H B V A g , A b$ ,and serum alanine aminotransferase analysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sera were prepared from blood collected from the retro-orbital sinus of the mouse at the indicated time points.Serum levels of HBsAg HBeAg,and anti-HBsAg were measured by standard ELISA after a series of dilutions with sterile PBS containing $2 \\%$ FBS,according to the manufacturer's instructions.Diluted commercial HBVAgs(Beijing Controls& Standards Biotechnology) were used as the standards.Endogenous HBsAg Abs were monitored by a precoated plate with the recombinant ayw-specific HBsAg proteins or peptides with the same encoding sequence in AAV/HBV1.3. Peptides used for measurement of subtype-specific Abs by ELISAwere HBsAg ayW 113-137(SSTTSTGPCRTCMTTAQGTSMYPSC）and HBsAgadw113-137(STTTSTGPCKTCTTPAQGNSMFPSC).Serum alanine aminotransferase (ALT）activity was determined using a fully automatic biochemical analyzer (BioSino Bio-technology and Science) after an appropriate dilution with sterile $0 . 9 \\%$ NaCl solution. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MeasurementofHBV genomicDNA ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SerumHBV genomic DNAwas extracted from $1 0 0 ~ \\mu \\mathrm { l }$ serum following the manufacturer's manual (Qiagen,Hilden,Germany).Capsid-associated HBV DNA in the liver was extracted as described previously (18).In brief, liver tissues were homogenized ina lysis buffer,and viral cores were then precipitated by adding polyethylene glycol,after removing host genomic DNA byDNase I.Viral DNA was extracted by treatment of core particle with proteinase K and SDS and then was precipitated with isopropanol. Quantitative real-time PCR was performed to detect HBVDNAlevels with HBVspecific primers,HBV-Real-F ${ \\boldsymbol { \\cdot } } { \\boldsymbol { 5 } } ^ { \\prime }$ -CACATCAGGATTCCTAGGACC- $. 3 ^ { \\prime }$ )and ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "HBV-Real-R $5 ^ { \\prime }$ -GGTGAGTGATTGGAGGTTG $3 ^ { \\prime }$ ).The HBV surface Ag containing plasmid was used to create standard curves. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Lymphocytedepletion,sorting,andadoptivetransfer ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In vivo depletion of $\\mathrm { C D 4 } ^ { + }$ T cells or $\\mathrm { C D 8 ^ { + } }$ T cells was performed by using anti-CD4 (GK1.5) or anti-CD8 (TIB21O) Ab before transfer of splenocytes from the indicated groups of treated or control mice ( $2 0 0 ~ \\mu \\mathrm { g }$ individual Ab per mouse).Lymphocyte sorting and purification was performed by using LS columns (Miltenyi Biotec)and mAbs of anti-B22O (RA3-6B2),antiCD4 (RM4-5)，and anti-CD38 (90)，and by anti-allophycocyanin microbeads (catalog no.130-090-855;Miltenyi Biotec),following manufacturer's instructions.A total of $5 \\times 1 0 ^ { 7 }$ splenocytes from indicated donor mice was transferred i.v. to $\\mathrm { R a g } ^ { - / - }$ mice via the tail vein. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$A g$ -specificTcellELISPOTassay ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "An ELISPOT assay was performed according to the manufacturer's instructions(catalog no.551o83；BD,San Diego,CA） using lymphocytes isolated from the liver and spleen.An enzymatic digestion method was used for the isolation of intrahepatic lymphocytes.In brief,liver tissues were digested by collagenase IV(Roche,Basel, Switzerland) at $3 7 ^ { \\circ } \\mathrm { C }$ for $1 5 ~ \\mathrm { m i n }$ .The suspension was centrifuged at $3 0 \\times g$ for $1 ~ \\mathrm { m i n }$ to remove hepatocytes.Lymphocytes were then pelleted by centrifugation at $4 0 0 \\times g$ for $1 0 \\ \\mathrm { m i n }$ and further purified with 4O and $70 \\%$ Percoll solutions by centrifuging at $8 0 0 \\times g$ for $2 0 ~ \\mathrm { m i n }$ at room temperature. Cells were collected from the interface,and RBCs were removed with ACK buffer to make a single-cell suspension.To detect an Ag-specific immune response, we incubated liver lymphocytes for $^ { 4 8 \\mathrm { ~ h ~ } }$ at $3 7 ^ { \\circ } \\mathrm { C }$ in a complete medium containing $1 0 ~ \\mu \\mathrm { g / m l }$ 中 $\\bf { \\check { H } } 2 - \\bf { K } ^ { \\mathrm { b } } E N V ^ { 1 9 0 - 1 9 7 }$ peptide (VWLSVIWM) 0r OVA257-264 peptide（SIINFEKL)in an $\\mathrm { I F N - \\gamma }$ ELISPOT plate. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Statistical analyseswere performed on GraphPad Prism Software (La Jolla, CA).The unpaired two-tailed Student $t$ test was used to compare variables between the two groups.Differences among multiple groups were analyzedbythe Student $t$ test following one-way ANOVA.All experiments wererepeated atleast twice. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Humoral immune tolerance is dependenton the level of circulating HBsAg ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Persistence of HBV was developed by introducing the HBV genome using a liver tropic type 8 AAV vector (AAV/HBV)(17). AAV/HBV carries the entire HBV genome that will express HBV proteins,finish HBV replication,and release both pseudoviruses and complete HBV virions.HBV-specific immune tolerance was also observed in this mouse model, with no $\\mathbf { H B s A g }$ to anti-HBsAg seroconversion,even after repeated vaccination(9,17).Thus,the AAV/HBV mouse,as an animal model, could provide critical information for CHB immunotherapy studies.To investigate the role of the level of circulating HBsAg on the regulation ofHBV-induced humoral tolerance,we infected two groups of male B6 mice with either a high dose $( 1 \\times 1 0 ^ { 1 1 } ~ \\mathrm { v g / m o u s e } )$ or a low dose $( 5 \\times 1 0 ^ { 9 } /$ mouse) of AAV/HBV.Serumlevels ofHBsAg reached to $1 7 6 1 . 3 \\pm$ $1 6 5 . 2 \\mathrm { n g / m l }$ in the high antigenemia $\\mathrm { ( > 1 0 0 0 ~ n g / m l ) }$ group and $4 1 . 1 \\pm$ $7 . 2 ~ \\mathrm { n g / m l }$ in the low antigenemia $\\mathrm { \\Gamma } < 5 0 \\mathrm { \\ n g / m l } \\mathrm { \\Omega } ,$ ）group,at week 4 postinfection.Then these mice were s.c.vaccinated with a commerciallyavailable prophylactic $\\mathrm { H B s A g }$ vaccine,EnxB,which is a potent anti-HBsAg inducer.We monitored the serum level of HBsAg(serotype ayw) and ayw-specific anti- $\\mathbf { \\cdot H B s A g }$ Abs at weeks1,2,and 4 postvaccination and found that no Abs to HBsAg (ayw) were detected and serum HBsAg was not significantly reduced in the high antigenemia group.In contrast, the low antigenemia mice exhibited rapid depletion of serum HBsAg，which became undetectable at week 2 postvaccination,while generating a considerable level of HBsAg (ayw)-specific Abs (Fig. 1A,1B). In the untreated control group, serum HBsAg persisted stably at high levels for at least $6 \\mathrm { ~ m o ~ }$ (Supplemental Fig.1).Another HBV mouse model made by HDI of a plasmid containing 1.2-fold of the entire HBV genome was also used in this study,which has been used before to investigate persistent HBV expression and HBV-induced immune tolerance (7). Similar results of immune tolerance were also observed in the HDI/HBV mouse model (Fig.1C,1D).Taken together,our data indicate that HBV-induced humoral immune tolerance is strongly associated with the level of circulating HBV Ags,such as HBsAg. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "HBsAgis a majorhumoral immune tolerogen in the CHB model ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To determine whether unresponsiveness to EnxB in high antigenemia HBV carrier mice is due to immune tolerance,we vaccinated the high antigenemia HBV carrier mice with CpG-adjuvanted EnxB to enhance the efficacy of vaccination.Type B CpG ODN1826 is a strong TLR9 adjuvant in mice (19,2O). Compared with EnxB vaccination alone in naive mice,which induced a strong Ab response but with no CTL, EnxB/CpG could promote not only a much stronger humoral immune responses,but also a robust cytotoxicity response (Supplemental Fig. 2).Similar to EnxB (Fig.1A,1B),EnxB/CpG vaccination did not result in serum HBsAg decline (Fig.2A） or induction of corresponding ayw-specific anti-HBsAg Abs in carrier mice,whereas a strong immune response was induced in uninfected control mice (Fig. 2B).This result indicates that there is a severe tolerance to HBsAg in carrier mice.However,spontaneous anti-HBV-core Abs can be easily detected in most(7/1O) unvaccinated carrier mice (Fig.2C),indicating that HBcAg might not be a humoral tolerogen in this model. Asexpected,the serum level of HBeAg，which is a well-known major viral T cell tolerogen,was not influenced by either EnxB or EnxB/CpG vaccination (data not shown).Anti-HBsAg conversion is the clinical term for the cure of HBV infection.Thus,we focused on mechanistic studies ofHBsAg-induced humoral tolerance in the rest of our study and chose HBeAg seroconversion as one of the indicators for the breaking of T cell tolerance and HBV clearance via HBsAg-based strategies.To test whether the nonresponse is systemic or unique to HBsAg，we vaccinated carrier and uninfected control mice with EnxB and HSV-1 at the same time. We observed a strong Ab response against HSV-1 envelope glycoprotein D (gD) in both groups of mice. Again,Ab response to HBsAg was detected only in the uninfected mice and not in the HBV carrier mice (Fig.2D). Thus, these results suggest that HBsAg is a major humoral immune tolerogen in the chronic HBV mice model and this tolerance is $\\operatorname { A g }$ specific with no effect on either HBc or HSV-1 gD responses. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Duration of HBsAg existence plays an important role in the induction andmaintenanceofHBsAg tolerance ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "High levels of circulating HBsAg could induce tolerance in carrier mice, but the induction process was unknown. To clarify how long the presence of HBsAg would be required to induce humoral tolerance,we vaccinated carrier mice with EnxB ata series of time points post AAV/HBV infection while monitoring serum levels of HBsAg and anti-HBsAg.We observed that vaccination on day 1, week1,and week 2 postinfection resulted in rapid reduction of serum HBsAg,which became undetectable on week 4 after primary vaccination.Anti-HBsAgAbscould be detected immediatelyafter disappearance of HBsAg.In contrast,mice under prolonged exposure to HBsAg (4 wk) could not respond to EnxB. Serum HBsAg could be detected on the fourth week after primary vaccination,and even an additional EnxB immunization could not stimulate aywspecific anti-HBsAg Ab to clear HBsAg (Fig.3A). These results indicate that aside from HBsAg levels,the duration of $\\mathbf { H B s A g }$ presence is another important factor for inducing and maintaining HBsAg-specific immune tolerance in carrier mice. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f8090608063687f7d1f2c3b9896f512e6bde31a8fd05dbf08f30eb51e7e430bc.jpg",
+        "img_caption": [
+            "FIGURE 1. Ab responses to EnxB vaccine are inversely correlated to the level of circulatingHBsAg. (A) SerumlevelsofHBsAgin AAV/HBV carriermicewere monitored by ELISA after vaccination with EnxB. $\\mathrm { H B s A g }$ values are presented as a nanogram per milliliter and are expressed as means $\\pm \\ \\mathrm { S D }$ of three mice in each time point.(B) Ayw subtype-specific anti-HBsAg Ab responses in AAV/HBV carrier mice were monitored by ELISA at indicated time points $\\left( n = 3 \\right)$ ).(C) Serum HBsAg inHDI/HBVmice afterEnxB vaccination was monitored by ELISA $( n = 4 )$ ). (D)Anti-HBsAg Ab responses in HDI/ HBV mice were monitored by ELISA at indicated time points postvaccination $( n = 4$ ).Arrows indicate the time points of EnxB vaccination.Data presented are representative of three independent experiments. $^ { * } p < 0 . 0 5$ ， $\\ast \\ast _ { p } <$ 0.01, $^ { * * * } p < 0 . 0 0 1$ versus corresponding control mice. EnxB,s.c.vaccinated with EnxB;High,high antigenemia; Low, low antigenemia; ND,not detected; NTC,no treatment control. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Theroles of the level and persistence of circulating HBsAg in the induction of HBsAg-specific humoral tolerance raises the possibility that the clearance of circulating HBsAg for a specific length of time could gradually diminish HBsAg-induced tolerance.To test this hypothesis, we transferred splenocytes from tolerantHBVcarrier mice to $\\mathrm { R a g 1 } ^ { - / - }$ mice to create an Ag-free environment, followedby s.c.vaccination withEnxB at specific time points afteradoptive transfer.We observed that the Ab response to HBsAg was undetectable in mice with splenocytes transferred within 3 wk,whereas reconstituted $\\mathbf { R a g 1 } ^ { - / - }$ mice that were vaccinated on the fourth week posttransfer had a strong Abresponse to HBsAg (Fig.3B). This result indicated that humoral immune tolerance to HBsAg still existed within the first few weeks even in a tolerogen-free environment,but could be diminished graduallystarting at week 4as hosts became responsive to vaccination. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Reversal of immune tolerance by neutralizing $H B s A g$ ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To develop a clinically relevant strategy that could decrease serum HBsAg to a minimum level effcient for therapeutic vaccination in HBV carriers,we treated tolerant carrier mice with Ab-H,an NAb against HBsAg (ayw),to remove circulating HBsAg,mimicking the HBsAg-free status (Fig.4A).Serum HBsAg rapidly decreased to an undetectable level after NAb administration and never rebounded after EnxB immunization and cessation of NAb treatment for at least 84 d(Fig.4B,black line with triangles).In contrast,without EnxB vaccination,HBsAg rebounded immediately once administration of NAb was halted,even after 4 wk of constant NAb treatment (Fig.4B,blue line with circles).EnxB alone cannot significantly reduce serum HBsAg in tolerant carrier mice(Fig.4B,red line with squares).Consistent with depletion of HBsAg,serologic conversion to anti-HBsAg was observed in the combined treatment group,but not in the monotherapy group with either NAb or vaccine (Fig. 4C). The current commercial HBVvaccine (HBsAg in alum）is a potent inducer of anti-HBsAg production but a weak inducer of CTL proliferation，which could result in CTL-mediated severe liver pathogenesis.Indeed, significant liver injury was not observed in mice that were treated with either monotherapy or combined therapy of EnxB with NAb as determined by the ALT test (Fig.4D) and pathologic analysis of liver tissue (Fig.4E). Our data support that the neutralization of circulating $\\mathbf { H B s A g }$ using NAb can reduce humoral immune tolerance,assist the host response to the HBsAgbased vaccine,and produce long-term,protective anti-HBsAg Ab without inducing detectable liver injury,a clinically desirable end point. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/16e3726e263c50a37360922b2b8914634cf7f3f4a410b1cded1f6b37840ed0fa.jpg",
+        "img_caption": [
+            "FIGURE 2.HBsAg is the major humoral immune tolerogen in the CHB model. Serum levels of HBsAg(A) and ayw subtype-specific anti-HBsAg Ab (B) in AAV/HBV carrier mice $( n = 3$ ）weremonitored by ELISA aftervaccination with EnxB $( 2 ~ \\mu \\mathrm { g } )$ plus CpG $( 3 0 ~ \\mu \\mathrm { g } )$ ). (C) Spontaneous Ab responses to viral core $\\mathbf { A } \\mathbf { g }$ （ $( n = 1 0 )$ ）andsurface $\\mathbf { A } \\mathbf { g }$ （204 $( n = 1 6$ ）were monitoredbyELISA at4 and8wk postinfection. (D) Ab responses to HBV surface Ag and HSV $\\mathbf { \\nabla } \\cdot \\mathbf { l _ { \\theta } } \\mathbf { g D _ { \\theta } }$ Ag $( n = 3$ ）were tested in AAV/HBV carrier mice and control mice infected with HSV-1 $( 5 \\times 1 0 ^ { 7 }$ PFU)and vaccinated with EnxB $( 2 ~ \\mu \\mathrm { g } )$ .Control,B6 mice that were not infected with AAV/HBV.Data presented are representative of at least two independent experiments. $\\ast \\ast _ { p } < 0 . 0 1$ $\\ast \\ast \\ast _ { p } <$ 0.001, $^ { * * * * * } p < 0 . 0 0 0 1$ versus corresponding control mice. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e56f24d3ba4d1f5df254a9ed686e871b4259d9cfc003db2ff7fa4c7638b1c12d.jpg",
+        "img_caption": [
+            "FIGURE 3. Duration of HBsAg existence contributes to inducing and breaking tolerance to HBsAg.At 1 d (ld), 1 wk (lw),2 wk (2w),and 4 wk (4w) post AAV/HBV $( 2 . 0 \\times 1 0 ^ { 1 0 }$ vg）infection, mice were vaccinated with EnxB,then boosted with the same dose of EnxB in 4-wk intervals as indicated by arrows. Serum levels of HBsAg (A) and anti-HbsAg (B)were monitored over time $( n = 3$ .(B) Splenocytes from tolerant AAV/HBV carrier mice were adoptively transferred to $\\mathrm { R a g l } ^ { - / - }$ mice,which were vaccinated and boosted with EnxB on 1,2,3,or 4 wk posttransfer,respectively.Aywsubtypespecific humoral responses were estimated byELISA.Mice thatwere transferredwith splenocytes from naive mice were used as the positive control $\\left( n = 4 \\right)$ .Data presented are representative of at least two independent experiments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9690ce832209e096d9213c5c8b7baa5e506deb412048bd9eb2d57c1cef120992.jpg",
+        "img_caption": [
+            "FIGURE4.RevesalofunetoleracebyeutralngAgstra.()heaticreatmntsheduleoftolerantHcarceiha combination of HBsAg-NAb (Ab-H,1 mg/mouse with 3-d intervals)and vaccine (EnxB, $2 \\mu \\mathrm { g }$ ).(B) Serum levels of $\\mathrm { H B s A g }$ in different treatment groups were monitored by ELISA $\\left( n = 3 \\right)$ .(C)Denovoanti-HBsAggenerationwasevaluatedonday21afterthesecondEnxBvacination,bymonitoringIgGsubtype-2b Abs via ELISA using ayw-HBsAg identical to the HBV serotype in the animal model $( n = 3$ ).(D) Serum level of ALT was monitored on day 21 after the previous vaccination.Sera from Jo2(a Fas agonistic Ab)-treated B6 mice were used as the positive control $( n = 3$ ).(E)H&E staining (original magnification $\\times 1 0 0 \\$ foratologiclisatitrolraedoreedodd treatentwitsEExptseeeaedatsttataepstatifdepdt "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Reconstituted immunityto EnxBinHBVcarriermicedepends onbothB cells and $C D 4 ^ { + }$ Tcells ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To further study the mechanism of this immune reconstitution, we investigated which subsets of the cell population participate in controlling HBV antigenemia and inducing immune memory after combined therapy. $\\mathbf { R a g 1 } ^ { - / - }$ mice were adoptivelytransferred with splenocytes from naive mice,EnxB-vaccinated WT mice,EnxBvaccinated carrier mice,or carriermice resolved fromNAb/EnxB treatment, respectively. These recipient mice were then challenged with AAV/HBVon the day after splenocytes transfer. Serum levels of HBsAg were measured on days 3,14,and 28 posttransfer. We observed that persistent circulating HBsAg was detectable in $\\mathbf { R a g 1 } ^ { - / - }$ mice transferred with splenocytes from naive mice,as well asfrom carrier mice that were vaccinated with EnxB,but not in those transferred with splenocytes from EnxB-vaccinated WT or resolved carrier mice after combination treatment.Although HBsAg appeared in the serum on day 3 postinfection,it disappeared on day 14 postinfection and the serum remained $\\mathrm { H B s A g } ^ { - }$ as long as day 28 postinfection (Fig. 5B),indicating that HBV-specific memory response may play a role in protecting the host from setting up persistent infection by AAV/HBV. Our data support that resolved HBV carrier mice have gained immune memory to HBsAg,and that this memoryis transferrable and protective. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We expected $\\mathrm { C D 4 ^ { + } }$ Th cells to be the dominant functional T cells stimulated by an alum-based vaccination.To test this,we performed depletion assays using anti-CD8(TIB21O) or anti-CD4 (GK1.5） mAb before transferring splenocytes to $\\mathbf { R a g 1 } ^ { - / - }$ mice. Depletion of $\\mathrm { C D 8 ^ { + } }$ T cells did not impair the transferred immunity from resolved carrier mice.However, loss of Ab production was observed when $\\mathrm { C D 4 ^ { + } }$ T cells were depleted (Fig. 5C). This is consistent with the notion that vaccination with an alum adjuvant can mainly induce $\\mathrm { C D 4 } ^ { + }$ Th cells and Ab responses,but not CTL responses (21，22).To clarify whether the memory response resulted from a direct antiviral neutralizing effect or an indirect mechanism that promotes Ab generation by $\\mathrm { C D 4 ^ { + } }$ T cells,we infected $\\mathbf { R a g 1 } ^ { - / - }$ mice with AAV/HBV1.3afteradoptive transfer withwhole splenocytes,B cell-depleted splenocytes,purified B cells,or purifed $\\mathrm { C D 4 ^ { + } }$ T cells from EnxB-vaccinated WT mice,respectively.We observed a loss of $\\mathbf { A } \\mathbf { g }$ neutralization in all groups except those receivinga whole splenocyte transfer,which suggests that both $\\mathrm { C D 4 ^ { + } }$ T cells and B cells are required for optimal protection.Anti-HBsAg was generated in mice with whole splenocyte transfer,tested on days14 and 21 posttransfer,but was significantly reduced or undetectable for all other groups in which serum HBsAg could not be cleared and kept at a high level (Fig. 5D). Taken together,our data suggest that both B cells and $\\mathrm { C D 4 ^ { + } }$ T cells play essential roles in reestablishing memory immunity to HBsAg after administration of our vaccine. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Reconstitution ofHBsAg-specific cytotoxic Tcell for viral eradication by CpG-combination therapy ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Although combination therapy with NAb and EnxB could reverse humoral tolerance and generate anti-HBsAg Abs in the AAV/ HBV1.3 mouse model,it did not decrease serum HBeAg or eradicate intracellularHBV(Supplemental Fig.3A).Furthermore, splenocytes from EnxB primed WT mice could not directly control the production of either HBsAg or HBeAg when adoptively transferred to carrier mice (data not shown).It is commonly believed that viral-specific CTL response plays a key role in eradication of virus-infected hepatocytes.EnxB-primed hosts can ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A /bu)g 5001 中 DelCD4->Rag-1-   \nCarrier \\*\\*\\*   \nEnxB → Transfer 300 \\* 1DelCD4+→ to Rag1-- 200 \\*\\*\\* 百   \nNAb/EnxBWel CDS+ → 100 + Infection with 0 AAV/HBV 0- H P e 0 5102030   \nNaive NTC Whole SP → and monitor Days   \n↑ ? Whole SP → tTragfer SorIm level DelB → EnxB ↑ Pur CD4+ → + over time D 8 4000- + Whole ->Rag-/- ? PurB → (7u 中 DelB ->Rag-/-   \nB H PPSSH /6u) 3000- 2000- 1000- Puri CD4->Rag-1- D3 D14 D28   \n（Hw/bu) bt4gh 500 400 500- 400 ① A 500- 400 ① 外 1 01 + 3. α-HBsAg IgG Days 14. 21.   \n300 300- ? 300 p 4 Q xJel-) 12 Whole ->Rag-/-   \n200 200 ① 200 Pul1B->Rag/ A 9 Puri CD4->Rag-/-   \n100 景 金 1001 100 6   \nNaiy e Enx B B +Enx B Enx B Enx B E B Nal e E B Enx B +Enx B 3 ns ns e arr NAb+ e NAb+ e Carr NAb+ Na 0 Carr Carr Carr/ day14 day21 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "generate protective Abs but fail to generate sufficient CTLs.In WTB6 mice,EnxB/CpG could induce vigorous $\\mathrm { C D 8 ^ { + } }$ T cell response (Supplemental Fig. 2A),as well as a strong humoral response (Supplemental Fig.2B). To further improve our combination treatment to induce HBV-specific CTL response,we immunized carrier mice with EnxB mixed with CpG.We tested the potential of EnxB/CpG on therapeutic effects and the reconstitution ofHBV-specific CTLs in tolerant AAV/HBVcarriermice with pretreatment of NAb infusion to provide an“Ag-free”time window (Fig.6A).Compared with those treated with NAb alone, orEnxB/CpG alone，mice treated with NAb plus EnxB/CpG exhibited a significant increase in HBV-specific T cell activity, as shown by ELISPOT analysis (Fig.6B).In accordance with the enhanced T cell response,a slight increase of an ALT was observed in the combination-treated group (Fig.6C),indicating that functional CTLs targeting HBV-infected hepatocytes might be induced inside the liver.Most importantly,serum HBVproteins andDNA were reduced to an undetectable level 6wk after terminating combination therapy with NAb plus EnxB/CpG (Fig. 6D),whereas mice receiving either NAb or EnxB/CpG monotherapy did not experience such a reduction.To further evaluate the therapeutic efficacy for clearance of hepatic HBV,we measured HBVDNA from hepatocyte extractsby real-time PCR.We found that HBVDNA in the liver was reduced to an undetectable level in the carrier mice treated with NAb/CpG-EnxB,but not in other groups (Fig.6E,left panel).Meanwhile,HBsAg,HBeAg, and HBcAg in the liver were diminished in mice receiving the NAb/CpG-EnxB treatment,compared with the control and other treatment groups (Fig.6E,middle and right panels,Supplemental Fig.4).These results suggest that HBV-induced CTL tolerance can be broken,and even hepatic HBVDNA can be cleared with a combination of NAb pretreatment and subsequent CpG-adjuvant vaccination even in the HBV carrier model. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Therapeutic vaccines against chronic HBV have demonstrated the extreme difficulty in restoring HBV-specific immunity. In recent large-scale clinical trials including prolonged antivirus drugs and repeated vaccination,some HBV carriers indeed developed antiHBsAg T and B cell responses against epitopes contained in the vaccine but could not clear serum HBsAg and the infecting HBV (10,11,23). This suggests that such treatments may respond mainlyto the nonshared epitopes of recombinantHBsAg different from the subserotype or spontaneous mutations of the infecting HBV in the host,and thus fail to produce protective Abs to the shared epitopes with infecting HBV and likely fail to reverse tolerance.Using AAV/HBV and HDI/HBV models,we have observed that immune tolerance is attributed to the level and duration of HBsAg.Furthermore,clearing HbsAg from the host might reverse HBV-induced tolerance over time and gradually allow the host to respond to vaccination,which finally become responsive to CpG-adjuvanted $\\mathrm { H B s A g }$ vaccines after 4 wk of Ab treatment, clearing serum or hepatic HBV by generating a strong protective immune response.This simple but translational strategy may also be applied to the treatment of other chronic infections. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a00f746a77f01da21e7932284a884ce0cbbaa0a475d144918f391a0258c3d078.jpg",
+        "img_caption": [
+            "FIGURE6.RcostitofHA-speifcotoiccelsbyombatiotreamtihbdBus9gists.Aee of combination treatment with NAb and EnxB $( 1 ~ \\mu \\mathrm { g } )$ ，plus $\\mathrm { C p G }$ $( 5 0 ~ \\mu \\mathrm { g } )$ administered to HBV carrier mice.(B) Mice were sacrificed on day 16 post first immunization.IntrahepaticHBsAgspecificCsweremontoedbyELSPOassaysafterstiulationwith $\\mathrm { E N V } ^ { 1 9 0 - 1 9 7 }$ orcontrolpeptide OVA2564 (C) Serum level of ALT(sALT) on day7after the last vaccination $( n = 5$ ).(D) Serum levels ofHBsAg (left),HBeAg (middle),and HBV genomic DNA(right) wereevaluatedaadd Itrahepaticcapsid-asscatedHBVeoicA(eft),Ag(middle)dHeAg(ghtwereoitoredotdanteeta terminated and mice were sacrificed $\\left( n = 3 \\right)$ ).Data presented are representative of three independent experiments (mean $\\pm \\thinspace \\mathrm { S D } _ { , } ^ { \\backslash }$ ！ $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $\\ast \\ast \\ast _ { p } <$ 0.001 versus corresponding control mice. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Breaking HBV-induced immune tolerance,especially inducing protective IgG responses to HBsAg from the infectingHBV strain, hasbeena difficult goal to achieve in the clinic for decades(2,24, 25).Many experimental HBV vaccines,such as DNA and newadjuvant vaccines,also have been investigated for improving therapeutic vaccines to break HBV immune tolerance (26,27). These studies demonstrate that both Ab response and proper CTL response are required for partially breaking HBV tolerance. However,it was difficult to evaluate the function of vaccines in clearing virus due to the integration of the HBV genome in the transgenic mouse.Dendritic cell and CTL transfer treatments for CHB have been tested in HBV-transgenic mice,but neither was successful,because of a weak T/B cell response (28) or toxic nonspecific inflammation (29).Current anti-HBV drugs or IFNs can inhibit viral replication and reduce DNA load,but they cannot clear HBsAg and induce protective Abs.If long-term use of HBV suppressor drugs can greatly reduce Ag load,reactivity of HBVspecific T cells could be partially restored (25).In our study with both the AAV/HBVand the HDI carrier models,we observed that clearance of HBsAg with NAb over time may help to restore the host response to vaccination，with no detectable side effects (Supplemental Fig.3B,3C).When circulating HBsAg had been cleared for several weeks,tolerant HBV carrier mice indeed regained the responsiveness to vaccination and reconstituted antiviral immunity that can clear circulating HBV particles.Endogenous anti-HBsAg may coexist with HBsAg in CHB patients and has no influence on HBsAg quantification (3O). Our results suggest that HBV-induced tolerance can be broken by a combination of pretreatment with NAb and subsequent vaccination in HBV carrier models. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Viral-specific adaptive response is weak or undetectable in CHB patients (5,6),and it has not been defined how to restore antiHBsAg responses or functional virus-specific CTLs by vaccination. A recent study using AAV/OVA-induced tolerance showed that $\\mathbf { A } \\mathbf { g }$ expression level threshold tunes the fate of $\\mathrm { C D 8 ^ { + } }$ T cells during the primary hepatic immune response,which may explain why AAV/HBV infection resulted in a profound tolerance in adult mice (31).The T cell exhaustion mechanism in HBV animal models has been reported by several studies recently.Xu et al.(32) demonstrated that Tr1-like cells can migrate to the draining lymph nodes and participate in inducing systemic tolerance by inhibiting GC formation upon HBsAg vaccination in an HBV1.2 model. The role of $\\mathrm { \\Delta T }$ regulatory cells in this HBV1.2 HBV mouse model had been shown not to be the dominant mechanism for tolerance by $\\mathrm { \\Delta X u }$ et al.(32),but clinical studies demonstrated thatin vitro depletion of T regulatory cells from PBMCs taken from HBV-infected patients led to an increase of $\\mathrm { I F N - \\gamma }$ production after HBV Ag stimulation.The PD1-PDL1 pathway is reported to be involved in HBV-induced T cell tolerance,and anti-PD-1 blockage could reverse the exhausted phenotype in intrahepatic T lymphocytes and lead to virus clearance in vivo (33).Some clinical studies also demonstrated that T cell apoptosis or deletion was involved in HBV-induced immune tolerance (34). In conclusion, the mechanisms of HBV-induced immune tolerance are complicated, and the precise mechanism of immune tolerance will be carefully studied in our subsequent works. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Without TCR and BCR transgenic mice,it is difficult to show the reverse of tolerance at the single-cell level inHBVanimal models. However,using adaptive transfer or combined treatment,we have shown,at the lymphocyte subpopulation level, that host response to $\\mathrm { H B s A g }$ from CHB could be restored with our therapeutic strategy. Dependency of $\\mathrm { C D 4 ^ { + } }$ T and B cells is consistent with the knowledge that alum-adjuvant $\\mathbf { A } \\mathbf { g }$ generates stronger Th cells for Ab than CTLs response (35,36).We have shown that HBV reactive immune cell clones were not completely deleted and could be recovered in circumstances with proper immune stimuli (Fig.5). These long-term benefits to patients are potentially valuable considerations for future clinical trials.Alack of CTL in response to the alum-based vaccination could limit liver injury,while still providing protective Abs to prevent viral spread to healthy hepatocytes, including newly generated hepatocytes.However,remaining viral DNA might allow HBV relapse when immune responses are compromised.Proper CTL proliferation isrequired for intracellular HBV clearance in the liver, but the possibility of severe liver injury should not be neglected.Effective CTL response and protective Abs areachievable,butwhich strategyis the best for patientsremains to bedetermined in large-scale clinical trials.Although B cell tolerancehas been the majorclinical challenge,itis likely that generation of both CTL and Ab might be induced simultaneously and help each other in clearing HBV,whereas limiting the spread of virus and liver injury via our newly developed strategy. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Therapeutic vaccines against CHB infection are still under extensive exploration (24,37).Most recently,at least three versions of $\\mathrm { H B s A g } + \\mathrm { H B c A g }$ vaccines have been carried by several pharmaceutical companies for animal and even clinical studies,with promising immune response in naive mice or healthy patients,but with no report yet for significant therapeutic effects,such as HBsAg clearance,HBeAg seroconversion,or HBV clearance (38).In this study,we designed a simple and translational approach that successfully achieved two goals:1） NAb treatment effectively clearing the circulating HBsAg to provide a relatively Ag-free window in lymphoid tissues allowing immune cells to recover from tolerant status,and 2) the currently used HBV vaccine prompting HBV-carrier hosts to generate protective IgG.Furthermore,advanced vaccination with CpG could generate additional CTL to clear intracellularHBV once $\\mathbf { H B s A g }$ tolerance was weakened by HBsAg depletion. Thus, reducing extracellular Ags in chronically infected hosts either by treatment with NAbs or other means,such as prolonged antiviral drugs,is a prerequisite for effective therapeutic vaccination to induce protective IgG or CTL immunity. This new therapeutic strategy could provide a practical solution for treatment of chronic infections. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We thank Daryl Harmon for editorial assistance. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Disclosures ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The authors have no financial conflicts of interest. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1.Bréchot, C.2OO4.Pathogenesis of hepatitis B virus-related hepatocellular carcinoma: old and new paradigms.Gastroenterology 127(5 Suppl.1): S56-S61.   \n2.Ganem,D.,and A.M.Prince.2Oo4.Hepatitis B virus infection-natural history and clinical consequences.N.Engl.J.Med.35O:1118-1129.   \n4.Lok,A. S.,andB.J. McMahon; AASLD (American Asociation for the Study of Liver Diseases).2OO4.[AASLD Practice Guidelines.Chronic hepatitis B: update of therapeutic guidelines].Rom.J.Gastroenterol.13:150-154.   \n5.Boni,C.,，P.Fisicaro,C.Valdatta,B.Amadei,P.Di Vincenzo,T.Giubert, D.Laccabue,A. Zerbini,A. Cavali, G.Missale,et al.2Oo7.Characterization of hepatitis B virus (HBV)-specific T-celldysfunction in chronic HBV infection.J. Virol. 81: 4215-4225.   \n6.Webster,G.J.,S.Reignat,D.Brown,G.S.Ogg,L.Jones,S.L.Seneviratne, R.Williams,G.Dusheiko,andA.Bertoleti.2004.LongitudinalanalysisofCD8 $^ +$ Tcells specific for structuraland nonstructural hepatitis B virus proteins in patients with chronic hepatitis B: implications for immunotherapy.J.Virol.78: 5707-5719.   \n7.Huang,L.R,H.L.Wu,P.J.Chen,and D.S.Chen.20o6.An immunocompetent mouse model for the tolerance of human chronic hepatitis B virus infection. Proc.Natl. Acad. Sci. USA 103:17862-17867.   \n8.Boni,C.,A.Penna,G.S.Ogg,A.Bertoletti,M.Pilli,C.Cavallo,A.Cavall, S.Urbani,R.Boehme,R.Panebianco,et al.20ol.Lamivudine treatment can overcome cytotoxic T-cell hyporesponsiveness in chronic hepatitis B: new perspectives for immune therapy. Hepatology 33: 963-971.   \n9.Dion,S.,M.Bourgine,O.Godon,F.Levillayer,and M.L.Michel.2013.Adenoassociated virus-mediated gene transfer leads to persistent hepatitis B virus replication in mice expressing HLA-A2 and HLA-DR1 molecules.J. Virol.87: 5554–5563.   \n10.Liu,B.,X.Wen,C.Huang,and Y.Wei.2013.Unraveling thecomplexity of hepatitis B virus: from molecular understanding to therapeutic strategy in 50 years.Int.J.Biochem.Cell Biol.45:1987-1996.   \n11.Xu,D.Z.,X.Y.Wang,X.L.Shen,G.Z. Gong,H.Ren,L.M.Guo,A.M.Sun, M.Xu,L.J.Li,X.H. Guo,et al; YIC Effcacy Trial Study Team.2013.Results of a phase II clinical trial with an HBsAg-HBIG immunogenic complex therapeutic vaccine for chronic hepatitis B patients: experiences and findings.J. Hepatol. 59: 450-456.   \n12.Chen，M.，M.Salberg,J.Hughes,J.Jones，L.G.Guidott,F.V.Chisari J.N.Billud,andD.R.Milich.2Oo5.Immunetolerancesplitbetweenhatitis B virus precore and core proteins.J.Virol.79: 3016-3027.   \n13.Frelin,L.T.Wahlstrom，A.E.Tucker，J.Jones，J.Hughes,B.O.Lee, J.N. Billaud,C.Peters,D.Whitacre,D.Peterson,and D.R.Milich.2009.A mechanism to explain the selection of the hepatitis e antigen-negative mutant during chronic hepatitis B virus infection.J.Virol.83:1379-1392.   \n14.Chu,C.dYFLiaw..seroeaaeisytoaicr of highendemicareas:appreciably highrates duringa long-term follow-up. Hepatology 45:1187-1192.   \n15.McMahon,B.J.,P.Holck,L.Bulkow,andM. Snowball.20o1.Serologic and clinical outcomes of 1536 Alaska Natives chronically infected with hepatitis B virus.Ann.Intern.Med.135:759-768.   \n16.McMahon,B.J.2Oo9.The natural historyofchronic hepatitis B virus infection. Hepatology 49(5 Suppl.): S45-S55.   \n17.Yang,D.,L.Liu,D.Zhu,H.Peng,L.Su,Y.X.Fu,andL.Zhang.2014.A mouse model for HBV immunotolerance and immunotherapy. Cell.Mol. Immunol. 11: 71-78.   \n18.Keasler,V.V.,A.J. Hodgson,C.R.Madden,and B.L.Slagle.2007.Enhancement of hepatitis B virus replication by the regulatory X protein in vitro and in vivo.J. Virol.81:2656-2662.   \n19.Ballas，Z.K.，A.M.Krieg，T.Warren,W.Rasmussen,H.L.Davis, M.Waldschmidt,and G.J.Weiner.2Oo1.Divergent therapeutic and immunologic effects of oligodeoxynucleotides with distinct CpG motifs.J. Immunol. 167: 4878-4886.   \n20.Beloeil,L.,M.Tomkowiak,G.Angelov,T.Walzer,P.Dubois,and J.Marvel. 2003.In vivoimpactof CpG1826 oligodeoxynucleotideonCD8Tcellprimary responses and survival. J. Immunol.171:2995-3002.   \n21.Jordan,M.B.,D.M.Mills,J.Kappler,P.Marrack,andJ.C.Cambier.2004. PromotionofBcellimmuneresponses viaanalum-induced myeloidcell population. Science 304:1808-1810.   \n22.Marrack,P.,A.S.McKee,and M.W.Munks.2009.Towards an understanding of theadjuvant action of aluminium. Nat.Rev. Immunol. 9: 287-293.   \n23.Vandepapeliere,P,G.K.LauG.Leroux-Roels，YHorsmans，Gane T.Tawandee,.I Merican,K..Win,C.Trepo,G.Cooksleyetal;erapeutic HBV Vaccine Group of Investigators.2007.Therapeutic vaccination of chronicepatiisBpattswitirussupressionytiahaa domized,controlled study of co-administration of HBsAg/ASO2 candidate vaccine and lamivudine.Vaccine 25: 8585-8597.   \n24Bertoleti,dGehringherapeticanatiandoelries to treat chronic HBV infection.Expert Rev. Gastroenterol. Hepatol. 3:561-569.   \n25.Boni, C,D.Laccabue,P.Lampertico,T.Giuberti,M.Vigano,S.Schivaappa A.Alfieri,M.Pesci,G.B.Gaeta,G.Brancaccio,etal.2012.Restored function of HBV-specific Tcelsafter long-termeffective therapy with nucleos(t)ide analogues.Gastroenterology143: 963-973.e9.   \n26.Buchmann,P.,C.Dembek,L.Kuklick,C.Jager,R.Tedjokusumo,M.J.von Freyend,U.Drebber,Z.Janowicz,K.Melber,andU.Protzer.2013.A novel therapeutic hepatitis B vaccine induces cellular and humoral immune responses and breaks tolerance in hepatitis B virus (HBV) transgenic mice.Vaccine 31: 1197-1203.   \n27.Isogawa,M.,K.Kakimi,H.Kamamoto,U.Protzer,andF.V.Chisari.2005. Differential dynamics of the peripheral and intrahepatic cytotoxic Tlymphocyte response to hepatitis B surface antigen.Virology 333:293-300.   \n28.Farag,M.M.,R.Tedjokusumo,C.Flechtenmacher,T.Asen,W.Stremmel, M.Muller, U.Protzer,and K.Weigand. 2O12.Immune tolerance against HBV can be overcome in HBV transgenic mice by immunization with dendritic cells pulsed by HBVsvp.Vaccine 30:6034-6039.   \n29.Guidotti,L.G.2Oo2.The role of cytotoxic Tcells and cytokines in the control of hepatitis B virus infection.Vaccine 2O(Suppl.4):A8O-A82.   \n30.Pancher,M.,N.Désiré,Y.Ngo,S.Akhavan,C.Pallier,T.Poynard,and V.Thibault.2O15.Coexistence of circulating HBsAg and anti-HBs antibodies in chronic hepatitis B carriers is not a simple analytical artifact and does not influence HBsAg quantification. J. Clin. Virol.62:32-37.   \n31.Tay,S.S.，Y.C.Wong,D.M.McDonald,N.A.Wood,B.Roediger, F.Sierro,C.Mcguffog,I.E.Alexander,G.A.Bishop,J.R.Gamble,et al.   \n2014.Antigen expression level threshold tunes the fate of CD8 T cells during primary hepatic immune responses.Proc.Natl.Acad. Sci.USA   \n111:E2540-E2549.   \n32.Xu,L.,W.Yin,R.Sun,H.Wei,and Z. Tian.2O13.Liver type Iregulatory T cells suppress germinal center formation in HBV-tolerant mice.Proc.Natl.Acad. Sci. USA 110: 16993-16998.   \n33.Tzeng,H.T.,H.F.Tsai,H.J.Liao,Y.J.Lin,L.Chen,P.J.Chen,and P.N.Hsu. 2012.PD-1 blockage reverses immune dysfunction and hepatitis B viral persistence in a mouse animal model.PLoS One 7:e39179.   \n34.Lopes,A.R.,P.Kellam,A.Das,C.Dunn,A.Kwan,J.Turner,D.Peppa, R.J.Gilson,A.Gehring,A.Bertoletti,and M.K.Maini.2Oo8.Bim-mediated deletion of antigen-specific CD8 T cells in patients unable to control HBV infection. J.Clin.Invest.118:1835-1845.   \n35.Sokolovska,A.,S.L.Hem,and H.HogenEsch.2Oo7.Activation of dendritic cells and induction of CD4(+） T cell differentiation by aluminum-containing adjuvants.Vaccine 25:4575-4585.   \n36.Yip,H.C.,A.Y.Karulin,M.Tary-Lehmann，M.D.Hesse,H.Radeke, P.S.Heeger,R.P.Trezza,F.P.Heinzel,T.Forsthuber,andP.V.Lehmann.1999. Adjuvant-guided type-1 and type-2 immunity:infectious/noninfectious dichotomy defines the class of response.J.Immunol.162:3942-3949.   \n37.Michel,M.L.,Q.Deng,and M. Mancini-Bourgine.2O11. Therapeutic vaccines and immune-based therapies for the treatment of chronic hepatitis B:perspectivesand challenges.J.Hepatol.54:1286-1296.   \n38.Elvidge,S.2O15.Blockbuster expectations for hepatitis B therapeutic vaccine. Nat.Biotechnol.33:789. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

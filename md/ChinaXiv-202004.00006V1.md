@@ -1,0 +1,204 @@
+# 一种新的结合仿生学的人工神经网络模型评估研究
+
+张锦l\*舒炫煜²黄昭彦²易胜湖南师范大学信息科学与工程学院，"数学与统计学院，“工程与设计学院长沙 410081摘要：人工神经网络的模型结构与功能分别朝着多样化、智能化趋势发展，但研究者仅从解决问题结果的优劣对模型进行评估是有所欠缺、过于片面的。因此在本文中提出从仿生学的角度构建评估人工神经网络仿生度的指标集，采用定性与定量的方式对模型的仿生度进行整体分析。在定性方面，对模型的神经元方程、网络结构、权重更新原理等方面进行比较分析；在定量方面，基于仿生的角度构建指标集即小世界特性、同步特性及混沌特性，对模型进行分析，分析结果表明，LeNet5模型及BP神经网络具备同步特性，但其与真实生物神经网络仍有一定的距离，而KII模型在结构上具备一定的小世界特性，其网络内部也表现同步特性及混沌特性，与真实的生物神经网络更为接近。
+
+关键词：人工神经网络；小世界；混沌；同步分类号：TP399
+
+# Evaluation of a New Artificial Neural Network Model Combined
+
+# with Bionics
+
+Zhang Jinl\* Shu Xuanyu² Huang Zhaoyan² Yi Sheng³ 'College of Information Science and Engineering,² Mathematics and Statistics, 3College of Engineering and Design, Hunan Normal University， Changsha 41008l, China
+
+Absrtact: The structure and function of artificial neural network model are developing towards diversification and intelligence. However, the researchers only evaluate the modelfrom the result ofsolving the problem,whichis unilateral.Therefore, in this paper, we propose to build an index set to evaluate the bionic degree of artificial neural network from the perspective of bionics.We uses quantitative methods to analyze the bionics of the model as a whole.In the determine the nature aspect， the neuron equation， network structure and weight renewal principle of the model are compared and analyzed;In the quantitative aspect,the index set is constructed based on the bionic point of view i.e. small world, synchronization and chaos， which is analyzed on the model.The analysis results show that the LeNet5 model and the BP neural network have synchronization characteristics, but they are still a certain distance from the real biological neural network, while the KIII model has certain small-world characteristics in structure,and its network also exhibits synchronization characteristics and chaos characteristics, which is Closer to the real biological neural network.
+
+Keywords: Artificial neural network;Small world; Chaos; Synchronization
+
+# 1.引言
+
+人工神经网络是通过模拟生物神经系统构建的智能系统，它利用生物神经元的电生理特性及神经元间的突触连接关系对生物神经系统一些基本功能进行模拟，其实质是对生物神经系统的一种简单映射。随着研究者对人工神经网络深入的研究，其在模式识别[1]、自然语言处理[2]、智能控制[3]等领域有着突破性进展，并且网络结构和功能朝着复杂化、智能化的趋势发展。可简单的为人工神经网络的发展分为三个阶段[4：第一代神经网络是由阈值神经元组成的，是一个非常简单的模型，如多层感知器、Hopfield神经网络。第二代神经网络的神经元不再使用阈值函数来计算其输出信号而是利用一个非线性激活函数，使其适合模拟输入输出，并且在学习算法上也进一步发展，不再是迭代更新权重，而是可利用数据的自身特点来自主学习，如：BP神经网络、卷积神经网络，尤其卷积神经网络在深度上较好的模拟了真实的神经系统，深度可达到1202层[5]，能够更深层的学习数据的潜在特征。第三代神经网络为脉冲神经网络，因为在真实的生物神经网络中，神经元的输入输出具备脉冲特性，数据的编码方式为脉冲编码，这样更能贴近真实的生物神经网络，常用的神经元模型有Hodgkin-Huxley 模型、LIF模型、AdExIF 模型、Izhikevich模型等，MoritaK等人[利用脉冲神经网络从日语语音数据中提取常用词；KimJ等人[7提出加权脉冲的深度神经网络，与传统脉冲网络相比加快了编码速率。
+
+结合人工神经网络的发展趋势，其都是以真实神经系统为目标，希望建立更符合应用需求的智能系统。然而，随着各类神经网络的建立，研究者对人工神经网络的评估更多的是以实际问题解决的完美程度来评估模型与智能的相似度，这种方式简单易于理解，但真实神经系统解决实际问题的过程并没有清晰准确的解读，仅从解决问题结果的优劣对模型进行评估有所欠缺，如何从多方面建立评估人工神经网络模型与真实生物神经系统间的相似性的指标集，不仅是本课题需要解决的问题，也是本领域内尚未解决的问题。
+
+因此，在本文中提出从仿生学的角度构建人工神经网络仿生度评估指标集并对其深入分析，了解神经网络的运作机理。本文主要有以下贡献：其一，可从仿生学的角度指导模型的挑选，为模型的挑选提供依据；其二，可从仿生学的角度综合评估模型的整体性能及指导模型的改进；其三，从仿生学的角度出发，为各类模型的评估提供一个公有的尺度来衡量。。
+
+本文的第二部分，详细介绍了所构建的指标集及计算方法；在第三部分中，选取几种较为典型的人工神经网络，利用所建立的指标集进行综合分析；在第四部分总结全文，提出新的思考与展望。
+
+# 2典型人工神经网络
+
+# 2.1BP神经网络
+
+BP 神经网络由于其模型简单、泛化能力强、易于理解与实现等特点，使其成为目前应用最广泛的神经网络模型之一。模型的结构拓扑图如图1所示，网络由输入层、隐藏层及输出层三个部分组成，一般来说隐藏层常设定为1-2层，网络的中间层的神经元都与前一层的每个神经元相连接，神经元的计算是将每层的输入与其相对应的突触权值相乘并且累加求和，其神经元的方程为：
+
+$$
+y = \varphi ( \sum _ { i = 1 } ^ { m } w _ { i } x _ { i } + b )
+$$
+
+其中 $\varphi$ 为激活函数，b为神经网络的偏置项。
+
+BP神经网络是通过误差反向传播来更新权重，将实际输出与期望输出之间的误差，通过隐含层向输入层逐层反传，并将误差分摊给各层所有单元，从而通过各层所获得的误差作为调整各单元权值和阈值的依据。权重的调整方向是通过梯度下降法来确定的，沿着负梯度方向来更新权值，从而使得神经网络的输出值与目标输出的误差最小。
+
+![](images/359012ea3e9a708719fc9979af73ed80056e46eff48e4840359dcaf1cdc98b87.jpg)  
+图1BP 神经网络拓扑结构图
+
+图2KIII模型结构拓扑图
+
+# 2.2 KI模型
+
+Freeman教授根据嗅觉系统的生理解剖及电生理实验，提出仿生嗅觉模型即KIII模型，其模型结构如图2所示，在图中，每个节点均表示神经团，神经团类型包括兴奋型（P,M,E,A,C）和抑制型（G,I,B）。在结构上，KII模型是由多个K0、KI、KII模型通过突触连接及其反馈相互耦合而成的，每个节点表示一个神经团。K0模型是KIII模型中最简单、最基本的模块，它与其他神经团没有任何的相互连接，如嗅感受器R可用KO模型表示。KI模型表示神经团之间有相互的连接，由两个连接的KO 模型组成。KII模型则由两个KI模型相互连接而成，在OB层、AON层、PC层均有所体现。
+
+在 KIII模型中，每个神经元都可用一个统一的二阶微分方程描述其动力学行为，公式如下[8]：
+
+$$
+\frac { 1 } { a \cdot b } \Big [ x _ { i } ^ { \prime \prime } \big ( t \big ) + \big ( a + b \big ) x _ { i } ^ { \prime } \big ( t \big ) + a b x _ { i } \big ( t \big ) \Big ] = \sum _ { j \neq i } ^ { N } \Big [ W _ { i j } \cdot Q ( x _ { j } ( t ) , q _ { j } ) \Big ] + I _ { i } ( t )
+$$
+
+$$
+\begin{array} { r } { Q ( x _ { i } ( t ) , q ) = \left\{ \begin{array} { l l } { q ( 1 - e ^ { - \left( \exp \left( x \left( t \right) - 1 \right) / q \right) } ) } & { x \left( t \right) > x _ { 0 } } \\ { - 1 } & { x \left( t \right) < x _ { 0 } } \end{array} \right. } \end{array}
+$$
+
+$$
+x _ { 0 } = \ln ( 1 - q \ln { ( 1 + \frac { 1 } { q } ) } )
+$$
+
+其中，N 表示模型中并行的单元数； $x _ { i } ( t ) , x _ { j } ( t )$ 是分别表示第i，j个神经团的电位状态变量； $\boldsymbol { W } _ { i j }$ 表示第j个神经团连接与第 $\mathrm { ~ i ~ }$ 个神经团之间的突触连接强度； $I _ { i } ( t )$ 代表第i个神经团接受外部的输入；a和 $\boldsymbol { \mathbf { b } }$ 分别表示神经电生理活动的两个时间常数，经电生理实验可测得 $\scriptstyle \mathtt { a } = 0 . 2 2 0$ ， $\mathtt { b } { = } 0 . 7 2 0$ ；而 $Q ( x _ { j } ( t ) , q _ { j } )$ 是由H-H方程导出的非线性输入或输出函数， $\mathsf { q }$ 的数值在不同位置表示的值也将不同，如：在球周细胞层中的神经团 $\mathtt { q } { = } 1 . 8 2 4$ ，而在嗅球层、前嗅核和梨状皮层中的神经团$\mathsf { q } { = } 5$ 。
+
+KIII模型通过Hebbain学习规则和适应学习规则更新突触连接的权重[8]，主要是更新OB层的连接权重，Hebbian 学习规则的目的是为了增强所期望的刺激模式，适应学习规则是用来弱化不必要因素的影响，如：背景噪声等。
+
+# 2.3LeNet5模型
+
+LeNet5卷积神经网络也属于层级网络，与其他前馈神经网络相比，层的形式、功能做了些许变化，主要包括输入层、卷积层、池化层、全连接层、输出层，而卷积层与池化层可交替放入网络框架中，故网络的深度比普通的全连接前馈神经网络深，如图3所示，从图上可看到它比普通的前向全连接网络的深度要深，共8层（包含输入层）。
+
+LeNet5卷积神经网络也是通过误差的反向传播更新权重，但其在计算操作时利用卷积操作提取数据的特征，利用池化操作降低特征的维度。
+
+![](images/c05750f0cfaacf51ca5de7952f09e0e768d3cea2ee553a7eb59564de1e6e0c96.jpg)  
+图3LeNet5卷积神经网络结构拓扑图
+
+# 2.4模型定性分析
+
+在结构上，BP神经网络、LeNet5模型以及KIII模型均是层级网络结构。BP 神经网络的网络连接是全连接方式，大大增加了网络的学习参数。LeNet5模型也是前馈型神经网络，但是其深度比BP神经网络和KIII模型都要深。深度较深的网络能够更好的学习数据的潜在特征，但并不是单纯的将网络的深度加深就能达到较好的效果，如BP神经网络一般的设计只含一个中间层，若加深网络的深度，新增中间层，那么网络的学习参数则会加多，使得网络难以训练并且相当耗时。LeNet5模型网络的深度更深主要是由于其存在卷积层与池化层这样的特殊结构，大大的降低了网络的学习参数。KIII模型的网络结构是根据嗅觉系统的生理结构连接而成，具备一定的仿生性，在结构上具备高度并行性的特点，可以让根据特征的维度大小，增加网络的结构，在网络中，每一条连接边为需要学习的一个参数，网络中没有采用全连接的方式去连接神经元，故所需学习的参数在两个网络中是最少的。
+
+在神经元方程上，BP神经网络是采用简化生物神经元的工作原理即全连接累加求和的方式再利用激活函数输出。LeNet5模型在卷积层利用卷积核与特征图的相应区域进行卷积操作，提取到特征图的有效特征，在池化层中选取池化操作方式进行降维，而在全连接层中执行与BP神经网络一样的操作。KIII模型的神经元采用的是脉冲神经元即H-H方程，该神经元具备混沌、脉冲等生物特性，能够较好的学习数据应有的模式。
+
+在自学习方式上，BP神经网络与LeNet5模型采用的是误差反向传播的方式来更新网络的权重，仿生嗅觉模型即KIII模型采用的是Hebbain学习规则和适应学习规则来更新权重。
+
+表1经典人工神经网络差异对比  
+
+<html><body><table><tr><td>神经网络</td><td>结构</td><td>神经元方程</td><td>自学习方式</td></tr><tr><td>BP神经网络</td><td>层级结构、全连接 神经网络</td><td>全连接累加求和+非 线性函数</td><td>误差反向传播更 新权重</td></tr><tr><td>KII模型</td><td>层级结构、根据嗅 觉系统的生理解剖 结构仿生简化而得</td><td>H-H方程</td><td>Hebbain学习规则 和适应学习规则 更新权重</td></tr><tr><td>深度学习 (LeNet5)</td><td>层级结构、具有卷 积层、池化层</td><td>卷积操作+非线性函 数及全连接累加求 和+非线性函数</td><td>误差反向传播更 新权重</td></tr></table></body></html>
+
+具体比较细节如表1所示，从模型的定性分析可看出，KIII模型与真实的生物神经网络更接近，而LeNet5模型在深度上模拟了神经系统，能够更好的学习数据的特点，而BP神经网络结构相对简单，因此其性能相对来说较差一点。
+
+# 3模型仿生度评估
+
+# 3.1评估指标集构建
+
+本文根据真实神经系统的结构特点及神经元功能特性，提出一套衡量人工神经网络仿生度的指标集。我们从同步特性、小世界特性、混沌特性三方面着手评估模型的仿生度。在模型结构上以小世界特性衡量神经网络模型的结构特点，在神
+
+经元上以混沌特性、同步特性衡量神经网络的内在动力学特性。
+
+# A 小世界特性
+
+1998 年Watts 等人[9]在Nature上首次提出一种新型网络，即研究了一类特征路径长度较短，而聚类系数较大的网络，它区别与传统的规则网络与随机网络，我们把这种网络称为小世界网络，而满足小世界网络所具有的性质被称作小世界特性。
+
+在现实生活中慢慢发现有很多的网络均具备小世界特性，如：脑神经网络、蛋白质网络、社交影响网络等。谢斌等人[10]研究了视网膜神经系统和七鳃鳗脊椎神经系统的网络特性，通过分析这两个神经系统的聚类系数和特征路径长度，在神经系统中发现神经元之间的信息传递均具备小世界特性。研究人员通过脑电图、脑磁图或者 fMRI发现脑的解剖结构连接图具备小世界特性[1,I2]，并且研究了在健康人与患精神分裂的病人的脑结构网络图，实验表明健康人具有有效的小世界特性而这些特性在患者的结构图中被破坏[13]。另外，AndreasWagner 等人[14]发现大肠杆菌的代谢网络也具备小世界特性，其网络结构仍为小世界网络。具备小世界特性的网络有以下优点：其一，可以加快网络的传播效率，尤其是在面对疫情或传染病的情形下，了解其原理对疫情或者传染病的抑制或控制有一定的指导意义。林国基等人[15]利用小世界网络模型研究 SARS病毒的传播，其研究表明小世界网络模型模拟的结果和北京SARS疫情的发展吻合的很好；其二，利用小世界特性优化网络结构，罗小娟等人[16提出一种小世界特征效应的无线网络模型，能够明显改善网络传输性能，大大提高网络节点的节能比率；
+
+# B 同步特性
+
+生物神经系统中存在着大量的同步现象，德国神经科学家Gray等人发现，猫视觉皮层的神经元在40-60HZ范围内具有同步振荡现象[17];Riehle等人在猴的运动皮层神经元在接受刺激的时候神经元间出现了尖峰同步[18]，后来通过实验在猴的感觉皮质区也发现了神经元的同步放电模式[19]。其后，相继进行一系列的神经生物学实验，从实验中表明在人脑、昆虫以及哺乳动物的脑内均具有同步振荡现象，并且也存在于视觉系统、听觉系统中。
+
+非线性网络的同步是通过网络中节点之间的相互影响而达到的一种共同运动或拥有某种共同行为现象。人工神经网络的神经元方程是先通过线性求和然后经过非线性函数激活输出，因此人工神经网络属于非线性网络。在本文中，为探究人工神经网络的同步特性可从神经元上出发去考虑神经元与神经元之间是否具备同步特性，进而判断出人工神经网络是否拥有和真实神经系统一样具备同步特性。
+
+锁相位是衡量两信号之间同步程度的一种方法[20]。神经元的输出是人工神经网络内在机理的直观体现，因此研究神经网络的同步性可输出神经元的值，利用锁相位的方法去衡量神经元与神经元之间是否有同步现象。当所计算的同步值PLV 的范围应在0-1之间，PLV值越大，则说明同步性越强，反之则越弱。当$\scriptstyle \mathrm { P L V = } 0$ 时表示两信号完全不同步， $\mathrm { P L V } { = } 1$ 则表示两信号完全同步。
+
+# c 混沌特性
+
+混沌是一种在确定性动力学系统中，因对初值敏感而表现出的不可预测的、类似随机性的运动。在生物神经系统中研究者经过大量的电生理实验，实验中表明从微观的神经元到宏观的脑电波乃至神经系统都存在着明显的混沌现象[21]。1952 年英国生物学家Hodgkin 和Huxley 对长枪乌贼的巨大轴突的研究，建立了描述神经轴突电位变化的微分方程组即H-H方程[22]，从方程中，研究人员发现神经膜具有非线性现象，如：振荡、混沌等。MatsumotoG等人[23]使用周期性电流刺激浸没在正常海水中的鱿鱼轴突可以引起混沌的电势响应。于是乎，研究者便开始将混沌理论与人工神经网络相结合，构造出混沌神经网络，这种具备混沌特性的人工神经网络更为接近真实的神经网络，使得人工神经网络在模拟生物神经网络的动力学特性更进一步，其仿生程度也将越高。
+
+在本文中采用Wolf方法[24]计算李雅普洛夫指数，其中通过C-C 法确定时间序列的嵌入维数m、时间延迟 $\tau$ [25]以及用快速傅立叶变换计算序列的平均周期,若李雅普洛夫指数大于0，则表示神经网络具备混沌特性，若小于0，则说明不具备混沌特性。
+
+# 3.2特性分析
+
+# (1）小世界特性分析
+
+采用衡量小世界网络的指标即聚类系数和特征路径长度去判断LeNet5 模型、BP神经网络及KIII模型在结构上是否具备小世界特性。
+
+在实验中，我们采用的是有向图生成邻接矩阵，计算网络的聚类系数（C）、特征路径长度（L）以及度（K）等统计量，其中度定义为节点的邻边数。在BP神经网络和KIII模型的网络结构中，把每个神经元看做一个节点，每个连接定义为一条边。在LeNet5 模型中把每个特征图定义为一个节点，把卷积操作或者池化操作定义为边。
+
+在实验中，BP神经网络的每层神经元设置为7、100、5共三层，同时也计算了深度为4层的BP神经网络，其每层神经元设置为7、100、50、5；LeNet5模型的的网络结构见表2，KIII模型的通道数设置为20，实验结果如表3所示。
+
+表2LeNet5模型结构参数表  
+
+<html><body><table><tr><td>Layer name</td><td>Output size</td><td>Kernel size</td></tr><tr><td>Conv-1</td><td>108*88*6</td><td>(5*5,6),stride=1</td></tr><tr><td>Maxpool-1</td><td>54*44*6</td><td>(2*2),stride=2</td></tr><tr><td>Conv-2</td><td>50*40*16</td><td>(5*5,16),stride=1</td></tr><tr><td>Maxpool-2</td><td>25*20*64</td><td>(2*2),stride=2</td></tr><tr><td colspan="3">Dense-1 84</td></tr><tr><td>Dense-2</td><td colspan="2">40</td></tr></table></body></html>
+
+从实验结果来看，LeNet5模型与BP神经网络的聚类系数为0，这是由于这两种网络属于前馈型神经网络，网络结果过于规则并且在同一网络层间的神经元或者特征图没有相应的操作即没有边的连接，因此构造不成三角环路才造成聚类系数为0的情形。在BP神经网络中随着网络深度的增加，其特征路径长度变化不大，但是度成倍的增大，因为BP神经网络是全连接网络，增加网络的深度，网络的连接数目会大大的增加。在KIII模型中，特征路径长度过大，但是聚类系数的值为0.3903这与灵长类动物脑皮层功能连接网络的分析结果一致即$\mathrm { C } { = } 0 . 3 8 3$ ，因此KIII模型在结构上具备一定的小世界特性。
+
+表3模型的指标计算结果  
+
+<html><body><table><tr><td></td><td>K</td><td>L</td><td>C</td></tr><tr><td>LeNet5模型</td><td>114.2722</td><td>1.9542</td><td>0</td></tr><tr><td>KIII模型</td><td>6.1803</td><td>9.2780</td><td>0.3903</td></tr><tr><td>BP(7-100-5)</td><td>42.8571</td><td>1.8069</td><td>0</td></tr><tr><td>BP（7-100-50-5)</td><td>146.9136</td><td>1.5464</td><td>0</td></tr></table></body></html>
+
+# (2）同步特性分析
+
+选取BP神经网络、LeNet5模型、KIII模型的神经元输出来探究神经网络是否具备同步特性。在BP神经网络和KIII模型中直接选取神经元的输出，BP神经网络迭代400次，选择其隐藏层第一个、第二个、第五个神经元以及输出层的第一个神经元每次迭代时的值，每个神经元输出400个值。KIII模型计算的持续时间即迭代步长仍为400 得到神经元的输出，选择M1层的第一、第二、第五以及M2层的第一个神经元的输出。LeNet5模型的结构及运算较为复杂，为保证模型有较好的性能，采用随机打乱样本的方式输入至网络中，故在网络中取其每次 epoch中所有批次值的平均值作为神经元的输出，在LeNet5模型中迭代 200次，取同一通道的第一、第二、第五以及下一个卷积层的第一个神经元的值，每个神经元输出200个值，其相应的部分输出如表4所示。
+
+表4各神经网络神经元输出  
+
+<html><body><table><tr><td rowspan="4">BP</td><td>0.1330</td><td>0.1306</td><td>0.1286</td><td>0.1269</td><td>0.1255</td><td>0.1244</td><td>0.1234</td></tr><tr><td>0.1460</td><td>0.1437</td><td>0.1417</td><td>0.1400</td><td>0.1386</td><td>0.1375</td><td>0.1365</td></tr><tr><td>0.1939</td><td>0.1919</td><td>0.1902</td><td>0.1887</td><td>0.1875</td><td>0.1865</td><td>0.1857</td></tr><tr><td>-0.8126</td><td>-0.8431</td><td>-0.8693</td><td>0.8914</td><td>-0.9100</td><td>-0.9254</td><td>-0.9380</td></tr><tr><td rowspan="4">KIII </td><td>2.5853</td><td>6.8418</td><td>10.8837</td><td>13.7589</td><td>15.5891</td><td>16.7893</td><td>17.6736</td></tr><tr><td>4.5547</td><td>11.9418</td><td>19.1477</td><td>24.9381</td><td>29.3886</td><td>32.8586</td><td>35.6589</td></tr><tr><td>0.9947</td><td>2.7507</td><td>4.4246</td><td>5.3040</td><td>5.2265</td><td>4.6119</td><td>3.8530</td></tr><tr><td>3.7881</td><td>4.4126</td><td>3.5091</td><td>2.2769</td><td>1.4513</td><td>1.0007</td><td>0.7998</td></tr><tr><td rowspan="4">LeNet5</td><td>14.8143</td><td>14.8568</td><td>14.8943</td><td>14.9608</td><td>15.0694</td><td>14.8516</td><td>14.9216</td></tr><tr><td>13.8281</td><td>13.8754</td><td>13.9137</td><td>13.9889</td><td>14.0704</td><td>13.8588</td><td>13.9263</td></tr><tr><td>14.2144</td><td>14.2696</td><td>14.3077</td><td>14.3756</td><td>14.4682</td><td>14.2620</td><td>14.3317</td></tr><tr><td>26.3038</td><td>26.3901</td><td>26.4859</td><td>26.5585</td><td>26.7741</td><td>26.5741</td><td>26.6750</td></tr></table></body></html>
+
+采用锁相位的方法计算神经元与神经元的输出组成的时间序列信号之间的同步程度，结果如表5所示，在表中符号1-2表示的是第一个与第二个神经元的输出所计算的 PLV 值，后序编号表示含义同上，另外1(1)-2(1)表示第一层的第一个神经元与第二层的第一个神经元之间的同步性。
+
+表5各神经网络神经元之间的PLV值  
+
+<html><body><table><tr><td></td><td>1-2</td><td>1-5</td><td>1(1)-2(1)</td></tr><tr><td>BP</td><td>0.9999</td><td>0.9984</td><td>0.9357</td></tr><tr><td>KIII</td><td>0.9571</td><td>0.8531</td><td>0.5603</td></tr><tr><td>LeNet5</td><td>0.9988</td><td>0.9621</td><td>0.9988</td></tr></table></body></html>
+
+从表中，我们可发现BP神经网络、KIII模型以及LeNet5模型均具备同步特性，但是BP神经网络及LeNet5模型的各神经元之间PLV值均接近于1即在神经网络中具备较高的同步特性，原因在于两者网络均是采用误差反向传播算法来更新权重，权重的修正朝着负梯度方向进行，具有一定的同步性，进而更新神经元输出的值也有同步的变化趋势，如上表所示，同时在LeNet5模型进行 200次迭代时，神经元的值将出现收敛现象，因此后续的输出变化不大，增大了其同步性。而在KIⅢI模型中也具备同步性，在相邻两节点的同步程度最高，但不相邻时，神经元间的同步性较差，尤其是在M1节点与M2节点间的输出的变化趋势有明显的差异，同步性较低。
+
+# (3) 混沌特性分析
+
+选取KIII模型的M1节点和BP神经网络隐藏层的第一、第二和第五个神经元输出的时间序列来探究其是否具备混沌特性。为得到最佳的嵌入维数m和时间延迟 $\tau$ ，我们增大神经网络的迭代次数以得到较长的时间序列。当增大迭代次数时LeNet5 模型易出现过拟合，神经元的输出值的变化不明显，故在此处不讨论LeNet5模型的混沌特性，另外LeNet5模型与BP神经网络属于前馈神经网络并且更新权重的原理相同，因此其运动变化状态可能一样。
+
+在实验中每个神经元的输出时间序列长度为3000。对于KIII模型，我们设定持续为3000s，在第1000s 时输入刺激，第 2000s结束刺激，因此我们计算 KIII模型的李雅普洛夫指数分三段进行，而BP神经网络持续迭代3000次，直接计算该序列的李雅普洛夫指数，具体结果如表6所示：
+
+表6KIII、BP神经网络各神经元的李雅普洛夫指数  
+
+<html><body><table><tr><td></td><td>[1,1000]</td><td>[1001,2000]</td><td>[2001,3000]</td></tr><tr><td>KIII-M1-1</td><td>0.3525</td><td>-35.4937</td><td>-0.0451</td></tr><tr><td>KIII-M1-2</td><td>0.1326</td><td>-73.1364</td><td>-0.0594</td></tr><tr><td>KIII-M1-5</td><td>0.1976</td><td>-0.0684</td><td>0.1546</td></tr><tr><td>BP-1</td><td colspan="3">-334.7309</td></tr><tr><td>BP-2</td><td colspan="3">-334.6722</td></tr><tr><td>BP-5</td><td colspan="3">-330.8155</td></tr></table></body></html>
+
+从实验中，我们看到在KIII模型中第一、第二以及第五个神经元在[1-1000]的区间段的李雅普洛夫指数均大于0，说明该系统在没有接受刺激前具备混沌特性，当在[1001-2000]区间段内李雅普洛夫指数小于0，说明该系统在受到刺激时，由混沌状态很快进入到一个稳定的状态，而在[2001-3000]区间段内，李亚普洛夫指数慢慢趋近于0，系统逐渐的恢复至原始的混沌状态。在BP神经网络中计算其神经元输出的时间序列的李雅普诺夫指数均发现其值均远远小于0，那么该神经网络不具备混沌特性。
+
+# 4结论
+
+本文研究了人工神经网络的仿生度问题。首先，对BP神经网络、LeNet5模型及KII模型，从神经元方程、模型结构以及学习原理等方面初步的探究其仿生度，从比较分析的结果来看，KII模型与真实的生物神经网络更为接近，仿生程度最高，而深度学习LeNet5模型在深度上模拟了真实神经系统的结构特点。然后，从仿生学的角度构建出评估模型仿生度的指标集即小世界特性、同步特性以及混沌特性，采用相应的指标对指标集进行量化分析，从分析结果表明，LeNet5模型及BP神经网络在学习过程中，具备同步特性，但其与真实生物神经网络仍有一定的距离，而KI模型在结构上具备小世界特性，其网络内部特表现出同步特性与混沌特性，与真实的生物神经网络更接近。在后阶段可从模型结构、神经元和模型性能上进一步完善评估人工神经网络仿生度的指标集，并且根据指标集量化出模型的仿生程度，为模型的评估给出直观的评估结果。
+
+# 参考文献
+
+[1] Cheng.F.C.，H. Zhang & W.J.Fan,et al. Image recognition technology based on deep learning[J]. Wirel Pers Commun,2018,102:1917-1933.   
+[2] Lin.Y.O,H. Lei & X.Y. Li，et al. Deep learning in NLP:methods and applicat  
+ions[J]. J Univ Electron Sci Technol China 2017,46(6):9-19.   
+[3]Zhang.D，D.Hu & Shen_L，et al. Design of an artificial bionic neural network to control fish-robot’s locomotion[J]． neurocomputing，2008，71(4-6):648-654.   
+[4]Gao.Z,Q.Shi & T.Fukuda,et al. An overview of biomimetic robots with animal behaviors[J]. Neurocomputing， 2019,332:339-350.   
+[5] Huang.G,Y.Sun& Z.Liu,et al. Deep networks with stochastic depth[C].European conference on computer vision,2016:646-661.   
+[6]Morita.K, H.Takase & N.Morita,et al.Spiking Neural Network to Extract Frequent Words from Japanese Speech Data[J].Procedia Computer Science,2019，159:363-371.   
+[7]Kim.J,H.Kim & S.Huh,et al. Deep neural networks with weighted spikes[J].   
+Neurocomputing,2018,311:373-386.   
+[8]Zhang.J,Y.Wang，G.Li，et al. Application of Bionic Neural Network on Face Recognition Based on SVD and DCT[C].Intelligent Control and Automation，2006:2733-2736.   
+[9] Watts,D.J & S.H. Strogatz. Collective dynamics of‘small-world’ networks[J]. Nature, 1998,393(6684) :440-442.   
+[10]谢彬，刘深泉,李炎烽，陈树春.生物神经系统的编码特性和小世界特性［J].生物数学学 报,2009,24(3) :507-512.   
+[11] Bassett.D.S&E. Bullmore.Small World Brain Networks[J].Neurosci entist,2006,12(6):512-523. [12] He.Y,Z.J.Chen & A.C. Evans.Small World Anatomical Networks in the Human Brain Revealed by Cortical Thickness from MRI[J]. Cerebral Cortex， 2007:2407-2419.   
+[13] Liu.Y,M. Liang & Y.Zhou,et al. Disrupted small-world networks in schizophrenia [J].BRAIN, 2008，131(1) :945-961.   
+[14] Wagner.A& D.A. Fell. The small world inside large metabolic networks[C]. In Proceedings of the Royal Society of London. Series B: Biological Sciences，200l，268(1478):1803-1810. [15］林国基，贾珣，欧阳顾.用小世界网络模型研究SARS病毒的传播[J].北京大学学报（医学 版),2003(S1) :66-69.   
+[16]罗小娟,黄如.基于小世界特征的无线传感器网络拓扑优化[J].物联网技术，2018,8(3):42-44. [17] Gray,C.M, P. Konig & A.K. Engel，et al.Oscillatory responses in cat visual cortex exhibitinter-columnar synchronization which reflects global stimulus properties [J]. Nature，1989,338:334-337.   
+[18] Riehle.A,S.Grun&M. Diesmann,et al.Spike synchronization and rate modulation differentially involved in motor cortical function[J]，Science，1997,278:1950-1953.   
+[19] Streinmetz,P.N, A. Roy& P.J. Fitzgerald, et al,Attention modulates synchronized neuronal firing in primate somatosensory cortex[J].Nature， 2000, 404:187-190.   
+[20]胡剑锋，包学才，穆振东．基于相位同步的脑电信号分类算法研究[J].微电子学与计算 机,2008,25(9):138-143.   
+[21] Olsen,L.F& H. Degn. Chaos in biological systems［J]. Quarterly reviews of biophysics,1985, 18(2): 165-225.   
+[22] Hodgkin,A.L&A.F. Huxley.A quantitative description of membrane current and its application to conduction and excitation in nerve[J]. The Journal of physiology   
+,1952;117:500.   
+[23] Matsumoto.G, K. Aihara& Y. Y.Han,et al. Chaos and phase locking in normal squid axons[J]. Physics letters A，1987，123(4):162-166.   
+[24] Wolf A，Swift JB，Swinney HL，et al. Determining Lyapounov exponents froma time series.［J]. physica d nonlinear phenomena，1985，16(3):285-317.   
+[25］修妍.基于混沌相空间重构参数优化的动态神经网络预测模型研究[J].科技创新与应 用,2017(23):13-14+16.
+
+# 作者贡献声明：
+
+张锦：提出研究思路，设计研究方案;  
+舒炫煜：进行实验、编程及论文撰写；  
+黄昭彦：混沌分析代码的部分实现；  
+易胜：文献阅读及论文修改；

@@ -1,0 +1,142 @@
+# 基础研究
+
+# 胆管结扎与再通对大鼠肝内细胞表型和NOX4蛋白表达的影响
+
+娄安妮',潘春球'，李 洋',杨仁强',李 旭²  
+南方医科大学南方医院'急诊科，感染内科，广东广州510515
+
+摘要：目的设计并建立胆管结扎及结扎后再通的大鼠肝纤维化模型,观察胆管结扎及再通对大鼠肝组织内细胞上皮-间质表型和氧化应激相关蛋白表达的影响。方法12只雄性Wista大鼠随机分为假手术组、胆管结扎2周组、胆管结扎4周组和胆管结扎2周后再通2周组，通过组织HE染色、Masson染色等方法评估模型大鼠肝纤维化病变程度;通过免疫组化和Westemblot等方法并检测上皮、间质标记蛋白及氧化应激相关蛋白的表达情况。结果相较于假手术组,随着胆管结扎时间的延长，模型组大鼠肝纤维化明显加重,α-SMA、collgenI、NOX4和Vimetin等蛋白表达显著升高,而E-cadherin表达则明显降低;结扎后再通组大鼠肝纤维化较单纯胆管结扎4周组大鼠明显减轻，NOX4及间质细胞标记蛋白表明显低于单纯结扎4周组，内皮细胞标记蛋白表达较单纯结扎4周组则显著升高。结论 胆管结扎可上调大鼠肝内间质表型相关蛋白及NOX4蛋白的表达，同时抑制上皮表型相关蛋白的表达;当实施再通手术后，原胆管结扎大鼠肝内上皮表型相关蛋白表达增加,而间质表型相关蛋白及NOX4蛋白的表达明显减少。
+
+关键词：胆管结扎再通；肝纤维化；NOX4；上皮表型；间质表型
+
+# Effect of bile duct ligation and recanalization on rat hepatocyte epithelial-mesenchymal phenotype and $\mathbf { N O X } _ { 4 }$ protein expression
+
+LOUAnni,PANChunqiu',LI Yang,YANGRenqiang,I $X u ^ { 2 }$   
+Departmentoergencyedicinpartmentoffectiousesfangspitaltnedicalesityo   
+510515, China
+
+Abstract:Objective Toobserve epithelial-mesenchymal phenotypes and oxidative stressrelated protein expresionsof the livercelsinaratmodelofliverfibrosis inducedbybileductligationandrecanalization.Methods Twenty-four male Wistar rats wererandomized into4 groups,including a sham-operated group,two bile ductligation groups with ligation for2and 4 weeks,and a bile duct ligation group with a 2-week ligation followed bya 2-week recanalization.HE stainingand Masson staining wereused toasess liver fibrosis intherats,and immunohistochemistryand Western bloting were employed to detectexpressonsof theepithelialandmesenchymalmarkerproteinsandoxidativestres-related proteins.ResultsCompared withthesham-operated group,therats withbile ductligation showed obviou liver fibrosis,which worsenedasthe ligation time extended, accompanied by significantly increased expression of $\alpha$ SMA, collagen I, $\mathrm { N O X } _ { 4 }$ and vimetin and reduced E-cadhern expresion.Comparedwiththratswithbileduct igationfor4weeks,therats inbileduct ligation-recanalization group showed obviously lessened liver fibrosis, significantly lowered expressions of $\mathrm { N O X } _ { 4 }$ and mesenchymal cell maker proteins,andenhanced expresionsof epithelialcellmarker proteis.Conclusion Bileduct ligationup-regulates mesenchymal phenotype-related proteins and $\mathrm { N O X } _ { 4 }$ protein expression and down-regulates the expression of epithelial phenotype-related proteins, and these changes can be reversed by subsequent bile duct recanalization.
+
+Key words: bile duct ligation recanalization; liver fibrosis; $\mathrm { N O X } _ { 4 } ;$ epithelial phenotype; mesenchymal phenotype
+
+肝纤维化是由肝内细胞外基质(ECM)的过度沉积所引起的慢性肝脏病理改变，是多种慢性肝脏疾病所共有的病理过程。研究表明1，在肝纤维化过程中，肝内间质细胞是ECM的主要来源，其中活化的肝星状细胞(HSC)在合成和分泌ECM以及促进肝纤维化形成过程中发挥关键作用。
+
+近年来研究发现23，在某些特定环境下，肝细胞可发生表型转化，由原来的上皮细胞表型转变为间质细胞表型(EMT)并合成和分泌胶原蛋白等细胞外基质，在肝纤维化过程中,这一转变将进一步促进纤维化的形成,部分学者认为，EMT是肝纤维化形成过程中的重要机制之一。
+
+作为肝纤维化过程中的另一重要机制，氧化应激受到越来越多的学者的关注。相关病理因素刺激导致机体或细胞内活性氧代谢产物(ROS)过度产生，削弱内源性抗氧化防御功能，引起瀑布式炎症介质释放，从而造成组织或细胞损伤[4]。研究显示，非吞噬细胞氧化酶(NOX)家族在慢性肝损伤过程中发挥重要作用5，其中，NADPH氧化酶组份 $\mathrm { N O X } _ { 4 }$ 可促进ROS大量生成，激活肝星状细胞并促进其增殖和活化，推动肝纤维化形成[7]。
+
+综上，肝细胞EMT及肝内氧化应激均为肝纤维化形成的重要因素，但二者是否参与了胆管结扎所诱导的肝纤维化过程目前少见报道，探索胆管结扎对肝内EMT的发生及氧化应激相关蛋白表达的影响，对研究肝纤维化的形成机制以及新治疗方案的确立均具有重要意义。本研究拟采用胆管结扎(BDL)的方法建立大鼠肝纤维化模型，并通过二次手术实现结扎胆管再通，从而建立治疗模型，借以观察上述过程中肝内EMT的发生及氧化应激相关蛋白 $\mathrm { N O X } _ { 4 }$ 的表达情况。
+
+# 1 材料与方法
+
+1.1 材料
+
+1.1.1实验动物SPF级健康雄性Wistar大鼠12只，购自南方医科大学实验动物中心，体质量 $2 0 0 { \sim } 2 5 0 ~ \mathrm { g }$ ，自由进食饮水。
+
+1.1.2实验试剂兔源性 $\mathrm { N O X } _ { 4 }$ 单抗、vimentin单抗、E-Cadherin单抗、collagenI单抗、DAPI染液均购自美国Abcam公司;Masson三色染色试剂盒、兔二步法免疫组化试剂盒购自碧云天生物技术公司;HE染色试剂盒、DAB显色液购自中杉金桥生物技术公司，RIPA蛋白裂解液、PVDF膜、远红外荧光标记小鼠抗兔二抗购自Life生物技术公司；BCA法蛋白浓度检测试剂盒购自Thermo公司；兔源性 $\mathrm { \dot { a } }$ -SMA单抗 $\mathbf { \beta } . \mathbf { \beta }$ -actin单抗 $5 \%$ 牛血清白蛋白(BSA)购自广州斯佳生物技术公司;戊巴比妥钠购自南方医科大学试剂中心。
+
+# 1.2 方法
+
+1.2.1实验分组实验大鼠随机分为4组，每组3只，分别标记为假手术组（Sham组）胆管结扎2周组(BDL2周）、胆管结扎4周组(BDL4周）胆管结扎2周后再通组（BDL2周 $^ +$ 再通组)。
+
+1.2.2模型建立腹腔注射戊巴比妥钠溶液麻醉大鼠，sham组大鼠沿腹正中线开腹，暴露胆总管后即关腹，继续饲养4周后处死；BDL2周组大鼠饲养2周后开腹，暴露胆总管并以4-00手术缝线结扎胆总管3次，关腹，手术完成继续饲养2周后处死；BDL4周组手术方式同BDL2周组，手术完成后继续饲养大鼠至4周后处死；BDL2周 $+$ 再通组手术时以4-00手术线将16#头皮针软管与胆管共同结扎，手术线一端固定于腹壁后关腹，继续饲养大鼠2周后再次开腹，以腹壁缝线确定原胆管结扎位置，分离粘连组织，剪断共同结扎的头皮针软管完成再通后关腹，大鼠继续饲养2周后处死。
+
+1.2.3标本制备模型动物采用过量麻醉法致死，处死后迅速开腹，完整游离肝组织，将肝右叶分割为 $4 \mathrm { m m } \times$ $4 \ : \mathrm { m m } \times 5 \ : \mathrm { m m }$ 组织块并于新鲜配制的 $4 \%$ 甲醛溶液内固定 $2 4 \mathrm { h }$ ，随后流水冲洗 $2 4 \mathrm { h }$ ，依次以梯度酒精、二甲苯、石蜡溶液浸泡处理,制备组织石蜡标本，切片备用。其他肝组织迅速称重，加入适量蛋白裂解液并于冰上研磨、低温离心提取总蛋白，测定蛋白浓度后加入上样缓冲液置入 $\mathrm { - 8 0 \% }$ 环境保存备用。
+
+$1 . 2 . 4 \ \mathrm { H E }$ 染色将制备好的大鼠肝组织切片置入 $6 0 ~ \mathrm { { ^ { \circ } C } }$ 烤箱内烤片约 $3 0 ~ \mathrm { m i n }$ ，取出后常规脱蜡至水，苏木素染色 $5 \mathrm { m i n }$ ，清水冲洗后以 $1 \%$ 盐酸酒精分化，随后以 $1 \%$ 伊红染液浸染 $3 \mathrm { m i n }$ ,染色完成后以梯度酒精脱水、二甲苯透明、中性树胶封片并于显微镜下观察、拍照。
+
+1.2.5Masson染色将大鼠肝组织切片烤片并常规脱蜡至水，以Masson复合染液染色 $5 \mathrm { m i n }$ 后，清水稍冲洗，滴加磷钼酸染液染色 $5 \mathrm { m i n }$ ,甩干，最后滴加苯胺蓝染液染色 $5 \mathrm { m i n }$ ,染色结束后以梯度酒精脱水、二甲苯透明、中性树胶封片并于显微镜下观察、拍照。每例实验标本至少留取5张不同区域组织照片，采用Image-pro软件测定蓝染区域胶原总面积并进行统计学分析。
+
+1.2.6免疫组化大鼠肝组织切片烤片、常规脱蜡至水，以枸橡酸缓冲液浸没组织切片，采用微波法进行抗原修复；抗原修复完成后切片冷却至室温，免疫组化笔圈定标本范围，滴加第一抗体， $4 \mathrm { { ^ { \circ } C } }$ 环境孵育过夜;第一抗体孵育完成后，室温复温 $3 0 \mathrm { m i n }$ ,PBS缓冲液冲洗3次，每次 $5 ~ \mathrm { m i n }$ ，滴加辣根过氧化酶标记的羊抗兔二抗， $3 7 \ \mathrm { { ^ { \circ } C } }$ 孵箱内孵育 $^ { \textrm { 1 h } }$ ，二抗孵育结束后再次以PBS缓冲液冲洗3次，每次 $5 \mathrm { m i n }$ ,显微镜下行DAB显色，显色充分后，以苏木素复染细胞核，梯度酒精脱水、二甲苯透明、中性树胶封片。以显微观察并拍照,Image-pro图像分析系统分析数据并进行统计学分析。
+
+1.2.7蛋白免疫印迹实验将制备好的各组大鼠肝组织总蛋白分别以每孔 $5 0 ~ { \mu \mathrm { g } }$ 加入凝胶微孔中，同时加入分子量标记Marker，接通电源行凝胶电泳分离相关蛋白。电泳结束后，根据Marker位置切取目的蛋白所在部位凝胶，贴附PVDF膜并加入转膜体系中将蛋白由凝胶内转移至PVDF膜上。转膜结束后，将PVDF膜以 $5 \%$ BSA溶液浸没，室温孵育1h以封闭非特异性抗原，随后PVDF膜转移至新配第一抗体溶液内，浸没并于 $4 \mathrm { { ^ \circ C } }$ 环境摇动孵育过夜，第一抗体孵育完成后，室温复温$3 0 \mathrm { m i n }$ ，以PBST溶液洗涤3次 $\times 5 \mathrm { m i n }$ ，随后浸入配制好的荧光二抗溶液内，室温避光孵2h,荧光扫描仪检测信号并记录，软件计算蛋白条带灰度值并行统计学分析。1.2.8统计方法 数据以MicrosofExcel和SPSS19.0软件处理，计量数据以均数或(均数 $\trianglerighteq$ 标准差）表示；各组间均数比较采用单因素方差分析；等级资料先以秩和检验分析，各组间数据两两比较采用方差分析， $P { < } 0 . 0 5$ 认为差异有统计学意义。
+
+# 2结果
+
+# 2.1组织HE染色及ISHAK评分
+
+假手术组大鼠肝内细胞排列规则，肝小叶结构完整清晰，肝细胞索呈放射状排列，肝细胞无变性、坏死等改变；BDL2周组大鼠肝内细胞排列轻度不规则，部分肝小叶结构完整性遭到破坏，肝索结构紊乱，汇管区附近炎症细胞增多并浸润临近组织,部分肝细胞变性、坏死;BDL4周组：肝内细胞排列紊乱，肝索结构难以辨认，汇管区见大量间质增生，可见假小叶形成，肝细胞变性、坏死明显；BDL2周后再通组大鼠肝内细胞排列明显不规则,但汇管区间质增生程度较BDL4周组大鼠减轻，部分肝细胞可见水样变性，假小叶结构不明显(图1)。统计肝纤维化ISHAK评分结果显示：相较于假手术组，BDL2周组及BDL4周组大鼠肝纤维化评分明显升高，而BDL2周后再通组大鼠肝纤维化评分较BDL4周组明显降低(表1)。
+
+![](images/160ba9de0c4afd05b043fde15e8f8c0746372dd407327fcddc5ca5de63b18bb2.jpg)  
+图1各组大鼠肝组织HE染色 Fig.1 HE staining of rat liver tissue in each group (Original magnification: $\times 2 0 0$ .A: Sham-operated group; B,C: Bile duct ligation groups for 2 and 4 weeks, respectively; D: Bile duct ligation-recanalization group.
+
+表1各组大鼠肝纤维化评分 Tab.1 Rat liver fibrosis score in each group(Ishak)   
+
+<html><body><table><tr><td>Group</td><td>n</td><td>Mean</td></tr><tr><td>Sham</td><td>3</td><td>0</td></tr><tr><td>BDL 2 weeks</td><td>3</td><td>2.671)</td></tr><tr><td>BDL 4 weeks</td><td>3</td><td>4.67()</td></tr><tr><td>BDL2 weeks+recanalization</td><td>3</td><td>1.67(2)</td></tr></table></body></html>
+
+（ $^ { ( ) } P { < } 0 . 0 1$ vs Sham group; $^ { ( 2 ) } P { < } 0 . 0 1$ vs BDL 4 weeks group.
+
+# 2.3免疫组织化学染色
+
+针对 $\mathfrak { a } \mathrm { . }$ 平滑肌肌动蛋白( ${ \mathfrak { a } } \cdot$ -SMA）、I型胶原蛋白(CollagenI）、氧化应激相关蛋白 $\mathrm { N O X } _ { 4 } .$ 及间质细胞标记波形蛋白(Vimetin)行免疫组织化学染色，结果显示，相较于假手术组，BDL2周组及BDL4周组大鼠肝肝内上述蛋白表达区域明显扩大，而BDL2周后再通组大鼠肝内上述蛋白表达区域较BDL4周组大鼠则明显减小(图3）。
+
+# 2.4纤维化及氧化应激相关蛋白表达
+
+# 2.2组织Masson染色及胶原面积测定
+
+相较于假手术组，BDL2周组及BDL4周组大鼠肝组织蓝染面积明显扩大，BDL2周后再通组大鼠肝组织胶原蓝染面积假手术组明显扩大，但较BDL4周组大鼠明显减少(图2，表2)。
+
+蛋白免疫印迹实验结果显示，相较于假手术组，BDL2周及BDL4周组大鼠肝内纤维化相关蛋白$\mathfrak { a }$ -SMA、CollagenI、氧化应激相关蛋白 $\mathrm { N O X } _ { 4 }$ 、间质细胞标记蛋白Vimetin的表达明显升高，而上皮细胞标志蛋白E-钙蛋白(E-cadherin)的表达则明显下降;在BDL2周后再通组大鼠肝内， $\mathfrak { a }$ -SMA、Collagen $\mathrm { I } , \mathrm { N O X } _ { 4 }$ 和Vimetin蛋白的表达较BDL4周组大鼠明显下降，E-cadherin蛋白表达则明显升高(图4)。
+
+![](images/89ee270a46d7205ae91b91fa68eb60991cc270156b342443d494ba193980faba.jpg)  
+图2各组大鼠肝组织Massion染色 Fig.2 Massion staining of rat liver tissue in each group (Original magnification: $\times$ 200).A: Sham-operated group; $B ,$ C: Bile duct ligation groups for 2 and 4 weeks, respectively; $D$ : Bile duct ligation-recanalization group.
+
+表2大鼠肝内胶原含量测定 Tab.2 Determination of collagen content in rat liver   
+
+<html><body><table><tr><td>Group</td><td>n</td><td>Mean±SD</td></tr><tr><td>Sham</td><td>3</td><td>678±126</td></tr><tr><td>BDL 2 weeks</td><td>3</td><td>4910±618()</td></tr><tr><td>BDL 4 weeks</td><td>3</td><td>10078±1087()</td></tr><tr><td>BDL2 weeks+recanalization</td><td>3</td><td>3587±460(2)</td></tr></table></body></html>
+
+C $^ { 1 ) } P { < } 0 . 0 1$ Us Sham group; $^ { ( 2 ) } P { < } 0 . 0 1$ Us BDL 4 weeks group.
+
+# 3讨论
+
+上皮细胞间质化(EMT)，是指上皮细胞丢失其原有的特征并获得间质细胞特性的过程[8。目前认为EMT在胚胎发育、肿瘤侵袭与转移、组织愈合和器官纤维化等生理、病理过程中发挥重要作用。EMT可分为3种类型，其中Ⅱ型EMT出现在创伤愈合、组织重构和纤维化过程中,这一类型的上皮-间质转化与肝纤维化的形成密切相关。
+
+自EMT学说提出以来，上皮-间质转化一直是肝纤维化形成机制研究中的热点问题之一。EMT是一个复杂的动态演变过程，对于在肝脏损伤后肝细胞是否发生了EMT，目前学术界仍存在争议。Zeisberg等利用CCl4刺激已构建好的Alb-Cre-LarcZ模型小鼠（肝细胞特异性表达β-半乳糖苷酶)建立肝纤维化模型，以半乳糖标记肝细胞来源的子代细胞，以成纤维样细胞(FSP-1)标记成纤维细胞。结果在肝纤维化区域发现大量FSP-1阳性的成纤维细胞沉积，且这些细胞中有 $45 \%$ 的细胞可合成半乳糖，为EMT的证实提供了有力证据。而Scholten[]等采用I型胶原作为标定成纤维细胞的标志，以X-gal染色和FSP-1免疫组化的方法检测EMT，结果并未发现肝细胞发生EMT。
+
+由于正常肝脏上皮细胞可特异性表达上皮细胞标记蛋白，如白蛋白、E-cadherin等，而当上皮细胞发生间质转化后，其将丧失表达上皮细胞标记蛋白的能力，转而表达间质细胞相关蛋白,如CollagenI、Vimetin等，因此我们团队在前期试验中已针对胆管结扎大鼠肝纤维化过程中肝内上皮细胞是否发生了EMT改变进行了相关探索。研究发现胆管结扎大鼠肝细胞内Albumin、E-cadherin等上皮细胞标记蛋白表达明显降低，而间质细胞标记蛋白Vimetin、CollagenI等的表达明显升高。上述结果虽然提示胆管结扎的大鼠肝内确实发生了EMT改变,但这种改变是否由胆管结扎这一因素而造成尚不完全清楚。因此我们设计并建立了胆管结扎后再通的大鼠模型，通过结扎和结扎后再通两种途径验证肝内EMT的情况。
+
+本研究发现，在进行胆管结扎的模型组大鼠肝内，上皮细胞标记蛋白E-cadherin表达明显减少，而间质细胞标记蛋白Vimetin和CollagenI的表达则明显增加，且随着胆管结扎时间的延长，模型大鼠的肝纤维化程度进一步加重，且上述标记蛋白的下降及升高趋势愈发明显。当把结扎的胆管再通后，我们发现大鼠肝纤维化未
+
+![](images/208ef745fb7672bf99811e46541a15ef40eb02db806bdb10c529013aea861bb6.jpg)  
+图3各组大鼠肝组织免疫组织化学染色
+
+Fig.3 Immunohistochemistry of rat liver tissue in each group (Original magnification: $\times 2 0 0$ ).A:Sham-operated group; B,C Bile duct ligation groups for 2 and 4 weeks, respectively; $D$ : Bile duct ligation-recanalization group.
+
+![](images/a3e60f71da66b160c99ce5fcae073426dbadbe9143cf207206961682959e37ae.jpg)  
+图4各组大鼠肝组织蛋白免疫印迹实验
+
+再进展，同时肝内EMT受到了明显的抑制，即相较于胆管持续结扎的模型组大鼠，再通组大鼠肝内上皮细胞标记蛋白E-cadherin表达重新升高，而间质细胞标记蛋白Vimentin和CollagenI表达则有所下降。
+
+![](images/eabe66ac79a79feac5b00a8fb1112060e946cb445b356b07358e0fa78f65cd49.jpg)  
+Fig.4 Westen blotting of rat liver tissues in each group.A: Sham-operated group; B,C: Bile duct ligation groups for 2 and 4 weeks,respectively; D:Bile duct ligation-recanalization group.   
+图5各组大鼠肝组织蛋白表达  
+Fig.5Relative protein expression in rat liver in each group.A: Sham-operated group;B,C:Bile duct ligation groups for 2 and 4 weeks,respectively;D:Bile duct ligation-recanalization group. $^ { * } P { < } 0 . 0 5$ UsA. $^ { \mathrm { \sc \& } } P { \ < } 0 . 0 5$ UsB. $^ { \sharp } P { < } 0 . 0 5$ Us C.
+
+因此，我们认为胆管结扎可诱导大鼠肝内发生EMT，并可进一步引起肝纤维化相关改变，当解除胆管结扎因素后，肝内EMT将受到抑制，肝纤维化也将在一定程度上得到缓解。
+
+氧化应激是慢性肝损伤、肝纤维化过程中的另一重要机制，主要由各种致病因素所造成细胞内外氧化-还原失衡，组织内产生成过量的ROS,进而损伤、破坏细胞器,引起细胞炎症、坏死等改变[]。研究发现,NADPH氧化酶家族的关键组份 $\mathrm { N O X } _ { 4 }$ 在这一过程中扮演重要角色[12]。多项研究证实 $\mathrm { N O X } _ { 4 }$ 在慢性肝病、肝纤维化的肝组织中的表达明显升高，而沉默NOX4基因则有助于减少肝内ROS的生成进而抑制肝纤维化的进展[13]。我们既往的研究发现，在胆管结扎诱导的肝纤维化大鼠肝脏中,白蛋白、collagenI表达增加,上皮标记E-cadherin减少，间质标志Vimetin增加[14]
+
+本研究同样观察了胆管结扎及再通对大鼠肝内氧化应激相关蛋白NOX4的影响，结果发现在胆管结扎大鼠肝组织内， $\mathrm { N O X } _ { 4 }$ 蛋白表达明显升高并与胆管结扎时间呈正相关，当实行再通手术解除胆管结扎后， $\mathrm { N O X } _ { 4 }$ 蛋白的升高趋势受到抑制。因此我们认为胆管结扎会引起大鼠肝内氧化应激相关蛋白NOX4的升高并可能通过该途径促进肝内ROS的过量生成，进而造成肝脏损伤和纤维化形成。当解除结扎因素实现胆管再通后，NOX4蛋白的过量表达受到抑制，有助于缓解肝纤维化的进展。
+
+综上所述，我们通过设计胆管结扎和胆管结扎后再通手术，建立了淤胆型大鼠肝纤维化及其治疗模型。并通过实验证实，在胆管结扎大鼠肝内发生了EMT改变，且胆管结扎可诱导肝内氧化应激相关蛋白NOX4的表达增加；当解除胆管结扎实现再通后，肝内EMT改变受到阻遏，氧化应激相关蛋白NOX4的过量表达也随之被抑制。需要指出的是，本课题的研究对象为大鼠肝组织整体，并未标定相关细胞来深人研究EMT的发生；同时，对于肝内氧化应激亦仅观察了NOX4蛋白表达的变化，并未进一步验证相关通路的上下游信号改变，这些均有待于后续实验继续探索
+
+# 参考文献：
+
+[1]Parsons CJ,Takashima M,Rippe RA.Molecular mechanisms of
+
+hepatic fibrogenesis[J]. JGastroenterol Hepatol, 2007,22(Suppl 1): S79-84.   
+[2]Zeisberg M, Yang CQ,Martino M,et al. Fibroblasts derive from hepatocytes in liver fibrosis via epithelial to mesenchymal transition [J].JBiol Chem,2007,282(32): 23337-47.   
+[3]Kaimori A,Potter J,Jy K,et al. Transforming growth factorbetal induces an depithelial-to-mesenchymal transition state in mouse hepatocytes in vitro[J]. JBiol Chem,2007,282(30): 22089-22101.   
+[4]Sánchez-Valle V,Chávez-Tapia NC,Uribe M,et al. Role of oxidative stress and molecular changes in liver fibrosis:a review [J]. Curr Med Chem,2012,19: 4850-60.   
+[5]Bedard K, Krause KH. The NOX family of ROS-generating NADPH oxidases: physiology and pathophysiology[J]. Physiol Rev,2007,87 (1): 245-313.   
+[6]Wheeler MD,Kono H, Yin M, et al. The role of Kupffer cell oxidant production in early ethanol-induced liver disease [J].Free Radic Biol Med,2001,31(12): 1544-9.   
+[7]Friedman SL.Evolving challenges in hepatic fibrosis[J].Nat Rev Gastroenterol Hepatol,2010,7(8): 425-36.   
+[8]Wells RG.The epithelial-to-mesenchymal transition in liver fibrosisi; here Today, gone tomorrow[J].Hepatology,2010,51(3): 737-40.   
+[9]Kalluri R,Weinberg RA.The basics of epithelial-mesenchymal transition[J].J Clin Invest,2009,119(6): 1420-8.   
+[10] Scholten D, Osterreicher CH, Scholten A,et al.Genetic labeling doesnotdetectepithelial-to-mesenchymaltransitionof cholangiocytes in liver fibrosis in mice[J].Gasrtoenterology,2010, 139: 987-98.   
+[11]Asaba K,Tojo A,Onozato ML,et al.Effects of NADPH oxidase inhibitor in diabetic nephropathy [J].Kidney Int,2Oo5,67(5): 1890-8.   
+[12]Paik YH,Iwaisako K,Seki E,et al. The nicotinamide adenine dinucletide phosphate oxidase(NOX） homologues NOX1 and NOX2/gp91(phox) mediate hepatic fibrosis in mice[J]. Hepatology, 2011,53: 1730-41.   
+[13] Sancho P,Mainez J, Crosas-Molist E,et al. NADPH oxidase NOX4 mediates stellate cell activation and hepatocyte cell death during liver fibrosis development[J].PLoS One,2012,7(9): e45285.   
+[14]黄珊,张文雍,潘春球,等.胆管结扎诱导的肝纤维化大鼠肝脏上皮间 质表型的变化[J].南方医科大学学报,2012,32(2):173-6.
+
+(编辑：经媛)

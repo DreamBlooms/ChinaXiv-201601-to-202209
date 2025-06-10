@@ -1,0 +1,565 @@
+[
+    {
+        "type": "text",
+        "text": "四个竹秆变异毛竹变型的全基因组序列分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "牟少华l\\*，李娟1，李雪平1，高健1（1.国际竹藤中心竹藤科学与技术重点实验室，北京100102）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：毛竹是我国重要的经济竹种，在长期栽培适应过程中产生了丰富的变异。为揭示毛竹竹秆变异变型的全基因组突变类型，以黄皮毛竹、金丝毛竹、绿皮花毛竹和花毛竹4个毛竹变型为实验材料，采用高通量重测序技术获得全基因组序列，进行单核苷多态性（SNP）、小片段插入缺失（InDel）和结构变异（SV）检测和注释，并将变异基因进行功能注释。结果表明：花毛竹基因组检测得到的基因变异数最多，为12555个；金丝毛竹样品变异位点数最少，为11923个；4个样品都有7000多个变异基因得到功能注释。G0注释分类包括细胞组件、分子功能和生物过程三个基因功能分类体系的56个功能组。在细胞组分方面，叶绿素合成相关基因有2431个；在生物过程方面，参与类胡萝卜素合成过程的基因有75个，参与花青素合成过程中的调控以及紫外光下组织中花青素积累的相关基因有80个。COG分类表明参与复制、重组和修复的基因数为369个，信号转导机制的基因数为291个，转录的相关基因222个。通过 KEGG 数据库系统地分析变异基因参与的黄酮类、类胡萝卜素等物质代谢合成途径。深入研究这些差异基因的调控途径，从DNA水平上解释竹秆的变异机制，可以为深入研究毛竹种内丰富的多态性和遗传变异提供数据支持，阐析不同变异类型的基因家族、功能基因等遗传基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：毛竹，变型，全基因组重测序，基因注释中图分类号：S795.7 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Genomic sequence analysis of four culm variants of Moso bamboo (Phyllostachys edulis) on culm ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MU Shaohual\\*,LI Juan1, LI Xueping1, GAO Jian1 (1. Key Laboratory of Bamboo and Rattan Science and Technology, International Center for Bamboo and Rattan,Beijing 100102, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: As an important and economic bamboo species in China, Moso bamboo has performed lots of variations with long-term cultivation conditions.For an overall understanding of the whole genome of four representative culm variations，Phyllostachys edulis f. holochrysa，P.edulis f. gracilis，P. edulis f. nabeshimana and P. edulis f. huamozhu，re-sequencing was used for high-throughput sequencing to detect its variations by molecular data.The single nucleotide polymorphism (SNP), insertion-deletion (InDel) and structure variation (SV) were detected and annotated,and the mutant genes were compared with the functional databases.The results were as follows: Phyllostachys edulis f.gracilis had the lowest number of mutation sites,that was 11 923,and Phyllostachys edulis f. huamozhu had the highest number 12 555,of which more than 7 OOo mutant genes were annotated. GO annotation classification included 56 functional groups of three functional classification systems: cellular component， molecular function and biological processes.In terms of cell components, there were 2 431 genes related to chlorophyll synthesis.In terms of biological processes,there were 75 genes involved in the synthesis of carotenoids and 80 ones involved in the regulation of anthocyanin synthesis and anthocyanin accumulation in tissues under ultraviolet light. COG classification showed that 369 genes involved in replication,recombination and repair, 291 ones in signal transduction mechanism,and 222 ones in transcription.The metabolic pathways of flavonoids，carotenoids and other substances involved in the mutant genes were analyzed by KEGG database.In-depth study of the regulatory pathways and interpretation of the variation mechanism on culm from the DNA level,can provide a data basis for further exploration of the rich polymorphism and genetic variation of Moso bamboo，and elucidate the genetic basis of gene family and functional genes of diferent variation types. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Moso bamboo (Phylostachys edulis), variant， whole genome re-sequencing，gene annotation ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "毛竹（Phylostachys edulis）是我国独有的传统经济竹种（江泽慧，2002），分布范围广阔，现有毛竹变型20多种（马乃训等，2014）。毛竹变型在形态上表现出丰富的多态性，尤其是秆色性状方面差异表现显著，例如花毛竹秆为黄色，有宽窄不等的绿色纵条纹，而绿皮花毛竹秆为绿色，但节间有淡黄色细纵条纹。秆色的变异大大丰富了园林观赏种类，提高了园林观赏价值。毛竹竹秆性状的遗传变异是遗传育种工作关注的重点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，高通量测序技术可以分析一个物种的基因组的全貌，已经在谷子 (Bai etal.,2013;贾小平等，2019)、水稻 (Takagi et al.,2013)、大豆(Qi et al.,2014; Zhou et al.,2015；张彦威等，2016)、黄秋葵（张少平等，2017）、厚朴（尹彦棚等，2020）、菜豆 (Jeremy et al.,2010)和番茄 (Lin etal.,2014)等植物上得到了广泛应用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着分子生物学和组学技术的发展，毛竹全基因组序列获得公布 (Peng et al.,2013)，一些与毛竹性状相关的基因家族，如AP2/ERF(Wu etal.,2015)、SAUR(Bai etal.,2016)、AQP(Sun et al.,2016)、SBP-like(Pan et al.,2016)、HD-Zip (Chen et al.,2017)、Hsp (Xie et al.,2019)、CO-Like(Liuetal.,2016)等已进行鉴定和功能验证，但是在基因组层面上的研究较少，特别是毛竹变型秆色相关的研究薄弱，仅对黄槽毛竹和黄皮花毛竹两个毛竹变型基因组序列变异进行初步探索 (牟少华等，2020)，这在一定程度上限制了毛竹遗传育种的应用发展。从基因水平上揭示毛竹的变异程度，是分析毛竹变型形态差异产生原因的重要手段之一。因此，开展毛竹变型基因组研究，揭示毛竹变型全基因组突变类型，探究黄酮类和硝酸还原酶等代谢途径相关基因，对解析毛竹丰富的遗传多样性以及性状相关的遗传变异具有重要意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究以黄皮毛竹等4个有代表性的竹秆变异毛竹变型为研究对象，毛竹全基因组作为参考基因组，采用高通量测序技术，构建全基因组数据库，并利用生物信息学的方法对获得的核酸序列组装，检测并注释其单核苷酸多态性(SNP)、结构变异(SV)和小片段插入缺失(Indel)等，注释变异基因功能，积累基因组序列数据，以便为从全基因组水平上深入地分析毛竹的遗传变异，为遗传育种提供遗传基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "供试材料选自国际竹藤中心安徽太平试验中心种质资源圃。选取4个毛竹变型（表1）适量新鲜幼嫩的叶片，经液氮罐中速冻后，放入 ${ \\cdot } 8 0 ^ { \\circ } \\mathrm { C }$ 冰箱冻存备用。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/5b8140521b8268a57dc084ca8c60770322d664816ffd1cde2c576ee83271a178.jpg",
+        "table_caption": [
+            "表1四个毛竹变型样品简表",
+            "Table 1 Brief introduction of four variations of Moso bamboo "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号</td><td>变型</td><td>拉丁名</td><td>形态特征 Morphological characteristics</td></tr><tr><td>ID R01</td><td>variation 黄皮毛竹</td><td>Latin name Phyllostachys edulis f.holochrysa</td><td>秆和枝金黄色</td></tr><tr><td>R02</td><td></td><td></td><td>Culmsand branches golden yellow 竹株小，秆壁较厚，基部的节间较长</td></tr><tr><td></td><td></td><td>P. edulis f. gracilis</td><td>Shorts height,culm walls thick,basal internodes longer</td></tr><tr><td>R03</td><td>绿皮花毛竹</td><td>P.edulis f.nabeshimana</td><td>秆绿色，但节间有淡黄色细纵条纹 Culms green,internodes with light yellow strips</td></tr><tr><td>R04</td><td>花毛竹</td><td>Phyllostachys edulis f.huamozhu</td><td>黄秆，有宽窄不等的绿色纵条纹</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1基因组测序 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "毛竹变型叶片DNA 提取(Zidanietal.,2005)后，经过打断、损伤修复及连接接头、PCR富集、文库质量检测，建成测序文库，在Illunima Hiseq 2500 测序平台上运行获得原始数据，将数据过滤后得到高质量数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 比对统计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用 bwa 软件(Li& Durbin,2009)将测数据序比对定位到已测序的毛竹基因组的位置,统计测序深度和基因组覆盖度等信息。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 检测 SNP、InDel 和 SV",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用 Picard 软件(Gordon et al.,2012）去重复和 GATK 软件 (Mckenna et al.,2010)预处理后，检测 SNP 和 InDel变异。使用 BreakDancer 软件(Chen et al.,2009）检测 SV变异，具体方法参照文献（牟少华等，2020）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.4 注释 SNP、InDel 和 SV",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "运用 SnpEf软件 (Cingolani et al.,2012)注释 SNP、InDel 和 SV，具体方法参照文献（牟少华等，2020）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.5注释功能基因",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "运用 BLAST 软件，对筛选得到的功能可能变异基因的基因序列与GO (Ashburner et al.,2000)、COG (Tatusov et al.,200O0)和 KEGG (Minoru etal.,2004）等三大功能数据库，进行 BLAST比对，得到基因注释。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1与毛竹基因组比对",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4个竹种通过高通量测序得到测序数据。金丝毛竹样品(R02)过滤后的Clean reads最少，为82 276 884bp；花毛竹样品（R04）的Clean reads最多，为112 054728 bp。定位到毛竹参考基因组的占所有Cleanreads数的百分比在 $9 9 . 4 5 \\%$ 以上，双端均定位到毛竹参考基因组上并且距离符合测序片段的长度分布的占所有Clean Reads数的百分比在 $88 \\%$ 左右，说明参考基因组选择合适，且相关实验过程不存在污染，测序reads的比对率会高于 $70 \\%$ 。另外，比对率的4个毛竹变型与毛竹参考基因组亲缘关系较近、基因组组装质量高，而且reads测序质量高。4个样品平均覆盖深度均在 $1 0 \\times$ 左右（表2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d69f7bb1f73cb67859a02302985c8d4c0df7517919002d9c13d60c68237bee0b.jpg",
+        "table_caption": [
+            "Table 2 Output statistics among four samples "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">编号 ID</td><td rowspan=\"2\">过滤后的 Clean_reads</td><td rowspan=\"2\">定位比 Mapped</td><td rowspan=\"2\">双端定位比 Properly</td><td rowspan=\"2\">覆盖深度 Ave_depth</td><td rowspan=\"2\">覆盖度 Cov</td><td colspan=\"2\">覆盖度</td><td rowspan=\"2\">覆盖度 _ratio_10X</td></tr><tr><td>Cov</td><td>_ratio_5X Cov</td></tr><tr><td>R01</td><td>103 490 495</td><td>(%) 99.6</td><td>_mapped(%) 88.91</td><td></td><td>_ratio_1X (%)</td><td>(%)</td><td>(%)</td><td></td></tr><tr><td>R02</td><td>82 276 884</td><td>99.45</td><td>88.03</td><td>11 9</td><td>97.02 97.22</td><td>80.74</td><td></td><td>55.11</td></tr><tr><td>R03</td><td>83 316 245</td><td>99.50</td><td>87.92</td><td>9</td><td>95.40</td><td>78.74 71.64</td><td></td><td>46.89 44.06</td></tr><tr><td>R04</td><td>112 054 728</td><td></td><td>89.21</td><td>13</td><td>97.25</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>99.49</td><td></td><td></td><td></td><td>85.40</td><td></td><td>64.55</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2SNP的检测与注释 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 SNP检测 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4个毛竹样品检测后获得SNP位点统计表（表3），其中，花毛竹样品(R04)的SNP数量最多，为1691715；绿皮花毛竹样品(R03)的SNP数量最少，为1534 648。4个样品中，转换类型(transition,Ti) SNP数量与颠换类型 (transversion,Tv) SNP数量的比值Ti/Tv为3.05-3.10之间，说明这些毛竹变型转换比颠换更容易发生。杂合类型 (heterozygosity,Het)SNP数量为纯合类型 (homozygosity,Homo) SNP数量的10倍左右，杂合比率为 $8 8 . 5 3 \\ \\% \\sim 9 2 . 0 1 \\ \\%$ 。其中，花毛竹样品(R04)杂合比率最高，为 $9 2 . 0 1 \\%$ ，说明其杂合程度最高。绿皮花毛竹样品(R03)杂合比率最低，为 $8 8 . 5 3 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/623e4e3d82708d1a3095009dc46a329ebed1ce020455ee7864adb47737198bb3.jpg",
+        "table_caption": [
+            "表2四个样品数据产出统计表",
+            "表3四个样品SNP位点统计表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号</td><td>SNP</td><td>转换</td><td>颠换</td><td>转换/颠换</td><td>杂合</td><td>纯合</td><td>杂合比率</td></tr><tr><td>ID</td><td></td><td>Transition</td><td>Transversion</td><td>Ti/Tv</td><td>Het</td><td>Homo</td><td>Het-ratio</td></tr><tr><td>R01</td><td>1 628 624</td><td>1 227 674</td><td>400 950</td><td>3.06</td><td>1 476 422</td><td>152 202</td><td>90.65%</td></tr><tr><td>R02 R03</td><td>1 601 748</td><td>1 207308</td><td>394 440</td><td>3.06</td><td>1 444 235</td><td>157 513</td><td>90.16%</td></tr><tr><td></td><td>1 534 648</td><td>1 161 232</td><td>373 416</td><td>3.10</td><td>1 358 770</td><td>175 878</td><td>88.53%</td></tr><tr><td>R04</td><td>1 691715</td><td>1 274 890</td><td>416 825</td><td>3.05</td><td>1 556 713</td><td>135 002</td><td>92.01%</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据4个毛竹样品与参考基因组的比对结果，汇总样品间SNP的统计结果见表4，表中各数值为对应的横纵两样品之间的 SNP数。从表中可以看出，金丝毛竹(R02)与绿皮花毛竹样品(R03)间的 SNP 数最多。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/7392627e0fb8e88e72210f1e2f60313ffef52076863ba717de6903264c85be1c.jpg",
+        "table_caption": [
+            "Table 3 SNP loci statistics in four samples ",
+            "表4四个样品间的SNP统计表",
+            "Table 4 Summary of SNPs detected between four samples "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号ID</td><td>R01</td><td>R02</td><td>R03</td><td>R04</td></tr><tr><td>R01</td><td>0</td><td></td><td></td><td></td></tr><tr><td>R02</td><td>598 973</td><td>0</td><td></td><td></td></tr><tr><td>R03</td><td>608 671</td><td>616 986</td><td>0</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b09e72fda63ae3ff98fc6eb68f1c1da85db9f373fb49b7d57cd6461441e1320d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>R04</td><td>558 357</td><td>587 035</td><td>604 473</td><td>0</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 SNP注释 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对4个样品SNP进行注释，获得其变异位点发生的区域或类型（如图1所示）。4个毛竹变型发生在CDS区域内的SNP数量占比均为 $2 \\%$ 左右，其中，同义突变占比为 $48 \\%$ 左右，非同义突变占比为 $51 \\%$ 左右。非同义突变率与同义突变率的比值大于1，预示着有正向选择效应。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b9f7963a1dcfa5d0dbd72b67bf0bd2a6e6a2220f86df91c949a081ef5aeb34a4.jpg",
+        "img_caption": [
+            "图1黄皮毛竹(R01)的SNP注释图",
+            "Fig.1SNP annotations pie of Phyllostachys edulis f. holochrysa (R01) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3InDel检测与注释 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.1InDel检测 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对4个毛竹变型InDel进行统计（表5），可以发现4个样品全基因组范围检测出的InDel总数范围为271648-292253，其中插入类型的突变总数略低于缺失突变总数；编码区检测出的InDel总数为4711-4877，其中，插入突变总数为缺失突变的 $67 \\%$ 左右。各样品中，全基因组范围内纯合突变数约为杂合突变数的2倍，编码区纯合突变数略低于杂合突变数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表5四个样品InDel统计表",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/501d84f4769232ef502d9ab474c9d410820ea9fb0daac8c0cd823823f771ed07.jpg",
+        "table_caption": [
+            "Table5 Summary of InDels detected in four samples "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编</td><td colspan=\"5\">编码区 CDS</td><td colspan=\"5\">基因组 Genome</td></tr><tr><td>号</td><td>插入</td><td>缺失</td><td>杂合</td><td>纯合</td><td>总数</td><td>插入</td><td>缺失</td><td>杂合</td><td>纯合</td><td>总数</td></tr><tr><td>ID</td><td>Insertion</td><td>Deletion</td><td>Het</td><td>Homo</td><td>Total</td><td>Insertion</td><td>Deletion</td><td>Het</td><td>Homo</td><td>Total</td></tr><tr><td>R01</td><td>2 991</td><td>1727</td><td>2 546</td><td>2 172</td><td>4718</td><td>139 538</td><td>143 229</td><td>94 439</td><td>188 328</td><td>282 767</td></tr><tr><td>R02</td><td>3 007</td><td>1729</td><td>2568</td><td>2168</td><td>4 736</td><td>139 023</td><td>142 221</td><td>94 810</td><td>186 434</td><td>281 244</td></tr><tr><td>R03</td><td>2 996</td><td>1715</td><td>2 572</td><td>2 139</td><td>4 711</td><td>134 641</td><td>137 007</td><td>96 117</td><td>175 531</td><td>271 648</td></tr><tr><td>R04</td><td>3071</td><td>1806</td><td>2 553</td><td>2324</td><td>4 877</td><td>144 687</td><td>147 566</td><td>92 976</td><td>199 277</td><td>292 253</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对4个样品各区域的InDeI长度进行统计发现，编码区存在较多的 $+ 1$ 、-1、+3、-3类型突变，而基因组范围存在较多的 $+ 1 、 - 1 、 + 2 、 - 2$ 类型突变。其中，数值代表InDel的长度 $( 1 0 \\mathsf { b p }$ 以内)；大于0为插入；小于0为缺失。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将4个样品的InDel进行两两比较，统计结果见表6。表中各数值为对应的横纵两样品之间的 InDel 数。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/bff1d16bcbc79163dea6a4c5b9495dd697a442547d60a4208fe9fb976e248ad7.jpg",
+        "table_caption": [
+            "表6毛竹变型间的InDel统计表",
+            "Table 6 Summary of InDels detected between variants of Moso bamboo "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号ID</td><td>R01</td><td>R02</td><td>R03</td><td>R04</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/0aee840a34a25769a1a0225a812f0240093b2692a6b15905bce2c51bc230411d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>R01</td><td colspan=\"3\">0</td><td></td></tr><tr><td>R02</td><td>86 523</td><td>0</td><td></td><td></td></tr><tr><td>R03</td><td>87 700</td><td>88 813</td><td>0</td><td></td></tr><tr><td>R04</td><td>80 450</td><td>83 204</td><td>86 660</td><td>0</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.2InDel注释 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对比毛竹参考基因组的基因、CDS位置等信息，注释各样品InDel位点的发生位置、是否为移码突变等，具体注释结果如图2所示。4个毛竹变型发生在编码区的InDel数量均在 $1 . 7 \\%$ 左右。移码突变的InDeI有可能会引起基因功能的改变。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ed1d601328ca44fe972949bee172bcf64b3ff055c4354e8d94e3504a43d0ac19.jpg",
+        "img_caption": [
+            "图2 黄皮毛竹(R01)InDel注释图",
+            "Fig.2InDel annotations pie of Phyllostachys edulis f.holochrysa (R01) "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4Sv检测与注释 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4.1 SV检测 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "检测4个样品与参考基因组间的插入(INS)、缺失(DEL)、反转(INV)、染色体内部易位(ITX)、染色体间易位(CTX)，得到的各类型sV数量统计见表7，其中，4个毛竹变型都表现为缺失类型的SV数量最多，其次为染色体内易位类型。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表7四个样品SV数量统计",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/72bde79aab11d61400d1a1b358beab3dc7a5888935e82aba1bd7bcb97a162218.jpg",
+        "table_caption": [
+            "Table 7Summary of SVs detected in four samples ",
+            "2.4.2 SV注释 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号</td><td>总数</td><td>插入</td><td>缺失</td><td>反转</td><td>染色体内易位</td><td>染色体间易位</td><td>其它</td></tr><tr><td>ID</td><td>Total</td><td>Insertion</td><td>Deletio n</td><td>Inversion</td><td>Internal chromosomal translocation</td><td>Translocation</td><td>Other</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>between</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>chromosomes</td><td></td></tr><tr><td>R01</td><td>83 901</td><td>17 212</td><td>33 078</td><td>2 346</td><td>4853</td><td>26 262</td><td>150</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>R02</td><td>77 275</td><td>15 183</td><td>32 946</td><td>1499</td><td>4 735</td><td>22 789</td><td>123</td></tr><tr><td>R03</td><td>80 479</td><td>18020</td><td>31 706</td><td>2 000</td><td>4 676</td><td>23 947</td><td>130</td></tr><tr><td>R04</td><td>89 754</td><td>19 541</td><td>34 613</td><td>1166</td><td>5133</td><td>29 142</td><td>159</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "检测4个样品SV发生位置信息，并对缺失（DEL）、插入（INS）、反转（INV）3种类型的结构变异注释进行注释，结果（表8)表明，4个毛竹变型在各区域分布的SV总体情况一致，注释到的变异基因数目以基因间区的缺失类型最多，其次为基因间区的插入类型。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表8四个毛竹变型结构变异注释结果统计表",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/912e6ee01fa9fe0bbd7a0c62047c8a379566902af342641cffedd33ef9c24434.jpg",
+        "table_caption": [
+            "Table 8SV annotations in four variants of Moso bamboo "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">编号 ID</td><td colspan=\"3\">外显子区Exon</td><td colspan=\"3\">内含子区Intron</td><td colspan=\"3\">基因间区Intergenic</td></tr><tr><td>缺失 Deletion</td><td>插入 Insertio</td><td>反转 Inversion</td><td>缺失 Deletion</td><td>插入 Insertio</td><td>反转 Inversion</td><td>缺失 Deletion</td><td>插入 Insertion</td><td>反转 Inversion</td></tr><tr><td>R01</td><td>2 258</td><td>n 837</td><td>237</td><td>961</td><td>n 389</td><td>66</td><td>29 859</td><td>15 986</td><td>2043</td></tr><tr><td>R02</td><td>2 129</td><td>707</td><td>176</td><td>990</td><td>333</td><td>42</td><td>29 827</td><td>14 143</td><td>1281</td></tr><tr><td>R03</td><td>2 114</td><td>953</td><td>205</td><td>942</td><td>427</td><td>44</td><td>28 650</td><td>16 640</td><td>1 751</td></tr><tr><td>R04</td><td>2303</td><td>968</td><td>193</td><td>984</td><td>437</td><td>30</td><td>31326</td><td>18 136</td><td>943</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.5变异基因功能注释与分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.5.1变异基因挖掘 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "分别统计4个样品的非同义突变的SNP以及CDS区发生InDel和SV的基因（表9），寻找可能存在功能变异的基因。在4个毛竹样品中，花毛竹（R04）基因组存在12 555个基因变异，其中，非同义突变SNP基因为5 563个，Indel基因为4006个，SV突变的基因为2986个，差异基因总数和SV突变基因数最多。在3类变异基因中，非同义突变SNP基因数最多，Indel基因数量次之，SV突变的基因最少。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/62d20756c4402765b68954fed0d9d0dd1d69a44659c349c201aedf7bec28e448.jpg",
+        "table_caption": [
+            "表9四个毛竹变型的变异基因统计表",
+            "Table 9 Summaryofgenevariationsin fourvariants "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号</td><td>非同义突变SNP基因</td><td>插入缺失基因</td><td>结构变异基因</td><td>总数</td></tr><tr><td>ID</td><td>Genes with Non-synonymous SNP</td><td>Genes with InDel</td><td>Genes with SV</td><td>Total</td></tr><tr><td>R01</td><td>5 405</td><td>3 905</td><td>2 903</td><td>12 213</td></tr><tr><td>R02</td><td>5 344</td><td>3 920 3 899</td><td>2 659</td><td>11 923</td></tr><tr><td>R03</td><td>5313</td><td>4 006</td><td>2 870</td><td>12 082</td></tr><tr><td>R04</td><td>5 563</td><td></td><td>2986</td><td>12 555</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.5.2变异基因的功能注释",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "黄皮毛竹、金丝毛竹、绿皮花毛竹和花毛竹注释到数据库中的变异基因数分别为：7575、7538、7476和7728。变异基因G0分类统计结果图（图3所示）中，显示出在3大基因功能分类体系（分子功能、细胞组件和生物过程)的56个分类内容中所对应的基因数和基因占比。其中，细胞组分分类中，与叶绿素合成相关的基因有2431个；生物过程分类中，参与类胡萝卜素合成过程的基因有75个，与花青素合成调控以及紫外光下组织中花青素积累的相关基因有80个。4个毛竹变型在相应的基因功能中的变异基因数目有差异，例如，花毛竹有21个与类胡萝卜素合成相关的基因，而绿皮花毛竹有17个相关基因，黄皮毛竹有18个相关基因，基因数量和种类的差异，可能引起相应的功能变化。深入研究叶绿素、类胡萝卜素和花青素合成相关基因以及这些差异基因的调控途径，有利于从DNA水平上解释秆色的变异。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/89419c29de06f5e0a17a0a47389af6b0dc397db4089d5e3f06ca4dd940aa7ee2.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "横坐标为GO的分类内容，纵坐标的左边为基因数占比，右边为基因数。1.代谢过程；2.细胞过程；3.对刺激的反应；4.生物调节；5.定位；6.定位确立；7.细胞组成或生物形成；8.分化过程；9.多细胞生物过程；10.繁殖；11.生殖过程；12.信号；13.多组织过程；14.生长；15.免疫系统过程；16.死亡；17.细胞增殖；18.生物粘附；19.节律过程；20.病毒繁殖；21.色素沉着；22.运动；23.细胞死亡；24.碳利用；25.细胞部分；26.细胞；27.细胞器；28.膜；29.细胞器部分；30.膜部分；31.高分子复合物；32.细胞外区域；33.膜内腔；34.细胞连接；35.细胞外基质；36.类核；37.病毒粒子；38.细胞外基质部分；39.细胞外区部分；40.病毒粒子部分；41.绑定；42.催化活性；43.运输活动；44.核酸结合转录因子活性；45.结构分子活性；46.电子载体活性；47.酶调节活性；48.活动分子传感器；49.抗氧化活性；50.受体活性；51.蛋白结合转录因子活性；52.营养库活性；53.翻译调节活性；54.金属伴侣活性；55.蛋白质标记；56.通道调节活性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "AbscissaisGOclasiicatin,theleftseofteodiateisperentageofne,andeightsidisnmberofgene.1.Metaboicoes; 2.Celuarprocess；3.Responsetostimulus；4Biologicalregulation；5.Localization；6.Establishmentoflocalization；7Celular componentorganizationorbiogenesis；8.Developmentalprocess；9.Multicelularorganismal process；10.Reproduction；11. Reproductiveprocess；12.Signaling；13.Multi-organismprocess；14.Growth；15.Immunesystemprocess；16.Death；17.Cell proliferati;ocaicocautaioo. 24.Carbonutilzai;.Cellpart;.Cellrgell;.embane;9Ogaellpartembanepart;1coleuar complex;32.Extracellargio;33Membran-enedlumen;34.Celljuco;35.Extracellaratrix;36.NueidViio; 38.Extracelatrixpart;39.Etraceargiopart;4Voart;4.din;4.Catalytcctiity4aspeciy44 Nucleicacidbndingtransctionfactoractivity;45.tructuralmoleculeactiviy;46Electroncariractivity47Enzegulator actvity;8.ularrauectiity4Atoidatctiity;ecetorctiityotedgtastacoi; 52.Nutrintreservoiractivity；53.ranslationrgulatoractivity54.Metallchaperoneactivity55.proteitag;56.Chaegulator activity. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图3黄皮毛竹(R01)变异基因的GO注释分类图",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Classification of Phyllostachys edulis f. holochrysa (RO1) gene variations compared with GO database by blast ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "变异基因COG注释分类图（图4）直观显示出COG功能分类条目上分别对应的频率，其 中，涉及到功能注释、转录、复制重组修复和信号转导机制的对应数值高。获得的功能注释 基因1630个，参与复制、重组和修复的基因数为369个，信号转导机制的基因数为291个， 转录的相关基因222个。 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A:RNA加工和修饰 RNA processing and modification B:染色质结构和力学 Chromatin structure and dynamics C:能源生产和转换 Energy production and conversion 750- D：细胞周期控制，细胞分裂，染色体分裂 Cell cycle control,celldivision,chromosome paritioing E:氨基酸转运与代谢 Amino acid transport and metabolism F:核苷酸转运和代谢 Nucleotide transportandmetabolism G碳水化合物的运输和代谢 Carbohydrate transport and metabolism H:辅酶转运和代谢 Coenzyme transport and metabolism I:脂质转运和代谢 Lipid transport and metabolism J:翻译，核糖体结构与生物发生 Translation,ribosomal structure andbiogenesis K:转录 Transcription   \n率 L:复制，重组和修复 Replication,recombination andrepair   \n频 M细胞壁/膜/包膜生物发生 Cellwall/membrane/envelope biogenesis N：细胞活性 Cell motility O：翻译后修饰，蛋白质周转，伴侣蛋白 Posttranslational modification,protein turmover, chaperones P：无机离子转运与代谢 Inorganic ion transport and metabolism 250- S:未知功能 Function unknown T:信号转导机制 Signal transduction mechanisms U：细胞内运输，分泌和囊泡运输 Intracellular traficking, secretion,and vesicular transport V：防御机制 Defense mechanisms W胞外结构 Extracellular structures 1 Y:核结构 Nuclear structure z：细胞骨架 Cytoskeleton ABCDEFGHIJKLMNOPQRSTUVWYZ Function Class 功能分类 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Clasificationof Phyllostachys edulisf.holochrysa (RO1)gene variations compared with COG database ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "KEGG数据库系统地分析4个毛竹变型的基因产物在生物学过程中的功能。以黄皮毛竹（R01）的缬氨酸、亮氨酸和异亮氨酸生物合成通路为例（图5），注释到57个基因参与该通路，其中23个变异基因。整个通路涉及不同的酶连接一系列生化反应形成，其中，框内的数字代表enzyme的号码，红色的框代表通路相关变异基因。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "氨酸、亮氨酸和异亮氨酸降解 Valine,LeucineandlsolucineDegradation Valine,eucine and isoleucine biosythesis 氨酸、亮氨酸和异亮氨酸生物合成！ L-Leucine 立 0 →LValine L-Isoleucine 4 4 1.4.1.9 2.6.1.422.6.1.6 1.4.1.232.6.1.42 1.43.22.6.1.42 4Methyl 3-Methy （S）-3-Me2xot 2-oxopentanoate 2-oxobutanoate 1.2.44 24.4 1.2.44   \n[1.27.7e OThPP [1277]2-Mtol, OThPP 2 OThPP 1.2.7.7 -hyroxypropyl-O Lipoamide-E Lipoamide-E 12.4.4 Lipoamide-E 1.244 1.3.1.4 butanoyl)- S-3-Methyl- 1.814S(2Moy 18.14S（2Mehy Dihydro- dihytrolipoamide-E Dihydro- diydrolipoamide-E dihyolpoamicde-E lipoamide-E 231.168 lipoamude-EO 23.1168 Dihytiro- 。 23.1.168 ? Bamnyge bhs Ieobty 3-Methylbutanoyl-CoA 4 butanoyl-CoA 1.3.8.41.3.87 1.3.8.7 1.3.8.11399.12 13.8.11399.121.3.8.7 3-Hytroxy- [1.3.99. isovaeryt0A217 3-Methybut-2-enoyl-CoA Methacrylyl-CoA ！ bu2-noy-A trans-2-Methy G 42.1.17 [4.2.1.17 0   \n3-Hytiroxyisovalerate 4.2.1.18 sobuty 2ethbCo 3-methylglutaryil.CoAY 3.12.4 1.1.1.351.11.178 Terpenoid backbone biosynthesis 2-Met 1 化台物生物 ace toacetyl-CoA ? 2.3.1.9 2.6.1.18 Propanoyl-CoA Acetoacetyl-CoA 2.6.1.22 Propanoate Pyrimidine 12.1312.3.1 metabolism mt代谢 31217 6.4.1.3 V Citrate cycle柠檬酸循环 Methylmalonate 4 6.2.1. (S)-Methyl- 立 Succinyd-CoA 8 5.4.99.2 (R)-Methylmalonyl-CoA 5.991my Biosynthesis of12-14and 6-membered macrolides 十二、十四和十六元 环大环内酯类生物合成 Biosymthesis of type II polyketide backbone I型聚酮骨架生物合成 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.5Pathwayof Phyllostachys edulis f.holochrysa gene variations compared with KEGG database by blast ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3讨论与结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1 讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "全基因组重测序可以在已知植物的基因组序列基础上，对其不同品种的基因组序列进行测序，从而找出个体与该物种间的差异性（Ley etal.,2008）。随着毛竹全基因组序列的公开发表(Pengetal.,2013)，研究毛竹不同变种或变型基因组序列差异成为可能。全基因组重测序可以检测个体的全部基因组序列，扫描出一些与该个体生长性状密切相关的变异位点（宋志芳等,2017）。毛竹的地下茎中单轴散生，其不同变异类型也都是散生竹。在毛竹自身的遗传基因漂移，以及长期的栽培措施和自然环境变迁等因素的影响下，毛竹种内产生了很多遗传变异，产生各种独特的结构形态，表现出丰富的园林观赏性状。其中，黄皮毛竹、花毛竹、绿皮花毛竹在竹秆颜色方面表现出不同程度的变异，使其具有更高的园林观赏价值。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "对4个毛竹变异类型全基因组重测序，初步统计分析了其基因组数据，与毛竹参考基因组进行比对，检测其SNP、InDeI和SV。SNP类型的变异分为转换和颠换两种，4个毛竹样品的转换/颠换（Ti/Tv）的比例都在3左右，说明转换类型比颠换类型更容易发生。SNP杂合比例为 $90 \\%$ 左右，说明样品有很高的杂合度，即同源染色体上SNP位点含不同类型的碱基比例高。InDel位点数同样能反映不同样品与毛竹基因组之间的差异，并且编码区的InDel会引起移码突变，影响基因功能。SV中缺失、插入、反转、易位4种类型的数量，反映出基因组水平上大片段的缺失、插入、倒置、易位等序列差异。通过生物信息学分析，比较不同秆色的变异类型在全基因组水平上的结构差异，并进行差异注释，从而为毛竹选育提供遗传基础，也为重要基因的功能研究提供有利依据。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "颜色变异是植物中较常见的表型变异，其中，水稻、拟南芥、菊花等多种植物中均有叶色变异的报道。据不完全统计，水稻叶绿体含量基因超过140个（赵绍路等，2018）。竹子中的色素分为3大类：叶绿素、花青素和类胡萝卜素。通过功能数据库比对，对4个毛竹变型的变异基因，进行基因功能注释和分析。GO数据库注释聚类反映了毛竹变型在不同功能组分类中基因数目和基因产物的属性，其中，与秆色变异有关的叶绿素、类胡萝卜素和花青素等色素合成相关基因作为重点关注对象进行分析。COG数据库注释了基因产物的直系同源分类，不同分类对应的基因数目差别很大，反映了不同条件下的生理或者代谢偏好等。KEGG数据库将基因和多种酶形成通路，有氨基酸生物合成、类胡萝卜素生物合成、类黄酮生物合成、萜类化合物的生物合成、植物激素信号转导、参与叶啉和叶绿素代谢等显著富集。其中，叶绿体、类胡萝卜素和花青素等色素合成相关通路，是与秆颜色相关的主要代谢通路。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "结合不同秆色毛竹变型的生物学和生理学特性，研究全基因组序列色素合成相关基因，有助于从基因水平上解析其秆色变异原因。有研究表明，毛竹不同变异类型在叶绿素含量、β胡萝卜素含量等生理指标中存在着显著性差异（陈建华等，2011），株型较大的花毛竹生理指标值比较小型的龟甲竹、绿槽毛竹大（晏育存，2011）。毛竹变型 ISSR 和AFLP分子标记分析表明，变型间的遗传变异程度较小（阮晓赛，2008）。在参考黄槽毛竹和黄皮花毛竹两个秆色变异毛竹变型的研究结果（牟少华等，2020）基础上，通过对黄皮毛竹等4个毛竹变异类型重测序，进行DNA水平的变异基因功能注释，可以分析基因产物在细胞中的代谢途径及功能，尤其是对黄酮类、类胡萝卜素、硝酸还原酶等合成通路的深入分析，为揭示相关代谢通路有关基因提供重要理论依据，对于探究毛竹变型秆色变异有重要意义。另外，颜色变异通常是一个不稳定的性状。例如，花毛竹在不同的生境条件下有可能变回全部绿色或者变成绿皮花毛竹，这表明竹类植物的颜色变异在遗传上不是一个稳定的性状，因此，从分子机制上探索颜色变异有其复杂性，其代谢调控还需要进一步地研究。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "采用第二代高通量重测序技术，对4个毛竹变型材料进行全基因组重测序研究，对其单核苷多态性（SNP）、小片段插入缺失（InDel）和结构变异（SV）进行分析和注释，筛选可能发生功能变异的基因。将变异基因与GO，COG，KEGG等功能数据库进行比对，每样品都有7000多个变异基因得到功能注释。GO注释分类包括细胞组件、分子功能和生物过程三个基因功能分类体系的56个功能组，在细胞组分方面，叶绿素合成相关基因有2431个；在生物过程方面，参与类胡萝卜素合成过程的基因有75个，参与花青素合成调控以及紫外光下组织中花青素积累的相关基因有80个。COG分类表明参与复制、重组和修复的基因数为369个，信号转导机制的基因数为291个，转录的相关基因222个。通过KEGG数据库系统地分析变异基因参与的黄酮类、类胡萝卜素等物质代谢合成途径。后续数据的深入分析将解析不同变异类型的基因家族和基因功能，初步阐析不同竹秆变异毛竹变型的分子遗传基础。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ASHBURNER M,BALL C,BLAKE J.et al.,200. Gene Ontology: tool for the unification of biology[J].Nat Genet, (25):25-29.   \nBAI H, CAO YH, QUAN JZ,et al.,2013.Identifying the genome-wide sequence variations and developing new molecular markers for genetics research by resequencing a landrace cultivar of foxtail milet[J]. PLoS ONE, 8(9): 274-275.   \nBAI Q,HOUD,LIL,etal.,2016. Genome-wide analysis and expresion characteristics of small auxin-up RNA (SAUR) genes in Moso bamboo (Phyllostachys edulis)[J]. Genome,60(4): 325-336.   \nCHEN DM, CHEN Z, WU M, et al.,2017. Genome-wide identification and expresson analysis of the HD-Zip gene family in Moso bamboo (Phyllostachys edulis)[J].JPlant Growth Regul,36(2): 323-337.   \nCHEN JP,YAN CY,WANGYM,et al.,2011.Physiological characteristics of 6diferent variation type bamboo's leaves [J].Jof Cent SUniv ofFor&Tech,31(4):70-73.[陈建华，晏存育，王艳梅，等，2011.6种不同变异 类型毛竹叶片的生理特性研究[J]．中南林业科技大学学报，31（4）：70-73.]   \nCHEN K, WALLIS JW,MCLELLANL,et al.,2009. BreakDancer: an algorithm for high-resolution mapping of genomic structural variation [J]. Nat Meth,6(9): 677-681.   \nCINGOLANIP,PLATTS A, WANGLL,et al.,2012.A program forannotating and predicting the effects of single nucleotide polymorphisms,SnpEff: SNPs in the genome of Drosophila melanogaster strain wl118; iso-2; iso-3 [J]. Fly, 6(2): 80-92.   \nGORDON PMK,DIMNIK L,LAMONT R,et al.,2012. Optimizing genotype quality metrics for individual exomes and cohort analysis [J].BMC Proc,6: 21-22.   \nJEREMY S, CANNON SB,JESSICA S,et al.,2010. Genome sequence of the palaeopolyploid soybean [J]. Nat, 463(7278): 178-183.   \nJIA XP,ZHANG B,QUANJZ,etal.,2019. Genome-wide association analysis of plant height in foxtail millet under different photoperiod conditions [J].Acta Agric Boreai-Sin,34(4):16 -23.[贾小平，张博，全建章，等， 2019.不同光周期条件下谷子株高的全基因组关联分析[J].华北农学报，34（4）：16-23.]   \nJIANG ZH,2002. Bamboo and ratn in the world [M]. Shenyang: Liaoning Science and Technology Press: 3-5. [江泽慧，2002．世界竹藤[M]．沈阳：辽宁科学技术出版社：3-5.]   \nLEY TJ, MARDIS ER,DING L, et al., 2008.DNA sequencing of a cytogenetically normal acute myeloid leukaemia genome[J]. Nature, 456(7218): 66-72.   \nLI H,DURBIN R, 2O09. Fast and accurate short read alignment with Burrows-Wheeler transform [J]. Bioinformatics,25(14): 1754-1760.   \nLINT, ZHUG, ZHANG J,et al.,2014. Genomic analyses provide insights into the history of tomatobreeding[J]. Nat Genet, 46(11): 1220-1226.   \nLIU J,CHENG ZC,GAO J,2019. Expression analysis and regulation network identification of the CONSTANS-Like gene family in Moso bamboo (Phyllostachys edulis) under photoperiod treatments [J]. DNA Cell Biol, 6:17-18.   \nMA NX,LAI GH, ZHANG PX,et al.,2014. The genus Phylostachys in China [M]. Hangzhou: Zhejiang Science and Technology Pres:92-107.[马乃训，赖广辉，张培新，等，2014．中国刚竹属[M]．杭州：浙江科学技 术出版社：92-107.]   \nMCKENNA A, HANNA M, BANKS E, et al.,2010.The genome analysis tookit: A mapreduce framework for analyzing next-generation DNA sequencing data [J]. Genome Res,20(9): 1297-1303.   \nMINORU K, SUSUMU G, SHUICHI K, et al.,2004. The KEGG resource for deciphering the genome [J]. Nucl Acid Res,32(22): 277-280.   \nMU SH,LI XP,LI J, et al.,2020.Analysis on the culm shape and color variation of 4 Moso bamboo (Phyllostachys edulis) variants by whole genome re-sequencing[J]. Huabei Acta Agric Boreal-Sin,35(4):1-8 [牟少华，李雪平，李娟，等，2020.全基因组重测序分析4个毛竹变型的秆形和秆色变异[J]．华北农学 报，35（4）：1-8.]   \nPAN F, WANG Y,LIU H, et al.,2017. Genome-wide identification and expression analysis of $S B P$ -like transcription factor genes in Moso bamboo (Phyllostachys edulis)[J]. BMC Genomics,18(1): 486-489.   \nPENG ZH,LUY,LILB,el al,2013.The draft genome of thefast-growing non-timber forest species Moso bamboo (Phyllostachys heterocycla) [J]. Nat Genet, 45(4): 456-461.   \nQI X,LI MW, XIE M,et al.,2014.Identification of anovel salt tolerance gene in wild soybean by whole-genome sequencing [J]. Nat Comm, 5: 4340-4342.   \nSONG ZF,LUCL,CAO HZ,2017. Research progress on whole genome resequencing in animal breeding [J]. Anim Husb&Vet Med,49(11):145-148[宋志芳，芦春莲，曹洪战，2017．全基因组重测序及其在动物育种 的研究进展[J]．畜牧与兽医，49（11）：145-148.]   \nSUN H,LIL,LOU Y,et al.,2016. Genome-wide identification and characterization ofaquaporin gene family in Moso bamboo (Phyllostachys edulis)[J].Mol Biol Rep,43(5): 437-441.   \nTAKAGI H, ABE A, YOSHIDA K, et al., 2013. QTL- seq: rapid mapping of quantitative trait loci in rice by whole genome resequencing of DNA from two bulked populations [J]. Plant J, 74(1):174-183.   \nTATUSOV RL, GALPERIN MY, NATALE DA, et al., 2000. The COG database: a tool for genome-scale analysis of protein functions and evolution [J]. Nucl Acid Res,28(1): 33-36.   \nWU H,LV H,LIL, et al.,2015. Genome-wide analysis of the AP2/ERF transcription factors family and the expression patterns of DREB genes in Moso bamboo(Phyllostachys edulis)[J]. PLoS ONE,10(5): e0126657.   \nXIE LH,LI XY, Hou D,et al., 2019. Genome-wide analysis and expresson profiling of the heat shock factorgene family in Phyllstachys edulis during development and in response to abiotic stresses [J]. Forests, 10(2):100-105.   \nYAN CY,2011. Diffrent variation type's bamboo with bamboo'S biology physiology characteristic [D]. Changsha: Central South University of Forestry&Technology:39-43.[晏育存，2011．毛竹不同变异类型的生物学与生理 学特性研究[D]．长沙：中南林业科技大学：39-43.]   \nYIN YP,DING QJ,LUO JW, et al., 2020. Genomic sequencing analysis of Magonolia officinalis based on Pacbio's third-generation sequencing technology.[尹彦棚，丁乔娇，罗加伟等，2020.基于Pacbio 第三代测 序技术的厚朴基因组测序分析[J].http://kns.cnki.net/kcms/detail/45.1134.Q.20200415.1147.008.html.]   \nYUAN XS,20o8. Genetic variations of Phyllostachys edulis provenance and cultivars by ISSR and AFLP [D]. Hangzhou: Zhejiang Forestry College:30-31.[阮晓赛,2008．毛竹种源及栽培变种遗传变异的 AFLP 和 ISSR 分析[D]．杭州：浙江林学院：30-31.]   \nZHANG SP, QIU SL, ZHENG YY,et al.,2017.The purple Abelmoschus esculentus transcriptome as asource for gene sequence information[J].Jof Nucl Agric Sci15(4): 643-653.[张少平，邱珊莲，郑云云，等，2017．紫 色黄秋葵转录组功能基因测序及分析[J]．核农学报，15（4）：643-653.]   \nZHANGYW,LIW,ZHANGLF,et al.,2016.Genome-wide variations of soybean cultivar Qihuang 34 by whole genome resequencing[J].Chin JOil Crop Sci,38(2):150-158.[张彦威，李伟，张礼凤，等，2016．基于重测 序的大豆新品种齐黄34 的全基因组变异挖掘[J].中国油料作物学报，38（2）：150-158.]   \nZHAO SL,LIU K, WANBJ, et al.,2018.Advances in research on rice leaf color mutants[J/OL].Barley and Cereal Sci,35(6):1-6.[赵绍路，刘凯，宛柏杰，等，2018．水稻叶色突变研究进展[J/OL]．大麦与谷类科学， 35(6）:1-6.]   \nZHOU Z, JIANG Y,WANG Z,et al.,2015. Resequencing 302 wild and cultivated accessons identifies genes related to domestication and improvement in soybean [J].Nat Biotechnol,33(4): 408-414.   \nZIDANI S,FERCHICHI A, CHAIEB M,2005. Genomic DNA extraction method from pearl milet (Pennisetum glaucum) leaves [J].AfrJBiotechnol,4: 862-866. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

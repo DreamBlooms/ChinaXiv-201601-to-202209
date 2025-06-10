@@ -1,0 +1,193 @@
+# 注意过程中的行为振荡现象
+
+章小丹」 张沥今」丁玉珑²曲 折」(1中山大学心理学系，广州 510006）（²华南师范大学心理学院，广州 510006)
+
+摘要行为振荡是个体心理加工过程的周期性动态变化在行为上的表现。通过高时间分辨率的行为采样方法，行为振荡研究为探索视觉注意的时间动态结构提供了一个新的视角。各种不同的注意任务中都发现存在行为振荡现象。大量行为振荡证据表明，注意过程存在两种主要的节律成分：反映注意抑制的 $\mathfrak { a }$ 节律（ $8 { \sim } 1 3 \mathrm { H z }$ ）和反映注意转移的0节律（ $\scriptstyle 4 \sim 8 \mathrm { ~ H z }$ ）。这些结果有助于揭示注意的时间动态结构，也为序列搜索理论和平行搜索理论之间的争论提供了新的分析思路。行为振荡的节律特征会受到一些潜在因素（如任务难度、线索有效性)的影响。行为振荡和神经振荡在某些任务中表现出相同的节律成分，提示两者涉及了相似的心理过程。后续研究应进一步关注各种不同的注意控制过程以及多模态交互任务，深入探索其行为振荡特点，以更好地揭示注意的动态加工过程。
+
+关键词行为振荡；注意；节律性采样；神经振荡
+
+# 1引言
+
+注意（attention）是一项重要而基本的心理过程，指个体通过对外界刺激进行优先性排序来增强对特定位置或特定客体的加工，并忽略其他干扰信息。这种优先性排序有助于个体更好地处理外界刺激对有限认知资源的竞争，从而更好地完成当前的任务。以往的研究发现，注意存在一种节律性、离散型的时间动态结构（rhythmic temporal structure;Landau&Fries,2012;VanRulen,2016)，即通过在时间维度上不断重新分配注意资源，实现对多个空间位置或刺激的加工（贾建荣等,2019)。
+
+早期关于注意节律性采样的证据主要来自神经生理学研究，表现为与注意相关的神经振荡（neural oscillations）现象。大量神经生理学研究和脑电（electroencephalography,EEG）研究发现： $\textcircled{1}$ （20 $\gamma$ 频带 $( 3 0 { \sim } 7 0 \mathrm { H z } )$ 的神经振荡能促进注意和知觉加工（Siegel et al.,2008;Wyart& Tallon-Baudry,2009)； $\textcircled{2}$ 前额眼动区（FrontalEyeFields,FEF）的 $\beta$ 频带 （ $1 8 { \sim } 3 0 \mathrm { H z }$ ）神经振荡与注意转移过程有关（Fiebelkorn etal.,2019）； $\textcircled{3}$ （ $\alpha$ 频带（ $8 { \sim } 1 3 \mathrm { H z }$ ）的神经振荡反映了视觉注意的抑制性（Harris et al.,2018;Mo et al.,2011;Wyart & Tallon-Baudry,2009），体现为 $\alpha$ 波振幅的降低与皮层兴奋性的增强有关，而 $\mathfrak { a }$ 波振幅的增强与皮质兴奋性的抑制有关（Pfurtscheller&Da Silva,1999）； $\textcircled{4}$ 0频带（ ${ 4 { \sim } 8 \mathrm { H z } }$ ）的神经振荡可以调节个体的知觉、记忆和注意过程（Luo etal.,2013)。这些研究从神经活动层面揭示了注意资源分配的时间动态结构。
+
+近年来，许多研究者通过优化行为研究方法，在行为层面上同样发现了与神经振荡类似的注意过程节律性现象。比如，有研究表明（VanRullen etal.,2007)，在多客体搜索任务中，即使被试对持续呈现的单个刺激进行加工，注意的焦点也会出现节律性的“闪烁”（blinkingspotlight)。这种行为表现称为行为振荡（behavioraloscillations)，指当注意一个位置或多个位置的时候，注意的探照灯可通过在时间上灵活地分配资源，离散地、节律性地对目标刺激进行采样。
+
+本文将综述近年来关于注意的行为振荡的研究方法、研究成果及影响机制，并探讨注意加工过程中行为振荡和神经振荡的联系，最后对注意的行为振荡领域未来的可能发展方向提出一些建议。
+
+# 2行为振荡的研究方法
+
+# 2.1高时间分辨率的心理物理法
+
+行为振荡的相关研究通常以高时间精度的心理物理测量作为研究方法，主要包括以下几个步骤：
+
+首先，通过重置注意相位（phaseresetting）进行时间校准。通常来说，研究者会在实验中提供一个非目标的突显刺激，称为重置相位事件（phase-resetting event; Landau& Fries,2012)，用于捕获个体的注意并作为重置注意振荡的时间参考。图1中的t0时刻为重置相位事件出现的时刻。重置相位事件的出现使得振荡的高兴奋状态和低兴奋状态的出现时间在实验中保持一致（图1的右半部分)，实现心理动态变化过程的同步化（武侠等,2018)，从而完成时间上的校准。
+
+![](images/3435d71bd21703a0555c2e33123a3482f7d9d96a249d169c10286d9cf1d5254c.jpg)
+
+图1重置注意相位及设置随机采样点。t0为重置相位事件出现时刻。重置相位事件出现前（左半部分)，不同试次的注意振荡（不同颜色线）之间不存在明确的相位关系。重置相位事件出现之后（右半部分)，振荡的高兴奋状态和低兴奋状态的出现时间在实验中保持一致，实现心理动态变化过程的同步化。t1、t2、t3、t4为随机设置的采样点，不同时刻的采样数据反映了注意加工过程的不同行为反应，当采样点足够多时，个体的行为反应及其心理加工过程将趋于同步化。
+
+其次，提高行为数据的时间分辨率。传统的行为研究仅在较为粗略的时间尺度上评估注意过程，因此无法发现行为表现中可能存在的快速波动现象（Song etal.,2014)。为了探讨个体注意的动态变化过程，需要在相位重置事件和目标刺激之间设置不同的时间间隔（stimulus onset asynchrony,SOA），更精细地对目标反应行为进行采样（Remington& Pierce,1984)。图1中的t1、t2、t3、t4时刻为随机设置的采样点。从图中可以看到，在重置注意相位后，不同时刻的采样数据反映了注意加工过程的不同行为状态。因此，当采样点足够多时，个体的行为反应及其心理加工过程将趋于同步化，使得行为振荡现象能够解释相关心理加工过程的动态变化（杨阳等,2019）。
+
+最后，利用处理电生理信号常用的时频分析方法，对高时间分辨率的行为数据进行分析。第一步，对数据进行被试内标准化（normalization）处理，以消除不同个体间的运动反应差异（图2A)。分别计算每个被试的所有试次数据的均值和标准差，将不同 SOA和不同实验条件下每个试次的行为指标分别减去均值再除以标准差，得到标准化后的数据。第二步，进行去趋势化（detrending）处理，除去信号中经典的注意和期望效应（图2B)。先使用最小二乘法拟合一条趋势曲线，或者在每个条件下，计算 $3 0 0 \mathrm { { m s } }$ 移动窗口（以 $2 0 \mathrm { m s }$ 为步长）的平均反应时，得到整个时间进程对应的趋势信号（Song etal.,2014)；再在对应时间进程的数据中减去所得的趋势信号，得到去趋势的数据曲线。第三步，通过傅里叶变换，将时域数据转换为频域数据（图2C)。接下来，对频域数据进行各种分析。
+
+![](images/72d2373bb8ffe3a72e81f0e1125e30b2a3ffcd5da13d3f4353a4b08abd7409f7.jpg)  
+图2行为数据的时频分析过程示例。A：标准化处理结果。B：去趋势化结果。C：傅里叶变换结果。[图引 用并修改自Song等人(2014)]
+
+这种高时间分辨率的行为研究方法并不要求周期性地呈现外界刺激，表明注意的节律性特征是内生的，这为注意的节律性、离散型的时间动态结构提供了有力的实验证据（贾建荣等,2019)。此外，通过该行为研究方法获得的数据，在进行低通滤波后同样发现了传统行为研究中的结果（如返回抑制现象)，表明这种新的实验设计不会影响经典的注意行为，在重现注意效果方面是稳定和可靠的（Li etal.,2020; Song etal.,2014）。
+
+# 2.2两种常用的研究范式
+
+行为振荡研究通过将上述高时间精度的采样方法同经典的行为实验范式相结合，来探究注意的时间动态结构。最常用的两种行为范式是线索-目标范式（cue-target paradigm; Posner,1980）和视觉搜索（visual search;Treisman&Gelade,1980）。
+
+![](images/0876ca65f6f66ed0c83080d88a82c310448db9a17f2b92c1507d81e6f1b00531.jpg)
+
+图3两种常用的行为振荡研究范式。A：线索-目标范式示意图。线索的出现（外周框加粗或中央注视点变大）将被试的注意引导到特定的空间位置（外周或中央)，从而完成相位重置；一定时间的空屏后，被试对紧接着出现的目标刺激进行反应。[图引用并修改自Chica等人(2014)]。B：视觉搜索范式示意图。搜索序列出现在屏幕的左下方或右下方完成注意相位重置；随后在搜索序列的任意两个位置上出现两个探针以及后续的掩蔽刺激；在反应阶段中被试需要先判断搜索序列中是否出现目标刺激（反应1)，接着在呈现的一行刺激中识别出两个探针（反应2)。[图引用并修改自Dugue等人(2015)]。在上述A、B两种任务范式中，在重置相位事件（线索-目标范式中的线索，或视觉搜索范式中的搜索序列）呈现后的一定长度的时间窗内设置不同的S0A来采集被试的行为数据，每个时间点的数据反映了被试在重置注意相位后对应时刻的任务表现；任务表现越好，表明在该时刻下被试分配给目标刺激更多的注意资源。C：视觉搜索范式结果示意图。其中 P1表示分配最多注意的位置的探针报告率，P2表示分配最少注意的位置的探针报告率；由图中可知，在不同SOA条件下均存在 $\mathsf { P 1 } \neq \mathsf { P 2 }$ ，表明注意在两个空间位置间的分配是不均匀的，即被试一次只能加工一个空间位置上的刺激。[图引用并修改自Dugué等人(2015)]
+
+线索-目标范式如图3A所示，主要用于探究空间注意和客体注意问题。首先，线索作为重置相位事件出现，将被试的注意引导到特定的空间位置（外周或中央)，完成注意相位重置；而后被试需要对紧接着出现的目标刺激进行反应。研究者通过在线索和目标刺激之间设置不同的 SOA，可以对被试在相位重置后（即线索出现后）不同时刻的注意状态进行精细采样（如，SOA为 50ms 时的任务表现反映了被试在线索出现后 50ms 的注意状态)。在整个实验过程中，要求被试始终注视中央注视点。经典的视觉注意研究在使用线索-目标范式时发现了早期易化效应和晚期抑制效应。早期易化效应指的是当目标刺激呈现在提示位置上时，被试的反应较快。当使用中央线索时，易化效应通常发生在SOA为 $3 0 0 \mathrm { { m s } }$ 的条件下，并且可以持续几秒（Posner,1980)；而使用外周线索时，这种效应可以在 SOA为 50ms 时观测到，通常在 $3 0 0 \mathrm { { m s } }$ 以后消失（Posneretal.,1985)。晚期抑制效应则指在外周无预测性线索条件下，被试对提示位置上出现的目标刺激反应较慢，也称返回抑制（inhibition of returm,IOR)，通常当 SOA大于 $3 0 0 \mathrm { { m s } }$ 时被观测到（Posneretal.,1985)。这两种效应均反映了视觉加工过程中注意资源的分配不是绝对平均的；多个加工对象由于其物理特征、空间位置或出现时间的不同，被注意选择或抑制的程度也不同，彼此之间相互竞争注意资源，体现了注意的竞争性。
+
+与线索-目标范式相比，视觉搜索范式更接近于日常生活中的注意分配问题（Eckstein,2011)，其示意图如图3B所示。首先，包含四个刺激的搜索序列出现在注视点的左下方或右下方，将被试的注意引导到对应位置，完成注意相位重置；根据实验设置的不同，搜索序列呈现的位置及包含的刺激数目可能不同，但是所有刺激在空间位置上彼此不重叠；一定时间的空屏后，在搜索序列出现过的任意两个位置上出现两个探针，而后在这两个位置上呈现掩蔽刺激；最后，在反应阶段被试需要先后完成两个任务，一是判断搜索序列中是否出现目标刺激（如字母“T"，反应1)，二是在紧接着呈现的一行刺激中识别出两个探针（使用鼠标点击反应，反应2)。在整个实验过程中，要求被试始终注视中央注视点。视觉搜索范式使用探针识别任务（反应2）的正确率作为衡量被试注意分配的行为指标，通过构建公式可计算出注意在两个探针对应的两个位置的分配情况（如图3C所示，P1：分配最多注意的位置，P2：分配最少注意的位置；详见Duguéetal.,2015)。若 $\boldsymbol { \mathrm { P 1 } } = \boldsymbol { \mathrm { P 2 } }$ ，表明注意在两个空间位置间是均匀分配的，即被试可以同时加工两个空间位置上的刺激；若 $\boldsymbol { \mathrm { P 1 } } \neq \boldsymbol { \mathrm { P 2 } }$ ，表明注意分配是不均匀的，即被试一次只能加工其中一个位置上的刺激。研究者通过在搜索序列和探针之间设置不同的 SOA，可以对被试在相位重置后（即搜索序列出现后）不同时刻的注意分配状态进行精细采样（如，当SOA为 $5 0 \mathrm { m s }$ 时，P1和P2的大小关系反映了被试在搜索序列出现后50ms时，注意资源在两个位置间的分配是否均匀)。
+
+# 3 不同注意任务中的行为振荡
+
+# 3.1空间注意中的行为振荡
+
+Landau 和Fries（2012）通过空间线索范式首次揭示了空间注意过程中的行为振荡现象（图4A)。在该研究中，被试需要注意屏幕左右两侧呈现的光栅刺激，并对可能出现在其中一个位置上的目标刺激进行视觉探测。结果显示:若空间上无信息的相位重置事件(即线索)
+
+出现在右侧屏幕，被试对目标刺激的反应正确率呈现约 $4 \mathrm { H z }$ （0节律）的振荡模式；若线索出现在左侧屏幕，该行为振荡的频率则为 $6 { \sim } 1 0 \mathrm { H z }$ （ $\mathfrak { a }$ 节律)。同时，被试对两个空间位置的注意呈现反相位的周期性模式，且这种相位相反的周期性采样模式只在重置相位事件之后出现，表明注意对空间上两个不同位置存在交替性加工过程。
+
+![](images/30d4791d332ae43fad0540e9a6688224fdff71a82ee0380494648b80a86e8b16.jpg)
+
+图4空间注意中的行为振荡。A：Landau 和Fries（2012）的空间线索范式结果示意图。实验中被试需要在双侧呈现的光栅刺激中检测目标刺激的出现；红线代表刺激出现在线索同侧，蓝线代表刺激出现在线索异侧，不同颜色的水平线段指示对应条件下出现峰值振幅的频率区间；极坐标图表示两个条件（同侧或异侧）出现峰值振幅的频率区间的平均相位关系。结果发现当线索出现在右侧屏幕（左图)，被试的反应正确率呈现约 $4 H z$ （红线： $3 . 5 \widetilde { \ } 4 . 1 2 \mathsf { H z }$ ，蓝线： $4 . 1 2 \widetilde { \ } 4 . 8 \mathsf { H z }$ ）的振荡模式，当线索出现在左侧屏幕 (右图)，被试的反应正确率呈现 $6 ^ { \sim } 1 0 ~ \mathsf { H z }$ （红线： $6 . 2 \widetilde { \ } 7 . 4 5 \ \mathsf { H z }$ ，蓝线： $9 . 4 \widetilde { \ } 9 . 9 5 \ \mathsf { H z }$ ）的振荡模式，且左右两侧刺激的正确率存在反相位振荡关系（相差 $2 2 2 ^ { \circ }$ ，黑色实线)，揭示了空间注意中的行为振荡现象。B：Song等人（2014）发现的α脉冲示意图。在行为数据中观察到 $\mathtt { a }$ 脉冲（约 $8 ^ { \sim } 2 0 ~ { \mathsf { H z } }$ ）成分以θ节律 $( 3 ^ { \sim } 5 ~ \mathsf { H z }$ ，约每 $3 0 0 m s$ 一次）在两个空间位置间切换。
+
+Song 等人（2014）进一步考察空间注意过程中被试反应时的行为振荡现象，结果同样发现了注意在两个空间位置间 $3 { \sim } 5 \operatorname { H z }$ （0节律）的节律性转移过程（见图2C)。更重要的，Song 等人（2014）首次在行为数据中观察到 $\mathfrak { a }$ 振荡成分（ $8 { \sim } 2 0 \mathrm { H z }$ ）以0节律（ $3 { \sim } 5 \mathrm { H z }$ ，约每 $3 0 0 \mathrm { { m s } }$ 一次）在两个空间位置间切换（图4B)，即 $\alpha$ 振荡能量和0振荡相位的耦合现象，表明大脑可能是通过切换对两个空间位置的抑制，从而实现对空间位置的节律性采样。这与脑电实验中发现的 $\alpha$ 频带神经振荡的抑制作用一致(Canolty et al.,2006;Harris,et sl.,2018),反映了注意的抑制作用。
+
+# 3.2客体注意中的行为振荡
+
+经典的客体注意研究表明，当空间线索出现在同一物体的某一部分时，由空间线索诱发的优先处理会传递到同一物体的未提示位置上(Lamy&Egeth,2002)。Fiebelkom 等人（2013）使用经典的双矩形范式，在空间上设置“线索提示位置”、“同客体非线索提示位置”和“等距离异客体位置"三种位置条件(图5A),探究客体注意过程中反应正确率的行为振荡现象。结果显示：在同一客体上，空间注意和客体注意过程中的采样率均为 $8 \mathrm { H z }$ ，而注意在不同客体间转移的采样率为 $4 \mathrm { H z }$ （图5B；左)，且在两个客体间存在显著的反相位关系（图5B；右)。该实验结果揭示了注意采样过程的节律性及采样频率的大小，同时也区分了空间注意和客体注意的不同采样频率，表明注意不仅可以在不同空间位置上的不同客体间进行周期性转移，也可以在同一客体内部不同空间位置间进行周期性转移。这从行为层面揭示了空间注意和客体注意过程的共同加工机制。
+
+![](images/af3731fd7742bc74f4bf25a9cf23f1d0c45b96e73002604800991b675e6f3469.jpg)
+
+图5客体注意中的行为振荡。A：双矩形范式示意图。在线索提示某一位置后，目标刺激可能出现在两个矩形的任一端点位置（共四个位置)，被试需要对目标刺激的出现进行反应；数字“1”“2”“3”标志的位置分别表示“线索提示位置”、“同客体非线索提示位置”和“等距离异客体位置”三种位置条件，用于区分空间注意和客体注意的振荡频率。B：双矩形范式的结果示意图。虚线表示对应条件下的统计显著性边界;极坐标图表示位置“2”“3”的检测率的平均相位差（箭头， ${ \mathsf { p } } < { \mathsf { . 0 5 } } )$ 。结果表明：当目标刺激出现在位置“1”“2”时，被试的行为反应呈现约 $8 H z$ 的振荡模式，而当目标刺激出现在位置 $^ { 6 6 } 3 ^ { 3 3 }$ 时，行为振荡频率为约 $4 H z$ ；并且位置“2”和“3”的检测率的行为振荡存在显著的反相位关系。该结果既揭示了注意采样过程的节律性，也区分了注意基于空间和基于客体转移的不同采样频率。[图引用并修改自Fiebelkorn等人(2013)]
+
+# 3.3特征注意中的行为振荡
+
+尽管基于特征的注意和基于空间的注意在对神经元集群的响应幅度和相关结构有相似的影响（Cohen＆ Maunsell,2011)。但二者之间存在一个重要区别：基于特征的注意并不特异于目标对象所处的特定位置（Serences&Boynton,2007）。
+
+Re 等人（2019）通过构造空间位置重叠的、由颜色和运动方向共同定义的两个刺激，证明了非空间的特征注意的采样过程同样具有节律性。如图6A所示，对两个重叠刺激的任务表现呈现 $4 \mathrm { H z }$ 左右的振荡频率，表明基于特征的注意过程表现出与空间注意类似的节律性采样现象。但是，与空间上节律性采样不同的是，对两个重叠刺激的采样节律并不存在严格的反相位关系（图6A；右)，两个刺激出现峰值振幅的频率区间的平均相位关系呈现均匀分布，表明对两个刺激的采样时间关系存在个体间的异质性。此外，该实验范式下被试对单个刺激的任务表现呈现 $8 \mathrm { H z }$ 左右的振荡频率（图6B)。对单个刺激表现出的 $8 \ : \mathrm { H z }$ 左右的振荡频率被认为反映了个体知觉环境的基本周期（Landau&Fries,2012)，即每 $1 2 5 \mathrm { m s }$ 左右进行一次知觉采样活动，而同样条件下对两个刺激所表现出来的 $4 \mathrm { H z }$ 振荡频率可以看作是频率为 $8 \ : \mathrm { H z }$ 的注意资源在两个刺激之间的分配；这一结果为早期关于知觉周期和注意的节律性采样之间的关系的讨论提供了行为证据（Reetal.,2019）。
+
+![](images/82123941c3ef038c8ca54ad8b1104be4256a37aaa3bc85358c0ab0a2a13523ce.jpg)
+
+图6特征注意中的行为振荡。A：双刺激及结果示意图。空间位置重叠的、由颜色和运动方向共同定义的两个刺激先后出现，被试需要在第二个刺激出现时进行反应。阴影部分表示标准误区间，不同颜色的水平线段指示对应条件下出现峰值振幅的频率区间；极坐标图表示两个条件出现峰值振幅的频率区间的平均相位关系(红色实线)。结果表明：当同一空间位置上存在两个特征刺激时，被试的行为反应呈现约 $4 \ H z$ 的振荡模式，对两个刺激的采样节律并不存在严格的反相位关系。B：单刺激及结果示意图。当只存在单个刺激时，行为振荡频率为约 $8 H z$ ，这可能是个体知觉环境的基本周期。[图引用并修改自Re等人(2019)]
+
+# 3.4视觉搜索中的行为振荡
+
+多客体搜索问题一直以来存在平行搜索还是序列搜索的争论，这本质上是关于视觉信息采样过程中注意的空间分配方式的讨论。周期性采样的观点（Dugue etal.,2015）认为，注意资源在不同空间位置之间周期性转移，反映了注意在空间上的不均匀分配；而连续性采样的观点（Jensen&Vissers,2017）则认为注意资源可以被同时投放到多个空间位置上，同时
+
+加工多个位置的信息。
+
+Dugué等人（2015）在视觉搜索任务（图3B）中发现，注意资源在空间上的分配并不是均匀的，某些刺激所在的空间位置能够获得更多的注意，并且这种不均匀的注意分配在时间上表现出约 $7 \mathrm { H z }$ 的周期性（图7A)。Dugué 等人（2017）进一步对比了被试在特征搜索（feature search，目标刺激由单一特征定义，见图7B左）和联合搜索（conjunction search，目标刺激包含多个特征，见图7B右）任务中的表现：在两种搜索任务中，注意在给定的四个空间位置上的分布都是不均匀的，并且随时间做周期性调整。具体而言，特征搜索以 $1 2 \mathrm { H z }$ 左右为主（图7C左)，联合搜索以 $5 \mathrm { H z }$ 左右为主（图7C右)。研究者认为，联合搜索任务中 ${ 5 } { \sim } { 7 } \mathrm { { H z } }$ 的周期性反映了注意的节律性采样，而特征搜索任务中 ${ 8 { \sim } 1 4 \mathrm { H z } }$ 的周期性反映的则是以自发、持续的方式对视觉信息进行采样的感觉节律（Dugué etal.,2017;VanRullen,2016)。
+
+![](images/876935f2398e11f674447673b214289b7693c9ae7d27d1db2cba94c8135aed5c.jpg)  
+图7视觉搜索中的行为振荡。A：Dugue等人（2015）的视觉搜索任务结果示意图。对图3C中的P1和 P2的差异值进行快速傅里叶变换，结果发现约 $7 H z$ 的行为振荡现象。B：Dugué等人（2017）在视觉搜索任务中使用的搜索序列示意图。特征搜索任务的刺激(左）由单一特征(方向)定义，联合搜索任务的刺激（右)包含多个特征（方向、密度)。C：Dugue等人（2017）的视觉搜索任务结果示意图。特征搜索的采样频率以$1 2 H z$ 左右为主 (左)，联合搜索则以 $5 H z$ 左右为主（右)。A、C图中背景颜色的亮度表示在零假设条件下进行的bootstrap 统计检验的显著性，水平黑线表示 bootstrapping 得到的平均振幅，水平虚线表示 $p$ 值的边界。
+
+综上，多个研究证明了在不同的视觉注意范式中，无论是空间注意、客体注意、特征注意还是视觉搜索，注意采样过程都存在周期性特征。当注意目标只有一个时，采样频率约为
+
+$8 \ : \mathrm { H z }$ ；而当存在两个可能的目标刺激时，对两个目标刺激的采样频率均为 $4 \mathrm { H z }$ ，且很多情况下存在反相关系，反映了注意资源在这两者之间协调分配。纵观已有研究，不仅传统的特征注意存在节律性采样现象，当给定线索能使被试产生多个知觉预期(perceptual prediction）时，注意资源在多个预期结果之间的协调分配也呈现交替的0节律，并且有效线索和无效线索产生的注意振荡存在一定的相位差（Huang etal.,2015)。此外，有研究在双耳分听任务中同样发现了 ${ 6 { \sim } 8 \mathrm { H z } }$ 的行为振荡频率，并且双耳的灵敏度调节是反相的，表明双耳交替对听觉信息进行采样（Ho et al.,2017)。由此可见，行为振荡这一现象在注意领域并不特殊，而是广泛存在于各种注意过程的，周期性采样很可能是注意过程的普遍机制。结合前人的研究成果，我们认为这一机制可以进一步描述为： $\alpha$ 频率的基本知觉周期被0节律调节，从而实现注意资源在各目标刺激间的分配，以完成注意加工的过程。
+
+# 4行为振荡的影响因素
+
+行为振荡的频率和相位是注意周期性采样的两个重要特征。采样频率反映了注意在刺激间转移的效率，频率越高表明注意转移速度越快。相位则体现了某一时刻下的注意状态，不同刺激间的相位关系还可以反映注意资源在刺激间的分配情况，若对两个刺激的行为振荡成反相位关系，即两者相位差为 $1 8 0 ^ { \circ }$ ，则表示两个刺激间存在相互抑制的竞争关系。在以往研究中，采用不同实验范式、不同的行为振荡指标，检测到的采样频率和相位特征往往有所不同。例如，在目标探测任务中，任务准确性的振荡频率约为 $8 \ : \mathrm { H z }$ （Fiebelkorn et al., 2013;Landau&Fries,2012)；而在目标辨别任务中，任务反应时则表现出更高频率的振荡( $( 8 \mathrm { \sim } 2 0 \mathrm { H z }$ Song etal.,2014)。但目前，行为振荡现象的影响因素仍未得到充分的解释。本文将从现有研究出发，对影响行为振荡节律的若干因素及其可能机制做一定讨论。
+
+任务难度是引起行为振荡频率不一致的重要因素。以往研究结果中，困难条件下1 $50 \% { \sim } 6 5 \%$ 正确率）一般可以观察到θ节律（ $\scriptstyle \left( 4 \sim 7 \mathrm { H z } \right)$ ）的行为振荡，并且在提示和未提示位置的行为表现以0 节律交替出现（Chen et al.,2017;Fiebelkorn et al.,2013;Landau&Fries,2012)；而在相对简单的任务中（ $7 5 \% { \sim } 8 5 \%$ 正确率)，行为振荡则体现在频率更高的 $\textbf { \em a }$ 节律（ ${ 8 { \sim } 2 0 \ : \mathrm { H z } }$ ; Chen et al.,2017; Song etal.,2014)。这些结果提示：当任务简单时，注意探照灯在刺激间的切换速度更快；而当任务困难时，为了获得更多信息，注意探照灯在单个刺激上停留的时间更长，导致注意切换速度要相应减慢。也就是说，任务难度通过影响任务需求调节了注意振荡的频率。Dugue 等人（2017）关于特征搜索和联合搜索的研究结果同样符合上述机制。在联合搜索范式中，由于刺激包含多个维度的特征，需要花费更多的时间来加工，任务难度更高，因此行为振荡的频率更低！ $( \sim 5 \mathrm { { H z } }$ )；而在相对简单的特征搜索任务中，行为振荡频率较高（ ${ \sim } 1 2 \mathrm { H z } \backslash$ ）°
+
+线索有效性可以影响行为振荡的相位关系。在以往使用线索-目标范式的研究中，有效线索或无效线索条件下反应时均呈现周期性的0节律（Landau&Fries,2012; Song,et al,2014)，表明注意采样过程的节律性。Song 等人（2014）和Huang等人（2015）进一步发现，注意在有效和无效线索两种条件之间的采样反应时存在相位滞后（phase lag）现象，即与有效条件下的相位相比，无效线索条件下的反应时振荡相位出现θ节律的相位滞后。这种相位滞后现象反映了注意被无效线索引导后，重新向目标刺激转移的过程：有效线索有利于个体产生有效的反应预期，能够更快地对目标刺激做出反应；而无效线索则会引导个体产生错误的反应预期，导致在目标刺激出现后，个体需要重新对原有预期进行修正，因而反应滞后。此外，在Fiebelkom等人（2013）的研究中，这种相位滞后关系只存在于线索提示位置（图5A，位置1）和同客体非线索提示位置（图5A，位置2）之间，而线索提示位置和等距离异客体位置之间则不存在这种相位关系；这表明线索有效性对行为振荡相位的影响可能特异于空间注意任务中。
+
+# 5行为振荡与神经振荡的联系
+
+神经振荡指的是大脑神经元集群周期性放电的现象（钟楚鹏等,2020)，其强度反映了神经元集群以特定频率活动的同步性。已有许多研究发现大脑中的神经振荡与认知加工过程有关，如知觉（Limbach & Corballis,2016; Iemi & Busch,2018)，注意（Foster et al.,2017;Womelsdorf&Fries,2007)，工作记忆（Bae&Luck,2018; Tran et al.,2016）等。注意中的行为振荡和神经振荡从不同层面反映个体的心理加工过程，对两者关系的探究可以更好地理解注意加工过程中不同神经元集合之间如何协调活动，有利于进一步揭示注意加工过程的认知和神经机制。
+
+早期关于神经振荡的研究发现与行为振荡相同的节律成分，两者涉及的心理过程也存在相似（Helfrich et al.,2018; Landau & Fries,2012; Luo et al.,2013; Mo et al.,2011; Samaha et al.,2015)。例如，大量脑电研究发现，脑电 $\alpha$ 振荡（ $[ 8 \mathord { \sim } 1 3 \mathrm { H z }$ ）与注意抑制相关（Canolty et al.,2006;Harris,etsl.,2018;Mo etal.,2011)，皮层脑电信号的 $\textbf { \em a }$ 功率随着注意增强而降低（Rajagovindan&Ding,2011)；刺激前 $\mathfrak { a }$ 振荡的能量被证明可以预测个体对目标刺激的反应（钟楚鹏等,2020;Samaha etal.,2015)。Feng 等人（2017）在听觉线索任务中发现无信息的听觉线索可以引起同侧枕部 $\alpha$ 波幅的降低，并且这种 $\alpha$ 节律的变化与被试对听觉提示侧的视觉刺激的高效加工有关；这与行为数据中观察到的 $\mathfrak { a }$ 振荡的功率响应模式一致，即有效线索比无效线索诱发更强的 $\alpha$ 能量（Song et al.,2014)，且 $\mathfrak { a }$ 波幅与行为表现呈负相关(Chen et al.,2017)。Samaha等人（2015）通过时间线索任务发现刺激前的时间预测线索能够通过影响脑电 $\alpha$ 振荡的相位，进而影响行为反应的准确性，而在行为振荡研究中也发现线索可以对行为振荡相位产生影响，从而使无效线索相对于有效线索条件出现相位滞后现象(Fiebelkom et al,2013;Song etal.,2014)。此外，注意转移过程中同样发现周期性的神经振荡，且与行为振荡表现出相似的0 节律（Fiebelkorm et al.,2013; Helfrich et al.,2018;Re et al.,2019)。Mo 等人（2019）在脑磁（MEG）数据上也发现了多特征注意的节律性，并且在同一任务的行为数据中也观察到同样的周期性特征。上述结果均发现了神经振荡和行为振荡在周期性特征和功能上的一致性，提示两者可能源自于相同的神经元集群活动。
+
+除了 $\alpha$ 振荡和0振荡，神经振荡相关研究中还经常发现较高频的γ振荡（ $8 0 { \sim } 1 5 0 \mathrm { H z } \ $ ）°神经元间的相互作用可以以低频周期性波动和高频γ振荡之间相位-振幅相关（耦合）的形式表现出来（Canolty et al.,2006;Lisman& Jensen,2013; Sirota et al.,2008)。有研究者指出 $\mathfrak { a }$ 振荡参与自上而下的注意控制是基于神经元活动节律的调控(Amal&Giraud,2012;Jensen etal.,2012)，这一过程可能会受到 $\gamma$ 节律的影响(Lisman&Jensen,2013)。在 Song 等人（2014)的行为振荡研究中发现类似的低频0振荡相位和相对高频的 $\mathbf {  { a } }$ 振荡能量之间的耦合现象。然而，由于行为实验中刺激呈现频率（通常不高于 ${ 5 0 } \mathrm { { H z } }$ ）的限制，目前尚未在行为数据中观察到 $\gamma$ 振荡。在未来研究中，若能通过优化实验设计确认行为振荡中也存在 $\boldsymbol { \gamma }$ 振荡，将为行为振荡和神经振荡之间的联系提供更多证据。
+
+# 6小结与展望
+
+注意过程中的振荡现象为人们提供了一个独特的视角去揭示注意过程的动态变化，有助于理解行为反应和大脑功能之间的联系。研究者们通过高时间分辨率的行为研究方法已发现：$\mathfrak { a }$ 节律的行为振荡反映了视觉注意的抑制过程（贾建荣等,2019; Song etal.,2014）及知觉加工过程（Re et al.,2019;VanRulen,2016)，而θ 节律则与注意的节律性采样相关(Dugueé et al.,2017;VanRulen,2016)。这提示了，一个物体能否被注意到，除了与它的空间位置和物理特性有关，还与个体正在进行中的注意节律有关。在注意任务中，任务难度可以通过影响任务需求调节注意振荡的频率，而线索的有效性则通过影响个体的预期反应来调节不同条件下的行为振荡的相位关系。此外，关于注意的神经振荡研究发现与行为振荡结果相同的节律成分，并且涉及类似的心理过程（Helfrich et al.,2018;Landau&Fries,2012;Luo et al.,2013; Mo etal.,2011; Samaha etal.,2015)，提示了行为振荡和神经振荡之间可能存在紧密联系，但是两者是否来自与相同的神经元集群活动，仍然需要进一步研究证明。
+
+纵观已有的行为振荡研究，我们认为尚有以下几个方面的问题值得探讨。
+
+首先，注意的周期性采样是自下而上的刺激驱动的结果，还是自上而下的目标驱动的结果？Song等人（2014）和Fiebelkom等人（2013）的研究中均发现与有效线索条件相比，无效条件下的反应时振荡相位出现0节律的相位滞后；Jia等人（2017）的EEG研究结果也表明，线索的有效性会影响序列搜索任务中的注意的采样顺序，说明周期性采样可能是自上而下控制的。而先前已有研究表明，刺激突显性（Hanna,2018）能够自下而上地调节注意的分配。针对这个问题，未来研究可以尝试通过实验设计在一个实验中分离自上而下和自下而上两种注意类型，并探讨各自节律性采样的特点。在此基础上，还可以进一步探究自上而下的目标驱动和自下而上的刺激驱动如何协调作用，对注意资源的节律性转移产生影响。
+
+其次，注意资源如何实现在两个以上客体之间的周期性分配？在以往的多客体搜索研究中，实际上参与注意分配的目标客体均为两个（Dugué et al.,2015;Dugué etal.,2017; Landau&Fries,2012)。也就是说，注意转移中表现出的0节律有可能只是特异于两个目标间的注意分配。而在现实生活中，更常见的往往是更多目标共同竞争注意资源，在这种情况下，当注意一个目标时，其他目标是否被视为一个整体（“不被注意的刺激”)，作为“背景”而受到同样程度的抑制？注意资源从当前目标转移到“背景”中的其他目标时是否也遵从类似的分配机制？未来研究可以考虑利用多客体的线索-目标范式，将实验中的某一刺激作为目标刺激，其他刺激作为一个整体，即非目标刺激，通过比较当不同刺激作为目标刺激时，注意在目标刺激和非目标刺激间的分配模式，对多客体间的注意分配问题做进一步探究。
+
+此外，注意的节律性还可能与微眼跳(microsaccades)相关。Fiebelkom和Kastner(2019)指出微眼跳可能发生在注意脱离期，以引导注意离开当前刺激并转向新的刺激，开始新的一轮注意采样。经典的注意现象（如返回抑制）已被证明可以在低频的行为振荡成分中观察到（Song etal.,2014)，未来的研究通过探究行为振荡和微眼动的关系，也许能进一步揭示更多经典注意现象潜在的神经基础。
+
+最后，行为振荡现象在不同模态下或多模态交互任务中的表现如何？关于听觉的EEG研究已经发现，刺激前的皮层0振荡（约 $4 \mathrm { H z }$ ）与听觉任务中的声音刺激能否被探测到有关（Kayser,etal.,2016)，而刺激前 $\alpha$ 振荡（ $1 4 { \sim } 1 6 \mathrm { H z }$ ）的功率则能够预测听觉辨别的速度（Mazaherietal.,2014）。在听觉任务中同样发现了 ${ 6 { \sim } 8 \mathrm { H z } }$ 的行为振荡频率（Ho etal.,2017),表明行为振荡现象可能广泛存在于不同模态下的注意过程中。虽然目前尚未有研究对多模态交互任务下的行为振荡成分进行探究，但是已有视听双任务的EEG研究(Keller etal.,2017)表明：持续的 $\alpha$ 振荡 ( ${ 8 \mathord { \sim } } 1 3 \ \mathrm { H z }$ ）有助于通过抑制与任务无关的视觉信息的输入，从而促进对听觉信息的处理，并且额中央区域的0振荡！ $( 4 { \sim } 7 \mathrm { H z } )$ ）与注意在与任务同等相关的视觉和听觉信息之间的分配有关。未来研究可以进一步关注多种模态下的注意过程中的行为振荡现象，以实现对注意选择机制的进一步理解。
+
+# 参考文献
+
+贾建荣，方方，罗欢.(2019).视觉注意的时间结构和动态神经机制．生理学报,71(1),1-10.   
+武侠，钟楚鹏，丁玉珑，曲折.(2018).利用时频分析研究非相位锁定脑电活动．心理科学进展,26(8),23-38.   
+杨阳，齐正阳，张珂烨，罗文波.(2019).行为振荡：揭示心理过程动态变化的新现象．科学通报,64(Z1),67- 75.   
+钟楚鹏，曲折，丁玉珑.(2020)．刺激前 alpha振荡对视知觉的影响．心理科学进展,28(6),945-958.   
+Arnal,L. H.,& Giraud,A.L. (2O12).Cortical oscilltionsand sensory predictions.Trends in Cognitive Sciences, 16(7), 390-398.   
+Bae, G.Y.,& Luck, S.J. (2018). Dissociable decoding of spatial attention and working memory from EEG oscillations and sustained potentials. Journal of Neuroscience, 38(2), 409-422.   
+Canolty,R.T.,Edwards,E.,Dalal,S.S.,Soltani,M.,Nagarajan,S.S.,Kirsch,H.E.,..&Knight,R.T.(2006). High gamma power is phase-locked to theta oscillations in human neocortex.Science,313(5793),1626-1628.   
+Chen, A., Wang,A., Wang,T.,Tang,X.,& Zhang,M. (2O17). Behavioral oscilltions in visual attention modulated by task difficulty.Frontiers inPsychology,8,Article 1630.   
+Chica,A. B.,Martin-Arevalo,E.,Bota,F.,& Lupianez,J. (2O14).The Spatial Orienting paradigm: How todesign and interpret spatial attention experiments. Neuroscience & Biobehavioral Reviews, 40, 35-51.   
+Cohen, M. R.,& Maunsel, J. H. (2O11). Using neuronal populations to study the mechanisms underlying spatial and feature attention. Neuron,70(6),1192-1204.   
+Dugue,L.,McLelland,D.,Lajous, M.,& VanRullen,R. (2015). Atention searches nonuniformly in space and in time.Proceedings of the National Academy of Sciences,112(49),15214-15219.   
+Dugue,L.,Xue,A. M.,& Carrsco,M. (2O17). Distinct perceptual rhythms for feature and conjunction searches. Journal of Vision,17(3),Article 22.   
+Eckstein, M. P. (2011). Visual search: Aretrospective. Journal of Vision,11(5),Article 14.   
+Feng,W.,Stormer, V.S.,Martinez,A.,McDonald,J.J.,&Hillyard,S.A. (2O17). Involuntaryorienting ofattetion to asound desynchronizes the ocipital alpha rhythm and improves visual perception. Neurolmage,150,318- 328.   
+Fiebelkorn,I. C.,& Kastner,S. (2019). Arhythmic theory of atention.Trends in Cognitive Sciences,23(2),87- 101.   
+Fiebelkorn,I. C., Pinsk, M.A.,& Kastner, S.(2019). The mediodorsal pulvinar coordinates the macaque fronto-parietal network during rhythmic spatial attention. Nature Communications,1O(1),Article 215.   
+Fiebelkorn,I. C., Salmann, Y.,& Kastner, S.(2013). Rhythmic sampling within and between objects despite sustained attention at a cued location. Current Biology,23(24),2553-2558.   
+Foster, J.J.,Sutterer,D.W.,Serences,J.T.,Vogel,E.K.,&Awh,E. (217).Alpha-band oscillations enable spatially and temporally resolved tracking of covert spatial attention. Psychological Science,28(7), 929-941.   
+Hanna,B. (2O18). Top-down prioritization of salient items may produce the so-called stimulus-driven capture. Frontiers in Psychology, 9,Article 218.   
+Harris,A.M.,Dux,P.E.,& Matingley, J.B.(2018). Detecting unatended stimuli depends on the phase of prestimulus neural oscillations. Journal of Neuroscience,38(12),3092-3101.   
+Helfrich,R.F.,Fiebelkorn,I.C.,Szczepanski,S..,Lin,J.J.,Parvizi,J.,Knight,R.T.,&Kastner,S.(18). Neural mechanisms of sustained attention are rhythmic. Neuron, 99(4),854-865.   
+Ho,H.T.,Leung,J.,Bur,D.C., Alais,D.,& Morrone,M. C.(2O17). Auditory sensitivity and decision criteria oscillate at diffrent frequencies separately for the two ears. Current Biology,27(23),3643-3649.   
+Huang,Y., Chen,L.,& Luo, H. (2015). Behavioral oscillation in priming: Competing perceptual predictions conveyed in alternating theta-band rhythms. Journal of Neuroscience,35(6),2830-2837.   
+Iemi,L.,& Busch,N. A. (2018). Moment-to-Moment fluctuations in neuronal excitability bias subjective perception rather than strategic decision-making.eNeuro, 5(3),Article e0430-17.   
+Jensen, O., Bonnefond,M.,& VanRullen,R. (2Ol2).Anoscilatory mechanism for prioritizing salient unattended stimuli. Trends in Cognitive Sciences,16(4),200-206.   
+Jensen, O.,& Vissers,M.E.(2017). Multiple visual objects are sampled sequentialy. PLOS Biology,15(7),Article e2003230.   
+Jia,J.R.,Liu,L.,Fang,F.,&Luo,H. (2O17).Sequential sampling of visual objects during sustained atention. PLOS Biology, 15(6),Article e2001903.   
+Kayser, S.J.,McNair, S. W.,& Kayser, C. (2O16).Prestimulus influences on auditory perception from sensory representations and decision processes. Proceedings of the National Academy of Sciences,113(17), 4842- 4847.   
+Keller,A. S.,Payne,L.,& Sekuler, R. (2O17). Characterizing the roles of alpha and theta oscillations in multisensory attention. Neuropsychologia, 99,48-63.   
+Lamy,D.,&Egeth,H.(2002). Object-based selection: The roleof attentional shifts.Perception&Psychophysics, 64(1), 52-66.   
+Landau,A.N.,&Fries,P.(2012).Attentionsamples stimuli rhythmicaly. Current Biology,22(11),000-1004.   
+Li,T.,Wang,L.,Huang, W., Zhen,Y., Zhong, C.,Qu,.,& Ding,Y. (202O). Onset time of inhibition ofreturn is a promising index for assessing cognitive functions in older adults. The Journals of Gerontology: Series B, 75(4), 753-761.   
+Limbach, K.,& Corballis, P.M. (2016).Prestimulus alpha power influences response criterion in a detection task. Psychophysiology, 53(8),1154-1164.   
+Lisman,J.E.,& Jensen,O.(2013). The theta-gamma neural code.Neuron,77,1002-1016.   
+Luo,H.,Tian, X.,Song, K., Zhou, K.,& Poeppel,D.(2O13).Neuralresponse phase tracks how listeners learn new acoustic representations. Current Biology,23(11), 968-974.   
+Mazaheri,A.,van Schouwenburg,M.R.,Dimitrijevic,A.,Denys,D., Cools,R.,& Jensen, O. (2014). Region-specific modulations in oscilltory alpha activity serve to facilitate processing in the visual and auditory modalities. Neuroimage, 87, 356-362.   
+Mo, C.,Lu, J., Wu,B., Jia, J.,Luo, H.,& Fang,F. (2019). Competing rhythmic neural representations of orientations during concurrent attntion to multiple orientation features. Nature Communications,10(1), Article 5264.   
+Mo,J.,Schroeder, C.E., & Ding,M. (2011).Attentional modulation of alpha oscillations in macaque inferotemporal cortex. Journal of Neuroscience,31(3),878-882.   
+Pfurtscheller, G.,& Da Silva,F.L. (1999).Event-related EEG/MEG synchronization and desynchronization: basic principles. Clinical Neurophysiology,110(11),1842-1857.   
+Posner,M.I.(1980). Orienting of attention. Quarterly Journal of Experimental Psychology,32(1),3-25.   
+Posner,M.I.,Rafal,R.D.,Choate,L.S.,& Vaughan,J. (1985).Inhibition of returm: Neuralbasis and function. Cognitive Neuropsychology,2(3),211-228.   
+Rajagovindan,R.,& Ding,M. (2011).From prestimulus alpha oscillation to visual-evoked response: An inverted-u function and its attentional modulation. Journal of Cognitive Neuroscience,23(6),1379-1394.   
+Re,D., Inbar,M.,Richter, C. G.,& Landau, A. N. (2019).Feature-based attention samples stimuli rhythmically. Current Biology, 29(4), 693-699.   
+Remington,R.,& Pierce,L.(1984).Moving atention: Evidence for time-invariant shifts of visual selective attention.Perception and Psychophysics,35(4),393-399.   
+Samaha,J.,Bauer,P.,Cimaroli,S.,& Postle,B.R.(2O15).Top-down control of the phase of alpha-band oscillations as a mechanism for temporal prediction. Proceedings of the National Academy of Sciences, 112(27),8439-8444.   
+Serences,J.T.,& Boynton, G.M.(2Oo7).Feature-based atentional modulations in the absenceof direct visual stimulation.Neuron,55(2),301-312.   
+Siegel,M.,Donner,T.H.,Oostenveld,R.,Fries,P.,& Engel,A.K.(2O08).Neuronal synchronization along the dorsal visual pathway reflects the focus of spatial attention. Neuron,6O(4),709-719.   
+Sirota,A.,Montgomery,S.,Fujisawa, S.,Isomura,Y.,Zugaro,M.,& Buzsaki,G. (2Oo8).Entrainmentof neocortical neurons and gamma oscillations by the hippocampal theta rhythm. Neuron,6O(4),683-697.   
+Song,K.,Meng,M.,Chen,L.,Zhou,K.,&Luo,H. (2O14).Behavioral oscillations in attention: Rhythmic α pulses mediated through 0 band.Journal of Neuroscience,34(14),4837-4844.   
+Tran,T.T.,Hoffner,N. C.,LaHue,S.C.,Tseng,L.,& Voytek,B. (2016).Alpha phase dynamics predict age-related visual working memory decline.NeuroImage,143,196-203.   
+Treisman,A.M.,& Gelade, G. (1980).Afeature-integration theoryof attention.Cognitive Psychology,12(1),97- 136.   
+VanRullen,R.(2016).Perceptual cycles. Trends in Cognitive Sciences,20(10),723-735.   
+VanRullen,R.,Carlson,T.,&Cavanagh,P.(20o7).Theblinking spotlightof attention.Proceedingsof the National AcademyofSciences,104(49),19204-19209.   
+Womelsdorf,T.,&Fries,P. (2OO7).The role of neuronal synchronization in selective atention. Current Opinion in Neurobiology,17(2),154-160.   
+Wyart,V.,& Tallon-Baudry,C.(2Oo9). How ongoing fluctuations in human visual cortex predict perceptual awareness: Baseline shift versus decision bias. Journal of Neuroscience,29(27),8715-8725.
+
+# Behavioral Oscillations in Attentional Processing
+
+ZHANG Xiaodan1; ZHANG Lijin1; DING Yulong²; QU Zhel ('Department of Psychology, Sun Yat-Sen University, Guangzhou,510006, China) (2School of Psychology, South China Normal University, Guangzhou, 510006, China)
+
+Abstract Behavioral oscillations are periodic changes of behavioral performance which result from rhythmic mental processes.Through behavioral methods that have high temporal resolutions, prior studies have provided a unique perspective to investigate the temporal dynamics of visual atention. Phenomena of behavioral oscillations were observed in many types of attentional tasks. There was much evidence supporting that attentional sampling showed periodic changes mainly at two different rhythms: α $( 8 \mathrm { - } 1 3 \mathrm { ~ H z } )$ band which reflects attentional suppression and 0 $( 4 \mathrm { - } 8 \mathrm { H z } )$ band which reflects attentional shift. These results help revealing the temporal dynamics of atention and provide a new approach for the controversy between serial- and parallel-search theories of attention.Some potential factors,including task difficulty and cue validity, were found to be able to influence the rhythmic characteristics of behavioral oscillations.Behavioral Oscillations showed consistent rhythms with neural oscillations in some attentional tasks, suggesting that they might involve similar mental processes.To systematically reveal the temporal dynamics of attention, future studies are needed to investigate the specific patterns of behavioral oscillations under various attentional control processes,as well as in multimodal atentional tasks.
+
+Keywords: behavioral oscillations; attention; rhythmic sampling; neural oscillations

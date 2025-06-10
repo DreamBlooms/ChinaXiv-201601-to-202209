@@ -1,0 +1,850 @@
+[
+    {
+        "type": "text",
+        "text": "创建与使用在Web2.0搜索信息的型人从问卷调查、深度访谈与追踪观察的心理与社会分析推导创新服务",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Creating and Using Personas for Information Search in Web2.0 fromPsychologicaland SocialAnalysisby Questionaire,Deep IntervieandFollowing Observationto InnovationService ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "顾立平(香港城市大学图书馆,九龙)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[摘要]在C.C.Kuhlthau的信息搜索模型基础上,增加 Web2.0概念中的共享、共创与共建和 Personas 概念中的嵌入、驱动与交互，来创建与使用型人2.0去开发差异化用户行为模型。透过问卷调查、访谈调查、追踪观察，建立具有心理与社会特性的型人，用以探讨如何提升信息服务系统。因此或许延伸了Kuhlthau模型的研究与应用领域。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[关键词]信息行为 信息服务 信息系统 网络用户 信息检索",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[中图分类号]G250［文献标识码]A[文章编号]1003-2797(2010)02-0010-14 [Abstract]Basedon C.C.Kuhlthau’s model of information search,Creating and using personas2.O added the web2.0 concepticludecommonshare,commoncreative,commonbuildand personasconceptinclude embedding，driven,interactive to developthemodelofdiferentialusersbehavior.Byquestionaire,interviewandobservation,thepersonasare founded through psychological and socialcharacters todiscuss howimprove informationservicesystem.Thus thisstudymayexpand the Kuhltuaus model to other re search and application fields. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Key words]Information behaviorInformation serviceInformation systemWeb userIformation retrieval ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1研究背景与动机",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "网络在学生与教育者获得有用信息的过程中，扮演越来越重要的角色。在图书馆领域的历史上一向重视对用户信息行为的研究，并已经形成系统的研究结果，在指导和评价文献信息服务上发挥了关键的作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "然而，当前用户信息环境与信息行为发生了根本性变化： $\\textcircled{1}$ 搜索引擎的高度使用率使图书馆成为次要信息来源[1]; $\\textcircled{2}$ 多数研究者和博士生习惯自我学习信息检索而不是图书馆用户培训[2]； $\\textcircled{3}$ 下一代大学生喜欢图像学习更胜于文字学习模式[3]； $\\textcircled{4}$ 学习型用户更依赖网络进行信息查找、传播和利用[4； $\\textcircled{5}$ 多数学生的学习时间是图书馆的下班时间[； $\\textcircled{6}$ 人们不考虑图书馆的概念和流程只希望快速得到结果； $\\textcircled { 7 }$ 谷歌现象\"不只是年轻人，也有老人和小孩，是全面性的信息社会转变[7]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "图书馆领域对这些现象高度重视，虽然也进行了许多研究，但是目前这些研究存在许多局限： $\\textcircled{1}$ 针对用户行为的结构机理，从质化与量化结合的系统化递进式研究进行的实证调查还很稀缺； $\\textcircled{2}$ 尚未从系统收集的现象中归纳和总结出用户在网络环境中的信息行为规律； $\\textcircled{3}$ 尚未从科学的角度对用户行为及其规律进行深入的解释； $\\textcircled{4}$ 由于这些局限，过去较难根据用户网络信息行为提出关于创新和发展图书馆服务的有关建议，从而缺乏从行为模式延伸创新图书馆服务的建议。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "而信息行为是图书馆服务与发展恒久不变的研究主题。作为图书馆服务、图书馆信息系统与图书馆创新发展的一个重要基础，追求的是如何全面地、清楚地、系统地描绘人们与信息之间的关系，使图书馆在服务读者、传播知识中充分发挥作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此，在前人研究的基础上，结合较早的研究成果与经验[8-10],对Web2.0环境下的信息搜索行为进行“系统化、结构化、差异化\"的实证研究。系统化是为广泛而全面地进行网络用户信息行为的调查与描述，而后递进至结构化；结构化是为深入而细致地进行网络科研用户信息行为的调查与解释，而后提升至差异化；差异化是为凝练而归结地进行网络科研用户信息行为与心理的模型化与理论化。在此化繁(信息行为)为简(模型)\"的基础上，提出若干执简(模型)驭繁(信息服务)\"的图书馆创新服务建议。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2研究现况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1信息搜寻研究",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从LISA数据库中下载关键词为 information see-king\"数据5603条（最后更新日期：2009年1月5日），利用JAVA编辑程序将LISA中的txt格式转换，接着统计结果后用Excel生成图表。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b03635d4ca838faecef6c14f5656ce762a5269309b9af5e7c8c8295e7ee73262.jpg",
+        "img_caption": [
+            "图1信息搜寻研究 $( 1 9 7 0 \\sim 2 0 0 8 )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "信息搜寻发展阶段[11],可略分为： $\\textcircled{1}$ 书目查询与计算机检索阶段 $( 1 9 7 0 \\sim 1 9 8 4 )$ ； $\\textcircled{2}$ 行为者理论与人机交互阶段 $( 1 9 8 5 \\sim 1 9 8 9 )$ ； $\\textcircled{3}$ 行为过程与线性模型阶段(1990～ 1995) ; $\\textcircled{4}$ 动态交互与非线性模型阶段( $1 9 9 6 \\sim 2 0 0 2 )$ ;$\\textcircled{5}$ 网络环境下的信息搜寻行为阶段 $( 2 0 0 3 \\sim 2 0 0 8 )$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "接着将人名转换以进行数据清理(DataCear），进行二度筛选后，利用自由软件Ucinet进行数据分析(Dataa-nalysis）,图像绘制输出(Graphoutput)如下图2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据作者发文量(为LISA收录的文章数)以及占据图关键节点等两项原则，选择近10年的代表性作者与工作团队，翻阅原文后依序整理：①AmandaSpink以信息搜寻系统为研究核心，以共同合作方式横跨不同学科领域； $\\textcircled{2}$ ReijoSavolainen以社会学中的每日生活理论，作为研究信息行为研究的基础； $\\textcircled{3}$ DavidNicolas以Loganalysis与EScholar为研究对象，平均一年一篇论文进入LISA数据库； $\\textcircled{4}$ GaryMarchionini专注于电子环境下的信息搜索研究，目前领导庞大的硕、博、博后研究团队； $\\textcircled{5}$ WilsonT.D.的信息行为模式(Modelofinformationbehavior)受到大量引用，包括中国大陆的研究论文； $\\textcircled{6}$ KuhlthauC.C.的信息搜索过程模型（InformationSearchProcessmodel)受到国外大量引用，但是国内引用较少而台湾地区相对较多引用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "创建与使用在Web2.0搜索信息的型人",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Creating and Using Pers onas for Information Search in Web2.0 顾立平 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Data:2008-11-30   \nHjoriand.Bxger   \nMeadows.AJ Heinstrom,Jannica Erdelez,Sanda Ochol SchauderDon oBeecheLF McKengiePala.!   \nSolomonP ufb Bronstein.Jenny   \nBawden.David Friedman.Cp Baruchson-Arbib，Shifa   \nFourie,ina Chatman,Ereda A PamerCaroteLDresang EBeardS Gross.MekssakHoughtonJ Widermuth.BM Sonnenwald Diane H A Fey Dumais,Susan Cool,Colleen Auster,Ethel Choo.Chun Wei   \nVetho.SepThomChekonMK Kim，Kyung-Sun 粤.Hertzun,Morter esnN BoothAnevDavid ossNicoKh.Cao Tedd.LA Detior, Brian   \ne Pharo,Nils ngesend M MaddenAdD ColeCgedew   \nChang.ShanJulWhite.Ryen W JarvenT FordNigel Hartley,RJ   \nOissonMichael pnk,Amanda e   \nBranchJenier DervinBrenda HogundLae Robins,D Watkinson,Anthony   \nDavisPhip M Tibbo, Helen R TuominenKimmo KanJarkko Wilson.T EsDavid DeOzmutuHuseynC fnrumA JamalHamidR Huntington, Paul   \nTodd RossJ KingDonaldW   \nWu Mei-Mei Chamis,AliceY eyid   \nLee.HGraham，ME Gannon-Leary，P owandsole   \nAgostoDenise E   \nHepworth Mark AnwarumaA Case,Dona JohnsonJDavid Andrews.JamesE ShentonCoulsn Grahan Maid.Shaheen Fenton,Roger   \nHerman,Et Liddy，ED homasRhian   \nCooper, LindaZ Hurst,Leshe Jorgenen.seWakmB BaeLkGJ Ry.Kos   \nHuston,MaryM Morehead,DavidR DunanceJoan Coachman   \nSrithar M ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2信息搜索模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以信息行为的实证研究而言，在网络环境中的信息搜寻行为，需要既有心理学、教育学和图书馆学的理论基础，又需要有丰富的研究累积。花费了六年时间（请见表1)打造模型的C.C.Kuhlthau于2003年再版《搜寻意义》（SeekingMeaning)这部巨作[12],其中收录许多1994年后的后续研究。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f39ec759f2d3deaa6fe8a39d57a0fc4217e9468681aa0cec2ad5ef3a9716d79d.jpg",
+        "table_caption": [
+            "表1创立信息搜索模式的研究过程(C.C．Kuhlthau)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>时间</td><td>对象</td><td>方法</td><td>成果</td><td>限制</td></tr><tr><td>第一项</td><td>1987</td><td>26个高中生，再选其中6位</td><td>问卷、访谈&二手资料</td><td>建立初步模型</td><td>规模小</td></tr><tr><td>第二项</td><td>1990</td><td>20个大学生(原26位)</td><td>问卷</td><td>表明模式历久不变</td><td>样本遗失</td></tr><tr><td>第三项</td><td>1990</td><td>4个大学生(原6位)</td><td>访谈</td><td>表明模式历久不变</td><td>样本遗失</td></tr><tr><td>第四项</td><td>1991</td><td>147个大学生</td><td>问卷</td><td>解在始写研究</td><td>低表现学生，</td></tr><tr><td>第五项</td><td>1993</td><td>358个大学生</td><td>问卷</td><td>揭示图书馆用户相似性</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "信息搜索模型(请见表2)由于简单质朴，在往后的二十五年里面被一直引用，而且很少迫于技术或社会变迁而作出修改。这是因为图书馆学信息行为的实证研究传统，强调学说和模型的可重复验证性，以及该模型本身所具备的可拓展性(可持续发展性)使然。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "然而，其他研究者和C.C.Kulthau进行信息行为研究时，大多隐含着将用户视为单一的大众性格的假设。如果重新审视被认为是单一的、没有变化的、被动的和大众化的用户，是否具备着不同的、多变的、主被动都有的、个性化或者特立独行的特性，就可能：①打破信息搜索模型的局限性，延伸研究与应用的范围； $\\textcircled{2}$ 更好地解释Web2.0中的信息行为。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/72cda1136812bed9661c8440705bf048fbf1be474e42bb8f0617f20c01c3a25c.jpg",
+        "table_caption": [
+            "表2信息搜索模式(C.C．Kuhlthau)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>（第一时期)</td><td>(每时期）</td><td>(每行动期)</td><td>任务</td></tr><tr><td>1.起始</td><td>不确定</td><td>一般含糊</td><td>找背景资料</td><td>确认</td></tr><tr><td>2.选择</td><td>乐观</td><td></td><td></td><td>辨别</td></tr><tr><td>3.查找</td><td>深座败/</td><td></td><td>找相关信息</td><td>调查</td></tr><tr><td>4.闸明</td><td>清楚透明</td><td>窄化清晰化</td><td></td><td>闸明</td></tr><tr><td>5.收集</td><td>感到信心、</td><td>增添所得</td><td>找相关或</td><td>聚合</td></tr><tr><td>6.陈述</td><td>满意或失望</td><td>更清楚，对准</td><td></td><td>完善化</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 创建与使用型人",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "网络环境的变化与新技术的开发，为用户带来种种的便利性与舒适性，也促使对用户行为理解的必要性。型人(Personas)是一种对用户分类并描述其行为的方法，它是一种从用户行为中进行的用户分类、用户特征与行为的描述，以及解释原因与提示设计策略的方法。换言之，型人可被定义：精确描述用户和用户想要完成的事\"[13]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在图书馆领域的型人研究有类似共同发现\"现象，国外《D-Lib 网刊》2008年9月刊载JackM.Maness等人的对机构仓储用户所创建与使用的型人\"[14]，同年同月国内刊载基于Web2.0型人的数字图书馆交互界面设计\"[15]。前者在质化研究的基础上建立指导系统建设的用户模型，后者在量化研究的基础上，建立指导信息服务的用户模型以及型人可拓展的研究方向。同年12月，研究信息搜寻而文章受到国内信息系统研究大量引用的T.D.Wilson也为 赢在用户\"[16-17]作出书评[18],指出型人\"具有了解用户行为的学术研究意义，以及协助系统设计的实践意义。在共同发现\"事件隔年6月，国际图书馆联盟信息技术通报（ITSNewsletter，IFLA)就刊登了在Web2.0时代创建与使用数字图书馆服务的型人\"一文[19],探讨如何在数字图书馆领域里，进行质化与量化相结合的型人研究。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上所述，透过有系统地实证研究，可以创建与使用型人，从而较为清楚地描述用户行为的规律性；不仅能够区分不同类型用户的实际行为与需求，而且可以对于服务的革新与创新提供若干的具体建议。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3研究问题",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据行为主义与认知心理学的主要观点与假设，本文设定的研究假设为： $\\textcircled{1}$ 用户在网络环境下的信息行为明显不同于在传统环境下的信息行为； $\\textcircled{2}$ 不同类型用户在网络环境下的信息行为有不同模式； $\\textcircled{3}$ 这些不同的行为模式具有相应的心理与行为的机理。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据理论框架与研究假设，研究问题包括了三个主要问题：①在共同信息行为模式下，有哪些心理因素和社会因素影响行为； $\\textcircled{2}$ 可否根据不同的心理与社会因素，而将不同个体根据信息搜索行为描绘为几个典型用户； $\\textcircled{3}$ 他们对信息服务系统（不限于图书馆）可能的期望是什么。其中，又细分为若干细部研究问题，按照实际的数据收集方式，有所分配与提问。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4研究设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为求解研究问题，采取递进式的量化与质化结合：问卷调查、深度访谈与追踪观察。按照研究过程的需要选择研究工具，采用SPSS第12版统计软件。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "问卷调查的样本来自前期研究[20的问卷回收，对同一组研究样本以中国科学院国家科学图书馆的名义，自2008年10月10日至2008年11月01日发放与回收问卷。邮寄发放300份，回收有效问卷155份。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "深度访谈的数据采集以面谈笔记的方式进行。同样依据前期研究的问卷回收判断适合的访谈对象群组。对愿意接受访谈的学生，进行电子邮件与单位电话联系，取得完整的通讯方式（手机、电话、电子邮件、单位地址)后，以主办单位：中国科学院国家科学图书馆的名义，正式约定访谈时间与地点。自2008年11月15日至2008年11月25日进行面对面访谈。共计访谈36人，每人一小时访谈时间。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "追踪观察的数据采集以面访和电子邮件的方式进行。根据问卷调查和深度访谈的结果，找寻代表性的用户，自2009年1月5日至2009年6月5日进行追踪观察。六个月内追踪四次：先进行面访，然后进行二次电子邮件，最后进行一次面访，共计追踪调查16人，实际完成8人。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5研究结果与发现",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.1问卷调查结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "透过卡方分析、Pearson相关系数检验和列联表观察，没有发现具有显著特征的变量相关性；只有图书馆网站提供图书文章下载\"和图书馆网站提供图书文章实验数据”，以及图书馆网站提供图书文章实验数据\"和图书馆网站提供直接解决问题办法\"的Pearson系数为0.539和0.554大于0.5但是仍然小于0.1的相关系数检定。调查结果如表3所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "创建与使用在Web2.0搜索信息的型人",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Creating and Using Personas for Information Search in Web2.O 顾立平 ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bf5b1885b7690f1b4cafac5dc2d7f2be2ab127e96adb6dad8976f7b800346d09.jpg",
+        "img_caption": [
+            "表3问卷调查结果(SPSS分析Excell制图）"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2ef1438a5532d9fa65e8f501921a788fbf64f36fa42c2ba7043c5202ada3de17.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "创建与使用在Web2.0搜索信息的型人",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Creating and Using Pers onas for Information Search in Web2.0 顾立平 ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/766f5d1f879210cf14ef630dba68b84f2ab4a284727985bfa999e1f16e941f56.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "透过调查发现，用户进入图书馆网站的自的性较强，而且对于图书馆网站所提供的信息服务不只局限于书目或一般性借阅功能，而是期待能有类似情报分析、研究合作者找寻与联系，以及协助解决研究问题的方法与策略等服务。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.2心理因素对信息搜索的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据问卷调查对同一组样本进行访谈，发现：有些人对于大量信息的搜寻和阅读产生焦虑，有些人对于大量信息的搜寻和阅读产生快感。不是焦虑就是快乐的反差，在接近毕业的受访者身上，明显感到两极化差异，而对于其他还有一年或一年半毕业的受访者而言，则是焦虑和快感混合发生，而没有对信息搜寻产生其它反应和意见。大体上，按照从焦虑到快感的程度，可以分为四种类型的信息搜寻：少量搜集信息，少量批判\"“少量搜集信息，多数批判\"“大量搜集信息，少数批判\"以及大量搜集信息，多数批判\"。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1)跟踪型的信息搜寻。跟踪型的信息搜寻，最明显表现在对特定数据库的持续性调查上。在高新科技领域内，这种类型的信息搜寻比较常见。比如对固定型号的芯片进行仿制。研究生表明他们是从公司网站的数据库检索信息，或者从其他方式收集该技术的可能信息，然后评价这个信息的方法是看它是否能够协助团队开发这个仿制品（访谈编号01）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "同样的情况也发生在研究最新的电路结构设计。该受访者谈到，虽然透过各种信息来源获取知识，比如：Nature\\Science数据库、科学网的最新进展、电子机械的最新进展和科技报告、国内外最新发表的文章、正EE数据库收录的刊物等，然而该研究生还是集中关注少数而且特殊的数据库资料来完成研究。例如：透过美国工程索引收录的刊物查询信息，主要在于其能够协助该研究生判断信息，达到指导实际实验以及对比实验结果的作用（访谈编号18）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在访问中，有位进行导电聚合物实验的研究生。该位研究生说明自己如何透过中英文书籍、ACS、RSC、前人工作或者经典文献来对照试验结果（访谈编号19)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "此外，在生物化学领域内，找寻新的蛋白质晶体排列方式，是通过基因数据库的信息搜寻来完成实验方案。虽然也会参考NCBI、PubMed、Google Scholar、Science 对文献进行综述，提出工作方式，但实际对照试验结果还是以基因数据库里面的数据为主(访谈编号35)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "也有研究蛋白质三维结构预测的研究生，其日常工作之一就是跟踪某核心期刊，与其他跟踪不同核心期刊的组员信息共享。利用这些信息理解最新进展，以寻找替代方案中的其它算法，或者别人没有做的工作（访谈编号34）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "研究蛋白质基因仿制的研究生，从学会网站和基因数据库，根据工作进度，参考研究方法、现状、成果等。对信息评量它的研究价值与方法，并且对照实验结果（访谈编号08）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "这类用户或者跟踪后提出改进方案，或者跟踪后提出替代方案，或者跟踪后进行仿制，如同有位研究生的工作就是研究电磁材料介质。透过ISI查询相关数据库后，进行文献综述。重复文章内的工作（访谈编号16)。也有专门研究CDNA免疫数据库内某一物种的研究生,他透过 Google Scholar、Pubmed、ISI、维普、NCBI搜寻信息后，比较他人工作并且找出实验室的错误或新方向(访谈编号14)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2)整合型的搜寻信息。整合型的信息搜寻，与其他人比较之下，明显表现在参与门户网站的社群或论坛的信息行为上，在环境工程领域内，这种类型的信息行为或许比较常见。比如：研究太阳能电池聚合物材料的同学表示，他透过电子公告栏、数据库、Beilstein查找文献，一般而言目的在于判断信息是否能够指导实际实验，以及与自己的实验结果进行对照（访谈编号20)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "研究水固体入侵机制的同学说，她透过Gogle Schol-ar、Pubmed、维普、NCBI搜索信息，然后请教个别专家，同样是为判断信息能否指导实际工作(访谈编号15)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "此外，考古学或植物学方面的研究人员，也会需要整合型的信息服务。例如：研究恐龙蛋化石的研究生表示，在透过核心期刊、国际会议的报告查找文献，记录刊物中的样本类型后，去函求证内容，以比较自己的发现和实验结果。他所认识的国内外专家和同行，是在雅虎论坛中交流的(访谈编号28)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "至于另外一位研究分离色谱高效叶项的研究生，在研究计划的拟订阶段，她是先透过电子公告栏（小木虫)来探听相关信息然后再在搜索引擎中寻找科技文献,以总结可能存在的研究方向(访谈编号21）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对研究废弃物土处理方法的研究生来说，她认为多方参考国内外会议论文，拜读(仔细阅读和视为指导方针式的学习）老师或者研究所内的项目报告书等方式搜寻信息是必要的，同时该项工作也需要咨询专门的公益团体等。并不一定是学会网站，有时也涉及到在搜狐(大型新闻门户网站)内不同的博客圈子，从中获得研究灵感与资源(访谈编号05)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3)提炼型的信息搜寻。提炼型的信息搜寻，相对明显表现在对专业学会的强烈需求与认可，在基础科学领域和其他软科学领域内，这种类型的信息行为或许比较常见。比如：调配各种可能的石油合成，从事这项研究的研究生表示，通常会去美国化学协会寻找资料，在实验前对不同的产品进行比较，在实验后对比文献上的研究成果（访谈编号03）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "同样是化学领域，但是不同专业，从事化学材料改性的同学说，他的工作来自前人的工作积累、咨询某一职称为副研究员的科研工作人员，以及查找相关的文献予以综述为主。在对相关文献进行判断时，往往会透过学会网站，去调查其作者、单位以及所从事的研究方向（访谈编号29）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "研究最新蛋白质重组方法的研究生，透过NCBI、PubMed、Google，以及国外公司的蛋白质数据，总结新的做法，判断能否指导实验。其研究结果在基于实验结果来解释生物生理变化过程的理论研究(访谈编号32)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "研究雷达技术预测与参数计算的研究生表示，一般会透过ISI或者国外会议论文集查找信息。使用筛选后的信息来提出具体工作的方式，并与实验结果对照（访谈编号17）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对生物学从事全国物种编目数据库的研究生来说。尽管信息来源可能很广泛，既包括图书期刊，又包括数据库网站信息（图片），但是主要是以学会网站为主，因为该项工作需要请专家协助审核并鉴定图片的真实性(访谈编号36)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "有一位从事中医药物萃取的研究生，他首先的任务是建立中医自动化系统的数据库，在这项初期任务中，他透过图书馆、老师、同学、中医药大学的会议查询文献。藉由导师在专业学会的人际关系来获得其它老师判断信息有用性的协助（访谈编号25）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(4)探索型的搜寻信息。探索型的信息搜寻，最明显表现在不仅对搜索引擎或电子期刊的大规模搜索上，而且几乎是每篇论文都阅读的情况下，对大量文献进行使用与评价的工作。这几乎是发生在任何一个领域内的事。事实上，其他类型的研究生也会透过搜索引擎与电子期刊搜寻信息，但是这类探索型的搜寻信息的特点是：几乎是逐篇逐字地处理文献信息和网络上的非科学文献的交流信息。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "比如，研究啤酒新品种酵母开发的研究生表示，她透过搜索引擎、图书馆、NCBI、BlachWell、Science查找信息，目的是透过排列组合挖掘各种可能性，对每种可能性逐一实验后，将预期效果与实验结果进行对照，才能找到新品种（访谈编号11）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对生态环境数据模拟进行研究的研究生提到，他透过搜索引擎、科技新闻和电子期刊数据库查找文献，归",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "创建与使用在Web2.0搜索信息的型人",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Creating and Using Personas for Information Search in Web2.0 顾立平 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "纳文献结论，才能判断是否与实验模拟相同（访谈编号23)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "研究纳米高分子复合材料的研究生说，他透过中文文献再从ISI和搜索引擎查找英文文献。评估参考文献实做的可能性，并且与实验结果对照。尽管如此，他仍然担心遗露信息（访谈编号27）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "研究反当动物治疗基础的研究生透露，几乎不能遗漏任何来自：GoogleScholar、PubMed（新的进展）、Ele siver(重大结论)、病毒学杂志(更新相关文献)的文献，因为这对评论信息是否能够用于解决问题息息相关（访谈编号06）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在心理学领域内，研究儿童发展心理认知神经的研究生。她透过CNKI、google scholar、sciencedirect查找文献。使用信息来提出具体工作的方式，并与实验结果对照。研究一无所知的领域，只能透过对以往相关知识的积累，和逐步实验数据的计算，才能得出几个微小的初探性成果（访谈编号31）。同样研究人类脑科学，但在不同学科领域的动物学研究所，在研究老年人认知障碍的可能性时，也是透过PubMed、图书馆数据库找寻信息。总结文献内容，判断是否说明实际病例(访谈编号12)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对高分子物理材料表征进行研究的受访者表示，目前处于研究计划拟定阶段,会透过ISI、ACS、Google-scholar查找信息，总结新的做法，判断能否指导实验。但是日后实验期间和实验后的文章撰写阶段，一样会定时大规模的收集相关信息（访谈编号30）。此外，研究化合物的受访者表示了同样的情况。该位研究生的研究工作是透过性能测试来描述化合物性质，所以往往利用关键词在搜索引擎与图书馆大范围搜索，所收集的资料既要总结研究热点，又要与实验结果相对照（访谈编号02）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "研究太阳能电池电解质的同学表示，大规模的文献收集与判断，几乎不可能一个人完成，多半是群体协作，透过ISI和专业期刊查询文献，将摘要进行分类，提出解释理论和结论。评估是否可以与实验室条件结合进行实验(访谈编号26)。采用类似手法的另一位研究者，来自转基因的医药与农业应用领域，他透过国外核心期刊、搜索引擎、经典文献找寻信息。阅读并分类文献，进行研究与否的判断(访谈编号09)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "研究真菌分类水生态的研究生表示，信息来源绝对不是单一的搜索引擎或期刊，而是多样性的，信息来源愈多样越好，因为这样才能掌握可能遗失的关键信息。他透过图书馆网站、项目计划书、数据库、核心期刊查找文献。利用信息设计实验，比较物种，对照实验结果。这些工作是一直重复进行的(访谈编号33)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "并不是有人总是从特定数据库里查询信息，也不是有人仅仅从门户网站的社群或论坛，就能得到研究工作上所需要的全部信息。事实上，绝大多数受访者都是关注各种信息来源，以免漏失掉重要信息而丧失信息资料的完整性。所不同的是，四种类型的用户，其关键信息的来源不同、其工作性质不同、其信息行为习惯不同，以及其心理状态不同，因此本文予以归纳：跟踪型、整合型、提炼型和探索型信息搜寻的四种类型。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.3社会因素对信息搜索的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "按照访谈结果，区分组织行为与个人决策几个重要影响，分别来自：导师、同学、组织(研究所），以及组织外的机构。同样按照不同类型区分为：无组织型、弱组织型、强组织型、逆组织型四种，分别叙述其状况如下：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1)无组织型：以导师为中心。无组织型并不是意谓完全不受组织规范约束，相反，无组织型用户可能在很多方面不自觉遵循既定的组织文化，因为无组织型是以导师为中心的，而导师本身就是组织的一部份。差别在于，对无组织型用户而言，更多受导师个人风格与做事方式的影响。比如，导师可能会安排那些原本不是相同专业的学生，去其他大学里补课，或者参与培训其他班等研讨会。导师安排基础课程学习，并且找人指导(访谈编号30)。这样一来，虽然导师的这种作法不会受到组织干预，但是实际上是导师运用其个人影响力或眼光，将该位研究生进行组织外的另外培养，尽管其目的是为了日后更好地服务于组织。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在另一些受访者中，则提到以导师为中心的其他情况。比如，有研究生虽然是研究所的一员，但是有的研究工作与国内的环保新闻和环保团体有关，研究所内没有特殊影响（访谈编号05），在这种情况下，导师与同学一起进行文献解读与判断，拟定计划和执行研究，仅仅是在一些重要场合上出席研究所的活动，事实上是独立于研究所之外而与导师一同工作的进修方式。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "还有同学是生活在导师的研究团队中，而不是完全依赖研究所的学程规划上，尽管该研究团队名义上隶属于研究所。这多半是由导师指派具体工作，研究生在之前的实验室研究基础上进行研究的这种模式(访谈编号15)。也常常见于导师提供研究方向，研究生定期向导师汇报的这种方式(访谈编号22)(访谈编号23)（访谈编号24)（访谈编号35）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "一般较多的情况是，中国科学院研究生院有一个统一的管理办法，而各个研究所有其自身的传统和严格的学术要求，但是实际执行则由导师按照实际工作需要和个别研究生特点，而自行决定的情况较多。例如，透过导师判断研究可行性，研究生与其他同学们一起解读判断文献，每周召开组会，每个人各自向导师汇报学习进展等情况（访谈编号10)（访谈编号31）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2)弱组织型：以同侪为中心。弱组织型用户是指受到同侪影响较大的那些用户，或者是与同侪合作，或者是与同侪竞争。科学社群之所以能够实现学术累积性进步，正是因为他们内部就什么类型的问题、技术和解决方法是合理的形成了明确一致看法，还因为他们把任何不认同于现行框架的研究者排除在外了。弱组织型并非不受组织或导师的影响，而是他们进行个人决策时，主要来自观察、学习、模仿和复制他人的做法。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "有的研究生受同学影响的部分，来自于较高年级的研究生对实验室内的基本操作和规范的传承，在这种情况下，研究生的主要是在既有的工作基础上开展自己的研究工作（访谈编号02），他所学习的对象完全是一套相同于其他人的研究方向与方法。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "有的研究生因为在同一个团队之中进行非个人能完成全部工作的研究，因此在信息与文件获取上，是与同学们一起分工完成，而各自零星的实验，其测试工作也是相互关联的(访谈编号26)。他是在一种协同工作的环境中，与其他人一起完成研究的。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "与此相反，有的研究生与同学之间是相互竞争没有交流(访谈编号33)。导师指派具体工作，同学之间相互竞争的这种模式，受制于双重规范，一方面受到老师给予的自标影响，另一方面则要与其他同学争取更好的表现机会。这样，他仍然是以同侪为中心的弱组织型用户，因为它必须考虑小组内的竞争对手的行动。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "另一种较为和谐的竞争合作模式是导师判断研究可行性，同学之间交流实验方法、技术、分析手段，每星期每人一篇短文提交(访谈编号06)。这样，他既要与其他人共享信息，又要保证每一个时间段有自己的研究成果。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "弱组织型用户的两大特征，一是同学对实验室基本操作与背景知识的传承(访谈编号04)（访谈编号32)；二是导师提出改进要求和研究方向，同学们一起解读判断文献(访谈编号16)(访谈编号21)(访谈编号34)等。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(3)强组织型：以组织为中心。所谓强组织型用户是受到组织强力规范下的研究生，他们或者是一个群体，或者是一个单独个体的集合。强组织型用户的特点是工作要求与规范都由研究所所制定好了，或者在导师和同学的影响下，还受到来自制度化机构的约束。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "有的用户虽然与同学之间交流讨论相关，但是另外也受研究所影响，需要定期向研究所汇报工作进度(访谈编号13)(访谈编号18)。较多情况下，这是为了减少直接竞争的可能性。因为在狭小的专业领域内，各自由导师提供研究方向，同学一起解读判断文献的情况下，有可能导致同一个问题多个人研究的情况，为避免重复性研究，由研究生直接向研究所汇报，会减少不必要的冲突和竞争。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "有的同学与其他同学一起讨论，但是各自分工处理自己的工作，每月定期在研究所内向工作小组汇报（访谈编号01)（访谈编号19）（访谈编号27）。也是上述这种避免直接竞争导致冲突的预防措施。然而其意义不仅如此，因为各自分工处理自己工作的关系，这种重复性研究的可能性本来就不容易发生，换句话说，更重要的是，这是由组织规范每个人对其他人的知识共享制度。在这种制度下，强组织型用户比其他类型用户更倾向于成为组织的一员，而不全然是被观察与被保护的对象。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "解释这种强而有力的组织约束力，有可能来自于研究所给予经费搭造实验环境的影响（访谈编号07）；然而，也有不一样的情况，比如：导师对整体研究方向的把握，同学传承实验室内的基本操作，在既有的工作基础",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "创建与使用在Web2.0搜索信息的型人",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Creating and Using Pers onas for Information Search in Web2.0 顾立平 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "上开展自己的研究工作，实验材料成本来自研究所以外的基金支持(访谈编号08)。前者较多来自于经济力的影响，后者则可能较多来自于组织文化的传统。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(4)逆组织型：以外援为中心。以外援为中心的用户，尝试去探求新的规则，和种种新的可能性。他们或许对那些旧的思想方式不太认同，或许察觉到所属研究所的资源局限性。不过，逆组织型用户不意味着一味反对自己所处组织的种种行为，与此相反，他们能够获得外援的原因正好是其所属组织所同意与愿意的。因为这种违逆常规的做法，往往会给组织带来新的资源与气象，而且只有透过组织与组织之间的合作，逆组织型用户才能获得外援。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "受其他单位影响的部分，有很多种不同的类型。可能是项目经费与要求来自其他机构，比如：与中医大学合作（访谈编号25)；也有可能是实验数据来自医院，例如：实际案例数据来自北一三医院（访谈编号12);或者与其他团队共同收集数据，例如：与浙江大学合作野外采集样本团队协作（访谈编号28）；也有委托培养，直接与原来事业单位有所关联的情况，例如：偶尔承接军队项目（访谈编号29)（访谈编号17）、研究工作与广西大学合作(访谈编号09)、研究工作与西北军医大学合作(访谈编号14)、研究工作与北科大、北京交大的项目有关(访谈编号20)等；或者其研究所长期以来与其他单位所签订的委托合约所履行，例如：研究工作与国内知名啤酒公司合作（访谈编号11），和研究工作受中海油公司委托(访谈编号03)等。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "组织对个人决策的影响，可以分为几个方面：组织分工与研究所内的次级群体、领导人、学科带头人、导师、富有经验的科研人员、研究生之间的关系以及其他因素。透过了解组织行为与个人决策，有助于解释不同类型的网络用户，其可能存在的行为规律与心理机制。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5.4追踪观察调查结果",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "根据四类心理因素与四类社会因素，共可分为16种典型用户类型。然而实际上透过追踪观察8位研究生的学习情况后，初步可以归纳为四种典型用户。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "6讨论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "对跟踪型用户来说，技术性科学针对的是实用问题，所以其认知内容不同于基础科学学科的普遍形式。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/015810597acf7bbbe3b2c0564cef5ef92589311f7c04a1577b226e64b8073f9f.jpg",
+        "img_caption": [
+            "图3第一类典型用户A型人"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "nki.net 正式实验7前瞻性研究预测实验设计文献阅读 专经费与器材取得大 7相关新闻、论导师 坛、意见收集7个掌握关键词与相关主题 提炼与总结7  \n大量阅读",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f82311df51b542de8cac9fb79968587c99741f873ab1bcc120dd3974a8a53ad.jpg",
+        "img_caption": [
+            "图4第二类典型用户B型人",
+            "图5第三类典型用户C型人"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "无论基础科学何时用作技术性科学的基础，都需要跟踪型研究对它大量的形式交换。这一方面是使基础科学的知识和内容应用化，另一方面也是根据实践应用的社会背景的要求进行彻底的再阐释。大多数情况下，科研活动是在于把自然现象强行纳入有专业教育所提供的概念框架中[21]。这一过程即为常规科学阶段，它不是寻求根本性的创新，而是在没有改变其基本取向的前提下，尽力扩大它的经验范围。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/64046733402eb8259058b49501e9d81f3093b1f6de6645a2f9953fba87d43278.jpg",
+        "img_caption": [
+            "图6第四类典型用户D型人"
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "对整合型来说，判断人比判断知识观点更加合理。这种倾向可能与科学中所谓精英的存在有关，这些精英人物对科学研究的总体方向施加了重大的影响。当科研人员有共同的科学技术背景，以及当他们能够选择关注那些他们认为能在其共同的框架内解决问题时，学术共识会很快并牢固地建立起来。如同拉维兹（Ra-vetz)[22指出，科学家只选择那些他们相信能解决的问题。这类的研究生们通常从文献中选取同行的研究发现，由于这样或那样的原因，他们认为这些研究发现是可靠的。换言之，这类研究生们认为，如果这些问题本身来自于某一范式，他们对此范式的使用已训练有素，那么就很有可能他们会选择类似的问题。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "对提炼型用户来说，从事基础科学研究工作的研究生们，其目标是：为科学知识体系贡献一些新的东西。这个目标可以根据默顿(Merton)的说明[23被解释为：对独创性规范遵从的产物。例如研究生的研究项自是由导师仔细选定的，自的就是为了保证学生有机会对知识做出具有独创性的贡献。他们认为需要关注的研究课题是已有的理论框架内未被预想到的那些现象。他们实际的研究目标反映了这种情况，他们所追求的是更高的实验精确度，解决实验或理论方面的异常情况，或者重新提炼已有的理论假设。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "对探索型用户来说，他们利用以前的经验和特别的专门技能来扩展和改变模式。在他们的研究过程中，模式经常不断地发生改变。吉尔伯特（Gilbert)表述科学概念的形成[24」，是从相对不稳定和可变的学术共识中产生。他指出在研究成员中，存在一些不断变换着、各不相同、却又相互联系着的家族性模式，而不存在一个统一的共享模式。因而，尽管一个研究社群中的成员使用的模式与另一个人的模式有一种家族式的相似性，但它们却绝不是完全相同的。他们通过引用那些在其领域中得到普遍承认并同时与他们自己的模式相一致的结论来证明自己的发现。某些发现将会不断被引用，这是因为它们适合大多数成员使用的模式，并因此成为该领域研究寻求证据的基础。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "以导师为中心的无组织型用户，多半遵循着一定的研究方式和相同的研究思维，因为这种情况来自于完全服从于导师的师徒传承制，在过去导师成功带领其他前辈的基础上，形成固定的研究范式。或许会有失效的一天，但是大体上对研究生来说，是相当安全与",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "创建与使用在Web2.0搜索信息的型人",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Creating and Using Personas for Information Search in Web2.0 顾立平 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "稳定的学习机制。同理，这样的研究生对于网络学术信息行为的需要，也不是立即而明显的。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "同侪往往起到非理性的情感激励的作用。因为研究是一种辛苦的游戏，需要工作数月甚至数年，而且似乎毫无进展。有时研究生会非常茫然，随后忽然之间有了一个突破。这时最好在周围的人能给一点鼓励。以同侪为中心的弱组织型用户，非常明白这一点。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "强组织型用户可以不用担心研究或许毫无收获，或许得到的是不相称的少量结果，因为他们所属的组织所采取的一项明确政策是避免重复研究，而这政策本身就是合作的一种形式，它极大减少了直接竞争的可能性。但这不意味着他们没有相互竞争的压力，这种压力还可能是双重的，一方面来自于组织内部的竞争与合作压力，另一方面来自对外界的学术竞争压力。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "由于深信当碰到重要问题时他们会马上认识到它，逆组织型用户希望等待时机，不愿很快就决定会花费过多时间去关注相对不重要的问题。他们忍受回报被延误的能力再加上自信心使他们确信，重大问题到一定时候就会出现，而当它出现时，他们所具有的鉴别力能使他们认识到它并去对付它，这种态度被他们在富有创造性的外援组织环境中被强化了。因此，逆组织型用户对外在环境的变化敏感度最强。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "根据四种典型用户，按照他们在信息搜寻模型下的不同感觉、思考与行动，综合他们学习时期的心智地图，以及他们直接对图书馆或其他信息服务系统的抱怨与愿望，绘制新一代数字图书馆的信息服务系统功能如表3。",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/ac04b17c56e76ef2052e8005cfb6e67915c9ccf50dd9a4ac352f53d666d5c312.jpg",
+        "table_caption": [
+            "表3型人在信息服务系统建设中的功能设计"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>功能名称</td><td>定义</td><td>情景</td><td>型人</td></tr><tr><td>自动化转换交互界面</td><td>随用户行动转换界面</td><td>颜色、风格和编排随用户心情而定</td><td>全部</td></tr><tr><td>自动化更改信息定制</td><td>定制化信息词频计算</td><td>根据最近查询词汇与主题，细化RSS</td><td>全部</td></tr><tr><td>互动式娱乐教育功能</td><td>用短片、游戏、音乐、动画、漫画 等方式</td><td>迅速而确实的练习和学习使用信息资源；但有时只想了解 图书馆有趣的一面</td><td>C型 D型</td></tr><tr><td>信息传送指定投放处</td><td>预设定计算机动作，并随时指</td><td>不囊筦计算机前才开始信息搜寻和下载，能预先透过</td><td>全部</td></tr><tr><td>信息资源来源追踪</td><td>对图表、文章内容的来源自动查 询</td><td>网上粘贴图表文章后，需要注明参考文献，但是当初并没 有储存</td><td>A型 B型</td></tr><tr><td>信息过滤与组合</td><td>将不息据库和网络信息的无</td><td>追踪技娄并开发，需要排除大量不必要的信息;收集大量</td><td>A型</td></tr><tr><td>后设分析情报系统</td><td>将情报系统的分析，进行二次分 析</td><td>太多的研究数据报告，不知从何着手，希望能够有分析分 析报告\"的报告</td><td>C型 D型</td></tr><tr><td>界面内容自动化重组</td><td>将网页布局，随用户需要而调 整，非固定式</td><td>有时看新闻、有时写博客、有时查询数据库，不想重复点选 进入不同系统</td><td>B型 C型</td></tr><tr><td>工作流程自动化重组</td><td>鎏程配象的工具软件会随时调</td><td>流时都课整理-分析,有时想整理-实验-写作，每次工作</td><td>D型</td></tr><tr><td>研究人员自动配对</td><td>提供联系方式，自动协助联系该 人员与机构</td><td>需要知道那些人、那些机构、那些计划正在做相同研究，而 且如何联系与合作</td><td>B型</td></tr><tr><td>研究计划趋势比对</td><td>分析大型研究报告</td><td>列举相似报告，并分析报告的信度</td><td>C型</td></tr><tr><td>信息自动汇总许可</td><td>从不同信息来源中，自抽取信 息，并分类整理</td><td>透过一次指含，计算机自动执行：下载、整理、分析、购买、 借阅等许可权申请</td><td>A型 D型</td></tr><tr><td>信息质量认证</td><td>根据标引、用户下载、引用</td><td>霜懂道信息消息是可靠的。知道那些信息是</td><td>B型</td></tr><tr><td>知识创新性评估</td><td>根据语句、用词、主题领域、虚词 排错等方式，自动评估创新性</td><td>大量阅读下，早已分不清哪些是自己那些是别人的创建； 希望个人写作一段文字，计算机即可分析与何人观点相似</td><td>B型 C型</td></tr><tr><td>信息指定保密时间锁</td><td>将想、并发料以存</td><td>避象影优先”竟独立究开发技术，即使被抢先发表，</td><td>A型</td></tr><tr><td>相关性信息排错</td><td>计算查询后没有下载和浏览的 信息几率</td><td>不需要一再进入二次查询，而直接从工作进度中得到智能 化信息服务支援</td><td>A型 B型</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "7结论",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "对比过去研究所没有揭示，而本研究所完成的新进展是： $\\textcircled{1}$ 完成从问卷调查、深度访谈与追踪观察来创建型人的工作； $\\textcircled{2}$ 以心理与社会角度创建与使用型人；$\\textcircled{3}$ 从差异化\"用户与服务的角度，来延伸信息搜索模型的应用范围和功能。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "研究局限在：①社会科学研究方法仅能得到暂时性的结论,本文表述的规则与逻辑(Rule&Logic)仍需验证； $\\textcircled{2}$ 因样本选择中国科学研究生院的学生，若使用本文说明其他学校、单位或团体时，需要参考其他相关研究。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "本研究对于用户行为的解释部分，还需要进一步科学研究，对于因果关系尚未明确的情况下，建议未来研究朝向实验研究方法。此外，日志分析所不能测量的研究内容，与社会科学调查法的局限性之间，可能存在未被观察的用户行为，这应该会是下一阶段突破型人研究,达到更高水准的研究方向之一。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "本研究虽然从心理与社会角度探讨并划分了用户行为，然而，用户服务是否与用户行为存在相关性，这种度量如何进行和改进，以及如何在既有的型人模型基础上，如何预知或改变用户行为，朝向更有效率且更为用户自然而然接受的信息行为模式等，自前尚属空白。如果能够进行这方面的研究，获得科学研究结果，那么就能够透过改变用户对图书馆的认知来影响用户使用图书馆的行为，或者改变用户行为来影响用户对图书馆的认识，从而更好地将用户行为模型与图书馆服务模型结合。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "致谢：感谢张晓林教授、孟连生教授、初景利教授、孙坦教授、梁战平教授、卢小宾教授、景祥祜教授与Prof．Antony Ferguson的批评与鼓励。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "1OCLC.College Students'Preceptions of Libraries and Information Re sources,2005.[2008-04-07].http :/www.oclc.org reports perceptionscollege.htm   \n2 Re search Information Network（RN）.[2008-O4-O7].http ：// www.rin.ac.uk re searchers-disco very service s   \n3 Oblinger,D．G.&Oblinger,J.L.,Educating the Net Generation,2006.[2008-12-01].http:/www.educause.edu hr ibrary pdf pub7101.pdf   \n4 OCLC．Sharing，Privacy and Trust in Our Networked World. 2008.http :/www.oclc.org reports /   \n5Foster,N.F．& Gbbons S.ed.．Studying Students:The Undergraduate Re search Project at the University of Roche ster.American Library Association(ALA),2008.[2008-04-07]. http :// docushare.lib.roche ster.edu docushare /dsweb /Get Document27275 /Foster- Gbbons_cmpd.phf   \n6JISC & SCONUL library management systems study.（2008-03- 08).[2008-09-22].http :/www.jisc.ac.uk /media /documents / programmes fre sourcediscovery Ams_section_2_summary_report. doc   \n7Google Generation.(2007-09-30).[2008-03-08].htp:/www.jisc. ac.uk whatwedo programmes resourcedis covery /googlegen. aspx   \n8顾立平．Web2.0用户行为调查研究一以中科院学生使用社会 软件为例．图书情报工作,2007(9)   \n9,11顾立平.Web2.0环境中的学术信息检索行为.图书情报知 识,2008(6)   \n10,20 顾立平．基于Web2.0用户信息检索行为的交互设计：后设 分析与问卷调查研究.图书情报知识,2009(3)   \n12 Kuhlthau,C.C.. Seeking Meaning(2ed) :A Process Approach to Library and Iformation Services.Norwood,NJ :Ablex Publishing, 2003.   \n13 Alan Cooper著;丁全钢译.交互设计之路一让高科技产品回归 人性(第二版)．北京：电子工业出版社，2007.   \n14 Jack M.Maness,Tomasz Miaskiewicz,Tamara Sumner.Using Perso\" nas to Understand the Needs and Goals of Institutional Repo sitory Users.D-Lib Magazine ,2008(9 /10) :14.[2008-10-13].http:/www. dlib.org /dlib /septemberO8 mane ss O9maness.html   \n15顾立平．基于Web2.0型人的数字图书馆交互界面设计.图书 情报工作，2008 (9)   \n16 Mulder S.,Yaar Z.. The useris always right $\\because$ a practical guide to creating and using personas for the Web.Berkeley,CA :New Riders Press,2006.   \n17 Mulder S．& Yaar Z著;范晓燕译．赢在用户:人物角色创建和 应用实战指南．北京：机械工业出版社，2007.   \n18 Wilson,T.D..The user is always right $\\because$ a practical guide to creating and using personas for the Web(Book Review).Information Re searchr an International Eectronic Journal,2008.   \n19 Li-Ping Ku. Creating and Using Personas for Digital Library Service inWeb2.Oera.IFLA IT Sectior Newsletter，2009-06-30. [2009-07-O7].http :/www.ifla.org files informatiorrtechnology IFLANewsletterJuly2009.pdf   \n21 Kuhn，T. S..The structure of Scientific Revolutions. Chicago : The University of Chicago Press，1962.   \n22 Ravetz,J.R.． Scientific Knowledge and Its Social Problems. Oxford:Clarendon Press,1971:132-134.   \n23Metron，R.K.Priorities in Scientific Discovery．In B．Barber and W.Hrsch（eds.）,The Sociology of Science.New York : The Free Pre ss,1962.   \n24Glbert G.N..The Transformation of Research Findings into Scientific Knowledge.Social Studies of Science,1976,6(3 4) :302. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(收稿日期:2009-09-22) ",
+        "page_idx": 13
+    }
+]

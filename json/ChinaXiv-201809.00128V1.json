@@ -1,0 +1,507 @@
+[
+    {
+        "type": "text",
+        "text": "不同熟练度双语者的颜色范畴知觉效应：来自行为和ERP的证据",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李杰1,2何虎² 吴柏周²侯 友1,2曹亢² 阿如罕2(1内蒙古自治区心理学重点实验室;2内蒙古师范大学教育科学学院，呼和浩特010022)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要为研究语言对知觉的影响作用，行为实验采用视觉搜索范式研究蒙汉双语者的颜色范畴知觉效应；为进一步考察语言影响知觉的脑机制，脑电实验采用Oddball范式研究蒙汉双语者的颜色范畴知觉效应。行为实验和脑电研究结果都发现，在区分蒙古语中qinker和huhe色时，低汉语水平的蒙汉双语者比高汉语水平者产生更强的颜色范畴效应，蒙汉双语者的汉语水平影响颜色范畴知觉，双语者所习得的第二语言范畴可以改变双语者母语的范畴，语言能影响知觉的前注意阶段，本研究支持了Spair-Whorf假设。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词颜色范畴知觉；蒙古语；双语者；失匹配负波;Spair-Whorf 假设 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号 B842",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1前言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "萨丕尔-沃尔夫语言关联假设(Spair-WhorfHypothesis)认为，人类的语言会影响认知(Regier&Kay,2009)。颜色范畴知觉(Color Categorical Perception,CCP)为这一问题提供了大量重要的证据。颜色范畴知觉也叫颜色范畴效应，指范畴间两种颜色的辨别能力比同等颜色空间距离的范畴内两种颜色的辨别能力更高(刘强，陈安涛，王琪，周柳，孙弘进，2008)，如反应时更短，正确率更高，脑电潜伏期更短，脑电波更强等。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "认知神经科学对颜色范畴知觉脑机制的研究显示，颜色范畴知觉既包含颜色感知过程，又包含语言加工过程，语言标签(或基本颜色词)对颜色范畴知觉有影响(Chris，Samuel,Aidan，&Franklin,2014;Drivonikou et al.， 2007; Gilbert, Regier, Kay,&Ivry.,2oo6)。Yang,Kanazawa,Yamaguchi 和Kuriki(2016)用近红外成像技术的研究发现，仅6个月的婴儿在识别颜色时便有范畴效应，但在颜色知觉任务中额区无激活，仅双侧颞枕区激活，这说明婴儿的颜色范畴知觉仅是知觉过程，没有语言的参与。Franklin等运用眼动技术对婴幼儿的颜色区分情况进行研究，进一步指出不知道颜色词的婴幼儿，颜色分辨是一个知觉过程，知道颜色词的幼儿，其颜色分辨是一个有语言参与的过程，语言标签使婴幼儿的颜色分辨优势脑从右脑转换到左脑(Franklin et al.,20o8;Franklin et al.,2008)。Zhou 等(2010)、Kwok 等(2011)和 Zhong等(2015)从脑成像和行为层面均证实，短期的人工颜色词的学习使先天存在的颜色范畴发生变化，左脑V2/V3区和小脑区的灰质体积显著增加，视觉失匹配负波(VisualMismatchNegativity,vMMN)在左脑出现颜色范畴效应。视觉失匹配负波被认为与自动加工和无意识活动有关，是发生在刺激后 $1 5 0 { \\sim } 2 5 0 ~ \\mathrm { m s }$ 的脑电成分(Gabor,Jan,& Istvan,2014)。Zhong 等(2015)对VMMN和颜色范畴加工关系的研究显示，语言对颜色知觉的影响可能在早期无意识阶段就显现出来了。这些研究结果提示，颜色范畴知觉可能是长期进化而来的先天效应，但在人类心理发展过程中，语言标签会对颜色范畴知觉产生塑造作用，使颜色范畴效应出现左脑优势，即由知觉效应转化成一种受语言影响的效应。这些结论在跨语言研究中得到进一步证明。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "跨语言比较研究发现，不同语言背景的使用者颜色范畴知觉可能不一致，印证了语言标签塑造颜色范畴知觉的观点。在相同的色光区域内，不同语言拥有的基本颜色词可能不同，如俄语中在波长为 $4 4 0 { \\sim } 4 8 5$ 纳米光区有两个基本颜色词“goluboy(浅蓝)\"和\"siniy(深蓝)”，而英语中却仅一个\"blue(蓝)”(Winawer et al.,2007)。通过俄语者和英语者对比发现，在分辨深蓝和浅蓝两种颜色时，俄语者表现出范畴知觉效应，而英语者却没有表现出这种效应。与俄语类似，蒙古语在440\\~485纳米区也有两个基本颜色词\"qinker(浅蓝)\"和\"huhe(深蓝)”，而汉语中却仅一个“蓝”，有研究显示，蒙古语被试在分辨深蓝和浅蓝时表现出俄语者相同的效应，而汉语者却表现出与英语者相同的效应(He,Li,Zhang,&Zhang,2016)。韩语在绿色光区有两个基本颜色词\"yeondu（黄绿)\"和\"chorok(绿)”,而英语却仅一个“green（绿)”,Roberson，Pak和Hanley(2008)发现，韩语被试在识别黄绿和绿时，出现了左偏侧化的颜色范畴效应，而英语被试未表现出颜色范畴效应。希腊语在蓝区也有两个语言标签(基本颜色词)\"ghalazio (浅蓝)\"和\"ble(深蓝)”,有研究对希腊语和英语不同语言使用者早期颜色知觉的脑电生理活动进行了比较，结果表明语言差异在颜色视觉加工的早期就显示出来，这种差异在脑电成分上表现为视觉失匹配负波的出现(Thierry， Athanasopoulos， Wiggett， Dering，&Kuipers,2009)。来自不同单语者的比较研究证实了语言对知觉有一定作用，但对各单语者颜色知觉的组间比较，会因个体差异等复杂因素而对结果产生干扰。为了避免或减少干扰效应，研究者开始以双语者作为研究对象。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "双语者的研究主要围绕两个问题进行：第一，如果双语者的两种语言的颜色词存在着区别，那么在颜色分辨时双语者的认知加工机制如何；第二，双语者在二语学习过程中，第二语言的语言标签是否会对其母语产生干扰。这些问题的阐释可为揭示语言与知觉的关系提供新的证据。Jameson和Alvarado (2003)对越南-英语双语者的研究表明,由于越南语比英语拥有颜色词少，越南语-英语双语者更倾向于依据第二语言修正颜色命名行为。和希腊语一样，日语在蓝色区域也有两个颜色词，Athanasopoulos等(2011)对日语-英语双语者的研究显示，日语-英语双语者对深蓝和浅蓝色的区分程度与英语使用频率成负相关，英语使用频率较低的日-英双语者对深蓝和浅蓝的区分时，呈现更强的范畴效应。源自希腊语-英语双语者的研究结果也显示，短时期生活在英国的希腊语-英语双语者表现为蓝色诱发的vMMN大于绿色，而长期生活在英国的希腊双语者并未表现出蓝色和绿色的知觉差异，与母语为英语使用者的结果一致。在相似性判断和颜色命名任务中，长期双语者范畴效应不显著，而短期者却显示范畴效应(Athanasopoulos, Dering， Wiggett， Kuipers， &Thierry,2010)。双语者的研究表明，语言学习可使已形成的知觉表征模式发生变化，而在二语国家居住或文化浸润时间长短、语言熟练程度、语言使用频率及二语获得年龄等因素是导致发生变化的条件。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "有关双语者的研究印证了以往认知神经科学研究和跨语言研究的结果，为揭示语言-认知-脑关系提供了新思路和新方法，但还存在一些有待深入的研究问题。首先，双语者第二语言对母语颜色范畴干扰的脑机制尚不清晰。采用脑电技术开展双语者第二语言习得对颜色范畴知觉的影响的研究，有利于从时间进程方面反映出语言对范畴知觉发生作用的精细加工阶段，并从认知加工时间进程的角度揭示出这一认知活动的脑机制。其次，已有研究提示二语水平可能改变双语者的认知加工能力(姜淞秀，李杰，刘兴宇，七十三，杨伊生，2015；张积家，张凤玲,2010;Boroditsky,2001)，但关于颜色知觉研究的自变量主要涉及到与二语水平有关的间接指标，如二语使用频率或在二语国家居住时间等，并未将二语熟练度水平作为直接考量因素；而多数研究的因变量指标均采用李克特量表进行颜色相似性判断，在精准程度和客观性上有待提升。最后，已报道的研究中涉及第二语言均为英语，而以汉语为二语的研究报道极少，通过对汉语的研究即可与英语研究进行比对，可以从更广泛的跨语言角度对语言关联性假说进行验证，为以往双语研究中二语概念对一语概念的影响提供更多的实验证据。蒙古语-汉语双语者(以下简称“蒙汉双语者\"是内蒙古地区常见的双语使用者类型，在440\\~485纳米光区汉语有一个基本颜色词“蓝”，但蒙古语有两个基本颜色词“huhe”和“qinker”，这意味着蒙汉语双语者在蓝色区域习得了两种颜色范畴，母语蒙语中的颜色范畴是否会受到汉语的影响发生变化是一个有待验证的问题。如果确实存在影响作用，那么作用的强弱是否与汉语言熟练水平有关也需进一步澄清。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于上述问题，参考Gilbert等(2006)研究采用的视觉搜索范式，本研究先从行为层面对汉语水平不同的蒙汉双语者颜色范畴知觉效应的进行比较研究。基于Spair-Whorf假设可预期，汉语水平较高的蒙汉双语者在识别蓝色区反应时比汉语水平较低的蒙汉双语者呈现的范畴效应较弱。为了进一步探索语言影响颜色知觉的脑机制，在行为实验结果基础上，利用事件相关电位技术(Event-relatedPotential,ERP)进行验证。依据Mo等(2011)的研究，Oddball范式可以考察不同熟练度蒙汉双语者颜色范畴知觉效应的早期认知加工的时间进程，从脑电活动水平反映语言与知觉的关系。根据Spair-Whorf假设推断，汉语水平较低的蒙汉双语者在识别深蓝和浅蓝时出现的vMMN比汉语水平较高的被试呈现较强范畴效应。因已有的研究多是单语研究对象的组间研究，为减少样本个体差异的影响，考虑到蒙古语和汉语在绿色区只有一个语言标签\"nogvgan\"，本研究用被试内设计的方式比较了蒙汉双语被试在识别不同色调的蓝色和绿色产生的视觉失匹配负波，预期在识别不同深浅的蓝色比识别不同深浅的绿色能产生更强的vMMN，而且这种强弱差异在汉语水平低的蒙汉双语者表现更为显著。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 视觉搜索实验 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1被试 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "蒙汉语双语大学生68名，视力或矫正视力正常，均为右利手，母语均为蒙古语，第二语言均为汉语。实验之前通过语言背景调查，将被试分成高汉语水平组和低汉语水平组。考虑到蒙古语与汉语均值差越小，被试的汉语和母语水平越接近，于是将蒙古语听说读写自评量平均得分减去汉语听说读写的平均分小于等于1作为高汉语水平组，大于1作为低汉语水平组，见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验材料包含4种渐变的蓝色A、B、C和D。选择专业、生源地不同的蒙古语和汉语母语大学生各20人，进行预实验命名任务。具体过程为将ABCD四种色块用E-prime在灰背景中呈现，每个色块随机呈现5次，让被试对颜色自由命名。结果显示，20名蒙古语被试在所有反应条件下都认为，A和B是qinker色,C和 $\\mathrm { ~ D ~ }$ 是huhe色,20名汉语被试在所有条件都认为四种颜色都是蓝色，4种颜色RGB值分别为 $\\mathrm { A } = ( 4 2 , 1 6 1 , 2 1 8 )$ ·， $\\mathbf { B } = ( 2 8 , 1 3 9 , 2 0 3 )$ $\\mathrm { C } = ( 4 , 1 1 8 , 1 8 5 )$ · ${ \\bf D } = ( 2 6 , 9 6 , 1 6 5 ) .$ 。相邻颜色对距离(CIELab 值)为，范畴内 $( \\mathrm { A } , \\mathrm { B } ) = ( \\mathrm { C } , \\mathrm { D } ) = 5 . 1 0 \\Delta \\mathrm { E }$ $( \\mathrm { B } , \\mathrm { C } ) = 5 . 0 7 \\Delta \\mathrm { E } .$ 。范畴内色对和范畴间色对的距离大致相等。正式实验材料用E-prime软件在17寸液晶显示屏中灰色背景(RGB：192,192,192)中呈现。参考 Zhou 等(2010)的研究，将色块组成一个由12个色块组成的色块环，其中有1个色块与其它11个背景色块的颜色不同，这个不同的色块称为目标色块，目标色块仅出现在色块环最左和最右四个位置，目标色块与背景色块的关系可能是范畴间，也可能是范畴内。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/03325435e6ebf6ab00a634c1c8c9b0d022ae0e9d37ed6df8c676f627b52b043e.jpg",
+        "table_caption": [
+            "表1蒙汉双语被试语言水平情况 $\\left[ M \\left( S D \\right) \\right]$ （204"
+        ],
+        "table_footnote": [
+            "注： $^ { * * } p < 0 . 0 1$ ， $^ { * * * } p < 0 . 0 0 1$ "
+        ],
+        "table_body": "<html><body><table><tr><td>筛选指标</td><td>高汉语水平</td><td>低汉语水平</td></tr><tr><td>被试数</td><td>35 (男17,女18)</td><td>33 (男15,女18)</td></tr><tr><td>平均年龄(岁)</td><td>20.85 (1.14)</td><td>21.10 (1.16)</td></tr><tr><td>蒙古语听力</td><td>5.24 (0.95)</td><td>5.66 (1.08)</td></tr><tr><td>蒙古语口语</td><td>5.23 (0.99)</td><td>5.49 (1.03)</td></tr><tr><td>蒙古语阅读</td><td>5.09 (1.02)</td><td>5.12 (0.99)</td></tr><tr><td>蒙古语写作</td><td>5.10 (1.01)</td><td>5.18 (1.02)</td></tr><tr><td>汉语听力**</td><td>4.89 (1.23)</td><td>4.04 (1.29)</td></tr><tr><td>汉语口语**</td><td>4.97 (1.34)</td><td>4.08 (1.19)</td></tr><tr><td>汉语阅读***</td><td>4.86 (1.29)</td><td>3.80 (0.99)</td></tr><tr><td>汉语写作***</td><td>4.66 (1.19)</td><td>3.79 (0.98)</td></tr><tr><td>蒙古语使用频率(%)***</td><td>74.45 (9.90)</td><td>89.38 (10.02)</td></tr><tr><td>汉语使用频率(%)***</td><td>45.54 (6.60)</td><td>28.97 (5.79)</td></tr><tr><td>开始习得二语的年龄(岁)**</td><td>8.96 (1.86)</td><td>10.02 (0.96)</td></tr><tr><td>能用汉语交流年龄(岁)***</td><td>10.23 (2.09)</td><td>14.36 (3.96)</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3过程",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验为两因素2汉语水平(高汉语，低汉语) $\\times 2$ 颜色范畴(同，异)混合设计。其中，汉语水平是被试间变量，颜色范畴是被试内变量。实验中被试坐在自然光照明的房间中，离显示器距离大约$6 5 ~ \\mathrm { c m }$ 。参考Zhou等(2010)的研究，正式实验共有64个试次，其中BC和CB为范畴间，各识别16次;AB和CD为范畴内，各识别16次。每个试次呈现顺序为，在屏幕中央首先出现一个红色注视点（2 $^ { \\cdot \\cdot } + ^ { \\cdot \\cdot } 5 0 0 ~ \\mathrm { m s }$ ，接着呈现一个以黑色注视点为中心，由12个颜色块组成的色块环，要求被试在 $3 0 0 0 ~ \\mathrm { { m s } }$ 内判断目标色块出现的位置并做出反应，左边按F键,右边按J键，按键后或超时不按键色块环自动消失，接着呈现 $1 0 0 0 ~ \\mathrm { { m s } }$ 的灰屏，开始下一个试次。正式实验前，被试完成16个试次练习实验。实验后被试填写自编的“语言情况调查表”。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "所有被试正确率都高于 $90 \\%$ ，无速度-准确性权衡。删除被试错误反应后，剔除2倍标准差以外的反应时数据，总约 $9 \\%$ 的数据剔除。剔除数据后反应时描述性统计数据见表2。反应时方差分析结果显示，颜色范畴主效应显著, $F ( 1 , 6 6 ) = 3 4 . 7 8 , p <$ 0.001, $\\mathfrak { \\eta } ^ { 2 } = 0 . 3 4$ ，被试类型主效应不显著, $F ( 1 , 6 6 )$ （204号$= 2 . 7 5$ 5 $p > 0 . 0 5$ 。被试类型 $\\times$ 颜色范畴的交互作用显著， $F ( 1 , 6 6 ) = 1 8 . 9 0$ $p < 0 . 0 0 1$ ， $\\mathfrak { n } ^ { 2 } = 0 . 2 2$ 。简单效应分析显示，高汉语水平蒙汉双语者的颜色范畴知觉效应不显著，低汉语水平蒙汉双语者颜色范畴效应显著, $p < 0 . 0 0 1$ ， $\\mathfrak { \\eta } ^ { 2 } = 0 . 5 4$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/acfe6f9131370b813c72d9a515a8b7d5bb3e18781a7c15f0a86d014b2cbc6680.jpg",
+        "table_caption": [
+            "表2不同汉语水平蒙汉双语者视觉搜索任务反应时$[ M ( S D ) , \\mathbf { m s } ]$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">汉语水平</td><td colspan=\"2\">颜色范畴</td></tr><tr><td>异</td><td>同</td></tr><tr><td>高</td><td>893 (193)</td><td>923 (187)</td></tr><tr><td>低</td><td>910 (194)</td><td>1064 (201)</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "已往研究报道，蒙古语者在识别深蓝和浅蓝时出现了显著的范畴效应，而汉语者在区分深蓝和浅蓝时未出现这一效应(He etal.,2016)。本研究区分了蒙汉双语者的汉语水平，结果显示，高汉语水平的蒙汉双语者在区分深蓝和浅蓝时，和汉语者的表现相似，都没有出现显著的范畴知觉效应，而低汉语水平的蒙汉双语者却与蒙古语者表现相似，均出现了显著的颜色范畴知觉效应。这提示第二语言熟练度差异会使双语者表现出颜色范畴知觉效应的差异，从更精细的语言水平区分度层面验证了语言对知觉的作用，为Spair-Whorf语言关联性假设提供了支持依据。鉴于上述研究结果并结合已有研究，实验二将利用事件相关脑电技术，进一步考察不同熟练度蒙汉双语者颜色范畴知觉效应在知觉早期阶段是否也存在差异，探索语言影响颜色范畴知觉效应的脑机制。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3脑电实验 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1被试 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "蒙汉双语大学生29名，被试筛选和分组标准同“视觉搜索实验”，见表3。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/65286c681db705a1b9c1dea68d3a4f1c368c6abc9d520adebc808b398a759dcc.jpg",
+        "table_caption": [
+            "表3脑电实验中不同汉语水平被试情况 $\\left[ M \\left( S D \\right) \\right]$ "
+        ],
+        "table_footnote": [
+            "注： $^ { * * } p < 0 . 0 1$ ， $^ { * * * } p < 0 . 0 0 1$ "
+        ],
+        "table_body": "<html><body><table><tr><td>筛选指标</td><td>高汉语水平</td><td>低汉语水平</td></tr><tr><td>被试数</td><td>15 (男8,女7)</td><td>14 (男7,女7)</td></tr><tr><td>平均年龄(岁)</td><td>21.25 (1.10)</td><td>21.20 (1.17)</td></tr><tr><td>蒙古语听力</td><td>5.34 (0.96)</td><td>5.76 (1.09)</td></tr><tr><td>蒙古语口语</td><td>5.28 (1.09)</td><td>5.39 (1.01)</td></tr><tr><td>蒙古语阅读</td><td>5.19 (1.01)</td><td>5.22 (1.00)</td></tr><tr><td>蒙古语写作</td><td>5.15 (1.01)</td><td>5.16 (1.02)</td></tr><tr><td>汉语听力**</td><td>4.99 (1.23)</td><td>4.17 (1.29)</td></tr><tr><td>汉语口语**</td><td>4.97 (1.21)</td><td>3.98 (1.09)</td></tr><tr><td>汉语阅读***</td><td>4.93 (1.19)</td><td>3.90 (1.00)</td></tr><tr><td>汉语写作***</td><td>4.86 (1.09)</td><td>3.76 (0.98)</td></tr><tr><td>蒙古语使用频率(%)***</td><td>78.65 (9.95)</td><td>91.68 (11.01)</td></tr><tr><td>汉语使用频率(%)***</td><td>43.54 (6.45)</td><td>24.42 (5.43)</td></tr><tr><td>开始习得二语的年龄(岁)**</td><td>8.46 (1.96)</td><td>11.08 (2.99)</td></tr><tr><td>能用汉语交流年龄(岁)***</td><td>9.73 (1.97)</td><td>14.86 (4.26)</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2材料",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "选用四种颜色H1(RGB:26,96,165),Q1(RGB:28,139,203)和 G1 (RGB : 0,254,84),G1( $\\mathrm { ( R G B : 0 }$ 175,52)，实验过程同视觉搜索实验。预实验命名任务显示出，H1和Q1都是汉语中的蓝色，但分别是蒙古语中的huhe和qinker色,G1和G2在汉语和蒙古语中都表示绿色。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3过程",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 脑电数据记录",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "BrainProduct公司脑电系统和actiCAP64导电极帽不间断的记录脑电数据，以 $\\mathrm { F C z }$ 点为参考电极,接地点为 $\\mathrm { A F z }$ 中点。垂直眼电(VEOG)在右眼下部放置电极记录。信号采样率是 ${ 5 0 0 } \\mathrm { H z }$ ，滤波带宽为$0 . 0 1 { \\sim } 7 0 ~ \\mathrm { H z }$ ，陷波为 ${ 5 0 } \\mathrm { H z }$ 。头皮与电极的接触电阻均小于 $7 ~ \\mathrm { k } \\Omega$ (Thierry, et al.,2009)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.2 脑电数据分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用BP公司的Vision Analyzer Software（Version2.0)软件离线分析原始数据。具体步骤如下：将参考电极转为TP9和TP10的平均参考；去眼电伪迹采用低通 $2 0 ~ \\mathrm { H z }$ 进行滤波，以刺激呈现前 $1 0 0 ~ \\mathrm { { m s } }$ 到线索呈现后 $7 0 0 ~ \\mathrm { { m s } }$ 为标准进行分段，用线索呈现前 $1 0 0 ~ \\mathrm { { m s } }$ 的脑电作基线矫正。将枕部电极O1,O2,Oz,POz,PO3,PO4,PO7,PO8合成一个电极，对同刺激条件下的数据进行叠加处理，经过基线矫正和平均后得出每个被试在不同刺激条件下的平均脑电波形，再由偏差刺激减去标准刺激，180\\~260ms内的波峰便是失匹配负波，然后对所有被试在各条件下的脑电波进行总平均(Thierryetal.,2009)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.3 实验过程",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将实验材料做成圆形或方形颜色块。根据Oddball范式，圆形色块是标准刺激或者偏差刺激，偏差刺激与标准刺激颜色不同，方形色块是目标刺激，这些刺激将在联想电脑的液晶显示器上显示，每个色块显示 $8 0 0 ~ \\mathrm { { m s } }$ ，色块与色块显示时间间隔为 $2 0 0 ~ \\mathrm { { m s } . }$ 。实验分成4个blocks，其中两个blocks用绿色材料,G1和G2轮流当标准刺激(偏差刺激),另外两个blocks为蓝色材料,H1和Q1轮流当标准刺激(偏差刺激)，每个block包含640个色块，标准刺激、偏差刺激、目标刺激出现的概率分别为 $70 \\%$ 、$2 0 \\% . 1 0 \\%$ ，每个block有64组，每组10个色块，在这10个色块中伪随机的呈现7次标准刺激，2次偏差刺激(不会连续呈现),1次目标刺激,64组色块呈现顺序随机。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "被试单独坐在一个较暗的的实验室中，离灰背景(RGB：192,192,192)显示屏距离大约 $6 0 ~ \\mathrm { c m }$ 经过180个色块的练习实验后，呈现 $8 0 0 ~ \\mathrm { { m s } }$ 的红色注视点并开始实验，实验中被试看到目标刺激需要按K键，其余色块不能按键，目标刺激、偏差刺激和标准刺激伪随机呈现。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4.1 目标刺激",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "目标刺激的平均击中率为 $9 8 . 6 5 \\%$ ，平均反应时为 $5 1 7 ~ \\mathrm { m s }$ ，平均误击次数小于3。参照 Mo, $\\mathrm { \\Delta X u }$ Kay和Tan(2011)的研究，取刺激呈现后时间窗$1 6 0 { \\sim } 2 4 0 ~ \\mathrm { m s }$ 测量N2的平均波幅。结果显示，目标刺激比标准刺激诱发了更大 N2, $F ( 1 , 2 8 ) = 2 3 . 5 3 , p \\textmd { < }$ 0.001, $\\eta ^ { 2 } = 0 . 1 7$ ，如图1。地形图是用相应时间窗内的ERP均值进行绘制。行为数据与ERP数据表明被试对目标刺激有很高的识别率，对目标刺激投入了高度的注意，说明在Oddball范式中，被试对偏差刺激的反应模式符合诱发vMMN的条件(Gabor et al., 2014)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4.2 偏差刺激 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在 $1 8 0 { \\sim } 2 6 0 ~ \\mathrm { m s }$ 时间窗内，对不同语言水平的两组双语被试的枕区原始波的波峰值和潜伏时间分别进行2(颜色：蓝，绿) $\\times 2 ($ 刺激类型：标准，偏差)重复测量方差分析。结果显示，低汉语水平双语者的波峰值的刺激类型主效应显著, $F ( 1 , 1 3 ) =$ 10.26, $p < 0 . 0 0 1$ ， $\\mathfrak { \\eta } ^ { 2 } = 0 . 4 2$ ，颜色类型的主效应不显著，二因素交互作用显著， $F ( 1 , 1 3 ) = 2 4 . 6 8$ ， $p <$ 0.001, $\\mathfrak { n } ^ { 2 } = 0 . 6 3$ ；高汉语水平的波峰值的刺激类型主效应显著, $F ( 1 , 1 4 ) = 8 9 . 5 6 \\$ $p < 0 . 0 0 1$ ， $\\mathfrak { \\eta } ^ { 2 } = 0 . 8 5$ 颜色类型的主效应显著,F(1,14)=60.45,p<0.001,$\\mathfrak { \\eta } ^ { 2 } = 0 . 8 0$ ，二因素交互作用不显著， $F ( 1 , 1 3 ) = 1 . 3 2$ $p > 0 . 0 5$ 。潜伏时间分析结果显示各组被试的主效应和交互作用都不显著， $p > 0 . 0 5$ ， $\\eta ^ { 2 } < 0 . 0 6$ ，均在$2 0 0 ~ \\mathrm { { m s } }$ 左右。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "两组被试的偏差刺激诱发的负波都显著大于标准刺激诱发的负波，用枕区偏差刺激的波形减去标准刺激的波形，在 $1 8 0 { \\sim } 2 6 0 ~ \\mathrm { m s }$ 时间窗内所得的差异波为视觉vMMN，如图2，地形图是用相应时间窗内的vMMN均值进行绘制。对两组双语被试的vMMN 的平均波幅进行2汉语水平(高，低) $\\times$ 2(颜色类型：蓝，绿)混合设计的方差分析，汉语水平和颜色的主效应不显著, $p > 0 . 0 5$ ， $\\mathfrak { \\eta } ^ { 2 } < 0 . 0 6$ ，汉语水平和颜色的交互作用显著, $F \\left( 1 , 2 8 \\right) = 2 5 . 0 8$ ， $p <$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e181226621c85b8bf563505767889ce4bf4d5039b3f3bffecc35f1c3ddc6f769.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/6972e5850797d50c7f9a1014b671d452211dab7e4ba128e1f846829d73f57ce3.jpg",
+        "img_caption": [
+            "图1Oddball实验中目标、标准刺激在枕区诱发的 ERP总平均波形和目标刺激诱发的N2地形图",
+            "图2不同汉语水平的蒙汉双语者枕区偏差刺激减标准刺激差异波形图和地形图。(a)低汉语水平蓝和绿vMMN地形图。(b)波形图。(c)高汉语水平的蓝和绿vMMN地形图。"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "0.001, $\\boldsymbol { \\eta } ^ { 2 } = 0 . 4 6$ 。简单效应分析显示，高汉语水平被试蓝色刺激和绿色刺激产生的vMMN平均波幅差异不显著， $p > 0 . 0 5$ ， $\\eta ^ { 2 } = 0 . 1 6$ ，低汉语水平被试蓝色刺激产生的vMMN平均波幅显著大于高汉语水平， $p < 0 . 0 5$ ， $\\boldsymbol { \\eta } ^ { 2 } = 0 . 1 2$ ，低汉语水平被试识别蓝色刺激产生的vMMN平均波幅显著大于绿色, $p <$ 0.001, $\\mathfrak { \\eta } ^ { 2 } = 0 . 4 6$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.5讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "脑电数据结果表明，蒙汉双语者二语水平影响了他们的颜色知觉，相比高汉语水平蒙汉双语者，低汉语水平蒙汉双语者在识别蓝色时产生更强的vMMN，并且低汉语水平蒙汉双语者识别蓝色比识别绿色产生更强的vMMN。蒙古语在蓝色区有两个颜色词，绿色区仅有一个颜色词，汉语在蓝色和绿色区均只有一个颜色词，由于颜色词对颜色知觉的影响，低汉语水平蒙汉双语者受汉语的颜色词的影响较弱，在蓝色区识别qinker色和huhe色产生了颜色范畴知觉效应，从而诱发了更强的VMMN，而汉语水平较高的蒙汉双语者，由于第二语言颜色词干扰了母语语言标签，在蓝区没有范畴效应。从vMMN的潜伏时间和性质来看，蒙汉双语者汉语的学习影响了颜色知觉的前注意阶段，这种影响是自动化的过程。这与Athanasopoulos,Dering,Wiggett,Kuipers 和 Thierry (2010)对希腊语-英语双语者研究结果相似，英语的学习也会干扰希腊语-英语双语者的语言标签，从而影响希腊语-英语双语者的颜色范畴知觉效应。本研究结果也说明，语言对颜色范畴知觉的作用发生在认知加工的早期，双语者两种语言的不同颜色词会相互影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4总讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "颜色知觉是人对色光物理刺激的感知，考虑到自然环境中色光频谱的一致性和人类视觉生理过程的普遍性，语言普遍论认为颜色知觉是一种自下而上的加工过程，与语言和文化无关，颜色的范畴效应也与语言无关(刘强 等,2008;Yang et al.,2016;Berlin&Kay,1969)。近年来,Spair-Whorf语言关联假设得到越来越多支持证据，认为作为初级认知过程的颜色知觉同样也会受到语言影响。来自发展心理学和人工概念学习研究表明，语言学习使颜色范畴效应由知觉效应转化成语言效应(Kwok et al.，2011；Zhou et al.,2010;Franklin et al.,2008;Franklin et al.,20o8)。Athanasopoulos 等对双语者的研究也验证了语言影响知觉的效应，从母语概念干扰的角度初步探查到如果两种语言存在相互间干扰，可使颜色范畴效应由语言效应变成知觉效应。本研究结果也发现，与英语差异较大的汉语，当其作为第二语言学习时，会对蒙汉双语者母语的颜色范畴知觉产生影响。当前相关研究主要由西方语言研究和单语者组间差异比较而得结论,本研究既扩展了已有研究的外部效度，又运用反应时技术和脑电研究扩展了其研究内部效度。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "以往对颜色范畴知觉效应的跨语言研究都是被试间设计，个体差异带来的误差较大。本研究的脑电实验用被试内设计比较了同一语言中语言标签数量不同的色区，发现语言标签越多的色区，范畴效应越强，这更加清晰的说明语言会影响知觉。这一结果与 Zhong等(2015)、Kwok等(2011)和 Zhou等(2010)人工概念学习研究的结论相似，且本研究展示了自然语言学习过程中双语者的颜色范畴知觉会发生变化，将Zhou和Kwok等的研究结论由实验室研究扩展到自然学习过程，扩展了以往研究的生态效度。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Mo等(2011)的研究发现，由于语言对颜色知觉的作用，vMMN的颜色范畴效应具有左脑优势效应。Liu等(2009)采用视觉搜索任务的ERP研究发现，由于语言对颜色范畴知觉的作用，视觉搜索任务中N2pc出现右视野-左脑偏侧化趋势。本研究的脑电实验运用Oddball范式，发现潜伏期为 $2 0 0 ~ \\mathrm { { m s } }$ 左右的vMMN具有颜色范畴效应，与前两个研究相互印证，共同说明语言能影响早期知觉过程。结合本研究和已有的研究可推论，语言不仅影响高级认知过程(如记忆和思维)，还会影响感知觉初级认知过程，不仅影响有意识的认知过程，还影响前注意阶段的早期认知过程。这说明人类的知觉具有极强的灵活性和可塑性，语言对知觉有塑造(shape)作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从语言对知觉的塑造作用角度来看，语言普遍论与语言关联假设并不矛盾。Yang等(2016)和Franklin等(2008)的研究，从发展心理学角度既展示了语言普遍论的一面，又展示了儿童在发展过程中颜色知觉可以在先天能力基础上被语言所塑造，语言与知觉逐渐发生关联。Zhong等(2015)、Kwok等(2011)和Zhou等(2010)采用人工概念学习研究从因果关系的角度证实了语言是塑造颜色知觉的原因之一。双语者颜色范畴知觉的研究揭示出，不同的语言学习或文化接触会对颜色知觉产生影响。综上所述，知觉加工虽有独立于语言的普遍性一面，但又会被语言所影响,Spair-Whorf假设有其合理性，至少弱假设是成立的。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "双语者二语熟练度不同会在概念连接层面存在差异，高熟练度语言持有者为共享概念层，而低熟练者为分离概念层(姜淞秀 等,2015;Boroditsky，2001)，范畴知觉效应属于概念或类别的判断，高水平蒙汉双语的蓝色范畴更接近于共享或者逐渐融合为一个概念，而低熟练者受母语影响较明显,更倾向于用自己熟悉的母语进行分类，这说明后天的语言学习可让范畴知觉效应发生变化，这一变化可能因语言的熟练程度有差异。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "关于语言影响颜色知觉的认知机制研究方面！Hu,Hanley,Zhang,Liu和Roberson (2014)的研究提出范畴标签自动对比模型(CategoryLabelComparisonModel)，该模型认为颜色范畴效应来自于语言标签和知觉信息自动对比过程的认知冲突，人类在识别同范畴的颜色(如深蓝色和浅蓝色)，语言标签相同(都是“蓝\")，但知觉信息不同(“深色\"和“浅色\"),语言标签和知觉信息的对比结果不一致，使知觉早期产生认知冲突，从而加工时间较长；当识别不同范畴颜色时(如蓝色和绿色)，语言标签不同(\"蓝\"和“绿\")，知觉信息也不同(“蓝色\"和“绿色\")，语言标签和知觉对比结果一致，无认知冲突而加工时间较短，所以，范畴内和范畴间信息加工不同产生了范畴效应。本研究中低汉语水平蒙汉双语者在识别qinker和huhe比识别绿色时表现出更强的vMMN，也揭示范畴标签的对比是一种自动的早期过程，印证了范畴标签自动对比模型。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究采用了较客观的语言评价方法对语言熟练度进行了操纵，但对于语言熟练度的更精准区分需要新的语言测量方法或实验方法。另外，实验研究范式对脑电成分vMMN信噪比有一定影响，在后续研究中可采用其它实验范式进行再验。总之，本研究从双语者第二语言学习角度，从行为和脑电生理活动两个层面共同证实了语言对颜色知觉具有影响作用，为Spair-Whorf假设提供了证据,从语言塑造的作用或范畴知觉动态变化的角度扩充了已有的研究结论。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "除了颜色知觉，有关语言影响时间知觉(Boroditsky,2001)、运动和空间知觉(Athanasopoulos&Bylund,2013；Bylund & Athanasopoulos,2013)、面孔知觉(Fugate,2013)、分类方式(Athanasopoulos&Kasai,2007；张启睿，和秀梅，张积家，2007)和形状知觉(Gilbert,Regier,Kay,&Ivry,2008)等也有报道。这些发现有利于更清晰的认识语言与知觉(认知)的关系。为了更深入的理解语言影响认知的脑机制，目前有些问题还需系统、深入的探讨，如语言在知觉加工的早期和晚期过程所起作用有何不同；除了范畴标签自动对比模型是否还有可解释范畴知觉的模型；没有色光感知经验的先天盲童是否会通过语言强化建立颜色范畴知觉效应。语言作为一种重要不可或缺的文化标签，不同的民族文化个体在自然环境、社会和文化方面的差异集中体现在语言上，语言和文化有着极密切的联系，双语者与双文化者也有极其密切的关系。文化或民族心理学学者已把语言作为文化心理学研究的突破口(Zhang,Morris,Cheng,& Yap,2013；肖二平,张积家,2013)。通过讨论语言标签对人类心理学的影响，将语言心理学与文化心理学进行整合研究也许会为当前文化心理学带来了新的研究角度。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5 结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "汉语熟练度不同的蒙汉双语者颜色范畴知觉效应存在差异，语言对知觉的作用在早期前注意阶段已有显现,Spair-Whorf假设在知觉早期加工过程中也成立。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "致谢：本研究得到内蒙古师范大学教育科学学院全体师生的大力协助，在此致以诚挚的谢意！",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献   \nAthanasopoulos,P.，& Bylund,E.(2013).Does grammatical aspect affect motion event cognition? A cross-linguistic comparison of English and swedish speakers.Cognitive Science,37(2),286-309.   \nAthanasopoulos,P., Damjanovic,L.,Krajciova,A.,& Sasaki, M.(2011). Representation of colour concepts in bilingual cognition: The case of Japanese blues.Bilingualism: Language and Cognition, 14(1), 9-17.   \nAthanasopoulos,P.,Dering,B.,Wiggett,A., Kuipers, J-R.,& Thierry,G.(2010).Perceptual shift in bilingualism:Brain potentials reveal plasticity in pre-attentive colour perception. Cognition, 116(3),437-443.   \nAthanasopoulos, P.,& Kasai, C. (2007). Language and thought in bilinguals: The case of grammatical number and nonverbal classification preferences.Applied Psycholinguistics,29(1), 105-123.   \nBerlin,B.,& Kay,P. (l969).Basic color terms:Their universality and evolution. Berkeley and Los Angeles: University of California Press.   \nBoroditsky,L.(2oo1).Does language shape thought? Mandarin and English speakers' conceptions of time. Cognitive Psychology, 43(1),1-22.   \nBylund，E.，& Athanasopoulos，P. (2013).Language and thought in a multilingual context: The case of isiXhosa. Bilingualism: Language and Cognition, 17(2), 431-441.   \nChris,M.B., Samuel, C.B.,Aidan,J.H.,& Franklin,A.(2014). Categorical encoding of color in the brain. Proceedings of the National Academy of Sciences of the United States of America,111(12),4590-4595.   \nDrivonikou, G.V.,Kay,P.,Regier,T., Ivry,R.B., Gilbert,A. L.,Franklin,A.,& Davies,I.R.(2007).Further evidence that Whorfian effects are stronger in the right visual field than the left.Proceedings of the National Academy of Sciences ofthe United StatesofAmerica,104(3),1097-1102.   \nFranklin,A.,Drivonikou, G. V., Bevis,L.,Davies,I. R.,Kay, P.,& Regier,T.(2oo8). Categorical perception of color is lateralized to the right hemisphere in infants,but to the left hemisphere in adults.Proceedings of the National Academy of Sciences of the United States of America, 105(9), 3221-3225.   \nFranklin,A., Drivonikou,G. V., Clifford,A., Kay,P., Regier, T.,& Davies,I.R.(20o8).Lateralization of categorical perception of color changes with color term acquisition. Proceedings of the National Academy of Sciences of the United States of America,105(47),18221-18225.   \nFugate,J.M.B.(2013). Categorical Perception for Emotional Faces.Emotion Review Journal of the International Society for Research on Emotion, 5(1),84-89.   \nGabor,S.，Jan，K.，& Istvan,C.(2014).Visual mismatch negativity: A predictive coding view. Frontiers in Human Neuroscience,8(3),666.   \nGilbert, A.L.,Regier, T., Kay,P.,& Ivry, R.B. (2006).Whorf hypothesis is supported in the right visual field but not the left.Proceedings of the National Academy of Sciences of the United States ofAmerica,103(2),489-494.   \nGilbert,A.L.，Regier,T.，Kay，P.，& Ivry,R.B.(2008). Support for lateralization of the Whorf effect beyond the realm of color discrimination. Brain and Language,105(2), 91-98.   \nHu He,Jie Li, Ying Zhang,& Zhang, S. (2016). Language affects Perception: Evidence from Mongolian.Paper presented at the meeting of the l6th International Conference on the Processing of East Asian Languages,Guangzhou, China.   \nHu,Z.,Hanley,J.R.,Zhang，R.，Liu,Q.，& Roberson,D. (2014).A conflict-based model of color categorical perception: evidence from a priming study.Psychonomic Bulletin & Review, 21(5),1214-1223.   \nJameson,K.A.,& Alvarado,N.(20o3).Differences in color naming and color salience in Vietnamese and English. Color Research and Application,28(2),113-138.   \nJiang, S.X.,Li, J.,Liu,X,Y., Qi, S. S.,& Yang,Y, S. (2015). An erp study of advantage effect differences on task switching in proficient and non-proficient bilinguals.Acta Psychologica Sinica,47(6),746-756.   \n[姜淞秀，李杰，刘兴宇，七十三，杨伊生.(2015)．不同熟 练度双语者非语言任务转换的差异--来自ERP证据．心 理学报,47(6),746-756.]   \nKwok,V., Niu,Z.,Kay, P., Zhou,K.,Mo,L., Jin,Z.,... Tan,L. H.(2011).Learning new color names produces rapid increase in gray matter in the intact adult human cortex. Proceedingsofthe National Academy of Sciences ofthe United States of America,108(16),6686-6688.   \nLiu,Q.,Chen,A.,Wang,Q.,Zhou,L.,& Sun,H.(20o8).An evidence for the effect of categorical perception on color perception.Acta Psychologica Sinica,40(1),8-13.   \n[刘强，陈安涛，王琪，周柳，孙弘进.(2008)．知觉加工中 存在颜色类别知觉效应的证据．心理学报,40(1),8-13.]   \nLiu,Q.,Li, H., Campos, J.L., Wang, Q., Zhang, Y., Qiu,J.，. Sun H-J. (2009). The N2pc component in erp and the lateralization effect of language on color perception. Neuroscience Letters,454(1),58-61.   \nMo，L.， Xu,G.，Kay，P.，&Tan，L-H.(2011). Electrophysiological evidence for the left-lateralized effect of language on preattentive categorical perception of color. ProceedingsoftheNational Academy ofSciences ofthe United Statesof America,108(34),14026-14030.   \nRegier,T.,& Kay,P.(2o09).Language,thought,and color: Whorf was half right. Trends in Cognitive Sciences,13(10), 439-446.   \nRoberson，D.,Pak,H.,& Hanley，J.R.(2008).Categorical perception of colour in the left and right visual field is verbally mediated: evidence from Korean. Cognition,107(2), 752-762.   \nThierry,G.，Athanasopoulos,P.，Wiggett，A.，Dering,B.，& Kuipers,J. R. (2009). Unconscious effects of languagespecific terminology on preattentive color perception. Proceedings of the National Academy of Sciences of the United Statesof America,106(11),4567-4570.   \nWinawer, J.,Witthoft,N.,Frank,M.C.,Wu,L.,Wade,A.R., & Boroditsky,L.(2oo7).Russian blues reveal effects of language on color discrimination. Proceedings of the National Academy of Sciences of the United States of America, 104(19),7780-7785.   \nXiao,E-P.,& Zhang,J-J.(2o12).National language influences national psychology:Evidence from classifying kinship words.Advances in Psychological Science,20(8),1189-1200.   \n[肖二平，张积家.(2012)．从亲属词分类看民族语言对民族 心理的影响．心理科学进展,20(8),1189-1200.]   \nYang,J.,Kanazawa,S.,Yamaguchi,M.K.,&Kuriki,I.(2016). Cortical response to categorical color perception in infants investigated by near-infrared spectroscopy.Proceedings of the National Academy of Sciences of the United States of America,113(9),2370-2375.   \nZhang,J.-J.,& Zhang,F.-L.(2010). The asymmetric effect of bilingualism and diglossia on picture naming and picture classification.Acta Psychologica Sinica,42(4),452-466.   \n[张积家，张凤玲.(2010)．双语和双言对图片命名和分类的 不对称影响．心理学报,42(4),452-466.]   \nZhang, Q.R., He, X.M.,& Zhang, J. J. (2007). A comparative study on the classification of basic color termsby undergraduates from yi nationality,bai nationality and naxi nationality.Acta Psychologica Sinica,39(1),18-26.   \n[张启睿，和秀梅，张积家.(2007)．彝族、白族和纳西族大学 生的基本颜色词分类．心理学报,39(1),18-26.]   \nZhang,S.,Morris,M.W.,Cheng,C-Y.,& Yap,A.J. (2013). Heritage-culture images disrupt immigrants' second-language processing through triggering first-language interference. Proceedings of the National Academy of Sciences of the United States ofAmerica,110(28),11272-11277.   \nZhong,W.F.,Li,Y.,Li,P.X.,Xu,G.P.,& Mo,L.(2015). Short-term trained lexical categories produce preattentive categorical perception of color: Evidence from ERPs. Psychophysiology, 52(1), 98-106.   \nZhou,K., Mo,L.,Kay,P.,Kwok, V.P.,Ip,T.N.,& Tan, L.H. (2010).Newlytrainedlexicalcategoriesproduce lateralized categorical perception of color.Proceedings of the National Academy of Sciences of the United States of America,107(22),9974-9978. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Behavioral and ERP study of color categorical perception in proficient and nonproficient bilinguals ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "LI Jie1,2; HE $\\mathrm { H u } ^ { 2 }$ ; WU Baizhou1; HOU You1; CAO Kang1; A Ruhan1 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(l Inner Mongolia Autonomous Region Key Laboratory of Psychology,Hohhot O10022, China) (2 Schoolof Educational Science,Inner Mongolia Normal University,Hohhot O1oo22,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Color categorical perception (CCP: faster or more accurate discrimination of color that straddles a color category boundary） has provided an empirical standard passage of the debate on the relation of language and cognition during the last half-century.Amajorityof studies suggested that CCP is tightly linked to the language and culture we are born into, which agreed with the Whorf hypothesis in which CCP is language-related and not universal.The participants of previous studies were mainly monolingual,so whether the results of monolingual research can be generalized to bilinguals remains uncertain. There are many Mongolian-Chinese bilinguals in Inner Mongolia. Mongolians divide the blue region of color space into a darker shadecalled huhe and a lighter shade caled qinker,whileboth lighter blue and darker blue are simply described with the single word Lan in Chinese.To confirm whether the color category in first language (L1） of Mongolian-Chinese bilinguals is influenced by second language,the present study used a behavioral experiment and event-related potential (ERP) to compare the CCP between proficient bilinguals and nonproficient bilinguals. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The first experiment was a behavioral experiment using a visual search task and included 35 proficient bilingual and 33 nonproficient bilingual college students. The stimulus of visual search display appeared, consisting of a ring of 12 squares surrounding the fixation marker. All of the squares were of the same color except for the one that was the target.The target and distractor colors were either from within the same lexical category (e.g.，different shades of qinker) or from different lexical categories (e.g.,a qinker and a huhe). We explored whether nonproficient Mongolian-Chinese bilinguals show a greater advantage of the CCP effect over proficient Mongolian-Chinese bilinguals due to the endogenous preparation of task switching.To further explore the language learning effect on the perception of brain mechanisms, the second experiment was an ERP experiment with an oddball paradigm.In the ERP experiment involving 15 proficient Mongolian-Chinese bilinguals and14 nonproficient bilinguals who were set to distinguish dark blue (dark green)and light blue (light green)，we examined brain activities by observing the visual mismatch negativity (vMMN) as an electrophysiological index of preattentive change detection, which peaked at approximately $2 0 0 ~ \\mathrm { { m s } }$ ： ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The results of the visual search task showed that the CCP efect of nonproficient bilinguals was significant, whilethat of proficient bilinguals was not.The present conclusion of the visual search task suggests that the category of L2 influences the category of L1. The ERP study found that nonproficient bilinguals have a greater brain potential amplitude of vMMN than do proficient bilinguals when distinguishing dark blue and light blue or dark green and light green. Considering vMMN as an index of the preatentive process,L2 learning afcted the preattentive perceptual processing of bilinguals. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The results of the present study proved the proficiency of Chinese influence on the CCP effect in Mongolian-Chinese bilinguals and indicated that language does affect preatentive perceptual processing, where this procession may be implicit.The bilinguals'concept of the two languages may interfere with each other,thus supporting Spair-Whorf hypothesis. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key wordscolor categorical perception; Mongolian; bilinguals; vMMN; Spair-Whorf hypothesis ",
+        "page_idx": 9
+    }
+]

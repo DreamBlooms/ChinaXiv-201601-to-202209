@@ -1,0 +1,713 @@
+[
+    {
+        "type": "text",
+        "text": "Biomass production and energy balance of herbaceous and woody crops on marginal soils in the Po Valley ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "STEFANO AMADUCCI1, GIANNI FACCIOTTO²,SARA BERGANTE²,ALESSIA PEREGO1, PAOLO SERRA¹，ANDREA FERRARINI¹ andCARLO CHIMENTO1   \n1DepartmentofSustainableCropProduction,Unioersita Catolicadel SacroCuore,Via EmiliaParmense84，29122Piacenza, Italy, $^ 2 C$ onsiglioperlaricercainagricolturael'analisidel'economiaagraria (CREA)-Unitadi ricerca perleproduzioni legnose fuori foresta (PFL),St.Frassineto Po,35，15033 CasaleMonferrato (AL),Italy ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A wealth of data and information on the cultivationof perennial biomass crops has been collected,but direct comparisons between herbaceous and woody crops are rare.The main objective of this research was to compare the biomass yield,the energy balance and the biomass quality of six perennial bioenergy crops: Populus spp, Robinia pseudoacacia, Salix spp.，Arundo donax,Miscanthus $\\times$ giganteus, and Panicum virgatum, grown in two marginal environments.For giant reed and switchgrass,two levels of nitrogen fertilization were applied annually $( 0 { - } 1 0 0 ~ \\mathrm { k g } ~ \\mathrm { h a } ^ { - 1 } ,$ . Nitrogen fertilization did not affect biomass or energy production of giant reed; thus, it significantly reduced the energy returnon investment (EROI) (from73 to27).In switchgras,nitrogen fertilizationsignificantly increased biomass production and the capacity of this crop to respond to water availability, making it a favorable option when only biomass production is a target. Net energy gain (NEG) was higher for herbaceous crops than for woody crops.In Casale,EROIcalculated for poplar and willow(7,on average) was significantly lower than thatof the other crops (14,on average).In Gariga,the highest EROI wascalculated for miscanthus (98),folowed by nonfertilized giant reed and switchgrass (82 and 73,respectively). Growing degree days1o during the cropping season had no effect on biomass production in any of the studied species,although water availability from May to August was a major factor affcting biomass yield in herbaceous crops.Overall, herbaceous crops had the highest ranking for bioenergy production due to their high biomassyield,high net energy gain (NEG),and biomass quality that renders them suitable to both biochemical and thermochemical conversion. Miscanthus in particular had the highest EROI in both locations (16and 98,in Casale and Gariga), while giant reed had the highest NEG on the silty-loam soil of Gariga. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Arundo donax, energy balance, Miscanthus $\\times$ giganteus， nitrogen, Panicum virgatum,Populus spp., quality，Robini pseudoacacia,Salix spp yield ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received 30 October2015;accepted12December2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cultivation of perennial bioenergy crops is an important option in meeting future global energy demand (Creutzig et al.,2015). Over the last decade,the possibility of cultivating bioenergy crops on marginal land, unsuitable for food production,has been proposed (Dauber et al.,2012)as a possible solution to the so-called ‘food, energy,and environment trilemma'(Tilman et al.,2009). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Awealthofdataandinformationonthecultivationof perennial biomass crops has been collected in recent years，but direct comparisons between herbaceous and woody crops are rare on marginal soils.Field experiments designed to directly compare the cultivation of herbaceous and woody bioenergy crops enable the ranking of the same crops according to a list of potential agronomic, economic,and environmental aspects (Table1). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the last years,it was shown that the cultivation of perennial bioenergy crops combines the supply of biomass for renewable energy production with a general increase in the provision of multiple key ecosystem services (Milner et al., 2015).Positive impacts on the provision of ecosystem services were strictly dependent on the type of land use replaced (Holland et al.,2015) and on the spatial allocation of the crops relative to the adjacent land uses (Werling et al., 2013;Bourke et al.,2014). The integration of perennial crops into agricultural landscapes could also promote the mitigation of ecosys tem disservices from annual food cropping systems,as revealed in several studies (Powers et al.，2011;Parish et al.,2012;Meehan et al.,2013). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Herbaceous and woody crops are considered promising carbon-neutral options because of their long-term soil C storage potential (Agostini et al., 2015; Chimento et al.,2O16).Perennial herbaceous (Werling et al.,2013) and woody crops (Rowe et al., 2013) can also sustain a variety of ecosystem functions (such as pest suppression and pollination)，promoting the creation of multifunctional agricultural landscapes.Moreover，reduced N losses (Smith et al.，2013)，reduced soil erosion (Kort et al.，1998)，nutrients removal from runoff (Lee et al., 2003),and N removal from groundwater (Ssegane et al., 2015)have been reported for herbaceous crops,such as Miscanthus $\\times$ giganteus L. and Panicum virgatum L. In general，sustainability of biomass production can be achieved by cultivating high-yielding low-input crops (Ercoli et al.，1999) on marginal soils (Powlson et al., 2011). ",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/24743c49db93ddbc60a2fd3fde7a857ea67c3d7ee5352127262096f961300f0c.jpg",
+        "table_caption": [
+            "Table 1Croprankingbasedontheainagronomic,evironmentalandeonomicadvantagesof thecultivationoftherbaceous and woody crops. Only review papers that dealt with at least one herbaceous and one woody crop were considered "
+        ],
+        "table_footnote": [
+            "The symbols $^ { \\prime } { + ^ { \\prime } } , ^ { \\prime } { + + ^ { \\prime } } ,$ and $^ { \\prime } + + + ^ { \\prime }$ indicate low,moderate,and high advantage,respectively;?' stands for not available information while '' varies on the basis of the different crops and genotype. \\*Therankingisasedonthestatusoftheurrentfing,harvestingandprocessingtechologies (Zegada-Lizarazuetal.10). tZegada-Lizarazu et al. (2010). \\$Laurent et al. (2015). \\$Quinn et al. (2015). TRettenmaier et al. (2010). \\*\\*Agostini et al. (2015). ++Dauber et al.(2010) (reported only the impact at field scale). ttSsegane et al. (2015). "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"3\">Herbaceous crops</td><td colspan=\"3\">Woody crops</td></tr><tr><td></td><td>Giant reed</td><td>Switchgrass</td><td>Miscanthus</td><td>Poplar</td><td>Willow</td><td>Black locust</td></tr><tr><td>Genotype availability</td><td>+</td><td>++</td><td>+</td><td>+++</td><td>+++</td><td>+++</td></tr><tr><td>Crop management*</td><td>+++</td><td>+++</td><td>+++</td><td>++++</td><td>++++</td><td>？</td></tr><tr><td>High yielding</td><td>+++t</td><td>++</td><td>+++†</td><td>++</td><td>++</td><td>？</td></tr><tr><td>Multipurpose</td><td>++</td><td>++</td><td>++</td><td>+</td><td>+</td><td>+</td></tr><tr><td>Nutrient use efficiency</td><td>+++↑</td><td>+++↑</td><td>++++</td><td>++++</td><td>++++</td><td>+++†</td></tr><tr><td>Drought resistance</td><td>+</td><td>++/+++$</td><td>++s</td><td>！!s</td><td>!s</td><td>+++$</td></tr><tr><td>Flood tolerance</td><td>++</td><td>++s</td><td>++</td><td>！!1s</td><td>!s</td><td>+</td></tr><tr><td>Heat tolerance</td><td>+++s</td><td>++§</td><td>++§</td><td>！!8</td><td>!!s</td><td>++</td></tr><tr><td>Energy balance</td><td>+++</td><td>+++</td><td>+++I</td><td>++</td><td>++</td><td>++</td></tr><tr><td>Soil C sequestration</td><td>+++**</td><td>+++**</td><td>+++**</td><td>++**</td><td>++**</td><td>++**</td></tr><tr><td>Biodiversity</td><td>+++</td><td>++++</td><td>++++</td><td>++++</td><td>++++</td><td>++++</td></tr><tr><td>Water quality</td><td>+++t</td><td>+++t</td><td>+++tt</td><td>+++t</td><td>+++</td><td>+++t</td></tr><tr><td>Invasiveness</td><td>+++↑</td><td>++</td><td>++</td><td>+</td><td>++</td><td>？</td></tr><tr><td>Economic life span</td><td>+†</td><td>+++↑</td><td>++++</td><td>+++</td><td>++†</td><td>++†</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Availability of genetic material，tested in different pedoclimatic conditions,is relatively large for woody crops (Cunniff et al., 2015) and ongoing breeding activities will further extend farmer options (Hallingbäck et al.，2015). Several Populus spp (Dillen et al.，2013; Verlinden et al., 2013) and Salix spp clones (Rosso et al., 2013;Amichev et al.，2014) are available to be grown on marginal soils in short-rotation coppice. In the case of perennial herbaceous crops，breeding of Panicum virgatum and Miscanthus spp is ongoing (Liu et al., 2015; Tamura et al.，2015),but the actual selection of geno types is limited to a number of American switchgrass varieties and to a single genotype of Miscanthus $\\times$ giganteus L. (Zegada-Lizarazu et al.,201o). No breeding has been performed on giant reed and available field data are relative to local clones that have shown very limited genetic (Ahmad et al.，2008） orphenotypic diversity (Amaducci & Perego,2015). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Crop management is well established for woody crops and switchgrass，while some adjustments are need for miscanthus and especially for A. donax. Reduction of establishment costs in Miscanthus $\\times$ giganteus is pursued via the selection of fertile genotypes that can be sown (Anderson et al.，2015;Xue et al., 2015),while this does not seem an option for $A$ donax (Pilu et al.,2013). Mechanization and storage of giant reed is still an open issue (Bentini & Martelli,2013; Pari et al., 2015). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Biomass yield is one of the most relevant parameters to assess biomass crops performance,but it is strongly depended on environmental conditions and direct comparisons are needed to identify the most suitable crops for a specific condition.In general,it is reported that perennial herbaceous crops have a greater biomass production compared to woody crops (Nassi o Di Nasso et al.,201o;Rettenmaier et al.,201o; Laurent et al.,2015). As biomass yield has a significant impact on bioenergy yield and on greenhouse gas (GHG) savings，herbaceous crops seem to have a better environmental impact than woody crops (Rettenmaier et al.，2010; Creutzig et al., 2015). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The environmental and productive performance of a crop is well depicted by its efficiency in using nitrogen and water.It is reported nitrogen fertilization is necessary to support high biomass production in woody crops (Heilman & Norby，1998;Kauter et al.，2003), while the effect of nitrogen is limited or not significant (Heaton et al.，20o4a) in herbaceous crops. The deeper root system of perennial herbaceous crops compared to woody crops(Chimento & Amaducci,2015) can explain the higher productivity of herbaceous crops in waterlimited conditions (Monti & Zatta,2009a). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Relatively to biomass quality, low lignin content and high digestibilityrender herbaceous biomass crops suitable for second-generation biofuel production (Monti et al., 2015), while energy application of woody crops is generally limited to thermochemical conversion (Demirbas,2004). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Previous work on biomass production on marginal lands has been based primarily on the landscape's suit ability (Gopalakrishnan et al.,2011;Harvolk et al.,2014), while research to directly compare the performance of herbaceous and woody crops is very limited. Direct comparisons are useful to reliably characterize different biomass crops for their yield potential (Laurent et al, 2015).More comparative multispecies field trials and monitoring are needed within a range of climatic and soil conditions to fully understand the energy efciency of various bioenergy cropping systems. Resolving the crop ranking from direct comparison of herbaceous and woody crops is critical to identify and promote the cropping systems able to provide the greatest energy efficiency for a given marginal environment. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this study, the main objective was to compare the biomass yield，the energy balance，and the biomass quality of six perennial bioenergy crops: three woody crops Populus spp. (poplar)，Robinia pseudoacacia (black locust),and Salix spp.(willow) -and three herbaceous crops - Arundo donax (giant reed)，Miscanthus $\\times$ giganteus (miscanthus),and Panicum virgatum (switchgrass), grown in two marginal environments within the agricultural landscape of the Po Valley (northern Italy), where two multispecies field trials ('Casale' and ‘Gariga'）were set up. The Gariga trial has been already investigated for establishing the crop ranking in soil C storage (Chimento et al.，2016） and belowground biomass (Chimento & Amaducci,2015). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Materialsandmethods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Studysite and experimental design ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Two field trials were established in April 2007 in the Po Valley, the first at Gariga di Podenzano, Italy $( 4 4 ^ { \\circ } 5 8 ^ { \\prime } 4 8 ^ { \\prime \\prime } \\mathrm { N }$ $9 ^ { \\circ } 4 1 ^ { \\prime } 0 9 ^ { \\prime \\prime } \\mathrm { E } \\rangle$ 1 on a silt loam soil classified as chromic luvisols (FAO) with low carbonate content and neutral $\\mathrm { \\Delta p H }$ and the second at Casale Monferrato, Italy $( 4 5 ^ { \\circ } 0 8 ^ { \\prime } 5 7 ^ { \\prime \\prime } \\mathrm { N } .$ $8 ^ { \\circ } 3 0 ^ { \\prime } 5 6 ^ { \\prime \\prime } \\mathrm { E }$ ,ona sandy soil,classified as fluvisol. Prior to planting, the experimental site had hosted a maize monoculture for 30 years in Gariga,and in Casale,the site hosted poplar stands for about 30 years and set aside for the last five years prior to the experiment. Both locations are to be regarded as marginal land for their soil quality and position within the agricultural landscape. The soil in Casale has an extremely high content of sand $( > 9 0 \\% )$ anditis on the flood plain of the Po River;in Gariga,the soil is compacted,silty with a low content of organic carbon $( 8 \\ \\mathrm { g \\ k g ^ { - 1 } }$ soil),and the experimental site is located along a main road where sprinkle irrigation is not possible.Soil characteristics are presentedin Table S1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "At both sites, the experimental layout is a randomized complete block design with three blocks and a single plot size of $4 5 0 ~ \\mathrm { m } ^ { 2 } ( 1 5 \\times 3 0 ~ \\mathrm { m } ) ,$ to compare six biomass crops; three herbaceous,giant reed (A. donax $L .$ )，switchgrass $\\mathbf { \\nabla } ^ { \\prime } P _ { \\mathbf { \\lambda } }$ .virgatum),and miscanthus (Miscanthus $\\times$ giganteus),and three woody bioenergy crops,poplar (Populus spp),willow $( S a l i x { \\mathrm { ~ s p p } } )$ ,andblack locust (R. pseudoacacia). The plots of the woody crops were split in four subplots,each hosting a different clone,so that for each woody crop,the same four clones were compared at each location.Data relative to the comparison among clones will not be presented in this study,and the biomass yield data of the most productive clones for each crop in each location will be used for the comparison among crops.The most productive clones wereBaldo (Populusdeltoides)andOrion(Populusxcanadensis), $S 7 6 \\mathrm { - } O 0 8$ andLevante (hybrids of Salix babylonica L.),in Casale and Gariga,respectively,while Calabria (ecotype from southern Italy)was the most productive black locust provenance at both sites. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "At both locations,planting was carried out after typical soil preparation $3 0 \\ \\mathrm { c m }$ deep ploughing followed by 2 passages of rotary tiller),using identical planting densities and propagating material. Giant reed was planted using portion of rhizomes (on average $3 0 0 ~ \\mathrm { g }$ each）from a local ecotype (the same close at each location),at 1 rhizome per $\\mathrm { m } ^ { - 2 }$ .Miscanthus was planted with rhizomes (on average $5 0 \\ \\mathrm { g }$ each）imported from UK (ADAS Ltd,Ely,Cambridgeshire） at 1.5 rhizomes per $\\mathrm { m } ^ { - 2 }$ Switchgrass，var Alamo，was sown with an experimental mechanical seed drill (Vignoli) using $0 . 2 5 ~ \\mathrm { g }$ of pure live seeds (pls) per $\\mathrm { m } ^ { - 2 }$ . Inter-row distance was $1 . 4 \\mathrm { ~ m ~ }$ in giant reed and miscanthus and $0 . 4 \\mathrm { ~ m ~ }$ in switchgrass. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Clones of poplar and willow and provenances of black locust were provided by CREA-PLF (Casale Monferrato-Italy).Stem cuttings (for poplar and willow) and 1-year seedlings (for back locust) were transplanted manually in rows with an interplant distanceof $0 . 6 \\mathrm { ~ m ~ }$ and an inter-row distance of $2 . 5 \\mathrm { ~ m ~ }$ (0.67 plants $\\mathrm { m } ^ { - 2 }$ ） ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For all crops,biomass yield was estimated by weighing all the plants harvested on an area of approximately $1 0 ~ \\mathrm { m } ^ { 2 }$ in each plot.Dry matter content was estimated gravimetrically on a biomass subsample (approximately $1 ~ \\mathrm { k g } )$ weighted at harvest andafter $2 4 \\mathrm { ~ h ~ }$ at $1 0 5 ~ ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To assess the effect of environmental factors on biomass production of the herbaceous crops,growing degree days1o and water input were estimated from June to September of each year in both locations in agreement with Triana et al.(2015), who recently found in a 2-year lysimeter experiment in central Italy that giant reed and miscanthus had the highest water requirements from June to September.Growing degree days1o were calculated for each year by summing the daily difference between mean air temperature and the base temperature, which is $1 0 ~ ^ { \\circ } \\mathrm { C }$ for miscanthus and switchgrass (Arundale et al., 2015);the same value of base temperature was assumed for giant reed that is regarded as a macrothermal crop (Cappelli et al.2015).When daily mean temperature was lower than $1 0 \\ { } ^ { \\circ } { \\mathrm { C } } ,$ then growing degree $\\mathrm { d a y } _ { 1 0 }$ was null.A linear regression was performed to test the response of herbaceous biomass production to the water input (irigation $^ +$ rainfall) calculated from June to September. As the regression was found to be not significant $( r ^ { 2 } = 0 . 0 1 )$ for all the crops in both locations, the regression was then executed on biomass production and the water input calculated from May to August because May rainfall variability between years was higher than that of September (coefficient of variation $= 7 5 \\%$ and $4 9 \\%$ ,respectively).The linear regression was executed between herbaceous biomass production and growing degree $\\mathrm { d a y s _ { 1 0 } }$ from May to August. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In addition to the abovementioned common features of the experimental design, there were some management factors that differed between the two sites.These are listed as follows. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In Casale,from 2007 to 2012,two irrigations were applied annually to both herbaceous and woody crops from late May to early August according to the weather conditions.The annual amount of irrigation water was $7 0 ~ \\mathrm { m m }$ 0 $3 5 ~ \\mathrm { m m }$ ofwater per irrigation event). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In Gariga,no irrigation was applied. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In Gariga,nitrogen fertilization was carried out on a selection of plots at a rate of $1 0 0 ~ \\mathrm { { k g } ~ h a ^ { - 1 } }$ of nitrogen using ammonium nitrate. Nitrogen was applied (i) to the whole plot of woody cropsat the beginning of growth in the spring after the harvest (in 2009,2011,2014),and (ii) to one half of each plot of giant reed and switchgrass at the beginning of growth in the spring after the harvest (every year excluding 2Oo7,the year of establishment) in order to study the response of biomass production to nitrogen fertilization.In Gariga,the effect of nitrogen fertilization was assessed only on giant reed and switchgrass because the plant stand for these crops was uniform and it was possible to split the plot into two subplots to apply the nitrogen and no-nitrogen treatment; miscanthus plant establishment was not uniform enough for the same treatment to be applied. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In Casale,nitrogen fertilization was never provided to any crop in order to simulate a condition of low-input cropping. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Harvesting was carried out every year at the end of winter for the herbaceous crops,with the exception of Gariga where miscanthus was not harvested at the end of the first year due tothevery limitedbiomassproduction(estimated $< 1 ~ \\mathrm { M g } ~ \\mathrm { h a } ^ { - 1 } ,$ . ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In Casale,woody crops were harvested at the end of year 2, 4,and 6. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In Gariga,woody crops were harvested at the end of year 2, 4,and 7. It was decided to postpone the third harvesting to year 7 for the limited plant growth achieved as a consequence of the extreme drought of 2012. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In Gariga,to compare qualitative characteristics of herbaceous and woody crops,cellulose,hemicellulose,lignin,and ash content were determined on biomass samples collected at harvesting in 2O13.The analysis was carried out using the AnkomII Fiber Analyzer (Ankom Technology Corporation, Fairport,NY,USA)and was corrected for the residual ash content, following the procedure described in Gallo et al. (2013). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Energy balance: inputs and outputs determination ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The energy balance for biomass production was calculated using the data collected during the field trials in Casale.For each crop,the energy potentially delivered by combustion of lignocellulosic material (gross energy yield) was estimated considering the dry aboveground biomass production and its lower heating value,LHV (McKendry,2002).The LHV for each crop was measured by IKA C2O0 calorimeter at CREA-PLFof Casale Monferrato (Alessandria，northern Italy). The energy required for crop establishment (soil preparation and planting) cultivation (control of weeds,fertilization and irrigation),and harvest of lignocellulosic material was calculated considering number of operations,time required per operation $( \\mathrm { h \\ h a } ^ { - 1 } )$ type of machines,relative power (kW),and diesel oil consumption $( 1 \\mathrm { h } ^ { - 1 } )$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The analysis accounted for direct and indirect energy costs (Hilsbergen et al.,20o1):'Direct costs' included diesel oil consumed for each operation,while the consumption of lubricants was neglected.It was assumed that 1l of diesel oil contains $3 5 . 9 ~ \\mathrm { M J }$ (Dalgaard et al.,2001).The ‘indirect costs'wererelated to the manufacture of fertilizers,pesticides and herbicides, machines and equipment,and propagation material for planting.Production of fertilizers requires a very high energetic cost, especially nitrogen fertilizers:We assumed an energetic cost of 73.3,13.4,and $9 . 2 ~ \\mathrm { M J ~ k g ^ { - 1 } }$ for the production of nitrogen, phosphorus,and potassium fertilizers,respectively (Manzone & Calvo,2016).The production of other chemical compounds like pesticides and herbicides requires,respectively,53 and $9 1 ~ \\mathrm { M J ~ k g ^ { - 1 } }$ (Green & McCulloch,1976;Green et al.,1987).The energetic costs for the construction of machines were derived from Fiala & Bacenetti (2012): 92 MJ $\\mathbf { k g } ^ { - 1 }$ in case of tractor and forager and 69 MJ $\\mathbf { k g } ^ { - 1 }$ in case of other equipment (e.g.,header for harvest).These values were then divided by the life span (i.e., $8 0 0 \\mathrm { ~ h ~ }$ per year） and the effective annual operation time per hectare.In this analysis,life span of the machines was assumed to be 10 years. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "It was considered that， for sprinkle irrigation delivering about $3 5 0 \\mathrm { ~ m } ^ { 3 } \\mathrm { \\ h a } ^ { - 1 }$ of water,an engine of $1 0 0 ~ \\mathrm { k W }$ works for $^ { 6 \\mathrm { ~ h ~ } }$ to pump water from a five meters deep well and consumes 741 of diesel fuel, corresponding to 2657 MJ (Lal,2004).The energeticcostrelativetopropagatingmaterialwas $0 . 3 ~ \\mathrm { M J ~ t r e e } ^ { - 1 }$ (Dillen et al.,2013) for the woody crops (i.e., cutting of poplar and willow or one-year-old seedlings of black locust). Energy costs for propagating material in herbaceous crops are usually considered as negligible (Lettens et al.,2003; Angelini et al.,20o5);in this work,we assumed an energy cost of $4 4 ~ \\mathrm { M J ~ k g ^ { - 1 } }$ for producing switchgrass seeds (Schmer et al., 2008)and an energy cost of 0.2 and $0 . 1 5 ~ \\mathrm { M J }$ per rhizome for giant reed and miscanthus,respectively (Ecoinvent,2014). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The total costs of woody crops harvesting varied according to annual biomass production: An unit energy cost of $0 . 2 3 \\mathrm { ~ G J ~ t } ^ { - 1 }$ of dry matter was assumed for woody crops collected by self-propelled combine forager harvester (Claas Jaguar 88O) equipped with the header $\\mathrm { G B E } _ { 2 }$ (Fiala& Bacenetti, 2012).The same cost was assumed for the harvesting of miscanthus and giant reed that can be carried out with a forage harvester.Switchgrass was harvested by shredding and baling witha direct cost of 51of diesel oil per hour as measured in Casale.Time requested for harvest varied on the basis of biomass production. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Table S2 reports energy costs of planting, management, and harvesting(direct and indirect costs）for each crop in both locations. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The estimation of energy costs (input) and gross energy yield (output) enable the net energy gain (input-output, NEG) and the energy return on investment (EROI) index to be calculated for both herbaceous and woody crops. NEG is an energy metric and is defined as the gained difference in energy between the energy content of the biomass at the farm gate and the total energy invested to produce it (Hill et al.,2006). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "EROI is dimensionless and quantifies the efficiency of different energy technologies and itis the ratio between the amount of energy produced (expected return） and the nonrenewable primary energy needed to produce it (investment) (Hall et al., 2009). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Statisticalanalysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Crops，year，and location effects on biomassproduction were tested using a repeated-measures mixed model in a randomized complete block design using IBM - SPSS 21 (IBM Corporation,Armonk,New York,US). Crop,year,and location were included in the design as fixed factors; year was also specified as the repeated-measures term. Year was taken asa fixed factor as it represented the stand age of the perennial crops.First,the mixed model was applied solely to data of herbaceous crops collected from annual harvests from 2007 to 2014.Then, the model was run on the biomass data collected for the woody crops at three harvesting times: in 2008，2010，and 2012 in Casale and in 2008，2010，and 2013 in Gariga. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The mixed model was used to examine differences in biomass production between woody and herbaceous crops.With this regard,annual biomass production was estimated for each woody crop dividing by two the production of a single harvest, with the exception of the third harvest in Gariga that was divided by three to estimate the average annual production from 2011 to 2013.As the effect of location overwhelmed the crop effect on both herbaceous and woody crops production，the mixed model was performed for the two locations independently. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A repeated-measures mixed model was applied to the data of giant reed and switchgrass collected under two levels of nitrogen fertilization from 2008 to 2014 in Gariga.As crop overwhelmed the effect of nitrogen fertilization,the mixed model was performed on giant reed and switchgrass independently. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A two-way ANovA model was applied to data of NEG and EROI index estimated over the whole experimental period in order to find differences between crops and locations. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A one-way ANovA was run to assess changes in cellulose, hemicellulose,lignin,and ash content between crops using data collected in 2013 in Gariga. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Comparison of means was performed by post hoc Tukey's HSD test (Tukey,1953) when main effects or interaction of factors were found significant according to the mixed model or to the univariate ANOVA. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A linear regression analysis was carried out to study the relationship between biomass production and environmental factors,namely growing degree days $1 0$ and water input. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the present study,that reports on the first eight years (2007-2014) after establishment of six perennial bioenergy crops,a wide range of rainfall variability was experienced in the two field trials (Table S3). The monthly distribution of rainfall in spring and summer varied between years.In particular，a wide range of rainfall was encountered both in Casale and in Gariga in May (13-173 and $3 { - } 1 5 8 ~ \\mathrm { m m }$ ，respectively)，in June (7-153 and $1 1 { - } 1 5 0 ~ \\mathrm { m m }$ ，respectively)，in July (3-106 and $0 -$ $7 6 ~ \\mathrm { m m }$ ，respectively),and in August $( 8 - 1 3 9 \\ \\mathrm { m m }$ and $0 -$ $6 8 ~ \\mathrm { m m }$ ,respectively).The mean coefficient of variation of monthly rainfall from May to August across years was $7 3 \\%$ and $8 6 \\%$ in Casale and in Gariga, respectively. Annual rainfall ranged from $5 3 4 \\ \\mathrm { m m } \\ ( 2 0 0 7 )$ to $1 0 5 3 ~ \\mathrm { { m m } }$ (2014)in Casale,and $5 4 8 ~ \\mathrm { m m }$ (2012) from to $1 0 7 0 ~ \\mathrm { { m m } }$ (2010) in Gariga; the mean annual rainfall was 818 and $7 5 7 ~ \\mathrm { m m }$ in Casale and in Gariga,respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Biomassproduction ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "When using the mixed model to examine the effects of herbaceous crops,location，and year，biomass production was significantly higher in giant reed and miscanthus (14.8 and $1 3 . 3 \\mathrm { \\ : \\dot { M } g \\ : \\bar { h } a ^ { - 1 } \\ : y r ^ { - 1 } } ,$ ， respectively） than in switchgrass $\\mathrm { { ( 1 0 . 1 \\ M g \\ h a ^ { - 1 } \\ y r ^ { - 1 } , } }$ across years and locations (Table 2A).As the two-way interaction between years and locations was significant, each location was analyzed independently. In Casale,biomass production varied significantly between crops and years (Table 2B). On average，biomass yield measured at the year of establishment was lower than that achieved in subsequent years,considering that after the second year no biomass difference was found between years,it can be assumed that all herbaceous crops reached their maximum yield from the second year (Fig. 1). On average of the first eight-year period,a significant difference in biomass production was found between switchgrass and the two highest yielding crops,miscanthus and giant reed (Fig.1).The two-way interaction between crops and year was significant in Gariga (Table 2B).While switchgrass and miscanthus reached its maximum biomassyield already in the second year after establishment,giant reed increased its biomass yield until the third year (Fig.2).After having reached their maximum yield, miscanthus and switchgrass biomass did not vary significantly across years,while biomass fluctuation was observed in giant reed (Fig. 2). ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/5a1421894ed561227f0f9a7746b171ddcfba19a34277baa75effa3021633f4cb.jpg",
+        "table_caption": [
+            "Table2 (A）Mixed-model analysis of variance of the fixed effects of crop,year,and location on data of herbaceous dry biomass production collected in Casale and in Gariga from 2007 to 2014.(B) Mixed-model analysis of variance of the fixed effect of crops and year on dry biomass production after splittingthedata setbylocation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Source</td><td>Numerator df</td><td>F-value</td><td>P-value</td></tr><tr><td>A</td><td></td><td></td><td></td></tr><tr><td>Crop</td><td>2</td><td>13.17</td><td>0.000</td></tr><tr><td>Year</td><td>7</td><td>80.98</td><td>0.000</td></tr><tr><td>Location</td><td>1</td><td>21.81</td><td>0.000</td></tr><tr><td>Block</td><td>2</td><td>3.72</td><td>0.084</td></tr><tr><td>Year × Crop</td><td>14</td><td>1.43</td><td>0.218</td></tr><tr><td>Year × Location</td><td>7</td><td>9.29</td><td>0.000</td></tr><tr><td>Year× Crop × Location</td><td>15</td><td>1.83</td><td>0.172</td></tr><tr><td>B</td><td></td><td></td><td></td></tr><tr><td>Casale</td><td>2</td><td>5.70</td><td></td></tr><tr><td>Crop Year</td><td>7</td><td>9.16</td><td>0.000 0.001</td></tr><tr><td>Block</td><td>2</td><td>10.86</td><td>0.000</td></tr><tr><td>Year × Crop</td><td>14</td><td>0.77</td><td>0.682</td></tr><tr><td>Gariga</td><td></td><td></td><td></td></tr><tr><td>Crop</td><td>2</td><td>28.44</td><td>0.000</td></tr><tr><td>Year</td><td>7</td><td>118.04</td><td>0.000</td></tr><tr><td>Block</td><td></td><td>4.02</td><td>0.118</td></tr><tr><td></td><td>2</td><td></td><td></td></tr><tr><td>Year × Crop</td><td>13</td><td>6.08</td><td>0.002</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The analysis of the effect of nitrogen on biomass production showed a different response between giant reed and switchgrass (Table 3). In particular,nitrogen fertilization affected significantly switchgrass biomass production that increased by $1 6 \\%$ in the fertilized plots, from 12 to $1 3 . 9 ~ \\mathrm { M g } ~ \\mathrm { h a } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 }$ $( P < 0 . 0 0 1 \\$ ), whereas giant reed biomass production was not significantly affected bynitrogen fertilization. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "No significant relationship was found between biomass production and growing degree $\\mathrm { \\ d a y s _ { 1 0 } }$ calculated from Mayto August $( r ^ { 2 } = 0 . 0 1$ 1 $P = 0 . 6 8 \\mathrm { \\rangle }$ and from June to September $( r ^ { 2 } = 0 . 0 1$ 、 $P = 0 . 7 8$ ）inboth location. The linear regression performed to test the response of herbaceous biomass production to the water input (irrigation $^ +$ rainfall) calculated from June to September was found not significant $( r ^ { 2 } = 0 . 0 2$ 1 $P = 0 . 6 2 )$ .Therelationship between biomass production and summer water input (i.e.， the sum of rainfall from June to September and irrigation，when performed） was significant only for miscanthus in Casale $( r ^ { 2 } = 0 . 6 ,$ $P < 0 . 1 0 \\rangle$ .A significant relationship was found between the water input calculated from May to August (adding irrigation, when performed） and biomass production of miscanthus in both locations,and in giant reed in Gariga with and without nitrogen fertilization. The response to the water input calculated from May to August was significant in switchgrass only in the fertilized plots (Table 4). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The annual biomass production was estimated for each woody crop dividing by two the production of a single harvest，which was collected in 20o8,2010,and 2012 in Casale,and in 2008 and 2010,in Gariga,for last harvest in Gariga (2013) biomass yield was divided by three.The annual biomass production of the woody crops was significantlylowerinCasale $( 7 . 1 ~ \\mathrm { M g } \\ \\mathrm { h a } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 } )$ thanin Gariga $( 1 0 \\mathrm { \\ M g \\ h a } ^ { - 1 } \\mathrm { \\ y r } ^ { - 1 } ,$ $P < 0 . 0 0 1 \\rangle$ .When each location is examined indepen dently,the annual production estimated from the first harvest was lower $( 4 . 3 ~ \\mathrm { M g } \\mathrm { \\ h a } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 } )$ than that from thesecondandthe thirdharvests(7.7and $9 . 2 ~ \\mathrm { M g \\ h a } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 } ,$ $P < 0 . 0 5 )$ in Casale; similarly, in Gariga，annual production estimated from the three harvests was 3.3, 12.9, and $1 2 . 2 ~ \\mathrm { M g } ~ \\mathrm { h a } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 } ,$ respectively. No significant difference of biomass production among crops was found in Casale,although black locust doubled the annual production of willow in the third harvest (Fig.3).Apparently，thehigh variability between blocks in Casale overwhelmed the variability between crops (coefficient of variation $= 7 8 \\%$ 、 $5 5 \\%$ 、 $1 . 3 8 \\%$ ，in poplar, black locust,and willow, respectively). The variability between blocks was likely due to a different content of coarse sand( $1 2 \\%$ / $5 9 \\%$ and $12 \\%$ in block 1,2, and 3，respectively）in the upper $4 0 \\ \\mathrm { c m }$ of soil. In Gariga，the significant interaction between crops and harvest is explained by the lowest biomass production of black locust that was observed in 2010 (second har vest).Thus,only the biomass production of black locust increased significantly from the secondto the third harvest despite the drought experienced in the summer of 2012 (Table S3). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f2a389ce272ebf71fa1fbc40241ca57a11905132e841db6aaf44f173ff366a63.jpg",
+        "img_caption": [
+            "Fig.1Biomass productionof herbaceouscropsobservedin Casalefrom207to2014(left)andmean biomass productionof giant red,miscatsdigascosars(ight).tersiicatekey'seastangicatdfcee(left) and crops (right). \\*indicates the year of full crops establishment. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/106202a9bf141ebade188db10bdedc67eb6193cd5b030aa069d956bb0a37f5aa.jpg",
+        "img_caption": [
+            "Fig.2Meananualbiomassproductionofgianteed,miscanthus,andswitchgrassobservedinGrigafrom2to4(above) andmeancomparison betweencrops within years (below).Leters indicate Tukey'sleast meansignificant diferencebetween years within crops (above) and crops within year (below). \\*indicates the year of fullcrops establishment. $\" \\mathrm { n . s . } ^ { \\prime \\prime } \\mathrm { = }$ not significant. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/d74c5f2c659cd3c216fd2d8936140315498d2655ab58ba5c9cb0922ca13e97b3.jpg",
+        "table_caption": [
+            "Table 3 Mixed-model analysis of variance of the fixed effect of nitrogen and year on dry biomass production of giant reed and switchgrass in Gariga from 2008 to 2014 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Source</td><td>Numerator df</td><td>F-value</td><td>P-value</td></tr><tr><td>Giant reed</td><td></td><td></td><td></td></tr><tr><td>Year</td><td>7</td><td>83.42</td><td>0.000</td></tr><tr><td>Nitrogen</td><td>1</td><td>0.21</td><td>0.655</td></tr><tr><td>Block</td><td>2</td><td>1.61</td><td>0.289</td></tr><tr><td>Year × Nitrogen</td><td>6</td><td>1.61</td><td>0.265</td></tr><tr><td>Switchgrass</td><td></td><td></td><td></td></tr><tr><td>Year</td><td>7</td><td>149.96</td><td>0.000</td></tr><tr><td>Nitrogen</td><td>1</td><td>11.68</td><td>0.003</td></tr><tr><td>Block</td><td>2</td><td>1.77</td><td>0.351</td></tr><tr><td>Year × Nitrogen</td><td>6</td><td>0.86</td><td>0.549</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/c0c2d23d53e7e8fa520ad317ad5d7d5080886b59b4d273718db5390d562a2031.jpg",
+        "table_caption": [
+            "Table 4 Linear regression between annual herbaceous production and water input observed in Casale (rainfall $^ +$ irrigation）and in Gariga (irrigation） from June to August, considering the period after full crop establishment (i.e., 2010- 2014) "
+        ],
+        "table_footnote": [
+            "$b$ is the biomass increasing rate for the unit water input $( \\mathrm { k g ~ m m } ^ { - 1 } )$ ： $' \\mathrm { n } \\mathrm { s } ^ { \\prime }$ ,not significant. \\*Significant the 0.10 level. \\*\\*Significant the 0.05 level. \\*\\*\\*Significant the 0.01 level. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"2\">Casale Rainfall (May- August) +</td><td colspan=\"2\">Gariga Rainfall (May-</td></tr><tr><td>Crops</td><td>Irrigation 2</td><td>b</td><td>August) 12</td><td>B</td></tr><tr><td>GiantReed</td><td>0.30 ns</td><td></td><td>0.63*</td><td>52.7</td></tr><tr><td>Miscanthus</td><td>0.6*</td><td>25.4</td><td>0.70*</td><td>31.3</td></tr><tr><td>Switchgrass</td><td></td><td></td><td>0.40 ns</td><td></td></tr><tr><td>GiantReed 100N</td><td>0.07 ns</td><td></td><td>0.80**</td><td>74.1</td></tr><tr><td>Switchgrass 100N</td><td></td><td></td><td>0.94***</td><td>20.8</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c79fa44bfb88b7657e7a4b82390c3b64ada832e72d248afca97f35019ba017df.jpg",
+        "img_caption": [
+            "Fig.3 Annual biomass production of woody crops estimated dividing by two the biomass harvested in 2Oo8 (1st harvest), 2010 (2nd harvest),and 2012 (3rd harvest) in Casale and in 2008 (lst harvest),201O (2nd harvest) in Gariga.The annual biomass of woody crops of the third period (3rd harvest) was calculated dividing by three the production harvested in 2013 in Gariga.Letters indicate Tukey's least mean significant difference between years and crops within harvest and location. \"n.s. $^ { \\prime \\prime } =$ not significant. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Comparing the mean annual production of herbaceous and woody crops,no significant difference was found in Casale. In Gariga， giant reed production doubled that of blacklocustanditwas1.5 times higher than the production of switchgrass,willow,and poplar; miscanthus yielded significantly less than giant reed witha decrease of $2 6 \\%$ (Fig. 4). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Biomass quality ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The qualitative analysis carried out on dry samples collected in 2013 showed that (i) the cellulose and ash content of miscanthus was comparable to that of the woody crops,(ii) the hemicellulose content of switchgrass was higher than that of the other crops,(ii) the lignin content was lowest in giant reed,and (iv) the ash content was highest in giant reed (Table 5). ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/cf7eb058229dee64484f8d03158961783994e5c83d027a601ed5cb7d7bd6990b.jpg",
+        "img_caption": [
+            "Fig.4Mean annual biomass production of herbaceous and woody crops in Gariga from 2007 to 2013.Annual biomass production of woody crops was estimated dividing by two the biomassharvested in 2008(lst harvest),2010 (2nd harvest),and bythree that harvested in 2013 (3rd harvest).Letters indicate Tukey's least mean significant difference between crops. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The low heating value (LHV) was different between crops $( P < 0 . 0 5 )$ .Giant reed LHV was significantly lower than that of the other crops $( 1 6 . 7 ~ \\mathrm { M J ~ k g ^ { - 1 } } )$ that was $1 7 . 8 ~ \\mathrm { M J ~ k g ^ { - 1 } }$ for miscanthus and switchgrass,and on average $1 8 . 8 ~ \\mathrm { M J ~ k g ^ { - 1 } }$ for the woody crops. The differences in LHV between herbaceous and woody crops were likely due to the different biomass composition, namely lignin content. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Energy balance ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A simplified energy balance was calculated to compare NEG and EROI at the farm gate for the six bioenergy crops in both locations.Energy input and output,and in turn NEG and EROI,were different between crops and locations and varied according to biomass production, low heating value (LHV),and energy costs due to planting,and management (Table S2). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In both locations,the energy required for woody crops planting was 1.4 times higher than that of herbaceous crops because of the higher fossil fuel consumption， whichwasonaverage5.8and 4.7 GJ $\\mathbf { \\bar { h a } } ^ { - 1 } \\mathbf { y r } ^ { - 1 }$ for woody and herbaceouscrops, respectively.Amongwoodycrops， black locust requiredthelowestmanagementenergyinput because nitrogen fertilization was not carried out. In Casale，the highest cost of woody crops production was required for management operations (mainly irrigation, $7 9 \\%$ )，while harvest and planting required $1 3 \\%$ and $8 \\%$ of the total energy costs，respectively. Poplar and willow required the highest energy input among the six studied crops in Casale (Table S2). Considering the energy costs associated with herbaceous crops cultivation， the energy required for management was the highest $( 4 9 . 7 ~ \\mathrm { G J } \\ \\mathrm { h a } ^ { - 1 } )$ .Giant reed had higher harvest costs than miscanthus and switchgrass due to the higher biomass production. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In Gariga, the highest proportion of energy costs was allocated to harvesting in the unfertilized herbaceous crops $( 7 7 \\% )$ and to management $( 6 8 \\% )$ in the fertilized crops due to the application of nitrogen fertilizer. Among the studied crops in Gariga,the highest energy costs were calculated for fertilized giant reed and switchgrass cultivation. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Direct and indirect energy costs of harvesting were higher in herbaceous than in woody crops (Table S2),as a consequence of the highest harvesting frequency (everyyear）and biomass production of the herbaceous crops. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/7e8d39d233cd246f0d66f10d5f7e36589dcc25a33b56016134bdadeaf369986b.jpg",
+        "table_caption": [
+            "Table 5 Composition $( \\% )$ of the studied crops biomass harvested in 2013 after senescence in Gariga "
+        ],
+        "table_footnote": [
+            "\\*\\*\\* is significant of 0.01 level. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>F-value</td><td>Black locust</td><td>Poplar</td><td>Willow</td><td>Giant Reed</td><td>Miscanthus</td><td>Switchgrass</td></tr><tr><td>Cellulose</td><td>23.5***</td><td>52.2 a</td><td>53.6 a</td><td>54.6 a</td><td>42.6 b</td><td>50.0 a</td><td>42.4 b</td></tr><tr><td>Hemicellulose</td><td>112.3***</td><td>18.1 c</td><td>18.6 c</td><td>19.1 c</td><td>28.7 b</td><td>30.2 b</td><td>36.0 a</td></tr><tr><td>Lignin</td><td>33.9***</td><td>16.9 a</td><td>15.9 ab</td><td>13.3 abc</td><td>7.2 d</td><td>11.5 bcd</td><td>9.6cd</td></tr><tr><td>Ash</td><td>100.8***</td><td>1.7 c</td><td>2.1 c</td><td>2.1 c</td><td>7.5 a</td><td>1.7 c</td><td>2.9 b</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/cd6ac5a0123147e110388110c1ee95c71f1ab18492a3257e100dc993867cba15.jpg",
+        "img_caption": [
+            "Fig.5Neteergyyield (output-input,NEY)estimatedforthesixsdiedcropsconsideringthecumulativeenergyinputandutputfrom200to2013inGariga (above).EnergyReturnOnInvestment (output: input,ERO estimatedforthesixstudiedopsconsideringthecumulativeenergyinputandoutput from 2007to2012in Casaleandfrom2007to2013 in Gariga(below).Letters indicate Tukey's least mean significant difference between crops within locations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Variation in NEG and EROI was mainly driven by the large differences in biomass production between crops and locations (Fig. 5). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "With regard to energy output, miscanthus and black locust had the highest value in Casale (Fig.5).NEG calculated in Casale and Gariga was higher for herbaceous crops (average value 903 and 1627 GJ ha-1, respectively）thanforwoodycrops(727 and $1 2 4 4 \\mathrm { \\ G J \\ h a } ^ { - 1 } ,$ ） ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Although differences in NEG between crops were not significant in Casale, the NEG of miscanthus, giant reed, and black locust was 2.3 times higher than that of willow.Average NEG of crops in Casale was 2 times lower than that observed in Gariga where giant reed NEG was 1.5 times higher than that calculated for the other crops.In Gariga,fertilized and unfertilized giant reed had similar energy output (1985 and 1971 GJ $\\mathrm { \\ h a } ^ { - 1 }$ respectively) and NEG (1943 and 1903 GJ $\\mathbf { h } \\mathbf { a } ^ { - 1 }$ ,respectively）despite the different energy input costs (82 and $2 8 \\mathrm { \\ G J \\ h a } ^ { - 1 } ,$ respectively).In switchgrass,nitrogen fertilization induced a significant increase in energy output (from 1333 to $1 5 0 6 ~ \\mathrm { G J ~ h a } ^ { - 1 }$ ，respectively） and a not significant increase in NEG (from 1318 to 1430 GJ $\\mathbf { h } \\mathsf { a } ^ { - 1 }$ respectively). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "As expected，the variation of energy input due to nitrogen fertilization produced a larger variation of EROI than of NEG.In giant reed,when the input increased by 3 times (from 28 to $8 2 ~ \\mathrm { G J ~ h a } ^ { - 1 } ,$ due to fertilization，NEG decreased by $2 \\%$ ? ${ \\bf \\nabla } \\cdot { \\cal P } = 0 . 9 9 ,$ ，whereas EROI by 2.7 times $( P < 0 . 0 0 1 )$ .In switchgrass，when input increased by 5 times (from 15 to 76 GJ $\\mathbf { h } \\mathbf { a } ^ { - 1 }$ ）due tofertilization，NEG increasedby $8 \\%$ $( P = 0 . 1 1 )$ ， whereasEROI decreasedby 3.6 times $( P < 0 . 0 0 1$ ） ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The meanEROI indexestimated for Casalewas4 times lower than that of Gariga because of the lower biomass production and the higher energy costs due to irrigation (Table S2).Miscanthus EROI index was the highest both in Casale and in Gariga. Herbaceous crops had higher EROI than woody crops in Gariga, while black locust had a similar EROI index to miscanthus in Casale. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In this study,a comparison of biomass production of six perennial bioenergy crops over 8 years in two different locations is presented,and for the first time,a direct comparison between 3 herbaceous and 3 woody bio mass crops cultivated in the same experimental conditions is discussed. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "On average，herbaceous crops had higher biomass yield than woody crops in both locations.This is in agreement with the ranking of energy crops on the basis of a meta-analysis carried out by Laurent et al.(2015) on the yield data from 28 published papers. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The most and the least productive crops were miscanthus and willow in Casale and giant reed and black locust in Gariga (Fig. 4). To compare our results with the data reported in literature,medians of pooled biomass data were plotted over the boxplot chart of the dry biomass yield shown in Laurent et al. (2015). The yield levels reported in our study are consistent with those presented in the meta-analysis,with the best agreement being found for miscanthus and switchgrass (Fig.6),for which a wide set of data from different environments was available. Giant reed, while showing a relatively high yield in both locations,falls within the 1st quartile of literature data (Laurent et al.,2O15). This can be explained by the marginal nature of both locations in this study,and by the fact that most of the very highannualyieldsreportedforgiantreed $( > 3 0 \\ \\mathrm { M g \\ h a } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 } )$ were obtained in the optimal, often irrigated,conditions of the center and south of Italy, where plant growth is extended thanks to the relatively high temperature registered in autumn and winter (Scordia et al.,2014). It is interesting to note (Fig.6) the very different performances of willow in Gariga,where it ranked across the 2nd and 3rd percentiles,and in Casale, where it equaled the lowest yield reported in literature (Laurent et al.,2015).Willow is well adapted to environments with high water availability and soil with high water holding capacity (Dimitriou et al.,，2011)； it therefore found suitable conditions in the silty soil of Gariga，where after a slow establishment (lst harvest Fig. 3),it had a relatively high productivity (Abrahamson et al.,2002;DEFRA,2002).On the contrary,in the sandy soil of Casale,willowhadverylowyieldsin the phase of establishment (lst harvest, Fig. 3) and at full production (2nd and 3rdharvests). Themarked decrease in production at the 3rd harvest was probablya consequence of plant mortality (plant density was 7500 plants $\\mathbf { h } \\mathbf { a } ^ { - 1 }$ at establishment and reduced to 4500 plants $\\mathbf { h } \\mathbf { a } ^ { - 1 }$ at the 3rd harvest). Despite the sandy soil and low water availability in Casale，the median value of poplar biomass was very similar to that found in literature (Laurent et al.，2015)，which confirms the tolerance of poplar genotypes belonging to the $P$ . deltoides crops to environments with coarse soils and periods of drought (Bergante et al.，2010).In the silty-loam soil of Gariga，poplar found ideal conditions,reaching the highest yields found in literature (Fig. 6). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b07ac8c35ba9951965f80d9eda993a329e9bcaf4830c9dc292e45e786c5361b.jpg",
+        "img_caption": [
+            "Fig.6Comparisonbetweenmedianbiomass productionofthesixcropsobserved inthissudyacrossyear(2007-2014)andtheboxplotf thedryomassproductinreportedbyLurentetal.(2015)forgiatreed,miscantus,willowitchgrassdpoplar. Whitecircle andblack triangle indicate the median production observed acrosyears inthis studyinCasaleandinGariga,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Limited information on the productivity of black locust as a bioenergy crop is present in literature and no direct comparison with other bioenergy crops is reported; for this reason,black locust was not included in the meta-analysis performed by Laurent et al. (2015). Strakeretal. (2015),in a recentreview on black locust as a bioenergy crop,reported an average biomass production of $1 0 \\ \\mathrm { M g \\ h } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 }$ in Italy,which is in line withthedatapresentedinthisstudy $( 1 0 . 6 ~ \\mathrm { M g } ~ \\mathrm { h } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 } )$ ．Interestingly，black locust had a verysimilarperformance in Gariga and Casale,which denotes yield stability.Black locust is considered as being particularly adapted to marginal coarse (light)- textured soil,while it is sensitive to poorly drained or compact plastic soils (Straker et al.，2015).The lower yield of black locust in the first period of growth,in comparison with the other woody crops,was probably the consequence of its difficult establishment in the compact silty-loam soil of Gariga.In the 3rd period, when mean summer rainfall $( 9 1 ~ \\mathrm { m m }$ cumulative rainfall from June to August) was lower than in the previousperiods( $1 4 6 ~ \\mathrm { m m }$ 1st period and $1 2 0 ~ \\mathrm { m m }$ 2nd period),black locust reached the same level of production of poplar and willow (Fig. 3). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "It is apparent that water availability (as a function of rainfall/irrigation and soil water holding capacity)was one of the major factors affecting biomass yield in this study and in several others (e.g.,Heaton et al., $2 0 0 4 \\mathrm { a } ;$ Arundale et al.，2014).However,in this study,it was difficult to find a clear relationship between yield of woody crops and water availability，because plants were harvested every two years (three in the 3rd har vest in Gariga) and any environmental effect was therefore spread over the whole growing period.Moreover, considering that in the 1st period biomass yield was limited due to crop establishment,only data from two harvests could be used to study the relationship between environmental parameters and woody crop yield.For this reason，the relationship between agronomic variablesand crop yield is only discussed for the herbaceous crops and more in detail for the trial carried out in Gariga where nitrogen was applied (on giant reed and switchgrass). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Biomass production for none of the herbaceous crops (in Casale or Gariga）was affected by growing degree ${ \\mathrm { d a y s } } _ { 1 0 } ,$ as already shown by Heaton et al. (2004a) for miscanthus and switchgrass. On the contrary,a significant relationship was found between water input calculated from May to August and miscanthus biomass production in both locations,and in giant reed and fertilized switchgrass in Gariga (Table 4).Considering the period June-September, when giant reed and miscanthus evapotranspiration is highest (Triana et al.,2O15),the relationship between biomass production and water input was significant only for miscanthus in Casale.In the fine-textured soil of Gariga,all herbaceous crops were therefore affected by water input more in late spring than in September,at the end of the growing season. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Miscanthus confirmed to have a stronger response to water than switchgrass as previously reported by Heaton et al. (2oo4a).Biomass production of giant reed was affected by water availability only in Gariga; in this site and on the same experiment, the root system of the six studied crops was characterized by Chimento & Amaducci (2015) and giant reed root biomass was 2 times lower than that of switchgrass.It can therefore be assumed that havinga lower root biomass wasa factor in the higher sensitivity of giant reed to water availability than switchgrass. Switchgrass biomass production washighlypositively related to water availability only whennitrogen fertilization occurred; the lackof response to water availability in the nonfertilized plots indicates that nitrogen was the limiting production fac tor and confirms the sensitivity of switchgrass to nitrogen availability (Table 3) (Heaton et al.,20O4a).The lack of significant response of giant reed to nitrogen fertilizationcanberelatedto thetranslocation of nutrients from the leaves and the stems to the rhizomes,which takes place in giant reed and miscanthus at the end of the growing season (Heaton et al.，2oo4a; Cosentino et al., 2014). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The trend of biomass production in the first 8 years after planting，excluding the initial increase during establishment,did not show any significant decline in either Casale or Gariga for any of the herbaceous crops (Figs 1 and 2). Gauder et al. (2012) also reported miscanthus yield variability between years but did not found any decline in a 14-year experiment in Germany. Our result is also in agreement with Lesur et al. (2013) who reported maximum yields of miscanthus reached after 6-13 years in long-term experiments in 16 locations in Europe.As reported by Lesur et al. (2013),also Clifton-Brown et al. (2007）and Christian et al. (2008) found a miscanthus yield decline after year 1O and 11, respectively.Conversely, the result obtained in the present study in contrast to the data reported by Arundale et al.(2014) for miscanthus production in the United States,while it is in agreement with most of the experiments carried out in Europe (Heaton et al.,20o4b).As highlighted by Arundale et al. (2014), the yield decline of miscanthus after the 5th - 6th year of stand age might be a consequence of the nutrient depletion relative to the very high biomass yield obtained in their trial,in contrast to the lower biomass yields reported in this study. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "To support the choice of the most suitable biomass crops for a specific environment and end use destination,besides biomass yield,biomass quality should also be considered.Data on cellulose,hemicellulose,lignin, and ash content presented in this study(Table 5)are relative to one year (2O13） and one location (Gariga). The fact that the composition was analyzed in one growing season and in one location does not affect the reliability of the results as reported byArundale et al. (2015),who found that there was minimal variation in the composition of miscanthus samples acrosslocation, sampling times,and fertilization treatments.The composition values measured in this study are in agreement with those reported in literature for the herbaceous (Arundale et al.,2015;Mohammed etal.,2015)andfor the woody crops (Sannigrahi et al.，2010). This study confirms that the herbaceous crops have a lower quantity of lignin than the woody crops and a higher ash content,in particular for giant reed and switchgrass (Table 5). These characteristics enable herbaceous crops to be suitable also for biochemical transformations and not only for thermochemical conversion,as the woody crops (Monti et al.,2015). Among the herbaceous crops, miscanthus is the most suitable for anaerobic digestion and second-generation biofuel production due to its high cellulose and hemicellulose content (Table 5) (Monti et al.,2015). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Energy balance ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The low heating value (LHV) of the six crops considered in this study varied between crops and it was significantly higher in woody than in herbaceous crops. This was due to the biomass composition: Woody crops had a high lignin content that has a higher LHV than cellulose and hemicellulose (Furlan et al.，2013)and a lower ash content (Ciolkosz, 201O).The measured LHV was in line with data reported in literature for both herbaceous (Angelini et al.,2005,2009；Mantineo et al., 2009）and woody crops (McKendry，2002;Nassi o Di Nasso et al.,2010;Dillen et al.,2013). In addition,LHV of giant reed and switchgrass was not affected by nitrogen fertilization;Ercoli et al. (1999) found the same trendinmiscanthus. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The application of nitrogen fertilizer represented $70 \\%$ of total energy costs in Gariga，in accordance with results from Angelini et al.(2oo5) relative to giant reed cultivation in a 6-year experiment in central Italy. Similarly,irrigation represented a high percentage of total energy costs $( 7 0 \\% )$ in Casale,which is in agreement with Mantineo et al. (20o9) who reported that irrigation costs were the highest in cultivation of giant reed,miscanthus,and Cynara cardunculus ina 5-year experiment in southern Italy. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The NEG of giant reed and miscanthus in this study was lower than those reported by Angelini et al. (2009) in central Italy,and the NEG of poplar was lower than that reported by Nassi o Di Nasso et al. (201O) in a 12- year short-rotation coppice poplar in central Italy. These differences are mainly due the lower biomass yields obtained in our trial.For switchgrass,however,NEG values were similar to those found by Monti et al. (2009b) who reported a mean annual NEGof 200 GJ $\\mathrm { \\ h a } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 }$ forswitchgrassfertilized with $2 0 0 \\mathrm { \\ k g \\ h a } ^ { - 1 } \\mathrm { \\ y r } ^ { - 1 }$ of nitrogen. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In this study,the EROI of black locust was higher than that of the other woody crops (Fig. 5);in Gariga for the lack of nitrogen fertilization and the consequent lowest energy cost,in Casale,for the highest biomass yield.NEG of black locust was higher than that reported by Stolarski et al.(2015) for a SRC plantation of 4years in Poland. Manzone et al. (2o15) reported a NEG of 190 GJ $\\mathrm { \\Delta h a } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 }$ in a black locust 7-year experiment in Casale,which is higher than that reported in this study in the same environment $( 1 4 4 ~ \\mathrm { G J } \\ \\mathrm { h \\bar { a } } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 } ) .$ and in Gariga (167 GJ $\\mathrm { \\ h a } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 } ,$ ).Thisisa consequence of the higher biomass production $( 1 0 \\mathrm { \\ M g \\ h a } ^ { - 1 } \\mathrm { \\ y r } ^ { - 1 } )$ and higher LHV $( 1 9 ~ \\mathrm { M J ~ k g ^ { - 1 } } ; \\$ ）reported by Manzone etal. (2015)(average biomass production $9 ~ \\mathrm { M g } \\ \\mathrm { h a } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 }$ and LHV 18 MJ $\\mathbf { k g } ^ { - 1 }$ in this study). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "EROI values calculated for Gariga were in line with those found by other authors for unfertilized giant reed (Angelini et al.,2oo5),fertilized giant reed and switchgrass (Monti et al., $2 0 0 9 \\mathrm { b }$ )，and woody crops (Djomo et al.,2011;Dillen et al.,2013).EROI of miscanthus (98) and unfertilized switchgrass (82) grown in Gariga was higher than those reported by Angelini et al. (2oo9)and Monti et al. (2oo9b),mainly as a consequence of different nitrogen inputs.In Casale,woody and herbaceous cropshad EROI values lower than those reported in lit erature (Angelini et al., 2009;Monti et al., 2009b; Djomo et al.,2011;Dillen et al.,2013),because of lower biomass production and higher energy input due to the irrigation.Across locations,blacklocust had a mean EROI of 20 that is in agreement with that reported by Manzone et al.(2015).Severalauthorsalso found thatblacklocust hasa high energy efficiency (Gonzalez-Garcia et al., 2011;Gonzalez-Garcia et al.,2012;Manzone et al., 2015). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In conclusion,herbaceous crops in this study had the highest ranking for bioenergy production due to their high biomass yield,high NEG,and biomass quality that renders them suitable to bothbiochemical andthermochemical conversion.Among the woody crops，black locust biomass production was comparable to that of the best herbaceous crops in the water-limited environment of Casale,while it proved less suitable for the fine-textured and fine-compacted soil of Gariga.Nitrogen fertilization of giant reed is not recommended as it did not affect biomass or energy production，and as a consequence,it significantly reduced energy efficiency (EROI). In switchgrass,however，nitrogen fertilization significantly increased biomass production and the response of this crop to water availability，making it a favorable option when only biomass production is a target. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Since establishment in 2007, these field trials have been supported by several funding schemes that are all gratefully acknowledged: the initial funding of ANGA (Italian Young Farmers Association); the European Union to the LIFE project GAS OFF LIFE09 ENV/IT/O00214; the Italian Ministry of Agricultural, Food and Forestry Policies to the projects Hedge-Biomass, Biosea, Bioenergie and Biosegen. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abrahamson LP,Volk TA,Kopp RE,White EH,Ballard JL (2002)Willow Biomass Producer's Handbook.State University of New York College of Environmental Science and Forestry, Syracuse,NY.   \nAgostini F,Gregory AS,Richter GM (2015) Carbon sequestration by perennial energy crops:is the jury still out? Bioenergy Research,8,1057-1080.   \nAhmad R, Liowb P-S, Spencer DF, Jasieniuk M (20o8) Molecular evidence for a single genetic clone of invasive Arundo donax in the United States.Aquatic Botany, 88, 113–120.   \nAmaducci S,Perego A (2O15)Field evaluation of Arundo donax clones for bioenergy production. Industrial Crops and Products,75,122-128.   \nAmichev BY,HangsRD,Konecsni SMet al.(2014) Willow short-rotation production systemsin Canadaand northern United States:a review.Soil Science Society of America Journal,78,6.   \nAnderson EK,Lee D,Allen DJ, Thomas BV (2015) Agronomic factors in the establishment of tetraploid seeded Miscanthus $\\times$ giganteus. Global Change Biology and Bioenergy,7,1075-1083.   \nAngelini LG,Ceccarini L, Bonari E (2oo5) Biomass yield and energy balance of giant reed (Arundo donax L.) cropped in central Italy as related to different management practices.European Journal of Agronomy,22,375-389.   \nAngelini LG,Ceccarini L,Nassi o Di Nasso N,Bonari E (2009) Comparison of Arundo donax L.and Miscanthus $\\times$ giganteus ina long-term field experiment in Central Italy:analysis of productive characteristics and energy balance.Biomass and Bioenergy,33,635-643.   \nArundale RA,Dohleman FG,Heaton EA,Mcgrath JM,Voigt TB, Stephen SP (2014) Yields of Miscanthus $\\times$ giganteusand Panicum virgatum decline with stand age in the Midwestern USA.Change Biology and Bioenergy,6,1-13.   \nArundale RA,Bauer S,Haffner FB,Mitchell VD, Voigt TB,Long SP (2015) Environment has little effect on biomass biochemical composition of Miscanthus $\\times$ giganteus across soil types,nitrogen fertilization,and times of harvest.BioEnergy Research,8,1636-1646.   \nBentini M,Martelli R (2013)Prototype for the harvesting of cultivated herbaceous energy crops,an economic and technical evaluation. Biomass and Bioenergy，57, 229-237.   \nBergante S,Facciotto G,Minotta G (2010) Identification of the main site factors and management intensity affecting the establishment of short-rotation coppices (SKC)in INortnern Itaiy tnrougn stepwise regression anai. Centrul Eurupeun journut of Biology,5,522530.   \nBourke D,Stanley D,O'Rourke E et al. (2014) Response of farmland biodiversity to the introduction of bioenergy crops: effects of local factors and surrounding landscape context.Global Change Biology and Bioenergy,6,275-289.   \nCappelli G,Yamag SS,Stella T,Francone C,Paleari L,Negri M, Confalonieri R (2015)Are advantages from the partial replacement of corn with second-generation energy crops undermined by climate change?A case study for giant reed in northern Italy.Biomass andBioenergy,80,85-93.   \nChimento C,Amaducci S (2015) Characterization of fine root system and potential contribution to soil organic carbon of six perennial bioenergy crops.Biomass and Bioenergy,83,116-122.   \nChimento C,Almagro M,Amaducci S (2016) Carbon sequestration potential in perennial bioenergy crops: the importance of organic matter inputs and its physical protection. Global Change Biologyand Bioenergy,8,-121.   \nChristian DG,RicheAB,Yates NE(o08)Growth,yieldand mineralcontentof iscanthus $\\times$ giganteus grown as a biofuel for 14 successive harvests. Industrial Crops andProducts,28,.   \nCiolkoszD (2010) Renewable and Alternative Energy fact sheet.Characteristics of biomass as a heating fuel.Penn State University,University Park,PA, USA.   \nClifton-Brown JC,BreuerJ,Jones MB (2007)Carbon mitigation bytheenergycrop, Miscanthus. Global Change Biology,13,2296-2307.   \nCosentino SL, Scordia D,Sanzone E,Testa G, Copani V (2014)Response of giant reed (Arundo donax L.） to nitrogen fertilization and soil water availability in semi-arid Mediterranean environment. European Journal of Agronomy, 60, 22-32.   \nCreutzigF,RvindranathNHerndesGetal.(015)oenergyandclimateange mitigation: an assessment. Global Change Biology and Bioenergy,7,916-944.   \nCuniffJ,Purdy SJ, Barraclough TJP (2015)High yielding biomass genotypesof willow (Salix spp.） show diffrences in below ground biomass allocation. Biomass and Bioenergy,80,114-127.   \nDalgaard T,Halberg N,Porter JRA (2O0l) model for fossil energy usein Danish agriculture used to compare organic and conventional farming.Agriculture,Ecosystems and Enironment,7,65.   \nDauber J, Jones MB,Stout JC (2010)The impact of biomass crop cultivation on temperate biodiversity.Global Change Biology and Bioenergy,2,289-309.   \nDauber J, Brown C,Fernando AL et al.(2012) Bioenergy from \"surplus\" land $\\because$ environmentaland socio-economic implications.Biodioersity and Ecosystem Risk Assessment, 50,5–50.   \nDEFRA(2O02)Growing Short Rotation Coppice,Best Practice Guidelines.Department for environment,food and rural affairs, London.   \nDemirbas A (2004) Combustion characteristics of diffrent biomassfuels.Progressin energyandcombustionsience,30,19-230.   \nDillen SY, Djomo SN,Al Afas N, Vanbeveren S,Ceulemans R (2013) Biomass yield and energy balance of a short-rotation poplar coppice with multiple clones on degraded land during 16 years. Biomass and Bioenergy,56,157-165.   \nDimitriou I, Rosenqvist H, BerndesG (2011) Slow expansionand low yieldsof willow short rotation coppice in Sweden;implications for future strategies.Biomass and Bioenergy,35,4613-4618.   \nDjomo SN,El Kasmioui O,Ceulemans R (2011) Energy and greenhouse gas balance of bioenergy production from poplar and willow:a review. Global Change Biology and Bioenergy,3,181-197.   \nEcoInvent (2014) Version 3.1.,simapro database Swiss Centre for Life Cycle Inventories.Available at: http://www.ecoinvent.org/(accessed 30 June 2014).   \nErcoliL,Mrioti M,Masoni A,BonariE(1999)Efectof irrigationand nitroge fertilization on biomass yield and efciency of energy use in crop production of Miscanthus.Field Crops Research,6,-1.   \nFiala M, Bacenetti J(2O12) Economic,energetic and environmental impact in short rotation coppice harvesting operations.Biomass and Bioenergy,42,107-113.   \nFurlan FF, Tonon Filho R,Pinto FHPB, Costa CB, Cruz AJ,Giordano RL,Giordano RC(2013) Bioelectricity versus bioethanol from sugarcane bagasse: is it worth being flexible.BiotechnologyforBiofuels,6,.   \nGallo A,Moschini M,Cerioli C,MasoeroF(20l3)Use of principal component analysis to classify forages and predict their calculated energy content.Animal,7, 930-939.   \nGauder M, Graeff-Honninger S, Lewandowski I, Claupein W (2012) Long-term yield and performance of 15 diferent Miscanthus genotypes in southwest Germany. Annual ofAppliedBiology,160,126–136.   \nGonzalez-Garcia S,Gasol CM,Moreira MT,Gabarrell X,Pons JR,Feijoo G (2011) Environmental assessment of black locust (Robinia pseudoacacia L.)-based ethanol aspotential transport fuel. The International Journal of Life Cycle Assessment,16, 465–477. assessment of ethanol production from fast-growing wood crops (black locust, eucalyptus and poplar).Biomassand Bioenergy,39,78-88.   \nGopalakrishnan G,Negri MC, Snyder SW (2011) A novel framework to classify marginal land for sustainable biomass feedstock production. Journal of Environmental Quality,40,1593-1600.   \nGreen MB,McCulloch A (1976)Energy Considerations in the Use of Herbicides. Journal of the Scienceof Foodand Agriculture,27,95-100.   \nGreenMB,Stoutdr98ergysticidefactureistr tionand use.Energy in plant nutrition and pests control.Elsevier，Amsterdam: 165-177.   \nHall CAS, Balogh S, Murphy DJR (2009)What is the minimum EROI that a sustainable society must have? Energies,2,25-47.   \nHallingback HR,Fogelqvist J,Powers SJ et al.(2015)Asociation mapping in Salix viminalis L. (Salicaceae)-identification of candidate genes associated with growth and phenology. Global Change Biology and Bioenergy,doi: 10.1111/gcbb.12280.   \nHarvolk S,Kornatz P,Otte A, Simmering D (2014) Using existing landscape data to assess the ecological potential of Miscanthus cultivation in a marginal landcape. Global Change BiologyandBioenergy,6,227-241.   \nHeaton E, Voigt T,Long SP (2004a)A quantitative review comparing the yields of two candidate C4 perennial biomass crops in relation to nitrogen,temperature and water.iomassandioenergy,7,1-30.   \nHeaton EA,Long SP,Voigt TB,Jones MB,Clifton-Brown J(2004b) Miscanthus for renewable energy generation: European Union experience and projections for Ilinois.Mitigation and Adaptation Strategies for Global Change,9,433-451.   \nHeilman P,Norby RJ(1998) Nutrient cycling and fertility management in temperate short rotation forest systems.Biomass and Bioenergy,14,361-70.   \nHill JNelson E,Tilman D,Polasky S,Tiffany D (2006)Environmental,economic,and energetic costs and benefits of biodiesel and ethanol biofuels.Proceedings of the National Academy of Sciences of the United States of America,103, 11206-11210.   \nHolland RA,Eigenbrod F,Muggeridge A, Brown G,Clarke D,Taylor G (2015)A synthesis of the ecosystem services impact of second generation bioenergy crop production.Renewable and Sustainable Energy Reviews,46,30-40.   \nHulsbergen KJ,Feil B,Biermann S,Rathke GW,Kalk WD,Diepenbrock W (2001)A method of energy balancing in crop production and its application in a long-term fertilized trial.Agriculture,Ecosystems and Environment,86,303-321.   \nKauter D,LewandowskiI, Claupein W (2oo3) Quantity and quality of harvestable biomass from Populus short rotation coppice for solid fuel use-a review of the physiological basis and management influences.Biomass and Bioenergy,24, 411-427.   \nKort J Collins M, Ditsch D (1998)A review of soil erosion potential associated with biomass crops.Biomass and Bioenergy,14,351-359.   \nLal R(2004) Carbon emissions from farm operations.Environment International,30, 981-990.   \nLaurent A,Pelzer E,Loyce C,Makowski D (2015)Ranking yields of energy crops: a meta-analysis using direct and indirect comparisons.Renewable and Sustainable Energy Reviews,46,41-50.   \nLee KH, Isenhart TM, Schultz RC (2oo3) Sediment and nutrient removal in an established multi-crops riparian buffer.Journal of Soil and Water Conseroation,58,1-8.   \nLesurC,Jeuffroy M,Makowski Det al.(2013)Modelling long-term yield trendsof Miscanthus $\\mathbf { \\boldsymbol { x } }$ giganteus using experimental data from across Europe. Field Crops Research,149,252-260.   \nLettens S, Muys B,Ceulemans R, Moons E,Garcia J, Coppin P(2Oo3)Energy budget and greenhouse gas balance evaluation of sustainable coppice systems for electricity production.iomass andioenergy24,79-197.   \nLiu Y,Zhang X,Tran Het al. (2015)Assessment of drought toleranceof 49 switchgrass (Panicum virgatum） genotypes using physiological and morphological parameters.Biotechnology for Biofuels,8,152.   \nMantineo M, D'Agosta GM, Copani V,Patané C,Cosentino SL (2009) Biomass yield and energy balance of three perennial crops for energy use in the semi-arid Mediterranean environment. Field Crops Research,114,204-213.   \nManzone M,Calvo A (2016) Energy and CO2 analysis of poplar and maize crops for biomass production in Italy.Renewable Energy,86,675-681.   \nManzone M, Bergante S,Facciotto G (2015) Energy and economic sustainability of woodchip production by black locust (Robinia pseudoacaciaL.)plantations in Italy. Fuel, 140,555–560.   \nMcKendry P(2002) Energy production from biomass(part 1): overview of biomass. BioresourceTechnology,3,746.   \nMeehan TD,Gratton C,DiehlEetal. (2013)Ecosystem-service trade-fsassociated with switching from annualto perennial energy crops in riparian zones of the US Midwest.PInS ONF.8.e80093. .(ZU15)Potential impacts on ecosystem services of land use transitions tosecond generation bioenergy crops inGB.Global Change Biology and Bioenergy,doi:10.111/gcbb.12263.   \nMohammed YA,Raun W,Kakani G, Zhang H,Taylor R, Desta KG,Reinert M (2015)Nutrient sources and harvesting frequency on quality biomass productionofswitchgass(PancmvirgatumLforiofuelomasndogy 81, 242-248.   \nMonti A,Zatta A (20o9a) Root distribution and soil moisture retrieval in perennial and annual energycrops inNorthern Italy.Agriculture,Ecosystems&Environment, 132,252-259.   \nMonti A,Fazio S,Venturi G (2009b)Cradle-to-farm gate life cycle asessment in perennial energycrops.European Journal ofAgronomy,31,77-84.   \nMonti A, Zanetti F, Scordia D, Testa G,Cosentino SL (2015)What to harvest when? Autumn,winter,annual and biennial harvesting of giant reed, miscanthus and switchgrass in northern and southern Mediterranean area.Industrial Crops and Products,75,129-134.   \nNassi o Di Nasso N,Guidi W,Ragaglini G,Tozzini C, Bonari E (2010) Biomass pro duction and energy balance of a 12-year-old short-rotation coppice poplar stand under different cutting cycles.Global Change Biology and Bioenergy,2,89-97.   \nPari L,ScarfoneAantangelo Eetal. (2O15)Alternative storage systemsofrundo donaxL.and characterization of the stored biomass.Industrial Crops and Products, 75,59-65.   \nParish ES,Hilliard MR, Baskaran LM et al. (2012) Multimetric spatial optimization of switchgrassplantings across a watershed.Biofuels,Bioproducts $\\mathcal { E }$ Biorefining, 6, 58-72.   \nPilu R,Manca A,Landoni M(013)Arundo donax asan energy crop: pros and cons of the utilization of this perennial plant.Maydica, 58,54-59.   \nPowers SE,Ascough JC,Nelson RG,Larocque GR (2011) Modeling water and soil quality environmental impacts associated with bioenergy crop production and biomassremoval intheidwestUA.cological Modellng,2,30447.   \nPowlson DS,Whitmore AP,Goulding KWT (2011) Soil carbon sequestration to miti gate climate change: a critical re-examination to identify the true and the false. European Journal of Soil Science,62,42-45.   \nQuinn LD,StrakerKC,GuoJKim S,Thapa S,KlingG,VoigtTB(2015)Stress-olerant fedstocks for sustainable bioenergy production on marginal land. BioEnergy Research,8,1081-1100.   \nRettenmaier N, Koppen S, Gartner SO, Reinhardt GA (2010)Life cycle assessmentof selected future energy crops for Europe.Biofuels,Bioproductsand Biorefining，4, 620-636.   \nRosso L,Facciotto G, Bergante S,Vietto L,Nervo G (2013) Selection and testing of Populusalba and Salix spp.as bioenergy feedstock: preliminary results.Applied Energy,102,87-92.   \nRowe RL,Goulson D,Doncaster CP,Clarke DJ (2013) Evaluating ecosystem pro cesses in wilow short rotation coppice bioenergy plantations. Global Change Biology and Bioenergy,5,257-266.   \nSannigrahi P,Ragauskas AJ, Tuskan GA (2010) Poplar asa feedstock for biofuels: a review of compositional characteristics.Biofuels，Bioproductsand Biorefining，4, 209-226.   \nSchmer MR,Vogel KP,Mitchell RB,Perrin RK (2008) Net energy of cellulosic etha nol fromswitchgrass.Proceedings of the National Academy of Sciences of the United States of America,105,464-469.   \nScordia D,Testa G, Cosentino SL (2014) Perennial grassesas lignocellulosic feedstock for second-generation bioethanol production in Mediterranean environment. Italian Journal of Agronomy,9,84-92.   \nSmith CM,David MB,Mitchell CA,Masters MD,Anderson-Teixeira KJ,Bernacchi CJ,Delucia EH (2013) Reduced nitrogen losses after conversion of row crop agriculture to perennial biofuel crops. Journal of Environmental Quality, 42, 219–228.   \nSsegane H,Negri MC,Quinn J, Urgun-Demirtas M (2015)Multifunctional landscapes:Site characterization and field-scale design to incorporate biomass production intoanagricultural system. Biomass and Bioenergy,80,179-190.   \nStolarski MJ,Krzyzaniak M, Szczukowski S,Tworkowski J,Zaluski D, Beniek A, Golaszewski J(2015)Effect of increased soil fertility on the yield and energy value of short-rotation woody crops.BioEnergy Research,8,1-12.   \nStraker KC,Quinn LD,Voigt TB,LeeDK,Kling GJ(2015)Blacklocustasabioenergy feedstock: a review.Bioenergy Research,8,1117-1135.   \nTamura K, Sanada Y,ShojiAet al. (2015) DNA markers for identifying interspecific hybrids between Miscanthus sacchariflorus and Miscanthus sinensis.Grassland Science, 61, 160-166.   \nTilmanDooltaluseo environment trilemma.Science,325,270-271. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Additional Supporting Information may be found in the onlineversion of thisarticle: ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Triana F, Nassi o DiNasso N,Ragaglini G,Roncucci N, Bonari N (2015) Evapotranspiration,crop coefficient and water use efficiency of giant reed (Arundo donax L.) and miscanthus (Miscanthus $\\times$ giganteus Greef et Deu.) ina Mediterranean environment.Global Change Biology and Bioenergy,7,811-819.   \nVerlinden MS,Broeckx LS,Van den Bulcke J,Van Acker J,Ceulemans R (2013) Comparative study of biomass determinants of 12 poplar (Populus） genotypes ina high-density short-rotation culture.Forest Ecology and Management,307, 101–111.   \nWerling BP,Dickson TL, Isaacs R et al. (2013) Perennial grasslands enhance biodiversity and multiple ecosystem services in bioenergy landscapes.Proceedings of theNational AcademyofSciencesof theUnited StatesofAmerica,111,1652-1657.   \nXue S,Kalinina O,Lewandowski I(2015) Present and future options for Miscanthus propagation and establishment.Renewable and Sustainable Energy Reviews,49, 1233–1246.   \nZegada-Lizarazu W,Elbersen HW,Cosentino SL, Zatta A,Alexopoulou E,Monti A (2010)Agronomic aspects of future energy crops in Europe.Biofuels,Bioproducts & Biorefining,4, 674-691. Figure S1.Mean annual biomass production of giant reed, miscanthus,and switchgrass observed in Casale from 2007 to 2014.   \nTable S1.Main characteristics of soil layers in Casale and Gariga.   \nTable S2.Energy costs [GJ $\\mathrm { \\ h a } ^ { - 1 } ]$ of the studied species cultivation in Casale (2007-2012) and in Gariga (2007-2013). Table S3.Monthly rainfall and mean air temperature measured in Casale and in Gariga from 2007 to 2014. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

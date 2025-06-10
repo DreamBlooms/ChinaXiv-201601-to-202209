@@ -1,0 +1,143 @@
+# 热声热机换热器的基本换热特性研究
+
+孙兰飞1,2陈燕燕1罗二仓¹戴 巍1(1.中国科学院理化技术研究所低温工程学重点实验室，北京100190;2．中国科学院大学，北京 100190)
+
+摘要基于弱非线性热声理论，对热声换热器的基本换热特性进行了理论分析。在前人研究基础上，增加了换热器内纵向温度梯度的影响，获得了二阶周期平均热流的解析表达式，并定义了适合表征热声换热器换热特征的无量纲换热量。计算分析了无量纲参数声导率 $\ Y a$ ，对流与压缩性比 $\boldsymbol { \Gamma }$ ，动态雷诺数 $R e _ { \mathrm { w } }$ 对换热器时均换热量的影响。分析表明，换热器产生时均吸热还是时均放热特性主要由临界声导率幅值决定，存在时均纵向温度梯度时，还取决于 $R e _ { \mathrm { w } }$ ；声导率的相位角对时均热流的影响相对较小，但其影响会随着 $| { \cal { T } } |$ 和 $| Y a |$ 的增大而增大； $| { \cal { T } } |$ 的存在增强了换热；存在临界的 $R e _ { \mathrm { w } }$ 值使得二阶周期平均热流取得极值。本文所定义的无量纲换热量能合理表征换热器换热特性，对热声换热器基本换热特征的研究将为进一步考察其实际复杂工作机理提供理论指导。
+
+关键词热声换热器；平行平板流道；二阶周期平均热流；纵向温度梯度X中图分类号：TK123 文献标识码：A 文章编号:0253-231X(2017)05-0925-05
+
+# Study on Heat Transfer Characteristic6fThermoacoustic Heat Exchange1
+
+SUN Lan-Fei $^ { 1 , 2 }$ （2 CHEN Yan Yan1 LUO Er-Cang1 DAI Wei1 (1.Key LaboratoryofCryogenics,Technical Inktituteof Physics and Chemistry,CAS，Beijing10o190,China; 2.University of ChinesAeademy of Sciences，Beijing 10o190,China)
+
+Abstract Based on the weaklylplinear theory of thermoacoustic energy conversion, the basic heat transfer characteristics of thermoacoustic heat exchanger are analyzed in this paper. Mean time longitudinal temperature gradient is considered. A nondimensional heat flux is defined and it's mainly influenced by parameters such as dynamic Reynolds number $R e _ { \omega }$ ， acoustic admittance $Y a$ ，and the temperature ratio $\varGamma$ . The analytical expressions show that there existsa critical acoustic admittance making the heat flux being zero.And the existence of $| { \cal { I } } |$ enhanced heat transfer. This work can improve the understanding of heat transfer in oscillating flow andcan be useful for intensive study of practical thermoacoustic heat exchangers. X
+
+Key wordsthermoacoustic heat exchanger; parall-plate flowing passages; time-averaged heat flux; time-averaged longitudinal temperatune
+
+# 0引言
+
+热声热机是基于热声效应工作的，因其无运动部件、结构简单、工质无污染、可靠性高、能利用低品位能源等优点而受到了很多研究者的重视。热声热机的关键热力部件包括换热器和回热器，其中换热器使回热器的两端形成温度梯度，实现系统与外界的热量交换，以维持热声效应。然而，由于交变流动本身的复杂性和多样性，至今我们对交变流动与换热规律的认识与稳态换热相比仍相差甚远。
+
+热声换热器由两部分组成，一部分是外界热源用以提供换热器所需的外部工作环境，一部分是系统内部的交变流动工作流体，换热器的换热效果由这两部分耦合决定。本文将针对内部流体的换热进行理论分析。内部工作流体多采用惰性气体，在热声系统工作过程中，所有状态参数与流动参数都是波动的，换热过程尤为复杂[1-3]。热声换热器中的热量交换是由动态换热和二阶的周期平均换热两部分组成，对于动态换热，其时变热流的周期平均值为零[4]，不能直接表征换热器的换热性能。在热声系统中，我们更关心的是周期平均能量转换效应，对二阶的时均换热研究属于非线性热声动力学范畴。通过对热声系统的能流分析可知[5]：不论声波振幅大小，热能与声能转换本质上是非线性的，而热声转换正是依赖于这种非线性效应而工作的，即对于热声系统而言，能量转换必须要考虑二阶周期平均效应。基于此，已有研究中[6,7]采用的理论分析模型将换热器视为无限长等温流道，并着重分析了声导率对换热器的影响。但是，实际换热器的长度只有约两倍当地流体振荡位移幅度，存在显著的时均温度分布以及进出口效应。为简单起见，本文首先考察时均温度梯度的影响，对换热器基本换热特性做更深一步的考察，进出口效应等强非线性问题的研究将作为后续进一步的研究内容。
+
+本文以弱非线性热声理论为基础，从原始的能量守恒方程出发，获得了考虑纵向温度梯度影响的平行平板换热器的二阶周期平均热流的解析表达式，并对其进行了无量纲化，主要考察了动态雷诺数 $R e _ { \mathrm { w } }$ ，当地声导率 $\ Y a$ 以及对流与压缩性比 $\boldsymbol { { \cal T } }$ 对无量纲二阶周期时均热流 $\theta _ { 0 }$ 的影响，分析获得了热声换热器的一些基本换热特性。与以往采用稳态分析方法引入努塞尔数定义来强行关联时均换热与时均温差不同，本分析方法基于基本的热声效应能从机理上更为准确地分析交变流动换热器的换热特性。
+
+# 1二阶周期平均热流的解析解
+
+对能量守恒方程的微分形式进行截面积分与时均运算，获得含有壁面换热量的时均能量方程如下所示：
+
+$$
+\begin{array} { c } { { \displaystyle { \frac { \mathrm { d } } { \mathrm { d } x } } \int \left[ ( \rho V _ { x } h ) _ { 0 } + \left( \frac { \rho V _ { x } | \overrightarrow { V } | ^ { 2 } } { 2 } \right) _ { 0 } - ( \overrightarrow { \mathbf { \Gamma } } _ { \sigma } ^ { } \cdot \overrightarrow { V } ) _ { x 0 } + \right. } } \\ { { \displaystyle { \left. \left( - k \frac { \partial T } { \partial x } \right) _ { 0 } \right] } \mathrm { d } A + \dot { Q } _ { 0 } = 0 } } \end{array}
+$$
+
+其中， $x$ 为声传播方向， $( \rho V _ { x } h ) _ { 0 }$ 代表 $\mathbf { \Psi } _ { x }$ 方向的焓  
+流； $\left( \frac { \rho V _ { x } | \vec { V } | ^ { 2 } } { 2 } \right) _ { ( }$ 代表 $x$ 方向的动能流，为三阶量，0  
+可忽略(常用换热器中的速度幅值一般在 $1 0 ~ \mathrm { m / s }$ 量  
+级，相较于时均焓流可忽略，如速度达到 $1 0 0 \mathrm { m / s }$ 量  
+级，或变截面附近则需要谨慎处理); $\left( \Rightarrow ^ { \prime } \cdot { \overrightarrow { V } } \right) _ { x 0 }$ 指（20  
+黏性力做功，为三阶量，可忽略； $\left( - k \frac { \partial T } { \partial x } \right) _ { \ l }$ 代表 $x$ （202O  
+方向的导热，气体导热系数较小，与时均焓流的变化  
+相比一般可忽略； $\dot { Q } _ { 0 }$ 代表流体壁面的时均热流。因  
+此，对于换热器，流体壁面的时均热流就近似等于  
+流道进出口的时均焓流差。
+
+根据线性热声理论，无限长流道内存在时均温度梯度时的速度波动、压力波动以及温度波动都可获得解析解[4]，将这些解析表达式代入式（1）中，焓流周期平均值保留到二阶精度，忽略高阶项，得到[4,8,9].
+
+$$
+\dot { Q } _ { 0 } = - \frac { 1 } { 2 } \mathrm { R e } \frac { \mathrm { d } } { \mathrm { d } x } \Bigg \{ \Bigg [ P _ { 1 } U _ { 1 } ^ { * } \Bigg ( 1 + \frac { f _ { \mu } ^ { * } - f _ { k } } { ( 1 + \sigma ) ( 1 - f _ { \mu } ^ { * } ) } \Bigg ) \Bigg ] -
+$$
+
+$$
+\frac { \rho _ { 0 } C _ { p } | U _ { 1 } | ^ { 2 } } { 2 A \omega ( 1 - \sigma ^ { 2 } ) | 1 - f _ { \mu } | ^ { 2 } } \mathrm { I m } ( f _ { k } + \sigma f _ { \mu } ^ { * } ) \frac { \mathrm { d } T _ { 0 } } { \mathrm { d } x } \Bigg \}
+$$
+
+其中， $P$ 表示压力， $U$ 表示体积流率，上标 $^ *$ 表示共轭，下标 $^ { \mathfrak { a } } 1 ^ { \mathfrak { n } }$ 表示一阶波动量， $\sigma ^ { 2 }$ 为普朗特数，Re表示取实部， $\mathrm { I m }$ 表示取虚部运算。对于平板结构，截面平均的黏性函数 $f _ { \mu } = \operatorname { t a n h } ( Z ) / Z$ $Z ~ = ~ ( 1 + i ) \sqrt { R e _ { \mathrm { w } } / 3 2 }$ ：截面平均的热函数 $f _ { k } \ =$ $\operatorname { t a n h } ( \sigma Z ) / ( \sigma Z )$ 。热、黏函数表征的是参数的横向分布的影响，是截面形状以及水力直径与黏性穿透深度之比(即动态雷诺数 $R e _ { \mathrm { w } } \mathrm { . }$ ）的函数。
+
+接不来对式(2)中的梯度运算进行求解。由于时均温度存在纵向梯度，物性参数出现不均匀性，从而使得热、黏函数以及温度梯度本在纵向存在一定的梯度，但这些效应相对对流项的影响较小，因此，为了简便起见，暂时忽略换热器中的温度分布对热、黏函数及其温度非线性分布的影响，只考虑压力波动与体积流率波动的分布特性。将压力梯度与体积流率梯度均转换为压力与体积流率的表达式，从而获得时均热流的表达式如下：
+
+$$
+\begin{array} { c } { { \dot { Q } _ { \mathrm { n } } = - \frac { A \omega | P | } { 2 \sqrt { \omega } } \Big \lbrace \mathrm { \widehat { Q } } \mathrm { \widehat { R e } } \Bigg \lbrace ( 1 + \frac { f _ { \mathrm { s } } ^ { \intercal } - f _ { \mathrm { s } } } { ( 1 + \sigma ) ( 1 - f _ { \mathrm { s } } ^ { \intercal } ) } ) \times } } \\ { { \cdot \mathrm { \nabla } \sqrt { \omega } } } \\ { { \cdot \mathrm { \nabla } \sqrt { 1 | \omega | } \mathrm { \widehat { Q } } ^ { \ast } - 1 ) | f _ { \mathrm { s } } ^ { \intercal } + \frac { \Gamma ( \gamma - 1 ) ( f _ { \mathrm { s } } ^ { \intercal } - f _ { \mathrm { s } } ^ { \intercal } ) } { ( \sigma - 1 ) ! - f _ { \mathrm { s } } ^ { \intercal } } ( \frac { \rho _ { 0 } \omega _ { 1 } ( U _ { \mathrm { s } } ) } { A P _ { 1 } } ) ^ { \ast } - } } \\ { { \cdot \mathrm { V } \frac { \mathrm { i } } { ( 1 - f _ { \mathrm { s } } ) } | \frac { \rho _ { 0 } \omega _ { 0 } - 0 ( U _ { \mathrm { s } } ) } { A P _ { 1 } } | \Bigg \rbrace \Bigg \rbrace + \frac { 2 T \mathrm { i n } ( f _ { \mathrm { s } } + \sigma f _ { \mathrm { s } } ^ { \intercal } ) } { | 1 - f _ { \mathrm { s } } | ^ { 2 } ( 1 - \sigma ^ { 2 } ) } \times ~ ( 3 ) } } \\ { { \cdot \mathrm { \nabla } [ \mathrm { R e } ( \mathrm { i } \times ( 1 + ( \gamma - 1 ) f _ { \mathrm { s } } ^ { \intercal } ) ( \frac { \rho _ { 0 } \omega _ { 0 } T _ { 1 } } { A P _ { 1 } } ) ) + } } \\  { \cdot \frac { | \rho _ { 0 } \omega _ { 0 } | T _ { 1 } | } { A P _ { 1 } } \frac { \mathrm { \nabla } \rho _ { 0 } } { \omega _ { 0 } } \frac { \mathrm { d } T _ { 0 } | } { \mathrm { d } \omega _ { 0 } } \frac { \Gamma _ { 0 } } { \mathrm { d } x } \mathrm { R e } [ \frac { ( \gamma - 1 ) ( f _ { \mathrm { s } } - f _ { \mathrm { s } } ^ { \intercal } ) } { ( 1 - f _ { \mathrm { s } } ) ( 1 - \sigma ) } ] \Bigg \rbrace } \end{array}
+$$
+
+$\dot { Q } _ { 0 } = \frac { A \omega \vert P _ { 1 } \vert ^ { 2 } } { 2 \gamma p _ { 0 } } \theta _ { 0 }$ 得到无量纲二阶周期平均热流：
+
+$$
+\begin{array} { c } { { \theta _ { 0 } = - \mathrm { R e } \Bigg \{ \Bigg ( 1 + \frac { f _ { \mu } ^ { * } - f _ { k } } { ( 1 + \sigma ) ( 1 - f _ { \mu } ^ { * } ) } \Bigg ) \times } } \\ { { \Bigg \{ \mathrm { i } [ 1 + ( \gamma - 1 ) ] f _ { k } ^ { * } + \frac { \Gamma ( \gamma - 1 ) ( f _ { \mu } ^ { * } - f _ { k } ^ { * } ) } { ( \sigma - 1 ) ( 1 - f _ { \mu } ^ { * } ) } Y a ^ { * } - } } \\ { { \frac { \mathrm { i } } { ( 1 - f _ { \mu } ^ { * } ) } | Y a | ^ { 2 } \Bigg \} \Bigg \} - \frac { 2 \Gamma \mathrm { I m } ( f _ { k } + \sigma f _ { \mu } ^ { * } ) } { | 1 - f _ { \mu } | ^ { 2 } ( 1 - \sigma ^ { 2 } ) } \times } } \end{array}
+$$
+
+$$
+\biggl [ \mathrm { R e } ( i \times ( 1 + ( \gamma - 1 ) f _ { k } ^ { * } ) Y a ) +
+$$
+
+$$
+| Y a | ^ { 2 } r \mathrm { R e } \left[ \frac { ( \gamma - 1 ) ( f _ { k } - f _ { \mu } ) } { ( 1 - f _ { \mu } ) ( 1 - \sigma ) } \right] \biggr ]
+$$
+
+其中，无量纲参数 $Y a = \frac { \rho _ { 0 } a _ { 0 } U _ { 1 } } { A P _ { 1 } }$ $\Gamma = \frac { C _ { p } } { a _ { 0 } \omega } \frac { \mathrm { d } T _ { 0 } } { \mathrm { d } x }$
+
+由式(4)可以看出 $\theta _ { 0 }$ 是流体的物性参数 $\gamma , P r$ 流动参数 $R e _ { \mathrm { w } }$ 、声导率 $\ Y a$ 以及对流与压缩性比 $\boldsymbol { { \cal T } }$ 的函数。 ${ \boldsymbol { { T } } } = 0$ 即不考虑温度梯度影响时，式(4）与文献[6,7]中时均换热表达式有相同形式。热声热机中的常用工质为氮气与氮气，本文以氮气为例，取${ P r = 0 . 6 7 }$ 、 $\gamma = 1 . 6 7$ ，着重分析 $R e _ { \mathrm { w } } , Y a$ 及 $\boldsymbol { { \cal T } }$ 对 $\theta _ { 0 }$ 的影响，即 $\theta _ { 0 } = f ( Y a , \varGamma , R e _ { \mathrm { w } } ) .$ 0
+
+# 2二阶周期平均热流的影响因素分析
+
+在热声系统中，换热器的横向尺度 $\textit { b }$ (对于平板结构为流道半宽)应与热穿透深度 $\delta _ { k }$ 相当或更小，以保证工作气体的热交换。但由于换热器通道在实际加工过程中存在的困难同时要考虑过窄流道带来的阻力增加问题, $b / \delta _ { k }$ 一般被控制在 $1 { \sim } 1 . 5$ 之间。由表1可以看出，常温条件下氮气的 $R e _ { \mathrm { w } }$ 取值范围是：8\~107。
+
+# 表1氨气的动态雷诺数变化范围
+
+Table 1 The value of dynamie Reynolds number as a function of b/ok   
+
+<html><body><table><tr><td>b/8k</td><td>1.0</td><td>1.1</td><td>1.2</td><td>1.3</td><td>1.4</td><td>1.5</td></tr><tr><td>Rew</td><td>48</td><td>58</td><td>69</td><td>81</td><td>94</td><td>107</td></tr></table></body></html>
+
+利用DeltaEC软件分别模拟计算了驻波发动机和行波发动机两种常用的热声热机系统，得到了换热器处的声导率，结合已有资料[7]，计算时 $| Y a |$ 的取值范围扩大到： $0 . 0 0 1 { \sim } 4$ 。 $| Y a | = 1$ 意味着局部声阻抗幅值等于 $\rho _ { 0 } a _ { 0 }$ ，即大空管行波特征阻抗值。
+
+在实际加热器中，由于回热器与热缓冲管中的冷流体影响，换热器纵向温度分布会不均匀，温差可达几十K，其典型尺寸为 $\mathrm { 5 0 ~ m m }$ ， $\boldsymbol { { \cal T } }$ 能达到10的量级，因此分析中我们取 $\boldsymbol { { \cal T } }$ 的范围为： $- 2 0 \sim 2 0 \$ 0
+
+# 2.1动态雷诺数对无量纲二阶周期平均热流的影响
+
+图1给出了无量纲二阶周期平均热流随动态雷诺数的变化规律，温度梯度为零时如图1(a）所示，除临界 $| Y a |$ 值附近，不同的 $| Y a |$ 值下， $\Theta _ { 0 }$ 随 $R e _ { \mathrm { w } }$ 具有相似的变化规律，即 $R e _ { \mathrm { w } }  0$ 与 $R e _ { \mathrm { w } }  \infty$ 时， $\theta _ { 0 }$ 分别趋于0与一个较小的有限值，并在有限$R e _ { \mathrm { w } }$ 时存在一个峰值；不同的 $| Y a |$ 值有着不同的峰值 $\theta _ { 0 }$ 及对应的 $R e _ { \mathrm { w } }$ ，该 $R e _ { \mathrm { w } }$ 值在常规换热器的取值范围内；同时 $\theta _ { 0 }$ 的正负号即吸热或放热也取决于$| Y a |$ 值的大小，即存在临界 $| Y a |$ 值 (约2.1左右)使
+
+得换热量为零。
+
+图 1(b）为存在温度梯度的情况，极小与极大$R e _ { \mathrm { w } }$ 时， $\theta _ { 0 }$ 仍然趋于零和较小有限值；但此时 $\theta _ { 0 }$ 随 $R e _ { \mathrm { w } }$ 的变化会出现两个反向峰值，不存在 $\mid Y a \mid$ 值使得 $\theta _ { 0 }$ 沿 $R e _ { \mathrm { w } }$ 完全处于吸热或者放热状态，存在临界的 $\boldsymbol { R r } _ { w }$ 值使得 $\theta _ { 0 }$ 经过零点； $\mid Y a \mid$ 值越大对应的临界 $R e _ { \mathrm { w } }$ 越大。实际换热器中可以通过优化流体的流动参数达到最佳的换热效果。
+
+![](images/25ec12b5e68ffd89f1757cc0d2a81b77e323b96a9f0cc7397898b4d1f95bd0dd.jpg)  
+图1无量纲二阶周期平均热流随动态雷诺数的变化规律 Fig.1 dimensionless second-order time-averaged heat flux vs Reynolds number
+
+# 2.2声导率对二阶周期平均热流的影响规律
+
+以下分别考察声导率的幅值和相位角对二阶周期平均热流的影响规律。图2给出了无量纲二阶周期平均热流随声导率的幅值的变化规律。
+
+图2(a)表明，存在临界的 $| Y a |$ 使得 $\theta _ { 0 }$ 经过零点，不同的 $R e _ { \mathrm { w } }$ 值对应的临界值不同， $R e _ { \mathrm { w } }$ 值越大对应的临界 $\mid Y a \mid$ 值越大，但该数值变化不大，所考察 $R e _ { \mathrm { w } }$ 值范围内临界 $\mid Y a \mid$ 值均在2.1左右；图 2(b)表明，考虑温度梯度时， $\theta _ { 0 }$ 随 $\mid Y a \mid$ 的变化存在一个先减小后增大的过程，且存在临界的声导率的幅值使得二阶周期平均热流为零；声导率的幅值小于临界值时，二阶周期平均热流大于零，此时为放热器，反之为吸热器； $\boldsymbol { { \cal T } }$ 值不等于零时，随着 $\mid Y a \mid$ 增大，换热器成为放热器，且换热效果显著增加。
+
+![](images/b9cb708f6718e89e39967d0800083b3d4d459b403ae757cfe7978a9047d433f3.jpg)  
+图2无量纲二阶周期平均热流随声导率的幅值的变化规律 Fig.2 dimensionless second-order time-averaged heat flux v acoustical admittance ×
+
+随 $\boldsymbol { { \cal T } }$ 的变化规律相似， $\theta _ { 0 }$ 随着 $| { \cal { T } } |$ 值的增大而增大，即换热效果越来越好, $\mid Y a \mid$ 值决定了 $\theta _ { 0 }$ 随 $\boldsymbol { { \cal T } }$ 变化的敏感度;图4(b)表明，不同的 $R e _ { \mathrm { w } }$ 值下 $\theta _ { 0 }$ 随$\boldsymbol { { \cal T } }$ 的变化规律相似， $\theta _ { 0 }$ 随着 $| { \cal { T } } |$ 值的增大而增大,即换热效果越来越好。
+
+![](images/17f27cf28fef25f1d0153ca90ecb2c59791947f6dc2add828e7e4ca6f0deaadc.jpg)  
+图3无量纲二阶周期平均热流随声导率的相角的变化规律 Fig.3 dimensionless second-order time-averaged heat flux vs acoustical admittance
+
+图3给出了无量纲二阶周期平均热流随声导率的相角的变化规律，存在温度梯度时相位角才对 $\theta _ { 0 }$ 有影响， $\theta _ { 0 }$ 随 $\phi ( Y a )$ 正弦变化。随着 $\boldsymbol { { \cal T } }$ 和 $\mid Y a \mid$ 的增大，二阶周期平均热流对声导率的相位角敏感度均增加，即相位角对二阶周期平均热流的影响增大。 $\theta _ { 0 }$ 随 $\Phi ( Y a )$ 的变化在 $\varPhi ( Y a ) = - 1 0 \phantom { 0 } ^ { \circ }$ 时存在平衡点，在 $\phi ( Y a ) = - 1 0 0 ^ { \circ }$ 或 $\varPhi ( Y a ) = 8 0 ^ { \circ }$ 时分别取得最大或最小值。在实际换热器中，通过调整声场条件可以获得更合适的换热效果。
+
+2.3无量纲参数 $\boldsymbol { \varGamma }$ 对二阶周期平均热流的影响规律图4给出了无量纲二阶周期平均热流 $\theta _ { 0 }$ 随无量纲参数 $\boldsymbol { { \cal T } }$ 的变化规律，正负温度梯度下， $\theta _ { 0 }$ 的变化具有对称性。图 4(a)表明，不同的 $\mid Y a \mid$ 值下 $\theta _ { 0 }$
+
+![](images/6b25dc819837589e49022d0b7a27f70d37fd5052d4c0f4dcda717de2e13d1e60.jpg)
+
+![](images/6c5af312a57b8d6a786dbaa1e3e4a61520e07ca289202e672ce9308e06fea835.jpg)  
+图4无量纲二阶周期平均热流随无量纲参数 $\boldsymbol { { \cal T } }$ 的变化规律 Fig.4 dimensionless second-order time-averaged heat flux vs $\boldsymbol { { \cal T } }$ （204
+
+# 3结论
+
+本文以弱非线性热声理论为基础，研究在小振幅波动条件下换热器的二阶时均换热特性，获得了考虑纵向温度梯度影响的平行平板通道内二阶周期平均热流的解析式，给出了交变流动换热器的换热特征表征方法。并指出存在临界的 $R e _ { \mathrm { w } }$ 值使得阶周期平均热流取得极值，存在临界声导率的幅值，使得二阶周期平均热流为零；当实际声导率的幅值大于临界值时，振荡流体从外热源吸热；为吸热器；当实际声导率的幅值小于临界值时，振荡流体向外放热，为放热器;存在温度梯度时，随着 $| { \cal { T } } |$ 和 $\mid Y a \mid$ 的增大，声导率的相角对 $\theta _ { 0 }$ 的影响越大；另外考察了无量纲参数 $\boldsymbol { { \cal T } }$ 对二阶周期平均热流的影响，结果表明， $\theta _ { 0 }$ 随着 $| { \cal { T } } |$ 值的增大而增大。
+
+以上研究为进一步考察交变流动换热器的换热特性提供了依据，对提升换热器的工作性能及改进换热器的结构设计具有重要的指导意义。
+
+# 参考文献
+
+[1] ZHAO Tianshou,CHENG Ping.Heat Transfer in Oscil
+
+Iatuiy IUW[]· nmua V ICVV IJJO, 9(9):359-420   
+[2] ZHAO Tianshou,CHENG Ping.A Numerical Solution to Laminar Forced Convection in a Heated Subjected to a Periodically Reversing Flow [J]. Int JHeat Mass Transfer, 1995,38(16):3011-3022 [3] Cooper WL,Nee V W.Fluid Mechanics of Oscillatory Modulated Flows and Associated Application in Heat and Mass Transfer-a Review [J].JEnergy,Heat Mass Transfer, 1993,15(1): 1-19 [4] Swift G W.Thermoacoustic:a Unifying Perspective for Some Engines and Refrigerators [M.Sewickley PA:ASA Publication, 2002 [5] LUO Ercang.Non-Zero Time-Averaged Therrmoacoustic Effects,Linear or Nonlinear [C]//Proceedings of the 14th International Cryocooler Conference,Bouloler,2Oo7:196- 203   
+[6]肖家华.热声效应与回热式低温制冷机 (热机)的热声理论 [D].北京中国科学院理化技术研究所，1990 XIAOJiahua. Thermoacoustic Effect and the Thermoaoustic Theory of Regenerative Cryogenic Refrigerator Engine)[D].Beijing:Technical Institute of Physics and Chemistry,CAS,1990 [7]高波．热声系统中的能量转换及振荡传热机制研究[D].北 京：中国科学院理化技术研究所，2008 GAO Bo.Study on Energy Conversion and Oscillating Flow Heat Transfer in Thermoacoustic Systems [D].Beijing: Technical Institute of Physics and Chemistry, CAS,2008 [8] Rott N.Thermal Driven Acoustic Oscillations,Part 3: Second Order Heat Flux [J].Z Angew Math Phy,1975, 26(1): 43-49 [9] Rott N.Thermal Driven Acoustic Oscillations,Part 4: Tubes With Variable Cross Section [J]. Z Angew Math Phy, 1976, 27(2): 197-224   
+[10]陈燕燕．交变流动回热器的流动、传热特性与热力功能机 理的理论及实验研究[D].北京：中国科学院理化技术研究 所，2008
+
+CHEN Yanyan.Theoretical and Experimental Study on the Flow and Heat Transfer Characteristics of Oscillating FlowRegenerators and Energy Conversion MechanismInside [D].Beijing:Technical Institute ofPhysics and Chemistry,CAS,2008

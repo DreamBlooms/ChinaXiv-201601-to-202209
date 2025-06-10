@@ -1,0 +1,455 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201608261739 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨薇,李晓晓,李铭,孙涛.基于Logistic回归模型的黄河三角洲淡水恢复湿地大型底栖生物种群分布模拟.生态学报,2017,37(22）:7750-7759.YangW,LiXXi,cobeceeistrbooelisoalistessedoffrawetlands in theYellow RiverDeltaof China.Acta Ecologica Sinica,2017,37(22）:7750-7759.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于Logistic回归模型的黄河三角洲淡水恢复湿地大型底栖生物种群分布模拟",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨薇\\*，李晓晓,李铭,孙涛北京师范大学环境学院，北京100875",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：掌握大型底栖生物种群分布的时空变化对正确把握湿地生态修复效率、揭示湿地生态演替过程具有重要理论与实践意义。选择黄河三角洲地区一千二自然保护区的淡水恢复湿地为研究区,在2014—2015年大型底栖生物野外采样和优势物种的基础上,选择了琥珀刺沙蚕、中华蜾赢蜚、摇蚊幼虫作为典型优势物种,构建了基于Logistic 回归的淡水恢复湿地大型底栖生物种群分布模拟模型。其中,琥珀刺沙蚕和摇蚊幼虫的模拟结果较好,模拟准确率分别为 $8 4 . 9 \\%$ 和 $7 7 . 9 \\%$ ,而中华蜾赢蜚的模拟结果不甚理想。对比生态补水前后大型底栖生物的模拟分布结果发现,琥珀刺沙蚕主要集中在潮间带区域，且在春、秋两季的生存概率分布差异不显著;而淡水恢复湿地中摇蚊幼虫的分布概率显著提高，其中高于分割值0.5 的栖息面积增长了9.9—10.8倍，表明退化湿地生境正处于向淡水湿地演替进程中。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：种群分布模型;逻辑斯蒂回归;大型底栖生物;淡水恢复湿地;黄河三角洲",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Macrobenthic species distribution modeling based on a binary logistic regression : a case study of freshwater restoration wetlands in the Yellow River Delta of China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YANG Wei\\*,LI Xiaoxiao,LI Ming,SUN Tao School of Environment,Beijing Normal University，Beijing 10o875,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Studieson changes inthe macrobenthic species distributioncould help tounderstandthe ecological restoration efciencyof wetlandsand elucidate theecological succesionprocess.Basedontheresultsoffieldsamplings and species identification from2O14—2015 in the Yiqianer national naturereservesinthe Yellw River Delta wetlandsof China，in which freshwater release hasbeen implemented since 2O10，we selected three characteristic，dominant macrobenthic species，namely，Chironomidae species，Sinocorophum sinensis，and Alitta sucinea，corrsponding to freshwaterspecies, euryhaline species and brine species，respectively.We selected salinity，pH,water moisture,total organic carbon（TOC）， and median particle sizeof sediment as environmental variables.Basedonthe binary logistic regresion approach,in which abinaryvariable（O/1）indicates whether the targetspecies were foundat thesampling sites，8O groups of the field samplingdata were used tocalibratethe parameters ofthedistribution possbility modelforthe three species，whereasthe other 20 groups were used to verifythe simulated accuracy of models.Based on the simulated distribution posibilityof the targetspeciesatthe sampling sites，we spatializedtheiroccurrence possbilityusing inverse distance weighted interpolation and characterized their changes on a regional scale.We found that the models for Chironomidae species and $A$ . succinea corresponded well with the survey results and their precision rates reached $8 4 . 9 \\%$ and $7 7 . 9 \\%$ ，respectively. In contrast，the accuracy of the simulated occurrence probability of $S$ ，sinensis reached only $2 6 . 7 \\%$ ，which may be because of the mobility traits of $S$ ，sinensis andsmallsampling data，and because theselected environmental variablescould notcover the main limited survival factors for $S$ ，sinensis.The distribution possibility for $A$ .succinea showed no significant difference between before and after freshwater release.In general，the distribution possibilities of $A$ . succinea in the study region were lower than O.55.Furthermore，the areas with distribution probabilities between O.4 and O.55acounted for about $2 8 . 2 \\%$ of the study regionand wereconcentratedin theintertidal zone.Themain high distribution possibilityarea forChironomidae species was the freshwaterrestorationarea with theimplementationof freshwaterrelease.Thearea with adistribution possibility $> 0 . 5$ for Chironomidae has increased $9 . 9 \\mathrm { - }$ to 10.8-fold after the ecological restoration. Owing to the low accuracy of the simulated distribution possbility，we did not spatialize its occurrence possibility of $S$ ， sinensis on a regional scale.The steep increase in theoccurrence possibilityof Chironomidae speciesafter freshwaterrelease indicatedthat the restoration wetlands increasinglyshowed obvious freshwater characteristics，consistent with thesignificant reed growth and increaseinthe freshwater habitat patches observed during field investigation.Althoughthefreshwater habitat successon was unpredictable owing to significant fluctuations with respect torelease periods，we should take esential measures，such as continuous freshwaterrelease，long-term monitoring system，qualityimprovementof released freshwater，andcostreduction and high frequency of freshwater release，to maintain the long and dificult transition. ， ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words：species distribution model；logisticregression；macrobenthic；freshwaterrestorationwetlands；Yellow River Delta ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "大型底栖生物在湿地生态系统营养关系中占据着承上启下的关键位置，其分布格局和多样性的改变会引起初级生产者和高级消费者相应的种群和群落变化[1]。同时,大型底栖动物的栖息地相对固定、活动范围较小、且生活周期较短、直接接触底泥,也可以很好的指示水质及底质的污染状态[2]。因此深入了解湿地（特别是生态修复中的湿地系统)中大型底栖生物种群分布的时空变化,对于揭示修复湿地的生态演替规律、正确把握生态修复效率具有重要理论与实践意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "大型底栖生物种群分布模型具有对环境因子数据要求低、回避复杂机理、相对简单的特点,同时在揭示目标物种空间分布时具有显著优势,因而得到了更为广泛应用和发展[3-4]。种群分布模型可分为机理模型和统计模型,前者基于大型底栖生物与其他营养级间定量化的营养关系而构建,虽然在预测结果的准确性上具有显著优势[5],但由于目前底栖生物与相关生物营养关系定量化研究相对匮乏,这类模型在应用时存在较大局限性;而后者基于不同大型底栖生物物种及其生存环境理化特征在统计学上的相关性,从统计学角度构建统计回归模型[69],在揭示种群空间分布方面应用更为广泛。然而当前大部分构建的种群分布模型都是基于特定研究区域的种群生态模型,多是反映环境因子变化条件下的种群生物量、生存概率变化响应,很少用来分析生态修复中的生境演替规律。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究以黄河三角洲退化湿地的淡水生态修复过程为背景,在课题组现有研究成果[10]的基础上,选取典型淡水湿地物种 半咸水物种以及潮间带物种作为种群模拟对象,构建淡水恢复湿地大型底栖生物种群分布模拟模型,并通过研究这些典型物种的不同空间、季相分布的概率变化来指示生态修复的生境演替过程。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区域概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "黄河三角洲湿地 $( 3 8 ^ { \\circ } 3 ^ { \\prime } 2 7 . 1 1 ^ { \\prime \\prime } - 3 8 ^ { \\circ } 8 ^ { \\prime } 4 8 . 4 1 ^ { \\prime \\prime } \\mathrm { N } , 1 1 8 ^ { \\circ } 4 0 ^ { \\prime } 2 9 . 1 1 ^ { \\prime \\prime } - 1 1 8 ^ { \\circ } 5 0 ^ { \\prime } 1 9 . 7 2 ^ { \\prime \\prime } \\mathrm { E } )$ 位于渤海西侧,是中国最完整、最年轻的三角洲。本研究选择黄河三角洲湿地的一千二自然保护区为研究区域。一千二自然保护区位于东营市刁口乡内,总面积约为 $5 4 . 7 6 ~ \\mathrm { k m } ^ { 2 }$ 。该保护区西临黄河故道,东接东营港港口,南临渤海,是黄河三角洲国家自然保护区的最北部地区。保护区属温带季风性气候,雨热同期。多年平均气温 $1 2 . 1 \\mathrm { { ^ \\circ C } }$ ,7月平均温度月最高 $2 7 . 3 \\mathrm { ^ { \\circ } C }$ ,多年平均降水 $5 5 2 ~ \\mathrm { m m }$ $7 0 \\%$ 降水集中在5到7月。年平均蒸发量 $1 9 6 2 ~ \\mathrm { m m }$ ,常年蒸发量大于降水量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "黄河曾流经一千二自然保护区入海,但自1976年黄河改道后,该保护区失去淡水补给来源,常年受海水侵蚀,滨海湿地盐渍化严重,生境退化明显[11]。利用小浪底调水调沙的资源优势,自 2010 年起黄河三角洲自然保护区利用刁口流路开展了保护区北部区域淡水补给生态修复工程,年均补水3052 万 $\\mathbf { m } ^ { 3 }$ ,基本遏制了黄河口北部湿地生态退化的趋势[12]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1样品采集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "于2014年4月（生态补水前）、2014年9月（生态补水后）、2015年4月（生态补水前）、2015年8月（生态补水中)和2015年9月(生态补水后)共开展了5期野外采样工作,对大型底栖生物、沉积物进行了样品采集。每期布设20个调查站位（图1）,每个调查站位选用 $3 3 ~ \\mathrm { c m } \\times 3 0 ~ \\mathrm { c m } \\times 2 0 ~ \\mathrm { c m }$ 的定量采样框重复采样3次[10],然后混合泥样,经由网目孔径为 $0 . 5 ~ \\mathrm { m m }$ 的筛网初步冲洗,收集生物样品放入 $2 5 0 \\mathrm { \\ : \\overline { { m L } } }$ 白色广口塑料瓶中暂时存放,并带回实验室以备再次淘洗、分拣和物种鉴定用。同时每个调查站位用 $\\mathrm { \\hat { 1 0 0 } ~ c m } ^ { 3 }$ 的环刀采集一环刀量的表层沉积物样品( $\\mathrm { ( 0 - 2 0 ~ c m ) }$ ），放入5号自封袋内保存。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/62128a7a8f7b51c8c70c0a01309cd2b72b5bf195a3fa818b819de316116c71bc.jpg",
+        "img_caption": [
+            "图1 研究区域示意图",
+            "Fig.1Map of the freshwater restoration area and the associated sampling sites "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "罗马数字代表所属区域",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2沉积物样品处理分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对采集的沉积物样品进行理化性质分析,检测的指标包括盐度[13]、含水率、 $\\mathrm { \\ p H } ^ { [ 1 3 ] }$ 、粒径分布和 TOC 含量。具体方法为：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)盐度：研磨烘干土样过20目筛网,称取 $2 0 \\mathrm { ~ g ~ }$ 过筛土样于广口塑料瓶中,加入 $1 0 0 ~ \\mathrm { { m L } }$ 除 $\\mathrm { C O } _ { 2 }$ 水，橡皮 塞塞进瓶口,振荡机上震荡 $3 ~ \\mathrm { m i n }$ ,漏斗过滤,上清液存于三角瓶中,静置 $3 0 ~ \\mathrm { m i n }$ 后,运用便携式哈希HQ30D 多参数水质仪测量上清液盐度并记录。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)含水率：采用烘干法测定。称量沉积物样品鲜重 $m _ { 1 }$ ,置于烘箱中,将温度调整至 $1 0 5 \\mathrm { ^ { \\circ } C }$ ,烘干至恒重$m _ { 2 }$ ，运用 $( m _ { 1 } - m _ { 2 } ) / m _ { 1 } { \\times } 1 0 0 \\%$ 计算沉积物含水率并记录。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3) $\\mathrm { \\ p H }$ ：称取通过20目筛网的风干土样 $2 0 \\mathrm { ~ g ~ }$ 于 $1 2 5 ~ \\mathrm { m L }$ 广口塑料瓶中,加入 $1 0 0 ~ \\mathrm { m L }$ 无 $\\mathrm { C O } _ { 2 }$ 蒸馏水，剧烈搅拌 $1 ~ \\mathrm { m i n }$ ,静置 $3 0 ~ \\mathrm { m i n }$ 后，用便携式哈希HQ30D多参数水质仪测量 $\\mathrm { \\ p H }$ 值并记录。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（4）粒径分布：采用 S3500 激光粒度分析仪测定（Microtrac，Montgomeryville，PA，USA）。取样品0.3-$0 . 5 \\mathrm { ~ g ~ }$ （视不同样品而定,沙可达 $\\mathbf { \\nabla } _ { 3 } ^ { 3 } \\mathbf { \\mu } _ { \\mathrm { g } } ^ { \\mathrm { g } }$ ）,放入干净的烧杯;加入 $1 0 \\% \\mathrm { H } _ { _ { 2 } } \\mathrm { O } _ { _ { 2 } } 1 0 \\ \\mathrm { m L }$ ,在通风橱内控温电热板上加热至70— $8 0 \\%$ ,直到不再有气泡产生,除去样品中的有机物,加入适当（约2— $\\cdot 3 \\ \\mathrm { m L }$ ） $10 \\%$ HCl,除去样品中的无机碳;加水过滤,静置一夜,除去过量的酸。反复数次,至中性;加 $4 \\%$ （ $\\mathrm { \\Delta N a P O _ { 3 } } ) _ { 6 } 1 0 ~ \\mathrm { m L }$ 作为分散剂;超声波振荡 $3 ~ \\mathrm { m i n }$ 。之后将预处理后的沉积物样按要求逐一加人激光粒度仪内进行粒度分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（5)TOC：采用燃烧法测定。取烘干后的土样 $m _ { 3 } { \\big ( } \\left( 2 . 0 0 0 \\pm 0 . 0 0 1 \\right) \\mathbf { g } { \\big ) }$ )于坩蜗中,置于马弗炉中以 $\\mathrm { 5 5 0 ^ { \\circ } C }$ 灼烧 $5 \\mathrm { ~ h ~ }$ ,后取出土样于干燥器内干燥至恒重,称量灼烧后土样质量 $m _ { 4 }$ 。运用公式 $( m _ { 3 } - m _ { 4 } ) / m _ { 3 } { \\times } 1 0 0 \\%$ 计算样品TOC 含量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3大型底栖生物样品处理鉴定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "首先,将初步筛选后的生物样品带回实验室,下置孔径 $0 . 5 ~ \\mathrm { m m }$ 筛网,用淡水清水清洗至清洗液无浑浊；然后保存在体积比是 $5 \\%$ 的福尔马林固定液中。之后,对生物样品进行鉴别、计数、称量鲜重。最后,通过在$8 0 ^ { \\circ } \\mathrm { C }$ 的烘箱下烘干 $^ { 7 2 \\mathrm { ~ h ~ } }$ ,测量干重。所有称重仪器均用精度为0.001g（JA1003，Hengping，Shanghai，China）的电子天平。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4种群分布模型构建",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4.1 目标物种筛选",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "遵循科学性、代表性、全面性和目的性原则,结合2014—2015年生态补水前后各区域优势物种[10]的筛选结果（表1），研究选择了琥珀刺沙蚕（Alitta succinea）、中华蜾赢輩（Sinocorophium sinensis）、摇蚊（Chironomidae)幼虫为研究对象进行种群分布模型的构建。它们分别是潮间带湿地、半咸水湿地、淡水湿地的典型优势物种。潮间带受海水潮汐影响的水盐条件为琥珀刺沙蚕的生存繁殖提供了良好栖息条件,并且琥珀刺沙蚕在2014—2015年的5期野外采样中均在潮间带区域成为优势物种,因此,这类物种的存在与否与潮间带生境具有较强相关性。中华蜾赢蜚,是生存在淡盐水交互环境中的典型大型底栖生物物种,数量大、繁殖周期短,广泛栖于潮间带、潮下带、河口半咸水或淡水中。因此,这类物种的存在,能够良好地指示淡盐水交互的水盐波动条件。摇蚊科是淡水恢复区内出现频率最高、优势度最高的物种,可以良好地表征淡水恢复工程的实施效果及进度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4.2 模型构建 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在生态学研究中,常常采用特定环境下某一物种出现(是)或者不出现(否)的二元变量表征其生存概率。实际上,其出现与否与诸多环境因子以及生物自身的生理特性有关。二项逻辑斯蒂（Logistic)回归模型因对数据要求相对简单、模拟结果较好,因而在生态学二元变量预测中广泛应用[14-15]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据现有文献[16-19],影响大型底栖生物存在的主要环境因子有沉积物盐度、粒径分布、 $\\mathrm { \\Delta \\cdot \\ p H }$ 、水位条件。而大型底栖生物由于生物本身物种数目繁多,生理特性复杂多变。因此本研究选择沉积物盐度 $\\mathrm { \\nabla \\cdot \\ p H }$ 、中值粒径、含水率与TOC 含量作为影响目标物种是否存在的环境因子。设定逻辑斯蒂回归模型中预测目标物种的存在概率为 $P$ ,某一目标物种在某一点位的存在概率可写为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP =  \\frac { \\mathrm { e } ^ { a ^ { * { \\frac { 4 \\pi } { \\mathrm { m a x } } } \\mathrm { p i } \\cdot 4 - b ^ { * } } - b ^ { * } } \\mathrm { e } ^ { b \\cdot ( c + c ^ { * } - { \\frac { 2 \\pi } { \\mathrm { E } } } ) \\cdot ( { \\frac { 3 2 \\pi } { \\mathrm { p r } } } + d * \\mathrm { t i } \\left\\{ \\dot { \\mathrm { H } } \\dot { \\mathrm { H } } \\dot { \\mathrm { E } } \\right\\} \\cdot \\left( \\dddot { \\mathrm { E } } + f * \\mathrm { T O C } + { k } \\right. \\ } \\ } { 1 \\ + \\ \\mathrm { e } ^ { a ^ { * { \\frac { 4 \\pi } { \\mathrm { m a x } } } \\dot { \\mathrm { E } } \\cdot ( b \\cdot \\mathrm { e } ^ { - 4 \\pi } ) \\cdot ( c + c ^ { * { \\frac { 2 \\pi } { \\mathrm { E } } } } \\gamma ) \\cdot \\left( { \\frac { 3 2 \\pi } { \\mathrm { E } ^ { * { \\frac { 2 \\pi } { \\mathrm { m } } } } + d * \\ } } \\ast \\mathrm { f i } \\dot { \\mathrm { H } } \\dot { \\mathrm { H } } \\dot { \\mathrm { E } } \\right\\} \\cdot \\left( \\dddot { \\mathrm { E } } + f * \\mathrm { T O C } + k \\right.}  \\ } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\cdot a , b , c , d , f$ 分别表示自变量盐度、 $\\mathrm { \\Phi _ { \\cdot } p H }$ 、含水率、中值粒径与TOC 的系数， $k$ 表示常数,e表示自然数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以已有实测的五期沉积物样品和大型底栖生物样品的对应数据(每期 20个调查站位,共100 组数据)中的前四期(80组数据)率定构建的逻辑斯蒂回归模型参数,分别建立3个模拟对象的分布概率方程;并采用最",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "后一期(20组)的实测沉积物样品数据，对模型进行验证。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c7af03a879c4dcf3c5c5847a7e4c8207a8af141bd9bd31a245a7f6fb3fd4fc8a.jpg",
+        "table_caption": [
+            "表12014—2015年生态补水前后各区域优势物种",
+            "Table1Thedominantmacrobenthic species inthestudyareas（ItoV）beforeandafterfreshwaterreleases in2014and2015 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">生态补水前 Before freshwater release</td><td colspan=\"2\">生态补水中 During freshwater release</td><td colspan=\"2\">生态补水后 After freshwater release</td></tr><tr><td rowspan=\"2\">优势物种</td><td>所属</td><td rowspan=\"2\"></td><td>所属</td><td rowspan=\"2\">优势物种 所属 区域</td></tr><tr><td>优势物种</td><td>区域</td></tr><tr><td>二叉摇蚊 Dicrotendipes sp.</td><td>区域</td><td>凸旋螺Gyraulus convexiusculus</td><td>I</td><td>恩菲摇蚊 Einfeldia sp.</td></tr><tr><td>跳钩虾 Orchestia sp.</td><td>I I</td><td>二叉摇蚊 Dicrotendipes sp.</td><td>I&V</td><td>蛹 Pupa</td></tr><tr><td>蛹 Pupa</td><td>I</td><td>长跗摇蚊 Tanytarsus sp.</td><td>I</td><td>长跗摇蚊 Tanytarsus sp. I&III</td></tr><tr><td>羽摇蚊 Chironomus sp.</td><td>I&II</td><td>玻璃钩虾科一种Hyalidae</td><td>I</td><td>残枝长跗摇蚊 OI&II</td></tr><tr><td>环足摇蚊 Cricotopus sp.</td><td>I&II &V</td><td>羽摇蚊 Chironomus sp.</td><td>II</td><td>Cladotanytarsus mancus 分齿异腹摇蚊 Einfeldia dissidens I&Ⅱ</td></tr><tr><td>指突隐摇蚊</td><td>ⅡI</td><td>青步甲 Chlaenius sp.</td><td>II</td><td>多足摇蚊 Polypedilum sp. I&II&V</td></tr><tr><td>Cryptochironomus rostratus 小划蝽 Sigara substriata</td><td></td><td>多足摇蚊 Polypedilum sp.</td><td>IⅢI</td><td>蝶科一种 Ceratopogonidae Ⅱ</td></tr><tr><td>中华蜾赢蜚 Sinocorophium sinensis</td><td>Ⅱ II&IV</td><td>长跗摇蚊 Tanytarsus sp.</td><td>Ⅲ</td><td>中华蜾赢輩 Sinocorophium sinensis I&III& IV</td></tr><tr><td>琥珀刺沙蚕 Alitta succinea</td><td>IV</td><td>脊尾白虾 Exopalaemon carinicauda</td><td>II&IV</td><td>叉摇蚊 Dicrotendipes sp. II&V</td></tr><tr><td>双壳类幼体一种 Bivalvia</td><td>IV</td><td>琥珀刺沙蚕 Alitta succinea</td><td>IV 小划蝽 Sigara substriata</td><td>IⅢI</td></tr><tr><td>江户明樱蛤 Moerella hilaris</td><td>IV</td><td>中华蜾赢蜚 Sinocorophium sinensis</td><td>IV 背蚓虫 Notomastus latericeus</td><td>II&IV</td></tr><tr><td></td><td></td><td>天津厚蟹 Helice tientsinensis</td><td>IV 纽虫Lineus</td><td></td></tr><tr><td>aphalmus japonicus</td><td>IV</td><td></td><td></td><td>IV</td></tr><tr><td>多足摇蚊Polypedilum sp.</td><td>V</td><td>软钝小摇蚊 Microchironomus tener</td><td>琥珀刺沙蚕 Alitta succinea 日本大眼蟹</td><td>IV</td></tr><tr><td></td><td></td><td>e</td><td>Macrophthalmus japonicus</td><td>IV</td></tr><tr><td></td><td></td><td></td><td>薄壳绿螂 Glauconome angulata</td><td>IV</td></tr><tr><td></td><td></td><td></td><td>渤海鸭嘴蛤 Laternula gracilis</td><td>IV</td></tr><tr><td></td><td></td><td></td><td>天津厚蟹 Helice tientsinensis</td><td>IV</td></tr><tr><td></td><td></td><td></td><td>拟沼螺属 Assiminea sp.</td><td>V</td></tr><tr><td></td><td></td><td></td><td>四角蛤蜊 Mactra veneriformis</td><td>V</td></tr><tr><td></td><td></td><td></td><td>尖音蚜虫 Berosus sp.</td><td>V</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4.3 种群分布模拟",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以调查站位上目标物种的模拟分布概率为基准,运用反距离权重法,实现研究区域内分布概率的变化,该操作在 ArcGIS10.3平台上实现。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 参数率定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2为琥珀刺沙蚕、中华蜾赢蜚以及摇蚊幼虫的模型参数率定结果。可以看出， $\\mathrm { \\ p H }$ 对琥珀刺沙蚕生存的贡献最大,其次为 TOC、含水率和盐度;同样， $\\mathrm { \\ p H }$ 对中华蜾赢蜚存在的概率贡献最大,其次为 TOC 和含水率;对摇蚊幼虫而言，盐度 $\\mathrm { \\nabla \\cdot \\ p H }$ 和含水率贡献相当,均较大,TOC 影响最小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对拟合的 $P$ 值结果，以0.5为分割值（大于0.5视为存在,反之视为不存在）,琥珀刺沙蚕的模拟预测准确率为 $8 4 . 9 \\%$ ,中华蜾赢蜚的模拟准确率为 $2 6 . 7 \\%$ ,摇蚊幼虫模拟准确率为 $7 7 . 9 \\%$ ,除了中华蜾赢蜚之外,模型模拟整体准确率比较高。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 模型校验 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对剩余的20组实测数据进行了模型校验。其中,对于琥珀刺沙蚕和摇蚊幼虫,采集到生物样的调查站位模拟概率值显著高于未采集到生物样的调查站位的模拟值( $P < 0 . 0 5 )$ ,模拟值与实测值吻合度较好（表3,表4)。而对于中华蜾赢蜚,采集到生物样品站位的模拟概率值与未采集到生物样品的模拟概率值并不存在显",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "著差异( $P > 0 . 0 5$ ,表5）,模拟效果有待改善，这与模型率定结果不理想有一定关系。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/9ce86ceba001e3c620fd038393597a2b8d17381c2463ad81b9c19637b1970cf5.jpg",
+        "table_caption": [
+            "Table2 Parameters for the three macrobenthic species "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>环境因子</td><td>琥珀刺沙蚕 Alitta succinea</td><td>中华蜾赢蜚 Sinocorophium sinensis</td><td>摇蚊幼虫 Chironomidae</td></tr><tr><td>Environmental Variables 盐度Salinity(a)</td><td>-0.136</td><td>0.047</td><td>0.361</td></tr><tr><td>pH(b)</td><td>1.570</td><td>6.029</td><td>0.397</td></tr><tr><td>含水率Water moisture(c)</td><td>-0.241</td><td>-0.178</td><td>0.330</td></tr><tr><td>中值粒径 Median particle size(d)</td><td>-0.035</td><td>-0.065</td><td>-0.045</td></tr><tr><td>TOC(f)</td><td>-0.317</td><td>-0.304</td><td>0.000</td></tr><tr><td>常量Constant(k)</td><td>-5.952</td><td>-46.205</td><td>-11.118</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e1586e41a6af5dc945dea1c34372cee30d4af4553a95dc1ba9a5a67d445c4f05.jpg",
+        "table_caption": [
+            "表2典型大型底栖生物种群环境因子参数模拟结果",
+            "表4摇蚊幼虫模拟模型验证结果对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>调查站位 Sampling station</td><td>实测数据 Measured data</td><td>模拟概率 Simulated possibility</td><td>调查站位 实测数据 Sampling station Measured data</td><td>模拟概率 Simulated possibility</td></tr><tr><td>I-1</td><td>0</td><td>0.23</td><td>III-3</td><td>0.03</td></tr><tr><td>I-2</td><td>0</td><td>0.10</td><td>0 III-4 0</td><td>0.10</td></tr><tr><td>I-3</td><td>0</td><td>0.11</td><td>IV-1</td><td>0.55</td></tr><tr><td>[-4</td><td>0</td><td>0.00</td><td>IV-2 1</td><td>0.50</td></tr><tr><td>II-1</td><td>0</td><td>0.13</td><td>IV-3 1 olo</td><td>0.47</td></tr><tr><td>I-2</td><td>0</td><td>0.39</td><td>IV-4 1</td><td>0.36</td></tr><tr><td>II-3</td><td>0</td><td>0.19</td><td>V-1</td><td>0.15</td></tr><tr><td>II-4</td><td>0</td><td>0.29</td><td>V-2</td><td>0.06</td></tr><tr><td>III- 1</td><td>0</td><td>0.02</td><td>V-3</td><td>0.14</td></tr><tr><td>III-2</td><td>0</td><td>0.54</td><td>V-4</td><td>0.07</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d54bb63a6180e27428b773f65e7e6bf1a5220e7ade638b949ead4c02f6af62ee.jpg",
+        "table_caption": [
+            "Table3Model verification for Alitta succinea ",
+            "Table 4Model verification for Chironomidae ",
+            "表5中华蜾赢蜚模型验证结果对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>调查站位 Sampling station</td><td>实测数据 Measured data</td><td>模拟概率 Simulated possibility</td><td>调查站位 Sampling station</td><td>实测数据 Measured data</td><td>模拟概率 Simulated possibility</td></tr><tr><td>I-1</td><td>1</td><td>0.70</td><td>III-3</td><td>1</td><td>0.81</td></tr><tr><td>I-2</td><td>1</td><td>0.85</td><td>III-4</td><td>1</td><td>0.85</td></tr><tr><td>I-3</td><td>1</td><td>0.77</td><td>IV-1</td><td>0</td><td>0.36</td></tr><tr><td>I-4</td><td>1</td><td>0.98</td><td>IV-2</td><td>0</td><td>0.33</td></tr><tr><td>II-1</td><td>1</td><td>0.41</td><td>IV-3</td><td>0</td><td>0.24</td></tr><tr><td>II-2</td><td>1</td><td>0.49</td><td>IV-4</td><td>0</td><td>0.21</td></tr><tr><td>II-3</td><td>1</td><td>0.70</td><td>V-1</td><td>1</td><td>0.51</td></tr><tr><td>II-4</td><td>1</td><td>0.59</td><td>V-2</td><td>1</td><td>0.31</td></tr><tr><td>III- 1</td><td>1</td><td>0.44</td><td>V-3</td><td>1</td><td>0.70</td></tr><tr><td>III-2</td><td>1</td><td>0.62</td><td>V-4</td><td>1</td><td>0.49</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/babaa7d256ca99e23379ddb465635be758da50de2ca14d87fd83b81d0c10f646.jpg",
+        "table_caption": [
+            "表3琥珀刺沙蚕模拟模型验证结果对比",
+            "Table5Model verification for Sinocorophium sinensis "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>调查站位 Sampling station</td><td>实测数据 Measured data</td><td>模拟概率 Simulated possibility</td><td>调查站位 Sampling station</td><td>实测数据 Measured data</td><td>模拟概率 Simulated possibility</td></tr><tr><td>11</td><td>0</td><td>1.00</td><td>II1-3</td><td>0</td><td>1.00</td></tr><tr><td>1-2</td><td>0</td><td>1.00</td><td>III-4</td><td>0</td><td>1.00</td></tr><tr><td>I-3</td><td>0</td><td>1.00</td><td>IV-1</td><td>1</td><td>0.99</td></tr><tr><td>I-4</td><td>0</td><td>1.00</td><td>IV-2</td><td>1</td><td>0.99</td></tr><tr><td>II-1</td><td>0</td><td>1.00</td><td>IV-3</td><td>1</td><td>1.00</td></tr><tr><td>II-2</td><td>0</td><td>1.00</td><td>IV-4</td><td>1</td><td>1.00</td></tr><tr><td>II-3</td><td>0</td><td>1.00</td><td>V-1</td><td>0</td><td>1.00</td></tr><tr><td>II-4</td><td>0</td><td>1.00</td><td>V-2</td><td>0</td><td>0.78</td></tr><tr><td>III- 1</td><td>0</td><td>0.69</td><td>V-3</td><td>0</td><td>1.00</td></tr><tr><td>III-2</td><td>0</td><td>1.00</td><td>V-4</td><td>0</td><td>0.98</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 种群分布",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "琥珀刺沙蚕广泛分布于河口、潮间带与潮下带,是本研究区域潮间带的典型优势种。根据 2014—2015 年现场采样和模拟分布的结果,琥珀刺沙蚕在补水前和补水后的生存概率分布差异不显著。该物种模拟结果普遍低于分割值0.5,介于0.4—0.55之间的面积占研究区面积的 $2 8 . 2 \\%$ ,且分布范围均集中在潮间带（图2）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2014年生态补水前 N 2014年生态补水后A迪 正2015年生态补水前 2015年生态补水中uu2015年生态补水后u 图例高：0.55低：00 2 4 km",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "摇蚊幼虫分布主要集中在淡水恢复区（图3),而潮间带的分布概率普遍低于分割值0.5。随着生态补水的实施,摇蚊幼虫在淡水恢复区的生存概率普遍在0.6—0.9之间,比起补水前有显著性升高( $\\ P < 0 . 0 5 ,$ ，高于分割值0.5的栖息面积增长9.9—10.8倍。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "考虑到本研究中种群分布模型所得出的中华蜾赢蜚的模拟结果与实际情况拟合度较差,该物种的空间化结果意义不大,未进一步对其进行空间插值。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2014年生态补水前 2014年生态补水后u u2015年生态补水前 2015年生态补水中  \n笛u2015年生态补水后  \n黄 图例高:1.00低：00 2 4km",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1种群分布模型",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文基于Logistic 回归的大型底栖生物种群分布模型对筛选物种琥珀刺沙蚕、中华蜾赢蜚、摇蚊幼虫的模拟效果不一,这可能与模型训练的数据、环境指标的筛选以及生态学过程的复杂性有关[20]。本文中选用野外实测的80组物种和环境指标的对应数据作为模型的训练数据,剩余的20组对应数据对建立的模型进行验证,选取的数据样本数较少。有研究成果指出种群分布模型与数据的精度和数据的密度具有一定的相关性，野外的实际调查数据包含了较多的不确定性因素,对环境指标数据的精度有一定影响,进而影响基于统计学的种群分布模型[21]。适宜的环境指标的选取,尤其是能覆盖种群生存限制因素的环境指标的选取更利于模拟种群的分布。同时生物种群自身的一些生理学特征[22],以及由于自身随机移动而未采集的情况也对模型的模拟效果具有一定的限制性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究中琥珀刺沙蚕和摇蚊幼虫取得了较高的模拟吻合度,琥珀刺沙蚕种群分布模型模拟结果显示的潮间带区域的高分布概率与其作为潮间带的优势种群具有良好的一致性,摇蚊幼虫分布模型模拟结果显示的在淡水恢复区域的高分布概率与其作为淡水湿地的优势种群具有良好的一致性。而中华蜾贏蜚模拟结果不甚理想,中华蜾赢蜚具有一定的移动性,生物本身具有的活动性使得野外采样时由于生物随机移动而未采集到的情况不可避免。且其是生存在淡盐水交互环境中的典型大型底栖生物物种,对盐度具有广泛的耐受性,本研究中在模型构建时筛选的环境因子应不足以覆盖中华蜾赢蜚的主要生存限制因素。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2淡水恢复区的生境演替与异质化",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "生态补水影响下,恢复区内摇蚊幼虫的分布概率发生了显著的季相变化。在补水工程实施后,摇蚊幼虫分布概率高于分割值0.5的分布面积增大了10倍左右。作为典型的淡水湿地物种,摇蚊幼虫分布概率的显著增大,代表了恢复区在生态补水影响下,在补水后具有明显的淡水湿地特征。这与实际的野外观测中,生态补水后恢复区芦苇长势改善、水域生境斑块面积增大的景观变化是一致的。值得我们关注的是,恢复区内以补水周期为尺度,出现了一定的生态恢复进程停滞乃至反复的情况。2014—2015年,在生态补水实施前的枯水期,摇蚊幼虫在恢复区的分布概率 $8 0 \\%$ 以上集中在0.2—0.5的范围内，整体处于较低的水平。这与生态补水后 $7 0 \\%$ 以上集中在0.5—1范围内的概率相比显著偏低。这一现象说明：恢复区的生境变化乃至演替进程,存在较大的波动。以补水实施时间为节点,本次补水前相比于上次补水后,生境变化会出现季相反复甚至倒退的情况。考虑到淡水湿地形成的必要条件是大量的淡水和较低的盐度，而当地补水的实施频率为每年1次，天然蒸发量又远高于降水量，也是合乎情理的。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对比本研究地区与典型的淡水湿地的生境特征[23-24],可以得出,黄河三角洲一千二自然保护区的恢复区虽然具备了一定淡水湿地特征,但这一生态恢复过程尚不完全,生境的演替和恢复是一个长期的过程,淡水湿地需要持续的人为干预、长期的生态补水措施。因此,后续补水工程在实施过程中需要建立长期的生境演替与生态补水资源的反馈追踪系统,并为了促进生境的演替、降低恢复生境的季相波动往复,可以适当降低引水条件、提高补水频率。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.3淡水恢复区的环境污染指示",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "摇蚊幼虫属于节肢动物门，昆虫纲，双翅目。所采集到的生物样品中,羽摇蚊（Chironomus plumosus）、多足摇蚊（Polypedilum sp.)等多种物种能在中度或者重度污染的水体生活,是典型的耐污种。已有研究成果表明,许多摇蚊幼虫物种生物量与沉积环境中的重金属浓度呈正相关关系,其表现出了对一定范围内沉积环境中重金属浓度表现出了高耐受力[25]。这一现象说明了摇蚊幼虫作为良好的指示物种,其生物量和栖息密度的多少表征着其栖息环境重金属污染或污染风险的严重程度[10]。因此,摇蚊幼虫在恢复区的高概率分布,虽然与高生物量或者高生物多样性的摇蚊幼虫不是完全对等,但也有可能是恢复区环境污染或恶化的标志。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "因此,为保障淡水恢复工程实施作用下其栖息生境向淡水湿地演替顺利进行,建议当地管理部门在进行生态补水的工程中对补水来水水质、补水后湿地水质的常规环境因子指标进行定期监测。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1)构建了基于Logistic 回归的黄河三角洲淡水恢复湿地大型底栖生物种群分布模拟模型,并选择了琥珀刺沙蚕、中华蜾贏蜚、摇蚊幼虫为典型物种进行了生态模拟。琥珀刺沙蚕和摇蚊幼虫的模拟结果较好,模拟准确率分别为 $8 4 . 9 \\%$ 和 $7 7 . 9 \\%$ ,但该模型不适用于中华蜾赢蜚这一种群。(2)生态补水作用下淡水恢复湿地中摇蚊幼虫的分布概率显著提高,其中高于分割值0.5 的栖息面积增长9.9—10.8倍,表明湿地生境正朝着淡水湿地演替。(3)目前这一生境变化进程尚不完全,会出现停滞和反复,需要持续的人为生态补水干预,可以适当增加补水频率,并建议对生态补水水质和淡水湿地水质进行进一步监测。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]VndenBerghE,VanDmeS,GaveladJ,DgD,atenIeirePEologcalrehabilitioofteSheeEstuary（Theds-Belgium；NortsEroe）igofett，desilttvelotstoraiool（：204-214.  \n[2］左倬，陈煜权，成必新，胡伟，朱雪诞，仓基俊，王鹏.不同植物配置下人工湿地大型底栖动物群落特征及其与环境因子的关系.生态学报，2016,36(4)：953-960.  \n[3]DegraerS，VefalliE，WillsdriasE，VincMVanLkrVHabiatsuitabiltyodellngsmapingolfoacommunities；an example fromthe Belgian partof the North Sea.Continental Shelf Research,2O08,28(3）：369-379.  \n[4]Reissrchogh,teseneshJ,JalpasoGina,a,sRengstofAMValleVanHyG,Zetlr,graerentostrbutioodgndiseleaceforieosmatICES Journal of Marine Science,2015,72(2）:297-315.  \n[5]BuckleyY,RamulaS,BlombergSP,BursJH,CroneEE,EhrlenJ,KnightT,PichancourtJB,QuestedH,WardleGM.CusesaconsequencesfratioiplantpoputiogowthatestsisfatrixolatodelsingeetictetElogLes,13(9): 1182-1197.  \n[6] CadeBS,Notiailfssoldot.  \n[7] Wei CL,RoweGT,Escobar-BriosE,BoetiusA,SoltwedelT,CaleyMJ,SolianY,HuetmaF，QuFY,YuZSicherC,HdricR L,Wicksten MK,Rex MA，BaguleyJG,Sharma J,DanovaroR,MacDonaldIR,NunnalyCC,Deming JW,MontagnaP,LevesqueM,WeslawskiJM,odarska-KowaukM,IgoleBS,BetBJ,lltDS,olA,BuhBA,kenK,NaraasaBE.Goband predictions of seafloor biomass using random forests.PLoS One,2010,5(12）：e15323.  \n[8] LeathwickJ,MoilanenA，FrancsM,ElithJ,TaylorP,JlianK，HastieT,DuffyCNovelethodsfortedsignandevaluatiofaieprotected areas in offshore waters.Conservation Letters，2008，1(2）：91-102.  \n[9] 李若男，陈求稳，吴世勇，蔡德所，王洪梅.模糊数学方法模拟水库运行影响下鱼类栖息地的变化.生态学报，2010,30(1)：0128-0137.  \n[10] LiM,YaguJinotetlolalisfaaloaiitsdactistalwscbyfreshwaterreleases：acase studyin theYellowRiverDelta,China.Marine Polution Bulltin,2016,103(1/2）：227-239.  \n[11] 孙万龙，孙志高，卢晓宁，王苗苗，王伟.黄河口岸线变迁对潮滩盐沼景观格局变化的影响.生态学报，2016，36(2)：480-488.  \n[12] LiSZ,CuiB，ieZngKJ.DiversitattofaobesocatedwitdierentsagsofndrestoratointhYloverDelta.Wetlands,2016,36(S1): 57-67.  \n[13] YangW,LifalscobtYellow River Delta（China). Ocean & Coastal Management，2017,136:83-94.  \n[14] CozoliF，ortAplaofatlcotcssrtcomparng two contrasting basins.Marine Ecology Progress Series，2013，475:119-133.  \n[15] RyuJ,KimHC,iJ,HarkJ,gD,HgJH,LeeCH,KhCHrdictifacbcseisistreKoreanSemagtidaledlostcgresiodelofitalesolcalach16）6.  \n[16] 严娟，庄平，侯俊利，张涛，刘鉴毅，冯广朋，杨刚.长江口潮间带大型底栖动物次级生产力及其影响因子.应用与环境生物学报，2012，18(6): 935-942.  \n[17］李斌，申恒伦，张敏，蔡庆华，邵美玲.香溪河流域梯级水库大型底栖动物群落变化及其与环境的关系.生态学杂志，2013，32（8)：2070-2076.  \n[18]DudiLelaUhtttossoaeailResearch，2012,82:49-58.  \n[19]UdalovAA，BkovskiIV,MkievskiiVO,olyaroAP,azeiY,aburovaMA,hertoprudMhertoprdE,inskiiVV,KolobvYPonomarevSangesintegenralcaracteristcsofmico，ei，ndmacrobentsalogtheslinitygadientintehitetaOceanology，2004，44(4): 514-525.  \n20]NezerOarDiduetaelesees-distbioelsedtetditiBiodiversity and Conservation，2017,26(2）：421-437.  \n21]antiafeldl,220(19): 2365-2379.  \n[22] WitmannME,esMA,JerdeCL,JonesLA,LdgeDM.Confrontigspecisdistrbutionodelpredictioswithspeiesfuctoaltrats.Ecology and Evolution,2016,6(4): 873-879.  \n[23] 刘佩佩，白军红，王婷婷，韩祯，赵庆庆，卢琼琼.白洋淀优势植物群落生物量及其影响因子.湿地科学，2013，11（4)：482-487.  \n[24] 朱伟，李国卿，赵联芳.长江淡水潮汐湿地植物特性和植物群落演替研究- 一以镇江北固山湿地为例.长江流域资源与环境，2006，15(5): 608-613.  \n[25］迟国梁，赵颖，官昭瑛，王建武，童晓立.广东横石水河大型底栖动物群落与环境因子的关系.生态学报，2010,30（11)：2836-2845.",
+        "page_idx": 9
+    }
+]

@@ -1,0 +1,194 @@
+# 应对恐怖主义威胁的心理台风眼效应
+
+李纾1²，李江龙，杨舒雯1,4，吴小菊14，陈俊芳1,4，丁阳14，林雨欣²，白新文1,4\*，栾胜华1,4\*，郑蕊1,4\*
+
+1 中国科学院心理研究所行为科学重点实验室，北京1001012浙江大学心理与行为科学系，杭州，3100073中国科学院大学经济与管理学院，北京 1001904 中国科学院大学心理系，北京100049
+
+摘要 恐怖主义已在许多国家成为现实。在新疆乌鲁木齐市举办的中国-亚欧博览会也不例外地受到国际反恐大环境的负面影响。受心理台风眼效应的启发，我们在2018年4-6月期间调查了中国31个省级行政区约2034名居民，考察这些居民距乌鲁木齐的空间距离与他们对中国-亚欧博览会安全担忧之间的关系。结果发现人们居住的地理位置与乌鲁木齐越远，人们越担忧中国-亚欧博览会的安全，即，居住在中国-亚欧博览会所在地的居民，其对安全的担忧处于心理台风眼的中心，是心理最平静的。我们将这一新发现解读为“应对恐怖主义威胁的心理台风眼效应”。并对其国际反恐实践和研究的现实意义进行了讨论。
+
+关键词中国-亚欧博览会；心理台风眼效应；安全担忧；恐怖主义威胁；新疆
+
+# 1引言
+
+害怕是人类对周遭环境中各类危险的本能反应。美国总统富兰克林·罗斯福 (1941)曾在国会咨文中将“免于恐惧”列为“人类的基本自由”。恐怖主义已在许多国家成为现实。根据经济与和平研究所(Institute forEconomics&Peace）公布的《全球恐怖主义指数(Global Terrorism Index)(2017)》显示，从2000年开始，因恐怖主义造成的人员死亡的数量以及波及的国家数量逐年增长，2016年因恐怖主义造成至少有一人死亡的国家数量从2015 年的 63 个国家增加到77个国家(Institute for Economics and Peace,2016; 2017）。
+
+中国在受恐怖主义影响的国家中位列31位(Institute for Economics and Peace,2017)，而新疆维吾尔自治区(XinjiangUygur Autonomous Region) 则是中国受恐怖主义攻击的高发地区(Mei& Zhang,2015)。在新疆乌鲁木齐市举办的中国-亚欧博览会，其吸引力和影响力也不例外地受到国际反恐大环境的负面影响。恐怖主义造成的客观危险已经给各族人民带来了真真切切的“恐惧”。
+
+然而，以往研究显示外部环境的客观风险与内心的主观风险知觉并不一致。风险知觉研究大师Paul Slovic(1999)就认为：客观危险与主观恐慌、担忧、害怕之间的关系常常并非一一对应。尽管危险事件（hazards）是客观存在的，但是并不存在“真实的风险”(realrisk）或者“客观的风险”（objective risk）。
+
+Slovic 的观点可以帮助我们理解为什么生活在不幸事件中心附近的人们对该事件的负面后果反而不那么担忧。2008年5月汶川发生8.0级大地震，我们对灾区和非灾区居民进行了有计划的大规模调查，研究(Lietal.,2009a;2009b）意外发现，越接近震中的个体，心理反而越平静。即，随着主观判断其所在地灾情严重程度的增强（从非受灾、轻度受灾、中度受灾、到重度受灾），居民估计灾区对医生和心理学工作者的需求量、发生大规模传染病的可能性及需要采取的避震措施的次数均随之减少（图1）。我们将此效应冠名为“心理台风眼”(psychological typhoon eye)效应，即，距离震中越近的民众，对地震的风险知觉越低，距离震中越远的民众，对地震的风险知觉反倒越高（罗伯特·费尔德曼，黄希庭,2020）。
+
+![](images/b54cda044c36e6b0f7e5b23e5820f76b6a536df02c44469620bdba5226925837.jpg)  
+图1汶川大地震后民众对安全与健康担忧的评估 (Lietal.,2009b)
+
+我们在汶川地震发生4个月（2008年9月至10月）和11个月（2009年4月至5月）后，又对灾区（四川、甘肃）和非灾区（北京、福建）居民进行了两次跟踪研究。研究发现，“心理台风眼”效应在汶川地震1年之后仍然强劲。
+
+以上所报告的心理台风眼效应、相关评论(e.g.,Bartels,&Van Rooyen,2012;Bonanno,Brewin,Kaniasty,&Greca,2010；刘正奎,2012;刘正奎,吴坎坎,王力,2011;刘正奎,吴坎坎,张侃,2011;刘正奎,2012；谢晓非,林靖,2012）以及编者按(Harada,2011)表明客观危险与主观害怕之间的关系并非是一个线性负相关的关系，其关系更像是：“境转而心不转”甚至于“境灭心不灭”（参见Wei,Tao,Liu,&Li,2017）。
+
+那么，所能提出的一个仍令人感兴趣的问题是：在新疆恐怖主义情景中，客观危险与主观害怕之间又是什么关系？
+
+为了回答这个问题，我们注意到，新疆恐怖主义所导致的风险与2008年发生在汶川的大地震所导致的风险有多处不同：
+
+1）在汶川地震中，地震中心汶川就是风险源的中心。而在新疆恐怖主义中，风险源在时间和空间定位上都有异：1)新疆恐怖主义延续了几年；2)新疆恐怖主义的大屠杀不仅发生在在乌鲁木齐，也发生在昆明，北京等其他地方，即使离开了新疆，身边仍有客观的风险源的存在。在这种风险中，人们的主观风险知觉似乎更有可能如“涟漪效应”所描述，随时间和空间而衰减。
+
+2）汶川地震是自然灾害；新疆恐怖主义是人为的灾难。人为和自然的客观风险不见得就一定能引起等值的主观害怕。上世纪50年代末，中国人民遭受了一场自然灾害导致的灾难性饥荒，食物的匮乏使人民更加希望获得“免于贫困的自由”(freedom from want)；新疆恐怖主义则激发了的人们对“免于恐惧的自由”(freedom from fear)的渴望。“免于恐惧的自由”即人们有能力在战争、恐怖袭击和犯罪活动等危险事件中保护自己的人生安全(详细讨论见Wei,Tao,Liu,&Li,2017)。另外，人们面对“人为”灾害（如战争）可以投降，面对自然灾害（如新型肺炎）则无法投降。无法投降抑或更加使人害怕。
+
+3）汶川地震中所侦测到的“心理台风眼效应”，其空间距离是以受灾程度划分的，并非严格意义上的空间距离，比如甘肃省的陇南，虽然地理上远离汶川，但其与汶川都被认为是重灾区。而严格以“空间距离”为距离的研究，所发现的是接近震中（距0.5千米）的村庄中患“创伤后应激障碍”的人数比较远（距10千米）的村庄中更少（Wang et al.,2000)。其中所测量的是“创伤后应激障碍”而不是“风险和安全担忧”。
+
+以上这些差异，使得我们并无把握断定人们对新疆恐怖主义客观危险对各族人民造成的恐惧也会像大自然灾害（地震）、或人为破坏环境（铅锌矿污染）那样给人们带来相同的恐惧。
+
+为在一个风险归类的框架里更好地理解和分析新疆恐怖主义的风险和其他在研的风险,我们可形成一个 $3 { \times } 2$ 的风险来源分类表（表1）。在风险知觉(riskperception)研究领域，有研究根据风险源是“自然”、“技术”、抑或“人为”的危害，对风险事件进行分类(Schneiderbauer& Ehrlich,2004 ; Xie,Wang,Zhang,Li,&Yu,2011)。环境变化而引发的危险事件是自然灾害(Schneiderbauer& Ehrlich,2004)；技术危害通常是由人为技术中的误用或事故引起的(Xie,Wang,Zhang,Li,&Yu,2011)；社会/人为危害是指由于人为意图，疏忽或系统错误而导致的社会威胁 (Novelo-Casanova& Suarez,2010)。亦有研究根据“慢性 vs急性”维度，对风险事件进行分类。急性风险指的是非常规的，突发性危害事件。慢性风险是指持续渐进的危害(Chakraborty,2001; Chakraborty,Collins,Grineski,Montgomery,&Hernandez, 2014)。
+
+表1.风险源分类及对应“心理台风眼”效应举例  
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="2">风险源</td></tr><tr><td>社会/人为灾害 技术灾害</td><td>自然灾害</td></tr><tr><td></td><td>风险扩散率急性风险 德国轰炸伦敦（Wise,2009）日本福岛核泄漏事件 9/11恐怖袭击 (Hoven et al., 2005)</td><td>(Setiogi, 2011)</td><td>地震 (Li et al.,2010;Li et al., 2009; Wang et al., 2000; Xie,Xie, & Gan,2011)</td></tr><tr><td></td><td></td><td></td><td>SARS (Xie, Stone, Zheng,</td></tr><tr><td></td><td></td><td></td><td>& Zhang,2011)</td></tr><tr><td></td><td>慢性风险(尚未有心理台风眼现象报</td><td>工业污染</td><td>生物入侵</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td>道)</td><td>(Tilt, 2006)</td><td></td></tr><tr><td></td><td></td><td></td><td>(尚未有心理台风眼</td></tr></table></body></html>
+
+(Zheng et al.,2015) 核电站 (Guedeney&Mendel,1973; Maderthaner, Guttmann, Swaton,& Otway,1978)
+
+考虑恐怖袭击的威胁时刻存在，具有持续性、弥漫性的特征，本研究所报告的“应对恐怖主义威胁的心理台风眼效应”，应属于“慢性人为/社会风险”，在表1中应该落在左下方一格。
+
+因此，本研究的目的是探索，在急性自然灾害情景中观察到的心理台风眼效应是否有可能在新疆恐怖袭击情景（慢性人为）中重演。冀本研究的调查结果将提供线索说明欧亚博览会的客源流失（特别是远方客人流失）是否契合了心理台风眼效应所指的“距离越远风险知觉越大”的现象（Wei etal.,2017）。
+
+我们为此提出工作假设：居民距乌鲁木齐的空间距离与他们对中国-亚欧博览会安全担忧之间的关系是一个正相关的关系，即，人们居住的地理位置与乌鲁木齐越远，人们越担忧中国-亚欧博览会的安全。
+
+我们调查了中国31个省级行政区（不含台湾省、香港特别行政区、澳门特别行政区）约2000余名居民对“慢性人为”（表1左下方）这类风险的风险知觉和安全担忧，以及这些居民距乌鲁木齐的空间距离。希望我们的调查结果有助于我们加深理解由恐怖主义造成客观危险与主观害怕之间的关系。
+
+# 2方法
+
+# 被试
+
+本研究取样时将被试的身份限制为中国-亚欧博览会的参展商、采购商、专业观众、嘉宾、工作人员、普通观众。
+
+新疆地区的取样由新疆国际博览事务局协调完成。新疆国际博览事务局协调新疆维吾尔自治区14个地州市商务部门以及新疆生产建设兵团商务局，有计划向中国一亚欧博览会有关联的企业或个人发出100份匿名问卷，最终收回有效问卷88份（问卷的回收率为$8 8 \%$ ），并通过邮政快递的形式交由中国一亚欧博览会秘书处。
+
+新疆以外地区的取样由新疆维吾尔自治区招商发展局协调完成。由招商发展局组织28个省、自治区、直辖市在新疆的办事处或驻疆商会、协会以及西藏、海南当地商务厅向每省市（共30个省级行政区）与中国一亚欧博览会有关联的个人或者企业（每个企业约 30份）发出2050份匿名问卷，最终收回有效问卷1946份（问卷的回收率为 $9 4 . 9 \%$ ）并通过邮政快递的形式交由中国一亚欧博览会秘书处。
+
+取样从2018年4月20日开始，至6月20日结束。被试在正式回答问题之前均获得其口头协议。被试年龄均在18岁以上。样本的组成比例情况见表1。每位被试均独立完成量表并得到一份中国-亚欧博览会吉祥物—一天马新新（约30元）以示感谢。
+
+表2人口统计学变量 $\begin{array} { r } { ( N = 2 0 3 4 , } \end{array}$ ）  
+
+<html><body><table><tr><td>百分比 (%)</td><td colspan="3"></td><td></td><td>百分比(%)</td></tr><tr><td>性别</td><td>男</td><td>66.1</td><td>教育程度</td><td>初中及以下</td><td>1.0</td></tr><tr><td></td><td>女</td><td>33.9</td><td></td><td>高中（职高）或中专</td><td>5.4</td></tr><tr><td>年龄</td><td>30岁以下</td><td>8.8</td><td></td><td>大学专科</td><td>18.8</td></tr><tr><td></td><td>30-39</td><td>19.1</td><td></td><td>大学本科</td><td>55.8</td></tr><tr><td></td><td>40-49</td><td>49.3</td><td></td><td>硕士及以上</td><td>19.0</td></tr><tr><td></td><td>50 岁以上</td><td>22.9</td><td>参加中国-亚欧博0</td><td></td><td>49.1</td></tr><tr><td>民族</td><td>汉族</td><td>91.1</td><td>览会的次数</td><td></td><td>22.2</td></tr><tr><td></td><td>少数民族</td><td>8.9</td><td></td><td></td><td>17.5</td></tr><tr><td></td><td>维吾尔族</td><td>2.3</td><td></td><td></td><td>6.3</td></tr><tr><td></td><td>蒙古族</td><td>2.0</td><td></td><td></td><td>3.4</td></tr><tr><td></td><td>藏族</td><td>0.8</td><td></td><td></td><td>1.4</td></tr><tr><td></td><td>壮族</td><td>0.6</td><td>参会者身份</td><td>参展商</td><td>38.8</td></tr><tr><td></td><td>回族</td><td>2.4</td><td></td><td>采购商</td><td>16.4</td></tr><tr><td></td><td>哈萨克族</td><td>0.8</td><td></td><td>专业观众</td><td>3.3</td></tr><tr><td>居住地</td><td>其他</td><td>0.0</td><td></td><td>嘉宾</td><td>2.1</td></tr><tr><td></td><td>新疆</td><td>3.9</td><td></td><td>普通观众</td><td>17.3</td></tr><tr><td></td><td>非新疆</td><td>96.1</td><td></td><td>工作人员</td><td>0.6</td></tr><tr><td></td><td></td><td></td><td></td><td>无关人员</td><td>21.5</td></tr></table></body></html>
+
+# 2.1变量测量
+
+被试对中国-亚欧博览会安全的担忧。依据保险行业“风险越大、保金越大”的原则，且依据经济行为学常用“购买意愿”(willing to pay,WTP)指标的逻辑，我们设计了“估计愿买人身意外伤害保险的金额”的条目，以测量受测者对中国-亚欧博览会的安全的担忧程度。
+
+同理，我们根据“风险越大、投入安保人员越多”的原则，增设了形式类似的“估计需配备安保人员的数量”的条目，以测量受测者对中国-亚欧博览会的安全的担忧程度。
+
+通过被试回答“估计需配备安保人员的数量”、“估计愿买人身意外伤害保险的金额”两个条目测量人们感知到的安全担忧：估计需配备安保人员的数量越多、估计愿买人身意外伤害保险的金额越大，表示被试感知到的安全担忧程度越高，即对中国-亚欧博览会的安全越担忧。这两个项目被穿插在另一份关于清真食品和中国传统八大菜系偏好的调查问卷中。这两个条目如下所示：
+
+在每10,000位中国-亚欧博览会的参会者中，您觉得需要配备多少名安保 名
+
+人员？
+
+为参加中国-亚欧博览会，您可以选择购买0-1000元的人身意外伤害保险，您愿意花费多少钱购买？ (人民币)
+
+元
+
+被试居住地与中国-亚欧博览会所在地（乌鲁木齐）的距离。我们要求被试填写其居住城市，并根据所填写的居住城市与乌鲁木齐的经纬度计算两地间的空间直线距离'。被调查者居住地与乌鲁木齐的距离分布如图3所示。另外，我们也对被试的性别、年龄、教育程度、民族、参加中国-亚欧博览会的次数、是否居住在新疆六个人统计学变量进行了测量。
+
+![](images/68ec1ca92ca562df727259e10f1f53a626c509b68be6de94c070045a7d2262d0.jpg)  
+图3被试取样点以及被试居住地与中国-亚欧博览会（乌鲁木齐）间的空间距离图示
+
+# 2.1统计分析
+
+我们使用R3.4.4统计分析软件对数据进行处理。首先计算所有研究变量之间的相关系数，包括关注预测变量和人口统计学变量，检验变量之间的相关关系。然后进一步通过分层多元回归分析，评估“被试居住的地理位置与中国-亚欧博览会（乌鲁木齐）之间的客观距离”对中国-欧亚博览会安全担忧的影响。数据没有缺失值值，报告的所有 $p$ 值均为双侧检验结果， $\scriptstyle p < 0 . 0 5$ 被认为具有统计学显著性。
+
+# 3结果
+
+表3显示了变量的平均数和标准差，以及每两个变量之间的皮尔逊相关系数。相关分析显示，空间距离与“估计需配备安保人员的数量”，“估计愿买人身意外伤害保险的金额”呈显著正相关（表3）。这为我们的推测提供了初步的支持，即对中国-欧亚博览会安全担忧不会随着空间距离的推远而逐渐消减。
+
+表3各研究变量的描述性统计及相关 $\left( N = 2 0 3 4 \right)$   
+
+<html><body><table><tr><td>变量</td><td>M</td><td>SD</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td></td><td>10</td></tr><tr><td>1性别</td><td>N/A</td><td>N/A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2年龄</td><td>2.86</td><td>0.87</td><td>0.05*</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3教育程度</td><td>3.86</td><td>0.82</td><td>0.13**</td><td>0.08***</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4民族</td><td>N/A</td><td>N/A</td><td>0.06**</td><td>-0.04-0.16***</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5参加中国-亚欧博览会的次数</td><td>0.97</td><td>1.21</td><td>0.10***</td><td>0.13***0.11***</td><td></td><td>0.13***</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6居住地</td><td>N/A</td><td>N/A</td><td>-0.08***</td><td>0.06**0.13***-0.42***</td><td></td><td></td><td>-0.20***</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7参会者身份</td><td>N/A</td><td>N/A</td><td>0.06**</td><td>0.08**0.12***</td><td></td><td>0.03</td><td>0.28***</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>8 空间距离 (km)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.09***</td><td></td><td></td><td></td><td></td></tr><tr><td>9估计需配备安保人员的数量</td><td></td><td></td><td>2518.57 703.48 -0.11***</td><td></td><td>0.040.25***-0.36***</td><td></td><td>-0.13***</td><td>0.61***</td><td>0.04</td><td></td><td></td><td></td></tr><tr><td></td><td>325.49</td><td></td><td>178.89 -0.12***</td><td>0.02</td><td>0.18***-0.13***</td><td></td><td>-0.09***</td><td>0.04</td><td>-0.04</td><td>0.45***</td><td></td><td></td></tr><tr><td>10估计愿买人身意外伤害保险的金额</td><td>316.58</td><td></td><td>186.22 -0.12***</td><td>0.04</td><td></td><td>0.21***-0.19***</td><td>-0.07**</td><td>0.25***</td><td>0.07**</td><td>0.54***</td><td>0.80***</td><td></td></tr></table></body></html>
+
+注：变量编码如下：性别（ $1 =$ 男， $0 =$ 女)，年龄（ $\mathrm { ~ \ i ~ } = \mathrm { ~ 3 0 ~ }$ 岁以下， $2 \ = \ 3 0 ^ { \sim } 3 9$ 岁， $3 \ : = \ : 4 0 ^ { \sim } 4 9$ 岁， $\mathrm { ~ 4 ~ = ~ 5 0 ~ }$ 岁及以上），教育程度（ $1 \ =$ 初中及以下， $2 { \it \Delta \phi } = { \it \Delta \Psi }$ 高中（职高）或中专， $3 \ =$ 大专， $4 ~ =$ 本科， $5 ~ =$ 硕士及以上），民族（ $1 =$ 少数民族， $0 =$ 汉族)，居住地中 $0 =$ 新疆， $1 =$ 非新疆)，参会者身份（ $0 =$ 无关人员， $1 \ =$ 相关人员）。
+
+为进一步探究“被试居住的地理位置与中国-亚欧博览会（乌鲁木齐）之间的空间距离”对中国-欧亚博览会安全担忧的影响，我们分别以对“估计需配备安保人员的数量”和“估计愿买人身意外伤害保险的金额”为因变量进行分层回归，模型一放入性别、年龄、教育程度、民族、参加中国-亚欧博览会的经历、居住地（是否居住在新疆）六个人口统计学变量，模型二同时放入人口统计学变量和空间距离变量。
+
+在对“估计需配备安保人员的数量”的回归中（表4），模型一的回归方程模型显著，$F ( 7 , 2 , 0 2 6 ) = 1 9 . 5 2 , p < . 0 0 1$ ，Adj $R ^ { 2 } = 0 . 0 6$ ；人口统计学变量对“估计需配备安保人员的数量”有影响。模型二的回归方程模型显著， $F ( 8 , 2 , 0 2 5 ) = 1 1 8 . 0 2 , p < . 0 0 1$ ,Adj $R ^ { 2 } = 0 . 3 1$ ；与模型一相比，模型二的回归方程模型在拟合上有显著的提升， $F ( 1 , 2 , 0 2 5 ) = 7 5 6 . 5 8 , p <$ 001， $\triangle R ^ { 2 } = 0 . 2 5$ 。这说明在控制人口统计学变量的基础上，空间距离对“估计需配备安保人员的数量”仍有明显影响。另外，“人们居住的地理位置与中国-亚欧博览会（乌鲁木齐）之间的空间距离”对“估计需配备安保人员的数量”有显著的正性预测作用， $\beta = 0 . 6 6$ 中 $9 5 \%$ CI: [.62, .71]), $t \left( 2 , 0 2 5 \right) = 2 7 . 5 1 , p < . 0 0 1$ 。这说明被试居住的地理位置与乌鲁木齐之间的空间距离越接近，居民估计中国-亚欧博览会需配备安保的人员数量越少（同样可见图4）。
+
+表4.对“估计需配备安保人员的数量”的回归分析 $\langle N = 2 0 3 4 \rangle$   
+
+<html><body><table><tr><td>变量</td><td colspan="6">因变量： 估计需配备安保人员的数量</td></tr><tr><td></td><td colspan="3">模型1</td><td colspan="3">模型2</td></tr><tr><td></td><td>B</td><td>SE</td><td>β</td><td>B</td><td>SE</td><td>β</td></tr><tr><td>步骤1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>性别</td><td>31.89***</td><td>8.27</td><td>.08</td><td>20.72**</td><td>7.07</td><td>.05</td></tr><tr><td>年龄</td><td>4.83</td><td>4.51</td><td>.02</td><td>6.16</td><td>3.85</td><td>.03</td></tr><tr><td>教育程度</td><td>38.56***</td><td>4.92</td><td>.18</td><td>16.12***</td><td>4.28</td><td>.07</td></tr><tr><td>民族</td><td>65.53***</td><td>14.94</td><td>-.10</td><td>- 21.96</td><td>12.85</td><td>-.04</td></tr><tr><td>参加中国-亚欧博览会的次数</td><td>13.88***</td><td>3.44</td><td>-.09</td><td>-10.05***</td><td>2.94</td><td>-.07</td></tr><tr><td>居住地</td><td>- 54.48*</td><td>22.24</td><td>-.06</td><td>-383.91***</td><td>22.45</td><td>-.42</td></tr><tr><td>参会者身份</td><td>- 13.58</td><td>9.81</td><td>-.03</td><td>-38.78***</td><td>8.42</td><td>-.09</td></tr><tr><td>步骤2</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>空间距离</td><td></td><td></td><td></td><td>0.17***</td><td>0.01</td><td>.66</td></tr><tr><td>R</td><td></td><td>0.06**</td><td></td><td></td><td>0.32**</td><td></td></tr><tr><td>Adj R²</td><td></td><td>0.06**</td><td></td><td></td><td>0.32**</td><td></td></tr><tr><td>△R²</td><td></td><td></td><td></td><td></td><td>0.25**</td><td></td></tr></table></body></html>
+
+![](images/6a40c485033403e560aa11a59e34311736fb038ef1f8dde586c174e241c58a2e.jpg)  
+图4.“被试居住的地理位置与中国-亚欧博览会（乌鲁木齐）的空间距离”与“估计需配备安保人员的数量”之间的散点图
+
+在对“估计愿买人身意外伤害保险的金额”的回归中（表5），模型一的回归方程模型显著， $F \left( 7 , 2 , 0 2 6 \right) = 3 4 . 9 9$ ， $p < . 0 0 1$ , Adj $R ^ { 2 } = 0 . 1 0$ ；人口统计学变量对“估计愿买人身意外伤害保险的金额”有影响。模型二的回归方程模型显著， $F \left( 8 , 2 , 0 2 5 \right) = 1 1 8 . 1 4 , p < . 0 0 1$ Adj $R ^ { 2 } = 0 . 3 0$ ；与模型一相比，模型二的回归方程模型在拟合上有显著的提升， $F \left( 1 , 2 , 0 2 5 \right)$ $= 6 2 4 . 7 6 , p < . 0 0 1$ ， $\triangle R ^ { 2 } = 0 . 2 1$ 。这说明在控制人口统计学变量的基础上，空间距离对“估计愿买人身意外伤害保险的金额”仍有明显影响。另外，“人们居住的地理位置与中国-亚欧博览会（乌鲁木齐）之间的空间距离”对“估计愿买人身意外伤害保险的金额”有显著的正性预测作用, $\beta = 0 . 6 0$ （ $9 5 \%$ CI: [0.55, 0.65]), $t \left( 2 , 0 2 5 \right) = 2 5 . 0 0 , p < . 0 0 1$ 。这说明被试居住的地理位置与乌鲁木齐之间的空间距离越接近，居民愿意为欧博览会支付的保险金额越少（同样可见图5）。
+
+表5．对“估计愿买人身意外伤害保险的金额”的回归分析 $( N = 2 0 3 4 )$   
+
+<html><body><table><tr><td></td><td colspan="6">因变量： 估计愿买人身意外伤害保险的金额</td></tr><tr><td>变量</td><td colspan="3">模型1</td><td colspan="3">模型2</td></tr><tr><td></td><td>B</td><td>SE</td><td>β</td><td>B</td><td>SE</td><td>β</td></tr><tr><td>步骤1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>性别</td><td>28.21***</td><td>8.40</td><td>.07</td><td>17.65*</td><td>7.36</td><td>.04</td></tr><tr><td>年龄</td><td>5.43</td><td>4.58</td><td>.03</td><td>6.69</td><td>4.01</td><td>.03</td></tr><tr><td>教育程度</td><td>38.83***</td><td>5.00</td><td>.17</td><td>17.61***</td><td>4.45</td><td>.08</td></tr><tr><td>民族</td><td>-51.36***</td><td>15.18</td><td>-.08</td><td>- 10.15</td><td>13.37</td><td>-.02</td></tr><tr><td>参加中国-亚欧博览会的次数</td><td>-4.02</td><td>3.50</td><td>-.03</td><td>-0.40</td><td>3.06</td><td>-.00</td></tr><tr><td>居住地</td><td>165.84***</td><td>22.60</td><td>.17</td><td>-145.73***</td><td>23.36</td><td>-.15</td></tr><tr><td>参会者身份</td><td>-28.22**</td><td>9.96</td><td>-.06</td><td>-52.06***</td><td>8.77</td><td>-.11</td></tr><tr><td>步骤2</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>空间距离</td><td></td><td></td><td></td><td>0.16***</td><td>0.01</td><td>.60</td></tr><tr><td>R²</td><td></td><td>.11***</td><td></td><td></td><td>.32***</td><td></td></tr><tr><td>Adj R²</td><td></td><td>.10***</td><td></td><td></td><td>.32***</td><td></td></tr><tr><td>△R²</td><td></td><td></td><td></td><td></td><td>0.21*</td><td></td></tr></table></body></html>
+
+![](images/d9d0d4ef22a9af7329c9d1102543156d3ecd76305c78a17881a3c2ae0bf70489.jpg)  
+图5：与“被试居住的地理位置与中国-亚欧博览会（乌鲁木齐）的空间距离”与“估计愿买人身意外伤害保险的金额”之间的散点图
+
+以上结果表明，越接近中国-亚欧博览会举办地（新疆乌鲁木齐市）的个体，心理反而越平静。即，随着被试居住的地理位置与中国-亚欧博览会（乌鲁木齐）之间的空间距离的接近，居民估计需配备安保人员的数量、愿意为欧博览会支付的人身意外伤害保险的金额均随之减少。我们将此视为“心理台风眼”效应在人们应对恐怖主义威胁情景的表现，并将此新发现解读为“应对恐怖主义威胁的心理台风眼效应”，即在空间维度上，越接近高风险地点，心理越平静；越远离高风险地点，心理越扰乱。
+
+# 4讨论与启发
+
+我们在这个“慢性人为风险”领域（表1左下方）首次发现了应对恐怖主义威胁的心理台风眼效应：人们居住地与中国-亚欧博览会所在地的距离越远，对中国-亚欧博览会安全越担忧（估计需配备安保人员的数量越多、估计愿买人身意外伤害保险的金额越大）。值得注意的是，本次所发现的离“台风眼”的距离是真正的客观距离，而不是在汶川地震中所报告的“受灾程度”(Li,Liu etal.,2009;Li,Rao et al.,2009)。我们将之命名为：应对恐怖主义威胁的心理台风眼效应。即，在空间上越接近高风险地点，人们对恐怖源的风险水平估计反而相对是最低的（最风平浪静），越远离高风险地点，人们反而对高风险地点的风险感到更担忧或恐慌。
+
+恐怖主义这种形式的风险知觉，在风险知觉的研究中尚属较近才受到关注、没有得到充分研究的风险类别。在理论上，我们对其风险知觉的机制知之甚少。但是，在现实生活中，恐怖主义的影响离我们每个都很近，每个人都无法置之身外。这种理论知识与现实应用之间的差距，逼迫我们想尽快了解恐怖主义这种形式的风险知觉的发生、发展规律。
+
+在反恐领域，这种风险应对与风险知觉的巨大分歧或许是首次被披露，而这一分歧在非反恐领域则已有所报道。例如，2011年福岛核泄漏事件后，不是日本本岛的居民，反而是远离日本的中国居民因恐慌而大肆抢购食盐（风险应对行为）(Setiogi,2011)；德国政府（非日本政府）首次在延长核电站运营期限问题上出现重大政策转向，决定暂缓延长现有核电站的使用期限，并且可能在2022年就会全面退出核能的使用(Batsford,2013)。
+
+在恐怖主义风险源发现该效应意味着最关心恐怖主义威胁的人并不是那些生活在真正恐怖主义危险中的人。当人们高估恐怖袭击的影响时，他们可能会反应过度，表现得相当不理性(Gaissmaier&Gigerenzer,2012)。这或许可以解释，为什么欧亚博览会的客源流失大都来自于远方的客人。这也就提示我们应谨慎对待风险评估结果，应该充分认识到风险中心区民众评出的风险等级与非风险中心区民众评出的风险等级的“不匹配”或“偏差”。因此，降低远距离居民对于恐怖主义的风险知觉可能是管理恐怖主义，恢复中国-亚欧博览会吸引力的关键。
+
+新疆虽然是中国恐怖事件高发区，但同时也是中国旅游资源极为丰富的地区。我们的研究对旅游业也是有指导意义的。了解心理台风眼规律的指导意义，就像了解建构水平理论之后(CLT;Trope&Liberman,2010)，我们知道：对于心理距离较远的情景，人们的行为受到如价值观，意识形态等抽象描述的指导，随着心理距离的逐渐接近，他们的选择越来越受到更具体的描述的影响，比如具体的态度、次要的价值观和附带的社会影响(Trope&Liberman,2010)。知道了台风眼效应，我们可以提出相应的指导意见，对于那些远离中国-欧亚博览会举办地的人们来说(类比心理距离较远)，甚至身居海外的人们（杨舒雯等，2020），一个更有效的宣传策略可能是利用合适的宣传缓解其对中国-亚欧博览会的无形的担忧(类比抽象描述)。对于那些居住在中国-欧亚博览会场地附近的人来说(类比心理距离较近)，更有效的宣传策略可能是宣传与世博会相关的可见属性(类比具体描述)。这两个概念(解释层次理论和心理台风眼效应)有一个共同点:促进一种困难(可能违背人性)但有益的行为的效果会被“距离”所调节。也就是说，对于不同的距离的不同的游客，我们应该使用不同的宣传策略。
+
+当然，当我们确认在与自然灾害（地震）很不一样的人为风险也能侦测到“心理台风眼效应”之时，接踵而来的问题，也是本研究的局限问题，摆在我们面前：产生心理台风眼的机制是什么？这2种“心理台风眼”会共享一个通用（domain-general)的发生机制？还是这2种“心理台风眼”的产生机制是领域特异性（domain-specific)，如Wang 等（2016）所暗示。
+
+人们对汶川地震所发现的“心理台风眼”提出了几种可能解释，如，认知失调(Festinger,1957)，心理免疫理论(Henderson,Montgomery,&Wiliams,1972)，但各有局限。我们曾在汶川地震中，尝试检验“心理台风眼”效应是否能被“心理免疫”所解释，但结果并不支持“心理免疫”解释(Li,etal.,2010)。而由于认知失调水平难以操纵，要想利用“地震”这样的现场实验来验证费斯汀格的“认知失调”理论近乎不可能。
+
+本研究的另一可能的不足是我们未直接测量被试的担忧和害怕程度。出于避免“社会赞许性”或“政治正确”对被试判断的影响的考虑，我们只是间接测量了被试的风险知觉。在未来我们可考虑既直接也间接测量被试的“担忧和害怕程度”。
+
+如今，我们很高兴发现了应付恐怖主义的心理台风眼效应，高兴过后，摆在我们面前的任务只会更艰巨、更富有挑战性。我们亦欣喜地看到，一项探索“新冠肺炎疫情下的‘心理台风眼效应’”的最新研究，提出一个有关心理台风眼潜在机制的事后假设—“风险信息占比”假说（杨舒雯等，2020）。希望更多对“心理台风眼”效应着迷的研究者加入我们的行列之中。
+
+致谢：本研究部分受国家自然科学基金面上项目（71761167001），国家社会科学基金重大项目（18ZDA332;17ZDA325），国家社会科学基金重点项目（16AZD058），中国科学院行为科学重点实验室自主研究课题（Y5CX052003）项目的资助。本文作者感谢蔡晓红，许明星所提出的有益建议，感谢新疆维吾尔自治区招商局、中国31个省(市、自治区)商务部门的工作人员在数据收集中提供的帮助，并感谢参加本研究的全体被试。
+
+# 参考文献
+
+Bartels, S.A.,& VanRooyen, M. J. (2012). Medical complications associated with earthquakes. The Lancet, 379(9817), 748-757.   
+Batsford, S. (2O13). The great east japan earthquake and tsunami viewed from western europe: how has fukushima influenced the peaceful use of atomic energy in europe? Tohoku Journal ofExperimental Medicine, 229(4),239-244.   
+Bonanno, G.A., Brewin, C.R., Kaniasty, K., & Greca,A. M. L. (2010). Weighing the costs of disaster: Consequences, risks,and resilience in individuals, families,and communities.Psychological Science in the Public Interest, 11(1),1-49.   
+Chakraborty, J. (2oo1). Acute exposure to extremely hazardous substances: an analysis of environmental equity. Risk Analysis, 21(5), 883-895.   
+Chakraborty, J., Collins,T. W., Grineski, S.E., Montgomery, M. C.,& Hernandez, M. (2014). Comparing disproportionate exposure to acute and chronic pollution risks: a case study in Houston, Texas.Risk Analysis,34(11),2005-2020.   
+Collins,N.,& O'Brien,D.(2018). The politics of everyday China. Oxford University Press.   
+Gaissmaier, W.,& Gigerenzer, G. (2012). 9/11, Act II: A fine-grained analysis of regional variations in trafc fatalities in the aftermath of the terrorist attacks.Psychological Science, 23(12), 1449-1454.   
+Guedeney, C.,& Mendel, G. (1973).L'angoisse atomique et les centrales nucléaires: Contribution psychanalytique et sociopsychanalytique a l'etude d'un phenomene collectif. Paris: Payot.   
+Harada,E.T. (2011). Special issue: cognitive studies in the real world. Psychologia, 54(2), 67-67.   
+Harvey, C. (2O15, November 4). The huge paradox at the heart of how people think about environmental risks. The Washington Post.Retrieved from https://www.washingtonpost.com/news/energy-environment/wp/2015/11/04/the-hugeparadox-at-the-heart-of-how-people-think-about-environmental-risks/? utm_term=.3a456ed94f34.   
+Henderson AS, Montgomery IM, Williams CL (1972) Psychological immunisation: a proposal for preventive psychiatry. Lancet May 20: 1111-1112.   
+Hoven, C. W., Duarte, C. S., Lucas, C.P., Wu,P., Mandel, D.J., Goodwin,R.D.,.. . Bin,F. (2005). Psychopathology among new york city public school children 6 months after september 11. Archives of General Psychiatry, 62(5), 545-551.   
+Institute for Economics and Peace (2016). Global Terrorism Index Report. Retrieved from http://visionofhumanity.org/app/uploads/2017/02/Global-Terrorism-Index-2016.pdf.   
+Institute for Economics and Peace (2017). Global Terrorism Index Report. Retrieved from http://visionofhumanity.0rg/app/uploads/2017/11/Global-Terrorism-Index-2017-Snapshot.pdf   
+Li, S.,Liu, H., Zheng, R., Bai, X-W., Ren, X-P., Li, J-Z.,.. . Wang, Z-J. (2009). Psychological typhoon eye in the 2008 Wenchuan earthquake of May 12. Science & Technology Review, 27(3), 87-89. 李纾,刘欢,白新文,任孝鹏,郑蕊,李金珍,饶俪琳,汪祚军.(2009).汶川“5.12"地震中的 “心理台风眼”效应.科技导报.27(3),87-89.   
+Li, S.,Rao,L-L., Bai, X-W.,Ren, X-P., Zheng,R.,Li, J-Z.,...Liu,H. (2009). Psychological typhoon eye in the 2008 Wenchuan earthquake. PLoS One, 4(3), e4964.   
+Li, S.,Rao,L-L.,Bai, X-W., Zheng,R.,Ren, X-P.,Li,J-Z.,... Zhang,K. (2010). Progression of the "Psychological Typhoon Eye" and variations since the Wenchuan earthquake. PLoS One, 5(3), e9727.   
+Liu, Z. K. (2012). Exploring major disaster and psychological trauma, promoting mental health resilience and psychological harmony. Bulletin of Chinese Academy of Sciences, 27,191-198. 刘正奎.(2012).研究灾害与心理创伤促进心理康复与和谐.中国科学院院刊,(S1),191- 198.   
+Liu, Z. K., Wu, K. K.,& Wang,L. (2011). Psychological and behavioral research after major disaster in china. Advances in Psychological Science, 19(8),1091-1098. 刘正奎,吴坎坎,&王力.(2011).我国灾害心理与行为研究.心理科学进展,19(8),1091- 1098.   
+Liu, Z.K., Wu, K. K.,& Zhang,K. (2011). The current practice and challenges in psychological intervention after major natural disasters in China. China Soft Science, 5, 56 - 64. 刘正奎,吴坎坎,& 张侃.(2011).我国重大自然灾害后心理援助的探索与挑战.中国软科 学,(5), 56-64.   
+Maderthaner,R., Guttmann, G., Swaton,E.,& Otway, H. J. (1978). Effect of distance upon risk perception. Journal of Applied Psychology， 63(3), 380-382.   
+Mei, C.-Q., & Zhang, Y.-Q. (2015). The status quo, characteristics and countermeasures of terrorist crimes in china. Journal of Beijing Normal University(Social Sciences)(O6), 174- 182. 梅传强,&张永强.(2015).我国恐怖活动犯罪的现状、特征及防控对策.北京师范大学 学报(社会科学版)(06),174-182.   
+Novelo-Casanova, D.,& Suarez, G. (201O). Natural and man-made hazards in the Cayman Islands. Natural hazards, 55(2), 441-466.   
+Roosevelt, F.D. (1941). Franklin D. Roosevelt Annual Message to Congress, January 6,1941; Records of the United States Senate; SEN 77A-H1; Record Group 46; National Archives.   
+Schneiderbauer, S.,& Ehrlich, D. (2oo4). Risk, hazard and people's vulnerability to natural hazards: a review of definitions, concepts and data. Brussels: Ofice for Official Publication of the European Communities.   
+Setiogi. (2011). Mixed uptake of social media among public health specialists. Bulletin of the World Health Organization, 89(11), 784-785.   
+Slovic,P. (1987). Perception of risk. Science, 236(4799),280-285. Slovic,P.(1987). Perception of risk. Science,236(4799), 280-285.   
+Tilt, B.(20o6). Perceptions of risk from industrial pollution in China: A comparison of occupational groups. Human Organization, 65(2), 115-127.   
+Trope, Y., & Liberman, N. (2010). Construal-level theory of psychological distance. Psychological Review, 117(2), 440-463. doi:10.1037/a0018963   
+Wang, X. D., Gao,L., Shinfuku, N., Zhang, H. B., Zhao, C. Z., & Shen, Y. C. (2000). Longitudinal study of earthquake-related PTSD in a randomly selected community sample in North China. American Journal of Psychiatry, 157(8), 1260-1266.   
+Wang, X. T., Zheng,R., Xuan, Y-H., Chen, J. & Li, S. (2016). Not al risks are created equal: a twin study and meta-analyses of risk-taking across seven domains. Journal of Experimental Psychology: General. 145(11), 1548-1560.   
+Wei, Z. H., Tao,R.,Liu, H.,& Li, S. (2017). ‘Freedom From Fear and Want' and our psychological response to environmental changes. Journal of Pacific Rim Psychology,11 E10.   
+Wise,J. (20o9). Extreme fear: The science ofyour mind in danger. Macmillan.   
+Xie, J., Xie, X., & Gan, Y. (2011). Psychological typhoon eye effect in the Wenchuan earthquake. Acta Scientiarum Naturalium Universitatis Pekinensis, 47(5), 944-952.   
+Xie, X. F., Wang, M., Zhang,R. G., Li, J., & Yu, Q. Y. (2011). The role of emotions in risk communication. Risk Analysis: An International Journal, 31(3), 450-465.   
+Xie, X.-F., Stone,E., Zheng, R.,& Zhang,R.-G. (2011). The 'Typhoon Eye Effect': determinants of distress during the SARS epidemic. Journal of Risk Research, 14(9),1091-1107.   
+Zheng,R., Rao,L.-L., Zheng, X.-L., Cai, C., Wei, Z.-H., Xuan, Y.-H., & Li, S. (2015). The more involved in lead-zinc mining risk the less frightened: A psychological typhoon eye perspective. Journal of Environmental Psychology, 44, 126-134.   
+罗伯特·费尔德曼,黄希庭.(2020).心理学与我们.(黄希庭译,第二版,pp.352-353).人民邮电
+
+出版社.
+
+谢晓非,& 林靖.(2012).心理台风眼效应研究综述.中国应急管理,(1),21-25.杨舒雯,许明星,匡仪,丁阳,郑蕊,饶俪琳,李纾.(2020).武汉市新冠肺炎疫情的客观危险与主观恐慌：延至国门外的“心理台风眼效应”.应用心理学

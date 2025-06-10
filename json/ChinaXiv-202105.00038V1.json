@@ -1,0 +1,563 @@
+[
+    {
+        "type": "text",
+        "text": "牛耳朵传粉生物学研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王子琪1，黄石连3,4，洪欣1,2，温放2,3\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.安徽大学 资源与环境工程学院，合肥 230601；2．广西壮族自治区中国s科学院广西植物研究所，广西喀斯特植物保育与恢复生态学重点实验室，广西 桂林 541006；3．中国科学院桂林植物园，国家苦苣苔科种质资源库，中国苦苣苔科植物保育中心，广西 桂林541006；4.农业部南亚热带果树生物学与遗传资源利用重点实验室，广东省热带亚热带果树研究重点实验室，广东省农业科学院果树研究所，广州510640)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：苦苣苔科（Gesneriaceae）报春苣苔属(Primulina Hance)是一个近年来备受关注的类群，其纷繁复杂的物种多样性和属下种间的特有分布引发了分类学家和植物学研究者的极大兴趣。该属除了极少数的物种(例如牛耳朵（Primulina eburnea (Hance)Y.Z.Wang))，绝大部分的物种为狭域分布或地方特有种，其分布范围很窄。为了揭示牛耳朵的传粉生物学和繁育系统对其生殖过程和拓殖能力的影响，我们系统地研究了牛耳朵的开花物候、花粉与柱头活性、访花昆虫的种类和访花行为、花粉胚珠比、OCI指数和套袋实验结实率，探索其传粉等生殖过程对牛耳朵的广布是否有正面影响。试验结果表明：牛耳朵的自然花期是3月-5月，全花期约45d，其中盛花期约 $2 0 \\mathrm { d }$ ，单花期为6\\~8d；开花后1\\~2d花粉活力最强，开花前柱头没有可授性；花粉胚珠比537；杂交指数为5；去雌套袋、去雄套袋均无法结实，说明本种不存在无融合生殖；与自然授粉相比，自花授粉结实率略低，异花授粉结实率略高，说明自交亲和；牛耳朵的主要传粉者是花条蜂（Anthophoraflorea）和熊蜂（Bombus sp.）。较高的花蜜产量，花粉量较大，花粉活力较强等特点有利于牛耳朵完成传粉、结实的整个繁殖过程,因此，这一结果显然有利于牛耳朵的拓殖进而广布在我国华南至西南地区的喀斯特地区。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：报春苣苔属，传粉，繁育系统，喀斯特地貌，广域分布中图分类号： 文献标识码：A 文章编号：202003071",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pollination biology of Primulina eburnea ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Ziqi1, HUANG Shilian34, HONG Xin1,2, WEN Fang2, 3\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1. School of Resource and Environmental Engineering,Anhui University, Hefei 230601, China; 2. Guangxi Key Laboratory of Plant Conservation and Restoration Ecology in Karst Terrain, Guangxi Institute of Botany, Guangxi Zhuang Autonomous Region and Chinese Academy of Sciences, Guilin 541006, Guangxi, China; 3.National Gesneriaceae Germplasm Bank of GXIB,   \nGesneriad Conservation Center of China, Guilin Botanical Garden, CAS, Guilin 541006, Guangxi, China; 4. Key Laboratory of South Subtropical Fruit Biology and Genetic Resource Utilization ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "收稿日期：2020-11-28",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：安徽省自然科学基金（1908085QC1)；安徽省教育厅重点项目（KJ2017A022），安徽大学博士 启动基金；广西喀斯特地形植物保护恢复生态重点实验室基金(19-050-6)；国家自然科学基金(31860047)； 广西自然科学基金（2017GXNS FAA198006)；广西科技计划项目（桂科 AD20159091)；世界苦苣苔科协会 EMREF奖学金和安徽大学大学生创新创业训练计划项目[Supported by the Natural Science Foundation of Anhui Province (1908085QC1); Key University Science Research Project of Anhui Province (KJ2017A022); Anhui University Doctor Startup Fund; Fund of Guangxi Key Laboratory of Plant Conservation and Restoration Ecology in Karst Terrain (19-050-6); the National Natural ScienceFoundationof China (31860047);the Natural Science Foundation of Guangxi (2017GXNSFAA198006)；Guangxi Science and Technology Project (Guike AD20159091); EMREF Scholarship Award of The Gesneriad Society and Undergraduate Innovation and Entrepreneurship Training Program]。 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作者简介：王子琪（1997-)，本科，研究方向为保护生态学，（E-mail）1141234162@qq.com。\\*通信作者：温放,博士，研究员,研究方向为园林植物与观赏园艺、植物分类学、植物地理学、植物迁地保育、栽培与育种等，（E-mail）wenfang760608 $@$ 139.com; wf@gxib.cn。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(MOA), Guangdong Province Key Laboratory of Tropical and Subtropical Fruit Tree Research, Institute of Fruit Tree Research, Guangdong Academy of Agricultural Sciences, Guangzhou 510640，China） ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Primula Hance (Gesneriaceae) is a group that has attracted much atention in recent years. Its intricate species diversity and its endemic distribution among species have aroused great interest among taxonomists and botany researchers. Except for a few species, such as Primulina eburnea (Hance) Y. Z. Wang, most species have a very narrow distribution range, which belong to narrow distribution species or endemic species.In order to reveal the effects of the polination biology and breeding system of $P .$ eburnea on its reproductive process and colonization ability, we systematically studied the flowering phenology, the pollen and stigma viability, the species and visiting behavior of flower visiting insects,the polln ovule ratio,the OCI index and the seed setting rate of manipulated pollination of $P .$ eburnea. Besides，we explored whether its reproductive processes such as pollination had a positive effect on the spread of $P .$ eburnea. The results showed that the natural flowering stage of $P .$ eburnea was from March to May,and the entire flowering stage was about 45 days. Its full flowering stage was about 2O days,and the single flower flowering stage was 6-8 days. Pollens had the strongest viability 1-2 days after flowering, stigma did not have receptivity before flowering. The polen ovule ratio was 537, and the hybridization index was 5. Bagged and emasculation could not bear fruit, which indicated that this species did not have apomixis. Compared with natural pollination, the seed setting rate of hand self-pollination was slightly lower, and the seed setting rate of hand xenogamy was slightly higher, which indicated self-compatibility. The main pollinators of $P .$ eburnea were Anthophora florea and Bombus sp. Therefore, higher nectar volume, larger pollen amount and stronger pollen viability of $P .$ eburnea were obviously beneficial for it to complete the entire process of pollination and reproduction. This result was obviously conducive to the colonization of $P .$ （204号 eburnea and then widely spread in the karst areas of South China to Southwest China. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Primula Hance, pollination, breeding systems, karst landform, eurychoric distribution ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Gesneriaceae is the most typical group of endemic plants in China, which is very prominent in the karst flora,and it is the family with the most endemic genera and endemic species in China (Wu et al., 2Oo5). The distribution and characteristic center are located in karst areas in South China and Southwest China (Wei, 2010; Lopez - Pujol et al.,2011; Jiao, 2018). Especially, the limestone region has a high diversity and endemism of species， such as Primulina Hance, Oreocharis Benth, Petrocosmea Oliv, Hemiboea Clarke, Petrocodon Hance and Lysionotus D. Don and so on are the dominant genera of China (Xu et al.,2Ol7). Guangxi is the distribution center of Primulina in China and even in the world. In this region,a large number of endemic species are distributed, whose distribution areas are narrow. Among these endemic species, many species have obvious cave-dwelling habits (Liu, 2O15). Leaves of Primulina species are odd-shaped and their flowers are brightly colored commonly. Most species of this genus are perennial herbs,lacking stems or having terrestrial stems. In addition, some species are regarded as traditional Chinese medicine by the folk people,and they are also important ornamental plant resources (e.g. Yan et al., 2018; Wang et al., 2011). Except for a few species (e.g. Primulina eburnea,P. fimbrisepala, P. juliae and P.tabacum)，most species of Primulina are narrowly distributed (Wang et al., 2O17a). The cave-dwelling Primulina plants only distributed in the limestone areas, which is the result of highly adaptive evolution to the limestone caves. These species are also unique and precious species resources and germplasm resources in this area. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "However, most of this group are on the verge of extinction, and many new taxa are discovered with only a few dozen or more plants (Wei, 201O; Wen et al., 2012). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The polination mechanism and flowering phenology of plants are biological factors that jointly affect the genetic diversity of offspring (Liu et al.,2017; Sun et al.,2018). The pollnators of most flowering plants are animals (insects, birds or mammals). The atraction of flowering plants to polinators was influenced by the characteristics of both single flowers and inflorescence (Harder et al., 2Oo4). Single flower characteristics, such as colors, size, symmetry, nectar volume and so on, of which nectar volume plays a key role in the attraction of pollinators with nectar as reward. Insect-pollinated plants atract pollinators by providing rewards such as nectar and pollen as well as floral features such as foraging smell and the color of the flower. The difference of rewards in different plants can affect the visiting frequency of pollinators,and then affect the reproductive success of plants (Wang,2014). In driving speciation, the interaction between plant and pollinator is often important because the efficiency of pollination systems is directly related to plant growth and development (Proctor et al.， 1996). With the exception of a few species of Gesneriaceae, such as Dorcoceras hygrometrica Bunge (=previous Boea hygrometrica (Bunge) R. Br.)， P. eburnea ( $\\mathbf { \\bar { \\rho } } = \\mathbf { \\rho }$ Chirita eburnea Hance), Primulina pinnatifida (Hand.-Mazz.) Y. Z. Wang 1 $\\left[ = \\right.$ Chirita pinnatifida (Hand.-Mazz.) Burtt),Hemiboea subcapitata Clarke $[ =$ Hemiboea henryi Clarke),most of the species have a narrow distribution and are endemic. Due to the lack of a specific transmission mechanism and the severe isolation of the distribution of these populations, the natural transmission capacity of Primulina is limited (Jiao, 2O18). In recent years,global warming is causing a lot of long-term drought areas,rocky desertification of southern karst is gradually geting serious, invasive alien plants such as Merremia boisiana (Gagn.） V. Ooststr and Eupatorium adenophorum Speng spread quickly, irational tourism development of cave and anthropogenic destruction have resulted in the destruction of some essential habitats of the Primulina,the decrease of some species with a narrow distribution,the endemic species and local species with small geographical distribution have been endangered or even extinct (Chen, 2015). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Most species of Primulina have medicinal and ornamental value, but the distribution areas of those species are commonly narrow. When faced with changes in their environment and human activities, those small populations will face irreversible damage and even species extinction. However, $P .$ eburnea of the same genus is eurychoric distribution,and there are many previous studies on the genetic diversity of $P .$ eburnea populations (Liu, 2015; Gao et al., 2015),so in our study, it was used to study its polination biology and breeding system to reveal the influence on eurychoric distribution from the perspective of polination biology.The results provide a basis for the expansion of the population of the narrowly distributed species of Primulina. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1． Research Methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1Researchtimeand site ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Field research time was March,April and May of 2013 and 2014, which included the entire flowering stage of $P .$ eburnea. The research site was located at Moon Hill, Qinglong Township, Pingle County, Guilin City, Guangxi Province, $2 4 ^ { \\circ } 2 9 ^ { \\prime } 3 8 ^ { \\prime \\prime } \\mathrm { N }$ ， $1 1 0 ^ { \\circ } 4 9 ^ { \\prime } 3 7 ^ { \\prime \\prime } \\mathrm { E }$ , and an altitude of $2 1 6 ~ \\mathrm { m }$ Figure 1 & 2 showed the typical habitats of $P .$ eburnea,in which the experimental quadrat of this species was located on the stone near the farmland in front of the Moon Mountain. It can be seen from the picture that the habitat of the $P .$ eburnea was non-cave and on the sunny side. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1bfa74bf66a1b986c3cfd537df6afaa09b2da73640ad949677cf4f7967cb2810.jpg",
+        "img_caption": [
+            "图1牛耳朵的某一个生境"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/369e2afb70236bdecca2e57ae27ad3bd13aae216cc0e8eef5678655a0d4182b6.jpg",
+        "img_caption": [
+            "Fig.1 One of the habitats of Primulina eburnea ",
+            "图2牛耳朵的全株图",
+            "Fig.2Whole plant map of Primulina eburnea "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2 Observation of flower morphology, structure and flowering phenology ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Flower morphology: In the natural population， we randomly selected 2O blooming individuals to observe and measure the number of flowers of each inflorescence and the number of inflorescences of each plant; randomly selected 15 blooming flowers to observe and measure the following values: corolla length，diameter of mouth of floral-tube，diameter of middle of floral-tube,size of upper and lower lip,anther length, filament length, pistil length, stigma length, sepal length, shape, color. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Observed and recorded initial flowering stage, full flowering stage,and late full flowering stage of plants. Twenty flower buds were randomly marked during the full flowering stage. We observed the process of opening of the corolla lobes every $2 \\mathrm { ~ h ~ }$ from 8:00 am to $1 8 { : } 0 0 \\ \\mathrm { p m }$ .When it was about to open, the interval was shortened to $^ \\textrm { \\scriptsize 1 h }$ .At the same time,we marked 15 buds that were about to open, cut a smal opening on the side of the corolla,and applied vaseline to the cut to avoid flower being infected. The positional relationship of the stigma and the anthers was observed three times a day; 10 inflorescences were randomly selected to observe the structure of the inflorescences and the order of flower opening. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 Determination of pollen viability and stigma receptivity ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fifty buds to be open were randomly selected and marked,and the number of their opening days were recorded. During the bud stage,the first day of flowering, the second day of flowering and so on,5 flower buds were taken from each stage to measure their pollen viability and stigma receptivity. Pollen viability was determined by the MTT method (Rodriguez-Riano & Dafni, 2000). Stigma receptivity was measured by $3 \\%$ （204 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ (Dafni, 1992): pistils collected in each stage above were taken out,completely soaked in $3 \\%$ $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ reaction solution，and observed and photographed under the microscope.If there were bubbles,the stigma had viability,otherwise it did not. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4 Estimation of pollen ovule ratio determination and hybridization index ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Using Blood-ball counter method to count the quantity of pollen (Xiao & Liu,20o9). Twenty flower buds were randomly selected and placed in the FAA for storage and returned to the laboratory for later use. Carefully removed the anthers from the flower buds,softened the anther wall with $1 . 0 \\ \\mathrm { m o l { \\cdot } L ^ { - 1 } \\ H C l }$ , dissected the anthers under a dissecting microscope. The pollen grains were all peeled off and transferred into a $2 ~ \\mathrm { m L }$ centrifuge tube,and keep the volume to $2 ~ \\mathrm { m L }$ Using oscillator to make it uniform by concussion. Using a pipette gun to suck $1 ~ \\mu \\mathrm { l }$ of pollen solution on a glass slide (repeated 1O times each),observing and counting the number of pollens under a light microscopy. At the same time, placed the corresponding ovary on a glass slide, dissected under a dissecting microscope, observed and counted the number of ovules. Divided the total number of pollens per flower by the number of ovules in the ovary to obtain the pollen ovule ratio (P/O). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "OCI was determined by the three floral characteristics (Dafni, 1992): $\\textcircled{1}$ The diameter of single flower or capitulum. $\\textcircled{2}$ The time of anther dehiscence and stigma receptivity were consistent or not. $\\textcircled{3}$ Relative position of stigma and anthers in space.The value of OCI can be one, two, three and greater than or equal to four. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5 Measure of nectar secretion and sugar content ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Under different weather conditions (sunny and rainy), from O8:0O am to $1 8 { : } 0 0 \\ \\mathrm { p m }$ ,randomly took flower buds and opened flowers to measure nectar secretion volume with $2 { \\mathrm { - } } 1 0 ~ { \\mu \\mathrm { L } }$ micropipettes every $3 - 4 \\mathrm { h }$ ,repeated 10 flowers each time,and repeated for $2 \\textup { d }$ for each weather condition.At the same time, the sugar content $( \\% )$ of nectar was directly measured with a hand-held refractometer. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.6 Flower visiting insect species and their behavior ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The behavior of insect pollinators was observed during full flowering stage.During the period of 6:30 am to $1 9 { : } 0 0 \\ \\mathrm { p m }$ ， the sampling method and tracking method were used,and the digital camera was used to capture the flowering visiting and flight processes of insect $5 { \\mathrm { ~ d } } .$ real-time recording of insect flower visiting time, number of insects, insect species,dwell time, number of flowers visited by the same insect in the same time period,etc., to describe the flower-visiting behavior of insect in detail， and Times·Flowermin-1 was used to represent frequency of visiting.According to the insect's flower-visiting behavior, such as contacting with anthers and stigmas,to determine whether this type of insect was an effective pollinator. After the insect was captured, it was quickly placed in the $9 5 \\%$ ethanol solution,killed to make the specimen,and then brought it back for identification. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.7 Manipulated pollination ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Randomly selected flowers on different inflorescences and performed different manipulated pollination (Dafni,1992): (1) natural pollination (control); (2) bagging without emasculation; (3) bagged and emasculation; (4) hand self-pollination; (5) hand xenogamy; (6) corolla removed. Due to the small numbers in the population,10 individual plants were randomly selected for each of the above treatment methods,and 6 flowers on each plant were labeled, with a total of 6O flowers ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "in each treatment. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.8 Statistics and analysis ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The One Way ANOVA and PostHocTests LSD in SPSS 19 statistical analysis software were used to dispose breeding system and seed setting rates. The statistical data were represented as mean $\\pm$ standard deviation,and the line charts were made with OriginPro8. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2. Results and Analysis ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1 Floral morphological characteristics and flowering phenology ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The floral morphological characteristics: corollas mauve, number of inflorescences per plant was 1-10,mostly 4-7,1-17 flowers per inflorescence,an average of 7 flowers,larger flowers, average corolla length of about $4 9 \\ \\mathrm { c m }$ ，both surfaces of the leaf were pubescent. The floral morphological characteristics of $P .$ eburnea were shown in Table 1 and Table 2. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/9cdd5443be84dcd10858a10d748059950095dc54696b4655a042895ecc29dac2.jpg",
+        "table_caption": [
+            "表1花部形态Table 1Floral morphology",
+            "表2花部形态"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>萼片长度 Sepal length (mm)</td><td>花冠长度 Corolla length (mm)</td><td>花筒中部直径 Diameter of middle of corolla tube (mm)</td><td>花筒中部高度 Height of middle of corolla tube (mm)</td><td>花筒口部直径 Diameter of mouth of corolla tube (mm)</td><td>花筒口部高度 Height of mouth of corolla tube (mm)</td></tr><tr><td>9.01±0.52</td><td>49.06±0.83</td><td>6.54±0.21</td><td>11.15±0.22</td><td>10.96±0.38</td><td>11.59±0.28</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/2fd68beaadbbff0049fc81ccbf7ba8d29286af884efb0dbbef53102beaf7c8c8.jpg",
+        "table_caption": [
+            "Table 2 Floral morphology "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>上唇裂片 Upper lip (mm)</td><td>下唇裂片 Lower lip (mm)</td><td>雌蕊长度 Pistil length (mm)</td><td>柱头长度 Stigma length</td><td>雄蕊长度 Stamen length</td><td>花药长度 Anther length</td></tr><tr><td>8.15±0.34</td><td>17.40±0.58</td><td>33.02±0.70</td><td>(mm) 3.28±0.55</td><td>(mm) 26.96±0.55</td><td>(mm) 4.09±0.12</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The beginning of the flowering stage was from late March to early April, and the flowering stage ended at the end of April to middle May. The entire flowering stage was about $4 5 \\mathrm { ~ d ~ }$ of which the initial flowering stage was about $2 0 \\textup d$ and the single flower flowering stage was $6 - 8 \\mathrm { d }$ The initial flowering stage, fullflowering stage,and late full flowering stage were shown in figure 3. Under the influence of light and temperature,the plant quickly opened a large number of flowers and entered the full flowering stage. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7a9bab3da34eae205ac55dd681957f315d58743e1fe0925274f7b0eba6357934.jpg",
+        "img_caption": [
+            "Fig.3Flowering phenology of Primulina eburnea "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The opening order of flowers on the inflorescences was generally T1 first, F1 later, then T2 immediately after opening,and F2 finally opening, where F1 and T2 were open at the same time or separated by $1 - 2 { \\mathrm { d } }$ (as shown in Fig. 4). From Fig. 5 and Fig. 6, we knew that at the beginning, the pistil was longer than the stamens,and later the stamens grew faster than the pistils,and the length exceeded the pistils. Before blooming,the stamens and anthers gradually shrank and matured,the stigma was still behind the anther at bud stage,but it was close to anther.The single flower flowering stage was longer, but after three or four days of flowering the pistil had basically stopped ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9d531c3258e5ad9c58bbc2488232d492b71d3da3d75b5a7a4741efc0df8c478.jpg",
+        "img_caption": [
+            "图3牛耳朵的开花物候",
+            "图4花序上花的开放顺序",
+            "Fig. 4Order of flowering open in one inflorescence "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "growing. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c5131cf4d2df207d6658de2b823cb19a381a30b3fc1cc13d91763bf1bfc63ac3.jpg",
+        "img_caption": [
+            "图5牛耳朵解剖图"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A&B.各时期花蕾解剖图；C．开花过程中雌雄蕊位置关系。   \nA&B.Anatomical drawing offlower buds in diferent flower bud stages; C.Relative position between the pistil and stigma in flowering stage. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig. 5Anatomical drawing of Primulina eburnea ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/6364bc7f02e0bb70d5d86b2b91bafe913565a183a00ddb3c41d18314b8210e1d.jpg",
+        "img_caption": [
+            "图6雌雄蕊生长动态"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A．雌蕊长度；B.雄蕊长度；C．水平距离；D.竖直距离（“水平距离”和“垂直距离”表示柱头和花药 之间的距离，负值表示柱头水平方向短于花药，垂直方向低于花药)。   \nA.Pistil length; B.Stamen length; C.Horizontal distance; D.Vertical distance(\"horizontal distance\"and \"vertical distance”indicate the distance between stigma and anther, negative value indicates stigma shorter than anther in horizontal direction and stigma below anther in vertical direction). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.6Dynamic growth of pistils and stamens ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.2 Pollen viability and stigma receptivity ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The pollen viability of $P .$ eburnea was strong before flowering,the pollen viability of $P .$ （204号 eburnea could remain strong for $1 { - } 2 \\mathrm { d }$ and begin to decline on the third day, and the strong pollen viability could still be detected before the end of the single flower flowering stage.Pollens were removed by various factors from the anthers and this measure maximized the utilization efficiency of pollen from one aspect. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Stigma did not have receptivity before flowering. About $30 \\%$ of the stigmas of $P .$ eburnea on the first day of flowering were receptive and more than $90 \\%$ of stigmas on the second day of flowering were receptive. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/9acc8c9fe36b3f50a9522048f2a5dfeaec886a99764760a767f687c44caffff4.jpg",
+        "table_caption": [
+            "表3花粉活性Table3Pollen viability"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>开花后第N天 Time after flowering (d)</td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td>花粉活性(%) Pollen viability</td><td>99</td><td>94</td><td>83</td><td>72</td><td>41</td><td>31</td><td>21</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.3 Pollen Ovule ratio and Outcrossing Index (OCI) ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The pollen amount of single flower of $P .$ eburnea was $( 5 . 9 4 \\pm 0 . 1 4 ) \\times 1 0 ^ { 5 }$ , the number of ovules was $1 1 0 6 \\pm 1 5 . 2 6$ ,the pollen ovule ratio $\\left( \\mathrm { P / O } \\right)$ was $5 3 7 \\pm 1 8 . 0 4$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The hybridization indexes of $P .$ eburnea was equal to 5,according to the analysis of OCI value,we knew that $\\mathrm { O C I } \\ \\geq \\ 4$ was xenogamy， outcrossing， part of the individuals were self-compatible,most individuals needed pollinators. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/b8e3e1d183efcc5777eb8100cbbb59485e41d3461a69755e1d295ab6d03cfc7a.jpg",
+        "table_caption": [
+            "表4OCI值Table 4Out-crossing Index"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目 Item</td><td rowspan=\"2\">花朵直径 Diamter of Flower</td><td rowspan=\"2\">花药散粉与柱头可授期时间间 隔 Temporal separation of anther dehiscence and stigma acceptability</td><td colspan=\"2\">柱头与花药的空间 位置</td><td rowspan=\"2\">繁育系统类型 Type of breeding system</td></tr><tr><td>Spatial position of stigma and anther</td><td>OCI值 OCI value</td></tr><tr><td>结果 Result</td><td>6.54mm=3</td><td>雄蕊先熟=1 Protandry = 1</td><td>=1</td><td>5</td><td>异交型 Xenogamy</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.4 Determination of nectar secretion and sugar content ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Nectar could be found by measuring nectar secretion of $P .$ eburnea throughout the day. No nectar was found during the flower bud stage. The average nectar production was $2 . 2 5 \\pm 0 . 4 7 ~ \\mu \\mathrm { L }$ on sunny days,and the sugar content was $( 5 1 . 9 1 \\pm 1 . 4 9 ) \\%$ . The average nectar production in rainy days was $( 4 . 6 6 \\pm 0 . 9 1 ) \\mu \\mathrm { L }$ ,and the sugar content was $( 3 4 . 8 2 \\pm 1 . 1 0 ) \\%$ ： ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.5 Species of flower-visiting insects and their behavior ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Anthophora florea was an important pollinator for $P .$ eburnea (Fig. 7-A). The $P .$ eburnea flowers were large, it may not touch the stigma during Anthophora florea entering the flower tube, resulting in the failure of pollination. The stigma of most flowers was greatly bent down, so this made the probability of pollination of $P .$ eburnea higher. When Anthophora florea collected pollen in return, it would hold the anther from below and rotate,the anther would crack and the pollens will fall to the pollinator's thoraces,abdomens and legs. Stigma was not far from anther. At the same time，due to the movement of the pollinator, self-pollination could be completed, and cross-flower pollination was completed when the next flower was visited by pollinator. In the process of observation, we also found that Anthophora florea often stayed at the botom of the flower tube to suck the residual nectar. In addition,the Bombus sp. was an important pollinator for Primulina eburnea whose body size was large (Fig.7-B). When crawling into the flower tube, the back would touch the reflexed stigma,then through the two filaments looking for nectar, the anther was affected by external forces to crack,pollens fell to the pollinator's back,when the polinator visited the next flower,the back would touch the stigma to complete the pollination process. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Compare with Primulina hunanensis and Chirita lutea (LI & Cai, 2O2O; Tang et al., 2009), $P .$ （204号 eburnea produced larger amount of nectar, which atracted Anthophora floreas to visit the flowers, but the frequency of flower-visiting had not increase because the pay was increased and the residence time of pollinator was correspondingly increased. Anthophora florea stayed in $P .$ （20 eburnea for more than $1 0 \\mathrm { ~ s } ,$ ，while Bombus sp.stayed for a short time (1-2 s) during the flower-visiting. We also found that cloudy and rainy day would greatly aect the activities of Anthophora florea,and the frequency of flower-visiting decreased. Bombus sp. was rarely seen during the observation process,from 9:oo am to $1 7 { : } 0 0 \\ \\mathrm { p m }$ appeared at intervals.There was no regularity,and no flower-visiting peak. In the observation plots,at most two Bombus sp. appeared at the same time,but the number of flower-visiting was large each time,and the probability of pollination was high for each flower. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Other visitor (Fruticicolidae sp.） was found in $P .$ eburnea. It was related to the living environment of plants. It was found that it was not effective pollinator during field observations. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fruticicolidae sp. fed on corolla. The pollination was occasionally caused during process of the corolla was eaten, but severely damaged to the corolla and often affected the population's seed setting rate. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e1d986eee21630efe0a8abc35f65957c2f49fba4a86956cad96c7f3a4a6a310.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A．花条蜂；B.熊蜂。   \nA.Anthophora florea;B.Bombussp. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/feb6f9933989b4a152e4fffbaf5303661127bd58b0493b1c1a5aab752736751a.jpg",
+        "img_caption": [
+            "图7牛耳朵的传粉者",
+            "Fig.7Floral visitors of Primulina eburnea ",
+            "图8传粉者的访花频率",
+            "Fig. 8Visiting frequency of pollinators "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.6 Manipulated pollination ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The seed setting rate of natural pollination was lower than the hand xenogamy, but higher than the hand self-pollination.The bagged without emasculation also bore seed, which indicated that pollination will also occur in the absence of pollinators,but the probability was very low.The bagged and emasculation had no fruit, which indicated that there was no apomixis. The low seed setting rate of the corolla removed showed that the corolla contributed significantly to the pollination process. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "A．自然授粉（对照)；B.无处理套袋；C.去雄不套袋；D.人工自花授粉；E.人工异花授粉;F.去花冠 不套袋。   \nA. Natural pollination (control); B. Bagging without emasculation; C. Bagged and emasculation; D. Hand self-pollination; E.Hand xenogamy; F. Corolla removed. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/9de4987a8e4995a24f54f64b98bdcf403efa6b563717cde1d11e6d339e73d4f9.jpg",
+        "img_caption": [
+            "图9套袋处理的结实率",
+            "Fig. 9Seed setting rates of manipulated pollination "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3．Disscussion ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Combined our research results with previous studies on the genetic diversity of $P .$ eburnea, we jointly discussed the eurychoric distribution of $P .$ eburnea from the direction of pollination biology and genetics. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.1 The relationship between breeding system，pollination biology and its eurychoric distribution ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In the study, we found that the OCI value was 5,which indicated that the breeding system was xenogamy, most individuals of $P .$ eburnea needed pollinators.When anther was mature, the position of dehiscence was opposite to the position of stigma, to avoid self-pollination. In addition, the pistil and stamen matured at different times to avoid self-pollination and to avoid that the inbreeding recession of offspring. The peduncle of $P .$ eburnea is longer, which is conducive to the capture of pollinators,and the inflorescence is shorter, it is easy to form umbellate inflorescences. And concentrated flowering can reduce the time and energy consumption of pollinators in the flower visiting process (Wang, 2014). $P .$ eburnea has a pair of large and prominent bracts, large and showy flowers (Zhang et al.,2O17). Corolla color can attract and screen pollinating insects (Zhang,2Oo4). In the study, it was found that the corolla was eaten could cause the pollinators to lose the landing point and affect the polination, the seed setting rate of corolla removed was low, so the corolla of $P .$ eburnea could also promote the pollination. And the larger flowers allowed the main pollinators -- Anthophora florea and Bombus sp.-- to pollinate in different ways.Primulina Lijiangensis B.Pan & W.B. Xu with smaller flowers can not provide enough space to ensure the diversity of pollination behavior (Huang et al.,2O16). In addition, it has been found in recent years that the effect of flowering pattern size on pollinators is related to the flowering background (such as plant density) of the species (Makino et al., 2007). Through field observation in the field, we can find that due to their strong stress resistance, $P .$ eburnea are often distributed in clusters within the range of suitable habitats.At the same time,the flowering stage of the species in the same region always maintained a high consistency,and the larger flower size of $P .$ eburnea and the larger number of flowers in the single inflorescence, its flowering pattern can obviously reduce the background noise under the premise of consistent flowering. On this basis, the larger flowering patern can be highlighted (Tang & Han,2007; Buide, 2006),and then more pollinators can be atracted to visit flowers,resulting in higher pollen output rate,cross-pollination and higher seed setting rate (Ishii & Sakai, 2002). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The number and type of pollinators depend on the shape,color and size of corolla, pollen or characteristics such as reward (pollen and nectar) or smell (Proctor et al., 1996; Muchhala et al., 2009).Compared with Chirita lutea nectary degeneration (Tang et al.,2O09),the $P .$ eburnea secretes nectar after flowering, which is conducive to attracting pollinators.The nectar volume, a single flower characteristic, has a strong atraction to pollinators whose reward is nectar, because high quantity of nectar can increase reward of polinators and reduce the consumption in the process of pollination, may attract more pollinators (Wang, 2014). Pollen viability is an important factor affecting pollen life (Yi & Zhao, 2Oo5). P. eburnea can maintain strong pollen vitality over a long period of time,which obviously helps to extend the effective time of pollination. On the contrary, the polen viability of Primulina hunanensis rapidly decreases on the second day after flowering, which will reduce the pollination efficiency (LI & Cai,202O). To sum up, in the process of evolution,this widespread species is clearly diferent from most of closely related species distributed in local, it has developed a series of special floral features to attract pollinators and adapt to the behavior of polinators, thus improving pollination efficiency and adaptability to the natural environment. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The environment where plants are located also affects pollination of pollinators and breeding of plant. In the study， we found that cloudy and rainy days would affect the activities of Anthophora florea and reduce the frequency of flower-visiting. The rainy and windy weather would inevitably affect the flower-visiting behavior of insects and greatly reduce the chance of flower pollination,leading to the failure of pollination (Peng et al., 2014).P. eburnea will increase the amount of nectar in cloudy days as compensation,but Primulina hunanensis does not (LI & Cai,2O20). Therefore, the sunny environment of $P .$ eburnea is conducive to the increase of pollination frequency. $P .$ hunanensis is similar to $P .$ eburnea,which distribution area is very narrow, grows in karst cave. Because of the special habitat, its distribution range is strictly limited to a certain range,and the limitation of the suitable area leads to the small population size and the inability to expand. Because population size afects the consumption of time and energy of polinators in the flower-visiting process (Ohara & Higashi, 1994).Pollinators spend a lot of time and energy visiting flowers, and $P .$ hunanensis can attract only a limited number of pollinators, so their sexual reproduction is easily restricted by pollinators (Li & Cai, 2020). Because of the 'land island' of the karst landscape and the limited seed dispersal capacity of the species of Primulina (Kang et al.,2014; Hao et al., 2015), this may also account for the fact that most species of Primulina are endemic species with a narrow distribution, usually only grow in a single cave or mountain system of karstified limestone（Wei, 2010) . ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.2 The relationship between genetic diversity and high adaptability of P. eburnea ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Primulina has extensive adaptability and regional endemism (Chen, 2015),in addition to a few species, such as $P .$ eburnea and Primulina bipinnatifida (W.T. Wang) Y. Z. Wang & J. M. Li (Xu et al., 2Ol9), the majority of species distribution is narrow, generally only appear in one or two limestone hils or caves,thus forming a lot of endemic species (Samways & Lockwood,1998; Wang et al.，2012).In addition to the breeding system and pollination biology ensure the eurychoric distribution of $P .$ eburnea， the genetic diversity of $P .$ eburnea also makes the population adapts to the environment beter and guarantees higher survival rates when facing the environmental changes and human disturbances. The isolated habitat and small population size of endemic species that distributed narrowly limit gene communication between populations, which resulted in significant population genetic structure within species (Rannala, 2015). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "$P .$ eburnea was thought to have multiple cryptic species (Wang et al.， 2017a)， this phenomenon is not uncommon in Gesneriaceae,such as Hemiboea Clarke,where the presence of some cryptic species with similar flower patterns and flower colors have been observed (Huang et al., 2020; Li et al.,2019). Population genetic analysis has shown that these species existed highly significant genetic differentiation between populations (Gao et al.,2015; Wang et al.,2017a, b). Moreover, through the genetic annotation of the abnormal sites,it was found that many of the sites may be related to plant stress resistance，which was conducive to the adaptation to the environment (Gao et al.,2O15). The genetic differentiation coefficient indicated that the genetic variation mainly occurred in the population, which was consistent with the smaller differentiation coefficient among the populations, indicating that the gene communication mainly occurred in the population. This clearly helps to understand from the view of genetic diversity why $P .$ eburnea is one of the few widespread species of Primulina--this species has high genetic diversity, which is consistent with that it is a very rare eurychoric distribution species in the Primulina (Liu, 2015). And when the genetic diversity of endemic species is low, they may face extinction (Li et al., 2016).High genetic diversity allows species to better adapt to the environment, with higher survival rates when facing environmental changes and human disturbances. To sum up, the pollination biology and breeding systems of $P .$ eburnea and its genetic diversity can help species to achieve eurychoric distribution. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References: ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "BUIDE ML，2006. Pollination ecology of Silene acutifolia (Caryophyllaceae） floral traits variation and pollinator attraction[J]. Ann Bot, 97(2): 289-297.   \nCHEN JL, 2015. Molecular biogeography of the genus Primulina (Gesneriaceae)[D]. Beijing: Universityof Chinese Academy of Sciences.[陈俊霖，2015.报春苣苔属植物分子生物地理 研究[D]．北京：中国科学院大学]   \nDAFNI A,1992. Pollination Ecology: a Practical Approach[M]. New York: Oxford University Press: 59-89.   \nGAO Y, AI B, KONG HH, et al.,2015. Geographical patern of isolation and diversification in karst habitat islands: a case study in the Primulina eburnea complex[J]. J Biogeogr, 42(11): 2131-2144.   \nHAO Z, KUANG YW, KANG M, 2015. Untangling the influence of phylogeny, soil and climate on leaf element concentrations in a biodiversity hotspot[J]. Funct Ecol, 29(2): 165-176.   \nHUANG SL, WANG OW, WEN F, 2016. Pollination biology research of two Primulina species (Gesneriaceae)[J].Acta Hortic Sin,(6):64-69.[黄石连，王鸥文，温放，2016．两种报春苣苔 属（苦苣苔科）植物传粉生物学研究[J].北方园艺,(6):64-69.]   \nHUANG ZP, LI JH, PAN B, et al., 2020. Hemiboea yongfuensis (Gesneriaceae): a cryptic and critically endangered new species from North Guangxi, China[J]. Nord JBot, 38(3).   \nISHI HS,SAKAI S,2Oo2. Temporal variation in floral display size and individual floral sex allocation in racemes of Narthecium asiaticum (Liliaceae)[J]. Am JBot, 89(3): 441-446.   \nJIAO TL, 2018. Studies on the adaptive evolution of Primulina juliae endemic in special habitat and analysis of chloroplast genomics among its closely related species[D]. Beijing: University of Chinese Academyof Sciences.[焦腾龙，2018．特殊生境植物大齿报春苣苔适应性进化及 近缘种叶绿体基因组分析[D]．北京：中国科学院大学]   \nKANG M, TAO JJ, WANG J, et al., 2014. Adaptive and nonadaptive genome size evolution in karst endemic flora of China[J]. New Phytol, 202(4): 1371-1381.   \nLI SJ,CAI XZ, 2020. Studies on Floral Syndrome and Breeding System of Primulina hunanensis[J/OL]. Acta Hortic Sin. htps://oi.org/10.16420/j.issn.0513-353x.2019-0651.[李 帅杰，蔡秀珍，2020．湖南报春苣苔的花部特征及其繁育系统研究[J/OL]．园艺学报. https://doi.0rg/10.16420/.isn.0513-353x.2019-0651.]   \nLI XQ,GUO ZY, LI Y, et al., 2019. Hemiboea guangdongensis comb. & stat. nov., a cryptic species segregated from $H .$ subcapitata (Gesneriaceae) based on morphological and molecular data[J]. Nord JBot, 37(12).   \nLI YX, YU YH, ZHANG XY, et al., 2016. Genetic diversity of Ottelia acuminate var. crispa (Hydrocharitaceae): An endangered aquatic herb with extremely narrow distribution (English)[J]. Agric Sci Yanbian University, 38 (2): 139-148.   \nLIU Q, YI CR, ZHENG SL, et al., 2017. Pollination biology of vulnerable Rhododendron vialii (Ericaceae) in Yunnan province[J].JW China For Sci,46(3): 96-102.[刘巧，易陈燃，郑硕理, 等，2017．云南易危植物红马银花的传粉生物学研究[J]．西部林业科学，46(3):96-102.]   \nLIU Y,2015. Study on the Genetic diversity of Gesneriaceae--P. eburnea by SSR[D]. Guilin: Guangxi normaluniversity.[刘影，2015．利用 SSR 探究苦苣苔科植物一牛耳朵遗传多样性 [D]．桂林：广西师范大学.]   \nLOPEZ - PUJOL J, ZHANG FM, SUN HQ, et al.,2011. Centres of plant endemism in China: places for survival or for speciation?[J]. J Biogeogr,38(7): 1267-1280.   \nMAKINO TT, OHASHI K, SAKAI S,2007.How do floral display size and the density of surrounding flowers influence the likelihood of bumble bee revisitation to a plant?[J]. Funct Ecol, 21 (1): 87-95.   \nHARDER LD, JORDAN CY, GROSS WE,et al.， 2004. Beyond floricentrism: The pollination function of inflorescences[J]. Plant Spec Biol, 19(3): 137-148.   \nMUCHHALA N, CAIZA A, VIZUETE JC, et al., 2009. A generalized pollination system in the tropics: bats, birds and Aphelandra acanthus[J]. Ann Bot, 103(9): 1481-1487.   \nOHARA M, HIGASHI S. Effects of inflorescence size on visits from pollinators and seed set of Corydalis ambigua (Papaveraceae)[J]. Oecol,1994, 98(1): 25-30.   \nPENG DH, LAN SR, WU SS, 2014. Polination Biology and Breeding System of Melastoma dendrisetosum[J]. Forest Res, 27(01): 11-16.   \nPROCTOR M, YEO P, LACK A,1996. The Natural History of Pollination[M]. London: Harper Collins Publishers.   \nRANNALA B,2015. The art and science of species delimitation[J]. Curr Zool, 61(5): 846-853.   \nRODRIGUEZ-RIANO T,DAFNI A, 2000. A new procedure to assess pollen viability[J]. Sex Plant Reprod, 12 (4): 241-244.   \nSAMWAYS MJ, LOCKWOOD JA， 1998. Orthoptera conservation: Pests and paradoxes[J]. J Insect Conserv, 2(3):143-149.   \nSUN Y, CUI LM, LI MY, et al.， 2018. Flowering phenology and polination charateristics of Barnardia japonica[J].Guihaia,38(5): 608-616.[孙颖，崔兰明，李梦雨，等，2018．绵枣儿 的开花物候与传粉特性[J]．广西植物，38(5):608-616.]   \nTANG LL,HAN B, 20O7. Efects of floral display on polinator behavior and pollen dispersal[J]. Biodivers Sci,15(6):680-686.[唐璐璐，韩冰，2007．开花式样对传粉者行为及花粉散布的 影响[J]．生物多样性，15 (6):680-686.]   \nTANG SC, PU GZ, PAN YM, et al., 2009. Pollination Biology of Chirita lutea Yan Liu et Y.G.Wei in China (Gesneriaceae)[J].JTrop Subtrop Bot,17(4): 328-333.[唐赛春，蒲高忠，潘玉梅， 等,2009．黄花牛耳朵(苦苣苔科)的传粉生物学[J]．热带亚热带植物学报,17(4):328-333.]   \nWANG J, AI B, KONG HH, et al., 2017a. Speciation history of a species complex of Primulina eburnea (Gesneriaceae） from limestone karsts of southern China, a biodiversity hot spot[J]. Evol Appl, 10(9): 919-934.   \nWANG J, FENG C, JIAO TL, et al.,2017b. Genomic signature of adaptive divergence despite strong nonadaptive forces on edaphic islands: a case study of Primulina julie[J]. Genome Biol Evol, 9(12): 3495-3508.   \nWANG H, 2014. Divergence in floral traits under the selection of pollinators in sympatric Corydalis species[D].Wuhan:Wuhan university.[王慧，2014.同域分布紫堇属植物传粉选择 压力下的花部特征分化[D]．武汉：武汉大学]   \nWANG LF, HUANG SX, ZHOU TJ, et al., 2012. Study on the introduction and culitvation of Chirita plants in Guangxi province[J]. JFujian For Sci Technol,39(2):109-112.[王莉芳，黄仕 训，周太久，等，2012．广西唇柱苣苔属植物的引种栽培试验[J]．福建林业科技，39(2): 109-112.]   \nWANG YZ, MAO RB,LIU Y, et al.， 2011. Phylogenetic reconstruction of Chirita and allies (Gesneriaceae) with taxonomic treatments[J]. J Syst Evol, 49(1): 50-64.   \nWEI YG， 2010. Gesneriaceae of South China[M]. Nanning， China: Guangxi Science and Technology Press:68-94.[韦毅刚，2010．华南苦苣苔科植物[M]．南宁：广西科学技术出 版社：68–94.]   \nWEN F, FU LF, WEI ZG, 2012. Pollination biology of Primulina repanda var. guilinensis and $P .$ （2 glandulosa var.yangshuoensis[J].Guihaia,32(05): 571-578.[温放，符龙飞，韦毅刚,2012.两 种广西特有报春苣苔属（苦苣苔科）植物传粉生物学研究[J].广西植物，32(05):571-578.]   \nWU ZY, SUN H, ZHOU ZK, et al., 2005. Origin and differentiation of endemism in the flora of China[J].Acta Bot Yunnanica,27(06):577-604.[吴征镒，孙航，周浙昆，等，2005．中国植 物区系中的特有性及其起源和分化[J]．云南植物研究，27(06):577-604.]   \nXIAO LX，LIU KM， 2009. Floral Traits and Pollination System of Impatiens chinensis (Balsaminaceae)[J].Bullof Bot Res,29 (2):164-168.[肖乐希，刘克明，2009．华凤仙花部 特征和传粉系统研究[J]．植物研究，29(2):164-168.]   \nXU WB.， CHANG H.，HUANG J,et al.， 2019. Molecular systematics of Chiritopsis-like Primulina (Gesneriaceae): one new species, one new name, two new combinations, and new synonyms[J]. Bot Stud, 60 (1): 1-21.   \nXU WB,GUO J, PAN B,et al., 2017. Diversity and distribution of Gesneriaceae in China[J]. Guihaia,37(10):1219-1226.[许为斌，郭婧，盘波，等，2017．中国苦苣苔科植物的多样 性与地理分布[J]．广西植物，37(10):1219-1226.]   \nYAN HX, TAO DY, GUAN SK, et al., 2018. Hybridization techniques of Primulina Plants[J]. Agic Res Appl,31(5):35-38.[闫海霞，陶大燕，关世凯，等，2018．报春苣苔属植物的人 工杂交技术[J]．农业研究与应用，31(5):35-38.]   \nYI JL,ZHAO HE,2Oo5. Summary of influencial factors on pollen viability and its preservation methods[J].Chin Ag Sci Bull,21(4):110-113.[尹佳蕾，赵惠恩，2005.花粉生活力影响因素 及花粉贮藏概述[J]．中国农学通报,21(4):110-113.]   \nZHANG DY,2004. Plant life-history evolution and reproductive ecology[M]. Beijing: Science Press:310-331.[张大勇，2004．植物生活史进化与繁育生态学[M]．北京：科学出版社： 310-331.]   \nZAHNG XL, YANG LH, KANG M, 2017. Post-pollination reproductive isolation of sympatric populations of $P$ . eburnea and $P$ mabaensis (Gesneriaceae)[J]. Biodivers Sci, 25(6): 615-620. [张小龙,杨丽华,康明,2017．牛耳朵和马坝报春苣苔同域种群授粉后的生殖隔离[J].生物 多样性,25(6): 615-620.] ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    }
+]

@@ -1,0 +1,415 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201701160123 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄鑫浩,朱凡,胡丰姣,梁惠子,王仁杰,邹志刚.基于Lake模型的Pb胁迫对木荷和栾树幼树叶片叶绿素荧光参数的影响研究.生态学报,2018,38 (4):1284-1292.   \nHuangXH,Zufol seedling based on Lake-model.Acta Ecologica Sinica,2018,38(4):1284-1292. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于Lake模型的Pb胁迫对木荷和栾树幼树叶片叶绿素荧光参数的影响研究 C",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄鑫浩1²，朱凡1,2，\\*，胡丰姣'，梁惠子²，王仁杰}，邹志刚’",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1中南林业科技大学生命科学与技术学院，长沙410004  \n2 南方林业生态应用技术国家工程实验室，长沙410004",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以阔叶树种木荷和栾树1年生幼树为对象,采用室内盆栽,通过配制3个不同浓度梯度的 $\\mathrm { P b } { \\mathrm { C l } } _ { 2 }$ 溶液于盆栽土壤中( $\\mathrm { L } 1 <$ $\\mathtt { L 2 < L 3 }$ ),对比研究Pb胁迫下两种幼树叶片叶绿素荧光参数的响应规律,运用Lake模型从能量平衡及分配的角度揭示不同浓度 Pb 胁迫下木荷和栾树光系统ⅡI运转状况,并为木本植物幼树耐 $\\mathrm { P b }$ 程度的快速诊断提供数据支撑。结果表明：3个不同浓度的 Pb 处理下,两种供试幼树随着入射光强(PAR)的增大,除非调节性能量耗散 $( Y _ { \\mathrm { { N O } } } ^ { - }$ )以外其他叶绿素荧光参数均随着PAR的变化而变化,相对电子传递速率(rETR)和可调节性能量耗散( $Y _ { \\mathrm { N P Q } }$ )呈上升趋势,而光系统II(PSII)量子效率( $\\cdot Y _ { \\mathrm { { I I } } }$ )和光化学猝灭 $\\left( q L \\right)$ 呈下降趋势。同时,两种供试幼树的最大光能利用效率 $( F v / F m ) \\_ \\mathrm { r E T R } \\_ Y _ { \\parallel } \\ / . q L$ ,随着 Pb 污染浓度的增加而降低,而 $Y _ { \\mathrm { N P Q } }$ 和 $Y _ { \\mathrm { N O } }$ 则随着Pb 污染浓度的增加而升高。Pb 对两种供试植物叶绿素荧光参数的抑制效果在最大净光合速率( $\\left( P n \\right)$ 上也有体现。本实验还得出,在L1浓度时木荷PSII反应中心的开放程度能保持在较高水准,随着污染浓度的增大，其光能转化能力弱于栾树。同时,栾树调节能量耗散的能力和对 Pb胁迫的敏感程度均高于木荷,进一步说明了栾树对Pb 的耐性高于木荷。综合分析后得出， $Y _ { \\mathrm { N O } }$ 和 $Y _ { \\mathrm { N P Q } }$ 可作为植物Pb 胁迫的评价指标。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：Lake模型;Pb 胁迫；栾树;木荷；叶绿素荧光；诊断指标 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effects of Pb stress on chlorophyll fluorescence of Schima superba and Koelreuteria paniculata seedling based on Lake-model ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HUANG Xinhao1.2， ZHU Fan1,2,\\*，HU Fengjiao¹， LIANG Huizi²，WANG Renjie¹， ZOU Zhigang1 1 Central-South University of Forestry & Technology，Changsha 41004,China 2 State Key LaboratoryofEcological Applied Technology in Forest Area of South China，Changsha 41004，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: We selected one-year-old sedlings of two broad-leaved trees， Koelreuteria paniculataand Schima superba，as study materials， potted under diferent concentrations of $\\mathrm { P b C l } _ { 2 }$ solution ( $\\mathrm { L } 1 { < } \\mathrm { L } 2 { < } \\mathrm { L } 3$ ） in the greenhouse. We assessed the influenceof Pbon thechlorophyllfluorescence characteristicsinthe leavesandrevealed the function of photosystem II （ PSII） under different $\\mathrm { P b }$ stress conditions in the contexts of energy balance and alocation，using the Lake-model. Our results can be used for the diagnosis of $\\mathrm { P b }$ resistance and rapid $\\mathrm { P b }$ stress in the seedlings of woody plants.The results showed that，under three different $\\mathrm { P b }$ treatments，increase in photosynthetically active radiation（PAR）for two tested cultivars increased the relative electron transport rate（rETR）and down-regulated the energy disspation（ $Y _ { \\mathrm { { N P Q } } }$ ），but reduced the quantum efficiency of PSII ( $Y _ { \\mathrm { { I I } } }$ ）and the photochemical quenching $\\left( \\begin{array} { l } { q L } \\end{array} \\right)$ . The non-light induced energy dissipation ( $\\left| \\boldsymbol { Y } _ { \\mathrm { N O } } \\right|$ ）did not change.At the same time，increased $\\mathrm { P b }$ concentration of the contaminant for two tested tree species reduced the maximum quantum use efficiency $( F v / F m )$ ，rETR, $Y _ { \\mathrm { { I I } } }$ ，and $q L$ ，but the $Y _ { \\mathrm { { N P Q } } }$ and $Y _ { \\mathrm { { N O } } }$ increased. The inhibitory effects of $\\mathrm { P b }$ on the chlorophyllfluorescence parameters of the two tested plant species were also reflected in the maximum net photosynthetic rate $\\left( P n \\right)$ . In addition，this study also showed that，under the L1 gradient，the PSI of $S$ superba remained relatively high under mild $\\mathrm { P b }$ stress，but sufered severe damage under high $\\mathrm { P b }$ stress， suggesting that S. superba has a much lower ability to convert light energy than $K .$ paniculata. $Y _ { \\mathrm { N P Q } }$ greatly increased in $K$ paniculata and was more sensitive to Pb stress than S. superba，revealing strong $\\mathrm { P b }$ resistance due to a strong photo-protective mechanism in K. paniculata. Comprehensive analysis showed that $Y _ { \\mathrm { { N P Q } } }$ and $ { { \\cal Y } } _ { \\mathrm { { N o } } }$ could be used as indicators for Pb stress diagnosis and evaluation of resistance to $\\mathrm { P b }$ stress in plants. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words:Lake-model；Pb stress；Koelreuteria paniculata； Schima superba；chlorophyll fluorescence；diagnosticindicators",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "铅(Pb)是土壤中常见的有毒重金属,Pb 对土地的污染已成为全球一大环境问题。调查显示,我国土壤重金属污染超标率为 $1 6 . 1 \\%$ ,其中Pb 的点位超标率达 $1 . 5 \\%$ 。值得注意的是，在我国林地中（天然林、次生林和人工林林地)土壤重金属点位也超标[1]。根据研究结果显示[2-4],相当一部分林地土壤中 Pb 污染程度偏高。受Pb 污染的林地土壤会直接危害到植物生长的环境如土壤微生物、土壤酶活性[5-6]等。林地里的成年植物吸收大量的 $\\mathrm { P b }$ 会抑制其光合作用、呼吸作用[7-8],对叶绿体、线粒体都有一定程度的破坏[9]。幼苗受到Pb 胁迫后会极大地限制幼苗的生长并在之后的生长期里产生难以消除的影响,最终导致植物生物量、固碳能力下降[10]。因此,从生理角度诊断Pb 胁迫下木本植物幼龄阶段的光合作用能力,为筛选出抗性品种对 Pb 污染的土壤进行植被群落恢复具有重要意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "不少研究者发现Pb 胁迫引起植物光能利用率下降的主要原因有,Pb 限制了光合反应中心的电子传递，或由气孔和非气孔限制造成的胞间 $\\mathrm { C O } _ { 2 }$ 浓度升高等一系列光合生化过程导致的植物光能利用率的下降[11-12]。叶绿素荧光动力学参数包含着光合作用过程的重要信息,如光能的吸收和转化、能量的传递与分配、反应中心的活性、过剩能量的耗散以及光合作用的光抑制和光破坏状态等,被广泛用于各种逆境条件下植物光系统运转的无损检测[1-15]。由于光合单元由多个嵌入在天线色素系统中的反应中心组成,且天线色素系统向每个光系统II(PSII)提供电子[14],因此,Kramer 等[16]在 Sterm-Volmer 方法的基础上,引入一个更容易监测稳定性高的参数一光化学猝灭 $\\mathcal { Q }$ ,由此推导出衡量非光化学猝灭过程的两个参数 $Y _ { \\mathrm { N P Q } }$ 和 $Y _ { \\mathrm { N O } }$ ,从而形成Lake 模型,即 $Y _ { \\mathrm { { I I } } } + Y _ { \\mathrm { { N P Q } } } + Y _ { \\mathrm { { N O } } } = 1 \\mathcal { S }$ 其中 $Y _ { \\mathrm { { I I } } }$ 代表额定光强下 PSII的量子效率， $Y _ { \\mathrm { N P Q } }$ 代表可调节性的能量耗散， $Y _ { \\mathrm { N O } }$ 代表不可调节的非光化学猝灭途径的能量耗散,反映光保护能力,因此Lake模型可以很好的评价PSII反应中心的开放程度和天线色素下游调控引起的光化学效率的变化。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关于叶绿素荧光参数对 Pb 胁迫的响应,在农作物、草本、木本植物上已经有了充分的研究报道[1,17-19]但都采用Puddle 模型的叶绿素荧光参数进行分析。由于Lake模型中的叶绿素荧光参数在描述额定光强下光系统中能量平衡和分配状况以及植物应对过高激发能量的能力上更具优势,并且,Lake模型独立计算出的PSII量子效率( $\\vert Y _ { \\mathrm { I I } } \\rangle$ 与基于Puddle 模型计算得出的 PSII实际光化学效率( $\\dot { Y } _ { \\mathrm { P S I I } } \\dot { } .$ )是一致的[20]。因此,有研究将Lake 模型运用于农作物耐旱性[20] 光驯化[21]和光抑制[2]的研究中,那么能否将Lake模型用于快速评价重金属Pb 胁迫下木本植物光系统功能的正常运转呢？基于Lake计算出的叶绿素荧光参数在Pb胁迫下的木本植物中又有怎样的变化特征？为此,本论文以我国南方常见的常绿阔叶树木荷（Schima superba）和落叶阔叶树栾树（Koelreuteria paniculata)1年生幼树为目标树种,其中,栾树对铅有一定耐性[23-24]、木荷对铅耐性不强[25-26],两者都为阳性树种,喜光,适宜在亚热带地区生长。试验采用盆栽试验方法,人工配制土壤Pb 污染的3个浓度梯度水平( $\\mathrm { L } 1 { < } \\mathrm { L } 2 { < } \\mathrm { L } 3$ ),研究两种对Pb有不同抗性的树种在Pb胁迫下基于Lake模型的叶绿素荧光参数在不同光合有效辐射(PAR)下的动态变化特征,揭示额定光强下光合电子传递链中能量分配对 Pb 胁迫的响应,从光合活性和光保护能力的角度对栾树和木荷抗Pb能力进行评价,并为Pb胁迫下的木本植物的耐性提供诊断指标和依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 供试材料",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.1 供试苗木 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "供试植物选用木荷和栾树,生长状态基本一致,均为1年生容器苗。苗高（栾树 $8 4 . 1 \\mathrm { c m }$ 左右；木荷15.9cm左右）地径(栾树 $7 . 3 \\mathrm { c m }$ 左右;木荷 $3 . 3 4 \\mathrm { c m }$ 左右）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.2 供试土壤 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "均采自于中南林业科技大学校园内 $1 0 { - } 2 0 \\mathrm { c m }$ 表层土,土壤 $\\mathrm { \\ p H }$ 值为5.17,土壤全C、全N、全P和Pb含量分别为12.13、0.24、0.16、0.02g/kg。 >",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.3 试剂",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用纯度为 $9 9 \\%$ 的 $\\mathrm { P b C l } _ { 2 }$ 分析纯试剂。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.4 试验地",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "中南林业科技大学西园温室。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 苗木栽植 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取回来的土壤经自然风干后，过 $5 \\mathrm { m m } \\times 5 \\mathrm { m m }$ 筛,去除石头等杂物,装人塑料花盆（上口径 $3 0 \\mathrm { c m }$ 、下口径$2 3 \\mathrm { c m }$ 高 $2 6 \\mathrm { c m }$ )，每盆中风干土重 $9 \\mathrm { k g }$ ,待用;将试验苗木移载到盆中,每盆1株。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 土壤处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "待苗木生长稳定后（约2个月）,进行Pb 污染处理，将 $\\mathrm { P b } \\mathrm { C l } _ { 2 }$ 分析纯试剂折合成每盆土中所需 $\\mathrm { P b C l } _ { 2 }$ 的量，设置3个浓度梯度（以纯金属质量计算）[27-29],以不加重金属为对照（CK),见表1,将 $\\mathrm { P b C l } _ { 2 }$ 配成水溶液,按比例一次性均匀喷施到盆栽土壤中(未喷洒到植物表面且没有渗出液)。每个Pb 处理浓度选择植株长势均匀一致的3盆作为重复,对照为3盆,共24盆。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 盆栽管理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "苗木移栽后，将所有盆栽搬进温室内，每隔2—3d用等量( $4 0 0 \\mathrm { m L }$ )纯水进行浇灌，避免水从盆底渗出，浇灌时以植物为中心,缓慢均匀的浇灌。温室内白天/夜晚温度为 $2 8 ^ { \\circ } \\mathrm { C } / 2 0 ^ { \\circ } \\mathrm { C }$ ,湿度为 $6 0 \\%$ 一 $7 0 \\%$ ,定期对所有盆栽进行锄草,松土等管理措施。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/1ec3b45e762d9c3f10f8c82ef7e8d9d186b3aaaf2781d932ec16807d33d66648.jpg",
+        "table_caption": [
+            "表1试验土壤Pb 浓度水平/( $\\mathrm { \\ m g / k g }$ ）",
+            "Table 1 The Pb treatment level of experimental soil "
+        ],
+        "table_footnote": [
+            "L1:土壤中Pb浓度为 $5 0 0 \\mathrm { m g / k g }$ ,Soil Pb concentration of $5 0 0 \\mathrm { m g / k g } ; \\mathrm { L 2 }$ :土壤中 Pb 浓度为 $6 0 0 \\mathrm { m g / k g }$ ,Soil $\\mathrm { P b }$ concentration of $6 0 0 \\mathrm { m g } / \\mathrm { k g } ; \\mathrm { L } 3$ ：土壤中Pb 浓度为 $9 0 0 \\mathrm { m g / k g }$ ,Soil $\\mathrm { P b }$ concentration of $9 0 0 \\mathrm { m g / k g }$ （204号"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">试验设置 Test set</td><td colspan=\"3\">处理水平 Different treatment</td><td rowspan=\"2\">GB15618-2008《土壤环境质量标准》 三级标准</td></tr><tr><td>L1</td><td>L2</td><td>L3</td></tr><tr><td>对照（本底值）Control（Background value）</td><td>0.02</td><td>0.02</td><td>0.02</td><td>1</td></tr><tr><td>Pb 处理Pb treatment</td><td>500</td><td>600</td><td>900</td><td>≤500</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3叶绿素荧光参数和最大净光合参数的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用便携式脉冲调制叶绿素荧光仪（Mini-PAM,德国WALZ)。测定时间为Pb 污染处理后的第15天,每种树在3个Pb处理组和对照组(CK)各选取3盆盆栽,每盆选取长势相同且完全展开叶3片,进行荧光诱导动力学参数测量,测定时间为7：30—11;30。测定方法为：先将叶片暗适应 $2 0 \\mathrm { { m i n } }$ ,获得 $\\boldsymbol { F } _ { 0 }$ （初始荧光）和 $F m$ （最大荧光)。利用Mini-PAM测定样品的快速光响应曲线时,设置光化光强度为1、光化光持续时间为 $4 0 \\mathrm { s }$ 、",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "光合有效辐射(PAR)强度分别为 $0 , 1 0 5 , 2 3 7 , 3 4 9 , 5 5 3 , 7 9 6 , 1 1 2 9 \\mathrm { { \\mu m o l } ~ m ^ { - 2 } ~ s ^ { - 1 } }$ ,得到 $F s$ (稳态荧光）和 $F m ^ { \\prime }$ （稳态最大荧光)。基于Lake 模型的叶绿素荧光参数,可以根据 Kramer[16]等计算公式得出：PSII量子效率 $\\begin{array} { r } { Y _ { \\mathrm { { I I } } } = } \\end{array}$ （204号 $( F m ^ { \\prime } { - } F s ) / F m ^ { \\prime }$ ;光化学猝灭 $q L = ( F o ^ { \\prime } / F s ) ( F m ^ { \\prime } - F s ) / ( F m ^ { \\prime } - F o ^ { \\prime } )$ ;非调节性能量耗散 $Y _ { \\mathrm { { N o } } } = 1 / ( \\mathrm { { N P Q + 1 + } } q L$ （20 $\\left( \\ F m / F o { - } 1 \\right)$ ),其中 $\\mathrm { N P Q } = F m / F m ^ { \\prime } - 1$ ;可调节性能量耗散 $Y _ { \\mathrm { { N P Q } } } = 1 - Y _ { \\mathrm { { I I } } } - Y _ { \\mathrm { { N 0 } } }$ ;相对电子传递速率 $\\mathrm { { r E T R } = \\mathrm { { P A R } \\times } }$ $0 . 8 4 { \\times } 0 . 5 { \\times } Y _ { \\mathrm { { I I } } }$ ,其中,0.84为经验性吸光系数,0.5为假设天线色素吸收的光能被两个光系统平均分配[30];最大光化学效率 $F v / F m = ( F m - F o ) / F m ,$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "植物最大净光合速率 $( P n )$ 的测定采用Li-6400（Licor，USA)光合仪的 $2 \\mathrm { c m } \\times 3 \\mathrm { c m }$ 标准叶室进行。测定时间为 $\\mathrm { P b }$ 污染处理后的第15天，每种树在3个 $\\mathrm { P b }$ 处理组和对照组各选取3盆盆栽，每盆选取长势相同的完全展开叶3片,测量时间为9:00—11:00。人工设定光强为 $1 0 0 0 \\mu \\mathrm { m o l } \\ \\mathrm { m } ^ { - 2 } \\ \\mathrm { s } ^ { - 1 }$ ,叶室空气温度测定控制在 $2 5 -$ $3 0 \\%$ ,叶室空气湿度控制在 $4 0 \\% - 6 0 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4数据处理与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "使用Excel2013和Origin 8进行数据处理,所有结果为3次重复数据的均值,利用 SPSS 20.0对不同 $\\mathrm { P b } ^ { 2 + }$ 浓度及不同树种之间植物叶片叶绿素荧光参数进行单因素方差方析,并采用 Duncan 进行多重比较分析,显著性水平为 $\\scriptstyle P < 0 . 0 5$ 。图表制作由 Sigmaplot12.5软件完成。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1Pb 胁迫下叶片rETR、 $Y _ { \\mathrm { I I } }$ 的光响应",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图1所示,两种供试植物叶片相对电子传递速率(rETR)在对照组和Pb 处理组均随着PAR的升高而升高,但上升幅度随着 $\\mathrm { P b } ^ { 2 + }$ 胁迫程度的增加而减小。3个不同Pb 处理浓度下的rETR在不同光强下,两种供试植物的rETR均表现为 $\\mathrm { P b }$ 处理 $<$ 对照。对于栾树，当PAR小于 $3 4 9 \\mu \\mathrm { m o l } \\ \\mathrm { m } ^ { - 2 } \\ \\mathrm { s } ^ { - 1 }$ 时,L1 和L2 两个浓度间的rETR无显著差异( $P { > } 0 . 0 5 )$ ;当PAR大于 $3 4 9 \\mu \\mathrm { m o l } \\ \\mathrm { m } ^ { - 2 } \\mathrm { s } ^ { - 1 }$ 时，L2显著低于L1( $P { < } 0 . 0 5 )$ ;在L3 浓度下,栾树叶片的rETR在任意PAR下均显著低于前两个处理浓度( $_ { | P < 0 . 0 5 ) }$ ,且在 $5 5 3 \\mu \\mathrm { m o l } \\textrm { m } ^ { - 2 } \\textrm { s } ^ { - 1 }$ 的光强下出现峰值。而对于木荷,当PAR 大于 $1 0 5 \\mu \\mathrm { m o l } \\ \\mathrm { m } ^ { - 2 }$ s时,L2 浓度下的rETR显著低于I $. 1 ( P { < } 0 . 0 5 )$ ;在L3 浓度下,木荷叶片的rETR出现了大幅度的下降，与前两个浓度相比，差异性显著( $\\scriptstyle P < 0 . 0 5 { \\mathrm { ~ , ~ } }$ );L1和L2两个浓度间的rETR在$7 9 6 \\mu \\mathrm { m o l } \\ \\mathrm { m } ^ { - 2 } \\ \\mathrm { s } ^ { - 1 }$ 的光强下出现峰值,而在L3处理浓度下,rETR的峰值出现在光强为 $5 5 3 \\mu \\mathrm { m o l } \\ \\mathrm { m } ^ { - 2 } \\ \\mathrm { s } ^ { - 1 }$ 时。说明Pb 胁迫会抑制植物叶片相对电子传递速率,并随着 $\\mathrm { P b }$ 胁迫浓度的增加，光抑制现象会随PAR的升高提早出现。 _5",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6141297e4b0b261a21996a5962b3f6aef2e3d6afb1866390315fc22c306096d3.jpg",
+        "img_caption": [
+            "图1Pb胁迫对栾树、木荷叶片rETR的影响",
+            "Fig.1Response of rETR in the leaves of $\\pmb { K }$ 、paniculata,S.superba Gardn.to $\\mathbf { P b ^ { 2 + } }$ stress "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1;土壤中Pb 浓度为 $5 0 0 \\mathrm { m g / k g }$ ,Soil $\\mathrm { P b }$ concentration of $5 0 0 \\mathrm { m g / k g } ; \\mathrm { L 2 }$ ：土壤中 $\\mathrm { P b }$ 浓度为 $6 0 0 \\mathrm { { m g / k g } }$ ,Soil $\\mathrm { P b }$ concentration of $6 0 0 \\mathrm { m g / k g }$ ;L3：土 襄中 Pb 浓度为 $9 0 0 \\mathrm { m g / k g }$ ,Soil $\\mathrm { P b }$ concentration of $9 0 0 \\mathrm { m g / k g }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图2可以看出，两个供试植物叶片 $Y _ { \\mathrm { { I I } } }$ ,无论是在对照和还是 $\\mathrm { P b }$ 处理下,都随着光强的增加而降低。不同Pb处理浓度后的 $Y _ { \\mathrm { I I } }$ 与对照相比，在各个光强下均表现为 $\\mathrm { P b }$ 处理 $\\angle$ 对照，且差异性显著( $P { < } 0 . 0 5 )$ 。栾树在L1 和L2两个浓度, $Y _ { \\mathrm { I I } }$ 下降的差异性不显著( $P { > } 0 . 0 5 )$ ，而在L3处理后，显著低于前两个处理浓度( $P { < } 0 . 0 5 )$ 。木荷在3个不同浓度的 $\\mathrm { P b }$ 处理后,与对照相比, $Y _ { \\mathrm { { I I } } }$ 下降幅度表现为： $_ { \\mathrm { L } 3 > \\mathrm { L } 2 > \\mathrm { L } 1 }$ ,且差异性显著( $P { < } 0 . 0 5 )$ 。通过方差分析两种供试植物在不同处理下的 $Y _ { \\mathrm { { I I } } }$ ,我们得出,在L1浓度时,栾树的 $Y _ { \\mathrm { I I } }$ 低于木荷且差异性显著（P=0.048);在L2 浓度下,二者大小相当；而在L3 浓度则相反,说明在低浓度 $\\mathrm { P b }$ 胁迫下,木荷的光反应中心的非环式电子传递效率高于栾树,随着Pb 胁迫程度的加大,相对于木荷,栾树还能保持较高的非环式电子传递效率。 八)",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7bb8e69849cfc0ae71cacb2e7fb6e8d2bc128aad8ca3b5bb9351abbbdc62befc.jpg",
+        "img_caption": [
+            "Fig.2 Response of $Y _ { \\mathrm { { I I } } }$ in the leaves of K.paniculata，S.superba Gardn to $\\mathbf { P b ^ { 2 + } }$ stress "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2Pb 胁迫下叶片 $q L , Y _ { \\mathrm { { N P Q } } } , Y _ { \\mathrm { { N 0 } } }$ 的光响应",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图3所示,两个供试植物叶片 $q L$ ,无论是在对照和还是Pb处理下,都随着光强的增加而降低。不同 Pb处理浓度后的 $q L$ 与对照相比,在各个光强下均表现为Pb 处理<对照;在3个浓度的 $\\mathrm { P b }$ 处理后，与对照相比,栾树的 $q L$ 下降幅度表现为:L1和L2 处理后下降幅度相当,L3 处理后降幅大于L1和L2两个浓度,且差异性显著( $\\scriptstyle \\left( P < 0 . 0 5 \\right)$ ;木荷则表现为：L1处理后下降幅度不大,L3处理后的下降幅度大于L2处理,且差异性显著（ $_ { _ { P < 0 . 0 5 ) } }$ 。方差分析表明,在L1处理下,木荷稍高于栾树;在L2 和L3 处理下,则表现为栾树 $\\mathrm { \\dot { ~ } } >$ 木荷,且差异性显著（在L2和L3梯度下， $P$ 值分别为0.044 和0.009）。这说明木荷在低浓度Pb 胁迫下,PSII反应中心的开放程度能保持在较高水准，随着处理浓度的增大，其光能转化能力弱于栾树。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/dc2cff9d4f9655a9d2663e9afba459d4f8107ee96baf2be09f7b3625d1227d1a.jpg",
+        "img_caption": [
+            "图2Pb 胁迫对栾树、木荷叶片 $Y _ { \\mathrm { { I I } } }$ 的影响",
+            "图3Pb 胁迫对栾树、木荷叶片 $q L$ 的影响",
+            "Fig.3Response of qL in the leaves of K.paniculata,S.superba Gardn to $\\mathbf { P b ^ { 2 + } }$ stress "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图4所示,两个供试植物叶片的 $Y _ { \\mathrm { N P Q } }$ 无论是在对照和还是Pb 处理下,都随着光强的升高而增加。在3个不同 $\\mathrm { P b }$ 浓度下,栾树 $Y _ { \\mathrm { N P Q } }$ 均表现为 $\\mathrm { P b }$ 处理 $>$ 对照，且差异性显著( $\\scriptstyle \\left( P < 0 . 0 5 \\right)$ ；当PAR大于 $3 4 9 \\mu \\mathrm { m o l } \\ \\mathrm { m } ^ { - 2 } \\ \\mathrm { s } ^ { - 1 }$ 时，栾树叶片的 $Y _ { \\mathrm { N P Q } }$ 随 $\\mathrm { P b }$ 浓度的增大而增加。木荷叶片的 $Y _ { \\mathrm { N P Q } }$ 在L1浓度处理后，与对照相比变化不大，L2处理后较对照略有升高，L3处理后出现较大幅度上升，且显著高于对照( $_ { _ { P < 0 . 0 5 ) } }$ 。通过方差分析得出：在L1和L2 处理下,栾树的 $Y _ { \\mathrm { N P Q } }$ 显著高于木荷( $P$ 值分别为 $0 . 0 4 7 . 0 . 0 3 4 )$ ,虽然木荷在L3 处理下 $Y _ { \\mathrm { N P Q } }$ 大幅度升高,但其值仍显著低于栾树( $P { = } 0 . 0 3 1 \\cdot$ ），这说明栾树对 $\\mathrm { P b }$ 胁迫的反应速率和通过自身调节能量耗散的能力均高于木荷。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3551d9fcdea02a76141d72bb1bec381b4f1301c14f81f36f244ac59a4199b136.jpg",
+        "img_caption": [
+            "Fig.4 Response of $Y _ { \\mathrm { N P Q } }$ in the leaves of K. paniculata， S. superba Gardn to Pb²+ stress "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图5所示，不同浓度的Pb胁迫下两种植物的非调节性能量耗散( $Y _ { \\mathrm { N O } }$ )随光强的增加无明显变化,但同一光强作用下,各处理间存在差异,均表现为Pb 处理>对照,栾树在L1和L2 处理后的 $\\boldsymbol { Y } _ { \\mathrm { N o } }$ 略高于对照,在L3 处理后，显著高于对照( $P { < } 0 . 0 5 )$ ;木荷的 $\\boldsymbol { Y } _ { \\mathrm { N o } }$ 上升幅度则表现为： $_ { \\mathrm { L } 3 > \\mathrm { L } 2 > \\mathrm { L } 1 }$ ,均存在显著性( $P { < } 0 . 0 5 )$ 。通过方差分析得出：在每一个处理浓度下，木荷的 $\\overline { { Y _ { \\mathrm { N O } } } }$ 均显著高于栾树( $P$ 值分别为： $0 . 0 0 9 , 0 . 0 0 4 , 0 . 0 0 6 )$ ,说明木荷要通过非调节性能量耗散来消耗更多能量，其可调节性能量耗散的能力低于栾树，同时也说明木荷的光保护能力低于栾树。 1 1",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d604da34b803268889e069a831661cbfcae9fa5e479bb86ad39a0040d487d186.jpg",
+        "img_caption": [
+            "图4Pb 胁迫对栾树、木荷叶片 $\\overline { { Y _ { \\mathrm { { N P Q } } } } }$ 的影响",
+            "图5Pb 胁迫对栾树、木荷叶片 $\\bf { \\delta } \\mathrm { { { Y } _ { N o } } }$ 的影响",
+            "Fig.5Response of $Y _ { \\mathbf { N O } }$ in the leaves of $\\pmb { K }$ ，paniculata,S.superba Gardn to $\\mathbf { P b ^ { 2 + } }$ stress "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3 Pb 胁迫下叶片 $F v / F m$ 和 $P n$ 的响应",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "最大光化学效率 $F v / F m$ 可反映PSII反应中心捕获激发能的效率与利用能力。如表2所示，在 $\\mathrm { P b }$ 处理后,两种供试植物的 $F v / F m$ 均低于对照,且随着处理浓度的增加呈下降趋势。其中，栾树的 $F v / F m$ 在L3处理后下降显著低于对照;木荷在不同 $\\mathrm { P b }$ 处理后，下降幅度表现为： $_ { \\mathrm { L } 3 > \\mathrm { L } 2 > \\mathrm { L } 1 }$ ,均显著低于对照( $\\scriptstyle \\cdot { P < 0 . 0 5 } )$ ，且",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "降幅均高于栾树。通过方差分析可以得出：在不同的处理浓度下，栾树的 $F v / F m$ 均显著高于木荷 ( $P$ 值分别为： $0 . 0 4 2 , 0 . 0 2 7 , 0 . 0 0 8 )$ ,说明随着Pb 处理浓度的加大,对树种 PSII反应中心的损伤越大,同时也说明了栾树较木荷而言在 $\\mathrm { P b }$ 处理下能维持较强的光化学活性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对两种供试植物最大净光合速率 $( P n )$ 的研究中看出（表2），两种供试植物的 $P n$ 在 $\\mathrm { P b }$ 处理后，均显著低于对照( $P { < } 0 . 0 5 )$ ,且随着处理浓度的增加均呈下降趋势。通过方差分析可以得出：在L1处理下,二者的 Pn没有差异性( $P { = } 0 . 1 7 5$ ),但在L2、L3 处理下,均表现为栾树 $>$ 木荷,且差异性显著( $P$ 值分别0.032、0.005）。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/e34c86f0c491bc309facda5db11aa4425aa67fc169c8bcd6209882f9c561adda.jpg",
+        "table_caption": [
+            "表2Pb 胁迫对栾树、木荷叶片最大光能利用率( $F v / F m )$ 、最大净光合速率 $( P n )$ 的影响",
+            "Table 2Response of the maximum quantum use efficiency $( F v / F m )$ 、the maximum net photosynthetic rate ( $\\cdot P n$ ) in the leaves of K. paniculata S.superba Gardn to $\\mathbf { P b } ^ { 2 + }$ stress "
+        ],
+        "table_footnote": [
+            "数据为平均数 $\\cdot \\pm { }$ 标准误差,同列数据中不同小写字母表示Pb处理与对照之间的差异达显著水平( $\\scriptstyle P = 0 . 0 5$ );同行数据中不同大写字母表示同一处理梯度下,不同树种的差异达显著水平( $P = 0 . 0 5$ ） O"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">试验设置 Test set</td><td colspan=\"2\">Fv/Fm The maximum quantum use efficiency</td><td rowspan=\"3\">试验设置 Test set</td><td colspan=\"2\">Pn The maximum net photosynthetic rate</td></tr><tr><td>栾树 K. paniculata</td><td>木荷 S. superba Gardn</td><td>栾树</td><td>木荷</td></tr><tr><td>CK</td><td>0.81±0.076Aa</td><td>0.78±0.058Aa</td><td>CK</td><td>K. paniculata 7.51±0.091Aa</td><td>S. superba Gardn 8.12±0.134Aa</td></tr><tr><td>L1</td><td>0.73±0.057Aa</td><td>0.63±0.107Bb</td><td>L1</td><td>5.92±0.124Ab</td><td>5.78±0.125Ab</td></tr><tr><td>L2</td><td>0.65±0.084Aa</td><td>0.51±0.085Bc</td><td>L2</td><td>4.57±0.108Ac</td><td>3.24±0.111Bc</td></tr><tr><td>L3</td><td>0.57±0.091Ab</td><td>0.39±0.052Bd</td><td>L3</td><td>3.51±0.154Ad</td><td>2.28±0.098Bd</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "生物或非生物胁迫对植物光合作用各过程产生的影响都可通过叶片叶绿素荧光诱导动力学参数的变化反映出来[31]。光合作用反应中心PSII在胁迫条件下出现可逆性的失活或不可逆的伤害,使光合原初反应过程受阻,降低原初光能转换效率[32-33],从而对光合反应机构产生严重的光抑制,极大地减弱电子传递的活性,最终导致植物对碳固定和同化效率的降低338]。本文通过对基于Lake模型的叶绿素荧光参数的研究发现，与对照相比,在3个不同Pb 处理浓度下,栾树和木荷幼树叶片 $\\mathrm { r E T R } \\ 、 Y _ { \\mathrm { I I } \\setminus q { \\cal L } }$ 均出现了不同程度的降低,这表明Pb 胁迫导致PSII开放反应中心开放程度减少,引起 PSII有效光量子产量的下降,从而导致光合电子传递效率的明显降低,电子传递过程明显受到抑制,这会阻止ATP 和NADPH的形成,降低栾树和木荷碳的固定和同化量[37-38],使最大净光合速率 $( P n$ )减小。同时,PSII的活性是通过叶片内D1蛋白不断地降解和重新合成来维持,由于植物在胁迫条件下,这种平衡会被打破,阻碍了PSII活性的修复,最终通过电子传递速率的抑制来体现[39-41],这也进一步印证了本文对 $\\mathrm { P b }$ 胁迫造成两种供试植物rETR 和 $Y _ { \\mathrm { I I } }$ 下降的结果。另外,在本研究中,随着PAR的升高，在L1浓度下, $Y _ { \\mathrm { I I } }$ 和 $q L$ 在两个树种上的降幅表现为：栾树 $>$ 木荷,这说明在低浓度 $\\mathrm { P b }$ 胁迫下,木荷的非环式电子传递效率、光能转化能力高于栾树,随着 $\\mathrm { P b }$ 胁迫浓度的升高,在L2、L3 浓度下,木荷的 $Y _ { \\mathrm { H } } \\mathcal { O } L$ 较栾树相比出现大幅度的下降,且同光强下，木荷 $Y _ { \\mathrm { I I } }$ 和 $q L$ 的值低于栾树;同时， $\\mathrm { P b } ^ { 2 + }$ 胁迫引起的rETR的下降是由于线性电子传递受阻所致,栾树幼树叶片rETR在L1、L2、L3浓度下与对照相比,降幅分别在 $1 6 \\%$ 一 $2 7 \\%$ ， $2 7 \\%$ 一 $3 1 \\%$ $3 5 \\%$ 一 $6 5 \\%$ 之间,而木荷幼树叶片rETR 为： $1 9 \\%$ 一 $2 0 \\%$ ） $2 8 \\%$ 一 $4 1 \\%$ ， $6 2 \\%$ 1 $8 2 \\%$ 之间,对比二者不同 $\\mathrm { P b }$ 处理浓度后的下降幅度可以发现,rETR的下降幅度与 $Y _ { \\mathrm { I I } }$ 和 $q L$ 所表现出来的规律一致,这表明了当土壤中Pb 浓度超过《土壤环境质量标准》中三级标准( $> 5 0 0 \\mathrm { m g / k g } \\rangle$ 时,栾树幼树叶片比木荷幼树叶片有更高的 PSII 活性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由于在不同的PAR下,PSII反应中心的氧化和还原处于不同的动态平衡中[20],因此, $Y _ { \\mathrm { I I } } \\ 、 \\mathrm { r E T R }$ 的下降必然会对 PSI反应中心的能量分配有影响。本文通过对基于Lake模型的叶绿素荧光参数的研究发现， $\\mathrm { P b }$ 胁迫导致两种植物随着PAR的升高， $Y _ { \\mathrm { { I I } } }$ 和qL 和对照相比均呈下降趋势,根据Lake 模型我们不难得出， $\\mathrm { P b }$ 胁迫下的 $Y _ { \\mathrm { N P Q } }$ 和 $Y _ { \\mathrm { N O } }$ 较对照而言,会呈升高趋势,这与我们的试验结果一致。其中, $Y _ { \\mathrm { N O } }$ 的变化趋势只受不同Pb 胁迫程度的影响,对光强的反应不敏感。 $Y _ { \\mathrm { I I } \\setminus { q L } }$ 和 $Y _ { \\mathrm { N P Q } }$ 的变化趋势与很多在Pb 胁迫下基于Puddle 模型的ETR、$\\mathrm { \\Phi ^ { q P } }$ 和 NPQ的研究报道变化一致。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "不同PAR下， $\\mathrm { P b }$ 胁迫对栾树和木荷幼树叶片光系统中能量平衡和分配状况存在不同的影响。在不同$\\mathrm { P b }$ 处理下,两种幼树叶片的 $Y _ { \\mathrm { N P Q } }$ ,均高于对照,表明两种幼树光保护机制已启动,在L1梯度下栾树 $Y _ { \\mathrm { N P Q } }$ 的上升幅度显著高于木荷( $P { < } 0 . 0 5 )$ ,这说明栾树对Pb 胁迫比木荷敏感(应激反应比木荷早出现)。在L2、L3 梯度下,栾树 $Y _ { \\mathrm { N P Q } }$ 与L1 梯度下相比变化不大,木荷虽然在L3 处理后有大幅度上升,但同光强下的值小于栾树,说明栾树比木荷具有更强的抗 $\\mathrm { P b }$ 胁迫性,这与栾树具有更强的调节性能量耗散能力有密不可分的关系,加上栾树 $Y _ { \\mathrm { N O } }$ 只在L3 处理后有明显的上升,且在每一个不同Pb 胁迫梯度下,木荷的 $Y _ { \\mathrm { N O } }$ 均显著高于栾树（P<0.05）,这表明了栾树的光保护能力比木荷更高,也进一步说明了栾树幼树比木木荷幼树耐 $\\mathrm { P b }$ 能力强，同时也反映了在L3处理下栾树叶片对 Pb 胁迫的响应已经由应激反应向生理损伤过渡。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "上文中两种木本植物随着 $\\mathrm { P b }$ 胁迫浓度的增加,rETR 随 $P A R$ 的增加出现峰值,表明在Pb胁迫下光抑制现象会随PAR的升高提早出现,光抑制的出现往往是在植物受到超过自身光饱和点的光强照射时,但是本研究所用的栾树和木荷幼苗光饱和点[42-44]通常是在1141— $1 7 1 1 \\mu \\mathrm { m o l } \\ \\mathrm { m } ^ { - 2 }$ s1和 $1 3 6 6 {  { - } } 1 6 1 6 {  { \\mu } } { \\bmod { \\mathrm { ~ m } } } ^ { - 2 } { \\mathrm { ~ s } } ^ { - 1 }$ ,本试验中采用的最大光强为 $1 1 2 9 \\mu \\mathrm { m o l } \\ \\mathrm { m } ^ { - 2 } \\ \\mathrm { s } ^ { - 1 }$ ,未达到植物正常情况下的光饱和点,造成这种现象的原因,可能是由于供试植物在受到Pb 胁迫时,会产生过多的活性氧( $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 、HO)[45-46],高浓度的活性氧会对植物造成氧化伤害[47-48],随着 Pb 胁迫的加重,使 D1蛋白净降解增加,阻碍 PSII活性的修复,从而加剧光抑制[46]。同时,本研究对 $F v / F m$ 和 $Y _ { \\mathrm { N O } }$ 的研究表明,两种供试植物在 $\\mathrm { P b }$ 胁迫下 $F v \\mathcal { L } F m$ 下降的同时伴随着 $Y _ { \\mathrm { N O } }$ 的上升,说明高光强下,光反应的能量过多使PSII反应中心钝化,由此导致的光抑制现象是Pb 胁迫造成光系统损伤的原因,这也为PSII反应中心遭受破坏提供了佐证。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "通过上述Pb 胁迫下两种植物能量分配响应分析,本研究倾向于将 $Y _ { \\mathrm { N P Q } }$ 和 $Y _ { \\mathrm { N O } }$ 作为Pb 胁迫的诊断及耐 Pb性评价指标,因为 $Y _ { \\mathrm { N P Q } }$ 可作为衡量 $\\mathrm { P b }$ 胁迫下木本植物幼树叶片光保护能力强弱的指标,以上分析已证明,对Pb 抗性强的品种其具有较高的光保护能力（栾树 $\\gamma _ { _ { \\mathrm { N P Q } } } >$ 木荷 $Y _ { \\mathrm { N P Q } }$ ）。同时， $Y _ { \\mathrm { N O } }$ 在不同 PAR下几乎无变化,只受 Pb 胁迫浓度的影响,因此,也可以将 $\\sqrt { \\phantom { _ { N O } ^ { ' } } }$ 作为植物Pb 胁迫的诊断指标。虽然两种木本植物在不同浓度的$\\mathrm { P b }$ 胁迫下， $Y _ { \\mathrm { I I } }$ 均有不同的变化趋势，但本研究未将其作为木本植物抗 $\\mathrm { P b }$ 胁迫的诊断和抗性指标,究其原因，是因为在光合作用的过程中存在很多电子传递的途径[49],而且 $Y _ { \\mathrm { { I I } } }$ 受PAR 影响较大,因此不适合作为Pb 胁迫的诊断指标。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1］环境保护部，国土资源部.全国土壤污染状况调查公报.中国环保产业,2014，（5）：10-11.  \n[2]HerandezL，ProbstAProbstJL,UrichE.HeavyetaldistibutioninoeFrenchforestoilsevidenceforatmosphericcotaatioScience of the Total Environment,2003,312(1/3）:195-219.  \n[3］丁园，余小芬，赵帼平，张奕飞，孙楠，杜有新．庐山不同海拔森林土壤中重金属含量分析.环境科学与技术，2013,36(6)：191-194.  \n[4] 宁晓波，项文化，方晰，闫文德，邓湘雯.贵阳花溪区石灰土林地土壤重金属含量特征及其污染评价.生态学报，2009，29（4)：2169-2177.  \n5 ZengLS,LiaoM,henCL，HuangCectsofleadotamnationonolenzaticacties，microbalioass，ndriceiolgicalindicesinsoil-lead-rice（Oryza sativa L.）system.Ecotoxicologyand Environmental Safety,20o7,67(1）:67-74.YangX,LiuZngengSftsof,ncdadoslactiJualofvioetal18(6) : 1135-1141.QiaoXQ,SiGJanXuJiolocaldicalspesdedbydstresodelaltGrowth Regulation,2012,67(3）：217-225.  \n[8］明华，曹莹，胡春胜，张玉铭，程一松.铅胁迫对玉米光合特性及产量的影响.玉米科学，2008，16(1)：74-78.  \n[9] 雷冬梅，段昌群，何锋，宋春敬.不同蚕豆品种对铅污染的光合生理响应特征.应用生态学报，2006，17(6)：1095-1098.  \n[10］李勇，黄占斌，王文萍，黄震，颜丙磊，曹杨，王诗宇.重金属铅镉对玉米生长及土壤微生物的影响.农业环境科学学报,2009,28(11)：2241-2245.  \n[11］姚广，高辉远，王未未，张立涛，部建雯.铅胁迫对玉米幼苗叶片光系统功能及光合作用的影响.生态学报，2009,29（3)：1162-1169.  \n[12] Rashid A,Camm E L,Ekramoddoullah A K M. Molecular mechanism of action of $\\mathrm { P b } ^ { 2 + }$ and $Z \\mathrm { n } ^ { 2 + }$ on water oxidizing complex of photosystem I.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1994，350(2/5）: 296-298.[13]PapageorgiouGC，Govindjee.ChlorophyllAFluorescence：A Signatureof Photosynthesis. Dordrecht： Springer，2004.[14] LavergneJissWforeseiuctioiotosteratiofalaleesosiodelioradical-pairequlibrumandrestrictedenergytransferbetweenphotosyntheticunits.BiophysicalJoural，1995,68（6）：2474-2492.[15]Guo Y,Tan JL.Recent advances in the application of chlorophyll $a$ fluorescence from photosystem II.Photochemistryand Photobiology，2015,91(1) : 1-14.[16] Kramer D M,Johnson G,KiratsO,Edwards GE.New fluorescence parameters for thedeterminationof $\\mathrm { Q _ { A } }$ redox state and excitation energy fluxes.Photosynthesis Research,2004，79(2）:209-218.[17] 王天弘．铅镉污染对互花米草光合作用的影响.安徽农业科学，2013,41（16)：7149-7152，7162-7162.[18] 陈伟.重金属胁迫对草坪草生长发育及生理特性的影响[D].兰州：甘肃农业大学，2014.[19] 王艳，辛士刚，马莲菊，代保清，于龙，王兰兰.翦股颖和高羊茅对铜、铅吸收及耐受性.应用生态学报,2007,18（3)：625-630.[20] 安东升，曹娟，黄小华，周娟，窦美安.基于Lake 模型的叶绿素荧光参数在甘蔗苗期抗旱性研究中的应用.植物生态学报，2015，39(4): 398-406.[21] 韩炜，徐新文,李利，李生宇,罗玉新，周艺，郭灵丽.白榆（Ulmus pumila L.）光驯化后的快速光曲线变化特征.干旱区研究，2010,27(5) : 738-744.[22] 师生波，张怀刚，师瑞，李妙，陈文杰，孙亚男.青藏高原春小麦叶片光合作用的光抑制及PSII反应中心光化学效率的恢复分析.植物生态学报，2014，38(4)：375-386.[23] 吴月燕，陈赛，张燕忠，王列，王忠华.重金属胁迫对5个常绿阔叶树种生理生化特性的影响.核农学报，2009，23（5)：843-852.[24] 陈益泰，施翔，王树凤，李江川，孙宇剑.铅锌尾矿区15种植物的生长及对重金属的吸收积累.林业科学,2012,48（12）：22-30.[25] 王利宝，朱宁华，鄂建华.Pb、Zn 等重金属对樟树、栾树幼苗生长的影响.中南林业科技大学学报，2010,30(2）：44-47.[26] 方晰，田大伦，康文星.湘潭锰矿矿渣废弃地植被修复盆栽试验.中南林业科技大学学报，2007,27(1)：14-19.[27] RileyRG,ZachaaJM,WobberFJ.ChemicalontaminantsonDOElandsndelectionofotamantmituresforsubsurfacesieneeachWashington,D.C.：U.S.Department of Energy，1992.[28] NJDEP，SoilCleapCiteria，ewerseyeparmentofEvioentalProtetionroposdClaupStadardforCotaatedSites，AC726D,1996[29] 孙建德.湖南某铅锌矿区土壤重金属污染及潜在生态风险评价.湖南有色金属，2013，29(4)：57-60.[30] SchreiberU,lceidoflD,Caldwell M M,eds. Ecophysiology of Photosynthesis.Berlin Heidelberg:Springer，1995：49-70.[31] Maxwell K，Johnson GN.Chlorophylfuorescence-a practical guide.Journalof Experimental Botany，2o,1（345）:659-668.[32] 吴韩英，寿森炎，朱祝军，杨信廷.高温胁迫对甜椒光合作用和叶绿素荧光的影响.园艺学报，2001，28(6)：517-521.[33] 孙宪芝，郑成淑，王秀峰.高温胁迫对切花菊‘神马'光合作用与叶绿素荧光的影响.应用生态学报，2008，19（10)：2149-2154.[34] 罗海波，马苓，段伟，李绍华，王利军.高温胁迫对‘赤霞珠'葡萄光合作用的影响.中国农业科学，2010，43（13)：2744-2750.[35] 杨华庚.高温胁迫对蝴蝶兰幼苗叶绿素及其荧光参数的影响.中国农学通报，2012，28（19)：177-183.[36] 叶波，吴永波，邵维，杨静.高温干旱复合胁迫及复水对构树（Brousonetia papyrifera)幼苗光合特性和叶绿素荧光参数的影响.生态学杂志，2014，33(9):2343-2349.[37] 黄磊，姜国斌，朱玉，党承华，王贺新，张运鑫，王利书，李根柱，邹吉祥，郑云普.高温对北高丛蓝莓叶片气体交换及叶绿素荧光参数的影响.生态学杂志，2016，35(4)：871-879.[38] 付忠，谢世清，徐文果，岩所，陈军文.不同光照强度下谢君魔芋的光合作用及能量分配特征.应用生态学报,2016,27(4)：117-188.[39] YamamotoY，akadatioofteaohldgotenotofpotossteIst,34(28) : 9038-9045.[40] BrickerTM，FrankelLK.ThestructureandfunctionofC47andCP43inPhotosystemIPhotosythesisResearch,0,72（）：13-146.[41] NishiyamaYlaverdevSYamamotoH，HayashiH，MurataNingetoxygenbitsterepaiofpotosysteIbysuppingetranslation elongation of the D1 protein in Synechocystis sp.PCC 6803.Biochemistry，2004，43（35）：11321-11330.[42] 张娇，施拥军，朱月清，刘恩斌，李梦，周建平，李建国.浙北地区常见绿化树种光合固碳特征.生态学报，2013，33（6)：1740-1750.[43] 姜霞，张喜，丁海兵.黔中10个树种苗期水分利用效率及光合特性的差异性研究.西部林业科学,2013，42（5）：75-81.[44] 曾伟，熊彩云，肖复明，邱凤英，余林，熊振宇，徐海宁.中亚热带常绿阔叶林优势树种幼树光合特性季节动态.南京林业大学学报：自然科学版，2014，38（5）：157-160.[45] FoyerCH,NctoGasloOyrocssgiotosislaoaliolsto（）：359-388.[46] Takahashi S,MurataN.Howdoenvironmental tresesaceleratephotoihbiion?TrendsinPlantScience,o8，3（4)：78-182.[47] FoyerCH,octorGedoxoeostasisndtioxidantsialing：etaolicefcestssetondiologcalsPlant Cell,2005，17(7)：1866-1875.[48] Van Breusegem F,DatJF.Reactive oxygen species in plant celldeath.Plant Physiology，2006,141（2）：384-390.[49] 许大全.光合作用效率.上海：上海科学技术出版社，2002.",
+        "page_idx": 8
+    }
+]

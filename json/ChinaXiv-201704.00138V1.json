@@ -1,0 +1,550 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201511042234 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "东卓琳,贾丽丽,关文彬.北京西山静福寺地区鸟类多度分布格局.生态学报,2017,37(6);1805-1815.  \nChenZLJiaLaddicta.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "北京西山静福寺地区鸟类多度分布格局",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈卓琳，贾丽丽，关文彬北京林业大学,北京 100083",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要;物种多度格局分析对理解群落结构具有重要意义。采用分割线段模型对北京西山静福寺地区鸟类群落物种数量关系进行拟合研究,并运用秩相关性分析对模型进行相关系数检验,结果表明：(1)该地区鸟类群落多度格局模型与分割线段模型显著相关,利用分割线段模型可以良好的拟合该地区鸟类群落多度格局;(2)鸟类多度分布格局具有时间和空间的双重属性;（3)月尺度上,1月与其他月份差异显著,森林群落间差异不显著;(4)季尺度上,冬季与春、秋两季差异显著,落叶阔叶林与针阔混交林差异显著,针叶林与落叶阔叶林、针阔混交林差异都不显著;(5)年尺度上,年变化差异不显著。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：鸟类群落；多度格局；分割线段模型",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bird abundance distribution patterns of Jing Fu Temple in Beijing Xishan ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CHENZhuolin,JIALili,GUANWenbin BeijingForestry University，Beijing1OoO83，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Theanalysisof speciesabundancepatterns is fundamentaltounderstandcommunity structure.Inthe present paper,the broken stick model，used to describethe relationship between species and abundance，was used to study the quantitativerelationships ofthe birdcommunityof the JingFu templein Beijing Xishan.The model was testedusing a correlationcoeffcient with arank corelationanalysis.Theresultsshowed that：（1）Thebirdcommunitystructureinthis area was significantlycorrelated withthebrokenstick model.The modelcould beused tofitthe paternofbirdcommunity structure wellintheregion.（2）Thepaternofbirdabundance varied temporallyandspatially.（3）Theresultshowed that theabundancepatern inJanuarywas significantlydiferent totheothermonths,andthere wereno significant diferences in forestcommunities monthly.（4）Theabundance patern in winter wassignificantly different from thoseinsprngand autumn，and between between deciduous broad-leavedandconiferous-broadleaved forest，and neitherdeciduous broadleaved norconiferous-broadeavedforestwere significantlydiferent from theconiferous forestseasonally（5）There was no annual significant difference. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words:bird community；abundance pattern；broke stick model ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在生物多样性研究中,除物种多样性指数外,还包括“物种相对多度模型”。该模型是利用数学统计方法描述物种多度的分布[1],也是某些物种多样性指数应用的基础[2-3]。物种的多度格局是由同一群落的多个物种不断相互作用、相互影响的结果,同时也是物种关系和作用机制的表征与体现[46]。如果说,多样性指数是群落结构的数量化表征,那么群落多度格局分析就是对群落性质的进一步阐释,两者相辅相成[3]。多度不仅是确定物种保护等级的基本依据,而且在生物多样性保护和管理上有重要意义。此外,对于认识一个群落而",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "言,多度格局比多样性指数更加直观地体现群落特征[7。为了更好的分析多度格局,研究者根据生态学原理构建了各种关于多度格局的模型[3.8]。例如基于生态位理论的几何级数模型、分割线段模型、重叠生态位模型等[5.9-10]。此外也有用统计模型研究多度格局,例如对数级数模型、对数正态分布模型等,但有些模型的拟合效果虽然很好,但无助于阐释物种的作用过程和群落的装配机制[56]。鸟类研究在保护生态环境和生物多样性等方面发挥着重要作用。我国有丰富的鸟类资源,鸟类物种占世界鸟类物种总数的 $1 3 . 1 \\%$ 。国内外对鸟类群落组成、动态及生物多样性的研究已非常深入。但是,很少有从多度格局角度对鸟类群落进行阐释[1]。西山地区植被丰富,为森林鸟类提供天然栖息地,鸟类物种丰富,目前已有学者对该地鸟类群落的生物多样性和种间联结进行研究[12-13]。本研究将从多度格局的角度,应用多度格局模型,对北京西山静福寺地区鸟类群落多度格局进行研究，为研究和保护鸟类物种多样性提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究地概况与鸟类调查方法参见文献[12-13]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 物种多度指标的选用",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "多度的测度分为绝对多度和相对多度。绝对多度是指群落中物种种数、频度等指标的绝对值；相对多度是指物种对群落总多度的贡献大小,或称为相对重要性百分率[1415],同样可以用来拟合各物种多度模型[16-18]。May 提出不同种的相对多度是群落模式的一个更为技术性的方面[19]。因此本文采用相对多度为指标来拟合鸟类多度分布。观测数据鸟类物种相对多度 $A$ 为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA = N / n \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中，A为物种 $\\mathbf { \\alpha } _ { a }$ 的多度， $N$ 为物种 $\\mathbf { \\alpha } _ { a }$ 的个体数， $n$ 为样点中总个体数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2常用的多度格局模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "常用的多度格局模型可以划分为两类：统计类模型(如对数正态模型和对数级数模型等)和生态位模型（如几何级数模型-生态位优先占领假说和分割线段模型-随机生态位假说）[3]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对数正态模型是Preston[20]引入物种多度研究的对数正态分布形式：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { ( R ) } = S _ { 0 } \\mathrm { e x p ~ ( } - \\lambda ^ { 2 } R ^ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $S _ { ( R ) }$ 为第 $R$ 个倍程物种的数量； $S _ { 0 }$ 为模拟模型中的总物种数的估计值; $\\lambda$ 为正态分布曲线的宽度的倒数，是一个参数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对数级数模型是Fisher 等在研究昆虫物种多度分布时提出的[21],这一模型对有 $\\boldsymbol { r }$ 个个体的中的频率预测为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { r } = a \\frac { x ^ { r } } { r } ( r = 1 , 2 , 3 , 4 , \\cdots )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\alpha$ 代表了群落的特点,反映群落的多样性; $x$ 是一个与调查样方有关的参数,其值与样方大小有关。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "几何级数模型又称生态位优先模型,最早是由 Motomura 在 1932 年提出的,后经 Whittake[2-23]研究后才逐渐完善。模型中第 $i$ 个种的多度所占比例期望值 $\\boldsymbol { P } _ { i }$ 为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { i } = K \\times ( 1 - K ) ^ { i - 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $i$ 为观察群落的物种数； $K$ 对于每个群落是一定值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "分割线段模型又称随机生态位假说,是 MacAthur在研究鸟类物种多度分布时提出的[24],模型中第 $i$ 个物种的期望个体数所占比例 $\\boldsymbol { P } _ { i }$ 为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { i } = { \\frac { 1 } { s } } \\sum _ { X = i } ^ { s } { \\frac { 1 } { x } } \\quad ( i = 1 , 2 , 3 , 4 , \\cdots , s )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中，i为观察群落的物种数， $s$ 为物种总数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 数据处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "计算每个物种的相对多度,以物种从常见到稀有的顺序为横坐标,以物种相对多度(频度)为纵坐标,绘",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "制生态模型拟合图。利用R语言3.2.3 软件 Vegan 数据包(htp://mirror.bjtu.edu.cn/cran/)进行模型比较。利用 SPSS 19.0软件与模型值进行相关性分析检验,计算观测值与模型值的相关性。对图像线性回归,构建秩相关方程,利用方程斜率分析物种多度格局变化。Spearman 秩相关系数 $R _ { \\mathrm { s } }$ 属于非参数检验,表达式[25]为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { s } = 1 - \\frac { 6 \\displaystyle \\sum _ { k = 1 } ^ { n } d _ { k } ^ { 2 } } { N ( N ^ { 2 } - 1 ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { \\boldsymbol { k } } = \\left( \\boldsymbol { X } _ { i \\boldsymbol { k } } - \\boldsymbol { X } _ { i } \\right) \\left( \\boldsymbol { X } _ { j \\boldsymbol { k } } - \\boldsymbol { X } _ { j } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $X _ { i k }$ 、 $X _ { j k }$ 分别为中 $i , j$ 在样方 $k$ 中的秩。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "所绘图像与对数曲线类似，计算曲线的斜率参数。方程在 $x _ { 0 }$ 点的斜率即该方程在 $\\mathbf { \\boldsymbol { x } } _ { 0 }$ 点的导数，斜率为 $k =$ $b / ( x _ { 0 } \\mathrm { l n } 1 0 )$ [26]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对54组多度数据分别进行对数正态分布模型、对数级数模型、几何级数模型和分割线段模型拟合度检验。得到各模型的平均偏差值。统计模型中,对数正态分布模型偏差值为0.063,对数级数模型偏差值为0.103。可见统计模型中,对数正态分布模型更适合描述该地多度格局。生态位模型中,几何级数模型偏差值为0.404,分割线段模型偏差值为0.174。可见生态位模型中,分割线段模型更适合描述该地多度格局。由于生态位模型倾向于揭示群落多度格局的机制。而统计模型主要是描述，一般很难把生态学过程与之联系起来[3]。如几何级数模型拟合直线的斜率代表了群落的复杂性[7]同样,分割线段模型拟合的曲线斜率在一定程度上反映了群落均匀度的变化趋势[27]。用生态位模型更能直观的体现群落的结构,所以本文选用生态位模型拟合研究地多度格局,确定分割线段模型为本文使用的主要模型。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1鸟类多度格局月尺度分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "按鸟类物候,对 2014年3月到 2015年2月,一个生物年,共12个月数据进行计算处理,得到以下结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "侧柏针叶林模型拟合检验中,观测值与预测值的相关系数 $\\boldsymbol { r }$ 分别为0.982,0.866,0.918,0.982,0.975,0.909,0.960,0.979,0.892,0.974,0.976,0.860。 $T$ 检验 $P$ 值均小于0.01。观测值与期望值属于极显著相关。说明侧柏针叶林中,鸟类多度格局适用分割线段模型进行拟合。由图1可以看出,物种分布比较稀疏,相互之间竞争比较弱,即生态位分化程度较大,符合随机生态位假说。该群落中,喜鹊（Pica pica）、大山雀（Parusmajor)等相对多度最大,占有大部分生态位,优势度明显,可做为侧柏针叶林中的优势物种,其余各物种数量虽有差别,但不显著。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "针阔混交林模型拟合检验中,相关系数 $\\boldsymbol { r }$ 分别为0.756,0.921,0.978,0.941,0.980,0.942,0.969,0.990,0.930,0.945,0.945,0.945。 $T$ 检验 $P$ 值大部分小于0.01，3月、12月、1月、2月的 $P$ 值大于0.05,相关性不显著。这4个月处于早春或是冬季,鸟类种类、数量都小于其他月份。此外,从14年10月开始,所选调查点附近进行了静福寺遗迹挖掘工作,也对之后的鸟类调查带来负面的影响。导致野外调查获得数据量小,无法得出理想的拟合曲线。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图2可以看出；该群落中物种分布比较稀疏,物种的资源分割是随机的,物种间竞争比较弱，符合随机生态位假说。群落中,喜鹊、大山雀占有大部分生态位,优势度明显,是群落中的优势物种,其余各物种数量虽有差别,但不显著。并且如黄腹山雀（Parus venustulus）、黄腰柳莺（Phylloscopus proregulus)等小型林鸟的数量比重有所增加。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "落叶阔叶林模型拟合检验中,相关系数 $\\boldsymbol { r }$ 值分别为 0.976,0.956,0.922,0.951,0.975,0.901,0.966,0.955,0.961,0.977,0.977,0.964.T检验 $P$ 值均小于0.01。观测值与期望值成极显著相关,说明该群落中资源的分割是随机的,物种间竞争较弱,生态位分化较大,重叠程度小,符合随机生态位假说。由图3可以看出：落叶阔叶林中鸟类丰富度大于前两种森林群落。该群落中,以大山雀为代表的小型鸟类占有大部分生态位,可做为阔",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\cdot$ 观测值 $\\blacktriangledown$ 预测值2014年3月 2014年4月 2014年5月y=-0.09=n(x)+02704 0 y=-0.10n(x)+794 0.8 y=-0.12=0(8+.30280.4 ■ 0.4 ■ 0.4 ■0.2 + 0.2 + 0.20 1 0 1 0武中警 鹅 誉 燕 甲 物塑牌 潮甲 鹤 水术 男 书 解器工 水水 更具 健宝黄2014年6月 2014年7月 2014年8月  \nAarapaare 08 y= 0.07710(x)+26 800 A y=-0.482In(x) +0.667 860 y=-0.2=90.92)+ 0.410.4 0.4 0.4 1■ ?20 0.2 20解章 中警 解工 国誉票 潮甲 鹤 解章兴 水牌 潮 鹏鹰  \nAardaaee 08 0.4 2014.年890+-0.0622 R²= 0.932 0.4 08 2014年10月0-0.326 R²= 0.949 0. 0.4 20.4211）0-06 R²= 0.9325• 1  \n渡 0.2 0.2 0.2 +  \n多 0 11 t 0 0南 用 武中警水 蠶暴 甲 果 潮 誉甲 集甲 武中警 水 解器工 印警子 甲 甲 费 警2014年11月 2015年1月 2015年2月  \nAaaeae 860 ■ y=-0.12)+ 0348 0.8 y=-0.17nx)+03716 0.8 + y= 0.285=(0x)+ 0.4720.4 0.4 ■ 0.4  \n到 0.2 + ↑ ！ 0.2 L + 0.2 Y?0 0 N 0 1 血解章 甲 潮甲 口警 喜 誉甲 警 解章 解工 尔警物种 Species",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "叶落叶林中的优势物种。喜鹊的相对多度小于前两种森林群落。在冬季时,以山噪鹛（Garrulax davidi）为代表的越冬鸟类所占比重增加。其余各物种数量虽有差别，但不显著,且有相近的多度，各物种间能根据需要取其所需资源和谐共存。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图1—图3可以看出:在调查的鸟类群落中,落叶阔叶林物种丰富度最大,针叶林次之,针阔混交林最小。3种森林群落中大部分物种的相对多度值较小,仅少数几个种的相对多度值较大,群落组成以少数种为主。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "种-多度曲线中,斜率是图像重要的参数,它直观的反应图像的变化速率。回归方程曲线,大多数 $R { > } R _ { 0 . 0 2 }$ ，属于显著相关,只有混交林中3月、12月、1月、2月 $R { < } R _ { 0 . 1 }$ ,相关不显著,与分割线段模型相关性类似,与数据量小有关。 $F$ 检验的 $P$ 值小于0.01。以 $k \\times x _ { 0 }$ 为纵轴,月份为横轴得到图4。由图4可知,针阔混交林鸟类群落多度格局的月变化最大,其次是针叶侧柏林,阔叶阔叶林变化最小。方差分析得出：各月间总体差异不显",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "←观测值■预测值2014年3月 2014年4月 2014年5月0.8 y=-0.162ln(x)+ 0.4304 0.8 y=-0.135ln(x) + 0.3073 0.8 y=-0.099ln(x)+0.2560.6 ■ R² = 0.6108 0.6 R²= 0.8043 0.6 R² = 0.96570.4 + - T 0.4 · 0.4 ！0.2 0.2 1 1 + Li 0.2 T0 0 0 1解工 震誉 甲 甲 尔警 物牌 喜 发 果甲 囍 智 墨甲 武中警水 甲2014年6月 2014年7月 2014年8月0.8 y=-0.279ln(x)+0.4724 0.8 y= -0.17ln(x)+ 0.3499 0.8 y = -0.07ln(x) + 0.22840.6 ? R²= 0.8448 0.6 R²= 0.9381 0.6 R²= 0.91710.4 + 0.4 0.4 ■0.2 0.2 0.2 真1 + + T0 自 0 02pangee 解晕 解章兴 甲器 震 斑 州 1 解晕 斑甲 解章兴 甲 誉 集甲 喜 武尔警子 物2014年9月 2014年10月 2014年11月0.8 y= -0.182ln(x) +0.3665 0.8 y=-0.266ln(x)+0.4612 0.8 y =-0.157ln(x) +0.33850.4 R² = 0.9089 04 1 R²= 0.9721 0.4 R²=0.8719· T02 0.2 + 0.2 + +Y 11甲 鹊 解量兴 甲 解章 誉 中警子 中警子 誉 喜 甲 武尔警业喜黄2014年12月 2015年1月 2015年2月08 y=-0.2421(x)+0.4778 0.8 二 y=-0.64=n(x)+0.7186 0.6 y=-0.29=n(x)+0.511■ r0.4 0.4 0.40.2 0.2 ， 1 0.2 √0 0 0鹤 武中警 解警工 喜 中警 喜 果 武中警物种 Species",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "著;但多重比较分析,1月与其他月份存在显著差异,1月与4月差异极显著;单因素方差分析与多重比较分析得，森林群落间差异不显著。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据文献[12-13]数据,按本文方式分析12年鸟类群落多度格局,结果表明：单因素方差分析,12个月数据总体差异不显著,11月与6月结果存在显著差异,8月与5、6月结果差异显著。按森林群落做单因素方差分析,3 种森林群落间差异显著,阔叶林与针叶林和针阔混交林差异显著。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2鸟类多度格局季尺度分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "季节划分按鸟类春、秋迁徙期，繁殖期，越冬期划分。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "侧柏针叶林四季模型拟合检验中，观测值与预测值的相关系数 $\\boldsymbol { r }$ 分别为0.902、0.950、0.980、0.917。 $T$ 检验 $P$ 值均小于0.01。观测值与期望值属于极显著相关。说明季尺度上,侧柏针叶林中,鸟类多度格局适用分割线段模型进行拟合,群落中物种间竞争较弱,生态位上分布相对均匀,符合随机生态位假说。由图5可以看出,该群落中,喜鹊、大山雀、大嘴乌鸦(Coruus macrorhynchos)相对多度最大,占有大部分生态位,优势度明显,",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\cdot$ 观测值 ■预测值2014年3月 2014年4月 2014年5月0.6 0.6 0.6y = -0.113ln(x) + 0.2719 y =-0.079ln(x)+0.2299 y= -0.235ln(x) +0.42870.4 R²= 0.9407 0.4 R²= 0.9111 0.4 · R²= 0.8291+ HHH + 0.2 0 ■ Y + + + 1 20 + ? + T 11 鹃 楼 潮 甲 物塑牌 誉甲 发 尔警 甲 甲 尔誉子 里 集甲 物 誉 鼎黄2014年6月 2014年7月 2014年8月0.6 y=-0.056ln(x) + 0.173 0.6 y=-0.077ln(x) +0.2126 0.6 y =-0.084ln(x) + 0.22220.4 R² = 0.9072 0.4 R² =0.9655 0.4 R²=0.81880.2 ? 0.2 .0 H w + + +二 0 HHHHHH  \nAaagpeare 美 山 量量大红  \n出 2014年9月 2014年10月 2014年11月0.6 0.6 0.6y=-0.094ln(x) + 0.2423 y=-0.107ln(x) +0.2638 y =-0.135ln(x) + 0.30320.4 R² = 0.9525 0.4 R² = 0.8854 0.4 R² = 0.8895！ ！ +0.2 0.2 0.2T + 1 +0 0 H 011 果 水类 誉甲 囍 解章兴 誉 尔警水 解智工 印警业2014年12月 2015年1月 2015年2月0.6 0.6 0.6y = -0.154ln(x) + 0.3308 y = -0.181ln(x) + 0.3628 ? y = -0.243ln(x) + 0.43860.4 R² = 0.9921 0.4 i R² = 0.9284 0.4 V R² = 0.90330.2 0.2 T 0.2T 中 T0 0 0 1誉甲 水类 喜 解章兴 印警水 解工 潮 甲 解书工 尔警水 斑 美甲 潮甲 喜 中警子 斑 甲 键甲物种 Species",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.3broke stick model fitting of bird abundance in broadleaved deciduous forest可作为侧柏针叶林中的优势物种,四季各林型中优势种变化不大，其余各物种数量虽有差别,但不显著，物种分布较为均匀。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "针阔混交林四季模型拟合检验中，观测值与预测值的相关系数 $\\boldsymbol { r }$ 分别为 $0 . 9 0 8 \\ 、 0 . 9 5 8 、 0 . 9 5 8 \\ 、 0 . 9 6 2$ 。 $T$ 检验$P$ 值均小于0.01。观测值与期望值显著相关，符合随机生态位假说。由图6可以看出：春季时，该群落中，黄眉柳莺（Phylloscopus inornatus）大山雀相对多度最大，占有大部分生态位，优势度明显，可作为优势种；夏季优势",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/55e33a98b6072de8fd2961bee30fd4bd5f3b571cf0ef71456e55ae3f7cde30e6.jpg",
+        "img_caption": [
+            "图3落叶阔叶林中鸟类多度分割线段模型拟合",
+            "图43种林型拟合方程斜率月变化",
+            "Fig.4slopes of fitting equation in three forest types in every month "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\cdot$ 观测值 ■预测值0.5 春季 0.5 [ 夏季0.4 y=-0.089ln(x)+0.2321 0.4 y= -0.12ln(x)+0.28260.3 R²=0.8834 0.3 R²= 0.93330.2 中 + 0.20.1 0.10 0223pangeae 章 尔 工 暴 实 ￥ 韋 男甲牌 解章有 甲 誉 解工 誉票 甲 黑 联04 秋季 0.4 冬季 y= -0.193ln(x) + 0.3774y=-0.119ln(x)+0.28010.3 R²= 0.9823 0.3 R²= 0.95890.2 0.20.1 0.10 0果甲 解韋 甲 男甲 工 水 票 蠶联暴 警业 韞章 誉甲 印警水 解警工物种 Species",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.5Broke stick model fitting of bird abundance in coniferous forest in four seasons种为喜鹊、灰喜鹊(Cyanopica cyana）;秋季优势种为大山雀、喜鹊;冬季优势种为喜鹊、大嘴乌鸦。因鸟类居留型不同,各季节鸟类群落优势种也存在差异。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$\\cdot$ 观测值 ■预测值0.6 0.60.5 春季 0.5 夏季0.4 y=-0.049ln(x) + 0.1649 0.4 y=-0.162ln(x)+0.3410.3 R²= 0.8062 0.3 R²=0.88860.2 0.20.1 1 0.1 +aepngeae 0 ， ， 1 二 0印誉水 宝 解警工 解量兴 甲 雪誉票 牌 集甲 喜 震 喜 鹊 解章 水区 印警子 甲 海园0.6 秋季 0.6 冬季0.4 y= -0.15ln(x)+0.329 0.4 y=-0.311ln(x)+ 0.49810.2 R² =0.8826 0.2 1 R²= 0.89480.1 0.10 0静 警 甲 晕牌 翼要暴 静 尔警子 甲 解工喜 喜物种 Species",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "落叶阔叶林四季模型拟合检验中，观测值与预测值的相关系数 $\\boldsymbol { r }$ 分别为0.959、0.984、0.984、0.983。T检验 $P$ 值均小于0.01。观测值与期望值显著相关,群落中物种分布符合随机生态位假说。由图7可以看出,该群落中,春季时,大山雀、大嘴乌鸦相对多度最大,占有大部分生态位,优势度明显,可作为该群落的优势种；夏季优势种为大山雀、黄腹山雀;秋季优势种为大山雀、银喉长尾山雀（Aegithalos caudatus）;冬季优势种为大山",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "雀、山噪鹛。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\blacktriangle$ 观测值 ■预测值 0.4 0.4 春季 夏季 0.3 y=-0.082ln(x)+0.2221 0.3 y=-0.078ln(x)+ 0.2141 0.2 + R²= 0.9075 0.2 ? R² = 0.9522 ? 0.1 0.1 0 1 1 0 中 22aangee 鸟 喜 1 黄 0.4 0.4 秋季 冬季 0.3 y=-0.085ln(x) + 0.225 0.3 \\ y= -0.135ln(x)+0.308 0.2 L R² = 0.9586 0.2 ? R² = 0.9515 0.1 0.1 0 P 0 1 甲 解工 解韋 水 康园 甲 事山 劉果 印警 甲 甲 解晕 水类 口誉水 解量 誉 水 解工 ￥ 甲 健甲 物种 Species ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "回归曲线， $R { > } R _ { 0 . 0 2 }$ ,属于显著相关,且 $F$ 检验的 $P$ 值均小于0.01。以 $k \\times x _ { 0 }$ 为纵轴,季节为横轴得到图8。由图8可知,针阔混交林鸟类群落多度格局的季变化最大,其次是侧柏林,落叶阔叶林变化最小。对季变化图像斜率进行双变量方差分析。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "以季节为固定因子,森林群落类型为随机因子,主体间效应检验,总体差异不显著,交互作用均不显著。多重比较分析,冬季与春、秋两季差异显著;冬季与夏季差异不显著;春、夏、秋三季间差异不显著。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "以森林群落类型为固定因子,季节为随机因子,主体间效应检验,总体差异显著,交互作用不显著。落叶阔叶林与针阔混交林差异显著;针叶林与落叶阔叶林、针阔混交林差异均不显著。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "根据文献[12-13]数据,按本文方式分析12a 鸟类群落多度格局，结果表明：以季节为固定因子，森林群落为随机因子，主体间效应检验，总体差异显著，交互作用不显著,季节差异不显著;以森林群落类型为固定因子,季节为随机因子，主体间效应检验，总体差异极显著，森林群落间差异极显著,阔叶林与其他森林群落有显著差异，针叶林与混交林差异不显著。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3鸟类多度格局年尺度分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "查看较早的实验调查数据(2012年、2013年调查数据)整理出两年完整的春季鸟类调查数据,利用2012、2013年春季数据，重复上述工作，得到图9。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/c56bd1831f7aa4ab30d1463d48980ca075d1068f943cd3d7e403c34cac4bca2a.jpg",
+        "img_caption": [
+            "图7阔叶落叶林中鸟类四季多度分割线段模型拟合",
+            "Fig.7broke stick model fiting of bird abundance in broadleaved deciduous forest in four seasons ",
+            "图83种林型拟合方程斜率季变化",
+            "Fig. 8 Slopes of fitting equation in three forest types in four seasons "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2012、2013年春季模型拟合检验中，观测值与预测值的相关系数 $\\boldsymbol { r }$ 分别为0.952、0.977、0.891、0.963、$0 . 9 3 3 , 0 . 8 9 6$ 。 $T$ 检验 $P$ 值均小于0.01。观测值与期望值显著相关,群落物种分布符合随机生态位假说。两年数据相比,群落物种组成没有明显变化,多度最大的优势种有所变化。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "回归曲线, $R { > } R _ { 0 . 0 0 1 }$ ,属于高度相关,且 $F$ 检验的 $P$ 值均小于0.01。以 $k \\times x _ { 0 }$ 为纵轴,年为横轴得到图10。由图10 可知,3种森林群落中,群落多度格局均有明显的年变化。斜率做单因素方差分析的到 $P { > } 0 . 0 5$ 差异",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\cdot$ 观测值■预测值0.4 侧柏针叶林2012 0.4 侧柏针叶林2013y=-0.126ln(x)+0.2947 1 y=-0.088ln(x) +0.22970.2 R² = 0.9088 0.2 R² = 0.95490 1 0甲 品蟹 露英 口誉 誉甲 男甲 斑甲黄2ngee 0.4 针阔混交林 2012 0.4 针阔混交林2013（20 $\\begin{array} { c } { y = - 0 . 1 0 2 \\mathrm { l n } ( x ) + 0 . 2 5 6 7 } \\\\ { R ^ { 2 } = 0 . 9 2 8 3 } \\end{array}$ （204 y=-0.099ln(x) +0.24790.2 0.2 R²= 0.90090 + 0解工 潮 甲 印警子 塑牌 园 卡目 誉工 集甲 三黄0.4 落叶阔叶林 2012 0.4 ? 落叶阔叶林 2013$\\begin{array} { c } { y = - 0 . 0 5 3 \\mathrm { l n } ( x ) + 0 . 1 6 7 3 } \\\\ { R ^ { 2 } = \\ 0 . 7 6 1 } \\end{array}$ y= -0.095ln(x) + 0.24840.2 ? 0.2 R²= 0.75081 1 10 0P 雪 ? 黄煤冕物种 Species",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.9broke stick model fiting of bird abundance in three forest types in spring of 2012 and 2013 性不显著，说明3种森林群落年变化不明显。 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3结论与讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "分割线段模型可以较好的拟合该研究区域鸟类群落的数量关系，并从4个季节、3种森林群落两个角度对西山静福寺地区鸟类群落多度格局进行分析阐释，说明鸟类群落的多度格局具有时间与空间尺度的双重属性。通过拟合的曲线，可以直观地了解鸟类群落的组成、丰富度、鸟类在林中分布的状况、群落中鸟类四季迁飞的变化。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 时间尺度上鸟类群落多度格局",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "分别从月、季、年3种不同的时间尺度上对西山静",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/e71988e250927c7ecab5c2d4d56a9e05666abfb4a26a869bc66c973e889be756.jpg",
+        "img_caption": [
+            "图93种森林群落鸟类2012年和2013年春季多度分割线段模型拟合",
+            "图103种森林群落春季拟合方程斜率年变化",
+            "Fig.10slopes of fitting equation in three forest types in spring of the years of 2012,2013,2014 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "福寺地区鸟类群落多度格局进行分析：月尺度上，针阔混交林中鸟类多度格局变化明显，侧柏林与阔叶落叶林中多度格局有所变化,但不明显,各林型中鸟类因物候期的变化,鸟类种类与种数也在变化;季尺度上,冬季格局与春、秋两季差异显著,春、夏、秋三季格局差异不显著。3种林型多度格局差异不显著,除针阔混交林春季优势种为黄腰柳莺,其他时期优势种均是本地留鸟(大山雀、喜鹊、灰喜鹊);年尺度上,3年春季多度格局相比",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "较,无明显变化。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1.2空间尺度上鸟类群落多度格局",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "对西山静福寺地区3种森林群落中鸟类群落多度格局的比较,可以看出：阔叶落叶林中,鸟类的丰富度最高,针阔混交林次之,针叶林与混交林相似;群落中大山雀、喜鹊、灰喜鹊多度处于最多地位,出现频度最高，视为优势物种;其余鸟类多度相差不大,比较接近,物种分布较为均匀。落叶阔叶林中鸟类群落多度格局与针叶林、针阔混交林存在显著差异,针叶林与针阔混交林中鸟类多度格局无显著差异。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本文从多度角度对西山静福寺地区鸟类多度格局进行研究,补充并丰富了该地区鸟类群落的研究。与种间联结相似[12],该地区鸟类群落多度格局同样具有时间和空间双重属性。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "分割线段模型 BSM 是描述群落中缺乏相对重要性极强的物种,群落中物种并不丰富,但在生态位上的分布相对均匀,此分布符合随机生态位假说[24],即群落中物种的资源分割是随机的,物种间的生态位不重叠这样一种情况的数学模型,该模型广泛应用于种群多度格局的研究。马克平等用分割线段模型拟合北京东灵山地区9个森林群落种-多度数据,效果不佳[28],而张金屯拟合美国纽约州阔叶林种-多度格局则效果很好,认为此模型既适合于简单群落,又适合于复杂群落结构的研究[29],吴承祯等也用它拟合了观光木群落种-多度数据[17],赵洪峰认为该模型通常应用于某些种群稳定、生活史长、均质的小群落,如森林中营巢的鸟类群落[30]。在鸟类群落中,鸟类的种类和数量会随着季节的不同、植被的地带性变化而有所改变。通过 BSM 模型拟合,我们可以直观地认识一个鸟类群落的多度分布、丰富度、均匀度等基本属性,能更清楚的认识一个鸟类群落的结构",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "人为干扰在一定程度上影响群落结构及物种组成[31]。鸟类对人类活动的响应主要体现在惊飞距离的差异,林地生境的鸟类的惊飞距离更小,人类活动对林地鸟类的影响尤为明显[32]。在野外调查的过程中,2014年10月开始西山静福寺地区进行一次为期两个月的文物保护挖掘工作,位置位于调查区域的针阔混交林地带。挖掘工作破坏了该区域的原有景观。而对于一个生境来说,其景观结构对其生物多样性有至关重要的影响[33]。挖掘工作影响了鸟类数据的调查,导致数据的缺失或不完整,在拟合针阔混交林10月以后的模型时，出现拟合不显著的情况。但David[34]在森林深处、森林小路沿线和野餐区的鸟类调查研究后发现,人类的休闲活动可能会降低巢性鸟类的适宜度,但对大多数鸟类的栖息地没有不利影响。对于人为活动是否会对鸟类群落多度格局造成影响,还有待研究。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "［1］林金安.植物科学综论.哈尔滨：东北林业大学出版社,1993;222-223.  \n［2］中国科学院生物多样性委员会.生物多样性研究的原理与方法.北京：中国科学技术出版社,1994;141-165.  \n[3］马克明.物种多度格局研究进展.植物生态学报，2003,27（3）:412-526.  \n[4] Pielou E.C.Ecological Diversity.New York：Wiley，1975  \n[5］张金屯.群落中物种多度格局的研究综述.农村生态环境，1997，13（4)：48-54.  \n[6] 彭少麟，殷祚云，任海，郭勤峰.多物种集合的种-多度关系模型研究进展.生态学报，2003，23（8)：1590-1605.  \n[7] TokeshiM.Speciesabundance paternsandcommunitystructure.Advances inEcological Research，1993,24：111-186.  \n[8]Tokeshi.icheportioentorandoasorment：speciesabundanepattsrevisitedJoualofAnmalEcolog，999（）:1129- 1146.  \n[9]HoagdetralesitdgeatebellalsooloaSocec2005,98(2):241-242.  \n［10］周淑荣，张大勇.群落生态学的中性理论.植物生态学报，2006，30（5）：868-877.  \n[11］廖成章，徐永兴，柳江，闫淑君，毕晓丽.福建将石自然保护区鸟类物种相对多度模型的拟合研究.中国生态农业学报，2004，12（2)：36-39.  \n[12］董大颖，范宗骥,李扎西姐，陈卓琳，王敏增，王奇峰,李凯，关文彬.北京西山地区大山雀与其它鸟类种群种间联结分析.生态学报，2013，33(20):6614-6633.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[13］范宗骥，董大颖，郑然，王敏增，王奇峰，关文彬.北京静福寺侧柏古树林鸟类群落多样性研究.北京林业大学学报，2013,35（5)：46-55.  \n[14]Whittaker RH. Community and Ecosystem. 2nd ed.New York：Macmillan.1975:135-168.  \n[15]WhiakerRHEvoutioofspeciesdiversitinlandcomuiies/HchtMK,SteeBWC,ds.EvolutioaryBolgNklePress，1977，10:1-67.  \n[16]Molles Jr M C.Ecology:Concepts and Applications.Dubuque,IA:WCB/McGraw-Hill,1999.  \n[17］吴承祯，洪伟，郑群瑞.福建万木林保护区观光木群落物种相对多度模型的拟合研究.热带亚热带植物学报，2001,9（3）：235-242.  \n18]GoEofiianalysis of forest understorey vegetation.Grass and Forage Science，2002,57(2）：171-183.  \n[19]May R M.Theoretical Ecology.Oxford:Blackwell Scientific Pub.，1976.  \n[20]Preston FW.The commonness，and rarity，of species.Ecology，1948,29(3）：254-283.  \n[21]FisherRA,otA，WiliasCerelatothmbofspsdterofdivialsidolealpopulation.Journal of Animal Ecology，1943，12(1）：42-58.  \n[22]Whittaker R H.Dominance and diversity in land plantcommunities.Science，1965,147（3655）：250-260.  \n[23]Whitaker R H.Evolution and measurement of species diversity.Taxon,1972,21(2/3）：213-251.  \n[24]MacAruROatiebacofdseerocioladofecoftUiatsofca9,43(3):293-295.  \n[25]Legendre P,Legendre L.Numerical Ecology.2nd ed.Amsterdam：Elsevier Science，1998：194-198.  \n[26] 杜乐山，杨洪晓，郭晓蕾，董大颖，关文彬.黄连木群落种间联结指数—等级格局模型研究.北京林业大学学报，2013，35（5)：37-55.  \n[27］郭逍宇，张金屯，宫辉力，张桂莲，董志.安太堡露天矿区人工植被的物种多度分布分析.林业科学,2007,43（3）：118-121.  \n[28］马克平，刘灿然，于顺利，王巍.北京东灵山地区植物群落多样性的研究.II.几种类型森林群落的种-多度关系研究.生态学报，1997,17(6):573-583.  \n[29］张金屯.美国纽约州阔叶林物种多度格局的研究(英文).植物生态学报，1999,23(6)：481-589.  \n[30] 赵洪峰，雷富民.岷江上游典型退化生态系统鸟类物种多样性的初步研究.应用与环境生物学报，2003,9（1）：42-58.  \n［31］付裕.人为活动对泰山森林植物群落物种多样性的影响研究[D]．泰安：山东农业大学，2009.  \n［32］陆祎玮.城市化对鸟类群落的影响及其鸟类适应性的研究[D].上海：华东师范大学，2007.  \n[33］李晓文，胡远满，肖笃宁.景观生态学与生物多样性保护.生态学报，1999，19(3)：399-507.  \n[34]PalmiacalLpactofreeatiooforestirdmuitdetrietaltsfrailsdceasctalicaSinica，2007，53(1)：54-63.",
+        "page_idx": 10
+    }
+]

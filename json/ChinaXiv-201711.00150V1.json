@@ -1,0 +1,351 @@
+[
+    {
+        "type": "text",
+        "text": "Role of Microstructure and Spectrum Features on the Catalysis Effect of Ce1-x(Ndo.5Euo.5)xO2-s Solid Solutions ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Guo-Fang(张 国芳);HOU Zhong-Hui(侯忠辉);ZHAI Ting-Ting(翟亭亭);XV Jian-Yi(许剑轶);ZHANG Yang-Huan(张羊换) School of Material and Metalurgy, Inner Mongolia University of Science and Technology, Baotou 014010, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT Nanosized $\\mathrm { C e } _ { 1 - x } ( \\mathrm { N d } _ { 0 . 5 } \\mathrm { E u } _ { 0 . 5 } ) _ { x } \\mathrm { O } _ { 2 - \\delta }$ solid solutions $( x = 0 . 0 0 { \\sim } 0 . 2 0 )$ ）were synthesized by means of hydrothermal method. Then the solid solutions were ball milled with $\\mathbf { M g } _ { 2 } \\mathbf { N i }$ and Ni powders for $2 0 \\mathrm { h }$ to get the $\\mathrm { M g _ { 2 } N i - N i - 5 \\ m o l \\% ~ C e _ { 1 - x } ( N d _ { 0 . 5 } E u _ { 0 . 5 } ) _ { \\it x } O _ { 2 - \\delta } }$ composites. The structures and spectrum characteristics of the $\\mathrm { C e } _ { 1 - x } ( \\mathrm { N d } _ { 0 . 5 } \\mathrm { E u } _ { 0 . 5 } ) _ { x } \\mathrm { O } _ { 2 - \\delta }$ solid solutions catalysts were analyzed systemically. XRD results showed that the doped samples exhibited single phase of ${ \\mathrm { C e O } } _ { 2 }$ fluorite structure. The cell parameters and cell volumes were increased with increasing the doped content. Raman spectrum revealed that the peak position of $F _ { 2 g }$ mode shift to higher wavenumbers and the peak corresponding to oxygen vacancies were observed distinctly for the doped samples. UV-Vis technique indicated that the absorption peaks of ${ \\mathrm { E u } } ^ { 3 + }$ and $\\mathrm { N d ^ { 3 + } }$ ions appeared; the bandgap energy was decreased linearly. The electrochemical and kinetic properties of the $\\mathrm { M g _ { 2 } N i - N i - 5 \\ m o l \\% }$ $\\mathrm { C e } _ { 1 - x } ( \\mathrm { N d } _ { 0 . 5 } \\mathrm { E u } _ { 0 . 5 } ) _ { x } \\mathrm { O } _ { 2 - \\delta }$ composites were measured. The maximum discharge capacity was increased from $7 2 2 . 3 \\ \\mathrm { m A h / g }$ for $x = 0 . 0 0$ to $8 1 9 . 7 ~ \\mathrm { m A h / g }$ for $x = 0 . 1 6$ ， and the cycle stability $ { \\mathbf { S } } _ { 2 0 }$ increased from $2 5 . 0 \\%$ $( x = 0 . 0 0 )$ to $4 2 . 2 \\%$ 1 $( x = 0 . 2 0 )$ . The kinetic measurement proved that the catalytic activity of composite surfaces and the hydrogen diffusion rate were improved for the composites with doped catalysts，especially for the composites with $x = 0 . 1 6$ and $x = 0 . 2 0$ .The catalysis mechanism was analyzed from the point of microstructure and spectrum features of the $\\mathrm { C e } _ { 1 - x } ( \\mathrm { N d } _ { 0 . 5 } \\mathrm { E u } _ { 0 . 5 } ) _ { x } \\mathrm { O } _ { 2 - \\delta }$ solid solutions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: hydrothermal method; $\\mathbf { C e } _ { 1 - x } ( \\mathbf { N d } _ { 0 . 5 } \\mathbf { E u } _ { 0 . 5 } ) _ { x } \\mathbf { O } _ { 2 - \\delta }$ solid solutions; $\\mathbf { M g } _ { 2 } \\mathbf { N i }$ ； ball milling; catalysis mechanism; DOI: 10.14102/j.cnki.0254-5861.2011-1694 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Nowadays, researches on the hydrogen storage properties of Mg-based alloys have atracted much attention due to their high theoretical hydrogen storage capacity,earth abundance and low cost.However, there are stil some drawbacks which hindered the practical applications as the negative electrode materials of Ni/MH bateries,such as the poor cycle stabilities and the slow sorption/desorption kinetics.Researchers have devoted numerous eforts to overcome these limitations. Generally,the hydrogen storage properties of Mg-based allys could be improved by nanocrystallizing the alloys and/or adding various catalysts or additives[1,21. Ballmilling method is one of the most effective and simple ways to get nanosized materials with more fresh surface areas and a large number of defects on the surface and in the bulk of aloys powdersl3]. On the other hand, many kinds of catalysts have been chosen to add into the Mg-based systemsand exhibit outstanding catalysis properties.Metal oxides are a kind of the most important and efective catalysts which have been extensively investigated.Compared with the metal catalysts,the metal oxides could disperse uniformly on the surface of the Mg-based alloys due to their britleness.Inaddition,the effect of local electronic structure ofthe catalysts also plays an important rolel[4,5]. It was reported that the oxides were reduced to lower valence and the local structures were disarranged after ball milled with $\\mathrm { M g H } _ { 2 } ^ { [ 6 ] }$ . The interaction between the metal oxide catalysts and the surface of Mg-based hydride might improve the desorption kinetic properties[7]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Over the past decades, the catalysis properties of $\\mathrm { C e O } _ { 2 }$ and ${ \\mathrm { C e O } } _ { 2 }$ based materials have been researched sufficiently due to their unique structures and special electronic characteristics. Thus, ${ \\mathrm { C e O } } _ { 2 }$ based materials have been widely used in various fields,such as the three-way catalysts (TWC)[8,9],the water gas shift catalysts (WGS)[0l,and theapplicationof manyoxidationcatalysts[1,21.Generally speaking,thecatalysis effects rely primarily on the activity of the redox couple $\\mathrm { C e ^ { 4 + } / C e ^ { 3 + } }$ ， which is relatively easier to change the valence of the $\\mathrm { C e }$ ions ( $1 . 3 { \\sim } 1 . 8 \\mathrm { V }$ ）under different conditions than other metal oxides.Meanwhile,the other specific feature is the formation of oxygen vacancies $( V _ { O } ^ { \\bullet \\bullet } )$ in the bulk or on the surface of $\\mathrm { C e O } _ { 2 }$ which can influence the catalysis efect evidently.Additionally,various cations whose ionic radi and valence are different from those of $\\mathrm { C e }$ ions were chosen to dope into the lattice of $\\mathrm { C e O } _ { 2 }$ so as to obtain the ${ \\mathrm { C e O } } _ { 2 }$ -based solid solutions. Their addition would induce extra oxygen vacancies and the structure distortion,and it was proved that a kind of active phase was formed at the interface of catalyst. These changes usually mean the improvement of the catalysis effects[13-15l. A mountain of researches showed that doping di- or trivalent ions into the lattice of ${ \\mathrm { C e O } } _ { 2 }$ is a primary way to improve their catalysis activities obviously. The doped ions could partially replace ${ \\mathrm { C e ^ { 4 + } } }$ and generate a large amount of oxygen vacancies in the laticel16-18]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It has been reported that ${ \\mathrm { C e O } } _ { 2 }$ has the ability to react with $\\mathrm { H } _ { 2 } ^ { \\mathrm { [ 1 1 ] } }$ . The application of ${ \\mathrm { C e O } } _ { 2 }$ -based catalysts in the hydrogen storage field has also atracted much more attention. But the opinions are various on the catalysis mechanism. There were several reports about the catalysis effect of $\\mathrm { C e O } _ { 2 }$ on the hydrogen storage properties of Mg-based alloy. Researchers have found the effective impact of $\\mathrm { C e O } _ { 2 }$ on $\\mathrm { M g H } _ { 2 }$ sorption properties[19]. And it is noteworthy that the pure ${ \\mathrm { C e O } } _ { 2 }$ seems to have no effect on the hydrogen desorption kinetic,but a positive effect was observed for Pt doped $\\mathrm { C e O } _ { 2 } [ 2 0 ]$ . Jelena et al.[21] studied the influence of nanosized $\\mathrm { C e O } _ { 2 }$ on the hydrogen desorption properties of $\\mathrm { \\mathbf { M g H } } _ { 2 }$ . They attributed the catalysis effect to the nonstoichiometric and the vacant structure of $\\mathrm { C e O } _ { 2 }$ ，which means that the oxygen vacancies existed in the lattice of $\\mathrm { C e O } _ { 2 }$ and the small polarons could act as the promoter to increase the catalytic activity. From the microcosmic point of view, the H atom usually tends to penetrate along the (11O) face of $\\mathrm { C e O } _ { 2 } ^ { [ 2 2 ] }$ , then a kind of electronic exchange reaction occurred between the $\\mathbf { M g }$ -based hydride and the catalysts which could decrease the bond energy of $\\mathrm { M g - H }$ ，As a consequence， the kinetic of hydrogen desorption reaction was improved. Our group had investigated the catalysis effects of doped and un-doped $\\mathrm { C e O } _ { 2 }$ on the hydrogen storage properties of Mg-based alloy. It was found that doped $\\mathrm { C e O } _ { 2 }$ solid solutions always do well on it. Their catalysis performances were linked closely with the species of the doped ions and the doped content. Beyond that, the spectra and structure characteristics of the catalysts also play an important role during the catalysis process [23]. But the roles of impact factors such as the crystal structure,the spectral characteristics and the electronic structure during the catalysis reactions are still unclear. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It has been reported that the ${ \\mathrm { N d } } ^ { 3 + }$ -doped $\\mathrm { C e O } _ { 2 }$ has the highest hole conductivityl24],and the formed solid solutions show higher catalytic activity for the total oxidation of methanel25]. On the other hand,it was also reported that $\\mathbf { C e } _ { 1 - x } \\mathbf { E u } _ { x } \\mathbf { O } _ { 2 - x / 2 }$ mixed oxides have better catalytic performances for the oxidation of CO,which was atributed to the increased amount of oxygen vacancies[26]. Thus, in this paper, we synthesized $\\mathrm { N d ^ { 3 + } }$ and ${ \\mathrm { E u } } ^ { 3 + }$ ions co-doped nanosized $\\mathrm { C e O } _ { 2 }$ -based solid solution catalysts.The crystalline structures and spectral features were investigated systematically. The catalysis fects on the electrochemical performance of ball milled $\\mathbf { M g } _ { 2 } \\mathbf { N i }$ were evaluated， and the catalysis mechanism was analyzed from the viewpoints of microstructure and spectrum features of the oxide catalysts. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 EXPERIMENTAL ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1Syntheses of the samples ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { C e } ( \\mathrm { N O } _ { 3 } ) _ { 3 } { \\cdot } 6 \\mathrm { H } _ { 2 } \\mathrm { O }$ (AR), $\\mathrm { N d } ( \\mathrm { N O } _ { 3 } ) _ { 3 } { \\cdot } 6 \\mathrm { H } _ { 2 } \\mathrm { O }$ (AR), $\\mathrm { E u ( N O _ { 3 } ) _ { 3 } } { \\cdot } 6 \\mathrm { H } _ { 2 } \\mathrm { O }$ (AR)and NaOH(AR) were used as the starting reagents to synthesize the ${ \\mathrm { N d } } ^ { 3 + }$ and $\\mathrm { E u } ^ { 3 + }$ ions co-doped $\\mathrm { C e } _ { 1 - x } ( \\mathrm { N d } _ { 0 . 5 } \\mathrm { E u } _ { 0 . 5 } ) _ { x } \\mathrm { O } _ { 2 - \\delta }$ solid solutions via hydrothermal method.The specific hydrothermal synthetic process was described as follows: solutions of the lanthanide nitrate were confected to $0 . 3 \\mathrm { \\ m o l / L }$ ,respectively. Then these three kinds of solutions were mixed and stirred in certain proportion. The dopant content $x$ varied from O.00 to 0.20.After that, 6 mol/L NaOH solution was used as the mineralizer to adjust the $\\mathrm { p H }$ value to around 12. The received suspensions were sealed in the Teflon-lined autoclaves and heated to $2 0 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ for $2 4 \\mathrm { ~ h ~ }$ . The obtained products were washed fully with distilled water and dried at $8 0 \\ \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ for $6 \\textup { h }$ . Afterwards, the as-prepared $\\mathrm { C e } _ { 1 - x } ( \\mathrm { N d } _ { 0 . 5 } \\mathrm { E u } _ { 0 . 5 } ) _ { x } \\mathrm { O } _ { 2 - \\delta }$ solid solutions were mixed with $\\mathrm { M g } _ { 2 } \\mathrm { N i }$ powders (2OO mesh) and Ni powders (2OO mesh) with the weight ration of 0.05:1:1 and ball milled for $2 0 \\mathrm { h }$ .The ball milling process was held in stainless-steel containers in the Ar atmosphere, with the weight ratio of bals to the mixed materials to be 4O:1 and the rotating speed of the jars kept at 350 $\\mathrm { { r m p / m i n } }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 Characterization ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The phases of the solid solutions were measured by $\\mathrm { \\Delta } X$ -ray diffractometer (Rigaku DAMX2500） with $\\operatorname { C u } K \\alpha$ radiation. The average particle size $D$ was calculated from the difraction peak (11) of ${ \\mathrm { C e O } } _ { 2 }$ utilizing the Scherrer formula,and the lattice parameters were estimated by full-matrix least-squares methods. The Diffuse reflectance UV-visible spectroscopy of the samples was recorded on Hitachi U-390o UV-vis spectrophotometer. Raman spectra of the samples were measured on a JY-HR800 Raman spectrometer with a He-Ne ions laser in the region of $2 0 0 { \\sim } 1 0 0 0 ~ \\mathrm { c m ^ { - 1 } }$ . The excitation wavelength was $4 1 8 ~ \\mathrm { n m }$ and the output powder was $2 0 \\mathrm { \\ m W } .$ ，The experimental details of the electrochemistry and the kinetic properties of $\\mathbf { M g } _ { 2 } \\mathbf { N i }$ -based compounds were almost the same as described in our precious report[23l. The weight of $\\mathbf { M g } _ { 2 } \\mathbf { N i }$ alloys was deemed as the active material. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 RESULTSANDDISCUSSION ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 XRD characterization ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 shows the XRD patterns of pure and $\\mathrm { N d ^ { 3 + } } / \\mathrm { E u ^ { 3 + } }$ co-doped $\\mathrm { C e O } _ { 2 }$ samples.All the samples with the doped content $x$ ranging from O.O0 to O.20 exhibited typical fluorite cubic structure with space group fm3m and no phases corresponding to the compounds of the doped ions were observed. Although the structures of the solid solutions keep the single phase,the doped ions stillinduce the subtle transformation of the lattice structure. Inset of Fig.1 shows the enlarged patterns of the (11) peak. Compared with the undoped $\\mathrm { C e O } _ { 2 }$ ，the diffraction pattern of this peak gradually shifts towards the lower angle range,implying the latice expansion follows the Vegard's law. It should also be noted that the (111) peak of the sample with $x = 0 . 2 0$ slightly shifts to the higher angle, which could be atributed to the crystalline size ffect (Fig.2(c)).The lattce parameters are one of the most sensitive indexes to reflex the changes of the latice structure and the chemical composition. Meanwhile,it is usuall used to estimate the solid solubilityl27l. We all know that both of the doped ionic radii of $\\mathrm { E u } ^ { 3 + } \\left( 1 . 0 6 6 \\mathring { \\mathrm { A } } \\right)$ and $\\mathrm { N d ^ { 3 + } }$ (1.109 A) are larger than that of $\\mathrm { C e ^ { 4 + } \\left( 0 . 9 7 \\ : \\mathring { A } \\right) }$ in 8-coordination. If the doped ions incorporate into the lattice and replace the site of ${ \\mathrm { C e ^ { 4 + } } }$ ,the cell parameters and the cell volumes will increase. Indeed,a systemic increase of cellparameters with the doped content can certainly be discernible from Fig. 2(a),and similar tendencyis also observed for the cellvolumes,as shown inFig.2(b).These results confirm that the doped ions have incorporated into the lattice of $\\mathrm { C e O } _ { 2 }$ and the homogenous $\\mathrm { C e } _ { 1 - x } ( \\mathrm { N d } _ { 0 . 5 } \\mathrm { E u } _ { 0 . 5 } ) _ { x } \\mathrm { O } _ { 2 - \\delta }$ solid solutions are formed.Fig.2(c) exhibitsthe crystalline size of the solid solutionscalculated from the Scherer formula.The size is largely influenced by the doped content.Firstly,the size decreased abruptly from $2 3 ~ \\mathrm { n m }$ for pure $\\mathrm { C e O } _ { 2 }$ to $1 2 \\mathrm { n m }$ for the sample with doped content $x = 0 . 0 4$ . Further increasing the doped ions content causes a continuing growth of the crystalline size,then a litle tiny bit decrease is observed for $x = 0 . 2 0$ .Many factors could influence the variation of the lattice,and the main reasons are ascribed to the valence state of the dopant ions and the crystalline size. Generally speaking,a lattice contraction will be observed when increasing the crystaline size due to microstrain effcts existing in nanosized materials[28]. Combined with the results of Fig. 2(a) and 2(c), we can see that although the crystalline sizes keep growing, the cell parameters still grow with straight line,which implies that the doped ion contents are the primary cause for affecting the cell parameters. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/26ff6ff7499f5076d910ad68911b638443fbd6a3996f936bf35435f8860fccda.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9eee10843c1a601e37caddb2c294ee3c778ac5e54b51ad4508dc68da0eaf71d7.jpg",
+        "img_caption": [
+            "Fig.1．XRD patterns of the typical $\\mathbf { N } \\mathbf { d } ^ { 3 + }$ and ${ \\bf E u } ^ { 3 + }$ co-doped $\\mathbf { C e O } _ { 2 }$ samples, inset shows enlarged XRD patterns for the (11l) peak ",
+            "Fig.2.Doped content dependence of (a) cell parameters,(b) cell volume and (c) crystallite size "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 Raman spectra ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Raman measurement is a kind of nondestructive,sensitive,and rapid analysis technique to research on phonon and the electronic structure of materials.Any changes in latice spacing or chemical environment wil induce the band frequencies to shift. $\\mathrm { C e O } _ { 2 }$ shows a cubic fluorite structure and belongs to $O _ { h } ^ { 5 }$ space group. The doping of $\\mathrm { N d ^ { 3 + } }$ and ${ \\mathrm { E u } } ^ { 3 + }$ ions into the lattice of $\\mathrm { C e O } _ { 2 }$ deforms the structure and can be tested by Raman spectra. Fig. 3 displays the Raman spectra of typical $\\mathrm { C e } _ { 1 - x } ( \\mathrm { N d } _ { 0 . 5 } \\mathrm { E u } _ { 0 . 5 } ) _ { x } \\mathrm { O } _ { 2 - \\delta }$ solid solutions. All the solid solutions display one sharp and strong band around $4 5 3 ~ \\mathrm { c m ^ { - 1 } }$ ascribing to Raman-active $F _ { 2 g }$ mode,which is the feature of fluorite structural materials corresponding to the oxygen breathing vibrations around the $\\mathrm { C e ^ { 4 + } }$ ions[29]. The shift of $\\mathrm { F } _ { 2 \\mathrm { g } }$ Raman mode for the doped solid solutions to larger wavenumbers ascribes to the crystalline size effect and the latice distortion[30l. Moreover, a broad and weak peak located around $5 7 0 ~ \\mathrm { c m ^ { - 1 } }$ ascribing to the characteristic of oxygen vacancies in the lattice of $\\mathrm { C e } _ { 1 - x } ( \\mathrm { N d } _ { 0 . 5 } \\mathrm { E u } _ { 0 . 5 } ) _ { x } \\mathrm { O } _ { 2 - \\delta }$ solid solutions is also monitored by Raman technique,and the intensity of this peak is increased by increasing the doped content. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/58664f5faa27b6fa187a4ba776be9db5406a97e2ffc68a7439de189fdc8dbd02.jpg",
+        "img_caption": [
+            "Fig.3. Raman spectraof $\\mathbf { C e } _ { 1 - x } ( \\mathbf { N d } _ { 0 . 5 } \\mathbf { E u } _ { 0 . 5 } ) _ { x } \\mathbf { O } _ { 2 - \\delta }$ solidsolutions "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 UV-Vis spectrum analysis ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The UV-Vis absorption spectra of the $\\mathrm { C e } _ { 1 - x } ( \\mathrm { N d } _ { 0 . 5 } \\mathrm { E u } _ { 0 . 5 } ) _ { x } \\mathrm { O } _ { 2 - \\delta } \\left( x = 0 . 0 0 { \\sim } 0 . 2 0 \\right)$ solid solutions are shown in Fig. 4(a). It can be found that the pure $\\mathrm { C e O } _ { 2 }$ has no absorption in the visible region,while the doped samples exhibit extra absorption peaks,and the intensities of the bands become more distinct with increasing the $\\mathrm { N d ^ { 3 + } }$ and $\\mathrm { E u } ^ { 3 + }$ concentrations. The weak bands located at 520 and $5 3 4 ~ \\mathrm { n m }$ correspond to the $4 f { - } 4 f$ transitions from the $^ 7 F _ { 0 , 1 }$ level to the excited states of ${ \\mathrm { E u } } ^ { 3 + }$ ions. More specifically, the absorption band at $5 2 0 \\mathrm { n m }$ due to $^ 7 F _ { 0 } $ ${ } ^ { 5 } D _ { 1 }$ transition and the $^ 7 F _ { 1 }$ state to ${ } ^ { 5 } D _ { 1 }$ are present at $5 3 5 ~ \\mathrm { n m } ^ { [ 3 0 ] }$ . On the other hand, the absorption bands with relatively higher intensity centered at around 590,685 and $7 4 5 ~ \\mathrm { n m }$ correspond to the $\\mathrm { N d ^ { 3 + } }$ ion transitions starting from the $^ 4 I _ { 9 / 2 }$ ground state to the higher levels $^ { 4 } G _ { 5 / 2 } + ^ { 4 } G _ { 7 / 2 } , ^ { 4 } F _ { 9 / 2 } , ^ { 4 } F _ { 7 / 2 } + ^ { 4 } S _ { 3 / 2 } .$ , respectively[31].Fig. 4(b) displays the bandgap energies of the typically synthesized samples which are calculated using the Tauc relation as shown in Eq.(1) considering the direct allowed transition[32]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha h \\nu = A ( h \\nu - E _ { g } ) ^ { 1 / 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $\\alpha$ is the absorption coeficient, and $A$ is the constant. It can be seen that the bandgap energies almost decrease linearly from $3 . 2 3 ~ \\mathrm { e V }$ for $x = 0 . 0 0$ to $2 . 8 1 ~ \\mathrm { e V }$ for $x = 0 . 2 0$ . The reason could be ascribed to the replacement of ${ \\mathrm { C e ^ { 4 + } } }$ with lower valence states of ${ \\mathrm { E u } } ^ { 3 + }$ and $\\mathrm { N d } ^ { 3 + }$ , which will result in the formation of oxygen vacancies and additional energy levels.Besides,the doping causes the latice distortion which could also affect the bandgap structure.This result is in accordance with that of the Raman analysis which means that ${ \\mathrm { E u } } ^ { 3 + }$ and $\\mathrm { N d ^ { 3 + } }$ have doped into the lattice of ${ \\mathrm { C e O } } _ { 2 }$ successfully and affected the lattce structure as well as changing the performance of electron transition. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8d736f0b5a815cbd0fd66ac7755919f608913bd45f3ff26403e62738fd2bbc09.jpg",
+        "img_caption": [
+            "Fig.4.(a) UV-Vis absorption spectrum of the $\\mathbf { C e } _ { 1 - x } ( \\mathbf { N d } _ { 0 . 5 } \\mathbf { E u } _ { 0 . 5 } ) _ { x } \\mathbf { O } _ { 2 - \\delta } \\left( x = \\mathbf { 0 . 0 0 } { \\sim } \\mathbf { 0 . 2 0 } \\right)$ solid solutions; (b)Band gap energy of the samples "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4Microstructure of the Mg2Ni-Ni- $. 5 \\%$ （20 $\\mathbf { C e } _ { 1 - x } ( \\mathbf { N d } _ { 0 . 5 } \\mathbf { E u } _ { 0 . 5 } ) _ { x } \\mathbf { O } _ { 2 - \\delta }$ composites ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c55ea53a7211ec8be1320690a75abbd50b8abc1c455447bb41799f947878c473.jpg",
+        "img_caption": [
+            "Fig.5. XRD pattern ball milled $\\mathbf { M g _ { 2 } N i - N i - 5 \\% }$ （204 $\\mathbf { C e } _ { 1 - x } ( \\mathbf { N d } _ { 0 . 5 } \\mathbf { E u } _ { 0 . 5 } ) _ { x } \\mathbf { O } _ { 2 }$ -δ composites "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a248e4e2b018b23bee095e01bb467d51134d3e4d617a2a7a7d7cbd7929699be9.jpg",
+        "img_caption": [
+            "Fig. 6. SEM pictures of the Mg2Ni-Ni- $5 \\%$ Ce1-x(Ndo.5Eu0.5)xO2-s composites, (a) $x = 0 . 1 6 \\ ; \\left( \\mathbf { b } \\right) x = \\mathbf { 0 . 2 0 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig. 5 displays the XRD patterns of $\\mathbf { M g } _ { 2 } \\mathbf { N i - N i - } 5 \\%$ （204号 $\\mathrm { C e } _ { 1 - x } ( \\mathrm { N d } _ { 0 . 5 } \\mathrm { E u } _ { 0 . 5 } ) _ { x } \\mathrm { O } _ { 2 - \\delta }$ composites after ball milled for $2 0 \\mathrm { ~ h ~ }$ . It can be seen that the $\\mathbf { M g } _ { 2 } \\mathbf { N i }$ alloys exhibit amorphous/nanocrystalline phase and the $\\mathrm { N i }$ powders to some extent still display as the crystalline phase (PDF#7O-O989). However, the phases of $\\mathrm { C e } _ { 1 - x } ( \\mathrm { N d } _ { 0 . 5 } \\mathrm { E u } _ { 0 . 5 } ) _ { x } \\mathrm { O } _ { 2 - \\delta }$ can not be observed which could be ascribed to the small amount of catalysts.The morphologies of the ball milled composites shown in Fig. 6 indicate that the particle sizes of samples were uniformity and the radius being about $5 \\mu \\mathrm { m }$ . By comparing the XRD and SEM results, it seems that there are no significant distinctions inthe morphologies of the composites with various catalysts.Therefore,diferent electrochemical and kinetic performances of the composites willbe discussed followed could be put down to the catalysis effects of the $\\mathrm { C e } _ { 1 - x } ( \\mathrm { N d } _ { 0 . 5 } \\mathrm { E u } _ { 0 . 5 } ) _ { x } \\mathrm { O } _ { 2 - \\delta }$ catalysts with diverse doped content. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.5Electrochemical properties of $\\mathbf { M g } _ { 2 } \\mathbf { N i - N i - } 5 \\%$ $\\mathbf { C e } _ { 1 - x } ( \\mathbf { N d } _ { 0 . 5 } \\mathbf { E u } _ { 0 . 5 } ) _ { x } \\mathbf { O } _ { 2 - \\delta }$ composites ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig. 7(a) gives the first cycle discharge curves of the ball milled $\\mathbf { M g } _ { 2 } \\mathbf { N i - N i - } 5 \\%$ （20 $\\mathrm { C e } _ { 1 - x } ( \\mathrm { N d } _ { 0 . 5 } \\mathrm { E u } _ { 0 . 5 } ) _ { x } \\mathrm { O } _ { 2 - \\delta }$ composites. The discharge potential plateau corresponds to the oxidation process of desorbed hydrogen from $\\mathrm { M g } _ { 2 } \\mathrm { N i H } _ { 4 }$ . Compared with the catalytic efect between the solid solutions with different doped content, it clearly shows that the widths of discharge potential plateau of the samples with doped catalysts are larger than that with pure $\\mathrm { C e O } _ { 2 }$ .Specifically, the discharge capacity fist increases from $7 2 2 . 3 \\mathrm { m A h / g }$ for $x = 0 . 0 0$ to 819.7 $\\mathrm { \\ m A h / g }$ for $x = 0 . 1 6$ ,and then slightly decreases to $7 8 0 . 1 \\ \\mathrm { m A h / g }$ for $x = 0 . 2 0$ . This result means that the doped $\\mathrm { C e } _ { 1 - x } ( \\mathrm { N d } _ { 0 . 5 } \\mathrm { E u } _ { 0 . 5 } ) _ { x } \\mathrm { O } _ { 2 - \\delta }$ could help to enhance the discharge capacities compared with that of using pure $\\mathrm { C e O } _ { 2 }$ as the catalyst. Meanwhile,it should be noticed that the electrodes with the $\\mathrm { C e } _ { 1 - x } ( \\mathrm { N d } _ { 0 . 5 } \\mathrm { E u } _ { 0 . 5 } ) _ { x } \\mathrm { O } _ { 2 - \\delta } \\left( x = 0 . 0 0 , 0 . 1 2 , \\right.$ （20 0.16) catalysts are almost similar in middle potential, but the composites electrodes $\\left( x = 0 . 0 8 , 0 . 2 0 \\right)$ ）shift to higher potential and decrease steeper in the process of discharging. The reason of the variation of plateau slop can be ascribed to the various amorphous tendency of the composites with different catalysts[33l. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d7413d798ef360d6bfc4df6ea3245ffffe638fdf63276bd6c50e531e015c9935.jpg",
+        "img_caption": [
+            "Fig.7.Electrochemical properties of $\\mathbf { M g } _ { 2 } \\mathbf { N i - N i - } 5 \\%$ （20 $\\mathbf { C e } _ { 1 - x } ( \\mathbf { N d } _ { 0 . 5 } \\mathbf { E u } _ { 0 . 5 } ) _ { x } \\mathbf { O } _ { 2 - \\delta }$ composites )the first cycle discharge curves;(b) the cycle stability and the capacity retention rate (ins( "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The cycle stability of the composites electrodes is one of the most important features which directly affect the working life of the batteries.On the other hand, the activation characteristic and the maximum discharge capacity are also two factors which are closely associated with their practical applications.Fig.7(b) depicts the cyclic stability curves,and the inset presents the maximum discharge capacity and the capacity retention rate $S _ { 2 0 }$ of the ball milled composites.It can be seen that all the composites can be activated in the first cycle.The maximum discharge capacities of the composites with doped $\\mathrm { C e } _ { 1 - x } ( \\mathrm { N d } _ { 0 . 5 } \\mathrm { E u } _ { 0 . 5 } ) _ { x } \\mathrm { O } _ { 2 - \\delta }$ solid solutions are higher than that with pure $\\mathrm { C e O } _ { 2 }$ .Meanwhile, the discharge capacity retention rates $S _ { 2 0 }$ also increase from $2 5 . 0 \\%$ （ $\\mathbf { \\chi } _ { x } = \\mathbf { \\chi } _ { \\mathbf { \\chi } }$ 0.00) to $4 2 . 2 \\%$ 1 $\\begin{array} { r } { \\left( x = 0 . 2 0 \\right) } \\end{array}$ . With regard to $\\mathbf { M g } _ { 2 } \\mathbf { N i }$ based composites, the main reason for the degradation of discharge capacity closely relays on the corrosion of active alloy in alkaline electrolyte.The optimization of the cycle stability indicated the doped solid solutions are probably improving the corrosion resistance of $\\mathbf { M g } _ { 2 } \\mathbf { N i }$ alloys. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.6 Electrochemical kinetic properties ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig. 8(a) gives the EIS Nyquist plots of $\\mathbf { M g } _ { 2 } \\mathbf { N i - N i - } 5 \\%$ C $\\mathrm { \\mathop { e } } _ { 1 - x } ( \\mathrm { N d } _ { 0 . 5 } \\mathrm { E u } _ { 0 . 5 } ) _ { x } \\mathrm { O } _ { 2 - \\delta }$ composites electrodes in $50 \\%$ DOD. It can be seen that every curve consists of two semicircles and a linear Warburg impendence. The larger semicircle in middle frequency region corresponds to the charge transfer process on the electrode surface.And it can be considered as the rate control step at the interface between the alloy and the electrolyte. Generally speaking, the rate of charge transfer is depending on the crystallgraphic and electronic structure[35]. The different constitutes on the surface of alloy will affect the distribution of valence electron，which substantiallyinfluencesthehydrogendissociationreaction[36].Thecompositeswithdoped $\\mathbf { C e } _ { 1 - x } ( \\mathbf { N d } _ { 0 . 5 } \\mathbf { E u } _ { 0 . 5 } ) _ { x } \\mathbf { O } _ { 2 - \\delta } ( x > 0 . 0 0 )$ exhibit a visible shrink in the radius of the larger semicircle, demonstrating thatthe doped catalyst acts a positive role on the rate ofcharge transfer. Concretely,the order is as follows: $x =$ $0 . 2 0 > 0 . 1 6 > 0 . 1 2 > 0 . 0 8 > 0 . 0 0$ ，which means that the catalytic activities of the doped solid solutions are consistent with the doped content. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/0b369dcac04174dfcbb4096fbf4f585198b33c7420cb914723d261be5f99aa9a.jpg",
+        "img_caption": [
+            "Fig.8.Kinetic properties of $\\mathbf { M g } _ { 2 } \\mathbf { N i - N i - } 5 \\%$ （204号 $\\mathbf { C e } _ { 1 - x } ( \\mathbf { N d } _ { 0 . 5 } \\mathbf { E u } _ { 0 . 5 } ) _ { x } \\mathbf { O } _ { 2 } .$ δcomposites electrodes (a) EIS Nyquist plots in $50 \\%$ DOD; (b) Semilogarithmic curves of anodic current vs. time responses in $100 \\%$ DOD, and the inset shows the diffusion coefficient $\\textbf {  { D } }$ with different doped catalysts "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In order to assess the hydrogen diffusivity, the typical semilogarithmic curves of anodic current $\\log ( i ) \\ \\nu s$ discharge time $\\mathbf { \\rho } ( t )$ of the electrodes with $100 \\%$ DOD are depicted in Fig. 8(b). From the slope of $\\log ( i )$ with $t$ we can obtain the hydrogen diffusion coefficient $D$ to be $1 0 ~ { \\mu \\mathrm { m } }$ by assuming the average radius of composites[37l. As seen in the inset of Fig. 8(b), the $D$ increases firstly and then decreases a bit with increasing the doped content, which means that the catalysts with different contents influence the $D$ obviously. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.7Explanation of catalysis mechanism ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Asisdiscussed before， the electrochemical and kinetic properties ofthe $\\mathbf { M g } _ { 2 } \\mathbf { N i - N i - } 5 \\%$ $\\mathrm { C e } _ { 1 - x } ( \\mathrm { N d } _ { 0 . 5 } \\mathrm { E u } _ { 0 . 5 } ) _ { x } \\mathrm { O } _ { 2 - \\delta }$ composites are improved remarkably, which means the $\\mathrm { E u } ^ { 3 + }$ and ${ \\mathrm { N d } } ^ { 3 + }$ co-doped catalysts play a positive role in promoting the hydrogen storage properties of $\\mathbf { M g } _ { 2 } \\mathbf { N i }$ alloy. The catalysis mechanism can be analyzed from the point of the microstructure and the spectra characteristics.As is analyzed from the XRD, Raman and UV spectra, the enlargement of cell parameters,the distortion of lattice structure,the increasing content of oxygen vacancies and the decreased bandgap energies with increasing the doped content of the catalysts can be taken as the reasons for improving the hydrogen storage properties of $\\mathbf { M g } _ { 2 } \\mathbf { N i }$ alloys. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "As regards the cell parameters, Chafi et al.[2] proposed that H can be easily adsorbed along the (110) surface of $\\mathrm { C e O } _ { 2 }$ without energy consumption. Thus, the increased cell parameters mean $\\mathrm { ~ H ~ }$ atoms have larger space to penetrate and allow more $\\mathrm { H }$ atoms to enter. In other words, the $\\mathrm { ~ H ~ }$ atoms first choose to enter into the lattice of $\\mathrm { C e O } _ { 2 }$ -based catalysts instead of passing through the $\\mathrm { M g ( O H ) } _ { 2 }$ or $\\mathbf { M g O }$ layers,which is the main reason of slow sorption/desorption kinetics of Mg-based alloys.When the $\\mathrm { ~ H ~ }$ atoms are absorbed, the Mg-H bond of the formed $\\begin{array} { r } { { \\bf M g } _ { 2 } { \\bf N i } { \\bf H } _ { 4 } } \\end{array}$ is still affected by the catalysts.The electron orbitals have close interaction between the catalysts and the $\\begin{array} { r } { { \\bf M g } _ { 2 } \\mathrm { N i H } _ { 4 } } \\end{array}$ ，and the electronic exchange reactions result in the triggered Mg-H bond,which accelerates the dissociation of $\\begin{array} { r } { { \\bf M g } _ { 2 } { \\bf N i } { \\bf H } _ { 4 } } \\end{array}$ . The narrowed band gap energies of the catalysts could enhance the electronic exchange interaction and therefore facilitate the decomposed of $\\mathbf { M g - H }$ bond[21]. With respect to the oxygen vacancy,the catalytic activity mainly depends on the content of them. The oxygen vacancies and small polarons of the vacant structure of $\\mathrm { C e O } _ { 2 }$ can help improve the hydrogen desorption kinetics.Borgschulte et al.[38] demonstrated that the desorption properties of $\\mathrm { M g H } _ { 2 }$ can be considered as a function of the oxygen vacancy formation. Oelerich et al.4] also investigated that the oxides with diferent valences exhibited superior catalytic effect.Thus,in our experiment, we doped two ions with diferent valence and size into the latice of ${ \\mathrm { C e O } } _ { 2 }$ , which could not only increase the number of oxygen vacancies but also make the metal atoms display various electronic states. Meanwhile, the $\\mathrm { C e } _ { 1 - x } ( \\mathrm { N d } _ { 0 . 5 } \\mathrm { E u } _ { 0 . 5 } ) _ { x } \\mathrm { O } _ { 2 - \\delta }$ solid solutions keep with the fluorite structure single phase,alowing the rapider difusion of oxygen atoms to locate at the same crystallographic plane,which is also an important benchmark of the catalytic activity. On the other hand, it is worth noting that although the degree of the latice distortion, the band gap energy and the oxygen vacancies content change almost linearly，the variation of some corresponding hydrogen storage properties of the composites is not following the same tendency. Specificaly,the maximum discharge capacity and the value of diffusion coefficient $D$ of the composites with $x = 0 . 2 0$ are lowered than that of $x = 0 . 1 6$ During the ball milling process,the nanosized catalysts will attach on the surface of $\\mathbf { M g } _ { 2 } \\mathbf { N i }$ alloys,and different size of the catalyst willaffect their distribution, which influences the surface activityof the ally further.As is indicated in the XRD pattern, the size of catalysts first increases and then decreases with $x = 0 . 2 0$ ； the variation of the maximum discharge capacity and $D$ value follows almost the same trend. This tendency means that various crystalline sizes of the catalysts may also influence their catalysis efects,and the specific reason needs to be researched further. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4 CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The nanosized ${ \\mathrm { E u } } ^ { 3 + }$ and $\\mathrm { N d ^ { 3 + } }$ co-doped $\\mathrm { C e } _ { 1 - x } ( \\mathrm { N d } _ { 0 . 5 } \\mathrm { E u } _ { 0 . 5 } ) _ { x } \\mathrm { O } _ { 2 - \\delta }$ solid solutions are synthesized via hydrothermal method. Their microstructures and spectral characteristics are analyzed systematically. After that, ball milled $\\mathbf { M g } _ { 2 } \\mathbf { N i - N i - } 5 \\%$ （ $\\mathrm { C e } _ { 1 - x } ( \\mathrm { N d } _ { 0 . 5 } \\mathrm { E u } _ { 0 . 5 } ) _ { x } \\mathrm { O } _ { 2 - \\delta }$ composites are obtained by ball milling method,and the electrochemical and kinetic properties of the composites are investigated. The $\\mathrm { C e } _ { 1 - x } ( \\mathrm { N d } _ { 0 . 5 } \\mathrm { E u } _ { 0 . 5 } ) _ { x } \\mathrm { O } _ { 2 - \\delta }$ solid solutions show fluorite cubic $\\mathrm { C e O } _ { 2 }$ phase without any additional phases in the doped range $x \\leqslant 0 . 2 0$ With increasing doped content， the cell parameters and cell volumes are enlarged， the oxygen vacancy concentrations are increased,and the bandgap energies are decreased.The doped solid solutions could improve the electrochemical and kinetic properties of $\\mathbf { M g } _ { 2 } \\mathbf { N i }$ alloy. The maximum discharge capacity was increased from $7 2 2 \\mathrm { m A h / g }$ for $x = 0 . 0 0$ to $8 1 9 . 7 ~ \\mathrm { m A h / g }$ for $x = 0 . 1 6$ ,and the cycle stability $ { \\mathbf { S } } _ { 2 0 }$ increased from $2 5 . 0 \\%$ 0 $\\scriptstyle { \\mathcal { x } }$ （204号 $= 0 . 0 0 )$ to $4 2 . 2 \\%$ $( x = 0 . 2 0 )$ . The kinetic measurement proved that the catalytic activity of composites surfaces and the hydrogen diffusion rate were improved for the composites with doped catalysts,especially for the composites with $x = 0 . 1 6$ and $x = 0 . 2 0$ . The catalytic mechanism is analyzed from the microstructure and the spectrum feature of the catalysts.It is found that the doped solid solutions catalysts with larger cell parameters, the distorted latice structures,the increasing content of oxygen vacancies and the decreased bandgap energies can be taken as the optimized factors for improving the electrochemical hydrogen storage properties of $\\mathbf { M g } _ { 2 } \\mathbf { N i }$ （204号 alloys. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1)Bardansdbo materials. Energy Environ. Sci.2011,4,4882-4895.   \n(2)BarkhodGeatositasgciB 2006,110,11020-11024.   \n(3)hu,HL;Q.LXY;u;QNFe propertiesofLa-Mg-Ni-based hydrogen storage compositealoys.Int.J.Hydrogen Energy2007,32,4925-4932.   \n(4)Oelericha Compd. 2001,315,237-242.   \n(5) Oelerich,W.; Klassen,T.; Bormann,R. Comparison of the catalytic effects of V, ${ \\bf V } _ { 2 } { \\bf O } _ { 5 }$ ,VN,and VC on the hydrogen sorption of nanocrystalline Mg.J. Alloys Compd.2001,322,L5-L9.   \n(6)Hadaaogjb state and local atomic structureof transition metal oxides dopedin MgH.J.Phys.Chem.C2009,113,13450-13455.   \n(7)BorgscultsUdGdoti   \n(8)Heck,R.M.; Farrauto,R.J.Automobil exhaust catalysts. Appl. Catal., A2001,221,443-457.   \n(9)ChenHY;Hveotfaurealureetl 59, 64-67.   \n(10)Ratnasamy,C.;Wagner,J.P.Water gasshiftcatalysis.Catal.Rev.2009,51,325-440.   \n(11) Trovareli,A. Catalytic properties of ceria and $\\mathrm { C e O } _ { 2 }$ containing material. Catal.Rev.Sci.Eng.1996,38,439-520.   \n(12)Liu,S.;Wu,X.D.; Weng,D.;Ran,R.Ceria-basedcatalystsforsootoxidation:areview.J.RareEarths2o15,33,567-590.   \n(13)Malecka, M.A.; Kepinski,L.; Mista,W. Structure evolution of nanocrystalline $\\mathrm { C e O } _ { 2 }$ and ${ \\mathrm { C e L n O } } _ { x }$ mixed oxides ( $\\mathrm { { L n } = \\mathrm { { P r } } }$ Tb, Lu) in $\\mathbf { O } _ { 2 }$ and $\\mathrm { H } _ { 2 }$ （204号 atmosphere and their catalytic in soot comnistion. Appl. Catal.,B2o07,74,290-298.   \n(14)Krishna,K.; Bueno-lopez,A.;Makkee,M.；Moulijin,J.Potential rare earth modified $\\mathrm { C e O } _ { 2 }$ catalysts for soot oxidation:I. Characterization and catalytic activity with $\\mathbf { O } _ { 2 }$ Appl.Catal.,B2007,75,189-200.   \n(15)Paagoo the synthesis of molybdenum catalysts supported on titania.J.Phys. Chem. C 2010,114,11868-11879.   \n(16)Peng,C.;Wang,Y.;Jiag,K.inB.Q;Liang,HW.;FngJ.;Meng,JSudyonthestructurechangeandoxgenvacatiiffor $\\mathrm { C e } _ { 1 - x } \\mathrm { S m } _ { x } \\mathrm { O } _ { 2 - y }$ solid solution.J.Alloys Compd.2003,349,273-278.   \n(17)Bai, W.;Choy,K.L.; Stelzer,N.H.J.; Schoonman,J.Thermophoresis-assisted vapour phase synthesisof $\\mathrm { C e O } _ { 2 }$ and $\\mathrm { C e } _ { x } \\mathbf { Y } _ { 1 - x } \\mathbf { O } _ { 2 - \\delta }$ nanoparticles. Solid State Ion 1999,116,225-228.   \n(18)i,C $\\mathbf { C e } _ { 1 - x } \\mathbf { G } \\mathbf { d } _ { x } \\mathbf { O } _ { 2 - x / 2 }$ nanopowders and their electrochemical and EPR characterization.Solid State Ion 2oo4,175,361-366.   \n(19)Song, M.Y.; Bobet,J.L.; Darriet,B.Improvement inhydrogen sorptionpropertisf $\\mathbf { M g }$ by reactive mechanical grinding with $\\mathrm { C r } _ { 2 } \\mathrm { O } _ { 3 }$ $\\mathrm { A l } _ { 2 } \\mathrm { O } _ { 3 }$ and $\\mathrm { C e O } _ { 2 }$ .J. Alloys Compd.2002,340,256-262.   \n(20)Janot,R;rok,X;ougier,Ayard,L;i,G.;ascon,J.drogesotionproertiesforrfacatd $\\mathrm { M g H } _ { 2 }$ and $\\mathbf { M g } _ { 2 } \\mathbf { N i }$ alloys. J. Alloys Comps.2005,404-406,293-296.   \n(21)Gulicovski,J;Raskovic-Lovre,Z;Kurko,S.Vujasin,R;JovanovicZ;atovicL;Novakovic,J.GIfuenceofcat $\\mathrm { C e O } _ { 2 }$ nanostructured ceramics on $\\mathrm { M g H } _ { 2 }$ hydrogen desorption properties.Ceram. Int. 201,38,1181-1186.   \n(22)Chfi,Z;Kc,otsitotcadteacogiod..   \n(23) Zhang,G.F.; Xv,J. Y.; Hou,Z. H.; Wang,Q. C. Research on micro-structure and catalysis properties of nanosized $\\mathrm { C e } _ { 1 - x } ( \\mathrm { F e } _ { 0 . 5 } \\mathrm { E u } _ { 0 . 5 } ) _ { x } \\mathrm { O } _ { 2 - \\delta }$ solid solutions. J. Rare Earth 2017,35,63-70.   \n(24) Xiong,Y.P.; Yamaji,K.; Horita,T.; Sakai,N.; Yokokawa,H.Hole and electronconductivitiesof $20 \\mathrm { m o l \\% }$ - $\\mathrm { R E O } _ { 1 . 5 }$ doped $\\mathrm { C e O } _ { 2 }$ 0 $\\mathrm { R E } = \\mathrm { Y b }$ ,Y, Gd, Sm, Nd,La). J. Electrochem. Soc.2004,151,A407-A412.   \n(25)alistCdoi 56, 69-75.   \n(26)Hernandez,W.Y.; Centeno,M.A.; Romero-Saria,F; Odriozola,J.A. Synthesis and characterizationof $\\mathrm { C e } _ { 1 - x } \\mathrm { E u } _ { x } \\mathrm { O } _ { 2 - x / 2 }$ mixed oxides and their catalytic activities for CO oxidation.J. Phys. Chem. C2009,113,5629-5635.   \n(27)Li,R.X.; Yabe,S.;Yamashita,M.; Momose,S.; Yoshida,S.; Yin,S.;Sato,T.Synthesisand UV-shielding propertieof $Z _ { \\mathrm { { n O - } } }$ and $\\mathbf { C a O }$ -doped $\\mathrm { C e O } _ { 2 }$ via soft solution chemicalprocessSolid State Ion2002,151,235-241.   \n(28)Tsuekawa,S.； Sivamohan,R.; ItoS.; Kasuya,A.; Fukuda,T. Structural studyon monosize $\\mathrm { C e O } _ { 2 - x }$ nano-particles. Nanostruct. Mater.999,11, 141-147.   \n(29)Keramidas,V.G; White,W.B.Raman spectraof oxides with the fluorite structure.J.Chem.Phys.1973,59,1561-1562.   \n(30) Walas,M.; Lewandowski,T.; Synak,A.; Lapiski,M.; Sadowski, W.; KoscielskaB. ${ \\mathrm { E u } } ^ { 3 + }$ doped tellrite glass ceramics containng ${ \\mathrm { S r F } } _ { 2 }$ nanocrystals: preparation, structure and luminescence properties.J. Alloy. Compd. 2017,696, 619-626.   \n(31)Chen,R.; Tian,Y.;Li,B.P.；Huang,F.F；Wang,C.Z.;Jing,X.F.; Zhang,J.J.; Xu,S.Q.Efficient $2 \\ \\mu \\mathrm { m }$ emission in $\\mathrm { N d ^ { 3 + } / H o ^ { 3 + } }$ co-doped silicate-germanate glass pumped by common $8 0 8 { \\mathrm { n m } }$ LD. Opt. Laser Technol. 2017,89,108-113.   \n(32） Daghrir,R.；Drougui,P.；Robert,D.； Modified $\\mathrm { T i O } _ { 2 }$ for environmental photocatalytic applications: a review. Ind. Eng.Chem.Res. 2013,52, 3581-3599.   \n(33）Li，R.；Wan，J.；Wang，F；Ding，C.；Yu，R.Efectofnon-stoichiometryonmicrostructureandelectrochemicalperformanceof Lao.8GdMg0.2Ni3.15C00.25Al0.1 $x = 0 { \\widetilde { \\longrightarrow } } 0 . 4 \\$ hydrogen storage alloys.J.Power Sources 2016,301,229-236.   \n(34)IwakuraC;sa;afoifaldegitrodedef. Power Source 1992,38,35-343.   \n(35)Kleperis,;i.sat StateElectrochem.2001,5,229-249.   \n(36)Nobuhara,K.;Kasai,H.;Dino,W.A.;Nakanishi,H. $\\mathrm { H } _ { 2 }$ dissociative adsorption on Mg,Ti,Ni,Pd andLa surface.Surf.Sci.2004,566-568,703-707.   \n(37)Zheng,G.;Popov,B.N.;White,R.E.Electrochemicaldeterminationof thediffusiocoeffcientofhydrogenthroughan $\\mathrm { L a N i _ { 4 . 2 5 } A l _ { 0 . 7 5 } }$ electrode in alkaline aqueous solution.J. ElectrocheM. Soc.1995,142,2695-2698.   \n(38）Borgschlte,.elan,；eA；rkhodaaG;oe,;oa.yrogenocatiooide $\\mathrm { M g H } _ { 2 }$ by catalytically active vacancies.Appl. Surf. Sci.2008,254,2377-2384. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Role of Microstructure and Spectrum Features on the Catalysis Effectof $\\mathbf { C e } _ { 1 - x } ( \\mathbf { N d } _ { 0 . 5 } \\mathbf { E u } _ { 0 . 5 } ) _ { x } \\mathbf { O } _ { 2 - \\delta }$ SolidSolutions ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Guo-Fang(张国芳） HOUZhong-Hui(侯忠辉） ZHAITing-Ting(翟亭亭)",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "XVJian-Yi(许剑轶) ZHANG Yang-Huan(张羊换) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Nanosized $\\mathrm { C e } _ { 1 - x } ( \\mathrm { N d } _ { 0 . 5 } \\mathrm { E u } _ { 0 . 5 } ) _ { x } \\mathrm { O } _ { 2 - \\delta }$ solid solutions $( x ~ = ~ 0 . 0 0 { \\sim } 0 . 2 0 )$ were synthesized by means of hydrothermal method. Then the solid solutions were ball milled with $\\mathbf { M g } _ { 2 } \\mathbf { N i }$ and $\\mathrm { N i }$ powders for $2 0 \\mathrm { h }$ to get the $\\mathrm { M g _ { 2 } N i - N i - 5 \\ m o l \\% } \\ C \\mathrm { e } _ { 1 - x } ( \\mathrm { N d } _ { 0 . 5 } \\mathrm { E u } _ { 0 . 5 } ) _ { x } \\mathrm { O } _ { 2 - \\delta }$ composites. The maximum discharge capacity of the composites was increased from $7 2 2 . 3 \\ \\mathrm { m A h / g }$ for $x = 0 . 0 0$ to $8 1 9 . 7 \\ \\mathrm { m A h / g }$ for $x = 0 . 1 6$ ，and the cycle stability $S _ { 2 0 }$ increased from $2 5 . 0 \\%$ ? $\\mathit { x } = 0 . 0 0 \\$ to $4 2 . 2 \\%$ 0 $\\mathbf { \\chi } _ { x } = 0 . 2 0 )$ . The kinetic measurement proved that the catalytic activity of composites surfaces and the hydrogen diffusion rate were improved for the composites with doped catalysts, especially for the composites with $x = 0 . 1 6$ and $x = 0 . 2 0$ ： ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/2dc88eaf54aa894465d5db7da1249078e80c3b45ec362ee3949dde100b9a0e6a.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 13
+    }
+]

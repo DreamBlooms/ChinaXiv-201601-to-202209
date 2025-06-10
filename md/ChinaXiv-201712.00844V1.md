@@ -1,0 +1,107 @@
+# 基础研究
+
+# 人肝组织脱细胞支架的制备
+
+郑幸龙1\~3，向俊西1-3,吴万权1\~³,刘学民¹，刘雯雁1-3,吕毅1-3  
+1西安交通大学第一附属医院肝胆外科,陕西 西安 710061；西安交通大学先进外科技术与工程研究所,陕西  
+西安710061；陕西省再生医学与外科工程研究中心，陕西西安710061
+
+摘要：目的 探究人肝组织脱细胞支架的制备。方法本研究利用手术切除的人肝血管瘤左外叶组织，经反复冻融， $0 . 0 1 \%$ SDS、$0 . 1 \%$ SDS和 $1 \%$ Triton X-100循环灌注制备人肝组织脱细胞支架，并通过灌注过氧乙酸消毒。将L-02细胞通过门静脉插管种植于脱细胞支架内进行培养。结果HE、DAPI染色和扫描电镜结果显示脱细胞支架内无细胞成分残留，残余DNA检测为$2 5 . 3 { \pm } 1 4 . 6 ~ \mathrm { n g / m g }$ 干质量,小于新鲜肝脏DNA含量的 $1 \%$ 。免疫组化证实支架内保留了I型胶原、IV型胶原、纤连蛋白、弹力蛋白成分。L-02细胞在支架上生长良好且有增殖，并表达白蛋白及葡萄糖-6-磷酸酶。结论 利用手术切除的人肝标本行肝组织脱细胞支架的制备是可行的，且为构建更适用于临床的组织工程肝脏提供了新思路。
+
+关键词：肝组织工程；人肝组织脱细胞支架;细胞外基质；三维培养
+
+# Preparation of a decellularized scaffold derived from human liver tissue
+
+ZHENG Xinglong13, XIANG Junxi³,WU Wanquan1-,LIU Xuemin',LIU Wenyan13,LU $Y i ^ { . . 3 }$ （204号   
+Departentoa JiaotonUesityia;Regenatieicidrgyeingehnterfi 710061, China
+
+Abstract: Objective To develop a method for preparing a decellularized scaffold based on human liver tissue. Methods A surgical specimen of the left lateral lobe of the liver was obtained from a patientswith hepatic hemangioma.The decellularization process was performed by repeated freezing-thawing, sequential perfusion with $0 . 0 1 \%$ SDS, $0 . 1 \%$ SDS and $1 \%$ Triton $x \mathrm { - } 1 0 0$ through the portal vein,and sterilization with peracetic acid. L-02 cells were then engrafted onto the decellularized liverscafold.Results HEstaining,DAPIstainingand scanning electron microscopyallverified theabsenceof residual cellular components in the decellularized scaffold.The residual DNAcontent in thedecellularized scaffolds was $2 5 . 3 \pm$ $1 4 . 6 ~ \mathrm { n g / m g }$ (dry weight), which was less than $1 \%$ of the total DNA content in a fresh human liver. Immunohistochemistry demonstratedthattypeIandIVcollgens,fibronectinandelastinwereallretained inthescaffold.TheengraftedL-02cels survived wellon the scafold withactive proliferationand expressedalbumin and G6pc.Conclusion Itis feasible to prepare decellularized scafflds using surgical specimens of human liver， which can be a new approach to constructing a tissue-engineered liver for clinical purposes.
+
+words: liver tissue engineering; human liver tissue decellularized scafld; extracellular matrix; thre-dimensional
+
+运用组织工程的方法制备支架以构建功能化的肝组织，来解决器官严重短缺的问题，是再生医学领域的研究热点。但用人工材料合成的支架存在缺乏血管网系统和天然的细胞外基质、生物相容性差、无法模拟真正器官结构等诸多缺陷，难于构建功能化肝样组织。大量文献提示细胞外基质成分对于组织特异性的基因表达、形态发生及细胞迁移均有重要影响[1-3]。脱细胞支架保留了完整的血管网络结构，易于营养物质及氧气的运输，三维的细胞外基质结构为细胞的贴附和增殖提供了一个合适的生物环境[4]。因此脱细胞支架作为一种理想的支架越来越受到人们的关注。2010年Uygun研究小组[5利用大鼠肝脏脱细胞支架进行原代肝细胞的培养，移植后器官有部分肝功能的表达。之后，多个研究团队也相继报道运用不同的脱细胞方式制备大鼠[5-8]、猪、羊等动物肝脏的脱细胞支架，并构建再细胞化肝脏，但目前仍未有利用人肝组织行脱细胞支架制备的报道。
+
+临床上有大量因良性疾病行半肝切除的手术标本，这些肝脏组织均可作为潜在的脱细胞支架用于组织工程研究，甚至是构建肝样组织行组织替代。因此我们尝试利用临床手术切除的人肝血管瘤左外叶组织，制备脱细胞肝脏支架，并通过再细胞化检测其生物相容性。
+
+# 1材料与方法
+
+# 1.1材料、试剂与仪器
+
+人肝组织来源于西安交通大学医学院第一附属医院肝胆外科手术切除的人肝血管瘤左外叶(标本获取经患者同意，并遵循新英格兰器官库器官获取流程)。主要试剂：十二烷硫酸钠(SDS）、TritonX-100、EGTA购于MPBiomedicals公司;I型胶原、IV型胶原、纤连蛋白、弹力蛋白多克隆抗体购于Abcam公司，Alb和G6pc多克隆抗体购于SantaCruz公司，稀释浓度1:100;DAPI购于Sigma公司,稀释浓度 $1 : 1 0 0 ; \mathrm { D N A }$ 提取试剂盒购于天根生化科技有限公司。培养基成分：DMEM培养基(HyClone） $10 \%$ 胎牛血清(Gibco) $. 1 0 0 ~ \mathrm { U / m L }$ 青霉素、$1 0 0 ~ \mathrm { { m g / L } }$ 链霉素(HyClone)。主要设备和仪器:超净工作台（Thermo Scientific）、 $\mathrm { C O } _ { 2 }$ 恒温培养箱（ThermoScientificSteri-Cycle371）、多功能酶标仪（ThermoVarioskanFlash)、扫描电镜(HitachiS-450)、冷冻干燥机(Labconco）荧光显微镜(Olympus IX71)。
+
+# 1.2 方法
+
+1.2.1脱细胞支架制备获取的标本为已切除血管瘤的肝脏左外叶，从门静脉左支残端插管，用PBS灌注肝脏标本以冲出残留血液，蠕动泵泵速为 $5 0 ~ \mathrm { m L / m i n }$ ,循环灌注 $ { 2 \mathrm { h _ { \odot } } }$ 将肝脏冷冻于 $- 8 0 \mathrm { ~ \textdegree C ~ } 2 4 \mathrm { ~ h ~ }$ 后解冻，反复冻融2次；用PBS循环灌注2h后，依次 $0 . 0 1 \%$ SDS 24h , $0 . 1 \%$ SDS $^ { 4 8 \mathrm { ~ h ~ } }$ 循环灌注，每 $8 \mathrm { ~ h ~ }$ 换液； $1 \%$ Triton X-100/$0 . 0 5 \%$ EGTA循环灌注 $^ { 4 \mathrm { ~ h ~ } }$ 以除去残留的SDS,蠕动泵泵速均为 $5 0 ~ \mathrm { m L / m i n }$ 。最后依次用PBS灌洗 $1 \mathrm { h } , 0 . 1 \%$ 过氧乙酸灌洗消毒 $2 \mathrm { h }$ ，灭菌PBS灌洗 $^ { \textrm { 1 h } }$ （图1A），制备的脱细胞支架置于含 $1 0 0 ~ \mathrm { U / m L }$ 青霉素和 $1 0 0 ~ \mathrm { { m g / L } }$ 链霉素的灭菌PBS中 $4 \mathrm { { ^ circ C } }$ 保存。
+
+1.2.2脱细胞支架再细胞化总量为 $1 0 ^ { 8 }$ 的L-02细胞（人胎肝细胞)用 $4 0 ~ \mathrm { m L }$ 培养基重悬后，从门静脉左支残端插管用 $1 0 ~ \mathrm { m L }$ 注射器分4次缓慢注射，每次间隔$1 0 \mathrm { m i n }$ 。收集残余培养基并行细胞计数，细胞移植率大于 $8 5 \%$ 。待细胞贴附于支架上后，将再细胞化的肝脏支架在无菌条件下切成 $1 0 \mathrm { m m } { \times } 1 0 \mathrm { m m } { \times } 2 \mathrm { m m }$ 的组织片，置于6孔板中培养，于 $3 7 ~ \mathrm { ^ { \circ } C } \setminus { 5 \% } ~ \mathrm { C O } _ { 2 } .$ 饱和湿度的培养箱中分别培养 $1 . 3 . 5 . 7 \ : \mathrm { d } _ { \circ }$ 每孔加培养基 $3 ~ \mathrm { m L }$ ,每天换液。1.2.3形态学和组织学评估取肝脏脱细胞支架标本及培养1、3、5、7d的组织标本，用 $1 0 \%$ 福尔马林固定，石蜡包埋切片，行HE染色。用免疫组化检测脱细胞支架中I型胶原、V型胶原、纤连蛋白、弹力蛋白的成分。石蜡切片脱蜡、水化， $3 \% \mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 室温孵育 $1 0 \mathrm { m i n }$ ,柠檬酸盐缓冲液行抗原修复，BSA封闭室温 $2 0 \mathrm { m i n }$ ，加一抗 $4 \mathrm { { ^ { \circ } C } }$ 过夜，$3 7 \ \mathrm { { ^ circ C } }$ 复温 $4 5 ~ \mathrm { m i n }$ ，加辣根过氧化物酶 $3 7 \ \mathrm { { ^ { \circ } C } }$ 孵育 $^ \textrm { \scriptsize 1 h }$ DAB显色 $5 { \sim } 1 0 \ \mathrm { m i n }$ ，苏木素复染 $2 ~ \mathrm { m i n }$ ，盐酸酒精分化，水洗，脱水，透明，封片。取培养3d的组织标本行冰冻切片，进行免疫荧光染色。BSA封闭室温 $3 0 \mathrm { m i n }$ ,加一抗 $4 \mathrm { { ^ { \circ } C } }$ 过夜， $3 7 ~ \mathrm { ^ { \circ } C }$ 复温 $3 0 \mathrm { m i n }$ ，加荧光二抗 $3 7 ~ \mathrm { ^ { \circ } C }$ 孵育$^ { \textrm { 1 h } }$ ，加DAPI复染 $3 7 ~ \mathrm { ^ { \circ } C }$ 孵育 $5 \mathrm { m i n }$ ，封片，镜检。
+
+1.2.4扫描电镜检测取肝脏脱细胞支架标本及培养  
+3d的组织标本，用 $2 . 5 \%$ 戊二醛固定，经酒精逐级脱水
+
+中 $5 0 \%$ 新 $7 5 \%$ $80 \%$ $9 5 \%$ $100 \%$ 各 $1 5 \mathrm { m i n }$ ，干燥、喷金后，进行观察。
+
+1.2.5残余DNA检测在新鲜肝组织断面及脱细胞支架断面各取6小块标本，分别置于eppendorf管进行冷冻干燥,称量标本干质量。按DNA提取试剂盒的步骤提取各标本DNA，使用多功能酶标仪检测相应DNA含量，计算残余DNA/干质量比。运用DAPI染色观察组织中残余细胞核，将新鲜肝组织标本及脱细胞支架标本行冰冻切片，丙酮固定 $1 5 ~ \mathrm { m i n }$ ,PBS洗3遍， $3 7 \ \mathrm { { ^ { \circ } C } }$ DAPI孵育 $5 ~ \mathrm { m i n }$ ,PBS洗3遍，加抗淬灭剂封片，荧光显微镜观察。
+
+# 2结果
+
+# 2.1脱细胞支架鉴定
+
+肝组织标本(图1B)经反复低温冻融、梯度SDS和$1 \%$ TritonX-100 循环灌注共计 $1 2 6 \mathrm { ~ h ~ }$ ,残留血液被冲净，细胞成分被脱除，外观呈现半透明状，肝脏包膜完整(图1C)。由于肝脏并非行全器官脱细胞研究，插管灌注区域受Glisson系统限制，靠近肝脏断面处可能未充分灌注。脱细胞支架HE显示纤维样细胞外基质保留，呈蜂窝样孔隙结构，未见细胞核及细胞质成分残留(图1D)。扫描电镜结果证实，肝组织脱细胞支架内仅存留三维立体多孔隙样细胞外基质结构，孔隙内原有占位的细胞成分被完全脱除(图2A)，视野内尚可见较为完整的血管断面，中央静脉结构(图2B)和门管三联结构(图2C)。新鲜肝脏组织DNA残余量为 $3 4 3 8 \pm$ $1 6 4 7 ~ \mathrm { n g / m g }$ 干质量( $\scriptstyle { \overset { \prime } { n = 6 } } )$ ，而脱细胞支架DNA残余量为 $2 5 . 3 { \pm } 1 4 . 6 ~ \mathrm { n g / m g }$ 干质量( $\scriptstyle { \overset { \prime } { n = 6 } }$ 0 $P { < } 0 . 0 1 )$ ,小于新鲜肝脏DNA含量的 $1 \%$ （图2D)。DAPI染色可见新鲜肝脏组织内大量亮蓝色细胞核存在(图2E)，而脱细胞支架内未见细胞核残留(图2F)。以上均符合目前国际公认的脱细胞标准[4]：(1)DNA残余量小于 $5 0 ~ \mathrm { n g / m g }$ 细胞外基质干重;(2)HE染色或DAPI染色显示无细胞核成分残留。
+
+# 2.2细胞外基质成分分析
+
+采用免疫组化的方法对脱细胞支架的成分进行分析，证实其含有I型胶原、V型胶原、纤连蛋白、弹力蛋白成分，且有各自分布特点。I型胶原(图3A）V型胶原(图3B)和纤连蛋白(图3D)主要分布于肝窦周围，弹力蛋白(图3C)主要分布在大血管的基底膜附近。
+
+# 2.3 脱细胞支架生物相容性分析
+
+将L-02细胞种植于肝脏脱细胞支架以检测支架生物相容性，并初步评估行肝样组织构建的可行性。细胞在支架上存活且生长良好，于1d时细胞在支架上分布稀疏(图4A)，大体形态正常，3、5、7d时(图4B\~D)，细胞数逐渐增多，呈现一定的增殖状态。扫描电镜观察脱细胞支架呈多孔隙结构(图5A)，复种L-02细胞后，3d时细胞在支架上的微观形态，可见细胞在血管周围及肝窦周围均有分布(图5B)，且可呈多细胞球状体(图5C)，细胞多呈长梭形，展开贴附于细胞外基质上，表面可见微绒毛结构(图5D)。免疫荧光结果提示L02细胞在支架上培养至第五天仍有白蛋白及葡萄糖-6-磷酸酶表达（图5E，F)，说明细胞生长状态良好。
+
+![](images/0f5fb6228cc82b802918085cc4b6ce7d03f542b5732da7c9fac4c6d59ff4a266.jpg)
+
+![](images/c83a8384bbb53206356fc38e929021855d78ddae487613d02ccc2d5e7a7627c7.jpg)  
+图1脱细胞方法流程及大体观 Fig.1Schematicdiagramillstratingthesquentialdecellularizationprotocol(A)andmacroscopic imagesofthefreshliver(B)and the decellularized scaffold (C).D: HE staining of the decellularized scaffold.Scale bar: $2 0 0 \mu \mathrm { m }$   
+图2脱细胞支架扫描电镜图及残余DNA含量定量  
+Fig.2 Scanning electron microscopy images showing open spaces previously ocupied by hepatic parenchymal cells $( A )$ ，the central vein $( B )$ andthe portal triad(C) in the decelllarized liver;D:DNAcontentin the fresh liverand thedecellularized liver $( n { = } 6 )$ $( P { < } 0 . 0 1 )$ E,F: DAPI staining for detecting nuclear material in thefresh liver and the decellularized liver.Scale bars: $2 0 \mu \mathrm { m }$ (A), $4 0 \mu \mathrm { m }$ (B, C),and （204号 $5 0 \mu \mathrm { m } \left( E , F \right)$ ：
+
+# 3讨论
+
+目前，已有一系列较成熟的脱细胞技术用于实验动物器官脱细胞支架的制备,如心脏[1]、肺脏[12]、肝脏[5-6.10]等。有关人类器官的脱细胞技术,Jacques PGuyette[13]曾报道用一压力可控的灌注系统行人心脏、肾脏和肺脏脱细胞支架的制备，对于人肝脏脱细胞支架却尚无报道。在脱细胞技术方面，常用的脱细胞技术包括物理方法(冻融、加压、超声波降解等）、化学方法(酸、碱、低渗及高渗溶液、非离子型去污剂、离子型去污剂、两性离子去污剂、金属离子螯合剂等）酶法(核酶、胰蛋白酶、脂肪酶等)以及上述方法的联合使用[14],SDS仍是目前最常用的脱细胞试剂。本研究利用临床手术切除的肝脏标本经反复低温冻融、梯度SDS及TritonX-100循环灌注成功制备了符合标准的肝组织脱细胞支架，并保留了完整的血管网络系统，经门静脉分步注入的L-02细胞在血管周围和肝窦周围均有分布，呈现增殖趋势，证明了支架良好的生物相容性。
+
+![](images/c0fe53f1008e7407c52a04999abce9bfa527cf197ccd2aff54c1e1bf4ffeea1a.jpg)  
+图3免疫组化染色分析支架细胞外基质成分 Fig.3Immunohistochemistry for detecting type I(A） and IV (B) collagens,elastin $( C ) _ { \cdot }$ and fibronectin $( D )$ in the decellularized liver scaffold.Scale bar: $1 0 0 \mu \mathrm { m }$
+
+![](images/a73407e010ee58efbd69af40e1a9e8220b6f97f392d08d9f89338b05fae05874.jpg)  
+图4L-02细胞在脱细胞支架上生长HE染色 Fig.4HE staining of L-02 cels cultured in decellularized liver scaffold.A:1 day; B: 3 days; C: 5 days; D: 7 days. Scale bar: $1 0 0 \mu \mathrm { m }$
+
+细胞外基质是由组织器官自身的细胞在其生长的微环境下合成并分泌到胞外，并且分布于细胞表面或细胞间的大分子物质。理论上讲，细胞外基质特异性的成分组成及超微结构取决于其器官来源的宿主细胞。近年来有研究证实肝细胞或肝脏非实质细胞适合在肝脏脱细胞基质上存活及表达功能[15-16],说明选择合适器官来源的脱细胞基质来制备器官再生的支架是十分重要的。在异体组织及器官移植中，供体组织细胞膜表面抗原以及细胞分泌的特异性物质是引起组织排异的主要原因。组织的抗原性主要存在于细胞成分内，脱细胞基质支架有效脱除了细胞成分内的DNA等抗原物质，很大程度上降低了移植物的排斥反应及急性炎症反应。Allman等研究认为细胞外基质已不存在MHC抗原，由基质所诱发的免疫反应为类Th-2反应，这种反应对植入的细胞外基质并无排斥作用。因此，尽管与人工材料支架相比，猪等异种肝脏脱细胞支架一定程度上克服了免疫排斥反应，但是从细胞外基质的来源考虑，人肝脏脱细胞支架可能更适合临床为导向的肝脏组织工程研究。
+
+![](images/ac706eb59d57f2ab12f341b4fd5d9a33614eed6fa24ed723d8a777fc7e08e6e9.jpg)  
+图5再细胞化肝脏扫描电镜微观结构及功能表达  
+Fig.5ScangelectronmicrosoicimagsoftheulrastructuresofL02cellody3ofcureintesafold.A:Porousstrcturef ECMandveselsctionofthecelladliver;B:Cellsderngtheperivasuarareas;C:Cellsformngultiellasrids; $D$ Celsexibiidoioillmooseegofeludiead scaffold on day 5 showing the expressions of albumin and glucose-6-phosphatase (G6pc). Scale bar: $6 0 \mu \mathrm { m }$ （20 $( A , B )$ $2 0 \mu \mathrm { m }$ $( C )$ $6 \mu \mathrm { m } \left( D \right)$ and $5 0 \mu \mathrm { m } \left( E , F \right)$
+
+肝脏组织工程研究除了构建肝样组织行替代治疗外，还可借助脱细胞支架的平台，研究肝脏肿瘤模型、抗肿瘤药物筛选及干细胞分化等。Dunne等[18]利用人脂肪组织脱细胞支架作为三维的细胞培养平台来检测人乳腺癌细胞在体外的增殖、迁移、形态学变化及对抗肿瘤药物的反应，结果显示，相比于二维的细胞培养和基质胶培养，人脂肪组织脱细胞支架具有更接近乳腺组织的拟生态微环境。Lyu等[19]为研究肿瘤微环境与不同种类肿瘤生物学行为的关系，将人乳腺癌细胞、人肺腺癌细胞、结直肠腺癌细胞和食管鳞状细胞癌细胞分别接种于人肺腺癌组织的脱细胞支架中，发现食管鳞状细胞癌细胞的增殖率明显低于其他细胞株。Jiang等[2]在大鼠肝脏脱细胞支架上将骨髓间充质干细胞分化诱导为肝样细胞，并将所构建的肝样组织植入肝硬化模型的大鼠体内，不但改善了肝脏功能，还明显提高了大鼠的生存率。相比于二维培养,如果将人肝组织脱细胞支架作为细胞培养的平台，模拟体内的三维环境，来研究肝脏肿瘤、干细胞分化及细胞共培养的相互作用机制等，将得到更为真实的结论。
+
+总之，临床上有相当数量病人因肝血管瘤、肝内外胆管结石等良性疾病行半肝切除或肝段切除，这些肝组织标本均是潜在的可用于肝脏组织工程研究的生物支架。本研究提供了一个简单有效的人肝组织脱细胞方案，初步验证了其良好的生物相容性，希望给后续以临床为导向的肝脏组织工程研究提供参考。
+
+# 参考文献：
+
+[1]Hammond JS,Gilbert TW,Howard D,et al. Scaffolds containing growthfactorsand extracellular matrix induce hepatocyte proliferation and cell migration in normal and regenerating rat liver [J].JHepatol, 2011, 54(2): 279-87.   
+[2]Apte U,Gkretsi V,Bowen WC,et al. Enhanced liver regeneration following changes induced by hepatocyte-specific genetic ablation of integrin-linked kinase[J].Hepatology,2009,50(3): 844-51.   
+[3]Semler EJ,Ranucci CS,Moghe PV. Tissue assembly guided via substrate biophysics:applications to hepatocellular engineering[J]. Adv Biochem Eng Biotechnol,2006,102(2):1-46.   
+[4]Crapo PM,Gilbert TW,Badylak SF.An overview of tissue and whole organ decellularization processes[J].Biomaterials,2O11,32 (12):3233-43.   
+[5]Uygun BE,Soto-Gutierrez A,Yagi H,et al. Organ reengineering through development of a transplantable recellularized liver graft using decellularized liver matrix[J].Nat Med,2010,16(7): 814-20.   
+[6]Soto-Gutierrez A,Zhang L，Medberry C,et al.A whole-organ regenerative medicine approach for liver replacement [J].Tissue Eng Part C Methods,2011,17(6): 677-86.   
+[7]Bao J,Shi Y,Sun H,et al. Construction of a portal implantable functional tissue-engineered liver using perfusion-decellularized matrix and hepatocytes in rats [J].Cell Transplant,2O11,20(5): 753-66.   
+[8]Baptista PM, Siddiqui MM,Lozier G,et al.The use of whole organ decellularization for the Generation of a vascularized liver organoid [J].Hepatology,2011,53(2): 604-17.   
+[9]Kajbafzadeh AM,Javan-Farazmand N,Monajemzadeh M,et al. Determining the optimal decellularization and sterilization protocol for preparing a tissue scaffold of a human-sized liver tissue [J]. Tissue Eng Part C Methods,2013,19(8): 642-51.   
+[10] Yagi H, Fukumitsu K,Fukuda K,et al. Human-scale whole-organ bioengineering for liver transplantation:a regenerative medicine approach[J].Cell Transplant,2013,22(2): 231-42.   
+[11] Ott HC,Matthiesen TS,Goh SK,et al.Perfusion-decellularized matrix:using Nature's platform to engineer a bioartificial heart[J]. Nat Med,2008,14(2): 213-21.   
+[12]Ott HC, Clippinger B, Conrad C,et al. Regeneration and orthotopic transplantation of a bioartificial lung[J].Nat Med,2O1O,16(8): 927-33.   
+[13]Guyette JP,Gilpin SE,Charest JM,et al.Perfusion decellularization of whole organs[J].Nat Protoc,2014,9(6): 1451-68.   
+[14] Gilbert TW,Sellaro TL,Badylak SF.Decellularization of tissues and organs[J].Biomaterials,2006,27(19): 3675-83.   
+[15] Sellaro TL,Ranade A,Faulk DM,et al.Maintenance of human hepatocyte function in vitro by liver-derived extracellular matrix gels[J]. Tissue Eng Part A,2010,16(3): 1075-82.   
+[16] Sellaro TL,Ravindra AK,Stolz DB,et al.Maintenance of hepatic sinusoidal endothelial cell phenotype in vitro using organ-specific extracellular matrix scaffolds[J].Tissue Eng,2007,13(9):2301-10.   
+[17]Allman AJ，Mcpherson TB，Badylak SF,et al．Xenogeneic extracellular matrix grafts elicit a TH2-restricted immune response [J].Transplantation,2001,71(11):1631-40.   
+[18]Dunne LW,Huang Z,Meng W,et al. Human decellularized adipose tissue scaffold as a model for breast cancer cell growth and drug treatments[J].Biomaterials,2014,35(18):4940-9.   
+[19]Lyu WD,Zhang L,Wu CL,et al. Development of an acellular tumor extracellular matrix as a three-dimensional scaffold for tumor engineering[J].PLoS One,2014,9(7): e103672.   
+[20]Jiang WC,Cheng YH, Yen MH,et al. Cryo-chemical decellularization of the whole liver for mesenchymal stem cells-based functional hepatic tissue engineering[J].Biomaterials,2O14,35 (11): 3607-17. (编辑：经媛)

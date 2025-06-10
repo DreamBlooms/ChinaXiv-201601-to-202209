@@ -1,0 +1,643 @@
+[
+    {
+        "type": "text",
+        "text": "1 饲粮直链/支链淀粉比对育肥猪生长性能、营养物质表观消化率、肠道食糜菌群数量与挥发  \n2 性脂肪酸浓度以及肌内脂肪含量的影响",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蒲俊宁　王华杰　陈代文　田　刚　何　军　郑　萍　毛湘冰　虞　洁　黄志清　罗钧秋",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4 罗玉衡 余 冰\\*  \n5號 （四川农业大学动物营养研究所，动物抗病营养教育部重点实验室，雅安625014）  \n6 摘要：本试验旨在研究饲粮直链/支链淀粉比对育肥猪生长性能、营养物质表观消化率、  \n7 肠道食糜菌群数量和挥发性脂肪酸浓度以及肌内脂肪含量的影响。选取24头平均体重为  \n8 $( 6 1 . 6 7 { \\scriptstyle \\pm 2 . 0 1 }$ ）kg 的健康\"杜 $\\times$ 长 $\\times$ 大\"生长猪，随机分为4组（每组6个重复，每个重复1  \n9 头），分别饲喂直链/支链淀粉比为0.26（LD组）、0.37（CD组）、0.47（MD组）和0.98（HD  \n10 组）的试验饲粮。试验至猪平均体重达 $1 2 0 \\mathrm { k g }$ 时结束。结果表明：1）随着饲粮直链/支链淀  \n11 粉比的增加，饲粮总能、粗灰分、粗脂肪和粗蛋白质表观消化率线性降低（ $. P { < } 0 . 0 5 )$ 。与LD  \n12 组相比，MD和HD 组饲粮总能、粗灰分和粗蛋白质表观消化率显著降低（ $. P { < } 0 . 0 5 )$ ，HD组  \n13 粗脂肪表观消化率也显著降低（ $. P { < } 0 . 0 5 )$ ；与CD 组相比，HD 组饲粮总能、粗灰分和粗蛋白  \n14 质表观消化率显著降低（ $\\scriptstyle \\cdot { \\cal P } { < } 0 . 0 5 ,$ )。2）HD 组育肥猪回肠食糜 $\\mathsf { p H }$ 显著低于LD、CD 和 MD  \n15 组（ $\\scriptstyle \\cdot { \\cal P } { < } 0 . 0 5 .$ )。3）随着饲粮直链/支链淀粉比的增加，盲肠食糜丁酸浓度及结肠食糜丙酸和  \n16 总挥发性脂肪酸浓度呈显著的线性增加（ $_ { . } P { < } 0 . 0 5 { \\ : } )$ ，盲肠食糜丙酸浓度有线性和二次曲线变  \n17 化的趋势（ $0 . 0 5 { \\le } P { \\le } 0 . 1 0 )$ ，结肠食糜乙酸浓度有线性增加的趋势（ $0 . 0 5 { \\le } P { \\le } 0 . 1 0 )$ 。与LD和  \n18 CD 组相比，HD 组育肥猪盲肠食糜丙酸和丁酸浓度显著提高（ $. P { < } 0 . 0 5 )$ ；与LD 组相比，HD  \n19 组育肥猪结肠食糜丙酸和总挥发性脂肪酸浓度显著提高 ( $( P { < } 0 . 0 5 )$ 。4）盲肠食糜双歧杆菌数  \n20 量随饲粮直链/支链淀粉比的增加呈显著的线性和二次曲线变化（ $\\scriptstyle \\cdot { \\cal P } { < } 0 . 0 5 .$ 。MD 和HD组育  \n21 肥猪盲肠食糜总细菌数量显著高于LD 组（ $( P { < } 0 . 0 5 )$ )；HD 组盲肠食糜双歧杆菌数量显著高于  \n22 其他各组( $_ { . { P < } 0 . 0 5 }$ )。5)与HD组相比,LD组育肥猪背最长肌肌内脂肪含量显著提高 $( P { < } 0 . 0 5 )$ ，  \n23 LD、CD 和 MD 组背最长肌中GPR43 相对表达量显著降低（ $. P { < } 0 . 0 5$ ）。综上所述，增加饲  \n24 粮直链/支链淀粉比可降低育肥猪的营养物质表观消化率，改变后肠食糜菌群组成，增加后  \n25 肠食糜挥发性脂肪酸浓度以及影响肌内脂肪沉积。因此，适宜的饲粮直链/支链淀粉比有利  \n26 于改善育肥猪肠道健康和猪肉品质。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：直链/支链淀粉比；生长性能；菌群；挥发性脂肪酸；肌内脂肪；育肥猪 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "」山乃入」，Uuiu 人酬你於罔，　入半柵。  \n淀粉是饲料中碳水化合物的主要成分，也是动物机体重要的能量来源，占畜禽生产成本的 $50 \\%$ 以上，是养猪生产中重要的经济投入之一[1]。前人研究发现，淀粉因来源、组成和结构不同，在动物和人体内的消化速度和主要消化部位存在差异，并影响肠道微生物代谢、养分吸收和利用，进而影响动物的生产性能和胴体组成[2-4]。淀粉是由多个葡萄糖基单元通过糖苷键结合成的高分子多糖，主要由线性结构的直链淀粉（α-1,4-糖苷键连接）和分支结构的支链淀粉（α-1,6-糖苷键连接）构成[5]。其中，支链淀粉能被单胃动物胃肠道中 $\\mathfrak { a } .$ -淀粉酶快速降解，从而具有改善生长性能和诱导高血糖和高胰岛素水平的作用；而直链淀粉不能被小肠α-淀粉酶降解或降解很慢，未被小肠降解的淀粉进入后肠经微生物发酵产生大量短链脂肪酸，对动物生长发育和肠道健康产生重要影响[6-7]。通常情况下，淀粉同时含有直链和支链 2种类型，因此，其理化性质和消化特性主要取决于2种类型淀粉之比[8]。Camp 等[研究发现饲喂蜡质玉米（ $100 \\%$ 支链淀粉）的生长育肥猪的平均日增重、采食量和饲料转化率均高于饲喂普通玉米（ $7 5 \\%$ 支链淀粉、 $2 5 \\%$ 直链淀粉）的生长育肥猪。Wang 等[10]研究发现饲喂小鼠高直链淀粉含量的饲粮能够提高粪便中乳酸菌、双歧杆菌的数量和挥发性脂肪酸（volatile fatty acids，VFAs）的含量。  \n尽管国内外已有不少关于直链和支链淀粉在猪上应用的研究报道，但主要停留在对猪生长性能和营养物质消化率的影响方面[11-12]。然而，系统设计不同梯度直链/支链淀粉比饲粮，考察其对育肥猪后肠微生物及代谢产物挥发性脂肪酸的研究却鲜有报道。因此，本试验通过配制不同梯度直链/支链淀粉比饲粮，研究其对育肥猪生长性能、营养物质表观消化率、后肠食糜微生物和挥发性脂肪酸以及肌内脂肪（intramuscular fat,IMF）含量的影响，为深入认识直链和支链淀粉的效应及其在猪饲粮中的适宜比例提供理论依据和试验证据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验动物与设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验采用单因子设计，选取24头平均体重为（ $6 1 . 6 7 { \\scriptstyle \\pm 2 . 0 1 }$ ）kg的健康\"杜 $\\mathbf { \\nabla } _ { \\times }$ 长 $\\times$ 大\"生长猪，随机分为4组（每组6个重复，每个重复1头猪)，分别饲喂直链/支链淀粉比为0.26（LD组）、0.37（CD组）、0.47（MD组）和0.98（HD组）的试验饲粮。试验至猪平均体重约120kg 时结束。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验饲粮 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验饲粮参照NRC（2012）生长育肥猪营养需要，以高直链玉米淀粉（含直链淀粉",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$67 . 9 7 \\%$ )、高支链玉米淀粉（含支链淀粉 $9 7 . 7 8 \\%$ ）和普通玉米淀粉（含直链淀粉 $5 1 . 2 1 \\%$ ））",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为淀粉源配制而成，试验饲粮组成及营养水平见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1试验饲粮组成及营养水平 (风干基础)",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/1e591319df28e846f577516b55c9f2e11daf9fbfe66949a30fda85947731b035.jpg",
+        "table_caption": [
+            "Table 1Composition and nutrient levels of experimental diets (air-dry basis) 0 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"3\">50～75 kg 阶段 50 to 75 kg stage</td><td colspan=\"3\">75～135 kg阶段 75 to 135 kg stage</td></tr><tr><td>项目Items</td><td>LD组</td><td>CD组</td><td>MD组</td><td>HD组</td><td>LD组</td><td>CD组 MD组</td><td>HD组</td></tr><tr><td></td><td>LD</td><td>CD</td><td>MD HD</td><td>LD</td><td>CD</td><td>MD</td><td>HD</td></tr><tr><td></td><td>group group</td><td>group</td><td>group</td><td>group</td><td>group</td><td>group</td><td> group</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>高直链玉米淀粉</td><td></td><td></td><td>11.30</td><td>34.00 5.70</td><td></td><td></td><td>34.00</td></tr><tr><td>High amylose maize starch</td><td>5.70</td><td></td><td></td><td></td><td></td><td>11.30</td><td></td></tr><tr><td>高支链玉米淀粉</td><td>28.30</td><td></td><td>22.70</td><td></td><td>28.30</td><td></td><td></td></tr><tr><td>High amylopectin maize starch</td><td></td><td></td><td></td><td></td><td></td><td>22.70</td><td></td></tr><tr><td>玉米淀粉 Maize starch</td><td></td><td>34.00</td><td></td><td></td><td>34.00</td><td></td><td></td></tr><tr><td>玉米Corn</td><td>38.00</td><td>38.00</td><td>38.00</td><td>38.00 38.00.</td><td>38.00</td><td>38.00</td><td>38.00</td></tr><tr><td>豆粕 Soybean meal</td><td>25.70</td><td>25.70</td><td>25.70 25.70</td><td>23.71</td><td>23.71</td><td>23.71</td><td>23.71</td></tr><tr><td>豆油 Soybean oil</td><td></td><td></td><td></td><td>0.80</td><td>0.80</td><td>0.80</td><td>0.80</td></tr><tr><td>统糠 Wheat bran</td><td></td><td></td><td></td><td>1.70</td><td>1.70</td><td>1.70</td><td>1.70</td></tr><tr><td>食盐 NaCl</td><td>0.32</td><td>0.32</td><td>0.32</td><td>0.32 0.32</td><td>0.32</td><td>0.32</td><td>0.32</td></tr><tr><td>碳酸钙 CaCO</td><td>0.56</td><td>0.56</td><td>0.56</td><td>0.56 0.62</td><td>0.62</td><td>0.62</td><td>0.62</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>0.68</td><td>0.68</td><td>0.68</td><td>0.68 0.29</td><td>0.29</td><td>0.29</td><td>0.29</td></tr><tr><td>氯化胆碱 Choline chloride</td><td>0.15</td><td>0.15</td><td>0.15</td><td>0.15 0.15</td><td>0.15</td><td>0.15</td><td>0.15</td></tr><tr><td>维生素预混料 Vitamin premix1)</td><td>0.03</td><td>0.03</td><td>0.03</td><td>0.03 0.03</td><td>0.03</td><td>0.03</td><td>0.03</td></tr><tr><td>矿物质预混料 Mineral premix2)</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30 0.30</td><td>0.30</td><td>0.30</td><td>0.30</td></tr><tr><td>DL-蛋氨酸 DL-Met</td><td>0.05</td><td>0.05</td><td>0.05</td><td>0.05</td><td></td><td></td><td></td></tr><tr><td>赖氨酸盐酸盐 L-Lys·HCl</td><td>0.21</td><td>0.21</td><td>0.21</td><td>0.21 0.08</td><td>0.08</td><td>0.08</td><td>0.08</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00 100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels3)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>消化能 DE/(MJ/kg)</td><td>14.24</td><td>14.24</td><td>14.24</td><td>14.24</td><td>14.24 14.24</td><td>14.24</td><td>14.24</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ee296a5bb66811a5f35f4e8a796d5185bf7be5159ad34286c332bcc7b831ffdb.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>直链淀粉 Amylose</td><td>20.47</td><td>27.25</td><td>32.18</td><td>49.52</td><td>20.47</td><td>27.25</td><td>32.18</td><td>49.52</td></tr><tr><td>支链淀粉 Amylopectin</td><td>79.53</td><td>72.75</td><td>67.82</td><td>50.43</td><td>79.53</td><td>72.75</td><td>67.82</td><td>50.43</td></tr><tr><td>直链/支链淀粉 Amylose/amylopectin</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ratio</td><td>0.26</td><td>0.37</td><td>0.47</td><td>0.98</td><td>0.26</td><td>0.37</td><td>0.47</td><td>0.98</td></tr><tr><td>粗蛋白质 CP</td><td>14.82</td><td>14.82</td><td>14.82</td><td>14.82</td><td>14.02</td><td>14.02</td><td>14.02</td><td>14.02</td></tr><tr><td>钙Ca</td><td>0.48</td><td>0.48</td><td>0.48</td><td>0.48</td><td>0.40</td><td>0.40</td><td>0.40</td><td>0.40</td></tr><tr><td>有效磷 AP</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.14</td><td>0.14</td><td>0.14</td><td>0.14</td></tr><tr><td>粗脂肪CF</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.03</td><td>2.03</td><td>2.03</td><td>2.03</td></tr><tr><td>粗灰分 Ash</td><td>0.25</td><td>0.25</td><td>0.25</td><td>0.25</td><td>0.45</td><td>0.45</td><td>0.45</td><td>0.45</td></tr><tr><td>赖氨酸Lys</td><td>0.95</td><td>0.95</td><td>0.95</td><td>0.95</td><td>0.74</td><td>0.74</td><td>0.74</td><td>0.74</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.51</td><td>0.51</td><td>0.51</td><td>0.51</td><td>0.52</td><td>0.52</td><td>0.52</td><td>0.52</td></tr><tr><td>色氨酸Trp</td><td>0.16</td><td>0.16</td><td>0.16</td><td>0.16</td><td>0.16</td><td>0.16</td><td>0.16</td><td>0.16</td></tr><tr><td>苏氨酸 Thr</td><td>0.55</td><td>0.55</td><td>0.55</td><td>0.55</td><td>0.51</td><td>0.51</td><td>0.51</td><td>0.51</td></tr><tr><td>精氨酸Arg</td><td>0.96</td><td>0.96</td><td>0.96</td><td>0.96</td><td>0.93</td><td>0.93</td><td>0.93</td><td>0.93</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1)维生素预混料可为每千克饲粮提供 Vitamin premix provided the follwing per $\\mathbf { k g }$ of diets:VA 12 000 IU, VD3 3 000 IU, VE 7.5 IU, $\\mathrm { V K } _ { 3 } 1 . 5 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 } 0 . 6 \\ : \\mathrm { m g }$ ， $\\mathrm { V B } _ { 2 } 4 . 8 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 6 } 1 . 8 ~ \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 2 } 9 . 0$ μ g，泛酸 pantothenic acid $7 . 5 ~ \\mathrm { m g }$ ，叶酸 folic acid $0 . 1 5 \\mathrm { m g }$ ，烟酸 nicotinic acid $1 . 0 5 \\mathrm { m g }$ ，生物素biotin $0 . 1 5 \\mathrm { m g }$ 。 2)矿物质预混料可为每千克饲粮提供 Mineral premix provided the following per kg of diets:Fe 50 mg,Cu 3.5 mg， Zn 50 mg, $\\mathrm { M n } 2 . 0 \\mathrm { m g }$ ， $\\mathrm { ~ I ~ 0 . 1 4 ~ m g }$ ，Se $0 . 1 5 \\mathrm { m g }$ 。 3)直链淀粉和支链淀粉为实测值,其余营养水平为计算值。Amylose and amylopectin were measured values, while the other nutrients levels were calculated values. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3饲养管理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验在四川农业大学动物营养研究所试验基地进行。试验前清洗料槽、水槽，并对猪舍进行彻底消毒。试验期间，猪自由饮水，每日饲喂3次（08:00、13:00 和19:00)，少喂勤添，饲喂量以猪只吃饱后料槽内略有剩余为度，各组饲养管理条件保持一致。保持圈舍通风，环境适宜，并于每日结算余料，记录采食量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4样品采集与处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "饲粮样：按照GB/T14699.1-2005《饲料采样法》的要求通过四分法分别采集不同组饲粮样品 $1 \\mathrm { k g }$ 左右，研磨过40目筛，混匀，装入洁净的密闭塑料袋，标记，-20℃保存待测。粪样：采用内源指示剂部分收粪法进行消化试验。于试验结束前4天早上开始收集刚排出未污染的粪便，粪便收集后按每 $1 0 0 ~ \\mathrm { g }$ 粪便加入 $10 \\%$ 硫酸 $1 0 ~ \\mathrm { m L }$ ，另加甲苯数滴进行固氮防腐，每个重复收集的粪便经充分混合后，取适量放置在干净的器皿中，于 $6 0 { \\sim } 6 5 \\ \\mathrm { ~ \\textdegree ~ }$ 烘48h后回潮 $2 4 \\mathrm { h }$ 称重，再烘 $2 4 \\mathrm { h }$ 后回潮 $2 4 \\mathrm { h }$ 称重，如此反复，达到恒重。粪样干燥后粉碎，过40目筛，于 $- 2 0 \\mathrm { ~ \\textdegree C }$ 保存待测。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "肌肉和食糜样：试验结束后，将24头空腹 $1 2 \\mathrm { h }$ 的猪用铁笼运至屠宰处，用电击晕、放血处死。剖开猪腹腔，迅速分离肠道，取十二指肠、空肠、回肠、盲肠和结肠食糜于纸杯中，测定食糜pH；取盲肠和结肠食糜各4份，装入 $2 \\mathrm { m L }$ 灭菌EP管中液氮速冻，-70℃保存，用于菌群数量和挥发性脂肪酸浓度测定；在猪左侧胴体处取 $\\mathfrak { s } _ { \\mathrm { g } }$ 背最长肌样品装入EP 管，液氮速冻，-70℃保存待测。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5 测定指标与方法",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5.1 生长性能",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试验期间准确记录每头试验猪每日采食量，试验开始前和试验结束后分别空腹称量试验猪体重，计算猪的平均日增重（average daily gain,ADG）、平均日采食量（average daily feedintake,ADFI）和料重比（feed/gain,F/G）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5.2 营养物质表观消化率 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "测定饲粮和粪便中各营养物质及内源指示剂盐酸不溶灰分含量，计算各营养物质表观消化率。总能用全自动氧弹热量仪（PARR6400，美国）测定；粗蛋白质含量用全自动凯氏定氮仪（BUCHIK，瑞士）测定；盐酸不溶灰分含量按照GB/T23742-2009中方法测定；粗脂肪、粗灰分和干物质含量按照《饲料分析及饲料质量检测技术》[13]中方法测定。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "某营养物质表观消化率 $( \\% ) \\ = 1 0 0  – 1 0 0 { \\times } A / A 1 { \\times } \\ ( B 1 / B ) ;$ （2 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中：A为每千克粪便中该营养物质的含量； $^ { A 1 }$ 为每千克饲粮中该营养物质的含量； $B$ 为每千克粪便中盐酸不溶灰分的含量； $B 1$ 为每千克饲粮中盐酸不溶灰分的含量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5.3 肠道食糜pH ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "十二指肠、空肠、回肠、盲肠和结肠食糜 $\\mathfrak { p H }$ 用PHS-3CpH计（上海精密科学仪器有限公司）直接测定。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5.4盲肠、结肠食糜挥发性脂肪酸浓度",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "取食糜 $3 \\mathrm { g }$ ，用蒸馏水进行稀释（质量体积比1:1)。振荡混匀后 $1 2 0 0 0 \\times g$ 离心 $1 0 \\mathrm { m i n }$ 取上清液 $1 \\mathrm { m L }$ ，加入 $2 5 \\%$ 的偏磷酸 $0 . 2 \\mathrm { m L }$ ，充分混匀，静置 $3 0 \\mathrm { m i n }$ 后 $1 2 0 0 0 \\times g$ 离心 $1 0 \\mathrm { m i n }$ 取上清液100μL，加入甲醇 $1 0 0 ~ \\mu \\mathrm { L }$ ，充分混匀并 $1 2 0 0 0 \\times g$ 离心 $1 0 \\mathrm { m i n }$ ，收集上清液于EP管中， $- 2 0 \\mathrm { ~ \\textdegree C }$ 保存待测。采用气相色谱仪（VARIANCP-3800，美国）进行挥发性脂肪酸浓",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "度测定。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.5.5 盲肠、结肠食糜菌群数量",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考刁慧等[14]的方法，采用实时荧光定量PCR法检测食糜中总细菌、大肠杆菌、乳酸杆菌、双歧杆菌和芽孢杆菌数量。采用Omega 公司的DNA 提取试剂盒提取食糜中总 DNA，-20℃保存备用。采用实时荧光定量PCR仪（ABI7900HTReal-TimePCR System，ABI，美国),根据细菌16S rRNA基因序列设计特异性引物，应用Taqman探针进行实时荧光定量PCR，使用天根公司的RealMaterMix 进行检测。乳酸杆菌和大肠杆菌反应体系为 $\\operatorname { \\mathrm { ? 0 ~ } } \\mu \\mathrm { L } : 2 0 \\times \\operatorname { \\mathrm { P } }$ robeEhance Solution $1 ~ \\mu \\mathrm { L }$ ， Real Mater Mix ${ 8 \\mu \\mathrm { L } }$ ，上、下游引物各 $1 ~ \\mu \\mathrm { L }$ ，DNA $1 ~ \\mu \\mathrm { L }$ ，探针 $0 . 3 ~ \\mu \\mathrm { L }$ 双蒸水 $7 . 7 \\mu \\mathrm { L }$ ；双歧杆菌反应体系为 $2 0 { \\mu \\mathrm { L } }$ ： $2 0 \\times$ Probe Ehance Solution $1 \\mu \\mathrm { L }$ ， Real Mater Mix8μL，上、下游引物各 $1 ~ \\mu \\mathrm { L }$ ，DNA $1 ~ \\mu \\mathrm { L }$ ，探针 $0 . 8 ~ \\mu \\mathrm { L }$ ，双蒸水 $7 . 2 ~ \\mu \\mathrm { L }$ 。采用三步法PCR 扩增标准程序： $9 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 预变性 $1 0 \\mathrm { ~ s ~ }$ ，95℃ 5s，50\\~60℃ $2 5 \\mathrm { ~ s ~ }$ ，95℃10s，共50个循环。总细菌反应体系为 $2 5 ~ \\mu \\mathrm { L }$ : SYBR Premix Ex TaqTM $\\mathrm { I I } 1 2 . 5 \\mu \\mathrm { L }$ ，上、下游引物各 $1 ~ \\mu \\mathrm { L }$ , DNA 1 μL,双蒸水 $9 . 5 ~ \\mu \\mathrm { L }$ 。采用三步法PCR扩增标准程序： $9 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 预变性 $1 0 \\mathrm { ~ s ~ }$ ，95℃ 5 s，50\\~60 ℃ 25s，95℃10 s，熔解曲线条件为 $9 5 \\mathrm { ~ ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 39 s, $5 5 \\mathrm { ~ ~ \\textdegree C }$ 1 min, $9 5 ~ \\mathrm { ~ \\textdegree ~ } 1 \\operatorname* { m i n }$ ，共 40个循环。以以每克食糜为检测单位，通过Ct值与标准曲线计算得出每份样品所含拷贝数，结果用每克食糜中菌群数量的常用对数[lg(拷贝数/g)]表示。实时荧光定量PCR引物及探针序列见表2。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2实时荧光定量PCR 特异性引物序列及探针",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "项目 引物/探针名称及序列 产物长度   \nItems Primer/probe name and sequence (5'-3') Product length/bp   \n总细菌 Eub338F:ACTCCTACGGGAGGCAGCAG 200   \nTotal bacteria Eub518R:ATTACCGCGGCTGCTGG   \n乳酸杆菌 RS-F:GAGGCAGCAGTAGGGAATCTTC 126   \nLactobacillus RS-R：CAACAGTTACTCTGACACCCGTTCTTC RS-P:(FMA)AAGAAGGGTTTCGGCTCGTAAAACTCTGTT(BHQ-1)   \n双歧杆菌 SQ-F:CGCGTCCGGTGTGAAAG 121   \nBifidobacterium SQ-R:CTTCCCGATATCTACACATTCCA SQ-P: (FMA)ATTCCACCGTTACACCGGAA(BHQ-1)   \n芽孢杆菌 YB-F:GCAACGAGCGCAACCCTTGA   \nBacillus YB-R:TCATCCCCACCTTCCTCCGGT YB-P:(FMA)CGGTTTGTCACCGGCAGTCACCT(BHQ-1)   \n大肠杆菌 DC-F:CATGCCGCGTGTATGAAGAA   \nEscherichia coli DC-R:CGGGTAACGTCAATGAGCAAA DC-P:(FMA)AGGTATTAACTTTACTCCCTTCCTC(BHQ-1) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.5.6 背最长肌肌内脂肪含量",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "采用GB/T5009.6-2003中方法进行背最长肌肌内脂肪含量测定。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.5.7短链脂肪酸受体基因相对表达量",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "采用实时荧光定量PCR技术检测背最长肌短链脂肪酸受体基因G蛋白偶联受体 41(Gprotein-coupled receptor 41,GPR41)和 G 蛋白偶联受体 43(G protein-coupled receptor 43,GPR43)的相对表达量。背最长肌总 RNA 提取按照试剂盒(Trizol Reagent，TaKaRa，日本)操作说明进行，RNA 浓度采用核酸蛋白检测仪(Beckman Du-800，CA，美国)检测。A260/A280 表示的是RNA的纯度，该比值位于 $1 . 8 \\sim 2 . 0$ 之间表明 RNA 纯度较好。cDNA 合成采用逆转录试剂盒(PrimeScriptTM reagent kit，TaKaRa，日本)进行，具体操作步骤参照说明书进行，反应结束后-20℃保存备用。利用 NCBI搜索目的基因片段，运用Primer5、Oligo6.0 进行引物设计，由大连宝生生物公司合成,引物序列见表3。用实时定量PCR 仪(ABI7900HTReal-TimePCR System，ABI，美国)进行测定，PCR 反应体系为 $1 0 ~ \\mu \\mathrm { L }$ : SYBR Premix Ex TaqTM II $( 2 \\times )$ （204号(TaKaRa，日本 $) 5 ~ \\mu \\mathrm { L }$ ，上游引物 $0 . 4 ~ \\mu \\mathrm { L }$ ，下游引物 $0 . 4 \\mu \\mathrm { L }$ ，双蒸水 $3 . 2 ~ \\mu \\mathrm { L }$ ，cDNA 模板 $1 ~ \\mu \\mathrm { L }$ 。PCR扩增条件为：95℃30 s，95℃5s， $6 0 ~ \\mathrm { ~ \\textdegree ~ } ~ 3 0 ~ \\mathrm { s }$ ，共 40个循环， $9 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ （ $1 0 \\mathrm { ~ s ~ }$ 。熔解曲线：55\\~95℃，温度以 $0 . 5 ~ \\ \\mathrm { { ^ \\circ C / s } }$ 的速率提升。以 $\\beta$ -肌动蛋白( $\\beta$ -actin)作为内参基因，目的基因相对表达量计算方法采用 $^ { \\Delta \\Delta } \\mathrm { C t }$ 法计算[15]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表3实时荧光定量PCR引物序列及退火温度",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/10bdb885ff62a9fde12bbca4ca71b00b79ce151beb6f23a52f40afd88ef2f15b.jpg",
+        "table_caption": [
+            "Table 3Primer sequences and annealed temperature used for real-time quantitative PCR "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>基因Genes</td><td>引物序列</td><td>产物长度</td><td>GeneBank登录号</td></tr><tr><td></td><td>Primer sequence (5'-3\")</td><td>Product length/bp</td><td>GeneBank accession No.</td></tr><tr><td>β-肌动蛋白</td><td>F:TCTGGCACCACACCTTCT</td><td>114</td><td>AY550069</td></tr><tr><td>β-actin</td><td>R：TGATCTGGGTCATCTTCTCAC</td><td></td><td></td></tr><tr><td>G蛋白偶联受</td><td>F:ACCTTACGTGTTGCTCCTCA</td><td>164</td><td>JQ776642.1</td></tr><tr><td>体41 GPR41</td><td>R：CGCTCTTCTTCAGTTTCCCG</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "G蛋白偶联受 F:TCACGGCCTACATCCTCATC体43 GPR43 R:GTGATCTTCAAGGGCAGCAG",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1.6 数据处理与统计分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "试验数据先用Excel2013进行初步整理，然后采用 SPSS17.0统计软件对数据进行单因素方差分析并结合Duncan 氏法进行多重比较，数据以平均值 $\\pm$ 标准误（mean±SE）表示，以 $P { < } 0 . 0 5$ 为差异显著， $0 . 0 5 { \\le } P { \\le } 0 . 1 0$ 为有趋势，同时对饲粮直链/支链淀粉比的处理效应进行线性和二次回归分析。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.1饲粮直链/支链淀粉比对育肥猪生长性能的影响",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表4可知,饲粮直链/支链淀粉比对育肥猪的ADFI、ADG 和F/G均无显著影响 $( P { > } 0 . 0 5 )$ 但与LD 组相比，HD 组育肥猪的ADFI和 ADG 分别提高 $8 . 0 6 \\%$ 和 $12 . 4 3 \\%$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表4饲粮直链/支链淀粉比对育肥猪生长性能的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/f183f4fe0aa2254498e16c3167d853ab933a41e84d2641eb59c69e805b0f4ebb.jpg",
+        "table_caption": [
+            "Table 4Effects of dietary amylose/amylopectin ratio on growth performance of finishing pigs "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td colspan=\"5\">组别Groups</td></tr><tr><td>Items</td><td>LD</td><td>CD</td><td>MD</td><td>HD</td><td>方差分析</td><td>线性</td><td>二次</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>ANOVA</td><td>Linear</td><td>Quadratic</td></tr><tr><td>平均日采食量</td><td>2</td><td>2</td><td>2 639.17±58.80</td><td>2</td><td>0.338</td><td>0.347</td><td>0.909</td></tr><tr><td>ADFI/g</td><td>525.05±167.11</td><td>646.85±181.95</td><td></td><td>728.57±140.23</td><td></td><td></td><td></td></tr><tr><td>平均日增重 ADG/g</td><td>799.41±51.20</td><td>860.29±60.74</td><td>862.25±17.65</td><td>898.77±21.19</td><td>0.076</td><td>0.102</td><td>0.758</td></tr><tr><td>料重比F/G</td><td>3.16±0.05</td><td>3.08±0.053</td><td>3.06±0.08</td><td>3.03±0.11</td><td>0.109</td><td>0.310</td><td>0.778</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "同行数据肩标不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，相同或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ 。下表同。 In the same row, values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ .The sameas below. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2饲粮直链/支链淀粉比对育肥猪营养物质表观消化率的影响",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表5可知，与LD 组相比，MD 和HD 组饲粮总能、粗灰分和粗蛋白质表观消化率显著降低 $( P { < } 0 . 0 5 )$ ，CD 组总能表观消化率和HD组粗脂肪表观消化率也显著降低（ $_ { . P < 0 . 0 5 ) }$ 与CD 组相比，HD组总能、粗灰分和粗蛋白质表观消化率显著降低（ $_ { , P < 0 . 0 5 ) }$ ，MD 组粗灰分和粗蛋白质表观消化率显著降低（ $_ { , P < 0 . 0 5 ) }$ ）;与 MD 组相比，HD 组总能表观消化率显著降低（ $\\scriptstyle \\cdot { \\cal P } { < } 0 . 0 5 .$ )。回归分析表明，随着饲粮直链/支链淀粉比的增加，饲粮总能、粗灰分、粗脂肪和粗蛋白质表观消化率均呈显著的线性降低（ $( P { < } 0 . 0 5 )$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/5418bfa8dea765efb8fe28ac1ad94de6aa33d55420c91aef98e7496f27d6f043.jpg",
+        "table_caption": [
+            "Table 5Effects of dietary amylose/amylopectin ratio on nutrient apparent digestibility of "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>66</td><td colspan=\"3\">finishing pigs</td><td colspan=\"3\">%</td></tr><tr><td>项目</td><td colspan=\"3\">组别 Groups</td><td colspan=\"3\">P值 P-value</td></tr><tr><td>Items</td><td>LD</td><td>CD</td><td>MD</td><td>HD</td><td>方差分析 ANOVA</td><td>线性 Linear</td><td>二次 Quadratic</td></tr><tr><td>总能GE</td><td>91.19±0.20c</td><td>90.11±0.50b</td><td>89.96±0.09b</td><td>89.14±0.25a</td><td><0.001</td><td><0.001</td><td>0.636</td></tr><tr><td>粗灰分</td><td>57.37±0.23b</td><td></td><td>52.55±1.04a</td><td></td><td></td><td><0.001</td><td>0.778</td></tr><tr><td>Ash</td><td></td><td>57.03±0.87b</td><td></td><td>52.76±1.58a</td><td>0.007</td><td></td><td></td></tr><tr><td>干物质</td><td>88.14±0.96</td><td>86.69±0.64</td><td>87.78±0.27</td><td>86.89±0.71</td><td>0.424</td><td>0.381</td><td>0.679</td></tr><tr><td>DM</td><td>75.77±0.79b</td><td></td><td>73.62±0.37ab</td><td></td><td></td><td></td><td></td></tr><tr><td>粗脂肪 EE</td><td></td><td>73.13±1.32ab</td><td></td><td>71.47±0.74a</td><td>0.012</td><td>0.002</td><td>0.756</td></tr><tr><td>粗蛋白质 CP</td><td>88.58±0.35b</td><td>88.02±0.80b</td><td>85.69±0.50a</td><td>86.64±0.52a</td><td>0.005</td><td>0.002</td><td>0.158</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "167 2.3 饲粮直链/支链淀粉比对育肥猪肠道食糜pH的影响",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "168 由表6可知，饲粮直链/支链淀粉比对育肥猪十二指肠、空肠、盲肠和结肠食糜pH无  \n169 显著影响 $( P { > } 0 . 0 5 )$ ；但与LD组相比，HD组育肥猪盲肠和结肠食糜pH分别降低 $5 . 0 8 \\%$ 和  \n170 $2 . 2 5 \\%$ 。此外，与LD、CD 和 MD 组相比，HD 组猪回肠食糜 $\\mathfrak { p H }$ 显著降低（ $_ { . P < 0 . 0 5 ) }$ 。回归  \n171 分析表明，随着饲粮直链/支链淀粉比的增加，育肥猪回肠食糜 $\\mathsf { p H }$ 呈显著的线性和二次曲线  \n172 变化（ $( P { < } 0 . 0 5 )$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/5e800f598d3fb9a09426d4a82051dc30d49d73c7b60be31352a8e53f1a49e2fd.jpg",
+        "table_caption": [
+            "表6饲粮直链/支链淀粉比对育肥猪肠道食糜 $\\mathfrak { p H }$ 的影响",
+            "74 Table 6Efects of dietary amylose/amylopectin ratio on pH in intestinal digesta of finishing pigs "
+        ],
+        "table_footnote": [
+            "175 2.4饲粮直链/支链淀粉比对育肥猪肠道食糜挥发性脂肪酸浓度的影响"
+        ],
+        "table_body": "<html><body><table><tr><td>项目</td><td colspan=\"4\">组别 Groups</td><td colspan=\"3\">P值P-value</td></tr><tr><td>Items</td><td>LD</td><td>CD</td><td>MD</td><td>HD</td><td>方差分析 ANOVA</td><td>线性 Linear</td><td>二次 Quadratic</td></tr><tr><td>十二指肠 Duodenum</td><td>4.84±0.37</td><td>5.48±0.17</td><td>4.92±0.16</td><td>5.49±0.24</td><td>0.180</td><td>0.248</td><td>0.897</td></tr><tr><td>空肠 Jejunum</td><td>5.52±0.31</td><td>5.89±0.25</td><td>5.75±0.16</td><td>6.02±0.13</td><td>0.454</td><td>0.171</td><td>0.852</td></tr><tr><td>回肠 Ileum</td><td>6.51±0.14b</td><td>6.55±0.19b</td><td>6.45±0.10b</td><td>5.91±0.10a</td><td>0.009</td><td>0.004</td><td>0.042</td></tr><tr><td>盲肠Cecum</td><td>5.51±0.24</td><td>5.75±0.30</td><td>5.30±0.03</td><td>5.23±0.06</td><td>0.225</td><td>0.114</td><td>0.413</td></tr><tr><td>结肠Colon</td><td>6.22±0.08</td><td>6.22±0.16</td><td>6.20±0.07</td><td>6.08±0.11</td><td>0.758</td><td>0.380</td><td>0.562</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由表7可知，与LD 和CD 组相比，MD 组育肥猪盲肠食糜丁酸浓度显著提高，HD 组盲肠食糜丙酸和丁酸浓度显著提高（ $. P { < } 0 . 0 5 \\rangle$ ；与MD组相比，HD 组育肥猪盲肠食糜丙酸浓度显著提高（ $( P { < } 0 . 0 5 )$ ；与LD 组相比，HD 组育肥猪结肠食糜丙酸和总挥发性脂肪酸浓度显著提高（ $_ { , P < 0 . 0 5 ) }$ 。回归分析表明，随着饲粮直链/支链淀粉比的增加，盲肠食糜丁酸浓度及结肠食糜丙酸和总挥发性脂肪酸浓度呈显著的线性增加（ $\\scriptstyle P < 0 . 0 5 { \\mathrm { : } }$ )，盲肠食糜丙酸浓度有线性和二次曲线变化的趋势（ $0 . 0 5 { \\le } P { \\le } 0 . 1 0 \\ )$ ，结肠食糜乙酸浓度有线性增加的趋势（2 $( 0 . 0 5 { \\le } P { \\le } 0 . 1 0 )$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/cb3570d1576f34041efc883d4498daaeef7688ecd0693df7a6feb552449e7cfd.jpg",
+        "table_caption": [
+            "表7饲粮直链/支链淀粉比对育肥猪肠道食糜挥发性脂肪酸浓度的影响",
+            "Table 7Effects of dietary amylose/amylopectin ratio on VFAs concentrations in intestinal "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">185</td><td colspan=\"4\">digesta of finishing pigs</td><td colspan=\"3\">μ mol/g</td></tr><tr><td colspan=\"4\">组别 Groups</td><td colspan=\"3\">P值 P-value</td></tr><tr><td>项目 Items</td><td>LD</td><td>CD</td><td>MD</td><td>HD</td><td>方差分析 ANOVA</td><td>线性 Linear</td><td>二次 Quadratic</td></tr><tr><td>盲肠 Cecum</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>乙酸 Acetic acid</td><td>57.11±5.44</td><td>55.31±2.10</td><td>58.33±3.18</td><td>54.18±52.08</td><td>0.628</td><td>0.707</td><td>0.732</td></tr><tr><td>丙酸 Propionic acid</td><td>26.27±3.01a</td><td>24.96±2.25a</td><td>25.25±1.64a</td><td>34.08±2.81b</td><td>0.062</td><td>0.057</td><td>0.067</td></tr><tr><td>丁酸 Butyric acid</td><td>8.53±1.11a</td><td>8.73±0.95a</td><td>11.34±0.90b</td><td>11.72±0.39b</td><td>0.030</td><td>0.005</td><td>0.918</td></tr><tr><td>总挥发性脂肪酸</td><td></td><td></td><td></td><td></td><td></td><td>0.218</td><td>0.519</td></tr><tr><td></td><td>91.30±9.51</td><td>89.00±3.28</td><td>94.91±4.39</td><td>99.98±4.01</td><td>0.541</td><td></td><td></td></tr><tr><td>Total VFAs</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>结肠 Colon 乙酸 Acetic acid</td><td></td><td></td><td>43.67±6.73</td><td>44.48±1.26</td><td></td><td></td><td></td></tr><tr><td></td><td>32.67±2.26</td><td>41.81±4.36</td><td></td><td></td><td>0.195</td><td>0.059</td><td>0.338</td></tr><tr><td>丙酸Propionic acid</td><td>12.43±0.87a</td><td>17.51±1.78ab</td><td>17.54±3.13ab</td><td>23.60±4.05b</td><td>0.073</td><td>0.014</td><td>0.866</td></tr><tr><td>丁酸Butyric acid</td><td>7.84±0.61</td><td>8.90±1.55</td><td>8.98±1.09</td><td>10.47±1.15</td><td>0.420</td><td>0.119</td><td>0.852</td></tr><tr><td>总挥发性脂肪酸</td><td></td><td>68.22±7.29ab</td><td>70.20±10.82ab</td><td>78.54±5.04b</td><td>0.103</td><td>0.020</td><td>0.545</td></tr><tr><td>CotalVFAs</td><td>50.59±3.25a</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "86 2.5饲粮直链/支链淀粉比对育肥猪肠道食糜微生物菌群数量的影响",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由表8可知，MD 和HD 组育肥猪盲肠食糜总细菌数量显著高于LD 组（ $_ { , P < 0 . 0 5 ) }$ ；HD组育肥猪盲肠食糜双歧杆菌数量显著高于其他各组 $( P { < } 0 . 0 5 )$ ；与LD 组相比，HD 组育肥猪结肠食糜乳酸杆菌和双歧杆菌数量分别提高 $4 . 2 5 \\%$ 和 $1 5 . 4 2 \\%$ （ $\\scriptstyle P > 0 . 0 5 { \\mathrm { . } }$ )。回归分析表明，随着饲粮直链/支链淀粉比的增加，盲肠食糜双歧杆菌数量呈显著的线性和二次曲线变化中 $( P { < } 0 . 0 5 )$ ，盲肠食糜总细菌数量呈显著的线性增加（ $_ { . P < 0 . 0 5 ) }$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "表8饲粮直链/支链淀粉比对育肥猪肠道食糜菌群数量的影响",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Table 8Efects of dietary amylose/amylopectin ratio on microflora number in intestinal digesta ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/baf5e0c5c11eaacae79aed20fbf52cb221bb4d050a0488349e40fca40e396ab2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>194</td><td colspan=\"4\">of finishing pigs</td><td colspan=\"3\">lg(拷贝数/g)</td></tr><tr><td>项目</td><td colspan=\"4\">组别 Groups</td><td colspan=\"3\">P值P-value</td></tr><tr><td>Items</td><td>LD</td><td>CD</td><td>MD</td><td>HD</td><td>方差分析 ANOVA</td><td>线性 Linear</td><td>二次 Quadratic</td></tr><tr><td>盲肠Cecum</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>乳酸杆菌Lactobacillus</td><td>7.89±0.17</td><td>8.23±0.28</td><td>8.19±0.26</td><td>7.96±0.04</td><td>0.631</td><td>0.916</td><td>0.152</td></tr><tr><td>双歧杆菌Bifidobacterium</td><td>3.68±0.18a</td><td>3.82±0.48a</td><td>3.97±0.42a</td><td>5.82±0.33b</td><td>0.009</td><td>0.002</td><td>0.039</td></tr><tr><td>大肠杆菌Escherichia coli</td><td>8.46±0.26</td><td>8.15±0.24</td><td>8.10±0.25</td><td>8.11±0.47</td><td>0.838</td><td>0.456</td><td>0.635</td></tr><tr><td>芽孢杆菌Bacillus</td><td>6.47±0.08</td><td>6.58±0.08</td><td>6.37±0.09</td><td>6.40±0.08</td><td>0.335</td><td>0.494</td><td>0.739</td></tr><tr><td>总细菌 Total bacteria</td><td>12.34±0.15a</td><td>12.65±0.16ab</td><td>12.82±0.08b</td><td>12.79±0.11b</td><td>0.057</td><td>0.015</td><td>0.209</td></tr><tr><td>结肠Colon</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>乳酸杆菌Lactobacillus</td><td>7.29±0.36</td><td>7.69±0.13</td><td>7.83±0.06</td><td>7.60±0.15</td><td>0.356</td><td>0.369</td><td>0.330</td></tr><tr><td>双歧杆菌 Bifidobacterium</td><td>4.93±0.35</td><td>4.98±0.50</td><td>4.91±0.22</td><td>5.69±0.33</td><td>0.340</td><td>0.274</td><td>0.660</td></tr><tr><td>大肠杆菌 Escherichia coli</td><td>8.16±0.05</td><td>8.46±0.26</td><td>8.10±0.28</td><td>8.24±0.42</td><td>0.436</td><td>0.942</td><td>0.921</td></tr><tr><td>芽孢杆菌Bacillus</td><td>7.13±0.17</td><td>7.37±0.12</td><td>7.21±0.15</td><td>7.19±0.62</td><td>0.979</td><td>0.846</td><td>0.359</td></tr><tr><td>总细菌Total bacteria</td><td>13.18±0.07</td><td>13.30±0.06</td><td>13.33±0.08</td><td>13.36±0.06</td><td>0.332</td><td>0.165</td><td>0.717</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.6饲粮直链/支链淀粉比对育肥猪背最长肌肌内脂肪含量及短链脂肪酸受体基因GPR41  \n和 GPR43相对表达量的影响由表9可知，与HD 组相比，LD 组育肥猪背最长肌肌内脂肪含量显著提高（ $. P { < } 0 . 0 5 .$ ），  \nLD、CD 和MD 组背最长肌GPR43相对表达量显著降低（ $P { < } 0 . 0 5$ ）。回归分析表明，随着  \n饲粮直链/支链淀粉比的增加，育肥猪背最长肌肌内脂肪含量呈显著的线性降低（ $\\cdot P { < } 0 . 0 5 ^ { \\cdot }$ ），  \n背最长肌GPR43 相对表达量呈显著的线性和二次曲线变化（ $P { < } 0 . 0 5$ ）。表9饲粮直链/支链淀粉比对育肥猪背最长肌肌内脂肪含量及短链脂肪酸受体基因GPR41和GPR43相对表达量的影响Tahle 9Ffferts nf dietarv amvlnse/amvlnnectin ratin nn IMF cnntent and relative exnressinn",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/c8d3cbd5cef4065c7401338f683ca88b1b5040fbb1003b014e71f32ad7f1bf88.jpg",
+        "table_caption": [
+            "pigs "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td colspan=\"4\">组别 Groups</td><td colspan=\"3\">P值 P-value</td></tr><tr><td>Items</td><td>LD</td><td>CD</td><td>MD</td><td>HD</td><td>方差分析</td><td>线性</td><td>二次</td></tr><tr><td>肌内脂肪IMF/%</td><td>2.90±±0.28b</td><td>2.53±0.47ab</td><td>2.66±0.45ab</td><td>2.20±0.29a</td><td>ANOVA 0.036</td><td>Linear 0.011</td><td>Quadratic 0.776</td></tr><tr><td>G蛋白偶联受体</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>41 GPR41</td><td>0.80±0.16</td><td>0.87±0.09</td><td>0.74±0.06</td><td>1.00±0.24</td><td>0.615</td><td>0.425</td><td>0.813</td></tr><tr><td>G蛋白偶联受体</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>43 GPR43</td><td>0.52±0.12a</td><td>0.40±0.07a</td><td>0.45±0.07a</td><td>1.00±0.09b</td><td>0.001</td><td><0.001</td><td>0.024</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "206 3讨论",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.1饲粮直链/支链淀粉比对育肥猪生长性能和营养物质表观消化率的影响",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "208 淀粉是猪所需能量的主要来源，不同谷物由于淀粉组成和结构存在差异，在猪体内的消  \n209 化部位、速度和程度不同，因此其利用效率也存在差异。李勇[12]在研究不同直链/支链淀粉  \n210 比饲粮对猪营养物质表观消化率影响时发现，低直链/支链淀粉比饲粮回肠末端淀粉和总能  \n211 表观消化率极显著高于高直链/支链淀粉比饲粮。宾石玉等[1研究发现，饲粮中总能、干物  \n212 质和粗蛋白质的表观消化率随饲粮淀粉中直链淀粉含量的增加而降低。本研究也发现，饲粮  \n213 营养物质表观消化率随饲粮直链淀粉含量的增加而降低，其中高直链淀粉组育肥猪对饲粮总  \n214 能、粗灰分、粗脂肪和粗蛋白质的表观消化率显著低于低直链淀粉组，表明饲粮淀粉中直链  \n215 淀粉含量越高其消化性能越差。其可能原因：一方面，由于直链淀粉相对分子质量较支链淀  \n216 粉小，分子侧链较支链淀粉长，连接葡萄糖链的氢键作用力强，消化酶不易将其消化[17];  \n217 另一方面，直链淀粉易与油脂(脂肪酸)等化合物形成复合物，使其更难被消化[18]。尽管高直  \n218 链淀粉饲粮会降低营养物质的表观消化率，但本研究也发现育肥猪的ADG 和ADFI随饲粮  \n219 中直链淀粉含量的增加而提高,其中HD组育肥猪的ADG 和ADFI比LD 组分别提高 $12 . 4 3 \\%$   \n220 和 $8 . 0 6 \\%$ 。Doti等[2研究也发现猪日增重随着饲粮直链淀粉含量的增加而增加。其可能原因：  \n221 一方面，因支链淀粉能快速降解，迅速释放葡萄糖引起胰岛素反应，影响葡萄糖、氨基酸等  \n222 营养样物质吸收，更易形成脂肪，而直链淀粉则因不易消化而逐渐被降解成葡萄糖，引起胰  \n223 岛素慢速分泌，促使葡萄糖更有效的利用，减少机体能量浪费，从而提高生长性能，有利于  \n224 机体生长[17]；另一方面，虽然高直链淀粉组育肥猪营养物质的消化率降低，但采食量有所  \n225 增加，提高了营养物质的摄入量，从而改善生长性能。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2饲粮直链/支链淀粉比对育肥猪肠道食糜挥发性脂肪酸浓度的影响",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "猪消化道的严格厌氧菌能发酵碳水化合物和未消化的蛋白质，尤其在大肠段，产生许多挥发性脂肪酸，如乙酸、丙酸、丁酸等，抑制兼性厌氧菌的生长。此外，这些挥发性脂肪酸还能为动物提供能量、抵御病原微生物侵袭以及维持动物肠道健康[19]。研究表明，直链淀粉由于其结构特点（分子间氢键强、分子小且侧链长、分子结构排列紧凑）不易被消化酶消化而进入后肠被微生物降解产生短链脂肪酸[20]。Haenen 等[21]研究发现抗性淀粉不仅显著提高了猪盲肠和结肠短链脂肪酸浓度，调节肠道菌群组成，还影响了肠道短链脂肪酸相关基因的表达。相振田[22研究表明，饲喂仔猪直链/支链淀粉比为0.48的豌豆淀粉饲粮能显著提高盲肠和结肠内容物中总挥发性脂肪酸和丁酸的浓度及摩尔比。本研究也发现，育肥猪盲、结肠食糜挥发性脂肪酸浓度会随着饲粮直链/支链淀粉比的增加而增加，其中，HD 组育肥猪盲肠食糜丙酸和丁酸浓度以及结肠食糜丙酸和总挥发性脂肪酸浓度均显著高于LD 组。上述结果表明高直链淀粉饲粮可通过进入猪后肠发酵产生大量挥发性脂肪酸来改善肠道健康。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.3饲粮直链/支链淀粉比对育肥猪肠道食糜菌群数量的影响",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "动物胃肠道内栖息着数量巨大的菌群，它们可广泛参与宿主对营养素的代谢、增强机体免疫力、防止有害病原菌侵袭、抑制肠道产生腐败物质等，因此肠道菌群又被认为是一个独立的器官[23]。如果肠道内菌群失衡就会导致肠道损伤，进而引起腹泻和炎症等。厚壁菌门和拟杆菌门是猪肠道内的主要优势菌群，其中双歧杆菌和乳酸杆菌属于厚壁菌门中对肠道健康有益的菌群，而大肠杆菌是导致仔猪腹泻的有害菌[24]。Bird 等[25]研究表明，饲喂猪高直链淀粉饲粮能促进结肠乳酸杆菌和双歧杆菌的增殖，同时也能促进整个大肠的发酵。本研究结果发现，随着饲粮直链/支链淀粉比的增加，育肥猪盲肠和结肠食糜乳酸杆菌和双歧杆菌数量也逐渐增加，其中，HD 组育肥猪盲肠食糜双歧杆菌和总细菌数量显著高于LD 组。这可能是由于直链淀粉能够进入后肠被微生物发酵生成大量挥发性脂肪酸，一方面，挥发性脂肪酸可通过降低肠道pH来促进有益菌生长，抑制有害菌增殖；另一方面，挥发性脂肪酸具有降低氧化还原电位的作用，影响有害菌生长，从而改善肠道微生态平衡。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.4饲粮直链/支链淀粉比对育肥猪背最长肌肌内脂肪含量和短链脂肪酸受体基因表达的影响",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "前人研究表明，短链脂肪酸对动物糖脂代谢的调控主要是通过激活短链脂肪酸受体来实现[26]。在众多短链脂肪酸受体中，G蛋白偶联受体超家族中孤儿型受体GPR41和GPR43是短链脂肪酸的特异性受体[27]。在人上的研究发现，GPR41和GPR43只在特定组织表达，如脂肪组织和部分血细胞等[28]。侯增淼[29]研究发现，GPR41和GPR43在猪肌肉中也可以表达。Kimura 等[30]用敲除GPR43的小鼠和野生型小鼠进行研究发现，敲除GPR43的小鼠体重、脂肪组织大小、脂肪组织脂肪细胞大小显著高于野生型小鼠；而GPR43 过表达的小鼠体重、脂肪组织大小、脂肪组织脂肪细胞大小显著低于野生型小鼠，说明短链脂肪酸可以通过刺激GPR43的表达来抑制脂肪积累。本研究发现，育肥猪背最长肌中GPR43的相对表达量随饲粮直链/支链淀粉比的降低而降低,其中,与HD 组相比,LD 组育肥猪背最长肌GPR43相对表达量显著降低，肌内脂肪含量显著提高。上述结果表明高支链淀粉饲粮可通过减少猪肠道短链脂肪酸浓度来抑制背最长肌短链脂肪酸受体基因GPR43的表达，从而促进肌内脂肪沉积，改善猪肉品质。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 随着饲粮直链/支链淀粉比的增加，育肥猪对饲粮总能、粗灰分、粗脂肪和粗蛋白质的表观消化率呈逐渐降低的趋势，饲粮中直链淀粉含量越高营养物质的消化性能越差。  \n$\\textcircled{2}$ 高直链淀粉饲粮可通过提高育肥猪肠道食糜挥发性脂肪酸浓度来降低肠道pH，从而促进有益菌的增殖，达到改善肠道健康的目的。  \n$\\textcircled{3}$ 高支链淀粉饲粮可通过抑制育肥猪背最长肌短链脂肪酸受体GPR43 的表达来提高肌内脂肪含量。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "YIN Y L,DENG Z Y,HUANG H L,et al.Nutritional and health functions of carbohydrate for pigs[J].Journal of Animal and Feed Sciences,2004,13(4):523-538. DOTI S,SUAREZ-BELLOCH J.Effect of dietary starch source on growth performances,digestibilityandqualitytraitsofgrowingpigs[J].Livestock Science,2014,164:119-127. SO P W,YU W S,KUO Y T,et al.Impact of resistant starch on body fat patterning and central appetite regulation[J].PLoS One,2007,2(12):e1309. REGMI P R,METZLER-ZEBELI B U,GANZLE M G,et al.Starch with high amylose content and low in vitro digestibility increases intestinal nutrient flow and microbial fermentation and selectively promotes bifidobacteria in pigs[J].The Journal of Nutrition,2011,141(7):1273-1280. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "ENGLYST H N,HUDSON G J.The classification and measurement of dietary carbohydrates[J].Food Chemistry,1996,57(1):15-21. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "DENG J,WU X,BIN S,et al.Dietary amylose and amylopectin ratio and resistant starch content affects plasma glucose,lactic acid,hormone levels and protein synthesisin splanchnic tissues[J].Journal of Animal Physiology and Animal Nutriti0n,2010,94(2):220-226. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "BIRD A R,BROWN IL,TOPPING D L.Starches,resistant starches,the gut microflora and human health[J].Current Issues in Intestinal Microbiology,20o0,1(1):25-37. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "TESTER R F,KARKALAS J,QI X.Starch—composition,fine structureand architecture[J].Journal of Cereal Science,2004,39(2):151-165. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "CAMP L K,SOUTHERN L L,BIDNER T D.Effect of carbohydrate source on growth performance,carcass traits,and meat quality of growing-finishing pigs[J].Journal of Animal Science,2003,81(10):2488-2495. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "WANG X,BROWN I L,KHALED D,et al.Manipulation of colonic bacteria and volatile fatty acid production by dietary high amylose maize (amylomaize） starch granules[J].Journal of Applied Microbiology,2002,93(3):390-397. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "PEREZ J M,AUMAITRE A.Waxy versus regular maize:energy value for growing pigs and utilization in piglet diets[J].Animal Feed Science and Technology,1979,4(2):109-115. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "李勇.玉米淀粉结构及膨化和酶制剂影响仔猪日粮消化性研究[D].博士学位论文武汉：华中农业大学,2010",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "张丽英.饲料分析及饲料质量检测技术[M].2版.北京:中国农业大学出版社,2003.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "刁慧.苯甲酸和百里香酚对断奶仔猪生长性能和肠道健康的影响[D].硕士学位论文雅安：四川农业大学,2013.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "LIVAK K J,SCHMITTGEN T D.Analysis of relative gene expression data using real-time quantitative PCR and the $2 ^ { - \\Delta \\Delta C _ { T } }$ Method[J].Methods,2001,25(4):402-408. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "宾石玉,赵霞.不同来源淀粉对断奶仔猪日粮养分消化率的影响[J].湖南畜牧兽医,2007(1):4-6.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "NUGENT A P.Health properties of resistant starch[J].Nutrition Bulletin,2005,30(1):27-54. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "宾石玉,赵霞.日粮淀粉来源对断奶仔猪小肠淀粉消化率的影响[J].贺州学院学 报,2007,23(1):141-144. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "LEAVITT J,BARRETT J C,CRAWFORD B D,et al.Butyric acid suppression of the in vitro neoplastic state of Syrian hamster cells[J].Nature,1978,271(5642):262-265. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "TOPPING D L,CLIFTON P M.Short-chain fatty acids and human colonic function:rolesof resistantstarch and nonstarch polysaccharides[J].Physiological Reviews,2001,81(3):1031-1064. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "HAENEN D,ZHANG J,DA SILVA C S,et al.A diet high in resistant starch modulates microbiota composition,SCFA concentrations,and gene expression in pig intestine[J].The Journal of Nutrition,2013,143(3):274-283. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "相振田.饲粮不同来源淀粉对断奶仔猪肠道功能和健康的影响及机理研究[D].博士学位论文.雅安：四川农业大学,2011.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "ALONSO V R,GUARNER F.Linking the gut microbiota to human health[J].British Journal of Nutrition,2013,109(S2):S21-S26. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "GUO X,XIA X,TANG R,et al.Development of a real - time PCR method for Firmicutes and Bacteroidetes in faeces and its application to quantify intestinal population of obese and lean pigs[J].Letters in Applied Microbiology,2008,47(5):367-373. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "BIRD A R,VUARAN M,BROWN I,et al.Two high-amylose maize starches with different amounts of resistant starch vary in their effects on fermentation,tissue and digesta mass accretion,and bacterial populations in the large bowel of pigs[J].British Journal of Nutrition,2007,97(1):134-144. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "TOLHURST G,HEFFRON H,LAM Y S,et al.Short-chain fatty acids stimulate glucagon-like peptide-1 secretion via the G-protein-coupled receptor FFAR2[J].Diabetes,2012,61(2):364-371. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "BROWN A J,GOLDSWORTHY S M,BARNES A A,et al.The orphan G protein-coupled receptors GPR41 and GPR43 are activated by propionate and other short chain carboxylic acids[J].Journal of Biological Chemistry,2003,278(13):11312-11319. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "REGARD J B,SATO I T,COUGHLIN S R.Anatomical profiling of G protein-coupled receptor expression[J].Cell,2008,135(3):561-571. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "侯增淼.猪GPR43基因cDNA克隆、组织表达及脂肪酸对小鼠该基因表达的作用研究[D].硕士学位论文.杨凌:西北农林科技大学,2008.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "KIMURA I,OZAWA K,INOUE D,et al.The gut microbiota suppresses insulin-mediated fataccumulation viathe short-chain fatty acid receptor GPR43[J].Nature Communications,2013,4:1829. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Effects of Dietary Amylose/Amylopectin Ratio on Growth Performance, Nutrient Apparent Dgestibility, Intestinal Microflora Number and Volatile Fatty Acid Concentrations, and Intramuscular Fat Content of Finishing Pigs PU Junning WANG Huajie CHEN Daiwen TIAN Gang HE Jun ZHENG Ping MAO Xiangbing YU Jie HUANG Zhiqing LUO Junqiu LUO Yuheng YU Bing\\*   \n(1. Key Laboratory for Animal Disease-Resistance Nutrition of Ministry of Education, Institute of Animal Nutrition, Sichuan Agricultural University, Ya’ an 625014, China)   \nAbstract:Thisexperiment wasconducted to investigate theefectsof dietary   \namylose/amylopectin ratio on growth performance， nutrient apparent digestibility， intestinal   \nmicroflora number and volatile fatty acid concentrations, and intramuscular fat content of   \nfinishing pigs. Twenty-four Duroc $\\times$ LandracexYorkshire healthy growing pigs with an average   \nbody weight (BW) of $( 6 1 . 6 7 { \\pm } 2 . 0 1 \\$ ） $\\mathrm { k g }$ were randomly assigned to four groups with six replicates   \nper group and one pig in each replicate. The amylose/amylopectin ratio of Four experimental diets   \nwas 0.26 (LD group)， 0.37 (CD group), 0.47 (MD group) and 0.98 (HD group),respectively. The   \nexperiment was ended when the average body weight of pigs reached about $1 2 0 ~ \\mathrm { k g }$ ，The results   \nshowed as follows: 1） as the dietary amylose/amylopectin ratio increasing， the apparent   \ndigestibility of dietary gross energy, ash, ether extract and crude protein was linear reduced   \n（20 $( P { < } 0 . 0 5 )$ . Compared with LD group,the apparent digestibility of gross energy, ash and crude   \nprotein in MD and HD groups were significantly decreased $( P { < } 0 . 0 5 )$ ， and the apparent   \ndigestibility of crude fat in HD group was also significantly decreased $( P { < } 0 . 0 5 )$ ; compared with   \nCD group, the apparent digestibility of gross energy, ash and crude protein in HD group was   \nsignificantly decreased $( P { < } 0 . 0 5 )$ . 2) The $\\mathfrak { p H }$ of ileal digesta in HD group was significantly lower   \nthan that in LD,CD and MD groups $( P { < } 0 . 0 5 )$ . 3） As the dietary amylose/amylopectin ratio   \nincreasing, the cecal digesta butyrate concentrations and the colon digesta propionic acid and total   \nvolatile fatty acid concentrations were linear increased $( P { < } 0 . 0 5 )$ , the cecal digesta propionic acid ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "concentration had trends of linear and quadratic curve changes( $0 . 0 5 { \\le } P { \\le } 0 . 1 0 )$ , and colon digesta acetic acid concentration showed a linear increasing trend( $0 . 0 5 { \\le } P { \\le } 0 . 1 0 \\$ ）.Compared with LD and CD groups, the concentrations of propionic acid and butyrate in cecal digesta of pigs in HD group were significantly increased $( P { < } 0 . 0 5 )$ ；compared with LD group,the concentrations of propionic acid and total volatile fatty acids in colon digesta of pigs in HD group were significantly increased $( P { < } 0 . 0 5 )$ . 4) The Bifidobacterium number of cecal digesta was significantly changed as linear and quadratic curve with the dietary amylose/amylopectin ratio increasing $( P { < } 0 . 0 5 )$ . The total bacteria number of cecal digesta in MD and HD groups was significantly higher than that in LD group $( P { < } 0 . 0 5 )$ ; the Bifidobacterium number of cecal digesta in HD group was significantly higher than that in the other groups ( $_ { ( P < 0 . 0 5 ) }$ . 5) Compared with HD group,the intramuscular fat content in longissimus dorsi muscle of pigs in LD group was significantly increased $( P { < } 0 . 0 5 )$ ,and the relative expression level of G-protein-coupled receptor 43 (GPR43） in longissimus dorsi muscle of pigs in LD, CD and MD groups was significantly decreased $( P { < } 0 . 0 5 )$ . In conclusion, increase dietary amylose and amylopectin ratio can reduce nutrient apparent digestibility, change the composition of posterior intestinal microflora, increase the posterior intestinal volatile fatty acid concentration， and affect intramuscular fat deposition. Therefore,the appropriate dietary amylose/amylopectin ratio is beneficial to improve the intestinal health and pork quality of pigs. Key words: amylose/amylopectin ratio； growth performance； microflora; volatile fatty acids; intramuscular fat; finishing pigs ",
+        "page_idx": 17
+    }
+]

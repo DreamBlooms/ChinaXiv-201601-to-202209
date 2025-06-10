@@ -1,0 +1,481 @@
+[
+    {
+        "type": "text",
+        "text": "RESEARCHARTICLE ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Impaired maturation of large dense-core vesicles in muted-deficient adrenal chromaffin cells ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhenhua Hao1,2, Lisi Wei³, Yaqin Feng1,4, Xiaowei Chen³, Wen ${ \\mathsf { D } } \\mathbf { u } ^ { 5 }$ , Jing Ma1, Zhuan Zhou³,Liangyi Chen³ anc Wei Li1,6,\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The large dense-core vesicle (LDCV),a type of lysosome-related organelle，isinvolvedinthesecretionofhormonesand neuropeptides in specialized secretory cells.The granin family is a driving force in LDCVbiogenesis,but the machinery for granin sorting to this biogenesis pathway is largely unknown.The mu mutant mouse,which carries a spontaneous null mutation on the Muted gene (also known as Bloc1s5),which encodes a subunit of the biogenesis oflysosome-related organelles complex-1 (BLOC-1)，isa mouse model of Hermansky-Pudlak syndrome.Here,we found thatLDCVs were enlarged in mu adrenal chromaffin cells.ChromograninA(CgA, also known as CHGA) was increased in mu adrenals and mutedknockdown cells.The increased CgA in mu mice was likely due a failure to export this molecule out of immature LDCVs,which impairs LDCV maturation and docking. In mu chromaffin cells,the size of readily releasable pool and the vesicle release frequency were reduced. Our studies suggest that the muted protein is involved in the selective export of CgA during the biogenesis of LDCVs. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KEYWORDS:Large dense core vesicle,BLOC-1, Muted protein, CgA,Hermansky-Pudlak syndrome ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Large dense-core vesicles (LDCVs),which are formed at the trans-Golgi network(TGN),are key organelles for secretion of hormonesand neuropeptides in specialized secretory cells, including neuroendocrine and non-neuroendocrine cells.LDCVs are characterized as a type oflysosome-related organelle (LRO) (Wei and Li，2013).However，the molecular playersand mechanisms governing the biogenesis of LDCVs are not fully understood.During LDCV biogenesis,sorting machineries are important to ensure proper cargo assembly into mature and condensed vesicles (Kim et al.,2006;Tooze et al.,2001).Two hypotheses have been proposed for cargo sorting into LDCVs: sorting for entry and sorting for retention (Arvan and Castle, 1998).Prevention of cargo mis-sorting into lysosomes for degradation is also important during LDCV biogenesis（Yu et al., 2011). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Previous studies have suggested that the granin family plays an important role in LDCV biogenesis (Kim et al.,2001),but the machinery for granin sorting into LDCVs is largely unknown. Theadaptorprotein-3(AP-3) complexislikely involved in granin sorting into immature LDCVs.In AP-3-deficient chromaffin cells,LDCVs contain less granins,chromogranin A(CgA,also known as CHGA） and secretogranin II (SgII,also known as SCG2),and exhibit enlarged size,decreased number and an increase in releasing quantal size (i.e.the amount of transmitter released per vesicle) (Asensio et al., 201O; Grabner et al.,2006). AP-3 and the HOPS complex interact physically and might act in the same pathway in regulating endosomal trafficking(Angers and Merz,2009；Rehling et al.，1999；Wilkin et al.,2008). Knockdown of VPS41(a HOPS subunit) in PC12 cells leads to similar defects of LDCVs as in AP-3-deficient cells (Asensio et al.,2013).Similarly, the LDCVs in adrenal chromaffin cells frommice deficient in dysbindin [a subunit of biogenesis of lysosome-related organelles complex-1(BLOC-1)]are reduced in number and increased in vesicle size,leading to reduced secretion events and increased quantal size (Chen et al.，2oo8).These findings suggest that AP-3,HOPS and BLOC-1 are likely involved in the sorting of cargoes into immature LDCVs (selective import) or the sorting of unnecessary molecules out of immature LDCVs (selective export).However, the underlying mechanisms of how these trafficking complexes control the import and export processes ofLDCV proteins are very limited. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The BLOC-1 complex consists of eight subunits: muted, pallidin，dysbindin,cappuccino (also known as BLOC1S5, BLOC1S6，DTNBP1 and BLOC1S4，respectively)， snapin, BLOS1 (also known as BLOC1S1 or GCN5L1)，BLOS2(also known as BLOC1S2）and BLOS3 (also known as BLOC1S3) (Ciciotte et al.,2003；Falcon-Pérez et al.，2002；Gwynn et al., 2004;Li etal.,2003;Starcevic and Dell'Angelica, 2004).KXD1 has been identified as an additional subunit of BLOC-1 (Hayes et al.,2011; John Peter et al.,2013;Yang et al.,2012).Current understanding of the functions of BLOC-1 are mainly focused on cargo trafficking from endosomes to lysosomes(for a review, see Wei and Li,2O13)and endosomal maturation (John Peter et al., 2013).BLOC-1 deficiency causes Hermansky-Pudlak syndrome (HPS）in mice and humans,which is characterized by LRO dysfunction (Wei and Li,2013). The KXD1-knockout mice (Yang etal.,2012) exhibit mild defectsinLROs compared with other typical HPS mouse mutants of BLOC-1 such as the sdy (dysbindin deficiency),mu (muted deficiency）and pa (pallidin deficiency) mice,whereas snapin-and BLOS1-knockout mice are embryonic lethal and exhibit impaired autophagy (Cai et al., 2010; Scott et al.,2014; Tian et al.,2005; Zhang et al.,2014). This suggests that the deficiency of different BLOC-1 subunit leads to variable phenotypes on LROs. Comparison of the features of LRO defects in different BLOC-1 mouse mutants might reveal the underlying mechanisms in their involvement of LRO biogenesis. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The mu mutant mouse,which carries a spontaneous mutation on the Muted gene (Blocls5),abolishes the expression of the muted protein and affects the biogenesis of severalLROs such as melanosomes and platelet-dense granules (Zhang et al., 2o02). In ourpilot study,we observed that mu mice hada different profile of morphological changes inLDCVs compared to sdy mice(Chen et al.,2008） or snapin-knockout mice (Pan et al.,2009；Tian et al.,2oo5).In comparison with additional HPS mouse mutants, we propose that the muted protein is involved in the export of the granin CgA during LDCV biogenesis. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS Morphological changes of LDcVs in mu chromaffin cells ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To investigate whetherLDCVs are affected in mu mice (mu/mu) we analyzed the morphological changes ofLDCVs from adrenal gland of controls $( m u / + )$ and mu mice by electron microscopy. The gross ultrastructure of mu chromaffin cells was similar to that in the control mice (Fig.1A). The round granular limits were visible and dense cores were condensed in mu chromaffin cells.In control cells,many granules had a loosely packaged dense-core and a spacious halo around the dense core.However,in mu cells, the halos were less spacious and the dense cores occupied more of the space in the whole vesicles (Fig.1A).We then examined the number and size ofLDCVs in sections of randomly selected cells from two different animals for each genotype.There was no significant difference in the total number of vesicles per square micrometer between control and mu chromaffin cells (Fig.1B). For vesicle size analysis,all round granules with a well-preserved membrane,ahalo and an electron-dense round core were included. The average increase of the size (diameter) of LDCVs in mu chromaffin cells was $\\sim 6 \\%$ (Fig.1C).Furthermore, the electrondense core size (diameter) was significantly enlarged by $\\sim 1 7 . 6 \\%$ in mu chromaffin cells (Fig.1D).Hence, the ratio of dense core diameter comparedto vesicle diameterwas increased by $\\sim 1 0 \\%$ in mu mice compared with control mice (Fig.1E). Similarly,we observed enlarged vesicle size and dense core size in another type of LDCV in islet $\\mathfrak { X }$ -cells，which contain CgA and glucagon (Portela-Gomesand Stridsberg， 2001)， in themumice (supplementary material Fig.S1).These results suggest that loss of the muted protein likely affects LDCV morphology in a conserved mechanism. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/036a66ea2d0f4ff8c59a8e6508bdb484a526427a93115bff025b694e085815a1.jpg",
+        "img_caption": [
+            "Fig.1.Ultrastructural pathology of LDCVs in mu chromaffin cells.(A) Representative electron micrographs of adrenal gland sections from heterozygous mu/+ (con,left) and homozygous mu/ mu (mu,right) male mice at the age of 8 weeks. Scale bars: $0 . 5 \\mu \\mathrm { m }$ (B)There was no significant difference in the total number of vesicles in mu mice (con: $5 . 3 4 { \\scriptstyle \\pm 0 . 3 6 }$ vesicles $/ \\mu \\mathrm { m } ^ { 2 }$ mu: $5 . 0 0 { \\scriptstyle \\pm 0 . 2 4 }$ vesicles $/ \\mu \\mathrm { m } ^ { 2 } )$ .Resultsaremean $\\pm$ s.e.m. N.S.,not significant.(C) The LDCV diameter is presented as afrequency histogram.The mean diameter of the LDCVs increased in mu mice( $2 5 1 . 2 5 { \\scriptstyle \\pm 0 . 8 8 \\ \\mathsf { n m } }$ 6244 vesicles) compared with that in control mice 1 $2 3 7 . 3 0 { \\scriptstyle \\pm 0 . 8 7 } { \\mathsf { n r } }$ n,7664 vesicles). $^ { \\star \\star \\star } P { < } 0 . 0 0 1$ ： (D)The electron-dense core diameter is presented asa frequency histogram.The average diameter of electron-dense cores increased in mu mice （ $1 5 9 . 4 3 { \\scriptstyle \\pm 0 . 7 1 } { \\mathsf { n m } }$ ,6244 vesicles) compared with that in control mice ( $1 3 5 . 5 2 { \\scriptstyle \\pm 0 . 6 0 \\ \\mathsf { n m } }$ ，7664 vesicles). $^ { \\star \\star \\star } P { < } 0 . 0 0 1$ . (E)The dense core diameter/ LDCV diameter is presented as a frequency histogram.The ratio of dense core diameter:vesicle diameter was higher in mu mice $0 . 6 4 5 { \\scriptstyle \\pm 0 . 0 0 2 }$ 6244vesicles) than in control mice $\\langle 0 . 5 9 4 { \\scriptstyle \\pm 0 . 0 0 2 }$ 7664 vesicles). $^ { \\star \\star \\star } P { < } 0 . 0 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Muted deficiency increases the amount of CgA in LDcVs in adrenal glands and PC12 cells ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { C g A }$ is a major constituent of LDCVs,acting as an assembly factor to drive secretory granule biogenesis (Kim et al.,2oo1).To investigate the molecular mechanism of the morphological defects of mu LDCVs,we measured the steady-state protein levels of CgA in adrenal glands in mu mice.We found a significant increase (1.54-fold) of full-length CgA( $\\mathrm { 8 0 \\ k D a ) }$ in mu mice compared to wild-type(WT,con) mice (Fig.2A,B). We quantified the amount of an intermediate CgA-derived peptide $( \\sim 2 3 \\mathrm { \\ k D a } )$ ）and there was likewise an increase in mu mice (Fig.2C,D),which is in agreement with the increase of fulllength $\\mathrm { C g A }$ .This suggests that the increased $\\mathrm { C g A }$ in mu mice is unlikely to be caused bythe inefficiency of CgA cleavage.In contrast, the protein levels of another granin,SgII, were unaltered in mu mice compared to control mice (Fig.2E,F).We confirmed the increase of CgA in muted-knockdown (KD) PC12 cells (Fig.2G).Consistently,the intensities of CgA in muted-KD PC12 cells was significantly increased (Fig. 2H,I). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As the total number of LDCVs in mu cells did not change, we reasoned that the increased CgA might result from impaired export from immature LDCVs or from mislocalized non-LDCV organelles.We monitored the distribution of CgA by western blotting after equilibrium sedimentation through a $5- 5 0 \\%$ OptiPrep gradient. We found an almost complete absence of CgAof muadrenal glandsin thelighter fractions3 and4,which correspond to the clathrin heavy chain, compared with in wildtype mice.In contrast, the distribution of SgII was similar between mu and WT mice (Fig.3A).These results suggest that the muted protein might facilitate the removal or export of $\\mathrm { C g A }$ from immature secretory granules (ISGs) via clathrin-coated vesicles(Orci et al., 1985a;Tooze and Tooze,1986). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b91361ba8392f5696b51f7df0e59b58fb197205902d260e98cd6da5bd6a0c7a2.jpg",
+        "img_caption": [
+            "Fig.2.Incredsidadduteodl.epratisteofat immunoblotting analyses showed that there was an increase in full-ength CgA in adrenal glands of mu mice $\\scriptstyle ( n = 2 8 )$ relative to wild-type (con) mice $\\scriptstyle ( n = 2 8 )$ $^ { \\star \\star \\star } P { < } 0 . 0 0 1$ .(C,D) Representative western blots of CgA-derived peptide ( $, \\sim 2 3 \\ \\mathsf { k D a } )$ are shown.Quantification of immunoblotting analyses showed that there was an increase in CgA-derived peptide in adrenal glands of mu mice $( n { = } 8 )$ compared to control mice $( n { = } 8 )$ $^ { \\star } P { < } 0 . 0 5$ .(E,F)Representative western blots of SgllaresowQuantfiiofimmuobloinalssodattesicantainSlvelsidrealandfuic $( n { = } 8 )$ compared to control mice $( n { = } 9 )$ . N.S., not significant. $\\left( { \\mathsf { G } } \\right)$ Immunobloting analyses of lysates from stable muted-shRNA PC12 cels (shRNA) showed an ${ \\sim } 9 0 \\%$ （204 reductionfutileye celsssubotioelbotsoridtts.i imnofureotsldl.s PC12 cells.FluorescenceintensitiesofCgAwere quantifiedfrom63muted-shRNAPC12celsand57controlcels,respectively. $^ { \\star \\star \\star } P { < } 0 . 0 0 1$ . Results in B, D,E and lare mean±s.e.m. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/42bbb08d9e56d39551ef70839efab375a9df36448059563105aeed9273f6a6ad.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.3. Increased CgA levels in mu LDCVs.(A) Adrenal glands from wild-type (con) and mu mice were homogenized and the nuclei-free supernatant was separated by equilibrium sedimentation through $5 \\text{‰}$ Optiprep.Fourteen fractions were collected from the top of the gradient and assayed for CgA by immunoblotting; 11 fractions are shown on the blots.Note that CgA was almost completely absent from fractions corresponding to the clathrin heavy chain in mu lysates as compared to the distribution of Sgll in the same lysates,which did not show any difference to that in control lysates.CgAderived peptides ( $6 0 \\ k \\mathsf { D } \\mathsf { a }$ and $2 3 \\mathsf { k D a }$ ）wereenriched in fractions 7-10,which represent the LDCV peak. (B)Quantification of nine western blots from three independent sedimentations showed that the amount of CgA $( 8 0 ~ \\mathsf { k D a } )$ in the LDCV peak was increased in lysates from mu mice $( 1 . 6 1 \\pm 0 . 0 4 )$ compared with those from control mice ( $1 . 0 0 { \\scriptstyle \\pm 0 . 0 2 } )$ ： $^ { \\star \\star \\star } P { < } 0 . 0 0 1$ .Resultsare mean±s.e.m.CgA content in LDCV peak is expressed as a percentage of total CgA normalized to the control group and total CgA.The percentage for the LDCV peak in the sedimentationswasmultiplied bya factor of1 for the control group,andbya factor of 1.54 for the mu group because the average amount of total CgA in the mu group is 1.54-fold that of the control group (shown in Fig.2B). (C)The mean fluorescence intensity of CgA of individual cytosolic vesicles,as shown in the left panel,in mutedknockdown PC12 cells was significantly increased 1 $1 . 6 5 { \\scriptstyle \\pm 0 . 0 2 }$ $\\scriptstyle n = 4 8 7 9$ vesicles) compared to the control cells( $1 . 0 0 { \\scriptstyle \\pm 0 . 0 1 }$ = $\\scriptstyle n = 4 6 9 4$ vesicles). Individual vesicles were selected in $1 0 \\times 1 0$ pixels regions (1 pixel $\\mathsf { I } = 6 2 \\mathsf { n m }$ ） and the CgA fluorescence of each vesicle was measured. \\*\\*\\* P<0.0o1.Results are mean±s.e.m. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We then tested whether the increased amount of CgA in mu mice was localized to LDCVs or mislocalized to other organelles. Immature and mature LDCVs have been considered as the major prohormone conversion sites(Koshimizu et al.,201o; Orci et al., 1985b). In this regard, the processed CgA peptides ( $\\mathrm { 6 0 \\ k D a }$ and $2 3 \\mathrm { \\ k D a }$ ）are mainly concentrated in LDCVs.We observed that these peptides were enriched in fractions 7-10,which represent the distribution ofLDCVs (Fig.3A).We then quantified the total amountof CgA in these LDCV-enriched fractions and ourresults showed that the LDCV-CgA proportion in mu mice was increased compared with the WT mice (Fig.3B).Consistent with this,we quantified the intensities of $\\mathrm { C g A }$ in cytosolic individual granules thatare definedasLDCVs(Walter etal.,2014) and showed that the $\\mathrm { C g A }$ intensity in the LDCV proportion was increased in muted-KD PC12 cells compared with the control cells (Fig.3C). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To confirm that loss of muted protein leads to the increase in CgA，we transfected EGFP-muted into the stable mutedknockdown PC12 cells (Fig. 4A). We quantified the intensities of total $\\mathrm { C g A }$ and the CgA in individualLDCVs in the transfected cells and showed that both total CgA and the LDCV-CgA proportion were significantly decreased in the EGFP-mutedexpressing cells compared with the EGFP-transfected cells (Fig.4B,C).We verified the expression of the muted protein in these cells (Fig.4D). These results suggest that the increased LDCV-CgA as well as total CgA can be rescued by the expression of functional muted protein. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We then investigated whether CgAis mislocalized to other nonLDCV organelles in the mu cells.We observed that CgA was largely retained in the SgII-positive LDCVs in both the muted-KD cells and control cells,with a partial colocalization withLAMP1, which is a marker of both lysosomes and LDCVs.We did not observe apparent mislocalization of $\\mathrm { C g A }$ to other organelles including the endoplasmic reticulum (ER)(SEC61B)，TGN (STX6),early endosomes (EEA1) and late endosomes (Rab7) in the muted-KD cells when compared to control cells (Fig.5), suggesting that its subcellular localization is unaltered. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Taken together, in the absence of muted protein, the proportion of CgA which is sorted to constitutive secretory vesicles or lysosomesmight be trapped inISGs,and thus lead to the increase of CgA in LDCVs. As CgA has the ability to aggregate to form electron-dense cores,the increased $\\mathrm { C g A }$ content in mu chromaffin cells likely leads to the increased size of electron-dense cores as wellas the increased size ofLDCVs. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Lossof muted protein leads to a smallerreadily releasable pool size and a reduction in vesicle secretion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Wetested whether the size change in LDCV in mu cells would affect the size of the readily releasable pool (RRP) and the release frequency.In neuroendocrine cells,the RRP generally represents the population of fusion-competent vesicles,and the immediately releasable pool(IRP) corresponds to a subpool of the RRP that is closely associated with $\\mathrm { C a } ^ { 2 + }$ channels (Voets et al., 1999). Wholecell patch-clamp was applied to single chromaffin cells. Average responses obtained from control and mu mice showed that secretory response was drastically reduced in mu chromaffin cells as shown by the reduced IRP and RRP size (Fig.6A-D).These results indicate thatlack ofmuted proteinleads to a smallerRRP size and results ina reduction of vesicular secretion in chromaffin cells. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b5a365d23436eb10ef99ece27b0bf6430efe35d76e4e9e157a19b321c5510e06.jpg",
+        "img_caption": [
+            "Fig.4. Expression of muted protein in the muted-knockdown PC12 cells reduced the CgA content in the LDcVs.(A) Expression of full-length Muted cDNA in the muted-shRNA PC12 cells reduced the CgA content. MutedshRNA PC12 cells were transfected with pEGFP-C2 or pEGFP-C2-Muted,to express an EGFP-Muted fusion protein,(green) for more than 72 hours and immunostained for CgA (red). Cells with EGFP green signals were counted. Scale bar: $5 \\mu \\mathrm { m }$ (B,C) Quantification of CgA fluorescence intensities showed that expression ofEGFP-Muted reduced the total CgA level (control, $1 . 0 0 { \\scriptstyle \\pm 0 . 1 2 }$ $n { = } 6 4$ cells; Muted group, $0 . 5 4 { \\scriptstyle \\pm 0 . 0 7 }$ $n { = } 6 4$ cells.)and LDCV-CgA level (control, $1 . 0 0 { \\scriptstyle \\pm 0 . 0 2 }$ 5 $n { = } 2 2 2 2$ vesicles;Muted group, $0 . 7 5 { \\scriptstyle \\pm 0 . 0 2 }$ 5 $\\scriptstyle n = 1 4 4 3$ vesicles;) in mu chromaffin cells. $^ { \\star \\star } P { < } 0 . 0 1$ ，\\*\\*\\* $P { < } 0 . 0 0 1$ (D) Immunoblotting showing that EGFP-Mutedtransfected cells express muted protein. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Thereduction in RRP size or vesicle release could result from the reduction of docked vesicles when LDCV maturation is impaired,as evident by the enlargement of LDCVs in mu cells. We measured the number of docked vesicles( $\\mathrm { ( 0 { - } 1 0 0 ~ n m }$ from plasma membrane） in the mu adrenal chromaffin cells.Indeed, the docked vesicles in mu cells were significantly reduced compared to the control mice (Fig. 6E,F). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We then investigated that whether the docked vesicles release with normal kinetics.We recorded the kinetics of each releasing spike by carbon-fiber electrodes.We found no significant changes in half-height duration (HHD),rise time (RT）and quantal size(Q) of amperometric spikes between control and mu mice (supplementary material Fig. S2). This suggests that the docked vesicles might represent a normal population of LDCVs that have normal fusion and release kinetics.This population might not be affected by the muted protein. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To explore whether the docking or fusion machinery is affected bythelossof muted protein,we determined the steadystate levels of the synaptic proteins in the mu adrenal glands.Western blotting analyses confirmed the expression of the muted protein inadrenal cells.As expected, no band was observed in the mu adrenal glands. We did not find apparent changes in the steady-state levels of a panel of synaptic proteins including SNARE proteins (SNAP25, syntaxin-1 and VAMP2)，synaptophysin (SYP) and Munc18 between controls and mu mice (supplementary material Fig. S3A).These results suggest that the smaller RRP pool does not result from changes in the steady-state levels of these well-known docking or fusion proteins. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Muted protein affects the steady-state CgA levels in adrenal glands differently from other proteins known to affectLDcVs Compared with the characteristics of LDCVs in dysbindin-1 deficient sdy mice,mu mice have a different profile of LDCV phenotypes (supplementary material Table S1）although both dysbindin-1 and muted reside in the same BLOC-1 complex.This suggests that dysbindin-1 and muted play different roles in cargo sorting for LDCV biogenesis.Notably,vesicle number is reduced in sdy mice but is normal in mu mice. The reduction of LDCV number in AP-3- or HOPS-deficient chromaffin cells might lead to the decrease of CgA and SgII as shown in supplementary material Table S1.We confirmed the reductionof CgA and SgII in pe(β3A AP-3 deficiency) and bf(VPS33a HOPS deficiency) mice compared with their wild-type controls.In sdy mice,CgA was decreased and that there was also a reduction in the levels of SgII although this was not significant (Fig.7).In contrast,the CgAsteady-state level was increased but SgII wasnormal and the number of LDCVs was not changed in mu mice (Figs 1,2).This suggests that the increase in CgA in mu mice is not due to the increase in LDCV number.This further supports our hypothesis that the increase ofCgA in mu cells is caused by the retention of CgA in immature LDCVs. Muted protein plays an important role in the export of $\\mathrm { C g A }$ ,but has no or little effect on SgII. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Here，we characterized the defects in LDCV morphology (enlarged size and reduced docking) by examining electron microscopy images of mu adrenal chromaffin cells.In the absence ofmuted protein, the CgA content was increased,which could be an explanation for the enlarged sizes ofLDCVs and dense cores (Kim et al.,2oo1).The increase of CgA does not result from an increased vesicle number or impaired processing,rather it is likely caused by the failure of $\\mathrm { C g A }$ export from the vesicles when muted protein is lacking.In general,an enlarged size ofLDCV represents immature LDCVs (Kim et al.,2006).Consequently, failure of CgA export might impair LDCV maturation and docking and finally vesicle release (supplementary material Fig. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/caf5c254952f9222756b3a5dd60975e33f92c334eae6a3e6a0d5dd51c23c972d.jpg",
+        "img_caption": [
+            "Fig.5ubelCueepreseiasfubitdu shRNA(shRNA)PC12cell.CgAwasetectedby-immunostainingitCgAanddiferentorganellmarkers,eERarkerSCB()t mulivesiculaoarb)rkSC)tak6(earke(E)d EA1(F)teescediclndatCaldi mislocalized to other organelles. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "S3B).These findings support the sorting-for-retention model and provide molecular insights into the sorting machinery of LDCV and its pathology. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Cargo sorting into LDCVs is a very complicated and highly regulated process.Ithas beenpostulated that there differentLDCV populations exist,which might have different constituents (Duncan et al.,2003;Grabner et al.,2005；Watanabe et al.,1991).The segregation of CgA and SgII in different populations implicates that there exist different sorting machineries for these granins (Watanabe et al.,1991).As shown in Fig.5C,there were some granules that CgA and SgII did not colocalize in control cells, further supporting that separate CgA-positive vesicles and SgIIpositive vesicles exist,although a large number of the granules contain both CgA and SgII.Furthermore,our results showed an increase in CgAbutanormal level of SgI,anda distributional shift in CgA,but not SgII,in the mu adrenal glands.This indicates that the muted protein is involved in the sorting of CgA,but not SgII.This also explains why vesicle docking and release events exist and why the releasing kinetics is normal (supplementary materialFig.S2) in the mu chromaffin cells given that the secretion of SgII-positive LDCV population is normal. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Control of vesicle number and size could be a reflection of the complexity of multiple regulators.InBLOC-1,lossof dysbindin1 (sdy) and loss of muted (mu) both lead to an enlargement of LDCV size,but the LDCV number is unchanged in mu mice,in contrast to reduced LDCV numbers in sdy mice (Chen et al., 2008).In other LROs,such as melanosomes and platelet-dense granules,both mu and sdy mice show reduced vesicle numbers, indicating the biogenesis ofLROs utilizes shared mechanisms in endo-lysosomal trafficking(Swank etal.,1998;Wei andLi,2013). Taken together,mounting evidence indicates that each LRO has unique biosynthetic and cargo-sorting pathways,although they might share some common sorting mechanisms.By contrast, dysbindin is known to bind to a variety of proteins belonging to the dystrophin protein complex,the WAVE-2 complex and others (Ghiani and Dell'Angelica,2011;Li et al.,2007).This suggests that different interacting partners of BLOC-1 subunitsare operative (Li et al.,2oo7).In addition,dysbindin-1 has distinct isoforms thatmight functionin different pathways(Talbot et al., 2009).We have recently shown that dysbindin-1C isoform functions in a BLOC-1-independent pathway in regulating autophagy and neuronal survival (Wang et al., 2o14;Yuan et al., 2015).The altered ultrastructure of hippocampal synaptic vesicles might cause reduced neurotransmission and thereafter the schizophrenia-like symptoms observed in sdy mice (Chen et al., 2008;Feng et al.,2008;Wang et al.,2014). However,except for DTNBP1 and BLOC1S3,genes encoding other BLOC-1 subunits have no significant association with schizophrenia although an epistatic interaction between DTNBP1 and MUTED might exist (Morris etal.,20o8).Currently, there is no support for MUTED as a susceptibility gene for schizophrenia(Gerrish et al.,2oo9). Thus, the different profiles of releasing vesicle defects in sdy and mu mice might have different mechanisms and consequences. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/883919530aeba3617bd88e01ec4e937aae58bd2c08d631cf1f646799af1a1a38.jpg",
+        "img_caption": [
+            "Fig.6.Reduceddepolarizatio-iducdsecretionnddockedDCVsinuchromafincels.（A)Asematicsowingthensfigts depolarizations from $- 8 0$ to $0 ~ \\mathsf { m V }$ with a $1 0 0 - \\mathsf { m s }$ interpulse interval were used to estimate the IRP size,followed by seventeen 500-ms depolarizations to estimate the RRP size.(B) Average ntr cells from fourmu/mumice,grey) chromaffin cells in response wedagreatreductioninmucells compared with control. han $( \\Delta \\mathsf { C } \\mathsf { m } )$ during the eight ${ \\sim } 1 0$ -ms depolarizations whereas ${ \\sim } 5 0 0 \\mathrm { - } \\mathsf { m s }$ period.Note that the RRP includes the IRP. In ( $1 0 2 . 3 8 \\pm 1 9 . 2 3 \\$ $( n = 1 9 )$ $3 5 4 . 8 4 \\pm 3 5 . 1 9$ $( n = 1 9 )$ for the RRP.In mu chromaffin cells,the ${ \\sim } 4 0 \\%$ $( 6 0 . 0 4 \\pm 9 . 9 7$ $n { = } 2 2$ $^ { \\star } P { < } 0 . 0 5$ $\\sim 4 0 \\%$ $2 0 9 . 9 2 \\pm 1 5 . 1 3$ fF; $n = 2 2$ $^ { \\star \\star } P { < } 0 . 0 1$ ).(E)Distribution ofdista $( m u / m u )$ mice $( m u / + )$ .(F)Vesicles located within $1 0 0 ~ \\mathsf { n m }$ fromtheplasi C frequency of morphologically docked LDCVs in mu( $8 . 3 8 { \\pm } 0 . 6 5 \\%$ $n = 1 5 6 5$ vesicles from 10 cells of two mu/mu mice) cells than that in controls ( $1 1 . 0 5 { \\scriptstyle \\pm 0 . 9 1 \\% }$ $\\scriptstyle n = 2 0 5 4$ vesicles from 12 cels of two $m u / +$ cells). $^ { \\star } P { < } 0 . 0 5$ .Resultsaremean $\\pm$ s.e.m. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "CgA has been implicated in playing multiple roles in the endocrine，cardiovascular and nervous systems through the regulation of multiple DCVbiogenesis in different tissues.Our resultshave shown similardefects in both the adrenal chromaffin LDCV and the LDCV in pancreatic islet $\\mathfrak { X }$ -cells (supplementary material Fig.S1),suggesting that they might share a conserved mechanism in CgA sorting.CgA knockout in mice leads to decreased size and numberofLDCVs inchromaffincells,as well as hypertension in these animals (Mahapatra et al.,2oo5).In our case,loss of muted protein causes an increase in $\\mathrm { C g A }$ and impairs LDCV release frequency from the chromaffin cells. Whether CgAsecretionis reduced in vivo in mu mice,orwhether there is a link to hypertension or other LDCV phenotypes in this mutant requires further detailed investigation. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/06a8f14c4555540c7fc59a121a1eea533ac5f517ba7668b793738512b63b0c85.jpg",
+        "img_caption": [
+            "Fig.7.The content of CgA and Sgllin the adrenal glands of HPS mice.(A) Western blots of the protein levels of CgA and Sgll in the adrenal glands of sdy mice (dysbindin BLOC-1 deficiency) and their control DBA/2J littermates. Quantitative analyses showed that there was a decrease in the amount of CgA ( $\\scriptstyle \\overbrace { I = 8 }$ $^ { \\star } P { < } 0 . 0 5$ 0 and that there was also a reduction in the amount of Sgll,although this was not significant 0 $\\scriptstyle \\overbrace { n = 8 }$ ，N.S.,not significant) in sdy mice. (B) Western blots of the protein levels of CgA and Sgll in the adrenal glands of $p e$ mice (β3A AP-3 deficiency)and their control C57BL/6J (B6) littermates.Quantitative analyses showed a decrease in CgA $\\scriptstyle { n = 1 2 }$ $^ { \\star \\star } P { < } 0 . 0 1$ andSgll L $\\scriptstyle { n = 1 2 }$ $^ { \\star } P { < } 0 . 0 5 )$ in $p e$ mice.(D) Western blots of the protein levels of CgA and Sgll in adrenal glands of bf mice (VPS33a HOPS deficiency) and their control C57BL/6J (B6) littermates. Quantitative analyses showedadecrease in CgA $\\scriptstyle { n = 4 }$ $^ { \\star } P { < } 0 . 0 5 )$ andSgll( $\\scriptstyle n = 6$ $^ { \\star \\star } P { < } 0 . 0 1$ ） in bf mice.Results are mean $\\pm \\mathsf { s . e . m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "MATERIALS AND METHODS Mice ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The mu mutant mice and control CHMU/Le mice (wild-type,WT) were as described previously (Zhang et al.,2oo2). Other mouse mutants and their controls including pearl $( p e )$ and buff (bf)in the C57BL/6J (B6) background,sandy (sdy) in the DBA/2J (DBA） background were are summarized Li et al. (Li et al., 2oo4). They were originally obtained from the JacksonLaboratory (Bar Harbor,Maine,USA),were transferred to Dr Richard T.Swank's laboratoryatRoswellPark CancerInstitute(Buffalo, New York,USA) and are bred in the animal facility of the Institute of Genetics and Developmental Biology,Chinese Academy of Sciences.All animal experiments were performed under permission fromthe Institutional Animal Care and Use Committee and the Peking University Committee on Ethics in the Care and Use ofLaboratory Animals.The genotypes of wild type $( + / + )$ ,heterozygous $( m u / + )$ and homozygous (mu/ mu) mice were identified by a PCR method based on the mutation in the Muted gene (Zhang etal.,2002).Age-matched wild-type CHMU/Le mice and heterozygous mice were used as background controls. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Antibodies ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The polyclonal muted antibody was generated in New Zealand white rabbits against a His-tagged fusion protein corresponding to the mouse full-length muted protein (GenBank RefSeq NM_139063).The mouse monoclonal antibodies against Syntaxin 6 (#abl237O)，the rabbit polyclonal CgA(#ab45179)，VAMP2(#ab3347) and SEC61B (#ab78276) were obtained from Abcam(Cambridge,UK).The rabbit polyclonalRab7(#9367)and clathrin heavy chain $( \\# 4 7 9 6 )$ antibodies were from Cell Signaling Technology (Danvers,MA).The rabbit polyclonalSgII antibody(#K551o1R)was from MeridianLife Science (Memphis,TN). The mouse monoclonal $\\beta$ -actinantibody(#A5441)was purchased from Sigma-Aldrich (St.Louis,MO).The mouse monoclonal EEA1 (#610457),Munc-18 (#610337) and the rat monoclonal LAMP1 (#553792) antibodies were from BD Biosciences (San Diego,CA). Mouse monoclonal SYP (#sc-17750),syntaxin 1 (#sc-12736),SNAP25 (#sc-20038)，GFP (#sc-9996) and goat polyclonal CgA (#sc-1488) antibodies were purchased from Santa Cruz Biotechnology (Dallas,TX). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Immunoblotting ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Adrenal glands from control and mu mice were homogenized in $5 0 ~ \\mathrm { m M }$ Tris-HC1 $\\mathrm { p H } 7 . 4$ ， $1 5 0 ~ \\mathrm { m M }$ NaCl, $1 \\%$ Triton X-1oo,and a protease inhibitor cocktail(Sigma-Aldrich).The extracts were centrifuged at13,000 $\\pmb { g }$ for $1 5 ~ \\mathrm { m i n }$ to remove nuclei and cell debris,equal amounts of homogenates were separated on $12 \\%$ SDS-PAGE gels and transferred onto polyvinylidene difluoride (PVDF,Millipore) membranes.The membranes were immunoblotted with specific antibodies and visualized by ECL (Pierce,Rockford,IL).Protein bands intensities were quantified by NIH Image Jafter normalization to $\\beta$ -actin. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "OptiPrep gradient assay ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Adrenal glands from WT and mu mice were homogenized in $3 0 0 ~ \\mu \\mathrm { l }$ HB buffer( $2 5 0 ~ \\mathrm { m M }$ sucrose, $2 0 ~ \\mathrm { m M }$ Tris-HCl, $1 ~ \\mathrm { m M }$ EDTA,pH 7.4) plus a protein inhibitor cocktail (Sigma-Aldrich).A post-nuclear supernatant (PNS) was generated by centrifugation at $1 0 0 0 \\ g$ for $1 0 ~ \\mathrm { m i n }$ .The PNS was layered ontoa linear $5- 5 0 \\%$ linear Optiprep gradient (Axis-Shield, Norway) formed in HB bufferusinga GradientMaster (Biocomp,USA). Gradients were spun at $3 0 { , } 0 0 0 ~ \\mathrm { r p m }$ for 15-16 hours in an SW41 rotor (Beckman,USA）at $4 ^ { \\circ } \\mathrm { C }$ ，Fourteen equal fractions（ ${ \\bf \\nabla } ^ { 9 0 0 } \\mu { \\bf l }$ each)were collected from the top of the gradient and subjected to acetone precipitation. The precipitated protein (fractions 3-13) was analyzed by SDS-PAGE and immunoblotting. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Cell culture and transfections ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "PC12 cells were cultured at $3 7 ^ { \\circ } \\mathrm { C }$ with $5 \\%$ （204 $\\mathrm { C O } _ { 2 }$ in Dulbecco's modified Eagle'smedium (DMEM) supplemented with $10 \\%$ horse serum and $5 \\%$ fetal bovine serum(Gibco-BRL,Gaithersburg,MD).Short hairpin RNAs (shRNA) against ratMuted (GenBankRefSeq NM_001107347) were designed by the siRNA target finder (Ambion,Austin,TX).Corresponding DNAswere synthesized and incorporated into the BamHI and HindIII sites of pSilencer 5.1-H1 Retro (Ambion) vector. The target sequence for Muted was $5 ^ { \\prime }$ AAGGATCTTGGAGAAATTCAT $3 ^ { \\prime }$ andforcontrolwas $5 ^ { \\prime }$ AATTCTCCGAACGTGTCACGT ${ \\cdot } 3 ^ { \\prime }$ .These vectors were transfected into PC12 cells using Lipofectamine $^ \\mathrm { T M } 2 0 0 0$ (Invitrogen, Carlsbad, CA) following the manufacturer's instructions.After 24 hours,the transfected cell clone expressing the vector was selected by $5 ~ \\mu \\mathrm { g / m l }$ of puromycin (Invivogen).For the rescue experiment,the Muted cDNA (NM_139063.1) was amplified by PCR and cloned in-frame into pEGFP-C2 using the XhoI and BamHI sites. Cellswere transfected by using the Neon transfection system (Life Technologies,Carlsbad,CA）according to the manufacturer's instruction. Transfected cells were seeded onto poly-D-lysine-coated glass coverslips and then processed for immunostaining 72 hours after transfection. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Chromaffin cells were isolated as previously described (Sorensen et al., 2003) with minimal modifications.Adrenal glands were dissected from 6- to 8-week-old heterozygous $m u / +$ or mu mice,placed in filtered Locke's buffer (in mM: $1 5 4 ~ \\mathrm { N a C l }$ ， $5 . 6 ~ \\mathrm { K C l }$ ，5.0HEPES, $3 . 6 \\ \\mathrm { N a H C O _ { 3 } }$ ，and 5.6 glucose, $\\mathrm { p H } 7 . 4 \\AA )$ .Fat tissue and adrenal cortex was removed from adrenal medulla under a surgical microscope.The medullae were incubated in $0 . 2 ~ \\mathrm { m l }$ equilibrated $( 9 5 \\% \\mathrm { O } _ { 2 } { : } 5 \\% \\mathrm { C O } _ { 2 } )$ papain solution $( 4 0 \\mathrm { \\ u n i t s / m l }$ in Locke's buffer; the papain was from Sigma-Aldrich) at $3 7 ^ { \\circ } \\mathrm { C }$ for 1 hour with gentle shaking.The enzyme solution was discarded and replaced with ${ 5 0 0 \\mu \\mathrm { l } }$ culture medium (DMEM supplemented with $10 \\%$ fetal calf serum, $1 0 0 \\ \\mathrm { I U / m l }$ penicillin and $1 0 0 ~ { \\mu \\mathrm { g / m l } }$ streptomycin).After washing two times in ${ 5 0 0 \\mu \\mathrm { l } }$ culture medium,the medullae were triturated gently through a $1 0 \\mathrm { - } \\mu \\mathrm { l }$ pipette tip. $5 0 ~ \\mu \\mathrm { l }$ cell suspension was plated on poly-Dlysine-coated glass-bottomed dishes to allow the cells to settle for $3 0 ~ \\mathrm { m i n }$ at $3 7 ^ { \\circ } \\mathrm { C }$ before supplementing with $2 ~ \\mathrm { m l }$ culture medium. The cells were cultured at $3 7 ^ { \\circ } \\mathrm { C }$ in $5 \\%$ （204号 $\\mathrm { C O } _ { 2 }$ and used within 3 days. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Immunofluorescence confocal imaging ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "PC12 cells were plated on poly-D-lysine-coated glass coverslips for 24 hours. Cells were fixed with $4 \\%$ paraformaldehyde for $2 0 ~ \\mathrm { m i n }$ at room temperature, permeabilized for $1 5 ~ \\mathrm { m i n }$ with $0 . 4 \\%$ Triton X-100 inPBS,blocked for $3 0 ~ \\mathrm { m i n }$ with $1 \\%$ BSAin PBS,then incubated for 16 hours at $4 ^ { \\circ } \\mathrm { C }$ with indicated primary antibodies in PBS containing $1 \\%$ BSA.Cells were subsequently washedand incubated for1 hourwitha Alexa-Fluor-594-conjugated donkey anti-mouse IgG (1:20oo； Invitrogen), Alexa-Fluor-594-conjugated donkey anti-rabbit IgG(1:20oo；Invitrogen),Alexa-Fluor-488-conjugated donkey anti-goat IgG (1:20oo; Invitrogen),Alexa-Fluor-488-conjugated goat anti-rat IgG(1:20oo;Invitrogen) or Alexa-Fluor-488-conjugated donkey anti-rabbit IgG(1:2ooo; Invitrogen) in PBScontaining $1 \\%$ BSA.Confocal images were acquired using a $1 0 0 \\times$ oil objective with NA1.40 ona Nikon confocal microscope (ECLIPSE Ti-C2,Japan).Images were obtained using the NIS-Elements AR 3.2 software provided by Nikon.For quantification of the fluorescence intensity,the fluorescence signal was obtained from the entire cell, the nucleus was subtracted and image was analyzed with NIHImage J software. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Electron microscopy ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Electron microscopy was carried out as previously described (Chen et al. 2008).Briefly,adrenal glands removed from homozygous mu mice and heterozygous $m u / +$ littermates(8 weeks old)were fixed with $3 \\%$ glutaraldehyde in $0 . 1 \\mathrm { ~ M ~ }$ phosphate buffer $\\mathrm { ( p H ~ 7 . 4 ) }$ overnight and were postfixed with $1 \\%$ （ $\\mathrm { O s O _ { 4 } }$ for 2 hours at $4 ^ { \\circ } \\mathrm { C }$ .Tissue samples were then dehydrated ina graded seriesof ethanol and were embedded in Epon812. Ultra-thin sections $( \\sim 6 0 \\ \\mathrm { n m } )$ were collected and stained with uranyl acetate andlead citrate.The sectionswere examined ona FEI Tecnai 2O electron microscope and analyzed with NIH Image J.At least 1Oo digital images were taken from randomly selected chromaffin cells of two different animals for both genotypes.Numerical density of the secretory granules was calculated as the number of morphologically identifiable LDCVs per section divided by the chromaffin cell cytoplasmic area.Vesicles with a round membrane and an electron-dense core were included in the diameter analysis.Diameters of vesicles and electron-dense cores were determined by direct measurement. The observer was blind to the genotypes. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The islets from age-matched $m u / +$ and mu/mu male mice were fixed in $2 \\%$ paraformaldehyde and $2 . 5 \\%$ glutaraldehyde in $0 . 1 ~ \\mathrm { ~ M ~ }$ phosphate buffer $\\mathrm { ( p H ~ 7 . 4 ) }$ overnight and were post-fixed with $1 \\% \\mathrm { O s O } _ { 4 }$ for 2 hours at $4 ^ { \\circ } \\mathrm { C }$ .Tissue sampleswere then dehydrated ina graded seriesof acetone and were embedded in Spurr (SPI-Chem,West Chester,PA).Ultra-thin sections ( ${ \\sim } 7 0 ~ \\mathrm { n m } )$ ）were collected and stained with lead citrate.The sections were examined on an electron microscope (JEM 14oo;JEOL, Japan) at $8 0 ~ \\mathrm { k V }$ Digital imageswere taken from randomly selected $\\mathfrak { a }$ cells of two different animals for both genotypes. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Capacitance measurements of chromaffin cells ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Whole-cell recordings were performed using an EPC-9 amplifier and Pulse software (HEKA,Lambrecht,Germany). A ${ 8 0 0 } ~ \\mathrm { H z }$ $2 0 ~ \\mathrm { m V }$ peakto-peak sinusoid stimulus was applied about a direct current holding potential of $8 0 ~ \\mathrm { m V }$ .The intracellular solution contained (in mM):Csglutamate,145;NaCl, 8; $\\mathrm { M g C l } _ { 2 }$ ,1;Mg-ATP,2; $\\mathrm { N a } _ { 2 }$ -GTP,0.3;and CsHEPES,10 (pH7.2).The extracellular solution contained (in mM) NaCl, 140; KCl, 2.8; $\\mathrm { M g C l } _ { 2 }$ ，1； $\\mathrm { C a C l } _ { 2 }$ ,2;HEPES,10;and glucose,2 $\\mathrm { ( p H ~ 7 . 4 ) }$ 1 Experiments were performed at room temperature. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Amperometryinadrenal slice ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We prepared adrenal medulla slices and performed whole-cell recordings as described previously(Chen et al.,2oo8) by using an EPC9/2 amplifier andPulse software (HEKAElektronik,Lambrecht/Pfalz,Germany).For analysis of the kinetic properties of amperometric spikes,including the half-height duration (HHD),the rise time (RT) and quantal size (Q),only events that were ${ > } 5$ s.d.of the noise were used (Zhou and Misler,1996). Data analysis was carried out using Igor software(WaveMetrix,USA) with a custom-made macro program (Zhou and Misler,1996). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Statistics ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "All valuesin the textare shownasmean $\\pm$ s.e.m.Student's $t$ -test wasused to compare means of two groups.Differences of $P { < } 0 . 0 5$ were considered statistically significant. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We are in debt to Dr. Richard T.Swank for his generous providing of the HPS mutant mice used for this study and for his proofreading of this manuscript.We thank Ms.Lei Sun for her help in making electron microscopy samples and taking electron microscopy images. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Competing interests ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Theauthors declare no competing or financial interests. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Authorcontributions ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "W.L.,L.C,Z.Z.and Z.H. designed the assays and analyzed the data.W.L.and Z.H.wrote the manuscript. Z.H., Y.F.and J.M. performed the immunostaining, immunobloting and electron microscopy assays.L.W.,X.C.,W.D.and Z.H. performed the electrophysiological and amperometric recordings. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Funding ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This work was partially supported by grants from the National Natural Science Foundation of China [grant numbers 31230046;91332116]; the Ministry of Science and Technology of China [grant numbers 2013CB530605,2014CB942803];and the Chinese Academy of Sciences [grant number KJZD-EW-L08]. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Supplementarymaterial ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Supplementarymaterial available onlineat http://jcs.biologists.org/lookup/suppl/doi:10.1242/jcs.161414/-/DC1 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References   \nAngers,C.G.and Merz,A.J.(2009).HOPSinteracts withApl5at the vacuole membrane and is_required for consumption of AP-3 transport vesicles.Mol. Biol. Cell 20,4563-4574.   \nArvan，P.and Castle,D.(1998).Sortingand storage during secretory granule biogenesis:looking backwardand looking forward.Biochem.J.332,593-610.   \nAsensio,C.S.,Sirkis,D.W.andEdwards,R.H.(2010).RNAiscreenidentifiesa role foradaptorproteinAP-3insortingto the regulated secretory pathway. J.Cell Biol.191,1173-1187.   \nAsensio,C.S.,Sirkis,D.W.，Maas,J.W.,Jr,EgamiK.,To,T.L.,Brodsky F.M.,Shu,X.,heng,.andEdwards,R.H.(23).Self-assemblyofV41 promotes sortingrequired for biogenesis of the regulated secretory pathway. Dev. Cell 27,425-437.   \nCai Q.Lu,L,TianJ.H.,Zhu,Y.B.Qiao,H.andSheng,Z.H.(210).Sapin regulatedlateendosomal transportis_criticalforeficientautophagy-lysosomal function inneurons.Neuron 68,73-86.   \nChen,X.W.,FeY..HaoC.J.uX.LHe,XZouZ.YuNn H.P.,Xiong,W.,Zheng,H.etal.(28).DBP1,ahizophreniasueptibilit gene,affectsineticsof transmitterrelease.J.Cell Biol.181,791-801.   \nCiciote,S.L.,Gwynn,B.,Moriyama,K.,Huizing,M.,Gahl,W.A.,Boniaci J.S.and Peters,L.L. (2003).Cappuccino，a mouse model of HermanskyPudlaksyndromeencodesanovelproteinthatispartofthpalidinmuted complex (BLOC-1).Blo0d101,4402-4407.   \nDuncan,R.ReavsJ.,iegandU.K.,atskevich,l.,mmG D.K.,Shipston,M.J.andChow,R.H.(203).Functionalandspatialsegretion ofsecretoryvesiclepoolsaccording tovesicleage.Nature422176-180.   \nFalcon-PereJ.,revic,.utaR.Delgeica,E..2) BLOC-1,a novel complex containing the pallidinandmuted proteins involved in the biogenesis_of melanosomes and platelet-dense granules.J.Biol.Chem. 277,28191-28199.   \nFeng,Y.Q.,Zhou,Z.Y.,He,X.,Wang,H.,Guo,X.L.,Hao,C.J.,Guo,Y.,Zen X.C.and LiW.(2008).Dysbindindeficiency insandy mice causes reductionof snapin and displays behaviors related to schizophrenia.Schizophr.Res.106, 218-228.   \nGerrish,A.，Williams,H.，Moskvina,V.，Owen,M.J.,O'Donovan,M.C.and Williams,N.M. (2009).Anexamination ofMUTEDasaschizophrenia susceptibilitygene.Schizophr.Res.107,110-111.   \nGhiani,C.A.and Dell'Angelica,E.C.(2011).Dysbindin-containing complexes and their proposed functions in brain: from zero to (too) many in a decade.ASN Neuro 3,e00058.   \nGrabner,C.P.,Price,S.D.LysakowskiA.andFox,A.P. (2005).Mouse chromafin cels have two populations of dense core vesicles.J.Neurophysiol. 94,2093-2104.   \nGrabner,C.P.,Price,S.D.,LysakowskiA.,Cahill,A.LandFox,A.P(2006). Regulation_of largedense-core_vesiclevolumeand neurotransmitercontent mediatedby adaptor protein 3.Proc.Natl．Acad.Sci.USA 103，10035- 10040.   \nGwynn,B.artina,J.A.,Bonifacino,J.S.，Sviderskaya,E.V.,amreu M.L.,Bennett,D.C.,Moriyama，K.，Huizing，M.，Helip-Wooley，A.,Gahl, W.A.etal.(2004).Reduced pigmentation(p)amousemodelofHermansky Pudlak syndrome,encodes a novel component of the BLOC-1 complex. Blood 104,3181-3189.   \nHayes，M.J.，Bryon,K.，Satkurunathan,J.andLevine,T.P. (2011).Yeast homologues_of three BLOC-1 subunits highlight KxDL proteins as conserved interactors of BLOC-1.Traffic12,260-268.   \nJohnPeter，A.T.,Lachmann，J.，Rana，M.，Bunge，M.，Cabrera，M.and Ungermann,C. (2013).The BLOC-1 complex promotes endosomal maturation by_recruiting the Rab5 GTPase-activating protein Msb3.J.Cell Biol.201,97- 111   \nKim,T.,Tao-Cheng,J.H.,Eiden,L.E.andLoh,Y.P.(201).ChromograninA an \"on/off\"switch controlling dense-core secretory granule biogenesis.Cel/ 106, 499-509.   \nKim,T.,Gondreé-Lewis,M.C.,Arnaoutova,l.andLoh,Y.P. (20o6).Dense-core secretory granule biogenesis.Physiology(Bethesda) 21,124-133.   \nKoshimizu,H.,Kim,T.,Cawley,N.X.andLoh,Y.P.(210).ChromograninA:a new proposal fortraffcking，processingand inductionof granulebiogenesis. Regul.Pept.160,153-159.   \nLi,W.,Zhang,Q.，Oiso,N.,Novak,E.K.,Gautam,R.,O'Brien,E.P.,insley C.L.,Blake,D.J.,Spritz,R.A., Copeland,N. G.et al. (2003).HermanskyPudak syndrome type7 (HPS-7) results frommutant dysbindin,amemberof thebiogenesisof lysosome-relatedorganelescomplex1(BLOC-1).Nat.Genet. 35,84-89.   \nLi,W.,Rusiniak,M.E., Chintala,S.,Gautam,R., Novak,E.K.and Swank,R.T. (2004).Murine Hermansky-Pudlak syndrome genes:regulators of lysosomerelatedorganelles.BioEssays26,616-628.   \nLi,W.,Feng,Y.,Hao,C.,Guo,X.,Cui,Y.,He,M.andHe,X.(2O7).The BOC interactomes form a network in endosomal transport.J.Genet.Genomics 34, 669-682.   \nMahapatra,N.R.,O'Connor,D.T.,Vaingankar,S.M.,Hikim,A.P.,Mahata,M., Ray，S.,Staite,E.,Wu,H.,Gu,Y.,Dalton,N.etal. (25).Hypertensionfrom targetedablationofchromograninAcanberescuedbythehumanortholog. J.Clin.Invest.115,1942-1952.   \nMorris,D.W.,urphy,K.,Kenny,N.,Purcel,..,McGhee,K.A.,chige S.,Nangle,J.M.,Donohoe,G.,Clarke,S.,Scull,P.etal. (208).Dybindin INTNRP1) and the hinneneeie nf lvenenme-ralated nrnanellae mmnlay 1 (BLOC-1):main and epistatic gene effects are potential contributors to schizophreniasusceptibility.Biol.Psychiatry 63,24-31.   \nOrci,L.,Ravazzola,M.,Amherdt,M.,Louvard,D.andPerrelet,A.(1985a). Clathrin-immunoreactive sites inthe Golgi apparatusare_concentrated at the trans pole_in polypeptide hormone-secreting cells.Proc.Natl.Acad.Sci.USA 82, 5385-5389.   \nOrci,LdtaiJ A.(1985b).Direct identification of prohormone conversion site ininsulinsecreting cells. Cel/ 42,671-681.   \nPan，P.Y.，Tian，J.H.and Sheng，Z.H. (2009).Snapin facilitates the synchronizationof synaptic vesicle fusion.Neuron61,412-424.   \nPortela-Gomes，G.M.and Stridsberg，M.(2001).Selective processing of chromograninAin the different islet cels in human pancreas.J. Histochem. Cytochem.49,483-490.   \nRehling,P.,Darsow,T.,Katzmann,D.J.andEmrS.D.(1999).Formationof AP-3transportintermediatesrequiresVps41function.Nat.CellBiol.1346-353.   \nScott,I.,Webster,B.R.,Chan,C.K.,Okonkwo,J.U.,Han,K.ndSack.N (2014).GCN5-like_protein1 (GCN5L1) controlsmitochondrialcontent through coordinated regulation of mitochondrial biogenesisandmitophagy.J.Biol. Chem. 289,2864-2872.   \nSorensenJ..,agyG.VroqeauF.，ehrng，R.B.roseN.,i M.C.and Neher,E. (2oo3). Differential control of the releasable vesicle pools by SNAP-25splice variants_andSNAP-23.Cel/114,75-86.   \nStarcevic,M.andDel'Angelica,E.C. (2004).Identificationofsnapinand three novel proteins (BLOS1,BOS2,and BOS3/reduced pigmentation)assubunits of biogenesis of lysosome-related organelles complex-1 (BLOC-1).J.Biol. Chem. 279,28393-28401.   \nSwank,R.T.,Novak,E.K.,McGarry,M.P.,Rusiniak,M.E.andFeng,L.(998). Mouse models of Hermansky Pudlak syndrome:a review.Pigment Cell Res.11, 60-80.   \nTalbot,K.,Ong,W.Y.,Blake,D.J.,Tang,J.,Louneva,N.,Carlson,G.C.and Arnold,S.E.(2009).Dysbindin-1anditsproteinfamilywithspecialatentionto thepotential roleof dysbindin-1inneuronal functionsand thepathophysiology of schizophrenia.InHandbookof NeurochemistryandMolecularNeurobiology： Schizophrenia,3rd edn,Vol.27 (ed.D.JavittandJ.Kantrowitz)，pp.107-241. New York,NY:Springer Science.   \nTian,J.H.,Wu,Z.X.,Unicker,M.,Lu,L.,Cai,Q.,LiC.,Schirra,C.,aiU Stevens,D.,Deng,C.et al. (20o5).The role of Snapin in neurosecretion: snapin knock-out mice exhibit impaired calcium-dependent exocytosis of large dense-core vesicles in chromaffin cells.J.Neurosci.25,10546-10555.   \nTooze,J.and Tooze,S.A.(1986).Clathrin-coated vesicular transport of secretory proteins during the formation_of ACTH-containing secretory granules in AtT20 cells.J.Cell Biol.103,839-850.   \nTooze,S.A.，Martens,G.J.and Huttner，W.B.(2001).Secretory granule biogenesis:rafting totheSNARE.TrendsCellBiol.11,116-122.   \nVoets,T.,NeherE.andoser,T.(999).Mechansmsunderlyingphasicandutained secretion in chromaffin cells from mouse adrenal slices.Neuron 23,607-615.   \nWalter,A.,Kurs,J.,deWit,.hoing,S.ofBerelsen,T.s J.,Ziomieic,Iess,A.N,ulz,A.ironollardGal (2014).The SNARE protein vti1a functions in dense-corevesicle biogenesis. EMBOJ.33,1681-1697.   \nWang,H.,YanYZang,Z,an,HFen,Y.andLiW.(24).Dndn isrequiredforthesurvivalofhilarmossycelsandthematurationof adult newbornneuronsindentate gyrus.J.Biol.Chem.289,29060-29072.   \nWatanabe,T.,Uchiyama,Y.andGrube,D.(1991).Topology of chromograninA andsecretogranin Ilintheratanteriorpituitary:potential markerproteins for distinctsecretorypathwaysingonadotrophs.Histochemistry96,285-293.   \nWei,A.H.andLiW.(213).HeanskPudaksydrome:pimentaryandon pigmentary defectsand their pathogenesis.Pigment Cell Melanoma Res.26, 176-192.   \nWilkin,M.,Tongngok,P.,Gensch,N.,Clemence,S.,Motoki,.,Yamada,K, Hori，K.，Taniguchi-Kanai,M.，Franklin,E.，Matsuno，K.etal.(2008). Drosophila_HOPSand AP-3complex genesarerequired fora Deltex-regulated activationof notch intheendosomal traffickingpathway.Dev.Cell15,762-772.   \nYang,Q.,He,X.,Yang,L.,Zhou,Z,Culinane,A.R.,Wei,A.,Zhang,Z.,Hao,Z, Zhang,A.,He,M.etal.(2012).TheBLOS1-interacting proteinKXD1 isinvolved inthebiogenesisof lysosome-relatedorganelles.Traffc13,1160-1169.   \nYu,Y.,Wang,L.,Jiu,Y.,Zhan,Y.,Liu,L.,Xia,.,Song,E.,Xu,P.andXu,T. (2011).HiD-isanoveplaerintheregulationofeuropeptidesoring Biochem.J.434,383-390.   \nYuanYWaedLi5)iredtgi celis_of_the_dentate gyrusand its implicationinschizophrenia.J.Genet. Genomics 42, 1-8.   \nZhang,Q.,iWk,E.rimA.,shraV.S.ngre.F. B.A.,Suzuki,T.and Swank,R.T.(2002).The gene for the muted (mu) mouse, amodel for Hermansky-Pudlak syndrome，defines_a_novel proteinwhich regulatesvesicletrafficking.Hum.Mol.Genet.11,697-706.   \nZhang，A.，He,X.，Zhang，L.,Yang，L.,Woodman,P.andLi，W.(2014). Biogenesis_of lysosome-related_organells_complex-1 subunit1 (BLOS1) interactswithsorting nexin2andtheendosomal sortingcomplexrequired for transport-l (ESCRT-l) component TSG101 tomediate the sorting of epidermal growth factor receptor into endosomal compartments.J.Biol.Chem.289, 29180-29194.   \nZhou,Z.and Misler,S. (1996).Amperometricdetectionof quantalsecretion from n-Il 2777 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

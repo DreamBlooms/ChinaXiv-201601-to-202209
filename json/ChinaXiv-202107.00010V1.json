@@ -1,0 +1,533 @@
+[
+    {
+        "type": "text",
+        "text": "基于游戏行为的黑暗人格预测技术研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吕思华1² 陈雯雯’张乙川’朱廷劭1,2\\*1（中国科学院大学，北京 10049）  \n²（中国科学院心理研究所，北京 100101）3（北京师范大学，北京 100875)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[目的]本研究利用 DOTA2游戏行为数据，实现对 DOTA2玩家黑暗人格三维度的无侵入识别。[方法]本文利用Clarity2解析包对 DOTA2的游戏日志文件进行解析，提取玩家的游戏行为特征，并利用黑暗十二条量表对玩家的行为特征进行标注，采用机器学习的方法实现对黑暗人格三维度的识别。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[结果]结果发现，在马基雅维利主义、自恋和精神病态三维度上，采用高斯过程回归算法建立的模型在效度和信度上表现最佳，模型预测值与真实值之间的相关系数在0.31-0.45 之间，重测信度在 $0 . 3 3 \\mathrm { - } 0 . 5 3 \\$ 之间。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[局限」本研究未将被试的言语行为特征纳入到建模过程中，使得游戏行为特征不够全面。[结论]研究结果发现游戏行为数据能够帮助预测个体的黑暗人格，并且通过高斯过程回归建立的模型具有最高信效度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：黑暗人格，游戏行为，机器学习，DOTA2  \n分类号：B849",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dark Personality Prediction from Player in-game Behavior: Machine ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Learning Methods ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lyu Sihua'²Chen Wenwen³ Zhang Yichuan³ Zhu Tingshao1,2 1 （University of Chinese Academy of Sciences, Beijing 10049) 2 (Institute of Psychology， Chinese Academy of Sciences Beijing 100101) 3（Beijing Normal University,Beijing 100875） ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Objective] By utilizing players’ behavioral data in DOTA2, this study proposed a non-intrusive method to identify the Dark Personality of game players. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Methods] After extracting behavioral features from DOTA2 replay files with the help of the parsing tool Clarity 2 package, and obtaining players’ dark personality through Dirty Dozen, we recruited machine learning methods to predict players’ sub-dimensions of Dark Personality. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Results] Results showed that best performance occurred with Gaussian Process Regression on Machiavellianism, narcissism and psychopathy. The correlations between predicting values and actual values were between O.31 and O.45,and the test-retest correlations were between 0.33 and 0.53. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Limitations] This study did not involve players’verbal behavior in the process of establishing models, resulting that the features sets were not comprehensive enough. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Conclusions] It suggested that in-game behavior data was able to help predict Dark Personality of players,and the models built by Gaussian Process Regression had the best results in terms of validity and reliability. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Dark Personality ；in-game behavior ；machine learning ；DOTA2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "黑暗人格作为最具代表性的人格特质群之一[1][1]，通过马基雅维利主义、自恋和精神病态3个维度反映人性的“阴暗面”[2]。过往已有研究表明个体的黑暗人格与其游戏策略和游戏类型偏好相关联，Malesza[基于囚徒困境游戏研究，提出马基雅维利主义水平与精神病态水平的高低与游戏叛变行为的次数之间存在显著正相关。Curtis等人[4以《Flipit》游戏为研究工具，发现马基雅维利主义与玩家的战略取向有关，而精神病态与直接攻击行为有关，自恋与过度自信的行为有关。在游戏类型偏好的研究上，Melzer[5指出精神病态、马基雅维利主义水平高的玩家更偏好暴力、反社会主题的游戏。由此可以看出，个体的黑暗人格能够对个体的游戏策略以及游戏选择造成影响，假如能够实现对个体黑暗人格的预测，就能进一步帮助游戏公司优化游戏内部的玩家匹配算法与游戏推荐机制，提升游戏对抗体验以及游戏推荐算法的精度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前得到最广泛应用的人格测量方法为问卷法，因其具备操作便利性与较高的信效度[6，但问卷法也存在一些局限性。第一，问卷方法需要被试具备主动报告的意愿，因此在被试相对不配合时难以进行[]；第二，问卷形式较为枯燥，如若题量比较大，被试会产生疲倦感，从而导致不良情绪的产生，进一步拉低填写意愿。假如游戏运营商期待大批量地获取游戏玩家的黑暗人格特征，若是通过问卷法实施采集，很难保证用户均有意愿配合问卷填答且不会给玩家造成不良的游戏体验。另一种方法则是实现基于游戏的测评，基于游戏的测评是指以游戏或者游戏化的活动为基础，实现对个体心理特征的识别与量化8。这里的游戏所指向的范围十分广泛，涵盖现实世界中的麻将、棋牌等竞技场景，同时也指向虚拟网络环境中的游戏，例如MOBA类游戏。此类测评具有以下两个优势：其一，多元有趣的测验形式和测试场景，易提高受访者的参与动机与投入程度[9]；第二，生态化、无侵扰，只需通过用户授权后方可使用其数据，不需要依靠用户自我报告，不会给被试带来侵扰。因此，采用基于游戏的测评能够在一定程度上克服问卷测量在应用场景上的局限性。实际上，已经有学者在基于不同形式的游戏，在人格测评领域进行了尝试[10]，从这些研究都可以看出基于游戏行为预测个体的人格具有一定的可行性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "若要基于游戏行为实现对黑暗人格的预测，那么选取何种游戏以及能否较为全面地获取游戏行为就变得尤为关键。而在当前网络游戏的所有类别当中，多人在线战术竞技游戏（Multiplayer online battle arena，MOBA）具备较高的场景复杂性，通过对复杂对抗环境的模拟，进而较为真实地还原复杂对抗环境下的人类行为，该类游戏相比第一人称射击游戏（First-person shootinggame,FPS）以及吃鸡游戏（一种采用大逃杀模式的第三人称射击游戏）更加考验玩家的战略战术决策。除此之外，虽然 MOBA游戏诞生较晚，但根据企鹅智库[4发布的《全球电竞运动行业发展报告》，MOBA类游戏已经成为最受欢迎的电子竞技类型之一，其中，最受关注的MOBA 游戏有《英雄联盟》、《DOTA2》等。同时，随着MOBA 游戏的发展，部分MOBA 游戏，比如DOTA2，其每一局的游戏行为数据都能够通过日志文件的形式进行记录，并衍生出了自己的解析工具，可以利用GitHub上的“Clarity 2”包(https://github.com/odota/clarity)对游戏日志文件进行解析。此外，DOTA2还有自己的数据开源平台OpenDota(https://www.opendota.com/)，在该平台检索玩家的 Steam ID 就能够获得玩家的历史游戏数据。基于此，考虑到 DOTA2 游戏是一款MOBA 游戏且自带成熟的解析工具和游戏数据平台，本研究拟通过DOTA2游戏行为实现对于玩家黑暗人格的预测。可想而知，通过解析工具获得的DOTA2游戏行为纷繁复杂，但随着数据时代的到来，机器学习已经作为发掘数据规律的重要手段。在实现对人格的预测上，研究者已经开始尝试借助机器学习这一工具实现对大五人格的预测。Yee[12采用多元回归分析,利用《魔兽世界》中与各维度具有较高相关的行为特征，对大五人格各维度进行多元回归分析，各维度都能被显著预测，预测值与真实值之间的相关系数在0.2到0.3之间。Bunian 等人[13利用隐马尔可夫模型提取行为序列特征，通过逻辑斯蒂回归对玩家大五人格各维度上的得分进行高低分类，分类精度在 $5 4 \\%$ 到 $6 0 \\%$ 之间。因此，本研究也将借助机器学习这一工具，尝试去发现隐藏在DOTA2游戏行为与风险倾向之间的规律。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上，为了弥补问卷法在黑暗人格测量应用场景上的不足，本研究提出基于DOTA2游戏行为数据，利用机器学习的方法实现对于黑暗人格三维度的预测。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1被试 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用滚雪球、游戏网站发帖等多种方法，招募到296个有效被试。其中 286名男性，占总体的 $9 6 . 6 \\%$ ，平均年龄为22.97岁，标准差为2.29，均为高中学历以上。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "有效样本的筛选条件包含以下三点。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1）游戏时长大于10小时。为了避免被试因为对游戏环境与规则的不了解，使得其游戏行为不能有效地反映其人格特征的情况，有效样本的筛选门槛为实际游戏在线进行时长需要高于10小时。  \n2）问卷填答时长大于300秒。问卷填答时长过短，该份问卷结果的效度存疑，因此将会筛除。  \n3）甄别题筛选。问卷中包含甄别题，例如“此题请选择 2020”。若甄别题答案错误表明被试填答是专注程度较低，问卷效度较低，将会予以筛除。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了检验模型的信度，在建立回归预测模型时，将其中59位被试的有效样本作为重测被试集。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2研究工具",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1）问卷 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "玩家基本信息问卷。该部分问卷包括被试的基本人口统计学信息，包含性别、年龄、居住地、婚姻状况、学历、月收入、SteamID 等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "黑暗十二条量表(Dirty Dozen，DD),该量表共 12 个条目，分属马基雅维利主义、自恋和精神病态3个维度[15]。量表采用七级评分，计算总分和各因子分，高分代表个体某维度水平较高。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2) DOTA2 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究采用的是《DOTA2》7.29版，《DOTA2》是一个多人竞技游戏，每一局都需要由两个5人团队参与才能开启。通常情况下，对手和队友都是通过系统匹配或者创建房间邀请玩家两种方式集齐的。对手与队友的实力会对玩家自身的作战策略与游戏行为产生影响，例如遇到实力超强的队友时，本来擅长1号位的玩家有可能选择2号位对其进行辅助。再如遇到过强的对手时，原本喜欢使用激进对抗策略的玩家也有可能转换为非正面出击的策略。因此，为了更大程度上还原玩家的心理特征，本研究对地图变量、对手及队友实力进行了控制，即通过统一游戏房间设置使得玩家的游戏地图、对手及队友实力保持一致(见图1)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1）地图变量。游戏地图决定了双方阵营位置以及资源点的分布。实际游戏中，阵营的远近、进攻推塔路线、地图资源点疏密程度与安置位置等都会对玩家的游戏行为与操作产生影响，因此本实验统一了地图变量，同时将被试固定在地图左下方，均以此处为原点进行游戏。  \n2）对手及队友的实力。对手与队友的游戏水平会影响到被试的作战策略与游戏行为，因此本实验将游戏难度与游戏模式进行了统一，即将游戏难度设置为“困难”，游戏模式设置为“人机模式”，即在实验对战中，被试的对手及队友都是作战水平差不多的AI，AI玩家的角色阵容也由系统随机匹配。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/241679ac5c5900fd1d04df6672ba955f27343c78abd3de19f1adf08f3d7733dd.jpg",
+        "img_caption": [
+            "图1实验条件下游戏房间设置截图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3数据采集",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "数据采集分为两个部分，单局游戏日志文件采集以及历史游戏数据爬取，为了达到采集目标，单局游戏日志文件采集的实验流程如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1）主试添加被试联系方式，同时告知被试实验目的并征求被试的同意。实验开始前，主试需要提示被试提前完成《D0TA2》游戏7.29版游戏的安装与被试个人账号的登录。  \n2）主试引导被试在线填写基本人口学问卷、黑暗人格量表，并确保被试填写完毕并提交。  \n3）主试通过屏幕共享的方式确认被试的游戏房间设置与实验条件保持一致，即按照实验要求对游戏房间进行设置，游戏模式为“全英雄模式”与“人机模式”，游戏难度为“困难”。  \n4）游戏结束后，被试在主试的指导下保存游戏日志文件并提交给主试。  \n5）主试再次核查游戏日志文件与问卷数据采集无误后，发放酬谢金。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "玩家历史游戏数据的爬取工作在完成所有游戏日志文件采集后统一进行，通过编写Python爬虫，利用玩家基本信息中的SteamID爬取玩家的历史游戏数据。由于部分玩家服务器响应失败，共有24位被试的历史游戏数据爬取失败，因此最后总共获得 272 位被试的历史游戏数据。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了进一步检验模型的预测模型的重测信度，在间隔1月后，对59名重测被试进行重复数据采集，即在相同的实验条件下再次完成一局DOTA2游戏，获得游戏日志文件，并再次爬取他们的历史游戏数据，其中2名玩家的历史游戏数据爬取失败。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4数据处理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1）特征提取 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究调用GitHub上提供的Clarity2包对游戏日志文件进行解析，通过JAVA 程序将采集到的玩家游戏日志文件解析为数据表格，共解析出198个字段。筛除与游戏行为无关数据（如客户端存储路径）后，实际与游戏行为数据有关的字段共158个。内容涵盖：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本局游戏的基本信息字段组，包含游戏模式、匹配类型、玩家数量、游戏时长等；",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "双方阵营信息字段组，包含双方防御塔情况、兵营情况、双方得分、双方总金钱等；",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "聊天信息字段组，包括聊天时间、发言人、聊天的分词内容及各词频等；",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "选人信息字段组，包含禁用的英雄以及双方各自挑选的英雄;",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "重大事件信息字段组，包含该事件发生时间、时间类型、事件对象等；",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "团战信息字段组，包含团战开始和结束时间、团战各单位的技能及物品使用情况等；",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "选手个人信息字段组，包含个人的各项数据，如金钱、经验、技能、装备、各项击杀等。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于这些字段，本文设计了比赛统计特征、玩家统计特征和玩家操作特征3大类特征，并细化为10小类，分别是阵营信息、重大事件、团战信息、技能释放、战斗统计、伤害统计、装备购买、英雄选择、侦查行为和操作指令占比，共计114个游戏行为特征。这些特征部分是其他文献研究所使用，本文借鉴后提出;部分是结合游戏经验以及实际提取到的游戏行为数据，采用启发式的方式提出，并在后续建模中得到验证。特征提取的步骤如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1）根据游戏日志文件解析程序，可以将文件解析为多个数据表格存入mySQL数据仓库中;",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2）找出与本实验所需特征内容相关的数据表格，分别是matches、match_logs、player_matches三张表格，将此三张表格以csv 格式导出。matches表中存放了团战信息相关的比赛统计特征，match_logs 表中存放了比赛相关信息，player_matches 表则存放了每位玩家的所有玩家统计特征与玩家操作特征相关的信息;",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3）通过Python 程序将三张表格中的数据转换提取为特征设计中所需要的数据。  \n根据表格中数据的不同存储类型，需要以不同的方式对数据进行提取;",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "原数据与特征数据一一对应的统计特征，如玩家击杀数，直接取原数据中的数据填入特征数据表中即可；原数据中以字典形式存放，对应特征数据中多个特征的数据，如玩家指令在原数据中以字典方式存放，关键字为指令类型，值为指令次数，则需要将字典中的每一个关键字与特征数据中的特征对应并填入相应的值；原数据中以字典形式存放，多个关键字对应特征数据中多个特征的数据，如玩家对各类型的单位击杀数在原数据中以字典方式存放，关键字为单位名，值为击杀次数，需要将类型相同的单位值整合在一起，填入对应特征数据中;",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "原数据中以列表形式存放，每分钟的累积数据，如玩家金钱是一个列表，其中元素个数等于游戏时长的分钟数，第n个位置的元素的值就是第 $\\mathrm { n } { + } 1$ 分钟玩家的金钱数总和，这类数据需将列表中每分钟累积的值转换每分钟增加的值，并将列表中值以时序数据处理计算其均值、标准差以及偏度和峰度。原数据中以字符串形式存放的信息，需要按照映射关系映射为分类数据。原数据中以列表形式存放，但列表中又包含字典，字典中又包含列表的数据，如团战信息，其在原数据中存放形式较为复杂，包含了每一次团战的开始和结束时间以及每个玩家在团长中的技能释放、目标选择、造成伤害等等一系列信息。特征提取需要在其中找出与特征设计相关的数据信息并按规则整理进入特征数据集中。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4）通过python 程序将每位玩家的特征数据合并在一张表格中。整体流程可参考图2。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/509d3be5bd871ed8b1e22473ede6aa5abdeeca5e0d780092519e5c9edc52efb0.jpg",
+        "img_caption": [
+            "图2特征提取流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）数据转换",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "数据标准化。数据标准化的目的在于消除数量单位，使数据保持在同一量级下，减少方差带来的影响。具体操作为使用 SPSS 对所有特征进行Z分数转化为标准化得分。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "虚拟变量转化。该目的是为了使模型更方便处理多分类变量，使模型结果具备可读性。需要使用虚拟变量转化的字段包括英雄类型字段、推荐分类字段、实际分路字段、最大伤害所在时期字段。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）特征选择",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于规范化后的原始可用特征集合，使用Wrapper法进行特征筛选。Wrapper法是指将接下来建模会使用的机器学习算法嵌入到特征选择过程中，通过测试特征子集在建模算法上的预测性能来决定其好坏，此方法对特征子集中每个特征的预测性能并无要求。所以，通过该方法筛选出的特征子集中的每个特征不一定是最优的，只确保筛选出的特征子集是在后续建模算法下最优的子集[]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1人格与行为相关分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据296份有效样本的量表信息，黑暗人格各子维度的平均数与标准差见表1。对296份有效被试人格问卷得分及其行为指标通过直方图、P-P与 $\\mathsf { Q { - } } \\mathsf { Q }$ 的图形检验方法进行正态检验。对其中符合正态分布的变量进行皮尔逊相关系数的计算，非止态的变量进行斯皮尔曼相关的计算。此举的目的是希望可以通过相关法找到与黑暗人格各子维度具有相关关系的指标，为后续的建模打下基础。相关检验结果见表2。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/841bb8ad998b147fcafb12a13830766eb94bc16dcaf4e9e5e4ac25662629ee4c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"3\">黑暗人格</td></tr><tr><td>马基雅维利主义</td><td>精神病态</td><td>自恋</td></tr><tr><td>M</td><td>12.85</td><td>10.52</td><td>19.19</td></tr><tr><td>SD</td><td>5.36</td><td>4.81</td><td>4.82</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/15d1101364bf072290b13b6cb66c2b20cf0eac4d1bac93989c84c8008e80ddc4.jpg",
+        "table_caption": [
+            "表1黑暗人格各维度得分(M±SD)",
+            "表2黑暗人格量表得分及玩家行为指标相关系数汇总表"
+        ],
+        "table_footnote": [
+            "注： $* p \\langle 0 . \\ 0 5 .$ $* * p \\langle 0 . 0 1$ "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">指标</td><td colspan=\"3\">黑暗人格</td></tr><tr><td>马基雅维利主义</td><td>精神病态</td><td>自恋</td></tr><tr><td>指令3类型占比</td><td>-0.02</td><td>-0.03</td><td>-0.13*</td></tr><tr><td>指令8类型占比</td><td>0.14*</td><td>-0.05</td><td>0.08</td></tr><tr><td>指令21类型占比</td><td>0.14*</td><td>0.07</td><td>-0.08</td></tr><tr><td>指令31类型占比</td><td>0.06</td><td>-0.14*</td><td>0.03</td></tr><tr><td>玩家死亡数</td><td>0.00</td><td>-0.07</td><td>0.15*</td></tr><tr><td>玩家经验数峰度</td><td>0.02</td><td>0.06</td><td>0.15*</td></tr><tr><td>玩家经验数偏度</td><td>-0.02</td><td>0.02</td><td>0.19**</td></tr><tr><td>玩家对防御塔承伤占比</td><td>0.19**</td><td>0.12</td><td>0.03</td></tr><tr><td>消耗品购买数量</td><td>0.02</td><td>-0.13*</td><td>0.01</td></tr><tr><td>玩家插真眼总数</td><td>-0.07</td><td>0.01</td><td>-0.15*</td></tr><tr><td>玩家插真眼均值</td><td>-0.07</td><td>0.01</td><td>-0.15*</td></tr><tr><td>玩家插真眼标准差</td><td>-0.07</td><td>0.01</td><td>-0.15*</td></tr><tr><td>玩家插真眼偏度</td><td>-0.07</td><td>0.01</td><td>-0.15*</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从表中可以看出，马基雅维利主义与玩家对防御塔承伤占比 $( r = 0 . 1 9 \\$ ， $p$ $\\langle ~ 0 . 0 1 \\rangle$ 、指令8类型占比 $( r = 0 . 1 4 \\$ ， $\\mathrm { ~ p ~ } \\langle \\ 0 . 0 5 )$ 、指令21类型占比 $( r = 0 . 1 4 \\$ ，$p \\ < \\ 0 . 0 5 )$ 呈现显著的正相关关系。精神病态与指令31类型占比 $( r = - 0 . 1 4$ ， $p$ $\\langle \\ 0 . 0 5 \\rangle$ 、消耗品购买数量 $( r = - 0 . 1 3$ ， $p \\ < \\ 0 . 0 5 )$ 呈现显著的负相关关系。自恋与玩家经验数偏度 $( r = 0 . 1 9$ ， $p \\ < \\ 0 . 0 1 )$ 、玩家经验数峰度 $( r = 0 . 1 5$ ， $p \\ <$ 0.05)呈现显著的正相关关系；自恋与指令3类型占比 $( r = - 0 . 1 3$ ， $p \\ < \\ 0 . 0 5 )$ ）、玩家插真眼总数 $( r = - 0 . 1 5$ ， $p \\ < \\ 0 . 0 5 )$ 、玩家插真眼均值 $( r = - 0 . 1 5$ ， $p \\ <$ 0.05)、玩家插真眼标准差 $( r = - 0 . 1 5$ ， $p \\ < \\ 0 . 0 5 )$ 、玩家插真眼偏度 $( \\mathrm { r \\Omega } ) = \\mathrm { - \\Omega }$ 0.15， $p \\ < \\ 0 . 0 5 )$ 呈现显著的负相关关系。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2模型训练 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究中尝试了多种不同的机器学习算法，包括高斯过程回归、基于回归的支持向量机等，嵌入到游戏行为特征选择的过程中，再利用对应的机器学习方法对各维度进行模型训练，利用10折交叉验证对模型进行评估，以下表3、表4和表5中呈现了其中表现最佳的四种算法。从表中可以看出，不论是马基雅维利主义，精神病态还是自恋三个维度，同样都是使用高斯过程回归嵌入到特征",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "选择的模型训练结果表现最佳。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "针对马基雅维利主义，其预测值与真实值之间的相关为0.31，均方根对数误差为5.13。该模型保留了前期团战总次数、指令1类型占比、指令6类型占比、指令13类型占比、指令21类型占比、玩家对防御塔承伤占比、是否是力量英雄、主动道具使用次数、玩家插真眼总数、玩家插真眼均值、信使击杀数、击杀标准差、最大伤害数值13种特征。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "针对精神病态维度，其预测值与真实值之间的相关为0.36，均方根对数误差为4.49。保留了中期团战总次数、对友方使用技能次数占比、指令12类型占比、指令27类型占比、指令29类型占比、指令31类型占比、玩家反补数、总金钱、眩晕总时长、玩家反补数均值、玩家对防御塔承伤占比、攻击装备购买数量、防御装备购买数量、消耗品购买数量、中立生物击杀数、最大伤害数值16种特征。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "针对自恋维度，其预测值与真实值之间的相关为0.45，均方根对数误差为4.52。保留了团战总次数、对自己使用技能次数占比、指令3类型占比、指令9类型占比、指令18类型占比、指令19类型占比、指令21类型占比、指令37类型占比、玩家击杀数、玩家金钱数标准差、玩家金钱数峰度、玩家经验数偏度、买活次数、玩家伤害全队占比、玩家对英雄伤害占比、玩家对中立生物伤害占比、玩家对防御塔承伤占比、主动道具使用次数、消耗品购买数量、玩家插真眼总数、玩家插假眼偏度、玩家插真眼均值22种特征。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/f9d6eb9436843ffb9191252bb5bef3a71c639da434319e678936ba24bff9c3e1.jpg",
+        "table_caption": [
+            "表3马基雅维利主义回归预测模型结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>维度</td><td>筛选方法</td><td>GP</td><td>SVR</td><td>KStar</td><td>GBRT</td></tr><tr><td></td><td></td><td>r 0.31</td><td>0.29</td><td>0.27</td><td>0.19</td></tr><tr><td>马基雅</td><td></td><td>MAE</td><td>4.26 4.26</td><td>4.24</td><td>4.39</td></tr><tr><td>维利主</td><td>Wrapper</td><td>RMSE 5.13</td><td>5.20</td><td>5.22</td><td>5.28</td></tr><tr><td>义</td><td></td><td>RAE 0.94</td><td>0.94</td><td>0.93</td><td>0.96</td></tr><tr><td></td><td></td><td>RRSE 0.95</td><td>0.96</td><td>0.96</td><td>0.97</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/735b47b83bc8c3ad5b19a08f6288031f5c66fa4475ca18346cbb5de73fba1977.jpg",
+        "table_caption": [
+            "表4精神病态回归预测模型结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>维度</td><td>筛选方法</td><td></td><td>GP</td><td>SVR</td><td>KStar</td><td>GBRT</td></tr><tr><td rowspan=\"5\">精神病 态</td><td rowspan=\"5\">Wrapper</td><td>r</td><td>0.36</td><td>0.32</td><td>0.28</td><td>0.29</td></tr><tr><td>MAE</td><td>3.65</td><td>3.62</td><td>3. 75</td><td>3.73</td></tr><tr><td>RMSE</td><td>4.49</td><td>4.58</td><td>4.63</td><td>4.60</td></tr><tr><td>RAE</td><td>0.92</td><td>0.91</td><td>0.94</td><td>0.94</td></tr><tr><td>RRSE</td><td>0.93</td><td>0.95</td><td>0.96</td><td>0.95</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/76aac8d895855b7cc92a066da8c30f02ad23bfb3997d3962bfc04dc54453a5b8.jpg",
+        "table_caption": [
+            "表5自恋回归预测模型结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>维度</td><td>筛选方法</td><td></td><td>GP</td><td>SVR KStar</td><td>GBRT</td></tr><tr><td rowspan=\"5\">自恋</td><td rowspan=\"5\">Wrapper</td><td>r 0. 45</td><td>0.36</td><td>0.33</td><td>0.27</td></tr><tr><td>MAE</td><td>3.58</td><td>3.66 3.71</td><td>3.87</td></tr><tr><td>RMSE</td><td>4. 52</td><td>4. 74 4. 79</td><td>4.98</td></tr><tr><td>RAE</td><td>0.92</td><td>0.94 0.95</td><td>0.99</td></tr><tr><td>RRSE</td><td>0.94</td><td>0.94 0.97</td><td>0.95</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2重测信度",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "考虑到效度最好的模型在重测信度上不一定表现得最好，因此本研究针对各维度采用不同算法建立的所有预测模型都进行了重测信度检验，以此选取在效度和信度上都较优的模型。依据重测被试的前后两次游戏行为数据，分别筛选出各维度该模型进行预测时需要使用的游戏行为特征。将第一次（初测)和第二次（重测）的游戏行为特征分别输入，得到初测和重测的预测值并计算两者的皮尔逊相关系数，即为该模型的重测信度。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "最终黑暗人格三个维度的预测分数与真实分数的相关如下表6所示。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/1798452a9b0289d5efa274666b9dd99a0c33cece8d3d9b30407d218718b39f39.jpg",
+        "table_caption": [
+            "表6黑暗人格各维度重测信度汇总表"
+        ],
+        "table_footnote": [
+            "注： $* p \\langle 0 . \\ 0 5 ,$ \\*\\*p<0.01. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>GP</td><td>SVR</td><td>KStar</td><td>GBRT</td></tr><tr><td>马基雅维利主义</td><td>0.53**</td><td>0.39**</td><td>0.29*</td><td>0.37**</td></tr><tr><td>精神病态</td><td>0.38**</td><td>0.56**</td><td>-0.10</td><td>0.29*</td></tr><tr><td>自恋</td><td>0.33*</td><td>0.45**</td><td>-0.01</td><td>0.38**</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "从表中可以看出，马基雅维利主义、精神病态与自恋三个维度中，使用高斯过程回归(GPR)算法建立的模型同时具备最高效度与最良好的信度，重测信度系数分别为0.53、0.38与0.33。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究首先利用相关统计分析的方法，描述DOTA2游戏行为与黑暗人格特质之间的基础关联，并利用机器学习的方法实现了对于马基雅维利主义、精神病态和自恋三个维度的无侵入预测。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "针对相关研究结果，在马基雅维利主义方面，防御塔承伤占比与马基雅维利主义呈正相关。根据秦峰和许芳2对于马基雅维利主义的描述，该维度得分高的个体更冷酷无情、注重结果。防御塔是游戏中为了保护基地及本阵营玩家的装置，当敌人进入防御塔攻击范围内且对本阵营玩家造成伤害时，此装置便会攻击敌人。防御塔承伤占比为整场对局中防御塔对某个体造成的伤害量占该玩家所受伤害总量的比例，此比例越高说明该玩家在塔下攻击对手的次数越多。为了击杀对手，甚至自己被防御塔攻击也无妨。因此该比例可以一定程度反映出玩家的冷酷无情与注重结果的特质。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在模型训练方面，可以发现三个维度都是在使用高斯过程回归时得到了信效度最佳的模型，因此可以看出高斯过程回归是相对而言比较适用于本研究游戏行为数据的算法。其各维度预测值与真实值之间的相关系数介于0.31到0.45之间，均方根对数误差介于4.49到5.13之间，重测信度介于0.33到0.53之间，所得回归预测模型均具备一定的效度与信度，具有应用价值。本研究也存在不足，由于被试在实验过程中开启的是人机对抗模式，即除了玩家之外其余战斗位置均为机器人，因此没有玩家在游戏中有语言行为，这与现实生活中是不太一致的，现实生活中的被试往往习惯于一边操作一边与队友通过语言或文字进行交流，对于实验环境的控制在一定程度上造成了语言行为特征的缺失，未来研究可以进一步将被试的语言行为纳入到模型建立的过程中来。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]Barrick M R，Mount M K,Judge T A.Personality and Performance at the Beginning of the New Millennium: What Do We Know and Where Do We Go Next?[J]. International Journal of Selection and Assessment, 2001, 9(1-2).   \n[2]秦峰，许芳．黑暗人格三合一研究述评[J].心理科学进展,2013,21(7):1248-1261.   \n[3]Malesza, Marta. The effects of the Dark Triad traits in prisoner's dilemma game[J]. Current Psychology, 2018.   \n[4]Curtis S R,Basak A,Carre JR,et al. The Dark Triad and strategic resource control in acompetitive computer game[J]. Personality and Individual Differences,2021,168(1-2):110343.   \n[5]Melzer A. Craving for violence: The role of Dark Personality traits in violent video game preference[J]. 2019.   \n[6]Paulhus D L, Vazire S. The self-report method[J]. Handbook of research methods in personality psychol0gy, 2007,1(2007): 224-239.   \n[7]刘明明.基于社交媒体数据的心理特征自动识别新方法研究[I].2019.   \n[8]Heinzen TE,Landrum RE,Gurung R,etal.Game-Based Assessment: The Mash-Up We've Been Waiting For[M]. Springer International Publishing,2015.   \n[9]Triantoro T,Gopal R,Benbunan-Fich R,etal.Personalityand games: enhancing online surveys hrough gamification[J]. Information Technology and Management, 2020(2).   \n[10] Haizel P,VernandaG,Wawolangi KA,etal.Personality Assessment Video Game Based on The Five-Factor Model[J]. Procedia Computer Science,2021,179: 566-573.   \n[11] 孙鑫．利用游戏 log-file 预测学生能力组别和人格特质水平——机器学习的应用[D]：[硕士学位论文]. 北京：北京师范大学,2018.   \n[12] Yee N,Harris H,Jabon M,etal.The expression of personality in virtual worlds[J].Social Psychological and Personality Science,2011,2(1): 5-12.   \n[13] Bunian S, Canossa A, Colvin R, et al. Modeling individual diferences in game behavior using HMM[C]. Thirteenth Artificial Intelligence and Interactive Digital Entertainment Conference, 2017.   \n[14] 企鹅智库.全球电竞运动行业发展报告[R/OL].2020,htp://www.199it.com/archives/894731.html [15] Jonason P K, Webster G D. The dirty dozen: a concise measure of the dark triad[J]. Psychological assessment, 2010,22(2): 420.   \n[16] Kohavi R,John G H. Wrappers for feature subset selection[J]. Artificial intelligence,1997,97(1-2): 273- 324. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "朱廷劭，张乙川，陈雯雯：提出研究思路，设计研究方案  \n张乙川，陈雯雯，吕思华：研究过程的实施，例如进行试验或调查  \n吕思华：历史数据爬取  \n朱廷劭：游戏行为数据获取及总体设计  \n张乙川，陈雯雯：数据分析  \n吕思华，陈雯雯，张乙川，朱廷劭：论文起草或最终版本修订",
+        "page_idx": 9
+    }
+]

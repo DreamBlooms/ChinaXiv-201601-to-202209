@@ -1,0 +1,317 @@
+[
+    {
+        "type": "text",
+        "text": "情绪体验影响估算策略运用的认知与脑机制",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 朱传林」刘电芝²罗文波³  \n3 (1 扬州大学教育科学学院，扬州 225002)(² 苏州大学教育学院，苏州 215006)  \n4 (辽宁师范大学脑与认知神经科学研究中心，大连116029)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要揭示情绪体验影响个体完成各种认知任务的认知神经机制是研究者关注的热点问题。以往研究主要采用问卷法和行为实验，集中考察了焦虑对估算策略运用的影响，但这种影响潜在的脑机制尚不清楚，对焦虑以外的情绪体验与估算策略运用之间关系的研究也极其缺乏，而情绪调节对估算策略运用影响方面的研究基本处于空白。本研究将采用面孔表情图片作为情绪刺激材料，结合事件相关电位(event related potential,ERP)技术，采用启动范式，尝试从外显和内隐两个角度，考察不同效价的情绪体验在估算策略运用过程中所起的作用，进而揭示情绪调节影响估算策略执行的时间动态特征和大脑激活模式。这将有助于充分认识情绪体验影响估算策略运用的认知与脑机制，为更好的优化估算策略运用效果提供实证依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 情绪启动，情绪调节，面孔表情，事件相关电位，估算策略",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1问题提出",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "日常生活中，人们通常会遇到各种精算难以解决的计算问题。例如，从出发地抵达旅游目的地需要耗费多长时间？买全家人吃一天的菜需要多少钱？自己的身体质量指数(bodymass index,BMI)是多少?此时用估算替代精确计算就显得尤为必要。估算是指个体在未经精确计算的前提下，通过使用某些规则或程序进行心算，进而对算术问题给出尽量接近正确答案的过程(Hinault& Lemaire,2017;Lemaire& Brun,2016)。前人借助加法、减法、乘法、除法任务，对估算策略进行了深入研究。以乘法任务为例，常用的估算策略有向上取整(round up，RU，将被乘数和乘数都向上调整到最近的整十数，例如， $3 6 { \\times } 5 7 { \\approx } 4 0 { \\times } 6 0$ ）、向下取整(round down，RD，将被乘数和乘数都向下调整到最近的整十数，例如, $3 2 \\times 5 3 \\approx 3 0 \\times 5 0$ ）上下取整（up-down，UD，将被乘数和乘数分别向上、向下调整到最近的整十数，例如，$3 7 \\times 5 2 \\approx 4 0 \\times 5 0$ ）和下上取整（down-up，DU，将被乘数和乘数分别向下、向上调整到最近的整十数，例如, $3 2 \\times 5 7 { \\approx } 3 0 { \\times } 6 0 .$ )等，且DU和UD 两种策略被研究的最多(Uittenhove＆Lemaire,2012; Uittenhove et al.,2013)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "大量研究表明，理解估算策略的运行机制有助于阐明复杂的数学概念和数学关系，因而深入研究估算策略显得尤为重要(Imbo et al.,2007;Lemaire et al.,2000;Li et al.,2020)。例如，个体在解决估算任务时存在距离效应(split effect)：具体而言，在确认任务(verification task)中让个体判断给定的算式与某一数值（例如，100）之间的大小，算式与给定值之间的差值可能比较小（小距离问题，small-split problem，例如， $3 7 \\substack { + 6 4 }$ )，也可能比较大（大距离问题，large-split problem，例如, $4 2 \\substack { + 8 7 }$ )。与小距离问题相比，个体解决大距离问题的正确率更高，作答速度更快(Isabel& Escera,2007; Suarez-Pelicioni et al.,2013)。此外，也有研究发现个体在完成估算任务时存在策略系列困难效应（strategy sequential difficulty effects，SSD 效应），即个体当前试次使用某一策略的效果受到前一个试次所用策略的影响：与前一个试次使用较难策略（例如，RU 策略）相比，在前一个试次使用简单策略（例如，RD 策略）时，个体在当前试次使用某一策略的效果更好(反应时更短)。除了健康个体，以阿尔兹海默症患者为代表的临床人群完成估算任务时也出现了 SSD 效应(Uittenhove＆Lemaire,2013;Uittenhoveet al.,2013)。还有研究(Hinault etal.,2015)发现，在确认任务中，个体在运用估算策略解决乘法问题时会遵循奇偶原则（parity rule，即两个因数只要有一个是偶数，那么二者之积一定是偶数）和5的倍数原则（five rule，即两个因数只要有一个的个位数是5，那么二者之积的个位数一定是0或者5)，与只违背上述两种原则中的一种，或者不违背上述两种原则相比，个体解答同时违背上述两种原则的题目时正确率更高、作答速度更快。例如，与判断$4 2 \\times 3 5 = 1 4 7 0$ 是否成立相比，个体判断 $4 2 \\times 3 5 = 1 4 7 1$ 不成立的速度更快、准确率更高。而且5的倍数原则不受年龄影响，年轻人和老年人在解答算术问题时都会遵循该原则(Hinault et al,2016) 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "然而,Miller 等人(Miller&Harris,1988;Miller& Seier,1994)发现,个体掌握相关策略后，会出现在新的情境中无法灵活运用该策略的现象，或者即便运用了该策略，仍然不能从中受益，这一现象被称作“利用性缺陷”(utilization deficiency)。大量研究表明，年龄(Lemaire etal.,2004; Si et al.,2016；朱传林等,2019)、知识水平(Callender& McDaniel,2009；杨伟星等，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2018)、动机(Guvercin et al.,2010)、中央执行功能(Ai et al.,2017；司继伟等，2012)、工作记忆负荷(Imbo etal.,2007)等因素都会导致利用性缺陷，但认知资源不足是导致利用性缺陷的最重要因素。众所周知，个体完成情绪加工任务需要消耗大量认知资源。那么，就估算策略运用而言，情绪因素是否会诱发利用性缺陷？如果会，那么情绪体验对个体估算策略运用的不利影响有哪些表现？其潜在的认知神经机制是怎样的？在掌握情绪诱发利用性缺陷的机制之后，我们是否可以通过情绪调节来克服这些不利影响？综上，大量涉及情绪体验与估算策略运用效果之间关系的问题急需解决。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2研究现状",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1情绪体验影响估算策略运用的认知与脑机制 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数学焦虑是一种特殊的情绪体验，它是指个体在完成数学任务时感受到的消极情绪状态或不适(Ma&Xu,2004)。研究者充分考察了数学焦虑对个体完成数学任务的影响。例如，刘效贞（2009）发现，数学焦虑对个体完成纯数字估算和应用题估算任务都产生了影响：无论完成上述哪种估算任务，与高数学焦虑个体相比，低数学焦虑个体的正确率更高、反应时更短。还有研究者发现数学焦虑水平可以有效地预测个体的数学成绩，数学焦虑水平与个体的数学成绩呈负相关，即数学焦虑水平越高，个体的数学成绩越差(Devine et al.,2012;Hil et al.,2016)。此外，Suarez-Pellicioni 等人 (Suarez-Pellicioni et al.,2013)发现，在完成算术确认任务（判断给定的答案是否正确）中的大距离问题时，与低数学焦虑组相比，高数学焦虑组个体的 P600波幅更大、潜伏期更长，说明高数学焦虑个体存在抑制无关信息方面的缺陷。司继伟等人（2014）进一步考察了不同数学焦虑个体估算策略运用的差异。结果发现，无论是自由选择策略完成估算任务（策略选择)，还是使用指定策略完成估算任务（策略执行)，不同数学焦虑个体在题目编码、策略选择与执行阶段存在显著差异：与低数学焦虑个体相比，高数学焦虑个体对估算题目的编码出现了延迟（N1-P2 潜伏期更长)，且工作记忆负荷更大(N400 波幅更大)。这些研究在一定程度上揭示了数学焦虑对估算策略运用产生不利影响的认知机制。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "然而，有综述指出：先前研究在考察焦虑对个体完成数学任务的影响时，通常采用问卷法来测量被试的焦虑水平，这种方法测得的实际上是特质焦虑，而不是在完成数学任务时产生的实时焦虑体验（状态焦虑)，因而实际上测得的可能是特质情绪体验（而不是实时情绪体验）与个体估算表现之间的关系(Caviola et al.,2017)。那么实时情绪体验会对个体完成数学任务产生怎样的影响呢？为了考察这一问题,Fabre 和Lemaire (2019)从国际情感图片系统中选用正性、中性和负性图片作为情绪刺激材料，诱发被试不同效价的情绪体验，然后让其完成乘法算术确认任务。结果发现，与中性相比，负性情绪启动降低了任务难度，而正性情绪启动却增加了任务难度。该研究首次考察了实验室条件下诱发的情绪体验对个体完成数学任务的影响，进一步加深了我们对情绪体验与数学表现之间关系的认识，而且上述研究结果在后续研究中也得到了证实(Lallement &Lemaire,2021)。Lallement 和 Lemaire（2021）考察了负性情绪体验对青年和老年完成估算任务的影响，结果发现负性情绪体验削弱了个体的估算成绩，而且这种不利影响在青年被试组更明显。然而，上述研究虽然区分了不同情绪效价在个体完成算术任务时所起的作用，但没有明确区分不同负性情绪，那么不同负性情绪体验对个体完成估算任务是否会产生相同的影响呢？为了解决这一困惑，本团队对该问题进行了探讨。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在本课题组近期的一项研究(Liuetal.,2021)中，我们结合启动范式，以面孔表情图片作为情绪启动材料，让被试在不同情绪（愉快、中性、愤怒和恐惧）启动条件下使用指定策略完成估算任务，随后判断作为启动刺激的面孔表情表达的情绪类型。行为结果显示，与中性相比，恐惧启动条件下个体完成估算任务的速度更慢。此外，与愉快相比，恐惧和愤怒启动条件下个体完成估算任务的速度更慢。然而，不同情绪启动条件下个体完成估算任务的正确率之间没有显著差异。ERP 结果显示，情绪启动对个体完成估算任务的影响主要体现在早期编码阶段：与中性相比，愉快启动条件下个体完成估算任务在大脑右半球诱发的P1波幅更小，但不同情绪启动条件下相应的N170 波幅之间却没有显著差异，这表明愉快情绪启动有利于提升个体的估算任务编码效率。此外，本研究初步表明，虽然愤怒和恐惧都是负性情绪，但它们对个体完成估算任务却产生了不同的影响，这也体现了考察不同负性情绪体验在个体完成估算任务时所扮演角色的必要性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "那么内隐情绪体验在个体完成估算任务时扮演怎样的角色？为了解决这一问题，我们对本团队的上述研究(Liu etal.,2021)进行了改进，将该研究中的情绪判断任务改为性别判断任务，其他条件保持不变。结果发现，与中性和愤怒相比，愉快和恐惧条件下个体完成估算任务的速度更快(Zhu,Jiang,Li,etal.,2021)。与先前研究(Liu et al.,2021)相同，本研究也发现不同内隐情绪启动条件下个体完成估算任务的正确率之间没有显著差异。ERP 结果显示，不同内隐情绪启动条件下,个体完成估算任务诱发的P1波幅之间差异不显著；与愤怒相比，恐惧启动条件下诱发的N1波幅更小；愉快（vs.恐惧）条件下右半球的P2波幅更小。本研究说明内隐愉快和恐惧启动有助于改善个体的估算成绩，也表明并非所有负性情绪体验都不利于个体完成估算任务。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "上述研究进一步丰富了我们对实时情绪体验与估算策略运用之间关系的认识。首先，负性情绪体验会对个体完成估算任务产生不良影响（例如，外显恐惧体验)，但并非所有负性情绪体验都会产生不良影响（例如，愤怒)。其次，情绪体验对个体完成估算任务的影响还会受到情绪启动方式（外显启动vs.内隐启动）的影响。例如，外显恐惧体验有损个体的估算成绩，但内隐恐惧体验却有利于改善个体的估算成绩。第三，在考察情绪体验对个体完成估算任务的影响时，反应时指标比正确率更敏感。然而，上述研究也有其不足之处。例如，上述研究(Liu et al.,2021; Zhu, Jiang,Li,et al.,2021)只考察了情绪体验对个体使用单一策略完成估算任务的影响，这可能在一定程度上降低了任务难度，如果要求被试使用多种策略完成估算任务，是否会得到相同（或类似）的结果？此外，上述研究只考察了情绪启动对策略执行的影响，那么情绪启动对策略选择会造成怎样的影响？这些问题均悬而未决。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2情绪调节的认知与脑机制 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "情绪调节是指个体试图改变自己将要体验到的情绪种类(which)、在什么时候体验到此类情绪(when)，以及个体是怎样体验和表达此类情绪的(how)，并在此基础上调整情绪体验强度，进而达到预期目标而进行的一系列活动(Gross,1998a,1998b)。有综述（黄于飞等，2022;朱传林等,2016）指出，Gross 提出的情绪调节过程模型可能是目前应用最广泛的情绪调节模型，而该模型中被研究最广的便是认知重评和表达抑制策略。认知重评是指面临某一特定事件时，个体采用新颖的方式替代常规思路来对其进行解释，进而降低该事件对个体的影响。例如，学生突然被告知要参加某个重要考试时，如果一味焦虑则容易影响备考效果。然而，如果想象刚好可以通过此次考试来检测自己对相关知识的掌握情况，考试成败相对没有那么重要，这样或许有助于缓解考前焦虑，进而有助于改善复习效果，这便是典型的认知重评。而表达抑制是指当个体被情绪性刺激诱发情绪体验后，主动隐藏这种情绪体验相应的外在表现(Gross,2015)。例如，当遭遇坏人袭击时，就算内心十分恐惧，但仍然装作若无其事，表现得十分淡定。先前研究表明，晚期正电位 (late positive potential,LPP)波幅是反应情绪调节效果的有效指标:LPP 波幅变小，说明成功的进行了情绪调节(Chen et al.,2020;DeCicco et al.,2012; Li et al., 2020; Zhao et al., 2021)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "大量研究表明，认知重评的调节效果优于表达抑制：与表达抑制相比，使用认知重评进行情绪调节更有利于减弱负性情绪体验，也更有利于帮助个体获取更多的社会支持、增强社会功能，认知资源消耗更少(Aldao et al.,2010; Brown et al.,2013; Kimhy et al.,2012)。也有研究表明，表达抑制（vs.认知重评）可以更快的降低个体的负性情绪体验(Yuan et al.,2015)。上述不同结果可能与文化因素有关，与崇尚西方文化价值取向的个体相比，尊崇东方文化价值取向的个体更具有大局观念，日常生活中也更习惯忍让，因而使用表达抑制策略的效果更好。此外，还有研究表明，选用效价不确定的惊讶情绪作为被调节的目标情绪时，认知重评和表达抑制的调节效果之间不存在显著差异(Zhu et al.,2019)。总之，关于认知重评和表达抑制的调节效果哪个更好这一问题，研究者尚未达成共识。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "除了有意识的进行情绪调节，人们还可以在无意识状态下进行情绪调节，即内隐情绪调节。内隐情绪调节是指无需有意识的调节意图即可改变情绪反应的质量、强度或持续时间的过程(Koole & Rothermund,2011)。常见的内隐情绪调节方式有句子整理任务(Ajaya et al,2016; Yuan et al.,2019)、执行意图范式(Azbel-Jackson et al.,2016)、词语配对任务(Hoid et al,2020;Liu et al.,2018; Zhu et al.,2022)等。研究发现，内隐情绪调节可以有效地减弱负性情绪体验，相应的 N170、EPN 波幅会变大(Hoid et al.,2020; Liu et al.,2018;Wang& Li,2017)，而LPP 波幅则会变小(Chen et al.,2020; Hajcak et al.,2009)，这在一定程度上揭示了内隐情绪调节的时间动态特征，也有助于加深我们对内隐情绪调节的认识。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3情绪调节影响估算策略运用的认知与脑机制",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "大量研究表明，情绪调节不仅可以改变个体的情绪体验，还会对个体完成决策(Morawetzet al.,2020; Yuan et al.,2019)、记忆(Parsafar & Davis,2019; Ready & Santorelli,2016)、注意控制(Klanecky Earl et al.,2020;Loeffler et al.,2019)、语言加工(Ciray et al.,2022; Yu et al.,2022)等任务造成显著影响，那么情绪调节是否会对个体完成估算任务造成影响？检索谷歌学术、中国知网、维普、万方等数据库发现，目前只有本团队的两篇文章初步考察了情绪调节与估算策略执行之间的关系。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在近期的一项研究(Zhu,Jiang,Wang et al.,2021)中，我们初步考察了外显情绪调节对个体完成估算任务的影响。在该研究中，在愉快、中性和恐惧条件下，要求被试分别使用自由观看、认知重评或者表达抑制策略进行情绪调节，然后使用DU 策略完成两位数乘法估算任务。结果发现，愉快情绪启动条件下，与自由观看相比，使用认知重评策略进行调节提升了个体的估算速度，但使用表达抑制策略时却没有发现类似的调节作用；不同情绪启动条件下，认知重评和表达抑制都没有对个体完成估算任务的正确率造成显著影响。ERP 结果显示，在愉快和恐惧启动条件下，与自由观看相比，使用认知重评策略进行情绪调节后再完成估算任务诱发的P1波幅更大，但只有愉快启动条件下，使用表达抑制策略后完成估算任务诱发的P1 波幅更大；与自由观看相比，个体使用认知重评和表达抑制（差异不显著）策略进行情绪调节之后再完成估算任务诱发的N170波幅更小。这表明认知重评和表达抑制都有利于促进个体对估算任务的编码。此外，与表达抑制相比，认知重评条件下个体完成估算任务诱发的晚期正成分(late positive component,LPC)波幅更小，说明使用认知重评策略进行情绪调节后再完成估算任务消耗的认知资源更少。该研究表明认知重评和表达抑制都有利于改善个体的估算成绩，这种调节作用贯穿于从早期的估算题目编码阶段到晚期的反应阶段，而且整体上认知重评策略的调节效果优于表达抑制。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "内隐情绪调节是否会对个体完成估算任务产生影响？在随后的一项研究(Zhu et al.,2022)中，我们对该问题进行了探讨。在该研究中，首先要求被试完成成语匹配任务，即在电脑上同时呈现一个目标成语和两个备选成语，让被试从备选成语中选出目标成语的近义词，目标成语分为情绪调节无关（基线水平)、认知重评和表达抑制三种类型，以达到内隐情绪调节的目的；然后让被试在愉快、中性和恐惧启动条件下完成两位数乘法估算任务。结果发现，内隐认知重评和表达抑制都有效地降低了个体的情绪体验强度，而且二者的调节效果之间差异不显著。内隐认知重评和表达抑制都有效地降低了个体完成估算任务的反应时，但都没有对其正确率造成显著影响。ERP 结果显示，对于早期伴随负电位(contingent negativevariation,CNV)而言，无论是愉快还是恐惧条件下，与基线水平相比，个体使用内隐认知重评和表达抑制（差异不显著）策略进行情绪调节之后再完成估算任务诱发的CNV 波幅都更小；但对于晚期CNV 而言，只有恐惧条件下才发现了类似的结果。这表明与愉快启动相比，恐惧启动条件下，内隐认知重评和表达抑制策略的调节效果持续的时间更长。鉴于在完成数学任务时，CNV 波幅越大，表示完成任务时需要更多的意志努力,对认知资源的需求越高(Kern&Niedeggen,2021;Yordanova et al.,2021)，该研究表明内隐认知重评和表达抑制有效地降低了个体完成估算任务所需的认知资源消耗。换言之，这两种情绪调节策略都有利于改善个体的估算成绩，且负性（恐惧）情绪条件下，这种调节效果的持续时间更长。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "总之，上述研究(Zhu,Jiang,Wang,etal.,2021; Zhu et al.,2022)表明，认知重评和表达抑制都可以改善个体的估算成绩：外显调节时，认知重评的调节效果优于表达抑制；内隐调节时，二者的调节效果之间没发现显著差异，体现了从外显和内隐两个角度考察情绪调节与估算策略运用之间关系的必要性。然而，外显和内隐情绪调节都没有对个体完成估算任务的正确率造成显著影响，这可能与上述研究中的估算任务难度有关，上述研究中都只采用了单一估算策略，而被试均为在校大学生，实验任务对他们可能略显简单，以至于出现了天花板效应。如果要求个体使用多种不同策略完成估算任务，认知重评和表达抑制是否依然可以改善个体的估算成绩？为了解决这一问题，本研究拟进一步考察认知重评和表达抑制是否能改善个体运用多种策略完成估算任务的成绩及其潜在的认知神经机制。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3研究构想",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本项目围绕“情绪启动与情绪调节影响估算策略运用的认知机制”这一核心问题，从横向和纵向两个角度进行展开。首先，本项目拟采用 ERP 技术，结合启动范式，让个体在不同效价的情绪体验条件下完成两位数乘法估算任务，从外显启动和内隐启动两个角度，探讨不同效价的情绪体验在估算策略运用过程中所起的作用；在上述基础上引入情绪调节，揭示外显和内隐情绪调节影响估算策略运用的时间动态特征和大脑激活模式。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "具体而言，本研究拟通过两个研究（7个实验）对情绪启动和情绪调节在估算策略运用过程中所起的作用进行系统研究，研究框架图如下（图1)。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/27dde4c18a3a486bafb6de816834e48d6972099b9132b7c418bc67e553303721.jpg",
+        "img_caption": [
+            "图1研究思路框架图"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1研究一：情绪启动影响估算策略运用的认知机制",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究拟用恐惧、中性和愉快的面孔表情图片作为情绪启动刺激材料，诱发被试相应的情绪体验，进而考察外显和内隐启动条件下，不同效价的情绪体验对策略执行和策略选择的影响。大量先前研究(Knyazev,et al.,2010; Rigoulot et al.,2012; Schindler et al.,2020)表明，当以面孔表情作为情绪刺激材料时，判断面孔的性别（性别判断任务）可以成功诱发被试的内隐情绪体验，因而本研究中采用性别判断任务来达到内隐情绪启动效果。具体内容如下：实验1：采用3（情绪类型：恐惧、中性、愉快） $\\times 2$ （估算题目类型：DU、UD）的被试内设计，旨在揭示外显情绪启动影响估算策略执行的神经机制。实验流程：先呈现一张情绪面孔表情图片，然后同时呈现线索提示和两位数乘法估算任务，被试按照线索提示，使用DU 或者UD 策略完成估算任务，然后从备选项中选出正确答案（有时间限制)，再判断面孔表情图片表达的是哪种情绪（情绪判断任务)。此外，估算策略和题型是一一匹配的。数据分析：采用3（情绪类型：恐惧、中性、愉快） $\\times 2$ （估算策略类型：DU、UD）的方差分析对行为结果进行分析，自变量为情绪类型和估算策略类型，因变量为被试使用DU 和UD策略完成估算任务的正确率和反应时；采用3（情绪类型：恐惧、中性、愉快） $\\times 2$ （估算策略类型：DU、UD） $\\times 2$ （半球：左半球、右半球）的方差分析对ERP结果进行分析，自变量为情绪类型、估算策略类型和半球，因变量为P1和 N170 波幅。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "实验2：采用3（情绪类型：恐惧、中性、愉快） $\\times 2$ （估算题目类型：DU、UD）的被试内设计，旨在揭示外显情绪启动影响估算策略选择的认知机制。实验流程：与实验1基本相同，不同之处在于对估算任务的反应方式。参考先前研究（司继伟等，2012；杨伟星等，2018)，本实验在正式开始实验之前向被试详细讲解如何使用DU 和UD 策略，直至其完全理解为止，然后着重告知被试在完成每道乘法估算题目时，乘法算式上方不会呈现线索提醒被试使用DU还是UD策略作答，被试需要从DU和UD策略中选择一种又准又快得出估算结果的策略来完成乘法估算任务。完成估算任务无时间限制，直到被试将得出的答案输入空白框并按 Enter 键之后才会进入下一界面。数据分析方法同实验1，其中自变量为情绪类型和估算策略类型，因变量为被试选择最佳策略的精确度以及相应的反应时。参考先前研究（Xu et al,2014；司继伟等，2012)，本研究拟采用被试完成估算任务的精确度来考察其策略选择的灵活性。具体操作方法如下：估算策略精确度的赋值规则如下：当被试使用DU（UD）策略解决了DU任务时，将其赋值为“方法1”（“方法2\")，DU 策略的精确度 $=$ 方法1的试次数/总试次数。同理，UD策略的精确度 $\\mathbf { \\bar { \\rho } } = \\mathbf { \\rho }$ 方法2的试次数/总试次数。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "实验3：采用3（情绪类型：恐惧、中性、愉快） $\\times 2$ （估算题目类型：DU、UD）的被试内设计，旨在揭示内隐情绪启动影响估算策略执行的神经机制。实验流程：与实验1基本相同，不同之处在于将实验1中的情绪判断任务改为性别判断任务，以期达到内隐情绪启动的效果。数据分析方法、自变量和因变量同实验1。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "实验4：采用3（情绪类型：恐惧、中性、愉快） $\\times 2$ （估算题目类型：DU、UD）的被试内设计，旨在揭示内隐情绪启动影响估算策略选择的认知机制。实验流程：与实验2基本相同，不同之处在于将实验2中的情绪判断任务改为性别判断任务，以期达到内隐情绪启动的效果。数据分析方法、自变量和因变量同实验2。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2研究二：情绪调节影响估算策略执行的神经机制",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究将结合ERP 技术，进一步考察外显和内隐情绪调节影响估算策略运用的神经机制。考虑到 ERP 数据进行分段时对不同条件下的有效试次数要求较高(Woodman，2010)，策略选择条件下难以保证每种条件下的有效试次数达到ERP分段时所需的试次数要求，因而研究二只考察情绪调节影响估算策略执行的神经机制，不再考察估算策略选择。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "实验5：采用3（情绪调节方式：自由观看、认知重评、表达抑制） $\\times 3$ （情绪类型：恐惧、中性、愉快) $\\times 2$ （估算题目类型：DU、UD）的被试内设计，旨在揭示外显情绪调节影响估算策略执行的神经机制。实验流程：先呈现线索，提示被试使用哪种策略进行情绪调节，然后呈现面孔表情图片，接下来呈现估算题，被试使用指定策略完成估算任务，再完成情绪判断任务，每个block结束时，被试使用9点量表对其情绪体验强度进行评定，并对其使用指定情绪调节策略的熟练程度进行评定。数据分析：采用3（情绪调节方式：自由观看、认知重评、表达抑制) $\\times 3$ （情绪类型：恐惧、中性、愉快) $\\times 2$ （估算策略类型：DU、UD）的方差分析对个体完成估算任务的行为结果进行分析，自变量为情绪调节方式、情绪类型和估算策略类型。采用3（情绪调节方式：自由观看、认知重评、表达抑制） $\\times 3$ （情绪类型：恐惧、中性、愉快） $\\times 2$ （估算策略类型：DU、UD） $\\times 2$ （半球：左半球、右半球）的方差分析对 ERP 结果进行分析，自变量为情绪调节方式、情绪类型、估算策略类型和半球；因变量为CNV、LPC 波幅。此外，采用3（情绪调节方式：自由观看、认知重评、表达抑制)$\\times 3$ （情绪类型：恐惧、中性、愉快） $\\times 2$ （估算策略类型：DU、UD） $\\times 2$ （半球：左半球、右半球）的方差分析考察不同条件下个体的情绪体验强度评分之间是否存在显著差异。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "实验6：采用3（情绪调节方式：自由观看、认知重评、表达抑制） $\\times 3$ （情绪类型：恐惧、中性、愉快) $\\times 2$ （估算题目类型：DU、UD）的被试内设计，旨在揭示外显情绪启动条件下，内隐情绪调节影响估算策略执行的神经机制。实验流程：与实验5基本相同，不同之处在于将实验5中情绪调节方式改为完成成语匹配任务。在成语匹配任务中，电脑上会同时呈现一个目标成语和两个备选成语，要求被试从备选成语中找出目标成语的近义词。对于单个试次，目标成语暗含了自由观看、认知重评、表达抑制三种情绪调节策略中的一种。正式实验前告诉被试成语匹配任务是为了检验其语文知识，进而达到内隐情绪调节的目的。数据分析方法和自变量同实验5，因变量为情绪体验强度评分、CNV 和LPC 波幅。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "实验7：采用3（情绪调节方式：自由观看、认知重评、表达抑制） $\\times 3$ （情绪类型：恐惧、中性、愉快） $\\times 2$ （估算题目类型：DU、UD）的被试内设计，旨在揭示内隐情绪启动条件下，内隐情绪调节影响估算策略执行的神经机制。实验流程：与实验6基本相同，不同之处在于将实验6中的情绪判断任务改为性别判断任务。数据分析方法和自变量同实验6，因变量为情绪体验强度评分、CNV 和LPC 波幅。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "前期研究(Liu et al.,2021; Zhu, Jiang,Li,et al.,2021; Zhu,Jiang,Wang,et al.,2021)表明:与中性相比，无论采用哪种启动方式（外显启动 vs.内隐启动)，愤怒启动都没有对个体完成估算任务造成显著影响，因而本研究中只选用了恐惧情绪，没再选用愤怒。此外，考虑到数学技能、数学焦虑和广泛性焦虑等额外变量对实验结果的潜在影响，本研究拟采用国际通用的标准化测验 The French Kit (French et al.,1963)来测验被试的数学技能水平，采用刘效贞(2009)修订的《修订数学焦虑量表》(R—MARS)来测量被试的数学焦虑水平，采用状态-特质焦虑量表(State-Trait Anxiety Inventory, STAI)（Spielberger,1983)来测验个体的状态/特质焦虑水平。并将个体的数学技能、数学焦虑水平与其完成估算任务的成绩作相关分析。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4理论构建与创新 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "研究者分别围绕情绪和估算策略展开了大量研究，也有研究者考察了情绪因素（主要是数学焦虑）对估算策略运用效果的影响，但鲜有研究考察除了数学焦虑以外的其他情绪体验对个体估算策略运用效果的影响。本研究从横向和纵向两个角度进行展开，采用ERP 技术，结合情绪启动范式，首先考察不同效价的情绪体验影响估算策略运用的时间动态特征和大脑激活模式，然后探索不同情绪调节方式在估算策略执行过程中所起的作用，有利于深化我们对情绪体验与估算策略运用效果之间关系的认识。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "首先，考察实时情绪体验影响个体估算策略运用影响的认知与脑机制。有研究指出，先前研究中，研究者们在考察焦虑对估算策略运用的影响时，主要通过问卷法来测量个体的焦虑水平，实际上这种方法测量的特质焦虑，而不是状态焦虑(Caviola etal.，2017；Trezise&Reeve,2014;2015)，因而考察的是特质焦虑(而非状态焦虑)对估算策略执行的影响。然而，相比于特质焦虑，状态焦虑更普遍的存在于日常学习活动中。例如，考前焦虑（状态焦虑）等等。因而研究实时情绪体验对个体学习活动的影响更具现实意义。本研究拟在实验室条件下，诱发被试不同效价的实时情绪体验，在此基础上让被试完成策略执行和策略任务，利用ERP 技术高时间分辨率的优势，深入考察实时情绪体验对估算策略运用的影响发生在哪个或者哪些阶段（编码阶段、提取阶段、反应阶段），有助于加深人们对实时情绪体验与估算策略运用之间关系的认识，也有助于为改善估算策略运用效果提供理论支撑。其次，对比外显和内隐情绪体验对估算策略运用的不同影响。先前研究(Schindler et al.,2020;Wagenbreth et al.,2016)表明，外显和内隐情绪加工任务涉及不同的脑机制，那么对于同一种情绪而言，外显和内隐启动是否会对个体完成估算任务产生不同影响？本课题组对此进行了初步考察，结果发现，外显和内隐愉快体验都有利于改善个体的估算策略执行效果，外显恐惧有损个体的估算策略执行效果，但内隐恐惧体验却产生了促进作用(Liu et al.,2021;Zhu,Jiang,Li,etal.,2021)。但前期研究中我们只选用了单一策略，而且只考察了外显和内隐情绪启动对估算策略执行的影响，尚不清楚不同情绪启动方式对估算策略选择的影响。本研究中我们选用了多种估算策略，进一步深入考察外显和内隐情绪启动对估算策略执行和策略选择的影响，有助于充分认识不同情绪启动方式对估算策略运用产生怎样的影响及其潜在的认知机制。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "第三，将情绪调节引入估算策略领域，有助于拓展估算策略的研究范畴，将估算策略从“冷认知”拓展到“热认知”研究。先前研究(Aiet al.,2017; Guan et al.,2021;Lemaire,2021)中，研究者们较为全面的考察了各种主客观因素对个体数学表现的影响，虽然也有研究考察了情绪因素的作用，但鲜有研究考察如何克服情绪体验对估算策略执行的不利影响。本研究在考察不同情绪对估算策略执行影响的基础上，进一步考察了不同情绪调节方式对估算策略执行的影响，既考察了情绪启动与估算策略运用之间的关系是什么样的，又考察了如何克服情绪体验对完成估算任务的不利影响，进而帮助个体改善估算策略运用效果，为研究估算策略提供了新的视角和着力点。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "黄于飞，史攀，陈旭.(2022)．依恋对情绪调节过程的影响，心理科学进展,30(1)，77-84.   \n刘效贞.(2009).不同情境状态下数学焦虑对估算的影响 (硕士学位论文).山东师范大学，济南.   \n司继伟，徐艳丽，封洪敏，许晓华，周超.(2014).不同数学焦虑成人的算术策略运用差异：ERP 研究．心理 学报,46(12),1835-1849.   \n司继伟，杨佳，贾国敬，周超.(2012).中央执行负荷对成人估算策略运用的影响．心理学报，44(1),1490- 1500.   \n杨伟星，张堂正，李红霞，张佳佳，司继伟.(2018).数学困难儿童估算策略运用的中央执行负荷效应．心理 学报,50(05),504-516.   \n朱传林，李萍，罗文波，齐正阳，何蔚祺.(2016).精神分裂症患者的情绪调节，心理科学进展,24(4)，556- 572.   \n朱传林，卢凤，赵源，马姗姗，刘电芝.(2019).估算策略执行的影响因素述评．心理学进展,9(5),888-895.   \nAi,J.,Yang,J.,Zhang,T.,Si,J.,&Liu, Y. (2O17).The effectofcentral executive loadon fourthandsixth graders' use of arithmetic strategies. Psychologica Belgica, 57(2),154-172.   \nAjaya,Y.,Peckham,A.D.,& Johnson, S.L. (2O16). Emotion regulation and mania risk: Diffrential responses to implicit and explicit cues to regulate.Journal of Behavior Therapy & Experimental Psychiatry, 50,283- 288.   \nAldao,A., Nolen-Hoeksema, S.,& Schweizer, S. (2010). Emotion-regulation strategiesacross psychopathology: A meta-analytic review. Clinical Psychology Review, 30(2),217-237.   \nAzbel-Jackson,L.，Butler,L.T.,Elis,J.A.,& Van Reekum,C.M. (2016).Stay calm! Regulating emotional responses by implementation intentions: Assessing the impact on physiological and subjective arousal. Cognition and Emotion, 30(6),1107-1121.   \nBrown,K.W., Goodman,R.J.,& Inzlicht,M.(2O13). Dispositional mindfulnessand theatenuation of neural responses to emotional stimuli. Social Cognitive and Affective Neuroscience,8(1), 93-99.   \nCaviola,S.,Carey,E.,Mammarella, I. C.,& Szucs,D.(2O17). Stress, time pressure,strategy selection and math anxiety in mathematics: A review of the literature.Frontiers in Psychology,8,1488.   \nChen, S.,Yu, K.,Yang,J.,&Yuan,J. (2O2). Automaticreappraisal-based implementation intentionproduces early and sustainable emotion regulation efects: Event-related potential evidence.Frontiers in Behavioral Neuroscience, 14, 89.   \nCiray,R.O.,Ozyurt,G.,Turan,S.,Karagoz,E.,Ermis,C.,Ozturk,Y.,&Akay,A.(2O22).Theassociationbetween pragmatic language impairment, social cognition and emotion regulation skills in adolescents with ADHD. Nordic journal of Psychiatry, 76(2), 89-95.   \nDeCicco, J. M.,Solomon,B.,& Dennis,T.A. (2012). Neuralcorrelates of cognitive reappraisal in children: An ERP study. Developmental Cognitive Neuroscience, 2(1),70-80.   \nDevine,A.,Fawcett, K.，Szücs,D.,，& Dowker,A. (2012). Gender diffrences in mathematics anxiety and the relation to mathematics performance while controling for test anxiety. Behavioral and Brain Functions, 8,33.   \nFabre,L.,& Lemaire,P. (2019). How emotions modulate arithmetic performance: A study in arithmetic problem verification tasks. Experimental Psychology, 66(5),368-376.   \nFrench,J. W.,Ekstrom,R.B.，& Price,L.A.(1963). Kit of reference tests for cognitive factors. Washington, Educational Testing Service.   \nGross,J. J. (1998a).Antecedent-and response-focused emotion regulation: Divergent consequences for experience, expression, and physiology. Journal of Personality and Social Psychology, 74(1),224-237.   \nGross,J. J. (1998b). The emerging field of emotion regulation: An integrative review. Review of General Psychology, 2(3),271-299.   \nGross,J. J. (20l5). The extended process model of emotion regulation: Elaborations,applications,and future directions.Psychological Inquiry,26(1),130-137.   \nGuan,D.,Ai,J., Gao,Y.,Li, H.,Huang,B.,& Si,J. (2021). Non-symbolic representation is modulatedby math anxiety and cognitive inhibition while symbolic representation not. Psychological Research, 85,1662- 1672.   \nGuvercin,O., Tekkaya, C.,& Sungur, S.(201O). A cross age study of elementary students’ motivation towards science learning.Hacettepe University Journal of Education,39(39),233-243.   \nHajcak,G.,Dunning,J.P.,&Foti,D.(20o9).Motivated and controlled atention to emotion: Time-courseof the late positive potential. Clinical Neurophysiology, 120(3), 505-510.   \nHill,F.,Mammarella,I. C.,Devine,A., Caviola,S.,Passolunghi,M.C.,& Szuics,D.(2016). Mathsanxiety in primary and secondary school students: Gender diffrences，developmental changesand anxiety specificity. Learning & Individual Differences, 48, 45-53.   \nHinault,T., Dufau,S.,& Lemaire,P. (2O15). Strategy combination in human cognition: A behavioral and ERP study in arithmetic.Psychonomic Bulletin& Review,22(1),190-199.   \nHinault,T.,&Lemaire,P. (2O17).Aging and list-wide modulationsof strategy execution:A Study in Arithmetic Experimental Aging Research, 43(4),323-336.   \nHinault,T.,Tiberghien, K.,&Lemaire,P.(2O16). Age-related diferences in plausibility-checking strategies during arithmetic problem verification tasks.The Journals of Gerontology. Series B,Psychological Sciences and Social Sciences, 71(4),613-621.   \nHoid,D.,Pan,D., Wang,Y.,& Li, X. (202O).Implicit emotion regulation deficits in individuals with high schizotypal traits: An ERP study. Scientific Reports,10,3882.   \nImbo,I,Duverne,S.,& Lemaire,P.(2Oo7). Working memory,strategy execution,and strategy selection in mental arithmetic. Quarterly Journal of Experimental Psychology, 60(9),1246-1264.   \nIsabel,N.-P.M.，& Escera,C.(2Oo7).Anevent-related brain potential study of the arithmeticsplit effect. International Journal of Psychophysiology, 64(2),165-173.   \nKern,L.，& Niedeggen,M. (2O21).ERP signatures of auditory awareness in cros-modal distractor-induced deafness. Consciousness and Cognition, 96,103241.   \nKimhy，D.，Vakhrusheva，J.，Jobson-Ahmed,L.，Tarrier,N.，Malaspina,D.，& Gross,J.J.(2012).Emotion awareness and regulation in individuals with schizophrenia: Implications for social functioning. Psychiatry Research, 200(2),193-201.   \nKlanecky Earl,A. K.,Robinson,A. M.,Mils,M.S.,Khanna,M.M., Bar-Haim,Y.,& Badura-Brack,A.S. (2020). Attention bias variability and postraumatic stress symptoms: The mediating role of emotion regulation difficulties. Cognition and Emotion,34(6),1300-1307.   \nKnyazev,G.G.,Slobodskoj-Plusnin,J.Y.,&Bocharov,A.V. (2O10).Gender differences inimplicit and explicit processing of emotional facial expressions as revealed by event-related theta synchronization. Emotion, 10(5), 678-687.   \nKoole,S.L.,& Rothermund,K. (2011).“I feel beter but Idon't know why\": The psychologyofimplicit emotion regulation. Cognition and Emotion, 25(3),389-399.   \nLallement,C.，& Lemaire,P.(2O21).Age-related diferences in how negative emotions influence arithmetic performance. Cognition and Emotion,35(7),1382-1399.   \nLemaire,P. (2O21).Efects of prior-task failure on arithmetic performance: A study in young and older adults. Memory & Cognition,49,1236-1246.   \nLemaire,P.,Arnaud,L,&Lecacheur,M. (2Oo4). Adults'age-related differences inadaptivityof strategychoices: evidence from computational estimation. Psychology and Aging,19(3),467-481.   \nLemaire,P.,& Brun,F. (2O16). Age-related diffrences in children's strategy repetition: A study in arithmetic. Journal of Experimental ChildPsychology,150,227-240.   \nLemaire, P.,Lecacheur, M.,& Farioli,F. (2ooo). Children's strategy use in computational estimation. Canadian Journal of Experimental Psychology/Revue canadienne de psychologie expérimentale, 54(2),141-148.   \nLi,M., Cheng,D.,Lu, Y.,& Zhou,X. (2O2O). Neural association between non-verbal number senseand arithmetic fluency. Human Brain Mapping,41(18),5128-5140.   \nLi, P., Zhu, C.,Leng, Y.,& Luo,W. (2O20). Distraction and expressive suppression strategies in down-regulation of high-and low-intensity positive emotions.International Journal of Psychophysiology,158,56-61.   \nLiu,B.,Wang,Y.,&Li,X.(2O18). Implicit emotion regulation deficits in trait anxiety:AnERPstudy.Frontiers in Human Neuroscience,12,382.   \nLiu,D.,Wang,Y.,Lu,F.,Shu,D.,Zhang, J., Zhu, C.,& Luo,W. (2O21). Emotional valence modulates arithmetic strategy execution in priming paradigm: An event-related potential study. Experimental Brain Research, 239(4), 1151-1163.   \nLoeffler,L.A.K.,Satterthwaite,T.D.Habel, U. Schneider,F.,Radke,S.,&Derntl,B.(2019).Atentioncontrol and its emotion-specific association with cognitive emotion regulation in depression. Brain Imaging and Behavior, 13(6),1766-1779.   \nMa, X.,& Xu, J. (2004).The causal ordering of mathematics anxiety and mathematics achievement: Alongitudinal panel analysis. Journal of Adolescence, 27(2),165-179.   \nMiller,P.H.,&Harris,Y.R.(1988).Preschoolers’strategiesof atentiononasame-different task.Developmental Psychology，24(5), 628-633.   \nMiller,P. H.,& Seier, W.L.(1994).Strategyutilization deficiencies in children: When, where,and why. Advances in Child Development and Behavior, 25,107-156.   \nMorawetz, C., Steyrl,D.,Berboth,S. Heekeren, H.R.,& Bode, S. (2O20). Emotion regulation modulatesdietary decision-making via activity in the prefrontal-striatal valuationsystem.Cerebral Cortex,3O(11),5731- 5749.   \nParsafar, P.,& Davis,E.L. (2O19). Divergent effects of instructed and reported emotion regulation strategies on children's memory for emotional information. Cognition and Emotion,33(8),1726-1735.   \nReady,R.E.,& Santoreli, G.D. (2Ol6). Emotion regulation and memory:differential associations in younger and midlife/older adults. Experimental Aging Research, 42(3),264-278.   \nRigoulot,S.,DHondt,F.,Honore,J.,& Sequeira, H. (2Ol2). Implicit emotional processing in peripheral vision: Behavioral and neural evidence. Neuropsychologia, 50(12),2887-2896.   \nSchindler,S.，Bruchmann，M.， Steinweg，A.-L.，Moeck，R.，& Straube，T. (202O).Attentional conditions differentially afect early,intermediate and late neural responses to fearful and neutral faces. Social Cognitive and Affective Neuroscience, 15(7), 765-774.   \nSi, J.,Li,H.,Sun,Y.，Xu,Y.，& Sun，Y.(2016).Age-related diferences of individuals’arithmetic strategy utilization with diferent level of math anxiety. Frontiers in Psychology,7,1612.   \nSpielberger,C.D.,Gorsuch,R.L.,Lushene,R.,Vagg,P.R.,&Jacobs,G.A.(1983).Manual for thestate-trait anxiety inventory. Palo Alto, CA: Consulting Psychologists Pres.   \nSuarez-Pellicioni, M.,Nunez-Pena, M.I.,& Colomé,A. (20l3). Mathematicalanxietyeffctson simple arithmetic processing eficiency: An event-related potential study. Biological Psychology, 94(3), 517-526.   \nTrezise,K.,&Reeve,R.A. (2O14). Working memory,wory,andalgebraicability.JouralofExperimentalChild Psychology,121,120-136.   \nTrezise,K.,& Reeve,，R.A. (2015). Worry and working memory influence each other iteratively over time. Cognition and Emotion,30(2),353-368.   \nUitenhove,K.，& Lemaire,P. (2012). Sequential dificulty effects during strategy execution. Experimental Psychology, 59(5),295-301.   \nUittenhove, K.，& Lemaire,P. (2O13). Strategy sequential dificulty efcts in Alzheimer patients: A study in arithmetic. Journal of Clinical and Experimental Neuropsychology, 35(1),83-89.   \nUittenhove,K.，Poleti, C., Dufau,S.，& Lemaire,P. (2013). The timecourse of strategy sequential dificulty effects: An ERP study in arithmetic. Experimental Brain Research, 227(1),1-8.   \nWagenbreth,C.,Watenberg,L.,Heinze,H.-J.,&Zaehle,T. (20l6).Implicit and explicit processingofemotional facial expressions in Parkinson's disease.Behavioural Brain Research,3O3,182-190.   \nWang,Y.,&Li,X. (2017).Temporal course of implicit emotion regulation during a priming-identify task: An ERP study. Scientific Reports, 7, e41941.   \nWoodman, G.F. (2010). A brief introduction to the use of event-related potentials (ERPs)in studies of perception and attention. Attention,Perception & Psychophysics,72(8),2031-2046.   \nXu,C.,Wels,E.,LeFevre,J.-A.,&Imbo,I. (2O14).Strategic flexibility incomputational estimation forChineseand Canadian-educated adults.Journal of Experimental Psychology: Learning, Memory, and Cognition, 40(5), 1481-1497.   \nYordanova,J., Gajewski,P.D., Getzmann,S., Kirov,R.,Falkenstei,M,&Kolev, V.(O21). Neural correlatesof aging-related differences in pro-active control in a dual task.Frontiers in Aging Neuroscience,13, 682499.   \nYu,X.,Wang,Y.,& Liu,F. (2O22).Language learning motivation and burnout among English asa foreign language undergraduates: The moderating role of maladaptive emotion regulation strategies. Frontiers in Psychology, 13, 808118.   \nYuan,J.,Long,Q.,Ding,N.,Lou,Y.,Liu,Y.,& Yang,J. (2O15).Suppression dampensunpleasantemotionfaster than reappraisal: Neural dynamics in a Chinese sample. Science China Life Sciences, 58(5), 480-491.   \nYuan,J.,Long,Q.,Li, X.,Deng,Z., Ma,B., Chen,S.,& Yang,J. (2O19). Regulatory effect of implicit acceptance during outcome evaluation: The temporal dynamics in an event-related potential study. International Journal of Psychophysiology,141,37-44.   \nZhao,J.,Mo,L.,Bi,R.,He,Z.,Chen,Y., Xu,F.,... Zhang,D.(2021). The VLPFC versus the DLPFC in downregulating social pain using reappraisal and distraction strategies. Journal of Neuroscience, 41(6), 1331-1339.   \nZhu, C.,Jiang,Y.,Li, P.,Lu,F.,Wang,Y., Zhao,Y.,& Liu, D.(2021). Implicit happy and fear experience contributes to computational estimation strategy execution: Behavioral and neurophysiological evidence. Neuropsychologia, 159,107959.   \nZhu, C.,Jiang,Y.，Wang, Y., Liu,D.,& Luo,W. (2021). Arithmetic performance is modulated by cognitive reappraisal and expression suppression: Evidence from behavioral and ERP findings. Neuropsychologia, 162,108060.   \nZhu, C.,Li, P.,Li, Y., Jiang, Y., Liu, D.,& Luo,W.(2022). Implicit emotion regulation improves arithmetic performance: An ERP study. Cognitive, Afective,& Behavioral Neuroscience, 22, 574-585. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The cognitive and brain mechanisms of how emotional experience affecting individuals' utilization of estimation strategies ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "ZHU Chuanlin',LIU Dianzhi²,LUO Wenbo (1 School of Educational Science, Yangzhou University, Yangzhou 225002) (2 School of Education, Soochow University, Suzhou 215006) ( Brain and Cognitive Neuroscience Research Center, Liaoning Normal University, Dalian 116029) ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Uncovering the cognitive neural mechanism underlying the effect of emotional experience on individuals’ various cognitive task performances has been a hot research topic. Previous studies mainly employed questionnaires and behavioral experiments as measurements and focused solely on the impact of anxiety on the estimation strategy utilization,leaving the underlyingbrain mechanism unclear. Fewstudieshave exploredthe relationships betweenemotional experience other than anxiety and estimation strategy utilization,or emotion regulation and estimation strategy utilization. To fillin the gap, the present project will adopt the event-related potential (ERP） technology，combined with the facial expression images as emotional priming stimuli, to examine the influence of different emotional experience valences on estimation strategy utilization. Distinguishing between the explicit and implicit emotional experiences,our study will shed light on the role of diferent emotional valences on estimation strategy utilization as well as the temporal dynamic characteristics and brain activation patrns underlying the effect. This project will deepen people's understanding about the cognitive and brain mechanisms of how different emotional experience influence estimation strategy utilization, and provide further empirical evidence for optimal estimation strategy utilization effect. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Keywords: emotion priming，emotion regulation， facial expressions,event-related potentials, estimation strategy ",
+        "page_idx": 18
+    }
+]

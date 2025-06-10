@@ -1,0 +1,876 @@
+[
+    {
+        "type": "text",
+        "text": "云制造环境下对称型企业制造资源共享演化博弈分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "许春安，李芳(上海理工大学 管理学院，上海 200093)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为解决复杂制造业在制造资源共享和协同合作方面的难题，构建了云制造环境下制造资源共享的演化博弈模型，模型揭示出资源服务提供企业和资源服务需求企业之间制造资源共享的演化作用关系，并基于系统动力学软件建立 SD 模型，对比分析不同的参数变化对演化结果的影响。研究表明初始共享比例、平台管理能力系数、资源转化能力系数、资源协同能力系数、信息化效益系数、技术损失风险系数、渠道成本系数、惩罚成本系数、信任程度系数以及激励系数对博弈企业双方的策略演化结果均具有显著影响，促进云平台中企业信息互通、资源共享，须从上述方面管理改进。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：云制造；制造资源共享；演化博弈；系统动力学 中图分类号：TP391 doi: 10.3969/j.issn.1001-3695.2018.05.0292 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Game model analysis of symmetrical enterprises’ manufacturing resource sharing under environment of clouding manufacturing ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xu Chun'an, Li Fang (Business School, University of Shanghai for Science & Technology,Shanghai 20oo93,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In order to solve the problemof manufacturing resources sharing and collaboration incomplex manufacturing,the thesis builds an evolutionary game model concerned with manufacturing resource sharing under the circumstanceof cloud manufacturing.The model reveals the evolutionaryrelationshipof manufacturing resources sharing between (Resource Service Provider）RSP and (Resource Service Demander）RSD.Meanwhile,it compares and analyzes the influenceof parameter variationon theevolution result onthebasisof(System Dynamics)SD modelbuilt byasystem dynamics software.The result demonstrates thatthere areaseriesoffactors whichcanexert obvious influences onstrategic evolutionaryresultofboth sides of gamebusineses.hesefactors includeinitialshareratio,platformmanagementabilitycoeffcient,resourcetransformation abilitycoeffient,resourecollborationoeffent,formatioefiencycoefficient,techicallosscoeffetael costeffcient,penaltycostcoefficient,trustcoeffcientand incentivecoefficient.Therefore,solutionscanbetaken fromthe above-mentioned aspects so as to promote information mutual communication and resources sharing. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: cloud manufacturing; sharing of manufacturing resource; evolutionary game; system dynamics ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "21世纪，随着高新技术应用的推动，制造业的发展步伐也在逐渐加快，不断朝着全球化、专业化和服务化的方向大步迈进。制造企业为了应对知识经济和制造全球化的挑战，同时为了快速响应市场需求和提高企业市场竞争力，以敏捷制造、制造网格（MGrid）和应用服务提供商（ASP）等为代表的网络化制造模式应运而生。尽管经过十几年的发展，制造网格模式在不同领域取得了一定的成果，但仍然在服务模式、制造资源共享和分配技术以及安全问题等方面存在瓶颈。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "因此李伯虎等人[1率先提出了一种面向服务的网络化制造新模式一一云制造，文中在制造资源共享方面指出，云制造模式不仅要体现“分散资源集中使用”的思想，还要有效的实现“集中资源分散服务”的思想。自云制造理论提出以来，学术界普遍关注其层级结构[2]、典型特征[3]、关键技术[4]、资源虚拟化[5以及运行模式[7等方面的研究，并且已经取得了大量的理论研究和实际应用成果。然而与之相比，关于制造资源共享后供应链绩效分配问题的研究较少，已有的文献仅提出了一些针对性的思路和方法。金莹等人[8在分析虚拟组织合作信息化服务平台需求的基础上，提出了建立引入惩罚因子的面向云制造服务平台的虚拟组织合作体系，为云制造环境下虚拟组织的合作研究奠定了重要的理论和实践基础。贾国柱等人[9运用系统动力学的方法对共享资源冲突问题进行了分析研究，并在仿真模型运行结果的基础上提出了共享资源使用权分级评分及交换机制，针对性的解决了企业内部共享资源的冲突问题。李芳等人[0通过建立序贯博弈模型，在分析云制造平台上交易技术和服务的情形上，研究了云制造平台的共享效能和共享机制。苏凯凯等人[I在充分考虑制造服务需求方和云制造平台运营方的利益需求的基础上，提出了以服务质量指标和柔性指标多目标优化函数作为博弈双方的收益函数，建立了非合作博弈模型，有效的解决了云制造环境下制造资源优化配置问题。Argoneto等人[12]提出了云制造环境下能力共享结构，运用了基于Gale-Shapley模型的合作博弈算法和模糊引擎两种工具，在考虑了相关企业效益函数的基础上选择能力分配策略，并通过实例仿真验证了云制造能力共享结构的高绩效性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上述对制造资源共享与供应链绩效的研究分析表明，现阶段对云制造环境下制造资源共享的分析主要是在制造资源共享各方都是“完全理性”的假设前提下进行的，要求参与各方在任何情况下都以自身效益最大化为目标，但是云制造环境下的参与各方的合作意向都是长期的，制造资源共享各方整理各自优势资源，在同意云平台管理协议的前提下进驻云平台达成合作，其资源共享的企业行为往往要受到云平台合作各方的制约和影响从而不能达到自身效益目标最大化，而演化博弈论的\"有限理性”假设刚好符合这一研究背景。因此，本文采用演化博弈论的方法，对云制造环境下企业制造资源共享这一合作过程进行趋势分析，考虑博弈双方效益并在引入云平台管理能力带来的边际规模效益的基础上衡量不同影响因素对企业制造资源共享均衡策略的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "制造资源主要是指企业在产品制造全生命周期活动内所需要的所有生产元素集合[13]。制造资源根据其存在特性以及使用途径的不同主要可以分为硬制造资源和软制造资源两类[14:15]。这些制造资源（主要是硬制造资源）借助物联网、信息物理融合系统、计算系统虚拟化实现资源的互联、识别、感知以及信息传输，从而实现物理制造资源的虚拟化，完成虚拟制造资源云池的构建，为制造资源的共享提供关键的技术支撑。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "系统动力学（systemdynamics，SD）关注系统的动态仿真与因果影响，是研究系统反馈行为的重要仿真方法，SD为研究演化博弈的动态过程提供了一种有效的辅助手段[16]，为了在云制造环境下更好的诠释制造资源共享的动态博弈过程，本文通过设定不同的参数对比均衡策略的趋势并在系统动力学软件Vensim环境下进行仿真验证。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 问题描述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "云制造平台构建了一个虚拟资源云池，主要由制造资源、制造服务、制造需求等若干部分组成，为了高效地实现资源共享、更好的服务大众，云平台需要大量制造资源提供企业和制造资源需求企业的接入，力求早日实现云平台的实际规模效益。而制造产业是一项复杂的系统工程，特别是一些大型复杂制造业，比如汽车制造业、船舶制造业、电气机械和器材制造业等，它们都需要制造企业和数量众多的各级零部件供应商的协同合作。为了实现国内制造领域的云制造模式，制造企业和各级零部件供应商必须放弃传统的供应链体系，对基础网络和信息设备进行升级，完成制造资源的虚拟封装，共同接入云平台，在云端实现制造资源的优化配置，从而形成先进的云制造环境下制造企业的供应链运营管理体系。然而制造企业和各级零部件供应商接入云平台是一个动态博弈的过程，在实现资源共享的过程中，会涉及到利益分配、资源配置等大量技术和非技术问题，这些问题的解决与否，直接影响到各方面企业对云制造平台的接受程度，关乎着云制造平台的理论建设与实际应用。因此，本文重点研究云制造环境下大型复杂制造领域资源提供企业（各级零部件供应商）和资源需求企业（生产企业）之间的制造资源共享作用关系，分析不同的因素对制造资源共享的影响程度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 演化博弈模型构建 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1模型相关变量",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "模型相关变量如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/813d5ef6ec4518543ecb10701cf9b54ed93a65a289d6a7bff1b597aa8d2b63ef.jpg",
+        "table_caption": [
+            "表1相关变量"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>变量名称</td><td>变量符号</td></tr><tr><td>信任程度系数</td><td>0 ；0 ∈(0.1)</td></tr><tr><td>激励系数</td><td>1 ；1∈(0,1)</td></tr><tr><td>云平台管理能力系数</td><td>a</td></tr><tr><td>RSP 和RSD企业渠道成</td><td>C，C²；C1>C2</td></tr><tr><td>本系数</td><td></td></tr><tr><td>信息化效益系数</td><td>1</td></tr><tr><td>技术损失风险系数</td><td>r2</td></tr><tr><td>惩罚成本系数 RSP 和RSD 企业可共享</td><td>T；T≥0</td></tr><tr><td>制造资源量</td><td>Q，Q；Q、Q>0</td></tr><tr><td>RSP和RSD企业资源协 同能力系数</td><td>u1，u2 ；u1、 u2 ∈(0,1)</td></tr><tr><td>RSP和RSD企业资源转</td><td></td></tr><tr><td>化能力系数</td><td>，Z； z ∈(0,1)</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2博弈模型构建假设 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）资源服务提供企业（RSP）主要提供零部件制造过程中用到的各种制造设备和物料资源等（硬制造资源），资源服务需求企业（RSD）主要提供零部件制造活动中所必需的各种软件工具、产品模型、专业知识以及过程数据等（软制造资源）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）某RSP企业甲和RSD企业乙均接入云平台，双方的策略空间均为制造资源共享和制造资源不共享。并且企业双方都是有限理性的，可以独立的采取策略。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c）云平台管理能力无限大，可以满足无限个RSP企业的进驻，并且两类企业的种群数量是均匀混合的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "d） $x$ 为RSP企业甲选择制造资源共享的概率（也可以理解为RSP企业群体中选择制造资源共享的比例，便于变量间的理解，后文不在赘述）， $_ { 1 - x }$ 为企业甲选择制造资源不共享的概率； $y$ 为 RSD 企业乙选择制造资源共享的概率， $_ { 1 - y }$ 为企业乙选择制造资源不共享的概率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e）当企业甲、乙均选择制造资源不共享时，企业甲的基本收益为 $\\pi _ { 1 }$ ，企业乙的基本收益为 $\\pi _ { 2 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "f）当企业甲选择制造资源共享，乙选择制造资源不共享，一方面由于企业甲提供的硬制造资源需要借助物联网和信息物理系统的识别和接入，才能转化为云平台的虚拟资源。因此，企业甲需要购买、升级或淘汰现有的物料感知设备和信息物理设备，建立起对接云平台的数据库和信息系统等，这必须要投入大量的渠道成本，将渠道成本记为： $P _ { 1 } ^ { C } = C _ { 1 } \\times \\left( \\theta \\times I \\times Q _ { 1 } \\right)$ ；另一方面企业甲由于生产、管理的信息化程度提高，其效益也会发生变化，这里我们将企业的信息化效益系数记为 $r _ { 1 }$ ，因此信息化效益为： $P _ { 1 } ^ { r } = r _ { 1 } \\times \\left( \\theta \\times I \\times Q _ { 1 } \\right)$ ，企业乙的基本收益仍为 $\\pi _ { 2 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "g）当企业甲选择制造资源不共享，企业乙选择制造资源共享，由于企业乙共享的是软制造资源，且企业本身的信息化程度较高，其提供的软制造资源不需要借助物联网和信息物理系统的识别和接入，因此所投入的要少于企业甲，将企业乙的渠道成本记为： $P _ { 2 } ^ { C } = C _ { 2 } \\times \\left( \\theta \\times I \\times Q _ { 2 } \\right)$ 。但是，由于企业乙共享的软制造资源主要是各种制造软件工具、产品模型、专业知识和过程数据等企业核心技术优势，一旦开放共享，企业将要承担技术损失风险，将企业乙的技术损失成本记为：$P _ { 2 } ^ { r } = r _ { 2 } \\times \\left( \\theta \\times I \\times Q _ { 2 } \\right)$ ，企业甲的收益仍为基本收益 $\\pi _ { 2 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "h)当企业甲和乙都选择制造资源共享策略，企业由于制造资源共享所带来的效益除了上文中的渠道成本、信息化效益以及技术损失成本外还有以下部分：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a）资源协同效益。企业双方在均接入云平台的情况下，由于资源共享的协同效益而创造的价值，这部分效益与企业自身信息化程度以及对共享资源的吸收能力有关。将企业甲的协同效益记为： $P _ { 1 } ^ { u } = u _ { 1 } \\pi _ { 1 }$ ，企业乙的协同效益为： $P _ { 2 } ^ { u } = u _ { 2 } \\pi _ { 2 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b）资源转化效益。是企业双方转化、整合共享制造资源并创造出新的价值所带来的效益，这部分收益与企业自身研发水平、创新能力直接相关。将转化效益系数记为，引入转化效益因子： $\\lambda - \\mathbf { k } ^ { \\mathrm { { z } } }$ 。云平台和资源转化所带来的转化效益因子是制造资源共享量 $k$ 的非线性函数，随着实际可共享制造资源量 $k$ 的增加，转化效益因子的结果相应的增加，但是当可共享制造资源量增加到一定程度时，资源转所带来的期望效益因子将趋于饱和点 $\\lambda$ ，也就是达到理论上的最大值。将企业甲的资源转化效益记为： $P _ { 1 } ^ { z } = \\lambda - ( \\theta \\times I \\times Q _ { 1 } ) ^ { z _ { 1 } }$ ，企业乙的资源转化效益记为： $P _ { 2 } ^ { z } = \\lambda - ( \\theta \\times I \\times Q _ { 2 } ) ^ { z _ { 2 } }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c）边际规模效益。定义云平台的管理能力系数 $\\alpha$ 为云平台能够承受的RSP企业的数量。由于进驻企业的不断增加，制造资源共享的种类也会增加，云制造平台因此形成RSP企业规模效益，将一个RSP企业进驻云制造平台能够为所有RSP企业群体带来的规模效益记为 $\\beta$ ；根据规模效益和边际效益理论[17-18]可知，当进驻云平台的RSP 企业数量不多，云平台管理能力较强时，云平台的规模效益递增较快；当进驻云平台的RSP企业数量较大，甚至超出云平台管理能力范围之内时，他们能够带来的边际规模效益越来越少甚至是负边际效益。通过以上定义和分析可知，RSP和RSD企业均选择共享制造资源时，RSP企业甲的边际规模效益可表示为共享概率的函数：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( x ) = \\alpha ^ { 2 } \\beta { \\big ( } 1 - x { \\big ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d）社会额外效益。云制造平台是一个社会网络，所有的制造资源集中在虚拟资源云池中，企业由于制造资源共享带来了社会关系的提升，形成社会资本的增加，这种社会关系或者人脉关系也是企业双方制造资源共享收益的一部分，将社会额外效益记为 $\\pi _ { 0 }$ ， $\\pi _ { 0 } \\geq 0$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e）惩罚成本。企业双方在制造资源共享过程中，通过云平台以契约或协议形式约定对没有遵循共享契约的云平台企业，采取相应的惩罚措施，从而形成的惩罚成本。将企业甲的惩罚成本记为： $P _ { 1 } ^ { T } = T \\times \\left( Q _ { 1 } - \\theta { \\times } I \\times Q _ { 1 } \\right)$ ，企业乙的惩罚成本记为：$P _ { 2 } ^ { T } = T \\times \\left( Q _ { 2 } - \\theta { \\times } I \\times Q _ { 2 } \\right) \\mathrm { { _ { c } } }$ （24号",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3演化博弈模型构建 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "标准的均匀混合演化博弈理论要求种群中个体数量无限大，且均匀混合（种群中任意两个个体等可能的进行博弈），并且不考虑决策环境中的不确定因素[19]。因此根据上文几种情况的变量假设，得出云制造环境下两类对称型企业进行制造资源共享的博弈收益矩阵，如表2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/981d945b7e9a1f2b44cf62c9fcace23299ba1be747c544ce497eb07aaf1a383a.jpg",
+        "table_caption": [
+            "表2云制造环境下对称型企业制造资源共享演化博弈收益矩阵"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"2\">RSD类企业乙</td></tr><tr><td>共享（y）</td><td>不共享（1-y）</td></tr><tr><td rowspan=\"2\">共享（x） RSP 类企业甲</td><td>π+P'-PC+P\"+P²+f(x)-PT+πO，</td><td>π+P-PC，π2</td></tr><tr><td>π-P-P+P+P²-P+π0</td><td></td></tr><tr><td>不共享（1-x）</td><td>π，π-P-P</td><td>π，π</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RSP类企业甲选择资源共享和选择资源不共享的收益分别为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { E _ { x } = y [ \\pi _ { 1 } + P _ { 1 } ^ { r } - P _ { 1 } ^ { c } + P _ { 1 } ^ { u } + P _ { 1 } ^ { z } + } \\\\ { f \\left( x \\right) - P _ { 1 } ^ { T } + \\pi \\mathrm { { o } } ] + ( 1 - y ) \\big ( \\pi _ { 1 } + P _ { 1 } ^ { r } - P _ { 1 } ^ { c } \\big ) = } \\\\ { y [ u _ { 1 } \\pi _ { 1 } + \\lambda - ( \\theta I Q _ { 1 } ) ^ { z _ { 1 } } + \\alpha ^ { 2 } \\beta ( 1 - x ) - } \\\\ { T ( Q _ { 1 } - \\theta I Q _ { 1 } ) + \\pi \\mathrm { { o } } ] + \\theta I Q _ { 1 } ( r _ { 1 } - C _ { 1 } ) + \\pi _ { 1 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { 1 - x } = y \\pi _ { 1 } + { \\left( 1 - y \\right) } \\pi _ { 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因此，RSP类企业甲的期望平均收益为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { E } } = x E _ { x } + \\big ( 1 - x \\big ) E _ { 1 - x }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "同样，RSD类企业乙选择资源共享和资源不共享的收益分别为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { y } = x \\big ( \\pi _ { 2 } - P _ { 2 } ^ { C } - P _ { 2 } ^ { r } + P _ { 2 } ^ { u } + P _ { 2 } ^ { z } - P _ { 2 } ^ { T } + \\pi _ { 0 } \\big ) +\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\bigl ( 1 - x \\bigr ) \\bigl ( \\pi _ { 2 } - P _ { 2 } ^ { C } - P _ { 2 } ^ { r } \\bigr ) = x [ u _ { 2 } \\pi _ { 2 } + \\lambda - \\bigl ( \\theta I Q _ { 2 } \\bigr ) ^ { z _ { 2 } } -\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT ( Q _ { 2 } - \\theta I Q _ { 2 } ) + \\pi _ { 0 } ] - \\theta I Q _ { 2 } ( r _ { 2 } + C _ { 2 } ) + \\pi _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { 1 - y } = x \\pi _ { 2 } + ( 1 - x ) \\pi _ { 2 } = \\pi _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "RSD类企业乙的期望平均收益为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { P } } = y P _ { y } + \\bigl ( 1 - y \\bigr ) P _ { 1 - y }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据Malthusian动态方程，策略的变化率等于其适应度[20],所以两类企业演化博弈的基因复制动态过程的微分方程分别为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l } { \\dot { x } = x \\big ( E _ { X } - \\overline { { E } } \\big ) } \\\\ { = x \\big ( 1 - x \\big ) \\Bigg \\{ y \\Big [ \\lambda - \\big ( \\theta I Q _ { 1 } \\big ) ^ { z _ { 1 } } + \\alpha ^ { 2 } \\beta \\big ( 1 - x \\big ) - T \\big ( Q _ { 1 } - \\theta I Q _ { 1 } \\big ) + u _ { 1 } \\pi _ { 1 } + \\pi _ { 0 } \\Big ] \\downarrow \\Bigg \\} } \\\\ { + \\theta I Q _ { 1 } \\big ( r _ { 1 } - C _ { 1 } \\big ) } \\\\ { \\dot { y } = y \\big ( P _ { y } - \\overline { { P } } \\big ) } \\\\ { = y \\big ( 1 - y \\big ) \\Big \\{ x \\Big [ \\lambda - \\big ( \\theta I Q _ { 2 } \\big ) ^ { z _ { 2 } } - T \\big ( Q _ { 2 } - \\theta I Q _ { 2 } \\big ) + u _ { 2 } \\pi _ { 2 } + \\pi _ { 0 } \\Big ] - \\theta I Q _ { 2 } \\big ( r _ { 2 } + C _ { 2 } \\big ) \\Big \\} } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "令 ${ \\dot { x } } = 0$ ，可以得到： $x _ { 1 } { } ^ { * } = 0 \\quad , \\quad x _ { 2 } { } ^ { * } = 1$ 或${ y _ { 3 } } ^ { * } = \\frac { \\theta I Q _ { 1 } ( C _ { 1 } - r _ { 1 } ) } { \\lambda - \\left( \\theta I Q _ { 1 } \\right) ^ { z _ { 1 } } - T ( Q _ { 1 } - \\theta I Q _ { 1 } ) + \\alpha ^ { 2 } \\beta ( 1 - x ) + u _ { 1 } \\pi _ { 1 } + \\pi _ { 0 } }$ （204 $\\dot { y } = 0$ ，可以得到： $y _ { 1 } { } ^ { * } = 0 \\quad , \\quad \\quad y _ { 2 } { } ^ { * } = 1$ 或${ x _ { 3 } } ^ { * } \\mathrm { = } \\frac { { \\theta I Q _ { 2 } } \\big ( C _ { 2 } + r _ { 2 } \\big ) } { \\lambda - \\big ( { \\theta I Q _ { 2 } } \\big ) ^ { z _ { 2 } } - T \\big ( { Q _ { 2 } } - { \\theta I Q _ { 2 } } \\big ) + { u _ { 2 } } \\pi _ { 2 } + \\pi _ { 0 } }$ 。因此产生演化博弈动态过程的五个均衡点分别为：(0.0)、(0,1)、 $\\left( { { x } _ { 3 } } ^ { * } , { { y } _ { 3 } } ^ { * } \\right)$ 、(1,0)和 $\\left( 1 , 1 \\right)$ 。当 $x = x _ { 1 } \\ast$ 、 $x = x _ { 2 } \\ast$ 或 ${ { y } } = { { y } _ { 3 } } ^ { * }$ 时，RSP 类企业甲选择制造资源共享策略的概率是稳定的；当 ${ \\boldsymbol { y } } = { \\boldsymbol { y } } _ { 1 } *$ 、 $y = { y _ { 2 } } ^ { * }$ 或${ \\boldsymbol { x } } = { \\boldsymbol { x } } _ { 3 } *$ 时，RSD 类企业选择制造资源共享策略的概率是稳定的。然而基因复制动态方程的所求解的均衡点并不一定就是系统演化的稳定策略（ESS），系统演化的稳定策略可以根据Friedman 提出的雅克比矩阵的稳定性判定方法[21进行局部稳定性分析得到。根据式（7）对 $\\dot { x }$ 和 $\\dot { y }$ 分别关于 $x$ 和 $y$ 求偏导得如下雅克比矩阵（记为J）：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ = \\left[ { \\frac { \\hat { \\sigma } { \\dot { x } } } { \\hat { \\sigma } x } } \\quad { \\frac { \\hat { \\sigma } { \\dot { x } } } { \\hat { \\sigma } y } } \\right] = \\left[ { s _ { 1 1 } \\quad s _ { 1 2 } } \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\left\\{ 0 \\leq \\theta I Q _ { 2 } \\big ( C _ { 2 } + r _ { 2 } \\big ) \\leq \\lambda - \\big ( \\theta I Q _ { 2 } \\big ) ^ { z _ { 2 } } - T \\big ( Q _ { 2 } - \\theta I Q _ { 2 } \\big ) + u _ { 2 } \\pi _ { 2 } + \\pi _ { 0 } \\leq 1 \\right. } \\\\ & { \\left. \\vphantom { \\sum _ { a } } 0 \\leq \\theta I Q _ { 1 } \\big ( C _ { 1 } - r _ { 1 } \\big ) \\leq \\lambda - \\big ( \\theta I Q _ { 1 } \\big ) ^ { z _ { 1 } } - T \\big ( Q _ { 1 } - \\theta I Q _ { 1 } \\big ) + \\alpha ^ { 2 } \\beta \\big ( 1 - x \\big ) + u _ { 1 } \\pi _ { 1 } + \\pi _ { 0 } \\leq 1 \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因为 $ { \\boldsymbol { { x } } } _ {  { \\boldsymbol { { \\cdot } } }  { \\boldsymbol { { y } } } }$ 表示博弈双方一种策略的选择概率，因此有$0 \\leq x _ { 3 } ^ { * } \\leq 1$ 、 $0 \\leq { y _ { 3 } } ^ { * } \\leq 1$ ，根据此可得约束条件如式（8）所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "进而能够得出关于5个均衡点的局部稳定性分析结果如表2所示，通过稳定性分析结果可以看出5个均衡点中有2个演化稳定策略，分别为满足 $D e t J > 0$ 且 $T r J < 0$ 条件的点 $O ( 0 , 0 )$ 和$C ( 1 , 1 )$ ，分别对应演化稳定策略组合（不共享，不共享）和（共享,共享)，点 $A { \\big ( } 0 , 1 { \\big ) }$ 和 $B \\big ( 1 , 0 \\big )$ 为非稳定点，点 $D \\big ( x _ { 3 } ^ { * } , y _ { 3 } ^ { * } \\big )$ 为鞍点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过分析可以得知该动态博弈过程最终会收敛于两类企业都选择不共享的策略均衡点O和都选择共享的策略均衡点C，至于鞍点向哪个方向移动则受到初始共享概率、平台管理能力系数、资源转化能力系数、资源协同能力系数、信息化效益系数、技术损失风险系数、渠道成本系数、惩罚成本系数、信任程度系数以及激励系数等影响因素的共同作用，博弈的动态变",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns _ { 1 1 } = \\left( 1 - 2 x \\right) \\left\\{ \\begin{array} { l } { { y \\Big [ u _ { 1 } \\pi _ { 1 } + \\lambda - \\big ( \\theta I Q _ { 1 } \\big ) ^ { \\sharp _ { 1 } } + \\alpha ^ { 2 } \\beta \\big ( 1 - x \\big ) - T \\big ( Q _ { 1 } - \\theta I Q _ { 1 } \\big ) + \\pi \\circ \\Big ] } } \\\\ { { + \\theta I Q _ { 1 } \\big ( r _ { 1 } - C _ { 1 } \\big ) } } \\end{array} \\right\\} - x y \\big ( 1 - x \\big ) \\alpha ^ { 2 } \\beta\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { s _ { 1 2 } = x \\bigl ( 1 - x \\bigr ) \\bigl \\vert u _ { 1 } \\pi _ { 1 } + \\lambda - \\bigl ( \\theta I Q _ { 1 } \\bigr ) ^ { z _ { 1 } } + \\alpha ^ { 2 } \\beta \\bigl ( 1 - x \\bigr ) - T \\bigl ( Q _ { 1 } - \\theta Q _ { 1 } \\bigr ) + \\pi \\circ \\bigr ] } } \\\\ { { s _ { 2 1 } = y \\bigl ( 1 - y \\bigr ) \\bigl ( u _ { 2 } \\pi _ { 2 } + \\lambda - \\bigl ( \\theta I Q _ { 2 } \\bigr ) ^ { z _ { 2 } } - T \\bigl ( Q _ { 2 } - \\theta I Q _ { 2 } \\bigr ) + \\pi _ { 0 } \\bigr ) } } \\\\ { { s _ { 2 2 } = \\bigl ( 1 - 2 y \\bigr ) \\bigl \\{ x \\bigl \\vert u _ { 2 } \\pi _ { 2 } + \\lambda - \\bigl ( \\theta I Q _ { 2 } \\bigr ) ^ { z _ { 2 } } - T \\bigl ( Q _ { 2 } - \\theta I Q _ { 2 } \\bigr ) + \\pi _ { 0 } \\bigr \\} - \\theta I Q _ { 2 } \\bigl ( r _ { 2 } + C _ { 2 } \\bigr ) \\bigr \\} } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化过程如图1所示。为了更好的反映各个影响因素对系统稳定性的动态影响，下文将在演化博弈分析的基础上建立系统动力学模型，对比分析不同的参数变化对演化结果的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ee177f05f3c8353a7b97d184512edab60bb91ae463ccf2c24ad315546073c5bf.jpg",
+        "table_caption": [
+            "表3系统均衡点稳定性分析结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>均衡点</td><td>DetJ （符号）</td><td>TrJ （符号）</td><td></td><td>结果</td></tr><tr><td>0(0.0)</td><td>+</td><td></td><td>-</td><td>ESS</td></tr><tr><td>A(0,1)</td><td>+</td><td></td><td>+</td><td>非稳定点</td></tr><tr><td>B(1,0)</td><td>+</td><td></td><td>+</td><td>非稳定点</td></tr><tr><td>C(1,1)</td><td>+</td><td></td><td>-</td><td>ESS</td></tr><tr><td>D(x，y)</td><td></td><td></td><td>0</td><td>鞍点</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/48bb4089669e5e459ff869d98ca47b0d3a20b6d3c0ba5aa9f0ff7217a425f42d.jpg",
+        "img_caption": [
+            "图1制造资源共享演化博弈相位图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 演化博弈SD 模型及实例仿真",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 SD 模型构建",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于Vensim 软件建立云制造环境下对称型企业制造资源共享的演化博弈 SD 模型。其结构如图2所示。SD 模型由4个水平变量、2个速率变量以及19个辅助变量构成，其中两类企业的共享概率速率变量分别由VarA和VarB表示，其取值公式是根据上文的基因复制动态过程的微分方程得到的，其他变量名称与上述演化博弈模型大致相同。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "单位规模效益β甲类企业资甲类企业源转化能力 可供享资系数z1 源协同能力 甲类企业资甲类企业基 源Q1 系数1甲类企业本收益π1 信息化效益系数ra1 甲业共共享概率变化率VarA21平台管理能力系数期望效益因激励系数企业惩罚成本系数T 子饱和点社会额外收益0信任程度系数系数C1乙类企业不 乙类企业共共享概率1- 品 享概率y共享概率变化率VarB乙类企业 乙类企业技可享 乙类企业资术损失风险 源协同能力 系数rb",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2实例仿真实验场景",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1）资源类型描述",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据上海某汽车集团及其零部件供应商的制造资源情况，本次实例仿真涉及的制造资源主要为硬制造资源和软制造资源两大类。硬制造资源主要包括产品生产活动中所需要的制造设备（加工中心、数控机床、实验设备、仿真设备等制造活动中必需的专用设备）、计算设备（运算器、储存设备、I/O终端等各种计算系统硬件设施）以及产品所需物料（成品、半成品、原材料）等；软制造资源主要指生产活动中所需的专业软件工具（AutoCAD、Matlab、ProE等各种大型专业软件）、制造模型（用于机械、热力、动力、控制学分析的各种经验模型）、领域知识(制造活动各个环节中所用到的多学科、多领域知识）和过程数据（以往制造活动中积累的大量过程数据）等。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2）用户需求描述",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "制造资源提供企业通过借助物联网（Internetof Things）、信息物理融合系统（CyberPhysicalSystem）、计算系统虚拟化（Virtualization）实现制造资源的互联、识别、感知以及信息传输，从而实现物理制造资源的虚拟化，完成虚拟制造资源云池的构建。制造资源需求企业根据自身的需求在云平台上发布单一制造资源需求任务或者组合资源需求任务。而云平台运营方则主要承担制造资源配置服务过程中可能出现的风险，同时通过约束制造资源提供企业来保证制造资源配置服务顺利进行。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3 实例仿真分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据上海某汽车集团及其零部件供应商的财务报表、绩效考核以及信息化工程诊断模型的中的需求分析、成本预算、风险控制、综合诊断、质量跟踪等途径获得了有效的参数初值：$\\alpha = 0 . 1 , \\quad Q _ { 1 } = 1 , \\quad z _ { 1 } = 0 . 2 , u _ { 1 } = 0 . 2 , \\beta = 0 . 3 , r _ { a } = 0 . 1 5$ ，$C _ { 1 } = 0 . 6 ~ , ~ \\pi _ { 1 } = 1 . 2 ~ , ~ Q _ { 2 } = 0 . 8 ~ , ~ z _ { 2 } = 0 . 2 ~ , ~ u _ { 2 } = 0 . 5 ~ , ~ r _ { b } = 0 . 4$ ，$C _ { 2 } = 0 . 2$ ， $\\textstyle \\pi _ { 2 } = 1$ ， $\\lambda = 1$ ， $\\theta = 0 . 3 5$ ， $I = 0 . 3$ ， $T = 0 . 3$ ， $\\pi _ { 0 } = 0 . 3$ 0SD 模型初始值设为仿真起始时间initialtime ${ \\mathfrak { \\sigma } } _ { : = 0 }$ ，终止时间finaltime $\\scriptstyle : = 1 0 0$ ，步长time step $_ { = 0 . 2 5 }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文的仿真过程是在固定大部分变量初值的情况下，分别从初始共享概率、平台管理能力系数、资源转化能力系数、资源协同能力系数、信息化效益系数、技术损失风险系数、渠道成本系数、惩罚成本系数、信任程度系数以及激励系数十个方面，改变参数初值，对比分析不同的参数变化对系统演化结果的影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1）初始共享概率对演化结果的影响 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "乙类企业初始共享概率值固定在 $y = 0 . 2$ 的情况下，分别将甲类企业初始共享概率值设置为0.1、0.4、0.7、0.9，对比观察两类企业选择共享策略的变化，仿真结果如图3和4所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过仿真结果可以得出，当乙类企业的初始共享概率值固定时，甲类企业的共享概率的演化趋势受到其初始共享概率值影响较为显著，呈正相关的关系。即当甲类企业的初始共享概率值较大时，其共享概率收敛至1的速度也相对较快。与此同时，乙类企业的共享概率也与甲类企业的初始共享概率值呈正相关的关系，当甲类企业的初始共享概率值较大时，乙类企业的共享概率值收敛至1的速度较快，反之较慢。根据演化博弈论种群内单个企业选择制造资源共享的概率和该种群内选择制造资源共享的企业比例是相同的，因此，企业是否选择共享策略受到该行业内多数企业的参与度影响，特别的，当行业内的领军企业逐渐进驻云制造平台进行制造资源共享，其他企业便会纷纷效仿使用云制造平台形成行业规模效应。同理，将甲类企业初始共享概率值固定，改变乙类企业初始共享概率值，也会出现类似现象，此处省略其仿真过程。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9de4fe409c6c048daabc38af2d40c4dac8cd9308fedc06fe78ae56069081d7fb.jpg",
+        "img_caption": [
+            "图2制造资源共享演化博弈SD模型",
+            "图3乙类企业共享概率受初值 $\\textbf { x }$ 的变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/dc60af3c07520c5dad99eff544162eeede4849672d7be915c0a5dd4f6d3bc06e.jpg",
+        "img_caption": [
+            "图4甲类企业共享概率受初值 $\\textbf { x }$ 的变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2）平台管理能力系数对演化结果的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在乙类企业共享概率初始值固定为0.2的情况下，分别设置平台管理能力系数值为0.1、0.4、0.7、0.9，对比分析在甲类企业共享概率初始值为 $0 . 1 , \\ 0 . 4 , \\ 0 . 7 , \\ 0 . 9$ 情况下的两类企业选择共享策略的变化（由于仿真结果相近，本文只给出平台管理能力系数等于0.1和0.7两种情况的仿真结果见图5和图6）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过仿真结果可以得出甲类企业的共享概率演化趋势受到平台管理能力系数的影响较为显著，当 $\\alpha$ 值较大时，甲类企业的共享概率收敛到1的速度较快，反之则慢。但是，当甲类企业初始共享概率越来越大时，其共享概率演化趋势受平台管理能力系数的影响越来越小。因此，云平台管理能力系数对企业制造资源共享策略选择具有显著的正向影响作用，当云平台管理能力系数较大时，企业会更倾向于选择使用云平台实现共享策略。同理，乙类企业共享概率受平台管理能力系数影响也会出现类似现象，本文省略其仿真过程。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/bf87010ef3ff72f71f0b1b4eff9c6626748ed236b51879940d7e3d8d004ab167.jpg",
+        "img_caption": [
+            "图5 $\\scriptstyle \\mathbf { x } = 1 0 \\%$ 时 $\\alpha$ 对演化结果的影响 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "园Graph for甲类企业共享薇率× □区甲类企业共享概率x1120.75 1-2340.5 年120.2500 2 4 6 8 10 12_14161820 2224262830Time (Month)甲类企业共享概率x：x=70%,a=0'9 =甲类企业共享概率x：x=70%,a=0'7 2甲类企业共享概率x：x=70%.a=04 于 + 3甲类企业共享概率x:x=70%,α=0'1",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3）资源转化能力系数的变化对演化结果的影响 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在乙类企业共享概率初始值固定为0.2的情况下，将甲类企业资源转化能力系数分别设置为0.5和0.9，得到演化结果如图7、8所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过与图3的对比分析发现，当甲类企业资源转化能力系数逐渐提高时，其共享概率收敛到1的速度呈加快趋势，也就是说资源转化能力系数是促进企业间合作的重要保证。同理，乙类企业共享概率受资源转化能力系数的影响也会出现类似现象，在此省略其仿真过程。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9955ed46d913235333e581db453ece6fe6b9ef993b700f8ef89429420b54fa9a.jpg",
+        "img_caption": [
+            "图7 $z _ { 1 } = 0 . 5$ 时甲类企业共享概率演化结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c1288c9ae72a857c559597999690b5fe1f8649b1f5d5d44de86025b9de687da.jpg",
+        "img_caption": [
+            "图8 $z _ { 1 } = 0 . 8$ 时甲类企业共享概率演化结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4）资源协同能力系数的变化对演化结果的影响 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在乙类企业共享概率初始值固定为0.2的情况下，将甲类企业资源协同能力系数分别设置为0.4和0.7，得到演化结果如图9、10所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过与图3对比分析发现，当甲类资源协同能力系数逐渐提高时，其共享概率收敛到1的速度呈加快趋势，这说明资源协同能力系数与共享概率演化趋势呈正相关关系。同理，乙类企业共享概率受资源协同能力系数的影响也会出现类似现象，在此省略其仿真过程。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8de62624640ec71e7a623a78eb99a112474c568175e3d5b161c7a3700e71ccf0.jpg",
+        "img_caption": [
+            "图9 $u _ { 1 } = 0 . 4$ 时甲类企业共享概率演化结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3d890b11662dde0cdf2c6fcf4669995cc4752f410c0151f1bb0f858b45e722fc.jpg",
+        "img_caption": [
+            "图6 $x { = } 7 0 \\%$ 时对演化结果的影响 ",
+            "图10 $u _ { 1 } = 0 . 7$ 时甲类企业共享概率演化结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5）信息化效益系数的变化对演化结果的影响 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在乙类企业共享概率初始值固定为0.2的情况下，将甲类企业信息化效益系数分别设置为0.45和0.85，得到演化结果如",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图11、12所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "此时甲类企业共享概率向1的收敛速度与图3对比明显呈加快趋势，由此可以发现企业推进信息化建设，不但能够提高自身生产、服务和管理的效率，同时也能促进企业间的合作。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "园Graph for甲类企业共享概率×甲类企业共享概率x2 412341234120.750.50.2500 10 20 30 40 50 60 70 80 90 100Time (Month)甲类企业共享概率x：x=90%,ra=0'45甲类企业共享概率xx=70%.ra=045甲类企业共享概率x：x=40%,ra=0'45 于甲类企业共享概率x:x=10%,ra=0'45",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Graph for甲类企业共享摄率× 区甲类企业共享概率x412341234120.750.50.250。 10 20 30 40 50 60 70 80 90 100Time (Month)甲类企业共享概率x：x=90%,ra=0'85甲类企业共享概率x：x=70%,ra=0'85甲类企业共享概率x：x=40%，ra=0'85 3甲类企业共享概率x:x=10%,ra=0'85",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6）技术损失风险系数对演化结果的影响 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在甲类企业共享概率初始值固定为0.3的情况下，将乙类企业初始共享概率分别设置为0.1、0.4、0.7、0.9，分别观察当乙类企业技术损失风险系数分别为0.4和0.9时乙类企业共享概率演化结果，得到仿真结果如图13、14所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "比较图13和图14，明显发现技术损失风险系数的提升，大大的降低了乙类企业共享概率收敛到1的速度，更为突出的变化是，图14中，当乙类企业初始共享概率值为0.1时，乙类企业初始共享概率竟然收敛到0。这说明，乙类企业选择共享策略的概率会随技术损失风险系数的提高而降低，当这一系数增加到一定程度时，企业毫无疑问会选择制造资源不共享策略。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/71430b7bf7a1d8eca4857396852e655c6c2fcb1511e04d1d3e46a365a33c190e.jpg",
+        "img_caption": [
+            "图12 $r _ { 1 } = 0 . 8 5$ 时甲类企业共享概率演化结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/0aabf93b0bb9e3e8f2aa6d8db899982df529a1cbb2cadb934d85e716ea4c18cf.jpg",
+        "img_caption": [
+            "图11 $r _ { 1 } = 0 . 4 5$ 时甲类企业共享概率演化结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/1247ddf9c9e0f65afe4ffcaf73962f9d268f7fa121dd62f0289ce1d2f2e60b8f.jpg",
+        "img_caption": [
+            "图13 $r _ { 1 } = 0 . 4$ 时乙类企业共享概率演化结果",
+            "图14 $r _ { 1 } = 0 . 8$ 时乙类企业共享概率演化结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "7）渠道成本系数对演化结果的影响 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在乙类企业共享概率初始值固定为0.2的情况下，将甲类企业渠道成本系数分别设置为0.6和0.9，得到演化结果如图",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "15、16所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "比较图15和图16，显然当甲类企业渠道成本提高时，其共享概率收敛到1的概率减小且减小速度放缓，特别地当甲类企业渠道成本系数为0.8或1时，共享概率初值为0.1的甲类企业最终会收敛到0，也就是说甲类企业在渠道成本过高的情况下会选择制造资源不共享的策略。因此，如果企业进驻云平台所耗费的成本远远超过其带来的收益，那么再高级的制造技术也不会让企业转变生产模式，所以应该把低成本高效益打造成云平台的绝对优势。同理，乙类企业共享概率受渠道成本的影响也会出现类似现象，此处省略其仿真过程。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/55e4cd124918d7ee468368b3e7ebf98ec46d282d3060eca393993a80c3b3d9f4.jpg",
+        "img_caption": [
+            "图15 $C _ { 1 } { = } 0 . 8$ 时甲类企业共享概率演化结果",
+            "图16 $C _ { 1 } { = } 1$ 时甲类企业共享概率演化结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "8）惩罚成本系数对演化结果的影响 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在乙类企业共享概率初始值固定为0.2的情况下，将甲类企业惩罚成本系数分别置为0.4和0.6，得到演化结果如图17、18所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过与图3对比分析不难发现，当惩罚成本系数逐渐提高时，甲类企业共享概率收敛到1的概率减小且呈放缓趋势，特别地，当惩罚成本系数提高到一定程度时，如文中设置的初值为0.6时，甲类企业不论共享概率初值为多少最终全部会收敛到0，这说明甲类企业在惩罚成本系数过高的前提下会选择放弃进行制造资源共享。但是在共享策略的演化过程中，一些企业往往会选择共享部分价值不高、非核心的制造资源，在省掉渠道成本、规避技术损失风险的同时还可以获得云平台的共享制造资源，为了刺激企业进行核心的制造资源共享，增加这种搭便车行为的成本，必须设置惩罚机制，若惩罚成本系数过低，达不到促进企业选择制造资源共享的目标，而惩罚成本系数过高必然会增加企业的心理风险成本，使得企业放弃进行制造资源共享，因此必须合理的设置惩罚成本系数。同理，乙类企业共享概率受惩罚成本的影响也会出现类似现象，此处省略其仿真过程。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c7fc14d631b6ef30dc974b8a19d68dc02ffcd3dd29f894f7b6025df07466a08.jpg",
+        "img_caption": [
+            "图17 $\\scriptstyle \\mathrm { T = } 0 . 4$ 时甲类企业共享概率演化结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/287bf954b13d8adc0631481bd5060abc0024880285afaac9d1cd9785588d060d.jpg",
+        "img_caption": [
+            "图18 $\\scriptstyle \\mathrm { T = } 0 . 6$ 时甲类企业共享概率演化结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "9）信任程度系数对演化结果的影响 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在乙类企业共享概率初始值固定为0.2的情况下，将信任程度系数分别设置为0.55和0.85，得到甲类企业资源共享演化结果如图19、20所示。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "通过与图3的对比分析发现，当初始共享概率初值越大，随着信任程度系数的增加，甲类企业共享概率收敛到1的概率增大，但是当初始共享概率初值很小时，比如当甲类企业初始共享概率固定在0.1和0.3时，信任程度系数与企业共享概率呈负相关的关系，甚至收敛到0。这说明当共享概率初值过低时，企业信任程度系数越高，反而会因为共享策略增加企业双方的猜疑，最终导致企业选择制造资源不共享策略。这说明当企业共享概率初值很高时，企业双方的充分互信有助于资源共享的继续开展，而平台的激励也会促进资源共享的深度发展；相反的，如果企业共享概率初值过低，过高的信任程度系数反而会让企业互相猜疑，增加对云制造平台的不信任，这势必影响到制造资源共享的继续开展，因此必须制定合理的信任程度系数。由于激励系数和信任程度系数在数学模型中属于同类型变量，因此仿真结果与此一致，本文省略仿真过程。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e387f099ee45c6c6e013069a094c6aa3fd9ae8f439fe57133028de7391a45fd7.jpg",
+        "img_caption": [
+            "图20 $\\scriptstyle \\theta = 0 . 8 5$ 时甲类企业共享概率演化结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/05f5729731cb3e9037a45f7bc6ff5ac1e67c5bd54e0bda2d10e775f9b4656dcf.jpg",
+        "img_caption": [
+            "图19 $\\scriptstyle \\theta = 0 . 5 5$ 时甲类企业共享概率演化结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文从演化博弈的角度，建立了云制造环境下对称型企业制造资源享策略模型，并基于系统动力学的方法，运用软件Vensim对系统进行动态模拟仿真，对比分析不同的因素对演化结果的影响，分别从云制造服务提供商和制造企业角度得出以下两点结论和建议：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "a)云平台管理能力系数对企业制造资源共享策略选择具有显著的正向影响作用，当云平台管理能力系数较大时，企业会更倾向于选择使用云平台实现共享策略，作为制造资源服务的提供者，云制造服务提供商应当加强管理能力方面的建设。另外，如果企业进驻云平台所耗费的成本远远超过其带来的收益，那么再高级的制造技术也不会让企业转变生产模式，因此应该把低渠道成本高信息化效益打造成云平台的绝对优势，而惩罚成本系数的设定是云环境下企业资源共享模式健康发展的重要保证，合理的设置惩罚成本系数，是云制造服务提供商需要考虑的重要问题。信息化效益系数和技术损失风险系数是企业共享策略演化博弈过程中的关键因素，云制造服务提供商必须在保证企业基本信息化效益的同时，对终端接入、系统运营、电子支付等协同业务方面加强风险控制，提高资源互通共享的可靠性，与此同时还必须整合企业制造资源类型，制定合理的激励系数，为云制造资源共享模式的稳定运行提供有效的保障。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "b)企业作为云平台上的经济主体，其群体共享比例在一定程度上会影响共享策略演化博弈过程，企业是否选择共享策略受到该行业内多数企业的参与度影响，特别的，当行业内的领军企业逐渐进驻云制造平台进行制造资源共享，其他企业便会纷纷效仿使用云制造平台形成行业规模效应；在一定程度上，信任程度系数也会影响共享策略演化的结果当企业共享概率初值很高时，企业双方的充分互信有助于资源共享的继续开展；资源协同能力系数和转化能力系数对企业在云制造环境下的信息化改善、创新研发能力提出了更高的要求，因此，企业必须要增强自身的信息化程度，增加在研发、创新方面的投入，从而促进资源共享的深度开展。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文基于演化博弈论中有限理性的前提，突破了经典博弈论的完全理性假说，更加科学、合理的解决实际问题。并且，将系统动力学方法与演化博弈理论结合研究云制造环境下对称型企业制造资源共享问题也是一种新的尝试。本文的研究是在一定的合理假设前提下进行的，虽然在现实中往往情况更为复杂，但其得出的研究结论对企业和云制造服务提供商的发展具有一定的理论指导意义，后续我们将进一步结合实际来优化模型，深化其现实意义。另外，本文未涉及到更加复杂的多方合作协同制造的情形，这也将是我们后续研究的重点。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]李伯虎，张霖，王时龙，等．云制造一面向服务的网络化制造新模式",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[J].计算机集成制造系统,2010,16(1):1-7.(LiBohu,Zhang Lin,Wang Shilong，etal.Cloud manufacturing:a computing and service-oriented manufacturing model [J]. Computer Integrated Manufacturing Systems. 2010, 16 (1): 1-7.)   \n[2]Tao Fei, Zhang Lin,Cheng Ying,etal. Cloud manufacturing: a computing and service-oriented manufacturing model[C]//Proc of the Institution of Mechanical Engineers Part B Journal of Enginering Manufacture.2011, 225 (225): 1969-1976.   \n[3]李伯虎，张霖，任磊，等.云制造典型特征、关键技术与运用[J].计算 机集成制造系统,2012,18(7):1345-1356.(LiBohu,Zhang Lin,Ren Lei, etal.Typical characteristic，technologiesand applications of cloud manufacturing [J]. Computer Integrated Manufacturing Systems.2012,18 (7): 1345-1356. )   \n[4]陶飞，张霖，郭华，等．云制造特征及云服务组合关键问题研究[J]. 计算机集成制造系统,2011,17(3): 477-486.(Tao Fei, Zhang Lin,Guo Hua,etal. Typical characteristic of cloud manufacturing and several key issuesofcloudservicescomposition[J].ComputerIntegrated Manufacturing Systems.2011,17 (3): 477-486.)   \n[5]Liu Ning,Li Xiaoping.A resource virtualization mechanism for cloud manufacturing systems [C]/ Proc of International IFIP Working Conference on Enterprise Interoperability. Berlin: Springer,2012: 46-59.   \n[6]Liu Ning,Li Xiaoping.A resource & capability virtualization method for cloud manufacturing systems [C]/ Proc of IEEE International Conference on Systems.2011: 1003-1008.   \n[7]Wu Dazhong,Thames L, Rosen D,et al. Towards a cloud-based design and manufacturing paradigm: looking backward,looking forward [C]// Proc of the ASME International Design Engineering Technical Conferences& Computers & Information in Engineering Conference.2012: 315-318.   \n[8] 金莹，张以文．云制造服务平台对虚拟组织合作的影响与博弈分析[J]. 预测,2013,32(3): 70-75.(Jin Ying,Zhang Yiwen.The impact and game analysis of cloud manufacturing service platform to the cooperation of virtual organization [J].Forecasting,2013,32(3): 70-75.)   \n[9]贾国柱，林爽．基于系统动力学的共享资源问题研究[J].工业工程, 2009,12 (6):19-22.(Jia Guozhu, Lin Shuang.A study on sharing resource competition based on system dynamics [J]. Industrial Engineering Journal, 2009,12 (6): 19-22. )   \n[10]李芳，江海涛，谢萍萍，等．基于序贯博弈的云制造平台共享效能研究 [J/OL].计算机应用研究，2019,36（6）．ttp://www.arocmag. com/article/02-2019-06-004.html(LiFang,Jiang Haitao,Xie Pingping,etal. Research on shared effectiveness of cloud manufacturing platform based on sequential game [J/OL]. Application Research of Computers,2019,36 (6). http://www.arocmag.com/article/02-2019-06-004. html) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[11]苏凯凯，徐文胜，李建勇．云制造环境下基于非合作博弈的资源优化配 置方法[J].计算机集成制造系统,2015,21(8):2228-2239.(Su Kaikai, Xu Wensheng,Li Jianyong. Manufcacturing resource allocation method based on non-cooperative game in cloud manufacturing [J].Computer Integrated Manufacturing Systems,2015,21(8): 2228-2239.) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[12]Argoneto P,Renna P. Supporting capacity sharing in the cloud manufacturing environment based on the game theory and fuzzy logic [J]. Enterprise Information Systems,2016,10 (2):193-210. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[13]Wu Lei, Yang Chengwei.A solution of manufacturing resources sharing in cloud computing environment [C]//Proc of International Conference on Cooperative Design.2010:247-252. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[14]任磊，张霖，张雅彬，等．云制造资源虚拟化研究[J].计算机集成制 造系统,2011,17 (3):511-518.(Ren Lei, Zhang Lin, Zhang Yabin,etal. Resource virtualization in cloud manufacturing [J]. Computer Integrated Manufacturing Systems,2011,17(3):511-518.) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[15]张霖，罗永亮，陶飞，等．制造云构建关键技术研究[J].计算机集成 制造系统,2010,16(11):2510-2520.(Zhang Lin,Luo Yongliang,Tao Fei, etal.Key technologies for the construction of manufacturing cloud. Computer Integrated Manufacturing Systems,2010,16(11):2510-2520.) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[16]程敏，刘彩清．基于系统动力学的拆迁行为演化博弈分析[J].运筹与 管理,2017,26 (2): 35-41.(Cheng Min,Liu Caiqing.Evolutionary game analysis of the behavioral options during demolition process based on system dynamics [J]. Operations Research and Management Science,2017, 26 (2): 35-41.) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[17]刘小军，刘澄，鲍新中．基于生产函数的行业规模效益实证分析[J] 统计与决策,2011(5): 99-101.(Liu Xiaojun,Liu Cheng,Bao Xinzhong. Empirical analysis of industry scale benefit based on production function [J]. Statistics and Decision,2011(5): 99-101.) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[18]史正涛，刘新有，黄英，等．基于边际效益递减原理的城市水安全评价 方法[J].水利学报,2010,39(5):545-552.(Shi Zhengtao,Liu Xinyou, Huang Ying,et al. Evaluation method of urban water safety based on the principle of diminishing marginal utility [J].Journal of Hydraulic Engineering,2010,39 (5): 545-552.) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[19]王先甲，全吉，刘伟兵．有限理性下的演化博弈与合作机制研究[J]. 系统工程理论与实践,2011,31(S1):82-93.(Wang Xianjia,Quan Ji,Liu Weibing.Study on evolutionary games and cooperation mechanism within the framework of bounded rationality [J].Systems Engineering-Theory and Practice,2011,31(S1): 82-93.) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[20] Galor O,Weil D.Population,technology and growth:from malthusian stagnation to the demographic transition and beyond [J].Proceedings of the American Economic Review,200o:806-828. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[21] Friedman D.Evolutionary games in economics [J]. Proceedings of the Econometrica,1991,59 (3): 637-666. ",
+        "page_idx": 8
+    }
+]

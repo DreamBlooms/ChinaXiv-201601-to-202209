@@ -1,0 +1,188 @@
+DOI:10.11931/guihaia.gxzw201812009
+
+# 两种砧木对樱桃番茄青枯病抗性及根际微生物数量的影响
+
+赵文宗，郑旭阳，张映卿，钟川，阳燕娟，于文进（广西大学 农学院，南宁 530004）
+
+摘要：青枯病是危害我国华南地区番茄生产最严重的土传性病害之一。为探讨在人工接种青枯菌条件下，两种不同砧木嫁接对番茄青枯病的抗性及根际微生物数量的影响。分别用砧木“番砧1号”和“茄砧21号”与樱桃番茄“粉贝贝”进行嫁接，采用稀释平板法对各嫁接组合的根际微生物进行分离。结果表明：采用抗病砧木嫁接显著提高了番茄的抗病性，降低了发病率和病情指数，延缓了发病时间。青枯菌在侵染植株过程中呈现动态变化，其数量从根系到地上茎部逐渐减少。砧穗嫁接植株、砧木自根嫁接植株根际基质和根系中的青枯菌数量降低，且地上茎部中的病原菌数量显著低于接穗自根嫁接植株。接种青枯菌后，各嫁接组合根际基质中的细菌、真菌和放线菌的数量随发病期的变化呈先增加后降低的趋势。采用抗病砧木嫁接总体上提高了植株根际微生物总量、细菌及放线菌的数量，降低了真菌的数量，改善了嫁接植株根际微环境，对降低番茄青枯病发病率具有重要作用。
+
+关键词：番茄，嫁接，青枯病，抗病性，根际微生物中图分类号：Q945 文献标志码：A
+
+# Effects of two rootstocks on bacterial wilt resistance and rhizospheric microorganisms of cherry tomato
+
+ZHAO Wenzong, ZHENG Xuyang, ZHANG Yingqing, ZHONG Chuan, YANG Yanjuan, YU Wenjin (CollegeofAgriculture,Guangxi University,Nanning53ooO4,China)
+
+Abstract: Bacterial wilt is one of the most serious soil-borne diseases endangering tomato production in South China. Under the condition of phytotron inoculation of Ralstonia solanacearum,the effects of two different rootstocks on the resistance to bacterial wilt and the quanantity of rhizospheric microorganisms were studied.“Fanzhen No.1",“Qiezhen No.21” and cherry tomato variety “Fen beibei” were used as rootstocks and scion，respectively. And the rhizospheric microorganisms were separated by dilution plate method.Results showed that: grafting significantly improved the resistance of tomato to bacterial wilt, reduced the incidence and disease index,and delayed the onset of disease.The quantity of Ralstonia solanacearum decreased gradually from root to shoot and showed dynamic changes during the infection process. Grafting with disease-resistant rootstocks significantly reduced the quantity of Ralstonia solanacearum in rhizospheric matrix and roots,and the quantity of pathogenic bacteria in shoot was significantly lower than that of scion-self-rooted grafted plants. After inoculation，the quanantities of bacteria, fungi and actinomycetes in rhizospheric matrix of all grafting combinations increased first and then decreased as the disease progresses.In general, grafting with disease-resistant rootstocks can increase the quantities of rhizospheric microorganisms, bacteria andactinomyceteswhile decrease the quantity of fungi， improve the rhizospheric microenvironment, and play an important role in reducing the incidence of tomato bacterial wilt.
+
+Key words: tomato, grafting, bacterial wilt, disease resistance, rhizospheric microorganisms
+
+青枯病是由茄科青枯雷尔氏菌（Ralstonia solanacearum，以下简称青枯菌）引起的一种土传性维管束病害，在热带和亚热带地区普遍发生，尤其在茄科作物上危害最为严重；青枯菌能随土壤、流水传播，可在无寄主条件下的土壤中长期存活，难以根治，常造成重大农业经济损失（Guo et al.,2004；刘富中等，2005；Wicker etal.,2007)。番茄青枯病的防治研究，有采用化学药剂防治和拮抗细菌、抗生素等生物防治方法的报道（严金平等，2004；黎起秦等，2006）。由于化学药剂的使用成本较高，其作用效果受土壤和气候条件影响，尚无长期有效的化学手段来防控青枯病；生物防治对青枯病的防控具有一定作用，但稳定性较差，在生产中的应用效果并不理想（林尤剑等，2005；肖烨等，2007）。选育抗病番茄品种也是防治青枯病的有效途径，但商品性好的抗病品种较少（汪国平等，2004）。目前，采用抗病砧木嫁接是防控青枯病的最有效措施，可显著提高番茄植株对青枯病的抗性，降低田间发病率（别之龙，2012；黄益鸿等，2013；王岳霞等，2018)。番茄生产上已有不少抗青枯病砧木推广应用于嫁接栽培，一般分为茄科番茄属和茄属两大类砧木（张余洋等，2010；莫豪葵等，2013)。
+
+嫁接提高番茄对青枯病的抗性已有较多报道，但多集中于抗病性鉴定、砧木种质筛选、栽培效果比较等方面，有关砧木提高抗病性的机理研究较少。研究表明，砧木根系中特有的筛板结构可抑制青枯菌的生长和增殖，嫁接能够诱导植株体内同工酶的结构和功能改组，使抗性基因得以表达（周宝利等，1998；王岳霞，2017)。植物对土传性病害的抗性表现与其根际微生物的多样性和群落结构密切相关（冯杭等，2010；Eisenhauer et al.,2012)。据报道，抗病番茄品种在接种青枯菌后其根际土壤中微生物总量显著高于感病品种(刘琼光等,2006)。尹玉玲等（2008）研究发现嫁接提高了茄子根际细菌和放线菌的数量，降低了真菌的数量，显著降低了黄萎病的发病率和病情指数。杨尚东等（2013）发现番茄青枯病罹病植株根际细菌和放线菌数量极显著减少，而真菌数量极显著增加。嫁接番茄对青枯病的抗性与根际微生物数量变化之间存在何种关系，目前极少有报道。本研究通过比较分析人工接种青枯菌条件下，青枯病病原菌在嫁接番茄体内和根际基质中的分布特征，不同发病时期根际微生物的动态变化特点，探讨嫁接番茄抗青枯病与根际微生物的数量关系，旨在从植物根际微环境的角度进一步揭示嫁接番茄抗青枯病的机理。
+
+# 1材料与方法
+
+# 1.1 供试材料
+
+砧木和接穗品种：嫁接砧木为广西大学农学院育成的高抗青枯病的番茄专用砧木“番砧1号”（No.1，简称番砧）和番茄、茄子通用砧木“茄砧 21号”（No.21，简称茄砧），接穗为高感青枯病樱桃番茄品种“粉贝贝”（Fb)。
+
+青枯病病原菌：从番茄青枯病发病植株上分离、纯化、保存，经平板培养和烟叶过敏反应鉴定具有较强致病力的菌株作为接种用病原菌。
+
+根际微生物培养基：分别选用牛肉膏蛋白陈（NA）培养基、马丁氏培养基、改良高氏1号培养基作为细菌、真菌、放线菌的分离培养基，选用2,3,5-氯化三苯基四氮唑（TTC)培养基作为青枯病菌的鉴别培养基。
+
+# 1.2试验方法
+
+1.2.1试验设计
+
+试验共设置5个嫁接组合，分别为砧穗嫁接（Fb/No.1、Fb/No.21）、砧木自根嫁接（No.1/No.1、No.21/No.21)，以接穗自根嫁接（Fb/Fb）作为对照（CK)。供试砧木用21孔穴盘（ $6 2 \ \mathrm { m m } \times 3 0 \ \mathrm { m m } \cdot$ ）育苗，接穗用72孔穴盘育苗，育苗基质按泥炭：椰糠 $\mathrel { \mathop : } = 1 { : } 1$ 配制。当砧木长至3片真叶时采用C型套管贴接法嫁接。
+
+嫁接成活后将一部分嫁接苗转至人工气候室中，待接穗长至4\~5片真叶时采用伤根灌注法接种青枯菌，浓度为 $5 { \times } 1 0 ^ { 8 } \mathrm { C F U { \cdot } m L } ^ { - 1 }$ ，每个嫁接组合40株，随机排列，3次重复；另一部分定植于青枯病自然病圃中，每个嫁接组合40 株，3次重复，用于观察和统计田间发病情况。
+
+# 1.2.2发病情况调查
+
+接种青枯菌后，每隔5d调查植株的发病情况，共观察 $3 0 \mathrm { d }$ ，确定发病周期并计算发病率、病情指数等。参照赖传雅（1998）、谢丙炎等（2010）的方法，根据植株发病情况将病情级别分为5级。0级：无症状；1级：1片叶萎蔫；2级：2\~3片叶萎蔫；3级：除顶部 2\~3片叶外，其他叶片均萎蔫；4级：全株叶片萎蔫，植株死亡。
+
+发病率 $( \% ) =$ （发病株数/接种总株数） $\times 1 0 0$ 病情指数 $\scriptstyle = \sum$ （病情级别 $\left| \times \right.$ 该病级株数）／（病情最高级别 $| \times \rrangle$ 接种总株数） $\times 1 0 0$
+
+# 1.2.3根际基质取样
+
+人工气候室接种条件下，在接种前（S1）、接种后发病初期（S2）、发病高峰期（S3）和发病末期（S4）4个时期，采用抖根法收集植株根际基质，用于分析根际微生物。各嫁接组合随机取10株，连续取3次。先将 $1 \mathrm { c m }$ 深的表面基质除去，再把全部根系挖出，轻轻抖落多余基质，用干净毛刷取距根表 $4 \ \mathrm { m m }$ 内基质作为根际基质（申建波等，2011)。根际基质样品过10目筛后装于 $5 0 ~ \mathrm { m L }$ 无菌离心管中，置于 ${ \bf \nabla } \cdot 2 0 { \bf \nabla } ^ { \circ } { \bf C } .$ 冰箱中保存。
+
+# 1.2.4嫁接植株各部位取样
+
+先用清水洗掉植株根系附着的杂质，然后分别用去离子水和无菌水将植株冲洗干净，用灭菌纱布拭干。取植株根系，然后取距离植株嫁接口上、下 $1 \mathrm { c m }$ 处茎部分别作为接穗茎、砧木茎，每部位各取 $1 0 \mathrm { g }$ 。植物样品密封保存于- $2 0 { } ^ { \circ } \mathrm { C }$ 冰箱中。
+
+# 1.2.5微生物分离计数
+
+根际基质悬浮液制备：取 $\boldsymbol { 1 0 } \mathrm { \ : g \ : }$ 根际基质样品，放入加有 $9 0 ~ \mathrm { m L }$ 无菌水的锥形瓶中，密封后置于水平恒温摇床上（ $3 0 ^ { \circ } \mathrm { C }$ ， $2 0 0 \mathrm { r } { \cdot } \mathrm { m i n } ^ { - 1 } ,$ ）振荡 $3 0 \mathrm { m i n }$ ，使基质样品在水中均匀分散稀释为 ${ { 1 0 } ^ { - 1 } }$ 的悬浮液。取 ${ { 1 0 } ^ { - 1 } }$ 的悬浮液 $1 ~ \mathrm { m L }$ 加入到装有 $9 ~ \mathrm { m L }$ 无菌水的试管中，振荡摇匀，即得稀释度 ${ { 1 0 } ^ { - 2 } }$ 的悬浮液，按此方法进行梯度稀释。
+
+植物样品稀释液制备：取称好的样品 $\mathrm { 1 0 ~ g }$ ，经表面消毒（ $70 \%$ 酒精消毒 $3 0 \mathrm { ~ s ~ }$ ， $1 \%$ 次氯酸钠消毒 $1 5 \ \mathrm { m i n }$ ，无菌水漂洗3次）后剪碎研磨，加入 $9 0 ~ \mathrm { m L }$ 无菌水，然后按上述方法进行梯度稀释。
+
+采用稀释平板法分离根际微生物和植株体内青枯菌。取稀释至 ${ { 1 0 } ^ { - 3 } }$ 、 ${ 1 0 } ^ { - 4 }$ 、 ${ { 1 0 } ^ { - 5 } }$ 的基质悬浮液和植物样品稀释液分别均匀涂布在不同分离培养基上，每个嫁接组合3皿，每皿涂$0 . 1 \mathrm { m L }$ ，密封后倒置，于 $2 8 ^ { \circ } \mathrm { C }$ 恒温条件下分别培养2d（细菌）、3d（真菌）、6d（放线菌），记录每皿中微生物菌落数，换算成每克基质中根际微生物菌落平均数，微生物总量为各种群菌落数量之和（林先贵，2010；姚华开，2018)。
+
+微生物菌落数（CFU· $\begin{array} { r } { \mathbf { g } ^ { - 1 } ) = } \end{array}$ （菌落平均数 $\times$ 稀释倍数 $\times 2 0 \times$ 鲜基质重）/干基质重植株根际和体内青枯菌数量参照刘琼光等（2006）的方法计算。青枯菌菌落数（CFU: $\begin{array} { r } { \textrm { g } ^ { - 1 } ) = } \end{array}$ （菌落平均数 $\times$ 稀释倍数）/[每皿涂样量 $\times$ 鲜基质（或鲜组织）重]1.2.6 数据处理
+
+应用MicrosoftExcel2010对试验数据进行处理，采用SPSS20.0统计软件进行方差分析和多重比较。
+
+# 2结果与分析
+
+# 2.1不同嫁接组合对青枯病的抗性表现
+
+由表1可知，在人工气候室接种青枯菌后 $3 0 \mathrm { ~ d ~ }$ ，砧穗嫁接植株（Fb/No.1、Fb/No.21）、砧木自根嫁接植株（No.1/No.1、No.21/No.21）的发病率和病情指数均显著低于接穗自根嫁接植株CK(Fb/Fb),供试的2个砧木均显著提高了番茄的抗病性，其中番砧嫁接植株(Fb/No.1)表现为高抗（HR)，茄砧嫁接植株（Fb/No.21）表现为抗病（R)。自然病圃条件下，茄砧嫁接植株表现为高抗(HR)，其余嫁接组合的抗病水平与人工气候室接种一致，各嫁接组合的枯死率和病情指数均比人工气候室接种低。砧穗嫁接植株较砧木自根嫁接植株的发病率和病情指数有所提高，说明砧穗互作对嫁接植株的抗病性产生了一定影响。此外，番砧嫁接植株的发病率、枯死率、病情指数均比茄砧嫁接植株稍低，抗病性稍强。
+
+# 表1人工气候室接种青枯菌和自然病圃条件下番茄嫁接植株的抗病表现
+
+Tab 1 Disease resistance of grafted tomato under the condition of phytotron inoculation of Ralstonia solanacearum and natural conditions   
+
+<html><body><table><tr><td rowspan="2">接穗/砧木</td><td colspan="4">人工气候室接种</td><td colspan="4">自然病圃</td></tr><tr><td colspan="4">Phytotron inoculation</td><td colspan="4">Natural bacterial wilt nursery</td></tr><tr><td>Scion/Rootstock</td><td>发病率 Incidence (%)</td><td>枯死率 Dead rate(%)</td><td>病情指数 disease index</td><td>抗病水平 Resistance evaluation</td><td>发病率 Incidence (%）</td><td>枯死率 Dead rate (%）</td><td>病情指数 disease index</td><td>抗病水平 Resistance evaluation</td></tr><tr><td>CK</td><td>96.77aA</td><td>90.32aA</td><td>94.76aA</td><td>HS</td><td>93.33aA</td><td>73.33aA</td><td>82.50aA</td><td>HS</td></tr><tr><td>No.1/No.1</td><td>9.68dD</td><td>8.06dD</td><td>9.27dD</td><td>HR</td><td>6.67eE</td><td>3.33cC</td><td>5.00dD</td><td>HR</td></tr><tr><td>No.21/No.21</td><td>9.52dD</td><td>9.52cC</td><td>9.52dD</td><td>HR</td><td>10.00dD</td><td>3.33cC</td><td>5.83cdCD</td><td>HR</td></tr><tr><td>Fb/No.1</td><td>12.90cC</td><td>9.68cC</td><td>12.10cC</td><td>HR</td><td>13.33cC</td><td>3.33cC</td><td>7.50bcBC</td><td>HR</td></tr><tr><td>Fb/No.21</td><td>14.29bB</td><td>11.11bB</td><td>13.49bB</td><td>R</td><td>16.67bB</td><td>6.67bB</td><td>9.17bB</td><td>HR</td></tr></table></body></html>
+
+注：表中大小写字母分别表示 ${ \cal P } { = } 0 . 0 1$ 和 $\scriptstyle P = 0 . 0 5$ 水平下的差异显著性。 Note:The uppercase and lowercase letrs represent significant difference at O.O1 and O.O5 level, respectively.
+
+# 2.2不同嫁接组合接种青枯菌后发病情况的动态变化
+
+在人工气候室接种青枯菌条件下，各嫁接组合发病率和病情指数变化如图1所示。植株接种第3\~5天后逐渐开始发病，随着接种天数的延长，CK的发病率和病情指数均显著提高，而其他嫁接组合增长趋势较小。第10天，CK发病率为 $3 8 . 7 1 \%$ ，砧穗嫁接与砧木自根嫁接植株则分别为 $4 . 8 4 \%$ （Fb/No.1）、 $3 . 1 7 \%$ (Fb/No.21）、 $6 . 4 5 \%$ (No.1/No.1）、 $6 . 3 5 \%$ (No.21/No.21)。第 25天，CK发病率达到峰值，为 $9 6 . 7 7 \%$ ，其他嫁接组合分别为 $1 1 . 2 9 \%$ （Fb/No.1）、 $1 2 . 7 0 \%$ （Fb/No.21）、 $9 . 6 8 \%$ （ $\mathrm { N o . l / N o . l } \dot { \cdot }$ ）、 $9 . 5 2 \%$ （No.21/No.21)，发病趋势逐渐变缓，至第30 天无明显变化。根据以上结果，可确定番茄接种青枯菌后第5\~10天为发病初期，第10\~25 天为发病高峰期，第 25天后为发病末期。
+
+![](images/7f0165ca0ee51f6a2b100f9ae231ace098589231d71be2c722a50dabe50dc9cd.jpg)  
+注：图中误差线表示标准偏差，反映数值相对于平均值的离散程度， $\scriptstyle n = 3$ 。下同。
+
+Note：The eror line in the chart represents the standard deviation, which reflects the discreteness of the value relative to the mean value, $\scriptstyle n = 3$ .The same below. 图1接种青枯菌后各嫁接组合发病率（左）和病情指数（右）随接种天数的变化 Fig.1 Changes in the incidence（left）and disease index（right） of grafted plants with the prolongation of inoculation days
+
+# 2.3不同嫁接组合的根际和植株体内青枯菌数量动态变化
+
+人工气候室接种条件下，各嫁接组合根际基质中的青枯菌数量随着植株病期的发展呈现先增加后降低，最终趋于平稳的动态变化趋势（图2)。接种前（S1)，各部位青枯菌数量均为0。在发病初期（S2）各嫁接组合根际基质中青枯菌数量达到峰值，至发病高峰期（S3）数量则显著降低。S2期，CK的根际基质中青枯菌数量最高，为 $8 4 . 8 5 { \times } 1 0 ^ { 5 } \mathrm { C F U \cdot g ^ { - 1 } }$ ；砧穗嫁接植株（Fb/No.1）最低，为 $4 2 . 4 2 \times 1 0 ^ { 5 }$ CFU $\mathbf { g } ^ { - 1 }$ 。从各嫁接组合植株不同部位青枯菌数量变化趋势可以看出，CK的根系、砧木茎、接穗茎中青枯菌数量在S3期达到峰值，而砧穗嫁接和砧木自根嫁接植株则在 S2 期达到峰值。S2期，No.21/No.21和Fb/No.21根系中的青枯菌数量均达到 $4 8 . 4 8 \times 1 0 ^ { 5 }$ CFU· $\mathbf { g } ^ { - 1 }$ ，显著高于 No.1/No.1（ $2 4 . 2 4 \times 1 0 ^ { 5 }$ CFU· $\mathbf { g } ^ { - 1 }$ ）和 Fb/No.1（2 $( 3 0 . 3 0 { \times } 1 0 ^ { 5 } \mathrm { C F U \cdot g ^ { - 1 } } )$ ，但与CK（ $\cdot 5 4 . 5 5 { \times } 1 0 ^ { 5 } \mathrm { C F U \cdot g } ^ { - 1 }$ ）差异不显著。S3期，CK根系中的青枯菌数量最高，达到 $7 5 . 7 6 { \times } 1 0 ^ { 5 } \mathrm { C F U \cdot g ^ { - 1 } }$ ，极显著高于其他嫁接组合。发病高峰期至发病末期（S4)，除CK外，其他嫁接组合地上部茎中的青枯菌数量差异不显著，番砧嫁接植株稍高于茄砧嫁接植株。各嫁接组合植株体内，青枯菌数量从根系到地上部呈递减分布。S4 期，Fb/No.1 和 $\mathrm { F b } / \mathrm { N o } . 2 1$ 接穗茎中的青枯菌数量均为 $3 . 0 3 { \times } 1 0 ^ { 5 } \mathrm { C F U \cdot g ^ { - 1 } }$ ，显著低于CK( $2 1 . 2 1 \times 1 0 ^ { 5 }$ $\mathrm { C F U \cdot g ^ { - 1 } }$ )，而 No.1/No.1和 No.21/No.21则趋于0。以上说明，采用抗病砧木嫁接可有效阻止青枯菌向根系和地上部茎侵染，抑制青枯菌的增殖，从而降低嫁接植株发病率或减缓其发病程度。
+
+![](images/7e2b3efc7e7e828403d30bcd9f213b8d49cb8629fd15bfc685adffdefdda605c.jpg)  
+图2各嫁接组合根际基质及植株体内青枯菌数量的变化
+
+注：A.根际基质；B.根系；C.砧木茎；D.接穗茎。 Note:A. Rhizospheric matrix；B.Root system；C.Rootstock stem；D. Scion stem.
+
+Fig. 2 Changes in quanantity of Ralstonia solanacearum in rhizospheric matrix and grafted plants2.4不同嫁接组合的根际微生物总量
+
+由图3：A可知，接种青枯菌后，各嫁接组合根际微生物总量均显著增加，在S1-S4 期整体呈现先升高后降低又升高的变化趋势。图3：B中，在S2期， $\mathrm { N o . l / N o . l }$ 根际微生物总量最高，为 $2 0 6 . 6 8 { \times } 1 0 ^ { 6 } \mathrm { C F U \cdot g ^ { - 1 } }$ ，No.21/No.21稍低，为 $1 9 5 . 8 3 \times 1 0 ^ { 6 } \mathrm { C F U \cdot g ^ { - 1 } }$ ，砧穗嫁接植株分别为 $1 6 2 . 4 5 \times 1 0 ^ { 6 }$ CFU $\mathbf { g } ^ { - 1 }$ （Fb/No.1）、 $1 8 6 . 8 1 { \times } 1 0 ^ { 6 } \mathrm { C F U \cdot g ^ { - 1 } }$ （Fb/No.21)，均显著高于 CK$\cdot 1 3 4 . 7 5 { \times } 1 0 ^ { 6 } \mathrm { C F U \cdot g ^ { - 1 } } )$ 。S3 期，4 个砧木嫁接组合根际微生物总量降低，但仍高于CK；Fb/No.1和Fb/No.21差异不显著。S4期，各嫁接组合根际微生物总量再次升高，除No.21/No.21与CK无显著差异外，其他嫁接组合均显著高于CK。以上说明，在青枯菌侵染条件下，抗病砧木嫁接提高了番茄植株根际微生物的总量。
+
+注：图中大小写字母分别表示 ${ \cal P } { = } 0 . 0 1$ 和 $\scriptstyle P = 0 . 0 5$ 水平下的差异显著性。下同。
+
+![](images/bbcc5f582504c76722446eff1170bc1a1356a87c428a72025c7a457ecc6f0b24.jpg)  
+图3各嫁接组合根际微生物总量变化
+
+Note：The uppercase and lowercase letters represent significant diference at O.O1 and O.O5 level,respectively.The same below.
+
+Fig. 3 Changes in total qunantity of microorganisms in the rhizosphere of grafted plants
+
+# 2.5不同嫁接组合的根际细菌数量
+
+由图4：A可知，接种青枯菌后，各嫁接组合根际细菌的变化趋势同根际微生物总量的变化基本一致，No.1/No.1和No.21/No.21在S1期达到峰值，其他嫁接组合则在发病末期达到峰值。砧穗嫁接和砧木自根嫁接植株根际细菌数量在植株的S2-S4期内均高于CK。说明抗病砧木嫁接促进了根际细菌的增殖。图4：B中，S2期，No.1/No.1根际细菌数量最高，为 $1 5 5 . 6 3 { \times } 1 0 ^ { 6 } \mathrm { C F U \cdot g ^ { - 1 } }$ ，显著高于其他嫁接组合；Fb/No.1最低，为 $1 1 3 . 4 4 \times 1 0 ^ { 6 } \mathrm { C F U \cdot g ^ { - 1 } }$ ，与CK $\cdot 1 0 4 . 1 2 \times 1 0 ^ { 6 } \mathrm { C F U \cdot g ^ { - 1 } ) }$ 差异不显著。S3期，各嫁接组合根际细菌数量较 S2 期均不同程度降低，其中 $\mathrm { N o . l / N o . l }$ 下降幅度最大，但总量仍显著高于CK，其他嫁接组合间差异不显著。S4期，各嫁接组合根际细菌数量均不同程度升高，Fb/No.1和Fb/No.21根际细菌数量达到峰值，分别为 $1 4 9 . 4 7 { \times } 1 0 ^ { 6 } \mathrm { C F U \cdot g ^ { - 1 } }$ 、 $1 3 9 . 8 4 { \times } 1 0 ^ { 6 } \mathrm { C F U \cdot g ^ { - 1 } }$ ，显著高于其他嫁接组合。
+
+![](images/c1c7599dad2bdadcb3e949898439b91ffad980c54b16d24a8164f11902ac3a9c.jpg)  
+图4各嫁接组合根际细菌数量变化  
+Fig. 4 Changes in qunantity of bacteria in the rhizosphere of grafted plants
+
+# 2.6不同嫁接组合的根际真菌数量
+
+由图5：A可知，接种青枯菌前，各嫁接组合根际真菌数量差异不显著；接种后，总体呈先增加后降低的趋势，根际真菌数量远低于细菌数量。图5：B中，S2期，No.1/No.1根际真菌数量较 S1期显著升高，且高于其他嫁接组合，达到 $2 . 5 5 { \times } 1 0 ^ { 6 } \mathrm { C F U \cdot g ^ { - 1 } }$ 。S3 期，CK根际真菌数量显著升高，其他嫁接组合则显著降低，其中Fb/No.1和 $\mathrm { F b } / \mathrm { N o } . 2 1$ 降幅较大，分别降至 $0 . 3 7 \times 1 0 ^ { 6 }$ CFU. $\mathrm { g } ^ { - 1 }$ ， $0 . 2 1 \times 1 0 ^ { 6 }$ CFU: $\mathbf { g } ^ { - 1 }$ 。S4 期，砧穗嫁接植株根际真菌数量极显著降低，较 S1期分别下降了 $8 6 . 7 7 \%$ （Fb/No.1）、 $8 5 . 5 3 \%$ （Fb/No.21)，砧木自根嫁接植株分别下降了 $56 . 4 7 \%$ （No.1/No.1）、 $2 7 . 1 7 \%$ （No.21/No.21)，而CK则增加了 $2 1 . 7 0 \%$ 。以上说明，在青枯菌侵染条件下，抗病砧木嫁接植株抑制了根际真菌的增殖，降低了真菌的数量。
+
+![](images/b97b037fda2a4b1809a7fee43b26dfe432e2de396e402da59c1c7a9216ed6fde.jpg)  
+图5各嫁接组合根际真菌数量变化
+
+Fig.5 Changes in quantity of fungi in the rhizosphere of grafted plants
+
+# 2.7不同嫁接组合的根际放线菌数量
+
+接种青枯菌后，各嫁接组合根际放线菌数量变化趋势同细菌和真菌不同，在S2期显著升高，之后降低并趋于平稳;Fb/No.1和Fb/No.21的 S4 期较S1期升高且差异显著(图6-A)。由图6-B可知，砧穗嫁接和砧木自根嫁接植株根际放线菌数量在S2期较CK极显著增加，分别达到 $4 7 . 1 3 { \times } 1 0 ^ { 6 } \mathrm { C F U \cdot g ^ { - 1 } }$ （Fb/No.1）、 $5 5 . 9 0 { \times } 1 0 ^ { 6 } \mathrm { C F U \cdot g ^ { - 1 } }$ （Fb/No.21）、 $4 8 . 5 0 { \times } 1 0 ^ { 6 } \mathrm { C F U \cdot g ^ { - 1 } }$ （No.1/No.1）、 $6 2 . 4 7 { \times } 1 0 ^ { 6 } \mathrm { C F U \cdot g ^ { - 1 } }$ $( \mathrm { N o } . 2 1 / \mathrm { N o } . 2 1 )$ ，茄砧嫁接植株相对增长率普遍高于番砧嫁接植株。S3期，各嫁接组合根际放线菌数量均较大幅度下降，降低较明显的是茄砧嫁接植株，分别下降了 $5 9 . 5 5 \%$ （No.21/No.21）、 $56 . 2 3 \%$ （Fb/No.21)，除 Fb/No.1 稍高于CK外，其他嫁接组合仍显著高于CK。S4期，各嫁接组合变化较小，Fb/No.1的根际放线菌数量显著高于Fb/No.21，其他嫁接组合间差异不显著。
+
+![](images/381e3063c4c24eb6668a570d661622ece7a3b50e2df5feb0cc5aa58de395b930.jpg)  
+图6各嫁接组合根际放线菌数量变化  
+Fig. 6 Changes in quantity of actinomycetes in the rhizosphere of grafted plants2.8不同嫁接组合抗病性和根际微生物数量的相关关系
+
+由表2可知，接种青枯菌后，不同嫁接组合的病情指数和发病率与根际微生物不同类群数量间存在一定的相关关系。其中，病情指数和发病率与根际青枯菌、细菌和放线菌数量呈正相关关系，与真菌数量则呈极显著负相关。青枯菌、细菌和放线菌与根际微生物总量存在极显著正相关关系；青枯菌分别与细菌和放线菌呈现极显著正相关，说明在青枯菌胁迫下促进了根际细菌和放线菌的增殖，并提高了根际微生物总量。
+
+表2各嫁接组合抗病性与根际微生物数量的相关关系  
+Tab 2 Correlation coefficients between disease resistance and the quantities of rhizospheric   
+
+<html><body><table><tr><td colspan="8">microorganismsin grafted plants</td></tr><tr><td>指标 Index</td><td>病情指数 Disease index</td><td>发病率 Incidence</td><td>青枯菌 Ralstonia solanacearum</td><td>细菌 Bacteria</td><td>真菌 Fungi</td><td>放线菌 Actinomyces</td><td>微生物总量 Total</td></tr><tr><td>病情指数</td><td>1</td><td>0.989**</td><td>0.205</td><td>0.572*</td><td>-0.714**</td><td>0.258*</td><td>0.308</td></tr><tr><td>Disease index 发病率</td><td></td><td></td><td></td><td>0.578*</td><td>-0.693**</td><td></td><td></td></tr><tr><td>Incidence</td><td></td><td>1</td><td>0.241</td><td></td><td></td><td>0.215*</td><td>0.330</td></tr><tr><td>青枯菌</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ralstonia</td><td></td><td></td><td>1</td><td>0.741**</td><td>0.041</td><td>0.872**</td><td>0.885**</td></tr><tr><td>solanacearum</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>细菌</td><td></td><td></td><td></td><td>1</td><td>-0.009</td><td>0.530*</td><td>0.940**</td></tr><tr><td>Bacteria</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>真菌</td><td></td><td></td><td></td><td></td><td>1</td><td>0.430</td><td>0.179</td></tr><tr><td>Fungi</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>放线菌</td><td></td><td></td><td></td><td></td><td></td><td>1</td><td>0.787**</td></tr><tr><td>Actinomyces</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>微生物总量</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td></tr><tr><td>Total</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+注：表中数据表示相关系数，\*\*表示相关性达极显著水平（ $P { < } 0 . 0 1 \rangle$ ，\*表示相关性达显著水平（ $P { < } 0 . 0 5 \rangle$ 。Note:Data in the table indicate the correlation coefficient, $^ { * * }$ stands for extremely significant correlation $P <$ 0.01),\* stands for significant correlation $( P < 0 . 0 5 )$ 1
+
+# 3讨论与结论
+
+采用嫁接技术防治番茄青枯病报道较多且广泛应用。抗病砧木嫁接可有效降低番茄的田间发病率和病情指数，增强其抗病能力，从而提高番茄的品质和产量。本研究中，感病番茄品种自根嫁接植株（CK）青枯病发病率超过 $9 3 \%$ ；采用抗病砧木嫁接，植株发病率和病情指数极显著降低，达到高抗（HR）或抗病（R）水平。
+
+嫁接换根可以改变番茄根际微生物的群落多样性，抑制青枯菌的生长和繁殖。本研究结果表明，人工接种青枯菌条件下，在发病末期（S4)，砧穗嫁接和砧木自根嫁接植株砧木茎和接穗茎中青枯菌数量均显著低于CK，说明抗病砧木嫁接能够抑制青枯菌在植株体内增殖，并有效阻止青枯菌向植株根系和地上茎部侵染。同时还发现，砧穗嫁接植株和砧木自根嫁接植株各部位中青枯菌数量在发病初期（S2）达到峰值，而CK则延后，在发病高峰期（S3）达到峰值；发病初期，茄砧嫁接植株（No.21/No.21、Fb/No.21）根际基质和根系内青枯菌数量水平均显著高于番砧嫁接植株（No.1/No.1、Fb/No.1)，说明茄砧嫁接植株前期根系抑制青枯菌增殖和侵染植株根系的作用要弱于番砧嫁接植株，但进入发病高峰期后，茄砧嫁接植株根际基质及根系中青枯菌数量显著降低，与番砧嫁接植株无显著差异。以上说明，青枯菌在不同嫁接组合中的侵染和增殖速度有差异，这可能跟砧木根系的组织结构或嫁接植株体内分泌的抑菌活性物质有关。另外，植株体内的青枯菌数量从根系到地上茎部递减分布，呈现动态变化。
+
+刘业霞等（2012）在嫁接辣椒的相关研究中发现，嫁接能够提高辣椒根际土壤中放线菌和细菌的数量。刘娜等（2014）采用抗病砧木嫁接发现，嫁接后番茄根际土壤氨化细菌、自生固氮菌等有益微生物数量增加，而真菌数量减少。细菌型土壤向真菌型土壤转化往往标志着土壤微生态环境的恶化，根际真菌数量的增加可能是导致土传病害发病率升高的重要原因（尹玉玲等，2008)。本研究中，在接种前（S1)，各嫁接组合根际基质水平一致，微生物总量无明显差异；接种后，砧穗嫁接和砧木自根嫁接植株的根际微生物总量显著提高且随着发病期的延长仍能维持较高水平。在发病初期，根际细菌、真菌和放线菌的数量剧烈变化，砧穗嫁接和砧木自根嫁接植株根际细菌和放线菌数量较CK显著增加。发病高峰期至发病末期，砧穗嫁接植株根际真菌数量明显降低，显著低于其他嫁接组合，分析可能是由砧穗互作引起；CK根际真菌数量则较发病初期分别增加了 $4 9 . 0 6 \%$ 和 $2 1 . 7 0 \%$ ，同时病情指数分别提高了 $4 4 . 3 6 \%$ 和 $5 9 . 6 8 \%$ 。通过相关性分析发现，不同嫁接组合的病情指数和发病率同细菌和放线菌数量呈现显著正相关，而与真菌数量呈极显著负相关。以上结果说明，抗病砧木嫁接显著提高了植株根际细菌和放线菌的数量，降低了真菌的数量，改善了嫁接植株根际土壤状况。
+
+大量研究显示，植物可通过根系分泌物的作用在根际形成并维持一个特殊的微环境，植物能够通过根系分泌物与根际微生物之间的协同作用抵抗生物胁迫或非生物胁迫，与植物的抗病性密切相关（Baetz＆Martinoia，2014；Haichar et al.,2014)。本研究中的抗病砧木及嫁接番茄能否通过根系分泌物直接或间接地抑制青枯菌的生长和繁殖，含有哪些特异的活性物质等方面仍有待进一步研究。
+
+综合本研究结果，采用抗病砧木嫁接显著提高了番茄对青枯病的抗性水平，可以有效抑制根际青枯菌的增殖和对植株的侵染，从而降低嫁接植株发病率或减缓其发病程度。在人工接种青枯菌条件下，抗病砧木嫁接植株的根际细菌、真菌和放线菌数量均呈现先增加后降低的变化趋势，细菌和放线菌数量显著升高，而真菌数量则显著降低。抗病砧木嫁接对改善植株根际土壤微环境，降低蕃茄田间青枯病发病率具有重要作用。
+
+# 参考文献：
+
+BAETZ U, MARTINOIA E, 2O14. Root exudates: the hidden part of plant defense [J]. TrendsPlant Sci, 19(2): 90-98.  
+BIE ZL，2O12. Discussion on the new trend of international vegetable grafting and thedevelopment of vegetable grafting in China -- the Enlightenment of the 2Oll InternationalConference on vegetable grafting[J].Chin Veg,(6):1-4.[别之龙,2012.国际蔬菜嫁接新趋势与我国蔬菜嫁接发展若干问题探讨——“2011蔬菜嫁接国际会议”的启示[J].中国蔬菜，(6):1-4.]  
+EISENHAUER N，SCHEU S，JOUSSET A，2O12. Bacterial diversity stabilizes communityproductivity [J].PLoS ONE,7: 34517.  
+FENG H, TAN XM,LI YC, et al., 2010. Variation of bacterial physiological groups in tomato soilwith different resistance to bacterial wilt [J].J S Chin Agric Univ,31(1): 30-34.[冯杭，谭秀明，李艳嫦，等，2010.青枯病抗性不同的番茄土壤细菌生理群的数量变化[J].华南农业大学学报，31（1)：30-34.]  
+GUO JH,QI HY,GUO YH， 2004. Biocontrol of tomato wilt by plant growth-promotingrhizobacteria [J]. BioControl, 29(1): 66-72.  
+HAICHER FZ, SANTAELLA C, HEULIN T, et al., 2014. Root exudates mediated interactionsbelowground[J]. Soil Biol Biochem,77: 69-80.  
+HUANG YH,LEI DY,2O13.Study on the effect of different rootstock grafted tomato on bacterialwilt disease [J].Acta Agric Jiangxi,25(1):73-75.[黄益鸿，雷东阳，2013．不同砧木嫁接番茄抗青枯病效果研究[J]．江西农业学报，25（1)：73-75.]  
+LAI CY,1998.Application of several calculation methods for control effect of crop diseases inchemical control [J].Guangxi Plant Protec,(3):30-32.[赖传雅，1998．关于作物病害药剂防治中几种防治效果计算方法的应用问题[J]．广西植保，（3)：30-32.]  
+LI QQ,LUO K, LIN W, 2006. Colonization ability of endophyte B47 and its control on tomatobacterial wilt [J].JPlant Protec,33(4):363-368.[黎起秦，罗宽，林纬，2006．内生菌 B47的定殖能力及其对番茄青枯病的防治作用[J]．植物保护学报，33（4)：363-368.]  
+LIN XG, 2010. Principles and methods of soil microbial research [M]. Beijing: Higher educationpress:37-38.[林先贵，2010.土壤微生物研究原理与方法[M]．北京：高等教育出版社：37-38.]  
+LIN YJ, GU G, CHEN SH, 2OO5. Current situation and countermeasures of crop bacterial wiltprevention and control research [J].JFujian Agric For Univ (Nat Sci Ed),(3):297-303.[林尤剑，顾钢，陈顺辉，2005．作物青枯病防治研究的现状与对策[J]．福建农林大学学报（自然科学版)，（3)：297-303.]  
+LIU FZ, LIAN Y, FENG DC, et al., 2005. Identification and evaluation of eggplant germplasmagainst ralstonia solanacearum [J]. JPlant Genet Resour, 6(4): 381-385.[刘富中，连勇，冯东昕，等，2005．茄子种质资源抗青枯病的鉴定与评价[J]．植物遗传资源学报，6（4)：381-385.]  
+LIU N, ZHU WM, LU B,et al., 2014. Effects of grafting on soil microecological environment intomato rhizosphere [J]．Acta Agric Shanghai,30(5): 6-10.[刘娜，朱为民，鲁博，等，2014.嫁接对番茄根际土壤微生态环境的影响[J]．上海农业学报，30（5)：6-10.]  
+LIU QG, YANG Y, 2006.Relationship between resistance to tomato varieties and Ralstoniasolanacearum and soil microbes [J]. J Zhongkai Agrotec Col,19(3): 31-34.[刘琼光，杨艳,2006.番茄品种抗性与青枯菌和土壤微生物的关系[J]．仲恺农业技术学院学报，19（3)：31-34.]  
+LIU YX, FU L,AI XZ, et al., 2O12. Root characteristics of grafted pepper and relationshipbetween rhizosphere soil enzyme activity and bacterial wilt resistance [J]. Acta BotBoreal-Occident Sin,32(5): 963-968.[刘业霞，付玲，艾希珍，等，2012．嫁接辣椒根系特征及根际土壤酶活性与青枯病抗性的关系[J]．西北植物学报，32（5)：963-968.]  
+MO HK, QIN D,LI YY, et al.,2013. Screening of tomato rootstocks and identification of bacterialwilt resistance [J].JChangjiang Veg,(24): 54-58.[莫豪葵，秦东，李业勇，等，2013．番茄砧木材料的筛选与青枯病抗性鉴定[J]．长江蔬菜，（24)：54-58.]  
+SHEN JB,MAO DR, 2011. Research methods of plant nutrition [M]. 3rd ed. Beijing: ChinaAgricultural University press:398-399.[申建波，毛达如，2011．植物营养研究方法[M].3版．北京：中国农业大学出版社：398-399.]  
+WANG GP, LIN MB,WU DH, 20O4. Research progress on inheritance of resistance to bacterialwilt in tomato [J].Acta Hortic Sin,31(3): 403-407.[汪国平，林明宝，吴定华，2004.番茄青枯病抗性遗传研究进展[J]．园艺学报，31（3)：403-407.]  
+WANG YX, ZHONG C, ZHAO WZ, et al.， 2018. Agricultural biology characters of anvilgermplasm and grafting applicability in eggplant (Solaum melongena) cultivars [J]. Guihaia.38(8)：1015-1024.[王岳霞，钟川，赵文宗，等，2018．茄子栽培种砧用种质农业生物学性状及嫁接适用性研究[J]．广西植物.38（8)：1015-1024.]  
+WANG YX, ZHONG C, ZHAO WZ, et al.， 2017. Physiological responses of eggplant graftedseedlings to bacterial wilt infection [J]. Acta Hortic Sin. 44（Supplement） : 2565.[王岳霞，钟川，赵文宗，等，2017．茄子嫁接苗对青枯病侵染的生理反应研究[J]．园艺学报，44(增刊)：2565.]  
+WICKER E,GRASSART L, CORANSON, et al., 20O7. Ralstonia solanacearum strains fromMartinique （French West Indies） exhibiting a new pathogenic potential [J]. Appl EnvironMicrob，71: 6790-6801.  
+XIAO Y, HONG YY, YI TY, 2007. Progress on biological control of tomato bacterial wilt [J] .Plant Protec,33(2):15-20.[肖烨，洪艳云，易图永，2007．番茄青枯病生物防治研究进展[J]．植物保护，33（2)：15-20.]  
+XIE BY, FENG LX,YANG YH, et al., 2010. Rules for evaluation of tomato for resistence todiseases Part 4: Rules for evaluation of tomato for resistence to bacterial wilt [M]. Beijing:China Agricultural Press.[谢丙炎，冯兰香，杨宇红，等，2010.番茄主要病害抗病性鉴定技术规程第4部分：番茄抗青枯病鉴定技术规程[M]．北京：中国农业出版社.]  
+YAN JP, ZE SZ, ZHANG HY, 2004. Research progress on bacterial pathogens of ginger bacterialwilt and its control[J].JHenan Agric Sci,(9): 63-65.[严金平，泽桑梓，张火云，2004．姜细菌性青枯病病原菌及其防治研究进展[J]．河南农业科学，（9)：63-65.]  
+YANG SD, WU J, ZHAO JC, et al.,2013. Comparison of physical and chemical properties andbiological characteristics of rhizosphere soil between tomato bacterial wilt disease andhealthy plant [J].Chin Veg,(22):64-69.[杨尚东，吴俊，赵久成，等，2013．番茄青枯病罹病植株和健康植株根际土壤理化性状及生物学特性的比较[J]．中国蔬菜，（22)：64-69.]  
+YAO HK, 2018. Effects of intercropping vegetables on biological characteristics and microbialdiversity in rhizosphere soil of eggplant [D]. Nanning: Guangxi University.[姚华开，2018.间种不同科属蔬菜对茄子根际土壤生物学性状及微生物多样性的影响 [D]．南宁：广西大学.]  
+YIN YL, ZHOU BL, LI YP, et al.， 2008. Allelopathic effects of grafting on rhizosphere soilmicrobial populations of eggplant [J]. Acta Hortic Sin,35(8): 1131-1136.[尹玉玲，周宝利,李云鹏，等，2008．嫁接对茄子根际土壤微生物种群的化感效应[J]．园艺学报，35（8)：1131-1136.]  
+ZHANG YY,LI HJ, SHEN YH,2O10. Screening of tomato rootstocks resistant to bacterial wilt [J].Chin Veg,(2):68-70.[张余洋，李红君，沈耀辉，2010.抗青枯病番茄砧木的筛选[J]．中国蔬菜，（2)：68-70.]  
+ZHOU BL, LIN GR, GAO YX, et al.,1998.Relationship between POD and Isozyme of differenteggplant rootstocks for disease control and yield increase[J].N Hortic, 3(4): 14-15.[周宝利,林桂荣，高艳新，等，1998．不同茄子砧木防病增产效果与 POD 同工酶关系[J]．北方园艺，3（4)：14-15.]

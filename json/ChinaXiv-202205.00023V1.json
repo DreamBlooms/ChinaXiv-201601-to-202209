@@ -1,0 +1,463 @@
+[
+    {
+        "type": "text",
+        "text": "Impact of rainfed and irrigated agriculture systems onsoil carbonstock under different climate scenarios in the semi-arid region of Brazil ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "André L CARVALHO1\\*, Renato A ARAUJO-NETO1, Guilherme B LYRA', CarlosEPCERRI²,StoécioMFMAIA³ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Center for Agrarian Sciences,Federal University of Alagoas,Rio Largo 57O72-9oo,Brazil; ’Luiz de Queiroz College of Agriculture,The University of Sao Paulo,Piracicaba 13418-900,Brazil; Federal Institute of Alagoas,Marechal Deodoro 57160-0oo,Brazil ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Understanding the dynamics of soil organic carbon (SOC) is of fundamental importance in land use and management, whether in the current researches or in future scenarios of agriculture systems considering climate change. In order to evaluate SOC stock of the three districts (Delmiro Gouveia, Pariconha,and Inhapidistricts) in the semi-arid region of Brazil in rainfed and irrigated agriculture systems under different climate scenarios using the Century model, we obtained RCP4.5 and RCP8.5 climate scenarios derived from the Eta Regional Climate Model (Eta-HadGEM2-ES and Eta-MIROC5) from the National Institute for Space Research,and then input the data of bulk density, $\\mathrm { \\ p H }$ ,soil texture,maximum temperature, minimum temperature,and rainfall into the soil and climate files of the Century model. The results of this study showed that the Eta-HadGEM2-ES model was effective in estimating air temperature in the future period.In rainfed agriculture system, SOC stock under the baseline scenario was lower than that under RCP4.5 and RCP8.5 climate scenarios, while in irigated agriculture system, SOC stock in the almost all climate scenarios (RCP4.5 and RCP8.5) and models (Eta-HadGEM2-ES and Eta-MIROC5) wil increase by 210O. The results of this study will help producers in the semi-arid region of Brazil adopt specific agriculture systems aimed at mitigating greenhouse gas emissions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: soil carbon stock; agriculture systems; climate scenarios; Century model; semi-arid region ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: André LCARVALHO,Renato AARAUJO-NETO,Guilherme B LYRA,Carlos EPCERRI, Stoécio MF MAIA. 2022.Impactofrainfedandirrigatedagriculturesystems onsoilcarbonstockunderdiferentclimate scenarios inthesemi-arid region of Brazil.Journal of Arid Land,14(4):359-373.https://doi.org/10.1007/s40333-022-0092-y ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Understanding the flux of soil organic carbon (SOC) is of fundamental importance to agriculture. SOC dynamics is a potential indicator of the condition of agricultural crops,as well as an important tool that can aid in choosing or proposing management systems to mitigate greenhouse gas emissions and the impact of climate change (Sobocka et al.,2O07). Studies based on SOC dynamics are relevant to the Sustainable Development Goals of the United Nations and the Land Degradation Neutrality challenge,as SOC sequestration provides a range of benefits related to food security, water scarcity, climate change, biodiversity loss,and health threat (Kesstra et al., 2016,2018; Smith et al.,2019; Visser et al., 2019). The use of mathematical models that link ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SOC to climate, environment, and soil parameters can significantly improve the understanding of SOC dynamics.Among others,the Century biogeochemical model has proved to be essential when it comes to understanding SOC dynamics in the most varied environments (Smith et al., 1997) and land use systems (Cerri et al.,2OO4; Brandani et al.,2O15; Silva-Olaya et al.,2017). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The semi-arid region of Brazil,covering an area of $1 . 0 { \\times } 1 0 ^ { 6 } ~ \\mathrm { k m } ^ { 2 }$ (Ministry of National Integration,2O17a,b), is characterized by an annual mean rainfall of less than $8 0 0 ~ \\mathrm { { m m } }$ (Moura et al.,2007) and an aridity index of up to 0.5 (Costa,2O21). As it is densely populated,agriculture is a major production mode in the region， especially rainfed agriculture.However， one of the principal factors for the low food production is water scarcity,and the local governments should take measures to redirect irrigation water to these regions (Castro, 2O18). The total irrigated area in the semi-arid region of Brazil was $4 . 7 { \\times } 1 0 ^ { 3 } \\ \\mathrm { k m } ^ { 2 }$ in 2015,which is expected to increase by $50 \\%$ by 2030,with a total irrigated area of $7 . 1 { \\times } 1 0 ^ { 3 } ~ \\mathrm { k m } ^ { 2 }$ (National Water Agency,2017). More than 20 years ago,the diversion of the Sao Francisco River was first seen to solve the problem of water scarcity，reduce drought, and promote irrigated agriculture in several districts of the Northeast Brazil (Ferreira, 2O19). It is important to mention the Petrolina-Juazeiro hub, which is a successful example of the development of a large-scale irrigated agriculture project based on perennial crops in the region (Castro,2O11).In Alagoas State,the construction of channels has changed the seasonality of agriculture management in the region, allowing farmers to grow crops year-round through irrigation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Given the different management practices and the various ways of supplying organic mater to the soil, it is necessary to obtain information on SOC dynamics. Because SOC dynamics may be different in irrgated or rainfed agriculture systems,and the calculation model also needs to be simulated (Leite and Mendonca,2003; Sobocká et al.,2007; Althoff et al., 2016) under current conditions or climate scenarios.Alvaro-Fuentes and Paustian (2Ol1） observed the behavior of SOC under different agriculture systems (i.e.， rainfed and irgated agriculture systems） and proved the importance of studies related to SOC modelling in agriculture systems.In semi-arid region,there were few studies on the Century model and the transition from native vegetation to agriculture systems, especially under climate change (Alvaro-Fuentes et al., 2OO9; Alvaro-Fuentes and Paustian,2011；Althoff et al., 2016,2018).Althoff et al. (2016) used different vegetation systems to obtain the information about the growth of the native vegetation under climate change in the semi-arid region of Brazil. This was of fundamental importance for using the Century model to generate information on SOC in the semi-arid region of Brazil. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the context of climate change, semi-arid areas in the world will be strongly affected due to their vulnerability. The semi-arid region of Brazil is one of the most affected regions in the world (IPCC,2O14; Marengo,2014; Tavares et al., 2O19). The increases in temperature and rainfall variability described in the climate models may lead to a reduction in the supply of soil organic residue,including in native vegetation, with a negative impact on SOC stock and agriculture systems (Althoff et al.,2O16).However, there is still no information on the impact of climate change on agriculture systems in the semi-arid region of Brazil, especially on SOC dynamics. In other semi-arid regions of the Mediterranean, some results showed that strategies such as organic farming and straw returning are relevant for SOC restoration and climate change mitigation (Novara et al., 2018, 2O19). Other results pointed that the practices combining external organic amendments with cover crops or conservation tilage showed good performance in SOC sequestration (Aguilera et al., 2013). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The study is therefore unprecedented and aimed to assess SOC dynamics in rainfed and irrigated agriculture systems under different climate scenarios in the semi-arid region of Brazil using the Century 4.5 model. The results of this study are essential for generating information that can aid decision-making at the regional level, providing important data for farmers in the semi-arid region of Brazil so that they can take measures to minimize the impact of climate change on food production; at the national level, supplying the basis for public policies such as the ABC Plan (Low Carbon Emission Agriculture) of the Federal Government; and at the international level, offering key results for achieving food security in semi-arid and arid regions of the world,as well as providing important data for international discussions related to climate change. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1Study area and data collection ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this study，we analysed SOC stock in three districts, including Delmiro Gouveia District （204号 $( 0 9 ^ { \\circ } 2 9 ^ { \\prime } 0 0 ^ { \\prime \\prime } \\mathrm { S }$ ， $3 7 ^ { \\circ } 5 6 ^ { \\prime } 2 4 ^ { \\prime \\prime } \\mathrm { W }$ ： $2 5 5 \\mathrm { ~ m ~ }$ a.s.l.),Pariconha District $( 0 9 ^ { \\circ } 1 7 ^ { \\prime } 0 4 ^ { \\prime \\prime } \\mathrm { S }$ ， $3 8 ^ { \\circ } 0 2 ^ { \\prime } 4 3 ^ { \\prime \\prime } \\mathrm { W }$ ： $4 2 1 \\mathrm { ~ m ~ }$ a.s.l.),and Inhapi District $( 0 9 ^ { \\circ } 1 2 ^ { \\prime } 1 3 ^ { \\prime \\prime } \\mathrm { S }$ $3 7 ^ { \\circ } 4 4 ^ { \\prime } 1 1 ^ { \\prime \\prime } \\mathrm { W }$ ， $3 2 0 \\mathrm { m }$ a.s.l.), located in the semi-arid region of Alagoas State,Brazil. In the three districts,the agricultural production consists of small and medium-sized farmers who cultivate crops such as maize, beans,cassava,and others, which are important to feed the local population (Lima et al.,2O19). According to the Thornthwaite climate classification,the climate of this region is semi-arid and megathermal,with a humidity index varied from $^ { - 2 0 }$ to $- 4 0$ and little or no excess water; the predominant vegetation is hyper-xerophilous Caatinga (Barros,2012). Annual mean rainfall is 511， 665,and $6 2 6 \\ \\mathrm { m m }$ respectively, and mean air temperature is $2 5 . 4 ^ { \\circ } \\mathrm { C }$ ， $2 3 . 8 ^ { \\circ } \\mathrm { C }$ ，and $2 4 . 2 ^ { \\circ } \\mathrm { C }$ ,respectively,in Delmiro Gouveia， Pariconha，and Inhapi districts (https://pt.climate-data.org/). The soil types are classified as Quartzipsamment in Delmiro Gouveia District, Psamment in Pariconha District, and Ultisol in Inhapi District. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In each district, we selected one farm whose conventional cultivation (maize and beans) area is close to the native vegetation area to represent the original conditions of the soil. In selecting these farms,we considered the following conditions: (1） the information of land use and management practices adopted by the farm since the conversion of native vegetation; (2） the conventional cultivation area not more than $0 . 2 \\mathrm { k m }$ away from the native vegetation; and (3） similar landscape, soil type,and soil texture between conventional cultivation area and native vegetation area. Finally, we selected eight sites in the study area, including three sites in Delmiro Gouveia District, two sites in Inhapi District, and three sites in Pariconha District. At each site,five soil samples were randomly selected at depths of O-1O and $1 0 { - } 2 0 ~ \\mathrm { c m }$ 、A total of 8O soil samples were surveyed in this study. Then,the soil samples were air-dried and passed through a $2 . 0 \\mathrm { - m m }$ sieve to remove stones and roots before analysis. Sub-samples were macerated and passed through a $0 . 1 \\mathrm { - m m }$ sieve to determine the total carbon. Bulk density $( \\mathrm { g } / \\mathrm { c m } ^ { 3 } )$ was measured in each soil depth using a volumetric steel ring $( 1 0 0 ~ \\mathrm { c m } ^ { 3 } )$ . We also determined the $\\mathrm { p H }$ and soil texture according to Brazilian Agricultural Research Corporation (Barreto, 1997). SOC concentration $( \\mathrm { g / g } )$ was measured by dry combustion using an organic element analyzer (Thermo Scientific Flash 2Ooo). Finally, SOC stock $( \\mathrm { g } / \\mathrm { m } ^ { 2 } )$ was calculated by multiplying SOC concentration by bulk density and soil depth. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Adopted land management systems ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We analysed the adopted land management systems based on the production of different crops in productive and non-experimental areas in recent decades (Table 1). The crops planted in the study area included maize, beans,and pasture. Crop residue was generally available for animal grazing and was almost completely consumed. Soil management was based on conventional tilage and ploughing using animal traction. The conventional cropping systems in the semi-arid region of Brazil were characterized by consecutive cultivation for four to five years,followed by fallow for two to three years, and then they were again used in agriculture. Complete information of the adopted management systems in this study can be shown in Table 1. Until the time of sampling, the soil had not been turned over for 1O years.Moreover, over the past 2O years,the study area had been cultivated with maize and beans at different times,using the same cropping practices adopted in other agriculture areas (e.g., soil preparation, grazing,and fallow). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The soil parameters in Delmiro Gouveia, Pariconha,and Inhapi districts varied according to the soil types (Quartzipsamment，Psamment，and Ultisol) and soil texture (sand, silt,and clay contents). The physical and chemical properties of soil were described in Table 2. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3Parameterization, calibration,and validation of the Century model ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "First, in order to simulate the changes of SOC stock in rainfed and irrigated agriculture systems, we parameterized the Century model by inputting environmental data (i.e., climate and soil data). Then,the model was calibrated to improve the correlation between the observed and simulated data (Bortolon et al.,2O11).The model was initialized for SOC stabilization on the three native vegetation sites (EqNV,EpNV,and U1NV) for a period of 70OO a (sufficient to stabilize the initial SOC levels recommended by the model). Moreover, we simulated the cutting and burning process of native vegetation and the process of cultivation and pasture in the present period. In addition to simulating the current study period, we also extrapolated the cultivation until 21OO to evaluate the behaviors with no changes in management. Finally， we compared the simulated data with observed data to validate the performance of the model in this study. Specifically,the model validation was carried out in two stages: (1) validating the relationship between the observed data and simulated data in the areas of native vegetation,cultivation, and pasture and (2) calibrating the decomposition rates in areas where the simulated data did not reflect the observed data during the first stage.The process of calibration and validation can be found in Bortolon et al.(2012). We modified and set some parameters used in the Century model for irrigated agriculture system, according to Araujo Neto (2019). Specifically,we modified the \"AUIRRI\" parameter to zero, indicating that automatic irrgation will not be used,and changed the values in the \"IRRAMT\" parameter, indicating the amount of water that needs to be added to the model. We also carried out a statistical analysis according to Smith et al.(1997). In order to evaluate the performance of the Century model in the areas of native vegetation,cultivation, and pasture,we employed the root mean square error (RMSE), indicating the fitting relationship between the simulated data and observed data,and the percent bias (PBIAS), evaluating the tendency of the simulated data to be higher or lower than the observed data.We also used coefficient of determination $( R ^ { 2 } )$ ，Pearson coefficient $( r )$ ,and model eficiency (EF) to test the relationship between the simulated data and observed data.Detailed information about the parameterization,calibration,and validation carried out in this study,as well as all modified values in standard files of the model,can be verified in Araujo Neto (2019) and Araujo Neto et al. (2021). ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/313e70dda7d6c9789819e61b8189e8bc086be37f3d3f8ceee90e9ac373ef7b27.jpg",
+        "table_caption": [
+            "Table1Adopted land management systems in diferent periodof Delmiro Gouveia,Pariconha,and Inhapi districts "
+        ],
+        "table_footnote": [
+            "Note:The data comes from the land use history of local farmers. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">District</td><td rowspan=\"2\">Site</td><td colspan=\"4\">Adopted management systems in differnet period</td></tr><tr><td>Native vegetation</td><td>Cultivation</td><td>Pasture</td><td>Fallow</td></tr><tr><td rowspan=\"3\">Delmiro Gouveia</td><td>EqNV</td><td>1900-2014</td><td></td><td></td><td></td></tr><tr><td>EqCC15</td><td>1900-1999</td><td>2000-2003,2005-2009， and 2011-2014</td><td></td><td>2004 and 2010</td></tr><tr><td>EqCC4</td><td>1900-2010</td><td>2011-2014</td><td></td><td></td></tr><tr><td rowspan=\"3\">Pariconha</td><td>EpNV</td><td>1900-2014</td><td>1974-1975,1978-1982,</td><td></td><td>1976-1977,1983-1984,</td></tr><tr><td>EpPa10</td><td>1900-1973</td><td>1985-1989,1992-1996, and 1999-2003</td><td>2005-2014</td><td>1990-1991,1997-1998,</td></tr><tr><td>EpCC4</td><td>1900-2010</td><td>2011-2014</td><td></td><td>and 2004</td></tr><tr><td rowspan=\"2\">Inhapi</td><td>U1NV</td><td>1900-2014</td><td></td><td></td><td></td></tr><tr><td>U1CC30</td><td>1900-1985</td><td>1986-1990,1992-1996, 1999-2003,2006-2010, and 2012-2014</td><td></td><td>1991,1997-1998, 2004-2005,and 2011</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/95709a34428ebc2d6ec94fbf68fd38cb8fd21970d52a112b8232acba8779ab0f.jpg",
+        "table_caption": [
+            "Table 2Soil texture,bulk density,and $\\mathrm { \\ p H }$ in Delmiro Gouveia,Pariconha,and Inhapi districts "
+        ],
+        "table_footnote": [
+            "Note:Mean±SD. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">District</td><td rowspan=\"2\">Site</td><td colspan=\"3\">Soil texture (%)</td><td rowspan=\"2\">Bulk density (g/cm³)</td><td rowspan=\"2\">pH</td></tr><tr><td>Sand</td><td>Silt</td><td>Clay</td></tr><tr><td rowspan=\"3\">Delmiro Gouveia</td><td>EqNV</td><td>88.8±1.8</td><td>2.7±2.8</td><td>8.5±1.0</td><td>1.4±0.02</td><td>4.4±0.1</td></tr><tr><td>EqCC15</td><td>86.5±2.3</td><td>5.0±6.9</td><td>8.4±4.6</td><td>1.5±0.01</td><td>5.0±0.1</td></tr><tr><td>EqCC4</td><td>88.6±4.0</td><td>4.6±1.6</td><td>6.8±2.4</td><td>1.4±0.00</td><td>4.7±0.3</td></tr><tr><td rowspan=\"3\">Pariconha</td><td>EpNV</td><td>88.5±1.2</td><td>7.2±2.4</td><td>4.3±1.3</td><td>1.5±0.01</td><td>5.1±0.1</td></tr><tr><td>EpPa10</td><td>85.3±2.4</td><td>11.6±1.7</td><td>3.0±0.6</td><td>1.6±0.02</td><td>5.9±0.1</td></tr><tr><td>EpCC4</td><td>77.8±3.7</td><td>14.7±3.0</td><td>7.5±0.7</td><td>1.5±0.02</td><td>5.4±0.0</td></tr><tr><td rowspan=\"2\">Inhapi</td><td>U1NV</td><td>64.3±3.5</td><td>15.9±2.4</td><td>19.8±5.8</td><td>1.5±0.01</td><td>5.4±0.2</td></tr><tr><td>U1CC30</td><td>58.3±6.3</td><td>19.9±4.8</td><td>21.8±1.6</td><td>1.5±0.01</td><td>5.9±0.1</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4Meteorological data and future climate scenarios ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Meteorological data were used to simulate SOC stock in present period. Historical rainfall data were obtained from the National Water Agency database (https://www.snirh.gov.br/hidroweb/ serieshistoricas).For Delmiro Gouveia District, rainfall data during 1937-2O15 were used; for Pariconha District, the data observed from the rainfall station in Agua Branca District (the nearest station) during 1913-1985 were used; and for Inhapi District, the data observed from the rainfall station in Mata Grande District (the nearest station) during 1961-1991 were used.Air temperature data (maximum and minimum） were obtained using the EstimaT software (Cavalcanti et al., 2006) during 1950-2003 (period available via the software). For the period when air temperature data generated by EstimaT software were unavailable,we followed the previous study (Gois et al., 2005). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For the future period (2O15-21O0),climate scenarios were obtained using the Eta Regional Climate Model (Eta-HadGEM2-ES and Eta-MIROC5）(Chou et al.，2014） provided by the National Institute for Space Research. Climate scenarios employed in this study were based on representative concentration pathway (RCP） radiative forcing， i.e.， RCP4.5 and RCP8.5, representing a radiative forcing of 4.5 and $8 . 5 ~ \\mathrm { W } / \\mathrm { m } ^ { 2 }$ ,respectively (Chou et al., 2014; IPCC,2014). The increase of atmospheric $\\mathbf { C O } _ { 2 }$ concentration was also considered when simulating SOC stock in the future period.As proposed by Meinshausen et al. (2Ol1), the values representing the increase of $\\mathrm { C O } _ { 2 }$ concentration were input, adopting the initial $\\mathrm { C O } _ { 2 }$ concentration of $3 7 9 { \\mathrm { ~ m g / k g } }$ at the start of the simulations (default value of $3 5 0 ~ \\mathrm { m g / k g ) }$ ，reaching 538 and $9 3 6 ~ \\mathrm { m g / k g }$ at the final $\\mathrm { C O } _ { 2 }$ concentration (default value of $7 0 0 ~ \\mathrm { m g / k g ) }$ for ${ \\tt R C P 4 . 5 }$ and $\\mathsf { R C P 8 . 5 }$ ，respectively. Even if $\\mathbf { C O } _ { 2 }$ concentration was adjusted to the level representing its emissions in a future period, it was necessary to change the plant growth rate associated with the increase of $\\mathrm { C O } _ { 2 }$ concentration. In Century model, the default value for the plant growth rate was equal to O.O and we changed this number to 2.0. Despite the current $\\mathrm { C O } _ { 2 }$ concentration in the troposphere was close to $4 1 0 ~ \\mathrm { m g / k g }$ the increase of atmospheric $\\mathrm { C O } _ { 2 }$ was not considered for the present period. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5 Calculation of systematic errors under climate scenarios ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "There were systematic errors in air temperature and rainfall data (diference between the observed and simulated data)，which was mainly caused by physical processes of converting the global model into the regional model. Therefore, it was necessary to verify the magnitude of systematic errors. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For air temperature,we calculated the systematic errors according to the study conducted by Carvalho et al. (2O15),and the formula is as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathrm { T E M P _ { E t a } }$ is the air temperature simulated by different nested Eta Regional Climate Models under climate scenarios $( ^ { \\circ } \\mathrm { C } )$ ; and $\\mathrm { T E M P _ { o b s } }$ is the observed air temperature during 196O-2005 $( ^ { \\circ } \\mathrm { C } )$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "When correcting air temperature, we used a series of data to calculate the systematic errors for the first period (1960-1983)and the second period (1984-2005).This correction method was also used by Carvalho et al. (2015). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "However, the approach used to correct the systematic errors in air temperature was not suitable for rainfall data. The correction of rainfall was defined by Hempel et al. (2O13) as: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc = \\sum _ { i = 1 } ^ { m = 3 0 } R _ { \\mathrm { { i o B S } } } \\div \\sum _ { i = 1 } ^ { m = 3 0 } R _ { \\mathrm { { i E t a } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $c$ is the systematic errors of rainfall; $R _ { i \\mathrm { O B S } }$ is the monthly values of the observed rainfall （204号 $\\left( \\mathrm { m m } \\right)$ ； and $R _ { i \\mathrm { E t a } }$ is the monthly values of the simulated rainfall under climate scenarios using different models in the current period $( \\mathrm { m m } )$ . The period for each district is as follows: (1) Delmiro Gouveia District: 1960-2005 (45 a); (2) Pariconha District: 1960-1985 (25 a)；and (3） Inhapi District: 1961-1991 (30 a). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We applied the following formula to calculate the rainfall data in the future period (2014-2100): ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR i _ { \\mathrm { { \\tiny ~ E t a } } } = c \\times R i _ { \\mathrm { { \\tiny ~ J E t a } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $R _ { i j \\mathrm { E t a } }$ is the corrected monthly values of the simulated rainfall in the future period (mm); and $R _ { i j \\mathrm { E t a } }$ is the monthly values of the simulated rainfall under climate scenarios using different models in the future period (mm).Immediately after correction,the rainfall data under climate scenarios were input into the Century model to estimate SOC under rainfed and irrigated agriculture systems in the different study areas. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.6The simulation of Soil organic carbon (SOC) stock under climate scenarios using the Century model ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We used the Century model to simulate SOC stock at different sites.In order to use the model efficiently, it was necessary to input some data to the Century model, such as crop,soil (texture, bulk density, and $\\mathrm { p H }$ ),and climate (rainfall and air temperature) parameters (Parton et al.,1993). In this study, the model has been calibrated and validated,and more specific information about these processes can be found in previous study (Araujo Neto, 2019, 2021). It was therefore possible to simulate SOC stock during the present (1800-2017) and future (2017-2100) periods. To assess the effects of climate change on SOC stock, we simulated the following nine scenarios in this study: (1) a baseline scenario (reference) using the data of mean rainfall, maximum air temperature,and minimum air temperature in the study areas; (2) four scenarios using air temperature and rainfall data from the Eta-HadGEM2-ES and Eta-MIROC5 models under RCP4.5 and RCP8.5 climate scenarios in rainfed agriculture system; and (3) four scenarios using air temperature and rainfall data from the Eta-HadGEM2-ES and Eta-MIROC5 modelsunder RCP4.5 and RCP8.5 climate scenarios in irrigated agriculture system. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3Results and discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1 Results of air temperature using the Eta-HadGEM2-ES and Eta-MIROC5 models ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The Eta-HadGEM2-ES model was suitable for temperature changes in the current climate scenario.The results indicated that the Eta-HadGEM2-ES model underestimated minimum and maximum air temperature in Pariconha and Inhapi districts, while maximum air temperature was overestimated in Delmiro Gouveia District from June to August (Table 3).In Pariconha and Inhapi districts,the underestimated values of maximum air temperature (i.e.,the simulated values were lower than the observed values) occurred from June to August, varying from $0 . 1 ^ { \\circ } \\mathrm { C }$ to $0 . 7 ^ { \\circ } \\mathrm { C }$ in Pariconha District and from $0 . 4 ^ { \\circ } \\mathrm { C }$ to $1 . 1 ^ { \\circ } \\mathrm { C }$ in Inhapi District. However, for minimum air temperature,the systematic errors were very high, with air temperature underestimated by up to $4 . 0 ^ { \\circ } \\mathrm { C }$ in the three districts (Table 3). The systematic errors of air temperature were higher in dry months (form October to April). The systematic errors of minimum and maximum air temperature were less than $1 . 0 ^ { \\circ } \\mathrm { C }$ and $1 . 1 ^ { \\circ } \\mathrm { C }$ ,respectively,indicating that the model was efficient once the data were corrected. In general, for maximum air temperature,the difference between simulated values and observed values was $3 . 0 \\%$ ， $3 . 1 \\%$ ，and $3 . 1 \\%$ in Delmiro Gouveia,Pariconha,and Inhapi districts,respectively; for minimum air temperature, the difference was $1 . 3 \\%$ ， $2 . 1 \\%$ ，and $2 . 4 \\%$ in Delmiro Gouveia, Pariconha,and Inhapi districts,respectively. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The Eta-MIROC5 model also showed good performance in relation to the historical period (Table 3). When comparing minimum air temperature and maximum air temperature, it can be seen that maximum air temperature showed smaller systematic errors during June-September. Delmiro Gouveia District showed the smallest systematic errors before the data generated by the Eta-MIROC5 model was corrected,with maximum systematic errors of $4 . 4 ^ { \\circ } \\mathrm { C }$ for minimum air temperature and $5 . 6 ^ { \\circ } \\mathrm { C }$ for maximum air temperature.The correction efficiency showed that the systematic errors varied from $1 . 4 ^ { \\circ } \\mathrm { C }$ of minimum air temperature in Delmiro Gouveia District to $3 . 6 ^ { \\circ } \\mathrm { C }$ of maximum air temperature in Inhapi District. It can be seen that the Eta-MIROC5 model was satisfactory in correcting air temperature,but its systematic errors were greater than the Eta-HadGEM2-ES model，which indicated the Eta-HadGEM2-ES model was effective in estimating air temperature. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/be50b73e2e271308a297376cd037e71eccc23a6c43c508ca00bff94c42bd7e7a.jpg",
+        "table_caption": [
+            "Table 3Maximum and minimum air temperature in different month from 196O to 2O05 using the Eta-HadGEM2-ES and Eta-MIROC5 models in Delmiro Gouveia,Pariconha,and Inhapi districts "
+        ],
+        "table_footnote": [
+            "Note:Tmin,minimumair temperature；Tmax,maximumair temperature；Obs,observedair temperature；Sim,simulatedair emperature;Corr,corrected air temperature. "
+        ],
+        "table_body": "<html><body><table><tr><td></td></tr><tr><td rowspan=\"4\">Month</td><td colspan=\"8\"></td><td colspan=\"4\">Eta-HadGEM2-ES</td><td colspan=\"5\"></td></tr><tr><td colspan=\"6\">Delmiro Gouveia District</td><td colspan=\"5\">Pariconha District</td><td colspan=\"5\">Inhapi District</td></tr><tr><td colspan=\"2\">Tmin (C)</td><td colspan=\"3\">Tmax (C)</td><td colspan=\"3\">Tmin (C)</td><td colspan=\"3\">Tmax (C)</td><td colspan=\"5\">Tmin (C) Tmax (C)</td></tr><tr><td>Obs</td><td>Sim</td><td>Corr</td><td>Obs</td><td>Sim</td><td>Corr</td><td>Obs</td><td>Sim</td><td>Corr</td><td>Obs</td><td>Sim</td><td>Corr Obs</td><td>Sim</td><td>Corr</td><td>Obs</td><td>Sim</td><td>Corr</td></tr><tr><td>Jan</td><td>21.2</td><td>18.2</td><td>21.2</td><td>34.5</td><td>32.7</td><td>35.2</td><td>21.2</td><td>18.1</td><td>21.3</td><td>34.5 31.8</td><td>35.2</td><td>21.2</td><td>18.1</td><td>21.3</td><td>34.5</td><td>31.5</td><td>35.2</td></tr><tr><td>Feb</td><td>21.5</td><td>19.6</td><td>22.1</td><td>34.6</td><td>32.4</td><td>34.9</td><td>21.5</td><td>19.2</td><td>22.0</td><td>34.6</td><td>31.5 34.8</td><td>21.5</td><td>19.1</td><td>21.9</td><td>34.6</td><td>31.3</td><td>34.9</td></tr><tr><td>Mar</td><td>21.6</td><td>19.7</td><td>21.7</td><td>34.3</td><td>32.4</td><td>34.5</td><td>21.6</td><td>19.4</td><td>21.7</td><td>34.3</td><td>31.6 34.5</td><td>21.6</td><td>19.3</td><td>21.7</td><td>34.3</td><td>31.4</td><td>34.5</td></tr><tr><td>Apr</td><td>21.2</td><td>18.4</td><td>20.9</td><td>32.6 31.1</td><td></td><td>33.0</td><td>21.2</td><td>18.2</td><td>21.0</td><td>32.6</td><td>30.3 33.0</td><td>21.2</td><td>18.1</td><td>21.0</td><td>32.6</td><td>30.0</td><td>33.0</td></tr><tr><td>May</td><td>20.3</td><td>17.1</td><td>20.2</td><td>29.6 29.4</td><td></td><td>30.0</td><td>20.3</td><td>17.0</td><td>20.3</td><td>29.6</td><td>28.7</td><td>30.1</td><td>20.3 17.0</td><td>20.3</td><td>29.6</td><td>28.3</td><td>30.1</td></tr><tr><td>Jun</td><td>19.2</td><td>15.5</td><td>18.9</td><td>28.0 28.5</td><td></td><td>28.5</td><td>19.2</td><td>15.6</td><td>19.0</td><td>28.0</td><td>27.7</td><td>28.5</td><td>19.2 15.7</td><td>19.0</td><td>28.0</td><td>27.4</td><td>28.5</td></tr><tr><td>Jul</td><td>18.3</td><td>14.9</td><td>18.2</td><td>27.4</td><td>28.4</td><td>27.8</td><td>18.3</td><td>15.1</td><td>18.2</td><td>27.4</td><td>27.7</td><td>27.8</td><td>18.3 15.1</td><td>18.2</td><td>27.4</td><td>27.3</td><td>27.8</td></tr><tr><td>Aug</td><td>18.1</td><td>15.0</td><td>17.8</td><td>28.2</td><td>29.2</td><td>28.6</td><td>18.1</td><td>15.1</td><td>17.9</td><td>28.2</td><td>28.4</td><td>28.5</td><td>18.1 15.1</td><td>17.9</td><td>28.2</td><td>28.0</td><td>28.6</td></tr><tr><td>Sep</td><td>19.1</td><td>15.7</td><td>18.8</td><td>30.7</td><td>30.7</td><td>31.1</td><td>19.1</td><td>15.8</td><td>18.8</td><td>30.7</td><td>30.0</td><td>31.0 19.1</td><td>15.8</td><td>18.8</td><td>30.7</td><td>29.7</td><td>31.0</td></tr><tr><td>Oct</td><td>20.2</td><td>16.7</td><td>20.2</td><td>33.4 32.1</td><td></td><td>34.0</td><td>20.2</td><td>16.7</td><td>20.2</td><td>33.4</td><td>31.3 34.0</td><td>20.2</td><td>16.6</td><td>20.1</td><td>33.4</td><td>31.0</td><td>34.0</td></tr><tr><td>Nov</td><td>21.0</td><td>17.3</td><td>21.0</td><td>34.8</td><td>32.9</td><td>35.8</td><td>21.0</td><td>17.3</td><td>21.0</td><td>34.8</td><td>32.2 35.8</td><td>21.0</td><td>17.3</td><td>21.0</td><td>34.8</td><td>31.9</td><td>35.9</td></tr><tr><td>Dec</td><td colspan=\"7\">21.2 18.0 21.2 34.6 32.9 35.3 21.2 17.9</td><td>21.2 34.6</td><td>32.1</td><td>35.3</td><td>21.2</td><td>17.9</td><td>21.2</td><td>34.6</td><td>31.8</td><td>35.3</td></tr><tr><td rowspan=\"4\">Month</td><td colspan=\"7\"></td><td colspan=\"7\">Eta-MIROC5</td><td></td><td></td></tr><tr><td colspan=\"6\">Delmiro Gouveia District</td><td colspan=\"4\">Pariconha District</td><td colspan=\"6\"></td><td>Inhapi District</td></tr><tr><td>Tmin (C)</td><td colspan=\"4\">Tmax (C)</td><td colspan=\"4\">Tmin (C)</td><td colspan=\"2\">Tmax (C)</td><td colspan=\"5\">Tmin (C) Tmax (C)</td></tr><tr><td>Obs</td><td>Sim</td><td>Corr</td><td>Obs</td><td>Sim</td><td>Corr</td><td>Obs</td><td>Sim</td><td>Corr</td><td>Obs Sim</td><td>Corr</td><td>Obs</td><td>Sim</td><td>Corr</td><td>Obs Sim</td><td>Corr</td></tr><tr><td>Jan</td><td>21.2 17.6</td><td>20.7</td><td>34.5</td><td>29.7</td><td>32.2</td><td>21.2</td><td>17.3</td><td>20.5</td><td>34.5</td><td>28.8</td><td>32.2 21.2</td><td>17.2</td><td>20.4</td><td>34.5</td><td>28.4</td><td>32.0</td></tr><tr><td>Feb</td><td>21.5</td><td>18.5</td><td>21.1</td><td>34.6</td><td>29.2</td><td>31.7</td><td>21.5</td><td>18.0</td><td>20.8 34.6</td><td>28.4</td><td>31.7</td><td>21.5</td><td>17.9</td><td>20.7</td><td>34.6 28.0</td><td>31.6</td></tr><tr><td>Mar</td><td>21.6</td><td>18.9</td><td>20.9</td><td>34.3</td><td>28.8</td><td>30.9</td><td>21.6</td><td>18.3 20.7</td><td>34.3</td><td>28.0</td><td>30.9</td><td>21.6</td><td>18.2</td><td>20.6</td><td>34.3 27.6</td><td>30.8</td></tr><tr><td>Apr</td><td>21.2</td><td>18.2</td><td>20.7</td><td>32.6 27.4</td><td></td><td>29.3</td><td>21.2 17.7</td><td></td><td>20.4 32.6</td><td>26.5</td><td>29.1</td><td>21.2</td><td>17.5</td><td>20.4</td><td>32.6 26.0</td><td>29.0</td></tr><tr><td>May</td><td>20.3</td><td>17.0</td><td>20.2</td><td>29.6</td><td>26.4 27.0</td><td>20.3</td><td>16.7</td><td>20.0</td><td>29.6</td><td>25.6</td><td>27.0</td><td>20.3</td><td>16.6</td><td>20.0 29.6</td><td>25.1</td><td>26.8</td></tr><tr><td>Jun</td><td>19.2</td><td>16.4</td><td>19.7 27.4 26.6</td><td>28.0</td><td>26.2 26.2 26.0</td><td>19.2</td><td>16.2</td><td>19.5 15.3 18.4</td><td>28.0 27.4</td><td>25.5 25.9</td><td>26.2 26.0</td><td>19.2 18.3</td><td>16.1 15.2</td><td>19.5 28.0 18.3 27.4</td><td>25.0 25.5</td><td>26.1 25.9</td></tr><tr><td>Jul Aug</td><td>18.3</td><td>15.4 18.6 14.6 17.5</td></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "When simulating the corrected data in future scenarios, it can be seen that there was a temperature difference between RCP4.5 and RCP8.5 (Table 4). This difference was caused by the performance of the model in relation to radiative forcing, because the temperature will rise when the solar radiation in the atmosphere increased.The results showed that there was a difference in the mean air temperature between 2006 and 2100 under RCP4.5 of the Eta-HadGEM2-ES model, while a smaller difference was seen under $\\mathsf { R C P 8 . 5 }$ of the Eta-MIROC5 model.Delmiro Gouveia District showed the greatest rise in mean air temperature during 2O06-2100 $( 4 . 8 ^ { \\circ } \\mathrm { C } )$ under $\\mathsf { R C P 8 . 5 }$ of the Eta-HadGEM2-ES model, while Delmiro Gouveia and Pariconha districts had an increase of $3 . 2 ^ { \\circ } \\mathrm { C }$ and $3 . 3 ^ { \\circ } \\mathrm { C }$ ,respectively, under RCP8.5 of the Eta-MIROC5 model. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/09029e3f7c5e37137afd57d3869c2329388f35035f30286d27b425d1e64cac32.jpg",
+        "table_caption": [
+            "Table 4Mean air temperature in 2OO6 and 210O and air temperature diffrence between the two years under ${ \\tt R C P 4 . 5 }$ and $\\mathrm { R C P 8 . 5 }$ climate scenarios using the Eta-HadGEM2-ES and Eta-MIROC5 models in Delmiro Gouveia,Pariconha,and Inhapi districts "
+        ],
+        "table_footnote": [
+            "Note: T2oo6, mean air temperature in 2006; $\\mathrm { T } _ { 2 1 0 0 }$ ,mean air temperature in 21oo; difference,air temperature difference between 2Oo6 and 2100. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">Climate scenario</td><td colspan=\"9\">Eta-HadGEM2-ES model</td></tr><tr><td colspan=\"3\">Delmiro Gouveia District</td><td colspan=\"3\">Pariconha District</td><td colspan=\"3\">Inhapi District</td></tr><tr><td>T2006</td><td>T2100</td><td>Difference</td><td>T2006</td><td>T2100</td><td>Difference</td><td>T2006</td><td>T2100</td><td>Difference</td></tr><tr><td>RCP4.5</td><td>26.5</td><td>28.3</td><td>1.8</td><td>26.5</td><td>28.3</td><td>1.8</td><td>26.6</td><td>28.3</td><td>1.7</td></tr><tr><td>RCP8.5</td><td>26.5</td><td>31.2</td><td>4.8</td><td>26.5</td><td>31.2</td><td>4.7</td><td>26.5</td><td>31.2</td><td>4.7</td></tr><tr><td rowspan=\"3\">Climate scenario</td><td colspan=\"9\">Eta-MIROC5 model</td></tr><tr><td colspan=\"3\">Delmiro Gouveia District</td><td colspan=\"3\">Pariconha District</td><td colspan=\"3\">Inhapi District</td></tr><tr><td>T2006</td><td></td><td>T2100</td><td>Difference</td><td>T2006</td><td>T2100</td><td>Difference</td><td>T2006</td><td>T2100</td><td>Difference</td></tr><tr><td>RCP4.5</td><td>26.0</td><td>27.5</td><td>1.5</td><td>26.0</td><td>27.5</td><td>1.5</td><td>26.0</td><td>27.5</td><td>1.5</td></tr><tr><td>RCP8.5</td><td>25.7</td><td>29.0</td><td>3.2</td><td>25.8</td><td>29.1</td><td>3.3</td><td>25.8</td><td>29.1</td><td>3.3</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Carvalho et al. (2O15） carried out a similar analysis using the Eta-CPTEC model in Pernambuco State of Brazil and found that temperature increased by up to $5 . 0 ^ { \\circ } \\mathrm { C }$ until 2100. The results are similar to this study, but the climate in Pernambuco State is different from this study (humid and semi-arid, respectively),which has a significant impact on agriculture systems and soil dynamics. According to IPCC (2O14), the temperature increase may reach $2 . 0 ^ { \\circ } \\mathrm { C }$ (RCP4.5) and $4 . 0 ^ { \\circ } \\mathrm { C }$ (RCP8.5) by 21Oo. Some studies indicated that the global mean temperature may rise by $1 . 8 ^ { \\circ } \\mathrm { C }$ and $4 . 0 ^ { \\circ } \\mathrm { C }$ by 21Oo. If the population and economy continue to grow rapidly and the massive consumption of fossil fuels is maintained, the temperature may reach $6 . 4 ^ { \\circ } \\mathrm { C }$ (IPCC, 2014).These simulations are crucial for socio-economic impacts,as they can help rural producers and decision-makers develop new strategies to make better use of land. Climate change, with an increase in temperature approximately $4 . 0 ^ { \\circ } \\mathrm { C }$ (Table 4),can identify possible precautions related to agriculture management, especially in soil management, the utilization of new cultivation practices, or even the adoption of other crops in the region. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2Results of rainfall from the Eta-HadGEM2-ES and Eta-MIROC5 models ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The rainfall estimated by the Eta-HadGEM2-ES and Eta-MIROC5 models showed the variation among different months (Fig.1).The Eta-HadGEM2-ES model underestimated the rainfall data in the three districts,with the greater underestimated values in Pariconha and Inhapi districts (Fig. la-c).The mean underestimated value simulated by the Eta-HadGEM2-ES model was 240.5, 199.1, and $2 3 5 . 5 \\mathrm { m m }$ in Delmiro Gouveia, Pariconha,and Inhapi districts, respectively, indicating it was underestimated by $5 3 . 0 \\%$ ， $8 0 . 0 \\%$ ，and $78 . 0 \\%$ compared with the observed rainfall data. However, compared with the observed data,the Eta-MIROC5 model overestimated the rainfall data,especially in Pariconha and Inhapi districts during January-April and in Delmiro Gouveia District during January-May (Fig.1d-f). It can be seen that,after correction,the simulated data in the two models were similar to the observed data in the three districts,which indicated that the correction was of fundamental importance for the simulation of future periods. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For the Eta-HadGEM2-ES and Eta-MIROC5 models, climate scenarios (RCP4.5 and RCP8.5) showed that the annual rainfall was low in 21OO in the three districts,with a mean reduction of $2 9 . 2 \\%$ compared with 20O6 (Fig. 2). Carvalho et al. (2015) conducted a similar analysis using climate scenarios from Eta Regional Climate Model in Pernambuco State of Brazil, and the results indicated that the rainfall decreased by $44 \\%$ in 21Oo.The reduction in rainfall was high in both study areas,but due to different climates (semi-arid in this studyand humid in Pernambuco State),the impacts may be different.Rainfall in the semi-arid region of Northeast Brazil has decreased significantly due to drought (Carvalho et al., 2020). During 2012-2013, most of the semi-arid region suffered extensive and intensive vegetation drought,accounting for about $8 5 \\%$ of the region (Marengo et al., 2O16). The impacts on rainfall could be more serious because the climate models predict that, in the most pessimistic scenarios, temperature will rise above $4 . 0 ^ { \\circ } \\mathrm { C }$ by the end of the century. It should also be noted that the Eta-HadGEM2-ES model simulated an increase in rainfall under RCP4.5 climate scenario from 2O31 to 2O85.This increase can be seen in the last few years of the simulated RCP8.5 climate scenario,particularly in Inhapi District (Fig.2c),with an increase of approximately $1 5 0 0 \\mathrm { m m }$ above mean rainfall. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "-Observed rainfall Simulated rainfall ·Simulated rainfall after correction 250 250 250 200 (a)Delmiro Gouveia District 200 (b) Pariconha District 200 (c) Inhapi District () maraier nrirn 150 50 150 50 150 50 0 0 0 2 M M M Sou AON Dee MA血 S0 Dee Wa Jdv KeW m s0 AON Dee 250 250 250 200 (d) Delmiro Gouveia District 200 (e)Pariconha District 200 (f) Inhapi District 150 150 150 100 100 100 50 50 50 0+ 0 0 2 PM JdP m SnA so AON Bee MA 三 nA dəs 150 Wr Jdy KW 1 三 nA S0 Dee Month Month Month ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/0eaa213be3c517d30884a4993131908bd672c33a4a7b8c573f9587381e768ddc.jpg",
+        "img_caption": [
+            "Fig.1Observed mean monthly rainfall,simulated mean monthly rainfall,and simulated mean monthly rainfall after correction using Eta-HadGEM2-ES (a,b,and c)and Eta-MIROC5(d,e,and f) models in Delmiro Gouveia, Pariconha,and Inhapi districts ",
+            "Fig.2Simulated annual rainfall under ${ \\tt R C P 4 . 5 }$ and $\\mathsf { R C P 8 . 5 }$ climate scenarios using Eta-HadGEM2-ES (a,b, and c)and Eta-MIROC5(d,e,and f)models during 2006-210 in Delmiro Gouveia,Pariconha,and Inhapi districts.Mean rainfallis the average of simulated annual rainfall under baseline scenario. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3SOC stock in rainfed and irrigated agriculture systems ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 SOC stock in rainfed agriculture system ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "SOC stock simulated by the Century model for the present and future periods under rainfed agriculture system was shown in Figure 3. Compared with RCP4.5 and RCP8.5 climate scenarios, SOC stock was lower under the baseline scenario.The greatest reduction in SOC stock occurred in $\\mathrm { E q C C 4 }$ site of Delmiro Gouveia District; while other sites also showed a high reduction, e.g., EpPa10 $( 3 0 . 6 \\% )$ and EpCC4 $( 3 0 . 2 \\% )$ sites in Pariconha District as well as EqCC15 $( 2 7 . 2 \\% )$ site in Delmiro Gouveia District.The UlCC3O site of Inhapi District showed the smallest reduction in SOC stock, with a variation of $2 . 1 \\%$ . When comparing the different soil types, SOC stock varied from $1 5 4 4 ~ \\mathrm { g } / \\mathrm { m } ^ { 2 }$ in Quartzipsamment (Delmiro Gouveia District) to $2 8 9 8 ~ \\mathrm { g } / \\mathrm { m } ^ { 2 }$ in Ultisol (Inhapi District). SOC stock had also been evaluated in areas of Caatinga vegetation in Northeast Brazil under different forest managements,and the results indicated that burning or residues had little effect on SOC stock under the current climate (Althoff et al., 2O16,2018). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The reduction of SOC stock could be even greater due to the impact of climate change. When comparing RCP4.5 and RCP8.5 climate scenarios with baseline scenario, some regions showed a greater reduction trend.Delmiro Gouveia District showed the greatest reduction in SOC stock by 2100,with the variation from $5 . 4 \\%$ to $1 1 . 2 \\%$ at $\\operatorname { E q C C 1 5 }$ site and from $3 . 3 \\%$ to $9 . 4 \\%$ at $\\mathrm { E q C C 4 }$ site.The reduction of SOC stock was less intense,with the variation from $2 . 6 \\%$ to $6 . 3 \\%$ in the Pariconha District and from $0 . 6 \\%$ to $3 . 7 \\%$ in the Inhapi District. Althoff et al. (2O16) estimated that due to climate change, SOC stock will be reduced by approximately $10 \\% - 1 5 \\%$ by 2100 in the semi-arid region of Paraiba State in Brazil. However, the reductions of SOC stock may be even greater due to the management measures adopted in agroforestry areas. Considering the 20-year cycle of cuting the native vegetation and the impacts of climate change,SOC stock would be reduced by $20 \\% - 3 0 \\%$ by the end of this century (Althoff et al.,2O16). It was worth noting that according to the climate model, SOC stock increased in some regions,for example, UICC3O site in Inhapi District and EpPalO site in Pariconha District. The increase of SOC stock was also related to land use and management, such as no-tillage system, integrated crop-livestock systems,and integrated crop-livestock-forest systems (Cidin, 2016). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The Eta-HadGEM2-ES model showed a greater reduction in SOC stock, especially in Delmiro Gouveia District，while the Eta-MIROC5 model presented a smaller reduction (Fig. 3). Furthermore, for RCP4.5 and $\\mathsf { R C P 8 . 5 }$ climate scenarios, the results also differed according to the climate model used. The ${ \\tt R C P 4 . 5 }$ climate scenario showed greater reductions in SOC stock than RCP8.5 climate scenario in the Eta-HadGEM2-ES model， particularly in Delmiro Gouveia District. However, it should be noted that SOC stock in the semi-arid region of Brazil was relatively low,and any carbon losses,even small, may further impair the soil quality, especially sandy soil without the mechanisms of carbon stabilization/retention. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3.2 SOC stock under irrigated agriculture system ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In the irrigated agriculture systems, SOC stock increased in the almost all scenarios and models (Fig. 4), ranging from $6 . 2 \\%$ to $1 8 . 4 \\%$ in 21OO compared with the baseline scenario.The Delmiro Gouveia District showed the greatest increase in SOC stock during 2O10-21O0,varying from $1 4 . 0 \\%$ to $1 8 . 3 \\%$ on $\\mathrm { E q C C 4 }$ site and from $1 1 . 1 \\%$ to $1 4 . 0 \\%$ on $\\operatorname { E q C C 1 5 }$ site.The increase in SOC stock was less intense,with changes ranging from $1 0 . 9 \\%$ to $1 1 . 6 \\%$ on UlCC3O site and $6 . 2 \\%$ to $8 . 9 \\%$ on $\\mathrm { E p C C 4 }$ site.Only the EpPalO site showed a reduction in SOC stock under irrigated agriculturesystem， ranging from $4 . 3 \\%$ to $8 . 8 \\%$ ．The RCP8.5 climate scenario (both Eta-HadGEM2-ES and Eta-MIROC5 models) tended to show a greater increase in SOC stock by 2100.That is, under each agriculture system, the RCP8.5 climate scenario promoted the reduction of carbon loss and the recovery trend of SOC stock in some cases,such as on $\\mathtt { E q C C 1 5 }$ and $\\mathrm { E q C C 4 }$ sites. It can also be seen that the carbon loss was closely related to the soil texture, since UlCC3O site showed a smaller carbon loss over time. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In this context, the irrigated agriculture system became an alternative to decrease carbon loss. However, it was important to remember that the availability of water in this region is limited, requiring sustainable irigation management. The irigated area in the semi-arid region of Brazil was $4 . 7 { \\times } 1 0 ^ { 3 } ~ \\mathrm { k m } ^ { 2 }$ with a potential increase to $7 . 1 { \\times } 1 0 ^ { 3 } ~ \\mathrm { k m } ^ { 2 }$ until 2030 (National Water Agency, 2017).Therefore, new technologies for the sustainable use of irrigation must be adopted in the semi-arid regions as a strategy to expand the irigated area and promote the mitigation of greenhouse gas emissions. On the other hand,the climate change can also affect the availability of water resources and may influence the development of agriculture activities，especially in irrigated system (Rossato et al., 2017). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/6def55b0dc548c5526f7e46378c8f0c2cf8f5419c2e07d3d9ac89f0d77f42df1.jpg",
+        "img_caption": [
+            "Fig.3SOC stock in rainfed agriculture system under ${ \\mathrm { R C P } } 4 . 5$ and RCP 8.5 climate scenarios using the Eta-HadGEM2-ES (a,c,e,g,andi) and Eta-MIROC5 (b,d,f,h,and j) models in Delmiro Gouveia,Pariconha, and Inhapi districts "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The smaller carbon loss in CPR8.5 climate scenario may be related to the physiology of $\\mathrm { C } _ { 4 }$ plants,such as maize,due to the efficiency of the photosynthetic process.Similar results have been observed in the Northeast Brazil (Carvalho et al.， 2015). $\\mathrm { C } _ { 4 }$ plants can reduce themselves transpiration rate and maintain the water ratio,so as to reduce the water use of the whole plant and conserve soil moisture. On the contrary, water stress willreduce plant stomatal conductance, limit photosynthesis, and reduce yield (Ghannoum et al.,20oo; Leakey,20O9). It was worth noting that the carbon accumulation was high in soil, which was mainly due to the root system, not only through the decomposition of dead roots, but also via exudates (Guareschi and Pereira, 2013). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/098eec0fbebfc9d58372ffbd3469a19eb13940612e3b5a24090f45ccdc04f437.jpg",
+        "img_caption": [
+            "Fig.4SOC stock in irrigated agriculture system under RCP4.5 and $\\mathrm { R C P ~ } 8 . 5$ climate scenarios using the Eta-HadGEM2-ES(a,c,e,g,andi) and Eta-MIROC5(b,d,f,h,and j) models in Delmiro Gouveia,Pariconha, and Inhapi districts "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4 Conclusions ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This study involves mitigating greenhouse gas emissions and promoting carbon sequestration through the adoption of different management practices in agriculture systems.The Century model can identify the possible impacts of climate change through the changes of SOC stock observed in different management practices.In this way,the model can contribute to identify improvements in public policies related to climate change and use new technologies that help mitigate greenhouse gases. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Our results showed that the Eta-HadGEM2-ES model was effective in estimating air temperature,and the rainfall simulated by the Eta-HadGEM2-ES and Eta-MIROC5 models after correction was similar to the observed data. In rainfed agriculture system, SOC stock under the baseline scenario was lower than that under RCP4.5 and RCP8.5 climate scenarios,and the reduction of SOC stock could be even greater due to the impact of climate change.In irrigated agriculture system, SOC stock in the almost all climate scenarios (RCP4.5 and RCP8.5） and models(Eta-HadGEM2-ES and Eta-MIROC5）will increase by 2100.But, the $\\mathsf { R C P 8 . 5 }$ climate scenario tended to show a greater increase in SOC stock,as it promoted the reduction of carbon loss and the recovery trend of SOC stock. In addition to rainfed and irrigated agriculture systems, future studies should assess the impact of other agriculture systems or practices on SOC stock under climate change. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This study was supported by the the National Council for Scientific and Technological Development of Brazil and Ministry of Science,Technology, Innovation (MCTI) of Brazil (383697/2015-8).We are grateful for the Federal Universityof Pernambuco and the Universityof So Paulo.We also thank the Brazilian Research Network on Global Climate Change (Rede Clima), which provided the scholarship to Renato Americo ARAUJO-NETO. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "AguileraE,LassletaL,GatingerA,etal.2Ol3.Managingsoilcarbonforclimatechangemitigationandadaptationin Mediterranean cropping systems: A meta-analysis.Agriculture,Ecosystems and Environment,168: 25-36.   \nAlthoff TD,Menezes $\\textsf { R S C }$ ,Carvalho AL,et al.2O16.Climate change impacts on the sustainability of the firewood harvest andvegetationandsoilcarbonstocks inatropicaldryforestin Santa Teresinha MunicipalityNortheast Brazil.Forest Ecology and Management,360: 367-375.   \nAlthoffTD,MenezesRSC,PintoAS,etal.2O18.Adaptatioofthecentury modeltosimulate CandNdynamicsofCaatinga dry forest before and after deforestation.Agriculture,Ecosystems and Environment,254: 26-34.   \nAlvaro-Fuentes J,LpezMV,ArreJL,etal.2O09.Tilageandcropping effectsonsoilorganiccarbon in Mediterranean semiarid agroecosystems: Testing the Century model.Agriculture,Ecosystems and Environment,134: 211-217.   \nAlvaro-Fuentes J,Paustian K.2O11.Potential soilcarbonsequestration inasemiarid Mediterrnean agroecosystemunder climate change: Quantifying management and climate effects. Plant and Soil, 338: 261-272.   \nAraujo NetoRA.2O19.Useof the Century modelin soil carbon dynamics in the semiarid regionof Alagoas:future climate scenarios inirrigatedandrainfed environments.PhDDissertation.RioLargo:FederalUniversityof Alagoas,1-113.(in Portuguese)   \nAraujo NetoRA,MaiaSMF,Althof TD,etal.2O21.Simulationof soilcarbonchangesdue toconventional systems inthe semi-arid region of Brazil: adaptationand validation of the century model. Carbon Management,12(4):399-410.   \nBordinI,NevesCSVJ,MedinaCC,etal.O08.Drymater,carbonandnitrogenofsobeanandmazerootsinnotillgend conventional tillage.Brazilian Agricultural Research,43(12):1785-1792.(in Portuguese)   \nBortolon E S O,Mielniczuk J,Tornquist $\\mathbf { C } \\mathbf { \\Psi } \\mathbf { G } ,$ et al.2O11.Validation of the Century model to estimate the impact of agriculture on soil organic carbon in Southern Brazil.Geoderma,167-168:156-166.   \nBortolonESO,MielniczukJ,ornquistCG,etal.20l2.PotentialtousethecenturymodelandGIStoassess theipactof agricultureonregional soil organiccarbon stocks.Brazilian JournalofSoil Science,36(3):831-850.(inPortuguese)   \nBrandani C B,Abbruzzini ${ \\textsc { T F } } ,$ Williams S,et al. 2O15.Simulation of management and soil interactions impacting SOC dynamics in sugarcane using the CENTURY model. Global Change Biology Bioenergy,7(4): 646-657.   \nCarvalhoAL,Menezes R SC,NóbregaR S,et al.2O15.Impact of climate changes on potential sugarcane yield in Pernambuco,northeastern region of Brazil.Renewable Energy,78:26-34. oustaavuty Dtvalc,1().   \nCastro CN.2011.Transpositionof the SaoFranciscoRiver:projectopportunityanalysis.[2021-10-25].htps://ww.ipea.gov. br/portal/index.php?option $\\ c =$ com_content&view=article&id $\\scriptstyle 1 = 9 7 4 9$ . (in Portuguese)   \nCastro CN.2O18.Onirrigated agriculture in thesemiaridregion:ahistoricalandcurrent analysis of diffrentpolicyoptions. [2021-10-25]. htps://www.ipea.gov.br/portal/index.php?option $\\scriptstyle 1 = ($ com_content&view $\\mathbf { \\bar { \\rho } } = \\mathbf { \\rho }$ article&id $_ { = 3 2 6 0 7 }$ :td-2369-sobre-aagricultura-irigada-no-semiariduma-analise-istorica-e-atal-de-diferentes-opcos-de-politica&catid=411:2O&director $\\scriptstyle { \\mathrm { y = 1 } }$ .(in Portuguese)   \nCavalcanti EP, Silva VPR,SouzaFA S.2O06.Computer program for the estimation of air temperature forthe Northeast region of Brazil.Brazilian Journal of Agricultural and Environmental Engineering,10(1):140-147. (in Portuguese)   \nCeri CEP,Paustian K,Beroux M,etal.2O04.Modelingchanges insoilorganic materinAmazon forest topasture conversion with the Century model. Global Change Biology,10(5): 815-832.   \nChou SC,Lyra A,Mourao C,et al.2014.Assessment of climate change over South America under RCP 4.5 and 8.5 downscaling scenarios. American Journal of Climate Change, 3(5): 512-527.   \nCidin ACM.2016.Carbon stock in Brazilian soilsand potential contribution tothe mitigation of greenhouse gas emissions. MSc Thesis. Araras: Federal University of Sao Carlos. (in Portuguese)   \nCostaCAL.2O21.Semiarid Regionof Paraiba:A Teritorial Review.Areia:Federal Universityof Paraiba,1-45.(in Portuguese)   \nBarretoOW.1997.Manualof Soil Analysis Methods.Riode Janeiro:Brazilian Agricultural Research Corporation.(in Portuguese)   \nBaros HC B.2O12.Research and Development Buletin (Climatologyof the Stateof Alagoas).Recife: Brazilian Agricultural Research Corporation. (in Portuguese)   \nFerreiraJG2O19.Thetranspositionof the watersofthe SaoFrancisco River intheresponsetothedroughtinthe Brazilian Northeast:Chronologyof the transformationof the idea intoa work.Latin American Journal of International Relations, 1(2):53-72.(in Portuguese)   \nGhannoum O, Von Caemmerer S, Ziska L H,et al. 20oo. The growth response of $\\mathrm { C } _ { 4 }$ plants to rising atmospheric $\\mathrm { C O } _ { 2 }$ partial pressure: a reassessment. Plant, Cell and Environment, 23: 931-942.   \nGois G,SouzaJL,SilvaPRT,etal.2o5.Characterzationofdesertificationinthestateoflagoasusingclimaticvariables. Brazilian Journal of Meteorology,20(3): 301-314. (in Portuguese)   \nGuareschi RF,Pereira M G2013.Carbon,lightorganic materandoxidizable fractions oforganiccarbonunderalleysystems. Brazilian Forest Research,33(74): 109-114.(in Portuguese)   \nHargreaves G H.1974.Estimationof potentialand crop evapotranspiration.Transactions of the ASAE,17(4):701-704.   \nHempelS,Frieler K,Warszawski L,et al.2O13.A trend-preserving biascorrction-the ISI-MIPapproach.Earth System Dynamics,4(1): 219-236.   \nIPCC.2014.Mitigation of Climate Change.Working Group II Contribution to the Fifth Assessment Report of the IntergovernmentalPanelon Climate Change.In:EdenhoferO,Pichs-MadrugaR,SokonaY,etal.Cambridgeand NewYork: Cambridge University Press,151.   \nKeesstra SD,BoumaJ,WallingaJ,etal.2O16.ThesignificanceofsoilsandsoilsciencetowardsrealizationoftheUnited Nations Sustainable Development Goals. Soil, 2(2): 111-128.   \nKeesstra SD,MolG,De Leeuw J,etal.2018.Soil-related Sustainable Development Goals:Fourconcepts to make land degradation neutrality and restoration work.Land,7(4):133,doi: 10.3390/land7040133.   \nLeakey AD B.2oo9.Rising atmospheric carbon dioxide concentration and the future of $\\mathrm { C } _ { 4 }$ crops for food and fuel. Proceedings of the Royal Society B: Biological Sciences,276(1666): 2333-2343.   \nLeite LFC,Mendonca ES.2003. Century model of soil organic mater dynamics: Equations and assmptions.Rural Science, 33(4): 679-686. (in Portuguese)   \nLima LG MirandaAR,LimaEFS,etal.2019.Pesticides inthe semiaridregionof Alagoas:chemical-dependentagriculture and its contradictions. Diversitas Journal, 4(3): 829-847. (in Portuguese)   \nLinacreET.1977.Asimple formula for estimating evapotranspiration rates in various climates,using temperature data alone. Agricultural Meteorology,18(6): 409-424.   \nMachadoPLOA.2005.Soilcarbonand the mitigationof global climate change.New Chemistry,28(2):329-34.(in Portuguese)   \nMarengo JA.2014.Brazil's future climate.Journal of University of Sao Paulo,103(1): 25-32.(in Portuguese)   \nMarengoJA,Cunha APM A,Alves L M.2016.The 2012-2015 drought in the semiarid region of Northeast Brazil in the historicalcontext.[2021-05-16].htp://limanalise.cptec.inpe.br/\\~rclimanl/revista/pdf/30anos/marengoetal.pdf.(in Portuguese)   \nMeinshausen M,Smith SJ,Calvin K,etal.20l1.TheRCP greenhouse gas concentrations and their extensions from1765 to 2300. Climatic Change,109(1-2): 213-241.   \nMinistryof National Integration.2O17a.Technicaland scientificcriteria fordelimitingtheBraziliansemiaridregionand proceduresforreviewingitsscope.[2020-12-01].htps://ww.in.gov.br/materia/-/asset_publisher/Kujrw0TZC2Mb/ content/id/19287874/do1-2017-09-13-resolucao-n-107-de-27-de-julho-de-2017-19287788.(in Portuguese)   \nMinistryof National Integration.2O17b.Deliberative Councilof the NortheastDevelopment Superintendence.[2O20-12-01]. https://www.in.gov.br/materia/-/asset_publisher/KujrwTZC2Mb/content/id/739568/dol-2017-12-05-resolucao-n-11-de-23 -de-novembro-de-2017-739564.(in Portuguese)   \nMonteiroJMG,AngelotiF,Santos MMO.20l7.Adaptationand mitigation toclimatechange: contributionof soilecosystem services.Newsletter of the Brazilian Soil Science Society,43(2): 31-36.(in Portuguese)   \nMoriasiDN,ArnoldJG,VanLiewMW,etal.2Oo7.Model evaluation guidelines forsystematic quantificationofaccuracyin watershed simulations.American Society of Agricultural and Biological Engineers,5O(3): 885-900.   \nMoura MSB,GalvincioJD,BritoLTL,etal.2OO7.Climate andrainwaterinthe semiarid.In: BritoLTL,Moura MSB, Gama GFB.Rainwater Potential in the Brazilian Semiarid Region.Petrolina: Brazilian Agricultural Research Corporation, 37-59.(in Portuguese)   \nNational WaterAgency.2O17.Atlas Irigation:Water Usein Irigated Agriculture.Brasilia: National Water Agency,85.(in Portuguese)   \nNovaraA,SarnoM,PereiraP,etal.2O18.Strawuses trade-ofonlyaftersoilorganiccarbonsteady-state.ItalianJournalof Agronomy,13(3): 216-220.   \nNovaraA,PulidoM,Rodrigo-CominoJ,etal.20l9.Long-termorganic farmingonacitrus plantationresultsinsoilorganic carbon recovery. Cuadernos de Investigaci6n Geografica,45(1): 271-286.   \nParton WJ,ScurlockJMO,OjimaDS,etal.1993.Observationsand modelingofbiomassandsoilorganic materdyamics for the grassland biome worldwide.Global Biogeochemical Cycles,7(4): 785-809.   \nPiveta M.219.Land Useand ClimateChange.202-09-01].htps://revistapesquisa.fapesp.br/o-uso-do-solo-e-as-mudancasclimaticas.(in Portuguese)   \nRossatoL,AlvalaRCS,MarengoJA,etal.2Ol7.Impactofsoilmoisture oncropyieldsover Brazilian semiarid.Frotiers in Environmental Science,5:73,doi:10.3389/fenvs.2017.00073.   \nSalesRP,PortugalAForeiraJAA,etal.O6.PhsicalqualityofLtosolunderoillageandconventionaltilgeinte semi-arid region. Revista Ciencia Agronomica,47(3): 429-438.(in Portuguese)   \nSilva-OlayaAM,CerriCEPWilliams S,etal.2O17.Modelling SOCresponsetolandusechangeand management practices in sugarcane cultivation in South-Central Brazil.Plant and Soil, 41O(1-2): 483-498.   \nSmith P,Smith JU,Powlson D S,etal.1997.Acomparisonof the performanceof nine soilorganic mater models using datasets from seven long-term experiments.Geoderma,81(1-2):153-225.   \nSmith P,AdamsJ,BerlingDJ,etal.2019.Impactsofland-based greenhousegasremovaloptionsonecosystemservicesand the United Nations Sustainable Development Goals.Annual Review of Environment and Resources,44(4):12-54.   \nSobockaJ,BalkovicJ,Lapin M.2Oo7.ACentury5modelusing forestimationof soilorganic mater behaviouratpredicted climate change. Soil and Water Research,2(1): 25-34.   \nTavaresVC,ArrudaIRP,SilvaDG2O19.Desertification,climatechangeanddroughtsinthe Braziliansemiaridregion:a literature review. Geosul,34(70):385-405.(in Portuguese)   \nVisserS,KesstraS,MaasGetalOl9.Soilasabasistocreateenablingconditionsfortransitionstowardssustainableland management asakey toachieve the SDGs by 2030.Sustainability,11(23): 6792,doi:10.3390/sul1236792. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

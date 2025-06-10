@@ -1,0 +1,191 @@
+# 砥砂岩区不同立地下沙棘根系分形特征
+
+闫励'，杨方社}²，李怀恩²，王浩¹，汪定武'（1．西北大学城市与环境学院，陕西 西安710127；2．西安理工大学,西北旱区生态水利工程国家重点实验室培育基地,陕西 西安710048)
+
+摘要：基于分形理论,对砥砂岩区内人工种植在不同坡向和坡度下的3a生沙棘的全根、一级侧根及二级侧根的分形特征，以及沙棘根系生长发育与不同立地下土壤含水率之间的关系进行了研究。结果表明： $\textcircled{1}$ 分形维数变化为 $D _ { \mathfrak { F H } } > D _ { \mathfrak { F H } ^ { \smash { \scriptstyle \sharp } } } > D _ { \vec { \mathfrak { F H } } ^ { \smash { \scriptstyle \sharp } } \vec { \mathfrak { X } } } > D _ { \vec { \mathfrak { F H } } ^ { \smash { \scriptstyle \sharp } } \vec { \mathfrak { X } } } , D _ { 5 0 ^ { \circ } } > D _ { 4 0 ^ { \circ } }$ ,不同立地下 $D _ { 1 }$ (二级侧根分形维数） $> D$ （全根分形维数） $> D _ { \scriptscriptstyle 2 }$ （一级侧根分形维数），且 $D _ { 1 }$ 与细根根长呈显著正相关。 $\textcircled{2}$ 南坡与西坡土壤表层含水率低于 $4 \%$ ,不利于根系发育，北坡与东坡含水率较高，所以,北坡与东坡分形维数较大;与北坡(西坡)生长的沙棘相比，东坡(南坡)坡面适度的缺水条件刺激了细根向深土层生长，利用深土层水分。 $\textcircled{3}$ 沙棘在水分不足时能够通过调节根系分形适应环境，但是生长状况不如水分充足时好，因此沙棘的生长状况为北坡 $>$ 东坡 $>$ 西坡 $>$ 南坡, $4 0 ^ { \circ }$ 坡面 $> 5 0 ^ { \circ }$ 坡面。在吡砂岩区不同立地下，种植沙棘建议优先选择北坡与东坡,次选西坡与南坡，而 $5 0 ^ { \circ }$ 坡不利于沙棘生长。
+
+关键词：沙棘；根系；分形维数；固土护坡；砥砂岩区；内蒙古
+
+鄂尔多斯砥砂岩裸露区被称为“世界水土流失之最”(1）。通过沙棘（Hippophae rhamnoides L.）生态治理工程，可以有效固定侵蚀强烈的沟坡地区的土壤[2]。沙棘的成活、生长、成林与其定植的立地条件有密切关系[3-4]。根系是植物与土壤进行物质交换和能量传递的重要器官[5]。不同立地条件,植物根系生长不同，进而地上生长部分产生差异，根系构型特征揭示了植物对环境的适应程度[6,地下相互缠绕的根系决定了固土护坡效果[7]。分形理论是目前研究根系构型的常用方法，在实际应用中更多采用算法简单的盒维数法[8]。分形维数能更准确的定量描述根系的构型特征，更灵敏的反映出根系在不同立地条件下的发育程度，根系发育程度越高，分形维数越大，反之分形维数越小[9]
+
+我国对沙棘的研究多集中在根系的分布特征和萌蘖特性(2-3,10],对土壤理化性质的改变[11-12],以及植物的生理特性等[13-14],已有国内外专家用分形维数对植物个体生长和群落变化进行了研究(15-16)但是少有吡砂岩区沙棘根系分形维数与立地条件之间的关系，及各级根系分形维数对沙棘影响的研究。本文基于分形理论，运用盒维数法分形分析在不同坡向(北坡、东坡、西坡、南坡)和不同坡度( $4 0 ^ { \circ }$ 、
+
+$5 0 ^ { \circ }$ )下，沙棘全根、一级侧根和二级侧根的分形特征及沙棘根系对土壤含水率的适应特征，体现沙棘在砥砂岩不同立地条件下的适应策略，为砥砂岩地区沙棘生态治理工程提供理论依据
+
+# 材料与研究方法
+
+# 1.1 研究区概况
+
+研究区位于内蒙古自治区鄂尔多斯市准格尔旗西召沟东一支沟，是典型的砥砂岩地区。准格尔旗地处晋、陕、蒙交界处，地理坐标为 $1 1 0 ^ { \circ } 0 5 ^ { \prime } \ \sim$ $1 1 0 ^ { \circ } 2 7 ^ { \prime } \mathrm { E } , 3 9 ^ { \circ } 1 6 ^ { \prime } \sim 4 0 ^ { \circ } 2 0 ^ { \prime } \mathrm { N }$ ,属温带干旱半干旱气候，年日照时数为 $3 \ 0 0 0 \ \mathrm { h }$ 以上,年平均气温 $7 . 3 \%$ ，太阳总辐射量为 $5 9 9 \mathrm { ~ k J } \cdot \mathrm { c m } ^ { - 2 } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ ,年蒸发量为$2 ~ 1 0 0 \sim 3 ~ 7 0 0 ~ \mathrm { m m }$ ,年降水量 $2 5 1 . 1 \sim 5 2 2 . 2 \ \mathrm { m m }$ ，平均风速 $2 \sim 6 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ ,无霜期 $1 4 0 \mathrm { ~ d ~ }$ 。东一支沟全长$1 6 5 4 \mathrm { ~ m ~ }$ ,流域面积为 $1 . 7 0 \ \mathrm { k m } ^ { 2 }$ ,区内多为切割很深的砥砂岩沟谷，地貌破碎，沙化剧烈，生境脆弱。
+
+# 1.2 实验材料及方法
+
+2017年4月，在东一支沟人工种植区不同坡向和坡度上采用 $1 0 \ \mathrm { m } \times 1 0 \ \mathrm { m }$ 的标准地调查法，测量坡面上沙棘的地径、株高及冠幅，依据每木检尺的结果在每块样地中选取3株标准木进行根系调查。其中，坡向：设正北方向为 $0 ^ { \circ }$ ,北坡向 $3 1 5 ^ { \circ } \sim 3 6 0 ^ { \circ }$ 和$0 ^ { \circ } \sim 4 5 ^ { \circ }$ ,东坡向 $4 5 ^ { \circ } \sim 1 3 5 ^ { \circ }$ ,南坡向 $1 3 5 ^ { \circ } \sim 2 2 5 ^ { \circ }$ ，西坡向 $2 2 5 ^ { \circ } \sim 3 1 5 ^ { \circ }$ 。由于研究区位于我国北方，所以北坡多为沟谷阴坡，东坡为半阴坡，西坡为半阳坡，南坡为阳坡。在4个标准坡向的沟坡上采挖沙棘。坡度：选取平均坡度为 $4 0 ^ { \circ }$ (急坡)和 $5 0 ^ { \circ }$ （险坡）沙棘进行调查。
+
+根系采用整株挖掘法，将标准木从基部剪割，按照土层深度为 $0 \sim 1 5 \ \mathrm { c m } \ . 1 5 \sim 3 0 \ \mathrm { c m } \ . 3 0 \sim 4 5 \ \mathrm { c m } \ ,$ （20$4 5 \sim 6 0 ~ \mathrm { c m } _ { \cdot } > 6 0 ~ \mathrm { c m }$ 挖掘，并将每层根系做标记。将地上部分称重，每层土壤用烘干法测定土壤含水率。用精度为0.001的游标卡尺测量根系的平均直径，按多数研究者的研究方法将径级 $\varphi < 1 \ \mathrm { m m }$ 的根系记做细根。
+
+将沙棘根系平摊在一个平面上，用高像素相机拍下同比例尺照片，用PS软件生成正方形网格，使边长为 $r _ { i }$ 的正方形网格将其覆盖,其中 $i = { 1 , 2 , 3 }$ ，…,当第 $i$ 次试验小正方形边长为 $r _ { i } ( r _ { i } > r _ { i + 1 } )$ 时,其覆盖根系的正方形个数为 $N _ { i }$ 。考虑沙棘不同级别根系吸收水分能力不同，将根系分为主根、一级侧根、二级侧根3个级别，每个级别赋予不同权重。权重的计算参考王茜[提出的方法。
+
+$$
+N _ { i } = N _ { i } ^ { 1 } + N _ { i } ^ { 2 } + N _ { i } ^ { 3 }
+$$
+
+$$
+\omega = \sum _ { j = 1 } ^ { n } N _ { i j } / n \cdot N _ { i } , 0 < \omega < 1
+$$
+
+$$
+\omega _ { 1 } = \omega ^ { 2 } , \omega _ { 2 } = \omega , \omega _ { 3 } = 1 - \omega - \omega ^ { 2 }
+$$
+
+$$
+N _ { i } ^ { ' } = \omega _ { 1 } N _ { t } ^ { 1 } + \omega _ { 2 } N _ { t } ^ { 2 } + \omega _ { 3 } N _ { t } ^ { 3 }
+$$
+
+$$
+\mathrm { l n } { \cal N } _ { i } ^ { ' } = - D \mathrm { l n } r _ { i } + \mathrm { l n } K
+$$
+
+式中： $N _ { i }$ 表示第 $i$ 次实验中边长为 $r _ { i }$ 的小正方形覆盖全部根系的个数； $N _ { i } ^ { 3 } \setminus N _ { i } ^ { 2 } \setminus N _ { i } ^ { 1 }$ 分别表示第 $i$ 次实验中边长为 $r _ { i }$ 的小正方形覆盖主根、一级侧根、二级侧根的个数； $N _ { i j }$ 表示第 $i$ 次实验中边长为 $r _ { i }$ 的小正方形覆盖第 $j$ 个一级侧根及其所连的二级侧根的个数； $n$ 表示一级侧根的个数; $\omega _ { 3 } \lrcorner \omega _ { 2 } \lrcorner \omega _ { 1 }$ 分别为主根、一级侧根和二级侧根的权重; $N _ { i } ^ { ' }$ 表示新定义的第 $i$ 次实验中边长为 $r _ { i }$ 时小正方覆盖全部根系的个数;$D$ 表示根系分形维数； $\mathrm { l n } K$ 表示根丰度。
+
+得到不同水平的 $r \sqrt { \smash [ b ] { i \setminus \omega _ { 2 } N _ { i \setminus \infty } ^ { 2 } N _ { i } ^ { 2 } } }$ 后，以 $\mathbf { l n } r _ { i }$ 为横坐标，分别以 $\mathrm { l n } { \cal N } _ { i } ^ { ' } \setminus \left( { \omega _ { 2 } \cal N } _ { i } ^ { 2 } \right)$ ） $\ln ( \omega _ { 1 } N _ { i } ^ { 1 } )$ 为纵坐标做回归方程，得出全根分形维数 $( D )$ ，一级侧根分形维数 $( D 2 )$ ，二级侧根分形维数 $( D 1 )$ 与相应的根丰度 $\ln { K }$ 。
+
+将各根系依径级 $\varphi < 1 \ \mathrm { m m } , 1 \ \mathrm { m m } \leqslant \varphi < 3 \ \mathrm { m m }$ $3 \ \mathrm { m m } \leqslant \varphi < 5 \ \mathrm { m m } , 5 \ \mathrm { m m } \leqslant \varphi < 1 0 \ \mathrm { m m } , \varphi > 1 0 \ \mathrm { m m }$ 分级，记录不同土层不同径级根系的数量、根长和根重，结果见表1。
+
+表1不同立地条件下沙棘调查情况  
+Tab.1Investigation of Hippophae rhamnoides under different site conditions   
+
+<html><body><table><tr><td>立地</td><td>D</td><td>lnK</td><td>总根长/cm</td><td>总根重/g</td><td>总根数</td><td>基径/mm</td><td>株高/cm</td><td>冠幅/cm</td><td>枝重/g</td></tr><tr><td>东坡</td><td>1.24</td><td>4.04</td><td>2 331.30</td><td>497.59</td><td>260</td><td>22.06</td><td>95.50</td><td>88.50</td><td>434.65</td></tr><tr><td>北坡</td><td>1.18</td><td>4.01</td><td>2383.50</td><td>659.32</td><td>293</td><td>23.02</td><td>119.50</td><td>92.50</td><td>574.24</td></tr><tr><td>南坡</td><td>1.12</td><td>3.87</td><td>1 612.50</td><td>318.87</td><td>207</td><td>19.60</td><td>87.50</td><td>80.25</td><td>165.03</td></tr><tr><td>西坡</td><td>1.08</td><td>3.87</td><td>1 372.65</td><td>318.85</td><td>123</td><td>21.00</td><td>100.50</td><td>77.25</td><td>140.80</td></tr><tr><td>50°坡</td><td>1.20</td><td>3.97</td><td>2 354.00</td><td>251.11</td><td>247</td><td>14.40</td><td>86.67</td><td>75.50</td><td>134.35</td></tr><tr><td>40°坡</td><td>1.14</td><td>4.03</td><td>1 785.27</td><td>893.67</td><td>215</td><td>16.53</td><td>109.00</td><td>83.83</td><td>254.93</td></tr></table></body></html>
+
+注： $D$ 表示根系分形维数； $\mathrm { l n } K$ 表示根丰度。下同。
+
+# 1.3 数据分析
+
+SPSS17.0和Excel软件对实验数据进行相关性分析（显著性水平设为0.05）、回归分析、单因素方差分析与多重比较。
+
+# 2结果与分析
+
+# 2.1 不同立地条件下分形维数
+
+2.1.1 不同立地条件下分形维数的变化从图1a可见，不同坡向沙棘根系的分形维数 $D$ 依次为$D _ { \scriptscriptstyle \frac { 4 \sqrt { 3 } } { 4 \sqrt { 3 } } } > D _ { \scriptscriptstyle \frac { 4 \sqrt { 3 } } { 4 \sqrt { 3 } } } > D _ { \scriptscriptstyle \frac { 4 \sqrt { 3 } } { 4 \sqrt { 3 } } } > D _ { \scriptscriptstyle \frac { 4 \sqrt { 3 } } { 8 \sqrt { 3 } } } .$ （ $P < 0 . 0 1 )$ ,各坡向 $\scriptstyle D 2$ 、$D 1$ 与 $D$ 的变化规律相同。从图1b可见， $D 1$ 不仅有显著差异，且 $D 1 > D > D 2$ ,说明不同坡向下沙棘的二级侧根在地下空间中分布更加均匀，对空间占领能力更强。由图1c 可知,不同坡度下 $D _ { 4 0 ^ { \circ } } < D _ { 5 0 ^ { \circ } }$ ，$D _ { 1 4 0 ^ { \circ } } < D _ { 1 5 0 ^ { \circ } }$ ，而 $D 2$ 值表现出 $D _ { 2 4 0 ^ { \circ } } > D _ { 2 5 0 ^ { \circ } }$ 。可见， $5 0 ^ { \circ }$ 坡面的全根和二级侧根生长发育情况比 $4 0 ^ { \circ }$ 的要好，而一级侧根发育不足，这可能与沙棘在 $5 0 ^ { \circ }$ 坡面注：小写字母代表不同坡向间分形维数值差异显著( $\textstyle P < 0 . 0 5 { \mathrm { ~ , ~ } }$ ； $D$ 表示根系分形维数；D1表示二级侧根分形维数； $D 2$ 表示一级侧根分形维数。下同。
+
+![](images/31068a1359b4625a4834c8c3f753b4240db0ae9ba0aff7a8eca652d860bde9a8.jpg)  
+图1不同立地条件下各级分形维数 Fig.1Fractal dimension values at different levels under different site conditions
+
+上的适应能力有关。已有文献研究结果表明， $5 0 ^ { \circ }$ 坡面土壤层比 $4 0 ^ { \circ }$ 土壤层薄，水肥条件较差，不利于一级侧根的生长[17] O
+
+2.1.2各级分形维数之间的关系分形维数与根系生长、分布和分枝有关。 $_ { D , D 1 }$ 和 $D 2$ 之间的关系见表2。
+
+从表2可以看出， $D$ 与 $D 1$ 的相关性最大,相关系数达到0.957（ $P < 0 . 0 1 \$ )，且具有相同的变化趋势。说明根系分形维数的大小与二级侧根分形维数大小密切相关,二级侧根在地下的生长分布状况基本决定了根系在地下的生长、分布和分枝状况，体现了根系的生根能力；根系分形维数能够体现二级侧根的生长分布情况。因此，研究根系分形维数 $( D )$ 可以近似得出二级分形维数（D1）。
+
+# 表2各级分形维数之间的相关系数
+
+Tab.2Correlation coefficients among fractal dimension values at different levels   
+
+<html><body><table><tr><td></td><td>D</td><td>D2</td><td>D1</td></tr><tr><td>D</td><td>1.000</td><td></td><td></td></tr><tr><td>D2</td><td>0.625 *</td><td>1.000</td><td></td></tr><tr><td>D1</td><td>0.957**</td><td>0.574*</td><td>1.000</td></tr></table></body></html>
+
+注： $*$ 相关性在0.05水平上显著（双尾）； $* *$ 相关性在0.01水平上显著(双尾）； $\scriptstyle D 2$ 表示一级侧根分形维数； $D 1$ 表示二级侧根分形维数。下同。
+
+2.1.3各分形维数与细根之间的关系 $D 1$ 与不同径级根系的关系表明， $D 1$ 与细根根长的相关性最大，相关系数为0.993（ $P < 0 . 0 1$ ),其关系可用回归方程 $y = 0 . \ 1 9 2 \ 5 \mathrm { e } ^ { 7 . 1 7 2 \ 5 x }$ （ $R ^ { 2 } = 0 . 9 5 9 ~ 8 \$ ）表示（图2）。由表3可知，不同坡度和不同坡向下， $D 1$ 值与细根长占总根长百分比值（记为 $C$ ,下文用 $C$ 表示)同步增长，但是 $D 2$ 与 $\varphi > 1 \ \mathrm { m m }$ 的根长却没有明显相关性。可见，当沙棘二级侧根发育程度越高时，细根根长和 $C$ 值越大。
+
+# 2.2不同立地条件对细根生长的影响
+
+2.2.1不同立地的土壤含水率 $( \ W )$ 对 $C$ 值的影响由表3可知， $C _ { \sharp \sharp \sharp _ { \chi } ^ { \flat } } > C _ { \sharp \sharp \sharp _ { \chi } ^ { \flat } } > C _ { \sharp \sharp \sharp _ { \chi } ^ { \flat } } > C _ { \sharp \sharp \sharp _ { \chi } ^ { \flat } }$ $C _ { 5 0 ^ { \circ } } >$
+
+![](images/b9a68fe9e0ef06e3c4f645f6088849183f9920edad2ef78ec7705e76d77cd08d.jpg)  
+图2不同立地下二级侧根分形维数(D1)与细根长的关系Fig.2The relationship between $D 1$ and fine root length
+
+表3不同立地下 ${ \pmb D } { \pmb 1 }$ 、细根和土壤含水率  
+Tab.3D1,fine roots and soil moisture content under different site conditions   
+
+<html><body><table><tr><td>立地</td><td>D1</td><td>细根根长 /cm</td><td>细根长占总根长 比例(C)/%</td><td><45cm土层 含水率(W)/%</td></tr><tr><td>东坡</td><td>1.25</td><td>1 579.50</td><td>54.22</td><td>8.96</td></tr><tr><td>北坡</td><td>1.20</td><td>1 146.55</td><td>43.91</td><td>10.30</td></tr><tr><td>南坡</td><td>1.13</td><td>702.55</td><td>37.37</td><td>5.18</td></tr><tr><td>西坡</td><td>1.08</td><td>443.45</td><td>25.02</td><td>8.16</td></tr><tr><td>50°坡</td><td>1.23</td><td>1 192.37</td><td>50.65</td><td>8.01</td></tr><tr><td>40°坡</td><td>1. 15</td><td>643.47</td><td>36.04</td><td>10.98</td></tr></table></body></html>
+
+$C _ { 4 0 ^ { \circ } }$ ,而土壤含水率的变化为 $W _ { \mathrm { \downarrow t \nmid \nmid \nmid } } > W _ { \mathrm { \uparrow t \nmid \nmid \nmid } } > W _ { \mathrm { \uparrow t \nmid \nmid \nmid \nmid } } >$ $W _ { \perp \perp \perp \parallel \ddagger { \mathstrut } }$ ， $W _ { 4 0 ^ { \circ } } > W _ { 5 0 ^ { \circ } }$ ，说明土壤水分较高的北坡和东坡更有利于沙棘的根系发育，所以北坡和东坡的根系分形维数值比西坡和南坡的值要高。西坡和南坡的土壤水分亏缺，沙棘通过降低生物量，减少土壤空间中根系重叠，提高每单位碳投入下根系的空间占有能力，高效利用土壤水分保持植物生长。虽然$W _ { \mathrm { \perp t r \it { H 3 } } } > W _ { \mathrm { \frac { \pi } { \it { A } } \it { 1 } \it { 5 } } \it { 1 } \it { 5 } }$ ,但 $C _ { \sharp ; \sharp \sharp } > C _ { \sharp ; \sharp \sharp }$ $W _ { \overrightarrow { \vert \Psi \vert } \dag / \frac { 1 } { \chi } } > W _ { \overrightarrow { \sf \vert \# } \dag / \frac { 1 } { \chi } }$ ，但 $C _ { \scriptscriptstyle \overrightarrow { \mathbb { H } } \oplus \frac { 1 } { 2 } } >$ $C _ { \sharp \sharp \sharp \sharp }$ ,可见,东坡与北坡相比,土壤水分略低的东坡细根生长更好;南坡与西坡相比，土壤水分略低的南坡细根生长更好。 $5 0 ^ { \circ }$ 坡面的土壤含水率低于 $4 0 ^ { \circ }$ 的土壤含水率，但是细根长与 $C$ 值比 $4 0 ^ { \circ }$ 坡面大，可见，沙棘为了保证生长所需水分，维持地上部分稳定，能够分生出更多更长的细根。
+
+2.2.2不同立地的土壤含水率对细根垂直分布的影响沙棘是浅根植物,研究区内沙棘根系在 45cm土层以下分布很少，因此 $< 4 5 \ \mathrm { c m }$ 土层的细根分布情况决定了分形维数大小。从图3a可见，南坡与西坡表层含水率不足 $4 \%$ ，且 $< 4 5 \ \mathrm { c m }$ 土层含水率低，细根难以向深土层发育，所以，南坡与西坡近一半的细根多集中在 $< 1 5 \ \mathrm { c m }$ 土层,而北坡与东坡的土壤含水率较高，有利于细根向深土层生长，所以，根系分布较南坡与西坡均匀些。从图3a和图3b中得出，东坡水分低于北坡，细根主要分布于含水率较高的 $1 5 \sim 3 0 ~ \mathrm { c m }$ 土层中，可见，一定程度的缺水条件能促进沙棘细根向深土层生长。因此，东坡细根分布比北坡更能充分利用 $< 4 5$ cm 土层空间,$D 1$ 东坡 $> D 1$ 北坡。同理，南坡细根分布比西坡更深， $D 1 _ { \scriptscriptstyle \frac { \mathrm { \tiny ~ + } } { \mathrm { \tiny ~  ~ } } } > D 1$ 西坡。
+
+不同坡度下，细根的分布空间范围不同。细根在 $5 0 ^ { \circ }$ 坡面集中生长于 $< 1 5 \ \mathrm { c m }$ 土层， $4 0 ^ { \circ }$ 坡面的细根比 $5 0 ^ { \circ }$ 坡面的细根分布更深。这可能是因为 $5 0 ^ { \circ }$ 坡面的土壤含水率低于 $4 0 ^ { \circ }$ ，且 $5 0 ^ { \circ }$ 坡更陡,沙棘细根为保持地上部分平衡，使后代更容易逃离不良生境，水平根在表层扩展能力增强，因此，细根根长在浅土层中比深土层长。
+
+![](images/9503f52beab6efc3351ebd31417cfee6197ebcd6ccb72cbfd9e260872bc4ff6c.jpg)  
+图3不同立地细根与土壤含水率分布特征
+
+Fig.3Distribution of fine roots and soil moisture content under different site conditions
+
+# 2.3不同立地条件对沙棘生长的影响
+
+茎根比、基径、株高是衡量植物生长状况的指标。由于砥砂岩区土壤贫瘠，年蒸发量大，所以，种植区3年生沙棘茎根比总体偏小（表4），这有利于沙棘保持体内水分平衡，增大成活率，适应砥砂岩坡面环境。沙棘茎根比与分形维数的变化趋势相同，发达的地下根系才能支撑起地上生物量的积累。通过比较基径和株高可知，沙棘在不同立地下的地上部分生长状况与土壤含水率的变化一致,均为北坡 $>$ 东坡 $>$ 西坡 $>$ 南坡, $4 0 ^ { \circ }$ 坡 $> 5 0 ^ { \circ }$ 坡。受土壤水分影响，根系分形维数最大时，沙棘地上生长情况不一定最好。因此，不同立地的土壤含水率通过影响地下根系分形维数，进而影响地上部分的生长。
+
+表4不同立地沙棘生长状况  
+Tab.4Growth conditions of H.rhamnoides under different site conditions   
+
+<html><body><table><tr><td rowspan="2">立地</td><td rowspan="2">枝鲜重 /g</td><td rowspan="2">根鲜重 /g</td><td rowspan="2">茎根比</td><td rowspan="2">基径 /mm</td><td rowspan="2">株高 /cm</td><td rowspan="2">D</td></tr><tr><td></td></tr><tr><td>东坡</td><td>434.65</td><td>497.59</td><td>0.874</td><td>22.06</td><td>95.50</td><td>1.24</td></tr><tr><td>北坡</td><td>574.34</td><td>659.32</td><td>0.871</td><td>25.02</td><td>129.50</td><td>1.18</td></tr><tr><td>南坡</td><td>165.03</td><td>318.87</td><td>0.518</td><td>17.60</td><td>87.50</td><td>1.12</td></tr><tr><td>西坡</td><td>185.13</td><td>418.85</td><td>0.442</td><td>20.00</td><td>109.50</td><td>1.08</td></tr><tr><td>50°坡</td><td>134.35</td><td>251.11</td><td>0.535</td><td>13.40</td><td>86.67</td><td>1.20</td></tr><tr><td>40°坡</td><td>254.93</td><td>893.67</td><td>0.285</td><td>16.53</td><td>119.00</td><td>1.14</td></tr></table></body></html>
+
+# 3讨论
+
+植物改变形态以适应不良生境，维持种群延续[3],分形维数可以反映植物根系在环境影响下的发育程度，根系发育程度越高，其分形维数也越高，反之,分形维数越低(8,18]。Tatsumi[19]的研究认为,分形维数与侧根分枝数和密度密切相关。本实验发现，分形维数与二级侧根根长有明显相关性。二级侧根根径细，分枝越密，一定程度上根长越长，根系分布越均匀,这与杨培岭等[9]、汪洪等[20]的研究结果一致。因此，细根含量越多，分形维数越高。
+
+赵国靖等[21]发现,根系状况还与土壤水分有密切关系。毕建琦等[22]研究柠条根系发现,在土壤水分能满足根系生长的前提下，根系在水分较低的土壤中生长比水分较高时要好，也有研究表明，干旱程度和时间超过一定限度，就会对根系生长产生抑制作用[10.23]。不同坡向下土壤含水率的变化为：$W _ { \sf d E H _ { \sf d e } ^ { \mathrm { s } } } > W _ { \sf j e H _ { \sf d e } ^ { \mathrm { s } } } > W _ { \sf j e i j \sf { d } _ { \sf x } ^ { \mathrm { s } } } > W _ { \sf j e i j \sf { d } _ { \sf x } ^ { \mathrm { s } } }$ ,本研究表明,在表层土壤干旱程度相近时，适度的水分胁迫会刺激细根向深土层生长，因此,东坡与南坡的细根根长分别大于北坡与西坡，分布也比北坡和西坡均匀，根系分形维数比北坡与西坡大。而表层土壤干旱程度相差较大时，土壤含水率较高的立地条件的细根根长和所占比例均略高，其细根分布也更均匀，分形维数也会更大。
+
+不同坡度下，细根随着坡度的增大逐渐表层化，$5 0 ^ { \circ }$ 坡面细根长和所占比例较大，其分布深度比 $4 0 ^ { \circ }$ 坡面的要浅些，这与韩烈保等[24 的研究结果相同。根系在不同深度的土层中分布越均匀，越能够网络土壤,增加各土层间的黏滞力，很好的防止重力侵蚀作用。
+
+根系与林木地上部分的生长有着密切的关系,而地上部分的生长状况也会影响根系生长（24]土壤水肥条件好,则植物的茎根比较高，反之，茎根比较低{25]。中度和极度干旱能显著抑制沙棘的基径和株高生长速率[13]。魏宇昆等[4]认为地径可以更好地反映不同立地条件下沙棘的生长情况，地径越大，沙棘生长越旺盛。本研究发现，沙棘根系对于不同立地条件的土壤含水率有不同的适应方式，具体表现在根系的发育情况，即分形维数的大小;而土壤含水率和根系发育程度共同影响了地上生物量的积累，所以，地上沙棘的生长情况为：北坡 $>$ 东坡 $>$ 西坡 $>$ 南坡。从不同坡度发现，相对较陡的 $5 0 ^ { \circ }$ 坡面上，土壤水分较差，所以，沙棘地上部分生长较差，这与刘增文等[25]的研究结果相似。
+
+# 4结论
+
+通过研究不同坡向与坡度的沙棘根系的分形维数特征，以及根系的生长与不同立地下土壤含水率的关系，得出以下结论：
+
+（1）细根越长，根系分形维数越大，对环境的适应能力较强。根系分形维数与二级侧根长密切相关，二级侧根与细根长存在指数关系，说明分形维数与细根的根长有关；当细根较多，根长较长时，根系分形维数较大，根系在土壤中分布较均匀，发育程度较高，对环境的适应能力较强。
+
+(2）根系分形维数的大小与土壤的含水率有关。南坡与西坡土壤表层的含水率低于 $4 \%$ 时，不利于根系的生长发育，适度的缺水能够刺激细根生长； $4 0 ^ { \circ }$ 坡面的土壤水分条件比 $5 0 ^ { \circ }$ 要好，但其分形维数比 $5 0 ^ { \circ }$ 坡面要小,说明沙棘对 $5 0 ^ { \circ }$ 坡面有很强的适应性。
+
+（3）不同立地条件的土壤含水率同时也影响了沙棘地上的生长状况。沙棘在水分充足的条件下生长的很好，水分不足时能够通过根系分形调节适应环境，但是生长状况不如水分充足时好。因此，建议在种植沙棘幼苗时，优先选择北坡与东坡，次选西坡与南坡，而 $5 0 ^ { \circ }$ 坡面不利于沙棘生长。
+
+# 参考文献(References）:
+
+[1］王愿昌,吴永红,寇权,等．吡砂岩分布范围界定与类型区划分 [J].中国水土保持科学,2007,5（1）：14-18.［WangYuanchang,Wu Yonghong,Kou Quan,et al.Definition of arsenic rock zone borderline and its classification[J].Science of Soil and Water Conservation,2007,5（1）:14-18.]   
+[2]胡建忠,杜文嫣,殷丽强,等.础砂岩区沙棘人工林的萌蘖能力 [J].中国水土保持科学,2009,7（4）:26－30.［HuJianzhong， Du Wenyan,Yin Liqiang,et al.Sprouting capacity of artificial $H _ { \dot { \boldsymbol { \psi } } }$ pophae rhamnoides forest in soft sandstone areas[J].Science of Soil and Water Conservation,2009,7(4):26-30.]   
+[3]李倩,张文辉,何景峰,等.沙棘人工种群在不同生境条件下的 繁殖特征［J].西北林学院学报，2010，25（1）：71-76.［Li Qian,ZhangWenhui,He Jingfeng,etal.Reproductivecharacteristics of Hippophae rhamnoides artificial populationin different habitats[J]. Journal of Northwest Forestry University,2O10,25（1）： 71 -76.]   
+[4]魏宇昆,梁宗锁,崔浪军,等.黄土高原不同立地条件下沙棘的 生产力与水分关系研究[J].应用生态学报,2004,15（2）： 195-20o.[WeiYukun,Liang Zongsuo,Cui Langjun,et al. Relationships between water and productivity of seabuckthorn（Hippo
+
+phae）in different habitats of the Loess Plateau,China[J].Chinese Journal of Applied Ecology,2004,15(2）:195-200.]
+
+[5]郭京衡，李尝君,曾凡江,等.2种荒漠植物根系生物量分布与 土壤水分、养分的关系[J].干旱区研究，2016，33（1)：166- 171.[Guo Jingheng,Li Changjun,Zeng Fanjiang,et al.Relationship between root biomass distribution and soil moisture,nutrient for two desert plant species[J].Arid Zone Research,2O16,33 (1):166-171.]
+
+[6]许浩,张源润,季波,等.贺兰山主要森林类型土壤和根系有机碳研究[J].干旱区资源与环境，2014，28（2）：162-166.［XuHao,Zhang Yuanrun,Ji Bo,et al.Organic carbon of soil and rootsfordifferent woodland of Helanshan Mountain[J]. Journal of AridLand Resources and Environment,2014,28(2）:162-166.]
+
+[7」郭月峰,王娟,祁伟,等.风沙土区黄柳根系及其碳储量分布特 征[J].干旱区研究,2017,34（2）:344-349.[Guo Yuefeng， Wang Juan,Qi Wei,et al.Distribution of roots and root carbon stocks ofSalix gordejeviiinAohanBanner,InnerMongolia[J].Ar id Zone Research,2017,34(2):344-349.]
+
+[8]王茜.植物根系分形维数测定的改进及应用[D].阜新：辽宁 工程技术大学,2014.[WangQian.ImprovementandApplication of Plant Root System Fractal Dimension Measurement[D].Fuxin: Liaoning Technical University,2014.]
+
+[9]杨培岭,任树梅,罗远培.分形曲线度量与根系形态的分形表 征[J].中国农业科学,1999,32（1）:89-92.[Yang Peiling, Ren Shumei,Luo Yuanpei.Measurement of fractal curve and express of root morphology[J].Scientia Agricultura Sinica,1999,32 (1):89 -92.]
+
+[10]岳玮,刘讯,刘姜艳.黄土高原丘陵沟壑区主要造林树种细根生物量分布规律研究[J].生态科学，2015，34（5）：58-65.[YueWei,Liu Xun,Liu Jiangyan.Research on the fine roots biomass and distribution of main afforestation tree species in LoessPlateau[J].Ecological Science,2015,34(5）:58-65.]
+
+[11]党晓宏，高永,汪季,等.吡砂岩沟坡沙棘根系分布特征及其对林下土壤的改良作用[J].中国水土保持科学，2012，10（4)：45-50.[Dang Xiaohong,Gao Yong,Wang Ji,et al.Characteris-tics of root distribution of Hippophae rhamnoides L.and its improving effect on the forest soil on the ditch slope of soft sandstone ar-ea[J].Science of Soil and Water Conservation ,2O12,10（4）：45-50.]
+
+[12」杨方社,李怀恩,曹明明,等.小型人工沙棘林对吡砂岩沟道土 壤有机质与水分的影响[J].干旱区资源与环境,2011,25（9)： 110-115.[Yang Fangshe,Li Huai'en,Cao Mingming,et al. Effects of small-scale artificial Seabuckthorn forest on soil organic matter and soil moisture in the soft rock region gully[J]. Journal of Arid Land Resources and Environment,2011,25(9):110 -115.] [13]李裕冬，陈娟，罗艳.干旱对2种沙棘生长和生理特性的影响 [J].福建林业科技,2017,44（3）:10-15.[Li Yudong,Chen Juan,Luo Yan.Effect of drought on growth and physiological traits of two species of sea buckthorn[J]. Journal ofFujian Forestry Science and Technology,2017,44(3）:10-15.]
+
+[14]Liu Y,Liu GQ,LiQM,et al.Effects of ultra-drying on vigor and physiological characteristics of Hippophae rhamnoides seeds[J]. Chinese Forestry Science& Technology,2010,9（1）:56 -58.
+
+[15]孙鹏,郭建华,刘晓兰,等.大麦发芽过程中外观形态分形维数 的变化特征[J].西北农业学报,2009,18（1):90－91.[Sun Peng,Guo Jianhua,Liu Xiaolan,etal.The changes of barley shape fractal dimension during barley germination process[J].ActaAgriculturae Boreali-occidentalis Sinica,2009,18(1）:90 -91.]   
+[16]Palmer M W.Fractal geometry:a tool for describing spatial patterns of plant communities[J].Vegetatio,1988,75(1-2）:91- 101.   
+[17］胡建忠.砥砂岩沟谷种植沙棘林防止土壤重力侵蚀的实践 [J].中国水土保持,2011（5）:36-38.[Hu Jianzhong.Practice on planting Hippophae rhamnoides in soft sandstone gullies for preventing gravity erosion[J].Soil and Water Conservation in China, 2011(5) :36 -38.]   
+[18］嵇晓雷.分形理论应用于植物根系形态分布的研究进展及其 应用前景[J].安徽农业科学,2010,25（25）：13 693-13 694. [Ji Xiaolei. Research progressandapplication prospect ofmohology distribution of plants root with fractal theory[J]. Jourmal of Anhui Agriculture Sciences,2010,25(25）:13 693-13 694.]   
+[19]Tatsumi J.Fractal geometry in root systems :Quantitative evaluation of distribution pattern[J].Japanese Journal of Crop Science, 2008,64(1) :50 -57.   
+[20］汪洪,金继运,山内章.以盒维数法分形分析水稻根系形态特 征及初探其与锌吸收积累的关系[J].作物学报,2008,34（9）： 1 637-1 643.[Wang Hong,Jin Jiyun,Shan Neizhang.Fractal analysis of root system architecture by box-counting method and its relationship with Zn accumulation in rice（Oryza sativa L.）[J]. Acta Agronomic Sinica,2008,34(9）:1 637-1 643.]   
+[21］赵国靖,徐伟洲,郭亚力,等.达乌里胡枝子根系形态特征对土 壤水分变化的响应[J].应用与环境生物学报,2014,20（）： 484 -490.[Zhao Guojing,Xu Weizhou,Guo Yali,etal.Responses of root system of Lespedeza davurica L. to soil water change[J]. Chinese Journal of Applied Environment Biology,2014,20（3）: 484 -490.]   
+[22］毕建琦,杜峰,梁宗锁,等.黄土高原丘陵区不同立地条件下柠 条根系研究[J].林业科学研究,2006,19（2）：225－230.［Bi Jianqi,Du Feng,Liang Zongsuo,et al.Research on root system of Caragana korshinskii at different site conditions in the hilly regions of Loess Plateau[J].Forest Research,2006,19(2）:225-230.]   
+[23］马红燕,格日乐,赵杏花,等.2种水土保持灌木的根系数量特 征研究［J].水土保持通报,2013,33（2）：165－168.[Ma Hongyan,Ge Rile,Zhao Xinghua,et al. Quantity characteristics of root system of two shrubs for soil and water conservation in waste dump[J].Buletin of Soil and Water Conservation,2013,33（2）: 165 - 168. ]   
+[24］韩烈保,王琼,王晓蓓,等.不同立地条件下荆条根系分布规律 [J].应用基础与工程科学学报,2009,17（2）：231-237.［Han Liebao,Wan Qiong,Wang Xiaobei,et al. Researches on root distri
+
+bution of Vitex negundo var.Heterophylla（Franch.）Rehd.on different sites conditions[J].Journal of Basic and Engineering,2009, 17(2):231 -237.]
+
+[25]刘增文，高国雄，吕月玲，等.不同立地条件下沙棘种群生物量的比较与预估[J].南京林业大学学报（自然科学版），2007，31(1):37-41.[Liu Zengwen,Gao Guoxiong,Lu Yueling,et al.Comparison of biomass and its estimation of Hippophae rhamoidesL.under different climatic and soil conditions[J]. Journal of Nan-jing Forestry University（Natural Sciences Edition）,2OO7,31（1）：37 -41.]
+
+# Fractal Features of Hippophae rhamnoides Roots under Different Site Conditions in Soft Sandstone Area
+
+YAN Li'， YANG Fang-she1²，LI Huai-en²， WANG Hao’， WANG Ding-wu1 (1.College of Urban and Environmental Sciences,Northwest University,Xi'an710l27,Shaanxi,China; 2.State Key Laboratory Baseof Eco-hydraulic Enginering inArid Area in Northwest China,Xi'an Universityof Technology, Xi'an 710048,Shaanxi,China)
+
+Abstract：In thispaper,the fractalcharacteristicsof thewhole-roots,primary lateral rootsandsecondarylateral roots of three-year-old Hippophae rhamnoides planted on diffrent slopeaspectsand gradients were analyzed based on the fractal theory.The relations between the growth and development of the rootsand soil moisture content in a sandstone area were studied. The results are as follows : $\textcircled{1}$ The variations of fractal dimensions were in orders of $D _ { \mathrm { E S } } > D _ { \mathrm { N S } } > D _ { \mathrm { S S } } > D _ { \mathrm { W S } } , D _ { 5 0 ^ { \circ } \mathrm { S } } > D _ { 4 0 ^ { \circ } \mathrm { S } }$ ,fractal dimensions of secondary lateral roots $( D 1 ) >$ fractal dimensions ofwhole-roots $( D ) >$ fractal dimensions of primary lateral roots ( $. D 2$ ） under different site conditions. There was a significant positive correlation between $D 1$ and fine roots length; $\textcircled{2}$ The topsoil moisture content on the southern and western slopes was lower than $4 \%$ ,which was not conducive to the development of root system.The soil moisture content on thenorthern and eastern slopes was high,so the fractal dimensions of these two slopes were highercompared with that for the root growth of $H$ 、rhamnoides on the northern and western slopes,and the moderate lack of water on the eastern（southern） slope could stimulate the fine roots to grow down to deep soil; $\textcircled{3}$ H.rhamnoides couldadapttotheenvironment through rootfractal regulation when water is insuficient,but its growth conditions were not as good as that when water is suffcient.Therefore,the growth conditions were in orders of northern slope $>$ eastern slope $>$ western slope $>$ southern slope ,and $4 0 ^ { \circ } { \mathrm { s l o p e } } > 5 0 ^ { \circ } { \mathrm { s l o p e } }$ .It is suggested that the priority should be given to the northern and eastern slopes when planting $H .$ rhamnoides ,and the slope steeper than $5 0 ^ { \circ }$ is not conducive to the growth of $H .$ rhamnoides.
+
+Key words:Hippophae rhamnoides；root；fractal dimension；slope stabilization；sandstone area； Inner Mongolia

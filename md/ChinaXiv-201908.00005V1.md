@@ -1,0 +1,178 @@
+# 近56a蒙古高原草原地上净初级生产力变化
+
+秦豪君， 韩永翔
+
+（南京信息工程大学中国气象局气溶胶与云降水重点开放实验室,江苏南京210044）
+
+摘要：草原生产力及其对气候变化的响应是全球变化研究的热点。利用ArcGIS插值技术，将蒙古高原32个气象站点数据插值成 $1 ^ { \circ } \times 1 ^ { \circ }$ 的格点数据，然后利用CENTURY模型模拟了蒙古高原1961—2016年草原地上净初级生产力（ANPP)时空分布特征。结果表明：（1）CENTURY模型模拟的蒙古高原草原ANPP时空分布能够很好地反映该区域草原生产力的变化，草原ANPP分布由北向南，由东向西逐渐减少。（2）草甸草原和典型草原单产均呈波动下降趋势，草甸草原下降速率较大,荒漠草原单产呈波动上升趋势,草原总产以典型草原最大,荒漠草原面积虽然最大,但总产最低。（3）降水对草原生产力起主导作用，湿期会有荒漠草原 $$ 典型草原 $$ 草甸草原的转化，而干期的转化过程正好相反。从暖湿期 $$ 冷干期转换时，蒙古草原总产下降幅度最大，相反，则增产幅度最大。
+
+关键词：时空分布; $A N P P$ ；CENTURY模型；蒙古高原草原文章编号： 1000-6060(2019)04-0914-09(0914\~0922)
+
+全球及区域气候变化对陆地生态系统影响巨大,同时又具有不确定性[1],因此陆地生态系统对气候变化的响应，已越来越受到科学家们的重视[2-3]。草原生态系统是陆地生态系统的重要组成部分,研究草原分布及其生产力变化也是验证陆地生态系统对气候变化响应的一个重要方面[4]
+
+目前全球已经建立了许多草原生产力的计算模型[5-7],其中基于草原植被生理生态过程发展起来的CENTURY模型，已经在欧洲、亚洲和非洲地区的各种草原中得到广泛应用[8-11]。近年来,国内许多学者[4,12-20]基于CENTURY 模型,分析了近几十年内蒙古草原净初级生产力的时空变化及其与气候变化的相互作用关系。研究发现CENTURY模型模拟的草原生产力能够很好地匹配观测数据或卫星遥感提取的归一化植被指数(NDVI)，模型模拟结果能够很好地反映草原生产力的时空变化特征。研究结果表明[4.14-17],近50a来草原生产力总体呈略增趋势,其中草甸草原和荒漠草原生产力均呈增加趋势，典型草原生产力呈减小趋势，三类草原生产力的变化是水热条件共同作用的结果，其中降水是关键因子。通过敏感性实验发现，草甸草原生产力对降水的敏感性高于典型草原，荒漠草原介于两者之间，而荒漠草原生产力对温度的敏感性最高[18]。内蒙古草原生产力呈现出明显的地带性空间分布规律，即自东向西、自南向北逐渐降低，空间变化速率总体趋势是中部下降、西部和东北部增加[16]。1985—2014年荒漠草原生产力呈降低趋势，其空间分布表现为由东南向西北逐渐降低的规律[19],呼伦贝尔草甸、典型草原生产力呈缓慢增加的趋势，其空间分布表现为自东向西逐渐降低[20]。2001—2010 年三类草原生产力均显著下降[16]
+
+然而上述研究局限于中国内蒙古地区，而内蒙古草原仅是整个蒙古高原的一部分。蒙古高原位于欧亚大陆草原东部，它的总面积为 $2 7 2 \times 1 0 ^ { 4 }$ $\mathrm { k m } ^ { 2 [ 2 1 ] }$ ,境内有沙漠、戈壁及不同类型的草原,是全球草原生态系统的重要组成部分[22-23]。该区域生态环境脆弱而又敏感[24-25]。蒙古高原生态系统及其变化对于中国华北乃至整个东北亚地区的环境有着重要影响［26-27]。本文利用1961—2016 年蒙古国的气象资料，基于CENTURY模型模拟整个蒙古高原草原生产力的时空变化，及不同温湿状况下草原生产力的变化。为进一步认识气候变化对整个蒙古高原草原植被生产力的影响提供理论依据，同时也为草地资源利用及可持续管理提供参考。
+
+# 1研究区概况与数据来源
+
+# 1.1 研究区概况
+
+研究区为除森林和农田以外的蒙古高原（图1),其地理位置介于 $8 7 ^ { \circ } 4 0 ^ { \prime } \sim 1 2 5 ^ { \circ } 1 5 ^ { \prime } \mathrm { N } , 3 7 ^ { \circ } 4 6 ^ { \prime } \sim$ $5 3 ^ { \circ } 0 8 ^ { \prime } \mathrm { E }$ 之间，境内主要包括蒙古国、内蒙古自治区和俄国西伯利亚部分地区。宏观地貌主要为山地和高平原,地势西高东低[27]。典型的大陆性气候区,冬季严寒漫长，1月温度为 $- 2 6 ~ \mathrm { \textdegree C }$ ,夏季炎热短暂，7月温度为 $1 7 \mathrm { ~ \textdegree C }$ 。绝大部分地区年降水量均少于$2 0 0 ~ \mathrm { { m m } }$ ,山区部分地方达到了 $4 0 0 ~ \mathrm { { m m } }$ ,降水多集中在夏季的7\~8月,占年降水量的 $7 5 \% ^ { [ 2 8  - 2 9 ] }$ 。植被覆盖度自东北向西南减少，依次为森林、农田、草原、沙漠[30]。草原多年平均ANPP 在 $< 2 0 . 2 0 \sim 8 0 . 8 0$ $\sim 1 4 0 \mathrm { \Omega } _ { \mathrm { { s } } } > 1 4 0 \mathrm { \ g C } \mathrm { \Omega } \cdot \mathrm { \Omega } \mathrm { m } ^ { 2 }$ 的范围内的分布(图1)与根据 $N D W$ 划分[28的沙漠、荒漠草原、典型草原、草甸草原的区域大体一致（图2），为了叙述方便，本文将ANPP在 $\cdot 2 0 \sim 8 0 \ . 8 0 \sim 1 4 0 \ , > 1 4 0 \ \mathrm { g C } \cdot \mathrm { m } ^ { 2 }$ 的区域代表荒漠草原、典型草原和草甸草原。不同的气候条件下，ANPP的空间分布也随之变化，因此没有明确的边界。它与三类草原传统的定义如以气候条件、草地植被类型等为依据是有区别的。
+
+![](images/ff5bb7f7f0795db439f438a1093ece0d03779d7c49b22e09dd41c69f17fb64c7.jpg)  
+Fig.1Spatial distribution of the average ANPP in Mongolian Plateau from 1982 to 2003
+
+![](images/ac9268d2a504a2fa11ce8139c1b908f59e4a58d317f4ff59cdd0c12c2b09ac22.jpg)  
+图11982—2003 年蒙古高原平均ANPP空间分布  
+图21982—2003 蒙古高原NDVI空间分布  
+Fig.2Spatial distribution of NDVI in Mongolian Plateau from 1982 to 2003
+
+# 1.2 数据来源及处理
+
+32个站点（图1)1961—2016年的地面观测逐月数据来源于中国气象局国家气候中心数据库以及https://gis.ncdc.noaa.gov/maps/ncei/cdo/monthy。蒙古高原草原区NDVI数据来源于文献[1]，由于其研究时段为1981—2000 年，因此为了与其匹配，本文也选取了相应时段进行讨论。
+
+利用ArcGIS张力样条函数插值法将32个站点的气象数据插值，得到了蒙古高原的气象格点数据，空间分辨率为 $1 ^ { \circ } \times 1 ^ { \circ }$ 。
+
+对32个站点1961—2016年温度、降水数据逐年平均，以平均温度作为基准，定义温度距平 $> 0 \mathrm { ~ \% ~ }$ （ $. < 0 ~ \mathrm { ^ { \circ } C }$ )的时期为暖期(冷期)，降水距平百分率 $>$ $1 0 \% ( \mathit { \Omega } < - 1 0 \% )$ 的时期为湿期（干期）。则当温度距平 $> 0 \mathrm { ~ \% ~ }$ ,降水距平百分率 $> 1 0 \%$ 为暖湿期,降水距平百分率 $< - 1 0 \%$ 为暖干期;当温度距平 $< 0 ~ \mathrm { { ^ { c } C } }$ ，降水距平百分率 $> 1 0 \%$ 为冷湿期，降水距平百分率$< - 1 0 \%$ 为冷干期。
+
+# 1.3 CENTURY模型简介
+
+CENTURY模型是1987年由美国科罗拉多州立大学PARTON 等建立的，以月为时间步长，最初是基于美国大平原Colorado草地生态系统基础上建立的土壤碳、氮、磷、硫元素的模拟模型[31]。CEN-TURY模型在北方草原生态系统的适用性，于诸多研究中已得到很好的验证[4,12-20]。本研究采用CENTURY4.5版本，模型本土化的校验与应用的关键在于参数获取，其主要输入参数包括：气候参数（月平均最低气温、月平均最高气温和月降水量）、土壤特性参数(土壤砂粒、粉粒、黏粒含量以及土壤pH值等）、外界营养输入参数（大气N沉降线性方程斜率值等）、植被参数(返青期、枯黄期等)和管理措施(放牧期等）。本文模型参数的设置主要参照了张存厚的研究成果[4,14-16]，以及模型操作手册[32],其中蒙古国区域的土壤特性参数、植被参数来自于文献[33-35]。然后对32个站点逐个进行参数本土化，并利用ArcGIS张力样条函数插值法将本土化后的站点参数逐一插值到蒙古高原范围，完成参数的格点化过程，空间分辨率为 $1 ^ { \circ } \times 1 ^ { \circ }$ 。本文管理措施为无放牧状态，代表无干扰状态下的天然草原。
+
+# 2结果与分析
+
+# 2.1 模型检验
+
+利用归一化植被指数(NDVI)对模型模拟结果进行检验。选取1981—2000 年蒙古高原草原区各个格点的ANPP作平均,得到蒙古高原草原逐年ANPP平均值，其与NDVI值有极其显著的正相关（图3），相关系数达到了0.61，通过了0.005的信度检验，这表明CENTURY模型模拟蒙古高原草原的ANPP值在时间变化上与NDVI基本一致。另外，1982—2003年蒙古高原ANPP平均空间分布图（图1），可以看出蒙古高原草原ANPP分布呈现为不规则的带状分布，ANPP由北向南，由东向西逐渐减少，同1982—2003年卫星观测的NDVI空间分布（图2)基本一致[28],表明模型模拟的ANPP值在空间分布与NDVI基本一致。结果表明模拟的蒙古高原草原ANPP时空分布能够很好地反映该区域草原生产力的变化。张存厚等[4,14-16]利用内蒙古地区草原地上生物量的观测值与CENTURY模型的模拟值进行了对比，发现模拟值与观测值之间在“量”上也有很好的一致性(图略）。
+
+# 2.2ANPP年际时空变化
+
+从时间变化来看（图4a），1961—2016年蒙古高原草原区单产整体呈轻微波动下降的趋势，年代际变化显示下降的阶段为1961—1980年，而1981—2000 年、2001—2016 年草原区单产均呈上升趋势，尤以2001—2016年上升更为显著。近56a来草原区平均单产 $9 2 . 1 ~ \mathrm { g C } \cdot \mathrm { m } ^ { - 2 }$ ,其中1961—1980年、1981—2000 年、2001—2016 年草原区平均单产分别为 $9 1 . 1 , 9 8 . 1 , 8 6 . 0 \mathrm { g C } \cdot \mathrm { m } ^ { - 2 }$ 。三个阶段中，
+
+![](images/539839f2e4d8f4526ad4d30d0012d98113d63bf8e3b6a2644f4d3dc956cc68f6.jpg)  
+图31981—2000 年蒙古高原草原ANPP和NDVI变化趋势Fig.3Trend of ANPP and NDVI of the Mongolian Plateaugrassland from 1981 to 2000
+
+1981—2000 年草原平均单产最大且大于56a的平均单产，其余两个阶段均低于56a的平均单产，其中以2001—2016年平均单产最低。
+
+1961—2016年蒙古高原三类草原单产年际波动变化与草原区单产大体相似（图4a,4b）。草甸草原单产最大，为 $1 6 4 . \mathrm { ~ 8 ~ } \mathrm { ~ g C ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,其变化范围为$8 1 . 7 \sim 2 2 8 . 6 ~ \mathrm { g C } \cdot \mathrm { m } ^ { - 2 }$ ,变异系数为 $2 4 \%$ ;其次为典型草原,为 $1 0 4 . 5 \mathrm { ~ g C ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,变化范围为61.8\~$1 8 2 . 8 \ \mathrm { g C } \cdot \mathrm { m } ^ { - 2 }$ ,变异系数为 $2 6 \%$ ;荒漠草原最小,为 $4 7 . 8 ~ \mathrm { g C } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,其变化范围为 $1 5 . 6 \sim 9 2 . 7 ~ \mathrm { g C } ~ \cdot$ ，$\mathrm { ~ m ~ } ^ { - 2 }$ ,变异系数为 $3 9 \%$ 。显然草甸草原的生产力最稳定，典型草原次之。草原单产变化幅度以草甸草原最大，荒漠草原最小,典型草原居于两者之间。56a来草原区单产呈波动下降趋势（图4a），下降速率为 $0 . 0 7 ~ \mathrm { g C } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ 。三类草原中,草甸草原、典型草原单产均呈下降趋势（图4b），其中草甸草原下降速率最大 $( 0 . 3 9 \mathrm { ~ g C ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 } \cdot \mathrm { ~ a ~ } ^ { - 1 } \cdot$ )且远高于草原区单产下降速率,典型草原下降速率较小 $( 0 . 0 8 \ \mathrm { g C } \cdot \mathrm { m } ^ { - 2 }$ ：$\mathbf { a } ^ { - 1 }$ ),其与草原区下降速率基本相同,而荒漠草原单产呈上升趋势，上升速率为 $0 . 0 9 ~ \mathrm { g C } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ ”。
+
+从空间变化看，蒙古高原1961—2016年平均$A N P P$ 空间分布如（图5）所示。除去森林和农田，蒙古高原总面积中，沙漠占比为 $1 7 \%$ 、荒漠草原为$3 7 \%$ 、典型草原 $31 \%$ 、草甸草原 $1 5 \%$ 。总产量以典型草原最大( $8 2 8 \times 1 0 ^ { 5 } ~ \mathrm { t C }$ ),草甸草原次之( $6 3 5 \times$ $1 0 ^ { 5 } ~ \mathrm { t C } ^ { \prime }$ ),荒漠草原最小( $\mathit { 4 3 3 } \times 1 0 ^ { 5 } \ \mathrm { t C }$ ,荒漠草原虽然面积最大，但由于单产低，其总产仅占草原区总产的 $23 \%$ 。年代际空间变化总体上差异较小（图略），只是2001—2016年草甸草原面积较平均面积缩小
+
+$5 \%$ ，总产较平均总产减少 $1 1 \%$ ,表明近16a里牧草产量高的优质草原逐渐减少。
+
+# 2.3草原ANPP与温度、降水以及不同温湿匹配的响应
+
+为了详细了解草原ANPP对温度、降水的响应，以1961—2016年平均的三类草原ANPP的空间分布为基准(图5），分别选取草甸草原(9站）典型草原(10站)和荒漠草原(9站)ANPP与温度、降水进行了相关分析(图6)。结果显示，荒漠和典型草原与温度有非常弱的正相关，均没有通过0.1的信度检验，而草甸草原与温度呈现显著的负相关，其相关系数为-0.21，通过了0.001的信度检验，这表明在全球变暖的背景下，温度的升高不利于草甸草原牧草的增加。降水与三类草原均呈现出极其显著的正相关，均通过了0.001的信度检验，其中相关最高的是荒漠草原，其次为典型草原。综上所述，荒漠和典型草原ANPP主要受降水量控制，受温度影响很小，草甸草原同时受到温度和降水的控制，但降水仍然起主导作用。
+
+ANPP变化受温湿共同影响，基于植被生理生态过程的CENTURY模型能够反映不同温湿组合对ANPP的变化。根据不同温湿匹配划分，在1961—2016 年56a中，暖湿期为：1990、1992、1994、1998、2003年；暖干期为：1982、1989、2001、2005、2006、2007、2009、2011年；冷湿期为：1961、1964、1969、1976、1979、1993、2012年；冷干期为：1965、1968、1972、1980年（图7）。将不同期各个年份的ANPP值进行平均，同时以1961—2016 年平均值为正常期，其5个时期蒙古高原ANPP的空间分布（图5，图8)及与正常期的对比(表1)显示：（1）暖湿期，草甸草原面积大幅度扩张 $2 2 \%$ ，总产增长 $5 2 \%$ ；典型草原面积占比缩小 $7 \%$ ，总产减少 $8 \%$ ;荒漠草原面积减少 $1 1 \%$ ,总产减少 $5 \%$ 。（2）暖干期,草甸草原面积减少 $9 \%$ ，总产减少 $1 9 \%$ ;典型草原面积减少$3 \%$ ，总产减少 $5 \%$ ;荒漠草原面积增加 $5 \%$ ；总产增加 $3 \%$ 。（3）冷湿期，草甸草原面积增加 $7 \%$ ，总产增加 $1 5 \%$ ;典型草原面积增加 $2 \%$ ,总产增加 $5 \%$ ;荒漠草原面积减少 $2 \%$ ,总产减少 $0 . 2 \%$ 。（4）冷干期草甸草原面积减少 $1 1 \%$ ，总产减少 $2 5 \%$ ;典型草原面积减少 $13 \%$ ,其总产减少 $18 \%$ ;荒漠草原面积增加 $9 \%$ ,总产增加 $6 \%$ 。草甸草原面积及总产在暖湿期增幅最大，冷干期下降幅度最大;典型草原面积及总产仅在冷湿期有所增加，其余时期均减少，其中冷干期下降幅度最大;荒漠草原面积及总产在冷干期增幅最大，在暖湿期下降幅度最大。从表中也可看出，从暖湿期 $$ 冷干期时，蒙古高原草原总产下降幅度最大，相反，则增产幅度最大;由冷干期 $$ 暖干期或暖干期 $$ 冷干期时，总产增加或下降的幅度最小。草原总产在暖湿期最大，其次为冷湿期和暖干
+
+![](images/a306bda66b3904e535b84be220a8c9aeb5d6d90eedb38d86f8efe9d17b492471.jpg)  
+图4蒙古高原草原区单产(a)、三类草原单产及其变化趋势(b)Fig.4Yield of Mongolian Plateau grassland(a）and yield of three types grassands （b)
+
+![](images/586e42a106481d3d046c85f2e9a65bd2df870dec73208ced965d906007f23c3d.jpg)  
+Fig.5Spatial distribution of the average ANPP in Mongolian Plateau from 1961 to 2O16(normal period)
+
+![](images/2f43e29770b42fec409aad51d64d65bbaaf7f67fcb11134ab26546cfb1328209.jpg)  
+图51961—2016年(正常期)蒙古高原平均ANPP空间分布  
+图6三类草原ANPP与温度、降水的相关性  
+Fig.6Correlation between ANPP and temperature and precipitation of three types grassland
+
+![](images/ee3d0bacdbc2f945191a972d18cf14ccf26c6ab50c7f929dcf61aba84eda05d8.jpg)  
+图7温湿匹配时期划分  
+Fig.7Period division by different matches between temperature and precipitation
+
+![](images/e904e9ad5a5f3366b09c5bca3159c97e8fde6e5641550987ccdb8a34ecdf62d3.jpg)  
+图8不同温湿匹配(暖湿期(a)、暖干期(b)、冷湿期(c)、冷干期(d))蒙古高原平均ANPP空间分布Fig.8Spatial distribution of average ANPPof diferent periods（warm-wet period(a），warm-dry period(b）,cold-wet period(c）,cold-dry period(d)）in Mongolian Plateau
+
+# 表1不同温湿匹配三类草原总产和面积占比
+
+Tab.1Total yields and area ratio of different periods of three types grassland   
+
+<html><body><table><tr><td>生态类型</td><td>正常期</td><td>暖湿期</td><td>暖干期</td><td>冷湿期</td><td>冷干期</td></tr><tr><td>沙漠</td><td>35(17)</td><td>19(13)</td><td>58(24)</td><td>14(10)</td><td>66(32)</td></tr><tr><td>荒漠草原</td><td>433(37)</td><td>341(26)</td><td>493(42)</td><td>428(35)</td><td>543(46)</td></tr><tr><td>典型草原</td><td>828(31)</td><td>679(24)</td><td>726(28)</td><td>923(33)</td><td>472(18)</td></tr><tr><td>草甸草原</td><td>635(15)</td><td>1638(37)</td><td>269(6)</td><td>933(22)</td><td>150(4)</td></tr><tr><td>总值</td><td>1931(100）2 677(100)</td><td></td><td>1 546(100)</td><td>2 298(100）1231(100)</td><td></td></tr></table></body></html>
+
+注：括号中的数字表示面积占比，总产的单位为： $1 \times 1 0 ^ { 5 }$ tC
+
+期，冷干期最小。这与草原ANPP与温度、降水的相关分析结果一样，降水仍然对草原生产力起主导作用，在降水充足的时期，会有荒漠草原 $$ 典型草原 $$ 草甸草原的转化，反之，转化过程正好相反。
+
+# 3结论
+
+本研究以蒙古高原草原为研究对象，利用Arc-GIS插值技术，将蒙古高原32个气象站点数据插值成 $1 ^ { \circ } \times 1 ^ { \circ }$ 的格点数据，然后利用CENTURY模型模拟了近56a来的草原ANPP,并对其的时空变化特征及其与温度、降水的相关性以及不同温湿状况下草原生产力的变化进行了分析，主要发现如下：
+
+（1）CENTURY模型模拟的蒙古高原草原AN-$P P$ 时空分布能够很好地反映该区域草原生产力的变化，草原ANPP由北向南，由东向西逐渐减少。
+
+（2）近56a来，草原区及草甸草原、典型草原单产均呈波动下降趋势，其下降最快的为草甸草原，典型草原下降速率较小与草原区基本相同,而荒漠草原单产呈波动上升趋势。草原总产值以典型草原最大，草甸草原次之，荒漠草原虽然面积最大，但总产最低。草原区年代间的变化差异总体较小，以2001—2016年变化较为明显，该阶段草原区平均总产较平均总产明显降低，草甸草原面积缩小。
+
+（3）荒漠和典型草原ANPP主要受降水量控制，受温度影响很小，草甸草原同时受到温度和降水的共同影响。ANPP对不同温湿匹配的响应存在差异。总体而言，在干期，无论暖干还是冷干，草甸草原和典型草原面积和总产均减少，而荒漠草原面积和总产均增加,其中冷干期尤为明显;相反在湿期，无论暖湿还是冷湿，草甸草原面积和总产均增加，荒漠草原面积和总产均减小,其中暖湿期尤为明显，而典型草原面积和总产在暖湿期减小,冷湿期增加。在降水充足的时期，会有荒漠草原 $$ 典型草原 $$ 草甸草原的转化，反之，转化过程正好相反。从暖湿期$$ 冷干期时，蒙古草原总产下降幅度最大，相反，则增产幅度最大;由冷干期 $$ 暖干期或暖干期 $$ 冷干期时，总产增加或下降的幅度最小。
+
+本文研究不足之处在于模拟草原生产力只考虑了自然状况下气象因子对其的影响，没有考虑放牧、火灾、农牧民生产生活等对草原生产力的影响，有待后续进一步研究。
+
+参考文献（References）   
+[1］周锡饮,师华定,王秀茹.气候变化和人类活动对蒙古高原植 被覆盖变化的影响[J].干旱区研究,2014,31（4)：604-610. [ZHOU Xiyin,SHI Huading,WANG Xiuru.Impact of climate change and human activities on vegetation coverage in the Mongolian Plateau[J].Arid Zone Research,2014,31(4） :604 -610.]   
+[2]胡海清,魏书精,孙龙,等.气候变化、火干扰与生态系统碳循 环[J].干旱区地理,2013,36（1）:57-75.［HUHaiqing,WEI Shujing,SUN Long,et al. Interaction among climate change,fire disturbance andecosystem carbon cycle[J].Arid Land Geography,2013,36(1) :57 -75.]   
+[3］气候变化国家评估报告编写委员会.气候变化国家评估报告 （精)[M].北京:科学出版社,2007:221-227.[Committee of “China’s national asssment report on climate change". China’s national assessment report on climate change[M]. Beijing:Science Press,2007:221 -227.]   
+[4］张存厚,王明玖,乌兰巴特尔,等.内蒙古典型草原地上净初级 生产力对气候变化响应的模拟[J].西北植物学报,2012,32 (6）:1229-1237.[ZHANG Cunhou,WANG Mingjiu,Wulanbater,et al.Responses of ANPP to climate change in Inner Mongolia typical steppe a simulation study[J].Acta Botanica Boreali-Occidentalia Sinica,2012,32(6):1229-1237.]   
+[5]LIETH H. Modeling the primary productivity of the world[M]// Primary productivity of the biosphere.Berlin: Springer Berlin Heidelberg,1975:237 -263.   
+[6]LI Changsheng,NARAYANAN V,HARRISS R C.Model estimates of nitrous oxide emissons from agricultural lands in the United States[J]. Global Biogeochemical Cycles,1996,10（2）: 297 - 306.   
+[7]COLEMAN K,JENLINSON D S.RothC-26.3:A model for the turnover of carbon in soil[M]//Evaluation of soil organic matter models.Berlin:Springer Berlin Heidelberg,1996:237-246.   
+[8]PARTON W J,SCURLOCK JMO,OJIMA D S,et al. Observation and modeling of biomass and soil organic matter dynamics for the grassland biome worldwide［J].Global Biogeochemical Cycles, 1993,74(4) :785 - 809.   
+[9]PARTON W J,SCURLOCK JM O,OJIMA D S,et al. Impact of climate change on grassland production and soil carbon worldwide [J]. Global Change Biology,1995,1(1）:13-22.
+
+[10］XIAO Xiangming,WANG Yifeng,CHEN Zuozhong.Dynamics of primary productivity and soil organic matter of typical steppe in the Xilin River basin of Inner Mongolia and their response to climate change[J].Acta Botanica Sinica,1996,38(8）:45-52.
+
+[11]GILMANOV TG,PARTONWJ,OJIMAD S.Testing the‘CENTURY’ecosystem level model on data sets from eight grassland sites in the former USSR representing a wide climatic/soil gradient [J].Ecological Modelling,1997,96(1-3）:191-210.
+
+[12］莫志鸿，李玉娥，高清竹.主要草原生态系统生产力对气候变化响应的模拟[J].中国农业气象，2012，33（4）：545-554.[MO Zhihong,LI Yu'e,GAO Qingzhu.Simulation on productivityof main grassland ecosystems responding to climate change[J].Chinese Journal of Agrometeorology,2012,33（4）:545-554.]
+
+[13］孙小龙,李平,张存厚,等.镶黄旗典型草原地上净初级生产力 对气候变化响应的模拟[J].中国草地学报,2015,37（5）： 103-108.［SUN Xiaolong,LI Ping,ZHANG Cunhou,et al.Responses of aboveground net primary productivity in typical steppe to climate change in Xianghuang Banner[J].Chinese Journal of Grassland,2015,37(5):103-108.]
+
+[14］张存厚,王明玖,张立，等.呼伦贝尔草甸草原地上净初级生产力对气候变化响应的模拟[J].草业学报，2013，22（3）：41-50.[ZHANG Cunhou,WANG Mingjiu,ZHANGLi,etal.Respon-ses of meadow steppe ANPP to climate change in Hulunbeir：Asimulation study[J].Acta Prataculturae Sinica,2013,22（3）：41 -50.]
+
+[15］张存厚，王明玖,赵杏花，等.基于CENTURY模型的荒漠草原 ANPP 对气候变化响应的模拟[J].生态学杂志,2014,33（10)： 2849-2857.[ZHANG Cunhou,WANG Mingjiu,ZHAO Xinghua, et al.Simulation of ANPP in response to climate change in China's desert steppe based on CENTURY model[J].Chinese Journal of Ecology,2014,33（10):2849-2857.]
+
+[16］张存厚.内蒙古草原地上净初级生产力对气候变化响应的模 拟[D].呼和浩特：内蒙古农业大学,2013.［ZHANGCunhou. Responses of ANPP to climate change in Inner Mongolia grassland: Asimulationbased on CENTURY model[D].Hohhot:Inner Mongolia Agricultural University,2013.]
+
+[17］陈辰,王靖,潘学标,等.CENTURY 模型在内蒙古草地生态系 统的适用性评价［J].草地学报，2012,20（6）：1011－1019. [CHEN Chen,WANG Jing,PANXuebiao,etal.Validation and adaptability evaluation of grass ecosystem model CENTURY in Inner Mongolia[J].Acta Agrestia Sinica,2012,20(6）:1011-1019.] [18］郭灵辉，郝成元,吴绍洪，等.内蒙古草地NPP变化特征及其对 气候变化敏感性的CENTURY模拟研究［J].地理研究,2016， 35（2）:271-284.［GUO Linghui,HAO Chengyuan,WU Shao hong.Analysis of changes in net primary productivity and its susceptibility to climate change of Inner Mongolia grasslands using the CENTURY model[J].Geographical Research,2016,35（2）： 271 -284.]
+
+[19］陆丹丹.基于CENTURY模型的内蒙古荒漠草原区ANPP及其对气候变化的响应[D」.呼和浩特：内蒙古大学，2016.［LU
+
+Dandan.Observations and modeling of ANPP dynamics for desert steppe in Inner Mongolia and its responses to global climate change based on CENTURY model[D].Hohhot:Inner Mongolia University,2016.]
+
+[20］包萨茹.基于CENTURY模型的呼伦贝尔草原ANPP估算及其 对气候变化的响应研究［D].呼和浩特：内蒙古大学，2016. [BAO Saru.Modeling dynamics of ANPP by using CENTURY model and its responses to climate change in Hulun Buir Inner Mongolia[D].Hohhot:Inner Mongolia University,2016.]
+
+[21］周锡饮，师华定，王秀茹，等.蒙古高原近30年来土地利用变化时空特征与动因分析[J].浙江农业学报,2012,24（6）：1102-111O.[ZHOU Xiyin,SHI Huading,WANG Xiuru,et al.Study on the temporal and spatial dynamic changes of land use anddrivingforcesanalysisofMongoliaPlateau inrecent3O yearsJ」Acta Agriculturae Zhejiangensis,2012,24(6):1102-1110.]
+
+[22］陈奕兆,李建龙，孙政国，等.欧亚大陆草原带1982—2008 年 间净初级生产力时空动态及其对气候变化响应研究[J].草业 学报,2017,26（1）:1-12.［CHEN Yizhao,LI Jianlong,SUN Zhengguo,et al. Spatio-temporal dynamics of grassland net primary productivity and its response to climate change in the temperate Eurasian steppe 1982-2008[J].Acta Prataculturae Sinica,2017, 26(1) :1-12.]
+
+[23］焦翠翠，于贵瑞，何念鹏，等.欧亚大陆草原地上生物量的空间格局及其与环境因子的关系［J].地理学报,2016,71（5）：781-796.[JIAO Cuicui,YUGuirui,HE nianpeng,et al. The spa-tialpattern of grassland abovegroundbiomass and its environmentalcontrols in the Eurasian steppe[J].Acta Geographica Sinica,2016,71(5):781-796.]
+
+[24］郭学斌.蒙古草原现状及生态环境保护一蒙古草原生态环境 调研[J].山西林业科技,2005,（1):17-19.［GUO Xuebin. Cuurent situation of Mongolia grassland and protection of ecological environment:A survey and research on ecological environment in Mongolia grassland[J].Shanxi Forestry Science And Technology, 2005,(1) :17 -19.]
+
+[25］苏和，塔娜.内蒙古镶黄旗草原生态环境退化原因及可持续发展[J].中国草地学报,2007,29（1)：113-116.［SUHe,TANa.Discussion on the sustainable development and reasons ofgrassland ecological environment degradation in Xianghuangqi ofInner Mongolia[J].Chinese Journal of Grassand,20O7,29（1）：113 -116.]
+
+[26］张韵婕，桂朝，刘庆生，等.基于遥感和气象数据的蒙古高原 1982—2013年植被动态变化分析[J].遥感技术与应用,2016， 31（5）:1022-1030.［ZHANG Yunjie,GUI Zhao,LIUQingsheng,etal.The analysis of the dynamic changes from1982 to 2013 in the Mongolian Plateau based on satellite imageries and meteorological data[J].Remote Sensing Technology and Application, 2016,31(5):1022-1030.]
+
+[27］张雪艳，胡云锋，庄大方，等.蒙古高原NDVI的空间格局及空 间分异［J].地理研究,2009,28（1）:10-18.［ZHANG Xueyan, HUYunfeng,ZHUANG Dafang,et al.The spatial pattern and dif
+
+ferentiation of NDVI in Mongolian Plateau[J].Geographical Research,2009,28（1):10-18.]   
+[28]ZHANG Xueyan,HU Yunfeng,ZHUANG Dafang,et al.NDVI spatial pattern and its differentiation on the Mongolian Plateau[J]. Journal of Geographical Sciences,2009,19(4）:403-415.   
+[29］李一凡,王卷乐,祝俊祥.基于地理分区的蒙古国景观格局分 析[J].干旱区地理,2016,39（4）：817-827.［LIYifan，WANG Juanle,ZHU Junxiang,Landscape pattern analysis of Mongolia based on the geographical partitions[J].Arid Land Geography, 2016,39(4) :817 -827.]   
+[30]MIAO Lijuan,LUAN Yibo,LUO Xiangzhong,et al.Analysis of the phenology in the Mongolian Plateau by inter-comparison of Global Vegetation Datasets[J].Remote Sensing,2013,5（10）:5193- 5208.   
+[31]KIRSCHBAUMMUF,PAULKI.ModelingCandNdynamics in forest soils with a modified version of the CENTURY model[J]. Soil Biology& Biochemistry,2002,34（3）:341-354.   
+[32］PARTONWJ,MCKEOWNB,KIRCHNERV,et al.CENTURY
+
+user's manual[M].Colorado:California State University,Natural Resource Ecology Laboratory,1992.
+
+[33］李香真，曲秋皓.蒙古高原草原土壤微生物量碳氮特征[J].土壤学报,2002,39（1）：97-104.［LIXiangzhen,QUQiuhao.Soilmicrobial biomass carbon and nitrogen in Mongolian Grassland[J].ActaPedologica Sinica,2002,39(1）:97-104.]
+
+[34］侯晓东.蒙古高原不同草原区土壤因子及根茎禾草生长发育 状况的比较研究［D］.呼和浩特：内蒙古农业大学，2007. [HOU Xiaodong.Study on the comparison of soil factor and the growth development of rhizomatous grasses on the differ steppe area in Mongolia altiplano[D].Hohhot:Inner Mongolia Agricultural University,2007.]
+
+[35］春兰.不同利用方式下土壤特性及植被群落特征对比研 究——以蒙古高原典型草原为例D」.呼和浩特：内蒙古农业 大学,2OO9.[CHUNLan.The comparative study on soil characteristics and the characteristics of plant communities under different patterns of uses:A case of Mongolian altiplano typical steppe[D]. Hohhot:Inner Mongolia Agricultural University,2009.]
+
+# Change of above ground net primary productivity of grassland over the Mongolian Plateau in recent 56 years
+
+QIN Hao-jun， HAN Yong-xiang (KeyLaboratoryforAerosol-Cloud-PrecipitationofChina MeteorologicalAdministration,Climateand WeatherDisasters ColaborativeInnovationCenter,anjingUniversityfIfomationScienceandTechnolog,njing044,JiangsuCina)
+
+Abstract:Study of the grassland productivity and its response to the climate change has been an important aspect of the global change research.Byusing the ArcGIS interpolation technique,theobserveddata from 32 meteorological stations in the Mongolian Plateau are interpolated into the $1 ^ { \circ } \times 1 ^ { \circ }$ grid data,and then the spatiotemporal distribution characteristics of the above ground net primary productivity（ANPP）ofthe vegetation over the Mongolian Plateau from 1961 to 2016are simulated by the CENTURY model.The results are shown as follws:(1）The spatial and temporal distribution of the ANPP simulated bythe CENTURY model can well reflect the change ofthe grassland productivity in the Mongolian prairie,and the distribution of the $A N P P$ in grasslands changed from north to south graduall from east to west.（2）The yields of meadow steppe and typical steppe are decreasing over time and the decreaserate of meadowsteppe is higher,and the yieldsof desert steppe is rising over time.The largest total yields are in the typical steppe,and the lowest totalyieldsarein the desert steppe which has the largest area.(3)The precipitationisthekeyfactorfor thegrassland productivity.In the wet-period,thereexists thetransformationof desert steppe $$ typical steppe $$ meadow steppe,while the process of dry-period conversion is the opposite.The total yields of Mongolian steppehave the largest decrease when it is changed from the warm-wet period tothe dry-cold period. In contrast,the total yields have the largest increase when it changed from dry-cold to warm-wet.
+
+Key words:spatio-temporal distribution ; $A N P P$ ； CENTURY model； Mongolian Plateau grassland

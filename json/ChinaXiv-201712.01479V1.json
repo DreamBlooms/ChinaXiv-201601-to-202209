@@ -1,0 +1,520 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201609091833 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李凌宇,于瑞宏，田明扬,胡海珠,张笑欣,冉立山,杨现坤,吕喜玺.黄河二氧化碳逸出时空变化及其影响因素——以头道拐水文站为例.生态学报,2017,37(22):7636-7646.LiLY,YuRHan,HHZ,agXX,anLSYngXK,uXSpatiepoalratosdfuengfctosofabideevasionfromtheYelowRiver：Anexampleof theToudaoguai GaugingStation.ActaEcologicaSinica,20l7,37（2):7636-7646.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄河二氧化碳逸出时空变化及其影响因素以头道拐水文站为例",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李凌宇}，于瑞宏}，田明扬}，胡海珠1\\*，张笑欣}，冉立山²，杨现坤²，吕喜玺 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1内蒙古大学生态与环境学院，呼和浩特010021  \n2新加坡国立大学，新加坡17570",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要;河流连接着海洋碳库和陆地碳库,河流碳逸出是全球碳收支的重要组成部分。本文以黄河上游和中游分界点一内蒙古段头道拐断面为研究对象,采用Li-7000静态箱法监测了断面4个采样点在 2013—2015年期间四季的 $\\bar { \\mathrm { ~ C O ~ } } _ { 2 }$ 逸出通量( $F \\mathrm { C O } _ { 2 }$ ），并分析了 $F \\mathrm { C O } _ { 2 }$ 时空变化规律。基于研究断面主要水文和水化学指标的野外监测和室内分析结果,探讨了 $F \\mathrm { C O } _ { 2 }$ 的主要影响因素。结果表明断面 $F \\mathrm { C O } _ { 2 }$ 介于14 $- 1 8 6 \\mathrm { \\ m o l \\ m } ^ { - 2 } \\mathrm { \\ a } ^ { - 1 }$ ,平均值为 $8 4 ~ \\mathrm { m o l ~ m } ^ { - 2 } \\mathrm { ~ a ~ } ^ { - 1 }$ ;水体 $\\mathrm { C O } _ { 2 }$ 分压 $( p \\mathrm { C O } _ { 2 }$ )介于 $4 6 7 - 2 1 0 1 ~ \\mu \\mathrm { a t m }$ ,平均值为$9 9 5 ~ \\mu \\mathrm { a t m }$ ;DOC 浓度介于 $2 . 7 \\mathrm { - } 1 3 \\ \\mathrm { m g / L }$ 0 $F \\mathrm { C O } _ { 2 }$ 季节性差异明显；夏季 $F \\mathrm { C O } _ { 2 }$ 为全年最大 $4 5 6 \\ \\mathrm { m m o l \\ m } ^ { - 2 } \\ \\mathrm { d } ^ { - 1 }$ ,冬季最小 $3 3 \\mathrm { \\ m m o l } \\mathrm { \\ m } ^ { - 2 }$ $\\mathbf { d } ^ { - 1 }$ 。 $F \\mathrm { C O } _ { 2 }$ 在4个采样点的空间差异显著;河道右岸 S4点处最大为 $3 9 2 \\ \\mathrm { m m o l \\ m } ^ { - 2 } \\ \\mathrm { d } ^ { - 1 }$ ;河道中部 S2 和 S3 点基本相同;河道左岸S1点最小为 $8 6 ~ \\mathrm { m m o l ~ m } ^ { - 2 } ~ \\mathrm { d } ^ { - 1 }$ 。 $F \\mathrm { C O } _ { 2 }$ 与河道流速呈现较好的正相关关系，与 $\\phantom { + } _ { p \\mathrm { C O } _ { 2 } }$ 中等相关,与 $\\mathrm { \\ p H }$ 负相关,与风速的相关性不明显,说明对于该研究断面河道流速较 $\\boldsymbol { p } \\mathrm { C O } _ { 2 }$ 对 $F \\mathrm { C O } _ { 2 }$ 的贡献更大。本研究较为精细地探讨了头道拐断面的水体 $\\mathrm { C O } _ { 2 }$ 逸出规律,表明即使在同一河道断面, $F \\mathrm { C O } _ { 2 }$ 也可能存在较大空间差异,流速较大处的 $F \\mathrm { C O } _ { 2 }$ 较大,因此在野外监测 $F \\mathrm { C O } _ { 2 }$ 时需要在河道断面选取具有代表性的采样点,特别是较大的河流。研究结果为黄河中上游 $\\mathrm { C O } _ { 2 }$ 逸出量评价和河道断面 $F \\mathrm { C O } _ { 2 }$ 监测点的布设提供了科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：二氧化碳逸出通量；时空变化；影响因素；黄河头道拐",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Spatial-temporal variations and influencing factors of carbon dioxide evasion from the Yellow River: An example of the Toudaoguai Gauging Station ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Lingyu’,YU Ruihong¹，TIAN Mingyang¹，HU Haizhu1,\\*，ZHANG Xiaoxin1，RAN Lishan²，YANG Xiankun², LU Xixi1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1SchoolofEcology& Environment，InnerMongolia University,Hohhot O1oo21,China   \n2 Department of Geography，National University of Singapore，17570 Singapore ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The oceanic carbon pool and terrestrial carbon pool are connected by rivers. Carbon dioxide ( $\\mathrm { C O } _ { 2 }$ ）evasion from rivers to the atmosphere represents a substantial flux in the global carbon cycle. The $\\mathrm { C O } _ { 2 }$ efflux ( $F \\mathrm { C O } _ { 2 }$ ）and $\\mathrm { C O } _ { 2 }$ partial pressure ( $\\phantom { 0 } { p } \\mathrm { C O } _ { 2 }$ ） in large rivers have been widely evaluated. Most studies concerning $\\mathrm { C O } _ { 2 }$ emission from the Yellow River，a typicalrivercontaining highsedimentconcentrations，focusedonthelowerreachanditsestuary,butless is knownaboutits upperand midlereaches.Inthis study，a river cros-sectionat the Toudaoguai Gauging Station in Inner Mongolia，the dividing point between the upper and middle reaches of the Yellow River was chosen as a study site.Evasion of $\\mathrm { C O } _ { 2 }$ was measured four times each year using Li-700O staticchamber method from 2013 to2015atfoursampling points ina river cross-section. The spatial and temporal variations of $F { \\mathrm { C O } _ { 2 } }$ were analyzed.The relevant hydrological indexes， including water temperature , $\\mathrm { \\ p H }$ ,and wind velocity as wellas current velocity were measured at the four sampling points. The hydrochemical indicators，including ALK and DOC in water samples，were analyzed in the laboratory and $p { \\bf C } { \\bf O } _ { 2 }$ was estimated. The possible influential factors of $F \\mathrm { C O } _ { 2 }$ were further discussed using correlation analysis.The $\\mathrm { C O } _ { 2 }$ evasion from the river crosssection ranged from 14 to $1 8 6 \\mathrm { \\ m o l ~ } \\mathrm { ~ m } ^ { - 2 } \\mathrm { ~ a } ^ { - 1 }$ and its average was $8 4 \\mathrm { ~ m o l ~ } \\mathrm { ~ m } ^ { - 2 } \\mathrm { ~ a } ^ { - 1 }$ . The $p { \\bf C } { \\bf O } _ { 2 }$ in the Yellow River at the Toudaoguai Gauging Station was within the range of $4 6 7 { - } 2 1 0 1 \\ \\mu \\mathrm { a t m }$ and the average value was 995 μatm. The concentration of DOC ranged from 2 to $1 3 ~ \\mathrm { m g / L }$ . The $F { \\mathrm { C O } _ { 2 } }$ exhibited obvious seasonal variations，with the maximum $F \\mathrm { C O } _ { 2 }$ of $4 5 6 \\ \\mathrm { m m o l \\ m } ^ { - 2 } \\ \\mathrm { d } ^ { - 1 }$ occurring in summer and the minimum of $3 3 \\mathrm { \\ m m o l \\ m } ^ { - 2 } \\mathrm { \\ d } ^ { - 1 }$ occurring in winter. The $F { \\mathrm { C O } _ { 2 } }$ values were markedly different at sampling points，with the maximum value of 392 mmol $\\mathbf { m } ^ { - 2 } \\mathbf { \\Lambda } \\mathbf { d } ^ { - 1 }$ at S4 near the right bank,similar values at S2 and S3 in the middle of the river section，and the minimum of 86 mmol $\\mathbf { m } ^ { - 2 } \\mathbf { d } _ { } ^ { - 1 }$ at S1 near the left bank. The analysis of factors influencing $F \\mathrm { C O } _ { 2 }$ indicated that $F { \\mathrm { C O } _ { 2 } }$ was positively correlated with current velocity and $p \\mathrm { C O } _ { 2 }$ ，and negatively correlated with $\\mathrm { \\ p H }$ .There was no obvious correlation between $F { \\mathrm { C O } _ { 2 } }$ and wind speed. Results also showed that current velocity contributed more to $F \\mathrm { C O } _ { 2 }$ than to $p \\mathrm { C O } _ { 2 }$ in the river cross-section. In this study，evasion of $\\mathrm { C O } _ { 2 }$ from the Toudaoguai cross-section was determinedonarelatively fine scale.Theresults suggestedthata distinct spatial variation in $F { \\mathrm { C O } _ { 2 } }$ exists even at the level of river cross-section，with the maximum $F \\mathrm { C O } _ { 2 }$ found at the point with the highest current velocity. Thus，typical sampling points in a river cross-section should be chosen for $F \\mathrm { \\ ' C O } _ { 2 }$ measurement. The study provided a scientific reference for both $F { \\mathrm { C O } _ { 2 } }$ evaluation in the upper and middle reaches of the Yellow River and $F { \\mathrm { C O } _ { 2 } }$ sampling in a river cross-section. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:evasion of carbon dioxide；spatial-temporal variation；influencing factor；Toudaoguai Gauging Stationof the Yellow River ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自然界中不同形态的碳在岩石圈、陆地生态系统、大气和海洋4个碳库间的相互转换和运移过程称为全球碳循环[1]。河流作为全球碳循环的重要连接通道,持续地从陆地向海洋输送碳,在此过程中河流由水体向大气释放 $\\mathrm { C O } _ { 2 }$ ,是碳损失的重要途径之一[2-3]。已有研究表明黄河 $\\mathrm { C O } _ { 2 }$ 逸出量与碳沉降量相当,约占河流碳循环的1/3,均大于向海洋的输送量[4]。全球河流系统的 $\\mathrm { C O } _ { 2 }$ 年逸出量高达0.9—1.8亿 $\\mathfrak { t } ( \\mathrm { G t C } ) ^ { [ 5 ] }$ ,与矿石燃料燃烧的碳排放通量和海洋-大气间的净碳通量属于同一量级[6-7]。因此,开展河流水-气界面 $\\mathrm { C O } _ { 2 }$ 通量研究，对认识河流碳循环、区域碳循环乃至全球碳循环过程具有重要意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "河流水体中的 $\\mathrm { C O } _ { 2 } ^ { * }$ 在处于过饱和状态,即水体中的 $\\mathrm { C O } _ { 2 }$ 分压 $( p \\mathrm { C O } _ { 2 }$ )大于大气压时,才能从水体逸出。因此， $F \\mathrm { C O } _ { 2 }$ 的研究通常以河流水体表面 $p { \\bf C } { \\bf O } _ { 2 }$ 为基础。目前,研究者在世界范围内的大江大河,如南美的亚马逊河、北美的密西西比河、亚洲的长江、湄公河和黄河开展了 $p { \\bf C } { \\bf O } _ { 2 }$ 和 $F \\mathrm { C O } _ { 2 }$ 的定量研究。例如,Li等[8]分析了湄公河下游42个水文站的数据得出水体表层 $p { \\bf C } { \\bf O } _ { 2 }$ 均值为 $1 0 9 0 ~ \\mu \\mathrm { a t m }$ $F \\mathrm { C O } _ { 2 }$ 为 $7 1 \\mathrm { ~ m o l ~ m } ^ { - 2 } \\mathrm { ~ a } ^ { - 1 }$ ;Li等[9]对长江龙川支流的研究发现该支流 $\\phantom { + } p \\mathrm { C O } _ { 2 }$ 均值为 $1 2 3 0 ~ \\mu \\mathrm { a t m }$ ， $F \\mathrm { C O } _ { 2 }$ 为 $2 7 \\mathrm { \\ m o l } \\mathrm { \\ m } ^ { - 2 } \\mathrm { \\ a } ^ { - 1 }$ ;密西西比河流域河流和湿地的 $\\mathrm { C O } _ { 2 }$ 释放量可达 $1 . 2 { \\pm } 0 . 3 \\ \\mathrm { M g C } \\ \\mathrm { h m } ^ { - 2 } \\ \\mathrm { a } ^ { - 1 [ 1 0 ] }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "河流 $\\ l _ { p } \\mathrm { C O } _ { 2 }$ 和 $F { \\mathrm { C O } _ { 2 } }$ 通常呈现出明显的时空差异,导致差异的主要原因是河流水体中 $\\mathrm { C O } _ { 2 }$ 的来源不相同,并且相关的环境影响因素也有所不同。河流 $\\mathrm { C O } _ { 2 }$ 的来源有外源和内源两种。外源主要有土壤中含碳有机物的矿化、土壤有机物的降解、植物根系的呼吸;内源主要有水体有机碳的原位呼吸作用、光化学降解作用以及碳酸盐的沉淀[1-12]。环境影响因素主要有温度、降水、流速、微生物以及人类活动等,这些因素相互作用,共同影响着河流 $\\mathrm { C O } _ { 2 }$ 逸出[13]。研究表明流域降水给土壤提供了水分,而微生物在适宜的温度条件下活跃度较高,利于产生 $\\mathrm { C O } _ { 2 }$ 进入河流,从而增大了水体的 $p \\mathrm { C O } _ { 2 }$ 。近些年人类活动引发的营养和热力学变化也可能增加",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "河流 $p { \\bf C } { \\bf O } _ { 2 }$ [14]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "关于 $F \\mathrm { C O } _ { 2 }$ 的估算,有静态箱法、模型估算法、涡度相关法以及气体示踪试验法等[15-17],目前最常用的主要是前两种方法。静态箱法即红外水-气界面 $\\mathrm { C O } _ { 2 }$ 分析仪法,该法的优点是能直接在河流表面测得 $F \\mathrm { C O } _ { 2 }$ ,缺点是实验设备对水面风速和降雨可能存在扰动[18]。模型估算法又称梯度法,表达式[17.19]为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF \\mathrm { C O } _ { 2 } = k \\cdot ( p \\mathrm { C O } _ { { } _ { 2 } \\mathrm { x } } - p \\mathrm { C O } _ { { } _ { 2 }  } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $k$ 为气体交换系数， $p \\mathrm { C O } _ { 2 \\mathrm { * } }$ 为河流表层的 $\\mathrm { C O } _ { 2 }$ 分压， $p \\mathrm { C O } _ { 2 \\sharp }$ 为大气的 $\\mathrm { C O } _ { 2 }$ 分压,河流表层 $\\boldsymbol { p } \\mathrm { C O } _ { 2 }$ 一般采用温度 $\\mathrm { \\nabla \\cdot \\ p H }$ 结合碱度间接估算得到[2」，碱度则由滴定法得到。该模型中参数 $k$ 的取值的不同,结果有所差异,因此存在争议。Peng 采用模型估算法得到了乌江不同深度处的 $p { \\bf C } { \\bf O } _ { 2 }$ [21]；Noriega 和Araujo采用该法估算了巴西北部和东北部河口的 $\\phantom { + } p \\mathrm { C O } _ { 2 }$ 和 $F \\mathrm { C O } _ { 2 } ^ { \\ [ 2 2 ] }$ ;Li等同样采用该法估算了湄公河下游的 $p { \\bf C } { \\bf O } _ { 2 }$ 和 $F \\mathrm { C } { \\bf \\Theta } _ { 2 } ^ { \\left\\{ 8 \\right\\} }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "黄河是高含沙量河流的代表,近些年有关其碳通量研究的报道越来越多。孙超[23]通过对黄河花园口和利津测站的观测,研究水体 $\\boldsymbol { p } \\mathrm { C O } _ { 2 }$ 与水沙的关系,表明高泥沙含量对应较高的 $\\boldsymbol { p } \\mathrm { C O } _ { 2 }$ ;王亮[24]观测了黄河花园口和利津测站水体中的各种形态的碳浓度,并估算了河流碳的输运量和水-气界面通量。Ran 等[25]对黄河干流碳逸出及其影响因素研究发现,雨季 $F \\mathrm { C O } _ { 2 }$ 大于旱季,并且受人类影响,输入海的碳通量在减少而 $F \\mathrm { C O } _ { 2 }$ 在增加。以上研究表明目前对于黄河碳逸出的研究主要集中在黄河下游与河口地区，而黄河中游和上游的相关研究较少。本文以黄河中游内蒙古段的头道拐断面为研究对象，基于 $\\phantom { 0 } { \\phantom { 0 } } \\overline { { F } } \\mathrm { C O } _ { 2 }$ 及其相关水文和水化学指标的监测分析，探索了 $F \\mathrm { C O } _ { 2 }$ 在年际、年内以及断面上的分布特征以及影响因素,补充了黄河中上游 $\\mathrm { C O } _ { 2 }$ 逸出规律的研究，为黄河碳循环研究提供了科学参考。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "黄河是中国第二大河,全长约 $5 4 6 4 ~ \\mathrm { k m } ^ { [ 2 6 ] }$ ,水面落差 $4 4 8 0 \\mathrm { ~ m ~ }$ ,流域面积约 $7 5 2 4 4 3 ~ \\mathrm { k m } ^ { 2 }$ ,平均含沙量达 37$\\mathbf { k g } / \\mathbf { m } ^ { 3 [ 2 7 ] }$ ,是世界上含沙量最高的河流。本研究选取黄河上游与中游分界点一头道拐水文站( $1 1 0 ^ { \\circ } 0 4 ^ { \\prime } \\mathrm { E } , 4 0 ^ { \\circ }$ $1 6 ^ { \\prime } \\mathrm { N } _ { \\cdot } ^ { \\cdot }$ )为试验点。头道拐水文站是黄河干流重要的水文站点之一,位于内蒙古托克托县河口镇,位置如图1所示。该站点所在区域属温带干旱半干旱气候,年降水量为155- $- 3 6 6 \\ \\mathrm { m m }$ ， $7 5 \\%$ 的降水集中于7—9月份。1956—2010 年的水面蒸发量为 $1 3 6 8 \\mathrm { \\ m m }$ ,夏季蒸发量为全年最大[28]。站点所在流域内自产径流很少,但过境流量很大,流经该测站的径流量占全河的 $5 0 \\%$ 以上[29]。1987—2010 年的黄河径流资料显示,头道拐多年平均水量为258亿 $\\mathbf { m } ^ { 3 }$ ,主要集中于汛期的7—10月[30]。黄河在巴彦高勒与头道拐区间,主要接纳“十大孔兑”等支流汇入,这些支流流域植被较差、土质疏松,并且河道流程短、比降大,因此汛期极易造成水土流失[31]。另外,头道拐水文站的上游是河套灌区,年引黄水量约50 亿 $\\mathbf { m } ^ { 3 }$ ,占黄河过境水量的七分之一[32]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究在头道拐水文站附近选取研究断面,如图2所示。为探究 $F \\mathrm { C O } _ { 2 }$ 沿河道断面的空间分布规律,在研究断面布设4个采样点,S1点靠近黄河左岸,S2和S3点分别位于河道中部,S4点靠近右岸,分布如图2所示。自 2013年至2015年，共实测得到近3年的 $F \\mathrm { C O } _ { 2 }$ 数据，采样时间分别为2013年7月、11月,2014年和2015年的4月、6月、9月和12月。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究运用静态箱法一红外水气 $\\mathrm { C O } _ { 2 }$ 分析仪Li-7000（美国Li-Cor 公司)监测水体 $p { \\bf C } { \\bf O } _ { 2 }$ [33]。由于Li-7000 无法直接测量水体中的 $\\mathrm { C O } _ { 2 }$ 浓度,因此需要外接静态箱（图3），通过两根塑料管将静态箱与Li-7000 气体分析仪连接,形成空气闭合回路。本试验所用静态箱为体积 $0 . 0 1 8 \\mathrm { ~ m } ^ { 3 }$ ,与水面接触面积为 $0 . 0 9 \\mathrm { ~ m } ^ { 2 }$ 的塑料箱，为使塑料箱浮在水面,在塑料外部套有 $1 2 \\ \\mathrm { c m }$ 厚泡沫板。测量时,首先将静态箱举起,使箱内 $\\mathrm { C O } _ { 2 }$ 浓度与大气 $\\mathrm { C O } _ { 2 }$ 浓度平衡,之后将静态箱放置于河流表面,保持其静止。Li-7000气体分析仪每间隔 $1 ~ \\mathrm { m i n }$ 记录一次$\\boldsymbol { p } \\mathrm { C O } _ { 2 }$ 数值,每次监测持续 $2 0 ~ \\mathrm { m i n }$ 左右。Li-7000气体分析仪采用12V电池供电。水-气界面 $F { \\mathrm { C O } _ { 2 } }$ 可通过下式计算[34]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/95e8d99089a33caaead7ac31a58edfc62a974a7e7e4b0f8de736a79fe6260628.jpg",
+        "img_caption": [
+            "Fig.1The position of the river cross-section "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF \\mathrm { C O } _ { 2 } = \\left( d p \\mathrm { C O } _ { 2 } / \\mathrm { d } t \\right) \\left( V / R T \\mathrm { S } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $F \\mathrm { C O } _ { 2 }$ 为 $\\mathrm { C O } _ { 2 }$ 逸出通量( $\\mathrm { [ \\mu m o l \\ m ^ { - 2 } \\ \\ s ^ { - 1 } }$ ）； $d p \\mathrm { C O } _ { 2 } / d t$ 为 $\\phantom { + } p \\mathrm { C O } _ { 2 }$ 在静态箱中积累量的斜率( $\\mu \\mathrm { a t m / s } )$ ，一般采用开始7- $1 5 ~ \\mathrm { m i n }$ 之内 $p { \\bf C } { \\bf O } _ { 2 }$ 呈线性升高趋势的数值计算; $V$ 为静态箱体积 $( \\mathbf { m } ^ { 3 }$ ） $R$ 为气体常数 $\\bf \\Pi ^ { \\prime } \\bf m ^ { 3 } \\ a t m \\ K ^ { - 1 }$ $\\mathrm { m o l } ^ { - 1 }$ ）； $T$ 为静态箱内温度（K);S为静态箱覆盖水面面积(m）。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f67bb8d96dfd0c77d2b94c1075e8c7009fa9c45807b07e34b8a38166e5bb57a.jpg",
+        "img_caption": [
+            "图2研究断面采样点布设示意图 Fig.2The sampling points of the river cross-section "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c2610040bfdaa284b8f587d12a5fc03d47b14667b27408559919d52e3b4c06ac.jpg",
+        "img_caption": [
+            "图1研究断面位置示意图",
+            "图3Li-7000静态箱法原理示意图",
+            "Fig.3The schematic ofLi-7ooo static chamber method "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "野外试验过程中，除了对每一采样点监测水-气界面 $\\mathrm { C O } _ { 2 }$ 浓度变化,还监测 $\\mathrm { \\ p H }$ 、流速、风速和水温等指标。水温和pH采用便携式水质监测仪（Multi3420)监测，水温测量精度 $\\pm 0 . 2 \\%$ ， $\\mathrm { \\ p H }$ 测量精度 $_ { \\pm 0 . 0 0 4 }$ 。河道流速采用直读式流速仪（GlobalWater FP211)进行监测 $( \\mathrm { m / s } )$ ,测量精度 $\\pm 0 . 0 3 ~ \\mathrm { m / s }$ ,测量时将流速仪放置于每个采样点水面以下 $1 0 \\ \\mathrm { c m }$ 处,分别测量3次取平均值。风速( $\\mathrm { ~ ( ~ m / s ~ ) ~ }$ )采用标智风速仪(GM8901)进行监测，精准度为±$3 \\%$ ,测量高度基本与静态箱采样时的水平高度一致,每个采样点测量两次取平均值。取水样时,在每个采样点水面以下 $5 \\ \\mathrm { c m }$ 处用超纯水润洗过的 $5 0 0 ~ \\mathrm { m L }$ 采样瓶进行水样采集。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "冬季采样时,分别在4个采样点处用冰镐在冰面上砸开略大于静态箱底面积的冰洞。12月的河面结冰厚度为 $2 0 { - } 4 0 ~ \\mathrm { c m }$ ,河中央S2 和 S3 处的冰层较厚。之后将静态箱放置在冰洞中进行监测,步骤和方法同上。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "取回水样后,溶解有机碳(Dissolved Organic Carbon,DOC)使用德国 VORE 公司的 TOC 总碳总氮分析仪测定。碱度在采样后的 $^ { 5 \\mathrm { ~ h ~ } }$ 之内测定,甲基橙做指示剂,用 $0 . 1 \\ \\mathrm { m o l / L }$ 的盐酸对采集的水样进行滴定,将得到的碱度结合 $\\mathrm { \\ p H }$ 估算各采样点水体 $\\ l _ { p } \\mathrm { C O } _ { 2 }$ 。河流系统中总无机碳（Dissolved Inorganic Carbon,DIC）是碳酸氢盐（ $\\mathrm { H C O } _ { 3 } ^ { - }$ 、碳酸( $\\mathrm { ~ \\cal ~ H } _ { 2 } \\mathrm { C O } _ { 3 }$ ）、碳酸盐( $\\mathrm { C O } _ { 3 } ^ { 2 - }$ ）、溶解二氧化碳( $\\mathrm { C O } _ { 2 } \\mathrm { a q } \\mathrm { \\dot { \\Omega } }$ )的总和。无机碳中各组分构成比例随温度和$\\mathrm { \\ p H }$ 值变化而变化,温度与 $\\mathrm { \\ p H }$ 同时还影响大气中 $\\mathrm { C O } _ { 2 }$ 与水体 $\\mathrm { C O } _ { 2 } \\mathrm { a q }$ 的平衡。无机碳可以通过亨利定律来计算[35-36]：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { C O } _ { 2 } + \\mathrm { H } _ { 2 } \\mathrm { O } {  } \\mathrm { H } _ { 2 } \\mathrm { C O } _ { 3 } { } ^ { \\ast } {  } \\mathrm { H } ^ { + } + \\mathrm { H C O } _ { 3 } ^ { - } {  } 2 \\mathrm { H } ^ { + } + \\mathrm { C O } _ { 3 } ^ { 2 - }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK _ { \\scriptscriptstyle 0 } = [ \\mathrm { H } _ { \\scriptscriptstyle 2 } \\mathrm { C O } _ { \\scriptscriptstyle 3 } { } ^ { \\mathrm { * } } ] / [ \\mathrm { p C O } _ { \\scriptscriptstyle 2 } ]\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK _ { 1 } = \\left[ \\mathrm { H } ^ { + } \\right] \\left[ \\mathrm { H C O } _ { 3 } ^ { - } \\right] / \\left[ \\mathrm { H } _ { 2 } \\mathrm { C O } _ { 3 } \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK _ { 2 } = \\left[ \\mathrm { H } ^ { + } \\right] \\left[ \\mathrm { C O } _ { 3 } ^ { 2 - } \\right] / \\left[ \\mathrm { H C O } _ { 3 } ^ { - } \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中 $\\mathrm { H } _ { 2 } \\mathrm { C O } _ { 3 } \\mathrm { ~ } ^ { \\ast }$ 是 $\\mathrm { H } _ { 2 } \\mathrm { C O } _ { 3 }$ 与 $\\mathrm { C O } _ { 2 } \\mathrm { a q }$ 的总和， $K$ 为给定温度的亨利常数。因此,河流水体无机碳用以下公式进行计算[37]： ！：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { p K _ { 0 } = - \\ 7 \\times 1 0 ^ { - 5 } T ^ { 2 } \\ + \\ 0 . 0 1 6 T + 1 . 1 1 } \\\\ & { p K _ { 1 } = 1 . 1 \\times 1 0 ^ { - 4 } T ^ { 2 } \\ - \\ 0 . 0 1 2 T + 6 . 5 8 } \\\\ & { p K _ { 2 } = 9 \\times 1 0 ^ { - 5 } T ^ { 2 } \\ - \\ 0 . 0 1 3 7 T + 1 0 . 6 2 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "河流水体的 $p { \\bf C } { \\bf O } _ { 2 }$ 计算可以简单的表示为下式：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\np \\mathrm { C O } _ { 2 } = \\left[ \\mathrm { H } _ { 2 } \\mathrm { C O } _ { 3 } ^ { \\ast } \\right] / K _ { 0 } = \\left[ \\mathrm { H } ^ { + } \\right] \\left[ \\mathrm { H C O } _ { 3 } ^ { - } \\right] / K _ { 0 } K _ { 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "目前研究认为 $\\mathrm { H C O } _ { 3 } ^ { - }$ 代表了 $9 9 \\%$ 的碱度，所以可以直接用做碱度进行计算[38]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 相关环境因子",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "与研究断面水体 $F \\mathrm { C O } _ { 2 }$ 相关的环境因子如表1所示。水温的季节性变化明显,在0— $2 5 \\mathrm { { ^ circ C } }$ 范围内。 $\\mathrm { \\ p H }$ 的变化范围为8.01—8.45，水体偏碱性。监测期间风速大部分为 $1 { - } 2 ~ \\mathrm { m / s }$ ,仅在2014年12月风速最高达到6.3$\\mathrm { m / s }$ 。研究断面的水体DOC浓度在2 $\\cdot 7 { \\mathrm { - } } 1 3 \\ { \\mathrm { m g / L } } ,$ 其来源可能有多种，分为内源和外源。内源主要是指水生植物通过光合作用吸收无机碳产生有机碳,但是研究断面的水生植物较少[39],而且夏季流速较快、泥沙含量较高和透光性较弱的特征限制了水生植物生长[40]。因此,研究断面的 DOC 主要来自于外源输人,包括土壤有机质的降解产物、人类生产和生活的排放物,特别是工农业生产,均是水体 DOC不可忽略的来源。断面水体 $p { \\bf C O } _ { 2 }$ 介于 $4 6 7 { - } 2 1 0 1 ~ \\mu \\mathrm { a t m }$ ,季节性变化显著,丰水期的 $p { \\bf C } { \\bf O } _ { 2 }$ 普遍大于枯水期,最大值 $2 1 0 1 ~ \\mu \\mathrm { a t m }$ 出现在2013年7月，同时 $F \\mathrm { C O } _ { 2 }$ 也达到最大 $5 1 0 \\ \\mathrm { m m o l \\ m } ^ { - 2 } \\ \\mathrm { d } ^ { - 1 }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a2fe53ddfda0fb5a483c667d1bb04381fd6404857e48cfded31ee760faaa5e33.jpg",
+        "table_caption": [
+            "表1研究断面 $F \\mathbf { C O } _ { 2 }$ 及其相关影响因素数据表",
+            "Table1 Data list of $F \\mathbf { C O } _ { 2 }$ and relative influencing factors at the river cross-section "
+        ],
+        "table_footnote": [
+            "一表示未测得数据",
+            "http ://www.ecologica.cn "
+        ],
+        "table_body": "<html><body><table><tr><td>日期Date</td><td>Tabltr 水温/ Water</td><td>pH</td><td>风速 Wind velocity/</td><td>碱度 Alkalinity/</td><td>DatanstorFCO2 andTelativt HuenengTactorsat tntTver tross-seeton 溶解有机碳 Dissolved</td><td>流速 Current</td><td>pCO2 Partial pressure</td><td>FCO2 Carbon dioxide</td></tr><tr><td></td><td>temperature</td><td></td><td>(m/s)</td><td>(μmol/L)</td><td>organic carbon/ (mg/L)</td><td>velocity/ (m/s)</td><td>of carbon dioxide/(μatm)</td><td>evasion/ (mmolm-²d-1)</td></tr><tr><td>2013-07 2013-12</td><td>25</td><td>8.01</td><td>1.3</td><td>3266 3553</td><td>1</td><td>1.3 0.5</td><td>2101</td><td>510</td></tr><tr><td>2014-04</td><td>5</td><td>8.42 8.33</td><td>1.1 2.1</td><td>3517</td><td>1 5.4</td><td>0.8</td><td>695 898</td><td>99</td></tr><tr><td>2014-06</td><td>11 23</td><td>8.37</td><td>2.2</td><td>3308</td><td>7.5</td><td>0.5</td><td>946</td><td>152 401</td></tr><tr><td>2014-09</td><td>17</td><td>8.21</td><td>1.2</td><td>3320</td><td>6.0</td><td>1.5</td><td>1101</td><td>504</td></tr><tr><td>2014-12</td><td>0</td><td>8.32</td><td>6.3</td><td>4590</td><td>7.7</td><td>0.5</td><td>1150</td><td>59</td></tr><tr><td>2015-04</td><td>16</td><td>8.21</td><td>0.9</td><td>1903</td><td>7.1</td><td>0.8</td><td>644</td><td>145</td></tr><tr><td>2015-06</td><td>25</td><td>1</td><td>1</td><td>1</td><td>13.0</td><td>0.5</td><td>1</td><td>1</td></tr><tr><td>2015-09</td><td>16</td><td>8.30</td><td>1.8</td><td>3300</td><td>5.5</td><td>1.2</td><td>957</td><td>150</td></tr><tr><td>2015-12</td><td>0</td><td>8.45</td><td>0.1</td><td>2673</td><td>2.7</td><td>0.2</td><td>467</td><td>39</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 $F { \\mathrm { C O } _ { 2 } }$ 的年际和年内季节变化",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将每次采样时 S1—S4 点的 $F \\mathrm { C O } _ { 2 }$ 取算术平均,得到研究断面平均 $F \\mathrm { C O } _ { 2 }$ 随时间变化过程,如图4所示。头道拐断面 $F \\mathrm { C O } _ { 2 }$ 的年际变化总体趋同（图4），在2013一2015 年期间,冬季 $F \\mathrm { C O } _ { 2 }$ 均为各年最低;春季 $F \\mathrm { C O } _ { 2 }$ 在2014 和2015 年基本一致;2013 和2014 年的夏季 $F \\mathrm { C O } _ { 2 }$ 均处于较高水平。2015 年夏季 $F { \\mathrm { C O } _ { 2 } }$ 缺测是因为河道在 S1 和 S2 点干涸。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "研究断面的 $F \\mathrm { C O } _ { 2 }$ 呈现出明显的年内季节性变化特征（图4)。夏季 $F \\mathrm { C O } _ { 2 }$ 为全年最高 456 mmol $\\mathbf { m } ^ { - 2 } { \\mathbf { \\Delta } } \\mathbf { d } ^ { - \\dagger }$ ，如果遇到枯水年份,河道水量较低， $F { \\mathrm { C O } _ { 2 } }$ 也可能很低,比如研究断面在2015年6月的河道流量极低。秋季次之为 $2 5 1 \\ \\mathrm { m m o l \\ m } ^ { - 2 } \\ \\mathrm { d } ^ { - 1 }$ ,春季为 $1 4 8 \\ \\mathrm { m m o l \\ m } ^ { - 2 } \\ \\mathrm { d } ^ { - 1 }$ ,而冬季为全年最低 $3 3 \\mathrm { \\ m m o l \\ m } ^ { - 2 } \\mathrm { \\ d } ^ { - 1 }$ 。一般认为冬季时， $\\mathrm { C O } _ { 2 }$ 会被冰层封于水体内,因此水体可能储存了大量 $\\mathrm { C O } _ { 2 }$ ,但是该结果表明冬季冰层以下河流 $F \\mathrm { C O } _ { 2 }$ 较低。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/56992af1e2021862aa5ad4d46629ebb6f2ddf13ae83578f043e31ff53bfbc1da.jpg",
+        "img_caption": [
+            "图4研究断面的二氧化碳逸出通量 $( F C O _ { 2 }$ )年际和年内季节变化过程"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 $F \\mathrm { C O } _ { 2 }$ 在研究断面的变化",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将各采样点的 $F { \\mathrm { C O } _ { 2 } }$ 在研究时段（2013年7月—2015年12月)内取算数平均值，得到 $F \\mathrm { C O } _ { 2 }$ 在头道拐断面上的空间分布（图5）。结果表明研究断面的 $F \\mathrm { C O } _ { 2 }$ 呈现出明显的空间差异性：靠近右岸的S4点处的 $F \\mathrm { C O } _ { 2 }$ 为断面最大 $3 9 2 \\ \\mathrm { m m o l } \\ \\mathrm { m } ^ { - 2 } \\ \\mathrm { d } ^ { - 1 }$ ;左岸 S1点处的最小为 86mmol $\\mathbf { m } ^ { - 2 } \\mathbf { d } ^ { - 1 } { \\boldsymbol { \\cdot } }$ ；位于河道中部 S2 和 S3 点处的 $F { \\mathrm { C O } _ { 2 } }$ 基本相同，分别为236mmol $\\mathbf { m } ^ { - 2 } \\mathbf { \\Lambda } \\mathrm { d } ^ { - 1 }$ 和 $2 3 7 \\mathrm { \\ m m o l \\ m } ^ { - 2 } \\mathrm { \\ d } ^ { - 1 }$ ，介于 $\\dot { \\mathrm { S 1 } }$ 和 $\\mathrm { \\Delta S 4 }$ 之间。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综合研究断面的 $F \\mathrm { C O } _ { 2 }$ ,通过时间换算得到头道拐年均 $F \\mathrm { C O } _ { 2 }$ 为 $8 4 \\mathrm { ~ m o l ~ m } ^ { - 2 } \\mathrm { ~ a ~ } ^ { - 1 }$ 。该结果与其他河流的结果一致,表明河流是 $\\mathrm { C O } _ { 2 }$ 的源,不断向大气释放 $\\mathrm { C O } _ { 2 }$ 。相比于世界其他较大河流的 $F \\mathrm { C O } _ { 2 }$ ：如湄公河下游的",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e5c5845c93f5c6ac9c4c17eef0067bee5f5cf5ea2cc1a0584dc9da3fd2f61b39.jpg",
+        "img_caption": [
+            "Fig.4The annual and seasonal variations of carbon dioxide efflux $\\mathbf { \\nabla } [ F \\mathbf { C } \\mathbf { O } _ { 2 }$ ）at the river cross-section ",
+            "图5研究断面4个采样点的二氧化碳逸出通量( $F \\mathrm { C O } _ { 2 }$ ）Fig.5Carbon dioxide efflux( $F \\mathrm { C O } _ { 2 }$ ）at 4 sampling points at theriver cross-section"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$1 0 7 . 5 ~ \\mathrm { m o l ~ m } ^ { - 2 } \\mathrm { a } ^ { - 1 }$ 、密西西比河的 $9 8 . 5 ~ \\mathrm { m o l ~ m } ^ { - 2 } \\mathrm { ~ a ~ } ^ { - 1 }$ 、亚马逊河的 $6 9 \\mathrm { \\ m o l \\ m } ^ { - 2 } \\mathrm { \\ a } ^ { - 1 }$ 、哈德逊河的 $1 3 . 5 ~ \\mathrm { m o l ~ m } ^ { - 2 } \\mathrm { ~ a } ^ { - 1 }$ 以及长江河口的 $1 5 . 5 { - } 3 4 . 2 ~ \\mathrm { m o l ~ m } ^ { - 2 } ~ \\mathrm { a } ^ { - 1 }$ ,该断面 $F \\mathrm { C O } _ { 2 }$ 处于较高水平。对黄河而言,位于上游的头道拐断面 $F \\mathrm { C O } _ { 2 }$ 小于中游的 $1 2 5 . 6 ~ \\mathrm { m o l ~ m } ^ { - 2 } \\mathrm { ~ a } ^ { - 1 ~ [ 5 ] }$ 0",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "研究结果表明黄河头道拐断面是一个碳源，而 $\\mathrm { C O } _ { 2 }$ 逸出强度受诸多因素影响。从公式(1)可知，大气的$\\phantom { + } p \\mathrm { C O } _ { 2 }$ 较稳定，所以水体 $p { \\bf C } { \\bf O } _ { 2 }$ 和气体交换系数 $k$ 是控制 $F \\mathrm { C O } _ { 2 }$ 的两个关键因素。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1 （204 $p \\mathrm { C O } _ { 2 }$ ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据温度、碱度和 $\\mathrm { \\ p H }$ 计算得到的头道拐断面水体 $p \\mathrm { C O } _ { 2 }$ 普遍高于大气中的 $4 0 0 ~ \\mu \\mathrm { a t m }$ ：夏季 $p { \\bf C } { \\bf O } _ { 2 }$ 为全年最大平均 $1 5 2 4 ~ \\mu \\mathrm { a t m }$ 、秋季次之平均为 $1 0 2 9 { \\mu \\mathrm { a t m } }$ 、冬季和春季基本相同约为 $7 7 0 ~ \\mu \\mathrm { a t m }$ ,同样表明黄河头道拐断面是一个碳源，该结论与黄河其他站点的 $\\phantom { + } p \\mathrm { C O } _ { 2 }$ 研究结果相一致[1-2]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "黄河水体表层 $\\boldsymbol { p } \\mathrm { C O } _ { 2 }$ 与 $F \\mathrm { C O } _ { 2 }$ 的季节变化基本一致。夏季 $F \\mathrm { C O } _ { 2 }$ 为全年最高,表层水体 $p { \\bf C } { \\bf O } _ { 2 }$ 平均值为1524$\\mu \\mathrm { a t m }$ $\\Delta p \\mathrm { C O } _ { 2 }$ 达到 $1 1 2 4 ~ \\mu \\mathrm { a t m }$ ,促使水体中的 $\\mathrm { C O } _ { 2 }$ 向大气释放,而冬季 $F \\mathrm { C O } _ { 2 }$ 为全年最低,测得水体 $p { \\bf C } { \\bf O } _ { 2 }$ 在2015年12月最小仅为 $4 6 7 \\ \\mu \\mathrm { a t m }$ (表1)， $\\Delta p \\mathrm { C O } _ { 2 }$ 较小导致$F \\mathrm { C O } _ { 2 }$ 较小。与 $F \\mathrm { C O } _ { 2 }$ 结果不同的是， $p \\mathrm { C O } _ { 2 }$ 在冬季和春季非常相近。该断面的 $F \\mathrm { C O } _ { 2 }$ 和 $\\boldsymbol { p } \\mathrm { C O } _ { 2 }$ 总体呈中等相关水平 $R ^ { 2 } = 0 . 2 4 , P { < } 0 . 0 1 \\rangle$ ，如图6所示。分析原因，可能是因为 $F \\mathrm { C O } _ { 2 }$ 除了与 $p { \\bf C } { \\bf O } _ { 2 }$ 有关,还与气体交换系数 $k$ 有关。例如,位于 S3 点的 2014 年秋季 $F \\mathrm { C O } _ { 2 }$ 高达448mmol $\\mathbf { m } ^ { - 2 } \\mathbf { d } ^ { - 1 }$ ,但是相应的 $\\ l _ { p } \\mathrm { C O } _ { 2 }$ 仅为 $1 1 8 1 ~ \\mu \\mathrm { a t m }$ ,而其河道流速却高达 $1 . 8 4 ~ \\mathrm { m / s }$ ○",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e757884fef2beeeb8c71fa56a26f401171c28ca5d5313bfb021aec866f03dd00.jpg",
+        "img_caption": [
+            "图6研究断面水体二氧化碳逸出通量( $F \\mathrm { C O } _ { 2 }$ )与二氧化碳分压$\\mathbf { \\sigma } _ { p \\mathbf { C } 0 _ { 2 } }$ )线性拟合结果Fig.6 The result of carbon dioxide efflux（ $F \\mathrm { C O } _ { 2 }$ ）vspartial）witha linear fitting"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "研究表明水体 $p { \\bf C } { \\bf O } _ { 2 }$ 主要由水温 $\\mathrm { \\nabla \\cdot \\ p H }$ 、碱度和 $\\mathrm { C O } _ { 2 }$ 浓 农pressure 0l carvun uIuxiue （pUU2） WI度决定[43]。 $\\mathrm { C O } _ { 2 }$ 浓度和碱度主要受光合作用、呼吸作用和钙化作用等生物过程控制[17]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1.1 水温 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "采样期间测得断面水温为0一 $2 5 \\%$ ,将水温和 $p { \\bf C } { \\bf O } _ { 2 }$ 进行线性拟合,表明河水温度与 $p { \\bf C } { \\bf O } _ { 2 }$ 呈较好的正相关关系,如图7所示。夏季水温较高,提高了水体中微生物的活性,并降低了 $\\mathrm { C O } _ { 2 }$ 溶解度,因此 $F \\mathrm { C O } _ { 2 }$ 相应增加,冬季则反之[25.26,29]。Alin等[4]在研究亚马逊河时同样发现水温高会促进水-气界面的气体交换速率,并增加$\\mathrm { C O } _ { 2 }$ 逸出强度。桂祖胜[45]在研究长江水-气界面 $\\mathrm { C O } _ { 2 }$ 逸出季节变化时发现夏季 $F \\mathrm { C O } _ { 2 }$ 为全年最高、秋季次之，与本研究结果不同的是其冬季 $F { \\mathrm { C O } _ { 2 } }$ 高于春季，该差异可能是因为长江冬季无结冰现象。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1.2 pH ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由水体中二氧化碳-碳酸盐体系的平衡过程可知（公式3）[46]， $\\mathrm { \\ p H }$ 升高会促使平衡向右移动,更多的 $\\mathrm { C O } _ { 2 }$ （204号生成碳酸盐溶解在水中,导致水体 $\\phantom { + } p \\mathrm { C O } _ { 2 }$ 降低,水-气界面 $\\Delta p \\mathrm { C O } _ { 2 }$ 减小，所以 $F \\mathrm { C O } _ { 2 }$ 减少。将采样点的 $\\mathrm { \\ p H }$ 和$p \\mathrm { C O } _ { 2 }$ 进行线性拟合，得到 $p \\mathrm { C O } _ { 2 }$ 与 $\\mathrm { \\ p H }$ 呈负相关性,如图7所示。研究表明当水体 $\\mathrm { p H } { > } 8 . 3$ 时,河流相当于碳汇,而当 $\\mathrm { p H } { < } 8 . 3$ 时,河流相当于碳源[9]。本研究断面超过一半水样的 $\\mathrm { \\ p H }$ 小于8.3,同样说明该断面水体是$\\mathrm { C O } _ { 2 }$ 的源。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$^ { 4 . 1 . 3 }$ DIC 和DOC",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "黄河水体中DIC 主要由 $\\mathrm { H C O } _ { 3 } ^ { - }$ 构成， $\\mathrm { H C O } _ { 3 } ^ { - }$ 又代表了 $9 9 \\%$ 的碱度[47]。黄河流域的黄土和灰钙土分布较广泛,化学风化导致水体碱度较高[25],研究断面的水体碱度最高可达 $4 5 9 0 ~ \\mathrm { m g / L }$ （表1)。碱度直接影响水体$\\boldsymbol { p } \\mathrm { C O } _ { 2 }$ ,但是图7中的碱度和 $\\boldsymbol { p } \\mathrm { C O } _ { 2 }$ 相关性并不好，这点与前面 $F \\mathrm { C O } _ { 2 }$ 和 $\\boldsymbol { p } \\mathrm { C O } _ { 2 }$ 呈中等相关的结果相符合。DOC 和$\\boldsymbol { p } \\mathrm { C O } _ { 2 }$ 呈现出较好的正相关关系( $\\stackrel { \\prime } { R } ^ { 2 } = 0 . 5 0 , P { < } 0 . 0 0 1 \\rangle$ ）,与相关研究结果符合,即 DOC 的分解是控制水体 $p \\mathrm { C O } _ { 2 }$ 的重要因素[42-43]。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/def5b9793f807dec35faa6604693c1c44126826a0b2514c66d7b102e9af55468.jpg",
+        "img_caption": [
+            "图7研究断面水温、pH、溶解无机碳、溶解有机碳与二氧化碳分压的拟合结果",
+            "Fig.7Thfitingrsultsofatertmperaure，pHdisolediorganiccarbon，disovedorganicarbonspartialpresueofcarbon dioxide at the river cross-section "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2气体交换系数 $k$ ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "研究表明气体交换系数 $k$ 对 $F \\mathrm { C O } _ { 2 }$ 的影响甚至大于水体 $\\boldsymbol { p } \\mathrm { C O } _ { 2 }$ ， $k$ 值的大小主要由流速、风速控制,同时还受到水深、河宽和河床坡度等多种环境因子的影响[48]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2.1 流速 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "头道拐断面的流速变化范围为0.2— $\\cdot 1 . 5 \\ \\mathrm { m / s }$ ,S4 点处的平均流速是断面最大 $1 . 0 4 ~ \\mathrm { m / s }$ ,S3点为 $0 . 9 9 ~ \\mathrm { m / s }$ ，S2点为 $0 . 8 1 ~ \\mathrm { m / s }$ ,S1点处最小仅为 $0 . 4 8 ~ \\mathrm { m / s }$ 。S4 点流速较大因为该点位于河道的中泓线,水深也最大。断面4个采样点处的平均流速大小分布规律与 $F \\mathrm { C O } _ { 2 }$ 相似。将采样点的流速和 $F { \\mathrm { C O } _ { 2 } }$ 进行线性拟合，二者呈现较好的正相关关系， $\\textstyle \\mathcal { R } ^ { 2 }$ 可达0.7，如图8所示。本研究结果说明头道拐断面河道流速是 $F \\mathrm { C O } _ { 2 }$ 的关键影响因素，大于 $p { \\bf C } { \\bf O } _ { 2 }$ 对河道 $F \\mathrm { C O } _ { 2 }$ 的贡献( $R ^ { 2 } = 0 . 2 4 { \\mathrm { \\Omega } } ,$ )。这主要是因为流速较大有助于增大河流表面的湍流度和破碎度,使水体与空气的接触面积变大,从而加速了两者间气体的交换[49-50]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "夏季 $F \\dot { \\mathrm { C O } _ { 2 } }$ 普遍较高,降雨集中和流量较大是主要影响因素之一[38],实测流量最高可达 $1 0 1 0 ~ \\mathrm { m } ^ { 3 } / \\mathrm { s }$ (2014年8月21日）。冬季 $F { \\mathrm { C O } _ { 2 } }$ 为全年最小，与冰层以下较低的河水流速， $( 0 . 1 3 ~ \\mathrm { m } / \\mathrm { s } - 0 . 3 ~ \\mathrm { m } / \\mathrm { s } )$ )有关，较小的水体扰动减缓了 $\\mathrm { C O } _ { 2 }$ 释放[50-51]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2.2 风速 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "已有研究表明风速是影响气体交换速率常数的主导因素，对气体交换起着决定性作用。风会加快气体的交换速率,带走河流水-气界面处的 $\\mathrm { C O } _ { 2 }$ ,从而增大河流水体与大气之间的 $\\Delta p \\mathrm { C O } _ { 2 }$ ,促使水体中的 $\\mathrm { C O } _ { 2 }$ 逸出。张龙军等[52]在研究黄河碳通量影响因素时发现,风速是影响 $F { \\mathrm { C O } _ { 2 } }$ 的一个重要因素,且两者表现出明显的正相关性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究将每个采样点的风速和 $F \\mathrm { C O } _ { 2 }$ 进行线性拟合，表明 $F \\mathrm { C O } _ { 2 }$ 与风速并没有呈现明显的相关性,如图8所示。可能是因为采样期间没有遇到大风天气,大部分风速低于 $3 . 5 ~ \\mathrm { m / s }$ 。吕东珂[53]在研究水库 $F \\mathrm { C O } _ { 2 }$ 时发现当风速小于 $3 . 5 ~ \\mathrm { m / s }$ 时,对 $F { \\mathrm { C O } _ { 2 } }$ 的影响较小,而当风速大于 $3 . 5 ~ \\mathrm { m / s }$ 时， $F \\mathrm { C O } _ { 2 }$ 与风速就表现出明显的相关性。Raymond 等[54在哈德逊河的研究也发现 $F { \\mathrm { C O } _ { 2 } }$ 未明显受到风速的影响,同样可能是因为监测时风速较小,即使出现风速较大的情况,持续时间也并不长。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/2ae954de2949491a665a6a0e4b57d55b8587a89dad5d40cc3860b117a062f465.jpg",
+        "img_caption": [
+            "图8研究断面流速和风速与二氧化碳逸出通量的线性拟合结果",
+            "Fig.8Theresults ofcurrent velocityand wind speed vscarbon dioxide eflux with linear fiting atthe study river section "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究在2013—2015 期间,利用Li-7000 静态箱法对黄河头道拐断面进行了 $F \\mathrm { C O } _ { 2 }$ 野外监测试验,分析了$F \\mathrm { C O } _ { 2 }$ 在年际、年内和断面上的变化规律,并探讨了水体 $\\mathbf { \\Lambda } _ { p } \\mathbf { C } \\mathbf { O } _ { 2 }$ 和气体交换系数 $k$ 对 $F { \\mathrm { C O } _ { 2 } }$ 的影响。结果表明河流水体 $\\ l _ { p } \\mathrm { C O } _ { 2 }$ 高于大气,断面平均 $\\boldsymbol { p } \\mathrm { C O } _ { 2 }$ 为 $9 9 5 ~ \\mu \\mathrm { a t m }$ ,且表现出明显的季节性变化,夏季平均 $p { \\bf C } { \\bf O } _ { 2 }$ 最大1524$\\mu \\mathrm { a t m }$ ,秋季次之 $1 0 2 9 ~ \\mu \\mathrm { a t m }$ ,冬季与春季基本相同,约为 $7 7 0 ~ \\mu \\mathrm { a t m }$ 。另外,DOC 的分解是控制水体 $\\phantom { + } p \\mathrm { C O } _ { 2 }$ 的重要因素，而研究断面的DOC主要来自于外源。研究断面平均 $F { \\mathrm { C O } _ { 2 } }$ 为 $8 4 ~ \\mathrm { m m o l ~ m } ^ { - 2 } \\mathrm { ~ a } ^ { - 1 }$ ,呈现出与 $\\phantom { + } p \\mathrm { C O } _ { 2 }$ 相似的年际变化规律和明显的季节性差异：夏季最高为 $4 5 6 \\ \\mathrm { m m o l \\ m } ^ { - 2 } \\ \\mathrm { d } ^ { - 1 }$ ,与夏季温度高、流量大有关,秋季次之251mmol $\\mathbf { m } ^ { - 2 } \\mathbf { d } ^ { - 1 }$ ,春季 $1 4 8 \\mathrm { \\ m m o l \\ m } ^ { - 2 } \\mathrm { \\ d } ^ { - 1 } .$ ,冬季最低为 $3 3 \\mathrm { \\ m m o l \\ m } ^ { - 2 } \\mathrm { \\ d } ^ { - 1 }$ ,可能是因为冬季温度低、微生物活性较低,导致冬季冰层以下河流 $F \\mathrm { C O } _ { 2 }$ 较低。研究断面 $F { \\mathrm { C O } _ { 2 } }$ 表现出较强的空间差异性;靠近右岸 S4点的 $F \\mathrm { C O } _ { 2 }$ 为断面最大 $3 9 2 { \\mathrm { ~ m m o l ~ m } } ^ { - 2 } { \\mathrm { ~ d } } ^ { - 1 }$ ,河段中部 S2 点和 S3 点的 $F \\mathrm { C O } _ { 2 }$ 基本相同约为 $2 3 7 \\mathrm { \\ m m o l \\ m } ^ { - 2 } \\mathrm { \\ d } ^ { - 1 }$ ,靠左岸 S1点的 $F \\mathrm { C O } _ { 2 }$ （202最小 $8 6 ~ \\mathrm { m m o l ~ m } ^ { - 2 } ~ \\mathrm { d } ^ { - 1 }$ 。该结果表明即使在同一断面 $F \\mathrm { C O } _ { 2 }$ 也可能存在较大差异,研究河段流速最大处的 $F \\mathrm { C O } _ { 2 }$ 也最大,随机采样可能低估或高估水体 $\\mathrm { C O } _ { 2 }$ 的逸出量,因此在河道取样监测时需要选取具有代表性的采样点，特别是在较大的河流中。研究断面的 $F \\mathrm { C O } _ { 2 }$ 与流速和温度呈较好的正相关关系，与 $\\boldsymbol { p } \\mathrm { C O } _ { 2 }$ 的相关关系中等,与$\\mathrm { \\ p H }$ 呈负相关关系,与风速并没有呈现明显的相关性。结果说明河道流速较水体 $\\boldsymbol { p } \\mathrm { C O } _ { 2 }$ 对 $F \\mathrm { C O } _ { 2 }$ 的贡献更大。本研究为黄河中上游 $\\mathrm { C O } _ { 2 }$ 逸出量的评价提供了科学参考,但是仅一个断面不足以全面评价黄河的 $\\mathrm { C O } _ { 2 }$ 释放能力,需要在后续的试验中继续完善对黄河上中下游逸出 $\\mathrm { C O } _ { 2 }$ 的研究。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1］姚冠荣，高全洲.河流碳循环对全球变化的响应与反馈.地理科学进展，2005，24（5）：50-60.  \n［2］孙会国，汉景泰，张淑荣，吕喜玺.‘ $0 5 . 0 6 ^ { \\prime \\prime }$ 西江特大洪水对河流碳输出通量的影响.科学通报，2006，51（23）：2773-2779.  \n[3」高全洲，沈承德.河流碳通量与陆地侵蚀研究.地球科学进展，1998，13(4)：369-375.  \n[4]RanWagSJFaXLaagatTaoSatiodissostoeatifupstresesiRiver.Journal of Geographical Sciences，2010,20(2）：231-247.  \n［5］杨欢.黄河中游 $p \\mathrm { C O } _ { 2 }$ 的时空变化特征研究[D].呼和浩特：内蒙古大学，2015.  \n[6］田丽欣，吴莹，林晶，朱卓毅，张经.冬季海南省东北部河流及近岸海区有机碳的分布特征.热带海洋学报，2010,29（5）：136-141.  \n［7］王敏.长江主流碳的时空输运特征及三峡工程对其影响[D].青岛：中国海洋大学，2010.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[8]Li SY,Lu X X,Bush R T. $\\mathrm { C O } _ { 2 }$ partial pressure and $\\mathrm { C O } _ { 2 }$ emission in the lower Mekong river.Journal of Hydrology，2013,504：40-56.  \n[ 9]Li SY, Lu X X, He M, Zhou Y,LiL, Ziegler A D. Daily $\\mathrm { C O } _ { 2 }$ partial pressure and $\\mathrm { C O } _ { 2 }$ outgassing in the upper Yangtze River basin: acase studyof the Longchuan River,China.Journal of Hydrology，2012,466-467：141-150.  \n[10]RicheyJE，eckJdeK,stVHssLLOugssfredroiaatmospheric $\\mathrm { C O } _ { 2 }$ .Nature，2002,416(6881）:617-620.  \n[11]AbrilG,MartinezJM,ArtigasLF,Morera-TurcqP,BenedetiMF,VidalL,MezianeT,KimJH,BeardesMC,SavoeN,DebordeJSouzaEL，AlbericP，deSouza MFL，RolandF.AmazonrivercarbondioxideoutgassingfueledbywtlandsNature，2O14,05（7483）:395-398.  \n[12]Telmer K,Veizer J. Carbon fluxes, $p \\mathrm { C O } _ { 2 }$ andsubstrate weathering in alarge northern river basin，Canada:carbon isotope perspectives. ChemicalGeology,1999,159(1/4): 61-86.  \n[13]RanLS,LuXX,SunHG,HanJT,YuRH.CheicaldeudatointheeloRiveraditsgeoorphologicaliplicatosGeolog2014,231: 83-93.  \n[14] 于奭，杜文越，孙平安，黄婕，罗惠先，李幼玲，何师意.亚热带典型河流水化学特征、碳通量及影响因素. 文，2015，35(4)：33-41.  \n[15] 姚骁，李哲，郭劲松，林初学，陈永柏,李翀.水-气界面 $\\mathrm { C O } _ { 2 }$ 通量监测的静态箱法与薄边界层模型估算法比较.湖泊科学，2015,27（2)：289-296.  \n[16] 赵炎，曾源，吴炳方，陈永柏，王强，袁超.水库水气界面温室气体通量监测方法综述.水科学进展 ，2011,22(1): 135-146.  \n[17] 丁虎，刘丛强，郎赞超,李思亮,李晓东，汪福顺.河流水-气界面碳交换研究进展及趋势，上海大学学报：自然科学版，2015，21(3)：275-285.  \n[18]RanLS,uXXunHGHanJ,iR,ZgJSidesorailfacaborasptlaJournal of Hydrology，2013,498：76-88.  \n[19]Muller D,Warneke T,Rixen T,Muller M,Jamahari S,Denis N,Mujahid A,Notholt J. Lateral carbon fluxes and $\\mathrm { C O } _ { 2 }$ outgassing from a tropicalpeat-draining river.Biogeosciences Discussions，2015，12（13）：10389-10424.  \n[20]HotchissalloenD,lndedalasoJurcsofdeln（204号 $\\mathrm { C O } _ { 2 }$ emissions change with the size of streams and rivers.Nature Geos e，2015,8(9): 696-699.  \n[21]Peng X,Wang B L, Liu CQ, Liu X L, Wang F S. Diurnal variations of $\\overline { { p \\mathrm { C O } _ { 2 } } }$ in relation to environmental factors in thecascadereservoirs along theWujiang River,China. Chinese Journal of Geochemistry,2012,31(1): 41-47.  \n[22]Noriega C,Araujo M. Carbon dioxide emissions from estuarie f northern and northeastern Brazil. Scientific Reports，2014,4(4）：6164-6164.  \n[23］孙超.黄河调水调沙时期的碳输运特征及花园口站碳系统各分量的年变化[D].青岛：中国海洋大学，2007.  \n[24］王亮.黄河干流碳输运及人类活动对其影响[D].青岛：中国海洋大学，2014.  \n[25]Ran L S,Lu X X, Yang H, Li L L, Yu R H,Sun H G, Han JT. $\\mathrm { C O } _ { 2 }$ outgassing from the Yelow River networkandits implications forriverinecarbon cycle.Journal of Geophysical Research：Biogeosciences，2015，120(7）：1334-1347.  \n[26]WangZ,inZGDiFnJingBiacterstideddeyea.Pedosphere,2010,20(4): 466-478.  \n[27]RenME.SedimentdischargoftheeloRive，Chinapast，presentandfutureastesAtaOceaolgicaSinica154（2)8.  \n[28] 丁磊.黄河内蒙古段河道变迁和干流水量损失研究[D]．呼和浩特：内蒙古农业大学，2012.  \n[29] 张建云，王国庆，贺瑞敏，刘翠善.黄河中游水文变化趋势及其对气候变化的响应.水科学进展，2009,20（2)：153-158.  \n[30] 张永领，董玉龙，张东.在三门峡水库影响下黄河有机碳的输送特征.地理科学，2015，35（7)：912-918.  \n[31] 胡兴林，王静，蓝永超，李文治，赵昌瑞.黄河内蒙段河道冲淤量与水沙输移过程的关系分析.水文，2012，32（2)：44-48.  \n[32] RanLS.RecentRiverineCarbnoftheelowRiver:ues，OutgasingadBurialD.ingapre:NatioalUniversityofSingare01.  \n[33] BergeronO,MrgolisH,ck,oursollC,DuL,arrG,Wofsopriocbondioxidefuesoverrbalblackspruce forests in Canada.Global Change Biology，2007，13（1）：89-107.  \n[34]Frankignoule M. Field measurements of air-sea CO $^ 2$ exchange.Limnology and Oceanography，1988,33（3）: 313-322.  \n[35]Stumaaticsttuctsgaliitualwtes/aistemphasizing chemical equilibria in natural waters.1981:795-795.  \n[36]Plummer LN,Busenberg E.The solubilities of calcite,aragoniteand vaterite in $\\mathrm { C O } _ { 2 }$ -HO solutions between O and $9 0 ^ { \\circ } \\mathrm { C }$ ，and an evaluation of theaqueous model for the system CaCO $^ 3$ -C0 $^ 2$ H $^ { 1 } 2$ O.Geochimica et Cosmochimica Acta，1982，46(6）：1011-1040.  \n[37]Yao G R, Gao QZ, Wang ZG, Huang X K, He T, Zhang YL, Jiao S L, Ding J. Dynamics of $\\mathrm { C O } _ { 2 }$ ， partial pressure and $\\mathrm { C O } _ { 2 }$ outgassing in thelowerreachesofthXijiangRiver，ubroicalmosoniveriCina.SienceofteTotalEviroent，76(/3）：-66.  \n[38]Hunt CW,SalisburyJE,Vandemark D.Contributionof non-carbonateanions tototal alkalinityandoverestimationof $p \\mathrm { C O } _ { 2 }$ in new England andnew Brunswick rivers.Biogeosciences，2011，8（10）：3069-3076.  \n[39］袁永锋，李引娣，张林林，余斌，齐喜荣，韩明轩，张建军.黄河干流中上游水生生物资源调查研究.水生态学杂志,209,2（6)：15-19.  \n[40] 徐雪梅.秋季黄河主流碳的输运特征[D].青岛：中国海洋大学，2008.  \n[41] LiXL,JiaQY,LiuJMeasoalvariatiosinatandarbondoxidefuessevedoveredwetlandinorthastCina.AtospericEnvironment，2015，127：6-13.  \n［42］张龙军，徐雪梅，温志超.秋季黄河 $\\ l _ { p } \\mathrm { C O } _ { 2 }$ 控制因素及水-气界面通量.水科学进展，2009，20(2)：227-235.  \n[43］黄文敏，朱孔贤，赵玮，余博识，袁希功，冯瑞杰，毕永红，胡征宇.香溪河秋季水-气界面温室气体通量日变化观测及影响因素分析.环境科学，2013，34(4)：1270-1276.  \n[44]AlinSR,deFtiaFLRaseraM,onCichyJE,HlgieveGW,KuseAV,idogs.hsicacotrolsoabiidetransfervelocityandfluxinlow-gradientriversystemsandimplicationsforregionalcarbonbudgetsJouralofGeophysicalResearch  \n[45] 桂祖胜，长江干流，河口水1) $\\ l _ { p } \\mathrm { C O } _ { 2 }$ 的分布与影响因素的初步研究[D].青岛：中国海洋大学，2007. 2  \n[46] Larsen S，Andersen T, Hessen D O. The $p \\mathrm { C O } _ { 2 }$ in boreal lakes：organic carbon as a universal predictor?. Global Biogeochemical Cycles，2011,25(2):GB2012.  \n[47]RanL S,Lu X X,RicheyJE,Sun HG,HanJT,YuRH,Liao SY, YiQ.Long-term spatialandtemporal variationof $\\mathrm { C O } _ { 2 }$ partial pressure inthe Yellow River，China.Biogeosciences，2015，12(4）：921-932.  \n[48] Wallin MB,quistMG,BufmI,llttMF,NisellJ,ishoKH.Spatiotemporalvariabilityofthegstranserofnt（ $K C O _ { 2 }$ ）in borealstreams：implications for large scale estimates of $\\mathrm { C O } _ { 2 }$ evasion.Global Biogeochemical Cycles，2011，25(3）：GB3025.  \n[49]AlinSR,SalimonCI,RicheyJE,GordonIS,JefreyER,Gordon WH,AlexVK,AnodK.Physicalcontrolsoncarbondioxidetrasfervelocityadfuiadiesdpatifooalbdgesoulfoscalachg116(G1):G01009.  \n[50]ZappaCJdrEA,GillsVriatoifacebulecedegsrasfeveloioeialctidal estuary.Estuaries，2003,26(6)：1401-1415.  \n[51]Wang F S,Wang Y C,Zhang J, Xu H, Wei X G. Human impact on the historical change of $\\mathrm { C O } _ { 2 }$ degassing flux in River Changjiang. GeochemicalTransactions，2007，8：7.  \n[52］张龙军.东海海-气界面 $\\mathrm { C O } _ { 2 }$ 通量研究[D].青岛：中国海洋大学，2003.  \n［53］吕东珂.哈尔滨周边泥炭型水库水-气界面 $\\mathrm { C O } _ { 2 }$ 通量研究[D]．哈尔滨：东北林业大学，2013.  \n[54]Raymdracolebideotriosicfinsoers7,）9.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

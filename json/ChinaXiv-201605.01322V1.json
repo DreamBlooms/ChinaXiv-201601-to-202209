@@ -1,0 +1,540 @@
+[
+    {
+        "type": "text",
+        "text": "Research Paper ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Studies on Inhibition of Proliferation of Enterovirus-71 by Compound YZ-LY-0 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Qingzhan Yang1, Qing Jie2, Neil Shaw1,3, Lei $\\mathrm { L i } ^ { 5 }$ , Zihe Rao1.3.5, Zheng $\\Upsilon \\mathrm { i n } ^ { 4 , \\boxtimes }$ and Zhiyong Lou1.5, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1．School of Medicine,Tsinghua University, Beijing 10oo84, China   \n2.Tsinghua-Peking CenterforLifeSciences,SchoolofLifeSciences,Tsinghua University,Beijing 100084,China   \n3.NationalLaboratoryofMacromolecules,Instituteofiophysics,ChineseAcademyofScience,Beijing00,China   \n4. Collegefc&ateKbatotcstityalti Center of Chemical Science and Engineering (Tianjin), Tianjin 30o071,China   \n5StateKeybaoofotdtestnsitalUesitydlbioio therapy, Chengdu,610041, China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cores:si eml:zno@o;ncy&tateybotacstriUi 300071,China Tel: +86-22-23500963,Fax: +86-22-23507760,email: zhengyin@nankai.edu.cn. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\circledcirc$ 2 See http://ivyspring.com/terms for terms and conditions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received:2015.06.19;Accepted:2015.09.16;Published:2015.11.01 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In recent years, hand-foot-and-mouth disease (HFMD)，which is caused by Enteroviruses,has emerged as a serious ilness.It affects mainly children under the age of five and results in high fatality rates. Enterovirus 71 (EV71) is the main causative agent of HFMD in China and currently there are no effective anti-viral drugs available to treat HFMD.In the present study, we screened compounds for inhibition of proliferation of EV71. Compound YZ-LY-0 stalled the life cycle of EV7i.The inhibitor exhibited $\\mathsf { E C } _ { 5 0 }$ value of $0 . 2 9 ~ { \\mu \\mathrm { m } }$ against SK-EV006 strain of EV71. Notably, YZ-LY-0 had low cytotoxicity $( \\mathsf { C C } _ { 5 0 } > 1 0 0 \\mu \\mathsf { M } )$ and a high selectivity index (over 300) in Vero and RD cells. YZ-LY-0 in combination with an EV71 RdRp inhibitor or an entry inhibitor showed an antagonistic effect at very low concentrations. However,at higher concentrations the inhibitors exhibited a synergistic effect in inhibiting viral replication. Preliminary results on investigation of the mechanism of inhibition indicate that YZ-LY-0 does not block the entry of the virus in the host cell,but instead inhibits an early stage of EV7l replication. Our studies provide a potential clinical therapeutic option against EV7l infections and suggest that a combined application of YZ-LY-0 with other inhibitors could be more effective in the treatment of HFMD. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:EV71,inhibitor,mechanism ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Coxsackievirus (CV) and enterovirus 71 (EV71) are the main causative agents of Hand Foot and Mouth Disease (HFMD).Each year,more than a million people， a majority of them living in the Asia-Pacific region, fall sick with HFMD. Young children are more susceptible to HFMD because their immune systems are under developed [1,2,3]. Recently,adults have also succumbed to HFMD [4,5] Interestingly，infections caused by EV71 are more severe than those caused by CV. Symptoms like severeencephalitis,aseptic meningitis， pulmonary edema,acute flaccid paralysis,and myocarditis have been observed in patients infected with EV71, which can lead to death [6-8]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "EV71 and CV both belong to the Enterovirus genusof familyPicornaviridae[9].Their genomescontain a single-stranded positive-sense polyadenylated RNA of approximately 7400 nucleotides [10,11]. Translation of the single open-reading-frame is initiated by ribosomes at an internal ribosomal-entry site located in the $5 ^ { \\prime }$ untranslated region ( $5 ^ { \\prime }$ -UTR) of theviral genome. This produces a polyprotein of approximately $2 5 0 \\mathrm { k D a }$ [12-15]. The polyprotein is further processed into four structural proteins,VP1-VP4, that are used for the formation of the viral capsid，and seven structural proteins 2A-2C and 3A-3D,including two viral proteases,2A and 3C, together with a protease precursor 3CD [16, 17]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In contrast to CV,EV71 can infect the central nervous system as well as the pulmonary system and cause severe infection, including death [18].Vaccines are currently being developed to combat these viruses.Some of the vaccines have shown high efficacy and sustained immunogenicity in clinical trials[19]. There are currently no drugs in the clinic to treat the deadly symptoms caused by EV71 infections [20]. A large number of inhibitors targeting multiple processes of the EV71 lifecycle have been identified and are at preclinical research stage [21].For instance,an adenosine nucleoside analog NITDoo8 has been shown to inhibit RdRp activity in EV71 [22,23]. Similarly,rupintrivir (AG7088) inhibits the function of EV71 protease 3Cpro [7,17,24], and pleconaril, GPP-3 and cyclosporine A block virual entry into host cell [25-27]. The recently approved pediatric drug suramin identified as a clinical candidate for the treatment of EV71 infection inhibits EV71 infection in vitro and in vivo [28].However,there is still much to be done before manyofthereportedinhibitors can beadvanced as clinical therapeutics. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the present study,we screened a number of chemical compounds targeting the viral protease and identified a compound,YZ-LY-O, that can inhibit the proliferation of various strains of EV71 in human (RD and 293T) and monkey (Vero) cell lines.YZ-LY-0 is effective during the early stages of viral infection, and can efficiently inhibit viral RNA replication. The antiviral activity of YZ-LY-O is not cell type or strain dependent. Combination ofYZ-LY-0 withNITDo08 or GPP3 revealed an antagonistic effect of the compounds in inhibition of viral replication at low concentration,which became synergistic at higher concentrations. All these findings suggest that YZ-LY-0 can be potentially developed into an anti-viral drug for the treatment ofEV71 infections. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MaterialsandMethods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cell lines and Viruses ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Human rhabdomyosarcoma (RD) (China Center for Type Culture Collection,Accession No.TCHu45) cells, the human embryonic kidney 293T cell line and African green monkey kidney (Vero) (ATCC,accession No.CCL-81) cells were grown in Dulbecco's modified Eagle's medium (DMEM, GIBCO) supplemented with $10 \\%$ fetal bovine serum (FBS,GIBCO) at $3 7 ^ { \\circ } \\mathrm { C }$ in a $5 \\%$ （20 $\\mathrm { C O } _ { 2 }$ humidified incubator. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The initial phenotype screening was performed using EV71 strain SK-EV006(Accessioncode: ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AB469182.1) and EV71-GFP (contains a GFP reporter gene inserted into the genome of SK-EVoo6).A single round pseudo-type EV71 reporter virus system (EV-71(FY)-Luc pseudo-type virus system) containing plasmids of pcDNA6-FY-capsid and pEV71-Lucreplicon lacking the P1 region was kindly supplied by Prof.Wenhui Li from the National Institute of Biological Sciences，Beijing. The plasmids containing human EV71 strainAnHuil(Accession code: GQ994988.1) and BrCr (Accession code: U22521) were kindly provided by Prof. Bo Zhang and Prof.Hualin Wang from the Wuhan Institute of Virology. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Inhibitors and reagents ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The chemical compounds were synthesized and purified by distillation. Stock solutions $( 1 0 ~ \\mathrm { m M } )$ were prepared in distilled water with a final concentration of $0 . 1 \\ \\%$ dimethyl sulfoxide (DMSO).Before use, we diluted the stock solutions with $10 \\%$ FBS/DMEM to various concentrations. The TRIzol reagent and the Super Script III First-strand 1 Synthesis System for RT-PCR kit were obtained from Invitrogen. The QuantiTect SYBR Green RT-PCR kit was purchased from Qiagen.TheMEGA scriptT7High Yield Transcription kit was procured from Promega. The cell viability and proliferationassay reagent (WST-1) was purchased from Roche. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Preparation of EV7l pseudo-type virus ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The EV71 pseudo-type virus (EV-71(FY)-Luc) wasproduced as described previously [29]. The plasmid containing the pEV71-Luc sub-genomic replicon was first linearized by using Sal I restriction enzyme and then used as a template for RNA transcription. The EV71 replicon RNA transcripts were prepared in vitro using Promega MEGAscript Kits. The pcDNA6-FY-capsid plasmid was transfected into HEK-293T cellsat $6 0 \\mathrm { - } 8 0 \\quad \\%$ confluence. At 24h post-transfection， the EV71 sub-genomic replicon RNA was transfected with Lipofectamine 2ooo (Invitrogen). The EV71 pseudotype virus was collected 24 h post-RNA transfection with two freeze-thaw cycles. The stocks were serially diluted1O-fold and incubated with the RD cells for $2 4 \\mathrm { ~ h ~ }$ at $3 7 ~ ^ { \\circ } \\mathrm { C }$ and the EV71 pseudo-type virus was quantified.The cells were then collected and the luminescence was detected according to the manufacturer's protocol for the Bright-Glo Luciferase Assay System (Promega). For the inhibition assay, the EV71 pseudo-type virus stock solution was diluted to give $1 0 ^ { 6 }$ relative luminescence units (RLU) per well in a 96-well plate. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CPE inhibition assay ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Analysis of the reduction of virus titers in the supernatants was performed using the endpoint dilu tion assays (EPDA). RD cells $( 3 \\times 1 0 ^ { 5 }$ per well) were cultured in 24-well plateand incubated at $3 7 ^ { \\circ } \\mathrm { C }$ in $5 \\%$ ${ \\mathrm { C O } } _ { 2 }$ Then, the RD cells were treated with serially diluted compounds ranging from $0 . 0 3 9 \\mathrm { ~ - ~ } 1 0 ~ \\mu \\mathrm { M }$ in the presence of $10 \\%$ FBS and $0 . 5 \\ \\%$ DMSO. EV71 (Fuyang strain) at an MOI of1 was used to infect the cells two hours later. For each concentration of the compounds, the supernatants containing the virus were added to 10 new 96-well plates and diluted from $1 0 ^ { - 1 }$ to $1 0 ^ { - 8 }$ The CPE of each well were observed after $7 2 \\mathrm { { h } }$ pi. The $\\mathrm { T C I D } _ { 5 0 }$ was calculated using the Reed & Muench calculator. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Virus titration ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To measure the expression level of GFP in RD cells infected with EV71-GFP，the virus titers of EV71-GFPwere determined.Briefly,we seeded $3 { \\times } 1 0 ^ { 4 }$ RD cells per well in 96-well microtiter plates.After culturing the cells overnight, EV71-GFP was serially diluted 10-fold with DMEM containing $1 0 \\%$ FBS $( 1 0 ^ { - 1 }$ to $1 0 ^ { - 8 } \\cdot$ -fold dilutions) and added to the RD cells.The plates were then incubated at $3 7 ^ { \\circ } \\mathrm { C }$ in $5 \\%$ （204号 $\\mathrm { C O } _ { 2 }$ The GFP expression level was monitored usingan epi-fluorescence microscope after 3-4 days.For the living virus,virus titers were determined by endpoint dilution assays (EPDA). Firstly, $3 \\times 1 0 ^ { 4 }$ RD cells per well in 96-well micro-titer plates.After culture overnight,EV71 was seriallydiluted10-fold withDMEM containing $10 \\%$ FBS( $1 0 ^ { - 1 _ { - } }$ to $1 0 ^ { - 8 } \\cdot$ -fold dilutions) and added to the RD cells,followed by a 3-4 day cytopathic effect (CPE) assay.The virus titer,expressed as the TCID50,was determined using EPDA. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Phenotype screening ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RD cells were seeded at $3 ~ \\times ~ 1 0 ^ { 4 }$ per well in 96-well microtiter plates.After overnight culture at 37 $^ { \\circ } \\mathrm { C }$ in $5 \\%$ （204号 $\\mathrm { C O } _ { 2 } ,$ the RD cells were treated with compounds diluted to form a gradient with a range of 0.039 to $1 0 ~ \\mu \\mathrm { M }$ .At $^ { 2 \\mathrm { h } }$ pi, EV71-GFP virus at a multiplicity of infection (MOl) of1wasadded to infect RD cells. DAPI was used to visualize the nuclei, mark up the host cells,and EGFP was used to monitor the virus growth. $2 4 \\mathrm { h }$ pi, fluorescence microscopy was used to measure the GFP expression level.Determination of virus titer，the $5 0 \\%$ tissue culture infectious dose $\\mathrm { ( T C I D _ { 5 0 } ) }$ was performed using by EPDA. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RT-PCR quantification of EV71 RNA (qRT-PCR) ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The reduction in the viral genome content in the host cells after treatment with the compounds was determined using a qRT-PCR assay. Cells were seeded at $1 \\times 1 0 ^ { 5 } /$ well in 24-well tissue culture plates and were incubated with complete culture medium at $3 7 ^ { \\circ } \\mathrm { C }$ in $5 \\%$ （2 ${ \\mathrm { C O } } _ { 2 } ,$ The culture medium was then replaced with medium containing the EV71 virus at a MOI of 1 and the serially diluted compounds in the presence of $10 \\%$ FBS and $0 . 5 \\ \\%$ DMSO.After $2 4 \\mathrm { h } ,$ the total cellular RNA was extracted using the TRIZOL reagent according to the standard protocols. Quantitative RT-PCR assays (for primer sequences, GADPH forward primer $5 ^ { \\prime }$ -CCC ACT CCT CCA CCT TTG ACG ${ \\cdot } 3 ^ { \\prime }$ and reverse primer $5 ^ { \\prime }$ -CAC CAC CCT GTT GCT GTA GCCA $\\cdot 3 ^ { \\prime }$ ，EV71 5'UTR forward primer $5 ^ { \\prime } .$ -TGAATG CGG CTAATC CCAACT ${ \\cdot } 3 ^ { \\prime }$ and reverse primer $5 ^ { \\prime }$ -AAG AAA CAC GGA CAC CCA AAG-3') were performed using the QuantiTect SYBR Green RT-PCR kit (QIAGEN，Valencia，CA). EV71 and GAPDH transcript levels were determined using the △△CT method [30]. The percentage of inhibition was calculated as follows: $\\%$ inhibition $\\mathbf { \\tau } = \\mathbf { \\tau }$ (1-(average of compound-treatedcells)/(average ofcontrol cells)) $^ { * } 1 0 0$ .Each data point represents the average of threereplicates in cell culture. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cytotoxicity assay ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The cytotoxicity of the compound was detected using the WST-1 cell proliferation and cytotoxicity assay kit (Catalog NO:05015944001，Roche，USA). Vero $( 2 { \\times } 1 0 ^ { 4 }$ per well)，293T and RD cells $( 3 { \\times } 1 0 ^ { 4 }$ per well in $1 0 0 ~ \\mu 1 ~ 1 0 \\%$ FBS-DMEM medium) were cultured in 96-well plates at $3 7 ~ ^ { \\circ } \\mathrm { C }$ under $5 \\%$ $\\mathrm { C O } _ { 2 } ,$ followed by the addition of $5 0 ~ \\mu \\mathrm { l }$ of the compound solution with concentrations ranging from $0 . 3 9 \\mathrm { - } 1 0 0 ~ \\mu \\mathrm { M }$ The cells were incubated at $3 7 ^ { \\circ } \\mathrm { C }$ for ${ 2 4 \\mathrm { h } } ,$ and then 10 $\\mu \\mathrm { l }$ of the WST-1 reagent was added to each well. The signals were read at $4 9 0 \\mathrm { n m }$ with a microplate reader (Bio-Rad, USA).The percentage of viable cellsafter treatment with the various concentrations of compound was calculated as follows: $\\%$ inhibition $= 1 0 0 \\times \\$ $\\left( \\mathrm { O D } _ { 4 9 0 } \\right)$ treated sample / $\\left( \\mathrm { O D } _ { 4 9 0 } \\right)$ cell control sample. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Western blot analysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The cells were lysed in a buffer containing 50 mM Tris-HCl $\\left( \\mathrm { p H 8 . 0 } \\right)$ / $1 5 0 \\mathrm { m M N a C l } ,$ $1 \\%$ NP-40, 0.5 $\\%$ sodium deoxycholate, $0 . 1 \\ \\%$ SDS, $2 ~ \\mathrm { m M }$ EDTA,1 mM $\\mathrm { \\Delta N a V O _ { 4 } , }$ （204号 $1 0 ~ \\mathrm { m M }$ NaF,and protease inhibitors.A spectrophotometer was used to determine the expression level of the EV71 VP1 protein in the lysates. The proteins were separated using the sodium dodecyl sulfate polyacrylamide gel electrophoresis (SDS-PAGE) and transferred to NC membrane (Millipore). The NC membranes were blocked for $^ { 4 \\mathrm { h } }$ with $5 \\%$ non-fat dry milk solution in Tris-buffered saline and then blotted with specific primary antibodies,and followed by incubation with secondary antibodies conjugated with horseradish peroxidase.The proteins were visualized using the chemi-luminescence generated by Clarity Western ECL substrate (BIO-RAD). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Time-of-addition assay ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The time-of-addition effect was examined for YZ-LY-0, NITD008 and GPP3. RD cells ( $3 { \\times } 1 0 ^ { 4 }$ per well in $1 0 0 ~ \\mu 1 ~ 1 0 \\%$ FBS-DMEM medium) were cultured overnight in 96-well plates at $3 7 ~ ^ { \\circ } C$ under $5 \\%$ （204号 $\\mathrm { C O } _ { 2 }$ with saturated humidity.Then, the cells were treated with $2 \\mu \\mathrm { M }$ YZ-LY-0, $2 ~ \\mu \\mathrm { M }$ NITD008 and $1 \\ \\mathrm { p M }$ GPP-3 either concurrent with $1 0 0 \\mathrm { T C I D } _ { 5 0 }$ ofEV71(FY)-Luc (0 h)or at intervals of $\\not { Q } \\ : , \\ : - 4 , \\ : - 2 , \\ : 0 , \\ : 2 , \\ : 4 , \\ : 6 , \\ : 8$ and $^ { 1 0 \\mathrm { ~ h ~ } }$ post-infection (h pi). Another 96-well plate was treated with YZ-LY-0 $( 2 \\mu \\mathrm { M } )$ ，NITD008 $( 2 ~ \\mu \\mathrm { M } )$ and GPP3 $( 1 ~ \\mathrm { p M } )$ and infected with EV71 (FY)-Luc after 6 h.After incubation at $3 7 ^ { \\circ } \\mathrm { C }$ for $2 4 \\ \\mathrm { h } ,$ the antiviral activity was determined as the percent reduction of the luciferase activity compared with the control cultures ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Time-of-removal viruses study ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Approximately $3 { \\times } 1 0 ^ { 4 }$ RD cells were seeded into each well of two 24-well plates.At 24h post seeding cells were infected with EV71 (EV71-FY-Luc strain; MOI of 2.0) for $^ \\textrm { \\scriptsize 1 h }$ at $4 ~ ^ { \\circ } C$ 、Subsequently, the viral inocula were removed,and cells werewashed three times with coldPBS to removeunabsorbed viruses.At 0, 2,4, 6,8,10,12, 14, $^ { 1 6 \\mathrm { ~ h ~ } }$ p.i., $2 ~ \\mu \\mathrm { M }$ compound YZ-LY-O was added to the infected cells.As negative controls, $0 . 5 \\ \\%$ DMSO wasadded to the infected cells. At $2 4 \\mathrm { ~ h ~ }$ p.i.,culture fluids were collected,and viral titers were determined by a CPE assay.In another experiment,YZ-LY-0 at $2 . 0 \\mu \\mathrm { M }$ was added to RD cells at different time points before orafter EV71 infection $( - 6 , - 4 , 0 , 4 , 8$ and $^ { 1 0 \\mathrm { h } }$ p.i).RD cells were infected with EV71 (EV71-FY-Luc strain) at an MOI of 2 for $^ \\textrm { \\scriptsize 1 h }$ After three washes with PBS to removeunbound viruses,cells were incubated at $3 7 ^ { \\circ } \\mathrm { C }$ At $^ { 1 4 \\mathrm { ~ h ~ } }$ p.i, the relative total RNA of infected cells compared with the infected cells treated with $0 . 5 \\ \\%$ DMSO was determined with qRT-PCR. Data are presented as mean $\\pm$ SD of 3 independent experiments. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Comparison of viral inhibition in different types ofcells ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To find out whether inhibition of EV71 by YZ-LY-0 was cell specific, we measured $\\mathrm { E C } _ { 5 0 }$ of the inhibition in RD, 293T and Vero cells. RD $( 3 { \\times } 1 0 ^ { 4 }$ per well),293T $\\{ 3 { \\times } 1 0 ^ { 4 }$ perwell) andVero $2 { \\times } 1 0 ^ { 4 }$ per well) cellswere seeded in 96-well plates and cultured at $3 7 ^ { \\circ } \\mathrm { C }$ in $5 \\ \\% \\ C O _ { 2 }$ before the assay. The cells were treated with different compounds that had been diluted with range of $0 . 0 3 9 \\mathrm { - } 1 0 ~ \\mu \\mathrm { M }$ EV71 Fuyang virus at amultiplicity of infection (MOI) of1 was added to the 96-well plates. The RNA was detected by qRT-PCR, and the $\\mathrm { E C } _ { 5 0 }$ values for the various types of cells were calculated using Graph Pad Prism. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Evaluation of ability of YZ-LY-0 to inhibit other strains of enteroviruses ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "RDcells $( 3 { \\times } 1 0 ^ { 4 }$ per well in $1 0 0 \\ \\mathrm { ~ \\textmu l ~ } \\ 1 0 \\%$ FBS-DMEM medium) were cultured overnight in ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "96-well plates at $3 7 ^ { \\circ } \\mathrm { C }$ under $5 \\%$ （204号 $\\mathrm { C O } _ { 2 }$ with saturated humidity.RD cells were infected with three different strainsofEV71，including BrCr(genotype A), SK-EVO06 (genotype B) and Fuyang (genotype C),and then treated with YZ-LY-O. After overnight incubation, the levels of EV71 RNA remaining inside the host cells were measured using a qRT-PCR assay. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Interaction of YZ-LY-0 with other inhibitors of EV71 proliferation ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "RD cells were plated in 96-well microtiter plates at a density of $3 \\times 1 0 ^ { 4 }$ per well and incubated at $3 7 ^ { \\circ } \\mathrm { C }$ under $5 \\%$ $\\mathrm { C O } _ { 2 }$ with saturated humidity overnight. The RD cells were infected with the EV71 pseudo-type virus and treated with various concentrations of YZ-LY-0,NITDo08 or GPP-3 alone,or in combinations for $2 4 \\mathrm { h }$ .Antiviral activities were determined based on the reduction of the luciferase activities in the cells. Differential surface plots at the $9 5 \\ \\%$ confidence level (CI) were calculated and generated by MacSynergy II for inferring the interaction between the inhibitors [31]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "YZ-LY-0 is a potent inhibitor of EV71 infection ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We screened an in-house small molecule library containing 50 compounds to identify potential inhibitors of EV71. An EV71 strain SK-EV006 (genotype B) tagged with GFP was used for the initial screening [32]. The RD cells were infected with virus (MOI of 1) and immediately treated with various concentrations of compounds ranging from O.039 to $1 0 0 ~ \\mu \\mathrm { M }$ At $2 4 \\mathrm { h }$ pi, most compounds showed no anti-EV71 activity at a concentration of $2 0 \\mu \\mathrm { M }$ andthe infected RD cells still showed obvious GFP expression.However, treatment with compound YZ-LY-O (Fig. 1A) achieved an apparent reduction in the expression level of the reporter GFP at a concentration of $0 . 6 3 ~ \\mu \\mathrm { M }$ (Fig. 1C). In addition, YZ-LY-O conferred concentration-dependent protection against EV71 infection based on the measurement of the expression level of GFP (Fig.1C). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The anti-EV71 activity of YZ-LY-O was further investigatedby qRT-PCR.RD cells infected withEV71 virus (strain SK-EVOo6)were treated with various concentrations of YZ-LY-O for $2 4 \\mathrm { ~ h ~ }$ andthe levels of EV71 RNA remaining in the cells were determined by qRT-PCR. The results revealed that YZ-LY-O produced a concentration-dependent decrease in the lev els of EV71 RNA in the infected cells with an $\\mathrm { E C } _ { 5 0 }$ value of $0 . 2 9 \\mu \\mathrm { M }$ (Fig.1B). Moreover,it was observed that in the infected cells the expression of the VP1 protein of EV71 (the major component of viral capsid) but not the host glyceraldehyde-3-phosphate dehydrogenase (GADPH),a host house-keeping gene, was decreasedasaresultofthetreatmentofthevirus infected cells with YZ-LY-0 (Fig. 1D). All these results support the inhibitory effect of YZ-LY-O against EV71 proliferation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "YZ-LY-0 impacts the replication of EV7l genome ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Because YZ-LY-O can be considered as a potential protease inhibitor,it is important to know whether YZ-LY-O affects viral replication rather than the entry process.A previously reported pseudo-type EV71 virus system was used to exclude the impact of virus re-infection [33]. The plasmid containing the pcDNA6-FY-capsidfollowedbytheEV71 sub-genomic replicon RNA lacking the P1 region was transfected into 293T cells and EV-71(FY)-Luc pseudo-type virus was collected at $2 4 \\mathrm { ~ h ~ }$ after RNA transfection. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "RD cells were infected with EV71(FY)-Luc pseudo-type virus and then treated with $2 ~ \\mu \\mathrm { M }$ ofeither YZ-LY-0 or NITD008 [22, 23] （a reported polymerase inhibitor） or $\\mathsf { 1 p M }$ of GPP3 [26] (a reported entry inhibitor) at $- 6 , - 4 , - 2 , 2 , 4 ,$ and $^ { 1 0 \\mathrm { h } }$ pi, in which 0 h pi indicates supplying inhibitors immediately after viral infection.Theresults showed that the inhibition of EV71 by YZ-LY-O did not depend on treatment time before $^ { 1 0 \\mathrm { h } }$ pi (Fig. 2A). The treatments with YZ-LY-0 at $^ { - 6 }$ to $^ { 8 \\mathrm { ~ h ~ } }$ pi showed the strongest antiviral effect, which is similar to the reported viral replication inhibitor NITD008 (Fig.2B). In sharp contrast, the antiviral effect of GPP3 showed a dramatic decrease after $^ { 2 \\mathrm { h } }$ pi (Fig.2C). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We next directly transfected the EV71 subgenomic replicon RNA lacking the P1 region into RD cells and treated the cells with YZ-LY-0 $( 2 ~ \\mu \\mathrm { M } )$ NITD008 $( 2 ~ \\mu \\mathrm { M } )$ ，and GPP3 $( 1 ~ \\mathrm { \\ p M } )$ ．The results showed that YZ-LY-O inhibited the replication of EV71 similar to NITDoo8 but significantly different from GPP3 (Fig. 2D). Because the use of transfection excluded the entry step of viral infection,all of these results confirmed that YZ-LY-O inhibited EV71 proliferation by affecting the viral replication stage. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/97628e6937912e2007fd054d75617a5cd83bba86feaef99e0aa6f89c9f3da9ee.jpg",
+        "img_caption": [
+            "FigurelYl wereinfected byEV71 virusata MOlof1,withorwithout treatment atvariousconcentrationsof YZ-LY-0 $( 0 . 0 3 9 - 1 0 \\mu \\mathsf { M } )$ for $2 4 \\mathsf { h } .$ The levelsof EV7IRNA were quantified by qRTRdtaie te at a MOl of 1,with or without treatment by various concentrations of YZ-LY-0 for $2 4 \\mathsf { h }$ Results for concentrations $0 . 1 6 \\mu \\mathsf { M }$ $0 . 6 3 \\mu \\mathsf { M }$ $2 . 5 \\mu \\mathsf { M }$ and $1 0 \\mu \\ M$ are shown. DAPl was usedtisua expression.The concentration of YZ-LY-0 in lanes 1-7 was 5.00,2.50,1.25,0.63,0.31 0.16,and $0 \\mu \\ M ,$ respectively.The expression level of GAPDH was not affected by the treatment with YZ-LY-0. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/aa8036f1d29aab3aa9d5603170f52cd602f8bac019d42435caa001056b87adf2.jpg",
+        "img_caption": [
+            "Figure2i YZ-LY-0 $( 2 \\mu \\ M )$ ，NITD008 $( 2 \\mu \\ M )$ andGPP3(pM)atvariousadditiontimes.EV7lpseudotypeviruswasusedtoinfectRDcelsia96-wellplateandYZ-LY-0wasadded simultaneously (0 hpi)orbeforeandafter viral infectionas indicatedonthe figure (-6,-4,-2,0,2,4,6,8and $\\mathsf { I O h } \\mathsf { p }$ i).The luciferase levels were quantified by measuring the firefly luciferase activity in relative luminescence units (RLU)at $2 4 \\ h$ p.i. (D)The EV71 subgenomic replicon RNA lacking the Pl region was transfected into RD cels.YZ-LY-0 $( 2 \\mu \\ M )$ ， NITD008 $( 2 \\mu \\ M )$ andG(erasefesantsuiiiferactiaie units at 24 h p.i.All results were presented as the average results of three independent experiments and $S D s$ （2 $( n = 3 )$ are presented. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "YZ-LY-0 acts on the early stage of EV7l replication ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In order to conclusively determine the particular virus replication process that is being affected by YZ-LY-0，the time-of-removal of virus study was performed (Fig. 3). The results showed that compound YZ-LY-O added at $> 6 \\mathrm { ~ h ~ }$ p.i. gradually lost its potency，suggesting that the compound exerts its inhibition at the viral RNA replication step or at a late stage of the infection cycle after viral entry. YZ-LY-0 inhibited progeny virus production by nearly $100 \\%$ when added within $^ \\textrm { \\scriptsize 4 h }$ p.i (Fig. 3A). A significant increase in virus yield (about $5 0 \\ \\%$ ）wasobserved when YZ-LY-O was added $^ { 8 \\mathrm { ~ h ~ } }$ p.i.One of the major events during the early stage ofEV71 infectionis viral RNA replication.To determine the effects of YZ-LY-0 on viral RNA replication,a time-of-addition experimentwas performed and the EV71 RNA of infected cells was quantified using qRT-PCR. Similar to the inhibition of virus production，YZ-LY-O inhibited EV71 RNA replication by nearly $100 \\%$ after $^ \\textrm { \\scriptsize 4 h }$ p.i. (Fig.3B).The inhibitoryeffectdiminishedafter $8 \\mathrm { - } 1 0 \\mathrm { h }$ p.i. These findings suggest that YZ-LY-0 could efficiently inhibit EV71 RNA replication during the early stages of the viral infection. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Quantification of the anti-EV7l effect of YZ-LY-O in different cell lines ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Toassesspossiblecell-typeand species-dependent differences in the anti-EV71 activity of YZ-LY-0,its antiviral effects in RD,293T and Vero cells were examined (Fig. 4). The results revealed that YZ-LY-O suppressed the viral RNA yield of the EV71-infected RD,293T and Vero cells,respectively, in a dose-dependent manner. The $\\mathrm { E C } _ { 5 0 }$ values for YZ-LY-O against EV71 SK-EV006 live virus infection in RD,293T and Vero cells were $1 . 5 1 \\mu \\mathrm { M } , 2 . 6 8 \\mu \\mathrm { M }$ and $0 . 9 1 \\mu \\mathrm { M } ,$ respectively (Figs. 4A, 4D and 4G). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Thereduction in thevirus titerswas determined after thetreatmentwithYZ-LY-0inEV71-infectedRD cellsandtheresults indicatedthatthetitersof the virus in the supernatants were also significantly attenuated by the treatment of YZ-LY-O (Figs.4B,4E and 4H). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/fe4380b5a659e2ff882e446d0bc0c9e111606c701f660c0b3c23a23da18e343e.jpg",
+        "img_caption": [
+            "Figure3.Terelatieotalvsyed()andtfifectdcelompadwittatftalotolaseternedyal ly) at $3 7 ^ { \\circ } C$ At the indicated time points,compound YZ-LY-0 $( 2 . 0 \\mu \\mathsf { M } )$ was added to the infected cells.As controls,the infected cells were treated with $0 . 5 \\%$ DMSO. $A t 2 4$ hp.i., the culture medium was colected,and viral titers were determined by CPEassay.Average resultsand standard errors $( n = 3 )$ are presented.(B) YZ-LY-0 at $2 . 0 \\mu \\ M$ was added to RD cellat differenttime pointsbeforeorafterEV7linfection (-6,-4,0,4and $| 0 \\ h$ p.i).RD cells were infected with EV71 (EV71-FY-Luc strain)atanMOlof2for1h.After three washes with PBS to remove unbound viruses,cells were incubated at $3 7 ^ { \\circ } C$ At $1 4 \\ h$ p.i,the relative total RNA of infected cells treated with YZ-LY-0 compared with a control group made up of infected cells treated with $0 . 5 \\%$ DMSO only was determined with qRT-PCR.Data are presented as mean $\\pm  S D$ of 3 independent experiments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce91890ecb46b2bff4a1fe31d0982736449b672251095473753f0bd3162dfda0.jpg",
+        "img_caption": [
+            "igure4 itEtr)d liis periments and SDs $( n = 3 )$ arepresented(C)()nd)Cyoittellis.Dollsebdittd centrations for $2 4 \\ h$ .The cell viability was measured usinga WST-l based assay. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The cyto-toxicity of YZ-LY-0 was also tested in RD，293T andVero cells.Theresultsrevealed that YZ-LY-O has no obvious toxicity at a high concentration of $1 0 0 \\mu \\mathrm { M }$ in RD and Vero cell lines,and the ${ \\mathrm { C C } } _ { 5 0 }$ in $2 9 3 \\mathrm { T }$ is significantly more than $3 0 ~ \\mu \\mathrm { M } ,$ and thus, toxic to HEK293 cells at this concentration (Fig. 4C, 4F and 4I). These result indicate that YZ-LY-O has a strong inhibitory activity against EV71 and a high selectivity index $( S I = C C _ { 5 0 } / \\mathrm { E C } _ { 5 0 } )$ value (up to 300 in RD and Vero cells). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Antiviral effect of YZ-LY-0 is not dependent on EV71 strains ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "EV71 is generally characterized in terms of three genotypes - A，B and C. To determine whether YZ-LY-O has an antiviral activity against all these three genotypes of the virus,an additional test was performed. As showed in Figure 5,YZ-LY-0 effectively inhibited the CPE inducedby infection of these viruseswithan $\\mathrm { E C } _ { 5 0 }$ similartothat observedforEV71. The results showed that YZ-LY-0 effectively inhibited the living viruses of the $\\mathrm { B r C r } ,$ SK-EV006 and Fuyang strains in RD cells with $\\mathrm { E C } _ { 5 0 }$ values of $1 . 1 2 ~ \\mu \\mathrm { M } ,$ 2.53 $\\mu \\mathrm { M }$ and $2 . 4 3 ~ \\mu \\mathrm { M } ,$ respectively (Fig. 5A, 5B and 5C). Thus, YZ-LY-O is not strain specific and could be developed into a broad spectrum drug for treatment of EV71 infections. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Combination effects of YZ-LY-0 with viral polymerase and entry inhibitors on EV71 infection ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Because the inhibition of each step of the viral life cycle can affect the proliferation of virus,it has been proven in the clinic that a combination therapy with multiple drugs having different mechanisms of action can be more effective for treating viral infections，including HIV and HCV [34]. Therefore，we tested the effect of YZ-LY-O in combination with polymerase(NITD008) or viral entry (GPP-3) inhibitors on the proliferation ofEV71.The former is the first identified potent nucleoside analog inhibitor of EV71 RdRp [22,23],while the latter has been reported as an inhibitor of viral entry into host cells [26]. The single round pseudo-type EV71 virus reporter system wasused.RD cellswere infected withEV-71(FY)-Luc pseudo-type virus and treated with various concentrations of YZ-LY-0,NITD008 or GPP-3,either alone orin combination for 24h. The results showed a concentration-dependent inhibition of EV71 replication with YZ-LY-0, NITD008 or GPP-3 alone,or with any twoinhibitors in combination. Combinationof YZ-LY-0 with NITD008 (Fig. 6A),or YZ-LY-0 with GPP-3 (Fig. 6B) showed attenuated inhibition when compared to inhibition exerted by individual inhibitors. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The data were further analyzed using MacSynergyI,a mathematicmodel,todeterminewhether the effect of the combinations was synergistic,additive,orantagonistic [3O].The results indicated that the combination of YZ-LY-O and NITDoo8 at the concentrations of $< 0 . 2 5 ~ \\mu \\mathrm { M }$ for NITD008,and $< 0 . 0 0 2 ~ \\mu \\mathrm { M }$ for GPP3, had less antiviral activity than the sum of individual inhibitions.However,at higher concentrations the interaction between YZ-LY-O and NITD008 or GPP3 became synergistic (Fig. 6C and 6D). The effects of YZ-LY-0,NITD008 and GPP-3 on cell viability were previously evaluated to ensure that the inhibition of EV71 was not due to cytotoxicity.No significant cytotoxicity was observed with the combination of YZ-LY-O and the other two compounds (data not shown). ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/13f3e94165704c23972e0dc1af8b8e4f2f545b8df77ad68473926aed6e205d33.jpg",
+        "img_caption": [
+            "Figure5Qd vi the qRT-PCR method. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/0019488f1065c4fb1fabb8c7b622cdbf033bed3b31715a643fd2d77dd62c7727.jpg",
+        "img_caption": [
+            "Figure6ruteracodt and $2 4 \\mathsf { h }$ Aiii (D) Differential surface plots at the $9 5 \\%$ confidence level (Cl) werecalculatedandgeneratedbyusing MacSynergyIfrthedrug-drug interactionof thecombinationof efects at various concentrations of the two compounds in combination.Only statistically significant $( 9 5 \\% C 1 )$ differences between the two compounds were considered at any gi antagonism. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In the present investigation, Vero,293T and RD cell-based systems were used to evaluate the anti-EV71 effect of YZ-LY-0.By screening small molecule compounds from our in-house library,we identified YZ-LY-O that potently inhibits all the three strains of EV71 tested in the current study.YZ-LY-0 had no obvious cytotoxicity even at a high concentration of $1 0 0 ~ \\mu \\mathrm { M }$ in RD and Vero cell lines. YZ-LY-0 showed effective inhibition against EV71 infection in three different types of cells, suggesting that such antiviral activities are not cell-type dependent. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Tounderstandthemechanism of action and to identify the target of YZ-LY-0,we attempted to select YZ-LY-0-resistant virus through continuous passage of EV71 in the presence of the compound.However, after 10 passages,EV71 remained sensitive to the compound with similar $\\mathrm { E C } _ { 5 0 }$ values (data not shown). More detailed analyses of the exact mechanisms of action of the compound are currently being conducted. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "EV71 infection-induced CPE was measured through CPE inhibition assay. The similarity of the $\\mathrm { E C } _ { 5 0 }$ obtained from three different cell lines for YZ-LY-0 suggests that the compound does not inhibit cell growth directly,and the cyto-toxicity assay indicated that YZ-LY-O is a good inhibitor of EV71 infection.The combination of YZ-LY-0 with NITDo08 or GPP3 exhibited a strong antagonistic effect during inhibition of EV71 at lower concentration (concentration of NITD008 and YZ-LY-0 as low as $0 . 1 2 5 ~ \\mu \\mathrm { M } )$ . In sharp contrast，when the concentration of YZ-LY-0 was increased to $0 . 5 { - } 2 . 0 ~ \\mu \\mathrm { M } ,$ the interaction between NITDO08 and YZ-LY-0 became synergistic. Moreover, the interaction of YZ-LY-0 with GPP3 was not as significant as that of NITD0o8-YZ-LY-0. However， the antagonistic effect of YZ-LY-0 with GPP3 at lower concentrations and the synergistic effect at higher concentrations presented similar trends as that of NITD008-YZ-LY-0. These results suggest a potential application of YZ-LY-O in combinatorial therapy. Inhibitors targeting different aspects of the life cycle of EV71 couldbecombinedwithYZ-LY-0totreatEV71 infections. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Although the details of the EV71 life cycle are unclear,it generally involves virus attachment,uncoating， polyprotein translation and cleavage，viral RNA replication,and assembly of the virus [9,35]. These critical steps are currently considered targets for antiviral development [36]. Compounds that target some of these processes are being actively pursued [21].Nucleoside analogues have been successfully used for treatment of several viral infections, e.g. HIV and HBV [34]. Picornaviruses can complete their lifecycle in approximately $8 \\ \\mathrm { h } ,$ at which point, host protein production is shut down and CPE is induced. At $^ { 3 - 4 \\mathrm { ~ h ~ } }$ pi，viral protein synthesis is predicted to reach high levelsand virus assembly could even be initiated at this point [35]. For YZ-LY-0, the $\\mathrm { E C } _ { 5 0 }$ for VP1 production is similar to the $\\mathrm { E C } _ { 5 0 }$ for progeny virus production,which is consistent with the finding that YZ-LY-0 inhibits viral RNA replication within $^ { 4 \\mathrm { h } }$ pi. YZ-LY-O also showed inhibitory activity against three other human EV71 strains, and we have every reasonto believe thattheanti-viraleffectisnotstrain dependent (Fig. 5). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In conclusion, YZ-LY-0 could effectively inhibit the infection of EV71 in different types of cells. In addition, our studies using RD cells show that YZ-LY-0 inhibits proliferation of different strainsof EV71 that infect humans.YZ-LY-0 could be used as a scaffold to improve the potency and desirable drug-like properties for treatment of EV71 infections.In addition, using YZ-LY-O as a probe, a study of the mechanism of action would enhance our understanding of the molecularmechanismofenteroviral infectionand transmission. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This work is supported by the National Major Project (973 Program). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Competing Interests ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The authors have declared that no competing interest exists. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1. Chen T-C,Chang H-Y,Lin P-F,Chern J-H,Hsu JT-A,Chang C-Y,et al.Novel Antiviral Agent DTriP-22 Targets RNA-Dependent RNA Polymerase of Enterovirus 71.Antimicrobial Agents And Chemotherapy.2009; 53: 2740-7. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ta1l uaug LuI LEC v,uag Atuie Hacuu paralysis in infantsand young children with enterovirus 71 infection: MR imaging findings_and clinical correlates. American Journal Of Neuroradiology.2001;22: 200-5.   \n3. Wang Y,FengZ,YngYSefSGaoYngniIetal. Handft mouth disease in China: paterns of spread and transmissibility. Epidemiology 2011; 22: 781-92.   \n4. Stewart $\\mathrm { C L } ,$ ChuEY，IntrsCEerAev A6-Induced Hand-Foot-Mouth Diseasee.Jama Dermatology.2013；149:   \n1419-21.   \n5. Zheng ZM,ZhangJZhu W,HeP.Firstisolationof enterovirus type7from vesicle fluid of an adult patient with hand-foot-mouth disease in China. Virologica Sinica 1989; 4: 375-82.   \n6. Yang Y,WangH,Gong E,DuJ,Zhao X,McNuttMA,etal.Neuropathologyin   \n2 cases of fatal enterovirus type 71 infection from a recent epidemic in the People's Republicof China: a histopathologic,immunohistochemical,and reverse transcription polymerase chain reaction study.Human pathology. 2009;   \n40: 1288-95.   \n7. Zhang Y,ZhuZ,angW,RenJ,anX,WangY,etal.Anemergingrecinant human enterovirus 71 responsible for the 2008 outbreak of hand foot and mouth disease in Fuyang city of China. Virology journal. 2010; 7: 94.   \n8. Wang CY,LiLuF,Wu MH, LeeCY,HuangL.FatalcoxsackievirusA16 infection.The Pediatric infectious disease journal.2004; 23: 275-6.   \n9. Sun Y,Wang Y,Shan C, Chen C, Xu P,Song M, et al.Enterovirus7 Vg uridylation uses a two-molecular mechanism of 3D polymerase. Journal of virology.2012; 86: 13662-71.   \n10. McMinn PC.An overview of the evolution of enterovirus 71 and its clinical and public health significance.FEMS microbiology reviews.2002;26: 91-107.   \n11. Paul AV,Rieder E,KimDW,van BoomJH,WimmerE.Identificationf an RNA hairpin in poliovirus RNA thatserves as the primary template in the in vitro uridylylation of $\\mathrm { V P g }$ Journal of virology.2000;74:10359-70.   \n12.Gamarnik AV,Andino R. Switch from translation to RNA replication in a positive-stranded RNA virus. Genes & development.1998;12: 2293-304.   \n13. Hillman BI, Foglia R, Yuan W.Satellite and defective RNAs of Cryphonectria hypovirus 3-grand haven 2,a virus species in the family Hypoviridae with a single open reading frame. Virology.200o; 276: 181-9.   \n14. Pelletier J,Sonenberg N.Internal initiationof translationof eukaryotic mRNA directed by a sequence derived from poliovirus RNA.Nature.1988; 334: 320-5.   \n15. Chen C,WangY,Shan C,SunY,XuP,Zhou H,etal.Crystal strucureof enterovirus 71 RNA-dependent RNA polymerase complexed with its protein primer $\\mathrm { V P g } { \\mathrm { ; } }$ implication for a trans mechanism of $\\mathrm { \\Delta V P g }$ uridylylation. Journal of virology.2013;87: 5755-68.   \n16.Sun Y,Guo Y,Lou Z.Formation and working mechanism of the picornavirus $\\mathrm { { V P g } }$ uridylylation complex.Current opinion in virology.2014; 9: 24-30.   \n17.Steil BP,Kempf BJ,BartonDJ.Poly(A)atthe3’EndofPositive-StrandRNA and VPg-Linked Poly(U) atthe5'End of Negative-Strand RNA Are Reciprocal Templates during Replication of Poliovirus RNA.Journal of virology. 2010;   \n84: 2843-58.   \n18.Yang F,RenL, Xiong Z, LiJ, XiaoY,ZhaoR,etal.Enterovirus 71Outbreak in the People's Republic of China in 2008.Journal OfClinical Microbiology.2009;   \n47: 2351-2.   \n19. Zhu FC, Liang ZL,Li XL,Ge HM,Meng FY,Mao QY,et al. Immunogenicity and safety of an enterovirus 71 vaccine in healthy Chinesechildren and infants:arandomised,double-blind,placebo-controlled phase 2clinical trial. Lancet.2013;381: 1037-45.   \n20.Shang L, Xu M, Yin Z.Antiviral drug discovery for the treatment of enterovirus 71 infections. Antiviral research.2013; 97: 183-94.   \n21. Chen T-C,Weng K-F,ChangS-C,LinJ-Y,HuangP-N,ShihS-R.Develot of antiviralagents for enteroviruses.Journal Of Antimicrobial Chemotherapy.   \n2008; 62: 1169-73.   \n22. Deng CL,YeoH,YeHQ,LiuSQ,Shang BD,GongP,etal.Inhibitionof enterovirus71byadenosineanalog NITD008.Journal of virology.2014;88:   \n11915-23.   \n23. Shang L, WangY,QingJ Shu B,Cao ${ \\mathrm { L } } ,$ Lou Z, et al. An adenosine nucleoside analogue NITDoo8 inhibits EV71 proliferation. Antiviral research.2014; 112:   \n47-58.   \n24. DragovichPS,Prins TJ,ZhouR,JohnsonTO,BrownEL,MaldonadoCeal. Structure-based design,synthesis,and biological evaluationof irreversible human rhinovirus 3C protease inhibitors.Part 7: structure-activity studies of bicyclic 2-pyridone-containing peptidomimetics.Bioorganic& medicinal chemistry letters.2002;12:733-8.   \n25. Tijsma A,Franco D,Tucker S,HilgenfeldR,Froeyen M,LeyssenP,etal.he capsid binder Vapendavir and the novel protease inhibitor SG85 inhibit enterovirus 71 replication. Antimicrob Agents Chemother.2014;58: 6990-2.   \n26.De Colibus $\\scriptstyle \\mathrm { \\mathrm { ~ L , ~ } }$ Wang $\\mathbf { \\boldsymbol { x } } ,$ Spyrou JA，Kelly J，Ren J,Grimes Jetal. More-powerful virus inhibitors from structure-based analysis of HEV71 capsid-binding molecules. Nature structural $\\&$ molecular biology.2014; 21: 282-8.   \n27.Qing J WangY,SunY,Huang JYan W,WangJ etal.Cyclophilinoiates with enterovirus-71 virus capsid and plays an essential role in viral infection as an uncoating regulator.PLoS pathogens. 2014;10: e1004422.   \n28.Ren P, Zou G,Bailly B, Xu S, Zeng ,Chen $\\scriptstyle \\mathbf { X } ,$ et al. The approved pediatric drug suramin identified as a clinical candidate for the treatment of EV71 infection-suramin inhibits EV71 infection in vitro and in vivo.Emerging microbes & infections.2014: 3: e62.   \n29．Chen P, Song Z,QiY,Feng $x ,$ Xu N, Sun Y,et al.Molecular determinants of enterovirus 71 viral entry: cleft around GLN-172 on VP1 protein interacts with variable region on scavenge receptor B 2.The Journal of biological chemistry. 2012;287: 6406-20.   \n30.Schmittgen TD,Livak KJ.Analyzing real-time PCR data by the comparative C(T) method.Nature protocols.2008;3:1101-8.   \n31.Prichard MN,Shipman C, Jr.A three-dimensional model to analyze drug-drug interactions.Antiviral research.1990;14:181-205.   \n32.Yamayoshi S,Yamashita Y,Li J,Hanagata N, Minowa T,Takemura T,et al. Scavenger receptor B2 is a cellular receptor for enterovirus 71.Nature medicine. 2009;15: 798-801.   \n33. ChenP,Song Z,QiY,FengX,Xu N, Sun Y,et al.Molecular determinants of enterovirus 71 viral entry: cleft around GLN-172 on VP1 protein interacts with variable region on scavenge receptor $\\boldsymbol { \\mathrm { ~ B ~ 2 ~ } }$ The Journal of biological chemistry. 2012;287: 6406-20.   \n34.Li Z-H,Li C-M, Ling P,Shen F-H, Chen S-H, Liu C-C,et al. Ribavirin reduces mortality in enterovirus 71-infected mice by decreasing viral replication. Journal Of Infectious Diseases.2008;197: 854-7.   \n35.Zoll J,Heus HA,van Kuppeveld FJM, Melchers WJG.The structure-function relationship of the enterovirus 3 '-UTR.Virus Research.2009;139:209-16.   \n36．Tung WS,Bakar SA,Sekawi $Z ,$ Rosli R. DNA vaccine constructs against enterovirus 71 elicit immune response in mice.Genetic vaccines and therapy. 2007;5:6. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

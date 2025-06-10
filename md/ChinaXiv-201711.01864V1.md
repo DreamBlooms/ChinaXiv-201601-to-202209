@@ -1,0 +1,164 @@
+# 醋糟菌糠对3种作物土壤微生物及酶活性的影响
+
+畫　卿¹程红艳l\*\*张建国²王效举³孟丽君4王　腾」王　强¹田　野
+
+(1．山西农业大学资源环境学院太谷 030801;2.山西水利职业技术学院运城044004;3．日本琦玉县环境科学国际研究中心日本 琦玉347-0115;4.山西省生物研究所太原 030006)
+
+摘要为研究醋糟菌糠作为一种生物肥料对土壤肥力的影响，为解决食用菌菌糠对环境污染及其有效利用提供科学依据，本文通过田间试验，对玉米、高梁、糯玉米3种作物基施醋糟菌糠后不同生育期的土壤脲酶、蔗糖酶和过氧化氢酶活性，细菌、放线菌和真菌数量，及微生物量碳、氮含量进行测试。研究结果表明：1)醋糟菌糠显著提高了作物根际土壤细菌、放线菌和真菌的数量。在作物整个生育期，加入醋糟菌糠的土壤细菌数量比对照提高 $32 \% { \sim } 5 4 \%$ ；放线菌数量在成熟期提高明显，玉米田土壤放线菌数量增幅最大，为 $101 \%$ ；真菌数量变化总体趋势呈现先升高后下降的趋势。2)醋糟菌糠的施入增加了作物根际土壤脲酶、过氧化氢酶、蔗糖酶的活性。种植高梁、玉米和糯玉米土壤的脲酶活性增长率分别为 $23 \%$ 、 $1 8 9 \%$ 和 $1 8 5 \%$ ；3种作物的土壤过氧化氢酶活性在抽穗期最高，最大增长率为 $40 \%$ ；3种作物的土壤蔗糖酶活性在不同生育期变化趋势不同，玉米各生育期土壤蔗糖酶活性变化较为稳定，其增长率分别为 $3 8 \%$ 、 $2 8 \%$ 、 $48 \%$ 。3)醋糟菌糠的施入增加了作物根际土壤微生物碳氮的含量，不同生育期3种作物的土壤微生物碳含量增幅为 $5 8 . 1 0 { \sim } 4 0 7 . 6 7 ~ \mathrm { \ m g { \cdot } k g ^ { - 1 } }$ ，微生物氮含量增幅为 $1 1 . 9 8 { \sim } 2 7 . 5 5 ~ \mathrm { m g { \cdot } k g ^ { - 1 } }$ 。由此可见，醋糟菌糠的施用可以增强土壤生产力的可持续性，从而达到保护和改善土壤环境的效果。同时该研究也为醋糟菌糠的有效利用提供了一定的科学依据。
+
+关键词 醋糟菌糠 土壤酶活性 土壤微生物数量 土壤生物量碳氮 玉米 高梁 糯玉米中图分类号：S154.3 文献标识码：A 文章编号:1671-3990(2016)12-1655-08
+
+# Effect of fungus chaff on soil microbe population and enzyme activity of three crop soils
+
+DONG Qing1, CHENG Hongyan1\*\*, ZHANG Jianguo², OH Kokyo, MENG Lijun4, WANG Teng1, WANG Qiang1, TIAN Ye1
+
+(1.CollegeofResourcesadEnviroment,ShaniAgriculturalUniversityTaigu3O8l,China;2.haiConservancyTchical Institute,Yuncheng04404,China;3.CenterforEnvironmentalScienceinSaitama,KisaiTowSaitama347-05,Japan; 4.Shanxi Institute of Biology, Taiyuan O3ooo6, China)
+
+AbstractApplicationoffungus chaffisan important measure improving soilhealthyand plant growth.A filed experiment was conducted to investigate the efects offungus chaff of vinegar residue incorporation on the population of soil microrganism,soil microbialbiomass carbon,soil microbial biomass nitrogen and enzyme activity in three crops (maize, sorghumand waxy maize)soilatdiferent growth stages.The experimentcontained sixtreatments,threecrops nottreatedand treated with $2 5 \ 0 0 0 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ of fungus chaff.The results showed that the incorporation of fungus chaff significantly increased bacteria,actinomyces and fungi population in the rhizosphere soil layer.The number of soil bacteria increased by $32 \% - 5 4 \%$ （204 for thethree crops after fungus chaf application throughout the growth period.At maturity，actinomyces population significantly increased,especially in maize rhizosphere soil layer where there was the largest increment of $101 \%$ . The trend in fungi population increasedat jointing and heading stagesafter decreasing at maturity stage.Theuseoffungus chaff in rhizosphere soil increased theactivities ofenzymes (urease,catalase and invertase).Soil urease activityunder sorghum,corn and waxy corn increased with $23 \%$ $1 8 9 \%$ ,and $1 8 4 \%$ , respectively. Soil catalase activity was highest at heading stage,with a maximum increment of $40 \%$ .Three crops showed different trends in soil invertase activity at each stage. The activity of soil invertase under maize was not significantly different among growth stages, with increment of $3 8 \%$ $28 \%$ and $48 \%$ respectively at jointing,headingandmature stages.Soilmicrobial biomass carbonandnitrogenincreased inallthecropsafterfungus chaff application. The increase in soil microbial carbon content was $5 8 . 1 0 { - } 4 0 7 . 6 7 \ \mathrm { m g { \cdot } k g ^ { - 1 } }$ and that in microbial nitrogen content was $1 1 . 9 8 { - } 2 7 . 5 5 ~ \mathrm { m g { \cdot } k g ^ { - 1 } }$ across the growth periods of the three crops.This implied that the application of fungus chaff could be used to boostthepopulationofsoil microorganismsand enhance soil microbial biomass carbon and nitrogen,and enzyme activity underthe three crop types.This in turn enhancedcrop yield and made soil productivity more sustainable.It was therefore recommended to apply fungus chaffof vinegarresidues to protect and improve future environmental conditions.
+
+KeywordsFungus chaffof vinegarresidues;Soil enzymeactivity;Soil microbial population;Soil microbial biomass carbon and nitrogen; Maize; Sorghum; Waxy corn
+
+醋糟是以淀粉质原料为主料生产食醋后得到的固态部分，常被当作废物丢弃，堆积发霉，不仅污染环境，又浪费资源[1]。为了把醋渣变废为宝，减轻环境污染，不少学者都在尝试醋糟栽培食用菌的研究并取得了较好的研究成果。食用菌在采摘后形成大量剩余物即醋糟菌糠。有研究表明，醋糟菌糠的粗蛋白、粗脂肪均高于其他菌糠，而粗纤维则远低于其他菌糠[2]。但是如果处置不当，醋糟菌糠仍然会带来严重的环境污染压力。因此考虑用醋糟菌糠作为有机肥料施入土壤，其可行性在于，种植食用菌后的菌糠质地疏松，含有多种有机物和矿质元素，可以保存土壤中的水分和营养物质[3]，能够有效改善土壤缺素状况，增加土壤肥力，常用作改良土壤的功能性优质肥料和基质[4]。将醋糟菌糠作为土壤有机肥料进行研究，旨在促进资源多层次利用、生态系统改善以及良好社会、经济效益的产生。
+
+土壤微生物是土壤生态系统的重要组成部分。微生物数量和土壤酶活性等可以作为评价土壤肥力的重要指标之一[5]。目前国内外对土壤微生物和酶的研究已有很多报道，肖嫩群等研究了稻草还田对土壤微生物和酶活性的影响，该研究利用微生物和酶等生物学指标的变化来说明稻草还田在培肥土壤的功效；谢放等研究了香菇渣对土壤微生物和酶活性的影响，添加香菇渣后细菌类群数量明显增加，反映出添加香菇渣后的土壤具有良好的微生物生态学特性;马晓霞等[8研究了长期施肥对玉米(Zea maysL.)生育期土壤微生物量碳、氮及酶活性的影响，土壤酶活性与玉米生长发育动态基本一致，长期施用氮磷或氮磷钾化肥可以明显改善土壤生物化学肥力状况；吕军等[9研究了酒糟生物有机肥和微生物菌剂对土壤微生物数量及高梁[Sorghum bicolor(L.）Moench]产量的影响，酒糟生物有机肥和微生物菌剂的使用显著提高了土壤微生物数量和酶活性，增加了高粱产量。多数研究表明，施用有机肥料可以显著提高土壤微生物量碳、氮含量及土壤酶活性[10-13]。有研究认为有机肥或有机无机肥配合施用可显著提高土壤细菌、真菌和放线菌数量[14]；但也有研究表明农田施用有机无机复合肥土壤细菌数量显著增加，但真菌数量则显著降低[15]。土壤微生物和土壤肥力之间具有相互促进和协调发展的关系，高肥力的土壤可促进微生物的大量繁殖和生长，而土壤中大量的微生物也可通过降解有机物质来维持土壤养分的收支平衡[16-18]。向土壤中施入有机物料能够改善土壤微生物生态环境，改变土壤微生物群落结构，提高土壤肥力[19]。而醋糟菌糠作为一种潜在的、经过二次利用的有机肥料，对土壤微生物、土壤酶影响的研究尚鲜见报道。因此，本研究以常见3种作物高梁、玉米、糯玉米(ZeamaysL.sinensisKulesh)为研究对象，醋糟菌糠为有机肥料,通过测定主要土壤酶的活性和土壤微生物变化规律，试图从这些土壤生物学指标的变化方面来研究醋糟菌糠作为一种有机肥料对土壤肥力的影响，为解决食用菌菌糠对环境的污染及其有效利用提供科学依据。
+
+# 1材料与方法
+
+# 1.1 试验区概况
+
+试验于2015年在山西省晋中市进行。试验区年平均气温 $9 . 9 ~ \mathrm { ~ \ ^ ~ { ~ \circ ~ } C ~ }$ ，无霜期 171.2 d，年平均降水量$4 4 1 . 8 ~ \mathrm { m m }$ 。试验地土壤为石灰性褐土,4月8日测定耕层土壤 $( 0 { \sim } 2 0 ~ \mathrm { c m } )$ 有机质含量 $3 5 . 9 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，碱解氮含量 $3 3 . 8 2 ~ \mathrm { \ m g ^ { . } k g ^ { - 1 } }$ ，速效磷、速效钾含量分别为$3 7 . 0 6 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ 、 $2 7 8 . 5 2 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ ， $\mathrm { p H } 7 . 5 3$ 。
+
+# 1.2 试验设计
+
+试验采用二因素裂区设计，以是否施入醋糟菌糠为主区，设醋糟菌糠、无醋糟菌糠两个水平。以不同作物品种为副区，设玉米‘福盛园55号'、高粱普中 $4 0 5 ^ { \cdot }$ 、糯玉米腾糯一号3个品种。共6个处理,3次重复，18个小区。以复合肥(氮：磷：钾 $\vert = 2 5 :$ $1 0 : 1 6$ ，总养分 $2 5 1 \%$ 作为底肥，用量为 $1 \ 0 0 0 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 鸡粪施入量为 $1 \ 5 0 0 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 。选取醋糟菌糠，即醋糟种植平菇[Pleurotus ostreatus(Jacq.:Fr.）Quél.]后的培养料作为有机肥料，施入量为 $2 5 \ 0 0 0 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 。醋糟菌糠中有机质含量为 $5 8 4 . 4 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，全氮、全磷、全钾含量分别为 $2 . 4 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 、 $0 . 3 3 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 、 $2 . 2 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 。
+
+小区面积 $2 \mathrm { m } { \times } 5 \mathrm { m }$ ，播种前打垄，用镐开沟，然后将复合肥施入做底肥，将不同配施醋糟菌糠肥料分别施入每个小区。4月14日同时播种3种作物。高粱种植密度为132000株 $\cdot \mathrm { h m } ^ { - 2 }$ ，行距 $0 . 2 5 \mathrm { ~ m ~ }$ ，株距$0 . 3 \mathrm { ~ m ~ }$ ；玉米行距与株距相同均为 $0 . 4 \mathrm { ~ m ~ }$ ，每穴2粒种子，出苗后进行间苗，种植密度65000 株 $\cdot \mathrm { h m } ^ { - 2 }$ ；糯玉米行距 $0 . 4 \mathrm { m }$ ，株距 $0 . 5 \mathrm { m }$ ，种植密度为55 500株 $\cdot \mathrm { h m } ^ { - 2 }$ 。3种作物均为8月30日收获，作物生长期间适期浇水，定期管理。在不同生育期(6月13—20日拔节期、7月26日—8月1日抽穗期、8月30日成熟期)采集土样和植物样进行测定。采集方法为多点采样法。
+
+# 1.3样品采集与测定方法
+
+# 1.3.1 样品采集
+
+4月8日采集基础土样，采用“对角线"取样法采集各试验小区 $0 { \sim } 2 0 ~ \mathrm { c m }$ 耕层根区土壤约 $1 ~ \mathrm { k g } _ { \mathfrak { c } }$ ，用于测定养分的土壤样品在土样室自然风干。用于测定土壤微生物数量、土壤酶、微生物量碳氮的土壤样品，装入无菌封口塑封袋，在袋内充分混合，置于4$\mathrm { { } ^ { \circ } C }$ 冰箱内保存以备分析。
+
+# 1.3.2 土壤微生物数量的测定
+
+微生物数量的测定采用梯度稀释法制备土壤悬液，用平板计数法计数，测定新鲜土壤中可培养细菌、真菌、放线菌数量的培养基分别为牛肉膏蛋白肺琼脂培养基、孟加拉红培养基、改良高氏一号培养基。
+
+# 1.3.3 土壤微生物碳氮的测定
+
+土壤微生物量碳、氮的测定采用氯仿熏蒸浸提法[20-21]。含量用熏蒸和未熏蒸样品碳、氮含量之差
+
+除以各自回收系数 $\mathrm { K C = } 0 . 3 8$ 和 $\mathrm { K N } { = } 0 . 5 4$ 得到[22]。
+
+# 1.3.4 土壤酶活性的测定
+
+土壤脲酶活性采用靛酚蓝比色法测定[23]，以 $2 4 \mathrm { ~ h ~ }$ 后 $\mathrm { ~ 1 ~ g ~ }$ 土壤中的 $\mathrm { N H } _ { 3 } – \mathrm { N }$ 毫克数表示；土壤过氧化氢酶活性采用高锰酸钾滴定法测定[23]，以 $2 0 \mathrm { m i n }$ 后 $\mathrm { ~ 1 ~ g ~ }$ 土壤消耗 $0 . 1 \ \mathrm { m o l { \cdot } L ^ { - 1 } K M n O _ { 4 } }$ 毫升数表示；土壤蔗糖酶活性采用 3,5-二硝基水杨酸测定[23]，以 $2 4 \mathrm { ~ h ~ }$ 后 $\mathrm { ~ 1 ~ g ~ }$ 土壤中葡萄糖毫克数表示。
+
+# 1.3.5 土壤化学性质的测定
+
+土壤有机质采用重铬酸钾容量法测定，碱解氮采用碱解扩散法测定，速效磷采用碳酸氢钠浸提法测定，速效钾采用乙酸铵浸提火焰光度法测定[24]。
+
+# 1.4 数据分析
+
+试验数据采用SPSS11.5软件对数据进行分析。
+
+# 2 结果与分析
+
+# 2.1醋糟菌糠对3种作物不同生育期土壤微生物数量的影响
+
+土壤微生物是评价土壤健康和质量的重要指标施入土壤中的外源微生物可能与土壤原有微生物共同参与土壤中几乎全部的物质循环和能量代谢。微生物数量的多少不仅取决于土壤质地和肥力状况，同时也与作物根系和土壤微生物竞争营养有关。
+
+# 2.1.1 对土壤细菌数量的影响
+
+细菌是农作物根际土壤主要的微生物群落。由表1可知，玉米、高粱和糯玉米3种作物土壤细菌数量在相同生育期波动基本保持一致，在3个生育期大致呈现先增加后减少的趋势；其中土壤细菌增长高峰期主要出现在抽穗期，在抽穗期玉米、高梁施醋糟菌糠与不施醋糟菌糠处理差异显著，糯玉米施醋糟菌糠与不施醋糟菌糠处理差异不显著。拔节期土壤细菌数量相对较低，处理之间均差异不显著。成熟期与对照相比只有高粱施醋糟菌糠与不施醋糟菌糠处理差异显著，玉米、糯玉米施醋糟菌糠与不施醋糟菌糠差异均不显著。施醋糟菌糠显著提高了作物根际土壤细菌数量。总体而言，拔节期3种作物施入醋糟菌糠的土壤细菌数量比对照提高$32 \text{‰}$
+
+# 2.1.2 对土壤放线菌数量的影响
+
+土壤中放线菌的数量仅次于细菌，是土壤微生物中第二大类群。由表1可知，玉米、高梁和糯玉米3种作物根际土壤放线菌数量随生育期一直增加,其中土壤放线菌增长高峰期主要出现在抽穗期到成熟期。3种作物土壤放线菌数量在相同生育期差异显著，在拔节期土壤放线菌数量较低，其中玉米和糯玉米醋糟菌糠处理土壤放线菌数量比对照组低;在抽穗期玉米、高粱施醋糟菌糠处理与对照组差异显著，糯玉米施醋糟菌糠与不施醋糟菌糠处理间差异不显著；玉米和糯玉米的成熟期土壤放线菌数量在施加醋糟菌糠后增幅明显，其中玉米通过醋糟菌糠处理在作物成熟期土壤放线菌数量增幅最大，为$101 \text{‰}$ 0
+
+# 2.1.3 对土壤真菌数量的影响
+
+由表1可知，土壤真菌数量明显低于细菌和放射菌，这可能与施加醋糟菌糠对真菌繁殖的抑制作用有关。玉米、高梁和糯玉米3种作物根际土壤真菌数量变化总体趋势呈现先升高后下降的趋势，拔节期至抽穗期土壤真菌数量显著增加，抽穗期至成熟期土壤真菌数量呈现明显下降趋势。施加醋糟菌糠的土壤真菌数量与对照组的差异在各个时期表现不一，其中拔节期3种作物施醋糟菌糠处理与对照的差异均不显著，抽穗期糯玉米施醋糟菌糠处理与对照差异显著，成熟期土壤真菌数量在施用醋糟菌糠后表现为明显的降低，降幅为 $5 6 . 2 5 \% \sim$ $7 6 . 9 2 \%$ 0
+
+表1醋糟菌糠对3种作物不同生育期土壤微生物数量的影响Table1Effect ofapplied fungus chaffon the numbers of soil microbes of the threecropsat different growth stages  
+
+<html><body><table><tr><td rowspan="2">作物 Crop</td><td rowspan="2">处理 Treatment</td><td colspan="3">细菌数量 Bacteria number(105·g-1)</td><td colspan="3">放线菌数量 Actinomyces number (105·g-1)</td><td colspan="3">真菌数量 Fungi number (10-g-1)</td></tr><tr><td>拔节期 Jointing stage</td><td>抽穗期 Heading stage</td><td>收获期 Mature stage</td><td>拔节期 Jointing stage</td><td>抽穗期 Heading stage</td><td>收获期 Mature stage</td><td>拔节期 Jointing stage</td><td>抽穗期 Heading stage</td><td>收获期 Mature stage</td></tr><tr><td>玉米 Maize</td><td>T0</td><td>1.33±0.20a</td><td>1.43±0.76b</td><td>1.74±0.14b</td><td>1.18±0.11ab 1.11±0.74b</td><td></td><td>1.56±0.19ab</td><td>1.03±0.12a</td><td>2.12±0.56a</td><td>1.58±0.09a</td></tr><tr><td></td><td>T1</td><td>1.28±0.77a</td><td>2.34±0.48a</td><td>1.75±0.56b</td><td>1.11±0.66b</td><td>1.46±0.21ab</td><td>3.15±1.10a</td><td>1.27±0.41a</td><td>1.52±0.19ab</td><td>0.75±0.35b</td></tr><tr><td>糯玉米</td><td>T0</td><td>1.62±0.59a</td><td></td><td>1.56±0.29b 1.37±0.15bc</td><td>1.65±0.46a</td><td>1.44±0.30ab</td><td>1.16±0.10b</td><td>1.15±0.21a</td><td>1.55±0.18b</td><td>1.23±0.09a</td></tr><tr><td>Waxy-corn</td><td>T1</td><td>1.19±0.50a</td><td></td><td>1.69±0.06b 1.51±0.14bc</td><td>1.02±0.23ab 1.49±0.65ab</td><td></td><td>2.18±0.25ab</td><td>1.10±0.05a</td><td>2.07±0.05a</td><td>0.18±0.10b</td></tr><tr><td>高梁</td><td>T0</td><td>1.14±0.26a</td><td>2.25±0.20a</td><td>1.20±0.47c</td><td>1.09±0.16ab 2.10±0.68a</td><td></td><td>2.52±0.75ab</td><td>1.05±0.23a</td><td>1.53±0.52ab</td><td>1.33±0.41a</td></tr><tr><td>Sorghum</td><td>T1</td><td>1.15±0.42a</td><td>1.23±0.76c</td><td>2.00±0.32a</td><td>1.50±0.50a</td><td>1.46±0.38ab</td><td>2.32±1.03ab</td><td>1.20±0.05a</td><td>1.52±0.10ab</td><td>0.35±0.29b</td></tr></table></body></html>
+
+TO：无醋糟菌糠;T1：施用醋糟菌糠。不同字母表示各时期不同作物T0和T1处理(同列)之间的差异显著分析 $( P { < } 0 . 0 5 )$ .TO: no fungus chaff;T1:funguschaffapplicatio.DiferentleterssowsigificantdiferencebtweTandTtreamentsatallstagesofthetreeops $( P < 0 . 0 5$ ). Thesame below.
+
+# 2.2 醋糟菌糠对3种作物不同生育期土壤酶活性的影响
+
+土壤酶主要源于土壤微生物代谢过程以及土壤动植物根系分泌及残体分解[25]，参与许多重要的生物化学过程和物质循环，包括凋落物的分解及各种有机化合物的分解与合成，是土壤肥力评价的重要指标之一。通常状况下土壤过氧化氢酶能有效防止土壤及其生物体在新陈代谢中产生的过氧化氢对生物体的毒害[26]，可以表示土壤净化能力的强弱[27]。常用土壤脲酶活性表征土壤氮素情况[28]。
+
+# 2.2.1 对土壤脲酶活性的影响
+
+由表2可知，施用醋糟菌糠处理的作物各生育期耕层土壤的脲酶活性均明显高于不施醋糟菌糠处理。在未施用醋糟菌糠的情况下，玉米和高粱在各生育期的土壤脲酶活性表现为先升高后降低，而糯玉米土壤的脲酶活性在各生育期表现为持续降低;在施用醋糟菌糠情况下，玉米和高粱在各生育期的土壤脲酶活性表现为持续降低，且玉米土壤的脲酶活性下降趋势大于高粱，糯玉米土壤的脲酶活性虽整体表现为降低，但其在拔节期和抽穗期均达到土壤脲酶活性的最大值，分别为 $7 . 9 1 ~ \mathrm { m g { \cdot g } ^ { - 1 } }$ 和 $7 . 6 5 ~ \mathrm { m g { \cdot g } ^ { - 1 } }$ 。总体来说，所有施醋糟菌糠处理土壤的脲酶活性均明显高于不施醋糟菌糠处理，且施用醋糟菌糠相比于不施用醋糟菌糠在拨节期、抽穗期和收获期增长率最大的作物分别为高梁、糯玉米、糯玉米，其增长率分别为 $23 \%$ 、 $184 \%$ 、 $101 \%$ 0
+
+# 2.2.2 对土壤蔗糖酶活性的影响
+
+由表2可以看出，施用醋糟菌糠处理的土壤蔗糖酶活性高于未施用醋糟菌糠处理。糯玉米在各生育期的土壤蔗糖酶活性表现为拔节期 $\lvert >$ 抽穗期 $\lvert >$ 收获期；高粱的土壤蔗糖酶活性虽在施用醋糟菌糠处理的情况下大于未施用醋糟菌糠处理，但在各生育期的变化趋势相反，且在抽穗期达到增长率最低值为$30 \%$ ；玉米在各生育期的土壤蔗糖酶活性变化较为稳定，其增长率也相对稳定，分别为 $3 8 \%$ 、 $28 \%$ /$48 \text{‰}$
+
+# 2.2.3 对土壤过氧化氢酶活性的影响
+
+由表2可知，在施用醋糟菌糠处理的情况下，3种作物的土壤过氧化氢酶活性在拔节期和抽穗期均有不同程度增强；在不施用醋糟菌糠处理的情况下，
+
+Table 2Efect of applied fungus chaff on soil enzymes activities of the three crops at different growth stage:   
+
+<html><body><table><tr><td rowspan="2">作物 Crop</td><td rowspan="2">处理 Treatment</td><td colspan="3">脲酶活性 Urease activity [mg(NH3-N)·g-1]</td><td colspan="3">蔗糖酶活性 Sucrose activity [mg(surcose).g-1]</td><td colspan="3">过氧化氢酶活性 Catalase activity [mg(KMnO4)·g-1]</td></tr><tr><td>拔节期 Jointing stage</td><td>抽穗期 Heading</td><td>收获期 Mature stage</td><td>拔节期 Jointing</td><td>抽穗期 Heading</td><td>收获期 Mature</td><td>拔节期 Jointing</td><td>抽穗期 Heading</td><td>收获期 Mature</td></tr><tr><td>玉米</td><td>T0</td><td>2.72±1.09b 2.84±1.07b 1.33±0.47b 39.70±14.19b</td><td>stage</td><td></td><td>stage</td><td>stage 41.49±8.70b</td><td>stage 33.81±10.76b</td><td>stage 1.56±0.23a</td><td>stage 1.86±0.39b</td><td>stage 2.09±0.21a</td></tr><tr><td>Maize</td><td>T1</td><td>7.87±3.28a 4.97±2.26a 2.43±0.57ab 54.68±2.68a</td><td></td><td></td><td></td><td>53.28±2.70a</td><td>50.04±2.95a</td><td>1.65±0.06a</td><td>2.48±0.08a</td><td>1.93±0.21a</td></tr><tr><td>糯玉米</td><td>T0</td><td>3.94±0.70b 2.69±0.66b 1.28±0.48b 41.98±9.04b</td><td></td><td></td><td></td><td></td><td>40.75±12.27b 38.53±9.95b</td><td>1.56±0.16a</td><td>1.90±0.49b</td><td>2.02±0.07a</td></tr><tr><td>Waxy-corn</td><td>T1</td><td>7.91±2.21a 7.65±2.35a 2.57±1.09ab 51.23±2.11a</td><td></td><td></td><td></td><td>50.75±1.34a</td><td>49.71±0.32a</td><td>1.61±0.04a</td><td>2.57±0.09a</td><td>1.95±0.39a</td></tr><tr><td>高梁</td><td>T0</td><td>2.12±0.39b 2.18±0.62b 1.56±0.63b 36.07±10.84b</td><td></td><td></td><td></td><td></td><td>37.56±12.19b 33.21±10.15b</td><td>1.57±0.15a</td><td>1.77±0.51b</td><td>1.98±0.12a</td></tr><tr><td>Sorghum</td><td>T1</td><td></td><td></td><td></td><td>7.19±2.88a 5.06±1.41a 3.11±0.83a 54.28±2.28a</td><td>49.00±1.76a</td><td>49.31±1.33a</td><td>1.58±0.05a</td><td>2.48±0.07a</td><td>1.91±0.33a</td></tr></table></body></html>
+
+3种作物的土壤过氧化氢酶活性在各生育期的变化趋势表现为缓慢上升。在两种处理情况下，3种作物的土壤过氧化氢酶活性在拔节期和收获期基本趋于一致，在抽穗期表现出显著差异，即施用醋糟菌糠处理显著大于不施用醋糟菌糠处理，且最大增长率为 $40 \text{‰}$
+
+# 2.3醋糟菌糠对3种作物不同生育期土壤微生物碳氮的影响
+
+土壤微生物量碳是土壤有机碳的灵敏指示因子，土壤微生物量氮是土壤氮素矿化势的重要组成部分。由表3方差分析 $( P { < } 0 . 0 5 )$ 可知，在施加醋糟菌糠后，不同时期3种作物的土壤微生物量碳含量变幅较大 $( 5 8 . 1 0 { \sim } 4 0 7 . 6 7 \ \mathrm { \ m g { \cdot } k g ^ { - 1 } } )$ ，微生物量氮含量变幅较小 $\backprime ( 1 1 . 9 8 { - } 2 7 . 5 5 \mathrm { m g { \cdot } k g ^ { - 1 } } )$ 。与对照组相比,3种作物施加醋糟菌糠后大体上可以促进微生物量碳、氮含量，其中糯玉米在拔节期和抽穗期施用醋糟菌糠后微生物量氮含量显著增加。在抽穗期，3种作物施加醋糟菌糠后微生物量氮达到最大，增长幅度也最大，说明此时醋糟菌糠发挥的作用最明显。从整体变化趋势看，微生物量氮在拔节期最小，之后呈增加趋势，成熟期又降低，从拔节期至抽穗期增长的幅度较大，其变化趋势在前期与放线菌、细菌、真菌的总体变化情况相符。其原因可能是随着作物生长逐渐加快，待其生长达到一定高峰后，作物对养分吸收增加，而土壤中氮有一部分以微生物活体形式固定，随着作物对氮需求的增多，微生物活体中所固定的氮便逐渐减少。另外，随着作物的生长，根际所分泌的碳物质增加，促进微生物对碳的固定，从而微生物生物量碳值在整个生长期整体呈现增长趋势。
+
+表2醋糟菌糠对3种作物不同生育期土壤酶活性的影响  
+表3醋糟菌糠对3种作物不同生育期土壤微生物碳氮的影响Table 3Effectofappliedfungus chafon microbial biomass carbonandnitrogenofthe three cropsatdiferent growth tages  
+
+<html><body><table><tr><td rowspan="2">作物 Corp</td><td rowspan="2">处理 Treatment</td><td colspan="3">微生物氮 Microbial biomass nitrogen (mg·kg-1)</td><td colspan="3">微生物碳 Microbial biomass carbon (mg·kg-1)</td></tr><tr><td>拔节期 Jointing stage</td><td>抽穗期 Heading stage</td><td>成熟期 Mature stage</td><td>拔节期 Jointing stage</td><td>抽穗期 Heading stage</td><td>成熟期 Mature stage</td></tr><tr><td>玉米</td><td>T0</td><td>11.98±2.03b</td><td>12.81±3.02b</td><td>13.99±5.09a</td><td>114.51±22.71ab</td><td>118.60±87.60ab</td><td>111.33±34.73b</td></tr><tr><td>Maize</td><td>T1</td><td>12.93±8.09b</td><td>19.52±0.23ab</td><td>17.23±0.09a</td><td>147.74±5.15a</td><td>131.94±31.86ab</td><td>304.15±29.51a</td></tr><tr><td>糯玉米</td><td>T0</td><td>15.50±3.12b</td><td>13.78±4.73b</td><td>16.45±3.11a</td><td>58.10±14.36b</td><td>70.98±42.68b</td><td>113.66±59.84b</td></tr><tr><td>Waxy-corn</td><td>T1</td><td>24.30±6.44a</td><td>27.55±9.59a</td><td>14.15±3.14a</td><td>117.41±34.41ab</td><td>106.64±74.52ab</td><td>170.93±44.22ab</td></tr><tr><td>高梁</td><td>T0</td><td>12.16±5.85b</td><td>13.98±5.56b</td><td>14.40±3.28a</td><td>115.97±0.86ab</td><td>112.08±57.13ab</td><td>180.77±20.81ab</td></tr><tr><td>Sorghum</td><td>T1</td><td>12.93±8.10b</td><td>25.47±14.06a</td><td>13.07±3.07a</td><td>152.55±20.78a</td><td>208.38±39.58a</td><td>407.67±66.12a</td></tr></table></body></html>
+
+# 3 讨论与结论
+
+菌糠中含有大量微生物可改变微生物数量，有可能促进有益菌的生长而抑制有害菌的繁殖，起到保护土壤的作用[19]，作为有机肥施入土壤中,可进一步分解为腐殖质，增加土壤有机质的含量，培肥地力，提高土壤生物活性，改善土壤理化性状，提高土壤保水、保肥和透气的性能[29]。本试验通过种植3种不同作物在施用醋糟菌糠后就微生物数量、土壤酶活性和微生物碳、氮的研究，结果表明：
+
+施用醋糟菌糠对土壤微生物数量有显著影响。任琳等[19]研究发现在施用菌糠后，真菌(有害菌)的数量减少，细菌和放线菌(有益菌)的数量呈现上升趋势。与本研究有关微生物数量的研究结论相似，醋糟菌糠施入后促进了细菌(有益菌)和放线菌(有益菌)的生长，抑制了真菌(有害菌)数量的增长。3种作物在生长过程中细菌数量增长高峰主要出现在抽穗期和收获期，而在拔节期较低。这是由于施用菌糠能够有效地增加保护地土壤有机质、速效磷和速效钾的含量，提高土壤肥力[30]，可以为土壤微生物的生长繁殖提供充足的碳源和氮源。同时醋糟菌糠的投入也为土壤增添了大量的外来菌群。施加醋糟菌糠的土壤放线菌数量在拔节期和抽穗期有少量增加，在作物成熟期开始显著增加。这可能与土壤养分供应快慢有关，由于醋糟菌糠处理提高了土壤速效性养分含量，及时供应了作物的生长和微生物的繁殖。土壤真菌数量在3种作物整个生育期都维持较低的水平，且施加醋糟菌糠后进一步抑制了真菌(有害菌)的繁殖。
+
+土壤酶主要来源于植物根系分泌物、动植物残体腐解过程和土壤微生物代谢过程。王腾等[31发现菌糠肥料可提高土壤中脲酶、过氧化氢酶和蔗糖酶活性，蔗糖酶最为明显，增幅最大为 $9 6 . 5 2 \text{‰}$ 说明菌糠肥料可提高土壤中上述3种酶活性，改善土壤微生物状况。与上述研究一致，3种作物在整个生育期施加醋糟菌糠处理的3种土壤酶活性均高于对照组。添加醋糟菌糠能明显增加土壤脲酶、蔗糖酶和过氧化氢酶的活性，且在抽穗期的变化最明显，说明施加醋糟菌糠后土壤微生物数量增多，土壤酶活性提高，有利于改善根际土壤的微生物结构，增强根际土壤脲酶、蔗糖酶和过氧化氢酶活性。作物成熟期土壤微生物量碳值最高，而其微生物量氮值则最低。吴海燕等[32]在长期定位施肥玉米生育期内微生物量碳、氮和微生物数量的动态变化研究中发现，在相同玉米各生育期内，施肥处理与CK相比，黑土中微生物量碳、氮和微生物数量明显提高。醋糟菌糠的施用可以促进微生物数量的增加，进而促进土壤微生物生物量碳、氮的增加，随着作物的生长，醋糟菌糠的促进作用增强。当作物生长到成熟期时，土壤微生物生物量碳值最大，但土壤微生物生物量氮受到抑制作用，可能是由于作物生长后期对氮元素需求量增加，将微生物活体中所固定的一部分氮吸收的缘故
+
+醋糟菌糠作为一种被二次废物利用的有机肥料施入土壤中，通过对3种不同作物的各时期生长情况的观察发现醋糟菌糠的施入明显促进土壤中有益菌的生长，抑制有害菌的繁殖，一般来说，土壤中细菌、放线菌密度越高，该土壤的肥力水平也就越高[29]。显著提升土壤脲酶、蔗糖酶和过氧化氢酶的活性，有利于改善土壤微生物状况。施入醋糟菌糠后微生物量碳量增加，说明醋糟菌糠对微生物量碳的提高有积极作用。微生物碳氮及土壤呼吸可以反映土壤质量的变化，作为评价土壤肥力的生物学指标[33]。施用醋糟菌糠处理较未施肥对照组更有利于提高土壤生物活性，极大地增加土壤酶活性和微生物数量，增加土壤中氮素营养和碳的含量。说明醋糟菌糠含有较高的营养物质，可有效改善根际的生态环境，是可以被利用的基质，为解决食用菌菌糠污染环境提供理论参考。
+
+# 参考文献References
+
+[1]廖婷，王印召，邱俊，等．醋菌糠添加强化制备功能性酱油 成曲的初步探讨[J]．中国调味品,2015,40(11):10-13 Liao T,Wang Y Z,Qiu J,et al. Preliminary discussion on functional soy sauce Koji prepared by adding residue from edible fungi cultivated with vinegar spent grains[J].China Condiment,2015,40(11): 10-13   
+[2] 杨庆文，彭晓光，杨林娥，等．醋糟的开发与利用[J]．山西 农业科学,2009,37(2):44-46 Yang Q W,Peng XG,Yang L E,et al. The utilisation of vinegar-waste[J].Journal of Shanxi Agricultural Sciences, 2009, 37(2): 44-46   
+[3]Grigatti M,Giorgioni M E,Ciavatta C.Compost-based growing media: Influence on growth and nutrient use of bedding plants[J].Bioresource Technology，2007,98(18): 3526-3532   
+[4]周飞．菌糠在肥料上的利用[J]．土壤肥料,1991(3):42-43 Zhou F.Utilization of fungus chaff in fertilizer[J].Soils and Fertilizers,1991(3): 42-43   
+[5]李振高，骆永明，腾应．土壤与环境微生物研究法[M]．北 京：科学出版社,2008:58 Li Z G,Luo Y M,Teng Y. Soil and Environmental Microbiology Research Method[M].Beijing:Science Press, 2008: 58   
+[6]肖嫩群，张杨珠，谭周进，等．稻草还田翻耕对水稻土微生 物及酶的影响研究[J]．世界科技研究与发展，2008，30(2): 192-194 Xiao N Q, Zhang Y Z,Tan ZJ,et al. Study on the effect of rice-straw returned to field on microbes and enzymes in paddy soil with tillage[J].World Sci-Tech R & D,2008,30(2): 192-194   
+[7]谢放，魏孔丽，陈京津，等．香菇渣对土壤微生物和酶活性 的影响[J]．湖南农业科学,2010(5):54-58 Xie F,Wei KL,Chen JJ,et al.Effects of mushroom residue on soil microorganism amount and soil enzyme activity[J]. Hunan Agricultural Sciences, 2010(5): 54-58   
+[8]马晓霞，王莲莲，黎青慧．长期施肥对玉米生育期土壤微 生物量碳氮及酶活性的影响[J].生态学报，2012，32(17): 5502-5511 activities during maize growing season[J].Acta Ecologica Sinica,2012,32(17): 5502-5511   
+[9] 吕军，文庭池，郭坤亮，等．酒糟生物有机肥和微生物菌剂 对土壤微生物数量及高梁产量的影响[J]．农业现代化研究, 2013,34(4):502-506 Lü J,Wen T C,Guo K L,et al. Effects of distiller's grains bio-organic fertilizer and microbial agent on microbial quantities and sorghum yield[J]. Research of Agricultural Modernization,2013,34(4): 502-506   
+[10]贾伟，周怀平，解文艳，等．长期有机无机肥配施对褐土微 生物生物量碳、氮及酶活性的影响[J]．植物营养与肥料学 报,2008,14(4): 700-705 Jia W，Zhou H P,Xie W Y,et al.Effects of long-term inorganic fertilizer combined with organic manureon microbial biomass C,N and enzyme activity in cinnamon soil[J]. Journal of Plant Nutrition and Fertilizer,2oo8,14(4): 700-705   
+[11]马宁宁，李天来，武春成，等．长期施肥对设施菜田土壤酶 活性及土壤理化性状的影响[J]．应用生态学报,2010,21(7): 1766-1771 Ma N N,Li T L，Wu C C,et al.Effects of long-term fertilizationonsoilenzymeactivitiesandsoil physicochemical properties of facility vegetable field[J]. Chinese Journal of Applied Ecology,2010,21(7):1766-1771   
+[12]鲁艳红，杨曾平，郑圣先，等．长期施用化肥、猪粪和稻草 对红壤水稻土化学和生物化学性质的影响[J].应用生态学 报,2010,21(4):921-929 Lu Y H, Yang Z P,Zeng S X,et al. Effects of long-term application of chemical fertilizer, pig manure,and rice straw on chemical and biochemical properties of reddish paddy soil[J].Chinese Journal of Applied Ecology,2010,21(4): 921-929   
+[13]李娟，赵秉强，李秀英，等．长期有机无机肥料配施对土壤 微生物学特性及土壤肥力的影响[J]．中国农业科学，2008, 41(1): 144-152 Li J, Zhao B Q,Li X Y,et al. Effects of long-term combined application of organic and mineral fertilizerson soil microbiological propertiesand soil fertility[J].Scientia Agricultura Sinica,2008,41(1): 144-152   
+[14] Ndayeyamiye A, Coté D.Effect of long-term pig slurry and solid cattle manure application on soil chemical and biological properties[J]. Canadian Journal of Soil Science, 1989, 69(1): 39-47   
+[15] Nanda S K,Das P K,Behera B. Effects of continuous manuring on microbial population,ammonification and $\mathrm { C O } _ { 2 }$ evolution in a rice soil[J]. Oryza,1998,25(4): 413-416   
+[16] Abbott L K,Murphy D V.Soil Biological Fertility[M]. Netherlands: Kluwer Academic Publishers,2003   
+[17] 沈其荣，史瑞和．土壤预处理对不同起源氮矿化的影响[J]. 南京农业大学学报,1991,14(1): 54-58 Shen Q R,Shi R H. The effect of soil pretreatment on the mineralization of nitrogen deprived from different forms[J]. Journal of Nanjing Agricultural University，1991，14(1):   
+[18] Ocio JA, Brookes P C,Jenkinson D S.Field incorporation of straw and its effects on soil microbial biomass and soil inorganic [J]. Soil Biology and Biochemistry,1991,23(2): 171-176   
+[19]任琳，张玉龙，黄毅，等．菌糠对保护地土壤微生物区系影 响的研究[J].土壤通报,2009,40(3):563-567 Ren L,Zhang Y L, Huang Y, et al. Research on fungus chaffs impact on the soil microbe flora in the greenhouse[J]. Chinese Journal of Soil Science,2009,40(3): 563-567   
+[20]VarmaA，Oelmuller R. Advanced Techniques in Soil Microbiology[J]. Soil Microbiology,2007(11): 202-207   
+[21]姚槐应，黄昌勇．土壤微生物生态学及其实验技术[M]．北 京：科学出版社,2005 Yao H Y,Huang C Y. Soil Microbial Ecology and the Experimental Techniques[M]. Beijing: Agricultural Press, 2005   
+[22]鲍士旦．土壤农化分析[M]．北京：中国农业出版社,1981 Bao S D.Soil and Agricultural Chemistry Analysis[M]. Beijing: Agricultural Press,1981   
+[23] 鲁如坤．土壤农业化学分析方法[M]．北京：中国农业科技 出版社,2000 Lu R K. Soil and Agricultural Chemistry Analysis[M]. Beijing:China Agricultural Sciences Press,2000   
+[24]鲍士旦．土壤农化分析[M].3版．北京：中国农业出版社, 2000:25-200 Bao S D.Soil and Agricultural Chemistry Analysis[M]. 3rd ed. Beijing: China Agricultural Press,20oo: 25-200   
+[25]李志萍，吴福忠，杨万勤，等．川西亚高山森林林窗不同时 期土壤转化酶和脲酶活性的特征[J]．生态学报，2015, 35(12):3919-3925 Li Z P,Wu F Z, Yang W Q,et al. Soil invertase and urease activities at diferent periods in subalpine forest gap in western Sichuan[J].Acta Ecologica Sinica,2015,35(12): 3919-3925   
+[26]苏立涛，沈向，郝云红，等．有机物料对连作平邑甜茶幼苗 生长及微生态环境的影响[J]．中国农学通报，2010,26(20): 187-192 Su L T, Shen X, Hao Y H,et al. Effects of organic materials on the growth of Malus hupehensis var. Pingyiensis and its microecological environment underreplant[J]. Chinese Agricultural Science Bulletin,2010,26(20): 187-192   
+[27]樊红科，杜志辉，吴岱彦，等．渭北高原不同施肥方案土壤 效应及对再植苹果生长发育的影响[J]．干旱地区农业研究, 2009,27(1): 56-61 Fan $\mathrm { ~ H ~ K ~ }$ ,Du Z H,Wu D Y,et al.Effects of application of fertilizer on soil and growth of the replanted apple in Weibei highland orchard[J].Agricultural Research in the Arid Areas, 2009,27(1): 56-61   
+[28] 张立恒，李坤，胡熙禧，等．施入有机物料对葡萄连作土壤 有机质含量及酶活性的影响[J]．北方园艺，2015(3): 160-162 Zhang L H,LiK,Hu X X,et al. Effect of organic materials on organic matter content and enzyme activity in grape replant soil[J]. Northern Horticulture,2015(3): 160-162   
+[29]代立兰，张怀山，夏曾润，等．有机废弃物菌糠和醋糟对次 生盐渍化土壤修复效果研究[J].干旱地区农业研究，2014, 32(1):218-222 DaiLL,ZhangH S,Xia ZR,et al.Effect of mushroom bran andvinegar residueonsecondary salinization soil[J]. Agricultural Research in the Arid Areas,2014,32(1): 218-222   
+[30]关跃辉，李玉荣，张树槐．食用菌菌糠对保护地土壤的改 良效果[J]．安徽农业科学,2008,36(5):1955-1956 GuanYH,LiYR,Zhang SH.Research on the improvement effect of germ bran from edible fungi culture on the soil in protected land[J].Journal of Anhui Agricultural Sciences, 2008,36(5): 1955-1956   
+[31]王腾，王效举，张建国，等．不同菌糠肥料对污灌区玉米生 长、土壤Cu形态及酶活性的影响[J].灌溉排水学报,2015, 34(10):40-44 WangT,Wang XJ,ZhangJG,et al.Effects of different bacterial chaff fertilizers on speciation of sewage irrigation pollution soil copper form and soil enzyme activity[J]. Journal of Irrigation and Drainage,2015,34(10): 40-44   
+[32]吴海燕，范作伟，孙甜田，等．长期定位施肥玉米生育期内 微生物量碳、氮和微生物数量的动态变化[J]．玉米科学, 2016,24(2):147-154 Wu H Y,Fan Z W,Sun T T,et al.Dynamic changes of microbial biomass carbon,nitrogen and microbial quantity in maize growth period under long-term fertilization[J].Journal of Sciences,2016,24(2):147-154   
+[33]臧逸飞，郝明德，张丽琼，等.26年长期施肥对土壤微生物 量碳、氮及土壤呼吸的影响[J].生态学报，2015，35(5): 1445-1451 Zang YF,Hao MD,ZhangLQ,et al.Effects of wheat cultivation and fertilization on soil microbial biomass carbon, soil microbial biomass nitrogen and soil basal respiration in 26 years[J].Acta Ecologica Sinica,2015,35(5):1445-1451

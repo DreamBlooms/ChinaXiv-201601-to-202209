@@ -1,0 +1,169 @@
+# 代谢组学及其在动物营养中的应用
+
+王郝为 吴端钦\*
+
+（中国农业科学院麻类研究所，长沙410205）
+
+摘要：代谢组学是对内源性代谢物的综合评估，可以实现来自生物样品的代谢物及其相关代谢途径的分离、检测、表征和定量，以此来反映生物机体的营养代谢变化、营养状况甚至一些疾病的发展程度等。然而，代谢组学技术在动物营养中的研究起步较晚，目前尚处于起始阶段，不过随着代谢组学研究平台的不断完善，该技术在动物营养中的应用价值必将日渐突出。本文就代谢组学的概念特点、分析技术及其在动物营养中的应用作一综述。
+
+关键词：代谢组学；动物营养；应用进展中图分类号：Q343.1 文献标识码：A 文章编号：
+
+随着后基因时代的到来以及科学技术的不断进步，动物营养学已由传统地研究养分消化吸收、养分的功效、饲料的营养价值以及动物营养需要量逐步扩展到营养物质调节机制、宏观层次的营养信息传递机制、动物机体自我营养调控功能以及环境对机体营养代谢影响的机制等多个方面[。因此，传统的动物营养分析手段诸如化学分析、消化代谢试验、平衡试验以及饲养试验技术等，已无法满足动物营养研究中越来越大的技术需求[2-3]。而代谢组学技术可以揭示生物反应过程以及代谢通路中的代谢规律，从而发掘在疾病诊断和营养评定时的潜在生物标记物，这为动物营养研究提供了重要的新思路[4-5]。
+
+然而，代谢组学作为一种最新的组学技术之一，是一个多学科交叉的技术手段，需要使用1种或多种精密的测量仪器，样品处理及分析技术要求高，标准的代谢物图谱库需要进一步完善且数据分析挖掘复杂，这些在一定程度上制约了代谢组学技术在动物营养中的应用。本文综述了代谢组学的概念特点、分析技术及其在动物营养中的应用，并从研究营养干预对动物机体的影响、动物营养需要量、内源性代谢物与个体间的代谢差异以及动物疾病机制和诊断4个方面介绍了代谢组学在动物营养研究中的具体应用，以期为代谢组学技术在动物营养研究中的广泛应用提供参考依据。
+
+# 1代谢组学的概念和特点
+
+代谢组是指某一生物或细胞所有的代谢物，而代谢组学则是动物体对内外界刺激前后所产生的小分子代谢物（分子质量小于 $\mathrm { ~ 1 ~ } 0 0 0 \mathrm { ~ u }$ ）及其相关代谢途径的定性和定量分析，进而研究动物整体的系统代谢图谱和功能调控，揭示动物机体代谢本质的新兴技术和新兴学科[6-7]。代谢组学按其研究目的可分为靶向和非靶向代谢组学，其中，靶向代谢组学一般是关注1种或几种相关的代谢通路，并通过对比样品和标准品定量特定的代谢物8；而非靶向代谢组学则是全面检测生物体整个代谢组，寻找并分析尽可能多的代谢通路，并鉴定差异代谢物的化学结构[9]。目前大多数的代谢组学研究都是以非靶向为研究策略[10]。
+
+代谢组学虽可以说是基因组学和蛋白质组学的延伸，但相比这2种组学，代谢组学技术具有许多优点。基因组学和蛋白质组学是分别从基因和蛋白质的水平研究动物机体的，而实际上某一个基因或蛋白质的丢失可能会因其他的基因或蛋白质而得到补偿，结果对动物机体未造成损伤，因此，研究对象针对小分子质量代谢物的代谢组学技术才能够准确地诠释生物体的生命活动[I]。并且，代谢物的种类和数目远少于基因和蛋白质，分子结构也相对较简单，代谢组学研究中更是放大了基因和蛋白质表达的微小变化，再加上不需建立全基因组测序及大量表达序列标签的数据库，使代谢组学检测技术相对较容易[2]。此外，代谢物在各个生物体系中都是一致的，所以代谢组学研究中所采用的技术更通用也更易被人们接受。
+
+# 2代谢组学的分析技术
+
+代谢组学的研究过程一般包括样品的制备、数据的采集、数据预处理、模式识别分析与生物机理分析等步骤[13]。代谢组学技术的最大优势在于可以借助不同的现代分析技术，定性、定量研究细胞提取物、组织提取物（药物、病毒、细菌）以及各种体液（血液、尿液、唾液、脑脊液等）的代谢图谱，并结合模式识别分析法得到图谱的特征变量[14]，再依照代谢组学数据库鉴定相应的代谢物，从而通过了解这个代谢物的代谢通路或代谢途径对动物体的生命活动进行诠释[15]。
+
+目前，代谢组学的分析技术为高通量检测技术和数据处理技术。常用的代谢组学检测技术有核磁共振（NMR）、气相色谱-质谱联用（GC-MS）和液相色谱-质谱联用（LC-MS）。
+
+其中最常见的是NMR，此技术由于具有对样品损伤性小、检测无偏向、样品用量少、预处理简单以及测定时间短等优点，广泛应用于样品中成分比较复杂的分析检测[16-17]；GC-MS技术适用于检测分子量比较小的代谢物[18]，它的优点是标准谱的图库比较完整、分辨率高以及分离效果好[19]，但此技术很难对样品中难挥发的代谢物进行分析；LC-MS 技术可以很好地补充甚至替代GC-MS 技术[20]，在代谢组学中的应用越来越广泛，现已拓展到高效液相色谱-质谱联用（HPLC-MS）和超高效液相色谱-质谱联用（UPLC-MS），此类技术具有选择性好、灵敏度高及动态范围宽的优点[21]。另外，代谢组学的数据处理技术包括以模式识别分析为主的基础数据分析和更深层次的个性化数据分析[22]。模式识别分析的目的是应用一系列的化学计量学和多元统计分析方法得到图谱的特征变量，它一般包括主成分分析（PCA）、偏最小二乘法判别分析（PLS-DA）和正交偏最小二乘法判别分析（OPLS-DA）等[23-24]。数据深层次挖掘分析有助于我们找到关键代谢通路，如差异代谢物的京都基因与基因组百科全书（KEGG）分析和层次聚类分析等[25-26]，通过对这些代谢和调控通路的分析可以更全面、系统地了解试验条件改变导致的生物学过程的改变、性状或疾病的发生机理和药物作用机制等生物学问题。
+
+# 3代谢组学在动物营养研究中的应用
+
+在动物营养学中，营养物质代谢的生理、生化机制是很重要的研究内容，然而在这方面研究中过去一直受制于技术落后，不过随着代谢组学技术的应运而生及蓬勃发展，动物营养学研究的瓶颈逐渐得到了缓解。代谢组学在动物营养研究中的应用主要包括营养干预对动物机体的影响、动物营养需要量的估测、内源性代谢物和个体间的代谢差异以及动物疾病机制和诊断等。
+
+# 3.1评价营养干预对动物机体的影响
+
+代谢组学技术在营养干预对动物机体影响的研究中发挥着巨大作用，主要通过研究营养干预引起的内源性代谢物的变化，从而反映动物体内代谢过程和状态的变化。通过调整营养干预促使动物达到最佳健康状况是今后动物营养学发展的主流方向。
+
+谷氨酰胺作为断奶仔猪肠细胞代谢的能量物质具有非常重要的作用，肖英平[27]应用GC-MS代谢组学技术研究了仔猪早期断奶与饲粮中补充谷氨酰胺对血清代谢物的影响，发现了仔猪在早期断奶下碳水化合物、氨基酸和脂质的代谢途径，并通过PCA 模式识别法发现饲粮中添加谷氨酰胺能提高仔猪血清肌酐、D-木糖、2-羟丁酸、反式-9-十六烯酸和 α-L-呋喃半乳糖的含量，从而改善仔猪的代谢过程。这表明利用代谢组学技术可以充分了解谷氨酰胺在仔猪营养中的作用机制，这对养猪生产具有重要的指导意义。Sun 等[28]应用UPLC-MS代谢组学技术检测了饲喂高脂肪饲粮和基础常规饲粮的猪的血浆、粪便和尿液样品，通过代谢组学的层次聚类分析，发现胆汁酸、脂质代谢物、脂肪酸、氨基酸、磷脂酸、磷脂酰甘油、甘油磷脂、磷脂酰胆碱和三肽等差异代谢物在喂食猪不同饲粮后具有共同的变化特征，并推测可将差异最显著的代谢物作为生物标志物，用于鉴定与饲粮不当造成的相关代谢紊乱情况。聂存喜等[29]通过LC-MS 代谢组学技术采集了饲用不同棉籽粕源发酵饲粮的鸡血浆图谱，PLS-DA模式识别法发现，与对照组相比，假丝酵母发酵组的磷脂酰胆碱、磷脂酰乙醇胺、胆固醇酯、鞘磷脂、甘油二酯和甘油三酯含量，酿酒酵母发酵组的磷脂酰胆碱、胆固醇酯、鞘磷脂、甘油二酯和甘油三酯含量，复合发酵组的磷脂酰胆碱、磷脂酰乙醇胺和甘油二酯含量均极显著升高，将这些差异代谢物进行 KEGG 分析发现它们均为脂类代谢物，这说明饲粮中添加棉籽粕源微生物发酵饲粮后，鸡血浆中脂类代谢增加。代谢组学技术为微生物发酵饲料在饲料合理配制以及动物的健康养殖上提供了一定的理论依据，具有重要的生产实践意义。王小雪[30]采用 NMR 代谢组学技术采集了给予不同蛋白质含量饲粮的家猫尿样中小分子代谢物的指纹图谱，结合PCA 和PLS-DA 模式识别法发现，高蛋白质和低蛋白质饲粮营养干预前后以及不同含量蛋白质饲粮干预组之间家猫尿液内源性代谢物水平存在差异,经进一步利用 KEGG 分析等代谢网络数据库发现，牛磺酸、尿素等代谢物的相对含量存在显著变化。因此，此研究可从代谢物的角度证实营养干预对动物机体的影响。林刚[31对宫内生长受限和正常胎猪生物体液进行了差异代谢组学分析，发现葡萄糖、果糖、尿素、氨、氨基酸和脂类等代谢物存在显著性差异，并通过在生理浓度范围内用谷氨酰胺和果糖培养猪胚胎滋养层细胞，证实了它们可作为生物活性因子分别或协同性促进胎盘的磷酸戊糖循环活性，改善胚胎和孕体的发育。这项研究表明，能够通过谷氨酰胺或果糖干预来缓解宫内生长受限猪的胎盘磷酸戊糖途径受损导致母体供给胎猪的营养物质差异等问题，这对降低新生猪及其后续生长发育过程中的发病率和死亡率具有重大指导意义。霍文婕[32用不同玉米添加水平（0、$2 5 \%$ 和 $5 0 \%$ ）的高谷物饲粮饲喂山羊，并运用GC-MS 代谢组学分析手段，同时结合PCA 和PLS-DA 模式识别法对山羊瘤胃代谢产物进行分析，发现高谷物饲粮能够显著影响瘤胃发酵以及降低瘤胃微生物多样性，并成功找出内毒素和生物胺等78种特征代谢产物。此研究表明可利用代谢组学技术研究营养干预对动物瘤胃微生物的影响，这为进一步研究瘤胃微生物学机制提供了试验依据和理论基础。
+
+# 3.2在动物营养需要量评估中的应用
+
+营养物质摄入过多或者不足都可能导致动物体内正常的代谢平衡失调，因此考量动物营养的需要量是动物营养研究中的必需问题。应用代谢组学技术评价动物营养需要量，是通过分析摄入过多或不足的营养物质时的相关代谢产物，从而确定常量营养物质的适宜需要量。
+
+时梦[33利用代谢组学技术分析了在能量不足或过量摄入情况下母猪血液的代谢途径，首先将得到的差异生物标志物进行PCA 和PLS-DA 模式识别法分析，进一步根据化合物的质量数，结合 METLIN（ttp://metlin.scripps.edu）、ChemSpider （tp://ww.chemspider.com/)和 KEGG 等数据库找到差异代谢物，发现能量摄入不足会引起母猪血中葡萄糖和胆固醇含量过低，导致促黄体分泌不足，最终使母猪发情推迟或者不发情；而能量过量摄入会导致胆汗酸代谢紊乱及鞘氨酸代谢紊乱，同时磷脂酰肌醇和磷脂酰甘油含量均大幅度下调，影响细胞膜正常功能。上述研究表明，可以利用代谢组学技术对后备母猪初情启动以及配种2个阶段适宜的净能需要量进行有效评估。Metzler 等[34]对摄入高钙水平的猪血清进行了LC-MS代谢组学分析，PLS-DA模式识别分析法表明，已糖可能是钙过量摄入时的标识物，通过定量特定生物标识物可以辅助评价动物某营养物质需要量。Noguchi 等[35]对摄入不同蛋白质含量饲粮的大鼠血浆进行了代谢组学分析，发现了在蛋白质大量摄取状态下氨基酸的关键代谢通路，并指出蛋白质的大量摄取表现为靶组织中累积高浓度的氨基酸或产生有毒的代谢产物，从而使正常的代谢途径发生改变，并且可以此确定常量蛋白质的适宜用量。Zhou 等[36]利用基于GC-MS 代谢组学技术探究动物的蛋白质需要量，给猪长期饲喂低蛋白质饲粮后，猪盲肠中异丁酸酯和异戊酸酯的浓度降低，这表明此2种物质可能为猪的蛋白质需要量提供依据。Ruan 等[37]利用 NMR代谢组学技术并结合PCA 模式识别分析法探究了补充色氨酸对大鼠血清代谢的影响，发现色氨酸补充组的大鼠血清中尿素和胆固醇含量降低，并由此推论，尿素和胆固醇含量可能为该动物的色氨酸需要量提供依据。这些试验均充分表明，代谢组学技术可以通过构建基于代谢标识物的营养需要量评估模型，对动物营养物质的需要量进行辅助评价和科学描述。
+
+# 3.3用于研究内源性代谢物和个体间的代谢差异
+
+随着人民生活水平的不断提高,动物营养学研究的目标已由简单地追求动物生产数量的经济指标,扩展到追求动物健康、产品品质等方面。然而由于遗传、动物生命活动、肠道微生物代谢、饮食和饲养环境等的不同，不同动物的代谢状态或过程具有一定的差异，这对以动物性产品作为重要食物来源的人类带来了极大的健康隐患。通过内源性代谢产物的差异区分生物个体及动物所处的内外环境等是今后动物营养学研究中比较有前景的方向。
+
+Bovo 等[38]利用 LC-MS 代谢组学技术对意大利大白猪和杜洛克猪血浆及血清中差异生物标志物进行了检测分析，结合PLS-DA模式识别分析法研究了不同物种之间的关键物质代谢途径。此研究可以为动物育种及营养研究中评估相关生物标记物提供参考。Wang 等[39]基于 NMR代谢组学技术，并结合多种模式识别分析方法研究了北京鸭和临武鸭的胸肌肌肉代谢物组成，发现临武鸭胸肌肌肉具有较高的丝氨酸、肌肽和烟酰胺含量，但琥珀酸、肌酸和肌醇的含量较低，这说明不同品种的动物可能具有不同的肉类代谢物组成。Trabi 等[40]采用NMR 代谢组学技术对在-20℃保存2到15年不等的小母牛的血浆进行了分析，结果显示甜菜碱含量与牛的血浆存储时间相关性很强，可用于识别不同存储时间的牛血浆。Jung 等[41]从对来自 4 个国家的牛肉提取物的氢核磁共振('H-NMR)图谱的统计分析中得到了异亮氨酸、亮氨酸、甲硫氨酸、酪氨酸和缬氨酸等差异代谢物，并指出这些氨基酸可以用于作为区分牛肉地理来源的生物标志物。Regal 等[42]对外源性施用性类固醇激素条件下的奶牛血清样进行了HPLC-MS 代谢组学分析，发现了雌二醇和孕酮2种差异代谢物，并将其进行代谢通路分析发现，二者含量发生显著变化与外源性施用激素密切相关，从而指出了雌二醇或孕酮可能作为识别非法施用激素的奶牛的潜在标志物。Lu 等[43]应用 NMR 代谢组学技术，结合多种模式识别分析方法找出了暴露在工业有机磷下和正常生活环境小鼠尿液的差异代谢物，并推测可根据 KEGG 分析找到所有差异代谢物参与的代谢通路，进而估测工业有机磷环境影响小鼠的病机，此研究也表明 NMR代谢组学技术可以识别暴露在有机污染物下的小鼠。许梅燕等[44基于GC-MS 代谢组学技术，采用 PCA 模式识别方法研究发现鸡肝中的棕榈油酸、亚油酸、油酸及硬脂酸含量随着饲粮中叶黄素添加水平的增大而增大；鸡肉和鸡肝中的丙二酸含量随着饲粮中苏丹红添加水平的增大而增大，甲基吡喃半乳糖苷的含量则随之减小，推断这几种物质可分别视为叶黄素及苏丹红在鸡体内引起内源性代谢物变化的潜在生物标记物，这对实现对禽产品中色素残留的溯源分析大有裨益。这些研究结果都表明，通过代谢组学技术可以区别出不良动物个体及其潜在隐患来源，这对动物及人类健康起着非常重要的作用。
+
+# 3.4在动物疾病机制和诊断上的应用
+
+在动物营养学的研究中，动物的健康是最基本和重要的要求。代谢组学技术可用于研究动物在病理状态下的代谢过程和特定生物标志物，以及某营养物质对机体疾病的改善作用，为动物疾病的诊断和治疗提供强大的现代化技术手段。
+
+肉鸡腹水综合征是危害世界肉鸡生产的一种重要营养代谢病，施寿荣[45]利用UPLC-MS代谢组学技术分析了腹水综合征肉鸡的血清样，发现了患病状态下脂类物质代谢途径，并根据查找代谢通路数据库，发现二羟基丙酮可能是腹水综合征肉鸡的潜在代谢标志物。这说明可以通过代谢组学技术深入研究肉鸡腹水综合征的发病机理，从而采取有效的措施降低其发病率，这对促进肉鸡产业的健康发展具有十分重要的意义。孙玲伟等[46基于GC-MS 代谢组学技术，结合多种模式识别法成功地发现酮病奶牛和健康奶牛的血浆差异代谢物为 32 个，并且临床和亚临床酮病奶牛血浆间也存在13个差异代谢物，将这些差异代谢物进一步进行KEGG分析发现，它们主要涉及氨基酸代谢、脂肪代谢和碳水化合物代谢等能量代谢途径。这证明代谢组学技术可以有效区分健康、临床和亚临床酮病奶牛，从而为奶牛酮病的估测和预防提供了新思路。Bertram 等[47]利用 NMR 代谢组学技术研究了以黑麦为主的富含纤维的饲粮对高胆固醇血症猪内源性生化效应的影响，发现高胆固醇血症猪摄入高纤维黑麦饲粮后，血浆碱含量增加，并找出了评价血浆碱含量的标识物，这对高胆固醇血症的缓解及治疗有一定的指导意义。Hailemariam 等[48]通过LC-MS 代谢组学技术对围产前期和围产后期奶牛进行了分析，发现肉毒碱和丙酰肉毒碱可能成为预防奶牛围产期疾病的生物标志物，这对提高牛群生产性能、减少疾病发生提供了重要的参考依据。田忠[49]利用UPLC-MS 和 NMR代谢组学技术建立了糖尿病小型猪和非糖尿病小型猪急性缺血心肌小分子代谢产物的指纹图谱，并结合临床生理生化指标和网络数据库对指纹图谱进行统计分析，鉴定出必需脂肪酸花生四烯酸可能成为糖尿病心肌缺血诊治和预后相关标志物的候选分子。Xiong 等[50采用GC-MS 代谢组学技术研究了热应激条件下多酚对肉仔鸡的影响，发现了热应激条件下肉仔鸡的谷胱甘肽过氧化物酶、鸟氨酸脱羧胶原酶活性及表皮生长因子、表皮生长因子受体含量存在差异，并经差异代谢物的 KEGG 分析发现多酚可能通过涉及能量代谢、碳水化合物代谢、氨基酸代谢和谷胱甘肽代谢等对热应激小鸡的代谢机制产生影响。在养禽业集约化规模化发展的时代，利用代谢组学技术可以发掘出缓解热应激的有效措施,这对指导生产有着十分重要的意义。
+
+4展望
+
+与基因组学、蛋白质组学相比，代谢组学更能体现动物机体对环境刺激或改变的反应，而且代谢物是体现在代谢通路上的，因此借助代谢组学与胃肠道微生物的关联分析将是动物营养研究中常用的方法。然而，鉴于目前代谢组学分析技术有限，仅凭一个检测技术不能够同时对所有的代谢物进行数据采集；并且，代谢组学研究获得的数据往往都非常复杂，目前还没有有效的数据处理技术可以将得到的全部信息进行分析和解释。因此在今后的研究中，构建完善的检测技术体系以及开发有效的数据处理技术，是代谢组学在动物营养领域广泛应用的必要条件。
+
+# 参考文献:
+
+[1]卢德勋.国际动物营养学发展形势和我们的任务[J].畜牧与饲料科 学,2010,31(6/7):449-453.   
+[2] DRACKLER J K,DONKIN S S,REYNOILDS C K.Major advances in fundamental dairy cattle nutrition[J].Journal of Dairy Science,2006,89(4):1324-1336.   
+[3]CORELLA D,COLETLL O,MATTINGLEY G,et al.Utilizing nutritional genomics to tailor diets for the prevention of cardiovascular disease:a guide for upcoming studies and implementations[J].Expert Review of Molecular Diagnostics,2017,17(5):495-513.   
+[4] GARCIA C J,GARCIA-VILLALBA R,GARRIDO Y,et al.Untargeted metabolomics approach usingUPLC-ESI-QTOF-MStoexplorethemetabolomeoffresh-cuticeberg lettuce[J].Metabolomics,2016,12(8):138.
+
+[5]SUN H Z,WANG D M,WANG B,et al.Metabolomics of four biofluids from dairy cows:potential biomarkers for milk production and quality[J].Journal of Proteome Research,2015,14(2):1287-1298.
+
+[6]NICHOLSON J K,CONNELLY J,LINDON J C,et al.Metabonomics:a platform for studying drug toxicity and gene function[J].Nature Reviews Drug Discovery,20O2,1(2):153-161.
+
+[7]MULLERM,KERSTENS.Nutrigenomics:goalsandstrategies[J].Nature Reviews Genetics,2003,4(4):315-322.
+
+[8] LANE A N,FAN T W M.NMR-based stable isotope resolved metabolomics in systems biochemistry[J].Archives of Biochemistry NMR,2017,49(3/4):267-280.
+
+[9]GARCIA-VILLALBA R,TOMAS-BARBERAN F A,FANCA-BERTHON P,et al.Targeted and untargeted metabolomics to explore the bioavailability of the secoiridoids from a seed/fruit extract (Fraxinus angustifolia Vahl) in human healthy volunteers:a preliminary study[J].Molecules,2015,20(12):22202-22219.
+
+[10]VELENOSI T J,HENNOP A,FEERE D A,et al.Untargeted plasma and tissue metabolomics in rats with chronic kidney disease given AST-12O[J].Scientific Reports,2016,6:22526.
+
+[11] TAYLOR J,KING R D,ALTMANN T,et al.Application of metabolomics to plant genotype discrimination using statistics and machine learning[J].Bioinformatics,2oo2,18 （ Suppl 2） :241-248.
+
+[12] FANG N H,YU S G,RONIS MJ J,et al.Matrix efects break the LC behavior rule for analytes in LC-MS/MS analysisofbiologicalsamples[J].Experimental Biology and Medicine,2015,240(4):488-497.
+
+[13]WENNER M I,MAKER G L,DAWSON L F,et al.The potential of metabolomic analysis techniques for the characterisation of αl-adrenergic receptors in cultured N1E-115 mouse neuroblastoma cells[J].Cytotechnology,2016,68(4):1561-1575.
+
+[14]STOYANOVA R,BROWN T R.NMR spectral quantitation by principal component analysis: III.A generalized procedure for determination of lineshape variations[J].Journal of Magnetic Resonance,2002,154(2):163-175.
+
+[15]WELJIE A M,DOWLATABADI R,MILLER B J,et al.An inflammatory arthritis-associated metabolite biomarker pattern revealed by $\mathrm { ^ { 1 } H }$ -NMR spectroscopy[J].Journal of Proteome Research,2007,6(9):3456-3464.
+
+[16]MARKLEY J L,BRUSCHWEILER R,EDISON A S,et al.The future of NMR-based metabolomics[J].Current Opinion in Biotechnology,2017,43:34-40.
+
+[17]PUDAKALAKATTI S M,DUBEY A,JAIPURIA G,et al.A fast NMR method for resonance assignments:application to metabolomics[J].Journal of Biomolecular NMR,2014,58(3):165-173.
+
+[18]SZOBOSZLAI N,GUO X H,OZOHANICS O,et al.Determination of energy metabolites in cancer cells by porous graphitic carbon liquid chromatography electrospray ionization mass spectrometryfor the assessmentofenergymetabolism[J].AnalyticaChimica Acta,2014,819:108-115.
+
+[19]LIU M L,ZHENG P,LIU Z,et al.GC-MS based metabolomics identification of possible novel biomarkersforschizophrenia in peripheral blood mononuclearcells[J].Molecular BioSystems,2014,10(9):2398-2406.
+
+[20]PERROT-DOCKES M,LEVY-LEDUC C,CHIQUET J,et al.A multivariate variable selection approach for analyzing LC-MS metabolomics data[J/OL]. [2017-06-08][2017-05-31].https://arxiv.0rg/abs/1704.00076.
+
+[21]VINAIXA M,SCHYMANSKI E L,NEUMANN S,et al.Mass spectral databasesfor LC/MS-and GC/MS-based metabolomics:State of the field and future prospects[J].TrAC: Trends in Analytical Chemistry,2016,78:23-35.
+
+[22]DAGHIR-WOJTKOWIAK E,WICZLING P,WASZCZUK-JANKOWSKA M,et al.Multilevel pharmacokinetics-driven modeling of metabolomics data[J].Metabolomics,2O17,13(3):31.
+
+[23]WANG Y,TAO Y,LIN Y J,et al.Integrated analysis of serum and liver metabonome in liver transplanted rats by gas chromatography coupled with mass spectrometry[J].Analytica Chimica Acta,2009,633(1):65-70.
+
+[24]BERTRAM H C,MALMENDAL A,PETERSEN B O,et al.Effect of magnetic field strength on NMR-based metabonomic human urine data.Comparative study of 250,4O0,5o0,and 800 MHz[J].Analytical Chemistry,2007,79(18):7110-7115.
+
+[25]ZHANG Q W,WU H Y,WEN C C.et al.Metabolic changes in rats after intragastric administration of MGCDO103 (Mocetinostat),a HDAC class I inhibitor[J].International Journal of Clinical and Experimental Pathology,2015,8(8):9320-9325.
+
+[26]XIA J,SINELNIKOV I V,HAN B,et al.Metabo Analyst 3.0-making metabolomics more meaningful[J].Nucleic Acids Research,2015,43(W1):W251-W257.
+
+[27]肖英平.早期断奶仔猪血清代谢组学研究及谷氨酰胺对日粮消化吸收和代谢的影响[D].博士学位论文.杭州：浙江大学,2012
+
+[28]SUN J H,MONAGAS M,JANG S,et al.A high fat,high cholesterol diet leads to changes in metabolite patterns in pigs-A metabolomic study[J].Food Chemistry,2015,173:171-178.
+
+[29]聂存喜,张文举,闫理东,等.基于棉籽粕源发酵饲料的鸡血浆代谢组学研究[J].畜牧兽医学报,2013,44(5):737-744.
+
+[30]王小雪.代谢组学方法研究家猫在不同营养干预下机体的代谢应答[D].硕士学位论文.上海：上海交通大学,2008
+
+[31]林刚.宫内生长受限猪胎盘磷酸戊糖途径受损及其营养调控的研究[D].博士学位论文.北京:中国农业大学,2014.
+
+[32]霍文婕.高谷物日粮改变山羊瘤胃代谢的微生物学机制研究[D].博士学位论文.南京:南京农业大学,2014.
+
+[33]时梦.后备母猪适宜净能需要量的研究[D].博士学位论文.北京:中国农业大学,2017.
+
+[34]METZLER-ZEBELI B U,ERTL R,KLEIN D,et al.Explorative study of metabolic adaptations to various dietary calcium intakes and cereal sources on serum metabolome and hepatic gene expression in juvenile pigs[J].Metabolomics,2015,11(3):545-558.
+
+[35]NOGUCHI Y,ZHANG Q W,SUGIMOTO T,et al.Network analysis of plasma and tissue amino acids and the generation of an amino index for potential diagnostic use[J].The American Journal of Clinical Nutrition,2006,83(2):513S-519S.
+
+[36]ZHOU L P,FANG L D,SUN Y,et al.Effects of the dietary protein level on the microbial composition and metabolomic profile in the hindgut of the pig[J].Anaerobe,2016,38:61-69.   
+[37]RUAN Z,YANG Y H,WEN Y M,et al.Metabolomic analysis of amino acid and fat metabolism in rats with 1-tryptophan supplementation[J].Amino Acids,2014,46(12):2681-2691.
+
+[38]BOVO S,MAZZONI G,GALIMBERTI G,et al.Metabolomics evidences plasma and serum biomarkers differentiating two heavy pig breeds[J].Animal,2016,10(1O):1741-1748.
+
+[39]WANG X R,FANG C K,HE J H,et al.Comparison of the meat metabolite composition of LinwuandPekinducksusing 6OOMHz $\mathrm { ^ { 1 } H }$ nuclearmagneticresonance spectroscopy[J].Poultry Science,2017,96(1):192-199.
+
+[40]TRABI M,KELLER M D,JONSSON N N.NMR-based metabonomics of bovine blood:an investigation into the effects of long term storage on plasma samples[J].Metabolomics,2013,9(5):1041-1047.
+
+[41]JUNG Y,LEE J,KWON J,et al.Discrimination of the geographical origin of beef by $^ { 1 } \mathrm { H }$ NMR-based metabolomics[J].Journal of Agricultural and Food Chemistry,2010,58(19):10458-10466.
+
+[42]REGAL P,ANIZAN S,ANTIGNAC J P,et al.Metabolomic approach based on liquid chromatography coupled to high resolution mass spectrometry to screen for the illegal use of estradiol and progesterone in catle[J].Analytica Chimica Acta,2011,70O(1/2):16-25.
+
+[43]LU C F,WANG Y M,SHENG Z G,et al.NMR-based metabonomic analysis of the hepatotoxicity induced by combined exposure to PCBs and TCDD in rats[J].Toxicology and Applied Pharmacology,2010,248(3):178-184.
+
+[44]许梅燕.添加色素在鸡及其产品中代谢组学的 GC-MS 分析研究[D].硕士学位论文.长春:长春理工大学,2012.
+
+[45]施寿荣.肉鸡腹水综合征的代谢组学和转录组学研究[D].博士学位论文.北京:中国农业大学,2014.
+
+[46]孙玲伟,包凯,李影,等.奶牛临床和亚临床酮病的血浆代谢组学研究[J].中国农业科学,2014,47(8):1588-1599.
+
+[47]BERTRAM H C,MALMENDAL A,NIELSEN N C,et al.NMR-based metabonomics reveals that plasma betaine increases upon intake of high-fiber rye buns in hypercholesterolemic pigs[J].Molecular Nutrition and Food Research,2009,53(8):1055-1062.
+
+[48]HAILEMARIAM D,MANDAL R,SALEEM F,et al.Identification of predictive biomarkers of
+
+disease state in transition dairy cows[J].Journal of Dairy Science,2014,97(5):2680-2693. [49]田忠.糖尿病小型猪急性心肌缺血代谢组学研究[D].硕士学位论文.北京:北京协和医学 院,2013.
+
+[50]XIONG Y,DONG S,ZHAOX,et al.Gene expressions and metabolomic research on the effects of polyphenols from the involucres of Castanea mollissima blume on heat-stressed broilers chicks[J].Poultry Science,2016,95(8):1869-1880.
+
+Metabolomics and Its Application in Animal Nutrition²
+
+WANG Haowei WUDuanqin
+
+(Institute of Bast Fiber Crops, Chinese Academy of Agricultural Sciences, Changsha 410205,
+
+China)
+
+Abstract: Metabolomics is the comprehensive assessment of endogenous metabolites and attempts of using this technology are to separate,detect, characterize and quantify metabolites as well as their associated metabolic pathways from a biological sample,in view of this to reflect the nutritional metabolic changes,nutritional status and even the developmental degree of some diseases in the body. However, the research of metabolomics in animal nutrition is relatively late, and it is still at the initial stage,while with the continuous improvement of metabolomics research platform, the application value of this technology in animal nutrition will become increasingly prominent. This paper summarized the concept and characteristics of metabolomics,the analysis technique and its application in animal nutrition.
+
+Key words: metabolomics; animal nutrition; research progress

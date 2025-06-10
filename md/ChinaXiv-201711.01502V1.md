@@ -1,0 +1,219 @@
+1 补饲精料对西藏彭波半细毛羊羊肉品质的影响
+
+2 金艳梅」 武俊喜² 李　鹏吴洪新³张晓庆3\*（1.山东大学（威海）海洋学院，威海 264209；2.中国科学院地理科学与资源研究所，北京 100101;
+
+3.中国农业科学院草原研究所，呼和浩特010010)
+
+5摘要：本试验旨在研究补饲精料对西藏彭波半细毛羊羊肉品质的影响。选择30只成年彭波半细毛  
+6 羊母羊，按照同质原则随机分为3组：放牧不补饲（对照，G1）组、补饲精料 $2 0 0 \ \mathrm { g / d }$ （G2）组、  
+7 补饲精料 $4 0 0 ~ \mathrm { g / d }$ （G3）组，每组10只。每天19:30补饲，正试期 $7 5 { \mathrm { ~ d } } .$ 。正试期结束屠宰，采集背  
+8 最长肌测定营养物质含量和组织结构特征。结果表明：高水平补饲精料提高了母羊总干物质采食量，  
+9 G3 组平均日增重显著高于G1、G2 组（ $. P { < } 0 . 0 5 )$ ；补饲精料对羊肉 $\mathrm { \ p H } _ { 1 }$ 的 $\mathrm { p H } _ { 2 4 \mathrm { h } }$ 、滴水损失及水分和  
+0 粗灰分含量无显著影响（ $( P { > } 0 . 0 5 )$ ，但G3组的熟肉率，粗蛋白质、肌内脂肪含量，肌纤维密度显著  
+1 高于G1组( $( P { < } 0 . 0 5 )$ ;G2、G3组羊肉总氨基酸、必需氨基酸和天冬氨酸含量显著高于G1组 $( P { < } 0 . 0 5 )$ ，  
+2 G3 组苯丙氨酸、赖氨酸含量显著高于G1组（ $P { < } 0 . 0 5 )$ ，G3 组苏氨酸、谷氨酸含量有高于G1组的  
+3 趋势（ $0 . 0 5 { \leqslant } P { < } 0 . 1 0 { \rangle }$ ；补饲精料对羊肉饱和脂肪酸、单不饱和脂肪酸和多不饱和脂肪酸含量没有显  
+4 著影响（ $( P { > } 0 . 0 5 )$ ），G3 组C18:1trans-9含量有低于G1组的趋势（ $0 . 0 5 { \leqslant } P { < } 0 . 1 0 { \rangle }$ 。上述结果表明，  
+5 补饲精料能显著提高彭波半细毛羊羊肉营养价值，改善肉质嫩度，每只补饲 $4 0 0 \ \mathrm { g / d }$ 优于 $2 0 0 \ \mathrm { g / d }$ 。
+
+关键词：西藏彭波半细毛羊；放牧；补饲；肉品质；氨基酸；脂肪酸组分
+
+中图分类号：S826
+
+西藏自治区养羊业在新中国成立后得到了长足发展。2014年西藏绵山羊存栏总数达1190 万只，其中绵羊 749 万只[，存栏量位列全国第 $7 ^ { [ 2 ] }$ 。在西藏独特的自然环境中，放牧羊肉质鲜美、肉汤醇香。但西藏传统牧区养羊依赖放牧，饲养周期长，出栏率低,2014年绵羊、山羊出栏率总共仅 $3 2 . 1 1 \% ^ { [ 3 ] }$ 。为提高出栏量，山南市、拉萨市及周边县等条件较好的农区，羊只放牧的同时补饲青稞、小麦或精料，增重效果显著。放牧补饲可改善动物摄入营养的平衡[45]，不仅能提高生产性能，还有利于改善
+
+收稿日期：2016-08-11  
+基金项目：国家自然科学基金（31402119)；中国科学院科技服务 STS 计划课题（KFJ-EW-STS-072);西藏自治区科技计划重点科技项目  
+作者简介：金艳梅（1978一)，甘肃金塔人，讲师，博士，主要从事动物营养研究。E-mail:jinym2001@sohu.com  
+\*通信作者：张晓庆，副研究员，硕士生导师，E-mail：zhangxiaoqing@caas.cn
+
+肉品质。早期研究表明，补饲玉米、小麦等高能量饲料（大麦除外）的羊肉风味比完全放牧更好回;以玉米等谷物籽实为主的舍饲羊肉中多不饱和脂肪酸（PUFA）含量低于放牧羊[7-8]；补饲由玉米、豆粕、青稞、苜蓿草粉和青干草组成的混合饲料显著改善青海省海北州放牧耗牛肉质嫩度[。西藏高寒草原动植物资源独特，但科学研究相对薄弱，目前有关补饲对藏羊采食及肉品质影响的研究鲜有报道。本试验选择西藏著名的彭波半细毛羊为研究对象，设3个精料补饲水平，分析比较母羊采食量及羊肉主要营养物质沉积的差异，以阐明补饲精料对放牧藏羊肉品质的效应，为提高西藏绵羊生产力提供科学依据和技术途径。
+
+1材料与方法
+
+1.1 试验时间与地点
+
+试验于 2015 年8—11月在西藏自治区林周县卡孜乡白朗村进行，放牧场植被主要由高山嵩草（Kobresiapygmaea）和青藏苔草（Carexmoorcroftii）构成。
+
+# 1.2试验动物与分组
+
+将30只 $3 { \sim } 4$ 岁彭波半细毛羊母羊（平均体重约 $2 6 . 9 8 ~ \mathrm { k g }$ ），按照同质原则随机分为3组：放牧不补饲（对照，G1）组、补饲精料 $2 0 0 \ \mathrm { g / d }$ （G2）组、补饲精料400g/d（G3）组，每组10只。补饲物为全价精料（购自西藏九丰饲料有限公司），精料和牧草营养水平见表1。试验期87d，其中预试期12d，正试期 $7 5 \mathrm { d }$ 。
+
+表1精料和牧草营养水平(干物质基础)  
+Table 1Nutrient levels of concentrate and natural pasture (DMbasis)   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td>干物质</td><td>粗蛋白质</td><td>代谢能</td><td>中性洗涤纤维</td><td>酸性洗涤纤维</td></tr><tr><td>DM</td><td>CP</td><td>ME/(MJ/kg)</td><td>NDF</td><td>ADF</td></tr><tr><td>精料Concentrate</td><td>88.25</td><td>16.18</td><td>10.20</td><td>8.68</td><td>6.01</td></tr><tr><td>牧草 Pasture</td><td>90.73</td><td>14.57</td><td>8.36</td><td>67.60</td><td>49.58</td></tr></table></body></html>
+
+精料由 $6 5 \%$ 玉米、 $10 \%$ 豆粕、 $8 \%$ 棉籽粕、 $6 \%$ 菜籽粕、 $10 \%$ 麸皮及 $1 \%$ 预混料构成。干物质、粗蛋白质、中性洗涤纤维含量采用张丽英[10]方法测定，代谢能按照Freer[11]的方法计算。
+
+Concentrate consisted of $65 \%$ corn, $10 \%$ soybean meal, $8 \%$ cottonseed meal, $6 \%$ rapeseed meal, $10 \%$ wheat bran and $1 \%$ premix.Thecontentsof DM,CPandNDF were determined accordingto Zhang,et all0],andME wascalculated as the method of Freer[1].
+
+1.3饲养管理所有试验母羊每天09:00 出牧，在约500亩天然草场放牧，13:00 归牧休息，15:00 再出牧，19:00归牧。归牧后分别圈进不同的栏舍内接受补饲（G1组除外)，补饲时间为每天19:30。所有羊只自由饮水，每隔15d出牧前称取空腹体重。饲养试验结束，从每组挑选6只体重相近者参与屠宰试验，宰前 $2 4 \mathrm { h }$ 禁食，2h禁水。
+
+# 1.4样品的采集与制备
+
+牧草样品于9月中旬收集。在试验羊采食区域内布置50 个 $1 \ \mathrm { m } \times 1 \ \mathrm { m }$ 样方，剪取样方内所有可食植物的地上部分，烘干至恒重，粉碎、过40 目标准筛，备测饱和链烷含量。同一时期，从各组随机挑选3只羊，每天出牧前、归牧后分别投喂1粒C32胶囊（制作方法见张晓庆[12I）作为标物链烷，投喂第7天收集粪样，连续采集5d。从每天收集的同一只羊的粪便中称取 $30 \% \sim 5 0 \%$ 作为分析样品，收集期结束将同一只羊的粪样合并，用与草样相同的方法制备，待测。
+
+试验羊屠宰 $4 5 \mathrm { m i n }$ 后采集肉样。切取右侧胴体背最长肌，装入密封袋，保存在 ${ \cdot } 2 0 \mathrm { { } ^ { \circ } C }$ 冰箱。运输回实验室后，切取鲜样 $5 0 { \sim } 6 0 ~ \mathrm { g }$ ，切成薄片平铺入培养皿中，用CHRISTAlpha(2-4LSC，德国)冻干机冷冻干燥 $9 6 \mathrm { ~ h ~ }$ ，冻干机工作环境-87 $\mathrm { { } ^ { \circ } C }$ ， $0 . 0 0 6 \mathrm { \ m p a }$ 。将冻干样用咖啡磨研磨成粉，混合均匀，装入自封袋，袋外包裹锡纸，待测营养物质。另外，在屠宰现场采集右侧胴体背最长肌 $3 { \sim } 5 \ \mathrm { g }$ ，用 $10 \%$ 福尔马林溶液浸泡、固定， $4 8 \mathrm { h }$ 后进行二次固定，按照常规组织学分析方法制作石蜡切片，苏木精伊红（HE）染色。
+
+1.5 测定指标与方法
+
+牧草和精料中干物质（DM)、粗蛋白质（CP）、中性洗涤纤维（NDF）含量参照张丽英[°]提供的方法测定。放牧采食量采用饱和链烷法测定[13]，牧草、精料中饱和链烷浓度同样采用该文献中的方法测定。羊肉 pH用酸度计(PHS-3C)测定，滴水损失、熟肉率用张晓庆[12描述的方法测定。羊肉CP含量采用FOSS 定氮仪(Kjeltec-2300,瑞典)测定。肌内脂肪(intramuscular fat,IMF)含量用ANKOM脂肪仪(XT-15，美国)测定。氨基酸含量采用盐酸水解法，用全自动氨基酸分析仪（L-8900，日本日立）测定。测定脂肪酸含量时，先用GB/T17377-2008 提供的方法甲酯化，制备好待测上清液后，用气相色谱仪（450-GC，日本岛津）测定。色谱条件：毛细管色谱柱规格 $6 0 \mathrm { m } { \times } 2 5 0 \mu \mathrm { m } { \times } 0 . 2 5 \mu \mathrm { m }$ ，进样温度 $2 6 0 \mathrm { ~ \textdegree ~ }$ ，检测器温度 $2 7 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，分流比20:1,进样量 $1 . 0 \mu \mathrm { L } \circ$ 肌肉组织切片用光学显微镜( $4 0 0 \times )$ 观察，拍照，每个样品切片拍 $6 \sim 1 0$ 个视野，用图像分析软件测定每个视野的肌细胞数量、直径和密度，每张切片至少测定60个肌细胞。
+
+# 1.6 数据统计与计算
+
+放牧采食量参照Mayes等[13]公式计算，以C31/C32作为链烷对。试验数据用SAS8.2软件ANOVA
+
+程序中的one-wayANOVA程序进行单因素方差分析，当 $0 . 0 5 { \leqslant } P { < } 0 . 1 0$ 时视为有提高或降低的趋势，当 $P { < } 0 . 0 5$ 时为差异显著，差异显著时用Duncan 氏法做多重比较。  
+2结果与分析  
+2.1母羊采食量  
+表2 显示了各组母羊从精料、牧草获得的DM、CP、ME、NDF。总体看，G3 组的总干物质采食量（DMI)、总粗蛋白质采食量（CPI）和总代谢能采食量（MEI）高于G2组和G1组，而总中性洗涤纤维采食量（NDFI）低于后2组。
+
+# 表2母羊采食量(干物质基础)
+
+Table 2Feed intake of ewes (DMbasis)   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="3">组别Groups</td></tr><tr><td>G1</td><td>G2</td><td>G3</td></tr><tr><td>精料干物质采食量ConcentrateDMI/（kg/d)</td><td>0.00</td><td>0.18</td><td>0.37</td></tr><tr><td>牧草干物质采食量 Pasture DMI/ （kg/d)</td><td>1.04</td><td>0.85</td><td>0.78</td></tr><tr><td>总干物质采食量 TotalDMI/（kg/d)</td><td>1.04</td><td>1.03</td><td>1.15</td></tr><tr><td>精料代谢能采食量ConcentrateMEI/（MJ/d)</td><td>0.00</td><td>1.88</td><td>3.76</td></tr><tr><td>牧草代谢能采食量 Pasture MEI/（MJ/d)</td><td>8.69</td><td>7.07</td><td>6.53</td></tr><tr><td>总代谢能采食量 TotalMEI/（MJ/d)</td><td>8.69</td><td>8.95</td><td>10.29</td></tr><tr><td>精料粗蛋白质采食量 ConcentrateCPI/（g/d)</td><td>0</td><td>30</td><td>60</td></tr><tr><td>牧草粗蛋白质采食量 Pasture CPI/（g/d)</td><td>152</td><td>123</td><td>113</td></tr><tr><td>总粗蛋白质采食量 TotalCPI/（g/d)</td><td>152</td><td>153</td><td>173</td></tr><tr><td>精料中性洗涤纤维采食量 Concentrate NDFI/（g/d)</td><td>0</td><td>16</td><td>32</td></tr><tr><td>牧草中性洗涤纤维采食量 Pasture NDFI/（g/d)</td><td>703</td><td>572</td><td>528</td></tr><tr><td>总中性洗涤纤维采食量 TotalNDFI/（g/d)</td><td>703</td><td>588</td><td>560</td></tr></table></body></html>
+
+2.2补饲精料对母羊平均日增重（ADG）和胴体重的影响
+
+由表3可见，在初始体重无显著差异的情况下（ $( P { > } 0 . 0 5 )$ ，补饲精料显著影响各组母羊的ADG（ $_ { _ { P < 0 . 0 5 } }$ )，G3组显著高于G2组和G1组（ $. P { < } 0 . 0 5 )$ ，G2组与G1组差异不显著（ $. P { > } 0 . 0 5 )$ 。母羊的宰前活重和胴体重在组间差异不显著（ $P { > } 0 . 0 5 \$ ）°
+
+项目Items
+
+初始体重 Initial weight/kg  
+平均日增重 $\mathrm { \ A D G / g }$   
+宰前活重 Live weight before slaughter/kg  
+胴体重 Carcass weight/kg
+
+表3母羊平均日增重和胴体重  
+Table 3ADG and carcass weight of ewes   
+
+<html><body><table><tr><td colspan="3">组别Groups</td><td rowspan="2">SEM</td><td rowspan="2">P值P-value</td></tr><tr><td>G1</td><td>G2</td><td>G3</td></tr><tr><td>27.51</td><td>26.64</td><td>26.96</td><td>0.50</td><td>0.944</td></tr><tr><td>90.54b</td><td>98.49b</td><td>117.53a</td><td>4.30</td><td>0.009</td></tr><tr><td>40.51</td><td>38.30</td><td>38.91</td><td>2.53</td><td>0.773</td></tr><tr><td>17.17</td><td>17.40</td><td>18.18</td><td>1.47</td><td>0.859</td></tr></table></body></html>
+
+同行数据肩标无字母或相同字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同字母表示差异显著（ $\scriptstyle P < 0 . 0 5 .$ )。下表同。
+
+Values in the same row with no letter or the same letter superscripts mean no significant diference ( $P { > } 0 . 0 5$ )，while with different letter superscripts mean significant difference ( $( P { < } 0 . 0 5 )$ .The same as below.
+
+2.3补饲精料对羊肉理化性质的影响
+
+由表4可见，补饲精料对羊肉的 $\mathrm { \ p H } _ { 1 }$ h、 $\mathrm { p H } _ { 2 4 \mathrm { h } } .$ ，肉色及滴水损失均无显著影响( $( P { > } 0 . 0 5 )$ ，但G2、G3 组的熟肉率显著高于G1组（ $. P { < } 0 . 0 5$ ）。
+
+# 表4母羊背最长肌理化性质
+
+Table 4Physi-chemical properties of Longissimus dorsi of ewes   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="3">组别 Groups</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>G1</td><td>G2</td><td>G3</td></tr><tr><td>pH1 n</td><td>6.17</td><td>6.28</td><td>6.42</td><td>0.03</td><td>0.528</td></tr><tr><td>pH24 h</td><td>5.39</td><td>5.38</td><td>5.63</td><td>0.02</td><td>0.830</td></tr><tr><td>肉色Meat color</td><td>6.00</td><td>5.63</td><td>5.85</td><td>0.01</td><td>0.651</td></tr><tr><td>滴水损失 Drip loss/%</td><td>2.04</td><td>1.57</td><td>1.71</td><td>0.10</td><td>0.159</td></tr><tr><td>熟肉率 Cooked meat percentage/%</td><td>70.64b</td><td>73.98a</td><td>74.42a</td><td>0.74</td><td>0.046</td></tr></table></body></html>
+
+2.4补饲精料对羊肉常规营养物质含量和肌纤维组织结构的影响
+
+由表5可见，补饲精料对羊肉中的水分和粗灰分含量没有显著影响（ $( P { > } 0 . 0 5 )$ ，但G2、G3组的CP、IMF含量显著高于G1组（ $_ { _ { P < 0 . 0 5 ) } }$ ，而G2 组和G3组之间差异不显著（ $( P { > } 0 . 0 5 )$ 。
+
+Table 5Common nutrient contents of Longissimus dorsi of ewes (fresh matter basis) %   
+
+<html><body><table><tr><td rowspan="2">项目Item</td><td colspan="3">组别 Groups</td><td rowspan="2">SEM</td><td rowspan="2">P值P-value</td></tr><tr><td>G1</td><td>G2</td><td>G3</td></tr><tr><td>水分Moisture</td><td>70.35</td><td>71.17</td><td>70.89</td><td>0.41</td><td>0.766</td></tr><tr><td>粗蛋白质 CP</td><td>20.39b</td><td>21.29a</td><td>21.46a</td><td>0.20</td><td>0.039</td></tr><tr><td>肌内脂肪IMF</td><td>5.03b</td><td>7.27a</td><td>8.10a</td><td>0.50</td><td>0.003</td></tr><tr><td>粗灰分 Ash</td><td>2.10</td><td>2.24</td><td>2.15</td><td>0.09</td><td>0.866</td></tr></table></body></html>
+
+由表6可见，G3组的肌纤维直径、面积有低于G2和G1组的趋势（ $0 . 0 5 { \leqslant } P { < } 0 . 1 0 { \rangle }$ ；相反，G3组的肌纤维密度显著大于G2和G1组（ $. P { < } 0 . 0 5 )$ ，而G2组与G1组无显著差异（ $( P { > } 0 . 0 5 )$ 。
+
+# 表6母羊背最长肌肌纤维组织结构特征
+
+表5母羊背最长肌常规营养物质含量 (鲜重基础)  
+Table 6Histochemical characteristics of Longissimus dorsi of ewes   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="3">组别 Groups</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>G1</td><td>G2</td><td>G3</td></tr><tr><td>直径Diameter/um</td><td>41.60</td><td>38.22</td><td>30.12</td><td>2.45</td><td>0.094</td></tr><tr><td>面积 Area/um²</td><td>1 285</td><td>1084</td><td>792</td><td>102</td><td>0.079</td></tr><tr><td>密度Density/(根/mm2)</td><td>618b</td><td>643b</td><td>862a</td><td>50</td><td>0.039</td></tr></table></body></html>
+
+108 2.5补饲精料对羊肉氨基酸含量的影响
+
+由表7可见，G2、G3 组羊肉中天冬氨酸含量高于G1组（ $P { < } 0 . 0 5 )$ ；G3 组的苏氨酸、谷氨酸含量有高于G1组的趋势（ $0 . 0 5 { \leqslant } P { < } 0 . 1 0 { \rangle }$ ；丝氨酸、甘氨酸、丙氨酸、半胱氨酸、氨酸、蛋氨酸、异亮氨酸、亮氨酸、色氨酸、组氨酸、精氨酸、脯氨酸含量在各组间无显著差异（ $. P { > } 0 . 0 5 )$ ；G3组的苯丙氨酸、赖氨酸含量高于G1组（ $_ { . } P { < } 0 . 0 5 { : }$ )，G2组与G1组差异不显著（ $( P { > } 0 . 0 5 )$ )；G2、G3 组的总氨基酸和必需氨基酸含量显著高于G1组（ $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ ）°
+
+Table 7Amino acid contents of Longissimus dorsi of ewes（DM basis） %   
+
+<html><body><table><tr><td colspan="4">组别Groups 项目Items</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td></td><td>G1</td><td>G2</td><td>G3</td></tr><tr><td>天冬氨酸 Asp</td><td>7.79b</td><td>8.01a</td><td>7.99a</td><td>0.04</td><td>0.010</td></tr><tr><td>苏氨酸 Thr</td><td>3.78</td><td>3.87</td><td>3.91</td><td>0.03</td><td>0.069</td></tr><tr><td>丝氨酸 Ser</td><td>2.89</td><td>2.94</td><td>3.04</td><td>0.03</td><td>2.272</td></tr><tr><td>谷氨酸 Glu</td><td>13.08</td><td>13.41</td><td>13.39</td><td>0.07</td><td>0.071</td></tr><tr><td>甘氨酸Gly</td><td>3.56</td><td>3.61</td><td>3.56</td><td>0.02</td><td>0.517</td></tr><tr><td>丙氨酸 Ala</td><td>4.87</td><td>4.93</td><td>4.89</td><td>0.02</td><td>0.549</td></tr><tr><td>半胱氨酸Cys</td><td>2.04</td><td>1.94</td><td>1.99</td><td>0.02</td><td>0.191</td></tr><tr><td>氨酸Val</td><td>4.79</td><td>4.87</td><td>4.83</td><td>0.02</td><td>0.187</td></tr><tr><td>蛋氨酸 Met</td><td>1.69</td><td>1.83</td><td>1.95</td><td>0.06</td><td>0.176</td></tr><tr><td>异亮氨酸 Ile</td><td>4.02</td><td>4.11</td><td>4.02</td><td>0.02</td><td>0.262</td></tr><tr><td>亮氨酸Leu</td><td>7.15</td><td>7.32</td><td>7.22</td><td>0.04</td><td>0.228</td></tr><tr><td>色氨酸Trp</td><td>2.82</td><td>2.86</td><td>2.98</td><td>0.04</td><td>0.288</td></tr><tr><td>苯丙氨酸 Phe</td><td>3.62b</td><td>3.67b</td><td>3.73a</td><td>0.02</td><td>0.009</td></tr><tr><td>赖氨酸Lys</td><td>7.69b</td><td>7.81ab</td><td>7.89a</td><td>0.04</td><td>0.030</td></tr><tr><td>组氨酸 His</td><td>3.28</td><td>3.36</td><td>3.28</td><td>0.02</td><td>0.389</td></tr><tr><td>精氨酸Arg</td><td>5.24</td><td>5.43</td><td>5.41</td><td>0.04</td><td>0.093</td></tr><tr><td>脯氨酸Pro</td><td>2.78</td><td>2.79</td><td>2.82</td><td>0.01</td><td>0.431</td></tr><tr><td>总氨基酸 Total AA</td><td>81.08b</td><td>82.82a</td><td>82.85a</td><td>0.35</td><td>0.033</td></tr><tr><td>必需氨基酸 EAA</td><td>45.58b</td><td>46.70a</td><td>46.54a</td><td>0.21</td><td>0.024</td></tr></table></body></html>
+
+# 2.6补饲精料对羊肉脂肪酸含量的影响
+
+由表8可见，除C17:1外，补饲精料对羊肉中其他脂肪酸含量均没有显著影响（ $. P { > } 0 . 0 5 \rangle$ ；G2组的C17:1含量显著低于G1和G3组（ $P { < } 0 . 0 5 \$ ，而后2组间无显著差异（ $_ { \cdot \cdot P > 0 . 0 5 } )$ ；G3组的C18:1 trans-9含量有高于G1组的趋势（ $0 . 0 5 { \leqslant } P { < } 0 . 1 0 \$ 。饱和脂肪酸（SFA）、单不饱和脂肪酸（MUFA）和PUFA含量在各组间差异不显著（ $( P { > } 0 . 0 5 )$ 。
+
+表7母羊背最长肌氨基酸含量(干物质基础)  
+表8母羊背最长肌脂肪酸含量(干物质基础)  
+
+<html><body><table><tr><td rowspan="2">Table 8</td><td colspan="2">Fatty acid contents ofLongissimus dorsi of ewes</td><td rowspan="2">(DMbasis）</td><td colspan="2">%</td></tr><tr><td></td><td>组别Groups</td><td></td><td></td></tr><tr><td>项目Items</td><td></td><td>G1 G2</td><td>G3</td><td>SEM</td><td>P值P-value</td></tr><tr><td>C10:0</td><td>0.14</td><td>0.14</td><td>0.14</td><td>0.01</td><td>0.992</td></tr></table></body></html>
+
+<html><body><table><tr><td>C13:0</td><td>0.22</td><td>0.15</td><td>0.21</td><td>0.03</td><td>0.574</td></tr><tr><td>C14:0</td><td>1.62</td><td>1.46</td><td>1.63</td><td>0.08</td><td>0.655</td></tr><tr><td>C14:1</td><td>0.09</td><td>0.07</td><td>0.11</td><td>0.01</td><td>0.262</td></tr><tr><td>C15:0</td><td>0.46</td><td>0.43</td><td>0.48</td><td>0.05</td><td>0.940</td></tr><tr><td>C15:1</td><td>0.11</td><td>0.13</td><td>0.19</td><td>0.03</td><td>0.602</td></tr><tr><td>C16:0</td><td>15.41</td><td>14.68</td><td>14.42</td><td>0.73</td><td>0.881</td></tr><tr><td>C16:1</td><td>1.69</td><td>1.35</td><td>1.66</td><td>0.08</td><td>0.149</td></tr><tr><td>C17:0</td><td>0.71</td><td>0.48</td><td>0.61</td><td>0.06</td><td>0.265</td></tr><tr><td>C17:1</td><td>0.82a</td><td>0.51b</td><td>0.67ab</td><td>0.05</td><td>0.027</td></tr><tr><td>C18:0</td><td>8.25</td><td>7.39</td><td>7.03</td><td>0.48</td><td>0.625</td></tr><tr><td>C18:1 trans-9</td><td>1.07</td><td>1.03</td><td>0.90</td><td>0.03</td><td>0.091</td></tr><tr><td>C18:1 cis-9</td><td>24.29</td><td>22.31</td><td>22.27</td><td>1.22</td><td>0.793</td></tr><tr><td>C18:2 trans-6</td><td>0.10</td><td>0.12</td><td>0.12</td><td>0.01</td><td>0.804</td></tr><tr><td>C18:2 cis-6</td><td>3.43</td><td>2.70</td><td>2.84</td><td>0.26</td><td>0.531</td></tr><tr><td>C18:3 n-6</td><td>0.02</td><td>0.06</td><td>0.02</td><td>0.01</td><td>0.331</td></tr><tr><td>C18:3 n-3</td><td>0.61</td><td>0.50</td><td>0.52</td><td>0.04</td><td>0.565</td></tr><tr><td>C21:0</td><td>0.42</td><td>0.42</td><td>0.33</td><td>0.04</td><td>0.587</td></tr><tr><td>C20:2</td><td>0.03</td><td>0.06</td><td>0.03</td><td>0.01</td><td>0.778</td></tr><tr><td>C20:3 n-6</td><td>0.07</td><td>0.08</td><td>0.04</td><td>0.02</td><td>0.612</td></tr><tr><td>C20:4 n-6</td><td>1.06</td><td>0.81</td><td>0.82</td><td>0.13</td><td>0.718</td></tr><tr><td>C20:5 n-3</td><td>0.23</td><td>0.14</td><td>0.21</td><td>0.03</td><td>0.398</td></tr><tr><td>C22:0</td><td>0.25</td><td>0.15</td><td>0.17</td><td>0.03</td><td>0.476</td></tr><tr><td>饱和脂肪酸 SFA</td><td>27.53</td><td>25.34</td><td>25.04</td><td>1.31</td><td>0.756</td></tr><tr><td>单不饱和脂肪酸 MUFA</td><td>27.93</td><td>25.31</td><td>25.64</td><td>1.30</td><td>0.727</td></tr><tr><td>多不饱和脂肪酸 PUFA</td><td>5.52</td><td>4.41</td><td>4.57</td><td>0.41</td><td>0.557</td></tr></table></body></html>
+
+3讨论
+
+3.1 母羊采食量
+
+补饲精料是通过提高放牧家畜营养物质采食量达到提高生产性能的目的。Gekara等[14]试验结果表明，肉牛每天放牧 $1 2 \mathrm { h }$ 的同时补饲精料，DMI从 $8 . 1 \mathrm { k g / d }$ 提高到 $8 . 6 \mathrm { k g / d } .$ 。Zhang 等[15]发现，补饲精料可维持限时间放牧羔羊的正常DMI，并提高了ADG。补饲玉米显著提高Pelibuey 羔羊的 DMI,从而提高CPI和MEI，使其增重加快[16]；补饲蛋白质饲料提高幼龄美利奴羔羊的生长率和产毛量，而且停止补饲后仍有此效应[17]。本试验中，高水平补饲精料虽然对母羊DMI的提高程度有限，但明显提高了CPI和 MEI，从而显著提高了母羊的ADG，显示了补饲 $4 0 0 \ \mathrm { g / d }$ 精料的增产增质效应。
+
+# 3.2补饲精料对羊肉理化性质的影响
+
+pH关系肉品的嫩度、系水力、颜色等质量性状。宰后 $4 5 \mathrm { m i n }$ 鲜肉的 $\mathsf { p H }$ 为 $5 . 9 \mathrm { \sim } 6 . 5$ ，而后随肌细胞内肌糖原酵解下降至 ${ 5 . 4 } { \sim 5 . 7 }$ 。本试验各组 $\mathrm { p H } _ { 2 4 \mathrm { h } }$ 均在此正常范围内。肉色的变化反映肌肉生理生化和微生物学变化，颜色深浅主要取决于肌肉中色素物质肌红蛋白，其量越高肉色越深。放牧家畜肉色多为微暗红色，补饲精料可改变肉色[18-19]。本试验各组肉色较深，可能预示着高原羊肉肌红蛋白含量较高（肌红蛋白是一种具有氧化特性的细胞质血红素蛋白，在肌肉中的主要作用是为肌肉组织储存和转运氧)。熟肉率是度量肉品系水力的重要指标，放牧羊肉的滴水损失高于舍饲羊肉[20]。本试验补饲精料改善了羊肉的系水力，从而提高了熟肉率。这是因为补饲提高了母羊的营养水平，促进IMF 蓄积。IMF 可使肌肉显微结构变松散，增加对水分的吸附能力；同时，肌肉中的水分因被脂肪置换而相对减少，含有脂肪的肌肉蒸煮冷却后更为紧实，使损失减少。
+
+3.3补饲精料对羊肉常规营养物质含量和肌纤维组织结构特征的影响
+
+肉中水分对维持羊肉优良品质起着重要作用。一般，瘦肉中含有 $7 2 \% \sim 7 5 \%$ 的水分[21]。水分含量的高低取决于其中的脂肪含量，二者呈反比例关系。本试验各组水分含量为 $7 0 . 3 5 \% \sim 7 1 . 1 7 \%$ ，低于普遍值，可能与其IMF 含量较高有关。IMF 是影响肉品质的另一关键因子，与系水力、嫩度、风味等多种肉质性状密切相关。适当提高 IMF 含量可增强肉品风味、多汁性，并降低韧性[22]。研究早已发现，IMF 是形成肉品风味的重要前体物质，而IMF 的作用很小[23]。当IMF 含量达到 $3 . 5 \% \sim 4 . 5 \%$ 时，肉品的口感最好[24]。本试验各组IMF含量（ $5 . 0 3 \% \sim 8 . 1 0 \%$ ）高于此范围，说明彭波半细毛羊羊肉口感不佳。毕竟半细毛羊以毛用为主，兼肉用。高能量、高营养水平饲粮可提高羊肉IMF 含量[25]。本试验高水平补饲的羊肉 MEI、CPI分别较低水平补饲和放牧未补饲高 $1 . 3 4 , 1 . 6 0 \mathrm { M J / d }$ 和 $2 0 . 2 1 \ \mathrm { g } / \mathrm { d }$ 所以其IMF 含量显著增加。同时，饲粮CP 含量提高还可以提高肌肉蛋白质合成效率，促进机体蛋白质沉积[26]。这也是本试验高水平补饲羊肉CP 含量显著增加的原因。于青云[18]对不同品种公犊试验发现，补饲精料显著提高放牧新疆褐牛背最长肌中的 IMF 和CP 含量，并改善了肉色和嫩度。肉质嫩度与肌纤维直径和密度密切相关[27-28]，肌纤维直径越小、密度越大，肉质越细嫩、品质越好。西藏羊管理粗放，放牧时间长、运动量大，因而肌纤维较粗，IMF 分布少[29]。营养水平对肉质的影响在细胞水平上可表现为肌纤维大小的不同[30]。本试验高水平补饲精料母羊的营养水平较高，且显著提高了羊肉IMF 含量，故而显著增加羊肉肌纤维密度，使肌纤维变的细密，起到了改善嫩度的作用。同样地，孔祥颖等凹对放牧耗牛补饲精料后降低了外脊剪切力，改善了肉质嫩度。粗灰分含量是所有矿物质元素含量的总体反应，赵彦光等[31研究表明，补饲精料对羊肉矿物质含量没有影响。综合可见，高低水平补饲精料都能促进胴体蛋白质沉积且不会破坏其矿物质营养，而且高水平补饲还能改善羊肉嫩度和口感。
+
+# 3.4补饲精料对羊肉氨基酸和脂肪酸含量的影响
+
+生肉中的蛋白质含量约为 $20 \%$ ，是人类蛋白质营养的重要来源，富含各种必需氨基酸，如赖氨酸、异亮氨酸和蛋氨酸。天然氨基酸中人体所需的有22种，羊肉含有17种。本试验3组含有的17种氨基酸中，必需氨基酸含量分别占总氨基酸的 $56 . 2 2 \%$ 、 $56 . 3 9 \%$ 和 $56 . 1 7 \%$ ，在忽略品种和年龄的情况下相对高于青海半细毛羊（ $5 0 . 8 1 \%$ )、高原型藏羊（ $5 1 . 0 4 \%$ ）[32]等品种绵羊。这说明，彭波半细毛羊羊肉具有较高的营养价值。苏氨酸、赖氨酸是人体必需氨基酸，对促进人体生长发育起着重要作用。本试验中，高水平补饲精料显著提高了必需氨基酸、总氨基酸含量，特别是提高了苏氨酸、赖氨酸含量，改善了羊肉营养和保健功能。谷氨酸、天冬氨酸、甘氨酸、丙氨酸、苯丙氨酸和酪氨酸6种氨基酸能使肉类呈现特殊鲜味，又被称为呈味氨基酸。肉类的鲜味取决于这类氨基酸含量的高低。本试验高水平补饲羊肉的天冬氨酸、苯丙氨酸和谷氨酸含量显著提高或有提高的趋势，表明高水平补饲精料能增加羊肉的鲜味，增进消费者的食欲。此外，呈味氨基酸还具有预防糖尿病和抗高血压的功效。因此，放牧加补饲羊肉具有更高的营养保健价值。
+
+除氨基酸外，肉中的脂肪酸组分及含量也是影响肉品质的重要因素。饲粮能量水平影响体组织脂肪酸组分。当饲粮能量水平降低时，羔羊体脂肪中亚麻酸含量明显升高[33；饲粮能量和蛋白质水平同时降低时，则显著提高了八眉猪背膘和板油中的油酸、亚麻酸、MUFA 和PUFA 含量，显著降低了SFA 含量[34]。本试验高水平补饲羊MEI和CPI较多，但其 SFA、MUFA 和PUFA含量与另外 2组并无显著差异，而且显著降低了反式油酸（C18:1trans-9）含量。油酸是羊肉中最重要的MUFA，具有降低血液中胆固醇和低密度脂蛋白的作用，所以通常称之为良性脂肪酸。但作为反式脂肪酸，可使血液胆固醇浓度升高，从而提高心血管疾病发生的风险[35]。本试验高水平补饲精料显著降低了C18:1trans-9含量，改善了羊肉脂肪营养。以上可见，补饲精料 $4 0 0 \ \mathrm { g / d }$ 不仅不会破坏羊肉中的不饱和脂肪酸，还能降低有害脂肪酸组分，从而提高羊肉的保健功能。
+
+4结论
+
+补饲精料能显著提高彭波半细毛羊羊肉营养价值，改善肉质嫩度，每只补饲 $4 0 0 \ \mathrm { g / d }$ 优于 $2 0 0 { \mathrm { g / d } } .$ 0   
+参考文献：   
+[1]多吉战都.8-24 年末牲畜存栏情况[M]//西藏统计年鉴.北京:中国统计出版社,2015.   
+[2] 张莉,马晓萌,杜立新.畜牧业新常态下肉羊生产回顾与展望[J].草食家畜,2015(2):1-5.   
+[3] 多吉战都.8-25牛、猪、羊出栏情况[M]//西藏统计年鉴.北京:中国统计出版社,2015.   
+[4] MAHAJAN J M,CHAUHAN D S,TOMAR V P S.Effect of supplementary feeding to grazing on growth and wool production in sheep[J].Indian Journal of Animal Research,1976(1O):90-92.   
+[5]BORREANI GCOPPA M,REVELLO-CHION A,et al.Effect of different feeding strategies in intensive dairy farming systems on milk fatty acid profiles,and implications on feding costs in
+
+Italy[J].Journal of Dairy Science,2013,96(11):6840-6855.
+
+6] LOCKER R H,MOORE V J.Lamb ham and bacon[J].FoodTechnology inNew Zealand,1977,12(4):27-31.
+
+[7] AUROUSSEAU B,BAUCHART D,CALICHON E,et al.Efect of grass or concentrate feedingsystems and rate of growth on triglyceride and phospholipid and their fatty acids in the M.longissimus thoracis of lambs[J].Meat Science,2004,66(3):531-541.  
+[8]许旭.限时放牧对苏尼特羔羊生长性能及肉品质的影响[D].硕士学位论文.北京:中国农业大学,2010.  
+[9]孔祥颖,张丽,保善科,等.放养过程中补饲对青海高原耗牛产肉能力及肉品质的影响[J].中国畜牧兽医,2015,42(1):104-108.  
+[10] 张晓庆.限时放牧加补饲对羔羊采食行为与产肉性能的影响机制[D].博士学位论文.北京:中国农业大学,2013.  
+[11]张丽英.饲料分析及饲料质量检测技术[M].2版.北京:中国农业大学出版社,2003.
+
+# [12] 待补充
+
+[13]MAYES R W,LAMB C S,COLGROVE PM.The use of dosed and herbage n-alkanes as markers for the determination of herbage intake[J].The Journal of Agricultural Science,1986,1O7(1):161-170.
+
+[14]GEKARA O J,PRIGGE E C,BRYAN W B,et al.Influence of sward height,daily timing of concentrate supplementation,and restricted time for grazing on forage utilization by lactating beef cows[J].Journal of Animal Science,2005,83(6):1435-1444.
+
+[15] ZHANG X Q,LUO H L,HOU X Y,et al.Efect of restricted time at pasture and indoor supplementation on ingestive behaviour,dry mater intake and weight gain of growing lambs[J].Livestock Science,2014,167:137-143.
+
+16] RETAMA-FLORESC,TORRES-ACOSTA J FJ,SANDOVAL-CASTRO CA.Maize supplementation of Pelibuey sheep in a silvopastoral system:fodder selection,nutrient intake and resilience against gastrointestinal nematodes[J].Animal,2O12,6(1):145-153.
+
+17]STEEL J W.Effects of protein supplementation of young sheep on resistance development and resilience to parasitic nematodes[J].Australian Journal of Experimental Agriculture,2003,43(12):1469-1476.
+
+[18]于青云.放牧补饲条件下不同品种公特生长发育及其肉品质的研究[D].硕士学位论文.乌木鲁齐:新疆农业大学,2007.
+
+[19]陈槟颖.放牧补饲及宰后成熟对呼伦贝尔羊肉品质影响的研究[D].硕士学位论文.呼和浩特:内蒙 古农业大学,2014.   
+[20]POMPA-ROBORZYNSKI M,KEDZIOR W.Effects of crossbreeding and different feeding systems on slaughter value and meat quality of lambs reared in natural pastures of the Beskid Sadecki Mountains[J].Archiv fur Tierzucht-Archives of Animal Breeding,2006,49(S):268-274.   
+[21]HUFF-LONERGAN E,LONERGAN S M.Mechanisms of water-holding capacity of meat:the role of postmortem biochemical and structural changes[J].Meat Science,2005,71(1):194-204.   
+[22]FERNANDEZ X,MONIN G,TALMANT A,et al.Influence of intramuscular fat content on the quality of pig meat-1.Composition of the lipid fraction and sensory characteristics of m.longissimus lumborum[J].Meat Science,1999,53(1):59-65.   
+[23]MOTTRAM D S,EDWARD R A,MACFIE JHH.A comparison of the flavour volatiles from cooked beef and pork meat systems[J].Journal of the Science of Food and Agriculture,1982,33(9):934-944.   
+[24]SANUDO C.ENSER M E,CAMPO M M.et al.Fatty acid composition and sensory characteristics of lamb carcasses from Britain and Spain[J].Meat Science,20o0,54(4):339-346.   
+[25]PRIOLO A,MICOL D,AGABRIEL J,et al.Effect of grass or concentrate feeding systems on lamb carcass and meat quality[J].Meat Science,2002,62(2):179-185.   
+[26]NORTON B W,JAGUSCH K T,WALKER D M.Body composition studies with the milk-fed lambs. III.The effect of the protein and energy intake on the composition of the live-weight gain[J.The Journal of Agricultural Science,1970,75(2):287-292.   
+[27]陈璐,金邦荃,刘兴余,等.猪骨骼肌组织学特性与猪肉嫩度关系的研究[J].食品科 学,2009,30(1):10-14.   
+[28]姜俊,胡肄,周小秋,等.膨化饲料中豆粕替代鱼粉比例对建鲤肌肉品质的影响[J].动物营养学 报,2015,27(2):623-630.   
+[29] 张鹏亚,路生辉,徐慧如,等.细毛羊、西藏羊及其杂种羊的屠宰检定—屠宰率和肉品质的比较 [J].甘肃农业大学学报,1964(2):32-39.   
+[30] 张崇志,高爱武,侯先志,等.不同营养水平对羔羊肌肉组织学性状的影响[J].动物营养学
+
+报，2011,23(2):336-342.
+
+[31]赵彦光,洪琼花,谢萍,等.精料营养对云南半细毛羊屠宰性能及肉品质的影响[J].草业学 报,2014,23(2):277-286.   
+[32] 毛学荣.欧拉型藏羊的肉质分析[J].青海畜牧兽医杂志,2005,35(3):3-4.   
+[33]MILLER G J,KUNSMAN JE,FIELD R A.Characteristics of soft subcutaneous fat in ram lambs fed corn and corn-silage diets[J].Journal of Food Science,1980,45(2):279-282.   
+[34]杨公社,路兴中,刘孝惇,等.体重和营养对八眉猪脂肪酸组成的影响[J].畜牧兽医学 报,1992,23(3):231-236.   
+[35]HUNTER JE,ZHANG J,KRIS-ETHERTON P M,et al.Cardiovascular disease risk of dietary stearic acid comparedwithtrans,othersaturated,andunsaturated fattyacids:asystematic review[J].American Journal of Clinical Nutrition,2010,91(1):46-63. Effects of Concentrate Supplementation on Meat Quality of Pengbo Semi-Fine Wool Sheep in Tibet JIN Yanmei1WU Junxi² LI Peng³WU Hongxin³ZHANG Xiaoqing3\* (1. Faculty of Marine Studies, Shandong University (Weihai), Weihai 264209,China; 2. Institute of Geographic Science and Natural Resources Research of Chinese Academy of Sciences, Beijing 100101, China; 3. Grassland Research Institute of Chinese Academy of Agricultural Sciences, Hohhot 010010, China)
+
+Abstract: The objective of this study was to investigate the effects of concentrate supplementation on meat quality of Pengbo semi-fine wool sheep in Tibet. Thirty Pengbo semi-fine wool adult ewes were randomly assigned to three groups with 1O ewes per group by the homogeneous principle, which were farming without concentrate supplementation (G1, control) group, $2 0 0 ~ \mathrm { g / d }$ concentrate supplementation (G2） group, and $4 0 0 ~ \mathrm { g / d }$ concentrate supplementation (G3） group. The animals received supplementation at 19:30 everyday throughout the 75 days of trial period. At the end of the trial,ewes were slaughtered,and their Longissimus dorsi were collcted to measure nutrient contents and histochemical characteristics.The results showed as follows: the supplementation of high level of concentrate could improve total dry mater intake,and G3 group had a significantly higher average daily gain than G1 and G2 groups $( P { < } 0 . 0 5 )$ ： $\mathsf { p H } _ { 1 \mathrm { h } }$ （204号 $\mathrm { p H } _ { 2 4 \textrm { h } }$ ，drip loss,and moisture and ash contents of meat were not significantly affected by concentrate supplementation $( P { > } 0 . 0 5 )$ , but cooked meat percentage, crude protein, intramuscular fat contents, and fiber density of meat in G3 group were significantly higher than those in G1 group（ $P { < } 0 . 0 5 \$ ）； G2 and G3 groups had significantly higher total amino acid, essential amino acid and asparagine contents compared to G1 group( $P { < } 0 . 0 5 { \mathrm { ; } }$ ）; phenylalanine and lysine contents were significantly higher in G3 group than G1 group ( $_ { ( P < 0 . 0 5 ) }$ ,and there was a tendency of increase for threonine and glutamic acid proportions ( $0 . 0 5 \leqslant$ ${ P / { < 0 . 1 0 } ) }$ ; the contents of saturated fatt acid, monounsaturated and polyunsaturated fatty acids of meat were not significantly affected by concentrate supplementation $( P { > } 0 . 0 5 )$ ,and C18:1 trans-9 content waslower in tendency in G3 group when compared to G1 group ( $( 0 . 0 5 { \leqslant } P { < } 0 . 1 0 )$ . It is concluded that concentrate supplementation enables to improve nutrient value and tenderness of meat of Pengbo semi-fine wool ewes, and the effects of $4 0 0 \ { \mathrm { g / d } }$ are superior to $2 0 0 \mathrm { g / d }$ Key words: Tibet Pengbo semi-fine wool ewe; farming; supplementation; meat quality; amino acid; fatty acid composition

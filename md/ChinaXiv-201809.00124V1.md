@@ -1,0 +1,236 @@
+# 厌恶与恐惧面孔的记忆编码、保持、提取
+
+# 张丹丹 葡义芹 柳昀哲 罗跃嘉 蒋冬红
+
+(深圳大学心理与社会学院；深圳市情绪与社会认知科学重点实验室(深圳大学)，深圳 518060)
+
+摘要情绪记忆增强效应在负性情绪记忆研究中被反复证实。尽管厌恶和恐惧同属负性情绪，提示威胁的存在，但由于它们的进化意义和生理功能不同，可能导致它们对记忆的编码、保持、提取三个阶段不同的调节方向或调节强度。本文采用延迟再认任务，采用事件相关电位考察健康成年被试对唤醒度和效价相当的恐惧和厌恶面孔的记忆编码、保持和提取。结果显示,1)在记忆编码的早期，被试主要加强了对恐惧面孔的注意(P1)和结构编码(N170),而厌恶信息的加工受到了抑制;2)从记忆编码晚期到记忆保持的整个阶段，被试对厌恶信息的精细评估(编码阶段P3)和复述保持(保持阶段的负走向慢波)均强于恐惧信息;3)相比于恐惧面孔，厌恶面孔可能在工作记忆系统形成了更强的表征，从而使被试在记忆提取时可回忆起更多的细节，对记忆提取的信心更足(提取阶段P3)。这后两条发现是导致行为层面上厌恶情绪记忆优于恐惧情绪记忆的原因。本研究为“厌恶比恐惧具有更强的记忆增强效应"提供了高时间分辨率的脑活动层面的证据，从而进一步揭示了负性情绪增强记忆的认知机制。
+
+关键词短时记忆；编码；记忆保持；记忆提取；负性情绪；厌恶
+
+分类号 B842
+
+# 1引言
+
+记忆包含编码、保持(巩固)和提取(检索)三个主要阶段。通常来说，情绪性信息会在记忆的各个阶段导致记忆增强(LaBar&Cabeza,2006)：在编码阶段，人们的注意会被自动地导向具有显著情绪意义的刺激或事件(Schupp etal.,2007)；情绪信息被编码登记后，与中性信息相比，大脑会对之进行更多的复述和精细加工(Sharot&Phelps,2004)以及更准确的检索提取(Buchanan,2007)。
+
+情绪记忆增强效应在负性情绪记忆的研究中被反复证实(Kensinger,2007)。但是，不同类型的负性情绪均能在记忆的三个阶段使记忆增强吗？如果是，它们的记忆增强效应在各阶段有强弱差别吗？此问题的提出是受到已有注意研究的启发，因为不少研究发现，恐惧/愤怒情绪信息与厌恶情绪信息对注意的调节方向是相反的，前者吸引注意而后者抑制注意(Bertels,Kolinsky,Coucke,&Morais,2013;Cisler & Olatunji,2010;Krusemark &Li,2013；Liu,Zhang,& Luo,2015；You &Li,2016;Zhang,Liu,Wang,Ai,&Luo,2017;Zimmer,Keppel,Poglitsch,&Ischebeck,2015)。既然不同种类的负性情绪能对注意产生不同的影响，那他们可能对记忆的影响也有所不同。
+
+针对此问题，已有三项研究报道了行为学层面的结果。首先,Charash和McKay(2002)观察到在Stroop任务之后，被试对厌恶词的回忆正确率高于恐惧词和中性词。然后,Croucher等(2011)发现人们对厌恶情绪图片的记忆成绩要明显优于恐惧和中性图片。接着，Chapman等(2013)在控制了记忆编码阶段的注意强度、图片的唤醒度等因素后，仍发现厌恶情绪图片具有明显的记忆增强效应(与恐惧和中性图片相比)。除了以上三项行为学研究，最近Marchewka等(2016)采用定向遗忘范式发现，虽然厌恶、恐惧和悲伤图片在新旧再认测试中均产生了强度相当的记忆增强效应，但回归分析说明，厌恶的记忆增强更显著的归因于厌恶情绪本身而不是情绪图片的唤醒度和效价。同时，正确再认的厌恶图片比正确再认的恐惧和悲伤图片更强地激活了左侧杏仁核。这些研究均说明，厌恶作为一种基本情绪类型，其记忆增强的神经机制与其他负性情绪(例如恐惧)有所不同。需要指出的是，此四项研究中，仅Chapman 等(2013)的实验匹配了不同种类负性情绪材料的效价和唤醒度。由于情绪材料的唤醒度和效价均对记忆产生明显影响(LaBar,2007),因此我们认为只有在情绪材料条件间匹配了此两个变量，才能考察不同情绪类型对记忆的影响。
+
+本文采用延迟再认任务(delayedrecognitiontask；Langeslag，Morgan，Jackson，Linden，&VanStrien，2009；Morgan，Klein，Boehm，Shapiro，&Linden，2008)，考察健康成年被试对唤醒度和效价相当的恐惧和厌恶面孔的记忆成绩。该范式能较好的分离记忆编码、保持和提取三个阶段，从而使我们能分别考察负性情绪对记忆各阶段的影响。根据上述四项研究，本文预期人们对厌恶面孔的记忆成绩会优于恐惧面孔。与已有的四项研究不同的是，本实验同时记录了被试在记忆的编码、保持和提取阶段的事件相关电位(event-related potential,ERP),据此可以得知厌恶和恐惧面孔具体是在哪个记忆阶段以及每个记忆阶段的哪个认知成分，诱发了比中性面孔更强(或更弱)的脑电活动。因此本研究能为负性情绪的记忆增强效应提供高时间分辨率的脑活动层面的证据，从而揭示不同负性情绪是如何在记忆的各阶段对其产生影响的。除了情绪类型，本研究还考察了“记忆负荷"变量(Morgan et al.,2008)，因为情绪对记忆的影响可能在不同记忆负荷下有所差异(Gibbons，Seib-Pfeifer,Koppehele-Gossel,& Schnuerch,2018;Guhn et al.,2015;Patel et al., 2016)。
+
+参考已有的记忆及情绪加工的ERP文献，本文考察的ERP成分包括：记忆编码和提取阶段的枕区P1，颞枕区N170，顶区P3，以及记忆保持阶段的负走向慢波(negative-going slow wave,NSW)。枕区的P1是公认的“早期注意”标记物(Hillyard&
+
+Anllo-Vento,1998)，受到情绪信息调节(Schupp etal.，2007；Zhang,Luo，& Luo，2013；Zhang et al.,2014)。N170 是反映面孔结构编码的经典成分(Eimer,2000)，也会受到面孔情绪的调节(Zhanget al.,2013)。顶区P3(即P3b)通常被认为反映了自顶向下的(top-down)认知资源的分配(Zhanget al.,2014)。情绪(特别是负性情绪)刺激会诱发比中性刺激更大的 P3(Olofsson,Nordin, Sequeira,& Polich, 2008)。P3成分也被许多研究证实与记忆密切相关，成功回忆的项目比回忆失败的项目在编码和提取阶段均能诱发更大的P3(Ruggetal.,1998)。前额区的NSW反映了大脑对信息的保持和复述，该成分贯穿整个记忆保持阶段(Ruchkin，Johnson，GrafmanCanoune,& Ritter,1992;Wang et al.,2016)。
+
+已有研究发现，在记忆编码阶段，负性材料诱发的P3幅度大于中性材料(Hauswald, Schulz,Iordanov,&Kissler,2011；Xie,Jiang,& Zhang,2018；Yang etal.,2012)，提示人们对负性材料分配了更多认知资源以便进行更深入的精细加工。同时，在记忆提取阶段，负性材料诱发的P1和P3幅度显著大于中性材料(Xie et al., 2018; Zhang,Xie,Liu,& Luo,2016);在此阶段，N170的幅度也被不同效价的情绪刺激所调节(Galli,Feurra,& Viggiano,2006)。另外，在空间工作记忆中，负性情绪使得额区的NSW较中性条件有更明显的负向漂移(Li,Chan,&Luo,2010)。对于记忆负荷变量，Morgan等(2008)以及Langeslag等(2009)的研究发现，编码和提取阶段的P3幅度以及提取阶段的N170幅度均随记忆负荷的增加而减小；编码阶段的N170幅度随记忆负荷的增加而增大；而P1的幅度不受记忆负荷影响。另外,Ruchkin等(1992)在言语工作记忆研究中发现,前额NSW的波幅随工作记忆负荷的增加而增大。
+
+本文将参考以上情绪记忆研究的ERP知识，考察被试对恐惧、厌恶、中性面孔记忆的编码、保持和提取阶段的ERP各成分在情绪和记忆负荷两个维度下的差异。我们预期随着记忆负荷的增大，编码和提取阶段的P3幅度以及提取阶段的N170幅度减小，而编码阶段的N170幅度以及保持阶段的NSW幅度增加，且情绪效应在高记忆负荷下表现得更明显。由于未曾有关于厌恶情绪记忆的ERP报道，本文暂不对ERP各成分的情绪主效应进行预期。
+
+# 2 方法
+
+# 2.1被试
+
+共60名健康成年被试参与了行为实验(21\~27岁，30名男性)，其中30名被试同时采集了脑电数据(15名男性被试)。被试均为右利手，视力或矫正视力正常。实验前均被告知了研究目的、实验内容及注意事项，并签署了知情同意书。本实验方案获得了深圳大学伦理委员会的批准。
+
+# 2.2 实验材料
+
+面孔图片60张，男女演员各半，选自中国面孔表情图片库(龚栩、黄宇霞、王妍和罗跃嘉,2011)。其中恐惧、厌恶和中性图片各20张。图片库提供的图片效价和唤醒度9点评分显示，恐惧 $( 2 . 6 9 \pm$ 0.36, $p < 0 . 0 0 1 \$ 和厌恶面孔图片 $( 2 . 7 7 \pm 0 . 3 7$ $p <$ 0.001)的效价显著低于中性面孔图片(中性 $= 4 . 4 0 \pm$ 0.48; $F ( 2 , 5 7 ) = 1 1 4$ ·， $p < 0 . 0 0 1$ · $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 8 0 0 \}$ ；恐惧1 $\left( 6 . 8 2 \pm 0 . 9 3 \right.$ ， $p < 0 . 0 0 1 \$ )和厌恶面孔图片 $( 6 . 4 7 \pm 0 . 7 7$ $p < 0 . 0 0 1 \AA .$ 的唤醒度显著高于中性面孔图片(中性 $\mathbf { \Sigma } = \mathbf { \Sigma }$ $3 . 8 3 \pm 0 . 5 7$ ·， $F ( 2 , 5 7 ) = 8 9 . 0 \$ · $p < 0 . 0 0 1$ ·， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 7 5 7 )$ ·恐惧和厌恶面孔图片的效价和唤醒度无显著差异。
+
+另从图片库中选取60张中性面孔图片，男女演员各半。将每张图片切割为 $6 { \times } 7$ 的矩形，打乱顺序，制作为马赛克图片。
+
+所有的材料以相同的对比度和亮度呈现在黑色背景上。面孔图片视角为 $2 . 4 ^ { \circ } \times 2 . 8 ^ { \circ }$ 。
+
+# 2.3 实验程序及考察变量
+
+本研究考察“情绪”(恐惧、厌恶、中性)和“记忆负荷”(低负荷 $n = 1$ ，高负荷 $n = 3$ )两个变量，因此为 $3 { \times } 2$ 的被试内设计。在6个条件中，每个条件设置64个实验试次。“情绪"变量为block设计，3个block对应三种情绪类型，block的顺序在被试间平衡。
+
+刺激材料的呈现时间参照相关的两篇ERP文献(Morgan et al.,2008; Langeslag et al., 2009)。如图1所示，每个试次在以中央注视点为直角坐标中心的四个象限出现1张或3张面孔图片(概率各 $50 \%$ 以及3张或1张马赛克图片。面孔及马赛克图片由程序随机从每个block的20张面孔及马赛克图片中抽取。
+
+低记忆负荷 $( n = 1 )$ 条件下，1张面孔图片在四个象限之一出现的概率为 $2 5 \%$ ；高记忆负荷 $( n = 3 )$ （204号条件下，1张马赛克图片在四个象限之一出现的概率为 $2 5 \%$ 。记忆编码时间为2秒，记忆保持时间为1秒。随后在记忆提取阶段，新面孔(未在本试次编码阶段出现)或旧面孔(本试次编码阶段出现)呈现时间为 $5 0 0 ~ \mathrm { { m s } }$ (新旧面孔概率各 $50 \%$ )。被试被要求在整个实验阶段注视屏幕中央，在记忆提取阶段又快又准地判断该面孔图片是否在本试次的编码阶段出现过，用双手食指在电脑键盘上按键，“是”和“否"对应F和J键(F和J对应的含义在被试间平衡)。
+
+# 2.4 数据采集及分析
+
+使用64导脑电放大器(Brain Products,Gilching,德国)采集脑电和眼电数据，电极的阻抗低于 $5 \mathrm { k } \Omega$ 。参考电极置于左侧乳突，离线转为全脑平均参考。脑电中的水平和垂直眼电利用 Scan 4.3(NeuroScanInc.,Herndon，美国)内置的回归程序去除。数据分析采用 Matlab R201la(MathWorks,Natick，美国)。脑电数据依次经过以下处理：滤波 $( 0 . 0 1 { \sim } 3 0 ~ \mathrm { H z }$ ，零相位延迟)、分段、基线矫正 $( - 2 0 0 { \sim } 0 ~ \mathrm { m s } )$ 、叠加平均(仅选用行为反应正确的试次进行叠加)。
+
+本文分析记忆的编码(P1/N170/P3)、保持(NSW)、提取(P1/N170/P3)三个阶段各自对应的ERP成分。对于P1和N170，由于本文并未发现实验变量在大脑左右两侧存在显著差异，故合并左右半球的数据。因此，下文报告的枕区P1波形为以下电极点数据的均值：O1,O2,PO3,PO4。类似的,N170 波形为以下电极点数据的均值：PO7,PO8,P7,P8。P3 波形为P1,Pz,P2,CP1,CPz,CP2电极点数据的均值。NSW 波形为F1,Fz,F2,FC1,FCz,FC2 电极点数据的均值。
+
+![](images/62c8f58e083127f8c43a87a245205028714fca73da3602d199904ba5742a6fb9.jpg)  
+图1实验材料呈现示意图
+
+本文分别以记忆的编码以及提取阶段的起始时刻作为ERP分段的零时刻，即在每个试次中提取两段ERP波形进行分析。我们对ERP成分在某时间窗内的平均波幅进行统计。时间窗的选择遵循以下原则：中点为ERP成分的峰潜伏期，早期尖锐的ERP成分选用较窄的时间窗，而晚期波形较钝的ERP成分选用较宽的时间窗。根据各成分的平均波形,P1成分时间窗为刺激出现后 $1 0 0 { \sim } 1 4 0 ~ \mathrm { m s }$ (编码阶段)或 $1 2 0 { \sim } 1 6 0 ~ \mathrm { m s }$ (提取阶段)。N170的时间窗为$1 6 0 { \sim } 2 0 0 ~ \mathrm { m s }$ (编码阶段)或 $1 7 0 { \sim } 2 1 0 ~ \mathrm { m s }$ (提取阶段)。P3成分为 $3 0 0 { \sim } 6 0 0 ~ \mathrm { m s }$ (编码阶段)或 $3 0 0 \sim 7 0 0 ~ \mathrm { m s }$ (提取阶段)。NSW为 $8 0 0 { \sim } 3 0 0 0 ~ \mathrm { m s }$ 。度量P1、N170、P3三个成分时，在记忆的编码和提取阶段选用了稍微不同的时间窗，原因是ERP成分的潜伏期在记忆提取阶段更长。
+
+需要指出的是，本文并未考察“新旧效应”(Finnigan, Humphreys,Dennis,& Geffen, 2002; Rugg&Curran，2007)，即提取阶段的ERP分析合并了“新面孔"和“旧面孔"两个条件。主要原因是本文关注的变量为“情绪"和“记忆负荷”，如果再加上新旧效应，每个条件下的ERP试次不足(约 $30 \%$ 被试不足 20 个试次)。
+
+本文采用信号检测论的指标 $d ^ { \prime }$ 和 $\mathbf { \Psi } _ { c }$ 度量被试反应的敏感性和有偏性。其中 $d ^ { \prime } =$ (击中率 $z$ 值-虚报率 $z$ 值)/1.414; $c = - 0 . 5 \times ($ 击中率 $z$ 值 $+$ 虚报率 $z$ 值)。
+
+# 2.5 统计
+
+统计分 析采用 SPSS Statistics 20.0（IBM,Somers，美国)。描述性统计量表示为“均值 $\pm$ 标准差”。对行为及ERP因变量进行双因素重复测量方差分析(Greenhouse-Geisser矫正)，被试内因素为面孔情绪类型和记忆负荷。显著性水平为 $p < 0 . 0 5$ 。
+
+多重比较采用Bonferroni矫正。
+
+# 3 结果
+
+# 3.1行为
+
+在反应时指标上(图2A)，情绪的主效应显著$( F ( 2 , 1 1 8 ) = 4 . 1 0$ ， $p = 0 . 0 1 9$ ， $\begin{array} { r }  \mathfrak { \eta } _ { \mathtt { p } } ^ { 2 } = 0 . 0 6 5 \ \end{array}$ ，厌恶面孔$( 6 5 8 \pm 1 6 0 ~ \mathrm { m s } )$ 和恐惧面孔 $( 6 5 9 \pm 1 4 1 ~ \mathrm { m s }$ $p = 0 . 0 0 2 \mathrm { , }$ 的记忆提取反应时比中性面孔更短 $( 6 7 9 \pm 1 5 2 ~ \mathrm { m s } )$ 。记忆负荷的主效应显著 $( F ( 1 , 5 9 ) = 2 7 9$ ， $p < 0 . 0 0 1$ $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 8 2 5 )$ ，高记忆负荷下记忆提取的反应时（2 $( 7 3 7 \pm 1 4 9 ~ \mathrm { m s } )$ 比低记忆负荷更长， $( 5 9 3 \pm 1 1 5 ~ \mathrm { m s } )$ 0
+
+在 $d ^ { \prime }$ 指标上，情绪的主效应显著 $( F ( 2 , 1 1 8 ) =$ 13.8, $p < 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 1 9 0 )$ ，厌恶面孔 $( 0 . 7 9 4 \pm 0 . 1 6 6 )$ 比恐惧面孔 $( 0 . 7 6 8 \pm 0 . 1 9 1$ ， $p = 0 . 0 2 7 \mathrm { , }$ 和中性面孔$( 0 . 7 4 3 \pm 0 . 1 9 7$ ， $p < 0 . 0 0 1 \$ 的记忆提取成绩更好，恐惧面孔比中性面孔的记忆提取成绩更好 $( p \ =$ 0.049)。记忆负荷的主效应显著 $( F ( 1 , 5 9 ) = 8 6 2 \$ ， $p <$ 0.001, $\begin{array} { r } { \boldsymbol \eta _ { \mathrm { p } } ^ { 2 } = 0 . 9 3 6 \mathrm { , } } \end{array}$ ，高记忆负荷下记忆提取的成绩$( 0 . 6 1 3 \pm 0 . 1 2 2 )$ 低于低记忆负荷条件 $( 0 . 9 2 4 \pm 0 . 0 7 7 )$ 。情绪与记忆负荷的交互作用显著 $( F ( 2 , 1 1 8 ) = 5 . 8 0$ $p = 0 . 0 0 5$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 0 9 0 )$ ：情绪效应在高记忆负荷下（204号 $( F ( 2 , 1 1 8 ) = 1 3 . 8 \$ ， $p < 0 . 0 0 1$ ；中性 $= 0 . 5 7 4 \pm 0 . 1 2 1$ 恐惧 $= 0 . 6 1 0 \pm 0 . 1 2 5$ ，厌恶 $= 0 . 6 5 4 \pm 0 . 1 0 7$ ；厌恶 $>$ 恐惧, $p = 0 . 0 2 7$ ；厌恶 $>$ 中性, $p < 0 . 0 0 1$ ；恐惧 $>$ 中性, $p = 0 . 0 6 7 \mathrm { ; }$ 比在低记忆负荷下更显著 $( F ( 2 , 1 1 8 ) =$ 2.78, $p = 0 . 0 6 6$ ；中性 $= 0 . 9 1 1 \pm 0 . 0 7 7$ ，恐惧 $= 0 . 9 2 6 \pm$ 0.087，厌恶 $= 0 . 9 3 4 \pm 0 . 0 6 3$ ；厌恶 $>$ 中性, $p = 0 . 0 4 0$ 图2B)。
+
+在 $\mathbf { \Psi } _ { c }$ 指标上，没有发现显著的主效应和交互效应 $F < 1$ ：， $c = - 0 . 0 1 5 \pm 0 . 4 9 0$ ；图2C)。
+
+# 3.2 ERP
+
+# 3.2.1 记忆编码阶段
+
+对于枕区的P1成分，情绪的主效应显著$( F ( 2 , 5 8 ) = 1 2 . 7 \$ ， $p = 0 . 0 0 1$ ， $\begin{array} { r } { \eta _ { \mathrm { p } } ^ { 2 } = 0 . 3 0 5 ) } \end{array}$ ，恐惧面孔$( 4 . 9 8 \pm 2 . 5 6 \ \mu \mathrm { V } )$ 比中性 $( 4 . 5 1 \pm 2 . 2 3 ~ \mu \mathrm { V } , p = 0 . 0 0 7 )$ 和厌恶面孔 $( 3 . 7 6 \pm 3 . 0 3 ~ \mu \mathrm { V } , p < 0 . 0 0 1 )$ 诱发的P1幅度更高。另外，厌恶面孔诱发的P1幅度略小于中性面孔诱发的P1幅度，但不显著 $( p = 0 . 0 8 3 )$ 。情绪与记忆负荷的交互作用显著 $( F ( 2 , 5 8 ) = 1 4 . 0 \$ $p < 0 . 0 0 1$ $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 3 2 6$ ；图3A)：情绪效应在高记忆负荷下显著（204号 $( F ( 2 , 5 8 ) = 2 2 . 8 \$ 0 $p < 0 . 0 0 1$ ；中性 $= 4 . 5 0 \pm 2 . 2 2 \mu \mathrm { V } ,$ （204恐惧 $= 5 . 4 8 \pm 2 . 2 4 \mu \mathrm { V } ,$ 厌恶 $= 3 . 2 9 \pm 3 . 1 0 ~ \mu \mathrm { V }$ ；厌恶<中性 $<$ 恐惧, $p \mathbf { s } < 0 . 0 1 \AA _ { , \ }$ )，而在低记忆负荷下不显著$( F ( 2 , 5 8 ) < 1 \$ ；中性 $= 4 . 5 2 \pm 2 . 2 8 \ \mu \mathrm { V } ,$ 恐惧 $= 4 . 4 9 \pm$
+
+$2 . 7 9 ~ \mu \mathrm { V } ,$ ，厌恶 $= 4 . 2 2 \pm 2 . 9 4 ~ \mu \mathrm { V } ) .$ 0
+
+对于颞枕区的N170成分，情绪的主效应显著$( F ( 2 , 5 8 ) = 6 . 8 0$ ， $p = 0 . 0 0 2$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 1 9 0 \$ )，恐惧面孔（204号 $( - 7 . 6 4 \pm 4 . 5 8 ~ \mu \mathrm { V } )$ 比中性 $( - 6 . 9 1 \pm 4 . 3 3 ~ \mu \mathrm { V } , p = 0 . 0 1 4 )$ 和厌恶面孔 $( - 6 . 6 4 \pm 4 . 1 5 ~ \mu \mathrm { V } , p = 0 . 0 0 3 )$ 诱发的 N170幅度更大。记忆负荷的主效应显著 $( F ( 1 , 2 9 ) = 3 7 . 7 , p <$ 0.001, $\begin{array} { r } { \mathfrak { \eta } _ { \mathtt { p } } ^ { 2 } = 0 . 5 6 5 ) } \end{array}$ ，高记忆负荷 $( - 7 . 6 6 \pm 4 . 3 6 ~ \mu \mathrm { V } )$ 诱发的 N170幅度大于低记忆负荷 $( - 6 . 4 7 \pm 4 . 2 8 ~ \mu \mathrm { V } ) _ { s }$ 情绪与记忆负荷的交互作用显著 $( F ( 2 , 5 8 ) = 1 2 . 3 , p < 0 . 0 0 1$ $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 2 9 7$ ；图3B)。情绪效应在高记忆负荷下显著$( F ( 2 , 5 8 ) = 2 8 . 6 \$ ， $p < 0 . 0 0 1 \cdot$ ）：恐惧面孔 $( - 8 . 7 7 \pm 4 . 3 5$ $\mu \mathrm { V } )$ 比中性 $( - 7 . 4 4 \pm 4 . 3 3 ~ \mu \mathrm { V } , p < 0 . 0 0 1 )$ 和厌恶面孔（204号 $( - 6 . 7 6 \pm 4 . 3 2 ~ \mu \mathrm { V } , p < 0 . 0 0 1 )$ 诱发的N170幅度更大。
+
+![](images/70f00324ef1071ec8cbe0dd7f83d1f5916029175588852b4fbef7a7e716409c4.jpg)  
+图2各实验条件下的行为结果。A，反应时(RT)。B，辨别力指数(d)。C，反应偏向(c)。注：彩图见电子版，下同
+
+![](images/8950734c3ae1cb96f63da7b1edb2c1ece71a7110c2347faf1ffd9349cc06d07f.jpg)  
+图3记忆编码阶段的ERP波形图。A，枕区P1成分，波形为O1,O2,PO3,PO4 电极点数据的均值。B，颞枕区N170成分，波形为 PO7,PO8,P7,P8 电极点数据的均值。C，顶区P3 成分，波形为P1, $\mathrm { P z }$ ,P2,CP1, $\mathrm { C P z }$ ,CP2电极点数据的均值。
+
+另外，厌恶面孔诱发的N170幅度略小于中性面孔诱发的N170幅度，但不显著 $( p = 0 . 0 6 9 )$ 。然而，在低记忆负荷下情绪效应不显著 $( F ( 2 , 5 8 ) < 1 \$ ；中性 $\mathbf { \Sigma } = \mathbf { \Sigma }$ $- 6 . 3 8 \pm 4 . 3 3 \mu \mathrm { V } ,$ 恐惧 $= - 6 . 5 1 \pm 4 . 6 0 \ { \mu \mathrm { V } } ,$ 厌恶 $\mathbf { \Sigma } = \mathbf { \Sigma }$ $- 6 . 5 3 \pm 4 . 0 4 ~ \mu \mathrm { V } )$ 。
+
+对于顶区的P3成分，情绪的主效应显著$( F ( 2 , 5 8 ) = 1 2 . 4 \$ ， $p < 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 2 9 9 \AA$ ，厌恶面孔（204号 $( 6 . 1 1 \pm 3 . 0 7 ~ \mu \mathrm { V } )$ 比中性 $( 5 . 0 8 \pm 2 . 4 6 ~ \mu \mathrm { V } , p < 0 . 0 0 1 \$ 和恐惧面孔 $( 5 . 0 2 \pm 2 . 6 8 ~ \mu \mathrm { V } , p = 0 . 0 0 2 )$ 诱发的P3幅度更大。记忆负荷的主效应显著 $( F ( 1 , 2 9 ) = 1 5 . 7 , p <$ 0.001, $\begin{array} { r } { \eta _ { \mathrm { p } } ^ { 2 } = 0 . 3 5 1 ; } \end{array}$ ，高记忆负荷 $( 5 . 0 7 \pm 2 . 7 5 \ \mu \mathrm { V } )$ 诱发的P3 幅度小于低记忆负荷 $( 5 . 7 3 \pm 2 . 7 9 \ \mu \mathrm { V } )$ 。情绪与记忆负荷的交互作用显著 $( F ( 2 , 5 8 ) = 6 . 2 0 \$ ， $p =$ 0.004, $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 1 7 6$ ；图3C)。情绪效应在高记忆负荷下显著 $( F ( 2 , 5 8 ) = 1 3 . 7 , p < 0 . 0 0 1 )$ ：厌恶面孔 $( 6 . 1 4 \pm$ $3 . 0 4 ~ \mu \mathrm { V } )$ 比中性 $( 4 . 5 1 \pm 2 . 5 1 \mu \mathrm { V } , p = 0 . 0 0 1 )$ 和恐惧面孔 $( 4 . 5 6 \pm 2 . 4 2 ~ \mu \mathrm { V } , p = 0 . 0 0 1 )$ 诱发的P3 幅度更大。然而，在低记忆负荷下情绪效应不显著 $( F ( 2 , 5 8 ) =$ 3.11, $p = 0 . 0 5 2$ ；中性 $= 5 . 6 4 \pm 2 . 3 3 ~ \mu \mathrm { V } ,$ 恐惧 $= 5 . 4 8 \pm$ $2 . 8 9 ~ \mu \mathrm { V } _ { : }$ ，厌恶 $= 6 . 0 8 \pm 3 . 1 4 ~ \mu \mathrm { V } )$ 。
+
+# 3.2.2 记忆保持阶段
+
+本阶段的ERP锁时(零时刻)对应于编码阶段四幅图片开始呈现的时刻。注意： $2 0 0 0 ~ \mathrm { { m s } }$ 之后ERP波形中可见较明显的“撤反应”，即视觉刺激消失诱发的电活动，由于该撤反应未影响NSW的电位变化趋势，本文不做分析。另外，为了与已有文献保持一致(Langeslag et al.,2009;Morgan et al., 2008),在本研究中，NSW的分析时间窗跨越了记忆编码和保持两个阶段。
+
+对于额区的NSW成分，情绪的主效应显著$( F ( 2 , 5 8 ) = 1 9 . 0 \$ $p < 0 . 0 0 1$ ， $\boldsymbol \eta _ { \mathrm { p } } ^ { 2 } = 0 . 3 9 6$ ；图4)，厌恶面孔 $( - 6 . 0 1 \pm 7 . 8 5 \mathrm { \textmu V } )$ 诱发的 NSW比恐惧 $( - 4 . 7 9 \pm$
+
+$7 . 1 6 ~ \mu \mathrm { V } , p = 0 . 0 2 6 )$ 和中性面孔 $( - 3 . 5 1 \pm 7 . 5 5 ~ \mu \mathrm { V } , p <$ 0.001)诱发的NSW更负。恐惧面孔诱发的NSW比中性面孔更负 $( p < 0 . 0 0 1 )$ 。记忆负荷的主效应显著（204 $( F ( 1 , 2 9 ) = 1 3 . 8 \$ $p = 0 . 0 0 1$ ， $\begin{array} { r } { \eta _ { \mathrm { p } } ^ { 2 } = 0 . 3 2 2 \mathrm { , } } \end{array}$ ，高记忆负荷（204号 $( - 5 . 3 7 \pm 7 . 3 5 \mu \mathrm { V } )$ 诱发的NSW比低记忆负荷 $( - 4 . 1 7 \pm$ $7 . 7 4 ~ \mu \mathrm { V } )$ 更负。
+
+# 3.2.3 记忆提取阶段
+
+对于枕区的P1成分，情绪的主效应显著$( F ( 2 , 5 8 ) = 1 4 . 6 , p < 0 . 0 0 1 , \eta _ { \mathrm { p } } ^ { 2 } = 0 . 3$ ；图5A)，恐惧面孔 $( 6 . 0 7 \pm 3 . 0 7 \ \mu \mathrm { V } )$ 比中性 $( 5 . 6 6 \pm 2 . 7 4 \mathrm { ~ \textmu V } ,$ $p =$ 0.018)和厌恶面孔 $( 5 . 1 5 \pm 2 . 8 4 ~ \mu \mathrm { V } , p < 0 . 0 0 1 )$ 诱发的P1幅度更高，中性面孔比厌恶面孔诱发的P1幅度更高 $( p = 0 . 0 3 0 )$ 。记忆负荷的主效应显著 $( F ( 1 , 2 9 ) =$ 37.8, $p < 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 5 6 6 )$ ，高记忆负荷 $( 6 . 1 0 ~ \pm$ $2 . 9 1 ~ \mu \mathrm { V } )$ 诱发的P3幅度大于低记忆负荷 $( 5 . 1 5 \pm 2 . 8 1$ $\mu \mathrm { V } ,$ 0
+
+对于颞枕区的N170成分，情绪的主效应显著$( F ( 2 , 5 8 ) = 3 1 . 8 \$ $p < 0 . 0 0 1$ ， $\boldsymbol \eta _ { \mathrm { p } } ^ { 2 } = 0 . 5 2 3$ ；图5B)，恐惧（204号 $( - 7 . 4 1 \pm 4 . 3 2 \mu \mathrm { V } , p < 0 . 0 0 1 )$ 和厌恶面孔 $( - 6 . 8 5 ~ \pm$ $3 . 7 5 ~ \mu \mathrm { V } _ { : }$ $p < 0 . 0 0 1 \$ 比中性面孔 $( - 5 . 2 0 \pm 4 . 5 8 ~ \mu \mathrm { V } )$ 诱发的N170幅度更大。另外，恐惧面孔诱发的N170比厌恶面孔诱发的 N170 略大，但不显著 $( p = 0 . 0 8 1 )$ 。
+
+记忆负荷的主效应显著 $( F ( 1 , 2 9 ) = 4 2 . 1 , p < 0 . 0 0 1$ $\eta _ { \mathsf { p } } ^ { 2 } =$ 0.592)，高记忆负荷 $( - 5 . 5 5 \pm 3 . 9 9 \mathrm { \textmu V } )$ 诱发的N170幅度小于低记忆负荷 $( - 7 . 4 2 \pm 4 . 4 4 ~ \mu \mathrm { V } )$ 。
+
+对于顶区的P3成分，情绪的主效应显著$( F ( 2 , 5 8 ) = 1 6 . 2 \$ ， $p < 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 3 5 8$ ；图5C)，厌恶面孔 $( 5 . 6 0 \pm 3 . 0 2 \ \mu \mathrm { V } )$ 比恐惧 $( 4 . 8 0 \pm 2 . 8 7 \mu \mathrm { V } ,$ （204 $p =$ 0.017)和中性面孔 $( 4 . 0 1 \pm 3 . 3 2 \mu \mathrm { V } , p < 0 . 0 0 1 )$ 诱发的P3 幅度更大。恐惧面孔比中性面孔诱发的P3幅度更大 $( p = 0 . 0 0 2 )$ 。记忆负荷的主效应显著 $( F ( 1 , 2 9 ) =$ 22.4, $p < 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 4 3 6 )$ ，高记忆负荷 $( 4 . 2 3 ~ \pm$ $3 . 1 8 ~ \mu \mathrm { V } )$ 诱发的P3幅度小于低记忆负荷 $( 5 . 3 8 ~ \pm ~ \$ $2 . 9 9 ~ \mu \mathrm { V } )$ 。
+
+# 4 讨论
+
+已有的大部分情绪性记忆研究认为，情绪记忆增强效应是由情绪信息的唤醒度以及效价造成的。很少有研究在平衡了唤醒度和效价两个变量之后，考察不同种类的情绪刺激是否会对记忆产生不同的影响。本文采用高时间分辨率的ERP技术,比较了两种高情绪唤醒度的、回避相关的(withdrawal-related)负性情绪—厌恶和恐惧对记忆编码、保持和提取各阶段的影响。
+
+![](images/a9008d0f1af2f95fc9af1590b873683a2ff9e78437687efb0cf50b4838e932a6.jpg)  
+图4记忆保持阶段的ERP 波形图。本图显示额区负慢波(NSW)，波形为F1,Fz,F2,FC1,FCz,FC2电极点数据的均值。
+
+![](images/5b66f2048627618986517b884350c58558deaa66f6ab776ad794e602f6cfc9a0.jpg)  
+图5记忆提取阶段的ERP波形图。A，枕区P1成分，波形为O1,O2,PO3,PO4电极点数据的均值。B，颞枕区 N170成分，波形为 PO7,PO8,P7,P8 电极点数据的均值。C，顶区P3 成分，波形为P1,Pz,P2,CP1, $\mathrm { C P z }$ CP2电极点数据的均值。
+
+# 4.1 厌恶与恐惧情绪信息对记忆的影响
+
+本文的行为结果显示，被试对负性情绪面孔的反应时短于中性面孔(Deveney&Deldin,2004),对负性面孔的分辨力指数 $d ^ { \prime }$ 高于中性面孔(Langeslag etal.,2009;Xie etal.,2018)。更重要的是，我们发现被试对厌恶面孔的 $d ^ { \prime }$ 高于恐惧面孔,这与已有的行为学研究结果相符(Chapman et al.,2013；Charash & McKay，2002；Croucher et al.,2011)。厌恶比恐惧的记忆增强效应更强可能是因为厌恶情绪提示事物的“传染"特性，而传染是非常容易发生的，且往往不需要接触。因此只有牢牢记住这些恶心的事物或是厌恶的线索(如面孔、语音),才能避免机体受到传染的侵害(Marchewkaet al.,2016)。
+
+除了行为学指标，本文的ERP以高时间分辨率揭示了厌恶和恐惧是如何影响各记忆加工阶段的。首先，在记忆编码阶段，两种负性情绪在三个ERP成分上均引起了幅度差异：1)与中性条件相比，恐惧面孔吸引而厌恶面孔抑制以P1为标志的早期注意(另见 Curtis,de Barra,& Aunger,2011; Krusemark &Li, 2013; Schupp et al., 2007; You & Li, 2016; Zhanget al.,2014);2)在面孔结构编码时间窗内也发现了类似的情绪效应，即恐惧面孔诱发了比中性面孔更大的N170，而厌恶面孔诱发的N170略小于中性条件(不显著);3)但是，负性情绪对ERP的影响模式在情绪面孔的精细加工时间窗内发生了改变，在此期间，厌恶面孔诱发了比恐惧和中性面孔更大的P3(另见 Santos,Iglesias,Olivares,& Young2008)。以上ERP结果与已有的情绪线索点探测研究中报告的结果极其相似(Liu etal.,2015; Zhang etal.,2017；Zimmeretal.,2015)。这些研究提示我们,与恐惧和愤怒情绪从一开始就吸引注意不同(Cacioppo&Gardner,1999)，厌恶情绪在被加工早期是抑制注意的，而后大脑再通过自顶向下的控制机制将主动注意等认知资源重新分配给厌恶刺激以对之进行深入加工(Curtis etal.,2011;Zhang etal.,2017)。造成这种加工模式的原因是不同负性情绪种类在进化意义、生理功能上不同：对恐惧线索的加工目的是避免被捕杀、被攻击等急性伤害，而对厌恶刺激的加工目的是避免疾病等慢性伤害(Neuberg,Kenrick,&Schaller,2011)。因此，大脑对恐惧刺激的加工是快速的、自动化的，而对厌恶刺激的加工会更慢且更多依赖于自顶向下的注意调节(Anderson, Christoff, Panitz,De Rosa,& Gabrieli,2003)。P3(或晚正成分)反映对刺激的精细评估(Ito,Larsen,Smith,&Cacioppo,1998)。一方面，由于厌恶情绪传递的威胁性刺激并非需要紧急处理，因此大脑对厌恶信息的编码主要体现在P3时间窗;另一方面，由于恐惧面孔已经在更早的认知环节(早期注意、面孔结构编码)得到了较充分的加工，根据“最小努力原则”(the principles of least effort;Zipf,1949)，在精细评估阶段就没有必要对其进行重复加工了(van Hooff,Devue,Vieweg,& Theeuwes,2013)。
+
+其次，在记忆保持阶段，本文发现NSW的负走向(negative-going)在情绪条件间存在显著差异,表现为厌恶面孔 $>$ 恐惧面孔 $, >$ 中性面孔。NSW反映工作记忆中信息的保持和暂存(Ruchkinet al.,1992)，人们会对自己更关注的信息投入更多的认知资源进行复述。例如,Deldin和Deveney的一系列研究发现，在情绪信息的记忆保持阶段，健康对照的NSW幅度表现为：高兴面孔 $, >$ 悲伤面孔 $, >$ 中性面孔，而抑郁症患者随着抑郁心境的加重，其NSW的负走向也越来越明显，且悲伤面孔诱发的NSW幅度升高，而高兴面孔诱发的NSW幅度降低(Deldin etal.,2001;Deveney&Deldin,2004;Shestyuk,Deldin,Brand,&Deveney,2005)。据此我们推测,本文的结果说明健康成年人在记忆保持阶段对厌恶面孔投入了比恐惧面孔更多的持续性注意和更多的复述努力。支持这一推测的研究有两项。在一项以厌恶、恐惧、中性图片为干扰刺激的分类任务中，被试的分类正确率在厌恶条件下最低，反应时最长，说明厌恶图片比恐惧图片更能持久地吸引被试的注 意（Carretié,Ruiz-Padial，López-Martin，&Albert,2011)。另有一项考察注意从情绪图片撤离的实验发现，厌恶图片比恐惧及中性图片更能持久地吸引被试的注意，因为图片消失后 $2 0 0 ~ \mathrm { { m s } }$ 内被试的注意仍难以从厌恶图片撤离(vanHooff et al.2013)。
+
+最后，在记忆提取阶段发现，恐惧面孔诱发的
+
+P1比中性面孔诱发的P1更大，而厌恶面孔诱发的P1比中性条件更小。该结果与记忆编码阶段的结果一致，因为P1通常被认为反映了自底向上的(bottom-up)、自动化的早期注意。在记忆提取阶段最重要的发现是，不但负性情绪诱发了比中性更大的P3幅度，而且厌恶比恐惧诱发的P3幅度也明显增大。记忆提取阶段的P3(或晚正成分)是记忆再认的重要指标，P3幅度与记忆提取的成功率表现为正相关(Paller et al. 1995;Wilding & Rugg,1996),这也与本文的行为结果(d')一致。也有研究表明 P3幅度与被试对记忆提取的信心程度、记忆提取的细节数量、以及记忆表征的强度相关(Rugg&Curran,2007;Weymar,Löw,Melzig,& Hamm,2009)。情绪材料的记忆研究发现，负性刺激会在提取阶段比中性刺激诱发更大的P3 幅度(Hauswald etal.,2011;Xie et al.,2018;Zhang et al.,2016)。本文发现厌恶面孔诱发的P3比恐惧面孔更大，这提示厌恶面孔可能在工作记忆系统中形成了更强的表征，从而使人们在记忆提取时可以回忆起更多的细节，对记忆提取的信心提高。有趣的是，记忆提取阶段的N170 幅度在两种负性情绪下均大于中性条件，这与编码阶段的模式不同(仅恐惧面孔诱发了更大的N170 幅度)。据此我们推测记忆提取阶段的 N170可能不仅受到情绪对面孔编码的自动化调节(此即编码阶段的N170机制)，还受到自顶向下的有意控制从而使与生存密切相关的情绪信息得到凸显(因此厌恶诱发的N170 幅度增大)。该推测得到了Righi等(2012)的支持，后者在实验中仅让情绪面孔出现在记忆的编码阶段，而在记忆提取时均呈现中性面孔，结果发现经过编码的恐惧面孔其对应的中性面孔(即恐惧和该中性面孔的演员是同一人)，比经过编码的高兴面孔其对应的中性面孔，在提取阶段诱发了更大顶正波(vertex positive potential;通常认为该成分与N170具有相同的神经源)和P3。4.2认知负荷对记忆的影响
+
+#
+
+记忆负荷方面，本文的行为结果显示，负荷对反应时和分辨力指数 $d ^ { \prime }$ 均存在主效应，高记忆负荷比低记忆负荷有更低的 $d ^ { \prime }$ 和更长的反应时间。同时，情绪效应在高记忆负荷条件下对 $d$ 的影响更显著。这些结果与已有文献一致(Langeslagetal.,2009;Morgan et al., 2008)。
+
+ERP结果显示，随着记忆负荷的增大，编码和提取阶段的P3以及提取阶段的N170幅度减小，而编码阶段的N170及保持阶段的NSW幅度增加，符合本文预期。NSW通常在头皮上分布较广，可在额、顶、枕、颞多个脑区观察到(Deldinetal.,2001;Rämäetal.,2000)。本文在额区统计NSW幅度是因为该成分的峰值出现在额区电极点(Lowet al.,1999)，同时Rama等(2000)的研究发现只有额区(相比于顶区和枕区)的NSW幅度在整个记忆保持阶段受到记忆负荷的影响是一致的。本文发现的编码和提取阶段两个P3成分的幅度均随负荷降低，但我们认为造成此结果的原因可能不同：编码阶段是由于负走向的NSW拉低了P3的幅度，因为二者的脑区有所重叠；提取阶段是由于更多的面孔占用了更多的注意和记忆保持等资源，因此留给刺激评估(由P3 表征)的资源就少了(Morgan et al.,2008)。至于N170在编码和提取阶段受记忆负荷的影响方向相反，我们认为可以作如下理解：编码阶段，随着面孔数量的增加，大脑需要调用更多的资源去对面孔的构造进行编码，因此诱发了更大的N170;而在提取阶段，与P3相似，由于更多的面孔占用了更多的注意和记忆保持等资源，留给测试面孔(testface)进行面孔构造编码的资源就少了。另外，本文还发现在提取阶段枕区的P1存在记忆负荷的主效应，该结果在已有的文献中未曾报道，而且P1随负荷的增加而增大，与N170 和 P3 的变化方向相反。因此我们认为此结果还需进一步在后续研究中验证。
+
+另外，本文的ERP结果显示，情绪和记忆负荷的交互作用仅存在于记忆编码阶段，而在记忆保持和提取阶段均未发现显著的交互。这些结果与已有的ERP文献报道一致。例如,MacNamara与其同事曾报道，记忆编码阶段的P3成分表现出了情绪与记忆负荷的交互(MacNamara&Proudfit,2014),而在记忆保持阶段的慢波成分则没有表现出交互效应(MacNamara,Ferri,& Hajcak,2011)。另外，与本文最相关的两篇ERP文献也得到了类似结果：对于记忆提取阶段的 ERP,Langeslag等(2009)仅报告了情绪效应，而 Morgan etal.(2008)则仅报告了记忆负荷效应，可见此两个因素在记忆提取阶段没有发生交互。在本文中，ERP在编码阶段的情绪、记忆负荷交互效应与行为数据 $\left( \mathrm { d ^ { \prime } } \right)$ 的结果一致，即高记忆负荷下情绪效应更强。这是因为高负荷下被试需要同时编码三张情绪面孔，因此大脑受情绪信息的调节作用更强。而在记忆提取阶段被试在高低负荷下都只需编码一张面孔的信息，此阶段的情绪加工可能不容易受到记忆负荷因素的调节。而记忆保持阶段为编码与提取之间的过渡阶段，从图4可看出有一定的情绪、负荷交互的趋势。与ERP研究在此问题上较一致的结果不同，有的功能磁共振(functional magnetic resonance imaging, fMRI)研究报道在情绪记忆任务中并未发现情绪与记忆负荷具有交互作用的脑区，提示情绪和记忆负荷的效应是独立的(Erk，Kleczar,&Walter,2007;Gläscher,Rose,&Büchel,2007)；而有的研究则发现情绪效应会受到记忆负荷水平的调节(Mueller,Cromheeke,Siugzdaite,&NicolasBoehler,2017)。我们认为造成ERP与fMRI结果不一致的原因是,ERP具有高时间分辨率，因此可有效区分不同的记忆阶段，而fMRI的时间分辨率有限，很可能无法区分记忆的编码、保持、提取各阶段的血氧动力学信号。
+
+# 4.3总结
+
+本文采用ERP技术考察了不同负性情绪(厌恶、恐惧)对记忆三个阶段的影响。结果显示，1)在记忆编码的早期，大脑主要加强了对恐惧面孔的注意(P1)和结构编码(N170)，而厌恶信息的加工受到了抑制;2)从记忆编码晚期到记忆保持的整个阶段，被试对厌恶信息的精细评估(P3)和复述保持(NSW)强于恐惧信息;3)相比于恐惧面孔，厌恶面孔可能在工作记忆系统形成了更强的表征，从而被试在记忆提取时可回忆起更多的细节，对记忆提取的信心更足(P3)。这后两条发现是导致行为层面上对厌恶情绪的记忆优于恐惧情绪的原因。本研究为“厌恶比恐惧具有更强的记忆增强效应”提供了高时间分辨率的脑活动层面的证据，从而进一步揭示了负性情绪增强记忆的认知机制。
+
+# 参考文献
+
+Anderson，A.K.，Christoff,K.，Panitz，D.，De Rosa,E.,& Gabrieli, J.D.E.(2oo3).Neural correlates of the automatic processing of threat facial signals.Journal ofNeuroscience, 23(13),5627-5633.   
+Bertels,J.,Kolinsky,R.,Coucke,D.,and Morais,J.(2013). When a bang makes you run away: spatial avoidance of threatening environmental sounds. Neuroscience Letters, 535,78-83.   
+Buchanan,T.W. (2oo7).Retrieval of emotional memories. Psychological Bulletin,133(5),761-779.   
+Cacioppo,J.T.,& Gardner,W.L.(1999).Emotion．Annual ReviewofPsychology,50,191-214.   
+Carretié,L.,Ruiz-Padial,E.,López-Martin,S.,& Albert,J. (2011).Decomposing unpleasantness:differential exogenous attention to disgusting and fearful stimuli.Biological Psychology,86(3),247-253.   
+Chapman,H.A.,Johannes,K.,Poppenk,J.L.,Moscovitch,M., & Anderson,A.K.(2013).Evidence for the differential salience of disgust and fear in episodic memory. Journal of Experimental Psychology: General,142(4),1100-1112.   
+Charash, M.,& McKay, D. (2002). Attention bias for disgust. Journal ofAnxiety Disorders,16(5),529-541.   
+Cisler，J. M.，& Olatunji， B.O. (2010).Componentsof attentional biases in contamination fear: evidence for difficulty in disengagement. Behaviour Research Therapy,48(1),74-78.   
+Croucher, C.J., Calder,A.J.,Ramponi, C., Barnard,P. J.,& Murphy,F. C. (2011). Disgust enhances the recollection of negative emotional images.PLoS ONE,6(11),e26571.   
+Curtis, V.,de Barra, M.,& Aunger, R. (20i1).Disgust as an adaptive system for disease avoidance behaviour.Philosophical Transactions of the Royal Society B:Biological Sciences, 366(1563),389-401.   
+Deldin,P. J., Deveney, C. M., Kim,A. S., Casas,B.R.,& Best, J. L. (2001). A slow wave investigation of working memory biases in mood disorders. Journal of Abnormal Psychology, 110(2),267-281.   
+Deveney, C.M.,& Deldin,P. J. (2004). Memory of faces: a slow wave ERP study of major depression. Emotion,4(3), 295-304.   
+Eimer,M. (2ooo).Event-related brain potentials distinguish processing stages involved in face perception and recognition. Clinical Neurophysiology,111(4), 694-705.   
+Erk,S.，Kleczar,A.，& Walter,H.(2007).Valence-specific regulation effects in a working memory task with emotional context. Neuroimage,37(2), 623-632.   
+Finnigan，S.，Humphreys,M.S.，Dennis,S.，& Geffen，G. (2002)． ERP 'old/new’effects: memory strength and decisional factor (s). Neuropsychologia,40(13),2288-2304.   
+Galli,G., Feurra,M.,& Viggiano,M.P.(2006).“Did you see him in the newspaper?”electrophysiological correlates of context and valence in face processing.Brain Research, 1119(1),190-202.   
+Gibbons，H.， Seib-Pfeifer,L.E.，Koppehele-Gossel, J.，& Schnuerch,R. (2018).Affective priming and cognitive load: Event-related potentials suggest an interplay of implicit affect misatribution and strategic inhibition.Psychophysiology, 55(4),e13009.doi: 10.1111/psyp.13009.[Epub ahead of print]   
+Gläscher,J.，Rose，M.，& Büchel，C.(2007)．Independent effects of emotion and working memory load on visual activation in the lateral occipital complex.Journal of Neuroscience,27(16), 4366-4373.   
+Gong,X., Huang,Y. X.，Wang, Y.，& Luo,Y. J.(2011). Revision of the Chinese facial affective picture system. Chinese Mental Health Journal, 25(1),40-46.   
+[龚栩，黄宇霞，王妍，罗跃嘉.(2011).中国面孔表情图片 系统的修订．中国心理卫生杂志,25(1),40-46.]   
+Guhn,A., Domschke,K.，Muller,L.D., Dresler,T.,Eff,F., Kopf,J.，... Herrmann，M.J. (2015). Neuropeptide S receptor gene variation and neural correlates of cognitive emotion regulation. Social Cognitive and Affective Neuroscience,10(12),1730-1737.   
+Hauswald,A.,Schulz,H.,Iordanov, T.,& Kissler, J.(2011). ERP dynamics underlying successful directed forgetting of neutral but not negative pictures. Social Cognitive and Affective Neuroscience,6(4), 450-459.   
+Hillyard, S.A.,& Anllo-Vento,L.(1998). Event-related brain potentials in the study of visual selective attention. Proceedings ofThe National Academy of SciencesUSA, 95(3), 781-787.   
+Ito,T.A.,Larsen,J.T., Smith,N.K.,& Cacioppo,J. T.(1998). Negative information weighs more heavily on the brain: The negativity bias in evaluative categorizations. Journal of Personality and Social Psychology,75(4),887-900.   
+Kensinger, E.A. (2007). Negative emotion enhances memory accuracy: Behavioral and neuroimaging evidence. Current Directions in Psychological Science,16(4),213-218.   
+Krusemark，E.A.，& Li，W.(2013).From early sensory specialization to later perceptual generalization: dynamic temporal progression in perceiving individual threats. The Journal of Neuroscience,33(2), 587-594.   
+LaBar,K. S. (2007).Beyond fear: Emotional memory mechanisms in the human brain. Current Directions in Psychological Science,16(4),173-177.   
+LaBar,K. S.,& Cabeza,R.(2006). Cognitive neuroscience of emotional memory. Nature Reviews Neuroscience,7(1), 54-64.   
+Langeslag, S.J., Morgan,H. M., Jackson, M. C., Linden, D.E. J.,& Van Strien,J.W. (2009). Electrophysiological correlates of improved short-term memory for emotional faces. Neuropsychologia, 47(3), 887-896.   
+Li, X.B., Chan,R. C.K.,& Luo,Y.J. (2010). Stage effects of negative emotion on spatial and verbal working memory. BMC Neuroscience,11,60.   
+Liu,Y. Z., Zhang,D.D.，& Luo,Y.J(2015).How disgust facilitates avoidance: an ERP study on attention modulation by threats. Social Cognitive and Affective Neuroscience, 10(4), 598-604.   
+Low,A.，Rockstroh，B.，Cohen，R.，Hauk，O.，Berg，P.，& Maier,W. (1999). Determining working memory from ERP topography. Brain Topography,12(1),39-47.   
+MacNamara,A.，& Proudfit,GH.(2014). Cognitive load and emotional processing in generalized anxiety disorder: electrocortical evidence for increased distractibility. Journal of Abnormal Psychology,123(3),557-565.   
+MacNamara，A.，Ferri,J.，& Hajcak，G.(2011).Working memory load reduces the late positive potential and this effect is attenuated with increasing anxiety. Cognitive, Affective,& Behavioral Neuroscience,11(3),321-331.   
+Marchewka,A., Wypych, M., Michalowski, J. M.,Sinczuk, M, Wordecha,M.,Jednoróg,K.,& Nowicka,A.(2016).What is the effect of basic emotions on directed forgetting? Investigating the role of basic emotions in memory.Frontiers in Human Neuroscience,10,378.   
+Morgan,H. M.,Klein,C.,Boehm，S.G., Shapiro,K.L.,& Linden,D.E.J. (2008).Working memory load for faces modulates P300,N170,and N250r.Journal of Cognitive Neuroscience,20(6), 989-1002.   
+Mueller, S. C., Cromheeke, S., Siugzdaite,R., Nicolas Boehler, C.(2017).Evidence for the triadic model of adolescent brain development: Cognitive load and task-relevance of emotion differentially affect adolescents and adults.Developmental Cognitive Neuroscience,26,91-100.   
+Neuberg,S.L.,Kenrick,D.T.,& Schaller,M.(2011).Human threat management systems: self-protection and disease avoidance. Neuroscience and Biobehavioral Reviews,35(4), 1042-1051.   
+Olofsson,J.K.,Nordin,S.， Sequeira,H.,& Polich,J. (2008). Affective picture processing: An integrative review of ERP findings. Biological Psychology, 77(3),247-265.   
+Paller,K.A.,Kutas,M.,& McIsaac,H. K.(1995).Monitoring conscious recollection via the electrical activity of the brain. Psychological Science, 6(2),107-111.   
+Patel,N.， Vytal，K.， Pavletic,N.，Stoodley,C.,Pine,D. S., Grillon,C.,& Ernst,M.(2016).Interaction of threat and verbal working memory in adolescents. Psychophysiology, 53(4),518-526.   
+Ruchkin,D. S.,Johnson Jr,R.Grafman,J.,Canoune,H.,& Ritter,W.(1992)．Distinctions and similarities among working memory processes: an event-related potential study.Cognitive Brain Research,1(1),53-66.   
+Rugg,M.D.,& Curran,T.(2007).Event-related potentials and recognition memory.Trends in Cognitive Sciences,11(6), 251-257.   
+Rämä,P.,Paavilainen,L.,Anourova,I.,Alho,K.,Reinikainen, K.,Sipila,S.，& Carlson,S.(20oo).Modulation of slow brain potentials by working memory load in spatial and nonspatial auditory tasks.Neuropsychologia,38(7),913-922.   
+Rugg,M.D.，Mark,R.E.,Walla,P.,Schloerscheidt,A.M., Birch,C.S.,& Allan,K.(1998).Dissociation of the neural correlatesof implicit and explicit memory.Nature, 392(6676), 595-598.   
+Righi,S.,Marzi,T.,Toscani,M.,Baldassi,S.,Ottonello,S.,& Viggiano，M.P.(2012).Fearful expressionsenhance recognition memory:electrophysiological evidence.Acta Psychologica,139(1), 7-18.   
+Santos，I.M.，Iglesias,J.，Olivares,E.I.，& Young，A.W. (2008).Differential effects of object-based attention on evokedpotentialstofearfulanddisgusted faces. Neuropsychologia,46(5),1468-1479.   
+Schupp,H. T., Stockburger,J.,Codispoti,M., Junghofer,M., Weike，A.I.,& Hamm，A．O.(2007).Selective visual attention to emotion. Journal of Neuroscience，27(5), 1082-1089.   
+Sharot,T.，& Phelps,E.A.(20o4).How arousal modulates memory:Disentangling the effects of attention and retention. Cognitive，Affective and Behavioral Neuroscience,4(3), 294-306.   
+Shestyuk,A.Y.,Deldin,P.J.,Brand,J.E.,& Deveney,C.M. (2005).Reduced sustained brain activity during processing of positive emotional stimuli in major depression. Biological Psychiatry,57(10),1089-1096.   
+van Hooff,J.C.，Devue,C.，Vieweg,P.E.，& Theeuwes,J. (2013).Disgust- and not fear-evoking images hold our attention.Acta Psychologica,143(1),1-6.   
+Wang,L., Gui,P.,Li,L., Ku, Y.,Bodner,M.,Fan, G.,...Dong X.(20l6). Neural correlates of heat-evoked pain memory in humans.Journal of Neurophysiology,115(3),1596-1604.   
+Weymar,M.,Löw,A.,Melzig,C.A.,& Hamm,A.O.(2009). Enhanced long-term recollection for emotional pictures: evidence from high-density ERPs. Psychophysiology,46(6), 1200-1207.   
+Wilding，E.L.，& Rugg，M.D.(1996).An event-related potential study of recognition memory with and without retrieval of source.Brain,119(3),889-905.   
+Xie,H., Jiang,D.H.,& Zhang,D.D.(2018).Individuals with depressive tendencies experience dificulty in forgetting negative material: two mechanisms revealed by ERP data in the directed forgetting paradigm.Scientific Reports,8(1), 1113.   
+Yang,W.J.,Liu, P.D., Xiao,X.,Li, X.P., Zeng, C., Qiu,J.,& Zhang,Q.L.(2012).Different neural substrates underlying directed forgetting for negative and neutral images: An event-related potential study.Brain Research,1441,53-63.   
+You,Y.Q.,& Li,W.(2016).Parallel processing of general and specific threat during early stages of perception. Social Cognitive and Affective Neuroscience,11(3),395-404.   
+Zhang,D.D., Liu,Y. Z.,Wang,L.L.,Ai, H.,& Luo,Y.J. (2017).Mechanisms for attentional modulation by threatening emotions of fear,anger,and disgust.Cognitive,Affective, and Behavioral Neuroscience,17(1),198-210.   
+Zhang,D.D.,He,W.Q.,Wang,T.,Luo,W.B., Zhu, X.G.,Gu, R.L.,Li,H.,& Luo,Y.J.(2014).Three stages of emotional word processing:an ERP study with rapid serial visual presentation. Social Cognitive and Affective Neuroscience, 9(12),1897-1903.   
+Zhang,D.D.,Xie,H.,Liu, Y. Z.,& Luo,Y.J.(2016).Neural correlates underlying impaired memory facilitation and suppression of negative material in depression.Scientific Reports,6,37556.   
+Zhang,D.D.,Luo,W.B.,& Luo,Y.J.(2013).Single-trial ERP analysis reveals facial expression category in a threestage scheme.Brain Research,1512,78-88.   
+Zimmer,U.，Keppel,M.T.，Poglitsch,C.,& Ischebeck,A. (2015).ERP evidence for spatial attention being directed away from disgusting locations.Psychophysiology, 52(10), 1317-27.   
+Zipf,G.K. (1949).Human Behavior and The Principle of Least Effort.London,UK,Addison-Wesley Press.
+
+# Memory encoding, retention and retrieval of disgusting and fearful faces
+
+ZHANG Dandan; LIN Yiqin; LIU Yunzhe; LUO Yuejia; JIANG Donghong (Departmentof Psychology，College ofPsychologyand Sociology;Shenzhen KeyLaboratory ofAffective and Social Cognitive Science,Shenzhen University,Shenzhen 518060,China)
+
+# Abstract
+
+Emotional memory enhancement efect has been verified in various memory studies using negative material. So far as we know,four studies demonstrated that disgusting stimuli are associated with a higher recognition accuracy in memory task,compared to fearful stimuli. However, the underlying neutral mechanism is still unclear. Since emotional arousal and valence are two important factors showing emotional memory enhancement effect,they should be counterbalanced between disgusting and fearful material when the latter two emotions are compared in memory.
+
+The current study used event-related potential (ERP) to investigate different effect of disgust and fear on memory encoding,retention and retrieval. In particular,the following ERP components were examined: the P1, N170 and P3 both during memory encoding and retrieval, and the negative-going slow wave (NSW） during memory retention.A total of 60 healthy adults were recruited to participate a delayed recognition task,among whom ERP data were collected from 30 participants.
+
+It is found that the recognition performance was better for disgusting faces than fearful faces.During memory encoding，fearful faces evoked larger Pl amplitudes while disgusting faces evoked smaler P1 amplitudes,both compared to neutral faces.Similar ERP patern was found in N170,i.e.,fearful faces evoked larger N170 while disgusting faces evoked smaller(but not significant） N170.In contrast,the P3 component during encoding showed largest amplitudes in disgusting condition. During memory retention,the NSW was the largest for disgusting faces,smaler for fearful faces,and the smallest for neutral faces.During memory retrieval, the Pl pattrn was the same as during encoding period. However, the N170 showed comparable amplitudes for fearful and disgusting faces,while the N170 evoked by neutral faces was the smallest.More importantly,the P3 was larger in the disgusting condition than in the fearful condition.In addition to emotion effect,this study also found the efect of memory load. High memory load resulted in lower recognition accuracy,longer response time,smaller P3 (both during encoding and retrieval)and N170 (during encoding),as well as larger N170(during retrieval） and NSW(during retention),as compared to low memory load.Furthermore,the emotion effect on recognition accuracy, the P1, N170 and P3 during encoding was enlarged at high memory load.
+
+This study demonstrated that three mechanisms may contribute to the enhanced memory for disgusting than fearful stimuli.The first is that increased attntion is allcated by top-down control system to elaborately evaluate disgusting stimuli at the stage of memory encoding (reflected by encoding P3).The second is that extra cognitive resources are employed for disgusting stimuli during memory rehearsal and retention (reflected by retention NSW).The third is that increased effort is made to retrieve the memory regarding disgust (reflected by retrieval P3). The current finding could help to further understand the cognitive mechanism underlying emotional memory enhancement effect.
+
+Key wordsshort-term memory; memory encoding; memory retention; memory retrieval; negative emotion; disgust

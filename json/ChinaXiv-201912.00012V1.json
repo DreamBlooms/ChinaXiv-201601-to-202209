@@ -1,0 +1,426 @@
+[
+    {
+        "type": "text",
+        "text": "Impacts of climate warming and crop management on maize phenology in northern China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "XIAO Dengpan1, ZHAO Yanxi1, BAI Huizi1,HU Yukun², CAO Jiansheng² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Engineering Technology Research Center,Geographic Information Development and Applicationof Hebei,Instituteof Geographical Sciences,Hebei Academy of Sciences,Shijiazhuang O5oo11,China;   \n2Center for Agricultural Resources Research,InstituteofGeneticsandDevelopmental Biology,ChineseAcademyofSciences, Shijiazhuang 050021, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Climate warming has and willcontinue to exert a significantly impact on crop phenology in the past and coming decades. Combining observed data of phenology and a crop growth model provides a good approach for quantitating the effects of climate warming and crop management on crop phenology. The purpose of this study is to determine the impacts of temperature change, sowing date (SD) adjustment and cultivar shift on maize phenology in northern China during 1981-2010.Results indicated that climate warming caused anthesis date (AD)and maturity date (MD) of maize to advance by 0.2-5.5 and $0 . 6 { - } 1 1 . 1 \\mathrm { d } / 1 0 \\mathrm { a }$ , respectively. Due to climate-driven changes in maize phenology, three growth periods of maize,i.e., vegetative growth period (VGP; from sowing to anthesis), reproductive growth period (RGP; from anthesis to maturity) and whole growth period (WGP; from sowing to maturity) shortened by 0.2-5.5, $0 . 4 \\mathrm { - } 5 . 6$ and $0 . 6 { - } 1 1 . 1 \\ \\mathrm { d } / 1 0 \\mathrm { a }$ ，respectively. With SD adjustment (i.e.,SD advancement)，AD and MD occurred early by 0.5-2.6 and $0 . 1 { - } 3 . 4 ~ \\mathrm { d } / 1 0 \\mathrm { a }$ ,respectively. SD adjustment caused duration of VGP of maize to prolong. However, duration of RGP slightly shortened by $0 . 1 { - } 1 . 3 ~ \\mathrm { d } / 1 0 \\mathrm { a }$ .Furthermore,due to cultivar shift,MD of maize significantly delayed by $4 . 9 { - } 1 2 . 2 \\mathrm { d } / 1 0 \\mathrm { a }$ . Durations of VGP, RGP and WGP of maize prolonged by 0.2-4.1,1.6-8.4 and $4 . 3 { - } 1 1 . 8 ~ \\mathrm { d } / 1 0 \\mathrm { a }$ ,respectively. In conclusion, our results indicated that cultivar shift, to some extent,could mitigate the negative impact of climate warming on maize phenology. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: anthesis date; maturity date; sowing date; growth period; cultivar shift ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: XIAO Dengpan, ZHAO Yanxi,BAI Huizi,HU Yukun,CAO Jiansheng.2O19.Impactsof climate warming and cropmanagement onmaizephenologyin northern China.Journalof Arid Land,11(6):892-903. https://doi.0rg/10.1007/s40333-019-0028-3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Long-term observation and related climate study have demonstrated that the earth's climate has undergone significant changes (IPCC, 2O13). Climate warming has and will continue to exert a major impact on agricultural production (Piao et al., 2O10; Pongratz et al., 2O12), resulting in a food security problem on the regional or global scale (Lobell et al.，2Oo8； Tao et al.，2012). Phenology is the study of the timing of recurring biological events,as affected by biotic and abiotic factors, such as climate warming (Ma et al., 2O12). Crop phenology,an indicator of crop responses to climate variability and change,is mainly driven by the prevailing climate conditions during its growth season (Xiao et al., 2013;Wang et al.， 2015; Liu et al.， 2017). Therefore, variations in phenological periods of a crop are strong indicators of changes in environment and climate (Estrella et al.， 2OO7). Generally， climate warming accelerates the growth and reproduction of crops and eventually has a negative impact on crops' production (Xiao and Tao, 2014;Tao et al.，2O14a). In addition,crop phenology is also afected by field management practices, such as cultivar shift and sowing date (SD) adjustment (Xiao et al.,2O16a,b; Rezaei et al.,2017; Liu et al., 2O18). Therefore,cultivar shift and SD adjustment could reduce the negative effect of climate warming on crop production (Xiao et al., 2013; He et al., 2015; Liu et al.,2018). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In China, maize produces raw material for an array of multiple products and is one of the most important crops (Tao et al., 2O14b).The total output of maize grain increased 12-fold during the past six decades. The average grain yield of maize ranks the second among cereal crops (Li, 2009). A number of studies documented that an increase in climate warming during growth season had a negative impact on maize phenology during the past several decades (Li et al., 2O14; Tao et al.,2014a; Xiao et al.,2016a; Liu et al.,2017; Abbas et al.,2017; Guo et al.,2018). However, the negative impact of climate warming on maize phenology can be mitigated by crop management (Liu et al., 2013; Wang et al., 2016; Xiao et al., 2016a). For example, developing and introducing new cultivar with a longer duration of growth period had a positive impact on maize phenology and ultimately enhanced yield under climate warming (Sacks and Kucharik, 2O11; Xiao et al., 2016a).Therefore，to deeply understand the processes and mechanisms controlling maize responses to ongoing climate warming， researchers must investigate the changes of maize phenology (Liu et al., 2013; Xiao et al., 2016a). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Recently, impacts of climate warming on crop phenology are of great concern and have been extensively evaluated by various methods,such as experimental observations,statistical models and crop simulated model (Tao et al.,2014a,b; Xiao et al.,2016a, b; Liu et al.,2018). In general, due to the complex relationships between climate,cultivar shift and management, the effects of climate change and improvement of crop management on crop phenology are difficult to be clarified by field experiments and/or statistical models (Wang et al., 2O16). However, by using crop simulated model, researchers can easily separate the impact of multiple and interacting factors on crop phenology into single factor impact (Liu et al.,2O13; Xiao et al.,2O16a; Wang et al.,2016). Therefore,crop simulated models are widely used to quantify the effects of climate warming and crop management on crop phenology (Holzworth et al.， 2O14). For example, agricultural production systems simulator (APSIM) is a software system which allows models of crop and pasture production,residue decomposition, soil water and nutrient flow and erosion to be readily re-configured to simulate various production systems and soil and crop managements to be dynamically simulated using conditional rules (McCown et al., 1996). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study, observed data from 19 agricultural meteorological stations in northern China (NC) during 1981-201O were used to study the response of maize phenology to climate warming. Furthermore，the APSIM model was used to separate the effects of climate warming，SD adjustment and cultivar shift on maize phenology. Thus,the main purposes of this study are (1) to investigate the variation in maize phenology in NC during 1981-2010; (2） to correlate the observed and stimulated phenological period with climate warming; and (3) to quantify the effects of temperature change, cultivar shift and SD adjustment on maize phenology. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Materials ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Data of maize phenology were collected from 19 agrometeorological stations (here referred as to 19 stations） in NC during 1981-2010. The stations,operated by the China Meteorological Administration (CMA) and provincial meteorological administrations,are distributed across the main maize cultivated regions in NC (Fig.1). These stations distributed in Hebei (HB), Shanxi (SX), Gansu (GS) provinces and Xinjiang Uygur Autonomous Region (XJ) and Inner Mongolia Autonomous Region (IMG) (Fig. 1). Phenological parameters including dates of sowing, emergence, heading,anthesis and maturity of maize were recorded during growth season. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, a total of 5 agrometeorological stations (Fengning station in HB, Changzhi station in SX,Wuwei station in GS,Tacheng station in XJ and Chifeng station in IMG; here referred as to 5 stations) that had detailed records about cultivars during 1981-2O10 were selected to investigate the efects of climate warming and SD management on maize phenology in NC (Fig.1). Old maize cultivars were replaced by improved cultivars by local farming community within 3-5 years (about 9 cultivars per station during 1981-2010) (Table 1). The long-term detailed phonological records during 1981-2010 provide us an opportunity to look insight into the response of maize phenology to SD adjustment, climate warming and cultivar shift (Xiao et al., 2016a). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0345e861d115c63bad11c37700804ad3948e62b0f908e31ca75154b879be686.jpg",
+        "img_caption": [
+            "Fig.1Locations of 19 investigated agrometeorological stations in northern China.IMG,Inner Mongolia Autonomous Region; HB,Hebei Province； SX， Shanxi Province；GS,Gansu Province;XJ, Xinjiang Uygur Autonomous Region.Five stations with underlines were selected for analyzing the cultivar shift. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/534d149173d8a87358a06bd2fb3b13e6206d14b842a4ac29ddf79b88ecb99ee4.jpg",
+        "table_caption": [
+            "Table1Maize cultivars grown at 5 stations in northern China during 1981-2010 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Number</td><td>Station</td><td>Cultivar</td></tr><tr><td>1</td><td>Chifeng</td><td>Jidan-101., Huangmo-417,Z3on4,da-2u-ziyu-3, Yedan-4,nN-9ngda-3138, Shuoqiu-8,</td></tr><tr><td>2</td><td>Fengning</td><td>Jidan-101.,Feng-71,Zh-3gdan-2,Jina-95and417.Fghai-an-3,Tangkang-5,</td></tr><tr><td>3</td><td>Changzhi</td><td>Nanban-12,Zhongdan-2,Nongda-60,Yudan-13,Nongda-3188,Tunyu-7, Sanbei-6, Dafeng-5and Jiyu-811</td></tr><tr><td>4</td><td>Wuwei</td><td>Zhangye-488,Jindan-2,Zhongdan-2,Liangdan-1, Shendan and Shuoqiu-9</td></tr><tr><td>5</td><td>Tacheng</td><td>Hongmaya-3,Shuangjao-42.,-Ma4a-2,Jinhghaihou, Xinyu-3,Yian-7,Yidan-8,</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Moreover, climate data including mean (T),minimum $( \\mathrm { T } _ { \\mathrm { m i n } } )$ and maximum $\\mathrm { ( T _ { m a x } ) }$ ）temperatures, sunshine duration and precipitation at 5 stations during 1981-2O1O were used.For each station, daily solar radiation $( R _ { \\mathrm { a d } } )$ was calculated from sunshine duration at 5 stations using the Angstrom-Precott (A-P) equation (Prescott, 1940): ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { _ \\mathrm { a d } } ^ { \\phantom { } } = \\left( { \\bf a } + { \\bf b } \\frac { n } { N } \\right) R _ { \\mathrm { a } } ^ { } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $R _ { \\mathrm { a } }$ is the extra-terrestrial solar radiation $( \\mathbf { M J } / ( \\mathbf { m } ^ { 2 } { \\cdot } \\mathbf { d } ) )$ ; a and b are the $\\mathbf { A } { \\mathrm { - } } \\mathbf { P }$ coefficients;and $n$ and $N$ are the actual and theoretical sunshine durations (h),respectively. In this study,a and b coefficients for 5 stations were calibrated using observed radiation value. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 Methods ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We calculated mean temperature $( \\mathrm { T } )$ of three growth periods,i.e., vegetative growth period (VPG; from sowing to anthesis),reproductive growth period (RGP; from anthesis to maturity) and whole growth period (WGP; from sowing to maturity) based on observed dates of sowing, anthesis and maturity at each station. Moreover, we calculated accumulated temperature (AT, the sum of daily temperature ${ \\bf \\nabla } > 0 ^ { \\circ } { \\bf C }$ ） of VGP,RGP and WGP based on observed phenological periods.By using regression analysis, we calculated the trends of maize phenology, durations of growth periods and climate variables (T and AT) during 1981-2O10.The trend of each variable was determined by using the following linear regression model: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\partial _ { i } { = } k X _ { i } { + } { \\bf { b } } ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $Y _ { i }$ is the observed phenological date or climate variables(T or AT) in the year $i ; k$ is the linear regression slope;b is the slope intercept; and $X _ { i }$ is the year $i$ $\\{ ( i { = } 1 , 2 , 3 , . . . , 3 0 )$ . Bivariate correlation analysis was performed to determine the correlation between duration of growth periods (VGP, RGP and WGP) and $\\mathrm { \\Delta T }$ and AT. Then,statistical significance was determined with two-tailed $t \\cdot$ -test analysis. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Generally,observed phenological periods $( M _ { \\mathrm { o b } } )$ were mainly impacted by climate warming, cultivar shift and SD adjustment. Using the APSIM model, we set two experiments ( $M _ { 1 }$ and $M _ { 2 }$ ） to determine the effects of climate warming，cultivar shift and SD adjustments on maize phenology at 5 stations.In experiment $M _ { 1 }$ ，SD was set as the average value of observed SD during 1981-2010. The design of $M _ { 1 }$ experiment is favor to detect the trend in phenological periods affected by climate warming (Table 2).In experiment $M _ { 2 }$ ， SD was set as the observed SD during 1981-2010. The design of $M _ { 2 }$ experiment is favor to determine the trend in phenolgical periods affected by climate change and SD adjustment (Table 2). The impacts of cultivar shift and SD adjustment on maize phenology were determined via linear regression analysis as in Equation 2. Here, $Y _ { i } { = } M _ { \\mathrm { o b } i } { - } M _ { 2 i }$ (for the impact of cultivar shift）and $Y _ { i } { = } M _ { 2 i } { - } M _ { 1 i }$ (for the impact of SD adjustment), where $M _ { \\mathrm { o b } i }$ $M _ { 1 i }$ and $\\mathbf { M } _ { 2 i }$ are the values of each variable in the year $i$ ,respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c9ecd3b1243798108f82e734918e283a43aeec67c31510ae91efd6eae906bdb8.jpg",
+        "table_caption": [
+            "Table 2Details of experiments used to determine the effects of climate warming,cultivar shift and sowing date (SD) adjustment on maize phenology in northern China "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Experimental code</td><td>Explanation</td><td>Effect</td></tr><tr><td>Mob</td><td>Observed SD during 1981-2010</td><td>Climate warming,cultivar shift and SD adjustment</td></tr><tr><td>M1</td><td>Average value of observed SD during 1981-2010</td><td>Climate warming</td></tr><tr><td>M</td><td>Observed SD during 1981-2010</td><td>Climate warming and SD adjustment</td></tr><tr><td>M2-M1</td><td>Difference between Mz and M1</td><td>SD adjustment</td></tr><tr><td>Mob-M2</td><td>Difference between observed SD and M1</td><td>Cultivar shift</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 APSIM model ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this study，APSIM version 7.7 was used to separate the effects of climate change and SD management on maize phenology. A detailed description of APSIM model and its crop modules are recorded in Holzworth et al. (2O14).APSIM model requires daily climate data as an input, including solar radiation, maximum and minimum air temperatures and precipitation. APSIM model was calibrated and validated by using observed data from 5 stations. Firstly,the cultivar at each station during 1981-1985 was identified. Then, observed data during 1981-1983 were used to calibrate the parameters of APSIM model. Also,observed data during 1984-1985 were used to validate the model. Finally， validated model was run on climate data during 1981-201O to simulate station-based dates of anthesis and maturity. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Overall,the simulated dates by APSIM model and observed dates in the field of anthesis and maturity fitted well at 5 stations (Fig.2). The differences between simulated and observed dates of anthesis and maturity were less than $5 \\mathrm { ~ d ~ }$ ，suggesting that APSIM model performed well in simulating maize phenology in this study. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5eb364c48a204f92e8fb9c661ec13b8d3c6b35f2f3feaf7c9ae274f933b8715d.jpg",
+        "img_caption": [
+            "Fig.2Fiting curve of simulated dates by APSIM(agricultural production systems simulator）model and observed dates in the field of anthesis (a)and maturity (b)at 5 stations in northern China.DOY,day of year. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Variation in maize phenological period during 1981-2010 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In NC, maize was generally sown from early April in GS province to early May in IMG region (Table 3). Anthesis generally occurred from mid-July (DOY (day of year) 191) to early August (DOY 214),and maturity was generally occurred from late August (DOY 239) to late September (DOY 272) in NC (Table 3). As shown in Table 3,the durations of VGP, RGP and WGP were ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/cb585ab0479f535198b3d8860d2a377f7120be89ba2d7a0fa5288201708d73d8.jpg",
+        "table_caption": [
+            "Table 3Observed sowing date (SD),anthesis date (AD)and maturity date (MD) and durations of three growth periods (VGP,RGP and WGP)of maize at 19 stations in northern China during 1981-2010 "
+        ],
+        "table_footnote": [
+            "Note:IMG,InerongoliautonomousRegion;HB,HebeiProvnce;X,hairovince;G,GasuProvince;XJ,XijangUygur AutonomousRegio;VGP,egetativegrowthperiod;RG,eproductivegrowthperiod;WGP,holegrowthperiod;DOY,dafa Mean $\\pm \\mathrm { S E }$ "
+        ],
+        "table_body": "<html><body><table><tr><td>Province/region</td><td>Station</td><td>SD (DOY)</td><td>AD (DOY)</td><td>MD (DOY)</td><td>VGP (d)</td><td>RGP (d)</td><td>WGP (d)</td></tr><tr><td>IMG</td><td>Chifeng</td><td>119±6.1</td><td>206±4.0</td><td>259±6.9</td><td>87±5.0</td><td>53±7.1</td><td>140±7.9</td></tr><tr><td rowspan=\"10\">HB SX</td><td>Naiman Banner</td><td>118±6.0</td><td>206±3.8</td><td>260±10.0</td><td>87±6.6</td><td>54±8.6</td><td>142±12.3</td></tr><tr><td>Tongliao</td><td>124±4.7</td><td>209±4.0</td><td>262±2.9</td><td>85±4.6</td><td>53±3.5</td><td>138±5.1</td></tr><tr><td>Tuquan</td><td>127±6.2</td><td>214±5.5</td><td>267±5.2</td><td>87±7.6</td><td>54±4.7</td><td>140±7.9</td></tr><tr><td>Zalantun</td><td>134±4.6</td><td>211±3.8</td><td>264±5.1</td><td>77±4.7</td><td>53±6.0</td><td>131±5.8</td></tr><tr><td>Jungar Banner</td><td>120±6.0</td><td>205±4.7</td><td>265±4.3</td><td>85±5.9</td><td>60±5.2</td><td>145±7.0</td></tr><tr><td>Fengning</td><td>113±5.1</td><td>206±6.0</td><td>262±7.7</td><td>93±6.5</td><td>56±4.4</td><td>149±8.5</td></tr><tr><td>Huailai</td><td>117±4.1</td><td>202±4.4</td><td>259±2.8</td><td>85±4.2</td><td>56±3.4</td><td>141±3.8</td></tr><tr><td>Xiyang</td><td>124±5.8</td><td>211±5.9</td><td>272±4.3</td><td>86±6.0</td><td>61±4.2</td><td>148±4.8</td></tr><tr><td>Xixian</td><td>120±7.2</td><td>210±4.2</td><td>267±6.8</td><td>90±7.0</td><td>57±7.0</td><td>147±8.1</td></tr><tr><td>Xinzhou</td><td>114±4.0</td><td>202±2.7</td><td>257±4.9</td><td>88±4.5</td><td>55±4.4</td><td>143±5.3</td></tr><tr><td rowspan=\"4\">GS</td><td>Changzhi</td><td>118±4.4</td><td>205±3.6</td><td>262±4.4</td><td>87±5.2</td><td>57±3.5</td><td>144±5.9</td></tr><tr><td>Chengxian</td><td>100±5.2</td><td>191±4.2</td><td>239±7.2</td><td>91±5.3</td><td>48±5.5</td><td>139±6.3</td></tr><tr><td> Jiuquan</td><td>107±3.8</td><td>203±3.9</td><td>266±6.2</td><td>97±4.5</td><td>63±7.2</td><td>159±7.5</td></tr><tr><td>Tianshui</td><td>108±4.9</td><td>201±6.9</td><td>255±7.7</td><td>93±5.7</td><td>54±3.6</td><td>146±6.6</td></tr><tr><td rowspan=\"4\">XJ</td><td>Wuwei</td><td>101±4.0</td><td>210±5.2</td><td>268±6.1</td><td>109±6.2</td><td>58±4.8</td><td>167±6.4</td></tr><tr><td>Tacheng</td><td>122±8.7</td><td>200±7.5</td><td>256±7.2</td><td>78±6.9</td><td>56±5.6</td><td>134±7.3</td></tr><tr><td>Usu</td><td>113±5.8</td><td>196±5.0</td><td>252±5.4</td><td>82±4.6</td><td>56±3.9</td><td>139±5.0</td></tr><tr><td>Xinyuan</td><td>115±7.6</td><td>200±7.3</td><td>254±6.2</td><td>85±6.5</td><td>54±4.7</td><td>139±7.2</td></tr><tr><td></td><td>Average</td><td>117±8.5</td><td>205±5.7</td><td>260±7.4</td><td>88±7.0</td><td>56±3.4</td><td>144±8.3</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "78-109,48-63 and 131-167 d, respectively (Table 3).This result indicated spatial differences in the lengths of growth periods at 19 stations due to the diverse climate conditions. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure 3a, SD of maize during 1981-2010 advanced at 17 of 19 stations, with a significant advancement at 6 stations $( P { < } 0 . 0 5 )$ . AD of maize occurred early at 14 of 19 stations, and the trend was significant at 5 stations ( $_ { ( P < 0 . 0 5 }$ ； Fig.3b). As shown in Figure 3c，MD advanced at 1O of 19 stations,and the trend was significant at 1 station $( P { < } 0 . 0 5 )$ . MD delayed in 9 stations (mainly in ING region and HB province),and the delay was significant at 4 stations 0 $( P { < } 0 . 0 5$ ; Fig. 3c). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9610793faa77e36bf5a42603bb439af3e563ac4beff83b88f4b704aa20a3e293.jpg",
+        "img_caption": [
+            "Fig.3Variations in sowing date (a),anthesis date (b),maturity date (c)and durations of three growth periods (vegetative growth period, reproductive growth period and whole growth period) (d-f)of maize in northern China during 1981-2O10.Black circles show that the trend is significant at $5 \\%$ probability level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The advance or delay in maize phenology induced the changes in durations of growth periods. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure 3d, VGP shortened in 9 stations (mainly in XJ and GS) and the trend was significant at 2 stations $( P { < } 0 . 0 5 )$ . In contrast, VGP lengthened in ING and SX,and the trend was significant at 5 stations ( $_ { \\cdot } P { < } 0 . 0 5$ ; Fig. 3d).Also,RGP lengthened at 16 of 19 stations and the trend was significant at 6 stations ( $_ { ( P < 0 . 0 5 }$ ; Fig.3e).As shown in Figure 3f,WGP lengthened at most of the stations and the trend was significant at 7 stations $( P { < } 0 . 0 5 )$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "At 19 stations, SD advanced by $1 . 8 ~ \\mathrm { d } / 1 0 \\mathrm { a }$ ,AD slightly advanced by $1 . 2 \\ : \\mathrm { d } / 1 0 \\mathrm { a }$ ，and MD slightly delayed by $0 . 5 \\ \\mathrm { d } / 1 0 \\mathrm { a }$ (Fig.4). As shown in Figure 4, the durations of VGP, RGP and WGP lengthened by O.6,1.8 and $2 . 4 ~ \\mathrm { d } / 1 0 \\mathrm { a }$ ,respectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ec7122111d2e72f31f840585243571cd6fe5b1e25c1b8fd5937ce81da0baf54e.jpg",
+        "img_caption": [
+            "Fig.4Trends of maize phenology under different phenological periods at19 stations in northern China during 1981-2010. SD,sowing date；AD,anthesis date;MD,maturity date；VGP,vegetative growth period; RGP, reproductive growth period; WGP, whole growth period.Bar indicates standard error. The lower and upper box boundaries indicate the $2 5 ^ { \\mathrm { t h } }$ and $7 5 ^ { \\mathrm { t h } }$ percentiles across 19 stations, respectively; whiskers below and above the box indicate the $1 0 ^ { \\mathrm { t h } }$ and $9 0 ^ { \\mathrm { t h } }$ percentiles across 19 stations,respectively;and the line and small box within each box indicate median and mean values, respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 Variations in Tand AT during1981-2010 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "At 5 stations,variation in $\\mathrm { \\Delta T }$ during three growth periods of maize showed an increasing trend (Table 4). Variation of TvGP Was significant at Fengning and Wuwei stations,variation of TRGP was significant at Wuwei and Tacheng stations and variation of TwGP was significant at Wuwei station (Table 4).Furthermore，variation in AT during ATvGP，ATRGP and ATwg of maize significantly increased $( P { < } 0 . 0 5 )$ at 5 stations.These results implied the climate warming trends during growth periods of maize. And the shift of maize cultivars preferred to the species with a higher AT requirement for coping with climate warming. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/707eba60fde93c5f7b9ce2bf37ee21b46f16c502820c4b7285b1ce9bda1aba54.jpg",
+        "table_caption": [
+            "Table 4Variations in temperature (T) and accumulated temperature (AT) during three growth periods (VGP, RGP and WGP) of maize at5 stations in northern China during1981-2010 "
+        ],
+        "table_footnote": [
+            "Note:\\*and \\*\\* denote significant differences at $P { < } 0 . 0 5$ and $P { < } 0 . 0 1$ levels,respectively；VGP,vegetative growth period;RGP, reproductive growth period;WGP,wholegrowthperiod.TvGp meansthetemperatureduringvegetativegrowth period.Theabove abreviationsinTable4arethesamecombinationofTorATanddifferentgrowthperiods.TheabbreviationsarethesameiTable5. "
+        ],
+        "table_body": "<html><body><table><tr><td>Station</td><td>TvGP (C/a)</td><td>TRGP (C/a)</td><td>TwGP(C/a)</td><td>ATvGP (C/a)</td><td>ATRGP (C/a)</td><td>ATwGP (C/a)</td></tr><tr><td>Chifeng</td><td>0.011</td><td>0.012</td><td>0.011</td><td>4.327*</td><td>8.907**</td><td>13.277*</td></tr><tr><td>Fengning</td><td>0.038*</td><td>0.006</td><td>0.023</td><td>7.496**</td><td>4.717*</td><td>12.206**</td></tr><tr><td>Changzhi</td><td>0.001</td><td>0.006</td><td>0.003</td><td>6.156*</td><td>0.248</td><td>6.374*</td></tr><tr><td>Wuwei</td><td>0.066**</td><td>0.074**</td><td>0.070**</td><td>4.748*</td><td>8.571**</td><td>13.303**</td></tr><tr><td>Tacheng</td><td>0.005</td><td>0.077*</td><td>0.039</td><td>1.291</td><td>15.402**</td><td>16.697**</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As shown in Table 5, the duration of three growth periods was negatively correlated with T. The results suggested that a warming temperature could reduce phenological period of maize. However, the duration of three growth periods was significantly and positively correlated with AT (Table 5),indicating that cultivar shift with a higher AT requirements had significant impacts on ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "maize phenology. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/4b2b2244c7281319a37abdb89b693b3d44a08969eae71f5e4aa3f15ee33987fc.jpg",
+        "table_caption": [
+            "Table 5Correlation between duration of three growth periods (VGP,RGP and WGP)and temperature (T) and accumulated temperature (AT) at 5 stations in northern China during 1981-2010 "
+        ],
+        "table_footnote": [
+            "Note:\\*and \\*\\* denote significant differences at $P { < } 0 . 0 5$ and $P { < } 0 . 0 1$ levels,respectively. VGP,vegetative growth period; RGP. reproductive growth period;WGP,whole growth period. "
+        ],
+        "table_body": "<html><body><table><tr><td>Station</td><td>TvGP</td><td>TRGP</td><td>TwGP</td><td>ATvGP</td><td>ATRGP</td><td>ATWGP</td></tr><tr><td>Chifeng</td><td>-0.274</td><td>-0.518**</td><td>-0.295</td><td>0.801**</td><td>0.941**</td><td>0.852**</td></tr><tr><td>Fengning</td><td>-0.181</td><td>-0.312</td><td>-0.351</td><td>0.830**</td><td>0.722**</td><td>0.808**</td></tr><tr><td>Changzhi</td><td>-0.054</td><td>-0.478*</td><td>-0.508**</td><td>0.875**</td><td>0.677**</td><td>0.764**</td></tr><tr><td>Wuwei</td><td>-0.368</td><td>-0.324</td><td>-0.421*</td><td>0.744**</td><td>0.694**</td><td>0.519**</td></tr><tr><td>Tacheng</td><td>-0.515**</td><td>-0.165</td><td>-0.251</td><td>0.894**</td><td>0.819**</td><td>0.735**</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3Effects of climate warming, crop management and cultivar shift on maize phenology ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "At 5 stations, SD occurred early by $0 . 1 { - } 4 . 5 ~ \\mathrm { d } / 1 0 \\mathrm { a }$ ， and the variation was significant at Chifeng, Changzhi and Tacheng stations ${ \\it P } { < } 0 . 0 5$ ; Table 6). This result suggests that the observed changes in maize phenology, to some extent, were affected by SD adjustment. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In $M _ { 1 }$ experiment (Table 6),climate warming caused AD of maize to advance by $0 . 2 { - } 5 . 5 \\mathrm { d } / 1 0 \\mathrm { a }$ Similarly, MD advanced by $0 . 6 { - } 1 1 . 1 \\ \\mathrm { d } / 1 0 \\mathrm { a }$ at 5 stations.Due to climate-driven changes in maize phenology, the durations of VGP, RGP and WGP shortened by 0.2-5.5, 0.4-5.6 and 0.6-11.1 $\\mathrm { { d } / \\mathrm { { l } 0 a } }$ ,respectively (Table 6). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Moreover, variation in SD had certain impact on maize phenology. The variation obtained from $M _ { 2 } { - } M _ { 1 }$ reflected the impact of SD adjustment on maize phenology (Table 6). As shown in Table 6, the advancement of SD led to early AD and MD. Due to SD adjustment, AD occurred early by $0 . 5 { - } 2 . 6 \\ \\mathrm { d } / 1 0 \\mathrm { a }$ ，and the variation was significant at Changzhi， Wuwei and Tacheng stations. Similarly,MD significantly advanced by $0 . 1 { - } 3 . 4 ~ \\mathrm { d } / 1 0 \\mathrm { a }$ ，SD adjustment caused VGP of maize to prolong at 4 of 5 stations (except for Fengning station),and duration of RGP slightly shortened by $0 . 1 { - } 1 . 3 \\ \\mathrm { d } / 1 0 \\mathrm { a }$ (Table 6).As a result,with advancement of SD of maize,duration of WGP lengthened at Chifeng, Changzhi and Tacheng stations, but it slightly shortened at Fengning and Wuwei stations (Table 6). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "From the comparisons of $M _ { \\mathrm { o b } } { - } M _ { 2 }$ ，cultivar shift during 1981-2O1O significantly delayed anthesis of maize by 4.1，3.4 and $3 . 8 \\mathrm { \\ d / 1 0 a }$ at Fengning，Changzhi and Wuwei stations, respectively (Table 6). Due to cultivar shift,MD significantly delayed by $4 . 9 \\mathrm { - } 1 2 . 2 \\ \\mathrm { d } / 1 0 \\mathrm { a }$ at 5 stations $( P { < } 0 . 0 5 )$ . Furthermore,cultivar shift mainly prolonged duration of three growth periods (i.e., VGP, RGP and WGP) of maize at 5 stations.As a result, the durations of VGP, RGP and WGP lengthened by 0.2-4.1,1.6-8.4 and $4 . 3 { - } 1 1 . 8 ~ \\mathrm { d } / 1 0 \\mathrm { a }$ , respectively (Table 6). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "At 5 stations, climate warming in the past 3O years advanced AD and MD of maize by 2.4 and $4 . 7 \\ : \\mathrm { d } / 1 0 \\mathrm { a }$ , respectively. Due to the impacts of climate warming on maize phenology, the durations of three growth periods (VGP,RGP and WGP) shortened by 2.4,2.3 and $4 . 7 \\ : \\mathrm { d } / 1 0 \\mathrm { a }$ ，respectively (Fig. 5). However, the negative impact of climate warming can be mitigated by the changes in crop management, such as SD adjustment and cultivar shift. In the past 3O years,SD of maize advanced in the study area. At 5 stations, the advance of SD caused AD and MD of maize to be advanced by 1.5 and $1 . 9 \\ \\mathrm { d } / 1 0 \\mathrm { a }$ , respectively. However, SD adjustment caused VGP and WGP of maize to be prolonged by 1.2 and $0 . 6 \\mathrm { d } / 1 0 \\mathrm { a }$ ,respectively (Fig.5).Moreover, the negative impacts of climate warming on maize phenology were compensated as a result of introducing new maize cultivars with higher AT (thermal time) requirements.As shown in Figure 5,cultivar shift caused the AD and MD of maize to delay by 2.4 and $8 . 0 \\mathrm { d } / 1 0 \\mathrm { a }$ , respectively. Therefore,as a result of the impact of cultivar shift on maize phenology at 5 stations,the durations of VGP, RGP and WGP prolonged by 2.4, 5.8 and $7 . 1 \\mathrm { d } / 1 0 \\mathrm { a }$ , respectively (Fig. 5). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Table 6Observed and simulated variations in sowing date (SD),anthesis date (AD), maturity date (MD) and ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/ecc5d380d9404ad50604022cd5a971f9f0b436be0ff53479656e88aa93c461b7.jpg",
+        "table_caption": [
+            "durations of three growth periods (VGP,RGP and WGP) of maize at 5 stations in northern China during 1981-2010 "
+        ],
+        "table_footnote": [
+            "Note:\\* and \\*\\* denote significance at $P { < } 0 . 0 5$ and $P { < } 0 . 0 1$ levels,respectively.VGP,vegetative growth period; RGP,reproductive growth period;WGP,whole growth period.DOY,day of year. "
+        ],
+        "table_body": "<html><body><table><tr><td>Phenological period</td><td>Variable (d/10a)</td><td>Chifeng</td><td>Fengning</td><td>Changzhi</td><td>Wuwei</td><td>Tacheng</td></tr><tr><td>SD</td><td>Mean value (DOY)</td><td>119.0</td><td>113.0</td><td>118.0</td><td>101.0</td><td>122.0</td></tr><tr><td rowspan=\"4\">AD</td><td>Variation in Mob</td><td>-3.0*</td><td>-0.1</td><td>-4.0**</td><td>-1.7</td><td>-4.5*</td></tr><tr><td>Variation in Mob</td><td>-0.3</td><td>2.5</td><td>-0.4</td><td>-3.2**</td><td>-5.7**</td></tr><tr><td>Variation in M1</td><td>-0.2</td><td>-1.1</td><td>-1.8*</td><td>-5.5**</td><td>-3.2**</td></tr><tr><td>Variation in M2</td><td>-1.1</td><td>-1.6</td><td>-3.8**</td><td>-7.0**</td><td>-5.8**</td></tr><tr><td rowspan=\"5\">MD</td><td>Variationin M2-M1</td><td>-0.9</td><td>-0.5</td><td>-2.0*</td><td>-1.5*</td><td>-2.6**</td></tr><tr><td>Variation in Mob-M2</td><td>0.8</td><td>4.1**</td><td>3.4**</td><td>3.8**</td><td>0.1</td></tr><tr><td>Variation in Mob</td><td>4.4**</td><td>5.0**</td><td>-0.5</td><td>-1.1</td><td>-0.7</td></tr><tr><td>Variation in M1</td><td>-0.6</td><td>-3.7**</td><td>-2.5*</td><td>-11.1**</td><td>-5.5**</td></tr><tr><td>Variation in M2</td><td>-1.7</td><td>-3.8*</td><td>-5.4**</td><td>-13.3**</td><td>-8.9**</td></tr><tr><td rowspan=\"6\">VGP</td><td>Variation in M2-M1</td><td>-1.1</td><td>-0.1</td><td>-2.9**</td><td>-2.2*</td><td>-3.4**</td></tr><tr><td>Variation in Mob-M2</td><td>6.1**</td><td>8.8**</td><td>4.9**</td><td>12.2**</td><td>8.2**</td></tr><tr><td>Variation in Mob</td><td>2.7*</td><td>2.6*</td><td>3.5**</td><td>-1.5</td><td>-1.1</td></tr><tr><td>Variation in M1</td><td>-0.2</td><td>-1.1</td><td>-1.8*</td><td>-5.5**</td><td>-3.2**</td></tr><tr><td>Variation in M2</td><td>1.9*</td><td>-1.5</td><td>0.1</td><td>-4.9**</td><td>-1.3</td></tr><tr><td>Variation in M2-M1</td><td>2.1*</td><td>-0.4</td><td>1.9*</td><td>0.6</td><td>1.9*</td></tr><tr><td rowspan=\"4\">RGP</td><td>Variation in Mob-M2</td><td>0.8</td><td>4.1</td><td>3.4**</td><td>3.4</td><td>0.2</td></tr><tr><td>Variation in Mob</td><td>4.8**</td><td>2.5*</td><td>0.0</td><td>2.1</td><td>5.0**</td></tr><tr><td>Variation in M1</td><td>-0.4</td><td>-2.6**</td><td>-0.7</td><td>-5.6**</td><td>-2.3*</td></tr><tr><td>Variation in M2</td><td>-0.6</td><td>-2.7**</td><td>-1.6</td><td>-6.3**</td><td>-3.3*</td></tr><tr><td rowspan=\"7\">WGP</td><td>VariationinM2-M1</td><td>-0.2</td><td>-0.1</td><td>-0.9</td><td>-1.3</td><td>-1.0</td></tr><tr><td>Variation in Mob-M2</td><td>5.4**</td><td>5.2**</td><td>1.6</td><td>8.4**</td><td>8.3**</td></tr><tr><td>Variation in Mob</td><td>7.4**</td><td>5.1**</td><td>3.5*</td><td>0.6</td><td>3.9*</td></tr><tr><td>Variation in M1</td><td>-0.6</td><td>-3.7**</td><td>-2.5*</td><td>-11.1**</td><td>-5.5**</td></tr><tr><td>Variation in M2</td><td>1.3</td><td>-4.5**</td><td>-1.4</td><td>-11.2**</td><td>-4.5*</td></tr><tr><td>Variation in M2-M1</td><td>1.9</td><td>-0.8</td><td>1.1</td><td>-0.1</td><td>1.0</td></tr><tr><td>Variation in Mob-M2</td><td>6.1**</td><td>4.3**</td><td>4.9*</td><td>11.8**</td><td>8.4**</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/59dad74c2390756c3887c8159efcbd4f95b057f991ceeb1b825f283135b95863.jpg",
+        "img_caption": [
+            "Fig.5Effects of climate warming,sowing date adjustment and cultivar shift on maize phenology under different phenologicalperiods at5stations innorthern Chinaduring 1981-2Ol0.Bar indicates standard error. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Under combined influence of climate warming，cultivar shift and SD adjustment, maize phenology experienced significant variation in NC during the past several decades. According to the results of this study,we found that variations of AD and MD of maize were opposite.When AD of maize slightly advanced， MD slightly delayed. The advancement or delay of maize phenology led to corresponding changes in the durations of different growth periods. Overall, three growth periods (i.e., VGP, RGP and WGP) prolonged in NC during 1981-2010. Generally, temperature is the most important climatic factor that influences crop phenology, because studies had shown that temperature impacts the growth of crop meristem that is the most important structure of crop growth (Hou et al.， 2014). To some extent, the growth and developmental process of crop will be accelerated under climate warming (Qin et al.，2O18). Therefore, increasing temperature often leads to earlier phenological period and a shorter growth period (Wang et al., 2O15; Xiao et al.,2O16a, b). In this study, climate warming during maize growth periods showed a significant increasing trend, which caused maize phenology (i.e.,AD and MD) to advance, and eventually shorten the length of growth periods (including VGP,RGP and WGP). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Generally，phenological periods of crop are jointly affected by changes in climate (mainly temperature) and improvement of agronomic management practice (including SD adjustment and cultivar shift） (Xiao et al.，2O16b). Thus,it is unreasonable to simply atribute changes in phenology to climate change since agronomic management practices have also been changed (Liu et al.,2013).In this study,by using APSIM model, we evaluated the impacts of cultivar shift and SD adjustment on maize phenology in NC. During 1981-2010, cultivars were frequently shifted and new cultivars had a higher AT requirement. Overall, due to contribution of cultivar shift on maize phenology， durations of three growth periods (i.e.，VGP,RGP and WGP) of maize prolonged. Although climate warming accelerates maize growth and shortens the growing periods of maize,cultivar shift significantly prolonged the growth period of maize in NC.As maize yield was determined by the length of growth period (Tao et al.,2O14b),the cultivar shift with a high AT requirement, to some extent, mitigated the negative impact of climate warming. Therefore, introducing new cultivars with a longer growing period has been recommended as an adaptive measure to climate warming in the past several decades (Liu et al., 2O13; Zhao et al., 2O15; Xiao et al., 2016a, b; Wang et al., 2016; Liu et al.,2018). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Optimizing SD is another approach for mitigating the adverse effects of climate warming. Thus, it is important to make appropriate SD adjustment for coping with climate warming. Generally, SD of crop mainly depended on climate conditions and soil moisture (Xiao et al.,2O16b). Climate warming during past decades,to some extent, allowed for an advancement of SD of maize in NC. With the SD advancement, AD and MD of maize occurred early in NC. Studied had showed that SD adjustment exerted important effects on the length of growth period of maize (Lv et al., 2019). SD adjustment caused VGP of maize to prolong, while RGP was slightly shortened in this study. The above results are similar to the findings by Lv et al. (2O19). They found that postponing SD of maize would extend the grain-filling stage (i.e., RGP). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This study analyzed the impact of climate warming, SD adjustment and cultivar shift on maize phenology in NC. The results showed that growth period of maize reduced due to the advancement of phenological periods,confirming that the dates of maize phenology shifted markedly in response to ongoing climate warming. However, this negative impact on maize phenology can be reduced by adopting new cultivars with higher AT requirements. Therefore, new maize cultivars with higher AT requirements and higher temperature tolerant should be used in response to climate warming. Moreover, it is needed to evaluate the relationship between crop phenology and yield,and further to adopt strategies to ensure food production under the background of climate warming. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This study was funded bythe National Natural Science Foundation of China (41401104)and the Excellnt Going Abroad Experts'Training Program in Hebei Province,China. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abbas G,Ahmad S,Ahmad A,et al.2O17. Quantification the impacts ofclimatechange and crop managementon phenology of maize-based cropping system in Punjab,Pakistan. Agricultural and Forest Meteorology,247: 42-55.   \nEstrella N,Sparks TM,Menzel A.2Oo7.Trends and temperatureresponse in the phenologyofcrops in Germany.Global Change Biology,13(8): 1737-1747.   \nGuo EL,ZhangJQ,Wang YF,et al.2018.Asessing non-linear variationof temperatureand precipitation fordiferent growth periods of maizeand their impacts on phenology in the Midwestof Jilin Province,China.Theoretical and Applied Climatology,132(3-4): 685-699.   \nHolzworth DP,Huth NI,deVoil PG,et al.2O14.APSIM-evolution towardsanew generationof agricultural systems simulation. Environmental Modelling and Software,62: 327-350.   \nHouP,LiuYE,XieRZ,etal.2O14.Tmporalandspatialvariationinaccumulatedtemperaturerequirementsofmaize.Field Crops Research,158: 55-64.   \nIPCC.Climate Change 2013.The physical science basis.In: StockerTF, Qin D,PlaterG K,etal. Contributionof Working Group Ito the Fifth Assessment Report of the Intergovernmental Panel on Climate Change.Cambridge:Cambridge University Press,467-570.   \nLi JS.2009.Production,Breeding and Processof Maize in China.In: Bennetzen JL,Hake SC.Handbook of Maize:Its Biology.New York: Springer,563-576.   \nLi ZG,Yang P,TangHJ,etal.2O14.Responseofmaizephenologytoclimate warming inNortheast China betweenl990and 2012.Regional Environmental Change,14(1): 39-48.   \nLiuYJ,Qin Y,GeQS,etal.2O17.Reponsesand sensitivities ofmaize phenology toclimatechange from1981to 209 in Henan Province,China. Journal of Geographical Sciences,27(9):1072-1084.   \nLiuYJ,Chen QM,GeQ S,et al.2018.Modeling the impactsof climate change and crop managementon phenological trends of spring and winter wheat in China.Agricultural and Forest Meteorology,248: 518-526.   \nLiu Z J, Hubbard KG,Lin X M,etal.20l3.Negative effectsof climate warmingonmaize yieldarereversedbythechanging of sowing date and cultivar selection in Northeast China. Global Change Biology,19(11): 3481-3492.   \nLobellDB,BurkeMB,Tebaldi C,etal.2O08.Prioritizing climate change adaptation needs forfoodsecurityin2O30.Science, 319(5386): 607-610.   \nLv ZF,LiFF,Lu G Q.2019.Adjusting sowing date and cultivar shift improve maize adaption to climate change in China. Mitigation and Adaptation Strategies for Global Change,doi:10.1007/s11027-019-09861-w.   \nMa S X,Churkina G,Trusilova K.2012.Investigating the impact of climate changeoncrop phenological events in Europe with a phenology model. International Journal of Biometeorology, 56(4): 749-763.   \nMcCownRL,Hammer GL,Hargreaves JNG,et al.1996.APSIM: a novel software system for model development,model testing and simulation in agricultural systems research.Agricultural Systems,5O(3): 255-271.   \nPiaoSL,Ciais P,Huang Y,et al.2O10.Theimpactsof climate changeon waterresourcesand agriculture in China.Nature, 467: 43-51.   \nPongratzJ,LobellDB,CaoL,etal.2012.Cropyields ina geoenginered climate.Nature Climate Change,2:101-105.   \nPrescottJA.1940.Evaporation from a watersurfacein relation to solarradiation.Transactionof Royal Societyof Science Australia,64: 114-118.   \nQinY,Liu YJ,GeQS.2018.Spatiotemporal variations in maizephenologyof Chinaunderclimate change from 1981-2010. Acta Geographica Sinica,73(5): 906-916.   \nRezaeiEE,SiebertS,Huging H,etal.018.Climate change effecton wheatphenologydependsoncultivarchange.Scientific Reports,8: 4891.   \nSacks WJ,Kucharik CJ.2011Crop management andphenology trends in the U.S Corn Belt impactsonyields, evapotranspiration and energy balance.Agricultural and Forest Meteorology,151(7): 882-894.   \nTao FL,Zhang Z, Zhang S.2012. Response of crop yields to climate trends since 1980in China.Climate Research,54(3): 233-247.   \nTaoFL,Zhang Z,XiaoDP,etal.2O14a.Responsesof wheat growth andyieldtoclimatechange indiferentclimate zonesof China,1981-2009.Agricultural and Forest Meteorology,189-190: 91-104.   \nTaoFL,Zhang S,Zhang Z,etal.2O14b.Maize growingduration was prolongedacross Chinainthepastthreedecades under thecombined efectsof temperature，agronomic management，and cultivar shift.Global Change Biology，20(12): 3686-3699.   \nWang N,Wang J，Wang EL,etal.2Ol5.Increaseduncertainty insimulated maize phenology with more frequent supra-optimal temperature under climate warming. European Journal of Agronomy,71:19-33.   \nWang Z,ChenJ,LiY,etal.Ol6.Efectsofclimatechangeandcutivaronummermaizephenology.InternationalJouralof Plant Production,10(4): 509-526.   \nXiao DP,TaoFL,LiuYJ,etal.20l3.Observedchanges in winter wheatphenologyintheNorth ChinaPlainfor1981-2009. International Journal of Biometeorology,57(2): 275-285.   \nXiao DP,TaoFL.2O14.Contributionsof cultivars,managementand climatechange to winter wheatyieldintheNorth China Plain in the past three decades. European Journal of Agronomy,52: 112-122.   \nXiao DP,QiYQ,Shen YJ,et al.2O16a.Impact of warming climate andcultivar changeonmaizephenologyin thelast three decades in North China Plain.Theoretical and Applied Climatology,124(3-4): 653-661.   \nXiao DP,TaoFL,ShenYJ,etal.2O16b.Combinedimpactof climatechange,cultivarshift,andsowing date on sprng wheat phenology in northern China. Journal of Meteorological Research,3O(5): 820-831.   \nZhao J,Yang XG,Dai SW,etal.2O15.Increasedutilizationoflengthening growingseasonand warming temperatures by adjusting sowing dates and cultivar selection for spring maize in Northeast China.European Journal of Agronomy,67: 12-19. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

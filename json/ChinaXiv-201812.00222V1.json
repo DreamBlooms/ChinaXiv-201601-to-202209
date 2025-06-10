@@ -1,0 +1,504 @@
+[
+    {
+        "type": "text",
+        "text": "奶牛围产期饲粮营养平衡和机体营养生理状况评价体系孙博非」余 超²曹阳春」蔡传江」李生祥」姚军虎 1\\*（1．西北农林科技大学动物科技学院，杨陵712100；2.陕西省商洛市畜牧产业发展中心，商洛 726000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：围产期是奶牛泌乳周期中的关键时期，涉及胎儿生长发育、健康维持、乳腺更新和修复及泌乳启动等重要生理过程，其饲养管理与奶牛健康和泌乳性能密切相关。随着研究的深入，围产期奶牛的主要生理代谢特征已相对明晰，但奶牛围产期饲粮营养平衡和机体营养生理状况评价体系尚未完善，且多以单个生物标志物反映奶牛生理状态，代表性不强，综合指数评价体系鲜有应用。本文汇总论述了奶牛围产期营养平衡和营养生理的综合评价体系，旨在为进一步明确奶牛围产期营养平衡规律和代谢特征，确定营养需要量参数和精细化饲养工艺提供科学依据和技术参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：营养平衡；综合评价指数；围产期奶牛",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S823",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "奶牛围产期包括围产前期（产前21d至分娩）和围产后期（分娩至产后21d)2个阶段。分娩前胎儿体积达到最大，挤压瘤胃使其容积变小；瘤胃微生物区系改变，瘤胃和其他消化、代谢和转化器官机能下降，加之复杂的神经和内分泌调控，干物质采食量(DMI)显著下降[1-2]。与此同时，产前胚胎生长发育、奶牛健康维持和产后泌乳启动均需大量营养物质，营养需要显著增加，因此奶牛往往处于多种营养素的负平衡状态，其中能量负平衡（negative energybalance,NEB）受到的关注最多，其次是蛋白质负平衡（negative protein balance,NPB）[2-3]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为满足营养需要，奶牛适应性地动员体组织贮存的脂肪、蛋白质和其他营养素，用于乳腺泌",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "收稿日期：2017-06-23  \n基金项目：国家自然科学基金面上项目（31472122，31672451)  \n作者简介：孙博非（1988—)，男，山东淄博人，博士，从事反刍动物营养研究和技术服务  \n工作。E-mail: sunfeifei2011@sina.com  \n\\*通信作者：姚军虎，教授，博士生导师，E-mail: yaojunhu2004@sohu.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "：1 乳和自身维持，且奶牛产后DMI的恢复滞后于产奶量的增加，导致泌乳早期奶牛体重和体:2 况逐渐下降（图1)，引发各类临床和亚临床代谢性疾病，威胁奶牛健康，降低泌乳和繁殖:3 性能，甚至影响其整个泌乳生涯[4]。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b92061e5123f01d54f2597a2f776284dc52cf3e85626fbcf7c4f96caa8af9da1.jpg",
+        "img_caption": [
+            "Fig.1Dynamic changes ofdry matter intake, milk yield and body weight in a whole lactation cycle of dairy "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "cow[5] ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "奶牛围产期营养平衡的精准评估是制定营养和管理策略的基础，目前比较成熟的体系有：1）NRC（2001）和康奈尔净碳水化合物-蛋白质体系（CNCPS）营养模型；2）代谢葡萄糖（MG）体系，尚未应用于奶牛围产期营养评估；3）生理功能指标体系，采用血液和尿液中一些特殊代谢产物的浓度，如血浆或血清非酯化脂肪酸(NEFA)、β-羟丁酸(BHBA)和3-甲基组氨酸（3-MH）浓度，它们能反映奶牛机体代谢和健康状况；4）综合指数体系，整合多个生物标记物，构建综合指数，提高敏感性和可靠性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1基于NRC（2001）和CNCPS营养模型及MG体系",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "NRC（2001）系统论述了奶牛营养代谢的基本原理，制定了不同品种、生理阶段和体况奶牛主要营养参数的需要量和饲养管理规程，还给出了很多经典模型，如营养平衡的计算体系、采食量和生产性能预测等。CNCPS 对奶牛饲粮碳水化合物和蛋白质进行了精细剖分，充分考虑不同类型和来源碳水化合物和蛋白质的利用率，更加精确；整合以上模型，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CPM-Dairy软件具有评估、预测和优化功能，主要包括评估饲粮营养平衡状况，预测奶牛营养需要、健康和生产性能以及某些物质的产量[如微生物蛋白（MCP）]，优化饲料配方。为整体评估瘤胃和小肠能量的供需状况，卢德勋等[6-8]将系统理念运用于动物营养，构建反刍动物葡萄糖营养调控理论体系，率先提出了MG 的概念，MG 为评估奶牛机体葡萄糖的需要量提供了更加准确的指标、理念和模型，目前尚未见MG 体系用于奶牛围产期的相关报道。评价奶牛围产期营养平衡应采用最先进的营养指标，主要包括泌乳净能（NEL）、MG 和代谢蛋白质（MP）等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 NEL ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于奶牛围产期的生理特点，产前和产后能量需要的组成不同，其能量平衡（energybalance,EB）的评估应分开考虑[9-10]。产前能量平衡（ $\\mathrm { E B } _ { \\mathrm { p r e } }$ ）计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E B _ { p r e } { = } N E _ { I } - \\hbar \\Omega ( N E _ { m } { + } N E _ { p } ) _ { \\mathrm { { c } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：NEi为泌乳净能的摄入量（MJ/d)， $\\mathrm { N E } _ { \\mathrm { I } } { = } \\mathrm { D M I } \\times$ 饲粮能量水平（以 $\\mathrm { N E } _ { \\mathrm { L } }$ 计)； $\\mathrm { N E _ { \\mathrm { m } } }$ 为维持净能（MJ/d)， $\\mathrm { N E _ { \\mathrm { m } } = }$ 代谢体重（ $\\mathrm { B W } ^ { 0 . 7 5 }$ ） $\\times 0 . 0 8 0$ ; $\\mathrm { N E _ { p } }$ 为妊娠净能需要（MJ/d)，$\\mathrm { N E _ { p } = } [ \\$ （0.00318×妊娠天数-0.0352） $\\times$ （特牛初生重/0.45）]/0.218。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "产后能量平衡 $\\mathrm { ( E B _ { p o s t } ) }$ 计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { \\Delta E B _ { p o s t } { = } N E _ { I } - \\hbar \\Omega ( N E _ { m } { + } N E _ { L } ) _ { \\circ } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mathrm { { N E } _ { L } = \\ ( 0 . 0 9 2 \\ 9 \\times ; }$ 乳脂率 $+ 0 . 0 5 4 7 \\times$ 乳蛋白率 $+ 0 . 0 3 9 5 \\times$ 乳糖率） $\\times$ 产奶量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 MG ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MG 是指饲粮营养物质经过反刍动物消化、吸收和转化后，可供机体利用的葡萄糖总量[7-9],计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：POEG为瘤胃丙酸经肝脏糖异生产生的葡萄糖；BSEG为过瘤胃淀粉在小肠降解为葡萄糖，在葡萄糖转运载体协助下吸收的葡萄糖； $K _ { 1 }$ 为瘤胃壁对丙酸的吸收率 $( \\% )$ ； $P r$ 为饲粮经瘤胃发酵后的丙酸生成量（mmol/d)； $K _ { 2 }$ 为过瘤胃淀粉的小肠消化率 $( \\% )$ ；BS为饲粮过瘤胃淀粉的含量（g/d)；MG 单位为 $\\mathrm { { g / d } }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "此外，韩飞[1围绕MG开展的研究建立了瘤胃丙酸吸收率的测定方法，兰旭青[12]评定1了奶牛常用饲料原料的MG，为MG 体系的发展和应用提供了方法学依据和基础资料。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "与 $\\mathrm { N E } _ { \\mathrm { L } }$ 类似，奶牛围产期蛋白质平衡（protein balance,PB）的评估也分为产前和产后，但估测公式更为复杂，因为小肠蛋白质的来源有3种，即MCP、瘤胃非降解蛋白质（RUP）和内源粗蛋白质（endogenous crude protein,ECP)，每一种来源均有相应预测公式。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "产前蛋白质平衡 $( \\mathrm { P B } _ { \\mathrm { p r e } } )$ 计算公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P B } _ { \\mathrm { p r e } } = \\mathrm { ( M P } _ { \\mathrm { F e e d } } \\mathrm { + M P } _ { \\mathrm { M C P } } \\mathrm { + M P } _ { \\mathrm { E C P } } \\mathrm { ) \\ - \\ ( M P } _ { \\mathrm { m } } \\mathrm { + M P } _ { \\mathrm { P } } \\mathrm { + M P } _ { \\mathrm { g r o w t h } } \\mathrm { ) } _ { \\circ }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "产后蛋白质平衡（ $\\mathrm { P B } _ { \\mathrm { p o s t } }$ ）计算公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P B } _ { \\mathrm { p o s t } } \\mathrm { = \\Phi ( M P _ { F e e d } \\mathrm { + } M P _ { M C P } \\mathrm { + } M P _ { E C P } ) \\mathrm { ~ - ~ } \\Phi ( M P _ { m } \\mathrm { + } M P _ { L } \\mathrm { + } M P _ { g r o w t h } ) } _ { \\mathrm { c } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mathrm { M P _ { F e e d } }$ 指饲粮可提供的MP（ $\\mathbf { g } / \\mathbf { d } { \\mathbf { \\Gamma } } .$ ， $\\scriptstyle \\mathrm { M P _ { F e e d } = D M I \\times M P }$ ； $ { \\mathrm { M P } } _ { \\mathrm { M C P } }$ 是指 MCP 提供的MP（g/d），由CPM-Dairy软件计算而得； $\\mathsf { M P } _ { \\mathrm { E C P } }$ 指 ECP 提供的MP（g/d），$\\mathrm { M P } _ { \\mathrm { E C P } } { = } 0 . 4 { \\times } 1 1 . 8 { \\times } \\mathrm { D M I }$ $\\mathbf { M P _ { \\mathrm { m } } }$ 指 MP 维持需要 $( \\mathbf { g } / \\mathbf { d } )$ ， $\\mathrm { M P } _ { \\mathrm { m } } { = } 4 . 1 \\times$ 体重 $0 . 5 _ { + 0 . 3 \\times }$ 体重 ${ \\boldsymbol { 0 . 6 } } _ { + } ( \\mathrm { D M I } \\times 3 0$ 一 $0 . 5 \\times$ [（MCP/0.80）-MCP)] $+ \\mathrm { M P _ { E C P } } / 0 . 6 7$ ;， $\\mathbf { M P } _ { \\mathrm { P } }$ 指 MP 妊娠需要（ $\\bf \\cdot \\mathrm { \\bf g } / \\mathrm { d } \\lambda )$ ， $\\begin{array} { r } { \\mathbf { M P } _ { \\mathrm { P } } { = } \\left\\{ \\begin{array} { r l r l } \\end{array} \\right. } \\end{array}$ [ $( 0 . 6 9 \\times$ 妊娠天数）-69.2] $\\times$ （特牛初生重/45） $\\beta / 0 . 3 3$ ； $\\mathrm { \\mathbf { M } P _ { L } }$ 指 MP 泌乳需要 $\\bf ( \\mathrm { { g } / \\mathrm { { d } } ) }$ ， $\\mathrm { M P _ { L } = }$ （产奶量×乳蛋白率）/0.67；MPgrowth指MP 生长需要，由CPM-Dairy 软件计算而得，NRC（2001）亦有相应计算公式。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2生理功能指标体系",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 能量平衡 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "奶牛围产期NEB 导致脂肪组织脂解作用加强，大量NEFA释放入血，一部分NEFA进入乳腺合成乳脂，另一部分随血液循环进入肝脏代谢供能。当NEFA完全氧化为二氧化碳（ $\\mathrm { C O } _ { 2 }$ ）和水（ $_ \\mathrm { H _ { 2 } O }$ ）时，供能效率高且无害；当NEFA发生不完全氧化时，供能效率低且生成大量酮体，主要是 BHBA，易诱发奶牛酮病的发生[4,13]；同时，高浓度 NEFA 和 BHBA可损伤肝细胞，降低肝脏糖异生能力[14]。因此，血液 NEFA、BHBA 和葡萄糖浓度常用作奶牛围产期能量代谢的标志物，机体糖类和脂质代谢相关激素（胰岛素、胰高血糖素、肾上腺素、瘦素等）也常被纳入分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 蛋白质平衡",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "机体蛋白质动员是奶牛围产期乳蛋白合成和肝糖异生的重要底物来源，是奶牛对 NEB和 NPB 的自我生理调控[15]。3-MH是一种存在于肌动蛋白和肌球蛋白中的甲基化的氨基酸，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当奶牛肌肉蛋白质被动员分解时，会伴随3-MH的释放，因此3-MH常被认为是奶牛围产期蛋白质动员的血液标记物，并已在多项研究中得到公认和应用[3,15-16]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 肝脏功能",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "奶牛围产期肝脏功能检测的指标选择基于2个方面：1）人类医学中的肝功检测指标；2）奶牛围产期特殊生理代谢及其产物。常用的奶牛肝功指标有白蛋白（ALB）、谷丙转氨酶（GPT）、谷草转氨酶（GOT）、碱性磷酸酶（AKP）、总胆红素（total bilirubin,TBIL）、乳酸脱氢酶（LDH）、总胆固醇（totalcholesterol,TC）及其组分等，检测样品均为血浆或血清。明确每个指标的生物学意义是肝功检测的前提，如GOT属于胞内酶，位于肝细胞内部，当肝细胞损伤或破裂时，该酶才会被释放出来，导致血液GOT 活性升高，因而血液GOT 活性常用来反映肝脏健康状况[10,14]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4 机体健康",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "受营养素负平衡、氧化应激、内分泌变化和其他应激的影响，围产期奶牛处于不同程度的免疫抑制状态，易遭受外源有害微生物的侵袭，导致各类疾病的发生[17]。血浆或血清前炎性细胞因子[白细胞介素1β（IL-1β)、白细胞介素2（IL-2）、白细胞介素4（IL-4)、白细胞介素6（IL-6）和肿瘤坏死因子 $\\mathfrak { a }$ （TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ ）等]的浓度[13,18]、血液中性粒细胞的吞噬能力和氧爆作用[19]以及外周血T淋巴细胞亚型（ $\\mathrm { C D 4 ^ { + } / C D 8 ^ { + } }$ ）[13]等指标常用来反映奶牛围产期机体免疫功能。奶牛通过体质动员缓解营养素负平衡，随分娩的临近和发生，奶牛体脂动员增加，脂质代谢增强，自由基积累增加，机体抗氧化能力下降，易发生氧化应激。血浆或血清总抗氧化能力（T-AOC）、硫代巴比妥酸反应物（TBARS）和丙二醛（MDA）浓度可用于反映机体抗氧化状态[20]。同时，谷胱甘肽过氧化物酶（GSH-Px）、超氧化物歧化酶（SOD）、过氧化氢酶（CAT）和对氧磷酶1（paraoxonase 1,PON1）等的活性也常作为机体抗氧化能力的重要指标[21]，但仅通过抗氧化酶系的活性能否真正反映动物抗氧化能力仍存疑。Bermabucci等[22]研究发现，奶牛分娩当天血浆GSH-Px 活性最高，这可能是机体为清除自由基而发挥自我调控功能，促进相关抗氧化酶的合成。因此，一些非酶抗氧化剂，如维生素 A、维生素E等，也应引起足够重视，并纳入抗氧化评价体系[23]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3综合指数评价体系",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1修正的定量胰岛素敏感检测指数（revised quantitative insulin sensitivity check ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "index,RQUICKI) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于特殊的生理代谢特征，奶牛围产期容易发生胰岛素抵抗，胰岛素敏感性下降，导致胰岛素调控葡萄糖、脂解作用等的能力有所降低[24]。RQUICKI可用于评定动物和人类胰岛素敏感性，RQUICKI的值越高，胰岛素敏感性越强，也就越不容易发生胰岛素抵抗，计算公式如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "RQUICKI $\\varXi$ 1/[log10（NEFA）+log1o（葡萄糖）+logio（胰岛素)］[25-26]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中：血浆或血清NEFA、葡萄糖和胰岛素浓度的单位分别为mmol/L、mmol/L 和pmol/L。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 肝脏活性指数（liver activity index,LAI） ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为系统评价奶牛围产期肝脏功能和机体健康，Trevisi等[26]建立了LAI这一指标，该指数由血浆或血清 ALB $( \\mathbf { g } / \\mathrm { L } )$ ）、TC（mmol/L）和维生素A（ $\\mu \\mathrm { g / d L }$ ）计算而来。首先，计算这3 个指标在产后7、14 和 $2 8 \\mathrm { d }$ 的分指数（partial index,PI)，公式如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "PI（ALB,7 d) $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ （7d血浆或血清ALB浓度一牛群血浆或血清ALB浓度的平均值）／（牛群血浆或血清ALB浓度的标准差);",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { P I } \\ ( \\mathrm { A L B } , 1 4 \\mathrm { d } ) = ( 1 4 \\mathrm { d }$ 血浆或血清ALB浓度一牛群血浆或血清ALB浓度的平均值）／（牛群血浆或血清ALB浓度的标准差)；",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "一 $\\mathbf { \\mathrm { ~ \\text J ~ } } ( \\mathrm { A L B } , 2 8 \\mathrm { ~ d } ) = ( 2 8 \\mathrm { ~ d ~ }$ 血浆或血清ALB浓度一牛群血浆或血清ALB浓度的平均值）／（牛群血浆或血清ALB浓度的标准差）。",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P I ~ ( A L B ) = \\left[ P I ~ ( A L B , 7 ~ d ) ~ + P I ~ ( A L B , 1 4 d ) ~ + P I ~ ( A L B , 2 8 ~ d ) \\right] / 3 } \\circ \\mathrm { _ B }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "PI（TC）和PI（维生素A）的计算方法同上。然后，根据以下公式计算LAI:",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "LAI $\\ c =$ [PI（ALB） $+ \\mathrm { P I }$ （TC） $+ \\mathrm { P I }$ （维生素A)]/3。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在后续验证中发现，低LAI奶牛血液NEFA、BHBA 和触珠蛋白浓度显著高于高LAI奶牛，体脂动员和体况损失更严重，更易发生炎症反应，泌乳和繁殖性能也显著降低[27],低 LAI奶牛的DMI和能量利用效率更低[28]，这表明LAI可以作为评价奶牛围产期能量代谢和健康的敏感指标，一般范围为-1.5<LAI<1.5。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3肝脏功能指数（liver functionality index,LFI)测定奶牛LAI所需样品量大，且分析成本高，往往会限制其大规模应用。因此，Trevisi",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "等[29]提出了LFI的概念，其采样量更少，测试成本更低，包括3个指标，即 ALB、TC 和  \nTBIL。LFI的实用性更强，不仅可以比较牛群内部的差异，还可用来比较不同牧场间奶牛围  \n产期饲养管理的差异，其计算公式为：白蛋白亚指数（subindex ofALB,SI-ALB） $= 5 0 \\% \\times \\mathrm { C } 3 + 5 0 \\% \\times$ （C28-C3);总胆固醇亚指数（subindex of TC,SI-TC） $= 5 0 \\% \\times \\mathrm { C } 3 + 5 0 \\% \\times$ (C28-C3);总胆红素亚指数（subindex of TBIL,SI-TBIL） $= 6 7 \\% \\times \\mathrm { C } 3 + 3 3 \\% \\times$ (C3-C28);LFI $\\circeq$ （SI-ALB-17.71） $/ 1 . 0 8 +$ （SI-TC-2.57） /0.43-（SI-TBIL-6.08） /2.17。式中：C3和C28分别为奶牛产后3和 $2 8 \\mathrm { d }$ 该物质在血浆或血清中的浓度，ALB、TC  \n和 TBIL 浓度的单位分别为 $\\mathrm { \\ g / L }$ 、mmol/L 和 $\\mu \\mathrm { m o l / L }$ 。LFI的取值范围为 $1 2 < \\mathrm { L F I } < 5$ ，当 $\\mathrm { L F I } { > } 0$ 时，表明奶牛围产期营养和其他方面的管理比  \n较适当，奶牛较为健康。与LAI类似，LFI的敏感性也较好，低LFI奶牛具有以下特征：1)  \nDMI和产奶量低，体况损失更严重；2）血液触珠蛋白和铜蓝蛋白浓度高，这提示肝脏功能  \n有所降低；3）血液 NEFA和BHBA浓度升高，脂解作用增强，加重肝脏负担，增加脂肪肝  \n和酮病的患病风险[30]。由此可见，LFI可较好地反映奶牛围产期的典型生理特征、体况和产  \n后泌乳性能。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4氧化应激指数",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "衡量奶牛机体氧化还原状态的指标较多，如血液T-AOC、MDA浓度、活性氧（ROS）积累量、抗氧化酶活性和非酶抗氧化剂浓度等，但单一指标的代表性一直存在争议，目前尚缺乏评价动物抗氧化状态的统一模型和方法，这使得个体间和群体间比较的可信度存疑[17,31-32]。氧化应激的本质是氧化剂和抗氧化剂间的比例失衡，二者综合考虑才能真实反映动物的氧化还原状态[3-34]。Celi[32]首次在奶牛上提出，机体促氧化剂（pro-oxidants）和抗氧化剂（anti-oxidants）之间的比值可用于表征奶牛氧化应激程度和患病风险，该比值越大，表明ROS 等自由基积累增加或（和）抗氧化剂不足，奶牛更容易发生氧化应激。在此基础上，Abuelo 等[31]提出了氧化应激指数（oxidative stress index,OSi）的概念，计算公式为：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "OSi $\\varXi$ ROS/SAC。",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "式中：SAC 指血清抗氧化能力（serum antioxidant capacity)，单位为μmol HClO/mL(表示氧化1mL 血清中全部抗氧化物质所需的次氯酸微摩尔数)；ROS 以 Carrateli 氏单位（Carratelliunits,CarrU）表示，1CarrU相当于每 $\\cdot$ 血清中 $0 . 0 8 \\mathrm { m g }$ 过氧化氢的氧化能力；OSi的单位为 CarrU/（μmol HClO/mL）。研究表明，与单一指标相比，OSi可更真实和精确地反映奶牛围产期抗氧化状态，奶牛分娩后的氧化应激最为严重；此外，抗氧化剂的补充应从产前30d开始[31]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.5 奶牛围产期指数",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "奶牛围产期指数（transition cow index,TCI）于2005-2006 年由美国兽医师Nordlund 提出，TCI的数据来源相当庞大，基于来自4000 余个牧场的55万头经产奶牛基础资料的汇总和分析，2006年3月30日提出专利申请，2011年2月15日获得美国专利授权（专利号US7886691B2)，并迅速在美国和加拿大全境推广，美国国家资源育种公司（cooperativeresources intermational,CRI）享有全球独家代理权[35-37]。TCI以奶牛群体改良（dairy herdimprovement，DHI，也称奶牛生产性能测定）为基础，为综合评定奶牛围产期管理水平提供了科学依据和指标参考，TCI计算公式如下：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本泌乳周期305d应该实现产奶量 $\\mathbf { \\bar { \\rho } } = \\mathbf { \\rho }$ (截距常数） $1 4 7 6 +$ （ $0 . 2 9 4 1 \\times .$ 上一泌乳周期305d实际产奶量）+（155.95×本泌乳周期首次测定日泌乳天数） $^ { + } ( - 3 . 7 2 1 8 \\times$ 上一泌乳周期的泌乳总天数)+（本泌乳周期分娩代码值） $+$ （分娩月份值） $^ +$ （一80.4888×上一泌乳周期最后一次体细胞评分）+（3.8618×干奶期天数） $^ +$ （上一泌乳周期分娩代码值） $^ +$ （本泌乳周期使用生长激素代码值）+（品种代码值） $+$ （上一泌乳周期胎次代码值） $^ +$ （本泌乳周期每天挤奶次数代码值） $^ +$ （上一泌乳周期使用生长激素代码值 $\\times$ 上一泌乳周期305d实际产奶量） $^ +$ （上一泌乳周期每天挤奶次数代码值）[35-36]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "式中：相关代码值具有地域和群体特异性，具体见张廷青[35]的报道。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "TCI=本泌乳周期305d可能实现产奶量一本泌乳周期305d应该实现产奶量。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "若 $\\mathrm { T C I } { > } 0$ 或 $\\scriptstyle \\mathrm { { T C I = 0 } }$ ，说明奶牛围产期管理恰当，奶牛健康状况良好，并可超额（或刚好）完成本泌乳周期的泌乳任务；若TCI<0，说明奶牛围产期管理不合理，亟需改进，奶牛存在健康或代谢问题，可能无法完成既定泌乳任务。TCI公式中所涉及的系数、常数均基于北美牧场的大数据，我国尚缺乏基础数据，强行套用易产生误差，不能真实反映牧场围产期奶牛的管理状况。在应用过程中，牧场经营者应详细记录营养、繁殖、兽医和泌乳等每个环节的相关信息，并加强牧场间的数据共享，构建中国奶牛数据库。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.6综合气候指数（comprehensive climate index,CCI）",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "围产期奶牛对环境参数的改变更加敏感，更易发生热应激。热应激常用评价指标为温湿度指数（temperature-humidity index,THI），由环境温度（ambient temperature,Ta）和相对湿度（relativehumidity,RH）2个因素决定，THI计算公式如下：",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { T H I } = ~ ( 0 . 8 { \\times } \\mathrm { T a } ) ~ + ~ \\left[ ( \\mathrm { R H } / 1 0 0 ) ~ { \\times } ~ ( \\mathrm { T a } - 1 4 . 3 ) \\right] ~ { + } 4 6 . 4 ^ { [ 3 8 ] } \\circ\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "THI已被广泛应用于奶牛热应激管理，但THI并未将风速（wind speed,WS）和太阳辐射（solar radiation,RAD）考虑在内，其精确性略显不足。基于10 余年的延续性研究，Mader等[39]提出了一个全新的热应激评价指标-CCI，CCI综合考虑 Ta、RH、WS 和RAD 对奶牛热应激的贡献，其计算公式由RH、WS 和RAD 的3个校正因子以及Ta构成。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "相对湿度校正因子（RHcorrection factor ${ \\mathrm { R H } } _ { \\mathrm { C F } }$ ）、风速校正因子（WScorrection factor,WScF）、太阳辐射校正因子（RADcorrection factor, ${ \\mathrm { R A D } } _ { \\mathrm { C F } }$ ）计算公式如下：",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\mathrm { R H } _ { \\mathrm { C F } } = \\qquad } & { e ^ { ( 0 . 0 0 1 8 2 \\times R H + 1 . 8 \\times 1 0 ^ { - 5 } \\times T a \\times R H ) } } \\\\ & { \\times ( 0 . 0 0 0 0 5 4 \\times T a ^ { 2 } + 0 . 0 0 1 9 2 \\times T a - 0 . 0 2 4 6 ) } \\\\ & { \\times ( R H - 3 0 ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "WScF= ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\mathrm { R A D } _ { \\mathrm { C F } ^ { = } } \\qquad } & { 0 . 0 0 7 6 \\times R A D - 0 . 0 0 0 0 2 \\times R A D \\times T a } \\\\ { \\quad } & { + 0 . 0 0 0 0 5 \\times T a ^ { 2 } \\times \\sqrt { R A D } + 0 . 1 \\times T a - 2 . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "式中：Ta、RH和 $\\boldsymbol { \\mathrm { R H } } _ { \\mathrm { C F } }$ 、WS和 $\\mathrm { w s } _ { \\mathrm { c r } }$ 以及RAD 和RADcF的单位分别为℃、 $9 \\%$ 、 $\\mathrm { m / s }$ 以及 $\\mathrm { W } / \\mathrm { m } ^ { 2 }$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CCI最终计算公式为：",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { C C I = T a + 1 . 8 \\times R H _ { C F } + 0 . 6 \\times W S _ { C F } + 5 . 5 \\times R A D _ { C F } }\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CCI可为牧场管理者提供更先进和精确的热应激评价标准，为奶牛围产期及其他生理阶段热应激的精准管理，提供科学基础。考虑到CCI计算较为繁琐，可考虑开发计算机软件，并整合温湿度仪、风速仪和太阳辐射测量仪，研发牧场热应激评估系统，同时监测CCI和 THI，实现全自动实时监测。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4小结  \n围产期奶牛处于能量、蛋白质和多种营养素的负平衡状态，肝脏、瘤胃及其他器官的代谢功能下降，机体抗氧化和免疫功能较其他阶段更弱，极易发生代谢性疾病和其他疾病，威胁奶牛健康，限制产后泌乳性能的高效发挥。采用NRC（2001）和CNCPS 模型、MG 体系及 CPM-Dairy 软件可较为全面地评估奶牛围产期营养平衡规律，整合生理功能指标和综合指数评价体系的结果，有助于系统阐明奶牛围产期整体代谢规律和生理机制，为确定奶牛围产期营养需要量，制定更精准的营养调控和管理策略，提供理论基础和技术支撑。  \n参考文献：  \n[1]苏华维,曹志军,李胜利.围产期奶牛的代谢特点及其营养调控[J].中国畜牧杂志,2011,47(16):44-48.  \n[2] ROCHE J,BELL A,OVERTON T,et al.Nutritional management of the transition cow in the21st century-a paradigm shift in thinking[J].Animal Production Science,2013,53(9):1000-1023.[3]JI P,DANNH.Negativeproteinbalance:implicationsforfresh and transitioncows[C]//Proceedings:Cornell nutrition conference for feedmanufacturers.[S.l.]:[s.n.],2013:101-112.  \n[4] OSORIO J,TREVISI E,JI P,et al.Biomarkers of inflammation,metabolism,and oxidative stressin blood,liver,and milk reveal a better immunometabolic status in peripartal cows supplementedwith Smartamine M or MetaSmart[J].Journal of Dairy Science,2014,97(12):7437-7450.  \n[5] 苏华维.中国荷斯坦奶牛围产期能量平衡及其调控研究[D].博士学位论文.北京:中国农业大学,2011.  \n[6]卢德勋.反刍动物葡萄糖营养调控理论体系及其应用[J].畜牧与饲料科学,2010,2010(6):402-409.  \n[7] LU D.Systems nutrition:an innovation of a scientific system in animal nutrition[J].Frontiers in",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Bioscience,2013,6:55-61. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "8]卢德勋.新版系统动物营养学导论[M].北京：中国农业出版社,2016.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[9] NRC.Nutrient requirements of dairy cattle[S].Washington D.C.: National Academies Press,2001. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[10] OSORIO J,JI P,DRACKLEY J,et al.Supplemental smartamine M or MetaSmart during the transition period benefits postpartal cow performance and blood neutrophil function[J].Journal of Dairy Science,2013,96(10):6248-6263.   \n[11]韩飞.反刍动物常用饲料丙酸产量和吸收率的测定及其模型的研究[J].内蒙古农业大学 学报,2001,9(3):27-32.   \n[12]兰旭青.奶牛常用饲料 MG 的测定及玉米加工工艺和粗饲料组合对 MG 影响的研究[D]. 硕士学位论文.呼和浩特:内蒙古农业大学,2008.   \n[13] SUN F F,CAO Y C,CAI C J,et al.Regulation of nutritional metabolism in transition dairy cows:energy homeostasis and health in response to post-ruminal choline and methionine[J].PLoS One,2016,11(8):e0160659.   \n[14] DENG Q,LIU G,LIU L,et al.BHBA influences bovine hepatic lipid metabolism via AMPK signaling pathway[J].Journal of Cellular Biochemistry,2015,116(6):1070-1079.   \n[15] BELL AW,BURHANS WS,OVERTON TR.Protein nutrition in late pregnancy,matermal protein reserves and lactation performance in dairy cows[J].Proceedings of the Nutrition Society,2000,59(01):119-126.   \n[16] NICHOLS K,KIM J,CARSON M,et al.Glucose supplementation stimulates peripheral branched-chain amino acid catabolism in lactating dairy cows during essential amino acid infusions[J].Journal of Dairy Science,2016,99(2):1145-1160.   \n[17] ZEBELI Q,GHAREEB K,HUMER E,et al.Nutrition,rumen health and inflammation in the transition period and their role on overall health and fertility in dairy cows[J].Research in Veterinary Science,2015,103:126-136.   \n[18] GAO F,LIU YC,ZHANG ZH,et al.Effect of prepartum maternal energy density on the growth performance,immunity,and antioxidation capability of neonatal calves[J].Journal of Dairy ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Science,2012,95(8):4510-4518. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[19] ZHOU Z,BULGARI O,VAILATI-RIBONI M,et al.Rumen-protected methionine compared with rumen-protected choline improves immunometabolic status in dairy cows during the peripartal period[J].Journal of Dairy Science,2016,99(11):8956-8969. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[20] CELI P.Oxidative stress in ruminants[M]/Studies on Veterinary Medicine.[S.1.]:Humana Press,2011:2887-2894.   \n[21] BIONAZ M,TREVISI E,CALAMARI L,et al.Plasma paraoxonase,health,inflammatory conditions,and liver function in transition dairycows[J].JournalofDairy Science,2007,90(4):1740-1750.   \n[22] BERNABUCCI U,RONCHI B,BASIRICO L,et al.Abundance of mRNA of apolipoprotein B 100,apolipoprotein E,and microsomal triglyceride transfer protein in liver from periparturient dairy cows[J].Journal of Dairy Science,2004,87(9):2881-2888.   \n[23] PATRA R,SWARUP D,DWIVEDI S.Antioxidant effects of $\\mathfrak { a }$ tocopherol,ascorbic acid and L-methionine on lead induced oxidativestresstothe liver,kidney and brainin rats[J].Toxicology,2001,162(2):81-88.   \n[24] DE KOSTER JD,OPSOMER G.Insulin resistance in dairy cows[J].Veterinary Clinics of North America:Food Animal Practice,2013,29(2):299-322.   \n[25] PERSEGHIN G,CAUMO A,CALONI M,et al.Incorporation of the fasting plasma FFA concentration into QUICKI improves its association with insulin sensitivity in nonobese individuals[J].Journal of Clinical Endocrinology & Metabolism,2001,86(10):4776-4781.   \n[26] TREVISI E,CALAMARI L,BERTONI G.Definition of liver activity index in the dairy cow and its relationship with the reproductive performance[C]/Proceedings:international symposium of veterinary laboratory diagnosticians.Parma: [s.n.],2001:118-119.   \n[27] BERTONI G,TREVISI E,HAN X,et al.Effects of inflammatory conditions on liver activity in puerperium period and consequences for performance in dairy cows[J].Journal of Dairy Science,2008,91(9):3300-3310.   \n[28] TREVISI E,ZECCONI A,BERTONI G.Blood and milk immune and inflammatory profiles in periparturient dairy cowsshowing a different liver activity index[J].Journal of Dairy Research,2010,77(3):310-317.   \n[29] TREVISI E,BERTONI G,ARCHETTI I,et al.Inflammatory response and acute phase proteins inthe transition period of high-yielding dairy cows[M].[S.l.]:INTECH Open Access Publisher,2011:355-380.   \n[30] BERTONI G,TREVISI E.Use of the liver activity index and other metabolic variables in the assessment of metabolic health in dairy herds[J].Veterinary Clinics of North America:Food Animal Practice,2013,29(2):413-431.   \n[31] ABUELO A,HERNANDEZ J,BENEDITO J,et al.Oxidative stress index (OSi)as a new tool to assess redox status in dairy catle during the transition period[J].Animal,2013,7(08):1374-1378. [32] CELI P.Biomarkers of oxidative stress in ruminant medicine[J].Immunopharmacology and Immunotoxicology,2011,33(2):233-240.   \n[33] CASTILLO C,HERNANDEZ J,BRAVO A,et al.Oxidative status during late pregnancy and early lactation in dairy cows[J].The Veterinary Journal,2005,169(2):286-292.   \n[34] SHARMA RK,PASQUALOTTO FF,NELSON DR,et al.The reactive oxygen species—total antioxidant capacity score isa new measure of oxidative stress to predict male infertility[J].Human Reproduction,1999,14(11):2801-2817.   \n[35] 张廷青.张博士实战解析-奶牛高效繁殖[M].北京：化学工业出版社,2014.   \n[36] NORDLUND K.Transition Cow IndexTM[C]//39th proceedings american association bovine practitioners.Saint Paul,USA:[s.n.],2006:139-143.   \n[37] NORDLUND K V,COOK N B.Using herd records to monitor transition cow survival,productivity,andhealth[J].VeterinaryClinicsofNorthAmerica:FoodAnimal Practice,2004,20(3):627-649.   \n[38]MADER TL.Environmental stressin confined beef cattle[J].Journal of Animal Science.2003,81:E110-E119.   \n[39] MADER T,JOHNSON L,GAUGHAN J.A comprehensive index for assessing environmental stress in animals[J].Journal of Animal Science,2010,88(6):2153-2165.   \nDietary Nutrient Balance and Characteristics ofNutrition and Physiology in Transition Dairy ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "SUN Bofei1 YU Chao²CAO YangchunlCAI Chuanjiang1LI Shengxiang1 YAO Junhul\\* (1. College of Animal Science and Technology, North West Agriculture and Forestry University, Yangling 712100, China; 2. The Development Centre of Animal Husbandry of Shangluo City of Shanxi Province, Shangluo 726000, China) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The transition period is a pivotal period in the whole lactation cycle of dairy cows, which involves the fetal growth and development, health maintenance, renewal and reconstruction of the mammary gland,as well as the onset of lactation and so on. Hence, the precise management of transition cows is highly correlated with the health and lactation performance. As research continues,the main metabolic characteristics of transition dairy cow become comparatively clear. However, the evaluation systems for dietary nutrient balance and body nutritional physiological condition are not completely established either. Moreover,a few individual biomarkers are usually detected to reflect the physiological status of transition dairy cows,and the representativeness remains controversial. Till now, the comprehensive evaluation system is rarely applied in transition dairy cows. In this review, we summarized and discussed the comprehensive evaluation system of transition dairy cows,thereby providing scientific basis and technical references for further explicating nutrient balance and metabolic dynamics,as well as developing nutrient requirements and conducting precise feeding strategies. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Key words: nutrient balance; comprehensive evaluation index; transition dairy cow ",
+        "page_idx": 13
+    }
+]

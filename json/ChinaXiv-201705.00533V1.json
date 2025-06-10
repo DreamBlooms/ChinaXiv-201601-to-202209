@@ -1,0 +1,411 @@
+[
+    {
+        "type": "text",
+        "text": "Silicon Oxycarbide/Carbon Nanohybrids with Tiny Silicon Oxycarbide Particles Embedded in Free Carbon Matrix Based on Photoactive Dental Methacrylates ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Meimei Wang,t Yonggao Xia Xiaoyan Wangt\\$ Ying Xiao, Rui Liu\" Qiang Wu Bao Qiu, Ezzeldin Metwall,# Senlin Xia# Yuan Yao, Guoxin Chen, Yan Liu, Zhaoping Liu, Jian-Qiang Meng,\\$ Zhaohui Yang,→ Ling-Dong Sun,\" Chun-Hua Yan,\" Peter Muller-Buschbaum, Jing Pan,‡ and Ya-Jun Cheng\\*,Y ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "+Ningbo Instituteof Materials TechnologyandEngineering,Chinese Academyof Sciences,219 Zhongguan WestRoad,Zhenhai   \nDistrict，Ningbo, Zhejiang Province 315201, People's Republic of China   \nFacultyofMateralsieneadCmicalEgineeingngbUivesityngbo,ZhejangProvince211,eople'sblicof   \nChina'   \n\\$State KeyLboratoryofparationMembranesandMembraneProceses,TianjiPolytechnicUniversityianjin0387,eople's   \nRepublic of China   \nBeijing National Laboratoryfor Molecular Sciences,State KeyLaboratoryofRareEarth Materials Chemistryand Applications and   \nPKU-HKUJointLabonRareEarthMaterialsandBinorganicChemstry,ClegeofChemistryandMolecularEngineingeking   \nUniversity，Beijing 100871, People's Republic of China   \nCenter for Soft Condensed aterPhysicsandInterdisciplinaryResearch,SoocowUiversitySuzhou56,People'sepublicof   \nChina   \n#Physik-Department,LhrstuhlfuruntioelleMateralien,Technische Universitat Mnchen,Jams-ranck-trasse1748   \nGarching, Germany ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT: A new facile scalable method has been developed to synthesize silicon oxycarbide (SiOC)/carbon nanohybrids using difunctional dental methacrylate monomers as solvent and carbon source and the silane coupling agent as the precursor for SiOC. The content (from $1 0 0 \\%$ to $4 0 \\%$ by mass) and structure (ratio of disordered carbon over ordered carbon) of the free carbon matrix have been systematically tuned by varying the mass ratio of methacryloxypropyltrimethoxysilane (MPTMS) over the total mass of the resin monomers from O.0 to 6.0. Compared to the bare carbon anode, the introductionofMPTMSsignifcantlyimproves theelectrochemicalperformanceasalithium-ionbateryanode.Theintialand cycled discharge/charge capacities of the SiOC/C nanohybrid anodes reach maximum with the MPTMS ratio of 0.50, which displays very goodrate performance as well.Detailedstructures and electrochemical performanceas itum-ionbatteryanodes have been systematically investigated. The structure-property correlation and corresponding mechanism have been discused. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/4fd6512c10e0d19f570d531a8918163530c80437e863304c69d059a8a7ef987f.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KEYWORDS: silane coupling agent, thermoseting methacrylate resin,silicon oxycarbide,lithium-ionbatery anode, photopolymerization ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lithium-ion batteries (LIBs) are widely used as an energy supply of electric vehicles,hybrid electric vehicles，portable electronic devices,and energy storage as wellbecause of their high energy density, long cycling life,minimum memory effect, and environmental benignity.1-6 However, the conventional graphite anode cannot meet the continuous increasing technical standard due to low capacity $\\left( 3 7 2 { \\mathrm { ~ m A h } } \\cdot \\mathbf { g } ^ { - 1 } \\right)$ and serious safety concerns.6-8 It is crucial to develop a new generation of lithium-ion battery anodes with high specific capacity，excellent cyclic stability，good rate performance,and reliable operation safety. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Polymer-derived ceramics (PDCs） such as silicon oxycarbide (SiOC) have attracted much attention as a potential LIB anode material.9-21 They have advantages such as large capacity, good cyclic stability，and potential low costs.Moreover, they can be easily synthesized.17In more detail, SiOC glass contains $\\mathrm { S i - C }$ and $\\mathrm { { \\ s i - O } }$ bonds and its chemical composition can be defined as $\\mathrm { S i O } _ { x } \\mathrm { C } _ { 4 - x } + y \\mathrm { C } _ { \\mathrm { f r e e } }$ 22 In this notation, the term $\\mathrm { S i O } _ { x } \\mathrm { C } _ { 4 - x }$ denotes the “pure” silicon oxycarbide glassand the term Cfee represents theadditional freecarbon within the material.124 This free carbon is important for the electrochemical performance because it acts as major active sites for lithium ion intercalation.25 It is reported that the Li ions are stored both in the interspaces of the sheetlike carbon and at the edges of the graphene layers.25The $_ { S i - O - C }$ network mainly functions as stabilizer to inhibit electrode collapse during repeated discharge/charge progresses.26 The composition, structure，morphology of the SiOC glass and free carbon matrix,and homogeneous dispersion of the SiOC glass within the free carbon matrix play important roles in the overall performance of the SiOC composites.27-30 In particular, it was reported that composites with the SiOC glass homogeneously dispersed in free carbon matrix tend to exhibit better electrochemical deviceperformance.27,28,30Therefore,thecurrent research on SiOC lithium-ion battery anodes has been mainly focused on the carbon-rich SiOC composites, where continuous free carbon is formed and used as matrix to disperse the SiOC glass.25-28,31-36 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In most literature， SiOC was synthesized by pyrolysis of linearpolysie plastic polysiloxanes are molten during pyrolysis, the nucleation, growth，and aggregation of the in situ formed SiOC domain structure is only poorly controlled.As a result, large-sized bulk SiOC glasses were formed.23 Such large-size structures are not beneficial for the structure stability and overall electrochemical performance of the SiOC composites. Furthermore, the pyrolysis of the thermoplastic linear polysiloxanes generates only rather limited content of free carbon. Consequently，only nanosized carbon domain could be formed, leading to a segregated SiOC glass and carbon phase.30 To overcome these problems, photo or thermal cross-linking treatment was applied to the linear polysiloxanes to improve the structure and morphology control of the SiOCnd ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Unfortunately,the enhanced cross-linking alone did not bring sufficient structure and morphology control due to a limited number of cross-linking sites,which resulted in only a moderate electrochemical performance improvement.In literature, further optimization of the pyrolysis protocol was reported with the aim of tuning the structure and performance of the SiOC composites ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the present manuscript a novel way toward a more optimized structure and morphology control of SiOC/C nanohybrids is presented.It is based on our previous work that enabled the homogeneous dispersion of tiny SiOC particles in a continuous free carbon matrix 51-53 To our best knowledge, this synthetic method was only rarely applied before.54 As shown in Scheme 1,unlike the typically exploited linear and/or cross-linking modified polymeric siloxane precursors,a polymerizable silane coupling agent (methacryloxypropyltrimethoxysilane, MPTMS）is utilized as the source for siloxane in our route. Moreover,difunctional methacrylate monomers (bisphenol A glycerolate methacrylate，Bis-GMA，urethane dimethacrylate, UDMA，and triethylene glycol dimethacrylate，TEGDMA）are used as reaction medium and carbon source as well.51,52 The silane coupling agent is homogeneously premixed with the methacrylate monomers at the molecular level.Additionally,acrylic acid (AA）is used as additional cross-linker to further enhance the integration of the MPTMS with the difunctional methacrylate network, because AA reacts with the triple methoxyl silane groups of MPTMS to significantly increase the number of the crosslinking units of the MPTMS.Furthermore,photopolymerization triggered by a visible light active initiator (phenylbis(2,4,6- trimethylbenzoyl)phosphine oxide，I819） is performed.Upon photopolymerization， the cross-linked polymer reaches its gel point within 1 min and the liquid monomer solution is converted to a solid almost instantaneously. The photopolymerization has advantages compared with conventional thermally initiated polymerization, because the fast solidification process effectively inhibits the phase separation between the silane and methacrylate network during polymerization.54 Due to the above-mentioned reasons,the copolymerization between the silane coupling agent and methacrylate monomers generates highly cros-linked thermosetting polysiloxanes.The silane molecules are well-mixed and integrated with the thermosetting methacrylate network at a molecular level. Compared to the pristine linear or cross-linking modified linear polysiloxanes，the pyrolysis of the highly crosslinked polysiloxanes exercises better structure and morphology control of the SiOC glass and the free carbon matrix. The melting process of the thermosetting methacrylate is significantly inhibited during calcination in argon.As a result, the nucleation,growth, and agglomeration of the SiOC glass are effectively inhibited. Thus,the original structure of the MPTMS within the methacrylate network iswell-replicated in the final SiOC composite. Besides the benefit of structure and morphology control, the strategy developed in the present work is also featured witha fact that the tedious，costly，and environmentally unfriendly waste solvent disposal process is totally circumvented because all of the solution components are converted to solids via polymerization. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e517ff97f4caeea9f493a64d784270bb83de6fe2a695aa0f4f6332989fe026b6.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "EXPERIMENTALSECTION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Materials.Acrylic acid (AA, $9 9 \\%$ and $N \\mathrm { . }$ -methylpyrrolidone (NMP, $9 8 . 0 \\%$ ）were purchased from Sinopharm Group Co., Ltd.Bis-GMA, UDMA, TEGDMA were donated by Esstech, Inc.,U.S.A.Phenylbis0 $^ { 2 , 4 , 6 }$ -trimethylbenzoyl)phosphine oxide (Irgacure 819 photoinitiator, I819, $9 7 \\%$ ）was purchased from Sigma-Aldrich.Methacryloxypropyltrimethoxysilane(MPTMS, $9 7 \\%$ ）waspurchased from Aladdin. Poly(vinylidene fluoride)(PVDF)was donated by Solvay.Conductive carbon black (Super P, $9 9 \\%$ on metals basis）was purchased from Alfa Aesar. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sample Preparation.First，Bis-GMA，UDMA，and TEGDMA were mixed together with a mass ratio of 4:6:4.Photoactive $\\mathbf { B } / \\mathrm { U } / \\mathrm { T }$ resin mixture was prepared by dissolvingI-819 ( $1 \\%$ mass fraction） into the solution. MPTMS (from 0 to $\\mathrm { 1 2 . 0 ~ g }$ ）was further mixed with $2 . 0 \\ \\mathrm { g }$ of the $\\mathbf { B } / \\mathrm { U } / \\mathrm { T }$ solution and $2 . 0 \\ \\mathrm { g }$ of AA,with continuous stiring for around $\\textsf { S m i n }$ .The as-prepared solution was poured into a silicone rubber mold which was clamped between two glass slides afterward. Photopolymerization was carried out with a visible light-curing unit (Luxomat D,blue light $9 ~ \\mathrm { W } ,$ range of emission: $3 5 0 { - } 5 0 0 ~ \\mathrm { n m }$ for $3 \\mathrm { m i n }$ each side.The solidified samples were further baked at $6 0 ~ ^ { \\circ } \\mathrm { C }$ in an oven for $2 4 \\mathrm { h }$ .The samples were cut into powders by a mixer after being released from the molds.Calcination in argon atmosphere was performed at $8 0 0 ^ { \\circ } \\mathrm { C }$ for $^ { 4 \\mathrm { h } }$ in tube furnace with a ramp rate of $5 \\mathrm { { K / m i n } }$ starting from room temperature,followed by natural cooling to room temperature.Then, the calcined samples were ball-milled by a planetary ball miller (FRITSCH-pulverizette 7,Germany) for $^ { 4 \\mathrm { h } }$ with the speed of $4 0 0 \\ \\mathrm { r p m } ,$ followed by sieving with a 30o mesh. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sample Characterization.Field emission scanning electron microscopy(FESEM） images were obtained with a Hitachi S4800 scanning electron microscope (Tokyo,Japan） at an accelerating voltage of $4 \\ : \\mathrm { k V } .$ The transmission electron microscopy（TEM) experiment was performed witha JEOL JEM-210OF TEMor TecnaiF20 (AmericaFEI) instrument operated at $2 0 0 ~ \\mathrm { k V } .$ FESEM EDX elemental mapping was carried outwith an FEI QUANTA 250 FEG (America FEI) atan acceleratingvoltage of $1 5 \\ \\mathrm { k V } .$ X-ray diffraction(XRD)was carried out with $2 \\theta$ ranging between $5 ^ { \\circ }$ and $9 0 ^ { \\circ }$ (Bruker AXS D8 Advance, $\\lambda = 1 . 5 4 1 \\mathrm { \\AA } ,$ $2 . 2 \\ \\mathrm { k W } ,$ ).The carbon content of the samples were determined by a thermogravimetric analyzer(TGA,Mettler Toledo,Switzerland) in air with the temperature range defined between SO and $8 0 0 ~ ^ { \\circ } \\mathrm { C }$ and the ramp rate set at $2 0 ~ \\mathrm { K / m i n }$ 、Raman spectroscopy was collected on a Renishaw (in Via-reflex)with the excitation wavelength of $5 3 2 \\ \\mathrm { n m }$ X-ray photoelectron spectroscopy (XPS) measurement was done with an ESCALAB 25oXi spectrometer,using focused monochromatized Al $\\mathrm { K } \\alpha$ radiation ( $h \\nu = 1 4 8 6 . 6 ~ \\mathrm { e V } )$ at room temperature.The oxygen and carbon contents of the samples were determined by $\\mathrm { { { O / N } } }$ analyzer (EMGA-62oW，Japan）and high-frequency infrared carbon sulfur analyzer (CS844，LECO).The content of silicon was derived by subtracting the total contents of carbon and oxygen.Before elemental analysis,the samples were dried in vacuum oven at $8 0 ~ ^ { \\circ } \\mathrm { C }$ overnight. Small-angle X-ray scattering (SAXS） measurements were performed using a Ganesha 30OXL SAXS-WAXS system (SAXS LAB ApS, Copenhagen/Denmark) with an X-ray wavelength of $0 . 1 5 4 ~ \\mathrm { { \\ n m } }$ (Cu anode).The detector was positioned at a distance of $1 0 5 1 \\ \\mathrm { m m }$ from the sample.Glass capillaries were used as sample containers for the SAXS measurements. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/58dbb2b770b246941345a1ad70e96ad70c3275fe94c79934a0b2f906188090fe.jpg",
+        "img_caption": [
+            "Figure1.EMimagsofteiOC/Canohbridsprepaedwitdiereassatiosofoertetotalassofthetacrlatesinsat high magnification:(a) 0,(b) 0.125,(c) 0.25,(d) 0.50,(e) 1.0,and (f) 6.0. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6bb64aa69d4b386f4e0ef04b37bd4b0eccf33b54fa702923557af44e5a2b1bcf.jpg",
+        "img_caption": [
+            "Figure2.TEMimageofteSiOC/CanohbridspreparedwithdifrentmassratiosofMSovertetotalmassofteethacatesis (a)0,(b) 0.125,(c) 0.25,(d) 0.50,(e)1.0,and (f) 6.0.Inset: SAED patern of each TEM image. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef77e2a2203056f92cf03939abfbcfc3ad99059ad6ea69cedd719e438a42d907.jpg",
+        "img_caption": [
+            "Figure 3.STEM images of the SiOC/C nanohybrid prepared with the mass ratio of MPTMS over the total mass of the methacrylate resin of 0.50:(a) TEM image; elemental mapping of (b） carbon,(c) oxygen, and(d) silicon.The box 1(in image a) was used as position reference, and the smaller box was used for mapping. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0c1c78b4848cacf185fa840cf8eff97cd0fbb03713f525b3e04a3edfb312bb2.jpg",
+        "img_caption": [
+            "Figure 4.EDX images of the SiOC/C nanohybrid prepared with themass ratio of MPTMS over the total mass of the methacrylate resin of0.50:(a） SEM image;elemental mapping of (b） carbon,(c) oxygen,and (d) silicon."
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/453bffaf181c3121ca4eb6125c1dafd5411b279c39ea5d7d4d9bb5c503a623f0.jpg",
+        "img_caption": [
+            "Figure 5.SAXS of the SiOC/C nanohybrids prepared with different mass ratios of MPTMS over the total mass of the methacrylate monomers: black,O;red,0.125;blue,0.2S；dark cyan,0.50；magenta 1.0;dark yellow, 6.0. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Electrochemical Measurement. 2032-type coin cell devices were fabricated to evaluate the electrochemical performance of the ${ \\mathrm { S i O C / C } }$ nanohybrids.A slurry mixture was prepared by dispersing the active material, Super P and PVDF(mass ratio:8:1:1) in NMP.Thereafter, the slurry mixture was spread on a piece of copper foil by doctor blading,followed by drying at $8 0 ~ ^ { \\circ } \\mathrm { C }$ in vacuum for $^ { 1 2 \\mathrm { ~ h ~ } }$ After the copper foil was pressed and punched into round discs with a diameter of $1 3 \\mathrm { m m }$ ,the discs were dried in over at $8 0 ~ ^ { \\circ } \\mathrm { C }$ in oven further for $^ { 4 \\mathrm { h } }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The half-cell was fabricated using lithium foil as the counter electrode.The mass loading density for the active material was more than $\\mathrm { 1 ~ m g / c m } ^ { 2 }$ .Electrolyte from Dongguan Shanshan Battery Material Co.,Ltd.was used,where $1 . 0 \\mathrm { ~ M ~ L i P F } _ { 6 }$ was dissolved in a mixture of ethylene carbonate (EC)and diethyl carbonate(DMC) $\\left( 1 { : } 2 ~ \\mathbf { v } / \\mathbf { v } \\right)$ = The volume of the electrolyte applied was around $1 0 0 ~ \\mu \\mathrm { L }$ Therate performance was measured at the current density sequence of O.1, 0.2, 0.5,1.0,2.0,5.0,10,20,and $0 . 1 \\mathrm { { C } }$ in the voltage range between 3.0 and $0 . 0 0 5 \\mathrm { V } \\left( \\mathrm { v s } \\mathrm { L i } / \\mathrm { L i } ^ { + } \\right)$ (five cycles each current density, $\\mathbf { \\bar { l } _ { \\theta } C } = 5 0 0 \\mathbf { m A { \\cdot g } ^ { - 1 } } .$ ） The cyclic measurement was carried out at a current density of $0 . 2 ~ \\mathrm { C }$ in the voltage range of 3.0-0.005 V(vs $\\mathrm { L i / L i ^ { \\star } }$ ）for 50 rounds. The specific capacity was calculated based on the mass of the active material. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The lithiation process was defined as discharge process,and the corresponding delithiation process was defined as charge process.Cyclic voltammetry(CV）test was performed on a CHI 1O40B potentiostat/ galvanostat analyzer(Shanghai Chenhua instrument Co.,Ltd.）with a scanning rate of $0 . 1 ~ \\mathrm { m V / s }$ in the range between O.oo5 and $3 \\mathrm { V }$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "RESULTS AND DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Morphology of the SiOC/C Nanohybrids. SEM images of the SiOC/C nanohybrids prepared with different amounts of MPTMS are shown in Figure 1.Particles with a broad size distribution are observed,which are confirmed by the lowmagnification SEM images as shown in Figure S1.Because with SEM it is hard to distinguish the SiOC nanoparticles within the nanohybrid,TEM is further applied to uncover the structure details of the nanohybrids.However，still no distinct morphologies can be observed with TEM with different mass ratios of MPTMS over the total mass of the methacrylate resins (from 0 to 6.0) (Figure 2).Thus,it is assumed that SiOC particles with verysmall size are homogeneously dispersed in the carbon matrix. This assumption is partially confirmed by scanning transmission electron microscopy (STEM） images (Figure 3)，where the elements of silicon，oxygen，and carbon are homogeneously distributed in a region with the dimension of $3 0 0 \\ \\mathrm { n m } \\times 3 0 0 \\ \\mathrm { n m }$ It is true that the mapping signal of carbon also contains the contribution from the carbon matrix.However, the mapping signal of silicon and oxygen indicates that SiOC is homogeneously embedded in the carbon matrix at the molecular level.Asa complementary method， energy-dispersive X-ray spectroscopy (EDX） shows that SiOC is well-dispersed in the area of the carbon matrix with a large size scale ( $( 1 0 \\mu \\mathrm { m } \\times 1 0 \\mu \\mathrm { m } )$ (Figure 4). Moreover,one needs to consider that the spatial resolution of EDX is much lower than the size of SiOC.However, by combing theSEM,TEM,STEM,andEDXdata,itisreasonabletosaythat SiOC with very small size is homogeneously embedded in the carbon matrix at different length scales.The featureless selected area electron diffraction (SAED） patterns of the TEM images ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e5f5ffff48a4e0e31b4c8b6c5c16bf62d545a31e331a16af7c545e7054b1bc36.jpg",
+        "img_caption": [
+            "Figure 6.TG(a)XRb),an(c)dX(d)ofthe/Cbspreparedientassatiosofeotal mass of the methacrylateresinmonomers:black,O;red,0.12;blue,0.25；darkcyan,0.5O;magenta1.0;darkyellw6.0. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/7a92c6495345d86f800eae1187e633f6972eff3861d3aded604aff3e86994097.jpg",
+        "table_caption": [
+            "Table1.Elemental Composition and Chemical Formula of the SiOC Nanohybrids "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>MPTMS mass ratio</td><td>silicon %</td><td>oxygen % of SiOC glass</td><td>carbon %</td><td>chemical formula</td></tr><tr><td>0.125</td><td>4.3</td><td>8.2</td><td>79.4</td><td>SiO3.43C0.53 + 42.63Cfree</td></tr><tr><td>0.25</td><td>7.5</td><td>12.7</td><td>72.4</td><td>SiO2.95C1.05 + 21.47Cfree</td></tr><tr><td>0.50</td><td>12.5</td><td>21.0</td><td>60.3</td><td>SiO2.91C1.09 + 10.12Cfree</td></tr><tr><td>1.0</td><td>15.9</td><td>26.4</td><td>52.4</td><td>SiO2,89C1.11 + 6.59Cfree</td></tr><tr><td>6.0</td><td>30.5</td><td>36.3</td><td>29.9</td><td>SiO2.10C1.90 + 0.11Cfree</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "900 900 700 (   \n05 60 05   \n03 400 40 300   \n200 20 200   \n100 a) Charge 100 d) Charge Discharge Discharge 0 0 0 0 10 20 30 40 50 0 10 20 30 40 50 Cycle Number Cyde Number   \n900 900   \n600 600   \n500 60 500 60   \n400 400   \n300 40 300 40   \n200 20 200 20,   \n100 b） Charge 100 e) Charge + Discharge Discharge 0 0 0 0 0 10 20 30 40 50 0 10 20 30 40 50 CycleNumber CydleNumber   \n900 900   \n600 600 60- 500 60 40 3   \n200 20, 200   \n100 c） Charge 100 f Charge 0 . Discharge 0 0 Discharge 1 0 10 20 30 40 50 0 10 20 30 40 50 Cycle Number CydleNumber ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(inset in Figure 2） suggest that both SiOC and carbon matrix are amorphous in nature. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Besides the imaging analysis in local areas， the average statistic structure information on the SiOC/C nanohybrids is investigated by SAXS. According to Figure S，very small particles with the size of around $2 \\ \\mathrm { n m }$ exist in the nanohybrids and no characteristic nanostructures in the range of $5 { - } 2 0 0 ~ \\mathrm { n m }$ are observed.As a consequence, the SAXS data confirm the assumption about the sample morphology gained from the TEM and STEM image analysis. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Composition of the SiOC/C Nanohybrids.With the mass ratio of MPTMS over the total mass of the resin monomer systematically varied at 0,0.125，0.25,0.50，1.0,and 6.0，the amount of the free carbon matrix is decreased from $1 0 0 \\%$ to $8 4 \\%$ $8 0 \\%$ $6 9 \\%$ P $5 8 \\%$ and $4 0 \\%$ ，respectively (Figure 6a, TGA). An exponential correlation between the free carbon matrix content and the mass ratio of MPTMS is exhibited (Figure S2). Because the mass ratio of MPTMS is varied in an exponential style,the observed exponential decrease of free carbon content indicates that the specific carbon yield does not change significantly regarding the individual mass ratio of MPTMS. The XRD patterns of the $\\operatorname { S i O C } / \\mathrm { C }$ nanohybrids with different amounts of carbon are shown in Figure 6b. Only two broad peaks at $2 3 . 9 ^ { \\circ }$ and $4 3 . 0 ^ { \\circ }$ areobserved,which are ascribed to the local graphitized carbon structures within the amorphous carbon phase.27 Because the graphitic signal is very weak, the free carbon is supposed to be mainly amorphous.No further diffraction peaks are observed,which again suggests that the SiOC is amorphous. The nature of the carbon phase is further analyzed with Raman spectroscopy (Figure 6c).Two peaks located at 1360 and 1580 $\\dot { \\mathrm { c m } } ^ { - 1 }$ are ascribed to disordered carbon (D band) and graphitized carbon (G band)，respectively.295,56 Integral intensitiesof the D-band and G-band within each spectrum are obtained by Lorentzian fit.In all spectra the intensities of the D band are larger than those of the G band,suggesting that the disordered carbon is excess than the ordered carbon.26 The bare carbon ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "100000 a Charge Discharge d) . Discharge 300   \n400 400   \n200 200 0 0 10 20 30 40 0 10 20 30 40 Cycle Number CycleNumber   \n1000 4 b Charge Discharge 1000 8 e) Charge ·Discharge   \n400 400   \n200 200 0 o 0 10 20 30 40 0 10 20 30 40 Cycle Number Cycle Number Charge Charge C Discharge f) Discharge   \n800 800   \n600 600   \n400 400   \n200 200 0 0 0 10 20 30 40 0 10 20 30 40 Cycle Number CycleNumber ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "sample has the smallest D band peak width and lowest intensity ratio of $I ( { \\mathrm { D } } ) / I ( { \\mathrm { G } } )$ compared to those ${ \\mathrm { S i O C / C } }$ nanohybrids. This indicates that the bare carbon sample has the least amount of disordered carbon.With the introductionof MPTMS,theDband peak width and intensity ratio of $I ( { \\mathrm { D } } ) / I ( { \\mathrm { G } } )$ continue to increase until the mass ratio of MPTMS reaches O.5o, followed by inverse decrease with further increasing mass ratio of MPTMS to 6.0. The results suggest that a small amount of MPTMS promotes the formation of disordered carbon，whereas large mass ratio of MPTMS reduces the amount of disordered carbon.With the introduction of MPTMS into the resin mixture, the methoxylsilane functional group tends to react with the hydroxyl group of Bis-GMA and/or AA to form the $S \\mathrm { i - O - }$ group due to the effect of entropy increase.As a result, the silane molecule acts as a crosslinking center to enhance the overall cross-linking degree of the methacrylates. However, simultaneously， the methacrylate group of the MPTMS copolymerizes with the difunctional methacrylates.Due to the monofunctional nature of the MPTMS,the copolymerization will reduce the cross-linking degree of the methacrylate network. Therefore，with a small amount of MPTMS,the cross-linking enhanced by the reaction between silane and hydroxyl group dominates because each MPTMS has three methoxyl silane functional groups.As a result, the formation of disordered carbon is promoted.When the amount of MPTMS is increased, the reaction between silane and hydroxyl group tends to be saturated.Nevertheless，the copolymerization between methacrylate group of MPTMS and resin monomer is continuously enhanced, leading to decreased cross-linking degree and reduced formation of disordered carbon.27 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In order to explore the local bonding state of the silicon atom, XPS was conducted.AS shown in Figure 6d, the shoulder peak located at about $1 0 2 ~ \\mathrm { e V }$ indicates the existence of ${ \\mathrm { S i O } } _ { 2 } { \\mathrm { C } } _ { 2 } ,$ whereas the main peaks at about $1 0 3 \\ \\mathrm { e V }$ are typical for other types of $\\mathrm { S i - O }$ bonds.24 With increasing amount of MPTMS, the main peaks shift toward a higher bonding energy value that is typical for the silicon atom bonded to oxygen.57 Besides， the intensity of the shoulder peak gradually diminishes until almost invisible.It implies continuous increasing oxygen content within nanohybrids with increasing amount of MPTMS. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Elemental analysis is performed to further investigate the chemical composition of the SiOC/C nanohybrids.The elemental analysis of the bare carbon sample indicates the existence of $1 0 . 1 8 \\%$ oxygen within the carbon matrix. On the basis of this fact, the actual oxygen content belonging to the SiOC glass is obtained by abstracting the total oxygen content obtained from elemental analysis with the oxygen content in the free carbon matrix. The chemical formulas of the SiOC glass are derived according to the structure model of $\\mathrm { S i O } _ { x } \\mathrm { C } _ { 4 - x } .$ Thereafter, the amount of the free carbon is calculated.As shown in Table1, the contents of silicon and oxygen gradually increase along with increasing mass ratio of MPTMS,while the carbon content decreases significantly along with increasing mass ratio of MPTMS.It is consistent with the results reported by Bujalski et al.58 The increased mass ratio of MPTMS decreases the relative mass ratio of the methacrylate resin monomers，which are supposed to be the main source for carbon content. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Electrochemical Performance of the SiOC/C Nanohybrids.The cyclic performance of the SiOC/C nanohybrid anode at $0 . 2 \\mathrm { C }$ 0 $\\mathrm { ^ { \\prime } 1 0 0 \\ m A { \\cdot } g ^ { - 1 } } ,$ )between 0.005and $3 \\mathrm { V }$ was tested for 50 cyclesas shown in Figure 7.Regarding the bare carbon anode, the initial discharge/charge capacity is 675 and $3 5 7 \\ \\mathrm { m A h { \\cdot g } ^ { - 1 } }$ respectively,which are reduced to around $3 1 8 \\ \\mathrm { m A h { \\cdot g } ^ { - 1 } }$ after 50 cycles. Several general trends can be summarized from the cyclic profiles of the SiOC/C nanohybrids.First,the initial discharge/charge capacities are increased with the mass ratio of MPTMS increased from O.l25 to O.50,followed by inverse decrease with further increasing mass ratio of MPTMS from 0.50 to 6.O.In details, the discharge capacities are first increased from 405 to $8 1 3 \\mathrm { \\ m A h { \\cdot g } ^ { - 1 } }$ ,followed by decrease to $4 9 2 \\ \\mathrm { m A h { \\cdot g } ^ { - 1 } }$ Correspondingly, the charge capacities are increased from 237 to $4 3 6 \\mathrm { m } \\bar { \\mathrm { A h } } { \\cdot } \\mathrm { g } ^ { - 1 } .$ ,and then decreased to $2 3 2 \\ \\mathrm { m A h { \\cdot g } ^ { - 1 } }$ . Second, after 50 cycles,the SiOC/C nanohybrids prepared with different mass ratios of MPTMS possess the discharge/charge capacities above $3 0 0 \\mathrm { m A h { \\cdot g } ^ { - 1 } }$ .Particularly, the highest capacity of $4 { \\bar { 4 } } 3 \\ \\mathrm { m A h { \\cdot g } ^ { - 1 } }$ is achieved with the MPTMS mass ratio of O.50,which is $4 0 \\%$ better than the capacity of the bare carbon anode.It is found that the initial discharge/charge capacity of the bare carbon anode is higher than most of the SiOC/C nanohybrids except the one prepared with the MPTMS mass ratio of O.50.It is reported that the SiOC is electrochemically inactive for lithiation and it mainly acts as a stabilizer for the carbon matrix.29 Correspondingly, the free_carbon matrix is considered as the major lithium storage site.²7 Therefore, introduction of SiOC into carbon matrix will reduce the overall capacity to some extent.This is one of the major reasons why the bare carbon anode exhibits higher capacities than most of the SiOC/C nanohybrids.However, from structure analysis,it is found that the increasing mass ratio of MPTMS generates more disordered carbon within the carbon matrix,which stores more lithium ions than typical graphitic (ordered) carbon.As a result, the overall capacity will be lifted by the formation of more disordered carbon. Particularly, the ratio of disordered carbon over ordered carbon reaches maximum with the MPTMS mass ratio of 0.50. This is the reason why the SiOC/C nanohybrid prepared with the MPTMS mass ratio of 0.50 exhibits the highest initial discharge/charge capacity and cyclic performance as well. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The rate performance was measured at the current densities ranging from $0 . 1 \\mathrm { ~ C ~ }$ $\\left( 5 0 \\mathrm { \\ m A { \\cdot g } ^ { - 1 } } \\right)$ to $2 0 \\mathrm { ~ C ~ }$ 0 $\\cdot 1 0 0 0 0 \\ \\mathrm { m A \\cdot g ^ { - 1 } } )$ With the MPTMS mass ratio of 0.50， the largest capacities among all of the samples at each individual current density are observed (Figure 8). Compared to previously reported work, the rate performance of the sample is very good.21 With a current density of $1 0 0 0 \\ \\mathrm { m A { \\cdot g } ^ { - 1 } }$ (5 C）the reversible capacities reach $1 4 0 \\mathrm { m A h { \\cdot g } ^ { - 1 } }$ .When the current densities further increase to 10 and $2 0 \\ \\mathrm { { C } , }$ capacities of 90 and $4 0 \\ \\mathrm { \\ m A h { \\cdot g } ^ { - 1 } }$ are still retained,while the bare carbon anode exhibits only capacities close to zero at the same current density. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Compared to the previously reported work, the capacities can still be recovered to $4 7 0  { \\mathrm { \\ m A h } }  { \\cdot }  { \\mathrm { g } } ^ { - 1 }$ at $0 . 1 ~ \\mathrm { C }$ after cycles at high current density.It further shows good cyclic stability of the SiOC/C nanohybrid anode.The rate performance is related to nature of carbon matrix.As addressed previously,the $\\operatorname { S i O C / C }$ nanohybrid exhibits the highest ratio of disordered carbon over ordered carbon.It is commonly accepted that the disordered carbon possesses less electron conductivity than the ordered carbon,which will normally sacrifice the capacity under high current density.However,the disordered carbon offers higher capacity than the ordered carbon.Therefore,it can be concluded that a good balance between capacity and electron conductivity is achieved with the MPTMS mass ratio of 0.50, leading to the best rate performance. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/c4f87293de020bf5fe05b61f77e862cfe2a70289bda612e8ccce224143fc351e.jpg",
+        "img_caption": [
+            "Figure9.CVcuresofteC/Canohbrdsprepaditderetmassatisofoertetotalmasoftheetacylates:(a (b) 0.125,(c) 0.25,(d) 0.50,(e) 1.0,and (f) 6.0. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Finally，the cyclic voltammetry profiles of the SiOC/C nanohybridswithdifferentmassratiosofMPTMSare exhibited in Figure 9.The formation of a solid electrolyte interface (SEI) in the first cycle is confirmed by the peaksbetween O.5 and1V. However, from the second cycle,no obvious peaks are observed, which is typical for the lithiation/delithiation process of carbonbased lithium-ion battery anode.The CV results confirm that the free carbon matrix plays a major active role in the electrochemical process. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A facile scalable method has been developed to synthesize SiOC/C nanohybrids with the free carbon content systematically varied between $1 0 0 \\%$ and $4 0 \\%$ . Small SiOC particles with the size around $2 \\ \\mathrm { n m }$ are homogeneously embedded in carbon matrix as suggested by imaging and scattering techniques. The Raman spectroscopy reveals that the ratio of disordered carbon over ordered carbon is increased with the MPTMS mass ratio increased from O to O.So,followed by inverse decrease with further increased mass ratio of MPTMS from 0.50 to 6.0. The change of the disordered/ordered carbon ratio is supposed to be the impact of the cross-linking degree modification of the methacrylate network brought by MPTMS. Correspondingly, the best electrochemical performance is achieved with the MPTMS mass ratio of O.5o. Compared to bare carbon anode, both,the initial discharge and charge capacities are significantly increased at the current density of $\\mathrm { 1 0 0 \\ m \\hat { A } { \\cdot } g ^ { - 1 } }$ (813 vs $6 7 5 \\mathrm { m A h }$ $\\mathbf { g } ^ { - 1 }$ for discharge capacity，and 436 vs $3 5 7 \\ \\mathrm { m A h { \\cdot g } ^ { - 1 } }$ for charge capacity).Moreover, the capacities after SO cycles at $1 0 0 \\mathrm { \\ m A } { \\cdot } \\mathrm { g } ^ { - 1 }$ are effectively improved by more than $4 0 \\%$ ,which reaches around $4 4 3 \\mathrm { m A h { \\cdot g } ^ { - 1 } }$ .Particularly,an outstanding rate performance of the $\\operatorname { S i O C / C }$ nanohybrid anode is observed compared to previously reported work. With the current density of $\\mathrm { 5 0 0 0 \\ m A { \\cdot } g ^ { - 1 } }$ $( 1 0 \\mathrm { C } )$ the capacities are still retained at $9 0 \\mathrm { \\ m A h { \\cdot g } ^ { - 1 } }$ .After cycles at high current densities，the capacities can still be recovered to $4 7 0 \\ \\mathrm { m A h { \\cdot g } ^ { - 1 } }$ at the current density of $5 0 \\ \\mathrm { m A } \\cdot \\mathrm { g } ^ { - 1 }$ .Besides the stabilization effect of the SiOC particles within the free carbon matrix, a good balance between high capacity contribution from disordered carbon and good electron conductivity from ordered carbon is supposed to be responsible for the very good rate performance.Further application of the SiOC/C nanohybrids in lithium-ion battery anode,for example,as a buffer medium for silicon nanoparticulate anode to improve the electrochemical performance, is in progress.13 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ASSOCIATEDCONTENT ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$\\otimes$ Supporting Information ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The Supporting Information is available free of charge on the ACS Publications website at DOI: 10.1021/acsami.6b05032. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Low-magnification SEM image and correlation profile between carbon matrix content and mass ratio of MPTMS (PDF) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "AUTHORINFORMATION ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Corresponding Author ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$^ { * } \\mathrm { E } .$ mail: chengyj@nimte.ac.cn. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Notes ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The authors declare no competing financial interest. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Thisresearch is funded by the Natural Science Foundation of China (S1103172)，the Zhejiang Nonprofit Technology Applied Research Program (2013C33190)，and the open project of the Beijing National Laboratory for Molecular Science (20140138)，the CAS-EU S&T cooperation partner program （174433KYSB20150013)，and Ningbo Key Laboratory of Polymer Materials. S.X.and Y.Y.acknowledge the China Scholarship Council (CsC)，and P.M.-B.acknowledges funding by the Center for NanoScience (CeNS）Munich. Donation of the dental resins from Esstech Inc.，U.S.A.，is greatly appreciated. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1) Wen, Z.H.; Lu, G.H.; Mao,S.; Kim,H.; Cui, S.M.; Yu, K.H.; Huang, X.K.；Hurley,P.T.; Mao, O.; Chen, J.H. Silicon Nanotube Anode for Llithium-Ion Batteries.Electrochem. Commun.2013,29,67- 70.   \n(2)Tao,H.C.; Fan,L.Z.; Qu, X.H. Facile Synthesis of Ordered Porous Si@C Nanorods as Anode Materials for Li-Ion Batteries. Electrochim. Acta 2012,71,194-200.   \n(3）Guerfi,A.；Charest,P.； Dontigny,M.；Trottier,J.；Lagace,M.; Hovington,P.; Vijh,A.; Zaghib,K.SiOx-Graphite as Negative forHigh Energy Li-Ion Bateries.J. Power Sources 20i1,196 (13), 5667-5673. (4）Zhou,X. S.;Guo,Y.G.A PEO-assisted Electrospun SiliconGraphene Composite as an Anode Material forLithium-ion Batteries. J.Mater.Chem.A 2013,1(32),9019-9023.   \n(5) Zhou,M.; Cai, T.W.; Pu,F.; Chen,H.; Wang, Z.; Zhang,H.Y.; Guan,S.Y.Graphene/Carbon-Coated Si Nanoparticle Hybrids as High-Performance Anode Materials for Li-Ion Bateries.ACS Appl. Mater.Interfaces 2013,5 (8),3449-3455.   \n(6)Hong, I.； Scrosati,B.;Croce,F.Mesoporous, Si/C Composite Anode for Li Battery Obtained by 'Magnesium-Thermal’ Reduction Process.Solid State Ionics 2013,232,24-28.   \n(7)Wang,J.; Zhao,H.L.; He,J.C.;Wang,C.M.; Wang, J. NanoSized SiOx/C Composite Anode for Lithium Ion Batteries.J.Power Sources 2011,196 (10),4811-4815.   \n(8) Xue,L.G.; Xu, G.J.; Li, Y.; Li, S.L.; Fu,K.; Shi, Q.; Zhang, X. W. Carbon-Coated Si Nanoparticles Dispersed in Carbon Nanotube Networks As Anode Material for Lithium-Ion Batteries.ACS Appl. Mater.Interfaces 2013,5(1),21-25.   \n(9） Shen，J.；Ahn，D.；Raj，R.C-Rate Performance of Silicon Oxycarbide Anodes for Li Plus Batteries Enhanced by Carbon nanotubes.J.Power Sources 2011,196 (5),2875-2878.   \n(10) Graczyk-Zajac,M.; Fasel, C.; Riedel,R. Polymer-Derived-SiCN Ceramic/Graphite Composite as Anode Material with Enhanced Rate Capability for Lithium Ion Batteries.J.Power Sources 201l,196 (15), 6412-6418.   \n(11）Mera,G.；Navrotsky，A.；Sen，S.；Kleebe，H.-J.；Riedel，R Polymer-Derived SiCN and SiOC Ceramics - Structure and Energetics at the Nanoscale.J.Mater. Chem.A 2013,1(12),3826-3836. (12）Nara，H.；Yokoshima，T.；Momma，T.；Osaka，T.Highly Durable SiOC Composite Anode Prepared by Electrodeposition for Lithium Secondary Batteries.Energy Environ. Sci. 2012,5 (4),6500- 6505.   \n(13) Choi, S.; Jung, D. S.; Choi,J.W. Scalable Fracture-Free SiOC Glass Coating for Robust Silicon Nanoparticle Anodes in Lithium Secondary Batteries.Nano Lett.2014,14(12),7120-7125. (14) Xing,W. B.; Wilson,A. M.; Eguchi, K.； Zank,G.; Dahn, J. R. Pyrolyzed Polysiloxanes for Use as Anode Materials in Lithium-Ion Batteries.J. Electrochem.Soc.1997,144 (7),2410-2416.   \n(15)Wilson,A.M.； Zank, G.； Eguchi, K.； Xing,W.； Dahn, J.R. Pyrolysed Silicon-Containing Polymers as High Capacity Anodes for Lithium-Ion Batteries.J.Power Sources 1997,68 (2),195-200. (16）Colombo,P.；Mera,G.；Riedel,R；Soraru,G.D.PolymerDerived Ceramics:40 Years of Research and Innovationin Advanced Ceramics.J. Am. Ceram. Soc. 2010,93 (7),1805-1837.   \n(17）Ahn,D.；Raj,R. Cyclic Stability and C-Rate Performance of Amorphous Silicon and Carbon Based Anodes for Electrochemical Storage of Lithium.J. Power Sources 2011,196 (4),2179-2186. (18)Li, Y.; Hu, Y.; Lu,Y.; Zhang, S.; Xu,G.; Fu, K; Li, S.; Chen, C.; Zhou,L.； Xia, X.； Zhang, X. One-Dimensional SiOC/C Composite Nanofibers as Binder-Free Anodes for Lithium-Ion Batteries.J.Power Sources 2014,254,33-38.   \n(19) Shen,J.; Raj, R Silicon-Oxycarbide Based Thin Film Anodes for Lithium Ion Batteries.J.Power Sources2011,196 (14),5945-5950. (20）Ahn, D.； Raj, R Thermodynamic Measurements Pertaining to the Hysteretic Intercalation of Lithium in Polymer-Derived Silicon Oxycarbide.J. Power Sources 2010,195 (12),3900-3906.   \n(21) Pradeep,V. S.; Graczyk-Zajac, M.; Riedel, R.; Soraru, G.D.New Insights in to the Lithium Storage Mechanism in Polymer Derived SiOC Anode Materials.Electrochim.Acta 2014,119,78-85.   \n(22）Saha，A.；Raj，R；Willamson，D.L.A Model for the Nanodomains in Polymer-Derived SiCO.J.Am. Ceram. Soc.2006, 89 (7),2188-2195.   \n(23)Tamayo,A.；Rubio,J; Pena-Alonso,R; Rubio,F.;OteoJ.L. Gradient Pore Size Distributions in Porous Silicon Oxycarbide Materials.J.Eur. Ceram.Soc.2008,28 (9),1871-1879.   \n(24) Corriu,R.J.P.; Leclercq, D.; Mutin,P.H.; Vioux, A. Preparation and Structure of Silicon Oxycarbide Glasses Derived from Polysiloxane Precursors.J. Sol-Gel Sci. Technol. 1997,8 (1-3),327-330.   \n(25）Dibandjo,P.；Graczyk-Zajac,M.；Riedel,R；Pradeep，V.S.; Soraru, G.D.Lithium Insertion into Dense and Porous Carbon-Rich Polymer-DerivedSiOC Ceramics.J.Eur.Ceram.Soc.2012,32(10), 2495-2503.   \n(26)Kaspar, J.; Graczyk-Zajac,M.; Riedel,R.Lithium Insertion into Carbon-Rich SiOC Ceramics: Influence of Pyrolysis Temperature on Electrochemical Properties.J. Power Sources 2013,244, 450-455. (27) Graczyk-Zajac,M.; Toma,L.; Fasel, C.; Riedel, R. Carbon-Rich SiOC Anodes for Lithium-Ion Batteries:Part I. Influence of Material UV-Pre-Treatment on High Power Properties.Solid State Ionics 2012, 225,522-526.   \n(28）Kaspar, J.； Graczyk-Zajac, M.；Riedel, R. Carbon-Rich SiOC Anodes for Lithium-Ion Batteries:Part II.Role of Thermal CrossLinking. Solid State Ionics 2012,225,527-531.   \n(29)Wilamowska, M.; Pradeep,V.S.; Graczyk-Zajac,M.; Riedel,R; Soraru,G. D. Tailoring of SiOC Compositionas a Way to Better Performing Anodes for Li-Ion Batteries. Solid State Ionics 2014,260, 94-100.   \n(30）Liao,N.B.； Zheng,B.R；Zhou,H. M.；Xue,W. Efect of Carbon Content on the Structure and Electronic Properties of Silicon Oxycarbide Anodes for Lithium-Ion Batteries:a First-Principles Study. J.Mater.Chem.A 2015,3 (9),5067-5071.   \n(31）Soraru,G.D.； Pena-Alonso,R； Kleebe,H.-J. The Effect of Annealing at 1400 Degrees C on the Structural Evolution of Porous CRich Silicon (boron)Oxycarbide GlassJ. Eur. Ceram. Soc.2012,32 (8), 1751-1757.   \n(32) Pradeep, V.S.; Graczyk-Zajac, M.; Wilamowska, M.; Riedel,R; Soraru，G.D.Influence of Pyrolysis Atmosphere on the Lithium Storage Properties of Carbon-Rich Polymer Derived SiOC Ceramic Anodes.Solid State Ionics 2014,262,22-24.   \n(33）Fukui，H.；Harimoto，Y.；Akasaka，M.；Eguchi，K.Lithium Species in Electrochemically Lithiated and Delithiated Silicon Oxycarbides.ACS Appl. Mater. Interfaces 2014,6 (15),12827-12836. (34) Kleebe,H.-J.; Blum, Y.D. SiOC Ceramic with High Excess Free Carbon. J. Eur. Ceram.Soc.2008,28 (5),1037-1042. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(35）Blum,Y.D.； MacQueen,D.B.；Kleebe,H. J. Synthesis and Characterization of Carbon-Enriched Silicon Oxycarbides.J.Eur. Ceram. Soc.2005,25 (2-3),143-149. (36)Kaspar, J.; Graczyk-Zajac,M.；Riedel, R. Determination of the Chemical Diffusion Coefficient of Li-Ions in Carbon-Rich Silicon Oxycarbide Anodes by Electro-Analytical Methods.Electrochim. Acta 2014, 115, 665-670. (37）Zhang, H.； Pantano, C.G. Synthesis and Characterization of Silicon Oxycarbide Glasses.J. Am. Ceram. Soc.1990,73 (4),958-963. (38)Burns, G. T.; Taylor,R. B.; Xu, Y.R; Zangvil, A.; Zank, G. A. High-Temperature Chemistry of the Conversion of Siloxanes to Silicon-carbide. Chem.Mater.1992,4 (6),1313-1323. (39) Dibandjo,P.; Dire, S.; Babonneau, F.; Soraru, G.D.Influence of the Polymer Architecture on the High Temperature Behavior of SiCO Glasses: a Comparison between Linear- and Cyclic-Derived Precursors.J. Non-Cryst. Solids 2010,356 (3),132-140. (40）Fukui，H.；Ohsuka,H.；Hino,T.；Kanamura,K.Polysilane/ Acenaphthylene Blends Toward Si-O-C Composite Anodes for Rechargeable Lithium-Ion Batteries.J.Electrochem. Soc. 2011，158 (5),A550-A555. (41）Fukui, H.; Ohsuka, H.; Hino,T.; Kanamura,K.Preparation of Microporous Si-O-C Composite Material and Its Lithium Storage Capability. Chem. Lett.2009,38 (1),86-87. (42)Su,D.; Li,Y.-L.；An,H.-J.； Liu,X.; Hou,F.; Li,J.-Y.； Fu,X. Pyrolytic Transformation of Liquid Precursors to Shaped Bulk Ceramics.J.Eur. Ceram.Soc.2010,30 (6),1503-1511. (43)Larcher,D.; Mudalige, C.; George,A.E.; Porter,V.; Gharghouri, M.；Dahn,J.R.Si-Containing Disordered Carbons Prepared by Pyrolysis of Pitch Polysilane Blends: Efect of Oxygen and Sulfur. Solid State Ionics 1999,122 (1-4),71-83. (44) Soraru, G.D.; Modena, S.; Guadagnino,E.; Colombo,P.; Egan, J.； Pantano, C.Chemical Durability of Silicon Oxycarbide Glasses.J. Am. Ceram. Soc.2002,85 (6),1529-1536. (45）Fukui, H.； Ohsuka, H.； Hino,T.； Kanamura, K. Influence of Polystyrene/Phenyl Substituents in Precursors on Microstructures of Si-O-C Composite Anodes for Lithium-Ion Batteries.J.Power Sources 2011,196 (1),371-378. (46) Soraru, G.D.; Dalcanale,F.; Campostrini, R; Gaston, A.； Blum, Y.; Carturan, S.; Aravind,P.R.Novel Polysiloxane and Polycarbosilane Aerogels via Hydrosilylation of Preceramic Polymers.J.Mater. Chem. 2012,22 (16),7676-7680. (47）Martinez-Crespiera， S.； Ionescu，E.；Kleebe,H.-J.； Riedel, R. Pressureless Synthesis of Fully Dense and Crack-Free SiOC Bulk Ceramics via Photo-Crosslinking and Pyrolysis of a Polysiloxane.J. Eur. Ceram. Soc.2011,31 (5),913-919. (48）Xing,W.B.； Wilson,A. M.； Zank, G.； Dahn,J.R Pyrolysed Pitch-Polysilane Blends for Use as Anode Materials in Lithium Ion Batteries.Solid State Ionics1997,93 (3-4),239-244. (49）Wilson,A.M.； Xing,W.B.； Zank,G.； Yates,B.；Dahn,J.R Pyrolysed Pitch-Polysilane Blends for Use as Anode Materials in Lithium Ion Batteries the Efect of Oxygen.Solid State Ionics 1997,100 (3-4),259-266. (50) Das,G.;Betot,P.;Feraioli,，L.;Raj,R;MariottoG.;Pavesi, L.；Soraru，G.D.Study of the Pyrolysis Process of an Hybrid CH3SiO1.5 Gel into a SiCO Glass Vib. Spectrosc. 2007,45(1), 61- 68. (51) Wang X.; Meng, J. $\\mathrm { . Q . , }$ Wang, M.; Xiao,Y.; Liu,R; Xia,Y.; Ya, Y.; Metwall,E.; Zhang, $\\mathrm { Q . ; }$ Qiu, B.; Liu, Z.; Pan,J.； Sun,L.-D.；Yan, C.-H.；Mueller-Buschbaum,P.; Cheng,Y.-J. Facile Scalable Synthesis of TiO2/Carbon Nanohybrids with Ultrasmall TiO2 Nanoparticles Homogeneously Embedded in Carbon Matrix.ACS Appl. Mater. Interfaces 2015,7 (43),24247-24255. (52) Xiao,Y.;Wang,X.; Xia,Y.; Yao,Y.; Metwall,E.; Zhang, $\\mathrm { Q . ; }$ Liu, R; Qiu, B.； Rasool, M.; Liu, Z.； Meng, $J . - \\mathrm { Q } . ;$ Sun, L.-D.; Yan, C.-H.; Muler-Buschbaum,P.; Cheng Y.-J. GreenFacileScalable Synthesis of Titania/Carbon Nanocomposites:New Use of Old Dental Resins. ACS Appl. Mater. Interfaces 2014, 6,18461-18468. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(53) Cheng, Y.-J.; Antonucci, J. M.; Hudson, S.D.; Lin, N.J.; Zhang, X.；Lin-Gibson，S.Controlled In Situ Nanocavitation in Polymeric Materials.Adv.Mater.2011,23 (3),409-413.   \n(54)Xue,J.S.; Myrtle,K.; Dahn,J.R.An EpoxySilane Approach to Prepare Anode Materials for Rechargeable Lithium Ion Batteries.J. Electrochem. Soc.1995,142 (9),2927-2935.   \n(SS) Tuinstra,F.; Koenig,J.L.Raman Spectrum of Graphite.J. Chem. Phys.1970,53 (3),1126-1130.   \n(56)Ferrari,A.C.;Robertson,J.Interpretation of Raman Spectra of Disordered and Amorphous Carbon.Phys.Rev.B:Condens.Matter Mater.Phys.2000,61 (20),14095-14107.   \n(S7）Karakuscu，A.；Guider，R；Pavesi，L.；Soraru,G.D.White Luminescence from Sol-Gel-Derived SiOC Thin Films.J.Am. Ceram. Soc.2009,92 (12),2969-2974.   \n(58)Bujalski,D.R;Grigoras,S.; Lee,W.L.N.; Wieber, G.M.; Zank, G.A.Stoichiometry Control of SiOC Ceramics by Siloxane Polymer Functionality.J.Mater.Chem.1998,8 (6),1427-1433. ",
+        "page_idx": 10
+    }
+]

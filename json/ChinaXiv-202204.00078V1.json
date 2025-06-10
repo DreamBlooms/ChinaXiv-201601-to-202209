@@ -1,0 +1,952 @@
+[
+    {
+        "type": "text",
+        "text": "基于终端差异化与D2D网络的IDNC协作重传方案",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "姚玉坤，陈鑫垚，羊杰(重庆邮电大学 通信与信息工程学院，重庆 400065)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了满足终端用户的个性化需求并且降低D2D网络的传输时延，提出了一种基于终端差异化的立即可解网络编码(IDNC)协作重传方案。首先，本方案针对PC-D2D 网络存在的解码冲突以及传输冲突问题提出一种新的 IDNC算法框架并且在此框架的基础上搜索极大独立集(MIS)，综合考虑数据包的接收情况、终端用户需求以及链路丢包率情况设计权重，衡量权重选取一次重传时延增量最小的并发协作重传终端以及数据包组合生成编码包。同时，考虑不需要数据包提供的未来解码机会，优化终端不需要的数据包，进一步降低传输时延。仿真结果表明，所提的方案在满足终端个性化需求的同时能够有效地降低解码时延和完成时间。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：D2D；立即可解网络编码；协作重传；解码冲突；传输冲突；终端差异化 中图分类号：TN919 doi:10.19734/j.issn.1001-3695.2021.12.0690 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IDNC cooperative retransmission scheme based on terminal differentiation and D2D network ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yao Yukun, Chen Xinyao, Yang Jie (School of Communication & Information Engineering, Chongqing Universityof Posts & Telecommunications,Chongqing 400065, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Inorder to met the individual needs ofend users and reduce the transmission delayof D2D networks,this paper proposes an Instantly Solvable Network Coding (IDNC)cooperativeretransmissionscheme based on terminal differentiation. Firstofall,thisshemeproposesanewIDNCalgorithm frameworkforthedecodingconflictand transmissonconflict inPCD2D networks,andsearches foramaximalindependent set (MIS)onthe basis of his framework.Userrequirementsand link packet lossrate are designed for weights,andthe weightsare selected to generate coded packets bycombiningtheconcurent cooperative retransmisson terminal with the smalest retransmission delay increment and data packets.At the same time, considering the future decoding opportunities provided byunnecessary data packets，optimize the data packets that the terminal does not need to further reduce thetransmission delay.The simulation results show thatthe proposed scheme can effectively reduce the decoding delay and completion time while meeting the personalized needs ofthe terminal. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words:D2D; IDNCcoding;cooperativeretransmsson;decodingconflict; transmissionconflict; termaldiferetiation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着数据的爆炸式增长，用户的流量需求呈现着指数式增长，作为一种提高通信容量和减少回程流量的方法--D2D[1]通信被提出。通过D2D通信，发送设备可以直接与其他设备进行近距离的通信，而不需要基站(BS)。D2D通信由于显著的减少带宽和回程链路的能量消耗的优势被广泛应用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2000 年，网络编码(Network Coding,NC)被 Ahlswede 等人[2提出，改变了原始的中间节点的存储转发的模式，网络编码允许中间节点按照一定的规则对数据包进行编码转发，显著的降低了系统的传输时延与次数。立即可解网络编码(Instantly Decoding Network Coding)[3\\~9]作为异或(ORC)编码的子类，一直被认为是一种很有前途的技术，尤其是在减少延迟以及增大吞吐量方面。IDNC作为一种瞬时解码技术被广泛应用于实时应用，使用XOR二进制操作对文件进行编码和解码的简单性适用于电池受限的终端设备[10\\~13]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "长久以来，很多学者展开对IDNC应用于D2D网络减少数据包重传次数，降低完成时延的研究。文献[14]的算法Heristic Maximum Clique IDNC(HMC-IDNC)以邻接度为考虑因素，总将邻接度最大的顶点加入选出最大团。文献[15]的算法MinimumRelevancy CliqueIDNC(HMC-IDNC)同样是以邻接度为考虑因素，但是为了保证后续的编码机会，将邻接度最小的顶点加入选取最大团。文献[16以链路丢包率为考虑因素，将链路丢包率最低的顶点加入选出最大团。文献[17]综合考虑信道的质量、终端的能量、稳定性等因素，设计了MWP-QE算法，以剩余能量为考虑因素，总将剩余能量最大的顶点加入选出最大团。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "但是在后续研究发现，终端的发射功率有限，不能做到每个终端之间直接通信，因此许多学者投入到部分连接D2D网络(PC-D2D)的研究[6,14,15]。在 PC-D2D 的早期研究中，最小化解码延迟或完成时间定义为所有用户获得他们想要的数据包之前的传输数量，前提是所有的用户对同一组数据包感兴趣，但是在现实生活中用户可能对不同的数据包感兴趣,这一兴趣可能体现在不同用户对于流量的需求上，并将不同的流量需求体现在数据包的需求的不同上。数据以数据包的形式发送，每个数据包在一个固定的持续时间内发送满足终端用户的需求。针对这一发现，本文提出了基于终端差异化与D2D网络的IDNC 协作重传方案(IDNC cooperativeretransmission scheme based on terminal differentiation and D2Dnetwork，CRTD)。在重传阶段，考虑终端的需求、链路丢包率以及数据包的接收情况并且运用新的IDNC算法框架避免PC-D2D网络中的传输冲突以及编码冲突，搜索极大独立集，生成单次重传可行的并发协作重传设备以及编码包。同时，优化终端不需要的数据包，衡量顶点权重选取最优的传输以及编码方案，减小重传次数，降低系统的解码时延以及完成时延。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 系统模型及相关定义",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1系统模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如图1所示，PC-D2D 网络模型中包含一个基站 $\\boldsymbol { V }$ 与 $N$ 个终端。基站 $\\boldsymbol { V }$ 将 $M$ 个数据包组成的文件发送给 $N$ 个终端，文件的集合为 $P = \\{ f _ { i } | 1 \\leq i \\leq M \\}$ ，接收端用户的集合为$I = \\{ R _ { i } | 1 \\le i \\le N \\}$ 。其中每个终端 $j$ 有着自己独特的需求的数据包集 $f _ { j } = \\{ p _ { j } , \\forall j \\in I \\}$ ，且文件是由数量为 $\\mid m _ { i } \\mid$ 的数据包 $p _ { i }$ 构成。基站到各终端的链路丢包率为 $q _ { i , j } ( \\forall i \\in V , \\forall j \\in I )$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "传输模型中，数据包传输分为两个阶段：初始阶段以及重传阶段。在初始阶段，基站广播数据包给终端，由于第一阶段考虑终端的需求数据包的不同，终端不会接收不需要的数据包从而造成终端无法解码的情况，因此在这一阶段不考虑终端的差异性，并且每个终端都可以监听到不需要的数据包，终端 $i$ 监听到的数据包集为 $o _ { i }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9ade7dd09a791e54d7fef8342edf0c7b620186901ae0e6768827725fcef37f26.jpg",
+        "img_caption": [
+            "图1PC-D2D网络模型",
+            "Fig.1PC-D2D network model "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基站广播数据包后，接收端可能有如下三种情况：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)已经接收到的数据包集合 $q _ { i }$ ：接收端 $R _ { i }$ 已经接收到的数据包的集合。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中，接收端 $R _ { i }$ 接收到的需要的数据包集合为 $\\boldsymbol { u } _ { i }$ ，接收端 $R _ { i }$ 接收到的不需要的数据包的集合为 $o _ { i }$ ，显然 $q _ { i } = u _ { i } \\cup o _ { i }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)缺失的数据包的集合 $\\overline { { o _ { i } } }$ ：接收端 $R _ { i }$ 丢失的不需要的数据包的集合。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c)需求的数据包的集合 $\\overline { { u _ { i } } }$ ：接收端 $R _ { i }$ 丢失的需要的数据包的集合。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设 $\\forall p _ { i } \\in P , \\exists R _ { i } \\in I \\parallel p _ { i } \\in q _ { i }$ ,表述为每个数据包 $p _ { i }$ 至少被一个设备成功接收， $\\forall p _ { i } \\in P , \\forall R _ { i } \\in I \\Vert p _ { i } \\in \\overline { { o _ { i } } }$ ，表述为如果存在所有终端都没有收到的一个数据包，那么这个数据包需要从基站重新发送。 $\\forall R _ { j } \\in I , \\exists p _ { i } \\in P \\& \\& \\exists p _ { i } \\in u _ { j }$ ，表述为如果所有的用户都需求次数据包并且都接收到了此数据包，那么将此数据包从数据包集中删除。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在第二阶段，基站对D2D用户进行频谱授权，D2D用户之间进行数据包的互传从而恢复需求的数据包。假设用户之间距离很近，在相同的传输范围内，可以通过WiFi、蓝牙等D2D链路相互连接。定义终端 $R _ { i }$ 到终端 $R _ { j }$ 的链路丢包率为 $P _ { i , j }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2相关定义 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义1 部分连接 D2D 网络(partially connected D2Dnetwork,PC-D2D)。 $\\exists R _ { j } \\in C _ { i }$ ，则设备 $R _ { j }$ 可以直接连接到设备 $R _ { i }$ （204号(单跳)。若 $R _ { n } \\notin C _ { i }$ && $R _ { { \\scriptscriptstyle m } } \\notin C _ { { \\scriptscriptstyle j } }$ && $R _ { n } \\neq R _ { m }$ $\\exists R _ { k } \\in C _ { i , j }$ ，则设备 $\\boldsymbol { R _ { n } }$ 可以通过中间设备 $R _ { k }$ 与终端设备 $\\boldsymbol { R _ { m } }$ 进行通信(多跳)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义2状态反馈矩阵(State FeedbackMatrix,SFM)。接收端将数据包接收情况通过ACK\\NACK反馈给基站，形成的矩阵称为状态反馈矩阵。如式(1)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ S F M } = f _ { k , l } = \\left\\{ \\begin{array} { c c } { 0 } & { l \\in \\boldsymbol { u } _ { k } } \\\\ { 1 } & { l \\in \\overline { { u _ { k } } } , \\forall k \\in N , \\forall l \\in M } \\\\ { - 1 } & { l \\in \\overline { { o _ { k } } } } \\\\ { 2 } & { l \\in o _ { k } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义3连接矩阵(System Connection Matrix,SCM)。将所有设备之间的数据包的接收概率存储在一个矩阵，此矩阵称为连接矩阵。定义为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS C M = y _ { i , k } = \\left\\{ \\begin{array} { c } { { 1 - p _ { i , k } , k \\in C _ { i } } } \\\\ { { 0 , k \\not \\in C _ { i } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义4覆盖区域( $\\mid C _ { i }$ ）。 $C _ { i } = \\{ R _ { m } \\ | \\ y _ { i , m } \\neq 0 \\}$ ，表示为设备可以通过擦除信道与其他设备集相连。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义5解码时延(Decoding Delay,DD)。当接收端接收到IDNC编码包，且 $\\exists R _ { i } \\in I \\& \\& \\overline { { \\mathscr { M } _ { i } } } \\neq \\emptyset$ 时，终端 $R _ { i }$ 的解码存在以下几种情况：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "不可解编码包： $\\mid p _ { i } ^ { * } \\cap \\overline { { u _ { i } } } \\mid \\neq 1$ ，发送端发送的编码包不包含终端需求的数据包。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "立即可解编码包： $\\mid p _ { i } ^ { * } \\cap \\overline { { u _ { i } } } \\mid = 1$ ，发送端发送的编码包只包含终端需求的一个数据包。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "非立即可解编码包： $\\vert p _ { i } ^ { * } \\cap \\overline { { u _ { i } } } \\vert \\geq 2$ ，发送端发送的编码包包含终端需求的多个数据包。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当不可解编码包、非立即可解编码包被终端接收或者终端未收到编码包时解码时延会增加一个单位，表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { m } ^ { t } = \\left\\{ \\begin{array} { l l } { 0 , } & { \\overline { { { u _ { m } } } } \\neq \\bigotimes \\& \\& \\vert \\overline { { { u _ { m } } } } \\cap p _ { i } ^ { \\ast } \\vert = 1 } \\\\ { 1 , } & { \\qquad \\sharp \\sharp \\sharp } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义6单独完成时延(Individual Completion Delay,ICD)。在任何时间 $\\mathbf { \\nabla } _ { m }$ 内，非空需求集的终端 $R _ { m }$ 解码所有需求数据包的总时间。表述为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI C D = \\rvert \\overline { { u _ { i } } } \\rvert + \\sum _ { m = 1 } ^ { t } d _ { i } ^ { m }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义7完成时延(Completion Delay,CD)。所有非空需求的终端获得所有需求数据包的传输总时间。表述为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC D = \\sum _ { i = 1 } ^ { n } I _ { i } C D\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文使用的符号及含义如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 基于终端差异化的D2D协作重传方案",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在PC-D2D网络中，由于终端的覆盖范围有限，并不是所有的终端都可以直接进行互传使得彼此获取需求的数据包。当两个不同的传输设备同时传输数据包或者编码包给二者覆盖范围内的同一个接收设备时，会产生传输冲突的问题，同样的终端接收到编码包面临着解码冲突问题，在此用一个示例来说明。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如图2所示的场景，系统由两个发送设备与五个终端所组成，并且发送设备拥有着不同的数据集$q _ { 1 } = \\{ p _ { 1 } , p _ { 2 } , p _ { 3 } \\} , q _ { 2 } = \\{ p _ { 4 } , p _ { 5 } \\}$ 。当发送设备发送数据包至接收设备后，由于信道的不完美数据包在传输过程中产生了丢失，终端没有获取全部需求的数据包，因此，需要发送设备对终端进行重传。接收端首先将数据包的接收情况反馈给发送端，发送端形成各自的状态反馈矩阵 $L ( s _ { 1 } )$ 和 $L ( s _ { 2 } )$ ，矩阵的具体表示如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL ( s _ { 1 } ) = \\left( \\begin{array} { c c c } { { 0 } } & { { 1 } } & { { 0 . } } \\\\ { { 1 } } & { { 0 } } & { { - 1 } } \\\\ { { 1 } } & { { 0 } } & { { - 1 } } \\\\ { { - 1 } } & { { 0 } } & { { 1 } } \\\\ { { 0 } } & { { - 1 } } & { { - 1 } } \\end{array} \\right) \\qquad L ( s _ { 2 } ) = \\left( \\begin{array} { c c } { { - 1 } } & { { - 1 } } \\\\ { { 0 } } & { { - 1 } } \\\\ { { 0 } } & { { - 1 } } \\\\ { { - 1 } } & { { - 1 } } \\\\ { { 1 } } & { { - 1 } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "此时，发送端根据矩阵的反馈情况选取传输编码包的方案：由于终端 $\\boldsymbol { c } _ { 2 }$ 获取了数据包 $\\boldsymbol { p } _ { 2 }$ 与 $p _ { 4 }$ ，此终端可以对这两种类型的编码包进行异或操作解码出需求的数据包 ${ p } _ { 1 }$ 。同样的，终端 $\\boldsymbol { c } _ { 3 }$ 可以对这两种编码包进行异或操作解码出需求的数据包 $p _ { 1 }$ 。但是当两种类型的编码包 $p _ { 1 } \\oplus p _ { 2 }$ 与 $p _ { 1 } \\oplus p _ { 4 }$ 同频同时隙传输到终端 $\\mathbf { \\Phi } _ { C _ { 2 } , C _ { 3 } }$ 时，终端只能对其中的一种编码包进行解码，使得终端获得需求的数据包，此时产生了传输冲突，如",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c160e5c7e56c0626e5fda4e1be335a2a32fe4394415ff73e61d3d67da077574.jpg",
+        "img_caption": [
+            "图3所示。",
+            "图2场景示例"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c42d2062965cedc03817014fc866739ffde33aae3fb3eeb8e7c5e5c3c842e01c.jpg",
+        "img_caption": [
+            "Fig.2Sample scenario ",
+            "图3产生冲突的场景",
+            "Fig.3Conflict scenarios "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/51949bc4b0208f69820f4cc50de7c79174d2d6dd38d31fbbec059d030df1249a.jpg",
+        "table_caption": [
+            "表1全文使用的符号及含义",
+            "Tab.1Symbols and meanings used in the full text "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>符号</td><td>含义</td></tr><tr><td>fi</td><td>终端i需要的独特的文件集</td></tr><tr><td>P</td><td>所有终端需要的文件集</td></tr><tr><td>qi</td><td>终端i接收到的数据包集</td></tr><tr><td>ui</td><td>终端i已经接收到的需要的数据包集</td></tr><tr><td>0i</td><td>终端i已经接收到的不需要的数据包集</td></tr><tr><td>ui</td><td>终端i缺失的需要的数据包集</td></tr><tr><td>1</td><td>用户终端集合</td></tr><tr><td>U</td><td>需要被重传的数据包</td></tr><tr><td>Q</td><td>所有终端获得的数据包集</td></tr><tr><td>|mi|</td><td>用户i需要的独特的数据包的数量</td></tr><tr><td>M</td><td>文件的总数量</td></tr><tr><td>N</td><td>终端的总数量</td></tr><tr><td>f</td><td>终端k对数据包l的接收状态</td></tr><tr><td>Ci</td><td>终端i的覆盖范围</td></tr><tr><td>Pi</td><td>数据包i</td></tr><tr><td>R</td><td>终端i</td></tr><tr><td>0i</td><td>终端i未获得的不需要的数据包</td></tr><tr><td>yik</td><td>终端i与终端k之间的连接矩阵</td></tr><tr><td>Pik</td><td>终端i与终端k之间的丢包率</td></tr><tr><td>S</td><td>发送设备集合</td></tr><tr><td>P*</td><td>数据包组合</td></tr><tr><td>Ti(p)</td><td>设备i的目标设备集合</td></tr><tr><td>Tij</td><td>数据包j为终端i提供未来解码机会</td></tr><tr><td>P</td><td>基站与终端i之间的丢包率</td></tr><tr><td>X(Ri)</td><td>一层IDNC 图的权重</td></tr><tr><td>Si</td><td>数据包j为终端i提供未来解码机会的概率</td></tr><tr><td>ai.j</td><td>二进制变量</td></tr><tr><td>ICD</td><td>单独解码时延</td></tr><tr><td>CD</td><td>完成时延</td></tr><tr><td>G(V,E)</td><td>IDNC图</td></tr><tr><td>LSM</td><td>局部发送矩阵</td></tr><tr><td>ki</td><td>二进制变量</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本节针对上述这一问题提出了一种新型的IDNC 框架,提出了以下两个定义：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义8 解码冲突(Decoding Conflict，DC)。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\exists R _ { i } , R _ { j } \\in S , R _ { m } \\in T _ { i } ( p _ { i } ^ { * } ) , \\mid p _ { i } ^ { * } \\cap q _ { i } \\mid = 1 \\& \\& \\mid p _ { i } ^ { * } \\cap q _ { j } \\mid = 1 , \\mid p _ { i } ^ { * } \\cap \\overline { { u _ { m } } } \\mid \\neq 1\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表述为发送端发送的编码包无法使得终端获得需求的数据包。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义9传输冲突(Transmission Conflict,TC)。$\\exists R _ { i } , R _ { j } \\in S , R _ { k } \\in T _ { i } ( p _ { i } ^ { * } ) \\& \\& R _ { k } \\in T _ { j } ( p _ { j } ^ { * } ) , R _ { k } \\in C _ { i , j }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表述为当发送设备 $R _ { i }$ 与 $R _ { j }$ 同时向接收设备 $R _ { k }$ 传输数据包或者编码包时，它们的传输将发生碰撞，此类碰撞称为传输冲突。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1IDNC 图框架设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "IDNC图模型用来表示设备间的传输关系以及终端缺少数据包间编码关系的图模型，本节IDNC图框架的设计主要分为两个部分：局部发送矩阵的构建、顶点连接条件的构建。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1局部发送矩阵的构建 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据每个时隙t的状态反馈矩阵生成局部发送矩阵LSM，其形成规则满足如下定义：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义10 局部发送矩阵(Local StateMatrix,LSM)。针对每个设备为发送设备 $R _ { i } , i \\in I$ 生成的矩阵，矩阵的行列分别代表发送设备的覆盖设备集合以及发送设备拥有的数据包集合，表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL S M _ { i } = \\left\\{ \\begin{array} { l l } { 0 } & { R _ { k } \\in C _ { i } \\& \\& p _ { l } \\in q _ { k } } \\\\ { 1 } & { R _ { k } \\in C _ { i } \\& \\& p _ { l } \\in \\overline { { u _ { k } } } } \\\\ { x } & { R _ { k } \\in C _ { i } \\& \\& p _ { l } \\in \\overline { { o _ { k } } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据局部发送矩阵生成 IDNC 图的相关顶点表示为 $\\nu _ { i , l , k }$ ，其中的 $i$ 表示为特定的发送设备 $i \\in I$ ，1表示为发送端发送的数据包 $p _ { l } \\in q _ { i }$ ， $k$ 表示为发送端发送数据包的目标终端 $R _ { k } \\in I$ =且顶点中的 $\\nu _ { l , k }$ 对应图中的局部发送矩阵的1的位置。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2顶点相连条件",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本节考虑同频同时隙前提下的接收端的解码冲突以及传输冲突，设计了以下的相连条件。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "条件1 $p _ { l } \\neq p _ { n }$ && $: R _ { k } = R _ { m }$ ,表述为同一个设备 $R _ { k }$ 丢失了不同的数据包 $p _ { l } , p _ { n }$ ，终端无法在此次传输中获取需求的数据包，产生了解码冲突。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "条件2 $p _ { l } \\neq p _ { n }$ && $R _ { k } \\neq R _ { m } , p _ { l } \\notin q _ { m } \\parallel p _ { n } \\notin q _ { k }$ 表述为不同的设备 $R _ { k }$ ， $R _ { m }$ 丢失了两个不同的数据包，但是这两个设备至少有一个不拥有另一个设备需求的数据包，从而产生了解码冲突。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "条件3 $R _ { i } \\neq R _ { r }$ && $R _ { k } = R _ { m } \\in \\{ C _ { i } \\cap C _ { r } \\}$ ，表述为不同的传输设备 $R _ { i } \\ , R _ { r }$ 同时传输数据包到终端设备 $R _ { k }$ ，且接收设备 $R _ { k }$ 在发送设备的共同覆盖区域内。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "条件4 $R _ { i } \\neq R _ { r } \\& R _ { k } \\neq R _ { m } , R _ { k } \\in \\{ C _ { i } \\cap C _ { r } \\} \\parallel R _ { m } \\in \\{ C _ { i } \\cap C _ { r } \\}$ 表述为不同的传输设备 $R _ { i }$ ， $R _ { r }$ 同时传输数据包到不同的接收设备 $R _ { k }$ ，$R _ { m }$ ，但是终端 $R _ { k }$ 与 $\\boldsymbol { R _ { m } }$ 至少有一个在传输设备的共同覆盖区域内。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "条件5 $R _ { i } \\neq R _ { r } , R _ { i } = R _ { m } \\parallel R _ { r } = R _ { k }$ ，表述为两个不同的传输设备中至少有一个是另一个传输设备的目标设备。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2基于终端需求的一层IDNC图",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1一层IDNC图的总体概述 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于终端之间的差异化，用户的需求同样呈现着差异，这一差异体现在数据包的不同需求上，本节针对终端设备需求的数据包进行重传，设计了基于新型IDNC图框架与用户需求的一层IDNC图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义11一层IDNC 图(ALayerofIDNC,ALIDNC)。用来表示设备间的传输关系以及设备需求的数据包间编码关系的图模型，当产生发送设备获取的不需要的数据包满足接收端的LSM的顶点产生时，用 $\\textbf { x }$ 表示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据定义2基站形成SFM以及SYM，根据定义10生成以每个设备为发送设备的LSM，由于要重传的数据包要满足终端需求因此不进行终端设备获取的非需求的数据包能够使得终端获益的步骤，如例2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "假设终端反馈给基站的状态反馈矩阵以及连接矩阵分别为 $S = \\left( \\begin{array} { c c c c } { { 1 } } & { { 0 } } & { { 2 } } & { { - 1 } } \\\\ { { 0 } } & { { 1 } } & { { 0 } } & { { 0 } } \\\\ { { 1 } } & { { 0 } } & { { 1 } } & { { 2 } } \\end{array} \\right)$ $Y = { \\left( \\begin{array} { l l l } { 1 } & { 0 } & { 1 } \\\\ { 0 } & { 1 } & { 1 } \\\\ { 1 } & { 0 } & { 1 } \\end{array} \\right) }$ ，以每个设备为发送终端生成的局部发送矩阵为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\begin{array} { r l r l r l r l } { p _ { 2 } } & { p _ { 3 } } & & { p _ { 1 } } & { p _ { 3 } } & { p _ { 4 } } & & { p _ { 2 } } & { p _ { 4 } } \\\\ { s _ { 1 } = u _ { 1 } } & { \\left( { \\begin{array} { l l } { 0 } & { 0 } \\\\ { 0 } & { 1 } \\end{array} } \\right) } & { s _ { 2 } = u _ { 2 } } & & { \\left( { \\begin{array} { l l l } { 0 } & { 0 } & { 0 } \\\\ { 1 } & { 1 } & { 0 } \\end{array} } \\right) } & { s _ { 3 } = u _ { 1 } } & & { \\left( { \\begin{array} { l l } { 0 } & { x } \\\\ { 0 } & { 0 } \\end{array} } \\right) } \\\\ { u _ { 3 } } & { \\left( { \\begin{array} { l l } { 0 } & { 1 } \\end{array} } \\right) } & & { u _ { 3 } } & & { \\left( { \\begin{array} { l l l } { 1 } & { 1 } & { 0 } \\end{array} } \\right) } & { u } & & { \\left( { \\begin{array} { l l } { 0 } & { 0 } \\\\ { 0 } & { 0 } \\end{array} } \\right) } \\end{array} }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "明显 $s _ { 3 }$ 中产生了发送设备 $u _ { 3 }$ 获取的不需要的数据包满足接收端的情况，因此此种情况舍弃，不在此讨论。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "此时，产生的一层IDNC图如图4所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/dd253663b9cb10d8a758c0f8b7889cf1ab620d746f6bd398334bc4f47f14cb99.jpg",
+        "img_caption": [
+            "图4一层IDNC图示例",
+            "Fig.4Example ofone-layerIDNCdiagram "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2一层IDNC图顶点权重设计 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "考虑传输的编码包在终端的解码性，此处引入终端协作图的顶点权重表达式[16]：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX ( D ) = \\sum _ { D _ { i } \\in S } \\{ \\sum _ { D _ { j } \\in T _ { i } ( p _ { i } ^ { * } ) ^ { n } | p _ { i } ^ { * } \\cap w _ { j } | = 1 } ^ { \\{ \\sum _ { D _ { i } \\in S } \\left| T _ { i } ( P _ { i } ^ { * } ) \\right| - }  \\times q _ { i , j } + \\sum _ { D _ { j } \\in T _ { i } ( p _ { i } ^ { * } ) ^ { n } | p _ { i } ^ { * } \\cap w _ { j } | \\neq 1 } 1 \\} \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "考虑本文终端差异化的需求并受到式(7)的启发，将式(7)改为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX ( R _ { i } ) = \\sum _ { R _ { i } \\in S } \\{ \\sum _ { \\substack { R _ { j } \\in T _ { i } ( p _ { i } ^ { * } ) \\cdot | p _ { i } ^ { * } \\cap \\overline { { u _ { j } } } | = 1 } }  1 \\times q _ { i , j } + \\sum _ { \\substack { R _ { j } \\in T _ { i } ( p _ { i } ^ { * } ) \\cdot | p _ { i } ^ { * } \\cap \\overline { { u _ { j } } } | \\neq 1 } } 1 \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式(8)综合考虑发送端发送编码包的目标终端的数量，接收端无法从接收到的编码包获得需求的数据包以及在传送过程中出现丢失并且终端可以从丢失的编码包获益的情况。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.3协作重传发送设备以及编码包策略选择",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据上述的相连条件将由局部发送矩阵产生的顶点相连，并且衡量权重选出的最大独立集即为不产生传输冲突以及编码冲突的最佳重传方案，表示为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\arg \\operatorname* { m a x } \\{ X ( R _ { i } ) = \\sum _ { R _ { i } \\in S } \\{ \\sum _ { \\substack { R _ { i } \\in T _ { i } ( p _ { i } ^ { * } ) ^ { s } | p _ { i } ^ { * } \\setminus \\overline { { u _ { j } } } | = 1 } }  1 \\times q _ { i , j } + \\sum _ { \\substack { R _ { j } \\in T _ { i } ( p _ { i } ^ { * } ) ^ { s } | p _ { i } ^ { * } \\cap \\overline { { u _ { j } } } | \\neq 1 } } 1 \\} \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "此时选取的MIS可能存在以下几种情况：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1)当选中的MIS 为 $\\{ \\nu _ { i , l , k } \\}$ ，重传方案为发送端 $R _ { i }$ 传输数据包 $p _ { l }$ 至接收端 $R _ { k }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2)当选中的MIS为 $\\{ \\nu _ { i , l , k } , \\nu _ { i , m , n } , \\nu _ { j , x , q } \\}$ ，重传方案为发送端 $R _ { i }$ 传输数据包 $p _ { l } \\oplus p _ { m }$ 至接收端 $R _ { k } , R _ { n }$ ，发送端 $R _ { j }$ 传输数据包 $p _ { x }$ 至接收端 $R _ { q }$ ，此时的传输为同时进行的传输。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3)当选中的MIS为 $\\{ \\nu _ { i , l , k } , \\nu _ { t , m , n } , \\nu _ { j , x , q } \\}$ ，重传方案为发送端 $R _ { i }$ 传输数据包 $p _ { l }$ 至接收端 $R _ { k }$ ，发送端 $R _ { t }$ 传输数据包 $p _ { m }$ 至接收端 $\\boldsymbol { R _ { n } }$ ，发送端 $R _ { j }$ 传输数据包 $p _ { x }$ 至接收端 $R _ { q }$ ，此时的传输同样为同时进行的传输。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3基于未来解码机会的二层IDNC图",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本节针对终端设备不需要的数据包进行优化，设计了基于新型IDNC图框架与用户不需要的数据包的二层IDNC图。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定义12 二层 IDNC 图(Second IDNC,SEIDNC)。用来表示设备间的传输关系以及设备不需要的数据包间编码关系的图模型，当产生发送设备获取的需求的数据包满足接收端的LSM的顶点产生时，用 $\\mathbf { x }$ 表示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定义13综合 IDNC 图(Comprehensive IDNC,CIDNC)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用来表示设备间的传输关系、设备需求的数据包间编码关系以及设备不需要数据包提供未来解码机会的图模型，此模型既满足终端的需求又优化了终端不需要的数据包。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本节分别介绍不需要数据包的解码效益以及权重的设计。2.3.1不需要数据包的解码效益",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在上节构建的ALIDNC中，只考虑到了接收端的解码冲突、发送端的传输冲突以及接收端可以获益的需求数据包的情况，本节探讨不需要数据包提供的未来的解码机会，充分利用数据包资源，优化不需要数据包，从而更好的满足终端的需求。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "不需要的数据包 ${ \\boldsymbol { p } } _ { j }$ 与终端用户 $R _ { i }$ 的关系有如下两种情况：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1) $\\exists p _ { i } \\notin \\overline { { u _ { i } } }$ &&i $\\in T _ { i } ( P _ { i } ^ { * } )$ 时，表述为所有的终端都不需要数据包 ${ p } _ { j }$ □",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2)当数据包 ${ \\boldsymbol { p } } _ { j }$ 至少被一个终端 $R _ { k }$ 所需要，并且此终端至少拥有终端 $R _ { i }$ 的需求集合中的一个数据包。此种情况表示为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle  \\vphantom { \\displaystyle ( R _ { i } \\in C _ { i } ) }  k , h \\in I | \\begin{array} { c } { { \\displaystyle  j \\in \\overline { { { u _ { k } } } } \\& { { \\& { \\alpha } { q _ { k } } \\Longleftrightarrow { u _ { i } } } } \\end{array}  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } { j } }   - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {   \\kern - delimiterspace } {  \\kern - delimiterspace } {   \\kern - delimiterspace } {  \\kern - delimiterspace } {   \\kern - delimiterspace } {  \\kern - delimiterspace } {   \\kern - delimiterspace } {  \\kern - delimiterspace } {   \\kern - delimiterspace } {  \\kern - delimiterspace } {   \\kern - delimiterspace } {  \\kern - delimiterspace } {   \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {  \\kern - delimiterspace } {   \\kern ] }    }  \\end{array}    \n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当满足情况(1)时，不需要数据包 ${ \\boldsymbol { p } } _ { j }$ 无法为终端用户提供需求的数据包的未来解码机会，此类的数据包称为无用数据包。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当满足情况(2)时，不需要的数据包 ${ \\boldsymbol { p } } _ { j }$ 可以为终端用户提供未来的解码机会。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.2二层IDNC图顶点权重设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在二层IDNC图的权重衡量引入多播场景下不需要数据包为终端提供未来解码机会的权重[17]:",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns _ { i , j } = ( 1 - p _ { i } ) \\alpha _ { i j } ( 1 - k _ { i j } \\Pi _ { \\kappa \\in k _ { i j } } ( 1 - p _ { i j } ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "考虑本文的终端差异化的需求以及部分连接D2D场景，受到上式的启发，将式(11)改为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { R _ { n } \\in S ^ { \\wedge } j \\in \\overline { { \\sigma _ { i } } } } \\sum _ { i \\in C _ { n } \\wedge R _ { i } \\in T _ { n } ( p _ { n } ^ { * } ) } ( 1 - p _ { n , i } ) \\alpha _ { i j } ( 1 - k _ { i j } \\Pi _ { \\kappa \\in k _ { i j } } ( 1 - p _ { n , k } ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式(12)中的 $k _ { i j }$ 、 $\\alpha _ { i j }$ 表示二进制变量，当满足上述的情况(2)即满足仍然存在需要数据包 ${ p } _ { j }$ 的终端 $R _ { k }$ 至少在终端 $R _ { i }$ 的想要集合中持有一个包时，二进制变量置为1，其他情况置为0。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因此，选取最佳的传输以及编码方案为在二层IDNC图中选取 MIS，如式(13)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\arg \\operatorname* { m a x } \\{ \\sum _ { R _ { n } \\in S ^ { \\wedge } j \\in \\mathcal { O } _ { i } } \\sum _ { i \\in C _ { n } \\wedge R _ { i } \\in T _ { n } ( p _ { n } ^ { * } ) } ( 1 - p _ { n , i } ) \\alpha _ { i j } ( 1 - k _ { i j } \\Pi _ { \\kappa \\in k _ { i j } } ( 1 - p _ { n , k } ) ) \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.3重传策略的选择 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在考虑不产生传输冲突以及编码冲突的最佳重传方案时，会产生如下两种情况：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "方案1此方案考虑选取ALIDNC构建的MIS对应的数据包组合、发送设备以及接收设备，只满足终端用户需求并不对终端用户缺失的数据包进行优化，此时的衡量权重为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX ( R _ { i } ) = \\sum _ { R _ { i } \\in S } \\{ \\sum _ { R _ { j } \\in T _ { i } } \\sum _ { ( p _ { i } ^ { * } ) ^ { n } | p _ { i } ^ { * } \\cap \\overline { { u _ { j } } } | = 1 } ^ { \\{ \\sum _ { R _ { i } \\in S } \\left| T _ { i } ( P _ { i } ^ { * } ) \\right| - }  1 \\} \\lambda \\mathcal { I } _ { i , j } + \\sum _ { R _ { j } \\in T _ { i } ( p _ { i } ^ { * } ) ^ { n } | p _ { i } ^ { * } \\cap \\overline { { u _ { j } } } | \\neq 1 } 1 \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "方案2此方案考虑选取ALIDNC以及CIDNC所构建的MIS对应的数据包组合、发送设备以及接收设备，满足终端用户的需求并且对终端用户不需要的数据包进行优化，此时的衡量权重为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle { \\{ \\sum _ { R _ { i } \\in S } \\} _ { i \\in S } \\big \\{ T _ { i } ( P _ { i } ^ { * } ) \\big | - \\sum _ { R _ { i } \\in S } \\{ \\sum _ { \\substack { R _ { j } \\in T _ { i } ( P _ { i } ^ { * } ) \\wedge | P _ { i } ^ { * } \\setminus \\overline { { { u } } } _ { j } ^ { * } | = 1 } } } \\times q _ { i , j } + \\sum _ { \\substack { R _ { j } \\in T _ { i } ( p _ { i } ^ { * } ) \\wedge | p _ { i } ^ { * } \\setminus \\overline { { { u } } } _ { j } ^ { * } | \\neq 1 } } } \\} }  \\\\ { { \\displaystyle { X ( R _ { i } ) + s _ { i , j } = \\sum _ { \\substack { R _ { n } \\in S ^ { \\wedge } j \\in \\overline { { { o } } } _ { i } } } \\sum _ { i \\in C _ { n } \\wedge R _ { i } \\in T _ { n } ( p _ { n } ^ { * } ) } ( 1 - p _ { n , i } ) \\alpha _ { i j } ( 1 - k _ { i j } \\Pi _ { \\kappa \\in k _ { i j } } ( 1 - p _ { n , k } ) ) } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将方案1与方案2的权重进行对比，选择最大独立集对应的传输方案，有以下几种情况：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "若 $X ( R _ { i } ) + S _ { i , j } > X ( R _ { i } )$ ,选择方案2的最大独立集对应的传输与编码方案作为重传方案。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "若 $X ( R _ { i } ) + S _ { i , j } \\leq X ( R _ { i } )$ ,选择方案1的最大独立集对应的传输与编码方案作为重传方案。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "继上述的例2，考虑不需要数据包提供的未来解码机会，构建的综合IDNC图如图5所示，重传策略即为在图4所示的一层IDNC图中选取最大权重的独立集以及在图5所示的综合IDNC图中选取最大权重的独立集，综合考虑选取最佳的重传方案。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3ebc9a3aec21a5d42c112c7eb27fc38a70dae4f3d74c03d5aa0aa6b80d889d29.jpg",
+        "img_caption": [
+            "图5综合IDNC图示例"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4协作重传步骤 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "步骤1：接收端将接收情况以及连接情况反馈给基站，基站建立SFM矩阵以及SYM矩阵。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "步骤2:构建针对每个用户为发送端的局部发送矩阵，并根据局部发送矩阵以及用户需求构建一层 $G ( V , E )$ ，图中的顶点对应的方案满足终端用户需求的数据包以及不产生传输冲突和解码冲突。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "步骤3:在一层 $G ( V , E )$ 中选择权重值最大的独立集。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "步骤4:判断接收终端的需求集是否为空，如果不是，此接收端不满足条件，不参与 $G ( V , E )$ 的构建。判断是否存在接收终端不需要的数据包为其提供未来的解码机会，如果不存在，一层 $G ( V , E )$ 中的权重最大的独立集为不产生传输冲突和解码冲突的最佳重传方案，如果存在转向步骤5。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "步骤5：构建二层 $G ( V , E )$ ，并将二层 $G ( V , E )$ 与一层 $G ( V , E )$ 结合构建综合 $G ( V , E )$ ，计算综合 $G ( V , E )$ 的权重，选出权重值最大的独立集。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "步骤6：将选出的一层 $G ( V , E )$ 的独立集的最大权重与综合 $G ( V , E )$ 的独立集的最大权重进行比较，选取二者中权重值最大的独立集对应的方案作为不产生传输冲突和解码冲突的最佳重传方案。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "步骤7：基站根据上述IDNC 算法选取步骤6的一组发送端及其数据包组合，并将发送策略以及编码策略通知各个发送端。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "步骤8：发送端传输编码包，接收端接收到编码包后解码获取需求的数据包并将接收状态反馈给基站，基站更新状态反馈矩阵，重复步骤1\\~8，直到所有的终端得到需求的数据包。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9e7acdabba21a773bfc4798bc8d2d038eff09a7585078c84d0082a26972a34c6.jpg",
+        "img_caption": [
+            "Fig.5Comprehensive IDNC diagram example ",
+            "一次协作重传的流程图如图6所示。",
+            "图6一次协作重传流程图",
+            "Fig.6Flow chart of a collaborative retransmission "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5算法复杂度分析 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在CRTD策略中，基站生成终端 $R _ { i }$ 的局部发送矩阵的计算复杂度为 $O ( | q _ { i } | | C _ { i } | )$ ，因此生成所有终端的局部发送矩阵的计算复杂度为 $O { \\Bigg ( } \\sum _ { i = 1 } ^ { I } \\rvert q _ { i } \\parallel C _ { i } \\rvert { \\Bigg ) }$ ,构建终端 $R _ { i }$ 需求数据包相关的顶点的计算复杂度为 $O \\left( \\left( \\sum _ { R _ { j } \\in C _ { i } } \\big | \\overline { { u _ { i } } } \\big | \\right) ^ { 2 } \\right)$ 构建所有终端需求的数据包相关顶点的计算复杂度为 $O \\Bigg ( \\sum _ { i = 1 } ^ { N } \\left( \\sum _ { R _ { j } \\in C _ { i } } { \\lvert \\overline { { u _ { i } } } \\rvert } ^ { 2 } \\right) \\Bigg )$ ,构建所有终端缺失的数据包相关顶点的计算复杂度为 $O \\Bigg ( \\sum _ { i = 1 } ^ { N } \\left( \\sum _ { R _ { j } \\in C _ { i } } { \\bigl | \\overline { { o _ { i } } } \\bigr | ^ { 2 } } \\right) \\Bigg )$ 构建顶点数为 $\\vert N \\vert$ 的 $G ( V , E )$ 的计算复杂度为 $O ( | N | ) ^ { 2 }$ ,在 $G ( V , E )$ 搜索极大独立集合的计算复杂度为 $O ( | N | ) ^ { 3 }$ ，因此CRTD 整体的计算复杂度为 $O \\bigg ( \\sum _ { i = 1 } ^ { I } \\lvert q _ { i } \\rvert \\lvert C _ { i } \\rvert \\bigg ) + O \\bigg ( \\sum _ { i = 1 } ^ { N } \\Biggl ( \\sum _ { R _ { j } \\in C _ { i } } \\lvert \\overline { { u _ { i } } } \\rvert ^ { 2 } \\bigg ) \\bigg ) + O \\Biggl ( \\sum _ { i = 1 } ^ { N } \\Biggl ( \\sum _ { R _ { j } \\in C _ { i } } \\lvert \\overline { { o _ { i } } } \\rvert ^ { 2 } \\Biggr ) \\Biggr ) +$ （204号 $O ( | N | ) ^ { 3 }$ ，由于 $N > > \\sum _ { R _ { j } \\in C _ { j } } | \\overline { { u _ { i } } } | ^ { 2 }$ 且 $N > > \\sum _ { R _ { j } \\in C _ { j } } | \\overline { { o _ { i } } } | ^ { 2 }$ ，计算复杂度由最高次的部分决定，因此CRTD的计算复杂度为 $O ( | N | ) ^ { 3 }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 仿真分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文使用OPNETModeler14.5进行仿真，将本文所提出的CRTD算法与降低完成时延的编码重传方案[15](CompletionTimeReduction forPartially Connected D2DEnabled NetworkusingBinaryCodes，CTRBC)和在雾无线电接入网络中使用即时可解网络编码的二进制数据传输[16](Datadisseminationusing instantly decodable binary codes in fog-ratio accessnetworks,DD，DDAC)进行仿真对比，突出CRTD算法在满足用户需求的同时降低完成时延、解码时延以及提高编码增益的优势。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1仿真设置 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在仿真中，本文考虑一个PC-D2D网络，其中设备随机分布在一个边长为 $5 0 0 \\mathrm { m }$ 的六边形单元内，D2D设备之间存在WIFI链路或者蓝牙链路可以直接相连。在仿真模型中，包含着一个基站V，与N个终端。在基站广播的第一阶段后，每个用户接收到了一些数据包，并且丢失了一些自己想要的数据包。此种概率是由擦除信道的丢包率的不确定造成的。由于短程的D2D链路比基站通信可靠，因此在重传阶段考虑设备间的协作重传。假设设备到设备之间的擦除概率为基站到设备的擦除概率的一半，定义设备的非空需求的相邻设备数量与设备总数的比值为G,设置 $P _ { i } = 0 . 3$ ， $P _ { i , j } = 0 . 1 5$ 。仿真参数设置如表2所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/1a88cd7bec7e2c9917d851399b99e1ddd338899251224d90f216869d05bf300c.jpg",
+        "table_caption": [
+            "表2仿真参数设置",
+            "Tab.2Simulation parameter setting "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数名</td><td>参数值</td></tr><tr><td>基站的覆盖范围/m</td><td>500</td></tr><tr><td>基站到终端的丢包率</td><td>0.3</td></tr><tr><td>设备之间的丢包率</td><td>0.15</td></tr><tr><td>连通度G</td><td>[0.2,0.4,0.6,0.8,1]</td></tr><tr><td>数据包数量</td><td>[10,15,20,25,30]</td></tr><tr><td>仿真时间/s</td><td>500</td></tr><tr><td>传输速率/kb·s-1</td><td>5</td></tr><tr><td>终端设备数</td><td>[10,15,20,25,30]</td></tr><tr><td>随机种子数</td><td>[128,528,828]</td></tr><tr><td>不需要数据包的占比</td><td>[0.2,0.4,0.6,0.8,1]</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 仿真结果分析 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如图7、8所示，考虑参数 $\\scriptstyle \\mathrm { N = } 3 0 , \\mathrm { M = } 2 0$ ， ${ p } _ { i } = 0 . 3$ ， $p _ { i , j } = 0 . 1 5$ 。仿真结果表明，在网络连通度较低的PC-D2D网络中，CRTD算法明显降低了开销，而算法CTRBC与DDAC在降低平均完成时间这一方面的效果较低。这是由于CTRBC算法只考虑了发送设备之间的协作而没有考虑设备之间可能产生冲突的问题，DDAC算法虽然考虑了多设备之间传输可能存在碰撞但是没有考虑更现实的用户差异化需求问题。本文提出的算法在DDAC的基础上进行改进，更进一步的设计是基于冲突的IDNC框架并且以更现实的用户需求差异化为着手点进行研究，CRTD方案考虑终端的解码情况以及不需要数据包的优化进而选取最优的方案，尤其在网络连通度 $\\scriptstyle \\mathbf { G } = 0 . 3 - 0 . 6$ 时可以明显地降低平均解码时延，降低重传次数，提高传输效率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a73efa7b2e1b9495cdb9900c872655eebf05b0dd07a58d7b424149a91bc42250.jpg",
+        "img_caption": [
+            "重传次数随着网络连通度的变化的性能对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/141ac74f72d8a3769ca93b217e6aabc09ea5cfc75cb0eac219bb09e99d063907.jpg",
+        "img_caption": [
+            "图7平均解码时延随着网络图 连通度的变化的性能对比 Fig.7Performance comparison of average decoding delay with network connectivity "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如图9、10所示，参数连通度G设置为0.4，给出了数据包数量为 $p = 1 5$ 时随着终端设备的数量的变化平均完成时间的变化情况以及终端设备数为 $R = 1 5$ 时随着数据包的数量的变化的平均完成时间的变化情况。仿真结果表明，在 $\\mathrm { G } { = } 0 . 4$ 的前提下，随着数据包数量以及终端设备数的增加，平均完成时间逐渐增大。由于上述的CTRBC算法与DDAC算法只考虑到需要数据包的优化，忽略不需要数据包的优化，而本文提出的CRTD算法考虑了上述的不足，可以有效提高传输效率，优化不需要数据包，为未来传输中所需要的文件提供了更好的解码机会，并且在降低完成时间上有着明显的优势。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/6d627f3e1885c573f29cb726f33a1cc497aa54f97806045322cbf912e3a02690.jpg",
+        "img_caption": [
+            "图9平均完成时间随着终端设备数量变化的性能对比",
+            "Fig.9Performance comparison of average completion time with number of terminal devices "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f07f86cb6ce1b38003bbcafeecc92c45c3ea2b58839c95a5029928f5e022f2ea.jpg",
+        "img_caption": [
+            "图10平均完成时间随着数据包的数量变化的性能对比",
+            "Fig.10 Performance comparison of average completion with number of packets "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如图11、12所示，同样的考虑参数连通度G为0.4，给出了数据包数量为 $p = 1 5$ 时随着终端设备的数量的变化平均解码时延的变化情况以及终端设备数 $\\scriptstyle 1 = 1 5$ 时随着数据包的数量的变化的平均解码时延的变化情况。仿真结果表明，平均解码时延与上述的平均完成时间的趋势基本相同，随着数据包数量的增加以及终端数量的增加，平均解码时延逐渐增大，明显的，本文提出的算法与对比的其他两种算法相比，平均时延增长速率降低，因此CRTD算法在降低平均解码时延有着明显的优势。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文针对PC-D2D网络提出了基于终端差异化的IDNC协作重传方案。该方案根据终端的传输冲突以及解码冲突提出了新型的IDNC框架，并且基于此框架构建一层IDNC 图以及二层IDNC图，满足终端需求并且优化终端不需要的数据包。综合考虑传输方案，选择最佳的传输方案满足终端用户的个性化需求。仿真结果表明，本文提出的方案综合考虑了各种因素，有效降低了完成时间、解码时延以及重传次数，为数据包提供未来解码机会，为降低PC-D2D时延以及满足终端用户个性化需求提供了解决方案。下一步将不在以终端需求的差异化作为主要因素，而是针对终端的处理能力、剩余能量、带宽等差异化因素研究来优化网络的性能。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "35(S) 30 25 11 ← CTABC CRTD201510 1510 15202530数据包数量",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e812fc2008928bb5ce2c07880ee93c1c08e915221582c0da22cc98059aa2001.jpg",
+        "img_caption": [
+            "Fig.8 Performance comparison of average retransmission times as network connectivity ",
+            "图11平均解码时延随着终端设备的数量变化的性能对比",
+            "图12平均解码时延随着数据包数量变化的性能对比",
+            "Fig.1lPerformance comparison ol average decoding delay with number of terminal devices ",
+            "ig.12Performance comparison of average decoding delay with number of packets "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Gao C,YongL,Zhao Y,et al.A Two-Level Game Theory Approach for Joint Relay Selection and Resource Allocation in Network Coding Assisted D2D Communications [J].IEEE Transactions on Mobile Computing,2017,16 (10): 2697-2711.   \n[2]Ahlswede R,Cai N,Li Y,et al. Network information flow [J].IEEE Transactions on Information Theory,2000,4(46):1204-1216.   \n[3]Denis J,Seferoglu H. Optimal Network Coding Policy for Joint Cellular and Intermittently Connected D2D Networking [C]// GLOBECOM 2020-2020 IEEE Global Communications Conference.IEEE,2020:1-6.   \n[4]Al-Abiad M S,Hossain MJ.A Low-Complexity Multicast Scheduling for D2D-Aided F-RANs Using Network Coding [J].IEEE Wireless Communications Letters,2021,10 (11): 2484-2488.   \n[5]Ahmed D,Sameh S,Tareq Y,et al. Decoding delay controlled completion time reduction in instantly decodable network coding [J].IEEE Transactions on Vehicular Technology,2017,66 (3): 80-96.   \n[6]Doulk A,Sorour S.Data dissemination using instantly decodable binary codes in fog-radio access networks [C]. Proceeding of 2017 IEEE Wireless Communications and Mobile Computing Conference. Valencia: IEEE,2017:604-609.   \n[7]Keshtkarjahromi Y, Seferoglu H,Ansari R,et al. Device-to-device networking meets cellular via network coding [J].IEEE/ACM Transactions on Networking,2018,26 (1):370-383.   \n[8]牛腾，张冬梅，许魁，等．基于D2D 的无线多媒体网络编码广播重 传策略[J].中国科学：信息科学,2018,48(2):205-220.(Niu Teng, Zhang Dongmei,Xu Kui,et al.D2D-based wireless multimedia network coding broadcast retransmission strategy [J]. Science in China: Information Science,2018,48 (2): 205-220.)   \n[9] 王鹏飞，张冬梅，许魁，等．联合蜂窝与 D2D 链路的网络编码广播 重传方案[J].信号处理,2018,34(6):652-660.(Wang Pengfei,Zhang Dongmei,Xu Kui,et al. Network coding broadcast retransmission scheme of joint cellular and D2D link [J]. Signal Processing,2018,34 (6): 652-660.)   \n[10l Mei Z.Zhou X.Maximum Decoding Clique based Maximum Weight ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Vertex Search Algorithm for Buffered Instantly Decodable Network Codes [J].IEEE Communications Letters,2021.   \n[11]A.Douik et al.，“Completion time reduction in instantly decodable network coding through decoding delay control,\"in Proc.ofIEEE Global Telec.Conf,Austin,Texas,USA,Dec.2014,pp.5008-5013.   \n[12] M.S.Al-Abiad et al.,“Coalition formation game for cooperative content delivery in network coding assisted D2D communications,\"in IEEE Access,vol.8,pp.158152-158168,Aug.2020.   \n[13] Arefi A,Khabbazian M.Packet Loss Recovery in Broadcast for RealTime Applications in Dense Wireless Networks[J]. IEEE Open Journal of the Computer Society,2021,2:3-13.   \n[14]王练，王萌，任治豪，等.D2D网络中基于立即可解网络编码的时延 最小化重传方案[J]．电子与信息学报，2018,40(7):1691-1698. (WangLian,WangMeng,Ren Zhihao,et al.Time delay minimization retransmission scheme based on immediate solvable network coding in D2D network[J].Electronics and Information,2018,40(7): 1691-1698.)   \n[15]Douik A,Tareq Y,Naffouri A.Delay reduction in multi-hop device-todevice communication using network coding[J].IEEE Transcations on Wireless Communications,2018,10 (17): 60-74.   \n[16] Ahmed Douik,Sameh Sorour,et al.Data Dissemination Using Instantly Decodable Binary Codes in Fog-Radio Access Networks [J].IEEE Transactions on Industrial Informatics,2018.   \n[17]Ahmed Douik,Mohammed S.Al-Abiad,et al.An Improved Weight DesignforUnwanted Packets inMulticast InstantlyDecodableNetwork Coding [J].IEEE Communication letters,2019. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

@@ -1,0 +1,613 @@
+[
+    {
+        "type": "text",
+        "text": "An extension of two-Higgs-doublet model and the excesses of 750 GeV diphoton, muon g-2 and $h \\to \\mu \\tau$ ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xiao-Fang Han $\\cdot ^ { 1 }$ ， Lei Wang $^ { \\cdot 2 , 1 }$ ， Jin Min Yang $^ { 3 , 4 }$ （2  \n（204号 $^ { 1 }$ Department of Physics， Yantai University， Yantai 264005, P. R. China2 IFIC, Universitat de Valencia-CSIC,Apt. Correus 22085， E-46071 Valencia， Spain  \n$^ 3$ Institute of Theoretical Physics, Academia Sinica, Beijing 100190, China（204 $^ 4$ Department of Physics， Tohoku University， Sendai 980-8578， Japan",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this paper we simultaneously explain the excesses of the 750 GeV diphoton, muon g-2 and $h $ （204号 $\\mu \\tau$ in an extension of the two-Higgs-doublet model (2HDM) with additional vector-like fermions and a CP-odd scalar singlet ( $P$ ）which is identified as the 750 GeV resonance. This 750 GeV resonance has a mixing with the CP-odd scalar ( $A$ ） in 2HDM,which leads to a coupling between $P$ （20 and the SM particles as wellas a coupling between $A$ and the vector-like fermions. Such a mixing and couplings are strongly constrained by $\\tau \\to \\mu \\gamma$ , muon g-2 and the 750 GeV diphoton data. We scan over the parameter space and find that such an extension can simultaneously account for the observed excesses of 750 GeV diphoton, muon g-2 and $h \\to \\mu \\tau$ . The 750 GeV resonance decays in exotic modes, such as $P  h A$ ， $P \\to H Z$ ， $P  H A$ and $P  W ^ { \\pm } H ^ { \\mp }$ ，and its width can be dozens of GeV and is sensitive to the mixing angle. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers:12.60.Fr,14.80.Ec,14.80.Bn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Very recently, the ATLAS and CMS collaborations have both reported an excess of 750 GeV diphoton resonance [1], with a local significance of $3 . 6 \\sigma$ and $2 . 6 \\sigma$ respectively. Combining the 8 and 13 TeV data, the production cross section times the branching ratio is around 4.47±1.86 fb for CMS and 10.6 $\\pm$ 2.9 fb for ATLAS [2]. However, there are no excesses for dijet [3], $t \\bar { t }$ [4], diboson or dilepton channels, which gives a challenge to possible new physics explanations of the 750 GeV diphoton resonance [2, 5-13]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In addition， the CMS has reported a $2 . 4 \\sigma$ excess in the lepton-flavor-violating (LFV) Higgs decay $h \\to \\mu \\tau$ (here $h$ is the125 GeVS-likeHgs),, $B r ( h \\to \\mu \\tau ) = ( 0 . 8 4 _ { - 0 . 3 7 } ^ { + 0 . 3 9 } ) \\%$ [14], while the ATLAS data is $B r ( h  \\mu \\tau ) = ( 0 . 7 \\pm 0 . 6 2 ) \\%$ [15]. This excess can be explained in the general two-Higgs-doublet model (2HDM) with LFV Higgs interactions. Also such a model can give a sizable positive contribution to the muon anomalous magnetic moment (muon g-2) and accommodate the long-standing anomaly [16-18]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Attempting to simultaneously explain the excesses of 750 GeV diphoton, $h  \\mu \\tau$ and muon g-2， we in this work introduce additional vector-like fermions and a CP-odd scalar singlet ( $P$ ）to the general 2HDM. The singlet $P$ is identified as the 750 GeV resonance, which has a mixing with the CP-odd scalar $( A )$ in the original 2HDM. Therefore, the model can lead to the $P$ couplings to SM particles and the $A$ couplings to vector-like fermions. In addition to the 125 GeV Higgs and 750 GeV resonance data, the LFV Higgs decay （20 $\\tau \\to \\mu \\gamma$ can give strong constraints on the couplings and mixing. The dominant decays of the 750 GeV resonance can be some exotic modes, such as $P  h A$ ， $P  H A$ ， $P \\to H Z$ （20 and $P  W ^ { \\pm } H ^ { \\mp }$ . Considering various relevant experimental constraints, we examine the diphoton production and decay of the 750 GeV resonance, as well as muon g-2 and $h \\to \\mu \\tau$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Our work is organized as follows. In Sec. II we introduce additional vector-like fermions and a CP-odd scalar singlet to the 2HDM. In Sec. III we perform numerical calculations and discuss the muon g-2, $h \\to \\mu \\tau$ and the diphoton production and decay of the 750 GeV resonance in the allowed parameter space. Finally, we give our conclusion in Sec. IV. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "II. MODEL ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We introduce a CP-odd scalar singlet field $P _ { 0 }$ to the general 2HDM with the assumption that $P _ { 0 }$ does not develop a vacuum expectation value (VEV). The Higgs potential is given by [18, 19] ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { V } = \\mathrm { V } _ { 2 H D M } + { \\frac { 1 } { 2 } } m _ { P _ { 0 } } ^ { 2 } P _ { 0 } ^ { 2 } + { \\frac { \\lambda _ { P _ { 0 } } } { 4 } } P _ { 0 } ^ { 4 } - i \\mu P _ { 0 } \\Phi _ { 1 } ^ { \\dagger } \\Phi _ { 2 } + h . c . ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "with ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\mathrm { V } _ { 2 H D M } \\ = \\ \\mu _ { 1 } ( \\Phi _ { 1 } ^ { \\dagger } \\Phi _ { 1 } ) + \\mu _ { 2 } ( \\Phi _ { 2 } ^ { \\dagger } \\Phi _ { 2 } ) + \\Big [ \\mu _ { 3 } \\Phi _ { 1 } ^ { \\dagger } \\Phi _ { 2 } + \\mathrm { h . c . } \\Big ] } } \\\\ { { \\ \\qquad + \\lambda _ { 1 } ( \\Phi _ { 1 } ^ { \\dagger } \\Phi _ { 1 } ) ^ { 2 } + \\lambda _ { 2 } ( \\Phi _ { 2 } ^ { \\dagger } \\Phi _ { 2 } ) ^ { 2 } + \\lambda _ { 3 } ( \\Phi _ { 1 } ^ { \\dagger } \\Phi _ { 1 } ) ( \\Phi _ { 2 } ^ { \\dagger } \\Phi _ { 2 } ) + \\lambda _ { 4 } ( \\Phi _ { 1 } ^ { \\dagger } \\Phi _ { 2 } ) ( \\Phi _ { 2 } ^ { \\dagger } \\Phi _ { 1 } ) } } \\\\ { { \\ \\qquad + \\left[ \\lambda _ { 5 } ( \\Phi _ { 1 } ^ { \\dagger } \\Phi _ { 2 } ) ^ { 2 } + \\mathrm { h . c . } \\right] + \\Big [ \\lambda _ { 6 } ( \\Phi _ { 1 } ^ { \\dagger } \\Phi _ { 1 } ) ( \\Phi _ { 1 } ^ { \\dagger } \\Phi _ { 2 } ) + \\mathrm { h . c . } \\Big ] } } \\\\ { { \\ \\qquad + \\left[ \\lambda _ { 7 } ( \\Phi _ { 2 } ^ { \\dagger } \\Phi _ { 2 } ) ( \\Phi _ { 1 } ^ { \\dagger } \\Phi _ { 2 } ) + \\mathrm { h . c . } \\right] . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the Higgs basis, the $\\Phi _ { 1 }$ field has a VEV v =246 GeV, and the VEV of $\\Phi _ { 2 }$ field is zero. The two complex scalar doublets with hypercharge $Y = 1$ can be expressed as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Phi _ { 1 } = \\left( \\begin{array} { c c } { { G ^ { + } } } \\\\ { { \\frac { 1 } { \\sqrt { 2 } } \\left( v + \\rho _ { 1 } + i G _ { 0 } \\right) } } \\end{array} \\right) , \\quad \\Phi _ { 2 } = \\left( \\begin{array} { c c } { { H ^ { + } } } \\\\ { { \\frac { 1 } { \\sqrt { 2 } } \\left( \\rho _ { 2 } + i A _ { 0 } \\right) } } \\end{array} \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Nambu-Goldstone bosons $G ^ { 0 }$ and $G ^ { + }$ are eaten by the gauge bosons. The physical CP-even Higgs bosons $h$ and $H$ are the linear combinations of $\\rho _ { 1 }$ and $\\rho _ { 2 }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } { \\left( \\begin{array} { c } { \\rho _ { 1 } } \\\\ { \\rho _ { 2 } } \\end{array} \\right) } & { = } & { \\left( \\begin{array} { c c } { \\cos \\alpha } & { \\sin \\alpha } \\\\ { - \\sin \\alpha } & { \\cos \\alpha } \\end{array} \\right) \\left( \\begin{array} { c } { h } \\\\ { H } \\end{array} \\right) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where tan $2 \\alpha = 2 \\lambda _ { 6 } v ^ { 2 } / ( m _ { h 2 2 } ^ { 2 } - m _ { h 1 1 } ^ { 2 } )$ with ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { h 1 1 } ^ { 2 } = 2 \\lambda _ { 1 } v ^ { 2 } , \\qquad m _ { h 2 2 } ^ { 2 } = m _ { H ^ { \\pm } } ^ { 2 } + v ^ { 2 } \\bigl ( { \\frac { 1 } { 2 } } \\lambda _ { 4 } + \\lambda _ { 5 } \\bigr ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The masses of two CP-even Higgs bosons are given as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { h , H } ^ { 2 } = { \\frac { 1 } { 2 } } \\left[ m _ { h 1 1 } ^ { 2 } + m _ { h 2 2 } ^ { 2 } \\mp \\sqrt { ( m _ { h 1 1 } ^ { 2 } - m _ { h 2 2 } ^ { 2 } ) ^ { 2 } + 4 \\lambda _ { 6 } ^ { 2 } v ^ { 4 } } \\right] .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The field $H ^ { + }$ is the mass eigenstate of the charged Higgs boson, and the CP-odd Higgs field $A _ { 0 }$ has a mixing with $P _ { 0 }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\left( \\begin{array} { l } { A _ { 0 } } \\\\ { P _ { 0 } } \\end{array} \\right) } & { = } & { \\left( \\begin{array} { l l } { \\cos \\theta } & { - \\sin \\theta } \\\\ { \\sin \\theta } & { \\ \\cos \\theta } \\end{array} \\right) \\left( \\begin{array} { l } { A } \\\\ { P } \\end{array} \\right) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where tan $2 \\theta = 2 \\mu v / ( m _ { A _ { 0 } } ^ { 2 } - m _ { P _ { 0 } } ^ { 2 } )$ with ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { A _ { 0 } } ^ { 2 } = m _ { H ^ { \\pm } } ^ { 2 } + v ^ { 2 } ( \\frac 1 2 \\lambda _ { 4 } - \\lambda _ { 5 } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The masses of two CP-odd scalars are given as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { A , P } ^ { 2 } = \\frac { 1 } { 2 } \\left[ m _ { A _ { 0 } } ^ { 2 } + m _ { P _ { 0 } } ^ { 2 } \\mp \\sqrt { ( m _ { A _ { 0 } } ^ { 2 } - m _ { P _ { 0 } } ^ { 2 } ) ^ { 2 } + 4 \\mu ^ { 2 } v ^ { 2 } } \\right] .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The 750 GeV Higgs boson $P$ couplings to other Higgs bosons and gauge bosons as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { P A h : c _ { \\theta } s _ { \\theta } v \\left[ ( \\lambda _ { 3 } + \\lambda _ { 4 } - 2 \\lambda _ { 5 } ) c _ { \\alpha } - \\lambda _ { 7 } s _ { \\alpha } \\right] - \\displaystyle \\frac { 1 } { 4 v } ( m _ { A } ^ { 2 } - m _ { P } ^ { 2 } ) s _ { 4 \\theta } c _ { \\alpha } , } } \\\\ { { P A H : c _ { \\theta } s _ { \\theta } v \\left[ ( \\lambda _ { 3 } + \\lambda _ { 4 } - 2 \\lambda _ { 5 } ) s _ { \\alpha } + \\lambda _ { 7 } c _ { \\alpha } \\right] - \\displaystyle \\frac { 1 } { 4 v } ( m _ { A } ^ { 2 } - m _ { P } ^ { 2 } ) s _ { 4 \\theta } s _ { \\alpha } , } } \\\\ { { P h Z : - \\displaystyle \\frac { e } { 2 s _ { W } c _ { W } } s _ { \\alpha } s _ { \\theta } ( p _ { 1 } - p _ { 2 } ) ^ { \\mu } , } } \\\\ { { P H Z : \\displaystyle \\frac { e } { 2 s _ { W } c _ { W } } c _ { \\alpha } s _ { \\theta } ( p _ { 1 } - p _ { 2 } ) ^ { \\mu } , } } \\\\ { { P H ^ { \\perp } W ^ { \\perp } : \\displaystyle \\frac { e } { 2 s _ { W } } s _ { \\theta } ( p _ { 2 } - p _ { 1 } ) ^ { \\mu } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The general Yukawa interactions of the SM fermions are given by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { - { \\mathcal { L } } = y _ { u } { \\overline { { { Q } } } _ { L } } { \\tilde { \\Phi } _ { 1 } } u _ { R } + y _ { d } { \\overline { { { Q } } } _ { L } } \\Phi _ { 1 } d _ { R } + y _ { \\ell } { \\overline { { { L } } } _ { L } } \\Phi _ { 1 } e _ { R } } } \\\\ { { } } & { { } } \\\\ { { + \\rho ^ { u } { \\overline { { { Q } } } _ { L } } { \\tilde { \\Phi } _ { 2 } } u _ { R } + \\rho ^ { d } { \\overline { { { Q } } } _ { L } } \\Phi _ { 2 } d _ { R } + \\rho ^ { \\ell } { \\overline { { { L } } } _ { L } } \\Phi _ { 2 } e _ { R } + \\mathrm { h . c . } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $Q _ { L } ^ { I ^ { \\prime } } = ( u _ { L } , d _ { L } )$ ， $L _ { L } ^ { T } = \\left( \\nu _ { L } , l _ { L } \\right)$ ， $\\bar { \\Phi } _ { 1 , 2 } = i \\tau _ { 2 } \\Phi _ { 1 , 2 } ^ { * }$ ，and $y _ { u }$ ， $y _ { d }$ ， $y _ { \\ell }$ ， $\\rho ^ { u }$ ， $\\rho ^ { d }$ and $\\rho ^ { \\ell }$ are $3 \\times 3$ matrices in family space. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Also，we introduce a singlet quark with $\\frac { 2 } { 3 }$ electric charge and multiple singlet leptons. The Yukawa interactions of vector-like fermions are written as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- { \\mathcal L } = m _ { T } \\bar { T } T + i y _ { T } P _ { 0 } \\bar { T } \\gamma _ { 5 } T + \\sum _ { i } \\left( m _ { L i } \\bar { L _ { i } } L _ { i } + i y _ { L i } P _ { 0 } \\bar { L _ { i } } \\gamma _ { 5 } L _ { i } \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Then we obtain the Yukawa couplings of the neutral Higgs bosons: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l l } { { \\displaystyle y _ { h i j } = \\frac { m _ { i } ^ { f } } { v } c _ { \\alpha } \\delta _ { i j } - \\frac { \\rho _ { i j } ^ { f } } { \\sqrt { 2 } } s _ { \\alpha } , } } & { { ~ y _ { H i j } = \\frac { m _ { i } ^ { f } } { v } s _ { \\alpha } \\delta _ { i j } + \\frac { \\rho _ { i j } ^ { f } } { \\sqrt { 2 } } c _ { \\alpha } , } } \\\\ { { \\displaystyle y _ { A i j } = - i \\frac { \\rho _ { i j } ^ { f } } { \\sqrt { 2 } } c _ { \\theta } \\left( \\mathrm { f o r ~ u } \\right) , } } & { { ~ y _ { A i j } = i \\frac { \\rho _ { i j } ^ { f } } { \\sqrt { 2 } } c _ { \\theta } \\left( \\mathrm { f o r ~ d } , \\ell \\right) } , } \\\\ { { \\displaystyle y _ { P i j } = i \\frac { \\rho _ { i j } ^ { f } } { \\sqrt { 2 } } s _ { \\theta } \\left( \\mathrm { f o r ~ u } \\right) , } } & { { ~ y _ { P i j } = - i \\frac { \\rho _ { i j } ^ { f } } { \\sqrt { 2 } } s _ { \\theta } \\left( \\mathrm { f o r ~ d } , \\ell \\right) } , } \\\\ { { \\displaystyle y _ { A T C } = i y _ { T } s _ { \\theta } } , } & { { ~ y _ { A L i . L } = i y _ { L i } s _ { \\theta } } , } \\\\ { { \\displaystyle y _ { P T T } = i y _ { T C } } , } & { { ~ y _ { P L i . L } = i y _ { L i } c _ { \\theta } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For the diagonal matrix elements of $\\rho ^ { u }$ ， $\\rho ^ { d }$ and $\\rho ^ { \\ell }$ ，we take ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho _ { i i } ^ { u } = \\frac { \\sqrt { 2 } m _ { i } ^ { u } } { v } \\kappa _ { u } , \\rho _ { i i } ^ { d } = \\frac { \\sqrt { 2 } m _ { i } ^ { d } } { v } \\kappa _ { d } , \\rho _ { i i } ^ { \\ell } = \\frac { \\sqrt { 2 } m _ { i } ^ { \\ell } } { v } \\kappa _ { \\ell } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "which corresponds to the aligned 2HDM [20]. We assume that $\\rho _ { \\mu \\tau } ^ { \\ell }$ and $\\rho _ { \\tau \\mu } ^ { \\ell }$ are nonzero,and other nondiagonal matrix elements of $\\rho ^ { u }$ ， $\\rho ^ { d }$ and $\\rho ^ { \\ell }$ are zero. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The vector-like quark is introduced to make the 750 GeV Higgs singlet to be produced via the gluon-gluon fusion process. However, the vector-like quark can also enhance the cross section of $g g  A$ ，which will be constrained by the experimental data from the ATLAS and CMS searches. Therefore,we expect that the vector-like leptons play the main role in enhancing the 750 GeV diphoton production rate. The decay $P \\to \\gamma \\gamma$ can be enhanced by the vector-like leptons,and its amplitude is proportional to the couplings and the square of electric charge. Here we do not discuss the electric charge and coupling of every vector-like lepton as well as the quantity of vector-like leptons in detail; instead we focus on the total contribution of vector-like leptons,which depends on ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { L } = \\sum _ { i } y _ { L i } Q _ { L i } ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $L _ { i }$ denotes the $i$ -th vector-like lepton. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "III. NUMERICAL CALCULATIONS AND DISCUSSIONS ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A.Numerical calculations ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In our calculations, we scan over the parameters in the following range ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } & { - 0 . 0 6 < s _ { \\alpha } < 0 . 0 6 , } & { - 0 . 3 < s _ { \\theta } < 0 . 3 , } \\\\ & { 0 . 0 5 < \\rho _ { \\mu \\tau } = \\rho _ { \\tau \\mu } < 1 , } & { - 5 0 < \\kappa _ { \\ell } < 5 0 , } \\\\ & { 0 < Y _ { L } < 5 0 , } & { 0 < \\lambda _ { 3 } , \\ \\lambda _ { 7 } < 4 \\pi , } \\\\ & { 2 0 0 \\ \\mathrm { G e V } < m _ { H } < 4 5 0 \\ \\mathrm { G e V } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and fix ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { { m _ { h } = 1 2 5 . 5 ~ \\mathrm { G e V } } } & { { m _ { P } = 7 5 0 ~ \\mathrm { G e V } , m _ { H ^ { \\pm } } = m _ { A } = 5 0 0 ~ \\mathrm { G e V } , } } \\\\ { { m _ { L i } = 4 0 0 ~ \\mathrm { G e V } , } } & { { m _ { T } = 7 0 0 ~ \\mathrm { G e V } , y _ { T } = 2 . 0 , } } \\\\ { { \\kappa _ { u } = \\kappa _ { d } = 0 . } } & { { } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "During the scan, we consider the following experimental constraints and observables: ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1） Precision electroweak data. According to the expressions for the oblique parameters $S$ ， $T$ and $U$ in the 2HDM [21], for $- 0 . 0 6 < s _ { \\alpha } < 0 . 0 6$ and $c _ { \\alpha } \\simeq 1$ , the expressions in this model are approximately given as ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { S = \\frac { 1 } { \\pi m _ { \\perp } ^ { 2 } } \\left[ e _ { \\alpha } ^ { 2 } e _ { 5 } ^ { 2 } F _ { 5 } ( m _ { 2 } ^ { 2 } , m _ { \\tilde { I } } ^ { 2 } , m _ { \\lambda } ^ { 2 } ) + e _ { \\alpha } ^ { 2 } s _ { 6 } ^ { 2 } F _ { 5 } ( m _ { 2 } ^ { 2 } , m _ { \\tilde { I } } ^ { 2 } , m _ { \\tilde { I } } ^ { 2 } ) - F _ { 5 } ( m _ { 2 } ^ { 2 } , m _ { \\tilde { I } } ^ { 2 } + m _ { \\tilde { I } } ^ { 2 } ) \\right] } \\\\ { T = \\frac { 1 } { 1 6 \\pi m _ { \\perp } ^ { 2 } \\nu _ { \\tilde { S } } ^ { 2 } } \\left[ - c _ { \\alpha } ^ { 2 } e _ { 5 } ^ { 2 } F _ { 1 } ( m _ { \\tilde { I } } ^ { 2 } , m _ { \\tilde { A } } ^ { 2 } ) - c _ { \\alpha } ^ { 2 } e _ { 6 } ^ { 2 } F _ { 7 } ( m _ { \\tilde { I } } ^ { 2 } , m _ { \\tilde { I } } ^ { 2 } ) + c _ { \\alpha } ^ { 2 } F _ { 4 } ( m _ { \\tilde { I } } ^ { 2 } , m _ { \\tilde { I } } ^ { 2 } ) \\right] } \\\\ & { \\quad + c _ { \\tilde { \\phi } } ^ { 2 } F _ { 7 } ( m _ { \\tilde { I } } ^ { 2 } , m _ { \\tilde { A } } ^ { 2 } ) + s _ { \\beta } ^ { 2 } F _ { 7 } ( m _ { \\tilde { I } } ^ { 2 } , m _ { \\tilde { P } } ^ { 2 } ) \\right] , } \\\\ { U = \\frac { 1 } { \\pi m _ { \\perp } ^ { 2 } } \\left[ c _ { \\alpha } ^ { 2 } F _ { 5 } ( m _ { \\tilde { I } } ^ { 2 } , m _ { \\tilde { I } } ^ { 2 } , m _ { \\tilde { I } } ^ { 2 } ) - 2 F _ { 5 } ( m _ { \\tilde { I } } ^ { 2 } , m _ { \\tilde { I } } ^ { 2 } , m _ { \\tilde { I } } ^ { 2 } ) \\right. } \\\\ & { \\left. + c _ { \\tilde { \\phi } } ^ { 2 } F _ { 5 } ( m _ { \\tilde { W } } ^ { 2 } , m _ { \\tilde { W } } ^ { 2 } ) + s _ { \\tilde { \\phi } } ^ { 2 } F _ { 5 } ( m _ { \\tilde { W } } ^ { 2 } , m _ { \\tilde { W } } ^ { 2 } , m _ { \\tilde { P } } ^ { 2 } ) \\right] } \\\\ &  \\quad - \\frac { 1 } { \\pi m _ { \\chi } ^ { 2 } } \\left[ c _ { \\alpha } ^ { 2 } c _ { \\beta } ^ { 2 } F _ { 5 } ( m _ { \\tilde { Z } } ^ { 2 } , m _ { \\tilde { W } } ^ { 2 } , m _  \\tilde { W }  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { T } ( a , b ) = \\frac { 1 } { 2 } ( a + b ) - \\frac { a b } { a - b } \\log ( \\frac { a } { b } ) , F _ { S } ( a , b , c ) = B _ { 2 2 } ( a , b , c ) - B _ { 2 2 } ( 0 , b , c )\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "with ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle { B _ { 2 2 } ( a , b , c ) = \\frac { 1 } { 4 } \\bigg [ b + c - \\frac { 1 } { 3 } a \\bigg ] - \\frac { 1 } { 2 } \\int _ { 0 } ^ { 1 } d x ~ X \\log ( X - i \\epsilon ) , } } \\\\ { \\displaystyle { X = b x + c ( 1 - x ) - a x ( 1 - x ) . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Here we require [22] ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS = - 0 . 0 3 \\pm 0 . 1 , \\quad T = 0 . 0 1 \\pm 0 . 1 2 , \\quad U = 0 . 0 5 \\pm 0 . 1\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2） The 125 GeV Higgs data. For $- 0 . 0 6 < s _ { \\alpha } < 0 . 0 6$ ， $\\kappa _ { u } = \\kappa _ { d } = 0$ and $- 5 0 < \\kappa _ { \\ell } < 5 0$ ， the 125 GeV Higgs couplings to the gauge bosons, up-type quark and down-type quark are very close to the SM values,but the coupling to $\\bar { \\tau } \\tau$ can have a sizable deviation from the SM value. The signal strength of $\\bar { \\tau } \\tau$ channel is $\\hat { \\mu } _ { \\tau \\tau } = 1 . 4 1 _ { - 0 . 3 5 } ^ { + 0 . 4 }$ from ATLAS [23] and $\\hat { \\mu } _ { \\tau \\tau } = 0 . 8 9 _ { - 0 . 2 8 } ^ { + 0 . 3 1 }$ from CMS [24]. We require $0 . 3 3 < \\hat { \\mu } _ { \\tau \\tau } < 2 . 2 1$ and such a bound will give strong constrains on $s _ { \\alpha }$ and $\\kappa _ { \\ell }$ for which the absolute value of the coupling of the 125 GeV Higgs and $\\tau \\tau$ is around the SM value. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3） Non-observation of additional Higgs bosons. For $- 0 . 0 6 < s _ { \\alpha } < 0 . 0 6$ and $\\kappa _ { u } = \\kappa _ { d } = 0$ ， the cross sections of $H$ and $H ^ { \\pm }$ at the collider are very small, and hence $H$ and $H ^ { \\pm }$ can be hardly constrained by the current experimental data from the ATLAS and CMS searches. The pseudoscalar $A$ can be produced via the gluon-gluon fusion process with vector-like quark loop, and the decay $A \\to \\gamma \\gamma$ ， $A  \\gamma Z$ and $A  Z Z$ can be enhanced by the vector-like quark and leptons at one-loop level. For $m _ { A } = 5 0 0$ GeV,we impose the following relevant bounds at the 8 TeV LHC [25-29] ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\gamma \\gamma } < 6 ~ \\mathrm { f b } , \\quad R _ { Z Z } < 4 5 ~ \\mathrm { f b } , \\quad R _ { Z \\gamma } < 6 . 8 ~ \\mathrm { f b } , \\quad R _ { h Z } < 6 0 ~ \\mathrm { f b } , \\quad R _ { \\bar { \\tau } \\tau } < 2 6 ~ \\mathrm { f b } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(4) The 750 GeV resonance data. The 750 GeV Higgs singlet $P$ can be produced via the gluon-gluon fusion process with vector-like quark loop, and the decays $A \\to \\gamma \\gamma$ ， $A  \\gamma Z$ and $A  Z Z$ can be enhanced by the vector-like quark and leptons at oneloop level. Due to the mixing with $A$ ， the 750 GeV singlet can decay into the SM particles, such as $h Z$ and $\\bar { \\tau } \\tau$ . For the 750 GeV Higgs singlet, we impose the following bounds at the 8 TeV LHC [25-29] ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\gamma \\gamma } < 2 ~ \\mathrm { f b } , \\quad R _ { Z Z } < 1 2 ~ \\mathrm { f b } , \\quad R _ { Z \\gamma } < 4 ~ \\mathrm { f b } , \\quad R _ { h Z } < 1 9 ~ \\mathrm { f b } , \\quad R _ { \\bar { \\tau } \\tau } < 1 2 ~ \\mathrm { f b } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "At the 13 TeV LHC, we require the 750 GeV diphoton production rate as ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n2 \\mathrm { \\ f b } < R _ { \\gamma \\gamma } < 1 0 \\mathrm { \\ f b } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(5) The data of ] $\\operatorname { 3 r } ( h \\to \\mu \\tau )$ . The branching ratio of $h \\to \\mu \\tau$ is given by ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB r ( h  \\mu \\tau ) = \\frac { s _ { \\alpha } ^ { 2 } ( \\rho _ { \\mu \\tau } ^ { 2 } + \\rho _ { \\tau \\mu } ^ { 2 } ) m _ { h } } { 1 6 \\pi \\Gamma _ { h } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $\\Gamma _ { h }$ is the total width of 125 GeV Higgs. To explain the $h \\to \\mu \\tau$ excess reported by CMS within $2 \\sigma$ range, we require ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 . 1 \\% < B r ( h  \\mu \\tau ) < 1 . 6 2 \\% .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(6) The muon g-2 data. The dominant contributions to the muon g-2 are from the one-loop diagrams with the Higgs LFV coupling [30], ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\delta a _ { \\mu 1 } = \\frac { m _ { \\mu } m _ { \\tau } \\rho _ { \\mu \\tau } \\rho _ { \\tau \\mu } } { 1 6 \\pi ^ { 2 } } \\Bigg [ \\frac { s _ { \\alpha } ^ { 2 } ( \\log \\frac { m _ { h } ^ { 2 } } { m _ { \\tau } ^ { 2 } } - \\frac 3 2 ) } { m _ { h } ^ { 2 } } + \\frac { c _ { \\alpha } ^ { 2 } ( \\log \\frac { m _ { H } ^ { 2 } } { m _ { \\tau } ^ { 2 } } - \\frac 3 2 ) } { m _ { H } ^ { 2 } } } & { } \\\\ { - \\frac { c _ { \\theta } ^ { 2 } \\log ( \\frac { m _ { A } ^ { 2 } } { m _ { \\tau } ^ { 2 } } - \\frac 3 2 ) } { m _ { A } ^ { 2 } } - \\frac { s _ { \\theta } ^ { 2 } \\log ( \\frac { m _ { P } ^ { 2 } } { m _ { \\tau } ^ { 2 } } - \\frac 3 2 ) } { m _ { P } ^ { 2 } } \\Bigg ] . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The muon g-2 can be also corrected by the two-loop Barr-Zee diagrams with the fermions loops, $W$ and Goldstone loops. Using the wel-known classical formulates [31], the main contributions of two-loop Barr-Zee diagrams in this model are given as ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\delta a _ { \\mu 2 } = - { \\displaystyle \\frac { \\alpha m _ { \\mu } } { 4 \\pi ^ { 3 } m _ { f } } } \\displaystyle \\sum _ { \\phi = h , H , A , P ; f = t , b , \\tau , T , L _ { i } } N _ { f } ^ { c } { \\cal Q } _ { f } ^ { 2 } \\ y _ { \\phi \\mu \\mu } \\ y _ { \\phi f f } \\ F _ { \\phi } ( x _ { f \\phi } ) } } \\\\ { { \\displaystyle ~ + { \\displaystyle \\frac { \\alpha m _ { \\mu } } { 8 \\pi ^ { 3 } v } } \\displaystyle \\sum _ { \\phi = h , H } y _ { \\phi \\mu \\mu } \\ g _ { \\phi W W } \\left[ 3 F _ { H } \\left( x _ { W \\phi } \\right) + { \\displaystyle \\frac { 2 3 } { 4 } } F _ { A } \\left( x _ { W \\phi } \\right) \\right. } } \\\\ { { \\displaystyle ~ \\left. + { \\displaystyle \\frac { 3 } { 4 } } G \\left( x _ { W \\phi } \\right) + { \\displaystyle \\frac { m _ { \\phi } ^ { 2 } } { 2 m _ { W } ^ { 2 } } } \\left\\{ F _ { H } \\left( x _ { W \\phi } \\right) - F _ { A } \\left( x _ { W \\phi } \\right) \\right\\} \\right] } , }  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $x _ { f \\phi } = m _ { f } ^ { 2 } / m _ { \\phi } ^ { 2 }$ ， $x _ { W \\phi } = m _ { W } ^ { 2 } / m _ { \\phi } ^ { 2 }$ ， $g _ { H W W } = s _ { \\alpha }$ ， $g _ { h W W } = c _ { \\alpha }$ and ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle F _ { \\phi } ( y ) = F _ { H } ( y ) = \\frac { y } { 2 } \\int _ { 0 } ^ { 1 } d x \\frac { 1 - 2 x ( 1 - x ) } { x ( 1 - x ) - y } \\log \\frac { x ( 1 - x ) } { y } ~ ( \\mathrm { f o r } ~ \\phi = h , ~ H ) } } \\\\ { { \\displaystyle F _ { \\phi } ( y ) = F _ { A } ( y ) = \\frac { y } { 2 } \\int _ { 0 } ^ { 1 } d x \\frac { 1 } { x ( 1 - x ) - y } \\log \\frac { x ( 1 - x ) } { y } ~ ( \\mathrm { f o r } ~ \\phi = A , ~ P ) } } \\\\ { { \\displaystyle G ( y ) = - \\frac { y } { 2 } \\int _ { 0 } ^ { 1 } d x \\frac { 1 } { x ( 1 - x ) - y } \\left[ 1 - \\frac { y } { x ( 1 - x ) - y } \\log \\frac { x ( 1 - x ) } { y } \\right] . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The experimental value of muon g-2 excess is [32] ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta a _ { \\mu } = ( 2 6 . 2 \\pm 8 . 5 ) \\times 1 0 ^ { - 1 0 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(7) The data of $\\operatorname { B r } ( \\tau \\to \\mu \\gamma )$ . The LFV coupling of the Higgs boson gives the dominant contributions to the decay $\\tau \\to \\mu \\gamma$ . The branching ratio of $\\tau \\to \\mu \\gamma$ is given by ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { B R } ( \\tau  \\mu \\gamma ) } { \\mathrm { B R } ( \\tau  \\mu \\bar { \\nu } _ { \\mu } \\nu _ { \\tau } ) } = \\frac { 4 8 \\pi ^ { 3 } \\alpha ( | A _ { 1 L 0 } + A _ { 1 L c } + A _ { 2 L } | ^ { 2 } + | A _ { 1 R 0 } + A _ { 1 R c } + A _ { 2 R } | ^ { 2 } ) } { G _ { F } ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $A _ { 1 L 0 }$ ， $A _ { 1 L c }$ ， $A _ { 1 R 0 }$ and $A _ { 1 R c }$ are from the one-loop diagrams with the Higgs bosons and tau lepton [17], and ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { \\cal A } _ { 1 L 0 } = \\displaystyle \\sum _ { \\phi = h , ~ H , ~ A , ~ P } \\frac { y _ { \\phi ~ \\tau \\mu } ^ { * } } { 1 6 \\pi ^ { 2 } m _ { \\phi } ^ { 2 } } \\Biggl [ y _ { \\phi ~ \\tau \\tau } ^ { * } \\left( \\log \\displaystyle \\frac { m _ { \\phi } ^ { 2 } } { m _ { \\tau } ^ { 2 } } - \\frac { 3 } { 2 } \\right) + \\frac { y _ { \\phi ~ \\tau \\tau } } { 6 } \\Biggr ] , } } \\\\ { { { \\cal A } _ { 1 L c } = - \\frac { \\left( \\rho ^ { \\phi } \\rho ^ { e } \\right) ^ { \\mu \\tau } } { 1 9 2 \\pi ^ { 2 } m _ { H ^ { - } } ^ { 2 } } , } } \\\\ { { { \\cal A } _ { 1 R 0 } = { \\cal A } _ { 1 L 0 } \\left( y _ { \\phi ~ \\tau \\mu } ^ { * } \\right. y _ { \\phi ~ \\tau \\tau } , y _ { \\phi ~ \\tau \\tau } \\left. y _ { \\phi ~ \\tau \\tau } ^ { * } \\right) , } } \\\\ { { { \\cal A } _ { 1 R c } = 0 . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Here $A _ { 2 L }$ and $A _ { 2 R }$ are from the two-loop Barr-Zee diagrams with the third-generation fermions loops, vector-like fermions loops and $W$ loops [17]: ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { 4 a _ { 2 \\lambda } } & { = \\underset { \\phi = - \\sinh \\cosh \\cosh \\cosh \\cosh \\cosh } { \\sum } \\frac { N \\cosh \\cosh \\cosh } { \\cosh } \\frac { \\sqrt { \\cosh ^ { 2 } \\sinh ^ { 2 } \\sinh ^ { 2 } \\cosh } } { \\operatorname* { m i n } } [ Q _ { j }  \\cosh \\cosh \\cosh \\cosh \\cosh \\operatorname* { m i n } | \\hat { \\phi } _ { \\lambda } |   } \\\\ & {   + \\frac { \\mathrm { i } \\big [ - 4 \\sinh ^ { 2 } \\sinh ^ { 2 } \\cosh \\cosh \\cosh \\cosh \\big ] } { \\operatorname* { m i n } } \\{ \\mathrm { R e } \\{ \\log \\hat { \\phi } _ { \\lambda } \\} \\} [ \\mathrm { L h e } \\{ \\log \\hat { \\phi } _ { \\lambda } \\}       \\{ \\mathrm { L n } ( \\partial _ { \\Psi } \\langle \\Phi _ { \\lambda } , \\Phi _ { \\lambda } \\rangle ) - \\mathrm { i } \\mathrm { I m } \\{ \\partial _ { \\Psi } \\langle \\Phi _ { \\lambda } \\rangle \\}     } \\\\ & { + \\underset {     \\sum _ { \\phi = \\mu - \\pm \\neq \\neq \\neq \\neq \\neq \\neq \\neq \\neq \\neq \\neq \\neq \\ } } { \\operatorname* { m i n } } \\{ \\mathrm { 3 } \\hat { F } _ { \\partial _ { \\Psi } } (  \\partial _ { \\Psi } \\mathcal { R } _ { \\lambda } ) + \\frac { \\mathrm { i } \\sqrt { \\sinh ^ { 2 } \\hat { \\delta } _ { \\Psi } } } { \\big \\langle \\Phi _ { \\lambda }  }    } \\\\ & {    + \\frac { \\mathrm { i } \\sqrt { \\sinh ^ { 2 } \\operatorname* { m i n } } } { \\operatorname* { m i n } } \\} \\frac { \\partial } { \\partial x } \\{ \\mathrm { R e } (  \\partial _ { \\Psi } \\langle \\Phi _ { \\lambda } \\rangle ) - \\frac { \\mathrm { i } \\sqrt { \\sinh ^ { 2 } \\hat { \\delta } _ { \\Psi } } } { \\big \\langle \\Phi _ { \\lambda }  }   } \\\\ & { + \\frac { \\mathrm { i } } { 4 } \\hat { C } (  \\langle \\Phi _ { \\mu } \\rangle ) + \\frac { \\mathrm { i } \\sqrt { \\operatorname* { m i n } } } { \\operatorname* { m i n } } \\frac { \\partial } { \\partial x } \\{ \\mathrm { f o r } ( - \\mathrm { i } \\frac { \\mathrm { i } } { \\sqrt { \\pi } } ) - \\mathrm { i } \\frac { \\mathrm { i } } { \\sqrt { \\pi } } \\{ \\mathrm { R e } (  \\frac { \\mathrm { i } } { \\sqrt { \\pi } } ) + \\mathrm { i } \\frac { \\mathrm { i } } { \\sqrt { \\pi } } \\{ \\mathrm { R e } ( \\mathrm { i } ( \\Psi _ { \\lambda } \\times \\tau _ { \\mu } ) )   } \\\\ &    + ( \\ \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $T _ { 3 f }$ denotes the isospin of the fermion, $t _ { W } ^ { 2 } ~ = ~ s _ { W } ^ { 2 } / c _ { W } ^ { 2 }$ ， $x _ { f Z } \\ = \\ m _ { f } ^ { 2 } / m _ { Z } ^ { 2 }$ and （20 $x _ { W Z } = m _ { W } ^ { 2 } / m _ { Z } ^ { 2 }$ ，and ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\tilde { F } _ { H } ( x , y ) = \\displaystyle \\frac { x F _ { H } ( y ) - y F _ { H } ( x ) } { x - y } \\mathrm { , } } } \\\\ { { \\tilde { F } _ { A } ( x , y ) = \\displaystyle \\frac { x F _ { A } ( y ) - y F _ { A } ( x ) } { x - y } \\mathrm { . } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The terms in the first two lines of Eq. (38) come from the effective $\\phi \\gamma \\gamma$ vertex and （204号 $\\phi Z \\gamma$ vertex induced by the third-generation fermion loop and vector-like fermion loop. Other terms are from the effective $\\phi \\gamma \\gamma$ vertex and $\\phi Z \\gamma$ vertex induced by the W-boson loop. The current upper bound of $B r ( \\tau \\to \\mu \\gamma )$ is [33, 34] ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB r ( \\tau \\to \\mu \\gamma ) < 4 . 4 \\times 1 0 ^ { - 8 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "B. Results and discussions ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In Fig. 1， we project the surviving samples on the planes of $\\kappa _ { \\ell }$ versus $s _ { \\alpha }$ ， $\\rho _ { \\mu \\tau }$ versus （20 $m _ { H }$ ， $Y _ { L }$ versus $\\kappa _ { \\ell }$ ，and $\\rho _ { \\mu \\tau }$ versus $s _ { \\alpha }$ . The upper-left panel shows that there is a strong correlation between $s _ { \\alpha }$ and $\\kappa _ { \\ell }$ due to the experimental constraints of the $\\bar { \\tau } \\tau$ channel data of 125 GeV Higgs. The surviving samples have two different 125 GeV Higgs couplings to $\\bar { \\tau } \\tau$ ， and their absolute values are around the SM value. One is the SM-like Higgs coupling with the same sign as the coupling of the gauge boson, and the other is the Yukawa coupling with the opposite sign to the coupling of the gauge boson for a relative large $\\kappa _ { \\ell }$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/d498bae6faf85bdb2fab58903d30fc4a2876eefd3a5b651440322c5a9e8829b2.jpg",
+        "img_caption": [
+            "FIG.1: Under the constrains of the oblique parameters and the LHC Higgs data, the surviving samples projected on the planes of $\\kappa _ { \\ell }$ versus $s _ { \\alpha }$ ， $\\rho _ { \\mu \\tau }$ versus $m _ { H }$ ， $Y _ { L }$ versus $\\kappa _ { \\ell }$ and $\\rho _ { \\mu \\tau }$ versus $s _ { \\alpha }$ ： The circles (green) are allowed by the muon g-2,the pluses (red) allowed by the muon g-2 and $B r ( \\tau \\to \\mu \\gamma )$ , and the bullets (black) allowed by the muon g-2, $B r ( \\tau \\to \\mu \\gamma )$ and $B r ( h  \\mu \\tau )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "From the upper-right panel of Fig. 1, we see that the muon g-2 favors $\\rho _ { \\mu \\tau }$ to increase with $m _ { H }$ . As shown in Eq. (27), the muon g-2 can obtain positive contributions from the （204 $H$ loop and negative contributions from $A$ and $P$ loops for $\\rho _ { \\mu \\tau } = \\rho _ { \\tau \\mu }$ . With the decreasing of the mass splitting of $H$ and $A$ ， the cancelation between the contributions of $H$ and $A$ （204号 ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/191ab913b18466c56a5bf02a2f0eb3bc8457992d91975a809fef4b3d6dd005a8.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "FIG. 2: Under the constrains of the oblique parameters of electroweak data, the LHC Higgs data, muon g-2, $B R ( \\tau \\to \\mu \\gamma )$ and $B r ( h  \\mu \\tau )$ , the surviving samples projected on the planes of $\\Gamma _ { P }$ versus $s _ { \\alpha }$ ， $Y _ { L }$ versus $\\Gamma _ { P }$ and $Y _ { L }$ versus $s _ { \\theta }$ .Here $2 \\ \\mathrm { f b } < R _ { \\gamma \\gamma } < 4$ fb for the circles (green)，4 fb $< R _ { \\gamma \\gamma } < 6$ fb for the pluses (red), and $6 \\mathrm { f b } < R _ { \\gamma \\gamma } < 1 0$ fb for the bullets (black), with $R _ { \\gamma \\gamma }$ denoting the 750 GeV Higgs production rate at the 13 TeV LHC. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "loops becomes sizable so that a large $\\rho _ { \\mu \\tau }$ is required to enhance the muon g-2. From the lower-left panel, we see that the upper bound of $\\tau \\to \\mu \\gamma$ favors a large absolute value of $\\kappa _ { \\ell }$ （204号 for a large $Y _ { L }$ . The vector-like leptons with a large $Y _ { L }$ can sizably enhance $B r ( \\tau \\to \\mu \\gamma )$ via the two-loop Barr-Zee diagrams, and such contributions can be partially canceled by the one-loop diagram for a properly large $\\kappa _ { \\ell }$ and a proper sign of $s _ { \\theta }$ . The lower-right panel shows that the experimental data of $B r ( h  \\mu \\tau )$ requires $\\rho _ { \\mu \\tau }$ to increase with the decreasing of the absolute value of $s _ { \\alpha }$ ，and $- 0 . 0 5 < s _ { \\alpha } < 0 . 0 5$ and $0 . 0 5 < \\rho _ { \\mu \\tau } < 0 . 7$ are favored by the （204号 $B r ( h  \\mu \\tau )$ ， $B r ( \\tau \\to \\mu \\gamma )$ , muon g-2 and the other experimental constraints as mentioned above. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In Fig. 2, we project the surviving samples on the planes of the total width of 750 GeV singlet $( \\Gamma _ { P } )$ versus $s \\theta$ ， $Y _ { L }$ versus $\\Gamma _ { P }$ and $Y _ { L }$ versus $s _ { \\theta }$ . From the left panel, we can find that （204号 $\\Gamma _ { P }$ is very sensitive to $s _ { \\theta }$ since the $P$ couplings to SM particles are relevant to $s _ { \\theta }$ . The $\\Gamma _ { P }$ value increases with the absolute value of $s \\theta$ ，and reaches 35 GeV for $| s _ { \\theta } | = 0 . 3$ . No matter how large the $\\Gamma _ { P }$ value is, the 750 GeV diphoton production rate $R _ { \\gamma \\gamma }$ can vary from 2 fb to 10 fb. The middle panel shows that, with the increasing of the total width, $Y _ { L }$ becomes large enough to enhance $B r ( P  \\gamma \\gamma )$ , and further make $R _ { \\gamma \\gamma }$ to be in the range of 2 fb and 10 fb. For $\\Gamma _ { P } = 3 5$ GeV, $R _ { \\gamma \\gamma } > 4$ fb requires $Y _ { L }$ to be larger than 30. The right panel shows that a large absolute value of $s \\theta$ favors a large $Y _ { L }$ since $s \\theta$ with a large absolute value wil ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/f2f66aa6b3d0f1d6125f525fd6bded5be8407bc6a42997fe1b95849d31d9d6a0.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "FIG. 3: Under the constrains of the oblique parameters of electroweak data, the LHC Higgs data, muon g-2, $B r ( \\tau \\to \\mu \\gamma )$ and $B r ( h  \\mu \\tau )$ ， the surviving samples with 20 GeV < Ip < 40 GeV projected on the planes of the widths of the main decay modes of the 750 GeV Higgs versus $\\lambda _ { s }$ ， $m _ { H }$ （20 and $\\lambda _ { 7 }$ . Here $\\Gamma ( P  h A )$ for the circles (green), $\\Gamma ( P \\to H Z )$ for the triangles (blue), $\\Gamma ( P  H A )$ for the pluses (red) and $\\Gamma ( P \\to W ^ { \\pm } H ^ { \\mp } )$ for the bullets (black). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "enhance the total width of 750 GeV Higgs sizably. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In Fig. 3, we project the surviving samples with 20 GeV $< \\Gamma _ { P }$ $<$ 40 GeV on the planes of the widths of the main decay modes of the 750 GeV Higgs singlet versus $\\lambda _ { 3 }$ ， $m _ { H }$ and $\\lambda _ { 7 }$ This figure shows that $P  A h$ ， $P \\to H Z$ ， $P  A H$ and $P  W ^ { \\pm } H ^ { \\mp }$ are the main decay modes,and the decay $P  h Z$ is insignificant due to the suppression of $s _ { \\alpha }$ . The decay （204号 $P  A h$ is sensitive to $\\lambda _ { 3 }$ and increases with $\\lambda _ { 3 }$ . The width of $P  A h$ can reach 20 GeV and dominate over other decay modes for $\\lambda _ { 3 } = 4 \\pi$ . The decay $P \\to H Z$ is sensitive to $m _ { H }$ （204号 and decreases with the increasing of $m _ { H }$ . The width of $P \\to H Z$ can reach 10 GeV and be larger than those of $P  A H$ and $P  W ^ { \\pm } H ^ { \\mp }$ for $m _ { H } = 2 0 0$ GeV. The decay $P  A H$ （204号 increases with $\\lambda _ { 7 }$ and can be larger than the width of $P  W ^ { \\pm } H ^ { \\mp }$ for $\\lambda _ { 7 } = 1 0$ . The width of $P  W ^ { \\pm } H ^ { \\mp }$ is in between 2 GeV and 4 GeV for $m _ { H ^ { \\pm } } = 5 0 0$ GeV,and not sensitive to $m _ { H }$ ， $\\lambda _ { 3 }$ or $\\lambda _ { 7 }$ . With the increasing of $m _ { A }$ and $m _ { H ^ { \\pm } }$ ， the decay $P  h A$ ， $P  H A$ and （204号 $P  W ^ { \\pm } H ^ { \\mp }$ will be kinematically forbidden, which will reduce the width of 750 GeV Higgs sizably. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "IV. CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "To simultaneously accommodate the excesses of the 750 GeV diphoton， muon g-2 and （20 $h \\to \\mu \\tau$ , we proposed an extension of 2HDM with vector-like fermions and a CP-odd scalar singlet $P$ ，which is identified as the 75O GeV resonance. There is a mixing between the 750 GeV Higgs and the CP-odd scalar $A$ ，which leads to the $P$ coupling to SM particles and $A$ coupling to vector-like fermions. In the 2HDM the Higgs bosons have tree-level LFV interactions with $\\mu - \\tau$ ， which can be responsible for the excess of $h \\to \\mu \\tau$ and also give sizable contributions to the muon g-2. The 750 GeV Higgs can decay into $P  A h$ ， （204号 $P \\to H Z$ ， $P  A H$ and $P  W ^ { \\pm } H ^ { \\mp }$ , and its total width is sensitive to $s _ { \\theta }$ and can reach 35 GeV for $| s _ { \\theta } | = 0 . 3$ . Since the 75O GeV Higgs has a large width, the vector-like leptons are required to enhance $B r ( P  \\gamma \\gamma )$ to obtain $R _ { \\gamma \\gamma } > 2$ fb. Meanwhile, such vector-like leptons will give sizable contributions to $B r ( \\tau \\to \\mu \\gamma )$ due to the mixing of $P$ and $A$ .Therefore, the Higgs couplings to $\\bar { \\tau } \\tau$ are required to be properly large to cancel the contributions of vector-like leptons to $B r ( \\tau \\to \\mu \\gamma )$ . Considering the current constraints of the LHC data, precision electroweak data and $B r ( \\tau \\to \\mu \\gamma )$ , we scanned over the parameter space and found that such an extension can simultaneously explain the excesses of the 750 GeV diphoton, muon g-2 and $h \\to \\mu \\tau$ ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgment ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This work has been supported in part by the National Natural Science Foundation of China under grant Nos.11575152, 11305049, 11275057, 11405047, 11275245,10821504 and 11135003,by the Spanish Government and ERDF funds from the EU Commission [Grant No. FPA2011-23778], by the Spanish Centro de Excelencia Severo Ochoa Programme [Grant SEV-2014-0398], by the CAS Center for Excellence in Particle Physics (CCEPP) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[5] K.Harigaya and Y. Nomura, arXiv:1512.04850; Y. Mambrini, G. Arcadi and A. Djouadi, arXiv:1512.04913; M. Backovic,A. Mariotti and D. Redigolo, arXiv:1512.04917； A. Angelescu，A. Djouadi and G. Moreau, arXiv:1512.04921; Y. Nakai， R. Sato and K. Tobioka, arXiv:1512.04924; S. Knapen, T. Melia, M. Papucci and K. Zurek, arXiv:1512.04928； D. Buttazzo， A. Greljo and D. Marzocca，arXiv:1512.04929;A. Pilaftsis, arXiv:1512.04931; R. Franceschini et al.， arXiv:1512.04933； S. D. McDermott，P. Meade and H. Ramani, arXiv:1512.05326； R. Benbrik, C.-H. Chen，T. Nomura， arXiv:1512.06028； J. Ellis,et al., arXiv:1512.05327; M. Low，A. Tesi and L.-T. Wang，arXiv:1512.05328； B. Bellazzini， R. Franceschini, F. Sala and J. Serra, arXiv:1512.05330; R. S. Gupta, et al.， arXiv:1512.05332; C. Peterson and R. Torre, arXiv:1512.05333；E. Molinaro, F. Sannino and N. Vignaroli, arXiv:1512.05334.   \n[6] B.Dutta, et al.， arXiv:1512.05439; Q.-H. Cao,et al.， arXiv:1512.05542; S. Matsuzaki and K. Yamawaki， arXiv:1512.05564; A. Kobakhidze, et al.， arXiv:1512.05585； R. Martinez, F. Ochoa and C. F. Sierra，arXiv:1512.05617； P. Cox, A. D. Medina, T. S. Ray and A. Spray， arXiv:1512.05618； D. Becirevic, E. Bertuzzo，O. Sumensari and R. Z. Funchal, arXiv:1512.05623; J. M. No, V. Sanz and J. Setford, arXiv:1512.05700; S. V. Demidoz and D. S. Gorunov, arXiv:1512.05723; W. Chao, R. Huo and J. Yu, arXiv:1512.05738; S. Fichet, G. V. Gersdorff and C. Royon, arXiv:1512.05751; D. Curtin, C. B. Verhaaren, arXiv:1512.05753, L. Bian,N. Chen, D. Liu and J. Shu, arXiv:1512.05759; J. Chakrabortty, et al., arXiv:1512.05767; A. Ahmed, et al., arXiv:1512.05771; C. Csaki, J. Hubisz and J. Terning,arXiv:1512.05776; A. Falkowski, O. Slone and T. Volaksky, arXiv:1512.05777; D. Aloni, et al. arXiv:1512.05778; Y. Bai, J. Berger and R. Lu, arXiv:1512.05779.   \n[7]E. Gabrielli, et al.,arXiv:1512.05961; J. S. Kim, J. Reuter, K. Rolbiecki and R. R. de Austri,arXiv:1512.06083;A. Alves,A. G. Dias and K. Sinha, arXiv:1512.06091; E. Megias, O. Pujolas and M. Quiros,arXiv:1512.06106; L. M. Carpenter,R. Colburn and J. Goodman, arXiv:1512.06107; J. Bernon and C. Smith, arXiv:1512.06113; W. Chao, arXiv:1512.06297; M. T.Arun and P. Saha,arXiv:1512.06335; C. Han, H. M. Lee, M. Park and V. Sanz, arXiv:1512.06376; S. Chang, arXiv:1512.06426; M. Luo, et al., arXiv:1512.06670.   \n[8] I. Chakraborty and A. Kundu, arXiv:1512.06508； R. Ding, L. Huang, T. Li and B. Zhu, arXiv:1512.06560; H. Han, S. Wang and S. Zheng,arXiv:1512.06562; X. -F. Han and L. Wang,arXiv:1512.06587; J. Chang, K. Cheung and C. Lu, arXiv:1512.06671; D. Bardhan, et al.,arXiv:1512.06674; T.-F. Feng, X.-Q. Li, H.-B. Zhang and S.-M. Zhao,arXiv:1512.06696; O. Antipin, M. Mojaza and F. Sannino, arXiv:1512.06708; F. Wang, L. Wu, J. M. Yang and M. Zhang, arXiv:1512.06715; J. Cao, et al.,arXiv:1512.06728; F. P.Huang, C. S. Li, Z. L. Liu and Y. Wang, arXiv:1512.06732; W. Liao and H. -Q. Zheng, arXiv:1512.06741; J. J. Heckman, arXiv:1512.06773; M. Dhuria and G. Goswami, arXiv:1512.06782; X.-J. Bi, Q. -F. Xiang, P.-F. Yin and Z.-H. Yu, arXiv:1512.06787; J. S. Kim, K. Rolbiecki and R. R. de Austri, arXiv:1512.06797; L. Berthier, J. M. Cline,W. Shepherd and M. Trott, arXiv:1512.06799; W. S. Cho et al.， arXiv:1512.06824; J. M. Cline and Z. Liu, arXiv:1512.06827； M. Bauer and M. Neubert,arXiv:1512.06828; M. Chala, M. Duerr,F. Kahlhoefer and K. S. Hoberg, arXiv:1512.06833; D. Barducci et al. arXiv:1512.06842.   \n[9] S.M. Boucenna,S. Morisi and A. Vicente, arXiv:1512.06878；C. W. Murphy, arXiv:1512.06976; A. E. C. Hernandez and I. Nisandzic, arXiv:1512.07165；U. K. Dey, S. Mohanty and G. Tomar， arXiv:1512.07212; G. M. Pelaggi， A. Strumia, E. Vigiani, arXiv:1512.07225; J. de Blas, J. Santiago and R. V. -Morales, arXiv:1512.07229; A. Belyaev, et al., arXiv:1512.07242; P. S. B. Dev and D. Teresi, arXiv:1512.07243; W.-C. Huang, Y. Tsai and T.-C. Yuan, arXiv:1512.07268; S. Moreti and K. Yagyu, arXiv:1512.07462; K. M. Patel and P. Sharma, arXiv:1512.7468; M. Badziak, arXiv:1512.07497; S. Chakraborty, A. Chakraborty and S. Raychaudhuri, arXiv:1512.07527; W. Altmannshoefer, et al., arXiv:1512.07616; M. Cvetic, J. Halverson and P. Langacker, arXiv:1512.07622; J. Gu and Z. Liu, arXiv:1512.07624.   \n[10] Q.-H. Cao, S.-L. Chen and P.-H. Gu,arXiv:1512.07541; P. Dev,R. N. Mohapatra and Y. Zhang, arXiv:1512.08507； B. C. Allanach， P. Dev， S. A. Renner and K. Sakurai, arXiv:1512.07645; H. Davoudiasl and C. Zhang, arXiv:1512.07672; N. Craig, P. Draper， C. Kilic and S. Thomas, arXiv:1512.07733; K. Das and S. K. Rai, arXiv:1512.07789; K. Cheung, et al., arXiv:1512.07853; J. Liu, X.-P. Wang and W. Xue, arXiv:1512.07885; J. Zhang and S. Zhou, arXiv:1512.07889; J. A. Casas, J. R. Espinosa and J. M. Moreno, arXiv:1512.07895; L. J. Hall, K. Harigaya and Y. Nomura, arXiv:1512.07904.   \n[11] H. Han, S. Wang, S. Zheng and S. Zheng,arXiv:1512.07992; J.-C. Park and S. C. Park, arXiv:1512.08117; A. Salvio and A. Mazumdar, arXiv:1512.08184; D. Chway, R. Dermivsek, T. H. Jung and H. D. Kim,arXiv:1512.08221; G. Lo,et al., arXiv:1512.08255; M. Son and A. Urbano,arXiv:1512.08307; Y.-L. Tang and S.-H. Zhu, arXiv:1512.08323; H. An, C. Cheung and Y. Zhang, arXiv:1512.08378; J. Cao, F. Wang and Y. Zhang, arXiv:1512.08392; F. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Wang,et al.， arXiv:1512.08434; C. Cai， Z.-H. Yu and H. Zhang, arXiv:1512.08440; Q.-H ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Cao, et al., arXiv:1512.08441; J. E. Kim, arXiv:1512.08467; J. Gao, H. Zhang and H. X. Zhu, arXiv:1512.08478; W. Chao, arXiv:1512.08484; X.-J. Bi, et al., arXiv:1512.08497; F. Goertz, J. F. Kamenik, A. Katz and M. Nardecchia, arXiv:1512.08500; L. A. Anchordoqui, I. Antoniadis,H. Goldberg and X. Huang, arXiv:1512.08502; N. Bizot, S. Davidson, M. Frigerio and J.-L. Kneur,arXiv:1512.08508; K. Kaneta, S. Kang, H.-S. Lee, arXiv:1512.09129; I. Low, J. Lykken,arXiv:1512.09089.   \n[12] L.E. Ibanez， V. M. Lozano, arXiv:1512.08777； E. Ma, arXiv:1512.09159； L. Marzola，et al.， arXiv:1512.09136； Y. Jiang， Y.-Y. Li, T. Liu, arXiv:1512.09127； A.E. C. Hernandez， arXiv:1512.09092； S. Kanemura， N. Machida， S. Odori， T. Shindou, arXiv:1512.09053; S. Kanemura, et al.， arXiv:1512.09048; X.-J. Huang, W.-H. Zhang， Y.- F. Zhou, arXiv:1512.08992; Y. Hamada, T. Noumi, S. Sun, G. Shiu, arXiv:1512.08984; S. K. Kang,J. Song, arXiv:1512.08963; C.-W. Chiang, M. Ibe, T. T. Yanagida, arXiv:1512.08895; A.Dasgupta,M. Mitra,D.Borah,arXiv:1512.09202.   \n[13] A.E. Faraggi， J. Rizos，arXiv:1601.03604; A. Djouadi， J. Ellis，R. Godbole,J. Quevillon，arXiv:1601.03696； J. H. Davis, M. Fairbairn，J. Heal,P. Tunney，arXiv:1601.03153; R.Ding, Z.-L. Han， Y. Liao, X.-D. Ma, arXiv:1601.02714； M. Fabbrichesi， A. Urbano, arXiv:1601.02447； J. Cao，et al.，arXiv:1601.02570； P. Ko， T. Nomura, arXiv:1601.02490; S. Fichet，G. v. Gersdorff, C. Royon，arXiv:1601.01712； I. Sahin， arXiv:1601.01676；D. Borah， S. Patra， S. Sahoo，arXiv:1601.01828； S. Bhattacharya, S. Patra， N. Sahoo， N. Sahu,arXiv:1601.01569；F. DEramo, J. de Vries,P. Panci, arXiv:1601.01571； H. Ito，T. Moroi，Y. Takaesu，arXiv:1601.01144；A. E. C. Hernandez， I. d. M. Varzielas，E. Schumacher，arXiv:1601.00661； T. Modak， S. Sadhukhan，R. Srivastava, arXiv:1601.00836；C. Csaki，J. Hubisz, S. Lombardo,J. Terning，arXiv:1601.00638；U. Danielsson，R. Enberg, G.Ingelman，T. Mandal， arXiv:1601.00624； D. Palle,arXiv:1601.00618；K. Ghorbani，H. Ghorbani, arXiv:1601.00602; X-F. Han, et al. arXiv:1601.00534; E. Palti, arXiv:1601.00285; P. Ko,Y. Omura, C. Yu, arXiv:1601.00586;T. Nomura, H. Okada, arXiv:1601.00386；H. Zhang， arXiv:1601.01355; S. Jung, J. Song， Y. W. Yoon， arXiv:1601.00006； I. Dorsner, S. Fajfer， N. Kosnik,arXiv:1601.03267； C. Hati， arXiv:1601.02457；D. Stolarski, R. V.- Morales,arXiv:1601.02004; A. Berlin, arXiv:1601.01381; F. F. Deppisch, C. Hati, S. Patra, P. Pritimita, U. Sarkar, arXiv:1601.00952; B. Dutta, et al., arXiv:1601.00866; A. Karozas, S. F. King, G. K. Leontaris, A. K. Meadowcroft, arXiv:1601.00640; W. Chao,arXiv:1601.00633 arXiv:1601.04678; C. T. Potter,arXiv:1601.00240; A. Ghoshal, arXiv:1601.04291; T. Nomura H. Okada, arXiv:1601.04516.   \n[14] CMS Collaboration, arXiv:1502.07400.   \n[15] ATLAS Collaboration, arXiv:1508.03372.   \n[16] A. Crivellin,G. DAmbrosio,J. Heeck,Phys. Rev. Lett.114,151801 (2015)； Y. Omura,E Senaha,K. Tobe, JHEP 1505,028 (2015)； S.P. Das,J. H.-Sanchez,A. Rosado and R Xoxocotzi, arXiv:1503.01464; C. X. Yue, C. Pang and Y. C. Guo, J. Phys. G 42, 075003 (2015) A. Crivellin, J. Heeck and P. Stoffer,arXiv:1507.07567; F. J. Botella, G. C. Branco, M. Nebot and M. N. Rebelo,arXiv:1508.05101; R. Benbrik, C.-H. Chen, T. Nomura, arXiv:1511.08544 D.A. Sierra,A. Vicente, Phys.Rev. D 90,115004 (2014)； J. Heeck,M. Holthausen，W Rodejohann, Y. Shimizu, Nucl. Phys.B 896, 281-310 (2015); I. d. M. Varzielas, O.Fischer V.Maurer, JHEP 08,080 (2015).   \n[17] Y. Omura,E. Senaha, K. Tobe,arXiv:1511.08880.   \n[18] X. Liu, L. Bian, X. Q. Li and J. Shu,arXiv:1508.05716.   \n[19] R.A. Battye,G.D.Brawn,A.Pilaftsis, JHEP 1108,020 (2011).   \n[20] A. Pich,P. Tuzon, Phys.Rev. D 80, 091702 (2009).   \n[21] H. E. Haber and D. Oneil, Phys. Rev. D 83, 055017 (2011).   \n[22] K. A. Olive etal. [Particle Data Group], Chin. Phys. C 38, 090001 (2014).   \n[23] ATLAS Collaboration, arXiv:1501.04943.   \n[24] CMS Collaboration, arXiv:1401.5041.   \n[25] ATLAS Collaboration, Phys. Rev. D 92, 032004 (2015).   \n[26] ATLAS Collaboration, arXiv:1507.05930.   \n[27] ATLAS Collaboration, Phys. Lett. B 738, 428 (2014).   \n[28] ATLAS Collaboration, Phys. Lett. B 744, 163 (2015).   \n[29] ATLAS Collaboration, JHEP 1411, 056 (2014).   \n[30] K.A. Assamagan,A. Deandrea and P.A. Delsart, Phys.Rev. D 67, 035001 (2003).   \n[31] D. Chang, W. S. Hou and W. Y. Keung, Phys. Rev.D 48, 217(1993); V. Iisie, JHEP 1504 077 (2015).   \n[32] G.Bennett et al. [Muon G-2 Collaboration Collaboration], Phys. Rev. D 73, 072003 (2006) F. Jegerlehner, A. Nyffeler, Phys. Rept. 477,1 (2009)； A. Broggio, et al., JHEP 1411, 058 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(2014). ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[33] K.Hayasaka et al. [Belle Collaboration],Phys.Lett.B 666,16 (2008).   \n[34] B. Aubert et al. [BaBar Collaboration], Phys.Rev. Lett.104, 021802 (2010). ",
+        "page_idx": 17
+    }
+]

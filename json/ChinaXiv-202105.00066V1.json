@@ -1,0 +1,178 @@
+[
+    {
+        "type": "text",
+        "text": "实验室大鼠超声波的情绪意义与测量",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "俞德霖 尹彬\\*\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(福建师范大学心理学院，福州350117)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要大鼠被广泛应用于生物学、医学、心理学等实验研究中，其中不乏需要对实验对象的情绪状态进行测量的研究。大鼠的超声波具有情绪表达与情绪传递的功能：使用FM-50kHz超声波表达愉悦的积极情绪；使用flat-50kHz用于社交通讯；使用 $2 2 \\mathrm { k H z }$ 范围的超声波表达焦虑、厌恶等消极情绪。通过采集并分析大鼠的超声波，可以量化大鼠在实验操作中的情绪状态。本文论述了大鼠超声波的情绪意义，并针对大鼠超声波的测量与分析给出了建议。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 大鼠；情绪测量；超声波中图分类号:B843.2;Q95-3 文献标识码:A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1大鼠超声波的分类与情绪意义",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "大鼠（Rattusnorvegicus）是生物学，医学，心理学等学科常用的实验动物。在使用大鼠实验中，超声波记录可作为衡量情绪状态的重要的行为学证据。青春期和成年大鼠发出的超声波（Ultrasonic Vocalizations）可以分为两大类型：22kHz 范围的超声波与 50kHz范围的超声波[1]。 $2 2 \\mathrm { k H z }$ 范围的超声波的声学特征是，频率在 20-35kHz，持续时间较长,可达 300ms 以上，缺乏明显的频率变化。50kHz 范围的超声波根据声音频率的变化可进一步分为flat 和FM（Frequency modulated）两种：flat-50kHz 超声波的持续时长在10-100ms之间,频率在 $3 5 { \\mathrm { - } } 5 0 \\mathrm { k H z }$ 内几乎保持不变；而 FM-50kHz 超声波的持续时长在20-150ms之间，频率在 $4 0 { - } 8 0 \\mathrm { k H z }$ 之间，具有较大幅度的波动。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "实验表明，不同的超声波频率可以反映大鼠的某些特定行为。 $2 2 \\mathrm { k H z }$ 范围的超声波被认为反映了厌恶和恐惧等消极情绪状态：当大鼠身边有捕食者存在，或面对攻击性同类时，会发出 22kHz 范围的超声波[23]。在旷场、高架十字迷宫等焦虑样行为测试中播放 $2 2 \\ \\mathrm { \\ k H z }$ 范围的超声波会让测试中的大鼠有更多的防御性行为，使大脑中与焦虑、恐惧情绪调节和防御等相关的区域（如杏仁核和终纹床核）c-Fos 表达增加[4，5]。而 $5 0 ~ \\mathrm { k H z }$ 范围的超声波则会在受到食物奖励，以及和同类进行社会互动等条件下发出，如在药理学实验中注射苯丙胺和与同伴进行打闹(playful fighting)时[。7]。而此类超声波的发出在神经生理上与中脑边缘系统多巴胺能神经元的活性，以及腹侧纹状体伏隔核的多巴胺活性增加有关[89]。在 $5 0 \\mathrm { k H z }$ 范围超声波的两种子类型的行为学意义上，有学者认为，FM-50kH超声波代表了一种普遍的积极情绪状态，而 flat-50kHz 超声波则代表了一种社会接触（social contact）的通讯[7]。而回放 $5 0 ~ \\mathrm { \\ k H z }$ 范围的超声波则使大鼠在旷场、高架十字迷宫中有更多的探索行为，在生理上能诱导多巴胺释放，使伏隔核中c-Fos 阳性神经元增加[410]。大鼠超声波的回放效应也从另一个侧面验证了其情绪功能。因此，在研究中可以将 22kHz 范围的超声波作为大鼠在实验过程中的消极情绪指标，而将 $\\mathrm { F M } { - } 5 0 \\mathrm { k H z }$ 超声波作为大鼠在实验过程中的积极情绪指标，通过对声波信号的编码量化大鼠的情绪状态。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 测量方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验中的录音采集最好使用采样率为 $3 8 4 ~ \\mathrm { k H z }$ 的麦克风进行录制。根据采样定理，带通信号的最低采样率在带宽的 2-4 倍之间[11]。在实际的实验室操作中发现，如果仅使用 192kHz采样率的麦克风或采样上限为 $1 9 2 ~ \\mathrm { k H z }$ 的录音软件录制，在频谱图上实际的频率上限只能达到 $6 0 \\mathrm { k H z }$ 左右，虽然这对于采集 $2 2 \\mathrm { k H z }$ 范围的超声波已经足够，却不足以涵盖 $5 0 \\mathrm { k H z }$ 范围的超声波可能覆盖的全部频率范围。因此，如果要对大鼠的超声波进行更全面的测量，使用 384kHz采样率的麦克风和录音软件更合适。录音软件可以使用开源软件Audacity，这款软件最高可达到 $3 8 4 \\mathrm { k H z }$ 的采用率和PCM24bit 精度的录制。麦克风与大鼠嘴部的距离 $1 5 -$ 60cm为宜，距离太近（ $< 5 \\mathrm { c m }$ ）容易采集到大鼠的呼气声、脚步声等噪音，干扰后续的数据分析；而距离太远（ $: > 1 5 0 \\mathrm { c m } \\dot { }$ ）则会导致收集到的声波信号过于微弱，难以被识别。同时，还应注意环境背景噪音的消除，如周边的电流会产生 $3 0 \\mathrm { k H z }$ 的电磁干扰，可能影响到对22kHz范围超声波的识别。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图1展示了在实验室采集到的 $5 0 \\mathrm { k H z }$ 范围的超声波样本： $\\textcircled{1}$ 为 $\\mathrm { F M } { - } 5 0 \\mathrm { k H z }$ 超声波，可以看到有明显的频率变化，并出现了方向相反的波峰； $\\textcircled{2}$ 为flat $- 5 0 \\mathrm { k H z }$ 超声波，在波形上呈一条短平的直线。图2展示了在实验室采集到的 $2 2 \\mathrm { k H z }$ 范围的超声波样本： $\\textcircled{3}$ 为 $2 2 \\mathrm { k H z }$ 范围的超声波，持续时间接近500ms，波形起伏不大。注意在图1和图2的纵坐标轴 $3 0 \\mathrm { k H z }$ 处均有一条明显的直线，即为周边电流产生的电磁噪声。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在对超声波的分析上，可以将采集到的音频使用 MATLAB 进行快速傅里叶变换（FFT）生成频谱图（如图1、图2)，由数位经过训练的研究者进行人工筛选，且对人工筛选结果计算评分者信度（inter-rater reliability)，即数位实验者统计结果间的相关性。也可以使用如 Avisoft,Ultravox 和基于 MATLAB 的DeepSqueak[12]等自动化的分析软件对大鼠发出的超声波进行识别与统计。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c3fa940d910ab5b2eca9953a19374fe4cd883545f8663972a85a1ce1bd52e16f.jpg",
+        "img_caption": [
+            "图 $1 5 0 \\mathsf { k H z }$ 范围的超声波示例"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/daf7d94503293019a6b5876bde299e1cfdc1840b80106a869111c0cb779a2e14.jpg",
+        "img_caption": [
+            "图 $2 2 2 k H z$ 范围的超声波示例"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "需要注意的是，当波形变化不大时，flat与FM 两类有时可能难以区分。建议遇到这种情况时，首先看波形，如果波形上出现方向相反的波峰，则归到FM中，否则归到flat 中；其次看频率的变化量（△frequency)，如果频率的变化量大于 5kHz，则归到FM中，否则归到 flat 中[13]。有时实验室测量条件并不能完全消除背景噪声（包括电磁的)，仍然存在干扰，会在软件分析上带来很多的错误识别，对此需要在软件分析的结果上再进行人工筛选。此外，一些噪声可能在波形与频率上和大鼠发出的超声波比较接近，当从频谱图上无法区分时，可以使用Audacity 等专业的音频处理软件改变音频的速率（rate）后播放。根据人耳听到的音色进行区分：噪音的音色比较接近金属摩擦的声音，而大鼠的音色比较接近鸟类的鸣叫。降低音频的速率，一方面可以降低大鼠超声波的音高，使之进入人耳可听范围；另一方面可以让持续时间仅10 至 20ms 的超声波更容易被人识别出。22kHz 范围的超声波可以降速至原速的 $5 0 \\% \\mathrm { \\sim } 2 0 \\%$ ， $5 0 \\mathrm { k H z }$ 范围的超声波可以降速至原速的 $1 0 \\% ^ { \\sim } 5 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3应用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "大鼠的超声波在精神病学和药理学的研究上已经得到广泛应用：用 22kHz 范围的超声波评估大鼠焦虑或疼痛的情绪强度[14]，用 $5 0 \\mathrm { k H z }$ 范围的超声波评估大鼠愉悦的情绪强度[6]。在研究中可以统计全记录过程中出现的所有超声波，也可以对时间抽样，统计单位时间内的超声波。在具体量化指标的选取上，近5年的研究以统计超声波的次数与累计持续时间居多，通过对实验组与对照组在声波次数或累计持续时间上的差异检验药效。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在动物行为上，大鼠的超声波也可以作为一种编码指标。例如，当大鼠发生攻击行为时，使用声波可以区分大鼠的攻击是属于侵犯性的攻击，还是娱乐性的攻击，从而对行为进行更精确的、带有情绪性的编码。和其他测量大鼠情绪的方法，如皮质酮、皮肤电等相比，超声波的采集更方便，并且分析速度更快，并且是无创、非介入的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "还可以通过对采集中的声波进行实时的快速傅里叶变换，依据频谱图的波形来监控实验。比如在进行T迷宫等学习与记忆测试之前，发现大鼠发出大量 22kHz 范围的超声波，可能是大鼠被实验者抓取而处于焦虑的情绪状态。这时可适度安抚大鼠，或等大鼠不再发出 22kHz范围的超声波之后再进行实验，有助于在学习与记忆测试中排除情绪变量的干扰。未来研究者可以考虑在涉及到大鼠情绪测量的课题中，采集大鼠的超声波进行分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "主要参考文献",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1] Simola N, Brudzynski S M. Repertoire and Biological Function of Ultrasonic Vocalizations in Adolescent and Adult Rats. Handbook of Behavioral Neuroscience,2018,25:177-186   \n[2] Blanchard R J, Blanchard D C,Agullna R, et al. Twenty-two kHz alarm cries to presentation of a predator, by laboratory rats living in visible burrow systems. Physiology & Behavior, 1991,50(5):967-72.   \n[3] Panksepp J, Burgdorf J,Beinfeld M C. Regional brain cholecystokinin changes as a function of friendly and aggressive social interactions in rats.Brain Research,2004,1025(1-2):75-84.   \n[4] Demaestri C,Brenhouse H C,Honeycutt J A. $2 2 ~ \\mathrm { k H z }$ and $5 5 ~ \\mathrm { k H z }$ ultrasonic vocalizations differentially influence neural and behavioral outcomes: implications for modeling anxiety via auditory stimuli in the rat. Behavioural Brain Research,2019, 360:134-145.   \n[5] Ouda L, Jilek M, Syka J. Expression of c-Fos in rat auditory and limbic systems following 22- kHz calls.Behavioural Brain Research,2016,308:196-204.   \n[6] Mulvihill K G, Brudzynski S M. Individual behavioural predictors of amphetamine-induced emission of $5 0 \\mathrm { k H z }$ vocalization in rats.Behavioural brain research,2O18,35O:80-86.   \n[7] Pellis S M, Burke C J, Kisko T M, et al. 50-kHz vocalizations, play and the development of social competence.Handbook of Behavioral Neuroscience,2018,25:117-126.   \n[8] Hori, M, Shimoju R,Tokunaga R,et al. Tickling increases dopamine release in the nucleus accumbens and $5 0 ~ \\mathrm { { \\ k H z } }$ ultrasonic vocalizations in adolescent rats. Neuroreport, 2013, 24(5):241-245.   \n[9] Scardochio T,Trujillo-Pisanty I， Conover K，et al. The efects of electrical and optical stimulation of midbrain dopaminergic neurons on rat $5 0 \\mathrm { - k H z }$ ultrasonic vocalizations. Frontiers in Behavioral Neuroscience, 2015,9:331.   \n[10] InagakiH,Ushida T.The effect of playbackof22-kHz and $5 0 \\mathrm { - k H z }$ ultrasonic vocalizations on rat behaviors assessed with a modified open-field test. Physiology & Behavior, 2021, 229:113251   \n[11] 杨福生，戴先中．带通信号的采样定理．信号处理，1986(1):60-64.   \n[12] Coffey K R,Marx R G, Neumaier JF.DeepSqueak: a deep learning-based system for detection and analysis of ultrasonic vocalizations. Neuropsychopharmacology, 2019,44(5):859-868   \n[13] Brenes JC,Lackinger M,Hoglinger G U,et al.Differential effects of social and physical environmental enrichment on brain plasticity, cognition, and ultrasonic communication in rats. Journal of Comparative Neurology, 2016, 524(8):1586-607.   \n[14] Mazzitelli M, Neugebauer V. Amygdala group II mGluRs mediate the inhibitory effects of systemic group II mGluR activation on behavior and spinal neurons in a rat model of arthritis pain. Neuropharmacology,2019,158:107706. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "尹彬、俞德霖：提出研究命题，设计研究方案  \n俞德霖、尹彬：进行研究、采集、清洗和分析数据  \n俞德霖：论文起草  \n尹彬：论文最终版本修订",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The Emotional Meaning and Measurement of ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Ultrasonic Vocalizations in Laboratory Rats ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "YUDelin,YINBin† (School of Psychology, Fujian Normal University, Fuzhou 350117) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Abstract Rats are widely used in experimental research in biology, medicine, and psychology, and many studies need the measurement of rats’ emotional states. Ultrasonic vocalizations (USVs) of rats are means to express and transmit emotions: among them FM- ${ \\cdot } 5 0 \\mathrm { k H z }$ USVs are for positive emotions such as pleasure, flat ${ \\cdot } 5 0 \\mathrm { k H z }$ USVs are for social communication, and $2 2 \\mathrm { k H z }$ USVs are for negative emotions such as anxiety and disgust. Colecting and analyzing the USVs of rats provides researchers a possible way to quantify the emotional states of rats during experimental manipulations. This paper discusses the emotional meaning of USVs in rats and provides suggestions for measuring and analyzing USVs in rats. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Key WordRats； Assessment of emotion； Ultrasonic vocalizations",
+        "page_idx": 4
+    }
+]

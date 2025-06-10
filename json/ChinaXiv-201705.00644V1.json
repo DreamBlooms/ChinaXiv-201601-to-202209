@@ -1,0 +1,711 @@
+[
+    {
+        "type": "text",
+        "text": "Effects of density-dependence and climate on domestic sheep population in history and current Mongolia grassland ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Author: Li Ang Ph.D. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Affiliation: Institute of Botany, China Academic of Sciences Email: lyons@ibcas.ac.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Address: No.2O Nanxincun, Xiangshan, Beijing 1ooo93, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TEL: $\\mathbf { + 8 6 }$ 010-62836277 $\\mathbf { + 8 6 }$ -13611059982 $\\mathbf { + 8 6 }$ -13520743569 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The combined effects of climate and density-dependence on ungulate population were widely detected, which played the critical role in maintaining sustainability of rangeland ecosystems.But, previous studies in Mongolia plateau seldom considered the density dependent effect of the domestic animals, but mainly focused on the impacts of natural hazards. In order to fill this knowledge gap,we selected ten long-term sheep population series from the eastern part of Mongolia plateau and detected the density dependent effects. Three kinds of methods were independently employed in this study, i.e. the demographic parameters analysis, statistic tests, and the model selection method. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The density dependence was detected by all methods during the nomadic period of 1962-1979. It found that three populations were density dependence. The seven other populations were only regulated by density dependent effect during normal winters,and just controlled by climate during harsh winters. The limitation of ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "density dependent effect can explain the reason of why herdsmen migration distance positively correlated with the size of their herds. Therefore, there were two types of natural pushing force to drive nomadic people migration, one was the natural hazard which was widely accepted,and the other was the density dependent effect. Especially,“pushing off of density dependence” can explain the reason why Genghis Khan' rise and conquest happened during the medieval climatic optimum, when the natural hazard was less than other period in the record history of Eurasian. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, the study showed that the climate effect on population had weakened and the density dependent effects disappeared during the sedentary period. This finding is the reason of why the sheep population had showed a continued growth trend and caused “overgrazing\" problem. Our results indicated that the disappearing of natural negative feedbacks had driven the ecosystem regime to shift from the“animal population is low but ecosystem is spontaneously sustainable status\" into “animal increased rapidly but vegetation degenerated status” during the social change of sedentary in the Mongolian plateau. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Density-dependence; climate change; nomadic domestic ungulate population dynamics; linear threshold model; Genghis Khan rise and conquest; rangeland ecosystems regime shift; ecological consequence of social change; Eurasian steppe; Mongolia plateau. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Many nomadic empires had suddenly risen in Eurasian Steppe. They attacked the European and Asian sedentary countries frequently; transmited the languages, techniques, religions and plagues between eastern and western Eurasia through the Eurasian steppe corridor (Chase-Dunn et al. 2O1O). Especially, the rise and conquest of Genghis Khan and his empire were the most outstanding events in Eurasian steppe history which had shaped the world (Turnbull 2OO3). Many scholars believed that climate change may be a reason of the rise of nomadic empires, and have developed many hypotheses to explain it. Earlier scholars considered the drought and climate cooling may cause the nomadic invasions by destroying the domestic animal population and bringing subsequent famine (Huntington 1907, Toynbee 1934, Jenkins 1974,Lamb 1997, Brown 2OO1). But, recent climate reconstruction data showed the climate in Genghis Khan's rise and heyday were warmer and wetter than normal the past 900 years (HVIS 2O11),and there is no evidence of climatic sudden cooling before the Mongolian conquest (Wu et al. 2009). Scholars recently suggested that the vegetation and domestic animal should flourish during the Medieval Climate Optimum, which assisted the rise and conquest of Mongolian (Wu et al. 2Oo9,HVIS 2011). However, this climate optimum hypothesis can not explain what forced the nomadic people to migrate out if the climate disasters were absent from natural perspective. Compared with the abundant quantitative studies about climate reconstruction data and historical records, the logic link between climate change and human migration was usually accepted as the common sense rather than analyzed by science evidence (Perch-Nielsen et al. 2OO8). The common sense was that only climate disasters can drive nomadic people to migrate out steppe though the collapse of nomadic animal population.Hence,in order to fix the weak link of these hypotheses, this paper would examine other nomadic animal population regulation mechanisms in Eurasian steppe. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Mongolia plateau is the last nomadic region in the world (Sneath 1998, Humphrey and Sneath 1999), and also a representative part of Eurasian Steppe (Fig. 1)． Thus, the knowledge from the nomadic animal population dynamics in nomadic Mongolian grassland can help us to understand the nomadic history of Eurasian steppe. Both wild and nomadic domestic ungulates populations usually experience a “boom and bust’ cycle in Mongolia plateau (Begzsuren et al. 2004, Fernandez-Gimenez et al. 2O12),and the other part of Eurasian Steppe, such as in Kazakhstan grassland (Robinson et al. 2Oo3). The ungulate population crash was usually caused by many kinds of climate hazard.Especially, blizzard and following snow-locked pasture in winter were the most serious disasters in Eurasian steppes, which were named as “duzd\" in Mongolian traditional ecological knowledge (Begzsuren et al. 2004, Fernandez-Gimenez et al. 2012). Impacts of dzud on ungulates population and human livelihood were so serious that previous studies usually suggested that climate disaster dominate the ungulates population dynamics in Mongolian plateau (Begzsuren et al. 2OO4, Vetter 2O05, Zhang and Li 2O08,Li and Huntsinger 2011,Li and Li 2012). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "However, population ecological studies found that animal population dynamics were influenced by the combined effects of intrinsic factors (e.g. density-dependence) and extrinsic factors (e.g. climate factors, predation, and harvest); especially density-dependence and climate factors can regulate ungulates population dynamics without predator and harvest in both mild and harsh environments (Sather 1997, Forchhammer et al.1998,Post and Stenseth 1999,Aanes et al. 2000, Forchhammer et al. 2001, Solberg et al. 2001, Jacobson et al. 20O4, Lima and Berryman 2006, Tyler et al. 2008,Colchero et al. 2009, Simard et al.2010,Herrando-Perez et al. 2012, Imperio et al. 2O12). Some domestic ungulates population dynamics are also controlled by density dependence and climate factors just as their wild neighbors in cold arctic region or dry African grasslands (Desta and Coppock 2OO2, Weladji and Holand 2003, Helle and Kojola 2Oo8), where the environment may be as harsh as Mongolia plateau. Now, only very few studies mentioned the impacts of density dependence on domestic animal population in Mongolia plateau. Neglecting density dependent effects on ungulate population dynamics may cause some knowledge gaps in understanding the rangeland ecosystem regulation mechanisms. At least, current knowledge can not tell us how the ecosystem regulates the animal population under the climate optimum condition in Eurasian steppe. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, understanding ecosystem regulation mechanisms on domestic animal population has practical value for current ecosystem managements. The herdsmen society in Inner Mongolia had transform from nomadic style into the sedentary one (Sheeny 1993, Sneath 1998,Humphrey and Sneath 1999),and this social transition is happening in Mongolia now (Johnson et al. 2Oo6). After the ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "social transition, the animal population showed a rapidly increased trend rather than the bloom and bust cycle pattern (Li et al. 2O12), and then overgrazing issue had emerged which caused serious environment problems, such as vegetation denegation, desertification and biodiversity loss (Tong et al. 2OO4, Jiang et al. 2OO6, Huang et al. 2009,Li et al. 2O12). Because the rangeland ecosystems resilience was maintained by the negative feedback of population density and limitation of climate, which can prevent ungulates to overexploit vegetation (Forchhammer et al. 1998), so analysis the change of rangeland ecosystem feedback mechanism can explain the reason why the steppe resilience weakened after the social transition, and provide the advice for future rangeland ecosystem sustainable managements. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this study, we collected ten long-term sheep population time series data from a eastern part of Eurasian steppe to analysis the ecosystem regulation mechanism of ungulate population in nomadic and sedentary periods (Fig. 1). Sheep is the major domestic species in Eurasian steppe, composites nearly $60 \\%$ of total domestic animal population in Mongolia plateau, and is the important economic base of nomadic society and herdsmen livelihood(Sternberg 2OO8, Zhang and Li 2OO8,Li and Huntsinger 2O11, Li and Li 2O12). Many influential ecologists have suggest the animal population growth can be separated into density dependent component, density independent component, and “the component that represents the losses from harvest\" (Beddington and May 1977,Leigh 1981, May 1981,Lande et al. 1995, Saether et al. 1996, Engen et al.1997, Kokko and Lindstrom 1998,Diserud 2001). This separation can be written as following (Saether et al.1996): ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "△N=r(t)N-f(N)-h(N) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Where $\\Delta N$ is the annual increase population, $r ( t ) N$ is the density-independent growth number, $f ( N )$ is the losses due to density dependent effect on population, and $h ( N )$ is the losses due to harvesting. Using this method,we can separate the harvesting effect from intrinsic growth rate of domestic population, and focus on density dependence and climate effect on domestic sheep population. This study would answer following scientific questions: 1st, whether the sheep population is regulated by the density dependent effect in Mongolia steppe?2nd, what are the relationships between the impacts of climatic disaster and density dependence on sheep population dynamics?3rd, can these findings of this study fix the weak link of current hypotheses about the nomadic empire rises and conquest?4th, did the effects of density dependent and climate on sheep population dynamics changed for the social transition (from nomadic style to a sedentary ones), and what the influence of this social changes on ecosystem resilience? ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Method ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Study area ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "East Ujimuqin grassland is located in the eastern part of Eurasian steppe, covering a total area of $4 7 { , } 0 0 0 \\mathrm { K m } ^ { 2 }$ and ranging from $4 4 . 7 ^ { \\circ }$ to $4 6 . 6 ^ { \\circ }$ in latitude and from $1 1 5 . 1 ^ { \\circ }$ to119.7° in longitude (Fig.1). The winter is long and cold. During the whole study period (1961-2005), the mean annual temperature was $- 1 8 . 7 ^ { \\circ } \\mathrm { C }$ in winter (January, February and December in the yesteryear),and $\\boldsymbol { \\mathbf { \\rho } } _ { - 1 . 2 } \\boldsymbol { \\circ } _ { \\mathbf { C } }$ in early spring (March and April); the daily temperature can be below $\\boldsymbol { \\mathbf { \\mathit { \\Pi } } } _ { - 4 0 } ^ { \\circ } \\mathbf { \\mathit { \\mathrm { C } } }$ in extreme cold days. In the study period, mean annual winter precipitation was $1 3 \\mathrm { m m }$ , and the extreme value was 40mm in 1978. But 1mm precipitation can form $1 5 \\mathrm { m m }$ depth snow, and the snow does not melt during the whole winter when the daily high temperature is below $- 7 ^ { \\circ } \\mathrm { C }$ Thus if the snow depth reach a threshold, the pasture is locked until the next spring coming.Both single blizzard and several snow events can form the snow disaster as long as snow depth reaches the threshold. But this threshold is site-specific and influenced by plant height and topography. The major vegetation types are typical steppe and meadow steppe in East Ujimuqin grassland. There are also some “non-Zonal\" vegetation types such as shrub lands and sandy lands. The primary productivity of the steppe ecosystems peaks in August and is determined by rainfall in growing season (Wu and Loucks 1992, Li et. al. 2012). There are many lakes, springs,and rivers in this grassland, thus the animal can drink water easily in the growing season. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This region is run by a Mongolian autonomy government during the whole study period.Almost all the rural residents are Mongolian herdsmen, who keep intact Mongolian traditional culture and ecological knowledge. Ujimuqin sheep is a native species which is domesticated by Mongolian ancestors. Before 198Os, local herdsmen live a traditional nomadic life, sheep are exposed in natural environment all the year round (Li and Ma 1993, Wang 2006, Jia 2011). After 1980s, the ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Mongolian residents had gradually settle down (Li and Ma 1993, Sheeny 1993). During sedentary period, herdsmen let sheep live outdoor in sunny days of winter, but they started to store forage to feed their animal in snow days. The social transition from nomadic life and sedentary way was not suddenly happened. Thus, we define the three types of landuse period in this research,i.e. traditional nomadic period from 1961 to 1979, sedentary period from 1987 to 2005,and social transition period from 1980 to 1986. We mainly studied the sheep population dynamics in nomadic and sedentary period in this research. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Data acquisition and pre-processing ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We chose ten continuous sheep census data in this study, and divided them into nomadic period and sedentary period. The annual sheep census data between 1961 and 2005 was acquired from East Ujimuqin agro-pasture management bureau. The data sets contain annual population (N), birth number (B), mortality number (M) and harvest number (H, the sum of slaughtered and sold numbers). The data are censused at sumu level in every June.Sumu is composed by three or four villages, and cover an average area of $2 0 0 0 \\mathrm { K m } ^ { 2 }$ (Fig 1). Mongolia herdsmen do not eat and sell dead animal, thus the mortality number are independent with harvest number. The herdsmen mainly slaughtered and sold their animal after annual census, and adult females animal are seldom been harvested. Therefore, harvested individuals can not reproduce in next census year.Thus, the relation among each parameter can describe as following: ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$N _ { t + 1 } = N _ { t } + B _ { t } - M _ { t } - H _ { t } .$ 2 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Besides,we also chose an integrated climate parameter to describe the winter climate condition, which was named as winter index in following.This winter index was calculated from the four critical winter climate parameters which were recorded by China meteorological administration. The four single climate parameters were the winter snow depth, the pasture lock-out days, the extreme cold days in cold season, and the average temperature of reproduction period (early spring). This integrated climate parameter can represent climate condition in multiple periods such as winter and reproductive period, and can describe average and extreme simultaneously, thus it is better than these single climate parameters in explaining the population dynamics. The calculation and discuss of the winter index were recorded in the support information1. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Estimating impacts of climate and density dependence from demographic parameters ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "At first, we described the sheep population and demographic parameters dynamics in nomadic and sedentary periods respectively.Then, we investigated the effects of climate and population density on birthrate, mortality by regression analysis in the two landuse period at each site. These regression analyses used the regular linear equations, regular non-linear equations and threshold equations to fit the models. And then we used the coefficient of determination $( \\mathbf { R } ^ { 2 } )$ as criterion to select the better regression relationship.In order to display regressions pithily, we plotted these ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "regressions at the region scale. Before the plotting, we standardized each time series to remove site-specific noise. The standardization method is as following: xs,=(x-x)/s; (3) where the $\\mathbf { X }$ , Xs stand for the original data and standardization data respectively, $x$ is the average of a time series,and s is the standard deviation.This method transform the original time series into standardization ones, which average was O and standard deviation was 1. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Statistic tests for density dependence ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We employed three representatively statistic methods to detect the density dependence effect from the 1O sheep population time series in two landuse periods. The three methods are Bulmer $\\mathbf { R } ( \\mathbf { R } ^ { * } )$ test (Bulmer 1975), Pollard et al.'s test (Pollard et al. 1987) and Dennis and Taper's test (Dennis and Taper 1994).All the null hypothesis of the three tests were density independence. But the statistics which were employed in these statistical inferences did not follow regular distribution. Thus, these tests used random shuffle method and bootstrap method to generate statistic distribution respectively. Besides, all three methods were adjusted to adapt the harvesting scenario in our studying. The adjusting followed the equation 1,and based the fact that the harvest component does not contribute the population growth in the next year. Besides,Bulmer R $( \\mathbb { R } ^ { * } )$ test are less effective when the population data with trend (Shenk et al. 1998, Jacobson et al. 2004), hence we did not use this method to test the data in sedentary period which showed significant growth trend. The details of these statistic tests are in supporting information 2. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Model evaluation for density dependence ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "We also used regression models and model selection method to estimate winter climate and population density effects on sheep population dynamics. The harvested effects on population were separated out.Thus, the intrinsic growth rate is defined as following: ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { i } = X _ { t + 1 } - X _ { t } = \\ln ( { \\frac { N _ { t + 1 } + H _ { t + 1 } } { N _ { t } } } ) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "We employed regular linear models and threshold models to describe effects of climate and population density on intrinsic growth rate, and used model selection method to find the optimal model for each site at the two landuse periods. The regular regressions were started from a whole model which included the terms of winter climate, population density and the interaction term of them. Then, the others regular regressions were derived from the whole model by reducing different terms. We also induced many kinds of threshold and generated several threshold regression models. At last, the correction of Akaike information criterion (AICc) was employed to select the optimal model. The details of this part can found in supporting information 3. We also plotted the optimal regression at the region scale to display the relationship clearly. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Simulating the population dynamics of 1987-2oo5 under the nomadic scenario ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "We used the real population data in 1987 and the climate parameter in the period of ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "1987-2Oo5 to simulate the population dynamic under the nomadic natural-society scenario. The natural population regulation mechanisms in the nomadic period were described by the optimal population model of nomadic period at each site. In order to describe nomadic scenario,the harvest rates of each site were defined as follows: H=H+r\\*S,. (5) Where $H$ is the mean harvested rate of each site at nomadic period, S is standard deviation,and r is random number which in the interval of [-1,1]. Then we could compare the differences between real animal population demography and simulation ones in 1987-2005. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Result ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Demographic patterns ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "All sheep population fluctuated dramatically in nomadic period (1962-1979).The winter climate was mild in 196Os and harsh in 197Os (Fig.1 of supporting information 1)．Sheep population had increased very fast in early period of 196Os,but the increase speed gradually reduced before the snow disaster winter of 1969-197O when all ten populations crashed in this year (Fig. 1). After the population collapse of 1970, all population recovered rapidly, then the population growth was slowdown again,at last the huge duzd winter of 1977-1978 caused another regional population crash (Fig.1). However, in sedentary period (1987-2005), sheep population showed a continued increased trend in all the sites and doubled in most sites. Besides, sheep population seldom crashed during harsh winters of sedentary period, i.e.1990-1993 and 2001 (Fig. 1). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In nomadic period, demographic parameters reached the peak of mortality and the nadir of birthrate during disaster years. Besides,the mortality showed increased trend and the birthrate decreased as the population increased in these no snow disaster years of this period (Fig 2). Impacts of duzd on mortality and birthrate still exist during sedentary periods, but the morality was constant and birthrate was increasing in the duzd-absent years of this periods. Generally speaking, the mortality was higher in nomadic period than sedentary period.At regional level, the average of mortality in nomadic period was O.O6 with the variance of O.O7, while the value was （20 $0 . 0 2 { \\scriptstyle \\pm 0 . 0 3 }$ in sedentary period (Fig. 2). But, the birthrate was lower in nomadic period $( 0 . 4 1 { \\pm } 0 . 1 2 ) \\$ than sedentary period in which the value is $( 0 . 5 6 { \\pm } 0 . 1 4 )$ .At last, the human influence in nomadic period was weaker than sedentary period. The mean harvested rate was $0 . 2 2 { \\scriptstyle \\pm 0 . 1 0 }$ in nomadic period. But this number was $0 . 2 8 { \\pm } 0 . 1 9$ in the period of 1987-2000,and increased to $0 . 4 3 { \\scriptstyle \\pm 0 . 0 7 }$ in the period of 2001-2005 (Fig 2). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Effects winter climate and population density on mortality and birthrate ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In the nomadic period, the mainly climatic reason for mortality fluctuation was winter snow condition changes,for example the snow depth can explain $53 \\%$ of total mortality variance at regional level. But the birthrate was primary impacted by ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "extreme cold events among all climatic variables,which can explain $2 9 \\%$ of total birthrate variance at regional level in the same period. The winter index, which was integrated from four climate parameters, can explain $63 \\%$ of total mortality variance and $32 \\%$ of total birthrate variance in nomadic period. Thus, the winter index was more effective than single climate parameters and employed in following study.The details of results and discuss about climatic parameters selection were represented in Supporting information 1. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The relationships between winter index and the demographic parameters show a threshold trend in nomadic period.Especially, the linear threshold relations are clear at the regional scale (Fig.3). When the winter index were less than mean value plus 1/2 the standard error of winter index $( \\mathrm { M e a n } + 1 / 2 \\mathrm { S D } )$ , the ${ \\tt R } ^ { 2 }$ of regressions between winter index and demographic parameters were very low at regional scale (for mortality, $\\scriptstyle \\mathbf { R } ^ { 2 } = 0 . 0 0$ $\\scriptstyle p = 0 . 7 8 7 6$ ,for birthrate and $\\scriptstyle \\mathrm { R } ^ { 2 } = 0 . 0 6$ $p { = } 0 . 5 2 8 6$ ,Fig. 3); otherwise, all regressions are significant and with high ${ \\tt R } ^ { 2 }$ (for mortality, $\\scriptstyle \\mathbf { R } ^ { 2 } = 0 . 7 7$ $p { < } 0 . 0 0 0 1$ ; and for birthrate, $\\scriptstyle \\mathrm { R } ^ { 2 } = 0 . 5 4$ $p { < } 0 . 0 0 0 1$ , Fig. 3). We defined this value as a climatic threshold for following analyses in this study; when the annual winter index was under the threshold, the winter was defined as mild; otherwise, the year was defined as harsh winter. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In nomadic period, the relation between population density and demographic parameters still followed a threshold nonlinear shape. Regular linear regressions were no significant at most sites in the whole nomadic period (Table 1 of supporting information 4). However, it found that population density only significantly ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "correlated with mortality and birthrate at the mild years.In harsh years, the regressions between population density and demographic parameters were not significant at each site (Table 3 of supporting information 4).At the regional scale, this piecewise phenomenon can be found easily, the regression population density against mortality and birthrate were both significant in mild winters,(for mortality, $\\scriptstyle \\mathrm { R } ^ { 2 } = 0 . 2 2$ $p { < } 0 . 0 0 0 1$ ; and for birthrate $\\scriptstyle \\mathrm { R } ^ { 2 } = 0 . 2 4$ ， $p { < } 0 . 0 0 0 1$ ; Fig. 4). But the two regressions were not significant in harsh year (for mortality, $\\scriptstyle \\mathrm { R } ^ { 2 } = 0 . 2 2$ $p { < } 0 . 0 0 0 1$ ; and for birthrate $\\scriptstyle \\mathrm { R } ^ { 2 } = 0 . 2 4$ $p { < } 0 . 0 0 0 1$ ; Fig. 4). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "However, the effects of climate and population density on demographic parameters weakened in sedentary period of 1987-2OO5. The winter index can explain $56 \\%$ of total mortality variance and $14 \\%$ of total birthrate variance at regional level in sedentary period, which are lower than nomadic periods. On the other hand, the regressions between population density and demographic parameters in most sites were not significant in this period. Besides we did not find any threshold evidences from these relationships in the sedentary (Supporting information 4). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Density dependence evidence from Statistic results ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Bulmer R test, Pollard et al.'test and Dannis and Taper’ test suggested density dependence only exist in a few population.In nomadic periods,all the three statistic tests suggested the density dependence in the population of sitel and site7 (Table 1, 2 and 3). The population in site6 was proved as density dependence by Pollard et.al' test and Dannis and Taper test respectively (Table 2 and 3), besides the Bulmer R ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "statistic value of site 6 population was slightly larger than $\\scriptstyle { \\mathfrak { a } } = 0 . 0 5$ critical value. Thus, we considered the site 6 population was density dependence too. The statistics values,which indicated the feedback of population density in Pollard et.al’ test and Dannis and Taper's test, were negative for population of site 1, 6 and 7. These statistics were named “rdx” and “b\", the calculation method of the two statistics was presented in supporting information 2.In sedentary period,Pollard et al.' test and Dannis and Taper's test suggested the population were density dependence of site 4 and site 5 (Table 2 and 3). But all the $\\mathbf { r } _ { \\mathrm { d x } }$ and b were positive which reflected the positive feedback of population density for the population of the two sites in the period of 1987-2005. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Model selectionresults ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "We observed the following nonlinear phenomenon in nomadic periods: there were significant linear correlation between population density and intrinsic growth rate in mild years, but the linear correlations were not significant at harsh years for most sites (except sitel, 6 and 7). We also presented the phenomenon at regional level (Fig5). The ${ \\tt R } ^ { 2 }$ of regression between population density and intrinsic growth rate was 0.35 $( p { < } 0 . 0 0 0 1 )$ in mild years and 0.03( $scriptstyle \\overbrace { p { = } 0 . 3 1 } $ )at harsh years. On the other hand, the climatic effect was very weak in mild years,but very strong in harsh years.The regional ${ \\tt R } ^ { 2 }$ of regression between winter index and intrinsic growth rate was 0.09 $_ { ( p = 0 . 0 0 4 ) }$ in mild years and 0.85( ${ \\scriptstyle p < 0 . 0 0 0 1 } \\rangle$ in harsh years(Fig 5).Thus,we presented a candidate threshold model: ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[a-cd, ifWi <threshold; (6) yi ={b-dw if $w _ { i } \\geq$ threshold. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "This threshold model means the intrinsic growth rate was just controlled by population density in mild years,and just regulated by climate in harsh winter years. It also indicated that the effects of climate and population density on sheep population dynamics followed a linear threshold form but without interaction.This type of threshold model had the smallest AICc and the highest $\\textstyle \\mathrm { R } ^ { 2 }$ among all regular and threshold models for all sites expect sitel and site6 (Table 4). On the other hand, the best models of sitel and site6 were regular linear models without the interaction term. All coefficients of climate term or population density term were negative in the optimal models in site 1 and site 6,which means the sheep population was density dependent in all winter condition (Table 4).At last, model eficacies of regular and threshold model about population of site 7 were not significant different with each other, for the difference of AICc was less than 1. So, the population of site 7 still can be considered as density dependence. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "In sedentary period, the model selection results suggested the negative effects of winter climate and population density on population growth had weakened or disappeared. All threshold models were excluded by the AICc criterion and their explanation efficacies were lower than regular models which meant the nonlinear phenomenon disappeared. The optimal models for each site can be divided as three types: the intrinsic growth rate was just influenced by climate, just influenced by population density, or influenced by combined effects climate and population density without interaction (Table 5). But, all the $\\scriptstyle { \\mathrm { \\mathrm { R } } } ^ { 2 }$ of optimal models were relatively low. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "However, all the coefficients of population density term were positive, which means the population abundant had sped population growth in sedentary period. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Simulated demographic pattern ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The simulations suggested that the demographic pattern were boom and bust in all sites under the nomadic social-ecosystem scenario with the real winter climate data of the period 1987-2Oo5, which were different with the actual population dynamics (Fig. 6). Besides, simulations population abundant data did not exceed their peak value of nomadic abundant in all sites. Therefore, the reason of why the population had continued growing in sedentary period was that the limitations of climate and density dependence had weakened or disappeared. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Density effect did exist in nomadic period (1962-1979) ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "This study proved that the density dependence was an important regulation factor on sheep population dynamics in nomadic period of Mongolia grassland. In our study, some sheep populations were density dependent, the other populations were also regulated by population density at non-duzd winters. But, only a previous study had the similar finding with this study in Mongolia plateau, which found that there were positive correlations between yesteryear population density and mortality during duzd year (Tachiiri et al. 2OO8).So we would still discuss our results cautiously in this section. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "At first, there are some weaknesses in the statistic methods; for example only Bulmer $\\mathbb { R } ^ { * }$ test is not sensitive against census error among the all statistic methods (Fox and Ridsdillsmith 1995), but efficacy of Bulmer $\\mathbb { R } ^ { * }$ was lowest among all statistic methods (Shenk et al. 1998). Freckleton et al. (2006) suggested that two common types of census error can reduce the statistic efficacies. These census errors are usually caused by the two following reasons: the population abundant were not been fully censused, but just estimated by few individual; or the objective population was not a full self-maintain population rather than a subset population (Freckleton et al. 2006). But these error types did not exist in the census data of our study, which recorded all animals in a geographic region. The error of our census data maybe root in the political and economic reasons. Local officers often aggrandized the population increase abundant to gain political achievement during mild years, which underestimated the negative effect of population density; they would also overdrew the population loss during duzd year to get more alms from central government, which overestimated the impact of snow disaster.The political and economic census error increased the probability of making type II error of these statistic methods (accepting the null hypothesis of density independence). Besides, the model selection results confirmed these statistic results. The optimal models were regular linear models with negative density term for these three populations of site 1, 6 and 7, which means population growth was limited by the population density.Hence, these findings of ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "density dependence were robust. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "On the other hand,for these density independence populations which were tested by statistic methods, population density still impacted the population dynamics during non-duzd years. These optimal models of these density independent populations were linear threshold equations.Besides, the birthrate and mortality showed significant nonlinear threshold forms in responding climate and population density changes too. These threshold evidences indicated that the population density was major driven factor of population dynamics at mild winter years, while only climate impacted population dynamics at harsh winter years. Besides, it was common knowledge in ungulate population ecological studies that the density independence were caused by the nonlinear or threshold influences of population density and climate (Coulson et al. 2001, Mysterud et al. 2001, Jacobson et al. 2004, Chan et al. 2005,Lima and Berryman 2006,Tyler et al. 2008, Colchero et al. 2009). Because pervious studies mainly focused on the duzd event in Mongolia plateau (Begzsuren et al. 2004), thus these studies had very few chance to detect the impacts of density dependence. Therefore, both population density and climate can regulate the domestic animal population dynamics in nomadic period of Mongolia plateau. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "To our surprise,we did not detect the interaction effect of climate and density dependence on population dynamics; for all optimal models did not contain interaction term of population density and climate. Although numerous of studies found the interaction effect of climate and density dependence (Aanes et al. 2000, Forchhammer et al. 20O1, Weladji and Holand 2003, Jacobson et al. 2OO4,Lima and ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Berryman 2OO6, Tyler et al. 2O08), while there were also some previous studies did not discover the interaction effects (Solberg et al. 2OO1). The interaction effects of climate and population density usually root in following reasons. The first reason was that the population density aggravates the food shortages by competition during harsh climate periods. The second reason was that snow can cause positive effects on animal population growth by improving the quality and quantity of forage in the next growing season; many previous studies had found the effects in Europe (Mysterud et al. 2OO1). But, the food competition hardly happened during the extreme harsh winters. Because all plants were covered by snow, thus there was no food for competition. On the other hand, the winter precipitation is very low and the spring is windy and arid. Snow can only have very slight influence on peak biomass of the next year in Inner Mongolia grassland (Peng et al. 2O1O). Thus, the positive effect of snow is very weak in Ujimuqin grassland. However, we should point that the result of “no interaction effects” is just a region-specific finding for the Ujimuqin grassland, which is a wet part of the Mongolia plateau. Interaction effects of climate and density dependence may exist in the other regions of Mongolia plateau, especially in dryer grasslands. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "It should explain that why the population were density dependent in the three sites,while were not the others population.There is the large area of sandy land in site1. The sandy land plant community is composed by shrub and tall grass with high biomass (Li et al. 2O12). The tall plants are hardly completely buried by snow, and can provide some food during duzd. Thus,immigrating into sandy land is the traditional adaption strategy of local herdsmen to against duzd. On another hand, there are many hills in the site6 and site7. The snow accumulation may be more heterogeneity; the snow depth may be deep in somewhere, and shallow in other place. We guessed that the landform and vegetation heterogeneity may be the reason why the population is density dependence in the three sites. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "The influence of climate and density dependence on nomadic society ",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "The impacts of climate and density dependence on domestic animal marked the behavior of nomadic herdsmen deeply.Although the nomadic Mongolian had a lot traditional ecological knowledge about duzd, but the only adaption strategy was migration (Jia 2O11),which is very similar with the wild animal behavior (Stien et al. 2010).The migration during pasture locked condition is full of risks for food lack and energy deficit (Weladji and Holand 2OO3). It recorded that sheep population can loss $30 \\%$ individual during the five days migration in a duzd, this loss proportion of cattle and horse were about $20 \\%$ (Wang 2Oo6). During normal years,Mongolian herdsmen know it should reduce high animal density to avoid the outbreak of epidemic disease, thus they usually migrate out to keep low animal density.Many interviews of nomadic Mongolian people suggested that the migration distance and frequency positively correlate with the population size in nomadic period (Erdenebaatar 2003, Junichi 2005,Wang 2006, Jiang 2007). Therefore, just like these climate disasters, the density dependence effects can “push” the nomadic people to migrate out too. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Toynbee (1934) summarized that all nomadic people invasion are due to two external driving forces,one is the climate disasters in the steppe which push the nomadic people off the habitat,and the other is the social vacuum of neighborhood sedentary regions which pulls the nomadic people out the steppes. The “pushing force” and “pulling force” theory is succeed by most subsequent empirical studies after Huntington (1907) and Toynbee (1934); especially the“pushing of climate deterioration” are the core theory of explaining nomadic nation rise,invasion and conquest from natural environment perspective, and have derived many specific hypotheses, such as climate cooling driving hypothesis (Jenkins 1974, Lamb 1997), or cooling and drought driving hypothesis (Brown 2Oo1). However, our findings suggest another “natural pushing force”-- density dependence,which would drive nomadic people to migrate when the animals are flourishing during climatic optimum. Therefore impacts of climate change on rise of nomadic nations may be more complex than precious understanding. Both bad climate and good climate can cause nomadic people migration. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Especially, the “density dependence pushing force” theory can help us to fix the miss link of the “climatic optimum hypothesis” about the rise and conquest of Genghis Khan. It had already been known that the climate was warm and wet in Eurasian steppe during the Medieval Climate Optimum, and the harsh winter was less than other period of record history (HVIS 2O11). Thus, the animal population would increase to a very high level, and then the density dependent effect would strengthen too. Under this scenario, nomadic people would migrate out to weaken the density dependent effect, and then expand their habit.The migration which was aim to weaken density dependence is more powerful than the migration for avoiding climatic disaster.During climate deterioration periods, the loss of animal and people would undermine the nomadic nation, and then it can not support an extensive conquest. Many nomadic empires resigned or collapsed after serious climatic disasters in history, such as Eastern Turk empire collapsed for a climate suddenly cooling in the 7th century (Fei et al. 2OO7),and Huns resigned to Han dynasty for drought. However, the density dependence can push nomadic people off the steppes with more human and animal recourse during climatic optimum.Now, the climatic optimum hypothesis seemed more credible to explain the Genghis Khan rise and conquest after it was assisted by“density dependence pushing force” theory. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "The impacts of natural regulation weakening in sedentary period ",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Human behavior can not eliminate the natural factors influence on population dynamics in nomadic period, however neither climate nor population density can limit the population growth in sedentary period. The impacts of winter climate on animal are closed out the door, and the density dependent effects based on food competition and epidemic were eliminated by storing forage and modern veterinary knowledge. The simulation results showed the sheep population would still fluctuate and crash in the period of 1987-2OO5 if the negative feedbacks had not weakened. These simulation results indicated that the reason of overgrazing. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Our study results may provide a new insight for future rangeland ecosystem management in Inner Mongolia plateau. During nomadic period, both climate and density dependence are negative feedback which maintain the balance of animal population and vegetation dynamics. The rangeland ecosystems are spontaneously sustainable in this nomadic period. However, these natural feedbacks had been weakened or disappeared during sedentary period; and harvesting effect was the only limitation factor of animal population growth before the vegetation system collapse. The maintain mechanism in sedentary period was simpler than nomadic period, and more depended on human interventions (Fig. 7).Another study had found the vegetation dynamics were seldom influenced by grazing when the animal population was in the boom and bust cycle, while showed significant degeneration trend for the grazing pressure continue increased (Li et al. 2O12). Therefore, the rangeland ecosystem had shift from the natural spontaneity sustainable status into the human intervention dependent sustainable status (Fig. 7). Inner Mongolia people had gradually conquered the duzd, and achieved the flourishing of grazing husbandry, but the rangeland ecosystems resilience had been weakened meantime. This case suggested that the improvement of human adaption ability to natural disaster may cause unexpected ecosystem regime shift and result in more complex situation. Our study did not aim to blame the social change and effort of local herdsmen in combating with duzd, but we just try to understand how complex are the ecosystems. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Conclusion ",
+        "text_level": 1,
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "In nomadic period, sheep population dynamic was regulated by combined effect of climate and density dependence in Ujimuqin grassland of Inner Mongolia Plateau. There were several density dependence populations in the study area. For these density independence population, population growth mainly limited by population density in mild winters, but only controlled by climate during harsh winter years. These natural population regulation feedbacks limited the sheep population growth, and kept the population following the boom and bust cycle pattern. Because the density dependent effect is usually neglected in Mongolia plateau, our findings might be a“black swan” discovery. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Our findings proved that Mongolian nomadic people would migrate for avoiding climatic disaster, or for weakening density dependence during the climatic optimum. Thus,we proposed there is “density dependence pushing force” for nomadic nation rise,invasion and conquest during climatic optimum. The “density dependence pushing force” changed the pervious common sense that only “climatic disaster pulling force” can cause nomadic population immigration. Besides, the “density dependence pulling force” view can fix the critical link of climatic optimum hypothesis about rise and conquest of Genghis Khan, and made it more credible than before. This finding of density dependence pulling force would help us to study more nomadic history in Eurasian steppe. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, the climate effect on population dynamics weakened, and the effect of negative density dependence disappeared during sedentary period. These population regulation mechanism changes had driven the sheep population continuing growth in the sedentary period. It indicated that the human society change can ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "weaken the natural population regulation mechanisms,and drive the rangeland ecosystems regime shift from “animal population fluctuation but ecosystem is spontaneously sustainable\" status into “animal rapid increase but vegetation continues degeneration” status. This knowledge of regime shift can provided a new explanation for recent overgrazing problem and rangeland ecosystem denegation in Inner Mongolia grassland. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement: ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "This work is found by xxxxxxx. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Reference: ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Aanes,R., B.E. Sether, and N.A. Oritsland. 2Ooo.Fluctuations of an introduced population of Svalbard reindeer: the effects of density dependence and climatic variation. Ecography 23:437-443.   \nBeddington, J.R.and R.M. May. 1977. Harvesting natural-populations in a randomly fluctuating environment. Science 197:463-465.   \nBegzsuren, S., J. E. Ellis,D. S. Ojima, M. B. Coughenour, and T. Chuluun. 2004. Livestock responses to droughts and severe winter weather in the Gobi Three Beauty National Park, Mongolia. Journal of Arid Environments 59:785-796.   \nBrown, N. G. 2OO1. History and climate change: a Eurocentric perspective. Routledge, London.   \nBulmer, M. G. 1975. Statistical-analysis of density dependence. Biometrics 31:901-911.   \nChan,K. S.,A. Mysterud, N.A. Oritsland, T. Severinsen, and N. C. Stenseth. 2005. Continuous and discrete extreme climatic events affecting the dynamics of a high-arctic reindeer population. Oecologia 145:556-563.   \nChase-Dunn, C., T.D.Hall, R.Niemeyer, A. Alvarez, H. Inoue, K.Lawrence, and A. Carlson. 2O1O.Middlemen and marcher states in central Asia and east/west empire synchrony. Social Evolution and History 9:52-79.   \nColchero,F., R.A. Medellin, J. S. Clark, R. Lee,and G. G. Katul. 2OO9. Predicting population survival under future climate change: density dependence, drought ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "and extraction in an insular bighorn sheep. Journal of Animal Ecology 78:666-673.   \nCoulson, T., E.A. Catchpole, S.D.Albon, B.J. T. Morgan, J. M. Pemberton, T. H. Clutton-Brock, M. J. Crawley, and B. T. Grenfell 2001. Age, sex, density, winter weather, and population crashes in Soay sheep. Science 292:1528-1531.   \nDennis,B.and M.L. Taper. 1994.Density-dependence in time series observations of natural populations estimation and testing. Ecological Monographs 64:205-224.   \nDesta, S. and D.L. Coppock. 2OO2. Cattle population dynamics in the southern Ethiopian rangelands, 1980-97. Journal of Range Management 55:439-451.   \nDiserud, O. H. 2Oo1. Detecting changes in diversity in a fluctuating environment based on simulation of stochastic processes. Oceanologica Acta 24:505-517.   \nEngen, S., R. Lande, and B. E. Saether. 1997. Harvesting strategies for fluctuating populations based on uncertain population estimates. Journal of Theoretical Biology 186:201-212.   \nErdenebaatar, B.2Oo3. Mongolia case study 1: Studies on long-distance transhumant grazing systems in Uvs and Khuvsgul aimags of Mongolia, 1999-2000.in J. M. Suttie and S.G. Reynolds,editors. Transhumant Grazing Systems in Temperate Asia. Food and agriculture organization of the united nations, Rome.   \nFei, J., J. Zhou, and Y. Hou. 20O7. Circa AD 626 volcanic eruption, climatic cooling, and the collapse of the Eastern Turkic Empire. Climatic change 81:469-475.   \nFernandez-Gimenez, M. E., B. Batkhishig,and B.Batbuyan. 2O12. Cross-boundary and cross-level dynamics increase vulnerability to severe winter disasters (dzud) in Mongolia. Global Environmental Change-Human and Policy Dimensions 22:836-851.   \nForchhammer, M. C., T. H. Clutton-Brock, J.Lindstrom,and S.D.Albon. 2001. Climate and population density induce long-term cohort variation in a northern ungulate. Journal of Animal Ecology 70:721-729.   \nForchhammer, M. C., N. C. Stenseth, E. Post, and R. Langvatn. 1998. Population dynamics of Norwegian red deer: density-dependence and climatic variation. Proceedings of the Royal Society of London Series B-Biological Sciences 265:341-350.   \nFox,D.R. and J. Ridsdillsmith. 1995. Tests for density-dependence revisited. Oecologia 103:435-443.   \nHelle,T. and I. Kojola. 2Oo8.Demographics in an alpine reindeer herd: effects of density and winter weather. Ecography 0:080227084236895-080227084236890.   \nHerrando-Perez, S., S. Delean, B.W. Brook, and C.J.A. Bradshaw. 2012. Density dependence: an ecological Tower of Babel. Oecologia 170:585-603.   \nHuang, J. H., Y. F. Bai, and Y. Jiang. 2Oo9. Xilingol grassland, Inner Mongolia. Pages 120-135 in C. Squires, X. Lu, Q. Lu, T. Wang, and Y. Yang, editors. Rangeland degradation and recovery in China's pastoral lands. CAB International, Oxfordshire.   \nHumphrey, C.and D.A. Sneath. 1999. The end of Nomadism?: society, state, and the environment in Inner Asia. Duke University Press Books, Durham, NC.   \nHuntington, E. 19O7. The Pulse of Asia: A Journey in Central Asia Illustrating the Geographic Basis of History. Houghton, Mifflin Company, Boston, New York.   \nHVIS,A. 2011. Roots of Empire. Science 4:578.   \nImperio, S., S. Focardi, G. Santini, and A. Provenzale. 2O12. Population dynamics in a guild of four Mediterranean ungulates: density-dependence, environmental effects and inter-specific interactions. Oikos 121:1613-1626.   \nJacobson, A. R.,A. Provenzale, A. von Hardenberg, B. Bassano,and M. Festa-Bianchet. 2O04. Climate forcing and density dependence in a mountaion ungulate population. Ecology 85:1598-1610.   \nJenkins, G. 1974. A note on climatic cycles and the rise of Chinggis Khan. Central Asiatic Journal 18:217-226.   \nJia, Y.L. 2O11. Discussion on Desertification and Nomadism. Chinese Journal of Grassland 33:1-5.   \nJiang, G. M., X. G. Han, and J. Wu. 2OO6. Restoration and management of the inner Mongolia grassand require a sustainable strategy. Ambio 35:269-270.   \nJiang, Y. 2OO7. Nomadic culture, land-use change and ecosystem management: a case study in the Xilin River basin, Inner Mongolia. Chinese Academy of Sciences, Beijing.   \nJohnson, D. A., D. P. Sheehy, D. Miller, and D. Damiran. 20o6. Mongolian rangelands in transition. Secheresse (Montrouge) 17:133-141.   \nJunichi, Y. 2Oo5. Nomadic mobility and settlement: from perspective of Mongolian traditional nomadic pastoralism. Mengguoxuejikan 3:1-10.   \nKokko,H. and J. Lindstrom. 1998. Seasonal density dependence,timing of mortality, and sustainable harvesting. Ecological Modelling 110:293-304.   \nLamb, H. H. 1997. Climate, history and the modern world. Routedge,London.   \nLande, R., S. Engen,and B.E. Saether. 1995. Optimal harvesting of fluctuating populations with a risk of extinction. American Naturalist 145:728-45.   \nLeigh,E. G. 1981. The average lifetime of a population in a varying environment. Journal of Theoretical Biology 90:213-239.   \nLi, A.,J. Wu, and J. Huang. 2O12. Distinguishing between human-induced and climate-driven vegetation changes: a critical application of RESTREND in inner Mongolia. Landscape Ecology 27:969-982.   \nLi, O.and R. Ma. 1993. Changes in the nomadic patern and its impact on the Inner Mongolian steppe grasslands ecosystem. Nomadic Peoples 33:63-72.   \nLi, W. J. and L. Huntsinger. 2O11. China's Grassland Contract Policy and its Impacts on Herder Ability to Benefit in Inner Mongolia: Tragic Feedbacks. Ecology and Society 16.   \nLi, W. J. and Y. B.Li. 2012. Managing Rangeland as a Complex System: How Government Interventions Decouple Social Systems from Ecological Systems. Ecology and Society 17.   \nLima, M. and A. Berryman. 2006. Predicting nonlinear and non-dditive effects of climate: the Alpine ibex revisited. Climate Research 32:129-135.   \nMay, R. M. 1981 Models for Single Populations. Pages 5-29 in R. M. May, editor. Theoretical Ecology. Sinauer Associates, Sunderland.   \nMysterud,A., N. C. Stenseth, N. G. Yoccoz, R. Langvatn, and G. Steinheim. 2001. Nonlinear effects of large-scale climatic variability on wild and domestic herbivores. Nature 410:1096-1099.   \nPeng, S. S., S.L. Piao, P. Ciais, J. Y. Fang,and X.H. Wang. 2O1O. Change in winter snow depth and its impacts on vegetation in China. Global Change Biology 16:3004-3013.   \nPerch-Nielsen, S.L.,M. B. Bättig, and D. Imboden. 2008.Exploring the link between climate change and migration. Climatic change 91:375-393.   \nPollard,E., K. H. Lakhani,and P. Rothery. 1987. The detection of density-dependence from a series of annual censuses.Ecology 68:2O46-2055.   \nPost, E. and N. C. Stenseth. 1999. Climatic variability, plant phenology, and northern ungulates. Ecology 80:1322-1339.   \nRobinson, S., E. J. Milner-Gulland, and I. Alimaev. 2OO3. Rangeland degradation in Kazakhstan during the Soviet era: re-examining the evidence. Journal of Arid Environments 53:419-439.   \nSether, B.-E. 1997. Environmental stochasticity and population dynamics of large herbivores: a search for mechanisms.Trends in Ecology & Evolution 12:143-149.   \nSaether, B.E., S. Engen, and R. Lande.1996. Density-dependence and optimal harvesting of fluctuating populations. Oikos 76:40-46.   \nSheeny, D. 1993. Grazing management strategies as a factor influencing ecological stability of Mongolian grasslands. Nomadic Peoples 33:17-30.   \nShenk,T. M., G. C. White,and K. P. Burnham. 1998. Sampling-variance effects on detecting density dependence from temporal trends in natural populations. Ecological Monographs 68:445-463.   \nSimard, M. A., T. Coulson, A. Gingras, and S. D. Coté. 201O. Influence of density and climate on population dynamics of a large herbivore under harsh environmental conditions. The Journal of Wildlife Management 74:1671-1685.   \nSneath, D. 1998. State policy and pasture degradation in Inner Asia. Science 281:1147.   \nSolberg, E. J.,P. Jordhoy, O. Strand, R. Aanes,A. Loison, B.E. Sather, and J. D.C. Linnell. 2O01. Effects of density-dependence and climate on the dynamics of a Svalbard reindeer population. Ecography 24:441-451.   \nSternberg, T. 2OO8. Environmental challenges in Mongolia's dryland pastoral landscape. Journal of Arid Environments 72:1294-1304.   \nStien, A., L. E. Loe,A. Mysterud, T. Severinsen, J. Kohler, and R. Langvatn. 2010. Icing events trigger range displacement in a high-arctic ungulate. Ecology 91:915-920.   \nTachiri, K., M. Shinoda, B. Klinkenberg, and Y. Morinaga. 20o8. Assessing Mongolian snow disaster risk using livestock and satellite data. Journal of Arid Environments 72:2251-2263.   \nTong, C., J. Wu, S. Yong, J. Yang,and W. Yong. 2Oo4. A landscape-scale assessment of steppe degradation in the Xilin River Basin, Inner Mongolia, China. Journal of Arid Environments 59:133-149.   \nToynbee,A.J.1934.A Study of History. Oxford University Press,London.   \nTurnbull, S. 2003. Genghis Khan & the Mongol Conquests 1190-1400. Osprey Publishing.   \nTyler, N.J. C.,M. C. Forchhammer, and N.A. Oritsland. 2OO8. Nonlinear Effects of Climate and Density in the Dynamics of a Fluctuating Population of Reindeer. Ecology 89:1675-1686.   \nVetter, S. 2Oo5. Rangelands at equilibrium and non-equilibrium: recent developments in the debate. Journal of Arid Environments 62:321-341.   \nWang,J. 2006. Duzd and society. Pages 203-216 in J. Wang, editor. Ago-pastoral ecology and traditional Mongolian society Shandong people's publishing house, Jinan.   \nWeladji, R.B.and O.Holand.2OO3. Global climate change and reindeer: effects of winter weather on the autumn weight and growth of calves. Oecologia 136:317-323.   \nWu, W., Q. Ge, J. Zheng, Y. Zhou, and Y. Hu. 2OO9.Possible role of climate change in the mongol westward conquests. Quaternary Sciences 29:724-732.   \nZhang, Q. and W. J. Li. 2Oo8. Policy Analysis in Grassland Management of Xilingol Prefecture,Inner Mongolia. Pages 493-5O5 in Cathy Lee and T. Schaaf., editors. The Future of Drylands: International Scientific Conference Desertification and Drylands Research. Tunis (Tunisia),19 - 21 June 2OO6. Springer. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 31
+    },
+    {
+        "type": "table",
+        "img_path": "images/33698eb59177c23e9e7aa89edce7b7de696a076ad97ff760ea564bc15acdddfb.jpg",
+        "table_caption": [
+            "Table 1. Bulmer $\\mathbf { R } ( \\mathbf { R } ^ { * } )$ test results of the ten sites during the nomadic periods (1962-1979).If the statistics are smaller than critical value ( $\\scriptstyle ( a = 0 . 0 5 )$ ,then the $\\mathrm { H } _ { 0 }$ of is density independence rejected, and the population was marked as boldface. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Statistics</td><td>α=0.05</td><td>Site 1</td><td>Site 2</td><td>Site 3</td><td>Site 4</td><td>Site 5</td></tr><tr><td>Bulmer R</td><td>0.8356</td><td>0.4540</td><td>3.9986</td><td>3.6842</td><td>0.9703</td><td>1.0578</td></tr><tr><td>Bulmer R*</td><td>- 0.4372</td><td>-0.1069</td><td>0.0439</td><td>0.0797</td><td>0.0404</td><td>0.1290</td></tr><tr><td>Statistics</td><td>α=0.05</td><td>Site 6</td><td>Site 7</td><td>Site 8</td><td>Site 9</td><td>Site 10</td></tr><tr><td>Bulmer R</td><td>0.8356</td><td>0.9002</td><td>0.4703</td><td>0.9578</td><td>2.3731</td><td>1.4815</td></tr><tr><td>Bulmer R*</td><td>- 0.4372</td><td>-0.0400</td><td>-0.1637</td><td>0.0764</td><td>0.1220</td><td>0.0554</td></tr></table></body></html>",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Table 2. The results of Pollard et. al' test about 2O sheep population time series. ",
+        "page_idx": 33
+    },
+    {
+        "type": "table",
+        "img_path": "images/b18dffa6c2a2854fc6908a124edec3d11f9e2be1e110acc6c2c1f1517adbf3bf.jpg",
+        "table_caption": [
+            "The $\\mathrm { H } _ { 0 }$ of density independence was rejected when the $T _ { 2 3 }$ of original data is smaller than critical value of the $T _ { 2 3 } { ^ * }$ 0 $\\scriptstyle ( 0 = 0 . 0 5 )$ which was generated from the random shuffled dataset. The density independence population was marked as boldface. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">Nomadic period (1962-1979)</td><td colspan=\"2\">Sedentary period (1987-2005)</td></tr><tr><td>Site</td><td>T23*(α=0.05)</td><td>T23 of original data</td><td>T23*(α=0.05)</td><td>T23 of original data</td></tr><tr><td>1</td><td>0.7650</td><td>0.4607</td><td>0.7804</td><td>0.9623</td></tr><tr><td>2</td><td>0.7703</td><td>0.9026</td><td>0.7803</td><td>0.8828</td></tr><tr><td>3</td><td>0.7803</td><td>0.9484</td><td>0.7865</td><td>0.9994</td></tr><tr><td>4</td><td>0.7672</td><td>0.7465</td><td>0.6895</td><td>0.6432</td></tr><tr><td>5</td><td>0.7500</td><td>0.9357</td><td>0.7815</td><td>0.6330</td></tr><tr><td>6</td><td>0.7664</td><td>0.6326</td><td>0.7880</td><td>0.9394</td></tr><tr><td>7</td><td>0.7677</td><td>0.6150</td><td>0.7581</td><td>0.9999</td></tr><tr><td>8</td><td>0.7695</td><td>0.7883</td><td>0.7790</td><td>0.9216</td></tr><tr><td>9</td><td>0.7317</td><td>0.9880</td><td>0.7824</td><td>0.9179</td></tr><tr><td>10</td><td>0.7681</td><td>0.7912</td><td>0.6906</td><td>0.9773</td></tr></table></body></html>",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Table 3.The results of Dannis and Taper 'test on 2O sheep population time series. The $\\mathrm { H } _ { 0 }$ of density independence was rejected when the ${ T _ { 2 3 } } ^ { 2 }$ of original data is larger than critical value of the $T _ { 2 3 } { } ^ { 2 * } \\left( \\mathrm { a } \\mathrm { = } 0 . 0 5 \\right)$ which was generated from the bootstrap dataset. The density independence population was marked as boldface too. ",
+        "page_idx": 34
+    },
+    {
+        "type": "table",
+        "img_path": "images/1ccc045ed3a842d7c24c8c157cb36adfbf93d4c4f06c33840d253ce89893571f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">Nomadic period (1962-1979)</td><td colspan=\"2\">Sedentary period (1987-2005)</td></tr><tr><td>Sites</td><td>T232 *(α=0.05)</td><td>T23² of Original data</td><td>T232 *(α=0.05)</td><td>T23² of Original data</td></tr><tr><td>1</td><td>4.7840</td><td>16.5900</td><td>4.7040</td><td>0.5179</td></tr><tr><td>2</td><td>4.9566</td><td>1.1407</td><td>4.4657</td><td>1.4947</td></tr><tr><td>3</td><td>5.7077</td><td>0.5389</td><td>4.5440</td><td>0.0307</td></tr><tr><td>4</td><td>4.8637</td><td>4.8536</td><td>5.1350</td><td>6.6623</td></tr><tr><td>5</td><td>5.4164</td><td>0.7908</td><td>4.5338</td><td>9.8753</td></tr><tr><td>6</td><td>4.9143</td><td>8.2752</td><td>4.6414</td><td>0.7821</td></tr><tr><td>7</td><td>4.6947</td><td>10.4106</td><td>4.7122</td><td>0.0049</td></tr><tr><td>8</td><td>4.8972</td><td>3.7811</td><td>4.4222</td><td>1.0985</td></tr><tr><td>9</td><td>6.6599</td><td>0.0399</td><td>4.5227</td><td>1.2027</td></tr><tr><td>10</td><td>5.5849</td><td>1.2576</td><td>4.7094</td><td>0.3054</td></tr></table></body></html>",
+        "page_idx": 34
+    },
+    {
+        "type": "table",
+        "img_path": "images/ef86d60e017062cbf1426dd0da84ecb4d1f4770c7c8dc5dd6816475bc741e536.jpg",
+        "table_caption": [
+            "Table 4. The optimal regular model and threshold model during nomadic period and was labeled as boldface.“yi”,“di”,“wi” and“K” stand for intrinsic growth rate, population density and winter index, parameter number of equation respectively. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Site</td><td>Method</td><td>Optimal Models (1962-1979)</td><td></td><td>K</td><td>Adj-R²</td><td>AICc</td></tr><tr><td></td><td>Regular</td><td>y =1.28-0.31d;</td><td></td><td>2</td><td>0.51</td><td>-42.0</td></tr><tr><td>1</td><td>Threshold</td><td>[1.37 - 0.34d;</td><td>ifWi<1.69;</td><td>4</td><td>0.51</td><td>-36.9</td></tr><tr><td></td><td></td><td>[0.23- 0.003wi</td><td>ifwi≥1.69.</td><td></td><td></td><td></td></tr><tr><td></td><td>Regular</td><td>y; = 0.35-0.02d * W</td><td></td><td>2</td><td>0.16</td><td>-27.9</td></tr><tr><td>2</td><td>Threshold</td><td>{0.83-0.15d; yi</td><td>ifWi <1.71;</td><td>4</td><td>0.62</td><td>-29.0</td></tr><tr><td></td><td></td><td>[0.75 - 0.25w;</td><td>ifwi≥1.71.</td><td></td><td></td><td></td></tr><tr><td>3</td><td>Regular</td><td>y = 0.42-0.18w;</td><td></td><td>2</td><td>0.33</td><td>-25.0</td></tr><tr><td></td><td>Threshold</td><td>[0.78 - 0.14d; yi [0.84 - 0.40w;</td><td>ifWi<1.42;</td><td>4</td><td>0.77</td><td>-28.3</td></tr><tr><td></td><td></td><td></td><td>ifwi ≥1.42.</td><td></td><td></td><td></td></tr><tr><td>4</td><td>Regular</td><td>y = 0.91- 0.20di -0.06wi</td><td></td><td>3</td><td>0.48</td><td>-34.0</td></tr><tr><td></td><td>Threshold</td><td>{0.87 - 0.21d; yi [0.62 - 0.17w</td><td>ifW;<1.94; ifwi≥1.94.</td><td>4</td><td>0.61</td><td>-33.5</td></tr><tr><td>Regular</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td></td><td>y； = 0.39-0.03d * Wi</td><td></td><td>2</td><td>0.18</td><td>-24.9</td></tr><tr><td></td><td>Threshold</td><td>[0.96 - 0.23di [0.90- 0.31w;</td><td>ifwi <1.94; ifwi ≥1.94.</td><td>4</td><td>0.62</td><td>-25.8</td></tr><tr><td>Regular</td><td></td><td>yi = 0.94-0.24d - 0.06wi</td><td></td><td></td><td>0.57</td><td>-39.6</td></tr><tr><td>6</td><td></td><td></td><td></td><td>3</td><td></td><td></td></tr><tr><td></td><td>Threshold</td><td>[.19-0.3,</td><td>w≥178:</td><td>4</td><td>0.55</td><td>-36.5</td></tr><tr><td>Regular</td><td></td><td>y =1.06-0.22d; - 0.04wi</td><td></td><td>3</td><td>0.42</td><td>-34.6</td></tr><tr><td>7 Threshold</td><td></td><td>{1.05 - 0.23d;</td><td>ifw<1.82;</td><td></td><td></td><td></td></tr><tr><td></td><td>yi</td><td>[0.63- 0.16w;</td><td>ifwi≥1.82.</td><td>4</td><td>0.63</td><td>-35.4</td></tr><tr><td>Regular</td><td></td><td>y = 0.39-0.03d * W;</td><td></td><td>2</td><td>0.40</td><td>-32.1</td></tr><tr><td>8 Threshold</td><td>yi</td><td>{0.80 -0.18di</td><td>ifWi <1.75;</td><td>4</td><td>0.77</td><td>-34.4</td></tr><tr><td></td><td></td><td>[0.75- 0.26w;</td><td>ifwi≥1.75.</td><td></td><td></td><td></td></tr><tr><td>Regular 9</td><td></td><td>y = 0.43-0.21w;</td><td></td><td>2</td><td>0.34</td><td>-22.1</td></tr><tr><td></td><td>Threshold</td><td>{0.50 - 0.08d; yi</td><td>ifWi <1.75;</td><td>4</td><td>0.68</td><td>-22.6</td></tr><tr><td></td><td></td><td>[1.04 - 0.52wi</td><td>ifw≥1.75.</td><td></td><td></td><td></td></tr><tr><td>Regular</td><td></td><td>y = 0.42-0.34d * Wi</td><td></td><td>2</td><td>0.39</td><td>-26.6</td></tr><tr><td>10</td><td></td><td>[1.07 - 0.20di</td><td></td><td></td><td></td><td></td></tr><tr><td>Threshold</td><td>yi</td><td>[0.89 -0.32w;</td><td>ifwi <1.45; ifwi≥1.45.</td><td>4</td><td>0.80</td><td>-30.0</td></tr></table></body></html>",
+        "page_idx": 35
+    },
+    {
+        "type": "table",
+        "img_path": "images/94cd03fbf598a048532f1e371b0ae07132d9b3785b8e7508d619c8fd6f9de181.jpg",
+        "table_caption": [
+            "Table 5. The optimal models for each population in sedentary period (after 1987). The“yi”,“di”,“wi” and “K’ are the same with table 4. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Model Type</td><td>Site</td><td>Optimal Models</td><td>K</td><td>Adj-R²</td><td>AICc</td></tr><tr><td rowspan=\"4\">Type1</td><td>3</td><td>y = 0.47 - 0.07wi</td><td>2</td><td>0.25</td><td>-30.9</td></tr><tr><td>8</td><td>y = 0.45- 0.04wi</td><td>2</td><td>0.29</td><td>-36.2</td></tr><tr><td>9</td><td>y = 0.49 -0.06w;</td><td>2</td><td>0.14</td><td>-30.0</td></tr><tr><td>10</td><td>y = 0.29 -0.02wi</td><td>2</td><td>0.18</td><td>-49.4</td></tr><tr><td rowspan=\"4\">Type2</td><td>1</td><td>y; = -0.41+ 0.15d</td><td>2</td><td>0.08</td><td>-34.1</td></tr><tr><td>6</td><td>yi = 0.17 + 0.10d</td><td>2</td><td>0.12</td><td>-34.8</td></tr><tr><td>4</td><td>yi = -0.09 +0.17d</td><td>2</td><td>0.51</td><td>-46.5</td></tr><tr><td>5</td><td>y = -0.14 + 0.19d, -0.04wi</td><td>3</td><td>0.53</td><td>-35.3</td></tr><tr><td rowspan=\"2\">Type3</td><td>2</td><td>y = -0.20 + 0.18d, -0.04wi</td><td>3</td><td>0.38</td><td>-31.6</td></tr><tr><td>7</td><td>y = -0.50+ 0.26d, -0.03wi</td><td>3</td><td>0.49</td><td>-37.7</td></tr></table></body></html>",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Figure Captions: ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Fig.1. The geographic location of study area in the Eurasian steppe and population time series of this study. ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Fig.2. The demographic parameter (mortality, birthrate and harvested rate) from 1962 to 2005 for each site. ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Fig. 3. The relationship between mortality, birthrate and winter climate during mild and harsh winters respectively at the regional scale. ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Fig. 4The relationship between mortality, birthrate and population density during mild and harsh winters respectively at the regional scale. ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Fig. 5. The regional relationship between intrinsic growth rate, population density and winter climate during mild or harsh winters respectively. The figure did not include the data of population at site1, 6 and 7, for these population are density dependence. ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Fig. 6. The simulation population pattern of 1987-2Oo5 under the nomadic scenario by the real climate condition of 1987-2OO5 and population abundant of 1987 at each site. ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Fig. 7. The rangeland ecosystem regime shift map. ",
+        "page_idx": 37
+    },
+    {
+        "type": "image",
+        "img_path": "images/cb4af50c4da4aa9b61bfcc0b0fe18fa29a2ff3699400f524eafd5441e9985a9e.jpg",
+        "img_caption": [
+            "Fig. 1. "
+        ],
+        "img_footnote": [],
+        "page_idx": 38
+    },
+    {
+        "type": "image",
+        "img_path": "images/9cb862db7a2d758ba01da817334a5d8d31dff424209ba73644227b468e658d3a.jpg",
+        "img_caption": [
+            "Fig. 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 39
+    },
+    {
+        "type": "image",
+        "img_path": "images/84a37f5f7bfcdf81c3fc49fc27aec0258f58e504300718f63b6b72111c6c0e82.jpg",
+        "img_caption": [
+            "Fig. 3. "
+        ],
+        "img_footnote": [],
+        "page_idx": 40
+    },
+    {
+        "type": "image",
+        "img_path": "images/6458fed1f2ce5145f1a2e7acb2f3caa0e01e6c321c3c417ba878847fbff04e50.jpg",
+        "img_caption": [
+            "Fig. 4 "
+        ],
+        "img_footnote": [],
+        "page_idx": 41
+    },
+    {
+        "type": "image",
+        "img_path": "images/cb5a794b965a3ec5d5176ef7ef32e4bbd62a25b5f8252445655c16e02ba90899.jpg",
+        "img_caption": [
+            "Fig. 5 "
+        ],
+        "img_footnote": [],
+        "page_idx": 42
+    },
+    {
+        "type": "image",
+        "img_path": "images/236c3e04ad4ff197f43c6488c068ec220aa57155f70f437c458a5bbb085a75a1.jpg",
+        "img_caption": [
+            "Fig. 6 "
+        ],
+        "img_footnote": [],
+        "page_idx": 43
+    },
+    {
+        "type": "image",
+        "img_path": "images/665e856c0d7e23e689062c8dd10ba119fdb80e9394f5bb84322444f9b6d391ec.jpg",
+        "img_caption": [
+            "Fig. 7 ",
+            "Sedentary period human intervention dependent unsustainable status "
+        ],
+        "img_footnote": [],
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "Nomdic period natural spontaneity sustainable status ",
+        "page_idx": 44
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "type": "text",
+        "text": "近40a榆林市土地利用空间格局变化及影响因素分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李亚丽1,2.3，杨粉莉4，杨联安1,2.3，尚小清124，胡贵贵1.,23，贾鲁净1,2,3(1.西北大学陕西省地表系统与环境承载力重点实验室,陕西 西安710127；2.陕西省黄河研究院,陕西 西安710127；3.西北大学城市与环境学院,陕西 西安710127；4.咸阳市农业科学研究院,陕西 咸阳712000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：土地利用空间格局变化反映土地利用合理性和生态环境情况。以位于农牧业交错带的生态环境脆弱区陕北榆林市为研究区，运用核密度分析法表达土地利用空间格局变化，采用土地利用动态度、土地利用综合动态度、土地利用变化强度、土地利用转移矩阵指数分析榆林市近40a的土地利用变化速度、强度、结构及其影响因素。结果表明:榆林市近40a土地利用变化以耕地面积减少、建设用地大幅度增加和未利用地减少为主。东南部耕地密度等级降低，西南部呈现相反的变化趋势；林地呈“多核心增长”；草地高密度核心位于北部，等级升高;建设用地高密度核心位于西北部6个县区，增长幅度大。未利用地高密度核心为西北部毛乌素沙漠，斑块破碎化，沙地治理效果显著。政策因素、社会经济因素和人口因素的综合作用是影响土地利用空间格局变化的主要原因。退耕还林还草使得人地矛盾得到改善，减缓了水土流失；毛乌素沙地治理成效显著。未来发展需注重生态格局安全，以生态保护为前提，实现科学、绿色、可持续的高质量发展。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：土地利用；空间格局；核密度分析法；农牧交错带；榆林市",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "土地是人类生活的物质基础，土地利用变化是人类活动对地表自然生态系统影响的最直接信号，是人类社会经济活动与自然环境连接的纽带，人与自然的矛盾是生态和环境问题的根源[1-4]。工业化、城市化的增长与资源配置的增强对区域土地利用空间结构产生了深远影响[5-8],不合理的土地利用变化造成景观破碎化，对生态系统退化产生负面影响[9]。土地利用变化时空特征、变化的驱动力机制、变化模型模拟以及生态环境效益问题已经成为研究焦点[10-15]。研究不同时期土地利用变化特征,揭示土地利用变化内在规律和影响因素，以便合理优化配置土地利用结构[6]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "榆林市处于北方农牧交错带，生产方式和植被类型等具有过渡性特点，属于典型生态脆弱区。农牧交错带土地利用类型复杂，是生态安全的重要屏障，地理位置和界线不断变迁，变迁区内土地利用和景观格局变化复杂[17]。由于能源经济产业化和生态恢复过程双重作用，土地生态安全问题越来越突出[18]。土地利用空间格局变化直接影响生态环境稳定和安全[19]。前人基于榆林市土地利用的研究涉及归一化植被指数(NDVI)时空变化[20]、土地生态风险[21]、土地承载力[22]、生态环境效应[19]、土地利用变化驱动力[23]等，得出榆林市生态环境整体呈改善趋势，但存在显著区域差异，研究结果集中于土地利用产生的生态响应结果，目前缺少土地利用空间格局分布差异性以及长时间尺度土地利用演变趋势的研究。各土地利用类型变化产生的生态效益各不相同，因此需要基于土地利用空间格局探究生态效益变化背后土地利用的转变以及影响因素。核密度分析法利用数据的空间属性研究空间数据分布特征，是空间分析中运用最为广泛的非参数估计技术；将地类属性以点要素形式计算，根据距离越近权重越大的原则将点要素生成平滑的等值线，直观的反映地类空间扩散规律；核密度值越高表示地类聚集度高[24-25]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "榆林市自1956年开始治理沙地，兴建防风林带，引水拉沙，引洪淤地，毛乌素沙地实施大规模土地整治。退耕还林还草工程在1999年发起以期减少水土流失并改善黄土高原地区的生态条件[26],是我国最大的土地退耕造林计划，荒山造林，封山育林，封山禁牧，促进生态自然恢复。因此，本研究结合榆林市地域特殊性，利用核密度分析法，分析近40a的土地利用空间格局变化，自然和社会影响因素，揭示土地利用变化与影响因素间的关系，以期为我国北方农牧交错带生态脆弱区高质量发展提供科学依据",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况及数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "榆林市位于陕西省最北部，地理范围在 $3 6 ^ { \\circ } 4 9 ^ { \\prime } \\sim$ $3 9 ^ { \\circ } 3 5 ^ { \\prime } \\mathrm { N } \\vphantom { ^ { \\circ } 3 } \\mathrm { N } \\vphantom { ^ { \\circ } 3 } . 1 0 7 ^ { \\circ } 1 5 ^ { \\prime } \\mathrm { \\sim } 1 1 1 ^ { \\circ } 1 5 ^ { \\prime } \\mathrm { E }$ 之间，面积约42921.1$ { \\mathrm { k m } } ^ { 2 }$ ，人口为 $3 8 3 . 8 4 \\times 1 0 ^ { 4 }$ 人（图1）。市辖1市2区9县，分别为神木市、榆阳区、横山区、府谷县、靖边县、定边县、绥德县、米脂县、佳县、吴堡县、清涧县、子洲县。地貌大体以长城为界，北部为风沙草滩区，占总面积的 $4 2 \\%$ ,南部为黄土丘陵沟壑区，占总面积的 $5 8 \\%$ ，地势西高东低，境内平均高程为$1 2 1 8 . 6 3 \\mathrm { ~ m ~ }$ 。梁状低山丘陵区主要分布在西南部山区一带无定河、大理河、延河、洛河的发源地，占全市面积 $1 1 . 5 5 \\%$ 。气候属暖温带至中温带半干旱大陆性季风气候，四季分明，日差较大，无霜期短，年平均气温 $8 \\mathrm { { ^ \\circ C } }$ ,年平均降水 $4 0 0 \\ \\mathrm { m m }$ ，日照充足、光能资源丰富，年日照时数 $2 6 0 0 { \\sim } 2 9 0 0 \\mathrm { h }$ ，具有春季干燥多风、夏季炎热短促、秋季多暴雨、冬季干冷漫长的特点。研究区地处毛乌素沙地和黄土高原的过渡带，内蒙古高原和黄土高原的过渡区，生态环境脆弱。传统产业以农牧业为主，能源矿产资源富集，已发现8大类48种矿产，以煤、气、油、盐最为丰富，目前已经发展成为我国重要的能源化工基地。榆林市水土流失严重，部分区域环境质量差，改善难度大，生态环境脆弱，发展质量有待提高。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c974f7b7d194e20fd5030af807b1daf4e0cade8960eb16305c0d5c5cc0e2d74.jpg",
+        "img_caption": [
+            "图1榆林市行政区划及地势分布图 Fig.1Administrative division and geographical distribution of Yulin City "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2数据及来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选1980年(家庭联产承包责任制、沙漠治理成效显现）、2000年(退耕还林还草实施）、2018年（退耕还林还草基本完成、生态保护新起点)为时间节点，分析榆林市近40a土地利用时空格局变化。土地利用数据来源于中国科学院资源环境科学数据中心（http://www.resdc.cn/）。NDVI数据来源于（http://www.resdc.cn），三次产业数据和人口数据来源于陕西省统计局官网(http://tjj.shaanxi.gov.cn/）。植被覆盖度计算公式为： $\\mathrm { \\Delta \\cdot  { f _ { v } = ( N D V I - N D V I _ { m i n } ) / ( N D V I _ { m a x } - } }$ $\\mathrm { \\Delta N D V I _ { \\mathrm { { m i n } _ { \\mathrm { . } } } } }$ ）",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1核密度分析法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "核密度分析法是计算要素在其周边邻域中密度的非参数估计空间分析方法[27]。计算每个输出栅格像元周围点要素密度，由边界参数、点权重和核函数确定小曲面，每个点对应小曲面，重叠小曲面数值累加形成大曲面，大曲面数值归一化生成核密度，在空间上显示数据点的聚类情况。采用Arc-GIS10.6空间分析工具核密度，计算具有土地利用数据属性的点密度。划分地类区域内相对密度等级，反映用地类型在空间尺度的集中程度和时间尺度的变化趋势[28]。核密度等级越高，土地利用空间分布密度越大。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( x ) = { \\frac { 1 } { n h } } \\sum _ { i = 1 } ^ { n } K _ { n } { \\Bigg ( } { \\frac { x - x _ { i } } { h } } { \\Bigg ) } ^ { [ 2 5 ] }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $f ( x )$ 为空间位置 $x$ 处的核密度计算函数； $n$ 为分析范围内的点数； $h$ 为范围阈值； $K$ 为默认的权重核函数； $x { - } x _ { i }$ 为点 $x$ 到点 $x _ { i }$ 之间的距离。方程空间的几何含义为密度值在每个分析窗口中心点处向外递减,当距离中心达到一定阈值范围函数值为 $0 ^ { [ 2 5 ] }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2土地利用变化指数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）单一土地利用动态度指在一定时间段内某种土地利用类型的数量变化幅度和速度[29]。地类面积变化率表达增减幅度和速度，不同时段动态度对比反映变化剧烈程度。单一土地利用动态度指数 $( K )$ 计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK = \\frac { ( U _ { b } - U _ { a } ) } { U _ { a } } \\times \\frac { 1 } { T } \\times 1 0 0 \\% ^ { [ 3 0 ] }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $U _ { a \\setminus U _ { b } }$ 分别为研究时段内期初和期末某一用地类型的面积； $T$ 为研究时段时长(a)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综合土地利用动态度指数计算公式[30]如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { L C } = \\sum _ { a = 1 } ^ { n } \\Delta \\mathrm { L U } _ { a } / 2 \\sum _ { a = 1 } ^ { n } \\mathrm { L U } _ { a } \\times \\frac { 1 } { T } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\Delta \\mathrm { L U } _ { a }$ 为研究期内第 $\\mathbf { \\Psi } _ { a }$ 种用地类型转变为非 $\\mathbf { \\alpha } _ { a }$ 类用地类型的绝对数量； $\\mathrm { L U } _ { a }$ 为研究期初第 $\\mathbf { \\Omega } _ { a }$ 类用地类型的数量； $n$ 为地类数量， $\\scriptstyle n = 6 ; T$ 为研究期时长(a)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）土地利用变化强度指数测度不同类型土地变化的强弱程度[30]。指某一空间单元内，土地利用类型在单位面积上发生的变化，是对该空间单元土地面积变化速度的标准化[31]。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS { = } U _ { _ i } { \\times } 1 0 0 / ( U { \\times } T )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：S为某一类型土地利用变化的强度，其值越大表明该种用地形态变化越剧烈； $U _ { i }$ 为第 $i$ 种土地利用类型在研究时段内的绝对变化量； $U$ 为各类用地类型的变化总量； $T$ 为研究期时长(a)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3）土地利用转移矩阵反映某土地类型在初期和末期与各土地类型面积之间相互转变的动态过程信息，包含区域某时间点的各土地类型面积信息，还有各土地类型在期初和期末转出和转入的面积信息[32]。基于ENVI变化检测得出的各时期用地类型转移矩阵，制作土地利用转移矩阵，分析地类间的面积转移、单一地类转出转入和地类净变化等信息",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1土地利用空间分布",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1和图2表明，耕地分布广，2018年耕地面积占总面积 $3 6 . 9 5 \\%$ ,较1980年降低 $2 . 0 9 \\%$ 。林地面积占比较少，空间分布集中于东南部，其他区域零散分布；2018年林地面积比例为 $5 . 5 3 \\%$ ，较1980年增长 $1 . 2 4 \\%$ 。草地密度分布最广，以东北部最显著，面积比例最大,2018年草地面积为 $1 8 8 5 3 7 3 . 6 4 \\mathrm { h m } ^ { 2 }$ ，占$4 3 . 9 1 \\%$ ,较1980年增加 $2 . 5 6 \\%$ 。水域面积比例较小。建设用地集中于各县区中心地带，1980、2000、2018年建设用地面积比例分别为 $0 . 3 3 \\% . 0 . 3 8 \\%$ /$2 . 5 5 \\%$ 。未利用地主要是西北部毛乌素沙地，面积居第三位，2018面积较1980年减少 $3 . 8 5 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2土地利用空间格局变化分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图3a表明，耕地核心高密度集中于西南部靖边县、定边县和东南部大部分县区，西北部沙漠地区耕地面积较少；东南部耕地高密度与较高密度2000—2018年呈缩减趋势，高值密度向低值密度等级转化；西南部沙漠区呈现相反的变化趋势，较高密度和高密度等级耕地面积均增长。图3b表明，林地高密度主要集中于东南部；1980—2000年东南部林地面积小幅度增加；2000一2018年，林地密度核心增多，东南部密度等级提高，较高密度与高密度密度面积增大。图3c表明，草地密度核心位于北部和西南部，以北部核心为主；1980一2000年，北部核心西南扩展，西北部较低密度向中密度等级提升;2000一2018年，西北部草地面积增大，沙地治理成效显著，东北部草地密度增大，较高密度等级向高密度等级转移；西南部区域草地等级逆向变化与耕地面积增长有关。图3d表明，1980年建设用地密度等级低；2000年榆阳区建设用地上升为高密度；2018年西北部6个县区密度大幅度升高，高密度面积大范围增加;榆阳区、神木市、府谷县为高密度分布核心区。图3e表明,1980年未利用地高密度分布成片联结;2000—2018年沙地较高等级面积大幅度缩减，高密度斑块分散，沙地治理从边缘向核心地带渗透，效果显著。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/9fa4d86690b4abc585f0cc0addd079f99ae48a76531dba2aa7cec23172e10025.jpg",
+        "table_caption": [
+            "表11980—2018年土地利用面积",
+            "Tab.1 Area of land use during1980—2018 /hm² "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>土地利用类型</td><td>1980年</td><td>2000年</td><td>2018年</td></tr><tr><td>耕地</td><td>1676427.78</td><td>1670469.43</td><td>1586294.27</td></tr><tr><td>林地</td><td>184029.21</td><td>200908.62</td><td>237310.11</td></tr><tr><td>草地</td><td>1776112.64</td><td>1888808.55</td><td>1885373.64</td></tr><tr><td>水域</td><td>54891.90</td><td>53572.59</td><td>51292.62</td></tr><tr><td>建设用地</td><td>14314.32</td><td>16358.67</td><td>109622.52</td></tr><tr><td>未利用地</td><td>589304.32</td><td>464692.33</td><td>423749.17</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b423681771740c635be026eb7071accd37e2b722319ebdc62d4b71dd5c53877e.jpg",
+        "img_caption": [
+            "图21980—2018年土地利用空间分布",
+            "Fig.2 Spatial distribution of land use during 198O—2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/da9d6fe2ce1f78333674ff8dea536211dc57346e8473e687b151dd0d80d72ef0.jpg",
+        "img_caption": [
+            "干旱区地理",
+            "图3土地利用核密度分布",
+            "Fig.3Kernel density distribution of land use "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3土地利用变化指数分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 土地利用动态度1980—2018年，耕地、水域和未利用地减少，呈负动态度；林地、建设用地增加，呈正动态度;草地先增后减，动态度呈现先正后负（表2）。耕地2000—2018年动态度大，变化剧烈。林地2000—2018年动态度高，变化剧烈，增长幅度大，是1980—2000年的2倍。2000年后草地负动态度 $0 . 0 1 \\%$ ,减少幅度较小。2000—2018年建设用地达到 $3 1 . 6 7 \\%$ ，居第一，显示该阶段建设用地增长幅度大。未利用地持续减少，1980一2000年减少速度最快,但是2000年后减少幅度处于较高水平，居第二。1980—2000年和2000—2018年2个阶段综合动态度分别为 $0 . 1 4 \\%$ 和 $0 . 4 4 \\%$ ,表明1980—2000年土地利用变化较平稳，土地利用格局较稳定,2000—2018年变化较剧烈,综合利用程度升高。3.3.2土地利用变化强度1980—2000年草地变化强度最大，其次是耕地、林地、未利用地。2000—2018年仍是草地变化强度最大，其次是耕地、建设用地、林地。2000年前，耕地、林地、草地为土地利用变化结构的主体,2000年后，耕地变化强度升高$1 . 0 5 \\%$ ，林地变化强度升高，草地变化强度减弱，建设用地变化强度升高 $0 . 7 4 \\%$ ，未利用地变化强度减弱，耕地、草地、建设用地成为土地利用变化结构的主体。3.3.3土地利用转移矩阵1980—2000年,耕地向草地转移 $1 . 6 3 \\%$ ;林地向草地、耕地和未利用地分别转移 $8 . 2 2 \\%$ 、 $1 . 8 7 \\%$ 、 $1 . 3 1 \\%$ ；草地向耕地转移$3 0 7 6 0 . 7 2 \\ \\mathrm { h m } ^ { 2 }$ ，占 $1 . 6 3 \\%$ ；未利用地向草地转移$2 . 0 8 \\%$ ，占比最大(表3)。上述转移过程显示：耕地需求促使部分林草地向耕地转移;林地破坏比较严重；沙漠治理使得未利用地向草地恢复。2000一2018年,耕地向草地和未利用地转 $1 0 . 9 6 \\% , 1 . 3 3 \\%$ ，向草地转移面积比例最大;林地向耕地和草地分别转移 $1 7 . 0 8 \\%$ 和 $9 . 5 4 \\%$ ;草地向耕地转移 $1 1 . 8 8 \\%$ ；未利用地向草地和耕地分别转移 $5 . 1 5 \\%$ 和 $1 . 0 9 \\%$ 。上述转移过程显示：退耕促使耕地向林草地转移，且效果显著;存在林草地破坏现象;未利用地恢复成效明显。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4土地利用变化影响因素分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4.1 气候因素1980—2018年平均气温呈增长趋势，降水量波动较大。榆林市地处干旱区，对气温和降水变化较敏感。农牧交错带以降水量、干燥度等为依据[33]，其范围正在发生时空变化[34]，显示气",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2土地利用变化指数",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/1faa53586e8e6e333b95cdf2c30da740da297808f0f7a8d3ffaaeae18098091c.jpg",
+        "table_caption": [
+            "Tab.2 Index of land use change "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">土地利用类型</td><td colspan=\"3\">1980—2000年</td><td colspan=\"3\">2000—2018年</td></tr><tr><td>面积变化/hm</td><td>单一动态度/%</td><td>变化强度/%</td><td>面积变化/hm</td><td>单一动态度/%</td><td>变化强度/%</td></tr><tr><td>耕地</td><td>-5958.35</td><td>-0.02</td><td>0.70</td><td>-84175.20</td><td>-0.28</td><td>1.75</td></tr><tr><td>林地</td><td>16879.41</td><td>0.46</td><td>0.47</td><td>36401.48</td><td>1.01</td><td>0.53</td></tr><tr><td>草地</td><td>112695.90</td><td>0.32</td><td>3.44</td><td>-3434.91</td><td>-0.01</td><td>2.17</td></tr><tr><td>水域</td><td>-1319.31</td><td>-0.12</td><td>0.03</td><td>-2279.97</td><td>-0.24</td><td>0.07</td></tr><tr><td>建设用地</td><td>2044.35</td><td>0.71</td><td>0.05</td><td>93263.84</td><td>31.67</td><td>0.79</td></tr><tr><td>未利用地</td><td>-124612.00</td><td>-1.06</td><td>0.31</td><td>-40943.20</td><td>-0.49</td><td>0.24</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表3土地利用转移矩阵",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f4c8a7ce26de8d5be22d2095ebd5937beabc47f54f8455c5e8763dffa256d767.jpg",
+        "table_caption": [
+            "Tab.3 Land use transfer matrix "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">土地利 用类型</td><td colspan=\"6\">1980—2000年</td><td colspan=\"6\">2000—2018年</td></tr><tr><td>耕地</td><td>林地</td><td>草地</td><td>水域</td><td>建设用地 未利用地</td><td></td><td>耕地</td><td>林地</td><td>草地</td><td>水域</td><td>建设用地 未利用地</td><td></td></tr><tr><td>耕地</td><td>1636095.10</td><td>1545.85</td><td>27207.35</td><td>760.73</td><td>444.76</td><td>4255.33</td><td>1372554.45</td><td>13365.60</td><td>173880.19</td><td>4162.97</td><td>1243.06</td><td>21058.31</td></tr><tr><td>林地</td><td>2632.72</td><td>177889.46</td><td>16516.46</td><td>63.00</td><td>17.01</td><td>3761.44</td><td>40523.56</td><td>172234.56</td><td>22650.12</td><td>243.18</td><td>103.05</td><td>1551.31</td></tr><tr><td>草地</td><td>30760.72</td><td>4130.78</td><td>1721320.01</td><td>1165.44</td><td>86.13</td><td>131127.51</td><td>223972.67</td><td>8299.49</td><td>1621368.70</td><td>3675.99</td><td>688.13</td><td>27335.35</td></tr><tr><td>水域</td><td>635.37</td><td>13.68</td><td>633.12</td><td>52136.74</td><td>26.64</td><td>55.53</td><td>3825.03</td><td>431.54</td><td>3054.37</td><td>42288.25</td><td>611.27</td><td>1080.97</td></tr><tr><td>建设用地</td><td>1821.50</td><td>47.34</td><td>443.05</td><td>25.11</td><td>13724.81</td><td>295.99</td><td>24868.49</td><td>3763.56</td><td>45744.38</td><td>2120.55</td><td>13695.17</td><td>19428.62</td></tr><tr><td>未利用地</td><td>4315.90</td><td>377.71</td><td>9664.04</td><td>575.97</td><td>13.50</td><td>449706.37</td><td>4621.07</td><td>2781.95</td><td>21815.02</td><td>366.65</td><td>17.73</td><td>394139.78</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "候变化和土地利用之间存在复杂关系。农牧交错带土地利用类型对气候变化的响应程度不同，且有较大的空间异质性,林地、草地及未利用地受年平均气温和年平均降水量影响较大[35]。自然环境因子变化时间尺度较长，对短时期内的土地利用类型变化影响较小[36]。榆林市气候呈现暖干化,气温降水变化不明显[37-38],气候变化与土地利用变化关系不明显。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4.2植被因素植被覆盖度等级数据与土地利用分类数据属性提取至样本点，得到榆林市NDVI与地类分布之间的相关关系(图4)，耕地与中高覆盖度的相关性高，林地与中覆盖度和中高覆盖度相关性较高，草地普遍位于中覆盖度及以下等级，高覆盖度草地，未利用地和建设用地与低覆盖度相关性最高，水域与中低覆盖度相关性高。植被覆盖与地类变化两者相互影响，关系复杂。NDVI数据经计算得到植被覆盖度等级(图5)，地表覆被空间上呈现均衡化，2000年后，低、中低覆盖度面积减少，中覆盖度、中高覆盖度面积增加，高覆盖度面积减少，植被覆盖度等级提高。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c7331cb1c56f7fbbbd08f05ff5b8eb212a6782692e7963f36d6929361530166b.jpg",
+        "img_caption": [
+            "图42018年植被覆盖度与土地利用相关关系 Fig.4 Correlation between vegetation cover and land use in 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4.3政策因素退耕还林还草政策直接影响土地利用变化；部分容易造成水土流失或者荒漠化的耕地停止耕种，旱地向林地、草地、疏林向林地和沙地向草地的转移[39]；耕地面积以2000年为变化节点，政策实施前后耕地面积先增长后急剧减少，转移为林地和草地；政策实施后常用耕地面积大幅度减少[40],耕地数量和质量显现不稳定性[41];随着生活水平提高，对供给充足、高品质和无污染的粮食需求加强，注重协调政策驱动下耕地数量减少与耕地质量、生态保护之间的关系[42]。沙地治理政策与用地性质变化直接相关；近40a未利用地空间格局缩减，变化率较大，沙地治理过程中，面积减少。为防止进一步沙化,进行人工种植林草，沙漠被林草覆盖；人为改变沙地性质，成效显著，区域生态环境改善，避免了沙地恶化的延伸",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/78886b7bc89806c4ee7be2d17c6fd97463278de9709c4dd1d1ff9656a1552022.jpg",
+        "img_caption": [
+            "图52000—2018年植被覆盖度空间分布图",
+            "Fig.5Spatial distribution of vegetation cover during 2Ooo—2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4.4人口、经济因素人口快速增长引起土地利用的范围和强度变化；城镇建设用地、农村居民点、交通道路、以及其他各类公共设施建设一定程度上发生变化；1980—2018年，西北部各县区人口增长，榆阳市、神木市、绥德县变化最显著(图6);结合用地空间格局和变化，建设用地与人口增长分布区相关联。西南部耕地面积增加，与该区域人口的增长相关。社会经济发展的影响体现在土地利用类型多样化、各用地类型面积趋于平衡和建设用地急剧增加；城市扩张并占用大量农业用地，导致耕地面积快速缩减[43];早期农业产业耕地需求增加,林草地向耕地转移;随着工业发展和城镇化加速，建设用地大幅增加;第一产业变化影响耕地需求量，榆阳区增长率最大；第二产业比重较大，成为推动全市经济发展的主导力量[44]；工业和三次产业产量增长指向神木市、榆阳区和府谷县，与建设用地变化相关。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "榆林市位于生态环境较为脆弱的农牧交错带，土地利用空间格局关乎土地利用结构优化配置和生态环境的有效治理，因此，探讨生态环境问题背后伴随土地利用的变化和区域内部差异成为需要。首先，榆林市生态环境质量对土地利用变化较敏感。有研究表明，1985—2000年榆林市土地利用变化使生态价值总量增加,土地生态风险降低[8],北部风沙滩地区土地利用变化过程相对活跃；本文研究发现1980—2000年林地面积小幅度增加，草地变化强度最大，北部草地密度核心西南扩展，与前人研究结果相一致。其次，土地利用分布差异导致生态效应的差异性。榆林市各土地利用类型分布格局差异明显,各县区生态风险差异显著[2],土地综合承载力区域差异较大[22]。最后，榆林市人为活动成为土地利用变化不可忽视的因素；前人研究表明经济发展对土地利用变化的影响最为显著[23]。土地利用空间格局和长时间尺度的演变趋势问题得到回答，但是对于土地利用变化产生的后果没有具体分析和展示，因此，以土地利用变化为基础的生态风险时空格局演变及评估成为下一步研究的",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a)人口 府谷县 (b)第一产业 府谷县神木市 50 佳县 神木市 35250 佳县  \n榆阳区 48020 米脂县 人口/104人 榆阳区 米脂县 第一产业/10元  \n横山区 100 吴堡县 ■1980年 横山区 吴堡县■2000年■2000年 ■2010年  \n定边县 绥德县 ■2018年 定边县 绥德县 ■2017年靖边县 清涧县 靖边县 清涧县子洲县 子洲县  \n(c)第二产业 府谷县 (d)第三产业府谷县神木市 800 佳县 神木市 400 佳县600 300  \n榆阳区 400 米脂县 第二产业/10元 榆阳区 200 米脂县 第三产业/10元  \n横山区 吴堡县■2000年 横山区 0 吴堡县■2000年■2010年 ■2010年  \n定边县 绥德县 ■2017年 定边县 绥德县 ■2017年靖边县 清涧县 靖边县 清涧县子洲县 子洲县",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "重点内容。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究结合榆林市地域特殊性，利用核密度分析法，分析了榆林市近40a的土地利用空间格局变化，并揭示了土地利用变化的主要影响因素，得出以下主要结论：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）榆林市近40a土地利用变化以耕地面积减少、建设用地大幅度增加和未利用地减少为主。空间格局演变特征为：耕地2个核心高密度位于西南部和东南部；东南部耕地密度呈缩减趋势，西南部呈现相反的变化趋势。林地密度核心位于东南部，呈“多核心增长”。草地密度核心位于北部和西南部，以北部核心为主；北部核心向南扩展，等级增高，西南部地区密度等级逆向变化。建设用地密度核心位于西北部6个县区，变化幅度大。未利用地以西北部毛乌素沙漠为核心。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）气温和降水量的增加；植被覆盖等级和面积变化显著；人为因素是榆林市土地利用变化的主导因素。耕地变化与退耕还林还草政策的实施显著相关；建设用地变化与经济产量增加和人口的增长相关。毛乌素沙地治理下未利用地大幅度减少。退耕还林还草减缓了水土流失，改善了生态环境。经济发展，人为活动愈加剧烈，建设用地大幅度增加。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3）以生态修复和保护为主，实现科学、绿色、可持续的高质量发展。坚持山水林田湖草沙综合治理，加强水土保持生态建设。未来应该防止耕地浪费，协调好政策实施与耕地质量和生态保护之间的关系，优化传统农牧业。根据沙地环境合理有效地改善沙区环境，局部以自然恢复为主，减少人为干扰。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] LiuH, Fang C,Fang K.Coupled human and natural cube:A novel framework for analyzing the multiple interactions between humans and nature[J]. Journal of Geographical Sciences,2O20, 3O(4): 355- 377.   \n[2] FuBJ,Wang S, Zhang JZ,etal.Unravelling the complexity in achieving the 17 sustainable development goals[J]. National Science Review,2019,6(3):386-388.   \n[3] 刘纪远，匡文慧，张增祥,等.20世纪80年代末以来中国土地利 用变化的基本特征与空间格局[J].地理学报,2014,69(1):3- 14.[Liu Jiyuan, Kuang Wenhui, Zhang Zengxiang, et al. Spatiotemporal characteristics,patterns and causes of land use changes in China since the late $1 9 8 0 \\mathrm { s } [ \\mathrm { J } ]$ Acta Geographica Sinica, 2014, 69(1): 3-14. ]   \n[4]陈曦,常存,包安明,等.改革开放40a来新疆土地覆被变化的 空间格局与特征[J].干旱区地理,2020,43(1):1-11.[Chen Xi, Chang Cun, Bao Anming,et al. Spatial pattern and characteristics of land cover change in Xinjiang since past 4O years of the economic reform and opening up[J].Arid Land Geography,2020,43 (1): 1-11.]   \n[5]刘春芳,王川.基于土地利用变化的黄土丘陵区生境质量时空 演变特征——以榆中县为例[J].生态学报,2018,38(20): 7300- 7311.[Liu Chunfang,Wang Chuan. Spatio-temporal evolution characteristics ofhabitat quality inthe loesshillyregion basedon land use change: A case study in Yuzhong County[J]. Acta Ecologica Sinica,2018,38(20): 7300-7311.]   \n[6]Zhang N,Luo YJ, Chen X Y,et al. Understanding the effects of composition and configuration of land covers on surface runoff in a highly urbanized area[J]. Ecological Engineering,2O18,125:11- 25.   \n[7]Chapman M G, Underwood A J, Browne M A. An assessment of the curent usage of ecological engineering and reconciliation ecology in managing alterations to habitats in urban estuaries[J]. Ecological Engineering,2018,120: 560-573.   \n[8]Li H W,Li YP, Huang G H,et al. Identifying optimal land-use patterns using a Copula-based interval stochastic programming modelfor urban agglomeration under uncertainty[J]. Ecological Engineering,2020,142:105616,doi:10.1016/j.ecoleng.2019.105616.   \n[9]Groot R D,Brander L,Ploeg S V D,et al. Global estimates of the value of ecosystems and their services in monetary units[J]. Ecosystem Services,2012,1(1): 50-61.   \n[10] 宋开山,刘殿伟,王宗明,等.1954年以来三江平原土地利用变 化及驱动力[J].地理学报,2008,63(1):94-104.[Song Kaishan, Liu Dianwei, Wang Zongming,et al. Land use change in Sanjiang Plain and its driving forces analysis since 1954[J].Acta Geographica Sinica,2008,63(1): 94-104.]   \n[11] 徐煖银,郭泺,薛达元,等.赣南地区土地利用格局及生态系统 服务价值的时空演变[J].生态学报,2019,39(6):1969-1978. [Xu Xuanyin,Guo Luo,Xue Dayuan, et al. Land use structure and the dynamic evolution of ecosystem service value in Gannan region, China[J].Acta Ecologica Sinica, 2019,39(6): 1969-1978.]   \n[12] 孔君洽,杨荣,苏永中,等.基于土地利用/覆被变化的荒漠绿洲 碳储量动态评估[J].生态学报,2018,38(21):7801-7812.[Kong Junqia, Yang Rong,Su Yongzhong,et al.Effect of land use and cover change on carbon stock dynamics in a typical desert oasis [J]. Acta Ecologica Sinica,2018,38(21): 7801-7812.]   \n[13]闫国振,张征,梁康,等.鄂尔多斯高原泊江海子流域土地利用 动态变化及驱动因素分析[J].中国生态农业学报,2017,25 (11): 1693-17O6.[Yan Guozhen, Zhang Zheng, Liang Kang,et al. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Characteristics and driving factors of land use change in the Bojiang Lake Basin in Ordos Plateau,China[J].Chinese Journal of Eco-Agriculture,2017,25(11): 1693-1706.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[14] 靳含,杨爱民,夏鑫鑫,等.基于CA-Markov模型的多时间跨度 土地利用变化模拟[J].干旱区地理,2019,42(6):1415-1426. [Jin Han,Yang Aimin,Xia Xinxin,et al. Simulation of land use change at different time spans based on CA-Markov model[J].Arid Land Geography,2019,42(6): 1415-1426.]   \n[15] 李晓文,方精云,朴世龙.近10年来长江下游土地利用变化及 其生态环境效应[J].地理学报,2003,58(5):659-667.[Li Xiaowen,Fang Jingyun,Piao Shilong.Landuse changes and its implication to the ecological consequences in Lower Yangtze Region[J]. Acta Geographica Sinica,2003,58(5): 659-667.]   \n[16] 刘冰晶,杨艳昭,李依.北方农牧交错带土地利用结构特征定量 研究——以西辽河流域为例[J].干旱区资源与环境,2018,32 (6): 64-71.[Liu Bingjing,Yang Yanzhao,Li Yi. Quantitative analysis of land use structure characteristics over the farming-pastoral Zone in the west Liaohe River Basin, northern China[J]. Journal of Arid Land Resources and Environment, 2018,32(6): 64-71.]   \n[17] 刘军会,高吉喜.北方农牧交错带界线变迁区的土地利用与景 观格局变化[J].农业工程学报,2008,24(11):76-82.[Liu Junhui,Gao Jixi.Efects of climate and land use change on the changes of vegetation coverage in farming-pastoral ecotone of northern China[J]. Chinese Journal of Applied Ecology,2008,24(11):76- 82.]   \n[18] 莫宏伟,任志远,李振国.陕北榆林市土地生态价值及生态风险 动态分析[J].水土保持通报,2009,29(6):189-192,197.[Mo Hongwei, Ren Zhiyuan,Li Zhenguo. Changes of land ecosystem value and ecological risk in Yulin City of northern Shaanxi Province[J]. Bulltin of Soil and Water Conservation,2009,29(6):189- 192, 197.]   \n[19] 杨述河,闫海利,郭丽英.北方农牧交错带土地利用变化及其生 态环境效应——以陕北榆林市为例[J].地理科学进展,2004, 23(6): 49-55.[Yang Shuhe,Yan Haili, Cuo Liying.The land use change and its eco-environmental efects in transitional agro-pastoral region: A case study of Yulin City in northern Shaanxi Province [J]. Progress in Geography,2004,23(6): 49-55.]   \n[20] 杨波,王全九,许晓婷,等.还林还草工程后榆林市 NDVI时空 变化趋势[J].生态学杂志,2019,38(6):1839-1848.[Yang Bo, Wang Quanjiu, Xu Xiaoting,et al.NDVI spatiotemporal variation in Yulin after grain for green project[J]. Chinese Journal of Ecology,2019,38(6): 1839-1848.]   \n[21]任志远,孙艺杰,吴林筱.1990—2012年榆林市土地生态风险 综合评价[J].中国生态农业学报,2017,25(5):656-664.[Ren Zhiyuan,Sun Yijie,Wu Linxiao.Comprehensive evaluationof ecological risk of land during 1990—2012 in Yulin City[J]. Chinese Journal of Eco-Agriculture,2017,25(5): 656-664.]   \n[22] 董思,任志远,魏倩倩.生态脆弱区土地综合承载力时空差异分 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "析——以榆林市为例[J].水土保持研究,2017,24(6):286-291,",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "299.[Dong Si, Ren Zhiyuan,Wei Qianqian.Analysis on the temporaland spatial diffrence ofland comprehensive carrying capacityinecologicall fragilearea: Acase studyof Yulin City[J].Research of Soil and Water Conservation,2017,24(6): 286-291,299.]   \n[23] 党晶晶,孙斌,龚直文.榆林市土地利用变化的驱动因素研究 [J].西安工业大学学报,2018,38(1):74-80,94.[Dang Jingjing, Sun Bin,Gong Zhiwen.Research on factorsdriving land use changes in the city of Yulin[J].Journal of Xi'an Technological University,2018,38(1): 74-80, 94.]   \n[24] 张婧,李诚固,周国磊,等.长春市公共服务设施用地演变格局 与机制[J].地理学报,2017,70(12):1939-1952.[Zhang Jin,Li Chenggu, Zhou Guolei,et al. The evolution pattern and mechanism of public service facilities lands in Changchun[J]. Acta Geographica Sinica,2017,70(12): 1939-1952.]   \n[25] 蔡高明,李志斌,高原,等.西北五省区经济开发区空间格局演 变与主导产业变迁[J].干旱区地理,2019,42(3):625-635.[Cai Gaoming,Li Zhibin,Gao Yuan,et al. Spatial patern evolution and leading industries change in economic development zones of five provinces in northwest China[J].Arid Land Geography,2019,42 (3): 625-635.]   \n[26] Zhou D C, Zhao S Q, Zhu C. The Grain for Green Project induced land cover change in the Loess Plateau: A case study with Ansai County,Shanxi Province[J].Ecological Indicators,2012,2:88 94.   \n[27] 王鹤超,徐浩.基于POI及核密度分析的上海城乡交错带分布 研究[J].上海交通大学学报,2019,37(1):1-5,18.[Wang Hechao, Xu Hao. Shanghai urban-rural ecotone distribution research based on the POI and kernel density analysis[J]. Journal of Shanghai Jiaotong University,2019,37(1): 1-5,18.]   \n[28] 万红莲,赵亚伟,王艳,等.区域视角下地名空间分布表征分析 以会宁县为例[J].干旱区资源与环境,2018,32(8):93-99 [Wan Honglian, Zhao Yawei,Wang Yan.et al.Spatial distribution of place landscape names of Huining County based on regional perspective[J]. Journal of Arid Land Resources and Environment, 2018,32(8): 93-99.]   \n[29] 麦丽开·艾麦提,满苏尔·沙比提,张雪琪.近35a叶尔羌河中下 游流域土地利用/覆被时空动态演变特征[J].生态与农村环境 学报,2019,35(9):118-1126.[Amat Malika,Shabit Mansur,Zhang Xueqi.Spatial- temporal dynamic evolution characteristics of land use/cover in the middle and lower reaches of Yarkant River Basin in recent 35 years[J]. Journal of Ecologyand Rural Environment, 2019,35(9): 1118-1126.]   \n[30] 李维维,陈田,马晓龙.城市旅游综合体土地利用空间格局演变 及驱动机制——以西安曲江为例[J].地理研究,2019,38(5): 1103-1118.[Li Weiwei, Chen Tian, Ma Xiaolong. Mechanisms and spatial pattern of land use changes of the urban tourism complex: A case study of Qujiang,Xi'an[J]. Geographical Research, 2019, 38(5): 1103-1118.]   \n[31] 张浚茂,臧传富.东南诸河流域1990—2015年土地利用时空变 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "化特征及驱动机制[J].生态学报,2019,39(24):9339-9350. [Zhang Junmao,Zang Chuanfu. Spatial and temporal variability characteristics and driving mechanisms of landuse in the southeastern river basin from 1990—2015[J].Acta Ecologica Sinica, 2019,39(24): 9339-9350.]   \n[32] 尼加提·伊米尔,满苏尔·沙比提,玉苏甫·买买提,等.天山北坡 精河绿洲土地利用/覆被时空变化及驱动力分析[J].中国农 业大学学报,2019,24(10):158-169.[Emer Nijat,Sabiti Mansur, Mamat Yusup,et al. Temporal and spatial variation of LUCC in Jinghe oasis on the northern slope of Tianshan Mountains[J]. Journal of China Agricultural University,2019,24(10): 158-169.]   \n[33] 赵哈林,赵学勇,张铜会,等.北方农牧交错带的地理界定及其 生态问题[J].地球科学进展,2002,17(5):739-747.[Zhao Halin, Zhao Xueyong, Zhang Tonghui, et al. Boundary line on agro-pasture zigzag zone in north China and its problems on eco-environment[J]. Advance in Earth Sciences,2002,17(5): 739-747.]   \n[34] 史文娇,刘奕婷,石晓丽.气候变化对北方农牧交错带界线变迁 影响的定量探测方法研究[J].地理学报,2017,72(3):407-419. [Shi Wenjiao,Liu Yiting,Shi Xiaoli. Quantitative methods for detecting the impacts of climate change on the fluctuation offarmingpastoral ecotone boundaries in northern China[J].Acta Geographica Sinica,2017, 72(3): 407-419.]   \n[35] 杜婷.近30年来西北农牧交错带土地利用/覆被变化对气候变 化的响应[D].兰州:兰州大学,2019.[Du Ting.Response of landuse/cover change to climate change in the agro-pastoral ecotone of northwest China in the past 30 years[D]. Lanzhou: Lanzhou University,2019.]   \n[36] 马新萍,韩申山,王磊,等.大西安地区土地利用类型时空演变 分析[J].干旱区地理,2020,43(2):499-507.[Ma Xinping,Han Shenshan,Wang Lei, et al. Spatial and temporal evolution of land use types in the greater Xi'an area[J].Arid Land Geography,2020, 43(2): 499-507.]   \n[37] 郑金风,孙虎.陕西榆林地区降水特征分析[J].江西农业学报, 2015,27(4): 94-98.[Zheng Jinfeng,Sun Hu.Analysis of characteristics of precipitation in Yulin area of Shaanxi Province[J].Acta Agriculturae Jiangxi,2015,27(4): 94-98.]   \n[38]石玉琼,郑亚云,李团胜.榆林地区2000—2014年NDVI时空变 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "化[J].生态学杂志,2018,37(1):211-218.[Shi Yuqiong, Zheng ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Yayun,Li Tuansheng.The spatiotemporal change of NDVI in Yulin,Shaanxi Province,China from 2OOO to 2O14[J].Chinese Journal of Ecology,2018,37(1):211-218.]   \n[39]宋富强,康慕谊,段锦.陕北地区退耕前后土地利用/覆被变化 及驱动力分析[J].北京师范大学学报(自然科学版),2011,47 (6): 634-639,661. [Song Fuqiang, Kang Muyi, Duan Jin. Driving forces for and changes in land use/cover in northern Shaanxi after implementaion of grain-for-green project[J]. Journal of Beijing Normal University (Natural Science),2011,47(6): 634-639,661.]   \n[40] 宁松瑞,韩霁昌,郝起礼.榆林市耕地资源变化及分析研究[J]. 土地开发工程研究,2016(2): 20-27.[Ning Songrui, Han Jichang, Hao Qili.Analysisof the change of cultivated land in Yulin City [J].Land Development and Engineering Research,2016(2): 20- 27.]   \n[41] 赵晓丽,张增祥,汪潇,等.中国近30a耕地变化时空特征及其 主要原因分析[J].农业工程学报,2014,30(3):1-11.[Zhao Xiaoli,Zhang Zengxiang,Wang Xiao,et al.Analysis of Chinese cultivated land'sspatial-temporal changesand causes in recent 30 years[J]. Transactions of the Chinese Society of Agricultural Engineering,2014,30(3): 1-11.]   \n[42] 王凤娇,梁伟,傅伯杰,等.近年来的黄土高原耕地时空变化与 □粮安全耕地数量分析[J].干旱区地理,2020,43(1):161-171. [Wang Fengjiao,Liang Wei,Fu Bojie,etal. Spatial and temporal changes of cultivated land and quantitative analysis of ration safe cultivated land on the Loess Plateau in recent years[J].Arid Land Geography,2020,43(1): 161-171.]   \n[43] 姜春,吴志峰,程炯,等.广东省土地覆盖变化对植被净初级生 产力的影响分析[J].自然资源学报,2016,31(6):961-972.[Jiang Chun,Wu Zhifeng,Cheng Jiong,et al. Analyzing the effects of land cover change onvegetation net primary productivity in Guangdong Province[J]. Journal of Natural Resources,2O16,31 (6): 961-972.]   \n[44] 夏四友,文琦,赵媛,等.陕北能源开发区产业同构化对比研究 与趋势预测[J].干旱区地理,2018,41(5):1132-1142.[Xia Siyou,Wen Qi, Zhao Yuan,et al.A comparative study of industrial isomorphism and trend forecast in energy exploitation area of northern Shaanxi Province[J].Arid Land Geography,2018,41(5): 1132-1142.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Spatial pattern changes and influencing factors of land use in Yulin City in the past 40 years ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "LI Yali $^ { 1 , 2 , 3 }$ ，YANG Fenli4， YANG Lian'an123， SHANG Xiaoqing1,24,HU Guigui',23，JIALujing1,2,3",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1.Shaanxi KeyaboratoryofEarthSurface SystemandEnvironmentalCayingCapacity,NorthwestUniversity,Xi'an70127, Shanxi,China;2.InstituteoftheYellwRiverResearch,Xi'anOl27,haanxi,China;3.CollgeofUbanandEnviroetal Sciences,Northwest University,Xi'an7O127,Shaanxi,China;4.AcademyofAgriculture SciencesofXiayang,Xianyang 712000, Shaanxi, China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Yulin Cityis located inthe northem agro-pastoral zone of China and has a fragile ecological environment. It is an important barier to ecological security.Land use patterns are affected by the allocation structure and management ofthe ecological environment.In this study,the land use paterns of Yulin from 1980 to 2018 were analyzed to identify the relationship between spatiotemporal changes and influencing factors.The primary data source was land use data at a $3 0 \\mathrm { - m }$ resolution. The normalized difference vegetation index was used to represent vegetation. Data were taken from three industries to represent economic factors.Demographic data were used to reflect demographic changes. Kernel density analysis was used to calculate the density of data points with land use attributes.Different indices were used to analyze the speed,intensity,and structure of changes in land use paterns.The results showed that changes in land use paterns were mainly due to a decrease in cultivated land, substantial increase in construction,and decrease in unused land.Cultivated land decreased in the southeastern area but increased in the southwest. Forestland showed “multicore growth\".The grassland was most dense in the north and increased over time. Construction was most dense in six counties in the northwest and showed a large increase over time.Most unused land was in the northwest，which included the Mu Us Desert,and was significantly affected by land management. The spatial changes in land use patterns were attributed to the combined effects of policy,socioeconomic,and demographic factors.The results indicate that the waste of cultivated land should be prevented.Additionaly,the relationship between policy implementation,cultivated land quality,and ecological protection should be coordinated,and traditional practices of agriculture and animal husbandry should be optimized. Man-made construction and development in desert areas should be reduced.The interweaving effects of human activities and changes in the ecological environment should be considered to promote ecological protection.We advocate the concept of ecological civilization,which can be defined as the mutual symbiosis between man, nature, and the geographical environment. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words: land use; spatial pattern； kernel density analysis； farming-pastoral ecotone; Yulin City",
+        "page_idx": 10
+    }
+]

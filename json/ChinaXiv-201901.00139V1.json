@@ -1,0 +1,480 @@
+[
+    {
+        "type": "text",
+        "text": "群体信息加工视角下团队建言有效性及作用机制：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "建言数量与质量的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李方君 王舒曼 李爱梅李斌(暨南大学管理学院，广州 510632)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要虽然团队建言被普遍认为会为团队带来积极结果(如高的团队绩效和团队创新)，但实证研究结果却并不一致。从群体信息加工的视角，在团队层次区分建言质量与数量两个维度，进而构建了建言起作用的正向和负向双路径模型，探讨团队建言的有效性及其作用机制。主要内容包括：(1)开发团队建言质量与数量量表并检验其信效度，(2)检验团队建言的双路径模型，(3)开发针对团队领导的建言管理培训项目以切实提高团队建言的有效性。这不仅可以从理论上丰富和加深现有建言研究，也将为团队管理实践提供支持。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 团队建言；建言数量；建言质量；群体信息加工视角",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1问题提出",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "经济全球化的压力使得组织越来越重视并依赖高效率工作团队(Cannon-Bowers &Bowers，2011)。有调查显示，《财富》杂志排名前 1000 的公司都在以工作团队的形式来进行产品研发、营销及管理等(Luthans,2011)。工作团队(下面简称“团队”)是指为了完成组织任务而形成的有边界的集体，团队成员通过互动和交流努力完成共同目标，提高组织效率(Kozlowski&Bell,2003;Frazier&Bowler,2012)。相较于传统的层级式组织架构，团队具有灵活、易管理、便于智力共享等优点，这使得其在组织中被广泛应用(赵祁,李峰，2016;Killumets, Dinnocenzo, Maynard, & Mathieu, 2015)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在此背景下，努力提升团队的有效性是增强组织竞争力的关键。而要实现该目标，很重要的一点是团队成员愿意共享自己所拥有的信息和知识，实现团队的智力整合。员工建言(voice)——作为一种主动的信息分享行为——恰好是在工作场所中实现信息交流和智力分享的有效途径。学者和管理者普遍认为，员工提出的这些鲜活的信息能够改善管理决策、推动组织变革、促进组织创新、提高组织绩效,是组织主动应对内外部挑战的重要智力资源(Fast,Burris,& Bartel,2015;Kaufman,2015；段锦云，钟建安,2012)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "员工建言作为组织中促进有效学习和创新的关键动力(Bashshur&Oc,2015)，尽管直觉上被认为能够给团队带来积极影响，但研究结果却并不一致(Morrison，2014；李方君，郑粉芳，杨倩怡，王舒曼，2018)。一些研究表明团队层次的建言有利于增强团队创新，提升团队绩效(Halle,2016;Liang&Rui,2017)，而另一些研究却发现在某些情况下结论是相反的(梁建,刘兆鹏,2016;Detert,Burris,Harrison,&Martin,2013)。那么，在团队层次，建言在什么情况下会发挥正向作用，什么情况下又会产生负向作用？组织管理者又应该如何采取措施发挥团队建言的积极影响？厘清这些问题，可以帮助组织明晰怎样利用建言提升效率与竞争力。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 研究现状",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1建言概念与测量",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "主流建言研究将建言视为一种组织公民行为(organizational citizenship behavior)或角色外行为(extra-role behavior)，即该行为并不在员工的工作职责内，而是员工“额外的付出”。例如，Van Dyne 和 LePine(1998)将建言定义为：组织成员主动地提出富于挑战的建设性建议或意见以改进组织运作，而不仅仅是批评。类似地，Detert和Burris (2007)认为建言是指员工自愿地提出想法、意见或建议以改进组织运作，即使这些建言可能挑战组织现状和当权者。相应地，在对建言进行测量时，研究者较为注重建言的动机成分，偏重于测量员工是否愿意为组织付出多一些、敢于和勇于提出建议或指出问题(Barry&Wilkinson,2016)。例如，最广泛被使用的几个建言量表里常常用“自愿”(discretionarily)、“主动”(initiatively)、“敢于”(dare to)等语言来描述建言行为(Liang,Farh,& Farh,2012; Van Dyne,et al.,1998)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在进行团队层次的建言研究时，学者们普遍沿用了主流的建言定义与测量工具。测量时主要有两种方式，一种是直接测量团队成员的个体建言行为，然后聚合到团队层次；另一种是将个体层次测量工具的主语“该员工”、“他/她/我”等改为“团队成员”，然后由团队",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "领导直接评价得到(周文娟,2013)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2建言的前因及其机制",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "建言的影响因素方面的研究成果较为丰富。对于个体层次的建言，研究者们从建言者(Ng & Feldman,2015; Wei, Zhang,& Chen,2015)、组织领导(Liu,Song,Li,& Liao,2017; Wang,Gan,Wu,& Wang,2015)、组织情境(段锦云，施嘉逸，凌斌,2017; Rasheed,Shahzad,Conroy,Nadeem,& Siddique,2017)、文化背景(陈文平，段锦云，田晓明,2013)等方面探讨了建言的产生机制及组织应该如何采取措施增加员工建言。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于团队层次，现有研究表明团队的领导、建言氛围等都是影响团队建言的重要因素。Farh 和Chen (2018）从功能性领导视角出发，发现指导型领导(directing leader)和教练式领导(coaching leader)能够促进团队建言，支持型领导(supporting leader)对团队建言没有促进作用。Frazier(2009)的研究表明团队建言氛围与团队建言呈正相关。此外，Bang，Chen 和Cremer(2017)发现任务冲突会增加团队建言，情感冲突会减少团队建言；Jiang(2017)的研究也指出团队领导成员交换关系(mean leader-member exchange)会通过团队任务反思正向影响团队建言。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3建言的结果及其机制",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "相较于影响因素方面的研究，现有的建言结果方面的研究较少，主要集中于探讨对建言者的影响。研究表明，建言会影响建言者的绩效(Ng＆Feldman,2012)、工作态度(Ruck,Welch,&Menara,2017; Burris,Detert,&Romney,2013)、后续建言行为(Lin&Johnson,2015)、人际关系(Burris,Rockmann,&Kimmons,2017)、在组织中的地位以及未来成为领导的可能性(Weiss &Morrison,2018; McClean,Martin,Emich,&Woodruff,2017)等。但由于个体层次和团队层次性质差异较大，个体层次的研究结果不一定适用于团队层次(肖君宜，段锦云,2015)，因此有必要对团队层次的建言结果进行深入探讨。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "文献梳理结果表明，目前只有小部分研究关注建言在团队层次的结果②(Morrison,2011;于静静，赵曙明,2013)。这些研究大致可以分为两类，一类研究表明团队建言能给团队或组织带来积极结果(Halle,2016)，主要集中在团队创新和团队绩效两方面。团队创新方面，研究者通过调查发现，建言正向影响组织创新，并在组织高绩效工作系统和组织创新之间起中介作用(Rasheed et al.,2017)。Bang 等(2017)的研究表明建言可以缓解组织中的任务冲突和情感冲突，有利于新产品的开发。Liang 等(2017)通过对三家制药公司的78个团队的调查发现，团队促进性建言和抑制性建言都与团队创新正相关，不过二者起作用的机制不同。促进性建言通过团队知识利用影响团队创新，而抑制性建言则是通过团队反思影响团队创新。团队绩效方面，Li,Liao,Tangirala 和Firth (2017)通过分析中国一家大型化工公司的88个团队数据，得出团队促进性建言与团队生产绩效正相关，团队抑制性建言与团队安全绩效正相关。Huang 和Paterson(2014)的研究表明群体道德建言正向影响群体道德绩效。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "另一类研究认为团队建言在一些情况下也有可能对团队创新和团队绩效产生负向影响。团队创新方面，梁建等(2016)提出团队建言结构对团队创新的效应可能不是线性的，而是呈正向递减的趋势。团队绩效方面，有研究表明在工作单位(work unit)水平，只有当员工向正确的管理者建言，建言才会提升绩效；如果建言流向错误的对象，建言反而会对绩效起到消极作用(Detert,et al.,2013)。Mackenzie,Podsakoff 和 Podsakoff (2011)的研究显示，建言与团队任务绩效呈倒U型关系。邓今朝、黄中梅和余绍忠(2015)也通过实证研究表明建言对团队绩效存在非叠加式效应，当建言超过了最优值，其对团队绩效的正向作用将会转变为负向作用。这些看似矛盾、零散的结果，激励着研究者对此进行更多的探索。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4 小结",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从研究现状可知，现有的团队建言研究可以从以下三方面继续改进和深化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其一，定义与测量方面。从定义上看，现有研究主要是以建言动机为出发点，强调员工是否“提出建议”。在这些研究中，建言往往作为动词，代表“提出建议”这个行为。然而从本质上讲，员工建言是一种信息交流行为，其能否对所在团队或组织产生积极影响取决于员工表达的信息是否真的有价值并被团队或组织接受。也就是说，建言的信息价值应是该概念的核心(Mowbray,Wilkinson,&Tse,2015)。因此，凸显建言信息价值的定义应该被采用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "测量方面，首先是测量内容——主流的建言量表侧重于关注员工是否勇于和敢于提出建议，忽视了建言的信息价值。团队中，由于员工动机、智力水平、工作经验等的不同，员工建言的质量参差不齐。有的是真知灼见(有信息价值)，能对其所在的团队或组织产生有益影响；而有的却可能是“噪音”(无信息价值)，会分散同事和领导的注意，增加他们的认知负担，进而影响所在团队或组织的效率。之前的测量工具并没有很好地反映建言的信息价值这一特点。其次是测量层次——目前，团队层次的建言研究往往是沿用个体层次的测量工具，并没有适用于团队层次的量表，这可能会导致测量结果的偏差。因此，有必要开发新的测量工具。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其二，研究方向和研究层次方面。从研究方向来看，现有文献主要关注建言的影响因素，建言的结果研究较为薄弱。然而，在组织中，建言能否对员工所在的团队或组织产生积极作用才是管理者首要关心的。只有明确了建言的有效性，管理者才有必要采取措施激励员工建言，这也将使得建言影响因素方面的研究更有意义。此外，从研究层次来看，个体层次的研究丰富，团队层次的研究匮乏且结论零散。因此，本文将重点关注团队建言的结果，以期拓展和深化现有研究。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其三，作用机制和边界条件方面。Detert等(2013)的研究表明不同的建言对象会引发不一样的建言结果；Liang 等(2017)发现团队知识利用和团队反思在团队建言和团队创新之间起中介作用。尽管已有学者开始关注团队建言起作用的机制及其边界条件，但还有大量空白值得发掘。前文已提到，团队建言的信息价值应该是该概念的核心，那么在该定义和测量方式的基础上，其中起作用的机制和边界条件又有哪些？厘清这个问题，有利于团队建言研究的丰富与深入。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "因此，本研究将从群体信息加工的视角(Hinsz,Tindale,& Vollrath,1997;De Dreu,2007)出发，拟在开发团队建言质量与数量量表的基础上，探讨团队建言起作用的机制，进而在实践上探索如何提升团队建言的有效性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3研究构想",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参照前人的定义(Liang,et al.,2012; Van Dyne,et al.,1998)，简化建言的动机成分，凸显建言的信息特质，本研究将团队建言定义为：“团队成员主动提出的，以改进团队运作为目的的信息，这些信息包括意见、建议和顾虑”。值得一提的是，不同于以往的定义将建言视为员工行为，该定义中建言被作为名词提出——即“提出的建议”。团队建言包括建言质量和数量两个维度。其中，建言质量是指“团队成员以恰当方式呈现的对团队有价值且可行的建言”，建言数量是指“团队成员提出建言的频次”。在该定义的基础上，结合群体信息加工模型(groups as information processors; Hinsz,et.al,1997)，构建团队建言的双路径模型。主要包括三方面的内容：(1)开发团队建言质量与数量量表，(2)检验团队建言的双路径模型，(3)开发针对团队领导的建言管理培训项目以切实提高团队建言的有效性。整体框架如图1所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5f0427d71774f58432e59b3637777ce30f4bbb42f9fba042071d5308c693304.jpg",
+        "img_caption": [
+            "图1群体信息加工视角下的团队建言的双路径模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1研究一：团队建言质量与数量测量工具的形成",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1.1形成测验",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究拟采用团队建言质量与数量两个分量表来测量团队建言。对于建言质量量表，拟采用关键事件技术(the critical incident technique)(Flanagan,1954)对学校 MBA 学员进行深度访谈以形成测验条目。初拟访谈题干如：请回忆你所在的工作团队中，团队成员提出的一条高质量的建议或指出的一个会严重影响你们团队运作的问题，并详细描述当时的情形。访谈结束后，利用Q分类法将访谈内容分类整理成测验条目。测验条目形成后，采用专家评定的方式提高测量工具的内容效度。最后，基于团队管理者和专家的建议和意见，删除冗余条目，修订不恰当条目，形成团队建言质量量表。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于建言数量量表，拟采用修订已有量表的方式来实现。量表修订主要基于现有建言研究中使用最广泛的量表之一：VanDyne等(1998)开发的6条目量表。样例条目如“团队成员针对那些可能会影响团队的问题提出建议”(采用Likert6点计分方式，“1”=“从不”，“6”=“极其频繁”）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1.2测量工具信效度检验",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在该研究中，拟用一个样本数据对团队建言量表进行项目分析、内部一致性信度分析、探索性因素分析。根据分析结果进一步对测量工具进行修订。另一个独立样本对该量表进行验证性因素分析及关系网络检验。验证性因素分析是为了确认结构效度、区分效度。而所谓关系网络，是指理论上与建言质量和数量高相关的概念，实证上的确表现出高相关；那些理论上与建言质量和数量低相关的概念，实证上的确表现出低相关或者不相关。本研究预测动机因素如心理安全感、团队承诺感等与建言数量相关较高，与建言质量相关较低。这是因为这些因素能激励团队成员建言，但是这些建言并不一定都是高质量的。同时，本研究还预测团队领导的工作经验、团队领导的智力水平等与建言质量相关较高，与建言数量相关较低。背后的逻辑是，这些因素能提升建言质量的水平，却并不一定能显著增加建言数量。此外，研究还拟用现有的建言量表(Liang,et al.,2012；段锦云等,2011)作为校标，检测该测量工具的校标关联效度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2研究二：团队建言有效性的作用机制",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "研究二的主要目的是构建和检验团队建言有效性的双路径模型(如图1所示)。具体来说，团队建言既可以通过团队学习对团队产生积极作用(即正向路径，见假设1\\~3)，也可能通过团队信息超载对团队产生消极影响(即负向路径，见假设4\\~6)。本研究推论建言质量和数量在建言有效性方面起到关键作用，并采用团队绩效和团队创新这两个最为重要的团队结果以反映团队建言的作用效果。为了方便理解，想象这样一个情景：在一个团队里，所有的成员都非常愿意提出建言，每位成员都愿意为团队的进步和发展出谋划策。然而，由于工作经历、智力水平、思考方式等因素的不同，这些来自不同成员的建言质量高低不一。那么，在团队中哪些建言能发挥积极效应，哪些建言又会产生消极效应呢？",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 .1 团队建言的积极效应：团队学习的作用",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "团队学习即团队成员获得、分享及整合知识的过程(Argote,Gruenfeld,&Naquin,2001),是提升组织学习和整体绩效的重要一环(Hong,Baruch,Chau,&He,2016)。学者们普遍认为,要想实现团队学习，成员有针对性地进行信息分享是十分必要的(De Dreu,2007;Edmondson,1999)。因此，在团队中，如果成员愿意分享自己的建议或意见可能会有利于团队学习。但团队学习能否实现，不仅要看成员是否分享了信息，还要看这些信息是否有价值并被组织采用(即高质量的)。当团队成员分享高质量的信息时，不仅可以促进成员反思工作流程、改进工作程序 (Edmondson,1999)，也能使得成员从外部获得更多有用信息，实现团队智力资源共享(Colquitt,Lepine,Wesson,&Gellatly,2011)，有利于团队学习的发生。相反，当团队成员分享的信息质量低时，这些表达方式不恰当、内容不准确或与团队无关的信息会阻碍成员共享有价值的信息(Robbins＆Coulter,2011)，不利于团队学习的实现。据此，提出假设1:",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "假设1：团队建言质量调节建言数量对团队学习的影响：建言质量低时，建言数量与团队学习负相关；建言质量高时，建言数量与团队学习正相关。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在假设1的基础上，推断由高质量团队建言引发的团队学习会促进团队绩效。首先，团队学习的目的之一就是促使团队取得更好的业绩，实现组织的良好生存与发展(陈国权,2007),研究者们也通过大量的实证研究阐释了团队学习对团队绩效的促进作用(Van Der Vegt& Bunderson,2005; Santos,Passos,& Uitdewiligen,2016)。其次，团队学习有利于团队优化，如帮助成员进行自我管理和自我改进(Enmondson,1999)、增强成员的团队适应能力(Santos etal.,2016)、塑造成员之间的交互记忆系统(莫申江，谢小云,2009)等，优化后的团队将会有更好的绩效表现。因此，结合假设1，提出假设2:",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "假设2：团队学习中介团队建言数量与建言质量对团队绩效的交互影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "类似地，团队学习会促进团队创新。团队创新包括创意生成和创意实施两个过程(West,2002; Zhou&Hoever,2014)。创意生成方面，团队学习要求成员对不同的观点进行讨论和建构，实现信息和知识的共享(Jimenez-Jimenez& Sanz-Valle,2011)，这有利于团队知识的整合以及新创意的生成。此外，团队学习还要求成员对工作过程和结果进行反思(LantzFriedrich,Sjoberg，&Friedrich,2016)，这会促使团队的现有知识得到改变和创新。创意实施方面，团队学习可以帮助成员制定出更好的决策或采用更好的方式(Bunderson& Sutcliffe,2003)去实现创意，完成团队任务。结合假设1，提出假设3：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "假设3：团队学习中介团队建言数量与建言质量对团队创新的交互影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2 .2 团队建言的消极效应：团队信息超载的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Edmunds 和Morris(2000)的综述发现，现在的组织面临这样一个悖论：一方面拥有大量的冗杂信息，另一方面能获取的高质量的有用信息极少。大量不相关的信息造成了组织的信息超载。在团队中也是如此，尽管团队建言为团队提供了许多信息，但并不是所有的信息都能有效作用于团队，只有高质量的信息才是提升决策质量的关键(Stvilia,Gasser,Twidale,&Smith，2007)。也就是说，当团队中的高质量建言多时，团队成员通过注意、加工或讨论这些建言，更容易做出正确的决策，促进团队任务的完成。但如果团队中充斥着大量的低质量建言，则会造成团队信息超载。一方面，要想在一堆无价值的信息中获取有用信息，成员就必然频繁切换工作任务，这会给成员带来沉重的认知负担；另一方面，处理大量与团队发展无关的“噪音信息”，也会耗竭成员有限的认知资源(Ackoff,1967; Sparrow,1999)。据此，提出假设4:",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "假设4：团队建言质量调节建言数量对团队信息超载的影响：建言质量低时，建言数量与团队信息超载正相关；建言质量高时，建言数量与团队信息超载负相关。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "根据假设4，我们进一步推断由低质量团队建言引起的团队信息超载会阻碍团队绩效的提升。团队经常需要在较为复杂的环境下完成一些不太确定的工作任务，这个过程需要成员耗费较多的认知资源对大量的信息进行搜集、编码、储存、提取等加工。但是，当有限的认知资源被无效信息占据，成员没有足够的认知资源去完成工作任务(Kahneman,1973)时，就会导致多工作错误(Oldroyd&Morris,2012)、低决策质量(Speier, Valacich,& Vessey,1999)、低工作效率(Byyny,2016)等不良后果，不利于团队绩效的提升。此外，负性情绪也在其中扮演了重要的角色。研究显示，员工在感到信息超载时，会体验到较多的压力、情绪耗竭和挫败感(Hemp,2009; Kouvonen,Toppinen-Tanner,Huuhtanen,& Kalimo,2005),这可能会导致成员降低工作投入和工作效率，减少绩效产出。因此，结合假设4，提出假设5:",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "假设5：团队信息超载中介团队建言数量与建言质量对团队绩效的交互影响。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "同样的，信息超载也会妨碍团队创新。团队创新与团队信息的分享、注意、整合等过程紧密相连(Zhou& Shalley,2007)。在信息超载的情况下，上述各个过程都不能很好地进行，将会导致团队创新水平下降(Zhou,Shin,Brass,Choi,& Zhang,2009)。此外，当团队建言中混杂了太多低质量信息时，会增加团队成员的认知负担，导致成员无暇获取、筛选、整合那些与团队创新需要高相关的信息，进而削弱了团队的创新能力。所以，结合假设4，提出假设6:",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "假设6：团队信息超载中介团队建言数量与建言质量对团队创新的交互影响。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3研究三：增加团队建言的积极作用，抑制可能的消极作用——领导培训的作用",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "研究三拟探寻在实践上如何增加团队建言的积极作用，减少其可能的消极作用。领导在组织和团队中扮演着重要的角色，是提升组织绩效、实现组织目标的关键因素(Chatalalsingh& Reeves,2014)。基于此，本研究提出团队领导是团队建言能否发挥积极作用的关键所在。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "首先，领导对建言的反应会直接影响员工后续的建言态度和行为(严瑜，何亚男，2016;Mowbrayetal.,2015)；其次领导作为团队的核心人物需要尽可能地多接受建言以便做出正确的决策；第三，作为团队的引领者，领导不仅要自己接收和加工建言，也要引导团队成员对关键的建言进行精细加工。这对领导管理建言的能力有很大的挑战——领导需要对团队建言进行初级加工和筛选。因此，本研究拟研发一套培训系统，以提高团队领导管理成员建言的能力。主要内容包括：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（1）建言相关知识：教授团队领导建言相关知识，包括建言的定义、表现形式及可能的积极作用和消极作用；",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（2）建言甄辨技能：培训团队领导识别有用建言与噪音建言；",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（3）噪音建言处理技能：培养团队领导处理噪音建言的能力和技巧，如忽视等;",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（4）高质量建言处理技能：培养团队领导引导成员对高质量的建言进行讨论、信息交换、制定执行方案的能力和技巧；",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "管理成员建言的能力提高后，领导能更容易识别和筛选出高质量建言，并引导团队成员重视这些建言，促进团队学习。反之，若领导管理成员建言的能力较低，则无法过滤掉无用信息、减少团队成员的信息超载。具体而言，本研究认为：当团队建言质量总体较高时，建言数量与团队学习正相关，与团队信息超载负相关。领导接受了建言管理培训的团队更能利用团队建言促进团队学习，避免团队信息超载。当团队建言质量总体较低时，建言数量与团队学习负相关，与团队信息超载正相关。建言越多，越不利于团队的积极运作。但如果团队领导接受了建言管理培训，能够有选择地剔除团队中的低质量建言，引导成员关注高质量的建言，那么这些低质量的建言将不再对团队绩效、团队创新等产生显著的负向影响。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4理论建构",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "团队建言作为一种主动的信息分享行为，是团队成员为了改进团队运作发挥智力优势的体现，理论上有利于团队更好地完成工作任务。但现有研究结果却表明团队建言既可能会在团队中发挥积极作用(Halle,2016;Liang et al.,2017)，在某些情况下也可能会给团队带来消极影响(Detert etal.,2013)。尽管学者们已经开始关注团队建言的不同结果，但实证研究仍然很少，造成不同结果的中间机制也不甚明确。因此，本研究从群体信息加工(Hinsz et al.,1997)",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "的视角探索团队建言的结果及其作用机制，以期拓展深化现有研究。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "目前建言研究主要关注的是员工是否提出了建议(Detert et al.，2007；Van Dyne et al,1998)以及如何让员工多提建议(Rasheed et al.,2017; Ng et al.,2015)，似乎只要员工愿意提出建议，就一定能给组织或团队带来积极影响。但实际上，团队中成员共享信息的内容以及信息整合的质量会影响团队效能(吴梦，白新文,2012)。也就是说，建言能否为团队带来积极影响，不能只看建言的数量，更应该重视建言所蕴含的信息价值。因此，在本研究中，将团队建言划分为建言质量和建言数量两个维度，构建并检验团队建言起作用的正向和负向双路径模型。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "正向路径认为，团队建言的积极效应主要是通过团队学习实现的。建言被提出后，团队成员会对这些信息进行加工并将其作用于团队后期发展或工作任务的完成。信息加工包括目标、注意、编码、存储、检索、加工、响应、反馈和学习等过程(Hinsz et al.,1997；吕洁，张钢,2013)，这些过程都会受到信息质量和数量的交互影响。当团队成员分享高质量的信息时，可以促进成员反思工作流程、改进工作程序(Edmondson,1999)。不仅如此，成员还可以通过整合这些有用信息，实现团队智力资源共享(Colquitt et al.,2011)，这都将促进团队学习。高质量的信息越多，团队成员越容易快速注意并加工这些信息，实现团队学习。此外，团队学习的相关文献表明，团队学习有利于团队决策优化、生成新的创意，促使团队取得更好的业绩(陈国权,2007)。所以，团队建言会通过团队学习对团队绩效和团队创新起积极作用。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "负向路径认为，团队建言的消极作用是由于低质量建言过多引起的团队信息超载造成的。如果团队中充满了低质量建言，超过了团队成员有限的认知负荷时，就会引发团队信息超载。团队信息超载不仅会浪费团队成员大量的时间与精力，导致他们没有足够的认知资源去高质量地完成工作任务(Kahneman,1973)，还会导致成员无暇获取、筛选、整合有用信息进行创新。此外，团队信息超载也可能让成员体验到较多的压力、情绪耗竭和挫败感(Hemp,2009;Kouvonen etal.,2005)，不利于成员发挥智力优势进行团队创新、完成工作任务。所以，团队建言会通过团队信息超载对团队绩效和团队创新产生产生消极作用。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "实践上，本文提出在双路径模型的基础上开发领导建言管理能力培训项目，以更好地发挥建言的有效性。由于领导是团队的核心人物，会把控和影响整个团队的工作进程(Hinsz etal.,1997)，所以在团队建言的管理中，领导也应该发挥作用帮助团队过滤掉无效建言。经过建言管理能力培训后的领导能及时甄别和处理低质量建言，减少低质量建言带来的团队信息超载等不利影响；同时，还能引导团队成员对高质量建言加以更多的关注和讨论，增强建言对团队学习的促进作用，给团队带来积极结果。研究结果可以揭示团队建言起作用的机制，为管理者更好利用员工建言提供理论基础。同时，在此基础上开发培训项目用以增强领导者管理建言的技能，将为实际的管理工作贡献力量。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "陈国权．(2007)．团队学习和学习型团队：概念，能力模型，测量及对团队绩效的影响.管理学报,4(5),602-609.  \n陈文平，段锦云，田晓明．(2013)．员工为什么不建言：基于中国文化视角的解析．心理科学进展,21(5),905-913.  \n邓今朝，黄中梅，余绍忠.(2015)．员工建言行为与团队绩效的关系——成员目标取向的作用.软科学,29(6),81-85.  \n段锦云，施嘉逸，凌斌.(2017)．高承诺组织与员工建言：双过程模型检验．心理学报，49(4),539-553.  \n段锦云，钟建安. (2012).工作满意感与建言行为的关系探索：组织承诺的缓冲影响．管理工程学报,26(1),170-174.  \n李方君，郑粉芳，杨倩怡，王舒曼.(2018).员工建言行为的结果及其调节机制．心理科学进展,26(4),710-718.  \n梁建，刘兆鹏.(2016)．团队建言结构：概念、前因及其对团队创新的影响．中国人力资源开发, (5),6-15.  \n吕洁，张钢.(2013).团队认知的涌现：基于集体信息加工的视角．心理科学进展，21(12),2214-2223.  \n莫申江，谢小云.(2009).团队学习、交互记忆系统与团队绩效：基于IMOI范式的纵向追踪研究.心理学报,41(7),639-648.  \n吴梦，白新文.(2012).动机性信息加工理论及其在工业与组织心理学中的应用．心理科学进展,20(11),1889-1898.  \n肖君宜，段锦云.(2015)．团队层面建言行为研究：员工建言研究的新视角．人类工效学,(2),84-86.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "严瑜，何亚男.(2016)．领导对建言反应的动机感知作用机制：基于归因理论的阐释．心理科学进展,24(9),1457-1466.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "于静静，赵曙明.(2013)．员工建言行为研究前沿探析与未来展望．外国经济与管理，35(5), 23-30.   \n赵祁，李锋.(2016)．团队领导与团队有效性:基于社会认同理论的多层次研究．心理科学进 展,24(11), 1677-1689.   \n周文娟.(2013)．团队建言的前因与结果:变革型领导和任务互依性的作用 (博士学位论文). 苏州大学.   \nAckoff, R.L. (1967). Management misinformation systems. Management Science,14(4),147-156.   \nArgote,L., Gruenfeld,D.,& Naquin, C. (20o1). Group learning in organizations. Groups at Work: Theory and Research, 614,369-411.   \nBang,N., Chen, J.,& Cremer, D. D. (2017). When new product development fails in China: Mediating effects of voice behaviour and learning from failure. Asia Pacific Business Review, 23(1), 1-17.   \nBarry,M.,& Wilkinson, A. (2016). Pro-social or pro-management? A critique of the conception of employee voice as a pro-social behaviour within organizational behaviour. British Journal of Industrial Relations, 54(2),261-284.   \nBashshur, M.R.,& Oc,B. (2O15). When voice matters: A multilevel review of the impact of voice in organizations. Journal of Management, 41(5), 1530-1554.   \nBunderson, J. S.,& Sutcliffe, K. M. (2Oo3). Management team learning orientation and business unit performance. Journal of Applied Psychology, 88(3), 552-560.   \nBurris,E.R.，Detert, J.R.，& Romney，A.C.(2013). Speaking up vs.being heard: The disagreement around and outcomes of employee voice. Organization Science, 24(1), 22-38.   \nBuris,E. R., Rockmann, K. W.,& Kimmons, Y. S. (2017). The value of voice to managers: Employee identification and the content of voice. Academy of Management Journal, 60(6), 2099-2125.   \nByyny,R.L. (2O16). Information and cognitive overload: How much is too much?. The Pharos of Alpha Omega Alpha-Honor Medical Society, 79(4), 2-7.   \nCannon-Bowers,J.A.,& Bowers, C. (2O11). Team development and functioning. In S. Zedeck (Ed.),APA Handbooks in Psychology. APA handbook of industrial and organizational psychology(Vol,1, pp. 597-650). Washington, DC, US: American Psychological Association.   \nChatalalsingh, C.，& Reeves, S. (2O14). Leading team learning: What makes interprofessional teams learn to work well?. Journal of Interprofessional Care, 28(6), 513-518.   \nColquitt J., Lepine, J. A.，Wesson, M. J.，& Gellatly, I. R. (2011). Organizational behavior: Improving performance and commitment in the workplace(2th ed.). NY: McGraw-Hill Irwin.   \nDe Dreu， C.K. (2007). Cooperative outcome interdependence， task reflexivity，and team effectiveness: A motivated information processing perspective. Journal of Applied Psychology, 92(3), 628-638.   \nDetert, J. R.,& Burris, E. R. (2007). Leadership behavior and employee voice: Is the door really open? Academy of Management Journal, 50(4), 869-884.   \nDetert,J. R.,Burris,E.R., Harrison, D.A.,& Martin, S.R.(2O13). Voice flows to and around leaders: Understanding when units are helped or hurt by employee voice. Administrative Science Quarterly, 58(4), 624-668.   \nEdmondson A. C. (1999). Psychological safety and learning behavior in work teams. Administrative Science Quarterly, 44(2), 350-383.   \nEdmunds,A.,& Morris, A. (2Ooo). The problem of information overload in business organisations: A review of the literature. International Journal of Information Management, 20(1),17-28.   \nFarh, C. I.,& Chen, G. (2O18). Leadership and member voice in action teams: Test of a dynamic phase model. Journal of Applied Psychology, 103(1), 97-110.   \nFast,N. J.， Burris, E.R.,& Bartel, C. A. (2015). Managing to stay in the dark: Managerial self-efficacy， ego defensiveness， and the aversion to employee voice. Academy of Management Journal, 57(4), 1013-1034.   \nFlanagan, J. C. (1954). The critical incident technique. Psychological Bulletin, 51(4),327-358.   \nFrazier, M. L. (209). Voice climate in organizations: A group-level examination of antecedents and performance outcomes(Unpublished doctoral dissertation). Oklahoma State University.   \nFrazier, M.L.，& Bowler， W. M. (2012). Voice climate,supervisor undermining，and work outcomes: A group-level examination. Journal of Management, 41(3), 841-863.   \nHalle,Y. (2O16). Influence of leader and follower behavior on employee voice, team task responsibility, and team effectiveness (Unpublished Master's thesis). University of Twente.   \nHemp,P. (2009). Death by information overload. Harvard Bbusiness Review, 87(9), 82-89.   \nHinsz, V. B., Tindale,R. S.,& Volrath,D.A. (1997). The emerging conceptualization of groups as information processors. Psychological Bulletin, 121(1), 43-64.   \nHong,T. M. B., Baruch, Y., Chau, V. S.，& He, H. W. (2016). Team learning: The missing construct from a cross-cultural examination of higher education.Asia Pacific Journal of Management, 33(1), 29-51.   \nHuang,L.，& Paterson,T.A. (2O14). Group ethical voice: Influence of ethical leadership and impact on ethical performance. Journal of Management, 43(4), 1157-1184.   \nJiang,J. (2O17). Mean leader-member exchange and team voice: Roles of team task reflexivity and perspective taking. Social Behavior and Personality: An International Journal, 45(7), 1221-1232.   \nJiménez-Jimenez，D.，& Sanz-Valle，R. (2O11). Innovation， organizational learning， and performance. Journal of Business Research, 64(4), 408-417.   \nKahneman, D.(1973). Attention and effort. Englewood Cliffs, NJ: Prentice-Hall.   \nKaufman, B.E. (2015). Theorising determinants of employee voice: An integrative model across disciplines and levels of analysis. Human Resource Management Journal, 25(1),19-40.   \nKillumets,E.,Dinnocenzo,L., Maynard, M. T.,& Mathieu, J. E. (2O15). A multilevel examination of the impact of team interpersonal processes. Small Group Research, 46(2), 227-259.   \nKouvonen，A.，Toppinen-Tanner，S.，Huuhtanen，M.K.P.，& Kalimo，R.(2O05).Job characteristics and burnout among aging professionals in information and communications technology. Psychological Reports, 97(2), 505-514.   \nKozlowski, S. W. J.,& Bell, B. S. (20o3). Work groups and teams in organizations. In W. C. Borman., D. R. Ilgen,& R. J. Klimoski (Eds.)， Handbook of psychology: Industrial and organizational psychology (vol. 12, pp. 33-375). New York: Wiley.   \nLantz Friedrich,A.， Sjoberg，A.，& Friedrich,P. (2016).Leaned teamwork fattens workplace innovation: The relationship between task complexity， team learningand team proactivity. European Journal of Work and Organizational Psychology, 25(4), 561-569.   \nLi, A. N., Liao, H., Tangirala, S.,& Firth, B.M. (2017). The content of the message matters: The differential effects of promotive and prohibitive tam voice on team productivity and safety performance gains. Journal of Applied Psychology, 102(8),1259-1270. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Liang,J., Farh, C.I.,& Farh, J.L. (2O12).Psychological antecedents of promotive and prohibitive voice: A two-wave examination. Academy of Management Journal, 55(1), 71-92. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Liang, J.,& Rui, S. (2O17). Employee Voice and Team Innovation: Examining the Role of Team Voice Intensity in R&D Teams. Academy of Management Proceedings, 2Ol7(1),11515.   \nLin, S.H. & Johnson, R.E. (2015). A suggestion to improve a day keeps your depletion away: Examining promotive and prohibitive voice behaviors within a regulatory focus and ego depletion framework. Journal of Applied Psychology, 100(5),1381-1397.   \nLiu, W., Song, Z., Li, X., & Liao, Z. (2017). Why and when leader's affective states influence employee upward voice. Academy of Management Journal, 60(1), 238-263.   \nLuthans, F. (2O11). Organizational behavior : An evidence-based approach. McGraw-Hill.   \nMackenzie, S.B., Podsakoff, P. M.,& Podsakoff, N. P. (2O11). Challenge-oriented organizational citizenship behaviors and organizational effectiveness: Do challenge-orientedbehaviors really have an impact on the organization's bottom line?. Personnel Psychology,64(3), 559-592.   \nMcClean, E.J., Martin, S.R.,Emich, K.J.,& Woodruf, T. (2017). The social consequences of voice: An examination of voice type and gender on status and subsequent leader emergence. Academy of Management Journal, 61(5), 1869-1891.   \nMorrison, E. W. (2014). Employee voice and silence. Procedia, 1(1), 173-197.   \nMorrison,E. W. (2O11). Employee voice behavior: Integration and directions for future research. Academy of Management Annals, 5(1), 373-412.   \nMowbray, P. K., Wilkinson, A., & Tse, H. H. M. (2015). An integrative review of employee voice: Identifying a common conceptualization and research agenda. International Journal of Management Reviews, 17(3), 382-400.   \nNg,T. W. H.,& Feldman, D. C. (2012). Employee voice behavior: A meta-analytic test of the conservation of resources framework. Journal of Organizational Behavior, 33(2), 216-234.   \nNg,T. W. H.，& Feldman, D.C. (2O15). Idiosyncratic deals and voice behavior. Journal of Management, 41(3), 893-928.   \nOldroyd,J. B.,& Morris, S. S. (2012). Catching falling stars: A human resource response to social capital's detrimental effect of information overload on star employees.Academy of Management Review,37(3), 396-418.   \nRasheed, M. A. Shahzad, K., Conroy, C., Nadeem, S.,& Siddique, M. U. (2017). Exploring the ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "role of employee voice between high-performance work system and organizational ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "innovation in small and medium enterprises. Journal of Small Business and Enterprise Development, 24(4), 670-688.   \nRobbins, S.P.,& Coulter, M. (2011). Management(11th ed). England: Pearson Education.   \nRuck,K.，Welch,M.,& Menara,B. (2O17). Employee voice: An antecedent to organisational engagement?. Public Relations Review, 43(5), 904-914.   \nSantos, C. M., Passos, A. M.,& Uitdewilligen, S. (2016). When shared cognition leads to closed minds: Temporal mental models， team learning， adaptation and performance.European Management Journal, 34(3),258-268.   \nSparrow, P. (1999). Strategy and cognition: Understanding the role of management knowledge structures， organizational memory and information overload. Creativity and Innovation Management, 8(2), 140-148.   \nSpeier, C., Valacich, J. S.,& Vessey, I. (1999). The influence of task interruption on individual decision making: An information overload perspective. Decision Sciences, 30(2), 337-360.   \nStvilia,B.，Gasser, L., Twidale,M. B.，& Smith,L. C.(2007).A framework for information quality assessment.Journal of the American Society for Information Science and Technology, 58(12), 1720-1733.   \nVan Der Vegt, G. S.,& Bunderson, J. S. (2Oo5). Learning and performance in multidisciplinary teams: The importance of collctive team identification.Academy of Management Journal, 48(3), 532-547.   \nVan Dyne,L.,& Lepine,J. A.(1998). Helping and voice extra-role behaviors: Evidence of construct and predictive validity. Academy of Management Journal, 41(1),108-119.   \nWang,D., Gan, C., Wu, C., & Wang, D. (2O15). Ethical leadership and employee voice: Employee self-efficacy and self-impact as mediators. Psychological Reports, 116(3),751-767.   \nWei, X., Zhang, Z. X.,& Chen, X. P. (2015). I willspeak up if my voice is socially desirable: A moderated mediating process of promotive versus prohibitive voice. Journal of Applied Psychology, 100(5), 1641-1652.   \nWeiss,M.， & Morrison, E. W. (2018, in press). Speaking up and moving up: How voice can enhance employees' social status. Journal of Organizational Behavior. Doi:10.1002/job.2262   \nWest, M. A. (2OO2). Sparkling fountains or stagnant ponds: An integrative model of creativity and innovation implementation in work groups. Applied Psychology, 51(3), 355-387.   \nZhou,J.，& Hoever I. J. (2O14). Research on workplace creativity: A reviewand redirection. Annual Review of Organizational Psychology and Organizational Behavior, $\\boldsymbol { { l } } ( 1 )$ 333-359.   \nZhou, J., & Shalley, C.E. (2Oo7). Handbook of organizational creativity.New York: Erlbaum.   \nZhou,J., Shin, S.J., Brass, D. J., Choi, J.,& Zhang, Z. X.(2O09). Social networks,personal values,and creativity:Evidence for curvilinear and interaction effects.Journal of Applied Psychol0gy, 94(6), 1544-1552. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Team voice effectiveness and its mechanism from the perspective of group information processing: The influence of voice quantity and quality ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "LI Fangjun; WANG Shuman; LI Aimei; LI Bin (Management School, Jinan University, Guangzhou, 510632, China) ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Team voice is widely considered as one contributor to positive team outcomes such asteam performance and innovation.The empirical evidence,however,is inconclusive.From the perspective of group information processing,this paper proposes a two-path model to illstrate the underlying mechanism of influence of team voice on team effctiveness.The main purposes of this paper is to: (a) develop the voice quantity and quality scale, (b) propose a two-path model of team voice influence,(c) develop a training program aiming at improving team leader's voice managing abilities and skills.The potential theoretical and managerial implications are also discussed. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Key words:team voice; team voice quality; team voice quantity; group information processing ",
+        "page_idx": 18
+    }
+]

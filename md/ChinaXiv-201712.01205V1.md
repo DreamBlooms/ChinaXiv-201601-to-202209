@@ -1,0 +1,119 @@
+基础研究
+
+# 高糖激活WNT信号通路促进血管平滑肌细胞钙化
+
+颜建云¹，周芹²，于汇民³,侯梦琳4，陆立鹤4  
+1南方医科大学基础医学院组织胚胎学教研室,广东广州 510515;中山大学2附属第一医院麻醉科，4中山医学院病理生理学教研室，广东广州 510080;广东省人民医院心内科//广东省医学科学院广东省心血管病研究所，广东广州 510080
+
+摘要：目的探讨高糖导致血管钙化机制是否与WNT信号通路有关。方法采用体外血管钙化模型，高糖诱导血管平滑肌细胞钙化，检测WNT信号分子和骨相关蛋白Cbfa1， $\operatorname { O s x }$ ,OCN,BMP2的表达以及细胞钙化程度。观察WNT信号抑制剂Dkk1对高糖诱导的血管平滑肌细胞钙化和Cbfa1， $\operatorname { O s x }$ ,OCN,BMP2表达的影响。结果 高糖能上调血管平滑肌细胞WNT信号通路分子包括Wnt3a,Wnt7a,Fzd4,Wisp1mRNA的表达 $\because ( 1 . 8 6 \pm 0 . 1 5 , 1 . 6 8 \pm 0 . 1 3 , 2 . 1 0 \pm 0 . 1 7 , 2 . 3 0 \pm 0 . 2 0 , P < 0 . 0 5 ) ,$ 促进WNT信号通路关键分子 $\cdot \{ \beta$ -catenin的磷酸化（ $2 . 7 0 { \scriptstyle \pm 0 . 2 2 }$ 0 $P { < } 0 . 0 5 \$ ),激活WNT信号通路。使用WNT信号抑制剂Dkk1能减轻血管平滑肌细胞钙化，下调骨相关蛋白Cbfa1, $\operatorname { O s x }$ ,OCN,BMP2 mRNA的表达[ $( 5 1 \pm 9 ) \%$ ， $( 5 8 \pm 1 1 ) \%$ $56 \pm 1 0 \%$ ！ $6 2 \pm 1 0 ) \%$ $P { < } 0 . 0 1 \rangle$ ]。结论WNT信号通路参与了高糖诱导的血管平滑肌细胞钙化。
+
+关键词：血管钙化;WNT;高糖； $\beta \mathrm { . }$ -catenin；血管平滑肌细胞
+
+# High glucose promotes vascular smooth muscle cell calcification by activating WNT signaling pathway
+
+YAN Jianyun1,ZHOu Qin,YUHuimin,HOUMenglint,LUihe4 DepartmentofistologyndEmbryoloyholofsicedicaliencesouthernedicalnersityuangzou; Departmentofsfedalitd GuangdongGeneralHospitalGuangdonAcademyfedicalciencesnduangdongadioascularIstituteGuangzo8 China;Departmentofatopioloy,ongshanedicalhol,unat-enesityangzouia
+
+Abstract: Objective To investigate whether high glucose-induced vascular calcification is associated with WNT signaling pathway.Methods An in vitro model of human vascularsmooth muscle cel (VSMC)calcification was induced by exposure of the cell to high glucose.Theexpressions of WNTsignal moleculesand bone-related proteins including Cbfal,Osx,OCNand BMP2 were analyzed withqRT-PCR,andthecellcalcification wasaessedbyalizarinred staining.TheeffctofDkk1,a WNT signaling inhibitor,on high glucose-inducedcellcalcification was testedwith alizarinredstainingandcalciumcontent analysis.Results High glucose activated WNT signaling pathway in human VSMCs by up-regulating the expressions of WNT signal molecules including Wnt3a,Wnt7a,Fzd4 and Wisp1 mRNAby1.86,1.68,2.1,and2.3folds,respectivelyandby promoting the phosphorylation of $\beta$ -catenin $2 . 7 0 { \scriptstyle \pm 0 . 2 2 }$ $P { < } 0 . 0 5 \mathrm { \cdot }$ ), akey mediator of WNT signaling pathway. Inhibition of WNT signaling pathway byDkk1 atenuated high glucose-induced VSMCcalcification and down-regulated the expressionof bone-related proteins Cbfa1, Osx, OCN,and BMP2 by $( 5 1 \pm 9 ) \% ,$ $( 5 8 \pm 1 1 ) \% ,$ $( 5 6 \pm 1 0 ) \%$ ,and $( 6 2 \pm 1 0 ) \%$ $( P { < } 0 . 0 1 )$ . Conclusion WNT signaling pathway is involved in high glucose-induced VSMC calcification.
+
+Key words: vascular calcification; WNT; high glucose; $\beta$ catenin; vascular smooth muscle cells
+
+血管钙化是糖尿病患者的常见并发症，能增加心血管疾病的发病率和死亡率1。近年来的研究证明血管钙化是一种类似骨生成的主动调节过程，伴随着大量的骨相关蛋白如cbfa1、Osx、OCN、BMP2的表达上调[2-3]。既往的研究表明高糖能诱导体外血管平滑肌细胞(VSMCs)钙化[4-5]。然而,高糖诱导血管平滑肌细胞钙化的机制尚不明确。WNT信号通路是导致血管钙化的重要机制之一。已有研究报道WNT信号通路参与了血管钙化[67]。但是,WNT信号在高糖诱导的血管钙化中的作用并不清楚。本研究采用体外血管平滑肌细胞钙化模型，研究高糖诱导的血管平滑肌细胞钙化的WNT信号机制，探讨糖尿病患者血管钙化形成的可能机制。
+
+# 1 材料与方法
+
+# 1.1主要材料与试剂
+
+细胞培养试剂、p-nitrophenylphosphate、茜素红来自Sigma公司;Dkk1购自R&D;SYBR green 试剂盒购自Applied Biosystems;TRIzol试剂购自 Invitrogen;AMV逆转录酶购自Roche;BCA蛋白定量试剂盒、Westernblot发光试剂盒购自Pierce;抗 $\beta$ -catenin和phospho- $\cdot \beta$ -catenin(Ser675)抗体购自Cell signaling。
+
+# 1.2 细胞培养
+
+动脉来源于中山大学附属第一医院截肢手术病人，采用explant方法分离血管平滑肌细胞[8],将动脉切成$1 \mathrm { m m }$ 的小块，置于含 $10 \%$ FBS的DMEM培养液中培养，每周更换培养液3次。细胞长满后，进行传代培养。取3\~6代的细胞用来实验，细胞中分别加入5mmol/L葡萄糖(阴性对照)， $2 5 \mathrm { m m o l } / \mathrm { L }$ 葡萄糖和 $2 5 \mathrm { m m o l } / \mathrm { L }$ 甘露醇(渗透压对照),WNT信号抑制剂Dkk1( $2 5 ~ \mathrm { n g / m l } ,$ ，培养7d，观察细胞钙盐沉积和骨相关蛋白的表达。
+
+# 1.3 钙化检测
+
+去除细胞培养液，PBS溶液洗细胞3次后，用 $4 \%$ 的甲醛常温下固定细胞 $1 0 ~ \mathrm { m i n }$ ，加入 $2 \%$ 茜素红( $\mathrm { \ p H } 4 . 2 \$ 中溶液染色 $5 \mathrm { m i n }$ ，去离子水洗涤细胞，显微镜下观察细胞染色情况并拍片。血管切片的茜红素染色：常规石蜡切片，脱蜡后水化， $2 \%$ 茜素红溶液染色 $5 \mathrm { m i n }$ ，丙酮脱水后封片拍照。采用邻甲酚酰络合剂的方法测定细胞钙离子浓度[]。
+
+# 1.4碱性磷酸酶(Alkaline phosphatase,ALP)活性
+
+用PBS洗涤细胞3次后，用 $0 . 1 \%$ Triton X-100裂解细胞抽取蛋白，离心后取上清液，用BCA法测定样品的蛋白含量。然后将 $1 8 0 ~ \mu \mathrm { l }$ p-nitrophenylphosphate (p-NPP)反应底物加入样品， $3 7 ~ \mathrm { ^ { \circ } C }$ 反应 $1 5 ~ \mathrm { m i n }$ ，加入3mol/LNaOH终止反应，用分光光度计于 $4 0 5 ~ \mathrm { n m }$ 处测定溶液吸光度D值。
+
+表1qRT-PCR引物序列 Tab.1 Primer sequence for qRT-PCR   
+
+<html><body><table><tr><td>Genes</td><td>Forward primer</td><td>Reverse primer</td></tr><tr><td>β-actin</td><td>GGACTTCGAGCAAGAGATGG</td><td>AGCACTGTGTTGGCGTACAG</td></tr><tr><td>Wnt3a</td><td>ACTACGTGGAGATCATGCCC</td><td>ATGAGCGTGTCACTGCAAAG</td></tr><tr><td>Wnt7a</td><td>AGAGAAGCAAGGCCAGTACC</td><td>CCGTGGCACTTACATTCCAG</td></tr><tr><td>Fzd4</td><td>GCCAATGTGCACAGAGAAGA</td><td>GGTTTTGTGAGGTAAGGGCA</td></tr><tr><td>Wisp1</td><td>CTCCAATGTTAACGCCCAGT</td><td>AAGTTCATGGATGCCTCTGG</td></tr><tr><td>Cbfa1</td><td>ACGATCTGAGATTTGTGGGC</td><td>TTCCCGAGGTCCATCTACTG</td></tr><tr><td>OCN</td><td>GTAGTGAAGAGACCCAGGCG</td><td>TCAGCCAACTCGTCACAGTC</td></tr><tr><td>Osx</td><td>TAATGGGCTCCTTTCACCTG</td><td>CACTGGGCAGACAGTCAGAA</td></tr><tr><td>BMP2</td><td>GCTAGACCTGTATCGCAGGC</td><td>AAACTCCTCCGTGGGGATAG</td></tr></table></body></html>
+
+# 1.5荧光定量qRT-PCR
+
+参照TRIzol试剂说明书，采用TRIzol提取VSMCs的总RNA。测定RNA的浓度，取 $1 ~ { \mu \mathrm { g } } ~ \mathrm { R N A }$ ，加入AMV逆转录酶将mRNA反转录为cDNA，然后用SYBRgreen试剂盒配制成 $2 0 \mu \mathrm { l }$ PCR反应体系，在 ${ 7 9 0 0 } \mathrm { H T }$ FastReal-TimePCR仪上进行荧光定量PCR。以$\beta$ -actin作为内参，用 $\triangle \triangle { \mathrm { c } } { } _ { \mathrm { t } }$ 的方法计算基因mRNA表达的相对量。PCR所用的引物见表1。
+
+# 1.6Westernblot检测蛋白的表达
+
+收集VSMCs,用PBS洗3次后，加入细胞裂解液(50 mmol/L Tris-HCl,150 mmol/L NaCl, $1 \% \mathrm { N P - } 4 0$ $0 . 1 \%$ SDS)提取细胞总蛋白，离心后取上清，用BCA法测定样品蛋白浓度。加热蛋白变性后上样， $1 0 \% \mathrm { { S D S - } }$ PAGE胶进行电泳分离总蛋白，湿转法将蛋白转至硝酸纤维素膜，室温下脱脂奶粉封闭 $\boldsymbol { 1 } \mathbf { h } _ { \mathrm { o } }$ 加抗β-catenin抗体（204号 $( 1 : 1 0 0 0 )$ 、抗phospho $\cdot \beta$ -catenin(Ser675)抗体(1:1000)室温孵育 $^ { \textrm { 1 h } }$ ,TBST洗膜3次，然后加HRP标记的二抗室温孵育1h，TBST洗膜后ECL发光，暗室胶片显影
+
+# 1.7统计学处理
+
+每次实验至少重复3次，计量资料以均数 $\pm$ 标准差表示，采用SPSS软件分析数据，两组间比较采用 $t$ 检验，
+
+多组间比较采用单因素方差分析。 $P { < } 0 . 0 5$ 被认为有差异统计学意义。
+
+# 2结果
+
+2.1糖尿病患者的钙化血管WNT信号通路上调
+
+茜红素染色显示糖尿病患者(DM)的动脉血管出现明显的钙化，非糖尿病患者(NDM)的动脉未检测到钙化(图1A)。与非糖尿病患者组比较，糖尿病患者的动脉WNT信号通路分子包括Wnt3a,Wnt7a,Fzd4,Wisp1的mRNA表达明显增加(图1B)。
+
+# 2.2高糖激活血管平滑肌细胞WNT信号通路
+
+与正常糖组(NG)比较,高糖组(HG)血管平滑肌细胞WNT信号通路分子包括Wnt3a,Wnt7a,Fzd4,Wisp1的mRNA表达明显增加，而甘露醇高渗透压对照组(OC)并没有变化(图2A)。另外，高糖能明显地促进血管平滑肌细胞WNT信号通路关键分子 $\beta$ -catenin的磷酸化，激活WNT信号通路，而甘露醇并不能刺激 $\beta$ -catenin的磷酸化(图2B)。
+
+![](images/0bc4bb42671b12f40dbe2d7b73b7a60da93bc860be59ef7957424c4e5b83e03c.jpg)
+
+![](images/52065fb54b5bfcdc4b37c8df74d59667755e4e7110faf9ebe0e8fdd1cde40200.jpg)  
+图1钙化血管WNT信号分子的表达 Fig.1ExpressonofWsgnaingmolecles incalcifiedarteries.A:CalcificationassssdbyAlizarinedtainng.B:Expioof WNT signaling molecules analyzed by qRT-PCR. $^ { * } P { < } 0 . 0 5 ,$ Scalebar ${ \mathsf { \Omega } } = 1 0 0 \ { \mu \mathrm { m } }$   
+图2高糖对血管平滑肌细胞WNT信号的影响 Fig.2 Effect of high glucose on WNT signals in vascular smooth muscle cells.A: Expression of WNT signaling molecules was analyzed by qRT-PCR.B: $\beta$ catenin expression was analyzed by Western blotting. $^ { * } P { < } 0 . 0 5$
+
+# 2.3高糖诱导血管平滑肌细胞骨相关蛋白的表达
+
+与正常糖组比较，高糖组血管平滑肌细胞骨相关蛋白包括Cbfa1,Osx,OCN,BMP2的mRNA表达明显增加，而甘露醇没有诱导这种变化(图3A)。另外，高糖能明显增加血管平滑肌细胞成骨样分化分子标志物ALP的活性，而甘露醇不能提高ALP的活性(图3B)。
+
+![](images/ea9c97f03cf7f19a5c1cfc3a8554919ba1aa2fc8b9745c06f7c4f5ccd5781da3.jpg)  
+图3高糖对血管平滑肌细胞成骨样分化的影响 Fig.3Effectofhighglucoseonosteogenic differentiation of vascular smooth muscle cells. $A$ Expression of bone-related proteins analyzed by qRT-PCR.B:ALP activity assessment. $^ { * } P { < } 0 . 0 1$ ：
+
+# 2.4WNT信号抑制剂Dkk1减轻高糖诱导的血管平滑肌细胞钙化
+
+为了研究WNT信号在高糖诱导的血管平滑肌细胞钙化的作用，我们观察了WNT信号抑制剂Dkk1对高糖诱导的血管平滑肌细胞钙化的作用。茜红素染色显示Dkk1处理血管平滑肌细胞7d后，高糖诱导的钙化明显减轻(图4A)。与对照组比较，Dkk1组细胞的钙离子浓度明显降低(图4B)。
+
+![](images/d8ea4a0104e68ef03419271b41781e700a93ebfc1c5b34add65a927ace550a5b.jpg)
+
+2.5WNT信号抑制剂Dkk1下调血管平滑肌细胞骨相关蛋白
+
+我们还观察了Dkk1对高糖诱导的血管平滑肌细胞骨相关蛋白表达的影响。与对照组比较，Dkk1组血管平滑肌细胞骨相关蛋白包括Cbfa1,Osx，OCN,BMP2的mRNA表达明显下降(图5A)。此外，Dkk1能明显降低血管平滑肌细胞ALP的活性(图5B)。
+
+![](images/4695451c883f881b86180d9fb2f8eb6daeffe4ac375d51270c1cee68dbbbdafb.jpg)  
+图4Dkk1对高糖诱导的血管平滑肌细胞钙化的影响 Fig.4EfectofDkk1onvascuarsmothmusclecellcalcificationinducedbyighglucose.A:CalcificationasessedbyAlizarred staining. B: Quantitative analysis of calcium content. $^ { * } P { < } 0 . 0 1$ Us control. Scale bar ${ \mathop { = } } 1 0 0 \ \mu \mathrm { m }$   
+图5Dkk1对血管平滑肌细胞成骨样分化的影响 Fig.5Effect of Dkk1 on osteogenic differentiation of vascular smooth muscle cell induced by high glucose.A: Expression of bone-related proteins analyzed by qRTPCR.B:ALP activity assessment. $^ { * } P { < } 0 . 0 1$ us control.
+
+# 3讨论
+
+血管钙化是一种受基因调节的主动过程，与骨生成的过程类似。血管平滑肌细胞是参与血管钙化的主要细胞来源[1]。当血管平滑肌细胞受到氧化应激、高糖等刺激因素的作用后，可分化成为成骨样细胞，分泌大量的骨相关蛋白如ALP、cbfa1、OCN和BMP2等，从而诱导细胞钙化[1I-12]。本研究发现:高糖能促进血管平滑肌细胞钙化，上调骨相关蛋白Cbfa1、Osx、OCN和BMP2的表达和增加成骨样分化分子标志物ALP的活性。此外，我们还发现：高糖激活血管平滑肌细胞Wnt信号通路，而使用Wnt信号通路Dkk1抑制剂明显减弱高糖诱导的血管平滑肌细胞钙化和成骨样分化，提示Wnt信号通路参与了高糖诱导的血管平滑肌细胞钙化。
+
+已有研究证明高糖参与了血管钙化过程。相较于非糖尿病患者，糖尿病患者的动脉钙化明显增加，钙相关蛋白的表达上调[12]。此外,体外实验证明：高糖能增加骨相关蛋白cbfa1、OCN、BMP2的表达，提高ALP的活性,促进VSMC钙化[1-13],但其导致血管钙化的机制不明确。我们的研究也发现高糖能明显上调骨相关蛋白包括Cbfa1、Osx、OCN、BMP2的表达，促进人的血管平滑肌细胞钙化。另外，糖尿病患者的动脉WNT信号通路分子包括Wnt3a、Wnt7a、Fzd4、Wisp1的mRNA表达明显增加。体外实验证明：高糖能上调血管平滑肌细胞Wnt3a、Wnt7a、Fzd4、Wisp1的mRNA表达,明显地促进血管平滑肌细胞WNT信号通路关键分子 $\beta$ -catenin的磷酸化，提示高糖诱导的血管钙化可能与WNT信号通路有关。
+
+WNT蛋白家族是进化上高度保守的分泌型糖蛋白，在胚胎发育过程中调节细胞的增殖和分化。WNT信号异常可导致肿瘤，骨质疏松,糖尿病等疾病。经典WNT信号通路通过WNT配体结合其受体Frizzled(FZD)和Receptor-related proteins 5 and 6(LRP5 andLRP6)，形成WNT-FZD-LRP复合物，稳定关键分子$\beta \mathrm { . }$ -catenin,进入细胞核与Tcell factor/lymphoidenhancerfactor(TCF/LEF)形成复合物，激活下游靶基因的表达[13]。体外实验证明:WNT/β-catenin信号通路参与了血管平滑肌细胞钙化[14-15]。我们的研究发现WNT信号通路抑制剂Dkk1能明显抑制高糖诱导的血管平滑肌细胞钙化。此外，Dkk1能降低血管平滑肌细胞ALP的活性和下调骨相关蛋白Cbfa1、Osx、OCN和BMP2的表达。综上所述，我们的研究表明：高糖刺激血管平滑肌细胞，激活WNT信号通路，上调骨相关蛋白Cbfa1、Osx、OCN和BMP2的表达，从而诱导血管平滑肌细胞出现成骨样分化，最终导致血管平滑肌细胞钙化。因此，WNT信号通路是介导高糖诱导的血管平滑肌细胞钙化的重要机制,可能成为干预糖尿病患者血管钙化的有效靶点。
+
+# 参考文献：
+
+[1]Raggi P, Shaw LJ, Berman DS,et al.Prognostic value of coronary artery Calcium screening in subjects with and without diabetes[J]. J Am Coll Cardiol,2004,43(9):1663-9.   
+[2]Demer LL,Tintut Y. Vascular calcification:pathobiology of a multifaceted disease[J].Circulation,2008,117(22):2938-48.   
+[3]Tyson KL,Reynolds JL,Mcnair R,et al.Osteo/chondrocytic transcription factors and their target genes exhibit distinct patterns ofexpression in human arterial calcification [J].Arterioscler Thromb Vasc Biol,2003,23(3):489-94.   
+[4]Liu F, Zhong H,Liang JY,et al. Effect of high glucose levels on the calcification of vascular smooth muscle cells by inducing osteoblastic differentiation and intracellular Calcium deposition via BMP-2/Cbfa-1 pathway[J].J Zhejiang Univ SciB,2010,11(12): 905-11.   
+[5]Wang YY, Shan JG,Yang WA,et al.High mobility group box 1 (HMGB1) mediates High-Glucose-Induced calcification in vascular smooth muscle cells of saphenous veins[J]. Inflammation,2013,36 (6): 1592-604.   
+[6]Beazley KE,Deasey S,Lima FA.Transglutaminase 2-Mediated activation of beta-Catenin signaling has a critical role in WarfarinInduced vascular calcification[J].Arterioscler Thromb Vasc Biol, 2012,32(1): 123-U302.   
+[7] Shao JS,Cheng SL，Pingsterhaus JM，et al. Msx2 promotes cardiovascular calcification by activating paracrine Wnt signals[J]. JClin Invest,2005,115(5): 1210-20.   
+[8]Endlich N,Endlich K,Taesch N,et al. Culture of vascular smooth muscle cells from small arteries of the rat kidney[J].Kidney Int, 2000,57(6): 2468-75.   
+[9]Jono S,Nishizawa Y, Shioi A,et al.Parathyroid hormone-related peptide as a local regulator of vascular calcification.Its inhibitory action on in vitro calcification by bovine vascular smooth muscle cells[J].Arterioscler Thromb Vasc Biol,1997,17(6): 1135-42.   
+[10] Speer MY, Yang HY, Brabb T,et al. Smooth muscle cels give rise to osteochondrogenic precursors and chondrocytes in calcifying arteries[J]. Circ Res,2009,104(6): 733-41.   
+[11]Yan J, Stringer SE,Hamilton A,et al. Decorin GAG synthesis and TGF- $\cdot \beta$ signaling mediate Ox-LDL-induced mineralization of human vascular smooth muscle cells[J].Arterioscler Thromb Vasc Biol,2011,31(3): 608-15.   
+[12]Chen NX, Duan D, O'neill KD,et al. High glucose increases the expression of Cbfal and BMP-2 and enhances the calcification of vascular smooth muscle cells[J].Nephrol Dial Transplant,2OO6,21 (12): 3435-42.   
+[13]Clevers H, Nusse R.Wnt/β-Catenin signaling and disease[J]. Cell, 2012,149(6): 1192-205.   
+[14]Beazley KE, Deasey S,Lima F, et al. Transglutaminase 2-mediated activation of $\beta$ catenin signaling has a critical role in warfarininduced vascular calcification[J].Arterioscler Thromb Vasc Biol, 2012,32(1): 123-30.   
+[15]Faverman L，Mikhaylova L，Malmquist J,et al.Extracelular transglutaminase 2 activates beta-catenin signaling in calcifying vascular smooth muscle cells[J]. FEBS Lett, 2008,582(10): 1552-7. (编辑：吴锦雅）

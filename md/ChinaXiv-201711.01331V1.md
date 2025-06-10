@@ -1,0 +1,121 @@
+# 云南天文台1.2米望远镜的圆顶自动化控制系统
+
+和丽娟},²，鞠德华¹，何超¹，李祝莲¹，李荣旺¹，李语强(1.中国科学院云南天文台，云南 昆明650011；2.中国科学院大学，北京100049)
+
+摘要：圆顶的自动化控制对提高观测数据质量和减轻观测人员工作量具有重要意义。针对云南天文台 $1 . 2 \mathrm { m }$ 望远镜的圆顶特殊结构——两个半球向两侧平移打开、胶轮摩擦驱动旋转，采用嵌入式控制板现场控制、有线以太网远程通讯的架构，研制了圆顶自动化控制系统，嵌入式控制板采用运行Linux系统的FL2440，圆顶位置检测采用8个霍尔探头、3个磁钢相结合的方式，达到了 $1 5 ^ { \circ }$ 的位置分辨率，列出较详细的控制指令集。经过两个月的试运行，结果表明：系统安全、稳定、可靠，满足日常观测的需求。
+
+关键词：自动化；圆顶控制；嵌入式系统；远程控制；FL2440  
+中图分类号：P111 文献标识码：A 文章编号：1672-7673(2017)01-0087-07
+
+圆顶是地基光学望远镜不可或缺的外围设备之一，提供望远镜工作和保存的环境，望远镜工作时尽可能减小对观测的影响，望远镜不工作时，可较好封闭使仪器不受外界风、雨、雪、灰尘等的影响，圆顶有各种各样的设计[1]。不同于开窗式的典型天文圆顶，云南天文台 $1 . 2 \mathrm { m }$ 望远镜的圆顶由两个半球组成，向两侧打开，可旋转，如图1。
+
+![](images/7c1227a6eee9f3185b05af28b574e0cffa659636469b9e89b47ff80a7342d16d.jpg)  
+图1云南天文台 $1 . 2 \mathrm { m }$ 望远镜的圆顶实物图  
+Fig.1The Dome of the $1 . 2 \mathrm { m }$ Telescope at Yunnan Observatories
+
+$1 . 2 \mathrm { m }$ 望远镜主要用于空间目标的观测，空间目标运动速度较快且需要频繁更换观测目标，在观测过程中，需要根据目标位置及时转动圆顶，以避免遮挡。原有控制方式是通过控制台上的按钮，用
+
+继电器控制交流电机，使圆顶顺时针或逆时针转动，这就要求观测员要时刻注意圆顶的情况。目前虽然安装有监控以判断是否需要转动，但由于监控设备的视场、安装位置等限制，不易及时发现圆顶遮挡情况，从而使观测数据质量下降。如图2是圆顶的遮挡关系图，圆顶开口中心固定在正北位置，对于给定望远镜方位角，当仰角低于实心圆所示曲线时为全遮挡，当仰角低于空心圆所示曲线时为部分遮挡，当仰角低于实线所示曲线时表示在监控视场中可见圆顶。由图2可见，(1)监控可见与部分遮挡的仰角比较接近，因而当观测员在监控中发现圆顶时，可能圆顶已经遮挡了一段时间，进行光度测量时表现为目标持续变暗，在事后分析时无法区分是目标实际变暗还
+
+![](images/a1896a2da28eb84a0a5cf75345855dfd4d93a134cf4dd05377bf2fe12e7272ae.jpg)  
+图2圆顶遮挡关系Fig.2Dome occlusion
+
+是圆顶遮挡原因；（2)圆顶开口对应的张角比较大，仰角越高，对应张角越大，仰角为 $1 5 ^ { \circ }$ 时张角约为 ${ 4 4 } ^ { \circ }$ （半角），当仰角大于 ${ 5 0 } ^ { \circ }$ 时圆顶不会遮挡。
+
+最典型的天文圆顶控制方式有全开式和随动式[2-5]。全开式是指圆顶完全打开，对望远镜不存在遮挡，因此仅需要开始观测前将圆顶打开，观测过程中无需对圆顶进行控制；随动式最简单的方式为同步随动，主要用于开窗式的天文望远镜的圆顶控制，即圆顶随望远镜同步转动，确保望远镜镜筒始终在开窗处，主要用于跟踪恒星等慢速目标。随动式总体可分为两大部分，一是驱动电机，二是采集圆顶位置并进行策略判断。文［2]采用可编程逻辑控制器（Programable Logical Controller，PLC)进行控制，测角方案采用光电编码器，对于恒星目标直接采用预报引导进行随动。文[3]利用控制输出电路板将圆顶控制指令转换为变频器运动指令驱动电机，测角方案采用精度要求不高的增量式编码器，用单片机采集并通过串口发送给PC 主控板。文[4]则根据观测目标的特殊性，将两个光敏元件对称地安装在一个“工”字型支架的底座两侧，当入射光正向照射时，两个光电元件有相同的输出；入射光倾斜时，光敏元件因受到的光照强度不同而输出不同，据此可驱动圆顶实现对太阳的跟踪。文［5］介绍了一种AS-I现场总线技术进行位置检测的望远镜圆顶随动方法，提出了断续跟踪的方式，安装和维护简单，对设计之初未考虑圆顶随动的情况尤其适用。
+
+云南天文台 $1 . 2 \mathrm { m }$ 望远镜的圆顶由于结构的特殊性，无法完全打开，又由于望远镜主要用于空间目标观测，运动速度快，且需要频繁更换目标，圆顶转动时的震动对成像观测影响显著，不宜采用同步随动式。因此研发了圆顶的自动化控制系统，在满足不遮挡的要求下，尽可能减少圆顶转动，采用断续跟踪方式。
+
+# 1圆顶的自动化控制系统
+
+圆顶的自动化控制主要有开启圆顶、关闭圆顶以及各种方式转动，包括持续顺时针或逆时针转动、顺时针或逆时针转动至指定角度、按最短路径转动至指定角度、自主转动，其系统架构如图3,采用嵌入式控制板现场控制、有线以太网远程通讯的方式。
+
+圆顶控制的继电器由12V电压控制，而一般嵌入式控制板给出的是TTL 电平，因此需要电压转换，将嵌入式控制板输出的TTL电平信号转换为12V的继电器控制信号；另外，考虑到安全性，在软件出错的情况下由硬件进行安全保障，包括开启圆顶和关闭圆顶信号互斥、顺时针转动圆顶信号和逆时针转动圆顶信号互斥，以及信号之间切换必须间隔一定时间。
+
+![](images/7cbef5f80729f72adc25871f3b9490b92763b27aa1a94ea1c893d20d4af12905.jpg)  
+图3圆顶自动化控制系统架构图
+
+圆顶当前位置的检测是自动化控制中必不可少的部分，只有知道当前位置，才能根据目的位置按需转动。通常做法是在转动轴处放置编码器，但 $1 . 2 \mathrm { m }$ 望远镜的圆顶采用双电机胶轮摩擦传动，无实质转动轴，加之胶轮传动存在磨损导致传动比变化、打滑等因素，不宜采用编码器的方案，考虑到圆顶开启后有一定角度，实际上对于圆顶位置的精度要求并不太高，故采用霍尔传感这种非接触式开关方式进行检测。采用单一霍尔传感器定零点的方式无法满足要求，因基建结构限制霍尔探头不能太多，因此采用8个霍尔探头、3个磁钢结合的方式实现 $1 5 ^ { \circ }$ 的分辨率，安装示意图如图4：8个霍尔探头间隔 $4 5 ^ { \circ }$ ，按顺时针编号依次为#0\~#7，安装在基座上；3个磁钢间隔 $1 5 ^ { \circ }$ ，按顺时针编号依次为-1、0、1，正中的磁钢正对圆顶开口中心，安装在圆顶转动摩擦盘上。计霍尔探头编号为 $N _ { s }$ 、磁钢编号为 $N _ { G }$ ，则圆顶位置 $\theta$ 可由(1)式计算：
+
+$$
+\theta = 4 5 N _ { s } + 1 5 N _ { G } ~ .
+$$
+
+如，霍尔探头#0 对应磁钢-1时圆顶位置为 $- 1 5 ^ { \circ }$ （即 $3 4 5 ^ { \circ }$ ），霍尔探头 $\# 0$ 对应磁钢0时圆顶位置为${ 0 } ^ { \circ }$ ，霍尔探头#0对应磁钢1时圆顶位置为 $1 5 ^ { \circ }$ ，霍尔探头#1对应磁钢-1时圆顶位置为 ${ 3 0 } ^ { \circ }$ ，霍尔探头#1对应磁钢0时圆顶位置为 $4 5 ^ { \circ }$ 。
+
+![](images/85631403b852f6b3ed6f1b272a3d7f687664f3815b33fede7460abe5f5ea9e8a.jpg)  
+Fig.3Architecture of the dome's auto control system   
+图4霍尔探头及磁钢分布图  
+Fig.4Distribution of Hall sensors and magnets
+
+显而易见，因圆顶传动方式的特殊性，只有圆顶停靠时保证磁钢正好在霍尔探头处才能确定圆顶位置，否则需要进行初始化，即使用断续跟踪方式。由于3个磁钢完全一致，产生霍尔感应时能直接得到霍尔探头的编号，但磁钢的编号必须结合上一次霍尔感应时的磁钢编号和圆顶转动方向才能确定，那么如何初始化就是需要着重考虑的一个问题。初始化流程如图5，执行初始化时，顺时针持续
+
+转动圆顶，首次检测到霍尔感应时设定目的霍尔探头为顺时针的下一个，即霍尔探头的编号加1并归一化为[0，7]，然后持续转动直至目的霍尔探头首次产生霍尔感应，停止转动，保存当前霍尔探头编号，而磁钢编号即初始化为-1，结束初始化流程。
+
+由上述分析可知，霍尔探头的作用是产生霍尔感应时输出信号，因此采用常开式比较适合，实际选用PNP型的NJK5002A加长型、 $1 2 { \mathrm { ~ V ~ } }$ 供电，在控制转换电路板上一并实现将霍尔感应的12V信号转换为TTL电平送给嵌入式控制板。其电路原理如图6。
+
+整个系统的核心部件—嵌入式控制板，负责解析霍尔感应信号、输出控制逻辑信号以及解析远程控制指令，因此采用ARM架构的FL2440开发板，操作系统为Linux，可实现多线程和网络通信[6]。开发板的主要硬件资源如下①：CPU是 ARM920T架构的 S3C2440A，主频为 $4 0 0 ~ \mathrm { M H z }$ 100M网口为DM9000（与文［6]所用一致），有30针的扩展IO口可用于输入输出（编号为J9），定义8个IO口为输入端口，用于检测8个霍尔探头信号、中断方式、下降沿触发；5个IO口为
+
+![](images/e136a895d0ea9bd642d4e4e48b0bcf5e79608c1cb26dcd76865bf83dcdcc0c1b.jpg)  
+图5圆顶转动初始化流程图
+
+输出端口，用于产生控制逻辑信号，包括使能信号、开启圆顶信号、关闭圆顶信号、顺时针转动信号、逆时针转动信号。为了防止误触发，只有在使能信号有效的状态下其余信号有效才能驱动电机，而使能信号进行切换时，自动先将其余控制信号设为无效，以避免多个信号同时有效引起的异常；另外，由于ARM板开机自检时所使用的这5路输出信号会同时变为低电平然后变为高电平，因此将使能信号设定为高电平有效，其余信号设定为低电平有效，以避免出现所有信号同时有效的情况。
+
+![](images/86558e3c8a4f31f0845b9503f17094fc7454c67a1b189a121094c2817ced595b.jpg)  
+Fig.5The control flow of the dome's rotation init procedure   
+图6霍尔感应的电压转换原理图  
+Fig.6Schematic diagram of voltage conversion
+
+根据圆顶自动化控制的需求，制定的控制指令集如表1，系统有以下3种工作模式：人工运行模式、程控运行模式、自主模式：
+
+（1)人工运行模式：使能信号无效，人工通过按钮进行控制;(2)程控运行模式：使能信号有效，通过控制程序进行控制；(3)自主模式：使能信号有效，控制程序根据望远镜位置自主决定是否需要转动、转动到什么角度以及转动方向，无需人工干预。
+
+执行观测任务时，一般采用自主模式，在此模式下，由于位置检测精度为 $1 5 ^ { \circ }$ ，且要求圆顶停靠时磁钢正好在霍尔探头处，因此正常情况下望远镜方位变化 $1 5 ^ { \circ }$ 时圆顶转动一次，而当俯仰角大于${ 6 0 } ^ { \circ }$ 时（注：计算结果为仰角大于 ${ 5 0 } ^ { \circ }$ 即不会遮挡，但由于测量误差、计算误差等，此处为了保险取${ 6 0 } ^ { \circ }$ )，圆顶不会遮挡，因此无需转动圆顶。
+
+表1圆顶控制指令集  
+Table 1 Instruction sets of dome control   
+
+<html><body><table><tr><td>指令格式</td><td>指令含义及参数说明</td></tr><tr><td>E[0/1]</td><td>使能指令，1表示进入自动化控制模式，0表示禁用自动化控制，切换为人工控制模 式。参数默认为0</td></tr><tr><td>P</td><td>停止所有动作</td></tr><tr><td>N[+/-]</td><td>停靠圆顶转动，默认为当前转动方向的下一个停靠位置，亦可指定转动方向，“+” 表示顺时针转动并停靠下一个位置，“-”表示逆时针转动并停靠下一个位置</td></tr><tr><td>0</td><td>开启圆顶</td></tr><tr><td>C</td><td>关闭圆顶</td></tr><tr><td>I</td><td>圆顶转动初始化，以确定圆顶的位置（即开口对应的方位角)</td></tr><tr><td>J[+/-]</td><td>圆顶持续转动，“+”表示顺时针，“-”表示逆时针，缺省参数为“+”</td></tr><tr><td>G(Az)[+/-]</td><td>圆顶转动至指定角度Az，缺省参数表示按最短路径判断转动方向，“+”表示顺时针 转动，“-”表示逆时针转动。必须先执行圆顶转动初始化</td></tr><tr><td>A(Az)；(El)</td><td>自主模式，可持续发送望远镜的方位角Az 和俯仰角El，自主决定是否需要转动、转 动到什么角度以及转动方向。必须先执行圆顶转动初始化</td></tr><tr><td>！</td><td>查询状态</td></tr><tr><td>X</td><td>退出</td></tr></table></body></html>
+
+圆顶是两个半球对开的方式，不同于开窗方式，圆顶的 ${ 0 } ^ { \circ }$ 位置与 ${ 1 8 0 } ^ { \circ }$ 位置完全等价，因此最短路径转动时需综合考虑，如圆顶当前位置为 $1 5 ^ { \circ }$ ，目的位置为 ${ 1 8 0 } ^ { \circ }$ 时，显然将圆顶转动到 ${ 0 } ^ { \circ }$ （需逆时针转动 $1 5 ^ { \circ }$ )比转动到 ${ 1 8 0 } ^ { \circ }$ （需顺时针转动 $1 6 5 ^ { \circ }$ )距离短。图7为目标编号38077的一个过境圈次中圆顶位置与望远镜位置的对比图，红色连线表示望远镜方位角，空心圆点表示望远镜俯仰角，星形表示未做任何算法优化情况下的圆顶位置，空心三角表示进行算法优化后的圆顶位置，包括俯仰角大于${ 6 0 } ^ { \circ }$ 不转动、综合考虑 ${ 0 } ^ { \circ }$ 和 ${ 1 8 0 } ^ { \circ }$ 位置。可见未做优化时需转动11次，而优化后减少为4次，且总的转动角度大大减小，具体为高于 ${ 6 0 } ^ { \circ }$ 时
+
+![](images/3930a406325b70ed7998c5cc7ec5df0c2d88926d671d10655b5c552775cb1aaf.jpg)  
+图7圆顶位置与望远镜位置对比图  
+Fig.7A position comparison chart of the dome and the telescope
+
+不转动减少了7次转动，俯仰角从高于 ${ 6 0 } ^ { \circ }$ 转变为低于 ${ 6 0 } ^ { \circ }$ 时，望远镜方位角约为 $4 5 ^ { \circ }$ ，而圆顶依然保持在 $1 6 5 ^ { \circ }$ 位置，综合考虑后圆顶转动到 $2 2 5 ^ { \circ }$ （需转动 ${ 6 0 } ^ { \circ }$ )而不是 $4 5 ^ { \circ }$ （需转动 ${ 1 2 0 } ^ { \circ }$ )，大大减小了圆顶的转动角度。
+
+软件分为机上服务端软件(运行于嵌入式控制板上，Linux 系统)和机下客户端软件(运行在控制主机上，WinXP系统)，其间通过网络TCP/IP协议通讯，当然还有机上用于控制扩展口的驱动程序」。机上服务器端软件及驱动程序采用C语言编写，驱动程序主要定义了8个IO口作为中断输入（下降沿触发)，7个IO口作为输出；服务器端软件调用驱动监控霍尔信号输入并计算当前位置，解析指令并输出适合的控制信号，实现TCP/IP 服务器端。
+
+机下客户端软件采用JAVA语言编写，界面如图8，通过串口获取并解析望远镜主控软件广播的方位角和天顶距，勾选复选框“自主模式”后，每隔5s通过网络发送相应指令给机上服务器端软件，实现自主控制；每隔1s查询一次状态，更新当前圆顶位置及状态。
+
+![](images/e6a78f72aef41ce530a30a601e2c73e90c8555108f7a7e8c8c0422e2275df8e1.jpg)  
+图8客户端程序(机下)Fig.8The GUI of the client software
+
+# 2结果及讨论
+
+经过两个月的试运行，系统安全、稳定、可靠，各种控制指令执行正确，可满足日常观测的需求，自主模式运行正常，满足要求。
+
+上述方案中要求圆顶停靠时保证磁钢正好在霍尔探头处才能确定圆顶位置，然而在实际运行中发现，由于惯性及磁钢和霍尔探头安装的原因，圆顶停止时磁钢有时正好在探头上方，有时则冲过了，而霍尔感应仅检测下降沿，这样当圆顶反向转动时，将无法正确判断。因此，检测到霍尔感应后，若满足停止条件，则延时1s后方停止，以保证圆顶停止时磁钢离开霍尔探头范围，这样反向转动时,忽略第1次霍尔感应即可。
+
+另外，自主转动模式中，采用如下简单方案：仰角低于 ${ 6 0 } ^ { \circ }$ 时，方位每转动 $1 5 ^ { \circ }$ 圆顶转动一次,始终保证望远镜指向在圆顶开口中心附近。实际上圆顶的开口张角比较大，可结合预报进行优化进一步减少转动次数。
+
+# 参考文献：
+
+[1] 姚正秋，周放.近代天文圆顶发展概况［J]．天文学进展，2003，21(3)：206-218.
+
+Yao Zhengqiu，Zhou Fang.Progress in modern astronomical enclosure ［J].Progress inAstronomy，2003，21(3）:206-218.  
+[2] 陆栋宁，黄垒，陈颖为，等. $8 5 ~ \mathrm { c m }$ 天文望远镜圆顶和天窗自动化系统研制［J].天文研究与技术—国家天文台台刊，2008，5(4)：386-391.Lu Dongning，Huang Lei，Chen Yingwei，et al.Research and development of the dome/slitcontrol system for the $8 5 \mathrm { c m }$ reflector of NOAC-BNU ［J].Astronomical Research & Technology-Publications of National Astronomical Observatories of China，2O08，5(4）：386-391.  
+[3] 祝杰，曹凯，郑义劲. $1 . 5 6 \mathrm { ~ m ~ }$ 望远镜天文圆顶电控的改造［J]．中国科学院上海天文台年刊，2009(30)：79-86.Zhu Jie，Cao kai，Zheng Yijing.Realization of $1 . 5 6 \mathrm { m }$ telescope dome electric control systemreformation [J]. Annals of Shanghai Astronomical Observatory Chinese Academy of Sciences,2009(30): 79-86.  
+[4] 许骏，钱铜铃，汪从云．太阳随动圆顶的一种实现［J].云南天文台台刊，2000(3)：37-41.Xu Jun，Qian Tongling，Wang Congyun. The dome auto-rotating system for solar telescope [J].Publications of the Yunnan Observatory，200O(3）：37-41.  
+[5] 高杰，肖宏玲，姜晓军．一种基于AS-I总线的圆顶随动系统［J].天文研究与技术—国家天文台台刊，2004，1(3)：196-202.Gao Jie，Xiao Hongling，Jiang Xiaojun.An astrodome synchronization system based on AS-Ifieldbus ［J].Astronomical Research & Technology——Publications of National AstronomicalObservatories of China，2004，1(3）:196-202.  
+[6] 朱华.一种基于ARM+Linux 的网络通信实现方法研究［D].昆明：昆明理工大学，2010.  
+[7] 杨铸，唐攀.深入浅出：嵌入式底层软件开发［M]．北京：北京航空航天大学出版社，2011.
+
+# The Dome Auto Control System of the 1.2m Telescope at Yunnan Observatories
+
+He Lijuan $^ { 1 , 2 }$ ，Ju Dehua’，He Chao’，Li Zhulian’，Li Rongwang'，Li Yuqiang (1.Yunnan Observatories，Chinese Academy of Sciences，Kunming 6500l1,China，Email；lyq@ ynao.ac.cn; 2.University of Chinese Academy of Sciences，Beijing 1Ooo49,China)
+
+Abstract:Dome automation isvery important for improving data quality and reducing observers ’ workload.For the dome of the $1 . 2 \mathrm { m }$ Telescope at Yunnan Observatories，an automation control system is designed to avoid the occlusion effctcaused bythe dome during observation.The dome has aspecial structure with two hemispheres thatcan be opened horizontally with its rotation driven by tire friction.This auto control system uses an embedded system to control the dome by voltage conversion and remote network communication. The embedded device is FL2440O and its operating system is Linux.This architecture uses 8 Hall sensors and 3 magnets to determine the position of the dome.Test result indicates that its position resolution accuracy reaches to $1 5 ^ { \circ }$ . Details of the instruction set are given. After two months of trial，we find that the system is secure, stable and reliable.It can also meet the needs of regular observations.
+
+Key words: Automation； Dome Control； Embedded System；Remote Control； FL2440

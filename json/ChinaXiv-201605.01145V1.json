@@ -1,0 +1,456 @@
+[
+    {
+        "type": "text",
+        "text": "Pseudo-goldstino and electroweakinos via VBF processes at LHC ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tao Liu,1 Lin Wang,1 and Jin Min Yang² （204号 $^ { 1 }$ Institut fir Theoretische Teilchenphysik,   \nKarlsruhe Institute of Technology (KIT)， D-76128 Karlsruhe, Germany （204 ${ \\mathit { \\mathcal { Z } } }$ State Key Laboratory of Theoretical Physics,   \nInstitute of Theoretical Physics， Academia Sinica， Beijing 100190, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The multi-sector SUSY breaking predicts pseudo-goldstino which can couple to the visible sector more strongly than the ordinary gravitino and thus induce the decays of the lightest neutralino and chargino (collectively called electroweakinos） inside the detector. In this note we study the electroweakino pair productions via VBF processes followed by decays to pseudo-goldstino at the LHC. Our Monte Carlo simulations show that at the 14 TeV LHC with 3000 $f b ^ { - 1 }$ luminosity the dominant production channel $p p  \\chi _ { 1 } ^ { \\pm } \\chi _ { 1 } ^ { 0 } j j$ can have a statistical significance above $2 \\sigma$ while other production channels are not accessible. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers: 14.80.Ly ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Search for supersymmetry (SUSY) is an important task for the LHC. The current null search results indicate that the SUSY breaking scale may be far above the weak scale and hence we must tolerate some extent of unnaturalness. However, for the explanation of dark matter relic density and the unification of gauge couplings, the electroweak gauginos and higgsinos (collectively called electroweakinos) cannot be too heavy and should be accessible in the upcoming runs of the LHC [1]. Search for these electroweakinos at the LHC is rather challenging and has been recently intensively studied [2]. For example,when the lightest electroweakinos have compressed mass spectrum, their pair productions through Drell-Yan processes only give missing energy and an extra jet or gauge boson is needed for the detection [3]. Another type of productions of electroweakinos at the LHC is vector boson fusion (VBF), which is shown quite promising despite of small cross sections [4]. These VBF productions naturally produce two highly energetic quark jets with large dijet invariant mass in the forward and backward regions of the detector [5]. An important feature of VBF is the absence of color exchange between these two jets,which leads to a reduction of gluon emission in the central region. This is in contrast to the case of typical QCD backgrounds. Due to this feature,the VBF processes have been studied for producing electroweakinos [4] and the Higgs bosons [6]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Note that in the VBF productions of electroweakinos at the LHC, e.g.， the dominant channel $p p  \\chi _ { 1 } ^ { \\pm } \\chi _ { 1 } ^ { 0 } j j$ , in order to have a sizable cross section, the lightest electroweakinos （ $\\chi _ { 1 } ^ { \\pm }$ and $\\chi _ { 1 } ^ { 0 }$ ） must be wino-like and have compressed mass spectrum，which gives a signal of two jets plus missing energy in the general framework of minimal supersymmetric model with R-parity. In the multi-sector SUSY breaking scenario, however，both $\\chi _ { 1 } ^ { \\pm }$ and $\\chi _ { 1 } ^ { 0 }$ can decay to visible particles plus pseudo-goldstino inside the detector and then the VBF production $p p  \\chi _ { 1 } ^ { \\pm } \\chi _ { 1 } ^ { 0 } j j$ will give rather different signals. Such multi-sector SUSY breaking scenario refers to SUSY breaking in more than one hidden sector, in which one goldstino will become the longitudinal component of gravitino and other orthogonal states willbecome the physical pseudo-goldstinos. Unconstrained by the supercurrent, the couplings of the pseudogoldstinos could be large enough to have intriguing phenomenology [7-21]. In our previous work [22] we investigated the Drell-Yan productions of the lightest electroweakinos followed by the decays to pseudo-goldstino at the LHC.In this work we extend the study to the VBF productions of electroweakinos. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The structure of this note is as follows. In Section II, we briefly describe the neutralino and chargino decays to pseudo-goldstino,and then perform the Monte Carlo simulations for the signal and backgrounds of their VBF productions at the LHC. Finally our conclusions are given in Section III. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "II. PHENOMENOLOGICAL STUDY AT THELHC ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A. Chargino/neutralino decays to pseudo-goldstino ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We now recapitulate our scenario (for a detailed description, see our previous work [22]). Our scenario is that SUSY is broken in two hidden sectors, in which the sector with a low SUSY breaking scale gives very small contribution to the soft gaugino masses. In this scenario the pseudo-goldstino ( $G ^ { \\prime }$ ） couplings to the photon and transverse $\\boldsymbol { Z }$ -boson are suppressed while its interaction with Higgs and longitudinal gauge bosons are enhanced comparing to ordinary gravitino. So a light neutral higgsino can decay to a Higgs boson or $Z$ -boson plus $G ^ { \\prime }$ while a light charged higgsino can only decay to a $W$ -boson plus $G ^ { \\prime }$ (because the charged Higgs is usually heavier than the light charged higgsino)，as shown in Fig.1. In the VBF productions, the chargino $\\left( \\chi _ { 1 } ^ { + } \\right)$ and neutralino $\\left( \\chi _ { 1 } ^ { 0 } \\right)$ must be winolike in order for a sizable production rate. Such a wino-like neutralino can have a decay （20 $\\chi _ { 1 } ^ { 0 }  h + G ^ { \\prime }$ through its mixing with the neutral higgsino,while the wino-like chargino can have a decay $\\chi _ { 1 } ^ { + }  W + G ^ { \\prime }$ through two insertions. Since the two insertions may lead to a rather small decay width, the gravitino (goldstino) channel $\\chi _ { 1 } ^ { + }  W + G$ can be comparable. Considering the gravitino and pseudo-goldstino have the same colider signature (missing energy)，we only consider the pseudo-goldstino decay channel. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/65d18ecbafb32997f1e2d88bbf6ca217955fa1821f9b5797727f1726ada29290.jpg",
+        "img_caption": [
+            "FIG.1: A diagrammatic description of the interaction and mixing between pseudo-goldstino $G ^ { \\prime }$ and higgsino $\\tilde { H }$ in the two-sector SUSY breaking scenario. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As in our previous work [22]，we can start the analysis from the effective interaction between pseudo-goldstino, chargino and neutralino ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathsf { \\Pi } _ { \\mathrm { e f f } } ^ { \\mathrm { e f f } } = \\frac { \\widetilde { m } _ { \\phi } ^ { 2 } } { F } [ g _ { h \\chi } h \\chi ^ { 0 } G ^ { \\prime } + g _ { \\chi Z } \\bar { G } ^ { \\prime } \\bar { \\sigma } ^ { \\mu } \\chi ^ { 0 } Z _ { \\mu } + g _ { \\chi W _ { 1 } } \\bar { G } ^ { \\prime } \\bar { \\sigma } ^ { \\mu } \\chi ^ { + } W _ { \\mu } ^ { - } + g _ { \\chi W _ { 2 } } \\bar { G } ^ { \\prime } \\bar { \\sigma } ^ { \\mu } \\chi ^ { - } W _ { \\mu } ^ { + } + h . c . ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $F ~ = ~ \\sqrt { F _ { 1 } ^ { 2 } + F _ { 2 } ^ { 2 } }$ with $\\boldsymbol { F } _ { i }$ being the SUSY breaking scales in two hidden sectors, $\\widetilde { m } _ { \\phi } ^ { 2 } = - m _ { \\phi , 1 } ^ { 2 } \\tan \\theta + m _ { \\phi , 2 } ^ { 2 } \\cot \\theta$ with $\\tan \\theta = F _ { 2 } / F _ { 1 }$ and ${ m } _ { \\phi , i }$ the soft masses for the chiral fields. With fixed parameters $\\widetilde { m } _ { \\phi } / \\sqrt { F } = 0 . 1$ and all the couplings $g _ { X } = 1$ , the decay width of neutralino or chargino into pseudo-goldstino is of the order $\\sim 1 0 ^ { - 4 }$ GeV and the decay length is about $1 0 ^ { - 1 0 }$ cm which means that the decays will occur inside the detector. As shown in Fig. 2 of [22], the lightest electroweakinos decay dominantly to pseudo-goldstino and in our calculation we the assume such a decay has a branching of $1 0 0 \\%$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "B. Signal of VBF productions of chargino/neutralino ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For neutralino/chargino productions through VBF processes, we focus on the pair production of a neutralino and a chargino. The representative Feynman diagrams are shown in Fig. 2. Note that apart from these pure VBF processes, some non-VBF processes could also provide the same final states. For instance, the higher order QCD effects in the DrellYan productions of neutralino and chargino could also give contributions because of the hard emission of partons from the initial states. In our calculation, we consider the full set of diagrams and employ kinematic constraints to reduce the contribution from non-VBF processes. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fe73d10071aa81abfe168a5756b2631201675c17ec452f5f5f2c6f7e301f3f7e.jpg",
+        "img_caption": [
+            "FIG. 2: The representative Feynman diagrams for neutralino and chargino pair production via VBF processes at the LHC. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The main feature of VBF processes is the presence of two jets produced in the forward and backward regions at the detector and with large pseudo-rapidity separation between them. They also must be hard enough in order to create a pair of neutralino and chargino. Therefore,we calculate the cross sections by characterizing the signal in terms of the following selections: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) The two jets in the forward/backward regions, labeled as $j _ { 1 }$ and $j _ { 2 }$ ，must satisfy the requirement $\\mid \\Delta \\eta ( j _ { 1 } , j _ { 2 } ) \\mid > 4 . 2$ and $\\eta _ { j _ { 1 } } \\cdot \\eta _ { j _ { 2 } } < 0$ ：   \n(b） We accept the jets with $P _ { T } ^ { j _ { 1 } , j _ { 2 } } > 4 0$ GeV and $\\mid \\eta _ { j } \\mid < 5$ ：   \n(c) The invariant mass of these two jets should be large, $M _ { j _ { 1 } j _ { 2 } } > 5 0 0$ GeV. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1fd1ced1e59d94a912b2d5f6d53556fef87d4e4e2568a7570223cdf54b218877.jpg",
+        "img_caption": [
+            "FIG.3: The cross section for neutralino and chargino production in association with two jets after imposing selections (a)-(c) at the LHC with $\\sqrt { s } = 1 4$ TeV and 8 TeV. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Now we discuss the productions of neutralinos and charginos through VBF. In our study, the squarks, sleptons, gluino and non-SM Higgs bosons are assumed too heavy to be inaccessible. We fix the mass of the SM-like Higgs boson at 125 GeV. For the parameter space in the neutralino/chargino sector, we focus on the region in which the lightest neutralino and chargino are wino-like because only the wino-like neutralino and chargino can be sizably produced via the VBF processes at the LHC [4]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For the wino-like neutralino and chargino, they are produced through the VBF channel ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\np p  \\chi _ { 1 } ^ { \\pm } \\chi _ { 1 } ^ { 0 } j j , ~ \\chi _ { 1 } ^ { + } \\chi _ { 1 } ^ { - } j j , ~ \\chi _ { 1 } ^ { \\pm } \\chi _ { 1 } ^ { \\pm } j j , ~ \\chi _ { 1 } ^ { 0 } \\chi _ { 1 } ^ { 0 } j j .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In our numerical calculation we choose the same benchmark scenario as in [22]: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { 2 } = 2 0 0 \\ \\mathrm { G e V } , \\mu = 1 . 0 \\ \\mathrm { T e V } , M _ { 1 } = 1 . 5 \\ \\mathrm { T e V } , \\mathrm { t a n } \\beta = 1 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Note that our results are not sensitive to the value of $\\tan \\beta$ because the wino-like neutralino and chargino are produced in VBF processes dominantly via the gauge couplings. The value of $\\tan \\beta$ can only have effects through the higgsino component which is small in a wino-like neutralino or chargino. On the other hand, since the neutralino and chargino produced in VBF processes are wino-like, their masses are mainly determined by the value of $M _ { 2 }$ . So for a lower value of $M _ { 2 }$ (while being consistent with current LHC and LEP limits), the neutralino and chargino are lighter, whose production rate is larger and the statistical significance can be higher. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We first calculate their cross sections at the partonic level using the package MadGraph5 [23] and employ these cuts (a)-(c) for the two jets. The results at the LHC with $\\sqrt { s } = 1 4$ （204号 TeV and 8 TeV are displayed in Fig. 3. We check our results with CalcHEP [24] and find agreements. The results in Fig. 3 show that the largest cross sections come from $p p  \\chi _ { 1 } ^ { \\pm } \\chi _ { 1 } ^ { 0 } j j$ and $p p  \\chi _ { 1 } ^ { + } \\chi _ { 1 } ^ { - } j j$ . The cross sections at 8 TeV LHC are approximately 7-8 times smaller than 14 TeV LHC. Therefore， we consider the these two channels at the 14 TeV LHC in the following analysis. We also check the higgsino-like and bino-like neutralino/chargino and find that their production cross sections are much smaller than the wino-like case. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "C． The observability of $\\chi _ { 1 } ^ { \\pm } \\chi _ { 1 } ^ { 0 } j j$ production at the LHC ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "First we focus on the $\\chi _ { 1 } ^ { \\pm } \\chi _ { 1 } ^ { 0 } j j$ production. As we discussed earlier, in our scenario the lightest chargino $\\chi _ { 1 } ^ { \\pm }$ decays to a pseudo-goldstino plus a $W$ -boson and the lightest neutralino $\\chi _ { 1 } ^ { 0 }$ decays to a pseudo-goldstino plus a Higgs boson. Thus the signal of this production is a single lepton and two bottom quarks associated with two energetic light jets and large missing transverse energy: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\np p  \\chi _ { 1 } ^ { \\pm } \\chi _ { 1 } ^ { 0 } j j  W ^ { \\pm } h G ^ { \\prime } G ^ { \\prime } j j  \\ell ^ { \\pm } \\nu b \\bar { b } G ^ { \\prime } G ^ { \\prime } j j  \\ell + 2 b + 2 j + \\mathcal { \\displaystyle { \\it E } } _ { T } ( \\ell = e , \\mu , \\tau + \\ell , \\tau )\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The dominant SM backgrounds are from the production of top quark pair with semi-leptonic decays of top quarks. The di-leptonic decays of top pair could also fake the signal when the （204号 $\\tau$ lepton decays hadronically. In addition, the single top production and $W$ +jets may also mimic the signal. The jets from these backgrounds are less energetic and more central in the detector, which are different from the signal. Therefore, the VBF selection cuts could reduce them effectively. The productions of $W V$ ( $V = W , Z$ ） via VBF processes with the $W$ -boson decaying leptonically and the vector boson decaying to a pair of quarks could also fake the signal. The missing energy in all these backgrounds come from neutrinos. But for the signal process， the pseudo-goldstino $G ^ { \\prime }$ escapes the detector and leads to large missing energy. So the $\\mathit { { F } _ { T } }$ cut could further reduce these backgrounds. Besides, the top pair production associated with a $Z$ -boson and the production of $W h$ via VBF process could also fake the signal.Due to smallr cross sections than other backgrounds,we do not consider them in this work. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We use MadGraph5 [23] to generate the signal and background events. For our signal events generation, the effctive Lagrangian in Eq. 1 is implemented in FeynRules [25] and then passed to MadGraph5 via the UFO model file [26]. We apply Pythia [27] for parton shower and hadronization,Delphes [28] with the ATLAS detector for the fast detector simulations. The MLM scheme [29] is used to match our matrix element with parton shower. Jets are clustered employing FastJet [30] with anti- $k _ { t }$ algorithm [31] using the radius parameter （204号 $\\Delta R = 0 . 5$ . Finally, we employ MadAnalysis5 [32] to perform sample analysis. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/860f46aea9fbc1f5eb3118e287b9d2fe0432a7c7f0715028fbe977a156adb8fd.jpg",
+        "img_caption": [
+            "FIG. 4: The normalized $M _ { T }$ and $\\mathit { { F } _ { T } }$ distributions for the signal $p p  \\chi _ { 1 } ^ { \\pm } \\chi _ { 1 } ^ { 0 } j j  W ^ { \\pm } h G ^ { \\prime } G ^ { \\prime } j j $ （20 $l ^ { \\pm } \\nu b b G ^ { \\prime } G ^ { \\prime } j j  l + 4 j + \\mathit { \\textmu } _ { T }$ and background processes after VBF selections at the LHC with $\\sqrt { s } = 1 4 \\mathrm { T e V }$ . For the signal we fixed the relevant mass parameters as $\\mu = 2 0 0$ GeV, $M _ { 1 } = 1 . 0$ TeV, $M _ { 2 } = 1 . 5 ~ \\mathrm { T e V }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/5990ddfec17604b4835998ad3f0948ee1d2420d4086f9e9b8a7598caca1731f2.jpg",
+        "img_caption": [
+            "FIG. 5: The normalized $M _ { T }$ and $\\mathit { { F } _ { T } }$ distributions for the signal $p p  \\chi _ { 1 } ^ { \\pm } \\chi _ { 1 } ^ { 0 } j j  W ^ { \\pm } h G ^ { \\prime } G ^ { \\prime } j j $ $l ^ { \\pm } \\nu b b G ^ { \\prime } G ^ { \\prime } j j  l + 4 j + \\cal { E } _ { T }$ and $W +$ jets before VBF selections at the LHC with $\\sqrt { s } = 1 4$ TeV. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As we discussed earlier, we must first impose the VBF selections to make the VBF processes dominant. Then we present some kinematic distributions in order to get some other efficient cuts. In Fig. 4,we display the normalized distribution of $\\mathit { { \\mathbb { E } } _ { T } }$ and transverse mass $M _ { T } ( l _ { 1 } , \\emptyset _ { T } )$ for the signal and background processes at the LHC with $\\sqrt { s } = 1 4$ TeV, where the $M _ { T } ( l , \\mathit { \\mathbb { E } _ { T } } )$ is defined as ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { T } = \\sqrt { 2 p _ { T } ^ { \\ell } \\mathit { { H } _ { T } } [ 1 - \\cos \\Delta \\phi _ { \\ell , \\mathit { \\textmu } _ { T } } ] } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/61a7a20e8dd72bd809e6ab7c92fa58b2ed1cb723902780ce80d81ed6798a1b7d.jpg",
+        "table_caption": [
+            "TABLE I: The numbers of events for the signal $p p  \\chi _ { 1 } ^ { \\pm } \\chi _ { 1 } ^ { 0 } j j  W ^ { \\pm } h G ^ { \\prime } G ^ { \\prime } j j  \\ell ^ { \\pm } \\nu b b G ^ { \\prime } G ^ { \\prime } j j $ （204 $\\ell + 4 j + \\ell _ { T }$ and backgrounds at the LHC with $\\sqrt { s } = 1 4 ~ \\mathrm { T e V }$ and $1 0 0 \\ f b ^ { - 1 }$ of integrated luminosity. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>cut</td><td>tt→lvbbjj</td><td>tt→lvlvbb</td><td>tX →lvbX</td><td>WVjj→lvjj</td><td>signal</td></tr><tr><td>VBF selctions</td><td>341917</td><td>49824</td><td>48512</td><td>32528</td><td>255</td></tr><tr><td>Lepton selections</td><td>162975</td><td>22761</td><td>22389</td><td>15975</td><td>130</td></tr><tr><td>Er >150 GeV</td><td>11480</td><td>2603</td><td>1332</td><td>1836</td><td>53</td></tr><tr><td>Mr(l1,Er)>100 GeV</td><td>1731</td><td>1586</td><td>295</td><td>236</td><td>28</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "with $\\Delta \\phi _ { \\ell , \\mathit { { \\phi } } \\mathit { { \\phi } } _ { T } }$ standing for the azimuthal angle difference between the lepton and the missing energy. These distributions show that requiring a lower cut of about 150 GeV for $\\mathit { { F } _ { T } }$ and 100 GeV for $M _ { T } ( l _ { 1 } , \\varPsi _ { T } )$ could be effective to reduce the backgrounds. Note that we have checked the VBF selection efficiency is $1 0 ^ { - 3 }$ for $W { + } \\mathrm { i }$ iets background. In Fig. 5,we present the $\\mathit { { f f } _ { T } }$ and $M _ { T } ( l _ { 1 } , \\varPsi _ { T } )$ distributions for signal and $W +$ jets background before VBF selections. We can find that the $\\mathit { { \\mathbb { E } } _ { T } }$ and $M _ { T } ( l _ { 1 } , \\varPsi _ { T } )$ cuts can almost remove the $W$ +jets background. Thus we neglect it in the following analysis. Based on the above discussion，we summary our event selections in our final state analysis: ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "· VBF selections: we require at least four jets with $P _ { T } > 4 0 \\$ GeV in $\\mid \\eta \\mid < 5$ . There must also be one pair of light jets $( j _ { 1 } , j _ { 2 } )$ satisfying; (i) $\\mid \\Delta \\eta ( j _ { 1 } , j _ { 2 } ) \\mid > 4 . 2$ and $\\eta _ { j _ { 1 } } \\cdot \\eta _ { j _ { 2 } } < 0$ ， (ii) $P _ { T } ^ { j _ { 1 } , j _ { 2 } } > 5 0$ GeV; (i) $M _ { j _ { 1 } j _ { 2 } } > 5 0 0$ GeV.   \n· Lepton selection: only one lepton with $P _ { T } > 2 0$ GeV and $\\mid \\eta \\mid < 2 . 5$ .We assume a （20 $\\tau$ -tagging efficiency of $4 0 \\%$ and include the mis-tagging of QCD jets in Delphes.   \n： $\\mathrm { ~ \\AE ~ } _ { T } > 1 5 0$ GeV.   \n： $M _ { T } ( \\ell _ { 1 } , \\varPsi _ { T } ) > 1 0 0$ GeV. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In Table I, we present the numbers of events for signal and background processes under the above cuts at the LHC with $\\sqrt { s } ~ = ~ 1 4$ TeV and 100 $f b ^ { - 1 }$ of integrated luminosity. The VBF selections reduce the backgrounds effectively, especially the top pair background. Although the light jet pair that comes from $W$ -boson decay in $t t$ production could not pass the VBF selections, bottom quarks or hadronic $\\tau$ would be misidentified as light jets so that the event could survive. So there are still many events from the top pair backgrounds after VBF selections. Table Ishows that the $\\mathit { { f f } _ { T } }$ cut is very effective in reducing the backgrounds. As we expected, a rather hard cut on $M _ { T } ( \\ell _ { 1 } , \\ell _ { T } )$ could further suppress the background and improve the significance. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In Table I we display the signal significance for different luminosities at the 14 TeV LHC. As expected, the significance is improved by the cuts effciently. With a luminosity of 3000 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "TABLE I: The statistical significance of the signal $p p  \\chi _ { 1 } ^ { \\pm } \\chi _ { 1 } ^ { 0 } j j  W ^ { \\pm } h G ^ { \\prime } G ^ { \\prime } j j $ （204号 （204号 $\\ell ^ { \\pm } \\nu b b G ^ { \\prime } G ^ { \\prime } j j  \\ell + 4 j + \\ell k _ { T }$ at the LHC with $\\sqrt { s } = 1 4$ TeV and different luminosities. $S _ { 1 }$ and $B _ { 1 }$ stand for the signal and background events after VBF selection,while $S _ { 2 }$ and $B _ { 2 }$ stand for the signal and background events after all the cuts. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/cf5248283c6545917b2d143939b35c1cc277921cacba3826671c52402725a816.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>√s = 14 TeV</td><td>100 fb-1</td><td>500 fb-1</td><td>1000 fb-1</td><td>2000 fb-1</td><td>3000 fb-1</td></tr><tr><td>S1/√S1+B1</td><td>0.37</td><td>0.83</td><td>1.17</td><td>1.66</td><td>2.03</td></tr><tr><td>S2/√S2 + B2</td><td>0.46</td><td>1.02</td><td>1.45</td><td>2.04</td><td>2.5</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$f b ^ { - 1 }$ , a statistical significance of $2 . 5 \\sigma$ can be achieved. We notice that the ratio of signal to backgrounds is very small, which means that the systematic uncertainty should be well controlled in order to detect the signal. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "D．Observability of $\\chi _ { 1 } ^ { + } \\chi _ { 1 } ^ { - } j j$ production at the LHC ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Now we turn to the production of $\\chi _ { 1 } ^ { + } \\chi _ { 1 } ^ { - } j j$ at the LHC. Since the chargino decays to a $W$ -boson and a pseudo-goldstino, the signal of this production is characterized by two opposite sign leptons and a pair of forward/backward jets associated with large $\\mathit { { f f } _ { T } }$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\np p  \\chi _ { 1 } ^ { + } \\chi _ { 1 } ^ { - } j j  W ^ { + } G ^ { \\prime } W ^ { - } G ^ { \\prime } j j  \\ell ^ { + } \\ell ^ { - } + 2 j + \\mathcal { \\mathit { k } } _ { T } ( \\ell = e , \\mu , \\tau ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The dominant background comes from the top pair dileptonic processes. As we discussed before, it could be reduced by VBF selections effectively. The two opposite sign $W$ -boson or （20 $\\tau$ production associated with two jets can fake the signal, where $W$ or $\\tau$ decay leptonically. In addition,another background comes from $Z Z$ production associated with two jets,with one of the $Z$ bosons decays to leptons and the other decays to neutrinos. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Since an important feature of the VBF processes is the absence of color exchange between the forward/backward jets and this leads to a suppression of hadron productions between these two jets, we could enhance the signal to background ratio by vetoing addition jets in the rapidity gap region between these jets. This cut will be effective for suppressing the top pair backgrounds. We also veto $b$ -jets to further suppress the top pair. The $\\mathit { { f f } _ { T } }$ in the backgrounds comes from neutrinos from $W / Z$ boson or $\\tau$ lepton decay. But in the signal the pseudo-goldstino give rise to $\\not { E } _ { T }$ . Therefore a large $\\displaystyle { \\mathit { { f } } _ { T } }$ cut and $M _ { T } ( \\ell _ { 1 } , \\varPsi _ { T } )$ will reduce all the backgrounds and improve the signal significance. In summary, we employ the following cuts ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "· VBF selections: we require a pair of light jets $( j _ { 1 } , j _ { 2 } )$ satisfying (i) $\\mid \\Delta \\eta ( j _ { 1 } , j _ { 2 } ) \\mid > 4 . 2$ and $\\eta _ { j _ { 1 } } \\cdot \\eta _ { j _ { 2 } } < 0$ ； (ii) $P _ { T } ^ { j _ { 1 } , j _ { 2 } } > 5 0$ GeV; (ii) $M _ { j _ { 1 } j _ { 2 } } > 5 0 0$ GeV. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/10269a7de0d26b4c6dc88f688f421a35d1fdb2b39406bd1bf4808d71b46b1bd7.jpg",
+        "table_caption": [
+            "TABLE II: The numbers of events for the signal $p p  \\chi _ { 1 } ^ { + } \\chi _ { 1 } ^ { - } j j  W ^ { + } G ^ { \\prime } W ^ { - } G ^ { \\prime } j j  \\ell ^ { + } \\ell ^ { - } + 2 j + \\not \\ = H _ { T }$ （204 and backgrounds at the LHC with $\\sqrt { s } = 1 4$ TeV and $1 0 0 0 \\ f b ^ { - 1 }$ of integrated luminosity. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>cuts</td><td>tt→lvlvbb</td><td>TTJj</td><td>WWjj→ lvlvjjZZjj→ llvvjj</td><td></td><td>signal</td></tr><tr><td>VBF selctions</td><td>912261</td><td>1852740</td><td>57330</td><td>2867</td><td>601</td></tr><tr><td>Central Jet veto</td><td>54978</td><td>310074</td><td>11662</td><td>869</td><td>116</td></tr><tr><td>Lepton selections</td><td>16606</td><td>22148</td><td>4606</td><td>441</td><td>55</td></tr><tr><td>Veto b-jet</td><td>14287</td><td>22148</td><td>4606</td><td>441</td><td>55</td></tr><tr><td>ET >150 GeV</td><td>1272</td><td>963</td><td>588</td><td>135</td><td>25</td></tr><tr><td>MT(l1,Er)>100 GeV</td><td>898</td><td>481</td><td>441</td><td>131</td><td>21</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "· Central jet veto: no jets with $P _ { T } > 2 0$ GeV between $\\eta _ { j _ { 1 } }$ and $\\eta _ { j _ { 2 } }$ · Lepton selection: two opposite sign leptons with $P _ { T } > 2 0$ GeV and $\\mid \\eta \\mid < 2 . 5$ ·Veto $b$ -jet: we reject events with any $b$ -tagging jets. Note that we apply the $b$ -jet tagging and $c$ -jet mis-tagging efficiency as in [33] which also includes a misidentified rate for the light jets. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "， $\\mathrm { ~ \\AE ~ } _ { T } > 1 5 0$ GeV.  \n， $M _ { T } ( \\ell _ { 1 } , \\varPsi _ { T } ) > 1 0 0$ GeV.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A summary of events with the luminosity of $1 0 0 0 f b ^ { - 1 }$ at each selection stage is displayed in Table III. The VBF cuts and central jet veto are very effective in reducing the backgrounds,especially the top pair background. We also find that the large $\\mathit { { f f } _ { T } }$ cut can suppress the important backgrounds to 1/11-1/23. The $M _ { T } ( \\ell _ { 1 } , \\varPsi _ { T } )$ cut could further reduce the backgrounds and improve the signal significance. The result shows that the significance $( S / \\sqrt { S + B } )$ can reach about $0 . 4 8 \\sigma$ and $0 . 8 3 \\sigma$ for an integrated luminosity of $1 0 0 0 f b ^ { - 1 }$ and $3 0 0 0 f b ^ { - 1 }$ at the 14 TeV LHC. So we conclude that the signal $p p  \\chi _ { 1 } ^ { + } \\chi _ { 1 } ^ { - } j j  W ^ { + } G ^ { \\prime } W ^ { - } G ^ { \\prime } j j  \\ell ^ { + } \\ell ^ { - } + 2 j + / \\chi _ { T }$ is not accessible at the 14 TeV LHC. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "E. Pseudo-goldstino mass effects ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In our above study we simply assumed the pseudo-goldstino is massless. Actually in concrete models with multi-hidden sectors,the pseudo-goldstino acquires a universal mass at tree level [7,14],which is twice the gravitino mass,and also gets model-dependent contributions at loop level. Some authors have argued that the loop contributions should be at ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "least the GeV scale [18] (a concrete calculation is still missing even in the simplest model).   \nIn the following we show the mass effects of the pseudo-goldstino in our simulations. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Comparing to a massless pseudo-goldstino, the phase space and the amount of missing transverse energy for a massive pseudo-goldstino will be reduced. For the VBF processes with two energetic jets,the missing transverse energy should not be as sensitive to the pseudogoldstino mass as the Drell-Yan processes. To show this explicitly, we take the signal process $\\chi ^ { \\pm } \\chi ^ { 0 } j j$ as an example. We simulate the signal $p p \\to \\chi _ { 1 } ^ { \\pm } \\chi _ { 1 } ^ { 0 } j j \\to W ^ { \\pm } h G ^ { \\prime } G ^ { \\prime } j j \\to \\ell ^ { \\pm } \\nu b \\bar { b } G ^ { \\prime } G ^ { \\prime } j j$ （204号 with the pseudo-goldstino mass of 40 GeV and 80 GeV, respectively. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/8d5f913307fce5d726fdeffbde499d78b3b167df88099b1358dd33ad3c918fc7.jpg",
+        "img_caption": [
+            "FIG. 6: The $\\mathit { { F } _ { T } }$ distributions after VBF cut for the signal $p p \\to \\chi _ { 1 } ^ { \\pm } \\chi _ { 1 } ^ { 0 } j j \\to W ^ { \\pm } h G ^ { \\prime } G ^ { \\prime } j j \\to$ （204号 $\\ell ^ { \\pm } \\nu b b G ^ { \\prime } G ^ { \\prime } j j$ at the 14 TeV LHC for different psedo-goldstino masses. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In Fig. 6 we present the $\\mathit { { f f } _ { T } }$ distribution after VBF cut for a massive pseudo-goldstino compared with the massless case. From the left panel we can see that the $\\displaystyle { \\mathit { { f } } _ { T } }$ distributions with $m _ { G ^ { \\prime } } = 0 , 4 0$ GeV almost overlap with each other. The $\\mathit { { f f } _ { T } }$ distribution with $m _ { G ^ { \\prime } } = \\& 0$ （20 GeV is presented in the right panel of Fig. 6,which shows that the missing transverse energy is just a little softer than in the massless case. Note that 8O GeV is the largest value of pseudo-goldstino mass to open the neutralino decay channel. Finally， we also present the signal events with $1 0 0 f b ^ { - 1 }$ of integrated luminosity for different pseudo-goldstino masses in Table IV. We see that as the pseudo-goldstino mass increases, the efficiency of the $\\mathit { { F } _ { T } }$ cut slightly decreases. The results also show that the signal event number is not sensitive to the pseudo-goldstino mass. In the last low of Table IV,we display the signal significances for different pseudo-goldstino masses with 3000 $f b ^ { - 1 }$ of integrated luminosity at the 14 TeV LHC. The significance can reach to $2 . 2 \\sigma$ and $1 . 9 \\sigma$ with $m _ { G ^ { \\prime } } = 4 0$ GeV and 80 GeV,respectively. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Next, we look at the electroweakino search results at the LHC. The most relevant search is the production of chargino and neutralino in final states with $l + b b + \\nVDash _ { T }$ by ATLAS [34] and CMS[35]. They have interpreted their results in the context of a simplified model, where they assumed the lightest neutralino （ $\\chi _ { 1 } ^ { 0 }$ ） is bino-like while the second lightest neutralino（ $\\cdot \\chi _ { 2 } ^ { 0 }$ ） and the lightest chargino $\\left( \\chi _ { 1 } ^ { \\pm } \\right)$ are wino-like (their masses are approximately degenerate $m _ { \\chi _ { 1 } ^ { \\pm } } = m _ { \\chi _ { 2 } ^ { 0 } } ,$ ). They searched the production $p p \\to \\chi _ { 1 } ^ { \\pm } \\chi _ { 2 } ^ { 0 } \\to ( W ^ { \\pm } \\chi _ { 1 } ^ { 0 } ) ( h \\chi _ { 1 } ^ { 0 } )$ (with $1 0 0 \\%$ （204号 branching ratios） by employing the $h  b b$ channel. The limit was found to be $m _ { \\chi _ { 2 } ^ { 0 } } = m _ { \\chi _ { 1 } ^ { \\pm } } \\gtrsim$ 200 GeV [35]and 300 GeV [34] for $m _ { \\chi _ { 1 } ^ { 0 } } \\lesssim 3 0$ GeV. It means that in our scenario the benchmark point $m _ { \\chi _ { 1 } ^ { \\pm } } = m _ { \\chi _ { 1 } ^ { 0 } } = 2 0 0$ GeV may have been excluded for $m _ { G ^ { \\prime } } \\lesssim 3 0$ GeV and survive for $m _ { G ^ { \\prime } } = 4 0$ GeV and 80 GeV. ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/0cc5b7f84a9e9540d53e01ba9bcd9dd429b55f3e35cef198bdad24ecb3381eff.jpg",
+        "table_caption": [
+            "TABLE IV: The numbers of events for the signal $p p \\to \\chi _ { 1 } ^ { \\pm } \\chi _ { 1 } ^ { 0 } j j \\to W ^ { \\pm } h G ^ { \\prime } G ^ { \\prime } j j \\to \\ell ^ { \\pm } \\nu b \\bar { b } G ^ { \\prime } G ^ { \\prime } j j$ with different pseudo-goldstino masses for $1 0 0 \\ f b ^ { - 1 }$ of integrated luminosity. The signal significance is shown for 3000 $f b ^ { - 1 }$ of integrated luminosity at the LHC with $\\sqrt { s } = 1 4 ~ \\mathrm { T e V }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>cut</td><td></td><td>VBF selctions Lepton selections</td><td></td><td>ET >150 GeVMr(l1,Er) >100 GeV</td><td>S/√S+B</td></tr><tr><td>mg' = 0 GeV</td><td>255</td><td>130</td><td>53</td><td>28</td><td>2.5</td></tr><tr><td>mg' = 40 GeV</td><td>252</td><td>128</td><td>51</td><td>25</td><td>2.2</td></tr><tr><td>mg' = 80 GeV</td><td>243</td><td>122</td><td>45</td><td>22</td><td>1.9</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Before concluding， we make some comments. (1） Our simulations above are just to demonstrate that our scenario are possiblly accessible at the high-luminosity LHC. More dedicated selections of the signal from the backgrounds may improve the significance, which should be considered in the future experimental search. (2) In our study we focused on MSSM, while in other low energy SUSY models the pseudo-goldstino may also have similar new decay channels which deserve searches. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "III. CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The multi-sector SUSY breaking scenario predicts pseudo-goldstino, which can couple to the visible sector more strongly than the ordinary gravitino. Then the lightest electroweakinos can decay to a pseudo-goldstino plus a $Z$ -boson，Higgs boson or $W$ -boson．In our previous work [22] we investigated the Drell-Yan productions of the lightest electroweakinos followed by the decays to pseudo-goldstino at the LHC.In this work we extended the study to the VBF productions of electroweakinos. From the Monte Carlo simulations we found that the largest rate channel $p p  \\chi _ { 1 } ^ { \\pm } \\chi _ { 1 } ^ { 0 } j j$ can have a statistical significance above $2 \\sigma$ at the 14 TeV LHC with an luminosity of $\\mathrm { 3 0 0 0 ~ f b ^ { - 1 } }$ ，while the second largest rate channel $p p  \\chi _ { 1 } ^ { + } \\chi _ { 1 } ^ { - } j j$ is not accessible. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Finally we point out that in our study we considered the decays of electroweakinos to a pseudo-goldstino, i.e., $\\chi _ { 1 } ^ { + }  W + G ^ { \\prime }$ and $\\chi _ { 1 } ^ { 0 }  h + G ^ { \\prime }$ . Our results are approximately applicable to other scenarios which predict a light singlet invisible particle ( $X$ ）as long as the decays $\\chi _ { 1 } ^ { + }  W + X$ and $\\chi _ { 1 } ^ { 0 }  h + X$ happen inside the detector. For example,in the next-to-minimal supersymmetric model, the singlino-like lightest neutralino can be as light as a few GeV [36] and thus similar decays can happen for the chargino/neutralino. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Lin Wang acknowledges Prof. Johann Kühn and Prof. Matthias Steinhauser for their warm hospitality. We thank Lei Wu for discussions. This work is supported by by DFG through SFB/TR 9 “Computational Particle Physics” and by the National Natural Science Foundation of China under grant Nos. 11275245,10821504 and 11135003. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[1] F.Wang,W. Wang and J. M. Yang, Eur. Phys. J. C 74, 3121 (2014) [arXiv:1310.1750 [hepph]].   \n[2] C.Han,et al.，arXiv:1409.4533 [hep-ph]； arXiv:1409.7000 [hep-ph]； J. Bramante,et al., arXiv:1408.6530 [hep-ph].   \n[3] C.Han，et al.， JHEP 1402 (2014) 049 [arXiv:1310.4274 [hep-ph]; H. Baer,A. Mustafayev and X. Tata, Phys. Rev. D 89 (2014) 055007 [arXiv:1401.1162 [hep-ph]; A. Anandakrishnan, L. M. Carpenter and S. Raby, Phys. Rev. D 90, 055004 (2014) [arXiv:1407.1833 [hep-ph]]; P. Schwaller and J. Zurita, JHEP 1403 (2014) 060 [arXiv:1312.7350 [hep-ph]].   \n[4] A. G. Delannoy, et al., Phys. Rev. Lett. 111 (2013) 061801; G. F. Giudice, T. Han, K. Wang, L. T.Wang, Phys. Rev. D 81 (2010) 115011; A. Datta, P. Konar, B. Mukhopadhyaya, Phys. Rev.D 65, 055008 (2002); Phys.Rev. Lett.88,181802 (2002); P. Konar and B. Mukhopadhyaya,Phys. Rev. D 70,11501l (2004)；B. Dutta,et al.， Phys. Rev. D 87 (2013) 035029; G. -C. Cho,et al. Phys. Rev.D 73, 054002 (2006); M. Cirelli, F. Sala and M. Taoso, JHEP 1410 (2014) 033.   \n[5] J. D. Bjorken,Phys. Rev.D 47,101 (1993).   \n[6] R.N. Cahn and S. Dawson,Phys.Lett. B 136 (1984) 196. D.L. Rainwater and D. Zeppenfeld, JHEP 9712 (1997) 005; Phys.Rev. D 60 (1999) 113004; D. L. Rainwater, D. Zeppenfeld and K. Hagiwara,Phys. Rev. D 59, O14037 (1998); T.Plehn, D. L. Rainwater and D. Zeppenfeld, Phys.Rev. D 61 (2000) 093005; O. J.P. Eboli and D. Zeppenfeld,Phys.Lett.B 495 (2000) 147.   \n[7] C. Cheung,Y. Nomura,and J. Thaler,JHEP 1003 (2010) 073 [arXiv:1002.1967 [hep-ph].   \n[8] C.Cheung,J.Mardon,Y. Nomura,J.Thaler, JHEP 1007(2010) 035.   \n[9] K. Benakli and C. Moura, Nucl. Phys.B 791 (2008) 125 [arXiv:0706.3127 [hep-th]].   \n[10] N. Craig, J. March-Russell, and M. McCullough, JHEP 1010 (2010) 095. [11] M. McCullough,Phys.Rev.D 82 (2010) 115016 [arXiv:1010.3203 [hep-ph]].   \n[12] K.I. Izawa, Y. Nakai, T. Shimomura, JHEP 1103 (2011) 007 [arXiv:1101.4633 [hep-ph]].   \n[13] J. Thaler and Z. Thomas, JHEP 1107 (2011) 060. [arXiv:1103.1631 [hep-ph].   \n[14] C. Cheung,F. D'Eramo,and J. Thaler, JHEP 1108 (2011） 115 [arXiv:104.2600 [hep-ph].   \n[15] D. Bertolini, K. Rehermann, J. Thaler,arXiv:1111.0628 [hep-ph].   \n[16] H. -C. Cheng,W. -C.Huang, I. Low,A. Menon, JHEP 1103(2011) 019.   \n[17] K. Mawatari and Y. Takaesu, Eur. Phys. J. C 71, 1640 (2011).   \n[18] R. Argurio, Z. Komargodski, and A. Mariotti, Phys.Rev. Lett. 107 (2011) 061601.   \n[19] R.Argurio,et al., JHEP 1206 (2012) 096 [arXiv:1112.5058 [hep-ph]].   \n[20] G. Ferretti, A. Mariotti,K.Mawatari, C. Petersson,arXiv:1312.1698 [hep-ph].   \n[21] T. Liu,L. Wang,J. M. Yang, Phys. Lett. B 726 (2013) 228 [arXiv:1301.5479 [hep-ph].   \n[22] K.i. Hikasa,T. Liu,L. Wang, J. M. Yang, JHEP 1407 (2014) 065 [arXiv:1403.5731 [hep-ph]].   \n[23] J. Alwall et al., JHEP 1106,128 (2011).   \n[24] A.Belyaev, N. D. Christensen and A. Pukhov, Comput. Phys. Commun. 184 (2013) 1729.   \n[25] A. Alloul, et al., arXiv:1310.1921 [hep-ph].   \n[26] C. Degrande, et al., Comput.Phys. Commun.183 (2012) 1201 [arXiv:1108.2040 [hep-ph].   \n[27] T. Sjostrand, L. Lonnblad, S. Mrenna, and P. Z. Skands, hep-ph/O308153.   \n[28] J. de Favereau et al. [DELPHES 3 Collaboration], JHEP 1402 (2014) 057.   \n[29] S.Hoeche,et al.,hep-ph/0602031.   \n[30] M. Cacciari, G. P. Salam,and G. Soyez, Eur. Phys. J. C 72 (2012)1896.   \n[31] M. Cacciari, G. P. Salam,and G. Soyez, JHEP 0804, 063 (2008).   \n[32] E. Conte, B. Fuks,and G. Serret,Comput. Phys.Commun. 184 (2013) 222.   \n[33] The ATLAS parametric approach at default in Delphes.   \n[34] ATLAS Collaboration，ATLAS-CONF-1013-093(2013).   \n[35] CMS Collaboration, CMS-PAS-SUS-13-017.   \n[36] J.Cao,et al.， JHEP 1405,056 (2014) [arXiv:1311.0678 [hep-ph]]; JHEP 1203,086 (2012) [arXiv:1202.5821 [hep-ph]. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

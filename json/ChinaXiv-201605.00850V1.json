@@ -1,0 +1,368 @@
+[
+    {
+        "type": "text",
+        "text": "SOUTHGALACTICCAP $u$ -BANDSKYSURVEY (SCUSS):DATARELEASE ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "U ZOU1, XU ZHOU1, ZHAOJI JIANG1, XIYAN PENG1,DONGWEI $\\mathrm { F A N } ^ { 1 }$ , XIAOHUI FAN², ZHOU FAN1, BOLIANG $\\mathrm { { H E } } ^ { 1 }$ , YIPENG JING3   \nIICHAEL LESSER², CHENG $\\mathrm { L I } ^ { 4 }$ , JUN MA1, JUNDAN $\\mathrm { { N m } ^ { 1 } }$ , SHIYIN SHEN4, JIALI WANG1, ZHENYU $\\mathrm { W U } ^ { 1 }$ ,TIANMENG ZHANG1, AND ZHIMIN ZHOU'   \n1KeLaborto; ² Steward Observatory,University of Arizona,Tucson,AZ 85721,USA 3CenterforAstromadAstroicsepartentofiandtroyagiJonUivesityangi Shanghai Astronomical Observatory,ChineseAcademyofSciences,Shanghai 2oo3o,Cina Received 2015 Novemberl;accepted 2015 December 23;published 2016January 28 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The South Galactic Cap $u$ -band Sky Survey (SCUSS) is a deep $u$ -band imaging survey in the south Galactic cap using the $2 . 3 \\mathrm { m }$ Bok telescope.The survey observations were completed at the end of 2O13,covering an area of about 5OoO square degrees.We release the data in the region with an area of about $4 0 0 0 \\mathrm { d e g } ^ { 2 }$ that is mostly covered by the Sloan digital sky survey.The data products contain calibrated single-epoch images,stacked images, photometric catalogs,and acatalog of star proper motions derived byPeng et al.The median seing and magnitude limit $( 5 \\sigma )$ are about $2 . { } ^ { \\prime \\prime } 0$ and $2 3 . 2 \\mathrm { m a g }$ ,respectively. There are about 8 million objects having measurements of absolute proper motions.All the data and related documentations can be accessed through the SCUSS data release website http://batc.bao.ac.cn/Uband/data.html. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: catalogs - surveys - techniques: image processing - techniques: photometric ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The South Galactic Cap $u$ -band Sky Survey(SCUSS) is an international cooperative project between the National Astronomical Observatories of Chinese Academy of Sciences and the Steward Observatory of the University of Arizona(X.Zhou et al.2O15,in preparation). The survey was originally planned to perform a sky survey of about $\\overline { { 3 7 0 0 } } \\mathrm { ~ d e g } ^ { \\overline { { 2 } } }$ in the south Galactic cap by using the $2 . 3 \\mathrm { m }$ Bok telescope.The project was initiated in fall 2OO9 and its first run started in 2O1O September. The survey ended its observation in 2O13 December.The final survey area is about $5 0 0 0 \\ { \\mathrm { d e g } } ^ { 2 }$ ,far beyond the planned area. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The main goal of the survey is to supply a $u$ -band catalog for the spectroscopic target selection of the Large Sky Area MultiObject Fiber Spectroscopy Telescope (Cui et al. 2O12).Besides, combined with the $g , r , i ,$ and $z$ -band data of the Sloan Digital Sky Survey (SDSS;York et al. 2OOO), the deep SCUSS $u$ -band data can beused to study the MilkWayand galaxies.A series of papers based on the SCUSS data have been published, including investigating the halo structure of the Galaxy (Nie et al. 2015), calculating star proper motions (Peng et al. 2O15), estimating the Galactic photometric metallicity and model parameters (Jia et al. 2014; Gu et al. 2015), and selecting spectroscopic targets, such as quasars and emission line galaxies (Comparat et al. 2015;Raichoor et al. 2015; Zou et al. 2015b). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This paper describes the data set of the SCUSS data release that is made publicly available.The paper is organized as follows:Section 2 summarizes the survey and data reduction; Section 3 presents the data products including the calibrated images and photometric catalogs; Section 4 gives an analysis of the data quality; Section 5 describes the catalog of star proper motions derived by Peng et al. (2O15);and Section 6 is the conclusion. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.THESURVEYANDDATAREDUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The SCUSS is a wide and deep $u$ -band sky survey in the south Galactic cap.The survey uses the 9O inch $( 2 . 3 \\mathrm { m } )$ Bok telescope that belongs to the Steward Observatory.It operates every night of the year except Christmas Eve and the maintenance period in August. The camera,named $9 0 \\mathrm { P r i m e }$ is installed at the prime focus (correct focal ratio $f / 2 . 9 8 )$ .It contains four $4 \\mathrm { k } \\times 4 \\mathrm { k }$ backside-illuminated CCDs that are assembled in a $2 \\times 2$ array with gaps along both vertical and horizontal directions. The CCDs are optimized for the $u$ -band response,giving a quantum efficiency close to $80 \\%$ . Theedgeto-edge FOV is about $1 ^ { \\circ } . 0 8 \\times 1 ^ { \\circ } . 0 3$ ．The adopted filter is similar to the SDSS $u$ band.The SCUSS $u$ filter is somewhat bluer and narrower. The central wavelength and FWHM are 3538 and $5 2 0 \\mathrm { \\AA }$ , respectively (Zou et al. 2015a). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The originally designed survey footprint is located within the region of $\\delta > - 1 0 ^ { \\circ }$ and Galactic latitude $b < - 3 0 ^ { \\circ }$ .The observation started in 2O1O September and ended in 2013 December. The final area is about $5 0 0 0 \\mathrm { d e g } ^ { 2 }$ (dashed green line in Figure 1),including the planned area,an extra area in the northwest corner,and the region extending to the anti-Galactic center.In this paper,we only release the data shown in the blue area of Figure 1. The area is about $4 0 0 0 \\ \\deg ^ { 2 }$ ， $9 2 \\%$ of which is covered by the SDSS.Each field has two continuous exposures,giving a total exposure time of5minutes.These two exposures are dithered by $1 / 2$ of the CCD size, which benefits the internal photometric calibration and gap filling.In this way，most of the field is covered by two exposures. Some gap areas are covered by one exposure. The exposure time of 5 minutes generates an expected depth of $2 3 . 0 \\mathrm { m a g }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The following is a summary of the data reduction. More details can be found in Zou et al. (2015a). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1）Detrending: a dedicated image processing pipeline was compiled,which performs some standard calibrations (overscan subtraction,bias correction,and flat-fielding, etc.） and special handling (crosstalk,CCD artefacts, abnormal overscan,and sky gradient etc.)   \n(2)Astrometry: the UCAC4 catalogs are used to derive the astrometric solutions.The global external position error is ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/739d148628adb01ea05d88d829254c4648d0a5b7203f553cc4aaab66edf300b9.jpg",
+        "img_caption": [
+            "Figure 1.Aitoff projection of the SCUSS footprint.This projection is centered at ( $( \\alpha = 9 0 ^ { \\circ }$ $\\delta = 0 ^ { \\circ }$ ).Pink filled circles show the south Galactic pole (SGP), north Galacticpole ()actcter(GC)dt-alacticter(C).Teldurvessotelacticpladactef $- 3 0 ^ { \\circ }$ .The green dashed lines present the actual coverage of the survey,whose area is about $\\mathrm { 5 0 0 0 ~ d e g ^ { 2 } }$ .The blue filled region is the area where the data are to be released in this paper. The SDSS imaging runs are also overlapped in gray. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/14dee767b977bb3b48f7ab3cbf071f0b018d2fafc52618c47a6e763ed5f6beca.jpg",
+        "table_caption": [
+            "Table 1 Main Keywords in the FITS Header of Single-epoch Images and Their Meanings "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Data</td><td></td></tr><tr><td>Keyword</td><td>Type</td><td>Meaning R.A.of thefield centerin J2000</td></tr><tr><td>RA-OBS</td><td>string</td><td></td></tr><tr><td>DEC-OBS</td><td>string</td><td>Decl.of the field center in J2000</td></tr><tr><td>CCD_NO</td><td>int</td><td>CCD number</td></tr><tr><td>DATE-OBS TIME-OBS</td><td>string</td><td>UTC date when the shutter was opened UTC time when the exposure was started</td></tr><tr><td>EXPTIME</td><td>string float</td><td>Exposure time (seconds)</td></tr><tr><td>RA</td><td></td><td>Right ascension in the specified epoch</td></tr><tr><td>DEC</td><td>string</td><td>Decl. in the specified epoch</td></tr><tr><td>HA</td><td>string</td><td></td></tr><tr><td></td><td>string float</td><td>Hour angle</td></tr><tr><td>EPOCH FILTER</td><td></td><td>Equinox for R.A.and Decl.</td></tr><tr><td>OBJECT</td><td>string</td><td>Filter name Field name</td></tr><tr><td>RDNOCAL</td><td>string</td><td>Calculated readout noises for four CCDs</td></tr><tr><td></td><td>string</td><td></td></tr><tr><td>GAINCAL</td><td>string</td><td>Calculated gains for four CCDs</td></tr><tr><td>SKYADU SEEING</td><td>float float</td><td>Sky background in DN Seeing in arcsec</td></tr><tr><td>A81</td><td>double</td><td>Coefficients for coordinate transformation</td></tr><tr><td>A82</td><td>double</td><td>Coefficients for coordinate transformation</td></tr><tr><td>A83</td><td>double</td><td>Coefficients for coordinate transformation</td></tr><tr><td>A84</td><td>double</td><td></td></tr><tr><td>A85</td><td>double</td><td>Coefficients for coordinate transformation</td></tr><tr><td>A86</td><td>double</td><td>Coefficients for coordinate transformation</td></tr><tr><td>A87</td><td>double</td><td>Coefficients for coordinate transformation Coefficients for coordinate transformation</td></tr><tr><td>A88</td><td>double</td><td>Coefficients for coordinate transformation</td></tr><tr><td></td><td></td><td></td></tr><tr><td>AIRMASS MAZIMUTH</td><td>float float</td><td>Airmass when the exposure was taken Moon azimuth in degrees from south</td></tr><tr><td></td><td></td><td>through west</td></tr><tr><td>MALITIUD MANGLE</td><td>float float</td><td>Moonaltitude in degrees Position angle of moon relative to the camera</td></tr><tr><td></td><td></td><td>center</td></tr><tr><td>CALIA73 CALIA731</td><td>float</td><td>Zeropoint for the whole CCD image Zeropoint for the Amp.#1.of the CCD image</td></tr><tr><td></td><td>float</td><td></td></tr><tr><td>CALIA732 CALIA733</td><td>float float</td><td>Zeropoint for the Amp.#2.of the CCD image</td></tr><tr><td></td><td></td><td>Zeropoint for the Amp.#3.of the CCD image</td></tr><tr><td>CALIA734</td><td>float</td><td>Zeropoint for the Amp.#4.of the CCD image</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "about $0 { : } ^ { \\prime \\prime } 1 3$ .The average internal astrometric error, from sources on overlapping exposures,is about $0 _ { \\cdot } ^ { \\prime \\prime } 0 9$ = ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3）Magnitude calibrations: the SDSS catalogs are used to make externalphotometric calibrations.We calculate the photometric zeropoints(ZPs） separately for the four amplifiers to reduce the effect of gain and photometric responsevariations. For images out of the SDSS coverage,we interactively derive their photometric ZPs internally by using the common stars in the overlapped area.   \n(4)Image stacking: single-epoch images with specified qualities are stacked.More than $91 \\%$ of stacked images are assembled by using single-epoch imageswith consistent qualities.   \n(5)Photometry: SExtractor photometry(Bertin & Arnouts 1996）with automatic elliptical apertures is performed on stacked images.The aperture,point-spread function (PSF),and model magnitudes are measured from both stacked images and co-added flux measurements on single-epoch images.The model photometry uses the SDSS $r$ -band shape parameters.Due to improper flatfielding，scattered light,and focal plane distortion，the photometric ZP would vary with the position in the CCD plane so that there are photometric residuals across the CCD.We derive such residual maps for all CCDs and use them to correct the magnitudes. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.DATAPRODUCTS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1.Calibrated Images ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Single-epoch images are calibrated by the dedicated image processing pipeline.There are a total of 44,937 images.The coordinate system adopts the ARC celestial projection,mostly used in Schmidt plate astrometry，with a second-order radial distortion.The coordinate transformation between the focal plane and the celestial coordinates can be made by using our ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/b2b1d58f291dbe5da5b930de58d52704aa8db1451fcbcc287b1f55413cb63ec4.jpg",
+        "table_caption": [
+            "Table 2 Main Columns in SCUSS Photometric Catalogs "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Field</td><td>Data type</td><td>Meaning</td></tr><tr><td>NUMBER</td><td>LONG</td><td>ID of objects in stacked images</td></tr><tr><td>RA2000</td><td>STRING</td><td>R.A. in J2000</td></tr><tr><td>DEC2000</td><td>STRING</td><td>Decl. in J2000</td></tr><tr><td>X</td><td>FLOAT</td><td>Image X of SDSS objects</td></tr><tr><td>Y</td><td>FLOAT</td><td>Image Y of SDSS objects</td></tr><tr><td>BER_X</td><td>FLOAT</td><td>SExtractor X of objects detected on stacked images</td></tr><tr><td>BER_Y</td><td>FLOAT</td><td>SExtractor Y of objects detected on stacked images</td></tr><tr><td>MAG_AUTO</td><td>FLOAT</td><td>Automatic magnitude derived by SExtractor</td></tr><tr><td>MAGERR_AUTO</td><td>FLOAT</td><td>Automatic magnitude error derived by SExtractor</td></tr><tr><td>KRON_RADIUS</td><td>FLOAT</td><td>Kron radius in pixels derived by SExtractor</td></tr><tr><td>MAG_PETRO</td><td>FLOAT</td><td>Petrosian magnitude derived by SExtractor</td></tr><tr><td>MAGERR_PETRO</td><td>FLOAT</td><td>Petrosian magnitude error derived by SExtractor</td></tr><tr><td>PETRO_RADIUS</td><td>FLOAT</td><td>Petrosian radius in pixels derived by SExtractor</td></tr><tr><td>FLUX_RADIUS</td><td>FLOAT</td><td>Half-light radius in pixels derived by SExtractor</td></tr><tr><td>FWHM_IMAGE</td><td>FLOAT</td><td>FWHM of objects in pixels derived by SExtractor</td></tr><tr><td>BERTIN_G_S</td><td>FLOAT</td><td>Stellarity(O galaxy;1 star) derived by SExtractor</td></tr><tr><td>A_AXIS</td><td>FLOAT</td><td>Length of the major axis in pixels derived by SExtractor</td></tr><tr><td>ELLIPTICITY</td><td>FLOAT</td><td>Ellipticity derived by SExtractor</td></tr><tr><td>THETA</td><td>FLOAT</td><td>Position angle in degrees derived by SExtractor</td></tr><tr><td>BERTIN_CLASS</td><td>INT</td><td>SExtractor Flags</td></tr><tr><td>COMBINE_NUMB</td><td>INT</td><td>Exposure number in the stacked image</td></tr><tr><td>PSFMAG</td><td>FLOAT</td><td>PSF magnitudes on the stacked image</td></tr><tr><td>PSFERR</td><td>FLOAT</td><td>PSF magnitude error on the stacked image</td></tr><tr><td>PSFFLAG</td><td>INT</td><td>Flags of the PSF magnitude on the stacked image</td></tr><tr><td>APMAG</td><td>DOUBLE</td><td>Aperture magnitude on the stacked image (12 apertures)</td></tr><tr><td>APMAGERR</td><td>DOUBLE</td><td>Aperture magnitude error on the stacked image</td></tr><tr><td>MODELMAG</td><td>FLOAT</td><td>Model magnitude on the stacked image</td></tr><tr><td>MODELMAGERR</td><td>FLOAT</td><td>Model magnitude error on the stacked image</td></tr><tr><td>PSFADD</td><td>DOUBLE</td><td>Co-added PSF magnitude from single-epoch images</td></tr><tr><td>PSFADDERR</td><td>DOUBLE</td><td>Co-added PSF magnitude error from single-epoch image</td></tr><tr><td>PSFADDSTD</td><td>DOUBLE</td><td>Standard deviation of the co-added PSF magnitude</td></tr><tr><td>PSFADDFLAG</td><td>LONG</td><td>Flags of the co-added PSF magnitude</td></tr><tr><td>PSFADDNUM</td><td>INT</td><td>Exposure number for the co-added PSF magnitude</td></tr><tr><td>APADD</td><td>DOUBLE</td><td>Co-added aperture magnitudes (12 apertures)</td></tr><tr><td>APADDERR</td><td>DOUBLE</td><td>Co-added aperture magnitude errors</td></tr><tr><td>APADDSTD</td><td>DOUBLE</td><td>Standard deviations of the co-added aperture magnitudes</td></tr><tr><td>APADDNUM</td><td>LONG</td><td>Exposure numbers for the co-added aperture magnitudes</td></tr><tr><td>MODELADD</td><td>FLOAT</td><td>Co-added model magnitude</td></tr><tr><td>MODELADDERR</td><td>FLOAT</td><td>Co-added model magnitude error.</td></tr><tr><td>MODELADDSTD</td><td>FLOAT</td><td>Standard deviation of the co-added model magnitude</td></tr><tr><td>MODELADDNUM</td><td></td><td></td></tr><tr><td>JDMEAN</td><td>INT</td><td>Exposure number for the co-added model magnitude Average Julian day for each object</td></tr><tr><td>MATCH_ERR</td><td>DOUBLE FLOAT</td><td>Match error in arcsec between SCUSS detected objects and SDSS objects</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "IDL/Python programs5 with the eight coefficients in the FITS header (keywords of A81，A82,...，and A88)and a secondorder coefficient,which is implemented as inline functions in the programs.The usages of these programs can be found in the webpage. The WCS parameters in the header are incorrect. The photometric ZPs of four amplifiers are presented in the keyWords CALIA731，CALIA732，CALIA733，and CALIA734，which correspond to the northeast， southeast, northwest,and southwest quadrants of the image. Thus, the magnitude can becalculated as $m = - 2 . 5 \\mathrm { l o g } _ { 1 0 } F +$ $2 5 + \\mathrm { Z P }$ ，where $F$ is the measured flux in DN. To ensure homogeneity of the imaging depth and coverage completeness of the stacked images,we flag single-epoch images according to their qualities. The images with seeing ${ < } 3 { : } 0$ ，sky $\\mathrm { \\ A D U } < 5 0 0$ ,and $\\mathsf { Z P } > 3 . 5$ are flagged with“1.” If a sky region does not have enough imagesflagged with“1,” the corresponding images in this region with seeing ${ < } 3 { : } 0$ are flagged with “2.” If the region still does not have enough images to meet the depth requirement, the rest of the images located in this region are flagged with “3.”For the remaining images，we flag the ones with seeing $< 3 . 0$ with “4” or otherwise with $^ { 6 6 } 5$ .” Table 1 presents the main keywords in the FITS header of single-epoch images. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "There are a total of 37OO stacked images,each of which has an area of $1 ^ { \\circ } . 0 8 \\times 1 ^ { \\circ } . 0 4$ and about $1 ^ { \\prime }$ overlaps with adjacent images.These stacked images are assembled with the singleepoch images flagged as “1,” “2,” and “3.” The coordinate system isa purely linear transformation in the ARC celestial projection.The ZP is stored in the keyword CALIA73.The other header keywords are similar to those in the single-epoch images,but the WCS parameters are accurate enough.In addition,there is a weight map corresponding to each stacked image,giving the number of exposures. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/771703f2703c0160f84a273096d910962f0a93495a64d680d1fa98350525dc83.jpg",
+        "table_caption": [
+            "Table 3 Main SDSS Columns Included in SCUSS Photometric Catalogs "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\"></td></tr><tr><td>Field</td><td>Data type</td><td>Meaning</td></tr><tr><td>SDSSOBJID</td><td>STRING</td><td>SDSS OBJID in SDSS DR9</td></tr><tr><td>SDSSTYPE</td><td>STRING</td><td>SDSS object type (s: star; g: galaxy)</td></tr><tr><td>PSFMAG_U</td><td>FLOAT</td><td>SDSS u-band PSF magnitude</td></tr><tr><td>PSFMAG_G</td><td>FLOAT</td><td>SDSS g-band PSF magnitude</td></tr><tr><td>PSFMAG_R</td><td>FLOAT</td><td>SDSS r-band PSF magnitude</td></tr><tr><td>PSFMAG_I</td><td>FLOAT</td><td>SDSS i-band PSF magnitude</td></tr><tr><td>PSFMAG_Z</td><td>FLOAT</td><td>SDSS z-band PSF magnitude</td></tr><tr><td>PSFMAGERR_U</td><td>FLOAT</td><td>SDSS u-band PSF magnitude error</td></tr><tr><td>PSFMAGERR_G</td><td>FLOAT</td><td>SDSS g-band PSF magnitude error</td></tr><tr><td>PSFMAGERR_R</td><td>FLOAT</td><td>SDSS r-band PSF magnitude error</td></tr><tr><td>PSFMAGERR_I</td><td>FLOAT</td><td>SDSS i-band PSF magnitude error</td></tr><tr><td>PSFMAGERR_Z</td><td>FLOAT</td><td>SDSS z-band PSF magnitude error</td></tr><tr><td>PETROMAG_U</td><td>FLOAT</td><td>SDSS u-band Petrosian magnitude</td></tr><tr><td>PETROMAG_G</td><td>FLOAT</td><td>SDSS g-band Petrosian magnitude</td></tr><tr><td>PETROMAG_R</td><td>FLOAT</td><td>SDSS r-band Petrosian magnitude</td></tr><tr><td>PETROMAG_I</td><td>FLOAT</td><td>SDSS i-band Petrosian magnitude</td></tr><tr><td>PETROMAG_Z PETROMAGERR_U</td><td>FLOAT FLOAT</td><td>SDSS z-band Petrosian magnitude SDSS u-band Petrosian magnitude</td></tr><tr><td></td><td></td><td>error</td></tr><tr><td>PETROMAGERR_G</td><td>FLOAT FLOAT</td><td>SDSS g-band Petrosian magnitude error SDSS r-band Petrosian magnitude</td></tr><tr><td>PETROMAGERR_R</td><td></td><td>error</td></tr><tr><td>PETROMAGERR_I</td><td>FLOAT</td><td>SDSS i-band Petrosian magnitude error</td></tr><tr><td>PETROMAGERR_Z</td><td>FLOAT</td><td>SDSS z-band Petrosian magnitude error</td></tr><tr><td>MODELMAG_U MODELMAG_G</td><td>FLOAT</td><td>SDSS u-band model magnitude</td></tr><tr><td>MODELMAG_R</td><td>FLOAT FLOAT</td><td>SDSS g-band model magnitude SDSS r-band model magnitude</td></tr><tr><td>MODELMAG_I</td><td>FLOAT</td><td>SDSS i-band model magnitude</td></tr><tr><td>MODELMAG_Z</td><td>FLOAT</td><td>SDSS z-band model magnitude</td></tr><tr><td>MODELMAGERR_U</td><td>FLOAT</td><td>SDSS u-band model magnitude error</td></tr><tr><td>MODELMAGERR_G</td><td>FLOAT</td><td>SDSS g-band model magnitude error</td></tr><tr><td>MODELMAGERR_R</td><td>FLOAT</td><td>SDSS r-band model magnitude error</td></tr><tr><td>MODELMAGERR_I</td><td>FLOAT</td><td>SDSS i-band model magnitude error</td></tr><tr><td>MODELMAGERR_Z</td><td>FLOAT</td><td>SDSS z-band model magnitude error</td></tr><tr><td>CMODELMAG_U</td><td>FLOAT</td><td>SDSS u-band Cmodel magnitude</td></tr><tr><td>CMODELMAG_G</td><td></td><td></td></tr><tr><td></td><td>FLOAT</td><td>SDSS g-band Cmodel magnitude</td></tr><tr><td>CMODELMAG_R</td><td>FLOAT</td><td>SDSS r-band Cmodel magnitude</td></tr><tr><td>CMODELMAG_I</td><td>FLOAT</td><td>SDSS i-band Cmodel magnitude</td></tr><tr><td>CMODELMAG_Z CMODELMAGERR_U</td><td>FLOAT FLOAT</td><td>SDSS z-band Cmodel magnitude SDSS u-band Cmodel magnitude</td></tr><tr><td></td><td></td><td>error</td></tr><tr><td>CMODELMAGERR_G CMODELMAGERR_R</td><td>FLOAT</td><td>SDSS g-band Cmodel magnitude error</td></tr><tr><td>CMODELMAGERR_I</td><td>FLOAT</td><td>SDSS r-band Cmodel magnitude error</td></tr><tr><td>CMODELMAGERR_Z</td><td>FLOAT</td><td>SDSS i-band Cmodel magnitude error</td></tr><tr><td></td><td>FLOAT</td><td>SDSS z-band Cmodel magnitude error</td></tr><tr><td>EXTINCTION_U EXTINCTION_G</td><td>FLOAT</td><td>SDSS u-band extinction</td></tr><tr><td>EXTINCTION_R</td><td>FLOAT FLOAT</td><td>SDSS g-band extinction</td></tr><tr><td>EXTINCTION_I</td><td>FLOAT</td><td>SDSS r-band extinction SDSS i-band extinction</td></tr><tr><td>EXTINCTION_Z</td><td>FLOAT</td><td>SDSS z-band extinction</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.Photometric Catalogs ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The catalogs contain both magnitudes measured on stacked images and co-added magnitudes from measurementson single-epoch images. The objects come from the SCUSS detections and SDSS catalogs with any of the ugriz magnitudes in DR9 brighter than 23.5 mag.The matching error between the SCUSS and SDSS is $2 . { } ^ { \\prime \\prime } 0$ 、In the catalogs,SDSS objects canberecognized bythe NUMBER column， where NUMBER $< 4 9 { , } 0 0 0$ or $5 0 , 0 0 0 < \\mathrm { N U M B E R } < 6 0 , 0 0 0$ The SCUSS unique objectshave NUMBER $> 6 0 { , } 0 0 0$ ： Extra matchedfainterSDSSobjects within （204 $2 ^ { \\prime \\prime }$ （204 have $4 9 , 0 0 0 < \\mathrm { N U M B E R } < 5 0 , 0 0 0$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The SExtractor photometry is performed only on stacked images,providing the automatic magnitude,Kron radius, shape parameters, objectclassification， etc.Aperture， PSF, model magnitudes are measured on both stacked images and single-epoch images. Co-added magnitudes are derived from these measurements on single-epoch images.Flags for the PSF magnitude (column PSFFLAG) are coded in decimal and expressedasa sum of powers of2:1 for CCD artefacts;2for bad pixels;4 for saturated pixels;8 for contamination from neighbors;and 16 for edges of the image.The co-added flag (PSFADDFLAG) is the combination of corresponding flags of the same object measured on multiple single-epoch images. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "If stack images are combined with single images of similar qualities， the magnitudes measured on stacked images are better than the co-added ones,since the object number is $20 \\%$ higher. Conversely,the co-added magnitudes should be better. We can refer to Zou et al. (2O15a) for the general guidelines to use the magnitudes.Tables 2 and 3 show both the SCUSS and SDSS photometric information included in the catalogs. All magnitudes are corrected to the aperture magnitudes $( 7 . 1 \\%$ inradius)，which is also used for photometric calibrations. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.DATAQUALITYANDDEPTH ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The color-color diagram is an excellent tool to compare the photometry of the SCUSS and SDSS.Figure 2 shows the scatters of stars in the $\\boldsymbol { u } - \\boldsymbol { g }$ versus $g - r$ plane. These stars are spectroscopically identified by the SDSS.The SCUSS co-added PSF magnitude and SDSS PSF magnitudes are used for comparison. In this figure,the star sequence using the SCUSS $u$ band is tighter. We select two color intervals of $1 . 3 < g - r < 1 . 6$ (mostly M-type stars） and $0 . 0 < g - r < 0 . 3$ (mostly A-type stars） to show the $\\boldsymbol { u } - \\boldsymbol { g }$ distributions,which is presented in Figure 3. The dispersion of the $u _ { \\mathrm { S C U S S } } - g$ color is smaller than that of the $u _ { \\mathrm { S D S S } } - g$ Moreover，objects located in the lower right(enclosed by a polygon in Figure 2) are identified as stars butinitiallyselected as quasarcandidates with redshift larger than 3.0.These stars were faint and mistakenly selected as quasars due to the bad SDSS $u$ -band photometry.But they are still located in the star sequence when the SCUSS $u$ band is used. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The SCUSS and SDSS $u$ -band photometry is also compared byusing the catalogs from the Canada-France-Hawaii Telescope Legacy Survey (CFHTLS)，whose wide-field $u$ -band depth reachesabout 25.2 mag（ $80 \\%$ completenesslimit). We select the CFHTLS W4 field $( \\alpha = \\bar { 2 } 2 ^ { \\mathrm { h } } 1 3 ^ { \\mathrm { m } } 1 8 ^ { \\mathrm { s } }$ ， $\\delta \\ =$ $+ ~ 0 1 ^ { \\mathrm { d } } 1 9 ^ { \\mathrm { m } } 0 0 ^ { \\mathrm { s } } )$ that is fully covered by the SCUSS.Figure 4 shows the photometric comparison of point sources that are classified by the SDSS. The SCUSS and SDSS $u$ -band ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/aea701ee7c50008c50eeca8870b9bdd6ca95aadc1ea874f62f83587aebcba3c3.jpg",
+        "img_caption": [
+            "Figure 2.Left: stars spectroscopically identified by the SDSS in thecolor-color diagram of $u _ { \\mathrm { S C U S S } } - g$ Vs. $g \\mathrm { ~ - ~ } r .$ Right: the same stars in the color-color diagram of $u _ { \\mathrm { S D S S } } - g$ vs. $g \\mathrm { ~ - ~ } r .$ ThemagnitudesarecorectedfortheGalacticextinction(Schegeletal.998）andthecolorterusedbyZoutal.lb)Tedasd polygon indicatesthattheobjectswere initiallyselectedasquasarcandidatesbut identifiedbythe SDSSasstars.Both the $g _ { - }$ and $r$ -band magnitudes come from the SDSS. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/86cc928ae217bba1cac83efeacbba40799c68af7d490b917f5c6574d51b89578.jpg",
+        "img_caption": [
+            "Figure3.Left:the $\\boldsymbol { u } - \\boldsymbol { g }$ distribution of stars with $1 . 3 < g - r < 1 . 6$ Right:the $\\boldsymbol { u } - \\boldsymbol { g }$ distributions of stars with $0 . 0 < g - r < 0 . 3$ ，The solid and dashed listograms use the SCUSS and SDSS $u$ bands,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/69bcef48e9084e31198a17afb8221ada1db166eae92b1d8739420b71cf2034c0.jpg",
+        "img_caption": [
+            "Figure 4. The $u$ band magnitude diference between the SCUSS/SDSS and the CFHTLS as a function of the CFHTLS $u$ band magnitude. The blue points stand for the SDSSandtheredonesstandfortheSCU.ThesolidanddashedlinesshowthermsaroundtheaverageasafunctionoftheCHFTLS $u$ -band magnitude for the SCUSS and SDsS,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/070fb77a0f4d511540f29236d7c4530b24a8f99619ec3dfc65d213b0d9a5dc42.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "Figure 5. (a): $u$ bandGalacticetinctionapintCUSfootprint;()syrightsapinagarcse.c)eingapisc; (d)mgitudlitap in mag. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ab323224fd02ee0d05320286d3b6aad006f2b6eb32abaa123a2ca385435964f.jpg",
+        "img_caption": [
+            "Figure 6.(a):seeing distribution inarcsec(b)magnitude limit distribution.Thecurvesarethecumulative distributions. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "PSF magnitudes are converted to the CHFTLS photometric system.7 The solid and dashed lines in this figure show the photometric rms around the average offset as a function of the magnitude. The SDSS has a much larger offset when the magnitude is fainter. The magnitude offset between the SDSS and the CFHTLS at $u = 2 3 . 5$ is about O.2 mag,while the one between the SCUSS and the CFHTLS is about $- 0 . 0 3 \\mathrm { m a g }$ In addition,for the same rms of O.2, the SCUSS and SDSS magnitude limits are about 22.6 and $2 1 . 4 \\mathrm { m a g }$ ，respectively. The SCUSS $u$ band is $1 . 2 \\mathrm { m a g }$ deeper. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The overall distributions of the $u$ -band Galactic extinction, sky brightness,seeing,and limiting magnitude are presented in Figure 5.The median $u$ -band Galactic extinction is about $0 . 0 9 6 \\mathrm { { m a g } }$ ，where the extinction map comes from Schlegel et al.(1998) using the reddening law of Cardelli et al. (1989). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b35ce6a58044b391a9385542cc09d9648a9632823c0e8db918143de895616756.jpg",
+        "img_caption": [
+            "Figure 7.The accuracy distribution of the proper motion derived by the SDSS spectroscopically confirmed quasars.The cross line show the coordinate origin. The red curves in the right and top panels are the Gaussian fts to the distributions of $\\mu _ { \\alpha } \\mathrm { c o s } \\delta$ and $\\mu _ { \\delta }$ ,respectively. The units are mas years-1. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.CATALOGOFSTARPROPERMOTIONS",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Peng et al. (2015) used a novel method from Qi et al. (2015) to determine the absolute proper motions of detected objects in SCUSS single-epoch images.Based on data from the SCUSS (2010-2O13) and the Guide Star Catalog II (Lasker et al. 2008) (1950-20oO)，the absolute proper motions of ${ \\sim } 8$ million objects were derived. A great deal of effort was put into correcting the position-,magnitude-， and color-dependent systematic errors. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Quasars are distant and regarded to have no proper motion. The accuracy of our proper motions is estimated by using the spectroscopically confirmed quasars identified by the SDSS. Figure 7 displays the distributions of the calculated proper motions of these quasars in R.A. $\\left( \\mu _ { \\alpha } \\mathrm { c o s } \\delta \\right)$ and decl. $( \\mu _ { \\delta } )$ . The systematic errors (or the average） are about $- 0 . 1 1$ and $- 0 . 0 2 \\mathrm { m a s y e a r s } ^ { - 1 }$ ，and the corresponding random errors (or the standard deviation) are about 4.9O and $\\overline { { 4 . 9 3 \\mathrm { ~ m a s ~ y e a r s } ^ { - 1 } } }$ for $\\mu _ { \\alpha }$ cos $\\delta$ and $\\mu _ { \\delta }$ ，respectively.The Gaussian fitted random errors are 4.27 and $4 . 3 5 \\mathrm { m a s y e a r s } ^ { - 1 }$ ．The random error increases with the magnitude from about 3 mas years-1 at $u = 1 8 . 0$ mag to about 7 mas years-1 at $u = 2 2 . 0 \\mathrm { m a g }$ The SCUSS proper motions are compared with those in the SDSS catalog， which shows a high consistency. Thetypical dispersion of the proper motion between the SCUSS and SDSS is about 5 mas years-1. Table 4 shows the columns in our proper motion catalog. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/2672bcf969a6f608d550fb3be9c6f5143b8d9e94096c035e5e5485dbb5c1e88b.jpg",
+        "table_caption": [
+            "Table 4 Columns in the Catalog of Star Proper Motions "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Field</td><td>Data type</td><td>Meaning</td></tr><tr><td>ID</td><td>LONG</td><td>Object ID</td></tr><tr><td>RA</td><td>FLOAT</td><td>R.A.in J2000 (degree)</td></tr><tr><td>DEC</td><td>FLOAT</td><td>Decl. in J2000 (degree)</td></tr><tr><td>sigRA</td><td>FLOAT</td><td>Error of R.A. (mas)</td></tr><tr><td>sigDEC</td><td>FLOAT</td><td>Error of Decl. (mas)</td></tr><tr><td>PMRA</td><td>FLOAT</td><td>Proper motion in R.A. multiplied by cos(δ) (mas years-1)</td></tr><tr><td>PMDEC</td><td>FLOAT</td><td>Proper motion in decl. (mas years-1)</td></tr><tr><td>sigPMRA</td><td>FLOAT</td><td>Error of proper motion in R.A.</td></tr><tr><td>sigPMDEC</td><td>FLOAT</td><td>Error of proper motion in decl.</td></tr><tr><td>MAG</td><td>FLOAT</td><td>SCUSS automatic magnitude</td></tr><tr><td>TYPE</td><td>INTEGER</td><td>Star/galaxy classification (O for star;others for galaxy)</td></tr><tr><td>OBSNUM</td><td>INTEGER</td><td>Number of epoches</td></tr><tr><td>MeanEpoch</td><td>FLOAT</td><td>Mean epoch</td></tr><tr><td>MinEpoch</td><td>FLOAT</td><td>Minimum epoch</td></tr><tr><td>MaxEpoch</td><td>FLOAT</td><td>Maximal epoch</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Some regions with very high extinctions are not included in the SDSS footprint. Most observations were taken on dark nights, while a few of them were taken at gray time as seen in Figure 5(b). The median seeing is about $2 _ { \\cdot } ^ { \\prime \\prime } 0$ About $90 \\%$ of the footprint has seeing better than $2 . 5$ .The $u$ -band seeing is usually larger than that in redder bands.The typical $r$ -band seeing on Kitt Peak is about $1 ! 7$ . The limiting magnitude shown in Figure 5(d) is estimated by using the SExtractor automatic magnitude measurements of $5 \\sigma$ point sources. The median limiting magnitude is about $2 3 . 2 \\mathrm { m a g }$ About $9 8 . 3 \\%$ of the footprint has a depth fainter than $2 2 . 5 \\mathrm { { m a g } }$ . The histograms of the seeing and limiting magnitudes and their cumulative distributions are also shown in Figure 6. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6.CONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The SCUSS survey was a collaborative program between the National Astronomical Observatories of China and the Steward Observatory.It used the $2 . 3 \\mathrm { m }$ Bok telescope and wide-field 90Prime camera to survey the northern part of the south Galactic cap in SDSS $u$ band.The observations were completed in 2013 and covered about $5 0 0 0 \\ \\mathrm { d e g } ^ { 2 }$ This paper presents the data release of about $4 0 0 0 \\ \\mathrm { d e g } ^ { 2 }$ ， $92 \\%$ of which is covered by the SDSS. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We have summarized the survey and data reduction in this paper,and the reader can refer to Zou et al. (2O15a) and X. Zhou et al.(2O15,in preparation） for more details. The data products include calibrated single-epoch images， stacked images，and photometric catalogs. The catalogs contain the photometry of both SCUSS detected sources and objects in SDSS catalogs and provide magnitude measurementson stacked images and co-added magnitudes from measurements onsingle-epoch images. The SDSS information are also included in the catalogs with a $2 ^ { \\prime \\prime }$ matching error. We have analyzed the data quality,such as the sky brightness,seeing, and magnitude limit. The median limiting magnitude $( 5 \\sigma )$ is about $2 3 . 2 \\mathrm { m a g }$ ，which is ${ \\sim } 1 . 2$ mag deeper than the SDSS $u$ band.We also release a catalog of star proper motions of about 8 million objects derived by Peng etal. (2O15). The data and documentations can be accessed through the SCUSS data release website. In this website,the images and catalogs can be retrieved either by using query forms (developed by the Chinese astronomical data center) or directly through the data directory trees. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This work is supported by the National Natural Science Foundation of China (NSFC，Nos．11203031，11433005, ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "11073032,11373035,11203034,11303038,11303043) and by the National Basic Research Program of China (973 Program, Nos.2014CB845704，2013CB834902，and 2014CB845702). Z.Y.W. was supported by the Chinese National Natural Science Foundation grant No.11373033. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The SCUSS is funded by the Main Direction Program of Knowledge Innovation of Chinese Academy of Sciences (No. KJCX2-EW-TO6). It is also an international cooperative project between National Astronomical Observatories,Chinese Academy of Sciences，and Steward Observatory，University of Arizona,USA.Technical support and observational assistance from the Bok telescope are provided by Steward Observatory. The project is managed by the National Astronomical Observatory of China and Shanghai Astronomical Observatory. Data resources are supported by Chinese Astronomical Data Center (CAsDC). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "SDSS-I is managed by the Astrophysical Research Consortium for the Participating Institutions of the SDSS-II Collaboration including the University ofArizona, the Brazilian Participation Group,Brookhaven National Laboratory,Carnegie Mellon University，University of Florida,the French Participation Group,the German Participation Group, HarvardUniversity, the Instituto de Astrofisica de Canarias, the Michigan State/Notre Dame/JINA Participation Group, Johns Hopkins University,Lawrence Berkeley National Laboratory, Max Planck Institute for Astrophysics,Max Planck Institute for Extraterrestrial Physics,New Mexico State University，New YorkUniversity，Ohio State University，Pennsylvania State University,University of Portsmouth,Princeton University, the ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Spanish Participation Group,University of Tokyo,University ofUtah， Vanderbilt University，University of Virginia, University of Washington, and Yale University. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Based on observations obtained with MegaPrime/MegaCam,a joint project of CFHT and CEA/IRFU,at the CanadaFrance-Hawaii Telescope(CFHT） which is operated by the National Research Council (NRC）of Canada,the Institut National des Science de1'Univers of the Centre National de la Recherche Scientifique (CNRS)of France,and the University of Hawaii. This work is based in part on data products produced at Terapix available at the Canadian Astronomy Data Centre as part of the Canada-France-Hawaii Telescope Legacy Survey,a collaborative project of NRC and CNRS. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Bertin,E.,&Arnouts,S.1996,A&AS,117,393   \nCardell,J.A., Clayton, G.C.,& Mathis, J. S.1989,ApJ,345,245   \nComparat，J.，Delubac，T.，Jouvel，S.，et al．2O15，A&A，submitted   \n(arXiv:1509.05045)   \nCui,X.-Q.,Zhao,Y.-H.,Chu,Y.-Q.,et al. 2012,RAA,12,1197   \nGu,J.,Du,C., Jia,Y.,et al. 2015,MNRAS,452,3092   \nJia,Y.,Du,C.,Wu, Z.,et al.2014,MNRAS, 441,503   \nLasker,B.M.,Lattanzi,M.G.,McLean,B.J.,et al.2OO8,AJ,136,735   \nNie,J.D.,Smith,M.C.,Belokurov,V.,etal.2015,ApJ,810,153   \nPeng, X., Qi, Z., Wu, Z., et al. 2015,PASP, 127, 250   \nQi,Z.,Yu,Y.,Bucciarelli,B.,et al.2015,AJ,150,137   \nRaichoor, A., Comparat, J.,Delubac,T., etal. 2016,A&A, 585,A50   \nSchlegel,D.J.,Finkbeiner,D.P.,&Davis,M.1998,ApJ,500,525   \nYork,D.G.,Adelman,J.,Anderson, J.E.,Jr.,et al.2000,AJ,120,1579   \nZou,H., Jiang, Z.-J., Zhou, X., et al. 2015a, AJ, 150,104   \nZou,H.,Wu,X.-B.,Zhou,X., et al. 2015b,PASP,127,94 ",
+        "page_idx": 7
+    }
+]

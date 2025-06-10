@@ -1,0 +1,173 @@
+# 地球弓激波的三维模拟
+
+胡慧萍 吕建永1.2 周全³王明1 杨亚芬²刘子谦4 裴世鑫1
+
+1(南京信息工程大学数学与统计学院南京 210044)2(国家卫星气象中心 北京 100081)3(中国石化石油物探技术研究院南京 211103)4(中国科学院空间科学与应用研究中心空间天气学国家重点实验室北京 100190)
+
+摘要利用磁流体动力学（MHD）全球模拟结果，根据弓激波的跃变特性确定出弓激波位置，建立了一个新的综合考虑了快磁声马赫数、太阳风动压、行星际磁场强度以及磁层顶曲率半径的弓激波三维位型模型.将新模型与以往模型的模拟结果进行比较发现，新的弓激波全球模型结果可靠，解决了部分现有模型不能描述弓激波三维位型的问题．研究结果表明，在行星际磁场北向时，随着快磁声马赫数的增大，弓激波日下点距离减小，但是在行星际磁场南向时，快磁声马赫数的变化对弓激波日下点距离影响不大；弓激波位型在赤道面与子午面上存在明显的不对称性，而且随着行星际磁场的转向，这种非对称性也会发生相应改变；行星际磁场南向， $B _ { z }$ 值较小时，子午面内弓激波位型已经不是简单的抛物线，出现了明显的类似于极尖区磁层顶的凹陷变化区.
+
+关键词弓激波,太阳风,快磁声马赫数,磁层顶曲率半径 中图分类号P353
+
+# Simulation of Three-dimensional Earth's Bow Shock
+
+HU Huiping1 LU Jianyong $^ { 1 , 2 }$ （20 ZHOU Quan³ WANG Ming1
+
+YANG Yafen² LIU Ziqian4 PEI Shixin1
+
+1(Institute of Space Weather,Nanjing University of Information Science and Technology, Nanjing 21004) 2(National Center for Space Weather,Beijing 100081) 3(Sinopec Geophysical Research Institute,Nanjing 211103) 4(Center for Space Science and Applied Research, Chinese Academy of Sciences,Beijing 100190)
+
+AbstractWe use a physics-based global Magnetohydrodynamic (MHD) model to investigate the location and shape of the Earth's bow shock. The bow shock locations in the simulations are identified by an automated search algorithm and is fitted by simple analytical functions.A global three dimensional bow shock model is constructed to include the efect of magnetopause and is parameterized by the fast magnetosonic Mach number, solar wind ram pressure, interplanetary magnetic feld strength,and magnetopause curvature radius. The model results are compared and agree well with the previous empirical and simulation models.We also find that both the shock standoff distance and the shock faring angle decrease monotonically with increasing the fast magnetosonic Mach number. The size and location of bow shock on the equatorial plane and the meridian plane show obvious asymmetry.
+
+Key wordsBow shock, Solar wind, Fast magnetosonic Mach number, Magnetopause curvature radius
+
+# 0 引言
+
+超音速太阳风粒子流与地球磁场相遇时会在地球前端形成弓形激波，由于地球本身磁场的存在，使得激波的空间范围变得很大[1．地球弓激波的位置与形状是磁层领域的主要研究内容,这一研究主要基于两个方面．一是观测数据得到的经验模型，研究区域从赤道面附近扩大到高纬地区与全球大尺度范围[2-6；二是利用基于物理过程的数值模拟结果得到的非经验模型，研究区域包括了赤道面、高纬区区域以及磁尾地区等全球大尺度范围[7-10].
+
+研究结果表明，位于上游的太阳风参数以及磁层顶位型对弓激波位型具有决定性作用．Julian[11]和 Spreiter[12]提出了用声马赫数作为单一参量的经典弓激波模型.前者经验地表明弓激波日下点距离与弓激波上下游的密度压缩率成线性比例关系；后者将这个结果应用于沿磁鞘流动的气体动力学中，并且认为弓激波的非对称性主要由磁声波马赫数决定．Far-ris和Russell改进了经典的弓激波气体动力学模型，提出新的弓激波径向日下点距离模型，此模型解决了经典模型[11］在马赫数接近于单位1时，弓激波无限远离地球这一问题，同时指出磁层顶曲率半径是最适合表达弓激波与磁层顶之间关系的参量，并给出了两者之间的数量关系．Cairns 和 Lyon[7] 利用全球三维MHD 模拟，研究了弓激波日下点距离与低阿尔芬马赫数之间的关系，通过研究磁鞘厚度间接表述弓激波与磁层顶之间的关系，其提出的弓激波位型模型是一个三维抛物面，并且发现随着马赫数的增大激波上下游密度跃变比单调减小[14]．文献[7]虽然用 MHD数据给出了三维的激波模型，但是仅适用于弓激波关于 $\mathbf { \Psi } _ { x }$ 轴旋转对称的情况，并且忽略了磁层顶对弓激波位型的直接影响．Bennett 等[15]利用Galileo 和Pioneer-7的观测数据，改进经典模型后提出一个大尺度弓激波新模型.改正后的模型是关于行星际磁场(IMF）方向、快磁声波马赫数及太阳风动压的函数，但是该模型只能给出二维弓激波的位型而不能整体描述三维弓激波结构．Chao 等[16]根据观测数据建立了一个弓激波位型模型(简称Chao模型).其工作使得弓激波模型中包含了更多参量，这些参量将直接影响弓激波位型.Chapman等[9] 利用基于物理的全球三维 MHD 在近地区域内建立了一个新的弓激波经验模型 (简称 Chapman 模型),利用此模型讨论了两个不同行星际磁场方向弓激波位型的非对称结构[17]，但是这一模型没有考虑磁层顶位型与IMF南向时对弓激波的影响．此后Chapman模型不断改善，通过重点分析IMF方向对弓激波位型的影响，采用四次多项式拟合三维弓激波模型[10],发现当 $2 0 ^ { \circ } \ : \leqslant \ : \theta _ { \mathrm { I M F } } \ : \leqslant \ : 6 0 ^ { \circ }$ 时激波位置产生明显的倾斜，当 $\theta _ { \mathrm { I M F } } \leqslant 3 0 ^ { \circ }$ 时弓激波的非对称最为明显.但是对于 $2 0 ^ { \circ } \ : \leqslant \ : \theta _ { \mathrm { I M F } } \ : \leqslant \ : 4 5 ^ { \circ }$ 的模拟，拟合结果仅在 $z \textless 2 0 R _ { \mathrm { e } }$ 的范围内有效且不能描述磁尾地区及其以外区域的激波位型
+
+以上研究结果表明，在建立弓激波位型模型时，需要考虑的外部太阳风参量应包括有动压 $D _ { \mathrm { p } }$ 、阿尔芬马赫数 $M _ { \mathrm { A } }$ 、声马赫数 $M _ { \mathrm { s } }$ 、磁声马赫数 $M _ { \mathrm { f } }$ 以及上游行星际磁场强度 $B _ { z }$ 和行星际磁场与太阳风之间的夹角 $\theta$
+
+本文在以上研究基础上，利用三维太阳风与磁层相互作用模型得到的数据，提出一个三维弓激波位型的新模型，并将模拟结果与其他典型模型模拟结果进行对比．所提出的弓激波模型主要考虑太阳风动压 $D _ { \mathrm { p } }$ 、快磁声马赫数 $M _ { \mathrm { f } }$ 、磁层顶曲率半径 $R _ { \mathrm { c } }$ 以及行星际磁场 $B _ { z }$ 分量和方向 $\theta$ 对弓激波三维位型的影响.
+
+# 1模型与数据
+
+本文研究基于太阳风与磁层相互作用的三维全球磁流体力学（MHD）模拟结果，设计出从其数据中识别弓激波位置的方法，建立弓激波模型后用得到的数据点进行拟合．使用的三维太阳风与磁层相互作用模型为美国密歇根大学开发的 SWMF[18]中的BATS-R-US (Block-Adaptive-Tree-Solar wind-Roe-Upwind-Scheme)[19-20],以理想单流体 MHD 方程为基础.
+
+使用全球MHD模型模拟时假设地磁倾角为零，太阳风速度只有 $\mathbf { \Psi } _ { x }$ 分量，行星际磁场只有南北分量，整个太阳风-磁层-电离层系统关于子午面与赤道面对称.对于 MHD 方程，取 GSM 直角坐标系,解域为 $- 7 0 R _ { \mathrm { e } } \ \leqslant \ x \ \leqslant \ 2 0 R _ { \mathrm { e } }$ ， $- 6 0 R _ { \mathrm { e } } \ \leqslant \ y \ \leqslant$ $6 0 ~ R _ { \mathrm { e } }$ ， $- 6 0 R _ { \mathrm { e } } \leqslant z \leqslant 6 0 R _ { \mathrm { e } }$ ，网格分辨率为 $1 . 2 5 R _ { \mathrm { e } }$ 在 $- 4 0 R _ { \mathrm { e } } \leqslant x \leqslant 2 0 R _ { \mathrm { e } }$ ， $- 4 5 R _ { \mathrm { e } } \leqslant y$ ， $z ~ \leqslant ~ 4 5 \ : R _ { \mathrm { e } }$ （204号区域内网格分辨率为 $0 . 6 2 5 R _ { \mathrm { e } }$ ，在 $- 2 5 R _ { \mathrm { e } } \ \leqslant \ x \ \leqslant$ $1 2 . 5 R _ { \mathrm { e } }$ ， $- 3 0 R _ { \mathrm { e } } \leqslant y$ ， $z \leqslant 3 0 R _ { \mathrm { e } }$ 区域内网格分辨率为 $0 . 3 1 2 5 R _ { \mathrm { e } }$ ；在 $- 4 0 R _ { \mathrm { e } } \leqslant x \leqslant 2 0 R _ { \mathrm { e } }$ ， $- 4 0 R _ { \mathrm { e } } \ \leqslant$ $y ~ \leqslant ~ 4 0 ~ R _ { \mathrm { e } }$ ， $- 4 0 R _ { \mathrm { e } } \leqslant z \leqslant 4 0 R _ { \mathrm { e } }$ 之间时网格分辨率为 $0 . 5 R _ { \mathrm { e } }$ ，而在中间区域 $- 5 R _ { \mathrm { e } } ~ \leqslant ~ x ~ \leqslant ~ 1 5 R _ { \mathrm { e } }$ $- 2 0 R _ { \mathrm { e } } \leqslant y$ ， $z \leqslant 2 0 R _ { \mathrm { e } }$ 的网格分辨率为 $0 . 2 5 R _ { \mathrm { e } }$
+
+# 2 弓激波位型判定
+
+在弓激波所在位置，上下游物理量应满足激波跃变条件.根据激波的跃变条件，在磁层MHD模拟数据中可以跟踪太阳风流体的等离子体参量发现弓激波所在位置.本文主要是通过太阳风等离子体密度在弓激波处发生的跃变来确定弓激波位置的，
+
+图1给出了行星际磁场北向时, $B _ { z } = 5$ ， $1 0 \mathrm { n T }$ $D _ { \mathrm { p } } = 1$ ，3， $\mathrm { 5 \mathrm { n P a } }$ ， $v _ { x } = - 4 5 0 \mathrm { k m } { \cdot } \mathrm { s } ^ { - 1 }$ 的太阳风条件下由全球MHD模拟数据确定的弓激波日下点距离与Chao 模型以及Chapman 模型的结果对比.可以发现，由MHD 模拟数据得到的弓激波日下点距离与Chao 模型的计算结果非常接近，一方面说明全球MHD模型计算的可靠性,另一方面还说明利用太阳风密度在弓激波处发生跃变的特性来确定弓激波位型的方法也具有可靠性.此外还可看出Chapman模型随着太阳风动压 $D _ { \mathrm { p } }$ 变化不大，而Chao 模型计算结果与本文MHD模拟数据中的弓激波日下点距离变化都较为明显，显然与同样基于物理模拟结果的 Chapman 模型相比,本文结果更加符合观测经验模型.比较 $B _ { z }$ 为 $\mathrm { 5 n T }$ 和 $1 0 \mathrm { n T }$ 情况下弓激波日下点距离，Chapman 模型与 Chao 模型及 MHD 模拟数据中的弓激波日下点距离差值更大．图2给出了条件为 $B _ { z } = 5 \mathrm { n T }$ ， $D _ { \mathrm { { p } } } = 5 \mathrm { { n P a } }$ 时，全球 MHD 模拟数据中的弓激波位型.
+
+# 3 三维弓激波位型模拟
+
+# 3.1 弓激波日下点距离模拟
+
+Farris 和Russell[13]早在1994年根据气体动力学理论提出了利用磁层顶曲率半径直接表示磁层顶对弓激波日下点距离影响的模型,在此基础上Chapman 模型和Chao 模型分别给出了阿尔芬马赫数与快磁声马赫数、太阳风动压以及行星际磁场对弓激波日下点距离的影响，比较不同太阳风条件下弓激波日下点距离分别与磁层顶曲率半径 $R _ { \mathrm { c } }$ (见图3)、阿尔芬马赫数 ${ M _ { \mathrm { A } } }$ （见图4a）以及快磁声马赫数 $M _ { \mathrm { f } }$ （见图4b)的关系．可以看出，弓激波日下点距离与磁层顶曲率半径具有简单的线性关系，同时快磁声马赫数及阿尔芬马赫数与弓激波日下点距离均存在双曲线关系，但是比较两者的相关系数可以发现，快磁声马赫数与弓激波日下点距离相关性更大，即快磁声马赫数能更好地用来描述弓激波日下点距离.
+
+![](images/9fd1f8836d67807882096c43efe2bd9969041ff915fc8eb199f3adf5966192b2.jpg)  
+图1数据模拟结果与Chao 模型及Chapman 模型 弓激波日下点距离 $ { \boldsymbol { a } } _ { \mathrm { s } }$ 的比较 Fig.1 Comparisons of the simulation data, Chao model,and Chapman model for the bow shock standoff distance
+
+![](images/fe0d3da05c4e93fbc9976c5e3042d69401dc9edeeb441906df7df20be847fc75.jpg)  
+图2MHD 模型数据中的三维弓激波位型Fig.2MHD simulation for the size and shape ofthree-dimensionalbowshock
+
+![](images/12306461acd2ae271d1da100416ff8e43c854ff716f2b2a0df4d5c1f91ad68cd.jpg)  
+图3弓激波日下点距离！ $( a _ { \mathrm { s } } )$ 与磁层顶曲率半径 $( R _ { \mathrm { c } } )$ 之间的关系.三角形为模拟数据的弓激波日下点距离，黑色实线为拟合结果.三角形对应的太阳风条件从左至右分别为 $B _ { z } = - 5$ ,5,-5,5,-5,5,-5,5nT,
+
+![](images/4897a57a3e8fec0ebe6c64a66242988b5ed37233787c6036b5ec1a6c2e076bfd.jpg)  
+Fig.3Relationships between the standoff distances of bow shock and curvature radius of magnetopause.The triangles are the results of simulation data and block solid line is their fitting line.Conditions of the solar wind corresponding to the triangles from the right to the left are, $B _ { z } = - 5$ ，5, $- 5$ ，5, $- 5$ ，5, $- 5$ ， $\mathrm { 5 n T }$ ， $D _ { \mathrm { p } } = 5$ ，5, 3,3,2,2,1, 1nPa, respectively   
+图4马赫数与日下点距离的拟合结果对比（方形和实线表示北向行星际磁场的结果,三角形与虚线表示南向行星际磁场的 结果.三角形或方块对应的太阳风条件从左至右分别为 $B _ { z } = 5$ ,5,5,5,10, $1 0 \mathrm { n T }$ ， $D _ { \mathrm { p } } = 1$ ,2, 3,5,1,2 nPa) Fig.4Relationships between the standoff distance and Mach numbers (Squares are the simulated shock locations and olidlinesare theirfitinglines for north-IMF,trianglesare simulation shock locationsand dotedlinesare their fiting lines for south-IMF.Conditions of the solar wind corresponding tothe triangles or squares from the right to the left are, $B _ { z } = 5$ , 5, 5, 5, 10, $1 0 \mathrm { n T }$ ， $D _ { \mathrm { p } } = 1$ , 2, 3,5,1, 2 nPa, respectively)
+
+结合图3和图4的关系以及文献[13]在气体动力学条件下给出的弓激波日下点距离模型，可以给出 MHD数据中弓激波日下点距离，即
+
+$$
+a _ { \mathrm { s } } = R _ { \mathrm { c } } \Big [ \frac { r _ { \mathrm { m p } } } { R _ { \mathrm { c } } } + K \frac { ( \gamma - 1 ) M _ { \mathrm { f } } ^ { 2 } + 2 } { ( \gamma + 1 ) ( M _ { \mathrm { f } } ^ { 2 } - 1 ) } \Big ] .
+$$
+
+其中， $M _ { \mathrm { f } }$ 为快磁声波马赫数（代替Chapman 模型中的阿尔芬马赫数); $R _ { \mathrm { c } }$ 为磁层顶曲率半径; $r _ { \mathrm { m p } }$ 为磁层顶对日点到地心的距离； $K$ 为待定系数，需根据MHD模拟数据确定的弓激波日下点距离进行拟合而得到.通过文献[21]的磁层顶经验模型，有
+
+$$
+r _ { \mathrm { m p } } = \left\{ \begin{array} { l l } { ( 1 1 . 4 9 4 + 0 . 0 3 7 1 B _ { z } ) D _ { \mathrm { p } } ^ { \frac { - 1 } { 5 . 2 } } , } & { B _ { z } \geqslant 0 ; } \\ { ( 1 1 . 4 9 4 + 0 . 0 9 8 3 B _ { z } ) D _ { \mathrm { p } } ^ { \frac { - 1 } { 5 . 2 } } , } & { B _ { z } < 0 . } \end{array} \right.
+$$
+
+这里 $B _ { z }$ 为行星际磁场强度， $D _ { \mathrm { p } }$ 为太阳风动压,按照文献[22]即可计算得到磁层顶曲率半径
+
+$$
+R _ { \mathrm { c } } = { \frac { 2 r _ { \mathrm { m p } } } { 2 - \alpha } } .
+$$
+
+其中,
+
+$$
+\alpha = \left\{ \begin{array} { c } { 0 . 5 4 3 - 0 . 0 2 2 5 B _ { z } + 0 . 0 0 5 2 8 D _ { \mathrm { p } } + } \\ { 0 . 0 0 2 6 1 B _ { z } D _ { \mathrm { p } } , \quad B _ { z } \gtrsim 0 ; } \\ { 0 . 5 4 3 + 0 . 0 0 7 9 B _ { z } + 0 . 0 0 5 2 8 D _ { \mathrm { p } } - } \\ { 0 . 0 0 0 1 9 B _ { z } D _ { \mathrm { p } } , \quad B _ { z } < 0 . } \end{array} \right.
+$$
+
+在已知太阳风快磁声波马赫数，行星际磁场和太阳风动压的条件下,将式 $( 2 ) { \sim } ( 4 )$ 带入式(1)获得 $K$ 值的大小.通过拟合计算发现 $K$ 值的变化范围较大，同时其与行星际磁场和太阳风动压存在一定关系，如图5所示.
+
+从图5可以看出， $K$ 值分别与行星际磁场 $B _ { z }$ 及太阳风动压 $D _ { \mathrm { p } }$ 存在线性关系，从而可拟合出 $K$ 值与 $B _ { z }$ 及 $D _ { \mathrm { p } }$ 的关系如下:
+
+$$
+K = 0 . 8 4 4 9 + 0 . 0 2 8 7 B _ { z } - 0 . 0 1 7 D _ { \mathrm { p } } .
+$$
+
+# 3.2 弓激波三维位型模拟
+
+从Chapman模型可以看出，弓激波三维模型可以用一个抛物面来描述，用数学关系式表达即为
+
+$$
+x = a _ { \mathrm { s } } - b _ { \mathrm { s } \varphi } r _ { \varphi } ^ { 2 } .
+$$
+
+式（6）中的漂移参量 $b _ { \mathrm { s } \varphi }$ 可以视为一个表示磁鞘厚度的参量,用来表示磁层顶对弓激波位型的影响. $b _ { \mathrm { s } \varphi }$ 与 $ { | a _ { \mathrm { s } } | }$ 之间的关系可表示为
+
+$$
+\begin{array} { r l } & { L = \Big ( A _ { \varphi } + \frac { B _ { \varphi } } { M _ { \mathrm { f } } ^ { 2 } } \Big ) \Big ( \frac { P _ { \mathrm { r a m } } } { 1 . 8 7 \mathrm { n P a } } \Big ) ^ { - \frac { 1 } { 6 } } , } \\ & { \frac { b _ { \mathrm { s } } } { a _ { \mathrm { s } } } = \frac { 1 } { L ^ { 2 } } . } \end{array}
+$$
+
+其中,
+
+$$
+\begin{array} { l } { { A _ { \varphi } = i + j | \cos \varphi | + k \cos ^ { 2 } \varphi , } } \\ { { B _ { \varphi } = l + m | \cos \varphi | + n \cos ^ { 2 } \varphi . } } \end{array}
+$$
+
+![](images/20e913952f6a063a88f956eb1c2c981c108aace985d6b72f3fe8b7c03f1d6810.jpg)  
+图5 $K$ 值与行星际磁场 $B _ { z }$ 及太阳风动压 $D _ { \mathrm { p } }$ 的关系 (三角形为计算结果,实线为拟合结果) Fig.5Relationships between $K$ ， $B _ { z }$ and $D _ { \mathrm { p } }$ (Triangles are results from the calculation, and solid lines are their fitting lines)
+
+在南北向行星际磁场条件下，各选取6组不同快磁声马赫数的MHD 模拟数据，利用麦夸特算法在每个弓激波平面内拟合出式(9)和式(10)中的参数值，结果列于表1.所选取12组数据的太阳风动压分别为 $D _ { \mathrm { p } } = 1 , 3 , 5 \mathrm { n P a }$ 。行星际磁场 $B _ { z } = \pm 5$ ， $\pm 1 0 \mathrm { n T }$
+
+在 $B _ { z } ~ = ~ 5 \mathrm { n T }$ ， $D _ { \mathrm { { p } } } ~ = ~ 1 \mathrm { { n P a } }$ 的太阳风条件下,对子午面Chao 模型、Chapman 模型、新模型以及 MHD 模拟数据中的弓激波位型进行比较，结果如图6所示．从图6可以看出，低纬地区即日地连线附近，Chao模型及新模型模拟出的弓激波位型较符合MHD模拟数据中的弓激波位型；在中低纬地区，Chapman模型的弓激波位型更符合MHD模拟数据中的弓激波位型；对于高纬地区，新模型模拟出的结果较好.同时比较各模型与MHD 模拟数据中的弓激波位型可知，弓激波位型不是简单的抛物面，在磁层顶极尖区附近存在较为明显的凹陷变化区．可以得出，与其他现有模型相比新模型更能准确表达弓激波的位型.
+
+表1拟合参数Table 1 Fitting parameters  
+
+<html><body><table><tr><td>IMF</td><td>i</td><td>l</td></tr><tr><td>+90°</td><td>19.9571</td><td>142.9056</td></tr><tr><td>-90°</td><td>21.367</td><td>102.635</td></tr></table></body></html>
+
+# 4行星际磁场对弓激波位型的影响
+
+图7给出了不同行星际磁场及方向下弓激波位型的比较.从图7可以看出，随着快磁声马赫数的增大，弓激波磁尾部分被压缩得更厉害，即二维平面内弓激波的张角随着快磁声马赫数的增大而减小，与行星际磁场北向时相同；比较行星际磁场为南向时同一太阳风条件下子午面与赤道面弓激波位型具有明显的不对称性，子午面弓激波的张角要大于赤道面弓激波张角，与行星际磁场北向时相反，同时快磁声马赫数越小，子午面与赤道面弓激波位型的不对称性越明显；随着快磁声马赫数的变化，子午面弓激波的位型已不是简单的抛物线形状,快磁声马赫数为10.2,9.0,5.6时，磁层顶极尖区附近存在较为明显的凹陷变化区，赤道面弓激波位型仍为简单的抛物线形状
+
+![](images/501fd07f9e73a96c23893ee61637511e574adb90a5f4a34211fae251a1fb5d90.jpg)  
+图6子午面内弓激波模型的比较结果.白色实线为 MHD 模拟数据中的弓激波位型，粉色实线、红色实线、黑色实线分别 表示新模型、Chao 模型与Chapman 模型的弓激波位型 Fig.6Comparisons between simulated shock surface and two previously published models in the meridian plane. The whitesolid line represents the bow shock in simulationdata.The pink solid line,red solid line,and black solid line are the bow shock surfaces from the new model, Chao model,and Chapman model,respectively
+
+胡慧萍等：地球弓激波的三维模拟
+
+![](images/fbf145c55591d37edec7ff980113b8e9394883db3ba04a321bcde38af02c46b2.jpg)  
+图7不同行星际磁场及方向条件下弓激波位型的比较  
+Fig.7Comparisons of the size and shape of bow shock under different direction and strength of IMF
+
+# 5结论
+
+通过对现有弓激波位型模型的改进，提出一种弓激波位型的新模型.新模型在考虑太阳风等离子体参量的同时还考虑了磁层顶对弓激波位型的影响．弓激波新模型涉及的主要参量包括行星际磁场 $B _ { z }$ 、太阳风动压 $D _ { \mathrm { p } }$ 、快磁声马赫数及磁层顶曲率半径．将新模型与Chao 模型及Chapman 模型的模拟结果进行比较，分析在不同行星际磁场条件下子午面及赤道面弓激波位型的变化，可以得出以下结论
+
+(1)行星际磁场北向时，随着快磁声马赫数的增大，弓激波日下点距离减小．在行星际磁场南向时，快磁声马赫数的变化对弓激波日下点距离影响不大
+
+(2)弓激波位型在赤道面与子午面上存在明显的 不对称性,子午面内弓激波的张角要小于赤道面内弓 激波张角，同时快磁声马赫数越小，子午面与赤道面 内弓激波位型的不对称性越明显.而且随着行星际磁 场的转向，这种非对称性也会发生相应改变
+
+(3)行星际磁场南向 $B _ { z }$ 值较小时，子午面弓激波位型已不再是简单的抛物线，出现了明显的与极尖区磁层顶类似的凹陷变化区．这种现象是由于磁层顶极尖区直接影响的结果.
+
+# 参考文献
+
+[1]Wang Jingsong,Lüi Jianyong.Space Weather [M].Beijing: China Meteorological Press,2010.In Chinese（王劲松，吕 建永.空间天气学[M].北京：气象出版社，2010)   
+[2] Fairfield D H. Average and unusual locations of the Earth's magnetopause and bow shock[J].J.Geophys. Res.,1971, 76:6700   
+[3] Slavin JA,Holzer R E.Solar wind flow about the terrestrial planets [J]. J. Geophys.Res.,1981,86:11 401-11418   
+[4] Farris M H, Petrinec S M,Russell C T.The thickness of the magnetosheath - Constraints on the polytropic index[J].Geophys.Res.Lett.,1991,18:1821-1824   
+[5] Russell C T, Zhang T L. Unusually distant bow shock encounters at Venus[J].Geophys.Res.Lett.,1992,19:833   
+[6] Verigin M,Kotova G A,Shutte N,et al.Quantitative model of the Martian magnetopause shape and its variation with the solar wind ram pressure based on Phobos-2 observations [J].J.Geophys.Res.,1997,102(A2):2147- 2156   
+[7] Cairns I H,Lyon JG.MHD simulations of Earth's bow shock at low Mach numbers: Standoff distances [J].J. Geophys.Res.,1995,10:17173-17180   
+[8]Peredo M,Slavin JA,Mazur E,et al.Three-dimensional position and shape of the bow shock and their variation with Alfvénic,sonic,and magnetosonic Mach numbers and the interplanetary magnetic field orientation [J].J. Geophys.Res.,1995,100:7907-7916   
+[9] Chapman JF,Cairns IH.Three-dimensional modeling of Earth's bow shock:Shock shape as a function of Alfvén Mach number[J]. J.Geophys.Res.,2003,108:1174   
+10] Chapman JF,Cairns I H.MHD simulations of Earth's bow shock: Interplanetary magnetic field orientation effects on shape and position[J].J.Geophys.Res.,2004, 109:A04 215   
+11] Julian H, Seiff A,Canning T N,et al. Gas Dynamics in Space Exploration [M].Washington: The United States Government Printing Office,1962   
+[12] Spreiter J R,Briggs B R.Theoretical determination of the form of the boundary of the solar corpuscular stream produced by interaction with the magnetic dipole field of the Earth [J].J.Geophys.Res.,1962,67:37   
+[13] Farris M H,Russell C T.Determining the standoff distance of the bow shock:Mach number dependence and use of models [J]. J. Geophys.Res.,1994, 99:17681-17 689   
+[14] Lavraud B， Borovsky J E. Altered solarwindmagnetosphere interaction at low Mach numbers:Coronal mass ejections[J].J.Geophys.Res., 2008,113:A00B08   
+[15] Bennett L,Kivelson MG,Khurana,KK,et al.A model of the Earth's distant bow shock [J]. J. Geophys. Res., 1997,102:26 927, doi: 10.1029/97JA01906   
+[16] Chao JK,Wu DJ,Lin CH,et al.Models for the size and shape of the Earth's magnetopause and bow shock [J]. Proc.COSPAR Colloq.,2002,12:127-135   
+[17] Hu Youqiu,Peng Zhong，Wang Chi. Rotational asymmetry of Earth's bow shock[J].Chin.J.Geophys.,2010, 53(4):773-781.In Chinese(胡友秋,彭忠，王赤.地球弓激波 的旋转飞对称性[J].地球物理学报，2010,53(4):773-781)   
+[18] T6th G, Sokolov I V,Gombosi TI, et al. Space Weather Modeling Framework:A new tool for the space science community[J].J.Geophys.Res.,2005,A12226   
+[19] Powell K G,Roe P L,Linde T J,et al.A solutionadaptive upwind scheme for ideal magnetohydrodynamics [J].J.Comput.Phys.,1999,154:284-309   
+[20] De Zeeuw D L, Sazykin S,Wolf R A,et al. Coupling of a global MHD code and an inner magnetospheric model: Initial results [J].J.Geophys.Res.,2004,A12219   
+[21] Lü J Y,Liu Z Q,Kabin K, Jing H, Zhao M X,Wang Y. The IMF dependence of the magnetopause from global MHD/simulations [J].J.Geophys.Res.,2013,118:3113- 3125   
+[22]Verigin M,Kotova GA,Szabo A,et al.Wind observations of the terrestrial bow shock:3-D shape and motion [J]. Earth Planet.Space,2001,53(10):1001-1009

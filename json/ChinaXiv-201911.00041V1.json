@@ -1,0 +1,343 @@
+[
+    {
+        "type": "text",
+        "text": "平行智能风沙防治系统构架与功能以植物措施为例",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "常方乐1,²，康孟珍1²，王秀娟1,²，王永东³，雷加强³，王飞跃1,4（1．中国科学院自动化研究所复杂系统管理与控制国家重点实验室,北京100190;  \n2．青岛智能产业技术研究院智慧农业研究所，山东 青岛266109；  \n3．中国科学院新疆生态与地理研究所国家荒漠—绿洲生态建设工程技术研究中心,新疆 乌鲁木齐830011;  \n4．中国科学院自动化研究所北京智能技术工程研究中心,北京100190)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：风沙活动复杂多变,使得风沙危害治理周期长、难预测、难评估。目前的风沙防治模拟系统主要基于物理建模框架,由于在受控环境中构建,预测结果容易偏离实际系统。本文从风沙运动物理原理着手,结合人工智能技术构建知识和数据共同驱动风沙防治模型。针对系统的复杂性,提出了一种借鉴实际工程与虚拟实验相互学习的基于ACP（人工社会 $^ +$ 计算实验 $^ +$ 平行执行)平行系统理论的风沙平行防治系统,预测不同风沙防治行为对风沙活动以及防治效果的影响。其中防治行为为植被种植情况,防治效果通过地表荒漠化程度表达。同时对风沙防治效果进行三维可视化展示，为风沙防治工程项目提供实施前、实施期间的决策支持。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：风沙防治系统；平行智能；计算实验；植物措施；三维地理信息可视化",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "荒漠化以及土壤退化成为影响全球社会经济的环境问题，沙尘暴、土壤风蚀、流沙入侵等引起学界广泛的关注。风沙流和沙丘移动可以对农业、林业、公路、铁路和其他通讯系统以及配电系统构成重大威胁[1]。悬浮在空中的粉尘颗粒物可以传输千里，进而影响气候、生产系统生产力、水循环等。如何应对风沙问题，并对其进行有效的治理，其涉及到多个研究领域。风沙的动态性大大提高了防护治理的难度。例如在国内外荒漠地区，为保护高速公路免受风沙干扰,已使用大量人力和物资[2]。通常这种治理需要依靠治沙工程人员经过常年摸索而积累的防治与管理经验[1]。由于缺乏对这一过程的精准预测以及直观展现，使得风沙危害治理周期长、难预测、难评估，很难提供有效精准的治理决策。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着对土地荒漠化及土壤退化等问题的重视，环境预测模型方法越来越受到关注。自Bagnold[3-4]开发第一个基于物理过程的风沙运动数值模型以来，对于风沙运动数值模型的研究有了更精准更全面的发展。然而，基于物理过程建模，即知识驱动型模型，虽然具有较好的机理性，但普遍存在着可预测性较差及无法处理数据或变量增减的问题[5-6。另外,当人为防治干扰施加于自然风沙系统时，基于物理过程的模拟误差也将逐渐变大。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "人工智能技术的发展，使得基于数据驱动的建模方式引起了广泛关注,例如神经元网络模型[7-9]支持向量机[1]等。数据驱动模型对研究假设的限制较少，能够模拟非线性关系，拥有较强的预测能力以及适应多元系统输入的灵活性，而将输入输出之间的关系视为黑箱却无法保留系统的物理结构信息。如何综合知识和数据驱动模型的长处，避其不足，是近年来人工智能技术应用的方向之一。Fan等[1]结合知识驱动与数据驱动建模方法构建了一种基于知识与数据共同驱动的模型。在此类方法中，领域特定知识构造的语法或规则被嵌入到数据驱动模型中，以选择最适合数据的候选模型。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "风沙危害治理是通过人工措施，增加地表粗糙度，降低贴地表风速，减少被吹蚀的沙颗粒，以及增加可供植物生长的土壤养分或者水分等，典型的方法包括物理学方法[12]、生物学方法[13-14]以及化学方法[15]。Baas(16]指出,风成地貌过程是一个复杂系统，其本质性困难是内部各元素之间的非线性交互和反馈无法动态关联[17]。当风沙防治工程作为干扰加入系统，系统复杂性增加,模拟系统更加偏离实际系统，而对风沙防治效果预测的精准度直接影响治理决策。针对这一问题，本文基于ACP（人工社会 $^ +$ 计算实验 $^ +$ 平行执行)的平行理论(18],通过虚拟系统与实际状态的比较与学习，对系统进行实时的更新与校准，以实现高效的决策支持服务。ACP理论主要用来模拟、分析、控制复杂系统，包括应用虚拟建模来表达拟解决的问题，通过计算实验进行分析和评估，通过实际系统和虚拟系统的平行执行进行控制和管理[19]。其中，虚拟风沙防治系统的构建将基于知识与数据共同驱动的模型，实际风沙防治系统作为学习对象。本文主要提出3个研究目标： $\\textcircled{1}$ 在物理过程建模的基础上，结合神经元网络构建知识和数据共同驱动风沙防治模型，以适应实际系统环境。 $\\textcircled{2}$ 模拟不同治理措施和方案对风沙运动的影响以及对风沙防治的效果，并对过程进行三维场景可视化。 $\\textcircled{3}$ 基于ACP的平行理论，构建平行风沙防治系统，提供决策支持。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "平行智能风沙防治系统框架",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "平行智能风沙防治系统的主要目的是，通过虚拟风沙防治系统与实际风沙防治系统的交互和执行，对二者的行为进行比较和分析，完成对各自未来状况的“借鉴”和“预估”，相应地调节各自的管理和控制方式，达到实施有效的解决方案以及学习和引导的目的。在系统运行中，各种反馈控制使得系统能够自适应于不同治理方案。当前广泛应用的构造虚拟系统的主要手段是应用代理的方法面向对象建模，例如风沙防治工程等。应用代理的方法进行计算实验,使其拥有自主、社交、学习和进化以及自适应的能力，来决定哪些因素对系统的输出最有影响，如何设置有影响的可控因素或决策，以便使系统的输出总是接近希望的水平且其变化范围较小，或者是不可控因素和决策的作用最小。同时，在虚拟系统中评估不同的解决方案，以便为管理和决策提供依据。图1给出了平行智能风沙防治系统的框架，根据相应的数据信息对不同的风沙活动进行模拟，同时模拟人为防治工程等对风沙活动的影响，通过三维展示为风沙治理提供决策支持。治理行为和效果可作为原始数据返回虚拟系统，为可能发生的风沙问题提供防治支持。虚拟风沙防治系统试图尽可能地靠近实际系统，对其行为进行预估，从而为寻找对实际系统有效的解决方案或对当前方案进行改进提供依据。进一步，通过观察实际系统与虚拟系统评估状态之间的不同，产生误差反馈信号，对虚拟系统的评估方式或参数进行修正，以减少误差，并开始分析新一轮的优化和评估。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/95bb00e6ad50140283ebef58e85cd53f91e836c5a0443266e0b0a1f3ba18b58e.jpg",
+        "img_caption": [
+            "图1风沙防治系统框架",
+            "Fig.1The framework of aeolian sand prevention and control "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "虚拟风沙防治系统与实际风沙防治系统的平行执行涵盖了描述、预测、引导3个层次。通过描述构建虚拟风沙防治系统，将描述方式逐渐依据直接控制系统行为的“牛顿定律”进行建模转向通过只能间接影响系统行为的“默顿定律”进行建模[20]。基于计算实验，在描述的基础上对风沙防治的未来发展进行预测和评估。同时，结合描述和预测2个层次找到有利的或优化的风沙防治方案，在平行执行过程中两者持续地相互作用、相互反馈、相互引导。通过对比分析所有可能方案，引导进行直接用于决策的建议或者方案。基于ACP的平行系统已成功应用于多种复杂系统的研究,包括平行交通[19、平行农业[20]、平行眼[21]等。其在风沙防治模拟和预测方面的应用将是一个崭新的可持续发展的新方向。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2数据和知识",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将风向、风速和沙丘的形态或位置变化作为研究风沙活动的测量值是最普遍的方法之一。其中，测量风向和风速的电子传感器技术已被广泛应用，并且测量精度也日趋精准。地表测量一般包括实地调查、木桩监测等适应于单个小体积沙丘，捕砂器、风速仪、跳跃通量冲击响应器等适应于小范围沙地。当测量范围扩大，地表测量将面临更多挑战，使得其应用变得困难，此时加入空中拍摄方法可以帮助解决这些问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "20世纪70年代自遥感技术应用于沙丘绘图及分类起，遥感图像提供的远景视角促进了从单一沙丘到沙丘场的学习。近期，随着遥感数据光谱和空间分辨率的改善，大大增强了研究人员对风沙特征以及活动的学习能力。也使得风沙研究可以涉及更广阔的研究范围，例如风沙运动、风沙防治效果监测等。遥感技术的不断更新提高了遥感图像的时空分辨率,也使得模拟精度越来越高。需要注意的是，地表测量在某些场景下可能更高效，遥感技术的成本较高，且数据获得比较困难。面对地表测量范围的局限性以及遥感测量的高成本问题，无人机技术的兴起提供了一种潜在的解决办法。无人机拍摄的照片其高度可以落在几米到几千米之间[22]。近几年,无人机采集沙丘地表图像数据主要应用于沿海地区的沙地,用来进行三维模拟[23-24]。这也预示着将此技术应用于风沙防治的可行性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "遥感数据和无人机数据可以同时应用于三维场景模拟。三维可视化应用数据的选取是可视化表达的重要一步，它关系到可视化表达的效果和精度，除了需要有高精度的遥感影像数据，正射影像图（DOM）数字高程模型（DEM）、数字线划图（DLG）也是必不可少的。同时，进行地面调查信息采集，为模型提供更全面更精准的数据。地面调查通常包括对具有典型特征的实物进行拍照，形成图片、视频等资料。此外，需要对局部细节进行纹理采集，如建筑纹理、地形纹理、道路纹理、岩石纹理、植物纹理、水纹理等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1归纳了可应用于本研究的3个数据类型：$\\textcircled{1}$ 研究数据，主要包括卫星遥感数据、无人机数据、航拍数据、野外观测和测量数据（如风况信息等）、实验测试分析数据（如沙通量等）等； $\\textcircled{2}$ 工程数据，主要包括工程量、材料信息等; $\\textcircled{3}$ 经验数据，主要包括风沙防治经验、风沙防治案例等。这些数据是构建风沙运动数值模型和风沙危害指标评估模型的基础。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/132de7773c075138a376f2bafeb6db887f6537d7c6ff8d3d5be3991c039718bb.jpg",
+        "table_caption": [
+            "表1风沙防治系统数据类型",
+            "Tab.1 Data types of aeolian sand prevention and control "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>数据类型</td><td>应用</td><td>数据内容</td></tr><tr><td></td><td>研究数据地表情况变化[25-26],沙通量 计算[27]，描述沙丘活动[28] 地貌制图[29],风沙/沙丘活动 监测[30-32]，沙地环境监</td><td>遥感数据 野外观测和测量数据 实验测试分析数据</td></tr><tr><td></td><td>测[31],沙丘活动模型[33-34]等 工程数据风沙防治工程造林[35]等</td><td>工程量</td></tr><tr><td>经验数据风沙防治措施[1]等</td><td></td><td>材料数据 风沙防治经验 风沙防治案例</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3决策支持",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 风沙描述",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.1风沙运动数值模型和风沙危害指标评估模型（知识驱动子模型）现今普遍应用的2种风沙运动数值模拟方法为： $\\textcircled{1}$ 形态动力学模型，即连续模型，常用于模拟平整的沙堆和平缓的坡度; $\\textcircled{2}$ 元胞自动机建模，即离散模型，被广泛应用于研究沙丘地的长期演变。相较于前者，离散模型提供了更简单、计算成本更低的模拟沙丘动态的数值分析工具。但是由于缺少沙通量和风轮廓线的物理模拟，且没有明确规定模型传输规则中长度以及时间标度，因此，应用此种模型并不能保证对风沙运动的稳定分析。风沙运动数值模型的构建和选择需要依据实际环境情况,例如有植被覆盖情况下的沙丘运动[36、无植被覆盖下的沙丘运动[37]和无干扰情况下的风沙运动[38]等。本文对风沙运动数值模型的选择主要依据3点：实验区域的地理环境信息、风况信息，以及风沙防治工程信息情况。为确保风沙活动物理过程计算的稳定性，采用连续模型。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对风沙防治效果的评估可以通过风沙危害指标评估模型来表达。影响风沙危害的主要指标系数与地理信息相结合，可以引导对土地的可持续管理以及高效防治。风沙防治效果评估可从沙通量变化、地表风蚀情况、沙丘移动趋势、风速改变等着手[39-45]。高精度的遥感数据也促进了风沙危害指标评估模型的发展，同时为风沙防治效果提供了评估依据，使得风沙防治工程有效的实施。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.2神经元网络模型（数据驱动子模型）神经元网络模型一般包含3层：输入层、隐藏层和输出层。输入值可以通过构建成向量的方式由输入层导入隐藏层。模型通过反向传播算法自动更新预测算法，使得模型输出值可以无限接近目标值。平衡模型预测精度与时间成本之间的关系，一般采用均方差（MSE)的方法。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { M S E } = \\frac { 1 } { n } { \\sum _ { i = 1 } ^ { n } } ( \\mathrm { \\Delta } Y _ { i } - \\hat { Y } _ { i } ) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $n$ 代表输出值和目标值个数; $Y _ { i }$ 为目标值; $\\hat { Y } _ { i }$ 为输出值。当均方差趋于稳定时，说明继续训练模型不会明显地提高模型精准度，反而会增加时间成本。因此，如何设置模型训练次数需要结合实际而定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于构建的风沙运动数值模型和风沙危害指标评估模型，选取适合实验区域的物理过程模型，其中风沙活动数值模型的输出值为数据驱动模型的输入值，风沙危害指标评估模型的输出值为数据驱动模型的目标值。通过神经元网络模型建模，建立2种物理模型之间的联系，实现2种不同数据的连接，进而提高模型的效率和精准度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2风沙防治效果预测与评估(知识和数据共同驱动模型）",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将知识驱动子模型与数据驱动子模型耦合互动关联（图2），实现对地表荒漠化程度预测，可以将复杂的物理过程通过智能算法表达，同时降低因过多物理量计算而产生的预测误差。知识和数据共同驱动模型可以灵活地添加减少数据或者变量。并且当风沙防治工程干扰风沙活动和风沙危害时，模型可以通过自适应预测风沙危害情况，从而构建ACP方法中的虚拟系统。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e985a89299dcaf94b01610f5d64c41b8f15de2200c630f6bca27d217cc003e9a.jpg",
+        "img_caption": [
+            "图2知识和数据共同驱动模型Fig.2Model drivenby knowledge and data"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3 风沙防治方案",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "植被种植是常见的风沙防治方法，一般可以在城市周边或者公路铁路两侧实施。种植方案包括种植颗数、种植排数、植被品种等。人为植被种植工程需要大量的人力物力，且治理周期长，通过构建虚拟智能模型预测不同风沙防治方案下的效果，提高治理效率。通过风沙防治效果评估，选择最优方案，降低投入成本。通过对风沙危害的描述以及预测评估，从而引导对风沙防治方案的选取、构建和调整。例如植被的排数对风沙防治的作用以及效果，当排数增加或减少时，根据风沙防治效果的波动情况进行调整和修改，确定后的风沙防治方案信息会反馈回系统内部，为风沙防治提供决策支持。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "风沙防治需要大量不同品种、不同年龄阶段的植被，而对于植被的实体建模，往往采用Billboard方式进行处理，传统方法的不足，模型单一、不真实。基于中法合作，发展了GreenLab植物功能结构模型方法，该模型将植物功能与结构相结合，实现植物内在参数描述，使植物生物量产生与分配等方面更优势。实现了各种植被动态生长过程的模拟，涵盖了从简单田间作物到复杂百年树木的多种植被。将植被建模与大面积场景可视化技术相结合，可以实现大面积的树木景观3D可视化模拟（图3）。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4bfe7c7b2a6e89d9512d0579053c6ce20976879b9328fc3fe398bce70e6a6978.jpg",
+        "img_caption": [
+            "图3植物模型三维对象示例图",
+            "Fig.3Three-dimensional object diagram of plant model "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4执行应用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1风沙防治的平行学习和决策 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "针对逐渐复杂化的风沙防治模型，如何进行管理和决策是关键。随着人工智能方法(AI)在近代的快速发展，面向复杂系统管理和控制的平行智能方法被提出。平行智能风沙防治是平行智能面向风沙防治的实际应用，主要包括用于建模的虚拟系统、用于分析的计算实验和用于控制的平行执行(46-47]。 ○利用大数据作为输入，基于现有数据、知识、经验甚至直觉，可以通过学习来设计和构建与物理对象、过程、系统和人并行的软件定义对象（SDO）、软件定义过程（SDP）、软件定义系统（SDS）和软件定义人（SDH)[48]。有了软件定义的一切,计算实验可以进行，产生大量的“虚拟数据”。随后，这些数据被用于强化学习，以提高智能和决策能力。同时，根据不同的条件对决策进行评估。最后，物理对象、过程和系统与SDOs、SDPs和SDSs相互作用，形成一个闭环反馈决策过程来控制和管理复杂系统。这就是基于信息物理系统的平行智能的核心思想。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "传统的人工智能(AI)方法遵循牛顿定律：在给定当前状态与系统控制条件下，下一步的状态便可求解(小数据，大法则)。平行智能方法遵循默顿定律：即使给定当前状态与系统控制条件，下一步的状态也难以求解，因为系统会受到预测的影响而改变（大数据，小法则)。两者的本质区别是人必须参与到循环中，而对现实的演算是系统中处理某种可能性的一个过程。仅对风沙活动与风沙防治效果之间的联系进行描述，采用牛顿系统在一定的范围内可行。然而自然环境中的风沙活动是非常复杂的，面对不可控的模拟环境，实际中更偏向于采用基于数据和智能算法的模型。如图4所示，通过采集数据",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "添加由平行控制产生的新原始数据 数据采集选取的特 通过软件定义原始数据 定小数据 软件定义的 防拟系统 数据预处理A混合生成的虚拟数据行动 大数据 数据和原始数据基于计算实验 基于计算实验的预测学习和 的预测学习和智能化的 集成学习 集成学习，以知识 提取特宇 及平行控制和行控制 平行控制和 指示学习指示学习注：实心箭头代表数据生成或数据学习；空心箭头代表行动和数据之间的交互。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将风沙活动特征量化为数据，即为原始数据，从中选取特定的“小数据”输入到软件定义的风沙活动预测和风沙防治效果评估虚拟系统中，进而产生大量新的数据。这些人工数据结合特定的小数据，构成解决问题所需要学习的“大数据”集合，用来更新模拟模型。从人工生成的大数据中学习，得到应用于风沙防治行为的智能化知识。平行控制和平行决策则引导系统进行特定的数据采集，从而获得新的原始数据，进行新一轮的平行学习。引入指示学习，提供方向性指示的同时，不过多限制中间探索的过程。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2风沙防治效果的三维可视化展示",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于模型计算和可视化方式，可模拟不同时间段预期的荒漠化的土地现状分布以及景观变化，提供对未来场景直观的表达（图5）。所有在演示容器界面的操作将返回系统内部进行处理，再返回界面显示相应的处理结果。用户不需要理解系统内部的复杂性即可得到需要的处理信息。基于Web的客户端可不受用户地理位置的限制共享和展示整个风沙防治方案，大大提高了沟通和治理的效率与可能性。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b250ef5716891af9aef7c51980e036e384d17be075aca9d6e1cf71175467a007.jpg",
+        "img_caption": [
+            "图4平行学习的理论框架图[49) ",
+            "Fig.4The theoretical framework of parallel learning ",
+            "图5荒漠化三维场景模拟",
+            "Fig.5Three-dimensional scene simulation of desertification "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5讨论与结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文提出了将平行智能应用于风沙防治的方法。风沙活动复杂多变，现今模拟风沙活动的模型大多采用物理建模方法，使得面对实际复杂的风沙场景时预测精度无法实现。面向复杂系统的平行智能方法已成功应用于多种研究方向。将其结合于风沙运动模拟，突破物理建模的边界，并在其基础上实现模型的智能化自我学习，尽可能的接近实际模型，提高对后者的预测精度，从而有望突破模型的限制，实现对风沙防治的动态模拟和平行调控。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "构建的知识和数据共同驱动风沙防治模型可作为平行系统中软件定义的虚拟系统，通过计算实验产生大数据，作为计算实验的基础。因此，平行风沙防治并非脱离现有模型基础，而是提出一种模型用于实际系统的途径。根据系统目标的不同，对模型进行必要的选择和裁剪。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "未来实施平行智能风沙防治包括采集所选沙地的地理环境信息、选择适宜风沙危害指标评估的适宜模型，对其进行三维场景建模,直观展示风沙防治方案;应用人工智能技术，结合风沙运动数值模型构建知识和数据共同驱动模型，预测不同风沙防治方法的效果；同时为风沙防治这一复杂工程提供决策支持。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Dong Z,Chen G,He X,et al.Controlling blown sand along the highway crossing the Taklimakan Desert[J].Journal of Arid Environments,2004,57(3):329-344.   \n[2] Livingstone I,Warren A.Aeolian Geomorphology:An Introduction [M].Singapore:Longman Singapore Publishers（Ptc）Ltd,1996： 211.   \n[3] BagnoldR A.The movement of desert sand[C]//Taylor G I.Proceeding of the Royal Society of London.Mathematical and Physical Sciences,1936:594-620.   \n[4] Bagnold R A.The physics of blown sand and desert dunes:Methuen [J].Nature,1941,18(4):167 -187.   \n[5] Iversen JD,Rasmussen K R.The effect of wind speed and bed slope on sand transport[J]. Sedimentology,1999,46（4）:723- 731.   \n[6] Andreotti B.A two-species model of aeolian sand transport[J]. Journal of Fluid Mechanics,2004,510:47-70.   \n[7] Chang F,Heinemann P H.Prediction of human response to dairy operation odor utilizing electronic nose and neural networks[J]. Transactions of ASABE,2018,61(2) :399-409.   \n[8]Chang F,Heinemann P H. Optimizing prediction of human assessments of dairy odors using input variable selection[J]. Computers and Electronics in Agriculture,2018,150:402-410.   \n[9]Chang F,Heinemann P H.Prediction of human assessments of dairy odor utilizing a fast gas chromatograph and neural networks [J]. Computersand Electronics in Agriculture,2019,157:541- 548.   \n[10]Xu E Q,Zhang H Q,Li M X.Object-based mapping of karst rocky desertification using asupport vector machine[J].Land Degradation & Development,2015,26(2）:158 -167.   \n[11]Fan X R, Kang M Z,Heuvelink E,et al.A knowledge-and-datadriven modeling approach for simulating plant growth: A case study on tomato growth[J].Ecological Modeling,2015,312:363-373.   \n[12]Ikazaki K,Shinjo H,Tanaka U,et al.“Fallow Band System”，a land management practice for controling desertification and improving crop production in the Sahel,west Africa.1.Effectiveness in desertification control and soil fertility improvement[J].Soil Science and Plant Nutrition,2011,57(4）:573-586.   \n[13]El-TayebO,SkujinJ.troduction:Potentialofbiologicalproc sses in desertification control[J].Arid Soil Research and Rehabilitation,1989,3(2) :91-98.   \n[14］杨晓晖,张克斌,赵云杰.生物土壤结皮——荒漠化地区研究 的热点问题[J].生态学报,2000,21（3）:476-480.[Yang Xiaohui,Zhang Kebin,Zhao Yunjie.Microbiotic soil crust:A research forefront in desertification-prone areas[J].Acta Ecologica Sinica, 2000,21(3) :476 -480.]   \n[15]徐先英,孙保平,唐进年,等.干旱荒漠风沙区沙化土地综合整 治技术研究——以古浪县黄花滩治沙示范区为例[J].中国沙 漠,2007,27（4）:539 - 545.[Xu Xianying,Sun Baoping,Tang Jinnian,et al.Techniques of integrated controlling desertified sandy land in arid area:An example in Huang-hua-tan Desert control demonstration region in Gulang County,Gansu Province[J]. Journal of Desert Research,2007,27(4）:539-545.]   \n[16]Baas A C W. Complex systems in aeolian geomorphology[J]. Geomorphology,2007,91(3 -4):311 -331.   \n[17］王飞跃.计算实验方法与复杂系统行为分析和决策评估[J]. 系统仿真学报,2004,16(5）:893-897.[Wang Feiyue.Computational experimental methods and complex system behavior analysis and decision evaluation[J]. Journal of System Simulation, 2004,16(5) :893-897.]   \n[18］王飞跃.平行系统方法与复杂系统的管理和控制[J].控制与 决策,2004,19（5）:485-489.[Wang Feiyue.Paralel system methods for management and control of complex systems[J]. Control and Decision,2004,19(5）:485-489.]   \n[19]Wang F Y.Parallel control and management for intellgent transportation systems:Concepts,architectures,and applications[J]. IEEE Transactions on Intelligent Transportation Systems,2010,11 (3) :630-638.   \n[20]Kang M,Wang FY.From parael plants to smart plants:Intelligent control and management for plant growth[J]. IEEE/CAA Journal of Automatica Sinica,2017,4(2):161-166.   \n[21]Li X,Wang K,Tian Y,et al. The parallelEye dataset:Constructing large-scale artificial scenes for traffc vision research[C]//2017 IEEE 2Oth International Conference on Intelligent Transportation Systems（ITSC）: Workshop.Yokohama:IEEE,2017:891-896.   \n[22]Ash JE,Wasson R J. Vegetation and sand mobilityin the Australian desert dunefield[J]. Zeitschrift fur Geomorphologie,1983,45 (Suppl.1) :7 -25.   \n[23]Wason R J,Hyde R. Factors determining desert dune type[J]. Nature,1983,304:337-339.   \n[24]Tsoar H,Blumberg D G.Formation of parabolic dunes from barchan and transverse dunes along Israel's Mediterranean coast[J]. Earth Surface Processes and Landforms,2002,27(11):1 147-1161.   \n[25]刘静,银山,张国盛,等.毛乌素沙地17 年间植被覆盖度变化 的遥感监测[J].干旱区资源与环境,2009,23（7）：164－169. [Liu Jing,Yin Shan,Zhang Guosheng,et al.Dynamic change of vegetation coverage of Mu Us Sand Land cover the 17 years by remote sensing monitor[J]. Journal of Arid Land Resource and Environment,2009,23（7）:164 -169.]   \n[26]Liu Q,Liu G,Huang C,et al. Remote sensing monitoring of surface characteristics in the Badain Jaran,Tengger,and Ulan Buh Deserts of China[J]. Chinese Geographical Science,2019,29（1）:151 - 165.   \n[27]Vermeesch P,Drake N.Remotely sensed dune celerity and sand flux measurements of the world's fastest barchans （Bodelé,Chad) [J].Geophysical Research Letters,2008,35(24）:1 -6.   \n[28] Jimenez JA,Maia L P,Serra J,et al. Aeolian dune migration along the Ceará coast,north-eastern Brazil[J]. Sedimentology,1999,46 (4):689-701.   \n[29]Hugenholtz C H,Whitehead K,Brown O W,et al. Geomorphological mapping with a small unmanned aircraft system（sUAS）: Feature detectionandaccuracyassessment of a photogrammetricalyderived digital terrain model[J]. Geomorphology,2013,194 :16- 24.   \n[30]Bristow C S,Lancaster N.Movement of a smallslipfaceless dome dune in the Namib Sand Sea,Namibia[J]. Geomorphology,2004, 59(1-4) :189-196.   \n[31]Greeley R.Field measurements of the flux and speed of wind-blown sand[J]. Sedimentology,1996,43(1） :41-52.   \n[32]Baas A C W.Evaluation of saltation flux impact responders （Safires）for measuring instantaneous aeolian sand transport intensity [J].Geomorphology,2004,59(1-4）:99 -118.   \n[33]Lima A R,Sauermann G,Herrmann HJ,et al. Modelling a dune field[J].Physica A,Statistical Mechanics& ItsApplications, 2002,310(3) :487 -500.   \n[34]Momiji H,Ricardo C L,Bishop S R.Simulation of the effect of wind speed up in the formation of transverse dune fields[J].Earth Surface Processes & Landforms,2015,25（8）:905-918.   \n[35]赵璞.赤大白铁路防沙治沙工程的技术方案选择与施工组织 设计研究[D].长春:吉林大学,2009.[Zhao Pu.Research on Technical Scheme Selection and Construction Organization Design for the Sand Prevention and Control Projects in Chidabai Railway [D].Changchun:Jinlin University,2009.]   \n[36]Baas A C W,Nield JM. Modelling vegetated dune landscapes[J]. Geophysical Research Letters,2007,34(6) :1 -5.   \n[37]Hugenholtz C H,Barchyn TE.Real barchan dune collsions and ejections[J].Geophysical Research Letters,2012,39(2）:1-5.   \n[38]Andreoti B.A two-species model of aeoliansand transport[J]. Journal of Fluid Mechanics,2004,510:47 -70.   \n[39]Farajzadeh M,Egbal MN.Evaluation of MEDALUS model for desertification hazard zonation using GIS；study area: Iyzad Khast plain,Iran[J].Pakistan Journal of Biological Sciences,2007,10 (16) :2 622 -2 630.   \n[40]Kirkby M.Modelling across scales:The medalus family of models [C]//Boardman J,Facis-Mortolock.Modelling Soil Erosion by Water. Heidelberg:Springer-verlag,1998:161-173.   \n[41]Kirkby MJ,Abrahart R,Mcmahon M D,et al. MEDALUS soil erosion models for global change[J]. Geomorphology,1998,24（1）： 35-49.   \n[42]Zhang Y,Chen Z,Zhu B,et al.Land desertification monitoring and assessment in Yulin of Northwest China using remote sensing and geographic information systems（GIS）[J].Environmental Monitoring and Assessment,2008,147(1-3) :327-337.   \n[43]Basso F,Bove E,Dumontet S,et al.Evaluating environmental sensitivity at the basin scale through the use of geographic information systems and remotely sensed data: An example covering the Agri Basin（Southern Italy)[J].CATENA,2000,40(1）:19-35.   \n[44]Lu H,Shao Y. Toward quantitative prediction of dust storms:An integrated wind erosion modeling system and its applications[J]. Environmental Modelling & Software,2001,16(3）:233-249.   \n[45]Webb NP,Mcgowan HA,Phinn SR,et al.AUSLEM（AUStralian Land Erodibility Model):A tool for identifying wind erosion hazard in Australia[J].Geomorphology,2006,78(3-4）:179 - 200.   \n[46]Kang M,Fan X R,Hua J,et al. Managing traditional solar greenhouse with CPSS:A just-for-fit philosophy[J]. IEEE Transactions on Cybermetics,2018,48(12）:3 371-3 380.   \n[47]Wang F Y.Toward a paradigm shift in social computing:The ACP approach[J].IEEE Intellgent Systems,2007,22(5）:65 -67.   \n[48]Wang F Y,Carley K M,Zeng D,et al. Social computing:From social informatics to social intelligence[J].IEEE Intelligent Systems,2007,22(2) :79 -83.   \n[49]李力,林懿伦,曹东璞,等.平行学习—机器学习的一个新型 理论框架[J].自动化学报,2017,43（1):1-8.[LiLi,Lin Yilun,Cao Dongpu,et al.Parallel learning:A new framework for machine learning[J]. ACTA Automatica Sinica,2017,43（1）: 1- 8.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Framework and Function of Aeolian Sand Parallel Prevention and Control : Application of Artificial Intelligence Technology in Sand Prevention and Control ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CHANG Fang-le $^ { 1 , 2 }$ ，KANG Meng-zhen12， WANG Xiu-juan $^ { 1 , 2 }$ ， WANG Yong-dong³， LEI Jia-qiang³， WANG Fei-yue1,4 (1.State Key Laboratory of Management and Control for Complex Systems,Institute of Automation,Chinese Academy of Sciences,Beijing 100190,China ;   \n2.InnovationCenterforParalelAgriculture,，QingdaoAcademyofIntellientIndustries,Qingdao26609,handongChina;   \n3. Xinjiang Institute of Ecology and Geography,Chinese Academy of Sciences,Urumqi 830011,Xinjiang,China;   \n4.Beijing Centerof Intellgent Technology Engineering Research,Instituteof Automation,Chinese Academyof Sciences， Beijing100190,Xinjiang,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Aeolian sand is complex,changeableand hard to predictand assess,and its prevention and control is time-consuming.Currently,the simulation system of aeolian sand preventionand control is mainly based on the physical-process modeling.The model prediction results are generall faraway from the real results due to the lowaccurate measured result of aeolian sand activities.In this paper,a newsystem based on the ACP(Artificial Societies $^ +$ Computational experiments $^ +$ Parallel systems ）approach was introduced.Based on the physical principle of sand movement,the system could be used to predict the diffrent windproof efects of aeolian sand by applying he artificial intellgence for diffrent managements(suchasvegetation planting).The system could providethe decision support for the prevention and control projects of aeolian sand hazards through developing the model driven bythe knowledge and data to simulateand predictthe performance of windproof of aeolian sand and building the three-dimensional sense visualization. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words:windproof system；aeolian sand；parallel intelligence；computational experiment；vegetation planting；three-dimensional geographic scene visualization ",
+        "page_idx": 7
+    }
+]

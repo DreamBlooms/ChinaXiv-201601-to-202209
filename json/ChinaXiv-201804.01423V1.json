@@ -1,0 +1,637 @@
+[
+    {
+        "type": "text",
+        "text": "大数据环境中交互式查询差分隐私保护模型",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王迪，袁健，申泽宇(上海理工大学 光电信息与计算机工程学院，上海 200093)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：随着大数据时代的到来，数据挖掘技术被广泛应用，而线性查询作为该技术中最基础和最频繁的操作，其隐私保护在数据分析和数据发布隐私保护中占有极其重要的位置。交互式线性查询的交互增加了数据的处理量，运用传统的隐私保护模型效率较低。为了解决大数据环境中交互式查询差分隐私保护问题，模型针对大规模数据集中交互式线性查询差分隐私保护的特点，通过数据关联性分析减少冗余信息，采用交替方向乘子法对查询负载矩阵进行分解，利用自适应加噪技术产生差分隐私保护所需要的合理数量的噪声，设计并行处理方法实现该模型的计算。实验将提出的模型与以往模型进行对比。结果表明，所提出的模型在提升隐私保护精度的同时，也极大地提高了算法性能，因此模型切实可行。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：线性查询；差分隐私；矩阵机制；关联性分析；交替方向乘子法 中图分类号：TP309.2 doi:10.3969/j.issn.1001-3695.2017.12.0822 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Interactive queries differential privacy protection model in big data environment ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wang Di, Yuan Jian, Shen Zeyu (SchoolofOpticalElectrical&ComputerEngineering,UniversityofShanghaiforScience&Tchnologyhanghai200093, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Withthearrvalof theeraofbigdata,datamining technologyis widelyused,andthe mostbasicandfrequent operationof the technology,linearquery,whose privacyprotectionoccupiesanextremely important position indatanalysis anddatarelease privacy protection.Thedata processed become more when queryinginan interactive linearqueries way,and it is lesseffcient when using the traditional privacyprotection models.Inorder to solvethe problemofdiferential privacy protectionforinteractivequeries inbigdataenvironment,the modelreduced theredundant information throughdatacorelation analysis,decomposed thequeryloadmatrix byadopting alternating direction multiplier method,producedareasonableamount of noiserequired fordiferentialprivacy protection usingtheadaptive noise injection technology,andaparalelprocessing methoddesignedcalculateditagainstthecharacteristicsofinteractivelinearquerydiferential privacy protection forlarge-scale data set.Experimentcomparedthe model proposed toprevious works.Theresult showedthatthe model proposed promoted the accuracy of privacy protection and algorithm performance greatly.Therefore, the model is feasible. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:linearquery;diferentialprivacy;Matrixmechanism;frequent patternmining;alternatingdirectionmultiplier method ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着互联网的不断普及，大量数据可借助于采集设备和计算机网络来收集，人类进入了“数据化\"的时代。大数据中蕴涵着巨大的价值，因此对大数据的挖掘和分析成为了许多单位和研究机构改进产品功能，提升服务质量，进行科学研究的有效手段。但是数据在被研究的过程中，可能在很多环节被泄露出去，造成民众隐私的泄露，甚至有可能成为电信、信用卡诈骗的信息来源，因此对信息的隐私保护是一个重要的亟待解决的",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "课题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "隐私保护研究所针对的领域很多，数据查询隐私保护是其中的一种。而线性查询是数据查询中最基础最频繁的操作。线性查询主要有两种方式：非交互式和交互式。对于有保密性要求的线性查询，一般采用交互式线性查询方式。交互式线性查询的交互增加了数据的处理量，因此大规模数据集中的交互式线性查询的规模极大。在对其进行隐私保护时，若仍然采用以往的线性查询隐私保护方法，数据处理时间长，效率低。因此针对大规模数据集的交互式线性查询的特点，研究高效的隐私保护模型是极其重要且具有实用价值的工作。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文针对大规模数据集中线性查询交互式的特点，提出了大数据环境中交互式查询差分隐私保护模型。该模型通过数据关联性分析来减少由于大规模线性查询而产生的冗余信息；采用交替方向乘子法对查询负载矩阵进行分解，提高查询速度;结合用户权限，进行自适应加噪，解决数据高灵敏度带来的问题；最终，设计了并行处理算法快速完成计算，提高算法性能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验在单机为Inter(RCoreTMi7 CPU3.4GHz，8 GB内存，Window7操作系统的环境下进行，采用Webdocs数据集，并从中选取160，000 条数据作为原始数据集，选用开源的Hadoop来实现大数据环境中交互式查询差分隐私保护模型(interactivequeriesdifferentialprivacyprotection model in bigdataenvironment，IQDPPBD)。另外，以算法的运行时间作为指标来衡量模型的算法性能，采用分布式集群验证模型的并行的可行性和扩展性，从数据可用性和算法性能角度将IQDPPBD与已有模型作对比。实验结果表明，算法性能与传统隐私保护算法相比效果更佳。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关工作",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在20世纪60年代末，统计学家Dalenius首次提出了隐私保护的问题。隐私保护是指任何用户（包括合法用户和潜在的攻击者）在访问数据库时，都无法获取到任意一个用户的确切信息[1]。目前的研究中主要有两种算法，一种是分组隐私保护算法，另一种是差分隐私[2.3,4,5]保护算法。其中，在隐私保护领域影响很深并且已经被广泛研究的k-匿名[6,7,8,9,10]及其改进算法即是分组隐私保护算法，其主要思想是将数据集进行敏感数据标志，将这些标志的数据进行泛化和压缩处理，从而达到隐藏的目的。分组隐私保护算法主要存在两个问题：在一致性和背景知识攻击下，会造成敏感属性泄露[11；无法提出一种有效且严格的方法来证明其隐私保护水平。鉴于此，差分隐私保护算法被提出。该算法能保证在攻击者拥有最大背景知识的条件下，用户仍可以抵抗各种形式的攻击[12]。差分隐私保护算法被认为是目前最强的一种隐私保护算法[13]，作为一个数学概念，它定义了一个极为严格的攻击算法，并对隐私泄露风险给出了严谨、定量化的表示和证明。差分隐私保护在大大降低隐私泄露风险的同时，极大地保证了数据的可用性。目前，已有一些研究者将差分隐私应用到一些具体问题中，并取得了一些进展。一些学者研究了差分隐私在社交媒体[14,15]、私有位置保护[16]、分布式估计中保留特征之间的隐私问题[17]、频繁模式中的隐私泄露问题[18]以及隐私保护决策树建模[19]的应用，而分布式线性查询差分隐私保护目前仍是一个有待探究的课题，具有可研究性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对数据集的线性查询广泛存在于统计分析中，其使用频率很高，主要有两种查询方式：非交互式和交互式。非交互式线性查询先发布数据集，然后响应用户的查询请求，查询属性之间无关联关系[20]。而交互式线性查询，因其具有多次交互性，通常将所有查询请求整合成批量线性查询进行隐私保护[20]。Li等人[2I]基于Haar小波机制和分层机制提出了矩阵机制，研究寻找策略矩阵来对查询矩阵降维减少添加噪声的数量，从而提高处理批线性计数查询的效率，然而其算法的复杂度为 $O ( \\mathbf { m } ^ { 3 } N ^ { 3 } )$ （204号（m 为查询的数量， $N$ 为数据的维度)，而且其收敛的迭代次数不能确定，其近似算法的近似因子高达 $O ( \\sqrt { N } )$ ，随后其优化算法[22]将 $\\varepsilon$ -差分隐私放宽到 $( \\varepsilon , \\delta )$ -差分隐私来提高效率，但是其效果仍然无法令人满意。Yuan 等人[23]提出了低秩机制，通过分解负载矩阵 $\\pmb { W } _ { m \\times n } = \\pmb { B } _ { \\mathrm { m } \\times r } \\pmb { L } _ { r \\times n }$ 来优化矩阵机制，来弥补矩阵机制的不足，与矩阵机制和拉普拉斯机制添加噪声的方式不同，该机制对中间结果 $_ { L , D }$ 添加噪声，并通过二次规划以及梯度下降对其进行求解，使其线性收敛。然而其没有考虑数据本身之间的关联性以及矩阵的求解方法不能在分布式系统中使用的情况。Hardt等人[24]基于凸多面体的均匀采样，提出了近似最优的K-norm 机制与NIM机制，但是其算法实现复杂度较高，大数据环境下均匀采样效率不高。Bhaskara等人[25]改进了NIM机制理论，但其是在牺牲精度的情况下，提高算法的处理效率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以上方法都是在查询结果上添加噪声，其误差与数据集的规模无关，只与查询的数量有关。而Li等人[26]利用拉普拉斯机制对同一聚类中的记录数量num 和属性向量之和sum 进行加噪，以此来扰动num和sum，使聚类分析的结果满足差分隐私，以此来实现隐私保护。虽然该加噪方法突破了以往研究中基于结果加噪方法的桎梏，然而其添加噪声的数量却是随机的，从而致使噪声的添加量不甚合理。而本文提出的基于差分隐私的自适应加噪模型则将添加的噪声量与用户权限结合起来，提出 $\\boldsymbol { \\varepsilon }$ 的上界公式，实现自适应加噪，其既避免了以往基于结果加噪的弊端，又提出了科学合理的加噪方法。与已有的加噪方法相比，其具有一定的突破性和创新性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[27\\~30]研究如何生成合成的数据集来实现线性查询。误差随着查询数量呈对数增长趋势，而且误差会随着数据集规模的增大而增大，其误差通常正比于 $O ( { \\sqrt { \\mathsf { n } } } \\ln N \\ln m )$ （n为数据集的数量)。因此，此类方法只适用于小型数据集。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以往算法考虑的问题主要是如何降低隐私预算和减小误差，忽视了交互式数据处理的时效性。本文引入了关联性分析对数据进行无关处理，减少了数据量，从而减小了误差。同时采用了交替方向乘子法对矩阵分解，以便并行处理。另外，通过自适应加噪技术添加合理数量的噪声，改进了在查询结果上添加噪声的弊端，使其适用于大规模数据集。据此，本文提出了大数据环境中交互式查询差分隐私保护模型(IQDPPBD)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 相关定义",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义1线性查询。返回数据的线性组合结果的查询方式称为线性查询，如式（1）所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\bf q } _ { 1 } = \\boldsymbol { \\chi } _ { 1 } + \\boldsymbol { \\chi } _ { 2 } + \\boldsymbol { \\chi } _ { 3 } + \\boldsymbol { \\chi } _ { 4 } + \\cdots + \\boldsymbol { \\chi } _ { \\mathrm { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\chi _ { \\mathrm { i } }$ 代表要查询的属性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义2隐私保护机制。对于一个有限域R，从R中查询到的‘的集合组成数据集 $D$ ， $\\mathbf { r } \\in R$ ，其样本量为n，属性的个数为维度d。用算法 $G$ 对r或 $\\mathrm { ~ \\bf ~ r ~ }$ 中某个维度的值进行处理，使其满足隐私保护的条件，这一过程称为隐私保护机制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义3批查询优化。具有隐私保护的批查询是指利用集合 $\\mathcal { Q } = \\left\\{ \\boldsymbol { q } _ { 1 } , \\boldsymbol { q } _ { 2 } , \\cdots \\right\\}$ 来表示一组查询，然后对每一条查询添加噪声。批查询优化指利用每条查询之间的相关性来降低需要添加的噪声，如有三个批查询：q=x+χ+χ+x4；q=χ+χ；q=χ+χ4：最优的做法是先响应 $\\mathbf { q } _ { 2 }$ 和 ${ \\bf q } _ { 3 }$ ，然后利用其结果之和来回答 ${ \\bf q } _ { 1 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义4邻近数据集(adjacent dataset)。定义数据集 $D$ 和 $\\mathbf { \\sigma } _ { D } ^ { \\prime }$ 有完全相同的数据维度，不相同的记录的条数记为 $D \\Delta D ^ { ' } , \\left| D \\Delta D ^ { ' } \\right|$ 表示 $D \\Delta D ^ { ' }$ 中记录的数量，其中 $\\left| D \\Delta D ^ { * } \\right| = 1$ ，此时，称 $D$ 和 $D ^ { ' }$ 是邻近数据集。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义5差分隐私。对于给定邻近数据集 $D$ 和 $\\boldsymbol { D ^ { \\prime } }$ ，若存在随机算法 $M$ ，使得 $D$ 和 $\\boldsymbol { D } ^ { ' }$ 的任一输出结果在添加噪声后的概率密度 $P _ { \\mathrm { r } } \\left[ M ( D ) = O \\right]$ 满足式（2），则称算法 $M$ 满足 $\\varepsilon$ -差分隐私。其中 $\\mid o \\mid$ 表示可能的输出集合， $\\varepsilon$ 表示隐私预算。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { \\mathrm { r } } [ M ( D ) = O ] \\leq \\exp ( \\varepsilon ) \\times P _ { \\mathrm { r } } [ M ( D ^ { \\cdot } ) = O ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从式（2）可以看出，隐私预算 $\\varepsilon$ 越小，隐私保护的程度越高。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义6全局敏感度。定义邻近数据集 $D$ 和 $\\mathbf { \\Omega } _ { D } ^ { \\prime }$ ，对于任意的查询函数f： $D \\to R \\mathrm { d }$ ，其全局敏感度 $\\Delta f$ 如式（3）所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta f { = } \\operatorname* { m a x } _ { D , D ^ { \\prime } } \\left\\| \\mathrm { f } ( D ) - \\mathrm { f } ( D ^ { \\cdot } ) \\right\\| _ { p } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $R$ 表示函数所映射的实数空间， $\\textit { d }$ 表示函数f的查询维度，$p$ 表示度量 $\\Delta f$ 使用的 $L _ { \\mathfrak { p } }$ 距离。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义7拉普拉斯机制[24]。通过拉普拉斯分布产生的噪声来对产生的输出值进行扰动，其差分隐私保护函数如式（4）所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathbf { M } ( D ) = \\mathbf { F } ( D ) + \\mathbf { \\log } ( { \\Delta f } / \\varepsilon ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\log ( \\Delta f \\big / \\varepsilon )$ 表示添加的拉普拉斯噪声。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 大数据环境中交互式查询差分隐私保护模型IQDPPBD",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "交互式查询系统中，用户的查询数据具有相关性，故而存在大量的数据冗余。关联性分析去除用户查询数据中的关联数据可以降低冗余数据。该方法在大规模数据处理中效率显著。另外，在交互式查询中，用户希望系统能快速响应查询请求，故需设计良好的算法来提高交互式系统的响应速度。为此，需要对查询数据进行并行处理，从而节省数据的处理时间，提高交互式系统的响应速度。然而，隐私保护和数据可用性往往不可兼得，针对隐私保护，添加拉普拉斯噪声实现差分隐私保护；针对数据可用性，首先结合 $\\varepsilon$ 的上界和用户的特点选择差分隐私保护中恰当的 $\\boldsymbol { \\varepsilon }$ 值，然后通过减少添加噪声的数量来提高数据可用性。综合考虑以上的一系列问题，本文提出了大数据环境中交互式查询差分隐私保护模型。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1大数据环境中交互式查询差分隐私保护模型概述",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "大数据环境中交互式查询差分隐私保护模型（IQDPPBD）的核心思想是首先从数据的角度筛选出关联属性，从而对负载矩阵进行数据无关性处理，同时采用并行算法提高交互式系统的响应速度，其次结合交替方向乘子法实现分布式负载矩阵分解，最后自适应选取 $\\boldsymbol { \\varepsilon }$ 值实现拉普拉斯加噪，再将原去除的数据属性还原，返回完整的查询结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "IQDPPBD模型如图1所示，主要包括三个子模型：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)基于关联性分析的数据无关性处理模型（data independent processing model based on correlation analysis , DPMCA）; ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)并行梯度下降矩阵分解模型（parallel gradientmatrix decomposition model， PGMDM）; ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)基于差分隐私的自适应加噪模型（adaptive noise model based on differential privacy，ANMDP）。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d4ad2e879c0e4c4cbce2e241de9f00a32c886e8b808ceed085ef508bd297e00f.jpg",
+        "img_caption": [
+            "图1大数据环境中交互式查询差分隐私保护模型(IQDPPBD)工作流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "IQDPPBD模型的工作流程如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)查询数据集。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)采用DPMCA 模型，计算负载矩阵数据之间的关联性，并通过设定最小支持度，选取关联性来消除负载矩阵之间的数据相关性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)采用PGMDM模型，通过对数据无关的负载矩阵进行分割。并行执行矩阵分解算法，将由批查询数据组成的负载矩阵进行分解。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)采用ANMDP 模型，对 $\\textbf { \\em L }$ 和 $\\textbf {  { D } }$ 添加拉普拉斯噪声，实现数据集的差分隐私保护。其中 $\\textbf { \\em L }$ 表示负载矩阵分解结果， $\\textbf {  { D } }$ 表示数据集。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e)将查询后的添加了噪声的结果返回给用户。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2基于关联性分析的数据无关性处理模型DPMCA 3.3并行梯度下降矩阵分解模型PGMDM",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1）FP-growth 算法概述",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FP-growth 算法由Han 等人首次提出[20]，该算法为了减少对原数据集的读取次数及候选频繁项集的个数，提高挖掘效率，以共享前缀的方式在内存中构造FP-tree 来对原始数据集进行深度压缩。构造FP-tree之后，频繁项集的挖掘就可以在内存中利用FP-tree采用频繁项目增长的方式进行，这是减少读取次数和候选频繁项集的个数的关键技术。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2）DPMCA模型描述",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "数据集中有许多隐藏的数据关联模式，利用FP-growth算法挖掘出这种关联模式，通过挖掘出的关联模式去除查询数据中的冗余数据。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a02b52f1ac781b8fb8df171fbf18cb6d81873bd03824aa1de24e5c248e3cb35d.jpg",
+        "img_caption": [
+            "图2基于关联性分析的数据无关性处理模型(DPMCA)描述示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "模型描述如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)对数据集进行扫描，得出每一个属性的频度，按照属性频度进行降序排列，得到属性频度降序列表。b)设定最小支持度 $n$ ，根据数据属性频度降序列表，筛选掉频度小于最小支持度 $n$ 的属性。c)构建FP-tree[20]。将排好序的数据集插入到前缀树中，构成FP-tree。同时对第一次出现的节点建立链表。d)用FP-Growth 算法对FP-tree 进行整理。e)如果叶子节点为单路径，去除叶子节点，生成前缀路径的集合，进入Step6。如不为单路径，生成各路径前缀路径的集合，构成一个新的FP-tree，返回d)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "f)获取生成的前缀路径的集合，即为查询记录的关联属性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分析交互式查询系统的特点，发现其数据量大，查询回合多，因此要求查询算法收敛速度快，单词查询时间短。本文基于交替方向乘子法（alternating direction method of multipliers,ADMM）和低秩机制提出PGMDM模型，用来提高差分隐私矩阵分解的效率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "交互式查询系统中，用户查询为批量线性查询，属于统计学习问题之一。它首先把通过初始查询结果构建的负载矩阵剔除，然后根据DPMCA模型得出的数据无关属性得到无关负载矩阵，最后再进行矩阵分解。利用Yuan[23]等人提出的低秩机制式（5）（6）分别计算分解矩阵B和G相对于L的梯度G",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { { \\cal B } } = ( \\beta { \\pmb W } \\pmb { { \\cal L } } ^ { T } + \\pi \\pmb { { \\cal L } } ^ { T } ) ( \\beta { \\pmb { { \\cal L } } } \\pmb { { \\cal L } } ^ { T } + \\pmb { { \\cal I } } ) ^ { - 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial \\pmb { G } } { \\partial \\pmb { L } } = \\beta \\pmb { B } ^ { T } \\pmb { B } \\pmb { L } - \\beta \\pmb { B } ^ { T } \\pmb { W } - \\pmb { B } ^ { T } \\pi\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\textbf {  { B } }$ 和 $\\textbf { \\em L }$ 分别表示对负载矩阵 $W$ 分解矩阵后的两个矩阵。式(5)用来更新 $\\textbf {  { B } }$ ，且 $\\textbf {  { B } }$ 的计算只与 $\\boldsymbol { L }$ 的更新有关。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "该模型结合矩阵的特性，将负载矩阵 $w$ 分解成多个矩阵，分发到各个节点上计算。其过程如图3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/71ebf3e1286e6984785ea11224cc567cdb5fb268a067a6e1e85deb1109c4c6f1.jpg",
+        "img_caption": [
+            "图3并行梯度下降矩阵分解模型(PGMDM)描述示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "模型的描述如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)根据用户的查询要求生成初始结果负载矩阵。b)根据DPMCA模型得出的关联属性对负载矩阵进行初始化处理，将初始负载矩阵中关联数据进行转换剔除生成无关负载矩阵。c)对无关负载矩阵分解以便并行处理。将无关负载矩阵$\\pmb { W } _ { \\mathrm { m } \\times r }$ 分解成 $n$ 部分，每一部分行数为 $\\frac { m } { n }$ ，列数为 $\\boldsymbol { r }$ 。 $n$ 为分布式系统的节点数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "引入分布式计算的Map过程：首先访问数据集，遍历每一行数据，记录行号L,然后对输出的key值取整作为分组号令value为数据中的 $\\frac { m } { n }$ 行数据。Combiner 过程：聚合每组中的数据，形成待处理的数据。将划分过的部分，分发到 $n$ 个节点上。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "d)在每个节点上计算分解因子，并更新 $\\beta$ 和 $\\boldsymbol { \\tau } = \\left\\| \\boldsymbol { W } - \\boldsymbol { B L } \\right\\|$ 。当$\\beta$ 大于1000且‘小于0.001时停止迭代。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "引入云计算中的Reduce过程：将各节点计算出的 $B _ { \\imath } , L _ { \\imath }$ 以及组号 $\\frac { L } { n }$ 写入云计算的 Reduce 过程实现整合。将相同组号的$L _ { \\tau }$ 按行号进行拼接，得到完整的 $\\textbf { \\em L }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4基于差分隐私的自适应加噪模型ANMDP ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由差分隐私的定义可知要满足差分隐私，必须添加符合拉普拉斯分布的噪声。然而，数据灵敏度高，直接增加噪声会导致数据不可用[31]，所以需要寻求一种合适的加噪方法。而隐私保护程度取决于差分隐私中 $\\varepsilon$ 的选取， $\\boldsymbol { \\varepsilon }$ 越小隐私保护程度越强但添加的噪声量越大， $\\boldsymbol { \\varepsilon }$ 越大隐私保护程度越弱且添加的噪声越少。因此，选取合理的 $\\varepsilon$ 将有助于兼顾隐私保护程度和噪声量。ANMDP 模型在考虑 $\\varepsilon$ 的上界 $\\varepsilon \\le \\frac { \\ln { 2 ( 1 - \\rho ) } \\Delta q } { L }$ 的情况下结合用户的权限，实现自适应对PGMDM 算法中得出的矩阵 $\\textbf { \\em L }$ ，$\\textbf {  { D } }$ 添加拉普拉斯噪声。其中，用户的权限越高 $\\varepsilon$ 的选取越接近上界，权限越低选取的 $\\boldsymbol { \\varepsilon }$ 越小。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/43e09e55302d70674743cbf41adb21fa981fe962c8c6dcea6aa4d695891d8d9f.jpg",
+        "img_caption": [
+            "图4基于差分隐私的自适应加噪模型(ANMDP)描述示意图模型的描述如下："
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a）由 $\\varepsilon \\le \\frac { \\ln { 2 ( 1 - \\rho ) \\Delta q } } { L }$ 计算出 $\\boldsymbol { \\varepsilon }$ 的上界，结合用户的权限选择",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\varepsilon$ 8。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b)利用拉普拉斯机制[24]对 ${ \\mathbf { } } _ { L , D }$ 添加满足 $\\varepsilon$ 的噪声。  \nc)将去掉的数据无关的属性进行还原。  \nd)返回给用户查询结果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 实验结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验从数据可用性和算法性能角度对比IQDPPBD、LRM[23]和 $\\mathbf { M } \\mathbf { M } ^ { [ 2 2 ] }$ 模型。实验采用Frequent Itemset Mining DataRepository[30]的webdocs 数据集，该数据集每条记录代表顾客的购买行为，把顾客购买的一个商品作为一个数据项。选取其中160，000条数据作为原始数据集，随机生成 $m$ 个批查询。为了验证并行性同时考虑可扩展性，采用分布式集群验证实验。常用的分布式集群实验平台主要有MPI和Hadoop，但由于MPI存在节点失效，网络通信故障等问题，本实验选用开源的Hadoop来实现IQDPPBD，并用算法的运算时间来衡量算法性能。本实验模型用java语言实现。由于差分隐私添加噪声具有一定的随机性，最终结果取20次实验结果的平均值。实验单机环境为 Inter(R)Core(TM)i7CPU3.4GHz，8GB 内存，window7操作系统，分布式环境如表1所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/2782f699c711f2960d2cc7272d6f101cad24db42a7bf8b999cf64f678dc75d88.jpg",
+        "table_caption": [
+            "表1软硬件配置表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Host</td><td>IP</td><td>OS</td><td>CPU</td><td>Memory</td><td>JDK</td></tr><tr><td>Master</td><td>192.168</td><td>CentOS</td><td>双核</td><td>2G</td><td>JDK_1.8.0</td></tr><tr><td></td><td>1.100</td><td>7.0</td><td>1.8GHz</td><td></td><td>_111</td></tr><tr><td>Slaver</td><td>192.168</td><td>CentOS</td><td>双核</td><td>2G</td><td>JDK_1.8.0</td></tr><tr><td>-1</td><td>1.101</td><td>7.0</td><td>1.8GHz</td><td></td><td>_111</td></tr><tr><td>Slaver</td><td>192.168</td><td>CentOS</td><td>双核</td><td>2G</td><td>JDK_1.8.0</td></tr><tr><td>-2</td><td>1.102</td><td>7.0</td><td>1.8GHz</td><td>_111</td><td></td></tr><tr><td>Slaver</td><td>192.168</td><td>CentOS</td><td>双核</td><td>2G</td><td>JDK_1.8.0</td></tr><tr><td>-3</td><td>1.103</td><td>7.0</td><td>1.8GHz</td><td></td><td>_111</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1实验评价指标 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1）数据可用性",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了衡量噪声的干扰程度，并以此得出查询结果的精确程度，本实验引入欧氏距离。传统的隐私保护算法[22.23] 需事先指定添加的噪声量，而IQDPPBD模型与此不同，其关键技术在于自适应添加噪声，这就需要针对不同的 $\\varepsilon$ 值测量噪声干扰程度，从而得出查询结果的精确度。本实验将 $\\varepsilon$ 分别设置为1.25，1.0，0.75和0.5，其中， $\\varepsilon$ 的前两项对应较高权限用户，后两项对应较低权限用户。另外，查询规模 $m$ 设置为5000条。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "需要说明的是，欧氏距离（ $L _ { 2 }$ 范数）是两点或多点之间的距离表达式，如式（7）所示，距离值d越小说明与原数据差别越小，噪声干扰越小，查询精确度越高。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { d } = \\sqrt { \\sum _ { k = 1 } ^ { n } ( \\chi _ { 1 k } - \\chi _ { 2 k } ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\chi _ { 1 k }$ 表示第一条查询结果的第 $i$ 个属性值， $\\chi _ { 2 k }$ 表示第二条查询结果的第 $i$ 个属性值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2）算法性能",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了保证网络时延的一致性，实验在相同网络环境下进行。通过计算算法提交和结果返回的时间间隔，来对其进行比较，从而比较模型性能。间隔时间越短，说明模型性能越好。由于DPMCA过程可以独立运行，DPMCA时间未计入实验所需的时间间隔。当查询规模 $m$ 大于20000时，传统模型无法在有效时间内收敛，故分别设置查询规模 $m$ 为5000，8000和10000。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2 实验结果分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1）数据无关性分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过关联性分析以及设置不同的最小支持度，可以得出如表2的结果。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/6592d9126e7ee4d53d05a046beeb62f5829e1eaab946236ec4cd13ca033ec1a0.jpg",
+        "table_caption": [
+            "表2数据无关性分析表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>最小支持度</td><td>数据集包含的项</td><td>数据无关处理后的项</td></tr><tr><td>0.35</td><td>22</td><td>18</td></tr><tr><td>0.5</td><td>22</td><td>18</td></tr><tr><td>1.0</td><td>22</td><td>20</td></tr><tr><td>1.25</td><td>22</td><td>21</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表2可以看出，经过数据无关处理后，数据集的规模得到了有效的减少，会使之后的矩阵分解的计算量以及噪声的添加量减少。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2）数据可用性实验结果(欧氏距离)",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/6caabbcdda6c39b9f1ba3aea295b517b92fe8441e00fcffb4a4dcbaf7c0d412c.jpg",
+        "table_caption": [
+            "表3数据可用性实验结果表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>E</td><td>IQDPPBD</td><td>LRM</td><td>MM</td></tr><tr><td>0.5</td><td>92</td><td>107</td><td>110</td></tr><tr><td>0.75</td><td>95</td><td>92</td><td>95</td></tr><tr><td>1.0</td><td>65</td><td>79</td><td>83</td></tr><tr><td>1.25</td><td>66</td><td>65</td><td>70</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表3可以看出，由于采用自适应模型，低权限用户IQDPPBD的查询结果精度与ε为0.75时几乎相当，较高权限用户与ε为1.25 时相当。结果表明，IQDPPBD 模型可以实现较少噪声量的自适应添加以及较高查询精度的隐私保护。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3）算法性能实验结果(时间单位为 s)",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/fb1f140ac021233ac1c6a25d5ef220b14837d5bb0cf0f5c2fe58a72bb1d67c74.jpg",
+        "table_caption": [
+            "表4算法性能实验结果表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>m</td><td>IQDPPBD</td><td>LRM</td><td>MM</td></tr><tr><td>100</td><td>3</td><td>2</td><td>2</td></tr><tr><td>200</td><td>5</td><td>3</td><td>4</td></tr><tr><td>5000</td><td>97</td><td>117</td><td>121</td></tr><tr><td>8000</td><td>145</td><td>181</td><td>187</td></tr><tr><td>10000</td><td>183</td><td>251</td><td>260</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表4可以看出，当查询规模为100，200，5000，8000，10000 时，模型的算法性能状况。其中， $m$ 是查询规模,IQDPPBD是本文提出的模型，LRM和MM是传统模型。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e7306a333451387d16a2127a35a8ac3bc4eb20b0e989ffb2dbaa64af0cfc00a.jpg",
+        "img_caption": [
+            "图5算法性能直方图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图5可以看出，当查询规模分别为5000，8000，10000时，本文提出的IQDPPBD 模型的性能均优于LRM[23]和 $\\mathbf { M } \\mathbf { M } ^ { [ 2 2 ] }$ （204号模型。而当查询规模为100,200时，IQDPPBD模型性能比LRM和MM差。其中，图5中的横坐标表示查询规模 $m$ ，纵坐标表示运行时间（单位s），用来衡量算法性能。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以上实验结果表明，IQDPPBD模型可以自适应添加噪声。同时，当查询规模较大时，算法性能较已有模型有很大提高；当查询规模较小时，由于提出的模型对数据进行关联处理的时间相对查询时间而言较长，导致其性能没有传统模型好。因此IQDPPBD 模型可以满足大数据集中交互式线性查询隐私保护对系统响应和扩展性的严格要求。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在大规模数据集中，线性查询操作最基础且最频繁，交互式批量线性查询是线性查询的一种方式，由于其比普通的线性查询更难泄密且查询效率较高而被频繁使用，但已有的隐私保护模型很少研究对交互式批量线性查询的保护，基于此，本文提出了IQDPPBD 模型。该模型针对交互式批量线性查询提出了隐私保护程度、数据可用性以及隐私保护模型效率的要求，通过挖掘记录属性的相关项，建立无关项构建的负载矩阵，用ADMM模型对矩阵的求解进行优化，同时采用自适应模型进行隐私加噪，实现了差分隐私保护。实验采用webdocs数据集，运用分布式集群验证模型的并行性和可扩展性，从数据可用性和模型性能角度对比IQDPPBD、LRM[23]和MM[22]模型。结果表明，本文所提出的模型性能均优于传统隐私保护模型。另外，在不同隐私预算ε下，对隐私保护度以及数据准确率进行评估比较，证明了该模型的可行性。在未来的工作中，可以考虑将线性查询记录按内容特点进行分类，以便针对不同类型改进模型，在进一步保证数据准确性的同时优化矩阵机制的性能，从而使更大规模的数据集能快速收敛。该模型适用于对大规模数据集进行交互式线性查询隐私保护，当数据集较小时，算法性能反而低于传统模型。随着查询规模的增加，该模型的性能更优于传统模型。因此，在下一步的工作中将定量分析数据规模大小与该隐私保护模型下的交互式线性查询效率之间的关系。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Dalenius T.Towards a methodology for statistical disclosure control [J] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Statistisk Tidskrift,1977,15(2):429-444.   \n[2]Chaudhuri K, Monteleoni C,Sarwate AD.Diferentially private empirical risk minimization[J].JournalofMachine Learning Research,201,12(2): 1069.   \n[3]Dwork C,Mcsherry F,Nissim K.Calibrating noise to sensitivity in private data analysis [J].Proceedings of the VLDB Endowment,2006,7(8): 637- 648.   \n[4]Dwork C,McsherryF,Nissim K. Calibrating noise to sensitivity in private dataanalysis [C]// Proc of International Conference on Theory of Cryptography. [S. 1.] $\\vdots$ Springer-Verlag,2006: 265-284.   \n[5]Proserpio D,Goldberg S,Mcsherry F.A platform for differentially private social graph analysisor,calibrating data to sensitivity in private data analysis [J].arXiv: 1203.3453 2013: 637-648.   \n[6] Cai Shulan, Zhang Zhongping,Song Li,et al.A k-anonymity model for protecting privacy[J]. Journal ofYanshan University,2005.   \n[7]AbidiB,Yahia SB. Generating k-anonymous microdata by fuzzy possibilistic clustering [C]/ Proc of International Conference on Database and Expert Systems Applications.[S.1.]: Springer,2017: 3-17.   \n[8] Mezher A M, Alvarez A G,Rebolo-Monedero D,et al. Computational improvements inparallelized $\\mathbf { k }$ anonymous microaggregation of large databases [C]// Proc of IEEE,International Conferenceon Distributed Computing Systems. 2017,258-264.   \n[9]Dargahi T,Ambrosin M,Conti M,et al.ABAKA: a novel atribute-based k anonymous collaborative solution for LBSs [J]. Computer Communications, 2016, 85: 1-13.   \n[10] Casino F,Domingo-Ferrer J,Patsakis C,et al.A k-anonymous approach to privacy preserving collborative filtering[M].[S.1.]: Academic Press,2015.   \n[11]MachanavajhalaA,KiferD,GehrkeJ.l-diversity:privacy beyound $\\mathbf { k }$ anonymity [C]// Proc of the 2nd International Conference on Data Engineering. 2006.   \n[12] Nie Weilin, Wang Cheng.Probability comprehension of diffrential privacy for privacy protection algorithms: A new measure [J]. International Journal of Wavelets Multiresolution & Information Processing, 2017.   \n[13] Wu Zhengang,Advance on privacy protection techniques for big data applications[J].TelecommunicationsNetwork Technology,2016(2).   \n[14] Wang Shuo,Sinnott R O.Protecting personal trajectories of social media users through differential privacy[J].Computers & Security,2017,67: 142- 163.   \n[15] Wang Jun,Liu Shubo,Li Yongkai.A review of diferential privacyin individual datarelease[J].International Journal of Distributed Sensor Networks,2015,2015 (9): 1-18.   \n[16] To H, Ghinita G,Fan Liyue,et al.Differentially private location protection for worker datasets in spatial crowdsourcing [J]. IEEE Trans on Mobile Computing,2017,16 (4): 934-949.   \n[17]Heinzedeml C,McWilliams B,Meinshausen N.Preserving differential ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "privacy between features in distributed estimation [J/OL].2017.https://arxiv. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "org/pdf/1703.00403. pdf.   \n[18] Shen Entong,Yu Ting.Mining frequent graph patterns with differential privacy [Cl//Proc of the 19th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.New York: ACMPress,2013: 545- 553.   \n[19]Wang Yu,Huang Zhenqi,SayanM,et al.Differential privacy in linear distributed control systems:entropy minimizing mechanismsand performance trade-offs [J]. IEEE Trans on Control of Network Systems, 2017, PP (99): 1-1.   \n[20] Zhang Lin,Liu Yan, Wang Ruchuan,et al. Eficient privacy preserving classification construction model with differential privacy technology [J] Journal of Systems Enginering and Electronics.2017,28(1): 170-178.   \n[21] Li Chao,Hay M,Rastogi V,et al. Optimizing linear counting queries under differential privac [C]//Proc of ACM Symposium on Principles of Database Systems. 2010: 123-134.   \n[22] Li Chao,Miklau G,Hay M,et al.The matrix mechanism: optimizing linear counting queries under differentialprivacy[J]. International Journal on Very Large Data Bases,2015,24 (6): 757-781.   \n[23] Yuan Ganzhao,Zhang Zhenjie,Winslet M,et al. Low-rank mechanism[J] Proceedings of the VLDB Endowment,2012,5 (11): 1352-1363.   \n[24] Hardt M,Talwar K,Onthegeometryof diferentialpri-vacyC/ rocof ACM Symposium on Theory of Computing.New York:ACMPress,2010: 705-714.   \n[25] Bhaskara A，Dadush D，Krishnaswamy R,et al.Uncon-ditional differentially private mechanisms for linear queries [Cl//Proc of Annual ACM Symposium on Theory of Computing. New York: ACM Press, 2012: 77-82.   \n[26] Yuan Jiawei, Tian Yifan. Practical privacy-preserving mapreduce based kmeans clustering over large-scale dataset [J]. IEEE Trans on Cloud Computing,2017,PP (99): 1.   \n[27] Jiang Huowen, Zhan Qinghua,Liu Wenjuan,et al. Clustering-anonymity approach for privacy preservation of graph data-publishing [J]. Journal of Software,2017.   \n[28] Blum A,Ligett K,Roth A.A learning theoryapproach to noninteractive database privacy[J].Proceeding of the ACM,2011,60 (2): 12-21.   \n[29] Hardt M,Rothblum G N.A multiplicative weights mec-hanism for privacypreserving data analysis [C]// Proc of IEEE Symposium on Foundations of Computer Science.2010: 61-70.   \n[30] Roth A,Roughgarden T. Interactive privacy via the median mechanism[C]// Proc of the 42nd ACM Symposium on Theory ofComputing.New York: ACM Press,2011: 765-774.   \n[31]Cao Hui,Liu Shubo, Zhao Renfang,etal.Aprivacypreserving model for energy internet base on differential privacy[C]// Proc of IEEE International Conference on Energy Internet. 2017: 204-209. ",
+        "page_idx": 6
+    }
+]

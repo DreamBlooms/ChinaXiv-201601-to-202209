@@ -1,0 +1,264 @@
+[
+    {
+        "type": "text",
+        "text": "快速精准定位天体伽玛射线源的实验研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "唐庆文",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(南昌大学物理系，江西 南昌330031)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在高能电磁波段，天文探测器的角分辨率较低，面对大量的伽玛射线观测数据时，研究人员需要利用数据分析软件迅速找出一些未知天体的位置。利用2008年发射运行的国际费米伽玛射线空间望远镜（）的高能伽玛射线数据（大于兆电子辐射，），对伽玛射线暴（），进行了详细的快速精准定位研究，主要研究了不同时间和能量选择时对天体源的探测置信度的影响。研究结果表明，选择伽玛射线暴触发时间零点（）到以内的时间范围可以很好地定位伽玛射线暴的高能对应体位置。实验得到的高能伽玛射线TS位置图最佳位置与低能电磁波段的后随观测位置很好的符合，表明实验算法可以有效地计算该类天体伽玛射线暂现源的真实位置。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键字：伽玛射线源；高能天体卫星；探测置信度中图分类号：P172.3文献标识码：A 文章编号：1672-7673 （2018)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近几年来，天体的高能伽玛射线波段巡天成为天文学研究的重要手段，究其原因在于伽玛射线可以反应各类高能物理过程，如宇宙线粒子加速和辐射过程、宇宙暗物质作用过程等[1]。研究天体源的伽玛射线能谱特征，可以证论某些高能物理过程是否主导，如中性π介子衰变可以形成峰值流量在的鼓包能谱特征[2]。一方面，伽玛射线巡天可以有目标地观测（TargetofObservation）已在其他波段有观测的天体源，如哈勃望远镜（Hubble SpaceTelescope）的光学/红外巡天目录，斯隆数字化巡天（Sloan Digital SkySurvey,SDSS）目录以及澳大利亚帕克斯天文台64m射电望远镜（Parkes RadioTelescope）巡天目录[3]，观测的数据可进一步限制目标源的物理、化学特性。另一方面，高能伽玛射线探测器会被一些强烈的天体伽玛暂现源触发，例如，伽玛射线暴在能区的基金项目：国家自然科学基金(11547029)；江西省教育厅自然科学基金(GJJ150077)资助.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "收稿日期：2017-12-06；修订日期：2018-02-10作者简介：唐庆文，男，博士.研究方向：高能天体物理.Email：qwtang@ncu.edu.cn存在时标通常大于能区的时标（通常不超过100秒），在暴触发后的数千秒也可能被观测到[4-5]，因此探测器可应用于探究该类天体伽玛射线暂现源的辐射过程。随着我国天文学观测的发展，特别是暗物质卫星（DArkMatterParticleExplorer，，悟空号）、硬X射线调制望远镜（Hard X-ray ModulationTelescope，，慧眼号）的升空[6-7]，它们的科学目标集中在搜寻一些未知源的多波段辐射并进而解释一些极高能的物理过程，这些过程一般在实验室里很难实现。因此，快速定位未知伽玛射线源是实时跟进未知源的有效手段。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于在高能伽玛波段探测器的角分辨率较低，研究掌握精准定位伽玛射线源的算法，对于伽玛射线巡天观测起着很重要的作用。实验研究采用国际成熟的费米卫星携带的大面积望远镜（Large Area Telescope，）的伽玛射线巡天观测为实验对象，选取伽玛射线暴为暂现源样本，采用（1）不同时间选择，（2）不同中心位置选择，计算伽玛射线暂现源的TS位置图，最终得到最优化的定位。其次将得到的位置（含误差）与其他波段的后随观测（FoIlow-upObservations）比照，调整实验设定参数，从而得到实验结果与实现研究目标。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1费米卫星巡天观测及实验样本选择 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "费米伽玛射线太空望远镜（原名，）是多国合作研发的，包括美国、法国、意大利、日本、瑞典等国家。它的科学目标主要针对活动星系核、脉冲星、伽玛射线暴、宇宙线等。搭载的望远镜视野达到全天区的 $2 0 \\%$ ，于2008年8月4日开始科学观测，并于一年后实时公布观测数据。伽玛波段的观测能量范围从到大于，单个入射的天体伽玛光子被各层探测装置逐级记录，研究组系统地分析了这些光子事例并进行分类，如最常用的Source和Clean类型光子。官方统计从2008年8月4日到2011年8月4日，共有超过 $1 . 8 \\times 1 0 ^ { 1 1 }$ 个事件，最终有约 $1 . 4 4 \\times 1 0 ^ { 8 }$ 个通过更细致的伽玛光子选择标准并发布。图1(a)是5年观测大于伽玛射线分布图。其中，银盘区域是最亮的伽玛射线探测区域，该区域之外存在一些亮点天体源，例如大麦哲伦星云（）、蟹状星云（）。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7a4b8aa465214c92db9de956a27fa0393969baf722bdcae0a8127e980367854f.jpg",
+        "img_caption": [
+            "图1．(a)5年观测到的大于伽玛射线分布图,中心较亮的区域是银盘区域；(b）的高 能光子（）计数率随时间分布图 Fig. 1(a) Galactic Gamma-ray distribution observed by the Fermi-LAT in 5-yr mission， the bright part of which is galactic plane; (b) Count rates of highenergy photons as a function of time since GBM trigger (10O MeV-200 GeV) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验样本为观测的122个伽玛射线暴，时间范围为2008年8月4日至2016年10月30日。图1(b)是（数字为触发暴的命名方式，数字前6位为年月日，后三位区分当天观测到的不同伽玛射线暴）的光子计数率的时间变化图。从图中可以看出，在触发（TriggerTime，）后100秒以内，光子计数率呈现脉冲式分布，而之前及秒后，光子计数率比较平稳。实验样本的每个伽玛暴，选择到的的光子事例。样本选择标准为在触发后内有高能光子被探测到，即能量大于的光子。通过初步筛选发现，16个伽玛暴，或者只有的低能伽玛光子探测，或者在较晚期（之后）才有大于光子探测，因此排除了这些伽玛暴样本，共收集到106个高能伽玛探测的伽玛暴。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2Fermi科学软件介绍和本实验算法设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验是基于Fermi官方科学软件的最大似然拟合分析。首先，计算伽玛暴高能伽玛探测的test-statisticvalue（，，当达到为置信度）随不同起止时间和不同中心位置选择的分布[8。单次数据处理流程包括：（1）光子事件类型、中心位置及半径（ $1 2 ^ { \\mathrm { { o } } }$ ）、观测时间、观测能段得选择（工具）；（2）飞船位置相关选择（工具）；（3）弥散伽玛背景计算（工具）；（4）光子曝光计算（工具）；（5）最大似然拟合（工具）；（6）置信图计算（工具）。算法设计就两个条件做了阈值条件设定，即：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1) 时间间隔选择。对单个伽玛射线暴，所有的时间起点（）都是伽玛暴的触发时刻（），而时间终点（）依次累加（），如时，s。分别为（），（）和（）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "中心位置。该步骤中有两个位置。（a）初始位置（ $\\cdot _ { \\mathsf { P } _ { 0 } } )$ ，以的初步结果为初始位置（ $\\cdot \\mathsf { P } _ { 0 } .$ ）；（b）以单次数据处理流程得到位置图的最大值的位置 （ $\\cdot P _ { 1 }$ ）再次执行最大似然拟合，得到本次数据处理流程的最大值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于上述算法得到的结果画出特征量随时间选择的分布图。这些量是：（a）定位的定位误差半径（）；（b）最大TS位置与其它观测位置距离（）；(c）每次最大值（）与比值（记为）；（d）相应时间内，预估来自伽玛暴的光子数目（）与观测的总光子数目（）的比值（记为）。在此图中，算法将自动得到所有选择下的最大值，记为，此时的终点时刻为。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其次，选取上述的时间范围，即选取，并以此时的位置（）再执行一次数据处理流程，得到最终的位置图，并给出此时最大的值（）及其对应位置（）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "最后，将其它波段后随观测得到的位置与位置图的位置（）及其置信误差等高线对比，测试伽玛射线源位置的准确性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3实验结果及讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图2是两个伽玛暴的、、、等由设计算法得到的特征量随着选择的截止时间（）的分布关系。蓝色竖直点线是所有时间选择里最大（即）时间位置（）。从图中可以看出，不是都位于最大的时间处（），而大部分位于中间时间位置。这可能有以下3个原因：（1）在之后，观测光子数目不再增加，（2）在之后，所在的飞船位置受到其它因素影响，例如飞船进入南大西洋异常区域（South",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/235ff06ded88fb83ccaeef70e18b5a89bd3571348d611dc9d5f5700a43380937.jpg",
+        "img_caption": [
+            "图2.两个伽玛暴的、、随不同的变化图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Atlantic ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig. 2Four observables as a function of selected end Time ()Anomaly）或者观测中心轴和地球Limb太靠近，使得河内背景过强，此时LAT不能正常对该方向计数；（3）由于选择的光子范围为 $1 2 ^ { \\mathrm { { o } } }$ 半径的圆内，在之后的收集的光子如果远离初始位置（），来自伽玛暴的光子数（）增加较小，而总光子数（）增加较快，使得将变小，从而会使得值变小。另一方面，当定位误差半径（）和位置距离（）都大于 $1 ^ { \\circ }$ 时， $R _ { 9 5 }$ 应大于 $r$ 。如果都小于 $1 ^ { \\circ }$ 时，则由于在处的角分辨率（ $6 8 \\%$ containment angle）在 $1 ^ { \\circ }$ 左右，因此不要求必须大于。在此步骤下，得到合理的以及在此时间选择下的最大位置。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图3是在选择下得到的位置图，该图给出了两个暴的初始位置（），最终定位位置（），值及的置信误差等高线。图3说明：（a）这两个暴的位置的值都大于25，即大于5的探测置信度阈值；（b）GRB110731465的光学波段(UVOT）的后随探测位置（）在本实验定位的的",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ddf0bb61781e871afbe0e9218ef71835212bbb4e54477467650fe3fe657abd94.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图3.两个伽玛暴的在选择下得到的位置图。三角形表示初始位置（），UVOT、XRT表示光学、X射线波段的后随观测位置，十字符号表示本实验算法所定位的位置（），白色等高线是的置信误差距离()",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.3TS maps of two GRBs with the selected end time (). Triangle represents the initial position ()，each of which is derived by UVOT or XRT labeled nearby. The cross is our resulting position (P3). The solid white line is contour line of localization at $9 5 \\%$ confidence level. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "等高误差线以内，而GRB120709883的射线波段的后随探测位置则稍微偏离了P3的 $9 5 \\%$ 等高线内部，但此时或都小于 $1 ^ { \\circ }$ ，考虑高能伽玛射线在处的角分辨率（大于 $1 ^ { \\circ }$ ），是有效的定位。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "伽玛暴在keV能区的存在时标，例如费米卫星伽玛暴的（Gamma-ray BurstMonitor，能区为），通常不超过100s，比较了在时间内和在选择下定位高能伽玛射线的位置的精度。例如对于GRB110731465，其范围为，从图2可以看出：时间下的为8.6，比 $0 ^ { - }$ 时的280.4小很多。因此，本算法能够精确地从多组时间段里找到最佳时间段，并能自动校准伽玛射线中心位置以确定最大的TS位置。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "统计的探测类型在选择下最大的分布情况。一般来说，当时，强探测置信度（Strong）；当时，中探测置信度（Middle）；当时，低探测置信度",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（Low）；当时，无明显探测（None）。结果显示的样本有明显的伽玛射线探测，的样本有强的伽玛射线探测。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/ac1edf4eedf2acd2a391cc293bcd7cc507f64f7eae958773a11ab8e99787dc94.jpg",
+        "table_caption": [
+            "表1106个伽玛射线暴在选择下的分布情况",
+            "Table 1 Distribution of of 106 GRBs with the selected end time "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>探测类型</td><td>GRB数目/个</td></tr><tr><td>Strong(强)</td><td>90</td></tr><tr><td>Middle（中等）</td><td>14</td></tr><tr><td>Low（低）</td><td>1</td></tr><tr><td>None（无）</td><td>1</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4实验总结 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文介绍了高能伽玛射线暂现源的位置探测的一种算法，主要通过探测置信度（）随时间变化，考察了不同截止时间对探测置信度的影响。研究结果表明，截止时间通常位于到之间，这通常可能由于飞船运行状态、中心轴位置变化或者本征的伽玛射线光子分布造成的。结果表明该实验方案可得到的伽玛暴样本的明显探测和的样本的强伽玛探测。综上所述，实验方案可快速地对观测数据进行伽玛射线源的位置的确定，该位置可通过等网络发布信息给其它空间或地面望远镜、探测器，进行有效的跟踪观测，从而对未知天体伽玛射线源进行多波段研究。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本实验算法可作为实验室开放性的学科实验，对计算机性能要求适中，适合具备天文学科或高能物理等硕士点以上的院校进行教学和科学研究之用。在各个天文机构的服务器中，教师和学生可将本算法作为一个代码包应用于其他天体或天体系统的精确定位[9-10]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] Kelner S R， Aharonian F A， Bugayov V V. Energy spectra of gamma rays, electrons, and neutrinos producedat proton-proton interactions in the very high energy regime [J]. Physical Review D， 2006,74(3):1-16.   \n[2] Ackermann M, Ajello M, Allafort A, et al. Detection of the characteristic pion-decay signature in supernova remnants [J]. Science, 2013,339(6121) :807-811.   \n[3] Päris I， Petitjean P， Ross N P,et al． [J]. Astronomy& Astrophysics,2017, 597: 1-25.   \n[4] Zhang B B, Zhang B, Murase K,et al． How long does a burst burst? [J]． The Astrophysical Journal， 2014， 787(66) : 1-9.   \n[5] Qing Y, Liang E W, Liang Y F, et al. A comprehensive analysis of Fermi gamma-ray burst data. Ill. energy-dependent T9o distributions of GBM GRBs and instrumental selection effect on duration classification [J]. The Astrophysical Journal， 2013， 763(15) :1-9.   \n[6] Chang J， Ambrosi G, An Q， et al. The DArk Matter Particle Explorer mission [J].Astroparticle Physics，2017,95(1) :6-24.   \n[7] Zhang S, Lu F J， Zhang S N, et al. Introduction to the hard x-ray modulation telescope [C]//Proceedings of SPlE. 2014.   \n[8] Mattox J R, Bertsch D L， Chiang J，et al. The likelihood analysis of EGRET data [J].The Astrophysical Journal， 1996， 461(1) :396-407.   \n[9]张升华，黄磊，魏建彦，等.交流伺服系统在天文望远镜中的应用研究初探[J]．天文研 究与技术，2017，14(3):337-346.   \nZhang Shenghua，Huang Lei，Wei Jianyan， et al. The preliminary study on application of AC servo system in astronomical telescope [J].Astronomical Research & Technology， 2017， 14(3) :337-346.   \n[10] 连月勇，张超，詹银虎，等．天文定姿中太阳系内天体视位置计算[J]．天文研究与 技术，2016，13(2):178-183.   \nLian Yueyong， Zhang Chao， Zhan Yinhu， et al. Apparent position calculation of celestial body in the solar system used for the celestial attitude determination [J]． Astronomical Research & Technology，2016， 13(2):178- 183. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Experimental research on a fast and precision localization on the astrophysical gamma-ray sources ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Qingwen Tang1 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1 Department of Physics， Nanchang University， Nanchang 330031) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract: With poor angular resolution of astrophysical detectors in the high-energy gamma-ray bands, the researchers are eager to a fast localization on the unknown sources， on which many development software will help deeply.In this work， we perform the details on the fast and precision localizations with different selections of time and energy spans on a sort of gamma-ray sources， Gamma-ray Bursts (), employing the high-energyobservational data （ from the international telescope of the Fermi Large Area Telescope. The result shows that a selection from trigger time (） to less than seconds after () can localize the position of gamma-ray source detection. The derived significance map of each GRB implies that the precision localization is consistent with the position at the low-energy band by the follow-up observations, which prove the validity of our experimental design. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Keywords: gamma-ray sources; high-energyastrophysicalsatellite; detection significance ",
+        "page_idx": 8
+    }
+]

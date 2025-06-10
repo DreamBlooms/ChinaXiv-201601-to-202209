@@ -1,0 +1,196 @@
+# DOI: 10.5846/stxb201607101412
+
+邹万生,王智,刘良国,王文彬，石迎普.冲天湖底泥表层微囊藻休眠体复苏与菌群动态.生态学报,2017,37（19):6597-6606. ZouWS,WagZuG,agRelasetofcontiialae flora in Lake Chongtian.Acta Ecologica Sinica,2017,37(19）:6597-6606.
+
+# 冲天湖底泥表层微囊藻休眠体复苏与菌群动态
+
+邹万生1,2,3,王智1，\*，刘良国2,3，王文彬2,3，石迎普²
+
+1 湖南农业大学生物科学与技术学院，长沙410218  
+2湖南文理学院生命科学学院，常德415000  
+3水产高校健康生产湖南省协同创新中心与动物学湖南省高校重点实验室，常德415000
+
+摘要;对频繁暴发微囊藻水华的西洞庭冲天湖表层底泥和上覆水取样,检测和分析了底泥表层微囊藻休眠体丰度和菌浓度、上覆水中微囊藻细胞丰度和菌浓度以及部分理化性质,结合室内模拟试验。结果表明：2—6月份冲天湖底泥表层和上覆水中总菌浓度均显著上升( $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ),底泥表层总菌浓度显著高于上覆水( $P { < } 0 . 0 5 \$ ），优势菌群均为微小杆菌属（Exiguobacterium）假单胞菌属（Pseudomonas）和芽孢杆菌属（Bacilus）;4月份底泥表层微囊藻休眠体开始复苏且休眠体丰度下降,6月份休眠体丰度显著低于4—5月份( $P { < } 0 . 0 5 )$ ，而上覆水中微囊藻细胞丰度上升,6月份显著高于4一5月份( $P { < } 0 . 0 5 )$ ;复苏优势藻为铜绿微囊藻（Microcystis aeruginosa）、水华微囊藻（Microcystis flos-aqua）和惠氏微囊藻（Microcystis wesenbergi）);复苏期间促休眠体复苏优势菌群浓度显著上升、“底泥-上覆水"界面溶解氧浓度与TN/TP比显著下降( $P { < } 0 . 0 5 \rangle$ 。说明冲天湖底泥表层和上覆水优势菌群可能通过改变底泥表层理化环境影响微囊藻休眠体复苏。
+
+关键词：微囊藻；休眠体；优势菌群；复苏；底泥；上覆水
+
+# Relationship between recruitment 6f Microcystis dormant in sediment and annual dynamics of bacterial flora in Lake Chongtian
+
+ZOU Wansheng12,3，WANG Zhi1\*，LIULiangguo23，WANG Wenbin23，SHYingpu   
+1 College of Bioscience and Biotechnology，Hunan Agricultural University，Changsha 41O128，China   
+2 Department of Life Science，Hunan University of Arts and Science，Changde 415ooo，China   
+3Cllboratiotefdodofsdbof   
+Hunan University of Arts and Science， Changde 415000,China
+
+Abstract:Recruitment of Microcystis dormant fromthe uppersediment isacritical stage in its life historyand playsan importantrolein formingblooms.However，litle is knownaboutthebenthic bacteriaassociated with recruitmentof Microcystiscelsinsediment.To investigatetherelationshipbetween therecruitmentof dormant Microcystisandbacterial flora inthe uppersediment，wedetectedandcomparativelyanalyzedthedensityofbacteriaand theabundance of Microcystis dormant in the upper sedimentin Lake ChongTian,situated to the west of LakeDongTong，where Microcystis blooms have formed frequently inrecent years.At thesame time,bacterialdensity,theabundanceof Microcystiscels，and someof the physical andchemical propertiesof theoverlying water column were measured.Resultsshow thattotal bacterial density in both the upper sediment andthe overlying water column gradually increased from Januaryto May，remained stable from June to September，and decreased gradually from Octoberto December.However，the totalbacteriadensityinsediment was significantly higherthanthatin theoverlying watercolumn ineach month.From April to June，totalbacterial density significantly increased( $_ { . } { \cdot } { \cdot } { \cdot } { \cdot } 0 . 0 5$ ）and the density of dormant Microcystis significantly decreased ( $P { < } 0 . 0 5 \$ ）in theupper sediment，which indicatedthattherecruitmentofdormant Microcystisbegan inApril.Inthesame period,theconcentration of disolved oxygen（DO）andtheTN/TPratiodecreased significantlyintheoverlying watercolumn.In May，the total bacterial density in sediment was $7 . 3 2 \times 1 0 ^ { 5 }$ colony-forming units $\mathrm { ( \ c f u ) / m L }$ ，significantly higher than that in April; moreover，the proportion of dominant flora increased remarkably（up to $61 \%$ ).The density of Microcystis cells in the overlying water column increased significantly to $1 8 0 \times { 1 0 } ^ { 6 }$ cells/mL in June，and Microcystis aeruginosa was dominant the Microcystis species.The density of dormant Microcystisin the upper sediment reduced to its minimum value, $3 . 7 1 \times \mathrm { { 1 0 ^ { 6 } c e l l s \mathcal { I } } ^ { \gamma } }$ $\mathrm { m L }$ ，atthis time.In July，thetotal bacterialdensity inthe uppersediment was notsignificantlydiferent from thatin May and June，and the proportion of dominant flora decreased to $4 0 \% - 4 2 \%$ ，which was the average value in other months. Meanwhile，thedensityof Microcystiscells intheoverlying watercolumn decreased significantly，andthedensityofdormant Microcystis increased significantly in the upper sediment ( $\scriptstyle P < 0 . 0 5 { \mathrm { ~ , ~ } }$ ). In August，the total bacterial density in the upper sediment was $8 . 8 9 \times 1 0 ^ { 5 } \mathrm { c f u / m L }$ ,which was the highest value for all months，and the proportion of dominant flora increased significantly （up to $57 \%$ ). Consequently，in September，the density of dormant Microcystis in the upper sediment again decreased significantly；incontrast，thedensityof Microcystiscelsintheoverlyingwatercolumn increasedsignificantly （ $\scriptstyle P < 0 . 0 5 { \mathrm { ~ , ~ } }$ ). This study also revealed that the dominant Microcystis species in Lake ChongTianwere M.aeruginosa，M.flosaqua，and M.wesenbergii，though therelative proportionsof thesespecies diferedin diffrent months.The dominant bacterialflorainthesedimentandoverlying watercolumnwereExiguobacterium，Pseudomonas,andBacilus,allof which can promote，to some extent，the recruitmentof dormant M.aeruginosa，M.flos-aqua,and M.wesenbergi from theupper sediment.Theseresultshaveimportant implications in that dominant bacterial flora in theuppersediment may exert important effects on the recruitment of dormant Microcystis species from the upper sediment.
+
+Key Words: Microcystis ；dormant； dominant flora； recruitment； sediment；overlying water
+
+淡水微囊藻水华频繁暴发得益于微囊藻细胞在受到外界环境胁迫时能形成营养休眠体，以渡过生长环境恶劣时期,当环境条件适宜时微囊藻休眠体启动复苏,再次种群暴发,形成水华[1-3]。微囊藻水华发生初期的藻细胞或种源主要来源于“越冬”的微囊藻休眠体群[4-5]。长期以来,许多环境科学工作者一直围绕微囊藻休眠体复苏的机理展开研究,以期能找到从源头控制微囊藻暴发水华的方法。目前,关于微囊藻休眠体复苏的生态生理学研究主要集中在温度[6-8]、光照强度[8-9]、营养盐[1-13]以及水动力等领域[14-16],很少有关于生物因子对微囊藻休眠体复苏的影响研究，特别是底泥表层菌群对微囊藻休眠体复苏的影响研究更为鲜见。水域底泥表层环境极其复杂,底泥表层和上覆水中菌群是水域中重要的组成成员,它们与众多生物及环境要素一起构成复杂的“底泥-上覆水"生态系统,这些菌群与微囊藻休眠体复苏及暴发水华之间是否存在一定的关联性不得而知。本文就此对频繁暴微囊藻水华的湖南常德西洞庭冲天湖永丰皖水域进行了为期一年的底泥和上覆水水样采集及水体部分理化指标的测定,通过对底泥及上覆水中藻、菌的月动态变化分析,结合室内模拟实验,以期从藻菌关系角度探讨微囊藻休眠体复苏与菌群动态关系。
+
+# 1材料与方法
+
+# 1.1 底泥与水样采集选址
+
+冲天湖位于湖南省常德市鼎城区石拱桥镇东北侧，面积约 $1 5 . 7 ~ \mathrm { k m } ^ { 2 }$ 的典型淡水湖泊，枯水期平均水深$1 . 3 5 \mathrm { m }$ ,丰水期平均水深 $1 . 8 0 \mathrm { m }$ ,系西洞庭湖水系。由于大力发展人工珍珠养殖业,冲天湖已成为重度富营养化湖泊,频繁暴发蓝藻水华。本实验底泥与水样采集地点选在冲天湖永丰皖水域(图1),取样点3个，即A（ $1 1 1 ^ { \circ } 9 0 ^ { \prime } 0 5 9 ^ { \prime \prime } \mathrm { E }$ $2 9 ^ { \circ } 1 4 ^ { \prime } 3 8 6 ^ { \prime \prime } \mathrm { N }$ ） $\mathrm { . B ( 1 1 1 ^ { \circ } 9 0 ^ { \prime } 4 6 2 ^ { \prime \prime } E , 2 9 ^ { \circ } 1 3 ^ { \prime } 9 6 3 ^ { \prime \prime } N ) }$ 和 $\mathrm { C } ( 1 1 1 ^ { \circ } 9 0 ^ { \prime } 9 2 2 ^ { \prime \prime } \mathrm { E } , 2 9 ^ { \circ } 1 3 ^ { \prime } 8 8 1 ^ { \prime \prime } \mathrm { N } )$ 。
+
+http://www.ecologica.cn
+
+# 1.2样品的采集与处理
+
+样品采集从2015年1月1日开始，至2015年12月30日结束。每10d采样1次，每月采样3次。
+
+# 1.2.1 底泥采集与处理
+
+用便捷式沉积物柱状取样器（KC-Denmark公司，丹麦)对 $\mathbf { A } , \mathbf { B } , \mathbf { C }$ 三个取样点进行底泥取样，取柱状底泥表层 $3 \mathrm { c m }$ 样品，混匀后用120目（孔径 $1 2 5 \mathrm { u m }$ )分样筛过滤预处理后，装人已灭菌编号的样品袋中，置于 $4 ^ { \circ } \mathrm { C }$ 手提式恒温箱内保存，带回实验室。
+
+# 1.2.2 微囊藻捕捉器（Trap)[9]及其内上覆水样采集[17](用于捕捉从底泥中复苏的休眠体藻细胞)
+
+微囊藻捕捉器是半径 $2 0 \mathrm { c m }$ 高 $1 8 0 \mathrm { c m }$ 的特制透明塑料筒，底部开口并固置于底泥表层。捕捉器四周壁下部有小孔并用 $1 0 ~ \mu \mathrm { m }$ 孔径筛网覆盖,允许湖水交换,顶端有具橡胶塞,可用小型抽水器从顶端抽取水样。本实验上覆水层指底泥表层0— $1 0 \mathrm { { c m } }$ 处水体。捕捉器在取样点A、B $\mathcal { Q }$ 各放置1个，实验第1次放置后立即抽出筒内水样,消除原上覆水中微囊藻细胞对复苏实验的影响。用 Micros 水样采集器(单管,德国)采集捕捉器内上覆水样,将每个采集点的上覆水样充分混匀并装入3个已灭菌编号的 $2 5 0 \mathrm { m L }$ 塑料瓶中。水样置于 $4 ^ { \circ } \mathrm { C }$ 手提式恒温箱内保存(其中一瓶加入Lugol's试剂 $1 0 \mathrm { m L }$ ,用于测定藻浓度）,带回实验室。
+
+![](images/a2ca84ebdaeaa74601be8e93f2b319b6d618c84ca7af41be34266f1ac3c24a56.jpg)  
+图1冲天湖取样点示意图 Fig.1sampling sites in lake Chongtian
+
+1.2.3微囊藻捕捉器外上覆水水样采集与处理：与微囊藻捕捉器内上覆水水样采集方法相同且同步进行。
+
+1.3细菌培养基及培养
+
+所用培养基为淡水细菌专用FWA培养基,配方为：蛋白陈 $5 \mathrm { g }$ 、酵母膏 $1 \mathrm { g }$ 、磷酸铁 $0 . 0 1 \mathrm { g }$ 、琼脂 $1 5 \mathrm { g }$ 蒸馏水$1 0 0 0 ~ \mathrm { { m L } }$ $\mathrm { p H } = 7 . 3 \ : . 1 2 1 \ : \mathrm { ^ { \circ } C }$ 条件灭菌 $2 0 ~ \mathrm { m i n }$ 倒平板。
+
+# 1.3.1 底泥细菌的培养
+
+在实验室将3个取样点的底泥样品倒进已经灭菌的 $2 5 0 \mathrm { m L }$ 烧杯中，充分混匀;取 $1 \mathrm { m L }$ 混匀底泥样品加入到 ${ \mathfrak { g } } _ { \mathrm { m L } }$ 无菌蒸馏水中进行梯度稀释，以此方法稀释梯度 $1 0 ^ { - 1 } { - } 1 0 ^ { - 7 }$ ;各吸取 $1 0 ^ { - 5 } - { 1 0 } ^ { - 7 }$ 样品溶液 $0 . 1 \mathrm { m L }$ 于FWA 淡水培养基平板涂布,培养48h后选择合适的梯度平板进行计数。
+
+1.3.2 微囊藻捕捉器内外上覆水中细菌的培养
+
+从没加Lugol's试剂的塑料瓶中吸取 $1 \mathrm { m L }$ 水样,加入到 ${ \displaystyle 9 \mathrm { m L } }$ 无菌蒸馏水中进行梯度稀释。稀释梯度$1 0 ^ { - 1 } { - } 1 0 ^ { - 7 }$ ,吸取 $1 0 ^ { - 5 } { \div } 1 0 ^ { - 7 }$ 样品溶液 $0 . 1 \mathrm { m L }$ 于FWA 淡水培养基平板涂布,培养 $4 8 \mathrm { h }$ 后选择合适的梯度平板计数。
+
+# 1.4 细菌的分离与鉴定
+
+# 1.4.1分离
+
+从平板上随机挑取10 株细菌,在新平板培养基上划线纯化。每培养 $^ { 4 8 \mathrm { ~ h ~ } }$ 进行1次划线,直到获得纯的菌株。将获得的单一菌株用 $1 5 \ \%$ 的甘油生理盐水制成菌悬液,在 $- 8 0 \mathrm { { ^ circ C } }$ 超低温冰箱内保藏。
+
+# 1.4.2细菌的鉴定
+
+细菌分子生物学鉴定（16SrDNA）：挑取单菌落接种到 $1 0 ~ \mathrm { m L }$ LB 培养基中 $3 7 \%$ 振荡过夜培养;取 $2 { \mathrm { ~ m L ~ } }$ 培养液到 $2 ~ \mathrm { m L }$ EP 管中, $8 0 0 0 ~ \mathrm { r / m i n }$ 离心 $2 \mathrm { m i n }$ 后倒掉上清液;加 $1 4 0 ~ \mu \mathrm { L } T E$ 打散细菌,再加入 $6 0 ~ { \mu \mathrm { L } } ~ 1 0 ~ \mathrm { m g / m L }$ 的溶菌酶; $3 7 ^ { \circ } \mathrm { C }$ 放置 $1 0 \mathrm { { m i n } }$ ;加入 $4 0 0 ~ \mu \mathrm { L }$ Digestion Buffer,混匀。再加入 $3 ~ \mu \mathrm { L }$ 蛋白酶K,混匀, $5 5 \mathrm { { ^ \circ C } }$ 温育 $5 \mathrm { m i n }$ ：加入 $2 6 0 ~ \mu \mathrm { L }$ 乙醇,混匀,全部转入UNIQ-10 柱中。 $1 0 0 0 0 ~ \mathrm { r / m i n }$ 离心 $1 \mathrm { m i n }$ ,倒去收集管内的液体;加入 $5 0 0 ~ \mu \mathrm { L }$ $70 \%$ 乙醇（Wash Solution）, $1 0 0 0 0 ~ \mathrm { r / m i n }$ 离心 $0 . 5 \mathrm { m i n }$ ;再 $1 0 0 0 0 ~ \mathrm { r / m i n }$ 离心 $2 \mathrm { m i n }$ 彻底甩干乙醇。吸附柱转移到一个新的 $1 . 5 \mathrm { m L }$ 的离心管;加入 $5 0 \mu \mathrm { L }$ 预热( $6 0 ^ { \circ } \mathrm { C }$ )的洗脱缓冲液,室温放置 $3 \mathrm { m i n }$ 。 $1 2 0 0 0 ~ \mathrm { r / m i n }$ 离心 $2 \mathrm { m i n }$ ,流下的液体即为基因组DNA；以DNA为模板，采用细菌通用引物：正向引物27F： $5 ^ { \prime }$ ，AGAGTTTGATCCTGGCTCAG- $3 ^ { \prime }$ 和反引物 $1 4 9 2 \ \mathrm { R } ; 5 ^ { \prime }$ -GGTTACCTTGTTACGACTT- $3 ^ { \prime }$ 扩增细菌16SrDNA序列，引物由上海生工合成,回收的片段也由上海生工进行测序,测序引物为16S PCR引物;将测序的结果进行NCBI序列比对,鉴定菌种。
+
+# 1.5 微囊藻(休眠体)的鉴定和计数
+
+# 1.5.1 微囊藻捕捉器內外上覆水中微囊藻
+
+将加入Lugol's试剂的水样充分摇匀，用40KHZ超声波解聚 $2 \mathrm { m i n }$ ,用血球计数板( $2 5 \times 1 6$ )镜检。微囊藻的分类鉴定参照文献[18],计算各藻丰度和总藻丰度[19]。
+
+# 1.5.2 底泥中微囊藻休眠体
+
+将 $4 \%$ 的甲醛溶液与蒸馏水按体积比1:1配置成甲醛混合溶液,再取 $1 ~ \mathrm { m L }$ 混匀底泥样品用 $4 0 \%$ 的硅石胶（percoll)悬浮液预处理后加人到 $9 \mathrm { m L }$ 甲醛混合溶液中进行稀释。取 $1 ~ \mathrm { m L }$ 样液于水生植物计数板上静置4h,用倒置荧光显微镜进行镜检分类并计数[9]。
+
+# 1.6上覆水水体理化指标测定
+
+使用便捷式多功能水质检测仪(梅特勒FG4-B)现场测定上覆水温度 $( T ) \lrcorner \mathrm { { p H } }$ 与溶解氧（DO），重复测定3次；总氮（TN）采用碱性过硫酸钾紫外分光光度法（GB11894-89），总磷 $( \mathrm { { T P } }$ )采用钼酸铵分光光度法（GB11893-89）。
+
+# 1.7 室内模拟实验
+
+将浅层底泥高压蒸汽灭菌( $1 2 1 \mathrm { { ^ circ C } }$ 条件下灭菌 $2 0 ~ \mathrm { m i n }$ ），冷却后取 $2 0 0 \mathrm { m L }$ 底泥均匀平铺于直径 $1 5 \mathrm { c m }$ 、高$5 0 \mathrm { { c m } }$ 的特制圆形刻度玻璃筒中;将步骤1.4分离出的各优势菌和步骤1.5分离出休眠体藻泥混合并用 BG11培养液浸润包埋(对照组不加菌,底泥中菌浓度均为 $1 \times 1 0 ^ { 5 } \mathrm { c f u } / \mathrm { m L }$ ,休眠体丰度均为 $\boldsymbol { 1 \times 1 0 ^ { 5 } } \mathrm { c e l l / m L }$ ），用导流棒依玻璃筒壁缓慢(防止搅动底泥)加入BG11培养液至 $4 0 \mathrm { c m }$ 处;后将玻璃筒置于温度 $2 4 ^ { \circ } \mathrm { C }$ 、固定光照强度$1 0 \mu \mathrm { E m } ^ { - 2 } \mathrm { s } ^ { - 1 }$ （预实验表明与野外夏秋季节湖泊水下 $1 8 0 \mathrm { c m }$ 处平均光强相当)光：暗比 $1 2 \mathrm { h } : 1 2 \mathrm { h }$ 的人工气候箱中培养 $2 8 \mathrm { d }$ 。4d取水样1次 $1 0 ~ \mathrm { m L }$ ,测定玻璃筒水体中藻丰度,测定方法同1.5.1。
+
+1.8细菌、微囊藻和休眠体的计数以及上覆水理化指标的测定全程三平行组,数据以平均值 $\pm$ 标准差( $\mathrm { X \pm S D }$ ）表示;作图采用Excel2007,统计分析采用SPSS13.0软件;试验期藻菌的动态变化情况采用单因素方差分析（ANOVA）及Duncans多重比较分析处理，以 $\scriptstyle P < 0 . 0 5$ 作为差异显著水平。
+
+# 2结果与分析
+
+2.1冲天湖上覆水理化指标动态
+
+冲天湖(取样点)上覆水1—8月份平均水温逐渐上升,月度平均水温从1月份 $( 8 . 6 5 { \scriptstyle \pm 0 . 4 7 } ) \mathrm { \mathcal { C } }$ 上升至8月份 $( 2 5 . 7 5 { \pm } 1 . 8 2 )  { \mathrm { ~ \% ~ } } , 3 { \mp } 6$ 月份平均水温月度差异显著( $\scriptstyle P < 0 . 0 5 { \mathrm { ~ , ~ } }$ ）（表1）；4、5、6月份以及9月份水体偏碱性$\mathrm { \langle p H { > } 8 . 0 \rangle } \sqrt { \mathrm { \langle 6 } }$ 月份pH值 $( 9 . 0 1 { \scriptstyle \pm 0 . 7 1 } ) \$ 与其他月份差异显著( $\scriptstyle P < 0 . 0 5$ )(表1);溶解氧(DO)浓度月度变化较明显， $\dot { 6 }$ 月份和9月份溶解氧浓度分别为 $( 2 . 3 2 { \pm } 0 . 3 8 ) \mathrm { m g / L }$ 和 $( 2 . 2 8 { \pm } 0 . 2 6 ) \mathrm { m g / L }$ ,显著低于其他月份( $\scriptstyle \left( P < 0 . 0 5 \right)$ （204号（表1）; $4 { \scriptstyle \ + \ j }$ 月份 TN 浓度明显低于其他月份,5、6月份和9月份 TP 浓度较低,TN/TP 较低值出现在4—5月份和 $7 { \ - } 8$ 月份(表1)。
+
+$\pmb { 2 . 2 } ^ { \nu }$ 底泥表层与微囊藻捕捉器内外上覆水中总菌浓度
+
+2—5月份底泥表层总菌浓度显著上升,5—9月份底泥表层总菌浓度无显著差异( $( P { > } 0 . 0 5 )$ 。9月份总菌浓度最大 $8 . 8 9 \times 1 0 ^ { 5 } \mathrm { c f u } / \mathrm { m L } , 2$ 月份总菌浓度最小 $1 . 1 6 \times 1 0 ^ { 5 } \ \mathrm { c f u / m L }$ （图2I）。微囊藻捕捉器内外上覆水中总菌浓度月度动态与底泥表层总菌浓度动态基本一致。上覆水中总菌浓度显著低于底泥表层总菌浓度( $P <$ 0.05）,同月份微囊藻捕捉器内外上覆水中总菌浓度无显著性差异( $\scriptstyle P > 0 . 0 5 )$ （图 $2  { \mathbb { I } }$ ）。
+
+表1不同月份冲天湖上覆水水体理化性质动态  
+Table 1Dynamic of physical and chemical properties in overlying water column every month   
+
+<html><body><table><tr><td>月份 Month</td><td>温度T/℃ Temperature</td><td>pH值 pH value</td><td>溶氧 DO/(mg/L) Dissolved Oxygen</td><td>总氮 TN/(mg/L) Total Nitroge</td><td>总磷 TP/(mg/L) Total Phosphorus</td><td>氮磷比 TN/TP</td></tr><tr><td>1</td><td>8.65±0.47a</td><td>7.72±0.75a</td><td>6.95±0.88a</td><td>0.87±0.21</td><td>0.11±0.02</td><td>7.91a</td></tr><tr><td>2</td><td>9.71±0.59a</td><td>7.58±0.62a</td><td>6.62±0.67a</td><td>0.85±0.22</td><td>0.13±0.06</td><td>6.54b</td></tr><tr><td>3</td><td>9.87±0.76a</td><td>7.93±0.94a</td><td>6.37±0.71a</td><td>0.71±0.24</td><td>0.12±0.05</td><td>5.92b</td></tr><tr><td>4</td><td>11.58±0.62b</td><td>8.15±0.72a</td><td>5.31±0.48a</td><td>0.52±0.19</td><td>0.12±0.08</td><td>4.33c</td></tr><tr><td>5</td><td>17.83±1.55c</td><td>8.74±0.56a</td><td>4.96±0.63b</td><td>0.31±0.16</td><td>0.07±0.03</td><td>4.43c</td></tr><tr><td>6</td><td>23.67±1.84d</td><td>9.01±0.71b</td><td>2.21±0.38c</td><td>0.41±0.08</td><td>0.06±0.02</td><td>5.83b</td></tr><tr><td>7</td><td>23.91±1.44d</td><td>7.61±0.83a</td><td>3.19±0.42c</td><td>0.55±0.31</td><td>0.12±0.05</td><td>4.58c</td></tr><tr><td>8</td><td>25.75±1.82d</td><td>7.85±0.66a</td><td>4.56±0.44b</td><td>0.39±0.23</td><td>0.09±0.04</td><td>4.38c</td></tr><tr><td>9</td><td>22.96±2.15d</td><td>8.76±0.95a</td><td>2.28±0.26c</td><td>0.44±0.12</td><td>0.07±0.04</td><td>5.29b</td></tr><tr><td>10</td><td>15.39±1.37c</td><td>7.83±0.41a</td><td>4.62±0.51b</td><td>0.61±0.30</td><td>0.11±0.03</td><td>5.55b</td></tr><tr><td>11</td><td>11.64±1.76b</td><td>7.54±0.58a</td><td>6.75±0.72a</td><td>0.72±0.20</td><td>0.11±0.05</td><td>6.55b</td></tr><tr><td>12</td><td>9.65±0.96a</td><td>7.62±0.52a</td><td>6.56±0.69a</td><td>0.80±0.18</td><td>0.13±0.06</td><td>6.15b</td></tr></table></body></html>
+
+微囊藻捕捉器内外上覆水能进行交换,内外上覆水理化指标采用同一组数据表示,表中数据为平均值±标准差( $\scriptstyle n = 3$ ),不同小写英文字母表示同一指标不同月份间的差异显著( $\scriptstyle P < 0 . 0 5$ ）
+
+![](images/e6f5bffc638cd131609f997766a1d8a316a3ef272ced9b39c36f039ad47ccaf7.jpg)  
+图2不同月份浅层底泥与微囊藻捕捉器内外上覆水体中总菌浓度的动态变化  
+Fig.2Dynamic of total bacteria density onsediment,inside andoutside overlying water column of Trap by mont
+
+I表示浅层底泥，Ⅱ表示微囊藻捕捉器内外上覆水体;图1中不同大写字母表示不同月份总菌浓度具显著性差异,不同小写英文字母表示司月份微囊藻捕捉器内外上覆水体总菌浓度具显著性差异( $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ,图中数据为平均值 $\pm$ 标准差( $\scriptstyle n = 3$ ）
+
+2.3底泥表层微囊藻休眠体与捕捉器内外上覆水中总微囊藻细胞丰度
+
+1—5月份底泥表层微囊藻休眠体丰度无显著差异( $P { > } 0 . 0 5 )$ ,6月份显著下降( $\scriptstyle \left( P < 0 . 0 5 \right)$ 。7月份与10月份底泥表层微囊藻休眠体丰度急剧上升，两者无显著性差异( $P { > } 0 . 0 5 )$ ,与其他月份均具显著性差异( $P <$ 0.05）。全年底泥微囊藻休眠体最大浓度为 $3 6 . 4 6 \times 1 0 ^ { 5 }$ 个 $\mathrm { \Delta m L }$ （图3Ⅰ）。4—11月份捕捉器内外上覆水中均检测到微囊藻细胞,内外总微囊藻细胞丰度无显著差异( $P { > } 0 . 0 5 )$ 。6月份与9月份捕捉器内外上覆水中总微囊藻细胞丰度快速上升,两者无显著性差异( $P { > } 0 . 0 5 )$ ,但与其他月份均具显著性差异( $P { < } 0 . 0 5 )$ （图 $3 \mathbb { I }$ ）。
+
+# 2.4底泥表层与微囊藻捕捉器内外上覆水中菌群动态
+
+全年筛出底泥菌150株,其中微小杆菌属（Exiguobacterium)菌48株,芽孢杆菌属（Bacillus）菌31株,假单胞菌属（Pseudomonas）菌13株。上覆水中筛出菌株126株,其中微小杆菌属（Exiguobacterium）菌24株,芽孢杆菌属（Bacilus)菌24株,假单胞菌属（Pseudomonas）菌25株(表2）。底泥表层与上覆水中优势菌群均为微小杆菌属（Exiguobacterium）、假单胞菌属（Pseudomonas）和芽孢杆菌属（Bacillus）。
+
+http://www.ecologica.cn
+
+![](images/50554e438272e53a32e2aa983e26cdbc6f3cb6fc0e94ff083865baa6178e4a9a.jpg)  
+图3不同月份浅层底泥休眠体与捕捉器内外上覆水体总藻细胞丰度的动态
+
+Fig.3DyamicofMicrocystisdormantdensityosediment,MicrocystiscellinsidendoutsideoverlyingatercolumofTrapbyonthI表示浅层底泥，Ⅱ表示捕捉器内外上覆水体;图2中不同大写字母表示不同月份总藻细胞或休眠体丰度具显著性差异,不同小写字母表示同月份捕捉器内外上覆水体总藻细胞丰度具显著性差异( $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ），图中数据为平均值 $\pm$ 标准差( $\scriptstyle n = 3 )$
+
+表2浅层底泥与上覆水中分离出细菌的种属与数量  
+Table 2Number of bacteria flora and Strain on sediment and in overlying water column   
+
+<html><body><table><tr><td>底泥中菌属 Bacteria flora in sediment</td><td>菌株数量/株 Number of strains</td><td>上覆水中菌属 Bacteria flora in overlying water</td><td>菌株数量/株 Number of strains</td></tr><tr><td>微小杆菌属 Exiguobacterium</td><td>48</td><td>假单胞菌属 Pseudomonas</td><td>25</td></tr><tr><td>芽孢杆菌属Bacillus</td><td>31</td><td>微小杆菌属 Exiguobacterium</td><td>24</td></tr><tr><td>黄杆菌属Flavobacterium</td><td>15</td><td>芽孢杆菌属Bacillus</td><td>24</td></tr><tr><td>假单胞菌属Pseudomonas</td><td>13</td><td>气单胞菌属 Aeromonas</td><td>18</td></tr><tr><td>放线菌属 Actinomyces</td><td>8</td><td>链霉菌属 Streptomyces</td><td>9</td></tr><tr><td>变形杆菌属Proteobacterium</td><td></td><td>诺卡菌属 Nocardia</td><td>8</td></tr><tr><td>色杆菌属 Chromobacterium</td><td>7</td><td>变形菌Proteobacteria</td><td>5</td></tr><tr><td>气单胞菌属 Aermonas</td><td>5</td><td>黄杆菌属Flavobacterium</td><td>5</td></tr><tr><td>不动杆菌属Acinetobacter</td><td>5</td><td>产碱杆菌属 Alcaligenes</td><td>4</td></tr><tr><td>链霉菌属 Streptomyces</td><td>4</td><td>放线菌属 Actinomyces</td><td>4</td></tr><tr><td>肠杆菌 Enterobacter</td><td>4</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>酵母菌属 Saccharomyces</td><td>2</td><td></td><td></td></tr></table></body></html>
+
+款囊藻捕捉器内与捕捉器外上覆水能进行交换,内外上覆水中细菌的种属与数量采用同一组数据表示
+
+5月份底泥表层微小杆菌属（Exiguobacterium）、假单胞菌属（Pseudomonas）和芽孢杆菌属（Bacillus）三类优势菌属占总菌属的 $6 1 \% , 8$ 月份占 $5 7 \%$ ,其他月份约占总菌属的 $4 0 \%$ （图4A）。5月份上覆水中的三类优势菌属占总菌属的 $5 4 \%$ ,8月份占 $5 8 \%$ 。上覆水中芽孢杆菌属(Bacillus)占比低于同月份底泥中的占比,而假单胞菌属（Pseudomonas）占比要高于同月份底泥中的占比（图4B）。
+
+$2 . 5 6 . 9$ 月份微囊藻捕捉器内外上覆水中优势藻种及其占比
+
+6月份和9月份上覆水中总微囊藻细胞丰度显著高于其他月份( $\scriptstyle \left( P < 0 . 0 5 \right)$ （图2）,捕捉器内外上覆水中优势藻均为铜绿微囊藻（Microcystis aeruginosa）、水华微囊藻（Microcystis flos-aqua）和惠氏微囊藻（Microcystiswesenbergi），捕捉器内外上覆水中优势藻占比无显著性差异（图5I、图 $\mathfrak { s h }$ ）。6月份3种微囊藻细胞占总微囊藻细胞数的 $9 2 \%$ ,其中铜绿微囊藻（M.aeruginosa）占比为 $6 8 \%$ ,与其他微囊藻占比具有显著性差异( $P <$ 0.05)（图5）。9月份3种微囊藻细胞占总微囊藻细胞数的 $91 \%$ ,其中铜绿微囊藻（M.s aeruginosa）占比为$3 7 \%$ 、水华微囊藻(M.flos-aqua)占比为 $4 6 \%$ ,惠氏微囊藻（M.wesenbergii）占比为 $8 \%$ 。9月份铜绿微囊藻与水华微囊藻占比无显著性差异( $P { > } 0 . 0 5 \$ ),与其他微囊藻占比具显著性差异( $\scriptstyle P < 0 . 0 5 )$ （图5）。
+
+http://www.ecologica.cn
+
+![](images/655e9ec4e00a48562be5b72d4fa17de83b5f242cc0ed16c146e3898f7fb6f3c5.jpg)  
+Fig.4Dynamic of dominant bacteria flora rate on sediment and in overlying water column
+
+![](images/e580b3636a054cba5719d2b2e0820b2d3e267c81eca62ec29650fb0573cd77dc.jpg)  
+图4底泥表层与上覆水中优势菌(属)占比动态  
+图56、9月份上覆水体中优势藻种及其占比  
+Fig.5Rate of dominant Microcystis of overlying water column in June and September
+
+I;捕捉器内上覆水体,ⅡI;捕捉器外上覆水体;大写字母表示不同月份同一优势微囊藻占比具有差异显著性,小写字母表示同月份不同优势微囊藻占比间差异显著性( $\scriptstyle P < 0 . 0 5 )$ ，图中数据为平均值 $\cdot \pm$ 标准差( $n = 3$ ）
+
+# 2.6优势菌属对微囊藻休眠体复苏影响
+
+微小杆菌属（Exiguobacterium）、假单胞菌属（Pseudomonas）和芽孢杆菌属（Bacillus）均对铜绿微囊藻（M.aeruginosa)休眠体复苏具显著促进作用( $P { < } 0 . 0 5 )$ ,微小杆菌属和芽孢杆菌属促复苏作用显著强于假单胞菌属( $\scriptstyle ( P < 0 . 0 5 )$ （图6);假单胞菌属、微小杆菌属和芽孢杆菌属对惠氏微囊藻(M.wesenbergii)休眠体促复苏作用弱于对铜绿微囊藻休眠体，三类菌属对惠氏微囊藻休眠体促复苏作用无显著差异( $\scriptstyle P > 0 . 0 5 { \mathrm { ~ , ~ } }$ ),但均显著强于对照组 $\scriptstyle ( P < 0 . 0 5 )$ （图6）;假单胞菌属对水华微囊藻(M.flos-aqua)休眠体的促复苏效果显著强于微小杆菌属和芽孢杆菌属( $P { < } 0 . 0 5 \mathrm { ) }$ )。微小杆菌属和芽孢杆菌属对水华微囊藻休眠体的促复苏效果无显著差异( $P { > } 0 . 0 5 \mathrm { ; }$ ，但均显著强于对照组( $P { < } 0 . 0 5 )$ （图6);三类优势菌属对鱼害微囊藻（M.ichthyoblabeKutz）休眠体的促复苏作用不明显(图6）。
+
+# 3讨论
+
+1—3月份微囊藻捕捉器内上覆水中无微囊藻细胞检出，捕捉器外上覆水中能检测出且丰度很低；4—6月份捕捉器内外上覆水中均检出微囊藻细胞，且微囊藻细胞丰度逐渐增加，但捕捉器内外微囊藻细胞丰度无显各组小写字母表示同时期不同设计实验组(加不同的菌)微囊藻丰度具有显著性差异( $P { < } 0 . 0 5 )$ ;图中数据为平均值 $\cdot \pm$ 标准差( $\scriptstyle n = 3$ 著性差异;4—6月份底泥表层微囊藻休眠体丰度逐渐降低（图3）。这说明冲天湖底泥表层微囊藻休眠体从4月份开始复苏，且底泥表层中微囊藻休眠体是上覆水中微囊藻细胞的主要种源。富营养化湖泊上覆水中微囊藻种的来源一直存在争议;Preston 等[4]对 Blelham Tam 湖的微囊藻生活史进行同位素追踪实验,发现夏季水体中微囊藻种源主要来自于底泥越冬的休眠体;Brunberg 等[9]在对瑞典湖泊底泥越冬微囊藻复苏进行研究时,发现参与水华形成的微囊藻细胞 $5 0 \%$ 来自底泥休眠体复苏;Thomas 等[20]通过实验发现水华微囊藻中只有 $3 \%$ 1 $4 . 2 \%$ 来自底泥微囊藻的复苏;Bostrom 等[15]甚至认为在富营养化水体中,底泥微囊藻休眠体的数量会超过水体中的总微囊藻生物量最大值。本研究结果(图3)与 Preston 等和 Brunberg 等实验结果近似。
+
+![](images/3b336c4b988cf3e10977070c55cea1b6dbdfaf5979427a2e99cd86bdf6beb110.jpg)  
+图6三类优势菌(属)对4微囊藻休眠体复苏的影响  
+Fig.6Effect of three dominant bacteria on recruitment of four Microcystis dormant
+
+4—6月份冲天湖平均水温 $1 1 \mathrm { { ^ { c } } }$ 以上（表1）,满足底泥微囊藻休眠体复苏对温度的要求[2I-22]。同时，“底泥-上覆水"界面溶解氧(DO)浓度逐渐降低,至6月份溶解氧浓度达最低值,显著低于1—3月份(表1)。较低的溶解氧环境能促进或诱发微囊藻休眠体复苏:Tsujimura 等[16]对日本琵琶湖底泥中微囊藻生物量的季节变化研究时发现,低氧的底泥环境能提升底泥表层微囊藻休眠体的复苏率;Brunberg 等[9]在对 Limmaren 湖的滨湖区和大湖区底泥上微囊藻越冬过程生物量变化的研究中,也得出类似结论,认为低水平的DO有利于微囊藻休眠体的越冬和复苏。本研究中4—6月份底泥表层总菌浓度显著增加,优势菌群主要是微小杆菌属（Exiguobacterium）、假单胞菌属（Pseudomonas）和芽孢杆菌属（Bacillus）菌株(表2,图4）。可能正是由于底泥和上覆水中三类优势菌群的快速生长增殖消耗"底泥-上覆水"界面的溶解氧[23],导致4—6月份的低氧环境,促进或诱发底泥表层微囊藻休眠体复苏（底泥微囊藻休眠体丰度逐渐降低和上覆水中微囊藻细胞丰度逐渐上升）。这一结果与Tsujimura 等和 Brunberg 等的研究结果趋同,底泥表层和上覆水中优势菌群可能对底泥低氧环境和促进或诱发微囊藻休眠体复苏起着重要作用。
+
+氮(TN)和磷(TP)是微囊藻休眠体复苏和暴发水华的营养因子,特别是TN/TP 对微囊藻休眠体复苏影响较大。Katri 等[24]和Verspagen 等[25]通过实验证明降低 TN/TP 比有利用诱发铜绿微囊藻休眠体复苏、上浮,同时Wan 等[2]得出相似结论;Benjamin 等[26]认为TN、TP 以及低 TN/TP 比只是微囊藻复苏的必要条件而非诱发因子,诱发微囊藻休眠体复苏并导致微囊藻水华暴发的主要因子是底栖生物的扰动或化感作用；Anne等[27]通过实验证明了小幅度的生物扰动有利于促进底泥微囊藻休眠体的生长和新陈代谢,这个结论得到了Li 等[28]研究结果的支持;苏玉萍等[29]认为底栖生物的物理扰动对微囊藻休眠体复苏的影响作用不如低 TN/TP 显著。本研究4—5月份TN/TP比显著低于1—3月份,可能是底泥表层和上覆水中优势菌浓度显著上升所引起(表1,图2),特别是微小杆菌属中的反硝化杆菌、斯氏杆菌及萤气极毛杆菌等具有较强去除 TN 的能力,致使 TN/TP 比下降。但TN/TP 比下降促进或诱发微囊藻休眠体复苏的机理目前尚不清楚,待进一步研究。
+
+室内模拟实验表明微小杆菌属（Exiguobacterium）、假单胞菌属（Pseudomonas）和芽孢杆菌属（Bacillus）对铜绿微囊藻（Microcystis aeruginosa）、水华微囊藻（Microcystis flos-aqua）和惠氏微囊藻（Microcystis wesenbergi）休眠体均具有促复苏作用。底泥与上覆水中促藻功能菌的筛选和利用偶见报道：Ukeles 等[30]从频繁发生赤潮的浅海底泥中分离出了一株能促进水生植物硅藻快速生长的促藻细菌;Imai 等[31]和 Spiling 等[32]通过实验证明了一些环境细菌能够针对性的促进某种藻类的生长和繁殖,利用促藻细菌可大大提高藻类产量;Hermandez 等[33]从对虾健康养殖池中富集并分离出 60株优势菌,从中筛选出了3株能高效降解有机物和促藻生长的菌株。本研究中底泥表层优势菌属对微囊藻休眠体虽具促复苏功能,但不同菌属对同一微囊藻休眠体的促复苏作用具有显著差异(图6),这种显著性可能是导致冲天湖水域不同季节优势藻占比存在很大差异的原因（图5）。冲天湖水域底泥微囊藻休眠体和上覆水中优势藻主要是铜绿微囊藻（M.aeruginosa）、水华微囊藻（M.flos-aqua)和惠氏微囊藻(M.wesenbergii）,但不同月份(季节)三者的占比存在差异。藻类占比的季节性差异在其他水域普遍存在[34]。
+
+由于本研究只对底泥表层和上覆水中藻菌浓度和部分理化性质进行取样测定，除了优势菌群增长可能导致低氧、低 TN/TP 环境而影响微囊藻休眠体复苏外,关于这些菌群促进或诱发微囊藻休眠体复苏的具体机理并不清楚（如有无菌群化感或种间竞争关系等）,这些都有待进一步深化研究。
+
+# 4结论
+
+冲天湖水域底泥表层微囊藻休眠体是上覆水中微囊藻的主要种源。微囊藻休眠体4月份开始复苏进入上覆水中,优势藻为铜绿微囊藻（M.aeruginosa）、水华微囊藻（M.flos-aqua）和惠氏微囊藻（M.wesenbergi ）;复苏前后（主要2—6月份)底泥表层总菌浓度逐渐上升,优势菌群是微小杆菌属（Exiguobacterium）、假单胞菌属（Pseudomonas）和芽孢杆菌属（Bacilus）菌株;微囊藻休眠体复苏同时上覆水DO浓度与TN/TP比下降,底泥表层微囊藻休眠体丰度下降，上覆水中微囊藻丰度上升且占比存在差异。这些可能均与优势菌群的快速增值而改变“底泥-上覆水"界面的理化性质有着密切关系。
+
+致谢：美国密苏里大学宋齐生教授帮助写作,湖南文理学院刘飞副教授帮助做图,特此致谢。
+
+# 参考文献（References）:
+
+[1]ReyolsCawosiGHhH,LdaleGFOalefgrelgMoctsgsKtekinPhilosophical Transactions of the Royal Society B:Biological Sciencess，1981,293：419-477.  
+[2]WangJosttfiostudy in a novel device.Fresenius Environmental Bulletin,2008,17(12b）：2146-2151.  
+[3］孔繁翔，高光.大型浅水富营养化湖泊中蓝藻水华形成机理的思考.生态学报，2005，25(3)：589-595.  
+[4]Prestoeart,elsCfgaocteosisgtesoitucure,288(5789):365-367.  
+[5]RsstiV，ShreisterBE，BeasoiMV，BghriHC.eevoutioaypathtteinaldiferentiatoanddivisionoflaborncyanobacteria.Journal of Theoretical Biology，2010，262（1）：23-34.  
+[6］谭啸,孔繁翔,于洋,史小丽,张民.升温过程对藻类复苏和群落演替的影响.中国环境科学,2009,29(6)：578- 582.
+
+JchngcoccteaAlgae，2011,12：95-104.8CceresldsCetsrtiflldoootiKtEeieleethe initiation of itsannual growth cycle in lake.Archivfur Hydrobiologia,1984,99:379-397.[9]BrunbergAK，BlomqvistPRecruitmentofMicrocysis（Cyaophcae）fromlakesdiments：TheimportanceofitoralinoculaJoualfPhycology，2003，39（1）：58-63.[10]ta-e,aAetftucebsosaotJResearch,2003，25（9）：1099-1106.[11] 万能,汤俊,宋立荣.微囊藻休眠体复苏机制的研究进展.水生态学杂志，2010,3(4)：113-117.[12] Schone K,JanichenS,IleT,LudwigbF,BedorfJ.Arivinginbetershape：BenthicMicrocysisasinoculuforpelagicgrowth.I HarmfulAlgae，2010,9(5）:494- 503.[13］张娟,李春华,叶春,赵晓峰,朱琼芳.沉水植物黑藻腐解对微囊藻休眠体复苏的影响.环境科学研究，2012，25（1）：43-50[14] 代晓炫,朱伟,李明.营养盐对微囊藻细胞组分及多糖组成的影响.湖泊科学，2013,25(2)：277-282.[15]BostrBeeKeoaldsofobedateblityincetsaloweutrophic lake.Aquatic Sciences，1989,51：153-178.[16]TsujiuaS,ukdaH,kaaaHjaisasoalratiosfrocystisulatisdintsoflaiaaHydrobiologia，2000,434（1/3）：183-192.[17] WuZX，SongLR,LiRHferentolerancesndresponsestotmperatureanddrkessbetweewaterbloofoingcyobcteruMicrocystis and a green alga Scenedesmus.Hydrobiologia,2008,596（1）：47-55.[18] 虞功亮，宋立荣,李仁辉.中国淡水微囊藻属常见种类的分类学讨论——以滇池为例.植物分类学报，2007,45（5）：727-741.[19] 赵洋甬，马静军,肖国起.微囊藻细胞计数法研究.福建分析测试，2010,19(3）；76-78.[20] ThomasRH,WalsbyAE.TheectsoftemperaturesonecoveryofbuoyancybyMicrocysts.Microbiology986,32（6)：66-62.2]KarlsoEfey，yseKetdecohofro）eErken. Journal.of Phycology，2003，39：1050-1056.[22] YamamotoY.Efectoftemperatureonrecruitmentofcyanobacteriafromsdimentandboomfomationinashalowond.PlanktonadBenthosResearch,2009，4（3）：95-103.[23]LiJF,ZagJY,LuLYFnYC,LiL,gY,LZH,ZgXG.Aalperditiaktocbacteralarealcomposition of eutrophic Lake Taihu. Scientific Reports,2015,5:1548824]BergKA,aiKulalaJ.esiroocyanobacterial water blooms.The ISME Journal,2009,3（3）：314-325.[25]VerspagenJMH,SelderEO，ViserPJnkKD,belingsB,MurLR,HuismanJBenthic-pelagiccouplingintheoulaiondynamics of the harmful cyanobacterium Microcystis.Freshwater Biology，2005,50（5）： 854-867.26]Misobrtbdouetotitofocteo（CYANOPHYCEAE). Journal of Phycology，2011,47(1） ： 42-51.[27]WilkinsonA，Hon，uaaMetofsmal-saleturbulenceontherowthndmtabolismofmicrocystiseruginoAdvancinMicrobiology，2016,6(5）：351-367.[28]Li，XiovioentalfactorelatedteoncefMcocystiesebergidMicotisrgiointroicake.Environmental Earth Scier es,2016,75(8):675.[29］苏玉萍,林慧,钟厚璋,林佳,陈静.富营养化山仔水库沉积物微囊藻复苏的受控因子.生态学报，2011,31（20）：6167-6173[30] UkelesR，BishopJ.Enhancementofphytoplanktongrowthbymarinebacteria.Journalof Phycology，1975,1（2）：142-149.3Iiuasfelmicro-organisms in the coastal sea of Japan.Phycological Research,1998,46(2）：139-146.32]SpilinKaoillaceitdeligfetfalaaSystems，2008，73(3/4):323-337.33]Hean-BsaEgeDdrgeshrowhrootiofresatecoalgaorellgnitrogen-fixing，plantgow-prootgcteciluspumusfordoeslEropnJoualofSlolg，,4（9.[34］李阔宇,宋立荣,万能.底泥中微囊藻复苏和生长特性的研究.水生生物学报，2004，28（2)：113-118.

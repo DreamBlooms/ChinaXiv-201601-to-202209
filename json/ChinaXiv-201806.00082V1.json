@@ -1,0 +1,397 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201712212297 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李志,李鹏,刘强.长江中游大城市不透水面增长模式及其驱动因素.生态学报,2018,38(11);3766-3774.  \nLiZ,LiPLiuSdyoodelofatersfacowthditsifctosinlageiilogthdeacsofthiectaEcologica Sinica,2018,38(11) :3766-3774.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "长江中游大城市不透水面增长模式及其驱动因素",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李志1,2,3,\\*,李鹏,刘 强1,2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1江西师范大学城市建设学院，南昌330022  \n2 江西师大规划设计研究院，南昌330022  \n3同济大学建筑与城市规划学院，上海200092",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以1995、2003、2010、2015年4期遥感影像数据为基础,对武汉、长沙、南昌为例的长江中游城市20年不透水面增长及驱动因素进行研究。结果表明,三城市不透水面增长显著,接近预警水平,格局呈突围扩张的基本态势;现阶段武汉不透水面主要为城郊面源“零星\"增长模式贡献较大;长沙、南昌则主要来源于新城\"线式\"延伸及其内部\"面式\"填充模式;道路投资、区划政策、城市规划控制、固定资产投资、房产投资、人口增长、透水技术等是影响三城市不透水增长的主要因素,但各因素影响敏感度在三城市中又有差异;三城市可从强化城乡规划的管理措施、控制过热的房地投资经济政策措施、平衡区域人口格局的社会政策措施以及推广透水材料和技术的科技措施等方面来缓解不透水率的增长。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：不透水面；增长模式；驱动因素；中游城市",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Study on a model of water surface growth and its driving factors in large cities along the middle reaches of the Yangtze River ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Zhi1,2.3,\\*,LI Peng1，LIU Qiang1,2 1Jiangxi Normal University City Construction College，Nanchang 33oO22,China 2CityPlanning and Institute of Jiangxi Normal University，Nanchang 33oo22,China 3 College of Architecture and Urban Planning Tongji University， Shanghai 2Ooo92,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Based onremote sensing imagedata for 1995，2003，2010，and 2015，the diferent growth paternsof impervious surfaces in China's cities of Wuhan，Changsha，and Nanchang over the past 2O years were studied using classical linear spectral analysisVIS model，ArcGIShotspot analysis，andleast squares linear modeling.Theresults show that Theimpervious surface areas（ISAs）of the three cities increased obviously，showing aregular patern of expansion. The impervious surface rate of Wuhan，Changsha and Nanchang in the greenbelt surrounding area has reached $8 . 9 \\%$ ， （20 $7 . 9 \\%$ ，and $7 . 4 \\%$ respectively，which are close to the internationally recognized early warning level of $10 \\% - 2 0 \\%$ . The three cities‘ISA growth from theold citytothe surounding area graduallspread，which thecityof Wuhan has broken through the greenbelt by“sporadic” increasing and the cities of Changsha and Nanchang are from the“point $^ +$ line”to surface”ISA growth pattern transitionstage，alsopresents thebreakthrough greenbelttrending.Becauseoftheinfluenceof citydevelopment stage and historical conditions，impervious surface growth in Wuhan arises mainlyfromthe sporadic growth of suburban areas. Expansion in Changsha and Nanchang is mainly due to“axis $^ +$ block filling”extension growth of newly developedareas.Road investment，zoning policy，urban planning control,fixedassets investment，real estateinvestment, populationgrowth，andwater penetration technologyare themain factors thataffectthe imperviousgrowth of the three cities，butthesensitivityofeachfactordifersamongthecities.For Wuhan,theprioritypolicyforreducingtheISArate is to controltheout greenbelt space，which canbestrengthenedviaarural construction planning permision system.Secondly， applyingadvanced technologytothegreening transformationof theoldcity,reducing thedensityofreal estateconstruction andinfrastructure investment,optimizing the population densitydistribution,andbalancingthecitypopulation withthecity ecologycanalso alleviate the ISA growth trend.For Changshaand Nanchang，the primary method tocontrollng ISA increasing is tocontroltheundevelopedareas intheinner greenbelt zone.Theguiding principlesof“precisecontrolling new area”, “preventive controlling the suburbs”，and“enhanced controlling the old area”should be applied to avoid expanding the ISA patern.Ontheother hand,itis important to improve ISAby includingsmarturbanandrural planning，increasing therate of green space planing，balancing the population of districts，advocating the profit priorityconstruction of urban infrastructure，and accelerating the use of advanced permeable materials and construction technologies. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words: Impervious surface;growth pattern;driving factor;cities along the middle reaches of the Yangtze River ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "不透水面(Impervious Surface Area,简称ISA)因能割断城市地表与地下水文联系,被认为是参与城市生态过程的重要要素,是衡量城市健康质量的重要指标。新世纪以来，国外以ISA在都市区健康评价[1]、城市地表水、热、能、植被及生物多样性变化过程中的重要作用[2-6]、城市生态环境不可逆预警[7-8]等方面卓有成果。近年来,中国城市不透水面研究也日益增强,可以总结为3个方面：一是跟踪国外不透水面研究最新技术、模型和相关参数等方面研究[9-2],二是以不透水面为切入点探讨本土城市生态环境过程机理研究[13-15]；三是推进展开不同层次地域、尺度和精度的不透水面监测及应用研究[16]。虽然国内成果不断深入但其仍有可改进之处。一是研究视域较有局限,对我国沿海发达的重要城市关注较多,而对于中、西部等重大城市的研究几乎为零,这显然不利于我们形成不透水面影响中国城市生态环境的全面性观点。二是研究在ISA 遥感测度的技术和观测现象层面较多，而对我国不透水面影响因素及其机理探讨较为薄弱,使得以控制不透水面为目的措施乏善可陈。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "长江中游城市群是中国生态安全重要区域,其日益变化的生态环境关乎中国生态安的保育和格局的稳定。武汉、长沙、南昌是我国长江中游地区重要的省会城市,亦是欠发达地区国家中部3个首位度较高的大城市,近年来三城市人口、规模和形态呈高速扩张态势,区域城市生态环境出现了一些问题[17]。如三城市不同程度的爆发城市热岛高温、内湖蓝藻、暴雨\"看海\"等事件,使得城市透水性能成为各界关注的焦点。为此,以近 20 年三城市ISA增长格局演变分析为基础,探讨长江中游大城市不透水面格局增长规律、模式、差异和驱动机制,为控制城市ISA增长的管理重点及措施提供一些参考,也为引起同行学者对我国中西部欠发达地区城市不透水面研究起到抛砖引玉之用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1995与2010遥感影像采用美国陆地卫星Landsat5 TM数据,2003 年为 landsat7 ETM,2015 年采用Landsat8的OLI数据。各数据均采用冬季月份遥感影像（12月1日至2月28日），分辨率统一为 $3 0 \\mathrm { ~ m ~ }$ 。通过ENVI5.2平台对原始影像进行几何校正、地形校正、辐射校正、大气校正并最终处理成多光谱反射率集成 BIL数据库。论文涉及的其他经济、社会数据均来自当年城市统计年鉴和国家统计年鉴。另因便于比较,统一设定以各城市老城区向外作约 $2 7 0 0 ~ \\mathrm { k m } ^ { 2 }$ 框定(南北 $5 1 . 9 ~ \\mathrm { k m } \\times \\$ 东西 $5 1 . 9 ~ \\mathrm { k m }$ )为研究区。研究区基本涵括了各城市规划设定的绿地生态系统所设定外围线（以下简称“绿围”）。一般地“绿围”可视为各城市近期建设不应突破的扩张边界,也可视为城市人口核心区水土气生环境围护区,具有一定流域的意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2关键技术处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1线性光谱分解技术",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用Ridd的 Vegetable-Impervious-Soil model（简称V-I-S)模型,借助 ENVI5.2软件对三城市非水域地面的V-I-S各个分量进行分解。值得说明的是,论文采用PPI方法提纯了各城市不同时期各组分的端元特征，并最终综合确定了高反照端元、低反照端元、类土壤端元、类植被端元的特征光谱，通过约束性线性光谱分解法提取了各个端元在每个像素单元( $3 0 \\mathrm { ~ m ~ }$ 分辨率)上的比重含量且保证了每个像素所有端元比重之和为1。鉴于高反照端元和低反照端元特征光谱都具有不透水面某种特征，因此设定两类端元比重之和为不透水面比重。另因时序上存在比较,采用基于典型样地基准化进行纵向年份ISA格局基准化法消除影响。具体技术见文献[16]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2冷热点分析及其改进技术",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Getis-Ord $\\boldsymbol { G } _ { i } ^ { * }$ 指数通过对子区域中的信息进行分析,判断区域内部空间的异质性,识别不同区域热点区与冷点区的分布,反映某一区域与临近区域单元属性值的关联程度。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { i } ^ { * } \\ ( \\ d ) ^ { 2 } = \\ \\sum _ { j = 1 } ^ { n } W _ { i j } ( d ) X _ { j } / \\sum _ { j = 1 } ^ { n } X _ { j }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了便于解释,对 $\\boldsymbol { G } _ { i } ^ { * } \\left( \\boldsymbol { d } \\right)$ 进行标准化处理。 $Z \\left( G _ { i } ^ { \\ast } \\right) ^ { 2 } = \\left( G _ { i } ^ { \\ast } - E ( G _ { i } ^ { \\ast } ) \\right) \\big / \\sqrt { V a r ( G _ { i } ^ { \\ast } ) }$ ,其中Wu为空间权重矩阵， $E ( G _ { i } ^ { * } )$ 和 $V a r ( G _ { i } ^ { * } )$ 分别为期望和标准差。其中 $Z ( G _ { i } ^ { * } )$ 若为正且位置 $i$ 周围的值明显高于均值（一般以大于2.58倍的标准差），则空间集聚为热点区;反之则为冷点区。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\boldsymbol { W } _ { i j }$ 的设置是计算的重要步骤,以往 $\\boldsymbol { W } _ { i j }$ 的设置往往以正方形空间单元进行,这无疑使得空间距离权重设置带来一定误差,为了避免这一不精确性,论文使用正六边作为基本空间分析单元来减少空间临近权重的不合理设置可能带来的不科学分析结果。同时为减少计算量,在使用计算过程中,论文以 $1 0 0 \\ \\mathrm { h m } ^ { 2 }$ 面积为标准单元对研究区 $G * _ { i }$ 进行测度。 2",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3ISA增长模式分类及其测度方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了分析需要,论文以不同增长来源和空间方位将ISA的增长模式进行了初步划分,分别是1内涵式增长模式、2道路牵引式增长模式、3卫星式增长模式、4城外零星式增长模式。基本内涵和特征见下表1。通过各模式范围与ISA 解译栅格数据进行叠加分析,可得到各模式范围内ISA之比重和面积总量,同时结合多时段的 ISA 解译数据,还可以测度不同阶段内各种模式的增长规模和速度。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/eda2164ba5400bf7217db574dbcebb7a6ea5ee0f236337d91b43e33efb7c63d9.jpg",
+        "table_caption": [
+            "表14种不透水面增长模式及其定义与特征",
+            "Table1Four types of impervious surface growth model and its definition and characteristics "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>模式Model</td><td>范围 Scope</td><td>增长的来源 Source of growth</td><td>特征 Characteristic</td></tr><tr><td>内涵填充式 IFGM Intension Filling Growth Model</td><td>老城区(以1995建成区为据)</td><td>旧城内的房屋、市政等的翻新、改 造等</td><td>零散、不集中</td></tr><tr><td>道路牵引式RTGM Road Traction Growth Model</td><td>老城区外主要道路缓冲区（缓冲半 径500m)</td><td>道路工程的新建、扩建及改造</td><td>沿线型伸展</td></tr><tr><td>卫星填充式 SFGM Satelite Filling Growth Model</td><td>老城区外绿围以内除道路缓冲之 区域</td><td>除道路新建改造等以外的厂区、住 区建设等</td><td>集中成片</td></tr><tr><td>零星飞地式 SGM Sporadic Growth Model</td><td>绿围以外地区</td><td>除道路新建改造等以外的住房、工 厂建设等</td><td>零散、不集中</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 三城市不透水面增长趋势及格局现状",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分析结果显示,三城市 ISA增长明显且分布上从老城区逐步向周边地区扩张,见图1。按 $100 \\%$ 表示完全不透水面面积,1995年长沙、南昌、武汉三城市完全不透水面面积分别为 $4 8 9 1 , 5 4 1 5 , 7 2 0 7 \\ { \\mathrm { h m } } ^ { 2 }$ ,比重分别为$1 . 8 \\% . 2 . 0 \\% . 2 . 7 \\%$ （与研究区面积比)。20 年来，中长沙增幅度最大，年增长 $2 5 4 ~ \\mathrm { h m } ^ { 2 }$ ,共增长了 $2 5 3 8 { \\mathrm { ~ h m } } ^ { 2 }$ ,其次为武汉和南昌,增幅为 $2 2 1 ~ \\mathrm { { h m } } ^ { 2 } / \\mathrm { { a } }$ 和 $1 3 9 ~ \\mathrm { { h m } } ^ { 2 } / \\mathrm { { a } }$ ,分别增加了 $2 2 2 2 \\ \\mathrm { h m } ^ { 2 }$ 和 $1 3 9 0 \\ \\mathrm { h m } ^ { 2 }$ 。从增长阶段来看，近5年增长量几乎与过去15 年增长量相当,表明三城市ISA呈现快速递增趋势。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/51db30a42fe7b77d2b4240be2107cb78a25b691161dd4151ef06632fe78cf5f7.jpg",
+        "img_caption": [
+            "图1 1995、2003、2010、2015年武汉、长沙、南昌三城市不透水率解译",
+            "Fig.1 The interpretation of impervious surface of Wuhan,Changsha & Nanchang in 1995,2o03,2010,2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 三城市不透水面增长热点区的演变",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据冷热点分析结果显示,三城市不透水面全局性G统计值均高于各自年份均值期望E,且统计检验 Z值较为显著,说明三城市不透水面增长率尤其是热点区域集簇明显,结果见图2。20年来武汉市不透水面增长热点“簇团”达到10个,其中近7个“簇团”分布在绿围区以外,呈现“数量多、较发散”格局。长沙市增长的热点“簇团\"达到6个,均在绿围区以内,呈现“数量少,较集中”的特征;南昌热点“簇团”为8个,特征与长沙一致。如此表明武汉市ISA 增长格局正逐步从集聚走向分散,贡献多来自于郊外地区。长沙、南昌两城市ISA 增长格局相对集中且主要集中在老城区外绿围以内的新开发地区。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3三城市不透水面增长的主导模式及其变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "增长模式分析结果显示,各种增长模式对南昌、长沙的贡献次序为道路牵引式、卫星式、零星式、内涵式，对武汉的次序为卫星式、零星式、道路牵引式和内涵式,详细结果见表2。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "二 将 1995—2003、2003—2010、2010—2015 设为前期、中期、近期3个阶段,对三城市 ISA主导模式演变过程进行分析。南昌的道路牵引式一直是其主导模式,前期对不透水面贡献为 $4 2 \\%$ ,中期 $54 \\%$ ,近期 $4 2 \\%$ ，而与之密切的卫星式处于第二主导地位的模式。从趋势来看虽然南昌道路牵引对ISA增长贡献仍然较大但贡献度显示出下降趋势,卫星模式、零星式模式的贡献呈增加态势。长沙市与南昌市相似,道路牵引式贡献性最大但趋势下降,而卫星式呈上升趋势,同时零星式也呈现快速增长态势。而武汉ISA增长的主导模及其演变则不同，前期贡献度为\"卫星式>道路牵引式 $\\mathrm { > }$ 内涵式 $\\mathrm { > }$ 零星式”，中期为“卫星式 $\\mathrm { > }$ 零星式 $>$ 道路牵引式 $>$ 内涵式”，最近阶段变化为“零星式>卫星式>道路牵引式 $\\mathrm { > }$ 内涵式”。可见武汉主导模式是卫星式且近期让位于零星式，但同时道路牵引式的贡献也不小且较为稳定。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/14a0ac0510b1c9b741514f77e994977b72e02641001cadeccdc9bbd0c6a91cb1.jpg",
+        "img_caption": [
+            "图2三城市不透水面增长热点空间格局及比较",
+            "Fig.2Comparison and differentiation of hot spots in extension of impervious surface in three cities "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/468de3a81b086c68eb5452945fbbaf8ea63905323c8a924534bb60a7d5fbedcc.jpg",
+        "table_caption": [
+            "表2三城市不透水面增长的主导模式比较"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">城市 期初不 透水面积 City Initial ISA/hm²</td><td colspan=\"9\">Table 2 内涵式增长 道路牵引式增长 Intension Filling Road Traction</td><td rowspan=\"3\">增长合计 Total Growth/</td></tr><tr><td colspan=\"2\">Growth Model</td><td colspan=\"2\">Growth Model</td><td colspan=\"2\">Satellite Filling Growth Model</td><td colspan=\"2\">Sporadic Growth Model</td></tr><tr><td>/hm²</td><td>比重/%</td><td>/hm²</td><td>比重/%</td><td>/hm²</td><td>比重/%</td><td>/hm²</td><td>比重/%</td></tr><tr><td>南昌</td><td></td><td>12</td><td></td><td></td><td></td><td></td><td></td><td>218</td><td>16</td></tr><tr><td>长沙</td><td>228</td><td>9</td><td>622 1005</td><td>45 40</td><td>920</td><td>27 36</td><td>385</td><td>15</td><td>1390 2538</td></tr><tr><td></td><td>268</td><td>12</td><td>571</td><td>26</td><td>736</td><td>33</td><td>648</td><td>29</td><td>2222</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上,三城市 ISA 模式演变规律及差异为：(1)近20 年来,内涵式的贡献由过去约为 $20 \\%$ 的比重稳定下降到 $10 \\%$ 及 $10 \\%$ 以下,表明老城区对ISA影响不起主导作用,也即老城区的改造不会对ISA增长贡献较多。（2）道路牵引式ISA贡献在经历一段“峰值\"后将趋于下降,并逐步让位于卫星式和零星式,这表明道路设施建设ISA贡献有一个“上升达顶再下降\"的过程。（3)未来 ISA控制重点地区应是防范郊区零星贡献和新城区的面域贡献。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4不透水面增长驱动因素分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1驱动因素分析框架",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为进一步提出ISA的管理重点和措施,对三城市ISA增长驱动因素因子进行数学建模甄选分析。其驱动机制过程考虑如下：(1)经济发展水平是推动城市建设的基本经济因素。经济水平对城市 ISA增长的速度及模式差异产生影响,城市经济水平是促进ISA增长的动力之一。（2)城市人口、城市消费水平是影响城市增长另一方面主要动因。人口的增长,消费能力的提升增强了对居住、商业和基础设施的用地需求,进而衍生出对 ISA 增长的影响。（3)从前述三城市ISA 格局从期初的“老城区\"逐步向外扩张演变来看,ISA 增长与城市规划、区划等因素又是高度相关的,因此城市规划政策、新城建设、道路建设以及区位条件等对不透水面增长和格局产生作用。（4)绿色建筑工程技术对城市不透水面的影响表现为较好的透水工程技术可以缓解 ISA的增长。因涉及三城市因素因子部分指标不能量化且历史数据缺失而难以展开长时序性分析,因此论文以2003、2015年数据进行对比分析。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据以上分析框架,采用线性最小二乘回归法进行建模。以ISA作为因变量Y,再以上标年份表示当年因变量,如 $Y ^ { 2 0 0 3 }$ 表示为2003年因变量。鉴于论文需要对比城市绿围内、外区域对各因子系数的差异性,又分别以 $Y _ { 0 }$ 表示绿围内因变量， $Y _ { 1 }$ 表示整个研究区因变量。最终以经济发展水平密度 $\\bigtriangledown$ 固定资产投资密度 $X _ { 2 }$ 、城市人口密度 $X _ { 3 }$ 、社会零售销售额密度 $X _ { 4 }$ 、房地产投资密度 $X _ { 5 }$ 、城市规划绿地率 $X _ { 6 }$ 道路密度 $X _ { 7 }$ 、新建建筑绿色建筑比重 $X _ { 8 }$ 和区域分区变量 $X _ { 9 }$ 作为自变量进行建模分析,各因素变量来源及计算说明见表3。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/83fa702c9623662775f023ccddd2a91226d389ed3235bd9e4d3c507d6545ed19.jpg",
+        "table_caption": [
+            "表3影响因素的描述与说明",
+            "Table 3Description and explanation of influence factors "
+        ],
+        "table_footnote": [
+            "建模单元为论文中前述采用的1平方公里的六边形"
+        ],
+        "table_body": "<html><body><table><tr><td>解释变量 Explanatory Variable</td><td>变量名称 Variables</td><td>定义、来源及计算 Notation Definition & calculation for variable</td><td>类型 Type</td></tr><tr><td>因变量</td><td>绿围内ISP</td><td>老城区内建模分析单元的不透水面比重,取值0—100</td><td>连续变量</td></tr><tr><td>Dependent variable</td><td>整体研究区 ISP</td><td>绿围区内建模分析单元的不透水面比重，取值0—100</td><td>连续变量</td></tr><tr><td>自变量 Independent</td><td>经济水平</td><td>建模单元的GDP产出水平，单位为亿元/km²。单元的GDP 密 度由三城市研究区的各街道、镇、工业区的GDP 核密度插值</td><td>连续变量</td></tr><tr><td>variables</td><td></td><td>而得</td><td>连续变量</td></tr><tr><td></td><td>固定资产投资密度 城市人口密度</td><td>建模单元的固定资产投资水平，单位为万元/km，方法同上</td><td>连续变量</td></tr><tr><td></td><td>社会消费额密度</td><td>建模单元的人口密度，单位为万人/km，方法同上</td><td>连续变量</td></tr><tr><td></td><td>房地产投资密度</td><td>建模单元的社会消费密度，单位为万元/km，方法同上 建模单元的房地产投资密度，单位为万元/km，方法同上</td><td>连续变量</td></tr><tr><td></td><td>城市规划绿地率</td><td>建模单元的规划绿地率，单位%,由研究区城市规划设定绿色</td><td>连续变量</td></tr><tr><td></td><td>道路密度</td><td>系统规划而得 单位为m/m。由研究区各街道、镇、新区的现有道路密度反距</td><td>连续变量</td></tr><tr><td></td><td>新建绿色建筑比重</td><td>离插值而得 新建建筑中绿色建筑比重，单位为%。由研究区各街道、镇、新</td><td>连续变量</td></tr><tr><td></td><td>区划因素</td><td>区的城市建设统计年鉴数据经空间插值而得。 老城区为1,绿围区内为2,绿围外区为0</td><td>名义变量</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2 驱动因素分析结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "论文采用自变量递增法对回归模型选优，入选规则为自变量与因变量在 $9 5 \\%$ 可信度上具有显著相关性，且增加自变量对 $R ^ { 2 }$ 调整产生作用。因此自变量入选的先后顺序代表了与因变量的相关性程度的高低，模型结果见表4。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1)从三城市驱动模型结果来看,道路对城市 ISA 增长的贡献最大,相关度最高。无论是 $Y _ { 1 } , Y _ { 0 }$ ,城市道路密度始终是模型第一人选解释变量且系数为正,即道路对ISA具有显著的正向作用。道路是城市的骨架，是城市增长的前提条件,同时也是城市天然不透水面组成要素之一,再加上城市居住、商业、产业以及新城往往沿着城市道路进行沿线拓展或填充,因而由城市道路对不透水面的直接和间接贡献都较大。另外从模型系数来看,同一时期道路的正向系数南昌>长沙>武汉，同一城市,绿围区内道路对不透水面的正向系数又大于整体区域模型,新时期模型的道路正向系数小于旧时期。这一现象与前述分析道路牵引模式ISA 贡献在时序上和空间上由旧向新减弱的规律相呼应。20 世纪90 年代南昌、长沙仍在为建立区域性中心城市而增长,城市框架一直在“由线到面\"的过程之中,因此ISA也处于相应的“道路牵引式”为主导的模式。得益于京汉粤铁路开通,武汉在20 世纪50年代就具有区域枢纽的地位,城市得以壮大,到90年代,武汉市就已是两百万人口的特大城市,2010年后武汉瞄准建成国家中心城市的目标,奠定了大武汉发展格局,因此武汉市面域性发展态势显然高于前面两市,道路线性驱动ISA 强度和贡献则低于长沙、南昌。但随着长沙、南昌城市发展进一步成熟，道路作用将会下降,其他因素贡献将增强。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/d69dc8bd0f5423018ce6559ea3e54968a74f393c0206b9f2d8839d624e542795.jpg",
+        "table_caption": [
+            "表4各城市不透水面的驱动因素建模",
+            "Table 4Modeling of driving factors of ISA in WH\\CS\\NC city "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">年份 Year</td><td colspan=\"2\">武汉</td><td colspan=\"2\">长沙</td><td colspan=\"2\">南昌</td></tr><tr><td>模型Model</td><td>R²</td><td>模型Model</td><td>R² 模型Model</td><td></td><td>R²</td></tr><tr><td>2003</td><td>Y200 = 10.34+120.66X7 + 0.09X +0.04X + 0.03X3-0.96X6</td><td>0.61</td><td>Y200 = 12.88+222.29X7+ 0.009X+0.07X5+ 0.56 0.005X +0.04X4</td><td>Y200 33436529X27+ 0.08X</td><td>0.0001X+0.09X +</td><td>0.61</td></tr><tr><td rowspan=\"4\">2015</td><td>Y2003 = 6.38+45.49X7+ 2.52X, +0.47X + 0.01X3 +8.12X8-</td><td>0.70</td><td>Y2003 = 5.36+256.22X + 1.42X,+0.01X5- 2.18X6+0.06X3</td><td>0.63 y2003</td><td>3=10.22+312.49X7+ 3.02X,+0.001X + 0.01X3-7.03X6</td><td>0.66</td></tr><tr><td>6.18X6 Y2005 = -5.23+112.37X+ 0.18X+0.09X5-</td><td>0.43</td><td>16.82X6 +0.09X-0. 0.55</td><td>Y200 = -5.99+277.63X7+</td><td>0.0002X-0.03X5+</td><td>0.41</td></tr><tr><td>11.99X6-18.5Xg Y2015 =11.52+96.28X +</td><td></td><td>04 X8 Y2015 = 2.69 + 156. 19X7 + 1.</td><td>Y2015 = 0.36+226.26X7+</td><td>35.65X6+0.0001X3 2.38X,+0.0003X-</td><td></td></tr><tr><td>0.93X5+4.11X9- 6.05Xg-4.82X6+ 0.008X2+0.01 X3</td><td>0.55</td><td>63X, +0.0005X5+ 13. 0.69 39X8-6.51X6 + 0. 34X3+0.007X2</td><td></td><td>0.03X5 +0.01X3 + 16.39X8-6.05X6</td><td>0.51</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2)建模结果显示,人口增长、城市固定投资以及房地产投资因素是与ISA因变量相关性较强的因子。据统计数据,2015 年武汉、长沙、南昌城市。分阶段来看,武汉市在 2010 年后迎来了房地产建设规模的爆发式增长,2010—2015 年均增长 $4 0 \\%$ ,显著高人口分别为1066、734万人和528万人，是期初1995年人口增长翻番。2015年武汉、长沙、南昌建成区分别为 $5 3 5 \\cdot 3 1 3 \\cdot 3 5 0 \\mathrm { k m } ^ { 2 }$ ,是期初建成区的2—3倍;2015年三城市固定资产分别为7725、6363、4001亿元,是期初的30—70倍,2015年三城市竣工房屋面积分别11960、2435、1907万$\\mathbf { m } ^ { 2 }$ ,是期初的8—15倍。随着城市人口日益增长,职、住、医、教、休、商等基本需求也增大,基础设施和房地产投资也必然增加,由此必然贡献 ISA 的增长于1995—2010 年均 $10 \\%$ ;南昌、长沙市在 2003—2010 年阶段是其高速规模扩张的阶段,2003—2010年房地产建设规模年均增长 $1 8 \\%$ ,固定资产年增长超过 $3 0 \\%$ ,亦是城市新区高速扩张的发展阶段。对比2003与2015年模型方程式,各城市固定资产投资、房地产投资以及人口密度自变量进入模型优先次序逐渐变强,且变量系数亦有增大趋势,可见房地产等城市投资因素的驱动影响力将变得更强。综合来看,人口的快速增长进而导致的城市投资和房地产规模的加大,必然促进ISA 加速增长,因此控制过快投资、防止贪大、过度的城市建设也应视为控制不透水面过快增长的重要方面。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3)区域、城市规划等政策性因素是ISA增长变化的重要诱导力量。从广义而言,区划与城市规划都是城市空间政策的一部分。从三城市模型来看，区划因素 $X _ { 2 }$ 在2015年整体区域 $Y _ { 1 }$ 模型中展示出仅次于道路密度因素的影响力,系数分别为4.11、1.63和2.38（即正向作用),这表明城市ISA格局与区划是息息相关的,其根本原因在于城市规划能对不同区域ISA格局起到基础性控制作用。同时从三城市不同年份对规划因素的敏感性分析来看（因规划绿地率与ISA是反向关系,因此系数为负;系数绝度值越大表示自变量对因变量越敏感),其共性是规划因素对ISA的作用,整体模型低于绿围区内模型,即绿围内的规划因素对ISA具有更大的影响力;其差异是规划作用于ISA的影响性长沙 $>$ 南昌 $>$ 武汉。从规划史来看，相比与武汉，长沙、南昌等城市的发展起步相对稍晚,规划也相对滞后,影响了规划因素参与ISA变化的进程，因而入选规划因素的城市模型当中,武汉快于其他两市。但值得一提的是,长沙南昌两城市规划因素对 ISA 影响作用敏感性更强,因此后发城市具有在城市空间政策上的管控优势,运用好城市规划对ISA 的增长及其格局引导将更有利,因此如严格绿地率、空地率等城市规划指标对控制ISA增长格局具有重要意义。 分",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(4)当代绿色建筑工程技术及材料也是影响 ISA一个重要因素,扩大绿色建筑比重是减缓城市ISA 增长的重要方面。在三城市 ISA驱动模型中,新建建筑中绿色建筑占比 $X _ { 8 }$ 是入选驱动模型中位列前端的重要变量之一。除武汉市 $Y ^ { 2 0 1 5 }$ 模型外,其他城市模型因变量 $Y$ 与自变量 $X _ { 8 }$ 皆为正向系数,即绿色建筑占比越大,不透水率越高。为何如此呢？基于作者多年的实际走访和观察,对当代建筑工程技术而言,水泥、沥青、玻璃、钢板等方便施工的建筑材料能有效的降低成本提高效率,在当今长沙、南昌等城市开发中尤其是一些新区建设中,处处可以看到各种工业区、道路广场、商业大楼、住宅小区的地下空间甚至花园绿地、公园等空间的下垫面都是水泥、沥青等高度不透水材料铺装而成,城市的“渗、排”渠道大大压缩,实则远达不到真实绿色建筑的要求。同时限于当前我国规划管理技术的局限性以及法律法规标准等的缺失,对城市绿色建筑难以进行有效的认定、监管和行政上的强制作为,因此在后发城市,当其绿色透水工程技术和材料还处于技术递延的时滞发展阶段时,这些城市统计给出的绿色建筑实则远达不到绿色和透水性要求。因此,在这些城市加快引进和推广先进的透水工程技术也是缓解城市不透水面的一种重要手段。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5结论与讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.1结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1)近 20 年武汉、长沙、南昌等长江中游大城市的不透水面增长趋势显著。三城市 ISA增长的重点和热点从原老城区逐步向周边新区扩散,其中武汉市ISA已突破绿围发展,以\"零星”增长为主;长沙、南昌则处于从“点 $^ +$ 线”到“面 $^ +$ 点”的ISA增长过渡阶段，格局上亦呈现突破绿围的趋同性规律。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2)增长过快的不透水面对城市生态环境带来压力,不利于城市的可持续发展。从现有阶段来看,武汉、长沙、南昌的在绿围区域中的完全不透水率已分别达到 $8 . 9 \\% . 7 . 9 \\% . 7 . 4 \\%$ ,这一水平接近国际公认的 $10 \\%$ 一$2 0 \\%$ 的应警水平[18]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3)对武汉而言,空间上其重点是要控制好城市规划外围地区的ISA增长,可从农村建设规划许可制度方面进行加强控制,其他措施上要加强应用先进技术对老旧城市绿色改造,减少新区内房地产建设以及过密基础设施投资,优化人口密度布局,建立均衡的城市人口与生态格局来缓解增长ISA 趋势。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(4)对长沙和南昌而言,空间上其重点是管控好现有绿围内未开发区域,可采取“精控新区”、“防控郊区”“提升老区\"的思路来避免膨胀的ISA格局。优化城乡规划、提高规划绿地率、平衡区划人口、倡导效益优先的城市基础设施建设、加快引进先进透水材料和施工工艺等是其重要手段。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.2讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在ISA 驱动因素建模过程中,经济水平GDP 密度自变量 $X _ { 1 }$ 、社会因素中社会零售总额密度 $X _ { 4 }$ 没有较好的解释力。其可能的原因是GDP 密度指标与 ISA之间确实存在一定偏差,GDP 作为综合一二三产的复合性经济指标,其与城市ISA确实存在的复杂关系,因此难以呈现较好的线性相关性检测。而对于社会消费总额密度因素来说,其驱动作用不如类似固定资产投资、房地产投资等因素那样直接,其作用过程是间接的、隐蔽的,因此在相关性检测中容易“脆弱”,难以入选驱动模型当中。另外,一些难以量化的变量也未人列建模,基于驱动模型还可以对未来城市ISA风险管控进行精准预测。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "致谢：感谢吴志强院士对本文的指导帮助。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]YanF,uCrparisfraalyisqforpescetatiigdsataoEngineering & Remote Sensing，2008,74（8）：1045-1055.  \n[2]ConwayImpervioussurfceasaniicatorofpandspeificonductanceinteurbaningcoastalzoneofewJerseyUAJouaEnvironmental Management，2007，85(2）：308-316.  \n[3]XianGAnalysisfpactsofurbanlanduseandlandcoveronairqualitythLsVegasregionusingreotesesinginforatioandgoudobservations.International Journal of Remote Sensing，2007,28(24）：5427-5445.  \n[4]YuanFKEfelrLdcoasiatdgalyisTni（ota）olby multitemporal Landsat remote sensing.Remote Sensing of Environment，2005,98(2-3）：317-328.  \n[5]WengQHuAsuelsftitondepestelipeceecoverage nIndianapolis，UnitedStates.InternationalJouralofAppliedEarthObservationandGeoiforation，O08,1（：6-83.  \n[6]ZhangYS，OdehIOA，HanCFtporalaracterzaionoflandsufacetemperatureinelaiotipervoussufacearadNDBI,usingasupiemageaalysisIteatioalJoualofpldEarthObseatioadGeoftio（4）64.  \n[7]RillygaodepesalialgupctAssessmentReview，2004，24(3):363-382.  \n[8]XianG,ranM,uJSAalysisofubandevelopedtsevioentalipactoteTampaBaatersdJualofEiotalManagement,2007，85(4）: 965-976.  \n[9］张路，高志宏，廖明生，李新延.利用多源遥感数据进行城市不透水面覆盖度估算．武汉大学学报：信息科学版，2010,35（10)：1212-1216.  \n[10］赵锐锋,姜朋辉，陈亚宁，石培基，潘竟虎，赵海莉.塔里木河干流区土地利用/覆被变化及其生态环境效应.地理科学，2012，32（2)：244-250.  \n[11] HuXF，WengHmpeoussaceaetractiofOOiageryusingetedfueth.Gcartteatioal1,26(1):3-20.  \n[12]ZhangYJ，ChenL，HeCEstimatingUrbanImperviousSufacesUsingLS-SVMwithMult-scaleTexture//Procedingsof2O9JointUrbanRemote Sensing Event. Shanghai,China：IEEE,2009：1-6  \n[13］刘珍环，王仰麟，彭建，谢苗苗，李猷.基于不透水表面指数的城市地表覆被格局特征——以深圳市为例.地理学报，2011,66（7)：961-971.  \n[14] 邵崴，潘文斌.城市不透水面与降雨径流关系研究.亚热带资源与环境学报，2012，7(4)：20-27.  \n[15] 岳文泽，徐建华，徐丽华.基于遥感影像的城市土地利用生态环境效应研究——以城市热环境和植被指数为例.生态学报，2006，26(5)：1450-1460.  \n[16］李志，杨骏，陈琪，陈坤.基于样地基准化不透水率的格局变化监测技术.遥感信息，2016,31（5）：85-89.  \n[17］周峰，吕慧华，许有鹏。城镇化平原河网区下垫面特征变化及洪涝影响研究.长江流域资源与环境，2015，24（12)：2094-2099.  \n[18] 赵军，单福征，许云峰，钱光人.河网城市不透水面的河流生态系统响应：方法论框架．自然资源学报，2012，27（3)：382-393.",
+        "page_idx": 8
+    }
+]

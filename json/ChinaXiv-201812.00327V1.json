@@ -1,0 +1,683 @@
+[
+    {
+        "type": "text",
+        "text": "菌制剂和复合酶制剂对青贮玉米秸秆化学组成及纤维微观结构的影响毛建红1,2 陶　莲」 刘　融」王玉荣²许贵善²刁其玉1,2(1.中国农业科学院饲料研究所，农业部饲料生物技术重点实验室，奶牛营养学北京市重点实验室，北京100081；2.塔里木大学动物科学学院，阿拉尔 843300）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验以酶制剂、酶-菌复合制剂对玉米秸秆进行生物发酵处理，分析其对玉米秸秆发酵品质、营养成分和纤维微观结构的影响，旨在探索通过打破纤维微观结构提高玉米秸秆利用率的作用机制。试验设置秸秆原料组（CS组）、青贮对照组（CK组）、复合酶制剂组（CPL组）、复合酶-单活菌组（CPLP组）、复合酶-双活菌组（CPLB组）。使用真空包装机抽空玉米秸秆青贮袋中的气体，室温发酵45d后，分析各组青贮玉米秸秆的营养成分和发酵品质；采用苯酚硫酸法 $+ 4$ ，4'二羧酸-2，2'-喹啉（BCA）法、傅里叶转换红外光谱（FTIR）、X-射线衍射和伊红美兰法分析各组玉米秸秆纤维微观结构。结果表明：1）与CK 组相比，CPL组的 $\\mathfrak { p H }$ 、氨态氮/总氮（ $\\mathrm { N H } _ { 3 }$ -N/TN）和乳酸/乙酸显著降低（ $\\scriptstyle P < 0 . 0 5$ ），CPL 组的乳酸、中性洗涤纤维（NDF）、酸性洗涤纤维（ADF）、纤维素、半纤维素含量无显著差异（ $\\cdot { \\cal P } { > } 0 . 0 5 ) ,$ ）；CPLB组的乳酸含量显著增加（ $\\cdot < 0 . 0 5$ ）；CPLP和CPLB 组的pH、 $\\mathrm { N H } _ { 3 }$ -N/TN、乳酸/乙酸以及NDF、ADF、纤维素、半纤维素含量均显著降低（ $\\scriptstyle . { P < 0 . 0 5 } .$ ）。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "收稿日期：2017-12-25",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：行业性公益项目“中国南方经济作物副产物饲料化利用（201403049）”；国家肉羊产业技术体系建设专项资金（CARS-39）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作者简介：毛建红（1991—），女，新疆喀什人，硕士研究生，动物营养与饲料科学专业。E-mail: mjh0999@163.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*通信作者：刁其玉，研究员，博士生导师，E-mail:diaoqiyu@caas.cn",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2）与CK组相比，CPL组的三级结构结晶度显著升高（ $\\cdot P { < } 0 . 0 5$ ），一级结构聚合度和四级结构比表面积无显著差异（ $\\cdot P { > } 0 . 0 5$ ），二级结构氢键作用力无明显变化；CPLP和CPLB 组的一级结构聚合度显著降低（ $\\cdot P { < } 0 . 0 5$ ），四级结构比表面积显著增高（ $\\scriptstyle . { P < 0 . 0 5 }$ ），二级结构氢键作用力减弱，三级结构结晶度无显著差异（ $P { > } 0 . 0 5$ ）。综上，复合酶-单活菌和复合酶-双活菌显著改善了玉米秸秆的化学组成，通过降低玉米秸秆纤维素的一级结构聚合度和三级结构中纤维素非结晶区，减弱二级结构分子间氢键作用力，增加四级结构比表面积，有效地破解了玉米秸秆细胞壁的微观结构，从而提高了秸秆的利用率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关键词：植物乳酸杆菌；秸秆降解酶；玉米秸秆；青贮；微观结构；四级结构",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中图分类号： $5 8 1 6 . 5 ^ { + } 3$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "我国是农业大国，农作物秸秆资源丰富，特别是玉米秸秆，是反刍动物重要的粗饲料来源之一。秸秆细胞壁由纤维素、半纤维素、木质素、部分果胶等其他化学成分组成，其中纤维素占据整个细胞壁的 $30 \\% { \\sim } 5 0 \\%$ ，是反刍动物可以直接利用的碳源[1]。但是秸秆细胞壁中，木质素作为一种芳香族高分子化合物，与半纤维素形成稳定的木质素-碳水化合物复合体，将纤维素和半纤维素包裹其中，使瘤胃微生物与纤维素降解酶不能直接接触纤维素，如能有效破解秸秆细胞壁复合体结构，则可以提高生物制剂的作用效果，从而提高秸秆的利用率[2-3]。因此，对秸秆进行破壁处理，是提高秸秆饲料化利用率的关键步骤，其主要目的是破解或去除秸秆中的抗营养结构，增加微生物与酶的可及性，提高纤维素的降解速率和转化率[4]。纤维素具有特定的一级、二级、三级、四级结构，分别用聚合度、氢键作用力、结晶度和比表面积进行表征，而表征指标的变化则可以代表纤维微观结构的变化，进而代表秸秆被降解的程度[5]。目前，大部分学者主要是以改善秸秆营养品质、提高秸秆饲料利用率为研究重点，但是在秸秆生物处理过程中，秸秆细胞壁纤维结构的破解程度与秸秆主要纤维成分，如中性洗涤纤维（neutral detergent fiber，NDF）、酸性洗涤纤维（acid detergent fiber，ADF）、纤维素、半纤维素的相关却鲜有报道。观察并分析秸秆细胞壁的纤维形态和微观结构，可以从分子水平揭示秸秆饲料化的作用机制，对评价秸秆饲料的营养价值具有很大的作用。因此，本研究以玉米秸秆为试验材料，研究生物发酵前后秸秆的营养成分、发酵品质和纤维微观结构变化，旨在为秸秆饲料化利用的技术提供支撑。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "玉米秸秆取自河北省保定市，品种为金玉99，于2016年9月收获籽实后收割。采集的玉米秸秆经 $6 5 ~ ^ { \\circ } \\mathrm { C }$ 烘干 $^ { 4 8 \\mathrm { ~ h ~ } }$ 后，混合均匀，粉碎至40目用于营养成分和微观结构测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "酶制剂：纤维素复合酶[纤维素酶（cellulase， $\\geq 1 0 \\ \\mathrm { ~ 0 0 0 ~ U / g }$ ） $^ +$ 木聚糖酶（xylanase，≥l20 000 U/g） $+ \\beta$ -葡聚糖酶（ $\\beta$ glucanase, $\\geq 4 0 \\ 0 0 0 \\ \\mathrm { ~ U / g ~ } )$ ]、果胶酶（pectinase， $\\geq 1 0 \\ 0 0 0 \\ \\mathrm { U } / \\$ g）、漆酶（laccase， $1 0 \\ 0 0 0 \\ \\mathrm { U / g }$ ），试验所用复合酶制剂及酶制剂均购自夏盛实业集团有限公司，粉末状，常温贮存。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "活菌制剂：植物乳酸杆菌（Lactobacillusplantarum， $2 2 \\times 1 0 ^ { 6 }$ CFU/g）、布什乳酸杆菌(Lactobacillus buchneri, ${ \\geq } 2 \\times 1 0 ^ { 6 }$ （204号 $\\mathrm { { C F U } / \\mathrm { { g } } }$ ），菌种保藏于中国农业科学院饲料研究所，活菌制剂冻干粉，置于 $4 ~ ^ { \\circ } \\mathrm { C }$ 冰箱保存。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本试验共设计5个组，分别为：秸秆原料组（CS组）、青贮对照组（CK组）、纤维素复合酶 $+$ 果胶酶 $+$ 漆酶组（CPL组）、纤维素复合酶 $+$ 果胶酶 $^ +$ 漆酶 $+$ 植物乳杆菌组（CPLP组）、纤维素复合酶 $^ +$ 果胶酶 $+$ 漆酶 $\\vdots +$ 植物乳杆菌 $+$ 布什乳杆菌组（CPLB组）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "处理方法如下：玉米秸秆刈割后，用青贮切碎揉搓机切短至 $1 { \\sim } 2 ~ \\mathrm { c m }$ ，按表1的分组及添加剂量溶于蒸馏水，搅拌，将生物制剂均匀喷洒在粉碎的玉米秸秆上，水分调节至 $6 5 \\% \\sim$ $70 \\%$ 。样品均装入聚乙烯袋（24cm×40cm），每袋 $1 ~ \\mathrm { k g }$ ，用真空包装机（DZ-280/2SD）",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "抽真空并封口，室温（ $2 5 { \\sim } 3 7 ~ ^ { \\circ } \\mathrm { C }$ ）贮藏45d后开封取样。CK组直接添加蒸馏水，不添加任何生物制剂。另取玉米秸秆原料样品置于冰盒中，迅速带回实验室，-20℃贮藏，待检。每个组4个重复，3个用于样品测定，1个为备用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1试验设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/23b6c5f29e08f3ecdf60deea6a6c09257b14e8904a517d744899c639d3ef35b0.jpg",
+        "table_caption": [
+            "Table 1 Experiment design "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>组别</td><td>处理</td><td>添加剂量</td></tr><tr><td>Groups</td><td>Treatment</td><td>Added amount/(g/k</td></tr><tr><td></td><td></td><td>g)</td></tr><tr><td>CK</td><td>玉米秸秆不加酶和菌青贮</td><td></td></tr><tr><td>CPL</td><td>玉米秸秆添加纤维素复合酶+果胶酶+漆酶青贮</td><td>1.0+0.5+1.0</td></tr><tr><td>CPLP</td><td>玉米秸秆添加纤维素复合酶+果胶酶+漆酶+植物乳杆菌青贮</td><td>1.0+0.5+1.0+1.0</td></tr><tr><td>CPLB</td><td>玉米秸秆添加纤维素复合酶+果胶酶+漆酶+植物乳杆菌+布什乳杆菌</td><td>1.0+0.5+1.0+1.0+1.0</td></tr><tr><td></td><td>青贮</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 测定项目和方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 发酵品质及营养成分测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "取玉米秸秆青贮 $2 0 \\mathrm { ~ g ~ }$ ，加入 $1 8 0 ~ \\mathrm { m L }$ 蒸馏水，匀浆 $1 ~ \\mathrm { m i n }$ ，用4层纱布过滤，用pH测定仪（Testo 205型号，德国）测定青贮浸出液的 $\\mathrm { p H } ^ { [ 6 ] }$ 。采用苯酚-次氯酸钠比色法测定氨态氮（ $\\mathrm { N H } _ { 3 }$ -N）含量[5]。使用GC128 型气相色谱仪分析乳酸（lacticacid，LA）、乙酸（acetic acid，AA）、丙酸（propionic acid，PA）、丁酸（butyric acid，BA）的含量，分析条件为：火焰离子化检测器（FID），柱 $2 \\ \\mathrm { m } { \\times } 4 \\ \\mathrm { m m }$ ，固定相Pora-pakQ（80目），柱温 $1 2 0 ~ ^ { \\circ } \\mathrm { C }$ 检测器和进样器温度 $2 3 0 ~ ^ { \\circ } \\mathrm { C }$ ，氮气 $\\left( \\mathrm { N } _ { 2 } \\right) { } = 6 5 \\mathrm { \\ m L / m i n }$ ，空气 $\\scriptstyle \\dot { \\tan }$ ，氢气 $( \\mathrm { H } _ { 2 } ) = 3$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$0 \\ \\mathrm { m L / m i n }$ ，灵敏度 $1 6 \\times 1 0 ^ { 3 }$ ，纸速 $5 \\ \\mathrm { m m / m i n }$ 。化学分析法测定玉米秸秆生物发酵前后的营养成分含量，包括干物质（dry matter，DM）、粗蛋白质（crude protein，CP）、NDF、ADF、木质素（lignin，L）[7]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "纤维素（cellulose，C） $\\begin{array} { r } { { \\bf \\Pi } = \\frac { \\ d } { \\ d t } } \\end{array}$ ADF-酸性洗涤木质素(ADL);  \n半纤维素（hemicellulose，HC） $\\ c =$ NDF-ADF;  \n总氮（total nitrogen，TN）含量 $\\mathbf { \\bar { \\rho } } = \\mathbf { \\rho }$ CP/6.25。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.2玉米秸秆微观结构的测定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.2.1 一级结构 聚合度",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "玉米秸秆样品粉粹过40目，采用苯酚-硫酸法测定玉米秸秆样品中的总糖含量，4，4'二羧酸-2，2\"-喹啉（BCA）法测定玉米秸秆样品中还原糖含量，总糖与还原糖的比值，即为玉米秸秆纤维素的聚合度[8]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.2.2二级结构 —傅里叶转换红外光谱(FTIR)图谱 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "使用VERTEX 70VFTIR仪（Bruker公司，德国）对不同组的玉米秸秆样品进行扫描电镜观察，得出FTIR图谱[5]。试验处理：玉米秸秆样品粉碎 $2 \\ \\mathrm { m i n }$ ，过40目； $6 5 ~ ^ { \\circ } \\mathrm { C }$ 干燥12h后，称取 $1 \\ \\mathrm { m g }$ 样品与 $5 0 \\ \\mathrm { \\ m g }$ 溴化钾（KBr）研磨均匀，使用FW-5压片机，压强1 Mpa， $3 0 { \\sim } 6 0 \\mathrm { ~ s ~ }$ ，压成直径约 $1 3 \\ \\mathrm { m m }$ 的薄片。试验条件：扫描范围在 $1 ~ 0 0 0 { \\sim } 4 ~ 0 0 0 ~ \\mathrm { c m ^ { - 1 } }$ 区间，光谱分辨率 $2 ~ \\mathrm { c m ^ { - 1 } }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.2.3 三级结构—X射线衍射（XRD）图谱 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "使用D8-Advance型XRD仪（Bruker公司，德国）对不同组的玉米秸秆饲料进行 XRD扫描，得出 XRD 图谱[5]。试验处理：各组样品均粉碎 $2 \\ \\mathrm { m i n }$ ，过40目。试验条件： $\\mathrm { { C u - K a } }$ 40 $) \\mathrm { \\ k V } { \\times } 4 0 \\mathrm { \\ m A }$ ，扫描速度 $1 \\ \\mathrm { { ^ {circ } C / m i n } }$ ，步长 $0 . 0 4 ^ { \\circ }$ ，20角扫描范围 $3 ^ { \\circ } \\sim 4 0 ^ { \\circ }$ 。观察不同处理后的样品结晶度变化，并根据Meyer等9]提出的公式计算结晶度：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC r I ( ^ { 9 } \\% ) { = } [ ( I _ { 0 0 2 } { - } I _ { \\mathrm { a m } } ) / I _ { 0 0 2 } ] { \\times } 1 0 0 \\mathrm { \\Omega } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中： $C r I$ 表示结晶度； $I _ { 0 0 2 }$ 表示纤维素I在20为 $2 2 ^ { \\circ } { \\sim } 2 3 ^ { \\circ }$ 时结晶强度的最大值（对于纤维素Ⅱ，20为 $1 8 ^ { \\circ } \\sim 2 2 ^ { \\circ }$ ）； $I _ { \\mathrm { a m } }$ 表示纤维素I在20为 $1 8 ^ { \\circ } \\sim 1 9 ^ { \\circ }$ 时结晶强度的最小值（对于纤维素ⅡI，20为 $1 3 ^ { \\circ } \\sim 1 5 ^ { \\circ } .$ ）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.3.2.4 四级结构- 比表面积",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "采用伊红美兰法测定样品的比表面积[10-1]。玉米秸秆样品粉碎过 40 目，取 $\\boldsymbol { 0 . 2 \\mathrm { ~ g ~ } }$ 悬浮于 $2 5 ~ \\mathrm { m L }$ 美兰溶液中，恒温 $2 5 ~ ^ { \\circ } \\mathrm { C }$ ，转速 $1 2 0 \\mathrm { \\Delta r / m i n }$ ， $1 0 \\ : \\ : 0 0 0 \\ : \\mathrm { \\ r / m i n }$ 离心 $1 5 \\ \\mathrm { m i n }$ ，取得上清液，在 $6 6 0 \\ \\mathrm { n m }$ 的波长下进行比色，测得溶液中美兰的含量，单位质量玉米秸秆样品吸附剂吸附美兰的量可引据下列公式计算出：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nq { = } [ ( C _ { 0 } { - } C _ { t } ) ^ { } \\times V ] / m _ { \\odot }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中： $q$ 表示单位质量玉米秸秆样品吸附美兰的量（ $\\mathbf { \\dot { \\Omega } } _ { \\mathrm { m g / g } } \\mathbf { \\dot { \\Omega } }$ ）； $C _ { 0 }$ 表示美兰的初始浓度（mg/L）； $C _ { t }$ 表示 $t$ 时刻美兰的浓度（ $\\mathrm { m g / L }$ ）； $V$ 表示美兰溶液的体积（L）； $\\mathbf { \\nabla } _ { m }$ 表示玉米秸秆样品的质量（g）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$S { = } q { \\times } { \\mathbf { a } } _ { \\circ }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中： $S$ 表示比表面积 $( \\mathbf { m } ^ { 2 } / \\mathbf { g } )$ ; $q$ 表示单位质量玉米秸秆样品吸附美兰的量（ $\\mathrm { m g / g ) }$ ；a为 $1 \\ \\mathrm { m g }$ 美兰覆盖固体的面积，对秸秆物质为 $2 . 4 5 \\mathrm { \\ m } ^ { 2 }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4数据统计分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "试验数据经过Excel 2007初步整理后，采用 SPSS 21.0软件的单因素方差分析（one-way ANOVE）检验程序进行差异显著性分析， $P { < } 0 . 0 5$ 为差异显著。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1青贮玉米秸秆的营养成分由表2可以看出，与CS 组相比，玉米秸秆发酵45d以后，其他各组的NDF、ADF、纤维素、半纤维素、木质素含量均显著降低（ $P { < } 0 . 0 5$ ）。CS 组的DM、CP、NDF、ADF、纤维素、半纤维素含量显著高于CK组（ $\\cdot P { < } 0 . 0 5$ ）。与CK 组相比，CPL 组的 NDF、ADF、纤维素、半纤维素、木质素含量差异不显著 $\\scriptstyle ( P > 0 . 0 5 )$ ，CPLP 和CPLB 组的 NDF、ADF、纤维素、半纤维素含量均显著降低（ $P { < } 0 . 0 5$ ）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/ac924172ad805b9efff4a45dd824ab7c490be10a8dbbb766e9818c28bdbf1788.jpg",
+        "table_caption": [
+            "表2酶-菌制剂对青贮玉米秸秆营养成分的影响",
+            "Table 2Efects of enzyme-bacterial preparation on nutrient composition of silage corn stover "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td colspan=\"5\">组别 Groups</td><td rowspan=\"2\">SEM</td><td rowspan=\"2\">P值</td></tr><tr><td>Items</td><td>CS</td><td>CK</td><td>CPL</td><td>CPLP</td><td>CPLB</td></tr><tr><td>干物质</td><td>566.70a</td><td>317.93c</td><td>325.56b</td><td>323.43b</td><td></td><td></td><td></td></tr><tr><td>DM/ (g/kg FM)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗蛋白质</td><td>70.07a</td><td>64.70bc</td><td>66.95b</td><td>62.60c</td><td>63.38c</td><td>0.82</td><td>0.003</td></tr><tr><td>CP/ （g/kg DM)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>中性洗涤纤维</td><td>628.08a</td><td>490.09b</td><td>490.94b</td><td>431.18c</td><td>429.91c</td><td>19.60</td><td><0.01</td></tr><tr><td>NDF/（g/kg DM)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>酸性洗涤纤维</td><td>357.71a</td><td>283.83b</td><td>278.78b</td><td>246.12c</td><td>245.74c</td><td>11.13</td><td><0.01</td></tr><tr><td>ADF/（g/kg DM) 纤维素</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>C/ （g/kg DM)</td><td>276.78a</td><td>204.19b</td><td>196.16b</td><td>170.90c</td><td>170.59c</td><td>10.56</td><td><0.01</td></tr><tr><td>半纤维素</td><td>270.37a</td><td>209.55b</td><td>212.16b</td><td>185.05c</td><td>184.17c</td><td></td><td><0.01</td></tr><tr><td>HC/(g/kg DM)</td><td></td><td></td><td></td><td></td><td></td><td>8.71</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>70.66a</td><td>68.77ab</td><td></td><td></td><td></td><td>0.66</td><td>0.009</td></tr><tr><td></td><td></td><td></td><td>69.47a</td><td>65.26c</td><td>65.97bc</td><td></td><td></td></tr><tr><td>木质素</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "同行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5$ ），相同或无字母表示差异不显著（ $P { > } 0 . 0 5$ ）。下表同。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the same row,values with different small leter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ， while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ .The same as belo W. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2青贮玉米秸秆的发酵品质 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表3可以看出，各组玉米秸秆发酵后， $\\mathfrak { p H }$ 均在4.2以下。与CK 组相比，CPL组的N$\\mathrm { H } _ { 3 } – \\mathrm { N } / \\mathrm { T N }$ 和乳酸/乙酸均显著降低（ $P { < } 0 . 0 5$ ），乳酸含量差异不显著（ $P { > } 0 . 0 5 )$ ）；CPLB组的乳酸含量显著增加（ $\\scriptstyle \\cdot < 0 . 0 5 .$ ），CPLP和CPLB组的 $\\mathrm { N H } _ { 3 } – \\mathrm { N } / \\mathrm { T N }$ 和乳酸/乙酸均显著降低（ $P { < } 0 . 0 5$ ）。各组均未检测到丙酸和丁酸。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/a6ef7d58448ac4e92ce5e5a90c2504709908e87ffe4b1c6aa14de99fe5e19259.jpg",
+        "table_caption": [
+            "表3酶-菌制剂对青贮玉米秸秆发酵品质的影响",
+            "Table 3Effects of enzyme-bacterial preparation on fermentation quality of silage corn stover "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目 Items</td><td colspan=\"4\">组别 Groups</td><td rowspan=\"2\">SEM</td><td rowspan=\"2\">P值</td></tr><tr><td>CK</td><td>CPL</td><td>CPLP</td><td>CPLB</td></tr><tr><td>pH</td><td>3.90a</td><td>3.87b</td><td>3.85b</td><td>3.82℃</td><td>0.01</td><td><0.01</td></tr><tr><td>乳酸 LA/（g/kg DM)</td><td>45.20b</td><td>47.35b</td><td>48.62ab</td><td>54.40a</td><td>1.32</td><td>0.048</td></tr><tr><td>乙酸 AA/(g/kg DM)</td><td>4.13b</td><td>8.69a</td><td>8.15a</td><td>8.02a</td><td>0.61</td><td>0.003</td></tr><tr><td>乳酸/总酸LA/TA</td><td>915.82a</td><td>844.92b</td><td>855.63b</td><td>871.40b</td><td>9.76</td><td>0.018</td></tr><tr><td>乙酸/总酸AA/TA</td><td>84.18b</td><td>155.08a</td><td>144.37a</td><td>128.60a</td><td>9.76</td><td>0.018</td></tr><tr><td>乳酸/乙酸 LA/AA</td><td>11.34a</td><td>5.48b</td><td>6.15b</td><td>6.86b</td><td>0.82</td><td>0.015</td></tr><tr><td>氨态氮/总氮ATN/T</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>N/ (g/kg DM)</td><td>45.93a</td><td>38.27b</td><td>36.46b</td><td>34.38b</td><td>1.41</td><td><0.01</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3青贮玉米秸秆的微观结构",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 一级结构 ? 聚合度",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由表4可以看出，玉米秸秆发酵后，纤维素的聚合度具有差异性。CS 组的聚合度显著高于CK组（ $\\cdot P { < } 0 . 0 5$ ）。与CK 组相比，CPL 组的聚合度无显著差异（ $P { > } 0 . 0 5 \\$ ）；CPLP、CPLB 组的聚合度分别显著降低了 $3 8 . 9 2 \\%$ 、 $3 5 . 6 4 \\%$ ( $P { < } 0 . 0 5$ ）。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/17da5609a91cf08ee94f6fe52fe0d27157e1723b1784d562e5de3732a5cbc7be.jpg",
+        "table_caption": [
+            "表4酶-菌制剂对青贮玉米秸秆聚合度的影响",
+            "Table 4Effects of enzyme-bacterial preparation on DP of silage corn stover "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td colspan=\"5\">组别Groups</td><td colspan=\"2\"></td></tr><tr><td>Item</td><td>CS</td><td>CK</td><td>CPL</td><td>CPLP</td><td>CPLB</td><td>SEM</td><td>P-value</td></tr><tr><td>聚合度 DP</td><td>155.10a</td><td>134.66b</td><td>123.59b</td><td>82.25c</td><td>86.67c</td><td>5.367</td><td><0.001</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 二级结构 氢键作用力",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "玉米秸秆二级结构的FTIR 图谱如图1所示。与CK 组相比，CS 组的-oh 吸收峰、 ${ \\mathrm { - } } \\mathrm { C H } _ { 2 }$ 吸收峰、 $\\scriptstyle { \\mathrm { C = O } }$ 吸收峰振动较强。玉米秸秆经复合酶制剂、复合酶-单活菌、复合酶-双活菌发酵以后，各组在 $3 ~ 3 8 6 ~ \\mathrm { c m ^ { - 1 } }$ 为-OH 伸缩振动、2 909 cm-1为-CH的伸缩振动、 $1 ~ 0 9 8 ~ \\mathrm { c m ^ { - 1 } }$ 的结晶纤维素吸收峰、 $1 3 7 5 \\ \\mathrm { c m ^ { - 1 } }$ 的-CH（纤维素、半纤维素）弯曲振动及 $1 \\ 5 1 5 \\ \\mathrm { c m } ^ { - 1 }$ 、1656cm-1与芳香环共轭的 $\\scriptstyle { \\mathrm { C = O } }$ 的木质素特征吸收峰强度均减弱，说明秸秆中的纤维素、半纤维素、木质素被降解，微观结构发生了改变。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/fb15c0585dc43975d292ea87841e1ce1f4d5ae54f9e7ecfde2aedbeb2e075115.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1.玉米秸秆组（CS组）；2.青贮对照组（CK组）；3.复合酶制剂组（CPL组）；4.复合酶 $+$ 单活菌组（CPLP组）；5.复合酶 $+ .$ 双活菌组（CPLB组）。下图同。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1.corn stalk group （CS group）；2.corn silage group(CK group)； 3.compound enzyme preparation group（CPL group）；4.compound enzyme preparation $^ +$ single live bacteria group (CPLP group)；5.com pound enzyme preparation+double live bacteria group （CPLB group）.The same as below. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Effects of enzyme-bacterial preparation on FTIR spectra of silage corn stover ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.3.3 三级结构 结晶度（XRD衍射）",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由表5可以看出，经过发酵以后，玉米秸秆的结晶度具有增加的趋势。结晶度从大到小依次为CPL组 $>$ CPLB组 $>$ CPLP组 ${ \\tt > } \\mathrm { C K }$ 组 ${ > } \\mathrm { C S }$ 组。玉米秸秆的XRD图谱如图2所示。CPL、CPLP 和CPLB 组的101、002 和004处晶面的衍射峰变宽，衍射强度明显增强，说明秸秆青贮后结晶度发生了改变。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/2cdd0d50d6ede14d8f0dd9d435faf401eba86545df38e73c27037554793f5c88.jpg",
+        "table_caption": [
+            "表5酶-菌制剂对青贮玉米秸秆结晶度的影响",
+            "Table 5Effects of enzyme-bacterial preparation on crystalinity of silage corn stover % "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td colspan=\"5\">组别Groups</td><td rowspan=\"2\">SEM</td><td rowspan=\"2\">P值</td></tr><tr><td>Item</td><td>CS</td><td>CK</td><td>CPL</td><td>CPLP</td><td>CPLB</td></tr><tr><td>结晶度CrI</td><td>49.50b</td><td>50.07b</td><td>53.43a</td><td>52.08ab</td><td>52.35ab</td><td>0.508</td><td>0.041</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/d8eda4b82fde9b13af800658ed5fc54c968fbf46be3067298d0dc03e9c7bc1c4.jpg",
+        "img_caption": [
+            "图2酶-菌制剂对青贮玉米秸秆 XRD 图谱的影响",
+            "Fig.2Efects of enzyme-bacterial preparation on XRD spectra of silage corn stover "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.3.4 四级结构- -比表面积",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "纤维素的比表面积是表征纤维素微纤丝与纤维素降解酶分子间可接触面积大小的参量，对微生物及纤维素降解酶的可及性均有较大的影响[10]。由表6可以看出，玉米秸秆发酵以后，与CK 组相比，CPL组的比表面积无显著差异（ $\\cdot P { > } 0 . 0 5$ ），CPLP和CPLB 组的比表面积显著增加（ $P { < } 0 . 0 5$ ），但是变化范围不大，其中CPLP组比表面积增加的最多。",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/75c1a43f2a88245dca31f304f35fd6c5648107f18e18776b63cc5ba675a3da2b.jpg",
+        "table_caption": [
+            "表6酶-菌制剂对青贮玉米秸秆比表面积的影响",
+            "Table 6Effects of enzyme-bacterial preparation on specific area of silage corn stover m2/g "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td colspan=\"5\">组别 Groups</td><td></td><td>P值</td></tr><tr><td></td><td></td><td></td><td></td><td>CPLP</td><td>CPLB</td><td>SEM</td><td>P-value</td></tr><tr><td>比表面积 Specific area</td><td>1.36c</td><td>1.39b</td><td>1.39b</td><td>1.43a</td><td>1.42a</td><td>0.007</td><td></td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.1青贮发酵作用对玉米秸秆营养成分及微观结构的影响",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "研究表明，秸秆青贮后变得柔软多汁，可以有效地保存秸秆原有的营养成分[]。本试验中，CS 组的NDF、ADF、纤维素、半纤维素含量分别比CK组高 $2 1 . 9 7 \\%$ 、 $20 . 6 5 \\%$ 、 $2 6 . 2 2 \\%$ 和 $2 2 . 5 0 \\%$ ，木质素含量高 $2 . 7 5 \\%$ 。从微观结构来看，CS组的聚合度比CK组高 $1 3 . 1 8 \\%$ ，说明秸秆原料中的分子链排列紧密，糖苷键数目高于CK组，玉米秸秆青贮后内部的分子链发生了断链现象，造成聚合度降低[1] $^ { 2 ] } \\circ 3 \\ 3 8 6 \\ \\mathrm { c m } ^ { - 1 }$ 出现的较宽的吸收峰是-OH伸缩振动引起的，主要由纤维素中的氢键产生； $2 ~ 9 0 9 ~ \\mathrm { c m ^ { - 1 } }$ 处的吸收峰主要是来自纤维素-CH振动，1 730 c$\\mathbf { m } ^ { - 1 }$ 处的吸收峰是 $\\scriptstyle { \\mathrm { C = O } }$ 弯曲振动引起，主要由半纤维素中的酰基和糖醛基产生；此外，1 5$1 5 ~ \\mathrm { c m ^ { - 1 } }$ 处的苯环伸展振动和 $1 ~ 6 5 6 ~ \\mathrm { c m ^ { - 1 } }$ 处的与芳香环共轭的 $\\scriptstyle { \\mathrm { C = O } }$ 的振动吸收，是木质素的特征吸收峰[13]。经FTIR分析后，青贮玉米秸秆的特征官能团的吸收峰发生了变化，-OH键振动减弱以及2909、1730、1515、1635cm的吸收峰强度均有所减弱，这与秸秆青贮前后的营养成分变化相一致。玉米秸秆中的纤维素包括结晶区和无定形区，结晶区的纤维素大分子链结构紧密，排列整齐，水解速度慢；无定形区的纤维素大分子链取向较差，结构疏松，容易水解[14]。经 XRD 图谱分析，青贮玉米秸秆的 101、002处的衍射峰变宽，结晶度由 $4 9 . 5 0 \\%$ 增加到 $5 0 . 0 7 \\%$ ，这说明秸秆纤维素的无定形区被优先利用，使秸秆纤维素的结晶度增加。同时，从纤维素的比表面积来看，青贮玉米秸秆纤维素的比表面积增加了 $2 . 2 0 \\%$ 这说明青贮使玉米秸秆的表面产生了更多空洞，有利于纤维素降解酶及瘤胃微生物的吸附。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2复合酶制剂对玉米秸秆营养成分及微观结构的影响",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "研究表明，优质的青贮具有较高的乳酸含量和较低的pH及 $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 、丁酸含量[15]。 $\\mathrm { N H } _ { 3 }$ -N/TN 越高，说明青贮中的蛋白质和氨基酸分解越高，青贮饲料的质量越差。王玉荣[]发现，使用纤维素复合酶处理青贮水稻秸秆，可以显著降低青贮的pH及 $\\mathrm { N H } _ { 3 }$ -N、NDF、ADF含量。本试验中，CPL 组青贮玉米秸秆的pH、乳酸/乙酸和 $\\mathrm { N H _ { 3 } } { \\cdot } \\mathrm { N } / \\mathrm { T N }$ 显著降低，但是乳酸、NDF、",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "ADF、纤维素、半纤维素含量无显著差异，这可能与原料种类、破碎程度有关。一般情况下，乳酸/乙酸大于3.0，被认为是同型发酵乳酸菌发酵，乙酸对真菌具有抑制作用，可以提高青贮饲料的有氧稳定性[11]。研究表明，酶制剂可以针对性地降解秸秆结构[1I'16]。李新平等[17]研究表明，随着复合纤维素酶用量的增加，纤维素大分子链逐渐断裂，聚合度逐渐减小。本试验中，复合酶制剂组的聚合度低于青贮对照组，这可能是由于纤维素酶中的内切葡聚糖酶优先水解了纤维素分子链中的无定形区，随机水解 $\\boldsymbol { \\cdot } \\boldsymbol { \\beta }$ -1,4 糖苷键，纤维素分子链被切断[18]。经FTIR 分析，在青贮玉米秸秆中添加复合酶制剂，纤维素的特征吸收峰3386、2909 cm-1，半纤维素的特征吸收峰 $1 ~ 7 3 0 ~ \\mathrm { c m } ^ { - 1 }$ ，木质素特征吸收峰1656 和 $1 ~ 5 1 5 ~ \\mathrm { c m ^ { - 1 } }$ 仍然存在,只是强度减弱。陈云玲[19]对速生杨P-RC APMP 进行纤维素酶、木聚糖酶、漆酶处理后，浆料表面的纤维素含量降低， $ { - } \\mathrm { C H } _ { 2 }$ 、C-O-C、-OH和 $\\scriptstyle { \\mathrm { C = O } }$ 基团均受到了纤维素酶的破坏，其特征官能团的吸收峰强度降低，本研究结果与其一致。宋丽丽[1研究表明，酶解后玉米秸秆多孔性增加，增加了底物的粗糙度，纤维素酶液更容易浸润木质纤维素，使纤维素分子与底物的吸附性增强，木质纤维素的转化率得以提升。本研究发现，相较于CK组，CPL 组的结晶度和比表面积具有增加的趋势，与Wang 等[20]研究结果一致。究其原因是生物制剂渗入到秸秆细胞壁内部，优先降解秸秆的无定形区，使木质素和半纤维素发生溶解，并去除部分无定形区的细小纤维，导致无定形区的面积减小，结晶度增加[19]。Zheng 等[21]认为，结晶度提高是由于木质纤维分子发生有序重排，进行了次期结晶，使非结晶部分和晶体结构不完整部分继续结晶，从而使结晶度增大。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.3复合酶-菌制剂对玉米秸秆营养成分及微观结构的影响",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "在玉米秸秆青贮中添加纤维素降解酶和乳酸菌，有利于改善秸秆发酵和保存秸秆原有的营养成分[22]。本试验中，相较于CK组，CPLP和CPLB 组的乳酸含量升高，乳酸/乙酸降低，$\\mathfrak { p H }$ 和 $\\mathrm { N H _ { 3 } } { \\cdot } \\mathrm { N } / \\mathrm { T N }$ 也显著降低，这与王奇等[23]、韩立英等[24]研究结果相似。这主要是二者充分发挥了各自的作用，不仅能增加乳酸发酵的碳源，还可以提高青贮发酵初期乳酸菌的数目，从而提高玉米秸秆青贮发酵品质。从营养成分来看，复合酶-活菌制剂显著降低了NDF、ADF、纤维素、半纤维素的含量，并且木质素含量也显著降低，说明纤维素降解酶和乳酸菌的协作有利于乳酸菌作用的发挥，从而抑制有害微生物的发酵，保存秸秆原有的营养成分，这与门宇新[25]和顾拥建等[2研究结果一致。从微观结构变化分析，CPLP 和CPLB 组的聚合度显著低于CK组，这可能与复合酶制剂和乳酸菌制剂协同作用的性能叠加有关。由 FTIR图谱得知，CPLP和CPLB 组的-OH、-CH、 $\\scriptstyle { \\mathrm { C = O } }$ 基团均受到明显地破坏， $1 ~ 5 1 5 ~ \\mathrm { c m ^ { - 1 } }$ 处的木质素芳香族骨架振动和C-O 苯环拉伸的特征吸收峰也明显减弱，此结果说明，经过复合酶-活菌制剂处理后，玉米秸秆中的纤维素、半纤维素、木质素发生了改变或被降解，与玉米秸秆化学组成的变化一致[18]。彭丹[14]使用纤维素酶和降解真菌处理玉米秸秆，结果表明，玉米秸秆的结晶度降低，比表面积增大，纤维素降解菌丝穿入了纤维素的结晶区，破坏了结晶区的致密平行结构，形成了无定形结构。本研究结果与其不符，可能是与酶的活性、添加比例及原料的木质化程度及分子结构有关。本试验中，与CK组相比，复合酶-活菌制剂处理后的玉米秸秆的比表面积显著增加，其中以CPLP 组增加的最多，这可能是由于纤维素降解酶进攻葡萄糖苷键，使秸秆受到不同程度地破坏，增加秸秆孔洞所致，这与Xu等[27]、Zeng 等[2]研究结果一致。Nazarpour 等[28]研究表明，木质素经真菌降解后会增加底物的孔隙，为纤维素酶提供更多的接触面积。去除半纤维素中的乙酰基可以增加纤维素的内表面积和孔隙度，同时增加底物的润胀性，提高纤维素酶的降解率[29]。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 复合酶制剂 $\\dot { + }$ 活菌制剂处理玉米秸秆，NDF、ADF、纤维素、半纤维素含量显著降低，pH、 $\\mathrm { N H } _ { 3 }$ -N/TN、乳酸/乙酸比例显著降低，改善了秸秆营养品质。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 玉米秸秆经不同生物制剂处理，可有效破解秸秆的抗营养结构，降低纤维素中的非晶区域。复合酶制剂 $+$ 活菌制剂处理可以使聚合度显著降低，氢键作用力减弱，结晶度、比表面积显著增加，秸秆细胞壁纤维素的微观结构发生了明显的改变。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{3}$ 玉米秸秆4种纤维成分的降低与微观结构的聚合度降低、氢键作用力减弱、结晶度和比表面积增加相吻合，测定玉米秸秆的微观结构可以从分子层面阐述秸秆破壁的程度。参考文献：",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[1] PAULY M,KEEGSTRA K.Cell-wall carbohydrates and their modification as a resource for biofuels[J].The Plant Journal for Cell & Molecular Biology,2008,54(4):559-568. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[2] ZENG J J,SINGH D,CHEN S L.Biological pretreatment of wheat straw by Phaneroch aete chrysosporium supplemented with inorganic salts[J].Bioresource Technology,2011,1 02(3):3206-3214. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[3] CASTOLDI R,BRACHT A,DE MORAIS G R,et al.Biological pretreatment of Eucalyp tus grandis sawdust with white-rot fungi:study of degradation paterns and saccharifica tion kinetics[J].Chemical Engineering Journal,2014,258:240-246. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[4]ISROI M R,SYAMSIAH S,NIKLASSON C,et al.Biological pretreatment of lignocellul Oses with white-rot fungi and its applications:a review[J].Bioresources,2011,6(4):5224-5 259. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[5]王玉荣,陶莲,马涛,等.不同酶及组合处理对青贮水稻秸秆微观结构的影响[J].动物营养学报,2017,29(4):1401-1408.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[6]陶莲,刁其玉.青贮发酵对玉米秸秆品质及菌群构成的影响[J].动物营养学报,2016,28(1):198-207.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[7]张丽英.饲料分析及饲料质量检测技术[M].2版.北京:中国农业大学出版社,2003.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[8]AN Q D,ZHANG G L,WU H T,et al.Alginate-deriving oligosaccharide production by alginase from newly isolated Flavobacterium sp. LXA and its potential application in protection against pathogens[J].Journal of Applied Microbiology,2009,106(1):161-170. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[9]MEYER L,JACQUET N,VANDERGHEM C,et al.Effect of steam explosion pre-treatm ent on enzymatic saccharification of lignocellulosic material[C]//Cost FPO602 Final Me eting/Italic 6,2011. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[10]郭翰林.纤维素超分子结构及其降解过程的表征分析[D].硕士学位论文.济南:山东大学,2012.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[11]王玉荣.不同微生态制剂对稻秸分子结构及瘤胃降解特性的影响[D].硕士学位论文.阿拉尔：塔里木大学,2017.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[12]杜敏,李新平,陈立红,等.酶水解过程中纤维素聚合度和结晶度的变化[J].林产化学与工业,2015,35(5):5-9.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[13]郑小静,梅帆,易长海.生物酶对木棉纤维性质及染色性能的影响[J].武汉纺织大学学报,2015,28(6):21-25.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[14]彭丹.生物改性木质纤维素材料制备溢油吸附剂的特性和机理研究[D].博士学位论文.广州：华南理工大学,2013",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[15]FILYA I.The effect of Lactobacillus buchneri and Lactobacillus plantarum on the fe rmentation,aerobic stability,and ruminal degradability of low dry matter corn and sor ghum silages[J].Journal of Dairy Science,2003,86(11):3575-3581. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[16]宋丽丽.白腐菌高效改性木质素促进秸秆酶解反应机制研究[D].博士学位论文.武汉:华中科技大学,2013.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[17]李新平,王转,杜敏,等.复合纤维素酶水解对漂白马尾松纤维形态和结构的影响[J].陕西",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "科技大学学报,2015,33(2):1-6.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[18]陈帅.酶水解对麦草纤维结构和性能及微纤丝初步制备的影响[D].硕士学位论文.西安:陕西科技大学,2015.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[19]陈云玲.酶处理对速生杨P-RC APMP浆超微结构和纤维性能的影响[D].硕士学位论文.济南：齐鲁工业大学,2014",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[20]WANG F Q,XIE H,CHEN W,et al.Biological pretreatment of corn stover with lignin olytic enzyme for high efficient enzymatic hydrolysis[J].Bioresource Technology,2013, 144:572-578. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[21]ZHENG M X,LI L Q,ZHENG M Y,et al.Effect of alkali pretreatment on cellulosic structural changes of corn stover[J].Environmental Science & Technology,2012,35(6): 32-36. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[22] 谭树义,王峰,郑心力,等.复合酶和乳酸菌制剂对玉米秸秆青贮发酵品质的影响[J].粮食与饲料工业,2016,12(8):54-56.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[23] 王奇,余成群,李志华,等.添加酶和乳酸菌制剂对西藏苇状羊茅和箭筈豌豆混合青贮发酵品质的影响[J].草业学报,2012,21(4):186-191.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[24]韩立英,玉柱,周禾.乳酸菌和纤维素酶对直穗鹅观草青贮的改善效果[J].草业科学,2013, 30(9):1439-1444. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[25]门宇新.添加乳酸菌制剂和酶制剂对水稻秸青贮发酵品质的影响[D].硕士学位论文.哈尔滨：东北农业大学,2007.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[26]顾拥建,占今舜,沙文锋,等.乳酸菌和纤维素酶对青贮大豆秸秆的发酵品质和营养成分的影响[J].粮食与饲料工业,2016,12(3):52-55.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[27] XU C Y,MA F Y,ZHANG X Y,et al.Biological pretreatment of corn stover by Irpe $x$ lacteus for enzymatic hydrolysis[J].Journal of Agricultural and Food Chemistry,201 0,58(20):10893-10898. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[28]NAZARPOUR F,ABDULLAH D K,ABDULLAH N,et al.Evaluation of biological pre treatment of rubberwood with white rot fungi for enzymatic hydrolysis[J].Materials,2 013,6(5):2059-2073. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[29] ZHANG S M,XU S X,YUN L,et al.Spatial structure characterization of corn stover during biological pretreatment using Fourier transform infrared (FTIR） spectroscopy [J].Academia Journal of Biotechnology,2016,1(4):31-36. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Effects of Living Bacteria Preparation and Compound Enzymes Preparation on Chemical C omposition and Microstructure of Fibers of Silage Corn Stoverl ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "MAO Jianhong1,2 TAO Lian' LIU Rong1 WANG Yurong²XU Guishan² DIAO Qiyu1, (1. Beijing Key Laboratory of Dairy Cow Nutrition， Key Laboratory of Feed Biotechnolog y of the Ministry of Agriculture, Feed Research Institute of Chinese Academy of Agricultur al Sciences， Beijing 10o081， China; 2. Collge of Animal Science and Technology， Tarim University，Alar 843300,China) ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This study was conducted to investigate the effects of corn stover treated by enz yme preparation and enzyme-bacteria compound preparation on fermentation quality, nutriti on composition and microstructure of fibers,and aimed to explore its mechanism of impro ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Ving corn stover utilization by breaking the cellulose microstructure. Five groups were des1 gned in the present study: corn stover group (CS group)， silage control group (CK group), corn stover treated by compound enzyme group (CPL group)，corn stover treated by com pound enzyme and single living bacteria group (CPLP group)，and corn stover treated by double living bacteria group (CPLB group). Samples were prepared by vacuum packager i n polyethylene bags, after storing at room temperature for $4 5 \\mathrm { ~ d ~ }$ ，the chemical composition and fermentation quality of silage corn stover were measured. Additionally, the microstruc ture of fibers was analyzed by phenol-sulfuric acid $+ 4 , 4 ^ { \\prime }$ -dicarboxy $^ { \\cdot 2 , 2 ^ { \\prime } }$ -biquinoline disod ium（BCA） methods,Fourier transform infared spectroscopy（FTIR），X-ray difraction and iran methylene method. The results showed as follows: 1） compared with the CK gr oup, the pH, ratio of ammonia nitrogen to total nitrogen( $\\mathrm { N H _ { 3 } } { \\cdot } \\mathrm { N } / \\mathrm { T N }$ ）and ratio of aceti c acid to lactic acid in the CPL group were significantly decreased ( $\\scriptstyle \\overbrace { P } < 0 . 0 5 )$ ，the contents of lactic acid，neutral detergent fiber (NDF)，acid washing fiber (ADF)，cellulose and he micellulose in the CPL group had no significant difference ( $\\scriptstyle \\sum \\sum 0 . 0 5 ,$ ）；the content of lacti c acid in the CPLB group was significantly increased ( $\\scriptstyle ( P < 0 . 0 5 )$ ； the $\\mathfrak { p H }$ ， $\\mathrm { N H } _ { 3 } – \\mathrm { N } / \\mathrm { T N }$ ，ratio of acetic acid to lactic acid and contents of NDF,ADF,cellulose and hemicellulose in C PLP and CPLB groups were significantly decreased ( $\\scriptstyle \\overbrace { P } { < } 0 . 0 5 )$ . 2）Compared with the CK group,the crystallinity of tertiary structure in the CPL group was significantly increased $( P { < } 0 . 0 5 )$ ， the degree of polymerization of primary structure and specific surface area of q uaternary structure had no significant difference ( $P { > } 0 . 0 5 )$ ，the intermolecular hydrogen bo nding force of secondary structure did not change； the degree of polymerization of primar y structure in PLP and CPLB groups were significantly decreased ( $\\scriptstyle \\left. { \\cal P } < 0 . 0 5 \\right)$ ，the specific s urface area of quaternary structure were significantly increased ( $\\scriptstyle ( P < 0 . 0 5 )$ ； the intermolecula r hydrogen bonding force of secondary structure was weakened, the crystallinity of tertiary structure had no significant difference ( $\\scriptstyle \\left. { \\cal P } < 0 . 0 5 \\right)$ . In conclusion，the compound enzyme-sin gle living bacteria and compound enzyme-double living bacteria can significantly improve t he chemical composition of corn stover, it can effectively crack down the microstructure o f the cell wall of corn stovers by reducing the degree of polymerization of primary struct ure and the amorphous area of tertiary structure， weakening the intermolecular hydrogen b onding force of secondary structure and increasing the specific surface area of quaternary structure from cellulose of corn stover, and enhancing the utilization rate of straw. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Key words: Lactobacillus plantarum; degrading enzymes of corn stover; corn stover； silage; microstructure; quaternary structure ",
+        "page_idx": 19
+    }
+]

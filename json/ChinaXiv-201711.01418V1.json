@@ -1,0 +1,584 @@
+[
+    {
+        "type": "text",
+        "text": "饲粮中添加鹅脱氧胆汁酸对种鸡脂代谢、生产性能及子代肌肉发育的影响左旭冬　王桢璐 慈晓通 朱晓彤束刚王松波 江青艳 王丽娜\\*（华南农业大学动物科学学院，广州510642）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4摘要：本研究探讨了饲粮中添加鹅脱氧胆汁酸（CDCA）对种鸡脂代谢、生产性能及子代  \n5 肌肉发育的影响。试验选用14 周龄矮脚黄种鸡80 只，随机分为5个组，每组16个重复，每个重复1只鸡。对照组饲喂基础饲粮，试验组在基础饲粮中分别添加10、50、100 和 500mg/kg 的CDCA，试验期4周。在试验最后1周收集种蛋进行孵化，出雏后的子代根据种鸡分组情况分为5组，饲养期12周。结果表明：1）饲粮中添加CDCA对种鸡的体重、产蛋率和蛋品质均无显著影响（ $. P { > } 0 . 0 5 )$ ；与对照组相比，饲粮中添加 $1 0 0 ~ \\mathrm { { m g / k g } }$ 的 CDCA 能够显著增加种鸡血清中甘油三酯(TG)含量( $_ { ( P < 0 . 0 5 ) }$ ，显著降低血清中极低密度脂蛋白（VLDL）含量（ $P { < } 0 . 0 5 )$ ；与对照组相比，饲粮中添加 $1 0 0 ~ \\mathrm { m g / k g }$ 的 CDCA 能够显著降低试验第 14天和第28天种鸡蛋内总胆汁酸（TBA）含量（ $_ { ( P < 0 . 0 5 ) }$ ，显著增加蛋内胆固醇（TC）和低密度脂蛋白胆固醇（LDL-C）含量（ $P { < } 0 . 0 5$ )。2）与对照组相比，饲粮中添加 $5 0 \\ \\mathrm { m g / k g }$ 的CDCA 能够显著增加子代腓肠肌肌纤维密度和子代公鸡肝脏率（ $_ { _ { P < 0 . 0 5 } ) }$ ；与对照组相比，饲粮中添加 $1 0 0 ~ \\mathrm { m g / k g }$ 的 CDCA 能够显著降低子代母鸡的平均日增重、子代公鸡腓肠肌总蛋白沉积量和子代母鸡腓肠肌中乳酸脱氢酶（LDH）活性（ $_ { . P < 0 . 0 5 ) }$ ；与对照组相比，饲粮中添加 $5 0 0 ~ \\mathrm { m g / k g }$ 的CDCA 能够显著降低子代母鸡腓肠肌琥珀酸脱氢酶（SDH）活性和子代公鸡腓肠肌LDH活性（ $P { < } 0 . 0 5 )$ 。由此可见，饲粮中添加CDCA对种鸡的生产性能无显著影响，但会影响种鸡的脂代谢以及蛋内沉积特别是TBA的沉积，进而对子代肌肉发育产生抑制作用，因此CDCA在种鸡饲粮中的应用应注意添加剂量以及使用时间。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：鹅脱氧胆汁酸；种鸡；生产性能；子代肌肉发育中图分类号：S831 文献标识码： 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "动物胚胎期骨骼肌的发育情况决定了其出生后肌肉的生长潜力。禽类作为卵生动物，其在生长初期的生长和发育完全依赖于蛋中的营养成分，因此其出生后肌肉的发育很大程度上也受到种蛋内营养成分的影响[1]。研究表明，种鸡饲粮中营养水平的差异可以影响沉积到蛋内的营养素浓度，进而影响生长调节因子在子代血液和组织中的表达，最后影响到子代的养分利用效率[2]。子代后天的肌纤维形态（如密度和直径）受胚胎期来自母体的营养和后天生长环境2个因素的影响。徐良梅等[3研究结果表明，母体低能量饲粮可显著提高子代肉鸡1日龄、28日龄和56日龄胸肌和腿肌的肌纤维密度。闫俊书等[4试验结果表明，母体低蛋白饲粮显著减小了子代胸肌和腿肌的肌纤维直径，增大了肌纤维密度，且此影响是长期的，不存在补偿效应。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "胆汁酸是生产中常用的乳化剂。许多研究表明，胆汁酸可以促进动物对饲粮中脂质的消  \n化吸收，改善机体脂代谢，提高家禽的脂肪消化率。武中会[5在AA肉仔鸡饲粮中添加不同  \n水平的胆汁酸复合乳化剂，结果表明复合乳化剂能有效提高肉仔鸡的生产性能，当胆汗酸添  \n加水平为 $8 0 0 ~ \\mathrm { g / t }$ 时对生产性能的提高作用最显著。刘敬盛等[以\"817\"肉杂鸡为试验动物探  \n讨胆汁酸对其生产性能及粗脂肪表观代谢率的影响，结果表明胆汁酸能显著提高生长早期  \n（1\\~20 日龄）的脂肪表观代谢率，试验组比对照组提高 $2 . 4 9 \\% { \\sim } 4 . 6 8 \\%$ 。但种鸡饲粮中添加  \n胆汁酸对蛋内营养成分的沉积及子代生长发育的影响还未见报道。鹅脱氧胆汁酸（chenodeoxycholic acid，CDCA）是胆汁酸中最主要的成分，本试验研究  \n饲粮中添加不同水平的CDCA对矮脚黄种鸡种鸡脂代谢、生产性能及子代肌肉发育的影响，  \n为 CDCA在家禽生产中的合理使用提供科学依据。  \n1材料与方法  \n1.1试验材料与试验饲粮CDCA（纯度 $> 9 9 \\%$ ）购自成都宽境生物有限公司。基础饲粮为玉米-豆粕型饲粮，由华  \n南农业大学畜牧场提供，其组成及营养水平见表1。表1基础饲粮组成及营养水平 (风干基础)",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Table 1 Composition and nutrient levels of basal diets (air-dry basis) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "项目Items含量Content",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$1 { \\sim } 4$ 周龄 ${ \\boldsymbol { 5 } } \\sim 1 { \\boldsymbol { 2 } }$ 周龄 $1 4 { \\sim } 1 8$ 周龄",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/f29ff88f5eaf76f1210c2a9da42bdb0606403d6cc1ef47a03912cbfd680bf30f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>age</td><td>age</td><td>age</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td></tr><tr><td>去皮豆粕 Dehulled soybean meal</td><td>28.49</td><td>16.12</td><td>24.32</td></tr><tr><td>玉米Corn</td><td>65.00</td><td>65.00</td><td>62.00</td></tr><tr><td>麸皮 Wheat bran</td><td></td><td>15.00</td><td></td></tr><tr><td>鱼粉 Fish meal</td><td>2.10</td><td></td><td></td></tr><tr><td>石粉 Limestone</td><td>1.57</td><td>1.50</td><td>10.63</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>2.10</td><td>1.80</td><td>1.90</td></tr><tr><td>食盐 NaCl</td><td>0.21</td><td>0.30</td><td>0.46</td></tr><tr><td>赖氨酸 Lys</td><td>0.03</td><td>0.01</td><td>0.04</td></tr><tr><td>蛋氨酸Met</td><td>0.11</td><td>0.01</td><td>0.19</td></tr><tr><td>矿物质预混料 Mineral premix1)</td><td>0.11</td><td>0.10</td><td>0.10</td></tr><tr><td>多维预混料 Multi-vitamin premix2)</td><td>0.04</td><td>0.03</td><td>0.04</td></tr><tr><td>维生素EVitamin E</td><td></td><td></td><td>0.01</td></tr><tr><td>胆碱 Choline</td><td>0.18</td><td>0.10</td><td>0.15</td></tr><tr><td>鱼肝油 Fish liver oil</td><td></td><td></td><td>0.10</td></tr><tr><td>酵母粉 Yeast powder</td><td>0.04</td><td>0.02</td><td>0.04</td></tr><tr><td>防霉剂 Anti-molds</td><td>0.02</td><td>0.01</td><td>0.02</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels3)</td><td></td><td></td><td></td></tr><tr><td>代谢能 ME/(MJ/kg)</td><td>11.78</td><td>11.25</td><td>11.25</td></tr><tr><td>粗蛋白质CP</td><td>18.05</td><td>18.05</td><td>17.11</td></tr><tr><td>钙Ca</td><td>1.00</td><td>1.00</td><td>3.62</td></tr><tr><td>总磷TP</td><td>0.61</td><td>0.61</td><td>0.61</td></tr><tr><td>赖氨酸 Lys</td><td>1.00</td><td>1.00</td><td>0.77</td></tr><tr><td>蛋氨酸Met</td><td>0.44</td><td>0.52</td><td>0.43</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1矿物质预混料为每千克饲粮提供 Mineral premix provided the following per kg of diets：Cu(as copper sulfate) $8 ~ \\mathrm { m g }$ ，Fe (as ferrous sulfate) $8 0 ~ \\mathrm { m g }$ ，Mn (as manganese sulfate) $1 0 0 ~ \\mathrm { { m g } }$ ，Zn (as zinc sulfate) $6 0 ~ \\mathrm { m g }$ ，I(as potassium iodide) $0 . 5 0 \\mathrm { m g }$ ， Se (as sodium selenite) $0 . 4 0 \\mathrm { m g }$ ， Co (as cobalt sulfate) $0 . 4 0 \\mathrm { m g }$ 。 2多维预混料为每千克饲粮提供 Multi-vitamin premix provided the follwing per kg of diets：VA4 000 IU, VBi 1 mg, $\\mathrm { V B } _ { 2 } 3 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 5 } 4 0 \\mathrm { m g }$ ，VB62 mg， $\\mathrm { V B } _ { 1 2 } 0 . 0 1 \\ : \\mathrm { m g }$ ， $\\mathrm { V D } _ { 3 } \\textrm { l } 0 0 0 \\mathrm { I U }$ ，VE 10IU, $\\mathrm { V K } _ { 3 } 2 \\mathrm { m g }$ ，生物素 biotin $0 . 0 5 \\mathrm { m g }$ ，叶酸 folic acid $0 . 5 \\mathrm { m g }$ ， $D$ 泛酸 $D$ -pantothenic acid $6 \\ : \\mathrm { m g }$ ，烟酸 nicotinic acid $2 0 ~ \\mathrm { m g }$ ，抗氧化 剂 antioxidant $1 0 0 \\mathrm { m g }$ 。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3）代谢能为计算值，其余为实测值。ME was a calculated value,and others were measured values. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2试验设计与饲养管理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验选用14周龄、体况良好的开产矮脚黄种鸡80只，随机分为5个组，每组16 个重复，每个重复1只鸡。对照组饲喂基础饲粮，试验组（I、Ⅱ、III、IⅣ组）饲喂在基础饲粮中分别添加10、50、100 和 $5 0 0 \\mathrm { m g / k g }$ CDCA 的试验饲粮。试验鸡单笼饲养，限饲 $[ 6 0 \\ \\mathrm { g } / \\$ (d只）]和自由饮水，常规饲养管理。试验分预试期和试验期，其中预试期1周，试验期4周(15\\~18 周龄)。在试验第 4周开始给各组试验鸡进行人工受精，并每天收集种蛋，收集1周后按照种鸡分组进行孵化，孵化期为3周。出雏后的子代根据种鸡分组情况分为5组育雏，4周龄时在原有分组的基础上公母分开饲养，子代公鸡每组6个重复，每个重复6只鸡；子代母鸡每组6个重复，每个重复4只鸡。自由采食和饮水，子代饲养期为12周。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3样品采集",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "每天09:00准时收蛋， $4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 冰箱保存。种鸡试验第4周末，禁食并每组随机选取10 只鸡，翅静脉采血 $1 0 ~ \\mathrm { m L }$ ， $3 ~ 5 0 0 ~ \\mathrm { r / m i n }$ 离心 $1 0 ~ \\mathrm { m i n }$ 制备血清，用于测定血清脂代谢指标。子代12 周龄时称重，每个重复中选取接近该重复平均体重的2只鸡，屠宰分离肝脏、胸肌和腿肌并称重。取腿肌中腓肠肌经液氮速冻后置于超低温冰箱保存备用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4 测定指标及方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.1 生产性能",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "准确记录每只种鸡产蛋数并计算各组产蛋率。准确记录试验开始时种鸡体重和试验结束时种鸡体重。从4周龄开始，每周测定各组子代的采食量、体增重，计算平均日增重（ADG)、平均日采食量（ADFI）和料重比（F/G)。生产性能指标和胴体率的计算方法如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "料重比 $\\ c =$ 平均日采食量/平均日增重;  \n胸肌率 $( \\% ) = 1 0 0 \\times$ 单侧胸肌重 $\\times 2 /$ 活体重;  \n腿肌率 $( \\% ) = 1 0 0 \\times$ 单侧腿肌重 $\\times 2 /$ 活体重;  \n腹脂率 $( \\% ) = 1 0 0 \\times$ 腹脂重/活体重。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.2蛋品质及蛋内总胆汁酸（TBA）、总胆固醇（TC）、甘油三酯（TG）和低密度脂蛋白胆固醇（LDL-C）沉积",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "蛋品质测定：取试验第27天的种蛋，测定蛋重、蛋壳强度、浓蛋白高度、蛋黄颜色、蛋黄相对重及哈氏单位。测定仪器分别采用蛋壳强度测定仪（以色列ORK公司）和多功能蛋品质测定仪（以色列ORKA公司)。哈氏单位计算公式为：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $H$ 为浓蛋白高度（ $\\mathbf { m } \\mathbf { m }$ )；W为蛋重（g）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "蛋内 TBA、TC、TG 和LDL-C 含量测定：试验第7、14、23 和28 天，每组取6枚种蛋，每个种蛋单独分离出蛋黄，搅拌均匀用于测定TBA含量，取试验第 28 天的种蛋测定TC、TG 和LDL-C 含量。上述指标均采用南京建成生物工程研究所生产的试剂盒检测。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "蛋内 TBA样品制备：准确吸取蛋黄 $0 . 1 5 \\mathrm { ~ g ~ }$ 于 $2 { \\mathrm { ~ m L ~ } }$ 离心管中，按样品：无水乙醇 $\\scriptstyle : = 1 : 9$ 的比例进行稀释，漩涡振荡 $3 0 ~ \\mathrm { s }$ 后，转入离心机 $4 0 0 0 \\mathrm { r / m i n }$ 离心 $1 0 \\mathrm { m i n }$ 。取上清 $6 0 0 ~ \\mu \\mathrm { L }$ 到$1 . 5 ~ \\mathrm { m L }$ 离心管中，再加入 $6 0 0 ~ \\mu \\mathrm { L }$ 无水乙醇, $4 0 0 0 \\mathrm { r / m i n }$ 离心 $1 \\mathrm { m i n }$ ，取上清得待测样品， $- 2 0 \\mathrm { ~ \\textdegree ~ }$ 保存。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "蛋内 TG、TC 和LDL-C 样品制备：除稀释液采用生理盐水外，其余同蛋内TBA 样品制备方法一致。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.3 种鸡血清脂代谢指标",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "血清 TC、TG、LDL-C、高密度脂蛋白胆固醇（HDL-C）和 TBA含量测定采用南京建成生物工程研究所生产的试剂盒检测。血清极低密度脂蛋白（VLDL）含量测定采用上海纪宁实业有限公司的试剂盒检测。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.4子代腓肠肌代谢酶活性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从超低温冰箱中取出腓肠肌样品，准确称取 $5 0 \\mathrm { m g }$ 样品放入匀浆管中，加入匀浆珠和强裂解液（北京康为世纪公司），接着在匀浆仪（美国Carefreezy 公司，FastPrep-24）中匀浆4",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "次，再转入离心机中4℃ $1 2 0 0 0 \\mathrm { r / m i n }$ 离心 $1 0 \\mathrm { m i n }$ ,取上清液测定肌肉琥珀酸脱氢酶(SDH)和乳酸脱氢酶（LDH）活性。测定试剂盒均购自南京建成生物工程研究所。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4.5 子代腓肠肌肌纤维密度",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "采用冷冻切片机（Leica，德国）进行腓肠肌切片。先将切片机温度调到 $- 2 3 \\mathrm { ~ \\ ^ { \\circ } C }$ ，然后将样品从超低温冰箱转移到切片机中停留一段时间，待样品温度稳定后，取出样品用手术刀将其修整成 $0 . 5 \\ : \\mathrm { m m } { \\times } 0 . 5 \\ : \\mathrm { m m } { \\times } 0 . 5 \\ : \\mathrm { m m }$ 的立方体，用包埋剂将其固定，设定切片厚度为 $1 0 \\mu \\mathrm { m }$ 开始切片。每个样品至少4张切片，常规苏木精-伊红（HE）染色，切片置于40 倍物镜下拍照，随机选5个视野，统计每个视野中的纤维数，求平均值后计算 $1 \\ \\mathrm { m m } ^ { 2 }$ 的纤维数，肌纤维密度用“根 $/ \\mathrm { m } \\mathrm { m } ^ { 2 ^ { \\bullet } }$ 表示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4.6子代腓肠肌蛋白质沉积量",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从超低温冰箱中取出腓肠肌样品，准确称取 $5 0 \\mathrm { m g }$ 组织放入匀浆管中，加入匀浆珠，按照试剂盒说明书加入裂解液，在匀浆仪中匀浆4次。将腓肠肌匀浆液平均分成2份，一份转入离心机中 $4 { \\overset { \\circ } { \\subset } } 1 2 0 0 0 { \\mathrm { ~ r / m i n ~ } } 1 0 { \\mathrm { ~ m i n } }$ 进行离心，取上清液测定蛋白质浓度，测定试剂盒购自南京建成生物工程研究所；另一份用DNA 抽提试剂盒（Magen 公司，美国）进行 DNA抽提，然后用蛋白质质量/DNA质量来表示腓肠肌总蛋白质的沉积量。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.5 数据统计与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "试验数据利用 SPSS17.0软件中的单因素方差分析（one-wayANOVA）程序进行方差分析，采用LSD法进行多重比较，结果以“平均值 $\\pm$ 标准误”表示， $P { < } 0 . 0 5$ 表示差异显著。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1饲粮中添加CDCA对种鸡生产性能的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 饲粮中添加CDCA对种鸡体重及产蛋率的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如表2所示，饲粮中添加不同水平的CDCA对种鸡的体重和产蛋率均无显著影响（ $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2饲粮中添加CDCA对种鸡体重和产蛋率的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/2cd73d04734420d9f96388fc836ef4379a2ce1fb185070307b9bc4f427d5940a.jpg",
+        "table_caption": [
+            "Table 2Effects of dietary CDCA on body weight and laying rate of breeding hens "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>对照组</td><td>I组</td><td>Ⅱ组</td><td>Ⅲ组</td><td>IV组</td></tr><tr><td>项目Items</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Control group</td><td>GroupI</td><td>Group II</td><td>Group III</td><td>Group IV</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f47839d52a6ae1d2cdbc7035e4d553a907f5f4851788bd2e0b78ca2276c97f23.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>初始体重 Initial weight/kg</td><td>0.85±0.02</td><td>0.85±0.02</td><td>0.85±0.02</td><td>0.85±0.02</td><td>0.85±0.02</td></tr><tr><td>终末体重 Terminal weight/kg</td><td>0.84±0.02</td><td>0.79±0.01</td><td>0.81±0.02</td><td>0.82±0.02</td><td>0.83±0.02</td></tr><tr><td>产蛋率Laying rate/%</td><td>56.17±2.11</td><td>55.33±5.06</td><td>55.03±1.26</td><td>45.86±4.41</td><td>50.17±4.19</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "同行数据肩标相同字母或无字母表示差异不显著（ $P { > } 0 . 0 5$ ），不同小写字母表示差异显著（ $_ { \\cdot } P { < } 0 . 0 5$ ）。下表同。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the same row,values with the same letter superscripts or no letter mean no significant difference $( P { > } 0 . 0 5 )$ _ while with different letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ .The same as below. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1.2饲粮中添加CDCA对种鸡蛋品质的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "如表3所示，饲粮中添加不同水平的CDCA对种鸡的蛋品质无显著影响（ $P { > } 0 . 0 5 )$ 0",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表3饲粮中添加CDCA对种鸡蛋品质的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/f8b995e0a7584328120dc82b2fcd25b4b1320ec8100a1175d54067b2a3a5b804.jpg",
+        "table_caption": [
+            "Table 3Effects of dietary CDCA on egg quality of breeding hens "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>对照组</td><td>I组</td><td>Ⅱ组</td><td>Ⅲ组</td><td>IV组</td></tr><tr><td></td><td>Control group</td><td>Group I</td><td>Group II</td><td>Group III</td><td>Group IV</td></tr><tr><td>蛋壳强度 Eggshell hardness/(kgf / cm²)</td><td>3.42±0.30</td><td>3.06±0.16</td><td>3.54±0.20</td><td>3.35±0.61</td><td>2.98±0.38</td></tr><tr><td>浓蛋白高度 Albumen height/mm</td><td>4.03±0.58</td><td>3.74±0.47</td><td>3.76±0.45</td><td>3.24±0.33</td><td>2.94±0.15</td></tr><tr><td>蛋黄颜色Yolkcolor</td><td>7.16±0.60</td><td>6.74±0.35</td><td>7.58±0.17</td><td>7.04±0.73</td><td>8.12±0.34</td></tr><tr><td>哈氏单位Hanghunit</td><td>74.24±5.22</td><td>70.96±3.07</td><td>70.56±4.01</td><td>68.00±2.76</td><td>63.92±1.57</td></tr><tr><td>蛋黄相对重 Yolk weight percent/%</td><td>33.62±0.53</td><td>32.29±1.17</td><td>33.62±0.42</td><td>31.46±1.32</td><td>33.72±0.75</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2饲粮中添加CDCA对种鸡血清脂代谢指标的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "如表4所示，饲粮中添加 $1 0 0 \\mathrm { m g / k g }$ 的CDCA能够显著增加种鸡血清中TG含量( $( P { < } 0 . 0 5 )$ 添加10和 $1 0 0 \\mathrm { m g / k g }$ 的CDCA 能够显著降低血清中VLDL含量（ $P { < } 0 . 0 5 )$ ；饲粮中添加不同水平CDCA 对血清中 TBA、TC、HDL-C 和LDL-C 含量均无显著影响（ $. P { > } 0 . 0 5 )$ ）°",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表4饲粮中添加CDCA对种鸡血清脂代谢指标的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Table 4Effects of dietary CDCA on serum parameters of lipid metabolism of breeding hens ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/dcdd65db6ecbe3e323dbfde160ae3fcafdc1775bfb6df497cf7ff5dc8e0010fc.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">对照组 项目Items</td><td>I组</td><td>Ⅱ组</td><td>IⅢ组</td><td>IV组</td></tr><tr><td></td><td>Control group</td><td>GroupI</td><td>Group II</td><td>Group III</td><td>Group IV</td></tr><tr><td>总胆汁酸 TBA/（μmol/L)</td><td>28.78±2.28</td><td>23.59±3.5</td><td>28.81±2.02</td><td>22.56±1.26</td><td>29.82±3.11</td></tr><tr><td>总胆固醇 TC/（mmol/L)</td><td>1.95±0.13</td><td>2.18±0.22</td><td>1.92±0.07</td><td>2.25±0.84</td><td>2.23±0.58</td></tr><tr><td>甘油三酯 TG/（mmol/L)</td><td>7.79±1.27b</td><td>6.97±0.91b</td><td>6.47±0.28b</td><td>14.28±4.49a</td><td>7.19±1.51b</td></tr><tr><td>高密度脂蛋白胆固醇</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>HDL-C/ (mmol/L)</td><td>0.47±0.03</td><td>0.39±0.08</td><td>0.47±0.06</td><td>0.53±0.07</td><td>0.54±0.09</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>低密度脂蛋白胆固醇</td><td>1.03±0.08</td><td>1.10±0.10</td><td>0.99±0.08</td><td>0.92±0.15</td><td>1.25±0.19</td></tr><tr><td>LDL-C/(mmol/L)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>极低密度脂蛋白VLDL/</td><td>257.89±27.53ab</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>184.82±7.79c</td><td>207.36±4.58bc</td><td>184.46±9.75c</td><td>269.04±24.55a</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>（μmol/L)</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3饲粮中添加CDCA对种鸡蛋内 TBA、TC、TG 和LDL-C 含量的影响",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "如表5所示，与对照组相比，添加50和 $1 0 0 \\mathrm { m g / k g }$ 的 CDCA能够显著降低试验第14天种鸡蛋内 TBA含量（ $_ { . P < 0 . 0 5 ) }$ ；添加10和 $5 0 \\mathrm { m g / k g }$ 的 CDCA 能够显著降低第 23天蛋内TBA含量 $( P { < } 0 . 0 5 )$ ；添加 $1 0 0 \\mathrm { m g / k g }$ 的CDCA能够显著降低第28天蛋内TBA含量( $( P { < } 0 . 0 5 )$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表5饲粮中添加CDCA对种鸡蛋内 TBA含量的影响",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/3c85b3e7467645e9a7ceea6defedc2d878cd003072c318f839129a772d69304f.jpg",
+        "table_caption": [
+            "Table 5Effects of dietary CDCA on TBA content in eggs of breeding hens μmol/L "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>时间</td><td>对照组</td><td>I组</td><td>Ⅱ组</td><td>Ⅲ组</td><td>IV组</td></tr><tr><td>Time/d</td><td>Control group</td><td>GroupI</td><td>Group II</td><td>Group III</td><td>Group IV</td></tr><tr><td>第7天The7th day</td><td>941.87±39.92ab</td><td>813.68±54.96b</td><td>912.63±18.83ab</td><td>826.92±26.53b</td><td>1053.42±87.55a</td></tr><tr><td>第14天 The 14th day</td><td>930.18±35.74a</td><td>841.58±21.77ab</td><td>771.84±52.37b</td><td>767.37±59.50b</td><td>902.11±34.97a</td></tr><tr><td>第 23天 The 23th day</td><td>905.61±70.70a</td><td>752.82±43.72b</td><td>747.22±36.95b</td><td>900.49±42.89a</td><td>916.58±55.41a</td></tr><tr><td>第28天 The 28th day</td><td>1058.95±46.79a</td><td>927.67±43.39a</td><td>1031.43±113.09a</td><td>666.32±64.77b</td><td>955.91±49.98a</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "如表6所示，与对照组相比，饲粮中添加 $1 0 0 ~ \\mathrm { m g / k g }$ 的 CDCA 能够显著增加种鸡蛋内TC 和LDL-C含量（ $. P { < } 0 . 0 5 )$ ，而对蛋内TG含量无显著影响（ $. P { > } 0 . 0 5 \\$ ）°",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表6饲粮中添加CDCA对种鸡蛋内TC、TG 和LDL-C含量的影响",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "151 ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/624b702c1af6ebda161c15df5520007f61e8353c3a83ec594f53d948c075efab.jpg",
+        "table_caption": [
+            "Table 6Effects of dietary CDCA on contents of TC,TG and LDL-C in eggs of breeding hens "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>对照组</td><td>I组</td><td>Ⅱ组</td><td>IⅢ组</td><td>V组</td></tr><tr><td></td><td>Control group</td><td>GroupI</td><td>Group II</td><td>Group III</td><td>Group IV</td></tr><tr><td>总胆固醇TC</td><td>28.42±0.72b</td><td>28.63±1.46b</td><td>30.70±2.01b</td><td>35.42±1.70a</td><td>28.21±1.61b</td></tr><tr><td>低密度脂蛋白胆固醇LDL-C</td><td>13.48±1.16bc</td><td>14.47±1.70ab</td><td>10.36±0.73cd</td><td>17.52±0.89a</td><td>13.02±1.10bcd</td></tr><tr><td>甘油三酯TG</td><td>69.98±2.19</td><td>70.48±3.60</td><td>71.10±2.29</td><td>69.60±1.93</td><td>69.44±0.60</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.4饲粮中添加CDCA对子代生产性能的影响",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "如表7所示，与对照组相比，饲粮中添加100 和 $5 0 0 ~ \\mathrm { m g / k g }$ 的 CDCA 能够显著降低子代母鸡的平均日增重（ $_ { . } P { < } 0 . 0 5 )$ 。饲粮中添加不同水平的CDCA对子代公鸡和母鸡的12周龄体重和料重比均无显著影响（ $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表7饲粮中添加CDCA对子代生产性能的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/ec29108ecb5cc41b78e3ae60bb4da02859534d29375f220d8ff56feff9c139f7.jpg",
+        "table_caption": [
+            "mmol/L ",
+            "Table 7Effects of dietary CDCA on performance of offspring ",
+            "Table 8Effects of dietary CDCA on dressing percentage of offspring "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td>对照组</td><td>I组</td><td>Ⅱ组</td><td>Ⅲ组</td><td>IV组</td></tr><tr><td>Control group</td><td>Group I</td><td>Group II</td><td>Group III</td><td>Group IV</td></tr><tr><td>12 周龄体重 Weight at 12 weeks of age/g</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>公Male</td><td>848.20±20.88</td><td>830.00±23.19</td><td>827.87±34.37</td><td>832.17±26.73</td><td>779.29±9.13</td></tr><tr><td>母 Female</td><td>773.17±10.85</td><td>704.67±28.60</td><td>765.56±22.47</td><td>652.83±30.34</td><td>710.89±20.16</td></tr><tr><td>平均日增重 ADG/g</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>公Male</td><td>18.01±0.33ab</td><td>17.85±0.43ab</td><td>17.48±0.69ab</td><td>18.71±0.88a</td><td>16.75±0.42b</td></tr><tr><td>母Female</td><td>15.73±0.55a</td><td>14.14±0.66ab</td><td>15.13±0.76ab</td><td>13.49±0.88b</td><td>13.60±0.47b</td></tr><tr><td>料重比（4~12 周龄）F/G</td><td>(4 to 12 weeks of age)</td><td></td><td></td><td></td><td></td></tr><tr><td>公Male</td><td>3.24±0.08</td><td>3.35±0.09</td><td>3.43±0.19</td><td>3.21±0.06</td><td>3.40±0.10</td></tr><tr><td>母 Female</td><td>5.42±1.01</td><td>3.49±0.18</td><td>3.73±0.33</td><td>3.99±0.19</td><td>4.09±0.24</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "如表8所示，与对照组相比，饲粮中添加 $5 0 \\mathrm { m g / k g }$ 的 CDCA能够显著增加子代公鸡肝脏率（ $_ { P < 0 . 0 5 ) }$ 。饲粮中添加不同水平的CDCA对子代公鸡的胸肌率、腿肌率，子代母鸡肝脏率、胸肌率和腿肌率均无显著影响（ $. P { > } 0 . 0 5 )$ L。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表8饲粮中添加CDCA对子代胴体率的影响 %",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对照组 I组 I组 Ⅲ组 IV组项目Items Control group Group I Group II Group III Group IV",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "肝脏率Liver percentage ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/246593ece7b49fe0b2d8e0d2f496cfc59928fd96bc30a5f73d78d2f8adeab1c1.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>公Male 母Female</td><td>2.32±0.09bc</td><td>2.29±0.04c</td><td>2.61±0.09a</td><td>2.56±0.08ab</td><td>2.49±0.10abc</td></tr><tr><td></td><td>2.46±0.09</td><td>2.60±0.07</td><td>2.37±0.06</td><td>2.45±0.09</td><td>2.57±0.09</td></tr><tr><td>胸肌率 Breast muscle percentage</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>公Male</td><td>8.25±0.18</td><td>8.16±0.23</td><td>8.75±0.23</td><td>8.42±0.38</td><td>8.37±0.11</td></tr><tr><td>母 Female</td><td>9.32±0.24</td><td>8.74±0.36</td><td>8.96±0.25</td><td>9.32±0.15</td><td>8.62±0.25</td></tr><tr><td colspan=\"4\">腿肌率 Thigh muscle percentage</td><td></td><td></td></tr><tr><td>公Male</td><td>2.28±0.08</td><td>2.42±0.09</td><td>2.47±0.05</td><td>2.40±0.08</td><td>2.34±0.04</td></tr><tr><td>母Female</td><td>2.20±0.05</td><td>2.28±0.06</td><td>2.32±0.08</td><td>2.16±0.04</td><td>2.15±0.06</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.5饲粮中添加CDCA对子代肌肉发育及代谢的影响 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.5.1 饲粮中添加CDCA对子代腓肠肌总蛋白质沉积量的影响",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "如表9所示，与对照组相比，饲粮中添加10 和 $1 0 0 \\mathrm { m g / k g }$ 的 CDCA能显著降低子代公鸡腓肠肌总蛋白沉积量（ $_ { ( P < 0 . 0 5 ) }$ ，而对子代母鸡无显著影响（ $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表9饲粮中添加CDCA对子代腓肠肌总蛋白质沉积量的影响",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Table 9Effects of dietary CDCA on total protein deposition of gastrocnemius of offspring μg prot/μg DNA ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/3ff94c281590c915f081843a528b9d60bcff340821256912fb6975ae404b7576.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td>对照组</td><td>I组</td><td>Ⅱ组</td><td>Ⅲ组</td><td>IV组</td></tr><tr><td>Control group</td><td>Group 1</td><td>Group II</td><td>Group III</td><td>Group IV</td></tr><tr><td>公Male</td><td>200.41±13.15a</td><td>146.61±14.22b</td><td>170.26±8.88ab</td><td>161.77±12.76b</td><td>167.64±10.34ab</td></tr><tr><td>母Female</td><td>202.36±13.49</td><td>243.57±10.34</td><td>250.34±10.34</td><td>253.81±10.34</td><td>242.73±10.34</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.5.2 饲粮中添加CDCA对子代腓肠肌肌纤维密度的影响",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "如表10所示，与对照组相比，饲粮中添加 $5 0 \\ \\mathrm { m g / k g }$ 的CDCA 能够显著增加子代腓肠肌肌纤维密度（ $_ { . } { \\cal P } { < } 0 . 0 5 )$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表10饲粮中添加CDCA对子代腓肠肌肌纤维密度的影响",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Table 10Effects of dietary CDCA on fiber density of gastrocnemius of offspring 根 $/ \\mathrm { m } \\mathrm { m } ^ { 2 }$ （204号 项目 对照组 I组 Ⅱ组 IⅢ组 IV组 ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/f8cf12d0db1ea524479d90598743ecb65ec1869027e8d4052f6b16c684d2444c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Items</td><td>Control group</td><td>Group 1</td><td>Group II</td><td>Group III</td><td>Group IV</td></tr><tr><td>公Male</td><td>233.51±13.58b</td><td>229.35±12.62b</td><td>269.52±3.18a</td><td>217.87±2.76b</td><td>236.37±8.38ab</td></tr><tr><td>母Female</td><td>264.13±28.35b</td><td>293.88±23.69ab</td><td>335.68±12.91a</td><td>269.58±15.79b</td><td>299.06±12.81ab</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/225a62e8772f89b0dec90e3c7d47fbf8a90e10d371f903bf592d8fe72e9895ab.jpg",
+        "img_caption": [
+            "图1子代腓肠肌切片",
+            "Fig.1The section of gastrocnemius of offspring "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.5.3饲粮中添加CDCA对子代腓肠肌代谢酶活性的影响",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "如表11所示，与对照组相比，饲粮中添加CDCA 对子代公鸡腓肠肌 SDH活性无显著影响 $( P { > } 0 . 0 5 )$ ，添加 $5 0 0 \\mathrm { m g / k g }$ 的CDCA 能显著降低子代母鸡腓肠肌 SDH活性（ $( P { < } 0 . 0 5 )$ ：饲粮中添加 $5 0 0 ~ \\mathrm { m g / k g }$ 的 CDCA 能显著降低子代公鸡腓肠肌LDH活性（ $P { < } 0 . 0 5 )$ ，而添加50和 $1 0 0 \\mathrm { m g / k g }$ 的CDCA 能够显著降低子代母鸡腓肠肌LDH的活性（ $P { < } 0 . 0 5 )$ ）",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "表11饲粮中添加CDCA对子代腓肠肌LDH和 SDH 活性的影响",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/a8c42adddb5899a4fd4083af9bc0ff704435aaea98c0c85b0b41d9db7cf1687c.jpg",
+        "table_caption": [
+            "Table 11Effects of dietary CDCA on activities of lactate dehydrogenase and succinic dehydrogenase of gastrocnemius of offspring U/mg prot "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>对照组</td><td>I组</td><td>Ⅱ组</td><td>Ⅲ组</td><td>IV组</td></tr><tr><td></td><td>Control group</td><td>Group I</td><td>Group II</td><td>Group III</td><td>Group IV</td></tr><tr><td>乳酸脱氢酶 LDH</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>公Male 母Female</td><td>1480.99±156.82a</td><td>1301.16±36.26a</td><td>1310.39±53.11a</td><td>1394.73±126.29a</td><td>1132.67±65.27b</td></tr><tr><td>琥珀酸脱氢酶 SDH</td><td>1009.97±38.66a</td><td>987.22±49.61ab</td><td>840.43±54.09d</td><td>851.15±10.63cd</td><td>972.40±49.01abc</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>公Male</td><td>38.22±2.91ab</td><td>41.77±1.63ab</td><td>36.53±3.29b</td><td>43.12±0.51ab</td><td>45.56±3.81a</td></tr><tr><td>母Female</td><td>72.81±6.71a</td><td>71.45±2.08a</td><td>67.43±6.21ab</td><td>59.16±4.40ab</td><td>53.17±3.43b</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.1饲粮中添加CDCA 对母体脂代谢及蛋内 TBA、TC、TG 和LDL-C 沉积的影响胆汁酸是由肝细胞以胆固醇为原料合成的，因此动物体内胆汁酸含量与机体的脂代谢具有十分密切的关系。而对于禽类来说，机体脂代谢又会直接影响到蛋内脂质的沉积。仇雪梅[7]研究结果证明，血浆 TG 含量高的蛋鸡脂肪合成能力强，蛋中 TC 含量高，因此母鸡血浆TG 含量可作为蛋中TC 含量的间接选择指标。牛树鹏等研究表明，与正常组相比，产蛋中期肉种鸡饲喂高能饲粮能够显著增加胚蛋中卵黄的TC 含量。本研究结果发现，饲粮中添加 $1 0 0 \\mathrm { m g / k g }$ 的 CDCA 能够显著增加种鸡血清中 TG 含量，显著降低血清中VLDL 含量;同时，饲粮中添加 $1 0 0 \\mathrm { m g / k g }$ 的 CDCA 能够显著增加种鸡蛋内 TC 和LDL-C 含量。本研究中种鸡血清 TG 含量和蛋内 TC 含量的变化规律与上述报道相符。  \nVLDL是肝脏TG和TC转运到外周组织的主要载体。研究表明,产蛋鸡体内有2种 VLDL，普通 VLDL 和极低密度脂蛋白Y（VLDLy），卵黄中 $9 5 \\%$ 的 TC 来源于 VLDLy[9]。在雌激素的作用下，VLDL 转变为VLDLy，VLDLy 能够特定的从肝脏定向转移至卵母细胞并沉积到卵黄[10]。本研究结果发现，蛋内 TC 含量显著升高的同时，母鸡血清中 VLDL 含量显著降低，推测可能是VLDL大量转化为VLDLy，进而促进蛋内TC 的沉积。  \n胆汁酸具有促进脂类消化吸收、增加肝胆汁分泌的功能，但其在禽类蛋内的沉积情况及影响因素还未见报道。本研究结果发现，种鸡蛋内有大量胆汁酸沉积，且饲粮中添加 100mg/kg 的CDCA 能够显著降低试验第 14 天种鸡蛋内 TBA 含量。在哺乳动物的研究表明，高脂饮食添加 $0 . 2 5 \\%$ 胆酸饲喂C57BL/6小鼠4 周，血清中TBA含量较高脂组升高[1; Zhang等[12]在C57BL/6 小鼠的研究发现，与对照组相比，饲粮中添加去氧胆酸会抑制肝脏胆固醇-7-羟化酶1（CYP7A1）的表达，从而抑制胆汁酸的合成。以上结果表明，饲粮中添加胆汁酸会抑制小鼠体内胆汁酸的合成。由此推测，饲粮中添加CDCA 也抑制了种鸡体内胆汁酸的合成，进而影响了胆汁酸在蛋内的沉积。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2饲粮中添加CDCA对子代生产性能及肌肉发育的影响",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "种禽胚胎正常生长发育的前提是种蛋中的营养物质，这种营养供应源于种鸡饲粮营养物质及自身新陈代谢，同时取决于营养物质在种蛋内的沉积效率。CDCA是胆汁酸中最主要的成分，本实验室前期研究结果表明，胚蛋注射高剂量的CDCA 能够显著增加42日龄肉鸡腿肌肌纤维直径，促进肌纤维生长发育，因此胚蛋内胆汁酸含量对后代生长有调控作用[13]。本试验研究表明，饲粮中添加 $1 0 0 \\mathrm { m g / k g }$ 的CDCA 能够显著降低试验第14天种鸡蛋内TBA含量。对子代生产性能和肌肉发育情况的研究结果也发现，饲粮中添加 $5 0 \\ \\mathrm { m g / k g }$ 的CDCA能够显著增加子代腓肠肌纤维密度；对于子代母鸡，饲粮中添加100 和 $5 0 0 \\mathrm { m g / k g }$ 的CDCA能显著降低平均日增重；对于子代公鸡，饲粮中添加10 和 $1 0 0 \\mathrm { m g / k g }$ 的 CDCA 能显著降低腓肠肌总蛋白沉积量。上述结果再一次证实蛋内一定的胆汁酸含量能够促进子代肌肉的发育，当胆汁酸含量降低时子代肌肉发育将受到影响。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "肌肉的生长依赖于对肌细胞内能量物质的分解代谢，LDH 的活性反映细胞内糖类无氧酵解的活跃程度，标志着肌纤维中糖原无氧酵解的能力。SDH是位于线粒体内三羧酸循环中的重要代谢酶，它的活性标志着细胞内生成三磷酸腺苷（ATP）的能力，反映肌纤维中糖原的氧化能力[14]。本研究结果发现，饲粮中添加50 和 $1 0 0 \\mathrm { m g / k g }$ 的CDCA会显著降低子代母鸡腓肠肌中LDH 活性，添加 $5 0 0 \\ \\mathrm { m g / k g }$ 的 CDCA 能够显著降低子代母鸡腓肠肌 SDH活性和子代公鸡腓肠肌LDH活性。由此推测饲粮中添加CDCA 限制了子代肌肉的生长，可能与肌肉内糖原的分解被抑制有关。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "综上所述，种鸡饲粮中添加不同剂量的CDCA会不同程度的抑制子代骨骼肌中的糖的代谢，进而影响骨骼肌的生长。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "综上所述，饲粮中添加不同水平CDCA对种鸡的生产性能无显著影响，但会影响种鸡的体脂代谢，以及蛋内沉积特别是胆汁酸的沉积，进而对子代肌肉发育产生抑制作用。因此，胆汁酸在种鸡饲粮中的应用应注意添加水平和时间。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[1]张伟,杨庆琳.母禽饲料营养与家禽孵化效果[J].国外畜牧学:猪与禽,2008,28(2):65-68.[2]单安山,李锋.鸡母体营养对子代生长发育和肉质的影响[J].东北农业大学学报,2012,43(3):1-14.  \n[3]徐良梅,张慧,路磊,等.肉种鸡日粮能量水平对子代肉仔鸡脂肪沉积及其相关血液指标的影响[J].东北农业大学学报,2013,44(3):52-57.[4] 闫俊书,单安山,时本利,等.母代鸡日粮不同蛋白水平对后代肌纤维发育及肌肉生成抑制因子基因(MSTN) mRNA 表达的影响[J].畜牧兽医学报,2009,40(9):1341-1349.  \n[5]武中会.胆汁酸复合乳化剂对肉鸡生产性能的影响[J].当代畜牧,2008(6):24-26.  \n[6]刘敬盛,杨玉芝,王君荣,等.胆汁酸对\"817\"肉杂鸡营养物质利用率的影响[J].中国饲料,2010(14):20-22.  \n[7]仇雪梅.蛋鸡血浆甘油三酯与蛋黄性状关系的研究[J].中国畜牧杂志,2002.38(3):7-9.[8] 牛树鹏,徐良梅,张慧,等.肉种鸡产蛋中期饲粮不同能量水平对胚胎期蛋黄及血清脂类代谢相关指标的影响[J].动物营养学报,2013,25(1):50-58.  \n[9]张金伟.AMPK 活性变化对产蛋鸡肝细胞胆固醇合成的影响研究[D].硕士学位论文．雅安:四川农业大学,2005.  \n[10]高天权,张克英.产蛋鸡极低密度脂蛋白组装的调控因素[J]).中国畜牧兽医,2008,35(5):13-16.  \n[11]马慧娟,刘晶,张柳,等.胆汁酸对高脂诱导肥胖小鼠的血糖和体重的影响及安全性分析[J].解放军医药杂志,2015,27(10):25-28.  \n[12]ZHANG Y C,KLAASSEN C D.Effects of feeding bile acids and a bile acid sequestrant onhepatic bile acid composition in mice[J].Journal of Lipid Research,2010,51(11):3230-3242.[13]曾庆节,王丽娜,束刚,等.FXR与Decorin 对禽类成肌细胞增殖的影响及其机制[J].畜牧与兽医,2012(S1):189-190.  \n[14]邢鹏.母体营养限饲对后代育肥猪肌纤维特性的影响[D].硕士学位论文.南京:南京农业大学,2009.  \nEffects of Dietary Chenodeoxycholic Acid on Lipid Metabolism and Performance of BreedingHens and Muscle Development of Their Ofspring  \nZUO XudongWANG Zhenlu CI XiaotongZHU XiaotongSHU GangWANG SongboJIANG QingyanWANG Li'na\\*  \n(College of Animal Science, South China Agricultural University, Guangzhou 510642, China)Abstract: This experiment was conducted to investigate the effects of dietary chenodexycholic",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "acids (CDCA) on lipid metabolism and performance of breeding hens and muscle development of their offspring. Eighty 14-weeks-old dwarf yellow breeding hens were randomly divided into 5 groups with 16 replicates per group and 1 bird per replicate. Breeding hens in the control group were fed a basal diet, and the others in experimental groups were fed the diets supplemented with 10, 50,100 and $5 0 0 ~ \\mathrm { m g / k g }$ CDCA for 4 weeks, respectively. Fertilized eggs were collected and hatch in the last week,and the offspring after hatching were divided into 5 groups just as the breeding hens. Feeding trial lasted for 12 weeks. The results showed as follows: 1) dietary CDCA had no significant effects on body weight, laying rate and egg qualities of breeding hens $( P { > } 0 . 0 5 )$ ： Compared with the control group, supplement of $1 0 0 ~ \\mathrm { { m g / k g } }$ CDCA significantly increased the serum triglyceride (TG) content of breeding hens $( P { < } 0 . 0 5 )$ , and significantly decreased the serum very low density lipoprotein （VLDL）content $( P { < } 0 . 0 5 )$ . Compared with the control group, supplement of $1 0 0 ~ \\mathrm { { m g / k g } }$ CDCA significantly decreased the total bile acid (TBA) content in ovo of breeding hens at 14 and 18 days $( P { < } 0 . 0 5 )$ ，and significantly increased the contents of total cholesterol (TC) and low density lipoprotein cholesterol (LDL-C) in ovo $( P { < } 0 . 0 5 )$ ). 2) Compared with the control group, supplement of $5 0 ~ \\mathrm { m g / k g }$ CDCA significantly increased fiber density of gastrocnemius of offspring and liver percentage of male offspring $( P { < } 0 . 0 5 )$ . Compared with the control group, supplement of $1 0 0 ~ \\mathrm { { m g / k g } }$ CDCA significantly decreased the average daily gain of female offspring, total protein deposition of gastrocnemius of male offspring and the activity of lactate dehydrogenase (LDH) of gastrocnemius of female offspring $( P { < } 0 . 0 5 )$ . Compared with the control group, supplement of $5 0 0 ~ \\mathrm { m g / k g }$ CDCA significantly decreased the activity of succinate dehydrogenase (SDH) of gastrocnemius of female offspring and the activity of LDH of gastrocnemius of male offspring $( P { < } 0 . 0 5 )$ . In conclusion, dietary CDCA has no significant effect on performance of breeding hens, but has significant effects on lipid metabolism and deposition in vov especially TBA deposition， and then suppress the muscle development of their offspring. Therefore,the dosage and the time of CDCA in the diet of breeding hens should be noticed. Key words: chenodexycholic acids; breeding hens; performance; muscle development of offspring ",
+        "page_idx": 14
+    }
+]

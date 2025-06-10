@@ -1,0 +1,562 @@
+[
+    {
+        "type": "text",
+        "text": "RESEARCHREVIEW ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Polycyclic aromatic hydrocarbons and volatile organic compounds in biochar and biochar-amended soil: areview ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TANUSHREE DUTTA1,EILHANN KWON²,SATYA SUNDAR BHATTACHARYA³, BYONG HUN JEON4,AKASH DEEP5,6,MINORI UCHIMIYA and KI-HYUN KIM1 1Departmentof Civiland Enuironmental Engineering,Hanyang University,222 Wangsimni-Ro,Seoul O4763,Korea, 2Departmentofnironmentand Energy,SejongUniersityeoulOo6,Korea,DepartmentofEnronmental Sience Tezpur UniersityAssam848,ndia,4epartmentofaturalResourcesndEnironmental Eninering,Hng Universityoul6,oreaentralietificsumentsgasati(-O)ctor3dga, India,AcademyofSientificandInoativeResearch,C-CO,Sctor30C,Chandigarh6o3,India,u-A SouthernRegional Research Center,11OO Robert E.LeeBlud.,New OrleansLA 70124,USA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Residual polutants including polycyclic aromatic hydrocarbons (PAHs),volatile organic compounds (VOCs), and carbon (aceous) nanoparticles are inevitably generated during the pyrolysis of waste biomass and remain on the solid coproduct called biochar. Such pollutants could have adverse efects on the plant growth as well as microbial community in soil. Although biochar has been proposed as a 'carbon negative strategy' to mitigate the greenhouse gas emisions,the impacts of its application with respect to long-term persistence and bioavailability of hazardous components are not clear.Moreover,the co-occurrence of low molecular weight VOCs with PAHs in biochar may exert further phytotoxic efects.This review describes the basic need to unravel key mechanisms driving the storage vs.emisson of these organics and the dynamics between the sorbent (biochar) and soil microbes.Moreover,there is an urgent need for standardized methods for quantitative analysis of PAHs and VOCs in biochar under environmentally relevant conditions.This review is also extended to cover current research gaps including the influence of biochar application on the short- and long-term fate of PAHs and VOCs and the proper control tactics for biochar quality and associated risk. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:biochar,environmental pollutants,PAHs,soil,sorption capacity,VOs ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received 26 January 2016 andaccepted22March2016 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Environmental pollutants such as polycyclic aromatic hydrocarbons (PAHs) and volatile organic compounds (VOCs) have a detrimental effect on soil quality and plant growth. PAHs are carcinogenic and persistent pollutants that are ubiquitously distributed in the environment and are some of the most difficult organic contaminants to treat (Edwards,1983;Cerniglia,1992). The VOCs，especially ethylene，may trigger various plant and microbial responses known as ‘soil volatilomics' by mimicking plant hormones and through additional mechanisms (Insam & Seewald,201O).The ppm-level VOCs can regulate the seed germination rates,herbivore resistance,weed response,and nutrient uptake(Simms & Rausher,1987;Ryu et al.,2003;Klinke et al.，2004;Kloepper et al.，2004;Baldwin et al.，2006; Zhang et al.，2007;Almeida et al.，2009;Graber et al., 2010).The co-occurrence of low molecular weight (LMW) VOCs with PAHs in biochar may further amplify the phytotoxic effects relative to the PAHs alone (Gell et al.,2011). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The primary source of PAHs,VOCs,and black carbon pollutants in the environment is the incomplete combustion of fossil fuels (Khalili et al.，1995; Simoneit, 2002；Lemieux et al.，20o4).Unburned hydrocarbons (UHCs that include PAHs and VOCs） are generated during the combustion of solid-phase fossil fuels such as coal; mass transport limitation between the oxidant and the solid fossil fuels provides favorable conditions for the volatilization and the gas-phase addition reactions (Kwon & Castaldi, 2oo8). These reactions are controlled by the particle size of the solid-phase fossil fuels (Kwon & Castaldi, 20o9). Compared to the solidphase fossil fuels, the generation of UHCs in lignocellulosic biomass is expedited because of the high volatile matter contents (Kwon et al.,2013). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The pyrolysis of biomass (i.e.， thermal degradation under oxygen-limiting conditions） gives rise to three different product fractions:pyrolytic oil，syngas，and biochar. The solid residue (biochar） produced from pyrolysis of biomass is a porous carbon-rich material intended for environmental,agricultural,and industrial applications (Masiello,2oo4).The gaseous fraction is a mixture of noncondensable gases (including $\\mathrm { H } _ { 2 }$ and CO),and the liquid (bio-oil) fraction is a complex mixture of organic compounds.In particular，PAHs and VOCs formed by thermal cracking of the biomass (Demirbas,2000;Zeng et al.，2011） tend to concentrate in the bio-oil fraction of the pyrolysis products $\\mathrm { \\Delta \\ x _ { u } }$ et al.，2Oo7）as a result of dehydrogenation and gasphase addition reactions (Kwon et al.,2013).These compounds become trapped inside the pores of biochar or deposited onto biochar during the cooling process (Buss et al., 2015). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Biochar can act as a carbon sink by remaining in the soil for more than 100 years (Lehmann,2007).Consequently,biochar has attracted attention as a possible strategy to withdraw $\\mathrm { C O } _ { 2 }$ from the atmosphere (Sohi et al.2010;Manya,2012).Furthermore,its application to soil can also have the beneficial effects of improving crop yield and reducing the loss of soil nutrients through leaching (Jeffery et al.,201O; Singh et al.,2010). However，VOCs released from biochar are known to possess stimulatory or inhibitory effects on plant productivity (Deenik et al.，2010) and microbial processes (Graber et al.,201O; Khodadad et al.,2011).For example, Spokas (201O) reported the production of ethylene at varying rates from different biochars that might be involved in plant and soil microbial responses to biochar additions and may also act as a nitrification inhibitor (McCarty & Bremner,1991).Furthermore,humans can be exposed to biochar-associated PAHs either directly through inhalation of particles or indirectly through the ingestion of fruits/vegetables grown in biochar-amended soil. Such exposure can pose a significant threat to human health due to the toxic,mutagenic,and carcinogenic effects of PAHs (Chen &Liao,2006).Additionally，both PAHs and VOCs can have bactericidal properties that would adversely affect the structure of soil microbial community (Ward et al.,1997).This could also partly explain the lack of any substantial changes in the soil microbial biomass carbon and activity after biochar amendment (Van Zwieten et al.，2Oo9;Yoo & Kang, 2011). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The overall observed effects of biochar amendment in soil suggest a mixed role of PAHs and VOCs in the plant-soil system.Yet there is a paucity of quantitative data on the sorbed organics due to methodological challenges resulting from overlapping chromatographic peaks and interference from other compounds with similar elution times.The detection of volatile organics is particularly challenging by the strong sorption capacity of biochar，which often has a negative effect on the extraction methods.The extraction efficiency of VOCs from biochar is a function of the compound to be detected and the biochar itself (Raguso & Pellmyr, 1998),leading to unequal extraction efficiencies for various biochars with a range of sorbed organic compounds.Moreover，even biochar produced from the same feedstock under the same pyrolysis conditions yields diverse levels of VOCs (Spokas et al.,2012). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The goal of this review was to summarize studies on the chemical nature of the organic compounds sorbed on biochar surfaces with a particular focus on the methods of detection of the organic compounds,the effects of these compounds on plant growth,microbial biomass and their abundance，microbial responses to biochar application,and the ability of biochar to influence the sorption characteristicsof contaminatedsoil. This review critically analyzes the findings of previous studies characterizing the PAHs and VOCs in biochar samples while delineating the research gaps requiring further investigation. For example,although many studieshave shownthatVOCsremain sorbed onthesurface of biochar (Spokas et al.，2011),there is still a lack of understanding regarding the fate of the sorbed organic compounds after application of the biochar to soil under environmentally relevant conditions.As such, the scope of future research is wide open with respect to the use ofbiocharanditsassociated effects. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MethodsofdetectionofPAHsandVOCsfrom biocharandbiochar-treatedsoil ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Despite above-described impacts of VOCs on soil biota, onlya limited number of studies have examined the diversity of VOCsin biochar. Spokaset al.(2011) studied VOCs in biochar using gas chromatography-mass spectrometry (GC-MS) with headspace desorption at $1 5 0 ~ ^ { \\circ } \\mathrm { C }$ for $1 0 ~ \\mathrm { m i n }$ .They detected 140 compounds (with molecular weights below $\\mathrm { 1 0 0 ~ D a } ,$ ）in over 70biochars produced from different feedstocks and pyrolytic conditions.Clough et al.(201o) also confirmed the presence of VOCs in biochar using solid-phase micro-extraction (SPME) and GC-MS methods.More recently,Buss et al. (2015) used a semiquantitative comparison against the spectra library for the detection of VOCs in biochar. Although headspace instrumentation has been reported asan ideal tool for the determination of sorbed VOCs (Bernardo et al.，2010; Spokas et al.，2011)，current methodologies are not reliable enough for quantitative estimation of VOCs in biochar.Ultrahigh-resolution mass spectrometric techniques，such as Fourier transform ion cyclotron mass spectrometry (FT-ICR MS), have also been adapted for direct molecular characterization of biochar materials (Podgorski et al.,2012).Cole et al. (2012）applied laser desorption ionization (LDI) and negative electrospray ionization $\\left[ \\left( - \\right) \\right.$ ESI] for characterization ofVOCs inbiochar.In thecase ofPAHs in biochar，simple approaches for quantitative extraction, separation,and detection have been presented by Hilber et al. (2012)and Fabbri et al. (2013).However，both groups stressed the necessity for a more standardized protocol for quantitative analysis of PAHs in biochar, which should be a prerequisite for biochar quality control and risk assessment. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sample preparation,extraction,andclean-up ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Biochar samples usually go through several processing steps before the characterization of PAHs.Methods of detection generally commence with drying of the samples at $4 0 ~ ^ { \\circ } \\mathrm { C }$ overnight, followed by grinding and sieving at $0 . 2 5 ~ \\mathrm { m m }$ (Hilber et al., 2012). The sieved samples are generally stored in a dry place at room temperature.Prior to extraction，the sample is thoroughly mixed and an aliquot is used to determine the dry weight of the biochar. Extraction of PAHs is carried out using either a Soxhlet extraction method or an accelerated solvent extraction method.The method of extraction and the choice of solvent are crucial parameters for quantification of carbonized materials because hydrophobic contaminants are tightly bound to the aromatic matrix (Jonker & Koelmans,2002).Both toluene and dichloromethane are common solvents used for extraction of PAHs in biochar (Freddo et al.,2012;Hilber et al.，2012),but the best extraction results have been reported using the Soxhlet extraction method for $3 6 \\mathrm { ~ h ~ }$ with $100 \\%$ toluene as a solvent (Hilber et al., 2012).However, this finding was later contradicted by Cole et al. (2012) and Fabbri et al. (2013),who reported that toluene offered a decent level of efficiency only for the extraction of carbonaceous materials (sp2-hybridized 2D carbons materials)，whereas in the case of LMW PAHs (particularly naphthalene)，a far better extraction efficiency was obtained using acetone/cyclohexane than with $100 \\%$ toluene (Fabbri et al.，2013). Cole et al.(2012) used a mixture of water and methanol to extract hydrophilic polar compounds，particularly those originating from pyrolyzed cellulose or hemicellulose.After extraction，the extracts are concentrated and cleaned by liquid-liquid partitioning over silica gel， for example using dimethylformamide/Milli-Q water $( 9 : 1 , \\mathrm { v / v } )$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For the analysis of VOCs,solvent extraction is less common with the exception of the study by Bernardo et al.(201O) in which extraction with dichloromethane was used for the removal of organics with high-tomedium volatility.In most cases,VOCs are desorbed thermally from the biochar (Spokas et al.，2011） or extractedby microextractionmethods(solvent-free methodology) (Clough et al.,2010). However,optimization of the solid-phase microextraction (SPME） method for analysis of VOCs in a range of matrices by Higashikawa et al. (2013） showed good performance for soils but poor efficiency for biochar. The strong sorption capacity of biochar markedly reduced the efficiency of SPME.As mentioned above,the extraction efficiency of VOCs from biochar is known to be a function of the target compound and the biochar (Raguso & Pellmyr, 1998)and even biochar produced using the same feedstock and pyrolysis procedures possesses diverse level of VOCs (Spokas et al.,2012). Therefore,further refinement of the analytical techniques is essential before accurate quantification can be achieved by headspace technology. In conclusion,purpose-driven VOCs/PAHs detection methods are on demand. For regulatory purpose (for the biochar to meet sub-ppm requirement), rigorous extraction methods are necessary to determine the total PAHs/VOCs content of biochar.Different analytical methods should then be applied to assess the bioavailability and environmental behavior of persistent contaminants under environmentally relevant conditions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Method validation using soil and biochar samples ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Validation is an important step to ensure the reliability of the chosen method for analysis of biochar and soil samples.In fact,to this end,many studies have used a certified soil material with known concentrations of PAHs together with a reference biochar sample. For example,Fabbri et al.(2013) tested the accuracy of a method developed for quantification of PAHs in biochar on a soil matrix.A natural soil containing 15 PAHs with concentrations ranging from 1.14 to $1 2 . 9 ~ \\mathrm { m g ~ k g ^ { - 1 } }$ was used together with an internal reference biochar sample (industrial-scale slow pyrolysis orchard prunings biochar).The reference biochar was homogenized and mixed with an agricultural soil (dried and sieved $2 ~ \\mathrm { m m } ,$ ata $1 . 1 6 \\%$ (w/w) amendment level. This concentration corresponded to an application of $3 6 ~ \\mathrm { t }$ biochar $\\mathbf { h } \\mathbf { a } ^ { - 1 }$ (assuming a soil with $1 . 2 \\ \\mathrm { g \\ c m } ^ { - 3 }$ density and $0 . 3 \\mathrm { ~ m ~ }$ depth)，which is comparable to the range currently used for agricultural application of biochar (20- $6 0 \\mathrm { ~ t ~ h a ~ } ^ { - 1 } ,$ (Baronti et al.,201O).For headspace methods, commonly employed for the identification of VOCs,vial temperature and equilibration time are the most crucial parameters for method development (Friant & Suffet, 1979;Penton,1992).Spokas et al.(2011) conducted preliminary experiments using several biochar samples for optimization of these factors.Based on theresultsof the preliminary experiments,the biochars were thermally heated to $1 5 0 ~ ^ { \\circ } \\mathrm { C }$ for $1 0 ~ \\mathrm { m i n }$ in a sealed headspace vial prior to injection. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SeparationofPAHsandVOCsanddetectionbyGC-MS ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fabbri et al. (2013)and Rombola et al.(2015) employed GC-MS analyses using a 6850 Agilent HP gas chromatograph connected to a 5975 Agilent HP quadrupole mass spectrometer.Separation ofPAHs was achieved by on-column injection of ${ \\ \\stackrel { \\sim 1 } { \\sim } } { \\ \\mu \\mathrm { L } }$ of the extract ina fused silica capillary column (stationary-phase poly $[ 5 \\%$ diphenyl/ $9 5 \\%$ dimethyl]siloxane， $3 0 \\mathrm { ~ m ~ } \\times \\mathrm { ~ 0 . 2 5 ~ m m }$ i.d., $0 . 2 5 ~ \\mathrm { m m }$ film thickness),using helium as a carrier gas at a constant flow of $1 \\ \\mathrm { m L } \\ \\mathrm { m i n } ^ { - 1 }$ (Hilber et al.,2012). Solvent mixtures containing different amounts of analytes and constant amounts of internal standards were used forcalibration. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Headspace analysis of thermally desorbed compounds is the most commonly applied method for detection of VOCs in biochar samples (Bernardo et al., 2010;Clough et al.,2010). Spokas et al. (2012) presented a modified method wherein the headspace sampler was adapted to direct the flow of the effluent from one of the columns to a mass spectrometer (MS) detector and the effluent from the other column was connected directly to a thermal conductivity detector (TCD),which was in series with a flame ionization detector (FID), thus enabling the determination of LM VOCs that would otherwise be lost in the air/water peak of MS. However,the study remained qualitative due to the co occurrence of a large number of peaks leading to overlapping peaks and co-eluting interferences. On the other hand，Buss et al.(2O15) identified a series of organic compounds in the toluene extract of biochar by employing a semiquantitative scan method using Varian 2011 ion trap MS in full-scan mode. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Factors controlling the formation and retention of PAHs and VOCs in soil: sorption vs. degradation ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Soils and sediments are theultimate sink for PAHs and VOCs.In particular，at low contaminant concentrations $( < 1 0 - 6$ solubility),carbonaceous materials,including char charcoal, and coal,are the primary geo-sorbents (Macloed &Semple,20o2).Microbial degradation of organic compounds in soil is strongly influenced by many factors such as $\\mathrm { \\ p H } ,$ soil type,soil aeration,soil nutrient status,water availability,bioavailabilityofPAHs,and the presence ofa microbialcommunitycapableofdegrading PAHs (Cerniglia，1992;Kastner et al.，1998；Breedveld & Sparrevik,2000;Volkering & Breure,2003;Zhang et al.,2006; Ding et al.，2010).Furthermore,apart from the pyrolytic gases，biochar has the ability to absorb volatile compounds present in the environment that could influence the sorption behavior of diverse organic contaminants with structurally similar functional groups (Cheng et al, 2008).Sorption-desorption and degradation are the two mechanisms that dictate the final concentrations of toxic organic compounds in soil. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Role of biochar in sorption and retention of PAHs and VOCs in soil ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Effectoffeedstock,typeofpyrolysis,andpyrolysis temperature ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Among various pyrolytic conditions,the pyrolytic temperature plays a critical role in determining the quantity and type of compounds released from biochar (Cole et al.,2012; Keiluweit et al.,2012). Biochars produced by fast pyrolysis and steam gasification contain greater quantities of PAH than those produced by slow pyrolysis (Cole et al.,2012). This could be because slow pyrolysis provides more chance of PAH loss in gaseous forms to the atmosphere,whereas in fast pyrolysis the PAHs tend to become sorbed on biochar surfaces (Hale et al.，2012). The dominant fractions of PAHs in slow pyrolysis biocharsare producedbetween 350 and $5 5 0 ^ { \\circ } \\mathrm { C }$ (Hale et al.，2012). The temperature (pyrolysis) dependence of solvent-extractable PAH content in biochar wasexperimentally evidencedbyKeiluweit et al.(2012), who reported that the amount of PAHs in biochars produced between 400 and $6 0 0 ~ ^ { \\circ } \\mathrm { C }$ greatly exceeds the quantities in biochars produced from the same feedstocks at higher or lower temperatures.Quilliam et al. (2012) quantified the concentration of 16 priority PAHs in biochar-amended soil (treated for 3 years with two different concentrations ofbiochar made from wood or rice husk) and found that the quantity of PAH is strongly influenced by the chemical composition of the feedstock(Table 1）and the pyrolytic conditions(Figs 1 and 2). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Schimmelpfennig & Glaser (2012) suggested that bio chars generated under different pyrolytic conditions should show distinctive diversity of PAH composition. In particular, the combination of naphthalene/phenanthrene ratio and total PAH content can be used to assess the production procedure used. Among the various methods employed for producing biochars,those produced using a hydrothermal method (i.e.，steam gasification） or a rotary kiln (pyrolysis） procedure were found to contain lower amounts of PAHs than the threshold numbers set for environmental application (Schimmelpfennig & Glaser，2012).Naphthalene was reported to be the most abundant PAH in biochar (Freddo et al.,2012;Hale et al.,2012;Hilber etal.,2012; Fabbri et al.，2013；Rombola et al.，2015)，followed by phenanthrene and fluorene (Rombola et al.,2015). Typically,solvent-extractable PAHs occur within a range of $0 . 7 { - } 1 . 7 \\ \\mathrm { m g \\ k g ^ { - 1 } }$ in biochar from different origins (Hale et al.,2012;Hilber et al.,2012;Rombola et al.,2015).In addition, the duration of pyrolysis and surface area of the biochar have additional impacts on the amount of PAHs in biochar.How all these factors are related to the extent of PAHbioaccumulation as a function of time has not been meaningfully evaluated. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For VOCs,biochars produced by hydrothermal carbonization (HTC) or fast pyrolysis were found to contain the largest number of sorbed volatiles (Spokas et al.,2011).In contrast,gasification, thermal or chemicallyprocessed biochars, that is,chemically/steam-activated carbons,soil kiln mound,and open pit biochars had low-to-nondetectable levels of VOCs.The list of identified compounds and their retention times are providedinTable2. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The slow pyrolysis biochars generally exhibited variable contents of sorbed VOCs.There were no clear dependencies of the composition of sorbed VOCs on the feedstock,except for a study by Rombola et al. (2015) that reported significantly higher con centrations of volatile fatty acids(VFAs) in biochars derived from poultry litter $( 4 { \\stackrel { \\mathrm { 9 } } { \\mathrm { \\scriptsize ~ m g } } } \\mathrm { \\bf g } ^ { - 1 } ) ,$ ）than in those produced from corn stock $( 1 { \\ - } 4 \\ \\mathrm { m g \\ g ^ { - 1 } } ; \\$ . A wide array of VOCs derived from the thermal degradation of polysaccharides,proteins,and lipids (e.g.，VFAs) were detected in poultry litter biochar.Biochars produced at low pyrolysis temperatures $( < 3 5 0 ~ ^ { \\circ } \\mathrm { C } )$ generally consisted of short carbon chain aldehydes，furans，and ketones.In contrast，sorbed aromatic compounds and long carbon chain hydrocarbons were dominant in biochars produced at elevated temperatures $( > 3 5 0 ~ ^ { \\circ } \\mathrm { C } )$ （204 (Fig.1).Moreover， the presence of oxygen during pyrolysis also led to a reduction in sorbed VOCs.As stated earlier，even biochars created under similar pyrolysis conditions and from equivalent feedstock may exhibit chemically diverse types of VOCs (Spokas et al., 2011). ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/eb79bf736fe07cf4547b56976327784d95a26f73e5ebf2507cff3fa61f9d980b.jpg",
+        "table_caption": [
+            "Table1 Efect of feedstock on sorbed polycyclic aromatic hydrocarbons (PAHs)of biochar "
+        ],
+        "table_footnote": [
+            "Values represent the mean of four replicates $\\pm$ SE.BD,below detection limits. BC1,hardwoodsawdust;BC2,woodwaste;BC3,woodwaste;BC4,hardwood;BC5oodchips/manure;C6,macadamiautels BC7,distillers grain; BC8,distillersgrain (Fabbri etal.,2013);BC9,rice husk; BC10,wood(Quilliamet al.,12). "
+        ],
+        "table_body": "<html><body><table><tr><td>Order</td><td>PAH (μg g-1)</td><td>BC1</td><td>BC2</td><td>BC3</td><td>BC4</td><td>BC5</td><td>BC6</td><td>BC7</td><td>BC8</td><td>BC9</td><td>BC10</td></tr><tr><td>1</td><td>Naphthalene</td><td>1.57</td><td>2.39</td><td>0.44</td><td>0.47</td><td>0.93</td><td>2.58</td><td>0.78</td><td>0.49</td><td>27.1</td><td>6.68</td></tr><tr><td>2</td><td>Acenaphtylene</td><td>0.50</td><td>0.04</td><td>0.01</td><td>0.02</td><td>0.12</td><td>0.71</td><td>0.10</td><td>0.05</td><td>5.27</td><td>0.77</td></tr><tr><td>3</td><td>Acenaphthene</td><td>0.62</td><td>0.05</td><td>0.01</td><td>0.07</td><td>0.08</td><td>0.28</td><td>0.24</td><td>0.22</td><td>2.14</td><td>0.21</td></tr><tr><td>4</td><td>Fluorene</td><td>0.25</td><td>0.10</td><td>0.05</td><td>0.08</td><td>0.04</td><td>0.92</td><td>0.59</td><td>0.26</td><td>6.42</td><td>0.24</td></tr><tr><td>5</td><td>Phenenthrene</td><td>0.25</td><td>0.56</td><td>0.31</td><td>0.27</td><td>0.36</td><td>3.88</td><td>0.49</td><td>0.33</td><td>9.92</td><td>0.79</td></tr><tr><td>6</td><td>Anthracene</td><td>0.03</td><td>0.07</td><td>0.03</td><td>0.03</td><td>0.04</td><td>0.65</td><td>0.19</td><td>0.12</td><td>3.24</td><td>0.14</td></tr><tr><td>7</td><td>Fluoranthene</td><td>0.14</td><td>0.11</td><td>0.08</td><td>0.11</td><td>0.05</td><td>2.46</td><td>0.10</td><td>0.09</td><td>3.15</td><td>0.27</td></tr><tr><td>8</td><td>Pyrene</td><td>0.07</td><td>0.08</td><td>0.08</td><td>0.12</td><td>0.04</td><td>2.58</td><td>0.16</td><td>0.07</td><td>3.72</td><td>0.31</td></tr><tr><td>9</td><td>Cyclopenta[c,dlpyrene#</td><td>0.01</td><td>0.01</td><td>0.01</td><td>0.01</td><td>0.01</td><td>0.05</td><td>0.04</td><td>n.d.</td><td>n.d</td><td>n.d.</td></tr><tr><td>10</td><td>Chrysene#</td><td>0.05</td><td>0.02</td><td>0.02</td><td>0.03</td><td>0.02</td><td>0.92</td><td>0.42</td><td>0.17</td><td>0.97</td><td>0.03</td></tr><tr><td>11</td><td>Benz[alanthracene#</td><td>0.04</td><td>0.05</td><td>0.04</td><td>0.04</td><td>0.02</td><td>0.83</td><td>0.46</td><td>0.08</td><td>1.00</td><td>0.04</td></tr><tr><td>12</td><td>5-methylchrysene#</td><td>0.11</td><td>0.02</td><td>0.02</td><td>0.02</td><td>0.09</td><td>0.27</td><td>0.21</td><td>n.d.</td><td>n.d.</td><td>n.d.</td></tr><tr><td>13</td><td>Benzo[b]fluoranthene#</td><td>0.02</td><td>0.04</td><td>0.04</td><td>0.05</td><td>0.02</td><td>0.70</td><td>0.29</td><td>0.05</td><td>0.62</td><td>0.04</td></tr><tr><td>14</td><td>Benzo[k]fluoranthene#</td><td>0.02</td><td>0.04</td><td>0.02</td><td>0.02</td><td>0.01</td><td>0.43</td><td>0.39</td><td>0.07</td><td>0.12</td><td>BD</td></tr><tr><td>15</td><td>Benzoljlfluoranthene#</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td></tr><tr><td>16</td><td>Benzo[alpyrene#</td><td>0.02</td><td>0.10</td><td>0.01</td><td>0.05</td><td>0.02</td><td>0.67</td><td>0.32</td><td>0.06</td><td>0.56</td><td>0.02</td></tr><tr><td>17</td><td>Indenol[1,2,3-cd]pyrene#</td><td>0.01</td><td>0.13</td><td>n.d.</td><td>0.02</td><td>0.01</td><td>0.50</td><td>0.27</td><td>n.d.</td><td>0.16</td><td>BD</td></tr><tr><td>18</td><td>Dibenzo[a,hlanthracene#</td><td>0.02</td><td>0.01</td><td>0.01</td><td>0.01</td><td>0.01</td><td>0.08</td><td>0.21</td><td>0.19</td><td>0.06</td><td>BD</td></tr><tr><td>19</td><td>Benzo[ghilperylene#</td><td>0.01</td><td>0.01</td><td>0.01</td><td>0.02</td><td>0.01</td><td>0.53</td><td>n.d.</td><td>n.d.</td><td>0.19</td><td>BD</td></tr><tr><td>20</td><td>Dibenzo[a,elpyrene#</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td></tr><tr><td>21</td><td>Dibenzo[a,hlpyrene#</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td></tr><tr><td>22</td><td>Dibenzo[a,ilpyrene#</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td></tr><tr><td>23</td><td>Dibenzo[a,llpyrene#</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td></tr><tr><td></td><td>16 EPA PAHs</td><td>3.6</td><td>3.8</td><td>1.2</td><td>1.4</td><td>1.8</td><td>19</td><td>5.0</td><td>2.2</td><td>64</td><td>9.5</td></tr><tr><td>#</td><td>15 EU PAHs</td><td>0.32</td><td>0.43</td><td>0.18</td><td>0.27</td><td>0.22</td><td>5.0</td><td>2.6</td><td>0.62</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac22b13e2efa3cf7c7017c7ac9a49277c9e102cc31d66a54cc0033ec838c7860.jpg",
+        "img_caption": [
+            "Fig.1 Trendsinrelativepeakareasoftoluene, ethylene $^ +$ acetylene,ethanol,2-pentylfuran,and benzene in biochar as a function of pyrolysis temperature [data source: Spokas et al. (2011)]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fateofbiochar-associatedPAHsandVOCs ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The environmental fate of biochar-associatedPAHs that are added to soil is still poorly understood. Soil type can have a significant effect on PAH degradation,for example soils with enhanced sorptive capacity (due to highlevels of SOM) may show a reduced mass transfer rate of PAHs in soil solution (Macloed & Semple,2002). However，in contaminated soils with high pollutant levels,sorbent saturation would result in more freely availablePAHs,which couldleadto increasedlevels of degradation (Cornelissen et al.， 2Oo5；Rhodeset al., ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2010).Additionally,as biochar is capable of stimulating soil microbial activity, its addition to soil could strongly influence the degradation of naturally occurring PAH in soil. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Alternatively,as biochar can effectively absorb organic contaminants,it could decrease microbial mineralization by limiting the bioavailability of the contaminants (Rhodes et al.,2008,2010;Xia et al.,2010;Quilliam et al., 2012).The sorbing abilities of biochar might prove to be beneficial from the perspective of groundwater quality, as sorption of PAHs onto biochar surfaces would presumably limit the rate of PAH leaching from soils (Hale et al.,2012).However, the latter assumption was contradicted by Quilliam et al. (2012) in a study determining the effect of biochar addition on mineralization and leaching of PAH after rainfall. Their data showed that PAH concentrations measured 3 years after the addition of biocharwere significantly higher than those of unamended soils. These results suggested that biochar might act as a source of PAH in soil. In a stark contrast to their original hypothesis,biochar was found to increase the leaching of PAH through soils.This was ascribed to the release of significant amounts of dissolved organic carbon (DOC) following the application of fresh biochar to soil. Dissolved organic carbon, togetherwith dust particles from biochar，binds PAHs and facilitates their leaching through soil.Nonetheless,the levels of PAHs in soils were well within the maximum acceptable limits of $5 -$ $5 0 ~ { \\mu \\mathrm { g } } ~ { \\mathrm { g } } ^ { - 1 } ,$ as reported previously by Carlon (2007). It was,however,difficult toassesswhether the PAHs found in biochar-treated soil were indigenous to the soil or sorbed on the biochar surface. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Despite many complexities,sorption is a key characteristic factor determining the fate of organic com pounds associated with biochar (Quilliam et al., 2012). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/4b35ba5fca77905dc73013995c261f4453aada08a4a4168fe2586bf072556509.jpg",
+        "img_caption": [
+            "Fig.2Extractable polycyclic aromatic compounds (PAHs, $\\mathrm { m g \\ k g ^ { - 1 } }$ ),volatile matter byPy-GC-M (toluene/naphthalene ratio),and volatile fatty acids (VFAs, $\\begin{array} { r } { \\mathbf { m g } \\mathbf { \\Lambda } \\mathbf { g } ^ { - 1 } , } \\end{array}$ ）of biochar from corn stalk and poultry litter as a function of pyrolysis temperature [numbers represent mean values from two replicates; data source: Rombola et al. (2015)]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/1d304b8056972bd26d496ad7079638186f9d617850fb2712365c621240428be9.jpg",
+        "table_caption": [
+            "Table2Listof identifiedvolatileorganiccompounds(VOCs)inbiocharand theirretentiontimes(RT）bytheheadspace thermal desorption-GC/MS method (Spokas etal.,2011) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Order</td><td>Organic compound</td><td>RT</td><td>#</td><td>Organic compound</td><td>RT</td></tr><tr><td>1</td><td>Ethanol</td><td>8.3</td><td>40</td><td>Toluene</td><td>21.1</td></tr><tr><td>2</td><td>Furan</td><td>8.8</td><td>41</td><td>1,3 Dichloropropene (e)</td><td>21.9</td></tr><tr><td>3</td><td>2-Propenal</td><td>9.2</td><td>42</td><td>1,1,2 Trichloroethane</td><td>22.4</td></tr><tr><td>4</td><td>1,1,2 Trichloro 1,2,2 trifluoro ethane</td><td>9.3</td><td>43</td><td>Tetrachloroethene</td><td>22.5</td></tr><tr><td>5</td><td>1,1 Dichloroethane</td><td>9.4</td><td>44</td><td>Hexanal</td><td>23.3</td></tr><tr><td>6</td><td>Propanal</td><td>9.4</td><td>45</td><td>Dibromochloromethane</td><td>23.4</td></tr><tr><td>7</td><td>Acetone</td><td>9.7</td><td>46</td><td>Hexene</td><td>23.5</td></tr><tr><td>8</td><td>Carbon disulfide</td><td>10</td><td>47</td><td>1,2 Dibromoethane</td><td>23.8</td></tr><tr><td>9</td><td>Pentane 2-methyl</td><td>10.7</td><td>48</td><td>Cyclopentanone</td><td>23.8</td></tr><tr><td>10</td><td>Methyl acetate</td><td>10.8</td><td>49</td><td>Chlorobenzene</td><td>25</td></tr><tr><td>11</td><td>Dichloromethane</td><td>10.9</td><td>50</td><td>Ethylbenzene</td><td>25.2</td></tr><tr><td>12</td><td>2 Methoxy 2 methyl propane</td><td>11.4</td><td>51</td><td>1,2 Dimethylbenzene</td><td>26</td></tr><tr><td>13</td><td>1,2 Dichloroethane (z)</td><td>11.5</td><td>52</td><td>1,4 Dimethyl benzene</td><td>26.1</td></tr><tr><td>14</td><td>Hexane</td><td>12</td><td>53</td><td>1,3 Dimethyl benzene</td><td>26.1</td></tr><tr><td>15</td><td>Methyl propanal</td><td>12.1</td><td>54</td><td>2-Hexanone 5-methyl</td><td>26.1</td></tr><tr><td>16</td><td>Ethyl acetate</td><td>12.5</td><td>55</td><td>Furfural</td><td>26.3</td></tr><tr><td>17</td><td>1,1 Dichloroethane</td><td>12.7</td><td>56</td><td>2-Hexanal</td><td>26.5</td></tr><tr><td>18</td><td>Trimethyl ester boric acid</td><td>13.2</td><td>57</td><td> Styrene</td><td>26.8</td></tr><tr><td>19</td><td>2 Methyl furan</td><td>13.2</td><td>58</td><td>2-Heptanone</td><td>27.4</td></tr><tr><td>20</td><td>Butanol</td><td>13.8</td><td>59</td><td>Tribromomethane</td><td>27.4</td></tr><tr><td>21</td><td>2,3 Butanedione</td><td>13.9</td><td>60</td><td>1 Methylethyl benzene</td><td>27.7</td></tr><tr><td>22</td><td>Trans 1,2 dichloroethane</td><td>14.2</td><td>61</td><td>Heptanal</td><td>27.7</td></tr><tr><td>23</td><td>Methyl ethyl ketone</td><td>14.2</td><td>62</td><td>Hexamethyl trisiloxane</td><td>28.3</td></tr><tr><td>24</td><td>Trichloromethane</td><td>14.5</td><td>63</td><td>1,1,2,2-Tetrachloroethane</td><td>28.8</td></tr><tr><td>25</td><td>2-Butanol</td><td>14.8</td><td>64</td><td>2-methyl-2-cyclopentene-1-one</td><td>28.9</td></tr><tr><td>26</td><td>Cyclohexane</td><td>15.3</td><td>65</td><td>Benzaldehyde</td><td>31.2</td></tr><tr><td>27</td><td>1,1,1 Trichloroethane</td><td>15.3</td><td>66</td><td>1,3-dichlorobenzene</td><td>31.5</td></tr><tr><td>28</td><td>Carbon tetrachloride</td><td>15.6</td><td>67</td><td>Octanol</td><td>31.6</td></tr><tr><td>29</td><td>Benzene</td><td>16.3</td><td>68</td><td>1,4-Dichlorobenzene</td><td>31.7</td></tr><tr><td>30</td><td>1,2 Dichloroethane</td><td>16.5</td><td>69</td><td>1,2,3-Trimethylbenzene</td><td>32.8</td></tr><tr><td>31</td><td>3-Methyl-butanol</td><td>17</td><td>70</td><td>1,2-Dichlorobenzene</td><td>32.9</td></tr><tr><td>32</td><td>2-Pentanone</td><td>17.1</td><td>71</td><td>1,2-Dibromo 3-chloropropane</td><td>35.3</td></tr><tr><td>33</td><td>Trichloroethene</td><td>17.9</td><td>72</td><td>1-Dodecane</td><td>36.1</td></tr><tr><td>34</td><td>Methylcyclohexane</td><td>18.2</td><td>73</td><td>1,2,4-Trichlorobenzene</td><td>37.7</td></tr><tr><td>35</td><td>1,2 Dichloropropane</td><td>18.6</td><td>74</td><td>Hexachlorobutadiene</td><td>38.2</td></tr><tr><td>36</td><td>3 Pentanone</td><td>18.8</td><td>75</td><td>Naphthalene</td><td>39</td></tr><tr><td>37</td><td>Pentanal</td><td>19</td><td>76</td><td>1,2,3 Trichlorobenzene</td><td>39.6</td></tr><tr><td>38</td><td>Bromodichloromethane</td><td>19.2</td><td></td><td></td><td></td></tr><tr><td>39</td><td>1,3 Dichloropropene (z)</td><td>20.4</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The sorption capacities of soils themselves are found to be altered after the application of biochar (Table 3). This can help reduce short-term risks as desorption of PAHs can be suppressed.However,one line of evidence indicates that this maynot always be remedially beneficial; rather, the benefit depends on the sorption strength and factors inherent to the contaminants,char,and soil that caninteractively influence theretention ofPAHs over time.Future studies should thus be directed to the assessment of various factors controlling the extent of PAH sorption on biochar surface, the rate of its saturation, therole ofmicrobesinaccumulation ofPAHin the soil solution (increasing bioavailability),and their persistence in the soil environment (due to decreased bioavailability).All these factors should be evaluated prior to large-scale application of biochar in agricultural and contaminated soils. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Effectsofbiochar-releasedPAHsandVOCsonsoil microbial processes ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Apart from the human health and environmental implications,the release ofPAHs andVOCs into the soil via biochar application has the potential to affect microbial processes in soil.For instance, the cycling of nitrogen (N) in soil can be altered as a result of modification of soil nitrification (Sverdrup et al., 20o2;Maliszewska-Kordybach et al.，20o7) and changes in the abundance and structure of denitrifying communities (Guo et al.,2013). A number of studies reported an initial noxious effect on plants (Gell et al.,2011) or microbial communities when certain biochars were applied to soil (Dempster et al., 2012).Moreover,the transient release of inhibitory or toxic compounds from biochar has been postulated as a mechanism contributing to the reduction in greenhouse gas(GHG) emissions (e.g.,nitrous oxide) from soil. In this regard, Spokas and Reicosky (2009) were the first to report that the release of organic compounds from biochar inhibits soil microbial processes (generation of GHG). They detected the production of ethylene in soils amended with biochar that appeared to suppress nitrification and methanotrophic activities. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/b93c9f9897e5aa4ca9925c98551191588e06e18ce7079103f708235d952789c1.jpg",
+        "table_caption": [
+            "Table3Polycyclicaromatic hydrocarbon(PAH)concentrationsof anagriculturalsoilandcorresponding biochar-amendedsoi $( 1 . 1 6 \\% \\ \\mathrm { w / w } )$ [adopted from Fabbri et al.(2013)] "
+        ],
+        "table_footnote": [
+            "/alues in the table indicate the mean values $\\pm$ SD of four replicates "
+        ],
+        "table_body": "<html><body><table><tr><td>Order</td><td>PAH (μg g-1)</td><td>Soil</td><td>Soil + biochar</td></tr><tr><td>1</td><td>Naphthalene</td><td>0.0098 ± 0.0002</td><td>0.0263 ± 0.0046</td></tr><tr><td>2</td><td>Acenaphthylene</td><td>n.d.</td><td>n.d.</td></tr><tr><td>3</td><td>Acenaphthene</td><td>n.d.</td><td>n.d.</td></tr><tr><td>4</td><td>Fluorene</td><td>0.0023 ± 0.0008</td><td>0.0033 ± 0.0006</td></tr><tr><td>5</td><td>Phenanthrene</td><td>0.0118 ± 0.0036</td><td>0.0212 ± 0.0063</td></tr><tr><td>6</td><td>Anthracene</td><td>0.0003 ± 0.0002</td><td>0.0014 ± 0.0014</td></tr><tr><td>7</td><td>Fluoranthene</td><td>0.0035 ± 0.0010</td><td>0.0075 ± 0.0030</td></tr><tr><td>8</td><td>Pyrene</td><td>0.0031 ± 0.0007</td><td>0.0069 ± 0.0020</td></tr><tr><td>10</td><td>Chrysene</td><td>0.0007 ± 0.0003</td><td>0.0014 ± 0.0010</td></tr><tr><td>11</td><td>Benzo[alanthracene</td><td>0.0039 ± 0.0007</td><td>0.0057 ± 0.0009</td></tr><tr><td>13</td><td>Benzo[b]fluoranthene</td><td>0.0067 ± 0.0014</td><td>0.0091 ± 0.0029</td></tr><tr><td>14</td><td>Benzo[k]fluoranthene</td><td>0.0005 ± 0.0001</td><td>0.0014 ± 0.0003</td></tr><tr><td>16</td><td>Benzo[alpyrene</td><td>0.0001 ± 0.0002</td><td>0.0019 ± 0.0009</td></tr><tr><td>17</td><td>Indeno[1,2,3-cd]pyrene</td><td>0.0023 ± 0.0008</td><td>0.0040 ± 0.0022</td></tr><tr><td>18</td><td>Dibenzo[a,hlanthracene#</td><td>0.0009 ± 0.0002</td><td>0.0014 ± 0.0004</td></tr><tr><td>19</td><td>Benzo[ghilperylene</td><td>0.0046 ± 0.0011</td><td>0.0070 ± 0.0013</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "As the VOCs have the potential to inhibit or stimulate microbial and plant processes,they influence the plant and microbial response to biochar amendments.Because of great variabilities in biochar-associated VOCs,their chemical dissimilarity could play an important role in the observed plant and soil microbial responses to biocharamendment of soil (Spokas et al.,2011).As reported by Sun et al.(2015),the structure of the soil microbial community structure was greatly altered by application of fresh biochar. However, the authors suggested that such effects induced by fresh biochar might be shortlived,although this was not shown experimentally. It is evident that further research is required to fully understand the mechanisms underlying the effects of biochar on the structure of soil microbial communities. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Effect of presenceof soil and aging onthe sorption capacityofbiochar ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Although biochar application has been found to improve the sorption behavior of contaminated soils (Table 4),the presence of soil has a negative impact on the sorption capacity of the biochar; for example，a decrease in sorption capacity for hydroquinone and diuron of $2 8 \\%$ and $6 0 \\%$ ，respectively，was observed (Yang & Sheng，2003;Cheng et al.，2008).Likewise，a reduction in phenanthrene logarithmic Freundlich partitioning coefficient (from 4.3 to 2.2）was also observed when biochar produced from pine needles at $4 0 0 ~ ^ { \\circ } \\mathrm { C }$ was mixed with soil at a concentration of $0 . 1 \\%$ w/w (Chen & Yuan,2011). In agricultural soils,application of biochar was found to result in significantly higher levels of PAHs (Fabbri et al.,2013) (Table 3).In particular,the concentrationofnaphthaleneincreasedfrom $0 . 0 0 9 8 ~ \\mu \\mathrm { g } ~ \\mathrm { g } ^ { - 1 }$ in untreated soil to $0 . 0 2 6 3 ~ \\mu \\mathrm { g } ~ \\mathrm { g } ^ { - 1 }$ in biochar-amended soil; this large difference in naphthalene content postbiochar amendment was attributed to the initial high concentration of naphthalene in the biochar $( 1 . 7 5 ~ \\mu \\mathrm { g } ~ \\mathrm { g } ^ { - 1 } )$ .However，given the low values of total PAHs reported in the literature for the slow pyrolysis biochars (Freddo et al.,2012;Hale et al.,2012) and the recommended rates of biochar application for agriculture practices,the elevated levels of PAHs in biocharamended soil (especially for slow pyrolysis biochars) are not of universal concern. Nonetheless，some biochars do have levels of sorbed PAHs (Keiluweit et al., 2012;Kloss et al.，2012;Fabbri et al.，2013)that exceed existing guidelines for land application of commercial biochar (Hilber et al.,2012).Therefore,the development ofanalytical procedures for the quantitative determination of PAHs in biochar and biochar-amended soils is critical. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/9e21bfecdac5a814b6cddb081249920d5b59eccd387cd55985f98a0a0dc1fa76.jpg",
+        "table_caption": [
+            "Table 4 Summary of selected studies showing the effects of biochar on the sorption capacities of soils "
+        ],
+        "table_footnote": [
+            "$K _ { \\mathrm { d } } ^ { \\mathrm { c } }$ is sorption coefficient. "
+        ],
+        "table_body": "<html><body><table><tr><td>Order</td><td>Amendment</td><td>Contaminant</td><td>Effect</td><td>Reference</td></tr><tr><td>1</td><td>Sawdust-derived biochar (700 ℃)</td><td>Terbuthylazine</td><td>Sorption increased in amended soils by a factor of 63</td><td>Wang et al. (2010)</td></tr><tr><td>2</td><td>Sawdust-derived biochar</td><td>Atrazine and acetochlorKd increased by a factor of 1.5</td><td>for acetochlor. Sorption of atrazine also increased (not quantified)</td><td>Spokas et al. (2009)</td></tr><tr><td>3</td><td>Hardwood-derived biochar (450 ℃) mixed at 30% v:v</td><td>Polycyclic aromatic hydrocarbons (PAHs)</td><td>>40% reduction in PAH</td><td>Beesley et al. (2010)</td></tr><tr><td>4</td><td>Pinus radiata-derived biochar (350 C) 0.1 a,d 0.5% application rate</td><td>Phenanthrene</td><td>Kd increased by a factor of 2-51</td><td>Zhang et al. (2010)</td></tr><tr><td>5</td><td>Pinus radiata-derived biochar (700 C) 0.1 a,d 0.5% application rate</td><td>Phenanthrene</td><td>Kd increased by a factor of 6-700</td><td>Zhang et al. (2010)</td></tr><tr><td>6</td><td>Wheat-derived biochar (0.05%, 0.5% and 1%)</td><td>Diuron</td><td>Sorption increased by 7-80%, 1% amendment</td><td>Yang et al. (2006)</td></tr><tr><td>7</td><td>Eucalyptus spp derived biochar (450 C) 0.1%,0.5%,1.0%,2.0%,and 5.0% application rates</td><td>Diuron</td><td>Sorption capacity of the amended soil increased by 7-80%</td><td>Yu et al. (2006)</td></tr><tr><td>8</td><td>Eucalyptus spp derived biochar (450 ℃) 0.1%,0.2%,0.5%,0.8%,and 1.0% application rates</td><td>Diuron</td><td>Sorption capacity of the amended soil increased by 5-125%</td><td>Yu et al. (2006)</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "With respect to aging, direct evidence for a change in biochar sorption capacity is scarce. Several reports indicate changes in the physicochemical characteristics of biochar due to aging (Nguyen et al., 2008; Cheng & Lehmann, 2009). For instance,aging at $1 1 0 ~ ^ { \\circ } \\mathrm { C }$ increased the $\\mathrm { \\Delta p H }$ of biochar by three units and the cation exchange capacity by $5 0 \\%$ (Hale et al.，2011).However,despite changes in physicochemical characteristics,the sorption capacity of biochars (especially those produced at high temperature) was not greatly affected by the presence of soil or by aging of the biochar (Hale et al.，2011) (Table 5). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "These results need to be tested using biochars produced from a wide range of feedstock materials and with diverse manufacturing processes.Also，further investigation is needed to test whether these conclusions could be extended to biochars produced at low temperature and for soils of different origins with diversecharacteristics. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Biochar and soil microbes ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Effects of biochar on microbial biomass and activity ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Both surface area and pore size distribution vary greatly depending on feedstock properties and pyrolytic conditions (Downie et al.,20o9).Interestingly，when biochar comes in contact with soil,its surface area and pore volume is significantly altered as a result of clogging of the pores by sorbed organic and mineral substances (Pignatello et al.,2006; Joseph et al.，2010). In addition, mineralization of VOCs may influence the porosity of biochar (Lehmann et al.,2011). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Soil microorganisms live in various types of microhabitats，which supply the resources for their specific metabolic activities (Fig.3). For example,oxidized surfaces of soil aggregatesare favorable habitats for aerobic microbes,whereas semi-aquatic species and denitrifiers live inside the moist core of soil peds (Lehmann et al., 2011).This createsa highly differential redox condition, mainly because of sorption of organic matter on the biochar particles and oxidation of the biochar carbon (Liang et al.,2006; Lehmann 2007). This in turn greatly influences the decomposition of organic matter，metal mobility，and microbial activity in the soil (Fig.3). Moreover，the internal porosity of biochar may allow soil microbes to avoid consumption by grazers and might conserve mineral nutrients along with the carbonaceous substrates (Pietikäinen et al.，2OoO;Saito & Marumoto,2002;Warnock et al.,2007). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "According to Gomez et al. (2014),chemically recalcitrant biochar serves as a substrate for microbial activity, as confirmed by isotopic analyses of phospholipid fatty acids (PLFAs),which clearly depicted the incorporation of biochar carbon into the bacterial biomass.However, during a 12-month incubation study，a decrease in microbial biomasswas observed following biochar addition,which was consistent with the earlier findings ofDempster et al. (2012).This decreasewas attributed to reduced availability of substrate although another possible reason for the decrease might be suppression of microbial growth due to the release of growth-inhibiting chemical compounds such as PAHs and VOCs. However,the decrease was found to be partially buffered by large biochar addition rates suggesting that biochar，when abundant，may become a substrate for microbial activity. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/4728b2d24f787ce9de7e4f30bba4f6bb147953ecad8991d9a6dc66ce0246a131.jpg",
+        "table_caption": [
+            "Table 5 Carbon-normalized Freundlich coefficient [Log $K _ { \\mathrm { F r } }$ $( \\mathrm { n g ~ k g ^ { - 1 } } )$ $( \\mathrm { n g ~ L ^ { - 1 } } ) ^ { - \\mathrm { n F } } ]$ of unaged, biologically aged,chemically aged (at 60 and $1 1 0 ~ ^ { \\circ } \\mathrm { C } )$ ,and physically aged biochar with and without soil[data source:Hale et al.(2011)] "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"3\">Log KFr (ng kg-1) (ng L-1)-nF</td></tr><tr><td>Biochar</td><td>Biochar + soil</td><td>Soil</td></tr><tr><td>Unaged</td><td>6.17 ± 0.18</td><td>7.14 ± 0.11</td><td>3.53 ± 0.12</td></tr><tr><td>Biologically</td><td>5.54 ± 0.35</td><td>6.78 ± 0.35</td><td></td></tr><tr><td>aged Chemically</td><td>5.22 ± 0.38</td><td>5.39 ± 0.09</td><td></td></tr><tr><td>aged (at 60 ℃) Chemically</td><td>5.95 ± 0.12</td><td>5.89 ± 0.02</td><td></td></tr><tr><td>aged (at110℃)</td><td></td><td></td><td></td></tr><tr><td>Physically aged</td><td>6.21 ± 0.20</td><td>5.77 ± 0.33</td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Yoo & Kang (2011） reported an increase in microbial biomass-N following application of biochar (produced from swine manure)to soil, which was indicative of microbial nitrogen immobilization.However,a lack of any substantial change in the microbial biomass carbon from biochar additions to the soil was reported (Van Zwieten et al.,2009;Yoo & Kang,2011).Only recently,a significant increase in soil microbial biomass after bio char applicationas measured by totalPLFA abundance was reported over a 30-month incubation study (Jiang et al.，2016).Nonetheless,microbial biomass did not showalinearrelationshipwithbiocharadditionrates. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Influenceofbiocharamendmentonmicrobialabundance in soil ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Microbial abundance in biochar-amended soil has been investigated by various methods including total genomic DNA (Grossman et al.,2010; Jin,2010),culture and plate counting method (Jackson，1958;O'Neill et al., 2009)，substrate-induced respiration (Zackrisson et al., 1996;Steiner et al.,2004,2009;Wardle et al.,2008;Kolb et al.，2009)，fumigation-extraction (Jin，2010；Liang et al.,2010),PLFA (Gomez et al.,2014; Jiang et al.,2016), staining,and direct observation of individual biochar particles(Pietikäinen et al.，20oo;Warnock et al.，2007; Jin，201O).Using a PLFA study,Gomez et al. (2014) demonstrated that the addition of a wood-derived fast pyrolysisbiocharcouldpositivelyinfluencethe microbialabundanceoftemperatesoils. Nearly 12 months after biochar application, the microbial community composition was found to have shifted toward a Gram-negative bacteria-dominated community (relative to fungi and Gram-positive bacteria).Another incubation study by Jiang et al.(2016) confirmed these results by showing an increase in the grouped abundance of signature PLFAs of Gram-negative bacteria and actinobacteria after application of biochar.Relative to the bacteria，fungi were negatively affected by increasing the dose of biochar. This could have important implications for SOM decomposition，methane emissions,and cycling of nitrogen and sulfur.In contrast,a few other studies have reported positive effects of biochar additions on the abundance of mycorrhizal plant and fungi (e.g.，Warnock et al.，2007;Steinbeiss et al.,2009;Yoo & Kang,2011).Based on quantitative real-time polymerase chain reaction (PCR),such effects were also estimated with respect to the bacterial, fungal, and archaeal biomass; the results demonstrated no significant treatment effects on bacterial and archaeal gene copy number，whereas a significant effect on fungal gene copy number was observed(Yoo & Kang,2011). ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/477af737fd289f46a362b3a875b1b393b9e6be227c0d6215e1af3a1f1eb32a87.jpg",
+        "img_caption": [
+            "Fig.3An overview of interactions between soil processes, biochar,and microbial diversity [adapted from Lehmann et al. (2011)]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Microbial abundance is largely governed by nutrient and carbon availability, $\\mathrm { \\ p H } ,$ and bacterial adhesion to biochar surfaces.The addition of fertilizer to soil reduces the enhancing effect of biochars on microbial reproduction (Steiner et al.,20o9).Blackwell et al. (2010) also observed a noticeable increase in arbuscular mycorrhizal colonization in the root zone of a wheat crop cultivated in biochar-treated soil with no or low fertilizer application.However，nodule formation by rhizobia is promoted by addition of P-containing fertilizer,but not by N-containing fertilizer (Ogawa & Okimori,2010);in fact, $\\mathrm { \\Delta P }$ fertilization strengthens the symbiotic relationship between leguminous plants and microorganisms. In contrast, the abundance of nonsymbiotic microbes in soil is augmented by higher nutrient availability (Taylor,1951).This may be due to biochar-mediated retention and slow release of nutrients in soil (Lehmann et al., 2011). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Generally,an increase in $\\mathrm { \\Delta p H }$ value within a gradient from 3.7 to 8.3 enhances the microbialbiomass in soil (Aciego Pietri & Brookes,2O08).However，whereas an increased $\\mathrm { \\Delta p H }$ up to 7 may increase bacterial abundance, fungal growth in soil is sometimes inhibited at high $\\mathrm { \\Delta p H }$ levels $( > 7 )$ (Rousk et al.,2009). Interestingly,the $\\mathrm { \\Delta p H }$ of soils may fluctuate significantly depending on the $\\mathrm { \\Delta p H }$ and liming value of biochars (Lehmann et al.,2011). Biochars possess a wide range of $\\mathrm { \\Delta p H }$ values $( < 4$ to ${ > } 1 2$ ） (Lehmann,2oo7) and thus create highly different chemical ambience for the microorganisms.Moreover,adhesion of bacterial populations to biochar surfaces also protectsagainstleachingin soil (Pietikainenet al.,2000). Bacterial adsorption to biochar surfaces mostly depends on the abundance of minerals,pore size and curvature, and iso-electric points of the biochars (Cheng et al., 2008). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Microbial responseto biocharin soil ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Soil type,vegetation,and other ecosystems largely govern the microbial responses to biochar (Noyce et al., 2015).The microbial response to biochar addition to soil is a function of the existing soil microbial community and might also be linked to previous land-use patterns (Gomez et al.，2014).Gul et al. (2015) comprehensively covered most of the important aspects of microbial response to biochar amendments in soils in their recentlypublished review.Therefore,in this section,we focus on reports that have not been reviewed previously.Microbes exposed to labile biochar with fresh carbon sources respond by increasing $\\mathrm { C O } _ { 2 }$ respiration. On the other hand,the microbial population has also been shown to proliferate in the presence of biochar with more refractory carbon sources (Spokas et al.,201o; Zimmerman et al.，2011). Some researchers suggested that the soil type also influences the response of the soil microbes to biochar addition (Spokas & Reicosky,2009). Moreover，biochar application alterssoil enzymatic activity.Results of Yoo & Kang (2011） suggest that increased enzyme activities are induced by microbial proliferation during incubation of soil with biochar; however,reduced activities might be partly explainable byhigher nutrient availability or chemical blocking of substrates by biochar.Such observations need to be examined by scaling up from experiments in jars to pots to field studies. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Recently,severallong-term( ${ > } 1 2$ months) field studies have examined the impact of biochars on growth,activity，and composition of microbial biomass (Jones et al., 2012;Quilliam et al.，2012;Rousk et al.，2013;Domene et al.,2014). Jones et al. (2012) and Domene et al. (2014) reported that biochar application greatly increases above ground biomass and foliar N. On the other hand, in the 2nd yearof the study,biochar addition improved fungal and bacterial growth rate and turnover through increased soil respiration.Moreover,Rousk et al. (2013) showed that bacterial growth was promoted by biochar amendments due to the release of large amounts of labile C.In contrast,Quilliam et al.(2012) reported that biochar amendment did not induce significant microbial growth and mycorrhizal colonization in a temperate agricultural soil even after 3 years of soil residency. These studies illustrate that the impact of biochar on soil microorganisms is a controversial issue that must beaddressed carefully throughlong-term field experimentation.In this regard,use of either stable $^ { 1 4 } \\mathrm { C }$ or $^ { 1 3 } \\mathrm { C }$ isotope labeling might be useful to navigate the role of biochar carbon in soil biota (Watzinger et al., 2014). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Possible ways to mitigate the contamination of biochar with PAHs and VOCs ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "It is well established that both biochar chemistry and yield vary considerably according to production process conditions (Novak et al.，20o9;Keiluweit et al., 2010;Lee et al.，201O) and surface oxidation (Boehm, 1994;Yao et al.，2012).For instance，the temperature (pyrolysis） dependence of the solvent-extractable PAH content of biochar was clearly demonstrated by Keiluweit et al. (2012)；biochars produced at temperature between 400 and $6 0 0 ~ ^ { \\circ } \\mathrm { C }$ contained the maximum levels of PAH.Likewise，partially carbonized (hydrothermal carbonization (HTC)and fast pyrolysis) biochars were found to contain a large number of sorbed volatiles (Spokas et al.，2011)，whereas gasification，thermal or chemically processed biochars,soil kiln mound，and open pit biochars had low-to-nondetectable levels of VOCs. The presence of oxygen during pyrolysis also led to a reduction in sorbed VOCs.In addition，a recently developed pyrolysis process utilizing $\\mathrm { C O } _ { 2 }$ asa reaction medium provided a potential option to control the PAH and VOC content in biochar.Several studies experimentally showed that $\\mathrm { C O } _ { 2 }$ enhanced thermal cracking and blocked the pathway to formation of PAHs,which led to a significant reduction in condensable pyrolytic oil (Kwon et al.，2012，2013，2015；Cho et al.，2015a,b).However，some of these observations need to be validated using a wide array of feedstocks and biochar manufacturing conditions. With more knowledge and information regarding the impact of various feedstocks,production conditions,and different pyrolysis technologies on the chemical characteristics of sorbed VOCs associated with these biochars,it will be possible to modify certain conditions to minimize the contamination of biochar with volatiles. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Concerns and recommendations forfuture research ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In the wake of worldwide concern over global warming, studies focusing on the effect of soil management on photochemically reactive gases and organic compounds are of critical importance. In addition,efforts to unravel the key mechanisms driving the sequestration vs. emission of these compounds are greatly desirable to formulate recommendations for future soil management practices. The use of biochar has been suggested as a possible strategy to combat the ever-increasing percentage of carbon in the earth's atmosphere.However,relatively little is known about the impacts of biochar addition on long-term persistence of PAH and VOC or its bioavailability. As sorption is a key process in determining the fate of PAHs or VOCs in soil,an improved understanding of the sorption characteristics of biochar in a broad range of soil environments (agricultural soil, contaminated soil, reclaimed systems,etc.）will provide valuable information on the regulation of PAHs after treatmentwith biochar.In this context,it is desirable to accurately assess the dynamic interactions between sorbent (biochar） and soil microbes and how these processes ultimately affect the cycling of PAHs in the soil layer and their persistence in the environment. In addition,the bioaccumulation of PAH grown in biocharamended soils requires further investigation. Likewise, the variability of VOC composition accompanying the application of biochar also calls for their characterization before and after application to precisely assess their potential effects of biochar application on the agro-ecosystem.Recent reports suggest that the co-occurrence of low molecular weight (LMW) VOCs with PAHs in biochar is more phytotoxic than the presence of PAHs alone. Consequently, they recommended that VOC content in biochar should be included in quality assessment of biochar. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In conclusion, the composition of PAHs and VOCs in biochar produced through various manufacturing methods and from a range of feedstock materials must be thoroughly characterized，together with their interactions with soil biota and the effect of the presence of soil and aging of biochar,before recommending their application for agricultural or reclamation purposes.Future studies need to be directed toward the development of precise quantitative assessment tools for PAHsand VOCs associated with biochar and toward ascertaining the mechanism of their retention or release,including the role of soil biota,under multiple soil and climatic conditions. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This study was supported by a grant from the National Research Foundation of Korea (NRF) funded by the Ministry of Education, Science and Technology (MEST) (No.2009-0093848). This work was also carried out with the support of the ‘Cooperative Research Program for Agriculture Science & Technology Development' (Project title:Study on model development to control odor from hogpens,Project No.PJ01052101） Rural Development Administration,Republic of Korea.The second author also acknowledges the support made by a National Research Foundation ofKorea (NRF) Grant funded by the Korean Government (MSIP) (No.2014RA1A004893). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Conflictof interest ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "There is no conflict of interest. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Aciego Pietri JCA, Brookes PC (20o8)Relationships between soil pH and microbial properties in a UK arable soil. Soil Biology $\\mathcal { E }$ Biochemistry,40,1856-1861.   \nAlmeida J, Bertilsson M, Gorwa-Grauslund M, Gorsich S,Lidén G (2009) Metabolic effects of furaldehydes and impacts on biotechnological processes.Applied Microbiology and Biotechnology,82,625-638.   \nBaldwin IT,Halitschke R,Paschold A,von Dahl CC,Preston CA (2006) Volatile signaling in plant-plant interactions: \"talking trees\" in the genomics era.Science, 311, 812-815.   \nBaronti S,Alberti G, DelleVedove G et al.(2010) The biochar option to improve plant yields: first results from some field and pot experiments in Italy. Italian Journal of Agronomy, 5,-11.   \nBeesley L,Moreno-Jiménez E,Gomez-Eyles JL (2010) Effects of biochar and green waste compost amendments on mobility,bioavailability and toxicity of inorganic and organic contaminants in a multi-element polluted soil. Environmental Pollution, 158, 2282-2287.   \nBernardo M,Lapa N,Goncalves M,Barbosa R,Mendes B,Pinto F,Gulyurtlu I (2010)Toxicity of char residues produced in the co-pyrolysis of different wastes. Waste Management,30,628-635.   \nBlackwell P,Krull E,Butler G,Herbert A, Solaiman Z (2010) Effect of banded biochar on dryland wheat production and fertiliser use in south-western Australia: an agronomic and economic perspective. Australian Journal of Soil Research,48, 531-545.   \nBoehm HP (1994) Some aspects of the surface chemistry of carbon blacks and other carbons. Carbon,32,759-769.   \nBreedveld G, Sparrevik M (2ooo) Nutrient-limited biodegradation of PAH in various soil strataata creosotecontaminated site.Biodegradation,11,391-99.   \nBuss W,Masek O,Graham M, Wüst D (2015) Inherent organic compounds in biochar-their content,composition and potential toxic effects. Journal of Environmental Management,156,1505.   \nCarlon C (ed.)(2O07) Derivation Methods of Soil Screening Values in Europe.A Review and Evaluation of National Procedures Towards Harmonization.EUR 22805 EN - 2007. European Commission,Joint Research Centre,Ispra, Italy.   \nCerniglia CE(1992) Biodegradation of polycyclic aromatic hydrocarbons. Biodegradation, 3,351-58.   \nChen SC, Liao CM (2o06) Health risk assessment on human exposed to environmen tal polycyclic hydrocarbons pollution sources.Science of the Total Environment, 366, 112–123.   \nChen BL,Yuan MX (2011) Enhanced sorption of polycyclic aromatic hydrocarbons by soil amended with biochar. Journal of Soils and Sediments,11,62-71.   \nCheng CH, Lehmann J(2009)Ageing of black carbon along a temperature gradient. Chemosphere,75,1021-1027.   \nCheng CH,Lehmann J,Engelhard MH (2oo8) Natural oxidation of black carbon in soils:changes in molecular form and surface charge along a climosequence. Geochimica etCosmochimica Acta,72,598-1610. enhancement of pyrolysis of waste biomass: a case study with spent coffee ground. Bioresource Technology,189,1-6.   \nCho SH,KimKHJeonYJ,KwonEE(2015b)Pyrolysisof microalgal biomass incarbon dioxide ironmnt.oresourceTechnology,93,191.   \nClough TJ, Bertram JE,Ray JL,Condron LM (2010) Unweathered wood biochar impact on nitrous oxide emissions from a bovine-urine-amended pasture soil. Soil Science Society ofAmerica Journal,74,852-860.   \nCole DP,Smith EA,Lee YJ (2012) High-resolution mass spectrometric characterization of molecules on biochar from pyrolysisand gasification of switchgrass. Energy & Fuels,26,3803-3809.   \nCornelissen G,Haftka J,Parsons J,Gustafsson O (20o5) Sorption to black carbon of organic compounds with varying polarity and planarity.Environmental Science $\\boldsymbol { \\mathscr { E } }$ Technology,39,3688-3694.   \nDeenik JL,McClellan T, Uehara G,Antal MJ,Campbell S (2010) Charcoal volatile matter content influences plant growth and soil nitrogen transformations. Soil ScienceSocietyofAmericaJournal,74,59-1270.   \nDemirbas A (2ooo) Mechanisms of liquefaction and pyrolysis reactions of biomass. Energy Conversionand Management,41,633-646.   \nDempster DN,Jones DL,Murphy DV (2012) Clayand biochar amendments decreased inorganic but not dissolved organic nitrogen leaching in soil.Soil Research,50,216-221.   \nDing GC,Heuer H, Zuhlke S et al. (2010) Soil type-dependent responses to phenanthrene as revealed by determining the diversity and abundance of polycyclic aromatic hydrocarbon ring hydroxylating Dioxygenase genes by using a novel PCR detection system.Applied and Environmental Microbiology,76,4765-4771.   \nDomene $\\scriptstyle \\lambda ,$ Mattana S, Hanley K, Enders A, Lehmann J (2014) Medium-term effects of corn biochar addition on soil biota activities and functions in a temperate soil cropped to corn.Soil Biology& Biochemistry,72,152-162.   \nDownie A,CroskyA,Munroe P(2o09)Physical properties of biochar.In: Biochar for Enoiromentalgent:ceg 13–32. Earthscan,MPG Books,London.   \nEdwards NT (1983)Polycyclic aromatic hydrocarbons (PAHs) in the terrestrial environment-areview.Journal of Environmental Quality,12,427-441.   \nFabbri D,Rombola AG,Torri C,SpokasKA (2013) Determination of polycyclicaromatic hydrocarbons in biochar and biochar amended soil. Journal of Analytical and Applied Pyrolysis,103,60-67.   \nFreddo A, Cai C,Reid BJ (2012) Environmental contextualisation of potential toxic elements and polycyclic aromatic hydrocarbons in biochar. Environmental Pollution, 171, 18–24.   \nFriant SL,Sufet IH(979 Interactive effctsof temperature,salt concentration,and pHon headspace analysis for isolating volatile trace organics in aqueous environmental samples.Analytical Chemistry,51,2167-2172.   \nGell $\\mathsf { K } ,$ vanGroenigenJCayuela ML(2011Residuesofbioenergyproducton chains as soil amendments:immediate and temporal phytotoxicity. Journal of Hazardous Materials,186,2017-2025.   \nGomez JD,Denef K,Stewarta CE, Zheng J, Cotrufo MF (2014) Biochar additionrate influences soil microbial abundance and activity in temperate soils. European Journal of SoilScience,65,-9.   \nGraber E, MellerHarel Y, Kolton M et al. (20lo) Biochar impacton development and productivity of pepper and tomato grown in fertigated soil-lessmedia.Plant and Soil, 337,481-496.   \nGrossman JM,O'NeillBE,Tsai SM, Liang B,Neves E,Lehmann J, Thies JE (2010) Amazonian anthrosols support similar microbial communities that differ distinctlyfrom those extant inadjacent,unmodified soilsofthesamemineralogy. Microbial Ecology,60,192-205.   \nGul S,WhalenJK,homasBWchdevaVDengH(05)Physico-heicao erties and microbial responses in biochar-amended soils: mechanisms and future directions.Agriculture,costem $\\mathcal { E }$ Environment,206,46-59.   \nGuo GX,Deng H,Qiao M, Yao HY, Zhu YG (2013) Effect of long-term wastewater irrigation on potential denitrificationand denitrifying communities insoils at the watershed scale.Enironmental Science& Technology,47,105-3113.   \nHale SE,Hanley K, Lehmann J, Zimmerman AR,Cornelissen G (2011) Effects of chemical,biological,andphysicalagingaswell assoiladditionontheotion of Pyrene to activated carbon and biochar.Environmental Science $\\boldsymbol { \\mathscr { E } }$ Technology, 45, 10445–10453.   \nHale SE,Lehmann J,Rutherford D et al. (2012) Quantifying the total and bioavailable polycyclic aromatic hydrocarbons and dioxins in biochars. Environmental Science $\\mathcal { E }$ Technology,46,28308.   \nHigashikawa FS,Cayuela ML,Roig A,Sanchez-Monedero MA (2013)Matrix effect on the performance of headspace solid phase microextraction method for the Chemosphere, 93,2311-2318.   \nHilberI, BlumF,Leifeld J,Schmidt HP,Bucheli TD (2012)Quantitativedeterminationof PAHs in biochar: a prerequisite to ensure its quality and safe application. JournalofAgriculturalandFoodChemistry,60,3042-3050.   \nInsam H, Seewald M (2010) Volatile organic compounds (VOCs) in soils. Biology and Fertility of Soils,46,199-213.   \nJacksonRM(1958)The ecologyof fungi in the soil with special reference to fungistasis.PhD thesis, Universityof London,Rothamsted ExperimentalStation,Harpenden, UK.   \nJeffery S, Verheijen FGA,van der Velde M, Bastos AC (2010)A quantitative review of the effects of biochar application to soils on crop productivity using meta-analysis.Agriculture,coe $\\mathcal { E }$ Environment,144,57.   \nJiang $x ,$ Denef K,Stewart CE, Cotrufo MF (2016) Controls and dynamics of biochar decomposition and soil microbial abundance,composition,and carbon use efficiency during long-term biochar-amended soil incubations.Biology and Fertility of Soils, 52, 1-14.   \nJin H (201o)Characterization of microbial life colonizing biochar and biocharamended soils.PhD Dissertation, Cornell University, Ithaca.   \nJones DL,Rousk J,Edwards-Jones G, DeLuca TH,Murphy DV (2012) Biocharmediated changes in soil quality and plant growth in a three year field trial. Soil Biology&iochemistry,45,13-124.   \nJonker MTO,Koelmans AA (2002) Extraction of polycyclic aromatic hydrocarbons from soot and sediment: solvent evaluation and implications for sorption mechanism.Environmental Science& Technology,36,4107-4113.   \nJoseph SD,Camps-Arbestain M,Lin Y et al.(20l0)An investigation into the reactions of biochar insoil.Australian Journal of Soil Research,48,501-515.   \nKastner M,Breuer-Jammali M,Mahro B (1998) Impact of inoculation protocols, salinity,and pH on the degradation of polycyclic aromatic hydrocarbons (PAH) and survival ofPAH-degrading bacteria introduced intosoil.Applied and Enoironmental Microbiology,64,59-62.   \nKeiluweit M, Nico PS, Johnson MG,Kleber M (2010) Dynamic molecular structure of plant biomass-derived black carbon (biochar).Environmental Science& Technology, 44, 1247–1253.   \nKeiluweit M，Kleber M，Sparrow MA，Simoneit BRT，Prahl FG(2012) Solvent-extractable polycyclic aromatic hydrocarbons in biochar:influence of pyrolysis temperature and feedstock. Environmental Science $\\mathcal { E }$ Technology，46, 9333-9341.   \nKhalili NR,Pa Schef, Holsen TM(1995)PAH source fingerprints for coke ovens, diesel and gasoline engines, highway tunnels and wood combustion emissions. Atmospheric Enironment,29,533-542.   \nKhodadad CLMZimmerman AR,Green SJ,Uthandi S,Foster JS (2011) Taxa-specific changes in soil microbial community composition induced by pyrogenic carbon amendments.Soil Biology & Biochemistry,43,385-392.   \nKlinke HB,Thomsen AB,Ahring BK (2004)Inhibition of ethanol-producing yeast and bacteria by degradation products produced during pre-treatment of biomass. Applied Microbiologyand Biotechnology,66,126.   \nKloepper JW,Ryu CM, Zhang S (2004) Induced systemic resistance and promotion of plant growth by Bacillus spp.Phytopathology,94,259-266.   \nKloss S,Zehetner F,DelantonioAetal.(0l2)Characterizationof slow pyrolysis biochars: effects of feedstocks and pyrolysis temperature on biochar properties. Journal of Environmental Quality,41,99-1000.   \nKolb S, Fermanich K, Dornbush M (2009) Effect of charcoal quantity on microbial biomassand activity in temperate soils.Soil Science Society of America Journal,73, 1173–1181.   \nKwon E,Castaldi MJ (2oo8) Investigation of mechanisms of polycyclic aromatic hydrocarbons (PAHs) initiated from the thermal degradation of styrene butadiene rubber (SBR) in N2 atmosphere.Environmental Science $\\mathcal { E }$ Technology,42, 2175- 2180.   \nKwon E,Castaldi MJ (2009) Fundamental understanding of the thermal degradation mechanisms of waste tires and their air pollutant generation in a N2 atmosphere. Environmental Science&Technology,43,5996-602.   \nKwon EE,YiH, Castaldi MJ (2012) Utilizing carbon dioxide as a reaction medium to mitigate production of polycyclic aromatic hydrocarbons from the thermal decomposition of styrene butadiene rubber. Environmental Science $\\mathcal { E }$ Technology, 46,10752-10757.   \nKwon EE,Jeon EC,Castaldi MJ,JeonYJ (2013) Efectof carbondioxide on the thermaldegradatiooflioellosicassEoentalSee&g 47, 10541-10547.   \nKwon EE,Oh JI, Kim KH (2015) Polycyclic aromatic hydrocarbons (PAHs) and volatile organic compounds (VOCs) mitigation in the pvrolvsis process of waste tires 311.   \nLee JW, Kidder M, Evans BR,Paik S, Buchanan AC II, Garten CT, Brown RC (2010) Characterization of biochars produced from cornstovers for soil amendment. Environmental Science& Technology,44,7970-7974.   \nLehmann J(2007)A handful of carbon. Nature,447,143-144.   \nLehmann J,Rillig MC, Thies J,Masiello CA,Hockaday WC,Crowley D (2011) Biochar effectsonsoilbiota-review.Soiliology&ochemistry,43,1-836.   \nLemieux PM, Lutes CC,Santoianni DA (2004) Emissions of organic toxics fromopen burning:acomprehensive review.Progress inenergyand Combustion Science,0,1- 32.   \nLiang B,Lehmann J, Solomon Det al. (2o06)Black carbon increases cation exchange capacity insoils.SoilcienceSocietyofAmericaJournal,7o,719-1730.   \nLiang B, Lehmann J, Sohi SP, Thies JE,ONeill B,Trujillo L (2010) Black carbon affects thecyclingof non-blackcarbon insoil.Organic Geochemistry,41,206-213.   \nMacloed CJA,Semple KT (2002) The adaptation of two similar soils to pyrene catabolism.EnironmentalPollution,19,57-64.   \nMaliszewska-Kordybach B,Klimkowicz-Pawlas A,Smreczak B,Janusauskaite D (2007)Ecotoxic effect of phenanthrene on nitrifying bacteria in soils of different properties.Journal of Environmental Quality,36,1635-1645.   \nManyaJJ(2012)Pyrolysis forbiochar purposes:areviewtoestablishcurrent knowledge gaps and research needs.Environmental Science $\\mathcal { E }$ Technology,46,7939-7954.   \nMasiello CA (2004) New directions in black carbon organic geochemistry.Marine Chemistry,92,201-213.   \nMcCartyGW,Bremner JM(1991)Inhibitionof nitrification insoil bygaseous hydrocarbons.BologyandFertilityofoils,   \nNguyen BT,aJygiJekR,iageardg term black carbon dynamics in cultivated soil. Biogeochemistry,89,295-308.   \nNovak JM, Lima I, Xing B et al. (2009) Characterization of designer biochar produced at different temperatures and their effects on a loamy sand.Annals of Environmental Science,3,195-206.   \nNoyce GL,Basilik N,Fulthorpe R,Sackett TE,Thomas SC (2015) Soil microbial responses over 2 years following biochar addition to a north temperate forest. Biology andFertilityof Soils,51,649-659.   \nOgawa M,Okimori Y (201o) Pioneering works in biochar research,Japan.Australian Journal of Soil Research,48,489-500.   \nONeill B,Grossman J,Tsai M et al.(2009) Bacterial community composition in Brazilian anthrosols and adjacent soils characterized using culturing and molecularidentification.Microbial Ecology,58,335.   \nPenton Z (1992) Optimization of conditions in static headspace GC.Journal of High Resolution Chromatography,15,436.   \nPietikainen J,Kiikkila O,Fritze H (2ooo) Charcoal asa habitat for microbesand its effects on the microbial community of the underlying humus.Oikos,89, 231-242.   \nPignatell JJ, Kwon S,LuY(2oo6)Efectof natural organicsubstances onthe surface and adsorptive properties of environmental black carbon (char):attenuation of surface activity by humic and fulvic acids.Environmental Science $\\mathcal { E }$ Technology, 40, 7757-7763.   \nPodgorski DC,Hamdan R, McKenna AM, Nyadong L,Rodgers RP, Marshall AG, Cooper WT (2012) Characterization of pyrogenic black carbon by desorption atmospheric pressure photoionization Fourier transform ion cyclotron resonance mass spectrometry.Analytical emistry,84227.   \nQuilliam RS,Rangecroft S,Emmett BA,Deluca TH, Jones DL (2012) Is biochara source or sink for polycyclic aromatic hydrocarbon (PAH) compounds in agricultural soils? GCB Bioenergy,5,96-103.   \nRaguso RA,Pellmyr O (1998) Dynamic headspace analysis of floral volatiles: a comparison of methods.Oikos,81,238-254.   \nRhodes AH,Carlin A,Semple KT (2008)Impactof black carbon in the extraction and mieralizationof phenanthrene in soil.Environmental Science $\\mathcal { E }$ Technology, 42, 740–745.   \nRhodes AH, McAllister LE, Chen R, Semple KT (2010) Impact of activated charcoal on the mineralization of 14C-phenanthrene in soils. Chemosphere,79,463-469.   \nRombola AG,Marisi G, Torri C,Fabbri D, Buscaroli A (2015) Relationships between chemical characteristics and phytotoxicity of biochar from poultry litter pyrolysis. Journal of Agricultural and Food Chemistry,63,660-6667.   \nRousk J, Brookes PC,Baath E(2oo9)Contrasting soil pH effects on fungal and bacterial growth suggest functional redundancy in carbon mineralization. Applied and Environmentalicrobiology,75,589-196.   \nRousk J,Dempster DN, Jones DL (2013) Transient biochar effects on decomposer microbial growth rates: evidence from two agricultural case-studies. European Journal of Soil Science,64,770-776. terial volatiles promote growth in Arabidopsis.Proceedings of the National Academy of Sciencesof the UnitedStates of America,100,4927-4932.   \nSaito M, Marumoto T (2o02) Inoculation with arbuscular mycorhizal fungi: the status quo inJapanand the future prospects.Plant and Soil,244,273-279.   \nSchimmelpfennig S, Glaser B (2012) One step forward toward characterization: some important material properties to distinguish biochars.Journal of Environmental Quality,41,1-13.   \nSimms EL,Rausher MD (1987) Costs and benefits of plant resistance to herbivory. American Naturalist,130,570-581.   \nSimoneit BRT (2002) Biomass burning-a review of organic tracers for smoke from incomplete combustion. Applied Geochemistry,17,129-162.   \nSingh BP,Halton BJ,Singh B,AlCowiea,Kathuria A (20lo) Influenceof biochars on nitrous oxide emission and nitrogen leaching from two contrasting soils. Journal of Environmental Quality,39,1224-1235.   \nSohi SP,KrullE,Lopez-Capel E,Bol R(2010)Areviewof biochar and itsuse and function in soil.Adoances in Agronomy,1o5,47-82.   \nSpokas KA (010)Review of the stability of biochar in soils: predictability of O:C molar ratios. Carbon Management,1,289-303.   \nSpokas KA,Reicosky D (2o9) Impacts of sixteen different biochars on soil greenhouse gas production.Annals of Environmental Science,3,179-193.   \nSpokas KA,Novak JM,Stewart CE,Cantrell KB,Uchimiya M, DuSaire MG,Ro KS (2011)Qualitative analysis of volatile organic compounds on biochar. Chemosphere,85,869-882.   \nSpokas KA,CantrellKB,Novak JMet al.(2O12) Biochar: a synthesisof its agronomic impact beyond carbon sequestration.Journal of Environmental Quality,41,973-989.   \nSteinbeiss S,Gleixner G,Antonietti M (2009)Effect of biochar amendment on soil carbon balance and soil microbial activity.Soil Biology $\\mathcal { E }$ Biochemistry,41,301- 1310.   \nSpokas K,Koskinen WC,Baker JM,Reicosky DC (2009) Impact of woodchip biochar additions on greenhouse gas production and sorption/degradation of two herbicides in a Minnesota soil. Chemosphere,77,574-581.   \nSteiner C,Teixeira WG,Lehmann J,Zech W (2004)Microbial response to charcoal amendments of highly weathered soils and Amazonian Dark Earths in Central Amazonia-preliminary results.In: Amazonian Dark Earths:Explorations in Time and Space (eds Glaser B,Woods WI),pp.195-212.Springer, Berlin.   \nSteiner C,Garcia M,Zech W (2O09)Effects of charcoal as slow release nutrient carrier on NPK dynamics and soil microbial population: pot experiments with ferralsol substrate.In: Amazonian Dark Earths:Wim Sombroek's Vision (eds Woods WI, Teixeira WG,Lehmann J, Steiner C,WinklerPrins AMGA,Rebellto L),pp.32 338. Springer, Berlin.   \nSun D，Meng JHao Liang et al.(2015）Effct of volatileorganic compounds absorbed to fresh biochar on survival of Bacillus mucilaginosus and structure of soil microbial communities.Journal of Soils and Sediments,15,271-81.   \nSverdrup LE,EkelundF,Krogh PH,Nielsen T,Johnsen K(002)Soil microbialtoxicity of eight polycyclic aromatic compounds: efects on nitrification, the genetic diversityofbcteria,andthetotalnumberofprotozoans.Enironmentaloxicology and Chemistry,21,1644-1650.   \nTaylor CB (1951) The nutritional requirements of the predominant bacterial flora of soil. JournalofApplied icrobiology,14,01-11.   \nVan Zwieten L,Singh BP,Joseph S,Kimber S,CowieA,Chan KY (2009) Biochar and emissions of non $\\cdot \\mathrm { C O } _ { 2 }$ greenhouse gases from soil.In: Biochar for Enuironmental Management: Science and Technology (eds LehmannJ,Joseph S),pp.227-249. Earthscan, London.   \nVolkeringFBreureAM(03)Biodegdationandgeneraaspectsofbioavlbili In:PAHs:AnEcotoxicological Perspectie(edoubenPET)pp.8-96Jhn Wile & Sons, Chichester.   \nWang HL,LinKD,Hou ZN,Richardson B,Gan J(2010) Sorption of the herbicide terbuthylazine in two New Zealand forest soils amended with biosolids and biochars. Journal ofSoilsandSediments,10,283-289.   \nWard BB,Courtney KJ,Langenheim JH (1997) Inhibition of Nitrosomonas europea by monoterpenes from coastal redwood (Sequoia sempervirens) in whole-cell studies. JournalofhemicalEcology,,98.   \nWardle DA,Nilsson MC, Zackrisson O (20o8)Fire-derived charcoal causes loss of forest humus.Science,20,629.   \nWarnock DD,Lehmann J, Kuyper TW,Rillig MC (2007) Mycorrhizal responses to biochar in soil -concepts and mechanisms. Plant and Soil,3o0,9-20.   \nWatzingerA，Feichtmair S,Kitzler B et al.(2014) Soil microbial communities responded to biochar application in temperate soils and slowly metabolized 13Clabelled biochar asrevealed by 13C PLFA analyses:results from a short-term nnt Intvunl nf Cnil Cninuna 654 51   \nXia $\\mathbf { \\boldsymbol { X } } ,$ Li Y, Zhou $Z ,$ Feng $\\mathrm { \\Delta C }$ (2010) Bioavailability of adsorbed phenanthrene by black carbon and multi-walled carbon nanotubes to Agrobacterium. Chemosphere, 70, 1329-1336.   \nYang YN,Sheng GY (2003) Enhanced pesticide sorption by soils containing particulate matter from crop residue burns. Enuironmental Science& Technology,37,3635-3639.   \nYang YN, Sheng GY,Huang MS (2006) Bioavailability of diuron in soil containing wheat-straw-derived char.Scienceof the Total Environment,354,170-178.   \nYao Y,Gao B, Zhang M,InyangM, Zimmerman AR (2012) Effect of biochar amendment on sorption and leaching of nitrate,ammonium,and phosphate in a sandy soil. Chemosphere,89,1467-1471.   \nYoo G,Kang H (2011) Effects of biochar addition on greenhouse gas emissions and microbial responses in a short-term laboratory experiment. Journal of Environmental Quality,41,1193-1202.   \nYu XY,Ying GG,Kookana RS (2006) Sorption and desorption behaviors of diuron in soils amended with charcoal. Journal of Agricultural and Food Chemistry,54,8545- 8550.   \nYu F,Deng S,Chen P,Liu Y,Wan Y,OlsonA (20o7)Physical and chemical properties of bio-oils from microwave pyrolysis of corn stover.In:Applied Biochemistry and Biotechnology (eds Mielenz JR,Klasson KT,Adney WS,McMillan JD),pp 957-970.Humana Press, New York.   \nZackrisson O,Nilsson MC,Wardle DA (1996) Key ecological function of charcoal from wildfire in the boreal forest. Oikos,77,10-19.   \nZeng L,Qin C,Wang L,Li W (2011) Volatile compounds formed from the pyrolysis of chitosan. Carbohydrate Polymers,83,1553-1557.   \nZhang XX,Cheng SP,Zhu CJ, Sun SL (2006) Microbial PAH-degradation in soil: degradation pathways and contributing factors.Pedosphere,16, 555-565.   \nZhang H,Kim MS,Krishnamachari V et al.(2007)Rhizobacterial volatile emissions regulate auxin homeostasis and cell expansion in Arabidopsis.Planta,226, 839-851.   \nZhang H,Lin K,Wang H,Gan J (2010) Effect of Pinus radiata derived biochars on soil sorption and desorption of phenanthrene. Environmental Pollution,158,2821- 2825.   \nZimmerman AR, Gao B,Ahn MY (2011) Positive and negative carbon mineralization priming effectsamonga varietyof biochar-amended soils.Soil Biology& Biochemistry, 43, 1169-1179. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

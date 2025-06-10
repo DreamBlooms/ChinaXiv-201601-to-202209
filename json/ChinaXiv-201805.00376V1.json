@@ -1,0 +1,669 @@
+[
+    {
+        "type": "text",
+        "text": "基于GASA-FCM混合聚类与霍夫变换的欠定混合矩阵估计",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李虎，徐岩",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(兰州交通大学 电子与信息工程学院，兰州 730070)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对模糊C-均值聚类(fuzzyC-means clustering，FCM)算法在欠定混合矩阵估计中精度低、鲁棒性差的缺点，提出一种基于遗传模拟退火优化FCM(GASA-FCM)混合聚类和霍夫变换的欠定混合矩阵估计算法。该算法首先结合了模拟退火算法(simulated annealingalgorithm，SA)全局搜索、高精度的优点和遗传算法(genetic algorithm，GA)强大的空间搜索能力，将经遗传模拟退火算法得到的聚类中心点赋给FCM，避免了初值选择的随机性。再利用霍夫变换对聚类得到的每一类数据的中心进行修正，提高混合矩阵的估计精度。实验结果表明，提出的算法明显改善了算法的稳定性和混合矩阵估计精度，具有一定的有效性和可行性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：模糊C-均值聚类算法；遗传算法；模拟退火算法；霍夫变换；混合矩阵估计 中图分类号：TN911.7 doi:10.3969/j.issn.1001-3695.2017.10.0932 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Underdetermined mixing matrix estimation algorithm using GASA-FCM based mixing clustering and Hough transform ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Li Hu, Xu Yan (School ofElectronic & Information Engineering,Lanzhou Jiaotong University,Lanzhou 73oo70, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: With regards to the low precision and poor robustness of fuzzy C-means clustering algorithm (FCM) in the underdetermined mixing matrix estimation,this paper proposedan algorithm using genetic simulated anealing optimized FCM(GASA-FCM)based mixed clusteringwith hough transform to solve underdetermined mixing matrix estimation.It could combinethe global search,high-precisionadvantages ofsimulatedannealingalgorithm(SA)and powerful searchability ofspaceof geneticalgorith(GA),FCMasignedthecusteringcenterpointobtainedbygeneticsimulatedannealingalgorithm, whichavoided therandomnessof initial selection.Thecenterofeach kindofdataobtainedbyclusteringbyhough transform is modified to improve the estimation accuracyof the mixing matrix.Experimental results show that the proposed algorithm significantlyimproves thestabilityofthealgorithmandtheaccuracyofthe mixing matrix estimation,andhas certainvalidity and feasibility. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words:fuzzyC-means clustering algorithm; genetic algorithm;simulatedannealing algorithm; Hough transform; mixing matrix estimation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于信号稀疏分析理论提出“两步法”的欠定盲源分离算法中，解决问题的核心是混合矩阵的估计，因为混合矩阵估计的准确性决定源信号分离的精确度。对于欠定混合矩阵估计，研究者利用观测数据在时域或时频域呈现的直线聚类特性，提出了一系列的聚类算法，通过聚类结果计算直线向量，对混合矩阵进行估计[I]。目前运用最广泛的是模糊C均值聚类算法，它是硬性C-均值的自然推广，计算简单方便，易于实现。由于FCM对初始聚类中心敏感，需要人为确定聚类数，容易陷入局部最优解，同时受噪声点及孤立点对聚类结果的影响，使混合矩阵估计的稳定性和精度都不高2。针对FCM聚类算法存在的问题，文献[3]提出基于遗传算法优化的FCM，利用遗传算法的全局搜索性能，求得初始聚类中心，避免了FCM由于聚类中心选择不当对聚类结果的影响。文献[4]提出差分进化的方法来优化模糊C-均值聚类,避免了FCM依赖初始值，容易陷入局部最优的缺陷。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文提出基于GASA-FCM混合聚类与霍夫变换的欠定混合矩阵估计算法，在把握全局搜索能力比较强的遗传算法中融入局部搜索能力较强的模拟退火算法，增强了全局和局部的搜索能力和效率。该算法在收敛时间略有增加的前提下，可以有效、快速地解决FCM 算法过于依赖初始聚类中心、易陷入局部最优的问题，提高了混合矩阵估计结果的稳定性。但是不能克服孤立点对聚类中心的影响，为此本文又利用霍夫变换来修正GASA-FCM得到的聚类结果，有效地提高了混合矩阵估计的精度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1基于信号稀疏性的欠定混合矩阵估计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一般的线性混合欠定盲源分离的数学模型可写为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx \\left( t \\right) = A s \\left( t \\right) = \\sum _ { i = 1 } ^ { N } a _ { i } s _ { i } \\left( t \\right) , t = 1 , 2 , 3 , . . . , \\mathrm { T }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： ${ \\boldsymbol { x } } ( t ) = \\left[ x _ { 1 } ( t ) , x _ { 2 } ( t ) , . . . , x _ { M } ( t ) \\right] ^ { \\mathrm { T } }$ 表示 $\\mathbf { M }$ 个观测信号；s(t)=[s,(t),s(t),sN(t)]T表示N个源信号；A∈RM为混合矩阵。当源信号稀疏时，信号在绝大多数采样点处幅值为零或者接近于零[5]。同一采样时刻，只有一个源信号的取值不为零即",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { x _ { 1 } ( t ) } { a _ { 1 i } } = \\frac { x _ { 2 } \\left( t \\right) } { a _ { 2 i } } = \\frac { x _ { 3 } \\left( t \\right) } { a _ { 3 i } } = \\ldots = \\frac { x _ { M } \\left( t \\right) } { a _ { M i } } = s _ { i } \\left( t \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "但在实际应用中大部分信号在时域中并不是充分稀疏的，因此必须寻求其他变换方法增强信号的稀疏性[。本文采用短时傅里叶变换（STFT），则式（1）的STFT表达式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX \\left( t , \\omega \\right) = A S \\left( t , \\omega \\right) = \\sum _ { i = 1 } ^ { N } a _ { i } S _ { i } \\left( t , \\omega \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $X \\left( t , \\omega \\right)$ 和 $S _ { i } \\left( t , \\omega \\right)$ 分别表示 $x ( t )$ 和 $s _ { i } \\left( t \\right)$ 的 STFT 变换。信号经过STFT变换后，式（2）可改写为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\cfrac { X _ { 1 } ( t , \\omega ) } { a _ { 1 i } } = \\cfrac { X _ { 2 } \\left( t , \\omega \\right) } { a _ { 2 i } } = \\cfrac { X _ { 3 } \\left( t , \\omega \\right) } { a _ { 3 i } } = . . . = \\cfrac { X _ { M } \\left( t , \\omega \\right) } { a _ { M i } } = S _ { i } \\left( t , \\omega \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 基于GASAFCM的混合聚类算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1模糊C-均值聚类 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "模糊C-均值聚类属于基于目标函数的模糊聚类算法的范畴[7]。FCM是一种优化算法，它通过优化目标函数求出每个数据点隶属度，达到数据点分类的结果，FCM算法简单，且精确度较高，是一种经典的混合矩阵估计聚类算法[8]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设样本集合为 $X = \\left( { \\boldsymbol { x 1 , x 2 , . . . , x n } } \\right)$ ，将其分成c个模糊组，并求每组的聚类中心 $c _ { i } \\left( i = 1 , 2 , . . . , C \\right)$ ，使目标函数达到最小。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FCM有一个归一化的规定，即整个数据集的隶属度总和为1。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { i = 1 } ^ { c } u _ { i j } = 1 , \\quad \\forall j = 1 , . . . , n\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FCM的目标函数：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ \\left( U , c _ { 1 } , . . . , c _ { c } \\right) = \\sum _ { i = 1 } ^ { c } J _ { i } = \\sum _ { i = 1 } ^ { c } \\sum _ { j } ^ { n } u _ { i j } ^ { m } d _ { i j } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了约束目标函数，引入拉格朗日乘子 $\\lambda$ ，构造新的目标函数：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { J \\left( U , c _ { 1 } , . . . , c _ { c } , \\lambda _ { 1 } , . . . , \\lambda _ { n } \\right) = J \\left( U , c _ { 1 } , . . . , c _ { c } \\right) + \\displaystyle \\sum _ { j = 1 } ^ { n } \\lambda _ { j } \\Biggl ( \\sum _ { i = 1 } ^ { c } u _ { i j } - 1 \\Biggr ) } } \\\\ { { = \\displaystyle \\sum _ { i = 1 } ^ { c } \\sum _ { j } ^ { n } u _ { i j } ^ { m } d _ { i j } ^ { 2 } + \\sum _ { j = 1 } ^ { n } \\lambda _ { j } \\Biggl ( \\sum _ { i = 1 } ^ { c } u _ { i j } - 1 \\Biggr ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对上式求偏导，得到目标函数的最小值，得到聚类中心：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc _ { i } = \\frac { \\displaystyle \\sum _ { j = 1 } ^ { n } u _ { i j } ^ { m } x _ { j } } { \\displaystyle \\sum _ { j = 1 } ^ { n } u _ { i j } ^ { m } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "隶属度：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { i j } = { \\frac { 1 } { \\displaystyle \\sum _ { k = 1 } ^ { c } \\left( { \\frac { d _ { i j } } { d _ { k j } } } \\right) ^ { 2 / ( m - 1 ) } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FCM流程如图1所示",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/1c98ddab3435a4e46891bfc9616ca2acad39715c152f16876d9cdea468447ea1.jpg",
+        "img_caption": [
+            "图1FCM流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2遗传模拟退火算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "遗传模拟退火算法是一种基于组合思想而产生的混合优化算法[9]。在把握搜索过程总体能力比较强的遗传算法中融入局部搜索能力较强的模拟退火算法，增强了全局和局部的搜索能力和效率。这两种算法结合后，在搜索能力上相互补充，是一种在性能上更优良的搜索算法，提高了整个算法更方面的搜索能力，降低了对参数的要求[10]，具有较明显的优越性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "遗传模拟退火算法的总体流程与基本的遗传算法相类似，先产生随机的初始解，利用遗传算法进行全局搜索；然后通过交叉变异等操作产生新个体，再独立地对产生的各个个体进行模拟退火操作，得到下一代种群个体。重复此过程，直至满足。基本流程如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）初始化参数（最大迭代次数、遗传算法交叉率、模拟退火算法初始温度等);b）随机产生初始种群;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c）用适应度函数计算初始种群中所有个体的适应度；d）选择种群中的个体进行交叉变异操作，产生新种群；e)将模拟退火操作运用于新种群的各个个体，产生新个体；f）计算个体的适应度，根据适应度值进行评价；g）判定终止条件，若满足则输出最优解，算法结束；若不病足则转到步骤d)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3基于SAGA-FCM的混合聚类算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了有效的改善FCM局部收敛性，采用SAGA-FCM的混合聚类算法，通过模拟退火算法较强的局部搜索能力和遗传算法较强的全局搜索能力，提高其聚类结果的鲁棒性。其流程如图3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a45fe0de9f47966a83b766f6343a4cd7a4021eb2dc937c2afbc468eb79ca75e.jpg",
+        "img_caption": [
+            "图2 GASA-FCM流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 霍夫变换修正聚类中心",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "霍夫变换是将图形空间中的数据变换到参数空间[I]。经过霍夫变换，图形空间中直线上的点在参数空间中对应的曲线相交于一点，交点处会形成极值点。利用霍夫变换估计混合矩阵的主要思路是：将时频域中的观测信号进行霍夫变换，由同一聚类直线上的观测点变换得到的所有曲线会相交形成极值点，通过对极值点进行累加得到局部极大值点的位置，计算直线向量，进而得到混合矩阵的估计。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设图形空间里过点 $( \\mathbf { \\boldsymbol { x } } , \\mathbf { \\boldsymbol { y } } )$ 的直线为 $y = a x + b$ ，对直线进行转换到变换空间 $\\rho - \\theta$ 里的参数方程如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho = x \\mathrm { c o s } ( \\theta ) + y \\mathrm { s i n } ( \\theta )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\rho$ 表示直角坐标系中原点到直线的距离； $\\theta$ 表示 $\\mathbf { x }$ 轴与直线法线的夹角。霍夫变换的原理如图4所示。霍夫变换将图形空间里同一直线上的点A、B、C、D变换为参数空间里不同的曲线A'、B、 $\\mathbf { C ^ { \\prime } }$ 、D'且相交于一点 $\\mathbf { \\nabla } \\mathbf { P ^ { \\prime } }$ ，通过检测P'坐标位置参数从而估计直线所在方向[12]。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/87229ebef8754fbdfb41e2e82fde13e075e45b7ea642273b17479177715725ed.jpg",
+        "img_caption": [
+            "图3霍夫变换原理"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于语音信号存在稀疏性，对于欠定情况下的观测数据点主要集中在 $\\mathfrak { n }$ 条直线上，直线向量：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nl = \\left[ \\begin{array} { c c c c c c } { \\sin \\theta _ { 1 } } & { \\sin \\theta _ { 2 } } & { \\sin \\theta _ { 3 } } & { \\cdots } & { \\sin \\theta _ { M - 2 } } & { \\sin \\theta _ { M - 1 } } \\\\ { \\cos \\theta _ { 1 } } & { \\sin \\theta _ { 2 } } & { \\sin \\theta _ { 3 } } & { \\cdots } & { \\sin \\theta _ { M - 2 } } & { \\sin \\theta _ { M - 1 } } \\\\ & { \\cos \\theta _ { 2 } } & { \\sin \\theta _ { 3 } } & { \\cdots } & { \\sin \\theta _ { M - 2 } } & { \\sin \\theta _ { M - 1 } } \\\\ & & { \\cdots } & { \\ddots } & & \\\\ & & & { \\cos \\theta _ { M - 2 } } & { \\sin \\theta _ { M - 1 } } \\\\ & & & & & { \\cos \\theta _ { M - 1 } } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式（12）中 $\\| l \\| = 1 ~ , ~ \\left( \\theta _ { 1 } , \\theta _ { 2 } , \\cdots , \\theta _ { \\scriptscriptstyle M - 1 } \\right) \\in \\left[ 0 , \\pi \\right) ^ { \\scriptscriptstyle M - 1 }$ 。将直线转 换到参数空间为 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho = l ^ { T } x\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将聚类得到的结果进行霍夫变换修正聚类中心，弥补了孤立点对估计精度的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文提出的基于GASA-FCM混合聚类和霍夫变换的欠定混合矩阵估计，首先对时频域的观测信号利用GASA-FCM进行聚类，得到混合矩阵估计的初值；再利用霍夫变换对每类数据的聚类中心进行修正，得到混合矩阵的估计值。本文提出算法的具体步骤如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a）观测信号经过短时傅里叶变换后，观察时域和频域的散点图。b）若频域散点图中直线方向有孤立的点，采用文献[13]提出的单源时频点检测方法增强信号的稀疏性c）设定阈值去除低能量点，将剩余的观测信号按列归一化投影到M维上半空间，观察观测信号的聚类性d）采用GASA-FCM聚类算法对归一化处理后的观测信号进行聚类，得到聚类中心和初步的混合矩阵估计值e）对经过GASA-FCM聚类所得到每一类数据进行霍夫变换，检测局部极大值点的坐标参数，计算直线向量(即混合矩阵列向量)，进而得到修正后的混合矩阵估计值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4 实验仿真与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.1混合矩阵评价准则",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了评价欠定混合矩阵估计的精度，本文采用文献[14]的归一化均方误差(normalized mean square error，NMSE)和文献[15]的偏离角度两种指标来衡量所提算法的估计性能。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "归一化均方误差表达式为 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ N M S E } = 1 0 \\log _ { 1 0 } \\left[ \\frac { \\displaystyle \\sum _ { i = 1 } ^ { M } \\sum _ { j = 1 } ^ { N } \\Bigl ( a _ { i j } - a _ { i j } \\Bigr ) ^ { 2 } } { \\displaystyle \\sum _ { i = 1 } ^ { M } \\sum _ { j = 1 } ^ { N } a _ { i j } ^ { \\phantom { + } 2 } } \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中：混合矩阵的行数和列数分别为M、N；混合矩阵 $A$ 和估计矩阵 $\\mathrm { \\bf { A } }$ 第 $i$ 行 $j$ 列元素分别为 $a _ { i j } \\setminus a _ { i j }$ 。NMSE 越小，则估计的混合矩阵越精确。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "偏离角度表达式为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\na n g ( a _ { i } , \\tilde { a } _ { i } ) = \\frac { 1 8 0 } { \\pi } \\mathrm { a r c c o s } \\Bigg ( \\frac { < a _ { i } , \\tilde { a } _ { i } > } { \\left\\| a _ { i } \\right\\| \\cdot \\left\\| \\tilde { a } _ { i } \\right\\| } \\Bigg )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式（14）表示 $a _ { i }$ 与 $\\tilde { a } _ { i }$ 的夹角。其中： $a _ { i }$ 为初始矩阵 $\\mathrm { \\bf A }$ 的第$i$ 列； $\\tilde { a } _ { i }$ 为估计矩阵 $\\tilde { \\mathrm { ~ A ~ } }$ 的第 $i$ 列( $i = 1 , 2 , \\cdots , N$ )。偏离角度越小,混合矩阵 $\\tilde { \\mathrm { ~ A ~ } }$ 的性能越好。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2 实验仿真与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了验证上述算法的有效性，本实验在MATLABR2010b环境下，进行一系列仿真对比实验，源信号采用NOIZEUS语音库的语音信号，采样频率为 $8 \\mathrm { k H z }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "仿真1将三路源信号混合成两路观测信号，即 $N = 3 , \\mathrm { M } = 2$ 。随机生成 $2 \\times 3$ 的混合矩阵为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { A } = { \\left[ \\begin{array} { l l l } { - 0 . 3 6 3 3 } & { 0 . 6 2 0 7 } & { - 0 . 6 8 4 8 } \\\\ { 0 . 9 3 1 7 } & { - 0 . 7 8 4 1 } & { 0 . 7 2 8 8 } \\end{array} \\right] }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "三路源信号经过混合矩阵A，得到的两路观测信号时域波形如图4所示。对观测信号进行短时傅里叶变换，选用Hanning窗，窗口长度为512，叠合长度为256。变换后的观测信号时频域散点图如图5所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/47b8ff1a62f046c4895847601a9821a0b1330e735a6d5b332ec8be7deabbc626.jpg",
+        "img_caption": [
+            "图4两路观测信号"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f21efaeaad5fdcdfae64a14a929a26f42dd91bae4e2a8b0adf3b2e6922d17a43.jpg",
+        "img_caption": [
+            "图5时频域散点图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图5可知，观测信号在频域的方向性不清晰，本文采用提出的时频单源点检测方法增强观测信号的稀疏性，使其呈现出良好的方向性，设定阈值 $\\varepsilon = 0 . 1 5$ 去除低能量点[16]。对剩余的观测信号进行聚类，得到混合矩阵的估计。时频单源点检测后的散点图和归一化散点图如图6所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/63e836376b37b47c892118ffbecd1df0810f39038885f9916b26eae204f9f9dd.jpg",
+        "img_caption": [
+            "图6时频单源点检测后的散点图和归一化散点图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验参数设置为：幂指数 $\\scriptstyle \\mathbf { p } = 3$ ;最大迭代次数 $T _ { \\mathrm { m a x } } = 1 0 0$ ；目标函数的终止容限 $\\sigma ^ { = } 1 \\mathrm { e } { - } 6 \\dddot { \\ z }$ 冷却系数 $\\mathtt { q } { = } 0 . 6$ 初始温度 $T _ { 0 } = 1 0 0$ ·终止温度 $T _ { e n d } = 2$ ；最大遗传代数 $G _ { \\mathrm { m a x } } = 1 0$ 。为了说明本文算法的有效性，对比FCM、GAFCM、GASAFCM和本文算法分别所得到的混合矩阵。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FCM算法估计的混合矩阵：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\mathsf { A } } _ { F C M } = \\left[ \\begin{array} { c c c } { - 0 . 3 7 6 1 } & { 0 . 6 1 5 9 } & { - 0 . 6 7 3 5 } \\\\ { 0 . 9 2 6 6 } & { - 0 . 7 8 7 2 } & { 0 . 7 3 9 1 } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "GAFCM算法估计的混合矩阵：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\mathsf { A } } _ { G A F C M } = \\left[ \\begin{array} { c c c } { - 0 . 3 7 2 5 } & { 0 . 6 2 2 0 } & { - 0 . 6 7 5 2 } \\\\ { 0 . 9 2 8 0 } & { - 0 . 7 8 3 0 } & { 0 . 7 3 7 6 } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "GASAFCM算法估计的混合矩阵：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\mathsf { A } } _ { G A S A F C M } = \\left[ \\begin{array} { c c c } { - 0 . 3 6 5 4 } & { 0 . 6 1 8 9 } & { - 0 . 6 8 2 9 } \\\\ { 0 . 9 3 0 8 } & { - 0 . 7 8 5 5 } & { 0 . 7 3 0 5 } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文算法估计的混合矩阵：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\mathbf { A } } = \\left[ \\begin{array} { c c c } { - 0 . 3 6 5 2 } & { 0 . 6 2 1 3 } & { - 0 . 6 8 3 6 } \\\\ { 0 . 9 3 0 9 } & { - 0 . 7 8 3 6 } & { 0 . 7 2 9 8 } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用归一化均方误差对比混合矩阵估计的精度，分析算法的运行时间，如表1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c74890951077a1515ca8dddfeea74a1431248db962850dedcfd3b6ccd86fb310.jpg",
+        "table_caption": [
+            "表1各算法的归一化均方误差和运行时间的对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>对比算法</td><td>NMSE/dB</td><td>运行时间/s</td></tr><tr><td>FCM</td><td>-38.1792</td><td>1.2237</td></tr><tr><td>GAFCM</td><td>-40.4446</td><td>1.4626</td></tr><tr><td>GASAFCM</td><td>-52.4875</td><td>2.2719</td></tr><tr><td>本文算法</td><td>-56.1383</td><td>2.9528</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过计算估计混合矩阵与初始矩阵每一列的偏离角度，进一步分析混合矩阵的估计精度，如表2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "仿真2将四路源信号混合成三路观测信号，即 $\\Nu { = } 4$ $\\scriptstyle \\mathbf { M } = 3$ 。随机生成 $3 \\times 4$ 的混合矩阵为",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9645bca3be82752f216e8dce04bbe5f57160f8f45faa4c60ed1f1bbbfcfb7eb8.jpg",
+        "table_caption": [
+            "表2估计的 $\\tilde { \\mathrm { ~ A ~ } }$ 与初始A的偏离角度对比/。"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"3\">ai与ai的偏离角度</td></tr><tr><td>ang(a,a)</td><td>ang(a,a2)</td><td>ang(a,a)</td></tr><tr><td>对比算法 FCM</td><td>0.7894</td><td>0.3260</td><td>0.8760</td></tr><tr><td>GAFCM</td><td>0.5681</td><td>0.0975</td><td>0.7461</td></tr><tr><td>GASAFCM</td><td>0.1308</td><td>0.1306</td><td>0.1460</td></tr><tr><td>本文算法</td><td>0.1181</td><td>0.0447</td><td>0.0893</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a72907f6a2c89b7555152e8dbe89a25796d2140d6b4b9c057b161394a6a5e6a0.jpg",
+        "img_caption": [
+            "图7三路观测信号"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7586a4e8f65d4c5ad5462c00b7e75c8d4d367dec300c4b50d1e8f1c7571b9078.jpg",
+        "img_caption": [
+            "图8时频域散点图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/307c7761d9c666a00444038b67378b367474d1ab77b39501197b82353c500ca6.jpg",
+        "img_caption": [
+            "图9时频单源点测后的散点图和归一化散点图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "FCM算法估计的混合矩阵：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\tilde { \\mathbf { A } } } _ { F C M } = \\left[ \\begin{array} { c c c c } { 0 . 9 3 3 0 } & { - 0 . 9 7 5 5 } & { - 0 . 1 0 5 6 } & { 0 . 1 4 7 7 } \\\\ { - 0 . 2 1 7 1 } & { - 0 . 2 1 4 8 } & { 0 . 6 7 8 2 } & { - 0 . 7 5 0 5 } \\\\ { 0 . 2 4 4 7 } & { - 0 . 0 4 7 3 } & { 0 . 7 2 6 9 } & { - 0 . 6 0 7 8 } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "GAFCM算法估计的混合矩阵：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\tilde { \\mathbf { A } } } _ { G A F C M } = \\left[ \\begin{array} { c c c c } { 0 . 9 5 2 0 } & { - 0 . 9 7 6 6 } & { - 0 . 1 9 6 7 } & { 0 . 1 8 2 1 } \\\\ { - 0 . 2 1 6 3 } & { - 0 . 2 0 8 0 } & { 0 . 6 5 8 3 } & { - 0 . 7 3 7 2 } \\\\ { 0 . 2 1 6 6 } & { - 0 . 0 5 4 5 } & { 0 . 7 2 6 7 } & { - 0 . 6 5 0 7 } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "GASAFCM算法估计的混合矩阵：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\mathbf { A } } _ { G A S A F C M } = \\left[ \\begin{array} { c c c c } { 0 . 9 5 7 0 } & { - 0 . 9 7 8 2 } & { - 0 . 2 0 9 4 } & { 0 . 1 9 4 1 } \\\\ { - 0 . 2 1 6 0 } & { - 0 . 1 9 8 4 } & { 0 . 6 4 4 4 } & { - 0 . 7 5 3 0 } \\\\ { 0 . 1 9 3 8 } & { - 0 . 0 6 1 6 } & { 0 . 7 3 5 5 } & { - 0 . 6 2 8 7 } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文算法估计的的混合矩阵：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\mathbf { A } } = \\left[ \\begin{array} { c c c c } { 0 . 9 5 3 3 } & { - 0 . 9 7 5 7 } & { - 0 . 2 1 1 8 } & { 0 . 1 9 6 7 } \\\\ { - 0 . 2 2 4 9 } & { - 0 . 2 1 0 8 } & { 0 . 6 4 5 8 } & { - 0 . 7 5 0 0 } \\\\ { 0 . 2 0 1 6 } & { - 0 . 0 6 4 0 } & { 0 . 7 3 3 6 } & { - 0 . 6 3 1 5 } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/23a261917be0c88eb2d9e08efe262d32d93a7b83144940899d184c16b92734f9.jpg",
+        "table_caption": [
+            "表3各算法的归一化均方误差和运行时间的对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>对比算法</td><td>NMSE/dB</td><td>运行时间/s</td></tr><tr><td>FCM</td><td>-23.8101</td><td>1.4990</td></tr><tr><td>GAFCM</td><td>-34.7021</td><td>1.7417</td></tr><tr><td>GASAFCM</td><td>-40.0089</td><td>2.6494</td></tr><tr><td>本文算法</td><td>-48.0329</td><td>3.4143</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/8904df8c7b3f83682ab2f1303512d700fc7e605d08f2d58e64e101e02d71590e.jpg",
+        "table_caption": [
+            "表4估计的 $\\tilde { \\mathrm { ~ A ~ } }$ 与初始 $\\mathrm { \\bf A }$ 的偏离角度对比/。"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">对比算法</td><td colspan=\"3\">ai与äi的偏离角度</td></tr><tr><td>ang(a,a)</td><td>ang(a,a2) ang(a,a)</td><td>ang(a4,a4)</td></tr><tr><td>FCM</td><td>2.7756</td><td>0.7631</td><td>6.1014</td><td>2.6912</td></tr><tr><td>GAFCM</td><td>0.9981</td><td>0.5376</td><td>0.9872</td><td>1.4791</td></tr><tr><td>GASAFCM</td><td>0.5299</td><td>0.9669</td><td>0.2045</td><td>0.2300</td></tr><tr><td>本文算法</td><td>0.1909</td><td>0.2408</td><td>0.2819</td><td>0.1807</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表1和3混合矩阵的NMSE和运行时间可知，本文提出的算法虽然NMSE比其他几种算法小，且混合矩阵估计的精度越准确，但算法的运行时间明显比其他几种算法长。而由表 2和4可知，本文算法得到的混合矩阵每列的偏离角度均最小，估计精度更准确，与表1和3分析所得结论一致，本文算法能够有效、准确地估计混合矩阵。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了验证本文算法的实用性，通过大量实验数据及仿真1和2，分析NMSE对比如图10所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/04baee9a0d0f36bae8ca2bed36eb3cf883dbf91fdceb7bf511fb88b64f11ee97.jpg",
+        "img_caption": [
+            "图10NMSE对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图10可知，随着源信号个数的增加，估计的混合矩阵NMSE不断增大。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "欠定混合矩阵估计的精度直接影响源信号的分离效果。针对传统的FCM算法过于依赖初始聚类中心，搜索过程易陷入局部最优，本文将遗传算法与模拟退火算法相结合，互相取长补短，提出一种基于GASA-FCM 混合聚类与霍夫变换的欠定混合矩阵估计算法，增强了局部和全局搜索能力，有效改善了传统FCM算法容易陷入局部最优的缺陷；同时，为了提高混合矩阵估计的精度，对聚类结果引入霍夫变换修正聚类中心。仿真实验结果表明,该算法提高了混合矩阵估计精度和算法鲁棒性，对混合矩阵的估计是可行和有效的。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Dong T B,Yang J S.A robust underdetermined mixing matrix estimation algorithm [J].Journal of Astronautics,2013,34(3): 426-433.   \n[2]毕晓君，宫汝江．基于混合聚类和网格密度的欠定盲矩阵估计[J]．系 统工程与电子技术,2012,34(3):614-618.   \n[3]Alata M,Molhim M,Ramini A. Using GA for optimization of the fuzzy Cmeans clustering algorithm [J].Research Journal of Applied Sciences Engineering& Technology,2013,5(3):695-701.   \n[4] 何嘉婧，王晋东，于智勇．基于模糊C-均值的改进人工蜂群聚类算法 [J]．计算机应用研究,2016,33(5):1342-1345.   \n[5]孙洁娣，李玉霞，温江涛，等．基于方向密度检测与霍夫变换的混合矩 阵估计[J].北京理工大学学报,2016,36(11):1188-1193.   \n[6]Llerena-AguilarC,Gil-PitaR, Utrilla-Manso M, et al.A new mixing matrix estimation method based on the geometrical analysis of the sound separation problem [J]. Signal Processing,2016,134:166-173.   \n[7]李心杰，贾进章，李兵．基于SAGA-FCM的煤与瓦斯突出预测方法[J]. 煤田地质与勘探,2016,44(2):14-18.   \n[8] 熊拥军，刘卫国，欧鹏杰．模糊C-均值聚类算法的优化[J].计算机工 程与应用,2015,51(11):124-128.   \n[9] 殷旅江，杨立君，胡明茂，等．基于混合遗传模拟退火的模糊C-均值   \n[10]聚类算法[J].湖北汽车工业学院学报,2015(3):62-65.   \n[11]张焯，徐玲，杨丹．基于改进模糊C 均值的软件缺陷预测研究[J].计 算机工程与应用,2015,51(7):136-140.   \n[12]孙洁娣，李玉霞，温江涛，等．基于密度的空间聚类与霍夫变换相结合 的欠定盲源分离混合矩阵估计[J].高技术通信，2014,24(12):1270- 1278.   \n[13] Sun J,Li Y,Wen J,et al. Novel mixing matrix estimation approach in underdetermined blind source separation [J].Neurocomputing,2016,173 (P3): 623-632.   \n[14] Guo Q,Ruan G,Nan P. Underdetermined mixing matrix estimation algorithm based on single source points [J].Circuits Systems & Signal Processing, 2017: 1-15.   \n[15]Li Y,Nie W,Ye F,et al.A mixing matrix estimation algorithm for underdetermined blind source separation [J]. Circuits Systems & Signal Processing,2016,35 (9): 3367-3379.   \n[16] Zhi-Tao C,Ke J.A new algorithm to estimate mixing-matrix of underdetermined blind signal separation [C]//Proc of the 8th International Conference on Computational Intelligence and Security.[S.1.]:IEEE Computer Society,2012: 374-377.   \n[17] Li Y,Nie W,Ye F,et al.A complex mixing matrix estimation algorithm in under-determined blind source separation problems [J]. Signal Image & Video Processing,2016: 1-8. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

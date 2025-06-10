@@ -1,0 +1,195 @@
+doi:10.13866/j.azr.2018.05.30
+
+# 干旱区生态网络构建
+
+以吐鲁番市高昌区为例①祖拜旦·阿克木1，阿里木江·卡斯木}²，陈探³，刘玉贞1（1．新疆师范大学地理科学与旅游学院，新疆 乌鲁木齐830054；2．新疆师范大学丝绸之路经济带城镇化发展研究中心，新疆 乌鲁木齐830054;3．南京大学地理与海洋科学学院，江苏 南京210046)
+
+摘要：以吐鲁番市高昌区为例,利用2015Landsat,通过形态学空间格局分析（MSPA)方法,将绿地景观划分为7种类型;然后从MSPA景观类型中提取对生态网络构建具有重要作用的核心区和桥接区进行连接度评价，根据结果选取“源地”;采用最小路径方法建立研究区的潜在生态廊道。结果表明：该研究区生态网络是由26条潜在廊道组成,廊道大多分布在研究区南部,潜在廊道数目较少。该成果可为干旱区的生态网络构建研究提供参考和依据，具有一定的借鉴意义。
+
+关键词：形态学空间格局分析（MSPA)；景观连通性；最小路径方法；生态网络；吐鲁番市高昌区
+
+我国西北干旱区域是指 $3 5 ^ { \circ } \mathrm { N }$ 以北部和 $1 0 6 ^ { \circ } \mathrm { E }$ 的西部区域，也属于世界干旱区域之一，是脆弱性生态系统的重要组成部分(1-2]。随着经济全球化和城市化的推进，我国城市建设用地规模在不断地扩张，生态用地面积不断减少，生态景观破碎化现象更加明显[3-4]。景观越破碎,则景观内原有的斑块面积越小[5-6],一个大斑块将破碎成几个小斑块,随着此现象的循环可导致斑块的消失、被其他景观斑块覆盖，使得区域原有的生态网络结构被改变、截断生态廊道，最终会影响景观连通性和区域生态系统功能的变化，对生态系统的健康完整性有一定的损害，尤其对干旱区生态系统的影响更加严重。生态网络借用生境廊道与踏脚石（steppingstone）来连接景观内破碎的生境斑块，提高景观的连接度，对区域生态环境的改善和维持具有重要意义[7-8)
+
+通过构建城市生态网络的城市生态问题[9],减少城市生态用地的进一步破碎化。从19世纪生态网络思想的出现至今，生态网络的研究方面获得了较大的进步[10],研究的方法也逐渐多样化,其中形态学空间格局方法（morphological spatial pattern a-nalysis，MSPA）（11-2]近几年在景观格局变化分析已被广泛的运用，一种是以描述图像的几何形状和连通性为目的，对栅格图像进行度量、分割与识别的图像处理方法[13-15]。国内外很多学者采用 MSPA方法进行生态网络研究，如Kang等[16利用MSPA方法分析了韩国首尔市2000一2009年的绿色基础变化特征;Saura 等[17]在MSPA 和景观网络连通性方法的基础上分析了西班牙两个尺度的森林区域中各结构要素的重要性，并识别出研究区的关键核心和桥接区;许峰等[18]将在 MSPA 和最小路径方法的基础上构建了四川省巴中西部新城的生态网络，并在重力模型的基础上提出了研究区生态网络优化对策;曹翊坤等[19]结合使用LSMM和 MS-PA方法分析了深圳市绿色景观连通性；于亚平等[20]利用 MSPA方法对南京市（1988—2013 年)绿色基础设施时空格局变化进行了定量分析。该方法在我国中东部地区运用较多，而在西北内陆地区运用较少。
+
+本文在上述研究的基础上，以西北干旱典型区域的吐鲁番市高昌区为例，借用景观生态学的理论与方法，采用MSPA方法分析和探讨高昌区生态网络构建。
+
+# 1研究区概况
+
+吐鲁番市 $\mathrm { ( 8 8 ^ { \circ } 2 9 ^ { \prime } 2 8 ^ { \prime \prime } } \sim 8 9 ^ { \circ } 5 4 ^ { \prime } 3 3 ^ { \prime \prime } \mathrm { E } , 4 2 ^ { \circ } 1 5 ^ { \prime }$ $4 2 ^ { \circ } 1 5 ^ { \prime } 1 0 ^ { \prime \prime } .$ ）$4 3 ^ { \circ } 3 5 ^ { \prime } \mathrm { N }$ )位于新疆天山东部的形如橄榄状的一个东西横置的山间盆地，高山盘绕四周,是世界第二低盆地，我国最低的盆地，地理位置优越，是新丝绸之路和亚欧大陆桥的重要交通枢纽。从2015年7月撤地设市，行政范围为高昌区，托克逊县和鄯善县。吐鲁番市分为北部、中部、南部三个部分。其中，北部是海拔高度在 $1 0 0 0 \ \sim 5 \ 4 4 5 \ \mathrm { m }$ 之间的山区地貌;中部为高昌区主要的土地利用区域;南部区域将通往库鲁塔格山，土壤类型为棕色荒漠土，大部分面积为未利用地，此区域主要用于矿产资源开发。本文的研究区是作为高昌区主要土地利用的中部区域(图1a）。
+
+![](images/906f3b28d553fd2457c1a3f5e4c30de8b782e375d3908a2f71f2bb9357090727.jpg)  
+图1研究区位置(a）与土地利用现状图(b)  
+Fig.1Geographical location of the study area (a）and the land use map（b)
+
+# 2 数据来源与预处理
+
+# 2.1 数据来源
+
+主要数据有： $\textcircled{1}$ 高昌区Landsat8影像数据（空间分辨率为 $3 0 \mathrm { ~ m ~ }$ ，条带号为：141，30），成像时间为2015年10月，此时间段的图像云量小于 $3 \%$ ，有利于目视解释; $\textcircled{2}$ 高昌区边界数;研究区DEM数据（分辨率为 $3 0 \mathrm { ~ m ~ }$ ）。
+
+# 2.2 预处理
+
+对高昌区遥感影像数据进行了波段组合、裁剪，将投影和地理坐标系分别设为world1884和UTM。使用ENVI软件进一步对研究区遥感影像数据进行增强处理，在提高影像数据质量的同时，为下一步数据处理做准备；然后，利用ENVI软件对研究区影像数据进行基于目视解译的监督分类，并对分类结果进行精度检验后得到的Kappa值为0.84，符合精度要求，最终得到栅格大小为 $3 0 \mathrm { ~ m ~ } \times 3 0 \mathrm { ~ m ~ }$ 的研究区土地利用分类图（图1b）。从研究区的实际情况和研究目的出发，将研究区域土地利用类型划分为建设用地、林草地、耕地、水体、未利用地等5个类型。由于研究区中的林地覆盖面积较少，林草地景观的颜色特征相似，二者很难区别，林地与草地的生态阻力值比较接近，在土地分类时将林草地合为一个类型。
+
+# 3研究方法
+
+# 3.1重要生境斑块识别与源地选择
+
+3.1.1基于MSPA 的林草地景观类型分类生态网络是由“源地”及连接源地的廊道组成，一般“源地”选取为林草地景观中面积较大的斑块，而MSPA方法是从像元层面上识别出对景观连通性起重要作用的生景斑块（如源地、廊道等），更精准的对栅格图像的空间格局进行功能型结构上的分类，从而增加了生态源地和生态廊道选取的科学性[18,20]。根据MSPA景观格局分析，对数据类型的要求包括前景数据和背景数据两种数据类型（图2），在高昌区土地利用类型数据的基础上，利用重分类方法从土地利用类型数据中提取出林草地类型作为前景数据，其余的土地利用类型设为背景数据，将研究尺度定为 $3 0 \mathrm { ~ m ~ } \times 3 0 \mathrm { ~ m ~ }$ 栅格大小，在八邻域分析和边缘宽度为1（对应的物理距离为 $3 0 \mathrm { ~ m ~ }$ )基础上，通过MS-PA 方法前景数据识别为核心区、岛状斑块、空隙、边缘区、桥接区、环岛区、支线等7种类型(表1），得到MSPA景观类型图（图3），并对分析结果进行统计（表2）；最后，根据MSPA分类结果提取核心区和桥接区，选为连通性分析的景观类型。它们对维持连通性具有重要意义[2I],也是构建研究区生态网络和阻力面的重要数据源。
+
+![](images/9014b05ffc006831e823e995785c039929205d7cea1c61bfad04d7abbcbaeea0.jpg)  
+图2基于MSPA的景观类型图
+
+Tab.1Definitions of landscape types based on MSPA   
+
+<html><body><table><tr><td>MSPA 景观类</td><td>生态学含义</td></tr><tr><td>核心区</td><td>前景数据中面积大于指定边缘宽度（最小尺寸）的斑 块，通常这些斑块的面积较大，被认为是主要的栖息 地区域，核心区是生态网络中的关键要素，因此，通常 认为是建立生态网络的生态源地</td></tr><tr><td></td><td>岛状斑块是在前景数据7个类型中唯一的相互不连接 岛状斑块连的斑块。边缘区和空隙围绕着核心区布局，桥接 区、环岛区、支线与核心区相连</td></tr><tr><td>孔隙</td><td>前景数据与背景数据之间形成的过渡区域，是核心区 内部边界</td></tr><tr><td>边缘区</td><td>前景数据与背景数据之间形成的过渡区域，核心区域 的外部边界</td></tr><tr><td>桥接区</td><td>前景数据中连接两个或两个以上的核心斑块面积小 于指定边缘宽度的狭长区域，相当于生态网络中的廊 道，对景观连接、生物迁移具有重要的意义</td></tr><tr><td>环岛区</td><td>指与核心区区域连接的前景数据，物种迁移的捷径</td></tr><tr><td>支线</td><td>指从核心区域扩张的前景数据中，但不扩展连接到另 一个核心区域</td></tr></table></body></html>
+
+表1MSPA景观类型及定义  
+表2景观类型分类统计  
+Tab.2Statistical results of landscape types   
+
+<html><body><table><tr><td>MSPA景 观类型</td><td>景观面 积/hm²</td><td>占林草地 面积%</td><td>MSPA景 观类型</td><td>景观面 积/hm²</td><td>占林草地 面积/%</td></tr><tr><td>核心区</td><td>9 015.93</td><td>34.34</td><td>环道区</td><td>703.89</td><td>2.69</td></tr><tr><td>桥接区</td><td>3683.07</td><td>14.03</td><td>岛状斑块</td><td>2 974.14</td><td>11.33</td></tr><tr><td>边缘区</td><td>6 295.95</td><td>23.98</td><td>支线</td><td>3 249.18</td><td>12.37</td></tr><tr><td>孔隙</td><td>335.07</td><td>1.28</td><td>总计</td><td>26 257.23</td><td>100</td></tr></table></body></html>
+
+![](images/ab17408752ba3f0ac951ae092b377768a8bf43c60d1b600626edc84bd55c2ea5.jpg)  
+Fig.2Landscape types based on MSPA   
+图3基于MSPA的景观分类  
+Fig.3Landscape classification based on MSPA
+
+3.1.2研究区核心区和桥接区连通性评价景观连通性越高，越有利于生物种类的保护与生态网络的构建。MSPA景观类型中的核心区斑块面积与其余类型的斑块相比较大，是生态网络真的重要因素，而桥接区相当于生态网络中的“廊道”，结合本文研究目的,选取IIC、PC、dI等[22-24]景观连通性分析指数，对核心区和桥接区进行连通性分析，选择连通性较好的核心区为生态网络中的"源地”。
+
+在Conefor连通性分析软件的基础上，综合考虑研究区尺度和生境斑块的适宜性[25]，设置了800$\mathrm { m } \phantom { - } 1 0 0 0 \ \mathrm { m } \phantom { - } 1 \ 5 0 0 \ \mathrm { m }$ 三种斑块距离阈值,通过分析最终决定 $1 \ 5 0 0 \ \mathrm { m }$ 设为距离阈值,斑块连通性概率设置为0.5，将对核心区和桥接区进行连接度评价；根据dPC值对核心区和桥接区进行排序，dPC值大于3的18个核心区斑块选为源地，且对其余的核心区、桥接区按dPC值进行划分。核心区和桥接区划分类型及取值范围为如下：一般核心区（ $\mathrm { d P C } <$ 0.1）重要核心区（ $0 . 1 \leqslant \mathrm { d } \mathrm { P C } < 1$ ）、极重要核心区（ $1 \leqslant \mathrm { d P C } < 3$ ）、一般桥接区( $\mathrm { d P C } < 0 . 4$ 、重要桥接区 $( 0 . 4 \leqslant \mathrm { d P C } < 1$ ）、极重要桥接区( $\mathrm { { d P C } } \geqslant 1$ ）。
+
+$$
+\mathrm { I I C } = \frac { \sum _ { i = 1 } ^ { n } \sum _ { j = 1 } ^ { n } \displaystyle \frac { \boldsymbol { a } _ { i } \cdot \boldsymbol { \cdot } \boldsymbol { a } _ { j } } { 1 + n \boldsymbol { l } _ { i j } } } { \boldsymbol { A } _ { L } ^ { 2 } }
+$$
+
+$$
+\mathrm { P C } = \frac { \sum _ { i = 1 } ^ { n } \sum _ { j = 1 } ^ { n } p _ { i j } ^ { * } a _ { i } \cdot a _ { j } } { A _ { L } ^ { 2 } }
+$$
+
+$$
+\mathrm { d } \mathrm { I } = { \frac { I - I _ { \mathrm { r e m o v e } } } { I } } \times 1 0 0 \%
+$$
+
+公式 $( 1 ) \sim ( 3 )$ 中： $n$ 为景观中斑块的总数目;参数$a _ { i }$ 和 $a _ { j }$ 分别代表第 $\mathbf { \chi } _ { i }$ 斑块与第 $j$ 斑块的面积；参数$n l _ { i j }$ 是 $\mathbf { \chi } _ { i }$ 与 $j$ 两斑块间的连接；参数 $A _ { L }$ 表示景观总面积;参数 ${ p } _ { i j } ^ { * }$ 为某物种在斑块 $i$ 与斑块 $j$ 直接扩散的最大可能性值;参数 $I$ 表示为某一个景观的连接度指数,参数 $I _ { \mathrm { r e m o v e } }$ 表示将 $\mathbf { \chi } _ { i }$ 斑块从该景观中剔除后的景观连接度指数值。
+
+# 3.2基于最小路径模型的生态网络构建
+
+景观阻力是指物种在不同景观单元之间进行迁移的难易程度[26-27]。根据各景观重要程度的不同,使用ArcGIS中的栅格计算器对研究区的源地、核心区、桥接区、其他土地利用数据及高程(DEM)赋值（阻力值和重要性系数），并根据各因子的重要性系数,通过叠加分析[28]建立了由景观类型和坡度组成的阻力面。该阻力面构建生态网络有阻力作用（表3），阻力值越少，代表斑块适应度越高，越有益于构建生态网络;然后，以源地数据和成本数据作为数据源，构建基于最小路径的生态网络(图4)；最后，在图谱理论方法的基础上[29],选择 $\alpha$ 指数（网络闭合度指数） $\boldsymbol { \mathscr { s } }$ 指数(线点率指数)与 $\gamma$ 指数（网络连接度指数)等指数[公式(4）～（6)]，对得到的研究区生态网络进行了网络闭合度与连接水平的定量评价（表4）。
+
+$$
+\alpha = \frac { L - V + 1 } { 2 V - 5 }
+$$
+
+Tab.3Resistance values of different landscape types   
+
+<html><body><table><tr><td>阻力 因子</td><td>亚类</td><td>阻力值</td><td>重要性 系数</td><td>阻力 因子</td><td>亚类</td><td>值</td><td>阻力重要性 系数</td></tr><tr><td>源地</td><td></td><td>1~4</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>核心区</td><td>极重要</td><td>5</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>极重要</td><td>10</td><td></td><td></td><td>1~8</td><td>1</td><td></td></tr><tr><td></td><td>一般</td><td>15</td><td></td><td></td><td>8~16</td><td>5</td><td></td></tr><tr><td>桥接区</td><td>极重要</td><td>10</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>极重要</td><td>15</td><td></td><td></td><td>16~24</td><td>10</td><td></td></tr><tr><td></td><td>一般</td><td>20</td><td>0.7</td><td>坡度</td><td></td><td></td><td>0.3</td></tr><tr><td>林草地</td><td></td><td>30</td><td></td><td></td><td>24~32</td><td>20</td><td></td></tr><tr><td>耕地</td><td></td><td>50</td><td></td><td></td><td>32~40</td><td>40</td><td></td></tr><tr><td>水域</td><td></td><td>100</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>建设用地</td><td></td><td>1000</td><td></td><td></td><td>40~48</td><td>60</td><td></td></tr><tr><td>未利用地</td><td></td><td>1 500</td><td></td><td></td><td>>48</td><td>80</td><td></td></tr></table></body></html>
+
+![](images/0f8df473e13153bea336f7fcf81a1cd7cbe046ecd2fe05145f4ff142061d1405.jpg)  
+图4研究区潜在生态廊道  
+Fig.4Potential ecological corridor in the study area
+
+# 表4生态网络图谱连接度水平评价
+
+表3不同景观类型的阻力值  
+Tab.4Evaluation on the connectivity level of ecological network map   
+
+<html><body><table><tr><td>网络</td><td>点数</td><td>连接数</td><td>α指数</td><td>β指数</td><td>γ指数</td></tr><tr><td>最小路径</td><td>18</td><td>26</td><td>0.29</td><td>1.44</td><td>0.54</td></tr></table></body></html>
+
+$$
+\beta = \frac { L } { V }
+$$
+
+$$
+\gamma = \ { \frac { L } { L _ { \operatorname* { m a x } } } } = { \frac { L } { 3 \left( \ V - 2 \right) } }
+$$
+
+式中：参数 $L$ 表示廊道数目； $V$ 表示节点数目； $L _ { \mathrm { m a x } }$ 表示最大可能连接数目。网络闭合度指数与物种穿越生态网络的扩散路径有关， $\alpha$ 指数越高，则生物物种可以选择的路径就越多，反之则相反；当可供的路径数目多时，不仅可以降低被捕食的可能性，也能避免干扰[30]。 $\beta$ 指数是指所构建的生态网络的结构类型，根据 $\beta$ 指数的大小可以确定生态网络结构类型，当 $\beta$ 指数值小于1时，形成的生态网络结构类型为树状型结构；当 $\beta$ 指数值为1时，该生态网络的结构类型为单一回路；当 $\beta$ 指数值大于1则表明形成的生态网络廊道数目较多，生态网络结构和网络连接水平更为复杂[31-32]。 $\gamma$ 指数代表网络中所有节点被连接的程度。
+
+# 4 结果分析
+
+# 4.1 重要生境斑块识别与源地选择分析
+
+（1）从研究区土地利用类型图中可知，该区域总面积为191 $4 4 2 . \ 0 6 \ \mathrm { \ h m } ^ { 2 }$ ，建设用地面积为$9 ~ 5 7 5 . 0 1 ~ \mathrm { h m } ^ { 2 }$ ,耕地面积为 $4 1 6 9 8 . 8 0 \mathrm { ~ h m } ^ { 2 }$ ,林草地面积为 $2 6 ~ 2 5 7 . 2 3 ~ \mathrm { h m } ^ { 2 }$ ,水域总面积是 $1 0 5 . 5 7 ~ \mathrm { h m } ^ { 2 }$ ,未利用地面积为 $1 1 3 ~ 8 0 5 . 1 8 ~ \mathrm { h m } ^ { 2 }$ ,可知面积最大的是未利用地，水域面积最少。
+
+（2）从MSPA景观分类中可知，林草地景观中核心区面积为 $9 \ 0 1 5 . \ 9 3 \ \mathrm { \ h m } ^ { 2 }$ ，占林草地面积的$3 4 . 3 4 \%$ ，主要分布在研究区南部区域;桥接区总面积为 $3 \ 6 8 3 . 0 7 \ \mathrm { h m } ^ { 2 }$ ，占林草地面积的 $1 4 . 0 3 \%$ ；边缘区面积为 $6 \ : 2 9 5 . 9 5 \ : \mathrm { h m } ^ { 2 }$ ,占林草地的 $2 3 . 9 8 \%$ ;空隙面积为 $3 3 5 . 0 7 ~ \mathrm { h m } ^ { 2 }$ ,占林草地的 $1 . 2 8 \%$ ；环道区面积为 $7 0 3 . 8 9 \ \mathrm { h m } ^ { 2 }$ ,占林草地的 $2 . 6 8 \%$ 。岛状斑块总面积为 $2 9 7 4 . 1 4 \mathrm { h m } ^ { 2 }$ ，占林草地景观面积的$1 1 . 3 2 \%$ ,岛状斑块在研究区西北、西部、东部区域,分布较为集中，北部和南部较扩散；支线面积为$3 \ 2 4 9 . 1 8 \ \mathrm { h m } ^ { 2 }$ ，占林草地面积的 $1 2 . 3 7 \%$ 0
+
+（3）从研究区的核心区和桥接区的连通性评价可知（图5和表5），连通性值较大的核心区和桥接区斑块布局在研究区的南部区域，斑块面积也较大，在核心区斑块周围桥接区斑块的集聚性较高，较为密集，并且在研究区南部的桥接区连通性值较大；斑块连通性值较小的核心区和桥接区大多布局在研究区东北和西北区域且空间分布较分散，表明这些区域间连通性比较差；在所选取的18个源地斑块中，大多斑块面积较大。虽然在源地斑块中也有小型斑块，但它们对维持城市生态过程同样具有重要价值，其作用不容忽视。
+
+![](images/ef0797b2423477c09128c98c1a57bbeaf73184384a2122197cda0b8f8790f9ea.jpg)  
+图5源地、核心区和桥接区分类   
+Fig.5Classification of the source,core and bridging areas
+
+表5源地景观连通性指数及排序结果  
+Tab.5Landscape connectivity index of the source areas and their ordered results   
+
+<html><body><table><tr><td>排序</td><td>编号</td><td>dIIC</td><td>dPC</td><td>排序</td><td>编号</td><td>dIIC</td><td>dPC</td></tr><tr><td>1</td><td>1044</td><td>32.40</td><td>27.73</td><td>10</td><td>1011</td><td>1.65</td><td>4.72</td></tr><tr><td>2</td><td>1027</td><td>30.06</td><td>27.06</td><td>11</td><td>941</td><td>1.52</td><td>4.62</td></tr><tr><td>3</td><td>1061</td><td>1.867</td><td>9.61</td><td>12</td><td>860</td><td>2.28</td><td>4.44</td></tr><tr><td>4</td><td>1060</td><td>3.80</td><td>8.73</td><td>13</td><td>1084</td><td>1.73</td><td>4.42</td></tr><tr><td>5</td><td>865</td><td>12.08</td><td>8.72</td><td>14</td><td>989</td><td>2.01</td><td>4.02</td></tr><tr><td>6</td><td>864</td><td>12.00</td><td>8.47</td><td>15</td><td>1026</td><td>1.51</td><td>3.91</td></tr><tr><td>7</td><td>1001</td><td>1.42</td><td>5.68</td><td>16</td><td>657</td><td>4.56</td><td>3.89</td></tr><tr><td>8</td><td>822</td><td>3.12</td><td>4.93</td><td>17</td><td>839</td><td>4.38</td><td>3.55</td></tr><tr><td>9</td><td>1072</td><td>2.05</td><td>4.73</td><td>18</td><td>930</td><td>1.20</td><td>3.04</td></tr></table></body></html>
+
+# 4.2基于最小路径的生态网络构建
+
+从图4及土地利用类型中可知，基于最小路径的潜在廊道数目为26条，廊道数目较少，其中潜在廊道长度最长为 $1 5 ~ 7 9 3 ~ \mathrm { ~ m ~ }$ ,是编号为1的源斑块和编号为15的源斑块之间的廊道，而长度最短的廊道长度为 $1 0 2 \mathrm { ~ m ~ }$ ，是编号为15的源斑块和编号为18的源斑块之间的廊道。从表5可以看出，研究区 $\alpha$ 指数为0.29，表明生物物种在穿越生态网络时可供选择的扩散路径较少； $\beta$ 指数值为1.44，表明该研究区潜在的生态网络连接程度较为复杂； $\gamma$ 指数值为0.54，说明该研究区建立的潜在生态网络中源地节点被连接的程度不是很高。
+
+生态廊道主要分布在该区的南部、东南部，该区域属于郊区，含有较大面积的抗旱植物及保护耕地的防护林，是主要的生态系统源地，因此，构建的生态网络主要分布在此区域，与研究区实际林草地分布情况吻合，而研究区东部是主要的建成区和农业用地，北部、西部、西北部土地利用类型为荒漠、戈壁等，未利用地、耕地及乡村建设用地几乎没有大型源地斑块，从而无法构建与南部连接的生态廊道。从生态网络分布结构可得到区域生态系统质量及区域之间的连通性不高，这与研究区自然和人为因素有密切的关系，由于研究区属于干旱区域，区内包含较大面积的荒漠、戈壁等植物难以生存的土地类型，而水资源的极度短缺导致原有的大型绿地斑块的退化或被破坏，造成原有绿地斑块的破碎化和孤立。生态廊道的建设有助于避免生态源地斑块的进一步破碎化和孤岛化，借用廊道可连通绿地斑块之间的连接，减少生态隔离效应，尽可能使城市绿色空间结构及生态功能得到改善，生态系统之间的联系进一步加强，从而达到研究区生态安全水平的提高目的。
+
+# 5结论与讨论
+
+本文在MSPA、景观连通性和景观图谱理论方法的基础上，将研究区2015年土地利用数据中的林草地土地利用类型划分为7种类型，选取核心区和桥接区，分别对它们进行景观连接度评价，然后根据得到连接度指数，分别对核心区和桥接区进行分类，并以核心区连接度指数值为依据选取了生态源地，最后利用源地和阻力面数据构建了基于最小路径的研究区生态网络。
+
+研究区生态网络是由26条潜在廊道组成的，生态廊道主要分布在研究区南部，而其他地区几乎没有生态廊道，生态网络密度低及不够完善，需加强生态网络建设，提高林草地覆盖面积,加强林草地生态保护措施，尽力避免林草地景观的进一步破碎化。此外，研究区需通过规划和设计新的生态源地及生态廊道，以不断增加生态廊道数目，提高研究区生态网络密度，建议加强研究区重要生境源斑块的保护，根据网络模拟的斑块连接路径，通过在路径某点处增添小型跳脚石斑块来提高生态过程连接及完善研究区的生态网络。
+
+MSPA分析方法在景观的研究尺度上敏感性较大[33],边缘宽度的不同对核心区的最小尺寸和被分为核心区的斑块数量有影响。增加边缘宽度，则核心区的最小尺寸变大，从而减少核心区的斑块数量，导致核心区的“损失”及其余6个类型斑块的增加，增加边缘宽度使得面积较小的核心区转换为岛状类型，把狭窄的核心类型划分到桥接类型中，因此，选择合适的分析尺度极为重要。本文根据研究区实际情况，参考前人研究成果，将MSPA分析粒度大小（栅格大小)设为 $3 0 \mathrm { ~ m ~ } \times 3 0 \mathrm { ~ m ~ }$ （边缘宽度1、2、4对应的粒度大小分别为 $3 0 \mathrm { ~ m ~ } . 6 0 \mathrm { ~ m ~ } . 9 0 \mathrm { ~ m ~ } )$ 。
+
+进行连通性分析时连通距离阈值不同，导致同一斑块的重要性值不同。当距离阈值较小时，只突出小型源斑块对网络连接的重要性，这将无法反应大型斑块对网络连接的重要性。构建生态网络时除了源地的选择至关重要外，阻力面的构建也很关键。如果对各阻力因子赋值的阻力值改变时，则阻力面、廊道数目、分布和生态网络结构也发生变化。本文将分别对土地利用类型数据和坡度数据赋值不同的阻力值与重要性系数，利用叠加分析法得到了生态网络阻力面，结合了土地利用数据和地形数据。如果将自然因素、人文因素和物理因素等相结合建立生态阻力面，则最终得到的结果会更为科学。
+
+# 参考文献(References）:
+
+[1]郑艺,张丽,周宇,等.1982—2012 年全球干旱区植被变化及驱 动因子分析[J].干旱区研究,2017,34（1）：59-66.［Zheng Yi,Zhang Li,Zhou Yu,etal.Vegetationchange and itsdriving factors in global dry lands during the period of 1982-2012[J].Arid Zone Research,2017,34(1) :59 -66.]   
+[2]邓兴耀,姚俊强,刘志辉.基于GIMMS NDVI 的中亚干旱区植 被覆盖时空变化[J].干旱区研究,2017,34（1):10-19.[Deng Xingyao,Yao Junqiang,Liu Zhihui. Spatiotemporal dynamic change of vegetation coverage in arid regions in central Asia based on GIMMS NDVI[J].Arid Zone Research,2017,34(1):10-19.]   
+[3]Maria Ignatieva,Glenn H Stewart,Colin Meurk.Planning and design of ecological networks in urban areas[J].Landscape and Ecological Engineering,2011,7（1):17-25.   
+[4]阿里木江·卡斯木,唐兵,安瓦尔·买买提明.基于遥感数据 的中亚五国城市时空扩展变化研究[J].人文地理,2012,27 (4）:83-87.[Alimujang Kasimu,Tang Bing,Anwaer Maimaitiming. Study on spatio-temporal dynamics of urban expansion in five central Asian cities based on remote sensing data[J].Human Geography,2012,27(4) :83 -87.]   
+[5]梁二敏,张军民,杨卫红.新疆玛纳斯河流域绿洲景观生态脆 弱性时空分异[J].干旱区研究,2017,34（4)：950-957.［Liang Ermin,Zhang Junming,Yang Weihong. Spatiotemporal variation of landscape ecological vulnerability in oasis in the Manas riverbasin,Xinjiang[J].Arid Zone Research,2017,34（4）:950 - 957.]   
+[6]常学礼,于云江,曹艳英.半干旱地区沙地景观破碎化趋势分 析——以科尔沁沙地为例[J].干旱区研究,2004,21(4)21- 26.[Chang Xueli,Yu Yunjiang,Cao Yanying.Analysis on the fragmentation trend of sandy landscapes in the semi-arid areas:A case study in Horqin Sandland[J].Arid Zone Research,2004,21 (4):21-26.]   
+[7]刘建锋,肖文发,江泽平,等.景观破碎化对生物多样性的影响 [J].林业科学研究,2005,18(2）:222-226.[Liu Jianfeng,Xiao Wenfa,Jiang Zeping,et al.A study on the influence of landscape fragmentation on biodiversity[J].Forest Research,20o5,18（2）： 222 - 226.]   
+[8]Jongman RHG.Landscape panning for biological diversity in Europe[J].Landscape Reserch,2002,27(2）:187 -195.   
+[9]单金霞.地理信息技术支持的城乡结合部生态用地网络空间 优化［D].江苏:南京大学,2015.[Shan Jinxia.Spatial Optimization of Ecological Land Network Supported by Geographic Information Technology in Urban-rural Fringe Zone[D]. Jiangsu:Nanjing University,2015.]   
+[10］侍昊.基于RS 和GIS 的城市绿地生态网络构建技术研究— 扬州市为例[D].江苏：南京林业大学,2010.[Shi Hao.Study on City Green Space Ecological Network Based on RS and GIS:A Case Study in Yangzhou[D]. Jiangsu:Nanjing Forestry University, 2010.]   
+[11]Vogt P,iters KH,Iwanowski M,etal.Mappng landspo dors[J].Ecological Indicators,2007,7(2）:481 -488.   
+[12]邱瑶,常青,王静.基于MSPA的城市绿色基础设施网络规 划——以深圳市为例[J].中国园林,2013,29(5)：104－108. [ Qiu Yao,Chang Qing,Wang Jing.MSPA-based planning of urban green infrastructure network-a case of Shenzhen[J]. Chinese Landscape Architecture,2013,29(5）:104 -108.]   
+[13]SoilleP,Vogt P.Morphological segmentationof binarypattens [J].Recognition Letters,2009,30(4）:456 -459.   
+[14]Wickhama JD,Ritters K H,Wadea T G,et al. A national assessment of green infrastructure and change for the conterminous United States using morphological image processing[J].Landscape and Urban Planning,2010,94(3-4）:186 -195.   
+[15]VogtP,Ferrari JR,LookingbillTR,etal.Mapping functional connectivity[J].Ecological Indicators,2009,9（1） :64-71.   
+[16]Kang Sangjun,Kim Jin-Oh. Morphological analysis of green infrastructure in the Seoul metropolitan area,South Korea[J].Landscape and Ecological Engineering,2015,11(2）:259 -268.   
+[17]Saura S,Pascual-Hortal L.A new habitat availability index to integrate connectivity in landscape conservation planning: Comparison with existing indices and application to a case study[J].Landscape Urban Planning,2007,83(2）:91-103.   
+[18］许峰,尹海伟,孔繁花,等.基于 MSPA与最小路径方法的巴中 西部新城生态网络构建[J].生态学报,2015,35（19）：6425- 6 434.[Xu Feng,Yin Haiwei,Kong Fanhua,et al.Developing ecological networks based on MSPA and the least-cost path method ：A case study in Bazhong western new district[J].Acta Ecologica Sinica,2015,35(19):6 425-6 434.]   
+[19］曹翊坤,付梅臣,谢苗苗,等.基于LMSS 与 MSPA 的深圳市绿 色景观连通性研究[J].生态学报,2015,32（2）：526－536. [Cao Yikun,Fu Meichen,Xie Miaomiao,et al.Landscape connectivity dynamics of urban green landscape based on morphological spatial pattern analysis(MSPA）and linear spectral mixture model （LSMM） in Shenzhen[J].Acta Ecologica Sinica,2015,35（2）: 526 -536.]   
+[20］于亚平,尹海伟,孔繁花,等.基于 MSPA 的南京市绿色基础设 施网络格局时空变化分析[J].生态学杂志,2016,35（6）： 1 608 -1616.[Yu Yaping,Yin Haiwei,Kong Fanhua,et al.Anal
+
+ysis of the temporal and spatial pattern of the green infrastructure network in Nanjing,based on MSPA[J].Chinese Journal of Ecology,2016,35(6) :1 608-1 616.]
+
+[21]于亚平，尹海伟,孔繁花，等.南京市绿色基础设施网络格局与 连通性分析的尺度双应「J」：应用生念字报,2U10,2/（／）： 2 119-2127.[Yu Yaping,Yin Haiwei,Kong Fanhua,et al. Scale efect of Nanjing urban green infrastructure network pattern and connectivity analysis[J]. Chinese Journal of Applied Ecology, 2016,27(7) :2 119 -2 127.]
+
+[22］贾振毅,陈春娣,童笑笑,等.三峡沿库城镇生态网络构建与优 化——以重庆开州新城为例[J].生态学杂志,2017,36（3）：   
+782-791.[Jia Zhenyi,Chen Chundi,Tong Xiaoxiao,et al.Developing and optimizing ecological networks for the towns along the three gorges reservoir: A case of Kaizhou new town, Chongqing [J].Chinese Journal of Ecology 2017,36(3）:782-791.] [23］刘世梁,杨瑶婕,安晨,等.基于景观连接度的土地整理生态效 应评价[J].生态学杂志,2012,31（3）:689-695.[Liu Shiliang,Yang Juejie,An Chen,et al.Ecological effect of land consolidation:An assessment based on landscape connectivity[J].Chinese Journal of Ecology,2012,31(3）:689 -695.] [24］吴健生,刘洪萌,黄秀兰,等.深圳市生态用地景观连通性动态 评价[J].应用生态学,2012，23（9）:2 543-2 549.[Wu Jiansheng,Liu Hongmeng,Huang Xiulan,et al. Dynamic evaluation on landscape connectivity of ecological land：A case study of Shenzhen,Guangdong province of south China[J]. Chinese Journal of AppliedEcology,2012,23(9）:2 543-2 549.] [25]尹海伟,孔繁花,祈毅,等.湖南省城市群生态网络构建与优化 [J].生态学报,2011,31（10）:2 863-2874.[Yin Haiwei,Kong Fanhua,Qi Yi,et al.Developing and optimizing ecological networks in urban agglomeration of Hunan Province,China[J].Acta Ecologica Sinica,2011,31(10):2 863 -2 874.] [26]陈杰,梁国付,丁圣彦.基于景观连接度的森林景观恢复研 究——以巩义市为例[J].生态学报，2012,32（12)：3773-   
+3 781.[Chen Jie,Liang Guofu,Ding Shengyan.Landscape connectivity analysis for the forest landscape restoration:A case study of Gongyicity[J].Acta Ecologica Sinica,2012,32（12）:3 773-   
+3 781.] [27]Clergeau P,Burel F.The role of spatio-temporal patchconnectivity at the landscape level;an example in a bird distribution[J].Landscape Urban Planning,1997,38(1-2):37-43. [28］黎燕琼,张海鸥,龚固堂,等.成都市景观生态安全格局动态变 化[J].西南林业大学学报,2012,32(6）:48-53.[Li Yanqiong,Zhang Haiou,Gong Gutang,et al. The dynamic change of landscape ecological security pattrn in Chengdu Municipality[J]. Journal of Southwest Forestry University,2012,32(6）:48-53.] [29］王海珍,张利权.基于GIS、景观格局和网络分析法的厦门本岛 生态网络规划[J].植物生态学报,2005,29（1)：144-152. [Wang Haizhen,Zhang Liquan.A GIS,landscape pattern and network analysis based planning of ecological networks for Xiamen island[J].Chinese Journal of Plant Ecology,2005,29（1）:144-
+
+# 152.]
+
+[30]Ostapowicz K,Vogt P,Riitters KH,et al.Impact of scale on morphological spatial pattern of forest[J].Landscape Ecology,2008, 23(9):1 107 -1 117.
+
+[31]孔繁花,尹海伟.济南城市绿地生态网络构建[J].生态学报， 2008,28(4）:1 711-1 719.[KongFanhua,YinHaiwei.Developing green space ecological networks in Jinan city[J].Acta Ecologica Sinica,2008,28(4):1 711-1 719.]
+
+[32]张蕾,苏里，汪景宽，等.基于景观生态学的鞍山市生态网络构 建[J].生态学杂志2014，33(5）:1337-1343.[ZhangLei,Su
+
+Li,Wang Jingkuan，et al.Establishment of ecological network based on landscpe ecology in Anshan[J].Chinese Journal of Ecology,2014,33(5):1 337-1343.]
+
+[33]王晶晶，尹海伟,孔繁花.多元价值目标导向的区域绿色基础 设施网络规划——以古黄河周边区域为例[J].山东师范大学 学报（自然科学版）,2016,31（3）：77-83.［WangJingjing,Yin Haiwei,Kong Fanhua.Developing green infrastructure networks based on diverse value objectives:A case of the surrounding area of ancientyellow river[J].Journal of Shandong Normal University （Natural Science Edition）,2016,31(3） :77-83.]
+
+# Development of Ecological Network in Arid Area : A Case Study in Gaochang District, Turpan City
+
+Zubaidan Akemu1,Alimujiang Kasimu $^ { 1 , 2 }$ ,CHEN Tan³,LIU Yu-zhen1 (1. College of Geographical Science and Tourism,Xinjiang Normal University,Urumqi 830054,Xinjiang,China; 2.Research Center for Urbanization Development of Silk Road Economic Belt ,Xinjiang NormalUniversity, Urumqi 830054,Xinjiang,China; 3．College of Geographic and Oceanographic Sciences,Nanjing University,Nanjing 210o46,Jiangsu,China)
+
+Abstract:In this study,the maps of land use in Gaochang District,Turpan,Xinjiang were obtained using the supervised classification based on the remote sensing images in 2O15.The morphological spatial pattrn analysis(MSPA）was used to classifythe green space landscapes into 7 types based on the data of forest land and grasland in the landuse maps.Moreover,the core area and the bridging area,which played an important role in ecological network construction,were extracted to evaluate their connectivity degrees.During this process,the minimum path method was used to establishthe potential ecological corrdors inthe study area.Theresults showed thatthe ecological network inthe study area was consisted of 26 potential corridors.The corridors were mostly located in the southern part of the study area,and the potential corridors were not so many.The ecological network was not perfect and needed to be further optimized and improved.The research results could be referred in researching the ecological network construction in the highly fragmented area sand in other arid regins.
+
+KeyWords:morphological spatial paternanalysis（MSPA）；landscape connectivity；least-cost path；ecological network；Gaochang District；Turpan

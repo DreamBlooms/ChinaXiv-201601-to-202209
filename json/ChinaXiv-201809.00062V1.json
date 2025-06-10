@@ -1,0 +1,586 @@
+[
+    {
+        "type": "text",
+        "text": "基于改进的狼群算法的新型广义熵图像分割",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "焦瑞芳a,b,c，范九伦a,b,c ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(西安邮电大学a.通信与信息工程学院;b.电子信息勘验应用技术公安部重点实验室;c.陕西省无线通信与信息处理技术国际合作研究中心，西安 710121)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了更准确地分割出图像中需要提取的目标，提出改进的狼群算法与新型广义熵结合实现图像分割。在狼群算法游走行为中引入周期性随机扰动策略动态调整算法权重，并在狼群算法攻击行为中引入混沌全局搜索，将此改进的狼群算法与新型广义熵结合完成图像分割，用峰值信噪比作为图像分割评价指标对结果进行验证。结果表明，该算法能够更加准确地分割出图像中需要提取的目标，比基本狼群算法与新型广义熵结合的分割结果更准确清晰。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：狼群算法；周期随机扰动；混沌全局搜索；新型广义熵；峰值信噪比 中图分类号：TP391.41 doi:10.3969/j.issn.1001-3695.2018.05.0357 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Novel generalized entropy image segmentation based on improved wolf pack algorithm ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jiao Ruifanga, b,c, Fan Jiuluna, b, c (a.School of Communications& Information Engineering,b.Key Laboratoryof Electronic Information Inspection& ApplicationofMinistryofPublicSecurity,c.Shaanxi InternationalCooperationResearch Centerfor WirelessCommunication &Information Processing,Xi'an University ofPosts & Telecommunications,Xi'an Shaanxi 710l21,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Inorder tosegment interestedobjects inimage acuratelyandquickly,animproved WolfPack Algorithm(WPA)is proposedcombined with novel generalizedentropytorealize the efectivesegmentationofimage targets.First introduced thea periodic random disturbance strategy in the walking behaviorof WolfPack Algorithm(WPA),making it adaptivelyadjust the inertia weight,and introducedachaotic globalsearch intotheatack behaviorofWPA.Thencombinedthe WPAwiththe novel generalized entropytoachieveimagesegmentation.Finally,theresultsareverifiedbyusing thepeak signaltonoiseratio image segmentation evaluation index.The algorithm can more acurately segment the desired target inthe image,which is more accurate and clearer than the basic wolf pack algorithm. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: WPA; periodic random disturbance strategy; chaotic global search;thenewtypeof generalized entropy;peak signal to noise ratio ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "图像分割是一项重要的图像处理技术，广泛应用于医学图像处理、工业缺陷检测、遥感图像分析、地质勘探等多个领域。图像分割是将人们感兴趣的，具有一致特性的区域提取出来，以供研究人员进一步分析研究。图像分割方法可分为基于阈值的分割方法、基于边缘检测的分割方法和基于区域的分割方法等[1]。其中，基于阈值的分割方法是最基本也是应用最为广泛的分割算法，因为它计算量较小、性能稳定。Pun 首先将信息熵应用于图像分割[2]；Kapur提出了最大熵阈值法[3]，最大熵阈值分割方法最大化图像香农熵的阈值，当原始图像的背景和前景的直方图具有相等的概率分布时可以获得较好的分割效果，但是当图像的背景和前景的直方图不具有相等的概率分布时，最大熵方法可能产生次优的结果。2016年Nie等人[4将传统热力学中的新型广义熵方法应用于图像分割，但是在该研究中固定了新型广义熵的参数，失去了熵参数的优势，熵参数的优化选取能够很大程度提高熵阈值的分割性能。在参数优化算法领域，2007年，吴胜虎等人[5]提出了一种新的群智能--狼群算法。狼群算法参数设置方便，已经被广泛应用到多个领域。基于狼群算法，国内外有众多学者提出了很多改进的狼群算[6.8.9]，主要优化方向有两个，一个是引入基于指数的非线性收敛因子策略，以便动态平衡狼群算法的搜索能力；一个是引入动态权重策略，使得狼群算法在运行过程中能提高收敛速度，并且动态适应算法环境。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在数字图像处理中，图像中的目标和背景常常难以准确且高效的分割，未采用优化算法的基于新型广义熵的阈值分割图像效果并不理想，甚至会出现错分点，本文在狼群算法中引入周期扰动的微粒群算法动态调整权重，再利用混沌全局搜索完成狼群算法的攻击环节，将改进的狼群算法与新型广义熵结合，得到较好的图像分割结果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 新型广义熵 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "用 $I$ 表示一幅大小为 $M ^ { * } N$ 的图像，用 $G = \\{ 0 , 1 , \\cdots , L - 1 \\}$ 表示$\\boldsymbol { L }$ 个灰度， $n _ { i }$ 表示图像中灰度级为 $i$ 的像素总个数。灰度级为 $i$ 的像素点出现的概率可表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { i } = \\frac { n _ { i } } { M ^ { * } N } , \\ i = 0 , 1 , \\cdots , L - 1\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "那么，整幅图像的灰度级概率分布可记为 $H = \\left\\{ h _ { 0 } , h _ { 1 } , \\cdots , h _ { { \\scriptscriptstyle L } - 1 } \\right\\}$ ，假设图像中像素点通过一个阈值 $t$ 分为两类 $C _ { 0 }$ 和 $C _ { 1 }$ ， $\\boldsymbol { C } _ { 0 }$ 包含像素灰度级 $\\{ 0 , 1 , \\cdots , t \\}$ ， $C _ { 1 }$ 包含像素灰度级 $\\left\\{ t + 1 , t + 2 , \\cdots , L - 1 \\right\\}$ ， $C _ { 0 }$ 和 $C _ { 1 }$ 分别表示一副图像的分割目标和背景区域。那么两类像素点出现的总概率记为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\omega _ { 0 } = \\sum _ { i = 0 } ^ { t } h _ { i } , \\omega _ { 1 } = \\sum _ { i = t + 1 } ^ { L - 1 } h _ { i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此，从上述定义中导出两个新的概率分布，一个用于对象（ $C _ { 0 }$ 类)，另一个用于背景（ $C _ { 1 }$ 类)，反之亦然。这两个概率分布可以记为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ b { D C _ { 0 } } = \\frac { h _ { 0 } } { \\omega _ { 0 } } , \\frac { h _ { 1 } } { \\omega _ { 0 } } , \\cdots , \\frac { h _ { t } } { \\omega _ { 0 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD C _ { 1 } { = } \\frac { h _ { t + 1 } } { \\omega _ { 1 } } , \\frac { h _ { t + 2 } } { \\omega _ { 1 } } , \\cdots , \\frac { h _ { L - 1 } } { \\omega _ { 1 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据Masi提出的新型广义熵公式[7]，文献[4]提出的一种新型广义熵的图像阈值准则定义为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { r } \\left( I / t \\right) = E _ { r } \\left( C _ { 0 } \\right) + E _ { r } \\left( C _ { 1 } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中:",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { E _ { r } \\left( C _ { 0 } \\right) = - \\displaystyle \\frac { 1 } { 1 - r } \\log \\Biggl [ 1 - \\left( 1 - r \\right) \\sum _ { i = 0 } ^ { t } \\Biggl ( \\displaystyle \\frac { h _ { i } } { \\omega _ { 0 } } \\Biggr ) \\log \\Biggl ( \\displaystyle \\frac { h _ { i } } { \\omega _ { 0 } } \\Biggr ) \\Biggr ] } } \\\\ { { E _ { r } \\left( C _ { 1 } \\right) = - \\displaystyle \\frac { 1 } { 1 - r } \\log \\Biggl [ 1 - \\left( 1 - r \\right) \\sum _ { i = t + 1 } ^ { L - 1 } \\Biggl ( \\displaystyle \\frac { h _ { i } } { \\omega _ { 1 } } \\Biggr ) \\log \\Biggl ( \\displaystyle \\frac { h _ { i } } { \\omega _ { 1 } } \\Biggr ) \\Biggr ] } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $r > 0$ ，新型广义熵阈值分割法的最优阈值 $t ^ { * }$ 取为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt ^ { * } = \\arg \\operatorname* { m a x } _ { 0 < t < L - 1 } \\left[ E _ { r } \\left( I / t \\right) \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[4]中指出参数最佳取值范围为 $0 . 5 \\leq r \\leq 1 . 5$ ，并且建议取 ${ r = } 1 . 2$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 改进的狼群算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1狼群算法基本原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "狼群算法模拟头狼、探狼和猛狼相互协作共同完成捕食，抽象为三种行为：游走行为、召唤行为和围攻行为，根据“胜者为王”和“强者生存”的准则来进行更新[5]。将初始目标函数值最大的作为头狼，选取除头狼外最佳的部分人工狼为探狼，其余的为猛狼并执行奔袭和围攻行为，按“胜者为王”的头狼规则对头狼位置进行更新[5]，按“强者生存”的狼群更新机制进行群体更新[5]，当出现优于当前头狼的人工狼时，则替换到当前头狼。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2狼群智能行为和规则描述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.1头狼产生规则 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "初始解空间中，最佳阈值的人工狼即为头狼，即为 $W _ { \\mathrm { l e a d } }$ ,在其后的迭代过程中，将每次计算的最优人工狼与当前头狼值进行比较，如果人工狼值更优，则替换当前头狼，更新头狼位置，如果有多个最优狼，则随机选取。另外，因为头狼已经是当前最优值，所以无须执行游走、召唤和围攻三行为，直到被下一个更优的人工狼所替代。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.2改进的游走行为 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "探狼即除头狼外，解空间里最优的 $S _ { n u m }$ 匹人工狼，在空间里搜寻最佳阈值。探狼i首先计算当前位置的目标函数 $W _ { i }$ ，如果$W _ { i } > W _ { \\mathrm { l e a d } }$ ，则表明目标函数最优解最有可能被探狼捕获，则令$W _ { \\mathrm { l e a d } } { = } W _ { i }$ ，头狼被当前的第i匹探狼所替代；如果 $W _ { i } < W _ { \\mathrm { l e a d } }$ ，探狼朝 $h$ 个方向分别前进一步，并且记录每次前进一步的后位置的目标函数值，然后再退回原位置，这个行为也就是探狼在当前位置所处的 $d$ 维空间的各个方向搜索最优值。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i d } ^ { p } = x _ { i d } ^ { p } + \\sin \\left( 2 \\pi \\times p / h \\right) \\times s t e p _ { \\alpha } ^ { d }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $p \\in \\left\\{ 1 , 2 , \\cdots , h \\right\\}$ ，根据探狼所在位置计算得到的目标函数为$W _ { i p }$ ，选择大于当前位置的目标函数值 $W _ { i 0 }$ 最多的方向前进一步,并更新探狼的位置 $X _ { i }$ ，反复重复以上游走行为直到探狼捕获到目标函数值 $W _ { i } > W _ { \\mathrm { l e a d } }$ ,或者游走次数 $T$ 达到最大次数 $T _ { \\mathrm { m a x } }$ ，则停止游走行为。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "鉴于原始的游走行为极易陷入局部最优值，引入周期扰动的微粒群算法改进游走行为。当惯性权重设置较大，可以减小陷入局部极值点的风险，当惯性权重设置较小，搜索精度将有所提高，所以在这里，加入正弦函数和随机函数两个函数，对两个函数分别设定一约束系数，对惯性权重 $\\omega$ 交互随机扰动，这就是周期性随机扰动策略，这样可以防止在搜索时陷入局部最优值。惯性权重按照下式更新：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\omega _ { t + 1 } = \\omega _ { \\operatorname* { m a x } } - \\big ( \\omega _ { \\operatorname* { m a x } } - \\omega _ { \\operatorname* { m i n } } \\big ) \\times } \\\\ & { \\qquad \\Big ( 0 . 8 \\times \\Big | \\sin \\big ( t \\times 3 6 / T \\big ) \\Big | \\Big ) \\times \\big ( t / T \\big ) ^ { \\wedge } 5 } \\\\ & { \\qquad - 0 . 5 \\times n o r m r a n d \\big ( 0 . 5 , 0 . 2 \\big ) } \\\\ & { \\qquad \\times \\Big ( \\big ( t / T \\big ) ^ { \\wedge } 2 - t / T \\Big ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：当前迭代次数为 $t$ ，最大迭代次数为 $T$ ， $\\sin \\left( t \\times 3 6 / T \\right)$ 为周期性函数，normrand(0.5,0.2)为扰动函数， $\\omega _ { \\mathrm { m a x } }$ 为惯性权重最大值，一般取值0.9， $\\omega _ { \\mathrm { { m i n } } }$ 为对应最小值，一般取值0.4。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将该周期扰动策略的惯性权重增加到游走行为中，可描述为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } { \\frac { \\ d ^ { p } } { \\ d t ^ { d } } = x _ { i i } ^ { p } + \\sin \\left( 2 \\pi \\times p \\ d n / h \\right) \\times s t e p _ { \\alpha } ^ { d } } & { } & \\\\ & { } & { \\left( \\begin{array} { l } { \\omega _ { \\operatorname* { m a x } } - \\left( \\omega _ { \\operatorname* { m a x } } - \\omega _ { \\operatorname* { m i n } } \\right) \\times } \\\\ { \\left( 0 . 8 \\times \\left| \\sin \\left( t \\times 3 6 / T \\right) \\right| \\right) } \\\\ { \\times \\left( t \\ d / T \\right) ^ { \\wedge } 5 - 0 . 5 \\times } \\\\ { \\left( n o r m r a n d \\left( 0 . 5 , 0 . 2 \\right) \\right) } \\\\ { \\times \\left( \\left( t \\ d / T \\right) ^ { \\wedge } 2 - t \\ d / T \\right) } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.3召唤行为",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "头狼发起召唤行为，召集附近的 $M _ { n u m }$ 匹猛狼迅速靠近向头",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "狼，其中， $\\scriptstyle { M _ { n u m } = n - S _ { n u m } - 1 }$ ，得到召唤指令的猛狼以相对较大的步长 $s t e p _ { b }$ 迅速逼近头狼，则第 $k { + } 1$ 次迭代时，第 $\\textit { d }$ 维变量空间中第 $i$ 头猛狼所处位置为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i d } ^ { k + 1 } = x _ { i d } ^ { k } + s t e p _ { b } ^ { d } \\times \\left( g _ { d } ^ { k } - x _ { i d } ^ { k } \\right) / \\left| g _ { d } ^ { k } - x _ { i d } ^ { k } \\right|\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $g _ { d } ^ { k }$ 是第 $k$ 代头狼在 $d$ 维变量空间中的位置。式由两部分构成，前一部分为人工狼当前所在位置，表示的是头狼的围猎基础信息；后一部分为人工狼向头狼靠近的趋势，表示的是头狼的带头作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "鉴于头狼召唤距离最近的猛狼发起围捕，引入余弦函数[10]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { x _ { i d } ^ { k + 1 } = x _ { i d } ^ { k } + s t e p _ { b } ^ { d } \\times \\left( g _ { d } ^ { k } - x _ { i d } ^ { k } \\right) / \\left| g _ { d } ^ { k } - x _ { i d } ^ { k } \\right| \\times \\cos \\left( 2 \\pi \\times p / h \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.4改进的围攻行为",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "奔袭后，与猎物距离较近的猛狼需要和探狼合作，对猎物展开密切围攻并捕获。此时，猎物朝着头狼的位置移动，那么在 $d$ 维空间中的第 $k$ 代狼群的围攻行为可描述为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i d } ^ { k + 1 } = x _ { i d } ^ { k } + \\lambda s t e p _ { c } ^ { d } \\left| g _ { d } ^ { k } - x _ { i d } ^ { k } \\right|\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\lambda$ 为[-11间满足均匀分布的随机数， $s t e p _ { c } ^ { d }$ 为围攻步长，如果围攻后人工狼感知猎物气味浓度大于原位置感受到的猎物气味浓度，则将此人工狼的位置进行更新，否则，位置不变。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "围攻行为必须要迅速准确凶猛。故本文在此处利用混沌全局搜索，混沌全局搜索是利用混沌系统在整个解空间直接产生解向量，在其搜索过程中，每个决策变量的范围内产生一个新的解向量，然后选择所有新的解向量中最好的解向量与原来的最优解向量比较，如果新的优于原来的，则进行替换。此时，加入混沌全局搜索的围攻行为可描述为[I]",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle x _ { i d } ^ { k + 1 } = x _ { i d } ^ { k } + \\lambda s t e p _ { c } ^ { d } | g _ { d } ^ { k } - x _ { i d } ^ { k } | \\times } } \\\\ { { \\displaystyle  \\sin ( 2 \\pi \\times p / h \\frac { | z | } { | z | _ { \\operatorname* { m a x } } ( H _ { k , d } - L _ { k , d } ) } ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $L _ { k , d }$ 表示对应决策变量第 $d$ 维的最小值， $H _ { k , d }$ 表示对应决策变量第 $d$ 维的最大值，为混沌系统产生的当前混沌序列值得绝对值， $\\left. z \\right. _ { \\operatorname* { m a x } }$ 为混沌序列产值绝对值得最大值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "游走步长 $s t e p _ { a }$ ，奔袭步长 $s t e p _ { b }$ ，攻击步长 $s t e p _ { c }$ 满足以下关系：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns t e p _ { a } ^ { d } = s t e p _ { b } ^ { d } / 2 = 2 \\times s t e p _ { c } ^ { d } = \\left| \\boldsymbol d _ { \\operatorname* { m a x } } - \\boldsymbol d _ { \\operatorname* { m i n } } \\right| / S\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $s$ 为步长因子。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)将式（5）设为探狼的适应度函数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)将当前最佳分割阈值的人工狼设为头狼，头狼以外的$S _ { n u m }$ 匹人工狼设为探狼并根据式（11)进行游走行为，直到探狼$i$ 探查到的猎物气味浓度 $W _ { i } > W _ { \\mathrm { l e a d } }$ 或者达到了最大游走次数 $T _ { \\mathrm { m a x } }$ ，跳转步骤f)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "猎物按照“由强到弱”的原则分配，由随机产生的 $R$ 匹狼替换掉目标函数值最差的 $R$ 匹狼。 $R$ 数量越多，狼群个体的多样性越好，但 $R$ 数量太大又趋近于随机搜索。所以在这里， $R$ 取 $\\left[ n / \\left( 2 \\times \\beta \\right) , n / \\beta \\right]$ 间的随机整数， $\\beta$ 为群体更新比例因子。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "g)迭代过程中判断预先设置的优化精度，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)人工猛狼根据式（15）逼近猎物，如果猛狼在奔袭过程中，探测到猎物浓度较大，则立即将头狼位置替换掉，再根据式（13）进行召唤行为；否则将持续搜索直到 $d i _ { x } \\leq d _ { \\operatorname* { m a x } }$ ，转到步骤f)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.5强者生存",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e)按照“强者生存”的更新机制，根据式（15）进行狼群群体更新。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "f)头狼根据“胜者为王”的规则，根据式（15）更新解空间中的位置。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3基于改进的狼群算法的新型广义熵图像分割",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "最优值得缺点，结合更新规则搜索最优值，具体流程图1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文提出基于改进的狼群算法的新型广义熵分割算法，步骤如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "新型广义熵的分割关键在于选取最佳的分割阈值，本文将狼群算法进行改进后，克服陷入局部",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)初始化狼群算法的种群规模，设人工狼的位置 $X _ { i }$ ，数目为 $N$ ，最大迭代次数 $k _ { \\operatorname* { m a x } }$ ，探狼比例因子为 $\\alpha$ ，最大游走次数为 $T _ { \\mathrm { m a x } }$ ，距离判断因子 $\\omega$ ，步长因子 $s$ ，更新比例因子为 $\\beta$ [12]。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/85b17718d70925895db95e2205f3dfa47a8b07c5786942a3cc462aae3a0f76cc.jpg",
+        "img_caption": [
+            "图1本文算法流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4 实验结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文分别使用狼群算法与改进的狼群算法同新型广义熵结合对三幅图像进行分割处理，设定种群规模20，迭代次数为50，分割结果分别如图2\\~5所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/75b30402dc8836920fad1d14335ae185a9693cc15c4d2b0e4ea29627bb478ac0.jpg",
+        "img_caption": [
+            "图2Baboon两种算法分割结果对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "41(a)原图 (b)狼群算法 (c)本文算法",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d5c2cff2ae755a6700eefd87d98cb51cdf1e0f840043568069a50aaedf42c342.jpg",
+        "img_caption": [
+            "图3Ren两种算法分割结果对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d3ac4c51018314e2d6a2988296d60a9c578b4dab1b1f9210a08fc464e14a399c.jpg",
+        "img_caption": [
+            "图4Couple 两种算法分割结果对比",
+            "图5Airplane 两种算法分割结果对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "可以看出，在种群规模和迭代次数相同的条件下，图2中本文算法分割出的Baboon图像鬃毛更丰满，鼻子皱纹以及瞳孔细节更细腻;图3中对人的红外影像倒影和其他人影分割更清晰;图4中能够将人物更好的从暗系背景分割出来;图5中本文算法对飞机的字体图案以及山脊的分割效果更完整。每个图像的最终分割阈值如表1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/04c226b2ded5b8273ae24a955190842645f34d9db85d5327e3171a21e45c3695.jpg",
+        "table_caption": [
+            "表1四幅图像两种算法分割阈值 $t$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>分割图像</td><td>狼群算法</td><td>本文算法</td></tr><tr><td>Baboon</td><td>t = 122</td><td>t = 134</td></tr><tr><td>Ren</td><td>t = 66</td><td>t= 58</td></tr><tr><td>Couple</td><td>t=75</td><td>t= 40</td></tr><tr><td>Airplane</td><td>t =186</td><td>t = 160</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5 评价指标",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据文献[14]所描述的图像分割评价方法，采用峰值信噪比（PSNR）来评价图像分割结果，表示为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathrm { P S N R } { = } 2 0 \\log _ { 1 0 } \\biggr ( \\frac { 2 5 5 } { \\mathrm { M S E } } \\biggr ) , \\ ( \\mathrm { d B } ) } \\\\ & { \\mathrm { M S E } = \\sqrt { \\frac { \\displaystyle \\sum _ { i = 1 } ^ { m - 1 } \\sum _ { j = 1 } ^ { n - 1 } \\Bigl [ I \\left( i , j \\right) - K \\left( i . j \\right) \\Bigr ] ^ { 2 } } { m \\times n } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中: $m$ 和 $n$ 代表图像大小，MSE表示原始图像和分割图像每个像素的均方误差，I和K分别表示原始图像和分割后的图像。PSNR值越高表示对应的分割结果和优化性能越好[15]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2所示为狼群算法和本文算法对比的结果，其中N为迭代次数。可以看出，本文改进后的狼群算法分割准确度明显提",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "高。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/967fe3266fcf299f7441875da4c8d32c275849ff20da9ce579d8f1c7b3b9c1cc.jpg",
+        "table_caption": [
+            "表2图像分割质量评测"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>N</td><td>算法</td><td>Baboon</td><td>Ren</td><td>Couple</td><td>Air-plane</td></tr><tr><td rowspan=\"2\">5</td><td>狼群</td><td>16.951</td><td>15.335</td><td>14.456</td><td>17.306</td></tr><tr><td>本文</td><td>19.438</td><td>19.017</td><td>20.315</td><td>20.145</td></tr><tr><td rowspan=\"2\">20</td><td>狼群</td><td>16.462</td><td>16.215</td><td>15.103</td><td>17.489</td></tr><tr><td>本文</td><td>18.587</td><td>19.842</td><td>19.974</td><td>20.348</td></tr><tr><td rowspan=\"2\">35</td><td>狼群</td><td>17.143</td><td>16.831</td><td>15.732</td><td>18.438</td></tr><tr><td>本文</td><td>19.102</td><td>19.196</td><td>21.377</td><td>21.582</td></tr><tr><td rowspan=\"2\">50</td><td>狼群</td><td>17.489</td><td>16.375</td><td>16.371</td><td>18.251</td></tr><tr><td>本文</td><td>20.341</td><td>20.543</td><td>21.563</td><td>21.198</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6 结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了更好更稳定地对图像进行分割，本文将改进的狼群算法与新型广义熵算法结合，利用周期扰动的微粒群算法动态调整权重，以在局部搜索获得最好的最优值，再利用混沌全局搜索完成狼群算法的攻击环节，再与新型广义熵结合，实现优质的图像分割。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]周莉莉，姜枫．图像分割方法综述研究[J].计算机应用研究，2017,34 (7):1921-1928.(Zhou Lili, Jiang Feng.An overview of image segmentation methods [J].Journal of Application Research of Computers,2017,34(7):   \n1921-1928. ) [2] 雷博，范九伦．一维 Renyi 熵阈值法中参数的自适应选取[J].光子学 报,2009,38 (9):2439-2443.(Lei Bo,Fan jiu-lun.Adaptive selection of parameters in one-dimensional Renyi entropy thresholding method [J].Acta photomica Sinica,2009,38 (9): 2439-2443.) [3]Lan Jinhui， Zeng Yiliang. Multi-threshold image segmentation using maximum fuzzy entropy based on a new 2D histogram [J]. Optik,2013,124 (18). [4]Nie Fangyan, Zhang Pingfeng,Li Jianqi,et al.A novel generalized entropy and its application in image thresholding [J//OL]. Signal Processing,2017,   \n134 (C): 23-34. [5]吴虎胜，张凤鸣，吴庐山．一种新的群体智能算法——狼群算法[J]. 系统工程与电子技术,2013,35(11):2430-2438.(Wu Husheng,Zhang Fengming,Wu Yishan.A new swarm intelligence algorithm-wolf pack algorithm [J]. Systems Engineering and Electronics,2013,35 (11):2430-   \n2438.) [6]刘然．基于灰狼算法的改进及应用研究[D].沈阳：沈阳航空航天大学,   \n2018.(Liu Ran. Improvement and application research based on grey wolf algorithm [D]. Shenyang: Shenyang Aerospace University,2018.) [7]Masi M.A Step Beyond Tsallis and Rényi entropies [J//OL].Physics Letters A,2005,338 (3):217-224. [8]王盈祥，陈民铀，程庭莉，等．基于差分进化的改进狼群算法研究 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[J/OL].计算机应用研究，2019,36(8）．[2018-05-16].http://www.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "arocmag.com/article/02-2019-08-022.html.(Wang Yingxiang,Chen Minyu, Cheng Tingli,et al.Research on improved wolf group algorithm based on differential evolution [J/OL]. Journal of Computer Applications,2019,36 (8):[2018-05-16].http://www.arocmag.com/article/02-2019-08-022.html.) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[9]曹爽，安建成．改进狼群优化算法的Otsu图像分割法[J].微电子学与 计算机,2017,34(10):16-21.(Cao Shuang,An Jiancheng.Otsu image segmentation method for improved wolves optimization algorithm [J]. Microelectronics & Computer,2017,34(10):16-21.) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[10]于来行，乔蕊．周期性扰动的微粒群算法[J].计算机系统应用,2011, 20(6): 203-206.(Yu Laixing, Qiao Rui.Periodic perturbation particle swarm optimization algorithm[J]. Computer Systems& Applications,2011,20 (6): 203-206.) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[11]谭跃，谭冠政，邓曙光．基于遗传交叉和多混沌策略改进的粒子群优化 算法[J].计算机应用研究,2016,33(12):3643-3647.(Tan Yue,Tan Guan] zheng,Deng Shuguang. Improved particle swarm optimization algorithm based on genetic crossover and multi-chaos strategy [J].Application Research ofComputers,2016,33(12):3643-3647.) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[12]王涛，王勇．一种引入 Nelder-Mead 算子的改进狼群搜索算法[J].计算机应用研究，2016,33(10):2937-2940.（Wang Tao,Wang Yong.Animproved wolf pack search algorithm with Nelder-Mead operator [J].",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Application Research of Computers,2016,33(10):2937-2940.) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[13]高嘉乐，邢清华，李龙跃，等．采用投影螺旋搜索的改进粒子群算法 [J].西安交通大学学报,2018,52(6):48-54.(Gao Jiale,Xing Qinghua,Li Longyue,et al. Improved particle swarm optimization algorithm using projected spiral search[J].Journal of Xi'an Jiaotong University,2018,52 (6): 48-54.) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[14]毛召武，程结海，袁占良．一种高分遥感影像物体分割质量评价方法 [J]．测 绘 通报，2016(5):36-40.(Mao Zhaowu,Cheng Jiehai,Yuan Zhanliang.A method of object segmentation quality evaluation for high resolution remote sensing image [J]. Bulletin of Surveying and Mapping, 2016 (5): 36-40. ) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[15]王钛．基于灰狼算法的智能图像分割研究[D]．南京：南京邮电大学, 2017.(Wang Tai. Research on intelligent image segmentation based on grey wolf algorithm [D]. Nanjing:Nanjing University of Postsand Telecommunications,2017.) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[16]张石，董建威，佘黎煌．医学图像分割算法的评价方法[J].中国图象 图形学报,2009,14(9):1872-1880.(Zhang Shi, Tong Jianwei,Ji Lihuang. Evaluation method of medical image segmentation algorithm [J]. Journal of Image and Graphics,2009,14(9):1872-1880.) ",
+        "page_idx": 4
+    }
+]

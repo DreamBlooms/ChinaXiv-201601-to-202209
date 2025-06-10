@@ -1,0 +1,636 @@
+[
+    {
+        "type": "text",
+        "text": "Lie群下利用改进JPDA滤波器的智能车立体视觉多目标跟踪方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张琦ä，胡广地b，朱晓媛‘，陈亚东a(西南交通大学a.机械工程学院;b.汽车研究院;c.信息科学与技术学院，成都 610031)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：可靠的环境分析是实现智能车自动驾驶的核心技术，包括车辆识别、行人检测、碰撞避免等，其目标是实现驾驶的完全自动化。提出基于改进联合概率数据关联滤波器的智能车立体视觉多目标跟踪方法。利用立体视觉摄像头采集车辆及行人图像、视频；在Lie群下对传感器的不确定性进行建模，并采用欧几里德群算法对预处理的图像进行状态滤波；在可能存在车辆的区域内利用双目视觉去除误检，并获得车辆的位置信息；通过卡尔曼滤波器对测量的不确定度和预测目标运动的轨迹进行确认;运用改进的联合概率数据关联滤波器对车辆及行人的跟踪结果进行优化修正。实验结果表明，提出的方法可以有效解决智能车多目标跟踪问题，大幅度提升驾驶系统的自动化和智能化水平。相比其他较新的目标跟踪方法，提出的方法在跟踪精度和速度上具有明显的优势，且在跟踪车辆时不会产生明显的偏移、不会遗漏对行人的跟踪。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：智能驾驶系统；立体视觉；移动物体跟踪；联合综合概率数据关联；Lie群 中图分类号：TP391.41 doi: 10.3969/j.issn.1001-3695.2018.06.0362 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Stereo vision multi-object tracking for intelligent vehicle using joint probabilistic data association in Lie group ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhang Qia, Hu Guangdib†, Zhu Xiaoyuanc, Chen Yadonga (a.CollegeofchanicalEngineering,.AutoResearchInstitute,choolofInformationSience&Technologyouthwest Jiaotong University, Chengdu 610031, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Reliable sceneanalysis，which commonly involvesvehicle identification,pedestrian detection,and colision avoidance,u,isanessential technique inrealizingautomaticdrivingofintellgentvehicle.This paper proposes a stereovision multi-object tracking method basedon joint probabilisticdataasociation (JPDA)filterforintellgentvehicle:the method collects the images and videosof vehicles and pedestrians with the helpofstereocamera mounted ontopofavehicle,model the uncertaintyofsensor inLie group,andadopt the Euclideanalgorithmto implement state-filtering forthepreprocessed images.Utize the improved JPDA to rectified the tracking of vehicles and pedestrians.Experiment results show that the proposedmethodcansetlethetrackingofmulti-objects efectively,and improve thelevelofautomationand intellgence for driving system dramatically. Compared with other new target tracking methods,the proposed method has obvious advantages intracking precision and sped.It does not produceobvious ofset in tracking thevehicleand willnot miss thetracking of pedestrians. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: Smart driving system; Stereo vision;Moving objectstracking; Joint probabilisticdata association;Lie group ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在各种不确定条件下实现周围环境的可靠感知是几乎任何辅助或自治系统应用中的基本任务，尤其是随着自动驾驶研究的不断兴起，学术界和各大科技公司正在积极开发先进的驾驶辅助系统[1]。驾驶辅助系统的核心技术包括自适应巡航、避免碰撞、变道辅助、交通标志识别和停车辅助等功能，其目标是实现车辆驾驶的完全自动化，并在提高安全性的同时减少导致道路事故的人为错误。在各种技术中，移动物体跟踪是驾驶辅助系统的关键任务，当车辆可以检测其所处环境中的动态物体并预测其未来行为时，可以大大是提升车辆的智能化水平。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由于需要在不同环境条件下的实现各类物体的实时、准确跟踪，目前还没有一种传感系统可以完全提供目标跟踪所需的全部信息。鉴于此，驾驶辅助系统通常借助包括毫米波雷达、激光测距仪、视觉系统等设备的复合感测系统来实现移动目标的准确检测。雷达装置[2能够精确测量物体的相对速度和距离。激光测距仪[3]具有比雷达更高的横向分辨率，而且除了可以精确地检测物距外，还可以检测物体的占用面积并提供详细的场景表示。基于视觉的传感系统可以提供精确的横向测量和丰富的图像信息，从而为基于测距的传感器道路场景分析提供有效补充。其中，立体视觉传感器可以提供具有高横向分辨率和较小确定范围的目标检测，同时通常为物体的识别和分类提供足够的信息。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "无论使用哪种传感器，在交通场景中都必须解决多目标跟踪的问题。此时需要跟踪每个目标的状态，同时在杂乱环境中处理测量值，进而解决跟踪目标数据关联的问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[4]利用目标在形变过程的灰度特征具有同频率变化的特点，基于软特征提取方法实现了目标区域和前趋信息的准确检测，进而实现了形变目标的长时间稳定跟踪；文献[5]在各视频场景内事先选定一块可以清晰分辨目标表观的参考区域，进而形成供构造模型的训练样本，同时利用两路对称、权值共享的深度卷积神经网络实现了目标的准确跟踪；文献[6]基于变结构运动目标前景与背景交界处具有量子频率阶跃不变性的特点，将阶跃不变特征描述为具有独立性和约束性的视觉量子，提高了跟踪精度和速度；文献[7]在定义网格网络模型的基础上，设计了基于2阶段聚合的目标定位算法，实现了移动目标的最短路径目标定位，提高了目标定位的准确性；文献[8]针对无监督多运动目标检测与跟踪问题，利用基于粒子滤波和背景减除的方法实现了多移动目标自动探测和跟踪；文献[9]基于DST和PCR5融合运动目标的颜色和纹理特征，并在粒子滤波框架下建立了复杂场景下的多目标跟踪模型，实现了多特征信息融合的自适应视觉跟踪；文献[10]在考虑移动目标惯性的基础上，提出一种基于合群性的分布式跟踪方法，实现了异构多目标系统的准确跟踪；文献[11]提出了一种用于评估多目标跟踪算法性能额对的指标，即缺陷感知子模式分配，为科学评估和优化跟踪算法提供了重要支撑；文献[12]提出了一种基于自治目标的新建区域提取方法，实现了高分辨率远距离感知图像的高效分割，进而实现了移动目标的精确跟踪；文献[13]基于随机有限集实现了缺少精确数据情况下移动目标的可靠跟踪；文献[14]提出了一种贝叶斯跟踪框架，进而基于置信传播方案和马尔科夫链实现了目标的快速检测与跟踪；文献[15]将自适应遗传多模型与基数概率假设密度进行有机结合，实现了多目标的自适应跟踪。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过对上述研究成果进行仔细研究，本文提出如下多目标检测与跟踪方法：首先，利用视觉立体测距算法估计中间车辆的位移，将不符合特征的物体视为移动目标，将其测量值送至跟踪算法；其次，基于Lie 群中的扩展卡尔曼滤波器构造状态不确定性表示和运动模型；最后，通过改进的联合概率数据关联（joint probabilistic data association，JPDA）实现多目标的准确跟踪。为了验证所提方法的有效性，在某道路上进行了移动目标检测与跟实验，实验结果证明所提方法具有非常高的及跟踪精度，且具有较好的动态性能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 移动目标立体检测",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过建立立体图像实现对运动物体的有效检测，但是观察者的不断运动使得检测任务具有一定的难度。为了实现移动物体的检测，需要实现传感器模态与物体估计的融合，首先，需要实现基于立体声的运动物体检测。利用角点检测器来检测半稠密特征点，将每个检测到的特征的位置和速度在三维欧氏空间中进行估计。因此需要确定当前帧和前一帧的左侧、右侧图像中的特征之间的对应关系。为此，本文采用光流程方法和立体块匹配算法计算特征对应关系。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "首先，在对图像进行校正后，所有来自前一帧的特征点通过标准针孔照相机模型投影到3D世界帧中，然后将该位置与获得的运动矩阵进行复合反投影到当前相机帧中，并连接到来自当前帧的，对应前一帧的3D点形成矢量场，其中每个矢量表示相对于世界帧的对应3D点的运动；其次，由于在3D空间中测量不确定度具有高度异向性，因此难以精确确定沿着光轴方向的运动强度，而将矢量投影到不确定性均匀分布的图像平面上，并将阈值赋值给每个点的运动幅度，然后根据平移和旋转参数将剩余的矢量连接成簇；最后，如果至少有3个向量出现在其中，那么每个簇就对应一个移动对象，并用所有相应点的质心点描述该对象。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 移动目标运动模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了建立移动目标的运动模型，需要首先简要介绍建模过程中用到的Lie群、欧氏群等相关知识。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义1Lie 群GL是一个具有光滑流形结构的可微分群。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义2Lie代数 $\\mathbf { g }$ 是在GL 的切空间中恒为单位矩阵的开邻域，且矩阵指数 exp(GL)和矩阵对数 log(GL）可以构成一个局部的微分同胚，如式(1)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left\\{ \\begin{array} { l l } { \\exp ( \\mathrm { G L } ) { : \\mathrm { g } } \\to \\mathrm { G } } \\\\ { \\log ( \\mathrm { G L } ) { : \\mathrm { G } } \\to \\mathrm { g } } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了有效利用Lie群，需要引入集中高斯分布，此时涉及的Lie 群是连通的单模李群。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义3样本 $X$ 的概率密度函数为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP ( X ) = \\lambda \\exp \\Biggl ( - { \\frac { 1 } { 2 } } \\mathrm { l o g } { \\bigl ( } X { \\bigr ) } \\cdot P ^ { - 1 } { \\bigl ( } \\log ( X ) { \\bigr ) } \\Biggr )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\lambda$ 为标准化常量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "此时可以利用Lie群在转换将 $X$ 变为GL:",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX = \\delta \\exp ( \\log ( X ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\delta$ 为分配系数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义4欧氏群 S 群描述了二维空间中的刚体运动，其表达式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { S } = { \\left( \\begin{array} { l l } { A } & { \\mathbf { a } } \\\\ { 0 } & { 1 } \\end{array} \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：0 $\\mathbf { \\boldsymbol { a } } \\in \\mathbf { \\mathrm { R } } ^ { 1 \\times 1 }$ ； $\\mathbf { A } \\in \\mathbf { R } ^ { 2 \\times 2 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1状态空间",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "车辆是典型的刚体，因此需要运用刚体运动方程组描述车辆的状态。此外，当考虑车辆的速度时，也可以通过相同的运动方程组来表示高阶的状态变化。基于刚体等速运动模型的等效原则，将状态空间GL构造为两个矩阵Lie群S的笛卡尔积：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { S } \\times \\mathbf { S } = \\mathbf { S } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中：第一个S是位置分量，第二个S是速度分量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于需要将模型应用到车辆跟踪应用中，与其他运动模型（恒定速度，恒定角速度和速度，恒定曲率和速度）相比，式(5)的运动模型提供了较好的灵活性。这种灵活性通过在纵向、横向和旋转三个分量上的速度表现出来，提供了能够描述出现在不同场景中的车辆、摩托车和行人等对象的能力。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Lie 群中的矩阵组合与反演就是简单的矩阵乘法和反演，因此对于所有GL上的运算，可以使用对角化放置GL块的两个S而构造的符号进行表示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2运动模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "车辆的运动模型为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { _ { k + 1 } } = X _ { _ { k } } { \\cdot } \\exp ( \\alpha _ { _ k } + \\beta _ { _ k } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $X _ { k } \\in \\mathrm { G L }$ 是系统在 $k$ 时刻的运动状态； $a _ { k }$ 是一个非线性函数； $\\beta _ { k }$ 是高斯白噪声。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如果第 $k { - } 1$ 步的后验分布满足Lie 群上的高斯分布，那么可以根据下式对式(6)所示的运动状态进行预测：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { \\mathbf { \\mu } _ { k + 1 } } = X _ { \\mathbf { \\mu } _ { k } } \\exp ( \\log ( \\alpha _ { k } ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "此时可以将式(6)所示的运动方程重新建模为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} \\left\\{ \\begin{array} { l l l l l l l l l l } { \\alpha _ { k } = \\left[ \\nu _ { 1 k } \\right]} & { \\nu _ { 2 k } } & { \\omega _ { k } } & { 0 } & { 0 } & { 0 } \\end{array}  ^ { \\mathrm { T } }  \\\\ { \\beta _ { k } = \\left[ \\begin{array} { l l l l l l } { \\beta _ { 1 k } } & { \\beta _ { 2 k } } & { \\frac { \\beta _ { o k } } { 2 } } & { \\beta _ { 1 k } } & { \\beta _ { 2 k } } & { \\beta _ { o k } } \\end{array} \\right] ^ { \\mathrm { T } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中：Vlk、V2k、 $\\omega _ { k }$ 分别为纵向、横向和旋转速度；βik、β2k、βok分别为高斯噪声在纵向、横向和旋转三个方向上的分量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 移动目标跟踪",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在本文中，假设跟踪的多个目标为 $\\{ \\mathrm { T } _ { 1 } , . . . , \\mathrm { T } _ { k } \\}$ ，所跟踪目标的数量 $k$ 随时间而变化，也就是说目标可能从传感器的视野中随时出现或者消失。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义 $Y _ { k }$ 表示 $k$ 时刻所有检测的集合，即",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { k } = \\left\\{ Y _ { k } ^ { i } \\colon i = 1 , . . . , n _ { k } \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义 $Y _ { 1 : k }$ 表示所有度量的历史，即",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { 1 : k } = \\{ Y _ { 1 } , . . . , Y _ { k } \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "除了目标初始测量之外，矢量 $Y _ { k }$ 还包含满足泊松分布的随机变量（杂波)。需要解决的问题是如何将接收到的测量集合适当地分配给运动轨道中的目标，以及如何管理待检测目标的出现和消失。JPDA方法通过估计每个 ${ { \\mathrm { T } } _ { i } }$ 的后验密度来解决这一问题，即",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP \\big ( X _ { k } ^ { i } , \\chi _ { k } ^ { i } \\mid Y _ { 1 : k } \\big ) = P \\big ( X _ { k } ^ { i } \\mid \\chi _ { k } ^ { i } , Y _ { 1 : k } \\big ) \\cdot P \\big ( \\chi _ { k } ^ { i } \\mid Y _ { 1 : k } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式(11)表明目标状态 $\\boldsymbol { X } _ { k } ^ { i }$ 的密度及其存在性 $\\chi _ { k } ^ { i }$ 为所有 $Y _ { k }$ 的测量，并且与 $k$ 相关。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于目标存在的概率，采用马尔可夫链模型进行描述：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP \\big ( \\chi _ { k } ^ { i } | \\ Y _ { 1 : k - 1 } \\big ) = \\rho \\cdot P \\big ( \\chi _ { k - 1 } ^ { i } | \\ Y _ { 1 : k - 1 } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\rho$ 表示目标在 $k { - } 1$ 时刻存在时，其在 $k$ 时刻仍然存在的概率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据所获得的测量值 $Y _ { k }$ 可以通过总概率公式推测出 $k$ 时刻扫描到目标 ${ { \\mathrm { T } } _ { i } }$ 的后验密度为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP \\big ( X _ { k } ^ { i } , \\chi _ { k } ^ { i } \\mid Y _ { 1 : k } \\big ) = P \\big ( \\chi _ { k } ^ { i } \\mid Y _ { 1 : k } \\big ) \\sum _ { j = 0 } ^ { n _ { k } } \\sigma _ { k } ^ { i j } P \\big ( X _ { k } ^ { i } \\mid \\eta _ { k } ^ { i j } , \\chi _ { k } ^ { i } , Y _ { 1 : k } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\sigma _ { k } ^ { i j }$ 表示物体存在的后验数据关联概率； $\\eta _ { k } ^ { \\ i j }$ 表示概率假设。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "被测目标存在的概率为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP \\big ( \\chi _ { k } ^ { i } \\mid Y _ { 1 : k } \\big ) = \\sum _ { j = 0 } ^ { n _ { k } } P \\big ( \\eta _ { k } ^ { i j } , \\chi _ { k } ^ { i } \\mid Y _ { 1 : k } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了计算 $\\sigma _ { k } ^ { i j } \\setminus \\eta _ { k } ^ { i j }$ ，需要在对象集合中考虑测量到对象的关联事件。此时假设 $\\eta _ { k } ^ { i j }$ 由所有可行的关节事件 $F$ 组成，其中每个轨迹具有零个或一个测量，并且每个测量被分配到零个或一个轨迹。此时有",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP \\big ( \\eta _ { k } ^ { i j } , \\chi _ { k } ^ { i } \\vert ~ Y _ { 1 : k } \\big ) = \\sum _ { F \\in \\eta _ { k } ^ { i j } } P \\big ( F \\vert ~ Y _ { 1 : k } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP \\big ( \\eta _ { k } ^ { i 0 } \\big | ~ Y _ { 1 : k } \\big ) = 1 - \\sqrt { P \\big ( \\eta _ { k } ^ { i j } , \\chi _ { k } ^ { i } \\big | ~ Y _ { 1 : k } \\big ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { T } _ { i }$ 存在但没有被集群内的测量检测到的概率为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP \\big ( \\eta _ { k } ^ { i 0 } , \\chi _ { k } ^ { i } \\big | \\ Y _ { 1 : k } \\big ) = \\frac { \\sqrt { P \\big ( F \\big | \\ Y _ { 1 : k } \\big ) P \\big ( \\theta _ { k } ^ { i 0 } \\big | \\ Y _ { 1 : k } \\big ) } } { 1 - P \\big ( F \\big | \\ Y _ { 1 : k } \\big ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了计算每一个关节事件 F 对应的 $P ( F | \\ Y _ { 1 : k } )$ ，需要分配测量的目标集合 $C$ ，以及分配一组测量的轨道集合 $D$ ，此时可得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { P \\big ( F \\vert \\mathit { \\Pi } Y _ { 1 : k } \\big ) = \\underset { i \\in C } { \\prod } \\big ( 1 - P \\big ( \\chi _ { k } ^ { i } \\vert \\mathit { \\Pi } Y _ { 1 : k - 1 } \\big ) \\big ) \\cdot \\underset { i \\in D } { \\prod } \\frac { \\rho _ { k } ^ { i } \\big ( \\tau ( F , i ) \\big ) } { \\rho _ { k } \\big ( \\tau ( F , i ) \\big ) } } & { } \\\\ { + P _ { d } \\big ( \\chi _ { k } ^ { i } \\vert \\mathit { \\Pi } Y _ { 1 : k - 1 } \\big ) + P _ { q } \\big ( \\chi _ { k } ^ { i } \\vert \\mathit { \\Pi } Y _ { 1 : k - 1 } \\big ) } & { } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $P _ { d }$ 是 $T _ { i }$ 被检测到的概率； $P _ { q }$ 是修正后度量在 $T _ { i }$ 的门限阈值范围内的概率； $\\tau ( F , i )$ 是在关节事件 $F$ 下分配给 $T _ { i }$ 的度量的索引； $\\rho _ { k } \\left( \\tau ( F , i ) \\right)$ 表示杂波先验度量密度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据式(18)可以计算旋转概率：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho _ { k } ^ { i } \\left( \\tau ( F , i ) \\right) { = } \\frac { 1 { - } P _ { q } \\left( \\chi _ { k } ^ { i } | \\ Y _ { 1 : k - 1 } \\right) } { P _ { d } \\left( \\chi _ { k } ^ { i } | \\ Y _ { 1 : k - 1 } \\right) } \\cdot \\rho _ { k } \\left( \\tau ( F , i ) \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了满足门限阈值，公式(19)所示的旋转概率通过 $P _ { d } , \\ P _ { q }$ 进行了标准化。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上述公示可以得到所有要素来确定目标存在的概率：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP \\big ( \\chi _ { k } ^ { i } \\mid Y _ { 1 : k } \\big ) = \\sum _ { j = 0 } ^ { n } P \\big ( \\eta _ { k } ^ { i j } , \\chi _ { k } ^ { i } \\mid Y _ { 1 : k } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "进一步可以计算出联合数据概率：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { k } ^ { i j } = { \\frac { P { \\big ( } \\eta _ { k } ^ { i j } , \\chi _ { k } ^ { i } { \\big | } ~ Y _ { 1 : k } { \\big ) } } { P { \\big ( } \\chi _ { k } ^ { i } { \\big | } ~ Y _ { 1 : k } { \\big ) } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 实验分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1实验平台与条件",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了验证所提方法的有效性，本文在实际场景中搭建了基于市区环境的传感器实验平台，并进行了相关实验。为了表明本文所提方法在目标跟踪方面的优势，将所提方法与文献[13]提出的方法进行了实验对比。实验平台包括主要由两套立体摄像机系统安组成。立体图像使用单色的相机系统录制，相机系统具有150万像素的全局快门传感器，图像分辨率为 $1 2 8 0 \\times 9 6 0$ 像素，水平视野 $5 0 ^ { \\circ }$ 。由于预期的目标测量范围为40米，所以在 $2 0 ~ \\mathrm { H z }$ 的最大帧速率下使用最大的 $2 0 ~ \\mathrm { c m }$ 长基线进行实验。立体图像的同步在系统内部执行，实验在相机的自动曝光模式下进行记录。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于实验平台包括两台相机，且所提出的方法依赖于以异步方式执行的状态估计，因此需要确保这两个传感器的时钟同步。虽然两个传感器都工作在接近的频率，但在情况中可能会发生变换。因此，预测步骤直接取决于时间周期T，即，在两个连续时刻 $k$ 和 $k { + } 1$ 之间的时间。因此，数据采集的时钟漂移或较大的延迟可能会显著影响算法的性能。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2 比较及分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了充分验证算法的适应性，进行的实验测试包含多个高度动态的场景，并且同时对车辆、电车和行人进行跟踪。在实验中，一旦物体的存在概率超过了 $P ( \\chi _ { k } ^ { i } \\mid Y _ { 1 : k } ) = 0 . 9 3$ ，轨迹就被确认为真正存在的物体，如果存在的概率低于 $P ( \\chi _ { k } ^ { i } | ~ Y _ { 1 : k } ) = 0 . 1 5$ 轨迹将会被删除。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验持续时间为 $9 0 \\mathrm { ~ s ~ }$ ，不仅涉及移动车辆前行、右转，而且包括静止车辆、移动行人、静止行人。实验结果如图1-4所示。图1、3分别为本文方法与文献[13]方法在左侧相机的跟踪结果，图2、4分别为本文方法与文献[13]方法在右侧相机的跟踪结果。表1、2为两种方法在跟踪精度和速度上的数据对比。实验中，在对原始传感器数据进行预处理后，平均每帧有2.12个立体相机检测，产生305个轨迹。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2acba151660ec6e9891450a6431c1e838a30e7eb62fe92aa549c6cae595785ef.jpg",
+        "img_caption": [
+            "图1本文方法左侧相机跟踪结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3ede2f2aa354f07c6d748e74341fc2b16bfc1ac8049365e0b224e9e7bf27759d.jpg",
+        "img_caption": [
+            "图2本文方法右侧相机跟踪结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c7c8093f5094c31c5a4102ced6471183c728af0d1bf5874a5efb4f6bb19243e.jpg",
+        "img_caption": [
+            "图3文献[13]方法左侧相机跟踪结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b9c9c154492619caafb03fd5ceb6f94b5586770fa766952686dc2ec336593fba.jpg",
+        "img_caption": [
+            "图4文献[13]方法右侧相机跟踪结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c332b408f128fb018a5edc2761ae77098299a221dfbe003208c6d70d2523759f.jpg",
+        "table_caption": [
+            "表1两种方法的目标跟踪精度"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>远距离</td><td>中距离</td><td>近距离</td></tr><tr><td>左侧相机 本文方法</td><td>99.1%</td><td>99.3%</td><td>99.7%</td></tr><tr><td>左侧相机 文献[13]方法</td><td>90.5%</td><td>91.7%</td><td>93.8%</td></tr><tr><td>右侧相机 本文方法</td><td>98.9%</td><td>99.2%</td><td>99.6%</td></tr><tr><td>右侧相机 文献[13]方法</td><td>90.1%</td><td>92.1%</td><td>94.2%</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/531d60649ebf27b4037fb1ef12ba945bbd7b1e4728c246a626581a89be05bf3d.jpg",
+        "table_caption": [
+            "表2两种方法的目标跟踪速度"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>远距离</td><td>中距离</td><td>近距离</td></tr><tr><td>左侧相机 本文方法</td><td>7.3ms</td><td>6.9ms</td><td>6.2ms</td></tr><tr><td>左侧相机文献[13]方法</td><td>11.6ms</td><td>10.3ms</td><td>9.8ms</td></tr><tr><td>右侧相机 本文方法</td><td>7.1ms</td><td>6.7ms</td><td>6.4ms</td></tr><tr><td>右侧相机 文献[13]方法</td><td>11.1ms</td><td>10.4ms</td><td>9.2ms</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过对比分析实验结果可知，相比文献[13]提出的方法，本文方法在跟踪精度和速度上具有明显的优势，而且不会遗漏对行人的跟踪，且在跟踪车辆时不会产生明显的偏移。此外，左右两个相机的实验结果是相同的，可以实现同一场景下不同目标的准确检测；当目标不断移动时，本文方法也可以实现二者的准确跟踪。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.3 不确定性测试 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图5和6显示了两种不同类型的传感器进行LG-EKF滤波器状态不确定度更新的结果。在实验中，滤波器预测都遵循 S运动模型，并产生香蕉形的状态不确定性。图5展示了基于椭圆测量不确定度传感器更新滤波器的结果，类似于“经典\"的高斯不确定性。图6显示了基于立体视觉传感器的范围比导向具有更大的不确定性的结果，注意预测的不确定性偏向右侧，表明车辆向右转弯的可能性高于左侧。从上面的例子可以看到滤波器如何处理不同的测量不确定性，并有效地将它们与预测步骤中的信息融合在一起。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验结果表明，提出的方法让辅助驾驶系统在立体视觉协助下，实现复杂环境中运动物体的精确跟踪。然而，使用这些传感器的可用数据集都不包含地面实况数据，因此很难确保对所提出的方法进行量化的实际评估。不过，由于S状态空间具备优异的跟踪性能，因此如果系统的特征空间是欧几里得空间，可视实现状态空间几何形状的充分解释。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从估计的角度来看，提出的方法的优点在于对传感器和跟踪对象的不确定性和运动进灵活行建模。这对于预测对象的未来运动和其不确定性是有利的，同时对于实现避免碰撞、自主车辆的运动规划等功能是非常有帮助的。此外，立体相机的检测过程不依赖于物体的特定外观，并且可以检测任意运动，包括如图1\\~4所示的汽车和行人的运动。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/13ba87d4062c224cc17b3a329364a606a6ccba795270a974808fc05cf4d273e3.jpg",
+        "img_caption": [
+            "图5椭圆形的测量不确定性"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1637452b59623ba02380ce0c0070028def3c231d428eeb579b9740f7ff3c88f0.jpg",
+        "img_caption": [
+            "图6立体视觉的测量不确定性"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基本卡尔曼滤波器形式的JPDA滤波器代表了一种用于多目标跟踪问题的完善方法。通过执行所提出的实验，验证了加入两个基本多目标跟踪构建模块的方法：状态估计和概率数据关联方案，两者均是基于Lie群的几何结构。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "针对辅助驾驶系统在背景下的跟踪问题，提出基于立体相机立体视觉测距的车辆的相对位移估计方法，生成不符合估计运动的光流矢量的聚类中心的测量结果。由于两个相机存在频率同步问题，因此利用Lie 群上的异步卡尔曼滤波器对二者的检测信息进行融合。提出的运动目标表示方式可以实现传感器测量和车辆状态不确定性的准确描述。为了解决多目标跟踪问题，对JPDA滤波器进行了改进，使其与Lie群上的卡尔曼滤波器协同工作。利用在城市交通场景中记录的真实数据对所提方法进行了测试，实验结果证明所提方法可以精确、快速地实现移动目标的检测，从而提升辅助驾驶系统的智能化水平。在本文中，已经在先进的驾驶员辅助系统的背景下解决了检测和跟踪问题，但是没有考虑车辆及行人的运动轨迹统计分析，下一步可对其进行研究，实现对车辆及行人运动趋势预判。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]韩飞龙，应捷，朱丹丹．一种新的车辆辅助驾驶动态障碍物检测与分类 方法[J].计算机应用研究,2017,34(6):1909-1912.(Han Feilong,Ying Jie,Zhu Dandan.A new vehicle aided driving dynamic obstacle detection and classification method [J].Application Research of Computers,2017,34 (6): 1909-1912. ) [2]Zhai Gen,Wu Cui,Wang Yu.Target tracking based on millimeter wave radar in complex scenes [J]. International Journal of Performability Engineering,   \n2018,14(2): 232-244. [3]Dekan M,DuchonF,Babinec A,et al.Moving obstacles detection based on laser range finder measurements [J]. International Journal of Advanced Robotic Systems,2018,15 (1): 1-18. [4]姜文涛，刘万军，袁姮．基于软特征理论的目标跟踪研究[J].计算机 学报,2016,39(7):1334-1355.(Jiang Wentao,Liu Wanjun,Yuan E.Target tracking based on soft feature theory[J].Journal of Computer Science,2016,   \n39 (7): 1334-1355.) [5] 高君宇，杨小汕，张天柱，等．基于深度学习的鲁棒性视觉跟踪方法 [J]．计算机学报,2016,39(7):1419-1434.(Gao Junyu, Yang Xiaoshan, Zhang Tianzhu,et al. Robust visual tracking method based on depth learning [J].Journal of Computer Science,2016,39(7): 1419-1434.) [6]姜文涛，刘万军，袁姮，等.视觉量子目标跟踪方法[J].软件学报,   \n2016,27 (11): 2961-2984.(Jiang Wentao,Liu Wanjun,Yuan Heng,et al. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Visual quantum target tracking method [J]. software journal,2O16,27(11): ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2961-2984.)   \n[7]任倩倩，刘红阳，刘勇，等．无线传感器网络基于二阶段聚合的目标跟 踪算法[J].计算机研究与发展,2017,54(9):2001-2010.(Ren Qianqian, Liu Hongyang, Liu Yong,et al. Wireless sensor network based on 2 stage aggregation of target tracking algorithm [J]. Computer Research And Development,2017,54 (9): 2001-2010.）   \n[8]李明杰，刘小飞，张福泉，等．基于粒子滤波和背景减除的多目标检测 与跟踪算法[J].计算机应用研究,2018,32(6):134-142.(LiMingjie,Liu Xiaofei, Zhang Fuquan,et al. Multi-target detection and tracking algorithm based on particle filter and background subtraction [J].Application Research of Computers,2018,32 (6): 134-142.)   \n[9]王轶，方英武．基于 DST-PCR5 多目标自适应视觉跟踪方法[J].计算 机应用研究,2018,35 (2): 632-636.(Wang Yi,Fang Yingwu.Multi-target adaptive visual tracking method based on DST-PCR [J]．Application Research of Computers,2018,35 (2): 632-636.)   \n[10] Shen Chen,He Pei, Qin Lai, et al. Multitarget tracking control for coupled heterogeneous inertial agents systems based on flocking behavior [J]. IEEE Trans on Systems Man & Cybernetics Systems,2018,14(9):1-7.   \n[11] Oksuz K, Cemgil A T. Multitarget tracking performance metric: deficiency aware subpattern assignment[J].IETRadar, Sonar& Navigation,2O18,12 (3): 373-381.   \n[12] Tan Wu,Luo Jin, Zhou Xue,et al.Automatic newly increased built-up area extraction from high-resolution remote sensing images using line-densitybased visual saliency and PanTex [J]. Journal of Applied Remote Sensing, 2018,12 (1): 1-12.   \n[13] Cano P, Ruiz-Del-Solar J. Robust tracking of multiple soccer robots using random finite sets [J].IEEE Intelligent Systems,2018,32 (6):22-29.   \n[14] Meyer F,Braca P, HlawatschF,et al.Scalable adaptive multitarget tracking using multiple sensors [C]// Proc of IEEE Globecom Workshops.2017: 1021-1026.   \n[15] Li Bing,Zhao Jin,Pang Fang.Adaptive genetic MM-CPHD filter for multitarget tracking [J]. Soft Computing,2017,21 (16): 4755-4767. ",
+        "page_idx": 5
+    }
+]

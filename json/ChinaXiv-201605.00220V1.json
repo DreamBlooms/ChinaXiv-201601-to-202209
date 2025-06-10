@@ -1,0 +1,289 @@
+[
+    {
+        "type": "text",
+        "text": "A Continuous Cold Atomic Beam Interferometer ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hongbo Xue,1,2,3 Yanying Feng,1,2,a) Shu Chen,2,4 Xiaojia Wang,5 Xueshu Yan,1,2   \nZhikun Jiang,1,² and Zhaoying Zhou1   \n（20 $^ { 1 ) }$ State Key Laboratory of Precision Measurement Technology and Instruments,   \nTsinghua University， Beijing 100084, P. R. China   \n2)Joint Institute for Measurement Science, Tsinghua University, Beijing 10084,   \nP. R. China   \n（204号 $^ { 3 ) }$ State Key Laboratory of Space Weather, National Space Science Center,   \nChinese Academy of Sciences, Beijing 100190, P. R. China   \n（204号 $^ { 4 ) }$ Key Laboratory of Instrumentation Science, North University of China,   \nTaiyuan 030051, P. R. China   \n（20 $^ { 5 ) }$ College of Mechanical Engineering, Taiyuan University of Technology,   \nTaiyuan 030024， P. R. China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We demonstrate an atom interferometer that uses a laser-cooled continuous beam of $^ { 8 7 }$ Rb atoms having velocities of 10-20 m/s. With spatially separated Raman beams to coherently manipulate the atomic wave packets, Mach-Zehnder interference fringes are observed at an interference distance of $2 \\mathrm { L } = 1 9$ mm. The apparatus operates within a small enclosed area of $0 . 0 7 ~ \\mathrm { m m ^ { 2 } }$ at a bandwidth of 190 Hz with a deduced sensitivity of $7 . 8 \\times 1 0 ^ { - 5 } ~ \\mathrm { { r a d / s / \\sqrt { H z } } }$ for rotations. Using a low-velocity continuous atomic source in an atom interferometer enables high sampling rates and bandwidths without sacrificing sensitivity and compactness, which are important for applications in real dynamic environments. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers: 37.25.+k, 32.80.Qk, 37.10.Jk, 05.60.Gg ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Since their inception in 1991 $^ { 1 , 2 }$ ， light-pulse atom interferometers (LPAIs) have shown the potential to be extremely sensitive sensors in many applications such as gravimeter surveys $^ { 3 - 6 }$ , seismic studies $^ 7$ , inertial navigation $\\begin{array} { r } { 8 \\mathrm { - } 1 1 } \\\\ { . } \\end{array}$ , tests offundamental physics $^ { 1 2 }$ ,and measurements of fundamental constants13. From the early developmental stages of atom interferometer， diffrent thermal atomic beam interferometers have been constructed with mechanical gratings $^ { 1 4 , 1 5 }$ or light gratings $^ { 1 6 , 1 7 }$ for the coherent manipulation of atomic waves. Among them,a LPAI-based gyroscope using a thermal atomic beam has exhibited excellent performances in short-term noise, long-term stability, and bandwidth $( \\sim 1 1 0 \\ H z ) ^ { 9 , 1 8 }$ ： For a thermal atomic beam interferometer gyroscope with a high longitudinal atomic velocity (220-300 m/s), it is a challenge to reduce the systems dimension without sacrificing sensitivity. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Using cold atoms is a natural solution towards constructing a compact atomic interferometer, in which a pulse-launched cold atom cloud is usually used as a matter-wave source11,19-21. In more dynamic environments, the pulsed-source-based LPAIs in their current forms may not complement or replace conventional technologies because of their relatively long cycle time and therefore low data rate, being the reciprocal of the interferometer cycle time. To date, most reported cold LPAIs demonstrations have operated at a data rate of a few Hertz or less. Although a combination of conventional and atom interferometer technologies may be a promising solution to actual applications of such cold LPAIs $2 2 \\substack { - 2 4 }$ , significant advances in LPAI performance or data-rate improvements of order 10o Hz or more are required. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Another method is the short interrogation LPAI or high data rate LPAI $^ { 2 5 , 2 6 }$ , which trade sensitivity for data rate and reduced system demands. However, rather than trading off data rate and sensitivity using short interrogation LPAIs with a pulsed cold atomic source, our method consists in eliminating the dead times (time intervals without atoms in the interference region) by using a continuous beam of cold atoms. A continuous atomic source also helps to reduce noise induced by inter-modulation effects and collsion shifts $^ { 2 7 , 2 8 }$ An atomic fountain clock with a continuous cold atomic beam $^ { 2 9 }$ has been demonstrated with a stability of $6 \\times 1 0 ^ { - 1 4 } / \\sqrt { \\tau }$ , which gives a good solution to challenges provided by a continuous cold atomic source, such as shielding the fluorescence from the atomic source, compared with its pulsed counterpart. In this paper, we describe an atom interferometer, which uses a ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ea7f6f2dfa82e304b0bf93b12983a9acf52474b200fa4fca369dbdbec91c9c8.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "FIG.1. (a) Schematic of the experimental layout for the atom interferometer based on a laser-cooled （20 $^ { 8 7 } R b$ atomic beam. BS: beam splitter; M: mirror; HWP: half-wave plate; QWP: quarter-wave plate; PMF: polarizing maintained fiber; FEOM: fiber electro-optic modulator; TA: tapered diode laser amplifer; PMT: photomultipliers. (b） Level diagram for the ground states $| 1 \\rangle$ and $| 2 \\rangle$ and the excited state $| e \\rangle$ . The frequencies $\\omega _ { 1 }$ and $\\omega _ { 2 }$ are used to induce Raman transitions between the two ground states.(c) The $\\pi / 2 \\ – \\pi \\ – \\pi / 2$ pulse sequence is realized by blocking a Gaussian beam with slit width of $d = 1 . 0$ mm and interval of $L = 9 . 5$ mm. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "continuous cold atomic beam as source and spatial-separated Raman pulses for the coherent manipulation of atomic wave-packets. A continuous atomic beam enables higher bandwidths from an atom interferometer when seeking similar sensitivity and compactness as an atom interferometer using a pulsed cold atom source. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "II. SETUP ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A diagram of the experimental setup is shown in Fig.1. The vacuum system consists of two chambers,each of which is pumped with a single ion pump. One chamber, working for an imbalanced three-dimensional (3D） magneto-optical trap (MOT), is pumped to $2 \\times 1 0 ^ { - 9 }$ （20 Torr,and the other chamber, working for the interferometer, is pumped to $8 \\times 1 0 ^ { - 1 0 }$ Torr when the Rubidium reservoir is turned off. The two chambers are separated by a $\\lambda / 4$ plate and a mirror, denoted as QWP1 and M1, respectively, each of which has a hole of diameter 1 mm at its center (Fig. 1). A low-velocity intense source (LVIS) of cold $^ { 8 7 }$ Rb atoms is generated from one chamber in which cold atoms are prepared in a vapor-cell 3D MOT $^ { 1 3 0 , 3 1 }$ ： Standard 3D MOT optics with the retro-reflective configuration are implemented with the cooling light tuned to the $^ { 8 7 }$ Rb $5 s ^ { 2 } S _ { 1 / 2 }$ ，F= $2  5 p ^ { 2 } P _ { 3 / 2 }$ ， $F ^ { \\prime } = 3$ allowed transition with a typical red detuning of $\\delta = 4 { - } 5 \\Gamma$ (where $\\Gamma = 2 \\pi \\times 6$ MHz is the natural linewidth of $^ { 8 7 } R b$ ）） and the repumping light tuned to the $5 s ^ { 2 } S _ { 1 / 2 } , F = 1  5 p ^ { 2 } P _ { 3 / 2 } , F ^ { \\prime } = 2$ allowed transition. To trap the atoms, a pair of anti-Helmholtz coils oriented along the z-axis is used to generate a quadrupole magnetic field with a transverse field gradient of about 15 G/cm. Six 45 mm waist beams of the 3D MOT have a $4 . 5 \\mathrm { m W } / \\mathrm { c m } ^ { 2 }$ peak intensity in the $\\sigma ^ { + } / \\sigma ^ { - }$ configuration. Using the holes drilled in QWP1 and M1, one pair of cooling beams is produced along the Z-axis by retro-reflection of the light beam. This generates a dark channel along the Z-axis and allows cold atoms to leak out continuously from the MOT chamber because of the unbalanced radiation pressure. The geometric axis of the MOT chamber has an angle of 3.7 ° with respect to that of the interferometer chamber, which is placed horizontally. Hence, the cold atomic beam is launched at the same angle with respect to the horizontal direction, and separated from the leaking cooling light beam through the effect of gravity. The leaking cooling light and fluorescence from the atomic source are absorbed by the inner walls of the interferometer chamber, which are coated with a layer of black lacquer. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The most-probable longitudinal velocity of the atomic beam can be tuned from $1 0 ~ \\mathrm { m / s }$ to 20 m/s and the atomic flux set above $4 \\times 1 0 ^ { 9 }$ atoms/s. After their continuous extraction from the 3D MOT, the cold atoms are pumped into a single hyperfine $F = 1$ level using optical pumping laser 1 (Fig. 1),which is tuned to the $F = 2  F ^ { \\prime } = 2$ allowed transition. The optical pumping laser 2, tuned to $F = 1  F ^ { \\prime } = 0$ in $\\sigma ^ { \\pm }$ transitions (linear polarization orthogonal to the magnetic field), is used to drive atoms from the $\\mathrm { F } = 1$ ， $m _ { F } = \\pm 1$ levels to the $\\mathrm { F } = 1$ ， $m _ { F } = 0$ magnetic field insensitive ground-state hyperfine level. The continuous cold atomic beam then enters the interferometer interaction region with no further cooling or collimation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Two-photon velocity-selective Raman transitions are used to manipulate the atomic wave packets, while keeping them in long-lived ground states. The optical apparatus of the Raman lasers is shown in Fig.1. The master laser is a 78O nm external cavity diode laser (ECDL, typical linewidth of 30O kHz， DL Pro,Toptica, Germany)，which is frequency-stabilized using a high finesse wavelength meter (WS6-2Oo, Toptica） tuned to the $F = 1  F ^ { \\prime } = 1$ （204 allowed transition with a large red detuning of $\\Delta = 2 \\pi \\times 1 . 0 7$ GHz. The two slave lasers are GaAsP/AlGaAs Fabry-Perot CW diode lasers. Slave laser 1, operating at frequency $\\omega _ { 1 }$ ，is injection-locked to the frequency-shifted master laser by an acousto-optic modulator (AOM) driven by a 60 MHz signal. Another master laser beam passes through a fiber electro-optical modulator (FEOM; EOspace, USA), driven by a RF signal with frequency $\\omega _ { 0 0 } - 2 \\pi \\times 6 0$ MHz $= 2 \\pi \\times 6 . 7 7 5$ GHz,where $\\omega _ { 0 0 } = \\omega _ { 1 } - \\omega _ { 2 } = 2 \\pi { \\times } 6 . 8 3 5$ GHz corresponds to the ground-state hyperfine transition of $^ { 8 7 } R b$ .Slave laser 2 is synchronized with the -1 sideband of the FEOM output by the frequency-selective sideband injection-locking technique $^ { 3 2 }$ .Both the 6.775 GHz and 6O MHz RF sources are referenced to the same Cs atomic clock. The beat frequency between $\\omega _ { 1 }$ and $\\omega _ { 2 }$ was observed by mixing outputs of the two slave lasers on a fast photodiode (Fig.1(a). The -3 dB line-width of the beat frequency is about 1.5 Hz when the 60 MHz AOM was turned on,but is less than 1 Hz, which is the resolution of the spectrum analyzer,when the AOM was turned off. The line-width worsens because of noise induced by the AOM driving signal. The single side band phase noise spectrum was -54 dBc/Hz at 3 Hz offset and about -105 dBc/Hz in the 3-32 kHz offset range. Beams from slave lasers 1 and 2 are power-amplified to approximately 600 mW,each using a semiconductor laser amplifier (TA1 and TA2， BoosTA， Toptica). These two beams are then combined into a single-mode polarization-maintaining fiber with crossed polarizations and expanded to 60 mm waist beams by a Gaussian doublet fiber coupler. Then, the Gaussian beam is blocked by a slice with three parallel slits with a spacing of $L = 9 . 5$ mm and a width of （204号 $d = 1 . 0 \\ \\mathrm { m m }$ ， which allows power intensities of the two $\\pi / 2$ Raman pulses to be half that of the $\\pi$ Raman pulse in the center of the Gaussian beam (Fig. 1(c)). By adjusting the distance between the lens ( $\\mathrm { { f } = 2 2 0 }$ mm） and the fiber,the two $\\pi / 2$ Raman pulse beams, with equal optical paths, can be made parallel with the $\\pi$ pulse. Three Raman pulse beams with crossed linear polarization are converted into opposite circular polarizations using a quarter-wave plate (QWP2). After passing through the atomic beam, the light fields are linearized by another quarter-wave plate (QWP3), and $\\omega _ { 1 }$ and $\\omega _ { 2 }$ are spatially separated by a polarizing beam splitter (PBS). Only the $\\omega _ { 1 }$ beam is retro-reflected back through the atomic beam. The counter-propagating Raman laser beams are generated for Dopplersensitive Raman transitions in the form of $\\sigma ^ { + } { - } \\sigma ^ { + }$ or $\\sigma ^ { - } { - } \\sigma ^ { - }$ transitions. The three Raman beams are set on the same optical table and could be rotated relative to the atomic beam. Removing the QWP2 and blocking the retro-reflected beam allows Raman transitions in Doppler-insensitive geometries. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Interference fringes from the cold atomic beam are observed by varying the optical phase of the $\\pi$ Raman pulse. As indicated in Fig. 1(a), this is achieved by tilting a 9.53-mmthick optically flat phase plate,which is located initially at an angle of 45 °with respect to the $\\pi$ Raman beams and rotated by a piezo-electric transducer (PZT, Pst 150/4/7 bs, Piezomechanik GmbH). Tilting the phase plate leads to a phase shift of only the $\\omega _ { 1 }$ beam as only this beam is retro-reflected back to the atomic beam. The relative phase shift of the $\\pi$ Raman beams and therefore the atomic phase shift can vary by changing the optical path length of $\\omega _ { 1 }$ through the phase plate when scanning the PZT. To detect the atomic signals, e.g. the interference fringes, the fluorescence of the $\\mathrm { F } = 2$ state atoms induced by the detection laser beam ( $F = 2  F ^ { \\prime } = 3$ ）is continuously collected by a photomultiplier tube (PMT,H7422-50, Hamamatsu, Japan). A horizontal magnetic bias feld in the direction of the Raman beams is generated throughout the length of the interferometer interaction region， with a four-conductor magnetic field assembly running inside the main vacuum chamber $^ { 3 3 }$ , as shown in Fig. 1. Currents of about 4 A are applied to generate the bias feld strength of O.96 Gauss, which corresponds to a Zeeman frequency shift of 0.67 MHz and is sufficient to separate the Zeeman sublevel energies apart by an amount comparable to the Doppler-sensitive Raman transition linewidth or about 5Oo kHz,and allows the Raman transitions address only the $m _ { F } = 0$ atoms. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "III. RESULTS ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The velocity and flux of the MOT-based cold atomic beam are measured by the timeof-flight (TOF） method, which is realized by plugging the atomic beam and simultaneously recording the falling edge of the fluorescence signal of atoms in the $F = 2$ state.The spectrum of the atomic velocity is deduced from the TOF signal (Fig. 2(a)). The mostprobable longitudinal velocity of the atomic beam is adjusted to $v _ { z 0 } ~ = ~ 1 5 . 0 ~ \\mathrm { m / s }$ ，with a velocity distribution of $\\delta v _ { z } = \\sim 3 . 5 ~ \\mathrm { m / s }$ (FWHM) by changing the polarizations of the ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/794479c758a2002671012ed0be7aa2260e79f926d8aaa3717045f134b064aeea.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "FIG.2. Measurement of the cold atomic beam. (a) The longitudinal velocity distribution of the cold atomic beam measured using the time of flight method (TOF). (b) The state preparation of $| F = 1 , m _ { F } = 0 \\rangle$ ，which is indicated by the Raman transition spectra driven by a $\\pi$ Raman pulse. Peak O: mF=0 to $m _ { F }$ =0 Raman transition; Peaks $\\pm 1$ ： $m F$ =0 to $m _ { F } { = } { \\pm } 1$ and $m _ { F } { = } { \\pm } 1$ to $m _ { F } { = } 0$ （204号 Raman transitions; Peaks $\\pm 2$ ： $m _ { F } { = } { + } 1$ to $m _ { F } = + 1$ and $m _ { F } { = } { - } 1$ to $m _ { F } { = } { - } 1$ Raman transitions, respectively; Peaks $\\pm 3$ ： $m _ { F } { = } { + } 1$ to $m _ { F } = + 2$ and $m _ { F } { = } { - } 1$ to $m _ { F } { = } { - } 2$ Raman transitions. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "cooling lasers and the magnetic field gradient. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "After launch from the 3D MOT, the atoms are optically pumped to the magnetically insensitive F=1, $m _ { F }$ =O sub-level by applying the magnetic bias field and the two retroreflected beams, one resonant with the $F = 2  F ^ { \\prime } = 2$ transition with circular polarization and the other with the $F = 1  F ^ { \\prime } = 0$ transition with linear polarization parallel to the bias field. The velocity-sensitive Raman transition spectra can be used for measuring the population of atoms in different ground-state hyperfine $m _ { F }$ sub-levels. In our experiment, seven Raman peaks instead of three peaks occur because the net bias field is not well aligned with the Raman beams, being perturbed by Earths and environmental magnetic fields, and hence allows both $\\pi$ and $\\sigma$ Raman transitions to occur. This influences the quantitative measurement of the state preparation effciency. In Fig. 2(b), the Raman peaks labeled 0 correspond to the magnetically insensitive $m _ { F }$ =0 to $m _ { F }$ =0 Raman transition; those labeled （204号 $\\pm 1$ correspond to the magnetically sensitive $m _ { F }$ =0 to $m _ { F } { = } { \\pm } 1$ and $m _ { F } { = } { \\pm } 1$ to $m _ { F }$ =0 Raman transitions, respectively. Similarly, $\\pm 2$ correspond to the $m _ { F } { = } { + } 1$ to $m _ { F } = + 1$ and $m _ { F } { = } { - } 1$ to $m _ { F } = - 1$ transitions, whereas $\\pm 3$ correspond to the $m _ { F } { = } { + } 1$ to $m _ { F } = + 2$ and $m _ { F } = - 1$ to $m _ { F } { = } { - } 2$ transitions. For the blue-dash line of the same figure, atoms are asymmetrically distributed in all ground-state hyperfine $m _ { F }$ levels with only the $F = 2  F ^ { \\prime } = 2$ optically pumping beam. With the other optically pumping beam resonant with the $F = 1  F ^ { \\prime } = 0$ （204号 transition, more atoms are prepared in the magnetically insensitive $F = 1$ ， $m _ { F } = 0$ sub-level from the other magnetically sensitive $m _ { F }$ sub-levels,as seen from the black-solid line in Fig. 2(b). Orientation of the linear polarization of the $F = 1  F ^ { \\prime } = 0$ optically pumping beam needs to be fine-tuned to allow only the $\\sigma$ transition to occur, otherwise the statepreparation efficiency will be reduced significantly with the presence of the $\\pi$ transition,as sen from the red-dotted line in Fig. 2(b). The state-preparation effciency can be evaluated roughly from the relative Raman peak amplitudes. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The continuous cold atomic beam is manipulated by spatially separated Raman beams with constant pulse widths of $\\mathrm { d } = 1 . 0$ mm.The duration time $\\tau = d / v _ { z 0 }$ remains constant for each interaction of the atoms with the Raman beams. The Rabi frequency $\\Omega _ { e g }$ is adjusted by varying the intensities of the Raman beams of $\\omega _ { 1 }$ and $\\omega _ { 2 }$ ， and therefore the Rabi phase （20 $\\phi = \\Omega _ { e g } \\tau$ can be set to $\\pi / 2$ or $\\pi$ . The corresponding spectra driven by the Doppler-sensitive （204号 $\\pi / 2 \\mathrm { - } \\pi \\mathrm { - } \\pi / 2$ Raman pulse sequence are shown in Fig. 3. The peak amplitudes of the spectra driven by the two $\\pi / 2$ pulses are equal and are half of that driven by the $\\pi$ pulse.By ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e158864cd4d3a67681f54ba2235f3c9fb6ce3d3b91f96cecab0af0ad3662cfc2.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "FIG.3. Doppler-sensitive Raman transition spectra driven by the $\\pi / 2 – \\pi – \\pi / 2$ Raman pulse sequence. Here the longitudinal velocity of the atomic beam is $v _ { z 0 } = 1 5 . 0 ~ \\mathrm { m } / \\mathrm { s }$ ； the longitudinal velocity spread is $\\delta v _ { z } = 3 . 5 ~ \\mathrm { m / s }$ ; the width of the Raman beams are $\\mathrm { d } = 1 . 0$ mm; the width of the transverse velocity distribution is $\\Delta v _ { x , b e a m } = \\pm 6 . 5 ~ \\mathrm { c m / s }$ . Doppler-insensitive Raman transitions were driven by the residual co-propagating Raman lasers, and were shifted from the peaks by tilting the Raman beams from the orthogonal propagation. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "tilting the Raman beams slightly away from the perpendicular direction with respect to the atomic beam, the Doppler-sensitive transition peaks are shifted away from peaks of the residual Doppler-insensitive transitions due to the impure polarization of the Raman beams. Doppler shifts and recoil shifts are compensated by offsetting the difference $\\omega _ { 1 } - \\omega _ { 2 }$ . The transverse velocity spread of the atomic beam was approximately $\\pm ~ 6 . 5$ cm/s (FWHM), which can be estimated from the $\\sim 3 3 6$ kHz linewidth of the velocity-sensitive Raman transition spectrum driven by the $\\pi$ Raman pulse (T = 67 μs). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In implementing the continuous cold atom beam interferometer, stringent requirements are placed on the parallel alignment of the spatially separated Raman beams. This is because slow thermal beam diverge more than fast thermal beams under the same transverse equivalent temperature18. The Raman beams should be aligned precisely before an interference signal can be seen. With bad beam alignment, the three spatially separated Raman beams will interact with atoms of different transverse velocities. For the horizontal alignment, the Doppler shift in the Raman transition, $- k _ { e f f } v _ { z } s i n \\theta$ ， must be smaller than the linewidth of the Raman resonance, $\\begin{array} { r } { \\Delta \\delta _ { 1 2 } \\approx 2 \\pi \\frac { 0 . 8 } { \\tau } = 2 \\pi \\frac { 0 . 8 v _ { z 0 } } { d } } \\end{array}$ ，where $k _ { e f f }$ is the effective wave vector. This implies $\\theta \\ll 3 1 2 \\ \\mu r a d$ ， when the atomic longitudinal velocity is $v _ { z 0 } = 1 5 \\mathrm { m } / \\mathrm { s }$ and the pulse width of Raman beams is $\\mathrm { d } = 1 . 0 ~ \\mathrm { m m }$ . By adjusting the distance between the lens and the fiber, and monitoring the feedback light into the fiber, we can achieve a horizontal beam alignment of $\\theta < 9 1$ μrad between the three Raman beams (The fber core is 5 μm in diameter and NA = 0.11). The vertical Raman beam alignment is equally critical. It can be assumed that the three beams generated from the same fiber coupler are substantially parallel in the vertical direction. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e5b17c1007d9337ac85b0f725b0e12ef2f062475327858818ffde7c9a208dff.jpg",
+        "img_caption": [
+            "FIG.4. The π/2-π-π/2 Mach-Zehnder atom interference fringe (red solid line) as a function of the optical phase of the $\\pi$ Raman pulse,obtained by rotating the phase-plate in the optical path of one of the Raman beams. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/d86a42a7889d3a1dc294f2ed5606b0f5b9bd45bcb5dc3e3ae1a217df81efce92.jpg",
+        "img_caption": [
+            "FIG. 5. Raman-Ramsey fringes driven by $\\pi / 2$ π/2 Raman pulses. The length of the separated oscillatory fields is L=19 mm and the width of the interaction zone is d=1.0 mm. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The signal of the $\\pi / 2$ 1 $\\pi$ 一 $\\pi / 2$ Mach-Zehnder atom interferometer is written ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { e } = \\frac { 1 } { 2 } [ 1 + c o s ( \\Phi _ { a } + \\Phi _ { \\Omega } + \\phi _ { 1 } - 2 \\phi _ { 2 } + \\phi _ { 3 } ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "where $\\Phi _ { a }$ is the phase shift caused by acceleration; $\\Phi _ { \\Omega }$ is the Sagnac phase shift caused by rotation; $\\phi _ { 1 }$ ， $\\phi _ { 2 }$ and $\\phi _ { 3 }$ are effective phases of the first $\\pi / 2$ ， $\\pi$ ，and the second $\\pi / 2$ Raman pulses, respectively. Interference fringes are observed by scanning the phase of the $\\pi$ Raman pulse with the phase plate. The interference fringe as a function of $2 \\phi _ { 2 }$ (Fig. 4） explicitly verifies that the phase shift of the interferometer output is twice that of the $\\pi$ Raman pulse. The maximum extension of the PZT used for scanning the phase plate is 9 μm，which corresponds to a $\\sim 3 0$ rad phase shift of the interference signal. This can be determined by the $\\pi$ Raman pulse phase shift as a function of the rotation angle of the phase plate. This phase modulation technique may be used for compensating and modulating the phase of the interferometer signal. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "There are several causes limiting the interference fringes contrast. First, the longitudinal velocity spread of the atomic beam is primarily responsible for the reduction in contrast. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Phases of the Raman pulses ( $\\pi$ and $\\pi / 2$ ） should be set optimally for the most-probable longitudinal velocity $\\upsilon _ { z 0 }$ of the atomic beam. The Raman-Ramsey fringes from the cold atomic beam were observed (Fig. 5). These were obtained using the two $\\pi / 2$ Raman pulses in the Doppler-insensitive geometry (co-propagating beams)， with a field separation length of $2 \\mathrm { L } = 1 9$ mm when the $\\pi$ pulse was blocked. The atomic interrogation time between the two $\\pi / 2$ pulses was $\\mathrm { T } = 1 . 3$ ms,and the corresponding linewidth of the central fringe was $\\delta _ { R a m s e y } = 1 / ( 2 \\mathrm { T } ) = 3 9 0 ~ \\mathrm { H z }$ . Orders higher than $4 ^ { t h }$ -order of the interference fringe,where $n = v _ { z 0 } / \\delta v _ { z } = \\sim 4$ , can be identified clearly against the velocity average11. This means that a cold atomic beam with a narrow longitudinal velocity distribution may increase the number of observable fringes of an atom interferometer， compared with its thermal counterpart （2 $( n = \\sim 1 ) ^ { 1 8 }$ ： ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Second， the transverse velocity spread of the atomic beam will further decrease the contrast. When using Doppler-sensitive Raman pulses (counter-propagate Raman beams), atoms in the range of $\\Delta v _ { x } = \\delta _ { 1 2 } / k _ { e f f }$ are selected to interact with Raman pulses. In our experiments, the linewidth of the Raman transition is 12 kHz and the selected velocity range is about $\\Delta v _ { x } = 5 ~ \\mathrm { m m / s }$ ，when the pulse width of the Raman beams is $\\mathrm { d } = 1 . 0$ mm. This selected velocity range for joining the interference is much less than the measured transverse velocity spread $( \\pm 6 . 5 ~ \\mathrm { c m / s }$ ） of the cold atomic beam. Atoms beyond this selected velocity range cannot be manipulated effectively by the Raman pulses and both contrast and signalto-noise ratio of the interference signal deteriorate. In the present experiment, the peak to peak signal amplitude in Fig. 4 corresponds to about $1 0 ^ { 7 }$ atoms/s with 17% contrast. To increase the velocity-selected range of a cold atomic beam interferometer is a big challenge. One method to achieve a larger range is to increase the linewidth of the Raman transition by decreasing the pulse width d of the Raman beams. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, because of the transverse velocities, the cold atomic beam will diverge after the atoms have traveled for an extended period. This thermal expansion of an atomic beam is extremely undesirable when manipulating the atomic beam with the Raman beams. This gives rise to inhomogeneous Rabi frequencies when atoms in different transverse positions interact with Raman beams that have spatially inhomogeneous intensity distributions,or when similar interactions occur between the three individual Raman beams. Consequently, the coherence between the Raman pulses and the atomic beam will be destroyed by this inhomogeneous average effect. Further sub-Doppler transverse cooling of the atomic beam can be performed to suppress the transverse thermal expansion of the cold atomic beam. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Before finally optimizing the horizontal alignment of the counter-propagating Raman beams and the Raman detuning, the relative ac Stark shift needs to be cancelled by carefully setting the intensity ratio, $I _ { 2 } / I _ { 1 }$ ， between the two Raman beams ( $\\omega _ { 1 }$ and $\\omega _ { 2 }$ ),otherwise an additional phase offset is introduced into the interferometer, which leads to a reduction in contrast and even vanishing of the interference signal when the nonzero relative ac Stark shift is larger than the linewidth of the Raman transition. Experimentally, we frst tune the intensity ratio, $I _ { 2 } / I _ { 1 }$ , to have the Raman-Ramsey fringe centered on the Rabi flop of a single Raman pulse and then optimize the parameter to produce a Mach-Zehnder fringe that is as symmetric as possible. The intensity ratio $I _ { 2 } / I _ { 1 }$ was finally set to about O.6, close to the theoretical value for zero relative ac Stark shift (O.56 for $^ { 8 7 }$ Rb and the detuning $\\Delta =$ $2 \\pi \\times 1 . 0 7 ~ \\mathrm { G H z } ) ^ { 3 4 }$ ： ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "IV. CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "We have described a light-pulse atom interferometer that uses a continuous cold $^ { 8 7 } R b$ （20 atomic source. Mach-Zehnder atomic interference fringes have been observed with this interferometer. Such interferometers may be used in a high precision gyroscope for its high bandwidth and technical flexibility. At present, we have achieved a small area of $0 . 0 7 \\ : m m ^ { 2 }$ （20 for the Sagnac loop and the corresponding scale factor of $S = 2 k _ { e f f } L ^ { 2 } / v _ { z 0 } = 1 9 4 \\mathrm { r a d / ( r a d / s ) }$ where L=9.5 mm and $\\mathrm { v } _ { z 0 } = 1 5 ~ \\mathrm { m } / \\mathrm { s }$ . The deduced short-term sensitivity (1 s) of an atom gyroscope is about $7 . 8 \\times 1 0 ^ { - 5 } \\ r a d / s / \\sqrt { \\mathrm { H z } }$ , with a signal-to-noise ratio of 15.1 measured from the interference signal and a cutoff frequency of 190 Hz for the low-pass filter from sampling signals used in the experiment. With a theoretical bandwidth of $v _ { z 0 } / 2 L { = } 7 9 0 \\ \\mathrm { H z }$ , the atom interferometer has a shot-noise-limited short-term sensitivity of $2 \\times 1 0 ^ { - 6 } ~ r a d / s / \\sqrt \\mathrm { H z }$ for rotation sensing under current experimental conditions18. The sensitivity can be improved further by establishing a larger area for the Sagnac loop, which is now limited to the size of the vacuum window. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The noise level of the atomic interference signal is currently limited by the intense background induced by the scattered light from the detection beam and Raman beams. The fluctuations of the interference signals mainly result from the jitter of the atomic flux and the Raman pulses. The stabilities of the cold atomic source and the Raman lasers (intensities and phase noise) need to be further optimized. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Compared with its pulsed counterparts,it is easier for a LPAI with a continuous source to be noise-compensated or loop-closed with the application of real-time frequency or phase modulation techniques $^ { 3 5 , 3 6 }$ . In the future, frequency and phase modulations are to be added to the spatially separated Raman pulses of our system. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "This work was supported partly by the National Natural Science Foundation of China (Grant No. 61473166) and the Major State Basic Research Development Program of China (973 Program) (Grant No. 2010CB922900). Yanying Feng thanks the China Scholarship Council for support. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "$^ { 1 }$ F.Riehle, T. Kisters,A. Witte, J. Helmcke, and C. J. Bordé, Phys.Rev. Lett.67,177 (1991).   \n（204 $^ 2$ M. Kasevich and S. Chu, Phys. Rev. Lett. 67, 181 (1991).   \n（20 $^ 3$ A. Peters, K. Y. Chung， and S. Chu, Metrologia 38, 25 (2001).   \n（204 $^ 4$ N. Yu, J. Kohel, J. Kellogg， and L. Maleki, Appl. Phys.B 84,647 (2006).   \n（204号 $^ { 5 }$ Q. Bodart, S. Merlet, N. Malossi, F. P. Dos Santos, P. Bouyer， and A. Landragin, Appl. Phys. Lett. 96,134101 (2010).   \n（204号 $^ 6$ Z.-K. Hu, B.-L. Sun, X.-C. Duan, M.-K. Zhou, L.-L. Chen, S. Zhan, Q.-Z. Zhang， and J. Luo, Phys. Rev. A 88, 043610 (2013).   \n（204 $^ 7$ J. M.McGuirk, G. T. Foster, J. B. Fixler, M. J. Snadden， and M. A. Kasevich, Phys. Rev. A 65,033608 (2002).   \n（20 $^ 8$ B. Canuel, F. Leduc, D. Holevile, A. Gauguet, J. Fils, A. Virdis, A. Clairon, N. Dimarcq, C. J. Bordé, A. Landragin， and P. Bouyer, Phys. Rev. Lett. 97, O10402 (2006).   \n（204号 $^ { 9 }$ D. S. Durfee, Y. K. Shaham， and M. A. Kasevich, Phys. Rev. Lett. 97, 240801 (2006).   \n$^ { 1 0 }$ S. Wu,E. Su， and M. Prentiss, Phys. Rev. Lett. 99,173201 (2007).   \n$^ { 1 1 }$ S. M. Dickerson, J. M. Hogan,A. Sugarbaker, D. M. S. Johnson， and M. A. Kasevich, Phys. Rev. Lett. 111, 083001 (2013).   \n$^ { 1 2 }$ H. Muller,A. Peters, and S. Chu, Nature 463,926 (2010).   \n（20 $^ { 1 3 }$ M. Cadoret, E. de Mirandes,P. Clade, S. Guellati-Khelifa, C. Schwob,F. Nez, L. Julien, and F.Biraben,Phys. Rev. Lett. 101, 230801 (2008).   \n（20 $^ { 1 4 }$ D. W. Keith, C.R. Ekstrom, Q.A. Turchette, and D.E. Pritchard, Phys. Rev. Lett. 66, 2693 (1991).   \n（204号 $^ { 1 5 }$ A. Lenef, T. D. Hammond, E. T. Smith, M. S. Chapman, R. A. Rubenstein， and D.E. Pritchard, Phys. Rev. Lett. 78, 760 (1997).   \n（204 $^ { 1 6 }$ E. M. Rasel, M. K. Oberthaler, H. Batelaan, J. Schmiedmayer， and A. Zeilinger, Phys. Rev. Lett. 75, 2633 (1995).   \n（20 $^ { 1 7 }$ A.Tonyushkin, A. Kumarakrishnan,A. Turlapov,and T.Sleator,Eur.Phys. J.D 58,39 (2010).   \n（204号 $^ { 1 8 }$ T. L. Gustavson, A. Landragin, and M. A. Kasevich, Class.Quantum Grav.17, 2385 (2000).   \n（20 $^ { 1 9 }$ P. Wang,R.-B.Li,H.Yan, J. Wang,and M.-S. Zhan,Chin.Phys.Lett. 24,27 (2007).   \n（204号 $^ { \\mathrm { 2 0 } }$ A. Gauguet, B. Canuel,T.Lvque,W. Chaibi, and A. Landragin,Phys. Rev. A 80 (2009).   \n（ $^ { 2 1 }$ G. Tackmann,P.Berg, C. Schubert, S.Abend, M. Gilowski, W. Ertmer，and E. M. Rasel, New J. Phys. 14, 015002 (2012).   \n（204号 $^ { 2 2 }$ S. Merlet, J. Le Gout, Q. Bodart,A. Clairon,A. Landragin, F.Pereira Dos Santos， and P. Rouchon, Metrologia 46, 87 (2009).   \n（20 $^ { 2 3 }$ R. Geiger, V. Menoret, G. Stern,N. Zahzam, P. Cheinet, B.Battelier,A. Viling,F. Moron, M. Lours, Y. Bidel, A. Bresson, A. Landragin， and P. Bouyer, Nat. Commun. 2 (2011).   \n（204 $^ { 2 4 }$ Aaron Canciani, Integration of Cold Atom interferometry INS with other sensors, Ph.D. thesis，Air University (2012).   \n（20 $^ { 2 5 }$ D. L. Butts, J. M. Kinast, B.P. Timmons,and R. E. Stoner, J. Opt.Soc. Am. B 28,416 (2011).   \n（20 $^ { 2 6 }$ H. J. McGuinness,A.V.Rakholia,and G.W.Biedermann,Appl. Phys.Lett.100,011106 (2012).   \n27J. Guena, G. Dudle, M. Plimmer， and P. Thomann, in Frequency Control Symposium, 2007 Joint with the 21st European Frequency and Time Forum. IEEE International (2007) pp. 477-482.   \n（204号 $^ { \\mathrm { 2 8 } }$ L. Devenoges,A. Stefanov,A. Joyet,P.Thomann,and G. Di Domenico, IEEE Transactions on Ultrasonics, Ferroelectrics and Frequency Control 59, 211 (2012).   \n（204号 $^ { \\cdot 2 9 }$ G. Di Domenico,L. Devenoges， A. Joyet，A. Stefanov, and P. Thomann, in Frequency Control and the European Frequency and Time Forum (FCS)， 2011 Joint Conference of the IEEE International (201l) pp.1-5.   \n（20 $^ { 3 0 }$ Z. T. Lu, K. L. Corwin, M. J. Renn, M. H. Anderson, E. A. Cornell, and C. E. Wieman, Phys. Rev. Lett. 77, 3331 (1996).   \n（20 $^ { 3 1 }$ X.-J. Wang, Y.-Y. Feng, H.-B. Xue, Z.-Y. Zhou, and W.-D. Zhang, Chin. Phys. B 20, 126701 (2011).   \n（204号 $^ { 3 2 }$ H. B. Xue, Y. Y. Feng, X. J. Wang, S. Chen, and Z. Y. Zhou, Rev. Sci. Instrum. 84, 046104 (2013).   \n（204 $^ { 3 3 }$ D. Morris,Rev. Sci. Instrum. 55,1483 (1984).   \n（20 $^ { 3 4 }$ S. Malte， A mobile high-precision gravimeter based on atom interferometry, Ph.D. thesis, Humboldt-Universitt zu Berlin (2011).   \n（204号 $^ { 3 5 }$ T. L. Gustavson, Precision rotation sensing using atom interferometry, Ph.D.thesis, Stanford University (2000).   \n（20 $^ { 3 6 }$ C. Zhu,Y. Feng, X. Ye, Z. Zhou, Y. Zhou, and H. Xue, Acta Phys. Sin 57, 808 (2008). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    }
+]

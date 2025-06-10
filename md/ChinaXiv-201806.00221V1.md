@@ -1,0 +1,121 @@
+# 皮肤T细胞淋巴瘤局部用药和物理治疗的研究进展
+
+王诗琪，池诚，刘洁中国医学科学院北京协和医学院皮肤科，北京100730通信作者：刘洁E-mail：Liujie04672@pumch.cn【摘要】皮肤T细胞淋巴瘤（cutaneous Tcelllymphoma，CTCL）大多属于惰性型淋巴瘤，疾病进展缓慢，患者确诊时多处于疾病早期。局部用药和物理治疗在CTCL 治疗中占重要地位，包括局部外用皮质类固醇激素、免疫抑制剂、维A酸，放疗及光疗等。近年来，有研究对CTCL传统局部用药和物理治疗方法的有效性和安全性进行了重新评估。同时，新型CTCL局部用药和物理治疗策略也不断涌现，如局部外用阿扎罗汀、瑞喹莫特，UVA联合新型光敏剂的光化学疗法和光动力治疗等。本文对CTCL局部用药和物理治疗的研究进展作一综述。
+
+【关键词】皮肤T细胞淋巴瘤；蕈样肉芽肿；Sézary 综合征；局部治疗；物理治疗
+
+# Advance in the local medicine treatment and physical therapy for cutaneous T cell lymphoma
+
+Wang Shiqi，Chi Cheng，Liu Jie   
+Department of Dermatology, Peking Union Medical College Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Bei jing, 100730，China
+
+Corresponding author: Liu Jie， E-mail: Liujie04672@pumch.cn 【Abstract】 Cutaneous T cell lymphomas (CTCLs） are mostly indolent, which slowly progress. The patient usually gets a definite diagnosisin the early stage. Local medicine treatment and physical therapy are a mainstay of treatment of CTCL， including topical corticosteroids, immunosuppressive agents, retinoids, radiation therapy and phototherapy. In recent years, the efficacy and safety of traditional methods has been further evaluated. Meanwhile, some new strategies of CTCL local medicine treatment and physical therapy such as topical tazarotene， topical resiquimod, UVA plus new photosensitizer and photodynamic therapy have been employed for CTCL. This article reviews the research progress of CTCL local medicine treatment and physical therapy.
+
+【Key words】 cutaneous T cell lymphoma; mycosis fungoides； Sézary syndrome; skin-directed therapy; physical therapy
+
+皮肤T细胞淋巴瘤（CTCL）是一组原发于皮肤的T细胞淋巴瘤，可累及淋巴结、骨髓和内脏器官。蕈样肉芽肿（mycosis fungoides，MF）和 Sézary 综合征（Sézary syndrome,SS）是CTCL最常见的两种亚型。对于早期局限性患者，多采用局部用药或物理治疗，进展期难治患者则多采用系统治疗或联合治疗，局部用药和物理治疗在CTCL 的治疗中占据举足轻重的地位。近年来，随着对CTCL病理发生机制研究的深入以及肿瘤治疗技术的进步，CTCL的治疗也有了不少新的突破，对于CTCL的系统治疗，尤其是靶向治疗的研究进展，已有不少文献报道[。但鲜有对CTCL 局部治疗的研究进展的报道。本文对 CTCL 局部用药和物理治疗的发展现状和研究进展作一综述。
+
+# 1．CTCL局部用药研究进展
+
+局部使用皮质类固醇激素、免疫抑制剂（氮介、卡莫司汀）、维A酸治疗CTCL 已有多年，近期有学者对其有效性和安全性进行了重新评估。并发现阿扎罗汀、瑞喹莫特治疗早期MF 可能存在较好疗效。
+
+1.1局部外用皮质类固醇激素
+
+局部外用皮质类固醇激素治疗CTCL开始于1960s，具有抗炎和抑制细胞增殖的双重作用，有效性得到广泛认可[2]。Zackheim等人[3]随访了约200 例患者， $9 4 \%$ 的T1期患者和 $8 2 \%$ 的 T2 期患者达到了部分缓解（partial remission，PR）或完全缓解（complete remission，CR)。有学者使用皮质类固醇激素皮损内封闭治疗4例对传统治疗方法抵抗的MF 患者（包括肿瘤期和CD30+大细胞转化的MF 患者）的局限性皮损，均取得了满意效果4。
+
+# 1.2局部外用免疫抑制剂
+
+# 1.2.1氮芥
+
+氮芥是一种烷化剂，外用治疗MF 的机制是抑制肿瘤细胞增殖和干扰角质形成细胞、朗格汉斯细胞及T 细胞之间的相互作用。其水剂和软膏从1950s 开始用于治疗MF，但以上两种剂型引起皮肤过敏反应的发生率较高。2013年Lessin等人[5的多中心随机单盲试验示，260 例IA到IIA期的MF 患者使用 $0 . 0 2 \%$ 的氮芥凝胶和氮芥软膏治疗2年，有效率（Responserates，RR）分别为 $5 9 \%$ 和 $4 8 \%$ ，且凝胶的治疗起效时间更短 $( \mathrm { p } { \langle 0 . 0 1 2 \rangle }$ ，未检测到药物的系统吸收，及严重不良反应的发生。另外，凝胶易干燥、使用方便，已被批准用于治疗IA和IB期MF[6。虽然氮芥被广泛成功用于MF 的治疗[7-9]，但其可能增加第二种癌症和慢性肺部疾病的风险一直存在争议。Lindahl[10等人开展了一项30 年的群体队列研究，比较110 例外用氮芥治疗和 193例未使用氮芥治疗的MF 患者，结果显示两组患者第二种癌症（如黑色素瘤、非黑色素性皮肤癌、肺癌等)、其他并发症（如慢性肺部疾病等）的发生率和死亡风险均无显著差异，证实了外用氮芥治疗MF的安全性。
+
+# 1.2.2卡莫司汀
+
+卡莫司汀是另一种外用治疗MF 的烷化剂，近期对卡莫司汀的研究集中在联合治疗上。以往发现CTCL 肿瘤细胞可能通过一种 DNA 修复酶O6 烷基鸟嘌呤 DNA 烷基转移酶（06-alkylguanine DNA alkyltransferase，AGT）来逃避卡莫司汀的毒性效应。Apisarnthanarax 等人[发现 O6-苄基鸟嘌呤可以显著减少CTCL皮损中 AGT 的水平,与卡莫司汀联用可增强疗效、减少使用剂量和不良反应的发生。另外，局部使用卡莫司汀单药或与系统使用干扰素α、干扰素γ或异维A酸联合，用于亲毛囊性 MF 的初治和复治均有效，可能与其较氮芥穿透力强有关[12]。Heisig等人[13]报道外用阿糖胞苷联合卡莫司汀可成功治疗亲毛囊性MF。卡莫司汀局部治疗的副作用小，主要表现为红斑、毛细血管扩张、色素沉着等[2,12]。
+
+# 1.3局部外用维A酸
+
+维A酸是维生素A衍生物，治疗CTCL的机制是抗肿瘤细胞增殖、诱导肿瘤细胞凋亡和调节免疫等。作用由视黄酸受体（retinoic acid receptors，RAR）和类视黄醇X受体（retinoid Xreceptor，RXR）家族介导。贝扎罗汀（bexarotene）能够选择性地与 RXR 结合，是目前唯一被美国食品和药物管理局（US Food and DrugAdministration，FDA）批准外用治疗CTCL的维A酸。
+
+Apisarnthanarax 等人[4]发现 $0 . 1 \%$ 他扎罗汀（tazarotene）治疗复发难治性 MF有效。相比贝扎罗汀，他扎罗汀对 RAR有更强的亲和力，尤其对 $\mathrm { R A R - } \gamma$ ，且更方便易得、经济实惠[2]。一项前瞻性研究显示，外用 $0 . 1 \%$ 的他扎罗汀单药治疗 10 例IA到ⅡA期的CTCL患者6月， $6 0 \%$ 可获CR，且 $8 3 \%$ 的CR可持续6个月以上，治疗及随访期间无1例疾病进展，治疗的副作用主要表现为瘙痒、烧灼、红斑，未见严重不良反应发生[15]。
+
+此外，阿里维A酸（Alitretinoin)，是目前发现的唯一具有 RAR 和 RXR双重活性的外用维 A酸类药物，口服阿里维 A酸可成功治疗 MF[6-17]，其外用剂型治疗 CTCL的难治顽固性皮损亦有效[18]。
+
+# 1.4新型局部外用药物
+
+尽管上述药物治疗CTCL可改善症状，但仍存在难治病例疗效欠佳，且停药后常复发。咪喹莫特，Toll 样受体7(toll-like receptor 7，TLR7)激动剂，可促进干扰素a、肿瘤坏死因子α、白介素12等的生成，不仅可外用治疗早期MF，对亲毛囊性和肿瘤期 MF 也可达到皮损的完全清除[19]。
+
+瑞喹莫特（resiquimod)，可同时激活 Toll样受体7(TLR7)和8(TLR8)，TLR7 仅在浆细胞样树突状细胞中表达，而TLR8在骨髓演化来的所有树突状细胞中均有表达，这些树突状细胞在正常皮肤和炎症性皮肤中均为优势群体，所以，理论上，瑞喹莫特较咪喹莫特作用更广泛。瑞喹莫特治疗MF 的机制是消除恶性克隆，促进良性T细胞克隆增殖，增强皮肤T细胞细胞因子和自然杀伤细胞的作用[20]。在一期临床试验中，外用 $0 . 0 3 \%$ 和 $0 . 0 6 \%$ 的瑞喹莫特凝胶治疗12例IA到IIA期难治性MF， $7 5 \%$ 达到临床缓解，$3 0 \%$ 皮损完全清除；另一重要发现是，瑞喹莫特还可诱导缓解非治疗部位的皮损，这也是目前CTCL所有外用药中首次发现此作用；瑞喹莫特副作用少，多为局部皮肤刺激反应[20-21]。
+
+# 2．CTCL光疗的研究进展
+
+光疗可使用紫外线A（ultravioletA，UVA)，紫外线B(ultravioletB,UVB)或甲氧西林加紫外线A(psoralen plusultraviolet A,PUVA)。UVB可分为宽谱 UVB(BB-UVB,波长 $2 9 0 \mathrm { n m - 3 2 0 \mathrm { n m } }$ )榨谱UVB(NB-UVB,波长311-312nm）。UVA可分为UVA1（波长340-400nm）和UVA2（波长 $3 2 0 \mathrm { - } 3 4 0 ~ \mathrm { n m } ,$ ）。近年NB-UVB及PUVA治疗MF的回顾性研究，显示NB-UVB治疗MF 的近期副作用包括红斑、瘙痒、原有皮损激化、光敏性反应、特发白斑样皮损、雀斑（相比PUVA性雀斑，颜色稍浅、更圆、边界更清晰）、血清维生素D水平升高，远期不良反应包括光致癌性、对眼睛的影响（包括结膜炎、角膜炎等；PUVA 的副作用主要表现为原有皮损的激化、与口服补骨脂素（8-MOP）相关的恶心腹痛、疲乏头痛和指甲改变（如甲下出血、光照性甲松离、黑甲)，远期不良反应有色素改变、光老化（起皱纹或毛细血管扩张）、白内障、多毛症、皮肤肿瘤（非色素性皮肤癌，如皮肤鳞状细胞癌、皮肤基底细胞癌)，是否增加黑色素瘤的风险仍存在争议；临床上多首选 NB-UVB，即使对孕妇和儿童也可安全使用[23]。有人推荐NB-UVB作为儿童早期MF 的一线治疗选择[24]。
+
+PUVA 作为CTCL的一线治疗选择，在治疗早期MF、复发性和亲毛囊性MF均取得理想疗效[25-26],一项回顾性试验探讨了10 例局部 PUVA 治疗难治性MF 皮损的有效性和安全性，完全缓解6例，部分缓解3例，有效率达 $9 0 . 0 0 \% ^ { [ 2 7 ] }$ 。但临床实践中仍有部分患者对甲氧西林联合UVA 治疗不敏感。最近发现共济失调毛细血管扩张和 Rad3 相关激酶（AtaxiaTelangiectasia and Rad3 related kinase，ATR）的小分子抑制剂VE-821、 VE-822 或Chir-124,与UVA联合使用时可通过抑制ATR 酶活性和增强UVA的光敏感性的双重作用引起细胞凋亡，显著增加淋巴细胞对UVA 的敏感性[28]。
+
+然而，PUVA有口服补骨脂素相关的副作用和远期致癌作用，NB-UVB 浸润深度较浅，易致治疗失败和复发。而UVA-1浸润较深，可达真皮网状层甚至皮下组织，能诱导浸润的T 细胞凋亡，是早期CTCL 的有效治疗方法。Olek-Hrab 等人[2使用UVA-1 治疗4 例早期 MF 患者，均达到临床和组织病理的完全缓解，未发现不良反应发生。Kenan Aydogan等人[3使用低剂量UVA-1(20J／cm²或30J／cm²)治疗19 例早期 MF 患者，11例（ $5 7 . 9 \%$ ）取得CR，3例 $( 1 5 . 8 \% )$ 取得 PR，平均累积剂量为1665J／cm²（860J／cm（204号 $^ { 2 } - 3 1 2 0 \mathrm { ~ J ~ / ~ } \mathrm { ~ c m ~ } ^ { 2 } )$ ，平均照光次数为73 次(43次－107次），仅两例患者出现可逆性的色素沉着，无严重不良反应发生，流式细胞学分析治疗前后外周血单核细胞中 $\mathrm { C D 3 ^ { + } }$ ， $\mathrm { C D 4 ^ { + } }$ $\mathrm { C D 7 ^ { + } }$ ， $\mathrm { C D 8 ^ { + } }$ 的表达无显著统计学差异，提示无系统副作用。另外，BB（broadband）-UVA（ $2 0 ~ \mathrm { J / c m } ^ { 2 }$ ， $8 0 . 1 \%$ 由UVA1组成，亦可以有效治疗早期MF（显效率为 $3 3 \%$ ，而PUVA治疗组为 $1 3 . 3 \%$ )，适用于有补骨脂素口服禁忌症和不适合使用UVA1的患者，尤其适用于深色人种，可以耐受 $2 0 \mathrm { \ J / c m ^ { 2 } }$ BB-UVA的照射而没有毒性作用，且BB-UVA较UVA-1更为经济[31]。
+
+CTCL 光疗的另一发展是308准分子激光，其靶向性强，对周围正常组织损伤小。与  
+传统光疗相比，可给予更高的UVB剂量，缩短治疗时间，准分子激光治疗局限型MF 缓解  
+率为 $6 6 \%$ ，亦可作为特殊部位（如面部、腋窝、腹股沟区或臀沟区）MF 皮损的治疗选择  
+[32]。
+
+# 3．CTCL放射治疗的研究进展
+
+放射疗法(Radiation therapy，RT)，包括局部RT 和全身RT，是CTCL 最有效的治疗形式之一。淋巴细胞是所有细胞中对放射线最敏感的一种细胞。局部 RT 治疗早期 MF的CR达 $9 5 \%$ 到 $1 0 0 \%$ ，一般需1-2个疗程。Thomas 等人[33使用单次局部 RT 治疗58 例 MF患者（21例斑片/斑块期，34例肿瘤期,3例红皮病)，CR为 $9 4 \%$ 。也有使用局部RT成功治疗外阴部孤立溃疡的肿瘤期 MF 的报道[34]。全电子束照射（total skin electron beamtherapy，TSEBT）对泛发性早期MF、进展期或肿瘤期MF、红皮病性MF 均有效。TSEBT可在自体或异体造血干细胞移植前使用，缓解皮肤症状，并可能减少移植后宿主抗移植物反应[35]。以往有 TSEBT 与皮下注射干扰素联合治疗 MF 失败的报道，有学者对此治疗方案进行了更深入的研究，TSEBT与皮下注射干扰素联合使用相比TSEBT 单独治疗 MF，虽然完全缓解率更高（分别为 $6 3 \%$ 和 $3 6 \%$ )，但二者并无显著统计学差异[36]。另外，TSEBT治疗时间长（需6-10周、急性毒性反应（如红斑、水疱、色沉、疼痛等）较局部 RT发生率高，还可导致脱发、营养不良性甲、少汗、皮肤干燥、白内障、发生第二种皮肤肿瘤等不良反应，临床上仅在弥漫性MF 对其他治疗无效、或存在较厚斑块及肿瘤期皮损时推荐使用[37]。
+
+# 4．CTCL光动力治疗的研究进展
+
+自1994 年首次用氨基酮戊酸-光动力疗法（aminolevulinic acid- photodynamictherapy，ALA-PDT）成功治疗 MF 以来，PDT 治疗MF 的研究成为热点。其优势包括突出的美容效果（尤其对面颈部皮损）、选择性强、可重复性强、较低的毒性聚集风险、较低的光过敏反应和致癌性[38-39]。PTD 可用于治疗复发难治性 MF，面颈部等敏感部位也可以使用[39]。另外，对于CTCL 的肿瘤期皮损，有学者采用皮内注射 ALA 2 小时后使用可见光(波长 $3 8 0 - 8 1 0 \mathrm { n m } .$ )照射皮损,5天后皮损出现黑色坏死样改变，提示治疗有效[40]。甲基氨基酮戊酸（methyl-aminolevulinate，MAL）作为新型光敏剂，相比ALA，亲脂性和穿透力更强、且诱导时间短、选择性高，MAL-PDT 可成功治疗肿瘤期 MF[41]。Rivetti等人[42成功使用 MAL-PDT 治疗难治复发性 MF，并建议合并鲍文病、日光性角化等的 MF斑块可考虑 PDT 治疗。
+
+综上所述，近年来人们对CTCL的传统局部用药和物理治疗方法进行了重新评估，同时也发现了多种新型局部治疗策略。但CTCL各个局部用药和物理治疗方法的有效性和安全性及其最优使用方案尚需更多大规模的临床试验进一步研究，另一方面，随着CTCL 发病机制研究的进一步深入，仍需探索更多新型治疗方法来增强疗效，减少副作用。
+
+# 参考文献
+
+[1] 罗毅鑫，刘洁．皮肤T细胞淋巴瘤靶向治疗的研究进展［J]．临床皮肤科杂 志,2016(11) :814-817. D0I:10.16761/j.cnki.1000-4963.2016.11.025.   
+[2] Nguyen CV, Bohjanen KA. Skin-Directed Therapies in Cutaneous T-Cell Lymphoma[J]. Dermatol C1in，2015，33(4):683-696. D0I:10.1016/j.det.2015.05.004 .   
+[3] Zackheim HS. Treatment of patch-stage mycosis fungoides with topical corticosteroids[J]． Dermatol Ther，2003，16(4) :283-287.   
+[4] Liu DY, Shaath T,Rajpara AN, et al. Safe and Efficacious Use of Intralesional Steroids for the Treatment of Focally Resistant Mycosis Fungoides[J/OL]. J Drugs Dermatol, 2015, 14(5) :466-470 [2015-05]. https://www.researchgate.net/publication/275894546.   
+[5] Lessin SR, Duvic M, Guitart J,et al. Topical chemotherapy in cutaneous T-cell lymphoma: positive results of a randomized, controlled, multicenter trial testing the efficacy and safety of a novel mechlorethamine, $0 . 0 2 \%$ ，gel in mycosis fungoides[J]. JAMA Dermatol, 2013, 149(1) :1-8. DOI:10.1001/2013.jamadermatol.541.   
+[6] Talpur R, Venkatarajan S,Duvic M. Mechlorethamine gel for the topical treatment of stage IA and IB mycosis fungoides-type cutaneous T-cell lymphoma[J]. Expert Rev Clin Pharmacol， 2014， 7(5) :591. D0I:10.1586/17512433.2014.944500.
+
+[7] Ben jamin CA， Markel K,Tawa MC. Optimizing Care and Compliance for the Treatment of Mycosis Fungoides Cutaneous T-Cell Lymphoma With Mechlorethamine Gel[J].Clin J Oncol Nurs，2015，19(6) :E131． DOI:10.1188/15.CJ0N.E131-E139.
+
+[8] Lindahl LM, Fenger-Gron M, Iversen L. Topical nitrogen mustard therapy in patients with mycosis fungoides or parapsoriasis[J]. J Eur Acad Dermatol Venereol， 2013，27(2) :163 -168.D0I:10.1111/j.1468-3083.2011.04433.x.   
+[9] 单百卉，李雪，郑玉洁,等．口服阿维A联合氮芥外用治疗老年蕈样肉芽肿1例［J]．中 国老年学，2013，33(5):1155-1156. D0I:10.3969/j.issn.1005-9202.2013.05.077.   
+[10] Lindahl LM, Fengergron M, Iversen L. Secondary cancers， comorbidities and mortality associated with nitrogen mustard therapy in patients with mycosis fungoides: a 30-year population-based cohort study[J]. Br J Dermatol， 2014, 170(3) :699 - 704. D0I:10.1111/bjd.12620.   
+[11] Apisarnthanarax N, Wood GS, Stevens SR, et al. Phase I clinical trial of 06-benzylguanine and topical carmustine in the treatment of cutaneous T-cell lymphoma， mycosis fungoides type[J]． Arch Dermatol， 2012， 148(5):613-620. DOI:10.1001/archdermatol. 2011. 2797.   
+[12] Macarthur KM, Jariwala N, Kim EJ,et al. Topical Carmustine as Monotherapy or as Multimodality Therapy for Folliculotropic Mycosis Fungoides[J]. Acta Derm Venereol， 2016． D0I:10.2340/00015555-2551.   
+[13] Heisig M, Maj J, Szepietowski JC,et al. Durable remission of folliculotropic mycosis fungoides achieved with a combined topical treatment with cytarabine and carmustine[J]． Dermatol Ther，2015，29(1) :15-18.D0I:10.1111/dth.12272.   
+[14] Apisarnthanarax N, Talpur R,Ward S,et al. Tazarotene $0 . 1 \%$ gel for refractory mycosis fungoides lesions: an open-label pilot study[J]. J Am Acad Dermatol, 2004，50(4) :600-607． D0I:10.1016/j. jaad.2003.09.005.   
+[15] Besner MC，Roberge D, Turchin I，et al. Tazarotene $0 . 1 \%$ Cream as Monotherapy for Early-Stage Cutaneous T-Cell Lymphoma[J]. J Cutan Med Surg， 2016， 20(3). DOI:10.1177/1203475415626686.   
+[16] Coors EA， Von d DP. Treatment of 2 patients with mycosis fungoides with alitretinoin[J].JAmAcad Dermatol, 2012， 67(6) : e265. DOI:10.1016/j. jaad. 2012.05. 011.   
+[17] Miernik B, Schmidt V, Technau-Hafsi K,et al. Alitretinoin in the treatment of palmoplantar mycosis fungoides: a new and promising therapeutic approach[J]. Clin Exp Dermatol， 2014， 40(4) :445-447. D0I:10.1111/ced.12516.   
+[18] Bassiri-Tehrani S, David E. Treatment of cutaneous T-cell lymphoma with alitretinoin ge1[J]. IntJDermatol, 2002， 41(2) : 104. DOI:10.1038/sj.bjp. 0706804.   
+[19] Gordon MC， Sluzevich JC, Jambusariapahlajani A. Clearance of folliculotropic and tumor mycosis fungoides with topical $5 \%$ imiquimod[J]． JAAD Case Rep，2015, 1(6) :348-350. D0I:10.1016/j. jdcr.2015.08.007.   
+[20] Rook AH, Gelfand JC, Wysocka M, et al. Topical resiquimod can induce disease regression and enhance T-cell effector functions in cutaneous T-cell lymphoma[J]. Blood，2015，126(12) :1452． D01:10.1182/b100d-2015-02-630335.   
+[21] Killock D. Haematological cancer: Resiquimod-a topical CTCL therapy[J]. Nat Rev Clin Oncol，2015，12(10)． D0I:10.1038/nrclinonc.2015.142.   
+[22] Emmilia H, Lev P. Phototherapy of Mycosis Fungoides［J]. Dermatol Clin， 2015, 33(4) :697-702. D0I:10.1016/j. det.2015.05.005.   
+[23] Olsen EA，Hodak E, Anderson T，et al. Guidelines for phototherapy of mycosis fungoides and Sézary syndrome: A consensus statement of the United States Cutaneous Lymphoma Consortium[J]. J Am Acad Dermatol， 2015， 74(1):27. DOI:10.1016/j. jaad. 2015.09. 033.   
+[24] Koh MJ, Chong WS. Narrow-band ultraviolet B phototherapy for mycosis fungoides in children[J]. Clin Exp Dermatol，2014，39(4) :474. D0I:10.1111/ced.12364.   
+[25] Hernández Z, Penate Y， Hernándezmachin B,et al. Treatment of stage Ia and Ib mycosis fungoides with psoralen UVA monotherapy: an observational study in tertiary hospitals inthe Canary Islands［J]. IntJ Dermatol， 2014, 53(11) :1417-1422. D0I:10.1111/ijd.12425.   
+[26] Pavlotsky F, Hodak E，Ben AD,et al. Role of bath psoralen plus ultraviolet A in early-stage mycosis fungoides[J]. J Am Acad Dermatol， 2014， 71(3):536-541. DOI:10. 1016/j. jaad. 2014. 04. 011.   
+[27] 闫岩，徐晨琛，王涛,等．局部甲氧沙林加紫外线 A 治疗难治性蕈样肉芽肿皮损的初步 研究［J]．中华肿瘤杂志，2015， 37(11) :859-862. DOI:10.3760/cma. j. issn.0253-3766.2015.11.013.   
+[28] Biskup E， Naym DG， Gniadecki R. Small-molecule inhibitorsofAtaxia Telangiectasia and Rad3 related kinase (ATR) sensitize lymphoma cells to UVA radiation[J]. J Dermatol Sci， 2016. DOI:10.1016/j. jdermsci.2016.09.010.   
+[29] Olek-Hrab K, Silny W, Dahczak-Pazdrowska A,et al. Ultraviolet Al phototherapy for mycosis fungoides[J]． Clin Exp Dermatol，2013，38(2):126-130.   
+[30] Aydogan K, Yazici S,Balaban AS,et al. Efficacy of low-dose ultraviolet a-1 phototherapy for parapsoriasis/early-stage mycosis fungoides[J]. Photochem Photobiol， 2014， 91(1) :873-877.   
+[31] Mofty M E, Ramadan S, Fawzy MM, et al. Broad band UVA: a possible reliable alternative to PUVA in the treatment of early-stage mycosis fungoides[J]. Photodermatol Photoimmunol Photomed， 2012， 28(5) :274- 277.   
+[32] Deaver D, Cauthen A, Cohen G,et al. Excimer laser in the treatment of mycosis fungoides[J]. JAmAcad Dermatol, 2014, 70 (6) :1058. DOI:10.1016/j. jaad. 2014. 01. 915.   
+[33] Thomas T O, Agrawal P,Guitart J,et al. Outcome of patients treated with a single-fraction dose of palliative radiation for cutaneous T-cell lymphoma[J]. IntJRadiatOncol Biol Phys. 2013， 85 (3) : 747-753. DOI:10.1016/j. i jrobp.2012. 05.034.   
+[34] Bakar ö, Sahin, Sedef, Cetinozman, Fatma,et al. Tumor - stage mycosis fungoides of the vulva successfully treated with local low - dose radiotherapy[J]. Dermatol Ther， 2015，28(1) :36-39. D0I:10.1111/dth.12181.   
+[35] Duvic M, Donato M, Dabaja B,et al. Total skin electron beam and non-myeloablative allogeneic hematopoietic stem-cell transplantation in advanced mycosis fungoidesand Sezarysyndrome[J].J Clin Oncol， 2010， 28(14):2365. DOI:10.1200/jco. 2009.25.8301.   
+[36] Wagner AE, Wada D, Bowen G,et al. Mycosis fungoides: the addition of concurrent and adjuvant interferon to total skin electron beam therapy[J]. Br J Dermatol, 2013，169(3) :715 - 718. D01:10.1111/bjd.12386.   
+[37] Tandberg DJ, Craciunescu O， Kelsey CR. Radiation Therapy for Cutaneous T-Cell Lymphomas[J]． Dermatol Clin， 2015，33(4):703.D0I:10.1016/j.det.2015.05.006.   
+[38] Xue J,Liu C, Liu Y. Photodynamic therapy as an alternative treatment for relapsed or refractory mycosis fungoides: a systemic review[J]. Photodiagnosis Photodyn Ther， 2016[2016-11-22]． D0I:10.1016/j.pdpdt.2016.11.010.   
+[39] Debu A， Bessis D， Girard C， et al. Photodynamic therapy with methyl aminolaevulinate for cervical and/or facial lesions of folliculotropic mycosis fungoides: interest and limits[J]. Br J Dermatol， 2013， 168(4):896-898.
+
+DOI:10.1111/bjd.12064.
+
+[40] Kabata Y， Shimomura Y.，Matsuo Y,et al. Photodynamic therapy with intradermal application of 5-aminolevulinic acid successfully improved tumor lesions of mycosis fungoides[J]. Int JDermatol,2017[2017-01-30]. D0I:10.1111/ijd.13483.   
+[41] Ariel H, Cristián ND, Claudia N, et al. Topical photodynamic therapy with 5-aminolevulinate for the treatment of tumor-stage mycosis fungoides:a case report[J]. Int J Dermatol, 2013, 52(12) :1535. DOI:10.1111/j.1365-4632.2011.05427. x.   
+[42] Rivetti N, Cananzi R, Borroni RG,et al. Effectiveness of photodynamic therapy in refractory plaque-stage mycosis fungoides associated with Bowen' s disease[J]. Dermatol Ther. 2017;00:e12474. D0I： 10.1111/dth.12474.

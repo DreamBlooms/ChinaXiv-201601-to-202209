@@ -1,0 +1,247 @@
+# 三维虚拟空间中转头选中远离和靠近运动目标的操作特性差异
+
+邓成龙’耿鹏’蒯曙光 1,2
+
+('华东师范大学心理与认知科学学院，脑科学与教育创新研究院，上海市心理健康与危机干预重点实验室，上海 200026)(上海脑科学与类脑研究中心，上海 200031)
+
+摘要 通过转头选中运动目标是虚拟现实(VR)中的常见操作，然而运动目标包含远离和靠近运动，确定两类操作的时间特性差异对设计高效的用户接口有重要的意义。本研究选取17名被试在VR中通过转头将球体光标快速准确地放入水平运动的球体目标内，并改变初始距离、目标容差和目标速度。总时间结果显示，远离运动的操作难度更大，初始距离和目标容差对远离和靠近运动的影响相似，目标速度对两类运动的影响相反。进一步将光标的移动过程划分为加速、减速和调整阶段，结果发现，远离运动的加速和减速时间大于靠近运动，但是两类运动的调整时间接近，并且只有目标容差对两类运动的影响一致。最后构建了总时间与三因素的函数模型，成功解释了两类运动的操作时间特性。本研究证明了远离与靠近运动具有不同的操作时间特性，为两类运动的独立交互设计提供了重要参考。
+
+关键词运动目标，转头操作，移动轨迹，人体绩效建模，人机交互分类号B849
+
+# 1引言
+
+近年来，转头交互已经成为了VR中的重要交互方式，一方面，转头交互是很多不提供交互手柄的便携式VR 和 AR 设备的主要交互方式,比如 Samsung GearVR,Google Cardboard,和 Microsoft HoloLens 等(Blattgerste et al.,2018; Pathmanathan et al.,2020)；另一方面，在很多VR应用中，转头交互也作为双手被占用时的主要交互方式，比如在虚拟手术训练中通过转头与显示屏交互(Hatscher etal.,2017)。在基于转头交互的大量应用中，经常涉及选中移动目标任务，比如行人、汽车等，为了设计高效的用户接口，了解影响转头选中运动目标的重要因素以及建立操作时间与影响因素的函数关系非常重要。以往研究详细探讨了VR中转头选中静止目标的操作时间特性(Hansen et al.,2018; Hoffmann et al.,2017; Jagacinski & Monk,1985;Qian& Teather,2017)，这些研究发现完成时间 $( M T )$ 与初始距离(A)和目标宽度(W)符合费茨定律:
+
+$$
+M T = a + b l o g _ { 2 } ( 2 A / W )
+$$
+
+其中 $\mathbf { \Delta } _ { a }$ 和 $b$ 是拟合常数。然而，该模型并不能解释选中运动目标的操作特性，因为选中运动目标的操作时间还受到目标速度大小的影响。此外，运动目标还具有方向性，目标做远离和靠近操作者的运动是两类常见的运动模式，选中远离运动目标(简称远离运动)和靠近运动目标(简称靠近运动)的过程存在不同。在远离运动中，操作者需要以大于目标的速度追击目标;在靠近运动中，操作者则需要对目标进行拦截，如果拦截失败，后续操作将变成追击远离运动目标模式(Port et al.,1997; Tresilian,2005; Tresilian&Lonergan,2002)，因此远离与靠近运动可能存在不同的操作时间特性。
+
+目前没有发现在三维空间中探讨转头选中运动目标的研究，但是少量研究者探讨了在二维屏幕上基于手控选中运动目标的操作时间特性，然而远离与靠近运动的操作时间特性差异还不确定。远离运动的操作时间特性相对简单，减小目标大小或者增大目标速度都增加操作时间(Hajri et al.,2011; Hasan et al.,2011;Ilich,2009)。然而靠近运动的操作时间特性相对复杂。一方面，一些研究发现靠近运动与远离运动具有相似的操作时间特性，减小目标宽度或者增大目标速度会增加选中靠近运动目标的难度(Hajri et al.,2011; Jagacinski et al.,1980)，并且还提出了函数模型量化靠近运动的操作时间特性。比如，Jagacinski 等人(1980)让参与者在二维电脑屏幕上使用摇杆控制一条竖直的直线(光标)放入逐渐靠近的由两条竖直直线组成的目标内。他们发现完成时间受到初始距离(A)、目标宽度(W)和目标速度(V)的影响，并建立如下模型描述操作时间与三个因素的函数关系(Jagacinski et al.,1980):
+
+$$
+M T = c + d A + e ( V + 1 ) ( 1 / W - 1 )
+$$
+
+其中 $c , d$ 和 $e$ 是拟合常数。后来Hoffmann在费茨定律基础上，提出了靠近运动的两阶段模型：
+
+$$
+M T = a + b l o g _ { 2 } [ A + V / K ] - c l o g _ { 2 } [ W / 2 - V / K ]
+$$
+
+其中 $a , b , c$ 和 $\mathrm { ~ K ~ }$ 是拟合常数，Hoffmann 认为 $l o g _ { 2 } [ A + V / K ]$ 主要反映了移动距离覆盖阶段，而 $l o g _ { 2 } [ W / 2 - V / K ]$ 则反映了调整阶段(Hoffmann,1991)。另一方面，少量研究发现目标速度的增大会减小选中靠近运动目标的难度，与远离运动的结果不同。在 Ilich(2009)的硕士论文中提到，被试使用鼠标在电脑屏幕上捕捉在水平方向上移动的圆环，圆环碰到屏幕边缘后将反弹沿着反方向移动。他根据光标和目标在任务开始和结束时的相对位置将选中过程划分为远离运动和靠近运动。他发现当目标为中大尺寸时，随着目标速度的增加，操作时间表现出了先下降后上升的变化趋势(Ilich,2009)。这些研究结果表明靠近运动的操作时间可能受到目标大小和目标速度的交互影响。此外，远离运动与靠近运动的操作难度差异也存在争议。Iich(2009)的研究显示两类运动的操作难度差异受到目标大小和目标速度的共同影响。当目标移动慢或者快时，远离与靠近运动的操作时间非常接近。但是当目标处于中等速度且目标最小时，靠近运动的操作时间大于远离运动；在其他情况下，远离运动的操作时间则大于靠近运动。然而在后来一项相似的研究中，研究者采用了相同的目标速度和更小的目标尺寸，却没有重复出先前的研究结果。新的研究显示，当目标在水平方向上移动时，远离运动在所有目标尺寸情况下的操作时间都比靠近运动的时间更长(Hajri etal.,2011)。造成两项研究不同结果的原因可能是在他们的任务中，远离与靠近运动过程没有完全分离，他们的结果不能完全反映独立的远离运动与靠近运动的操作时间特性差异。
+
+近期，不少研究从其他方面对选中运动目标的操作特性进行了探索，比如Huang 等人研究了不同因素对远离运动和靠近运动落点分布的影响(Huang et al.,2018;Huang et al.,2019)，不同因素对预估目标到达指定区域的影响(Lee et al.,2018)等，但是这些研究没有探讨两类运动的操作时间变化，由于操作时间是用户接口中最常用的指标，因此本研究主要关注操作时间特性。虽然一些研究关注了操作时间，比如视觉反馈和延时对操作时间的影响(Claypool et al.,2019; Mould & Gutwin,2004),提高选中运动目标操作效率的方法(Gunn et al.,2009; Hasan et al.,2011; Ortega,2013; Ragan et al.,2020)等，但是在这些研究中，目标的运动方向不固定，没有分离远离和靠近运动。
+
+至今为止，远离运动与靠近运动的操作时间特性差异还不完全清楚。首先，初始距离和目标大小都是影响选中目标的重要因素，减小目标和增大初始距离都会增加远离和靠近运动的难度，但是两个因素对远离和靠近运动的影响是否存在差异还未可知。其次，虽然已经确定增大目标速度会增加选中远离运动目标的难度，但是目标速度如何影响选中靠近运动目标的表现还没有统一结论。选中静止目标的过程包含两个阶段：弹射阶段和调整阶段。在弹射阶段，光标从起点快速移动到目标附近，主要与初始距离相关；调整阶段则根据视觉反馈实时调整光标的位置并对准目标，同时受到目标大小和初始距离的影响(Deng et al.,2019;Elliott et al.,2001; Liu et al.,2009; Meyer et al.,1988)。一些研究也支持选中运动目标过程包含两个阶段(Hoffmann,1991;Ilich,2009)，并且目标速度影响两个阶段。增大目标速度将增加远离运动的实际移动距离和减少靠近运动的实际移动距离，同时也会增加对准目标的难度。基于远离与靠近运动的操作过程差异，我们提出如下推测。推测1：在弹射阶段，靠近运动的操作时间低于远离运动，因为靠近运动的实际移动距离更短；在调整阶段，靠近运动的调整时间也低于远离运动，因为远离运动的目标更远，调整难度更大。基于两阶段的结果，靠近运动的总时间将更低。推测2：随着目标速度的增加，靠近运动总时间呈现先下降后上升的U 型变化趋势。增大目标速度减少弹射阶段的时间，但是也增加调整阶段的时间。以往研究显示转头交互具有移动速度慢、稳定性高的特点(Bates & Istance,2003;Deng et al.,2019)，因此我们推测，目标速度的小幅度增加对弹射阶段的帮助更大，导致总操作时间下降。但是目标速度进一步增加将导致调整时间快速增加，超过弹射阶段的受益时间，导致总时间开始上升。推测3：靠近运动的U型曲线拐点速度还受到目标大小的影响，目标越小，调整难度越高，拐点速度越小。
+
+本研究的目的是探索VR中转头选中远离运动目标与靠近运动目标的操作时间特性差异。本研究采用VR 中常见的放置任务，将一个球形光标放入指定的球形目标内(Deng et al.,2019;Duval&Fleury,2009; Teather& Stuerzlinger,2007)。由于放置任务研究显示操作时间受到目标容差(光标与目标的大小差值)而不是目标大小的规律性影响(Deng et al.,2019;MacKenzie& Teather,2012;Pastel,2011)，因此我们设置不同的目标容差大小。此外，我们还改变了初始距离(光标与目标中心的直线距离)和目标移动速度。Deng 等人(2019)在VR 中使用转头交互完成静止目标的放置任务，他们将光标的移动过程划分成加速阶段、减速阶段和调整阶段，其中加速阶段和减速阶段之和代表了弹射阶段(Deng etal.,2019)。在本研究中，我们参照Deng 等人的方法将光标的移动过程划分成三个阶段，系统地分析三个因素对远离运动与靠近运动的影响差异。最后，我们提出函数模型描述了远离运动和靠近运动的总操作时间与三个因素的关系，我们的研究结果将对VR中的交互设计提供重要帮助。
+
+# 2方法
+
+# 2.1 被试
+
+本研究采用G\*Power3.1软件预估样本大小, $\mathfrak { a }$ 水平和统计检验力分别设置为0.05和0.95，根据相关文献中的效应量，取 $\eta _ { p } ^ { 2 } > 0 . 2$ (Deng et al.,2019)，计算出最少需要12名被试，同时参考同类研究主要采用 $1 5 \sim 2 0$ 名被试，因此本实验一共招募了17名大学生(7名男性，年龄： $2 2 . 5 \pm 2 . 5$ 岁，身高： $1 6 5 . 8 \pm 6 . 4 \mathrm { c m } )$ 。所有被试均为右利手，身体健康，视力或矫正视力正常，无颈部转动障碍。所有被试在实验前签署了由学校学术伦理委员会批准的知情同意书，且在实验后获得适当报酬。
+
+# 2.2实验仪器和材料
+
+本研究使用OculusRiftCV1沉浸式虚拟现实头盔(单眼分辨率： $1 0 8 0 \times 1 2 0 0$ ；刷新率：$9 0 \mathrm { { H z } }$ ；最大视角： $1 1 0 ^ { \circ }$ )，头盔包含基于惯性测量单元(IMU)的转动传感器和基于红外光学的位置传感器，能够实时获得头的6自由度空间位置(x，y，z，yaw，pitch，row)(图 1a)。在实验中关闭了头盔的红外光学位置追踪功能，被试只能通过转头完成任务。
+
+实验程序采用Unity3D和C# 编写，在DellAlienware Area(操作系统:windows 8.1;CPU:Intel core i7；显卡：NVIDAGeForce GTX TITAN)电脑上运行，确保程序按照头盔的最大刷新率运行。
+
+![](images/8957b1767323cda9072afb826b3782c82ea2e4b9f43de0373587df66e6ca6357.jpg)  
+图1实验设计示意图
+
+注：(a)实验装置和被试操作示意图，被试佩戴VR头盔坐在电脑前完成任务；(b)实验刺激场景，黄色小球为光标，白色半透明大球为目标；(c）选中远离运动目标任务的相关参数和操作过程示意图，实验参数包括初始距离(光标与目标中心的直线距离对应的视角大小)，目标容差(光标与目标的视角大小差值)和目标速度，光标大小固定为 $4 ^ { \circ }$ ，目标在水平方向上移动并远离光标；(d)选中靠近运动目标的操作过程示意图，目标在水平方向上移动并靠近光标。
+
+# 2.3 实验刺激和设计
+
+实验场景和实验刺激如图1所示，在一个虚拟的空间中竖直放置了一块 $2 0 0 0 \mathrm { m } \times 2 0 0 0 \mathrm { m }$ 的灰色平面作为背景，在平面前方呈现了一个黄色小球作为光标和一个白色半透明小球作为目标。光标和目标分别随机出现在被试正前方 $3 \mathrm { m }$ 的左(右)侧和右(左)侧区域，高度为被试的眼高。目标在水平方向上做远离光标或者靠近光标的匀速直线运动。
+
+为了确定参数范围，我们进行了一项预实验。结果显示，光标大小和转头方向对操作时间和正确率没有显著影响，因此不作为本实验的研究因素。考虑到目标的最大值以及远离运动中光标的可见程度，我们固定光标的直径为 $4 ^ { \circ }$ 。为了能够有效完成任务(错误率低于 $30 \%$ ，目标的最大速度设置为 $2 \mathrm { m / s }$ ，目标容差不低于 $4 ^ { \circ }$ ，初始距离的最大值为 $4 0 ^ { \circ }$ 。目标的最小速度设置为 $0 . 5 \mathrm { m / s }$ ，以便能够快速识别出目标是运动的。在靠近运动中，为了确保在最大速度情况下能够大概率成功拦截目标，初始距离的最小值设置为 $2 0 ^ { \circ }$ 。此外，目标容差的最大值设置为 $8 ^ { \circ }$ ，因为选中目标的难度已经较低。考虑到总的试次数量、疲劳程度以及目标速度的重要性，我们设置了4个水平的目标移动速度、3个水平的目标容差和2个水平的初始距离，根据参数的最大值和最小值等分。
+
+综上所述，本实验采用 2(目标运动方向:远离运动，靠近运动) $\times 4 6$ （目标移动速度： $0 . 5 \mathrm { m / s }$ $1 \mathrm { m / s }$ ， $1 . 5 \mathrm { m / s }$ ， $2 \mathrm { m } / \mathrm { s } ) \times 2 \$ （初始距离： $2 0 ^ { \mathrm { o } } , ~ 4 0 ^ { \mathrm { o } } ) \times 3$ （目标容差： $4 ^ { \mathrm { o } }$ ，6，8)的4因素被试内重复实验设计。光标直径约 $0 . 2 2 \mathrm { m } \left( 4 ^ { \mathrm { o } } \right)$ ，目标容差的线性量大小分别约 $0 . 2 2 \mathrm { m } \cdot 0 . 3 3 \mathrm { m }$ 和 $0 . 4 3 \mathrm { m }$ 目标大小为目标容差与光标大小之和，直径为 $8 ^ { \mathrm { o } } ( 0 . 4 3 \mathrm { m } )$ 、 $1 0 ^ { \mathrm { o } } ( 0 . 5 4 \mathrm { m } )$ 和 $1 2 ^ { \mathrm { o } } ( 0 . 6 5 \mathrm { m } )$ ，初始距离的线性距离为 $1 . 0 6 \mathrm { m }$ 和 $2 . 1 8 \mathrm { m }$ 。本研究采用角度表示参数大小是因为三维空间中角度量包含了深度对操作时间的影响(Kopper et al.,2010; Qian& Teather,2017；邓成龙，蒯曙光,2021)。
+
+实验一共包含23个组块(block)，每个组块包含所有的 48 种实验条件组合，组块内不同条件组合顺序随机呈现。为了避免长时间使用VR头盔导致的视觉疲劳、脖子疲劳以及眩晕，相关研究建议VR的连续使用时间小于1小时(Smith& Burd,2019),因此本实验分两天进行。第一天为练习，完成8个组块，第二天为正式实验，完成剩下的15个组块。练习和正式测试的总时间分别约1小时。组块与组块之间休息1分钟，由于不同人对虚拟现实引起的眩晕敏感性不同，为了确保数据不受眩晕的影响，在测试的过程中，被试如果感觉不适，随时可以在试次间隙休息。
+
+# 2.4实验过程
+
+实验设置如图1a所示，被试坐在固定的椅子上，佩戴虚拟现实头盔，手握手柄。在虚拟场景中被试将看到两个球体，视野左侧(右侧)的黄色小球为光标，视野右侧(左侧)的白色半透明的大球为目标(图1b)。被试视野正前方的绿色小点代表被试头的朝向，当被试转头看向场景中的光标时，按下手柄上的按键，光标颜色从黄色变成红色，并且光标的移动由被试转头控制，同时目标开始按照设定的速度在水平方向上做远离或者靠近光标的匀速运动。此时被试通过转头尽可能又快又准地将光标完全放入目标内，并按下手柄上的按键确认完成任务。如果光标没有完全放入目标球内，则表示任务失败，程序播放错误提示音。实验程序记录每次任务的完成时间、光标的移动轨迹和所有任务的错误率，轨迹采样率为 $9 0 \mathrm { { H z } }$ 。
+
+# 2.5数据分析
+
+根据测试经验，在正常操作情况下，完成任务的总时间在 $3 0 0 \mathrm { { m s } }$ 至 $2 5 0 0 \mathrm { m s }$ 之间。完成时间大于 $2 5 0 0 \mathrm { { m s } }$ 可能是由于程序卡顿导致，而完成时间小于 $3 0 0 \mathrm { { m s } }$ 可能是被试误操作比如双击按键导致，因此我们将总完成时间大于 $2 5 0 0 \mathrm { m s }$ 和小于 $3 0 0 \mathrm { { m s } }$ 的试次剔除，共计删除25 个试次，占总试次的 $0 . 2 0 \%$ 。
+
+我们对光标移动速度轨迹进行处理。首先，我们对轨迹数据进行 $1 0 \mathrm { H z }$ 的低通滤波，减少噪声对数据的影响(Chen et al.,2015;Liu et al.,2009)。其次，我们将光标速度轨迹划分成 3个阶段：加速阶段、减速阶段和调整阶段，三个阶段的划分方法在基于选中静止目标过程的划分方法基础上进行修改，以满足选中运动目标过程(Deng etal.,2019)。加速阶段与减速阶段的分界点为光标移动的最大速度对应位置，减速阶段与调整阶段的分界点为第一个满足下面三个标准中的任意一个的点，且速度小于目标速度与光标最大速度的中点值(远离运动)或者速度小于光标最大速度的一半(靠近运动)(图 2):
+
+1.远离运动：光标速度从大于目标移动速度变为小于目标移动速度的第一个点；靠近运动：光标移动速度的正负方向改变的第一个点。
+
+2.光标的加速度值从负数变为正数的第一个点，即光标速度从减速变为加速的点。
+
+3．光标的加速度一直为负值，但其绝对值小于加速度最大值0.1倍的点。
+
+减速阶段与调整阶段的分界点需要考虑速度的正负值，由于目标的运动方向为水平方向，因此使用光标在水平方向的速度方向代表总体速度的方向(Dengetal.,2019)。
+
+我们对15个组块的总平均完成时间进行方差分析，查看操作过程是否存在练习或者疲劳效应。结果显示，虽然组块顺序的主效应显著 $( F ( 3 . 1 0 , \ 4 9 . 5 9 ) = 6 . 1 2$ ， $p = 0 . 0 0 1$ ， $\eta _ { p } ^ { 2 } = 0 . 2 8$ Greenhouse-Geisser 矫正)，但是组块完成时间并没有随着组块顺序的增加而持续性地下降或者上升。对组块顺序进行 Bonferroni 事后检验，发现只有组块1的完成时间 $( 9 8 4 \pm 1 6 1 \mathrm { { m s } ) }$ （204号显著高于组块 $1 2 ( 8 5 7 \pm 1 2 1 \mathrm { m s }$ ， $p = 0 . 0 0 5 )$ 和组块 $1 3 ( 8 4 2 \pm 1 0 1 \mathrm { m s }$ ， $p = 0 . 0 3 0 )$ ，其他组块之间的时间差异不显著。该结果说明操作过程不存在练习效应和疲劳效应，因此我们采用15个组块的数据平均值用于后续分析。
+
+本研究采用 SPSS Statistics 21.0 对数据进行多因素重复测量方差分析，并采用Greenhouse-Geisser方法对不满足球形假设检验的结果进行校正。时间分析只采用正确试次的数据。
+
+![](images/4e39868a927140b6312b7e8a5208d170a319abe4e245606822429ced952da5b2.jpg)  
+图2一位被试选中远离运动目标(a)和靠近运动目标(b)过程的光标速度轨迹和三个阶段的划分样例
+
+# 3 实验结果
+
+# 3.1错误率
+
+![](images/aff1ef257ad42296cfce878b6a9aac9209fbbe87f38d06e11a6f04d072b132d6.jpg)  
+图3完成任务的错误率
+
+注：选中远离运动目标和靠近运动目标的错误率与初始距离(a)、目标容差(b)和目标移动速度(c)的关系图。图中误差线为标准误，余同。
+
+完成任务的错误率如图3所示，远离和靠近运动的最大错误率低于 $30 \%$ ，平均错误率分别只有 $7 . 3 8 \pm 3 . 3 1 \%$ 和 $5 . 8 5 \% \pm 3 . 2 4 \%$ ，说明被试能够很好地完成任务。对错误率进行4因素(目标运动方向，目标移动速度，初始距离和目标容差)重复测量方差分析，结果显示目标速度 $( F ( 1 . 6 2 , \ 2 5 . 8 8 ) = 4 0 . 1 3$ ， $p < 0 . 0 0 1$ ， $\eta _ { p } ^ { 2 } = 0 . 7 2 )$ 和目标容差 $( F ( 1 . 1 9 , \ 1 9 . 0 5 ) = 7 1 . 2 3 \$ ， $p <$ 0.001， $\eta _ { p } ^ { 2 } = 0 . 8 2 )$ 的主效应显著，两类运动的错误率都随着目标速度的增大而增加，随着目标容差的增大而降低。初始距离对远离和靠近运动造成了相反的影响，初始距离与目标运动方向存在显著的交互效应 $( F ( 1 , \ 1 6 ) = 2 1 . 9 2$ ， $p < 0 . 0 0 1$ ， $\eta _ { p } ^ { 2 } = 0 . 5 8 )$ ，简单效应分析显示，在远离运动中，初始距离 ${ 4 0 } ^ { \circ }$ 的错误率高于初始距离 $2 0 ^ { \circ }$ 的错误率 $( p = 0 . 0 1 3 )$ ，但是在靠近运动中，初始距离 $2 0 ^ { \circ }$ 的错误率则高于初始距离 $4 0 ^ { \circ }$ 的错误率 $( p < 0 . 0 0 1 )$ 。目标运动方向的主效应显著 $( F ( 1 , \ 1 6 ) = 8 . 0 1$ ， $p = 0 . 0 1 2$ ， $\eta _ { p } ^ { 2 } = 0 . 3 3 )$ ，远离运动的平均错误率显著高于靠近运动的错误率，但是随着目标容差的增大，两者的差异逐渐减小，目标运动方向与目标容差的交互效应显著 $( F ( 1 . 3 1 , ~ 2 1 . 0 1 ) = 7 . 1 9 \$ ， $p = 0 . 0 0 9$ ， $\eta _ { p } ^ { 2 } = 0 . 3 1 )$ 。此外，目标运动方向、初始距离和目标速度还存在显著的三因素交互效应 $( F ( 1 . 5 7 , \ 2 5 . 1 5 ) = 1 1 . 9 4 \$ ， $p = 0 . 0 0 1$ ， $\eta _ { p } ^ { 2 } = 0 . 4 3 )$ ，当初始距离为 $2 0 ^ { \circ }$ 时，随着目标速度的增大，远离与靠近运动的错误率也逐渐接近，特别是当目标速度达到 $2 \mathrm { m / s }$ ,靠近运动的错误率已经高于远离运动；相反，当初始距离增大到 ${ 4 0 } ^ { \circ }$ ，两者的错误率差异则随着目标速度的增大而增加。其它的交互效应不显著。
+
+# 3.2完成任务的总时间
+
+![](images/4e0ce37a5b5ab1b63a51d999dd553f888064aa8ef66de1bf28889e7bfb009215.jpg)  
+图4完成任务的总时间
+
+注：选中远离运动目标和靠近运动目标的总操作时间与初始距离(a)、目标容差(b)和目标速度(c)的关系图
+
+对正确试次的总完成时间进行重复测量方差分析，探索三个因素对远离和靠近运动的影响差异。结果如图4所示，目标运动方向的主效应显著 $( F ( 1 , 1 6 ) = 9 9 . 6 4 , p < 0 . 0 0 1 , \eta _ { p } ^ { 2 } = 0 . 8 6 )$ 远离运动的平均总完成时间 $( 9 8 6 \pm 1 2 0 \mathrm { m s } )$ 显著高于靠近运动的完成时间 $( 7 8 4 \pm 1 2 4 \mathrm { m s } )$ ，说明选中远离运动目标的难度更大。初始距离 $( F ( 1 , \ 1 6 ) = 2 2 1 . 8 5$ ， $p < 0 . 0 0 1$ ， $\eta _ { p } ^ { 2 } = 0 . 9 3 )$ 和目标容差 $( F ( 1 . 0 4 , \ 1 6 . 6 1 ) = 6 9 . 9 4 \$ ， $p < 0 . 0 0 1$ ， $\eta _ { p } ^ { 2 } = 0 . 8 1 \rangle$ 的主效应显著，两个因素对远离和靠近运动造成了相似的影响，两类运动的完成时间都随着初始距离的增大而增加，随着目标容差的增大而减少。然而目标运动方向与初始距离存在显著的交互效应 $( F ( 1 , \ 1 6 ) = 8 . 5 9$ ， $p = 0 . 0 1$ ， $\eta _ { p } ^ { 2 }$ $= 0 . 3 5 )$ ，靠近运动的时间增长速度稍快于远离运动，说明初始距离对靠近运动的影响更大。目标运动方向与目标容差的交互效应不显著 $( F ( 1 . 1 3 , ~ 1 8 . 0 7 ) = 1 . 6 0$ ， $p = 0 . 2 2 5 )$ ，表明目标容差对远离和靠近运动的影响一致。与前两个因素不同，目标速度对远离运动和靠近运动造成了相反的影响，目标速度与目标运动方向存在显著的交互效应 $( F ( 1 . 4 4 , \ 2 2 . 9 6 ) = 6 0 . 7 4 \$ ， $p <$ 0.001， $\eta _ { p } ^ { 2 } = 0 . 7 9 )$ 。对远离和靠近运动单独进行方差分析发现，随着目标速度的增大，远离运动的操作时间快速增加 $( F ( 1 . 3 8 , \ 2 2 . 1 1 ) = 4 8 . 4 9 \$ ， $p < 0 . 0 0 1$ ， $\eta _ { p } ^ { 2 } = 0 . 7 5 )$ ，相反，靠近运动的操作时间快速下降 $( F ( 1 . 1 6 , ~ 1 8 . 5 9 ) = 1 2 . 4 3$ ， $p = 0 . 0 0 2$ ， $\eta _ { p } ^ { 2 } = 0 . 4 4 )$ 。然而，随着目标速度的减小，运动目标逐渐变成静止目标，因此远离与靠近运动的操作难度逐渐接近，当目标速度降低到 $0 . 5 \mathrm { m / s }$ 时，两类运动的完成时间已经没有显著差异 $\begin{array} { r }  ( p = 0 . 9 9 6 \ \end{array}$ )。此外，目标运动方向、目标速度和初始距离还存在显著的三因素交互效应 $( F ( 1 . 8 6 , ~ 2 9 . 8 2 ) = 4 . 0 3$ ， $p = 0 . 0 3 1$ ， $\eta _ { p } ^ { 2 } =$ 0.20)，独立分析两类运动发现，靠近运动中初始距离与目标速度的交互效应显著 $( F ( 1 . 7 9 \$ $2 8 . 5 7 ) = 3 . 7 2 \$ ， $p = 0 . 0 4 1$ ， $\eta _ { p } ^ { 2 } = 0 . 1 9 )$ ，当初始距离为 $2 0 ^ { \circ }$ 时，靠近运动的操作时间表现出了微弱的U型曲线，目标速度从 $0 . 5 \mathrm { m / s }$ 增加到 $1 . 5 \mathrm { m / s }$ 再增加到 $2 \mathrm { m / s }$ ，操作时间先快速下降后缓慢上升，证明了我们的推测2(图4c)。然而，我们没有发现U型曲线的拐点速度受到目标容差的影响，目标容差与目标速度不存在显著的交互效应 $( F ( 3 . 0 7 , \ 4 9 . 1 3 ) = 0 . 7 0 \$ ， $p = 0 . 5 6 3 \mathrm { \AA }$ ，否定了我们的推测3。除此之外，不存在其他显著的交互效应。
+
+# 3.3光标移动过程的三阶段操作时间
+
+![](images/4b8ede7fafc114b50d9b4c6b407ab4d650afdbe1223884ff5ac23a468ae9e267.jpg)  
+图5光标移动过程的三阶段操作时间结果
+
+注：加速阶段时间(a)、减速阶段时间(b)和调整阶段时间(c)与初始距离(上)、目标容差(中)和目标速度(下)的关系图。
+
+进一步比较远离与靠近运动在三个阶段的差异，结果如图5所示。在加速阶段，目标运动方向的主效应显著 $( F ( 1 , ~ 1 6 ) = 1 6 2 . 3 2 \$ ， $p < 0 . 0 0 1$ ， $\eta _ { p } ^ { 2 } = 0 . 9 1 \big >$ ，远离运动的加速时间( $3 8 6 \pm$
+
+58ms)大于靠近运动的加速时间 $( 2 5 5 \pm 3 3 \mathrm { m s } )$ ，说明远离运动需要更长的时间到达速度峰值。初始距离对远离和靠近运动造成了相反的影响，目标运动方向与初始距离的交互效应显著$( F ( 1 , \ 1 6 ) = 1 7 9 . 0 0$ ， $p < 0 . 0 0 1$ ， $\eta _ { p } ^ { 2 } = 0 . 9 2 )$ ，对两类运动单独进行方差分析显示，初始距离的增大减少了远离运动的加速时间 $( F ( 1 , ~ 1 6 ) = 5 0 . 2 6$ ， $p < 0 . 0 0 1$ ， $\eta _ { p } ^ { 2 } = 0 . 7 6 )$ ，但是增加了靠近运动的加速时间 $( F ( 1 , \ 1 6 ) = 9 0 . 0 3$ ， $p < 0 . 0 0 1$ ， $\eta _ { p } ^ { 2 } = 0 . 8 5 )$ 。目标速度仍然对两类运动的影响相反，与总时间的结果一致，目标运动方向与目标速度的交互效应显著 $( F ( 1 . 4 6 , 2 3 . 4 2 ) = 5 5 . 8 2$ $p < 0 . 0 0 1$ ， $\eta _ { p } ^ { 2 } = 0 . 7 8 )$ 。此外，目标运动方向、目标移动速度和初始距离还存在显著的三因素交互效应 $( F ( 2 . 0 8 , \ 3 3 . 2 9 ) = 2 8 . 2 6$ ， $p < 0 . 0 0 1$ ， $\eta _ { p } ^ { 2 } = 0 . 6 4 )$ ，在远离和靠近运动中，初始距离$2 0 ^ { \circ }$ 与 ${ 4 0 } ^ { \circ }$ 的时间差异变化略有不同。目标容差的主效应不显著 $( F ( 2 , 3 2 ) = 0 . 0 4 , p = 0 . 9 6 2 )$ 以及目标容差与目标运动方向的交互效应不显著 $( F ( 1 . 3 0 , ~ 2 0 . 8 6 ) = 0 . 8 0$ ， $p = 0 . 4 1 \dot { }$ ，加速时间不受目标容差的影响。目标运动方向、初始距离和目标容差的三因素交互效应显著 $( F ( 2 ,$ $3 2 ) = 3 . 9 4$ ， $p = 0 . 0 2 9$ ， $\eta _ { p } ^ { 2 } = 0 . 2 0 )$ ，在不同目标容差下，初始距离对远离和靠近运动的影响稍有不同。除此之外，没有其他显著的交互效应(图 5a)。
+
+在减速阶段，远离运动的减速时间 $( 3 4 2 \pm 2 9 \mathrm { m s } )$ 仍然大于靠近运动的减速时间 $( 2 7 2 \pm$ 33ms)，目标运动方向的主效应显著 $( F ( 1 , 1 6 ) = 1 1 9 . 3 1 , p < 0 . 0 0 1 , \eta _ { p } ^ { 2 } = 0 . 8 8 ) \$ 。目标速度 $( F ( 1 . 7 5 \$ $2 8 . 0 7 ) = 9 7 . 8 5$ ， $p < 0 . 0 0 1$ ， $\eta _ { p } ^ { 2 } ~ = 0 . 8 6 )$ 和初始距离 $( F ( 1 , ~ 1 6 ) = 3 3 5 . 2 5$ ， $p < 0 . 0 0 1$ ， $\eta _ { p } ^ { 2 } = 0 . 9 5 )$ 的主效应显著，并且目标运动方向与目标速度 $( F ( 1 . 9 5 , ~ 3 1 . 1 1 ) = 6 7 . 7 7$ ， $p < 0 . 0 0 1$ ， $\eta _ { p } ^ { 2 } = 0 . 8 1 \AA$ 以及目标运动方向与初始距离 $( F ( 1 , ~ 1 6 ) = 3 8 . 0 3$ ， $p < 0 . 0 0 1$ ， $\eta _ { p } ^ { 2 } = 0 . 7 0 )$ 的交互效应显著，表明初始距离与目标速度对远离和靠近运动造成了不同的影响。与加速阶段不同，初始距离对远离运动 $( F ( 1 , \ 1 6 ) = 1 2 8 . 8 3$ ， $p < 0 . 0 0 1$ ， $\eta _ { p } ^ { 2 } = 0 . 8 9 )$ 和靠近运动 $( F ( 1 , \ 1 6 ) = 3 0 9 . 8 0$ ， $p < 0 . 0 0 1$ ，$\eta _ { p } ^ { 2 } = 0 . 9 5 )$ 的影响相似，都增加了减速时间，但是靠近运动的时间增长速度更快。增加目标速度快速降低了靠近运动的调整时间 $( F ( 1 . 7 6 , ~ 2 8 . 2 0 ) = 1 9 5 . 3 8 \$ ， $p < 0 . 0 0 1$ ， $\eta _ { p } ^ { 2 } = 0 . 9 2 )$ ，但是对远离运动只有轻微影响 $( F ( 1 . 7 3 , ~ 2 7 . 6 6 ) = 1 1 . 2 8$ ， $p < 0 . 0 0 1$ ， $\eta _ { p } ^ { 2 } = 0 . 4 1 )$ 。此外，目标运动方向、初始距离和目标速度还存在显著的三因素交互效应 $( F ( 3 , 4 8 ) = 4 . 3 7 , p = 0 . 0 0 8 , \eta _ { p } ^ { 2 } = 0 . 2 1 )$ 在远离和靠近运动中，初始距离 $4 0 ^ { \circ }$ 与 $2 0 ^ { \circ }$ 的时间差异变化稍有不同。虽然目标容差的主效应显著 $( F ( 2 , \ 3 2 ) = 7 . 6 5$ ， $p = 0 . 0 0 2$ ， $\eta _ { p } ^ { 2 } = 0 . 3 2 )$ ，以及目标容差与目标运动方向的交互效应显著 $( F ( 2 , \ 3 2 ) = 6 . 3 6$ ， $p = 0 . 0 0 5$ ， $\eta _ { p } ^ { 2 } = 0 . 2 8 )$ ，但是远离运动和靠近运动的减速时间最大平均值差异非常小，分别只有 $1 8 \mathrm { m s }$ 和 $2 \mathrm { m s }$ ，说明目标容差对减速时间的影响很小。除此之外，其他的交互效应都不显著(图 5b)。
+
+在调整阶段，与前两个阶段不同，目标运动方向的主效应不显著 $( F ( 1 , \ 1 6 ) = 0 . 0 0 1$ ， $p =$
+
+0.974)，远离运动 $( 2 5 8 \pm 1 0 7 \mathrm { m s } )$ 与靠近运动 $( 2 5 9 \pm 1 3 2 \mathrm { m s } )$ 的平均调整时间非常接近，但是两类运动仍然在初始距离和目标移动速度水平上表现出了差异，目标运动方向与初始距离的交互效应 $( F ( 1 , ~ 1 6 ) = 3 1 . 2 2$ ， $p < 0 . 0 0 1$ ， $\eta _ { p } ^ { 2 } ~ = 0 . 6 6 )$ 以及目标运动方向与目标速度的交互效应$( F ( 1 . 6 9 , ~ 2 6 . 9 7 ) = 8 . 3 4 \$ ， $p = 0 . 0 0 2$ ， $\eta _ { p } ^ { 2 } = 0 . 3 4 )$ 都显著。对两类运动单独分析显示，远离运动的调整时间同时与初始距离 $( F ( 1 , 1 6 ) = 1 2 9 . 8 1$ ， $p < 0 . 0 0 1$ ， $\eta _ { p } ^ { 2 } = 0 . 8 9 )$ 和目标移动速度 $( F ( 1 . 3 0$ $2 0 . 7 3 ) = 2 5 . 3 2$ ， $p < 0 . 0 0 1$ ， $\eta _ { p } ^ { 2 } = 0 . 6 1 \$ )有关，但是靠近运动的调整时间则不受初始距离 $( F ( 1 , $ $1 6 ) = 0 . 1 4$ ， $p = 0 . 7 1 1 \dot { 1 }$ 的影响。虽然靠近运动的调整时间随着目标移动速度的增大而缓慢增加，但是统计结果没有达到显著水平 $( F ( 1 . 3 5 , ~ 2 1 . 6 6 ) = 0 . 6 3$ ， $p = 0 . 4 8 )$ 。此外，目标容差的主效应显著 $( F ( 1 . 0 8 , ~ 1 7 . 2 5 ) = 5 5 . 4 6$ ， $p < 0 . 0 0 1$ ， $\eta _ { p } ^ { 2 } = 0 . 7 8 )$ ，远离与靠近运动的调整时间都随着目标容差的增大而快速下降，并且目标容差与目标运动方向的交互效应不显著 $( F ( 1 . 3 2$ $2 1 . 1 8 ) = 0 . 2 0$ ， $p = 0 . 7 2 8 )$ ，说明目标容差对两者的调整难度影响一致。除此之外，剩余的交互效应都不显著(图 5c)。
+
+# 3.4模型拟合
+
+远离和靠近运动的操作时间(MT)受到初始距离(A)、目标容差(TT)和目标速度 $( V )$ 的影响，我们建立操作时间与三个影响因素的函数关系，量化两类运动的操作时间特性。我们取正确试次的数据，然后将所有被试相同条件的数据平均。为了与目标速度单位 $\mathrm { ( m / s ) }$ 保持一致,我们将初始距离和目标容差的角度量转换成了线性量。前人已经提出了量化靠近运动操作时间特性的公式2和公式3，我们将目标容差代替目标宽度，将数据代入上述两个公式。结果显示两个公式并不能很好地解释本研究的靠近运动(公式 2： $R ^ { 2 } = 0 . 4 4 9$ ；公式3： $R ^ { 2 } = 0 . 6 2 8 )$ （204号和远离运动(公式2： $R ^ { 2 } = 0 . 9 0 0$ ；公式3： $R ^ { 2 } = 0 . 6 1 0 \}$ 的数据，因此需要建立新的函数模型。由于初始距离和目标容差对选中运动目标的操作时间影响与选中静止目标的影响非常相似，因此我们在费茨定律(公式1)的基础上进行修改，加入目标速度参数。由于远离运动的完成时间随着目标速度的增大而线性增加，而靠近运动的完成时间随着目标速度的增大而下降，并且目标速度与初始距离和目标容差不存在强交互效应，因此在新模型中目标速度作为独立参数，我们提出新的模型如下：
+
+$$
+M T = a + b I D , \ I D = \left[ V ^ { k } + c l o g _ { 2 } ( 2 A / T T ) \right]
+$$
+
+其中 $a , \ b$ 和 $\boldsymbol { \mathscr { c } }$ 是拟合常数， $I D$ 是任务难度， $k$ 是指数，当 $k = 1$ 时，公式4代表远离运动模型；当 $k = ~ - 1$ 时，公式4代表靠近运动模型。
+
+模型拟合结果如图6a所示，公式4能够很好地拟合远离运动的数据 $\textstyle ( R ^ { 2 } = 0 . 9 7 1$ ， $p <$
+
+0.001)。我们采用逐步回归的方法(进入的 $F$ 概率 $\leqslant 0 . 0 5$ ，删除的 $F$ 概率 $\geqslant 0 . 1 \rangle$ 确定模型中每种因素的贡献，发现 $V$ 能够解释 $3 7 . 1 \%$ 的数据变化， $l o g _ { 2 } ( 2 A / T T )$ 解释剩余 $60 . 0 \%$ 的数据变化，模型对应的系数分别为 $k = 1$ ， $a = 3 6 6 . 1$ ， $9 5 \%$ CI $\mathbf { \Sigma } =$ [315.1，417], $b = 1 2 6 . 5$ ， $9 5 \%$ CI=[110.5，142.5]， $c = 1 . 1$ ， $9 5 \%$ CI =[0.93，1.3]。
+
+公式4也能够解释 $9 5 . 2 \%$ 的靠近运动的数据变化 $( R ^ { 2 } = 0 . 9 5 2$ ， $p < 0 . 0 0 1 \AA$ (图6b)。逐步回归分析结果显示， $I / V$ 和 $l o g _ { 2 } ( 2 A / T T )$ 分别解释 $3 1 . 2 \%$ 和 $6 3 . 9 \%$ 的数据变化，模型对应的系数分别为 $k = ~ - 1$ ， $a = 1 2 2 . 0$ ， $9 5 \% \mathrm { C I } = [ 5 0 . 4 \$ ，193.6]， $b = 1 2 4 . 5$ ， $9 5 \% \mathrm { C I } = [ 1 0 2 . 3 \$ ，146.7],$c = 1 . 3 , 9 5 \% \mathrm { C I } = [ 1 . 0 , 1 . 6 ] \circ$ （204号
+
+为了验证模型的稳定性，我们把被试的数据随机分成训练集和测试集。训练集由随机挑选出的2/3被试(11人)的数据组成，然后使用公式4对训练集进行拟合，用获得的模型参数预测剩下的1/3 被试(6人)的数据。我们重复这个过程1000 次，获得了训练集数据的模型拟合 $R ^ { 2 }$ 结果以及对测试集数据的模型预测 $R ^ { 2 }$ 结果的分布(图6c)。靠近运动和远离运动的测试集平均 $R ^ { 2 }$ 分别为0.940和0.966，与所有数据的拟合结果(靠近运动： $R ^ { 2 } = 0 . 9 5 2$ ，远离运动：$R ^ { 2 } = 0 . 9 7 1 \AA$ 非常接近。在远离运动中，模型预测的 $R ^ { 2 }$ 全部超过了0.8，平均值达到了0.941。虽然靠近运动的模型预测结果低于远离运动模型的预测结果，但是 $7 5 \%$ 的靠近运动模型的预测 $R ^ { 2 }$ 超过了0.82，平均值仍然达到了0.855。本结果说明我们提出的模型不仅稳定，还能够很好地对数据进行预测。
+
+![](images/c188bec8ef894d71ecf4104fddcd2af5e9aa45e27efe4775996c7bb8689e1637.jpg)  
+图6公式4对远离和靠近运动数据的拟合结果
+
+注：(a)远离运动的所有数据拟合结果， $I D = V + 1 . 1 l o g _ { 2 } ( 2 A / T T )$ ;(b)靠近运动的所有数据拟合结果： $I D = 1 / V + 1 . 3 l o g _ { 2 } ( 2 A / T T )$ (c）模型对训练集数据的拟合结果和模型对测试集数据的预测结果箱型分布图。训练集是随机选择2/3 被试(11人)的数据，测试集是剩余的1/3被试(6人)的数据。图中“训练11人”是模型拟合训练集数据1000 次的 $R ^ { 2 }$ 结果，“预测6人”是使用训练集数据获得的模型去预测测试集数据的1000 次的 $R ^ { 2 }$ 结果。图中最顶端和最低端的两条线分别表示结果的最大值和最小值，箱子的上边线和下边线分别代表结果的上四分位数和下四分位数，箱子内的横线表示结果的中位数。
+
+# 4讨论
+
+在VR中通过转头交互选中远离运动目标和靠近运动目标是常见的操作，然而远离运动与靠近运动的操作时间特性差异还不清楚。本研究在分析总操作时间的基础上，进一步地将光标的移动过程划分成加速阶段、减速阶段和调整阶段，结合三个阶段的操作时间系统探索了初始距离、目标容差和目标移动速度对两类运动的影响差异。我们的结果证明了远离运动与靠近运动即有相同的操作时间特性，也存在不同的操作时间特性。一方面，目标容差对两类运动的影响一致，而且只影响调整阶段，不影响加速和减速时间，说明被试在将光标快速移动到目标附近的过程中并不考虑目标的大小，该结果与选中静止目标的分段结果一致(Chen etal.,2015;Deng et al.,2019)。另一方面，初始距离对远离和靠近运动造成了不同的影响。虽然在总时间上，远离与靠近运动在不同初始距离水平上表现非常相似，但是在三阶段操作时间上，初始距离对两类运动的影响存在显著差异。初始距离影响远离运动的三个阶段，但是只影响了靠近运动的加速和减速阶段。靠近运动的调整时间不受初始距离远近的影响，原因可能是在调整阶段目标出现在操作者附近，导致光标对准目标的难度基本一致。
+
+此外，目标速度对远离运动和靠近运动的影响也不同。在远离运动中，目标速度的增大增加了加速阶段和调整阶段的时间，导致总操作时间增加，支持了以前的研究结果(Hajri etal.,2011; Hasan et al.,2011; Ilich,2009)。在靠近运动中，目标速度的增大减少了加速阶段与减速阶段的时间，增加了调整阶段的时间。由于前两个阶段减少的时间大于调整阶段增加的时间，导致靠近运动的总时间下降。然而，我们的结果与以前的研究结果存在差异，前人发现在大部分情况下操作时间随着目标速度的增大而快速增加(Hajri et al.,2011; Ilich,2009;Jagacinski etal.,1980)，产生不同结果的原因可能存在两个方面。一方面，操作任务不同可能导致结果不同。比如，在 Ilich(2009)和 Hajri 等人(2011)的研究中，远离与靠近运动没有完全分离，而本研究的远离与靠近运动完全独立(Hajri etal.,2011; Ilich,2009)。另一方面，不同的操作方式具有不同的操作特性，也可能导致结果存在差异。以往研究主要采用鼠标或者摇杆等交互方式完成任务，但是转头交互与摇杆和鼠标操作的完成时间存在显著差异(Jagacinski& Monk,1985; Jalaliniya et al.,2014; Lin et al.,1992)，转头交互的稳定性可能比摇杆和鼠标更好，因此调整时间受目标速度的影响更小。另外，我们发现当初始距离为 $2 0 ^ { \circ }$ 时，靠近运动的操作时间与目标速度存在U型关系。当目标速度在一定范围内时，加速和减速阶段减少的时间多于增加的调整时间，当目标速度超过一个阈值后，这种优势将不存在。从图5可以看出，当目标速度从 $1 . 5 \mathrm { m / s }$ 增加到 $2 \mathrm { m / s }$ 时，加速时间和减速时间分别只减少了4ms和 $1 4 \mathrm { m s }$ ，但是调整时间增加了 $6 6 \mathrm { { m s } }$ 。该结果证明了我们的推测2，也支持了先前的研究结果(Ilich,2009)。然而我们没有发现U型曲线的拐点速度受到目标容差的影响，否定了推测3，原因可能与目标容差不够小有关，导致调整阶段的难度不高。
+
+本研究还揭示了远离运动与靠近运动的操作难度差异。从总时间来看，选中远离运动目标的总时间更长，说明操作难度更高，但是从三个阶段来看，远离与靠近运动的时间差异主要体现在加速阶段和减速阶段，而两者的调整时间接近。该结果部分支持了推测1，在推测1中，我们认为在三个阶段，远离运动的操作时间都大于靠近运动。首先，加速和减速阶段的操作时间由实际移动距离决定，由于远离运动的实际移动距离更长，因此在前两个阶段花费更长的时间，并且目标速度越快，两类运动的实际移动距离差异越大，导致两个阶段的时间差异越大，支持了推测1。其次，在调整阶段，远离目标的位置比靠近运动的目标位置更远，对准难度更大，但是两类运动的调整时间非常接近，与推测1不符，原因可能与头控交互的良好稳定性有关(Bates& Istance,2003;Kyto et al.,2018)，导致调整时间不容易受影响。然而，我们的结果显示，当目标速度超过 $1 . 5 \mathrm { m / s }$ 后，远离运动的调整时间开始超过靠近运动的调整时间，我们猜测当目标速度进一步增大时，两者的调整时间差异可能到达显著水平。
+
+本研究建立了总操作时间与三个因素之间的函数模型描述远离与靠近运动的操作时间特性，我们采用正确试次的数据进入模型是因为任务的错误率低(远离运动： $7 . 6 1 \pm 3 . 3 8 \%$ 靠近运动： $5 . 9 6 \pm 3 . 2 6 \%$ ，其他相关研究也采用类似的方法(Deng et al.,2019;Hoffmann et al.,2017)。然而，在选中静止目标的操作中，一些研究者考虑了任务的错误试次，采用有效目标宽度 $( W e )$ 代替目标实际宽度进入模型拟合，有效目标宽度根据任务结束时相同条件的所有光标落点分布计算得出： $W _ { e } = { \sqrt { 2 \pi e } } \ \sigma = 4 . 1 3 3 \sigma$ ， $\sigma$ 表示所有落点位置的标准差。研究者认为有效目标宽度更准确地反映了操作过程的时间-准确率权衡(MacKenzie,1992; Soukoreff&MacKenzie,2004)。我们计算出有效目标容差 $( T T e )$ 并代入公式4，远离运动和靠近运动的模型拟合结果分别为 $R ^ { 2 } = 0 . 7 9 9$ 和 $R ^ { 2 } = 0 . 8 5 8$ ，低于采用正确试次中实际目标容差的拟合结果(远离运动： $R ^ { 2 } = 0 . 9 7 1$ ；靠近运动： $R ^ { 2 } = 0 . 9 5 2 )$ 。该结果说明有效目标大小可能不适合选中运动目标操作的函数模型，当错误率不高的情况下，采用正确试次和实际的目标容差大小能够更准确地描述选中运动目标的操作时间特性。
+
+本研究的结果具有多方面的应用价值。第一，远离运动与靠近运动存在不同的操作时间特性，提示三维空间的交互设计人员应该分开考虑两类运动的用户接口设计，提高操作效率和用户体验。第二，由于多个因素都对选中运动目标的任务难度产生了重要影响，我们提出的函数模型量化了任务难度，可以帮助交互设计人员有效地选择参数范围。第三，研究结果还可以帮助了解现实生活中通过其他方式选中运动目标的操作过程，比如运动员击打飞碟，为相关运动的训练提供参考依据。最后，我们的模型还可能应用于脖子转动相关疾病的初步检测，比如比较健康人群与脖子疼痛人群的表现差异(Descarreaux et al.,2010; Marchand et al.,2014)，为相关疾病的预防提供参考建议。
+
+本研究也存在一定的不足。首先，在本研究中，我们只考虑了目标在水平方向上的移动，没有验证目标在垂直方向和纵深方向上移动的结果。目标在不同维度上移动时，头的转动方向也不同，研究显示头朝不同方向转动的操作表现存在差异(Jagacinski&Monk,1985;Radwin etal.,1990)，可能导致不同的结果。其次，虽然初始距离和目标大小的角度量参数包含了深度因素对操作表现的影响(Kopper et al.,2010; Prytz et al.,2012；邓成龙，蒯曙光,2021)，但是本研究的目标速度为线性速度，线性目标速度在不同深度下对远离与靠近运动的影响差异是否相同还未被验证，因此本研究的结论目前也只适用于深度为3m的情况，未来我们将进一步探索不同深度的结果，扩展本研究的结论。
+
+# 5结论
+
+本研究采用总操作时间和操作过程的三阶段(加速阶段、减速阶段和调整阶段)操作时间系统地分析了初始距离、目标容差和目标移动速度对VR中转头选中远离运动目标与靠近运动目标的影响差异。研究结果证明了初始距离和目标速度对远离运动和靠近运动造成了不同的影响，目标容差对两类运动的影响一致。此外，远离运动的操作难度更大，但是难度差异主要发生在加速阶段和减速阶段。基于两类运动的操作时间特性，本研究提出了一个新的模型解释远离和靠近运动的操作时间，我们的模型提供了一种可以量化和评估人类通过转头选中运动目标操作时间特性的方法。
+
+# 致谢
+
+感谢田宸宇和赵铭对本研究的数据采集和分析提供的帮助。
+
+# 参考文献
+
+Bates,R.,& Istance,H. O. (2Oo3). Why are eye mice unpopular? A detailed comparison of head and
+
+eye controlled assistive technology pointing devices. Universal Access in the Information Society, 2(3), 280-290. htps://doi.0rg/10.1007/s10209-003-0053-y   
+Blattgerste, J., Renner,P.,& Pfeiffer, T. (2018). Advantages of eye-gaze over head-gaze-based selection in virtual and augmented reality under varying field of views. Proceedings of the Workshop on Communication by Gaze Interaction, Article 1, 1-9. https://doi.org/10.1145/3206343.3206349   
+Chen,Y., Hoffmann, E. R.,& Goonetilleke, R. S. (2015). Structure of hand/mouse movements. IEEE Transactions on Human-Machine Systems, 45(6)，, 790-798. https://doi.0rg/1109/THMS.2015.2430872   
+Claypool, M., Cockburn,A.，& Gutwin, C. (2019). Game input with delay: moving target selection parameters. Proceedings of the 10th ACM Multimedia Systems Conference, 25-35. https://doi.0rg/10.1145/3304109.3306232   
+Deng, C. L.， Geng, P., Hu, Y. F.,& Kuai, S. G. (2019). Beyond Fitts's Law: A Three-Phase Model Predicts Movement Time to Position an Object in an Immersive 3D Virtual Environment. Human factors, 61(6), 879-894. https://doi.0rg/10.1177/0018720819831517   
+Deng, C.L.,& Kuai, S. G. (2021). Angular parameters include the effect of depth on movement time for positioning task in virtual reality. Chinese Journal of Ergonomics, 27(06)， 52-58. https://doi.0rg/10.13837/j.issn.1006-8309.2021.06.0009   
+[邓成龙，蒯曙光.(2021)．虚拟现实空间中角度量参数包含深度对放置任务操作时间的影响．人 类工效学,27(06),52-58.hps://oi.0rg/10.13837/j.isn.1006-8309.2021.06.0009]   
+Descarreaux,M.， Passmore, S. R.，& Cantin, V. (2010). Head movement kinematics during rapid aiming task performance in healthy and neck-pain participants: the importance of optimal task difficulty. Manual Therapy, 15(5), 445-450. https://doi.org/10.1016/j.math.2010.02.009   
+Duval, T., & Fleury, C.(2009). An asymmetric 2d pointer/3d ray for 3d interaction within collaborative virtual environments. Proceedings of the l4th international Conference on 3D Web Technology, 33-41. htps://doi.0rg/10.1145/1559764.1559769   
+Elliott,D., Helsen,W.F.,& Chua,R. (2001). A century later: Woodworth's (1899) two-component modelofgoal-directedaiming.Psychologicalbulletin,127(3)， 342-357. https://doi.0rg/10.1037/0033-2909.127.3.342   
+Gunn, T. J., Irani, P., & Anderson, J. (20o9). An evaluation of techniques for selecting moving targets. Proceedings of the CHl'09 Extended Abstracts on Human Factors in Computing Systems, 3329-3334. https://doi.0rg/10.1145/1520340.1520481   
+Hajri,A. A.,Fels,S., Miller, G.,& Ilich,M. (2011). Moving Target Selection in 2D Graphical User Interfaces. In P. Campos, N. Graham, J. Jorge, N. Nunes, P. Palanque,& M. Winckler (Eds.), Human-Computer Interaction - INTERACT 2011. Lecture Notes in Computer Science (Vol. 6947, pp. 141-161). Springer, Berlin, Heidelberg. https://doi.0rg/10.1007/978-3-642-23771-3_12   
+Hansen, J. P., Rajanna, V., MacKenzie,I. S.,& Bakgaard,P. (2018). A Fits' law study of click and dwell interaction by gaze, head and mouse with a head-mounted display. Proceedings of the Workshopon CommunicationbyGazeInteraction， Article7,1-5. https://doi.0rg/10.1145/3206343.3206344   
+Hasan,K., Grossman, T.,& Irani, P. (2011). Comet and target ghost: techniques for selecting moving targets. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 839-848. https://doi.0rg/10.1145/1978942.1979065   
+Hatscher, B., Luz, M., Nacke,L. E.,Elkmann, N., Muler, V.,& Hansen, C.(2017). GazeTap: towards hands-free interaction in the operating room. Proceedings of the 19th ACM international conference on multimodal interaction, 243-251. https://doi.org/10.1145/3136755.3136759   
+Hoffmann, E.R. (1991). Capture of moving targets: A modification of Fits' law. Ergonomics, 34(2), 211-220. https://doi.0rg/10.1080/00140139108967307   
+Hoffmann, E.R., Chan, A. H.,& Heung, P. (2017). Head Rotation Movement Times. Human factors, 59(6), 986-994. https://doi.0rg/10.117/0018720817701000   
+Huang,J., Tian,F., Fan, X., Zhang,X.,& Zhai, S. (2018). Understanding the uncertainty in 1D unidirectional moving target selection. Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems, Article 237, 1-12. https://doi.0rg/10.1145/3173574.3173811   
+Huang,J.,Tian,F.,Li, N.,& Fan, X. (2019). Modeling the Uncertainty in 2D Moving Target Selection. Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology, 1031-1043. https://doi.0rg/10.1145/3332165.3347880   
+Ilich,M. V. (2009). Moving target selection in interactive video [Unpublished master's thesis]. University of British Columbia. http://hdl.handle.net/2429/17444   
+Jagacinski, R.J.,& Monk,D.L. (1985). Fitts' Law in Two dimensions with hand and head movements movements. Journal of motor behavior, 17(1), 77-95. https://doi.0rg/10.1080/00222895.1985.10735338   
+Jagacinski, R. J., Repperger, D. W., Ward, S.L.,& Moran, M. S.(1980). A test of Fitts' law with moving targets. Human factors, 22(2), 225-233. https://doi.0rg/10.1177/001872088002200211   
+Jalaliniya, S., Mardanbeigi, D., Pederson, T.,& Hansen, D. W. (2014). Head and eye movement as pointing modalities for eyewear computers. Proceedings of the 2014 1lth International Conference on Wearable and Implantable Body Sensor Networks Workshops, 50-53. https://doi.0rg/10.1109/BSN.Workshops.2014.14   
+Kopper, R., Bowman, D.A., Silva, M. G.,& McMahan, R. P. (2010). A human motor behavior model for distal pointing tasks. International journal of human-computer studies, 68(10), 603-615. https://doi.0rg/10.1016/j.ijhcs.2010.05.001   
+Kyto,M., Ens,B.， Piumsomboon,T.,Lee, G. A.，& Billinghurst, M. (2018). Pinpointing: Precise head-and eye-based target selection for augmented reality. Proceedings of the 2018 CHI Conference on Human Factorsin ComputingSystems, Article 81， 1-14. https://doi.0rg/10.1145/3173574.3173655   
+Lee，B.，Kim， S.， Oulasvirta,A., Lee,J.-I.，& Park,E. (2018). Moving target selection: A cue integration model. Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems, Article 230, 1-12. https://doi.0rg/10.1145/3173574.3173804   
+Lin, M. L.， Radwin,R. G.,& Vanderheiden, G. C. (1992). Gain effects on performance using a head-controlled computer input device. Ergonomics,35(2), 159-175. https://doi.0rg/10.1080/00140139208967804   
+Liu, L.,van Liere,R., Nieuwenhuizen, C.,& Martens, J.-B.(2009). Comparing aimed movements in the real world and in virtual reality. Proceedings of the 2009 IEEE Virtual Reality Conference, 219-222. https://doi.0rg/10.1109/VR.2009.4811026   
+MacKenzie,I. S. (1992). Fitts' law as a research and design tool in human-computer interaction. Human-computer interaction, 7(1), 91-139. htps://doi.org/10.1207/s15327051hci0701_3   
+MacKenzie,I. S.,& Teather,R.J. (2012).FittsTilt: the application ofFitts' law to tilt-based interaction. Proceedings of the 7th Nordic Conference on Human-Computer Interaction: Making Sense Through Design, 568-577. https://doi.0rg/10.1145/3027063.3053213   
+Marchand, A. A., Cantin, V., Murphy, B., Stern, P.,& Descareaux, M. (2014). Is performance in goal oriented head movements altered in patients with tension type headache? BMC musculoskeletal disorders, 15(1), 179. https://doi.org/10.1186/1471-2474-15-179   
+Meyer,D.E., Abrams,R. A., Kornblum, S., Wright, C.E.,& Keith Smith, J. (1988). Optimality in human motor performance: ideal control of rapid aimed movements. Psychological review, 95(3), 340-370. https://doi.0rg/10.1037/0033-295x.95.3.340   
+Mould,D.,& Gutwin, C.(2004). The effects of feedback on targeting with multiple moving targets. Proceedings ofthe2004Graphics Interface Conference, 25-32. https://dl.acm.0rg/doi/10.5555/1006058.1006062   
+Ortega,M. (2013). Hook: Heuristics for selecting 3D moving objects in dense target environments. Proceedings of the IEEE 8th Symposium on 3D User Interfaces (3DUI 2013), 119-122. https://doi.0rg/10.1109/3DU1.2013.6550208   
+Pastel,R. (2011). Positioning graphical objects on computer screens: A three-phase model. Human factors, 53(1),22-37. https://doi.0rg/10.1177/0018720810397353   
+Pathmanathan,N., Becher,M.,Rodrigues,N.,Reina, G.,Ertl, T., Weiskopf,D.,& Sedlmair,M. (2020). Eye vs. Head: Comparing Gaze Methods for Interaction in Augmented Reality. Proceedings of the ACM Symposium on Eye Tracking Research and Applications， Article 50，1-5. https://doi.0rg/10.1145/3379156.3391829   
+Port,N.L.,Lee,D., Dassonville, P.,& Georgopoulos,A. P.(1997). Manual interception of moving targets I. Performance and movement initiation. Experimental brain research,116(3), 406-420. htps://doi.0rg/10.1007/p100005769   
+Prytz, E., Montano, M.,& Scerbo, M. W. (2012). Using Fitts’ Law for a 3D Pointing Task on a 2D Display: Effects of Depth and Vantage Point. Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 56(1), 1391-1395. https://doi.0rg/10.1177/1071181312561396   
+Qian, Y.Y.,& Teather,R.J. (2O17). The eyes don't have it: an empirical comparison of head-based and eye-based selection in virtual reality. Proceedings of the 5th Symposium on Spatial User Interaction, 91-98. htps://doi.org/10.1145/3131277.3132182   
+Radwin, R. G., Vanderheiden, G. C.,& Lin, M.-L. (1990). A method for evaluating head-controlled computerinputdevicesusingFits'law. Humanfactors, 32(4)， 423-438. https://doi.0rg/10.1177/001872089003200405   
+Ragan,E. D.， Pachuilo,A.， Goodall J.R.，& Bacim, F. (2020， September). Preserving Contextual Awareness during Selection of Moving Targets in Animated Stream Visualizations. Proceedings of the International Conference on Advanced Visual Interfaces,Article 28,1-9. https://doi.0rg/10.1145/3399715.3399832   
+Smith, S.P.,& Burd, E.L. (2O19). Response activation and inhibition after exposure to virtual reality. Array,3-4,100010. htps://doi.0rg/htps://doi.0rg/10.1016/j.array.2019.100010   
+Soukoreff, R. W., & MacKenzie, I. S. (2004). Towards a standard for pointing device evaluation, perspectives on 27 years of Fitts’ law research in HCI. International journal of human-computer studies, 61(6), 751-789. https://doi.org/10.1016/j.ijhcs.2004.09.001   
+Teather,R. J., & Stuerzlinger, W. (2007). Guidelines for 3D positioning techniques. Proceedings of the 2007 conference on Future Play, 61-68. https://doi.org/10.1145/1328202.1328214   
+Tresilian, J.R. (2005). Hiting a moving target: perception and action in the timing of rapid
+
+interceptions. Perception & Psychophysics, 67(1), 129-149. https://doi.0rg/10.3758/BF03195017 Tresilian, J.R.，& Lonergan,A. (2002). Intercepting a moving target: effects of temporal precision constraints and movement amplitude. Experimental brain research, 142(2)，193-207. https://doi.0rg/10.1007/s00221-001-0920-9
+
+# The Different Characteristics of Human Performance of Selecting
+
+# Receding and Approaching Targets by Rotating Head in 3D Virtual
+
+Environment
+
+DENG Chenglong1, GENG Peng1, KUAI Shuguang1,2
+
+(ShanghaiKeboatoryfentalHealthndsyhoogicalCisistevetionstiutefaindEducationotioool ofPsychology and Cognitive Science,East China Normal University,Shanghai 2oo062,China) (Shanghai Center for BrainScienceand Brain-Inspired Technology,Shanghai 2Ooo31,China)
+
+# Abstract
+
+In virtual reality (VR), rotating the head to select a moving target is common. A moving target involves two general directions, that is movement toward (chasing) or away (interception） from a user; thus,knowing the characteristics of the two movements is important when designing an efficient user interface.
+
+In this study,17 participants (7 males; mean $\mathsf { a g e } = 2 2 . 5 \pm 2 . 5$ years) were given an Oculus Rift helmet-mounted display to wear and instructed to complete a task in a VR environment. They were required to position a small opaque sphere (cursor) that appeared randomly on the left or right side of the visual field into a larger half-transparent moving sphere (target) on the other side of the visual field quickly and accurately by rotating their head. The target moved randomly toward or away from the cursor horizontally, which were both at the participants' eye height, with a depth of 3 meters. The diameter of the cursor was fixed at $4 ^ { \circ }$ . The initial movement amplitude (A; distance between the center of the cursor and target; $2 0 ^ { \circ }$ and $4 0 ^ { \circ }$ ), target tolerance（TT； size difference between the target and cursor; $4 ^ { \circ } , 6 ^ { \circ }$ ,and $8 ^ { \circ }$ ), and target's moving velocity $\mathrm { { ( V ; 0 . 5 m / s , } }$ $1 \ \mathrm { m / s } .$ ， $1 . 5 ~ \mathrm { m / s }$ ，and $2 ~ \mathrm { m / s } ^ { \cdot }$ ） were varied. The cursor movement paths were recorded and divided into three phases: acceleration,deceleration,and correction.
+
+Results showed that A and TT had a similar influence on the total movement time (MT) for both movements, and the total MT increased as A increased and TT decreased. Moreover, V had an inverse efect on the total MT for the two movements.A large V led to a long total MT for the chasing movement, whereas the total MT for the interception movement decreased as V increased. In addition, the interception movement showed a light U-shaped relationship between the total MT and V, with the lowest point at $1 . 5 \ \mathrm { m / s }$ when A was $2 0 ^ { \circ }$ . The two movements were further compared in the three phases,and the MT outcome showed that only TT had the same effect on both movements. Specifically, in the acceleration phase,MT increased for the chasing movement but decreased for the interception movement as A decreased and $\mathrm { v }$ increased.In the deceleration phase,MT was positively related to A but negatively related to $\mathrm { \Delta V }$ for both movements.In the correction phase,the increasing V and reduced TT increased MT for both movements, and only the MT for the chasing movement was positively proportional to A. The MT difference between the two movements was observed in the acceleration and deceleration phases, whereas the MT for the two movements was indistinguishable in the correction phase. Based on the findings,a model was proposed to depict the relationship between the total MT and three factors,which fit the participants' performance well.
+
+This study showed that the chasing and intercepting movements had different characteristics. Selecting a receding target was more difficult than selecting an approaching target via head rotation,and A and V, but not TT, had a different impact on human performance for the two movements. The empirical findings suggested the importance of considering both movements separately when designing a user interface. The model provides a valid method for quantitatively evaluating the characteristics of moving targets.
+
+Key words moving target， head rotation control， movement trajectory， human performance modeling, human-computer interaction

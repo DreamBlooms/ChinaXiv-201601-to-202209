@@ -1,0 +1,582 @@
+[
+    {
+        "type": "text",
+        "text": "镜像上肢康复机器人研究\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈书立la，张景景 lb,2，陈海洋 1b,2，朱西昆1b,2，韩昕哲1b,2,刘豪杰1b,2，刘艳红la,2，逯鹏 la,2,3†",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．郑州大学a.电气工程学院;b.产业技术研究院，郑州 450001;2.机器人感知与控制河南省工程实验室，郑州450001;3．互联网医疗与健康服务河南省协同创新中心，郑州 450001)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：近 $80 \\%$ 脑卒中存活者会发生肢体残疾，其中以上肢问题影响更为剧烈。康复医学与机器人学、生物医学、人工智能等学科高度交叉的镜像康复机器人，是解决患者康复训练问题的前沿技术途径。针对基于镜像机理形成的康复机器人，研究分析了镜像上肢康复机器人的现状以及其中关键技术路线、核心实现方式，阐述了主要功能与技术特点。在此基础上，分析在研究中存在的瓶颈问题，并提出相应的解决策略，以期为今后的镜像机器人研究提供方向。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：镜像上肢康复机器人；采集模块；控制模块；人机交互；康复训练 中图分类号：TP242.6 doi:10.3969/j.issn.1001-3695.2017.12.0862 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research on mirror rehabilitation robot of upper limbs ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chen Shulila, Zhang Jingjinglb,2, Chen Haiyanglb,2, Zhu Xikun1b,2, Han Xinzhelb, 2, Liu Haojielb,2,Liu Yanghongla,2,Lu Pengla,2, 3† ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.a.ScholofElectricalEngineering,b.IndustrialTchnologyResearchInstitute,ZhengzhouUnversity,Zengzhou4, China;2.RobotPerception&ControlEngineeingLaboratoryinZhengzhou45ol,China;3.ColaborativeInovationCenter ofInternet Medical & Healthcare in Zhengzhou 450o01, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Nearly $80 \\%$ of stroke survivors have limb disability,in which the upper limb problems are more severe.Mirror rehabilitationrobotisaproductofthintersectionofehabilitationmedicine,robotics,biomedicine,rtificialintellgenceand otherdisciplines.Itisacuting-edge technologytosolvetheproblemofrehabilitation trainingforpatients.Basedonthemirror mechanism,mirror rehabilitation robot is developed.This paper aims at researching and analyzing itsresearch status,key technology routeandcore implementation;paper expounding itsmain functionsand technical features.Further,this paper analyzesitsbottleneckproblemsintheresearch,andputs forwardcorrspondingsolutions,inordertoprovidethefutureearch direction of mirror robot. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:mirrorupper limb rehabilitationrobot；colletion module；control module；human-computer interaction; rehabilitation training ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "脑卒中是我国第二大致死病因，第一大致残病因[1]。近 $80 \\%$ 脑卒中存活者会发生肢体残疾，其中以上肢问题影响更为剧烈[2]。医学研究表明，运动康复训练能使丧失功能重新获得[3\\~5]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "运动康复训练方法有强制运动疗法（constraint-inducedtherapy,CIT）、双侧上肢训练（bilateralarmtraining,BAT）、康复机器人疗法（robot-assisted therapy,RT）及镜像治疗（mirrortherapy,MT）等模式。镜像治疗与强制性疗法[6.7]、双侧上肢训练[8]等感觉刺激被动运动恢复的模式不同，患者在康复过程中可以“自由”控制训练的方式和程度，其主动模式对于受损运动恢复更有效[9]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1996 年神经科学家发现在脑前区皮质、后顶页、颞叶上方的沟回区和脑岛处，均分布有镜像神经元系统，该系统对动作观察(或想象)，可以引起与执行该动作类似的激活[10]。促进大脑半球间的稳定平衡，达到患肢重新学习的目的[11\\~17]。基于该发现，促进感觉及运动功能复原的镜像康复技术开始进入研究人员的视野[18,19]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ramachandran等人[20]在1996年采用镜像治疗，促进截肢患者患肢感觉正常化。1999 年，Altstchuler等人[21]证实镜像治疗对脑卒中患者上肢功能恢复有正向疗效。2013年，Thieme 等人[22]在研究中比较镜像治疗与其他疗法的疗效，发现镜像治疗可有效改善脑卒中患者的上肢功能、日常生活功能与疼痛感[23\\~30]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前镜像康复训练面临有以下问题：a）镜像治疗依靠镜子反射，训练的规范性、统一性较难量化，并且在范式创新上难以突破，直接影响临床效果的稳定[311；b）对于脑卒中导致的偏瘫，不仅仅要对患侧进行训练，健侧同样也要进行训练[32.33]；c）在训练期间，对脑卒中偏瘫侧的手臂支撑作用可以显著改善患者的手臂功能[34\\~38]，且不会产生负面影响[39.40]，但传统的镜像治疗不能提供手臂支撑功能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将镜像治疗与机器人相结合形成的镜像训练装置一一镜像上肢康复机器人，能解决镜像康复训练遇到的难题，达到更好的康复效果。镜像康复机器人是康复医学、机器人学、生物医学、人工智能等学科高度交叉领域的重点研究对象，其将成为解决患者康复训练问题的前沿技术。本文研究分析了，国内外镜像上肢康复机器人关键技术路线、核心实现方式，阐述了主要功能与技术特点。在此基础上，针对研究中存在的瓶颈问题，提出了解决策略。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 镜像上肢康复机器人研究现状",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "镜像上肢康复机器人主要分为三种：末端操纵式上肢康复机器人、外骨骼式上肢康复机器人和电缆式上肢康复机器人。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1末端操纵式上肢康复机器人",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "末端操纵式具有与手，腕或前臂的单一连接，患者握住手柄，将采集的健侧上肢的运动数据镜像到对侧，控制机器人带动患侧肢体运动，达到康复目的的机械系统。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因其结构简单、易于控制，价格低廉。在镜像上肢康复机器人发展初期，开发的大部分系统为末端操纵式上肢康复机器人。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2000年，斯坦福大学开发了一种上肢康复机器人训练系统MIME（mirror imagemotionenabler)，如图1所示[4l]，可以辅助患者完成镜像运动。安装在健侧的6自由度位置数字化仪，采集健侧上肢运动的轨迹，镜像到患侧，通过PUMA560工业机器人控制患侧运动。该系统已经完成了临床实验，开始对患者进行临床治疗。该装置存在冗余的机械结构，一方面，该机构除了用于采集运动数据外，没有执行运动的功能，另一方面，增加了系统的复杂度及成本。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "提高患者的康复训练效果是人机交互系统的主要目的，需要结构简单、稳定可靠的采集系统和良好的控制策略。采集健侧运动数据的方法以及控制患侧的机器人装置的大量出现，加快了镜像上肢康复机器人的发展。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c9c7aaf777a0a0c4e476a0cf9e35c91ca9311a9fb6f3491f10e327529cbf21da.jpg",
+        "img_caption": [
+            "图1上肢康复机器人训练系统MIME"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2013年，GautamNarang 等人[42]开发了一种机器人辅助镜像治疗的人机交互系统。通过患者健侧肢体佩戴的无线体域网（wirelessBody-AreaNetwork，WBAN）传感器，实时采集监测肢体的运动数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RobotStudio软件接收到传感器收集的数据，通过矢状面将其复制到患侧肢体，控制6自由度的工业机器人ABBIRB140带动患侧肢体进行复杂的三维运动。整个系统数据采集流程图如图2所示，图3是模拟的康复情景图。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "整合传感器节 USB无线接 上位机-信号 Studio仿真 上位机- 点的智能套筒 收器 处理 软件 ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b21ec8f166f620753d8559477ccd5b80bcb51f328d725ba43049b996faf2a7c5.jpg",
+        "img_caption": [
+            "图2数据采集流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以上的控制方式均是以工业机器人带动患侧运动，虽然工业机器人已经非常成熟，但其结构较为复杂且成本高，操作难，不能满足大多数脑卒中患者的康复需求，操作简单且成本较低的康复机器人系统应运而生。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2015年，Mitsantisuk 等人[43]开发了针对手部和腕部的 2-DOF双侧上肢康复机器人。系统是基于卡尔曼滤波的状态观测器(Kalman-filter based state observer,KFSO)的双边控制[44]，代替力传感器获得电动机转矩或力的估计。图4为2-DOF腕部训练康复机器人，两个交流伺服电机用于驱动机器人系统，电机上的编码器用于测量角位置。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c705f25fbed5421066176d93db30276ac46c186c930cc336652ac06ef38ffc08.jpg",
+        "img_caption": [
+            "图3模拟镜像康复情景",
+            "图42-DOF 腕部训练机器人"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "系统有两种控制模式，阴影模式和镜像模式（ShadowmodeandMirrormode)，同时控制四台交流伺服电机实现每个模式的目标。图5为基于两种训练模式的双边控制，其中1、2号电机控制主机器人，3、4号电机控制从机器人，阴影模式由1、3号电机控制，2、4号电机控制镜像模式。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/86e513183acb84f5d20dc7ee2c522fd33ed85a6b4a016f0ec76f578762961d5e.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2017年，Kim等人[45]开发了一种机器人辅助镜像治疗的康复装置。由电机、位置传感器和扭矩传感器组成的机器人同时控制双侧手腕，以达到镜像运动的目的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "连接到电机轴的位置传感器用于测量腕关节角度；连接到机器人每一侧的力传感器，实时测量左右手腕扭矩；MCU收集传感器数据，产生对直流电机的相应输出。当患者将其健侧手腕旋转到屈曲或伸展的方向时，患侧的电机旋转到与健侧对称的角位置。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图6为该装置的示意图。此系统减少了患者腕关节的痉挛状态，增加患侧手腕的运动范围，且可以根据扭矩和腕关节角度之间排斥扭矩的大小和相位差，判断患者的Brunnstrom阶段。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef07a6586ac38ce534d6fd7949b4074a306bb4c81072d41b55eba539f58c149d.jpg",
+        "img_caption": [
+            "图5基于两种模式的双边控制系统",
+            "图6机器人辅助镜像治疗的腕关节康复装置"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "现有的机器人辅助镜像治疗系统，例如上述的MIME等设备，通过患者健康肢体的参与为患者提供了一定程度的治疗。然而由于系统的固有的限制性结构，患侧机器人只能接收健侧交互的命令。这意味着医疗师不能直接参与康复训练，矫正患者动作或通过触觉反馈来监测/评估患侧肢体的性能。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究表明[46]，相比单独学习运动任务，与合作伙伴的信息交互显著提高了患者运动性能。因此，医疗师和患者交互的康复治疗对患者有积极影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2016年，Shahbazi等人[47受到医疗师-患者交互作用的影响，开发了一种三边控制系统，医疗师参与康复训练，用于机器人辅助镜像康复治疗。该系统整合自适应按需辅助治疗ANT（assist-as-needed therapy,ANT)，基于患侧肢体PIL（patient'simpairedlimb，PIL）的损伤程度对该系统进行调整。系统的整体方案如图7所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "该系统的运动轨迹由医疗师提供，医疗师期望的PIL运动轨迹需要通过功能性肢体PFL（patient'sfunctionallimb,PFL）作为传输介质，由PFL修改轨迹，由此避免PIL产生不舒适感。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "另外，触觉反馈装置为医疗师提供PIL产生的位置误差，使得医疗师及时更新给予患者的治疗强度和其可接受的运动轨迹。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4943f9caa95ed173e8f3c0458aa0d1f5790b6d797b901c05f57ecd4ff7d018ff.jpg",
+        "img_caption": [
+            "图7按需辅助镜像治疗系统的整体方案"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2外骨骼式上肢康复机器人",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "真正的上肢康复训练运动复杂。具体到上肢某部位的训练，末端操纵式上肢康复机器人无法达到要求，会引入不需要的康复运动，或造成需要的康复运动无法完全实现。因此另一种镜像上肢康复机器人一一外骨骼式上肢康复机器人逐步成为镜像上肢康复机器人的研究热点。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "外骨骼是平行于臂的外部骨架，通常由每个关节上的驱动器提供动力，需要以复杂的力学分析来控制肩部、肘部和手腕各个关节。因为其力学分析、机械结构、控制方式的复杂性，在镜像上肢康复机器人的研究初期，外骨骼式上肢康复机器人研究较少。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2011年，Wang等人[48]开发了一种镜像机器人系统，包括一个外骨骼上肢机器人和惯性运动单元（inertiamotionunit,IMU)测量系统。IMU获取健侧每个关节的方位数据（俯仰角、偏行角、滚动角)，根据俯仰角和磁场，计算肢体的方位，传输到机器人系统控制单元，控制机器人带动患侧运动。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "系统有两种运动模式，如图8所示，一种是医疗师作为引导者，制定期望的运动轨迹，控制机器人运动，如图（a)所示；另一种是用自我控制模式，患者本人的健侧肢体控制机器人运动，如图（b）所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2015 年，Gao 等人[49]开发了一个预测患者运动意图的上肢康复训练系统，包括一个5-DOF上肢康复机器人（HIT-ULR2）Gazebo仿真平台的虚拟环境和Kinect设备。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "系统要求患者观看虚拟人物（患者或者医疗师）的运动，并且模仿其运动序列。假设患者有意识使双侧上肢尽可能对称的运动，跟随虚拟环境中的运动序列，用健侧肢体的运动去估计虚拟环境运动序列的时间步长，将相同时间步长的运动序列作为患者的运动意图的输入，此运动序列即为患侧上肢当前的",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "运动状态。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/615f8c807436ff228d5551a2041fc70c03a70b0bee0cc0b2c40e6626f8480bc7.jpg",
+        "img_caption": [
+            "图8镜像机器人系统的两种运动模式"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图9所示是本系统的两种控制模式，实验结果表明，提出的控制策略可以预测角度误差小于 $1 2 ^ { \\circ }$ 的患者的运动意图，并且在多数时间内执行良好的跟随和提供有效的辅助力。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cd9570b4d143b90274c2dafbb9edd8572ffeb489440529e03de0e6cded1c0729.jpg",
+        "img_caption": [
+            "图9上肢康复训练系统整体方案"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2016 年，Beom等人[50]设计一个镜像上肢康复机器人，如图10 所示。3个 AHRS（Attitude and heading reference system）传感器的贴片置于健侧，采集健侧肢体的运动数据，患侧的外骨骼机械臂带动患侧进行训练。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当健侧移动时，AHRS传感器将信号转换成坐标信号，经过计算机的计算转换成扭力，传递给机器人外骨骼；患侧的外骨骼机器人对患侧的移动进行扭力补偿，使患侧和健侧做到同时同步移动，完成4个虚拟现实游戏(球进洞、足球游戏、点跟随和推动杯子)。健侧和患侧的同步延迟约 $0 . 0 4 { \\sim } 0 . 4 \\mathrm { s }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Beom等将该系统用于1例60岁的慢性右侧基底神经节出血患者进行测试，结果显示，患者Fugl-Meyer运动功能评定量表(Fugl-MeyerAssessment，FMA)上肢部分增加，左手捏握力值明显提高。其对偏瘫后的上肢功能康复有效，但无法锻炼手腕和手指功能。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7a8d17888ecac0cdcae9ab8820a5309a324d982613eb2c4a03071bd10a1c6152.jpg",
+        "img_caption": [
+            "图10镜像机器人系统整体方案"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "末端操纵式和外骨骼式上肢康复机器人的优点，使得这两种机械结构成为康复机器人领域主要研究对象。另一种机械结构--电缆式上肢康复机器人，对上肢的运动提供最少量的控制，且每增加一个电缆，便增加了控制参数和复杂性，这些限制因素，导致电缆式镜像上肢康复机器人研究较少。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3电缆式上肢康复机器人",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2017年，LukasTappeiner等人[51]开发了一种由视觉系统和电缆驱动机器人组合的一种康复系统。系统将健侧运动产生的镜像错觉，用于脑卒中后偏瘫的运动恢复。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "开发的软件能够获得健侧图像，经过图像处理，软件分析健侧的方位信息后，控制电缆驱动的操纵器带动患侧运动。操纵器的末端执行器固定在患侧，电缆驱动可以带动患侧跟随健侧运动。低成本的机械结构和易于控制的电缆驱动机器人，可以有效地对脑卒中患者患肢进行康复训练。实验结果显示了系统的可行性。图11和12为电缆式康复机器人整体规划以及方案。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9495f7c2508a52f12b07ad8c9b7f5380e3dd4b92c18cd5c9dc71bfdc99e0cdc8.jpg",
+        "img_caption": [
+            "图11电缆式康复机器人整体规划"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/760726a634d089742b9cd188aa32d6bf0990343f314513222b35b79c589dc14d.jpg",
+        "img_caption": [
+            "图12电缆式康复机器人整体方案"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "关于以上部分镜像上肢康复机器人的评价总结如表1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 镜像上肢康复机器人主要功能及特点",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于镜像上肢康复机器人的研究[41-51]，其主要具备以下功能：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a）能够根据患者的情况及需求，进行不同强度的训练如被  \n动运动训练、主动抵抗或助力训练；b）通过提供人性化的、具有“沉浸感”的人机交互界面，  \n应用视觉、触觉等多媒体技术，增强患者参与训练的积极性；c）能够客观记录反映患侧肢体病理特征的医疗数据，如轨  \n迹，作用力等运动参数，对患肢的功能及时作出科学的评估，",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "使医师能够更加明确地获得患者运动障碍和康复进展情况，以便提出针对性的康复方法。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "d）镜像上肢康复机器人在使用中方便，灵活，安全。能够打破传统“医生-患者”的局限，使复合式康复治疗及远程康复训练模式成为可能。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/8c99dab36c14a9a53c4144931099452c0b57af5b6f80f99576ef18f77cd39f73.jpg",
+        "table_caption": [
+            "表1部分镜像上肢康复机器人的评价总结"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">机械结构</td><td rowspan=\"2\">系统名称</td><td rowspan=\"2\">针对上肢的部位</td><td rowspan=\"2\">数据获取</td><td rowspan=\"2\">患侧上肢的 运动</td><td rowspan=\"2\">达到的康复效果</td><td>临床</td></tr><tr><td>调查</td></tr><tr><td rowspan=\"6\">末端操纵器</td><td>2000MIME</td><td>近端 (肩和肘)</td><td>自由度位置数字化仪</td><td>模式)</td><td>力/扭矩传感器、光电编码器、6 协助（双边 肩部和肘部运动功能的FM评估（p <0.05)</td><td>有</td></tr><tr><td>2013Wear-A-BAN</td><td>近端和远端（肩、肘、 前臂和手腕)</td><td>无线体域网传感器（低功率无线 电，片上系统（SoC)，3D加速</td><td>被动</td><td>未知</td><td>无</td></tr><tr><td>2015 卡尔曼滤波器状态观</td><td>远端 (手腕)</td><td>度计，3D 陀螺仪和磁力计) 基于卡尔曼滤波器状态观测器</td><td>被动</td><td>未知</td><td>无</td></tr><tr><td>测器的双边控制 2017机器人辅助镜像治疗</td><td></td><td></td><td>被动（双边</td><td>患者腕关节的痉挛缓解，运动范围变</td><td></td></tr><tr><td>设备</td><td>远端 (腕部)</td><td>位置传感器、扭矩传感器</td><td>模式)</td><td>大；双边模式，比单边控制康复效果有 更佳</td><td></td></tr><tr><td></td><td></td><td>2011基于辅助机器人镜像 近端和远端（肩、肘、IMU测量系统（3D加速度计，</td><td>被动（自我</td><td></td><td></td></tr><tr><td rowspan=\"4\">外骨骼</td><td>治疗概念的IMU 测量系统</td><td>前臂和手腕)</td><td>3D 陀螺仪、3D 磁力计）</td><td>控制模式)</td><td>未知</td><td>无</td></tr><tr><td>2015 检测患者运动意图的</td><td>近端 (肩、肘、前臂)</td><td>Kinect 体感控制器</td><td>被动</td><td>在误差很小的范围内预测患者的运动</td><td></td></tr><tr><td>上肢运动康复训练系统</td><td></td><td>AHRS 传感器（3D加速度计、</td><td></td><td>意图</td><td>无</td></tr><tr><td>2016两轴镜像机器人系统 近端（肩、肘、前臂)</td><td></td><td>3D 陀螺仪、3D 磁力计）</td><td>被动</td><td>上肢部分功能恢复、肘屈曲改善、患 侧手部捏握力值提高</td><td>有</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "镜像上肢康复机器人有以下共同特点：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a）需要患者的主动参与，由此增加了患者的主观能动性，使得患者积极参与治疗。b）由传感器采集健侧的运动轨迹，即位置、角度、角速度等信息，然后镜像到患侧，对机器人进行控制，带动患侧肢体镜像健侧运动。c）由患者本人提供运动信息，针对患者进行个性化训练，由患者本人决定患侧活动范围和训练强度。d)通过被动的方式带动患侧肢运动，在患者可以接受的训练强度下，尽可能使患者达到健侧的运动状态。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 镜像上肢康复机器人研究问题",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "镜像上肢康复机器人研究尚属初级阶段，目前其主要是研究数据采集系统和控制方式。关于稳定性分析、运动功能性评估和智能控制策略研究尚少。综上所述，还需解决的主要问题包括：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a）患侧上肢连续控制问题。人体的肌肉骨骼系统是一个复杂的、强非线性、时变性不确定系统，对于肢体的连续控制问题，传统的控制方法难以得到理想的效果。针对此，模型预测控制(ModelPredictive Control，MPC)应运而生。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于具有一定肌肉力量的患者，需要给患者提供增强的训练强度，对患者进行连续镜像康复训练。在连续控制过程中，模型预测控制方法能实现患侧精准连续的跟踪健侧的运动。仿真和实验表明MPC能取得良好的控制效果[52]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b)在不确定性严重的情况下，镜像上肢康复机器人控制系统是否稳定的问题。患侧肢体在康复训练过程中，一些不确定性因素（如肌力、肌张力变化和肌肉痉挛等）的出现，会使患者与机器人的接触动力学参数发生较大的变化，导致系统发生振荡甚至不稳定。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "引导型虚拟夹具算法（guidance virtual fixture,GVF）是一种适合于沿所需轨迹提供动态指导的方法[53]。自适应GVF，根据患者治疗期间的损伤水平进行适应性调整，可以解决由动态不确定性因素导致的跟踪控制问题。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "c）患者运动功能性评估问题。传统的评估方法如FTHUE-HK[54]，Barthel指数[5]和MotricityIndex[56]等过于主观，不能量化评估患者的恢复程度。陈旭等[57提出的应用加速度记录仪定量评估患者上肢运动功能，对量表评分与参数进行相关性分析，该评估方法能够客观、量化地评价患者上肢的运动功能。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "上述的评估方法只针对患侧单侧的运动功能进行评估，并不能反映患侧所要达到的理想康复程度；此外，由于患者间差异，依靠统一标准对患侧进行评估，亦不能准确判断患者的恢复程度。因此利用患者的健侧肢体和患侧肢体之间的对称关系，对患侧肢体进行运动功能评估的方法由此诞生。产生了性能对称性（PS）指标，以及基于引导性水平（LOG）的运动功能性指标。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "d）患者双侧上肢的互动时延导致系统不稳定的问题。为保证患者训练安全，应用圆判据和小增益定理的组合，得出一组稳定条件，进行稳定性分析解决互动延迟引起的不稳定。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将圆判据纳入小增益定理中，还能解决将时变非线性元件整合到延迟系统中引起的额外的稳定性分析的挑战。目前镜像机器人系统缺乏稳定性分析，为了能在人体上进行实验验证以及进一步的临床试用，稳定性分析是必不可少的部分。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "e）上肢康复机器人柔顺控制问题。在运动过程除了实现位置控制外，还需考虑机器人与患者间的力耦合关系，以保障患者的舒适与安全，使得机器人具备一定的柔顺性。因此需要增加对力的感知，按需调节机器人与患者间的作用力[58]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于力的感知，建立辅助力矩观测器实时估计患者与机器人的接触力；结合模糊推理算法对阻抗模型的刚度进行实时调整，使患者得到适宜的辅助力，对患者进行柔顺控制。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上所述，研究者从经典控制、智能控制、增强学习、深度学习等理论和控制方法寻找有效的控制方案。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在医疗康复机器人的应用中，主要的其特点是人机共存环境中的人机交互。机器人与人之间的精准互动，是确保机器人最大限度发挥其价值的重要保障，以达到较好的康复效果。由于机器人系统需直接与患者接触和互动，在实现精准互动的同时必须考虑患者的安全性问题，实现患者运动功能的恢复、补偿或辅助。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "借助人机融合系统实现人与康复机器人之间的信息互动与交互控制，同时保证安全性，使人和机器有机地结合在一起，充分发挥各自的优势，将是医疗康复机器人发展的一个重要方向。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Mukherjee D,Patil C G.Epidemiology and the global burden of stroke [J]. WorldNeurosurgery,2011,76 (6): S85-S90.   \n[2]江先志．驱动关节在康复机器人中的应用[D].武汉：华中科技大学, 2011.   \n[3]Robert O,Systematic Therapeutic Exercises in the Management of the Paralyses in Hemiplegia [J].Journal of American Medical Association,1918, 70 (12) 828-833.   \n[4] Twitchell T E.The restoration of motor function following hemiplegia in man [J].Brain:AJournal of Neurology,1951,74(4): 443-480.   \n[5]Brunnstrom S.Motor testing procedures in hemiplegia: based on sequential recovery stages [J].Physical Therapy,1966,46 (4):357-375. constraint-induced movement therapy in chronic stroke patients[J]. Neurosci Lett,1998,250 (1): 5-8.   \n[7]Levy C E,Nichols D S,Schmalbrock PM,et al. Functional MRI evidence of cortical reorganization in upper-limb stroke hemiplegia treated with constraint-induced movement therapy [J].American Journal of Physical Medicine and Rehabilitation,2001,80(1): 4-12.   \n[8]Kim C.S,James H.C,Jeffery J.S.Bilateral movement training and stroke rehabilitation:A systematic review and meta-analysis[J].Journal of the Neurological Sciences,2006,244(1): 89-95.   \n[9]Reinkensmeyer D J,Emken JL, Cramer SC. Robotics, motor learning,and neurologic recovery [J]. Annu. Rev. Biomed,2004,6(6): 497-525.   \n[10] Rizzolatti G,FadigaL,Gallese V,et al.Premotor cortex and the recognition of motor actions [J]. Cogn Brain Res,1996,3 (2): 131-141.   \n[11] Lo MW,Huang SG,LinKC,et al.The effects of mirror therapy inclinics anditsbrain mechanisms:a literature review [J].Journal of Taiwan Occupational Therapy Research and Practice,2010,6(1):37-49.   \n[12] Saleh S,Adamovich S V, Tunik E.Mirrored feedback in chronic stroke: recruitment and effective connectivity of ipsilesional sensorimotor networks [J]. Neurorehab NeuralRe,2014,28 (4): 344-354.   \n[13] Rossiter HE, Borrelli MR, Borchert RJ,et al. Cortical mechanisms of mirror therapyafterstroke [J].Neurorehab NeuralRe,2015,29(5): 444 452.   \n[14] Fritzsch C,Wang J,dos Santos LF,etal.Different effectsof the mirror illusion on motor and somatosensory processing [J]. Restor Neurol Neuros, 2014,32 (2): 269-280.   \n[15]Deconinck FJ, Smorenburg AR,BenhamA,et al.Reflectionson mirror therapy: a systematic review of the effect of mirror visual feedback on the brain [J]. Neurorehab Neural Re,2014,29 (4): 349-356.   \n[16] Small SL,Buccino G, Solodkin A. Brain repair after stroke a novel neurological model[J]. Nat Rev Neurol,2013,9 (12): 698-707.   \n[17] Wang J,Fritzsch C,Bernarding J,et al. Acomparison of neural mechanisms in mirror therapy and movement observation therapy [J].J Rehabil Med, 2013, 45 (4): 410-413.   \n[18] Kim H, MillerLM,Fedulow I,etal. Kinematicdata analysis forpost-stroke patients following bilateral versusunilateral rehabilitation with anupper limb wearable robotic system [J]. IEEE Trans on Neural Syst Rehabil Eng 2013,21 (2): 153-164.   \n[19] Cauraugh JH, Summers JJ. Neural plasticity and bilateral movements: A rehabilitation approach forchronic stroke[J].Prog Neurobiol,2013,75 (5): 309-320.   \n[20] Ramachandran V S.Rogers-Ramachandran D. Synaesthesia in phantom limbs induced with mirrors [J].Proc R Soc Lond B Biol Sci,1996,263 (1369): 377-386.   \n[21] AltschulerEL,WisdomSB,StoneL,etal.Rehabilitationof hemiparesis after stroke with a mirror[J].Lancet,1999,353 (9169): 2035-2036. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[22] Thieme H,Mehrholz J,Pohl M,et al.Mirror therapy for improving motor function after stroke[J]. Stroke,2013,44(1): el-e2. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[23]KimSY,KimYY.Mirror therapy for phantom limb pain[J].KoreanJPain 2012,25 (4): 272-274.   \n[24] Farshad HK,MohammadRH,Aria S,etal.Mirror therapy as an alternative treatment for phantom limb pain: a short literature review [J]. Korean JPain 2013,26 (3): 309-311.   \n[25] Buccino G,Solodkin A,Small S L.Functions of the mirror neuron system: implications for neurorehabilitation [J]. Cognitive & Behavioral Neurology Official Journal of the Society for Behavioral & Cognitive Neurology,2006, 19 (1): 55-63.   \n[26] YavuzerG, SellesR,SezerN,eta1.Mirror therapy improves hand function in subacute stroke: a randomized controlled trial[J].Arch Phys Med Rehabil, 2008, 89 (3): 393-398.   \n[27]邹智，张英，王珊珊，等．镜像治疗结合任务导向性训练对脑卒中患者 上肢功能的影响[J].中华物理医学与康复杂志,2011,33(9):693-696.   \n[28]王维，马跃文，杨巍．镜像疗法对脑卒中偏瘫患者上肢功能和手功能的 影响[J].大连医科大学学报,2013(6):600-602.   \n[29] Rosen B,Lundborg G.Training with a mirror in rehabilitation of the hand [J]. Scandinavian Journal of Plastic and Reconstructive Surgery and Hand Surgery,2005,39 (2): 104-108.   \n[30]何雯，王凯．脑卒中后上肢功能康复研究进展[J].中国康复理论与实 践,2014,20 (4):334-339.   \n[31]丁力，贾杰．“镜像疗法”作为一种康复治疗技术的新进展[J].中国康 复医学杂志,2015,30(5):509-512.   \n[32] Noskin O,Krakauer JW,Lazar R. M,et al. Ipsilateral motor dysfunction from unilateral stroke: Implications for the functional neuroanatomy of hemiparesis[J]. Journal of Neurology,Neurosurgery and Psychiatry,2008, 79 (4): 401-406.   \n[33] Nakazawa I, Murayama Y. Treatment effect and effective support for the intensive paretic upper extremity training at Aizawa Hospital [J].Medical Journal of Aizawa Hospital,2011,9:33-38.   \n[34] Sanchez R J,Liu J，Rao S,et al. Automating arm movement training following severe stroke: functional exercises with quantitative feedback in a gravity-reduced environment [J].IEEE Trans on Neural Systems& RehabilitatioEgig,,1(3):9.   \n[35] Ells MD,Sukal T,DemottT,etal.ACTD exercise targets gravity-induced discoordination and improves reaching work area in individuals with stroke [C]//Proc of IEEE International Conference on Rehabilitation Robotics. 2007: 890-895.   \n[36] Housman SJ,Scott K M,ReinkensmeyerDJ.A randomized controlled trial of gravity-supported,computer-enhanced arm exercise for individuals with severe hemiparesis [J].Neurorehabilitation& Neural Repair,2oo9,23 (23): 505-514.   \n[37] Ellis MD,Sukal-Moulton TM,Dewald JPA. Impairment-based 3D robotic intervention improves upper extremity work area in chronic stroke: targeting ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "abnormal joint torque coupling with progressive shoulder abduction loading ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[J]. IEEE Trans on Robotics,2009,25 (3): 549.   \n[38]EllisMD,Sukal-Moulton T,DewaldJPA.Progressive shoulder abduction loading is a crucial element of arm rehabilitation in chronic stroke [J]. Neurorehabilitation & Neural Repair,2009,23(8): 862.   \n[39] Prange G B,Kallenberg L A,Jannink M J,et al.Influenceof gravity compensation on muscle activity during reach and retrieval in healthy elderly[J]. JournalofElectromyography&KinesiologyOficial,2009,19 (2): e40.   \n[40] PrangeG B,Jannink MJ,Stienen A H,et al. Influence of gravity compensation on muscle activation paterns during different temporal phasesof arm movements of stroke patients [J].Neurorehabilitation & Neural Repair,2009,23 (5): 478.   \n[41] Burgar C G,Lum P S,Shor P C,et al.Development of robots for rehabilitation therapy: the Palo Alto VA//Stanford experience [J]. Journal of rehabilitation research and development,2ooo,37(6): 663-674.   \n[42] Narang G, Narang A,Singh S,et al. Use of unobtrusive human-machine interface for rehabilitation of stroke victims through robot asisted mirror therapy [C]//Proc of IEEE International Conference on Technologies for Practical Robot Applications.2013:1-6.   \n[43] Mitsantisuk C,Ohishi K.Robotics-assisted rehabilitation therapy for the hands and wrists using force sensorless bilateral control with shadow and mirror mode [C]//Proc of IEEE International Conference on Mechatronics 2015: 541-546.   \n[44] Mitsantisuk C,Katsura S,OhishiK.Kalman-filter-based sensor integration of variable power assist control based on human stiffness estimation [J]. IEEE Transon Industrial Electronics,2009,56 (10): 3897-3905.   \n[45] Kim J,Kim J. Robot-assisted mirroring exercise as a physical therapy for hemiparesisrehabilitation [C]// Engineering in Medicine and Biology Society. 2017: 4243-4246.   \n[46] Ganesh G,Takagi A,Osu R,et al.Two isbetter than one:physical interactions improve motor performance in humans [J]. Scientific Reports, 2014, 4 (7484): 3824.   \n[47] Shahbazi M,Atashzar SF,Tavakoli M,et al.Robotics-Assisted Mirror RehabilitationTherapy:ATherapist-in-the-LoopAssist-as-Needed Architecture[J].IEEE//ASME Trans on Mechatronics,2016,21(4):1954- 1965.   \n[48] Wang W W,Fu L C.Mirror therapy with an exoskeleton upper-limb robot based on IMU measurement system [C]// Proc of IEEE International Workshop on Medical Measurementsand Applications Proceedings.2011: 370-375.   \n[49] Gao Y,Su Y,Dong W,etal.Intention detection inupper limb kinematics rehabilitation using a GP-based control strategy[C]// Proc of IEEE//RSJ International Conference on Intelligent Robots and Systems.2015:5032- 5038.   \n[50] Beom J,Koh S,Nam H S,et al.Robotic Mirror Therapy System for Functional Recovery of Hemiplegic Arms [J].Journal of Visualized Experiments Jove,2016,2016(114): e54521.   \n[51] TappeinerL,Ottaviano E,Husty ML.A cable-driven robot for upper limb rehabilitation inspired by the mirror therapy [J].Mechanisms and Machine Science,2017,50 (1): 174-181.   \n[52]安立鹏．基于功能性电刺激的上肢镜像康复运动控制研究[D].长春： 东北大学,2014.   \n[53]PradaR,Payandeh S.A study on design and analysis of virtual fixtures for cutting in training environments [C]//Proc ofJoint Eurohaptics Conference and Symposium on Haptic Interfaces for Virtual Environment and Teleoperator Systems.Washington DC: IEEE Computer Society,2005:375- 380. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[54] FongK,Ng B,Chan D,et al.Development of the Hong Kong Version of the ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "functional test for the hemiplegic upper extremity (FTHUE-HK)[J].Hong Kong Journal of Occupational Therapy,2004,14(1): 21-29.   \n[55]李奎成，唐丹，刘晓艳，等．国内Barthel 指数和改良Barthel 指数应用 的回顾性研究[J].中国康复医学杂志,2009,24(8):737-740.   \n[56] Safaz I,Yilmaz B,Yasar E,et al. Brunnstrom recovery stage and motricity index for the evaluation of upper extremity in stroke:analysis for correlation and responsiveness [J]. International Journal of Rehabilitation Research, 2009,32(3): 228-231.   \n[57]陈旭，蔡俊宏，潘卫东，等．应用加速度记录仪定量评估急性脑梗死患 者上肢运动功能[J].神经病学与神经康复学杂志,2010,7(2):65-68   \n[58]MaciejaszP,Eschweiler J,Gerlachhahn K,et al.A survey on robotic devices forupper limb rehabilitation [J].Journal of Neuroengineering& Rehabilitation,2014,11 (1): 1-29. ",
+        "page_idx": 7
+    }
+]

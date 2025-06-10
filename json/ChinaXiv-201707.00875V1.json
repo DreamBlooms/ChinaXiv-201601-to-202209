@@ -1,0 +1,419 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201604190733 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "余鸽,龙凤来，刘建军,马青青,康永祥,黄建,曹庆.不同年龄巴山木竹种群克隆结构.生态学报,2017,37(14);4743-4753.YuG,Longa2017,37(14) :4743-4753.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "不同年龄巴山木竹种群克隆结构",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "余鸽'，龙凤来²，刘建军³，\\*，马青青'，康永祥¹，黄建¹，曹庆4",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1西北农林科技大学林学院，杨凌712100  \n2 杨凌职业技术学院,杨凌712100  \n3 西北农林科技大学风景园林艺术学院，杨凌712100  \n4陕西佛坪国家级自然保护区管理局，佛坪723400",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要;很多竹类植物是典型的克隆植物,也是大熊猫的食物。研究典型竹子种群克隆结构的形成和发展对竹林的生产和抚育具有理论和实践意义,可为预测该竹林群落的演替趋势和大熊猫保护提供科学依据。利用 SSR 标记研究不同年龄 A（7龄）、B（ $> 3 0$ 龄)和C( ${ > } 6 0$ 龄)巴山木竹种群的克隆结构和多样性,探讨小尺度范围内不同年龄巴山木竹种群的克隆结构及斑块的建立和发展。8对 SSR引物共扩增出了118个位点,3个种群样地的256个样本共检测到了49个克隆(基因型),A、B和C种群分别检测出31、10个和8个克隆。随着种群年龄的增长,巴山木竹克隆面积增加,克隆数量减少;A和B样地各克隆分布格局为团块状,而C样地克隆既有团块状又有离散状。这一结果显示出在幼苗定居的初期,基株可能以短距离的克隆延伸为主从而呈现出团块状;而随着年龄的增长，克隆面积不断扩大,当复轴混生型的巴山木竹克隆受到强大的压迫时,基株可能会进行较多的单轴和长距离克隆延伸,呈现出离散状。Mantel 检测和空间自相关分析都支持3个样地在小尺度范围内存在明显的克隆空间遗传结构。3个样地在 $1 0 \\mathrm { ~ m ~ }$ 等级下显著的正相关空间遗传结构距离为 $3 . 1 , 2 8 , 4 8 \\mathrm { ~ m ~ } , X$ -轴截距为 $9 . 0 5 1 , 3 0 . 6 9 8$ 和 50.536,空间自相关系数的范围分别为0.1—0.167、0.008—0.703 和 $0 . 0 0 6 { - } 0 . 7 3 5$ 。由此可推断,随着年龄的增长,巴山木竹克隆斑块的规模在不断地扩大,同一克隆的分株数量增加,在均匀取样情况下,正相关空间遗传结构距离范围内取到具有相同基因型的可能性越大。A、B和C3样地的基因型比率 $( G / N )$ 为 $_ { 1 , 0 . 1 4 }$ 和0.055，Simpson多样性指数 $( D )$ 分别为1、0.876和0.744。这说明巴山木竹幼苗期基因型比例远远高于成年的竹林,随着年龄的增长巴山木竹克隆多样性虽有所降低,但由于有性繁殖的作用仍然保持了较高的多样性。聚类和主坐标分析均表明总体上各样地的克隆被聚为一类,但不同样地少数克隆的基因型有重叠和聚集,可推断出不同巴山木竹种群之间可能存在着基因流动和近似的克隆起源。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：巴山木竹；克隆结构；克隆多样性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Clonal structure of Bashania fargesii populations at different ages ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YU $\\mathrm { G e } ^ { 1 }$ ,LONG Fenglai²,LIU Jianjun3\\*，MA Qingqing'，KANG Yongxiang¹，HUANG Jian’,CAO Qing   \n1 College of Forestry，Northwest Agriculture& Forestry University，Yangling 71210O,China   \n2YangLingVocational Technology Collge,Yangling 7121oo,China   \n3 College of Landscape Architecture and Arts， Northwest Agriculture & Forestry University，Yangling 71210o，China   \n4 Shaanxi Foping National Nature Reserve，Foping 72340o,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Bamboos are typical clonal plantscommonly used as foodfor giant pandas.Studiesof theclonal structureof typical bamboo populationsareof both theoreticalandpractical importance forbamboo forestproductionandtending. Studies haveattmpted topredictitspopulationsuccessionfortheprotectionof giantpandas.Inthis study，simplesequence repeatfingerprintswereused torevealtheclonal structureanddiversityofBashaniafargersiipopulationsatthreedifferent genet ages （A 7 years, $\\mathrm { ~ B ~ } > 3 0$ years and $\\mathrm { ~ C ~ } { > } 6 0$ years）.We described how the clonal structure of $B$ . fargersii populations atdiferent genetages establishedand developedatthesmallscale.Weamplified118 microsatelite locus using8selective primer pairs.A total of 49 clones were identified from 256 leaf samplescollected from threepopulations，among which 31 clones were detectedin plotA，1Oclones in plotB,and8clonesin plot C.Thesizeofclones inthethree plots increased andthe number of clones decreased with population aging.The spatial distribution pattern of clones in plots A andB exhibitedaclumped distribution，while plot Cshowed two different paternswith simultaneouslyclumpedand discrete distributions.The results showed that the genet generally formed a clumped distribution patern during the seeding stage. Theclonesmay expandinto either themore sympodial typeof ramets or short-distanceclones，indicating that clonal propagation restricts dense seedling growth.However，with increasing clone size and genet age，compound axis mixed $B$ ： fargesii mayexpandinto either themore monopodial typeof rametsorlong-distanceclonesrepresenting adiscrete distribution pattern when the genetare pressured byother strongclones.Inadition,inourstudy，both the Mantel testand spatial autocorelationanalysissupported thesignificantpresenceofpositivespatial clonal structures ithree plotsatthe small-scalelevel.Spatialautocoelationanalysisalsoshowed thatthepositivespatial geneticstructuredistanceof hethree plots in the $1 0 \\mathrm { ~ m ~ }$ distance class were 3.1, 28, $4 8 \\mathrm { ~ m ~ }$ ， $X$ -intercepts were 9.051，30.698，and 50.536，and scope of spatial autocorrelation coefficients $r$ were 0.1—0.167,0.008—0.703，and 0.006—0.735，respectively. Our results showed that the size and scaleofclones increased with genetic aging.Additionaly,the numberoframets inthesame clone increasedunder uniform sampling conditions，indicating that more samples with the same genotype canbe collected with apositive spatial genetic structure distance.In our study，the distinguishable genotypes ( $G / N )$ from populations A,B,and C were 1,0.14, and 0.055 and the Simpson's indices of diversity $( D )$ ）were 1,0.876，and 0.744，respectively. This result revealed that the distinguishable genotypes at the seeding stage（A7 years）was much greaterthan that at the adult stage（B3O years and C 60 years）.Although thegenotypic diversityof clonal populationsreduced with genetaging，becauseof initial seedling recruitment，the value remained high.The unweighted pair-group methodand principal component analysis demonstrated that clones inthesame plot were always classfiedintothe sameclade.However,afewclones from diferent plots exhibited aggregation and overlap during analysis.In conclusion，we demonstrated that gene flow andanapproximate clone origin might exist in different populations. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words:Bashania fargesii；clonal structure；clonal diversity ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物克隆结构及斑块的建立和发展与能量分配、生态对策和遗传多样性等生态学热点问题密切相关[1]。克隆植物种群的克隆数量、大小、空间格局及其遗传变异的测定[2-3]是研究克隆植物种群机制和进化的基础。研究克隆植物种群克隆结构和遗传多样性对了解克隆植物种群的形成、维持和衰退有重要意义,同时有助于了解克隆植物的定居、侵和演替机理[4]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物种群克隆结构和遗传多样性受生物因子和非生物因子共同作用的影响[5-7],其中克隆植物的种苗补充方式[8-11]、微生境的异质性[11-12]以及生长策略[4]这几种机理被提出作为影响植物克隆结构和多样性的主要因素。在种群的建立、发展、维持以及衰退的不同阶段,植物种群克隆结构和遗传多样性将会随着各种作用因子的变化而呈现为动态性。然而,由于许多克隆植物的生活史较长,如竹类植物可长达数十年甚至百年[13-14],使得人们很难对同一种群进行连续的长期监测和研究,而通常将种群克隆结构和遗传多样性的研究看成是某一时间点的静态分析[15」。近年来,为研究克隆结构和多样性的时间动态,一些学者通过模型模拟并评估不同时间段的植物特性和各环境条件对克隆植物结构发展的影响[16-17];刘庆等采用“倒逐龄级累加法\"研究斑苦竹无性系种群克隆生长格局动态,发现复轴型的斑苦竹克隆种群随时间进程表现为聚集程度逐渐降低的集群分布格局[18]；Lian 等用 SSR 标记调查 Salix reini 的种群克隆生长动态,发现克隆的面积随着该种群分布斑块的面积增加而扩大[19];Ma等使用AFLP 标记证实了两个不同年龄段（小于30 岁龄级和大于70 岁龄级)的 Bashania fangiana 种群都是多克隆的,且克隆多样性水平都较高,说明了该植物的有性繁殖在克隆多样性中起到的重要作用[10]。这些研究方式为研究克隆结构和遗传多样性的动态发展提供了新思路。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "巴山木竹为典型的克隆植物,大约每隔70—75年甚至更长时间开一次花[20],开花后,幼苗开始更新;地下根茎为复轴混生型,即通过合轴丛生和单轴散生的生长方式来共同完成新一轮的克隆延伸[21]。巴山木竹是秦岭大熊猫冬春季食物的主要来源[22],主要分布于秦岭南坡、大巴山以及米仓山地区的中山地带。在海拔$1 6 0 0 { - } 2 0 0 0 \\ \\mathrm { m }$ 处生长良好,常形成大面积纯林,对生态系统的稳定、水土保持及其动物多样性起着至关重要的作用[23]。已有研究表明部分保护区内巴山木竹林老龄化,随时有开花的危险[24],研究不同年龄巴山木竹种群的克隆结构和多样性,有助于理解巴山木竹种群建立、发展和衰退不同阶段的克隆数量、大小、空间格局及其遗传变异情况，从而为巴山木竹林的复壮更新、抚育实践以及保护寻找出路。目前对于巴山木竹的研究主要集中在生物学特性、分布、生长发育规律、生物量以及无性系种群生态等方面的研究[25],尚未见从遗传角度研究其克隆结构和多样性的报道。在众多分子标记中,SSR分子标记具有操作简单及共显性变异等优点[26],被运用于多种植物克隆多样性和克隆结构研究中[3,19,27]。与其它分子标记不同之处在于 SSR 分子标记需要开发研究对象的专用引物,在前期的研究工作中,作者已经成功开发出了巴山木竹的 SSR引物[28]。因此本研究旨在利用 SSR分子标记探讨不同年龄巴山木竹种群的克隆结构和多样性及其形成原因,以期为预测竹林群落演替趋势和巴山木竹的竹林抚育实践以及大熊猫保护提供科学依据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1样地设置与采样方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为研究不同年龄巴山木竹种群的克隆结构,在考虑林分、海拔、坡度、坡向和土壤含水量等生态环境条件较一致的情况下,在2014年共设置A、B和C3块不同种群年龄的样地。3块样地大小根据各种群实际大小和生态环境条件而定。A 和B 两块样地设置在镇巴县,该县巴山木竹资源丰富,曾在1978—1983年有大面积竹林开花[29]。A样地设置在兴隆镇郑家山一位农户旁边的山上,这片竹林于 2007 年大面积开花后重新形成稠密的巴山木竹幼苗林,样地大小为 $2 0 \\ \\mathrm { m } { \\times } 3 0 \\ \\mathrm { m } ,$ 地理位置坐标为 $1 0 8 ^ { \\circ } 0 1 ^ { \\prime } 1 4 . 4 0 ^ { \\prime \\prime } \\mathrm { E } \\ . 3 2 ^ { \\circ } 3 0 ^ { \\prime } 3 1 . 8 0 ^ { \\prime \\prime } \\mathrm { N }$ ,海拔1603m。B 样地设置在星子山朱家坪,该片竹林 1978—1983年大面积开花后经过幼苗更新形成稠密的巴山木竹成年纯林,竹龄超过 $3 0 \\mathrm { a }$ ,样地大小 $6 0 ^ { < } \\mathrm { m } { \\times } 9 0 \\mathrm { ~ m }$ ，地理位置为 $1 0 7 ^ { \\circ } 5 9 ^ { \\prime } 5 1 . 0 4 ^ { \\prime \\prime } \\mathrm { E } \\ . 3 2 ^ { \\circ } 3 1 ^ { \\prime } 1 7 . 9 6 ^ { \\prime \\prime } \\mathrm { N }$ ,海拔 $1 6 1 0 \\mathrm { ~ m ~ }$ 左右。C 样地设置在佛坪国家级自然保护区，样地大小 $1 0 0 ~ \\mathrm { m } { \\times } 1 2 0 ~ \\mathrm { m }$ ，经过和保护站的工作人员了解，该竹林年龄大于60a,海拔 $1 6 2 1 \\mathrm { ~ m ~ }$ ,到目前为止仍没有开花迹象,此处巴山木竹生长良好形成稠密的纯林。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 块样地均采取均匀(网格法)取样策略,为了得到清晰的克隆结构,对竹林年龄较大的样地C 进行了初步取样间隔检测。在 $\\mathrm { ^ c }$ 样地选取 $2 0 ~ \\mathrm { m } { \\times } 2 0 ~ \\mathrm { m }$ 的小样方进行初步取样检测,取样间隔为0— $1 0 \\mathrm { ~ m ~ }$ ,经过实验最终确定3个样地选择一致的取样策略,即在 $1 0 \\ \\mathrm { m } { \\times } 1 0 \\ \\mathrm { m }$ 为单位的网格交叉点上取样。由于A样地为实生苗，在 $2 0 ~ \\mathrm { m } { \\times } 3 ~ \\mathrm { 0 m }$ 样地中央设置了一块 $1 \\ \\mathrm { m } { \\times } 1 \\ \\mathrm { m }$ 的小样地a,采取 $0 { - } 2 5 ~ \\mathrm { c m }$ 间隔取样,共取样31个,研究实生苗的克隆生长情况。3个样地共计取样 256个,其中样地A43个,样地B70个,样地C143个。所有采样点均用GPS 定位记录坐标,取每个分株的新鲜幼嫩叶片装人塑封袋中,并用变色硅胶干燥带回实验室于 $- 8 0 \\mathrm { { ^ \\circ C } }$ 保存。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 DNA的提取和检测 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用植物基因组DNA快速提取试剂盒(北京,百泰克)提取巴山木竹的总DNA。用 $1 \\%$ 的琼脂糖凝胶电泳检测 DNA片段大小,用紫外分光光度计检测 DNA 的纯度和浓度。所提取的DNA 用 $\\mathrm { d d H } _ { 2 } \\mathrm { O }$ 稀释至 $2 5 ~ \\mathrm { n g / \\mu L }$ ，于 $- 2 0 \\%$ 保存。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2SSR引物和PCR扩增 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "经过初筛和复筛,决定选用8对巴山木竹 SSR引物(loc2—loc8,loc10)来鉴定克隆(基因型)。8对引物的序列信息、退火温度及其PCR 扩增条件详见关于发展巴山木竹的微卫星引物这一文献[28]。PCR 反应在美国Bio-RAD 公司生产的 MyCycler Thermal Cycler #170-9701EDU型PCR 仪上进行。所有PCR产物在ABI3730XL DNA 测序仪（Applied Biosystems,USA）上进行毛细管电泳检测,用 GeneMapper 4.0（AppliedBiosystems,USA)软件读取扩增片段大小。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 克隆的鉴别",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "样地内所有基因型相同的分株被认为是同一个克隆（基株)[3.19]。使用POLYSAT软件的 assignClones 功能对3个样地所有个体的基因型进行分析,基因型相同的个体被分配到同一克隆组[30]。然而,由于巴山木竹为四倍体植物[28.3-32],为了确保克隆划分的准确性,需要确认每个基因片段在该位点上出现的频率。使用MAC-PR（Microsatelite DNA Alele Counting-Peak Ratios）方法[33]来核算每个位点基因片段出现的频率,最终每个样扩增出的基因位点频率将通过微卫星峰图的面积比来获得。利用该方法获得的每个位点在该基因型中出现的频率可以是 $0 , 0 . 2 5 , 0 . 5 , 0 . 7 5$ 或者是1，这些频率被作为特征被记入每个个体[28.34]。仔细比对相同基因型个体每个位点的频率,最终基因型相同且位点基因频率相同的个体被确认为同一个克隆[28.34]（如样地中部分个体基因型为ABC，等位基因C在该基因型中出现的频率为0.5,即为ABCC,最终所有为ABCC 的个体被确认为是同一个克隆)。为了方便后续的数据分析,使用POLYSAT软件转化所有具有基因频率特征的基因型数据为01数据[30]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.4 数据分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "鉴别出所有个体的克隆基因组之后,根据每个采样点的坐标信息绘制出克隆分布图(图1)。为了更清楚的了解克隆的大小和形状,计算了样地B和C克隆分布图(图1)中除去边缘以及单样克隆以外的每个克隆的面积 $\\mathbf { \\Omega } _ { a }$ 和最大长宽比率 $\\boldsymbol { r } _ { m }$ 。 $\\boldsymbol { r } _ { m }$ 的值等于或大于1, $r _ { m }$ 的值越大,说明该克隆所有分株趋向于离散分布， $r _ { m }$ 的值越接近1,说明该克隆所有分株趋向于团块分布。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "运用不同基因型比率( $\\left( G / N \\right)$ ,Simpson多样性指数 $( D )$ 以及Fager指数 $( E )$ 这3个指标来分析3个样地的克隆多样性。这3个指标的计算公式详见参考文献[2.10.35-37]。 $D$ 和 $E$ 的范围为0—1, $D$ 为0表示种群内只有1个独克隆,即所有样品的基因型相同， $D$ 为1表示种群内每个样品为1个克隆,即每个样品的基因型各不相同； $E$ 为0表示种群内所有样品为不同的克隆或者是有一个优势克隆而其它所有样品为不同的克隆， $E$ 为1所有克隆的样本是相同的[2,10,35-37]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了说明各种群内和种群间克隆的基因关系，运用NTSYSPC $2 . 1 0 ^ { [ 3 8 ] }$ 对所有克隆基因型进行UPGMA非加权算术平均聚类分析（Unweighted pair-group method analysis）。为了进一步说明3个种群间和种群内的克隆基因关系,运用GenAlEx 6.5对3块样地的克隆基因型进行了PCoA主坐标分析（Principal CoordinatesAnalysis）[39]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "运用GenAlEx $6 . 5 ^ { [ 3 9 ] }$ 软件计算巴山木竹所有分株基因遗传距离矩阵在相应距离等级下的空间自相关系数 $\\boldsymbol { r }$ ,分析其克隆结构。在同一软件下对所有个体遗传距离的线性矩阵和地理距离之间的关系进行 Mantel检测[39]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1巴山木竹克隆结构",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 不同巴山木竹种群克隆大小及其形状",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用8对引物对3个巴山木竹样地的256个样品进行PCR 扩增,共检测到118个位点。A、B 和C3个样地均由多克隆组成,分别为31、10 和8个克隆,并且没有相同的基因型(图1）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A 样地中的小样地a取样31个样,检测到了19个克隆; $1 0 \\mathrm { ~ m ~ }$ 间隔的A样地取样12个，检测到克隆12个。小样地a( $1 \\ \\mathrm { m } \\times 1 \\ \\mathrm { m } \\$ )中克隆面积均小于 $\\mathrm { ~ 1 ~ m } ^ { 2 }$ ，且从图1中可以看出克隆内的分株主要进行了短距离的密集型延伸。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "B 样地取样70个,检测到了10个克隆。除去边缘克隆 B1、B4、B6、B7和B10外,B2、B3、B5、B8和 B9 克隆面积和形状不同。其中，B2、B5、B8和B9这4个克隆的面积 $( a )$ 较为接近在550— $\\cdot 6 5 0 \\ \\mathrm { m } ^ { 2 }$ ,而 B3面积最小为 $2 5 0 ~ \\mathrm { m } ^ { 2 }$ （表1和图1)。同时，这4个克隆的最大长宽比率( $\\cdot r _ { m }$ )值大小也较为接近，分别为2.36、2.76、2.17和2.36;而 B3的 $r _ { m }$ 值为4.00 则略高于B2、B5、B8 和B9（表1)。结合B样地克隆结构分布图可以得出：B2、B3、B5、B8 和B9 均趋向于团块分布（图1）。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/81f62bb70deab0a2521a668c3d9c48b5ceb0765cab9b686e30aeff78cc09d11a.jpg",
+        "table_caption": [
+            "表1样地B和C9个克隆参数",
+            "Table1Parameters of nine clones in B and C plots "
+        ],
+        "table_footnote": [
+            "B2,B3，B5,B8,B9分别代表的是B样地的5个不同克隆,即克隆 B2,B3，B5,B8,B9;面积a的英文全拼：;最大长宽比率的英文全拼：；Rxy,xy是R的下标。 ?"
+        ],
+        "table_body": "<html><body><table><tr><td>克隆Clone</td><td>面积a/m² Area</td><td>最大长宽比率rm Maximum length-width ratio</td><td>克隆Clone</td><td>面积a/m² Area</td><td>最大长宽比率rm Maximum length-width ratio</td></tr><tr><td>B2</td><td>550</td><td>2.36</td><td>C1</td><td>2700</td><td>3.59</td></tr><tr><td>B3</td><td>250</td><td>4.00</td><td>C3</td><td>600</td><td>16.17</td></tr><tr><td>B5</td><td>650</td><td>2.76</td><td>C4</td><td>3800</td><td>2.11</td></tr><tr><td>B8</td><td>600</td><td>2.17</td><td>C7</td><td>900</td><td>2.22</td></tr><tr><td>B9</td><td>550</td><td>2.36</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "C 样地共143个样,检测到了8个克隆。除去边缘克隆 $_ { \\mathrm { C } 2 , \\mathrm { C } 5 , \\mathrm { C } 6 , \\mathrm { C } 7 }$ 和 C8 外,C1、C3 和C4克隆面积和形状各不相同。其中，C1和C4克隆面积较大分别为 $2 7 0 0 \\ \\mathrm { m } ^ { 2 }$ 和 $3 8 0 0 \\ \\mathrm { m } ^ { 2 }$ ,而C3 面积则远小于C1和C4仅有$6 0 0 \\ \\mathrm { m } ^ { 2 }$ （表1和图1)。C1、C3和 $\\mathrm { C } 4 ~ r _ { m }$ 值之间的大小差异较大,C1 和 C4 的 $\\boldsymbol { r } _ { \\boldsymbol { m } }$ 值分别为3.59 和2.11,而 $\\mathrm { C } 3 \\ r _ { { \\scriptscriptstyle m } }$ （20值则远高于C1和C4为16.17（表1)。结合C样地克隆结构分布图可以得出，C1和C4趋向于团块分布,而C3 趋向于离散分布（图1）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述,随着年龄的增长3个样地的克隆数量减少;从克隆大小来分析（不包括样地边缘的克隆）,随着年龄的增长克隆面积增加(表1和图1);结合 $f _ { { r _ { m } } }$ 值和各样地克隆结构分布图分析（不包括样地边缘的克隆),A 样地中的小样地a和B样地各克隆趋向于团块状分布,而C样地克隆既有团块状分布又有离散状分布(表1和图1)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.2不同巴山木竹种群空间遗传结构",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "巴山木竹3个样地所有分株的空间自相关分析结果如图2所示。当距离等级间隔为 $1 0 \\mathrm { ~ m ~ }$ 时，3个样地都存在显著的正相关空间遗传结构。A、B和C3个样地所有分株在空间距离分别小于 $3 . 1 、 2 8 、 4 8 \\mathrm { m }$ 时存在显著的正相关空间遗传结构， $\\mathrm { \\Delta } _ { X }$ -轴截距分别为9.051、30.698和50.536，空间自相关系数 $\\boldsymbol { r }$ 的取值范围为0.1—0.167、0.008—0.703和 $0 . 0 0 6 { - } 0 . 7 3 5 ,$ 。Mantel检测显示3个样地的不同克隆的基因遗传距离和空间距离之间也存在正相关性（ $_ { \\textrm { 4 , R x y } = 0 . 3 5 8 }$ ， $P \\mathrm { ~ < ~ } 0 . 0 0 6$ ； B,Rxy=0.529, $P \\ < \\ 0 . 0 0 1$ ; $\\mathrm { C } , R x y = 0 . 4 8 7$ ， $P \\ : < \\ : 0 . 0 0 1$ )。因此，这两种分析都支持3个样地在小尺度范围内存在明显的克隆结构。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 巴山木竹克隆多样性分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.1巴山木竹基因型多样性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了在同一水平上比较3样地克隆多样性指标的变化,仅对 $1 0 \\mathrm { ~ m ~ }$ 间隔取样的样品进行了多样性分析。A、B 和C3样地的基因型比率 $( G / N )$ 分别为1、0.14和0.055，Simpson多样性指数 $( D )$ 为1、0.876 和0.744,Fager均匀度指数 $( E )$ 为1、0.945 和0.825。比较3个样地各指标可以发现,巴山木竹的基因型比率 $( G / N )$ 、Simpson 多样性（ $( D )$ ）和Fager均匀度均随着该竹林年龄的增加而下降。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.2不同龄级巴山木竹种群聚类和主坐标PCoA分析",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3个样地的克隆聚类结果如图3所示，各样地内克隆之间聚类明显,表现出较高的遗传相似性，总体上来自同一样地的克隆被聚为一类,但C样地的C4、C7和C8优先于C样地的其他克隆同样地B的克隆聚在一起。3个样地49个克隆基因型主坐标分析结果显示（图4):3个样地的大多数克隆基因型可以被清楚的分离,仅在C样地的C4、C7和C8和B样地部分区域重合,这与聚类分析有着较为一致的结果。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/16608413206477ac0fc7bc71f5feb959e5d58d2417579c888456658f8e73edf6.jpg",
+        "img_caption": [
+            "图1巴山木竹3个样方的克隆空间分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "FigoaceotsBrifpeeeeat(Si A:7龄巴山木竹克隆结构图,A1—A12：样地A的12个克隆，虚线样框内是小样方a的放大,a1—a19：小样方a的19个克隆；B： $> 3 0$ 龄 巴山木竹克隆结构图，B1—B10：样地B的10个克隆;C： $> 6 0$ 龄巴山木竹克隆结构图，C1—C8：样地C的8个克隆 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1 不同年龄巴山木竹的克隆结构",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从3个样地的克隆大小和数量来分析,随着年龄的增长巴山木竹克隆面积逐渐增加,数量逐渐减少。从",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/536b497ff300caf3544a05ef12b17c2847840191d45fef1477d46ef172d4ae53.jpg",
+        "img_caption": [
+            "",
+            "图2A、B和C3个样地 $\\bf { 1 0 m }$ 等级下的空间自相关分析图Fig.2Spatial autocorrelograms from three plots A、B and C in distance class sizes of $\\mathbf { 1 0 \\ m }$ $\\boldsymbol { r }$ 为空间自相关系数， $U$ 和 $L$ 分别表示不存在显著性空间自相关遗传结构的 $9 5 \\%$ 置信区间的上限和下限"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "7龄竹林到 $> 3 0$ 龄的成年竹林克隆数量急剧减少面积急剧增大，而从 $> 3 0$ 龄到 $> 6 0$ 龄竹林克隆数量减少不明显,面积增加的倍数同前者相比也少的多。A样地为实生苗样地,在大尺度取样下( $1 0 \\ \\mathrm { m } \\times 1 0 \\ \\mathrm { m } ^ { \\cdot }$ ）,未检测到克隆的延伸;在小尺度取样下 $( 0 ^ { \\cdot } \\mathrm { - } 2 5 ~ \\mathrm { c m } )$ ，由于幼苗稠密,基株无法进行更长距离的延伸,克隆内的分株主要进行了短距离的密集型延伸(图1a)。分析B样地的克隆分布图和各克隆的 $\\boldsymbol { r } _ { m }$ 值可知,除去样地边缘的克隆外,B2、B5、B8 和B9 四个克隆为团块状分布,B3由于处于这4个团块克隆的包围下,有从团块状向离散状发展的趋势。分析C样地的克隆分布图和各克隆的 $\\boldsymbol { r } _ { m }$ 值可知，两个较大克隆C1和C4成团块状，而克隆C3 成离散状。一般认为,克隆植物会优先占有有利于自己生存的环境,在生长环境良好的情况下,更容易形成较为均匀的密集型克隆[40。然而,Inghe 比较了游击型和密集型克隆植物的竞争力,发现当干扰率低的时候密集型克隆植物占优势,而干扰率较高时游击型植物占优势[41]。因此,B样地中 B3处于B2，B5,B8和B9 4个团块克隆包围中,受到了一定的压迫,但由于空间和面积的原因仍然为团块状。C样地中,C3受到了C1 和 C4两个特大克隆的压迫,呈现为离散状。由于巴山木竹为复轴混生型的竹子,同时具有合轴丛生和单轴散生的两种类型的根茎,可推测出,当克隆基株受到强大的压迫时,可能进行更多的单轴和长距离的克隆延伸,从而呈现为离散状。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 不同年龄巴山木竹的空间遗传结构",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从A样地的自相关分析结果看，在 $3 . 1 \\mathrm { ~ m ~ }$ 范围内，所有个体表现为正相关空间遗传结构，但这一相关系数$\\boldsymbol { r }$ 的范围为0.1—0.167,说明在该范围内进行较长距离延伸的克隆还较少,这同Mental检测结果 $P \\mathrm { ~ < ~ } 0 . 0 0 6$ 时才有相关性是一致的。在小尺度取样下( $( 0 { - } 2 5 ~ \\mathrm { c m } )$ ），检测到了部分相同的克隆分株,这说明巴山木竹在7龄时已经进行了克隆延伸,但仅限于短距离密集型的延伸。由此可见,对于较小年龄的巴山木竹林,应采取较小",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c9cb345da741e98724c025a400abd38995967e34d8a5740f1a13c99231039c8.jpg",
+        "img_caption": [
+            "图33个样地的49个克隆UPGMA聚类分析图",
+            "Fig.3UPGMA clustering analysis of the 49 clones in the three plots "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A1—A12:A样地的12个无性系,a1—aI9,A样地中小样地a的19个无性系;B1—B10:B样地的10个无性系；C1—C8:C样地的8个无 性系 1 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "尺度的取样策略才能清晰地阐明克隆结构。而本研究中B和C样地的 $1 0 \\mathrm { ~ m ~ }$ 间隔取样下的空间分析结果同Mental检测结果一致显示 $( P { < } 0 . 0 0 1 )$ ，可以清楚的得到克隆结构，说明取样策略是合理的。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "虽然单独的空间自相关分析数据不能揭示真实的克隆结构[42],但是在同一距离 $1 0 \\mathrm { ~ m ~ }$ 等级下比较3块样地的空间自相关分析数据,发现3块样地的正相关空间遗传结构的距离 $\\mathrm { , } X \\mathrm { . }$ -轴截距随着年龄的增加而增加,空间自相关系数r的取值范围随着年龄的增加也在扩大。为了保证数据的可靠性,还做出了 $5 , 1 5 , 2 0 \\mathrm { ~ m ~ }$ 不同距离等级的空间自相关分析图,正如Peakall 等阐述的那样,改变距离等级 $X$ -轴截距也会随之改变[42]。但是,比较各距离等级下3个样地的相关数据发现各指标的变化和 $1 0 \\mathrm { ~ m ~ }$ 距离等级下的改变趋势相同。当一个种群被检测到显著的正相关空间结构时， $X .$ -轴截距指的是基因斑块平均最短长度的相对空间距离[42]。由此可见，随着年龄的增长巴山木竹克隆的面积和规模在不断地扩大,同一克隆的分株数量增加,在均匀取样情况下,正相关空间遗传结构距离范围内取到具有相同基因型可能性越大。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3不同年龄巴山木竹克隆多样性的比较及其原因分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究中B和C 样地的基因型比率 $( \\ G / N )$ 远低于其他竹子的值（Sasasenanensis， $G / N = 0 . 4 3$ B. fangiana, $G / N { = } 0 . 9 5 8 3 \\mid ^ { [ 2 , 1 0 ] }$ 。采样规模和间隔的大小都会影响巴山木竹的基因型比率[2]。3个样地选择相同的采样间隔 $1 0 \\mathrm { ~ m ~ }$ ，比之前两种竹子的 $5 0 \\mathrm { ~ m ~ }$ 和 $3 0 \\mathrm { ~ m ~ }$ 都要小,这可能是该值远低于其他竹子的原因。比较",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/eed5bdbe20c29a5e19e622093f726c14f31099d8a245a4f304dc727f9eb75c89.jpg",
+        "img_caption": [
+            "图43个样地49个克隆主坐标(pcoA)分析图",
+            "Fig.4Principal coordinates analysis（pcoA）of the 49 clones in the three plots "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A1—A31：A样地的31个无性系，B1—B10：B样地的10个无性系，C1—C8：C样地的8个无性系",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3个样地巴山木竹的 Simpson 多样性指数 $( D )$ 、基因型比率 $( G / N )$ 和Fager均匀度指数 $( E )$ ,各指标值随着竹林年龄的增加而降低。其中，A样地与B和C 的基因型比率 $( G / N )$ 差别最大,说明巴山木竹幼苗期基因型比例远远高于成年的竹林。比较样地A、B和C 的 Simpson 多样性指数( $\\mathbf { \\sigma } _ { D }$ ）和Fager均匀度 $( E )$ ,发现各指标虽略有降低,但仍然保持了较高的克隆多样性和基因型均匀分布度,说明了巴山木竹成年后随着年龄的增长克隆多样性和基因型均匀分布度仍然较高。这和各样地克隆数量和面积随着年龄变化趋势分析是一致的。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "从幼苗更新模式来看,巴山木竹为初始苗补充型（ISR,Initial Seedling Recruitment）物种[8-9]。巴山木竹大约 70—75a甚至更长时间开花结实[20],结实后可产生大量的幼苗,在7龄竹林的调查过程中,我们统计了每平方米的实生苗数可高达130株。从A样地来看,实生苗的克隆多样性很高,只有在0— $2 5 ~ \\mathrm { c m }$ 更小尺度取样下,才检测到了不同分株属于同一克隆的基因型。关于克隆多样性随时间变化的研究,可以分为两类：一些研究认为,克隆植物基因型多样性会随着年龄的增长而急剧的降低[4344];；相反的,也有一些研究认为不会降低[45-46]。然而,从本实验分析来看,巴山木竹幼苗初始补充量很大,而且基因型多样性很高,随着样地年龄的增长,分株和基株间的竞争排斥或死亡导致克隆多样性略有降低,但仍然维持在一定的水平上,这说明巴山木竹的有性生殖对其克隆基因型多样性贡献很大。此外,Ma 等和马青青等发现冷箭竹（Bashania fangiana）和秦岭箭竹（Fargesiaqinlingensis）的初始补充苗都对克隆多样性有极大贡献[10-11]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "另外,本文在聚类和主坐标分析中,发现了不同样地少数克隆基因型的重叠和聚集,说明不同巴山木竹种群之间存在着基因流动和近似的克隆起源。竹子花粉较轻,无粘性,为风媒传粉植物,其花粉和种子可在外力情况下可以进行长距离扩散[11,47],因此有待进一步开展不同巴山木竹种群之间的基因流动研究。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1］董鸣.克隆植物生态学.北京：科学出版社，2011：60-62.  \n2 SuyamaY,ObaashiK，HayashiI.Cloaltructureinawarfbamboo（Sasasenanensis）populationiferedfromamplifiedfragmentlengthpolymorphism（AFLP） fingerprints.Molecular Ecology，2000,9（7）：901-906.  \n3]KitaultcoelitiigafoResearch，2009，122(3）：299-304.  \n［4］阮成江，何祯祥，周长芳.植物分子生态学.北京：化学工业出版社，2005：36-40.  \n[5]SabeleartsdtubehderscL.）seedlings.Oecologia，1994,98(2）：150-158.  \n6aie(Crustacea，Ostracoda）.Evolutionary Ecology，2010,24(4）：911-922.  \n[7]DeWitL,ArbusterGF,Gellaberlet,tocklinJLrkersevealigoaldversitderelogeviioukyarctic-alpine species.Molecular Ecology，2012,21(5）：1081-1097.  \n[8]Eriksson O.Seedling dynamics and life histories in clonal plants.Oikos,1989,55(2）：231-238.  \n[9]EriksonO.Dynamics of genets in clonal plants.Trends in Ecology& Evolution,1993,8(9)：313-316.  \n[10]MaQQ,SongHX,ZhouSQ,YangWQ,LiDS,ChenJS.GenetistructureinDwarfBamboo（Bashaniafangiana）clonalpopulationswithdifferent genet ages.PLoS One,2013,8（11): 1-8.  \n[11］马青青，刘建军，余鸽，刘伟，马亦生.佛坪国家级自然保护区秦岭箭竹克隆结构的 SSR分析.生态学报，2016,36(20)：6496-6505.  \n[12]Antodxptalfouoaifaepucestoffreetselection hypothesis.Evolution，1984,38(1）：103-115.  \n[13]JanzenD H. Whybamboos wait so long to flower.Annual Review of Ecology and Systematics，1976,7（7）: 347-391.  \n[14]CampbellbowegslieleetstsiJalf4) : 17-35.  \n［15］阮成江，何祯祥，周长芳.植物分子生态学.北京：化学工业出版社,2005：101-103.  \n[16]BitebiereAK，GarbeyM,Saou-FekiMleentB,MonyStructurallueprintandogenydteinetedaptievaluefeplasticresponse to competition in clonal plants：a modeling approach.Evolutionary Ecology，2014,28（3）：573-590.  \n[17]BitebiereAK,oyClntB，beyM.lgmpetitetweepssigdivaledodel:etdsdtsgrowth of two species with contrasted growth forms.Ecological Modeling，2012，234(3）：38-50.  \n[18］刘庆，钟章成.斑苦竹无性系种群克隆生长格局动态的研究.应用生态学报，1996,7（3）：240-244.  \n[19]LianCLishiRashitaraK,aH,uBZouZ,HgetsTGetirucuredreprductidaisduring primarysuessionoMoutFuji，asrevealedbynueardchlorolastmicroateltanalsMoleularEcoloy，，（)609-618.  \n［20］王太鑫.巴山木竹种群生物学研究[D].南京：南京林业大学，2005．  \n[21] 刘志学，安里宁，王仕安，唐建文，薛纪如.巴山木竹的林学特性．西南林学院学报，1981，（1)：24-33.  \n[22] 高新宇，刘阳，刘定震，魏辅文.秦岭大熊猫冬春季节对巴山木竹竹林生长指标的选择.动物学研究，2006，27(2)：157-162.  \n[23] 王太鑫，丁雨龙，刘永建，李继清.巴山木竹无性系种群的分布格局.南京林业大学学报：自然科学版，2005，29(3）：37-40.  \n[24] 郑晓燕，何祥博，刘新玉.佛坪保护区大熊猫取笋区域内的巴山木竹林现状分析.陕西林业科技，2010，（2）：25-27.  \n[25] 唐新成，王逸之.巴山木竹研究现状及展望.林业调查规划，2012，37（4）：31-34.  \n[26] KaliaRK,Rai,alh,AKosaeliekovfetprgsisp7(3): 309-334.  \n[27]RogerRJunalealecucuegevietalgtieashlantiei.Evolutionary Ecology，2015,29(4): 609-623.  \n[28]YuG,Levelolpoelrsetd'aplebriB.aristata （Poaceae：Bambusoideae）.Conservation Genetics Resources，2015,7(3）：739-741.  \n[29］刘颖颖，傅金和.大熊猫栖息地竹子及开花现象综述.世界竹藤通讯，2007,5(1)：1-4.  \n[30]Clark L V, sieniuk M.Polysat:anRpackage forpolyploid microsatelite analysis.Molecular EcologyResources，O11,11（3）:562-566.  \n[31] Chen RY，Zong W X. Chromosome numbers of some scatered bamboos.Acta Phytotaxonomica Sinica,1991,29(5）: 452-455.  \n[32]ZhangYZngC,iD.oplexevolutiirudnariee（aceBasdee）ogrueceetplastiddceargene phylogenies. Molecular Phylogenetics and Evolution，2012,63(3）: 77-797.33]Esselitllelratios）method.Theoretical and Applied Genetics，2004，109(2）：402-408.  \n[34]Palop-stebanga-gsJGozledelaslldrieeticivsitydulatirucuiadlavender Limonium narbonense Miler（Plumbaginaceae）from eastern Spain.Genetica，2011,139（10）：1309-1322.  \n[35]Pielou EC.An Introduction to Mathematical Ecology.NewYork：Wiley-Interscience,1969:219-220.  \n[36]Fager E W. Diversity: a sampling study.American Naturalist，1972,106(949）: 293-310.  \n[37]EstrndNC,Rose MLPatesf genotypicdiverstincoalplantspecesAmericanJualofBoany987,7():-131.  \n[38]RohlfFJ.NTSYSpc:Numerical Taxonomyand MultivariateAnalysis System，Version2.1.NewYork：Exeter Software，2000.  \n39]Peakallose.a.ealisiEcelpulatigecefcdauteai，2012,28(19):2537-2539.  \n[40]Dale MRT.Spatial Patern Analysis in Plant Ecology.Cambridge：Cambridge University Press，1999：224-226.  \n[41]InghOedetsuviddtotalitcellutomaodelJoualoferel(12):257-270.  \n[42]Peakall,aleeatiaorossssgurlashusfuscipes.Evolution，2003,57(5）：1182-1195.  \n[43] TravisE,HsteW.scefubtutoeealsooteiyfdspdalatalterniflora，over a span of 1500 years.Journal of Ecology，2005，93(2）：417-430.  \n44]AaeLoispalosuserefaged pastures. Journal of Ecology，1985，73(3）：869-886.  \n[45]Verburg,asringHJaldiversiferetlagedopulatiosofedaaloalpltCircltelatBiology，2000,2(6): 646-652.  \n46]Hare,FerssoulasisdsaJournal of Botany，1987,74(8)：1239-1248. ?  \n[47］林树燕，石文文，缪彬彬，丁雨龙.竹类植物生殖生物学研究进展.世界竹藤通讯，2010,8（2)：1-6.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

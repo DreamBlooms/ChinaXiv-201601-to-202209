@@ -1,0 +1,723 @@
+[
+    {
+        "type": "text",
+        "text": "The impact of soil salinity on the yield, composition and physiology of the bioenergy grass Miscanthus X giganteus ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "EVANGELIA STAVRIDOU1,ASTLEY HASTINGS²,RICHARDJ. WEBSTER¹ and   \nPAUL R.H. ROBSON1   \n1Instituteofogical,onmentalduralienceerstthsityytthte   \nBiologicaladometalieesholoflogicalienesesityofdeencreede   \n3uu,uk ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "High salinity land may provide an alternative resource for the cultivation of dedicated biomass crops for renewable energyand chemicals,thus avoiding competition for land use with food crops.The commercial perennial grass Miscanthus $\\times$ giganteus is a leading biomass crop; however, its response to salt stress is largely unknown. Miscanthus $\\times$ giganteus was grown in pots irrigated with nine different NaCl concentrations (0,2.86, 5.44,7.96, 10.65, 14.68, 17.5, 19.97 and $2 2 . 4 ~ \\mathrm { d } S \\ \\mathrm { m } ^ { - 1 }$ ).Biomass yield was reduced by $5 0 \\%$ at $1 0 . 6 5 ~ \\mathrm { d } \\mathsf { S } \\mathrm { ~ m } ^ { - 1 }$ NaCl. Root dry mater inhibition occurredatthe highest saltconcentration tested,while rhizome dry weight and theratios of root/rhizome and below-/above-ground dry matter were not affcted by elevated salinity.The accumulative effect of increasing salinity reduced stem height and elongation,while photosynthesis was reduced toasmaller extent.The duration and strength of salinity exacerbated the reduction.Water use eficiency(WUE) was maintained except at the highest salinity and plants maintained stomatal conductance $( g _ { \\mathrm { s } } )$ and leaf water content at low to moderate salinity. Miscanthus $\\times$ giganteus showed strong induction of the osmoprotectant, proline and no significant increase in malondialdehyde content under increasing salinity.The ash content in leaves,increased, reducing the biomass qualityathigh salinity concentrations.The effects of salinityon the yield and the availability of land area in European geographical area for agriculture were investigated. Understanding the potential for growth of the C4 biomasscrop Miscanthus on underutilized or abandoned land may offer a new range of targets for improved economics, crop management and breeding. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:bioenergy，biomass quality，biorefining，Miscanthus $\\times$ giganteus，photosynthesis，plant physiology，salinity tolerance ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received19 January 2016;revised version received19 January 2016 and accepted2 February 2016 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The environmental stresses resulting from climate change and unsustainable irrigation practices are predicted to impact crop productivity and reduce the area of available land for agriculture by $2 \\mathrm { - } 9 \\%$ globally and by $1 1 \\mathrm { - } 1 7 \\%$ within Europe (Zhang & Cai,2011).The increasing impact of climate change on production of，and demand for，plant-derived products imposes challenges for the use of existing agricultural land. One solution could be the use of marginal land for the cultivation of biomass crops. Second-generation perennial biomass crops that are tolerant to environmental stress conditions would contribute to the reduction in $\\mathrm { C O } _ { 2 }$ emissions,while limiting competition with food production (Popp et al.,2014). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Soil salinity is a severe abiotic stress caused primarily by an abundance of sodium chloride $\\mathrm { ( N a C l ) }$ ,fromboth natural accumulations and from irrigation and crop evapotranspiration (Flowers & Flowers，2Oo5).Saline soils are characterized by having an electrical conductivity higher than $4 ~ \\mathrm { d } \\mathsf { S } \\mathrm { ~ m } ^ { - 1 }$ (where $4 ~ \\mathrm { d } S ~ \\mathrm { m } ^ { - 1 } \\approx 4 0 ~ \\mathrm { m } \\mathrm { M }$ NaCl),which many crops are unable to tolerate (Shannon & Grieve，1998;Qadir et al.，2000)．Salt-affected marginal land may provide an alternative land resource for the cultivation of second-generation biomass crops (Oliver et al.,2009) such as Miscanthus. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Miscanthus $\\times$ giganteus is a high yielding C4 crop cultivated for biomass in the majority of commercial plantations.Miscanthus has many characteristics that make it a suitable and sustainable source of biomass including a low energy requirement for cultivation and suitability for cultivation on low-grade agricultural land (Lewandowski et al.,20oo).Miscanthus biomass has also been reported to have good combustion quality when compared to other lignocellulose crops (Lewandowski & Kicherer, 1997).The cultivation of perennial rhizomatous crops such as Miscanthus may enhance soil carbon sequestration (Lal, $2 0 0 4 \\mathrm { a } ,$ ：Pidlisnyuketal.,2014),which in the long term could be beneficial for the recovery of marginal land through improving soil structure and fertility (Lal,2004b). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Miscanthus has good potential for use on underutilized or abandoned marginal land where excessive salinity and low moisture levels limit plant growth. Studies have shown that Miscanthus can grow in coastal areas where salt spray affects plant growth (Ogura & Yura,2008; Scheiber et al.,2008;Hung et al., 2009)．Plazek et al.(2014)showed that salt levels in excess of $1 0 0 ~ \\mathrm { { m m } }$ reduced M. $\\times$ giganteus productivity, while Miscanthus sinensis accessions exhibited greater variability for salt tolerance (Sun et al.,2014).However, the pattern of growth and development of $M . \\times g i g a n -$ teus in a wide range of salt concentrations, the associated responses to salt stress and the potential impact on combustion properties are largely unknown. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Salinity can reduce crop yield with a significant metabolic effort afforded to plant adaptation, growth maintenance and stress responses with a subsequent decrease in yield (Munns & Gilliham，2015).Salinity has two main components affecting plant growth. Initially，the water potentialislowered,and the plant experiences an osmotic stress similar to drought associated with concentrated solutes in the root zone.The subsequent ionic imbalance as salts perturb the uptake of nutrients and the accumulation of ions over time is the main cause of toxicity (Munns et al.，1995;Flowers & Flowers,2005; Verslues et al.,2O06).Many different traits contribute to salinity tolerance,which are species and developmental stage dependent (Munns，20o2；Flowers & Flowers, 2005;Jones et al.,2015). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Biomass yield is rapidly responsive and negatively correlated to osmotic stress while the intensity of the subsequent membrane injury depends on the rate of salt absorption and the ability to compartmentalize the salts in different tissues (Volkmar et al.，1998).Maintenance of plant yield is directly associated with tolerance to abiotic stresses including salinity.However,considering the complexity of salt tolerance along with the underlying mechanisms controlling yield，alternative stressrelated traits should be accounted for (Flowers et al., 1997;Flowers& Flowers,2005;Ashraf & Akram,2009). Potentially,a combination of drought and salt tolerance would enable the plant to cope with the different components of salt stress.To describe the response of plants to salinity stress,Maas & Hoffman (1977)introduced the concept of the salt tolerance threshold as the level of salinity over which yield is reduced significantly in a biphasic trend.The threshold level is responsive to environmental factors,andtherefore,itisnot static for each crop (Volkmar et al.，1998)，thus requiring controlled conditions to obtain accurate threshold values (Shannon, 1985). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In second-generation biomass crops such as Miscanthus,the quality of biomass may impact upon combustion properties and lower the ash melting temperature, affecting the degree of fouling,slagging and corrosion (Lewandowski et al.，20o3). The basic requirements for increased net energy for biomass production are low moisture and inorganic elemental contents.There are several minerals contributing to ash formation [potassium (K)，chlorine (Cl)，nitrogen (N)，calcium (Ca), sodium (Na),aluminium (Al),iron (Fe),silicon (Si) and sulphur (S)] that have an impact on biomass thermal conversion efficiency (Jorgensen，1997；Brosse et al., 2012). Low ash melting behaviour can lead to slagging and fouling, two of the main problems due to ash depositions in the boiler and the heat transfer section,respectively(Baxteret al.， 2012).Thequantityand characteristics of ash and residue products from Miscanthus combustion are important aspects of combustion system design and operation (James et al.,2012). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study,the effects of salinity on M. $\\times$ giganteus acrossa range of nine different waterelectrical conductivities are examined.The aim was (i) to estimate how $M . \\times$ giganteus biomass production is affected by different concentrations of ${ \\mathrm { N a C l } } ,$ (ii) to identify the tolerance threshold in M.× giganteus，(ii) to investigate the impact of salinity on biomass quality and (iv) to model the potential yield of M. $\\times$ giganteus growing in saline areas fromavailable yieldand soil data. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materialsand methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Plantmaterial and stress treatments ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The experiment was performed in a controlled environment glasshouse at IBERS,Aberystwyth University with 16 and $8 \\ \\mathrm { h } ,$ respectively,day/night photoperiod from supplemental lighting with an average of $5 0 0 ~ \\mathrm { \\textmu m o l }$ photons $\\mathbf { m } ^ { 2 } \\mathbf { \\Lambda _ { s } } ^ { - 1 }$ photosyntheticallyactive radiation and 25 and $1 5 ~ ^ { \\circ } C$ day/night cycle.An excess of $M . \\times$ giganteus plantlets,obtained from approximately $2 0 \\ \\mathrm { g }$ rhizome pieces,were established and grown in $6 . 2 \\mathrm { ~ L ~ }$ pots containing John Innes No.2 compost.A homogeneous population of M. $\\times$ giganteus plants was selected for the experiment using measurements of stem length. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The experimental treatments were applied for a 64-day period and comprised of eight NaCl concentrations:2.86,5.44, 7.96,10.65, 14.68,17.5,19.97 and $2 2 . 4 ~ \\mathrm { d } \\mathrm { S } \\ \\mathrm { m } ^ { - 1 }$ (corresponding approximately to 30,60,90,120,150,180,210 and $2 4 0 ~ \\mathrm { m M }$ of NaCl)，plus a control treatment with no added NaCl. The experimental design was completely randomized with five biological replications for each treatment. To avoid osmotic shock,plants were adapted by incrementally applying NaCl concentrations by $3 0 ~ \\mathrm { m M }$ perday starting on day 21 (9 October 2013)until all treatments reached the target concentrations on day 27 (15 October 2013).All treatments were watered to maintain a constant soil moisture content of $0 . 3 5 ~ \\mathrm { m } ^ { 3 } ~ \\mathrm { m } ^ { - 3 }$ with the corresponding NaCl solutions.Moisture content was measured as anaverage of three measurements per pot using a moisture sensor (SM30o;Delta-T Devices Ltd.,Cambridge,UK) inserted at three roughly equidistant points around the surface of the pot,and readings were recorded by a hand-held moisture meter (HH2 moisture meter;Delta-T Devices Ltd.).Pots were irrigated with $\\%$ strength Hoagland's solution of the corresponding NaCl concentrations on day 49. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "All physiological measurements were performed between 09:00 and 14.0o hours.At the beginning of the experiment, the tallest stem of each pot (where multiple stems were present) was selected as the main stem and all the measurements were taken from the youngest leaf with fully expanded ligule from that stem. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Growthmeasurements ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Stemlength of the longest stem was measured from the base of the stem at soil level to the fully expanded ligule of the youngest leaf. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Leaf area was assessed by measuring the length and width (at half leaf length) of the youngest fully expanded leaf with a ligule and was calculated as described by Clifton-Brown & Lewandowski (2000) (Eqn 1): ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { A r e a } \\left( \\mathrm { c m } ^ { 2 } \\right) = 0 . 7 4 \\times \\mathrm { l e n g t h } \\left( \\mathrm { c m } \\right) \\times \\mathrm { w i d t h } \\left( \\mathrm { c m } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "At the end of the experiment,total above-ground biomass was harvested and weighed to give fresh weight (F.W.),and biomass was then dried at $6 0 ~ ^ { \\circ } \\mathrm { C }$ to constant weight to estimate dry weight (D.W.). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Physiological measurements ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Dark-adapted chlorophyll $a$ fluorescence measurements were made on the youngest fully expanded leaf with a ligule using a Handy PEA chlorophyll fluorimeterwith dark adaptation leaf clips(Hansatech Instruments Ltd.,Norfolk,UK) after $3 0 ~ \\mathrm { { m i n } }$ darkadaptation.A dark adaptation time of $3 0 ~ \\mathrm { m i n }$ was established following the equipment guidelines.Fluorescence parameters measured included maximal fluorescence $( F _ { \\mathrm { m } } ) _ { \\mathrm { \\ell } }$ minimal fluorescence $( F _ { \\mathrm { o } } ) ,$ variable fluorescence $( F _ { \\mathrm { v } } ) _ { \\mathrm { \\ell } }$ ，maximal quantum efficiency of PSII photochemistry $( F _ { \\mathrm { v } } / F _ { \\mathrm { m } } )$ and the performance index (PI) calculated using the manufacturer's software. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Stomatal conductance $( g _ { \\mathrm { s } } , \\ m \\mathrm { m o l \\ m } ^ { - 2 } \\ s ^ { - 1 } )$ was measured using an AP4 porometer (Delta-T devices Ltd.). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Relative chlorophyll content was measured on three leaves per plant [the youngest leaf with the fully expanded ligule (O), one immediately older leaf（-1) and one immediately younger leaf $( + 1 )$ ]usinga SPAD-502 meter (Konica Minolta Optics Inc., Tokyo,Japan).A mean value was calculated from three readings taken at quarterly intervals along each leaf. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Leaf water content (WCl) was evaluated from total aboveground biomass measurement at harvest,and water content was calculated according to Eqn (2): ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\sf W C l } \\left( { \\bf g } { \\bf L } ^ { - 1 } \\right) = \\frac { { \\sf F . W . - D . W . } } { { \\sf D . W } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Water use eficiency (WUE)was calculated as the ratio between above-ground biomass $( \\mathrm { g ) }$ produced and the total amount of water applied (L). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Steppuhn et al.(2oo5a,b) introduced a comparative salinity tolerance index (ST-Index) based on the nonlinear regression parameters of $C _ { 5 0 }$ and $s$ that indicates crop tolerance to rootzone salinity (Eqn 3b).The relative yield $( Y _ { \\mathrm { r } } )$ was calculated as the ratio of absolute yield (above-ground biomass) over the bio mass in control conditions $( Y _ { \\mathrm { { m } } } )$ where salinity has very little or no influence on the yield (Maas,1990). To describe $Y _ { \\mathrm { r } }$ as a function of the NaCl concentrations,we fit an exponential response curve with $9 7 . 1 \\%$ variance accounted for: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { \\mathrm { r } } = A + B ( R ^ { \\mathrm { x } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In Eqn (3a),the $A$ is the asymptote when parameter $R$ is between O and 1,and $B$ is the range parameter. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Salinity tolerance index (ST-Index) was estimated according to Eqn (3b) (Steppuhn et al.,2005a,b) with some modifications: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S T - I n d e x } = C _ { 5 0 } ( 1 + s )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In Eqn $( 3 \\mathrm { b } )$ ,the index is based on the nonlinear parameters of $C _ { 5 0 }$ ands $( \\mathrm { E q n } ~ 3 \\mathrm { a } )$ ，where $C _ { 5 0 }$ is the $\\mathrm { \\Delta N a C l }$ concentration,at which $Y _ { \\mathrm { r } }$ is reduced by $5 0 \\%$ and $s$ is the slope $( \\mathrm { d } Y _ { \\mathrm { r } } / \\mathrm { d } C )$ ofa tangent to the fitted line at $C _ { 5 0 }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Biochemical analysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Proline was extracted using a cold extraction procedure according to Carillo et al.(2008) by mixing $2 0 ~ \\mathrm { m g }$ of leaf fresh weight aliquots with $4 0 0 ~ \\mu \\mathrm { L }$ of ethanol: water $( 4 0 : 6 0 \\mathrm { ~ v ~ } / \\mathrm { v } )$ .Proline content was measured spectrophotometrically using the method of Carillo & Gibon (2011） from three biological and three technical replicates per treatment. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Lipid peroxidation was estimated by the total content of 2-thiobarbituric acid reactive substances (TBARS) expressed as equivalents of malondialdehyde (MDA),a decomposition pro duct of polyunsaturated fatty acids that has been utilized as a biomarker for lipid peroxidation (Mittler,2002).TBARS content was estimated from leaf material using the method of Gautier et al.(2010).The amount of MDA-TBA complex was calculated from the excitation coefficient, $\\varepsilon = 1 5 5 \\mathrm { ~ m u ~ c m ^ { - 1 } }$ according to Eqn (4) (Yasaret al.,2010): ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { M D A ~ e q u i v a l e n t s } \\left( \\mathrm { n m o l } \\ : \\mathrm { g } ^ { - 1 } \\right) = \\left[ \\frac { \\left( A _ { 5 3 2 } - A _ { 6 0 0 } \\right) } { \\varepsilon } \\cdot 1 0 0 0 \\cdot V \\right] \\bigg / \\mathrm { F } . \\mathrm { W } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In Eqn (4), $\\boldsymbol { A } _ { 5 3 2 }$ and ${ A _ { 6 0 0 } }$ are the absorbance at $5 3 2 ~ \\mathrm { n m }$ and $6 0 0 \\ \\mathrm { n m } .$ ，respectively, $V$ is the volume of the extract,and F.W. is the fresh weight of the sample. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Samples of leaves were ground and stored in falcon tubes to measure ash content $( \\% )$ .Beakers $( 2 5 ~ \\mathrm { m L } )$ ）weredried in an oven for $3 0 ~ \\mathrm { m i n }$ at $1 0 0 \\ { } ^ { \\circ } { \\mathrm { C } } ,$ placed in a desiccator to cool and weighed on a balance to an accuracy of four decimal places. Ground sample ${ \\bf \\Pi } ( 1 \\mathrm { \\bf ~ g } )$ was dried overnight at $1 0 0 ~ ^ { \\circ } \\mathrm { C }$ in the weighed beakers.The samples were placed into desiccators to cool and then reweighed.The beakers with the samples were placed ina Muffle furnace at $5 5 0 ~ ^ { \\circ } \\mathrm { C }$ for $^ { 1 6 \\mathrm { ~ h ~ } }$ and in an oven at $1 0 0 ~ ^ { \\circ } \\mathrm { C }$ until the sample temperature decreased to $1 0 0 ^ { \\circ } \\mathrm { C } ,$ and the samples were weighed after $3 0 ~ \\mathrm { m i n }$ . The percentage of ash content per sample was calculated according to Eqn (5): ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Statistical analyses ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "All the statistical analyses were performed using the computing environment R(R Core Team,2015).The effects of salinity levels and time (days) on the morphological, physiological and biochemical parameters were assessed using one-way ANOVA (forsalinity or time)and two-way ANovA (for salinity,daysand their interactions)with the ez and afex packages (Lawrence, 2015; Singmann et al.,2015).All data were tested for normality (Shapiro test) and homogeneity of variances (Levene's test), and if normality failed and homogeneity passed, transformationswere attempted (Table S1).For the two-way ANOvA,data were also tested with Mauchly's test for sphericity,and if the assumption of sphericity was violated，the corresponding Greenhouse-Geisser corrections were performed.If significant differences were found among treatments,then the Tukey's HSD post hoc test was performed to determine specific treatment differences using the Agricolae package (de Mendiburu, 2015). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Changes in plant height over time at the different levels of $\\mathrm { \\Delta N a C l }$ were modelled via fitting logistic curves (LC)(Eqn 6) to individual plants using GenStat $\\copyright$ (17th edition): ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { i j } = A + \\frac { C } { 1 + e ^ { ( - B ( X _ { i } - M ) ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In Eqn (6), $Y _ { i j }$ is the height of $j$ experimental unit in the ith recording time, $A$ is the minimum asymptote, $C$ is the final or potential height, $A + C$ is the upper asymptote; the curve's maximum value,B is the shape parameter; the steepness of the curve, $M$ is the point of inflexion where the absolute growth rate is maximum,and $X _ { i }$ is the ith recording time. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Salinity response equation and spatial impact on yield ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The experimental data were used to determine an equation that could be used to predict the reduction from the maximum yield on nonsaline soils so that the actual yields could be predicted on saline soils. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The relationship between the soil conductivity $( C _ { \\mathrm { s } } )$ and irrigation water conductivity $( C _ { \\mathrm { w } } )$ and the soil cation exchange capacity (CEC),soil porosity $\\mathbf { \\eta } ( \\theta )$ and soil material density $( \\rho _ { \\mathrm { m a } } )$ wasdetermined using the Waxman-Smits method (Waxman & Smits,1968) according to Eqn (7): ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { \\mathrm { s } } = ( B Q _ { \\mathrm { v } } + C _ { \\mathrm { w } } ) / F ^ { * } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In Eqn(7),F\\* is the resistivity formation factor = 0.62/02.15, $B$ is the ionic equivalent conductance of the exchange cation ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(Mhos $\\mathsf { M } ^ { - 1 } ) / ( \\mathrm { E q } \\mathrm { ~ L } ^ { - 1 } )$ 、 $B$ is related to $C _ { \\mathrm { w } }$ $B = ( 1 { - } 0 . 8 \\mathrm { e } ^ { { - } 5 0 } \\ C _ { \\mathrm { w } } )$ （20 3.86, $Q _ { \\mathrm { v } }$ is the concentration of exchange cations per unit pore volume, Eq $\\mathrm { L } ^ { - 1 }$ $Q _ { \\mathrm { v } }$ is related to CEC according to Eqn (8). ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { \\mathrm { v } } = ( \\mathrm { C E C } ( 1 - \\theta ) / \\theta ) \\rho _ { \\mathrm { m a } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "From the linear regression of soil conductivity as a function of water conductivity (Fig. S1),the slope represents the recipro cal of the formation resistivity factor (0.336) $( F ^ { * } )$ and the intercept with y axis is the soil conductivity due to the clay content of the soil $B Q _ { \\mathrm { v } } / F ^ { * } ( 1 . 8 8 )$ .The soil conductivity, $C _ { \\mathrm { s w , } }$ due to the water salinity is $C _ { \\mathrm { w } } / F ^ { * }$ .Using Eqn (7),the CEC of the soil (John Innes No 2) was calculated to be $0 . 4 8 4 ~ \\mathrm { m E q ~ g ^ { - 1 } }$ ， ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The above-ground dry matter yields of all replicates were normalized as a proportion of the nonsaline mean maximum yield which was $2 4 . 8 ~ \\mathrm { g }$ per plant $( Y _ { \\mathrm { s a l } } )$ . Using Minitab ${ \\mathfrak { C } }$ a nonlinear regression was made of the response variable of the $Y _ { \\mathrm { s a l } }$ using the explanatory variable soil conductivity, $C _ { \\mathrm { s w } }$ . The nonlinear regression of the proportion of reduction compared to nonsaline dry matter yield $( Y _ { \\mathrm { d m } } )$ using soil conductivity due to water conductivity $( C _ { \\mathrm { s w } } )$ asan explanatory variable suggested Eqn (9): ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { \\mathrm { d m } } = 1 . 0 ( \\exp ( - 0 . 1 6 3 8 9 4 \\times C _ { \\mathrm { s w } } ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The standard error of the regression is O.14,and the lowest of all forms was tried and respects both initial point and final point (Fig.S2).Using this relationship,the areas in Europe with degraded soils due to salinity were investigated to see which areas could be used to grow M. $\\times$ giganteus and what is the salinity induced yield reduction. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The MiscanFor model (Hastings et al.,20o9) was used to predict the mean harvest yield for the period of 1990-2008 of $M . \\times$ giganteus for the European area using the CRU 3.1 (Mitchell et al.,2oo4) climate data and the Harmonized World Soil Data (HSWD) (FAO/IIASA/ISRIC/ISSCAS/JRC,2012) as input on a O.0o833 degree grid.The topsoil salinity from the HSWD expressed in units of $\\mathrm { d } \\mathsf { S } \\mathrm { m } ^ { - 1 }$ was extracted from the HSWD on the same O.00833 degree grid and used in Eqn (9) to calculate the proportion of the Miscanthus yield resulting from the salinity stress of the soil. The results are presented spatially for the European geographical area (Fig. 5). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Effectsofsalinityongrowthand yield ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Final plant height was negatively associated with salt concentration (Fig.1). The upper asymptote of the fitted logisticcurvesdecreasedlinearly $( P = 0 . 0 3 )$ ）with increasingsalinityattherate ofapproximately $- 0 . 9 6 ~ \\mathrm { c m }$ per unit increase in salinity. The shape parameter increased linearly $( P < 0 . 0 0 1 \\$ ）with increasing salinity,with steeper curves for $2 2 . 4 ~ \\mathrm { d } S \\mathrm { ~ m } ^ { - 1 }$ NaCl than the $2 . 8 6 ~ \\mathrm { d } S ~ \\mathrm { m } ^ { - 1 }$ NaCl-treated plants $\\langle P < 0 . 0 5 \\rangle$ .However， the time at which maximum absolute growth occurred was not affected $( P = 0 . 1 7 4 )$ by salinity with an overall mean value of 19.6 days.Height changed significantly with time $( P < 0 . 0 0 1 ^ { \\cdot }$ ）with the greatest inhibition of height being observed on day 43 for plants treated with $2 2 . 4 ~ \\mathrm { d } \\mathrm { S } \\mathrm { ~ m } ^ { - 1 } \\mathrm { \\Delta N a }$ Cl (highest NaCl treatment) while there was a delayed inhibition of height for control plants and plants treated with 2.86 (lowest NaCl treatment) (day 58)and 5.44(day 63)dS $\\mathbf { m } ^ { - 1 }$ NaCl (Fig. 1). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/839e46e28642375889d36c7bc1c021c889e34b709a4f0f79cf4db65f5c4cf175.jpg",
+        "img_caption": [
+            "Fig.1 Changes in height (cm) over time (days) of Miscanthus $\\times$ giganteus plants in response to changes in salinity concentrations ranging from 0 to 22.4 dS $\\mathrm { m } ^ { - 1 } \\mathrm { N a C l } ;$ data are mean $\\pm$ SE $( n = 5$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The rate of stem elongation $\\mathrm { ( c m \\ d a y ^ { - 1 } } ,$ showed asig nificant change with time (days),main effect $( P < 0 . 0 5 )$ reaching the maximum rate between 15 and 22 days when stem elongation started to decline until day 58 and remained constant between days 63 and 84. Salinity had a significant main effect on rate of elongation on days29 and 50-84 $( P < 0 . 0 5 )$ .On day 84，the control and $2 . 8 4 ~ \\mathrm { d } S \\mathrm { ~ m } ^ { - 1 }$ -treated plants had significantly higher rates of elongation compared to the other seven NaCl concentrations $( P < 0 0 5 )$ ！ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Salinity had a significant main effect $( P < 0 . 0 5 )$ onthe above-ground D.W.，which was reduced in NaCl concentrations over $7 . 9 6 ~ \\mathrm { d } S ~ \\mathrm { m } ^ { - 1 }$ NaCl with the greatest decrease occurring at 19.97 and $2 2 . 4 ~ \\mathrm { d } S \\mathrm { ~ m } ^ { - 1 }$ NaCl $( P < 0 . 0 5 )$ (Fig.2a). Salinity depressed the root weight D.W. $( P < 0 . 0 0 9 ,$ ）mainly affecting the 22.4 dS $\\mathbf { m } ^ { - 1 }$ NaCl-treated plants that differ significantly from the control and $2 . 8 6 ~ \\mathrm { d } S ~ \\mathrm { m } ^ { - 1 }$ NaCl-treated plants $( P < 0 . 0 5 )$ （204号 (Table 1).However，no significant differences between salinity levels were detected when comparing rhizome ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0a0ccfe179a88001f7cdca8019a10130290cd300f9d0946e5a94d5a6a194281b.jpg",
+        "img_caption": [
+            "Fig.2 Response of the above-ground dry biomass $\\left( \\mathbf { a } , \\mathbf { g } \\right)$ ,the cumulative WUE (b) $\\mathrm { \\bar { g } }$ D.W. ${ \\mathrm { L } } ^ { - 1 }$ water applied),the number of leaves (c) and the leaf relative water content (d) of Miscanthus $\\times$ giganteus plants to salinity gradients ranging from 0 to $2 2 . 4 ~ \\mathrm { d } \\mathrm { S } \\mathrm { ~ m } ^ { - 1 } \\mathrm { ~ N ~ }$ NaCl; data show the median (2nd quartile; horizontal line) and the lst and 3rd quartiles of the data $( n = 5 )$ . Dots indicate outliers. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "D.W.,nor the ratios of root/rhizome and below-/aboveground D.W. (Table 1). From the exponential response curve (Eqn 3a), the $Y _ { \\mathrm { r } }$ decreased by $1 3 . 6 7 \\%$ for each unit increase in dS $\\mathbf { m } ^ { - 1 }$ NaCl. The salt concentration associatedwith $5 0 \\%$ reductionin $Y _ { \\mathrm { r } }$ was estimated at 10.86 dS $\\mathbf { m } ^ { - 1 }$ NaCl (approximately $1 2 0 ~ \\mathrm { m M }$ )，and the steepnessparameter (s)was equal to $- 0 . 0 1 9 9 7$ .Therefore, the ST-Index calculated using Eqn (3b) was 10.64. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Salinity-affected leaf number $( P < 0 . 0 5 )$ (Fig.2c), control and $2 . 8 6 ~ \\mathrm { d } S ~ \\mathrm { m } ^ { - 1 }$ -treated plants had the highest number of leaves at the end of the experiment.Leaf area wassignificantly reduced with salinity（ $\\langle P = 0 . 0 0 3 2 \\rangle$ ， although the reduction was not linear. The largest leaf area was measured in plants treated with 5.44 dS $\\mathbf { m } ^ { - 1 }$ $\\mathrm { { N a C l } }$ $( P < 0 . 0 5 )$ ，whereas the 17.5 and 19.97 dS $\\mathrm { m } ^ { - 1 }$ NaCl-treated plants had the lowest leaf area values $( P < 0 . 0 5 )$ (data not shown).Leaf relative water content was effected by salinity $( P = 0 . 0 0 0 8 )$ ，and plants treated with 17.5 and 19.97 dS $\\mathbf { m } ^ { - 1 }$ NaCl were significantly different compared to the control $\\langle P < 0 . 0 5 \\rangle$ (Fig.2d). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Effectsof salinityonphysiologyand photosynthesis ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The cumulative WUE significantly decreased with increasing salinity $( P = 0 . 0 0 4 7 )$ .Plants treatedwith 7.96 and $2 2 . 4 ~ \\mathrm { d } \\mathrm { S } \\ \\mathrm { m } ^ { - 1 }$ NaCl had significantly lower WUE （204号 $( P < 0 . 0 5 )$ (Fig.2b).Both salinity and time (days)had significant main effects on stomatal conductance $( g _ { \\mathrm { s } } )$ $( P < 0 . 0 5 )$ (Tables 2 and 3). Stomatal conductance was significantly higher on day65 $( P < 0 . 0 5 )$ (Table 2). Plants treated with $2 2 . 4 ~ \\mathrm { d } S \\mathrm { ~ m } ^ { - 1 }$ NaCl (highest NaCl treatment) had the lowest $g _ { \\mathrm { s } }$ $( P < 0 . 0 5 )$ ,while concentrations at 5.44 and from 14.68 to 19.97 dS $\\mathrm { m } ^ { - 1 }$ NaCl were moderately effected (Table 3). The mean $g _ { \\mathrm { s } }$ for all time points of each individual treatment was reduced by $4 0 . 3 \\%$ at $2 2 . 4 ~ \\mathrm { d } S \\mathrm { ~ m } ^ { - 1 }$ in response to increased NaCl concentrations (Table S4). ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/0b78b73ed2a38a302920e66ce876ee999ef5ff3728ca3dcedc8c4dbb81d27661.jpg",
+        "table_caption": [
+            "Table1Tukey'sHSD(THSD)posthoctestforthe mainefectoftreatment(NaClonrootD.W.,izomeD.W.andthratiosroot/ rhizome and below/above D.W.innine different NaCl concentrations "
+        ],
+        "table_footnote": [
+            "Different letters indicate significant differences at $P < 0 . 0 5$ .Data are mean $\\pm$ SE. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"3\">Root D.W. (g)</td><td colspan=\"3\">Rhizome D.W. (g)</td><td colspan=\"3\">Root/rhizome</td><td colspan=\"3\">Below /above D.W. (g)</td></tr><tr><td>NaCl (mM)</td><td>Mean</td><td>±SE</td><td>THSD</td><td>Mean</td><td>±SE</td><td>THSD</td><td>Mean</td><td>±SE</td><td>THSD</td><td>Mean</td><td>±SE</td><td>THSD</td></tr><tr><td>0</td><td>7.54</td><td>1.22</td><td>a</td><td>20.22</td><td>5.32</td><td>a</td><td>0.43</td><td>0.06</td><td>a</td><td>1.06</td><td>0.17</td><td>a</td></tr><tr><td>2.86</td><td>8.66</td><td>3.20</td><td>a</td><td>11.62</td><td>2.69</td><td>a</td><td>0.86</td><td>0.33</td><td>a</td><td>1.03</td><td>0.10</td><td>a</td></tr><tr><td>5.44</td><td>5.84</td><td>1.08</td><td>ab</td><td>15.76</td><td>3.51</td><td>a</td><td>0.40</td><td>0.06</td><td>a</td><td>1.22</td><td>0.25</td><td>a</td></tr><tr><td>7.96</td><td>4.02</td><td>0.62</td><td>ab</td><td>9.82</td><td>0.75</td><td>a</td><td>0.41</td><td>0.06</td><td>a</td><td>1.23</td><td>0.24</td><td>a</td></tr><tr><td>10.65</td><td>5.30</td><td>0.91</td><td>ab</td><td>11.00</td><td>1.06</td><td>a</td><td>0.49</td><td>0.07</td><td>a</td><td>1.27</td><td>0.12</td><td>a</td></tr><tr><td>14.68</td><td>3.82</td><td>0.14</td><td>ab</td><td>14.98</td><td>2.96</td><td>a</td><td>0.29</td><td>0.05</td><td>a</td><td>1.90</td><td>0.31</td><td>a</td></tr><tr><td>17.5</td><td>3.98</td><td>0.64</td><td>ab</td><td>14.84</td><td>4.12</td><td>a</td><td>0.37</td><td>0.12</td><td>a</td><td>1.61</td><td>0.26</td><td>a</td></tr><tr><td>19.97</td><td>4.06</td><td>0.50</td><td>ab</td><td>11.30</td><td>2.30</td><td>a</td><td>0.44</td><td>0.12</td><td>a</td><td>1.54</td><td>0.19</td><td>a</td></tr><tr><td>22.4</td><td>2.94</td><td>0.26</td><td>b</td><td>9.28</td><td>2.38</td><td>a</td><td>0.42</td><td>0.11</td><td>a</td><td>1.42</td><td>0.39</td><td>a</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Salinity induced leaf senescence over a period of 55 days.The changes in relative leaf chlorophyll content showedsignificantsalinitybydayinteractions $( P < 0 . 0 5 )$ ．The relative chlorophyll content remained constant in control plants throughout the experiment and changed significantly over time in concentrations at 2.86,10.65 and over $1 7 . 5 ~ \\mathrm { d } \\mathrm { S } ~ \\mathrm { m } ^ { - 1 } ~ \\mathrm { N a C l }$ (Fig. 3). The variance in the leaf relative chlorophyll content increased after day 57,and salinity induced senescence only on day 85 (end time point) when significant changes were observedbetweenthedifferentlevelsofNaCl （ $( P < 0 . 0 5 )$ .Plants treated with concentrations 5.44,7.96 and from 17.5 to $2 2 . 4 ~ \\mathrm { d } S \\mathrm { ~ m } ^ { - 1 }$ NaCl showed significant reductions in chlorophyll content when compared to control plants. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/705277afed281462792a35618ca61e0f657c929d3fe270f988b87bfa16798d8a.jpg",
+        "table_caption": [
+            "Table2Tukey's HSD(THSD) post hoc test for themain effect ofdaysonthevariablestomatal conductance $( g _ { s } ,$ mmol $\\mathrm { m } ^ { - 2 } \\mathrm { s } ^ { - 1 } ,$ in nine different $\\mathrm { { N a C l } }$ concentrations "
+        ],
+        "table_footnote": [
+            "Different letters indicate significant differences at $P < 0 . 0 5$ Dataare mean $\\pm \\ \\mathrm { S E }$ "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"2\">8s (mmol m-² s-1)</td></tr><tr><td>Days</td><td>Mean</td><td>THSD</td></tr><tr><td>65</td><td>43.1</td><td>a</td></tr><tr><td>73</td><td>33.5</td><td></td></tr><tr><td>77</td><td>33.7</td><td>b b</td></tr><tr><td>85</td><td>27.1</td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Salinity by day interactionsaffected significantly （2 $( P = 0 . 0 2 4 )$ the quantum yield of dark-adapted leaves $( F _ { \\mathrm { v } } / F _ { \\mathrm { m } } )$ .While $F _ { \\mathrm { v } } / F _ { \\mathrm { m } }$ was negatively associated with increasing salinity per day,especially from plants treated with concentrations over $1 7 . 5 ~ \\mathrm { d } S ~ \\mathrm { m } ^ { - 1 } .$ ,it varied sig nificantly across days,at 5.44 and 19.97 dS $\\mathrm { m } ^ { - 1 } \\ \\mathrm { N a C l } ,$ showing a decline on days 66 and 87，respectively （20 $( P < 0 . 0 5 )$ (Table 4).The PI was also reduced over time with time (days） main effect being significant at $P < 0 . 0 0 1$ (Table 4). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Ash,proline and MDA content ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Ash and proline content of leaves changed significantly in response to salinity $( P < 0 . 0 5 ) \\$ .The ash content was significantlygreater inconcentrations over 14.68 dS $\\mathrm { m } ^ { - 1 } \\ \\mathrm { N a C l } ,$ showing a $4 2 \\%$ increase up to $8 4 \\%$ over $1 7 . 5 ~ \\mathrm { d } S \\mathrm { ~ m } ^ { - 1 }$ NaCl (Fig. 4a). There was a similar trend for proline accumulation which increased twofold at $7 . 9 6 ~ \\mathrm { d } S ~ \\mathrm { m } ^ { - 1 }$ and 48-fold at $1 0 . 6 5 ~ \\mathrm { d } S \\mathrm { ~ m } ^ { - 1 }$ and showed a significant increase of 142-fold at $1 7 . 5 ~ \\mathrm { d } { \\mathsf { S } } \\ \\mathrm { m } ^ { - 1 } \\ \\mathrm { N a C l }$ (Fig. 4b).MDA content showed an $1 1 . 6 \\%$ increase at $1 4 . 6 8 ~ \\mathrm { d } \\mathsf { S } ~ \\mathrm { m } ^ { - 1 } ~ \\mathrm { N a C l } ,$ but was not significant, and was weaklycorrelated with proline content $( r = 0 . 3 9 .$ $P = 0 . 0 1$ ） ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/13c3f7b17ae0a9fff841063665d01d24d71efc710ebd540edb9ce37a10ed6783.jpg",
+        "table_caption": [
+            "Table 3Tukey's HSD(THSD) post hoc test for the main effect oftreatment on the variable stomatal conductance $( g _ { \\mathrm { s } } ,$ mmol $\\mathrm { m } ^ { - 2 } \\mathrm { s } ^ { - 1 } )$ in nine different $\\mathsf { N a C l }$ concentrations "
+        ],
+        "table_footnote": [
+            "Different letters indicate significant differences at $P < 0 . 0 5$ Data are mean $\\pm$ SE. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"2\">gs (mmol m-² s-1)</td></tr><tr><td>NaCl (mM)</td><td>Mean ±SE</td><td>THSD</td></tr><tr><td>0</td><td>45.4</td><td>a</td></tr><tr><td>2.86</td><td>41.7</td><td>a</td></tr><tr><td>5.44</td><td>33.9</td><td>ab</td></tr><tr><td>7.96</td><td>45.5</td><td>a</td></tr><tr><td>10.65</td><td>38.6</td><td>a</td></tr><tr><td>14.68</td><td>30.4</td><td>ab</td></tr><tr><td>17.5</td><td>28.1</td><td>ab</td></tr><tr><td>19.97</td><td>27.5</td><td>ab</td></tr><tr><td>22.4</td><td>22.6</td><td>b</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/9272ba51ca8217432d18833dec70b3ff0dd069a7224821faaec35ce8d97c5708.jpg",
+        "img_caption": [
+            "Fig.3Response of relative chlorophyllcontent (SPAD) of Miscanthus $\\times$ giganteus leaves over a period of 54 days to salinity gradi ents ranging from O to 22.4 dS $\\mathrm { m } ^ { - 1 } \\ : \\mathrm { N a C l } ;$ data are mean $\\pm \\ \\mathrm { S E }$ （2 $( n = 5 )$ 一 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/48109468191e8b8e76146d82d441b3ccae6d9efc103081c207cf82ccc56f5acb.jpg",
+        "table_caption": [
+            "Table4Tukey's HSD(THSD) post hoc test for themain effect of days on the variables $F _ { \\mathrm { v } } / F _ { \\mathrm { m } }$ and Photosynthesis Index (PI) in nine different $\\mathsf { N a C l }$ concentrations "
+        ],
+        "table_footnote": [
+            "Different letters indicate significant differences at $P < 0 . 0 5$ Dataare mean $\\pm \\ \\mathrm { S E }$ "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"3\">Fv/Fm</td><td colspan=\"3\">PI</td></tr><tr><td>Days</td><td>Mean</td><td>±SE</td><td>THSD</td><td>Mean</td><td>±SE</td><td>THSD</td></tr><tr><td>30</td><td>0.769</td><td>0.002</td><td>ab</td><td>3.03</td><td>0.11</td><td>a</td></tr><tr><td>37</td><td>0.773</td><td>0.001</td><td>ab</td><td>2.82</td><td>0.10</td><td>ab</td></tr><tr><td>44</td><td>0.770</td><td>0.002</td><td>ab</td><td>2.85</td><td>0.08</td><td>a</td></tr><tr><td>50</td><td>0.770</td><td>0.002</td><td>ab</td><td>2.41</td><td>0.10</td><td>C</td></tr><tr><td>57</td><td>0.773</td><td>0.002</td><td>a</td><td>2.44</td><td>0.07</td><td>bc</td></tr><tr><td>73</td><td>0.765</td><td>0.003</td><td>b</td><td>2.39</td><td>0.11</td><td>C</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Effectsofsalinityonaoailabilityoflandarea for M. $\\times$ giganteus agriculture ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The total areas of soils of different salinity within on a 0.00833 degree grid were extracted using ArcGis (Table 5)，and the potential impact of saline soils on Miscanthus yields was calculated and presented spa tially on a map of the European geographical area (Fig. 5). Most saline soils covering $5 3 9 ~ 5 6 7 ~ \\mathrm { k m } ^ { 2 }$ in the European geographical area can be used to grow Miscanthus with up to an estimated $1 1 \\%$ reduction in yield; a further $2 7 1 7 \\mathrm { k m } ^ { 2 }$ can be used with an estimated $2 8 \\%$ reduction in yield,and only, $3 6 0 7 ~ \\mathrm { k m } ^ { 2 }$ will produce a yield reduction greater that $5 0 \\%$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The use of saline land provides an opportunity for growing biomass crops in areas that do not compete with staple food crops;however,there is the potential that a yield penalty may prevent the utilization of such areas for biomass production.We investigated the morphological, physiological and biochemical responses of M. $\\times$ giganteus to different treatments of water salinity over time. The research showed that there are different salt tolerance thresholds across diverse physio logical responses. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/6797a5a47cdad6490fa431b807a9273d7b43b66ee6c3d3c7647c28c787abcbef.jpg",
+        "img_caption": [
+            "Fig.4 Change in ash content (a）and proline content (b) （2 $\\mathrm { ( \\mu m o l \\ g ^ { - 1 } }$ F.W.）of Miscanthus $\\times$ giganteus leaves in response to salinity gradients ranging from O to 22.4 $\\mathrm { 1 S ~ m } ^ { - 1 } \\ \\mathrm { N a C l } ;$ data show the median (2nd quartile; horizontal line) and the 1st and 3rdquartilesof thedata ${ ( n = 5 ) }$ .Dots indicate outliers. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/ea932c84363276d26705d0d83586f25142c528e1268ff13cd44cf932fd8bfaaa.jpg",
+        "table_caption": [
+            "Table5 Salinity impact( $\\%$ D.W.yield） and European geo graphical area (EU area) $( \\mathrm { k m } \\times \\mathrm { k m } )$ in different salinity ranges. The table describes the percentage of reduction in D.M. yield for each area $( \\mathbf { k m } \\times \\mathbf { k m } )$ in the European area affected by the specific salinityrange $\\mathrm { ( d S ~ m ^ { - 1 } }$ ） "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Salinity range (dS m-1)</td><td>Salinityimpact % reductionin D.W. yield (%)</td><td>EUarea (km × km)</td></tr><tr><td>0.1-0.29</td><td>3</td><td>182 630</td></tr><tr><td>0.3-0.49</td><td>6</td><td>247 603</td></tr><tr><td>0.5-0.99</td><td>11</td><td>109 334</td></tr><tr><td>1-2.99</td><td>28</td><td>2717</td></tr><tr><td>3-4.99</td><td>48</td><td>6</td></tr><tr><td>5-15</td><td>56</td><td>3601</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Changes in growth rate or yield are often the only visual response to salt tolerance at moderate to low salinities (Shannon,1985).The observed gradual decline in biomass D.W.with increasing salinity (Fig. 2a) agrees with the results of Plazek et al. (2014),where plants treatedwith 150 and $2 0 0 \\ \\mathrm { m M } \\ \\mathrm { N a C l }$ differ from controls. However,in our study，a significant decline in the above-ground D.W. was observed at lower concentrations $( 7 . 9 6 ~ \\mathrm { d } \\mathsf { S } \\ \\mathrm { m } ^ { - 1 }$ or approximately $9 0 \\ \\mathrm { m M } \\ \\mathrm { N a C l } )$ . Sun et al.(2014) showed that in M.sinensis seedlings the shoot D.W.was more sensitive to salinity at $3 0 ~ \\mathrm { m M }$ NaCl.While in this research, the salt tolerance threshold of M. $\\times$ giganteus for relative yield (reduction of $5 0 \\%$ ） was at $1 0 . 8 6 ~ \\mathrm { d } \\mathrm { S ~ m } ^ { - 1 } ~ \\mathrm { N a C } ]$ 1(approximately $1 2 0 ~ \\mathrm { m M }$ ） ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The loss of older leaves,possibly occurring as a result of the accumulated ionic effect of salt stress over time, contributes to a reduction in above-ground D.W. At the end of this experiment, the number of leaves declined at salinity concentrations greater than $2 . 8 4 ~ \\mathrm { d } S ~ \\mathrm { m } ^ { - 1 }$ NaCl (Fig.2c) and is consistent with observations in $5 0 ~ \\mathrm { m M }$ NaCl-treated rice plants, resulting from excess accumulation of salt in the expanded leaf (Yeo et al.,1991). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Rhizome D.W.and the ratios of root/rhizome and below-/above-ground D.W. werenot affectedby increased salinity,and only, the root D.W.was significantly reduced at the highest salt concentration $( 2 2 . 4 ~ \\mathrm { d } S ~ \\mathrm { m } ^ { - 1 } \\mathrm { N a C l } )$ (Table 1). Plazek et al． (2014) showed a similar response in M. $\\times$ giganteus,with reduction only in roots D.W.at $2 0 0 \\ \\mathrm { m M } \\ \\mathrm { N a C l }$ and no changes in rhizomes D.W. below $2 0 0 \\ \\mathrm { m M } \\ \\mathrm { N a C l }$ This ability of perennial grasses to maintain below-ground biomass under stress conditions could preserve sufficient reserves for the following growing season (Karp & Shield,20o8); while this may be physiologically relevant for transitory stresses like drought,it remains to be seen how this response affects year on year yield under the accumulative stress effect of salinity. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The tolerance of crops to salinity can be compared using a single-value salt tolerance index (ST-Index) (Maas & Hoffman,1977;Munns,2002;Steppuhn et al., 2010).These indices are well suited for biomass crops and are not distorted by the ratio of above to belowground biomass which in this experiment is consistent throughout. The ST-Index for M. $\\times$ giganteus was estimated to be 10.68,which ranks it as more tolerant than the closely related forage maize (9.13) and less tolerant than barley (14.oO) (adjusted from Steppuhn et al., $2 0 0 5 \\mathrm { a } , \\mathrm { b } ;$ ） ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Salinity at $2 2 . 4 ~ \\mathrm { d } S \\mathrm { ~ m } ^ { - 1 }$ NaCl induced early height inhibition (Fig.1)；however，the growth responses of M. $\\times$ giganteus under different salt concentrations are largely explained by the strong interactions between salinity and the duration of stress.Scheiber et al.(2008) showed that the height of $M$ .sinensisshoweda quadratic response at $0 \\%$ ， $2 5 \\%$ and $5 0 \\%$ of foliar-applied sea water spray,but in thehighest treatment,thedecrease inheight was linear(Scheiberet al.， 2Oo8).These responses may be induced largely by the osmotic effect of salinity but also due to the possible $\\mathrm { N a } ^ { + }$ specific effect associated with growth response (Munns & Tester,20o8). Increasing salinity had a nonlinear impact on leaf area,with the greatest leaf area occurring at 5.44 andlowestat17.5 and $1 9 . 9 7 ~ \\mathrm { d } { \\cal S } ~ \\mathrm { m } ^ { - 1 } ~ \\mathrm { N a C l }$ (ca.60,180 and $2 1 0 ~ \\mathrm { m M } ,$ .Alinear reduction in leaf areawas seen in Sorghum (Netondo et al.，20o4)and M.sinensis (Sun et al.,2014) in all salinity treatments. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/b3506ae644f942c6110f4702995cad8f9c163d2df634690d585088ede28e73b8.jpg",
+        "img_caption": [
+            "Fig.5Map of Miscanthus $\\times$ giganteus dry weight (D.W.) harvest yield without salinity impairment with the per cent of potential yield reduction due to the salinity of the soil superimposed.The calculations are made on a O.00833 degree grid. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The maximum quantum yield of PSI $( F _ { \\mathrm { v } } / F _ { \\mathrm { m } } )$ was unaffected by increased salinity,implying stable photo chemical conversion efficiency of PSIl at $5 . 4 4 ~ \\mathrm { d } { \\cal S } ~ \\mathrm { m } ^ { - 1 }$ NaCl (day 66)and $1 9 . 9 7 \\ : \\mathrm { \\dot { d } S \\ : m ^ { - 1 } \\ : \\ : \\mathrm { \\sim N a C l } }$ (day 87) (Table 4).This is consistent with studies on M.sinensis (Sun et al.,2014),while previous studies of $M . \\times g i g a n -$ teusshowed $F _ { \\mathrm { v } } / F _ { \\mathrm { m } }$ decreasedsignificantlyabove $1 5 0 \\ \\mathrm { m M \\ N a C l }$ (Plazek et al.,2014). The $F _ { \\mathrm { v } } / F _ { \\mathrm { m } }$ of maize declinedabove $1 0 2 \\ \\mathrm { m m } \\ \\mathrm { N a C l }$ (Hichem et al.，2009), whereas $F _ { \\mathrm { v } } / F _ { \\mathrm { m } }$ in sorghum was not affected by salt concentrations below $2 0 0 ~ \\mathrm { { m M } }$ (Netondo et al.，2004）or $1 5 0 ~ \\mathrm { m M }$ (Yan et al.,2012). The PI was not affected by salinityat anysalt concentrationinthis study (Table 4), which is consistent with observations in sorghum (Yan et al.,2012). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Therelative water content of leaves (Fig.2d) and relative chlorophyll content (SPAD) (Fig.3) were reduced with stress duration and at concentrationsover $1 7 . 5 ~ \\mathrm { d } \\mathrm { S ~ m } ^ { - 1 } ~ \\mathrm { N a C l }$ (ca. $1 8 0 ~ \\mathrm { m M }$ ).Pronounced leaf senescence can be primarily induced by the osmotic phase ofsalinity，when growth inhibition and metabolic changes occur (Munns et al.,1995;Munns,2002).However，the ability of $M . \\times$ giganteus to maintain water content of leaves and leaf chlorophyll after prolonged stress duration may indicate a potential mechanism of osmotic adjustment in low to moderately high salinity. Thewaterrelationsof foliarcellsand thecellular function depend on the ion accumulation in the leaves and the osmotic adjustment,which otherwise would result indehydration either through underadjustmentor water loss from the cell walls (Flowers & Yeo,1986). The initiation of premature senescence in older leaves of M. $\\times$ giganteus at high salinity concentrations, combined with the increase in ash content,could be a result of excessive ion accumulation in shoots and leaves induced by prolongedtranspirationasa consequence of maintaining open stomata (Munns & Termaat,1986). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Water use efficiency was greatly reduced at the highest salt concentration $( 2 2 . 4 ~ \\mathrm { d } { \\mathsf { S } } \\ \\mathrm { m } ^ { - 1 } \\ \\mathrm { N a C l } ,$ ca. $2 4 0 ~ \\mathrm { m M }$ ） (Fig.2d).Similar decreases were observed for barley and wheat at $1 8 ~ \\mathrm { d } \\mathsf { S } \\mathrm { ~ m } ^ { - 1 }$ (Richards,1992).The unchanged WUE of M. $\\times$ giganteus under moderate and low salinity may occur due to osmotic tolerance exhibited in WUE measurements previously reported for Miscanthus (Clifton-Brown $\\&$ Lewandowski, 2000). The degree of tolerance to the osmotic effect of salinity is reflected in the ability of plants to maintain $g _ { \\mathrm { s } }$ (Rajendran etal.,20o9),whichisassociatedwith $\\mathrm { C O } _ { 2 }$ assimilation rate and water loss through transpiration and is positively correlated to the relative growth rate in saline soils (Netondo et al.,2004; James etal.,2008).In the present study, $g _ { \\mathrm { s } }$ was reduced significantly at $2 2 . 4 ~ \\mathrm { d } S \\mathrm { ~ m } ^ { - 1 }$ NaCl with increased stress duration,showing a toler ance threshold to the osmotic effect of salinity at low to moderate salinity (Tables2 and 3).In M.Sinensis,the reduction of $g _ { \\mathrm { s } }$ occurred at concentrations over $3 0 ~ \\mathrm { m M }$ NaCl (Sun et al.,2014),whereas in sorghum the stomata closed at concentrations over $2 5 0 ~ \\mathrm { m M }$ (Netondo et al., 2004).Munns & Tester (2oo8)attributed this reduction to the effects of ion accumulation in leaves and the induced perturbation of water status and local synthesis of abscisic acid in stomatal guard cells,explaining the high ash content at high salinity found in our study. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The ash content was used to determine the impact of saline soils on combustion. M. $\\times$ giganteus ash content in leaves increased with increasing salinity up to $8 4 \\%$ over $1 7 . 5 ~ \\mathrm { d } \\mathrm { S ~ m } ^ { - 1 } ~ \\mathrm { N a C l }$ (Fig. 4a). High ash contents significantly reduce the energy output derived from a specific biomass source (James et al.,2012). In Miscanthus，the leaves contain higher mineral concentrations and double the amount of ash than stems or reproductive organs (Monti et al.，20o8)；in this context，leaf senescence，in respect to translocation of accumulates, and leaf loss induced by salinity may contribute to a better biomass quality by removing a large sink of ion accumulates and thus compensate for the total biomass yield loss.Although high ash content lowers the biomass quality for combustion,there are methods to utilize either the ash for soil conditioning and in building materials (Gómez-Barea et al.,2009;Dahl et al.,2010) or used in fluidized bed combustion technology for lowquality solid fuels (Saidur et al.，2011; Sandberg et al, 2011). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The accumulation of proline in response to salt stress hasa role in osmotic adjustment and can decrease the water potential to help maintain the water content in leaves.Although in high external salt concentrations this occurs at the expense of plant growth, it may allow the plant to survive salt stress or even to recover (reviewed by Munns & Tester，20o8;Ashraf & Foolad, 2007 and Krasensky & Jonak，2012).In this study, ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "M. $\\times$ giganteus showed a strong induction of proline, under increasing salinity; proline content increased up to 142-fold at $1 7 . 5 ~ \\mathrm { d } \\mathsf { S } \\mathrm { ~ m } ^ { - 1 }$ NaCl (Fig. 4b). This suggests that the maintenance of leafwater content below $1 4 . 6 8 ~ \\mathrm { d } S ~ \\mathrm { m } ^ { - 1 } ~ \\mathrm { N a C l }$ could be an effect of the saltinduced accumulation of proline in M. $\\times$ giganteus. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Under stress conditions,proline also contributes to the scavenging of free radicals,buffering cellular redox potential and stabilizing cellular structures (Ashraf & Foolad，20o7). This may explain the nonsignificant increase in MDA content and its positive correlation with proline in M. $\\times$ giganteus with increasing salinity. According to Lutts et al. (1996),in rice,a significant positivecorrelation wasobserved between MDA and the electrolyte leakage for both old $( r = 0 . 7 1 \\$ ） and young $( r = 0 . 6 3 )$ leaves at 30 and $5 0 \\ \\mathrm { m M } \\ \\mathrm { N a C l } .$ In M. $\\times$ giganteus，concentrations of 1oo and $1 5 0 \\ \\mathrm { m M } \\ \\mathrm { N a C l }$ did not increase the electrolyte leakage of the rhizomes，but resulted in a decrease in electrolyte leakage in leaves (Plazek et al., 2014). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In addition to bioenergy,biomass crops may provide additional or alternative value from phytoremediation which is a very efficient,inexpensive and environmentally accepted strategy used to remediate salt-impacted soils through phytoextraction and may be another potential use for M. $\\times$ giganteus (Pidlisnyuk et al., 2014); nevertheless，soil salinity with electrical conductivities greater than $2 0 ~ \\mathrm { d } \\mathsf { S } \\ \\mathrm { m } ^ { - 1 }$ is not appropriate as plant growth is likely to be restricted (Qadir et al.,2005). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In the present study,M. $\\times$ giganteus biomass production was reduced onlyat moderate to high salinity con centrations,while physiological processes were affected at higher concentrations，and was dependant on the stress duration;it also demonstrated enhanced accumulation of osmoprotectants and low lipid peroxidation. Based on the map of potential $M . \\times$ giganteus yield, only a small area in the European geographical region analysed would pose restrictive limitations in biomass production of Miscanthus due to salinity. The loss of dry matter biomass in M. $\\times$ giganteus is predicted to be higher than $4 8 \\%$ over an area of $9 6 0 1 ~ \\mathrm { k m } ^ { 2 }$ where saline soils are between 3 and $1 5 ~ \\mathrm { d } \\mathsf { S } \\mathrm { ~ m } ^ { - 1 }$ NaCl (Fig.5, Table 5).Miscanthus could therefore be a potential candidate to be tested for phytoremediation and biomass production in areas with low to moderate salinity. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Funding Was provided by: OPTIMA project (FP7-KBBE-2011-5), Biotechnology & Biological Sciences Research Council (BBSRC) Institute Strategic Programme Grant on Energy Grasses & Biorefining (BBS/E/W/10963A01),Defra GIANTLINK Grant. The authors would like to thank Ruth Sanderson for statistical advice and Susan Youell and the IBERS breeding team for providing the plantmaterial. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Ashraf M,Foolad MR (2007)Roles of glycine betaine and proline in improving plant abiotic stress resistance.Environmental and Experimental Botany,59,206-216.   \nAshraf M,Akram NA (2o09) Improving salinity tolerance of plants through conventional breeding and genetic engineering:an analytical comparison. Biotechnology adoances,27,744–52.   \nBaxter XC,Darvell LI,Jones JM,Barraclough T,Yates NE,ShieldI(012) Study f Miscanthus $\\times$ giganteusash composition- variation with agronomy and assessment method. Fuel,95,50-62.   \nBrosseN,Dufour A,eng XSunQRagauskas A(012)Miscanthus:afstgowing crop for biofuels and chemicals production. Biofuels,Bioproducts and Biorefining, 6, 580–598.   \nCarillo P,Mastrolonardo G,NaccaF,Parisi D,VerlottaA,Fuggi A (2Oo8)Nitrogen metabolism in durum wheat under salinity: accumulation of proline and glycine betaine.Functional PlantBiology,5,412.   \nCarillo P,Gibon Y,Prometheus Wiki Contributors (2011) PROTOCOL:extraction and determination of proline. Prometheus Wiki.   \nClifton-Brown J,Lewandowski I(20oo) Wateruseeficiency and biomass partitioning of three different Miscanthus genotypes with limited and unlimited water supply. Annals of Botany,86,191-200.   \nDahl O,Nurmesniemi H,Poykio R,Watkins G (20l0) Heavy metal concentrations in bottom ash and fly ash fractions from a large-sized (246MW) fluidized bed boiler with respect to their Finnish forest fertilizer limit values.Fuel Processing Technology,91, 1634-1639.   \nFAO/IIASA/ISRIC/ISSCAS/JRC (2012).Harmonized World Soil Database (Version 1.2). FAO and IIASA, Rome, Italy.   \nFlowers TJ,Yeo AR (1986)Ion relations of plants under drought and salinity.AustralianJournal ofPlantPhysiology,13,75-91.   \nFlowers TJ,arcia AKoyaa M,eoAR(997)Bedingfosalt tleraneo plants-theroleof molecular biology.Acta PhysiologiaePlantarum,19,427-433.   \nFlowers TJ,Flowers SA (2005)Why does salinity pose such a dificult problem for plantbreeders?Agricultural Water Management,78,15-24.   \nGautier H, Laupez-Lauri F,Massot C et al. (201o) Impact of ripening and salinity on tomato fruit ascorbate content and enzymatic activities related to ascorbate recycling.Functional PlantScienceandBiotechnology,4,66-75.   \nG6mez-Barea A,Vilches LF,Leiva C,Campoy M,Fernandez-Pereira C (20o9)Plant optimisationand ash recycling in fluidised bed waste gasification.Chemical EngineeringJornal,46,   \nHastings A, Clifton-Brown J,Wattenbach M, MitchellCP,Smith P(2009)The development of MISCANFOR,a new Miscanthus crop growth model: towards more robust yield predictions under different climatic and soil conditions.GCB Bioenergy,1,154-170.   \nHichem H,NaceurEA,MounirD 2o9)Effects ofsalt stresson photosynthesis,PII photochemistry and thermal energy disspation in leaves of two corn (Zea mays L.) varieties.Photosynthetica,47,517-526.   \nHung K, Chiang T, Chiu C,Hsu T, Ho C (2o09) Isolation and characterization of microsatellite loci from a potential biofuel plant Miscanthus sinensis (Poaceae). Conseruation Genetics,10,1377-1380.   \nJames RA,Von Caemmerer S,Condon AGT,Zwart AB,Munns R (20o8) Genetic variation in tolerance to the osmotic stress component of salinity stress in durum wheat.FunctionalPlantiology,,1.   \nJames A,Thring R,Hell S,Ghuman H(2012)Ash management review-applications of biomass bottomash. Energies,5,3856-3873.   \nJones MB,Finnan J,Hodkinson TR (2015) Morphological and physiological traits for higher biomass production in perennial rhizomatous grasses grown on marginal land. GCB Bioenergy,7,75385.   \nJergensen U (1997) Genotypic variation in dry matter accumulation and content of N,K and Cl in iscanthus in Denmark.Biomassand Bioenergy,12,55-69.   \nKarp A, Shield I (2oo8) Bioenergy from plants and the sustainable yield challenge. New Phytologist,179,15-2.   \nKrasenskyJ Jonak C (2012) Drought,salt,and temperature stress-induced metabolic rearrangements and regulatory networks.Journal of Experimental Botany，63, 1593-608.   \nLal R (2004a) Soil carbon sequestration impacts on global climate change and food security. Science,304,1623-1627.   \nLal R (20o4b) Soil carbon sequestration to mitigate climate change. Geoderma,123, 1-22.   \nLawrence MA (2015) ez: Easy Analysis and Visualization of Factorial Experiments. R package version4.3. Availableat:http://CRAN.R-projectorg/packageez(ac cessed 13 November 2015). vanceand experiments tomodifythebiomassqualityof Miscanthus×giganteus. European Journal of Agronomy,6,163-177.   \nLewandowski I, Clifton-Brown JC,Scurlock JMO,Huisman W (2000) Miscanthus: European experience with a novel energy crop. Biomass and Bioenergy，19, 209-227.   \nLewandowski I, Clifton-Brown JC,Andersson B et al. (2003)Environment and harvest time afects the combustion qualities of genotypes.Agronomy Journal, 95, 1274-1280.   \nLutts S, Kinet JM, Bouharmont J(1996) NaCl-induced senescence in leaves of rice (Oryza satioa L.） cultivars differing in salinity resistance. Annals of Botany,78, 389-398.   \nMaas EV,Hoffman GJ (1977) Crop salt tolerance-current assessment. Journal of the Irrigationandrainageiision,3,5-134.   \nMaas EV (1990) Chapter 13, Crop salt tolerance.Agricultural Salinity Asessment and Management，pp.262-304.American Society of Civil Engineers Manuals and Reports on Engineering Practices,American Society of Civil Engineers,Reston, VA, USA.   \nde Mendiburu F(2015) Agricolae: Statistical Procedures for Agricultural Research. R package versin1-3.Avlableat: htp://CARprojectorg/packageole (accessed 6 October 2015).   \nMitchell TD,Carter TR,Jones PD,Hulme M, New M (2004) A comprehensive set of high-resolution grids of monthly climate for Europe and the globe: the observed record (1901-2000) and 16 scenarios (2001-2100). Tyndall Centre Working Paper 55.Available at:http://ipcc-data.org/docs/tyndall_working_papers_wp55.pdf (accessed 30 March 2015)   \nMittler R (2002) Oxidative stress,antioxidants and stress tolerance.Trends in Plant Science,7,405-410.   \nMonti A,Di Virgilio N, Venturi G (2008)Mineral composition and ash content of six majorenergycrops.BiomassandBioenergy,32,216-223   \nMunns R,Termaat A (1986) Whole-plant responses to salinity. Australian Journal of PlantPhysiology,13,143-160.   \nMunns R,Schachtman DP,Condon AG (1995)The significance of a two-phase growthresponsetoalinityinwheatandbarley.FunctionalPlantiology 561-569.   \nMunns R(20o2) Comparative physiology of salt and water stressPlant,Cell & Enuironment,25,239-250.   \nMunns R,Tester M (2008) Mechanisms of salinity tolerance.Annual Review of Plant Biology, 59,651-681.   \nMunns R,Gilliham M (2015)Salinity toleranceof crops-what is thecost? The New Phytologist,208,668-73.   \nNetondo GW,Onyango JC,Beck E(2004) Sorghum and salinity: II Gas exchange and chlorophyllfluorescence of sorghum under salt stress. Crop Science,44, 806- 811.   \nOgura A,Yura H(2008) Effectsof sandblasting and salt spray on inland plants transplanted tocoastal sand dunes.Ecological Research,23,-112.   \nOliver RJ,Finch JW,Taylor G (2o09) Second generation bioenergy crops and climate change: a review of the effects of elevated atmospheric $\\mathrm { C O } _ { 2 }$ and drought on water use and the implications for yield. GCB Bioenergy,1,97-114.   \nPidlisnyuk V, Stefanovska T, Lewis EE, Erickson LE, Davis LC (2014) Miscanthus as a productive biofuel crop for phytoremediation.Critical Reviews in Plant ciences, 33, 1-19.   \nPlazek A,DubertF,Koscielniak J, Tatrzarska M, Maciejewski M,Gondek K, Zurek G (2014) Tolerance of Miscanthus $\\times$ giganteus tosalinitydepends on initial weight of rhizomes as well as high accumulation of potassium and proline in leaves. Industrial CropsandProducts,52,278-85.   \nPopp J, Lakner $Z ,$ Harangi-Rakos M,Fari M(2014) The efect of bioenergy expansion:food,rgydionteneablendtinablergyee 559-578.   \nQadir M,Ghafoor A,Murtaza G(20oo)Amelioration strategiesforsalinesoils:a review.LandDegradation&Deoelopment,11,01-521.   \nQadir M,Noble AD,Oster JD,Schubert S,Ghafoor A (2005) Driving forces for sodium removal during phytoremediation of calcareous sodic and saline-sodic soils: areview.Soil Use and Management,21,173-180.   \nR Core Team (2015). R: a language and environment for statistical computing. R Foundation for Statistical Computing,Vienna,Austria.Available at:htps:// www.R-project.org/.(accessed 2 October 2015)   \nRajendran K,Tester M,Roy SJ (2009) Quantifying the three main components of salinity tolerance incereals.Plant,Celland Environment,32,237-249.   \nRichardsRA(1992)Increasingsalinitytoleranceof graincrops:isitworthwhile? Plant and Soil.146.89–98.   \nSaidur R,Abdelaziz EA,Demirbas A,Hossain MS,Mekhilef S (2011)A review on biomass asa fuel for boilers.Renewable and Sustainable Energy Reviews，15, 2262-2289.   \nSandberg J, Karlsson C,Fdhila RB (2011)A7 year long measurement period investigating the correlation of corrosion,deposit and fuel in a biomass fired circulated fluidized bed boiler.Applied Energy,88,99-110.   \nScheiber S, Sandrock D,Alvarez E, Brennan MM (2Oo8) Effect of salt spray concentration on growth and appearance of \"Gracillimus\" maiden grass and “Hamelin\" fountain grass.HortTechnology,18,34-38.   \nShannon MC (1985) Principles and strategies in breeding for higher salt tolerance. Plant andSoil,89,227-241.   \nShannon M,Grieve C (1998) Tolerance of vegetable crops to salinity. Scientia Horticulturae,78,5–38.   \nSingmann H,Bolker B,Westfall J (2015) afex: Analysis of Factorial Experiments.R package version 0.15-2.Available at: http://CRAN.R-project.org/package=afex (accessed 25 October 2015).   \nSteppuhn H, Grieve CM,Van Genuchten MT (2005a)Root-zone salinity: I. Selecting a product-yield index and response function for crop tolerance.Published in Crop Sci.,45,209-220.   \nSteppuhn H, Van Genuchten MT, Grieve CM (20o5b) Root-zone salinity: II Indices for tolerance in agricultural crops.Crop Science,45,221-232.   \nSteppuhn H,Falk KC,Zhou R (201O) Emergence, height, grain yield and oil content of camelina and canola grown in saline media.Canadian Journal of Soil Science, 90, 151-164.   \nSun $\\mathrm { \\Delta Q } ,$ Yamada T, Takano T (2014) Salinity effects on germination, growth, photosynthesis,and ion accumulation in wild anderss.Populations. Crop Science, 54, 2760.   \nVerslues PE,Agarwal M,Katiyar-Agarwal S, Zhu J, Zhu J-K (2006) Methods and concepts in quantifying resistance to drought, salt and freezing,abiotic stresses thataffect plant water status.The Plant Journal,45,523–39.   \nVolkmar KM,Hu Y, Steppuhn H(1998) Physiological responses of plants to salinity: areview.Canadian Journal of Plant Science,78,19-27.   \nWaxman MH, Smits LJM(1968) Electrical conductivities in oil-bearing shaly sands. Society of Petroleum Engineers Transactions,243,107-122.   \nYan K,Chen P,Shao H, Zhao S,Zhang L, Xu G,Sun J (2012) Responses of photosynthesis and photosystem II to higher temperature and salt stress in Sorghum. Journal ofAgronomy and Crop Science,198,218-225.   \nYasar F, Uzal O, Ozpay T (2010) Changes of the lipid peroxidation and chlorophyll amount of green bean genotypes under drought stress.African Journal of Agricultural Research,5,2705-2709.   \nYeo AR,Lee K,Izard P,BoursierPJ,Flowers TJ (1991) Short-and long-term effects of salinity on leaf growth in rice(Oryza satioa L.).Journal of Experimental Botany 42, 881-889.   \nZhang X,Cai X (2011) Climate change impacts on global agricultural land availability.Environmental Research Letters,6,O14014. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Additional Supporting Information may be found in the online version of this article: ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Figure S1.Linear regression of soil conductivity as a function of water conductivity,slope represents the reciprocal of the formation resisitivty factor (0.336) and the intercept with $y$ axis is the soil conductivity due to the clay content of the soil (1.88).   \nFigure S2.Non-linear regression of proportion reduction of non-saline dry matter yield $( Y _ { \\mathrm { d m } } )$ using soil conductivity due to water conductivity $( C _ { \\mathrm { s w } } )$ as an explanatory variable. Table S1.Parameters that were transformed to achieve normality.   \nTable S2.Fluorescence parameters ${ F _ { \\mathrm { v } } } / { F _ { \\mathrm { m } } }$ and PI in nine different NaCl concentrations and six time points (day). Data are mean $\\pm \\ \\mathrm { S E }$   \nTable S3.Stomatal conductance $( g _ { s } \\mathrm { \\ m m o l \\ m } ^ { - 2 } \\mathrm { \\ s } ^ { - 1 } )$ of Miscanthus $\\times$ giganteus at nine different NaCl concentrations and four time points (day).   \nTable S4. Mean stomatal conductance $\\begin{array} { r } { ( g _ { \\mathrm { s } } \\ \\mathrm { m m o l } \\ \\mathrm { m } ^ { - 2 } \\ \\mathrm { s } ^ { - 1 } , } \\end{array}$ 0 over seven time points of Miscanthus $\\times$ giganteus at eight different $\\mathrm { \\Delta N a C l }$ concentrations and the percent of reduction compared to the control conditions $( 0 \\ \\mathrm { m M } \\ \\mathrm { N a C l } ) ,$ 一 ",
+        "page_idx": 12
+    }
+]

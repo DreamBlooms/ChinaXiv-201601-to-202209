@@ -1,0 +1,224 @@
+DOI:10.13930/j.cnki.cjea.161054
+
+成林，李彤霄，刘荣花．主要生育期气候变化对河南省冬小麦生长及产量的影响[J]．中国生态农业学报，2017,25(6):931-940  
+ChengL,LiTX,LiuRH.EffectofclimatechangeongrowthandyieldofwinterwheatinHenanProvince[J].ChineseJouralofEco-Agriculture,2017, 25(6): 931-940
+
+# 主要生育期气候变化对河南省冬小麦生长及产量的影响
+
+成林1,2，李彤霄1,2，刘荣花1,2
+
+中国气象局河南省农业气象保障与应用技术重点开放实验室郑州450003;2.河南省气象科学研究所郑州450003摘要：为分析不同生育期气候变化对冬小麦生长及产量的影响，本研究选择河南省30个农业气象观测站1961-2014 年气象资料、 $1 9 8 1 - 2 0 1 4$ 年冬小麦发育期及产量资料，采用数理统计与DSSAT-CERESWheat模型模拟相结合的方法，分析了冬小麦播种—返青、返青—抽穗、抽穗—成熟3个时期的气候变化特征及其对生育期和产量的影响。结果表明：研究区气候变化的显著特征是播种—返青期日照时数按 $4 0 . 0 9 ~ \mathrm { h } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ 的速率显著减少 $( P { < } 0 . 0 5 )$ ，返青—抽穗期平均日最高气温和平均日最低气温同时大幅升高。冬小麦幼穗分化随着抽穗前日最低气温的升高按 $2 . 9 \ \mathrm { \ d } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ 的速率而提前结束，返青前气候变化对后续生育进程有持续影响，气象因子与播种—抽穗期、播种—成熟期持续日数以负相关关系为主。两种分析方法均表明：当前河南麦区播种—返青期气候变化对产量的影响不大，在一定范围内甚至有增产作用，气象因子贡献率平均为0.758;返青—抽穗期气候变化使穗密度和穗粒数平均减少 $2 . 7 4 \%$ 和 $3 . 9 4 \%$ ，大于抽穗一成熟期。不同生育期气候变化情景下，冬小麦高产和稳产均受影响，代表站点播种—返青、返青—抽穗、抽穗—成熟期分别平均减产 $1 . 6 \%$ 、$6 . 3 \%$ 和 $4 . 8 \%$ ，其中播种—返青、抽穗—成熟期影响产量的关键气象因子是日最高气温，而返青—抽穗期是日最低气温。
+
+关键词：冬小麦；主要生育期；气候变化;DSSAT-CERESWheat模型；气象因子；日最低气温中图分类号：S162.3 文献标识码：A 文章编号：1671-3990(2017)06-0931-10
+
+# Effect of climate change on growth and yield of winter wheat in Henan Province
+
+CHENG Lin1,2,LI Tongxiao1,2,LIU Ronghua1,2 (1.Key Laboratoryof Agro-meteorological Safeguard and Applied Technique in Henan Province, China Meteorological Administration,Zhengzhou 4503,China; 2.Henan Institute of Meteorological Science,Zhengzhou 45003,China)
+
+Abstract:Winter wheatisoneof the main graincrops in China.The growth,developmentandyield formation processesof winter wheat are affected to various degrees by climate change.Henan Provinceis the maincultivation baseof winter wheat. Thus,theintensiveanalysisofthe impactsofclimate changeon diferent growth periodsof winter wheatiscritical for cientific studyof the positiveand negativeefects ofclimate change.Basedonthe formationprocesses of winter wheat yield variables,the whole growth stage was divided into 3 main growth periods,planting to greening,greningto heading and heading headingto maturity.Daily meteorological data (forthe periodof 1961-2O14)on winter wheat development periods and grain yield(in1981-2014)in30agro-meteorologicalobservation stations in Henan Province wereused toanalyze thecharacteristicsofthe maingrowth periodsandtheeffectof climatechangeonyield.Through mathematical statistics,the meteorological variables wereusedtoanalyze the trend inclimaticchange,itsefectonthedevelopment periodsofwheatanditscontribution rate to grain yield during the main growth periods.Using DSSAT-CERES Wheat crop model,the effectof climate change at diferen growth periods onwheat yield was simulated.Theresults showedthatthe distinct characteristics ofeffectof climate change in study area was the significant $( P < 0 . 0 5 )$ reduction in sunshine hours, which was at the rate of $4 0 . 0 9 \mathrm { h } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ during planting-greening period.There was also alarge increase inaverage maximum and minimumair temperatures,respectivelyat the rates of $0 . 4 8 4 ~ \mathrm { { ^ circ C } { \cdot ( 1 0 a ) } ^ { - 1 } }$ and $0 . 5 9 1 \ \mathrm { { ^ circ C } { \cdot } ( 1 0 \mathrm { { a } ) } ^ { - 1 } }$ during greening-heading period. With increasing daily minimum temperature before heading,panicle diferentiation in winter wheat terminated earlierby2.9days per decade.Climatechange before grening hadacontinuous efectonthedevelopmentprogresses,with negativecorrelationbetweenmeteorologicalfactors and sustaineddaysfromplantingtoheading andthen planting to maturity.Theresultsoftwodiferentanalytical methods indicated thattherewas no significant efectofclimate change during planting to grening stage onyield inHenan Province.Inacertain scope,climatechange even had positive effects ongrain yield.The averagecontributionrate of climate change to winter yield variables was 0.758 during planting to greening turning stage.At representative stations,climate change during greening to heading resulted in reductions in kernel density and kernel number, respectively, by $2 . 7 4 \%$ and $3 . 9 4 \%$ , followed by $2 . 4 6 \%$ and $1 . 8 7 \%$ reductions during heading to maturity.The significant decrease in kernel number due to climate change during greening to headingwastheprimaryreason for the yieldreduction.Intensifiedclimate change was harmful toboth high and stable yields.Climate change during theperiods from planting to grening,greening to heading and heading to maturityled to average yield variations in the representative stations by $- 1 . 6 \%$ ， $- 6 . 3 \%$ and $- 4 . 8 \%$ ,respectively. Under climate change,the key meteorological variables that influenced yield was daily maximum air temperatureduring planting-greeningand heading-maturity periods, and daily minimum air temperature during greening-heading stage.
+
+Keywords: Winter wheat; Main growth periods; Climate change; DSSAT-CERES Wheat model; Meteorological variable Daily minimum air temperature
+
+近百年来，由于温室气体含量发生变化而引发的全球气候变暖，已引起各国学者的广泛关注[1]。农业生产系统作为对气候变化最敏感的领域之一，直接影响着人类生存[2]。大量研究已证实，有观测记录以来，我国农业生产的气候条件已发生显著变化，农业气候资源、农业气象灾害、作物种植制度、生产潜力[3-4]等均受到一定影响。冬小麦(Triticumaestivum)是我国最重要的粮食作物之一，深入研究冬小麦生产过程受气候变化的影响程度对于科学认识气候变化的利弊影响，合理制定适应气候变化的措施具有重要意义。
+
+20世纪90年代起我国陆续产生了大量关于气候变化对冬小麦生产影响的研究成果。较为一致的结论是：冬小麦生育期内，冬春季增温趋势显著，光能资源减少，增温使冬小麦生育期呈缩短趋势[5-6],尤其是拔节抽穗期提前的趋势较显著[7]。部分地区冬小麦气候生产潜力呈波动式略增趋势，但水分因子的限制作用增大[8-10]。大部分利用作物模型与区域气候模式结合的模拟结果均表明，气候系统将导致冬小麦在未来 $3 0 { \sim } 5 0$ 年发生明显减产[11]。气候变化及其影响是一项系统而庞大的研究课题，大量的研究成果使人们对气候变化对冬小麦影响的认识逐渐加深。从已有研究成果来看，历史气候变化对冬小麦生育期的影响已基本确定，但这种变化对生产影响的利弊及影响程度尚不确定；未来气候变化影响下产量预估的方法相对成熟，但在冬小麦社会产量连年增加的背景下，历史气候变化如何影响产量在研究方法和研究结论上均有不同认识[12]。而关于冬小麦哪个生长阶段气候变化对生产影响最大、不同发育时期对气候变化如何响应、响应的机制等研究成果更不多见。本文以我国冬小麦第一主产区河南省为例，通过数理统计与作物模拟模型相结合的分析方法，抓住冬小麦不同生育期气候变化的主要特征，分析气候变化对冬小麦生长进程和产量影响的关键时期，研究不同生育期的关键影响因子，旨在探明气候变化对冬小麦的影响规律，为农业生产趋利避害，科学应对气候变化提供依据。
+
+# 1数据来源与研究方法
+
+# 1.1 数据来源
+
+选择河南省30个农业气象观测站为研究站点(图 1)。各站点1961—2014 年冬小麦生长季的逐日最高气温、最低气温、平均气温、日照时数及降水量资料来源于河南省气象局；各站1981—2014年的冬小麦产量资料来源于河南省统计部门，作物发育期资料源于河南省气象局。各地区土壤资料参考《河南土壤》[13]。
+
+http://www.ecoagri.ac.cn
+
+![](images/73433d8622d157f68e383df553c5407ca7a604acbcbc1f472c47493e283b5904.jpg)  
+图1河南省30个研究站点分布图Fig.1Distribution of 30 agro-meteorological observation stations
+
+# 1.2 统计方法
+
+根据冬小麦先后经历营养生长、营养生长一生殖生长并进、生殖生长的特点，将冬小麦生育期划分为播种一返青期、返青一抽穗期、抽穗一成熟期3个时期。
+
+# 1.2.1 气候倾向率
+
+利用一元线性回归方程 $y = a x + b$ ，分别统计各代表站冬小麦不同发育时期的日平均气温均值$T _ { \mathrm { a v e } } ( ^ { \circ } C )$ 、平均日最高气温 $T _ { \mathrm { m a x } } ( ^ { \circ } \mathrm { C } )$ 、平均日最低气温$T _ { \mathrm { m i n } } ( ^ { \circ } \mathrm { C } )$ 、日照时数 $S ( \mathrm { h } )$ 、降水量 $P ( { \bf m m } )$ 以及各生育时期持续天数(d)随时间的变化特征，其中 $x$ 为年份，$\scriptstyle a \times 1 0$ 即为气候倾向率。概率水平 $P { < } 0 . 0 5$ 和 $P { < } 0 . 0 1$ 分别表示达到显著水平和极显著水平。
+
+# 1.2.2 相对气象产量
+
+将冬小麦社会产量 $Y ( \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 } )$ 分解为趋势产量$( \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 } )$ 与气象产量 $Y _ { \mathrm { w } } ( \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 } )$ 之和，趋势产量的模拟采用气象行业标准[14]中推荐的直线滑动平均法，滑动步长取11。为减少不同历史时期农业技术水平的影响，增加气象产量序列在时间区域上的可比性，引入相对气象产量[15开展进一步分析，记为 $\mathbf { \Omega } _ { a }$ ：
+
+$$
+a { = } Y _ { \mathrm { w } } / Y _ { \mathrm { t } } { \times } 1 0 0 \%
+$$
+
+# 1.2.3 气象因子贡献率
+
+采用多元线性回归法拟合相对气象产量与冬小麦不同生育时期气象要素的关系。将各要素的回归系数之和作为基数，不同生育时段温度、日照时数的回归系数分别除以基数，称为贡献率，贡献率为正值时表示正影响，为负值表示不利影响。
+
+# 1.3作物模型与情景设定
+
+采用参数修订后的DSSATCERES-Wheat模型开展气候变化影响模拟。该模型已广泛应用于气候变化影响研究，并被证实适用于我国冬小麦主产区[16。在河南省选择种植品种属性略有差异，气候特点不同的新乡、襄城、卢氏、商丘和正阳5个地区为代表站点开展作物模型模拟分析。模型模拟选用最小气象数据集，即逐日最高气温、最低气温、降水量和太阳辐射量，其中太阳辐射值采用FAO推荐的方法利用日照时数推算。采用各站2001一2005年观测的开花期、成熟期和实产资料，利用GLUE模块进行模型参数调试。验证时利用1994—2000年和2006—2010年资料，采用绝对误差(△）、归一化均方根误差(NRMSE)、一致性指数 $( D ) ^ { [ 1 7 ] }$ 及模拟值与观测值的相关系数 $( R ^ { 2 } )$ 检验模型的模拟效果(表1)，证明DSSATCERES-Wheat模型对代表站点关键发育期模拟的相对均方根误差在 $2 \%$ 以内，符合度和相关系数接近于1，产量模拟的均方根误差均小于 $9 \%$ ，模型适应性较好，能够满足开展气候变化研究模拟要求。
+
+表1代表站点冬小麦开花期、成熟期及产量的模拟值与观测值统计比较 TablelStatisticalcomparisonbetweenobservedandsimulatedvaluesforanthesis stage,maturitystageand yieldsof winter wheat at representative stations   
+
+<html><body><table><tr><td rowspan="2">代表站 Representative station</td><td colspan="4">开花期 Anthesis stage</td><td colspan="4">成熟期 Maturity stage</td><td colspan="3">产量Yield</td></tr><tr><td>△(d)</td><td>NRMSE (%)</td><td>D</td><td>R²</td><td>△(d)</td><td>NRMSE (%)</td><td>D</td><td>R²</td><td>NRMSE (%)</td><td>D</td><td>R²</td></tr><tr><td>新乡Xinxiang</td><td>1.60</td><td>1.12</td><td>0.96</td><td>0.95</td><td>2.10</td><td>1.19</td><td>0.85</td><td>0.78</td><td>5.27</td><td>0.75</td><td>0.77</td></tr><tr><td>襄城 Xiangcheng</td><td>0.61</td><td>1.11</td><td>1.03</td><td>0.91</td><td>0.30</td><td>0.99</td><td>1.07</td><td>0.86</td><td>8.11</td><td>1.09</td><td>0.79</td></tr><tr><td>卢氏Lushi</td><td>1.14</td><td>0.87</td><td>1.14</td><td>0.88</td><td>0.56</td><td>0.91</td><td>1.11</td><td>0.91</td><td>7.17</td><td>1.14</td><td>0.82</td></tr><tr><td>商丘Shangqiu</td><td>0.67</td><td>0.66</td><td>0.98</td><td>0.89</td><td>1.30</td><td>0.79</td><td>0.89</td><td>0.89</td><td>4.19</td><td>0.97</td><td>0.78</td></tr><tr><td>正阳 Zhengyang</td><td>0.22</td><td>1.41</td><td>0.88</td><td>0.92</td><td>0.91</td><td>1.21</td><td>0.78</td><td>0.91</td><td>7.21</td><td>0.81</td><td>0.83</td></tr></table></body></html>
+
+$\varDelta$ ：绝对误差;NRMSE：归一化均方根误差; $D$ ：一致性指数; $\overline { { { R ^ { 2 } } } }$ ：模拟值与观测值的相关系数。 $\varDelta$ : absolute error; NRMSE:normalized meai square root errors; $D$ : consistency index; $\boldsymbol { R } ^ { 2 }$ : correlation coeficient between simulated and observed values.
+
+模拟情景(I)：为认清冬小麦不同生长时期对气候变化的响应差异，将播种一返青期气象条件发生变化而其他时段不变的情景记为A，以此类推，分别将返青一抽穗期、抽穗一成熟期气象条件发生变化的情景记为B和C。为方便模拟分析并体现气候系统变化的连续性，针对气候变化趋势通过显著性检验的因子，根据其气候倾向率，在作物模型气象数据库中修改代表站点1981一2010年的逐日气象数据文件，气象要素按10年梯度变化，并将30年新情景按年代划分为阶段I、阶段Ⅱ和阶段Ⅲ。例如日最高气温的气候倾向率为 $n ~ \mathrm { { ^ { \circ } C } \cdot ( 1 0 a ) ^ { - 1 } }$ ，则阶段I、Ⅱ、Ⅲ的日最高气温在原有基础上分别增加$n \mathrm { ~ } \mathrm { { ~ C ~ } }$ 、 $2 n ^ { \circ } \mathrm { C }$ 和 $3 n ^ { \circ } \mathrm { C }$ 。
+
+模拟情景(Ⅱ)：为进一步研究冬小麦不同时期对相同气象因子变化的响应程度，分别将3个生育时期的日最高气温、日最低气温、日照时数做相同单位的增加或减少，重点分析产量变化及产量的波动性特征。本文以中部平原地区的襄城为例，参考该站点气象因子的气候倾向率，设定播种一返青、返青一抽穗、抽穗一成熟3个时期的日最高气温 $( A 1 , A 2 , A 3 )$ /日最低气温 $( B 1 , ~ B 2 , ~ B 3 )$ 分别增高 $0 . 5 ~ \mathrm { ^ \circ C }$ ，太阳辐射减少 $5 \% ( C 1 , ~ C 2 , ~ C 3 )$ ，共9种处理进行模拟。
+
+两种情景相对独立，结果不相互干扰。模拟的产量或产量要素的变化率W按公式(2)计算:
+
+$$
+W { = } ( Y _ { \mathrm { s } } { - } Y _ { \mathrm { C K } } ) / Y _ { \mathrm { C K } } { \times } 1 0 0 \% 
+$$
+
+式中： $Y _ { \mathrm { s } }$ 表示某情景下模拟的产量或产量要素， $Y _ { \mathrm { C K } }$ 是利用近30年实际历史气象资料模拟的产量或产量要素的平均值。
+
+# 2 结果与分析
+
+# 2.1冬小麦不同生育期气候变化特征
+
+虽然各研究站点有一定地域差异，但冬小麦不同生育时期气候变化的趋势基本一致，主要表现在：各时期一致增温，尤其是 $T _ { \mathrm { m i n } }$ 显著升高，且增温速率高于 $T _ { \mathrm { m a x } }$ ，意味着气温日较差降低(表2)。与其他时期相比，返青一抽穗期温度因子的气候倾向率明显偏大, $T _ { \mathrm { m i n } }$ 按 $0 . 5 9 1 \ \mathrm { { ^ circ C } { \cdot } ( 1 0 \mathrm { { a } ) } ^ { - 1 } }$ 的速率升高。冬小麦各生育期日照时数一致减少，尤其是播种一返青期日照时数极显著递减，各站平均气候倾向率达-40.09$\left. \mathrm { h } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 } \right.$ ，其他时期日照时数变化不显著。因此，研究区域冬小麦不同生长阶段气候变化的主要特征是：返青一抽穗期增温幅度最大，且 $T _ { \mathrm { m a x } }$ 与 $T _ { \mathrm { m i n } }$ 按不同速率同时升高；播种一返青期日照时数显著减少；各发育期降水量有减少趋势，但未通过显著性检验。
+
+表230个研究站点冬小麦主要生育时期气象要素的平均气候倾向率Table2Averageclimatic trendsof meteorologicalelementsatdiferentgrowth periodsof winterwheatfor30study stations  
+
+<html><body><table><tr><td>生育时期 Growth period</td><td>平均温度 Average [c-(10a)-]</td><td>平均日最高气温 Average dairy maximum airte-(10ar-te</td><td>平均日最低气温 Average dairy minimum airc-(10a)</td><td>日照时数 Sunshine hours [h·(10a)-1]</td><td>降水量 Precipitation [mm·(10a)-1]</td></tr><tr><td>播种一返青 Planting-green turning</td><td>0.210**</td><td>0.186**</td><td>0.352**</td><td>-40.090*</td><td>-5.324</td></tr><tr><td>返青一抽穗 Green turning-heading</td><td>0.495**</td><td>0.484**</td><td>0.591**</td><td>-10.525</td><td>-5.138</td></tr><tr><td>抽穗一成熟 Heading-maturity</td><td>0.214*</td><td>0.173</td><td>0.359**</td><td>-7.772</td><td>-0.798</td></tr></table></body></html>
+
+\*和\*\*分别表示不同时期在0.05和0.01水平上差异显著。\*and \*\*representsignificantdiferencesat0.05and0.01levels,respectively
+
+# 2.2 气候变化对冬小麦不同生育期的影响
+
+经统计，气候变化下河南省冬小麦播种日期和返青普遍期变化不明显，30个研究站点中仅5个站点播种期延迟趋势显著 $( P { < } 0 . 0 5 )$ ，返青普遍期2个观测站显著提前，6个站点显著推迟。抽穗普遍期28个观测站显著提前，各站平均提前速率为2.9$\mathrm { \ d } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ (图2a)；成熟普遍期15个观测站显著提前，各站平均提前速率为 $1 . 4 \ : \mathrm { d } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ 。
+
+播种—返青期各站平均持续 $1 2 4 . 6 \mathrm { d }$ 。变化特征无共同规律。返青一抽穗期平均经历 $6 1 . 8 \mathrm { d }$ ，全省变化率为- $- 4 . 3 \ \mathrm { \ d } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ (图2b)，其中23个观测站缩短趋势显著。抽穗—成熟期平均持续41.6d，近34年按1.5$\mathrm { { d } { \cdot } ( 1 0 \mathrm { { a } ) } ^ { - 1 } }$ 速率延长，其中22个研究站点延长趋势显著;各代表站平均全生育期天数变化趋势不明显。
+
+返青前冬小麦要经历春化作用和幼穗分化的初期[18]，抽穗期即幼穗分化的结束。Pearson相关分析发现，返青前气象要素与播种一返青期持续天数的相关系数较小，但大部分气象要素与后续发育期显著相关(表3)，说明虽然返青之前各气象要素的气候倾向率并不是最大，但对发育进程的影响最明显。3个主要生育期的 $T _ { \mathrm { a v e } } .$ ， $T _ { \mathrm { m i n } }$ 与各生育期间隔日数均为负相关，尤其是播种—返青期 $T _ { \mathrm { m i n } }$ 与播种一抽穗期、播种一成熟期天数的负相关系数最高。降水量虽然变化趋势不显著，但与主要生育期长度呈负相关关系。由于最低气温升高对平均气温变化有直接促进作用，因此不同时期气候变化对冬小麦发育期的影响主要表现为：幼穗分化随着最低气温的升高而提前结束，但籽粒灌浆期并未随气温升高而明显缩短，河南冬小麦生产"两长一短"的特点中[19]，“春化时间长"的特点受气候变化影响较小，“幼穗分化期长"的优势在减小，而“灌浆时间短"的劣势随气候变化在改善。
+
+![](images/2d9e34e28b2380dfaabfeac44623ef5d74a0e8a9ba8e03a68f0c4d3515921f35.jpg)  
+图2研究站点冬小麦平均生育期(a)及生育期持续日数(b)变化 Fig.2Variations of average growth stage (a) and duration (b) of winter wheat at study stations
+
+# 2.3 不同时期气候变化对冬小麦产量的影响
+
+由前面的分析可知，不同时期气候变化的特点和变幅不同，因此冬小麦不同生育时期对气候变化的响应也存在差异，在此利用两种方法综合分析冬小麦不同生育时期气候变化对产量的影响程度。
+
+# 2.3.1 气象因子贡献率及空间分布
+
+研究站点相对气象产量与各时期气象因子的多元回归方程，拟合度均通过 $P = 0 . 0 1$ 的显著性检验。图3和表4为各生育时期所有气象因子的贡献率，以及温度和日照单因子的贡献率。由于河南省大部分麦田有灌溉条件，一定程度上掩盖了降水变化的影响，降水因子的回归拟合系数较小，在此不做讨论。
+
+由图3可知，除豫东南个别地区外，播种一返青期气象条件对产量为正贡献，全省大部分地区贡献率为 $0 . 1 { \sim } 2 . 0$ ，平均贡献率0.758；返青一抽穗期各地平均综合贡献率为-0.105，尤其豫东北、豫东、豫中及豫南局部负贡献率较大；抽穗一成熟期平均贡献率0.349，小于播种一返青期，但豫东北局部、豫中和豫西南局部也为负贡献。
+
+表3不同阶段气象要素与冬小麦主要生育期持续日数的相关系数 Table 3Correlation coeficients between meteorological elements of diferent stages and durations of main growi periods of winterwheat   
+
+<html><body><table><tr><td>时期 Stage</td><td>要素 Element</td><td>播种一返青期日数 Days of plantig gren</td><td>播种一抽穗期日数 Days of planting-heading</td><td>播种一成熟期日数 Dating greing</td></tr><tr><td>播种一返青期 Planting-green turning</td><td>平均温度 Average temperature</td><td>-0.192</td><td>-0.478**</td><td>-0.516*</td></tr><tr><td></td><td>平均日最高气温 Average dairy maximum air</td><td>-0.002</td><td>-0.106</td><td>-0.080</td></tr><tr><td rowspan="8">返青一抽穗期 Green turning-heading</td><td>temperature 平均日最低气温 Average dairy minimum air</td><td>-0.236</td><td>-0.614**</td><td>-0.661**</td></tr><tr><td>temperature 日照时数 Sunshine hours</td><td>0.136</td><td>0.391*</td><td>0.344</td></tr><tr><td>降水量 Precipitation</td><td>-0.237</td><td>-0.407**</td><td>-0.439**</td></tr><tr><td>平均温度 Average temperature</td><td></td><td>-0.384*</td><td>-0.354*</td></tr><tr><td>平均日最高气温 Average dairy maximum air</td><td>一</td><td>-0.153</td><td>-0.098</td></tr><tr><td>temperature 平均日最低气温</td><td>一</td><td>-0.522**</td><td>-0.495**</td></tr><tr><td>Average dairy minimum air temperature</td><td></td><td></td><td></td></tr><tr><td>日照时数 Sunshine hours 降水量 Precipitation</td><td></td><td>0.086</td><td>0.027</td></tr><tr><td rowspan="6">抽穗一成熟期 Heading-maturity</td><td></td><td></td><td>-0.379*</td><td>-0.338*</td></tr><tr><td>平均温度 Average temperature 平均日最高气温</td><td>一</td><td></td><td>-0.354*</td></tr><tr><td>Average dairy maximum air temperature 平均日最低气温</td><td></td><td></td><td>-0.101</td></tr><tr><td>Average dairy minimum air temperature</td><td></td><td></td><td>-0.485**</td></tr><tr><td>日照时数 Sunshine hours</td><td></td><td></td><td>-0.222</td></tr><tr><td>降水量 Precipitation</td><td></td><td></td><td>-0.216</td></tr></table></body></html>
+
+37N 播种一返青期 Planting-green turning   
+36N 森州汤阴 濮阳 新乡   
+35N 沁阳 封丘 门峡 巩义郑州 伊川 杞县 商丘   
+34N 2卢氏川 汝州 襄城区太康 永城   
+33N 内乡 南阳方城 西店 沈丘 ·站点Statiom 正阳   
+32N 2.1-6.0 信阳 潢川固始 0.1\~2.0 -4.0\~0.0   
+31N 111E112°E113E 114E 115°E 116E117E   
+37N 返青一抽穗期 Green turning-heading   
+36N 林州汤阴 濮阳 新乡   
+35N 沁阳 封丘 三门峡 巩义郑州 伊川 杞县 商丘   
+34N 2卢氏川 汝州 襄城许目 泛区太康 永城   
+33N 内乡 南阳方城 西店 沈丘 站点Station 正阳   
+32°N 10.708.0 信阳 潢川固始 -1.5\~-0.8 1-2.4\~-1.6   
+31N 111E112°E 113E 114E 115E 116E117E   
+37°N 抽穗一成熟期 Heading-maturity   
+36N 林州汤阴 濮阳 新乡   
+35N 沁阳 封丘 三门峡 巩义郑州 伊川 杞县 商丘   
+34N 卢氏川 汝州 襄城昌泛区太康 永城   
+33N 内乡 南阳方城 西马店 沈丘 站点 Station 正阳   
+32N 2.5-20 信阳 潢川固始 一 1-1.5\~0.0 1-3.5\~-1.5   
+31N 111E112E113E 114E 115E116E117E   
+回？ 小丰不曰牛叶期气色田子对坦对气色立昙的
+
+温度因子的贡献率大小与各生育时期的贡献率相当，日照时数的贡献率平均值为-0.059\~-0.002,不足温度贡献率的1/10，表明在河南麦区辐射量的减少暂不是产量变化的主要制约因素(表4)。由统计结果来看，返青一抽穗期气候变化对小麦产量形成有明显不利影响，其中温度升高是该时期的主要影响因素。
+
+# 表4冬小麦不同生育时期气象因子对相对气象产量的平均贡献率
+
+Table 4Average contribution rates of meteorological elements of different growth stages to relative climatic yield of winter wheat   
+
+<html><body><table><tr><td>发育期 Growth stage</td><td>贡献率 Contribution rate Temperature Sunshine hours</td><td>温度</td><td>日照时数</td></tr><tr><td>播种一返青期</td><td>0.758</td><td>0.817</td><td>-0.002</td></tr><tr><td>Planting-green turning 返青一抽穗期 Green turning-heading</td><td>-0.105</td><td>-0.101</td><td>-0.014</td></tr><tr><td>抽穗一成熟期 Heading-maturity</td><td>0.349</td><td>0.284</td><td>-0.059</td></tr></table></body></html>
+
+# 2.3.2 代表站点不同情景产量变化模拟
+
+模拟设定在现有基础上，气候要素进一步改变可能引起的产量变化。各站模拟结果的平均值(表5)显示，3个不同时期气候持续变化均导致减产，但情景A导致的平均减产率相对较小，为 $- 1 . 6 5 \%$ ，个别站点表现为增产。情景B，即返青一抽穗期气候变化导致的平均减产率最高，与统计模型分析结论一致。各情景中，I、Ⅱ、Ⅲ3个阶段的气象要素呈阶梯变化，即当气候变化幅度相对较小时，返青前以及抽穗后气候变化可能使部分地区增产，减产的拐点位于梯度I和Ⅱ之间。
+
+结合2.3.1的分析可以看出，播种一返青期气候条件改变对冬小麦生产的负面影响最小，在过去30年甚至未来该生育时期气候条件继续小幅变化，对产量提高有一定的正贡献，但随着该时期气候变化程度的加剧，产量则明显降低。在目前气候要素的变幅下，返青一抽穗期气候变化对产量的负影响更明显，但是从继续加剧的阶段Ⅱ、Ⅲ模拟结果看，抽穗一成熟期气候变化对产量的不利影响突显。
+
+表6为各代表站点产量要素的平均变化率。可以看出，3种情景均导致产量构成要素降低，但不同时期气候变化对千粒重的影响相对较小，平均值在$0 . 1 \%$ 以内，主要引起单位平方穗密度和每穗粒数不同程度减少。其中，情景A气候变化影响下产量三要素的变化较其他情景小，情景B穗密度和穗粒数分别减小 $2 . 7 4 \%$ 和 $3 . 9 4 \%$ ，大于情景C，是返青一抽穗期气候变化对产量不利的主要原因。
+
+# 2.4影响冬小麦产量的关键气象因子
+
+由于温度、日照等气象要素对产量的影响有协同作用，因此利用作物模型与特定的模拟情景，可分离出单要素变化相同量级时对产量的影响。根据
+
+表5代表站点不同情景模拟冬小麦产量变化率 Table 5Variation rate of simulated yield of winter wheat under different scenarios at representative stations   
+
+<html><body><table><tr><td>地点 Site</td><td>阶段 Stage</td><td>情景A Scenario A</td><td>情景B Scenario B</td><td>情景C Scenario C</td></tr><tr><td rowspan="4">各站平均Average</td><td>平均Average</td><td>-1.65</td><td>-6.31</td><td>-4.79</td></tr><tr><td>阶段I Phase I</td><td>10.03</td><td>-2.16</td><td>7.10</td></tr><tr><td>阶段Ⅱ Phase Ⅱ</td><td>-6.53</td><td>-9.32</td><td>-10.34</td></tr><tr><td>阶段Ⅲ Phase Ⅲ</td><td>-8.46</td><td>-7.46</td><td>-11.12</td></tr><tr><td rowspan="4">正阳Zhengyang</td><td>平均Average</td><td>1.42</td><td>-7.56</td><td>-3.36</td></tr><tr><td>阶段I Phase I</td><td>14.43</td><td>-3.90</td><td>19.42</td></tr><tr><td>阶段Ⅱ Phase Ⅱ</td><td>-12.85</td><td>-5.59</td><td>-16.07</td></tr><tr><td>阶段Ⅲ Phase Ⅲ</td><td>-7.31</td><td>-13.20</td><td>-13.44</td></tr><tr><td rowspan="4">襄城 Xiangcheng</td><td>平均 Average</td><td>-3.76</td><td>-8.49</td><td>-7.63</td></tr><tr><td>阶段I Phase I</td><td>0.43</td><td>-3.69</td><td>-1.01</td></tr><tr><td>阶段Ⅱ Phase ⅡI</td><td>-9.62</td><td>-11.80</td><td>-12.31</td></tr><tr><td>阶段Ⅲ Phase Ⅲ</td><td>-2.08</td><td>-14.96</td><td>-14.58</td></tr><tr><td rowspan="4">商丘 Shangqiu</td><td>平均 Average</td><td>-3.46</td><td>-7.15</td><td>-7.05</td></tr><tr><td>阶段I Phase I</td><td>11.01</td><td>0.45</td><td>5.50</td></tr><tr><td>阶段Ⅱ Phase Ⅱ</td><td>-4.85</td><td>-11.59</td><td></td></tr><tr><td>阶段Ⅲ Phase Ⅲ</td><td>-16.55</td><td>-9.00</td><td>-7.69 -19.24</td></tr><tr><td rowspan="4">卢氏Lushi</td><td>平均</td><td>-6.83</td><td></td><td></td></tr><tr><td>Average 阶段I Phase I</td><td>0.88</td><td>-7.72</td><td>-5.98</td></tr><tr><td>阶段Ⅱ Phase Ⅱ</td><td>-5.83</td><td>-1.45</td><td>2.49</td></tr><tr><td></td><td></td><td>-6.92</td><td>-6.73</td></tr><tr><td rowspan="4">新乡Xinxiang</td><td>阶段Ⅲ Phase Ⅲ</td><td>-15.54</td><td>-13.21</td><td>-13.70</td></tr><tr><td>平均 Average</td><td>0.73</td><td>-3.02</td><td>-2.23</td></tr><tr><td>阶段I Phase I</td><td>9.41</td><td>4.60</td><td>6.10</td></tr><tr><td>阶段Ⅱ Phase ⅡI 阶段Ⅲ Phase Ⅲ</td><td>-0.90 -6.31</td><td>-4.08 -8.59</td><td>-4.08 -9.70</td></tr></table></body></html>
+
+情景A、B、C分别指播种—返青期、返青—抽穗期、抽穗—成熟期气象条件发生变化而其他时段不变的情景。阶段I、Ⅱ、Ⅲ分别为按年代将 1981—2010 年划分的 3个时期，其中变化趋势显著的气象因子每10年一个梯度按气候倾向率增加或减少。Scenario A，B,C meanmeteorologicaldiiosangdringpatinetgetadigdadiaturitagsptielyperiodwasconstataseI，，areagesdividdyecadefro98to0andthemeteoroogicalelementsicharedsigiicatlywere increased or decreased by gradient of climatic trend for each 10 years.
+
+# 表6不同情景下代表站点冬小麦产量要素的平均变化率
+
+Table 6Average variation rates of yield components of winter wheat for representative stations under different scenarios $\%$   
+
+<html><body><table><tr><td>情景 Scenario</td><td>穗密度 Kernel density</td><td>穗粒数 Kernel number</td><td>千粒重 1000-kernel weight</td></tr><tr><td>A</td><td>-0.12</td><td>-0.30</td><td>-0.04</td></tr><tr><td>B</td><td>-2.74</td><td>-3.94</td><td>-0.04</td></tr><tr><td>C</td><td>-2.46</td><td>-1.87</td><td>-0.07</td></tr></table></body></html>
+
+情景A、B、C分别指播种—返青期、返青—抽穗期、抽穗一成 熟期气象条件发生变化而其他时段不变的情景。ScenarioA，B，C mean meteorological conditions changed during planting-green turning, green turning-heading and heading-maturity stage respectively,while the other period was constant.
+
+襄城站情景(Ⅱ)的模拟结果，9种处理冬小麦平均产量均较对照减产，导致减产率最大的处理为C1、B2和C2,其次为C3，表明气候变化程度加剧时，抽穗一成熟期各气象因子变化均对产量的不利影响较大，日最高气温的负影响最大。A1、A2和A3处理的减产率相对低，3个处理仅A1情景的减产率相对较高，表明冬小麦播种一返青期气候变化对产量的负影响最小，影响产量的关键因子是日最高气温的升高;返青一抽穗期的关键影响因子为日最低气温；抽穗以后，日最高气温升高是对产量形成最为不利的因子。
+
+从各处理的产量箱线图来看(图4)，冬小麦不仅平均产量减小，最低产量和最高产量水平也降低，仅B2处理的最低产量大于对照最低产量水平，表明返青一抽穗期最低气温的升高可提高小麦最低产量，减小产量变异。各发育时期最高、最低气温变化导致 $2 5 \% { \sim } 7 5 \%$ 产量分位间距拉大，一定程度上说明稳产性在变差。
+
+http://www.ecoagri.ac.cn
+
+![](images/924390f0ed3a1463fde6727c0f9b7a5bd953bb86d06523803657b794701755c3.jpg)  
+图4不同处理冬小麦产量箱线图
+
+Fig.4Box plots of winter wheat yield for different treatmentsCK 为近30年实际气象条件，A1、A2、A3指播种—返青、返青-抽穗、抽穗一成熟3个时期的日最高气温分别增高 $0 . 5 \mathrm { ~ \textdegree C }$ ,B1、B2、B3指3个时期的日最低气温分别增高 $0 . 5 ~ \mathrm { ^ { \circ } C }$ ，C1、C2、C3指3个时期的太阳辐射分别减少 $5 \text{‰}$ CK means the actual meteorological condi-tion for resent 30 years;A1,A2,A3 mean the daily maximum tempera-ture increased by $0 . 5 ~ \mathrm { { ^ \circ C } }$ for planting-green turning， green turn-ing-heading and heading-maturity stage respectively;B1,B2,B3 meanthe daily minimum temperature increased by $0 . 5 ~ \mathrm { { ^ \circ C } }$ for the above 3stages,respectively;C1,C2,C3 mean the solar radiation decreased by$5 \%$ for the 3 stages,respectively.
+
+# 3结论与讨论
+
+本文通过对河南省冬小麦主要生育期气候变化的影响分析发现，冬小麦不同时期气候变化的特征不同，其影响也存在差异。研究区播种一返青期日照时数递减最明显，但对产量的负影响不大；播种一返青期气候变化对冬小麦发育进程有重要影响；返青一抽穗期升温幅度最大，该时期气候变化对产量的不利影响也最大。不同时期气候持续变化均导致小麦减产，影响产量的关键气象因子在播种一返青期、抽穗一成熟期是日最高气温，而在返青一抽穗期是日最低气温。
+
+冬小麦从播种出苗到经历越冬期进入返青期，是营养生长的主要时期。前人研究发现，充足的营养生长期积温与分蘖成穗率有显著相关性；另一方面，返青前气温升高能够减小冬季冻害风险，保证小麦安全越冬[20-22]，这与本文关于播种一返青期气候变化对冬小麦产量的影响可相互印证，当然这种正效应仅局限于一定幅度内的增温。返青后是小麦穗分化的重要时期，温度条件不仅决定幼穗分化开始的时间，还影响分化的进程。本研究用两种方法均证实，与其他时段相比，返青一抽穗期气候变化对产量影响最为不利，其中日最低气温是该时期影响产量的关键因子，这一阶段 $T _ { \mathrm { m i n } }$ 的增幅最大，意味着春季回暖较快，易导致光周期反应加速，致使小穗和小花数量的减少[23]。因此在研究冬小麦适应气候变化措施时，应重点考虑返青后的麦田管理方法，减小气候变化的不利影响。研究发现抽穗后日最高气温的变化是影响产量的关键因子，这与前人研究的花后高温对小麦籽粒淀粉粒形成、酶活性、光合产物分配等生理生化过程均有不利影响的结论相符[24-27]。本文揭示了气候变化对产量影响的关键时期及关键影响因子，但具体的影响机制及生理过程还有待进一步深入分析。
+
+作物模型能够反映在土壤、作物品种不变的情况下，单纯由气象条件引起的产量变化，模拟结果具有定量化、可比性强、可信度高等优势，已被气候变化研究学者广泛应用[28-30]。存在的问题是本研究设定的模拟情景，旨在平行分析不同生育期气候变化对产量的可能影响趋势，可能与未来气候变化的趋势不完全相符，得出的产量增减幅度仅供研究分析参考。受资料限制，本文仅开展了河南麦区代表站点的研究，气候变化的影响既有共同特征又有区域性差异，这有待于扩展研究区域弥补其空间代表性的不足。
+
+# 参考文献 References
+
+[1]宋艳玲．气候变化对中国农业影响研究[M].北京：气象出版社，2012Song Y L.Study of the Effect of Climate Change on Agri-culture in China[M].Beijing:China Meteorological Press,2012  
+[2]郁珍艳，李正泉，高大伟，等．定量评估极端天气影响农业总产值的方法[J].气候变化研究进展,2016,12(2):147-153Yu ZY,Li ZQ,Gao DW,et al.A method of evaluate theimpacts of extreme weather on agricultural economic outputquantitatively[J].Advances in Climate Change Research,2016,12(2): 147-153  
+[3]李祎君，王春乙．气候变化对我国农作物种植结构的影响[J].气候变化研究进展,2010,6(2):123-129Li YJ,Wang C Y.Impacts of climate change on crop plant-ing structure in China[J].Advances in Climate Change Re-search,2010,6(2):123-129  
+[4]钱永兰，毛留喜，周广胜．全球主要粮食作物产量变化及其气象灾害风险评估[J]．农业工程学报，2016，32(1):226-235Qian Y L,Mao L X, Zhou G S.Changes in global main cropyields and its meteorological risk assessment[J].Transactionsof the CSAE,2016,32(1):226-235  
+[5]吴泽新，刘春红，许士斌．气候变化对黄淮海地区弱冬性小麦的影响评价[J]．现代生物医学进展，2008，8(5):933-936WuZX,Liu CH,Xu SB.The assessment of the effects oftheclimate change on the weak winter wheatinHuang-Huaihai Plain[J].Progress in Modern Biomedicine,2008,8(5):933-936
+
+[6]胡实，莫兴国，林忠辉．气候变化对海河流域主要作物物
+
+to the crop phenology and yield in Haihe River Basin[J].Geographical Research,2014,33(1): 3-12   
+[7] 姬兴杰，朱业玉，刘晓迎，等．气候变化对北方冬麦区冬小 麦生育期的影响[J].中国农业气象,2011,32(4):576-581 Ji X J, Zhu Y Y,Liu X Y, et al. Impacts of climate change on the winter wheat growth stages in North China[J]. Chinese Journal of Agrometeorology,2011,32(4): 576-581   
+[8]王宏，陈阜，石全红，等．近30a 黄淮海农作区冬小麦单产 潜力的影响因素分析[J]．农业工程学报，2010，26(S1): 90-95 Wang H,Chen F,Shi Q H, et al. Analysis of factors on impacting potential productivity of winter wheat in Huanghuaihai agricultural area over 3O years[J].Transactions of the CSAE,2010,26(S1): 90-95 [9] 张丽英，张正斌，徐萍，等．黄淮小麦农艺性状进化及对产 量性状调控机理的分析[J]．中国农业科学，2014，47(5): 1013-1028 Zhang L Y, Zhang ZB,Xu P,et al.Evolution of agronomic traits of wheat and analysis of the mechanism of agronomic traits controlling the yield traits in the Huang-Huai Plain[J]. Scientia Agricultura Sinica,2014,47(5):1013-1028   
+[10]赵叶萌，刘晓英，钟秀丽，等．基于产量响应诊断冬小麦水 分亏缺适宜土层及其水分阈值[J]．农业工程学报，2014, 30(20): 147-154 Zhao Y M, Liu XY, Zhong XL,et al. Determination of soil depth and its water threshold for diagnosing water deficit of winter wheat based on grain yield[J]. Transactions of the CSAE,2014,30(20): 147-154   
+[11]王培娟，张佳华，谢东辉，等．A2和B2情景下冀鲁豫冬小 麦气象产量估算[J]．应用气象学报,2011,22(5):549-557 Wang P J, Zhang JH, Xie D H,et al.Estimation for weather yield of winter wheat under A2 and B2 scenarios in Hebei, Shandong and Henan Provinces[J]. Journal of Applied Meteorological Science,2011,22(5): 549-557   
+[12]尹朝静，李谷成，高雪．气候变化对中国粮食产量的影响- 基于省级面板数据的实证[J].干旱区资源与环境,2016,30(6): 89-94 Yin C J, Li G C, Gao X. Impacts of climate change on China's grain production — Empirical analysis based on provincial panel data[J]. Journal of Arid Land Resources and Environment,2016,30(6): 89-94   
+[13]河南省土壤普查办公室．河南土壤[M]．北京：中国农业出 版社,2004 Soil Census Office of Henan Province. Soil in Henan[M]. Beijing: China Agriculture Press,2004   
+[14]中国气象局.QX/T 81—2007 小麦干旱灾害等级[S].北京: 中国标准出版社,2007 China Meteorological Administration.QX/T 81—2007 Disaster Grade of Drought for Wheat[S]. Beijing: China Standard Press,2007   
+[15] 朱自玺，刘荣花，方文松，等．华北地区冬小麦干旱评估指 标研究[J]．自然灾害学报,2003,12(1):145-150 Zhu Z X,Liu R H,Fang W S,et al. Evaluation indices of 响及对策初探[J]．应用气象学报,2012,23(5):571-577 Cheng L,Liu R H,Wang X L.Possible impacts of future climate change on irrigated winter wheat and adaptive strategies in Henan Province[J]. Journal of Applied Meteorological Science,2012,23(5):571-577   
+[17]刘建刚，褚庆全，王光耀，等.基于 DSSAT 模型的氮肥管 理下华北地区冬小麦产量差的模拟[J]．农业工程学报, 2013,29(23): 124-129 Liu J G, Chu Q Q, Wang G Y, et al. Simulating yield gap of winter wheat in response to nitrogen management in North China Plain based on DSSAT model[J]. Transactions of the Chinese Society of Agricultural Engineering,2013,29(23): 124-129   
+[18]韩金玲，杨晴，王文颇，等．播期对冬小麦茎蘖幼穗分化及 产量的影响[J].麦类作物学报,2011,31(2):303-307 Han JL,Yang Q, Wang W P,et al. Effects of sowing date on the caulis and tillers diferentiation of young spike and yield in winter wheat[J]. Journal of Triticeae Crops,2011,31(2): 303-307   
+[19]王绍中，田云峰，郭天财，等．河南小麦栽培学[M]．北京: 中国农业科学技术出版社,2010:104-109 Wang S Z, Tian Y F,Guo T C,et al.Wheat Cultivation in Henan[M]. Beijing: China Agriculture Scientech Press, 2010: 104-109   
+[20]李向东，张德奇，王汉芳，等．越冬前增温对小麦生长发育 和产量的影响[J]．应用生态学报,2015,26(3):839-846 Li X D, Zhang D Q,Wang HF,et al. Impact of temperature increment before the over-wintering period on growth and development and grain yield of winter wheat[J]. Chinese Journal of Applied Ecology,2015,26(3): 839-846   
+[21]吕丽华，梁双波，张丽华，等．不同小麦品种产量对冬前积 温变化的响应[J]．作物学报,2016,42(1):149-156 Lü L H, Liang S B,Zhang L H,et al. Yield in response to accumulated temperature before winter in winter wheat[J]. Acta Agronomica Sinica,2016,42(1): 149-156   
+[22]张晶，王姣爱，党建友，等．播期对小麦主茎及分蘖农艺性 状、产量和品质的影响[J]．农学学报,2013,3(8):1-6 Zhang J,Wang JA,Dang JY,et al. Effect of sowing dates on agronomic character,yield and quality of the main stalks and tillers in wheat[J]. Journalof Agriculture,2013,3(8): 1-6   
+[23]杨宗渠，尹钧，周冉，等．冬前积温和春化处理对不同春化 发育特性小麦品种幼穗分化的效应[J]．核农学报，2008, 22(4): 503-509 Yang Z Q, Yin J, Zhou R, et al. Effects of accumulated temperature before wintering and vernalization treatments on spike differentiation of wheat cultivars with different vernalization development characteristics[J]. Journal of Nuclear Agricultural Sciences,2008,22(4): 503-509   
+[24]赵鸿，王润元，尚艳，等．粮食作物对高温干旱胁迫的响应 及其阈值研究进展与展望[J]．干旱气象,2016,34(1):1-12 Zhao H, Wang R Y, Shang Y,et al. Progress and perspectives in studies on responses and thresholds of major food crops to high temperature and drought stress[J].Journal of Arid Meteorology,2016,34(1):1-12   
+[25]傅晓艺，何明琦，史占良，等．灌浆期高温胁迫对小麦灌浆 特性和品质的影响[J].麦类作物学报,2015,35(6):867-872 Fu XY,He MQ,Shi ZL,et al.Effect of high temperature stress during grain-filling period on wheat grain-filling characteristics and quality[J].Journal of Triticeae Crops,2015, 35(6): 867-872   
+[26]张英华，杨佑明，曹莲，等．灌浆期高温对小麦旗叶与非叶 器官光合和抗氧化酶活性的影响[J].作物学报,2015,41(1): 136-144 Zhang Y H,YangY M,Cao L,et al.Effect of high temperature on photosynthetic capability and antioxidant enzyme activity of flag leaf and non-leaf organs in wheat[J].Acta Agronomica Sinica,2015,41(1):136-144   
+[27]杨晓娟，居辉，王治世，等．花后高温和干旱对冬小麦光 合、抗氧化特性及粒重的影响[J]．麦类作物学报，2015, 35(7):958-963 YangXJ,JuH,Wang ZS,etal.Effect ofhigh temperature and drought after anthesis on photosynthesis,antioxidant properties and grain weight in winter wheat[J]. Journal of Triticeae Crops,2015,35(7):958-963   
+[28]熊伟，居辉，许吟隆，等．气候变化下我国小麦产量变化区 域模拟研究[J].中国生态农业学报,2006,14(2):164-167 Xiong W,Ju H,Xu YL,et al.Regional simulation of wheat yield in China under the climatic change conditions[J].Chinese Journal of Eco-Agriculture,2006,14(2):164-167   
+[29]李国强，陈丹丹，张建涛，等．基于DSSAT模型的河南省 小麦生产潜力定量模拟与分析[J].麦类作物学报，2016, 36(4): 507-515 LiGQ,Chen DD,Zhang JT,et al.Quantitative simulation and analysis of winter wheat production potential in Henan Province[J].Journal of Triticeae Crops,2016,36(4): 507-515   
+[30]胡实，莫兴国，林忠辉．气候变化对黄淮海平原冬小麦产 量和耗水的影响及品种适应性评估[J].应用生态学报, 2015,26(4): 1153-1161 Hu S,Mo X G,Lin ZH.Evaluating the response of yield and evapotranspiration of winter wheat and the adaptation by adjusting crop variety to climate change in Huang-Huai-Hai Plain[J]. Chinese Journal of Applied Ecology,2015,26(4): 1153-1161

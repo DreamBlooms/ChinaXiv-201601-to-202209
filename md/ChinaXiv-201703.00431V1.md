@@ -1,0 +1,268 @@
+# DOI:10.5846/stxb201510092037
+
+傅强,顾朝林.基于CL-PIOP 方法的青岛市生态网络结构要素评价.生态学报,2017,37(5):1729-1739.  
+FuQ,GuCaaltsgddctaoc1739.
+
+# 基于CL-PIOP方法的青岛市生态网络结构要素评价
+
+傅强1，\*，顾朝林²
+
+1山东科技大学土木工程与建筑学院，青岛266590  
+2 清华大学建筑学院，北京100084
+
+摘要：景观生态学中的生态网络概念，已被国内外越来越多机构与学者所接受。生态网络结构要素的量化评价成为生态网络能否真正发挥在空间上调和自然生态保护与社会发展作用的关键。图形理论中相关评价指数为量化评价提供了方法。探讨如何基于图形理论中相关评价结果数据,发现对一个地区生态网络连通性有重要影响的斑块与廊道等生态网络结构要素。以青岛作为研究案例区域,使用最小成本路径模型构建了湿地和林地两种生态网络,并以一定阈值为标准对生态网络做等级划分,采用图形理论中的CL-PIOP评价方法作为基础方法，提出两种生态网络结构要素评价标准对结果数据作深入分析。分析结果表明：基于不同等级生态网络斑块的CL-PIOP重要性频次统计可以有效的识别对网络连通性有重要作用的斑块,既涵盖了几乎所有大面积的斑块,同时也包括一定数量的小面积斑块;CL-PIOP 评价方法可在众多廊道中快速识别具有不可替代作用的廊道,且根据CL-PIOP 值大小以及在各等级网络中非零CL-PIOP 值的频率统计进一步确定廊道的重要程度。此外,不同等级网络中CL-PIOP值存在异常增大的斑块及其相关廊道对于网络构建与连通性增强有关键作用，这些斑块通常与面积等自身的属性无关,而与其在网络所处的位置相关。生态网络模型与图形理论相关方法结合可以快速有效的识别区域重要的生态用地,为相关规划中生态用地的保护、恢复提供量化依据。
+
+关键词：林地生态网络;湿地生态网络；相关长度；PIOP；青岛市
+
+# Evaluation of the structural elements of Qingdao ecological network based on the CL-PIOP method
+
+FU Qiang1,\*，GU Chaolin²   
+1SchoolofCivilEngineringandArchitecture，ShandongUniversityofScienceandTechnology，Qingdao266590,China   
+2School of Architecture，Tsinghua University,Beijing 1Ooo84,China
+
+Abstract:The analysis of ecological networks inlandscapeecology has been acepted increasinglybya growing numberof institutions andscholarsworldwide.Thenetwork connectionsof structural landscape elements，such aspatches and corridors，enhance theeffectiveflowof mater，energy，and information.Furthermore，the network structure can guarantee stabilityoftheecological network whencertainecological patchesorcoridorsdisappear.Theecological networktherefore hassomeflexibility inthelayoutandadjustment of itsspatial structure.This makesit posible toprovidecompromises for thespatialcontradictionbetweenprotectionof cosystemsandthesocio-economicdevelopmentthatacompaniesthecurent rapidurbanization in China.Quantitativeevaluations ofthestructureelementsof ecological networks playa keyrole in the protection，restoration，andadjustmentof theregionalenvironment.Therelatedevaluation indexes fromgraph theory provide methods for such a quantitativeevaluation.We intended to identifythe patchesand corridors that havea large influence on theconnectivityof anecological network，basedon data evaluated by indexes from graph theory.Taking
+
+Qingdao Cityasanexample，our studyconstructed wetlandand woodland ecological networks，andclassified these ecologicalnetworksbyacertainthreshold.Thisreatedaseriesofecological networksofthese twoecosystems withdifferent connection strengths.We proposed two standards（StandardIand Standard II）to analyze thedataproduced by the evaluation index CL-PIOP（Corelation Length-Percentage of Importance of OmittedPatches）．Ourresultsshow that: StandardIcan determinethe importanceof patchesandcorridors inecological networksof acertainconnectionstrength. StandardIcanalso subdividetheimportant patchesand corridors bythe statisticsof theimportanceof each connection strength.The most importantpatches basedonstandardIoverlapped with almostallthe larger patcheswhen they were rankedby size.Thisshows that patch area orother propertiescannot beusedasthesolecriterion forevaluating the maintenance of regional ecosystems.It also indicatessome patcheswith asmaller area should receive more attention, because theymayplayafundamentalrole intheoverallconnectivityoftheecological network.Inaddition，standard IIcan identifythe critical patchesandcoridorsthatcanconnecttwosub-networksofacertainconnectionstrengthbyanalyzing the patches andcorrdors with abnormal large CL-PIOPvaluesatasetconnectionstrength.Furthermore，thecritical patches recognized bystandard Iare not prominentintheirownproperties(e.g.,theirareas are not large），andthecorrdors may not standoutfromthenumerouscorridors thatdiferlitle，soare thereforhardtoidentifywithotherconventionalmethods. Overall，our study explored theapplicationof evaluation indexesfrom graph theorytoevaluateanecosystem within the framework of ecological networks.Furthermore，our study proposedtwo standards to determinethe important patchesand coridorsrapidly，which can providea quantitative database forregional ecological land evaluation，planning，protection, and restoration.
+
+Key Words:woodland ecological network；wetland ecological network ；correlation length；PIOP；Qingdao City
+
+自然生境破碎化是人类在土地使用过程中产生的两大主要问题之一[1]。表现为自然生境面积的缩小及自然生境之间联系的减弱,限制了物种扩散、迁移以及基因交换的机会,从而增加了生态系统的脆弱性。
+
+我国城镇化正在经历前所未有的快速发展时期。2014年城镇常住人口7.49亿人,城镇化水平达到了$5 4 . 7 7 \% ^ { [ 2 ] }$ 。从城镇化趋势看,我国还将继续以较高的速度持续城镇化进程。因此,城市对土地的巨大需求仍在继续,在人多地少的背景下,保证城镇发展必要的土地并尽可能减少其对生态系统破坏就显得非常重要。
+
+景观生态学中的生态网络(Ecological Network)概念,表述为生境破碎条件下生境的空间组织方式,用于分析景观空间模式与物种存续的关系,以维护生境破碎地区生物多样性[3-4]。由于生态网络中各结构要素的网络化连接,个别要素的消失不会改变一个地区生态系统的整体功能[3」,使得生态网络在空间结构和调整上有了一定的灵活性，从而为解决当前快速城镇化背景下生态保护与社会经济发展之间在空间上的矛盾提供了可能。目前,国际、国家和地区各个空间层面上都已经有生态网络的相关研究与实践的开展[5-1]。
+
+生态网络与自然保护区相比突出优势表现在其更加重视生态用地之间的连通性。图形理论为生态网络连通性的量化评价提供了有效的方法。已有许多学者提出了相应的评价指数[12-18]及评价软件[19-20],这些指数从不同角度反映生态网络结构要素在维护生态网络连通性与完整性的重要程度。基于图形理论中的相关评价指数,国内外学者展开了生态网络要素的评价,如 Pajek 软件的中介性[21]评价方法、PC 指数[2-23]、IIC 指数[23-25]、dI指数[25] $\mathsf { B C I } ^ { [ 1 1 ] }$ 指数等都被用于计算具有重要意义的生态网络要素。
+
+基于当前研究的分析,现有的指数能够回答在同一个生态网络框架下，结构要素的重要程度。但现实情况是,由于分析的物种不同、生态系统保护目标的不同,同一地区可能存在不同等级的生态网络[3],发现那些在不同等级生态网络过渡中发挥重要作用的结构要素将会使得生态保护工作事半功倍。此外,现有的研究更倾向于结构要素中斑块的评价,而廊道的重要程度较少的明显提及。由此,本文以东部经济较发达城市青岛市为研究区,采用最小成本路径模型构建该地区两大生态系统(林地、湿地)的生态网络。基于图形理论中的相关长度指数及PIOP方法对两大生态网络结构要素进行评价，并对评价数据深入分析,试图回答如下问题：(1)如何确定一个地区中对生态网络连通性维护与增强起到重要作用的网络斑块？（2)如何确定在生态网络转换中起到关键作用的网络斑块？（3)哪些廊道在上述两类重要斑块的连接中起到了不可替代的作用？本研究试图为基于图形理论的评价结果的深入挖掘与解读提供一种启发式的思路，为快速城镇化地区城生态用地保护与恢复提供量化的技术方法与数据依据。
+
+# 1研究区域与数据来源
+
+# 1.1 研究区域
+
+青岛市位于山东半岛南端( $( 3 5 ^ { \circ } 3 5 ^ { \prime } - 3 7 ^ { \circ } 0 9 ^ { \prime } \mathrm { N } , 1 1 9 ^ { \circ } 3 0 ^ { \prime } - 1 2 1 ^ { \circ } 0 0 ^ { \prime } \mathrm { E } )$ 、黄海之滨,西与潍坊市相连,东北与烟台市毗邻,西南与日照市接壤。青岛市地处海洋生态系统与陆地生态系统的交汇处,生态环境极为脆弱,易遭受外力破坏,且难以恢复。
+
+# 1.2 数据来源
+
+本文所采用的数据包括：基于环境1号卫星2013年9月获取的 $3 0 \mathrm { m }$ 分辨率的影像数据、中国1:25万土地覆盖遥感调查与监测数据库提供的 2005 年土地利用数据在 ERDAS 软件支持下得到 2013 年土地利用数据;中国科学院计算机网络信息中心国际科学数据镜像网站提供的 $3 0 \mathrm { m }$ 分辨率数字高程模型（DigitalElevation Model,DEM)数据并通过ARCGIS软件生成相关数据。
+
+# 2研究方法
+
+# 2.1生态网络的构建及等级划分
+
+最小成本路径模型（Least Cost Path,LCP）方法可以在数据较难保证的情况下构建区域生态网络[26-28]由于生态网络构建并非本文讨论重点，因此生态网络构建的具体方法沿用了已有的研究基础[29]：在研究区域相关物种分析基础上引入通用物种[30-34],采用专家打分的方式获得相应的景观成本值并生成成本面,用不同距离阈值的廊道与斑块组成不同等级的生态网络,对应相应扩散能力物种生存的生态网络。生态网络的构建实现技术则基于ARCGIS 开发包在Microsoft Visual Studio.Net开发平台上开发完成。
+
+# 2.2 生态网络的评价方法
+
+# 2.2.1 评价指数的选择
+
+选用相关长度(Correlation Length,CL）[14]（公式1)作为基础评价指数,该指数用于计算给定扩散能力的物种在到达其能力所及的斑块边界时移动的平均距离。生态网络的连通性越强,网络连接越紧密，则关联长度指数的值越大。
+
+$$
+C = \frac { \displaystyle \sum _ { i = 1 } ^ { m } n _ { i } \cdot R _ { i } } { \displaystyle \sum _ { i = 1 } ^ { m } n _ { i } }
+$$
+
+式中， $n _ { i }$ 表示斑块集合 $i$ 中斑块所覆盖的像素个数， $m$ 表示同一斑块集合中所包含的斑块的个数， $R _ { i }$ 表示斑块集 $i$ 的回转半径（radiusofgyration），其定义如公式2所示
+
+$$
+R _ { i } = { \frac { \displaystyle \sum _ { j = 1 } ^ { n _ { i } } { \sqrt { { \big ( } x _ { j } - { \overline { { x _ { i } } } } { \big ) } ^ { 2 } + { \big ( } y _ { j } - { \overline { { y _ { i } } } } { \big ) } ^ { 2 } } } } { n _ { i } } }
+$$
+
+式中， $x _ { j }$ 和 $y _ { j }$ 表示斑块集合 $i$ 中第 $j$ 个斑块像素的横坐标和纵坐标, $x _ { i }$ 和 $y _ { i }$ 分别表示斑块集合 $i$ 中核心网络斑块所有像素横坐标和纵坐标的平均值。
+
+将公式1代入公式2可以得到：
+
+$$
+C = { \frac { \displaystyle \sum _ { i = 1 } ^ { m } \sum _ { j = 1 } ^ { n _ { i } } { \sqrt { ( x _ { j } - { \overline { { x _ { i } } } } ) ^ { 2 } + ( y _ { j } - { \overline { { y _ { i } } } } ) ^ { 2 } } } } { \displaystyle \sum _ { i = 1 } ^ { m } n _ { i } } }
+$$
+
+http://www.ecologica.cn
+
+# 2.2.2生态网络结构要素重要程度评价
+
+生态网络结构要素包括生态网络斑块(下文简称斑块)以及生态网络廊道(下文简称廊道)。采用 PIOP（Percentage of Importance of Omitted Patches）方法作为生态网络中各结构要素在生态网络连通性中重要程度的评价方法[14,16],PIOP方法的采用了如下评价思路：分别移去网络中每个斑块及与其连接的廊道（每条连接廊道),计算经过这一处理得到的新网络的CL值,与之前完整网络的CL值进行对比,从而获得每个斑块（廊道)在网络中的重要性（公式4)。由于在本文中PIOP 基于CL指数,因此下文该评价方法简称CL-PIOP。
+
+$$
+I _ { _ { C k } } = \frac { C - C _ { k } } { C }
+$$
+
+基于CL-PIOP评价结果,本文提出关于斑块或廊道重要程度评价的两条标准：
+
+(1)斑块或廊道重要程度评价标准I
+
+通过公式1、2、3、4可知,CL-PIOP 值本身就可以反应各斑块或廊道在当前等级生态网络中发挥作用的重要程度。CL-PIOP值分析也是当前基于图形理论中相关评价指数获知斑块及廊道(特别是斑块)重要程度的主流思路[3]。通过其在各等级生态网络下作用大于平均值的次数统计（后文称重要性频次),可以进一步评价核心斑块的重要程度。例如,如果一个斑块在各等级网络中重要程度均大于斑块平均水平,说明这些斑块对于各扩散能力的物种存续都有重要意义。
+
+(2)斑块或廊道重要程度评价标准Ⅱ
+
+本文基于廊道的长度进行了基于距离阈值的划分,从而得到了一系列不同等级的生态网络（生态网络，生态网络,,,生态网络)。通过对比相同斑块在不同等级生态网络中的CL-PIOP值可以发现,其变化的趋势、强度随着斑块连入网络结构的不同而有不同程度的变化。通过对那些在生态网络,中CL-PIOP 值突然变大的斑块的分析，其原因是在生态网络 $\mathbf { \Omega } _ { n }$ 下,由于该斑块的存在,使得两个在生态网络 $\dot { \mathbf { \mu } } _ { \mathrm { n - 1 } }$ 中尚未连接的子生态网络在生态网络,中连接成一个整体。生态网络中CL-PIOP值越大,说明两个连为整体的子网络的CL值越$n$ 大。同时,在生态网络,中新增的与该斑块线连接的廊道也发挥了重要作用。因此,这些在生态网络,中CL-PIOP 值异常变大的斑块以及相关廊道理应引起足够的重视。正是基于上述思路,斑块或廊道重要程度评价标准Ⅱ是通过对各斑块在不同等级生态网络中CL-PIOP值的对比,找到存在某一（几个)等级下出现异常增大现象的斑块,同时找出与之相连的在该等级下新增的廊道,并基于这些廊道的CL-PIOP值,得到不可替代廊道（CL-PIOP 值 $> 0$ )及其不可替代性（CL-PIOP 值越高,不可替代性越高）。
+
+# 3分析结果
+
+3.1 研究区域生态网络
+
+3.1.1不同连接路径成本阈值下的湿地生态网络
+
+以河流湖泊、沼泽滩涂用地作为林地生态网络斑块。设定1000 为间隔阈值,得到等级为 5000—20000 的湿地生态网络（图1）。
+
+3.1.2不同连接路径成本阈值下的林地生态网络
+
+以针叶林、阔叶林、混交林为林地生态网络斑块。设定1000为间隔阈值，得到等级为5000—20000的林地生态网络（图2）。
+
+3.2生态网络框架下斑块、廊道的重要程度
+
+3.2.1基于标准I得到的重要斑块
+
+将各斑块CL-PIOP值的平均值作为在该等级下重要程度的筛选标准。通过这一设定,基于标准I,湿地生态网络有102个斑块(共308个，占总数的 $3 3 \%$ )入选(图3)。林地生态网络有261个斑块(共914个，占总数的 $2 8 . 6 \%$ )入选(图4)。
+
+![](images/7e13f6e24672610521b49952092cc9a79fd5e998c96cf8852493e152cef0fa5f.jpg)  
+图1研究区域湿地生态网络（以5000、12000、20000 等级的生态网络为例)Fig.1Wetland ecological network（take ecological networks withconnect strength of 5000，12000 and 20000 as examples)
+
+![](images/93a36cf930ca8b382cdd00f3e2f34c24e7063c71c8b3a7b9a57431037a3a8021.jpg)  
+图3基于标准I的湿地生态网络重要斑块与廊道 Fig.3Important patches and corridors in wetland ecological networks based on standard I
+
+![](images/4880a45442501f8c5f71377cc39dbaf8e2c57b1240adabcd1a3dcbfd37715a4a.jpg)  
+图2研究区域林地生态网络（以5000、12000、20000等级的生态网络为例)Fig.2Woodland ecological network（take ecological networks withconnect strength of 5000，12000 and 20000 as examples)
+
+![](images/b86221d4e7c5371f185360d9b6a9f8da5c6984d87335b1d3c1fd00e2fd253cdd.jpg)  
+图4基于标准I的林地生态网络重要斑块与廊道 Fig.4Important patches and corridors in woodland ecological networksbased onstandard I
+
+# 3.2.2基于标准I得到的重要廊道
+
+廊道的CL-PIOP值大于0,表示该廊道的缺失将改变生态网络的CL值,使得生态网络的结构发生改变，该廊道便是生态网络中的不可替代廊道。CL-PIOP值的大小则可以表示其作为不可替代廊道在生态网络发
+
+挥作用的程度。湿地、林地生态网络中发挥不可替代作用的廊道如图3、图4所示。
+
+# 3.2.3 基于标准Ⅱ得到的重要斑块
+
+利用 SPSS17.0软件中描述统计的探索工具,基于各斑块在各等级下的CL-PIOP值,得到箱线图（图5,图6),发现存在异常大值的斑块（图7,图8）。
+
+![](images/7e583e76239f5828d4831244c2ceb7f4c3aaac4eba8a71d92020c7ec78a489c9.jpg)  
+图5湿地生态网络中异常大值斑块
+
+Fig.5Patches with abnormal large CL-PIOP values in wetland ecological networks
+
+![](images/3774d4d7862500059ee740fee339d34de2ab83cb351d9d8446fc55619b470682.jpg)  
+图6林地生态网络中异常大值斑块
+
+Fig.6Patches with abnormal large CL-PIOP values in woodland ecological networks
+
+http://www.ecologica.cn
+
+# 3.2.4基于标准Ⅱ得到的重要廊道
+
+在新等级网络中与重要斑块相连的不可替代廊道便成为了重要廊道（图7,图8）。
+
+![](images/3019d51140abdc9143ec9924a75f8e66196d838059427412b0e950f11be80128.jpg)  
+图7基于标准Ⅱ得到的湿地生态网络重要斑块与廊道
+
+![](images/2c44e1f5f8f3f2fdd8d2ec5014fad1165dccfed72080f12a344b129a655a0535.jpg)  
+图8基于标准Ⅱ得到的林地生态网络重要斑块与廊道 Fig.8Important patches and corridors in woodland ecological networks based on standard II
+
+# 3.3 结果对比分析
+
+3.3.1 基于标准I的斑块评价结果与其面积对比
+
+通过图9可以发现：湿地斑块在16个等级的生态网络中的重要性频次与其面积的排序在总的趋势上并没有表现出一致的特性。图10可以发现：林地斑块在16个等级的生态网络中表现为重要的频次与其面积的排序在总的趋势上表现较为一致,但存在大量斑块其重要程度与面积的排序并不相符。总体来说,基于标准
+
+![](images/57d70382312bec8a829308a8e8790fe81426b099d9cb07ec805afbf97076d6eb.jpg)  
+Fig. 7 Important patches and corridors in wetland ecological networks based on standard I   
+图9基于面积排名的湿地斑块重要性频次分布图(标准I）
+
+Fig.9 Patch importance frequency based on patch area ranking in wetland ecological networks（Standard I)
+
+http://www.ecologica.cn
+
+I的斑块重要程度识别,几乎已经将面积排名靠前的斑块全部包括。
+
+![](images/d6bb72c819f75ad5de39c3849993a47e6c94b248dddb576f94ee8229a3be19e6.jpg)  
+图10基于面积排名的林地斑块重要性频次分布图(标准I)
+
+Fig.10Patch importance frequency based on patch area ranking in woodland ecological networks（StandardI)
+
+![](images/df45f13f6c9806b56a39d82b91bb1f707a993c4265fa5979ab2f4954a5e708d0.jpg)  
+图11基于斑块面积排名的湿地斑块重要性频次分布图(标准Ⅱ)
+
+Fig.11 Patch importance frequency based on patch area ranking in wetland ecological networks（Standard I)
+
+![](images/f78dac2a95e328e48b37474b5f798477d4e9700bc7bc79bcba4de4dda6b194d0.jpg)  
+图12基于斑块面积排名的林地斑块重要性频次分布图(标准Ⅱ)
+
+Fig.12Patch importance frequency based onpatch arearanking in woodland ecological networks（StandardII)
+
+# 3.3.2基于标准Ⅱ的斑块评价结果与其面积的对比
+
+由于标准Ⅱ对斑块有了较大幅度的筛选，在对比面积时，本文采用了该斑块面积占生态网络中最大斑块面积的比值代替。通过图11、图12可以看到,标准Ⅱ筛选得到的重要斑块中,面积最大的斑块仅是该网络最
+
+大斑块面积的 $3 . 9 \%$ (湿地网络)和 $3 0 \%$ （林地网络)。而且重要性频次排名与面积排名之间并无明显的联系。
+
+![](images/e304b7420e5123e15f10b9beeecd17419fc844f0e4aac86d557e9e8749ef5bcb.jpg)  
+图13湿地网络基于标准I与标准Ⅱ得到的重要斑块比较
+
+Fig.13 Comparison of important patches of wetland ecological network base on standard Iand standard I
+
+![](images/bf9e81c96cc5050bc1efa576859f7c9c57b792baa6e8e384e131297201acc246.jpg)  
+图14林地网络基于标准I与标准Ⅱ得到的重要斑块比较
+
+Fig.14 Comparison of important patches of woodland ecological network base on standard Iand standard II
+
+# 3.3.3 标准I与标准Ⅱ的比较
+
+图13、图14是将标准Ⅱ中得到的重要斑块赋上其在标准I中的重要程度得到的。在湿地网络中,标准Ⅱ的重要程度与标准I得到的重要程度在趋势上呈现了较为明显的正相关,而在林地网络中则并不明显。
+
+3.4对青岛市林地、湿地两类生态用地保护的启示
+
+在青岛市湿地生态网络中： $\textcircled{1}$ 重要的湿地斑块在湿地生态网络中形成了一个完整的主线,即以中部胶州湾湿地为中心，向南、东北、西北3个方向延伸； $\textcircled{2}$ 重要的湿地廊道也较为明显，这些廊道的出现表明湿地斑块的连接是通过众多不可替代廊道形成的,反映了该地区湿地生态网络的稳定性较弱，一旦部分不可替代廊道消失，将会对整个区域网络的连通性产生较大影响； $\textcircled{3}$ 沿海零散分布的小面积湿地在湿地生态网络的连通性增强作用突出,应在岸线保护中予以重点关注。在青岛市林地生态网络中： $\textcircled{1}$ 重要的林地斑块在空间分布上呈现大分散,小集中的形态,形成了北部(大泽山）、东部(崂山)和南部(藏马-铁撅山)3个林地生态子网络，且3个子网络之间的连接缺失; $\textcircled{2}$ 在子网络内部,由于大小林地分布较为密集,林地斑块之间连接多样化，不可替代廊道较少，所出现的为数不多的不可替代廊道更加应该引起足够的重视。
+
+# 4讨论与结论
+
+生态网络是一个地区实际生态系统之间相互联系客观存在的生态空间。生态网络分析研究的目的是通过采取一定措施增加区域中破碎、孤立的自然生境之间结构与功能上的联系,从而促进生态系统中物质、能量、信息的流动,进而维护一个地区生态系统的稳定。生态网络建模中,廊道的选择是基于代表不同物种扩散迁徙能力的不同阈值,在实际分析中,由于生态学数据采集较为困难,关注的物种较多等因素这一阈值通常难以确定。因此通过一组阈值而构建不同等级的生态网络是一个很好的解决方案。等级划分使得阈值概念变成了一个相对比值,由此解决阈值单位难以确定的问题。除此之外,通过等级划分可以表征不同保护需求,这对分层次、有重点的生态用地规划与保护也具有指导意义。
+
+标准I通过各级网络中斑块CL-PIOP的平均值作为标准识别重要斑块。几乎将面积排名靠前的斑块全部包括,从这方面来看,该方法可以替代过去仅仅以面积作为评价指标的方法;此外,标准Ⅰ的重要程度排名与面积排名并非完全一致,这也说明,在生态网络框架下,面积并不能作为生态用地在区域生态系统维护重要程度评价的唯一标准，一些面积较小的斑块,往往也发挥巨大作用。因此,标准I是对以面积(或斑块的某一个或几个属性)为唯一标准的斑块重要性评价方法的完善。此外,CL-PIOP方法能够快速准确的发现具有不可替代性的廊道。从而,基于此标准能够得到有重要斑块及不可替代廊道构成的生态网络骨干框架。
+
+标准Ⅱ通过某相邻等级生态网络要素CL-PIOP值对比发现变化异常的斑块,进而确定网络等级提升中起到重要作用的关键斑块。通过查找与这些斑块相连的且CL-PIOP值不为零的廊道，可以进一步确定关键廊道。这些关键斑块也许原本并不突出（比如面积不大),构成这种关键连接的廊道也隐藏于与其相差不大的成千上万条廊道中,以往常规的方法往往无法识别出来。通过标准Ⅱ,更加突出斑块在整个生态网络连接中所能发挥的重要作用,这有利于发现发挥重要作用且面积较小的斑块,而这种类型的斑块在当前研究中正得到重视[24,36-37]
+
+3.3 节中发现,与林地网络相比,湿地网络在基于标准I的重要性频次与面积的关系以及基于标准Ⅱ和标准I重要性频次关系上都表现出较为明显的相关性。对比湿地生态网络(图1)与林地生态网络（图2）,出现上述结果是由于林地斑块在密度上要大于湿地斑块,林地斑块之间的联系更加错综复杂,由此削弱了由于面积而带来的优势地位。因此,对于生态用地空间分布密度较小的地区,应该更加注重大型斑块的保护与恢复。
+
+本文所使用的方法仍存在诸多不足,需要在未来的研究中改进。比如生态网络构建是基于图形理论生态网络要素评价的基础,目前广泛采用的是最小成本路径方法构建中,在物种选择、阻力值赋值以及不同等级生态网络划分阈值确定等方面存在很大的主观性。此外,如果研究地区生态网络结构要素数量众多,计算方法也许要做相应的改进以提高计算效率。
+
+致谢：感谢环境保护部卫星环境应用中心万华伟博士为本研究提供的环境1号卫星数据。
+
+# 参考文献（References）：
+
+[1]JongmanRHGHomogenisatioandfragmentationoftheEropeanlandscape：cologicalcosequencesandsolutios.LandscapadUrbanPlanning，2002，58(2/4)：211-221.  
+[2］中国经济网.国家统计局;2014年中国城镇化率达到 $5 4 . 7 7 \%$ [EB/OL].[2015-09-10] htp://politics.people.com.cn/n/2015/0120/c70731-26417968.html.  
+[3]OpdamteingrverEanoiSolocaleo：atilptfui-cngofstaabledasaedUrban Planning，2006,75(3/4）：322-332.  
+[4]JngmanRHG，Kilvik M,KritiansenI.EuropeancolgcaletorksndgreewaysLandscapeandUbanPaing，0，68（/3）：305-319.  
+[5]SeppKsieltalolcaleoksinefoeoloWarsaw:IUCN Office for Central Europe，2002.  
+[6]BeettG,ulogyKJRevieofExperecithEcologcalNetoks，rdordBferZes.CchcalSries.treal:Secretariat of the Convention on Biological Diversity，2OO6：100-100.  
+[7]JonganRHG,ouaI,Grifoen,Jos-WltersLVanDAM.epanEropeanologicalnetork：EELandapeEolog2011，26(3):311-326.  
+［8］刘滨谊，王鹏.绿地生态网络规划的发展历程与中国研究前沿.中国园林，2010,26(3）：1-5.  
+[9］尹海伟，孔繁花，祈毅，王红扬，周艳妮，秦正茂.湖南省城市群生态网络构建与优化.生态学报,2011,31（10)：2863-2874.  
+[10] 陈剑阳，尹海伟，孔繁花，幺贵鹏.环太湖复合型生态网络构建.生态学报,2015，35(9)：3113-3123.  
+[11] 傅强，宋军，毛锋，吴永兴，姚涵，唐剑波.青岛市湿地生态网络评价与构建.生态学报，2012，32（12)：3670-3680.  
+[12] MinorES,UrbanDLAgathofraeorkforvaluatinglasaoivityndoseatiopingoseatiool2(2):297-307.  
+[13] Pascual-HortalLSauraSomparisonnddevelopentofnewgapbasedlandsapecoectivityidices：owardsteproritatioofbitatpatches and corridors for conservation.Landscape Ecology，2006,21（7）：959-967.  
+[14]KeitTUrbanD，ieBDetectingcritialsalesinfragmntedlandsapesCoservatoEcolog99（1）：4-4tp:/ww.consecol.org/voll/iss1/art4/.  
+[15] Urban D，Keitt T.Landscape connectivity：a graph-theoretic perspective.Ecology，2001，82(5）：1205-1218.  
+[16] BunAG，UbanD，eitTH.LandscapecoectivityAconservationaplicationofgaphtheoryJoualofEnviroentalManageent,2000，59(4):265-278.  
+[17] Urban DL,MinorES,Treml EA,Schick R S.Graph modelsof habitat mosaics.Ecology Leters,209,12(3)：260-273.  
+[18] Pascual-HortalL,SauraSpactofsatialsaleotidentifatioofrialbiatpatchfeaintenaceofladscaecoctiiLandscape and Urban Planning,2007,83(2/3）：176-186.  
+[19] SauraS，ToréJ.ConeforSensinode.2：AsoftwarepackageforquantifyingheimportanceofhabitatpatchesforlandscapecoectivityEnvironmental Modelling& Software,2009,24（1）：135-139.  
+20Folteteeudeaeaedelfsapetael38: 316-327.  
+21]MinorEbiallciulaelseolaAas(6): 1771-1782.  
+[22] Clauzel,BaartheenteatigalaleoeiiibatstoratiAnatiofoaeaioeastern France.Journal for Nature Conservation，2015,23：98-107.  
+[23] 许峰，尹海伟，孔繁花，徐建刚.基于MSPA与最小路径方法的巴中西部新城生态网络构建.生态学报，2015，35（19)：6425-6434.  
+[24] 陈春娣，Colin MD,MariaIE,Glenn SH，吴胜军.城市生态网络功能性连接辨识方法.生态学报，2015，35（19)：6414-6424.  
+[25] CrouzeillesR，LoriniML，GrelleCEV.TheimportanceofusingsustainableuseprotectedareasforfunctionalcoecivityBiologicalConservation，2013，159：450-457.  
+[26] PhilipsSJildgOgspoofaroteeinokolatis,2008,18(5): 1200-1211.  
+[27] RougetM，CowlingRM,LombardAT,KnightAT,KerleyGIH.Designinglarge-scaleconservationcorrdorsforpaternadro.Conservation Biology，2006，20(2）: 549-561.  
+[28]SawyerSC,EsCWrasharesJS.acinginkagesaongfragmentedabiats:doleastostodelsefecthowanialsuseladscapes.Journal of Applied Ecology，2011,48(3）：668-678.  
+[29] 傅强.基于生态网络的非建设用地评价方法研究[D].北京,2013  
+[30] AdriaensenF，ChardonJP,DeBlustG，SwinnenE，VillabaS，Gulinck H，MattysenE.Theaplicationof‘least-costmodelingasafunctional landscape model.Landscape and Urban Planning，2003,64(4）：233-247.  
+[31]PintoNKitdstostathaatigdoddingaetroachdaeo4(2):253-266.  
+32]RaeCotgecpascetalsiialdvariables in a reserve design exercise.Landscape and Urban Planning，2OO7,79(3/4)：210-217.  
+[33]WasKEyoAE,HandeyP,RaD,HumpWQuineC.Trgetingdevauatigdiversityoseatioctofrelandscapes：anapproach based ongeneric focal speciesand least-cost networks.Landscape Ecology,20lo,25（9）：1305-1318.  
+[34]OpSistoalEcologyand Society，2008,13(1)：20-20.http://www.ecologyandsociety.org/vol13/iss1/art20/.  
+[35]FleteJC，GirardetX，ClazelC.Ametodologicalframeworkfortheseflndscapegraphsinland-useplaingLandscapeandUrbanPlanning，2014,124：140-150.  
+[36]TischendorfL,FahrigL.Ontheuseofconnectivity measuresin spatial ecology.Areply.Oikos，2Ool,95(1):152-155.  
+[37] SchadtS,KaerF，KazenskyevillE，Wigandreplule-basedessmentfitablebiatadpatcoctiorEurasian lynx.Ecological Applications，2002，12(5）：1469-1483.

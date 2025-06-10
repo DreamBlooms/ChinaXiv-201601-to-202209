@@ -1,0 +1,411 @@
+[
+    {
+        "type": "text",
+        "text": "紫玉兰‘红元宝’MI3GT1基因的克隆及表达分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王卓为¹，戴梦怡¹，程少禹¹，王小德¹，王亚玲²，申亚梅1，张超1\\*(1.浙江省园林植物种质创新与利用重点实验室/南方园林植物种质创新与利用国家林业和草原局重点实验室/浙江农林大学风景园林与建筑学院，杭州311300；2.西安植物园，西安 710061)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：UDP-类黄酮 3-O-葡萄糖基转移酶(3GT)是花青素生物合成途径的重要催化酶之一。为研究其在紫玉兰花青素苷合成途径中的作用，该文以紫玉兰品种‘红元宝’(Magnolialiliflora‘Hongyuanbao')为材料，根据转录组测序获得的3GT序列设计引物，利用RT-PCR技术克隆花青素苷生物合成途径中的结构基因MI3GT1，并对其进行生物信息学和表达模式分析。结果表明：（1)MI3GT1基因的cDNA序列长度为 $1 8 6 3 \\mathrm { b p }$ ，其中最长开放阅读框(ORF)为1374bp，编码一条457aa 的肽链，相对分子质量为 $4 9 . 3 7 \\mathrm { k D a }$ ，理论等电点(pI)为6.04。(2)氨基酸序列比对显示其具备典型的植物次生产物糖基转移酶信号序列(PSPGbox)。（3）系统发育分析结果表明，MI3GT1蛋白与小苍兰、矮牵牛、番薯等物种的3GT 蛋白聚在一支。（4）qRT-PCR 结果显示MI3GT1基因的表达具有时空特异性，在花中的表达量最高，在嫩叶和老叶中有少量表达，而在根和茎中几乎不表达；且随着花的发育，MI3GT1基因的表达量呈现先降低后升高的趋势，并在盛花期达到最高。上述结果表明，MI3GT1可能参与类黄酮3-O的糖基化修饰，本研究结果将为木兰属植物花色育种研究奠定基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：紫玉兰，花色，糖基转移酶，基因克隆，表达分析中图分类号：Q943 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cloning and expression analysis of Ml3GT1 in Magnolia ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "liliflora ‘Hongyuanbao? ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Zhuowei1,DAI Mengyi', CHENG Shaoyu1, WANG Xiaode1,WANG Yaling2 SHEN Yamei', ZHANG Chao1\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1. Zhejiang Provincial Key Laboratory of Germplasm Innovation and Utilization for Garden Plants/Key Laboratory of National Forestry and Grassland Administration on Germplasm Innovation and Utilization for Southern Garden Plantsl School ofLandscape Architecture,Zhejiang A &F University,Hangzhou 311300,China; 2. Xi'an Botanical Garden, Xi'an 710061, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: UDP-flavonoid 3-O-glucosyltransferase (3GT） is one of the important catalytic enzymes in the anthocyanin biosynthesis pathway. To study the function of 3GT in anthocyanin biosynthesis of Magnolia liliflora,M. liliflora ‘Hongyuanbao'was employed as materials.Primers were designed based on the 3GT sequence obtained from the transcriptome database of M. liliflora ‘Hongyuanbao',and the structural gene Ml3GT1 in anthocyanin biosynthesis pathway was cloned by RT-PCR (reverse transcription-PCR)，and its bioinformatics and expression pattern were analyzed. The results were as follows: (1） The cDNA of Ml3GT1 was 1 836 bp,and the open reading frame was 1 374 bp, encoding 457 amino acid residues. The relative molecular weight of ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ml3GT1 was $4 9 . 3 7 \\mathrm { k D a }$ ,and its isoelectric point was 6.O4.(2) The deduced amino acid sequence of Ml3GT1 contains a conserved plant secondary product Glycosyltransferase signature sequence (PSPG box). (3) Results of the phylogenetic analysis showed that Ml3GT1 was closely relative to 3GT proteins from Freesia hybrida,Petunia $\\times$ hybrida,and Ipomoea batatas.(4) Results of fluorescence quantitative PCR revealed that $M l 3 G T 1$ has spatio-temporal specificity,with the highest expression level in flowers,the lower expression level in young leaves and old leaves,and trace expression level in roots and stems; With the development of flowers,the expresson level of Ml3GTl gene decreased first,then increased,and showed the highest expression level at the fully-opening stage. These results suggest that Ml3GT1 may be involved in flavonoid glycosylation. This study will lay a foundation for the flower and color breeding of Magnolia plants. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Magnolia liliflora,flower color, glycosyltransferase, gene cloning, expression analysis ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "花色是观赏植物重要的品质性状之一，花青素苷(anthocyanin)是由花青素苷元(anthocyanidin)和糖组成的糖苷，是影响花色的一类重要色素物质(戴思兰和洪艳，2016)。目前，关于花青素的生物合成途径的研究已经比较深入。图1显示花青素生物合成通路上的3条主链产生矢车菊素(Cyanidin)、天竺葵素(Pelargonidin)以及飞燕草素(Delphinidin)，矢车菊素甲基化生成芍药色素(Peonidin)，矮牵牛色素(Petunidin)和锦葵色素(Malvidin)则由飞燕草素不同程度的甲基化而来，共同构成了自然界中6种主要花色素(朱丽娟等，2012)。对花青素苷元进行糖基化修饰，可形成稳定的花青素苷并对呈色具有重要作用(招雪晴等，2017)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在植物花色形成过程中，UDP-类黄酮3-O-葡萄糖基转移酶(UDP-flavonoid3-O-glucosyltransferase，3GT)通常作用于花青素苷合成途径的最后一步，能够催化UDP-葡萄糖中的糖分子转移到花色素的C3羟基位点上，将花青素转化生成该通路上第一个稳定的花青素苷(Sui etal.,2011)。花青素在自然条件下性质不稳定，易通过糖苷键与糖形成花青素苷(Nakatsuka et al.,2008)，构成花青素苷的单糖主要有葡萄糖、鼠李糖、半乳糖、木糖和阿拉伯糖(庄维兵等，2018)。从化学的角度来看，糖的结合增加了花青素苷的稳定性和水溶性，花青素最常在C3位发生O-糖基化，其次是C5位的糖基化，糖基化使花青素很容易从细胞质的生产部位转移到液泡(Nakatsuka et al.,2008)，从而使颜色稍微向红色转变(Tanaka et al.,2008)。由此可见糖基化对花色的形成起到关键作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "第一个被发现可以催化花青素C3羟基糖基化的酶是玉米(Zea mays)Bronze-1(X13500)，由于花青素的积累较少，Bronze 突变体呈现出苍白的色粒(Dooner&Nelson,1977；Larson &Coe,1977)。迄今为止，3GT基因已经在矮牵牛(Petunia hybrida)(Jonsson et al.,1984)、三花龙胆(Gentiana trifloral)(Tanaka et al.,1996)、荷兰鸢尾(Iris hollandica)(Yoshihara et al.,2005)、小苍兰(Freesia hybrida)(Sui et al.,2011)、滇牡丹(Paeonia delavayi)(王毅等，2017)、葡萄风信子(Muscari armeniacum)(杜灵娟等，2017)等观赏植物中克隆得到。在大多数植物中，3GT的表达常常与花青素的积累正相关，如Fh3GT、MdUFGT，然而在有的植物中如 Ze3GT，其表达并不呈现正相关的趋势(Ban et al.,2009;Sui etal.,2011;Hu et al.,2016； Qian et al.,2021)。PeUFGT3在蝴蝶兰(Phalaenopsis equestris)红色形成中起着重要作用,抑制PeUFGT3的表达导致花青素含量的显著下降(Chen et al.，2011)。舒庆艳等利用 VIGS 技术沉默紫斑牡丹(Paeonia suffruticosa)PsUF3GT基因，3G型糖苷和3G5G 型糖苷都有不同程度的降低(舒庆艳等，2018)。由此可见，3GT基因在植物花色形成中具有重要作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/918eb3c60ff8a069e420cb0b689b9035450946fbecb2ba7f8ee497c51a026d55.jpg",
+        "img_caption": [
+            "图1花青素生物合成途径(Petroni & Tonelli,2011；Liu et al.,2018)"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CHS.查尔酮合成酶；FLS.黄酮醇合成酶；CHI.查尔酮异构酶；F3H.黄烷酮3-羟基化酶；F3'H.类黄 酮 $\\cdot 3 ^ { \\prime } .$ 羟基化酶；F3'5'H.类黄酮-3',5'-羟基化酶；DFR.二氢黄酮醇还原酶；ANS.花青素合成酶；UF3GT.   \nUDP-类黄酮 3-O-葡萄糖基转移酶；LAR.无色花青素还原酶；ANR.花青素还原酶。   \nCHS.Chalcone synthase; FLS.Flavonol synthase; CHI. Chalcone isomerase; F3H. Flavanone 3-hydroxylase;   \nF3'H.Flavonoid 3'-hydroxylase; F3'5'H.Flavonoid $_ { 3 ^ { \\prime } , 5 ^ { \\prime } }$ -hydroxylase; DFR.Dihydroflavonol 4-reductase; ANS.   \nAnthocyanidin synthase; UF3GT. UDP-flavonoid 3-O-glucosyltransferase; LAR.Leucoanthocyanidin reductase;   \nANR.Anthocyanidinreductase. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 The biosynthetic pathway of anthocyanin(Petroni & Toneli,2011；Liu et al.,2018 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "紫玉兰‘红元宝'(Magnolia liliflora‘Hongyuanbao')为木兰科(Magnoliaceae)木兰属(Magnolia)的多年生落叶灌木，是紫玉兰(Magnolia liliflora)的栽培品种，该品种花色深于紫玉兰。课题组前期研究显示，紫玉兰和紫玉兰‘红元宝’花被片中均含有4种在C3位芸香糖苷修饰的花青素苷，即矢车菊素3-O-芸香糖苷-5-O-葡萄糖苷 $( \\mathrm { C y 3 R u 5 G } )$ 、矢车菊素3-O-芸香糖苷(Cy3Ru)、芍药素3-O-芸香糖苷-5-O-葡萄糖苷 $\\mathrm { P n } 3 \\mathrm { R u } 5 \\mathrm { G } )$ 、芍药素3-O-芸香糖苷$( \\mathrm { P n 3 R u } )$ (Wang etal.,2019)。花青素的C3位芸香糖苷化修饰分两步完成，首先在3GT作用下 C3 位发生O-葡萄糖基化，随后鼠李糖转移酶(3-O-rhamnosyltransferase，3RT)才可以转移O-鼠李糖苷与O-葡萄糖苷相连形成芸香糖苷基团(Yamazakietal.,2002)。由此推测紫玉兰‘红元宝’花色形成过程中，3GT基因对4种花青素苷的合成具有重要的作用。所以为进一步揭示其功能，本研究基于转录组数据，筛选出3GT基因，并对其进行克隆和表达分析，研究结果为木兰属植物花色形成机理研究提供重要依据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1试验材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "紫玉兰‘红元宝'十年生实生苗种植于浙江农林大学平山试验基地 $( 1 1 9 ^ { \\circ } 4 2 ^ { \\prime } 5 4 . 6 7 ^ { \\prime \\prime }$ E、$3 0 ^ { \\circ } 1 5 ^ { \\prime } 5 0 . 0 9 ^ { \\prime \\prime } \\mathrm { N } )$ ，选择生长健壮且无病虫害的植株，于2019 年4月采取花蕾期(S1)、露色期(S2)、初开期(S3)、半开期(S4)、盛开期(S5)5个时期的最外轮花瓣(图 2)，锡纸包裹，液氮速冻固样。由于紫玉兰‘红元宝'为花叶同放，同时采集根、茎、老叶、嫩叶等组织部位的样品，保存在 ${ } ^ { - 8 0 } { } ^ { \\circ } \\mathrm { C } _ { 1 }$ 冰箱，用于RNA提取和荧光定量分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2总RNA的提取、检测与cDNA的合成",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "使用诺禾致源 UltraClean Polysaccharide and phenol Plant RNA Purification Kit (DNAfree)RNA 提取试剂盒(NHUC002S)，提取紫玉兰'红元宝'S1\\~S5 时期花瓣和根、茎、老叶、嫩叶等组织部位的总RNA。使用 PrimeScriptTM RT Master Mix (Perfect Real Time)(TaKaRacode:RR036A)进行反转录反应。反转录后得到的cDNA保存在 ${ } ^ { - 2 0 } \\mathrm { } ^ { \\circ } \\mathrm { C } _ { 1 }$ 冰箱备用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3MI3GT1基因克隆 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用本课题组前期构建的紫玉兰‘红元宝'花瓣转录组数据库(结果未发表)，以anthocyanidin/flavonoid 3-O-glucosyltransferase 为检索词，对注释到 $\\mathrm { N r }$ (non-redundant proteindatabase)数据库的基因注释进行筛选，得到的序列CL3388.Contig1再进一步通过 NCBI的BLAST 功能(https://blast.ncbi.nlm.nih.gov/Blast.cgi）进行 blastx 比对。在开放阅读框(openreading frame,ORF)框的两侧使用Prime Prime 5.0软件设计引物(表1)，引物由杭州有康生物技术有限公司合成。将紫玉兰‘红元宝'花发育的 S1\\~S5共5个时期的cDNA等量混匀，稀释10 倍作为模板，进行RT-PCR扩增。 $2 0 \\mu \\mathrm { L P C R }$ 反应体系如下：上下游引物各 $( 1 0 \\mu \\mathrm { m o l { \\cdot } L } ^ { - 1 } ) 1$ μL，cDNA 模板 $1 ~ \\mu \\mathrm { L }$ ，Premix Taq $1 0 \\mu \\mathrm { L }$ ， $\\mathrm { d d H } _ { 2 } \\mathrm { O } 7$ μL。反应程序： $9 5 ^ { \\circ } \\mathrm { C }$ 预变性 $5 \\mathrm { m i n }$ 后运行35个循环（ $9 5 ^ { \\circ } \\mathrm { C }$ 变性 $3 0 ~ \\mathrm { s }$ ， $5 9 . 6 ^ { \\circ } \\mathrm { C } \\ 3 0 \\ \\mathrm { s }$ ， $7 2 ^ { \\circ } \\mathrm { C } 2 \\operatorname* { m i n } .$ ； $7 2 ^ { \\circ } \\mathrm { C } 1 0 \\mathrm { m i n }$ ， $1 0 \\ \\mathrm { { ^ circ C } \\ 5 \\ m i n }$ 。PCR反应结束后，通过 $1 \\% \\mathrm { ( w / v ) }$ 琼脂糖凝胶电泳分离目的片段。切胶后，使用TaKaRaMiniBESTAgarose Gel DNA Extraction Kit Ver.4.0(TaKaRa code:No.9762)试剂盒按照使用说明书进行胶回收。回收后，取适量的回收产物连接至pMDTM18-T Vector(TaKaRa code:No.6011)。连接产物转化大肠杆菌Escherichia coli $\\tt D H 5 a$ Competent Cells(TaKaRa code:No.9057)，蓝白斑筛选后挑单克隆进行菌落PCR 鉴定，条带正确的送至杭州有康生物技术有限公司进行DNA测序。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4MI3GT1基因的生物信息学分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "使用 SnapGene 4.1.8软件去除载体序列，获得目的基因序列；使用DANMAN7.0 软件将核苷酸序列翻译成蛋白质序列；利用NCBI提供的ORFfinder(https://www.ncbi.nlm.nih.gov/orffinder/)分析序列的编码区；利用CDD蛋白保守结构域数据库(https://www.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.cgi)分析蛋白的保守域；利用 ProtParam(https://web.expasy.org/protparam/)在线软件对紫玉兰‘红元宝'Ml3GT1蛋白序列的分子量、等电点、不稳定系数、脂肪指数和亲疏水性等理化性质进行预测；利用 protscale 在线网站分析该蛋白质的亲/疏水性(https://web.expasy.org/protscale/)；利用SOPMA 在线软件(https://npsa-prabi.ibcp.fr/cgi-bin/secpred_sopma.pl)预测Ml3GT1 蛋白序列的二级结构；利用SWISS-MODEL 在线网站(swissmodel.expasy.org)预测 Ml3GT1 蛋白的三级结构；使用DNAMAN7.0进行多序列比对，使用MEGA6.0软件构建系统发育进化树，系统发育进化树的构建在序列比对后，采用邻接法建树(Neighbor-joining，NJ)，bootstrap 重复1 000 次获得分支可信度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5MI3GT1在花开放的不同时期与组织的表达分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "使用LightCycler 480 II(Roche)实时定量PCR仪进行基因表达相对定量分析。反应体系：模板 $2 \\mu \\mathrm { L }$ ，上下游引物各 $0 . 8 ~ \\mu \\mathrm { L }$ ,荧光染料BCG QpcrMaster $\\mathrm { M i x } ( 2 \\times ) 1 0 \\mu \\mathrm { L }$ 和 $6 . 4 \\mu \\mathrm { L } \\mathrm { d d H } _ { 2 } \\mathrm { O }$ 。通过两步法进行qRT-PCR，扩增程序为 $9 5 ~ ^ { \\circ } \\mathrm { C }$ 预变性后 $3 0 ~ \\mathrm { s }$ 后运行40个循环的（ $9 5 ^ { \\circ } \\mathrm { C } 5 \\mathrm { \\ s }$ $6 0 \\ { } ^ { \\circ } \\mathrm { C } \\ 3 0 \\ { } \\mathrm { s } )$ ，后运行（ $9 5 ^ { \\circ } \\mathrm { C } 5 \\mathrm { s }$ ， $6 0 ^ { \\circ } \\mathrm { C } \\mathrm { ~ l ~ m i n }$ ， $9 5 ^ { \\circ } \\mathrm { C } 1 5 \\mathrm { ~ s ~ } \\dot { }$ )。对反转录得到的cDNA分别进行5的倍数梯度稀释，以MbTEF为内参基因(王宁杭等,2019),每个样品设置3个生物学重复。采用 $2 ^ { - \\Delta \\mathrm { C t } }$ 计算目的基因的相对表达量。使用 SigmaPlot14.0 软件进行数据分析和绘图。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1紫玉兰‘红元宝'MI3GT1基因克隆及荧光定量引物",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Table 1 Primers for cloning and real-time quantitative PCR of Ml3GT1 in Magnolia liliflora ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/fcb9d219118a0f21c79acde5fe5c10255bd6e2cfea800927090892816418d475.jpg",
+        "table_caption": [
+            "\"Hongyuanbao' "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>引物名称 Primer name</td><td>序列(5'-3')</td><td>用途 Function</td></tr><tr><td>MI3GT1-F</td><td>Sequence (5'-3')</td><td>扩增ORF</td></tr><tr><td>Ml3GT1-R</td><td>TACCCCAAACCCCATCCCACC CTTCTTCCGCTTCTTGCCCAT</td><td>To amplify ORF</td></tr><tr><td>MI3GT1-qPCR-F</td><td>GACCGCTTCGCCCACAAA</td><td>荧光定量</td></tr><tr><td>Ml3GT1-qPCR-F</td><td></td><td>Real-time PCR</td></tr><tr><td>MbTEF-F</td><td>CAATCCCTCCCTCGCCTTCT AGGTTGAGAATGGTGAGACTGT</td><td>扩增内参基因</td></tr><tr><td>MbTEF-R</td><td></td><td></td></tr><tr><td></td><td>TCACGCACGGAATCATTACATT</td><td>To amplify reference gene</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/94df49fdde7f29c2cc83b43d0ab8c9fb4d6b8ec710115a1590e5d28a2326da91.jpg",
+        "img_caption": [
+            "图2 不同开花阶段的紫玉兰‘红元宝'",
+            "Fig.2 Flowering stages of Magnolia liliflora ‘Hongyuanbao' "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1MI3GT1基因克隆及序列分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "紫玉兰‘红元宝'的RT-PCR 结果显示，扩增产物长 $1 8 6 3 \\mathrm { b p }$ (图3)，将测序得到的序列通与转录组序列CL3388.Contig1进行比对，核苷酸序列相似性为 $9 9 . 8 4 \\%$ 。利用NCBI的ORFfinder分析发现其最长开放阅读框 $1 3 7 4 { \\mathrm { ~ b p } }$ ，编码457个氨基酸，推导的氨基酸序列与转录组序列相似性为 $100 \\%$ 。将该基因命名为Ml3GT1，在GenBank登录号为MW454862。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过NCBI的CDD蛋白保守结构域数据库，对紫玉兰‘红元宝'MI3GT1蛋白保守区进行预测，结果表明，MI3GT1具备尿嘧啶二磷酸-糖基转移酶结构域（PLN02670)，UDP-葡萄糖醛酸基／葡萄糖基转移酶保守域（UDPGT)，表明MI3GT1属于糖基转移酶超家族，具有GT1_Gtf-like 结构域，表明其属于植物界中最大的家族1糖基转移酶(GT1s)。按照蛋白质的三维折叠模式,糖基转移酶可以大致划分为GT-A、GT-B 和GT-C三大类(Coutinho et al.,2003)，预测结果显示，MI3GT1为GT-B类的糖基转移酶。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9aae4f97955ecdc1b8bc7a2c40cd3d2c5d0ffdd62a7c12bfaa7e1bddce2f45dd.jpg",
+        "img_caption": [
+            "图3紫玉兰‘红元宝’MI3GT1基因克隆"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "M.DL2000 DNAMarker;1.Ml3GT1 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 CloningofMl3GT1 from Magnolialiliflora‘Hongyuanbao ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "利用 NCBI的在线 Blastp 功能，将 MI3GT1的氨基酸序列与其他植物的氨基酸序列进行在线比对，结果表明，Ml3GT1与沉水樟(Cinnamomummicranthum)3GT 的相似性最高，达$6 0 . 3 5 \\%$ ，与荷花(Nelumbo nucifera)、杨梅(Morella rubra)、海枣(Phoenix dactylifera)、美洲葡萄(Vitis labrusca)、蓖麻(Ricinus communis)等物种3GT的相似性较高达 $4 9 . 0 0 \\% \\sim 5 4 . 2 7 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "使用DNAMAN7.0软件将MI3GT1推导的氨基酸序列与其他物种已发表的3GT氨基酸序列进行多序列比对。图4结果显示，MI3GT1与拟南芥、苹果、玉米、矮牵牛、葡萄、三花龙胆3GT 蛋白的相似性分别为 $4 6 . 2 0 \\%$ 、 $4 4 . 2 0 \\%$ 、 $4 1 . 6 0 \\%$ 、 $3 8 . 4 0 \\%$ 、 $4 7 . 2 0 \\%$ 、 $4 1 . 8 0 \\%$ ，且MI3GT1与其他3GT 蛋白类似，其C端具备典型的由44个氨基酸组成的保守序列，即植物次生产物糖基转移酶信号序列(PSPG boX)，表明 MI3GT1具备植物糖基转移酶特征，可能参与次生代谢产物的糖基化修饰。MI3GT1的PSPG基序为WAPQTMVLGHVALGAFVTHCGWNSVMESITAGVPMICRPFFGDQ，已有的研究表明，糖供体特异性部分由 PSPG盒中的最后氨基酸残基确定，当为Q时使用葡萄糖作为糖供体，当为H时则使用半乳糖(Kubo et al.,2004)，MI3GT1的 PSPG 基序最后一个残基为Q，表明MI3GT可能属于UDP-类黄酮糖基转移酶，使用UDP-葡萄糖作为糖供体。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "拟南芥Arabidopsisthaliana(NP197207.1) NTKPSEPTRE SSLFSSGCE. ACRP D ACC G 8058673767447   \n苹果Malusdomestica(AF117267.1) NAAPLPIEIEPSSTNGCPHLACAYN AFPFTS L ETVR ISK SSLFSANSI ENM RV CV CGV G 玉米Zeamays(AY167672.1) NAPACGESSPPI RKASSASAGHGLP VEVP 1 APAA   \n矮牵牛Petunia×hybrida(AB027454.1) NTTSCL TSC NTSIFSEG. SKPD YNVWDCVTET 葡萄Vitisvinifera(BAB41024.1) SCTTTN FHLS HTNC L SLC G   \n三花龙胆Gentiana triflora(D85186.1) NSPVS IFSPTNL ISIG YAVVDCSPEG Ml3GT1 FAPKK   \n南s WES D E FA ENERRSLAAAVTE VHI TIGT KEYTERNEELI 580 玉米Zeamays(AY167672.1) EESVPV FNE. EGVKAVL VG ASCALLA AI ECVC CCAANRVDEPL   \n矮牵牛Petunia×hybrida(ABo27454.1) NCNKPVGL FIC INFEKVNKEAEEE FSD SYKL AEKINVI AASGSLSV FI R NCETSL 葡萄Vitisvinifera(BAB41024.1) YVFAGRPCE FM PESFRCGNVNAV REKIGV SGI CGREDELL 173   \n三花龙胆Gentiana triflora(D85186.1) FVFSCNPREPIEY LNFCKAME AADFSEKI PV AASCSLCLEVY ET RSRFAE. AEKAEKTI 171 Ml3GT1 YVPLGK SGACSI RKLGTGTD VLATRRCEPL 174   \n拟南芥Arabidopsisthaliana(NP197207.1) 苹果Malus domestica(AF117267.1) VEKNVNI GV. VE S.NVRIK KIRVK PEGVVFCNLESVFSK AEGVIFCNLES GRL ELPIPNDL TLTNN RSRFKR. VNK. SNVASPLPPLP. LGLLSSTLCCLVC CPHG PSDA 20724783292 玉米Zeamavs(AY167672.1) IS HP SYRVR PEGVV GCFNY CC PRS ALNTEPGLEPPEVTAA YHLLLAECCACTAAPACPHC   \n矮牵牛Petunia×hybrida(AB027454.1） N. 1 FSSTLKIS PPEVMAENLCLPMPS ALNLHK. VL EELEPTINKDLKVKL VLCPTSPKKVLEA.CLER 葡萄Vitis vinifera(BAB41024.1) NF. S KVRFR GCV PK. 1 DCS LITP..PPVVP. .NTTO   \n三花龙胆Gentiana triflora(D85186.1) CF. IF S AISFS PEEL MEESCSIFALT GLKLHK DP RSTNCLN CTLSSSIP. PECNEC Ml3GT1 CF GLR AEESAR SLNSPLPCET. CAHAC   \n拟南芥Aistha() EKRSAP. G1 AEK SCKTI LSKL M 33337350 玉米Zeamays(AY167672.1) GRCPAR. VAV LR HPS VL   \n矮牵牛Petunia×hybrida(AB027454.1) EKCKE. E SFGT TTLPE NGIK LEI HSAV 葡萄Vitisvinifera(BAB41024.1) KERKP. GT 1 AEV HEAT W   \n三花龙胆Gentiana triflora(D85186.1) CTCKE. P ARKI LHV PA TL MI3GT1 CRFAHKPA T VM PSPG box   \n拟南 AGR RSSE ERSHEIVSNSNYQ 48 玉米Zeamcys(AY167672.1) SSG 让 ECRK R EI CRA 471   \n矮牵牛Petunia×hybrida(AB027454.1） SC ORPFFCDC SRN C EGGS SK EL KCHKLT 448 葡萄Vitisvinifera(BAB41024.1) F DORI R H CL VSKPKCV 456   \n三花龙胆Gentiana triflora(D85186.1) SIFCR RF F KV GVKGG TRVL LAAFNKLCS. 453 MI3GT1 SITAGVPI G KLLGIVVSSR. 457 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "黑色阴影和其他阴影框分别表示相同和相似的氨基酸，下划线表示PSPG保守基序。Black shaded and other shaded boxes show identical and similar amino acids,respectively,and the underlineindicates the PSPG box found in glycosyltransferases.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图4推导的MI3GT1氨基酸序列与其他物种3GT氨基酸序列比对",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig. 4 Multiple alignment of deduced Ml3GT1 amino acid sequences and 3GT amino acid sequences from other plants ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2MI3GT1基因的生物信息学分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过ProtParam在线软件分析MI3GT1氨基酸的理化性质，结果表明：MI3GT1编码457个氨基酸，分子式为 $\\mathrm { C _ { 2 2 1 6 } H _ { 3 4 5 7 } N _ { 6 0 1 } O _ { 6 3 8 } S _ { 2 0 } }$ ，相对分子质量为 $4 9 . 3 7 ~ \\mathrm { k D a }$ ，理论等电点 $\\mathrm { ( p I ) }$ 为6.04，小于7，说明其为酸性蛋白；其中带负电荷氨基酸的残基数目 $( \\mathsf { A s p } + \\mathsf { G l u } )$ 为50，带正电荷氨基酸残基数 $( { \\mathrm { A r g } } + { \\mathrm { L y s } } )$ 为45；丙氨酸含量最多，占 $1 0 . 9 \\%$ ，酪氨酸含量最少，占 $0 . 9 \\%$ ;该蛋白不稳定系数为40.71，不稳定系数大于40，表明其为不稳定蛋白；总平均亲水性的负值表示亲水性，正值表示疏水性且正值越大表示疏水性越强，MI3GT1总平均亲水性为0.090，说明该蛋白是疏水性蛋白。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过 SOPMA 在线网站对紫玉兰‘红元宝'3GT1 蛋白的二级结构预测(图 5)，结构表明MI3GT1蛋白中 $\\mathbf { \\boldsymbol { a } } .$ 螺旋（ $3 9 . 3 9 \\%$ ）和无规则卷曲（ $3 8 . 2 9 \\%$ ）含量最多，而延伸链和 $\\beta$ 转角含量分别为 $1 6 . 8 5 \\%$ 和 $5 . 4 7 \\%$ 。将MI3GT1序列提交到SWISS-MODEL在线网站预测编码蛋白质的三维结构，3D预测结果显示(图6)，QMEAN分值在-4\\~0之间越接近于0，表明待测蛋白与模板蛋白的匹配度越好，可信度越高，MI3GT1的QMEAN分值为-0.88,表明 MI3GT1与模板蛋白UDP-葡萄糖类黄酮3-O糖基转移酶(2c1x.1.A)匹配度较好，相似性较高达 $5 2 . 6 7 \\%$ ，推测其可能为类黄酮3-O糖基转移酶;GMQE可信度评分为0.83，介于0\\~1之间且较接近1，说明以上述蛋白模板构建的模型质量较好；MI3GT1具备GT-B 家族典型的 Rossmann 折叠结构域，表明其为GT-B家族成员，这也与CDD的预测结果一致。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "蓝线. $\\mathfrak { a }$ 螺旋；紫线.无规则卷曲；红线.延伸链；绿线. $\\beta$ 转角。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Blue line. $\\mathfrak { a }$ -helix; Purple line.Random coli; Red line.Extended strand; Green line. $\\beta$ -turn. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e67b9338acd9bff7e4f573f9a27697bed98b03bbc950d425181153cfeaec177.jpg",
+        "img_caption": [
+            "图5MI3GT1蛋白二级结构预测结果",
+            "Fig. 5 Results of Ml3GT1protein secondary structure prediction "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/1670b9643bbd6bb9fc34ee71df482102a0458601462e991b6dcdd69e59adad65.jpg",
+        "img_caption": [
+            "图6MI3GT1蛋白三级结构预测结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3MI3GT1氨基酸序列系统发育分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "将紫玉兰‘红元宝'MI3GT1与其他植物中已报道的参与类黄酮途径的糖基转移酶共同构建系统发育进化树，图7结果显示，GTs分为5GTs、7GTs、3GTs进化分支，MI3GT1与小苍兰Fh3GT1亲缘关系较近聚为一支，属于3GTs进化大支，该分支还有葡萄 $\\operatorname { v v } 3 \\mathbf { G } \\mathrm { T }$ 、草莓Fa3GT、矮牵牛Ph3GT、番薯 Ib3GT，且与其他类黄酮糖基转移酶 5GTs、7GTs 的亲缘关系较远，表明其可能与Fh3GT1功能类似，属于3GT糖基转移酶家族成员，参与类黄酮 3-O的糖基化。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/4636e860b874f1b1f44d6d8148196b92cd5b3ad2185cc4822b3cb6cb263145b4.jpg",
+        "img_caption": [
+            "Fig.6 Results of Ml3GT1 protein tertiary structure prediction ",
+            "图7MI3GT1蛋白与其他植物的GT蛋白的系统进化树"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig .7 Molecular phylogenetic tree of Ml3GT1 protein and GT proteins from other plants ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4MI3GT1基因在花开放的不同时期与不同组织中的表达分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "以紫玉兰‘红元宝'花开放不同时期(S1\\~S5)以及老叶、嫩叶、根、茎等组织部位的cDNA为模板，探究MI3GT1基因在紫玉兰‘红元宝'中的表达模式(图8)。结果表明，随着花的开放进程，MI3GT1基因的表达量呈现先降低后升高的趋势，其表达量在盛花期(S5)达到峰值。各组织部位的荧光定量结果显示：MI3GT1基因具有组织特异性，在花中的表达量最高，在老叶和嫩叶中有少量表达，而在根和茎中几乎不表达，且其在花朵开放的各个时期中的表达",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "量均高于其他组织部位。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/397c1ca44cd609048a2da66f677875014854ba71597bc5e411170c5eb20851bb.jpg",
+        "img_caption": [
+            "图8MI3GT1在紫玉兰‘红元宝'花开放的不同时期以及组织部位的表达分析Fig. 8 Expression analysis of Ml3GT1 in different periods and tissue parts of Magnolia liliflora‘Hongyuanbao'"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3讨论与结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文克隆得到紫玉兰‘红元宝'MI3GT1基因，生物信息分析发现MI3GT1序列具有植物次生产物糖基转移酶信号序列——PSPGbox，推测其可能参与次生代谢产物的糖基化修饰。GTs 根据其催化位点的不同，可分为3-O-糖基转移酶(3GTs)、5-O-糖基转移酶(5GTs)、7-O-糖基转移酶(7GTs)(王应丽等，2014)。系统发育树聚类结果显示 MI3GT1和小苍兰Fh3GT1亲缘关系较近，聚为一支，进一步表明其可能和Fh3GT1功能类似，具有参与类黄酮3-O的糖基化修饰的功能(Sun etal.,2016)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "有研究结果表明，3GT具有花器官组织特异表达模式(王毅等，2017)。滇牡丹(王毅等，2017)和葡萄风信子(杜灵娟等，2017)中 3GT 基因在花青素苷大量积累的组织中高表达，而在少量积累和无花青素苷的组织中，3GT表达量极低甚至不表达。与前人研究结果一致，在本研究中，MI3GT1基因在花中大量表达，而在其他营养器官组织中几乎不表达或者表达量很低，表明M3GT1可能参与花青素苷的生物合成。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3GT参与小苍兰和葡萄风信子花瓣中花青素苷的生物合成，其表达量往往与花瓣中花青素苷的积累呈正相关(Sui etal.,2011；梁沛雯等，2019)。但是MI3GT1基因表达模式与小苍兰和葡萄风信子不同，其表达量随着花的开放呈现先下降后上升的趋势，这可能与不同植物花瓣中花青素苷的糖苷类型不同有关。葡萄风信子花瓣中花青素苷糖苷类型均为葡萄糖苷(梁沛雯等，2019)，因此葡萄风信子花青素苷的积累与3GT基因表达量紧密相关。在紫玉兰‘红元宝’花瓣中，4种花青素苷C3位均发生芸香糖基化修饰，其中 $ { \\mathrm { P n } } 3  { \\mathrm { R u } }$ 含量最高(约占总花青素苷含量的 $7 1 \\%$ )(Wang etal.,2019)。由于花青素的C3位芸香糖苷化修饰依次由3GT和3RT催化完成(Yamazakietal.,2002)，紫玉兰‘红元宝’芸香糖苷型花青素苷的合成不仅受3GT基因的调控，同时还与3RT基因的表达有关。由此表明MI3GT1参与调控紫玉兰‘红元宝’的花青素苷的生物合成，但是该基因不是紫玉兰‘红元宝’的花青素苷的生物合成的限速酶基因。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "BAN Y, KONDO S, UBI B E, et al.， 2009. UDP-sugar biosynthetic pathway: Contribution to cyanidin 3-galactoside biosynthesis in apple skin [J]. Planta, 23O(5): 871-881. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CHEN WH, HSU CY, CHENG HY, et al., 2011. Downregulation of putative UDP-glucose: flavonoid 3-O-glucosyltransferase gene alters flower coloring in Phalaenopsis [J]. Plant Cell Rep, 30(6): 1007-1017.   \nCOUTINHO P M,DELEURY E,DAVIES G J, et al., 2003.An evolving hierarchical family classification for glycosyltransferases [J]. JMol Biol, 328(2): 307-317.   \nDAI SL, HONG Y, 2016. Molecular breeding for flower colors modification on ornamental plants based on the mechanism of anthocyanins biosynthesis and coloration[J]. Sci Agric Sin, 49(3): 529-542.[戴思兰，洪艳，2016.基于花青素苷合成和呈色机理的观赏植物花色改良分子 育种[J]．中国农业科学，49(3)：529-542.]   \nDOONER HK， NELSONOE，1977． Geneticcontrol ofUDPglucose:Flavonol 3-O-glucosyltransferase in the endosperm of maize [J]. Biochem Genet, 15(5-6): 509-519.   \nDU LJ，CHENG KL，LIU YL，2O17. Cloning and expression analysis of anthocyanidin 3-O-glucosyltransferase gene in grape hyacinth[J]. Pratacult Sci, $3 4 ( 1 1 ) : 2 2 3 5  – 2 2 4 4 .$ [杜灵 娟，陈凯利，刘雅莉，2017．葡萄风信子花青素3-O-葡糖基转移酶基因的克隆及其表 达分析[J]．草业科学，34(11)：2235-2244.]   \nHU ML,LU ZL, GUO J, et al.,2016. Cloning and characterization of the cDNA and promoter of UDP-glucose: flavonoid 3-O-glucosyltransferase gene from a purple-fleshed sweet potato [J]. S Afr J Bot,106: 211-220.   \nJONSSON LMV, AARSMAN MEG，BASTIAANNET J，et al.， 1984. Common identity of UDP-glucose:anthocyanidin3-O-glucosyltransferaseandUDP-glucose:Flavonol 3-O-glucosyltransferase in flowers of Petunia hybrida [J]. Zeitschrift Fur Naturforschung C, 39(6): 559-567.   \nKUBO A, ARAI Y, NAGASHIMA S, et al., 20O4. Alteration of sugar donor specificities of plant glycosyltransferases by a single point mutation [J]. Arch Biochem Biophys, 429(2): 198-203.   \nLARSON RL，COE EH,1977. Gene-dependent flavonoid glucosyltransferase in maize [J]. Biochem Genet, 15(1-2): 153-156.   \nLIANG PW,LOU Q,LIU YL, 2019. Cloning and expression analysis of MaGT1 gene from Muscari ameniacum[J]. Acta Bot Boreal-Occident Sin,39 (6): 1001-1008.[梁沛雯，娄倩， 刘雅莉，2019.葡萄风信子MaGT1基因的克隆及其表达分析[J]．西北植物学报，39 (6): 1001-1008.]   \nLIU Y, TIKUNOV Y, SCHOUTEN R E, et al., 2018. Anthocyanin biosynthesis and degradation mechanisms in Solanaceous vegetables: A review [J]. Front Chem, 6: 52.   \nNAKATSUKA T, SATO K, TAKAHASHI H, et al., 2OO8. Cloning and characterization of the UDP-glucose: Anthocyanin 5-O-glucosyltransferase gene from blue-flowered gentian [J]. J Exp Bot, 59(6): 1241-1252.   \nPETRONI K, TONELLI C,2011. Recent advances on the regulation of anthocyanin synthesis in reproductive organs [J]. Plant Sci, 181(3): 219-229.   \nQIAN JY, LAI WH, JIANG LL, et al., 2021. Association between differential gene expression and anthocyanin biosynthesis underlying the diverse array of petal colors in Zinnia elegans [J]. Sci Hortic, 277: 109809.   \nSHU QY, ZHU J, MEN SQ, et al.,2018. Establishing virus induced gene silencing(VIGS) system in tree peony using PsUFGT genes[J]. Acta Hortic Sin,45 (1): 168-176.[舒庆艳，朱瑾，门 思琦，等，2018．基于牡丹类黄酮糖基转移酶基因建立VIGS 技术体系[J]．园艺学报, 45 (1): 168-176.]   \nSUI X, GAO X,AO M, et al.， 2011. cDNA cloning and characterization of UDP-glucose: anthocyanidin 3-O-glucosyltransferase in Freesia hybrida [J]. Plant Cell Rep,30(7): 1209-1218.   \nSUN W,LIANG LJ,MENG XY, et al., 2O16. Biochemical and molecular characterization of a flavonoid 3-O-glycosyltransferase responsible for anthocyanins and flavonols biosynthesis in Freesia hybrida [J]. Front Plant Sci,7: 410.   \nTANAKA Y, SASAKI N, OHMIYA A, 2008. Biosynthesis of plant pigments: Anthocyanins, betalains and carotenoids [J]. The Plant J, 54(4): 733-749.   \nTANAKA Y, YONEKURA K, FUKUCHI-MIZUTANI M, et al.,1996. Molecular and biochemical characterization of three anthocyanin synthetic enzymes from Gentiana triflora [J]. Plant Cell Physiol, 37(5): 711-716.   \nWANG NH,LU DY, CHANG PJ, et al., 2019. Selction of refrence genes for qRT-PCR analysis Magnoliabiondi[J].MolPlant Breed,17:3674-80.[王宁杭，陆丹迎，常鹏杰，等,2019.望 春玉兰实时定量PCR分析中内参基因的筛选[J]．分子植物育种，17:3674-3680.]   \nWANG NH, ZHANG C，BIAN SN，et al.， 2019.Flavonoid components of diferent color Magnolia flowers and their relationship to cultivar selections [J]. Hort Sci, 54(3): 404-408.   \nWANG Y, ZHAO N, YUAN XL, et al., 2017. Identification and expression analysis of a flavonoid 3-O-glucosyltransferase gene in Paeonia delavayi[J]. Genomics Appl Biol, 36: 1556-1562. [王毅，赵能，原晓龙，等，2017．滇牡丹类黄酮3-O-葡萄糖基转移酶基因的鉴定及表 达分析[J]．基因组学与应用生物学，36:1556-1562.]   \nWANG YL, HUANG WJ, WANG Y, 2014. Cloning and expression analysis of the EsUF3GT gene in Epimedium sagittatum ( Sieb.and Zucc.) Maxim[J]. JPlant Sci, $3 2 ( 6 ) : 6 0 2 \\substack { - 6 1 1 }$ [王应丽， 黄文俊，王瑛，2014．箭叶淫羊藿 EsUF3GT基因的克隆及表达分析[J].植物科学学报， 32( 6): 602-611.]   \nYAMAZAKI M, YAMAGISHI E, GONG Z, et al., 20O2. Two flavonoid glucosyltransferases from Petunia hybrida: molecular cloning, biochemical properties and developmentally regulated expression [J]. Plant Mol Biol, 48(4): 401-411.   \nYOSHIHARA N, IMAYAMA T,FUKUCHI-MIZUTANI M, et al.，20O5.cDNA cloning and characterization of UDP-glucose: anthocyanidin 3-O-glucosyltransferase in Iris hollandica [J]. Plant Sci, 169(3): 496-501.   \nZHAO XQ,LI B,YUAN ZH, 2017. Cloning and expression analysis of $P g U F G T$ gene from Punica granaum L.[J]. Acta Bot Boreal -Occident Sin,37(4): 646-653.[招雪晴，李勃，苑兆 和，2017．石榴 PgUFGT基因克隆及表达分析[J]．西北植物学报，37(4):646-653.]   \nZHU LJ, ZHAO YM, YANG QS, 2012. Formation and influencing factors of flower and color of garden plants (A review)[J]. Jiangsu Agric Sci, 40(7):142-145.[朱丽娟，赵亚敏，杨秋生， 2012．园林植物花色的生成及影响因素(综述)[J]．江苏农业科学，40(7):142-145.]   \nZHUANG WB，LIU TY， SU XC，et al.， 2018.The molecular regulation mechanism of anthocyanin biosynthesis and coloration in plants[J]. Plant Physiol J, 54 (11): 1630-1644.[庄 维兵，刘天宇，束晓春，等，2018．植物体内花青素苷生物合成及呈色的分子调控机制 [J]．植物生理学报，54(11):1630-1644.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

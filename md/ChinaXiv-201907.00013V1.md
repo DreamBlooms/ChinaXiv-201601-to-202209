@@ -1,0 +1,183 @@
+# 工作场所文明行为：从内隐的自我提升到外显的组织优化
+
+严瑜曹照雪
+
+（武汉大学哲学学院心理学系，武汉，430072）
+
+摘要工作场所文明行为是一种在组织文化下，基于社会和组织角色义务的，传达礼貌和尊重的主动性行为，是一种向内要求自我控制，向外主张尊重传达的行为，它对于个体自身性格的塑造、组织中人际关系的改善以及文明氛围的培养都具有积极意义。在员工-员工、领导-下属、员工-顾客等关系中，工作场所文明行为发挥着增进同事情谊、促进合作、增强领导力、建立信任、提升绩效等作用。未来的研究应该进一步厘清工作场所文明行为与不文明行为的关系，运用动态视角研究它们发生、发展和被感知的机制，以及这两种行为能否相互转化等问题。
+
+关键词工作场所文明行为；自我控制；尊重；提升；优化
+
+# 1问题的提出
+
+近年来，在积极心理学的影响下，职业健康心理学的研究重点从修复被破坏的东西转向培育最好的东西，从修复工作压力产生的消极后果转向通过积极心理干预来提升个人资源和幸福感(Meyers,VanWoerkom,&Bakker,2013)。
+
+工作场所文明行为最初作为缓解不文明行为消极影响的有效干预手段受到研究者的关注。例如，CREW (Civility, Respect, and Engagement in the Workforce)干预减少了主管的不文明行为，改善了他们的文明观念和工作态度（例如承诺，自我效能）（SpenceLaschinger,Leiter,Day,Oore,&Mackinnon，2012)。一些研究者将工作场所文明操作为一种组织氛围—一文明氛围：员工对工作小组成员间支持尊重的行为规范的感知，或一种组织规范——文明规范：员工在多大程度上彼此尊重对待并避免粗鲁行为(Walsh etal.,2012)。这些研究证明了文明对组织的改善作用，却将文明视为一种组织层面的概念，或是降低不文明行为消极影响的工具，而不是一种独立的个体行为概念。这阻碍了工作场所文明行为学术的发展，导致了不文明行为研究的局限。工作场所文明行为和不文明行为是紧密相连的两个概念，它们的研究相辅相成。近年来，不文明行为的研究局限于Andersson 和Pearson(1999)的螺旋升级隐喻，急需新的概念、假设和理论带来活力和突破(Cortina,Kabat-Farr,Magley,&Nelson, 2017)。
+
+工作场所文明行为作为一种重要的积极行为，必须作为独立的行为概念来研究。同时，组织作为个体发展和社会活动最主要的场所，是研究个体积极动态和状态的关键背景(Fredrickson&Duton,2008)。因而，工作场所文明行为的研究不仅是积极组织研究的重要组成部分，还探究了个人和集体的活力，为组织政策制定和员工实践开展提供依据。文明的缺失是当今社会的普遍忧虑(Fritz,2013)，公民对文明行为缺乏清楚的认识，便难以在实践中去践行。因而，什么样的行为是文明行为，文明行为具有哪些特征，文明行为与其他的积极行为存在什么区别，文明行为的影响是什么等问题急需研究者回答和解释。
+
+本文在梳理工作场所文明行为相关文献的基础上，探究工作场所文明行为的性质，为它提供较明确的定义，并回答：工作场所文明行为是积极的还是中性的？它与工作场所不文明行为、组织公民行为等的联系与区别是什么？工作场所文明行为的发生机制、对个人和组织的作用机制如何？为同事之间、领导与下属、员工与顾客的关系提供怎样的处理思路？
+
+# 2工作场所文明行为的内涵
+
+文明最初与公民身份紧密相关，只属于少数人(Schaefer,2015)，这导致一些学者认为：文明是权力的来源，是一种人们普遍接受的获得社会优势的策略(Andersson& Pearson,1999)。当权者定义了文明并用它来压制不受欢迎的言论或少数群体的意见，从而维护自己的利益(Flaherty,2014)。但“文明”不等于“霸权的文明”，“文明”为人类共同的善服务，“霸权的文明”才与权力紧密相连，意味着压制反对意见以维持压迫的现状(Fritz,2013)。在人类逐渐实现身份和地位平等的当今社会，文明已脱离“霸权”的阴霾，文明的定义应尽量脱离与权力的捆绑，更多地体现人性与义务。文明在演化的过程中不仅体现了伴随身份而来的权利，更包含着义务。文明不应该只是工具性或功能性的，它还具有道德影响(Andersson& Pearson,1999)。语言学上，文明与礼貌、义务和教养等其他尊词并称;Schaefer(2015)认为，责任和文明应该一起表达：文明的责任。尤其在工作场所，文明更是与责任和义务分不开，它包含着伴随组织承诺而来的责任，并要求个体为维持组织成员共同生活做出努力。
+
+# 2.1工作场所文明行为的定义及性质
+
+现有的文明行为定义普遍较为含糊且操作性差（详见表1），这源于两个原因：（1)文明行为的性质没有定论。（2）文明行为本身十分微妙，不易察觉。对于实施者而言，他们可能只是“做正确的事”，无意使目标或组织受益(Andersson&Pearson,1999)。对目标或观察者而言，文明行为的积极意图不明显，不会给人深刻的印象，如，有人为你按了电梯，认真倾听了你在会议中的报告，在电子邮件结尾说“祝好”。工作场所文明行为包括我们大多数人在工作环境中所希望的尊重礼貌行为：尊重彼此利益、团队协作、公平解决冲突、重视个体间差异(Osatuke,Moore,Ward,Dyrenforth,&Belton,2009)，倾听、关注、相互包容和共情、给予称赞、和善地说话、尊重他人的时间、遇到问题时帮助（而不是批评/指责）他人(Fritz,2013)。现有的定义共同揭示了工作场所文明行为的几个重要特征：表示尊重、礼貌、关心他人。
+
+表1：工作场所文明行为定义总结  
+
+<html><body><table><tr><td>工作场所文明行为定义</td><td>性质</td><td>研究者及时间</td></tr><tr><td>尊重他人的尊严，尊重他人的感情，维护相互尊重的组织规范的行为。</td><td>中性</td><td>Carter,1998</td></tr><tr><td>一个在职场尊重行为规范内的对他人礼貌和关心的行为。</td><td>中性</td><td>Andersson&Pearson,1999</td></tr><tr><td>有助于保持工作中相互尊重的规范的行为; 它包含的行为是与他人积极联系，建立关系和共情的基础。</td><td>中性</td><td>Pearson,Andersson,&Porath,2000</td></tr><tr><td>文明假设一种超越自我的意识，并且需要传达对他人福祉的尊重和关注。</td><td>积极</td><td>Sypher,2004</td></tr><tr><td>文明行为是作为一个群体公民，以积极的方式行动， 使个人投入有利于自身和集体的能力。</td><td></td><td></td></tr><tr><td>尊重他人，基本礼貌，以及营造积极学习和工作环境的行为。</td><td>积极 积极</td><td>Marini,2007 Gilroy,2008</td></tr><tr><td>文明要求人们以尊重、负责、内敛和有原则的方式说话，</td><td></td><td></td></tr><tr><td>避免那些冒犯、粗鲁、贬低和威胁的方式。</td><td>中性</td><td>Gill& Sypher,2009</td></tr><tr><td>工作组内有礼貌和体贴的工作场所行为。</td><td>中性</td><td>Osatuke etal.,2009</td></tr><tr><td>工作场所的文明指在人际关系中考虑他人。 工作场所文明行为是一种帮助维护工作场所相互尊重的规范的行为，</td><td>积极</td><td>Ferriss,2010</td></tr><tr><td>包含了超越好的态度和礼节的其他因素。</td><td>积极</td><td></td></tr><tr><td>职业文明行为是一种交流的美德和实践智慧，是职业精神的一部分。</td><td>积极</td><td>Walsh et al.,2012</td></tr><tr><td>工作场所文明行为包含尊重、尊严、礼貌和愉快。</td><td></td><td>Fritz,2013</td></tr><tr><td>文明包含大多数人在工作中渴望的那些尊重、礼貌的行为。</td><td>积极 中性</td><td>Porath,Gerbasi,& Schorch,2015</td></tr></table></body></html>
+
+工作场所文明行为的首要特点是传达礼貌和尊重(Leiter,Spence Laschinger,Day,&Oore,2011)。例如，美国一所大学将工作场所文明行为定义为“尊重他人，表示基本礼貌，营造积极学习和工作环境的行为”(Gilroy,2008)。Von Bergen 和Collie (2013)认为，尊重他人是文明行为的重要因素，体现了一种公共环境下的求同存异：尊重和有尊严地对待他人，而不必同意和接受他们的价值观。正如Andersson 和Pearson(1999)形容的，商业领域的文明表现为“形式但又友好，有分寸而又有礼貌”。现代工作场所愈发呈现出多样性，无论是民族、宗教、性取向还是工作方式、生活经历、思维方式和业务处理流程，个体间都存在较大差异(Poterton,2018; Periard et al.,2018)，这要求员工容忍、尊重、倾听并在讨论不同的观点时避免尖刻、冲突和人身攻击，保证积极互动的展开(Montalvo,2013)。
+
+其次，工作场所文明行为的基础是社会角色义务的履行。职业角色为组织成员提供行为限制和组织期望的行为指导方针，是职业美德的重要元素(Fritz,2011;Ferriss,2010)。个体的社会角色包含两方面：社会的公民和组织的员工。作为公民，个体应遵守社会规范，以整个社会的福利为最高行动准则(Fritz,2013)。社会文明行为是每一个公民努力追求的目标，是公民生活的基础要素，包含理想信念、爱国情怀、道德品质、知识见识、生活方式等五个方面（李毅红，邱华宇，2019）。作为员工，个体的首要任务是在组织规范指导下完成工作任务。文明是工作场所评分最高的个人价值(Giraldi& Ikeda,2008)，工作场所文明行为旨在营造一个保证工作实践在最少干扰下进行的工作环境(Donnelly,2008; Fritz,2013)。组织成员间的工作任务相互关联，做好分内之事是维持组织生产、关系正常运转的关键。员工个人任务不达标，将拖累整个工作组的进度，损害同事的利益（例如，同事为了弥补进度做自己分外的工作），不利于人际公平和组织生产目标，因而无法做到文明。对领导或管理者而言，文明行为是基于对任务的清楚委派和对结果的负责/问责。
+
+同时，与社会文明行为的普适性不同，工作场所文明行为是给定组织中全体成员的行为目标。Fritz(2013)强调了文明的流动性和情境性质。工作场所文明的内涵和文明行为的具体表现因组织文化和行业性质而不同。比如医疗行业对道德的要求比较高，文明意味着医护人员对待病人的健康、安全像对待自己的一样负责，并维持和提升职业技能（Clark&Kenski,2017)。对于节奏较快的互联网企业，文明可能更侧重于信息及时反馈和工作效率。
+
+最后，工作场所文明行为是一种主动性行为(proactive behavior)。主动性行为指员工为影响或改变自己或工作环境所采取的预期行动(Belschak&Den Hartog,2010)，是一种积极的行为。工作场所文明行为传达了共同解决生活问题的承诺(Fritz,2013)：员工自愿为共同生活做出一些牺牲，并制定一个限制自由的执行标准，使代表所有成员的更大的群体能够完成它的任务。文明行为不以避免冲突为导向，而以他人为导向一一在人际关系中保持体面，重视并体谅他人(Wilkins,Caldarella,Crook-Lyon,& Young,2010)。个体有意识地考虑他人利益，站在他人的立场上，反思自身的行为方式可能引起他人怎样的感受(Gilroy,2008)，在寻求个人职业发展的同时维护团队、组织利益。因而，工作场所文明行为强调了一种积极主动的维持/维护，维持组织的良好发展，维护同事之间的良好关系，体现了对他人利益和集体利益的尊重，是一种主动性行为。
+
+结合以上特点，我们认为，工作场所文明行为是一种在组织文化下，基于社会和组织角色义务的，传达礼貌和尊重的主动性行为。
+
+# 2.2工作场所文明行为与不文明行为、积极组织行为的关系
+
+Andersson 和Pearson (1999)将不文明行为界定为文明行为的反义词，可见它们之间存在很多共通点。在Cortina等人(2017)以强度、模糊性、对绩效的影响为衡量标准绘制的组织行为二维谱中，工作场所文明行为与不文明行为处于极其相似的位置：强度低，模糊性高，对绩效的影响小。频率、强度等因素是组织行为研究中衡量个体受到侵犯和伤害的基本依据(Kent ＆ Muurlink,2014)。但由于文明的交互是一种隐性需要(Andersson & Pearson,1999)，这些表面特征无法全面揭示工作场所（不）文明行为的作用机制。不管行为的目的、强度、微妙程度及表现形式如何，一旦行为目标感觉受到不尊重，社会得体的线就被跨越。因而，工作场所文明行为与不文明行为研究共同面临的问题是：行为的研究重点不应是外在表现或表面特征，而应是个体的感知。同时，研究者还提出了工作场所（不）文明行为定义的新维度——不可见性(invisibility)，即行为更多地表现为非接触形式(non-contact)，如言语、面部表情、姿势、空间使用等(Kent& Muurlink,2014)。
+
+工作场所文明行为与不文明行为的作用模式相似，它们在组织中的传播类似传染病，不仅在行为牵涉者之间不断交互，变化，而且通过人际正义或情绪感染影响旁观者的行为(Kent＆ Muurlink,2014;Leiter,2013)。工作场所（不）文明行为不是二元的，行为参与者的角色是流动的，行为的实施者很快就会转变为行为的接收者，因此行为牵涉者的权力、身份等因素对行为的影响很大，应采用网络分析的视角发掘新的实证问题(Cortina et al.2017)。同时，工作场所（不）文明行为的影响较少表现在组织绩效等显性层面上，而更多作用于隐性层面，关系到个体在组织中的舒适度、幸福感，直接影响组织文化(Potterton,2018; Fritz, 2013)。
+
+与帮助行为、人际组织公民行为、社会支持和积极偏离等积极行为相比，工作场所文明行为积极程度低，模糊性高，对绩效提升作用小(Cortina et al.,2017)。对于接收者而言，文明行为的积极性较低，不易察觉，个体可能不会在单次的文明行为经历中拥有较强的积极体验，但文明行为的优点在于润物细无声，潜移默化地改善人际关系，影响组织氛围。
+
+在意图上，组织公民行为强调超越角色义务的自发性和对组织的有利性(Livi,Theodorou,Rullo,Cinque,&Alessandri,2018)；组织中的帮助行为和社会支持则反映了较多的情感联结和互惠(Ford,Wang,Jin,&Eisenberger,2018)。比较而言，工作场所文明行为的积极程度较低，它不一定给行为接收者或组织带来某种实质性的帮助或肉眼可见的利好，但却使人感到舒服，使组织运转优化。同时，文明行为的出发点是为行为接收者考虑，不是一种表面行为，与逢迎讨好行为区别开来；又因为其多层次内涵而高于“关心他人”的工作价值(Porath et al., 2015)。
+
+# 3工作场所文明行为的发生机制和积极效应
+
+工作场所文明行为是一种向内要求自我控制，向外主张尊重传达的行为。于个体而言，工作场所文明行为体现了一种积极的内在动力，要求克制消极情绪，控制行为模式(Ferriss,2010)。于他人而言，工作场所文明行为传达礼貌、尊重、体谅，使他人舒服。因此，工作场所文明行为是一种内部提升与外部优化相辅相成的行为。本文基于此逻辑框架，综合已有研究绘制了工作场所文明行为的积极作用图（见图1）。
+
+# 3.1工作场所文明行为的发生机制
+
+工作场所文明行为要求员工维持积极的行为模式，这需要较强的自我控制。工作场所文明行为虽然以他人为导向，但动机主要是自我的改善(Wilkins etal.,2010)。个体将自己的行为指向一个特定的目标：较好地完成自己的组织中的工作任务，使他人感到适意，由此提升个体的自主感，催生一种向上的动力。同时，成功达成个人目标能够形成一种完成感，使个体感到自身是有能力的，行为是有意义的，获得幸福感的提升(Genugten,Dusseldorp,Massey,&Empelen,2017)。因而，工作场所文明行为的核心在于个体对自我的掌控力，它帮助个体在面临纷繁的工作事务和复杂的人际交互时保持理智，抑制不良情绪，提升个体应对挫折的能力。Fredrickson 和Dutton (2008)认为，积极的认知和行为模式能够累积形成一种长久的个人资源，在未来的生活中帮助人们生活得更好。因而，个体能够在不断积累的文明实践中养成积极的行为模式，提升职业素养和道德水平，实现自我促进。
+
+但文明行为未必都由工作场所的“好士兵”实施，也可能来自于“好演员”。组织成员实施文明行为的意图可能不只是做正确的事，或出于较高的道德水平，还可能出于印象管理的动机。印象管理动机促使员工将他们的关注和同情放在对他人或组织有利的方面，并避免风险行为(Donia,Johns,&Raja,2016)，它未必出于完全无私的目的，但也是积极主动的，不具有伤害意图。这种情况下的文明行为具有一定的工具性质，它成为塑造个人良好形象并获得相应利好的方式，同时也对组织发展起到积极作用。
+
+还有一种文明行为出于回避动机，是员工面对压力或权力的一种妥协方式。比如，在公司的某项决策中，大部分人支持了某种观点，其他人为了避免反对该观点会传达不文明的倾向或引发矛盾，没有表达自己真实的想法。这样的文明只能达成表面和谐，阻碍了言论的自由和思想的碰撞。研究者将这种情况视为“文明的阴暗面”(Cortina etal.,2017)。这种看法将工作场所文明行为完全视为一种工具，文明不是为了组织的善/社会的善，而是为了避免冲突所表现出的一种表面行为。其根本动机是独善其身，罔顾组织利益。这种情况可能不属于文明行为，而是一种消极的表面文明，对组织十分有害。本文在接下来的探讨中暂且回避了这种具有争议的情况。
+
+# 3.2工作场所文明行为促进自我提升
+
+# 3.2.1内部提升
+
+与组织中其他的积极行为相比，工作场所文明行为发生频率更高，范围更广，表现在员工工作生活的方方面面。因而，个体有相当多的机会来实施工作场所文明行为，逐渐积累形成一种习惯性的行为倾向。Edyvane (2017)认为，文明是一种特殊的“习惯”，传达了“公民对自己的定位”。文明是一种“仁慈的态度”，文明行为根据习俗规范来进行自我管理并谦逊、适度、克制、尊重地对待他人。
+
+文明行为能够改善个体对工作的态度，提升个体在工作场所中的积极体验。研究发现，工作场所文明行为能够提高个体的工作态度、自尊、工作满意度、组织承诺和亲社会行为(Spence Laschinger,Finegan,& Wilk,2009; Montalvo,2013)，降低缺勤率和职业倦怠(Leiter etal.,2011)。例如，Kang,Twigg 和Hertzman (2010)的研究发现文明行为能够提升个体的自我评价并增强对善意的感知，这有利于减少倦怠感并降低离职意图。
+
+同时，工作场所文明行为也起到增强自我的作用。以前的研究者总是把积极的行为与强大的内心联系在一起，认为实施积极行为的个体往往是自信、热情、充满力量的。工作场所文明行为对个体资源的要求不高。对于一些缺乏自信或在组织中权力较小、地位较低的人而言，成为一个更好的人可能是实施文明行为的内在动力。在组织中，他们可能表现得不够出色，但也认为自己是有价值的。根据自我验证理论(Boyle,2017)，人们为了获得对外界的控制感和预测感，会不断获得或引发与自我概念相一致的反馈，从而保持行动和自我概念的一致性。个体在实施工作场所文明行为的过程中获得胜任感和效率感，因而感到自己在组织中是有能力、有意义和有价值的。这些感受促使个体形成积极的自我概念，增强基于组织的自尊，由此激发个体的内在动机，催生一些与工作相关的积极后果，如工作投入、组织公民行为等(Zhu,2016)。
+
+# 3.2.2外部提升
+
+工作场所文明行为需要员工付出一定的资源，却未必给予员工相应的回报。一些员工甚至担心自己因为在工作中表现好而遭到利用(Porath&Gerbasi,2015)。事实上，工作场所文明行为非但不会给个体带来损失，还会产生一些意想不到的好处，这些好处只是被藏起来或来的较晚。
+
+首先，工作场所文明行为塑造个体形象。工作场所文明行为与温暖、友好的态度相联系，给行为接收者一种实施者有能力，工作专业，脾气好，待人和善，品行端正的感觉(Edyvane,2017;Porath&Gerbasi,2015)。工作场所文明行为虽然较微小，常表现为非言语形式，却影响了行为接收者的感受，例如一个微笑、一个点头都传达给对方积极的信号一—“你很乐意与团队成员一起共事”“你关注他人的担忧”(Cuddy,Kohut,&Neffinger,2013)。周围人在与你相处的舒适体验中逐渐对你产生积极的评价和认同感。
+
+其次，工作场所文明行为能够扩展社交网络，给个体带来大量有效的信息、建议、职业机会以及人际交往中更多的信任。人们倾向于认为文明的人把工作完成的更好，并乐意向其分享信息、资源、项目或支持(Porath&Gerbasi,2015)。同时，工作场所文明行为使个体的言论更受重视，并获得更多的领导和同事支持(Porath etal.,2015)。
+
+最后，文明的个体获得更多职业发展的机会和晋升的空间。研究表明 $72 \%$ 的人力资源主管认为粗鲁是影响职业前景的不利因素，相反，在人际交往中传达更多合作、信任和尊重词语能够为个体赢得更高的支持率(Porath&Gerbasi,2015)。因而，工作场所文明行为可以规避因行为的疏忽或不得体而导致的个人职业损失。同时，工作场所文明行为很大程度上反映了个体对工作的态度——“你有多认真”“你有多大决心应对挑战”(Cuddy et al.,2013)，这为个体赢得了信任和支持，增强了他们在同事心中的领导力，为他们走上领导岗位奠定基础。
+
+# 3.3工作场所文明行为优化组织发展
+
+工作场所文明行为对于健康的工作环境至关重要。文明行为能够改善安全气氛，减少工作场所伤害(McGonagle,Walsh,Kath,& Morrow,2014)。人们在分享基本工作规范并相互尊重时，工作得更好，成就更多(McDonald,Stockton,&Landrum,2018)。不少研究者证明了文明行为能够降低离职倾向，增强个体与工作的联结感，提升工作投入度和绩效(Maslach,&Leiter,2017)，从而提高生产力，增加组织收益(Montalvo,2013)，促进组织整体的积极运转。
+
+同时，文明行为是组织关系的润滑剂，能够优化支持性的工作环境（Kang et al.,2010），并在面对组织限制时减少人际偏差(Clark＆Walsh,2016)，防止一些意见冲突演变为暴力或行为冲突(Edyvane,2017)。社会交换理论和互惠规范证明：当受到尊重时，人们会感觉自己更好，并更有可能回报以善意，一个积极的交互循环可能随之而来（严瑜，李佳丽，2017）。这种积极的螺旋效应还没有得到研究的印证，但工作场所文明行为在人际关系中的积极效应已经得到广泛验证，且在不同的交互关系中展现出不同的作用模式。本文将从不同关系的视角剖析工作场所文明行为的具体作用机制，并提出一些研究范式，绘制了基本的研究框架（见图2）。
+
+# 3.3.1员工-员工的工作场所文明行为
+
+文明行为展现了热情、友善和他人导向的特质，标志着与他人建立和保持积极关系的动机(Porath,2011)，释放了一种温暖、亲和的力量，使行为接收者感到愉悦、舒服。因而，文明行为缩小了同事之间的距离，促进交流的意愿，有利于减少分歧。同时，文明行为也是工作能力的体现，员工关注其他同事，愿意遵守规范，并调节自身行为(Porath,2011)。相较于不文明行为排斥、驱赶他人(Schilpzand&Huang,2018)，工作场所文明行为能够吸引他人。当员工感受到同事的尊重时，他们感到安全，倾向于喜欢对方(Jensen-Campbell,Knack,& Gomez,2010)并想要加入他们的行列(Cuddy etal.,2013)。实施更多文明行为的员工使同事感到安全、可信，从而愿意与他们分享观点和信息，促进了同事之间信息交流与共享，而文明行为展现的个人素养和能力又加强了交流的有效性，优化同事间的交流与合作，从而提升绩效(Porath&Gerbasi,2015)，并培养和谐友好的组织文化。
+
+# 3.3.2领导-下属的工作场所文明行为
+
+Cuddy等人(2013)认为，温暖和力量囊括了 $90 \%$ 的个体对他人的积极/消极印象。传统思想在强调领导力的时候总是凸显领导的能力和优势等较为强硬的因素。殊不知，在与下属建立信任之前，领导对力量的展现反而容易激发下属的消极情绪，这削弱了他们的认知潜能、创造力和解决问题的能力，引发偏离行为。其实，下属在评判领导时首先不是看领导有多厉害，而是看领导是否可爱，这就涉及到温暖、交流和可信赖等因素了。工作场所文明行为的特殊性在于，它使人们被评价为温暖且有能力的(Porath&Gerbasi,2015)，是一种有效的领导策略。
+
+Candidate和Leiter (2014)的研究发现文明行为能优化同事之间的关系，对主管和员工的关系作用却有限，这可能是因为员工与主管的互动往往仅限于指导和命令，没有为友好亲切的关系留下余地。他们的研究恰恰反映了现今工作场所中领导文明行为的匮乏。工作场所文明行为是优化领导方式的重要手段，从先震慑再领导的路径转变为先影响再领导的路径(Cuddyetal.,2013），展现给员工温暖、亲和力，缩小地位差异，减少领导与下属之间的分歧(Andersson& Pearson,1999)，使他们感到愉快、舒服、安全和信任，并极大提升了他们的健康和幸福感(Porath&Gerbasi,2015)。
+
+同时，领导的特殊性在于他们还是组织的代言人，因而领导的文明行为使员工感到自己享有关注，被组织接纳，对组织是重要且有意义的。员工利用领导的表情、行为来定义自己。以尊严、尊重、沟通为特征的工作场所互动使员工感到被欣赏和有价值，从而提升归属感(Jawahar& Schreurs,2018)。根据自我增强理论，在工作中投入更多自我意识的个体会通过更好的表现来提升自我。因而，来自领导的文明行为使员工感到自身的价值和强大，加强了员工的组织承诺、工作投入，并增加了未来与其他人进行积极互动的可能性(Porath& Gerbasi,2015)。
+
+# 3.3.3员工-顾客的工作场所文明行为
+
+无论是员工与员工间的文明行为还是领导与员工间的文明行为，都建立在同一个组织的大背景下，拥有隶属于同一组织的团体感，工作场所文明行为在这些关系中的作用类似于润滑剂。而对于员工与顾客之间的互动而言，信任的建立十分关键也更为困难。工作场所文明行为在这种关系中发挥的作用更像是敲门砖。
+
+工作场所文明行为是开启员工与顾客积极交互的钥匙。员工对顾客的文明行为包含对顾客反应的敏感度以及对自身表现的调整能力(Panagopoulos&Ogilvie,2015)，传达了为顾客利益考量的真诚友善的态度，比如，谦逊地询问，表达真挚的感谢，对顾客表示理解并指出一件事对于双方各自的好处(Porath&Gerbasi,2015)。这些使得顾客感觉自己的利益被考量，对员工产生积极的评价：善于表达、工作努力、专业等，同时也增加了顾客的适意感和安全感。这些积极的感受直接增进了顾客对员工的信任，并促成接下来的合作，为员工带来潜在的资源。例如，在服务中体验较好的顾客可能在其社交圈中进行交流推广，增加员工绩效，增强组织的信誉；对员工专业度评价较高的顾客也可能给予员工一些资源或工作机会。
+
+现实情境下，同一个员工为同一个顾客服务的次数是有限的(Walker,Jaarsveld,&Skarlicki,2017)，这使得文明的利好很难显现，而不文明的代价却很低。为了解决这个问题，很多企业将顾客满意度作为员工工作成果的重要组成部分进行考量，顾客满意度评分直接影响员工的绩效、奖惩。
+
+# 4未来展望
+
+本文界定了工作场所文明行为的内涵，并阐释了它与不文明行为的关系，但这两个概念的关系仍然存在一些不明确的地方。很多学者认为文明行为与不文明行为是对立的，但这并不意味着一个行为只要不是不文明的，就是文明的。工作场所文明行为与不文明行为似乎不是非此即彼的关系。例如，在与同事的来往邮件中没有写祝福语、在服务客户时没有微笑不属于不文明行为。同样地，在会议上没有打断同事说话、做小动作或做自己的事似乎也不能算是文明行为。工作场所文明行为与不文明行为之间是否存在一种过渡行为？这需要更多的研究者进行探究和说明。我们认为在文明行为与不文明行为之间还存在一种中性行为。中性行为和文明行为都符合相互尊重规范，不具有伤害意图。文明行为具有一定的积极意图，是一种以他人为导向的行为。中性行为基于角色义务的完成，既无积极意图，也无消极倾向，以回避冲突为导向。而不文明行为则是违反组织相互尊重规范的，具有一定伤害意图的偏离行为。
+
+同时，当前的研究发现工作场所文明行为与不文明行为不存在直接抵消的作用，往往需要更多的文明行为才能克服不文明行为的消极性(Cortina etal.,2017)。同时，组织中的文明行为干预研究通常持续较长的时间（如，一年）(Leiter,Day,Oore,& Spence Laschinger,2012)，短期的文明行为干预对员工不文明行为没有显著的影响。这些研究表明工作场所文明行为的积极程度可能低于不文明行为的消极程度，或文明行为的作用不是立竿见影的，其影响存在一定的延迟效应，需要长期的观察研究。具体的机制还需要更多的研究验证。
+
+此外，工作场所（不）文明行为的研究应该采取动态视角。当前研究表明，个体对工作场所（不）文明行为的判断可能并不是基于对行为的全面考量，而是基于行为信息的“小切片”迅速做出关于尊重的判断(Porathetal.,2015)。哪些“小切片”使得人们感受到文明？被感知为“文明”的小切片是否会在某些情况下被感知为“不文明”？一个被贴上文明标签的个体在未来会更容易被视为文明的吗？一个被贴上不文明标签的个体未来可能被视为文明的吗？例如，Scott (2015)认为，文明限制了可接受的言论，一旦被感知为不文明，个体就会失去信誉和他人眼中的理性，他的批判性观念将不会被采信。因而，工作场所（不）文明行为的研究重点不应局限于外在表现，而应该聚焦于其发生发展以及如何被个体感知的动态过程。同时，（不）文明的影响是深远的，它对煽动者自身的长期效应是什么？当前工作场所（不）文明行为的研究大多停留在煽动者为何会实施行为、行为对接收者的影响上，而不关心接收者为什么认为这个行为是文明的或不文明的。触发文明/不文明感知的关键点是什么，文明和不文明是否能够相互转化，这些动态问题急需研究者们进行深入探究。
+
+最后，促进组织文明是一个重要的现实问题。现在的组织行为研究者强调文明行为对于工作场所不文明行为具有较好的抑制作用，主张通过增加组织中整体文明行为的发生率来阻挡不文明行为在组织中的蔓延。这是一个较好的研究思路。同时，Potterton(2018)提出了自上而下的影响思路，认为增强组织的文明应当从领导人员着手，逐渐影响员工。此外，研究还表明个体对组织文明氛围的感知直接影响了他们接受文明训练的意愿以及学习动力(Walsh＆Magley,2018)，因而，培育文明的组织氛围十分关键。现有的文明培育模式主要针对整个组织展开，缺乏个体化的训练和培养模式。为了促使员工文明地发展，组织需要开发有效的培训和激励策略。
+
+# 5参考文献
+
+李毅红，邱华宇.(2019).习近平关于文明的重要论述探析.理论学刊,(2),19-25.   
+严瑜，李佳丽.(2017).超越不文明:从消极无礼的恶化升级到积极的文明干预.心理科学进展,25(2),319- 330.   
+Andersson,L.M.,& Pearson, C.M.(1999).Tit for tat?The spiraling effect of incivility in the   
+workplace. Academy of Management Review, 24(3), 452-471.   
+Belschak,F.D.,&Den Hartog,D.N.(2o10).Pro-self,prosocial,and pro-organizational foci of proactive behaviour: Diferential antecedents and consequences.Journal of Occupational & Organizational   
+Psychology,83(2),475-498.   
+Boyle,K.M. (2Ol7). Verification of self using a mathematical theory of identity, feeling,and behavior. Sociological Forum, 32(2), 659-680.   
+Candidate,R.M.N.D.,& Leiter, M.P.(2014).Predicting cynicism as a function of trust and civility: a longitudinal analysis. Journal of Nursing Management, 22(8),974-983. 60-66.   
+Clark,C.M.,Landrum,R.E.,& Nguyen,D.T. (2013). Developmentand descriptionof the organizational civility scale(OCS).Journal of Theory Construction & Testing,17(1), 11-17.   
+Clark, O.L., & Walsh, B.M. (2016). Civility climate mitigates deviant reactions to organizational constraints. Journal ofManagerial Psychology, 31(1), 186-201.   
+Cortina,L. M.,Kabat-Farr,D., Magley, V.J.,& Nelson, K. (2017). Researching rudeness: The past, present,and future of the science of incivility. Journal of Occupational Health Psychology,22,299-313.   
+Cuddy,A.J.,Kohut,M.,&Neffinger,J. (2o13).Connect,then lead.Harvard Business Review,91(7-8),pags,54 61，   
+Donia,M. B. L., Johns, G., & Raja, U. (2016). Good soldier or good actor? supervisor accuracy in distinguishing between selfless and self-serving OCB motives. Journal of Business and Psychology, 31(1),23-32.   
+Donnelly,B. (2008). Work and integrity: the crisis and promise of professionalism in America. World Futures, 64(64),222-225.   
+Edyvane,D.(2017). The passion for civility. Political Studies Review, 15(3) 344-354.   
+Ferriss,A.L.(2010). Studying and measuring civility: A framework, trends and scale. Sociological Inquiry, 72(3), 376-392.   
+Flaherty, C. The problem with civility. Retrieved September 9, 2014, from   
+http://www.insidehighered.com/news/2014/09/09/berkeley-chancelor-angers-faculty-members-remarks-civilityand-free-speech   
+Ford,M.T., Wang, Y., Jin, J.,& Eisenberger,R. (2018). Chronic and episodic anger and gratitude toward the organization: relationships with organizational and supervisor supportiveness and extrarole behavior. Journal of Occupational Health Psychology, 23(2),175-187.   
+Fredrickson, B.L.,& Duton,J.E.(20o8). Unpacking positive organizing: organisationassites of individual and group flourishing. Journal of Positive Psychology, 3(1),1-3.   
+Fritz, J. H. (2011). Civility in the workplace. Spectra, 47(3),11-14.   
+Fritz, J. H. (2013). Professonal Civility: Communication virtue at work. New York: Peter Lang Publishing. Genugten,L. V., Dusseldorp,E.,Massey,E.K.,& Empelen,P.V. (2017).Effective self-regulation change techniques to promote mental welbeing among adolescents: a meta-analysis.Health Psychology Review,11(1),1- 32.   
+Gilroy,M. (2008). Colleges grappling with incivility.Education Digest Essential Readings Condensed for Quick Review,74,36-40.   
+Giraldi,J. D. M.E.,& Ikeda,A. A. (2o08). Personal values dimensions: a study on brazilian executives.Latin American Business Review, 9(2),169-187.   
+Jawahar,I. M.,& Schreurs,B.(2o18).Supervisor incivilityand how it affects subordinates’ performance:amatter of trust. Personnel Review, 47(3),709-726.   
+Jensen-Campbel,L.A., Knack, J. M., & Gomez, H.L. (2010). The psychology of nice people. Social & Personality Psychology Compass, 4(11), 1042-1056.   
+Kang B.,Twigg N.W. & Hertzman J. (2010) An examination of social support and social identity factors and their relationship to certified chefs' burnout. International Journal of Hospitality Management, 29, 168-176. Kent, S.,& Murlink, O. (2014). Getting a grip on why incivility happens within the workplace: acommentary essay. Social Justice Research, 27(1), 137-148.   
+Leiter,M. (2013).Analyzing and Theorizing the Dynamics of the Workplace Incivility Crisis. Dordrecht, Netherlands: Springer.   
+Leiter,M. P., Day,A., Oore, D. G., & Spence Laschinger, H. K. (2012). Geting Better and Staying Better: Assessing Civility, Incivility,Distress,and Job Atitudes One Year After a Civility Intervention. Journal of Occupational Health Psychology, 17(4), 425-434.   
+Leiter,M. P., Spence Laschinger,H. K.,Day,A.,& Oore,D.G. (002011). The impact of civility interventions on employee social behavior. Distress,and Attitudes, 96(6),1258-1274.   
+Livi S.,Theodorou A.,Rull M., Cinque L.,&Alessandri G.(2018).The rocky road to prosocial behavior at work: The role of positivity and organizational socialization in preventing interpersonal strain. PLoS ONE,13(3): e0193508. https://doi.org/10.1371/journal.pone.0193508   
+Maslach, C.,& Leiter,M.P. (20l7).New insights into burnout and health care: Strategies for improving civility and alleviatingburnout.Medical Teacher; 39(2),160-163.   
+McDonald,T. W.,Stockton,J.D.,&Landrum,R.E. (2018).Civility and academic freedom: Who defines the former (and how) may imperil rights to the latter. College Quarterly,21(1). Retrieved September 2,2018, from http://collegequarterly.ca/2018-vol21-num01-winter/civility-and-academic-freedom-who-defines-the-former-andhow-may-imperil-rights-to-the-latter.html   
+Mcgonagle,A.K., Walsh, B.M.,Kath,L.M.,& Morrow, S.L. (2014). Civility norms,safety climate,and safety outcomes: A preliminary investigation.Journal of Occupational Health Psychology,19(4),437-452.   
+Meyers,M.C.,Van Woerkom,M.,& Bakker,A.B.(20i3).The added value of the positive: a literature review of positive psychology interventions in organizations. European Journal of Work & Organizational   
+Psychology,22(5),618-632.   
+Montalvo,L. (2013,September).An evidence based synthesis of civility and incivility literature: A model to explain civil and uncivil behaviors in the workplace. Paper presented at the Third International Conference on Engaged Management Scholarship, Atlanta, GA. Osatuke,K.,Moore,S.C.,Ward,C.,Dyrenforth,S.R.,&Belton,L. (2009).Civility,respect, engagement inthe Workforce (CREW): Nationwide organization development intervention at Veterans Health Administration. The JournalofApplied Behavioral Science,45,384-410.   
+Panagopoulos,N.G.,& Ogilvie,J. (2015). Can salespeople lead themselves? Thought self-leadership strategies and their influence on sales performance.Industrial Marketing Management, 47,190-203.   
+Periard,D.A.,Yanchus,N.J.,Morris,M.B., Barnes,T.,Yanovsky,B.,& Osatuke,K.(2018).LGB and heterosexual federal civilian employee diferences in the workplace.Psychology ofSexual Orientation and Gende Diversity, 57-71.   
+Porath, C.L. (2011). Civility. In K. Cameron & G. Spreitzer (Eds.), Handbook of positive organizational scholarship (pp. 439-448). New York, NY: Oxford University Press.   
+Porath,C.L.,& Gerbasi,A. (2015). Does civility pay?. Organizational Dynamics,44(4),281-286.   
+Porath, C.L.,Gerbasi,A.,& Schorch,S.L. (2015).The effects of civility on advice,leadership,and performance. Journal of Applied Psychology, 100(5),1527-1541.   
+Potterton,D.(2018). Managing conflict through workplace civility. Industrial Management, 1,21-24. Schaefer, L. (2015). History and civility. NAMTA Journal, 40(1), 103-110.   
+Schilpzand,P.,& Huang,L. (2018). When and how experienced incivility dissuades proactive performance an integration of sociometerand self-identityorientation perspectives.Journal of Applied Psychology,103(8),828- 842.   
+Scott,J. W.(2015).The new thought police: Why are campus administrators invoking civilityto silence critical speech?.Nation,300(18),12-18.   
+Spence Laschinger, H. K.,Finegan, J.,& Wilk,P. (2O09). New graduate burnout: the impact of professional practice environment, workplace civility, and empowerment. Nursing economic\$, 27(6), 377-383.   
+Spence Laschinger, H. K., Leiter, M.P.,Day,A., Oore, G.D.,& Mackinnon, S.P. (2012). Building empowering work environments that foster civility and organizational trust: Testing an intervention. Nursing Research, 61(5), 316-325.   
+Von Bergen, C. W.,& Colier, G. (2013). Tolerance as civility in contemporary workplace diversity   
+initiatives.Administrative Issues Journal Education Practice& Research,3,86-97.   
+Walker,D.D.,Jaarsveld,D.D.V.,&Skarlicki,D.P.(2017).Sticks and stones can break mybonesbut words can also hurt me: The relationship between customer verbal aggression and employee incivility. Journal of Applied Psychology, 102(2),163-179.   
+Walsh,B.M.,& Magley, V. (2018). Workplace civility training: Understanding drivers of motivation to learn. International Journal of Human Resource Management,DOI: 10.1080/09585192.2018.1441164. Walsh,B.M.,Magley, V.J.,Reeves,D.W.,Davies-Schrils,K.A.Marmet,M.D.,& Galus,J.A.(2012). Assessing workgroup norms for civility: The development of the civility norms questionnaire-brief.Journal of Business Psychology,27(4): 407-420.   
+Wilkins,K., Caldarela,P.,Crook-Lyon,R.E., Young, K.R.(2010).The civil behaviorofstudents: Asurveyof school professionals.Education, 130(5),540-555.   
+Zhu,Y. (2016). Organization-based self-esteem affects employees' exchange relationship perceptions and extrarol behavior. Social Behavior&Personality And International Journal,44(3),509-518.
+
+# Workplace Civility: From Implicit Self-Promotion to Explicit Organizational Optimization
+
+YAN Yu; CAO Zhaoxue (Department of Psychology, School of Philosophy, Wuhan University, Wuhan, 430072, China)
+
+Abstract: Workplace civilized behavior is a proactive behavior that conveys courtesy and respect based on social and organizational role obligations. This behavior depends on organizational culture. In recent years, with the influence of positive psychology on organizational behavior research, the value of workplace civility has attracted the attention of scholars, and there has been discussion about its implication and nature. Because workplace civility is inwardly demanding of self-control and outwardoriented behavior of conveying respect, it has positive significance for the shaping of individuals, the promotion of interpersonal relationships in organizations,and the cultivation of an organizational atmosphere. Based on a literature search, this paper provides an operational definition and basic research framework for workplace civility.
+
+Keywords: workplace civility; self-control; respect; promotion; optimization

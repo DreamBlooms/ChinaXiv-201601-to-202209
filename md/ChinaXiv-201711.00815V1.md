@@ -1,0 +1,189 @@
+肌纤维类型转化的分子信号通路及其营养调控进展郭秋平1,2 文超越1.3 王文龙1,3 段叶辉1,2 李颖慧1,2 李凤娜 1,4\*
+
+（1.中国科学院亚热带农业生态研究所，畜禽养殖污染控制与资源化技术国家工程实验室，中国科学院亚热带农业生态过程重点实验室，长沙410125；2.中国科学院大学研究生院，北京100049；3.湖南师范大学生命科学学院，动物营养与人类健康实验室，长沙410006;4.湖南畜禽安全生产协同创新 中心，长沙410128）
+
+摘要：骨骼肌由不同类型的肌纤维组成，根据肌纤维肌球蛋白重链的不同，将肌纤维分为I、ⅡIa、ⅡIx 和ⅡIb 型。骨骼肌中肌纤维类型的组成可影响屠宰后肉质，而肌纤维类型的转化则受体内多种信号通路和调控因子的调节以及饲粮营养因素的调控。本文对肌纤维转化的分子信号通路及其营养调控进行初步总结，为今后研究通过营养策略调控肉品质提供参考。
+
+关键词：骨骼肌；肌纤维类型转化；信号通路；营养调控；肉品质中图分类号：S811
+
+骨骼肌由不同类型的肌纤维组成。传统分类方法是利用组织化学染色法，依据肌纤维代谢和收缩特点将肌纤维分为慢速氧化型（I型）、快速酵解型（ⅡI型）和氧化-酵解混合型[1；利用现代分子生物学方法，根据肌纤维所含肌球蛋白重链（myosin heavy chain,MyHC）的不同，将肌纤维分为 $\mathrm { ~ I ~ }$ 、IIa、ⅡIx和IIb4种，代谢类型从氧化到酵解过渡，收缩速度依次增加。肌肉中不同肌纤维类型的比例可影响屠宰后的肉品质[2I。哺乳动物肌纤维数目在出生前已经基本确定，其中猪在胚胎期 $9 0 \mathrm { ~ d ~ }$ 以后肌纤维的数目就已不再发生变化[3]。哺乳动物成熟骨骼肌表现出高度可塑性，年龄、营养、激素和运动等因素均可以使肌纤维类型发生转化，肌纤维转化遵循 $\mathrm { I }  \mathrm { I I a }  \mathrm { I I x }  \mathrm { I I b }$ 的变化规律[4]。肌纤维的转化受到多条信号通路和诸多细胞因子的调节（图1）[5]。MyHC表达水平的改变，表现为肌纤维类型的转化。本文总结了近年来通过营养调控包括植物提取物、饲粮能量与粗蛋白质水平和不饱和脂肪酸对肌纤维类型的调节作用，为今后研究通过营养策略改善肌纤维类型和肉品质提供理论依据。
+
+# 1肌纤维类型转化信号通路
+
+肌纤维的转化受多条信号通路的调节，主要是骨骼肌细胞内钙离子（ $\mathrm { C a } ^ { 2 + }$ ）浓度和代谢产物的变化，激活下游信号分子通路，并进而调节与肌纤维类型相关基因的表达，引起肌纤维适应性转化。
+
+1.1腺苷酸激活的蛋白激酶（AMPK）/过氧化物酶受体增殖激活受体γ辅助激活因子-1α（PGC-1α）/沉默信息调节因子1（SIRT1）信号通路
+
+AMPK 是一种重要的平衡细胞能量的调节激酶，被称为"细胞能量调节器”。在运动时，AMPK对维持能量供应至关重要。AMPK受多种代谢信号的调节，如AMP/ATP 值过高、运动等，AMPK 磷酸化激活后可调节机体包括骨骼肌组织在内的多条下游靶向通路。AMPK 基因缺失的小鼠耐力训练时IIb向IIa、IIx 肌纤维型转化能力降低[]。PGC-1α 在骨骼肌中高度表达，在肌纤维转化中有重要作用。PGC-1α是AMPK下游重要靶分子，可直接被 AMPK 磷酸化，PGC-1α 能促进线粒体的生物合成、有氧代谢以及慢型肌纤维的形成[7]。Lin 等[8]发现骨骼肌超表达 PGC-1α 的小鼠酵解型纤维中I型纤维含量增加，氧化代谢相关蛋白增加，肌肉抗疲劳性也相应提高。Arany 等9也发现转入PGC-1α 的诱导小鼠抗疲劳性增加，且诱导IIx型肌纤维向I型肌纤维转化，而骨骼肌特异性敲除PGC-1α会促使肌纤维从I型、IIa 型氧化型向ⅡIx、IIb 酵解型转化[0]。SIRT1 是机体内另一重要能量感受器。SIRT1 是依赖烟酰胺腺嘌呤二核苷酸（NAD+）的组蛋白去乙酰化酶，与能量代谢调节、氧自由基代谢等多种生理过程有关。机体内AMPK可通过调节尼克酰胺磷酸核糖转移酶活性，使 NAD+/还原型烟酰胺腺嘌呤二核苷酸（NADH）值升高，从而激活 SIRT1[1]。小鼠骨骼肌中 SIRT1 超表达促进快肌纤维向慢肌纤维转化，且提高 PGC-1α 水平[I2]。SIRT1可通过调节生肌调节因子（myofiber regulation factors，MRFs）影响肌纤维的分化。MRFs 家族包括成肌分化抗原（MyoD）、肌细胞生成素（myogenin）、Myf5 和MRF44种。MRFs可调节成肌细胞向不同方向分化，改变肌纤维类型。在出生之后MRF4在成年个体慢肌纤维中持续高表达，推测其参与肌纤维表型调控[13]。MyoD 可调节肌细胞特异性增强结合因子 2（myocyte-specific enhancer-binding factor 2，MEF2）影响 MyHC 基因的表达，改变肌纤维类型，而 SIRT1可以特异性抑制肌细胞分化标志基因MyoD 和MEF2的表达，使肌卫星细胞分化受阻，最终改变肌纤维类型[14]。
+
+![](images/c4448dc81d22236505a25785f36dc6bd2218cb263a0cf2b2ef83a543d4965920.jpg)  
+图1骨骼肌纤维类型转化信号通路图
+
+CaM：钙调素 calmodulin；CaMK：钙调素依赖性蛋白激酶 calmodulin dependent protein kinase；AMPK：腺苷酸活化蛋白激酶 AMP-activated protein kinase；SIRT1：沉默信息调节因子1 silent informationregulator1；PGC-lα：过氧化物酶受体增殖激活受体γ 辅助激活因子 $- 1 \alpha$ peroxisome proliferator-activatedreceptor $\boldsymbol { \gamma }$ co-activatorlα；MEF2：肌细胞特异性增强结合因子 2 myocyte-specific enhancer-binding factor 2;CaN：钙调磷酸酶calcineurin；NFAT：T细胞核因子 nuclear factor of activated Tcels；HDACs：组蛋白脱乙酰酶 histone deacetylases；Fnip1：卵泡素互作蛋白1 folliculin interacting protein-1；FNDC5：纤维连结蛋白III型域包含蛋白 5 fiber links protein II domain contains 5；Irisin：鸢尾素；FoxO1：叉头框转录因子O亚族1 forkhead box transcription factor O1；Akt：蛋白激酶B protein kinase B；PPARs：过氧化物酶体增殖剂激活受 体 peroxisome proliferators-activated receptors；ERR：雌激素相关受体 estrogen-related receptor。
+
+Fig.1 Signaling pathways of skeletal muscle fiber transition[5]
+
+1.2 $\mathrm { C a } ^ { 2 + } /$ 钙调磷酸酶（CaN）/钙调素依赖性蛋白激酶（CaMK）信号通路
+
+在骨骼肌中， $\mathrm { C a ^ { 2 + } }$ 依赖的转运途径对肌纤维转化起着重要的作用，可以通过激活转录因子，调节线粒体核编码基因，使肌纤维发生类型转化[15]。激活转录因子CaN 信号转导调节是重要的 $\mathrm { C a } ^ { 2 + }$ 依赖转运途径。钙调磷酸酶是一种依赖于 $\mathrm { C a } ^ { 2 + } /$ 钙调素（CaM）的丝氨酸/苏氨酸蛋白磷酸酶。肌纤维出现动作电位时，肌纤维内 $\mathrm { C a } ^ { 2 + }$ 含量持续增加，与CaM结合并激活CaN，进而使T细胞核因子（nuclear factor of activated Tcells，NFAT）去磷酸化，移位进入细胞核，与靶基因结合，促进慢肌纤维基因的表达[16]。运动可以通过调节CaN 信号影响肌纤维的转化。吴金富[17]发现载负荷离心运动可激活 $\mathrm { C a } ^ { 2 + }$ ，并通过CaN 调节肌纤维的转化。小鼠敲除CaN 基因，I型肌纤维比例下降，而CaN 基因过表达，骨骼肌中I、IIa型肌纤维比例升高[18]。McCullagh 等[19]发现 NFAT 促进了慢肌纤维基因的表达，抑制快肌纤维基因的表达。CaMK 可被细胞内升高的 $\mathrm { C a ^ { 2 + } }$ 激活，引起肌纤维类型转化。当进行力量运动时，体内CaMKⅡI活性升高，并随着运动强度增加而升高，表明 $\mathrm { C a ^ { 2 + } / C a M K }$ 参与肌纤维类型的转化，其调控路径为激活的 CaMK 与组蛋白脱乙酰酶(histone deacetylases,HDACs)作用后，HDACs 转移至细胞核质内，使 MEF2 活化，诱导慢肌纤维基因表达[18-20]。CaMKI也作为AMPK上游信号分子调节小鼠肌肉的氧化代谢能力[21]。
+
+# 1.3其他重要调控因子
+
+# 1.3.1卵泡素互作蛋白1（folliculin interacting protein-1，Fnip1)
+
+Fnip1 是在体内与卵泡素相互作用的一种蛋白质。Baba 等[22]研究发现在肾脏细胞中，Fnip1可被AMPK 磷酸化，加入AMPK抑制剂后，其磷酸化水平降低，推测 Fnip1可能与AMPK 参与的能量感知相关。在此基础上，Park 等[23]发现与野生型小鼠相比，Fnip1 基因缺失的小鼠前B 细胞AMPK水平增加，且与AMPK相关线粒体代谢基因和葡萄糖摄取增加，表明在前B 细胞中，Fnip1作为AMPK下游物质对代谢应激后代谢平衡的维持十分重要。同时，Park 等[23]发现Fnip1 在骨骼肌中表达水平较高。Reyes 等[24]发现在骨骼肌细胞中，Fnip1基因缺失导致线粒体氧化磷酸化水平增加，线粒体功能增强，氧化型肌纤维增加，肌纤维类型发生转化。Fnip1可能通过直接或间接途径调控 AMPK从而调节线粒体生物合成与肌纤维类型。
+
+# 1.3.2叉头框转录因子O亚族1 (FoxO1)
+
+FoxO1是FoxO 家族中主要的调控因子，受多种磷酸化激酶调控，在成肌细胞增殖分化及肌纤维类型转化中发挥重要作用。Schachter 等[25]发现FoxO1受磷酸化的蛋白激酶 B（Akt）调节。在骨骼肌中，禁食期间FoxO1可调节碳水化合物分解以提供能量[26]。Kamei等[27]发现转入人类FoxO1基因的小鼠表现为肌肉体积、重量降低，且肌肉颜色发白。史新娥等[28]发现通过 shRNA干扰FoxO1表达促进猪成肌细胞中 MyHCI的表达，与张辉等[29]研究发现FoxO1抑制猪骨骼肌MyHCI的表达结果一致。急速或慢速偏心运动会改变快骨外肌浅区FoxO1mRNA的表达水平，进而改变肌纤维类型[30]。
+
+# 1.3.3过氧化物酶体增殖激活受体（PPARs）
+
+PPARs 是在转录水平调节基因表达的一类核内受体。Wang 等[31I发现小鼠灌胃 PPARδ激动剂后，线粒体合成增加，且I型肌纤维含量增加，表明PPARδ可能是肌纤维转化过程中的关键分子。Luquet 等[32]发现骨骼肌中超表达PPAR8，能够促进肌纤维由ⅡI型向I型肌纤维转变，并使骨骼肌氧化代谢能力增强。耐力训练使 PPARγ 和 PGC-1α在不同肌纤维类型中有不同水平的升高，可能与改变肌纤维中线粒体含量和氧化类型有关[33]。Schuler 等[34]敲除小鼠 $P P A R \beta$ 发现肌纤维氧化能力下降，PPARβ同时刺激 $P G C - 1 \alpha$ 表达。PPARγ可能与PGC-1α 由于蛋白之间的相互作用而被激活[35]。PPARs 与雌激素相关受体（estrogen-relatedreceptor，ERR）直接或间接作用促进慢肌纤维表达[36]。
+
+# 2肌纤维类型转化的营养调控措施
+
+# 2.1天然植物提取物
+
+天然植物提取物中常含有多种多酚类物质，多酚类物质能够提高骨骼肌AMPK磷酸化程度，进而促进PGC-1α磷酸化并活化，推测天然植物提取物可能通过调节 AMPK途径调控肌纤维类型的转化[37]。饲粮添加杜仲多酚提取物，猪背最长肌中I型肌纤维相关基因的表达水平显著升高，而ⅡIb 型肌纤维的表达水平显著降低[38]。小鼠灌服红景天苷和红景天能够促进快肌纤维向慢肌纤维的转化[39]。小鼠饲粮中添加 $5 \%$ 苹果多酚能提高肌肉中慢肌纤维的比例，随后试验表明， $0 . 5 \%$ 的添加量也能促进慢肌纤维的形成[40-41]。Murase 等[42]研究发现小鼠饲粮中添加富含多酚的绿茶提取物提高肌肉力耐受力和氧化能力。王丽娜等[43]在育肥猪饲粮中添加表没食子儿茶素没食子酸酯反而导致I型肌纤维含量减少，AMPK 表达量降低，且 $P G C - 1 \alpha$ 表达量受到抑制，这可能与提取物的种类以及添加量有关。
+
+# 2.2能量与粗蛋白质水平
+
+饲粮中能量和粗蛋白质水平与来源可调节肌纤维类型的组成。Harrison 等[44]发现，营养不良对 $3 { \sim } 7$ 周龄猪背最长肌中各类型肌纤维的含量无影响，但显著提高菱形肌中I型肌纤维的比例，推测营养水平可能对不同部位肌纤维转化的影响不一致，表现出组织部位的特异性。Lefaucheur[45]研究发现，仔猪营养不良导致背最长肌IIb 型肌纤维的比例显著升高，而ⅡIa型肌纤维的比例显著降低，相反限饲可使肌肉中的I型肌纤维比例显著增加。Li等[46]研究发现饲粮不同能量来源影响育肥猪肌纤维类型，低淀粉、高脂和高纤维饲粮组I型和Ia型肌纤维增加，IIx和 $\mathrm { I I }$ b 型肌纤维减少，表明低淀粉高纤维饲粮能减少酵解型肌纤维的比例，提高育肥猪的肉质。孙相俞[47发现，与低能量组相比，高能量组肌肉中Ia 和IIx 型肌纤维比例增加，IIb型肌纤维比例降低。陈佳[48]研究发现，饲粮粗蛋白质水平越高，杜约八三元杂交猪肌纤维直径越粗；Li等[49]发现，饲粮粗蛋白质水平由 $1 6 \%$ 降低至 $13 \%$ ，生长育肥猪背最长肌和腰大肌 $\mathrm { I I }$ a 型肌纤维及股二头肌I型肌纤维的比例显著增加；杨飞云等[50则在试验中发现营养水平对荣昌猪和杜长大三元杂交猪背最长肌中肌纤维类型的组成无显著影响，推测研究结果的差异可能与猪品种和生长阶段有关。此外，蛋白质的来源也会影响肌纤维类型相关基因的表达，牛肉提取物促进小鼠趾长伸肌慢肌纤维基因的表达，而鱼蛋白则降低小鼠比目鱼肌 PGC-1α 含量和I型肌纤维基因的表达量[51-52]。AMPK 作为机体内重要的能量感受器，调控细胞能量的输出，饲粮能量和粗蛋白质水平均会导致肌纤维类型组成的改变，可能与能量感受网络中AMPK的调节作用有关。
+
+# 2.3不饱和脂肪酸
+
+最新的研究表明，脂肪中脂肪酸的组成与比例也影响肌纤维类型的转化。任阳[53]发现不饱和脂肪酸促进小鼠I型肌纤维基因的表达，并推测可能与AMPK通路有关。妊娠后期和哺乳期饲粮中添加不饱和脂肪酸可通过母体效应促进后代哺乳仔猪肌肉组织中相关基因的表达，提高仔猪氧化型肌纤维的比例[53]。不饱和脂肪酸处理肌细胞后，AMPK 基因表达量显著上调，推测不饱和脂肪酸促进氧化型肌纤维的形成可能与 AMPK信号通路的激活相关[53]。不饱和脂肪酸的种类对肌纤维类型的转化也有一定的影响。田春庄[54]发现 n-3 家族不饱和脂肪酸添加能促进猪肌肉组织I和Ⅱa型肌纤维相关基因的表达，从而改善肌纤维类型组成。与饲喂富含 n-6多不饱和脂肪酸的大豆油相比，饲粮中添加富含 n-3多不饱和脂肪酸的鱼油显著增加小鼠趾长伸肌IIx型肌纤维的比例，而显著降低IIb 型肌纤维的比例[55]。
+
+# 3小结
+
+肌纤维转化受多种信号通路及调控因子的影响，营养因素对肌纤维的转化有着不同程度的调节作用。近年来，除了对诱导成肌纤维细胞转化的研究不断深入之外，对诱导肌卫星细胞定向分化从而调控肌纤维类型的研究也一直在进行。对肌卫星细胞全基因组时序表达谱检测发现，肌卫星细胞始终参与肌肉干细胞的形成和功能的维持[56]。肌卫星细胞可分化为不同的亚群，包括快肌亚群、慢肌亚群和可转化亚群[57]。正常生理条件下，肌卫星细胞在基膜和基底膜之间处于静息状态，当机体状态发生改变，肌卫星细胞在细胞因子的刺激下进入细胞周期，形成新的成肌纤维细胞[58]。控制肌卫星细胞的定向分化，为调控肌纤维类型的转化提供了一个新的研究方向。肌纤维类型转化研究工作的深入开展，为畜牧养殖领域的精准饲养和畜禽肉品质的靶向营养调控奠定理论基础，也为人类肌病的治疗方案提供参考借鉴。
+
+参考文献：
+
+[1]ASHMORE C R,DOERR L.Comparative aspects of muscle fiber types in different species[J].Experimental Neurology,1971,31(3):408-418.
+
+[2] LISTRAT A,LEBRET B,LOUVEAU I,et al.How Muscle structure and composition influence meat and flesh quality[J].Scientific World Journal,2016,2016:3182746.
+
+[3]PICARD B,LEFAUCHEUR L,BERRI C,et al.Muscle fibre ontogenesis in farm animal species[J].Reproduction Nutrition Development,2002,42(5):415-431.
+
+[4]PETTE D,STARON R S.Transitions of muscle fiber phenotypic profiles[J].Histochemistry and Cell Biology,2001,115(5):359-372.
+
+[5]HOPPELER H.Molecular networks in skeletal muscle plasticity[J].Journal of Experimental Biology,2016,219(2):205-213.
+
+[6] SUWA M,NAKANO H,KUMAGAI S.Effects of chronic AICAR treatment on fiber composition,enzymeactivity,UCP3,and PGC-1 in rat muscles[J].JournalofApplied Physiol0gy,2003,95(3):960-968.
+
+[7]文超越,段叶辉,李颖慧,等.能量感应网络AMPK/SIRT1/PGC-lα对骨骼肌纤维类型转化调节[J].动物营养学报,2016,28(1):57-63
+
+[8] LIN JD,WU H,TARR P T,et al.Transcriptional co-activator PGC-1α drives the formation of slow-twitch muscle fibres[J].Nature,2002,418(6899):797-801.
+
+[9] ARANY Z,LEBRASSEUR N,MORRIS C,et al.The transcriptional coactivator PGC- $1 \beta$ drives the formation of oxidative type IIX fibers in skeletal muscle[J].Cell Metabolism,2007,5(1):35-46.
+
+[10]于亮,张鹏,王瑞元,等.PGC-1α 对骨骼肌肌纤维类型及运动能力的调控作用[J].生理科学进展,2013,44(1):59-62.
+
+[11] CANTO C.JIANG L Q,DESHMUKH A S,et al.Interdependence of AMPK and SIRT1 for metabolic adaptation to fasting and exercise in skeletal muscle[J].Cell Metabolism,2010,11(3):213-219.
+
+[12] CHALKIADAKI A,IGARASHI M,NASAMU A S,et al.Muscle-specific SIRT1 gain-offunction increases slow-twitch fibers and ameliorates pathophysiology in a mouse model of duchenne muscular dystrophy[J].PLoS Genetics,2014,10(7):e1004490.
+
+[13] WALTERS E H,STICKLAND N C,LOUGHNA P T.MRF-4 exhibits fiber type- and musclespecific pattern ofexpression inpostnatal ratmuscle[J].AmericanJournal of Physiology.Regulatory,Integrative and Comparative Physiology,2000,278(5):R1381-R1384.
+
+[14]刘蓓蓓,卢健.SIRT1 对肌卫星细胞和骨骼肌再生的影响[J].中国运动医学杂志,2013,32(3):275-280,274.
+
+[15] CHIN E R.Roleof $\mathrm { C a } ^ { 2 + }$ /calmodulin-dependentkinasesinskeletalmuscle plasticity[J].Journal of Applied Physiology,2005,99(2):414-423.
+
+[16]SWOAP S J,HUNTER R B,STEVENSON E J,et al.The calcineurin-NFAT pathway and muscle fiber-type gene expression[J].American Journal of Physiology： Cell Physiology,2000,279(4):C915-C924.
+
+[17]吴金富 $\mathrm { C a ^ { 2 + } / C a N }$ 途径在悬吊再负荷大鼠肌纤维类型转化中的作用[D].硕士学位论文.北京：北京体育大学，2010:42-47.
+
+[18]贾安峰,冯京海,张敏红.调控骨骼肌肌纤维类型转化的因素及机制[J].动物营养学报，2014,26(5):1151-1156.
+
+[19] MCCULLAGH K J A,CALABRIA E,PALLAFACCHINA G,et al.NFAT is a nerve activity sensor in skeletal muscle and controls activity-dependent myosin switching[J].Proceedings of the National Academy of Sciences of the United States of America,2004,101(29):10590-10595.
+
+[20] 张楠.运动对AMPK不同基因型小鼠骨骼肌PGC1-MEF2的影响[D].硕士学位论文.北京：北京体育大学，2011:26-31.
+
+[21] RANEY M A,TURCOTTE L P.Evidence for the involvement of CaMK II and AMPK in $\mathrm { C a } ^ { 2 + }$ -dependent signaling pathways regulating FA uptake and oxidation in contracting rodent muscle[J].Journal of Applied Physiology,2008,104(5):1366-1373.
+
+[22] BABA M,HONG S B,SHARMA N,et al.Foliculin encoded by the BHD gene interacts with a binding protein,FNIP1,and AMPK,and is involved in AMPK and mTOR signaling[J].Proceedings of the National Academy of Sciences of the United States of America,2006,103(42):15552-15557.
+
+[23]PARK H,STAEHLING K,TSANG M,et al.Disruption of Fnip1 reveals a metabolic checkpoint controlling B lymphocyte development[J].Immunity,2012,36(5):769-781.
+
+[24]REYES N L,BANKS G B,TSANG M,et al.Fnip1 regulates skeletal muscle fiber type specification,fatigue resistance,and susceptibility to muscular dystrophy[J].Proceedings of the National Academy of Sciences of the United States of America,2014,112(2):424-429.
+
+[25] SCHACHTER T N,SHEN T S,LIU Y G,et al.Kinetics of nuclear-cytoplasmic translocation of FoxO1 and FoxO3A in adult skeletal muscle fibers[J].American Journal of Physiology： Cell Physiology,2012,303(9):C977-C990.
+
+[26] KOUSTENI S.FoxO1,the transcriptional chief of staff of energy metabolism[J].Bone,2012,50(2):437-443.
+
+[27] KAMEI Y,MIURA S,SUZUKI M,et al.Skeletal muscle FoxO1 (FKHR) transgenic mice have less skeletal muscle mass,down-regulated type I (slow twitch/red muscle） fiber genes,and impaired glycemic control[J].Journal of Biological Chemistry,2004,279(39):41114-41123.
+
+[28]史新娥,郑雪莉,刘月光,等.慢病毒介导 shRNA干扰FoxO1促进猪成肌细胞中 MyHCI的表达[J].中国生物化学与分子生物学报,2011,27(6):582-588
+
+[29]张辉,史新娥,袁媛,等.FoxO1抑制猪骨骼肌MyHCI的表达[J].中国生物化学与分子生物学报,2010,26(3):283-289.
+
+[30] AZAD M,KHALEDI N,HEDAYATI M.Effect of acute and chronic eccentric exercise on FoxO1 mRNA expression as fiber type transition factor in rat skeletal muscles[J].Gene,2016,584(2):180-184.
+
+[31]WANG Y X,ZHANG C L,YU R T,et al.Regulation of muscle fiber type and running endurance by PPARS[J].PLoS Biology,2004,2(1O):e294.
+
+[32] LUQUET S,LOPEZ-SORIANO J,HOLST D,et al.Peroxisome proliferator-activated receptor 8 controls muscle development and oxidative capability[J].The FASEB Journal,2003,17(15):2299-2301.
+
+[33]RUSSELL A P,FEILCHENFELDT J,SCHREIBER S,et al.Endurance training in humans leads to fiber type-specific increases in levels of peroxisome proliferator-activated receptor-y coactivator-1 and peroxisome proliferator-activated receptor-α in skeletal muscle[J].Diabetes,2003,52(12):2874-2881.
+
+[34] SCHULER M,ALI F,CHAMBON C,et al.PGC1α expression is controlled in skeletal muscles by PPARβ,whose ablation results in fiber-type switching,obesity,and type 2 diabetes[J].Cell
+
+Metabolism,2006,4(5):407-414.
+
+[35] JUNGS,KIM K.Exercise-induced PGC-1α transcriptional factorsin skeletal muscle[J].Integrative Medicine Research,2014,3(4):155-160.
+
+[36] GAN Z J,RUMSEY J,HAZEN B C,et al.Nuclear receptor/microRNA circuitry links muscle fiber type to energy metabolism[J].The Journal of Clinical Investigation,2013,123(6):2564-2575.
+
+[37] VACCA R A,VALENTI D,CACCAMESE S,et al.Plant polyphenols as natural drugs for the management of down syndrome and related disorders[J].Neuroscience & Biobehavioral Reviews,2016,71:865-877.
+
+[38] 周艳.杜仲叶多酚提取物对猪肉品质及绿原酸缓解肝—肠损伤研究[D].博士学位论文.南昌：南昌大学,2015:33-34.
+
+[39] 于亮,陈晓萍,王瑞元.4 周红景天、红景天苷灌胃对小鼠骨骼肌纤维类型的影响及机制[J].北京体育大学学报,2014(6):54-58.
+
+[40]MIZUNOYA W,MIYAHARA H,OKAMOTO S,et al.Improvement of endurance based on muscle fiber-type composition by treatment with dietary apple polyphenols in rats[J].PLoS One,2015,10(7):e0134303.
+
+[41] MIZUNOYA W,OKAMOTO S,MIYAHARA H,et al.Fast-to-slow shift of muscle fiber-type composition by dietary apple polyphenols in rats:Impact of the low-dose supplementation[J].Animal Science Journal,2016,doi:10.1111/asj.12655.
+
+[42] MURASE T,HARAMIZU S,SHIMOTOYODOME A,et al.Green tea extract improves endurance capacity and increases muscle lipid oxidation in mice[J].American Journal of Physiology: Regulatory,Integrative and Comparative Physiology,2005,288(3):R708-R715.
+
+[43]王丽娜,王珍,彭建龙,等.表没食子儿茶素没食子酸酯对育肥猪骨骼肌纤维类型的影响[J] 畜牧兽医学报,2016,47(8):1581-1591.
+
+[44]HARRISON A P,ROWLERSON A M,DAUNCEY M J.Selective regulation of myofiber differentiation by energy status during postnatal development[J].The American Journal of Physiology,1996,270(3 Pt 2):R667-R674.
+
+[45]LEFAUCHEUR L.A second look into fibre typing-relation to meat quality[J].Meat Science,2010,84(2):257-270.
+
+[46] LI Y J,LI J L,ZHANG L,et al.Effects of dietary energy sources on Post mortem glycolysis,meat quality and muscle fibre type transformation of finishing pigs[J].PLoS One,2015,10(6):E0131958.
+
+[47] 孙相俞.不同品种和营养水平对猪肌纤维类型和胴体肉质性状的影响[D].硕士学位论文.雅安:四川农业大学,2009:31-32
+
+[48] 陈佳.日粮蛋白水平对杜约八三元杂交猪生长性能和肉质性状的影响[D].硕士学位论文.  
+杨凌：西北农林科技大学，2016:25-26.
+
+[49] LI Y H,LI F N,WU L,et al.Effects of dietary protein restriction on muscle fiber characteristics and mTORC1 pathway in the skeletal muscle of growing-finishing pigs[J].Journal of Animal Science and Biotechnology,2016,7(1):47.
+
+[50]杨飞云,陈代文,黄金秀,等.猪背最长肌肌纤维类型的发育性变化及品种与营养影响特点 [J].畜牧兽医学报,2008,39(12):1701-1708.
+
+[51]KAWABATA F,MIZUSHIGE T,UOZUMI K,et al.Fish protein intake induces fast-muscle hypertrophy and reduces liver lipids and serum glucose levels in rats[J].Bioscience,Biotechnology,and Biochemistry,2015,79(1):109-116.
+
+[52]YOSHIHARA H,WAKAMATSU J,KAWABATA F,et al.Beef extract supplementation increases leg muscle mass and modifies skeletal muscle fiber types in rats[J].Journal of Nutritional Science and Vitaminology,2006,52(3):183-193.
+
+[53]任阳.饱和与不饱和脂肪酸对猪肌纤维组成的影响及其AMPK途径研究[D].博士学位论文.杭州:浙江大学,2014:95.
+
+[54]田春庄.鱼油上调断奶仔猪肌纤维类型及相关基因表达促进肌肉生长的研究[D].硕士学位论文.武汉：华中农业大学,2008:55
+
+[55] MIZUNOYA W,IWAMOTO Y,SHIROUCHI B,et al.Dietary fat influences the expression of contractile and metabolic genes in rat skeletal muscle[J].PLoS One,2013,8(11):e80152.
+
+[56] ALONSO-MARTIN S,ROCHAT A,MADEMTZOGLOU D,et al.Gene expresson profiling of muscle stem cels identifies novel regulators of postnatal myogenesis[J].Frontiers in Cell and Developmental Biology,2016,4:58.
+
+[57] SCHULTZE.Satellitecellbehaviorduringskeletalmusclegrowth and regeneration[J].Medicine and Science in Sports and Exercise,1989,21(Suppl.5):S181-S186. [58] HONG Y,PAN Y,EBNER P D.Meat science and muscle biology symposium:development of bacteriophage treatments to reduce Escherichia coli O157:H7 contamination of beef products and produce[J].Journal of Animal Science,2014,92(4):1366-1377.
+
+Progress in Molecular Signaling Pathway of Skeletal Muscle Fiber Type Transformation and Its Nutritional Regulation GUO Qiuping1.² WEN Chaoyue1.3 WANG Wenlong1,3 DUAN Yehui1.2 LI Yinghui1,2 LI Fengna1,4\*   
+(1. Key Laboratory of Agro-Ecological Processes in Subtropical Region, National Engineering   
+Laboratory for Pollution Control and Waste Utilization in Livestock and Poultry Production,   
+Institute of Subtropical Agriculture, Chinese Academy of Sciences, Changsha 41O125,China; 2.   
+Graduate University of Chinese Academy of Sciences, Beijing 100049, China; 3. Laboratory of Animal Nutrition and Human Health, College of Life Science, Hunan Normal University, Changsha 41Ooo6, China; 4. Hunan Collaborative Innovation Center for Products Safety of Livestock and Poultry, Changsha 410128, China)
+
+Abstract: Skeletal muscle is made up of different types of muscle fibers which characterized by the myosin heavy chain isoform composition and consists of up to four main types: I， Ia, Ix and Ib.The composition of muscle fiber type in skeletal muscle influences the meat quality after animal slaughter. The skeletal muscle fiber type transformation can be regulated by different signaling pathways and regulatory factors in vivo and also by nutritional factors in diet. This review summarized the underlying signaling pathways and certain nutritional factors, for reference in understanding of improving meat quality through nutritional intervention.
+
+Key words: skeletal muscle; muscle fiber type transformation； signaling pathway； nutritionalregulation; meat quality

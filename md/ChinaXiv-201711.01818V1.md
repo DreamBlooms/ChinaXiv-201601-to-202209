@@ -1,0 +1,259 @@
+酵母培养物对产蛋鸡生产性能、蛋品质及鸡蛋卫生指标的影响张嘉琦」秦玉昌² 李军国1　李　俊」牛力斌」于治芹1（1.中国农业科学院饲料研究所，北京100081；2.中国农业科学院北京畜牧兽医研究所，北京100081；3.农业部饲料生物技术重点实验室，北京100081)
+
+摘要：本试验旨在研究酵母培养物（YC）对产蛋鸡生产性能、蛋品质及鸡蛋卫生指标的影响。选取2304只210日龄的罗曼褐产蛋鸡，随机分成4组，每组3个重复，每个重复192只产蛋鸡。对照组（YC0 组）饲喂玉米-豆粕型基础饲粮，试验组（YC0.2 组、YC0.4 组和YC0.6组）分别饲喂在基础饲粮中添加 $0 . 2 \%$ 、 $0 . 4 \%$ 和 $0 . 6 \%$ 酵母培养物的试验饲粮。试验期9周。结果表明：1）与对照组相比，YC0.4组和YC0.6组平均蛋重显著增加（ $P { < } 0 . 0 5 )$ ，破蛋率显著降低（ $P { < } 0 . 0 5 )$ ；YC0.2组、YC0.4 组和YC0.6组软蛋率显著降低（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ 。2)与对照组相比，YC0.4 组和YC0.6组蛋壳厚度显著增大（ $_ { . } { \cal P } { < } 0 . 0 5 )$ ；YC0.2组、YC0.4组和YC0.6 组蛋黄颜色的亮度值显著降低（ $_ { . P < 0 . 0 5 ) }$ ，黄度值显著升高（ $_ { . P < 0 . 0 5 ) }$ ；YC0.6 组蛋黄颜色的红度值显著升高（ $P { < } 0 . 0 5$ )。3）与对照组相比，试验第3、9周，YC0.2组、YC0.4组和YC0.6组的蛋壳表面大肠菌群数量显著降低（ $P { < } 0 . 0 5 )$ ；试验第3、6周，YC0.4组蛋壳表面细菌总数显著降低（ $\scriptstyle P < 0 . 0 5 .$ )。4）对照组组相比，YC0.6组粗蛋白质、能量和干物质表观消化率显著提高（ $\cdot P { < } 0 . 0 5$ )。5）与对照组相比，YC0.2组、YC0.4组和YC0.6组盲肠乳酸杆菌数量显著降低（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 )$ 。由此可见，饲粮添加 $0 . 4 \%$ 和 $0 . 6 \%$ 的酵母培养物能够改善产蛋鸡蛋品质，提高饲料消化率；饲粮添加 $0 . 2 \%$ 、 $0 . 4 \%$ 和 $0 . 6 \%$ 酵母培养物均能够改善产蛋鸡的生产性能，减少大肠杆菌的数量，抑制盲肠中沙门氏菌的产生。综合考虑，产蛋鸡饲粮中酵母培养物适宜添加量为 $0 . 4 \%$ 。
+
+关键词：酵母培养物；产蛋鸡；生产性能；鸡蛋卫生指标；盲肠微生物；肠道黏膜组织结构中图分类号：S831.5 文献标识码： 文章编号：
+
+一直以来，抗生素在畜禽养殖业都发挥着至关重要的作用，抗生素能够显著提高畜禽的生产性能，降低疾病发生率和饲养成本。但是抗生素的使用也带来了一系列问题，比如抗生素的残留、动物自身对抗生素产生耐药性和环境污染等问题。由于消费者越来越注重畜禽产品的绿色安全和无污染等问题，寻找抗生素的替代品成为了一种趋势。酵母培养物（yeastculture，YC）富含寡糖、益生素和有益微生物等，这些成分不仅具有促进生长和提高免疫力等积极作用，而且克服了抗生素耐药性等缺点。经过十几年的研究证明，酵母培养物对反刍动物、猪及家禽都有积极的效果[1-3]。研究表明，酵母培养物对家禽有改善生产性能、增强免疫力、缓解应激、吸附毒素和保护环境等的功能[4-5]。曾正清等研究表明，饲粮中添加 $2 . 0 \%$ 的酵母培养物，可以促进肉鸡生长，改善生长性能。周淑琴等[7研究证明，饲粮中添加 $0 . 3 \%$ 的酵母培养物能够增强肉鸡的免疫力，提高肉雏鸡的存活率。刘观忠等[8研究表明，饲粮中添加酵母培养物能缓解蛋雏鸡应激作用，维持内环境稳定。岳支华等[研究表明，酵母培养物具有吸附毒素的功能，减少了肠道疾病的产生。周淑琴等[1]研究表明，饲粮中添加 $0 . 3 \%$ 酵母培养物可以提高肉鸡饲粮磷的利用率，进而改善环境。张连忠等[1]报道，饲粮中添加 $0 . 3 \%$ 的酵母培养物能够改善产蛋鸡蛋品质，提高生产性能。目前，对于家禽中酵母培养物的应用主要关注点在肉鸡上，少数有关产蛋鸡的研究也只研究了酵母培养物对产蛋鸡生产性能和蛋品质的影响，对于酵母培养物对鸡蛋安全性和产蛋鸡自身肠道健康方面影响的研究更少。因此，本研究旨在研究饲粮中添加酵母培养物对产蛋鸡生产性能、鸡蛋安全性、蛋品质及肠黏膜组织结构的影响，为酵母培养物在产蛋鸡饲粮中的进一步推广和应用提供理论依据。
+
+# 1材料与方法
+
+# 1.1试验动物与试验设计
+
+酵母培养物由英惠尔公司提供，以高性能酵母培养物为菌种，在特定工艺条件控制下，采用特定固体培养基，经过充分的厌氧发酵后，浓缩、干燥而成的生物制品。该酵母培养物主要由3部分组成，变性培养基、酵母细胞及代谢产物。变性培养基包括寡糖和多肽，酵母培养物由胞内物中蛋白质、氨基酸、多肽、维生素、矿物质及螯合物、核酸和胞壁中 β-葡聚糖、甘露寡糖构成，代谢产物由多肽、有机酸、醇类、脂类、氨基酸、核酸、酶类和未知生长因子组成。
+
+选取2304只210日龄的罗曼褐产蛋鸡，随机分成4组，每组3个重复，每个重复192只产蛋鸡，重复之间体重差异不显著（ $P { > } 0 . 0 5 \$ )。玉米-豆粕型基础饲粮参照NRC（1994)营养需要配制，基础饲粮组成及营养水平见表1。对照组（YC0组）饲喂基础饲粮，试验组（YC0.2组、YC0.4组和YC0.6组）分别饲喂在基础饲粮中添加 $0 . 2 \%$ 、 $0 . 4 \%$ 和 $0 . 6 \%$ 酵母培养物的试验饲粮。试验期共9周。试验鸡饲养于开放式鸡舍3层立体笼，饲养管理和饲养环境条件严格保持一致。产蛋鸡自由采食和饮水，少添勤喂。
+
+表1基础饲粮组成及营养水平 (风干基础)  
+Table 1 Composition and nutrient levels of the basal diet (air-dry basis) （204 $\%$   
+
+<html><body><table><tr><td>项目Items</td><td>含量Content</td></tr><tr><td>原料Ingredients 玉米 Corn</td><td>59.70</td></tr><tr><td>豆粕 Soybean meal</td><td>24.50</td></tr><tr><td>大豆油 Soybean</td><td>0.50</td></tr><tr><td>麸皮Wheat bran</td><td>4.00</td></tr><tr><td>石粉 Limestone</td><td>9.00</td></tr><tr><td>碳酸氢钙 CaHCO3</td><td>1.00</td></tr><tr><td>食盐 NaCl</td><td>0.30</td></tr><tr><td>预混料Premixl</td><td>1.00</td></tr><tr><td>合计 Total</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels²</td><td></td></tr><tr><td>代谢能 ME/(MJ/kg)</td><td>11.16</td></tr><tr><td>粗蛋白质 CP</td><td>17.38</td></tr><tr><td>粗脂肪 EE</td><td>4.19</td></tr><tr><td>粗灰分 Ash</td><td>2.17</td></tr><tr><td>钙Ca</td><td>3.81</td></tr><tr><td>总磷TP</td><td>0.35</td></tr><tr><td>有效磷 AP</td><td>0.11</td></tr><tr><td></td><td></td></tr></table></body></html>
+
+1) 预混料为每千克饲粮提供 The premix provided the following per kilogram of the diet:Cu 8 mg, $Z { \mathrm { n } } 4 0 { \mathrm { ~ m g } }$ ，Fe $7 0 \mathrm { m g }$ ， $\mathrm { M n } 3 0 \mathrm { m g }$ ， $\mathrm { ~ I ~ } 0 . 1 7 5 ~ \mathrm { m g }$ ，Se $0 . 0 7 5 \mathrm { m g }$ ，VA 10 800 IU,VD3 2 160 IU，VK 31.0 mg，VE 4.6 mg， $\mathrm { V B } _ { 1 } 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 6 \mathrm { m g }$ ，泛酸钙calciumpantothenate $5 \mathrm { m g }$ ，烟酸niacin $7 \mathrm { m g }$ ，叶酸 folic acid $0 . 1 \mathrm { m g }$ 。
+
+2） 代谢能、粗蛋白质和粗灰分为实测值，其余为计算值。ME,CPand Ash were measured values,while the others were calculated values.
+
+# 1.2 检测指标
+
+# 1.2.1 产蛋鸡生产性能
+
+试验记录每天每重复的日产蛋个数、蛋总重、鸡死淘情况，记录每周每重复的采食量。计算产蛋率、料蛋比、平均蛋重、破蛋数、软蛋数和死淘数。
+
+# 1.2.2 蛋品质
+
+在试验期的第3、6、9周末分别从每个重复中随机选10枚当日产蛋，测定蛋重、蛋形指数（蛋长/蛋宽）、蛋黄颜色、蛋壳强度、哈夫单位、蛋黄指数（蛋黄重/蛋重）及蛋壳厚度。哈氏单位 $= 1 0 0 { \times } \log ( H - 1 . 7 W ^ { 0 . 3 7 } + 7 . 5 7 )$ 。式中： $H$ 为浓蛋白高度 $( \mathrm { m m } )$ ， $W$ 为蛋重(g)。
+
+# 1.2.3 鸡蛋卫生指标
+
+在试验期的第3、6、9周末，从各组每个重复中随机取10枚鸡蛋，比较各组鸡蛋蛋壳表面和蛋内细菌总数、大肠菌群数量及沙门氏菌数量。将鸡蛋依次放入灭菌烧杯内，分别用灭菌生理盐水润湿鸡蛋外壳后，先用灭菌棉球充分擦洗蛋壳表面，把棉球在烧杯中反复涮洗，然后合并同一重复的5个烧杯的蛋壳擦拭液，并充分混匀。最后用生理盐水将蛋壳擦拭液做10、100、1000 和10000 倍梯度稀释，采用GB4789—2010提供的方法进行检测鸡蛋表面和蛋内菌落总数、大肠菌群数量和沙门氏菌数量。
+
+# 1.2.4 营养物质表观消化率
+
+收集每个重复的饲料，收集产蛋鸡排泄物，使用盐酸不溶灰分法测定饲粮中粗蛋白质、能量和干物质的表观消化率。
+
+# 1.2.5 肠黏膜组织结构
+
+在试验期的第9周末，从每个重复中随机选取体重接近的2只鸡屠宰，取肌胃、腺胃、十二指肠、空肠和回肠中食糜，立即放入盛有0.5mmol/LKOH的 $1 0 ~ \mathrm { m L }$ 带塞玻璃试管中，用酸度计测定 $2 4 \mathrm { h }$ 时各消化器官食糜的pH变化，并记录肌胃、腺胃、十二指肠、空肠、回肠、产蛋鸡活体重和产蛋鸡屠宰重。
+
+消化器官指数 $\ c =$ 器官重量（mg）/产蛋鸡活体重（g)。
+
+在试验期的第9周末，从每个重复中随机选取体重接近的2只鸡屠宰，取十二指肠（中部） $5 \mathrm { c m }$ ，用Tris 缓冲液漂洗，切成5个相等部分，在 $10 \%$ 的中性福尔马林溶液中固定。用常规方法制作石蜡切片，用苏木精和伊红染色，在光学显微镜下测定绒毛高度和隐窝深度。从绒毛顶端到陷窝顶端测定绒毛高度，从相邻绒毛的内陷部分测定隐窝深度。测定每个组织的5个切片的平均值作为绒毛高度和隐窝深度值。并计算绒毛高度/隐窝深度（V/C）值。
+
+# 1.2.6 盲肠菌落
+
+在试验第9周末，从每个重复中随机选取体重接近的2只鸡屠宰，取出带有食糜的盲肠，装于高压灭菌的 $1 0 ~ \mathrm { m L }$ 离心管中，保存在实验室的冰箱中供接种和培养分析。采用GB4789—2010提供的方法检测盲肠菌落总数及大肠杆菌、乳酸杆菌、沙门氏菌数量，用每克肠道内容物中细菌数量的对数[lg(CFU／g)]表示。
+
+# 1.3 数据统计分析
+
+数据记录于 Excel2007中，初步处理后，用软件 SAS9.2进行单因素方差分析（one-wayANOVA)，并用Duncan 氏多重比较法检验差异的显著性，显著性水平为 $P { < } 0 . 0 5$ 。结果以“平均值 $\pm$ 标准差"的形式表示。
+
+# 2结果
+
+# 2.1酵母培养物对产蛋鸡生产性能的影响
+
+饲粮中添加酵母培养物对产蛋鸡生产性能的影响见表2。与对照组相比，YC0.4组和YC0.6组平均蛋重显著增加（ $P { < } 0 . 0 5 )$ ，破蛋率显著降低（ $P { < } 0 . 0 5 )$ ；YC0.2组、YC0.4组和YC0.6组软蛋率显著降低（ $( P { < } 0 . 0 5 )$ 。各组产蛋率、料蛋比和死淘率没有显著差异（ $( P { > } 0 . 0 5 )$ 。
+
+# 表2酵母培养物对产蛋鸡生产性能的影响
+
+Table 2Effects of yeast culture on performance of laying hens   
+
+<html><body><table><tr><td colspan="4">产蛋率</td><td colspan="3">软蛋率</td></tr><tr><td>组别</td><td>Egg laying rate/%</td><td>平均蛋重</td><td>料蛋比</td><td>破蛋率</td><td>Soft egg</td><td>死淘率</td></tr><tr><td>Groups</td><td></td><td>AEW/g</td><td>F/E</td><td>Broken egg rate/%</td><td>rate/%</td><td>Mortality/%</td></tr><tr><td>YC0</td><td>80.39±1.91</td><td>58.83±0.01a</td><td>2.19±0.05</td><td>0.16±0.02b</td><td>0.20±0.01°</td><td>1.04±0.52</td></tr><tr><td>YC0.2</td><td>82.65±1.05</td><td>59.12±0.09ab</td><td>2.17±0.02</td><td>0.11±0.03ab</td><td>0.08±0.02b</td><td>1.04±0.52</td></tr><tr><td>YC0.4</td><td>82.38±0.40</td><td>59.28±0.28bc</td><td>2.13±0.03</td><td>0.09±0.02a</td><td>0.08±0.01b</td><td>0.52±0.52</td></tr><tr><td>YC0.6</td><td>82.56±1.64</td><td>59.58±0.19c</td><td>2.15±0.03</td><td>0.06±0.04a</td><td>0.03±0.02a</td><td>0.69±0.30</td></tr></table></body></html>
+
+同列数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5 \ )$ ，相同或无字母表示差异不显著$( P { > } 0 . 0 5 )$ 。表7、表9、表10同。
+
+In the same column, values with different small leter superscripts mean significant difference （204号 $( P { < } 0 . 0 5 )$ ，while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ： The same as Table 7, Table 9 and Table 10.
+
+# 2.2酵母培养物对产蛋鸡蛋品质的影响
+
+饲粮中添加酵母培养物对产蛋鸡蛋品质的影响见表3。与对照组相比，YC0.4组和YC0.6组的蛋壳厚度显著增大（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ )，YC0.4组和YC0.6组之间则没有显著差异（ $P { > } 0 . 0 5 )$ ;YC0.2组、YC0.4组和YC0.6组蛋黄颜色的亮度（ $\boldsymbol { \mathrm { ~ L ~ } } ^ { * }$ ）值显著降低（ $_ { . P < 0 . 0 5 ) }$ ，黄度（b\*）
+
+值显著升高（ $. P { < } 0 . 0 5 )$ ；YC0.6组蛋黄颜色的红度（a\*）值显著提高（ $\scriptstyle P < 0 . 0 5 .$ )。各组蛋壳强度、蛋形指数、蛋黄比率和哈氏单位没有显著差异（ $P { > } 0 . 0 5 )$ 。
+
+# 表3酵母培养物对鸡蛋品质的影响
+
+Table 3Effects of yeast culture on egg quality of laying hens   
+
+<html><body><table><tr><td rowspan="2">项目</td><td colspan="4">组别 Groups</td></tr><tr><td>YC0</td><td>YC0.2</td><td>YC0.4</td><td>YC0.6</td></tr><tr><td>Items 蛋壳强度 Eggshell strength/kPa</td><td>39.51±10.95</td><td>41.68±9.27</td><td>41.10±9.28</td><td>39.79±11.3</td></tr><tr><td>蛋壳厚度 Shell thickness/mm</td><td>0.38±0.03a</td><td>0.38±0.03ab</td><td>0.39±0.03b</td><td>0.39±0.04b</td></tr><tr><td>亮度L*</td><td>72.70±1.20c</td><td>72.18±0.83b</td><td>71.72±1.02a</td><td>71.92±1.19ab</td></tr><tr><td>红度a*</td><td>1.52±0.66a</td><td>1.55±0.58a</td><td>1.40±0.67a</td><td>1.89±1.22b</td></tr><tr><td>黄度 b*</td><td>8.50±1.20a</td><td>8.87±0.94b</td><td>9.28±1.24c</td><td>9.61±1.39c</td></tr><tr><td>蛋形指数 Shape index</td><td>1.30±0.05</td><td>1.31±0.04</td><td>1.30±0.05</td><td>1.31±0.05</td></tr><tr><td>蛋黄比率 Yolk ratio/%</td><td>23.74±1.80</td><td>23.96±2.02</td><td>23.80±1.89</td><td>24.30±1.83</td></tr><tr><td>哈夫单位 Haugh unit</td><td>83.21±7.10</td><td>83.29±5.60</td><td>83.86±7.19</td><td>81.89±6.88</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5 \ )$ ，相同或无字母表示差异不显著1 $\cdot P { > } 0 . 0 5 )$ 。表4、表5、表6、表8同。
+
+In the same row, values with different small lettr superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ The same as Table 4,Table 5,Table 6 and Table 8.
+
+# 2.3酵母培养物对产蛋鸡鸡蛋卫生指标的影响
+
+2.3.1酵母培养物对产蛋鸡蛋壳表面微生物数量的影响
+
+饲粮中添加酵母培养物对鸡蛋蛋壳表面微生物数量的影响见表4。与对照组相比，试验第3、9周，YC0.2组、YC0.4 组和YC0.6 组的蛋壳表面大肠菌群数量显著降低（ $P { < } 0 . 0 5 )$ ;
+
+试验第3、6周，YC0.4组的蛋壳表面细菌总数显著降低（ $\scriptstyle P < 0 . 0 5 .$ )。各组间试验第3、9周均未检测到沙门氏菌。试验第9周，各组间蛋壳表面细菌总数无显著差异（ $\mathrm { \Phi } \cdot \mathrm { \Lambda } { \cal P } { > } 0 . 0 5 \mathrm { \ ' }$ ）°
+
+# 表4酵母培养物对产蛋鸡蛋壳表面微生物数量的影响
+
+Table 4Effects of yeast culture on microbial number on eggshell surface of laying hens   
+
+<html><body><table><tr><td colspan="6"></td></tr><tr><td>时间</td><td>项目</td><td colspan="4">组别 Groups</td></tr><tr><td>Time</td><td>Items</td><td>YC0</td><td>YC0.2</td><td>YC0.4</td><td>YC0.6</td></tr><tr><td></td><td>细菌总数 Total bacteria</td><td></td><td></td><td></td><td></td></tr><tr><td>第3周</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>number/[lg(CFU/mL)]</td><td>3.74±0.06b</td><td>3.6±0.05ab</td><td>3.51±0.06a</td><td>3.65±0.15ab</td></tr><tr><td>The third</td><td>大肠菌群 Coliform/(MPN/mL)</td><td>46.00±0.00c</td><td>6.45±4.94b</td><td>3.63±1.15ab</td><td>0.24±0.21a</td></tr><tr><td>week</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>沙门氏菌 Salmonella/[lg(CFU/mL)]</td><td></td><td></td><td></td><td></td></tr><tr><td>第6周</td><td>细菌总数 Total bacteria/[lg(CFU/mL)]</td><td>4.47±0.07℃</td><td>3.97±0.02a</td><td>4.19±0.03b</td><td>4.44±0.06c</td></tr><tr><td>The sixth</td><td>大肠菌群 Coliform/(MPN/mL)</td><td>60.00±44.68b</td><td>7.63±2.89a</td><td>19.00±3.46ab</td><td>32.17±23.96ab</td></tr><tr><td>week</td><td>沙门氏菌 Salmonella/[lg(CFU/mL)]</td><td></td><td></td><td></td><td></td></tr><tr><td>第9周</td><td>细菌总数 Total bacteria/[lg(CFU/mL)]</td><td>4.58±0.31</td><td>4.68±0.56</td><td></td><td>4.41±0.06</td></tr><tr><td></td><td></td><td></td><td></td><td>4.83±0.45</td><td></td></tr><tr><td>The ninth</td><td>大肠菌群 Coliform/(MPN/mL)</td><td>5.80±4.95b</td><td>0.81±0.76a</td><td>0.00±0.00a</td><td>0.43±0.46a</td></tr></table></body></html>
+
+-：未检出。表5、表9同。   
+-:notdetected.The sameas Table5and Table9.
+
+# 2.3.2母培养物对产蛋鸡蛋内微生物数量的影响
+
+饲粮中添加酵母培养物对产蛋鸡蛋内微生物数量的影响影响见表5。试验第3、6和9周，各组鸡蛋内细菌总数、大肠菌群数量和沙门氏菌数量均没有显著差异（ $P { > } 0 . 0 5 \$ 。各组间第3、6和9周细菌总数、大肠菌群数量和沙门氏菌数量均低于检测限。
+
+# 表5母培养物对产蛋鸡蛋内微生物数量的影响
+
+Table 5Effects of yeast culture on microbial number in egg of laying hens   
+
+<html><body><table><tr><td rowspan="2">时间 Time</td><td rowspan="2">项目 Items</td><td colspan="4">组别 Groups</td></tr><tr><td>YC0</td><td>YC0.2</td><td>YC0.4</td><td>YC0.6</td></tr><tr><td rowspan="2">第3周</td><td>细菌总数 Total bacteria/(CFU/mL)</td><td><10</td><td><10</td><td><10</td><td><10</td></tr><tr><td>大肠菌群 Coliform/(MPN/mL)</td><td><0.3</td><td><0.3</td><td><0.3</td><td><0.3</td></tr><tr><td>The third week</td><td>沙门氏菌 Salmonella/(CFU/mL)</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="2">第6周 The sixth week</td><td>细菌总数 Total bacteria/(CFU/mL)</td><td><10</td><td><10</td><td><10</td><td><10</td></tr><tr><td>大肠菌群 Coliform/(MPN/mL)</td><td><0.3</td><td><0.3</td><td><0.3</td><td><0.3</td></tr><tr><td></td><td>沙门氏菌 Salmonella/(CFU/mL)</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="2">第9周</td><td>细菌总数 Total bacteria/(CFU/mL)</td><td><10</td><td><10</td><td><10</td><td><10</td></tr><tr><td>大肠菌群 Coliform/(MPN/mL)</td><td><0.3</td><td><0.3</td><td><0.3</td><td><0.3</td></tr><tr><td>The ninth week</td><td>沙门氏菌 Salmonella/(CFU/mL)</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 2.4母培养物对产蛋鸡营养物质表观消化率的影响
+
+饲粮中添加酵母培养物对产蛋鸡营养物质表观消化率的影响见表6。与对照组相比，YC0.6组粗蛋白质、能量和干物质表观消化率显著提高（ $. P { < } 0 . 0 5 )$ 。YC0.4组、YC0.6组与对照组之间粗蛋白质、能量和干物质表观消化率差异不显著（ $P { > } 0 . 0 5 )$ 。
+
+# 表6酵母培养物对产蛋鸡营养物质表观消化率的影响
+
+Table 6Effects of yeast culture on nutrient apparent digestibility of laying hens （20 $\%$   
+
+<html><body><table><tr><td rowspan="2">项目</td><td colspan="4">组别 Groups</td></tr><tr><td></td><td></td><td></td><td>YC0.6</td></tr><tr><td>Items</td><td>YC0</td><td>YC0.2</td><td>YC0.4</td><td></td></tr><tr><td>粗蛋白质 Crude protein</td><td>46.73±10.03a</td><td>55.48±12.8a</td><td>62.55±5.06ab</td><td>72.51±1.55b</td></tr><tr><td>能量Energy</td><td>85.18±2.23a</td><td>84.75±2.63a</td><td>87.12±0.73ab</td><td>89.76±0.35b</td></tr><tr><td>干物质 Dry matter</td><td>69.67±4.63a</td><td>70.47±5.39a</td><td>72.18±2.36ab</td><td>78.70±1.50b</td></tr></table></body></html>
+
+# 2.5酵母培养物对产蛋鸡消化道形态的影响
+
+# 2.5.1酵母培养物对产蛋鸡胃肠道各段食糜 $\mathfrak { p H }$ 的影响
+
+饲粮中添加酵母培养物对产蛋鸡胃肠道各段食糜 $\mathfrak { p H }$ 的影响见表7。各组肌胃、腺胃、十二指肠胃、空肠和回肠食糜pH没有显著差异（ $\cdot P { > } 0 . 0 5 )$ 。随着酵母培养物添加量的增加，腺胃食糜pH有逐渐降低的趋势。
+
+Table 7Effects of yeast culture on chyme $\mathfrak { p H }$ in gastrointestinal sections of laying hens   
+
+<html><body><table><tr><td>组别</td><td>肌胃</td><td>腺胃</td><td>十二指肠</td><td>空肠</td><td>回肠</td></tr><tr><td>Groups</td><td>Gizzard</td><td>Proventriculus</td><td>Duodenum</td><td>Jejunum</td><td>Ileum</td></tr><tr><td></td><td>4.20±0.16</td><td>4.58±0.32</td><td>6.26±0.06</td><td>6.10±0.13</td><td>6.74±0.65</td></tr><tr><td>YC0</td><td>4.30±0.09</td><td>4.47±0.45</td><td>6.15±0.13</td><td>6.19±0.12</td><td>6.66±0.44</td></tr><tr><td>YC0.2</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>YC0.4</td><td>4.12±0.27</td><td>4.45±0.53</td><td>6.22±0.22</td><td>6.22±0.24</td><td>6.39±0.53</td></tr><tr><td></td><td>4.15±0.25</td><td>4.35±0.43</td><td>6.21±0.12</td><td>6.09±0.16</td><td>6.92±0.36</td></tr></table></body></html>
+
+# 2.5.2酵母培养物对产蛋鸡胃肠道指数的影响
+
+饲粮中添加酵母培养物对产蛋鸡胃肠道指数的影响见表8。各组肌胃指数、腺胃指数、空肠指数、回肠指数、屠宰率和胰脏指数没有显著差异（ $\mathrm { \Phi } \cdot \mathrm { \Lambda } { \cal P } { > } 0 . 0 5 \mathrm { \ ' }$ )。YC0.4组十二指肠指数显著高于其他各组（ $_ { . P < 0 . 0 5 ) }$ ，YC0.4组肝脏指数显著高于YC0组和YC0.2组（ $P { < } 0 . 0 5 )$ ）°
+
+# 表8酵母培养物对产蛋鸡胃肠道指数的影响
+
+表7酵母培养物对产蛋鸡胃肠道各段食糜pH的影响  
+Table 8Effects of yeast culture on gastrointestinal indexes of laying hens   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="4">组别Groups</td></tr><tr><td>YC0</td><td>YC0.2</td><td>YC0.4</td><td>YC0.6</td></tr><tr><td>肌胃指数 Gizzard index</td><td>0.06±0.01</td><td>0.07±0.00</td><td>0.07±0.01</td><td>0.06±0.01</td></tr><tr><td>腺胃指数 Proventriculus index</td><td>1.22±0.18</td><td>1.06±0.13</td><td>1.05±0.31</td><td>1.14±0.25</td></tr><tr><td>十二指肠指数 Duodenum index</td><td>0.11±0.02a</td><td>0.10±0.01a</td><td>0.14±0.02b</td><td>0.10±0.02a</td></tr><tr><td>空肠指数 Jejunum index</td><td>0.03±0.00</td><td>0.03±0.01</td><td>0.03±0.01</td><td>0.03±0.00</td></tr><tr><td>回肠指数 Ileum index</td><td>0.02±0.00</td><td>0.02±0.00</td><td>0.03±0.01</td><td>0.02±0.00</td></tr></table></body></html>
+
+<html><body><table><tr><td>屠宰率 Carcass ratio/%</td><td>0.90±0.00</td><td>0.88±0.01</td><td>0.90±0.02</td><td>0.89±0.02</td></tr><tr><td>肝脏指数Liver index</td><td>0.23±0.02a</td><td>0.21±0.03a</td><td>0.27±0.02b</td><td>0.24±0.03ab</td></tr><tr><td>胰脏指数 Pancreas index</td><td>2.54±0.31</td><td>2.29±0.24</td><td>2.41±0.32</td><td>2.42±0.40</td></tr></table></body></html>
+
+# 2.5.3 酵母培养物对产蛋鸡盲肠微生物数量的影响
+
+饲粮中添加酵母培养物对产蛋鸡盲肠微生物数量的影响见表9。各组盲肠大肠杆菌数量和菌落总数无显著差异（ $\cdot P { > } 0 . 0 5 )$ )，但随着酵母培养物添加量的增多，盲肠大肠杆菌数量呈逐渐降低的趋势。与对照组相比，YC0.2组、YC0.4组和YC0.6组盲肠乳酸杆菌数量显著降低（ $P { < } 0 . 0 5 )$ 。只有对照组盲肠菌落区系部分检出沙门氏菌，YC0.2组、YC0.4 组和YC0.6组盲肠均未检出沙门氏菌。
+
+Table 9Effects of yeast culture on cecal microbial number of laying hens lg(CFU / g)   
+
+<html><body><table><tr><td>0 组别 T</td><td>乳酸杆菌</td><td>大肠杆菌</td><td>菌落总数</td><td>沙门氏菌</td></tr><tr><td>Groups</td><td>Lactobacillus 6.87±0.34b</td><td>Lactobacillus 3.54±0.79</td><td>Total plate count 5.74±0.50</td><td>Salmonella 部分检出</td></tr><tr><td>M YC0.2</td><td>6.30±0.20a</td><td>2.82±1.14</td><td>5.91±0.33</td><td></td></tr><tr><td>xei</td><td>6.24±0.16a</td><td>2.79±1.39</td><td>5.67±0.50</td><td></td></tr><tr><td>CYC0.6</td><td>6.34±0.36a</td><td>2.49±1.34</td><td>5.84±0.14</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 2.5.3酵母培养物对产蛋鸡肠道黏膜组织结构的影响
+
+饲粮中添加酵母培养物对产蛋鸡肠道黏膜组织结构的影响见表10。各组十二指肠隐窝无显著差异（ $P { > } 0 . 0 5 )$ 。与对照组相比，YC0.2组和YC0.4组的十二指肠绒毛高度和V/C值显著增加 ( $\cdot P { < } 0 . 0 5 \$ )，其中YC0.4组十二指肠绒毛高度和V/C 值最大。
+
+# 表10酵母培养物对产蛋鸡肠黏膜组织结构的影响
+
+表9酵母培养物对产蛋鸡盲肠微生物数量的影响  
+Table 10Effects of yeast culture on intestinal mucosa morphology of laying hens   
+
+<html><body><table><tr><td></td><td></td><td></td><td></td></tr><tr><td>组别</td><td>隐窝深度</td><td>绒毛高度</td><td>绒毛高度/隐窝</td></tr></table></body></html>
+
+<html><body><table><tr><td>Groups</td><td>Crypt depth</td><td>Villus height</td><td>深度V/C</td></tr><tr><td>YC0</td><td>228.33±10.51</td><td>930.61±118.05a</td><td>4.07±0.37a</td></tr><tr><td>YC0.2</td><td>246.89±33.51</td><td>1 161.28±152.32b</td><td>4.71±0.25bc</td></tr><tr><td>YC0.4</td><td>250.83±30.31</td><td>1 223.06±165.40b</td><td>4.88±0.42c</td></tr><tr><td>YC0.6</td><td>246.56±17.59</td><td>1 097.06±115.82ab</td><td>4.44±0.26ab</td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1酵母培养物对产蛋鸡生产性能的影响
+
+酵母培养物中含有丰富的氨基酸、肽、B族维生素、甘露寡糖、有机酸、矿物质、消化酶以及一些对畜禽生长有利的未知因子，这些物质能够促进畜禽对营养物质的吸收利用，因而可能能够促进产蛋鸡的生产性能[12-14]。周映华等[15]报道，肉鸡饲粮中添加 $0 . 5 { \sim } 1 . 0 ~ \mathrm { g / k g }$ 的甘露寡糖能够提高肉鸡的采食量和日增重，改善生产性能。武书庚等[16研究结果表明，饲粮中添加 $0 . 2 \%$ 的酵母培养物能够降低料蛋比和死淘率，提高产蛋率和平均蛋重，延长产蛋高峰期，有效提高了产蛋鸡的生长性能。本试验中，与对照组相比，饲粮中添加 $0 . 4 \%$ 的酵母培养物能够显著提高平均蛋重，显著降低破蛋率和软蛋率，对料蛋比、产蛋率和死淘率有降低的趋势，这都反映了在饲粮中添加酵母培养物能够提高产蛋鸡的生产性能。有研究报道称，饲粮中添加酵母培养物可以改善肠道菌群和肠黏膜组织结构，有利于营养物质的消化，这些结果都可能改善产蛋鸡的生产性能[7]。
+
+# 3.2酵母培养物对产蛋鸡蛋品质的影响
+
+李慧等[18]报道，饲粮中添加 $0 . 2 \%$ 的酵母培养物能够提高蛋黄重、蛋白高度和哈夫单位，对蛋壳强度和蛋黄颜色无显著影响。金加明等[19]报道，饲粮中添加 $0 . 3 \%$ 酵母培养物对蛋形指数无显著影响，但能提高蛋黄颜色、蛋壳厚度、蛋壳强度和哈氏单位。武书庚等[报道，饲粮中添加酵母培养物能够改善蛋黄颜色，对其他指标没有显著影响。本试验中，随着饲粮中酵母培养物添加量的增多，蛋壳厚度增厚，蛋黄比率有升高的趋势，蛋黄颜色指标中的亮度值显著降低，红度和黄度值显著升高，而蛋形指数和哈夫单位没有显著变化。各研究结果没有一致的结果，这可能是饲粮中添加酵母培养物对蛋品质没有显著影响造成的。产蛋鸡食用酵母培养物后，吸收的营养物质可能传递给鸡蛋，酵母培养物中的B族维生素、肽、甘露寡糖和有机酸都可能改善蛋品质各项指标，但具体机理有待进一步的研究[20]。
+
+# 3.3酵母培养物对鸡蛋微生物和盲肠微生物数量的影响
+
+家禽的肠道中包含大量的微生物，其中乳酸杆菌和双歧杆菌作为优势菌种，发挥着重要的作用，肠道微生物中有益菌种和有害菌种的数量反映了家禽机体的健康状况。徐磊等[21]报道，酵母培养物中的氨基酸、甘露寡糖和有机酸能够吸附杀死进入肠道内的病原微生物，保护肠道黏膜，为肠道微生物提供合适的微生态环境。张海军等[5报道，甘露寡糖很难被消化酶降解，但能被有益菌消化吸收，从而有利于有益菌的定植，抑制有害菌的产生，促进了营养物质的消化吸收。肖曼等[22]研究表明，饲粮中添加 $2 0 0 ~ \mathrm { { m g / k g } }$ 剂量的酵母培养物能够提高肉鸡空肠、回肠和盲肠中乳酸杆菌和双歧杆菌数量，降低大肠杆菌的数量，抑制沙门氏菌的产生。于素红等[23]研究表明，饲粮中添加 $2 . 5 ~ \mathrm { g / k g }$ 的酵母培养物对能够增加肉鸡回肠和盲肠中双歧杆菌和乳酸杆菌的数量，对大肠杆菌的数量无显著影响。本试验中，对蛋壳表面微生物数量而言，试验第3周，随着酵母培养物添加量的增加，细菌总数和大肠菌群数量减少；试验第6周，随着酵母培养物添加量的增加，细菌总数变化较小，大肠菌群数量显著减少；试验第9周，随着酵母培养物添加量的增加，细菌总数没有变化的趋势，大肠菌群有显著降低的趋势。随着时间的变化，各组之间细菌总数和大肠菌群数量的差异在逐渐缩小。大肠菌群数量变化的趋势与肖曼[24]的研究结果一致，各组之间的差异在逐渐缩小可能是因为产蛋鸡对酵母培养物有适应能力，初期效果更为明显，后期逐渐适应之后效果降低直至没有效果。因此建议在产蛋高峰期添加酵母培养物，发挥最佳的效果。对蛋内微生物数量而言，各组各时间点细菌总数、大肠菌群和沙门氏菌数量均低于检测限，这可能与饲养环境保持干净、粪便及时清理有关。对于盲肠微生物数量而言，饲粮中添加酵母培养物降低了盲肠乳酸杆菌、大肠杆菌的数量，对盲肠菌落总数没有显著影响，对沙门氏菌能够起到抑制的作用。饲粮中添加酵母培养物能够减少盲肠大肠杆菌数量和抑制沙门氏菌的结果与于素红等[23]的结果一致，降低乳酸杆菌数量的结果与于素红等[23]的结果不一致，这可能是因为双歧杆菌和乳酸杆菌共同组成产蛋鸡盲肠微生物的优势菌种，研究饲粮中添加酵母培养物对盲肠有益菌的影响时，应选用双歧杆菌和乳酸杆菌2个指标作为一个整体进行探讨。
+
+3.4饲粮中添加酵母培养物对营养物质表观消化率的影响
+
+张丽等[25]研究表明，饲粮中添加 $5 ~ \mathrm { g / k g }$ 的酵母培养物能够显著提高保育猪的能量和干物质表观消化率，降低粗蛋白质和磷的表观消化率。周雪飞等[2研究表明，饲粮中添加酵母培养物可以提高绵羊的干物质、有机物、中性洗涤纤维和酸性洗涤纤维的表观消化率。窦慧娟等[27的研究也表明，饲粮中添加酵母培养物可以提高粗蛋白质、粗脂肪、能量和酸性洗涤纤维的表观消化率。本试验中，饲粮中添加酵母培养物改善了产蛋鸡对粗蛋白质、能量和干物质的表观消化率，促进了营养物质消化吸收。这可能是因为酵母培养物本身中含有消化酶，消化道中菌落区系的改善也帮助了营养物质的消化吸收，另外酵母培养物中含有丰富的甘露寡糖，而甘露寡糖可以提高消化酶的活性，帮助动物消化[28]。
+
+# 3.5饲粮中添加酵母培养物对肠道黏膜组织结构的影响
+
+小肠是消化道中消化吸收营养物质的主要器官，小肠的消化吸收能力往往反映了产蛋鸡本身的消化能力。小肠中含有大量的小肠绒毛，小肠的绒毛高度、隐窝深度和V/C 值则代表了小肠的消化吸收面积。通常来说，隐窝深度降低，表示肠上皮细胞成熟率上升，吸收功能增强；绒毛高度增长，表示吸收功能增强；V/C 值越大，黏膜状况越好。肖曼等[29研究表明，饲粮中添加 $0 . 2 \%$ 的酵母培养物能够提高十二指肠、空肠和回肠的绒毛高度和V/C 值，降低隐窝深度。徐磊等[30在鲫鱼饲粮中添加酵母培养物改善了肠道黏膜组织结构，提高了绒毛高度，增加了肠壁厚度。本试验中，饲粮中添加酵母培养物提高了十二指肠绒毛高度、隐窝深度和V/C 值，促进了小肠绒毛的增长，有利于营养物质的消化吸收。这与肖曼等[24]的研究结果中酵母培养物降低隐窝深度不同，这可能是因为绒毛高度和隐窝深度共同决定V/C 值，不能把绒毛高度和隐窝深度单独研究，而用V/C值表示吸收能力更为合适，另外关于酵母培养物对产蛋鸡肠道黏膜组织结构的机理研究十分有限，仍需要进一步的研究补充论证。
+
+# 4结论
+
+$\textcircled{1}$ 饲粮添加 $0 . 4 \%$ 和 $0 . 6 \%$ 的酵母培养物能够改善蛋品质，提高饲料消化率。
+
+$\textcircled{2}$ 饲粮添加 $0 . 2 \%$ 、 $0 . 4 \%$ 和 $0 . 6 \%$ 酵母培养物均能够改善产蛋鸡的生产性能，减少大肠杆菌的数量，抑制盲肠中沙门氏菌的产生。
+
+$\textcircled{3}$ 综合考虑，产蛋鸡饲粮中酵母培养物适宜添加量为 $0 . 4 \%$ 。
+
+# 参考文献：
+
+[1]NEWBOLD C J,WILLIAMS P E V,MCKAIN N,et al.The effects of yeast culture on yeast numbersand fermentation in the rumen of sheep[J].Proceeding of the Nutrition Society,1990,49(3):47.
+
+[2] LESMEISTER K E,HEINRICHS A J,GABLE M T.Effectsof Supplemental yeast (Saccharomyces cerevisiae) culture on rumen development,growth characteristics,and blood parameters in neonatal dairy calves[J].Journal of Dairy Science,20o4,87(6):1832-1839.
+
+[3]SUNE R W,MUHLBACH P R F.Efect of feeding yeast diets on lactating performance of dairy cows[J].Korean Journal of Animal Science,1997,39(2):184-190.
+
+[4]刁程,李莉.酵母培养物在家禽(鸡)上的应用[J].家禽科学,2016(1):53-55.[5]张海军,齐广海,武书庚.酵母培养物在家禽中的应用[J].饲料工业,2006,27(11):42-45.[6]曾正清,谢幼梅,穆奎.酵母饲料对肉仔鸡肠道菌群及免疫机能的影响[J].山东畜牧兽医,2001(5):11-13.
+
+[7]周淑芹,孙文志.酵母培养物与抗生素对肉仔鸡生长性能及免疫机能影响的研究[J].畜牧
+
+与兽医,2004,36(11):9-11.
+
+[8]刘观忠,安胜英,姜国均,等.酵母培养物对蛋雏鸡肠壁结构及免疫机能的影响[J].中国畜牧兽医,2005,32(2):10-12.
+
+[9]岳支华,曾箭民.酵母细胞壁(PR-500)及其在养殖生产中的应用[J].中国水产,2000(5):68-69.
+
+[10]周淑芹,孙文志.酵母培养物对肉仔鸡免疫和生产性能影响的研究[J].饲料工业,2004,25(11):38-40.
+
+[11]张连忠.酵母培养物对蛋鸡生产性能及蛋品质的影响[J].饲料研究,2011(6):54-55.
+
+[12] YALCIN S,OGUZ F,GUCLU B,et al.Effects of dietary dried baker's yeast on the performance,egg traits and blood parameters in laying quails[J].Tropical Animal Health and Production,2009,41(1):5-10.
+
+[13]MACEDO R J,ARREDONDO V,GARCIA F,et al.Effect of supplemental yeast culture and physiological factors on colostrum and milk composition of Pelibuey ewes[J].Tropical Animal Health and Production,2012,44(2):349-354.
+
+[14]KASHONGWE O B,MIGWI P,BEBE B O,et al.Improving the nutritive value of wheat straw with urea and yeast culture for dry season feeding of dairy cows[J].Tropical Animal Health and Production,2014,46(6):1009-1014.
+
+[15]周映华,张石蕊.甘露寡糖对肉鸡生产性能和肠道微生物以及免疫机能的影响[J].湖南农业大学学报:自然科学版,2003,29(3):250-253.
+
+[16]武书庚,刘质彬,齐广海,等.酵母培养物对产蛋鸡生产性能和蛋品质的影响[J].动物营养学报,2010,22(2):365-371.
+
+[17]郑艳秋,甄玉国,刘墨,等.酵母培养物对饲喂霉变玉米日粮肉仔鸡肠壁结构和肠道菌群影响的研究[J].饲料工业,2010,31(22):34-36.
+
+[18]李慧,陈鹏,康学庆,等.日粮中添加酵母培养物对蛋鸡生产性能和蛋品质的影响[J].饲料博览,2016(4):22-24.
+
+[19]金加明,杨虎,吴宝霞,等.酵母培养物和寡糖对产蛋高峰期蛋鸡生产性能的影响[J].饲料研究,2005(3):44-45.  
+[20]齐明星,苗丽萍,贺强,等.菌肽蛋白对蛋鸡生产性能、蛋品质、肠道菌群数量及血清生化指标的影响[J].动物营养学报,2015,27(12):3878-3886.  
+[21] 徐磊,刘波,谢骏,戈贤平,等.甘露寡糖对异育银鲫生长性能、免疫及 HSP70 基因表达的影响[J].水生生物学报,2012,36(4):656-664.  
+[22]肖曼,高振华,李兴华,等.酵母培养物对肉仔鸡生长性能、肠黏膜结构及肠道菌群的影响[J].动物营养学报,2013,25(7):1624-1631,  
+[23]于素红.酵母培养物对肉仔鸡生产性能的影响及代谢机理研究[D].硕士学位论文.杨凌:西北农林科技大学,2008.  
+[24]肖曼.酵母培养物对肉仔鸡生产性能、营养物质利用率及肠道相关指标的影响[D].硕士学位论文.湛江:广东海洋大学,2013.  
+[25]张丽,丁宏标.酵母培养物、枯草芽孢杆菌和木瓜蛋白酶对保育猪生长性能、营养物质表观消化率和粪便微生物数量的影响[J].动物营养学报,2016,28(11):3642-3649.  
+[26]周雪飞.酵母培养物对绵羊瘤胃发酵及消化道内营养物质流通与消化的影响[D].硕士学位论文.长春:吉林农业大学,2016.  
+[27]寇慧娟,陈玉林,刘敬敏,等.酵母培养物对羔羊生产性能、营养物质表现消化率及瘤胃发育的影响[J].西北农林科技大学学报:自然科学版,2011,27(8):45-50.  
+[28]刘卫东,宋素芳,程璞.甘露寡糖和益生菌对肉仔鸡生产性能和肠道菌群的影响[J].家畜生态学报,2011,32(1):32-35.  
+[29]肖曼,高振华,李兴华,等.酵母培养物对肉仔鸡生产性能、营养物质表观代谢率及血清生
+
+化指标的影响[J].河南农业科学,2013,42(8):115-118,140.
+
+[30]徐磊,刘波,谢骏,等.酵母培养物对异育银鲫生长、血液生化及免疫的影响[J].江苏农业科学,2010(6):371-374.
+
+Effects of Yeast Culture on Performance,Egg Quality and Egg Health Indicators ofLaying Hens ZHANGJiaqi1QIN Yuchang²LIJunguo1,3\*LIJun’NIU Libin’YU Zhiqin1 (1.Feed Research Institute, Chinese Academy of Agriculture Sciences,Bejing 10o081, China; 2. Institute of Animal Science of Chinese Academy of Agriculture Sciences,10oo81, China; 3. Key Laboratory of Feed Biotechnology of Ministry of Agriculture, Beijing 10oo81, China)
+
+Abstract: This experiment was conducted to investigate the effects of yeast culture （YC） on performance, egg quality and egg health indicators of laying hens. A total of 2304 Roman brown laying hens at 210-day-old were randomly allocated into 4 groups with 3 replicates per group and 192 laying hens per replicate. Hens in the control group (YCO group) were fed a corn-soybean meal basal diet,and the others in the experimental groups (YC0.2, YC0.4 and YC0.6 groups) were fed the basal diets supplemented with $0 . 2 \%$ ， $0 . 4 \%$ and $0 . 6 \%$ YC,respectively. The experiment lasted for 9 weeks.The results showed as follows:1） compared with the control group,the average egg weight of YCo.4 and YCo.6 groups was significant increased $( P { < } 0 . 0 5 )$ ,and the egg broken rate was significant decreased $( P { < } 0 . 0 5 )$ ； the soft egg rate of YC0.2, YC0.4 and YC0.6 groups was significant decreased ( $_ { ( P < 0 . 0 5 ) }$ .2）Compared with the control group，the shell thickness of YC0.4 and YC0.6 group was significant increased $( P { < } 0 . 0 5 )$ ; the lighteness value of yolk color of YCo.4 and YCo.6 groups was significant decreased $( P { < } 0 . 0 5 )$ ，and the yellowness value was significant increased $( P { < } 0 . 0 5 )$ ； the redness value of yolk color of YC0.6 group was significant increased $( P { < } 0 . 0 5 )$ .3) Compared with the control group,at the third and ninth weeks of the experiment, the coliform number on eggshell surface of YC0.2, YC0.4 and YC0.6 groups was significant decreased $( P { < } 0 . 0 5 )$ ；at the third and sixth weeks of the experiment, the total bacteria number on eggshell surface of YC0.4 group was significant decreased $( P { < } 0 . 0 5 )$ . 4) Compared with the control group,the digestibilities of crude protein, energy and dry matter of YC0.6 group were significant increased $( P { < } 0 . 0 5 )$ . 5) Compared with the control group,the cecal Lactobacillus number of YC0.2, YCO.4 and YCo.6 groups was significant decreased $( P { < } 0 . 0 5 )$ . In conclusion, diets supplemented with $0 . 4 \%$ and $0 . 6 \%$ YC can improve the egg quality and the feed digestibility of laying hens; diets supplemented with $0 . 2 \%$ ， $0 . 4 \%$ and $0 . 6 \%$ YC can improve the performance of laying hens,and reduce the Lactobacillus number, and inhibit the production of Salmonella in the cecum. Comprehensive consideration, the dietary suitable supplementation of YC for laying hens is $0 . 4 \%$
+
+Key Words: yeast culture; laying hens; performance; egg health indicator; cecal microbe; intestinal mucosal morphology

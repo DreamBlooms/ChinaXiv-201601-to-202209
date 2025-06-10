@@ -1,0 +1,395 @@
+[
+    {
+        "type": "text",
+        "text": "技术方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "RAM-HPLC在线富集技术检测脑脊液中利福平的浓度",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨晓萍14,张晓惠²，黄艳萍³，王荣²，谢华²，李文斌²，郭佑民4  \n兰州军区兰州总医院1影像诊断中心，全军高原环境损伤防治重点实验室，神经内科,甘肃 兰州 730050;4西  \n安交通大学第一附属医院影像中心，陕西 西安 710061",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的建立大体积直接进样的限进性液相色谱(RAM-HPLC)法,实现脑脊液样品的在线直接进样富集并检测脑脊液中的利福平。方法以自制限进性填料柱为前处理柱，Luna $\\mathbf { C } _ { 1 8 }$ 为分析柱，前处理流动相为水一甲醇 $( 9 5 : 5 , W N )$ ，流速为 $1 \\mathrm { m L } / \\mathrm { m i n }$ ，分析流动相为甲醇-乙腈- $1 0 \\mathrm { m m o l / L }$ 乙酸铵溶液 $( 6 0 { : } 5 { : } 3 5 , W W W )$ ，柱温为 $2 5 ~ \\mathrm { { ‰} }$ ，检测波长为 $2 5 4 ~ \\mathrm { n m } .$ 。结果选择 $1 0 0 \\mu \\mathrm { L }$ 为进样体积,其峰面积是进样量为 $2 0 { \\mu \\mathrm { L } }$ 时的5.33倍,有效提高了HPLC的检测灵敏度。利福平在 $0 . 2 5 { \\sim } 8 ~ \\mu \\mathrm { g / m L }$ 的浓度范围内浓度和峰面积具有良好的线性关系( $\\scriptstyle { \\begin{array} { l } { r = 0 . 9 9 9 7 } \\end{array} }$ )，LOD和LOQ分别为 $0 . 0 7 \\mu \\mathrm { g / m L }$ 和 $0 . 2 5 \\mu \\mathrm { g / m L }$ ,日内日间精密度均小于 $5 \\%$ ，低中高3个浓度下的空白加样回收率为 $8 7 . 6 9 \\% \\sim 1 0 2 . 1 1 \\%$ ，测定给药(剂量为 $1 0 \\mathrm { m g / k g ) 2 h }$ 后的人脑脊液中利福平浓度为 $0 . 2 9 \\mu \\mathrm { g / m L }$ 。结论该方法简单快速，适用于脑脊液中利福平的富集检测,满足临床个体化用药指导。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：大体积直接进样;限进性填料;高效液相色谱;利福平；脑脊液",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Detection of rifampicin concentration in cerebrospinal fluid by online enrichment and restricted-access media coupled with high-performance liquid chromatography ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YANG Xiaoping14,ZHANG Xiaohui²,HUANG Yanping,WANG Rong²,XIA Hua’,LIWenbing²,GUO Youmin DepartmentofdiologKeyboatoryfateuEomentalagetroofepmentofologyl Hospitalfdoin;etoogstspialofigeief Medicine,Xi'an710061,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective To establisha method fordetecting rifampicin in human cerebrospinal fluid (CSF)withrestricted acce media coupled with high-performance liquid chromatography thatalows online direct sample injection and enrichment. Methods We used the column of restricted access media asthe pre-treatment column and a C18 column as the analytical column. The mobile phase of pre-treatment column was water-methanol $( 9 5 \\colon 5 , ~ V / V )$ and the flow rate was $1 \\ \\mathrm { m L / m i n } ;$ the mobile phase of the analytical column was methanol-acetonitrile- $\\mathrm { . 1 0 ~ m m o l / L }$ ammonuium acetate (volume ratio of 60: 5: 35). The detection wavelength was $2 5 4 ~ \\mathrm { n m }$ and the column temperature was set at $2 5 ~ \\mathrm { { ^ c } }$ .Results For an injection volume of 100 $\\mu \\mathrm { L } ,$ the peak area of rifampicin was 5.33 times that for an injection volume of $2 0 ~ \\mu \\mathrm { L } ,$ and the limit of detection was effectively improved. The calibration curve showed an excellent linear relationship $\\scriptstyle ( r = 0 . 9 9 9 7 )$ between rifampicin concentrations and peak areas within the concentration range of 0.25 to $8 ~ \\mu \\mathrm { g / m L }$ in CSF. The limits of detection and quantification was $0 . 0 7 ~ \\mu \\mathrm { g / m L }$ and $0 . 2 5 \\ \\mu \\mathrm { g / m L } ,$ respecetively, with intra-day and inter-day assay precisions and relative standard deviation $( \\mathrm { R S D \\% } )$ )all below $5 \\%$ . The recoveries of rifampicin at 3 blank spiked levels (low, medium, and high) ranged from $8 7 . 6 9 \\%$ to $1 0 2 . 1 1 \\%$ . In patients taking oral rifampicin at the dose of $1 0 \\mathrm { m g / k g } ,$ the average rifampicin concentration was 0.29 in the CSF at $^ { 2 \\mathrm { h } }$ after medication. Conclusion The method we established is simple and fastfor detectingrifampicinin CSFand alows direct online injection and enrichment with good detection precisions and accuracies. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:largevolumndirectinjection;restrictedaccessmedia;highperformanceliquid;rifampicin;cerebrospinalfluid ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "结核病是一种由结核分枝杆菌引起的传染病1，目前仍是危害人类健康的大问题，每年大约有近两百万的人死于结核病，是致死率最高的传染病。临床上利福平被广泛用于治疗结核病[1-3],它是利福霉素半合成品的结构类似物，通过抑制细菌的RNA酶来杀死结核分枝杆菌，其杀菌能力与利福平在病灶区的浓度有关，但是因为利福平有很多副作用(如：肝毒性、过敏性皮疹、恶心、免疫障碍等),所以，监测生物体液中利福平的浓度具有重要的临床意义。目前，检测体液中利福平的方法有薄层色谱法[45]、高效液相色谱法[6-9](HPLC)、液相色谱质谱联用法[10-12](LC-MS/MS),这些方法对生物样品的前处理通常采用蛋白沉淀法、固相萃取法、液液萃取法，存在耗时、费力、损失样品的缺点，因此，建立一种简单快速检测脑脊液中利福平浓度的方法是很有必要的。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了解决这个问题,一种新的以限进性填料[13-19](RAM)为固定相的预处理柱已被应用，限进性填料的性质可以总结如下：外表面键合有亲水性基团，避免蛋白质在柱子表面的吸附，蛋白质等大分子物质因外表面的分子排阻功能而无法进人内表面并被预处理流动相洗脱，而内表面键合有功能性基团，只有小分子的物质可以进入内表面并与这些基团相互作用而保留。尽管这一方法可以实现生物样品的直接进样，但由于生物体液中的药物浓度较低，常规进样还不能完全满足生物体液的测定要求， $\\mathrm { L i } ^ { [ 2 0 ] }$ 对大体积进样(LVI)进行了探索实验。本文拟通过大体积进样，结合限进性填料柱的富集性能，并通过柱切换技术使这一过程在线进行，探索建立一种能够提高高效液相色谱灵敏度，降低检测限的在线RAM-HPLC对脑脊液的测定方法。该研究可用于临床脑脊液中利福平的测定，进行临床的合理用药。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 药品与试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利福平和卡马西平(内标物)的对照品均购自于中国生物制品检定所（利福平130496-200702，卡马西平100142-201105)，乙酸铵(上海引物化工厂），甲醇和乙晴为分析纯(四川西陇化工有限公司，批号：120319)，灭菌水（四川科伦药业股份有限公司，批号：H20044405）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2实验器材 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "柱切换-高效液相色谱系统：两个LC-6A泵、SPD-6AV紫外检测器、CTO-6A柱温箱（日本岛津公司）， $2 0 0 { \\mu \\mathrm { L } }$ 进样环(日本岛津公司)，7725i进样阀(美国Rheodyne公司),70oo型切换阀(美国Rheodyne公司）,色谱信号由SCL-6A控制器(日本岛津公司)控制。直径为 $4 7 ~ \\mathrm { m m } .$ 孔径为 $0 . 4 5 ~ { \\mu \\mathrm { m } }$ 的流动相过滤膜（中国Do-Chrom)，超声波清洗器(天津奥特赛恩思仪器有限公司），TGL-16B型离心机（上海安亭科学仪器厂），AE-240型电子天平（上海梅特勒-托利多)，限进性填料柱 $( 4 . 6 ~ \\mathrm { m m } \\times 4 5 ~ \\mathrm { m m } , 5 ~ \\mu \\mathrm { m }$ ;实验室自制)，分析柱(Luna$\\mathbf { C } _ { 1 8 } , 4 . 6 ~ \\mathbf { m m } { \\times } 2 5 0 ~ \\mathbf { m m } , 5 ~ \\mu \\mathrm { m }$ ;美国Phenomenex公司）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3色谱条件",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "前处理柱为自制限进性填料柱[13-14] $4 . 6 { \\times } 4 5 ~ \\mathrm { m m }$ ，$5 \\mu \\mathrm { m }$ ;实验室自制),分析柱为(Luna $\\mathrm { C 1 8 , 4 . 6 { \\times } 2 5 0 m m }$ ${ 5 \\mu \\mathrm { m } } )$ ；前处理流动相为水-甲醇 $9 5 : 5 / V : V )$ ，分析流动相甲醇-乙腈-10mmol/L乙酸铵溶液 $( 6 0 { : } 5 { : } 3 5 / V { : } V { : } V )$ .流速均为 $1 \\mathrm { m L } / \\mathrm { m i n }$ ，进样体积： $1 0 0 \\mu \\mathrm { L }$ ,柱温 $2 5 ~ \\mathrm { { ^ circ C } }$ ，检测波长为 $2 5 4 \\mathrm { n m }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4 对照品溶液 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "精密称取 $0 . 0 1 0 0 \\ \\mathrm { g }$ 利福平对照品置于 $1 0 ~ \\mathrm { m L }$ 的容量瓶中，加甲醇稀释至刻度，摇匀，配成 $1 \\mathrm { m g / m L }$ 的利福",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "平对照品溶液。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "精密称取 $0 . 0 1 0 0 \\ \\mathrm { g }$ 卡马西平对照品置于 $1 0 ~ \\mathrm { m L }$ 的容量瓶中,加甲醇稀释至刻度,摇匀,配成 $1 \\mathrm { m g / m L }$ 的卡马西平的对照品溶液,并稀释成 $2 5 0 ~ \\mu \\mathrm { g / m L }$ 的卡马西平内标溶液。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5样品处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "脑脊液由兰州军区兰州总医院神经外科提供。该患者为肺结核病人，临床使用三联疗法进行抗结核治疗，脑脊液收集之前与患者签署了知情同意书。脑脊液$5 0 0 0 ~ \\mathrm { r / m i n }$ 速率下离心 $5 \\mathrm { m i n }$ ，吸取上清液在 $- 2 0 \\mathrm { { ^ { \\circ } C } }$ 下冷冻保存。使用前在室温下融解。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.6在线进样过程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验流程按文献[16]。进样时，切换阀RAM柱与分析柱呈并联状态，脑脊液样品经RAM柱并由前处理流动相洗脱除去蛋白质等大分子物质，小分子的利福平保留并富集在RAM柱上，然后将切换阀切换，此时，RAM柱与分析柱呈串联状态，分析流动相将保留在RAM柱上的利福平洗脱至分析柱，经检测器检测。分析完毕后，将阀切换至初始位置，使预处理流动相和分析流动相分别平衡预处理柱和分析柱 $5 \\mathrm { m i n }$ ，以便下次进样。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 方法的专属性",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在本实验条件下对空白脑脊液、空白脑脊液加对照品、给药后脑脊液样品的色谱图进行比较(图1)。结果表明，检测波长为 $2 5 4 ~ \\mathrm { n m }$ 时，内标卡马西平的出峰时间是 $8 . 6 0 \\ \\mathrm { m i n }$ ，利福平的出峰时间为 $1 0 . 2 9 \\ \\mathrm { m i n }$ ,且其出峰处没有杂峰干扰，适合脑脊液中利福平的在线富集检测。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2最佳进样体积",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "配制质量浓度为 $2 ~ \\mu \\mathrm { g / m L }$ 的利福平脑脊液对照品溶液，以不同体积 $( 2 0 , 6 0 , 1 0 0 , 1 4 0 , 1 8 0 \\mu \\mathrm { L } )$ 进样,以峰面积对进样体积作图，考察峰面积与进样体积之间的关系(图2)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "结果表明,进样体积在 $1 4 0 \\mu \\mathrm { L }$ 以内时，峰面积随着进样体积的增加而增加,当进样体积大于 $1 4 0 \\mu \\mathrm { L }$ 时,峰面积不再随进样体积的增加而增加，说明当进人RAM柱内的样品中所含的蛋白质超过RAM的承载量时，RAM的富集能力就会受到影响，考虑到对RAM柱的保护和脑脊液样品的采样量，选择 $1 0 0 { \\mu \\mathrm { L } }$ 为最佳进样体积。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3最佳进样体积下的富集可行性",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了证明RAM柱对脑脊液中的利福平能起到有效的富集作用，即不同进样体积下的峰面积之比与进样体积之比应该一致,本研究配制了质量浓度为 $2 ~ \\mu \\mathrm { g / m L }$ 的利福平脑脊液溶液,考察了最佳进样体积 $1 0 0 ~ \\mu \\mathrm { L }$ 与常规进样体积 $2 0 { \\mu \\mathrm { L } }$ 的峰面积之比，每个进样体积重复5次。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e85643abd1b6cec1739d37df9fe312f0c00e8a5ca1c2acc4c1019d4bde8217c3.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/505849869fa9d798496e3de03276b75ed0836d91f66bb5a898bed22cdf5c0126.jpg",
+        "img_caption": [
+            "图1利福平及内标色谱图 Fig.1 Chromatograms of rifampicin and internal standard.A: Blank cerebrospinal fluid; B: Blank cerebrospinal fluid spiked with rifampicin and internal standard; C: Cerebrospinal fluid after administration of spiked internal standard.Peak 1: Carbamazepine; 2: Rifampicin. ",
+            "图2进样体积与峰面积的关系 Fig.2Relationship between injection volume and peak area. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "样体积差5倍，则所得峰面积也应相差5倍，根据表1中的平均峰面积数值计算,进样体积为 $1 0 0 { \\mu \\mathrm { L } }$ 时的峰面积是进样体积为 $2 0 { \\mu \\mathrm { L } }$ 的5.33倍，与5倍的理论值接近，结果表明，进样 $1 0 0 ~ \\mu \\mathrm { L }$ 时,RAM-HPLC对脑脊液中利福平的在线富集是可行的，且富集后峰形良好，有效提高了HPLC的检测灵敏度，适合脑脊液中利福平的富集检测。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.4标准曲线",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图3是进样体积为 $2 0 \\mu \\mathrm { L }$ 及 $1 0 0 \\mu \\mathrm { L }$ 时的色谱图，图3A中利福平的峰是一个微小的吸收峰，图3B中利福平的峰是1个尖锐的吸收峰，由此看见，RAM柱对脑脊液中的利福平具有富集作用。理论上，同一浓度的样品进",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "配制质量浓度分别为 $0 . 2 5 \\AA , 0 . 5 \\AA , 1 \\AA , 2 \\AA , 4 \\AA , 8 \\mu \\mathrm { g / m L }$ 的利福平脑脊液对照品溶液，均加入 ${ 5 \\mu \\mathrm { L } }$ 的内标溶液 $2 5 0 ~ \\mu \\mathrm { g / m L }$ 卡马西平对照品溶液）,涡旋 $3 0 ~ \\mathrm { s }$ ，在$5 0 0 0 ~ \\mathrm { r / m i n }$ 速率下离心 $5 \\mathrm { m i n }$ ,精密吸取上清 $1 0 0 ~ \\mu \\mathrm { L }$ 进样，以峰面积Y对利福平脑脊液浓度 $\\mathrm { \\Delta X ( \\mu g / m L ) }$ 绘制标准曲线，所得标准曲线线性关系良好，线性方程式为$\\mathrm { Y = 1 } . 0 8 2 7 \\mathrm { X } \\mathrm { - } 0 . 1 6 2 3$ 0 $\\scriptstyle \\scriptstyle \\int = 0 . 9 9 9 3 ,$ ），LOD和LOQ分别为",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c6053f309b830d64c538f4ad10f0ce64a2055f746fa3dcee4c37597efdbb133.jpg",
+        "img_caption": [
+            "图3不同进样体积的色谱峰 Fig.3 Chromatogram of different injection volumes of $2 ~ \\mu \\mathrm { g / m L }$ rifampicin. A: $2 0 \\mu \\mathrm { L } ;$ B: $1 0 0 \\mu \\mathrm { L }$ .Peak1:Rifampicin. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b771962c53a0d3cc3abbe4a58bd8258b37dac0cbd424d340430bf3cf1dc5c2bf.jpg",
+        "table_caption": [
+            "表1进样体积为 $1 0 0 \\mu \\mathrm { L }$ 与 $2 0 { \\mu \\mathrm { L } }$ 的峰面积之比 Tab.1 Peak area ratio with injection volumes of $1 0 0 \\mu \\mathrm { L }$ and $2 0 \\mu \\mathrm { L }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Injection volume(μL)</td><td>Concentration(μg/mL)</td><td>Average peak area(n=5)</td><td>RSD%(n=5)</td><td>Ratio(n=5)</td></tr><tr><td>20</td><td>2</td><td>1844272</td><td>3.77</td><td>5.33</td></tr><tr><td>100</td><td></td><td>9834368</td><td>3.21</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$0 . 0 7 \\mu \\mathrm { g / m L }$ 和 $0 . 2 5 \\mu \\mathrm { g } / \\mathrm { m L }$ #",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.5精密度及回收率 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "配制质量浓度分别为 $0 . 5 \\AA 2 . 4 ~ \\mu \\mathrm { g / m L }$ 的利福平脑脊液对照品溶液,加入 ${ 5 \\mu \\mathrm { L } }$ 的内标溶液 $( 2 5 0 \\mu \\mathrm { g / m L }$ ,卡马西平对照品溶液)，涡旋 $3 0 \\ \\mathrm { s } , 5 0 0 0 \\ \\mathrm { r / m i n }$ 速率下离心$5 \\mathrm { m i n }$ 后，进样 $1 0 0 \\mu \\mathrm { L } , 1 \\textrm { d }$ 内重复测定6次，连续测定3日，计算日内及日间精密度。回收率考察了低中高（20 $( 0 . 5 , 2 , 4 \\mu \\mathrm { g / m L } )$ 3个浓度下的空白加样回收率，样品处理方法同上，每个浓度重复测定5次，计算回收率。结果如表2所示，日内日间精密度均在 $5 \\%$ 以内，空白加样回收率在 $9 9 . 9 8 \\% \\sim 1 1 3 . 6 6 \\%$ 之间，符合生物样品测定方法的要求。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/1a5daafe1804b017ee1cff9d11af10cfbb29e3724be7b22d981248b535fe2959.jpg",
+        "table_caption": [
+            "表2日内日间精密度及空白回收率 Tab.2 Precisions and blank recoveries for rifampicin in cerebrospinal fluid "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">Concentration（μg/mL）</td><td colspan=\"2\">RSD%</td><td rowspan=\"3\">Blank recoveries%</td><td rowspan=\"3\">RSD%</td></tr><tr><td>Intra-day</td><td>Inter-day</td></tr><tr><td>(n=6)</td><td>(n=3)</td></tr><tr><td>0.5</td><td>4.10</td><td>3.92</td><td>(n=5) 113.66</td><td>(n=5) 4.25</td></tr><tr><td>2</td><td>3.84</td><td>3.56</td><td>106.11</td><td>2.42</td></tr><tr><td>4</td><td>3.19</td><td>2.07</td><td>99.98</td><td>3.31</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.6常温放置稳定性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "配制质量浓度为 $2 ~ \\mu \\mathrm { g / m L }$ 的利福平脑脊液对照品溶液，加入 ${ 5 \\mu \\mathrm { L } }$ 的内标溶液 $( 2 5 0 \\mu \\mathrm { g / m L }$ ,卡马西平对照品溶液)，涡旋 $3 0 \\ \\mathrm { s } , 5 0 0 0 \\ \\mathrm { r / m i n }$ 速率下离心 $5 \\mathrm { m i n }$ ，于室温下放置0、2、4、8、12、24h进行测定,进样体积为 $1 0 0 \\mu \\mathrm { L }$ 计算其RSD为 $4 . 4 5 \\%$ ，表明脑脊液样品在室温 $2 4 \\mathrm { h }$ 内稳定性良好。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.7冻融稳定性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "配制质量浓度为 $2 ~ \\mu \\mathrm { g / m L }$ 的利福平脑脊液对照品溶液,加入 ${ 5 \\mu \\mathrm { L } }$ 的内标溶液 $( 2 5 0 \\mu \\mathrm { g / m L }$ ,卡马西平对照品溶液），涡旋 $3 0 \\mathrm { \\ s } , 5 0 0 0 \\mathrm { \\ r / m i n }$ 速率下离心 $5 ~ \\mathrm { m i n }$ 在 $- 2 0 \\ \\mathrm { ^ { \\circ } C }$ 下反复冻融 $^ { 7 2 \\mathrm { ~ h ~ } }$ ，计算其RSD为 $4 . 1 2 \\%$ ，表明脑脊液样品的冻融稳定性良好。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.8脑脊液中利福平的测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用本实验建立的RAM-HPLC法测定给药(给药剂量为 $1 0 \\mathrm { m g / k g ) 2 h }$ 后患者脑脊液(脑脊液由兰州军区兰州总医院神经外科提供)中的利福平浓度，其浓度为$0 . 2 9 \\mu \\mathrm { g / m L }$ 0",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "柱切换RAM-HPLC色谱法检测生物样品时，向预处理流动相中加入少量的甲醇和乙腈是非常重要的，因为少量的有机试剂能够对药物与血浆蛋白的解离起到一定的作用，从而增强了RAM柱的萃取选择性，提高样品回收率。由于乙腈比甲醇更容易造成蛋白的沉淀，所以选择甲醇更加安全有效，然而，高浓度的甲醇也会造成蛋白沉淀，导致回收率降低，RAM柱和分析柱堵塞变性。为了避免蛋白沉淀，前处理流动相中的甲醇浓度要小于 $2 0 \\% ( v / v )$ ,Liu等[21对萃取流动相中的甲醇浓度进行了考察，发现甲醇浓度为 $10 \\%$ 时的信号比甲醇浓度为 $5 \\%$ 的信号稍微高一些，但是甲醇浓度为 $10 \\%$ 时，前处理柱的寿命会因为蛋白沉淀而急剧缩短，因此 $5 \\%$ 的甲醇浓度最好,本实验结果与文献报道一致。如果增加流动相中有机相甲醇的比例，将减弱蛋白和药物之间的疏水性作用，导致蛋白质共沉淀，堵塞前处理柱；同时，由于利福平血浆蛋白结合率高，游离态的利福平在血浆样品中的浓度低，如果增加流动相的比例，会造成利福平的损失。所以在本实验中，认真选择了前处理柱中流动相的甲醇比例，选择前处理流动相为水-甲醇(95：5,V/$V )$ ，前处理流动相中的甲醇在一定程度上能够使利福平与血浆蛋白解离，并被RAM柱保留富集，有效地防止对样品造成大量损失，因此，有机相甲醇比例的控制是建立方法的关键，可提高检测的灵敏度。本实验所建立的RAM-HPLC法在线富集检测血浆中的利福平方法，以$5 \\%$ 的甲醇为有机相的浓度，从而提高HPLC对利福平的检测灵敏度，达到了实验目的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在 $1 \\ \\mathrm { m L } / \\mathrm { m i n }$ 到 $2 \\mathrm { m L } / \\mathrm { m i n }$ 的区间内考察前处理流动相的流速对样品分析的影响，色谱峰面积的响应值在$1 \\mathrm { m L } / \\mathrm { m i n }$ 时较高，大于 $1 \\mathrm { m L } / \\mathrm { m i n }$ 时，色谱峰面积的响应值下降，这是因为流速增加，纵向扩散减少，溶质在柱中分布相对更加集中，使得脑脊液中的利福平与限进性填料互相作用不够充分，脑脊液中的利福平没有很好地被保留在前处理柱上，而被流动相冲出，脑脊液的浓度降低，相应值降低。同时，流速增加会使拖尾峰更拖尾，伸舌峰更伸舌的现象。而当流速小于 $1 \\ \\mathrm { m L / m i n }$ 时，整个分析时间会被延长。综合分离时间和灵敏度两者的关系，确定前处理流动相的流速为 $1 \\ \\mathrm { m L } / \\mathrm { m i n }$ 。从本实验可以看出，对影响实验的每一个因素进行考察,将直接影响实验获得最佳灵敏度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了能使RAM柱有效除去脑脊液中的蛋白质，并将保留在RAM柱上的利福平洗脱至分析柱分析，合适的切换时间就显得很重要，切换时间过短，无法有效除去脑脊液中的蛋白等大分子物质，导致切换后残留的蛋白质被分析流动相沉淀，对RAM柱与分析柱造成堵塞，而切换时间过长，会导致整个分析时间变长，还可能造成色谱峰拖尾，待测物损失等问题。所以将RAM柱直接与检测器连接,波长设为 $2 8 0 \\mathrm { n m }$ (蛋白质的紫外吸收波长),当前处理流动相的流速为 $1 \\ \\mathrm { m L / m i n }$ 时， $1 0 0 ~ \\mu \\mathrm { L }$ 的脑脊液在 $5 \\mathrm { m i n }$ 内完成除蛋白的过程，所以确定切换时间为 $5 \\mathrm { m i n }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "限进性填料由内表面和外表面构成，外表面具有分子排阻和亲水性质，能够阻碍生物大分子进入内表面，而外表面的亲水性质又不会使生物大分子在外表面上吸附沉积，最终，这些生物大分子被预处理流动相洗脱，达到除蛋白的作用；RAM的内表面只有小分子物质可以进人，并通过与内表面上键合的配体相互作用而保留或富集，相比于蛋白沉淀法，RAM处理生物样品时，对药物的选择性大大提高[17]。限进性填料能够除去脑脊液中的蛋白质等大分子物质并富集其中的利福平，由于色谱柱有一定的承载量，当进人RAM柱的样品所含蛋白等大分子物质达到一定量时，样品中的小分子物质利福平不能与RAM充分接触，从而影响了RAM对脑脊液的纯化及富集能力，但是由于不同的生物体液不同所含蛋白质的量也不同，所以能够达到的最大进样体积不同。本实验考虑到对RAM的保护及脑脊液含有的蛋白的含量不同，最终优化选择 $1 0 0 { \\mu \\mathrm { L } }$ 为进样体积,相关运用RAM柱对脑脊液的分析测定，未见文献报道。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文以实验室自制RAM柱为前处理柱，建立RAM-HPLC法，采用实验室常规的高效液相色谱仪，通过大体积进样的方式考察RAM对脑脊液中利福平药物的富集能力，结果表明RAM富集能力良好，但是，进样体积增大，柱压也随之增大，所以考虑到对色谱柱的保护及生物体液的采样量，我们选择 $1 0 0 ~ \\mu \\mathrm { L }$ 为脑脊液的最佳进样体积，并考察了此进样体积下，RAM对利福平药物的富集能力，相比于进样体积为 $2 0 ~ \\mu \\mathrm { L }$ 时的峰面积，最佳进样体积下的峰面积分别增大了5.33倍，因此，在最佳进样体积下，RAM对脑脊液中利福平药物的富集是可行的，有效提高了HPLC的检测灵敏度，且分离在 $1 5 \\mathrm { m i n }$ 完成，实验中发现自制RAM柱对药物的保留能力有差异，所以本文考察了流动相中强洗脱溶剂的体积百分数，流动相pH,离子浓度对药物在RAM柱上保留的影响，结果表明：实验室自制RAM柱对小分子药物的保留主要是基于疏水作用，所以适用于分析疏水性强的物质，符合反相液相色谱的性质，此外，氢键、静电作用等分子间作用力也参与药物的保留过程，但不是影响RAM对药物保留的主要作用。通过柱温对药物在RAM柱上保留的影响，从热力学角度阐述了小分子药物在RAM柱上的保留是放热过程，低温有利于保留，而且药物在RAM柱上的保留过程是自发的，则其保留能力强，反之，则保留能力差。对自制RAM柱保留机理的研究有利于我们更加合理有效的使用RAM柱，并能对后续RAM的合成提供一定的依据。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文建立的RAM-HPLC法能够实现脑脊液的在线直接进样并能富集脑脊液中的利福平，结果表明，进样量为 $1 0 0 { \\mu \\mathrm { L } }$ 时,利福平的峰面积是进样量为 $2 0 { \\mu \\mathrm { L } }$ 时峰面积的5.33倍，与进样体积之比相近，说明进样量为$1 0 0 { \\mu \\mathrm { L } }$ 时，RAM对脑脊液中利福平的富集可行，且富集后峰形良好，有效提高了HPLC的检测灵敏度。本方法简单快速，方法学考察结果满足生物样品测定要求，能够成功应用于脑脊液中利福平浓度的检测，测得给药（给药剂量为 $1 0 \\mathrm { m g / k g ) 2 h }$ 后的人脑脊液中利福平浓度为 $0 . 2 9 \\mu \\mathrm { g / m L }$ ,为脑脊液中药物的测定提供了一种简单有效的方法可指导临床合理用药。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Melo LP,Queiroz RH,Queiroz ME.Automated determination of rifampicin in plasma samples by in-tube solid-phase microextraction coupled with liquid chromatography[J].J Chromatogr B Analyt Technol Biomed Life Sci,2011, 879(24): 2454-8.   \n[2]Balbao MS,Bertucci C,Bergamaschi MM,et al.Rifampicin determination in plasma by stir bar-sorptive extraction and liquid chromatography[J].JPharm Biomed Anal,2010,51(5):1078-83.   \n[3]Tatarczak M,Wieczorek K,Possé B,et al.Identification of putative adhesin genes in shigatoxigenic Escherichia coli isolated from different sources[J]. Vet Microbiol,2005,110(1/2): 77-85.   \n[4]Shewiyo DH,Kaale E,Risha PG,et al. Optimization of a reversedphase-high-performance thin-layer chromatography method for the separation of isoniazid,ethambutol, rifampicin and pyrazinamide in fixed-dose combination antituberculosis tablets[J].J Chromatogr A, 2012,1260:232-8.   \n[5]Udupa N,Goyal P,Agarwal S,et al． Simultaneous HPTLC determination of rifampicin and isoniazid in rat plasma[J].Indian J Pharm Sci,2003,65:414-6.   \n[6] Gikas E,Bazoti FN,Fanourgiakis P,et al. Simultaneous quantification of daptomycin and rifampicin in plasma by ultra performance liquid chromatography:Application to a pharmacokinetic studyJ].JPharmBiomed Anal,2010,51(4):901-6.   \n[7]Calleja I,Blanco-Prieto MJ,Ruz N,et al.High-performance liquid-chromatographic determination of rifampicin in plasma and tissues[J].JChromatogr A,2004,1031(1/2): 289-94.   \n[8]Fox D,O'connor R,Mallon P,et al. Simultaneous determination of efavirenz,rifampicin and its metabolite desacetyl rifampicin levels in human plasma[J].JPharm Biomed Anal, 2011, 56(4): 785-91. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（上接1632页）",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[9]Balbao MS,Bertucci C，Bergamaschi MM,et al.Rifampicin determination in plasma by stir bar-sorptive extraction and liquid chromatography[J].JPharm Biomed Anal,2010,51:1078-83.   \n[10] Srivastava A,Waterhouse D,Ardrey A,et al.Quantification of rifampicin in human plasma and cerebrospinal fluid by a highly sensitiveandrapidliquidchromatographic-tandemmass spectrometric method[J].JPharm Biomed Anal,2012,70: 523-8.   \n[11]Baieto L,Avolio A,De Rosa FG,et al. Development and validation of a simultaneous extraction procedure for HPLC-MS quantification of daptomycin,amikacin,gentamicin,and rifampicin in human plasma[J].Anal Bioanal Chem,2O10,396: 791-8.   \n[12] Notari S,Mancone C,Sergi M,et al.Determination of antituberculosis drug concentration in human plasma by MALDI-TOF/ TOF[J].IUBMBLife,2010,62(5):387-93.   \n[13]王荣,贾正平,谢 华.内表面反相限制性填料的合成与应用[P].中国 发明专利.201210035131.4.   \n[14]武晓玉,王荣,谢华,等.新型内表面反相限进填料的制备与评价 [J].色谱,2012,8(8):810-5.   \n[15]张晓惠,王荣,谢 华,等.限进性色谱柱联用高效液相色谱柱技术评 价在线富集能力并检测盐酸贝那普利[J].色谱，2013,31(5):451-5.   \n[16]张晓惠,王荣,谢华,等.基于高效液相色谱在线富集和柱切换检测 血液和尿中的呋塞米的浓度[J].南方医科大学学报,2014,34(10): 1431-5.   \n[17]Rbeida O,Christiaens B,HubertP,et al.Evaluation of a novel anion-exchange restricted-accesssorbent foron-linesample clean-up prior to the determination of acidic compounds in plasma byliquid chromatography[J].J Chromatogr A,2004,1030(1/2): 95-102.   \n[18]Chiap P,Rbeida O,Christiaens B,et al.Use of a novel cationexchange restricted-access material for automated sample clean-up prior to the determination of basic drugs in plasma by liquid chromatography[J].JChromatogr A.2002,975(1): 145-55.   \n[19]Huang Z,Zhu Z, Subhani Q,et al. Simultaneous determination of iodide and iodate in povidone Iodine solution by ion chromatography with homemade and exchange capacity controllable columns and column-switching technique [J].J Chromatogr A, 2012,1251: 154-9.   \n[20]Li M,Alnouti Y,Leverence R,et al.Increase of the LC-MS/MS sensitivity and detection limits using on-line sample preparation with large volume plasma injection[J].J Chromatogr B Analyt Technol Biomed Life Sci, 2005,825(2): 152-60.   \n[21]Liu M,Hashi Y,Pan F,et al．Automated on-line liquid chromatography-photodiode array-mass spectrometry method with dilution line for the determination of bisphenol Aand 4-octylphenol in serum[J].JChromatogrA,2006,1133(1/2): 142-8. (编辑：经媛) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

@@ -1,0 +1,392 @@
+[
+    {
+        "type": "text",
+        "text": "贪婪型动态数字复接器设计与时延分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "石立国1,2，王竹刚²，熊蔚明²,候鸿杰1,2(1.中国科学院空间科学与应用研究中心北京100190；2.中国科学院大学北京100190)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了节省信道资源，可以将多路不同速率、不同猝发时隙的数字信源复合为一路数据的异步数字复接器得到了广泛应用。为了尽最大可能降低源包数据传输时延、提高信道利用率，提出了一种贪婪型异步动态数字复接器的设计方案，并给出了各路信源的优先级调度策略。使用硬件描述语言对两种复接模型进行描述。在不同物理帧和两种信源模式下，通过Modelsim对贪婪型动态复接器和虚拟信道复接器进行了仿真对比。仿真结果表明，贪婪型动态复接的平均传输时延和时延抖动都优于虚拟信道复接，并能够更有效地节省信源缓存资源。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：数字复接器；虚拟信道；平均传输时延；时延抖动中图分类号：TN914.3 文献标识码：A 文章编号:1674-6236(2016)02-0142-04",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Design of greedy dynamic digital multiplexer and its analysis of time delay ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SHI Li-guo1,2，WANG Zhu-gang²，XIONG Wei-ming²，HOU Hong-jie1.2 (1.Center for Space Science and Applied Research of Chinese Academy of Sciences ，Beijing 100190,China; 2.UniversityofChinese Academy of Sciences，Beijing 1Oo190,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Inordertosavechannelresources，asynchronousdigitalmultiplexer,whichcanmultiplexdiferentrate,dierent bursttime slot digital source，has been widelyapplied.Aims to reduce the maximum extent posible source packet data transmission delay，improve channelutilization，design scheme of agreedyasynchronousdynamicdigital multiplexeris proposed.The priorityscheduling strategyof sourcesis given tooTwo kindsof multiplex modelare described byhardware description language.Simulations for greedydynamic multiplexerand virtual channel multiplexer，under theconditionof diferentphysicalframelengthandtwo source model,havebeencarriedoutby Modelsim.The simulationresultsshowthat, fortheaverage transmissondelayand delay jiter，thegreedydynamicmultiplexing issuperior to thevirtual channel multiplexing，and is more effective in saving resource of source cache. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:digital multiplexer；virtual channel；average transmission delay；delay jitter ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DOI:10.14022/j.cnki.dzsjgc.2016.02.044 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在复杂的现代数字通信系统中，所需传输的数字信源往往有很多个。为了提高传输的效率，扩大传输的容量，依据时分复用原理实现的数字信号复接与分接已经广泛应用于很多系统中。数字复接器(DigitalMultiplexer)与分解器(DigitalDemultiplexer）将不同速率、不同类型的信号进行合并与分离，以实现通过一条信道完成多个信源信号传输的目的。根据复接器与各个信源时钟的不同关系，数字复接器可分为同步复接器1和异步复接器。前者对于信源的相位、速率等要求较严，应用的范围相对较窄；后者可以适用于速率、相位、发生间隔等各不相同的多个数字信源的传输，应用较为广泛[]。许多高校对同步复接器及其缺点进行了研究，并通过码率调整的方式将异步复接变为同步复接[1.3-5]，这种实现方式由于插入了许多无用脉冲，降低了信道利用率，并引入了不必要的时延抖动。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前应用比较广泛的一种复接器被称为虚拟信道复接器。文中根据数字复接器的实现方式，提出了一种新的复接方式：贪婪型动态复接器，并对贪婪型动态复接器和虚拟信道复接器进行了时延分析和对比，以明确其特点和应用场景，目的是提高通信系统的性能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1信源要求及物理帧模型",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在实际的通信系统中，通常要完成不同速率、不同类型信号的复接。不同信号之间的差别可能很大，具体如下：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1）信号速率差别相当大。光纤信号可以达到Gbps，而音  \n频、控制数据等仅仅只有几十Kbps，甚至更低;2）对时延的要求不同。有些信号要求有尽可能短的时间  \n延迟，另外还有一些信号对时延不是特别敏感；3）信源速率可能动态变化。比如视频信号，在通信质量  \n好的情况下，可以按照高清的模式进行传输，在通信质量差  \n的情况下，可以考虑低画质传输，其速率差别很大，范围从几",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文中假设有4个信源，命名为：S1\\~S4,其平均速率分别为40Mbps、5Mbps、4Mbps和1Mbps,对时延的需求程度从S1到S4递减。并且这4个信源设置为匀速模式和短时间猝发模式两种。从S1到S4每个信源的数据包包长分别为4096Bytes,2 048 Bytes,1024 Bytes,512Bytes。数据包的包头都为2Bytes,其格式如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/08c232753f01520f9e45444a18b65be34d8b1fb0f1166fec012325556847aef5.jpg",
+        "table_caption": [
+            "表1信源数据包结构Tab.1 Source packet structure"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>信源</td><td>包头</td><td>包计数</td><td>数据域</td></tr><tr><td>S1</td><td>0xEB91</td><td>8 Bytes</td><td>4 086 Bytes</td></tr><tr><td>S2</td><td>0xEB92</td><td>8 Bytes</td><td>2 038 Bytes</td></tr><tr><td>S3</td><td>0xEB93</td><td>8 Bytes</td><td>1 014 Bytes</td></tr><tr><td>S4</td><td>0xEB94</td><td>8 Bytes</td><td>502 Bytes</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "物理帧帧长可以是固定的，也可以是可变的(例如：Prox一1协议)。对于固定帧长而言，数据的解调处理比较简单，同时也可以使用固定长度的编解码方式；可变帧长的解调处理，尤其是帧同步比较复杂。文中假设了5种固定帧长的物理帧格式，帧长分别为256Bytes、512Bytes、1024Bytes、2048Bytes、4096Bytes,其中帧头4Bytes,帧计数7Bytes,数据域长度分别为：213Bytes、447Bytes、885Bytes、1 781Bytes、3 573Bytes,剩余部分都是校验位。编码采用CCSDS标准的RS(255,223)。物理帧格式如表2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/63a26b8466697e15528f98d7c712791326ea6c3d5ee3870d8f5aa685de0c8608.jpg",
+        "table_caption": [
+            "表2物理帧结构Tab.2 Physical frame structure"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>物理帧长 (Bytes)</td><td>帧头 (Bytes)</td><td>帧计数 (Bytes)</td><td>数据域 (Bytes)</td><td>校验位 (Bytes)</td></tr><tr><td>256</td><td>4</td><td>7</td><td>213</td><td>32</td></tr><tr><td>512</td><td>4</td><td>7</td><td>447</td><td>64</td></tr><tr><td>1024</td><td>4</td><td>7</td><td>885</td><td>128</td></tr><tr><td>2048</td><td>4</td><td>7</td><td>1 781</td><td>256</td></tr><tr><td>4096</td><td>4</td><td>7</td><td>3573</td><td>512</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在本文中所设计的模型中,由于总信源码速率为 $5 0 \\mathrm { M b p s }$ 因此可以计算得出最大基带码速率为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { b } { = } \\frac { 2 5 6 } { 2 1 3 } \\cdot 5 0 ~ \\mathrm { M b p s } { \\approx } 6 0 . 0 9 ~ \\mathrm { M b p s }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "留有一定余量,取基带码速率为 $6 2 ~ \\mathrm { M b p s }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2贪婪型动态复接器设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文中设计和分析的数字复接器是异步的。因此，在信源数据进入到复接器之前，先要进行缓存。采用图1的结构进行设计。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "贪婪型动态复接的优点是使信源数据尽可能快的发送出去，尽最大可能降低时延，尽可能少的传输填充数据。对于物理帧中的数据域较短的情况，由于需要更少的标识符，带宽利用率会更优。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在第1节的信源和物理帧基础上，设计贪婪型动态复接包结构如表3所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/cd62adbfa7d134820e0065f14ffe959380353701108a255fa92c7322d9fa21cf.jpg",
+        "img_caption": [
+            "图1数字复接器结构 Fig.1Digital multiplexer structure "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/502413dc52b49b277ec075f2e6db7c36001a420a81e275fa4024ab57cfc21cf7.jpg",
+        "table_caption": [
+            "表3贪婪型动态复接 Tab.3 Greedy dynamic multiplexing "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">总数据 域长度</td><td rowspan=\"2\">标识符</td><td>信源</td><td>信源</td><td>信源</td><td>信源</td></tr><tr><td>S1</td><td>S2</td><td>S3</td><td>S4</td></tr><tr><td>X</td><td>Y</td><td>L1</td><td>L2</td><td>L3</td><td>L4</td></tr><tr><td>Bytes</td><td>Bytes</td><td>Bytes</td><td>Bytes</td><td>Bytes</td><td>Bytes</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中，第一列总数据域代表物理帧中的数据域，第二列标识符代表信源在复接包中几种信源分配的标志。X、Y的取值根据物理帧长取不同值。对于物理帧长为256Bytes时，Y取值4，对于其他4种物理帧长，Y取值8;L1\\~L4分别代表在一帧之中，对应信源的数据字节数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以物理帧长256Bytes为例，在贪婪型动态复接中，信源S1\\~S4的总数据域大小为213Bytes，4Bytes的标识符分别表示总数据域中对应信源所占数据字节个数。在物理帧组帧信号到来时，判读所有信源数据缓存个数，按照从S1到S4的优先级顺序，取出共209Bytes数据，组成一个动态的复合帧。其调度策略如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 当信源S1的数据缓存中数据多于209Bytes，则对应信源S1的标识符为 $0 \\mathrm { x D 1 }$ ，对应信源S2\\~S4的标识符全为$0 \\mathrm { { x } 0 0 }$ ，即 $\\scriptstyle \\mathrm { L 1 } = 2 0 9 , \\mathrm { L 2 } = \\mathrm { L } 3 = \\mathrm { L } 4 = 0$ ，此时的总数据域中，仅包含信源 S1的数据；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 若信源 S1的数据缓存中数据少于209Bytes，令其值为L1，则对应信源S1的标识符为L1，并从后面优先级低的信源 S2数据缓存中取出（209-L1）Bytes数据（假设此时信源S2数据缓存中数据多于209-L1Bytes），令对应信源S2的标识符为 $_ { \\mathrm { L } 2 = 2 0 9 - \\mathrm { L } 1 }$ ，对应信源 S3、S4的标识符为 $_ { \\mathrm { L 3 = L A = 0 } }$ ,此时的总数据域中，包含信源S1和S2的复合数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{3}$ 若信源S1和S2的数据缓存中数据之和少于209Bytes，信源S1、S2和S3数据缓存中数据之和大于等于209Bytes,读出信源S1和S2数据缓存个数L1和L2,令 $\\scriptstyle { \\mathrm { L } } 3 = 2 0 9 -$ L1-L2, $\\scriptstyle \\mathrm { L } 4 = 0$ ，此时的总数据域中，包含信源S1、S2和S3的复合数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{4}$ 若信源S1\\~S3的数据缓存中数据之和少于209Bytes,信源 S1\\~S4 数据缓存中数据之和大于等于 209 Bytes,读出信源S1\\~S3 数据缓存个数L1、L2、L3，令 $\\scriptstyle { \\mathrm { L } } 4 = 2 0 9 .$ -L1-L2-L3，此时的总数据域中，包含信源S1\\~S4的复合数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{5}$ 若所有信源数据缓存中数据之和少于209Bytes，则令标识符分别为L1、L2、L3、L4,此时的总数据域中，包含信源",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "S1\\~S4的数据，并对后面的空闲数据域进行填充。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对应贪婪型动态复接的数字分接器的设计也非常简单，仅需要通过对应信源S1\\~S4的标识符判读，即可方便的分离总数据域中对应的信源数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3虚拟信道复接器",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "虚拟信道复接方式是目前应用较多的方式之一，即一个信道分为多个虚拟信道，多个虚拟信道根据时分复用的原则，按照一定优先级的调度规则，分时独占信道。这种复接方式的调度算法对信道利用率、数据包的延时及所需的数据缓存大小均有非常大的影响。根据虚拟信道复接的数据源的调度算法，又可分为以下3种方式：全同步复用、全异步复用和同步、异步混合复用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在相同的信源、物理帧结构下，研究不同复接方式的性能才有意义。文中在第1节的信源和物理帧基础上，为了和贪婪型动态复接器进行对比，设计的虚拟信道复接包结构如表4所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/8e67ffc3687700e6503d73f86966578368d172590507f8b09bd6f2da45d76d45.jpg",
+        "table_caption": [
+            "表4虚拟信道复接 Tab.4 Vitual channel multiplexing "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>总数据域长度</td><td>标识符</td><td>虚拟信道数据域</td></tr><tr><td>X Bytes</td><td>1 Bytes</td><td>X-1 Bytes</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中，X代表意义同表3。按照信源码速率的大小，将信源S1\\~S4的优先级按照码速率从低到高的顺序进行优先级调度。物理帧组帧信号到来时，当信源S1缓存数据达到X-1Bytes以上，则不考虑信源S2\\~S4，由信源S1占用物理信道；当信源 S1缓存数据小于X-1Bytes时，则对信源 S2 缓存进行判读，若其缓存数据大于X-1Bytes,则由信源S2占用物理信道。依次类推，直到最低优先级的虚拟信道。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "这种设计方法对信源的码速率、是否猝发等的要求不高，是目前数字复接器应用较多的方法之一。缺点是信源缓存中的数据若长时间不足X-1Bytes,则会一直残留在缓存中。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4仿真分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4路数字信源采用2种模式：匀速模式和猝发模式。匀速模式时，信源S1\\~S4的码速率依次为：40 Mbps、5Mbps、4Mbps和1Mbps；猝发模式时，发送时间以 $0 . 1 ~ \\mathrm { m s }$ 为单位周期，在单位周期内，每个信源以较高的速率随机猝发一次，信源 S1\\~S4猝发码速率依次为:320 Mbps、40 Mbps、32 Mbps 和8 Mbps,其平均速率同匀速模式。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "物理帧设置的主要参数有基带速率和帧结构，详细设置参见1.1节。数字复接器选择了两种：虚拟信道复接和贪婪型动态复接。采用VHDL语言对仿真模型进行描述，并采集仿真数据。本设计旨在模拟数字复接器的时延性能，因此没有将载波同步、位同步、加解扰和编解码等模块带来的时延考虑在内。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于上述的仿真场景，进行了二十次仿真，即在两种信源模式和五种物理帧长条件下，分别对两种复接方式进行了仿真。图2给出了信源S1在物理帧长为 $1 \\ 0 2 4 \\ \\mathrm { B y t e s }$ 时，匀速模式和猝发模式下，两种复接方式下每个数据源包的延时对比。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图2中可以看到，在两种模式下，贪婪型动态复接方式的绝大多数数据源包的时延都小于虚拟信道复接方式。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "平均传输时延是数据源包从终端产生到成功的传输到接入点的平均时间间隔，其值的大小，依赖于源包的长度，包长越大，时延越大。可以看出，贪婪型动态复接的平均时延优于虚拟信道复接。对于优先级较高的信源S1，甚至相差2个数量级。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c11e406be743c5f0ff9dfd16a81dcedb2ed058ced3f0b6a7ca295e5b998a471.jpg",
+        "img_caption": [
+            "图2信源S1时延结果 Fig.2Delay results of source S1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "变化的时延被称为时延抖动(Jitter)，抖动大多起源于传输中的队列和缓存，尤其是在低速链路中，时延抖动非常明显。抖动的产生是随机的，而且无法避免。通常将大包拆小，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "来减少大包对时延的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在某些特定的应用环境中，要求数据包的传输时延相对稳定，也就是相对较小的源包传输时延抖动。从图2中可以看出，贪婪型动态复接信源S1的时延稳定在一个较小的范围之内，最大传输时延也非常小。结果表明，贪婪型动态复接优于虚拟信道复接。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于虚拟信道复接，物理帧越长，意味着信源数据驻留在缓存中的时间越长，所需要的缓存越大，传输时延越大；对于贪婪型动态复接，由于只要缓存中有多少数据，都会尽可能快的发送出去。所以，物理帧长的变化对贪婪型动态复接的影响较小。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "文中所提出的贪婪型动态复接器已成功应用于某通信机，它具有优秀的传输时延性能。通过与虚拟信道复接器的时延性能对比，得出以下结论：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1）贪婪型动态复接的平均传输时延、时延抖动和最大传输时延，都优于虚拟信道复接。2）物理帧的长度会影响贪婪型动态复接器虚拟信道复接器的时延性能，物理帧越长，平均传输时延、时延抖动和最大传输时延越大。其中虚拟信道复接器更加敏感。3）由于贪婪型动态复接器尽可能快的将数据缓存中的数据发送出去，故所需的数据缓存少于虚拟信道复接。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]徐孟祥.基于FPGA的高速误码仪研制[D].长沙:国防科技大学，2005.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[2] LIU Yue-feng,ZHAO Guang-quan,PENG Xi-yuan. Designand implementation of simulator for AOS high-speed payloadmultiplexer [CV/.Proceedings of IEEE ICEMI'2013，2013:285-290.  \n[3]唐辉艳.基于FPGA的实时仿真系统的设计与实现[D].北京:北京邮电大学，2011.  \n[4]高广明.正/零/负调整准同步/同步复接技术[J].通信学报，1981(4):60-65.  \n[5]秦晟昱.基于FPGA的多路复接器设计与实现[D].长沙：西安电子科技大学，2014.  \n[6]YANG Yi-kang,LI Xue,LIU Lei. 64O Mbps High-Rate FrameMultiplexer and its multi-channels control rule for CCSDSPrincipal Network [C]//.Proceedings of the 8th World CongressonIntelligent Control and Automation,2010:4442-4445.  \n[7]陈观兴.高速可重构复接器的设计和实现[D].北京：中国科学院大学，2009.  \n[8]张燕超.基于可编程片上系统的复接器设计[D].北京：中国科学院大学,2012.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（上接第141页）",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "文中将KNX总线技术应用在智能照明控制系统当中，对这个系统的软件与硬件分别进行了选择与设计。近年来基于KNX技术的产品在国内的应用增长迅速，很多大型公共设施，如北京国际机场T3航站楼、上海浦东机场和上海世博园等，都使用了KNX技术。并且KNX在国内的应用有向民用住宅发展的趋势。国内也有越来越多的公司加入到使用KNX技术，甚至进行KNX产品的开发。KNX目前存在的主要问题之一是价格较高，这阻止了KNX快速进入到民用建筑领域。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]王麟琨,王春喜,柳晓菁.KNX技术简介及特点分析[J].通",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "讯与网络，2012,6(5):79-84.  \n[2]胡兵，齐斌.KNX/EIB系统在酒店客房智能控制中的应用设计[J].现代建筑电气,2012,3(2):40-45.  \n[3]董瑞，张宇，刘行健，等.基于KNX的公共区域应急照明与智能照明系统集成设计[J].价值工程，2014，27:235-236  \n[4]吴金广，程大章.KNX总线技术推动楼宇自动化技术发展[J].智能建筑与城市信息，2004(6):32-39.  \n[5]陈爽.基于现场总线KNX的楼宇自动化技术研究及产品开发[D].重庆：重庆大学，2007.  \n[6]邹吉平.基于现场总线的智能照明控制系统分析与应用[J].灯与照明，2005，29(3):9-12.",
+        "page_idx": 3
+    }
+]

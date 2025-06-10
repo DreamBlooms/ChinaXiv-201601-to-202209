@@ -1,0 +1,549 @@
+[
+    {
+        "type": "text",
+        "text": "Effects of a cloud filtering method for Fengyun-3C Microwave Humidity and Temperature Sounder measurements over ocean on retrievals of temperature and humidity ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HE Qiurui1² WANG Zhenzhan1 HE Jieying1 1. KeyLaboratoryofMicrowave Remote Sensing,National Space ScienceCenter, ChineseAcademyofSciences,Beijing00190, China; 2. University of Chinese Academy of Sciences, Beijing 100049, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: For Microwave Humidity and Temperature sounder (MWHTS) measurements over ocean,a cloud filtering method is presented to filter out cloud- and precipitation-affected observations by analyzing the sensitivity of the simulated brightness temperatures of MWHTS to cloud liquid water,and using the root mean square error (RMSE) between observation and simulation in clear sky as a reference standard. The atmospheric temperature and humidity profiles are retrieved using MWHTS measurements with and without filtering by multiple linear regression (MLR)，artificial neural networks (ANN） and one-dimensional variational (1DVAR)retrieval methods,respectively,and the effects of the filtering method on the retrieval accuracies are analyzed. The numerical results show that the filtering method can improve the retrieval accuracies of the MLR and the 1DVAR retrieval methods,but have litle influence on that of the ANN. In addition,the dependencies of the retrieval methods upon the testing samples of brightness temperature are studied,and the results show that the 1DVAR retrieval method has great stability due to that the testing samples have great impact on the retrieval accuracies of the MLR and the ANN,but have litle impact on that of the 1DVAR. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Index Term: FY-3C/MWHTS,cloud filtering method, multiple linear regresson,artificial neural networks, one-dimensional variational retrieval ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The space-borne radiometer whose observation is an important data source to retrieve the atmospheric parameters, measure the thermal radiation coming from the Earth surface and atmosphere (Moradi et al.l). In addition to the absorption and emission of the atmospheric constituents， the propagation of electromagnetic wave in atmosphere willbe influenced by the scaterings of clouds and precipitation. The scaterigs which are dependent on cloud cover,cloud liquid water content, cloud ice water content, raindrops size,and other microphysical parameters, make the process of atmospheric radiative transfer more complex than the scaterings in clear sky,and increase the nonlinearity of radiative transfer equation and the dificulty of retrieving the atmospheric parameters (Navas-Guzman et al.2). Because clouds do not absorb and scatter microwave radiation as strong as that of visible or infrared radiation, microwave radiometer has the strong ability in all-day continuous detection (Perro et al.3l). However, the cloud filtering method which can filter out microwave observations afected by clouds and precipitation,is critical to insure retrieval accuracy in the retrieval process. Although the development of atmospheric temperature and humidity profiles measured by satelite-borne sounders has a history of over 5O years (Palyakov et al.4]; Tan et al.5l), the retrieval strategies can be clasified into two categories: statistical methods and physical methods. Statistical methods include multiple linear regression,artificial neural networks and so on,do not involve any physical model，and use the statistical relationship between the atmospheric parameters and the observations to get the retrievals.When there are thick clouds or/and rain in the sight of sounder, the statistical model may be more complicated and inaccurate,and directly affect the retrieval accuracy.For physical retrieval methods, modeling atmospheric radiative transfer accurately is the priority. Because the electromagnetic wave scatering mechanism in clouds and rain is complicated,the simulations of scattering are always difficult and inaccurate.This increases the uncertainty between the simulations and observations in the inversion of the radiative transfer equation,and further has an adverse efect on the retrieval accuracy. In a word,how to deal with cloud- and precipitation-affected observations of satelite-borne microwave radiometer is particularly important in the inversion. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Many previous studies have developed cloud filtering methods for microwave observations,where thick cloud or/and rain are referred as the term of cloud to handle the cloud-and precipitation-affcted observations. Karstens et al. took the values of relative humidity profiles coming from the meteorological observation data as the threshold to determine the clear sky casel6l. Ishimoto et al. and Li et al. filtered out the cloud-affected brightness temperatures according to the infrared cloud image or cloud products[7,8l. Both kinds of aforementioned methods obviously depend on the third-party data source which may introduce additional errors in retrieval process，and the cloud filtering criteria need to vary depending on the characteristics of third-party data. Comparing with the aforementioned two methods,taking full advantage of the characteristics of satelite data itself has great advantages in dealing with cloud- and precipitation-affected observations.The effects of clouds and rain on the measurements of satelite microwave radiometer have been studied through simulations and observations (Muler et al.9l; Burns et al.10]; Skofronick-Jacksonet al[11};Greenwaldand Christopher[12]; Benartzand Bauer[3]; Hong etal4]; Buehler et al.[15l). For Advanced Microwave Sounding Unit (AMSU)-B with two window channels (at frequencies 89 and $1 5 0 \\mathrm { G H z }$ ）and three water vapor channels (at frequencies $1 8 3 \\pm 1 , 1 8 3 \\pm 3 , 1 8 3 \\pm 7 \\mathrm { G H z \\ } )$ _， Burns et al. analyzed the correspondence between the thick clouds and brightness temperature depressions and suggested a criterion which is based on the diferences between observed brightness temperatures at $1 8 3 . 3 1 \\pm 3 \\$ and $1 8 3 . 3 1 \\pm 1$ GHz to screen out the observations in severe convective weather. The filtering method improve the agreement between the observations and the simulations up to a factor of two in his case studyl10l. Hong et al. developed a method to detect tropical deep convective clouds and convective overshooting using the brightness temperatures differences between AMSU-B water vapor channels. This method which was validated by two other aircraft cases and the radiative transfer model,also took the varying viewing angle of AMSU-B into account[14]. Buehler et al. developed a method which combined the threshold brightness temperatures from AMSU-B channel 18 suggested by Greenwald and threshold brightness temperatures differences suggested by Burns,to filter high and heavily laden ice clouds in the observations ofAMSU-Bl012,15lTherobustnessof thiscloudfiltering method wasdemonstrated bya mid-latitude winter case study. This method also was applied to study different biases on upper tropospheric humidity climatologies.Itcan be seen that from the cloud filtering methods based on the characteristics of satelite microwave measurements,different cloud filtering methods depending on application goals can be developed.MWHTS not only has the same water vapor channels as AMSU-B, but also add two new water vapor channels at frequencies $1 8 3 . 3 1 \\pm { 1 . 8 }$ and $1 8 3 . 3 1 \\pm 4 . 5 \\mathrm { \\ G H }$ z.However, there is few researches on the cloud filtering method for MWHTS observations before the inversion of atmospheric parameters. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In our study, we analyze the sensitivity of MWHTS water vapor channels to the cloud liquid water, take the RMSE of simulations with respect to observations in clear sky as the reference value,and set three cloud filtering criteria based on the mutual relationships among the brightness temperatures of the water vapor channel to screen out the cloud- and precipitation-affcted observations which can't be simulated accurately by the radiative transfer model RTTOV(Radiative Transfer for Television and Infrared Observation Satellite Operational Vertical Sounder) (Hocking et al.16l).After determining the optimal cloud filtering criteria, MWHTS observations over ocean from 1 to 28 February 2015 before and after filtering are utilized to retrieve the profiles of atmospheric temperature and water vapor by the MLR,ANN and 1DVAR retrieval methods,respectively,and the efects of the filtering method on the accuracies of retrievals are investigated. In addition,MWHTS observations over ocean from 1 to 31 May 2O15 are also used to test the stabilities of these three retrieval methods. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. Data and model ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1. FY-3C/MWHTS ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MWHTS aboard the FY-3C satelite detects the earth-atmosphere system in a cross-track scanning manner,is a total power radiometer.MWHTS has 15 channels with eight temperature channels,five water vapor channels and two window channels. The eight temperature channels centered at $1 1 8 . 7 5 \\mathrm { \\ G H z }$ oxygen absorption line,are used in operation for the first time internationally to measure temperature from surface to the upper atmosphere. The five water vapor channels centered at $1 8 3 . 3 5 \\mathrm { G H z }$ water vapor absorption line, aim to sound humidity and precipitation in the troposphere.The two window channels are placed at 89.0 and $1 5 0 . 0 \\mathrm { G H z }$ , respectively, can provide ground information. MWHTS swath width is $2 6 4 5 \\mathrm { k m }$ . It takes 2.667 s to complete one scan line including 98 fields of view (FOV),and its nominal FOV at nadir is $1 6 \\mathrm { k m }$ (Guo et all1l).Some of MWHTS channel characteristics，including channel center frequency，polarization, bandwidth, channel sensitivity and channel sensitivity measured in flight, are listed in Table 1 $\\mathbf { \\left( B a o ^ { [ 1 8 ] } \\right) }$ ). The weighting functions for temperature channels and humidity channels,which are calculated from the U.S. standard atmospheric profile at nadir by RTTOV in which the surface emissvities are set to O.5,are shown in Figure 1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/12b3d7527ef70fccc03eaa4f9b5137b4af3b970e88eb9b9577e3e1c2a77056cf.jpg",
+        "table_caption": [
+            "Table1.MWHTS Channel Characteristics. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Channel</td><td>Frequency (GHz)</td><td>Polarization</td><td>Bandwidth (MHz)</td><td>Sensitivity (K)</td><td>In-flight sensitivity (K)</td></tr><tr><td>1</td><td>89.0</td><td>V</td><td>1500</td><td>1.0</td><td>0.23</td></tr><tr><td>2</td><td>118.75±0.08</td><td>H</td><td>20</td><td>3.6</td><td>1.63</td></tr><tr><td>3</td><td>118.75±0.2</td><td>H</td><td>100</td><td>2.0</td><td>0.74</td></tr><tr><td>4</td><td>118.75±0.3</td><td>H</td><td>165</td><td>1.6</td><td>0.59</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a760253c975b37926ce1dfcd6496995955d1f0369705280fdb5c85facd8b1740.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>5</td><td>118.75±0.8</td><td>H</td><td>200</td><td>1.6</td><td>0.65</td></tr><tr><td>6</td><td>118.75±1.1</td><td>H</td><td>200</td><td>1.6</td><td>0.52</td></tr><tr><td>7</td><td>118.75±2.5</td><td>H</td><td>200</td><td>1.6</td><td>0.49</td></tr><tr><td>8</td><td>118.75±3.0</td><td>H</td><td>1000</td><td>1.0</td><td>0.27</td></tr><tr><td>9</td><td>118.75±5.0</td><td>H</td><td>2000</td><td>1.0</td><td>0.27</td></tr><tr><td>10</td><td>150.0</td><td>V</td><td>1500</td><td>1.0</td><td>0.34</td></tr><tr><td>11</td><td>183.31±1.0</td><td>H</td><td>500</td><td>1.0</td><td>0.47</td></tr><tr><td>12</td><td>183.31±1.8</td><td>H</td><td>700</td><td>1.0</td><td>0.34</td></tr><tr><td>13</td><td>183.31±3.0</td><td>H</td><td>1000</td><td>1.0</td><td>0.30</td></tr><tr><td>14</td><td>183.31±4.5</td><td>H</td><td>2000</td><td>1.0</td><td>0.22</td></tr><tr><td>15</td><td>183.31±7.0</td><td>H</td><td>2000</td><td>1.0</td><td>0.27</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/de38cf575fb361b6edac6217777d82f51a79237965a3ec5b24c889a2f62de7ec.jpg",
+        "img_caption": [
+            "Figure1.Weighting Functions for MWHTS.(a)Temperature channels,(b) Humidity channels. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2. Data and model ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The data used in our study include MWHTS L1b brightness temperature data products and European Centre for Medium Range Weather Forecasts (ECMWF) ERA Interim reanalysis data.MWHTS brightness temperature data products have been provided by National Satelite Meteorological Center (NSMC) (http://www.nsmc.cma.gov.cn/NSMC/HOME/Index.html )， ECMWF ERA Interim reanalysis data with horizontal resolution of $1 ^ { \\circ } \\times 1 ^ { \\circ }$ and temporal resolution of $6 \\textup { h }$ (i.e.，with data available at OOOO UTC, 0600 UTC,1200 UTC and 1800 UTC) have been provided by ECMWF (Dee et al.19l). The surface parameters of ERA Interim reanalysis data used in our study including skin temperature, $2 \\mathrm { ~ m ~ }$ air temperature, $2 \\mathrm { ~ m ~ }$ air dewpoint temperature, $1 0 \\mathrm { ~ m ~ }$ wind speed, surface pressure. The profiles parameters including temperature, humidity, cloud liquid water and cloud ice water, have 37 pressure levels spaced from $1 0 0 0 \\ \\mathrm { h P a }$ to $1 \\ \\mathrm { h P a }$ unevenly. MWHTS brightness temperatures and ERA Interim reanalysis data over ocean covering geographic area ( $1 3 5 ^ { \\circ } \\mathrm { E } { \\sim } 1 6 5 ^ { \\circ } \\mathrm { E }$ ， $0 ^ { \\circ } \\ \\mathrm { N } { \\sim } 3 0 ^ { \\circ } \\ \\mathrm { N } ;$ ） are selected to generate two datasets in our study. The first dataset is statistical analysis dataset which contains collcted MWHTS brightness temperatures with ECMWF reanalysis covered the period from 1 February 2014 to 31 January 2015,the second dataset is the testing dataset with the same collected data as the first except that the time period is from 1 to 28 February 2014. The collected criteria for brightness temperatures and reanalysis are that the time diference between them is less than $1 0 ~ \\mathrm { { m i n } }$ ,and the absolute distance between the position (latitude and longitude) of them is less than $0 . 0 5 ^ { \\circ }$ in these two datasets.Based on the collected criteria, the statistical analysis dataset obtains 490142 collocated samples and the testing dataset obtains 37995 collocated samples. In our study, the fast radiative transfer model RTTOV version 11.2 developed by ECMWF is used to calculate the simulated brightness temperatures and gradients of brightness temperature of MWHTS. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3. Cloud filtering method ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For the statistical analysis dataset including 490142 collocated samples in section 2.2，we use the absorb-based model and scatter-based model of RTTOV to simulate MWHTS brightness temperatures, respectively,and evaluate the simulation accuracies by RMSEs with respect to the observations.In order to compare the simulation accuracies of RTTOV in clear sky with that of all weathers，we choose 2485 collocated samples in clear sky from the statistical analysis dataset which is in all weathers,according to that the cloud liquid water content is zero. We simulate MWHTS observations in clear sky and in all weathers, then get the simulation accuracies $\\mathrm { R M S E } _ { \\mathrm { c l e a r } }$ and $\\mathrm { R M S E _ { a l l } }$ , respectively, which are shown in Figure 2. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/47f91cf2f408ed94d7db93fbf6dccecc834c566eb77ccb835bca63fc9e7b5393.jpg",
+        "img_caption": [
+            "Figure 2. RMSEs of simulated measurements with respect to observations. (a) $\\mathbf { R M S E _ { c l e a r } }$ (b) $\\mathbf { R M S E _ { a l l } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In clear sky,it can be seen (Figure 2(a))that the simulation accuracies by the two models are equal, the RMSEs in two windows channels are large, the RMSEs in temperature channels are within $2 \\mathrm { ~ K ~ }$ ,except for channels 2,4 and 9,and the RMSEs in humidity channels are within $3 \\mathrm { K }$ . In all weathers, it can be seen from Figure 1(a) that channels 2, 3 and 4 are sensitive to the upper atmosphere above level $1 0 0 \\mathrm { { h P a } }$ ,and in which brightness temperatures are less affcted by clouds and rains,so the simulation accuracies of absorb-based model are nearly equivalent to that in clear sky.But for the scater-based model,the simulation accuracies are very poor, this may be due to that atmospheric parameters are inaccurate in upper atmosphere, for example,the cloud cover and cloud ice water content profiles.The RMSEs in the other channels is higher than that in clear sky.Except for channels 7,8,1Oand 15,where the simulation accuracies of scater-based model are slightly higher than thatof absorb-based model,the absorb-based model are obviously superior to the scatter-based model.There may be two reasons:First,ERA Interim reanalysis are lack of the rain and snow parameters which can cause main contributions of scatering and are set to zeros in simulations of RTTOV; Second, the scater-based model need more atmosphere parameters than the absorb-based model, and the inaccuracy in atmospheric parameters, especially in the cloud cover profile,can affect the simulation accuracies of RTTOV(Geer et al.2ol). Based on the above analysis,we choose the absorb-based model of RTTOV to simulate MWHTS observations in our study. However, in order to get the higher simulation accuracy, the cloud- and precipitation-affected observations must be removed. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In clear sky, for MWHTS water vapor channels,the farther frequency from the 183.31 GHz absorption line center,the larger brightness temperature.This is because that for channels farther from the absorption line center the opacity caused by water vapor is less and they can sound a warmer and lower part of the atmosphere.However, when the clouds and/or rain are present,the brightness temperatures of channels whose peak WF heights are above the clouds and/or rain,are almost unaffected. But for channels whose peak WF heights are near or below the clouds and/or rain,the opacity caused by water vapor increase apparently as the cloud water content or rain water content increase,resulting that the weighting functions shift upward,and the channels sound more contribution from a higher and colder part of the atmosphere. Most of the upwelling radiation below the cloud or rain layer is absorbed or scattred away from the satelite direction.This contributes to the lower brightnesstemperatures relative to the clear sky situation. In other words,the clouds and rain can cause the brightness temperature depressions (Perro et al.3l). Due to that the sensitivities of water vapor channels to clouds and rain are different, brightness temperature diferences △ between the water vapor channels cloud be used as an indicator of the presence of clouds and rain (Hong et al.[21). Wecalculate thesimulated bightesstemperatures from U.S.standardtmospheric profile,incuding the temperature and humidity parameters at nadir by RTTOV. According to the statistical characteristics of cloud liquid water content and cloud ice water content of ERA Interim reanalysis covered the period from 1 February 2O14 to 31 January 2015.The variation of cloud liquid water content and cloud ice water content are $0 { \\cdot } 4 ~ \\mathrm { m m }$ and $0 { - } 2 ~ \\mathrm { m m }$ , respectively. Because the water cloud is mainly distributed below level $4 0 0 \\mathrm { { h P a } }$ of middle and low atmosphere, the cloud liquid water content is evenly distributed below level $3 5 0 \\mathrm { { h P a } }$ of the atmosphere. Since the ice cloud is mainly distributed above $6 0 0 \\ \\mathrm { h P a }$ of upper atmosphere, the cloud ice water content is evenly distributed between level $1 0 0 \\ \\mathrm { h P a }$ and $5 5 0 ~ \\mathrm { h P a }$ . If there are the same content of clouds or/and rain in diffrent FOV at nadir, different cloud cover can cause diferent brightness temperature (Geer et al[20l).In order to avoid the impact of cloud cover on simulations,the cloud cover in our simulations is set to 1.O when clouds or rain is present. MWHTS channel 11 which is sensitivity to level about $3 5 0 \\ \\mathrm { h P a }$ is scarcely influenced by clouds and rain, so channel 11 is chosen as the reference channel. $\\triangle _ { \\ i - 1 1 } ( i = 1 2 , 1 3 , 1 4 , 1 5 )$ represents the brightness temperature differences between channel $i$ and channel 11. Due to cloud ice water content has litle effect on MWHTS brightness temperatures (Guo et al.22l),only the effects of the cloud liquid water content on brightness temperature differences $\\triangle _ { i - 1 1 }$ are investigated here. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 shows the sensitivities of brightness temperature differences $\\triangle _ { i - 1 1 }$ to the cloud liquid water content. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8ab05e6e69824460a281969000841b548e3fbaeb55366c118c2e50ba9ceccfb4.jpg",
+        "img_caption": [
+            "Figure 3.Thesensitivitiesofbrightnesstemperature differencesof water vapor channels tocloud liquid water content. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "It can be seen from Figure 3 that the brightness temperature differences $\\triangle _ { i - 1 1 }$ decrease as the cloud liquid water content increases,and the trend of decreasing levels gradually decreases. Because the increasing of the cloud liquid water content causes the peak WF heights of water vapor channels to shift upward, leading to the brightness temperature depressions,the farther the frequency is from the center of the 183.31 GHz line,the larger magnitude the depression is (Perro et al.3l).However, in general, it willrain near the surface, when the cloud liquid water content exceeds $0 . 5 ~ \\mathrm { m m }$ (Karstens et al.[23l). MWHTS water vapor channels are less affected by rain because that the peak WF heights of which are above level $9 0 0 \\mathrm { { h P a } }$ .This is the reason why the trend of decreasing levels drops down. As Figure 3 shown,for the cloud liquid water content,different brightness temperature differences $\\triangle _ { i - 1 1 }$ have different sensitivity depending on the weighting function distributions for water vapor channels. $\\triangle$ 15-11 and $\\triangle _ { \\ 1 4 - 1 1 }$ will be used to screen out the cloud- and precipitation-affected observations in our study due to higher sensitivity than $\\triangle _ { \\ 1 2 - 1 1 }$ and $\\triangle$ 13-11 For $\\triangle$ 15-11, $\\triangle$ 15-11 at $1 1 . 7 \\mathrm { K }$ ， which corresponds to the value of cloud water content is $0 . 5 \\mathrm { m m }$ ,is first taken as the reference threshold. Take the $\\mathrm { R M S E } _ { \\mathrm { c l e a r } }$ of the absorb-based model in clear sky in Figure 2 as the reference values. Then we adjust the reference threshold and the step length is set to $0 . 2 { \\mathrm { ~ K ~ } }$ ,if the differences between $\\mathrm { R M S E _ { a l l } }$ of the absorb-based model in all weathers shown in Figure 2 and the reference values $\\mathrm { R M S E } _ { \\mathrm { c l e a r } }$ for temperature channels are within $1 \\mathrm { ~ K ~ }$ ， and for water vapor channels are within $1 . 5 \\mathrm { { K } }$ ，we stop adjusting. After some adjusting，we determine that the threshold is $1 2 . 5 \\mathrm { ~ K ~ }$ .For $\\triangle _ { \\ 1 4 - 1 1 }$ ，the method to determine the threshold is the same as that of $\\triangle _ { \\ 1 5 - 1 1 }$ , but the reference threshold is set to $7 . 1 \\mathrm { ~ K ~ }$ ,then we can determine the threshold is $8 . 1 \\mathrm { ~ K ~ }$ . According to both of the above determined thresholds,we develop three criteria: the first is $\\triangle _ { \\ 1 5 - 1 1 } > 1 2 . 5$ ，the second is $\\triangle _ { \\ 1 4 - 1 1 } > 8 . 1$ ，and the third is $\\triangle _ { \\ 1 5 - 1 1 } > 1 2 . 5$ and $\\triangle _ { \\ 1 4 - 1 1 } > 8 . 1$ Applying these three criteria to the statistical analysis dataset to screen out the cloud-and precipitation-affected observations,we obtain three other statistical analysis datasets which are not affected by clouds and rain: statistical analysis dataset 1,statistical analysis dataset 2and statistical analysis dataset 3 including 467587, 470051 and 452683 collocated samples,respectively. A statistical analysis is performed ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "on the RMSEs of simulations with respect to the observed brightness temperatures after the cloud filtering.   \nFigure 4 shows the simulation accuracies by RTTOV for the filtered observations using these three criteria. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d11c5e8b39337523517948c0abf61f94eab07ee733188018b289d3df60144b6c.jpg",
+        "img_caption": [
+            "Figure.4 RMSE of simulated measurements with respect to observations filtered by three criteria. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "From Figure 4,it can be seen that the simulation accuracies for each channel have been improved obviously compared with the $\\mathrm { R M S E } _ { \\mathrm { a l l } }$ in Figure 2(b), except for channels 2, 3 and 4. MWHTS channels 15 and 14 are sensitive to levels about 900 to $8 0 0 \\mathrm { { h P a } }$ and 800 to $7 0 0 \\mathrm { { h P a } }$ , respectively. The clouds distributed in these different layers of atmosphere can be detected well by the criteria $1 \\colon \\triangle _ { \\ 1 5 - 1 1 } > 1 2 . 5$ and the criteria 2: $\\triangle _ { \\ 1 4 - 1 1 } > 8 . 1$ .However, the clouds distributed in the levels about 900 to $8 0 0 \\mathrm { { h P a } }$ have little effect on channels 14,because whose water vapor absorption is mainly located above cloud top.The clouds distributed in the levels about 800 to $7 0 0 \\mathrm { { h P a } }$ cause decreases in brightness temperature of channels 15 due to the increased absorption and the scattering byice and water droplets in the clouds (Burns et al.1ol). In other words,criteria 1 can screen out more cloud- and precipitation-affected observations than criteria 2. Another thing to note is that criteria 2 has beter sensitivity to high-level clouds than criteria 1,especially in levels about 8O0 to 700 hPa of atmosphere.Based on the aforementioned analysis,for the water vapor channels,the simulation accuracies of channel15 for the criteria 1 is higher than thatofthe criteria 2,but the criteria2 can get beter simulation results in channels 13 and 14.For temperature channels 6,7,8,9 and window channels 1 and 10, compared with the criteria 2,the criteria 1 can improve the simulation accuracies in diferent degree,the biggest improvement in channel 9 is $0 . 4 ~ \\mathrm { K }$ . The reason that the criteria 1 can identify better the low-level clouds in the ground layer of atmosphere where the ice and water droplets can introduce the scattrings to the brightness temperatures of the channels whose peak WF heights are closer to the surface.The criteria 3 combines the criteria 1 and the criteria 2 so itcan detect the clouds distributed between levels about 900 and $7 0 0 ~ \\mathrm { { h P a } }$ ， screen out more cloud- and precipitation-affected observations,and obtain higher simulation accuracies than the first two criteria,as shown in Figure 4.Through the above analysis,the criteria 3 is taken as the cloud filtering method in this paper. Compared with AMSU-B,MWHTS can provide greater sensitivity to the clouds in diffrent layers of the troposphere due to the new water vapor channel at frequency $1 8 3 . 3 1 \\pm 4 . 5$ GHz.On this basis,the cloud filtering criteria 3 has better performance in filtering out cloud- and precipitation-affected observations and improving the simulation accuracy of RTTOV effectively.In order to further evaluate the performance of the cloud filtering method in inversion of atmospheric parameters and provide some reference values for diferent retrieval techniques,retrieval experiments are carried out. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4. Retrieval methods ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1. MLR retrieval algorithm ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In essence,MLR retrieval algorithm converts the observations to the atmospheric parameters through a linear regression model representing the linear relationship between the radiometer observations and the atmospheric parameters including temperature,humidity, cloud water parameters and so on. This model is given by (Chen and $\\mathrm { J i n } ^ { [ 2 4 ] } .$ ） ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i } - < x _ { i } > = \\sum _ { j = 1 } ^ { M } D _ { i j } ( T _ { b j } - < T _ { b j } > ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $\\boldsymbol { x }$ is the atmospheric state vector, $i$ is pressure level, $\\mathit { \\Delta } < > \\mathit { \\Delta }$ represents the statistical mean value, $\\pmb { T } _ { b }$ is the observed radiance vector, $j$ is the index of radiometer channel, $\\textbf {  { D } }$ is the retrieval operator. In our study，the collocated samples，including atmospheric temperature profiles，humidity profiles and MWHTS brightness temperatures in the statistical analysis dataset，are used to calculate the retrieval operator $\\pmb { D }$ . Then we retrieve MWHTS brightness temperatures in testing dataset to get the retrievals. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2.ANN retrieval algorithm ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ANN is a statistical regression model in nature,unlike the MLR,ANN not only describes the linear relationship between input data and output data but also can represents any non-linear relations in theory. Follwing the vast majority of publications on applying ANN in the inversion of atmospheric parameters, in solving the retrieval under consideration,a three-layer BP ANN containing one hidden layer is chosen. Figure 5 shows a schematic diagram of the chosen network. The additional details on initialization, training, optimization and other advanced topics can refer to Polyakov et al. and Yao et al.[4, 25]. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/151e5eb711e63b2eb8851e50a9d019665ad3c77d7b4d572e66d5a8ae8520f9de.jpg",
+        "img_caption": [
+            "Figure 5.Diagram of BPANN. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In our study,MWHTS brightness temperatures in the statistical analysis dataset are taken as the input vector $X _ { _ L }$ ， $L { = } 1 { \\sim } 1 5$ is the index of MWHTS channels. The profiles parameters including temperature and humidity, the surface parameters including $2 \\mathrm { m }$ air temperature and $2 \\mathrm { m }$ air dewpoint temperature, and $1 0 \\mathrm { m }$ wind speed in the statistical analysis dataset are taken as output vector $\\pmb { Z } _ { N }$ ， $N { = } 1 { \\sim } 3 7$ and $N = 3 8 { \\sim } 7 4$ （204号 represent the pressure levels from the upper atmosphere to surface for temperature and humidity, respectively, $N = 7 5$ , 76,77,78 represent the $2 \\mathrm { ~ m ~ }$ air temperature, $2 \\mathrm { ~ m ~ }$ air dewpoint temperature, $1 0 \\mathrm { ~ m ~ U ~ }$ wind component and $1 0 \\mathrm { ~ m ~ V ~ }$ wind component. The input vector $\\pmb { X } _ { L }$ and the output vector $\\pmb { Z } _ { \\scriptscriptstyle N }$ comprise the training samples and the steepest descent method is selected in the training phase. Based on many tests, the hidden layer with 16 hidden nodes was found to be the best in our study. The weights and biases are determined through training $90 \\%$ of the training samples,the other $10 \\%$ of training samples are used for validation to determine when to stop training. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.3.1DVAR retrieval algorithm ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1DVAR method is a typical representative of physical retrieval approaches，which obtains the atmospheric parameters by solving directly the radiative transfer equation.The algorithm is mainly composed of two parts: the radiative transfer model used to calculate the simulated brightness temperatures and gradients of brightness temperature,and a scheme for minimizing the cost function which weights the relative contribution of satelite observations and the background information.If the errors in the background information and satelite observations are neither biased nor correlated,and have Gaussian distributions, the atmospheric state vector $\\boldsymbol { x }$ can be solved through minimizing the following cost function (Liu and Weng[26]): ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ = \\frac { 1 } { 2 } ( { \\pmb x } - { \\pmb x } ^ { b } ) ^ { \\mathstrut \\mathrm { T } } { \\pmb B } ^ { - 1 } ( { \\pmb x } - { \\pmb x } ^ { b } ) + \\frac { 1 } { 2 } [ { \\pmb H } ( { \\pmb x } ) - { \\pmb I } ] ^ { \\mathrm { T } } { \\pmb R } ^ { - 1 } [ { \\pmb H } ( { \\pmb x } ) - { \\pmb I } ] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where $\\pmb { B }$ is the background covariance matrix, $\\boldsymbol { x } ^ { b }$ is the background state vector. $\\pmb { R }$ is the sum of the covariance error in the simulated brightness temperature and the instrument channel noise. T represents matrix transpose. $H$ is the forward operator which simulates the satelite observations at the atmospheric state vector $\\boldsymbol { x } . \\boldsymbol { I }$ is the observed brightness temperature vector. Setting the value of the cost function gradient to be zero, the optimal estimate of $\\boldsymbol { x }$ can be obtained by: ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\pmb x } _ { n + 1 } = { \\pmb x } ^ { b } + B { \\pmb H } ^ { \\operatorname { T } } ( { \\pmb x } _ { n } ) [ { \\pmb H } ( { \\pmb x } _ { n } ) B { \\pmb H } ^ { \\operatorname { T } } ( { \\pmb x } _ { n } ) + B ] ^ { - 1 } [ { \\pmb I } - { \\pmb H } ( { \\pmb x } ) - ( { \\pmb x } ^ { b } - { \\pmb x } _ { n } ) ] .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where $n$ is the iteration index, the start point $\\pmb { x } _ { 1 }$ is the first guess profile, $\\mathbf { H }$ is the tangent linear function of $H$ at point $\\boldsymbol { x }$ . It can be seen from equation (3) that the parameters of the retrieval algorithm including background covariance matrix $\\textbf {  { B } }$ , background state vector $\\boldsymbol { x } ^ { b }$ , error covariance matrix $\\pmb { R }$ ,first guess profile $\\pmb { x } _ { 1 }$ and system bias $H ( { \\pmb x } ) - { \\pmb I }$ must be determined before retrieving. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A priori information including background covariance matrix $\\pmb { B }$ and background state vector $\\boldsymbol { x } ^ { b }$ has a direct efects on retrieval accuracy in physical retrieval process,which aim to constrain the retrievals in iteration in equation (3) to within physically realistic solutions. In our study, the atmospheric temperature and humidity profiles from ERA Interim reanalysis covered the period from 1 February 2014 to 31 January 2015 are used to compute the background covariance matrix $\\textbf {  { B } }$ , referring to Boukabara et al for a detailed computing method[27l. The means of atmospheric parameters used to compute the background covariance matrix $\\pmb { B }$ are taken as the background state vector $\\boldsymbol { x } ^ { b }$ . The outputs from BP ANN retrieval method in section 4.2 are taken as the first guess profiles $\\pmb { x } _ { 1 }$ in our study. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "For the biases between simulations and observations,the statistical regression correction is given by (Li et al.[28] ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\pmb { I } _ { i j } ^ { * } = a _ { i j } \\pmb { I } _ { i j } + b _ { i j } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "where $\\boldsymbol { I } ^ { * }$ is the corrected brightness temperatures of MWHTS, $\\boldsymbol { { \\cal I } }$ is the brightness temperatures of MWHTS without correction, $a$ is the slope, $b$ is the intercept, $i { = } 1 { \\sim } 1 5$ is the index of MWHTS channels, （20 $\\scriptstyle j = 1 \\sim 9 8$ is the index of MWHTS scan positions. We determine the correction coefficients $a$ and $b$ （204号 through statistical analysis of the simulations and the observations from the statistical analysis dataset,and then correct the observed brightness temperatures from the testing dataset. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "For the error covariance matrix $\\pmb { R }$ ,assuming that the measurements in one channel is not relate to that in the others,the diagonal elements of $\\pmb { R }$ are used. The differences between the simulations and the observations from the statistical analysis dataset and the sensitivities measured in flight in Table 1 are used. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The convergence criterion adopted in our retrieval system is that the iteration in equation (3) is stopped when the relative diference of the cost function within two iterations is lessthan O.O1,and the maximum of iterations is set to1O,if the iterative times reach 1O, the retrieval is set to thefirst gues.Theretrieval quality control criterion selected in our study is that if the residuals between the corrcted brightness temperatures and the simulated values output of RTTOV using the first guess in any channel are greater than $2 0 ~ \\mathrm { K }$ ，the observations are discarded. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5. Validation and analysis of the retrieval results ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "MWHTS channel WF distributions shown in Figure 1 indicate that the temperature channels are not sensitive to the top of atmosphere and the water vapor channels are not sensitive to the levels above $3 0 0 \\mathrm { { h P a } }$ so we choose the retrievals at levels from 1000 to $5 0 \\mathrm { \\ h P a }$ and 1000 to $2 5 0 \\mathrm { { h P a } }$ for temperature and relative humidity,respectively, to verify. MWHTS profile retrieval results are evaluated by mean error (ME) and RMSE with respect to ECMWF ERA Interim reanalysis taken as the truth. The ME and RMSE are defined as follows (Mathur et al.[29]): ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM E = \\frac { 1 } { N } \\sum _ { i = 1 } ^ { N } ( { \\pmb x } _ { \\mathrm { \\scriptscriptstyle M W H T S } } - { \\pmb x } _ { \\mathrm { \\scriptscriptstyle E C M W F } } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR M S E = \\sqrt { \\frac { 1 } { N } \\sum _ { i = 1 } ^ { N } ( { \\bf x } _ { \\mathrm { M W H T S } } - { \\bf x } _ { \\mathrm { E C M W F } } ) ^ { 2 } } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "where $\\pmb { x } _ { \\mathrm { { M W H T S } } }$ is MWHTS retrieval and $\\boldsymbol { \\mathbf { \\mathit { x } } } _ { \\mathrm { { E C M W F } } }$ is ECMWF reanalysis. $N$ is the total number of comparisons. Applying the three cloud filtering criteria suggested in our study to the testing dataset in section 2.2 to screen out the cloud- and precipitation-affected observations，we obtain three other testing datasets which are not afected by clouds and rain: testing dataset 1,testing dataset 2and testing dataset 3 including 35211, 35517 and 34021 colocated samples,respectively. Performing simulated calculations by RTTOVusing the atmospheric parameters from this four testing dataset, the simulation accuracies are shown in Figure 6. It can be seen that the simulation accuracies for each channel have been improved obviously after filtering the cloud- and precipitation-affected observations in the testing dataset,and the criteria 3 can get the higher simulation accuracies than the criteria 1 and the criteria 2,which are the same conclusions as that of the statistical analysis datasets in section 3.In order to further evaluate the performance of the cloud filtering method in inversion of atmospheric parameters,the observed brightness temperatures in this four testing datasets are used to retrieve the atmospheric temperature and humidity profiles. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/20e8612671ff062c6a9405d3a60f3925d3650daf506beed783ea0d12deb982ca.jpg",
+        "img_caption": [
+            "Figure.6 Simulation accuracies by RTTOV in testing dataset before and after filtering. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5.1. The retrieval results and analysis of MLR method ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The statistical analysis dataset in section 2.2 and the three statistical analysis datasets in section 3 are used to separately calculate the retrieval operator $\\textbf {  { D } }$ ,and the retrieval results are shown in Figure 7.For the temperature,the retrieval MEs of brightness temperatures in the testing dataset before and after filtering are nearly equal, reach their maximum , about $2 . 8 \\mathrm { ~ K ~ }$ ,at level $7 0 \\mathrm { { h P a } }$ and $8 5 0 \\ \\mathrm { h P a }$ , and reach their minimum, about $0 \\mathrm { K }$ ,between level $2 0 0 \\mathrm { { h P a } }$ and $3 0 0 \\mathrm { { h P a } }$ , the mean errors are within $1 . 5 \\mathrm { K }$ at the other levels. However, the retrieval RMSEs of brightness temperatures with filtering are smaller than that without filtering between level $4 0 0 \\ \\mathrm { h P a }$ and $1 0 0 0 \\ \\mathrm { h P a }$ ，and the criteria 3 which has better performance in filtering out cloud- and precipitation-affected observations than the other criteria can obtain the highest retrieval accuracy. The RMSEs are almost the same as that between level $5 0 \\ \\mathrm { h P a }$ and $4 0 0 \\ \\mathrm { h P a }$ due to the temperature channels which are sensitive to the upper atmosphere and are nearly not affected by clouds and rain. The retrieval RMSEs reach their minimum $1 . 0 8 \\mathrm { ~ K ~ }$ near level $2 0 0 \\mathrm { { h P a } }$ ， and reach their maximum,about $3 . 4 ~ \\mathrm { K }$ near level （204号 $8 5 0 \\mathrm { { h P a } }$ .For the humidity, it can be seen that the retrieval MEs of brightness temperatures before and after filtering are nearly equal which is the same to temperature retrieval results,is about $9 \\%$ between level 500 hPa and $6 0 0 ~ \\mathrm { { h P a } }$ ，For the other levels,the MEs are within $5 \\%$ . The retrieval accuracies of brightness temperatures with filtering are higher than that of without filtering between level $3 0 0 \\mathrm { { h P a } }$ and $8 0 0 \\mathrm { { h P a } }$ ，the reason is that the peak WF heights of the water vapor sounding channels are distributed mainly in this pressure range. The same to the temperature retrieval accuracy,the criteria 3 can obtain highest humidity retrieval accuracies and the RMSEs reach their maximum $1 9 . 5 \\%$ near level $8 0 0 \\mathrm { { h P a } }$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "For the cloud filtering criteria developed in this paper,the criteria 3 makes the greater strides in improving the retrieval accuracy of multiple linear regression which use the linear relationship between atmospheric parameters and satelite observations,though the criteria 1 and the criteria 2 also can improve the retrieval accuracy to some extent.The filtering methods screen out the cloud- and precipitation-affected brightness temperatures,further reduce the non-linearity caused by clouds and rain and conform to the linear model used by the retrieval approach. However, it is worth noting that the relationships between atmospheric parameters and satelite observations are nonlinear, so the retrieval accuracy of multiple linear regression is low. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/c93bd0cbeeda8eaeb9a7183a0b5e9416c7610da621e5edc8d685d6274b830b37.jpg",
+        "img_caption": [
+            "Figure.7Retrieval resultsofMLR. (a) Temperature,(b) Humidity. "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5.2. The retrieval results and analysis of ANN method ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The statistical analysis dataset in section 2.2 and the three statistical analysis datasets in section 3 are used to separately train the ANN and determine the weights and biases.The retrieval results are shown in Figure 8.For the temperature,the the retrieval MEs of brightness temperatures before and after filtering with the three criteria are nearly equal, their values are both within $^ \\mathrm { ~ 1 ~ K ~ }$ . The retrieval RMSEs of brightness temperatures with filtering are smaller than that without filtering between level $3 0 0 \\mathrm { { h P a } }$ and $2 0 0 \\mathrm { { h P a } }$ , but are higher than that between level $9 0 0 \\ \\mathrm { h P a }$ and $8 0 0 \\mathrm { { h P a } }$ ，and are nearly equal to that at the other levels.Their retrieval accuracies reach the maximum of about $2 . 5 \\mathrm { ~ K ~ }$ at level $1 0 0 \\ \\mathrm { { h P a } }$ ,and are within $1 . 8 \\mathrm { ~ K ~ }$ at the other levels.Forthe humidity,the the retrieval MEs of brightness temperatures before and after filtering with the three criteria all are about within $2 \\%$ , and their RMSEs are nearly equal at all the pressure levels, reach their ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "maximum about $1 5 \\%$ at level $8 0 0 \\mathrm { { h P a } }$ ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "According to the analysis of the retrieval results of ANN method, it can be seen that the retrieval accuracy can't be improve by the cloud filtering method using the three criteria,and even worse at some levels.This is because the nonlinear relationships between the satelite observations and atmospheric parameters caused by the clouds and rain can be described by ANN due to its strong nonlinear mapping ability.However,the number of the samples trained in the statistical analysis dataset with and without filtering are diferent, the algorithm performance of ANN is affected by the number of training samples, which may lead to the worse retrieval accuracies. ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/b2696ec693d313d82c69a28b64f863a97b38f21032ecf0ac0ca59a04017baae3.jpg",
+        "img_caption": [
+            "Figure 8.Retrieval results of ANN.(a) Temperature,(b) Humidity. "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.3. The retrieval results and analysis of 1DVAR method ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The statistical analysis dataset in section 2.2 and the three statistical analysis datasets in section 3 are used to separately determine the correction coefficients of the biases between observations and simulations, the observed brightness temperatures in the four testing dataset are corrected and retrieved.The retrieval results are shown in Figure 9.For the temperature,the retrieval MEs of the brightnesstemperatures before and after filtering are nearly equal to that above levels $4 0 0 \\mathrm { { h P a } }$ of upper atmosphere, but at the other levels, the retrieval MEs of brightness temperatures with filtering are smaller than that without filtering obviously, and all of them are within $0 . 4 ~ \\mathrm { K }$ . The retrieval MEs with the three criteria are nearly equal. The retrieval accuracies of the brightness temperatures with filtering are higher than that without filtering between levels $4 0 0 \\mathrm { { h P a } }$ and $1 0 0 0 \\mathrm { { h P a } }$ where the temperature channels 7,8 and 9 are sensitive to,and the criteria 3 gets the highest accuracies $1 . 7 \\mathrm { ~ K ~ }$ between levels $1 5 0 \\ \\mathrm { h P a }$ and $1 0 0 0 \\ \\mathrm { h P a }$ . For the humidity, the retrieval MEs and RMSEs of the brightness temperatures with filtering are significantly smaller than that without filtering especially between levels $2 0 0 \\mathrm { { h P a } }$ and $8 0 0 \\mathrm { { h P a } }$ where is sensitive to the water vapor channels,and the MEs are close to zero. The criteria 3 improve the humidity retrieval accuracies at most by $1 1 . 2 \\%$ ,and obtain the highest retrieval accuracies about $19 \\%$ ： ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "From the viewpoint of physics,the 1DVAR method retrieve the atmospheric parameters by solving the radiative transfer equation directly. It can be seen from equation (3), in addition to the priori information, the differences between the observations and the simulations also can affect directly the retrieval accuracies. Filtering out cloud- and precipitation-affected observations can improve the retrieval accuracies of atmospheric temperature and humidity profiles. Compared with the criteria 1 and the criteria 2,the criteria 3 can effectively screen out more cloud- and precipitation-affected observations,and improve the retrieval accuracies better. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/b45fe66e8ed8dc7af4a0b574b2b4a024f81061c24211037e2ab1781643547c41.jpg",
+        "img_caption": [
+            "Figure9.Results of 1DVAR.(a) Temperature,(b) Humidity. "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5.4. The comparision results of three retrieval methods ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "According to the above analysis,for the temperature retrievals,we can find that the MEs and RMSEs of MLR method are the largest, the retrieval accuracies of 1DVAR are slightly better than that of ANN method.For the humidity retrievals,both MEs of ANNand 1DVAR method are nearly zero at allevels.The retrieval accuracies of ANN are the best, and the other methods have the similar retrieval accuracies. However, we should note that the retrieval accuracies of 1DVAR method depend on many factors seen from equation (3). Therefore there are several ways to further improve the retrieval accuracy,such as optimizing the bias correction method, improving the first guess profile，further controlling quality of satelite observation and so on. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "From the viewpoint of the degree of difficulty in algorithm, the statistical inversion methods including multiple linear regresson and ANN are simple and easy. In general, a good statistical model corresponds to the high retrieval accuracy,for example,the ANN trained in our study.However, it is worth noting that the retrieval algorithm stability is very important in operational applications of atmospheric parameters retrieval. In our study, we change the testing samples to study the stability of these three retrieval methods. MWHTS brightness temperatures covered the period from1 to 31 May 2015 are selected,and the collected criteria with ERA Interim reanalysis are the same as that in section 2, then, we get 43137 collected samples in all weathers and 38004 colected samples after filtering by the criteria 3. The 38004 brightness temperature samples are used to retrieve the atmospheric temperature and humidity profiles using the three retrieval methods.The retrieval results are shown in Figure 1O.For the MLR method,compared with the retrieval results using the criteria 3 in Figure 7,it can be seen that diferent retrieval results are obtained due to the different brightness temperatures retrieved.The temperature retrieval MEs and RMSEs both are significantly smaller than that of Figure 7 between level $4 0 0 \\ \\mathrm { h P a }$ and level $1 0 0 0 \\ \\mathrm { h P a }$ ，and the temperature retrieval accuracies are improved by about $1 . 0 \\mathrm { ~ K ~ }$ . The humidity retrieval accuracies decrease by $5 \\%$ near level 500 hPa. For the ANN method,compared with the retrieval results using the criteria 3 in Figure 8,the temperature retrieval MEs and RMSEs both are significantly increased,and the temperature retrieval accuracies decline about $0 . 4 ~ \\mathrm { K }$ between level $4 0 0 \\mathrm { { h P a } }$ and level $8 0 0 \\mathrm { { h P a } }$ . The humidity retrieval accuracies decline $5 \\%$ near level $8 0 0 \\mathrm { { h P a } }$ . However, for the 1DVAR method, compared with the retrieval results using thecriteria 3 in Figure 9,it can be found that the retrieval accuracies are nearly unchanged. The above comparision analyses show that the MLR and ANN retrieval methods have great dependence on retrieved brightness temperatures which have very litte impact on the retrieval accuracies of 1DVAR. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/91e3177c898a36008b9ef91fe2b2f3f3a2ab032b5adc9bfa3d4463cb9cd914ef.jpg",
+        "img_caption": [
+            "Figure.10 Comparision results of three retrieval methods.(a) Temperature,(b) Humidity. "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "6. Summary and discussion ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "MWHTS water vapor channels have high sensitivity to clouds and rains,and can detect diferent layers of clouds and rain well due to the new channels with frequency at $1 8 3 . 3 1 \\pm 4 . 5 \\ : ( \\$ GHz.We have derived the cloud filtering method to screen out the cloud- and precipitation-affected observations using the brightness temperature differences between the water vapor channels.Based on the sensitivities of MWHTS water vapor channels 14 and 15 to the cloud water content,taking the RMSEs between observation and simulation by RTTOV in clear sky as reference values，we develop the cloud filtering criteria: $\\triangle _ { \\ 1 5 - 1 1 } > 1 2 . 5$ and $\\triangle _ { \\ 1 4 - 1 1 } > 8 . 1$ . The proposed cloud filtering method can improve the agreement between simulated and observed brightness temperatures.In order to evaluate the cloud filtering method in the retrieval process,the brightness temperatures before and after filtering are used to retrieve the atmospheric temperature and humidity profiles through diferent retrieval methods. The retrieval results have shown that the cloud filtering method can efectively improve the retrieval accuracies of MLR and 1DVAR which depending on the nonlinearity of the radiative transfer model,but have litle effect on that of ANN,because that ANN can represent the nonlinear relationship between the atmospheric parameters and satelite observations.The comparison of retrieval results using the three methods shows that the retrieval accuracies of MLR,which only describe the linear relationship between the atmospheric parameters and satelite observations，are Worst.The ANN and the 1DVAR can describe the non-linear relationship,have the similar temperature retrieval accuracies,but the humidity retrieval accuracy of the 1DVAR is lower than that of the ANN.From the viewpoint of operational application,the stability of the retrieval algorithms is tested,and the results show that the 1DVAR is the best choice. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we focus on the improvement of the differences of simulated and observed brightness. In general,the differences between the simulations and observations are caused by the folowing sources: the satellite instruments itself (e.g. poor calibration,or adverse environmental effects),the radiative transfer model linking the atmospheric parameters to the radiation measured by the sounder (e.g. errors in the spectroscopy, simplistic modeling of the viewing geometry of the sounder, or the inaccurate modeled scattering effect),and errors in the atmospheric parameters input to the radiative transfer model. However, filtering out the cloud- and precipitation-affected observations which is a pre-processing step is very important for the next bias correction which can further improve the retrieval accuracy. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "It is Worth noting that in the proposed cloud filtering method the limb darkening is not taken into account for MWHTS which is a cross-track scanning instrument. However, from the viewpoint of statistical computation in this study,the effects of the limb darkening on the simulation accuracies may be filtering out in part using the cloud filtering method.The cloud filtering method may be optimized by deriving the cloud filtering criteria based on statistical analysis for different viewing geometry of MWHTS.This is our next investigation work. In addition, we only study MWHTS measurements over a part of ocean in this paper, therefore the cloud filtering method for MWHTS observations over global range is also a research direction in the future. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments: The authors would like to thank ECMWF for providing reanalysis data,as well as NSMC for providing MWHTS brightness temperature data. This work was supported by the key fostering project of National space science center, Chinese academy of sciences (No. Y62112f37s) and the National 863 Project of China (No. 2015AA8126027). ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Reference ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[1]MORADIIERRARORR,SODENBJ,etal.Retrieving layer-averaged tropospherichumidityfromadvancedtechology microwave sounder water vapor channels [J]. IEEE Trans on Geosci Remote Sens,2015,53(12): 6675-6688. [2] NAVAS-GUZMAN F，STAHLI O,KAMPFER N.An integrated aproach toward the incorporation of clouds in the temperature retrievals from microwave measurements [J]. Atmos Meas Tech, 2014,7(6): 1619-1628. [3]PERRO C,LESINSG,DUCK T,et al.A microwavesatelite water vapor column retrievalfor polar winterconditions[J]. Atmos Meas Tech,2016,9(8): 2241-2252. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[4]POLYAKOV A，TIMOFEYEVY M，VIROLAINEN Y. Comparison of diferent techniques in atmospheric temperature-humidity sensing from space [J]. Int JRemote Sensing, 2014,35(15): 5899-5912. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[5]TAN Hao-bo,MAOJie-tai,CHENHuan-huan,etal.Astudyofaretrieval methodfortemperatureandhumidityprofilesfrom microwaveradiometerobservationsbasedonprincipalcomponentanalysisand stepwiseregresson[J].JAtmos OceanTech,2011, 28(3): 378-389.   \n[6]MATZLER C,MORLANDJ.Refined physical of integrated watervapor andcloud liquid for microwave radiometer data[J]. IEEE Trans on Geosci Remote Sens,2009,47(6): 1585-1594.   \n[7] ISHIMOTO H,OKAMOTO K,OKAMOTO H,et al.One-dimensional variational (1D-Var)retrieval of midde toupper tropospheric humidity using AIRS radiance data [J]. JGeophys Res, 2014,119(12): 7633-7654.   \n[8]LIJuan,ZOU Xiao-lei. A qualitycontrol procedure forFY-3A MWTS measurements with emphasis oncloud detecting using VIRR cloud fraction [J]. JAtmos Ocean Tech,2013,30(8): 1704-1715.   \n[9] MULLER B M,FUELBERG HE, XIANG Xu-wu. Simulations of the efects of water vapor,cloud liquid water,and iceon AMSU moisture channel brightness temperatures [J]. JAppl Meteorol, 1994,33(10): 1133-1154.   \n[10] BURNS B A,WU Xiang-qian,DIAK G R.Efects of precipitation and cloud iceon brightnesstemperatures in AMSU moisture channels [J]. IEEE Trans on Geosci Remote Sens,1997, 35(6): 1429-1437.   \n[1] SKOFRONICK-JACKSON G M,GASIEWSKI A J, WANG JR. Influence of microphysical cloud parameterizations on microwave brightness temperatures [J]. IEEE Trans on Geosci Remote Sens,2002,40(1): 187-196.   \n[12] GREENWALDTJ,CHRISTOPHER S A.Effect ofcoldclouds on satelite measurements near183 GHz[J]. JGeophys Res, 2002,107(D13): 4170.   \n[13]BENNARTZR,BAUER P.Sensitivityof microwave radiances at 85-183GHz toprecipitating iceparticles [J].Radio Sci, 2003,38(4): 8075-8090.   \n[14] HONG Gang,HEYGSTER G,MIAO Jun-gang,et al. Detection of tropical depconvective clouds from AMSU-B water channels measurements [J]. JGeophys Res, 2005,110(5): D05 205-1-D05 205-15.   \n[15] BUEHLER S A, KUVATOV M,SREEREKHA TR,etal. A cloud filtering method for microwave upper tropospheric humidity measurements [J]. Atmos Chem Phys, 2007,7(21): 5531-5542.   \n[16] HOCKING J, RAYER P, RUNDLE D, et al. RTTOV v11 users guide. NWP-SAF, Exeter, UK, 2014.   \n[17] GUO Yang,LUNai-meng,QI Cheng-li,et al. Calibration and validation of microwave humidityand temperature sounder onboard FY-3C satellite [J]. Chinese JGeophys-Ch,2015, 58(1): 20-31.   \n[18]BAOJing-hua.TheprincipleofFY-3Csatelite microwave humidityand temperature sounderand preliminaryanalysis onits in-orbit performance [D]. Beijing: Chinese Academy of Science, 2014.   \n[19] DEE D P, UPPALA S M,SIMMONS A J,et al.The ERA-Interimreanalysis: configuration and performanceofthedata assimilation system [J]. Q J Roy Meteor Soc,2011,137(656): 553-597.   \n[20]GEER AJ,BAUER P,DELLCW.Arevised cloud overlap scheme forfast microwaveradiative transfer in rainandcloud[J]. JAppl Meteorol Clim, 2009,48(11): 2257-2270.   \n[21] HONG Gang,HEYGSTERG,MIAO Jun-gang,etal. Sensivityof microwave brightnesstemperatures tohydrometeors ina tropical deep convective cloud system at 89-190 GHz [J]. Radio Sci, 2005, 40(4): RS4003.   \n[2] GUO Yang,LUNai-meng,GU Song-yan.Simulationof theradiometric characteristics of118 GHzand183GHz channels for FY-3C new microwave radiometer sounder [J]. J Infrared Millim W, 2014, 33(5):481-491.   \n[23] KARSTENS U,SIMMER C,RUPRECHTE.Remote sensing of cloud liquid water[J]. Meteorol Atmos Phys,194,54: 157-171.   \n[24] CHEN Hao,JINYa-qiu.Data validationofChinese microwaveFY-3Aforretrieval of atmospheric temperature and humidity profiles during Phoenix typhoon [J], Int JRemote Sens, 2008, 32(23): 8541-8554.   \n[25] YAO Zhi-gang, CHEN Hong-bin,LINLong-fu. Retrieving atmospheric temperature profiles from AMSU-A data with neural networks [J]. Adv Atmos Sci, 2005,22(4): 606-616. [26]LIUQuan-hua,WENGFu-zhong.One-dimensional varationalretrievalalgorithmof temperature,watervapor,andcloud waterprofiles fromadvanced microwave sounding unit(AMSU)[J].IEEETrans on Geosci Remote Sens,2005,43(5):1087-1095. [27] BOUKABARA S A, GARRETT K, CHEN Wan-chun,et al. MIRS: An al-weather 1DVAR satelite data assimilation and retrieval system [J].IEEE Trans on Geosci Remote Sens,2011,49(9): 3249-3272.   \n[28]LIJun,WOLFWW,MENZELWP,etal.Globalsoundings of the atmosphere from ATOVS measurements:the algorithm and validation [J]. J Appl Meteorol, 2000, 39(8): 1248-1268.   \n[29]MATHUR A K,GANGWAR R K,GOHIL B S,et al.Humidity profile retrieval from SAPHIR on-board the Megha-Tropiques [J]. Curr Sci India, 2013,104(12): 1650-1655. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "作者简介：",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "贺秋瑞（1986-)，男，河南滑县人，中国科学院国家空间科学中心博士生，主要从事卫星数据处理、微波辐射计大气参数的反演应用研究等方面的工作。电话：18811793515.邮箱：heqiurui@126.com  \n王振占（1969-)，男，河北青龙人，研究员。主要从事微波遥感新技术及应用技术研究，重点包括：全极化微波辐射测量技术、定标和应用基础研究，微波辐射计海洋大气参数的反演应用研究，微波遥感器的定标/检验研究以及太赫兹大气探测机理研究等。邮箱：wangzhenzhan@mirslab.cn  \n何杰颖（1984-)，女，天津市人，副研究员，主要从事地基和星载微波辐射计数据处理与应用等方面的工作；邮箱：hejieying @ mirslab.cn",
+        "page_idx": 18
+    }
+]

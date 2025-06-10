@@ -1,0 +1,423 @@
+[
+    {
+        "type": "text",
+        "text": "直流电流对Ti-48Al-2Cr-2Nb合金组织和性能的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈占兴 丁宏升 刘石球 陈瑞润 郭景杰 傅恒志(哈尔滨工业大学金属精密热加工国家级重点实验室，哈尔滨150001)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要将直流电流作用于定向凝固过程中的Ti-48Al-2Cr-2Nb合金，利用OM、XRD、SEM和TEM分析了合金的凝固组织、相组成和片层组织，测试了合金的显微硬度及 $8 0 0 ^ { \\circ } \\mathrm { C }$ 压缩力学性能。结果表明，电流在一定程度上促进了合金凝固组织的细化及成分的均匀性，减少或消除了片层间偏析。随着电流密度的增大，平均晶粒尺寸和片层厚度呈现先减小后增大的趋势， ${ \\bf { a } } _ { 2 }$ 相相对含量先增大而后减小，合金的显微硬度、压缩断裂与屈服强度也呈现先增大后减小的趋势。平均晶粒尺寸最小约 $0 . 4 6 \\mathrm { m m }$ ，片层间距最小为 $0 . 1 9 \\mu \\mathrm { m }$ ，分别比未加载电流时降低 $70 \\%$ 和 $2 9 \\%$ ， ${ \\bf q } _ { 2 }$ 相相对含量从 $1 8 . 5 \\%$ 增至 $3 9 . 4 \\%$ 。片层间距或晶粒尺寸越小，合金的强度越高并且形能力愈均匀，塑性也越好。合金的最大显微硬度值达到 $5 4 2 ~ \\mathrm { H V }$ ，合金的压缩屈服强度与断裂强度分别达到1200 和 $1 3 6 5 \\mathrm { \\ : M P a }$ ，与未施加电流时相比均有所提高。加载直流电流引起固-液界面相前沿过冷度减小，可认为是学TiAl二元相图中的 $_ { \\mathrm { L \\to \\beta + L \\to a + \\beta } }$ 的包晶反应成分向富 Al侧微小偏移，此时初生 $\\beta$ 相增多，从而造成了TiAl合金室温相组织 ${ \\bf { a } } _ { 2 }$ 相的相对含量增加。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "属发关键词 直流电流，TiAl合金，凝固，微观组织，显微硬度，高温压缩",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号 TG113.12文章编号 0412-1961(2017)00-0000-00",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "学布 Effects of Direct Current on the Microstructure and Properties of 金T-48Al-2Cr-2Nb ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "报 CHEN Zhanxing, DING Hongsheng, Liu Shiqiu, CHEN Ruirun, GUO Jingjie, FU Hengzhi National KeyLaboratoryforPrecision HotrocessingofMetals,SchoolofMaterialsSiencendEngineering,HarbinIstituteof Technology,Harbin,15000l,China 属发 Correspondent: DING Hongsheng, Professor, Tel: (0451)86412394, E-mail: dinghsh @hit.edu.cn Supported by National Natural Science Foundatiof of Chma (Nos. 51171053 & 51471062) 报 Manuscript received 2016-11-11, in revise form 2017-01-23 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "学布",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT TiAl based aloys have been widely used as promising aerqspace structural materials， which benefits their unique combination of mechanical properties.However,they yield poor plasticity and low process ability,thus restricting the wide application.This paper proposes aneffcient way by which direct electric current was imposed on the solidification process of TiAl-based ally.Influences of direct current on the microstructure and properties of directionally solidified Ti-48Al-2Cr-2Nb using water cold crucible directional solidification equipment has been investigated.The changes of solidification microstructure,phase structure and composition of the alloy and $\\gamma / { \\alpha _ { 2 } }$ interlamellar structures were characterized by OM, XRD, SEM as well as TEM. The effect of direct current on the size of eutectoid colony, interlamellar spacing and relative content of ${ \\bf q } _ { 2 }$ phase had been studied by Image Pro Plus.Furthermore，the mechanical properties such as the microhardness and hot compressive property at $8 0 0 ^ { \\circ } \\mathrm { C }$ of the directionally solidified Ti-48Al-2Cr-2Nb were performed.The results reveal that the direct currnt can evidently promote the homogeneity of the solidification component and refiner the structure,as wellas the segregation inlamelarcolonies canbe effciently reduced or eliminated toa certain extent. With increasing of the curent density,the grain size and the lamellar spacing decreased first and then increased, however, the ${ \\bf q } _ { 2 }$ phase content showed a totally different trend. Moreover, the microhardness, compression yield strength and the fracture strength ofthe aloyalso revealed a trend of decrease after the first increase too.With DC current increasing, the average grain size and interlamellar spacing decline to the lowest of $0 . 4 6 \\mathrm { m m }$ and $0 . 1 9 \\mu \\mathrm { m }$ respectively, and the content of ${ \\bf { \\alpha } } { \\bf { { a } } } _ { 2 }$ -phase increased from $1 8 . 5 \\%$ to $3 9 . 4 \\%$ . The microhardness of sample reaches 542HV,the compression yield strength and the fracture strength are remarkably improved,and the maximum values reach $1 2 0 0 \\mathrm { { M P a } }$ and 1365MPa,respectively. In sum，the DC current can cause a reduction of the supercooling in front of the liquid phase during the solidification process.The results can be seen as the peritectic reaction $\\mathrm { L \\to \\beta { + } L \\to a \\mathrm { + } \\beta }$ moving a tiny drift to the direction of the Al-rich side in TiAl binary phase diagram, consequently, the primary $\\beta$ -phase has been increased, the content of ${ \\bf q } _ { 2 }$ phase,microstructure under room temperature,increases evidently. 1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KEY WORDS direct current，TiAl alloy，solidification，microstructure，microhardness，high temperature compression 学布 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "相对而言，TiAl合金密度较小、比强度和比模量高、高温抗蠕变及高温抗氧化性能好，具有良好的力学性能、物理性能及其特舞的机械性能，被认为是一种最具有潜力的轻质高温结构材料，广泛应用于航空、航天、军事等领域，成为当今金属间化合物研究的热点[1-3]。而 TiAl金属间化合物的室温塑性与断裂韧性不足，成为TiAl合金领域需要解决的问题，亦是制约TiA合金继续发展和扩大应用的关键问题45]。而对组织和性能的不断需求，推动了在传统的材料制备和处理技术的基础上，新型的凝固过程控制方法及工属 A艺的发展。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "材料的电场处理是将电场应用死材料的制备、加工及处理过程，从而实现对材料加工过程的控制及改善组织性能的方法，具有污染少、能量密度高、制备效率高、工艺参数控精度高等优点，具有良好的应用前景[6-7]。国内外相关学者将电流作用于低熔点的纯Al、Al-u、Al-合金、Pb-Sn、Pb-Sb-Sn合金，较高熔点的铸铁、高温合金、难混熔合金等金属的凝固及控制过程，并取得了一定的研究成果[8-17]。纯金属或合金在一定的电流参数下晶粒细化，凝固组织中柱痰晶转化为等轴晶，屈服强度和抗拉强度等性能发生较大变化[8,1-2.14-17]。然而，适合改善某种金属组织与能的参数范围并不普遍适用于其他金属，Zhou 等[18]通过计算指出，随金属熔点升高，纯金属获得相同晶粒尺寸所需电流密度也逐渐提高，在凝固过程中不同金属的晶粒尺寸与电流密度存在一定的对应关系。目前，利用电流作用于高熔点的TiAl合金的凝固控制过程及其相关工艺参数的匹配、电流对高熔点金属凝固组织及性能影响等问题的研究相对不足。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本工作将直流电流作用于Ti-48Al-2Cr-2Nb 的凝固过程，以免高活性的 TiAl合金熔体添加细化剂引入细化剂杂质污染，研究了直流电流作用下该合金凝固组织的变化及其对合金显微硬度、高温压缩性能的影响，并初步探讨了直流电流对TiA1合金凝固过程的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 实验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验材料选用名义成分为Ti-48Al-2Cr-2Nb（原子分数， $\\%$ 的合金，加工成直径 $1 4 \\mathrm { m m }$ 长 $9 0 \\mathrm { m m }$ 棒材，然后放入内壁涂有 ${ \\bf Y } _ { 2 } { \\bf O } _ { 3 }$ 的 $\\mathrm { A l } _ { 2 } \\mathrm { O } _ { 3 }$ 陶瓷管中。主要设备为：电源频率 $5 0 \\mathrm { k H z }$ 、感应加热功率 $0 { \\sim } 1 0 0 \\mathrm { k W }$ 连续可调的多功能冷坩蜗定向凝固设备及工作电压 $6 0 \\mathrm { V }$ 、输出电流 $1 5 0 \\mathrm { A }$ 的外加直流稳压电源设备。利用多功能冷坩蜗定向凝固设备，将0\\~15A的直流电流通过直径 $1 \\ \\mathrm { m m }$ 的 $\\mathbf { N b }$ 丝插入到TiAl棒上部熔池，负极与TiAl 棒下端相连接，使电流从熔池端向未熔化端流经定向凝固过程中的TiAl合金而形成闭合回路。在定向凝固实验进行过程中，正电极持续送入合金熔体中的速率与TiAl棒下抽拉速率保持相同。实验过程中通过热电偶装置测温，在加热功率为 $3 6 \\mathrm { k W }$ 时熔池温度达 $1 6 5 0 ^ { \\circ } \\mathrm { C }$ ，保温 $5 \\mathrm { m i n }$ ；经计算在此加热功率下该定向凝固设备工作过程中的温度梯度约为 $1 5 \\mathrm { K / m m } ^ { [ 1 9 , 2 0 ] }$ 。本实验的下抽拉速率为 $0 . 6 \\mathrm { m m / m i n }$ ，开始抽拉后接通直流电流，电流密度范围为： $0 { \\sim } 9 6 ~ \\mathrm { m A / m m } ^ { 2 }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "沿料棒轴向方向距底部 $3 5 ~ \\mathrm { m m }$ 处切取一组横截面，以进行组织观察及XRD分析。利用GX71型金相显微镜(OM)对试样的横截面组织进行观察；利用X'PERTPRO MPD型X射线衍射仪(XRD)对经直流电流作用的定向凝固试样截面进行物相扫描分析，扫描角度 $2 0 { \\sim } 9 0 ^ { \\circ }$ ；利用Quanta 200 FEG扫描电子显微镜(SEM)对试样的微观组织及偏析情况进行观察，利用EDS对样品成分进行分析；利用Tecnai $\\mathbf { G } ^ { 2 } \\mathbf { F } 3 0$ 型透射电子显微镜（TEM）观察试样稳定凝固区微观结构；利用Image-Pro Plus 软件测定 $\\gamma / { \\alpha _ { 2 } }$ 片层厚度、 ${ \\bf q } _ { 2 }$ 相含量及横截面晶粒尺寸。利用MICRO-586型显微维氏硬度仪测定热影响区、初始凝固区、定向凝固区及等轴晶区的显微硬度，每个区域在若干不同点进行测定并取其平均值，载荷 $5 0 0 \\ \\mathrm { g }$ ，加载时间 $1 0 ~ \\mathrm { s }$ 。沿料棒轴向方向距底部 $4 0 \\mathrm { m m }$ 处切取直径 $3 \\mathrm { m m }$ 、长度 $4 . 5 \\ : \\mathrm { m m }$ 的压缩试样，在Gleeble-1500D动态热力模拟试验机上进行高温压缩性能试验，压缩过程中变形温度 $8 0 0 \\mathrm { ~ \\textdegree ~ }$ ，变形速率 $0 . 1 \\ \\mathrm { s } ^ { - 1 }$ ，应变量0.4，加热速率 $1 0 \\ \\mathrm { ^ { \\circ } C / s }$ ，保温时间 $2 \\mathrm { m i n }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 实验结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1组织分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "银图1为加载直流电流的定向凝固 Ti-48Al-2Cr-2Nb 合金横、纵截面的宏观凝固组织图。为直观地观察加载电流前后定向凝固组织演化及晶粒长过程,分别从距开始加载电流相同位置处切取横截面，并测量平均晶粒尺寸。宏观上纵截面凝固组织可分为：铸态组织区、热影响区、初始凝固区、定向凝固稳态生长区及等轴晶区等几部分，如图1所示。在实验过程中，浸于Ga-In冷却剂中的TiAl棒下端受到的感应加热影响较小而保持原始的铸态组（ZoneA)；冷却剂以上未熔化的部分是热影响区（Zone B)，经历了一个回复、再结晶及晶粒长大的过程[21]；定向凝固过渡区（ZonC）由于定向凝固中单向传导热流及晶粒形成条件的影响不同，从而长大成为接近柱状晶倾向的粗大等轴晶[22-23]；在未加载电流和加载电流密度达到最大（ $\\mathrm { . 9 6 \\ m A / m m ^ { 2 } } \\cdot$ ）时出现柱状晶区（ZoneD)，而加载电流密度较小时（ $\\cdot 3 2 { \\sim } 6 4 \\mathrm { m A } / \\mathrm { m m } ^ { 2 } \\cdot$ ，等轴晶区（ZoneE）取代柱状晶区。由于初始凝固阶段，在影响区粗大等轴晶基础上生成的柱状晶不稳定生长，且在生长过程中互相之间激烈竞争，其取偏离度较大，具有择优生长方向的晶粒取代或吞并劣势生长方向的晶粒，并最终被保留下来[24-25]，此区域组织由粗大等轴晶向柱状晶转变。晶过程的继续进行一方面依赖于在上一稳态条件下所形成晶体的继续长大，另一方面是在新的垩衡条件下重新生核长大的过程。本实验条件下，未加载电流时的定向凝固稳定生长区由稳定生长的粗大柱状晶构成，生长方向并不严格平行于轴线方向，由冷坩蜗加热过程中熔体中温度场、流场分布度侧向散热不平衡造成。 $\\mathrm { A l } _ { 2 } \\mathrm { O } _ { 3 }$ 管内的 TiAl棒受感应加热并产生侧向散热，由于冷坩埚内部沿轴向不同位处磁感应强度不同，从而导致试棒受热不均匀，因此试棒的表面及径向温度分布亦不均匀[19-20,2-25]。从图1b,c可以看出电流明显改了Ti-48Al-2Cr-2Nb 合金定向凝固组织，在电流密度较小时（ $3 2 { \\sim } 6 4 \\mathrm { m A / m m } ^ { 2 }$ ，由于电流的焦耳热效应造成二次枝晶熔断，熔断的二次枝晶作为非均匀形核的基底，并同时向各个方向生长，晶核的增多是造成等轴晶区形成的必要条件。从图1d 可以看出，当电流密度增加到 $9 6 \\mathrm { m A } / \\mathrm { m m } ^ { 2 }$ 时，在定向凝圈稳定望长区的柱状晶沿着过渡区的一次枝晶方向继续生长。电流密度的增大减小了固液界面前沿过冷度9,12-13]，但这一过冷度不足以生成新的晶核，但利于某些择优取向晶粒的继续长大。由于凝固过程中温度梯度的存在便继续长大而形成定向生长的柱状晶组织。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/590099422e57fba45bfb68b741c627d9df783382e73d6ecdd745a5e3c96e28af.jpg",
+        "img_caption": [
+            "图1直流电流作用下的定向凝固Ti-48Al-2Cr-2Nb的宏观组织"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Macrostructure of directionally solidified Ti-48Al-2Er-2Nb 网ith and without DC current (Note: Zone A,the original as-cast zone; Zone B,heat affctedzone； Zone C,transition zone；Zone D, colunar crystalzone; ZoneE,eqaxedcrystalzone.) (a) No current ;(b) $3 2 \\mathrm { m A } / \\mathrm { m m } ^ { 2 }$ ;(c) $6 4 \\mathrm { m A } / \\mathrm { m m } ^ { 2 }$ 感 $9 6 \\mathrm { m } \\mathbb { A } \\mathrm { \\lambda } \\mathrm { m m } ^ { 2 }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图 $2 \\mathrm { a } { \\sim } \\mathrm { d }$ 分别为从图1灰色划线处（图1a,d中D区及b,c中E区）即加载电流相同距离处切取的一组横截面组织的 OM像。可以看出，Ti-48Al-2Cr-2Nb 合金凝固过程中横截面晶粒由不同方向的层片组织所组成；平均晶粒尺寸随电流密度在 $0 { \\sim } 9 6 \\mathrm { m A } / \\mathrm { m m } ^ { 2 }$ 间变化时呈现先减小后增大的变化趋势。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2075bcefe40a449637e8c6caeeeff337864b92bb6c192c04a64cb30ffad1f035.jpg",
+        "img_caption": [
+            "图2直流电流作用下 $\\mathrm { T i } – 4 8 \\mathrm { A l } – 2 \\mathrm { C r } – 2 \\mathrm { N b }$ 组织的OM像"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 OM image of microstructure of Ti-48Al-2Cr-2Nb solidified with and without DC current (a) No current; (b) $3 2 \\mathrm { m A } / \\mathrm { m m } ^ { 2 }$ ; (c) $6 4 \\mathrm { m A / m m } ^ { 2 }$ ; (d) $9 6 \\mathrm { m A } / \\mathrm { m m } ^ { 2 }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图3所示为直流电流作用下Ti-48Al-2Cr-2Nb 组织的SEM像。经EDS分析发现，在未加载电流时，由于凝固过程中扩散不均匀导致偏析出现B2相及 $\\gamma$ 相，其中 $\\mathrm { { C r } , \\mathrm { { N b } } }$ 元素在偏析相中大量富集甚至局部区域含量更高。加载电流密度在 $3 2 \\sim 6 4 ~ \\mathrm { m A / m m } ^ { 2 }$ 时，晶界间偏析逐渐减少，溶质元素扩散及成分分布均匀化，片层间距变小；电流密度继续增大至 $9 6 ~ \\mathrm { A / m m } ^ { 2 }$ 时，溶质合金元素进一步均匀化分布，偏析消失。这是金属熔体凝固过程中加载电流促进溶质扩散，溶质分配系数发生变化的结果[9,17]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea47eda5c6ea8f473f8ccb84952b538baa8bec9b0970f9a1f91d78d69519fa92.jpg",
+        "img_caption": [
+            "图3直流电流作用下Ti-48Al-2Cr-2Nb组织的SEM像"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 SEM image of microstructure of Ti-48Al-2Cr-2Nb solidified with and without DC current (a) No current; (b) $3 2 \\mathrm { m A / m m } _ { ☉ } ^ { 2 }$ (c) $6 4 \\mathrm { m A / m m } ^ { 2 }$ ; (d) $9 6 \\mathrm { m A } / \\mathrm { m m } ^ { 2 }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2物相分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据“Al当量”将 Ti-48Al-2Cr-2Nb 舍金中的 $\\mathcal { K } _ { \\mathfrak { C } \\mathfrak { r } }$ 、Nb 含量折算成二元 TiAl 合金的 Al含量： $C _ { A l } ^ { \\prime } { = } 4 8 . 8$ （20$< 4 9 . 4$ ，该合金在平衡凝固条下的凝固路径为： $\\mathrm { L }  [ \\beta ] + \\mathrm { L }  [ \\beta + \\alpha ] + \\mathrm { L }  [ \\beta + \\alpha ] + \\gamma  [ \\alpha ] + \\gamma  \\alpha _ { 2 } + \\gamma  $ $[ \\alpha _ { 2 } + \\gamma ] + \\gamma ^ { [ 2 4 - 2 6 ] }$ ， $\\beta$ 相是初生相，室温组织为 ${ \\bf a } _ { 2 } / \\gamma$ 全片层结构(FL)。图4为电流作用下 Ti-48Al-2Cr-2Nb 合金凝固试样的XRD谱。可看出，该合金室温组织主要由 $\\gamma$ 相 ${ \\bf { a } } _ { 2 }$ 相及少许 ${ \\bf Y } _ { 2 } { \\bf O } _ { 3 }$ 杂质相组成，另外未加载电流时有少量B2 相出现。定向凝固过程中，随电流密度的增加，样品表面 ${ \\bf { a } } _ { 2 }$ 相的 XRD 衍射峰值呈先减弱后增强的趋势。一般来说，XRD衍射峰对应原子分布与晶面取向，衍射峰相对强度取决于该物质的组成与结构。衍射强度与对应相的体积分数成正比，峰值越高则构成该晶面的原子阵列在该晶体材料中的存在越多，衍射峰宽化表明晶粒尺寸变小。由此初步定性分析，在未加载电流时的 Ti-48Al-2Cr-2Nb 合金晶粒尺寸较大，在相转变过程中，晶界处残余的少量 $\\beta$ 相在室温下以B2相的形式存在；随电流密度不断增大，晶粒尺寸、 ${ \\bf q } _ { 2 }$ 及 $\\gamma$ 相的相对含量发生变化，B2 相基本消失。 报",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f1dac22f93a465ab354163720d4ef87997a957e157970ae6390618b0bd4ad83.jpg",
+        "img_caption": [
+            "图4电流作用下Ti-48Al-2Cr-2Nb 的XRD 谱Fig.4 XRD spectra of Ti-48Al- $2 \\mathrm { C r } { - } 2 \\mathrm { N b }$ solidified with and without DC current"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图5为不同电流作用下Ti-48Al-2Cr-2Nb合金凝固组织片层组织的TEM像。可以看出，未加载电流时凝固组织的 ${ \\bf a } _ { 2 } / \\gamma$ 片层间距较大且组织不均匀，相界间有析出相；随着电流密度增大，片层间距细化并且组织不断趋于均匀化；在电流密度达到最大时虽然平均片层间距有所粗化，但其组织均匀性增大。进一步确定其组成相主要为深色衬度的 ${ \\bf q } _ { 2 }$ 相和浅色衬度的 $\\gamma$ 相，片层组织中的 ${ \\bf q } _ { 2 }$ 和 $\\boldsymbol { \\gamma }$ 相之间存在着 $( 0 0 0 1 ) \\alpha _ { 2 }$ Ⅱ(111)γ， $< 1 1 \\bar { 2 } 0 > \\alpha _ { 2 }$ （2 $\\| < 1 \\bar { 1 } 0 > \\gamma$ 的位相关系。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5f7f5af3e51255d0c1a3ff167be0d8781b38735c33b892a17c514e2ba93f87bd.jpg",
+        "img_caption": [
+            "图5电流作用下Ti-48Al-2Cr-2Nb的片层组织的TEM像"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ig.5 TEM images of lamella structures of Ti-48Al-2Cr-2Nb solidified with and without DC current (a) No current; (b) $3 2 \\mathrm { m A } / \\mathrm { m m } ^ { 2 }$ （c） $6 4 \\mathrm { m A / m m } ^ { 2 }$ ; (d) $9 6 \\mathrm { m A } / \\mathrm { m m } ^ { 2 }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在本实验条件下，加热功率、生长速率等定向凝固参数相同的情况下，加载电流密度成为影响定向凝固 Ti-48Al-2Cr-2Nb 合金微观组织的的主因素，要体现在所含各相的相对含量、晶粒尺寸及片层间距变化方面。 展版",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据图5中 $\\gamma$ 相与 ${ \\bf { a } } _ { 2 }$ 相的对比度的区别，并根据XRD 定性分析 ${ \\bf { a } } _ { 2 }$ 相的变化得到的信息（图4)，利用 Image-Pro Plus 测量出的面积进似代表体积，定量统计分析合金中 $\\gamma$ 相、 ${ \\bf { a } } _ { 2 }$ 相相对含量变化。图6是Ti-48Al-2Cr-2Nb 合金在定向凝固中随电流密度增大时 ${ \\bf q } _ { 2 }$ 相的相对含量变化情况。可以看出，在由 $\\gamma$ 及 ${ \\bf q } _ { 2 }$ （20两相构成的组织中， ${ \\bf { a } } _ { 2 }$ 相相对含量随直流电流密度的增加而增大，在电流密度达到 $6 4 \\mathrm { m A / m m } ^ { 2 }$ 后持续增加时， ${ \\bf { a } } _ { 2 }$ 相相对含量有所减小。未加载直流电流时 $\\underbrace { \\mathbf { \\rho } _ { \\alpha } } _ { \\mathrm { ~ \\normalfont ~  ~ } }$ 相占 $1 8 . 5 \\%$ ，外加直流电流密度为 $6 4 \\mathrm { m A / m m } ^ { 2 }$ 时 ${ \\bf q } _ { 2 }$ 相最高可达 $3 9 . 4 \\%$ ，但加载电流密度达到 $9 6 \\mathrm { ^ { g } \\cdot m A / m m } ^ { \\mathrm { \\# } }$ 时 ${ \\bf q } _ { 2 }$ 相减少至 $3 5 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e555dea66413951d2d82c3d208f534c9de83f8bfb4c3c64bb722ecf92db5412f.jpg",
+        "img_caption": [
+            "图6电流作用下Ti-48Al-2Cr-2Nb中的 ${ \\bf { a } } _ { 2 }$ 相含量变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.6 Volume fraction of ${ \\bf { a } } _ { 2 }$ phase in Ti-48Al-2Cr-2Nb solidified with and without DC current ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图7为根据金相及TEM分析并辅助 Image-Pro Plus 软件测定的Ti-48Al-2Cr-2Nb 合金平均晶粒直径及 ${ \\mathfrak { a } } _ { 2 } / { \\gamma }$ 片层间距随电流密度的变化。横截面平均晶粒直径变化呈先减小后增大的变化趋势，片层间距随电流密度增大时的变化与晶粒尺寸的变化趋势基本相同。未加载直流电流时的平均晶粒直径约为 $2 . 5 \\mathrm { m m }$ ；加载电流密度为 $6 4 \\mathrm { m A / m m } ^ { 2 }$ 时平均晶粒直径约为 $0 . 4 6 \\mathrm { m m }$ ，达到最小值，与未施加直流电流时相比降低 $70 \\%$ 随电流密度持续增大到 $9 6 \\mathrm { \\ m A } / \\mathrm { m m } ^ { 2 }$ ，平均晶粒直径增大到 $1 . 5 \\mathrm { m m }$ 。未施加直流电流时的平均片层间距为（204号 $0 . 6 5 \\mu \\mathrm { m }$ ，电流密度为 $3 2 { \\mathrm { ~ m A } } / { \\mathrm { m m } } ^ { 2 }$ 时，片间距最小为 $0 . 1 9 \\mu \\mathrm { m }$ ，是未加载电流时的 $2 9 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e25f7e15aa1510f351b4246c473103fbcca513e6782cedd4739acb48b36add7.jpg",
+        "img_caption": [
+            "图7直流电流作用Ti-48A2Cr-2Nb 的晶粒尺寸及片层间距Fig.7 Grain size and mella idth of Ti-48Al-2Cr-2Nb with and without DC current"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3显微硬度",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "X 、 $\\hat { \\vec { a } } _ { 2 } \\hat { \\vec { \\gamma } }$ Ti-48Al-2Cr-2Nb 合金是由 两相构成的全片层组织，凝固过程中的组织变化对合金力学性能有很大的影响[1-2.4]。直流电流影响了 TiAl合金的定向凝固过程，导致了析出相、微观组织结构如晶粒尺寸及片层间距的差异。图8为不同密度直流电流作用下定向凝固 Ti-48Al-2Cr-2Nb合金不同区域的显微硬度，图8中(Zone B,C.D/E)显微硬度分别是图1宏观组织的相应各区域。可以看出，在热影响区（Zone B)，由于回复再结晶导致此区域位错减少，内应力消除，故显微硬度较低；由于在定向凝固过渡区（ZoneC）晶粒不稳定生长、晶粒取向差异及应力多显微硬度较热影响区有所升高；由于等轴晶区晶粒稳定生长及晶粒细化等因素的存在，显微硬度进一步增大。对于位于合金的稳定生长区域ZoneD/E)来说，当直流电流密度为 $6 4 \\mathrm { m A / m m } ^ { 2 }$ 时的显微硬度最大为 $5 4 2 \\mathrm { H V }$ ，与未加载电流时显微硬度相比提高了 $3 1 . 5 \\%$ ，这是由于晶粒尺寸与片层间距尺寸都较小且 ${ \\bf q } _ { 2 }$ 含量最高。当电流蜜度为 $3 2 \\mathrm { m A } / \\mathrm { m m } ^ { 2 }$ 时，层片间距较小但晶粒尺寸相对较大，因此显微硬度比电流密度为 $6 4 \\mathrm { m A / m m } ^ { 2 }$ 时有所减小。未加电流时的此区域显微硬度偏小是由凝固偏析及成分分布不均所导致。 金预",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/47374928fa6c5b9ecd6f844e0ad9c494d1103db412abf7bb044e8b1292b9898c.jpg",
+        "img_caption": [
+            "图8直流电流作用下定向凝固Ti-48Al-2Cr-2Nb各区域的显微硬度Fig.8 Microhardnessin various zone of directionallysolidified Ti-48Al-2Cr-2Nb withand without DC current根据图8电流作用下 Ti-48Al-2Cr-2Nb 合金凝固稳定生长区(Zone D/E)的显微硬度，综合考察不同电流密度下 ${ \\bf q } _ { 2 }$ 相含量、片层间距及晶粒尺寸的差异（图6,7)，可以得出 ${ \\bf q } _ { 2 }$ 相含量及晶粒尺寸相较于片层间距，"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在显微硬度中起主要作用。这是由于显微组织的长度结构参数对 TiAl基合金的力学性能有着重要影响，根据 Hall-Petch 公式[27-30].",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\sigma } { = } { \\sigma } _ { 0 } { + } { \\ k } _ { \\mathrm { y } } \\mathrm { D } ^ { - 1 / 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\mathbf { k } _ { \\mathrm { y } }$ 是材料的常数； ${ \\sigma } _ { 0 }$ 是恒定应力部分，通常与其他类型的滑移障碍物有关；D是显微组织的长度结构参数，一般为多晶体中各晶粒的平均直径或片层间距。从式(1)可以看出，片层间距或晶粒尺寸越小，TiAl合金的强度越高，并且其变形能力愈均匀，变形能力增加则塑性也越好。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4高温压缩性能 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图9为直流电流作用下定向凝固 $\\mathrm { T i } – 4 8 \\mathrm { A l } – 2 \\mathrm { C r } – 2 \\mathrm { N b }$ 合金在应变量0.4，应变速率 $0 . 1 \\mathrm { s } ^ { - 1 }$ ，变形温度800°时高温压缩真应力-应变曲线。可以看出，未经加载直流电流处理的凝固试样屈服强度最低，约为 $7 2 0 \\mathrm { { M P a } }$ 压缩断裂强度为 $1 1 9 8 \\mathrm { M P a }$ 。当试样凝固过程中电流密度在 $3 2 { \\sim } 6 4 \\mathrm { m A } / \\mathrm { m m } ^ { 2 }$ 时，该合金的屈服强度、断裂强度和塑性性能呈现明显上升趋势，并在 $6 4 \\mathrm { m A / m m } ^ { 2 }$ 时压缩屈服强度及断裂强度达到最高，分别为 $1 2 0 0 \\mathrm { { M P a } }$ 和 $1 3 6 5 \\ \\mathrm { M P a }$ ，比未经外加直流电流处理的时的材料分别提高了 $67 \\%$ 和 $14 \\%$ 。当电流密度继续增大到96$\\mathrm { m A } / \\mathrm { m m } ^ { 2 }$ 时，该合金的屈服强度与断裂强度又有所下降。可见，直流电流在一定的电流参数下，有效提高了 Ti-48Al-2Cr-2Nb 合金的屈服强度与断裂强度。布",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a06809760a45a7a39caac4fa4c9091b2cef4bc6f8bc6e73b7d8686de4341ba05.jpg",
+        "img_caption": [
+            "图9直流电流作用下Ti-48Al-2Cr-2Nb的高温压缩真应力应变曲线 Fig.9 True stress-true strain curves of Ti-48Al-2Cr-2Nb solidified with and without DC current X 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3 分析讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "属",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在金属的凝固过程中加载电流，导电粒子在电流作用下产电迁移现象[31,32]，同时液态金属内部产生Joule 热和Lorentz力及浓度梯度的作用，驱使金属熔体中不同性质离子产生运动。随电流密度变化，固液界面前端熔体流动及液态金属溶质分配系数随之发生变化。电流作用下液态金属凝固过程中的有效界面分配系数 $K _ { E } ^ { [ 3 2 ] }$ 为：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { K _ { E } = \\frac { K _ { 0 } ( 1 + \\frac { \\mathrm { U E } } { \\mathrm { R } } ) } { K _ { 0 } + ( 1 + \\frac { \\mathrm { U E } } { \\mathrm { R } } - K _ { 0 } ) \\exp { \\{ \\vartexttt { f l } ^ { \\sharp } - ( 1 + \\frac { \\mathrm { U E } } { \\mathrm { R } } ) \\frac { \\mathrm { R } \\delta } { \\mathrm { D } } \\} } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "式中， $K _ { \\ O }$ 为平衡溶质分配系数； $U$ 为熔体中原子相对迁移速率，单位电场中溶质、溶剂原子运动速率差；$D$ 为液态金属中的溶质扩散系数； $E$ 为熔体两端的电势差； $R$ 为平面固液界面的移动速率，也就是晶体的长大速度； $\\delta$ 为固液界面前沿液相侧溶质富集层厚度， $\\delta$ 越小越不利于发生成分过冷。式（2）表明，电流驱动熔体中带电离子向两极移动并促进了熔体中溶质元素A1的扩散，从而偏析减小，溶质的有效分配系数 $K _ { E } \\left( K _ { O } < K _ { E } < 1 \\right)$ 增大。根据Wagner作出的电传输在二元合金熔体界面稳定性影响的成分过冷判据[31]:",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\frac { \\mathrm { \\Delta G } } { \\mathrm { \\Delta R } } \\leq \\frac { \\operatorname { m } C _ { s } ( 1 - K _ { E } - \\mathrm { v ^ { ' } / \\mathrm { R } } ) } { \\mathrm { \\Delta D } K _ { E } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "式中 $G$ 为固液界面前沿液相温度梯度； $V ^ { \\prime }$ 为溶质的电传输速度； $K _ { E }$ 为有效界面分配系数； $m$ 为液相线斜率；",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$C _ { S }$ 为界面上固相一侧溶质浓度。由式（3）可以看出， $K _ { E } ( K _ { E } < 1 )$ 增大不利于成分过冷。直流电流作用下过冷度减小[9,12-13]，加之电流起伏效应的存在，临界形核功和形核半径都随之减小，结果是向易于形成晶核的方向发展，形核率是决定晶粒尺寸的重要因素。由于在较小电流密度（ $3 2 { \\sim } 6 4 \\ \\mathrm { m A / m m } ^ { 2 }$ ）时Joule热熔断二次枝晶，非均匀形核质点增加，这也造成了电流密度在 $3 2 { \\sim } 6 4 ~ \\mathrm { m A / m m } ^ { 2 }$ 时形成细化的等轴晶组织。当电流密度继续增大到 $9 6 \\mathrm { m A } / \\mathrm { m m } ^ { 2 }$ 时，虽然固液界面前沿过冷度有所减小，但这一过冷度不足以生成新的晶核，并且在定向凝固过程中温度梯度存在的条件下择优生长为柱状晶粒。因此随着加载电流密度的变化随之出现不同晶态凝固组织的转变。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "直流电流会引起定向凝固过程中液相前沿过冷度的减小，根据 TiAl二元相图，在 $\\scriptstyle C _ { A l } ^ { \\prime } = 4 8 . 8$ 时的非平衡结晶条件下促进了固液转变过程中 $\\beta$ 相的转变析出，导致 TiAl合金的 $\\mathrm { L \\to \\beta \\mathrm { + } L \\to \\alpha \\mathrm { + } \\beta }$ 的包晶反应成分向富 Al侧微小偏移（如图10 虚线所示)，导致初生 $\\beta$ 相增多， $\\beta$ 完全参与包晶反应过程，根据杠杆定律可知，导致室温下TiA1片层中 ${ \\bf q } _ { 2 }$ 相的含量增多。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/964f1e42b9ed64e8a88e99fee23a23d2696969433254b874031bd3a43e68e777.jpg",
+        "img_caption": [
+            "图10直流电流作用TiA元合金非平衡转变示意图 Fig.10 Schematic of equivalent binary phase diagram of TiAl system with direct current "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "布",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（1）加载直流电流在一定程度上促进了定向凝固的 Ti-48Al-2CNb 合鉴组织的细化及成分的均匀化，合金偏析减小或消失，在较小电流密度时‘ $( 3 2 { \\sim } 6 4 \\mathrm { \\ m A / m m } ) _ { \\widetilde { \\mathcal { X } } _ { \\mathrm { \\ell } } } ^ { 2 } )$ 柱状向等轴晶转变。横截面平均晶粒尺寸和片层厚度总体上均呈现先减小后增大的变化趋势，最小尺寸分别为约 $0 . 4 6 ~ \\mathrm { m m }$ 及 $0 . 1 9 ~ { \\mu \\mathrm { m } }$ ，与未外加直流电流时相比分别减小了 $70 \\%$ 和 $2 9 \\%$ ；随电流密度的增大室温下 ${ \\bf { a } } _ { 2 }$ 相相对含量提高，比未加载电流时高出$1 1 3 \\%$ ：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（2）片层间距或晶粒尺寸越小，则合金的强度越高并且变形能力愈均匀，变形能力越强，塑性也越好。加载直流电流 $6 4 \\mathrm { m A / m m } ^ { 2 }$ 凝固的Ti-48Al-2Cr-2Nb 合金的最大显微硬度是542HV，与未加载电流时相比提高了 $3 1 . 5 \\%$ ；压缩屈服强度及断裂强度分别达到 $1 2 0 0 \\mathrm { { M P a } }$ 和 $1 3 6 5 \\mathrm { { M P a } }$ ，与未加载电流时相比分别提高了$67 \\%$ 和 $14 \\%$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]Dimiuk DM.Gamma titaniumaluminidealoys-anassessment withinthecompetionof arospace structuralmaterials[J] Materials Science and Engineering:A,1999,263(2): 281-288 [2]AppelF,BrossmanU,ristohU,EggertS,JascekLorenU,ullerJOeing,PaulJDHRecenprogie ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "development of gamma titanium aluminide alloys [J]. Advanced Engineering Materials,20o,2(11): 699-720.   \n[3]PaulJDH,Oehring M. Gamma TitaniumAluminide Allys [M].Germany: Wiley-VCH Verlag&Co.KGaA,Boschstr Weinheim, Springer, 2011: 1-5   \n[4]Wu X. Review of alloy and process development ofTiAl alloys [J]. Intermetallics,2006,14(10):114-1122   \n[5]Kim Y W. Ordered intermetallic alloys, part II: gamma titanium aluminides[J].1994, 46(7): 30-39   \n[6] Asai S. Electromagnetic Processing of Materials [M]. Netherlands, Springer 2012: 87-111   \n[7] Conrad H.Enhanced phenomena in metals with electric and magnetic fields: Ielectric fields[J]. Materials transactions, 2005,46(6): 1083-1087   \n[8]Liao XL,Zhai QJ,LuoJ,Chen WJ,Gong YY.Refining mechanismof theelectriccurrentpulseonthesolidificationstructure of pure aluminum [J]. Acta Materialia, 2007,55(9):3103-3109   \n[9]Li XB,LuFG, Cui HC,Tang XH.Migrationbehaviorofsolidification nuclei inpure Almeltundereffctofelectriccurrent pulse[J]. Transactions of Nonferrous Metals Society of China,2014,24(1): 192-198   \n[10] BarnakJP,SprecherAF,Conrad H.Colony (grain)sizereductionineutecticPb-Sncastings byelectroplusing[J].Scripta metallurgica et materialia,1995,32(6): 879-884学   \n[11]Nakada M,Shiohara Y,Flemings M C.Modificationof solidification structures bypulse electric discharging[J]. ISIJ 寓   \ninternational,1990,30(1): 27-33   \n[12]Misra AK.Efectofelectric potentialsonsolidificationofneareutecticPb-Sb-Snally[J]. Materials Letters,1986,4(3): 176-177 报   \n[13]Liao XL,Zhai QJ,SongCJ,Chen WJ,GongYY.Efects ofelectriccurrent pulseonstabilityofsolid/liquidintefaceof Al-4.5 wt.% Cu alloy during directional solidification[J]. Materials Science and Engineering: A,20o7,466(1):56-60   \n[14]RabigerD,ZhangYH,GalindV,FrankeS,WilersB,EckertS.TherelevanceofmeltconvectiontograinrefinementAl-Si alloys solidified under the impact of electric currents [J]. Acta Materialia,2014,79: 327-338   \n[15]VashchenkK,ChegaFVorobevSLyenkoI,YakovcukYE.Efctofelectricrenontheolidiicatiofcast iron [J].Metal Science and Heat Treatment,1974,16(3): 261-265 学布   \n[16]Feng X H,YangYS,LiYJ,etal.EfectofDCfieldon mechanicalpropertyofaN-basedsinglecrystalsuperalloyJ].Acta Metall Since,2006, 42(9): 947-951 属 发   \n(冯晓辉,杨院生,李应举，张宇男，胡壮麟．直流电流对种镍基单晶高温合金力学性能的影响[J]．金属学报,2006,42(9): 947-951) 报   \n[17]Jiang HX,ZhaoJZ,Wang CP,LiuXJ.Efectofelectriccurrentpulsesonsolidificationofimmiscibleallys[J].Materials X XP   \nLetters,2014,132: 66-69   \n[18]ZhouB.NoelbprocsssiateialsproceingJ].sejoualofateialreach99,1(6):486 [19]Nie GMicrosructureandpropertiesofelectromagneticolducibledirectionallysolidifid/lamnarTA-basedblets[D]. 有   \nHarbin: Harbin Institute of Technology, 2012   \n(聂革．电磁冷坩蜗定向凝固 ${ \\bf a } _ { 2 } / \\gamma$ 片层 TiAl基坏锭组织与性能 [D]．哈尔滨：哈尔滨工业大学,2012)   \n[20]Yang JR.HeatransferofhighNbcontaining TiAl alloyanditsefectonstrcuture formation incold crucible directional solidification [D]. Harbin: Harbin Institute of Technology,2013   \n(杨劫人．高 Nb-TiAl合金冷坩蜗定向凝固传热特性及其对组织的影响 [D].哈尔滨：哈尔滨工业大学,2013)   \n[21] McNelleyTR, Swaminathan S,SuJQ. Recrystallzation mechanisms during friction stir welding/processng of aluminum alloys[J]. Scripta Materialia,2008,58(5): 349-354   \n[22] Jung I S, Kim M C,Lee JH, Oh MH, Wee D M. High temperature phase equilibria near $\\mathrm { T i } { - } 5 0 \\mathrm { a t } \\%$ Al composition in Ti-Al system studied by directional solidification[J]. Intermetallics,1999,7(11): 1247-1253   \n[23] Jung I S, Jang H S,Oh MH,Lee JH, Wee D M. Microstructure control of TiAl alloys containing $\\beta$ stabilizers by directional solidification [J]. Materials Science and Engineering: A,2002,329:13-18   \n[24] Fu HZ, Guo JJ,Liu L,LiJS. [M]. Beijing: Science Press. 2008: 16-18   \n(傅恒志，郭景杰，刘林，李金山．先进材料定向凝固 [M]．北京：科学出版社,2008:16-18) [25] Su YQ,Liu C,LiXZ,GuoJFUHZ.Microstructure selectiondurig the directionallperitectic solidificationof T-Al binary system[J]. Intermetallics,2005,13(3):267-274   \n[26]LiX,FautrelleY,RenZM.Influenceofthermoelectric eectsonthesolid-lqid interfacehapeadcelularmorpholgyn the mushy zoneduringthedirectionalsolidificationofAl-Cuallysunderamagneticfield[J].Acta Materialia,2o7,5(11): 3803-3813   \n[27] Hansen N.Hall-Petch relation and boundary strengthening [J]. Scripta Materialia,2O04,51(8):801-806.   \n[28] Yamamoto Y,Takeyama M.Physical metallrgyof single crystal gamma titaniumaluminidealloys: orientationcontroland thermal stability of lamellar microstructure [J]. Intermetallics,20o5,13(9): 965-970.   \n[29] Ashby MF, Jones DR H.Engineering Materials,1Pergamon Press,Oxford,1980:105   \n[30]SatoYS,Urata M,Kokawa H,Ikeda K.Hall-Petchrelationshipin frictionstirweldsofequal channelangular-pressed aluminium alloys[J]. Materials Science and Engineering: A,2003,354(1): 298-305   \n[31] Pfann W G, Wagner R S. Principles of freezing [J]. Trans Met Soc AIME,1962,224:1139-1145   \n农   \n[32]ProdhanA,SivaramakrshnanCS,Chakrabarti AK.Solidiicationofaluminuinelectricfield[J].MetallMaterTaB,2C ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/5fd0e72a2b0e1f00c6483bd22815cbbe874f8c6ce612c1ca79af1c6b8a301ba5.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 10
+    }
+]

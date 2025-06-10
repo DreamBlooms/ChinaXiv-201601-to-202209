@@ -1,0 +1,234 @@
+# 山西省县域高质量发展与生态系统服务耦合的时空演变特征
+
+淛海龙¹²，唐飞¹，丁娅楠'，张羽¹，郭晓佳¹²，谭景柏³，程岳¹(1.山西师范大学地理科学学院,山西 太原030000；2.山西师范大学人文地理研究所,山西 太原030000;3.西北工业大学力学与土木建筑学院，陕西 西安710129)
+
+摘要：基于2000年、2005年、2010年、2018年山西省107个县区数据,构建山西省高质量发展评价指标体系,使用InVEST模型测算山西省各县区生态系统服务,利用耦合协调度模型与弹性系数方法,对山西省县域高质量发展系统与生态系统服务的时空耦合特征进行剖析。结果表明：(1）城市的等级效应对于高质量发展水平影响效果显著,高质量发展的空间分异规律较强，大致形成了南北中三级核心，中部地区极化效应突出。（2)生态系统服务在时间尺度和空间格局上均具有锁定效应,时空演变特征与研究区地形分布具有一致性，呈现出稳定的"镜像L型"空间分布格局。（3）生态系统服务整体滞后于高质量发展,从时间变化来看,耦合水平呈上升趋势,从空间格局特征来看,呈现出"东西向"偏移为"东北-西南"的协调主体轴。（4）高质量发展与生态系统服务的耦合类型以异向变化为主,出现衰退型和滞后型相抗衡的"两极分化"格局,形成了收敛的"S"型衰减区,作为耦合类型的理想模式,增长型在研究区极少出现。
+
+关键词：高质量发展；生态系统服务；耦合协调度模型；山西省县域
+
+党的十九大报告提出中国经济由高速增长阶段转向高质量发展阶段，自该理论提出以来，学界对于高质量发展的研究主要集中于对"经济发展高质量、改革开放高质量、城乡建设高质量、生态环境高质量、人民生活高质量”等的高质量发展内涵评述1、基于“创新、协调、绿色、开放、共享"的高质量发展指标体系构建[2-3],基于流域[4]、省际[5]、县域[]层面的高质量发展水平测度分析以及内在机理探究等内容，但对高质量发展与生态系统服务之间的相关分析较少。进行高质量发展与生态系统服务耦合研究可以客观揭示高质量发展与生态系统服务之间的内在联系，把握区域发展的空间分异规律，对制定区域高质量发展战略具有重要的科学参考价值。区域经济高质量发展与生态可持续发展是经济地理学、城市地理学等领域的重点议题[4。近年来，粗放式的经济增长带来生态环境的负面影响日益凸显，随着国家对区域高质量发展和生态环境保护关注程度的日益增加，开展高质量发展与生态系统服务耦合的时空特征分析对社会经济发展与生态文明建设具有重要的现实意义。
+
+国外学者十分关注经济发展与生态环境之间的关系，如环境库兹涅茨曲线假说、绿色索罗模型[8均提出了生态环境与经济增长之间存在相互作用[9-1],P-S-R模型[12]从“压力-状态-响应"角度分析生态与经济之间的相互关系，库兹涅茨曲线[13]能够判定不同区域经济系统与环境系统之间的耦合状态。国内学者更多关注生态环境与社会经济发展的耦合协调关系[14],如环境污染和经济发展[15]、生态环境与城市化[16]、城市用地扩张与生态环境保护[17]等。随着高质量发展指标体系的构建，学界开始关注高质量发展系统内在耦合的测度分析5以及高质量发展与生态环境之间交互耦合的探究[18-19],且在高质量发展与生态环境耦合的研究中，多通过构建指标体系对生态环境进行评价，传统的指标体系已不能直观表征区域生态环境状况，故有学者借助InVEST模型从生态系统服务[20-21]出发利用遥感数据对生态环境进行评价[22-24],一方面可以更好表征生态环境现实状况，另一方面也能够明确生态系统服务的形成机制和评估结果。已有研究多集中于省域、市域尺度，以县域为尺度的耦合探究较薄弱，县域单元对人才、资金等要素的吸引较弱，目前部分县区仍存在经济发展和绿色发展动力不足的问题[25]，从县域视角切人，能够更精确刻画区域高质量发展与生态系统服务间关系的空间分异规律，有利于探讨深层次的形成机理，对县域经济保质保量增长和资源配置优化具有重要意义。
+
+山西省地处黄河流域中游，位于黄土高原东部，地形复杂，水土流失严重，自然本底较差[26，多年来以资源开发为主导的发展观念导致脆弱的生态环境进一步恶化。因此，本文构建县域高质量发展指标体系并借助InVEST模型，基于县域尺度进行山西省2000—2018年高质量发展水平和生态系统服务综合评价，并通过耦合协调模型和弹性系数法揭示研究区高质量发展与生态系统服务耦合协调度和耦合类型的时空分异特征，为研究区高质量发展与生态文明建设相关政策的制定提供科学依据。
+
+# 研究区概况与方法
+
+# 1.1 研究区概况
+
+山西省位于中国华北地区，总面积 $1 5 . 6 7 \times 1 0 ^ { 4 }$ $\mathrm { k m } ^ { 2 }$ ,是典型黄土覆盖的山地高原,区域内地形以山地、丘陵为主，地势东北高西南低，气候属于温带大陆性季风气候，各地年平均气温 $4 . 2 { \sim } 1 4 . 2 \ \mathrm { ^ { \circ } C }$ ，年降水量 $3 5 8 { \sim } 6 2 1 ~ \mathrm { m m }$ 。2019年底常住人口为 $3 . 7 3 { \times } 1 0 ^ { 7 }$ 人；研究与开发(R&D)经费投入 $1 9 1 . 2 \times 1 0 ^ { 8 }$ 元，达全国平均水平的 $2 9 . 6 \%$ ;专利申请量 $3 . 1 7 \times 1 0 ^ { 4 }$ 件，达全国平均水平 $7 0 . 3 \%$ 。省内生态问题严重，人地矛盾突出，人均水资源量为 $2 0 4 ~ \mathrm { m } ^ { 3 }$ ，仅为全国平均水平的$1 6 . 6 \%$ ;森林覆盖率为 $2 2 . 7 9 \%$ ,达全国平均水平的$7 7 . 0 4 \%$ ；空气优良天数比例为 $6 3 \%$ ，仅为全国平均水平的 $2 0 . 7 \%$ 。
+
+# 1.2数据来源
+
+选取2000年、2005年、2010年、2018年作为时间节点，考虑到县域行政区划有变动，以2018年山西省县域行政区划为地域参考单元，将各地级市市辖区进行合并，综合得到107个县区。各县域统计数据资料均来自2001年、2006年、2011年、2019年《中国县域统计年鉴》《中国科学技术统计年鉴》《山西省统计年鉴》和相应年份山西各地级市统计公报。土地利用数据来源于中国科学院资源环境科学数据中心(http://www.resdc.cn/)的《中国土地覆被栅格数据》，分辨率为 $3 0 ~ \mathrm { m } { \times } 3 0 ~ \mathrm { m }$ ;降水数据来源于农业部全国温室数据系统中山西省18个气象站点资料（http://data.sheshiyuanyi.com）,通过ArcGIS 10.5空间插值后提取所得；植被指数来源于《中国年度植被指数(NDVI)空间分布数据集》，分辨率为30$\mathrm { m } { \times } 3 0 \mathrm { m }$ ;数字高程模型(DEM)来源于地理空间数据云（http://www.gscloud.cn/）,分辨率为 $3 0 \mathrm { m } { \times } 3 0 \mathrm { m }$ ；土壤数据来自世界土壤数据库(HWSD)中提取的《中国土壤数据集》;根系深度、蒸散系数由参考文献计算所得[27]
+
+# 1.3 研究方法
+
+1.3.1高质量发展评价指标体系本文借鉴相关研究成果[3-5],综合考虑数据的可获取性和合理性以及山西省县域实际情况，构建研究区县域高质量发展测度指标体系(表1），采用熵权法和层次分析法进行综合赋权， $w _ { 1 i } \setminus w _ { 2 i }$ 分别为 $i$ 指标熵值法与层次分析法所得权重值;n为指标数量[28-29]
+
+$$
+w _ { i } = \frac { \big ( w _ { 1 i } \times w _ { 2 i } \big ) ^ { \frac { 1 } { 2 } } } { \displaystyle \sum _ { 1 } ^ { n } \big ( w _ { 1 i } \times w _ { 2 i } \big ) ^ { \frac { 1 } { 2 } } }
+$$
+
+由于县域指标的可获取程度较低，用产业发展水平来衡量产业之间协调水平，产业发展水平以第二产业与第三产业产值的比值来计算，比值越小,说明区域产业水平越高，如果比值出现下降趋势，则说明区域经济向服务化方向发展。
+
+1.3.2生态系统服务评估利用InVEST模型评价山西省县域的生态系统服务。该模型在一定程度上能避免生态系统服务功能形成机制不明确、评估结果实用性差等问题[30]。借鉴相关研究[23.31],选取具有普遍适用性的水源涵养、土壤保持、粮食生产、固碳及生境质量模块，对研究区的生态系统服务进行估算(表2)。
+
+# 1.3.3高质量发展与生态系统服务耦合协调度测算模型
+
+# (1）耦合协调度模型
+
+耦合协调度模型能定量评价高质量发展系统与生态系统服务之间的交互耦合协调程度。通过构建耦合协调度模型可测算山西省县域高质量发展与生态系统服务之间的耦合协调水平，计算过程见文献[28」，将研究区县域高质量发展耦合度与协调度划分为5个阶段(表3)。
+
+Tab.1 Measurement index system of county high quality development level in Shanxi Province   
+
+<html><body><table><tr><td>-级指标及权重</td><td>二级指标及权重</td><td>三级指标</td><td>熵权法</td><td>层次分析法</td><td>综合权重</td><td>指标属性</td></tr><tr><td rowspan="4">创新发展(0.326)</td><td>创新投入(0.130)</td><td>研究与开发(R&D)机构数</td><td>0.128</td><td>0.096</td><td>0.130</td><td>+</td></tr><tr><td>创新产出(0.093)</td><td>申请专利数</td><td>0.106</td><td>0.059</td><td>0.093</td><td>+</td></tr><tr><td>创新环境(0.103)</td><td>规模以上工业总产值</td><td>0.113</td><td>0.026</td><td>0.064</td><td>+</td></tr><tr><td></td><td>规模以上工业单位数</td><td>0.060</td><td>0.019</td><td>0.039</td><td>+</td></tr><tr><td rowspan="2">协调发展(0.145)</td><td>城乡协调(0.089)</td><td>城镇化率</td><td>0.038</td><td>0.150</td><td>0.089</td><td>+</td></tr><tr><td>产业协调(0.056)</td><td>产业发展水平</td><td>0.045</td><td>0.050</td><td>0.056</td><td>一</td></tr><tr><td rowspan="3">绿色发展(0.049)</td><td>低碳发展(0.020)</td><td>CO浓度</td><td>0.002</td><td>0.099</td><td>0.020</td><td>一</td></tr><tr><td>环境治理(0.029)</td><td>农业化肥使用量</td><td>0.002</td><td>0.062</td><td>0.016</td><td>1</td></tr><tr><td></td><td>PM25浓度</td><td>0.002</td><td>0.039</td><td>0.013</td><td>一</td></tr><tr><td rowspan="2">开放发展(0.168)</td><td>内部联系(0.057)</td><td>社会消费品零售额占GDP比重</td><td>0.035</td><td>0.067</td><td>0.057</td><td>+</td></tr><tr><td>对外开放(0.111)</td><td>进出口总额占GDP比重</td><td>0.067</td><td>0.133</td><td>0.111</td><td>+</td></tr><tr><td rowspan="4">共享发展(0.314)</td><td>医疗卫生(0.082)</td><td>医院卫生院床位数</td><td>0.149</td><td>0.033</td><td>0.082</td><td>+</td></tr><tr><td>收入分配(0.106)</td><td>人均可支配收入占人均GDP比重</td><td>0.089</td><td>0.092</td><td>0.106</td><td>+</td></tr><tr><td>公共服务(0.126)</td><td>社会福利院床位数</td><td>0.032</td><td>0.024</td><td>0.033</td><td>+</td></tr><tr><td></td><td>义务教育阶段人数</td><td>0.122</td><td>0.052</td><td>0.093</td><td>+</td></tr></table></body></html>
+
+注： $^ +$ 代表正效应指标；-代表负效应指标。下同。
+
+表1山西省县域高质量发展水平测度指标体系  
+表2生态系统服务评估模块  
+Tab.2 Ecosystem services assessment module   
+
+<html><body><table><tr><td>生态系统服务类型</td><td>计算公式</td><td>熵值法</td><td>层次分析法</td><td>综合权重</td><td>指标属性</td></tr><tr><td>水源涵养</td><td>利用InVEST模型中的产水模块计算研究区的水源涵养服 务，具体计算公式见文献[32]</td><td>0.047</td><td>0.291</td><td>0.126</td><td>+</td></tr><tr><td>土壤保持</td><td>利用InVEST模型中的土壤保持模块计算研究区土壤保持 量，具体计算公式见文献[33-34]</td><td>0.477</td><td>0.323</td><td>0.423</td><td>+</td></tr><tr><td>粮食生产服务</td><td>赵文亮等[35在相关研究中指出农作物与NDVI之间有显著的 线性关系。因此，本文通过ArcGIS软件中的掩膜提取,将山 西省NDVI栅格数据导出，并通过栅格NDVI值与耕地总 NDVI值的比值进行分配,获取研究区粮食生产服务的供给 量,公式见文献[23]</td><td>0.282</td><td>0.168</td><td>0.234</td><td>+</td></tr><tr><td>固碳服务</td><td>利用InVEST模型中4个碳库的平均碳密度乘以不同土地利 用/土地覆被类型的面积来计算生态系统碳储量，具体计算 公式见文献[23]</td><td>0.128</td><td>0.099</td><td>0.121</td><td>+</td></tr><tr><td>生境质量</td><td>InVEST模型中生境质量模块可以测算某一区域的生境质量 指数,该模型假设生境质量较高的区域生物多样性高;生境 质量指数由生境类型的总威胁水平计算获得，生境退化度、 生境质量计算公式以及相关模型参数见文献[36]</td><td>0.066</td><td>0.119</td><td>0.096</td><td>X</td></tr></table></body></html>
+
+(2）弹性系数模型
+
+弹性系数法具有揭示时空耦合特征以及耦合系统变化方向及速度的优点[37]，借鉴该方法构建高质量发展与生态系统服务弹性系数，具体公式如下：
+
+$$
+\beta = \frac { E C R } { E H R } = \frac { \left( E C _ { t } - E C _ { \circ } \right) / E C _ { \circ } } { \left( E H _ { t } - E H _ { \circ } \right) / E H _ { \circ } }
+$$
+
+式中： $\beta$ 为高质量发展与生态系统服务水平弹性系数； $E H R , E C R$ 分别表示一个时期内高质量发展水平变化率和生态系统服务变化率； $E H _ { t } , E H _ { 0 }$ 分别为 $\mathbf { \Phi } _ { t }$ 年和基年的高质量发展水平； $E C _ { _ t }$ 、 $E C _ { 0 }$ 分别表示 $\mathbf { \Phi } _ { t }$ 年和基年的生态系统服务水平。
+
+根据 $E H , E C$ 的增减变化以及弹性系数的变化，参考相关文献4，将高质量发展与生态系统服务的耦合关系进一步细化为6种类型(表4)。当两系统耦合类型为增长型时，代表两者耦合程度提升；当两系统耦合类型为粗放型时，生态系统服务的增长速率较缓，需要加强生态系统服务；当两系统耦合类型为滞缓型或滞后型时，高质量发展系统与生态系统服务之间耦合关系减弱，处于非同步的解耦模式；当高质量发展与生态系统服务之间耦合类型为衰退型或衰落型时，区域发展的协调性较差。
+
+Tab.3 Stage division of coupling coordination degree   
+
+<html><body><table><tr><td>R的取值范围</td><td>耦合协调阶段</td><td>耦合协调区间</td></tr><tr><td>0<R≤0.2</td><td>严重失调</td><td>不可接受区间</td></tr><tr><td>0.2<R≤0.4</td><td>濒临失调</td><td></td></tr><tr><td>0.4<R≤0.6</td><td>基本协调</td><td>勉强可接受区间</td></tr><tr><td>0.6<R≤0.8</td><td>中度协调</td><td>可接受区间</td></tr><tr><td>0.8<R≤1</td><td>高度协调</td><td></td></tr></table></body></html>
+
+# 2 结果与分析
+
+# 2.1山西省县域高质量发展的时空演变
+
+2.1.1高质量发展的时序变化从整体上看，2000—2018年研究区高质量发展水平呈显著上升趋势（表5)，综合指数由0.14增加至0.18,增幅达 $1 5 . 4 \%$ ,其中高质量发展水平高于均值的县区占比由 $3 5 . 8 \%$ 增长到 $4 1 . 5 \%$ ，主要得益于近年来研究区产业结构的调整促使经济增长由粗放式转向集约式转型。2000一2018年研究区变异系数呈先增大再减小趋势，表明研究区高质量发展水平区际差异呈先扩大再缩小的趋势。从时间段来看，2000一2005年为缓慢上升阶段，研究区高质量发展水平由0.140增长至0.167，增幅达 $1 9 \%$ ,但增速较缓。2005—2010年为“阵痛"阶段，研究区高质量发展水平由0.167下降至0.158，降幅达 $5 \%$ ，一方面受到研究区产业结构变化影响，以第二产业为主的县区比例达 $7 6 . 6 \%$ ,粗放的经济增长模式对以绿色发展为目标的高质量发展起到滞缓作用。另一方面与2008年金融危机有关，在政府的宏观调控下，抑制了高质量发展水平的衰退，使得高质量发展水平趋于稳定。2010一2018年为快速上升阶段，研究区高质量发展水平由0.158上升至0.189，增幅达 $2 1 \%$ ，自2010年国家发改委设立“山西省国家资源型经济转型综合配套改革试验区”,实施产业结构转变，第二产业为主的县区比例下降至 $5 4 . 2 \%$ ,大力推行技术创新，为区域高质量发展注人活力。
+
+2.1.2高质量发展的空间演变借助ArcGIS10.5空间统计工具，测算研究区高质量发展水平的空间自相关程度，从全局自相关指数Moran'sI来看(表5)，2000—2018年研究区Moran's $I$ 均大于0.136，且都通过显著性检验，表明研究区高质量发展水平具有空间正相关性。Moran'sI值虽出现波动但总体呈上升趋势，且Z得分由2.819增至3.558，表明研究区高质量综合发展有显著的空间集聚趋势，且空间集聚趋势逐渐增强。借助ArcGIS10.5的自然间断点分级方法绘制2000—2018年山西省县域高质量发展空间分布格局图(图1)。2000年研究区高质量发展水平呈现“中东部高，南北偏低”的空间格局，较高区域集中在以太原市辖区、古交市、娄烦县、阳曲县为主的中部地区及以阳泉市辖区、寿阳县、昔阳县等为主的东部地区；2005年研究区高质量发展水平中部地区变幅较小，但空间格局上出现了“东西互换”的局面，即“中西部高，南北次高”的空间格局，南部地区呈现出高质量发展较高水平集中连片区域；在2000年基础上由运城市辖区、永济市、夏县、垣曲县蔓延至晋城市辖区、阳城县等地区，北部地区形成大同市辖区、阳高县、天镇县、广灵县、浑源县为主的核心区；2010年研究区空间极化效应初现轮廓，空间格局上由2005年的"中西部高"收缩至
+
+表3耦合协调度 $( R )$ 阶段划分  
+表4耦合协调度类型划分  
+Tab.4 Classification of coupling coordination scheduling types   
+
+<html><body><table><tr><td>类型</td><td>EHR</td><td>ECR</td><td>弹性系数β</td><td>特征</td></tr><tr><td>增长型</td><td>EHR>0</td><td>ECR>0</td><td>β>1</td><td>生态系统服务增速快于高质量发展增速</td></tr><tr><td>粗放型</td><td>EHR>0</td><td>ECR>0</td><td>0<β<1</td><td>高质量发展增速快于生态系统服务增速</td></tr><tr><td>滞缓型</td><td>EHR<0</td><td>ECR>0</td><td>β<0</td><td>生态系统服务提升，高质量发展水平下降</td></tr><tr><td>滞后型</td><td>EHR>0</td><td>ECR<0</td><td>β<0</td><td>生态系统服务下降，高质量发展水平提升</td></tr><tr><td>衰退型</td><td>EHR<0</td><td>ECR<0</td><td>0<β<1</td><td>生态系统服务降速慢于高质量发展降速</td></tr><tr><td>衰落型</td><td>EHR<0</td><td>ECR<0</td><td>β>1</td><td>生态系统服务降速快于高质量发展降速</td></tr></table></body></html>
+
+# 表52000—2018年山西省县域高质量发展综合得分、变异系数以及Moran'sI
+
+Tab.5 Comprehensive score,coefficient of variation and Moran's Iof county high quality development in Shanxi   
+
+<html><body><table><tr><td colspan="4">Province from 2000 to 2018</td></tr><tr><td></td><td>2000年</td><td>2005年 2010年</td><td>2018年</td></tr><tr><td>综合得分</td><td>0.140</td><td>0.167</td><td>0.158 0.189</td></tr><tr><td>变异系数</td><td>0.476</td><td>0.435 0.546</td><td>0.464</td></tr><tr><td>Moran's I</td><td>0.188</td><td>0.173 0.136</td><td>0.228</td></tr><tr><td>Z得分</td><td>2.819</td><td>2.670 2.180</td><td>3.558</td></tr><tr><td>P值</td><td>0.00</td><td>0.00</td><td>0.00 0.00</td></tr></table></body></html>
+
+“中部高”，呈现出以太原市辖区、晋中市辖区、忻州市辖区、古交市、阳曲县、娄烦县、清徐县为主的中部核心区；2018年研究区空间极化效应显著，主要呈现以大同市辖区、广灵县、灵丘县等为主的北部核心区，以太原市辖区、晋中市辖区古交市、娄烦县等为主的中部核心区和以运城市辖区、永济市、闻喜县、夏县等为主的南部核心区，至此研究区南北中三级核心区基本成型。整体来看，2000一2010年研究区高质量发展水平空间极化效应不突出，2010一2018年研究区城市等级效应对高质量发展水平影响显著。2000—2018年研究区空间差异显著，高质量发展水平由空间离散转向空间集聚，大致形成了南北中三级核心区，中部地区极化效应突出。
+
+# 2.2山西省县域生态系统服务的时空演变
+
+2.2.1生态系统服务的时序变化由表6可知，研究区生态系统服务综合水平由2000年的0.366上升至2005年的0.368又下降至2018年的0.335，呈先上升再下降的趋势，其中生态系统服务水平高于均值的县区比例由 $5 0 \%$ 增长到 $5 0 . 9 \%$ 。2000—2018年研究区变异系数呈增大趋势，表明研究区生态系统服务差异出现区际扩大趋势。从时间上来看，2000—2005年为生态系统服务水平缓慢上升阶段，研究区生态系统服务水平由0.366增长至0.368，增幅为$0 . 5 \%$ 。2005—2018年为生态系统服务水平衰退阶段，生态系统服务水平由0.368下降至0.335，降幅达$9 \%$ ，区域生态系统服务出现回退，研究区内土地利用结构转变引发了生态系统服务功能变化，耕地面积由 $3 9 \%$ 减少至 $3 6 . 8 \%$ ,草地面积由 $2 9 . 1 \%$ 减少至$2 8 . 1 \%$ ,城镇建设用地由 $2 . 7 \%$ 增长至 $5 . 6 \%$ ，城市化扩张进程中占用耕地、草地等，给生态系统服务功能带来负向影响。
+
+2.2.2生态系统服务的空间演变由表6可知，研究区Moran's $I$ 均大于0.447,且均通过显著性检验,表明研究区生态系统服务具有明显的空间正相关性。Z得分呈先下降再上升趋势，表明研究区生态系统服务由空间离散转向空间集聚。从空间分布来看(图2），研究区生态系统服务水平受地形特征的影响整体呈现“南高北低，东高西低”的分布特点。2000年研究区南部生态系统服务能力较好的地区主要集中于太行山西麓，高值区以和顺县、左权县、黎城县、平顺县、壶关县等为主，水土保持服务能力较高，对生态系统服务支撑能力较好；西北部生态系统服务能力整体偏低，低值区以大同市辖注：底图采用自然资源部标准地图制作，审图号为GS(2016)2556号，对底图边界无修改。下同。
+
+![](images/8dee55e945f43dd570d71b9b8d22616f3071ce4bceb4029ede3e84bbe13ba25b.jpg)  
+图12000—2018年山西省县域高质量发展的时空格局  
+Fig.1 Spatial pattern of county high-quality development in Shanxi Province from 2Oo0 to 2018
+
+# 表62000—2018年山西省县域生态系统服务综合得分、变异系数以及Moran'sI
+
+Tab.6 Comprehensive score,coefficient of variation and Moran' s Iof county ecosystem services in Shanxi   
+
+<html><body><table><tr><td colspan="4">Province from 2000 to 2018</td></tr><tr><td></td><td>2000年</td><td>2005年 2010年</td><td>2018年</td></tr><tr><td>综合得分</td><td>0.366</td><td>0.368 0.365</td><td>0.335</td></tr><tr><td>变异系数</td><td>0.344</td><td>0.336 0.337</td><td>0.362</td></tr><tr><td>Moran's I</td><td>0.485</td><td>0.447 0.452</td><td>0.517</td></tr><tr><td>Z得分</td><td>6.758</td><td>6.228 6.308</td><td>7.213</td></tr><tr><td>P值</td><td>0.00</td><td>0.00 0.00</td><td>0.00</td></tr></table></body></html>
+
+区、阳高县、天镇县、左云县等为主，水土保持服务能力较低，加之西北部受风沙袭扰严重，给生态系统服务功能带来负向影响。2005年、2010年研究区生态系统服务能力整体与2000年变化不大，南高北低，东高西低的“镜像L型"空间分布格局初现轮廓。2018年研究区南部运城市辖区、芮城县和平陆县的生态系统服务水平提升，生态系统服务空间演化趋于稳定，“镜像L型"空间分布格局基本成型。整体而言，2000—2018年研究区生态系统服务空间格局较为稳定，出现自西北向东南的空间递减趋势，大体形成了南部地区以芮城县、平陆县、垣曲县、阳城县为主和东部地区以和顺县、左权县、黎城县、平顺县为主的生态系统服务供给簇[24]
+
+# 2.3山西省县域高质量发展与生态系统服务耦合关系时空演变
+
+2.3.1高质量发展与生态系统服务耦合协调的时序变化由计算结果可知,2000—2018年研究区耦合协调度整体处于濒临失调-基本协调区间内，随时序变化呈显著上升趋势，基本协调级别以上的县区由2000年的35个增加至2018年的67个，增幅达$91 \%$ 。2000一2018年研究区变异系数呈下降趋势，表明高质量发展与生态系统服务区际差异呈现缩小的趋势。从时间上看,2000—2005年为耦合协调水平的上升阶段，研究区基本协调级别以上的县区由35个增加至54个，增幅为 $54 \%$ ;2005—2010年为耦合协调水平“回落"阶段，基本协调级别以上的县区由54个下降至38个，降幅为 $2 9 \%$ ，主要与2005—2010年间高质量发展水平的衰退有关;2010一2018年为耦合协调水平“回升"阶段，研究区基本协调级别以上的县区由38个上升至67个，增幅为 $7 6 \%$ 。
+
+2.3.2高质量发展与生态系统服务耦合协调的空间变化由表7可知,研究区耦合协调度Moran's $I$ 均大于0.170，且均通过显著性检验，表明研究区耦合协调度具有空间正相关性。2000—2018年Z得分呈现上升-下降-上升的趋势，表明研究区耦合协调水平的空间集聚出现波动。从空间分布来看（图3),2000年研究区高质量发展系统与生态系统服务耦合协调空间格局基本形成中部地区以太原市辖区、晋中市辖区、古交市、娄烦县、清徐县等为主的基本协调集聚中心，呈现出“中部凸起”的趋势；2005年研究区中部地区形成了自柳林县经清徐县到平定县的基本协调横轴区，南部以运城市辖区、晋城市辖区、夏县、垣曲县、阳城县、泽州县等为主形成了南部基本协调集中连片区；2010年较2005年整体协调水平有所下降，在空间格局上由东西向的中部横轴逐渐偏移为东北-西南向，南部基本协调
+
+![](images/537a408c7a65a9577688fe237452dfc1a6bf12048ea55f94f274e61122a4c224.jpg)  
+图22000—2018年山西省县域生态系统服务的时空格局
+
+Fig.2Spatial and temporal pattern of county ecosystem services in Shanxi Province from 2Oo0 to 2018
+
+# 表72000—2018年山西省县域耦合协调度变异系数以及Moran'sI
+
+Tab.7 Variation coefficient of county coupled cooperativedispatchingand Moran'sIin Shanxi   
+
+<html><body><table><tr><td></td><td>2000年</td><td>2005年</td><td>2010年</td><td>2018年</td></tr><tr><td>变异系数</td><td>0.206</td><td>0.169</td><td>0.163</td><td>0.148</td></tr><tr><td>Moran's I</td><td>0.244</td><td>0.336</td><td>0.170</td><td>0.381</td></tr><tr><td>Z得分</td><td>3.473</td><td>4.716</td><td>2.464</td><td>5.323</td></tr><tr><td>P值</td><td>0.00</td><td>0.00</td><td>0.01</td><td>0.00</td></tr></table></body></html>
+
+集中连片区也出现不同程度的退化，这与2010年研究区高质量发展的衰退密切相关；2018年研究区耦合协调的空间分布受地形与经济影响在2010年基础上向南北延伸，基本形成了东北-西南向的协调主体轴。整体来看，2000—2010年研究区东西向的“协调主体轴"逐步成型，2010—2018年研究区的“协调主体轴"出现东北-西南向的偏移。
+
+# 2.4高质量发展与生态系统服务耦合类型时空演变
+
+2.4.1高质量发展与生态系统服务耦合类型的时序变化借助弹性系数法对2000—2018年研究区高质量发展与生态系统服务的耦合协调类型进行分类，耦合类型的变化总体呈现退化趋势(表8)，其中增长型地区占比由最初的 $3 . 7 \%$ 下降至0，粗放型地区占比由 $5 6 . 6 \%$ 下降至 $0 . 9 \%$ ，滞缓型地区占比由$1 6 . 9 \%$ 上升至 $7 6 . 4 \%$ ,滞后型地区占比由 $1 6 \%$ 下降至$1 . 9 \%$ ,衰退型地区占比由 $7 . 5 \%$ 上升至 $9 . 4 \%$ ,衰落型地区占比由0增长至 $1 2 . 3 \%$ 。从时间上看，2000—2010年耦合类型呈现出“劣盛优衰"的趋势，研究区由增长型和粗放型占主导逐步转变为衰退型占主导，出现耦合类型衰退的原因主要与研究区高质量发展水平“阵痛"有关，高质量发展出现阶段性回退使得区域内生态系统服务能力降速慢于高质量发展降速。2010一2018年耦合类型呈现出“两极分化"的趋势，研究区由衰退型占主导转变为滞缓型与衰落型相抗衡，出现抗衡局面主要与研究区高质量发展“回升”，生态系统服务水平“回退"有关，高质量发展水平与生态系统服务的耦合关系减弱。
+
+2.4.2高质量发展与生态系统服务耦合类型的空间演变由表9可知,研究区耦合类型的Moran'sI均大于0.254，且均通过显著性检验，表明研究区耦合类型有较强的空间正相关性。 $Z$ 得分2000—2018年呈下降趋势，表明研究区耦合协调水平的空间集聚出现减弱趋势。从空间上看(图4)，2000一2010年出现“S"型衰退格局，2000—2005年研究区大部分地区以粗放型为主，局部出现衰退型地区的集聚现象，主要集聚于阳泉市辖区、平定县、昔阳县、寿阳县等地区，2005—2010年研究区以衰落型地区占主导地位，且“S”型空间分布格局轮廓初现。2010—2018年研究区形成衰退型和滞后型相抗衡的"两极分化"格局，以衰退型为主的"S"型空间格局出现收缩，外围被滞缓型地区包围。
+
+# 3讨论
+
+在分析山西省县域高质量发展水平的时空演化时发现，研究区高质量发展水平呈现增长趋势，但增速较缓，同徐辉等4的研究结果相一致，根据山西省能源局关于“全省生产煤矿生产能力情况”的
+
+![](images/b6a16080ac04a2e319210811dc1c42b240552b7ff2bc392aca4244adfb9fcfe7.jpg)  
+图32000—2018年山西省县域高质量发展与生态系统服务耦合协调度的时空格局
+
+Fig.3Temporalandspatialpattrnofcouplingcordination degree betweencountyhigh-qualitydevelopmentandecosystem services in Shanxi Province from 20oO to 2018
+
+# 表82000—2018年山西省县域耦合类型变化趋势
+
+Tab.8 Change trend of county coupling types in Shanxi Province from 200o to 2018   
+
+<html><body><table><tr><td>耦合类型</td><td>2000- -2018年</td><td>2005- -2010年</td><td>2010- -2018年</td></tr><tr><td>增长型</td><td>3.7%</td><td>0</td><td>0</td></tr><tr><td>粗放型</td><td>56.6%</td><td>13.2%</td><td>0.9%</td></tr><tr><td>滞缓型</td><td>16.9%</td><td>30.2%</td><td>76.4%</td></tr><tr><td>滞后型</td><td>16.0%</td><td>11.3%</td><td>1.9%</td></tr><tr><td>衰落型</td><td>7.5%</td><td>46.2%</td><td>9.4%</td></tr><tr><td>衰退型</td><td>0</td><td>0</td><td>12.3%</td></tr></table></body></html>
+
+# 表92000—2018年山西省县域耦合类型Moran'sI
+
+Tab.9 County coupling type Moran's Iin Shanxi Provincefrom 2000 to 2018   
+
+<html><body><table><tr><td colspan="2">2000- -2005年</td><td>2005- -2010年</td><td>2010- -2018年</td></tr><tr><td>Moran's I</td><td>0.337</td><td>0.255</td><td>0.254</td></tr><tr><td>Z得分</td><td>4.720</td><td>3.590</td><td>3.506</td></tr><tr><td>P值</td><td>0.00</td><td>0.00</td><td>0.00</td></tr></table></body></html>
+
+公告，在2020年12月底之前，山西省一共有668处生产煤矿[38],长期以来高强度开采煤炭，生态环境脆弱，生态承载力低，区域高质量发展内生动力较弱。2000年、2005年、2010年、2018年山西省产业发展水平为1.06、1.66、1.75、0.86,产业结构出现由失衡转向协调的波动。截止到2021年，研究区R&D投入经费 $2 1 1 . 1 { \times } 1 0 ^ { 9 }$ 元,仅为全国平均水平的 $2 6 . 8 \%$ ，对于区域高质量发展而言，科技创新能力能够改善区域产业结构，使得区域要素投入产出合理，从而实现区域高质量发展。本文基于县域尺度进行分析，在R&D机构数、专利申请数、城镇化率等指标上，市辖区的创新环境、对外开放以及公共服务等要素投入要比各县区的强度更大，因而出现城市等级效应对应高质量发展水平
+
+在分析山西省县域生态系统服务水平时空演化时发现，研究区生态系统服务能力主要受地形影响，较好区域集中于太行山区、吕梁山区，但吕梁山区生态系统服务能力明显低于太行山区，主要因为吕梁山位于典型黄土丘陵沟壑区，水土流失严重，单位面积水源涵养服务仅为 $3 2 0 . 9 ~ \mathrm { m } ^ { 3 } { \cdot } \mathrm { h m } ^ { - 2 }$ ，低于省内平均水平 $20 \%$ ，且山区附近是矿产资源集中连片分布区，人类活动频繁。截止2021年，吕梁山区共有煤矿91座，占全省煤矿数量比例的 $1 3 . 6 2 \%$ ，粗放的开采方式与不到位的治理措施加重了生态系统服务的负担，削弱了区域生态系统服务水平。研究区西北部出现生态系统服务低值区，与区域内自然气候条件、风沙灾害袭扰有关，该区域处于中温带大陆性半干旱季风气候区，大风天气多且降雨较少，土壤保持能力平均水平为 $3 7 . 9 5 \mathrm { t } \cdot \mathrm { h m } ^ { - 2 }$ ，仅为省内平均水平的 $6 4 \%$ ,决定了其生态系统服务能力上限不高。
+
+在分析山西省县域高质量发展和生态系统服务耦合协调关系过程时发现，忻州市下辖偏关县、河曲县、保德县、五寨县、岢岚县、神池县、宁武县和静乐县8个县区2000—2018年耦合协调持续处于濒临失调阶段，经济要素投入少，县区之间由于地形限制，彼此之间要素流动较弱，2000年、2005年、
+
+![](images/d5d1851ce30100e35f2f0463e8071bb35a1ab590190ba6ff8e63e82f3ffc34d7.jpg)  
+图42000—2018年山西省县域高质量发展与生态系统服务耦合类型的时空格局
+
+Fig.4Spatialand temporal patternofcoupling typesofcounty high-qualitydevelopmentand ecosystemservices in Shanxi Province from 2000 to 2018
+
+2010年、2018年8个县区GDP均值为 $2 . 7 \times 1 0 ^ { 8 }$ 元、$8 . 4 \times 1 0 ^ { 8 }$ 元、 $2 2 \times 1 0 ^ { 8 }$ 元 $. 5 1 . 5 \times 1 0 ^ { 8 }$ 元，仅占全省GDP平均水平的 $1 7 . 5 \% . 2 1 . 9 \% . 2 6 . 4 \% . 1 7 . 5 \%$ ，经济发展滞后，规模以上工业总产值均值为 $0 . 8 \times 1 0 ^ { 8 }$ 元、 $. 5 . 7 \times 1 0 ^ { 8 }$ 元、 $1 7 . 4 \times 1 0 ^ { 8 }$ 元、 $3 0 \times 1 0 ^ { 8 }$ 元，仅为全省规模以上工业总产值均值的 $4 \% 1 4 \% 1 , 1 5 . 7 \% , 2 6 \%$ ，创新环境较差，使得高质量发展水平内生驱动力弱，但由于该区域多山地连绵，开发难度大，人为干扰较少，不同的地形直接影响土地利用方式，使得区域生态系统服务能力出现"锁定效应”，山地的生态系统供给服务能力较平原、盆地强[39],区域内出现生态系统服务优于高质量发展水平，使得两者耦合协调持续性处于濒临失调状态。
+
+从县域视角出发，以高质量发展与生态系统服务为研究对象，揭示了研究区高质量发展与生态系统服务耦合协调的时空分异规律，但同时也存在一些需要改进的地方：一方面InVEST模型中根系深度、蒸散系数等个别参数取值主要参考相关文献，致使研究结果存在一定误差;另一方面，本文仅揭示了高质量发展与生态系统服务耦合协调度的时空分异规律，并未探究耦合系统的影响因素。因此，在今后的研究中应尽可能开展野外观测，提升模型数据精准度，同时进一步对山西省县域高质量发展与生态系统服务耦合系统的影响因素进行探究，以揭示更为合理、科学的发展路径。
+
+# 4结论
+
+本文对山西省2000—2018年县域高质量发展与生态系统耦合的时空演变进行分析，得出以下结论：
+
+（1）研究区高质量发展具有较强的时间累加效应且空间分异规律较强，高质量发展水平随时间推移逐渐增高，在空间分布上，由离散转向集聚，基本形成了南北中三级核心，中部地区极化效应突出，研究区内城市的等级效应对高质量发展水平影响效果显著。
+
+（2）研究区生态系统服务在时间尺度和空间格局上均具有锁定效应，时空演变特征与研究区地形分布具有一致性，大体形成了南部地区和东部地区生态系统服务供给簇，呈现出“镜像L型"空间分布格局。
+
+（3）生态系统服务整体上滞后于高质量发展，耦合水平呈上升趋势，在空间格局上呈现出由“东西向"转变为“东北-西南"的协调主体轴。
+
+（4）研究区高质量发展与生态系统服务的耦合类型变化以异向变化为主，整体呈倒退发展趋势，出现衰退型和滞后型相抗衡的“两极分化"格局，形成了收敛的“S"型衰减区，增长型作为耦合类型中的理想模式，在研究区极少。
+
+# 参考文献(References）：
+
+[1]任保平,李禹墨.新时代我国高质量发展评判体系的构建及其 转型路径[J].陕西师范大学学报(哲学社会科学版),2018,47 (3):105-113.[Ren Baoping,Li Yumo.On the construction of Chinese high-quality development evaluation system and the path of its transformation in the new era[J]. Journal of Shaanxi Normal University(Philosophyand Social Sciences Edition),2018,47(3): 105-113.]   
+[2]欧进锋,许抄军,刘雨骐.基于"五大发展理念"的经济高质量发 展水平测度——广东省21个地级市的实证分析[J].经济地理, 2020,40(6): 77-86.[Ou Jinfeng,Xu Jianjun,Liu Yuqi. The measurement of high-quality development level from five development concepts: Empirical analysis of 21 prefecture-level cities in Guangdong Province[J]. Economic Geography,2020,40(6): 77-86.]   
+[3]王蔷,丁延武,郭晓鸣.我国县域经济高质量发展的指标体系构 建[J].软科学,2021,35(1):115-119,133.[Wang Qiang,Ding Yanwu,Guo Xiaoming. Construction of the indicator system of economic high-quality development of counties in China[J]. Soft Science,2021,35(1): 115-119,133.]   
+[4]徐辉,师诺,武玲玲,等.黄河流域高质量发展水平测度及其时 空演变[J].资源科学,2020,42(1):115-126.[Xu Hui,Shi Nuo, Wu Lingling,et al.High-quality development level and its spatiotemporal changes in the Yellow River Basin[J].Resources Science,2020,42(1): 115-126.]   
+[5]王伟,王成金.东北地区高质量发展评价及其空间特征[J].地理 科学,2020,40(11): 1795-1802.[Wang Wei,Wang Chengjin. Evaluation and spatial characteristics of high-quality development in Northeast China[J]. Scientia Geographica Sinica,2020,40(11): 1795-1802. ]   
+[6]化祥雨,金祥荣,吕海萍,等.高质量发展耦合协调时空格局演 化及影响因素——以浙江省县域为例[J].地理科学,2021,41 (2): 223-231. [Hua Xiangyu,Jin Xiangrong,Lyu Haiping, et al. Spatial-temporal pattern evolution and influencing factors of highquality development coupling coordination: Case on counties of Zhejiang Province[J]. Scientia Geographica Sinica,2O21,41(2): 223-231.]   
+[7]Gene M G,Alan B K.Environmental impacts of a North American free trade agreement[J]. CEPR Discussion Papers,1992,8(2): 223- 250.   
+[8]Willim A B. Chapter 28 economic growth and the environment: A review of theory and empirics[J].Handbook of Economic Growth, 2005,1: 1749-1821.   
+[9]Eyup D, Roula IL.The impact of economic structure to the Environmental Kuznets Curve (EKC) hypothesis:Evidence from European countries[J]. Environmental Science and Pollution Research, 2020,27(11): 12717-12724.   
+[10]Rahman S, Chen S,Saleem N,et al.Financial development and its moderating role in Environment Kuznets Curve: Evidence from Pakistan[J]. Environment Science and Pollution Research,2019, 26(19): 19305-19319.   
+[11]Booth H. The Environmental Kuznets Curve[J]. World Economics, 2017,18(1): 145-152.   
+[12]Levrel H, Kerbiriou C, Couvet D,et al. OECD pressure-state-response indicators for managing biodiversity:A realistic perspective for a French biosphere reserve[J].Biodiversity and Conservation,2009,18(7): 1719-1732.   
+[13]JillL, Caviglia H,Dustin C,et al. Taking The“u”out of Kuznets: A comprehensive analysis of the EKC and environmental degradation[J].Ecological Economics,2009,68(4): 1149-1159.   
+[14]崔盼盼,赵媛,夏四友,等.黄河流域生态环境与高质量发展测 度及时空耦合特征[J].经济地理,2020,40(5):49-57,80.[Cui Panpan, Zhao Yuan, Xia Siyou,et al.Level measures and temporal and spatial coupling analysis of ecological environment and high-quality development in the Yellow River Basin[J]. Economic Geography,2020,40(5): 49-57, 80.]   
+[15]马丽,金凤君,刘毅.中国经济与环境污染耦合度格局及工业结 构解析[J].地理学报,2012,67(10):1299-1307.[MaLi,Jin Fengjun,Liu Yi. Spatial pattern and industrial sector structure analysis on the coupling and coordinating degree of regional economic development and environmental pollution in China[J].Acta Geographica Sinica,2012,67(10): 1299-1307.]   
+[16] 刘海猛,方创琳,李咏红.城镇化与生态环境"耦合魔方"的基本 概念及框架[J].地理学报,2019,74(8):1489-1507.[Liu Haimeng,Fang Chuanglin,Li Yonghong.The coupled human and natural cube: A conceptual framework for analyzing urbanization and eco-environment interactions[J]. Acta Geographica Sinica,2019, 74(8): 1489-1507.]   
+[17] 欧阳晓,李勇辉,徐帆,等.城市用地扩张与生态环境保护的交 互作用研究——以长株潭城市群为例[J].经济地理,2021,41 (7):193-2O1.[Ouyang Xiao,Li Yonghui, Xu Fan,et al. Interaction between urban land expansion and ecological environment protection: Case study of Changsha-Zhuzhou- Xiangtan urban agglomeration[J]. Economic Geography,2021,41(7): 193-201.]   
+[18] 刘琳柯,梁流涛,高攀,等.黄河流域生态保护与高质量发展的 耦合关系及交互响应[J].自然资源学报,2021,36(1):176-195. [Liu Linke,Liang Liutao,Gao Pan,et al. Coupling relationship and interactive response between ecological protection and highquality development in the Yelow River Basin[J]. Journal of Natural Resources,2021,36(1): 176-195.]   
+[19] 邵鹏,王齐,单英骥.基于文本分析的黄河流域生态保护与高质 量发展研究[J].干旱区资源与环境,2020,34(11):78-83.[Shao Peng,Wang Qi, Shan Yingji. Research on ecological protection and high-quality development of the Yellow River Basin Based on text analysis[J]. Journal of Arid Land Resources and Environment, 2020,34(11): 78-83.]   
+[20] 李双成,谢爱丽,吕春艳,等.土地生态系统服务研究进展及趋 势展望[J].中国土地科学,2018,32(12):82-89.[Li Shuangcheng, Xie Aili, Lyu Chunyan, et al. Research progress and prospect for land ecosystem services[J]. China Land Science,2018,32(12): 82- 89.]   
+[21] Costanza R,d'Arge R,de G R,et al. The value of the world's ecosystem services and natural capital[J]. Nature,1997,387: 253- 260.   
+[22] 王蓓,赵军,仲俊涛.2005—2015年石羊河流域生态系统服务 时空分异[J].干旱区研究,2019,36(2):474-485.[Wang Bei, Zhao Jun, Zhong Juntao.Spatiotemporal diffrentiation of ecosystem services in the Shiyang River basin from 2005 to 2015[J]. Arid Zone Research,2019,36(2): 474-485.]   
+[23]赵雪雁,杜昱璇,李花,等.黄河中游城镇化与生态系统服务耦 合关系的时空变化[J].自然资源学报,2021,36(1):131-147. [Zhao Xueyan,Du Yuxuan,Li Hua,etal.Spatio-temporalchanges of the coupling relationship between urbanization and ecosystem services in the Midde Yellow River[J]. Journalof NaturalResources,2021,36(1): 131-147.]   
+[24]申嘉澍,李双成,梁泽,等.生态系统服务供需关系研究进展与 趋势展望[J].自然资源学报,2021,36(8):1909-1922.[Shen Jiashu,Li Shuangcheng, Liang Ze,et al. Research progress and prospect for the relationships between ecosystem services supplies and demands[J]. Journal of Natural Resources,2021,36(8): 1909- 1922.]   
+[25] 蓝以信,张庆,李婵.多维发展导向视角下江苏省县域生态效率 差异化评价[J].生态学报,2021,41(23): 9216-9227.[Lan Yixin, Zhang Qing,Li Chan. Diferential evaluation of county eco- fficiency in Jiangsu Province from the perspective of multi-dimensional development orientation[J].Acta Ecologica Sinica, 2021,41 (23): 9216-9227.]   
+[26] 刘海龙,谢亚林,贾文毓,等.山西省生态安全综合评价及时空 演化[J].经济地理,2018,38(5):161-169.[Liu Hailong, Xie Yalin,Jia Wenyu,et al. Ecological security assessment and spatialtemporal evolution of Shanxi Province[J].Economic Geography, 2018,38(5): 161-169.]   
+[27]包玉斌.基于InVEST模型的陕北黄土高原生态服务功能时空 变化研究[D].西安：西北大学,2015:17-34.[Bao Yubin.Temporal and Spatial Change of Ecological Services on Loess Plateau of Shaanxi by InVEST ModelD]. Xi'an:NorthwesternUniversity 2015: 17-34.]   
+[28] 冯雨雪,李广东.青藏高原城镇化与生态环境交互影响关系分 析[J].地理学报,2020,75(7):1386-1405.[Feng Yuxue,Li Guangdong. Interaction between urbanization and eco-environment in Tibetan Plateau[J].Acta Geographica Sinica,2020,75(7): 1386-1405.]   
+[29] 连旭.县域农业经济发展评价及空间分异研究—基于新疆 83个县面板数据的实证[J].干旱区资源与环境,2016,30(12): 73-81.[Lian Xu.Evaluation and spatial differentiation of countylevel agricultural economy development in Xinjiang[J].Journal of Arid Land Resources and Environment,2016,30(12): 73-81.]   
+[30] 徐昔保,杨桂山,江波.湖泊湿地生态系统服务研究进展[J].生 态学报,2018,38(20):7149-7158.[Xu Xibao,Yang Guishan,Jiang Bo.Progress in lake-wetland ecosystem services[J].Acta Ecologica Sinica,2018,38(20): 7149-7158.]   
+[31] 李孝永,匡文慧.北京城市土地利用/覆盖变化及其对雨洪调节 服务的影响[J].生态学报,2020,40(16):5525-5533.[Li Xiaoyong,Kuang Wenhui.Urban land use/cover change and its impact on urban flood regulation ecosystem service in Beijing[J].Acta Ecologica Sinica,2020,40(16): 5525-5533.]   
+[32] 刘宥延,刘兴元,张博,等.基于InVEST模型的黄土高原丘陵区 水源涵养功能空间特征分析[J].生态学报,2020,40(17):6161- 6170.[Liu Yuyan, Liu Xingyuan, Zhang Bo,et al. Spatial features analysis of water conservation function in the hilly areas of the Loess Plateau based on InVEST model[J].Acta Ecologica Sinica, 2020,40(17): 6161-6170.]   
+[33] 陈映,邵卓,桂峰,等.基于InVEST模型的舟山群岛生态系统服 务评估研究[J].国土与自然资源研究,2020,42(4):47-50. [Chen Yi, Shao Zhuo, Gui Feng, et al. Ecosystem services assessment of Zhoushan islands based on InVEST model[J]. Territory & Natural Resources Study,2020,42(4): 47-50.]   
+[34]仲俊涛,王蓓,米文宝,等.基于InVEST模型的宁夏盐池县禁牧 草地生态补偿标准空间识别[J].地理科学,2020,40(6):1019- 1028.[Zhong Juntao,Wang Bei,Mi Wenbao,et al. Spatial recognition of ecological compensation standard for grazing grassland in Yanchi County based on InVEST model[J]. Scientia Geographica Sinica,2020,40(6):1019-1028.]   
+[35] 赵文亮,贺振,贺俊平,等.基于MODIS-NDVI的河南省冬小麦 产量遥感估测[J].地理研究,2012,31(12):2310-2320.[Zhao Wenliang,He Zhen,He Junping,et al. Remote sensing estimation of winter wheat yield in Henan Province based on MODIS-NDVI data[J]. Geographical Research,2012,31(12): 2310-2320.]   
+[36]孙彦旭,周自翔,米朝娟.基于土地利用覆被变化(LUCC)的人 类活动与流域生物多样性灰色关联分析[J].干旱区研究, 2021,38(6): 1782-1792.[Sun Yanxu, Zhou Zixiang,Mi Chaojuan. Grey correlation analysis of human activities and watershed biodiversity based on land use and cover change[J].Arid Zone Research,2021,38(6): 1782-1792.]   
+[37] 邓宗兵,宗树伟,苏聪文,等.长江经济带生态文明建设与新型 城镇化耦合协调发展及动力因素研究[J].经济地理,2019,39 (10): 78-86.[Deng Zongbing, Zong Shuwei, Su Congwen, et al.Research on coupling coordination development between ecological civilization construction and new urbanization and its driving forces in the Yangtze River Economic Zone[J]. Economic Geography, 2019,39(10): 78-86.]   
+[38] 乔栋,赵杰,谢亚龙,等.山西省智能机器人应用现状及潜力研 究[J].电子技术与软件工程,2021,10(2):120-123.[Qiao Dong, Zhao Jie,Xie Yalong,et al. Research on application status and potential of intelligent robot in Shanxi Province[J]. Electronic Technology & Software Engineering,2021,10(2): 120-123.]   
+[39]谢泽阳.赣南地区生态系统生产总值时空演变及驱动力研究 [D].南昌:南昌大学,2021:44-45.[Xie Zeyang.Spatio-temporal Evolution and Driving Forces of Gross Ecosystem Product in Southern Jiangxi Province[D]. Nanchang: Nanchang University, 2021: 44-45.]
+
+# Temporal and spatial evolution characteristics of the coupling between county high-quality development and ecosystem services in Shanxi Province
+
+LIU Hailong'²， TANG Fei'， DING Ya'nan'， ZHANG $\mathrm { Y u } ^ { 1 }$ ，GUO Xiaojiaʰ², TAN Jingbai³， CHENG Yuel   
+(1.School ofGeographical Sciences,Shanxi Normal University,Taiyuan O3Ooo0,Shanxi,China;2.Instituteof   
+Human Geography,Shanxi NormalUniversity,Taiyuan O30ooo,Shanxi,China；3.School of MechanicsandCivil Architecture,Northwest University of Technology,Xi'an 71O129,Shaanxi, China)
+
+Abstract:Based on the data of107counties and regions in Shanxi Province in2000,2005,2010,and2018,this paper constructs the evaluation index system of high-quality development in Shanxi Province,uses the InVEST model to calculate the ecosystem services of counties and regions in Shanxi Province,and analyzes the spatiotemporal coupling characteristics of the high-quality development system and ecosystem services of counties in Shanxi Province by using the coupling coordination model and elasticity coeffcient method.The following results are presented.(1)The grade effectofcities has a significant impactonthe level of high-quality development. The spatial diferentiation law of high-quality development is strong,which roughly forms the north-south-middle three-level cores,and the polarization effect in the central region is prominent.(2)Ecosystem services in the study area have locking effects in time scale and spatial pattern.The temporal and spatial evolution characteristics are consistent with the topographic distribution of the study area,showing a stable“miror L-shaped” spatial distribution patern. (3）Ecosystem services in the studyarea generally lag behind high-quality development. From the perspective of the time change,the coupling level shows an upward trend.From the perspective of spatial patern characteristics,ecosystem services and the high-quality development show the coordination main axis of“northeast-southwest.”(4) The coupling type of high-quality development and ecosystem services in he study area mainly changes in different directions，generally showing a retrogressive development trend. A “polarization” pattern, in which recession and lag types compete,is also observed,forming a convergent“S” type attenuation area. As an ideal model of coupling type, growth type is remarkably few in the study area.
+
+Keywords: high quality development； ecosystem services；coupling coordination degree model; counties in Shanxi Province

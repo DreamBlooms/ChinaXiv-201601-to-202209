@@ -1,0 +1,726 @@
+[
+    {
+        "type": "text",
+        "text": "具有未知参数的不确定分数阶Sprott-C系统的Terminal滑模同步",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "闫丽宏",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(咸阳师范学院数学与信息科学学院，陕西 咸阳 712000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于滑模控制的优良性能，论文探讨了利用Terminal滑模控制实现分数阶混沌系统的有限时间同步问题，给出了滑模控制实现具有未知参数和扰动的分数阶 Sprott-C 驱动—响应系统（阶数 $0 { < a < } 1$ ）的同步结论。通过构造合适的滑动模态曲面，针对系统未知参数上界已知和未知两种情况，设计了合适的分数阶控制器和参数自适应率，结合分数阶微分方程相关理论和有限时间稳定性定理，证明了实现该系统的同步控制的结论，并对未知参数和扰动上界进行了准确估计。最后选取适当参数，通过数值仿真，验证了所给结论的有效性和可行性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：分数阶混沌系统；滑模控制；同步；参数估计 中图分类号：TP273.2 doi:10.3969/j.issn.1001-3695.2018.04.0344 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Terminal sliding-mode synchronization of uncertain fractal Sprott-C chaotic system with unknown parameters ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yan Lihong (School of Mathematics &Information Science,Xianyang Normal University,Xianyang Shaanxi 7120oo,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Basingongoodperformanceofsliding-modecontroling,thepaperinvestigatedfiite-timesynchonzationoffractalorderchaoticsystembyTerminal sliding-modecontrolstrategy,andrealizedsynchronizationofdrive-responsechaotic SprotC system (with the fractal order $\\mathfrak { a }$ $0 { < } \\mathfrak { a } { < } 1$ ) with unknown parameters and disturbance by designing property sliding-mode surface andfractal-order controler.Moreover,one estimates the unknownparameters and upper boundof the unknownsystematic parameters and disturbance sucesfully bysome appropriate adaptive update laws combining with fractal-order diferential equations theoryandfinite-timestabilitytheory.Finallybychoosingproper parameters,numerical simulationsprovides illustration to show the effectiveness and feasibility of the theoretical results . ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: fractional-order chaotic system; Terminal sliding-mode control; synchronization; parameter estimation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "混沌系统广泛存在于自然科学和社会领域中，是一种呈现混乱无序却包含内部规则的确定性非线性动力系统。20多年前，OttGrebogi和Yorke成功将混沌系统镇定到不稳定周期轨道上，接着，Ditto和Roy完成了混沌控制的实验，这为混沌电路控制、保密通信、流体湍流分析[I\\~3]等问题的研究开辟了道路。目前，混沌控制的主要方法有自适应控制[4,5]、模糊控制[6]、最优控制[7]、神经网络控制[8]、滑模控制[9,10]等智能控制方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "其中滑膜控制近年来受到了许多学者的关注。在普通的滑模控制中，通常会选择一个线性滑模面，为了获得更好的性能，Xu 等人提出了Terminal 滑模控制策略[I]，可使系统在有限时间内实现对期望状态的完全跟踪。文献[12]探讨了非奇异Terminal滑模控制器的设计问题，实现了含有不确定项的混沌系统的渐近同步。Tao等人[13]采用模糊规则设计了Terminal滑模控制器的切换项，并通过自适应算法对其进行了自适应模糊调节，实现了非匹配不确定性时变系统的Terminal滑模控制。庄开宇等人[14]中针对系统参数摄动和外界干扰等不确定性因素上界未知情况，实现了MIMO系统的自适应Terminal控制器的设计。Yang 等人[15]提出了非奇异Terminal滑模控制方法，提升了系统到达滑模面并处于滑动模态时的收敛速度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，分数阶微积分得到了快速的发展并被应用到诸如非正常扩散、信号处理、量子力学、系统控制等领域。与传统整数阶理论相比，分数阶非线性系统含有更加丰富的响应性能和鲁棒性。而滑模控制亦具有响应速度快、鲁棒性强和物理实现简单等优点。因此，利用滑模控制方法来实现分数阶混沌系统的同步，将极大地提高控制效率。基于此，文献[16]研究了含有建模不确定参数和外部扰动的整数阶混沌系统的滑膜控制问题。邓立为等人[17]利用输出反馈滑模控制实现了分数阶超混沌系统的同步。文献[4,5,8,19]对分数阶(超)混沌系统的自适应滑模控制问题进行了分析研究。李特等人[20]设计了一种滑模控制器，利用分数阶微积分理论，实现了两个不确定分数阶混沌系统的同步控制，并辨识出了误差系统中不确定项及外界干扰项的边界。文献[21]基于lyapunov 稳定性理论和分数阶微积分的Laplace变换，研究了分数阶Genesio-Tesi系统的滑模混沌同步。高俊山等人[22]结合自适应控制理论和滑模控制理论，提出较传统滑模面具有更快收敛速度的Terminal滑模面，设计的自适应滑模控制律保证了系统在有限时间内收敛到滑模面。由此可见，利用滑模控制实现分数阶混沌系统的同步具有重要的研究价值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于实际系统，由于建模误差和工作环境等因素的影响，随机和外部扰动是客观存在的。综合以上考虑，本文将提出一种新的分数阶滑模面，并设计Terminal滑模同步算法，证明误差动态系统可在有限时间内收敛到平衡点，从而实现含有未知参数和扰动的分数阶Sprott-C驱动-响应混沌系统的同步，同时在线估计未知参数和扰动上界。最后利用MATLAB 数值仿真验证所给同步方案的正确性和有效性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 模型建立和知识预备",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文研究含有未知参数 $a _ { i } , i = 1 , 2 , 3$ 的广义分数阶Sprott-$\\mathrm { C } ^ { [ 2 3 ] }$ 混沌驱动系统：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { D _ { t } ^ { \\alpha } x _ { 1 } = a _ { 1 } ( x _ { 2 } - x _ { 1 } ) } \\\\ { D _ { t } ^ { \\alpha } x _ { 2 } = - a _ { 3 } x _ { 2 } - x _ { 1 } x _ { 3 } } \\\\ { D _ { t } ^ { \\alpha } x _ { 3 } = x _ { 2 } ^ { 2 } - a _ { 2 } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $x _ { 1 } , x _ { 2 } , x _ { 3 }$ 分别为该系统的状态变量，分数阶次 $\\alpha$ 满足：$0 < \\alpha < 1$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选取含有未知有界随机扰动和外部扰动的分数阶响应系统为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { D _ { t } ^ { \\alpha } y _ { 1 } = \\hat { a } _ { 1 } ( y _ { 2 } - y _ { 1 } ) + r _ { 1 } ( y ) + \\omega _ { 1 } ( t ) + u _ { 1 } ( t ) } \\\\ { D _ { t } ^ { \\alpha } y _ { 2 } = - \\hat { a } _ { 3 } y _ { 2 } - y _ { 1 } y _ { 3 } + r _ { 2 } ( y ) + \\omega _ { 2 } ( t ) + u _ { 2 } ( t ) } \\\\ { D _ { t } ^ { \\alpha } y _ { 3 } = y _ { 2 } ^ { 2 } - \\hat { a } _ { 2 } + r _ { 3 } ( y ) + \\omega _ { 3 } ( t ) + u _ { 3 } ( t ) } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\hat { a } _ { i }$ 是未知参数 $a _ { i }$ 的估计值。 $y = ( y _ { 1 } , y _ { 2 } , y _ { 3 } )$ ， $r _ { i } ( y )$ @(t), $i = 1 , 2 , 3$ 是满足假设1的具有未知上界的随机扰动和外部扰动项。 $u _ { i } ( t )$ 为滑模同步控制器。对于不确定项和外部扰动，有如下假设：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设1假设存在未知有界正数 $r _ { i } , ~ \\omega _ { i }$ ，使得随机扰动和外部扰动项分别满足：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left\\{ \\begin{array} { l l } { \\left\\| r _ { i } ( y ) \\right\\| \\leq r _ { i } , } \\\\ { \\left\\| \\omega _ { i } ( t ) \\right\\| \\leq \\omega _ { i } , } \\end{array} \\right. \\ i = 1 , 2 , 3 . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\left\\| \\cdot \\right\\|$ 表示欧氏范数。这一假设在实践应用中是合理的，因为实际发生的信号均是有界的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设 $\\hat { r } _ { i } , \\hat { \\omega } _ { i }$ 分别是未知随机和外部扰动上界 $r _ { i } , d _ { i }$ 的估计值,且满足如下的自适应率：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left\\{ \\begin{array} { l l } { \\dot { \\hat { r } } _ { i } = k _ { 1 } \\left| s _ { i } \\right| , \\hat { r } _ { i } ( 0 ) = \\hat { r } _ { i 0 } , } \\\\ { \\dot { \\hat { \\omega } } _ { i } = k _ { 2 } \\left| s _ { i } \\right| , \\hat { \\omega } _ { i } ( 0 ) = \\hat { \\omega } _ { i 0 } , } \\end{array} \\right. \\ i = 1 , 2 , 3 . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "记 $\\tilde { r } _ { i } = \\hat { r } _ { i } - r _ { i } , \\tilde { \\omega } _ { i } = \\hat { \\omega } _ { i } - \\omega _ { i } , i = 1 , 2 , 3$ 分别为上界 $r _ { i } , \\omega _ { i }$ 的估计误差。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "驱动一响应系统式(1)和(2)之间的误差为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne ( t ) = y ( t ) - x ( t )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "则系统式(1)和(2)之间的同步问题等价于误差系统式(5)的稳定性问题。当对响应系统施加合适的滑模控制器后，误差 $e ( t )$ 在零点稳定即意味着系统式(1)和(2)之间实现滑模同步。故可将同步问题转换为稳定性问题来研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对误差动态方程(5)求导可得",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { t } ^ { \\alpha } e ( t ) = D _ { t } ^ { \\alpha } y ( t ) - D _ { t } ^ { \\alpha } x ( t )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "即 ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { D _ { t } ^ { \\alpha } e _ { 1 } = \\hat { a } _ { 1 } ( e _ { 2 } - e _ { 1 } ) + \\widetilde { a } _ { 1 } ( x _ { 2 } - x _ { 1 } ) + r _ { 1 } ( y ) } \\\\ { \\qquad + \\omega _ { 1 } ( t ) + u _ { 1 } ( t ) } \\\\ { D _ { t } ^ { \\alpha } e _ { 2 } = - \\hat { a } _ { 3 } e _ { 2 } - \\widetilde { a } _ { 3 } x _ { 2 } - y _ { 1 } y _ { 3 } + x _ { 1 } x _ { 3 } + r _ { 2 } ( y ) } \\\\ { \\qquad + \\omega _ { 2 } ( t ) + u _ { 2 } ( t ) } \\\\ { D _ { t } ^ { \\alpha } e _ { 3 } = ( y _ { 2 } + x _ { 2 } ) e _ { 2 } - \\widetilde { a } _ { 2 } + r _ { 3 } ( y ) + \\omega _ { 3 } ( t ) } \\\\ { \\qquad + u _ { 3 } ( t ) } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了讨论方便，引入如下假设和引理：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设2假设未知参数 $a _ { i }$ 满足约束条件：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\| \\boldsymbol { a } _ { i } \\right\\| \\leq \\overline { { \\boldsymbol { a } } } _ { i } , i = 1 , 2 , 3\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\overline { { a } } _ { i }$ 是正常数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "引理1有限时间稳定性定理[24]。假设存在连续正定的函数 $V ( t )$ 满足下面的微分不等式:",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\dot { V } ( t ) \\le - \\varepsilon V ^ { \\alpha } ( t ) , \\forall t \\ge t _ { 0 } , V ( t _ { 0 } ) \\ge 0 , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\varepsilon > 0 , 0 < \\alpha < 1$ ，那么对于任意给定的 $t _ { 0 }$ ， $V ( t )$ 满足下面的微分不等式：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$V ^ { 1 - \\alpha } ( t ) \\leq V ^ { 1 - \\alpha } ( t _ { 0 } ) - \\varepsilon ( 1 - \\alpha ) ( t - t _ { 0 } ) , t _ { 0 } \\leq t \\leq t _ { f i n } .$ 且当$\\forall t \\ge t _ { f i n } , V ( t ) \\equiv 0$ ，其中有限时间 $t _ { f i n }$ 为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt _ { \\it f i n } = t _ { 0 } + \\frac { V ^ { 1 - \\alpha } ( t _ { 0 } ) } { \\varepsilon \\cdot ( 1 - \\alpha ) } \\circ\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 分数阶Sprott-C系统的Terminal滑模控制",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1有限时间Terminal滑模控制",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "参照文献[19]中对传统整数阶滑模面的设计，本文进行了改进，将其推广到分数阶情形，设计如下形式的Terminal滑模面：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { s _ { i } ( t ) = D _ { t } ^ { \\alpha - 1 } e _ { i } ( t ) + } } \\\\ { { \\eta _ { i } { \\int _ { 0 } ^ { t } } \\mathrm { s g n } ( D _ { t } ^ { \\alpha - 1 } e _ { i } ( \\upsilon ) ) \\Big | D _ { t } ^ { \\alpha - 1 } e _ { i } ( \\upsilon ) \\Big | ^ { \\theta } d \\upsilon } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\scriptstyle 0 < \\alpha < 1 , \\ 0 < \\theta < 1 , \\ \\eta _ { i } > 0$ 为增益系数，记 $\\eta = \\mathrm { m i n }$ $\\eta _ { 1 } , \\eta _ { 2 } , \\eta _ { 3 } \\}$ 。对该式求导可得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { s } _ { i } ( t ) = D _ { t } ^ { \\alpha } e _ { i } ( t ) + \\eta _ { i } \\operatorname { s g n } ( D _ { t } ^ { \\alpha - 1 } e _ { i } ( t ) ) \\Big \\vert D _ { t } ^ { \\alpha - 1 } e _ { i } ( t ) \\Big \\vert ^ { \\theta }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当误差系统在滑模面运动时，滑模面及其导数需要满足可达性条件 $\\scriptstyle s _ { i } ( t ) = 0 , s _ { i } ( t ) = 0$ 。。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定理1在Terminal滑模面式(6)上,误差系统式(5)的轨迹在有限时间 $t _ { f i n }$ 内达到平衡点，其中：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt _ { \\dag n } \\leq t _ { 0 } + \\Bigg ( \\sum _ { i = 1 } ^ { 3 } \\big ( D _ { t } ^ { \\alpha - 1 } e _ { i } ( t _ { 0 } ) \\big ) ^ { 2 } \\Bigg ) ^ { \\frac { 1 - \\theta } { 2 } } \\Bigg / ( 1 - \\theta ) \\cdot \\eta \\cdot\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "证明误差系统满足滑模面方程： $\\boldsymbol { s } _ { i } ( t ) = 0 , \\dot { \\boldsymbol { s } } _ { i } ( t ) = 0$ 。于是可得如下导数：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { t } ^ { \\alpha } e _ { i } ( t ) = - \\eta _ { i } \\mathrm { s g n } ( D _ { t } ^ { \\alpha - 1 } e _ { i } ( t ) ) \\big | D _ { t } ^ { \\alpha - 1 } e _ { i } ( t ) \\big | ^ { \\theta }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取Lyapunov 函数为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ( t ) = \\frac { 1 } { 2 } { \\sum _ { i = 1 } ^ { 3 } } \\big ( D _ { t } ^ { \\alpha - 1 } e _ { i } ( t ) \\big ) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "沿着时间 $t$ 求导可得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\dot { V } ( t ) = \\displaystyle \\sum _ { i = 1 } ^ { 3 } D _ { t } ^ { \\alpha - 1 } e _ { i } ( t ) \\cdot D _ { t } ^ { \\alpha } e _ { i } ( t ) = } \\\\ { \\displaystyle \\qquad \\sum _ { i = 1 } ^ { 3 } D _ { t } ^ { \\alpha - 1 } e _ { i } ( t ) \\cdot ( - \\eta _ { i } \\operatorname { s g n } ( D _ { t } ^ { \\alpha - 1 } e _ { i } ( t ) ) \\Big | D _ { t } ^ { \\alpha - 1 } e _ { i } ( t ) \\Big | ^ { \\theta } ) = } \\\\ { \\displaystyle \\qquad - \\sum _ { i = 1 } ^ { 3 } \\eta _ { i } \\Big | D _ { t } ^ { \\alpha - 1 } e _ { i } ( t ) \\Big | ^ { 1 + \\theta } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用不等关系式 $( \\left\\| x _ { 1 } \\right\\| ^ { 2 } + \\left\\| x _ { 2 } \\right\\| ^ { 2 } + \\dots \\right\\| x _ { n } \\left\\| ^ { 2 } ) ^ { q / 2 } \\leq \\left\\| x _ { 1 } \\right\\| ^ { q } + \\left\\| x _ { 2 } \\right\\| ^ { q }$ $+ \\cdots \\| x _ { n } \\| ^ { q }$ ， $( 0 < q < 2 )$ ,有",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { V } ( t ) \\leq - 2 ^ { \\frac { 1 + \\theta } { 2 } } \\eta \\left( \\frac { 1 } { 2 } \\sum _ { i = 1 } ^ { 3 } \\left( D _ { t } ^ { \\alpha - 1 } e _ { i } ( t ) \\right) ^ { 2 } \\right) ^ { \\frac { 1 + \\theta } { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据有限时间稳定性定理，可知误差系统将在有限时间$t _ { f i n }$ 内达到平衡点， $t _ { f i n }$ 满足以下条件：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt _ { \\ b { f i n } } \\le t _ { 0 } + \\left( \\sum _ { i = 1 } ^ { 3 } \\bigl ( D _ { t } ^ { \\alpha - 1 } e _ { i } ( t _ { 0 } ) \\bigr ) ^ { 2 } \\right) ^ { \\frac { 1 - \\theta } { 2 } } \\Biggl / ( 1 - \\theta ) \\cdot \\eta \\cdot\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "这意味着误差系统(7)在有限时间内到达滑模面。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Terminal滑模控制",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上述定理保证了误差系统可在有限时间内达到平衡点。本节将讨论误差系统在滑模面上的稳定性问题。将驱动系统式(1)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "的未知参数上界 $\\overline { { a } } _ { i } , i = 1 , 2 , 3$ 分为已知和未知两种情况。针对不同情形，将分别设计合适的控制器，实现分数阶驱动-响应Sprott-C系统的滑模同步控制。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "情况1驱动系统的参数上界 $\\overline { { a } } _ { i } , i = 1 , 2 , 3$ 已知",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设计未知参数 $a _ { i }$ 的自适应更新率为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\{ \\dot { \\hat { a } } _ { 1 } = c _ { 1 } ( ( x _ { 1 } - x _ { 2 } ) s _ { 1 } - \\hat { a } _ { 1 } | s _ { 1 } | ) , \\ \\hat { a } _ { 1 } ( 0 ) = \\hat { a } _ { 1 0 } ;  } \\\\ & { \\{ \\dot { \\hat { a } } _ { 2 } = c _ { 2 } ( s _ { 3 } - \\hat { a } _ { 2 } | s _ { 2 } | ) , \\ \\hat { a } _ { 2 } ( 0 ) = \\hat { a } _ { 2 0 } ;  } \\\\ & {  \\dot { \\hat { a } } _ { 3 } = c _ { 3 } ( x _ { 2 } s _ { 2 } - \\hat { a } _ { 3 } | s _ { 3 } | ) , \\ \\hat { a } _ { 3 } ( 0 ) = \\hat { a } _ { 3 0 } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中参数 $c _ { i }$ ， $i = 1 , 2 , 3$ 均是大于零的常数，可以调节同步的收敛速度。并且估计误差分别记为： $\\tilde { a } _ { i } = \\hat { a } _ { i } - a _ { i } , i = 1 , 2 , 3$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定理2假设驱动系统未知参数的上界 $\\overline { { a } } _ { i } , i \\mathrm { = } 1 , 2 , 3$ 已知，则在未知参数和扰动自适应率式(4)(13)和控制率式(14)作用下，驱动-响应系统式(1)和(2)可实现滑模同步控制。控制率如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\displaystyle { u _ { i } \\left( t \\right) = - \\hat { a } _ { 1 } \\left( e _ { 2 } - e _ { 1 } \\right) - \\eta _ { 1 } \\mathrm { s g n } \\left( D _ { t } ^ { \\alpha - 1 } e _ { 1 } \\right) \\left. D _ { t } ^ { \\alpha - 1 } e _ { 1 } ( t ) \\right. ^ { \\theta } } } \\\\ { \\displaystyle \\qquad - \\left( \\hat { r } _ { 1 } + \\hat { \\omega } _ { 1 } + \\overline { { u } } _ { 1 } ^ { 2 } \\right) \\mathrm { s g n } ( s _ { 1 } ) } \\\\ { \\displaystyle { u _ { 2 } ( t ) = \\hat { a } _ { s } e _ { 2 } + y _ { 1 } y _ { 3 } - \\eta _ { 2 } \\mathrm { s g n } \\left( D _ { i } ^ { \\alpha - 1 } e _ { 2 } \\right) \\left. D _ { i } ^ { \\alpha - 1 } e _ { 2 } ( t ) \\right. ^ { \\theta } } } \\\\ { \\displaystyle \\qquad - \\left( \\hat { r } _ { 2 } + \\hat { \\omega } _ { 2 } + \\overline { { u } } _ { 2 } ^ { 2 } \\right) \\mathrm { s g n } ( s _ { 2 } ) - x _ { 1 } x _ { 3 } } \\\\ { \\displaystyle { u _ { 3 } ( t ) = - \\left( y _ { 2 } + x _ { 2 } \\right) e _ { 2 } - \\eta _ { 3 } \\mathrm { s g n } \\left( D _ { t } ^ { \\alpha - 1 } e _ { 3 } \\right) \\left. D _ { i } ^ { \\alpha - 1 } e _ { 3 } ( t ) \\right. ^ { \\theta } } } \\\\ { \\displaystyle \\qquad - \\left( \\hat { r } _ { 3 } + \\hat { \\omega } _ { 3 } + \\overline { { u } } _ { 3 } ^ { 2 } \\right) \\mathrm { s g n } ( s _ { 3 } ) } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "证明构造Lyapunov 能量函数如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ( t ) = \\frac { 1 } { 2 } \\sum _ { i = 1 } ^ { 3 } \\left( s _ { i } ^ { 2 } + \\frac { 1 } { k _ { 1 } } \\tilde { r } _ { i } ^ { 2 } + \\frac { 1 } { k _ { 2 } } \\tilde { \\omega } _ { i } ^ { 2 } + \\frac { 1 } { c _ { i } } \\tilde { a } _ { i } ^ { 2 } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "并沿着时间 $t$ 求导可得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { V } ( t ) = \\sum _ { i = 1 } ^ { 3 } s _ { i } \\dot { s } _ { i } + \\sum _ { i = 1 } ^ { 3 } \\left( \\frac { 1 } { k _ { 1 } } \\tilde { r } _ { i } \\cdot \\dot { \\hat { r } } _ { i } + \\frac { 1 } { k _ { 2 } } \\tilde { \\omega } _ { i } \\cdot \\dot { \\hat { \\omega } } _ { i } + \\frac { 1 } { c _ { i } } \\tilde { a } _ { i } \\cdot \\dot { \\hat { a } } _ { i } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将参数更新率式(13)、扰动自适应率式(4)分别代入上式可得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathcal { E } ( t | \\langle \\hat { U } _ { t } | \\dag , \\mathcal { D } _ { t } ^ { \\dagger } | \\dag , \\mathcal { D } _ { t } ^ { \\dagger } | \\dag , \\mathcal { D } _ { t } ^ { \\dagger } | \\dag , \\mathcal { D } _ { t } ^ { \\dagger } | \\dag , \\hat { U } _ { t } ^ { \\dagger } | \\dag , \\hat { U } _ { t } ^ { \\dagger } | \\dag , \\hat { U } _ { t } ^ { \\dagger } | \\dag , \\hat { U } _ { t } ^ { \\dagger } | \\dag , \\hat { U } _ { t } ^ { \\dagger } | \\dag , \\hat { U } _ { t } ^ { \\dagger } | \\dag , } \\\\ &  \\quad + \\frac { 1 } { \\sqrt { 2 } } ( \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 } { \\sqrt { 2 } } \\frac { 1 }  \\sqrt { 2 }  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n+ s _ { 3 } \\cdot \\eta _ { 3 } \\big | D _ { t } ^ { \\alpha - 1 } e _ { 3 } ( t ) \\big | ^ { \\theta } \\operatorname { s g n } ( D _ { t } ^ { \\alpha - 1 } e _ { 3 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将控制器表达式(14)代入上式有",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\dot { V } ( t ) = s _ { 1 } ( t ) \\Big ( r _ { 1 } ( y ) + \\omega _ { 1 } ( t ) - \\Big ( \\hat { r } _ { 1 } + \\hat { \\omega } _ { 1 } + \\overline { { a _ { 1 } ^ { 2 } } } \\Big ) \\mathrm { s g n } ( s _ { 1 } ) \\Big ) } \\\\ { \\quad \\quad \\quad + s _ { 2 } ( t ) \\Big ( r _ { 2 } ( y ) + \\omega _ { 2 } ( t ) - \\Big ( \\hat { r } _ { 2 } + \\hat { \\omega } _ { 2 } + \\overline { { a _ { 2 } ^ { 2 } } } \\Big ) \\mathrm { s g n } ( s _ { 2 } ) \\Big ) } \\\\ { \\quad \\quad \\quad + s _ { 3 } ( t ) \\Big ( r _ { 3 } ( y ) + \\omega _ { 3 } ( t ) - \\Big ( \\hat { r } _ { 3 } + \\hat { \\omega } _ { 3 } + \\overline { { a _ { 3 } ^ { 2 } } } \\Big ) \\mathrm { s g n } ( s _ { 3 } ) \\Big ) } \\\\ { \\quad \\quad \\quad + \\displaystyle \\sum _ { i = 1 } ^ { 3 } \\Big ( \\Big . \\ddot { r } _ { i } \\cdot | s _ { i } | + \\tilde { \\omega } _ { i } \\cdot | s _ { i } | \\Big ) - \\sum _ { i = 1 } ^ { 3 } \\tilde { a } _ { i } \\hat { a } _ { i } \\big | s _ { i } \\Big | } \\\\ { \\quad \\quad \\quad \\leq - \\displaystyle \\sum _ { i = 1 } ^ { 3 } \\overline { { a } } _ { i } ^ { 2 } | s _ { i } | - \\sum _ { i = 1 } ^ { 3 } \\tilde { a } _ { i } \\hat { a } _ { i } | s _ { i } | } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于 $\\tilde { a } _ { i } ^ { 2 } - a _ { i } ^ { 2 } = \\hat { a } _ { i } \\cdot ( \\tilde { a } _ { i } - a _ { i } ) = 2 \\tilde { a } _ { i } \\hat { a } _ { i } - \\hat { a } _ { i } ^ { 2 } \\leq 2 \\tilde { a } _ { i } \\hat { a } _ { i }$ ，即",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\tilde { a } _ { i } \\hat { a } _ { i } \\geq \\frac { 1 } { 2 } \\Big ( \\tilde { a } _ { i } ^ { 2 } - a _ { i } ^ { 2 } \\Big )$ ，所以 $- \\sum _ { i = 1 } ^ { 3 } \\left( \\frac { 1 } { 2 } \\widetilde { a } _ { i } ^ { 2 } - \\frac { 1 } { 2 } a _ { i } ^ { 2 } \\right) \\left| s _ { i } \\right| \\geq$ -∑aals|。将其代入上式，并令a=min{a,a,@}，可得",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { V } ( t ) \\leq - \\frac { 1 } { 2 } \\sum _ { i = 1 } ^ { 3 } \\overline { { { a } } } ^ { 2 } \\left| s _ { i } \\right| .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于 $\\overline { { a } } > 0$ ，所以 $\\dot { V } ( t ) < 0$ 。根据LaSalle不变原理可知当$t \\to + \\infty$ 时， $s _ { i } ( t ) \\to 0$ 。进一步，根据分数阶微积分理论可知系统误差 $e _ { i } ( t ) \\to 0 , i = 1 , 2 , 3$ ，这意味着驱动响应系统式(1)和(2)实现了Terminal 滑模同步。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "情况2驱动系统的参数上界 $\\overline { { a } } _ { i } , i = 1 , 2 , 3$ 未知此时未知参数 $a _ { i }$ 的自适应更新率可设计为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\{ \\dot { \\hat { a } } _ { 1 } = c _ { 1 } ( x _ { 1 } - x _ { 2 } ) s _ { 1 } , \\ \\hat { a } _ { 1 } ( 0 ) = \\hat { a } _ { 1 0 } ; } \\\\ & { \\{ \\begin{array} { l l } { \\dot { \\hat { a } } _ { 2 } = c _ { 2 } s _ { 3 } , \\hat { a } _ { 2 } ( 0 ) = \\hat { a } _ { 2 0 } ; } \\\\ { \\dot { \\hat { a } } _ { 3 } = c _ { 3 } x _ { 2 } s _ { 2 } , \\hat { a } _ { 3 } ( 0 ) = \\hat { a } _ { 3 0 } . } \\end{array}  } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参数 $c _ { i }$ 与自适应率(13)中的含义一致。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定理3在未知参数和扰动自适应率式(4)(15)和控制率式(16)作用下，驱动一响应系统式(1)和(2)可实现滑模同步控制。其中控制率如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left\\{ \\begin{array} { l l } { u _ { i } ( t ) = - \\hat { a _ { 1 } } ( e _ { 2 } - e _ { 1 } ) - \\eta _ { 1 } \\mathrm { s g n } ( D _ { t } ^ { \\alpha - 1 } e _ { 1 } ) \\left| D _ { t } ^ { \\alpha - 1 } e _ { 1 } ( t ) \\right| ^ { \\theta } } \\\\ { \\qquad \\quad - \\left( \\hat { r } _ { 1 } + \\hat { \\omega _ { 1 } } + l _ { 1 } \\right) \\mathrm { s g n } ( s _ { 1 } ) } \\\\ { u _ { 2 } ( t ) = \\hat { a _ { 3 } } e _ { 2 } + y _ { 1 } y _ { 3 } - \\eta _ { 2 } \\mathrm { s g n } ( D _ { t } ^ { \\alpha - 1 } e _ { 2 } ) \\left| D _ { t } ^ { \\alpha - 1 } e _ { 2 } ( t ) \\right| ^ { \\theta } } \\\\ { \\qquad \\quad - \\left( \\hat { r } _ { 2 } + \\hat { \\omega } _ { 2 } + l _ { 2 } \\right) \\mathrm { s g n } ( s _ { 2 } ) - x _ { 1 } x _ { 3 } } \\\\ { u _ { 3 } ( t ) = - ( y _ { 2 } + x _ { 2 } ) e _ { 2 } - \\eta _ { 3 } \\mathrm { s g n } ( D _ { t } ^ { \\alpha - 1 } e _ { 3 } ) \\left| D _ { t } ^ { \\alpha - 1 } e _ { 3 } ( t ) \\right| ^ { \\theta } } \\\\ { \\qquad \\quad - \\left( \\hat { r } _ { 3 } + \\hat { \\omega } _ { 3 } + l _ { 3 } \\right) \\mathrm { s g n } ( s _ { 3 } ) } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中增益系数 $l _ { i } > 0 , i = 1 , 2 , 3$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "证明构造和定理2相同的Lyapunov 能量函数 $V ( t )$ ，并沿时间 $t$ 求导。然后分别将扰动自适应率式(4)、参数更新率式(15)、滑模面方程导数式(9)和控制器式(16)代入 $\\dot { V } ( t )$ 可得",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\dot { V } ( t ) = s _ { 1 } ( t ) \\Big ( r _ { 1 } ( y ) + \\omega _ { 1 } ( t ) - \\Big ( \\hat { r } _ { 1 } + \\hat { \\omega } _ { 1 } + l _ { 1 } \\Big ) \\operatorname { s g n } ( s _ { 1 } ) \\Big ) } \\\\ & { \\qquad + s _ { 2 } ( t ) \\Big ( r _ { 2 } ( y ) + \\omega _ { 2 } ( t ) - \\Big ( \\hat { r } _ { 2 } + \\hat { \\omega } _ { 2 } + l _ { 2 } \\Big ) \\operatorname { s g n } ( s _ { 2 } ) \\Big ) } \\\\ & { \\qquad + s _ { 3 } ( t ) \\Big ( r _ { 3 } ( y ) + \\omega _ { 3 } ( t ) - \\Big ( \\hat { r } _ { 3 } + \\hat { \\omega } _ { 3 } + l _ { 3 } \\Big ) \\operatorname { s g n } ( s _ { 3 } ) \\Big ) } \\\\ & { \\qquad + \\displaystyle \\sum _ { i = 1 } ^ { 3 } \\Big ( \\ddot { r } _ { i } \\cdot | s _ { i } | + \\tilde { \\omega } _ { i } \\cdot | s _ { i } | \\Big ) - \\sum _ { i = 1 } ^ { 3 } \\tilde { a } _ { i } \\hat { a } _ { i } \\big | s _ { i } | } \\\\ & { \\qquad + - \\displaystyle \\sum _ { i = 1 } ^ { 3 } l _ { i } s _ { i } \\operatorname { s g n } ( s _ { i } ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "令 $l = \\operatorname* { m i n } \\{ l _ { 1 } , l _ { 2 } , l _ { 3 } \\}$ 有 $\\dot { V } ( t ) \\leq - \\sum _ { i = 1 } ^ { 3 } l _ { i } s _ { i } \\operatorname { s g n } ( s _ { i } ) = - \\sum _ { i = 1 } ^ { 3 } l \\left| s _ { i } \\right| \\mathrm { , }$ 不难发现， $\\dot { V } ( t ) < 0$ ，即当 $t > 0$ 时，Lyapunov 函数单调递减。在区间 $[ 0 , t ]$ 上关于时间 $t$ 进行积分，结合比较原理可得",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\int _ { 0 } ^ { t } \\sum _ { i = 1 } ^ { 3 } \\bigl | s _ { i } ( \\xi ) \\bigr | d \\xi \\le - \\frac 1 l \\displaystyle \\int _ { l } ^ { t } \\dot { \\boldsymbol { V } } ( \\xi ) d \\xi = \\frac 1 l \\bigl ( { \\boldsymbol { V } } ( 0 ) - { \\boldsymbol { V } } ( t ) \\bigr ) } \\\\ { \\displaystyle \\le \\frac 1 l \\bigl ( { \\boldsymbol { V } } ( 0 ) - { \\boldsymbol { V } } ( + \\infty ) \\bigr ) \\le \\frac 1 l { \\boldsymbol { V } } ( 0 ) < + \\infty } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "结合Barbalat引理，可知 $e _ { i } ( t ) \\to 0$ ， $i = 1 , 2 , 3$ 。这意味着驱动系统未知参数上界未知时可实现系统式(1)和(2)的滑模同步控制。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 数值仿真",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本章中选取合适的参数对上述讨论结果进行数值模拟。为避免滑模控制中的抖振现象，在实际工程应用中，通常有两种方法[9]可以消除抖振现象。第一种是将控制器分为连续和切换两种，消除切换振幅；第二种是利用高增益方法，用饱和函数等函数代替Sgn项。在仿真实验中，本文采用第二种方法，并参照文献[7]，利用 $s _ { i } \\big / \\big ( \\big | s _ { i } \\big | + \\varepsilon \\big )$ （其中 $\\varepsilon = 0 . 0 0 1$ )代替$\\operatorname { s g n } ( s _ { i } ( t ) )$ 项，通过仿真发现，可达到良好的控制效果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当分数阶次 $\\alpha = 0 . 9 7 , a _ { 1 } = 1 0 , a _ { 2 } = 1 0 0 , a _ { 3 } = - 1 . 7$ 时，Sprott-C系统是混沌的。且有两个平衡点 $_ { \\mathrm { E } _ { 1 } = ( 1 0 , 1 0 , 1 . 7 ) }$ 和 $\\mathrm { E } _ { 2 } \\mathrm { = } \\mathrm { - }$ 10,-10,1.7)。混沌吸引子如图1所示。为了便于模拟，取系统中的不确定项分别为 $r _ { 1 } ( y ) = 0 . 2 \\sin ( 3 t ) y _ { 2 } , r _ { 2 } ( y )$ $= 0 . 1 5 \\mathrm { s i n } ( 2 t ) y _ { 1 } , r _ { 3 } ( y ) = 0 . 3 \\mathrm { c o s } ( y _ { 3 } t )$ ，外部扰动是 $\\omega _ { \\mathrm { l } } ( t )$ $= 0 . 2 \\sin t , \\omega _ { 2 } ( t ) = 0 . 3 \\cos t , \\omega _ { 3 } ( t ) = 0 . 4 \\sin t$ 。仿真中，扰动初始值分别取为 $\\boldsymbol { \\hat { r } } ( 0 ) = ( 0 . 1 , 0 . 2 , 0 . 3 ) , \\boldsymbol { \\hat { d } } ( 0 ) = ( 0 . 7 , 0 . 5 , 0 . 3 )$ 。不失一般性，取扰动上界的调节参数 $k _ { 1 } = 1 . 1 ; k _ { 2 } = 0 . 9$ 。滑模面(8)中参数分别为 $( \\eta _ { 1 } , \\eta _ { 2 } , \\eta _ { 3 } ) = ( 0 . 5 , 0 . 5 , 0 . 4 ) , \\theta = 0 . 2$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当驱动系统的参数上界 $\\overline { { a } } _ { i } , i = 1 , 2 , 3$ 已知时，上界取为$\\overline { { a } } _ { 1 } = 1 0 , \\overline { { a } } _ { 2 } = 1 0 0 , \\overline { { a } } _ { 3 } = 1 . 7$ 。系统初值为： $x _ { 0 } = \\{ 0 . 8 , - 0 . 2 , -$ 1.9), $y _ { 0 } = \\left( 1 . 6 , 1 , - 4 \\right)$ 。未知参数的初值分别选为：（ $\\hat { a } _ { 1 0 }$ ，$\\hat { a } _ { 2 0 } , \\hat { a } _ { 3 0 } ) = ( 7 . 4 1 , 9 7 . 9 , - 1 . 9 2 )$ ，参数自适应率系数选取为： $c _ { i } { = } 1 , i { = } 1 , 2 , 3$ 。利用预估-校正数值算法，对系统的同步进行仿真，结果如图1\\~3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/54fa88ba0dbfaa9127995f584a16a2af89907f4ed160670a3538775a5ae77ffe.jpg",
+        "img_caption": [
+            "图1分数阶 Sprott-C 混沌吸引子"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ddd2a413fbb6a97e2b99bbbec89fa52272b0917c9c0a78aa59b68d57c84dc954.jpg",
+        "img_caption": [
+            "图2驱动响应系统(1)和(2)的误差演化 (情况1)"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/acd6d8818c509d8978445b6e358389768112a5a9c4dd3453994b853c976d8eb5.jpg",
+        "img_caption": [
+            "图3驱动系统(1)的参数估计曲线 $\\alpha = 0 . 9 7$ (情况1)"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图1是分数阶 $\\alpha = 0 . 9 7$ 时 Sprott-C 系统的混沌吸引子图。当对驱动响应系统式(1)和(2)施加控制器式(14)时，系统的误差如图2所示。从图2可以看到，系统误差在有限时间内趋于零，这意味着驱动一响应网络式(1)和(2)实现了Terminal滑膜同步。同时，驱动系统的未知参数也得到了准确估计，结果如图3所示。可以看到，未知参数均收敛到其精确值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "事实上，当分数阶次 $\\alpha { = } 0 . 9 8$ 时，Sprott-C系统仍然是混沌的，此时系统的混沌吸引子与两个不稳定平衡点 $\\mathrm { E } _ { \\mathrm { l } }$ 和 $\\mathrm { E } _ { 2 }$ 共存。选定初值 $x _ { 0 } = ( 0 . 5 , 0 . 3 , - 1 . 2 )$ _， $y _ { 0 } = ( 3 , 1 . 5 , - 5 )$ ，驱动系统未知参数的初值分别选为 $( \\hat { a } _ { 1 0 } , \\hat { a } _ { 2 0 } , \\hat { a } _ { 3 0 } ) =$ (10.57,99.7,-0.53)，其余参数取值均和上述情况相同。进行仿真，此时驱动系统误差演化结果如图4所示，同时系统的三个未知参数的估计结果如图5所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4b78fcad5ec25532b19bdaa11f422b95b1ddd7a1afcda8e3a322f134cd8f345e.jpg",
+        "img_caption": [
+            "图4驱动响应系统(1)和(2)的误差演化 (情况1)"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb3805efd5666e3824e154fc5e11fd28b0a1541c47fc545ed1ef2427e5cc9c76.jpg",
+        "img_caption": [
+            "图5驱动系统(1)的参数估计曲线 $\\alpha = 0 . 9 8$ (情况1)"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于情况2，当未知参数的上界未知时，利用控制器(16)可实现系统(1)和(2)的同步。固定取如情况1的相关参数，反馈参数为： $l _ { 1 } { = } 0 . 2$ $l _ { 2 } { = } 0 . 1 5$ $l _ { 3 } { = } 0 . 2$ ，初值取为： $x _ { 0 } =$ (2.6,1.2,-3), $y _ { 0 } = ( 1 , 0 . 2 , 0 . 2 )$ ，未知参数的初值分别选为： $( \\hat { a } _ { 1 0 } , \\hat { a } _ { 2 0 } , \\hat { a } _ { 3 0 } ) = ( 1 2 . 3 , 1 0 2 . 8 , - 3 . 1 6 ) , c _ { i } = 0 . 1 , i =$ 1,2,3。系统阶次 $\\alpha = 0 . 9 7$ ，误差演化曲线和未知参数估计分别如图6和7所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/37d70a923d04e6c36074ef32238a80728acb8ecfe592c9b51c1b6b785af4974f.jpg",
+        "img_caption": [
+            "图6系统趋于平衡点E1(情况2)"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c435cab09263896f9f7b16e09cd1a5ad271cdea34ffed4f26481e6fd8c3b367.jpg",
+        "img_caption": [
+            "图7驱动系统(1)的参数估计曲线 (情况2)"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图8是系统逐渐趋于平衡点 $\\mathrm { E } _ { \\mathrm { l } }$ 的演化曲线。同时，经过计算，可知上述两种情况中，仿真中实现同步的时间与定理1中的理论计算时间(10)相吻合。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9e71ba8834edeecb2470e8ed9f75716b66a398de2f9981844dcd0330b56c506a.jpg",
+        "img_caption": [
+            "图8驱动响应系统(1)和(2)的误差演化 (情况2)"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过以上数值仿真可以看到，未知参数和随机(外部)扰动的估计值均趋向其真实值，驱动系统(1)和响应系统(2)达到了有限时间同步，充分说明了所设计的同步控制器和未知参数辨识规则是有效的。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "研究混沌控制的目的是希望在更大范围内更好地操纵非线性系统的动态，以便为人们所用。本文利用分数阶控制器对分数阶被控对象进行了同步控制，探讨了含有未知参数和有界扰动的不确定分数阶Sprott-C系统的Terminal滑模控制问题，设计了滑模动态面函数，实现了所构造驱动-响应系统的滑模同步控制，同时对未知参数进行了估计，最后通过数值仿真验证了结论的有效性。本文的方法和结论具有一定普适性，可为同类型分数阶混沌系统的同步控制研究提供一定的参考。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7689f17316352f1135fb90fe9770838d7b46b5776cfdc6fad61e3ecb5ff43d19.jpg",
+        "img_caption": [
+            "图9系统趋于平衡点E2(情况2)"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "固定反馈参数和系统初值等相关参数，未知参数的初值分别选为 $( \\hat { a } _ { 1 0 } , \\hat { a } _ { 2 0 } , \\hat { a } _ { 3 0 } ) = ( 4 . 5 6 , 9 5 . 6 , - 2 . 1 5 ) , c _ { i } = 2 , i$ （2$= 1 , 2 , 3$ 。系统可以稳定到平衡点 $\\mathrm { E } _ { 2 }$ ，仿真结果可见图9。此时系统未知参数的估计曲线和误差演化曲线如图10和11所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a1c7f13d32c716986ab2e8baa503de04c9b1bbff09b5ca79f4c1843965dc58cf.jpg",
+        "img_caption": [
+            "图10驱动系统(1)的参数估计曲线 (情况2)"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/947ff0ccf99b8577a3125791c7958629b5801c56c05478ed078f363605735aac.jpg",
+        "img_caption": [
+            "图11驱动响应系统(1)和(2)的误差演化 (情况2)"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "今丐义：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Ahamad H,Mojtaba H, Duitru B.On the adaptive sliding mode controller for a hyperchaotic fractional-order financial system [J].Physica A,2018, 497 (1): 139-153.   \n[2]Muthukumar P,Balasubramamiam P,Rzthnavelu K. Sliding mode control design for synchronization of fractional order chaotic systems and its application to a new cryptosystem [J]. International Journal of Dynamics and Control,2017,5(1): 115-123.   \n[3] 付宏睿，史红涛，张建刚．基于新四翼混沌系统的复杂网络的混沌同步 及其在保密通信中的应用[J].四川大学学报：自然科学版,2017,54 (5):965-970．(Fu Hongrui,Shi Hongtao,Zhang Jiangang.Chaos synchtonization of complex networks based on the novel four-wing chaotic system and its application in secure communication [J]. Journal of Sichuan University: Natural science Edition,2017,54 (5): 965-970.)   \n[4]徐瑞萍，高明美．自适应终端滑模控制不确定混沌系统的同步[J].控 制工程，2016，23(5):715-719.(Xu Ruiping，Gao Mingmei. Synchronization of chaotic systems with uncertainty using an adaptive terminal sliding mode controller[J]. Control Engineering ofChina,2016,23 (5): 715-719.)   \n[5]Ayub K,Arti T.Fractional order disturbance observer based adaptive sliding mode synchronization of commensurate fractional order Genesio-Tesi system[J]. International Journal of Electronic Communication (AEU),2017 (82): 346.   \n[6]刘恒，李生刚，孙业国，等．带有未知非对称控制增益的不确定分数阶 混沌系统自适应模糊同步控制[J].物理学报,2015,64(7):070503.(Liu Heng,Li Shenggang,Sun Yeguo,et al.Adaptive fuzzy synchronization for uncertain fractional order order chaotic systems with unknown nonsymmetrical control gain [J].Acta Physica Sinica.2015,64(7): 070503.)   \n[7]陶思言，林达，曾晓辉．参数不确定统一混沌系统鲁棒最优控制[J]. 测控技术,2016,35(2): 96-98.(Tao Siyan,Lin Da, Zeng Xiaohui. Robust optimal control of unified chaotic system with uncertain parameters [J]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Journal of measurement and control technology,2016,35 (2):96-98.) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[8]Lin Feifei, Zeng Zhezhao. Synchronization of uncertain fractional order chaotic systems with time delay based on adaptive neural network control [J].Acta Physica Sinica,2017,66(9): 33-42.   \n[9] 孙宁，张化光，王智良．不确定分数阶混沌系统的滑模投影同步[J]. 浙江大学学报：工学版，2010,44(7):1288-1291.(Sun Ning,Zhang Huaguang，Wang Zhiliang.Projective synchronization of uncertain fractional order chaotic system using sliding mode controllr[J]. Journal of Zhejiang University: Engineering Science,2010,44(7):1288-1291.)   \n[10] Ni Junkang,Liu Chongxin,Liu Kai,et al.Finite-time sliding mode synchronization of chaotic systems [J].Chinese Physics B,2014,23 (10): 80-86.   \n[11] Yu Xinghuo,Man Zhihong.Model reference adaptive control systems with terminal sliding modes [J]. International Journal of Control,2012,64 (6): 1165-1176.   \n[12] Deng Wei,Fang Jie,Wu Zhengjun,et al.Adaptive modified function projective synchronization of a class of chatotic systems with uncertainties [J].Acta Physica Sinica,2012,61(14):191-199.   \n[13] Tao Chinwang,Taur Jinshiuh,Chan Meilang.Adaptive fuzzy terminal sliding mode controller for linear systems with mismatched time-varying uncertainties [J].IEEE Trans on Systems,Man and Cybernetics,Part B: 2004, 34 (1): 1-6.   \n[14] Zhuang Kaiyu, Su Hongye, Zhang Keqing,et al. Adaptive terminal sliding mode control for high order nonlinear dynamic systems [J]. Zhejiang University SciENCE,2003,4(1):58-63.   \n[15] Yang Liang,Yang Jianying.Nonsigular fast terminal sliding mode control for nonlinear dynamical systems [J]. International Journal of Robust and Nonlinear Control,2011,21 (16): 1865-1879.   \n[16] Aghababa M P,Feizi H. Design of a sliding mode controller for synchronizing chaotic systems with parameter and model uncertainties and external disturbances [J].Transactions of the Institute of Measurement and Control,2012,34 (8): 990-997.   \n[17]邓立为，宋申民．基于输出反馈滑模控制的分数阶超混沌系统同步[J]. 自动化学报，2014,40(11):2420-2427.(Deng Liwei,Song Shenmin. Synchronization of fractional order hyperchaotic systems based on output feedback sliding mode control [J].Acta Autaomatica Sinica,2014,40 (11): 2420-2427.)   \n[18]潘光，魏静．一种分数阶混沌系统同步的自适应滑模控制器设计[J]. 物理学报,2015,64(4): 41-47.(Pan Guang,Wei Jing.Design of an adaptive sliding mode controller for synchronization of fractional-order chaotic systems [J].Acta Autaomatica Sinica,2015,64 (4): 41-47.)   \n[19] Mohadeszadeh M, Delavari H. Synchronization of fractional order hyperchaotic systems based on a new adaptive sliding mode control [J]. International Journal Dynamical Control, 2015,5(1): 1-11.   \n[20]李特，袁建宝，吴莹．一类不确定分数阶混沌系统同步的自适应滑模控 制方法[J].动力学与控制学报,2017,15(2):110-118.(Li Te,Yuan Jianbao，Wu Ying.A method of adaptive sliding mode control for synchronization of one class of uncertain fractional-order chaotic systems [J]. Journal ofDynamics and Control,2017,15 (2): 110-18.)   \n[21]毛北行，李巧利．一类分数阶Genesio-Tesi 系统的滑模混沌同步[J]， 中山大学学报：自然科学版，2017,56(2):76-79.(Mao Beinxing,Li Qiaoli. Sliding mode chaos synchronization ofa class of fractional-GenesioTesi systems [J].Acta Scientiarum Naturalium Universitatis Sunyatseni, 2017,56 (2): 76-79.)   \n[22]高俊山，宋歌，邓立为．具有未知参数的混沌系统的有限时间滑模同步 控制[J].控制与决策,2017,32(1):149-156.(Gao Junshan,Song Ge, Deng Liwei. Finite-time sliding mode synchronization control of chaotic systems with uncertain parameters [J]. Control and Decision,2017,32 (1): 149-156. )   \n[23] Zhao Yuhan,Wu Ranchao.Chaos and Synchronization of a new fractional order system with only two stable equilibria [J]. International Journal of Dynamical Systems and Differential Equations.2016,6 (3): 187-194.   \n[24] Podlubny. Fractional differential equation [M]. New York: Academic Press, 1999. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

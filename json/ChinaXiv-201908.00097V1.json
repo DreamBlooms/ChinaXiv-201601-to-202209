@@ -1,0 +1,334 @@
+[
+    {
+        "type": "text",
+        "text": "不同产地浙贝母生物碱含量及其合成相关基因表达研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吴秋丽‘，嵇元烨¹，董莉莉¹，沈晓霞²，王志安²，王忠华l\\*（1.浙江万里学院生物技术研究所，浙江宁波315100；2.浙江省中药研究所，杭州310023）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了探究浙贝母（Fritillaria thunbergii）药效成分积累量与生物碱合成相关基因表达水平之间的关系，该研究采用UPLC-MS、qPCR 技术分别测定不同产地11个样品中总生物碱（贝母素甲和贝母素乙之和）含量和3个参与生物碱合成途径相关基因（HMGR、FPS和DXR）的表达量，同时运用生物统计学方法分析成熟期鳞茎生物碱含量与各基因表达量之间的相关性。结果表明：不同产地浙贝母成熟期鳞茎总生物碱含量存在显著差异 （ $\\scriptstyle \\cdot < 0 . 0 5 ,$ ），为 $0 . 2 1 0 5 \\% \\sim 0 . 4 6 1 2 \\%$ 。HMGR和FPS基因在盛花期组织表达、盛花期至成熟期鳞茎表达变化趋势同生物碱含量变化趋势基本一致。 $D X R$ 基因在成熟期鳞茎中表达量最高，盛花期组织表达、盛花期至成熟期鳞茎表达变化趋势同生物碱含量变化趋势大体不一致。HMGR、FPS 基因表达量分别与贝母素甲、贝母素乙和总生物碱含量呈显著或极显著正相关性（ $\\cdot P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ），以FPS基因表达量与生物碱含量相关系数为最高，相关系数分别为0.672，0.631，0.664， $D X R$ 基因与生物碱含量呈低度相关性。由此可以推断，生物碱的积累受MVA途径中HMGR、FPS基因协同调控或者修饰作用明显，受MEP途径中DXR基因调控作用不明显。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：浙贝母，生物碱含量，生物碱合成相关基因，基因表达，相关性中图分类号： 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Alkaloid content and synthesis related gene expression of Fritillaria thunbergii in different producing areas ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WU Qiuli', JI Yuanye',DONG Lili1, SHEN Xiaoxia², Wang Zhian², Wang Zhonghual\\* (1. Institute of Biotechnology Zhejiang Wanli University, Ningbo 315100, Zhejiang, China; 2. Zhejiang ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "InstituteofTraditional ChineseMedicine,Hangzhou31Oo23,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In order to explore the relationship between the accumulation of medicinal components and the expression level of alkaloid synthesis related genes in Fritilaria thunbergi, ultra high performance liquid chromatography mass spectrometry(UPLC-MS )and real-time quantitative PCR(qPCR)techniques were used to determine the total alkaloids (the sum of peimine and peiminine) and the expression level of three genes involved in alkaloid synthesis pathway (HMGR,FPS and $D X R$ ) in 11 samples from different producing areas. Meanwhile, biostatistics was used to analyze the correlation between the alkaloid content of mature bulbs and the expression of each gene.The results showed that there were significant differences in total alkaloid content of bulbs at maturity stage $( P < 0 . 0 5 )$ , ranging from $0 . 2 1 0 5 \\%$ to $0 . 4 6 1 2 \\%$ . The variation trend of the expression of HMGR and FPS genes in the tissue of flowering stage and the bulb from flowering stage to maturity stage is basically consistent with the variation trend of alkaloid content.The expression of DXR gene was the highest in the bulb at maturity stage,and the change trend of the tissue expression at the flowering stage and the bulb expresson from the flowering stage to maturity stage was generally inconsistent with the change trend of alkaloid content.The expression levels of HMGR and FPS genes were significantly or extremely significantly positively correlated with peimine, peiminine and total alkaloid content, respectively $\\scriptstyle ( P < 0 . 0 5$ or $P < 0 . 0 1$ ). The coefficients between $F P S$ gene expression and alkaloid content were the highest, which were 0.672,0.631,0.664,respectively.Meanwhile,the coefficients between DXR gene expression and alkaloid content were low.In summary,the date indicates the accumulation of alkaloids is significantly regulated or modified by HMGR and FPS genes in the MVA pathway,but not by DXR genes in the MEP pathway. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Fritillaria thunbergii，alkaloid content， alkaloid synthesis related genes， gene expression,correlation",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "浙贝母（Fritillaria thunbergii）系百合科、贝母属中一种多年生草本植物，其成熟期干燥鳞茎供入药所用，性寒，具有清热润肺、解毒散结之效用。因其原产于浙江宁波象山，主产地在浙江，且在浙江省的种植面积占全国总面积高达 $90 \\%$ ，故简称象贝，又称浙贝（何琛晔等，2018）。目前，市场上的浙贝母药材以人工栽培为主，浙江省产区主要集中在鄞州、开化等地，浙江省附近一带也有种植，包括江苏、安徽和福建等地（CUIet al.，2018）。以贝母素甲和贝母素乙为代表的甾体类生物碱是贝母属植物中特有的一类次生代谢产物，也是浙贝母中特有的药效成分。据研究表明，甾体类生物碱在祛痰镇咳、降压活血、镇痛抗溃疡、抗炎抗氧化、抗肿瘤等方面具有重要的药用价值（LEEetal.，2015；TANG etal.， 2018；CHEN et al.，2018；RUAN etal.，2016； ZHA et al.，2010）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "甾体类生物碱的前体物质主要由植物萜类生物合成途径中一个重要的中间产物异戊烯焦磷酸（IPP）经一系列酶催化形成生成（LAULEetal.，2003）。IPP为甲羟戊酸（MVA）途径和2-C-甲基-D-赤藻糖醇-4-磷酸（MEP）途径中间体，是参与甾体骨架合成的主要途径，这条途径参与浙贝母甾体类生物碱的合成（CARDENAS et al.，2016；ZHAO et al.，2018）。在 MVA 途径中，3-羟基-3-甲基戊二酰辅酶A还原酶（HMGR)是该途径的第一限速酶，参与催化3-羟基-3-甲基戊二酰辅酶A（HMG-CoA）生成甲羟戊酸这一不可逆反应（KIMetal.,2014）；法尼基焦磷酸合酶（FPS）是MVA途径中的一个关键酶，其催化耗牛儿基焦磷酸（GPP）生成法尼基焦磷酸（FPP），FPP 是植物体内一个重要的中间代谢产物（DHAR etal.，2013）；1-脱氧-D-木酮糖-5-磷酸还原异构酶（DXR）是MEP途径中的重要限速酶。目前，国内外对浙贝母甾体类生物碱的研究多集于药效成分含量的测定、提取纯化工艺研究、药化及药理活性分析上，对甾体类生物碱的生物合成途径及合成途径中起关键作用的酶的研究报道较少。因此，浙贝母生物碱合成途径的相关功能基因的进一步开发和利用受到了严重的限制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究对11个不同产地浙贝母盛花期茎、叶、鳞茎及成熟期鳞茎的生物碱（贝母素甲和贝母素乙）含量进行测定，分析不同产地浙贝母生物碱含量差异及HMGR、FPS和DXR基因表达量与生物碱积累量之间相关性，为后续完善浙贝母生物碱合成途径提供基础数据，也为揭示浙贝母药材质量差异的分子机制奠定基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物材料：以11个不同产地的浙贝1号（浙贝母狭叶品种）盛花期3个组织部位（茎、叶和鳞茎)以及成熟期鳞茎为材料，于2018年3月中旬、5月中旬采自浙东宁波章水，浙南温州瓯海，浙西衢州开化和丽水莲都，浙北杭州淳安、临安昌化和余杭，浙中金华婺城和东阳，浙江省临近省份江苏南通和安徽六安。不同产地气象和土壤类型基本情况见表1。将新鲜采集的一部分材料清洗干净，切片，置于烘箱中低温烘干至恒重，研磨成粉，过65目筛后用于生物碱含量测定；另一部分材料经DEPC 处理水洗涤并分装，放入液氮中速冻后贮存于， $- 8 0 ^ { \\circ } \\mathrm { C }$ 超低温冰箱以用于后续基因表达量的测定。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/9456340a46cd5af1006d46ac37f35565d44f7d73086942acc162997e3ced7edd.jpg",
+        "table_caption": [
+            "表1不同产地气象和土壤类型基本情况",
+            "Table 1 Basic situation of meteorological and soil types in different producing area "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>产地 Producing area</td><td>宁波 Ningbo</td><td>温州 Wenzhou</td><td>衢州 Quzhou</td><td>丽水 Lishui</td><td>杭州 Hangzhou</td><td>金华 Jinhua</td><td>南通 Nantong</td><td>六安 Luan</td></tr><tr><td>年平均日照时数 Annual average sunshine hours（h）</td><td>1797.7</td><td>1704.7</td><td>1809.5</td><td>1681.3</td><td>1756.3</td><td>1886.9</td><td>2089.2</td><td>2217.5</td></tr><tr><td>年平均气温 Annual average temperature（℃）</td><td>16.5</td><td>18.1</td><td>17.3</td><td>18.1</td><td>16.5</td><td>17.3</td><td>15.9</td><td>15.6</td></tr><tr><td>年降水量 Annual precipitation（mm）</td><td>1503</td><td>1734.7</td><td>1685.5</td><td>1381.3</td><td>1435</td><td>1436.8</td><td>1173.2</td><td>1145</td></tr><tr><td>土壤类型 Soil type</td><td>红棕壤</td><td>红棕壤</td><td>红棕壤</td><td>红棕壤</td><td>红棕壤</td><td>红黄壤</td><td>黄棕壤</td><td>黄棕壤</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "仪器与试剂：ACQUITYUPLC系统（Waters，美国）；SYNAPTG2-Si质谱仪（Waters，美国）；CFX96 荧光定量PCR仪（Bio-RAD，美国）；SQP电子分析天平（Sartorius 公司，德国）。氨水和乙腈为色谱纯；标准品贝母素甲、乙购于上海源叶生物科技有限公司；PCR 引物由上海生工生物工程有限公司合成。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1UPLC-MS测定不同产地浙贝母不同组织中生物碱含量",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1.1色谱及质谱条件",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "色谱条件：采用ACQUITYUPLC $\\textcircled{8}$ BEHAmide ( $\\cdot 2 . 1 \\mathrm { m m } \\times 1 0 0 \\mathrm { m m }$ ， $1 . 7 \\mu \\mathrm { m } \\times$ 色谱柱，流动相为 $0 . 1 \\%$ 氨水（A）- $0 . 1 \\%$ 乙腈（B）；梯度洗脱（ $\\mathrm { \\Phi } ( 0 { \\sim } 1 . 0 \\operatorname * { m i n }$ ， $3 0 \\% \\mathrm { A } \\mathrm {  } 3 0 \\% \\mathrm { A }$ ： $1 . 0 { \\sim } 5 . 5 \\operatorname* { m i n }$ ， $3 0 \\% \\mathrm { A } {  } 5 \\% \\mathrm { A }$ ; $5 . 5 { \\sim } 5 . 8$ min， $5 \\% \\mathrm { A } {  } 3 0 \\% \\mathrm { A }$ ）；流速为 $0 . 2 \\ \\mathrm { m L } \\cdot \\mathrm { m i n } ^ { - 1 }$ ；柱温为 $3 0 ^ { \\circ } \\mathrm { C }$ ；样品进样量为 $2 \\mu \\mathrm { L }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "质谱条件：采用电喷雾正离子源（ $\\mathrm { E S I } ^ { + }$ ）检测模式，贝母素甲、贝母素乙的离子质荷比（ $( \\mathbf { m } / \\mathbf { z } )$ ）分别为432.35和430.33；毛细管电压为 $3 . 0 \\mathrm { k V }$ ，锥孔电压为 $4 . 0 \\mathrm { V }$ ，离子源温度为 $1 0 5 \\mathrm { ^ \\circ C }$ ，去溶剂化温度为 $3 0 0 ^ { \\circ } \\mathrm { C }$ ，去溶剂化气流为 $8 0 0 \\mathrm { L } { \\bullet } \\mathrm { h } ^ { - 1 }$ ，锥孔气流为 $5 0 \\mathrm { L } { \\bullet } \\mathrm { h } ^ { - 1 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1.2标准曲线绘制",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分别精密称取对照品贝母素甲 $0 . 0 0 4 8 \\ \\mathrm { g }$ ，贝母素乙 $0 . 0 0 5 0 \\mathrm { g }$ ，加甲醇稀释至 $2 5 ~ \\mathrm { m L }$ 容量瓶中，再用甲醇稀释成贝母素甲96、48、38.4、19.2、 $9 . 6 ~ \\mathrm { m g ^ { \\bullet L ^ { - 1 } } }$ ，贝母素乙100、50、40、20、 $1 0 ~ \\mathrm { { m g ^ { - 1 } } } ^ { - 1 }$ 的混合对照品溶液，摇匀后过 $0 . 2 2 \\mu \\mathrm { m }$ 微孔过滤器，备用。按\"1.2.1.1\"项色谱及质谱条件对混合对照品溶液进行分析，以对照品质量浓度为横坐标，峰面积为纵坐标，建立线性回归方程。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1.3 样品生物碱含量的提取及测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "生物碱提取参照Luo 等（LUO etal.,2018)方法基础上将回流法改为摇床震荡法（条件：温度 $3 2 \\mathrm { { ^ \\circ C } }$ 时间： $1 2 \\mathrm { h }$ ；转速： $1 2 0 ~ \\mathrm { r p m }$ ）。按\"1.2.1.1\"项色谱及质谱条件对11个产地浙贝1号盛花期3个组织部位、成熟期鳞茎生物碱（贝母素甲和贝母素乙）含量进行测定，每个样重复3次。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2浙贝母总RNA提取及反转录 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "按照 Aidlab EASYspin Plus Complex Plant RNA Kit 提取浙贝母茎、叶、鳞茎的总 RNA。采用NanoDropTM2000 分光光度计（Thermo Fisher,USA）测定浙贝母不同组织部位总RNA浓度以及吸光度比值 ( $\\mathrm { \\Delta } \\cdot \\mathrm { A } _ { 2 6 0 / 2 8 0 }$ 和 $\\mathbf { A } _ { 2 6 0 \\ / 2 3 0 } )$ ， $1 . 2 \\%$ 琼脂糖凝胶电泳鉴定其完整性。采用VazymeHiScript $\\textsuperscript { \\textregistered }$ I Q RTSuperMixforqPCR 试剂盒将总RNA逆转录合成cDNA，于 $- 2 0 ^ { \\circ } \\mathrm { C }$ 保存。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3荧光定量PCR ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据本课题组已克隆的浙贝母HMGR、FPS、 $D X R$ 和 $\\beta$ -Actin基因序列采用PrimerExpress3.0软件设计并筛选出特异性、稳定性、重复性好的引物用于荧光定量表达分析，筛选后的引物见表2（冯亚斌等，2017a；冯亚斌等，2016；冯亚斌等，2017b）。qPCR反应体系为 $2 0 { \\mu \\mathrm { L } }$ ，其中包括：2xChamQSYBR Color qPCR Master Mix $1 0 ~ \\mu \\mathrm { L }$ 、上下游引物各 $0 . 4 ~ \\mu \\mathrm { L }$ ，模板cDNA $0 . 4 ~ \\mu \\mathrm { L }$ 、 $\\mathrm { \\ d d H _ { 2 } O \\ 8 . 8 \\ \\mu L }$ 。qPCR反应程序： $9 5 ^ { \\circ } \\mathrm { C }$ 预变性 $3 0 \\mathrm { ~ s ~ }$ ： $9 5 ^ { \\circ } \\mathrm { C }$ $1 0 \\mathrm { ~ s ~ }$ ， $6 0 ^ { \\circ } \\mathrm { C }$ 30s，重复40个循环；PCR反应之后从 $6 0 ^ { \\circ } \\mathrm { C }$ 逐渐升温",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/0805a410b6471dd02980f5ffd3a77c9d9edf5a74283f9fb79878d02c2811a5a4.jpg",
+        "table_caption": [
+            "到 $9 5 ^ { \\circ } \\mathrm { C }$ 制作溶解曲线。以看家基因 $\\beta$ -Actin作为内参基因，采用 $2 ^ { - \\Delta \\mathrm { C T } }$ 计算基因的表达量(Wuetal.,2015)表2浙贝母HMGR、FPS和DXR基因的实时荧光定量PCR引物",
+            "Table 2 Real-time fluorescence quantitative PCR primers for HMGR,FPS and DXR genes of Fritilri thunbergii "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>基因</td><td>正向引物(5'→3\")</td><td>反向引物(5'→3)</td></tr><tr><td>Gene</td><td>Forward primer</td><td>Reverse primer</td></tr><tr><td>HMGR</td><td>CAGTGGCAATGAAGACGG</td><td>GAGGCAAATCAGTGGTATGT</td></tr><tr><td>FPS</td><td>TTTCGCCAGACATCAGCA</td><td>GGATTTATTCAACGAGGTG</td></tr><tr><td>DXR</td><td>TGGATCTCGCCTATGCTGCT</td><td>CCAGCGAAGGATGAACGACC</td></tr><tr><td>β-Actin</td><td>CATAATCCAGAGCCACATA</td><td>TGCCAATCTACGAGGGTT</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.4 数据分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用SPSSstatistics21.0软件进行统计分析，并使用Excel2010绘制柱状图。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1不同产地对浙贝母盛花期及成熟期生物碱积累量的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用UPLC-MS 法测定11个产地浙贝1号盛花期3个组织（茎、叶和鳞茎）及成熟期鳞茎中生物碱（贝母素甲和贝母素乙）的含量，结果如图1所示。在11个不同产地浙贝1号盛花期3个组织部位及成熟期鳞茎中均含生物碱，不同产地浙贝1号盛花期同一组织部位的总生物碱含量（贝母素甲与贝母素乙含量之和）存在显著差异（ $\\scriptstyle P < 0 . 0 5 ,$ ），茎中总生物碱含量最高的为章水，叶中总生物碱含量最高的为六安，鳞茎中总生物碱含量最高的为开化，而叶中总生物碱含量最低的为淳安，茎和鳞茎的总生物碱含量最低均为莲都；不同产地各组织部位生物碱含量存在相同的趋势，其中鳞茎中总生物碱含量最高，其次为茎，叶中总生物碱含量最低；在茎、叶和新鳞茎3个组织部位中，除瓯海、开化和淳安茎外，贝母素乙的含量均高于贝母素甲，且此趋势在叶中要明显高于茎和鳞茎。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在11个产地浙贝1号成熟期新鳞茎中，总生物碱含量存在显著差异（ $\\scriptstyle \\left. { \\begin{array} { r l } { P < 0 . 0 5 } \\end{array} } \\right.$ ），其中瓯海、六安产地浙贝母生物碱含量较高，丽水、开化、昌化、南通、婺城、章水产地总生物含量稍低，淳安、余杭、东阳产地总生物碱含量处于最低水平；其贝母素甲的含量均高于贝母素乙；值得注意的是，瓯海和莲都产地成熟期新鳞茎生物碱含量高于盛花期新鳞茎，但其它9个产地却呈现相反的趋势。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "0.04 贝母素甲Peinin 贝母素Peinine ■贝母素乙 Peininine 0.25 ■贝母素乙 Peisinine ■贝母素甲+贝母素乙 Peiminet 贝母素甲+贝母素乙Peini 0.03 0.20 ) 0.15- 0.02 生 0.10 0.01 0.05 ： 0.00 0.00 章水 欧海 开化 莲都 淳安 昌化 余杭 婺城 东阳 南通 六安 章水 瓯海 开化 莲都 淳安 昌化 余杭 婺城 东阳 南通 六安 Zhangshui Ouhai Kaihua Li andu Chunan Changhua Dongyang Nantong ZhangshuiOuhai Kaihua Liandu ChunanChanghuaYuhang Wucheng Dongyang Nantong Luan 产地 产地 Producing area Producing area 0. 6 贝母素甲 贝母素甲F 贝母素乙 0.5 贝母萧乙Pel 贝母素甲+贝母表乙 0. 5 0. 3 dddtdi mdddtd 0.2 0.2 0.1 章水 疏海 开化 连都 卓 昌化 六安 ZhangshuiOuhai Kaihua Liandu ChunanChanghua uar 0.0- 章水 頤海 开化 L都 淳安 昌化 余杭 婺城 东阳 南通 六安 产地 ZhangshuiQuhai Kaihua hua gDongyang Nantong Luan Producing area 产地 L Producing area ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "注：A.盛花期茎；B.盛花期叶；C.盛花期鳞茎；D.成熟期鳞茎；不同字母代表差异显著（ $P { < } 0 . 0 5$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Alkaloid content in different tissues of Fritillaria thunbergii from different producing areas Note: A. Stems at full bloom; B.Leaves at full bloom; C.Bulbs at full bloom; D.Mature bulbs; Different letters indicate significant differences ( $\\scriptstyle \\cdot < 0 . 0 5 )$ ！ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2不同产地对浙贝母盛花期及成熟期生物碱合成相关基因表达的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以11个产地浙贝1号盛花期的茎、叶、鳞茎及成熟期鳞茎为材料，采用实时荧光定量PCR方法检测了HMGR、FPS和DXR基因在不同产地、不同组织部位、不同发育阶段的表达差异水平，基因表达结果如图2所示。HMGR、FPS和DXR基因在11个不同产地浙贝1号的盛花期3个组织部位及成熟期鳞茎中均有表达，HMGR 和FPS基因表达趋势大体相同，其中以盛花期鳞茎中表达量最高，其次成熟期鳞茎，叶和茎的表达量最低；DXR 基因在成熟期鳞茎表达量最高，盛花期三个组织部位中的表达趋势不同于HMGR、FPS基因；盛花期至成熟期 HMGR、FPS和DXR基因表达变化存在显著差异（ $P$ $< 0 . 0 5 )$ ，，其中，瓯海产地HMGR、FPS 基因表达量同时上调，莲都产地HMGR基因上调，FPS 基因下调，其它9个产地HMGR、FPS 基因表达量同时下调；除东阳产地外，其它产地DXR基因均上调。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "同时，采用Pearson 双变量相关性法（YONG etal.，2016）对HMGR、FPS和DXR 基因表达量进行相关性分析，HMGR与FPS基因呈显著正相关性（ $\\scriptstyle \\cdot < 0 . 0 5 .$ ），DXR分别与HMGR、FPS基因呈低度正相关性（ $( P { > } 0 . 0 5 )$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5593477ffef856a8250c90437138f8e16af7aa494d3ec979f8728d44ecc60e61.jpg",
+        "img_caption": [
+            "图2不同产地浙贝母生物碱合成相关基因表达分析注：不同字母代表差异显著（ $\\cdot < 0 . 0 5$ ）。"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Note:Different letters indicate significant differences ( $\\scriptstyle \\cdot < 0 . 0 5 ,$ ！ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Gene expression analysis of alkaloids related to Fritillaria thunbergi from different producing areas ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3浙贝母生物碱合成相关基因表达量与生物碱积累量的关系",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为进一步研究浙贝母生物碱合成相关基因表达量与生物碱积累量之间的关系，采用 Pearson 双变量相关性法（YONG etal.，2016）对不同产地浙贝1号药用部位成熟期鳞茎中HMGR、FPS和DXR基因表达量与生物碱含量进行相关性分析（表3）。贝母素甲、贝母素乙和总生物碱含量分别与HMGR、FPS 基因表达量之间呈显著或极显著相关性，且FPS基因与生物碱含量相关性要高于HMGR基因;DXR基因与贝母素甲呈低度负相关性（ $\\cdot < 0 . 0 5$ 或 $P { < } 0 . 0 1$ ），与贝母素乙、总生物碱含量呈低度正相关性",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/9356fcce81259006b70d4347f17b937df1d91f453e0a11afa7dce3a0bfa65292.jpg",
+        "table_caption": [
+            "表3浙贝母成熟期生物碱含量与HMGR、FPS和DXR基因表达量相关性分析 Table 3 Analysis of correlation between alkaloid content and expression of HMGR,FPS and DXR genes in Fritillaria thunbergi at maturity stage "
+        ],
+        "table_footnote": [
+            "注：\\*相关性显著， $\\mathbf { P } { < } 0 . 0 5$ ; $^ { * * }$ 相关性极显著， $\\mathrm { \\Phi } ^ { \\mathrm { - } } 0 . 0 1$ 。 Note:\\*correlation is significant, $\\scriptstyle \\mathrm { { P < } 0 . 0 5 }$ ;\\*\\* correlation is extremely significant, $\\mathrm { { \\sf P } } { < } 0 . 0 1$ "
+        ],
+        "table_body": "<html><body><table><tr><td>项目 Project</td><td>贝母素甲 贝母素乙 Peimine Peiminine</td><td>总生物碱 Total alkaloids</td></tr><tr><td>HMGR 0.490*</td><td>0.417*</td><td>0.438*</td></tr><tr><td>FPS 0.672**</td><td>0.631**</td><td>0.664**</td></tr><tr><td>DXR -0.099</td><td>0.130</td><td>0.025</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论与结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "产地环境是道地药材形成的重要外在因素，会直接影响到道地药材的生长发育及其有效成分的形成和积累（ZHANG etal.,2016）。目前，有效成分已成为道地药材品质评价的重要指标之一（谢彩香等，2016）。本研究发现：不同产地浙贝母盛花期不同组织部位生物碱含量均以鳞茎中最高，其次是茎，叶中最低，这表明浙贝母生物碱分布存在明显的组织特异性，这与虎杖、人参、肉桂等中药材药效成分分布具有明显的组织特性的结果相一致（于树宏等，2006；李雁群等，2018）。成熟期鳞茎的总生物碱含量均符合2015版《中国药典》规定的标准（含量 $20 . 0 8 0 \\%$ ），而道地产区鄞州章水总生物碱含量处于11个产地的中下水平，这与独活、丹参等中药材研究结果不一致（胡太德等，2015；李贝宁等，2011）。这一方面可能是因为过高的生物碱含量对浙贝品质具有不利影响，会使转化为生物碱的初级代谢产物含量降低，另一方面也有可能是因为浙贝母药材化学成分复杂，包括氨基酸、多糖、核苷酸、矿物质等，生物碱并不是浙贝母唯一的有效成分，并不能准确判定其品质优劣，如金银花、羌活等中药质量等级是由多种物质的含量共同决定的（刘长河等，2016；蒋舜媛等，2016）。仅瓯海、莲都产地成熟期鳞茎生物碱含量高于盛花期新鳞茎，这可能是由于浙贝母处于快速生长期（3月中旬-5月中旬）时，两个产地平均气温显著高于其它产地，这不利于鳞茎体积增大（PAEKetal.，2016；黎开强等，2008）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "随着分子生物学的深入发展，人们对药材品质的关注也着眼于药效成分生物合成途径及其相关酶基因的研究。李锐等（2018）研究发现，卷叶贝母中FPS基因的表达水平与总生物碱含量的变化趋势一致。本研究同样也发现MVA途径中的HMGR和FPS基因在盛花期组织表达、盛花期至成熟期鳞茎表达变化趋势同生物碱含量变化趋势基本一致，这表明HMGR、FPS基因上调或下调可能导致生物碱合成量的增加或减少。HMGR和FPS基因之间呈显著正相关（ $\\mathrm { ( P { < } 0 . 0 5 ) }$ ），表明HMGR、FPS基因可能以协同调控或者修饰的方式来调控浙贝母生物碱的合成；此外，盛花期至成熟期鳞茎仅莲都产地HMGR、FPS基因表达量之间呈相反趋势，这可能与生物碱代谢通路中其它酶基因协同调控、环境因素有关（ZHAO etal.，2018）；MEP途径中的DXR基因在成熟期鳞茎中的表达趋势与HMGR、FPS基因相同，但在盛花期三个组织部位中的表达趋势却不同，盛花期至成熟期鳞茎DXR基因表达趋势除东阳产地外，其它产地均上调，这与生物碱含量变化趋势相反，这可能是由于DXR基因在生物碱合成通路中所起的作用并不关键所致。在本研究所涉及的3个基因中，药用部位成熟期鳞茎FPS基因表达量与生物碱含量的正相关性要高于HMGR基因，而DXR基因与生物碱含量呈低度相关性，这可能是由于MVA途径是甾体类生物碱合成的主要途径，处于MVA途径的下游FPS基因对生物碱合成的调控能力比上游HMGR基因强，而MEP途径通过中间产物IPP进入MVA途径中，对生物碱合成的影响较小（LAULEOetal.，2003；EVAVetal.，2003；ZHAOetal.，2018）。综上所述，本研究初步确定不同环境生长的浙贝母药用成分生物碱的积累受HMGR、FPS基因协同调控或者修饰作用明显，受DXR基因调控作用不明显，这为今后浙贝母生物碱合成关键酶基因和质量差异分析的分子机制研究奠定基础。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "CARDENAS PD, SONAWANE PD,POLLIER J, et al.，2016. GAME9 regulates the biosynthesis of steroidal alkaloids and upstream isoprenoids in the plant mevalonate pathway[J]. Nat Commun,7(16): 10654-10669.   \nCHEN G, LIU J, JIANG L, et al.，2018. Peiminine protects dopaminergic neurons from inflammation-induced cell death by inhibiting the ERK1/2 and NF- $\\mathbf { \\sigma } _ { \\cdot \\kappa \\mathrm { B } }$ signalling sathways[J]. Int J Mol Sci, 19(3): 821-827.   \nCUI MC, CHEN SJ, WANG HH, et al.， 2018. Metabolic profiling investigation of Fritillria thunbergii Miq. by gas chromatography-mass spectrometry[J]. J Food Drug Anal, 26(1): 337.   \nDHAR MK, KOUL A, KAUL S,2013. Farnesyl pyrophosphate synthase: a key enzyme in isoprenoid biosynthetic pathway and potential molecular target for drug development[J]. New Biotechnol, 30(2): 114-123.   \nEVA V, COMAN D, GRUISSEM W, 2013. Network analysis of the MVA and MEP pathways for isoprenoid synthesis[J]. Annu Rev Plant Biol, 64(1): 665.   \nFENG YB,LI MY,WU QL, et al.，2017a. Cloning of FPS gene and its role in regulation of alkaloid synthesis in Fritillaria thunbergi[J]. Chin Tradit Herbal Drugs,48(5): 971-978.[冯亚斌，李沫宇，吴秋丽，等， 2017a．浙贝母FPS基因的克隆及其在生物碱代谢中的调控作用研究[J]．中草药，48(5)：971-978.]   \nFENG YB, SHI XL,YU XG, et al.，2017b. Cloning and bioinformatics analysis of Actin gene in Fritillaria thunbergi[J].Chin Tradit Pat Med,39(1):126-130.[冯亚斌，施鑫磊，俞信光，等，2017b．浙贝母肌动 蛋白基因的克隆及生物信息学分析[J]．中成药，39(1)：126-130.]   \nFENG YB,YU XG, ZHUANG XC,et al.，2016. Cloning and bioinformatics analysis of aonserved fragment of HMGR gene in Fritillaria thunbergi[J].JNucl Agric Sci,30(12): 2289-2294.[冯亚斌，俞信光，庄欣 晨，等，2016．浙贝母 HMGR 基因保守区序列的克隆及生物信息学分析[J]．核农学报，30(12): 2289-2294.]   \nHE CY, ZHANG CC,LI SQ, et al.，2O18.Research advances in quality and ecological suitability of Fritillariae Thunbergii bulbus chinese herbs [J].Chinese Journal of ETMF,24(2): 220-225.[何琛晔，张春 椿，李石清，等，2018．浙贝母品质现状及中药材生态适宜性的研究进展[J]．中国实验方剂学杂志， 24(2): 220-225.]   \nHU TD, CHEN SC, TAN J, 2015. Comparative study on the main medical component contents of angelica pubescens in famous region chongqing and other domestic areas in China[J]. Chin Pharm，26(33): 4711-4713.[胡太德，陈绍成，谭君，2015．重庆道地药材独活与全国其他产区独活主要药效成分含 量对比研究[J]．中国药房，26(33)：4711-4713.]   \nJIANG SY, SUN HB，SUN H,et al.，2016. Correspondence analysis between traditional commercial specifications and quantitative quality indices of Notopterygii Rhizoma et Radix[J]. Chin JMat Med, 41(5): 793-801.[蒋舜媛，孙洪兵，孙辉，等，2016．羌活药材商品规格与质量等级的对应分析[J]．中国中 药杂志，41(5)：793-801.]   \nKIM YJ,LEE OR,OH JY, et al.， 2014. Functional analysis of 3-hydroxy-3-methylglutaryl coenzyme areductase encoding genes in triterpene saponin-producing ginseng[J]. Plant Physiol,165(1): 373-387.   \nLAULE O,FURHOLZ A, CHANG H S,et al.， 2003. Crosstalk between cytosolic and plastidial pathways of isoprenoid biosynthesis in Arabidopsis thaliana[J]. Proc Nat Acad Sci USA,10O(11): 6866-6871.   \nLEE B，KIM EY,KIM JH,et al.，2015. Antialergic effects of peiminine through the regulation of inflammatory mediators in HMC-1 cells[J]. Immunopharmacol & Immunotoxicol, 37(4): 1-8.   \nLI BN, ZHOU XL, HUANG LQ, et al.， 2011. Correlation between expression level of functional genes and tanshinones accumulation in Salvia miltiorrhiza from different areas[J]. Chin JMat Med, 36(24): 3406-3409.[李贝宁，周晓丽，黄璐琦，等，2011．不同产地丹参功能基因表达水平对丹参酮类成分 积累的影响[J]．中国中药杂志，36(24)：3406-3409.]   \nLI KQ,WU W, ZHENG YL,et al.， 2008. Eect of temperature on physiologic indexes, bulb yielding and total alkaloids contents of Fritillaria cirhosa[J]. Chin JMat Med,33 (16):1948-1951.[黎开强，吴卫，郑 有良，等，2008.温度对川贝母生理指标、鳞茎产量及总生物碱含量的影响[J].中国中药杂志，33(16)： 1948-1951.]   \nLI R, CHEN XY, ZHANG Y,et al.， 2018.Cloning and expression analysis of farnesyl diphosphate synthase gene in Fritillaria cirrhosa[J].Guihaia,38(9):1111-1116.[李锐，陈晓仪，张阳，等，2018．卷叶贝母 法尼基焦磷酸合酶基因的克隆及表达分析[J]．广西植物，38(9)：1111-1116.]   \nLI YQ& WU H,2018. The research progress of the correlation between growth development and dynamic accumulation of the effective components in medicinal plants[J].Bull Bot,53(3): 293-304.[李雁群和吴 鸿，2018．药用植物生长发育与有效成分积累关系研究进展[J]．植物学报，53(3)：293-304.]   \nLIU CH,WANG YY, CHEN JJ, et al.，2O16.Correlation of quality and content of efective constituent in Lonicera japonica thunb[J].Liaoning JTradit Chin Med,43(11): 2352-2354.[刘长河，王艳艳，陈杰金， 等，2016．银花中有效成分的含量与其质量等级相关性研究[J]．辽宁中医杂志，43(11)：2352-2354.]   \nLUO D,LIU Y, WANG Y,et al.,2018.Rapid identification of Fritillariae Cirrhosae bulbus and its adulterants by UPLC-ELSD fingerprint combined with chemometrics methods[J]. Biochem Syst & Ecol, 76: 46-51.   \nPAEK K Y & MURTHY HN,2002. High frequency of bulblet regeneration from bulb scale sections of Fritillaria thunbergi[J]. Plant Cell Tiss Org, 68(3): 247-252.   \nRUAN X, YANG L, CUI W X, et al.，2O16. Optimization of supercritical fluid extraction of total alkaloids, peimisine, peimine and peiminine from the bulb of Fritillaria thunbergi Miq,and evaluation of antioxidant activities of the extracts[J]. Mater, 9(7): 524.   \nTANG Q, WANG Y,Ma L,et al.， 2O18. Peiminine serves as an adriamycin chemosensitizer in gastric cancer by modulating the EGFR/FAK pathway[J]. Oncol Rep,39(3): 1299-1305.   \nWU Q,MA X, ZhANG K, et al.， 2015. Identification of reference genes for tissue-specific gene expression in Panax notoginseng using quantitative real-time PCR[J]. Biotechnol Lett, 37(1): 197-204.   \nXIE CX, SONG JY, HAN JP, et al.， 2O16. Study on genuineness evaluation and regionalization of traditional Chinese medicines[J].World Science and Technology-Modernization of Traditional Chinese Medicine, 18(6):950-958.[谢彩香，宋经元，韩建萍，等，2016．中药材道地性评价与区划研究[J]．世界科学 技术-中医药现代化，18(6)：950-958.]   \nYONG W, CHEN H, HAN D,et al.， 2016. Correlation of the A-FABP gene polymorphism and mRNA expression with intramuscular fat content in three-yellow chicken and hetian-black chicken[J].Anim Biotechnol, 28(1): 37-43.   \nYU SH, CHA JP, ZHAN WH,et al.，2006.Contents comparison of resveratrol and polydatin in the wild Polygonum cuspidatum plant and its tissue cultures[J]. Chin JMat Med,31(8): 637-641.[于树宏，查建蓬, 詹文红，等，2006．虎杖野生植株及组织培养物中白藜芦醇和虎杖苷含量的比较[J]．中国中药杂志， 31(8): 637-641.]   \nZHA X,SUN H, HAO J, et al.， 2010. Eficient synthesis of solasodine,o-acetylsolasodine,and soladulcidine as anticancer steroidal alkaloids[J]. Chem Biodivers,4(1): 25-31.   \nZHANG L, CAO B,BAI C,et al.， 2016. Predicting suitable cultivation regions of medicinal plants with maxent modeling and fuzzy logics: a case study of Scutellaria baicalensis in China[J]. Environ Earth Sci, 75(5):361.   \nZHAO Q,LIR, ZHANG Y,et al., 2018.Transcriptome analysis reveals in vitro-cultured regeneration bulbs as a promising source for targeted Fritillria cirrhosa steroidal alkaloid biosynthesis.[J]. Biotechnol, 8(4): 191. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

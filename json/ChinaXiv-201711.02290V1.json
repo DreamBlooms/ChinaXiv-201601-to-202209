@@ -1,0 +1,563 @@
+[
+    {
+        "type": "text",
+        "text": "Measurement of higher-order multipole amplitudes in $\\psi ( 3 6 8 6 ) \\to \\gamma \\chi _ { c 1 , 2 }$ with $\\chi _ { \\mathrm { c 1 , 2 } }  \\gamma J / \\psi$ （204号 and search for the transition $\\eta _ { c } ( 2 S )  \\gamma J / \\psi$ ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "M.Ablikim1,.NAchaso9e,X.C.Ai,O.Abayrak,.brecht,D.JAmbrose44,A. $^ { 4 9 A , 4 9 C }$ F.F $\\mathbf { A n } ^ { 1 }$ Q. $\\mathrm { A n } ^ { 4 6 , a }$ ，   \nJ.Z.Bai,R.BFerrA,YB1,D.WBeet9JVBeett.BertaDBetoA,JBac $^ { 4 9 A , 4 9 C }$   \nE.Boger23cLBok3,R.ABriere,HCa,Xai,O.Cair,ACacateG.F $\\mathrm { C a o } ^ { 1 }$ ,S.A. Cetin40BJ.FChang1 G. Chelkov $^ { 2 3 , c , d }$ ,G.Chen1,H,S.Chen1,HY.Chen2,J.CChen,M.L.Chen,S.Chen41,S.J.Chen29,X.Chen1,X.R.e26 Y.B.Chen,H.PCheng7,K31GCeHDaJD4,Abey4Dedovch23,Zg, A. Denig² 2,1. Denysenk23,.Destefanis4A49C，FDeMor9A49，Y.Ding27,C.Dong0,Jog a,L. Y.Dong1,M. Y. Dong1,a Z.L.Dou2,S.XDu53,PFDuan,J.Z.Fan39，J.FangS.S.Fang1,XFang46a,Y.Fang,R.Fariei2,L.Fava49B4C O.Fedorov23,FFelbauer2,G.Felic20A，C.Q.Feng46d,E.Favant214，M.Fritsch422D $\\mathrm { F u ^ { 1 } }$ ,Q. Gao1, X. L. Gao46,a,   \nX Y.Gao,YGa3ZGao46,G21K.Goetze10，LGong30,W.XGongWGradl2,.Geco49.H. $\\boldsymbol { \\mathrm { G u } } ^ { 1 , a }$   \nY.T.Gu12,Y.H.Guan1,A.Q.Guo1,L.B.Gu28,R.PGuo1,YGu,YP.Guo22,Z.Haddadi25,A.Hafner2,S.Han51,X.Q.Hao5，   \nFA.Haris42,K.LHe1,THeld,YK.HengLZLHou1,C.H28HM $\\mathrm { H u ^ { 1 } }$ ,JF $\\mathrm { H u } ^ { 4 9 A , 4 9 C }$ I $\\mathrm { H u } ^ { 1 , a }$ Y $\\mathrm { H u ^ { 1 } }$ ,G.S. Huang46,a, J. S.Huang15,X. T. Huang33,X. Z. Huang29, Y. Huang29,Z.L. Huang27,T. Hussain48, Q. $\\mathrm { J i ^ { 1 } }$ ,Q. P. Ji30, X B. $\\mathrm { J i ^ { 1 } }$ ,X. L. $\\mathbf { J i } ^ { 1 , a }$ 1 L.W. Jiang51,X. S.Jiang1,a,X. Y. Jiang30,J. B.Jiao33,Z. Jiao17,D.P. $\\operatorname { J i n } ^ { 1 , a }$ ,S.Jin1,T.Johansson50,A. Julin43   \nN. Kalantar-Nayestanaki25, X.L. Kang1, X.S. Kang30,M Kavatsyuk25,B.C. $\\mathrm { K e ^ { 5 } }$ ,P. Kiese2²2，R. Kliemt4,B. Klos22, O.B. Kolu0B,h,   \nB. Kopf4,M.Koricer42,A. Kupsc50,W. Kuhn24,J.S.Lange24,M.Lara19,P.Larin14, H.Leithof22,C.Leng49CC. $\\mathrm { L i } ^ { 5 0 }$ ,Cheng $\\mathrm { L i } ^ { 4 6 , a }$ D. M. Li53,F Li1,α,F Y Li31,G.Li1,H. B.Li1,H.J.Li, J.C.Li1, Jin $\\mathrm { L i ^ { 3 2 } }$ ,K. Li33, K. $\\mathrm { L i ^ { 1 3 } }$ ,Lei $\\mathrm { L i ^ { 3 } }$ ,P.R. $\\mathrm { L i ^ { 4 1 } }$ ,Q.Y. $\\mathrm { L i ^ { 3 3 } }$ ,T.Li33, W. D.Li1, W. G.Li1, X.L. Li33, X. M. Li12, X. N. Li1,α, X. Q.Li30,Y. B. $\\mathrm { L i ^ { 2 } }$ ,Z. B.Li38,H.Liang46,a,J.J.Liang12,Y.F.Liang36, Y. T Liang24,G.R.Liao11,D.X.Lin14,B.Liu34,B.JLiu1,C.X.Liu1,D.Liu46a,FHLiu35,FangLiu1,FengLiu,HB.Liu12,   \nH.H.Liu16,H.HLu,H.Liu,J.Liu,JBLi46aJ.PLiu51,J.YLi1,KLu39,K.YLiu27,LDLu3PLLiLi4   \nS. B.Liu46a,X.Liu26,Y. B.Liu30,Z. A.Liu1q,ZhiqingLiu22H.Loehner25，X.C.Lou1,a9,H.J.Lu17,J.G. $\\mathrm { L u } ^ { 1 , a }$ ,Y Lu1, Y P ${ \\mathrm { L u } } ^ { 1 , a }$ ， C.L. Luo28,M. X. Luo5²,T. Luo42, X. L.Luo1,α, X. R. Lyu41,F C. $\\mathrm { M a ^ { 2 7 } }$ ,H.L. $\\mathbf { M } \\mathrm { a } ^ { 1 }$ ,L.L.Ma33,M.M.Ma1,Q. M. $\\mathbf { M } \\mathrm { a } ^ { 1 }$ ,T. $\\mathrm { { M a } ^ { 1 } }$ X N.Ma30X.YMaaYMMa33,FE.Maas14,M.Maggiora9449Y.J.Ma31,Z.PMao1,S.Marell944   \nJ.G.Messhendorp25，G.MezzadrB,JMin,R.E.itchel19，X.H.MYJ.M,C.MoralesMorales14,N.Yu.uche   \nH.Muramatsu43，YNefedov3,FNerlin14,1B.Nikolaev,Z.NingS.Nsar,S.LNuX.Y.Ni1,S.L.Osen2，Q.Oug   \nS.Paceti2P4PPate,Pees,H.PPeg6KPeteJPetess5J.L.Pig8，RGPg,g V. Prasad1,H. R. $\\mathrm { Q i ^ { 2 } }$ ,M.Qi29,S. Qian1α,C.F Qiao41,L. Q.Qin33,N.Qin51,XS.Qin1,Z.H Qin1,J.F Qiu1,K.H.Rashd48   \nC.F Redmer22,.Ripka2,GRong,ChRoser14,XD.Ruan12,A.Saratsev23f,.Svrie1B,K.Shoeng50,.S2 W.Shan31,M.Shao46,a,C.P.Shen2,P.X.Shen30,X. Y.Shen1,H.Y.Sheng1,M. $\\mathrm { { S h i ^ { 1 } } }$ ,W.M.Song1, X. Y.Song1,S.Sosio49A,49C， S.Spataro $^ { 4 9 A , 4 9 C }$ ,G. X. $\\operatorname { S u n } ^ { 1 }$ ,J.F.Sun15,S.S.Sun1,X.H Sun1,Y.J.Sun46,Y.Z. $\\mathrm { S u n ^ { 1 } }$ ,Z.J. Sun1a,Z.T.Sun19,C.J.Tang36,   \nXTang1,LTapan0CE.HTodike,.Temens25,.Urich24,UmaDG.Vaer2，B.Wang30，B.L.Wang41,ang   \nD.Y.Wang31,K.Wang1,L.L.Wang1,L.S.Wang1,M.Wang3,P.Wang1,P.L.Wang1,S.G.Wang31,W.Wang1,W.PWang46X.F.   \nWang39,Y.Wang37,Y.D.Wang14,Y.FWang1a,Y.Q.Wang22,Z.Wang1a,Z.G.Wang19,Z.H.Wang46a,Z.Y Wang1,Z.Y.Wang1,   \nT.Weber22,D.H.Wei11,J.B.Wei31,P.Weidenkaff2,S.P.Wen1,U.Wiedner4,M.Wolke50L.H. Wu1,L.J.Wu1,Z. ${ \\mathrm { W u } } ^ { 1 , a }$ ,L. Xia46,a,   \nL. G. Xia39,Y Xia18,D. Xiao1, H Xiao47,Z. J. Xiao28, Y. G. Xie1,a,Q.L. Xiu1, G.F $\\mathrm { { X u ^ { 1 } } }$ ,J.J. $\\mathrm { { X u ^ { 1 } } }$ L. $\\mathrm { { X u ^ { 1 } } }$ ,Q.J. $\\mathrm { { X u ^ { 1 3 } } }$ ,Q.N. $\\mathrm { { X u ^ { 4 1 } } }$ ， X.P $\\mathrm { { X u } ^ { 3 7 } }$ LYan49A49CWB.Yan46WCYan46a,Y.HYan18,HJ.Yang34,H.X.Yang1,L.Yang5,YXYang1,MYe   \nM.HYe7IH $\\mathrm { Y i n ^ { 1 } }$ ,B.x. $\\mathrm { Y u } ^ { 1 , a }$ C.X.Yu30J.SYu26C.Z.Yuan,WLYuan,YYuan,AYuncu0BbA.A.Zfar48,AZl2A   \nY Zeng18,Z.Zeng46a,B.X.Zhang1,.YZhang1,C.Zhang2,C.C.Zhang1,D.H.Zhang1,H.H.Zhang38,H.YZhang,J.Zhang   \nJ.J.Zhang1,J.L.Zhang1,J.Q.Zhang1,JWZhanga,J.Y.Zhang1,J.ZZhang,K.Zhang1,L.Zhang,.Q.Zhang30,X.Y.Zhang Y Zhang1,Y.H.Zhang1,YN.Zhang41,YT.Zhang46aYuZhang41,Z.H.Zhang,Z.PZhang46,Z.Y.Zhang51G.Zhao, J.W.Zhaoa,J.Y.Zhao,J.Z.Zhao1a,LeiZhao46a,LingZhao,M.G.Zhao30,Q.Zhao1,Q.W.Zhao1,S.J.Zhao53,T.C.Zhao1, Y B.Zhao,Z.G.Zao46a,A.Zemchgov3c,B.Zeng47,J.P.ZhengW.J.Zeng,Y.H.Zeng,.Zhong2,L.o X.Zhou51,X.K.Zhou46aX.R.Zhou46a,X.Y.Zhou,K.Zhu1,K.J.Zhu1aS.Zhu1,S.H.Zhu45,X.L.Zhu39,Y.C.Zhu46,a, Y. S.Zhu1,Z.A.Zhu,J.Zhuang1a,L. Zoti49A49CB.S.Zou1,J.H.Zou1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(BESII Collaboration) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Institute of High Energy Physics,Beijing 100049,People's Republic of China 2 Beihang University,Beijing91,People'sRepublicofCina （20 $^ 3$ Beijing Institteoftroeicalhogeiole'sepublicn 4 Bochum Ruhr-University,D-44780 Bochum, Germany 5 CarnegieellnUsitbghna $^ 6$ CentralChiaalUivesityWuno9eolesubic （20 $^ 7$ China Center of Advanced Science and Technology,Beijing 10ol90,People's Republic of China $^ { 8 }$ COMSASuteooreeedfd （20 $^ { 9 }$ G.I.Budker Institute of NuclearPhysics SB RAS (BINP),Novosibirsk 630090,Russia （20 $^ { 1 0 }$ GSIHelmholzentrfreavoneeach9stadt （204号 $^ { 1 1 }$ Guangxi Normal University,Guilin541004,People'sRepublicofChina （20 $^ { 1 2 }$ GuangXi UniversityNnning50o4,People'sRepublicofina $^ { 1 3 }$ HangzhouNoral UniversityHangzhou303,People'sRepublicoin （204号 $^ { 1 4 }$ HelmholtzIsiutenr49 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（20 $^ { 1 5 }$ Henan NormalUniversity Xinxiang453o7,People'sRepublicofCin   \n（204号 $^ { 1 6 }$ HenanUnivesiyofenceadhogLogple'epubicfa   \n（1号 $^ { 1 7 }$ HuangshanCoegeHaghn450ole'sepubc   \n（204号 $^ { 1 8 }$ Hunan Univeityg2le'spubc   \n$^ { 1 9 }$ IndianaU   \n（20 $^ { 2 0 }$ (A)INFN   \n1 $^ { 2 1 }$ (A)INF   \n（2 $^ { 2 2 }$ JohannesGuteberUiveityofinzJoaachhWeg459in   \n$^ { 2 3 }$ Joie   \n（204号 $^ { 2 4 }$ Justusb   \n（ $^ { 2 5 }$ KVI-CART,Uvesityongen977AogeneNt   \n12 $^ { 2 6 }$ LanzhouUiveituu   \n$^ { 2 7 }$ LiaoningUnivesitglespub   \n$^ { 2 8 }$ NanjingNaUieseb   \n（ $^ { 2 9 }$ Nanjing Uivesityjiolesb   \n（204 $^ { 3 0 }$ Nankai Univesityole'sebc   \n（ $^ { 3 1 }$ PekingUnivi   \n$^ { 3 2 }$ SeoulNatioUityoule   \n33Shandongeitylesebc   \n（ $^ { 3 4 }$ ShanghaiJiaoongUvesityageople'sepubc   \n35ShanxiUvesityaele'sepubic   \n36 Sichuan University,Chngdu60o64,People's Republicfna   \n37 Soochow Uiversityuzhou50,eople'sepubc   \n（ $^ { 3 8 }$ SunYat-SenUivesitagou75pesepubfn   \n1 $^ { 3 9 }$ TsinghuaUitb   \n40(A)Ankraitki   \nUniversity6O59 Bursa,Turkey;(D)NearEastUniversityNicosia,North Cyprus,Mersin10,urkey   \n$^ { 4 1 }$ Universityofecadfencengolespub   \n$^ { 4 2 }$ UniversityofoluwaU   \n$^ { 4 3 }$ Universityfotast   \n$^ { 4 4 }$ UniversityofRochesterRochesterNework467UA   \n（204号 $^ { 4 5 }$ UniversityofiencendTchnologLioningAnshan1401PeolesRepublicofCin   \n（20 $^ { 4 6 }$ Universityecdhoeesepubc   \n$^ { 4 7 }$ UniversityofouthCinaHngyang40oeope'sRepubica   \n$^ { 4 8 }$ Univeiyb   \n(A)Univeiyt   \nItaly   \n50 Uppsala Uvesityox516,-2Uppalade   \n51 Wuhan UnivesityWuhan43072People'sRepublicofin   \n52ZhejngUniversityHangzhou307People'sRepub   \n（ $^ { 5 3 }$ ZhengzhouUieitgoeb   \n@Also at StateKeyLaboratoryofParticleDetectionand Electronics,Beijing049,Hefei2306,People'sRepublicofChna   \n（20 $^ b$ Also at Bogazici University34342 Istanbul,urky   \n（20 $^ c$ Also at the Moscow Instituteof Physics and Technology, Moscow 1417oo,Russia   \n（20 $^ d$ AlsoattheFctiallectroicbraorymsktateUesityomk4   \neAlso at the Novosibirsk State University,Novosibirsk,63oo90,Russia   \nfAlsoattecte   \n9 Also at University of Texas at Dallas,Richardson, Texas 75083, USA   \nh Also at IstanbulArelUniversity34295stanbul,ukey ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Using 106 million $\\psi ( 3 6 8 6 )$ events collected with the BESIII detector,we measure multipole amplitudes for the decay $\\psi ( 3 6 8 6 )  \\gamma \\chi _ { c 1 , 2 }  \\gamma \\gamma J / \\psi$ beyond the dominant electric-dipole amplitudes. The normalized magnetic-quadrupole amplitude for $\\psi ( 3 6 8 6 )  \\gamma \\chi _ { c 1 , 2 }  \\gamma \\gamma J / \\psi$ and the normalized electric-octupole amplitudes for $\\psi ( 3 6 8 6 )  \\gamma \\chi _ { c 2 } , \\chi _ { c 2 }  \\gamma J / \\psi$ are determined. The M2 amplitudes for $\\psi ( 3 6 8 6 ) \\ :  \\ : \\gamma \\chi _ { c 1 }$ （20 and $\\chi _ { c 1 , 2 } ~  ~ \\gamma J / \\psi$ are found to differ significantly from zero and are consistent with theoretical predictions.We also obtain the ratios of M2 contributions of $\\psi ( 3 6 8 6 )$ and $J / \\psi$ decays to $\\chi _ { c 1 , 2 }$ ， $b _ { 2 } ^ { 1 } / b _ { 2 } ^ { 2 } =$ （204号 $1 . 3 5 \\pm 0 . 7 2$ and $a _ { 2 } ^ { 1 } / a _ { 2 } ^ { 2 } \\ = \\ 0 . 6 1 7 \\pm 0 . 0 8 3$ ，which agree well with theoretical expectations. By considering the multipole contributions of $\\chi _ { c 1 , 2 }$ ，we measure the product branching fractions for the cascade decays （20 $\\psi ( 3 6 8 6 ) \\to \\gamma \\chi _ { c 0 , 1 , 2 } \\to \\gamma \\gamma J / \\psi$ and search for the process $\\eta _ { c } ( 2 S )  \\gamma J / \\psi$ through $\\psi ( 3 6 8 6 ) \\to \\gamma \\eta _ { c } ( 2 S )$ The product branching fraction for $\\psi ( 3 6 8 6 ) ~  ~ \\gamma \\chi _ { c 0 } ~  ~ \\gamma \\gamma J / \\psi$ is $3 \\sigma$ larger than published measurements,while those of $\\psi ( 3 6 8 6 ) \\ \\to \\ \\gamma \\chi _ { c 1 , 2 } \\ \\to \\ \\gamma \\gamma J / \\psi$ are consistent. No significant signal for the decay $\\psi ( 3 6 8 6 ) \\to \\gamma \\eta _ { c } ( 2 S ) \\to \\gamma \\gamma J / \\psi$ is observed, and the upper limit of the product branching fraction at the $90 \\%$ （204号 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "I.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The processes $\\psi ( 3 6 8 6 ) \\to \\gamma _ { 1 } \\chi _ { c 1 , 2 }$ and $\\chi _ { c 1 , 2 } \\  \\ \\gamma _ { 2 } J / \\psi$ are dominated by electric-dipole (E1） amplitudes but allow forhigher multipole amplitudes as well, such as the magneticquadrupole(M2) and electric-octupole(E3) transitions. The contributions of these higher multipole amplitudes give information on the anomalous magnetic moment $\\kappa$ of the charm quark[1,2] and on the admixture of $S$ -and $D$ -wave states [3]. The normalized M2 contributions for $\\psi ( 3 6 8 6 ) \\to \\gamma _ { 1 } \\chi _ { c 1 , 2 }$ and $\\chi _ { c 1 , 2 }  \\gamma _ { 2 } J / \\psi$ ， which are referred to as $b _ { 2 } ^ { 1 , 2 }$ and $a _ { 2 } ^ { 1 , 2 }$ with the superscript representing $\\chi _ { c 1 , 2 }$ ,are predicted to be related to the mass of the charm quark, $m _ { c }$ ,and $\\kappa$ [1,2,4]. By assuming $m _ { c } = 1 . 5 \\mathrm { G e V } / c ^ { 2 }$ and ignoring the mixing of $S .$ and $D$ 1 wave states,thecontributions $b _ { 2 } ^ { 1 , 2 }$ and $a _ { 2 } ^ { 1 , 2 }$ , corrected to first order in $E _ { \\gamma _ { 1 , 2 } / m _ { c } }$ ，where $E _ { \\gamma _ { 1 , 2 } }$ is the energy of $\\gamma _ { 1 , 2 }$ in the rest frame of the mother charmonium state,are predicted [4] to be ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { b _ { 2 } ^ { 1 } = \\frac { E _ { \\gamma _ { 1 } } [ \\psi ( 3 6 8 6 )  \\gamma _ { 1 } \\chi _ { c 1 } ] } { 4 m _ { c } } ( 1 + \\kappa ) = 0 . 0 2 9 ( 1 + \\kappa ) , } \\\\ { a _ { 2 } ^ { 1 } = - \\frac { E _ { \\gamma _ { 2 } } [ \\chi _ { c 1 }  \\gamma _ { 2 } J / \\psi ] } { 4 m _ { c } } ( 1 + \\kappa ) = - 0 . 0 6 5 ( 1 + \\kappa ) , } \\\\ { b _ { 2 } ^ { 2 } = \\frac { 3 } { \\sqrt { 5 } } \\frac { E _ { \\gamma _ { 1 } } [ \\psi ( 3 6 8 6 )  \\gamma _ { 1 } \\chi _ { c 2 } ] } { 4 m _ { c } } ( 1 + \\kappa ) = 0 . 0 2 9 ( 1 + \\kappa ) , } \\\\ { a _ { 2 } ^ { 2 } = - \\frac { 3 } { \\sqrt { 5 } } \\frac { E _ { \\gamma _ { 2 } } [ \\chi _ { c 2 }  \\gamma _ { 2 } J / \\psi ] } { 4 m _ { c } } ( 1 + \\kappa ) = - 0 . 0 9 6 ( 1 + \\kappa ) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "respectively. The ratio of the M2 contributions of $\\psi ( 3 6 8 6 ) \\to$ $\\gamma _ { 1 } \\chi _ { c 1 }$ to $\\psi ( 3 6 8 6 )  \\gamma _ { 1 } \\chi _ { c 2 } ( \\chi _ { c 1 }  \\gamma _ { 2 } J / \\psi$ to $\\chi _ { c 2 }  \\gamma _ { 2 } J / \\psi )$ （204号 is independent of the $m _ { c }$ and $\\kappa$ of the charm quark to first orderin $E _ { \\gamma } / m _ { c }$ and predicted to be $b _ { 2 } ^ { 1 } / b _ { 2 } ^ { 2 } = 1 . 0 0 0 \\pm 0 . 0 1 5$ and $a _ { 2 } ^ { 1 } / \\dot { a } _ { 2 } ^ { 2 } ~ = ~ 0 . 6 7 6 \\pm 0 . 0 7 1$ ，respectively [5]，where the dominant uncertainties come from ignoring contributions of higher-order in $( E _ { \\gamma } / m _ { c } ) ^ { 2 }$ ．Higher order multipole amplitudes can be obtained by investigating the angular distributions of the final-state particles [1, 6,7]. Several experiments have searched for higher-order multipole amplitudes [5, $8 -$ 12]. The CLEO experiment reported significant M2 contributions in $\\psi ( 3 6 8 6 ) \\to \\gamma _ { 1 } \\chi _ { c 1 }$ and $\\chi _ { c 1 , 2 }  \\gamma _ { 2 } J / \\psi$ by analyzing 24 million $\\psi ( 3 6 8 6 )$ decays [5]. Recently,BESIII found evidence for the M2 contribution in $\\psi ( 3 6 8 6 ) \\to \\gamma \\chi _ { c 2 }$ with $\\chi _ { c 2 }  \\pi ^ { + } \\pi ^ { - } / K ^ { + } K ^ { - }$ [12]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The experimentally observed charmonium states and their decay can be reproduced reasonably well by calculations based on a potential model and by perturbative quantum chromodynamics[13].However, for the E1 radiative transitions of $\\psi ( 3 6 8 6 ) \\to \\gamma _ { 1 } \\chi _ { c 0 , 1 , 2 }$ ，there are significant discrepancies between different model predictions [14-16] and the Particle Data Group (PDG) average [17]. The partial widths of $\\psi ( 3 6 8 6 ) \\to \\gamma _ { 1 } \\chi _ { c 0 , 1 , 2 }$ are predicted to be 26,29,and $2 4 \\mathrm { k e V } ,$ respectively,by using the Godfrey-Isgur model [16],which deviate by $- ( 1 3 \\pm 3 . 5 ) \\%$ ， $( 1 . 4 \\pm 4 . 6 ) \\%$ ,and $- ( 1 1 . 8 \\pm 3 . 9 ) \\%$ from the averages of experimental measurements [17]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we report on a measurement of the higher order multipole amplitudes in the processes of $\\psi ( 3 6 8 6 ) $ $\\gamma _ { 1 } \\chi _ { c 1 , 2 } , \\chi _ { c 1 , 2 } \\to \\gamma _ { 2 } J / \\psi$ ，where the $J / \\psi$ is reconstructed in its decay modes $J / \\psi \\to \\ell ^ { + } \\ell ^ { - }$ $( \\ell = e / \\mu )$ .The measurements make use of the joint distributions of the five helicity angles in the final-state.Using the invariant mass of $\\gamma _ { 2 } J / \\psi$ ,we obtain the product branching fractions of $\\psi ( 3 6 8 6 ) \\to \\gamma _ { 1 } \\chi _ { c 0 , 1 , 2 } \\to$ $\\gamma _ { 1 } \\gamma _ { 2 } J / \\psi$ and search for $\\eta _ { c } ( 2 S )  \\gamma _ { 2 } J / \\psi$ produced through $\\psi ( 3 6 8 6 ) \\to \\gamma _ { 1 } \\eta _ { c } ( 2 S )$ .In the measurement of the product branching fractions of $\\psi ( 3 6 8 6 ) \\to \\gamma _ { 1 } \\chi _ { c 0 , 1 , 2 } \\to \\gamma _ { 1 } \\gamma _ { 2 } J / \\psi$ the multipole contributions of $\\chi _ { c 1 , 2 }$ are considered for the first time.The results presented in this manuscript supersede the ones in Ref.[18]. The analyses are based on a sample of $1 5 6 ~ \\mathrm { p b } ^ { - 1 }$ taken at a center-of-mass energy $3 . 6 8 6 \\mathrm { \\ G e V } ,$ corresponding to 106 million $\\psi ( 3 6 8 6 )$ [19].A $\\mathrm { \\Delta \\ p 2 8 \\ p b ^ { - 1 } }$ data sample taken at $3 . 7 7 3 \\mathrm { \\ G e V }$ [20] and a $4 4 ~ \\mathrm { p b } ^ { - 1 }$ data sample taken at $3 . 6 5 \\mathrm { G e V }$ are used to estimate the backgrounds from QCD processes. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "II. BESIIIDETECTORANDMONTECARLO SIMULATION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TheBESIII detectoris described in detail in Ref.[21].It is an approximately cylindrically symmetric detector which covers $93 \\%$ of the solid angle around the collision point. The detector consists of four main components:(a)a 43-layer main drift chamber provides a momentum resolution of $0 . 5 \\%$ for charged tracks at $1 \\mathrm { \\ G e V } / c$ in a1 T magnetic field; (b) a time-of-flight system(TOF) is constructed of plastic scintillators with a time resolution of 8O ps ( $\\mathrm { 1 1 0 ~ p s ) }$ in the barrel (end caps); (c) a 624O cell CsI(Tl) crystal electromagnetic calorimeter (EMC) provides an energy resolution for photons of $3 . 0 \\%$ （20 $( 5 . 0 \\% )$ around $0 . 3 \\mathrm { G e V }$ in the barrel (end caps) [22]; (d) a muon counter consisting of nine (eight) layers of resistive plate chambers in the barrel (end caps) within the return yoke of the magnet with a position resolution of $2 \\ \\mathrm { c m }$ provides muon/pion separation.A GEANT4[23] based detector simulation package has been developed to model the detector response used in Monte Carlo (MC) generated events. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A MC simulated sample of 1O6 million generic $\\psi ( 3 6 8 6 )$ decays(\"inclusive MC\"\") is used for general background studies.The $\\psi ( 3 6 8 6 )$ resonances are produced by the event generator KKMC [24]. The known decays are generated by BEsEVTGEN [25] with branching fractions taken from the PDG [17],while the remaining decays are generated according to the LUNDCHARM model [26]. Exclusive MC samples for signal decays are generated to optimize the selection criteria and to determine the detection effciencies.The $\\psi ( 3 6 8 6 ) \\to \\gamma \\chi _ { c 0 , 1 , 2 } \\to \\gamma \\gamma J / \\psi$ decays are generated with angular distributions determined from data,and the $\\eta _ { c } ( 2 S ) $ $\\gamma J / \\psi$ decay is generated according to the HELAMP model in EvTGEN [25]. To estimate the background contributions from $\\psi ( 3 6 8 6 )$ decays,the exclusive MC samples $\\psi ( 3 6 8 6 ) $ $\\eta J / \\psi , \\pi ^ { 0 } J / \\psi , \\pi ^ { 0 } \\pi ^ { 0 } J / \\psi , \\gamma \\gamma J / \\psi$ are generated according to the HELAMP，JPIPI [25]，and PHSP models,respectively ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To investigate QED processes backgrounds,radiative Bhabha and dimuon events $( e ^ { + } e ^ { - } \\ :  \\ : e ^ { + } e ^ { - } / \\mu ^ { + } \\mu ^ { - } )$ simulated with BABAYAGA V3.5 [27]，as well as $\\psi ( 3 7 7 0 ) ~ \\to ~ \\gamma \\chi _ { c J }$ and $\\gamma _ { \\mathrm { I S R } } \\psi ( 3 6 8 6 ) \\to \\gamma \\chi _ { c J } , \\pi ^ { 0 } J / \\psi$ produced by KKMC [24],are used together with the experimental data at $3 . 7 7 3 \\mathrm { G e V } .$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "III. EVENTSELECTION ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The signal decay $\\begin{array} { r l r } { \\psi ( 3 6 8 6 ) } & { { } \\to } & { \\gamma _ { 1 } \\chi _ { c 0 , 1 , 2 } ( \\eta _ { c } ( 2 S ) ) \\quad \\to } \\end{array}$ $\\gamma _ { 1 } \\gamma _ { 2 } J / \\psi , \\ J / \\psi \\to \\ell ^ { + } \\ell ^ { - } \\ ( \\ell = e , \\mu )$ consists of two charged tracks and two photons.Events with exactly two oppositely charged tracks and from two up to four photon candidates are selected. Charged tracks are required to originate from the run-dependent interaction point within $1 \\mathrm { c m }$ in the direction perpendicular to and within $\\pm 1 0$ cm along the beam axis and should lie within the polar angular region of $| \\cos \\theta | < 0 . 9 3$ The momentum $p$ of each track must be larger than $1 \\mathrm { G e V } / c$ The energy deposit $E$ in the EMC and $E / p$ of each track are used to identify muon or electron candidates.Tracks with $E < 0 . 4 \\mathrm { G e V }$ are taken as muons,and those with $E / p > 0 . 8 c$ areidentified as electrons.Events with both tracks identified as muons or electrons are accepted for further analysis.Photons are reconstructed from isolated showers in the EMC,where the angle between the positions in the EMC of the photon and the closest charged track is required to be larger than 1O deg. The energy deposited in the EMC is corrected by the energy loss in nearby TOF counters to improve the reconstruction eficiency and the energy resolution. The energy of each photon shower is required to be larger than $2 5 { \\mathrm { ~ M e V } } .$ The shower timing information is required to be in coincidence with the event start time with a requirement of $0 ~ \\leq ~ t ~ \\leq ~ 7 0 0$ ns to suppress electronic noise and showers unrelated to the event. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A four-constraint (4C) kinematic fit is performed for the two lepton candidates and all possible two photon combinations with the initial $\\psi ( 3 6 8 6 )$ 4-momentum as a constraint. If more than one combination is found in one event, the one with the smallest $\\chi _ { 4 \\mathrm { C } } ^ { 2 }$ value is kept. The $\\chi _ { \\mathrm { 4 C } } ^ { 2 }$ is required to be $\\chi _ { 4 \\mathrm { C } } ^ { 2 } < 6 0$ ,wheretherequirementis determined byoptimizing the statistical significance $S / \\sqrt { S + B }$ for the $\\eta _ { c } ( 2 S )$ channel. Here, $S$ is the number of events in the $\\eta _ { c } ( 2 S )$ signal region $3 . 6 0 < M ^ { 4 \\mathrm { C } } ( \\gamma _ { 2 } \\ell ^ { + } \\ell ^ { - } ) < 3 . 6 6 \\mathrm { G e V } / c ^ { 2 }$ （ $\\ y _ { 2 }$ denotes the photon with larger energy, and $M ^ { \\mathrm { 4 C } }$ is the invariant mass with the energies and momenta updated with the 4C kinematic fit) obtained from the exclusive MC sample,and $B$ is the number of corresponding background events determined from the 106 million inclusive MC sample and a continuum data sample collected at a center-of-mass energy of $3 . 6 5 \\mathrm { G e V } .$ The latter is normalized to the luminosity of the $\\psi ( 3 6 8 6 )$ data sample.The branching fraction of the decay $\\eta _ { c } ( 2 S )  \\gamma _ { 2 } J / \\psi$ is assumed to be $1 \\%$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To select events including the $J / \\psi$ intermediate state,the invariant mass of the_lepton pair is required to be in the region of $3 . 0 8 < M ^ { 4 \\mathrm { C } } ( { \\bar { \\ell } } ^ { + } \\ell ^ { - } { \\bar { ) } } < 3 . 1 2 { \\mathrm { \\bar { G } e V } } / c ^ { 2 }$ .In addition, to remove $\\psi ( 3 6 8 6 ) \\to \\pi ^ { 0 } J / \\psi$ and $\\psi ( 3 6 8 6 ) \\to \\eta J / \\psi$ backgrounds,events with an invariant mass of the photon pair in the regions $0 . 1 1 < M ^ { \\mathrm { 4 C } } ( \\gamma \\gamma ) < 0 . 1 5 \\mathrm { G e V } / c ^ { 2 }$ or $M ^ { 4 \\mathrm { C } } ( \\gamma \\gamma ) >$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cc2346fe93f0a38bc522ffc0ee4212d9087ec2cd97ffa31b3c32409ce50c7b01.jpg",
+        "img_caption": [
+            "FIG.1. Mass distributions of $M ^ { \\mathrm { 4 C } } ( \\gamma _ { 2 } \\ell ^ { + } \\ell ^ { - } )$ for events in the $\\chi _ { c 1 , 2 }$ region.Black dots correspond to data,and red histograms are obtained from the signal MC samples scaled by the maximum bin. The green dashed histogram is the background contribution obtained from the inclusive MC samples.The arrows denote the signal regions. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$0 . 5 1 \\mathrm { \\ G e V } / c ^ { 2 }$ are rejected. A MC study shows that this removes $9 7 . 9 \\%$ of the $\\pi ^ { 0 } J / \\psi$ events and almost $100 \\%$ of the $\\eta J / \\psi$ events,while the efficiencies of the signal channels for $\\chi _ { c 0 } , \\chi _ { c 1 } , \\chi _ { c 2 }$ and $\\eta _ { c } ( 2 S )$ are $7 4 . 7 \\%$ $9 0 . 0 \\%$ $9 3 . 9 \\%$ ，and $8 8 . 0 \\%$ ,respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "IV.MEASUREMENTOFHIGHER-ORDERMULTIPOLE AMPLITUDES ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 shows the $M ^ { 4 \\mathrm { C } } ( \\gamma _ { 2 } \\ell ^ { + } \\ell ^ { - } )$ （20 invariantmass distributionfor the selected （204号 $\\chi _ { c 1 , 2 }$ （ candidates. Thesignal regions for $\\chi _ { c 1 }$ and $\\chi _ { c 2 }$ （204号 aredefined as $3 . 4 \\bar { 9 } 6 < < M ^ { 4 \\mathrm { C } } ( \\gamma _ { 2 } \\ell ^ { + } \\ell ^ { - } )$ $< 3 . 5 3 3 \\mathrm { \\quad ~ } \\mathrm { G e V } / c ^ { 2 }$ and $3 . 5 4 3 < M ^ { 4 \\mathrm { C } } ( \\gamma _ { 2 } \\ell ^ { + } \\ell ^ { - } ) < 3 . 5 7 5 \\mathrm { G e V } / c ^ { 2 }$ ，respectively. We find $1 6 3 9 2 2 \\ \\chi _ { c 1 }$ candidates and $8 9 4 0 9 \\ \\chi _ { c 2 }$ candidates. The background is estimated from the inclusive MC sample. The total number of background events is found to be 1016 $( 0 . 7 \\% )$ within the $\\chi _ { c 1 }$ signal region and 883 $( 1 . 0 \\% )$ in the $\\chi _ { c 2 }$ region. For the $\\chi _ { c 1 } \\left( \\chi _ { c 2 } \\right)$ channel, the dominant background is the contamination from $\\chi _ { c 2 } ~ ( \\chi _ { c 1 } )$ :。Some backgrounds stem from $\\psi ( 3 6 8 6 ) \\to \\gamma \\gamma J / \\psi$ and $\\pi ^ { 0 } \\pi ^ { 0 } J / \\psi$ decays.The QED process $e ^ { + } e ^ { - } \\to \\ell ^ { + } \\ell ^ { - } \\gamma _ { \\mathrm { I S R / F S R } }$ contributes about 109 events for $\\chi _ { c 1 }$ and 135 events for $\\chi _ { c 2 }$ . Non- $J / \\psi$ background is negligibly small according to the sideband analysis. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Events in the signal regions are used to determine the higher-order multipole amplitudes in the $\\psi ( 3 6 8 6 ) \\ $ Y1Xc1,2 → 1/2J/ radiative transitions. The normalized M2 contributions for the channels $\\psi ( 3 6 8 6 ) \\to \\gamma _ { 1 } \\chi _ { c 1 , 2 }$ and $\\chi _ { c 1 , 2 }  \\gamma _ { 2 } J / \\psi$ are denoted as $b _ { 2 } ^ { 1 , 2 }$ and $a _ { 2 } ^ { 1 , 2 }$ ,respectively. In the $\\chi _ { c 2 }$ decays,the E3 transition is also allowed. The corresponding normalized E3 amplitudes are indicated as $b _ { 3 } ^ { 2 }$ and $a _ { 3 } ^ { 2 }$ for $\\psi ( 3 6 8 6 ) \\to \\gamma _ { 1 } \\chi _ { c 2 }$ and $\\chi _ { c 2 }  \\gamma _ { 2 } J / \\psi$ , respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "IV.A．Fit method ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We perform an unbinned maximum likelihood fit to obtain the higher-order multipole amplitudes following the procedureas describedinRef.[12].Thelog-likelihood function is built as $\\ln \\mathcal { L } _ { s } = \\ln \\mathcal { L } - \\ln \\mathcal { L } _ { b }$ , where $\\begin{array} { r } { \\dot { \\mathcal { L } } \\equiv \\prod _ { i = 1 } ^ { N } \\operatorname { F } _ { \\chi _ { c 1 , 2 } } ( i ) } \\end{array}$ denotes the product of probability densities forall candidates in the signal region, $N$ is the number of the candidates,and $F$ is the probability density functions (PDFs). The contribution to the likelihood from background events, $\\mathcal { L } _ { b }$ ,is estimated using the inclusive MC sample and continuum data. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ThePDFs $F$ forthejointangulardistributionsof the $\\chi _ { c 1 , 2 }$ decay sequencesare defined as $\\frac { W _ { \\mathcal { X } _ { c J } } ( \\theta _ { 1 } , \\theta _ { 2 } , \\phi _ { 2 } , \\theta _ { 3 } , \\phi _ { 3 } , a _ { 2 , 3 } ^ { J } , b _ { 2 , 3 } ^ { J } ) } { W _ { \\mathcal { N } _ { \\mathrm { ~ \\tiny ~ r ~ } } } ( a _ { \\mathrm { ~ \\tiny ~ o ~ } } ^ { J } , b _ { \\mathrm { ~ \\tiny ~ o ~ } } ^ { J } ) }$ The term in the numerator, $W _ { \\chi _ { c J } } ( \\theta _ { 1 } , \\theta _ { 2 } , \\phi _ { 2 } , \\theta _ { 3 } , \\phi _ { 3 } , a _ { 2 , 3 } ^ { J } , b _ { 2 , 3 } ^ { J } )$ ，is derived from the helicity amplitudes and the Clebsch-Gordan relation[1],while $\\overline { { W _ { \\chi _ { c J } } ( a _ { 2 , 3 } ^ { J } , b _ { 2 , 3 } ^ { J } ) } }$ isused for the normalization. $\\theta _ { 1 }$ is the polarangle of $\\gamma _ { 1 }$ in the $\\psi ( 3 6 8 6 )$ rest frame with the $z$ axis in the electron-beam direction. $\\theta _ { 2 }$ and $\\phi _ { 2 }$ are the polar and azimuthal angles of $\\gamma _ { 2 }$ in the $\\chi _ { c J }$ rest frame with the $z$ axis in the $\\gamma _ { 1 }$ direction and $\\phi _ { 2 } = 0$ in the electron-beam direction. $\\theta _ { 3 }$ and $\\phi _ { 3 }$ are the polar and azimuthal angles of $\\ell ^ { + }$ from $J / \\psi \\to \\ell ^ { + } \\ell ^ { - }$ in the $J / \\psi$ rest frame with the $z$ axis aligned to the $\\gamma _ { 2 }$ direction and $\\phi _ { 3 } = 0$ in the $\\gamma _ { 1 }$ direction. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The formula $W _ { \\chi _ { c J } } ( \\theta _ { 1 } , \\theta _ { 2 } , \\phi _ { 2 } , \\theta _ { 3 } , \\phi _ { 3 } , a _ { 2 , 3 } ^ { J } , b _ { 2 , 3 } ^ { J } )$ for the helicity amplitudes has been discussed in Refs.[5,11,12,28]. Using the same method as reported in Refs.[5,11,12], the joint angular distributions $W _ { \\chi _ { c J } }$ can be expressed in terms of $a _ { 2 , 3 } ^ { J }$ and $b _ { 2 , 3 } ^ { J }$ as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { W _ { \\chi _ { c J } } ( \\theta _ { 1 } , \\theta _ { 2 } , \\phi _ { 2 } , \\theta _ { 3 } , \\phi _ { 3 } , a _ { 2 , 3 } ^ { J } , b _ { 2 , 3 } ^ { J } ) } } \\\\ { { = \\displaystyle \\sum _ { n } a _ { n } A _ { | \\nu | } ^ { J } A _ { | \\tilde { \\nu } | } ^ { J } B _ { | \\nu ^ { \\prime } | } ^ { J } B _ { | \\tilde { \\nu } ^ { \\prime } | } ^ { J } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "with ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\left( \\begin{array} { l } { A _ { 1 } ^ { [ 4 ] } } \\\\ { A _ { 1 } ^ { [ 4 ] } } \\end{array} \\right) = \\left( \\begin{array} { l l } { \\sqrt { 0 . 5 } } & { \\sqrt { 0 . 5 } } \\\\ { \\sqrt { 0 . 5 } } & { - \\sqrt { 0 . 5 } } \\end{array} \\right) \\left( \\begin{array} { l } { a _ { 1 } ^ { [ 4 ] } } \\\\ { a _ { 2 } ^ { [ 2 ] } } \\end{array} \\right) , } \\\\ & { \\left( \\begin{array} { l } { B _ { 1 } ^ { [ 6 ] } } \\\\ { B _ { 1 } ^ { [ 3 ] } } \\end{array} \\right) = \\left( \\begin{array} { l l } { \\sqrt { 0 . 5 } } & { \\sqrt { 0 . 5 } } \\\\ { \\sqrt { 0 . 5 } } & { - \\sqrt { 0 . 5 } } \\end{array} \\right) \\left( \\begin{array} { l } { b _ { 1 } ^ { [ 1 ] } } \\\\ { b _ { 2 } ^ { [ 2 ] } } \\end{array} \\right) , } \\\\ & { \\left( \\begin{array} { l } { A _ { 2 } ^ { [ 2 ] } } \\\\ { A _ { 2 } ^ { [ 4 ] } } \\end{array} \\right) = \\frac { 1 } { \\sqrt { 3 0 } } \\left( \\begin{array} { l l l } { \\sqrt { 3 } } & { \\sqrt { 1 5 } } & { 2 \\sqrt { 3 } } \\\\ { 3 } & { \\sqrt { 5 } } & { - 4 } \\\\ { 3 \\sqrt { 2 } } & { - \\sqrt { 1 0 } } & { \\sqrt { 2 } } \\end{array} \\right) \\left( \\begin{array} { l } { a _ { 1 } ^ { [ 2 ] } } \\\\ { a _ { 2 } ^ { [ 2 ] } } \\end{array} \\right) , } \\\\ & { \\left( \\begin{array} { l } { B _ { 2 } ^ { [ 3 ] } } \\\\ { B _ { 2 } ^ { [ 4 ] } } \\end{array} \\right) = \\frac { 1 } { \\sqrt { 3 0 } } \\left( \\begin{array} { l l l } { \\sqrt { 3 } } & { \\sqrt { 1 5 } } & { 2 \\sqrt { 3 } } \\\\ { 3 } & { \\sqrt { 5 } } & { - 4 } \\\\ { 3 \\sqrt { 2 } } & { - \\sqrt { 1 0 } } & { \\sqrt { 2 } } \\end{array} \\right) \\left( \\begin{array} { l } { b _ { 1 } ^ { [ 3 ] } } \\\\ { b _ { 2 } ^ { [ 2 ] } } \\end{array} \\right) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $B _ { | \\nu | } ^ { J }$ and $B _ { | \\widetilde { \\nu } | } ^ { J }$ [28] are the helicity amplitudes for   \n$\\psi ( 3 6 8 6 ) \\to \\gamma _ { 1 } \\chi _ { c J } , A _ { | \\nu | } ^ { J }$ and $A _ { | \\widetilde { \\nu } | } ^ { J }$ [28] are those for $\\chi _ { c J } $   \n$\\gamma _ { 2 } J / \\psi$ .m% $\\sqrt { ( a _ { 1 } ^ { 1 } ) ^ { 2 } + ( a _ { 2 } ^ { 1 } ) ^ { 2 } } = 1$ $b _ { | \\nu | } ^ { J } \\mathrm { s }$ $\\sqrt { ( a _ { 1 } ^ { 2 } ) ^ { 2 } + ( a _ { 2 } ^ { 2 } ) ^ { 2 } + ( a _ { 3 } ^ { 2 } ) ^ { 2 } } = 1$ $\\scriptstyle a _ { n } ( { n = 1 , \\ldots , 9 }$ $\\chi _ { c 1 }$ $\\chi _ { c 2 }$ $\\theta _ { 1 } , \\theta _ { 2 } , \\phi _ { 2 } , \\theta _ { 3 } , \\phi _ { 3 }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "high-statistics phase-space (PHSP) MC samples are generated. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The normalization factoris expressed as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { \\cal W } _ { \\chi _ { c J } } ( a _ { 2 , 3 } ^ { J } , b _ { 2 , 3 } ^ { J } ) } } \\\\ { { { } } } \\\\ { { = { \\displaystyle { \\sum _ { i = 1 } ^ { N _ { P } } } } W _ { \\chi _ { c J } } ( \\theta _ { 1 } ( i ) , \\theta _ { 2 } ( i ) , \\phi _ { 2 } ( i ) , \\theta _ { 3 } ( i ) , \\phi _ { 3 } ( i ) , a _ { 2 , 3 } ^ { J } , b _ { 2 , 3 } ^ { J } ) } } \\\\ { { { } } } \\\\ { { { \\displaystyle ~ = \\sum _ { n } } \\overline { { { a _ { n } } } } { \\cal A } _ { | \\nu | } ^ { J } { \\cal A } _ { | \\widetilde { \\nu } | } ^ { J } { \\cal B } _ { | \\nu ^ { \\prime } | } ^ { J } { \\cal B } _ { | \\widetilde { \\nu } ^ { \\prime } | } ^ { J } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $N _ { P }$ is the number of selected events.In such a way, the detector efficiency is considered in the normalization. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "IV.B.Fit results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Byminimizing $- \\ln \\mathcal { L } _ { s }$ ,the best estimates of the high-order multipole amplitudes can be obtained.To validate the fit procedure, checks are performed with MC samples for $\\chi _ { c 1 , 2 }$ separately,where the MC samples are generated based on a pure E1 transition model $( a _ { 2 , 3 } ^ { 1 , 2 } \\ ^ { \\textbf { ^ { \\perp } } } = \\ 0 , \\ b _ { 2 , 3 } ^ { \\perp , 2 } \\ = \\ 0 )$ or an arbitrary higher-ordermultipoleamplitude $( a _ { 2 , 3 } ^ { 1 , 2 } \\neq 0$ $b _ { 2 , 3 } ^ { 1 , 2 } \\neq 0 )$ The fit values are consistent with the input values within $1 \\sigma$ of statistical uncertainty.An unbinned maximum likelihood fit to the joint angular distribution for data is performed,and the corresponding angular distributions are depicted in Fig.2 together with the relative residual spectra. The ft results are listed in Table I,where the first uncertainties are statistical and the second ones are systematical as described in Sec.VI. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The statistical significance of a nonpure E1 transition is calculated to be $2 4 . 5 \\sigma$ $( 1 3 . 5 \\sigma )$ for $\\chi _ { c 1 }$ $( \\chi _ { c 2 } )$ by taking the difference of the log-likelihood values for the fits with higherorder multipole amplitudes included and fits based on a pure E1 transition,taking the change in the number of degrees of freedom, $\\Delta n d f ~ = ~ 2$ (4)，into consideration.Similarly, the statistical significance of the E3 contribution for $\\chi _ { c 2 }$ is $2 . 3 \\sigma$ ，as obtained by comparing the log-likelihood values between the nominal fit and a fit based on the assumption that E3 contribution is zero．A Pearson- $\\chi ^ { 2 }$ test [29] is performed to validate the fit result. Each angular dimension (i.e., $\\cos \\theta _ { 1 } , \\cos \\theta _ { 2 } , \\phi _ { 2 } , \\cos \\theta _ { 3 } , \\phi _ { 3 } )$ is divided equally into eight bins. This leads to a total of $8 ^ { 5 } = 3 2 7 6 8$ cells. The $\\chi ^ { 2 }$ is defined as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\chi ^ { 2 } = \\sum _ { i } \\frac { ( n _ { i } ^ { \\mathrm { D T } } - n _ { i } ^ { \\mathrm { B K G } } - n _ { i } ^ { \\mathrm { M C } } ) ^ { 2 } } { n _ { i } ^ { \\mathrm { D T } } + n _ { i } ^ { \\mathrm { B K G } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $n _ { i } ^ { \\mathrm { D T } }$ is the number of events in the $i$ th cell for data, nBKG is the number of the background contribution determined by the inclusive MC sample, and $n _ { i } ^ { \\mathrm { M C } }$ is the number of events for the luminosity-normalized MC sample produced according to the best fit values for $a _ { 2 , 3 } ^ { J }$ and $b _ { 2 , 3 } ^ { J }$ . The number of events of the MC sample is 4O times larger than of the data. Forcells with fewer than ten events,events in adjacent bins are combined. The test results in $\\chi ^ { 2 } / n d f = 9 7 1 4 . { \\bar { 7 } } / 9 5 6 3 = 1 . 0 2$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "TABLE I. Fit results for $a _ { 2 , 3 } ^ { J }$ and $b _ { 2 , 3 } ^ { J }$ for the process of $\\psi ( 3 6 8 6 ) \\to \\gamma _ { 1 } \\chi _ { c 1 , 2 } \\to \\gamma _ { 1 } \\gamma _ { 2 } J / \\psi$ ; thfrstuncertatyististicaldteod systematic. The $\\rho _ { a _ { 2 } , 3 ^ { b _ { 2 , 3 } } } ^ { J }$ are the correlation coeficients between $a _ { 2 , 3 } ^ { J }$ and $b _ { 2 , 3 } ^ { J }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/bdbcd59b1e500c030e1347e03b7af47628fe6d2a13fb55a4bc4edf48dce30962.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Xc1</td><td>a=-0.0740±0.0033±0.0034,b = 0.0229±0.0039±0.0027 Pa2b2= 0.133</td></tr><tr><td>Xc2</td><td>a²= -0.120±0.013 ±0.004,b2= 0.017 ±0.008 ±0.002 p2b= -0.422 p2bg =0.384,pa3b3 =-0.024</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "for $\\chi _ { c 1 }$ and $\\chi ^ { 2 } / n d f = 5 9 8 5 . 2 / 5 8 4 0 = 1 . 0 2$ for $\\chi _ { c 2 }$ ,demonstrating that the fit gives an excellent representation of the data. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "V.MEASUREMENTOF （204号 $\\mathcal { B } ( \\psi ( 3 6 8 6 )  \\gamma \\chi c y  \\gamma \\gamma J / \\psi )$ AND SEARCH FOR THE PROCESS $\\eta _ { c } ( 2 S )  \\gamma J / \\psi$ ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "With the selected $e ^ { + } e ^ { - } \\to \\gamma _ { 1 } \\gamma _ { 2 } J / \\psi$ candidates, we measure the product branching fractions of the decay $\\psi ( 3 6 8 6 ) $ $\\gamma _ { 1 } \\chi _ { c 0 , 1 , 2 } \\to \\gamma _ { 1 } \\gamma _ { 2 } J / \\psi$ and search for the process $\\eta _ { c } ( 2 S ) $ $\\gamma _ { 2 } J / \\psi$ .For the $J / \\psi  e ^ { + } e ^ { - }$ channel, additional requirements are applied to suppress the background from radiative Bhabha events $\\begin{array} { r } { [ e ^ { + } e ^ { - } \\  \\ \\gamma _ { \\mathrm { I S R / F S R } } e ^ { + } e ^ { - } \\ } \\end{array}$ ，where $\\gamma _ { \\mathrm { I S R / F S R } }$ denotes the initial-/final-state radiative (ISR/FSR) photon(s)). Since the electron (positron） from radiative Bhabha tends to have a polar angle $\\cos \\theta _ { e ^ { + } ( e ^ { - } ) }$ close to $+ 1$ (-1), we apply a requirement of $\\cos \\theta _ { e ^ { + } } < 0 . 3$ and $\\cos \\theta _ { e ^ { - } } > - 0 . 3$ .These requirements suppress $7 7 \\%$ of theBhabha eventswithareduction of the signal efficiency by one-third. The corresponding MC-determined efficiencies are listed in Table II. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A 4Ckinematic fit has the defect that the energy of a fake and soft photon will be modified according to the topology ofa signal event due to relativelylarge uncertainty,which results in a peaking background signature in the $\\dot { M } ^ { \\mathrm { 4 C } } ( \\gamma _ { 2 } J / \\psi )$ invariant-mass spectrum.To remove the peaking background, such as radiative Bhabha and radiative dimuon( $\\left. e ^ { + } \\right.$ $\\gamma _ { \\mathrm { I S R / F S R } } \\mu ^ { + } \\mu ^ { - } )$ ,a three-constraint (3C) kinematic fit is applied,in which the energy of the soft photon $( \\gamma _ { 1 } )$ is left free in thefit.ThedetailedMC studies indicate thatthe3Ckinematic fit does not change the peak position of the invariant mass for signals and the corresponding resolutions are similar to those with the 4C kinematic fit. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "V.A．Background study ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The backgrounds mainly come from $\\psi ( 3 6 8 6 )$ transitions to $J / \\psi$ and from $e ^ { + } e ^ { - } \\to \\ell ^ { + } \\ell ^ { - } n \\gamma _ { \\mathrm { I S R / F S R } } ( \\ell = e / \\mu )$ The other background,including $\\psi ( 3 6 8 6 )  \\eta J / \\psi$ $\\gamma _ { \\mathrm { I S R } } J / \\psi$ and non- $J / \\psi$ backgrounds,is only $0 . 3 \\%$ of that from $\\psi ( 3 6 8 6 )$ which is neglected. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The backgrounds from $\\psi ( 3 6 8 6 )$ transitions to $J / \\psi$ in clude $\\psi ( 3 6 8 6 ) \\to \\gamma \\gamma J / \\psi , \\pi ^ { 0 } \\pi ^ { 0 } J / \\psi , \\pi ^ { 0 } J / \\psi$ .High-statistics MC samples of these decays are generated to determine their distributions and contributions.With the published branching fractions [17],which have been measured precisely by different experiments,the estimated number of events for $\\psi ( 3 6 8 6 ) \\hat { \\  } \\pi ^ { 0 } \\pi ^ { 0 } J / \\psi , \\pi ^ { 0 } J / \\psi$ and the efficiency for $\\psi ( 3 6 8 6 ) \\to \\gamma \\gamma J / \\psi$ are obtained as summarized in Table II. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The secondmajorsource ofbackground includesradiative Bhabha and dimuon processes, $\\begin{array} { r l r } { e ^ { + } e ^ { - } } & { { } \\to } & { \\ell ^ { + } \\ell ^ { - } \\gamma _ { \\mathrm { I S R / F S R } } ( \\gamma _ { \\mathrm { I S R / F S R } } ) } \\end{array}$ and $\\begin{array} { r l } { \\psi ( 3 6 8 6 ) } & { { } \\to } \\end{array}$ $\\ell ^ { + } \\ell ^ { - } \\gamma _ { \\mathrm { F S R } } ( \\gamma _ { \\mathrm { F S R } } ) \\left( l = e / \\mu \\right)$ . To precisely describe the shape, the background is divided up into two parts: $ \\ell ^ { + } \\ell ^ { - }$ with one radiative photon and $ \\ell ^ { + } \\ell ^ { - }$ with two radiative photons.For the background from $\\psi ( 3 6 8 6 ) \\to \\ell ^ { + } \\ell ^ { - } \\gamma _ { \\mathrm { F S R } } ( \\gamma _ { \\mathrm { F S R } } )$ ,the ratio of event yields between the two parts $( N _ { \\ell ^ { + } \\ell ^ { - } \\gamma \\gamma } / N _ { \\ell ^ { + } \\ell ^ { - } \\gamma } )$ is obtained by a MC simulation.For the background from radiative Bhabha/dimuon processes,teratio $N _ { \\ell ^ { + } \\ell ^ { - } \\gamma \\gamma } / N _ { \\ell ^ { + } \\ell ^ { - } \\gamma }$ is obtained by a fit to a $9 2 8 ~ \\mathrm { p b ^ { - 1 } }$ data sample taken at a center-of-mass energy of $3 . 7 7 3 \\mathrm { G e V } .$ After the event selection imposed on the data, the remaining events are mainly radiative Bhabha/dimuon events,and a small contribution originates from $\\psi ( 3 7 7 0 ) \\to \\gamma \\chi _ { c J }$ and decays of $\\psi ( 3 6 8 6 )$ produced in the ISR process.In the fit, the shapes of the $\\overset { \\cdot } { M } ^ { \\mathrm { { 3 C } } } ( \\gamma _ { 2 } \\ell ^ { + } \\ell ^ { - } )$ distributions for the Bhabha/dimuon processes are determined from a $\\psi ( 3 6 8 6 ) \\to \\ell ^ { + } \\ell ^ { - } \\gamma _ { \\mathrm { F S R } } ( \\gamma _ { \\mathrm { F S R } } )$ MC sample by shifting the $M ^ { \\mathrm { 3 C } } ( \\gamma _ { 2 } \\ell ^ { + } \\ell ^ { - } )$ from $\\psi ( 3 6 8 6 )$ to $\\psi ( 3 7 7 0 )$ according to the formula $m ^ { \\prime } = a * ( m - m _ { 0 } ) + m _ { 0 }$ ，where $m _ { 0 } = 3 . 0 9 7$ $\\mathrm { { G e V } } / c ^ { 2 }$ is the mass threshold of $\\gamma J / \\psi$ ，and the coefficient $a = ( 3 . 7 7 3 - m _ { 0 } ) / ( 3 . 6 8 6 - m _ { 0 } ) = 1 . 1 5$ shifts the events from 3.686 to $3 . 7 7 3 \\mathrm { G e V } .$ The shapes of the backgrounds are based on MC simulation,while the amplitude of each component is set as a free parameter. Thus,the cross section weighted ratio of the backgrounds $e ^ { + } e ^ { - } \\to \\ell ^ { + } \\ell ^ { - } \\gamma _ { \\mathrm { I S R / F S R } } ( \\gamma _ { \\mathrm { I S R / F S R } } )$ and $\\psi ( 3 6 8 6 ) \\to \\ell ^ { + } \\ell ^ { - } \\gamma _ { \\mathrm { F S R } } ( \\gamma _ { \\mathrm { F S R } } )$ for the two parts is $N _ { e ^ { + } e ^ { - } \\gamma \\gamma } / N _ { e ^ { + } e ^ { - } \\gamma } = 1 . 2 0 3 \\pm 0 . 0 8 1$ 1 $( N _ { \\mu ^ { + } \\mu ^ { - } \\gamma \\gamma } / N _ { \\mu ^ { + } \\mu ^ { - } \\gamma } =$ $0 . 6 8 9 \\pm 0 . 0 4 4 )$ for the $e ^ { + } e ^ { - } ~ ( \\mu ^ { + } \\mu ^ { - } )$ channel. The quantitative results and shapes will be used in the simultaneous fit. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "V.B.Simultaneous fit to $M ^ { 3 \\mathrm { { C } } } ( \\gamma _ { 2 } \\ell ^ { + } \\ell ^ { - } )$ ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 shows the $M ^ { \\mathrm { { 3 C } } } ( \\gamma _ { 2 } \\ell ^ { + } \\ell ^ { - } )$ distributions for se lected candidates of the two channels of $J / \\psi  e ^ { + } e ^ { - }$ and $J / \\psi \\to \\mu ^ { + } \\mu ^ { - }$ ，where clear signals of $\\chi _ { c 0 , 1 , 2 }$ can be observed. No evident $\\eta _ { c } ( 2 S )$ signature is found.A simultaneous unbinned maximum likelihood fit is performed to obtain the signal yields. The common parameter for the two $J / \\psi$ decay channels is the product branching fraction $( B ^ { \\mathrm { p r o d u c t } } )$ of the cascade decays $\\psi ( 3 6 8 6 )  \\gamma \\chi _ { c 0 , 1 , 2 } ( \\eta _ { c } ( 2 S ) )  \\gamma \\gamma J / \\psi$ The number of signal events for each channel is $N ^ { \\psi ( 3 6 8 6 ) } \\times$ $\\mathcal { B } ^ { \\mathrm { p r o d u c t } } \\times \\mathcal { B } ( J / \\psi \\to \\ell ^ { + } \\ell ^ { - } ) \\times \\epsilon$ In the fit, the branching fractions for $J / \\psi \\to e ^ { + } e ^ { - } / \\mu ^ { + } \\mu ^ { - }$ and the total number of $\\psi ( 3 6 8 6 )$ events are fixed to the values in Refs.[17] and [19], respectively. The efficiency $\\epsilon$ is obtained from the signal MC sample with the higher-order multipole amplitudes considered as listed in Table II. The fit contains three $\\chi _ { c 0 , 1 , 2 }$ components, the $\\eta _ { c } ( 2 S )$ ,and the background. The signal line shapes of the $\\chi _ { c 0 , 1 , 2 }$ areparametrizedas ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e6a40c702f57a380e1dac3c38495469fc745397afbd97f32ee449e2a7d910290.jpg",
+        "img_caption": [
+            "FIG.2.Results of the multidimensional fit on the joint angular distribution and the projections on $\\cos \\theta _ { 1 }$ $\\cos \\theta _ { 2 }$ ， $\\cos \\theta _ { 3 }$ ， $\\phi _ { 2 }$ $\\phi _ { 3 }$ of the finalstate particles. The upper ten plots show the angular distributions for the $\\chi _ { c 1 }$ channel,and the lower ones are for the $\\chi _ { c 2 }$ channel. The black dotswitherrorbarsrepresentdatasubtractedbybackground,theredstogamsaretheftsultsndthebluedashedlinarepureE1 distributions.The lower plots depict the relative residual $\\chi = ( N _ { \\mathrm { d a t a } } - N _ { \\mathrm { f i t } } ) / \\sqrt { N _ { \\mathrm { d a t a } } }$ of the fit. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/bda5f53082a5c1c01ed386401a15b6de439aff9e3db486b71c2c7ad0f32baa76.jpg",
+        "table_caption": [
+            "TABLE II. Detection efficiencies (c) for channels of $\\psi ( 3 6 8 6 ) \\to \\gamma \\chi _ { c 0 , 1 , 2 }$ $\\gamma \\eta _ { c } ( 2 S ) , \\gamma \\gamma J / \\psi$ and the number $( N )$ of estimated background fol channels $\\psi ( 3 6 8 6 ) \\to \\pi ^ { 0 } J / \\psi , \\pi ^ { 0 } \\pi ^ { 0 } J / \\psi$ scaled by the decay branching fraction and the total $\\psi ( 3 6 8 6 )$ number. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td></td><td></td><td>Channel ∈xco (%) Exc1 (%) Exc2 (%) ∈nc(2s)(%)</td><td>EγγJ/ (%)</td><td>NπoJ/</td><td>Nπ0π0J/</td></tr><tr><td>e+e-</td><td>15.1</td><td>20.1</td><td>20.3</td><td>16.9</td><td>17.1</td><td>26.8±0.7</td><td>246.5±4.5</td></tr><tr><td>μ+μ</td><td>32.7</td><td>44.1</td><td>44.0</td><td>37.0</td><td>38.0</td><td>65.2±1.7</td><td>500.9±9.1</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( E _ { \\gamma 1 } ^ { 3 } \\times E _ { \\gamma 2 } ^ { 3 } \\times ( B W ( m ) \\otimes R \\times \\epsilon ( m ) ) ) \\otimes G ( \\mu , \\sigma ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $B W ( m )$ is the Breit-Wigner function for $\\chi _ { c 0 , 1 , 2 }$ with the masses and widths fixed at their world average values [17]. $R$ represents the mass resolution,and $\\epsilon ( m )$ is the massdependent efficiency. The product $[ B W ( m ) \\otimes R \\times \\epsilon ( m ) ]$ can be directly determined from the MC simulation,where the MC events are generated with the simple Breit-Wigner function using the higher-order multipole amplitudes with the angular distributions of the final-state particles. $E _ { \\gamma 1 }$ is the energy of the radiative photon $\\gamma _ { 1 }$ of $\\psi ( 3 6 8 6 ) \\ :  \\ : \\gamma _ { 1 } \\chi _ { c J }$ in the $\\psi ( 3 6 8 6 )$ rest frame,and $E _ { \\gamma 2 }$ is the energy of the $\\gamma _ { 2 }$ of $\\chi _ { c J }  \\gamma _ { 2 } J / \\psi$ in the $\\chi _ { c J }$ rest frame.The factor γ1,2 stems from the two-body PHSP and the E1-transition factor,and the Breit-WignerfunctionmodifiedbytheE12factorisforthe $\\chi _ { c J }$ invariant-mass distribution. The line shape is convoluted with a Gaussian function (denoted as $G$ ）accounting for differences in the invariant massand massresolution between the data and the MC simulation. The mean $\\mu$ and standard deviation $\\sigma$ of the Gaussian functions are obtained from the fit to the data in a region of $[ 3 . 3 6 < M ^ { 3 \\mathrm { C } } ( \\gamma _ { 2 } \\ell ^ { + } \\ell ^ { - } ) < 3 . 6 1 \\$ $\\mathrm { G e V } / c ^ { 2 } ]$ by assuming no dependence between the $e ^ { + } e ^ { - }$ and $\\mu ^ { + } \\mu ^ { - }$ decay modes as well as between $\\chi _ { c 0 , 1 , 2 }$ .The results indicate $\\mu \\le 0 . 3 5 \\mathrm { M e V } / c ^ { 2 }$ and $\\sigma \\le 0 . 7 3 \\mathrm { M e V } / c ^ { 2 }$ .Similarly, the signal line shape of the $\\eta _ { c } ( 2 S )$ is described by ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( E _ { \\gamma 1 } ^ { 3 } \\times E _ { \\gamma 2 } ^ { 7 } \\times ( B ( m ) \\otimes R \\times \\epsilon ( m ) ) ) \\otimes G ( \\mu , \\sigma ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $E _ { \\gamma 1 } ^ { 3 }$ represents the two-body PHSP and the M1- transition factor for $\\psi ( 3 6 8 6 ) ~ \\to ~ \\gamma _ { 1 } \\eta _ { c } ( 2 S )$ and $E _ { \\gamma 2 } ^ { 7 }$ is the two-body PHSP and hindered M1 transition factor [16,30] for $\\eta _ { c } ( 2 S )  \\gamma _ { 2 } J / \\psi$ . The $[ B ( m ) \\otimes R \\times \\epsilon ( m ) ]$ is also determined by MC simulation with the mass and widthof $\\eta _ { c } ( 2 S )$ set to the world average values [17]. Since the mass of $\\eta _ { c } ( 2 S )$ is close to those of $\\chi _ { c J }$ ,the $\\mu$ and $\\sigma$ of the Gaussian are fixed to the values obtained from a fit to the $\\chi _ { c 0 , 1 , 2 }$ signals only. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The shapesof backgrounds $\\psi ( 3 6 8 6 )$ $$ $\\pi ^ { 0 } J / \\psi , \\pi ^ { 0 } \\pi ^ { 0 } \\overset { \\cdot } { J } / \\psi , \\gamma \\gamma J / \\psi$ and $\\begin{array} { r l r } { e ^ { + } e ^ { - } (  } & { { } \\psi ( 3 6 8 6 ) ) } & {  } \\end{array}$ $\\ell ^ { + } \\ell ^ { - } \\gamma _ { \\mathrm { I S R / F S R } } ( \\gamma _ { \\mathrm { I S R / F S R } } )$ aretaken fromMC simulations.The numbers of $\\begin{array} { r l r } { \\psi ( 3 6 8 6 ) } & { { } \\to } & { \\pi ^ { 0 } J / \\psi } \\end{array}$ and $\\begin{array} { r l r } { \\psi ( 3 6 8 6 ) } & { { } \\to } & { \\pi ^ { 0 } \\pi ^ { 0 } J / \\psi } \\end{array}$ events are fixed to the expectations as given in Table II. For the background from $e ^ { + } e ^ { - } (  \\psi ( 3 6 8 6 ) )  \\ell ^ { + } \\ell ^ { - } n \\gamma _ { \\mathrm { I S R / F S R } }$ ，the ratios of $N _ { \\ell ^ { + } \\ell ^ { - } \\gamma \\gamma } / N _ { \\ell ^ { + } \\ell ^ { - } \\gamma }$ are fixed to 1.203 for the $e ^ { + } e ^ { - }$ channel and to O.689 for the $\\mu ^ { + } \\mu ^ { - }$ channel as described above.In the fit for the final results in the region $( 3 . 3 6 < M ^ { 3 \\mathrm { C } } ( \\gamma _ { 2 } \\ell ^ { + } \\ell ^ { - } ) < 3 . 7 1 \\mathrm { G e V } / c ^ { 2 } )$ ，the parameters of the smearing Gaussians for $\\chi _ { c 0 , 1 , 2 }$ and $\\eta _ { c } ( 2 S )$ are fixed,while the numbers of events for $\\chi _ { c 0 , 1 , 2 }$ and $\\eta _ { c } ( 2 S )$ $\\psi ( 3 6 8 6 ) ~ \\to ~ \\gamma \\gamma J / \\psi$ ， $e ^ { + } e ^ { - } \\ \\to \\ \\ell ^ { + } \\ell ^ { - } \\gamma _ { \\mathrm { I S R / F S R } } ( \\gamma _ { \\mathrm { I S R / F S R } } )$ are free parameters.Figure 3 shows the $M ^ { \\mathrm { { 3 C } } } ( \\gamma _ { 2 } \\ell ^ { + } \\ell ^ { - } )$ distributions, the results of the unbinned maximumlikelihood fit,and the relative residuals. The $\\chi ^ { 2 } / n d f$ of the fit is 1.88 for the $\\mu ^ { + } \\mu ^ { - }$ channel and1.83 for the $e ^ { + } e ^ { - }$ channel. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The product branching fractions from the fit are $( 1 5 . 8 \\pm$ $0 . 3 ) \\times 1 0 ^ { - 4 }$ ， $( 3 5 1 . 8 \\pm 1 . 0 ) \\times 1 0 ^ { - 4 }$ and $( 1 9 9 . 6 \\pm 0 . 8 ) \\times 1 0 ^ { - 4 }$ for $\\chi _ { c 0 , 1 , 2 }$ with statistical uncertainty only, respectively. The branching fraction of $\\psi ( 3 6 8 6 ) \\to \\gamma \\gamma J / \\psi$ is determined to be $( 3 . 2 \\pm 0 . 6 ) \\times 1 0 ^ { - 4 }$ . All measured branching fractions are consistent with the previous measurement of BESIII[18]. Since no significant $\\eta _ { c } ( 2 S )$ signal is found,an upper limit at the $90 \\%$ C.L.on the product branching fraction is determined by a Bayesian approach using a uniform prior,i.e.,finding the values corresponding to $90 \\%$ of the probability distribution in the positive domain. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "VI.SYSTEMATICUNCERTAINTIES ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The main sources of systematic uncertainty for the measurements of higher-order multipole amplitudes are the uncertainties in the efficiency, the kinematic fit procedure,the fit procedure of the combined angular distributions,statistical fluctuations of the MC sample,and the background contamination. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A simulated sample of events distributed uniformly in PHSP is used to normalize the function $W _ { \\chi _ { c 1 , 2 } }$ A difference of detection efficiencies between the MC sample and the data will result in a shift in the measurement,which is taken as the systematic uncertainty.From the studies of the tracking efficiency for electrons and muons with the control samples of $\\psi ( 3 6 \\dot { 8 } 6 ) ~ \\to ~ \\pi ^ { + } \\pi ^ { - } J / \\psi , J / \\psi ~ \\to ~ e ^ { + } e ^ { - } / \\mu ^ { + } \\mu ^ { - }$ decays,and the photon efficiency with the control samples from $\\psi ( 3 6 8 6 ) \\to 2 ( \\pi ^ { + } \\pi ^ { - } ) \\pi ^ { 0 }$ decays and radiative dimuon events,the difference in the detection efficienciesbetween the data and MC is found to be polar angle dependent with the largest value $0 . 0 0 6 \\pm 0 . 0 0 3$ ，which may change the helicity angular distribution.The corresponding effect on the higherorder multipole measurement is estimated by varying the efficiency with an asymmetric function of $\\cos \\theta _ { \\ell ^ { + } }$ and $\\cos \\theta _ { \\gamma 1 }$ as $p ( \\cos \\theta _ { \\gamma 1 } , \\cos \\theta _ { \\ell + } ) = ( 1 . 0 + 0 . 0 0 3 \\cos \\theta _ { \\gamma 1 } - 0 . 0 0 6 \\cos ^ { 2 } \\theta _ { \\gamma 1 } ) \\times$ （20 $( 1 . 0 + 0 . 0 0 3 \\cos \\theta _ { \\ell ^ { + } } - 0 . 0 0 6 \\cos ^ { 2 } \\theta _ { \\ell ^ { + } } )$ [which corresponds to a $0 . 9 \\%$ （20 $( 0 . 3 \\% )$ difference for $\\cos \\theta = - 1$ (1); $\\theta _ { \\gamma 1 }$ is the polar angle for one photon, and $\\theta _ { \\ell ^ { + } }$ is for one charged track]. Twice the difference with respect to the nominal result is taken as a systematic uncertainty.For thekinematic fit,the trackhelix parameters are corrected to reduce the difference in the $\\chi _ { \\mathrm { 4 C } } ^ { 2 }$ distribution between the dataand the MC simulation according to the procedure described inRefs.[31,32].These PHSP MC samples without and with the helix correction are used to normalize $W _ { \\chi _ { c 1 , 2 } }$ ,respectively,andtheresultantdrenceis taken as the systematic uncertainty. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To estimate the uncertainty from the fit procedure, $2 0 0 \\mathrm { M C }$ samples using the high-order multipole amplitudes are generated,followed by a complete detector simulation．Each sample has 165 thousand (9O thousand） selected events for $\\chi _ { c 1 } ( \\chi _ { c 2 } )$ ，and the same multipole analysis procedure is_applied for each sample.The differences in $a _ { 2 } ^ { 1 } , ~ b _ { 2 } ^ { 1 }$ $( a _ { 2 } ^ { 2 } , a _ { 3 } ^ { 2 } , b _ { 2 } ^ { 2 } , b _ { 3 } ^ { 2 } )$ between the input and fitted values are Gaussian distributed. The mean values of the Gaussians are $\\mu _ { a _ { 2 } ^ { 1 } } ~ = ~ ( 2 \\pm 3 ) \\times 1 0 ^ { - 4 }$ ， $\\mu _ { b _ { 2 } ^ { 1 } } ~ = ~ ( - 6 \\pm 3 ) \\times 1 0 ^ { - 4 }$ $( \\mu _ { a _ { 2 } ^ { 2 } } = ( 1 7 \\pm 1 3 ) \\times 1 0 ^ { - 4 }$ ， $\\mu _ { a _ { 3 } ^ { 2 } } = ( - 4 \\pm 8 ) \\times 1 0 ^ { - 4 }$ $\\mu _ { b _ { 2 } ^ { 2 } } =$ $( 1 6 \\pm 6 ) \\times 1 0 ^ { - 4 }$ ， $\\mu _ { b _ { 3 } ^ { 2 } } = ( - 3 2 \\pm 7 ) \\times 1 0 ^ { - 4 } )$ and are taken as the systematic uncertainty. The statistics of the MC sample for the normalization,about 3.6(1.8) million events,may affect the fit results.For the normalization function,Eq.(4), the variance for an(n=1,.,36 for Xc2 m=1...9 for Xxcl) is ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { V ( \\overline { { a _ { n } } } ) = \\frac { 1 } { N } \\lbrace \\frac { \\sum _ { i = 1 } ^ { N } a _ { n } ^ { 2 } ( i ) } { N } - [ \\frac { \\sum _ { i = 1 } ^ { N } a _ { n } ( i ) } { N } ] ^ { 2 } \\rbrace . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The standard deviation for each coefficient is $\\sigma ( { \\overline { { a _ { n } } } } ) \\ =$ $\\sqrt { V ( \\overline { { a _ { n } } } ) }$ .The largest change in parameters $a _ { 2 } ^ { 1 }$ and $b _ { 2 } ^ { 1 }$ by varying the coefficient by $\\pm 1 \\sigma$ for the $\\chi _ { c 1 }$ channel $( a _ { 2 } ^ { 2 } , ~ a _ { 3 } ^ { 2 }$ and $b _ { 2 } ^ { 2 } , \\ b _ { 3 } ^ { 2 }$ for the $\\chi _ { c 2 }$ channel) is taken as the systematic uncertainty. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The main backgrounds for the $\\chi _ { c 1 }$ channel come from $\\psi ( 3 6 8 6 ) \\to \\gamma \\chi _ { c 0 } , \\gamma \\chi _ { c 2 } , \\pi ^ { 0 } \\pi ^ { 0 } J / \\psi , \\gamma \\gamma J / \\psi$ ，which contribute about $0 . 7 \\%$ of the candidates according to a MC study.For the $\\chi _ { c 2 }$ channel, the main backgrounds come from $\\psi ( 3 6 8 6 ) $ $\\gamma \\chi _ { c 0 } , \\gamma \\chi _ { c 1 } , \\pi ^ { 0 } \\pi ^ { 0 } J / \\psi , \\gamma \\gamma J / \\psi$ ，and the contribution is about $1 \\%$ . In the nominal fit, the contribution of background is estimated by the inclusive MC samples.To estimate the systematic uncertainty,high-statistics MC samples for backgrounds are generated to redetermine the shape and the contribution according to previous measurements[17,18,33].The difference in the fit results is taken as the systematic uncertainty. All the systematic uncertainties are summarized in Table III.The total systematic uncertainties are calculated byadding the individual values in quadrature,thereby assuming that they are independent. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/0fc6761a8595b51da439a5c2dd78f38d2d3df2ea9a649837096a780d3d828a5e.jpg",
+        "img_caption": [
+            "FIG.3. The results of a simultaneous maximum likelihood fit (top)and corresponding relative residual $( N _ { \\mathrm { d a t a } } - N _ { \\mathrm { f i t } } ) / \\sqrt { N _ { \\mathrm { d a t a } } }$ (bottom). The left panel is for the $e ^ { + } e ^ { - }$ channel,while right one is for the $\\mu ^ { + } \\mu ^ { - }$ channel. The black dots are the data,the blue curves are the fit results, and the red long-dashed lines are for $\\chi _ { c } 0 , 1 , 2$ signals. The gray dashed,orange dot-dashed,and pink dotted lines are for backgrounds of $\\psi ( 3 6 8 6 )  \\gamma \\gamma J / \\psi$ ， $\\pi ^ { 0 } J / \\psi$ ,and $\\pi ^ { 0 } \\pi ^ { 0 } J / \\psi$ ,respectively. The light-blue dot-dot-dashed and green dot-long-dashed lines are for backgrounds with final-state particles composed of $\\ell ^ { + } \\ell ^ { - } \\gamma$ and $\\ell ^ { + } \\ell ^ { - } \\gamma \\gamma$ ， "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/b8e49a809cf285622f03bdd2371ce6b9a62dca8fc833a5dce12973e91149f7ea.jpg",
+        "table_caption": [
+            "TABLEIII.The diffrentsourcesof systematic uncertainties forthe measurement of higher-order multipole amplitudes forthe $\\chi _ { c 1 , 2 }$ channels. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Source</td><td colspan=\"2\">Xc1</td><td colspan=\"4\">Xc2</td></tr><tr><td>a2(×10-4)b(×10-4)</td><td></td><td>a²2(×10-4)</td><td>b2(×10-4)a³(×10-4)</td><td></td><td>(×10-4)</td></tr><tr><td>Efficiency of PHSP MC</td><td>17</td><td>14</td><td>2</td><td>4</td><td>27</td><td>18</td></tr><tr><td>Kinematic fit</td><td>8</td><td>12</td><td>20</td><td>9</td><td>10</td><td>3</td></tr><tr><td>Fitting procedure</td><td>2</td><td>6</td><td>17</td><td>16</td><td>4</td><td>32</td></tr><tr><td>Statistics of PHSP MC</td><td>2</td><td>3</td><td>4</td><td>2</td><td>3</td><td>4</td></tr><tr><td>Background</td><td>28</td><td>18</td><td>23</td><td>4</td><td>26</td><td>4</td></tr><tr><td>Total</td><td>34</td><td>27</td><td>36</td><td>20</td><td>40</td><td>38</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The systematic uncertainties of the branching fractions measurement include uncertainties from the number of $\\psi ( 3 6 8 6 )$ events $( 0 . 9 \\% )$ [19],the tracking efficiency $0 . 1 \\%$ per lepton）[34],the photon detection efficiency（ $1 . 0 \\%$ per photon）[35], the kinematic fit, the $J / \\psi$ mass window, the other selection criteria $( N _ { \\gamma } \\leq 4$ ，veto $\\pi ^ { 0 }$ and $\\eta$ ，particle identification, $\\cos { \\theta _ { e ^ { + } } } ~ < ~ 0 . 3 \\& \\& \\cos { \\theta _ { e ^ { - } } } ~ > ~ - 0 . 3 )$ ，the branching fraction of $J / \\psi \\to e ^ { + } e ^ { - } / \\mu ^ { + } \\mu ^ { - }$ $( 0 . 6 \\% )$ [17],the interference between $\\psi ( 3 6 8 6 )  \\chi _ { c 0 }  \\gamma \\gamma J / \\psi$ and nonresonant $\\psi ( 3 6 8 6 ) \\to \\gamma \\gamma J / \\psi$ processes,and the fitting procedure. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The uncertainty from the kinematic fit is estimated by the same procedure as described in the multipole amplitude measurements. To estimate the uncertainty caused by the $J / \\psi$ mass requirement, a control sample in the $\\chi _ { c 1 , 2 }$ region $3 . 4 9 <$ $M ^ { 4 \\mathrm { C } } ( \\gamma \\bar { \\ell } ^ { + } \\ell ^ { - } ) ~ < ~ 3 . 5 8 ~ \\mathrm { G e V } / c ^ { 2 }$ is used. For data, the only background is from $\\psi ( 3 6 8 6 ) \\ :  \\ : \\pi ^ { 0 } \\pi ^ { 0 } J / \\psi$ ，which is determined in fitting with the exclusive MC shape. The effciency of selection $\\bar { M } ^ { 4 \\mathrm { C } } ( \\ell ^ { + } \\ell ^ { - } ) \\in ( 3 . 0 8 , 3 . 1 2 ) \\mathrm { G e V }$ is evaluated by comparing the number of signal events before and after the requirement,and the corresponding difference between the data and MC sample is $0 . 6 \\%$ for the $e ^ { + } e ^ { - }$ channel and $0 . 1 \\%$ for the $\\mu ^ { + } \\mu ^ { - }$ channel. To be conservative,we take $0 . 6 \\%$ as the systematic uncertainty.With the same sample,the systematic uncertainties related to the selection criteria $N _ { \\gamma } \\leq 4$ 5 $\\pi ^ { 0 }$ veto, $\\eta$ veto,and leptons identification are also determined. The overall difference in the efficiency between the data and MC sample for these criteriais $1 . 6 \\%$ and is taken as a systematic uncertainty.Theadditional systematicuncertainty due to the polar angle selection for the $e ^ { + } e ^ { - }$ channel is determined by varying the selection with $\\pm 0 . 0 5$ and fitting simultaneously again.The largest changes on the fit results are taken as the systematic uncertainty. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "To estimate the possible uncertainty from the interference between $\\psi ( 3 6 8 6 ) ~ \\to ~ \\gamma \\gamma J / \\psi$ and $\\psi ( 3 6 8 6 ) ~  ~ \\gamma \\chi _ { c 0 } ~ $ $\\gamma \\gamma J / \\psi$ ，we repeat the simultaneous fit,taking the interference into account. The interference phase is found to be $1 . 5 8 \\pm 0 . 0 5$ ． The changes in the signal yields are taken as the systematic uncertainty. Since the signal shapes are determined from MC simulation,the corresponding systematic uncertaintyis estimated by an alternative fit with varying the mass and width of $\\chi _ { c 0 , 1 , 2 }$ with $\\pm 1 \\sigma$ of the world average values[17] for the signal MC shape.To estimate the uncertainty due to the background of $\\psi ( 3 \\bar { 6 } 8 6 )  \\pi ^ { 0 } J / \\psi , \\pi ^ { 0 } \\pi ^ { 0 } J / \\psi$ and the ratio of $N _ { \\ell ^ { + } \\ell ^ { - } \\gamma \\gamma } / N _ { \\ell ^ { + } \\ell ^ { - } \\gamma }$ for Bhabha and dimuon backgrounds,alternative fits are performed in which the numbers of expected background events (see Table II) and the ratio of $N _ { \\gamma \\gamma \\ell ^ { + } \\ell ^ { - } } / N _ { \\gamma \\ell ^ { + } \\ell ^ { - } }$ are varied by $\\pm 1 \\sigma$ For $\\chi _ { c 0 , 1 , 2 }$ , the largest differences in the signal yields from the nominal values are taken as the systematic uncertainty. For the $\\eta _ { c } ( 2 S )$ case, to be conservative, the one corresponding to the largest upper limit is taken as the final result. All systematic uncertainties of the different sources are summarized in Table IV.The total systematic uncertainties are obtained by adding the individual ones in quadrature, thereby assuming all these sources are independent. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/9b97d281233357f991408da9e014c8287bf9e631027af193866abac40c6b0b3e.jpg",
+        "table_caption": [
+            "TABLE IV. Summary of all systematic uncertainties for the branching fractions measurement. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Source</td><td>Xc0 (%) Xc1 (%) Xc2 (%) nc(2S) (%)</td><td></td><td></td></tr><tr><td>N(3686)</td><td>0.9</td><td>0.9</td><td>0.9 0.9</td></tr><tr><td>Tracking efficiency</td><td>0.2</td><td>0.2</td><td>0.2 0.2</td></tr><tr><td>Photon detection</td><td>2.0</td><td>2.0</td><td>2.0 2.0</td></tr><tr><td>Kinematic fit</td><td>0.6</td><td>0.5</td><td>0.5 0.4</td></tr><tr><td>J/ mass window</td><td>0.6</td><td>0.6</td><td>0.6</td></tr><tr><td>Other selection</td><td>2.4</td><td>2.2</td><td>0.6 2.3 2.4</td></tr><tr><td>B(J/φ→e+e-/μ+μ-)</td><td>0.6</td><td>0.6</td><td>0.6</td></tr><tr><td>Interference</td><td>0.7</td><td></td><td></td></tr><tr><td>Signal shape</td><td>0.7</td><td>0.9</td><td></td></tr><tr><td>Background</td><td>0.1</td><td>0.1</td><td></td></tr><tr><td>Total</td><td>3.6</td><td>3.4</td><td>3.4</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "VII.RESULTANDSUMMARY ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Based on 106 million $\\psi ( 3 6 8 6 )$ decays,we measure the higher-order multipole amplitudes for the decays $\\psi ( 3 6 8 6 ) $ $\\gamma _ { 1 } \\chi _ { c 1 , 2 }  \\gamma _ { 1 } \\gamma _ { 2 } J / \\psi$ channels. The statistical significance of nonpure E1 transition is $2 4 . 3 \\sigma$ and $1 3 . 4 \\sigma$ for the $\\chi _ { c 1 }$ and $\\chi _ { c 2 }$ channels,respectively.The normalized M2 contribution for $\\chi _ { c 1 , 2 }$ and the normalized E3 contributions for $\\chi _ { c 2 }$ are listed in Table I.Figure 4 shows a comparison of our results with previouslypublished measurements and with theoretical predictions with $m _ { c } = 1 . 5 \\mathrm { G e V } / c ^ { 2 }$ and $\\kappa = 0$ . The results are consistent with and more precise than those obtained by CLEOc [5] and confirm theoretical predictions [1,2]. The M2 contributions for $\\psi ( 3 6 8 6 ) \\to \\gamma _ { 1 } \\chi _ { c 1 } ~ $ $\\left( b _ { 2 } ^ { 1 } \\right)$ ， $\\chi _ { c 1 }  \\gamma _ { 2 } J / \\psi \\ ( \\$ $( a _ { 2 } ^ { 1 } )$ and $\\chi _ { c 2 }  \\gamma _ { 2 } J / \\psi ( a _ { 2 } ^ { 2 } )$ are found to be significantly nonzero. The ratios of M2 contributions of $\\chi _ { c 1 }$ to $\\chi _ { c 2 }$ are independent of the mass $m _ { c }$ and the anomalous magnetic moment $\\kappa$ of the charm quark at leading order in ${ E _ { \\gamma } } / m _ { c }$ . They are determined to be ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "the most precise measurement of the M2 amplitudes $a _ { 2 } ^ { 1 }$ and by taking $m _ { c } = 1 . 5 \\pm 0 . 3 \\mathrm { G e V } / c ^ { 2 }$ , the anomalous magnetic moment $\\kappa$ can be obtained from Eq.(1), ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { 1 + \\kappa = - \\displaystyle \\frac { 4 m _ { c } } { E _ { \\gamma _ { 2 } } [ \\chi _ { c 1 }  \\gamma _ { 2 } J / \\psi ] } a _ { 2 } ^ { 1 } } } \\\\ { { = 1 . 1 4 0 \\pm 0 . 0 5 1 \\pm 0 . 0 5 3 \\pm 0 . 2 2 9 , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where the first uncertainty is statistical, the second uncertainty is systematic,and the third uncertainty is from $m _ { c } = 1 . 5 \\pm$ $0 . 3 \\mathrm { \\dot { G } e V } / c ^ { 2 }$ ： ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Based on the multipole analysis,we measure the product branching fractions for $\\psi ( 3 6 8 6 ) \\to \\gamma \\chi _ { c 0 , 1 , 2 } \\to \\gamma \\gamma J / \\psi$ to be （20 $( 1 5 . 8 \\pm 0 . 3 \\pm 0 . 6 ) \\times 1 0 ^ { - 4 }$ ， $3 5 1 . 8 \\pm 1 . 0 \\pm 1 2 . 0 ) \\times 1 0 ^ { - 4 }$ and $( 1 9 9 . 6 \\pm 0 . 8 \\pm 7 . 0 ) \\times 1 0 ^ { - 4 }$ ，respectively，where the first uncertainty is statistical and the second is systematic.In Fig.5, the product branching fractions are compared to previous results from BESIII [18],CLEO [36],and the world average [17]. The world average refers to the product of the average branching fraction of $\\psi ( 3 6 8 6 ) \\to \\gamma _ { 1 } \\chi _ { c J }$ and the average branching fraction of $\\chi _ { c J }  \\gamma _ { 2 } J / \\psi$ ，where the results of BESIII and CLEO are not included in the world average values. For all $\\chi _ { c J }$ ,our results exceed the precision of the previous measurements.Compared to the previous BESII result, the results are consistent within $1 \\sigma$ ,but we have considered the higher-order multipole amplitudes and improved the systematic uncertainty due to a more precise measurement of the total number of produced $\\psi ( 3 6 8 6 )$ [19].In addition,our measurement for the $\\chi _ { c 0 }$ channel is $3 \\sigma$ larger than the result from CLEO and $3 \\sigma$ larger than the world average value,while for the $\\chi _ { c 1 , 2 }$ ，our results are consistent with previous measurements.There are theoretical predictions for the branching fraction $\\psi ( 3 6 8 6 ) \\to \\gamma \\chi _ { c 0 , 1 , 2 }$ by several different models[14-16] without consideration of higher-order multipole amplitudes,which agree with each other poorly. The results in this measurement will provide a guidance for the theoretical calculations. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We also search for the decay $\\eta _ { c } ( 2 S ) ~  ~ \\gamma J / \\psi$ through $\\psi ( 3 6 8 6 ) \\ :  \\ : \\gamma \\eta _ { c } ( 2 S )$ .No statistically significant signal is observed.Considering the systematic uncertainty,an upper limit on the product branching fraction is determined to be $\\mathcal { B } ( \\psi ( 3 6 8 6 ) \\bar { \\to } \\gamma \\eta _ { c } ( 2 S ) ) \\times \\bar { B ( \\eta _ { c } ( 2 S ) \\to \\gamma J / \\psi ) } < 9 . 7 \\times 1 0 ^ { - 6 }$ at the $90 \\%$ C.L.,where the systematic uncertainty is incorporated by a factor $1 / ( 1 - \\sigma _ { \\mathrm { s y s t . } } )$ for conservative.Combining the result of $B ( \\psi ( 3 6 8 \\acute { 6 } )  \\gamma \\eta _ { c } ( 2 S ) )$ obtained by BESII [37],the upper limit of the branching fraction for $\\eta _ { c } ( 2 S )  \\gamma J / \\psi$ is $B ( \\eta _ { c } ( 2 S )  \\gamma J / \\psi ) \\le 0 . 0 4 4$ at the $90 \\%$ C.L. Using the width of $\\eta _ { c } ( 2 S )$ of $1 1 . 3 _ { - 2 . 9 } ^ { + 3 . 2 } \\mathrm { M e V } / c ^ { 2 }$ [17], our upper limit implies a partial width of $\\Gamma ( \\bar { \\eta _ { c } } ( 2 S )  \\gamma J / \\psi ) <$ $0 . 5 0 \\mathrm { M e V } / c ^ { 2 }$ . Although this result agrees with the prediction of LQCD $( 0 . 0 0 1 3 \\mathrm { M e V } / c ^ { 2 } $ ）[38],it clearly hasa very limited sensitivity to rigorously test the theory. ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { b _ { 2 } ^ { 1 } / b _ { 2 } ^ { 2 } = 1 . 3 5 \\pm 0 . 7 2 , } } \\\\ { { a _ { 2 } ^ { 1 } / a _ { 2 } ^ { 2 } = 0 . 6 1 7 \\pm 0 . 0 8 3 . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The corresponding theory predictionsare $\\begin{array} { r l } { ( b _ { 2 } ^ { 1 } / b _ { 2 } ^ { 2 } ) _ { \\mathrm { t h } } } & { { } = } \\end{array}$ $1 . 0 0 0 \\pm 0 . 0 1 5$ and $( a _ { 2 } ^ { 1 } / a _ { 2 } ^ { 2 } ) _ { \\mathrm { t h } } = 0 . 6 7 6 \\pm 0 . 0 7 1$ [5]. By using ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The BESIII Collaboration thanks the staff of BEPCII and the Institute of High Energy Physics computing center for their strong support. This work is supported in part by National Key Basic Research Program of China under Contract No． 2O15CB85670O;National Natural Science Foundation of China(NSFC) under Contracts No.11125525,No. 11235011,No.11322544,No.11335008,No.11425524,No. 11475187,No．11521505,andNo．11575198；the Chinese Academy of Sciences (CAS) Large-Scale Scientific Facility Program; the CAS Center for Excellence in Particle Physics; the Collaborative Innovation Center for Particles and Interactions; JointLarge-Scale Scientific Facility Funds of the NSFC and CAS under Contracts No．11179007,No．U1232201, and No. U1332201;CAS under Contracts No. KJCX2-YWN29 and No.KJCX2-YW-N45; 100 Talents Program of CAS; National 1OOO Talents Program of China;Institute of Nuclear and Particle Physics and Shanghai Key Laboratory for ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/b550afb94c86e3a52640aa276e99816eda4012209e19637882604178a6c12aeb.jpg",
+        "img_caption": [
+            "FIG.4.NoralizedM2andE3amplitudesfromthisanalysiscomparedwithpreviousexperimentalesultsandtheoreticalpredictios[4] with $m _ { c } \\ = \\ 1 . 5 \\ \\mathrm { G e V } / c ^ { 2 }$ and $\\kappa = 0$ The $y$ axis shows the number of signal events of each experiment. \\*Measured by the process of $\\psi ( 3 6 8 6 ) \\to \\gamma \\chi _ { c 2 }$ with $\\chi _ { c 2 }  \\pi ^ { + } \\pi ^ { - } / K ^ { + } K ^ { - }$ ， "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/5f97513fb5a85dc0560ce6fca2aecefb6c52afc39d98481f5a1b1d3a6690de3b.jpg",
+        "img_caption": [
+            "FIG.5. Comparison of the product branching fraction $\\begin{array} { r } { \\mathcal { B } ( \\psi ( 3 6 8 6 ) \\to \\gamma _ { 1 } \\chi _ { c J } ) \\times \\mathcal { B } ( \\chi _ { c J } \\to \\gamma _ { 2 } J / \\psi ) } \\end{array}$ with previously published measurements. \\*The average \"Ave” is the product between the individual world average of $B ( \\psi ( 3 6 8 6 )  \\gamma _ { 1 } \\chi _ { c J } )$ [17] and $B ( \\chi _ { c J }  \\gamma _ { 2 } J / \\psi )$ [17]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Particle Physics and Cosmology;German Research FoundationunderCollaborativeResearchCenterContractNo.CRC1044;Istituto Nazionale di Fisica Nucleare,Italy;Koninklijke Nederlandse Akademie van Wetenschappen under Contract No.530-4CDPO3;Ministry of Development of Turkey under Contract No.DPT2006K-120470;NSFC under Contracts No．11405046 and No．U1332103;Russian Foundation for Basic Research under Contract No. 14-O7-91152; The Swedish Research Council; U. S. Department of Energy under Contracts No.DE-FG02-04ER41291,No.DE-FG02- 05ER41374,No．de-sc0012069,No．DESC0010118；U.S. National Science Foundation; University of Groningen and the Helmholtzzentrum fuer Schwerionenforschung GmbH, Darmstadt; and World-Class University Program of National Research Foundation ofKorea under Contract No.R32-2008- 000-10155-0. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1]J.L.Rosner,Phys.Rev.D 78,114011 (2008). [2]K.J. Sebastian,H. Grotch and F.L. Ridener, Phys.Rev. D 45, 3163 (1992). [3]P.Moxhay and J.L.Rosner,Phys.Rev.D 28,1132 (1983). [4] G.Karl et al.,Phys.Rev.Lett. 45,215 (1980). [5] M.Artuso et al. (CLEO Collaboration)，Phys.Rev.D 80, 112003 (2009). [6]P.K.Kabir and A.J.G.Hey,Phy.Rev.D13,3161(1976). [7] C.Edwards et al.,Phys.Rev.D 25,3065 (1982). [8]M. Oreglia et al.(Crystal Ball Collaboration),Phys.Rev. D 25, 2259 (1982). [9] T.Armstrong et al. (E76O Collaboration),Phys.Rev.D 48, 3037 (1993).   \n[10] M.Ambrogiani et al.(E835 Collaboration),Phys.Rev.D 65, 052002 (2002).   \n[11]M.Ablikim et al.(BES Collaboration)，Phys.Rev. D 70, 092004 (2004).   \n[12]M. Ablikim et al. (BESII Collaboration),Phys.Rev. D 84, 092006 (2011).   \n[13] S.Godfrey and N.Isgur,Phys.Rev.D 32,189 (1985).   \n[14]E.Eichten et al.Phys.Rev.D 21,203 (1980).   \n[15]N． Brambilla et al. (QWG Collaboration), arXiv:hep-ph/0412158.   \n[16] T.Barnes,S.Godfrey and E.S.Swanson,Phys.Rev.D 72, 054026 (2005).   \n[17]K.A.Olive et al.(Particle Data Group),Chin. Phys.C 38, 090001 (2014).   \n[18]M.Ablikim et al.(BESI Collaboration),Phys.Rev.Lett.109, 172002 (2012).   \n[19] M. Ablikim et al. (BESII Collaboration),Chin. Phys.C 37, 063001 (2013).   \n[20] M.Ablikim et al.(BESIII Collaboration),Chin. Phys.C 37, 123001 (2013).   \n[21]M.Ablikim et al.(BESIII Collaboration),Nucl.Instrum.Methods Phys.Res,Sect.A 614,345 (2010).   \n[22]M.Ablikim et al.(BESIII Collaboration),Phys.Rev.D 85, 112008 (2012).   \n[23] S.Agostinelli et al.(GEANT4 Collaboration),Nucl.Instrum. Methods Phys.Res, Sect.A 506,250 (2003).   \n[24]S.Jadach,B.F.L.Ward,and Z.Was,Comput.Phys.Commun. 130,260 (2000); Phys.Rev.D 63,113009 (2001).   \n[25]D.J.Lange,Nucl.Instrum.Meth.A 462 152 (2001)；R.G. Ping, Chin. Phys. C 32,599 (2008).   \n[26]J.C.Chen,G.S.Huang,X.R.Qi,D.H. Zhang,and Y.S.Zhu, Phys.Rev.D 62,243 (2000).   \n[27]G.Balossini，C.M.Carloni Calame,G.Montagna, O.Nicrosini,and F.Piccinini,Nucl.Phys.B758,227 (2006).   \n[28] G.Karl et al.Phys.Rev.D13,1203 (1976).   \n[29] R.L.Plackett,K.Pearson and the Chi-Squared Test,Int. Stat. Rev. 51,59 (1983).   \n[30]J.J.Dudek,R.Edwards and C.E.Thomas,Phys.Rev.D 79, 094504 (2009).   \n[31]M.Ablikim et al.(BESIII Collaboration),Phys.Rev.D 87, 012002 (2013).   \n[32]M.Ablikim et al.(BESIII Collaboration),Phys.Rev.D 91, 112005 (2015).   \n[33] M. Ablikim et al.(BESIII Collaboration),Phys.Rev.D 86, 092008 (2012).   \n[34] M.Ablikim et al.(BESIII Collaboration),Phys.Rev.D 88, 032007 (2013).   \n[35]M.Ablikim et al.(BESIII Collaboration),Phys.Rev.D 88, 112001 (2013).   \n[36] H. Mendez et al. (CLEO Collaboration),Phys. Rev. D 78, 011102 (2008).   \n[37] M.Ablikim et al.(BESI Collaboration),Phys.Rev.Lett.109, 042003(2012).   \n[38] D.Becirevic and F. Sanfilippo,J.High Energy Phys.O1 (2013) 028. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

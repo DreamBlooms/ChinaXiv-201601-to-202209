@@ -1,0 +1,224 @@
+开食料中不同中性洗涤纤维水平对犊牛屠宰性能、器官指数及复胃发育的影响任春燕1,2.3毕研亮 2.3杜汉昌4于　博4屠焰2.3郭艳丽1\*刁其玉 2.3\*
+
+3 (1.甘肃农业大学动物科学技术学院,兰州 730070;2.中国农业科学院饲料研究所,农业部饲料  
+4 生物技术重点试验室,北京 100081;3.奶牛营养学北京市重点实验室,北京 100081；4.山东银  
+5 香伟业集团有限公司,菏泽 74400)  
+6 摘要：本试验旨在探索开食料中不同中性洗涤纤维（NDF）水平对犊牛屠宰性能、器官指  
+7 数及复胃发育的影响。选用初生重[（ $4 2 . 0 { \pm } 2 . 5$ ）kg]相近、饲喂足量初乳的 $1 { \sim } 3$ 日龄中国  
+8 荷斯坦犊牛60头，其中公犊牛36头，母犊牛24头。随机分为4组，每组9头公犊牛，6  
+9 头母犊牛,70 日龄断奶。15 日龄开始A、B、C 和D 组饲喂 NDF 水平分别为 $2 9 . 7 4 \% . 3 1 . 3 7 \%$   
+10 $34 . 2 8 \%$ 和 $3 6 . 5 3 \%$ 的开食料。试验期 $1 1 2 \mathrm { d }$ 。结果表明：B组犊牛体增重显著高于C和D组  
+11 （ $_ { . } { \cdot } { \cdot } { \cdot } 0 . 0 5 \$ ；B 组屠宰率和净肉率显著高于 $\mathrm { ~ D ~ }$ 组（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ )，胴体重、肉骨比、胴体出肉率也  
+12 高于其他3组，但差异不显著（ ${ \cdot } P { > } 0 . 0 5 )$ ；从复胃发育来看，B组瘤胃重占复胃总重比例和  
+13 网胃重占复胃总重比例显著高于 $\mathrm { ~ D ~ }$ 组（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ )，D组瓣胃重占复胃总重比例显著高于A  
+14 （ $_ { . } { \cdot } { \cdot } { \cdot } 0 . 0 5 \$ ；A和B组瘤胃中 $\mathfrak { p H }$ 显著高于C和 $\mathrm { ~ D ~ }$ 组( $\cdot P { < } 0 . 0 5 \$ )。在本试验条件下， $1 5 \sim 1 1 2$   
+15 日龄犊牛开食料中 NDF 水平为 $3 1 . 3 7 \%$ 时，有助于提高犊牛体增重和屠宰性能，促进内脏器  
+16 官及胃肠道的发育。  
+17 关键词：荷斯坦犊牛；中性洗涤纤维水平；开食料；采食量；屠宰性能；器官指数；复胃发  
+18 育  
+19 中图分类号：S8231  
+20 传统饲养中为了实现犊牛早期断奶，减少腹泻，降低饲喂和管理成本，通常采取的断奶  
+21 策略是限制牛奶或代乳品的供给，鼓励特牛尽早采食谷物饲料[1]。国内外有关犊牛生长发育  
+22 的研究结果表明，开食料作为犊牛生长发育的重要营养来源[2]，有利于促进瘤胃发育和缩短  
+23 断奶日龄。而粗饲料作为反刍动物饲粮中重要的组成部分，其中的纤维物质是反刍动物唾液
+
+分泌、反刍、瘤胃缓冲和瘤胃壁健康所需要的[3]。研究证明，在开食料中添加一定比例的粗饲料可以增加犊牛采食量[4，改善犊牛瘤胃内环境，促进消化器官组织发育和消化机能发育，进一步提高生产性能[5-7]。此外，含有大量可消化粗纤维的开食料有利于瘤胃微生物区系的建立，刺激瘤胃的快速发育[2]。但犊牛采食纤维含量过高的粗饲料会降低纤维素的消化利用，使未消化的粗饲料在瘤胃累积，造成采食量降低[8]。另有研究证明，粗饲料足够但不过量的物理刺激有利于提高犊牛的生长性能和瘤胃发育[9]。然而，受多种因素的影响，如纤维的来源、物理形态和饲喂方式等[10]，开食料中应当含有多少的粗饲料和纤维物质才最利于犊牛生长发育至今还不清楚。因此，本试验拟通过调整开食料中粗饲料（苜蓿和燕麦草）和精饲料比例设计不同中性洗涤纤维（NDF）水平，研究其对犊牛的屠宰性能、器官指数及复胃发育的影响，为犊牛开食料中适宜NDF水平的设定提供数据支持，为特牛开食料的合理配制及提高奶牛养殖业经济效益提供理论依据。
+
+1材料与方法
+
+1.1试验时间和地点试验于2017年4月至2017年9月在山东银香伟业有限公司第二牧场开展。
+
+# 1.2 试验设计
+
+选用初生重为（ $4 2 . 0 { \pm } 2 . 5$ ）kg、饲喂足量初乳的 $1 { \sim } 3$ 日龄（后称1日龄）中国荷斯坦犊牛60头，其中公犊牛36头，母特牛24头。采用完全随机区组设计，随机分为4组（A、B、C 和D组)，每组9头公犊牛，6头母犊牛，试验设计见表1。3日龄开始，犊牛每日饲喂巴氏杀菌牛奶2次（06:30和17:00）， $3 { \sim } 2 8$ 日龄饲喂 $5 \mathrm { L } / \mathrm { d }$ ， $2 9 { \sim } 6 5$ 日龄饲喂8L/d，66日龄后减至4L/d,70 日龄断奶。15日龄开始,4组分别饲喂NDF水平分别为 $2 9 . 7 4 \% . 3 1 . 3 7 \%$ ，$34 . 2 8 \%$ 和 $3 6 . 5 3 \%$ 的开食料，每日饲喂2次（07:00和16:30)，保证料盆每日有剩料，自由饮水，试验期 $1 1 2 \mathrm { d }$ 。
+
+表1试验设计  
+TablelThe experiment design   
+
+<html><body><table><tr><td>组别 Groups</td><td>NDF 水平</td><td>开食料</td><td>每组犊牛头数 Number of dairy calves per group</td></tr><tr><td>A</td><td>NDF levels</td><td>Starter 100%精饲料</td><td></td></tr><tr><td></td><td>29.74%</td><td>86%精饲料+14%粗饲料</td><td>15 15</td></tr><tr><td>B C</td><td>31.37% 34.28%</td><td>72%精饲料+28%粗饲料</td><td>15</td></tr><tr><td>D</td><td></td><td>58%精饲料+42%粗饲料</td><td>15</td></tr><tr><td></td><td>36.53%</td><td></td><td></td></tr></table></body></html>
+
+试验开食料组成及营养水平见表2。试验开食料制成颗粒（直径为 $6 \mathrm { m m }$ 饲喂。各组粗蛋白质水平保持基本一致。
+
+表2试验开食料组成及营养水平(干物质基础)  
+Table 2Composition and nutrient levels of experimental starters（DMbasis） %   
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="4">组别 Groups</td></tr><tr><td>A</td><td>B</td><td>C</td><td>D</td></tr><tr><td>项目Items 原料Ingredients</td><td></td><td></td><td></td><td></td></tr><tr><td>玉米 Corm</td><td>60.00</td><td>48.70</td><td>38.00</td><td>26.50</td></tr><tr><td>豆粕 Soybean meal</td><td>27.70</td><td>25.30</td><td>22.20</td><td>20.13</td></tr><tr><td>麸皮Wheat bran</td><td>8.00</td><td>8.00</td><td>8.00</td><td>8.00</td></tr><tr><td>苜蓿 Alfalfa hay</td><td></td><td>6.90</td><td>16.00</td><td>21.80</td></tr><tr><td>燕麦草 Oat grass</td><td></td><td>7.00</td><td>12.00</td><td>20.00</td></tr><tr><td>石粉Limestone</td><td>2.22</td><td>2.00</td><td>1.67</td><td>1.45</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>0.73</td><td>0.75</td><td>0.78</td><td>0.77</td></tr><tr><td>食盐NaCl</td><td>0.35</td><td>0.35</td><td>0.35</td><td>0.35</td></tr><tr><td>预混料 Premix1)</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td><td></td></tr><tr><td>粗蛋白质 CP</td><td>18.40</td><td>18.46</td><td>18.87</td><td>18.97</td></tr><tr><td>粗脂肪 EE</td><td>4.60</td><td>3.28</td><td>3.21</td><td>3.50</td></tr><tr><td>粗灰分 Ash</td><td>7.58</td><td>7.77</td><td>8.59</td><td>9.19</td></tr><tr><td>中性洗涤纤维 NDF</td><td>29.74</td><td>31.37</td><td>34.28</td><td>36.53</td></tr><tr><td>酸性洗涤纤维ADF</td><td>6.30</td><td>10.50</td><td>12.75</td><td>16.42</td></tr><tr><td>干物质 DM</td><td>88.30</td><td>86.83</td><td>88.72</td><td>88.69</td></tr><tr><td>钙Ca</td><td>1.15</td><td>1.09</td><td>1.15</td><td>1.10</td></tr><tr><td>磷P</td><td></td><td>0.49</td><td>0.53</td><td>0.48</td></tr><tr><td>代谢能 ME/（MJ/kg）</td><td>0.50</td><td>2.61</td><td>2.48</td><td>2.36</td></tr><tr><td></td><td>2.73</td><td></td><td></td><td></td></tr></table></body></html>
+
+1 预混料为每千克开食料提供 The premix provided the following per kg of starters：VA15 O00 IU，VD 5 000 IU，VE $5 0 ~ \mathrm { m g }$ ，Fe $9 0 \mathrm { m g }$ ， $\mathrm { C u } 1 2 . 5 \mathrm { m g }$ ， $\mathrm { M n } 3 0 \mathrm { m g }$ ， $Z n 9 0 { \mathrm { m g } }$ ，Se $0 . 3 ~ \mathrm { m g }$ ， $\mathrm { ~ I 6 . 0 ~ m g }$ ， $\mathrm { C o } 0 . 5 \ : \mathrm { m g }$ 。
+
+2代谢能为计算值，其他营养水平均为实测值。ME was acalculated value，while the other nutrient levels were measured values.
+
+# 1.4饲养管理
+
+试验开始前对所有犊牛岛用消毒剂进行全面清洗消毒，晾晒之后使用。所有试验犊牛出生后进行正常免疫程序，于犊牛岛单独饲养。每日清晨饲喂后更换犊牛岛垫料，保证犊牛岛干燥清洁。整个试验期自由饮用清洁水。
+
+# 1.5 测定指标及方法
+
+1.5.1 采食量和料重比的测定
+
+$1 5 { \sim } 1 1 2$ 日龄，详细记录每天每头犊牛的投料量和剩料量，计算干物质采食量（DMI)，并于1和112日龄晨饲前空腹测定每头犊牛的体重，分别作为始重和末重，并计算体增重。
+
+# 1.5.2 特牛屠宰性能指标
+
+试验结束后，空腹称活体重，每组选取体重接近每组平均体重的6头公犊牛，犊牛通过颈静脉放血，去掉头、蹄、尾、皮、内脏（不含肾脏和肾周围脂肪）、生殖器官称胴体重。对胴体完全剔骨后称量其全部肉重及骨重。屠宰率、净肉率、胴体出肉率、肉骨比等计算方法参照杨再俊等[1]，公式如下：
+
+屠宰率 $( \% ) = 1 0 0 \times$ 胴体重（kg）/宰前活重（kg）； 净肉率 $( \% ) = 1 0 0 \times$ 净肉重（kg）/宰前活重（kg）； 胴体出肉率 $( \% ) = 1 0 0 \times$ 净肉重（ $\mathbf { k g }$ ）/胴体重（kg）； 肉骨比 $( \% ) = 1 0 0 \times$ 净肉重（ $\mathrm { \ k g \Omega }$ ）/骨骼重（kg）； 内脏组织器官比重 $( \% ) = 1 0 0 \times$ 内脏组织器官重量（kg）/胴体重‘ $( \mathbf { k g } )$ 。
+
+1.5.3犊牛内脏器官和胃肠道指标的测定
+
+犊牛屠宰后，立即结扎贲门，取出整个胃肠道，再结扎皱胃和十二指肠结合处分开胃和肠道，去除肠道内容物后称重。将瘤胃、网胃、瓣胃和皱胃剪开，再把胃内全部食糜清除洗净后分别称重，称量内脏器官鲜重及胃肠道在去除内容物后的鲜重[12]。
+
+# 1.5.4犊牛胃肠道pH的测定
+
+犊牛屠宰后解剖，将各胃肠道分离、结扎，然后分别取各胃室及肠道内容物样品倒入$1 5 ~ \mathrm { m L }$ 离心管，立即用 PHB-2 型便携式pH计测定瘤胃、皱胃、十二指肠、空肠、回肠和盲肠内容物的pH。
+
+# 1.6 统计分析
+
+数据统计采用 SAS9.1软件中的单因素方差分析（one-wayANOVA)，差异显著者用Duncan氏法进行多重比较。以 $P { < } 0 . 0 5$ 为差异显著的判断依据。
+
+# 2结果与分析
+
+2.1开食料中不同NDF水平对犊牛体重和采食量的影响
+
+由表3可知，各组始重无显著差异（ $. P { > } 0 . 0 5 )$ ，说明试验符合随机分组的原则。B组末重和体增重最高，与A、C和D组相比，B组体重分别提高了3.37（ $. { \cal P } { > } 0 . 0 5$ ）、10.86( $\cdot P { < } 0 . 0 5$ ）和 $1 0 . 9 4 \mathrm { k g } ( P { < } 0 . 0 5 )$ ，体增重分别提高了4.53（ $P { > } 0 . 0 5$ ）、11.54( $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 )$ 和 $1 1 . 7 2 \mathrm { k g } ( P { < } 0 . 0 5 ) .$ 0B 组DMI分别较A、C 和D组提高0.25、0.06 和 $0 . 0 2 \mathrm { k g / d }$ ，但差异不显著（ $. P { > } 0 . 0 5 )$ 。
+
+<html><body><table><tr><td colspan="6">Table 3 Effects of starters with different NDF levels on body weight and DMI of dairy calves</td></tr><tr><td>项目</td><td colspan="3">组别Groups</td><td colspan="3"></td></tr><tr><td>Items</td><td>A</td><td>B</td><td>C</td><td>D</td><td>SEM</td><td>P-value</td></tr><tr><td>始重Initial weight/kg</td><td>42.73</td><td>41.58</td><td>42.25</td><td>42.35</td><td>0.50</td><td>0.97</td></tr><tr><td>末重 Final weight/kg</td><td>121.32ab</td><td>124.69a</td><td>113.83b</td><td>113.75b</td><td>1.50</td><td>0.01</td></tr><tr><td>体增重 Bodyweight gain/kg</td><td>78.59ab</td><td>83.12a</td><td>71.58b</td><td>71.40b</td><td>1.66</td><td>0.02</td></tr><tr><td>干物质采食量DMI/ (kg/d)</td><td>1.50</td><td>1.75</td><td>1.69</td><td>1.73</td><td>0.036</td><td>0.35</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，相同或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ 。下表同。 In the same row, values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ , while with the same or no letter superscripts mean no significant difference ( $P { > } 0 . 0 5$ ).The same as below.
+
+表3开食料中不同NDF水平对续牛体重和采食量的影响  
+
+<html><body><table><tr><td>项目</td><td colspan="5">组别Groups</td><td>P值</td></tr><tr><td>Items</td><td>A</td><td>B</td><td>C</td><td>D</td><td>SEM</td><td>P-value</td></tr><tr><td>胴体重 Carcass weight/kg</td><td>63.66</td><td>64.61</td><td>62.44</td><td>59.11</td><td>1.09</td><td>0.32</td></tr><tr><td>净肉重 Net meat weight/kg</td><td>47.30</td><td>48.49</td><td>46.75</td><td>44.32</td><td>0.81</td><td>0.33</td></tr><tr><td>骨重 Bone weight/kg</td><td>16.37</td><td>16.13</td><td>15.69</td><td>14.79</td><td>0.28</td><td>0.30</td></tr><tr><td>肉骨比 Ratio of meat to bone</td><td>2.89</td><td>3.02</td><td>2.98</td><td>3.00</td><td>0.02</td><td>0.16</td></tr><tr><td>屠宰率Dressing percentage/%</td><td>51.53a</td><td>52.81a</td><td>48.95ab</td><td>47.17b</td><td>0.63</td><td><0.01</td></tr><tr><td>净肉率 Net meat percentage/%</td><td>38.27a</td><td>39.66a</td><td>36.65ab</td><td>35.37b</td><td>0.47</td><td><0.01</td></tr><tr><td>胴体出肉率 Meat percentage of carcass/%</td><td>74.26</td><td>75.09</td><td>74.86</td><td>74.99</td><td>0.14</td><td>0.17</td></tr></table></body></html>
+
+2.2开食料中不同 NDF 水平对犊牛屠宰性能的影响由表4可知，与D组相比，A和B组屠宰率和净肉率均显著提高（ $_ { , P < 0 . 0 5 ) }$ 。B组胴体  
+重、净肉率、肉骨比、胴体出肉率与其他3组无显著差异（ $. P { > } 0 . 0 5 )$ ，但其表观数值均高于  
+A、C和D组。
+
+# 表4开食料中不同NDF水平对犊牛屠宰性能的影响
+
+Table 4Effects of starters with different NDF levels on slaughter traits of dairy calves
+
+# 103 2.3开食料中不同NDF水平对特牛器官指数的影响
+
+104 由表5可知，A和B组心脏指数和肺脏指数显著高于C和D组（ $( P { < } 0 . 0 5 )$ 。B组肾脏指  
+105 数显著高于C和D组（ $\scriptstyle P < 0 . 0 5$ )。B组复胃指数分别较A、C和D组提高了 $9 . 3 2 \%$ 、 $8 . 5 0 \%$
+
+# 表5开食料中不同NDF水平对特牛器官指数的影响
+
+Table 5Effects of starters with different NDF levels on organ indexes of dairy calves   
+
+<html><body><table><tr><td>项目</td><td></td><td>组别Groups</td><td></td><td></td><td></td><td>P值</td></tr><tr><td>Items</td><td>A</td><td>B</td><td>C</td><td>D</td><td>SEM</td><td>P-value</td></tr><tr><td>心脏指数 Heart index</td><td>0.66a</td><td>0.62a</td><td>0.56b</td><td>0.55b</td><td>0.015</td><td>0.02</td></tr><tr><td>肝脏指数 Hepatic index</td><td>2.03</td><td>2.01</td><td>1.94</td><td>1.87</td><td>0.033</td><td>0.31</td></tr><tr><td>脾脏指数 Spleen index</td><td>0.23</td><td>0.23</td><td>0.21</td><td>0.24</td><td>0.008</td><td>0.59</td></tr><tr><td>肺脏指数Lungs index</td><td>1.26a</td><td>1.04a</td><td>0.96b</td><td>0.95b</td><td>0.045</td><td>0.04</td></tr><tr><td>肾脏指数Kidney index</td><td>0.48ab</td><td>0.52a</td><td>0.44b</td><td>0.42b</td><td>0.012</td><td>0.01</td></tr><tr><td>复胃指数 Stomachus compositus index</td><td>3.97</td><td>4.34</td><td>4.00</td><td>3.68</td><td>0.091</td><td>0.08</td></tr><tr><td>十二指肠指数 Duodenum index</td><td>0.12</td><td>0.11</td><td>0.11</td><td>0.10</td><td>0.007</td><td>0.10</td></tr><tr><td>空肠指数 Jejunum index</td><td>1.57</td><td>1.90</td><td>1.64</td><td>1.70</td><td>0.064</td><td>0.30</td></tr><tr><td>回肠指数 Ileum index</td><td>0.25</td><td>0.31</td><td>0.27</td><td>0.27</td><td>0.010</td><td>0.21</td></tr></table></body></html>
+
+# 109 2.4开食料中不同NDF水平对特牛复胃发育的影响
+
+由表6可以看出，A、B和C组瘤胃重占复胃总重比例显著高于D组（ $_ { . } { \cdot } { \cdot } { \cdot } 0 . 0 5 \rangle$ 。瘤胃重依次为B组 ${ \mathrm { > A } }$ 组 ${ } _ { > } \mathrm { C }$ 组 $_ \mathrm { > D }$ 组，但组间差异不显著（ $\scriptstyle P > 0 . 0 5 { \mathrm { , } }$ )。随NDF水平的提高，网胃重依次降低，瓣胃重和皱胃重依次提高，但差异不显著（ ${ ( P { > } 0 . 0 5 ) }$ ，其中 $\mathrm { ~ D ~ }$ 组瓣胃重占复胃总重比例显著高于A（ $. P { < } 0 . 0 5 )$ 。
+
+表6开食料中不同NDF水平对特牛复胃发育的影响  
+
+<html><body><table><tr><td colspan="7">115 Table 6Effects of starters with diferent NDF levels on development of stomachus compositue of dairy calves</td></tr><tr><td>项目</td><td></td><td></td><td>组别Groups</td><td></td><td></td><td>P值</td></tr><tr><td>Items</td><td></td><td>A</td><td>B</td><td>C</td><td>D</td><td>SEM P-value</td></tr><tr><td>复胃重 Stomachus compositue weight/kg</td><td></td><td>5.12 5.32</td><td>5.12</td><td>4.65</td><td></td><td>0.51</td></tr><tr><td>瘤胃重 Rumen weight/kg</td><td>3.44</td><td>3.65</td><td>3.40</td><td>2.73</td><td>0.13</td><td>0.49</td></tr><tr><td>瘤胃重占复胃总重比例 Rumen weight percentage of total weight of</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Stomachus compositue/%</td><td>67.45a</td><td>68.44a</td><td>66.26a</td><td>58.81b</td><td>1.00</td><td><0.01</td></tr><tr><td>网胃重 Reticulum weight/kg</td><td>0.41</td><td>0.37</td><td>0.36</td><td>0.33</td><td>0.01</td><td>0.14</td></tr><tr><td>网胃重占复胃总重比例 Reticulum weight percentage of total weight</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>of stomachus compositue/%</td><td>8.00</td><td>6.97</td><td>6.42</td><td>7.89</td><td>0.27</td><td>0.11</td></tr><tr><td>瓣胃重 Omasum weight/kg</td><td>0.60</td><td>0.68</td><td>0.73</td><td>0.88</td><td>0.05</td><td>0.18</td></tr><tr><td>瓣胃重占复胃总重比例 Omasum weight percentage of total weight</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>of stomachus compositue/%</td><td>12.28b</td><td>12.86ab</td><td>14.24ab</td><td>18.49a</td><td>0.76</td><td>0.01</td></tr><tr><td>皱胃重 Abomasum weight/kg</td><td>0.61</td><td>0.62</td><td>0.66</td><td>0.68</td><td>0.02</td><td>0.65</td></tr><tr><td>皱胃重占复胃总重比例 Abomasum weight percentage of total</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>weight of stomachus compositue/%</td><td>12.45</td><td>11.73</td><td>13.09</td><td>14.81</td><td>0.52</td><td>0.19</td></tr></table></body></html>
+
+116 2.5开食料中不同NDF水平对犊牛胃肠道pH的影响  
+117 由表7可知，A和B组瘤胃中 $\mathfrak { p H }$ 显著高于C和D组（ $( P { < } 0 . 0 5 )$ ，盲肠中 $\mathfrak { p H }$ 为C组 ${ > } \mathrm { A }$
+
+表7开食料中不同NDF水平对犊牛胃肠道pH的影响  
+Table 7Effects of starters with different NDF levels on gastrointestinal pH of dairy calves   
+
+<html><body><table><tr><td>项目</td><td colspan="6">组别 Groups</td></tr><tr><td>Items</td><td>A</td><td>B</td><td>C</td><td>D</td><td>SEM</td><td>P-value</td></tr><tr><td>瘤胃Rumen</td><td>6.22a</td><td>6.25a</td><td>5.83b</td><td>5.55c</td><td>0.08</td><td><0.01</td></tr><tr><td>皱胃Abomasum</td><td>3.61</td><td>4.10</td><td>4.05</td><td>3.54</td><td>0.22</td><td>0.76</td></tr><tr><td>十二指肠 Duodenum</td><td>6.21</td><td>6.39</td><td>6.15</td><td>6.28</td><td>0.09</td><td>0.80</td></tr><tr><td>空肠 Jejunum</td><td>6.79</td><td>6.63</td><td>6.69</td><td>6.35</td><td>0.08</td><td>0.27</td></tr><tr><td>回肠 Ileum</td><td>7.49</td><td>7.51</td><td>7.63</td><td>7.54</td><td>0.05</td><td>0.77</td></tr><tr><td>盲肠 Cecum</td><td>6.88</td><td>6.82</td><td>6.90</td><td>6.68</td><td>0.67</td><td>0.07</td></tr></table></body></html>
+
+121 3讨论
+
+3.1开食料中不同NDF水平对特牛采食量和体增重的影响
+
+特牛采食适量的固体饲料可以促进瘤胃的发育及断奶后期特牛的健康，利于提高断奶后特牛体增重[8]。大量研究表明，向断奶前特牛提供粗饲料可以促进固体饲料采食量[13-14]和体重[7,15]。粗饲料对固体饲料摄入的积极作用与瘤胃环境的改善和瘤胃发育的增强有关[16]。Coverdale等[5]也发现通过向犊牛提供一定NDF水平的粗饲料改善瘤胃内环境，提高 DMI。同时饲粮 NDF 水平被认为是影响犊牛生长性能的最重要因素之一[17-18]，并且认为补充粗饲料会增加断奶后犊牛的DM[18]。与上述研究一致，本试验中提高NDF水平增加了DMI，其中 31.37%NDF 组高于其他3组，但差异不显著。可能是因各试验特牛在试验期间由于受天气和个体等因素的影响，DMI数据存有一定差异，因此产生一定的统计误差而造成采食量差异不显著。 $3 1 . 3 7 \% \mathrm { N D F }$ 组112日龄末重和体增重显著高于 $2 9 . 7 4 \% \mathrm { N D F }$ 组、 $3 4 . 2 8 \% \mathrm { N D F }$ 组和 36.53%NDF组，其中112日龄末重提高3.37、10.86 和 $1 0 . 9 4 \mathrm { k g }$ ，体增重分别提高4.53、11.54 和 $1 1 . 7 2 \mathrm { k g }$ 。可能是因为向犊牛提供适宜的NDF水平改善了瘤胃内环境，反过来进一步刺激了采食，提高了犊牛性能[13]。因此，在犊牛15\~112日龄阶段，开食料NDF 水平为$3 1 . 3 7 \%$ 是最佳的，有利于提高进食量和增重。
+
+3.2开食料中不同NDF水平对犊牛屠宰性能的影响
+
+屠宰率和净肉率是衡量动物生长性能和屠宰性能的重要指标。 $2 9 . 7 4 \% \mathrm { N D F }$ 组和31.37%NDF组的屠宰率和净肉率显著高于 $3 6 . 5 3 \% \mathrm { N D F }$ 组， $2 9 . 7 4 \% \mathrm { N D F }$ 组分别为 $51 . 5 3 \%$ ，$3 8 . 2 7 \%$ ，31.37%NDF组分别为 $5 2 . 8 1 \%$ 、 $3 9 . 6 6 \%$ ，与邓磊[19]、张保云[20]所得 $3 { \sim } 4$ 月龄犊牛屠宰率和净肉率基本一致。这说明犊牛开食料中 NDF水平过高对犊牛的屠宰性能有一定影响。杨宏波等[21]向 $3 { \sim } 6$ 月龄中国荷斯坦断奶公犊牛分别饲喂4种精粗比为75:25、70:30、65:35 和60:40的全价颗粒饲料,发现对犊牛屠宰性能无显著影响，与本研究结果不一致，可能是因为本研究饲喂的犊牛是 $1 { \sim } 4$ 月龄犊牛，不同生长阶段犊牛对NDF的需要量不同。本试验中，31.37%NDF 组的犊牛胴体重、净肉重、肉骨比、胴体出肉率表观数值均高于其他3 组。这说明适宜的NDF水平，有利于提高特牛的屠宰性能。
+
+3.3开食料中不同NDF水平对犊牛器官指数的影响
+
+动物机体的器官指数是一种生物学特性指标，它的大小在一定程度上决定了其功能的强  
+弱[22]。Webster[23]认为内脏指数与饲粮能量和蛋白质的消化利用有很大关系。Johnson 等[24]  
+认为，器官和肠道重量的变化与饲粮可消化吸收的营养物质有直接关系。桂林生等[25]研究发  
+现，饲粮精粗比对荷斯坦公牛器官重量有一定的影响，高精饲料饲粮能够促进牛心脏、肝脏、  
+脾脏、肺脏和肾脏的器官发育，尤其是重量和重量占体重比例。本试验研究发现，精粗比较  
+高的29.74%NDF 组和 $3 1 . 3 7 \% \mathrm { N D F }$ 组肺脏指数和心脏指数显著高于34.28%NDF 组和  
+36.53%NDF组，31.37%NDF组肾脏指数显著高于34.28%NDF 组和 $3 6 . 5 3 \% \mathrm { N D F }$ 组，与上述  
+研究结果基本一致。脾脏属于外周免疫器官，脾脏指数在一定程度上可以反映其功能的强弱。  
+在本试验中，饲喂不同NDF 水平的开食料对犊牛脾脏指数无显著影响，由此说明开食料中  
+的 NDF 水平对犊牛的免疫功能无不利影响。小肠的良好发育对营养物质的消化利用具有重要作用。本试验中，犊牛采食不同 NDF  
+水平开食料对十二指肠指数、空肠指数和回肠指数均无显著影响，但其中 $3 1 . 3 7 \% \mathrm { N D F }$ 组空  
+肠指数和回肠指数均高于其他3组。本试验结果与王斯琴塔娜[2]结果一致，在开食料中添加  
+一定水平粗饲料提高NDF水平有利于犊牛肠道发育。此外，本试验中 $3 4 . 2 8 \% \mathrm { N D F }$ 组和 $3 6 . 5 3 \% \mathrm { N D F }$ 组犊牛脏器指数均低于 $2 9 . 7 4 \% \mathrm { N D F }$ 组和  
+31.37%NDF组，可能是 $3 4 . 2 8 \% \mathrm { N D F }$ 组和 $3 6 . 5 3 \% \mathrm { N D F }$ 组开食料NDF 水平较高，降低其在胃  
+肠道中的流通速度，造成有机物、非纤维性碳水化合物、粗蛋白质及脂肪等营养物质的消化  
+率降低[27]，从而影响到组织器官的发育。  
+3.4开食料中不同NDF水平对特牛复胃发育的影响反刍动物幼龄时复胃发育的程度直接影响到成年后的采食量和消化能力，其中瘤胃的发
+
+育尤为重要，发育良好的瘤胃是反刍动物充分发挥生产性能，提高饲料转化效率的基础[28]。颗粒料的采食对犊牛的瘤胃发育具有重要作用，而内脏组织器官重占体重比例跟它们消耗能量和氨基酸的量有很大的联系[29]。Suarez 等[30]研究表明，犊牛饲喂 NDF水平较低的开食料，利于促进犊牛瘤胃内微生物区系的平衡，促进瘤胃内多聚糖酶的活性提高，进而促进瘤胃发育。本试验中， $2 9 . 7 4 \% \mathrm { N D F }$ 组、31.37%NDF组和34.28%NDF组瘤胃重占复胃总重比例显著高于36.53%NDF组。此外，本试验中采食量的增加与复胃和瘤胃重量的增加基本一致。31.37%NDF 组复胃重较29.74%NDF组、34.28%NDF组和36.53%NDF 组依次提高0.20、0.20和 $0 . 6 7 \mathrm { k g }$ ；瘤胃重依次提高0.21、0.25 和 $0 . 9 2 \mathrm { k g }$ 。可能是 $3 1 . 3 7 \% \mathrm { N D F }$ 组适宜的 NDF 组和粗蛋白质水平提供了瘤胃发育所需的营养物质，建立了适宜的瘤胃内环境，提高了DMI，促进瘤胃发育。本试验中，随开食料NDF 水平的提高，各组皱胃重和瓣胃重依次增加，其中 36.53%NDF 组瓣胃重占复胃总重比例显著高于29.74%NDF 组。这可能是因为随特牛采食 NDF 水平的增加，在胃肠道中的物理刺激作用加强，使消化器官容积和肌肉发育，增加了胃肠道重量[31]。本试验结果与桂林生等[25]研究3\~6 月龄犊牛的结果基本一致。因此，在特牛开食料中添加适宜水平粗饲料，提高 NDF 水平，利于促进特牛消化系统发育，而消化系统的良好发育将会有利于营养物质的消化吸收，从而促进犊牛的健康生长。
+
+# 3.5开食料中不同NDF水平对犊牛胃肠道pH的影响
+
+动物胃肠道内适宜的酸度是保障其消化系统发挥正常功能的重要因素之一，也是调节体内环境酸碱平衡和电解质平衡的基础条件[22]。瘤胃中pH通过影响挥发性脂肪酸比例的变化，而影响瘤胃的发育，对犊牛的正常生长、瘤胃发育和机体健康至关重要[32]。瘤胃中 pH受饲粮结构、唾液分泌、挥发性脂肪酸发酵和吸收速率、食物在消化道的流通速率及胃肠内容物的缓冲能力的影响[33]。正常变化范围是 $5 . 5 \sim 7 . 5$ ，保持 $\mathsf { p H }$ 在一个正常的范围是保证瘤胃正常发酵的前提，而pH变动的规律性主要取决于饲粮性质和采食后的时间[34]。本试验中,A、B、C、D组的瘤胃中 pH分别为6.22、6.25、5.58和5.55,均在正常范围之内。34.28%NDF组和 $3 6 . 5 3 \% \mathrm { N D F }$ 组瘤胃中pH降低可能由于采食NDF水平高的开食料，发酵产生大量的酸，而犊牛瘤胃壁尚未发育完全，发酵产生过量的酸超出了瘤胃壁的吸收能力，导致pH降低[33]。另外,纤维素分解菌在pH低于6.2时，其活性就会受到抑制，不利于纤维素的消化和流通[28,35],影响犊牛生长发育。
+
+Beauchemin[36研究发现，全混合日粮粉碎粒度和粗饲料颗粒大小对反刍动物的咀嚼时间、瘤胃中pH有较大的影响。本试验中，4组所饲喂开食料粒度大小基本一致，所以可排除粒度大小对瘤胃中pH的影响，说明提高犊牛开食料 NDF 水平，对瘤胃中pH有很大影响。一般来说，胃肠道具有一个相对稳定的内环境，具有一定的缓冲能力[37]。本试验中，各组之间十二指肠、空肠、回肠、盲肠和皱胃中pH无显著差异，说明 NDF 水平对瘤胃之外的其他胃肠道pH无不利影响。
+
+4结论
+
+$\textcircled{1}$ 15\~112日龄特牛处于生长发育的旺盛期，在这个生理阶段开食料中NDF水平是一个重要的指标，显著影响犊牛的体增重和屠宰性能，显著影响心脏、肺脏、肾脏及瘤胃和瓣胃的发育。  
+$\textcircled{2}$ 本试验条件下，15\~112日龄开食料NDF的适宜水平为 $3 1 . 3 7 \%$ 。
+
+# 参考文献：
+
+[「] KERIZL AF,PREWIITLR,EVERETTTP,Jr.An earlyweaning calt program:summarization and review[J].Journal of Dairy Science,1979,62(11):1835-1843.   
+[2] 云强,刁其玉,屠焰.特牛开食料研究进展[J].饲料工业,2009,30(15):32-34.   
+[3] 冯仰廉.反刍动物营养学[M].北京:科学出版社,2004:352-354.   
+[4] KHAN M A,WEARY D M,VON KEYSERLINGK MA G.Hay intake improves performance and rumen development of calves fed higher quantities of milk[J].Journal of Dairy Science,2011,94(7):3547-3553.   
+[5] COVERDALE JA,TYLER H D,QUIGLEY J D,et al.Effect of various levels of forage and formof dietonrumendevelopmentandgrowth in calves[J].Journal ofDairy Science,2004,87(8):2554-2562.   
+[6]SUAREZ B J,VAN REENEN C G,STOCKHOFE N,et al.Effect of roughage source and roughage to concentrate ratio on animal performance and rumen development in veal calves[J].Journal of Dairy Science,2007,90(5):2390-2403.   
+[7] EMAKTABI H,GHASEMI E,KHORVASH M.Effects of substituting grain with forage or non forage fiber source on growth performance,rumen fermentation,and chewing activity of dairy calves[J].Animal Feed Science and Technology,2016,221:70-78.   
+[8]DRACKLEY J K.Calf nutrition from birth to breeding[J].Veterinary Clinics of North America: Food Animal Practice,2008,24(1):55-86.   
+[9]MIRZAEI M,KHORVASH M,GHORBANI G R,et al.Effects of supplementation level and particle size of alfalfa hay on growth characteristics and rumen development in dairy calves[J].Animal physiology and Animal Nutrition,2015,99(3):553-564.   
+[10]IMANI M,MIRZAEI M,BAGHBANZADEH-NOBARI B,et al.Effects of forage provision to dairy calves on growth performance and rumen fermentation:a meta-analysis and meta-regression[J].Journal of Dairy Science,2017,100(2):1136-1150.   
+[11]杨再俊,李胜利,邓磊,等.饲喂全乳和代乳粉对小白牛生长性能和胴体性状的影响[J].中 国畜牧杂志,2010,46(1):31-33.   
+[12]李辉.蛋白质水平与来源对早期断奶犊牛消化代谢及胃肠道结构的影响[D].博士学位论 文.北京:中国农业科学院,2008:28-29.   
+[13]CASTELLS L,BACH A,ARAUJO G,et al.Effect of different forage sources on performance and feeding behavior of Holstein calves[J].Journal of Dairy Science,2012,95(1):286-293.   
+[14]EBNALI A,KHORVASH M,GHORBANI G R,et al.Effects of forage offering method on performance,rumen fermentation,nutrient digestibility,blood metabolites,and nutritional behavior in Holstein dairycalves[J].Journal of Animal Physiology and Animal Nutrition,2016,100(5):820-827.   
+[15]BEIRANVAND H,GHORBANI G R,KHORVASH M,et al.Interactions of alfalfa hay and sodium propionate on dairy calf performance and rumen development[J].Journal of Dairy Science,2014,97(4):2270-2280.   
+[16]CASTELLS L,BACH A,ARIS A,et al.Effects of forage provision to young calves on rumen fermentationanddevelopmentofthegastrointestinaltract[J].JournalofDairy Science,2013,96(8):5226-5236.   
+[17]NEMATI M,AMANLOU H,KHORVASH M,et al.Effect of diffrent alfalfa hay levels on growth performance,rumen fermentation,and structural growth of Holstein dairy calves[J].Journal [18]TERRE M,PEDRALS E,DALMAU A,et al.What do preweaned and weaned calves need in the diet:ahighfibercontent oraforagesource?[J].JournalofDairy Science,2013,96(8):5217-5225. [19]邓磊.代乳粉及维生素E对小白牛肉生产、肉品质的影响研究[D].硕士学位论文.北京: 中国农业大学,2006:23-25. [20]张保云.荷斯坦公犊牛生产小牛肉效果及耗牛CAST基因多态性分析[D].硕士学位论文. 兰州:甘肃农业大学,2010:6-7. [21]杨宏波,刘红,朱隆基,等.不同 NDF 水平全价颗粒饲料对断奶公犊牛屠宰性能和组织器 官发育的影响[J].中国农业大学学报,2015,20(2):124-130. [22]陈佳力,陈代文,余冰,等.苯甲酸对断奶仔猪生长性能、器官指数和胃肠道内容物 pH的 影响[J].动物营养学报,2015,27(1):238-246. [23]WEBSTER A JF.Energy costs of digestion and metabolism in the gut[M]/RUCKEBUSCH Y,THIVEND P.Digestive physiology and metabolism in ruminants.Dordrecht:Springer,1980:469-484. [24]JOHNSON D E,JOHNSON K A,BADWIN R L.Changes in liver and gastrointestinal tract energydemandsin responsetophysiological workload in ruminants[J].Journalof Nutrition,1990,120(6):649-655. [25]桂林生,昝林森,梁大勇,等.不同饲养水平对荷斯坦公牛网胃和瓣胃器官发育及组织形 态的影响[J].动物营养学报,2009,21(5):792-797.   
+268 [26]王斯琴塔娜.探讨饲料品质对特牛消化道组织形态及内脏组织器官发育的影响[D].硕士   
+269 学位论文.呼和浩特:内蒙古农业大学,2007:24-34.   
+270 [27]张立涛,李艳玲,王金文,等.不同中性洗涤纤维水平饲粮对肉羊生长性能和营养成分表   
+271 观消化率的影响[J].动物营养学报,2013,25(2):433-440.   
+272 [28]岳喜新,刁其玉,邓凯东,等.饲喂代乳粉对羔羊生长性能和体组织参数的影响[J].饲料工   
+273 业,2010,31(19):43-46.   
+274 [29]FERRELL C L.Energy metabolism[M]//CHURCH D C.The ruminant animal:digestive
+
+physiology and nutrition.Englewood Cliffs:Prentice Hall, 1988:250-268.
+
+[30]SUAREZ B J,VAN REENEN C G,BELDMAN G,et al.Effcts of Supplementing   
+concentrates differing in carbohydrate composition in veal calf diets: I .Animal performance and   
+rumen fermentation characteristics[J].Journal of Dairy Science,2006,89(11):4365-4375.   
+[31]BAILEY C B.Growth of digestive organs and their contents in Holstein steers:relation to body   
+weight and diet[J].Canadian Journal of Animal Seienee,1986,66(3):653-661.   
+[32]张海涛,王加启,卜登攀,等.影响特牛瘤胃发育的因素研究[J].乳业科学与技   
+术,2008(2):86-89.   
+[33]WILLIAMS P E V,FALLON R J,INNES G M,et al.Effect on food intake,rumen   
+development and live weight of calves of replacing barley with sugar beet-citrus pulp in a starter   
+diet[J].Animal Science,1987,597(4):308-318.   
+[34] 刘洁,刁其玉,赵一广,等.饲粮不同 NFC/NDF 对肉用绵羊瘤胃 pH、氨态氮和挥发性脂肪   
+酸的影响[J].动物营养学报,2012,24(6):1047-1055.   
+[35]GRANT R J,MERTENS D R.Influence of buffer pH and raw corn starch addition on in   
+vitro fiber digestion kinetics[J].Journal of Dairy Science,1992,75(10):2762-2768.   
+[36]BEAUCHEMIN K A.Effects of dietary neutral detergent fiber concentration and alfalfa hay   
+quality on chewing,rumen function,and milk production of dairy cows[J].Journal of Dairy   
+Science,1991,74(9):3140-3151.   
+[37] 王杰,崔凯,王世琴,等.饲粮蛋氨酸水平对湖羊公羔营养物质消化、胃肠道 pH及血清指   
+标的影响[J].动物营养学报,2017,29(8):3004-3013. Effects of Starters with Different Neutral Detergent Fiber Levels on Slaughter Traits, Organ Indexes and Development of Stomachus Compositus of Dairy Calves REN Chunyan1,2.3BI Yanliang2,3DU Hanchang4YU ${ \mathrm { B o } } ^ { 4 }$ TU Yan2,3GUO Yanlil\*DIAO Qiyu2,3\* (1. College of Animal Science and Technology， Gansu Agricultural University, Lanzhou 730070, China; 2. Key Laboratory of Feed Biotechnology of Ministry of Agriculture, Feed Research Institute, Chinese Academy of Agricultural Sciences, Beijing 10o081, China; 3.
+
+Yinxiangweye Group Co.,Ltd.,Heze274400, China)
+
+Abstract: The objective of this study was to determine the effects of starters with different neutral detergent fiber (NDF） levels on slaughter traits,organ indexes and development of stomachus compositus of dairy calves. Sixty newborn dairy calves (24 females and 36 males) with similar birth weight $[ ( 4 2 . 0 { \pm } 2 . 5 ) \mathrm { k g } ]$ and enough colostrum supplemented were randomly assigned to four groups with 9 male and 6 female calves each group. Allcalves were weaned at 70 days of age. Groups A, B, C,and D were fed one of the four starters with NDF levels of $2 9 . 7 4 \%$ ， $3 1 . 3 7 \%$ ， $34 . 2 8 \%$ and $3 6 . 5 3 \%$ ,respectively. The experiment lasted for 112 days. The results showed as follows: body weight gain in group B was significantly higher than that in groups C and D $( P { < } 0 . 0 5 )$ . Dressing percentage and net meat rate in group B were significantly higher than that in group D $( P { < } 0 . 0 5 )$ . Group B also had higher carcass weight, ratio of meat to bone and meat percentage of carcass compared with the other three groups, but the differences were not significant $( P { > } 0 . 0 5 )$ ；about the development of stomachus compositus,rumen weight percentage of stomachus compositus total weight and reticulum weight percentage of stomachus compositus total weight were significantly higher in group B than in group D ( $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ ）,while omasum weight percentage of stomachus compositus total weight was significantly higher in group D than in group A( $P { < } 0 . 0 5 \rangle$ ; groups A and B had significantly higher pH in rumen compared with groups C and D( $\scriptstyle P < 0 . 0 5 .$ ）. In conclusion, starter with $3 1 . 3 7 \%$ NDF for dairy calves at 15 to 112 days of age can improve the body weight gain， slaughter traits, and promote the development of organs and gastrointestinal tracts.
+
+Key words: dairy calf; neutral detergent fiber level; starter; feed intake; slaughter trait; organ index; stomach development of stomachus compositus

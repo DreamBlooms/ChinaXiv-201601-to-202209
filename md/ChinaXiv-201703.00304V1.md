@@ -1,0 +1,117 @@
+# SINGLELAYERDUAL-BANDREFLECTARRAY ANTENNA WITH TWOINDEPENDENTRADIATIONPATTERNS
+
+C.H.Hanl,²2, Y.H. Zhang'
+
+l Key Laboratory of Microwave Remote Sensing, National Space Science Center (NSSC), Chinese Academy of Sciences (CAS), Beijing, China 2 University of Chinese Academy of Sciences, Beijing, China hanchunhui2012@ gmail.com, zhangyunhua@mirslab.cn
+
+Keywords: dual-band, reflectarray antenna, single layer, radiation patterns.
+
+# Abstract
+
+This paper present a design for $\mathrm { { X / K u } }$ dual-band reflectarrayantennas with single layer which has two independent radiation patterns for $\mathrm { \Delta X }$ and $\mathrm { K u }$ bands. In the design,a novel dual resonance structure has been used as the unit cell for both X and $\mathrm { K u }$ band to achieve dual-band performance with a new approach.A $1 0 \times 1 0$ center-fed reflectarray operating at $9 ~ \mathrm { G H z }$ and $1 3 . 5 ~ \mathrm { G H z }$ with scattering angles of $1 2 ^ { \circ }$ and $- 3 0 ^ { \circ }$ respectively,is designed and the simulated results are presented to validate the approach.
+
+# 1 Introduction
+
+Microstrip reflectarray technology has attracted wide attentions in many communication and radar applications due to its various advantages [1]. In many applications, dual-band antenna systems are highly demanded for radar systems working at two different frequency bands. Several techniques have been proposed in recent decades, such as single-layer dual-resonance elements [2], stacked patches with double layer structures [3,4] and FSS-backed structures [5, 6].
+
+Although dual-band reflectarray antennas are mostly designed for realizing coincided main beam boresight, in some applications,we need two totally different radiation patterns for two different bands.In [7],J.Shaker proposed a combination of FSS-backed reflectarray and conventional reflector which can operate independently in $\mathrm { K a / K u }$ bands.In this design, reflectarray is designed to be transparent with the operating band of the conventional reflector placed under the reflectarray slob and reflect energy with the operating band of the reflectarray antenna.In[8], they replace the conventional reflector with a ground plane backed reflectarray. This design is proposed to simplify the structure with lower surface profile and smaller antenna mass.
+
+For much simpler design with much smaller antenna mass and cost, reflectarray antenna with single layeris desirable. However, the design techniques of[7] and [8] are not quite suitable for single layer structures.
+
+In this paper, we propose an approach to design a dualband reflectarray antenna with single layer and two distinct radiation patterns in $\mathrm { \Delta X }$ and $\mathrm { K u }$ band.A novel dual resonance structure is selected as the unit cell for both X and $\mathrm { K u }$ band[9]. In [9],a single layer dual-band reflectarraywith the radiationpatterns of the same beam direction waspresented.Here, four degrees of freedom of the unit cell are employed to control the reflection phase at two designed frequencies to achieve two independent radiation patterns.
+
+# 2 Reflectarray Design Approach
+
+# 2.1 Design Principle
+
+Generally, because of the mutual coupling, the reflecting phase of double resonance structure with single layer cannot be tuned independently at two different frequencies. Asa result,it is hard to achieve the two different radiation patterns at two bands. Here,we present an approach to solve the problem.
+
+First, we choose a double resonance structure with four freedom degrees as the unit cell for this design.By chang ing the four degrees, the reflecting phase can vary simultaneously at two center frequencies.
+
+Second,we sweep the four parameters,i.e.change the four parameters step by step at the two designed center frequencies. Then we obtain the data of the reflecting phase of all configurations (all cases of four parameters). During the parameter sweeping, we should make sure that one reflecting phases of the upper frequency must correspond to a wide range of reflecting phases at the lower frequency.
+
+Third, we design the reflectarray with two independent radiation patterns by selecting configurations obtained in the second step to achieve two designed radiation patterns at these two designed frequencies simultaneously.
+
+By the proposed approach,we can design a dual-band reflectarray antenna with two distinct radiation patterns.
+
+![](images/e924a51208b97e278a1a64f9bb483d4a22fa6f803b13c4c3a954ac8fc49dbc35.jpg)  
+Figure 1. Unit cell structure [9].
+
+# 2.2 Unit Cell Design
+
+The used unit cell structure with single layer is shown in Figure 1,which is composed by an outside circular ring structure and an inside I-shaped dipole structure [9]. The unit cell size is set to be $L { = } 1 0 ~ \mathrm { m m }$ .The outerradiusof the circular ring is fixed to be $R _ { \it 0 } { = } 4 . 2 ~ \mathrm { m m }$ forall the reflectarray elements.The patchis etched on the Duroid588O substrate with $1 . 5 2 4 ~ \mathrm { m m }$ thickness $( h )$ and 2.2 relative permittivity $\left( \varepsilon _ { r } \right)$ ：
+
+There are four freedom degrees to control the reflecting phase of the unit cell at $9 ~ \mathrm { G H z }$ and $1 3 . 5 ~ \mathrm { G H z }$ ：(1）The inner radius of the circular ring $R _ { i } ,$ which is the main parameter to control the reflecting phase.(2） The gap between the circular ring and the I-shaped dipole $\textstyle { W _ { s } }$ .(3)The width of the inside I-shaped dipole $W _ { B }$ ，inwhich $W _ { B } { = } 2 M { \times } ( R _ { i } { - } W _ { s } )$ . (4) The gap inside the I-shaped dipole $W _ { G }$ , in which $W _ { G } { = } 2 N { \times } ( R _ { i } { - } W _ { s } )$
+
+To calculate the phase response,an infinite array is simulated By HFSS using master-slave boundary and Floquet port excitation.Figure 2 shows the simulation results indicating that the reflecting phase curves change obviously with different values of $M$ while the reflecting phase mainly vary as the value of $R _ { i }$ changes.The phase difference between the two frequencies changes from $2 0 0 ^ { \circ }$ to $3 0 0 ^ { \circ }$ ：
+
+Then we sweep the four parameters for $9 ~ \mathrm { G H z }$ and 13.5 $\mathrm { G H z }$ ，respectively. The infinite array model is used to carry out the parameter sweep by HFSS by tuning $R _ { i } , W _ { s } ,$ $M$ and $N$ as given in Table 1.
+
+Table 1. Parameter sweeping ranges   
+
+<html><body><table><tr><td>parameters</td><td>Ri(mm)</td><td>Ws (mm)</td><td>M</td><td>N</td></tr><tr><td>values</td><td>1.5~3.6 Step:0.1</td><td>0.1~0.3 Step:0.1</td><td>0.1~0.6 Step:0.1</td><td>0.2~0.8 Step:0.1</td></tr></table></body></html>
+
+We thus obtain the data of reflecting phases for all configurations $( R _ { i } , \ W _ { s } , \ M , \ N )$ . Figure 3 shows the reflecting phase available at9 GHz and $1 3 . 5 \ : \mathrm { G H z }$ based on the data.
+
+![](images/0aeff08175787731f5bc5c4b17e9349f151056690a4fa7629fc56c83a904c8d6.jpg)  
+Figure 2.Reflecting phases of the unit cell at $9 \ : \mathrm { G H z }$ and$1 3 . 5 \ \mathrm { G H z }$ ， respectively, respect to $R _ { i }$ for different valuesof $M$ （ $W _ { s } { = } 0 . 3 ~ \mathrm { m m }$ $N { = } 0 . 6$ ）
+
+![](images/b3e53d3ea6d5561c56af3113db00478c636a88e757f7d7b3c8468ab64225f8f7.jpg)  
+Figure 3.Reflecting phase distribution of 9 GHz versus that of $1 3 . 5 \ : \mathrm { G H z }$
+
+In Figure 3,each point $( p _ { 1 } , p _ { 2 } ) \mathrm { i n }$ the blue area indicates the unit cell with one of the all configurations.The blue area occupies $70 \%$ of the entire region, i.e. $- 1 8 0 \sim + 1 8 0 ^ { \circ }$ for both directions. Our results indicate that $70 \%$ occupation is enough for realizing two totally different radiation patterns.
+
+# 3 Reflectarray Design
+
+In this section,a $1 0 { \times } 1 0$ -element centre-fed reflectarray working at $9 \ : \mathrm { G H z }$ and $1 3 . 5 \ \mathrm { G H z }$ is successfully designed and simulation results are presented to show the effectiveness of the proposed approach.
+
+In the first step, the required phase shift for each unit cell is calculated at $9 \mathrm { G H z }$ and $1 3 . 5 \ : \mathrm { G H z }$ ,respectively,according to the equation below.
+
+$$
+\phi _ { R } = k _ { \scriptscriptstyle 0 } \times \big ( d _ { \scriptscriptstyle i } - \big ( x _ { \scriptscriptstyle i } \cos \varphi _ { \scriptscriptstyle 0 } + y _ { \scriptscriptstyle i } \sin \varphi _ { \scriptscriptstyle 0 } \big ) \sin \theta _ { \scriptscriptstyle 0 } \big )
+$$
+
+![](images/17f3fcdf21070eb859ed4bf1c4aa0029211dbd83f5eebd3b76fbb674b7db90a5.jpg)  
+Figure 4.The required phase shifts at $9 ~ \mathrm { G H z }$ and 13.5 GHz
+
+Where $k _ { 0 }$ is the propagation constant in vacuum, $d _ { i }$ is the distance from the phase centre of the feed to the centre of the ith unit cell in the reflectarray, $( \theta _ { 0 } , \varphi _ { 0 } )$ is the designed main beam radiation angle of the reflectarray. The phase shifts are designed to compensate for the spatial delay between the feed and unit cells.Here, the phase shifts are calculated according to $( 1 2 ^ { \circ } , 0 ^ { \circ } )$ for 9 GHz and $( 3 0 ^ { \circ } , 1 8 0 ^ { \circ } )$ for $1 3 . 5 \ : \mathrm { G H z }$
+
+In the second step,a feed of pyramid horn is chosen and positioned. The feed horn can be operated at $9 ~ \mathrm { G H z }$ and $1 3 . 5 \ : \mathrm { G H z }$ with corresponding phase centre at the aperture surface centre and $3 \ \mathrm { m m }$ inside the aperture surface,respectively these two frequencies.The horn is positioned at $9 0 . 5 ~ \mathrm { m m }$ above the reflectarray plane and the side view of the geometry of the reflectarray is shown in Figure 5.
+
+The results of the required reflecting phases for both frequencies are shown in Figure 4,where the red star points are the calculated phase shifts for all the unit cells.There are only 5O points shown in Figure 4,which just corresponds to half of the total elements,due to the symmetry about the $x$ -axis as shown in Figure 5.
+
+We can see from Figure 4 that although about $26 \%$ of points are outside the blue area, the design approach still works as shown in the following.
+
+After the above two steps carried out, the final centre-fed reflectarray is simulated by CST Microwave Studio software according to the layout of Figure 6 with the aperture size of $1 0 0 ~ \mathrm { { m m } }$ and 1oo elements.The configuration of each unit cell of the layout is depending on the red points in Figure 4.
+
+The simulated E-plane normalized radiation patterns of 9 GHz and $1 3 . 5 \ : \mathrm { G H z }$ are shown in Figure 7, from which one can see that the main beam direction is exactly $( 1 2 ^ { \circ } , 0 ^ { \circ } )$ for 9 GHz and $( 3 0 ^ { \circ } , 1 8 0 ^ { \circ } )$ for $1 3 . 5 \ : \mathrm { G H z }$ , just as designed. Thus, our goal is achieved.
+
+![](images/a106af5e5daadf2015f493791306ba7831318940f36badb5f2cfc92c7b8b388a.jpg)  
+Figure 5. Side view of the dual-band reflectarray
+
+![](images/2810a4c087b2ecb6e03747ef5a553db1b094f976e2b88a4eb897d079cb3bf202.jpg)  
+Figure 6.Layout of the reflectarray.
+
+Besides,the maximum gains of the designed dual-band reflectarray are 13 dBi at9 GHz and19.1 dBi at $1 3 . 5 \ : \mathrm { G H z }$ respectively,with correspondingside lobe level(SLL) of - $8 ~ \mathrm { d B }$ and $- 1 2 \ \mathrm { d B }$ and．Obviously,the SLL at $9 ~ \mathrm { G H z }$ is relativelyhigher than that of $1 3 . 5 \ : \mathrm { G H z }$ .This is due to the phase errors introduced by the outer-area points in Figure 4,the performance of the dual-band reflectarray is affected.To solve this problem, we can design a better unit cell which should occupy the entire region of reflecting phase distribution for both bands. Currently，dual-resonance structures as well as multi-resonance structures with better performance are under investigation as the unit cell of the dual-band reflectarray with two distinct radiation patterns. The simulated efficiency of the dual-band reflectarray is $20 \%$ at 9 GHz and $32 \%$ at $1 3 . 5 \ : \mathrm { G H z }$
+
+![](images/283d839858d6e2a35354320bd4640f8820dce75e1c6569576a455ff45e9aba5d.jpg)  
+Figure 7.Simulated E-plane radiation patterns at $9 ~ \mathrm { G H z }$ and $1 3 . 5 \ : \mathrm { G H z }$
+
+[6] M. R. Chaharmir, J. Shaker,and H. Legay,“Dualband Ka/X reflectarray with broadband loop elements,"IETMicrow. Antennas Propag.,vol.4,no.2 pp.225-231,2010.   
+[7] Shaker J, Cuhaci M.,“Multi-band, multi-polarisation reflector-reflectarray antenna with simplified feed system and mutually independent radiation patterns[C],” Microwaves,Antennas and Propagation, IEE Proceedings.IET,2005,152(2): 97-101.   
+[8] Chaharmir,M.R., Shaker,J.,Legay,H.,“Dual-band $\mathrm { K a } / \mathrm { X }$ reflectarray with broadband loop elements," IET Microw. Antennas Propag.,vol. 4,no. 2,pp. 225-231,2010.   
+[9] S.W.Qu, Q.Y.Chen, J.F.Li, Q.Chen, andM. Y. Xia,“Single-layer dual-band reflectarray with single linear polarization,” presented at the Int. Conf. Microwave andMillimeterWaveTechnology (ICMMT2012),Shenzhen,China,May 5-8,2012.
+
+# 4 Conclusions
+
+In this paper,we present a design for single layer dualband reflectarray antenna with two independent radiation patterns of $9 ~ \mathrm { G H z }$ and $1 3 . 5 \ \mathrm { G H z }$ . As for an example,a $1 0 \times 1 0$ -element dual-band reflectarray antenna is designed,which has two independent main beam radiation angles, i.e. $( 1 2 ^ { \circ } , 0 ^ { \circ } )$ for 9 GHz and $( 3 0 ^ { \circ } , 1 8 0 ^ { \circ } )$ for 13.5 GHz,respectively.
+
+The simulation results show that the maximum gains of 13 dBiat $9 \mathrm { G H z }$ and19.1 dBi at $1 3 . 5 \ : \mathrm { G H z }$ aswell as the SLL of -8 dB at9 GHz and $- 1 2 \ \mathrm { d B }$ at $1 3 . 5 ~ \mathrm { G H z }$ are realized. Besides,the realized main beam radiation directions for both of the 9 GHz and $1 3 . 5 \ \mathrm { G H z }$ ，are exactly as same as designed.We also show that the phase error plays the major role in the design,which is mainly decided by the element characteristics.
+
+# References
+
+[1] Huang J.，Encinar J.A.，“Reflectarray antennas,” (Wiley,2007)   
+[2] M. R. Chaharmir, J. Shaker, N. Gagnon, and D. Lee, “Design of broadband, single layer dual-band large reflectarray using multi open loop elements,”IEEE Trans. Antennas Propag.,vol. 58, no. 9, pp. 2875- 2883, Sep.2010.   
+[3] C.Han, C.Rodenbeck, J.Huang,and K.Chang,“A C/Ka dual frequency dual Layer circularly polarized reflectarray antenna with microstrip ring elements," IEEE Trans. Antennas Propag.,vol. 52, no. 11, pp. 2871-2876,Nov.2004.   
+[4] J.A.Encinar,“Design of a dual frequency reflectarrayusing microstrip stacked patches of variable size,”Electron. Lett., vol.32, no.12, pp.1049-1050, Jun. 1996.   
+[5] J.-F.Li, Q. Chen，S.-W. Qu, Q. Yuan,and K. Sawaya, “Dual-frequency reflectarray design using sandwiched FSS,’in Proc.Asia-Pacific Microwave Conf. (APMC),2010, pp. 877-880.

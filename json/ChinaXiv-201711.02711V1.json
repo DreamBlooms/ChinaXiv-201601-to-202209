@@ -1,0 +1,453 @@
+[
+    {
+        "type": "text",
+        "text": "应用CRISPR/Cas9技术构建miR-362敲除的 95-D肺癌细胞株 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "罗丹11，王莉娟2²，孙秀璇3²，张征4²，陈志南 $5 ^ { 1 ^ { * } }$ （1北京交通大学理学院生命科学与生物工程研究院，北京100044;2第四军医大学细胞工程研究中心，西安710032)\\*通讯作者",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的 运用CRISPR/Cas9 基因编辑技术，建立miR-362 基因敲除的95-D 肺癌细胞株，并研究miR-362在肿瘤中的调控作用。方法 针对人源miR-362基因序列设计 gRNA，构建 px330-gRNA 载体；T7E1assay 确定 gRNA 的有效性。分别扩增 miR-362上下游同源臂序列构建donor载体。利用脂质体将CRISPR系统和donor载体共转至人肺癌细胞系95-D，通过同源重组方法将筛选标志基因整合至基因组中，通过流式分选以及qPCR方法检测筛选出的细胞中miR-362表达水平。利用Transwell分析miR-362对细胞运动能力的影响。结果与95-D细胞相比，95-D-KnockDown 细胞中miR-362表达水平显著降低，且迁移侵袭能力分别下降了$5 3 . 1 \\%$ ( $\\scriptstyle \\mathtt { p = 0 . 0 0 0 6 }$ ）和 $4 8 . 3 \\%$ （ $\\scriptstyle \\mathtt { p } = 0 . 0 0 0 2$ ）。结论 利用CRISPR/Cas9系统成功构建了miR-362基因敲除的95-D细胞，miR-362可促进细胞的运动能力，为后续研究miR-362在肿瘤中的作用机制和功能奠定了基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：miR-362；95-D；CRISPR/Cas9；侵袭；迁移中图分类号：Q2 文献标志码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Construction of miR-362 knockdown 95-D cell line by CRISPR/Cas9 technology ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LUO Danl, WANG Li-juan², SUN Xiu-xuan², ZHANG Zheng², CHEN Zhi-nan1 \\* ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1.College of Life Science and Bioenginering, School of Science,Beijing Jiaotong University, Beijing 100044,China; 2.Cell Engineering Research Center,The Fourth Military Medical University, Xi'an,710032, China) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "\\*Corresponding author ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective: to construct miR-362 knockdown 95-D cels by using CRISPR/Cas9 genome engineering technology, and study the function of miR-362 in cancer. Methods: gRNA sequences targeting the miR-362 gene were selected. Px330-gRNA recombination plasmids were constructed and the validity were evaluated by T7E1 assay.Left and right arms of miR-362 were amplified from genomic DNA by PCR,and sequentially cloned into the donor vector. The CRISPR/Cas9 system and donor vector were co-transfection into 95-D cells,and the selection system that allows for marker genes were integrated into the genome through homologous recombination (HR). The expression of miR-362 of 95-D-KnockDown cells sorted through FACS was detected by qPCR,and the migration and invasion were determined by Transwell assay. Results: Compared with 95-D cells, the expression of miR-362 in 95-D-KD cells was significantly down-regulated, and down-regulation of miR-362 expression can suppress the cell migration and invasion capacity of 95-D-KD cells. Conclusion: The miR-362 knockdown lung cancer cell line （95-D-KD cells） had been successfully constructed by using CRISPR/Cas9 system，which lays the foundation for further study of the mechanism and function of miR-362 in cancers. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Key words:miR-362; 95-D; CRISPR/Cas9; invasion; migration ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "肺癌是我国常见的、发病率和致死率均居首位的恶性肿瘤[]。肺癌的发生发展是缓慢而持续的过程，涉及染色体稳定性、表观遗传学改变、基因表达调控等多因素、多信号通路的共同参与。近年来，随着高通量测序技术的发展，尤其是基因组、转录组等研究的不断深入，包括miRNAs在内的非编码RNA在肿瘤发生发展中的作用也受到人们的关注。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MicroRNAs(miRNAs)是一类非编码小分子RNA，通过与沉默复合体（RISC）结合介导靶基因mRNA 降解或阻碍其翻译[2]。研究表明 miRNAs 在肿瘤细胞中广泛存在，并发挥着重要的促癌因子或抑癌因子的作用[3-5]。MiR-362 定位于人基因组 Xp11.23。研究表明,miR-362 在胃癌中可作为促癌因子，通过激活 NF-kB 通路诱导细胞增殖和凋亡耐受[；然而，也有研究证明，miR-362在神经母细胞瘤中作为肿瘤抑制子，通过靶向PIK3C2B 抑制肿瘤细胞的增殖、迁移[7]。为了明确miR-362在非小细胞肺癌演进中的作用机制，有必要建立完全敲除的细胞株。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基因编辑技术为在基因组水平进行定点操作提供了良好的方法。目前，常用的基因组编辑技术除了锌指蛋白 (zinc finger protein,ZFP)技术、转录激活因子样效应物核酸酶（transcription activator-like efector nucleases，TALEN）技术以外，RNA 引导的 CRISPR/Cas9核酸酶技术在基因编辑中的应用也越来越广泛。Cas9系统是微生物自我保护，防止外来微生物的侵入的一种独特机制，它是继 ZFN和TALEN之后出现的更为快捷和有效的基因编辑工具。目前已发现的有三种CRISPR/Cas9 系统，其中ⅡI 型系统研究最为深入，应用最为广泛，其可产生抗噬菌体的嗜热链球菌菌株（Streptococcus thermophiles strains）。该系统通过Cas9 核酸内切酶在特定的靶向序列处引入双链断裂的 (double strand break,DSB) DNA 缺□，继而通过细胞内 NHEJ途径(non-homologous end joining,NHEJ)和同源重组（homologous recombination，HR）途径两种 DNA 修复机制完成修复，其中 NHEJ途径使基因组在 DNA 缺口处有碱基的插入或者缺失，造成移码突变，导致基因的敲除。而 HR 途径则以外源 DNA 为模板，使基因组DNA 得到精确的基因修复或靶向基因的添加。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究采用了CRISPR/Cas9介导的基因编辑技术，通过同源重组途径，并结合Cre/LoxP系统构建了miR-362 敲除的95-D 细胞株；并利用Transwell方法初步证明miR-362可促进非小细胞肺癌的迁移和侵袭，为进一步研究miR-362在非小细胞肺癌中的作用机制和功能奠定了基础。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.1材料",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "人肺癌细胞系95-D 为本实验室冻存。PX330 质粒（Addgene 公司），donor vector (MoYin-yuan 惠赠)，试剂：限制性内切酶 BbsI、T4 连接酶（NEB 公司)，质粒DNA 小提试剂盒、DNA片段纯化试剂盒（Omega-biotek 公司），转染试剂Lipofectamine 2000（Invitrogen公司），miScript IIRTkit 和 miScript SYBR $\\textsuperscript { \\textregistered }$ Green PCR Kit（QIAGEN）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.1.质粒构建 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于 pre-miR-362 基因组序列，本文利用在线工具 CRISPR design (http://crispr.mit.edu/)查找潜在的 sgRNA序列，并在正义链的5'端添加CACC，反义链的5'端添加AAAC（表1)，与 BbsI酶切后形成的粘性末端互补。所有寡核苷酸链均由生工合成。将 sgRNA寡核苷酸链经退火（ $9 5 ^ { \\circ } \\mathrm { C }$ ，5min后自然降至室温)，连入经BbsI酶切回收的pX330-U6-Chimeric_BB-CBh-hSpCas9 表达载体。转化感受态细胞挑取单克隆，小提质粒并测序验证（由华大基因公司完成）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为构建 miR-362的donor vector，我们利用pfuDNA 聚合酶从基因组DNA中分别扩增了miR-362的上下游同源臂（ $\\mathrm { \\sim } 8 0 0 \\mathrm { b p }$ )，所用引物见表1，并插入到donor vector中，转化感受态细胞挑取单克隆，小提质粒并测序验证（由华大基因公司完成)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 T7 endonucleaseI 酶切实验 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将构建的PX330-gRNA 载体分别转染至95-D 细胞，培养48小时后，利用DNA 提取试剂盒（天根）提取基因组 DNA。利用引物362-seq-5.1和362-seq-3.1（表1）扩增含 sgRNA作用靶点的DNA片段。反应条件: $9 5 ^ { \\circ } \\mathrm { C }$ （204号 $5 \\mathrm { { m i n } }$ ；（ $9 5 ^ { \\circ } \\mathrm { C }$ $3 0 ~ \\mathrm { s }$ ， $6 0 ^ { \\circ } \\mathrm { C }$ 30 s,72℃ 30 s) × 30; $7 2 ^ { \\circ } \\mathrm { C }$ $1 0 \\mathrm { m i n }$ 。用PCR 纯化试剂盒（Omegabio-tek）纯化PCR产物。取 $2 0 0 \\mathrm { n g }$ 纯化PCR产物在NEB Buffer2中变性、复性，反应条件变性 $9 5 \\mathrm { ^ \\circ C }$ ， $5 \\mathrm { m i n }$ ，退火 $9 5 { - } 8 5 ^ { \\circ } \\mathrm { C }$ （ $- 2 ^ { \\circ } \\mathrm { C } /$ 秒）， $8 5 { - } 2 5 ^ { \\circ } \\mathrm { C }$ （ $- 0 . 1 ^ { \\circ } \\mathrm { C } /$ 秒）后，用 T7 核酸内切酶(NEB，M0302L) $3 7 ^ { \\circ } \\mathrm { C }$ 孵育 $1 5 \\mathrm { m i n }$ ，然后用 $2 \\%$ 的琼脂糖凝胶电泳分离，凝胶成像。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 细胞转染和筛选 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将95-D 细胞以 $5 { \\times } 1 0 ^ { 5 } /$ 孔接种至6孔板中培养至细胞汇合度达到 $6 0 \\% { \\sim } 7 0 \\%$ ，用lipofectamine2000 将 PX330-gRNA 和DONOR-362共转入细胞中。培养一周后用 $0 . 5 \\mu \\mathrm { g / m l }$ 嘌呤霉素进行加压筛选。筛选两周后，利用流式细胞仪将依据GFP信号将单个细胞分选至96孔板继续培养2-3周。分选获得的细胞经扩大培养后冻存。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.4 用Cre酶去除重组LoxP位点",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用 HiScribe T7ARCAmRNA Kit(with tailing）（NEB 公司）按照说明书操作合成 CremRNA。简要描述如下，利用引物Cre-5.1-HindIII 和Cre-3.1-XhoI通过PCR 扩增获得含有T7启动子区的Cre 编码区。以纯化后的PCR片段产物为模板合成Cre mRNA。将前述筛选得到的95-D-KD-GFP 的细胞种于6孔板中过夜培养后，将 $3 \\mu \\ g$ Cre mRNA转染至细胞。转染3天后扩大培养。利用流式细胞仪分选不含绿色荧光的细胞。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.5 RNA提取及实时定量PCR ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "用 Trizol（Thermo Fisher scientific）分别提取野生型和敲除型95-D 细胞的总RNA，利用miScriptIIRTkit（QIAGEN）逆转录成cDNA，并利用miScriptSYBR $\\textsuperscript { \\textregistered }$ Green PCR Kit(QIAGEN)。检测 miR-362在野生型和敲除型95-D 细胞中的表达水平，实验以U6为内参。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.2.6 Transwell细胞迁移实验 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将95-D 和95-D-KD 细胞用胰酶消化，PBS 洗1-2遍，用无血清培养基重悬，调整细胞密度至 $5 { \\times } 1 0 ^ { 5 } / \\mathrm { m l }$ ，取细胞悬液 $1 0 0 \\mu \\mathrm { l }$ 加入Transwell小室，24孔板下室加入500含 $10 \\%$ 胎牛血清的培养基，置于 $3 7 ^ { \\circ } \\mathrm { C }$ 孵箱常规培养20小时后，取出小室，经淋洗、固定、染色后于显微镜下计数，每样本计数5个视野取平均值，实验重复3次，统计学分析并绘制柱状图。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.2.7 Transwell细胞侵袭实验 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "用 $5 0 \\mathrm { m g }$ /L Matrigel（1:5）稀释后，包被Transwell小室上室底部并风干，将饥饿 24h的 95-D 和95-D-KD 细胞常规消化离心后用无血清培养基重悬细胞，，将细胞浓度调整为$1 \\times 1 0 ^ { 6 }$ 个 $/ \\mathrm { m l }$ ，取细胞悬液 $1 0 0 \\mu \\mathrm { l }$ 加入Transwell 小室上室，24 孔板下室加入 ${ 5 0 0 } \\mu \\mathrm { l }$ 含血清培基，置于 $3 7 ^ { \\circ } \\mathrm { C }$ 孵箱常规培养20小时后，取出小室，经淋洗、固定、染色后于显微镜下计数，每样本计数5个视野取平均值，实验重复3次，统计学分析并绘制柱状图。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.2.8 数据处理及统计学分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "实验数据用GraphPadPrism5.0软件分析，各组数据的统计学差异采用方差分析(Two-WayANOVA)或 $t$ 检验， $\\scriptstyle \\mathbf { P < } 0 . 0 1$ 为有显著统计学差异。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2实验结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1sgRNA 的设计和载体构建",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "依据 pre-miR-362基因序列，利用在线 sgRNA设计软件，并分别在正义链的5'端添加CACC，反义链的5'端添加AAAC。设计合成了7条针对miR-362基因的 sgRNA寡核苷酸链(表1)。经退火后形成 BbsI的粘性末端。将 pX330-U6-Chimeric_BB-CBh-hSpCas9 载体经BbsI酶切回收后分别与7条 sgRNA序列连接，经测序验证完成PX330-sgRNA载体初步构建。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为提高敲除细胞的筛选效率，我们构建了donor载体，拟通过同源重组将靶序列替换为标志序列（GFP 和PU,the puromycin resistance gene）（图1A）。该载体中GFP 有助于利用流式分选阳性细胞，PU基因有利于筛选稳定发生同源重组的细胞，该载体中含有的LoxP位点有助于在Cre酶的作用下将筛选获得的稳定细胞中的标志序列切除。我们利用引物362-F-Xbal-F与362-F-BamH1-R和362-B-EcoR1-F与362-B-XhoI-R分别从95-D细胞的基因组中通过PCR 技术扩增了pre-miR-362上下游各约800bp 的基因序列（图1B)，并将其分别连接至donor vector 的XbaI 和 BamH1，以及 EcoR1和 XhoI酶切位点。转化至DH5α中，挑取单克隆，经测序验证完成Donor-362载体构建。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表1文中引物名称及序列",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/e4bfbf22bdcad651cf33600accf9a06affb69f864546141e5c4f76d73bcd0ef1.jpg",
+        "table_caption": [
+            "Table1Primers and sequences in this text "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Primers</td><td>Sequences (5'-3\")</td></tr><tr><td>gRNA1F</td><td>CACCTGGAACCTAGGTGTGAGTGC</td></tr><tr><td>gRNA1 R</td><td>AAACGCACTCACACCTAGGTTCCA</td></tr><tr><td>gRNA2 F</td><td>CACCCAGTGCAACACACCTATTCA</td></tr><tr><td>gRNA2 R</td><td>AAACTGAATAGGTGTGTTGCACTG</td></tr><tr><td>gRNA3 F</td><td>CACCAGGTGTGAGTGCTATTTCAG</td></tr><tr><td>gRNA3 R</td><td>AAACCTGAAATAGCACTCACACCT</td></tr><tr><td>gRNA4 F</td><td>CACCGGTTCCAAGGATTCAAGAGG</td></tr><tr><td>gRNA4 R</td><td>AAACCCTCTTGAATCCTTGGAACC</td></tr><tr><td>gRNA5 F</td><td>CACCAGGTTCCAAGGATTCAAGAG</td></tr><tr><td>gRNA5 R</td><td>AAACCTCTTGAATCCTTGGAACCT</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/ec836bb37e79a8e564b60f862a075af351bc92c139e263aa1ff8be7d4342e9c3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>gRNA6 F</td><td>CACCTGCTCCCCCTCTTGAATCCT</td></tr><tr><td>gRNA6 R</td><td>AAACAGGATTCAAGAGGGGGAGCA</td></tr><tr><td>gRNA7F</td><td>CACCGCCTCTTTGAATCCTTGAAT</td></tr><tr><td>gRNA7 R</td><td>AAACATTCAAGGATTCAAAGAGGC</td></tr><tr><td>D362-F</td><td>CCCACAAACATACACAAAAGCAT</td></tr><tr><td>D362-R</td><td>TGGGCACACATGTACATGCAC</td></tr><tr><td>Cre-5.1-HindIII</td><td>AAGCTTGCCACCatgtccaatttactgaccgtac</td></tr><tr><td>Cre-3.1-XhoI</td><td>CTCGAGctaatcgccatcttccagcag</td></tr><tr><td>362-seq-5.1</td><td>Agtaagtaccttgtgtgaagaagaatg</td></tr><tr><td>362-seq-3.1</td><td>Cacacatgtacatgcacatgtt</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d9da8ac380928022fb9ec4acf81ab9a02572b4690b22e4f8a4c1a44e7f4a5d55.jpg",
+        "img_caption": [
+            "图1．利用CRISPR/Cas9系统构建miR-362敲除细胞系"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig1 Construction of miR-362 knockdown celline by CRISPR/Cas9 technology ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A．通过同源重组靶向miR-362的donor载体示意图；B.PCR扩增miR-362前、后端同源臂的凝胶电泳图；C.T7E1assay检测细胞转染不同CRISPR系统质粒；D.不同克隆中miR-362的表达水平；E.荧光显微镜观察Cre删除95-D-KD细胞中标志基因结果。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A.Schematic diagram of homologous recombined donor vector targeting miR-362 .   \nB.Gel electrophoresis results of miR-362 after PCR amplification of pre- and post- arm of miR-362. C.Detection of plasmids transfected with different CRISPR systems by T7E1 assay.   \nD. MiR-362 expression levels in different clones.   \nE. Fluorescence microscopy photographes of marker genes deleted by Cre techonology in 95-D-KD cells. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.2 T7E1assay 检测CRISPR系统的剪切效率 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "利用脂质体将构建的不同的px330-sgRNA载体转染至95-D细胞，72小时后提取细胞基因组DNA,利用 PCR方法扩增相应片段，通过T7E1assay 评介CRIPSR 系统的剪切能力。结果显示：经T7 endonucleaseI处理后，在 sgRNA-3、-5和-7组中出现了两条带（图1C)，提示 sgRNA-3、-5和-7可引起靶点基因发生突变。选择 sgRNA-7作为最终的打靶 sgRNA。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.3 建立稳定敲除PRE-MIR-362的95-D 细胞株",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "将 PX330-MIR362-sgRNA7质粒和 DONOR-362 质粒共转染95-D细胞。为了减少 DONOR-362载体随机整合至基因组的可能性，我们在转染1周后，用嘌呤霉素 $( 0 . 5 \\mu \\mathrm { g / m l } )$ 进行加压筛选。筛选1周后，利用流式细胞仪，根据GFP荧光信号将经嘌呤霉素加压筛选获得的阳性细胞分选至96孔板中（1细胞/孔)。经扩大培养后，我们在95-D敲除细胞中随机选取了10个克隆。分别提取细胞Total RNA，经miScript reverse kit反转录，通过实时定量 PCR方法比较野生型95-D细胞和敲除型细胞中miR-362表达水平的差异。qRT-PCR 结果显示（图1D)，与野生型95-D细胞相比，在95-D-KO-GFP细胞的10克隆中，除克隆2和克隆3以外，其余克隆株中miR-362 的表达水平均显著低于对照细胞(P<0.001)，表达水平降低了50-100倍。表明通过CRISPR/Cas9 系统成功获得了稳定敲除miR-362 的 95-D肺癌细胞株。因为所构建的DONOR 载体中含有2个LoxP位点可用于去除发生同源重组的标志序列（GFP 和 PU)，我们通过体外转录获得了Cre 重组酶mRNA，并将其转染到95-D-KD-GFP 细胞的克隆8细胞中，以去除标志序列，最终获得了不含有GFP 荧光的95-D-KD 细胞（图1E)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.495-D-KD细胞的基因序列特点分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "为明确95-D-KD细胞的基因序列的特点，我们利用引物D362-F和引物D362-R通过PCR",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "扩增了95-D-KD基因组中的相应片段，通过测序分析发现，与野生型pre-miR-362序列相比，95-D-KD 细胞在第 53(T)和第 54位(C)碱基间插入了长度为161bp 的序列（图2)。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/bf46b88bcc9fd7e3a4df05e9b6a422be8037c9ed662e73c96cf00a5b90428464.jpg",
+        "img_caption": [
+            "图2．MiR-362敲除细胞系基因突变分析",
+            "Fig2Analysis of gene mutation in MiR-362 knockdown cell line "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.5miR-362敲除抑制细胞的迁移侵袭 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "为了探讨miR-362的生物学功能，我们用transwel1方法评价了野生型95-D和95-D-KD细胞在细胞运动方面的差异。如图3所示，野生型95-D 和敲除型95-D-KD 细胞的迁移细胞数分别为 $1 3 2 . 7 { \\pm } 3 . 2 \\$ 和 $6 2 . 3 { \\pm } 6 . 1$ ，侵袭细胞数分别为 $2 1 2 . 0 \\pm 1 2 . 0$ 和 $1 0 9 . 6 \\pm 1 4 . 1 \\$ 。与野生型 95-D 细胞相比，95-D-KD 细胞的迁移和侵袭能力分别下降了 $5 3 . 1 \\% ( \\mathrm { p = } 0 . 0 0 0 6 )$ 和 $4 8 . 3 \\%$ （ $\\mathrm { p { = } 0 . 0 0 0 2 }$ )。以上结果提示，敲除miR-362显著抑制了95-D细胞的迁移和侵袭能力,miR-362与细胞的运动能力密切相关。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/36c72117cea1ae41ad5a2b89d2ca5550ec0bfdd9d57c60861f8b2b523c403602.jpg",
+        "img_caption": [
+            "图3．Transwell迁移和侵袭实验 ",
+            "Fig3Transwell migration and invasion experiments "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3 讨论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "非编码RNA占据了人转录组的绝大部分，然而，其生物学功能尚不十分清楚。有证据表明非编码RNA在多种生物学活动中发挥着作用，如细胞周期、分化、死亡等，并且在肿瘤的发生发展中也起着重要的作用。目前对非编码RNA生物学功能的研究多采用过表达和RNAi等手段，但是，RNAi方法具有特异性差、效率不高、范围受限、作用时间有限等不足，影响了对分子功能的深入研究。而CRISPR/Cas9系统则可以从基因水平将靶基因彻底敲除，相比之下更具优势。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "CRISPR/Cas9系统是目前常用的基因操作工具之一，该系统包括CRISPR相关核酸酶和单链向导RNA（single guide RNA，gRNA）[8]。CRISPR是一些相互间隔的短回文重复序列，常产生发卡结构，长度为 $2 1 \\mathrm { - } 4 8 \\mathrm { b p } ^ { \\mathrm { [ 9 ] } }$ ，每个重复序列间存在外源性DNA靶点中与之结构相似的短重复序列，这决定了 SRISPR系统的种类及靶基因的识别位点[10]。在DNA 靶点内，每个典型间隔区与典型间隔相邻基序（protospacer adjacent motif，PAM）相邻[1]，常用的 PAM 包括 NGG、NAG 和 NNGG[12]。Cas9 核酸酶含有两个核酸酶结构域，HNH结构域和 RuvC 样结构域，可分别切割目标DNA 链的一条单链[13]。CRISPR/Cas9 发挥作用时，通过PAM序列使gRNA与靶位点识别，介导Cas9 核酸酶与基因组稳定结合，引起靶位点切割，从而产生双链断裂，引起非同源末端连接（non-homologous end joining,NHEJ）或同源性定向修复(homology-directed repair,HDR)。CRISPR/Cas9 系统可以同时对靶基因进行高效的基因敲除（knock-out）和基因敲入（knock-in）编辑。.成熟的microRNAs 长度仅为约22nt，在实验中，我们以 pre-miR-362作为模板设计建立CRISPR/Cas9 系统，DNA 测序结果表明CRISPR/Cas9系统作用后，在 pre-miR-362 第 53和第 54 位核苷酸间插入了长为161bp 的碱基(图2),这可能影响了pre-miRNA的二级结构，进而影响了miR-362 成熟的生物加工过程，最终导致miR-362表达的显著下调（图1D)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "我们的实验结果进一步证明，利用携带有靶基因上下游同源臂基因的Donor载体，可有效的通过同源重组的方式提高基因敲除的效率。一方面，Donor 载体中含有GFP 和 PU 基因，GFP有助于利用流式细胞仪分选那些发生同源重组的单克隆细胞，有利于降低实验成本和细胞所受的压力；另一方面，由于Donor载体中携带有靶基因的同源臂基因，使得 donor载体不易于结合到基因组中存在有脱靶效应（off-target）的位点，从而降低了CRISPR/Cas9的脱靶效应[14,15],那些未发生同源重组的细胞在PU 的压力筛选下得以清除，提高筛选效率。此外，在我们所采用的Donor 载体中还含有两个LoxP 位点，可在Cre 酶的作用下切除miR-362敲除细胞中的标志序列（GFP和PU)，使细胞不再表达GFP，并对PU重新敏感，有助于再次细胞分选和筛选。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本研究利用CRISPR/Cas9 基因编辑技术，成功构建了95-D-miR-362敲除细胞系，并用实时定量PCR方法检测了敲除效率，研究结果表明，本研究获得的敲除细胞系具有敲除效率高、效果稳定的优点，且敲除片段插入位点明确，最大限度的减少了对于肿瘤细胞其他重要生物学功能的影响，是用于研究miR-362功能的理想体外细胞模型。通过侵袭及迁移实验，证明了miR-362在促进肺癌细胞恶性行为中的作用，与其在其他多种肿瘤细胞中的研究结果一致。但miR-362促进肺癌侵袭转移的具体分子机制仍需深入研究。本研究构建的体外模型为研究miR-362在肿瘤发生发展中的作用机制提供了重要的细胞模型。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "致谢 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "感谢第四军医大学细胞工程研究中心的全体科研人员。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[1] Liu Y, Hu X, Xia D, et al. MicroRNA-181b is downregulated in non-small cell lung cancer and inhibits cell motility by directly targeting HMGB1[J]. Oncol Lett, 2016,12(5):4181-4186.   \n[2] Garzon R， Calin G A， Croce C M. MicroRNAs in Cancer[J]. Annu Rev Med, 2009,60:167-179.   \n[3] Ni F, Zhao H, Cui H, et al. MicroRNA-362-5p promotes tumor growth and metastasis by targeting CYLD in hepatocellular carcinoma[J]. Cancer Lett, 2015,356(2):809-818.   \n[4] Jung C J, Iyengar S,Blahnik K R,et al. Epigenetic modulation of miR-122 facilitates human embryonic stem cel self-renewal and hepatocellular carcinoma proliferation[J]. PLoS One, 2011,6(11):e27740.   \n[5] Nicoloso M S, Spizzo R, Shimizu M,et al. MicroRNAs--the micro steering wheel of tumour metastases[J]. Nat Rev Cancer, 2009,9(4):293-302.   \n[6] Xia J T, Chen L Z, Jian W H, et al. MicroRNA-362 induces cell proliferation and apoptosis resistance in gastric cancer by activation of NF-kappaB signaling[J]. J Transl Med, 2014,12(1):33.   \n[7] Wu K, Yang L， Chen J,et al. miR-362-5p inhibits proliferation and migration of neuroblastoma cells by targeting phosphatidylinositol 3-kinase-C2beta[J]. FEBSLett, 2015,589(15):1911-1919.   \n[8] Pelletier S, Gingras S, Green D R. Mouse genome engineering via CRISPR-Cas9 for study of ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "immune function[J]. Immunity, 2015,42(1):18-27. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[9]Grissa I, Vergnaud G,Pourcel C.The CRISPRdb database and tools to display CRISPRs and to generate dictionaries of spacers and repeats[J]. BMC Bioinformatics, 2007,8(1):172.   \n[10] Feng Y,Liu J,Kang Y,et al. miR-19a acts as an oncogenic microRNA and is up-regulated in bladder cancer[J]. JExp Clin Cancer Res,2014,33(1):67.   \n[11] Ran FA, Hsu PD, Wright J, et al. Genome engineering using the CRISPR-Cas9 system[J]. Nat Protoc, 2013,8(11):2281-2308.   \n[12] Xiao A, Cheng Z, Kong L, et al. CasOT: a genome-wide Cas9/gRNA off-target searching tool[J]. Bioinformatics, 2014,30(8):1180-1182.   \n[13] Cong L,Ran FA, Cox D,et al. Multiplex genome engineering using CRISPR/Cas systems[J]. Science,2013,339(6121):819-823.   \n[14] Lin Y,Cradick TJ,Brown MT,et al. CRISPR/Cas9 systems have o-target activity with insertions or deletions between target DNA and guide RNA sequences[J]. Nucleic Acids Res, 2014,42(11):7473-7485.   \n[15] Shen B, Zhang W, Zhang J, et al. Efficient genome modification by CRISPR-Cas9 nickase with minimal off-target effects[J]. Nat Methods, 2014,11(4):399-402. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "作者简介：",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "罗丹11，王莉娟2²，孙秀璇3²，张征4²，陈志南51\\*",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "（1北京交通大学 理学院 生命科学与生物工程研究院，北京1000442 第四军医大学 细胞工程研究中心，西安710032）\\*通讯作者LUO Dan1, WANG Li-juan², SUN Xiu-xuan², ZHANG Zheng², CHEN Zhi-nan1\\*(1. College of Life Science and Bioengineering, School of Science, Beijing Jiaotong University,Beijing 100044, China2. Cell Engineering Research Center, The Fourth Military Medical University, Xi'an,710032,China)",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "\\*Corresponding author ",
+        "page_idx": 14
+    }
+]

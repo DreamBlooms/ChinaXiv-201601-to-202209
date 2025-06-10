@@ -1,0 +1,162 @@
+芪楂口服液药渣发酵前后对断奶仔猪结肠微生物、代谢产物及细胞因子表达的影响苏家宜1,2 耿梅梅」　陈　闻」　印遇龙’　王占彬² 孔祥峰1,3\*
+
+（1.中国科学院亚热带农业生态研究所，亚热带农业生态工程重点实验室，湖南省畜禽健康养殖工程技术研究中心，长沙 410125；2.河南科技大学动物科技学院，洛阳 471003；3.湖南省植物功能成分利用协同创新中心，长沙 410128)
+
+摘要：为了探讨中药渣用于断奶仔猪养殖的可行性，比较研究了芪楂口服液药渣发酵前后对断奶仔猪结肠微生态和健康的影响。试验选用21日龄断奶仔猪120头，随机分为空白对照组、芪楂口服液药渣组（添加 $5 \mathrm { k g / t }$ 芪楂口服液药渣）、发酵芪楂口服液药渣组（添加 $5 \mathrm { k g / t }$ 发酵芪楂口服液药渣）和阳性对照组（添加 $\mathbf { 0 . 0 4 \ k g / t }$ 维吉尼亚霉素 $+ 0 . 2 \mathrm { k g / t }$ 硫酸黏杆菌素 $+ 3$ $0 0 0 \mathrm { m g / k g }$ 氧化锌)，每组5个重复，每个重复6头。于试验第 28天，分别取结肠内容物及其组织，测定微生物数量、代谢产物含量以及细胞因子mRNA 表达量。结果表明：芪楂口服液药渣组和发酵芪楂口服液药渣组的7种细菌及总细菌数量与空白对照组相比均无显著差异（ $_ { . P > 0 . 0 5 ) }$ ，白细胞介素 $( I L ) \ { - } 1 2 \ \mathrm { m R N A }$ 表达量显著低于2个对照组（ $P { < } 0 . 0 5 \mathrm { : }$ ，吲哚含量显著低于阳性对照组（ $P { < } 0 . 0 5 \$ ；发酵芪楂口服液药渣组乙酸、丁酸、戊酸、异丁酸、直链脂肪酸和总短链脂肪酸含量以及结肠组织 $I L { \bf - } 4 ~ \mathrm { m R N A }$ 表达量显著低于芪楂口服液药渣组（ $\cdot P { < } 0 . 0 5 )$ ；阳性对照组粒细胞巨噬细胞集落刺激因子mRNA表达量显著高于、梭菌XIV$\mathfrak { a }$ 和双歧杆菌数量显著低于空白对照组（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 )$ 。综上所述，芪楂口服液药渣可增加断奶仔猪结肠短链脂肪酸含量，调节结肠细胞因子表达；芪楂口服液药渣发酵前后均不影响肠道菌群稳态，但抗生素和氧化锌会影响仔猪肠道菌群的稳态；微生物发酵未增强芪渣口服液药渣对肠道微生物代谢的改善作用。
+
+关键词：芪楂口服液药渣；发酵；断奶仔猪；结肠微生态；细胞因子中图分类号：S816.7 文献标识码：A 文章编号：1006-267X（2017）00-0000-00
+
+断奶应激常引起仔猪胃肠道结构和功能的紊乱，进而导致腹泻、生长性能降低等问题。目前，在养猪生产中常通过在饲粮中添加多种抗生素和高剂量氧化锌来预防仔猪腹泻。这虽然具有一定的效果，却引发了机体免疫抑制、肠道菌群失衡、细菌耐药性和药物残留等一系列问题[1]。因此，减少饲粮中抗生素和氧化锌的用量已成为养猪业亟待解决的问题。中草药作为功能性饲料添加剂，具有资源丰富、绿色无污染、生物学功能突出等优点。由于受提取手段和提取效率的制约，中药加工企业产生的中药渣中仍残留有多种生物活性成分和营养物质[2]。但由于植物性中药渣中胞内活性物质不易被动物直接吸收和利用，且含有大量的纤维素，从而导致其在饲粮中添加量大、适口性差，在浪费中药资源的同时也破坏了饲粮的营养配比[3]。而利用现代发酵工艺对中药渣进行发酵处理，不仅能够破坏植物细胞壁、降解植物药材中的纤维素，微生物酶还可定向转化某些化合物而产生新的功能性化合物[4]。黎智华等[2]报道，滋肾补脑液和柴胡等的药渣在发酵后粗蛋白质和氨基酸含量均有所升高。李华伟等[5]研究发现，在围产期母猪饲粮中添加由黄芪、当归、益母草和金银花等组成的发酵中药渣可提高母猪产活仔数和仔猪断奶窝增重；添加由黄芪、当归、熟地黄和白芍等组成的中药渣发酵产物可显著提高仔猪的断奶窝增重[]。笔者前期研究也发现，饲粮添加 $5 \mathrm { k g / t }$ 发酵芪楂□服液药渣( $\boldsymbol { \mathcal { Q } } i$ -Zha oral solution residues，QOR)，可使断奶仔猪平均日采食量提高 $4 . 8 \%$ 、平均日增重提高 $8 . 3 \%$ ，且能降低料重比；另外，其改善肠道形态结构的效果优于芪楂口服液药渣[7]。结肠中栖息着的大量微生物可代谢多种营养物质，生成氨、短链脂肪酸、生物胺、酚类和吲哚类化合物等代谢产物，影响宿主代谢和机体健康8。但目前关于发酵中药渣影响仔猪结肠微生物及其代谢的研究并不多见。因此，本试验通过测定芪楂口服液药渣发酵前后对结肠微生物、代谢产物以及细胞因子表达的影响，评价其对结肠微生态和健康的调控作用，为其在断奶仔猪饲养中的应用提供依据。
+
+# 1材料与方法
+
+# 1.1发酵芪楂口服液药渣制备
+
+芪楂口服液药渣由湖南圣雅凯生物科技有限公司提供，活性成分主要为黄芪甲苷、大黄酚和大黄酸等。取黄芪、山楂、苍术、麦芽、大黄和大青叶等中药经水提后的药渣，其总含水量控制在 $4 0 \% \sim 6 0 \%$ 。首先对药渣进行灭菌，接种枯草芽孢杆菌和酵母菌，通入氧气于$2 8 { \sim } 3 2 \mathrm { ~ ~ } ^ { \circ } \mathrm { C }$ 条件下发酵 $2 2 { \sim } 2 6 \mathrm { h }$ ；然后接种乳酸菌和丁酸梭菌， $3 1 { \sim } 3 4 \ \mathrm { ~ } ^ { \circ } \mathrm { C }$ 厌氧条件下发酵 $2 4 \mathrm { h }$ 枯草芽孢杆菌:酵母菌:乳酸菌:丁酸梭菌 $= 5 { : } 2 { : } 2 { : } 1$ ，活菌数 ${ \geq } 2 { \times } 1 0 ^ { 1 0 } \mathrm { C F U / g }$ ，每天翻动 $_ { 1 \sim 2 }$ 次。发酵后，减压真空干燥，粉碎后备用。测得芪楂口服液药渣发酵前和发酵后的干物质、粗蛋白质、粗纤维、粗脂肪和粗灰分的含量以及总能分别为 $9 5 . 0 4 \%$ 和 $9 5 . 8 4 \%$ 、 $7 . 7 2 \%$ 和 $8 . 5 5 \%$ 、$2 . 4 6 \%$ 和 $1 . 0 9 \%$ 、 $5 . 7 0 \%$ 和 $3 . 8 5 \%$ 、 $2 5 . 3 8 \%$ 和 $2 5 . 8 2 \%$ 及13.09和 $1 3 . 6 4 ~ \mathrm { M J / k g ^ { [ 7 ] } }$ 。
+
+# 1.2试验动物、分组与饲养管理
+
+动物试验在中国科学院亚热带农业生态研究所新五丰永安试验基地进行，时间为2015年7月16日至8月12日。选用21日龄断奶的杜 $\mathbf { \nabla } _ { \cdot } \times$ 长 $\times$ 大杂交仔猪120头，平均体重 $6 \mathrm { k g }$ 左右，公、母各占1/2，根据窝来源和体重随机分为4组，每组5个重复，每个重复6头仔猪。空白对照组仔猪饲喂基础饲粮，中药渣组、发酵中药渣组和阳性对照组仔猪分别饲喂在基础饲粮中直接添加 $5 ~ \mathrm { k g / t }$ 芪楂口服液药渣、 $5 \mathrm { k g / t }$ 发酵芪楂口服液药渣和 $\mathbf { 0 . 0 4 \ k g / t }$ 维吉尼亚霉素 $+ 0 . 2 \mathrm { k g / t }$ 硫酸黏杆菌素 $+ 3 ~ 0 0 0 ~ \mathrm { { m g / k g } }$ 氧化锌的饲粮。芪楂口服液药渣发酵前后的添加剂量根据预试验的生长性能和腹泻率结果确定；维吉尼亚霉素、硫酸黏杆菌素和氧化锌的添加剂量根据商业化饲料生产要求确定。基础饲粮为商品化仔猪保育料(不添加抗生素和氧化锌)，营养水平稍低于NRC（2012）标准，其组成及营养水平见表1。试验期为28d。试验猪饲养在高床保育栏内，每次饲粮添加量以吃饱后槽内略有余料为度，自由饮水。饲养管理和免疫程序按商业化养猪场规范进行操作。
+
+表1基础饲粮组成及营养水平 (饲喂基础)  
+Table 1 Composition and nutrient levels of the basal diet (as-fed basis) %   
+
+<html><body><table><tr><td>原料</td><td>含量</td><td>营养水平</td><td>含量</td></tr><tr><td>Ingredients</td><td>Content</td><td>Nutrient levels²)</td><td>Content</td></tr><tr><td>玉米 Corn</td><td>22.00</td><td>消化能 DE/(MJ/kg)</td><td>14.23</td></tr><tr><td>碎米 Broken rice</td><td>25.00</td><td>粗蛋白质CP</td><td>18.02</td></tr><tr><td>小麦粉 Wheat flour</td><td>12.00</td><td>粗脂肪 EE</td><td>4.37</td></tr><tr><td>葡萄糖 Glucose</td><td>3.00</td><td>粗灰分 Ash</td><td>3.82</td></tr><tr><td>豆粕 Soybean meal (46% CP)</td><td>10.50</td><td>粗纤维 CF</td><td>2.31</td></tr><tr><td>膨化大豆 Puffed soybean</td><td>10.00</td><td>钙Ca</td><td>0.80</td></tr><tr><td>发酵豆粕 Fermented soybean meal</td><td>2.50</td><td>总磷TP</td><td>0.55</td></tr><tr><td>鱼粉 Fish meal</td><td>3.00</td><td>有效磷 AP</td><td>0.40</td></tr><tr><td>低蛋白乳清粉 Low-protein whey powder</td><td>5.00</td><td>赖氨酸Lys</td><td>1.38</td></tr><tr><td>鸡蛋粉 Eggpowder</td><td>0.50</td><td>蛋氨酸Met</td><td>0.49</td></tr><tr><td>豆油 Soybean oil</td><td>1.00</td><td>苏氨酸Thr</td><td>0.87</td></tr><tr><td>柠檬酸 Citric acid</td><td>1.50</td><td>色氨酸Trp</td><td>0.24</td></tr><tr><td>预混料 Premixl)</td><td>4.00</td><td></td><td></td></tr><tr><td>合计 Total</td><td>100.00</td><td></td><td></td></tr></table></body></html>
+
+1)预混料为每千克饲粮提供 The premix provided the following per $\mathbf { k g }$ of the diet: VA 6 200 IU, $\mathrm { V D } _ { 3 }$ 700IU，VE 88 IU，VK $4 . 4 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 8 . 8 \mathrm { \ m g }$ ，泛酸 pantothenate $2 4 . 2 ~ \mathrm { m g }$ ，烟酸 nicotinic acid $3 3 ~ \mathrm { m g }$ ，氯化胆碱
+
+chloride choline $3 3 0 ~ \mathrm { m g }$ ， $\mathrm { C u } 1 0 \mathrm { m g }$ ， $Z n 1 0 0 \mathrm { m g }$ ，Fe $1 4 5 ~ \mathrm { m g }$ ， $\mathrm { M n } 4 0 \mathrm { m g }$ ，Se 0.1 mg，I0.3 mg。
+
+2)营养水平均为计算值。Nutrient levels were all calculated values.
+
+# 1.3样品采集与处理
+
+在试验第28天08:00，即仔猪空腹 $^ { 1 4 \mathrm { ~ h ~ } }$ 后，称取所有仔猪的体重，每栏取1头中等大小的仔猪进行屠宰。取结肠组织及其内容物，液氮速冻后一80℃保存。
+
+# 1.4肠道微生物数量的测定
+
+取结肠内容物，按照试剂盒QIAamp DNA Stool Mini Kit(QIAgen,德国)的方法提取微生物DNA，用于微生物定量PCR分析。微生物定量PCR 测定参考焦金真等[的方法。微生物绝对定量PCR的特异性引物见表2，由上海生工基因技术有限公司合成。
+
+# 表2细菌的特异性引物序列
+
+Table 2 Group-specific primer sequences for bacteria   
+
+<html><body><table><tr><td>细菌</td><td>序列</td><td>产物大小</td></tr><tr><td>Bacteria</td><td>Sequences (5'—3')</td><td>Product size/bp</td></tr><tr><td>拟杆菌Bacteroidetes</td><td>F：GGARCATGTGGTTTAATTCGATGAT</td><td>126</td></tr><tr><td rowspan="2">双歧杆菌Bifidobacterium</td><td>R:AGCTGACGACAACCATGCAG</td><td>128</td></tr><tr><td>F:TCGCGTCYGGTGTGAAAG</td><td></td></tr><tr><td rowspan="2">梭菌IV Clostridiumcluster IV</td><td>R:GGTGTTCTTCCCGATATCTACA</td><td></td></tr><tr><td>F:GCACAAGCAGTGGAGT</td><td>240</td></tr><tr><td rowspan="2">梭菌XIVa Clostridium cluster XIVa</td><td>R:CTTCCTCCGTTTTGTCAA</td><td></td></tr><tr><td>F:CGGTACCTGACTAAGAAGC</td><td>189</td></tr><tr><td rowspan="2">大肠杆菌Escherichiacoli</td><td>R:AGTTTYATTCTTGCGAACG</td><td></td></tr><tr><td>F:CATGCCGCGTGTATGAAGAA</td><td>95</td></tr><tr><td rowspan="2">厚壁菌Firmicutes</td><td>R:CGGGTAACGTCAATGAGCAAA</td><td></td></tr><tr><td>F:GGAGYATGTGGTTTAATTCGAAGCA</td><td>126</td></tr><tr><td>乳酸杆菌Lactobacillus</td><td>R:AGCTGACGACAACCATGCAC F:AGCAGTAGGGAATCTTCCA</td><td>345</td></tr><tr><td rowspan="2"></td><td>R:ATTCCACCGCTACACATG</td><td></td></tr><tr><td></td><td>123</td></tr><tr><td>总细菌 Total bacteria</td><td>F:GTGSTGCAYGGYYGTCGTCA</td><td></td></tr><tr><td></td><td>R:ACGTCRTCCMCNCCTTCCTC</td><td></td></tr></table></body></html>
+
+# 1.5微生物代谢产物含量的测定
+
+采用气相色谱法[测定其中直链脂肪酸（包括乙酸、丙酸、丁酸和戊酸)、支链脂肪酸（包括异丁酸和异戊酸）以及总短链脂肪酸（直链脂肪酸 $+$ 支链脂肪酸）的含量，高效液相色谱法[]测定吲哚的含量。
+
+# 1.6肠道细胞因子mRNA表达量的测定
+
+取一80℃保存的结肠组织,利用RNA Isolation Solvent 试剂提取总RNA,PrimeScript RT试剂盒反转录。以 ${ \mathfrak { \beta } }$ -肌动蛋白（ $\beta$ -actin）为内参，利用实时荧光定量PCR 测定肠道促炎细胞因子[白细胞介素（IL）-4、 $I L \ – 1 0$ 和IL-18]和抗炎细胞因子[粒细胞巨噬细胞集落刺激因子（GM-CSF)、IL-6和 $I L { \mathrm { - } } 1 2 ] { \mathrm { m R N A } }$ 表达量。引物序列见表2，由上海生工基因技术有限公司合成。反应体系为 $1 0 . 0 \mu \mathrm { L }$ ： ${ 5 . 0 \mu \mathrm { L } }$ Luminaris Color Higreen high ROX qPCR Master Mix $( 2 \times )$ $0 . 4 ~ \mu \mathrm { L }$ 上游引物， $0 . 4 ~ \mu \mathrm { L }$ 下游引物， $2 . 2 \mu \mathrm { L }$ Nuclease-free $\mathrm { H } _ { 2 } \mathrm { O }$ ， $2 . 0 ~ \mu \mathrm { L }$ cDNA 模板。反应程序为： $5 0 ~ \mathrm { ~ \textdegree ~ } 2 \operatorname* { m i n }$ ，95℃10 min，95℃15s，60℃1min，共40个循环。
+
+# 表3细胞因子引物序列
+
+Table 3 Primer sequences of cytokines   
+
+<html><body><table><tr><td>基因</td><td>序列</td><td>产物大小</td></tr><tr><td>Genes</td><td>Sequences (5'-3')</td><td>Product size/bp</td></tr><tr><td rowspan="2">β-肌动蛋白β-actin</td><td>F:CTGCGGCATCCACGAAACT</td><td>147</td></tr><tr><td>R:AGGGCCGTGATCTCCTTCTG</td><td></td></tr><tr><td>粒细胞巨噬细胞集落刺激因子</td><td>F:CGGCTGTGATGAATGAAACC</td><td>164</td></tr><tr><td rowspan="2">GM-CSF 白细胞介素-6IL-6</td><td>R:GTGCTGCTCATAGTGCTTGG</td><td></td></tr><tr><td>F:TCCAGCATCATTGCATCATC R:GGCTCCACTCACTCCACAAG</td><td>105</td></tr><tr><td rowspan="2">白细胞介素-12IL-12</td><td>F:ATCTCGGTTGGTGTTGTTCC</td><td></td></tr><tr><td>R:GGGTATCTCGTCCTCTGTCC</td><td>103</td></tr><tr><td rowspan="2">白细胞介素-4IL-4</td><td>F:CCCGAGTGTCAAGTGGCTTA</td><td>122</td></tr><tr><td>R:TGATGATGCCGAAATAGCAG</td><td></td></tr><tr><td rowspan="2">白细胞介素-10IL-10</td><td>F:GGGCTATTTGTCCTGACTGC</td><td>105</td></tr><tr><td>R:GGGCTCCCTAGTTTCTCTTCC</td><td></td></tr><tr><td>白细胞介素-18IL-18</td><td>F:ACGATGAAGACCTGGAATCG</td><td>107</td></tr></table></body></html>
+
+# R:GGCTTGATGTCCCTGGTTAAT
+
+# 1.7 数据统计与分析
+
+试验数据利用 SPSS17.0 软件进行单因素方差分析（one-way ANOVA)，并用Duncan氏法对各组平均值进行多重比较。结果以“平均值 $\pm$ 标准误"表示， $P { < } 0 . 0 5$ 表示差异显著。
+
+# 2结果与分析
+
+2.1芪楂口服液药渣发酵前后对断奶仔猪结肠微生物数量的影响
+
+由表4可知，阳性对照组的双歧杆菌和梭菌XIVa数量显著低于空白对照组（ $P { < } 0 . 0 5 )$ ·芪楂口服液药渣组和发酵芪楂口服液药渣组的拟杆菌、双歧杆菌、梭菌 $\mathrm { I V }$ 、梭菌 $\mathrm { X I V a }$ 、大肠杆菌、厚壁菌、乳酸杆菌和总细菌数量均无显著差异（ $\scriptstyle P > 0 . 0 5 { \mathrm { : } }$ ）°
+
+表4芪楂口服液药渣发酵前后对断奶仔猪结肠微生物数量的影响
+
+lg(CFU/g)
+
+Table 4 Effects of QOR and fermented QOR on colon microbe amount of weaned piglets   
+
+<html><body><table><tr><td>项目 Items</td><td>空白对照组 Blank control</td><td>芪楂口服液 药渣组</td><td>发酵芪楂口服液 药渣组</td><td>阳性对照组 Positive control</td></tr><tr><td></td><td>group</td><td>QOR group</td><td>Fermented QOR</td><td>group</td></tr><tr><td></td><td></td><td colspan="3"> group</td></tr><tr><td>拟杆菌Bacteroidetes</td><td>10.10±0.33</td><td>10.08±0.06</td><td>10.14±0.11</td><td>9.98±0.21</td></tr><tr><td>双歧杆菌Bifidobacterium</td><td>4.62±0.11a</td><td>4.01±0.19ab</td><td>4.12±0.01ab</td><td>3.58±0.14b</td></tr><tr><td>梭菌IV Clostridium cluster IV</td><td>9.20±0.29</td><td>8.57±0.06</td><td>9.02±0.15</td><td>8.40±0.14</td></tr><tr><td>梭菌XIVaClostridiumcluster</td><td>8.42±0.29a</td><td>7.33±0.60ab</td><td>7.42±0.17ab</td><td>6.59±0.45b</td></tr><tr><td>X IVa</td><td></td><td></td><td></td><td></td></tr><tr><td>大肠杆菌 Escherichia coli</td><td>7.42±0.56</td><td>7.04±0.45</td><td>7.35±0.57</td><td>6.20±0.31</td></tr><tr><td>厚壁菌Firmicutes</td><td>10.40±0.17</td><td>10.16±0.16</td><td>10.20±0.02</td><td>9.93±0.14</td></tr><tr><td>乳酸杆菌Lactobacillus</td><td>7.72±0.36</td><td>7.64±0.48</td><td>7.43±0.49</td><td>6.62±0.14</td></tr><tr><td>总细菌 Total bacteria</td><td>10.87±0.18</td><td>10.62±0.13</td><td>10.53±0.06</td><td>10.43±0.16</td></tr></table></body></html>
+
+同行数据肩标不同字母表示差异显著（ $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ )。下表同。
+
+Data in the same row with different letter superscripts differ significantly $( P { < } 0 . 0 5 )$ . The same as below.
+
+2.2芪楂口服液药渣发酵前后对断奶仔猪结肠微生物代谢产物含量的影响
+
+由表5可知，芪楂口服液药渣组和发酵芪楂口服液药渣组吲哚含量显著低于阳性对照组（ $_ { , P < 0 . 0 5 ) }$ 。发酵芪楂口服液药渣组结肠内容物中乙酸和丁酸含量显著低于芪楂口服液药渣组（ $_ { . P < 0 . 0 5 ) }$ ，与2个对照组无显著差异（ $_ { . P > 0 . 0 5 ) }$ ；芪楂口服液药渣组结肠内容物中戊酸、异丁酸、直链脂肪酸和总短链脂肪酸含量均显著高于发酵芪楂口服液药渣组和阳性对照组（ $( P { < } 0 . 0 5 )$ 。
+
+表5芪楂口服液药渣发酵前后对断奶仔猪结肠微生物代谢产物含量的影响  
+Table 5Effects of QOR and fermented QOR on microbial metabolite contents in colon of   
+
+<html><body><table><tr><td colspan="3">weaned piglets</td><td colspan="2">mg/g</td></tr><tr><td>项目</td><td>空白对照组</td><td>芪楂口服液药渣</td><td>发酵芪楂口服液</td><td>阳性对照组</td></tr><tr><td>Items</td><td>Blank control</td><td>组 QOR group</td><td>药渣组</td><td>Positive control</td></tr><tr><td></td><td>group</td><td></td><td>Fermented QOR</td><td>group</td></tr><tr><td></td><td></td><td></td><td>group</td><td></td></tr><tr><td>吲哚 Indole/(μg/g)</td><td>26.95±6.56ab</td><td>24.09±3.13b</td><td>21.34±4.09b</td><td>43.49±8.68a</td></tr><tr><td>乙酸 Acetate</td><td>7.48±2.14ab</td><td>9.95±1.02a</td><td>4.74±0.82b</td><td>7.06±1.62ab</td></tr><tr><td>丙酸 Propionate</td><td>2.64±0.53</td><td>3.71±0.41</td><td>2.31±0.25</td><td>2.99±0.70</td></tr><tr><td>丁酸Butyrate</td><td>1.83±0.38ab</td><td>2.67±0.07a</td><td>1.33±0.19b</td><td>1.71±0.52ab</td></tr><tr><td>戊酸Valerate</td><td>0.46±0.10ab</td><td>0.62±0.05a</td><td>0.35±0.04b</td><td>0.36±0.05b</td></tr><tr><td>异丁酸 Isobutyrate</td><td>0.44±0.08ab</td><td>0.54±0.04a</td><td>0.33±0.05b</td><td>0.34±0.04b</td></tr><tr><td>异戊酸Isovalerate</td><td>0.99±0.22</td><td>1.25±0.15</td><td>0.81±0.13</td><td>1.19±0.32</td></tr><tr><td>直链脂肪酸 SCFA</td><td>12.40±3.10ab</td><td>18.21±0.89a</td><td>8.73±1.17b</td><td>9.62±1.74b</td></tr><tr><td>支链脂肪酸BCFA</td><td>1.43±0.30</td><td>1.78±0.19</td><td>1.15±0.17</td><td>1.25±0.22</td></tr><tr><td>总短链脂肪酸 Total</td><td></td><td></td><td></td><td></td></tr><tr><td>SCFA</td><td>13.83±3.39ab</td><td>20.11±1.06a</td><td>9.87±1.27b</td><td>10.87±1.91b</td></tr></table></body></html>
+
+2.3芪楂口服液药渣发酵前后对断奶仔猪结肠组织细胞因子mRNA表达量的影响
+
+由表6可知，芪楂口服液药渣组和阳性对照组仔猪结肠组织 $I L { \cdot } 4 \ \mathrm { m R N A }$ 表达量显著高于空白对照组和发酵芪楂口服液药渣组（ $_ { . P < 0 . 0 5 ) }$ ；结肠组织IL-10和 $I L { \mathrm { - } } 1 8 \ \mathrm { m R N A }$ 表达量4个组间均无显著差异（ $P { > } 0 . 0 5 \$ )。空白对照组GM-CSF mRNA 表达量显著低于阳性对照组（ $_ { . P < 0 . 0 5 ) }$ ；芪楂口服液药渣组和发酵芪楂口服液药渣组IL-12mRNA表达量显著低于2个对照组（ $P { < } 0 . 0 5 )$ 。
+
+# 表6芪楂口服液药渣发酵前后对断奶仔猪结肠组织细胞因子mRNA表达量的影响
+
+Table 6Effects of QOR and fermented QOR on mRNA expresson levels of cytokines in colonic   
+
+<html><body><table><tr><td colspan="5">tissue ofweaned piglets</td></tr><tr><td>项目</td><td>空白对照组</td><td>芪楂口服液药渣组</td><td>发酵芪楂口服液药</td><td>阳性对照组</td></tr><tr><td rowspan="2">Items</td><td>Blank control</td><td>QOR group</td><td>渣组 Fermented</td><td>Positive control</td></tr><tr><td>group</td><td></td><td>QOR group</td><td>group</td></tr><tr><td>白细胞介素-4IL-4</td><td>1.50±0.46b</td><td>4.18±0.49a</td><td>1.82±0.31b</td><td>3.68±0.34a</td></tr><tr><td>白细胞介素-6IL-6</td><td>1.12±0.23</td><td>1.15±0.22</td><td>0.76±0.18</td><td>1.33±0.17</td></tr><tr><td>白细胞介素-10IL-10</td><td>1.57±0.46</td><td>1.23±0.31</td><td>1.72±0.47</td><td>1.56±0.27</td></tr><tr><td>白细胞介素-12IL-12</td><td>0.38±0.13a</td><td>0.14±0.02b</td><td>0.09±0.01b</td><td>0.24±0.03a</td></tr><tr><td>白细胞介素-18 IL-18</td><td>0.29±0.05</td><td>0.36±0.05</td><td>0.51±0.12</td><td>0.52±0.06</td></tr><tr><td>粒细胞巨噬细胞集落刺</td><td>0.59±0.17b</td><td>0.75±0.15ab</td><td>1.04±0.22ab</td><td>1.22±0.22a</td></tr><tr><td>激因子GM-CSF</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 3讨论
+
+动物胃肠道中栖息着的超过100万亿个细菌，并分属于上千种不同的微生物。它们可广泛参与宿主对营养素的代谢，增强机体免疫力，防止机体感染有害菌，抑制肠道产生腐败物质等[12]。如果肠道内微生物菌群失衡就会导致肠道健康异常，进而引起腹泻和炎症等。厚壁菌门和拟杆菌门是猪肠道内的主要优势菌群[13]，其中双歧杆菌、乳酸杆菌、梭菌IV和梭菌 $\mathrm { X I V a }$ 属于厚壁菌门中对肠道健康有益的菌群。而大肠杆菌是导致仔猪腹泻的有害菌。本试验中，饲粮添加抗生素和氧化锌，可降低结肠中总细菌、大肠杆菌和其他有益菌的数量，且显著降低梭菌 $\mathrm { ~ X ~ I V a ~ }$ 和双歧杆菌的数量，提示抗生素和氧化锌不但能杀灭肠道中的有害菌，同时也杀灭有益菌，破坏肠道菌群的稳态。这和马丽琼等[14报道的广谱抗生素会破坏SD 大鼠肠道微生态平衡，造成肠道菌群紊乱结果一致。另外，芪楂口服液药渣组和发酵芪楂口服液药渣组结肠细菌数量无显著差异，提示肠道菌群稳态不受影响。芪楂口服液药渣在发酵过程中添加了一定量的乳酸杆菌，而发酵芪楂口服液药渣组的乳酸杆菌数量却低于空白对照组和芪楂口服液药渣组，这可能与中药渣的发酵工艺和试验样本数较少有关，具体原因还需要进一步探讨。
+
+来源于饲粮蛋白质或肠道脱落上皮细胞中的色氨酸，在猪回肠后段经微生物厌氧发酵产生吲哚乙酸和吲哚等挥发性物质[15-16]。据报道，粪便中含有的吲哚基团化合物是猪粪便中主要的臭味物质[17]。本试验中，阳性对照组的吲哚含量显著高于芪楂口服液药渣组和发酵芪楂口服液药渣组，这与 Han 等[18报道的抗生素可以诱导吲哚的生物合成，从而提高大肠杆菌的耐药性结果一致。另外，饲粮添加芪楂口服液药渣和发酵后芪楂口服液药渣后，氨氮和吲哚的含量降低，这可以减少猪粪便中挥发性物质对环境的污染。粪便中的短链和支链脂肪酸由肠道菌群代谢肠道内的未消化纤维、抗性淀粉和含氮物质产生[19]。发酵芪楂口服液药渣组仔猪结肠中的乙酸、丁酸、戊酸、异丁酸和总短链脂肪酸含量均显著低于芪楂口服液药渣组，这可能与发酵后芪楂口服液药渣中粗纤维含量降低，从而使进入结肠的未消化纤维素的量降低有关[20]。另外，微生物发酵产生的总短链脂肪酸含量和组成取决于底物的有效性、内容物在肠道中的通过时间和微生物区系的组成[12]。因此，测得的总短链脂肪酸含量和肠道内微生物数量不呈正相关[21]。
+
+促炎细胞因子（GM-CSF、IL-6 和IL-12）和抗炎细胞因子（IL-4、IL-10 和IL-18）是重要的免疫调节因子。其中,IL 是介导白细胞间和其他细胞间相互作用的细胞因子,GM-CSF可刺激骨髓各系前体细胞生长和分化[22]。因此，多种免疫细胞因子表达的平衡对维持机体正常免疫功能具有重要作用[23]。在本试验中，与空白对照组相比，饲粮添加芪楂口服液药渣可显著上调IL-4 mRNA 表达，显著下调IL-12mRNA表达，提示芪楂口服液药渣可增强断奶仔猪的免疫功能，这可能与肠道微生物代谢产物总短链脂肪酸含量的升高有关。总短链脂肪酸在宿主细胞和微生物互作过程中发挥着重要的生理功能，例如为宿主尤其是宿主结肠上皮细胞提供能量、抑制病原微生物、减少免疫细胞因子和趋化因子的释放而产生抗炎作用等[24]。另外，与空白对照组相比，饲粮添加抗生素和氧化锌后结肠组织中的促炎细胞因子GM-CSF 的mRNA表达量显著上调，这与抗生素和氧化锌在杀灭病原菌的同时引起病原菌细胞组分大量释放进而引发机体的炎症反应有关[25]。
+
+4结论
+
+$\textcircled{1}$ 饲粮添加芪楂口服液药渣可增加断奶仔猪结肠短链脂肪酸含量，调节细胞因子表达。$\textcircled{2}$ 饲粮添加发酵前后芪楂口服液药渣均不影响肠道菌群稳态，但添加抗生素和氧化锌会影响仔猪肠道菌群的稳态。$\textcircled{3}$ 本试验采用的微生物发酵处理未增强芪渣口服液药渣对肠道微生物代谢的改善作用。
+
+参考文献：
+
+[1] KWON C H,LEE C Y,HAN S J,et al.Effects of dietary supplementation of lipid-encapsulated zinc oxide on colibacillosis,growth and intestinal morphology in weaned piglets challnged with enterotoxigenic Escherichia coli[J].Animal Science Journal,2014,85(8):805-813. 0
+
+[2]黎智华,祝倩,姬玉娇,等.六种中药渣的营养成分[J].天然产物研究与开发,2017,29(1):91-95.  
+[3] 苏家宜,李华伟,黎智华,等.发酵中药渣对断奶仔猪生长性能和肠黏膜形态结构的影响[J].天然产物研究与开发,2016,28(9):1454-1459.  
+[4] 刘凤梅,谭显东,羊依金,等.三七渣固态发酵生产蛋白饲料[J].中国酿造,2011(2):67-70.[5]李华伟,王宗俊,祝倩,等.饲粮添加发酵中药渣对母猪繁殖性能与子代生长性能的影响[J].天然产物研究与开发,2016,28(10):1534-1539.  
+[6] 李华伟,黎智华,祝倩,等.饲粮添加中药渣和发酵中药渣对母猪繁殖性能与子代发育的影响[J].动物营养学报,2017,29(1):257-263.  
+[7]苏家宜,孔祥峰,李华伟,等.芪楂口服液药渣对断奶仔猪生长性能和肠道健康的影响[J].动物营养学报,2017,29(5):1730-1738.  
+[8]敖江涛,郑溜丰,彭健.进程性氧化应激对母猪繁殖性能的影响及其营养调控[J].动物营养学报,2016,28(12):3735-3741.  
+[9] 焦金真,王芃芃,汤少勋,等.浏阳黑山羊胃肠道不同部位重要功能微生物的数量分布特征研究[J].畜牧兽医学报,2013,44(10):1590-1599.  
+[10] 耿梅梅,许丽卫,袁红朝,等.气相色谱法测定猪结肠内容物中短链脂肪酸含量[J].现代生物医学进展,2015,15(6):1010-1014.  
+[11]姬玉娇,祝倩,耿梅梅,等.高、低营养水平饲粮对环江香猪结肠菌群结构及代谢物的影响[J].微生物学通报,2016,43(7):1650-1659.  
+[12]孔祥峰.结肠微生物氮代谢与机体健康研究进展[J].饲料与畜牧,2013(4):10-17.  
+[13] GUO X,XIA X,TANG R,et al.Development of a real-time PCR method for Firmicutes andBacteroidetes in faeces and its application to quantify intestinal population of obese and leanpigs[J].Letters in Applied Microbiology,2008,47(5):367-373.  
+[14]马丽琼,陈德昌,刘绍泽.广谱抗生素对肠道菌群的选择作用[J].中国危重病急救医学,2007,19(8):456-459.  
+[15] HALES K E,COLE N A,VAREL V H.Effects of corn processing method and dietaryinclusion of corn wet distillers grains with solubles on odor and gas production in catlemanure[J].Journal of Animal Science,2012,90(11):3988-4000.  
+[16] ZHOU Z J,ZHENG W J,SHANG W W,et al.How host gender affects the bacterial community
+
+in pig feces and its correlation to skatole production[J].Annals of Microbiology,2015,65(4):2379-2386.
+
+[17]李彩燕,刘建新,汪海峰.日粮纤维调控猪体粪臭素水平的研究进展[J].中国饲料,2007(9):13-16.
+
+[18] HAN T H,LEE J H,CHO M H,et al.Environmental factors affecting indole production in Escherichia coli[J].Research in Microbiology,2011,162(2):108-116.
+
+[19] KONG X F,JI Y J,LI H W,et al.Colonic luminal microbiota and bacterial metabolite composition in pregnant Huanjiang mini-pigs:effects of food composition at diferent times of pregnancy[J].Scientific Reports,2016,6:37224.
+
+[20] NICHOLSON J K,HOLMES E,KINROSS J,et al.Host-gut microbiota metabolic interactions[J].Science,2012,336(6086):1262-1267.
+
+[21] JIANG G L,LIU Y Y,OSO A O,et al.The differences of bacteria and bacteria metabolites in the colon between fatty and lean pigs[J].Journal of Animal Science,2016,94(Suppl.3):349-353.
+
+[22] YANG H S,WU F,LONG L N,et al.Effects of yeast products on the intestinal morphology,barrier function,cytokineexpression,andantioxidantsystem of weaned piglets[J].Journal of Zhejiang University:Science B,2016,17(10):752-762.
+
+[23] GAO F,XIE JL,JIA C W,et al.Effects of porcine circovirus type 2 and pseudorabies vaccine co-inoculation on regulatory cytokine mRNA expression in pig peripheral blood mononuclear cells[J].Genetics and Molecular Research,2014,13(1):1540-1547.
+
+[24] HOLMES E,KINROSS J,GIBSON G R,et al.Therapeutic modulation of microbiota-host metabolic interactions[J].Science Translational Medicine,2012,4(137):137rv6.
+
+[25] ISMAIL J,SANKAR J.Systemic inflammatory response syndrome (SIRS) and sepsis—an ever-evolving paradigm[J].The Indian Journal of Pediatrics,2015,82(8):675-676.
+
+Effects of Qi-Zha Oral Solution Residues and Their Fermented Product on Microbes,Microbial Metabolites and Cytokine Expression in Colon of Weaned Piglets SU Jiayi1,²GENG Meimei1CHEN Wen1YIN Yulong1WANG Zhanbin²KONG Xiangfeng1,3\*
+
+(1. Key Laboratory of Agro-Ecological Processes in Subtropical Region, Hunan Provincial Engineering Research Center of Healthy Livestock, Institute of Subtropical Agriculture, Chinese
+
+Academy of Sciences, Changsha 410125, China; 2. College of Animal Science and Technology, Henan University of Science and Technology,Luoyang 471003, China; 3.Hunan Co-Innovation Center of Utilizing Plant Functional Components, Changsha 410128, China)
+
+Abstract: The present study was conducted to determine the effects of $\mathcal { Q } i$ -Zha oral solution residues (QOR) and their fermented product on colon micro-ecology and health of weaned piglets, to explore the feasibility of dietary supplementation with herbal residues in piglet production. A total of 120 piglets weaned at 21 days of age were randomly assigned to one of four groups with 5 replicates per group and 6 piglets per replicate, representing blank control group, QOR group (supplementing $5 ~ \mathrm { k g / t }$ QOR), fermented QOR group (supplementing $5 ~ \mathrm { k g / t }$ fermented QOR), and positive control group (supplementing $0 . 0 4 ~ \mathrm { k g / t }$ virginiamycin, $0 . 2 \mathrm { k g / t }$ colistin and $3 ~ 0 0 0 ~ \mathrm { { m g / k g } }$ zinc oxide）.At day 28 of the experiment, the colonic tissue and its content were collected respectively， for determining the amount of microbes,contents of microbial metabolites and mRNA expression levels of cytokines. The results showed that dietary QOR or fermented QOR did not significantly affect the amounts of seven tested bacteria and total bacteria compared with the blank control group $( P { > } 0 . 0 5 )$ ，while significantly decreased the expression levels of interleukin $( I L )$ -12 mRNA compared with the two control groups $( P { < } 0 . 0 5 )$ ，and significantly decreased indole content compared with the positive control group $( P { < } 0 . 0 5 )$ .Dietary fermented QOR significantly decreased the contents of acetate,butyrate, valerate, isobutyrate, straight chain fatty acids and total short chain fatty acids $( P { < } 0 . 0 5 )$ , as well as the expression level of IL-4 mRNA, whencomparedwiththeQORgroup $( P { < } 0 . 0 5 )$ ．Theexpressionlevelof granulocyte-macrophage-colony-stimulating factor mRNA was significantly increased $( P { < } 0 . 0 5 )$ ， while the amounts of Bacteroidetes and Clostridium cluster X IVα were significantly decreased （204 $( P { < } 0 . 0 5 )$ in the positive control group when compared with the blank control group. Collectively, these findings suggest that the QOR can increase the contents of short chain fatty acids in colonic content and regulate the colon cytokine expression of weaned piglets; antibiotics and zinc oxide, not QOR or fermented QOR,afect the balance of intestinal microflora; the microbe fermentation doesn't enhance the improvement of QOR on intestinal microbe metabolism. Key words: $\varrho _  \}$ -Zha oral solution residues； fermented; weaned piglets; colon micro-ecology;
+
+cytokine

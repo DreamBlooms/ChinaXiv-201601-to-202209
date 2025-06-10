@@ -1,0 +1,234 @@
+# 明安图射电频谱日像仪高频阵模拟接收机研制
+
+耿立红1,²，颜毅华1,²，宋庆辉³，魏利辉³，陈志军1,2王威1,²，刘飞1,²，谭程明1,2  
+（1.中国科学院国家天文台，北京100012；2.中国科学院太阳物理重点实验室，北京100012；3.中国电子科技集团第五十四研究所，河北 石家庄050081)
+
+摘要：介绍了明安图射电频谱日像仪高频阵模拟接收机总体设计方案和研制情况，详细说明所采用的光传输、温控、滤波、LTCC等技术以及针对射电日像仪阵列特别采取的可靠性保证措施。经过全面的系统指标测试和幅、相稳定性温度环境测试，结果表明模拟接收机系统的性能、功能和稳定性等指标满足总系统的设计要求。
+
+关键词：射电日像仪；模拟接收机；阵列；光传输；稳定性中图分类号：P62.11 文献标识码：A 文章编号：1672-7673(2016)02-0160-10
+
+专用于太阳成像观测的高分辨厘米-分米波射电日像仪（Chinese Spectral Radioheliograph，CSRH）,目前已于国家天文台明安图观测站建设完成，并更名为明安图射电频谱日像仪（Mingantu UltrawideSpEctral Radioheliograph，MUSER）。MUSER由低频阵MUSER-I( $0 . 4 { \sim } 2 . 0 ~ \mathrm { G H z }$ ，40个 $4 . 5 \mathrm { ~ m ~ }$ 天线)和高频阵MUSER-II（ $2 \sim 1 5 ~ \mathrm { G H z }$ ，60个 $2 . 0 \mathrm { m }$ 天线)两个综合孔径阵列组成，天线阵列分布在方圆 $1 0 \mathrm { k m } ^ { 2 }$ 的草原上。由于阵列基线较长，有较高的空间分辨率，有高速数据采集和处理能力，因而有很高的时间分辨率和频谱分辨率。MUSER 的研制与建设一直受到国内外太阳物理领域的特别关注[1]。超宽频带下阵列接收时的高幅、一致性和稳定性要求，对获得高质量太阳射电频谱图像至关重要，是MUSER-ⅡI模拟接收机研制中的一大挑战。
+
+# MUSER-II模拟接收机技术指标
+
+MUSER-II模拟接收机采用全频带射频接收和光传输，将在 $2 \sim 1 5 ~ \mathrm { G H z }$ 频段上接收的太阳射电辐射信号进行低噪声放大、滤波和左/右旋极化选通，通过 $3 . 4 \mathrm { k m }$ 等长光纤网络传输至中心观测室室内接收单元，变频至中频，中频带宽为 $4 0 0 \mathrm { M H z }$ 或 $8 0 ~ \mathrm { M H z }$ ，输出至后端数字接收机进行模拟数字转换、数字相关等处理。
+
+MUSER-II模拟接收机极化和频率的切换及通道衰减实时可控，工作状态实时反馈。由灵活的频率通道编码组合和快速的切换建立稳定时间，可实现灵活的观测模式，满足某些频率通道的单或双圆极化更高时间分辨率观测，以及避开干扰较大的频带等要求。主要技术指标如表1， $4 0 0 ~ \mathrm { M H z }$ 带宽常规观测模式如图1。
+
+# 2 MUSER-II模拟接收机组成
+
+文[2]讨论了低频模拟接收机的设计方案，文[3]探讨了厘米波频谱日像仪模拟接收机方案，并指出光纤传输链路是接收机动态范围受限的瓶颈。实际的MUSER-II模拟接收机组成如图2，包括 60套
+
+表1MUSER-II模拟接收机主要技术指标  
+Table 1 Main technical specifications of MUSER-II analog receiver   
+
+<html><body><table><tr><td rowspan="2">频率 范围</td><td rowspan="2">输入 信号</td><td rowspan="2">输出 P-1</td><td rowspan="2">中频 带宽</td><td rowspan="2">增益 /dB</td><td rowspan="2">增益 平坦度</td><td rowspan="2">噪声</td><td rowspan="2">通道 隔离</td><td rowspan="2">镜频 抑制</td><td rowspan="2">频率建 立时间</td><td rowspan="2">幅度 稳定度</td><td rowspan="2">相位 误差</td></tr><tr><td>系数</td></tr><tr><td>/GHz</td><td>/dBm</td><td>/dBm</td><td>/MHz</td><td></td><td>/dB</td><td>/dB</td><td>/dB</td><td>/dB</td><td>/us</td><td>/RMS</td><td>/RMS</td></tr><tr><td>2~15</td><td>-100~-40</td><td>W+10</td><td>400/80</td><td>75/82</td><td>±2.0</td><td>3.8</td><td>≥70</td><td>≥50</td><td>≤50</td><td>≤±5%</td><td>≤4°</td></tr></table></body></html>
+
+极化切换 极化切换 极化切换 极化切换 极化切换 频率切换 极化切换 频率切换 极化切换 频率切换 极化切换 频率切换 3ms 125us 3ms 125us 3ms 125us 3ms 125us 3ms 125μs 3ms 125us 125us 3ms 125us 3ms ? Y ? ? ? Y ? ? D ? 1 ? 左旋 右旋 左旋 右旋 左旋 右旋 左旋 右旋 ↑ 频带1 ￥ 频带2- 频带 频带33 ￥ 频带1- ↓ ↑ $4 0 0 ~ \mathrm { { M H z } }$ 带宽常规观测模式：1个观测周期206.25ms ?
+
+![](images/c85c433f6c5414c1d2a8f878c429a7037706a8baa66a0a861aae2ca2cecc560d.jpg)  
+图1MUSER-II模拟接收机 $4 0 0 \mathrm { M H z }$ 带宽常规观测模式  
+Fig.1 $4 0 0 \mathrm { { M H z } }$ bandwidth normal observing mode of MUSER-II analog receiver   
+图2MUSER-II模拟接收机单个通道的组成框图  
+Fig.2Block diagram of MUSER-II analog receiver's single channel
+
+射频接收通道(室外接收单元含备份共64套；室内按64个通道设计，其中备用通道4个)。组成包括室外接收单元、光纤传输、室内接收单元-信道、本振单元、校准源、功分、开关、温度控制、电源以及电缆和光缆组件等部分。
+
+# 3 MUSER-II模拟接收机方案和研制
+
+# 3.1 方案设计
+
+文[4]指出，未来的射电天文观测仪器将是分布在广大区域的传感器阵，级联的相位阵列单元。这样的阵列要提供有意义的输出(图像)，精确的校准是关键。校准必须解决未知天线增益和相位以及未知的大气和电离层扰动问题。对于 MUSE-II模拟接收机，即要保证120个通道间(对左、右旋双圆极化)幅度、相位一致的稳定性。由于阵列单元数多，光纤传输距离长，超宽频带，当地气候等原因，以及体积和重量的限制，模拟接收机设计在满足性能指标的同时，需兼顾系统稳定性、可靠性和可维修性。
+
+# 3.2信号链路
+
+# 3.2.1 输入信号范围
+
+天线接收的太阳信号谱密度 $^ { [ 5 ] } P _ { _ { 0 } } = \eta \Delta f A S / 2$ ，其中 $A$ 为天线几何面积； $\eta$ 为天线效率； $s$ 为太阳流量密度。根据 $1 9 9 6 \sim 2 0 1 0$ 年太阳辐射流量密度数据的统计（图3），宁静太阳辐射流量密度在 $2 ~ \mathrm { G H z }$ （约100s.f.u.）时比 $1 5 ~ \mathrm { G H z }$ 约低 $1 0 ~ \mathrm { d B }$ ；相对于宁静太阳，最大太阳流量密度增加约 $2 0 ~ \mathrm { d B } ( 1 5 ~ \mathrm { G H z } ) \sim$ （202$3 0 ~ \mathrm { d B } ( 2 ~ \mathrm { G H z } )$ 。估算 $2 \mathrm { m }$ 天线输出功率（取 $\eta = 0 . 4$ ， $\Delta f { = } 1 3 \ \mathrm { G H z } { \mathrm { ~ } }$ ：
+
+宁静时： $- 7 1 \ \mathrm { d B m } ( 2 \ \mathrm { G H z } ) \sim - 6 1 \ \mathrm { d B m } ( 1 5 \ \mathrm { G H z } )$ ，中间值约 $- 6 6 ~ \mathrm { d B m }$
+
+最大时： $- 4 1 ~ \mathrm { d B m } ( 2 ~ \mathrm { G H z } ) \sim - 4 1 ~ \mathrm { d B m } ( 1 5 ~ \mathrm { G H z } )$ 取 $N _ { \mathrm { f } } { \approx } 5 ~ \mathrm { d B }$ 为系统噪声系数； $K = 1 . 3 8 \times 1 0 ^ { - 2 3 } \mathrm { J } / \mathrm { K }$ . $T = 2 9 0 ~ \mathrm { K }$ ; $S / N = 1$ ; $\Delta f { = } 1 3 ~ \mathrm { G H z }$ ，则接收机输入端的最小可检测信号功率： $P _ { \mathrm { i n - m i n } } = K T N _ { \mathrm { f } } \Delta f ( S / N ) _ { \mathrm { \ m i n } } { \approx } - 6 8 ~ \mathrm { d B m } _ { \mathrm { \Omega } }$ 。
+
+![](images/01af41727b80daebed94ea663bb7ac018ec39405e7222147005f18f460ea99ac.jpg)  
+图3太阳辐射流量密度统计图  
+Fig.3Statistic chart of solar radiation flux density of the quiet Sun and the Sun with large solar burst on several frequencies over the Year 1996-2010
+
+主：数据主要来自1996\~2010年美国射电监测网（RSTN），统计频点： $1 5 . 4 \ : \mathrm { G H z }$ 、 $8 . 8 \ : \mathrm { G H z }$ 、$4 9 9 5 ~ \mathrm { { M H z } }$ 、 $2 6 9 5 ~ \mathrm { M H z }$ 、 $1 4 1 5 \mathrm { M H z }$ 、 $6 1 0 \mathrm { M H z }$ 、 $4 1 0 \mathrm { M H z }$ 、 $2 4 5 \mathrm { M H z }$
+
+# 3.2.2 光传输
+
+与巨型米波射电望远镜（Giant Metrewave Radio Telescope，GMRT）利用光纤传输中频信号不同,MUSER-II采用单模低损光缆传输 $2 \sim 1 5 ~ \mathrm { G H z }$ 射频信号。光缆埋入地下 $2 . 5 \mathrm { ~ m ~ }$ ，避开冻土并保持温度稳定，避免额外干扰。室内外设备间的控制和状态信号也采用光缆传输，由于信号频率低，可不考虑光缆温度效应。但用光缆传输射频信号时（波长 $1 5 ~ \mathrm { c m } \sim 2 ~ \mathrm { c m }$ )，需考虑光缆长度差随温度的变化。文[6-7]特别讨论对等长光纤的需求以及光纤长度性能测量的方法。
+
+采用光时域反射计对MUSER-II光缆长度进行多次测量（2012年9月、2013年4月和11月）。以8芯光缆用于射频传输的1#光纤为例，60个光缆通道(对应60面天线)最大长度差平均约 $3 . 8 \mathrm { ~ m ~ }$ ，与测量误差相当。光缆插损( $( 1 3 1 0 \ \mathrm { n m } ) \leqslant 1 . 2 3 \ \mathrm { d B }$ ，通过尾纤补偿，可使阵列通道间光缆链路相对总长度差保持在 $1 0 \mathrm { m }$ 以内，预计环境温度变化小于 $2 ^ { \circ } \mathrm { C }$ 时，由光缆长度变化 $2 \mathrm { p p m / m / ^ { \circ } C }$ )引起的相对相位变化在 $1 5 \ : \mathrm { G H z }$ 时小于 $1 ^ { \circ }$ 。实际上明安图观测站多年地下 $2 . 0 \mathrm { m }$ 处地温监测结果显示，温度变化 ${ \sim } 0 . 1 \mathrm { ~ \textdegree C } /$ 日。MUSER-I系统通过每日观测卫星可实现延迟补偿精度为 $\mathrm { 1 ~ n s ^ { [ 8 ] } }$ ，相位补偿精度为 $1 ^ { \circ }$ ，MUSER-I系统将采用类似方法，结果待验证。图4给出了MUSER-II宽带射频信号光传输链路示意图。
+
+采用的Miteq光端机内置两级放大器和监控板，体积较小，瞬时线性动态范围 $\geqslant 3 2 { \mathrm { ~ d B } }$ ，1dB输入压缩点 $\geq - 1 5 ~ \mathrm { d B m }$ ，最大承受输入功率 $\leqslant 1 0 \mathrm { d B m }$ 。光发射机与室外单元的前端组件和光接收机均采取恒温措施。
+
+室外 光缆 光缆 光缆 尾纤 尾纤恒温箱 尾纤 室外 埋地 地下光缆池 室内 室内10m 15m \~3300m \~100m 22 m  
+模拟接收机 基墩控制箱 地下光缆池 观测室内模拟  
+室外前端 光纤接续盒 光纤接续机柜 接收机机柜光发 oo Gio o 光收接 接熔 盘熔接 接接头 头接 绕接头 头头
+
+# 3.2.3 链路主要节点
+
+采用数控衰减器补偿动态范围限制并满足光端机和模数转换器的输入要求，室外前端输出放大器后接衰减器以保护昂贵的光端机。模数转换器峰峰值 $5 0 0 \mathrm { m V p - p }$ ，对应输入功率为 $- 2 ~ \mathrm { d B m }$ 。观测太阳爆发现象时，需设置模拟接收机室内外数控衰减器以匹配光端机和模数转换器。表2为MUSER-II模拟接收机链路主要节点功率。
+
+表2MUSER-II模拟接收机链路主要节点功率  
+Table2Mainnodespowerof MUSER-I analogreceiver's link   
+
+<html><body><table><tr><td>状态</td><td>输入 信号 /dBm</td><td>前端 放大 /dB</td><td>前端 插损 /dB</td><td>室外 衰减器 /dB</td><td>光发 输入 /dBm</td><td>光发 输出 /dBm</td><td>光纤 损耗 /dB</td><td>光收 输入 /dBm</td><td>室内 放大 /dB</td><td>室内 衰减器 /dB</td><td>带宽 衰减 /dB</td><td>AD 输入 /dBm</td></tr><tr><td>宁静 爆发</td><td>-70</td><td>46</td><td>-10.5</td><td>0</td><td>-34.5</td><td>-19.5</td><td>0</td><td>-19.5</td><td>24</td><td>0</td><td>-15</td><td>-11</td></tr><tr><td></td><td>-40</td><td>46</td><td>-10.5</td><td>-15</td><td>-19.5</td><td>-4.5</td><td>0</td><td>-4.5</td><td>24</td><td>-14.5</td><td>-15</td><td>-10</td></tr></table></body></html>
+
+# 3.3幅、相稳定性
+
+根据总体设计要求，MUSER-II模拟接收机在全频带内的相位误差 $\Delta \phi \leqslant 4 ^ { \circ }$ ，幅度误差 $\Delta A \leqslant \pm 5 \%$ ，意味着幅度变化不能超过 $\pm 0 . 2$ dB(RMS）。系统稳定性主要影响因素是其放大器随环境温度产生的变化。
+
+# 3.3.1 恒温
+
+恒温针对温度敏感器件如室外前端低噪放、光发射机和光接收机、晶振进行。室外前端（除电源和控制部件)置于恒温箱中，室内单元光接收机放置在恒温盒中，由中心控制室进行远程监控。温度变化 $1 ^ { \circ } \mathrm { C }$ 时，室外单元放大器、电缆和光端机的相位变化共约 $1 . 2 8 ^ { \circ }$ （对4级放大器） $+ 0 . { 0 2 } ^ { \circ }$ （设电缆长$1 5 \mathrm { c m }$ ， $1 5 \mathrm { G H z }$ 时) $+ 0 . 5 ^ { \circ }$ (光端机） $\approx 1 . 8 ^ { \circ }$ 。室外恒温箱设计控制精度为 $\pm 0 . 5 ^ { \circ } \mathrm { C }$ ，温控范围为 $1 0 { \sim } 4 0 ^ { \circ } \mathrm { C }$ 。MUSER-II室外前端控温示意图、室内单元信道机箱上恒温光接收机见图5。
+
+# 3.3.2 热设计
+
+接收机每个信道机箱包含10个插板式信道，完成滤波、放大和下变频至中频功能。热设计重点考虑在工作温度范围内，分机内10个信道间最大温差的变化范围保持稳定。用icepeak软件仿真 $1 0 \ \%$ 和 $4 0 \ \mathrm { { ^ circ C } }$ 时室内机箱的热效应，结果表明，环境温度 $1 0 \ \%$ 时，10个通道温度范围 $1 4 . 1 6 ~ \mathrm { ^ { \circ } C } \sim 1 0 . 6 8 ~ \mathrm { ^ { \circ } C }$ $4 0 \ \%$ 时，温度范围 $6 4 . 1 4 ~ \mathrm { ^ { \circ } C } \sim 6 0 . 8 1 ~ \mathrm { ^ { \circ } C }$ 。通道间最大温差分别为 $3 . 4 8 ~ \mathrm { ^ { \circ } C }$ 和 $3 . 3 3 ~ \mathrm { ^ { \circ } C }$ ，可以保证非常好的通道间相对相位的稳定性。
+
+# 3.3.3 高稳定时钟和本振
+
+图6是MUSER-II模拟接收机本振及分路组成。采用Symmetricom公司 $1 0 ~ \mathrm { M H z }$ 型号 SA.33铷钟源锁定 $1 0 0 \mathrm { M H z }$ 恒温晶振作为本振及校准源的参考源。铷钟频率准确度 $< 9 . 8 5 \mathrm { E } { - } 1 1$ ；短期频率稳定度<1.8E-11（1s），<1.02E-11（10s）， $\angle { \angle }$ 3.89E-12(100s）；相位噪声 $\leqslant - 9 3 ~ \mathrm { d B c } / \mathrm { H z } @ 1 0$ $\mathrm { H z }$ ， $\leqslant - 1 2 0 ~ \mathrm { d B c } / \mathrm { H z } @ 1 0 0 ~ \mathrm { H z }$ ， $\leqslant - 1 3 7 ~ \mathrm { d B c } / \mathrm { H z } @$ $1 \mathrm { { k H z } }$ 。3个本振相位噪声均满足 $- 9 0 ~ \mathrm { d B c } / \mathrm { H z } @ 1 0$ $\mathbf { k H z }$ ， $- 9 5 ~ \mathrm { d B c } / \mathrm { H z } @ 1 0 0 ~ \mathrm { k H z }$ ；换频时间 $< 5 0 ~ \mu \mathrm { s }$ 。主、备两套本振分机结构提高了系统的可靠性。
+
+# 3.3.4LTCC 技术应用
+
+![](images/ddb4a33956c407d8084bc4a45ea3142be052b87a519dede1dd8ce5de5c2572b7.jpg)  
+图5MUSER-II室外前端控温示意图、室内单元信道机箱上恒温光接收机 Fig.5Block diagram of MUSER-II outdoor and indoor thermal control units   
+图6本振及分路分机组成框图  
+Fig.6Block diagram of local oscillator and dispersion device
+
+天 分路器 I 8.5\~  
+本振分机1(主) 18.5本振 GHz  
+28V 晶振电源 与 二本振 天 分路器 三 4.7/  
+监控 分路 8.7  
+信号 三本振 GHz监控 铷钟  
+本振分机2(备) 天 分路器 H 1.4z一本振  
+28V 晶振  
+监信号 电源 分路 三本振 医 M00z监控 铷钟 开关分路分机
+
+低温共烧陶瓷(Low-TemperatureCo-tired Cer-amics，LTCC)技术以多层布线三维立体结构为特点，是多芯片组件的一种，也是目前国际上研究较为热门的小型化实现形式。
+
+低温共烧陶瓷技术应用于MUSER-II模拟接收机，在高集成度与小型化、高性能、轻量化、温度特性、批量生产等方面有显著优势，且便于与传统印制电路板互联。利用中国电子科技集团第 54 所低温共烧陶瓷生产线完成前端开关放大组件、信道部分滤波器、变频器等关键部件的生产和组装测试。
+
+研制采取的技术措施有：(1)基于X形和十字形通孔和接地在空间各层交替均匀分布的高效接地设计；（2)可伐金属围框替代常规屏蔽盒的密封装配设计；（3)同层互连过渡设计；（4)采用模拟同轴方式的层间互联设计。解决了基板不平整、导体及过渡损耗、有效散热、叠片误差等带来的接地、寄生分量以及电磁兼容等诸多问题。
+
+# 3.3.5 超宽带幅度均衡
+
+通带内光端机增益平坦度约为 $\pm 1 . 5 \mathrm { d B }$ ，前端组件约为 $\pm 1 ~ \mathrm { d B }$ ，信道约为 $\pm 1 ~ \mathrm { d B }$ 。必须采用微波宽带幅度均衡技术，才能满足增益平坦度 $\leqslant \pm 2$ dB 的要求。用HFSS 进行仿真，基于陶瓷基片和电阻溅射工艺的均衡器设计采用多个陷波单元级联的方法。选择适当的谐振频率、Q值以及串联谐振陷波单元级联数目，就可逼近需要的任意均衡响应，均衡器输入输出端引入匹配电路。陷波单元及其级联后频率响应 $S _ { 2 1 }$ 分别为
+
+$$
+S _ { 2 1 } ( w ) = \frac { 2 \times ( 1 - w ^ { 2 } L C + j w R C ) } { 2 \times ( 1 - w ^ { 2 } L C + j w R C ) + j w R C } , S _ { 2 1 } ( w ) = \prod _ { i = 1 } ^ { n } S _ { 2 1 } ^ { i } ( w ) .
+$$
+
+# 3.4宽带抗干扰设计
+
+# 3.4.1 双中频带宽输出
+
+兼顾了工程、天文和抗干扰等多项需求，MUSER-II模拟接收机设计了双中频带宽输出功能。中
+
+频带宽分别为 $4 0 0 \mathrm { M H z }$ 和 $8 0 ~ \mathrm { M H z }$ ，对应频率通道数33和163，中心频率均为 $2 5 0 \mathrm { M H z }$ 。
+
+# 3.4.2 前级放大器
+
+前级放大器选用低噪声砷化镓管芯，前端加有限幅器，抗烧毁电平为1W，对于调频广播、电视及全球移动通信系统(Global System for Mobilecommunication，GSM)等不在收带频段内的干扰信号，放大器增益较低，正常情况下不会饱和，信道预选滤波器同时可对其进行 $5 0 ~ \mathrm { d B }$ 以上抑制。前端组件输出端加有固定衰减器，最大饱和输出电平不超过 $+ 1 0 ~ \mathrm { d B m }$ ，防正烧毁昂贵的光发射机。
+
+# 3.4.3 三级变频和五段亚倍频程预选滤波器组
+
+MUSER-II模拟接收机信道链路如图7。通过3次混频实现从 $2 \sim 1 5 ~ \mathrm { G H z }$ 到 $2 5 0 ~ \mathrm { M H z }$ 中频的变频。本振1、2、3分别为 $8 . 5 \sim 1 8 . 5 \mathrm { G H z }$ 、 $4 . 7 / 8 . 7 \mathrm { G H z }$ 和 $1 . 4 5 \ : \mathrm { G H z }$ 。一中频采用 $3 . 5 \mathrm { G H z }$ 与 $7 . 5 \mathrm { G H z }$ 双中频（分别对应中心频率 $5 . 0 { \sim } 1 4 . 8 \mathrm { G H z }$ 和 $2 . 2 { \sim } 4 . 6 \mathrm { G H z }$ 输入信号)方案实现中频抑制。五段亚倍频程信道输入预选滤波器组，可滤除干扰信号，对中频和镜频频率进行抑制，增强系统抗饱和与抗干扰能力。预选滤波器采用带通滤波器与低通滤波器结合的方式，为提高加工精度，减小体积，采用镀金工艺在陶瓷基片上设计制作。镜频和中频抑制分别优于 $5 0 ~ \mathrm { d B }$ 和 $4 0 ~ \mathrm { d B }$ 。中频输出端加有椭圆函数带通滤波器，矩形系数小于1.5:1，可滤除带外噪声，并防止采样噪声混叠。手机 $3 \mathrm { G } / 4 \mathrm { G }$ 信号按不同运营商和工作方式，频率范围 $1 7 5 5 { \sim } 2 6 5 5 ~ \mathrm { M H z }$ ，与MUSER-II频率范围有交叉，同样可用预选滤波组增加系统的抗饱和能力。
+
+![](images/30527c255d5cef6ba1f970a768515f91185b71bf280f2c870c360b11b127f2fd.jpg)  
+图7MUSER-II模拟接收机信道链路原理框图  
+Fig.7MUSER-II analog receiver indoor channel link diagram
+
+# 3.4.4 时序和接口设计
+
+如图8，由监控室外单元通过RS422差分电平实时同步控制模拟接收机室外单元左右旋圆极化通道切换微波开关，进行温控和数控衰减器的参数设置和实时状态监测，状态包括温度、光发射功率、电源以及微波开关等。模拟接收机频率通道选择由监控室内单元通过RS422接口进行实时同步控制切换(电平)；切换规律和预选滤波器、增益、本振等参数由室内监控单元通过网口预先置入，减小了控制信号传输数据率；状态监测也通过网口进行。
+
+# 3.5 可靠性设计
+
+# 3.5.1 结构设计
+
+如图9，对MUSER-ⅡI模拟接收机采用模块化结构设计，便于批量化生产、性能一致、调试、测试、安装和集成，也利于维护维修互换和故障隔离。通过不同的地址配置标识不同模块。但一旦在设计、生产或装配等过程出现错误，即是批量错误；采用可编程器件实现部分功能，以降低出错代价。模块化设计分为：（a)分机级(包括备份，7个信道机箱；64套室外前端)，均为标准上架机箱；（b）
+
+插板级(包括备份，64个信道），对通道间隔离度，考虑中射频电缆、信道、电源及控制、本振分路的隔离、屏蔽和滤波等措施；（c)部件级。
+
+![](images/67a83cb4b0cf97246f70c2d7d0d4eeb79e0fed814bea3bedca7fea57cf95602c.jpg)  
+图8MUSER-II各系统间信号流  
+Fig.8Signal transmission among MUSER-II subsystems   
+图9MUSER-II模拟接收机信道分机模块化设计框图  
+Fig.9Block diagram of indoor channel equipment modular design scheme
+
+10路光信号输入IN2-1LO1-1LO2-1LO3-1 OUT1  
+网口控制 监控单元 光端接收单元 232 OUT2  
+电源输入 IN2-3LO1-3LO2-3LO3-3 OUT3+28V 电源 信道单元-3  
+自校源 IN2-410元-4L02-4L03-4 OUT4输振 L81-3 自校源分路 IN2-5L02-5L03-5 OUT5三本振 输入 分路器 本振 L8 LO1-10 L01-9 器 福 IN2-0 IN2-6-L02-6LO3-6 ↓IN2-7LO1-7 LO2-7LO3-7 信道单元-7 OUT7 OUT6 T输入 本 L82- 二本振分路 15 IN2-8信L02-8L03-8 OUT8本振 振分路器 L8 L8 IN2-9LO2-9LO3-9 OUT9L83 器 ■ L83-80 IN2-10LO1-10LO2-10LO3-10 OUT10LO2-10 信道单元-10
+
+# 3.5.2 自校设计
+
+校准源提供了室内信道监测和自检信号，其参考源由本振机箱提供，同样采用 $1 0 ~ \mathrm { M H z }$ 铷钟源锁定 ${ 1 0 0 } \mathrm { M H z }$ 恒温晶振。输出射频频率范围 $2 \sim 1 5 ~ \mathrm { G H z }$ ，瞬时带宽 $4 0 0 ~ \mathrm { M H z }$ ，可同时产生64路单音信号，平坦度优于 $2 . 5 \mathrm { d B }$ 。通过网口设置校准源输出频率通道和信号路数及切换机箱电源。当接收外界信号时切断校准源机箱电源，可避免校准信号泄漏造成干扰。校准分路器与信道接头一一对应，电缆末端有调相接头，保证电缆等相位。另利用本振/校准信号分路机箱上的校准源输入口，输入外部校准信号，增加了信道测试和校准的灵活性。
+
+# 3.5.3 质量控制
+
+对MUSER-II模拟接收机设计、生产、运行、维护全过程采取质量控制措施。
+
+设计：利用仿真设计软件进行电路性能定量分析;  
+防雷：所有室外前端电源输入配备防浪涌滤波器；前级LNA前增加限幅器；  
+器件：选用优质器件和设备或成熟技术，所有器件均经筛选；使用核心部件的平均寿命在15年以上;  
+材料：尽量避免使用温度敏感材料;环境：所有部件、整机均经过高低温环境试验；  
+密封：室外恒温箱采用防水结构，对镁铝合金箱体材料采取特殊防护措施，使用密封接头接插件；考虑电磁兼容性；  
+工艺：采用低温共烧陶瓷技术进行前端组件等设计加工；整批加工的产品使用相同的工艺流程;  
+温控：采取高精度温控措施，避免环境温度变化引起器件性能参数的漂移，进而导致系统性能的下降；  
+备份：晶振、本振源、电源各自独立于机箱，双机冷备份，室外前端备份2套，室内信道备份4套;  
+监控：关键零部件具备自检并将状态上报上级监控的功能，便于系统状态监测、快速故障定位和隔离;  
+测试：包括器件筛选、加工中阶段检验、部件\分机自检、出所、现场、系统集成和运行测试;  
+文件和记录：保持完备的产品研制过程文件和记录，便于问题追溯。
+
+# 4测试
+
+测试结果表明，MUSER-II模拟接收机性能稳定可靠，噪声系数、增益平坦度、镜频抑制、通道隔离度等各项指标均满足设计要求[9]，恒温箱控温精度在 $\pm 0 . 1 \mathrm { { ^ { \circ } C } }$ 内。
+
+2013年9月26日 $\sim 1 1$ 月3日期间，由于测试条件的限制和系统复杂，分批在恒温试验箱中对MUSER-II模拟接收机通道幅、相稳定性进行了测试。测试时，恒温试验箱温度从 $1 0 \mathrm { ~ \% ~ } { \sim } 3 5 \mathrm { ~ \% ~ }$ 变化,步进 $5 \mathrm { ^ { \circ } C }$ ，每次变温保持 $1 2 0 ~ \mathrm { m i n }$ 。每个信道机箱中选择8个信道分为4组，测此4组通道的相位差在 $2 ~ \mathrm { G H z }$ 和 $1 5 ~ \mathrm { G H z }$ 分别随温度的变化，另选一个通道测量其幅度随温度变化。测试过程中频繁更换电缆，因此与实际情况存在一定误差。
+
+在较宽的温度范围内，幅度稳定性测试的结果满足 $\leqslant \pm 5 \%$ （RMS）。温度变化不超过 $1 0 \ \mathrm { { ^ circ C } }$ 时，相位稳定性满足 ${ \leqslant } 4 ^ { \circ }$ （RMS），见图10中所示MUSER-II模拟接收机幅、相稳定性测量结果。设备机房温度控制在 $2 5 ~ \mathrm { { ^ { \circ } C } }$ 以下，温度变化控制在 $7 { \sim } 8 ~ \mathrm { \% }$ 以内时较为合适。
+
+图11为在明安图观测站用频谱仪连接MUSER-II模拟接收机HB8通道 $4 0 0 ~ \mathrm { M H z }$ 中频输出时，HB8天线对准亚洲7号卫星，接收的C 波段、 $\mathrm { K u }$ 波段卫星信号和HB8天线在相同波段扫过太阳的情况。图12为MUSER-II模拟接收机实物图。
+
+![](images/18a5bd582493aba9f525fde1de965d85ba1939f03f42658c04dae1b1d252b1bb.jpg)  
+图10MUSER-II模拟接收机幅、相位稳定性测量： $2 \mathrm { G H z }$ 和 $1 5 \ : \mathrm { G H z }$ 时相位差随温度变化情况  
+Fig.1OParts of MUSER-II analog receiver phase stability test results
+
+# 5结论
+
+MUSER-II模拟接收机的研制是系统性、综合性的，得力于从方案、设计、生产、装配、工艺、测试和管理等全方位的工作保障。经过在明安图观测站现场一年多的通电运行，MUSER-II模拟接收机性能和功能基本稳定，过程中出现的子系统间和子系统内部的电磁兼容性、接口、嵌人式模块时序上的缺陷等问题陆续得到解决，为适应沙尘环境，计划对射频光传输链路光接口进一步采取密封或熔接措施。对MUSER-II全系统性能指标的测试和试观测工作正在进行。
+
+![](images/4c1570099dacf15aea35589b0d614ecdbacea6baf0f2db12c6950d4336d9f576.jpg)  
+图11 在12.4\~12.8GHz(左)和 $4 . 0 { \sim } 4 . 4 ~ \mathrm { G H z }$ (右)频段上HB8 通道接收亚洲7号卫星信号(上)和扫过太阳(下)的情况 Fig.11Signal from ASIA-7 C-band & Ku-band and the sun received by HB8 channel
+
+![](images/6df9e3a19dbc86e5c0086d0f7320fa0f00b5b302916f284534cbc07be48fd6c2.jpg)  
+图12MUSER-II模拟接收机实物图  
+Fig.12MUSER-II entities of outdoor situation and indoor cabinet
+
+致谢：中国科学院国家天文台傅其骏、刘玉英、金声震、施浒立、金乘进、张洪波、张喜镇、孙才红、邱育海、赵蒙、李久利、玄为佳，清华大学张国敬，中国科学院空间中心徐志衡、王栓荣，中国电子科技集团第13所张越成，中国电子科技集团第54所耿京朝、牛传峰，参与方案讨论，并提出宝贵意见和建议；中国电子科技集团第54所郭文刚、赵玉博、杨新功、岳超、王锡志、梁振恒等，国家天文台陈林杰、刘东浩、苏仓、姜云英、杜静、李沙等，参与子系统研制和测试、调试工作；中科院电子所李巨涛、曲春辉、李士东，积极配合子系统调试工作；北京英拓公司韩鹏，进行光纤传输测试；特此一并表示衷心感谢。
+
+# 参考文献：
+
+[1] 颜毅华，张坚，陈志军，等.关于太阳厘米-分米波段频谱日像仪研究进展［J］.天文研究与技术—国家天文台台刊，2006，3(2)：91-98.Yan Yihua, Zhang Jian，Chen Zhijun，et al.Progress on Chinese solar radioheliograph in cm-dmwavebands [J].Astronomical Research & Technology——Publications of National AstronomicalObservatories of China，2006，3(2）:91-98.  
+[2] 姬国枢，窦玉江，王威，等.CSRH模拟接收机设计［J].天文研究与技术——国家天文台台刊，2006，3(2)：135-142.Ji Guoshu，Dou Yujiang，Wang Wei，et al. RF receiver design for CSRH［J].AstronomicalResearch & Technology———Publications of National Astronomical Observatories of China，2006,3(2) : 135-142.  
+[3] 吴立丰，张越成，刘荣军，等.厘米波频谱日像仪模拟接收机方案探讨［J].天文研究与技术——国家天文台台刊，2011，8(4)：338-342.Wu Lifeng， Zhang Yuecheng，Liu Rongjun， et al. A Study of a Scheme of Analog Receiver for aCentimeter Band Radioheliograph[J].Astronomical Research & Technology—Publications ofNational Astronomical Observatories of China，2011，8(4）:338-342.  
+[4] Wijnholds S J,van der Tol S，Nijboer R，et al. Calibration challenges for future radio telescopes[J]. IEEE Signal Processing Magazine，2010,27(1）: 30-42.  
+[5] Mclean D J,Labrum NR.Solar radiophysics [M]. Cambridge:Cambridge University Press，1985.  
+[6] 张越成，刘荣军，马玉培，等.CSRH光传输线的长度及相位测量［J]．天文研究与技术-国家天文台台刊，2011，8(4)：334-337.Zhang Yuecheng,Liu Rongjun，Ma Yepei,et al.,A Measurement Method of Lengths and Phasesof Transmission Optical Fibers for the CSRH ［J].Astronomical Research & TechnologyPublications of National Astronomical Observatories of China，2O11，8(4） :334-337.  
+[7] 王威，陈志军，姬国枢，等.CSRH光纤传输方案探讨［J]．天文研究与技术——国家天文台台刊，2006,3(2)：143-147.Wang Wei,Chen Zhijun，Ji Guoshu,et al. Optical Fiber Transmission Analysis for CSRH[J].Astronomical Research & Technology———Publications of National Astronomical Observatories ofChina，2006，3(2)：143-147.  
+[8] 刘东浩，颜毅华，赵岸，等.新一代厘米-分米波射电日像仪延时校准方法研究［J]．电子学报，2013(3)：570-574.Liu Donghao,Yan Yihua, Zhao An，et al.A delay calibration for Chinese spectral radioheliographin the decimetric to centimetric wave range [J].Acta Electronica Sinica，2O13(3）: 570-574.  
+[9] Geng Lihong，Yan Yihua， Song Qinghui,et al. CSRH-II analog receiver system stability designingand testing [C]// General Assembly and Scientific Symposium. 2014:1-4.
+
+# MUSER-II Analog Receiver System Designing and Developing
+
+Geng Lihong $^ { 1 , 2 }$ , Yan Yihua $^ { 1 , 2 }$ ， Song Qinghui³，Wei Lihui $^ 3$ ， Chen Zhijun $^ { 1 , 2 }$ Wang Wei $^ { 1 , 2 }$ ，Liu Fei $^ { 1 , 2 }$ ， Tan Chengming $^ { 1 , 2 }$ (1.National Astronomical Observatory,Chinese Academyof Sciences，Beijing 10ol2,China,Email：genglh@nao.cas.cn； 2. Key Laboratory of Solar Activity，Chinese Academy of Sciences，Beijing 10o012， China; 3.The 54th Research Institute of CETC，Shijiazhuang O50081,China)
+
+Abstract：Analog receiver system is one of the key parts of the Chinese Spectral Radioheliograph (MUSER).MUSER-I analog receiver is used to amplify，transmit and convert the solar emisson signal in frequency range of 2-15GHz.The design and manufactureof MUSER-II analog receiver are introduced in this paper.The technologies of optical transmisson，thermal control,filterbank and LTCC used in the receiver are described in detail. The quality guarantee measuresare also included.Test results convince that the performances，functions and stability of MUSER-II analog receiver fulfillthe total system requirements.
+
+Key words:Radioheliograph；Analog receiver；Array ；Optical transmission； Stability

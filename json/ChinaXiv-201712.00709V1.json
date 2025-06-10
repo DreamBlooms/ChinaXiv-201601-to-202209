@@ -1,0 +1,370 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "不同试剂转染RIP140-siRNA至库普弗细胞的效率及毒性比较",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李 吉',刘作金²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "重庆医科大学第二临床学院,重庆 400016;重庆医科大学附属第二医院肝胆外科,重庆 400010摘要：目的对比不同的转染试剂转染RIP140-siRNA至肝脏库普弗细胞的转染效率及它们对肝脏库普弗细胞的细胞毒性，从而寻找出最佳的肝脏库普弗细胞试剂转染方法和条件。方法以肝脏库普弗细胞为研究对象，以绿色荧光蛋白(GFP)标记的RIP140-siRNA为报告基因(reporter gene),采用lipofectamine 2000,罗氏试剂(X-treme GENE siRNA Transfection Reagent)及嘌呤霉素筛选的慢病毒 $\\mathrm { \\langle 1 . 0 { \\times } 1 0 ^ { 8 } T U / m L }$ )作为转染试剂，荧光倒置显微镜下观察细胞转染效果，激光扫描共聚焦显微镜分析不同试剂转染后细胞RIP140的表达,流式细胞术检测各组细胞凋亡,CCK-8检测各组细胞增殖抑制情况。收集细胞并进行裂解，提取细胞RNA与蛋白质,运用RT-RCR和Westermblot实验法检测转染RIP140-siRNA后的基因及蛋白质表达情况。结果对于肝脏库普弗细胞而言，在转染效率方面：嘌呤霉素筛选的慢病毒转染效率最高，可达 $90 \\%$ 以上;罗氏试剂其次;lipofectamine2000效果最差。在试剂的细胞毒性方面：流式细胞术及CCK-8检测结果显示罗氏试剂的细胞毒性最小,细胞可见其原有形态；慢病毒其次;lipofectamine 200 细胞毒性最大,可见多数细胞失去原有形态,并存在细胞裂解状态。RT-RCR和Westemn blot实验显示慢病毒转染RIP140-siRNA的肝脏库普氏细胞组无论在基因方面还是在蛋白质水平均明显低表达于lipofectamine 2000和罗氏试剂所转染的肝脏库普弗细胞组（ $( P { < } 0 . 0 5 )$ 。结论对于原代细胞肝脏库普弗细胞，在试剂转染方面，慢病毒转染方法可以达到理想的转染效率和较小的细胞毒性，且条件可控性与稳定性方面更加优越。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：肝脏库普弗细胞;转染效率；细胞毒性；RIP140-siRNA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Comparison of efficiency and cytotoxicity of different transfection reagents in transfect ing RIP140-siRNA into Kupffer cells ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Ji, LIU Zuojin   \nSecondClinicalolegeChongqingedicalnesityhgqingo6inaDpartmentofepatobiliaryugeo   \nAffiliated Hospital ofChongqing Medical University, Chongqing 40oo10,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective To compare theeficiencyand cytotoxicityof diferenttransfectionreagentsused in transfectionof RIP140-siRNA into Kupffercells tooptimize thetransfectionconditions.Methods Kupfercells were transfected with RIPI40-siRNA labeled with GFP as the reporter gene using lipofectamine 200,Roche reagent (X-treme GENE siRNA Transfection Reagent) and puro screening lentivirus $( 1 . 0 { \\times } 1 0 ^ { 8 } \\ \\mathrm { T U / m L } )$ ）as the transfection reagents. The transfection effect was observed under a fluorescent inverted microscope,and laser scanning confocal microscopy was used to analyze RIP140 expresion in trasnfected Kupfercels.Flowcytometry wasperformed todetect cellapoptosis,and CCK-8 test wasused to evaluate thecellproliferation inhibition.RT-CRand Western bloting were performed todetect theexpresions of RIP140 mRNA and proteininte trasnfectedcels.Results Puroscrening lentivirus yielded the highest celltransfection eficiency which exceeded $9 0 \\%$ ,followed by Roche reagent and thenby lipofectamine 20o.Flow cytometry and CCK-8 test showed that thecytotoxicitywas the mildest with Rochereagent,moderate withlentivirus,and severe with lipofectamine20o.Thecels trasnfectedwithlentivirus showedasignificantlylowerRIP140expressonthancellstrasnfectedwith lipofectamine20and Roche reagent $_ { ( P < 0 . 0 5 ) }$ . Conclusion In Kupffer cells，lentivirus-mediated transfection,as compared with the other two trasnfectionreagents，canachievegoodtransfectioneficiency witharelativeltylowcytotoxicityandallowsforbeter controllability and stability of the trasnfectiion conditions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: liver kupffer cell; transfection efficiency; cytotoxicity; RIP140-siRNA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "细胞转染是指将外源分子如DNA，RNA等导入真",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "核细胞的技术[]。目前，转染已成为研究细胞基因功能的常规方法。试剂转染方法在哺乳动物细胞可以取得较好的转染效率，但是针对难转染的巨噬细胞和淋巴细胞等原代细胞,不同的试剂有着不同的效果[2-4]。肝库普弗细胞是位于肝窦内表面的吞噬细胞，是巨噬细胞中极为特殊的一类，对于在肝脏组织内稳态，组织重构，调节代谢功能及实质细胞损伤的病理过程中起到了主要的作用，因为活化了的库普弗细胞会释放大量的中介因子从而改变了肝脏的微环境[5-]。因此,在肝脏的缺血再灌注损伤，非酒精性脂肪肝，肝硬化，炎症和肝脏的免疫耐受等多种病理过程中，库普弗细胞都有着至关重要的作用[8-12]。针对此细胞进行转染试剂和转染条件的筛选对进一步探寻肝脏多种疾病的发生发展机制有着重要的作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RIP140(Receptor-interacting protein 140）主要表达在代谢组织和器官,包括肝脏、肌肉或脂肪组织[13-15]。研究发现，在巨噬细胞中，RIP140作为NF $\\mathbf { \\sigma } _ { \\cdot \\kappa \\mathbf { B } }$ 的共刺激因子，通过募集CREB结合蛋白(CBP)来调节TLR介导的IL-2,IL-10,TNF- $\\mathfrak { a }$ 等炎症因子的产生[5-17]。据报道[15],，RIP140可能与内毒素耐受的机制密切相关。因此肝脏库普弗细胞表达的RIP140或许发挥着重要作用，仍需进一步探索。本实验初期通过3种不同的转染试剂转染RIP140-siRNA至肝脏库普弗细胞，对比其转染效率及细胞毒性，寻找出转染效率最理想的试剂和最佳的转染条件，为RIP140在肝脏内毒素耐受机制的后续研究做出了准备。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1实验材料与主要试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Lipofectamine 2OoO 购于Invitrogen公司,罗氏试剂(X-tremeGENE siRNA Transfection Reagent)购于罗氏诊断产品(上海)公司，标记有绿色荧光蛋白(GFP)的RIP140-siRNA质粒 $\\mathrm { 5 0 0 ~ n g / \\mu L }$ 和嘌呤霉素筛选的慢病毒 $\\mathrm { { ( 1 . 0 { \\times } 1 0 ^ { 8 } / U } }$ )均购于上海吉凯公司。总RNA提取与",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RT-PCR所用试剂为Takara试剂盒，总蛋白提取试剂为TRIZOL试剂盒(Invitrogen,USA),RIP140引物交由上海吉玛公司设计，RIP140一抗(ab3425,abcam)为兔抗鼠抗体，二抗为山羊抗兔抗体，购于碧云天公司。MTT（ $5 \\mathrm { m g / m L }$ ，Sigma,USA),肝脏库普弗细胞分离所用为IV型胶原酶(Sigma,St.Louis,MO),培养细胞所用为胎牛血清(Gibco,Aus)。实验所用动物为成年雄性BALB/c小鼠 $\\left( 8 0 { \\sim } 1 2 0 \\mathrm { g } \\right)$ ，购于重庆医科大学动物实验中心。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1肝脏库普弗细胞的分离与培养 在Percoll13描述的胶原酶消化与差速离心方法的基础上，我们做出一些改进，由随机分组的小鼠肝脏提取库普弗细胞。小鼠腹部去毛，做常规开腹，充分暴露肝脏，离断小鼠上腔静脉，于门静脉灌注无菌PBS至肝脏颜色变为灰白，行短暂肝切除，在装有 $3 0 \\mathrm { \\ m L } 0 . 0 1 \\%$ IV胶原酶的玻璃培养血中用精细镊快速碎肝并消化 $5 \\mathrm { m i n }$ 。将混合悬液水浴$3 0 \\ \\mathrm { m i n } , 3 7 \\ \\mathrm { ^ c }$ ,每隔 $1 0 ~ \\mathrm { m i n }$ 轻轻吹打混匀 $1 ~ \\mathrm { m i n }$ ，共3次。通过200目过滤网将混合悬液小心过滤至新的培养皿，于离心机 $3 0 0 \\ g$ 离心 $5 \\mathrm { m i n } , 4 \\mathrm { ~ \\textdegree C }$ ，共2次；每次弃上清液，将下层沉淀以新鲜培养基重悬；然后细胞悬液以$5 0 ~ g$ 离心 $3 \\ \\mathrm { m i n } , 4 \\ \\mathrm { ^ c }$ ，将上清液移至新的离心管中;最后,将细胞悬液于离心机 $3 0 0 \\ g$ 离心 $5 \\ \\mathrm { m i n } , 4 \\ \\mathrm { ^ c }$ 。以新鲜培养液重悬沉淀细胞颗粒，轻柔吹打 $1 \\mathrm { m i n }$ ,均匀种于6孔板中，放于 $3 7 \\%$ $\\mathrm { C O } _ { 2 }$ 细胞孵箱内培养， $^ { 2 \\mathrm { h } }$ 后待细胞稳定贴壁后更换新鲜培养液。所提取细胞行吞墨实验阳性，台盼蓝拒染率> $90 \\%$ （图1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3edb2686d38cb684d0cca32fad8799c6b6457ddf5556e6ab6e4ae12e74c70acd.jpg",
+        "img_caption": [
+            "图1库普弗细胞吞墨实验及台盼蓝染色 Fig.1 Swallowing ink experiment $( A )$ and Trypan blue staining (B) of Kupffer cells (Original magnification: $\\times 2 0 0$ ).TrypanBlueresistingratewas ${ > } 9 0 \\%$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2lipofectamine2000和罗氏试剂转染肝脏库普弗细胞分离库普弗细胞,以 $2 . 0 { \\times } 1 0 ^ { 5 } / \\mathrm { m L }$ 的细胞浓度接种于3个96孔板，备转染用。将lipofectamine2000和罗氏试剂与RIP140-siRNA质粒分别以不同比例加入到含DMEM总体积为 $1 0 0 ~ \\mu \\mathrm { L }$ 的EP管中(表1),轻轻混匀，分别 $3 7 ~ \\mathrm { ^ { \\circ } C }$ 水浴 $1 0 . 2 0 . 3 0 \\mathrm { m i n }$ ，然后将复合物均匀加入96孔板各孔，留空白对照孔，放于 $3 7 \\%$ $\\mathrm { C O } _ { 2 }$ 细胞孵箱内培养。12h后取出96孔板无菌PBS冲洗3次，更换新鲜培养基终止转染，继续培养细胞，24\\~96h后倒置荧光显微镜观察转染情况。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3慢病毒转染肝脏库普弗细胞分离库普弗细胞，以 $2 . 0 { \\times } 1 0 ^ { 5 } / \\mathrm { m L }$ 的细胞浓度接种于3个96孔板，备转染用，于 $- 8 0 \\mathrm { { ^ { \\circ } C } }$ 冰箱取出慢病毒在冰盒中融化，以下操作均在生物安全柜中进行。取慢病毒按不同比例加入到$1 0 \\mu \\mathrm { L }$ ploybrene溶液中(表2),另加DMEM使总体积为$1 0 0 ~ \\mu \\mathrm { L }$ ，轻柔吹打混匀复合液体后分别 $3 7 ~ \\mathrm { ^ { \\circ } C }$ 水浴10、",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/087ef1bdcfac10fbb3c24a8283edccffeb6a00a9d763f7236faef47861a5f2c5.jpg",
+        "table_caption": [
+            "表1lipofectamine 200o和罗氏试剂与质粒加入量的比例 Tab.1 Amount of lipofectamine 2Ooo,Roche reagent and plasmid used for transfection "
+        ],
+        "table_footnote": [
+            "A-F for the amount of lipofectamine 2OoO and rochereagent,a-e for the amount of plasmid "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>1 μL(A)</td><td>5 uL(B)</td><td>10 μL(C)</td><td>15 μL(D)</td><td>20 μL(E)</td><td>25 μL(F)</td></tr><tr><td>2 μg (b)</td><td>A-a</td><td>B-a</td><td>C-a</td><td>D-a</td><td>E-a</td><td>F-a</td></tr><tr><td>4 μg (b)</td><td>A-b</td><td>B-b</td><td>C-b</td><td>D-b</td><td>E-b</td><td>F-b</td></tr><tr><td>6μg(c)</td><td>A-c</td><td>B-c</td><td>C-c</td><td>D-c</td><td>E-c</td><td>F-c</td></tr><tr><td>8 ug(d)</td><td>A-d</td><td>B-d</td><td>C-d</td><td>D-d</td><td>E-d</td><td>F-d</td></tr><tr><td>10 μg(e)</td><td>A-e</td><td>B-e</td><td>C-e</td><td>D-e</td><td>E-e</td><td>F-e</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$2 0 . 3 0 \\mathrm { m i n }$ ,均匀加入到96孔板中，留空白对照孔，放于$3 7 \\ \\%$ $\\mathrm { C O } _ { 2 }$ 细胞孵箱内培养。12h后取出96孔板无菌PBS冲洗3次，更换新鲜培养基终止转染，继续培养细胞，24\\~96h后倒置荧光显微镜观察转染情况。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f0232cc4b72331c1bc8bab6b6e47e48e3b28c1851ba73e499c0e2af6eccf965f.jpg",
+        "table_caption": [
+            "表2慢病毒加入量与慢病毒滴度的比例Tab.2 Amount and titer of lentivirus added for transfection"
+        ],
+        "table_footnote": [
+            "A-F:Amount of lentivirus;a-e: Titer of lentivirus. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>1 μL(A)</td><td>5μL(B)</td><td>10 μL(C)</td><td>15 μL(D)</td><td>20 μL(E)</td><td>25 μL(F)</td></tr><tr><td>1.0x10U/mL(a)</td><td>A-a</td><td>B-a</td><td>C-a</td><td>D-a</td><td>E-a</td><td>F-a</td></tr><tr><td>1.0x10 U/mL(b)</td><td>A-b</td><td>B-b</td><td>C-b</td><td>D-b</td><td>E-b</td><td>F-b</td></tr><tr><td>1.0x10U/mL(c)</td><td>A-c</td><td>B-c</td><td>C-c</td><td>D-c</td><td>E-c</td><td>F-c</td></tr><tr><td>1.0×10 U/mL(d)</td><td>A-d</td><td>B-d</td><td>C-d</td><td>D-d</td><td>E-d</td><td>F-d</td></tr><tr><td>1.0×10U/mL(e)</td><td>A-e</td><td>B-e</td><td>C-e</td><td>D-e</td><td>E-e</td><td>F-e</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.4激光扫描共聚焦显微镜分析不同试剂转染后细胞RIP140的表达我们应用激光扫描共聚焦显微镜观察3种不同转染试剂转染库普弗细胞后RIP140的表达情况，形成荧光标记的细胞结构的整体形象，显示荧光形态结构的准确定位。PBS冲洗转染后细胞,保持细胞湿润， $4 \\%$ 多聚甲醛固定细胞 $3 0 ~ \\mathrm { m i n }$ ,Triton打孔 $1 0 ~ \\mathrm { m i n }$ $5 \\%$ BSA封闭 $^ \\textrm { \\scriptsize 1 h }$ ，加入一抗(稀释比 $1 : 8 0$ )过夜， $4 \\mathrm { { ^ \\circ C } }$ O加入二抗(稀释比 $1 : 5 0 0 ) 1 \\ \\mathrm { h } , 3 7 \\ \\mathrm { \\textbar { C } } .$ 。PBS冲洗后加入DAPI,室温放置 $5 \\mathrm { m i n }$ 后，再用PBS冲洗，最后行激光扫描共聚焦显微镜观察细胞。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.5RT-PCR量化不同试剂转染后细胞RIP140基因的表达为了确认RIP140-siRNA转染后的干扰效率，我们采用RT-PCR方法来量化RIP140基因的表达。应用TRIZOL试剂盒分别提取3种不同试剂转染细胞后的总RNA，逆转录后按照RT-PCR试剂盒进行基因的定量分析。RIP140的引物，正义链：5'-CCATCAATCTTTCCCAGCAC-3'；反义链： $5 ^ { \\prime }$ -GGACTCTTTGCCTTTCGTGA-3'。 $\\beta \\mathrm { . }$ -actin的引物，正义链：5'-TGACGTGGACATCCGCAAAG-3';反义链:5'-CTGGAAGGTGGACAGCGAGG- $. 3 ^ { \\prime }$ 。RIP140的相对量根据 $2 ^ { - \\Delta \\Delta \\mathrm { C T } }$ 值进行计算，每个样本均与 $\\beta$ -actin的表达量进行对比，实",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "验操作重复3次。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.6WesternBlotting检测不同试剂转染后细胞RIP140蛋白质的表达我们采用WesternBlotting检测不同试剂转染后细胞RIP140蛋白质的表达，来确定转染效率。使用RIPA裂解液分别提取3种不同试剂转染细胞后的总蛋白,进行WesternBlottng检测。RIP140一抗稀释比为1:500,GAPDH一抗稀释比为1:1000,二抗稀释比为 $1 : 2 0 0 0 .$ 。使用Bandscan5.0,根据GAPDH条带的相对吸光度来量化RIP140的相对表达量。实验操作均重复3次。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.7CCK-8检测库普弗细胞增殖分离库普弗细胞，调整细胞悬液密度，以 $1 \\times 1 0 ^ { 4 } .$ 孔的密度将细胞种于96孔板中，将3种转染试剂以最佳剂量分别加人各板中，每组设3个复孔，留阴性对照细胞组。每 $2 4 , 4 8 , 7 2 , 9 6 \\mathrm { ~ h ~ }$ 加入CCK-8溶液 $1 0 ~ \\mu \\mathrm { L }$ ,继续孵育 $2 \\mathrm { ~ h ~ }$ 。使用酶标仪在$4 5 0 \\ \\mathrm { n m }$ 波长处测定吸光度值(A),并计算细胞增殖抑制率(IR):IR $\\scriptstyle = \\left[ 1 \\right.$ -实验组A $( 4 5 0 ~ \\mathrm { n m } )$ 对照组 $\\mathrm { A } ( 4 5 0 \\ \\mathrm { n m } ) ] \\times$ $100 \\%$ ，实验操作均重复3次以上。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.8 流式细胞术检测库普弗细胞凋亡分离库普弗细胞，将细胞以 $2 { \\times } 1 0 ^ { 5 } / \\mathrm { m L }$ 的密度种于4个培养血中，按最佳剂量分别加入3种转染试剂，留阴性对照组。转染试剂加入96h后,消化细胞并调整细胞密度为 $1 \\mathrm { { \\times 1 0 ^ { 6 } / m L } }$ 0PBS冲洗2次，离心后加入1mLPBS吹打均匀，分别加入AnnexinV-FITC和PI,室温避光孵育 $1 5 \\mathrm { m i n }$ ，测定细胞凋亡率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.9统计学分析本实验所有操作均重复至少3次，计量资料以均数 $\\cdot \\pm \\dot { }$ 标准差表示，两组间比较采用独立样本t检验，数据分析采用SPSS19.0统计软件，以 $P { < } 0 . 0 5$ 为差异有统计学意义。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1倒置荧光显微镜观察不同试剂转染后的细胞形态 与转染率 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Lipofectamine2000,罗氏试剂转染库普弗细胞在$4 8 \\mathrm { h }$ 达到高峰，慢病毒转染在 $7 2 \\mathrm { { h } }$ 后达到高峰。倒置荧光显微镜观察各组不同转染条件后绿色荧光表达情况：慢病毒转染组(表2C-a，10min)的转染率最高(图2C1)，在 $90 \\%$ 以上;罗氏试剂转染组(表1B-a,20min)转染率最高(图2A1);lipofectamine 2000转染组(表1 $\\mathbf { B } \\mathbf { - } \\mathbf { b } , 3 0 \\mathrm { m i n } ,$ ）转染率最高(图2B1)。对比3种试剂转染率最高的细胞组发现，慢病毒转染组(表 $2 \\mathrm { C } \\mathrm { - } \\mathrm { a } , 1 0 \\mathrm { m i n }$ 的转染率最高(图2C1)。在细胞形态方面：罗氏试剂转染后细胞形态最稳定，而lipofectamine2000和慢病毒转染组的细胞形态相对较差(图2A2，B2，C2)。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7cba3eeb66deb7c5eddcc4792e9cdc893f5f8403f86ab7a3a3ad9b30ceba7fa1.jpg",
+        "img_caption": [
+            "图23种转染试剂对库普弗细胞的转染情况 Fig.2Kupffer cells transfected using the 3 transfection reagents (Original magnification: $\\times 2 0 0$ ).A1,A2:Lipofectamine 2000(Tab.1B-b,30 min);B1,B2:Roche regent(Tab.2B-a,20 min);C1,C2:Lentivirus(Tab.3C-a, $1 0 \\mathrm { m i n }$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2不同试剂转染后细胞核RIP140的表达情况",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "我们通过激光扫描共聚焦显微镜观察3种试剂转染后细胞核中RIP140的表达情况，对比阴性对照组细胞RIP140的干扰情况发现,lipofectamine2000和罗氏试剂转染后，细胞核RIP140表达减少不明显，对RIP140的干扰表达效果差；而慢病毒转染组的细胞核RIP140表达最少，干扰效果明显(图3)。这也证实了慢病毒转染RIP140-siRNA的效率最高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3不同试剂转染RIP140-siRNA后的沉默效果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "我们采用RT-PCR检测出3种试剂转染库普弗细胞后的RIP140mRNA水平。3个不同的转染组与阴性对照组相比较，明显可见慢病毒转染siRNA后对于细胞RIP140基因的沉默效果明显优于lipofectamine2000和罗氏试剂转染siRNA后对于RIP140基因的沉默效果，差异具有统计学意义 ${ \\cdot } P { < } 0 . 0 5$ ，图4A)。另一方面，3个转染组转染RIP140-siRNA后的WesternBlotting检测结果显示(图4C)，RIP140蛋白质的干扰表达效果与mRNA的干扰效果具有显著的一致性( $_ { P < 0 . 0 5 }$ ，图4B）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4不同转染试剂转染后细胞凋亡情况及细胞毒性的对比",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "流式细胞术结果显示：lipofectamine20o0细胞组凋亡率 $( 2 5 . 9 1 \\%$ )显著高于阴性对照组 $( 2 . 5 2 \\%$ ， $P <$ 0.05)，罗氏试剂细胞组凋亡率 $( 5 . 0 5 \\%$ )与阴性对照组$( 2 . 5 2 \\%$ )无统计学差异 $( P { > } 0 . 0 5 )$ ，慢病毒细胞组凋亡率中 $( 1 7 . 0 0 \\%$ )高于阴性对照组（ $2 . 5 2 \\%$ ， $P { < } 0 . 0 5$ ，图5）。CCK-8结果显示:lipofectamine2000细胞组A值于 $4 8 \\mathrm { ~ h ~ }$ 后显著高于阴性对照组 $( P { < } 0 . 0 5 )$ ，罗氏试剂细胞组A值与阴性对照组无显著差异 $( P { > } 0 . 0 5 )$ ,慢病毒细胞组A值于$9 6 \\mathrm { h }$ 高于阴性对照组且具有统计学意义( $\\scriptstyle \\left( P < 0 . 0 5 \\right.$ ，图6。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目前，应用于细胞和组织的转染方法多种多样，",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff712a31471ba8cf458f23bfb3c88470e66eaf1200e001137d8b4edde480849e.jpg",
+        "img_caption": [
+            "图33种转染试剂转染库普弗细胞后细胞核RIP140表达情况",
+            "图43种试剂转染库普弗细胞后RIP140mRNA和蛋白质的相对表达量Fig.4Relativeexpressonof0iAandprotesinupercelsfterasfectonitlipfectaeoochetdlentivirus $( ^ { * } P { < } 0 . 0 5 )$ ："
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.3ExpressonofIP140inKupfercellnucleusaftertransfectionwithlipofectamine2o,Rocheregentandlentivirus RIP140-siRNAs was visualized by laser scanning confocal microscopy (Original magnification: $\\times 1 0 _ { , } ^ { \\cdot }$ .GFPlabeled RIP-siRNA immunoflorescence is indicated in green and DAPI-stained nuclei in blue. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "orerrseeeeneer 6 oerrseeeeeerer 5 山   \nPPl e lilriirr 54 I PPT1 T IIIIY 4 GAPDH 3   \n3 RIP140   \n2 2 Normal 2000 Roc che entivirus   \n1 1 Lipofectamine2   \n0 0   \nNormal e2000 Roche Lentivirus Normal e2000 Roche Lentivirus   \nLipofectamine2 Lipofectamine2 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "lipofectamine2000介导的基因转导方法虽然简便易行,但是并非适合所有的细胞种类[18-19]。而罗氏试剂是近年来新兴的一种转染试剂,具有更为简便操作手法，更低的细胞毒性，更高的转染效率，能够很好的保持细胞的原有形态[18]，这与本实验中罗氏试剂与lipofectamine2000的比较结果是一致的，但是对于难转染的细胞，尤其是原代细胞的转染效果并不理想。随着对基因领域研究的逐步加深，将外源基因整合入宿主细胞也成为必经的过程，因而细胞转染成为了主流的科研和临床工具，如何保证高效的转染效率，尤其是对于难转染的细胞和原代细胞，对进一步的实验研究是至关重要的。研究表明，利用病毒作为载体是目前最为特异和高效的基因转导方法，但是也存在着自身的缺点，如安全性,细胞毒性和免疫原性等等[21-25],这也是病毒转染的主要问题。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/92c2a589cb5c16e96c41ff675ec1688b1e8471741d55a0a039862f95559ec4b6.jpg",
+        "img_caption": [
+            "图5流式细胞术检测各组库普弗细胞细胞凋亡情况 Fig.5FlowcetryforeteigKupercellaotoss.A:Noalcels;:Lipofectae; Cocherget;DLus. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/df17edb1f4446db0104313e2f89a67d1cec1dce5a3ea0dcd86447fd748cc6ca6.jpg",
+        "img_caption": [
+            "图6CCK-8检测各组细胞的增殖情况 Fig.6CCK-8 test of cell proliferation in each group at different time points following the transfection. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于肝脏库普弗细胞的转染研究仍相对匮乏，而对于此细胞的转染方式与条件更缺少相关的科学研究，目前，应用于库普弗细胞的转染方法大多为lipofectamine2000，罗氏试剂和慢病毒，而这几种转染方式各自的优缺点以及最佳转染条件未曾得知。由于库普弗细胞在肝脏中起着至关重要的作用，所以寻找库普弗细胞的最佳转染方法与条件是开启此细胞功能性研究的一把钥匙。本实验通过3种不同的转染试剂,lipofectamine2000，罗氏试剂和慢病毒将RIP140-siRNA转导入肝脏库普弗细胞。结果显示，对于原代细胞而言，以肝脏库普弗细胞为例,lipofectamine 200o表现出了非常低的转染效率，激光共聚焦显微镜显示转然后，细胞核RIP140仍然存在较高的表达,PCR与Western Blotting也检测出了RIP140基因和蛋白质的干扰表达效果不明显。罗氏试剂则在细胞毒性方面展示了优势，对于库普弗细胞而言，转染效率一般，激光共聚焦显微镜，PCR与WesternBlotting显示siRNA的沉默效果达不到理想的效果。慢病毒转染后，倒置荧光显微镜可观察到 $90 \\%$ 以上的绿色荧光，激光共聚焦显微镜，PCR与Westernblotting显示siRNA的沉默效果较lipofectamine 2000和罗氏试剂有着显著的优势，其干扰效果可以达到后续实验研究的要求。在细胞毒性方面， $2 4 \\mathrm { h }$ 以内，3者没有明显的毒性差异，随着时间的推移，罗氏试剂一直保持着非常低的细胞毒性，而慢病毒与lipofectamine 2000都影响着库普弗细胞的正常凋亡进程。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上所述，针对肝脏库普弗细胞的转染，综合对比分析细胞毒性和转染效率,慢病毒为最佳试剂转染方式，并优化出了病毒的加人量及其参数，以将其细胞毒性控制在最小范围内，更好的维持库普弗细胞的生理状态。本实验筛选出的高效稳定转染率及低细胞毒性的转染方法与条件，为肝脏库普弗细胞的基因领域研究打下基础，进而更准确的探究相关基因与蛋白在库普弗细胞中的功能和机制，更好的解决库普弗细胞相关的临床疾病问题。对RIP140-siRNA在库普弗细胞的转染做了初步的探索，为后续RIP140在库普弗细胞内毒素耐受机制的实验研究做出了准备。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Caracciolo G,Amenitsch H. Cationic liposome/DNA complexes: fromstructure to interactions with cellular membranes [J].Eur Biophys J,2012,41(10): 815-29.   \n[2]Suzuki R,Oda Y, Utoguchi N,et al.Progress in the development of ultrasound-mediated gene delivery systems utilizing nano- and microbubbles[J].JControl Release,2011,149(1):36-41.   \n[3]Chettab K,Roux S,Mathé D,et al. Spatial and Temporal Control of Cavitation Allows High In Vitro Transfection Efficiency in the Absence of Transfection Reagents or Contrast Agents [J].PLoS One,2015,10(8): e0134247.   \n[4]Mintzer MA, Simanek EE.Nonviral vectors for gene delivery[J]. Chem Rev,2009,109(2): 259-302.   \n[5]Mcgregor AH,More LJ,Simpson KJ,et al．Liver death and regeneration in paracetamol toxicity[J].Hum Exp Toxicol,2003,22 (4): 221-7.   \n[6]Su GL.Lipopolysaccharides in liver injury:molecular mechanisms of Kupffer cell activation[J].Am J Physiol Gastrointest Liver Physiol, 2002,283(2): G256-65.   \n[7]Bergheim I,Weber S,Vos M,et al.Antibiotics protect against fructose-induced hepatic lipid accumulation in mice: role of endotoxin[J].JHepatol,2008,48(6): 983-92.   \n[8]Thomson AW, Knolle PA.Antigen-presenting cell function in the tolerogenic liver environment[J].Nat Rev Immunol,201o,10(11): 753-66.   \n[9]Dixon LJ,Barnes M,Tang H,et al.Kupffer cells in the liver[J]. Comp Physiol,2013,3(2): 785-97.   \n[10]Xu J,Liu X,Gao B,et al.New Approaches for Studying Alcoholic Liver Disease[J].Curr Pathobiol Rep,2014,2(4): 171-83.   \n[11]Thomson AW,Geller DA,Gandhi C,et al．Hepatic antigenpresenting cells and regulation of liver transplant outcome [J]. Immunol Res,2011,50(2/3): 221-7.   \n[12]Musso G,Gambino R,Cassader M. Cholesterol metabolism and the pathogenesis of non-alcoholic steatohepatitis[J]. Prog Lipid Res,2013,52(1): 175-91.   \n[13] White R,Morganstein D,Christian M,et al.Role of RIP140 in metabolic tissues: connections to disease[J].FEBS Lett,2008,582 (1): 39-45.   \n[14]Fritah A,Christian M,Parker MG.The metabolic coregulator RIP140:an update[J].Am JPhysiol Endocrinol Metab,2010,299 (3):E335-40.   \n[15]Ho PC,Tsui YC,Feng X,et al.NF-kB-mediated degradation of the coactivatorRIPl40regulatesinflammatoryresponsesand contributes to endotoxin tolerance[J].Nat Immunol,2012,13(4): 379-86.   \n[16] Zschiedrich I,Hardeland U,Krones-Herzig A,et al.Coactivator function of RIP140 for NFkappaB/RelA-dependent cytokine gene expression[J].Blood,2008,112(2): 264-76.   \n[17]Nautiyal J,Christian M,Parker MG.Distinct functions for RIP140 indevelopment,inflammation,andmetabolism [J].Trends Endocrinol Metab,2013,24(9): 451-9.   \n[18] Li F, Yamaguchi K,Okada K,et al. Efficient transfection of DNA into primarily cultured rat sertoli cells by electroporation[J].Biol Reprod,2013,88(3): 61.   \n[19]Cao F,Xie X,Gollan T,et al. Comparison of gene-transfer efficiency in human embryonic stem cells[J].Mol Imaging Biol, 2010,12(1): 15-24.   \n[20] Sunshine JC,Sunshine SB，Bhutto I,et al.Poly( $\\beta$ -amino ester)-nanoparticlemediated transfection ofretinalpigment epithelial cells in vitro and in vivo [J].PLoS One,2012,7(5): e37543.   \n[21] Ibraheem D,Elaissari A,Fessi H. Gene therapy and DNA delivery systems[J].Int JPharm,2014,459(1/2): 70-83.   \n[22] Bouard D,Alazard-Dany N,Cosset FL.Viral vectors: from virology to transgene expression[J].Br JPharmacol, 2009,157(2): 153-65.   \n[23] Jin L,Zeng X,Liu M,et al. Current progress in gene delivery technology based on chemical methods and nano-carriers [J]. Theranostics,2014,4(3): 240-55.   \n[24]McLenachan S, Zhang D,Palomo AB,et al. mRNA transfection of mouse and human neural stem cell cultures[J].PLoS One,2013,8 (12):e83596.   \n[25] Wang T, Warren ST, Jin P. Toward pluripotency by reprogramming: mechanisms and application[J].Protein Cell, 2013,4(11): 820-32. (编辑:经媛) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

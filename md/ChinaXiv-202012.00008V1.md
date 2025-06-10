@@ -1,0 +1,171 @@
+# 中国特有种苦绳（广义夹竹桃科）的大小孢子发生和雌雄配子体发育及其分类学意义
+
+艾 静1²，李 璐1\*，王艳萍1²，郭辉军²
+
+(1．西南林业大学 生物多样性保护学院，昆明 650224；2．西南林业大学 生命科学学院，昆明 650224)
+
+摘要：近年来的分子系统学把狭义萝蘑科和狭义夹竹桃科合并为广义夹竹桃科，包括5个亚科和25个族，但亚科和族间的亲缘关系较为复杂，亟待多学科证据澄清。本文利用常规石蜡切片技术观察了马利筋亚科南山藤属中的中国特有植物苦绳（Dregea sinensis Hemsl.var.Sinensis）的大小孢子发生和雌雄配子体发育，结合已有资料比较了5个亚科的胚胎学特征，结果表明：（1）苦绳的花药由一对侧生并列药室组成，每个药室有一个花粉团；（2）花药壁有6层，由外至内分别为表皮、2层药室内壁、中层和2层绒毡层，花药壁发育模式属于多层型；（3）单核绒毡层细胞排成2列，为腺质型；在小孢子四分体形成时期，药室内壁发生明显纤维状加厚；花药成熟时，位于药室远轴最外侧处的花药壁发生断裂，准备散粉；（4）小孢子母细胞减数分裂胞质分裂为连续型，小孢子四分体排列方式为左右对称型；成熟花粉粒为 3-细胞型，排列紧密，形成花粉团；（5）雌蕊含有两枚离生心皮，具边缘胎座，胚珠倒生，单珠被，薄珠心，蓼型胚囊。苦绳的大小孢子发生和雌雄配子体的发育特征补充了南山藤属的胚胎学资料。同时，胚胎学特征在5个亚科间的区别和联系，支持广义夹竹桃科的确立。
+
+关键词：广义夹竹桃科，苦绳，大小孢子发生，雌雄配子体发育，分类学意义
+
+中图分类号：Q949文献标识码：A
+
+# Sporogenesis and gametogenesis in Chinese endemic plant of Dregea sinensis Hemsl. var. sinensis (Apocynaceae sensu lato） and their
+
+# taxonomic insights
+
+AI Jing1,²,LI Lu1\*, WANG Yanping1², GUO Huijun² (1.Department of Biodiversity Conservation,Southwest Forestry University,Kunming 65o224,China
+
+2.Department of Life Science,Southwest Forestry University,Kunming 65O224,China)
+
+Abstract: It was showed that Asclepiadaceae s.str. and Apocynaceae s.str: should be combined as a monotypic family of Apocynaceae s.l. based on molecular data,including 5 subfamilies and 25 tribes.However, the subfamilial and tribal relationships were needed to be further clarified. Sporogenesis and gametogenesis in Chinese endemic plant of Dregea sinensis Hemsl. var.sinensis（trib.Marsdenieae,subfam. Asclepiadoideae） were investigated using parafin sectioning,and then the embryological characters observed were compared with those of 5 subfamilies for taxonomic insights.The anther was comprised of two lateral thecae containing a pair of polinia.The developed anther wall consisted of 6 layers，including an epidermis,2 layers of endothecium,a middle layer,and 2-layered tapetum. So,the anther wall development was of masive type.The tapetum was uni-nucleated,and of glandular type.Endothecium developed fibrous thickenings heavily and a slit occurred at abaxial position of each theca when anther was ripened.The polygonal microspore mother cells were arranged tightly in theca. They underwent a meiosis with a succesive cytokinesis and produced microspore tetrads with isobilateral arrangements.The microspores retained in tetrads developed into 3-celled pollens by mitosis twice, which formed a compact polinium.The pistil was composed of two separate carpels containing many anatropous,tenuinucellar,and unitegmic ovules with marginal parietal placentations.The development of embryo sac conformed to the Polygonum type.These embryological features observed added new data to the trib. Marsdenieae. It was confirmed that the recognition of a monophyletic Apocynaceae s. l. was supported by some distinguished and related embryological characters among five subfamilies.
+
+Key words: Apocynaceae sensu lato, Dregea sinensis, gametogenesis, sporogenesis,taxonomic significance
+
+长期以来,萝蘑科(Asclepiadaceae R.Brown)和夹竹桃科(Apocynaceae A.L.Jusseud）的分类系统备受人们关注，面临着独立或合并的分类学争论。早在1810年，Robert Brown把Jusseu's建立的夹竹桃亚目（Apocineae）中包含着的萝蘑类成员（asclepidads）分离出来，创建了萝蘑科。在此后的200 多年里，植物系统学家根据形态学接受了夹竹桃科和萝藦科的分类概念，认为两个科的亲缘关系较近（蒋英和李秉涛，1977；Cronquist,1981;Liet al.,1995）。不过，近 20多年来，分子系统学研究（Sennblad& Bremer,1996;Endress etal.,1996;Endress &Bruyns,2000; Potgieter &Albert,2001,2014）认为，这两个科都不是单系，但合并在一起就构成稳定的单系，可以处理为包含着5个亚科、25个族和 366属的广义夹竹桃科(Apocynaceae sensu lato） (Endress et al.,2014)。其中，有 3个亚科来自狭义萝蘑科(Asclepidaceae sensustricto)，包括马利筋亚科(Asclepiadoideae)、鲫鱼藤亚科(Secamonoideae)、杠柳亚科(Periplocoideae)；另外 2个亚科来自狭义夹竹桃科(Apocynaceae s.str:)，即夹竹桃亚科(Apocynoideae)和萝芙木亚科(Rauvolfioideae）（表1）。
+
+然而，由于分子系统研究中涉及到的取样范围的覆盖面和代表性问题（Endress et al.,2014），广义夹竹桃科内亚科、族、亚族和属级的亲缘关系尚不明确，需要更多学科证据来澄清(Liede et al.,2000;Simoes et al.,2004; Goyder et al.,2007; Lahaye et al.,2007; Livshultz,2010; Nazar et al.,2019）。重建一个合理的植物分类系统的最好方法是把形态学和分子生物学证据紧密结合起来(Endress et al.,2014)。近年来的形态学研究为广义夹竹桃科内尚未解决的属级分类学问题提供了新证据，包括木材形态解剖学（Lenset al.,2008,2009)，花部结构(Liede & Kunze,1993; Kunze,1996,2005;Wanntorp& Kunze,2009; Nam &Chung,2019;El-Fiki etal.,2019)和花粉形态（Venter& Verhoeven,2001;Guven etal.,2015)。现有资料表明，狭义夹竹桃科和狭义萝蘑科的胚胎学特征在亚科、族和属间变化多样，具有明显的分类学意义（Maheshwari,1964; Mulay et al.,1965;Davis,1966；Lakshminariayana,1989; Jhori etal.,1992；王定康等，2011；刘鹏等,2016）。
+
+南山藤属(Dregea Mey.)是狭义萝蘑科马利筋亚科牛奶菜族(trib.Marsdenieae)中一类多年生攀援藤本，包括12种，分布于亚洲和非洲；我国有4种及4变种，集中分布在南部（蒋英和李秉涛，1977;Li et al.,1995）。除南山藤[D.volubilis(L.f.)Benth.ex Hook.f.]外，其余3种及4变种都为中国特有种，包括生长在我国南方亚热带山地的苦绳(D.sinensis Hemsl.)。苦绳富含多种活性成分（金岐端和木全章，1989；Wei etal.,2020），全株药用，幼嫩花蕾在我国滇中地区可食。它有2个变种：原变种苦绳(D.sinensisHemsl.var.sinensis)和变种贯筋藤[D.sinensis Hemsl.var. corrugata (Schneid.) Tsiang et Li]。本研究利用常规石蜡切片技术观察了苦绳的大小孢子发生和雌雄配子体发育，为广义夹竹桃科的系统分类补充胚胎学资料，也为进一步合理开发利用苦绳野生资源提供繁殖生物学基础。
+
+# 1材料和方法
+
+研究材料取自云南省澄江市（地理信息： $1 0 3 ^ { \circ } 0 1 ^ { \prime } 4 3 . 0 3 ^ { \prime \prime } \mathrm { E }$ 、 $2 4 ^ { \circ } 4 2 ^ { \prime } 2 1 . 1 5 ^ { \prime \prime } \mathrm { N }$ ；澄江市中药资源普查采集的凭证标本号：5304220329，存于西南林业大学标本馆）。在2019年3-4月，采集不同发育时期的花蕾和开放花，固定并保存于FAA固定液（甲醛：冰醋酸： $5 0 \%$ 酒精 $= 4 \colon 6 \colon 9 0 \ \cdot$ ）。常规石蜡切片（厚度为 $7 \sim 1 2 ~ \mu \mathrm { m } ,$ ），铁矾-苏木精染色，树脂封片，Nikon E600 显微镜下观察拍照，PhotoshopCS 6.0 制作
+
+图版。
+
+# 2结果与分析
+
+# 2.1苦绳的花药壁发育
+
+苦绳花具5枚雄蕊，每个花药具一对侧生并列花药室（图版I:1）。小孢子母细胞时期，花药壁发育完全，由外到内共有6层，分别为表皮、2层药室内壁、中层和2层绒毡层（图版I:2），花药壁发育类型为多层型（Massivetype）（Sood,1989）。此时，表皮细胞不发达，细窄；2层药室内壁细胞分化不成熟，排列不整齐；中层细胞长条形，2层绒毡层细胞较发达（图版I:2）。小孢子母细胞进入减数分裂I时，表皮细胞保持细长形轮廓；2层药室内壁细胞体积增大，呈阔方形；中层细胞核明显，继而变窄开始降解；绒毡层细胞最发达，呈圆球形，细胞核明显，为单核（图版I:3,4）。小孢子母细胞减数分裂Ⅱ时，表皮细胞轮廓明显；2层药室内壁细胞进一步分化为长方形，且外层比内层细胞较大，均出现了不同程度的纤维状加厚；中层和绒毡层细胞进一步降解（图版I:5-6）。小孢子四分体形成时期，表皮细胞开始齿状退化，药室内壁细胞径向纤维状加厚加剧；中层和绒毡层逐步退化，仅留残迹（图版I:7-10）。雄配子体发育过程中，花药壁在花药室远轴端一侧逐步降解变细（图版I:1112）；到3-细胞型花粉时期，花药壁发生断裂，形成花粉裂口，露出排列紧密的花粉团，准备散粉（图版I:13,14）。
+
+![](images/b94517d087398cf939e65ca208e44a32a64cc6ba3903c01acb0ac1c0d68f618b.jpg)
+
+1.一朵花的横切面，示5枚雄蕊围绕着合蕊冠排成一轮，花药由一对侧生药室组成；2.花药室纵切，示小孢子母细胞时 期的花药壁，从外到内为：表皮、2层药室内壁、中层、1～2层绒毡层；3,4.小孢子母细胞减数分裂I时的花药壁，示表 皮细胞细窄，药室内壁、中层和绒毡层细胞发达，且绒毡层单核，2列；5.6.小孢子母细胞减数分裂Ⅱ时的花药壁，注意： 药室内壁出现纤维状加厚，中层和绒毡层继续降解；7-10.小孢子四分体时期的花药壁，注：药室内壁纤维状加厚明显， 表皮细胞齿状退化；11,12.花药室横切面，示雄配子体发育过程中，花药室远轴端变薄开裂，2-细胞花粉时期（12），花 药室出现降解；13.14.成熟花药的横切面，示3-细胞花粉时期的花药壁的开裂，花药室横切面的远轴端出现断裂，形成 花粉裂口，准备散粉。ct.药隔组织；ep.表皮细胞；en.药室内壁；g.合蕊冠；ml.中层；t.花药室；ta.绒毡层。 1.Crosssectionofaflower,showing5anthersinawhorlaroundagynostegium;2.Longitudinalsectionofanantheratthemother microsporecels,cludinganpideis,-layerededothei,dleayerand1-laersoftapetum;3,4.Antheallte stageof meiosisIofmicrosporemothercels,notinganarrowedepidermis,2-layeredenlargedendothecium,adevelopedmiddle layer,and2-layeredanduninucleate tapetum；5.6.Antherwallatthestageof meiosisIof microsporemothercels,noting enlargedand fibrous thickened endothecium,andthedebrisof middlelayerand tapetum;7-10.Antherwallatthestageof microsporetetrads,notingseriouslythickenedendotheciumand tothedepidermis;11,12.Antherwallatthestageof2-celed polens,otingteeavilybrousendothim;1314.Anterwallatthetestageof-celledpensindicatingthefoatiof aslitinaripenedanther.ct.Connectivetisue; ep.Epidermis;en.Endothecium;g.Gyostegium;ml.Middlelayers;t.Tecae;ta. Tapetum.
+
+图版I 苦绳Dregea sinensisHemsl.var.sinnesis 的花药壁发育
+
+Plate IAnther wall development in Dregea sinensis Hemsl. var. sinensis
+
+# 2.2苦绳的小孢子发生及雄配子体发育
+
+早期花药发育阶段，花药纵切面上，小孢子母细胞排列紧密，呈不规则长矩形（图版ⅡI：1），小孢子母细胞减数分裂I后期，形成两个子核（图版ⅡI:2），接着出现明显的子细胞壁，产生了小孢子二分体（图版II:3）。小孢子母细胞减数分裂Ⅱ时期，二分体细胞继续分裂，各自形成2个子核（图版I:4），逐渐移向两极，同时子细胞壁分化明显，发育为小孢子四分体（II：5,6），在花药横切面上呈左右对称，排列紧密（图版II:6,7）。因此，小孢子发生的胞质分裂方式为连续型。接着，小孢子继续保持在四分体内完成第一次有丝分裂，产生了两个子细胞（图版II:8）。其中，一个子细胞分化为营养细胞，另一个子细胞继续分裂形成两个精细胞，即一对精细胞，发育为3-细胞型花粉（图版II:9,10）。3-细胞型花粉继续保持在四分体内，形成四合花粉。四合花粉紧密排列，发育为一长棒状花粉团，其横切面为短椭圆形（图版II:11），纵切面为长椭圆形（图版ⅡI:12）。
+
+![](images/65b6afd9b711bd18102fec766018048857d87de0e160a4b708e9ffe41425606f.jpg)
+
+1.花药纵切面，示小孢子母细胞轮廓为长矩形；2.3.小孢子二分体的形成，减数分裂I后期（2）形成2个子核，减数分裂I末期（3）分化出明显的子细胞壁（箭头所示，3）；4.小孢子母细胞减数分裂Ⅱ后期，小孢子二分体继续分裂，形成2个子核，逐渐移向两极；5-7．小孢子四分体间的细胞壁逐渐明显，多为左右对称排列；8.小孢子保持在四分体内，通过有丝分裂形成两个子细胞（箭头所示，8）；9.10.3-细胞型花粉的形成，注意一个子细胞分化为营养细胞，另一个子细胞继续分裂形成两个精细胞（箭头所示，9，10）；11,12.成熟的花粉团呈长条形，横切面为短椭圆形（11），纵切面为长椭圆形（12）。ve.营养细胞；sp.生殖细胞。  
+1.Longitudinalsctionfananthr,dicatingmicrosporemothercelswithctangleoutlies;23.Formationofrospoedyad,indicating acell wallbetween twodaughtercels (arrowin3); 4.Formationofmicrospore tetrads,indicatingacellof dyaddividing nto2dughternuclei;5-7.Microsporetetrads withobviouscellwals;8.Microspore intetraddividing into2daughtercels (arrowsin8);9,0.Formationof-celedpolens;.Coss (11)ndlongitudinal (1)sectiosofclavatepola.ve.Vegetative cell; sp. Sperm cell.
+
+图版ⅡI 苦绳Dregea sinensisHemsl.var.sinensis 的小孢子发生及雄配子体发育Plate I Microsporogenesis and male gametogenesis in Dregea sinensis Hemsl. var. sinensis
+
+# 2.3苦绳的大孢子发生和雌配子体发育
+
+通过子房横切面，可以观察到苦绳的雌蕊有两枚离生心皮，每个心皮的边缘胎座着生着数枚倒生胚珠（图版II：1)。发育早期，紧密排列的胚珠原基呈直立生长，珠心表皮细胞下的一个孢原细胞直接发育为大孢子母细胞，其细胞轮廓明显增大，液泡化显著，准备进入减数分裂（图版III：2）。因此，苦绳的胚珠为薄珠心。大孢子母细胞通过减数分裂I形成了大孢子二分体（图版III：3），通过减数分裂ⅡI，产生了排成一条直线的大孢子四分体（图版III：4）。发育过程中，靠珠孔端的3个大孢子退化，近合点端的一个大孢子分化为功能大孢子母细胞（图版III：5）。此时，胚珠的生长方向由早期的直立生长发生了倒转，导致珠孔方向和珠柄端非常接近（图版III：6，8，11），发育为倒生胚珠。接着，功能大孢子母细胞（图版III：6），通过三次有丝分裂，相继发育为2核-（图版ⅢI：7）、4核-（图版IⅢI:9,10）和8核-雌配子体（图版 II：11-13）。8核-雌配子体中，中央的两个极核靠拢形成2-核中央细胞，珠孔端的2个助细胞和一个卵细胞构成卵器，合点端的3个反足细胞排成一条线并退化成残迹（图版II:14-16），完成了成熟雌配子体的发育，其发育过程符合蓼型。
+
+![](images/a81e2405cc5045860fa5feffeef52478f380f566ca25cb34b6d5c6602256d646.jpg)
+
+1.子房横切面，示两枚离生心皮的边缘胎座生长着多枚倒生胚珠；2.早期胚珠纵切面，示直立生长的胚珠，其珠心表皮 下的孢原细胞，直接分化为大孢子母细胞（箭头所示）；3-5.大孢子母细胞减数分裂I形成大孢子二分体（3），减数分 裂ⅡI形成大孢子四分体（4.5），示珠孔端的3个大孢子退化成残迹（箭头所示），合点端的1个大孢子分化为功能大孢 子；6.功能大孢子时期的胚珠，发生倒转生长，形成倒生胚珠；7.2核-雌配子体；8.4核-雌配子体时期的倒生胚珠（箭 头示珠孔位置）；9,10.8中方框A部分的胚珠连续切片的放大图，示4核-雌配子体（9，3个子核；10，第4个子核，如 箭头所示）；11.8核-雌配子体时期的胚珠纵切面；12.11中胚珠的胚囊腔（方框A）放大图，示一对反足细胞和卵器； 13.8 核-雌配子体时期的胚珠纵切面，示两个助细胞、一个中央细胞和一个反足细胞；14-16.成熟雌配子体时期的胚珠纵 连续切片，珠孔端有2个助细胞和1个中央细胞（14）；合点端的3个退化的反足细胞，另1个中央细胞和3个退化的反 足细胞痕迹（15.16）。an.反足细胞；ce.中央细胞；ch.合点端；eg.卵细胞；fu.珠柄；my.珠孔端；sy．助细胞。 1.Crossectionofanvary,indicating 2separatecarpels including marginalparietal placenta with someanatropous ovules;2. Longitudinal sectionsofstraightand tenuinucellarovuleatearlystage,anarchesporialcellfunctioneddirectlyasamegaspore mothercel (arrw); 3-4.Formationofadyad (3)andatetrad (4,5)of megaspores,noting3 megaspore degenerated withoneat chalazal zonedevelopedasafunctioal megaspore(arrowsin5); 6.Afunctionalmegaspore inanovule;7.2-nucleated female gametophyte；8.Longitudinal section of someanantropous ovulesat the stage of 4-nucleated femalegametophyte(arrow indicatingmicropyle);91.Sucesivelongitdialsectiosofanoulein8,indicatig4ucleatedfemalegametophteoting3 nuclei inasection(arrowsin9),andtheotherone innextsection (arrowin10);11.Longitudialsectionofovuleattestageof 8-nucleatedfemalegametophyte;12.AmplicationofpartA in11,indicating twoantipodalcelsandanegg apparatus;13. Longitudinalsectioofanovule,idicating partial8-nucleated femalegametophygewithtwosyngeridsandacentralce;4-16. Suessive longitudinal sectionsofanovule,showing2synergidsand1centralcellatmicropyle(14),eggapparatus,thether centralcellandgeeraedatiodlcell(56ros)tipdlcell;Ctralcell;c.al;gcel; my. Mycropyle; fu. Funiculus; sy. Synergid.
+
+图版III 苦绳Dregea sinensisHemsl.var.sinensis 的大孢子发生和雌配子体发育
+
+Plate II Megasporogenesis and female gametogenesis in Dregea sinensis Hemsl. var. sinensis
+
+# 3讨论
+
+本文首次揭示了苦绳的大小孢子发生和雌雄配子体发育过程，具有以下10个显著的分类学特征：(1)花药2室，各有一枚花粉团；(2)花药壁有6层，发育模式符合多层型；(3)表皮和中层细胞不发达，早退；(4)药室内壁细胞发达，有2层，径向延伸增大且发生明显的纤维状加厚；(5)绒毡层单核，排成2列，腺质型；(6)花药成熟时，花药壁靠药室远轴端开裂，释放花粉团；(7)小孢子母细胞经连续型胞质分裂形成左右对称形排列方式；(8)成熟花粉为3-细胞型；(9)3-细胞型花粉两两紧密排列，构成花粉团；(10)雌蕊由两枚离生心皮组成，具边缘胎座、倒生胚珠、薄珠心、单珠被和蓼型胚囊。
+
+为更好地理解苦绳的胚胎发育特征的分类学意义，本文把观察到的胚胎学特征和广义夹竹桃科 5个亚科现有的胚胎学资料(Mulayetal.，1965；Davis，1966；Maheshwari，1971；Maheshwari&Lakshminariayana,1977; Lakshminariayana,1989; Jhori et al.,1992；王定康等，2011；刘鹏等，2016)进行了比较胚胎学研究（表1），探讨了它们的分类学意义，结果如下。
+
+# 3.1花药室结构特征
+
+苦绳的每枚雄蕊具2个花药室，每个花药室产生1个花粉团，这与马利筋亚科其他成员一致（Johrietal.,1992）。雄蕊的花药室数目和散粉单元类型在5个亚科的分类系统中具有重要作用。传统分类学认为，狭义萝蘑科和狭义夹竹桃科的区别在于，前者具有2室花药和花粉团，后者为4室花药和单花粉粒（Johri et al.,1992;Li et al.,1995）。然而，在狭义萝藦科的3个亚科中，花药室数目和散粉单元特征既相互区别，又各有联系。例如，马利筋亚科有2个药室，具花粉团；但鲫鱼藤亚科和杠柳亚科都具4个药室，但前者有花粉团，后者为四合花粉。因此，根据花药室数目和散粉单元类型在3个亚科间的相互联系，支持狭义萝蘑科并非单系的观点（Senmblad& Bremer,1996;Endress& Bruyns,2000)。此外，由于杠柳亚科和狭义夹竹桃科的2个亚科皆具4个药室和花粉粒的共同特征，因此支持它们具有较近的亲缘关系(Sennblad & Bremer,1996; Endress et al.,1996,2014)。
+
+# 3.2花药壁发育类型
+
+苦绳的花药壁由6层细胞组成，包括表皮、2层药室内壁、中层和2层绒毡层，其发育过程与被子植物现有记载的4种花药壁发育类型（Davis,1966;Johri etal.,1992）不相符合，但与部分兰科所报道的多层型花药壁（massive type）特征一致（Sood,1989；胡适宜等,1992；Kant,2011; Kant et al.,2013；张锦等，2019)。多层型花药壁是指由于药室内壁、或中层、或绒毡层的细胞层数分别增至2～3层以上，构成了6～7层以上的新拟花药壁类型,其正式描述和命名出现在兰科的羊耳蒜属Liparis Rich(Sood,1989)。事实上，6层以上的花药壁在狭义萝蘑科和狭义夹竹桃科均有记载，但尚未有研究将其归纳为多层型（Johri etal.,1992）。例如，狭义萝科的3个亚科中，花药壁普遍为6\~7层。另一方面，狭义夹竹桃科 2个亚科的花药壁常被描述为5层，属于基本型(Johri et al.,1992)，但萝芙木亚科马岭果属 Voacanga的花药壁多为8\~9层，在V.foetida可多达 $1 2 \sim 1 6$ 层(Maheshwari,1971)，显然应该属于多层型。因此，广义夹竹桃科的花药壁发育类型既有基本型，也有多层型。此外，多层花药壁特征在其他被子植物中也有记录，例如小檗科的南方山荷叶（Diphylleia sinensis）由于具有2层中层和2层绒毡层，花药壁多达7层，也符合多层型的范畴，但被判断为基本型（黄衡宇等，2010），值得进一步研究。
+
+苦绳的药室内壁纤维性加厚明显，与马利筋亚科的相同。研究表明，广义夹竹桃科的5个亚科普遍具有药室内壁细胞发达，纤维性加厚明显的特征(Davis,1966；Vijayaraghavan & Shukla,1978；Johri et al.,1992），但部分成员的药室内壁纤维状加厚不明显或缺乏。例如：马利筋亚科的牛角瓜属Calotropis R.Br.(Maheshwari,1964)和尖槐藤属(OxystelmaR.Br.)(Maheshwari,1964;Mulay et al.,1965），萝芙木亚科的海芒果属的(Cerbera odollam）和夹竹桃亚科的纽子花属的(Vallaris solanacea)(Anantaswamy,1940)。由于药室内壁纤维性加厚有助于花药开裂散粉（Johri et al.,1992），那么花药壁缺乏纤维性加厚的类群，其花药开裂的方式有待于继续研究。
+
+苦绳的绒毡层细胞具有单核双列的特征，与马利筋亚科的部分成员相符，但与其他4个亚科的单核单列截然不同，后者在被子植物中比较普遍（Johri et al.,1992）。相比较而言，马利筋亚科的绒毡层细胞特征变化较大，有3种类型：单核多列、多核单列和多核多列。单核多列见于青羊参(Cynanchumcallialatum),(Pergularia daemia） 以及(Tylophora indica) (Maheshwari,1964)，苦绳的单核双列也属于该类型。多核单列出现在(Leptadenia reticulata)和(Pentatropis sprialis)(Mulay et al.,1965)。多核多列见于尖槐藤属(Maheshwari,1977)。因此，绒毡层细胞特征在马利筋亚科中变化较大，在族级水平具有一定的分类学意义。
+
+# 3.3小孢子发生和雄配子体发育
+
+苦绳的小孢子发生的胞质分裂方式为连续型。在被子植物中，小孢子母细胞减数分裂的胞质分裂方式既有同时型，又有连续型，前者主要见于双子叶植物，后者普遍出现在单子叶植物，两种类型出现在同一个科的不同属也有报道，但属罕见（Johri,etal.,1992）。有意思的是，这些现象在5个亚科中均集中出现。5个亚科普遍具有同时型胞质分裂，但在部分亚科中还存在着连续型。例如：马利筋亚科的青羊参属（Maheshwari,1964；王定康,2011；）、牛角瓜属（刘鹏等,2016）、翅槐藤属(Oxystelma)（Maheshwari,1964）以及本文观察到的苦绳。此外，连续型还见于萝芙木亚科的罗布麻属的(Apocynum androsaefolium)、止泻木属的(Holarrhena antidysenterica) (Lato,1974)和鸡蛋花属(Plumeria)(Chauhan,1979)。值得注意的是，萝芙木亚科的一些物种存在两种类型兼有的罕见现象，如长春花属的(Catharanthus pusillus）（Bhasin,1971）和萝芙木属的(Rauvolfia canescens）（Meyer,1938）。两种胞质分裂方式在狭义萝藦科和狭义夹竹桃科均同时存在，为广义夹竹桃科的确定提供了胚胎学证据。此外，萝芙木亚科存在同一个物种兼具两种胞质分裂方式在被子植物中较为少见，值得继续研究。
+
+苦绳的小孢子四分体的排列形式多为左右对称，与5个亚科的大部分成员相似。同时，在夹竹桃亚科的止泻木(H.pubescens)中，除了上述3种四分体外，还观察到线型和T-型排列(Lato,1974)。现有研究表明(Nadot et al.,2008)，被子植物的基部类群和单子叶植物中小孢子发生的胞质分裂方式和小孢子四分体的排列形式有一定联系，表现为连续型胞质分裂产生的小孢子四分体只有四边形（或十字交叉型，T 型，线型），但同时型的小孢子四分体的排列形式更多样化，既有四边形，也有正四面体型和菱形。因此，广义夹竹桃科的小孢子四分体的多样化的排列及其发育方式，值得重视。
+
+苦绳的小孢子经过两次有丝分裂，发育为3-细胞型花粉，准备散粉，这和狭义萝蘑科的3个亚科一致(Johri et al.,1992)。然而，在狭义夹竹桃科的2个亚科中，除了3-细胞型花粉外，还存在着 2-细胞型花粉。例如：萝芙木亚科的长春花属 (Bhasin，1971)和夹竹桃亚科的止泻木属(Latto，1974)与鸡蛋花属(Chauhan,1979)。一方面，早期研究表明(Brewbaker et al.,1967;Webster et al.,1982)， $70 \%$ 的被子植物具有2-细胞型花粉，在进化上比较原始；其余少数类群表现为3-细胞型花粉，演化程度较高，见于水生植物、禾本科和部分草本植物，且被认为是短命植物对环境的适应性演化。另一方，近来的研究表明，在部分被子植物基部类群和木本植物中，同科、同属、甚至同一个种的类群里，曾出现了2-细胞型和3-细胞型花粉的共存现象，如大戟科(Euphorbiaceae）(Webster et al.1982)、番荔枝科(Annonaceae)(Lora et al.，2009,2012；Gan& Xu,2018)和木兰科(Magnoliaceae)、腊梅科(Calycanthaecae)以及(Monimiaceae） (Johri etal.,1992)。因此，5个亚科具有2-细胞型和3-细胞型花粉的共存现象为广义夹竹桃科的确立提供了佐证。
+
+# 3.4胚珠和雌配子体发育
+
+苦绳的雌蕊由2枚离生心皮组成，具边缘胎座、倒生胚珠、薄珠心、单珠被和蓼型胚囊等特征，与5 个亚科的大部分胚胎学特征一致（Johri etal.,1992）。然而，在部分夹竹桃亚科和萝芙木亚科中，也存在着合生心皮（蒋英和李秉涛，1977；Li et al.,1995）、半倒生和直立胚珠等特征（Johri et al.,1992）。
+
+综上所述，苦绳的大小孢子发生和雌雄配子体发育过程补充了南山藤族的胚胎学资料。同时，比较胚胎学表明5个亚科的花药发育特征既相互区别又相互联系，不仅支持广义夹竹桃科的确立，也反映出该科花药发育特征的多样性。
+
+# 表1广义夹竹桃科5个亚科胚胎学特征比较
+
+Table1 Comparative embryology of 5 subfamilies in Apocynaceae sensu lato   
+
+<html><body><table><tr><td>胚胎学特征</td><td colspan="3">狭义萝藦科 Aesclepidaceae sensu stricto</td><td colspan="2">狭义夹竹桃科 Apocynaceae sensu stricto</td></tr><tr><td>Embryological</td><td>鲫鱼藤亚科</td><td>杠柳亚科</td><td>马利筋亚科</td><td>夹竹桃亚科</td><td>萝芙木亚科</td></tr><tr><td>features</td><td> Secamonoideae</td><td> Periplocoideae</td><td>Asclepiadoideae 2</td><td>Apocynoideae 4</td><td>Rauvolfioideae</td></tr><tr><td>花药室数目 Sporangia 散粉单元 PDU</td><td>4 花粉团 Pollinia</td><td>2 四合花粉 Tetrad</td><td>花粉团 Pollinia</td><td>花粉粒 Pollen</td><td>4 花粉粒 Pollen</td></tr><tr><td>花药壁层 Number of AW</td><td>6~7</td><td></td><td>6~7</td><td>5</td><td></td></tr><tr><td>花药壁 AW type</td><td>多层型 Massive</td><td>6~7 多层型 Massive</td><td>多层型 Massive</td><td>基本型 Basic</td><td>5，5~6,-10~14 基本型，多层型 Basic,massive</td></tr><tr><td>药室内壁 Endothecium</td><td>纤维性 Fibrous</td><td>纤维性 Fibrous</td><td>纤维性，无 Fibrous,absent</td><td>纤维性，无Fibrous,absent</td><td>纤维性 Fibrous</td></tr><tr><td>绒毡层 Tapetum</td><td>单核单列 UU</td><td>单核单列 UU</td><td>单核单列，单核多列，多核多列</td><td>单核单列 UU</td><td>单核单列UU</td></tr><tr><td></td><td></td><td></td><td>UU, MU,MM</td><td></td><td></td></tr><tr><td>胞质分裂Cytokinesis</td><td>同时型 Sim-</td><td>同时型 Sim-</td><td>同时型，连续型 Sim-,Suc-</td><td>同时型，连续型Sim-,Suc-</td><td>同时型，连续型 Sim-,Suc-</td></tr><tr><td>四分体 Mircospore tetrads</td><td colspan="4"></td><td>正四面体，左右对称，十字交叉，线型，T-型Tetraderal, Isobilateral,Decusate,Linear,T-shaped</td></tr><tr><td>花粉类型 Pollen</td><td colspan="4">3-细胞型3-celled</td><td>3-细胞型，2-细胞型 3-celled,2-celled</td></tr><tr><td>心皮 Carpel</td><td colspan="4">2，离生 Separate</td><td>2，离生，合生 Separate,syncarpous</td></tr><tr><td>胚珠 Ovule</td><td colspan="4">薄珠心，倒生 Tenuinucellar, Anatropous</td><td>薄珠心，倒生，半倒生，直生 Tenuinucelar,ana-,hemiana-,orthotropous</td></tr><tr><td>珠被 Integument</td><td colspan="4">单珠被 Unitegemic</td><td></td></tr><tr><td>胎座 Placentation 胚囊类型 Embryo sac</td><td colspan="5">边缘 Marginal</td></tr></table></body></html>
+
+注：PDU.散粉单元类型；AW.花药壁；UU.单核单列；MU.单核多列；MM．多核多列；Sim-．同时型；Suc-．连续型。 te：l Successive.
+
+致谢论文撰写得到鲁东大学孔冬瑞博士和中国科学院昆明植物研究所彭华研究员的帮助，西南林业大学大型仪器共享平台提供实验设备。
+
+参考文献：   
+ANANTASWAMY RAU,1940. Studies in the Apocynaceae [J]. J Inidian Bot Soc,19: 33 - 44.   
+BHASIN RK,1971. Studies in Apocynaceae 2. Acontribution to the embryologyof Catharanthus pusilus (Murr.) G. Don [J]. Botanique (Bagpur, India), 2: 11- 121.   
+BREWBAKER JL,1967. Distribution and phylogenetic significance of binucleate and trinucleate pollen grains in angiosperms [J]. Am JBot, 54: 1069 - 1083.   
+CHAUHAN TS,1979. Morphological studies in Apocynaceae 2. Embyrology of Plumeria [J]. J Indian Bot Soc, 58: 363 -368.   
+CRONQUIST A,1981. An integrated system of classification of flowering plants [M]. New York (NY): Columbia University Press.   
+DAVIS GL,1966. Systematic embryology of the angiosperms [M]. New York: John Wiley & Sons.   
+EL-FIKI MA,EL-TAHER AM,EL-GEND AG, et al.,2019.Morphological and anatomical studies onsome taxa of family Apocynaceae [J]. Al-Azhar J of Agric Res, 44(1): 136 - 147.   
+ENDRESS ME, SENNBLAD B,NILSSON S, et al.,1996. A phylogenetic analysis of Apocynaceae s. str: and some related taxa in Gentianales: a multidisciplinary approach [J]. Annales De Médecine Interne,137 (6): 449- 550.   
+ENDRESS ME,BRUYNS PV,20O0.A revised classification of the Apocynaceae [J]. Bot Rev, 66: 1-56.   
+ENDRESS ME, LIEDE-SCHUMANN S, MEVE U, 2007. Advances in Apocynaceae: the enlightenment, an introduction [J]. Ann Missouri Bot Gard, 94(2): 259-267.   
+ENDRESS ME,LIEDE-SCHUMANN S,MEVE U, 2014. An updated classification for Apocynaceae [J]. Phytotaxa,159 (3): 175-194.   
+GAN YY， XU FX， 2O18.The coexistence of binucleate and trinucleate polln in Mitrephora macclurei Weerasooriya & R.M.K(Annonaceae)[J]. Grana, 96: 58(2):1-4.   
+GOYDER DJ，NICHOLAS A，LIEDE-SCHUMANN S， 2007． Phylogenetic relationships in subtribe Asclepiadinae (Apocynaceae: Asclepiadoideae) [J]. Ann Missouri Bot Gard, 94(2): 423 - 434.   
+GUVEN S，MAKBUL S，COSKUNCELEBI K,et al.， 2015. Pollinarium morphology of Vincetoxicum (Apocynaceae: Asclepiadoideae) in Turkey [J]. Phytotaxa, 230 (1): 22- 38.   
+HUANG HY,LONG H,LIL,2010. Genesis of microspore, megaspore and the development of male gametophyte. female gametophyte in Diphylleia sinensis [J].Guihaia,30(1): 36－44.[黄衡宇，龙华，李鹂,2010.南方山 荷叶大、小孢子发生与雌、雄配子体发育[J].广西植物， $3 0 \left( 1 \right) : 3 6 - 4 4 . \mathrm { ~ } ]$ ：   
+HU SY,2005.Reproductive biology of angiosperms [M]. Beijing: Higher Education Press.[胡适宜,2005.被子 植物生殖生物学[M].北京：高等教育出版社.]   
+HU SY,MACY,1992.Anther wallof Cymbidium goeringll with speclal reference to the tapetum[J]. Acta Bot Sin, 34(8):581-587.[胡适宜，马纯燕，1992.春兰花药壁及其绒毡层特性[J]．植物学报，34(8):581－587.]   
+JIN QD, MU QZ,1989.The constituents of C21-Steroids from Dregea sinensis VAR.Corrugata[J].Acta Pharm Sin,24(8):587-592.[金歧端，木全章,1989.滇产苦绳甾体成分的研究[J].药学学报,24(8):587-592.]   
+JOHRI BM, AMBEGAOKAR KB， SRIWASTAVA PS,1992. Comparative embryology of angiosperms [M]. Springer Berlin Heidelberg.   
+KANTR, HOSSAIN MM,2010. Development of pollinium in Malaxis muscifera (Lindl.) Kuntze[J]. Bangladesh JBot,39 (2): 193 -198.   
+KANT R,2011. Development of monads and associated changes in anther in Cypripedium cordigerum D. Don. : A rare orchid [J]. Vegetos,24(1):103-110.   
+KUNZE H,1996.Morphology of the stamen in the Asclepiadaceae and its systematic relevance [J]. Bot Jahrb   
+KUNZE H, 2O05. Morphology and evolution of the corolla and corona in the Apocynaceaes [J]. Bot Jahrb Syst, 126(3): 347 - 383.   
+LAHAYE R, KLACKENBERG J, KALLERSJO M, et al.， 2007.Phylogenetic relationships between derived Apocynaceae sensu lato and within Secamonoideae based on chloroplast sequences [J]. Ann Missouri Bot Gard,94(2): 376 - 391.   
+LAKSHMINARIAYANA K,1989. Embryological studies in a few taxa of Ascelpidaceae [J]. JIndian Bot Soc, 68: 29-34.   
+LATTO CS,1974.Morphology and embryology of Holarrhena andidysenterica Wall[J]. Bot Gaz,135: 173-180.   
+LENS F, ENDRESS ME,BAAS P, et al.,2008.Wood anatomy of Rauvolfioideae (Apocynaceae): A search for meaningful non-DNA characters at the tribal level [J]. AMJBot, 95(10): 1199 -1215.   
+LENS F, ENDRESS ME,BASS P,et al.，2009. Vessl grouping patterns in subfamilies Apocynoideae and Periplocoideae confirm phylogenetic value of wood structure within Apocynaceae [M]. AM JBot, 96: 2168 - 2183.   
+LI PT, LEEUWENBERG AJM, MIDDLETON DJ, 1995. Apocynaceae[M]//WU ZY, RAVEN PH, HONG DY (Eds).Flora of China (Vol. 16). Beijing: Science Press; St. Louis: Missouri Botanical Garden Press: 143-188.   
+LIEDE S,KUNZE H,1993.A descriptive system for corona analysis in the Asclepiadaceae [J]. Plant Syst Evol, 185: 99 - 284.   
+LIEDE S,TAVBER A， 2000. Sarcostemma R.Br. (Apocynaceae-Asclepiadoideae)—A controversial generic circumscription reconsidered: Evidence from trnL-trnF spacers [J]. Plant Syst Evol,225(8): 133-140.   
+LIU P, ZHANG TK,LI L, et al., 2016. Study on the megasporogenesis, microsporogenesis and development of female and male gametophytes of Calotropis gigantea L. [J]. Acta Bot Boreal-Occident Sin, 36(1): 48- 58.[刘鹏，张太奎，李璐，等，2016．牛角瓜大小孢子发生及雌雄配子体发育研究[J]．西北植物学报, 36(1): 48 - 58.]   
+LIVSHULTZ T, 2010. The phylogenetic position of milk weeds (Apocynaceae subfamilies Secamonoideae and Asclepiadoideae): Evidence from the nucleus and chloroplast [J]. Taxon, 59(4): 1016 -1030.   
+LORA J, HERRERO M, HORMAZA JI,2009.The coexistence of bicellular and tricellular pollen in Annona cherimola (Annonaceae): Implications for pollen evolution [J]. AM J Bot, 96(4): 802 - 808.   
+LORA J, HERRERO M, HORMAZA JI, 2012. Pollen performance,cell number, and physiological state in the early-divergent angiosperm Annona cherimola Mill. (Annonaceae） are related to environmental conditions during the final stages of pollen development [J]. Sex Plant Reprod,25(3): 157 -167.   
+MAHESHWARI DH, 1964. Embryology studies in Asclepidaceae [J]. Pro Indian Acad Sci. B, 60: 53-65.   
+MAHESHWARI DH, 1971. Embryology of Apocynaceae I. Plumiereae [J]. J Indian Bot Soc, 50: 74-85.   
+MAHESHWARI DH，LAKSHMINARIAYANA K， 1977. Embryology of Oxystelma esculentum[J]. Phytomorpholoy, 27(1): 59 - 67.   
+MEYER S,1938. Studies in the family Apocynaceae [J]. JDep Sci Univ, 1: 131-158.   
+MULAY BN,DESHAPANDE BD,TOLANI U,1965. Studies in Asclepiadaceae 2. Flora morphology and gametogenesis in certain members of Asclepiadaceae [J]. J Indian Bot Soc, 44: 95-104.   
+NAZAR NJ, CLARKSON J, GOYDER D,et al.， 2019. Phylogenetic relationships in Apocynaceae based on nuclear PHYA and plastid trnL-F sequences, with a focus on tribal relationships [J]. Caryologia,72(1): 55-81.   
+NADOT S,FURNESS CA, SANNIER J, et al., 2008.Phylogenetic comparative analysis of microsporogenesis in angiosperms with a focus on monocots [J]. Am JBot, 95(11): 1426-1436.   
+NAM BM, CHUNG GY, 2019. Taxonomic implications of floral morphology in the subfamily Asclepiadoideae (Apocynaceae s.l.) in Korea [J]. Bangl JPlant Taxon , 48(3): 172-184.   
+POTGIETER K, ALBERT VA, 2001. Phylogenetic relationships within Apocynaceae sensu lato based on trnL intron and trnL $F$ spacer sequences and propagule characters [J]. Ann Missouri Bot Gard, 88(2): 523 - 549.   
+SENNBLAD B，BREMER B，1996. The familial and subfamilial relationships of Apocynaceae and Asclepiadaceae evaluated with rbcL data [J]. Plant Syst Evol, 2O2:153 -175.   
+SIMOES AO,ENDRESS ME， VAN DER NIET T, et al.，2004. Tribal and intergeneric relationships of Mesechiteae (Apocynaceae，Apocynoideae): evidence from three non-coding plastid DNA regions and morphology [J].Amer JBot, 91(8): 1409 -1418.   
+SOOD SK,1989.Embryologyand systematic position of Liparis (Orchidaceae)[J].Plant Sys Evol,166: 1-9.   
+TSIANG Y,LI PT,1977. Apocynaceae [M]/Flora Reipublicae Popularis Sinicae. Beijing: Science Press,6: 31-249.[蒋英，李秉涛,1977．夹竹桃科[M]//中国植物志．北京：科学出版社，63:1-249.]   
+VENTER HJT, VERHOEVEN RL,2001. Diversity and relationships within the Periplocoideae (Apocynaceae)[J]. Ann Missouri Bot Gard, 88(4): 550-568.   
+VIJAYARAGHAVAN MR, SHUKLA AK,1978. Role of persistence of tapetal membrane in the germination of pollinium in Pergularia daemia [C]. 4th Int Palynology Conf (Lucknow Indian), 1: 347- 348.   
+WANG DK， SUN GF, ZHAI SH,et al.， 2011.Microsporogenesis and male gametophyte development of Cynanchum otophyllum Schneid[J].BullBot Res 31(4):392-396.[王定康，孙桂芳，翟书华,等,2011.青阳 参小孢子发生和雄配子体发育[J]．植物研究,31(4):392－396.]   
+WANNTORP L, KUNZE H,2O09. Identifying synapomorphies in the flowers of Hoya and Dischidia-towards phylogenetic understanding [J]. Int JPlant Sci, 17O(3): 331 -342.   
+WEBSTER GL，RUPERT EA，KOUTNIK D，1982. Systematic significance of pollen nuclear number in Euphorbiaceae,tribe Euphorbieae [J].Am JBot, 69(1): 407 -415.   
+WEI H,TIAN YG, GUO HW,et al.，2020. Two new polyoxy steroidal glycosides from the roots of Dregea sinensis Hemsl [J]. J Asian Nat Prod Res,22(7): 81O-816.   
+ZHANG J ZHANG H,LI L, et al.，2019.Pollinia development in rare orchid of Vanda coerulea with its taxonomic implications[J].Acta Bot Boreal-Occident Sin,39(7):1143-1153.[张锦，张辉，李璐，等,2019. 珍稀濒危植物大花万代兰的花粉团发育及其分类学意义[J].西北植物学报,39(7):1143－1153.]

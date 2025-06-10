@@ -1,0 +1,487 @@
+[
+    {
+        "type": "text",
+        "text": "油水分散流超声互相关流速测量方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "史雪薇董虓霄谭超董 峰(天津市过程检测与控制重点实验室，天津大学电气自动化与信息工程学院，天津300072)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要针对水平管道中油水分散流流速测量问题，提出一种基于超声互相关的测量方法。通过在水平管道上间隔一定距离的上下游安装两对超声探头获取油水两相流流动过程中的随机波动信号，针对离散相和连续相之间的相对滑动，将互相关方法与漂移模型和运动波理论相结合，并考虑流速分布和含率分布对流速测量带来的影响，在连续相不同的情况下分别建立两相流总表观流速的测量模型，并采用油水两相流实际流动状态的实验数据计算模型参数。结果表明，测量模型对流型具有依赖性，漂移速度是离散相含率的函数。通过实验数据对模型进行验证，针对不同流型选取不同参数计算得到的总表观流速与实际流速能够较好吻合，相对误差在 $6 . 1 2 \\%$ 以内。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词油水分散流；表观流速；互相关；漂移模型；运动波中图分类号：TH815；TP216+.1 文献标识码：A 文章编号:0253-231X(2017)03-0562-06",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dispersed Oil-Water Two-Phase Flow Velocity Measurement Based on Ultrasonic Cross-Correlation Technique ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SHI Xue-WeiDONG Xiao-XiaoTAN Chao DONG Feng (Tianjin KeyLaboratoryof ProcessMeasurement and Control,School ofElectrical and Information Engineering, Tianjin University，Tianjin 30o072,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract For the overallsuperficial velocity measurement of dispersed oil-water fow in horizontal pipeline,a measuring method based on ultrasonic cross-correlation technique is introduced. Two pairs of ultrasonic probes are installd in the upstream and downstream within a certain distance to obtain the flow signal of two-phase flow. Considering the slip between the dispersed phase and the continuous phase and the inffuence of velocity profile and phase distribution on the measurement, the overall superfcial velocity measurement model is established by combining the cross-correlation algorithm,drift-fux model and kinematic wave theory. The parameters of this model were calculated by the experimental data under different flow states.The results show that the measurement model is dependent on the flow regime,and the drift velocity is a function of the holdup. The model is validated by experimental data,and it shows that the overall superfcial fow velocity calculated by this model is in good agreement with the actual fow velocity. The relative error is less than $6 . 1 2 \\%$ ： ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key wordsdispersed oil-water two-phase flow; superficial velocity； cross-correlation； drift-fluxmode; kinematic wave",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "油水两相流广泛存在于能源、化工等工业生产以及石油的开采、运输、存储过程中，根据连续相的不同，可将其分为油连续和水连续两种形式[1。油水两相流流速的准确测量对预估产能、保障生产安全以及研究管道中流体的流动特性具有重要的意义。但是由于油水两相不同的介质属性，两相流的流动过程呈现了复杂的、高随机性的流动状态，流型变化尤为复杂，且油水相间存在着相对滑动 [2],这些都为实际测量带来了困难和挑战[3-4。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前对于油水两相流流速测量的研究已有很多。互相关方法是一种常用的流速测量方法，它通过测量流动噪声在从一个传感器传到另一个传感器时所用的渡越时间，在传感器间距已知的情况下进而得到流体流速，可以使用光学、电学、声学等传感器[5]。Lucas 等[6]利用电阻互相关流量计研究了倾斜管道下油水两相流互相关流速与平均流速、倾角及含率的关系。Tan 等[7-8]分别利用单层、双层电阻层析成像系统和互相关技术对两相流流速进行了测量。Zhai等[9]利用双电容探针测量了水平管油水两相流的互相关流速。Zhou 等[10]将电容耦合式非接触电导测量结合互相关方法用于毫米级管径气液两相流的气泡速度测量。相对于电学传感器而言，由于超声波在传播过程中对流场不产生扰动、无压力损失，可实现非侵入的参数检测，并且其安全性更有保障，是流动参数检测的一种重要手段[11-12]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "两相流流速测量多采用均相模型建模，但在实际流动过程中，两相流相间存在着随机可变的相界面和相间滑动，均相模型并不能满足测量精度要求。Zuber[13]在 1965 年提出漂移模型的概念，阐明了相间相对速度和总表观流速、相含率之间联系，模型综合考虑了流体的不均匀分布和相间滑动对流速测量带来的影响。模型中有两个重要参数：分布参数和漂移速度，前人对此做了很多研究。Zuber等[13]得出相含率大小会影响分布参数的取值，漂移速度受流型影响。Ishii 等[14]认为分布参数与密度比和雷诺数有关，并利用流体的运动方程和连续性方程，考虑几何体、剪应力、界面的动量传递等因素的影响，在弹状流、搅拌流和环状流下的漂移速度进行了计算。Hibiki等[15]考虑气泡尺寸的影响,研究了泡状流下的漂移模型。Lucas等[16考虑管道倾斜角度的影响，对模型参数进行了讨论。可以看出，漂移模型的参数受表面张力、雷诺数、剪应力、倾角、含率分布、流型等因素影响，模型参数的确定对流速的准确计算具有重要意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此，针对水平管道油水分散流流速测量问题，提出一种基于超声互相关的流速测量方法。考虑油水相间的滑动现象，在漂移模型的基础上结合运动波理论，综合考虑流型和含率分布对流速测量带来的影响，在连续相不同的情况下分别建立两相流总表观流速的测量模型。其中，基于油水两相流的实际流动状态对分布参数进行了理论推导，漂移速度根据实验数据获得。并利用实验对模型进行了验证，提高了总表观流速的测量精度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1互相关测量原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "超声波互相关原理如图1所示。两对超声探头间隔 $\\mathrm { 5 0 ~ m m }$ 分别安装在管道的上下游，其中 $S 1$ ， $S 2$ 为超声波发射探头， $R 1$ ， $R 2$ 为超声波接收探头。由于油水两相流的流动是一个随机过程，超声波流过管道时，声波信号会受到流体速度场的调制。根据“凝固”流动图形假设，当流体中存在某一扰动的情况下，经过调制的流动信号将在上下游重复出现，并引起相似的作用，只是时间上滞后。因此对上下游信号进行互相关则可以计算出流速。上下游信号的互相关为：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { x y } ( \\tau ) = \\operatorname* { l i m } _ { T  \\infty } \\frac { 1 } { T } \\int _ { 0 } ^ { T } \\ d x ( t ) y ( t + \\tau ) \\mathrm { d } \\tau\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $x \\left( t \\right) , y \\left( t \\right)$ 为上下游的随机波动信号， $T$ 为测量时间。则随机噪声信号传播速度可表示为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { c c } = L / \\tau _ { 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $L$ 为两对传感器之间的距离， $\\tau _ { 0 }$ 为互相关函数的峰值点所对应的时间，即为流体从上游传感器到下游传感器所用的渡越时间。 $u _ { c c }$ 为互相关速度，通常被认为是混合流体的结构传播速度。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/cf5e8c0536b89dc2171a46e0ec2878b0924a27a95fc8e1b6b4872b247bf57c7a.jpg",
+        "img_caption": [
+            "图1互相关原理",
+            "Fig.1 Principle of cross-correlation method "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2两相流模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1漂移模型和运动波理论",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "油水两相流中不同的相之间存在着相对滑动，因此采用 Zuber 和 Findlay 在1965 年提出的漂移模型[13]。模型形式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { v } } _ { d } = C _ { 0 } \\left. j \\right. + \\overline { { v } } _ { d j }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\overline { { v } } _ { d }$ 为离散相加权平均流速， $\\langle j \\rangle$ 截面平均的混合流体的表观流速。 $C _ { 0 }$ 为分布参数, $\\overline { { v } } _ { d j }$ 称为加权平均漂移速度。分布参数可利用下式进行计算：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { 0 } = \\frac { \\displaystyle \\langle \\alpha j \\rangle } { \\displaystyle \\langle \\alpha \\rangle \\langle j \\rangle } = \\frac { \\displaystyle \\frac { 1 } { A } \\int \\alpha j \\mathrm { d } A } { \\displaystyle \\left[ \\frac { 1 } { A } \\int \\alpha \\mathrm { d } A \\right] \\left[ \\frac { 1 } { A } \\int j \\mathrm { d } A \\right] }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $A$ 为管道截面面积, $\\alpha$ 为离散相的相含率, $v _ { d j }$ 为离散相漂移速度，在一般的工程实际条件下，可认为 $\\overline { { { v } } } _ { d j } = v _ { d j } \\{ ^ { 5 ] }$ 。加权平均漂移速度 $\\overline { { v } } _ { d j }$ 受多种因素影响，Zuber 指出 $\\overline { { v } } _ { d j }$ 满足：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { v } } _ { d j } = v _ { \\infty } \\left( 1 - \\alpha \\right) ^ { k }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $v _ { \\infty }$ 为单个液滴的终端流速， $k$ 一般取2。若不考虑各相的变化时，Zuber和Findlay根据流体的连续性方程和运动波理论，指出运动波的传播速度和漂移模型具有一样的函数形式，并指出由互相关法获得的互相关速度 $u _ { c c }$ 就是运动波的传播速度 $\\boldsymbol { u } _ { \\boldsymbol { k } \\boldsymbol { w } }$ ，得到：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { c c } = u _ { k w } = C _ { 0 } \\left. j \\right. + \\overline { { v } } _ { d j } + \\alpha \\frac { \\mathrm { d } \\left( C _ { 0 } \\left. j \\right. + \\overline { { v } } _ { d j } \\right) } { \\mathrm { d } \\alpha }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { c c } = C _ { 0 } \\left. j \\right. + f ( \\alpha )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $f ( \\alpha )$ 称为运动波漂移速度。因此在获得 $C _ { 0 }$ 和$f ( \\alpha )$ 的情况下，可通过互相关流速得两相流体的总表观流速。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2分布参数的确定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "水平管油水两相流流型多变，并且在含水率不同的情况下连续相也不同。对于水连续的油水分散流，其主要流型包括水包油 $\\scriptstyle \\left( \\mathrm { o } / \\mathrm { w } \\right)$ 、油包水和水包油$( \\mathrm { D w } / \\mathrm { o } \\& \\mathrm { D o } / \\mathrm { w } )$ 、水包油和水 $\\left( \\mathrm { D o } / \\mathrm { w } \\& \\mathrm { w } \\right)$ 。而对于油连续的油水分散流，实验中能观察到的流型有油包水 $\\left( \\mathrm { w } / \\mathrm { o } \\right)$ 、油包水和水包油 $( \\mathrm { D w } / \\mathrm { o } \\& \\mathrm { D o } / \\mathrm { w } )$ 。在连续相不同的情况下，流速分布满足不同的关系式：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "水连续： ${ \\frac { j } { j _ { \\operatorname* { m a x } } } } = \\left( 1 - { \\frac { r } { R } } \\right) ^ { \\frac { 1 } { n } }$ 式中， $j$ 为总表观流速， $j _ { \\mathrm { m a x } }$ 管道中心最大速度， $\\boldsymbol { r }$ 为管道任意一点到管道中心的距离， $R$ 为管道半径, $n$ 一般取值为 $6 { \\sim } 1 0$ ，当 $n { = } 7$ 为符合大多数湍流状态下的经验取值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于分布参数受流速分布和含率分布的影响，针对油水分散流，根据式（4）分别计算在不同的流型下的分布参数值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在均匀的 $\\mathrm { { o } / \\mathrm { { w } } }$ 和均匀的 $\\mathrm { w / o }$ 情况下，由于离散相的分散程度较高，可以忽略离散相含率分布对计算带来的影响，认为 $C _ { 0 } { = } 1$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在Do/w&w 流型下，油相和水相之间存在着相分界面。设油水两相流分层的层高为 $H$ （下文将分为$H > R$ 和 $H < R$ 两种情况进行讨论)，上层中离散相的含率为 $\\alpha _ { 1 }$ ，下层离散相的含率为 $\\alpha _ { 2 }$ 。根据流速分布和式(4)，并将面积分简化为线积分，在 $H > R$ 与 $H < R$ 两种情况下分别得到 $\\mathrm { D o } / \\mathrm { w } \\& \\mathrm { w }$ 流型时分布参数的表达式：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当 $H < R$ 时：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { 0 } = \\frac { ( \\alpha _ { 2 } - \\alpha _ { 1 } ) H \\left( \\displaystyle \\frac { H } { R } \\right) ^ { \\frac { 1 } { n } } + 2 R \\alpha _ { 1 } } { \\alpha _ { 2 } H + 2 R \\alpha _ { 1 } - H \\alpha _ { 1 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当 $H > R$ 时：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { 0 } = \\frac { 2 \\alpha _ { 2 } R + \\alpha _ { 2 } \\left( 2 - \\displaystyle \\frac { H } { R } \\right) ^ { \\frac { 1 } { n } } \\left( H - 2 R \\right) + \\alpha _ { 1 } R ^ { \\frac { - 1 } { n } } \\left( 2 R - H \\right) ^ { 1 + \\frac { 1 } { n } } } { \\alpha _ { 2 } H + 2 R \\alpha _ { 1 } - H \\alpha _ { 1 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由式(10)、式(11)可得，当 $H = R$ 时， $C _ { 0 } = 1$ 设 $\\alpha _ { 1 } = 1$ ， $\\alpha _ { 2 } = 0$ ，分别将两式化简，当 $H / R$ 取$0 . 1 { \\sim } 2$ 时分别计算分布参数的值，并由几何关系确定 $H / R$ 和含油率的关系，可以得到分布参数与含油率的关系 $C _ { 0 } = f ( \\alpha )$ 为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { 0 } = - 0 . 5 1 2 \\alpha ^ { 2 } + 0 . 7 5 8 \\alpha + 0 . 7 5 7\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { D w / o \\& D o / w }$ 流型在水连续和油连续时均会出现。根据 Elseth的研究[17]，在连续相不同的情况下，离散相径向含率分布分别满足以下关系式：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "水连续： $\\alpha _ { o } = \\left( \\frac { y } { 2 R } \\right) ^ { \\frac { 1 } { m } }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\alpha _ { o }$ 为含油率, $\\alpha _ { w }$ 为含水率, $y$ 为流道任意一点到管底部之间的距离， $m$ 一般取值 $1 { \\sim } 1 0$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据经验取值， $m$ 取 $3 { \\sim } 8$ 时根据式(4)分别计算连续相不同时分布参数值，结果见表1，表2。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1水连续下（ $\\mathbf { \\partial } _ { \\cdot } n = 7$ ）分布参数取值表",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/c038acd5f14d00bbfd95b8c7b23929e13c3df8c0a408ed06cfb53a61ceef799e.jpg",
+        "table_caption": [
+            "Table 1 The value of Distribution parameter (water continuous and $n = 7$ ） "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>m</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td>Co</td><td>1.008</td><td>1.008</td><td>1.007</td><td>1.006</td><td>1.005</td><td>1.005</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/98b496f2a60813a122ad06cd0150acb8538367bdd148fcc96597747043148544.jpg",
+        "table_caption": [
+            "表2油连续下分布参数取值表",
+            "Table 2 The value of Distribution parameter (oil continuous) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>m</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td>Co</td><td>0.900</td><td>0.935</td><td>0.952</td><td>0.963</td><td>0.969</td><td>0.974</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3运动波漂移速度的确定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "运动波漂移速度 $f \\left( \\alpha \\right)$ 受多种因素影响，确定较为复杂。根据式(5）和对分布参数的理论推导可知， $f \\left( \\alpha \\right)$ 是离散相含率 $\\alpha$ 的二次函数，可表示为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf \\left( \\alpha \\right) = a \\alpha ^ { 2 } + b \\alpha + c\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $a , b , c$ 为待定参数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因此本文利用实验数据采用拟合的方法确定运动波漂移速度 $f \\left( \\alpha \\right)$ 。根据式（7）可知，具体思路是：在连续相不同的情况下，计算不同流型时的分布参数，然后在超声实验数据的基础上，计算出互相关流速 $u _ { c c }$ ，并认为 $\\langle j \\rangle$ 为实验中两相流总表观流速，则可根据下式来计算不同流型下 $f \\left( \\alpha \\right)$ 的取值：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( \\alpha ) = u _ { c c } - C _ { 0 } \\left. j \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据式 (15)，将 $f \\left( \\alpha \\right)$ 与离散相含率 $\\scriptstyle { \\alpha }$ 进行二次拟合，确定待定参数 $a , b , c$ 的取值，则可以得出不同流型下 $f \\left( \\alpha \\right)$ 的表达式。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3实验研究",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "油水分散流的流速测量实验于天津大学多相流实验室完成，实验装置结构如图2所示。实验用水为自来水 (密度 $9 9 8 ~ \\mathrm { k g / m ^ { 3 } }$ ，动力黏度 $0 . 0 0 1 \\ \\mathrm { P a \\cdot s } )$ ，油为工业白油(密度 $8 0 0 ~ \\mathrm { k g / m ^ { 3 } }$ ，动力黏度 $0 . 0 1 7 \\mathrm { P a \\cdot s } )$ 。水平管道由不锈钢管组成，内径为 $\\mathrm { 5 0 ~ m m }$ 。入口与出口之间的距离为 $1 6 . 6 \\mathrm { ~ m ~ }$ 。在入口处设置单相流量计，其测量精度为 $\\pm 0 . 5 \\%$ 。组合传感器安装于入口处下游约 $1 2 \\mathrm { m }$ 处，便于使流型充分发展。实验中固定水相流量，调节油相流量，通过不同的流量配比产生不同流型，其中油水分散流为本文的研究对象。实验中两相流总流量在 $5 . 1 5 6 ~ \\mathrm { m ^ { 3 } / h }$ 到 $1 7 . 9 6 0 ~ \\mathrm { m ^ { 3 } / h }$ 内变化。对于每种流动状态，测量过程持续 $2 0 ~ \\mathrm { s } .$ 0",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于油水两相流的流动状态较为平稳，因此可通过快关阀方法获取管道内流体的真实相含率。快关阀结构如图3所示。在每一流动状态下，同时关闭阀门1和阀门2对流体进行截取，被截取的流体经过静置后，测量两相流的相含率。为确保测量精度和排除随机误差，实验中每一流动状态下对流体截取三次，取三次测量结果的平均值作为该流动状态下的相含率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "互相关流速测试系统结构图如图4所示，两对超声探头分别安装于管道的上下游，上下游传感器间隔距离为 $5 0 ~ \\mathrm { m m }$ ，信号发生器产生 $\\mathrm { 1 \\ M H z }$ 连续的激励信号，经过功率放大后送入超声探头的发送端，经过流场的调制后由接收端进行接收。实验中采用PXI信号采集板卡，结合LabVIEW程序设计一套数据采集上位机软件，进行数据采集，采样频率为5MHz，采样时间为 $2 0 ~ \\mathrm { s }$ 。对获取的上下游信号进行互相关处理，可得互相关流速。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/647be36f58fb705868eeab8a723e58fcd53a5997a64d00aa9f785e76f2347923.jpg",
+        "img_caption": [
+            "图2实验装置结构图Fig.2 Flow facility"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f0cfe28cc7d2e645b85b7545959658422a738ac614e195a9c950dfbb192938d1.jpg",
+        "img_caption": [
+            "图3快关阀Fig.3 Quick closing values"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/586910af105d2ac3dc82fb958349f912aa33463305f111f3094d0dca7a40f645.jpg",
+        "img_caption": [
+            "图4测试系统结构图Fig.4 System structure"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4实验结果和分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将两相流总表观流速、所得的互相关流速以及不同流型下的分布参数值代入式（16）中，得到不同流型下的 $f \\left( \\alpha \\right)$ 的值。利用式(15）在不同流型下将$f \\left( \\alpha \\right)$ 与离散相含率 $\\alpha$ 进行二次拟合，得到 $f \\left( \\alpha \\right)$ 与离散相含率 $\\alpha$ 的关系如图5、图6所示。需指出在$\\mathrm { D w / o \\& D o / w }$ 流型下，对 $m$ 分别取 $3 { \\sim } 8$ 时分别将运动波漂移速度 $f \\left( \\alpha \\right)$ 与离散相含率 $\\alpha$ 进行拟合，对比发现 $m = 3$ 时拟合程度最好，故采用此结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/dd925c6aab927ba5c6ac5d89c93dc4c6900831f209d9c102a276a0761ab8b294.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用实验数据，对模型进行验证。将不同流型下分布参数 $C _ { 0 }$ 、运动波漂移速度 $f \\left( \\alpha \\right)$ 以及互相关流速 $u _ { c c }$ 代入式(7)，计算流体的总表观流速，并将模型计算出的总表管流速与实验测量的流速进行对比，不同流型下的流速测试结果如图7所示，相对误差如图8所示。发现模型计算结果和实验测量结果吻合较好，相对误差在 $6 . 1 2 \\%$ 以内，平均相对误差为 $1 . 1 5 \\%$ ，证明了理论模型的适用性和准确性。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bf5e5128df4b76c299afd08aca9e91e94aed201f890f4f11358e132ba5337255.jpg",
+        "img_caption": [
+            "图6油连续下 $f \\left( \\alpha \\right)$ 与离散相含率 $\\alpha$ 的关系 Fig.6 Relationship between thef $( \\alpha )$ and the oil fraction αwhen oil is continuous "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9786e0025b6911c53056e91255aaff7399a99481cabd14f452c03e1c2efe3e01.jpg",
+        "img_caption": [
+            "图5水连续下 $f \\left( \\alpha \\right)$ 与离散相含率 $\\scriptstyle { \\alpha }$ 的关系 Fig.5 Relationship between thef $( \\alpha )$ and the oil fraction αwhen water is continuous ",
+            "图7不同流型下的流速测试结果",
+            "Fig.7Flow velocity test results under different flow regimes "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "但是，结果中仍然存在一定误差，来源主要包括以下几个方面：一方面，模型中分布参数的计算依赖于对流体流速分布和含率分布的假设，但是由于实际流体流动复杂，其流速分布和含率分布并不一定完全符合假设，并且 $n { = } 7$ 只是能符合大多数湍流状态下的经验取值；另一方面，互相关速度的实际意义并不明确，在计算时的计算依赖于相关时间，相关次数的选取，在实际计算时会产生一定误差；此外，计算中的一些简化运算，也会带来计算方面的误差。因此，对于互相关速度的物理意义、流速和含率的分布仍是多相流测量中所要解决的问题。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d2d63a7ed334c39262f8fd3a4e97cfaee05af46f8c3e024dd5d31d80799b7bed.jpg",
+        "img_caption": [
+            "图8不同流型下的误差分布",
+            "Fig.8 Relative error distribution under different flow regimes "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "针对水平管道中油水分散流流速测量问题，提出一种基于超声互相关的测量方法。通过在水平管道上间隔一定距离的上下游安装两对超声探头来获取油水两相流流动过程中的随机波动信号，采用互相关方法计算两相流互相关速度。考虑离散相和连续相之间存在的相对滑动现象，将互相关方法与漂移模型、运动波理论结合，在连续相不同的情况下分别建立两相流平均混合表观流速的测量模型，在建模的过程中考虑流型和含率分布对流速测量带来的影响，对漂移模型中的分布参数进行了理论推导，并通过实验数据计算了漂移速度。实验表明，测量模型对流型具有依赖性，且漂移速度与离散相含率有关。通过实验数据对模型进行验证，最终相对误差在 $6 . 1 2 \\%$ 以内。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Brauner N,Amos U.Modeling of Phase Inversion Phenomenonin Two-PhasePipeFlows[J].International Journal of Multiphase Flow,2002,28(7):1177-1204   \n[2]XU Jingyu,WU Yingxiang,FENGFeiei,et al.Experimental Investigation on the Slip between Oil and Water in Horizontal Pipes [J].Experimental Thermal and Fluid Science,2008,33(1):178-183   \n[3]Hewitt GF.Measurement of Two Phase Flow Parameters [M].New York:Academic Press,1978   \n[4] Shi H,Holmes JA,Dureofsky L J.Drift-Flax Modeling of Two-Phase Flow in Wellbores [J].Spe Jourral,2005, 10(1): 24-33   \n[5]徐苓安．相关流量测量技术的现状和发展趋势[J]．自动化 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "仪表,1988,3(9):1-4 XU Lingan. The Present Situation and Development Trend of Cross Correlation Flow Measurement Technology [J]. Process Automation Instrumentation,1988,3(9): 1-4   \n[6] Lucas G P,JIN Ningde. Measurement of the Homogeneous Velocity of Inclined Oil-in-Water Flows Using a Resistance Cross Correlation Flow Meter [J].Measurement Science and Technology, 2001, 9(12):1529-1537   \n[7] TAN Chao,DONG Feng. Cross Correlation Velocity of Oil-Water Two-Phase Flow bya Dual-Plane Electrical Resistance Tomography System [C]//Proceedings of International Instrumentation and Measurement Technology Conference,2010,766-770   \n[8] TAN Chao, DONG Feng. Two-Phase Flow Measurement by Dual-Plane ERT System With Drift-Flux Model and Cross Correlation Technique[C]// Proceedings of the Fifth International Conference on Machine Learning and Cybernetics,2006,1443-1448   \n[9] ZHAI Lusheng,JIN Ningde,GAO Zhongke, et al. CrossCorrelation Velocity Measurement of Horizontal OilWater Two-Phase Flow by Using Parallel-Wire Capacitance Probe [J].Experimental Thermal and Fluid Science, 2013,53(2): 277-289   \n[10]周颖,黄志尧，王保良，等.基于 $\\mathrm { C ^ { 4 } D }$ 技术的气液两相流流 速测量新方法[J].工程热物理学报,2013,34(2)：294-297 ZHOU Ying,HUANG Zhiyao,WANG Baoliang，et al. A New Method for Velocity Measurement of Gas-Liquid Two-Phase Flow Based on $\\mathrm { C ^ { 4 } D }$ Technique [J]. Journal of Engineering Thermophysics,2013,34(2):294-297   \n[11] 董琥霄，谭超，董峰．超声多普勒水连续油水分散流流速测 量方法[J].工程热物理学报,2016,37(4)：775-779 DONG Xiaoxiao, TAN Chao, DONG Feng. Water Continuous Dispersed Oil-Water Two-Phase Flow Velocity Measurement Based on Ultrasonic Doppler [J]. Journal of Engineering Thermophysics, 2016, 37(4): 775-779   \n[12]马立玲，郭坤，王军政．液体超声流量测量中的传播时间精 度分析[J]．仪器仪表学报，2012,33(5)：1028-1034 MA Liling,GUO Kun,WANG Junzheng. Study of the Accuracy of Transit time Ultrasonic Flow Measurement for Liquids [J]. Chinese Journal of Scientific Instrument, 2012,33(5):1028-1034   \n[13] Zuber N,Findlay JA.Average Volumetric Concentration in Two-Phase Systems [J]. Journal of Heat Transfer,1965, 87(4): 453-468   \n[14] Hibiki T,Ishii M.One-dimensional Drift-Flux Model and Constitutive Equations for Relative Motion between Phases in Various Two-Phase Flow Regimes [J]. International Journal of Heat and Mass Transfer,2003,46(25): 4935-4948   \n[15] Hibiki T,Ishii M.Distribution Parameter and Drift Velocity of Drift-Flux Model in Bubbly Flow [J]. International Journal of Heat and Mass Transfer,2002,4(45):707-721   \n[16] Lucas G P, Jin Ningde.Measurement of the Homogeneous Velocity of Inclined Oil-in-Water Flows Using a Resistance Cross Correlation Flow Meter [J].Measurement Science and Technology, 2001, 9(12): 1529-1537   \n[17] Elseth G.An Experimental Study of Oil-Water Flow in Horizontal Pipes [D]. Porsgrunn Norway: The Norwegian University of Science and Technology, 2001 ",
+        "page_idx": 5
+    }
+]

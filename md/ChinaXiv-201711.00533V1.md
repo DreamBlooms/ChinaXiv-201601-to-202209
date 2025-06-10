@@ -1,0 +1,166 @@
+1 不同料水比的湿拌料对育成期银狐采食量、营养物质消化率、氮代谢及体重的影响  
+2 王　卓」孙伟丽」 钟 伟」徐　超」　赵靖波」 刘凤华² 张　婷」 李光玉1\*
+
+(1.中国农业科学院特产研究所，吉林省特种经济动物分子生物学省部共建国家重点实验室，长春： 130112；2.潍坊工商职业学院，诸城 262234)
+
+摘要：本试验旨在探讨不同料水比的湿拌料对育成期银狐采食量、营养物质消化率、氮代谢及体重的影响。试验选用平均体重为 $( 3 . 4 4 \pm 0 . 1 9 )$ ）kg的12周龄左右的健康银狐30只，随机分为3个组，每组10只，公母各占1/2。3组银狐分别饲喂料水比为1.0:2.5(I组)、1.0:3.5(I组)和1.0:4.5(I组)的湿拌料，预试期7d，正试期 $4 8 \mathrm { ~ d ~ }$ 。结果表明：1)随着湿拌料添加水分比例的升高，各周龄银狐的干物质平均日采食量均有不同程度的增加，其中Ⅲ组银狐干物质平均日采食量在14、15、17、18、19周龄时极显著高于I组和Ⅱ组 $( P { < } 0 . 0 1 )$ ，在16周龄时显著高于I组 $( P { < } 0 . 0 5 )$ ；IⅢI组干物质总采食量极显著高于I组和Ⅱ组 $( P { < } 0 . 0 1 )$ ，且Ⅱ组也有高于I组的趋势，但差异不显著（ $P { > } 0 . 0 5$ )。2)I组干物质消化率显著高于IⅢI组 $( P { < } 0 . 0 5 )$ ；蛋白质消化率各组间差异不显著 $( P { > } 0 . 0 5 )$ ，但I组较 $\mathrm { I I }$ 组升高 $4 . 6 2 \%$ ，Ⅱ组较IⅢ组升高 $5 . 4 2 \%$ ；脂肪消化率各组间差异不显著（ $( P { > } 0 . 0 5 )$ ，但I组较IⅢ组升高 $4 . 0 3 \%$ ， $\mathrm { I I }$ 组较Ⅲ组升高 $4 . 4 6 \%$ 。3)食入氮表现为I组极显著高于I组和ⅡI组 $( P { < } 0 . 0 1 )$ ，Ⅱ组也有高于I组的趋势，但差异不显著（ $( P { > } 0 . 0 5 )$ ；尿液量随着湿拌料添加水分比例的升高显著或极显著升高（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1 \$ ；氮沉积各组间差异不显著（ $( P { > } 0 . 0 5 )$ ；随着湿拌料添加水分比例的升高，粪氮和尿氮排出量有升高的趋势，而净蛋白质利用率有降低的趋势，但各组间差异不显著 $( P { > } 0 . 0 5 )$ ：I组蛋白质生物学价值显著高于Ⅱ组和I组（ $_ { \cdot } P { < } 0 . 0 5 { \mathrm { : } }$ )。4)不同料水比的湿拌料对银狐不同周龄平均体重、各阶段平均日增重、总增重均无显著影响 $( P { > } 0 . 0 5 )$ ；对于料重比，Ⅱ组较IⅢ组降低 $4 . 3 0 \%$ ，I组较Ⅱ组降低$1 . 2 1 \%$ ，但各组间差异不显著 $( P { > } 0 . 0 5 )$ 。综合各项指标，从降低环境污染和饲料成本以及保证银狐体增重的角度出发，育成期银狐湿拌料中料水比以1.0：2.5为宜。
+
+关键词：银狐；湿拌料；料水比；消化代谢；体重中图分类号：S816 文献标识码：A 文章编号：
+
+银狐，也叫银黑狐、玄狐等，其毛较长、色泽光亮，绒细柔丰厚，皮板轻薄、御寒性强，是制作各式毛皮服装、毛领、披肩、马甲及挂饰的高档裘皮材料，深受人们的喜爱。随着我国经济的发展，对裘皮需求增加促进了我国养狐业的发展。
+
+目前对于银狐饲粮的研究主要集中在营养方面，而忽略了饲喂方法和饲粮形态等方面的研究。全价干粉配合饲料因其便于运输、贮存和加工使用，不需要冷藏的优势，在毛皮动物养殖中使用较为普遍。饲喂毛皮动物的干粉料通常加入一定比例的水分，以湿拌料的形式饲喂，有些养殖户采用着"稀汤灌大肚"的饲喂方法，认为用稀食既可以节省饲料，又能减少喂水这一步骤。对育成期乌苏里貉[I、断奶仔猪[2-3]研究发现饲喂相对稀食可以提高动物的采食量和体增重，然而在育肥期乳鸽[4]、育肥猪[5-6]、育成期蓝狐[7]等动物的研究中却不建议饲喂过稀的食物。可见，不同动物、动物不同发育时期适宜消化的饲粮的干稀程度不同。
+
+本试验根据养殖户实际调料的干稀程度，设定湿拌料的3种常见料水比（1.0：2.5、1.0：3.5、1.0：4.5)，料水比1.0：2.5为刚好搅拌均匀干粉料时的料水比，料水比1：4.5为与养殖户仅饲喂稀食而不供给饮水状态一致时湿拌料的料水比，料水比1.0：3.5则为二者的中间状态，从对育成期银狐采食量、营养物质消化率、氮代谢及体重的影响探讨银狐适宜饲喂湿拌料的料水比，为科学饲养银狐提供依据。
+
+1材料与方法
+
+# 1.1 试验设计
+
+选用12周龄左右平均体重为（ $3 . 4 4 \pm 0 . 1 9$ ） $\mathbf { k g }$ 的健康银狐30只，采用单因子试验设计，随机分为3组，每组10只，公母各占1/2，各组间平均体重差异不显著（ $. P { > } 0 . 0 5 \$ )，I、Ⅱ、Ⅲ组分别饲喂料水比为1.0:2.5、1.0:3.5、1.0:4.5 的湿拌料，预试期7d，正试期 $4 8 \mathrm { d }$ 。
+
+1.2 试验饲粮
+
+试验饲粮参照NRC（1982）[8]狐狸饲养标准，并结合我国养殖实际情况进行配制，由沈阳双良饲料有限公司加工生产。试验饲粮组成及营养水平见表1。
+
+表1试验饲粮组成及营养水平 (风干基础)  
+Table 1 Composition and nutrient levels of the experimental diet (air-dry basis） %   
+
+<html><body><table><tr><td>项目Items 含量Content</td></tr><tr><td>原料Ingredients</td></tr><tr><td>膨化玉米 Extruded corn 33.00</td></tr><tr><td>豆粕Soybean meal 21.40</td></tr><tr><td>肉骨粉 Meat bone meal 6.80</td></tr><tr><td>鱼粉Fish meal 8.30</td></tr><tr><td>米糠粕 Rice bran meal 10.00</td></tr><tr><td>玉米胚芽饼 Corn germ meal 2.50</td></tr><tr><td>羽毛粉 Feather meal 5.00</td></tr><tr><td>干酒糟及其可溶物 DDGS 9.00</td></tr><tr><td>玉米油 Corn oil 1.00</td></tr><tr><td>猪油 Lard 2.00</td></tr><tr><td>预混料 Premix1) 1.00</td></tr><tr><td>合计Total 100.00</td></tr><tr><td>营养水平Nutrient levels2)</td></tr><tr><td>代谢能ME/(MJ/kg) 13.32</td></tr><tr><td>粗蛋白质 CP 29.72</td></tr><tr><td>粗脂肪 EE 7.37</td></tr><tr><td>粗灰分 Ash 6.44</td></tr><tr><td>钙Ca 1.54</td></tr><tr><td>总磷TP 0.90</td></tr></table></body></html>
+
+1)每千克预混料含有One kilogram of premix contained the following:NaCl 300 O00 mg，赖氨酸 Lys 150
+
+$0 0 0 \mathrm { m g }$ ，蛋氨酸 Met $2 0 0 0 0 0 \mathrm { m g }$ ， $\mathrm { C a H P O _ { 4 } } 5 0 0 0 0 \mathrm { m g }$ ，VA 300 000 IU，VD3 200 000 IU，VE 4 000 mg， $\mathrm { V K } _ { 3 }$ （20$5 0 \mathrm { m g }$ ， $\mathbf { V B } _ { 1 } 4 0 0 \mathrm { m g }$ ， $\mathbf { V B } _ { 2 } 5 0 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 2 0 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 4 . 2 \ : \mathrm { m g }$ ，叶酸 folic acid $5 0 \mathrm { m g }$ ，泛酸 pantothenic acid$2 2 0 0 \mathrm { m g }$ ，生物素 biotin $1 6 0 0 \mathrm { m g }$ ，氯化胆碱 choline chloride $1 2 0 \mathrm { m g }$ , VC 12 000 mg，Fe 4 000 mg, Zn 3 200mg，N $\mathrm { 4 n 1 6 0 0 m g }$ ， $\mathrm { ~ I ~ } 8 0 \ : \mathrm { m g }$ ，Se $1 2 \mathrm { m g }$ ， $\mathrm { C u 5 0 0 m g }$ 。
+
+2代谢能为计算值[8],其他营养水平为实测值。ME was a calculated valuel8],while the other nutrient levels weremeasured values.
+
+31.3 饲养管理
+
+所有银狐均单笼（长 $\times$ 宽 $\times$ 高为 $7 0 \mathrm { c m } { \times } 6 0 \mathrm { c m } { \times } 5 5 \mathrm { c m }$ ）饲养。试验在室外自然光照下进行，整个试验期内由固定人员进行专门饲养，并对其进行常规免疫接种，以消除外界环境和管理不同对试验动物的影响。每天07：00和16：00分2次饲喂和饮水。
+
+71.4 消化代谢试验
+
+正试期开始24d后，每组随机选取6只体重相近的银狐进行消化代谢试验，为期 $3 \mathrm { d }$ 。采用全收粪法，消化代谢试验期间饲养管理与日常饲养管理一致，每天收集的粪便称重后按鲜重的 $5 \%$ 加入 $10 \%$ 硫酸溶液，将3d的粪便混匀后，置于 $6 5 ^ { \circ } \mathrm { C }$ 烘箱烘干，粉碎后过40目筛（孔径为 $0 . 4 5 \mathrm { m m }$ ）得到待测样品。每天收集的尿液每 $1 0 0 ~ \mathrm { m L }$ 中加入 $2 \mathrm { m L } 1 0 \%$ 的硫酸固氮，将3d的尿液混匀后过滤保留 $1 0 ~ \mathrm { m L }$ 保存于 $- 2 0 \ \mathrm { { ^ \circ C } }$ 待测。
+
+1.5 测定指标与方法
+
+1.5.1 采食量
+
+试验过程中，根据银狐的采食情况调整早、晚饲喂量，记录每只银狐的采食量，计算试验期每周干物质的总采食量和平均日采食量。
+
+# 1.5.2 营养物质消化率
+
+饲粮和粪中干物质、粗蛋白质、粗灰分、粗脂肪的含量及尿中粗蛋白质的含量均参照《饲料分析及饲料质量检测技术》[9进行测定，然后根据以下公式计算营养物质消化率：
+
+干物质消化率 $( \% ) \ = 1 0 0 \times ($ 干物质采食量一干物质排出量)/干物质采食量;  
+蛋白质消化率 $( \% ) ~ = 1 0 0 \times$ (粗蛋白质摄入量一粪便中粗蛋白质含量)/粗蛋白质摄入量;  
+脂肪消化率 $( \% ) \ = 1 0 0 \times$ 粗脂肪摄入量一粪便中粗脂肪含量)/粗脂肪摄入量。
+
+1.5.3 氮代谢计算公式如下：
+
+氮沉积 $\begin{array} { r l } { \mathrm { { ( g / d ) } = } } \end{array}$ 食入氮一粪氮排出量一尿氮排出量;  
+净蛋白质利用率 $( \% ) \ = 1 0 0 \times$ （氮沉积/食入氮）；  
+蛋白质生物学价值 $( \% ) \ = 1 0 0 \times$ 氮沉积/（食入氮一粪氮排出量）。
+
+771.5.4 体重
+
+在12、14、16、19周龄时于早饲前分别称重，计算 $1 2 { \sim } 1 4$ 、 $1 4 { \sim } 1 6$ 、 $1 6 { \sim } 1 9$ 、12\~19周龄的平均日79增重及试验期的总增重和料重比。
+
+1.6 数据处理
+
+试验数据采用 SAS 9.1软件中one-way ANOVA程序进行差异显著性分析，结果用平均值±标准差表示，其中 $P { < } 0 . 0 5$ 为差异显著， $P { < } 0 . 0 1$ 为差异极显著， $P { > } 0 . 0 5$ 为差异不显著。
+
+2结果与分析
+
+2.1不同料水比的湿拌料对育成期银狐采食量的影响
+
+由表2可以看出，随着湿拌料中添加水分比例的升高，银狐各周龄的干物质平均日采食量均有不同程度的增加，其中Ⅲ组干物质平均日采食量在14、15、17、18、19 周龄时极显著高于I组和Ⅱ组 $( P { < } 0 . 0 1 )$ ，在16周龄时显著高于I组 $( P { < } 0 . 0 5 )$ ，12、13周龄各组间差异不显著 $( P { > } 0 . 0 5 )$ ，但也有组高于Ⅱ组、Ⅱ组高于I组的趋势；IⅢ组干物质总采食量极显著高于I组和Ⅱ组 $( P { < } 0 . 0 1 )$ ，且Ⅱ组也有高于I组的趋势，但差异不显著（ $( P { > } 0 . 0 5 )$ 。
+
+表2不同料水比的湿拌料对育成期银狐干物质平均日采食量和总采食量的影响（干物质基础）
+
+Table 2Effcts of different ratios offeed to water of wet mash on ADFIand total feed intake of growing silvel
+
+<html><body><table><tr><td colspan="6">foxes （DM basis）</td></tr><tr><td rowspan="5">项目Items</td><td>周龄Weeks of</td><td></td><td>组别 Groups</td><td></td><td>P值</td></tr><tr><td>old</td><td>I</td><td>I</td><td>Ⅲ</td><td>P-value</td></tr><tr><td>12</td><td>188.16±17.19</td><td>196.61±20.19</td><td>202.46±8.98</td><td>0.312 4</td></tr><tr><td>13</td><td>192.65±15.49</td><td>194.29±21.93</td><td>207.54±14.56</td><td>0.2828</td></tr><tr><td>14</td><td>190.50±14.45Bb</td><td>201.28±12.20Bb</td><td>233.73±15.08Aa</td><td>0.0013</td></tr><tr><td>平均日采食量 ADFI/ (g/d)</td><td>15</td><td>188.92±14.21Bb</td><td>201.94±10.61Bb</td><td>239.03±15.23Aa</td><td>0.0010</td></tr><tr><td></td><td>16</td><td>201.68±19.76b</td><td>207.93 ±13.61ab</td><td>239.47 ±24.05a</td><td>0.047 6</td></tr><tr><td></td><td>17</td><td>224.81±14.94Bb</td><td>237.20±14.44Bb</td><td>266.32±6.70Aa</td><td>0.000 6</td></tr><tr><td></td><td>18</td><td>227.70±17.55Bb</td><td>232.93±17.07Bb</td><td>267.73±3.24Aa</td><td>0.0011</td></tr><tr><td></td><td>19</td><td>229.47±15.89Bb</td><td>237.04±15.92Bb</td><td>269.62±8.41Aa</td><td>0.0009</td></tr><tr><td>总采食量</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total feed intake/kg</td><td>12~19</td><td>9.80±0.49Bb</td><td>10.26±0.33Bb</td><td>11.53±0.51Aa</td><td>0.001 3</td></tr></table></body></html>
+
+同行数据肩标无或相同字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著（ $. P { < } 0 . 0 5 )$ ，不同大写字母表示差异极显著（ $_ { ( P < 0 . 0 1 ) }$ 。下表同。
+
+In the same row,values without letter or with the same lettr superscripts mean significant difference （204号 $( P { > } 0 . 0 5 )$ ，while with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，and with different capital letter superscripts mean extremely significant difference( $\scriptstyle \cdot < 0 . 0 1 { \dot { ) } }$ ). The same as below.
+
+2.2不同料水比的湿拌料对育成期银狐营养物质消化率的影响
+
+由表3可以看出，在消化代谢试验中，I组银狐干物质消化率显著高于Ⅱ组和II组（ $P { < } 0 . 0 5 )$ ；银狐蛋白质消化率各组间差异不显著（ $( P { > } 0 . 0 5 )$ ，但I组较Ⅱ组升高 $4 . 6 2 \%$ ， $\mathrm { I I }$ 组较II组升高 $5 . 4 2 \%$ ；脂肪消化率各组间差异不显著（ $( P { > } 0 . 0 5 )$ ，但I组较II组升高 $4 . 0 3 \%$ ， $\mathrm { I I }$ 组较II组升高 $4 . 4 6 \%$ 。
+
+2.3不同料水比的湿拌料对育成期银狐氮代谢的影响
+
+由表4可以看出，IⅢ组狐食入氮极显著高于I组和 $\mathrm { I I }$ 组 $( P { < } 0 . 0 1 )$ ，Ⅱ组也有高于I组的趋势，但差异不显著 ( $( P { > } 0 . 0 5 )$ ；粪氮排出量随着湿拌料中添加水分比例的升高而呈升高趋势，IⅢ组高于Ⅱ组，Ⅱ组高于I组，但差异均不显著（ $_ { _ { P < 0 . 0 5 ) } }$ ；IⅢI组尿液量极显著高于I组（ $_ { - P < 0 . 0 1 }$ ）且显著高于Ⅱ组（ $P { < } 0 . 0 5 )$ ，同时ⅡI组显著高于I组（ $_ { . } { \cal P } { < } 0 . 0 5 )$ ；尿氮排出量各组间差异不显著（ $( P { > } 0 . 0 5 )$ ，但在数值上I组低于Ⅱ组，Ⅱ组低于组；氮沉积各组间差异不显著（ $( P { > } 0 . 0 5 )$ ；净蛋白质利用率随着湿拌料中添加水分比例的升高有降低的趋势，但各组间均差异不显著（ $. P { > } 0 . 0 5 )$ ；蛋白质生物学价值I组显著高于ⅡI组和II组（ $_ { . P < 0 . 0 5 ) }$ 。
+
+表3不同料水比的湿拌料对育成期银狐营养物质消化率的影响
+
+Table 3Effects of different ratios offeed to water of wet mash on digestibility of protein,fat and DM of
+
+表4不同料水比的湿拌料对育成期银狐氮代谢的影响  
+
+<html><body><table><tr><td colspan="4">growing silver foxes %</td></tr><tr><td>项目Items</td><td colspan="3">组别 Groups</td></tr><tr><td></td><td>I</td><td>I</td><td>III P-value</td></tr><tr><td>干物质消化率</td><td></td><td></td><td>0.043 9</td></tr><tr><td>DM digestibility</td><td>80.01±8.67a</td><td>71.79±5.00b</td><td>69.84±3.74b</td></tr><tr><td>蛋白质消化率</td><td></td><td></td><td></td></tr><tr><td>Protein digestibility</td><td>79.10±8.15</td><td>75.61±4.47</td><td>71.72±3.65 0.121 4</td></tr><tr><td>脂肪消化率</td><td></td><td></td><td>85.16±2.59</td></tr><tr><td>Fat digestibility</td><td>88.59±4.15</td><td>88.96±1.82</td><td>0.100 2</td></tr></table></body></html>
+
+Table 4Effects of different ratios offeed to water of wet mash on nitrogen metabolize of growing silver foxes
+
+<html><body><table><tr><td colspan="4">项目Items</td><td>P值</td></tr><tr><td></td><td>I</td><td>II</td><td>Ⅲ</td><td>P-value</td></tr><tr><td>食入氮</td><td>8.98±0.68Bb</td><td>9.60±0.50Bb</td><td>11.37±0.72Aa</td><td></td></tr><tr><td>Nitrogen intake/ （g/d)</td><td></td><td></td><td></td><td>0.001 0</td></tr><tr><td>粪氮排出量</td><td></td><td>2.47±0.30</td><td>3.21±0.45</td><td></td></tr><tr><td>Fecal nitrogen output/（g/d）</td><td>2.35±0.20</td><td></td><td></td><td>0.0411</td></tr><tr><td>尿液量</td><td>193.50±20.44Bc</td><td>427.78±102.00Ab</td><td>554.83±44.72Aa</td><td><0.000 1</td></tr><tr><td>Amount of urine/(mL/d)</td><td></td><td></td><td></td><td></td></tr><tr><td>尿氮排出量</td><td>2.91±0.54</td><td>3.16±0.17</td><td>3.36±0.54</td><td>0.534 7</td></tr><tr><td>Urine nitrogen output/（g/d)</td><td></td><td></td><td></td><td></td></tr><tr><td>氮沉积</td><td>5.43±0.71</td><td>5.32±0.89</td><td>5.32±0.88</td><td></td></tr><tr><td>Nitrogen retention/ （g/d)</td><td></td><td></td><td></td><td>0.723 0</td></tr><tr><td>净蛋白质利用率</td><td>55.49±6.59</td><td>50.71±7.18</td><td>47.14±9.49</td><td>0.497 9</td></tr></table></body></html>
+
+蛋白质生物学价值
+
+<html><body><table><tr><td>Biological protein/%</td><td>value</td><td>of</td><td>77.00±6.56a</td><td>60.81±3.57b</td><td>62.15±9.19b</td><td>0.0371</td></tr></table></body></html>
+
+2.4不同料水比的湿拌料对育成期银狐体重的影响
+
+由表5可以看出，随着周龄的增加，3组银狐的平均体重明显的增加，12、14、16、19周龄平均体重以及各阶段的平均日增重、总增重各组间均差异不显著（ $. P { > } 0 . 0 5 )$ ；料重比各组间亦差异不显著（ $( P { > } 0 . 0 5 )$ ，但随着湿拌料中添加水分比例的降低，料重比有降低的趋势，Ⅱ组较IⅢ组降低 $4 . 3 0 \%$ ，I组较Ⅱ组降低$1 . 2 1 \%$ 。
+
+表5不同料水比的湿拌料对育成期银狐平均体重、平均日增重、总增重及料重比的影响
+
+Table 5Efects of different ratios of feed to water of wet mash onABW,ADG,total weight gain and F/G of growing silver foxes   
+
+<html><body><table><tr><td rowspan="2">3 Lems</td><td rowspan="2">周龄 Weeks of old</td><td colspan="3">组别Groups</td><td>P值</td></tr><tr><td>I</td><td>I</td><td>ⅢI</td><td>P-value</td></tr><tr><td>111100</td><td>12</td><td>3.46±0.21</td><td>3.47±0.21</td><td>3.39±0.18</td><td>0.772 8</td></tr><tr><td>平均体重</td><td>14</td><td>3.99±0.30</td><td>4.00±0.17</td><td>3.97±0.31</td><td>0.970 7</td></tr><tr><td>ABW/kg</td><td>16</td><td>4.48±0.30</td><td>4.57±0.22</td><td>4.55±0.25</td><td>0.910 9</td></tr><tr><td></td><td>19</td><td>5.30±0.38</td><td>5.27±0.17</td><td>5.29±0.22</td><td>0.987 4</td></tr><tr><td></td><td>12~14</td><td>37.99±7.92</td><td>38.20±9.10</td><td>37.44±5.48</td><td>0.984 9</td></tr><tr><td>平均日增重</td><td>14~16</td><td>30.18±1.47</td><td>38.39±4.40</td><td>35.89±5.74</td><td>0.223 1</td></tr><tr><td>ADG/ (g/d) C</td><td>16~19</td><td>35.27±4.26</td><td>33.57±5.77</td><td>33.04±7.64</td><td>0.836 6</td></tr><tr><td></td><td>12~19</td><td>36.18±3.23</td><td>36.33±2.64</td><td>37.46±3.81</td><td>0.846 8</td></tr><tr><td>总增重</td><td>12~19</td><td>1.77±0.16</td><td>1.78±0.13</td><td>1.84±0.19</td><td>0.846 8</td></tr><tr><td>Total weight gain/kg</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>料重比 F/G</td><td>12~19</td><td>5.71±0.34</td><td>5.78±0.40</td><td>6.04±0.18</td><td>0.383 1</td></tr></table></body></html>
+
+123 3讨论
+
+3.1不同料水比的湿拌料对育成期银狐采食量的影响
+
+银狐为犬科动物，具有易受应激、耐寒不耐热、汗腺不发达等习性特征，北半球银狐育成期在每年的7、8、9月份，正是夏季，天气炎热，本试验正是在此时开展的。本试验结果显示，银狐试验期的各周龄干物质平均采食量和总采食量随着湿拌料中添加水分比例的升高而不同程度的提高。添加低比例水分的湿拌料中水分很快蒸发后表面变干变硬，适口性受到影响，因此采食量降低；另外，在天气炎热的情况下如若不能及时供给饮水，含水量高的饲粮则有效地补充了银狐体内迅速散失的水分，降低了银狐的热应激反应，在奶牛的研究中也有过相关报道[10]。夏季高温情况下，动物受到热应激，表现出采食量降低，倦怠少动等现象[1]。在试验过程中发现，银狐在天气炎热的时候与犬一样，采用张口伸舌和快速呼吸的方式调节体温，这就需要通过大量水分蒸发散热。因此，在银狐的养殖中，养殖者应注意环境温度的变化，特别是在炎热的夏天，可通过增加喂水次数，饲料添加缓解热应激的添加剂，改善狐棚笼舍条件以避免阳光直射等途径避免银狐受到热应激，防止银狐中暑，提高动物的福利[2]。
+
+# 3.2不同料水比的湿拌料对育成期银狐营养物质消化率的影响
+
+银狐7周龄左右分窝，到12周龄时基本摆脱了断奶应激，肠道黏稠对饲粮已有一定的适应能力，而此时如果湿拌料添加水分比例过高，一方面加快了饲料通过消化道的速度，缩短了在肠道内停留的时间，另一方面稀释了消化道中的各种消化酶，降低了唾液、胃液等的分泌，从而影响各种营养物质的消化吸收[13-14]。本试验结果显示，随着湿拌料添加水分比例的升高，干物质消化率降低，并达到显著差异，且蛋白质消化率、脂肪消化率也均有降低趋势。银狐的试验结果与不同料水比的湿拌料对生长期乌苏里貉营养物质消化率的影响不显著的试验结果不同，与不同料水比的湿拌料对生长期蓝狐干物质消化率、脂肪消化率影响不显著，而蛋白质消化率随着湿拌料添加水分比例的升高有显著升高的试验结果7也不同，说明不同的毛皮动物之间对消化稀食的耐受程度有种属差异，其消化机理有待于进一步研究。
+
+# 3.3不同料水比的湿拌料对育成期银狐氮代谢的影响
+
+银狐尿液量随湿拌料中添加水分比例的升高而增加，且达到极显著的水平，在天气炎热的情况下银狐可以通过增加水代谢的方式带走热量，缓解热应激。湿拌料添加水分比例不同时银狐的尿氮排出量差异不显著，但有随湿拌料中添加水分比例的升高而增大的趋势，该结果与对蓝狐[7]、乌苏里貉[、猪[5]的研究结果一致。银狐采食饲粮中的含氮物质后，经体内消化代谢，一部分用于合成体蛋白质沉积于体内或被机体利用，另一部分作为代谢产物随粪、尿排出。氮沉积能够反映机体蛋白质利用情况，本试验结果显示，采食量随着湿拌料添加水分比例的升高而增加，食入氮增大的同时排出的粪氮、尿氮也不同程度的增加了，导致氮沉积各组间差异并不显著。净蛋白质利用率是指动物体内沉积的蛋白质或氮占食入的蛋白质或氮的百分比，蛋白质生物学价值是指体内沉积的蛋白质占食物中被消化蛋白质的百分比，二者均是评价蛋白质被利用程度的指标。本试验中净蛋白质利用率、蛋白质生物学价值均随着湿拌料中添加水分比例的升高而降低，表明饲粮中蛋白质的有效利用率降低了，而排泄出的比率增大了，这就增加了对环境的氮排放，氮排放是畜禽排泄物对环境造成污染的重要因素。因此，在保证动物生长的前提下，还需要考虑如何提高饲料资源特别是蛋白质原料的利用效率，减少养殖业的氮排放对环境造成的负面影响[16]。
+
+# 3.4不同料水比的湿拌料对育成期银狐体重的影响
+
+本试验结果显示，不同料水比的湿拌料对银狐不同周龄的平均体重、各阶段平均日增重、总增重以及料重比均无显著差异，这一结果与在猪[17-20]的相关研究结果一致。这是因为：一方面，银狐育成期调料一般用凉水，而毛皮动物排出的尿一般都是在 $3 5 ^ { \circ } \mathrm { C }$ 以上，湿拌料添加水分比例过高，则被动的增加了水代谢所需的能量，造成了能量的浪费[14]；另一方面，尽管湿拌料中添加高比例的水分使银狐的采食量增加了，提高了食入的总能，而银狐饲粮各种营养物质消化率均不同程度的降低了，降低了饲粮的有效利用，增大了料重比，增加了饲养成本，以这种方式提高采食量是无意义的。
+
+本试验条件下，随着湿拌料中添加水分比例的增加，银狐采食量增加，而营养物质消化率则不同程度降低，同时银狐的体重没有得到改善，使得料重比增大，同时增加粪氮和尿氮排出量，对环境造成污染，降低了饲粮的有效利用，因此育成期银狐湿拌料的料水比以1.0：2.5为宜。貉、蓝狐、银狐是我国3种主要的犬科毛皮动物，因这3种毛皮动物在生活习性、产毛周期、繁殖时间、营养需求等养殖要求和饲养条件相近，因此经常被混合养殖。本试验结果与生长期乌苏里貉[I、蓝狐得出的湿拌料中料水比分别以1.0:（20 $( 2 . 5 \sim 3 . 5 )$ 、1.0:( $3 . 5 { \sim } 4 . 5$ ）时较为埋想的结果不同，因此不同的毛皮动物应该汪意区分饲喂。
+
+4结论  
+在本试验条件下，银狐喜欢采食稀食，但综合考虑其他指标，从降低环境污染和饲料成本以及保证银狐体增重的角度出发，育成期银狐湿拌料中料水比以1.0：2.5为宜。  
+参考文献：  
+[1]王卓,孙伟丽,杨雅涵,等.干粉饲料中添加不同比例水分对生长期乌苏里貉生长性能、营养物质消化率及氮代谢的影响[J].中国畜牧兽医,2014,41(7):104-108.  
+[2]LAWLOR P GLYNCH P B,GARDINER G E,et al.Effect of liquid feeding weaned pigs on growthperformance to harvest[J].Journal of Animal Science,2002,80(7):1725-1735  
+[3]陈才勇,王恬.湿喂法在断奶仔猪生产中的应用[J].中国畜牧杂志,2003,39(1):45-47.  
+[4]曾元根,艾国良,周润清,等.不同料水比例对乳鸽育肥效果的影响[J].当代畜禽养殖业,1996(6):20.[5]刘凤英,佟晓红,井彦强.猪饲料的调制和筹划[J].养殖技术顾问,2007(8):28.  
+[6] 杨雪芬,李浩波,黄琳.不同水料比液体饲料对生长肥育猪生长性能的影响[J.广东饲料,2009,18(2):36-39.  
+[7]王卓,孙伟丽,徐逸男,等.干粉饲料中添加不同比例的水分对生长期蓝狐营养物质消化代谢和生长性能的影响[J].经济动物学报,2013,17(3):131-135.  
+[8]NRC.Nutrient requirements of mink and foxes[S].2nd ed.Washington,D.C.:National Academy Press,1982.[9]张丽英.饲料分析及饲料质量检测技术[M].2版.北京:中国农业大学出版社,2003.  
+[10]周景明,李平,郭立宏.夏季缓解奶牛热应激的综合调控措施[J].中国乳业,2008(7):70-71.  
+[11]江青艳,王松波,朱晓彤.热应激降低畜禽采食量的中枢调节机制[J].广东饲料,2012,21(增刊1):47-49.[12]邹剑敏.家禽福利的研究进展[J].中国畜牧兽医,2010,37(10):232-237.  
+[13]李中裕.干粉料饲喂毛皮动物技巧[J].农村养殖技术,2011(23):43.  
+[14]张海华,李光玉,刘佰阳.干粉料饲喂毛皮动物过程中的几个误区[J].特种经济动植物,2007,10(12):4-5.[15] 周大激,齐顺章,张焕荣,等.不同摄水量对猪血中葡萄糖、乳酸、FFA 含量以及尿中排氮量的影响[J].中国农业大学学报,1983,9(2):89-98.  
+[16]乔岩瑞.养殖业氮污染分析和营养学调控[J].饲料研究,2006(10):21-24.  
+[17]GILL B P,BROOKS P H,CARPENTER JL.Voluntary water use by growing pigs offered liquid foods ofdiffering water-to-meal ratios[J].British Society of Animal Production,1987,11:131-133.  
+[18]BARBER J,BROOKS P H,CARPENTER JL.The effcts of water to food ratio on the digestibilitydigestibleenergyandnitrogenretentionofagrowerration[J].BritishSocietyofAnimalProduction,1991,52(3):601-609.  
+[19]CHOCT M,SELBY E A D,CADOGAN D J,et al.Effect of liquid to feed ratio,steeping time,and enzymesupplementationontheperformanceof weaner pigs[J].AustralianJournalofAgriculturalResearch,2004,55(2):247-252.  
+[20]NANNONI E,MARTELLI G,CECCHINI M,et al.Water requirements of liquid-fed heavy pigs:effect ofwater restriction on growth traits,animal welfare and meat and ham quality[J].Livestock  
+Science,2013,151(1):21-28.
+
+Effects of Different Ratios of Feed to Water of Wet Mash on Feed Intake,Nutrient Digestibility, Nitrogen Metabolism and Body Weight of Growing Silver Foxes WANG ZhuolSUN Weili1ZHONG Wei1XUChaolZHAO JingbolLIU Fenghua²ZHANG Ting1 LI Guangyu1\* (1. State Key Laboratory of Special Economic Animal Molecular Biology,Institute of Special Animal and Plant Science of CAAS,Changchun 130112,China; 2. Weifang Business Vocational Collge,Zhucheng 262234,China)
+
+Abstract: This experiment was conducted to studythe effects of diffrent ratios offeed to water of wet mash on feed intake，nutrient digestibilty， nitrogen metabolism and body weight of growing silver foxes.Thirty 12-week-old healthy silver foxes with the average body weight of $( 3 . 4 4 \pm 0 . 1 9 \$ ）kg were randomly assigned into 3 groups,and each group had 1O foxes (half male and half female).The silver foxes in the three groups were fed experimental diets with wet mash of ratios offeed to waterof 1.0:2.5(group I),1.0:3.5(group II)and1.0: 4.5 (group Il),respectively. The experiment was 7 days for adaptation and 48 days for trial period.The results showed as follows:1） with the water ratio in wet mash increasing,the dry mater average daily feed intakes at different weeks old were increased by diffrent degres. Among them, the dry matter average daily feed intakes at 14,15,17,18 and19 weeks old in group II were extremely significantlyhigher than those in groupsIand II $( P { < } 0 . 0 1 )$ ,and the dry matter average daily feed intake at 16 weeks old in group II was significantly higher than that in group I ( $( P { < } 0 . 0 5 )$ . The dry matter total feed intake in group III was extremely significantly higher than that in groups I and I $( P { < } 0 . 0 1 )$ , and the dry matter total feed intake in group II was higher than that in group I, but the difference was not significant $( P { > } 0 . 0 5 )$ ). 2）The dry matter digestibility in group I was significantly higher than that in group III( $( P { < } 0 . 0 5 )$ . The protein digestibility in group I was $4 . 6 2 \%$ higher than that in group II , and that in group II was $5 . 4 2 \%$ higher than that in group III, but the differences were not significant ( $( P { > } 0 . 0 5 )$ ： Compared with the group III, the fat digestibility in group I was $4 . 0 3 \%$ higher and that in group II was $4 . 4 6 \%$ （204号 higher， but the differences were not significant ( $( P { > } 0 . 0 5 )$ . 3)Nitrogen intake in group III was extremely significantly higher than that in groups I and I $( P { < } 0 . 0 1 )$ , and that in group $\mathrm { I I }$ was higher than that in group I,but the difference was not significant $( P { > } 0 . 0 5 )$ .With the water ratio in wet mash increasing,the amount of urine was extremely significantly or significantly increased ( $\scriptstyle \cdot - 0 . 0 5$ or $P { < } 0 . 0 1$ ). The fecal nitrogen output, urine nitrogen output, nitrogen retention and net protein utilization were not significantly diference among all groups （20 $( P { > } 0 . 0 5 )$ ,but the fecal nitrogen output and the urine nitrogen output had an increasing trend and the net protein utilization had a decreasing trend with the water ratio in wet mash increasing.The biological value of protein in group I was significantly higher than that in groups II and III $( P { < } 0 . 0 5 )$ . 4） The average body weight of different weeks old,the average daily gain of each stage and the total weight gain were not significantly difference among all groups $( P { > } 0 . 0 5 )$ . The feed to gain in groups $\mathrm { I I }$ was $4 . 3 0 \%$ lower than that in group III,and that in group I was $1 . 2 1 \%$ lower than that in group $\mathrm { I I }$ ， but there were no significant differences among all groups $( P { > } 0 . 0 5 )$ . Considering all indices,the appropriate ratios of feed to water of wet mash is 1.O:2.5,for silver foxes in terms of reducing feed expenses and environmental pollution, and maintaining body weight. Key words: silver foxes; wet mash; ratio of feed to water; digestibility and metabolism; body weight

@@ -1,0 +1,267 @@
+# 基于改进单深层神经网络的自然场景中维吾尔文检测
+
+彭勇」，哈力旦·阿布都热依木」，丁维超²(1．新疆大学 电气工程学院，乌鲁木齐 830047;2．东南大学 苏州研究院，江苏 苏州 215028)
+
+摘要：针对自然场景中维吾尔文检测难度大的问题，改进了一种单深层神经网络对自然场景中维吾尔文进行检测。该网络结构由维吾尔文特征提取组件和多层特征融合的文本检测组件组成，以端到端的方式训练学习预测维吾尔文文本框的位置以及置信度。维吾尔文特征提取组件利用卷积神经网络提取自然场景维吾尔文图像中的多尺度和多层级维吾尔文特征。多层特征融合的文本检测组件则使用维吾尔文特征提取组件提取的特征，预测文本框的位置和维吾尔文类别的置信度。分析发现与中英文检测不同，维吾尔文文本具有更特殊的特征，针对这种特性设计了多宽高比和多尺寸大小的默认框并调整了部分卷积核的大小。经自然场景中具有维吾尔文的图片集实验表明，改进的单深层神经网络方法考虑了图像的多尺度和多层级征对检测精度的影响，算法的准确率和F值分别达到了0.7234和0.6115，提高了检测的准确率。
+
+关键词：维吾尔文检测；单深层神经网络；多尺度特征中图分类号：TP391 doi: 10.3969/j.issn.1001-3695.2018.02.0187
+
+# Uyghur text detection in natural scene based on improved single deep neural network
+
+Peng Yong1, Halidan·Abudureyimu1, Ding Weichao² (1.CollegeofElectricalEngineering Xinjiang UniversityUrumqi83047,China;2.Suzhou ResearchInstitute,Souteast University, Suzhou Jiangsu 215028,China)
+
+Abstract: Inorder toovercome thedifficultiesofdetecting theUyghurtextin naturalscene images,thispaperimprovedasingle deep neural network to detect Uyghur text in natural scene images.Thenetwork structurecombied the Uyghur feature extractionandthe multi-layerfeatures fusion textdetectioncomponent.What was more,itpredicted Uyghurtextboundingbox andtheconfidence score of Uyghur text inanend-to-end manner. Uyghur feature extraction component used convolutional neural network toextract multi-scale and multi-level Uyghur features from natural Uyghur images.The mult-layer features fusiontext detectioncomponent madeuseofthe features extractedbytheUyghur feature extractioncomponento predicthe positionofthe Uyghurtextbounding boxesandtheconfidenceofthe Uighurcategory.Theanalysis shows that Uyghur texthad more special featuresthan Englishand Chinese texts.Forthis feature,itdesignedadefault box with multiple aspectratiosand adjusted multiple sizes and the size of some convolution kerels.Experiments on Uyghur natural scene images collcted by pater recognitionand Intellgentcontrollaboratoryof electricalengineering collegeof Xinjianguniversity showthat the improved single deep neural network method considers the influenceof multi-scale and multi-level images on the detection accuracy and improves the detectionaccuracy.The accuracyand theFvalueofthe algorithm respectivelyreach 0.723 4and 0.611 5.
+
+Key words:Uyghur text detection; single deep neural network;multi-scale features
+
+# 0 引言
+
+英文识别技术受到了广泛的关注，但自然场景中维吾尔文识别研究者甚少。维吾尔语是一种黏着语，句子以主语-宾语-谓语(SOV)的词序构成。名词会因应数及语义格而变化。名词有单数和众数之分，以及六种语义格：主格、宾格、与格、属格、离格、方位格。维吾尔语有32个字母，其中有8个元音，24个
+
+文字作为人类高层语义信息中最直接的表示形式，在图像理解中扮演着不可或缺的角色。自然场景中的文字识别一直以来是文字识别领域一项非常有挑战性的工作。自然场景中的中辅音，共有128种字符形式；每一种字母按出现的位置不同分为有后连形式、前后连形式、前连形式和独立形式等四种，维吾尔语单词是一种粘连性字符，这些字符的连接形成连体段，字母互相连接的水平线叫做基线。另外有些维吾尔字母主体相同，仅用以上、下点标记来区分字符的不同[1。自然场景中文本检测是自然场景中文字识别的前期环节，它的目的是判断不同场景图像（警示牌、街道标志等）是否存在文本，若存在则定位文本所在位置。自然场景中的文字检测的难点有以下几点：不均匀的光照、低的光照对比度和部分遮挡、多方向的文本、拍照时所造成的图像文本透视变形，如图1所示。
+
+![](images/e1a3278adb0ec79448acbdee88a70c63ee5e30a73f59b20d8b580aaa50e5e032.jpg)  
+图1自然场景中的维吾尔文检测难度大的图像
+
+上述所说的难点是自然场景中文字检测所面临的共同难点。自然场景中维吾尔文检测的难点还在于与其他语言相比，维吾尔文字的形状在不同的拼写方式上有所不同，而且一个词中的字符经常粘合在一起，这就意味着维吾尔文字在文字书写上的差异很大。此外，经常在字符周围使用不定数量的点（即点在字符上方、下方或内部）可能很容易被误认为是噪声[2]。维吾尔文有明显区别于中英文的特征就是维吾尔文的基线特征，如图2所示。
+
+jeASS
+
+本文主要研究单深层神经网络方法检测自然场景中维吾尔文,贡献有以下两点：
+
+a)改进了单深层神经网络结构用于提取自然场景维吾尔文的多层级和多尺度的特征。b)针对自然场景中维吾尔文文本行的特性，设计了多尺度大小，多宽高比的默认框并调整了部分卷积核的大小以适应自然场景中维吾尔文检测的需要。
+
+# 1 相关工作
+
+为了解决上述因素对自然场景中的文本检测所造成的困难，众多学者做出了大量的工作，大致可以分为以下几类：基于纹理的方法、基于连通区域的方法以及这两种方法的融合。颜色、边缘、笔画和局部二值模式，角点、梯度方向直方图是典型的被使用的特征。
+
+基于纹理的方法[34]一般是考虑到图片中文本的纹理特征显著得区别于它的背景信息。研究者使用滑动窗口的方法提取诸如局部二值模式、梯度方向直方图的特征。但是这些方法一般对于多朝向和尺寸变化比较大的场景图像鲁棒性差，而且计算代价高。
+
+基于连通区域的方法[5]主要是通过边缘检测[]、最大稳定极值区域 $( \mathrm { M S E R } ^ { [ 8 \sim 1 1 ] }$ ）、颜色增强对比度极大值区域等多种技术提取文本候选区域，然后使用特别设计的规则或一些自动训练的分类器(如SVM)滤除非文本成分。
+
+图像中维吾尔文检测：Fang等人利用卷积神经网络检测复杂背景图像中的维吾尔文。Tursun 等人[2采用了Harris角点和数学形态学方法产生候选文本区域，根据启发式的规则去除了一些典型的非文本区域，并利用了维吾尔语文本的基线特征对候选文本区域进行了验证。李敏强等人[13在图像的同质化空间通过角点检测快速获得候选文本区域后，提出了改进了局部二值化模式特征用于对维吾尔文候选文字区域的分类确认研究，该方法的效果在一定程度上依赖于前期的通过角点检测得到候选区域的完备性。Liu等人[14 根据检测到的文本的纹理和边缘特征建立了一种基线结构特征，但该方法容易因为自然场景图像复杂的背景和一些未知的噪声影响文本二值化，使得基线特征的提取效果不好，致使检测精度下降。
+
+# 2 算法思想
+
+本文设计的自然场景中维吾尔文检测系统的整体框架如图3所示。首先获取自然场景中的维吾尔文图像样本，并且对样本中维吾尔文区域进行标注；然后将样本输入到改进的单深层神经网络的特征提取组件提取原始图片的特征，再将提取的特征输入到多层特征融合检测模块，进行维吾尔文是否存在的判别和定位。
+
+![](images/353f89b429561eaf1d5e0524a7bc1da5204635cc80c0206fd74f0fe02f93bf3b.jpg)  
+图2维吾尔文的基线特征  
+图3自然场景中维吾尔文检测系统整体框架图
+
+本文所采用的神经网络结构：
+
+选择该网络架构的原因主要有以下两方面的考虑：
+
+a)本文所采用的架构的层次必须有合适的深度使其能够有效地提取多层级水平的特征图谱；
+
+b)能够有效地提取维吾尔文的基线特征或者其他的维吾尔文的本质特征，适应维吾尔文文本行的特点。
+
+本文借鉴了在英文检测取得了较好效果的TextBoxes[15中的单深层神经网络结构，并增加了一层文本框层，同时重新设计了候选框的长宽比，并调整了部分卷积核的大小以适应维吾尔文文本行检测的需要。
+
+本文所设计改进的单深层神经网络算法，它采用基于特征金字塔检测的方式将不同卷积层的特征图谱进行综合然后分别检测，最后通过非极大值抑制算法将结果综合，直接预测目标类别和边界框。
+
+网络结构总体架构如图4所示。
+
+![](images/5e0dfdc73da1f03c0458822ee8fd83761db8fa9ba44aa9c6a7503805fae0b12f.jpg)  
+图4改进的单深层神经网络结构图
+
+如图4所示，此神经网络架构由28个全卷积神经网络组成。前13层是使用VGG-16的网络层，另外11个卷积神经网络是在VGG-16层后，文本框层连接到6个卷积层。在每一个特征图谱定位中，一个文本框层预测30维向量，该向量为文本存在的得分和5个默认框的偏置，在最后阶段使用非极大值抑制融合所有文本框的输出。
+
+网络结构分为特征提取组件和多层特征融合的文本检测组件。
+
+本网络架构继承了VGG-16架构，保留了conv1_1到卷积conv5_3的网络层数，同时将VGG-16的网络的后两个全连接层以参数下采样的方式转变为了conv6、conv7这两个卷积层，在conv8_2后添加了conv8_3,在conv8_3后紧接着6个不同卷积层被分为三个部分：conv9\~conv11。
+
+多层特征融合的检测组件是改进的单深层神经网络的关键组成部分，它以输入特征图为条件，同时预测维吾尔文是否存在和维吾尔文文本框的位置。在每一个图谱的定位阶段，它以卷积的方式输出分类的得分和其相关联的默认框的位置偏移量。本文使用从conv4_3、conv7、conv8_2、conv9_2、conv10_2、conv11_2提取的特征，在各层的特征图上产生5种比例的默认框，默认框会映射回原图（默认框中心点的位置乘以 steps)。假设卷积特征图的尺寸大小为 $\mathbb { W } \times \mathbb { H } .$ 那么该层产生的默认框有 $5 \times \mathrm { W } \times \mathrm { H }$ 个，如图5所示。同时对这6种不同的卷积层的输出特征图谱分别用两个不同的 $3 { \times } 5$ 的卷积核进行卷积，这种卷积核的设计产生的矩形感受野，它可以更好地拟合具有更大横纵比的维吾尔文。一个输出分类用的置信度，每个默认框生成2个类别（维吾尔文和背景）置信度；一个输出回归用的位置，每个默认框生成4个坐标值 $( x , y , w , h )$ 。
+
+确定默认框的中心坐标，尺寸大小和宽高比例：
+
+$$
+s c a l e _ { k } = s _ { \mathrm { m i n } } + \frac { s _ { \mathrm { m a x } } - s _ { \mathrm { m i n } } } { m - 1 } ( k - 1 ) , k \in [ 1 , \ m ]
+$$
+
+$s _ { \mathrm { m i n } } = 0 . 2 , s _ { \mathrm { m a x } } = 0 . 9 5 , \mathrm { m }$ ：:代表特征图谱的个数，根据图像中维吾尔文文本行的特点，使用不同的宽高比例，$a \in \{ 1 . 5 , 3 , 5 , 0 . 3 3 3 , 0 . 2 \}$ ，宽度 $( w = s c a l e _ { k } \times \sqrt { a } )$ ，高度（ $( h = s c a l e _ { \boldsymbol { k } } / \sqrt { a } )$ ),每一个默认框的中心坐标设置为 $( \frac { i + 0 . 6 } { \left| f _ { k } \right| } , \frac { \mathrm { j } + 0 . 7 } { \left| f _ { k } \right| } )$ 中 $\left| f _ { k } \right|$ 是第 $\mathbf { k }$ 个特征图谱的大小，同时 $i , j \in \left[ 0 , \left| f _ { k } \right| \right]$ 。对于每个特征图谱单元共有5种默认框，这种默认框在不同的特征层上有不同的尺寸，在同一特征图上拥有不同的长宽比，因此可以覆盖输入图像中的绝大部分尺寸大小的维吾尔文文本。
+
+![](images/bcd225c409a6fb7e08b697d15c194f50a267df8eeb7eb93b15a0c21b22805bd5.jpg)  
+图5特征图上产生默认框
+
+假设图像的大小为 $\left( \begin{array} { l } { } \\ { w _ { i } } \end{array} h _ { i } \right)$ ，特征图谱的大小为 $( w _ { m } \mathrm { ~ } , \ h _ { m } )$ 。在每一图谱定位 $( i , j )$ 它相关联的一个默认框 $( \mathrm { c } _ { x } , \mathrm { c } _ { y } , \mathrm { w } _ { 0 } , \mathrm { h } _ { 0 } )$ ，多层特征融合的文本检测组件预测值 $\mathrm { ~ \widetilde { \Omega } ~ } _ { \Delta \mathrm { { x } } , \Delta \mathrm { { y } } , \Delta w , \Delta h , \Delta c } \mathrm { ~ \widetilde { \Omega } ~ }$ ，表示边框盒 ${ \sf b } \left( x , y , w , h \right)$ 以置信度C被检测到，这里
+
+$$
+\begin{array} { r l } & { \mathrm {  ~ x ~ } = \mathrm {  ~ c _ { x } ~ } + w _ { 0 } \triangle x } \\ & { \mathrm {  ~ y ~ } = \mathrm {  ~ c _ { y } ~ } + h _ { 0 } \triangle y } \\ & { w = w _ { 0 } \ ^ { * } \exp ( \triangle w ) } \\ & { h = h _ { 0 } \cdot \mathrm {  ~ \hat { \Omega } ~ } } \end{array}
+$$
+
+单深层神经网络训练的目标函数由定位损失函数和置信度损失函数组成。
+
+$$
+\scriptstyle \mathrm { l o s s } ( \mathrm { x , c , l , g } ) = { \frac { 1 } { N } } ( l o s s _ { _ { c o n } } ( x , c ) ) + \alpha l o s s _ { _ { l o c } } ( x , l , g )
+$$
+
+其中：定位损失函数为
+
+$$
+\mathrm { l o s s } _ { l o c } ( x , c ) = \sum _ { \substack { i \in p o s , m \in \left\{ c _ { x } , c _ { y } , w _ { 0 } , h _ { 0 } \right\} } } ^ { N } \sum x _ { i j } ^ { k } \mathrm { s m o o t h L } 1 ( l _ { i } ^ { m } - \stackrel { \wedge } { g } _ { j } ^ { m } )
+$$
+
+$$
+\stackrel { \wedge c _ { x } } { g } _ { j } ^ { } = \big ( g _ { j } ^ { c _ { x } } - d _ { i } ^ { c _ { x } } \big ) / d _ { i } ^ { w _ { 0 } }
+$$
+
+$$
+\stackrel { { \wedge } c _ { y } } { g } _ { j } ^ { \bigstar } = \big ( g _ { j } ^ { c _ { y } } - d _ { i } ^ { c _ { y } } \big ) / d _ { i } ^ { h _ { 0 } }
+$$
+
+$$
+\hat { g } _ { j } ^ { w _ { 0 } } = \log _ { 1 0 } ( \frac { g _ { j } ^ { w _ { 0 } } } { d _ { i } ^ { w _ { 0 } } } )
+$$
+
+$$
+\hat { \boldsymbol g } _ { j } ^ { \mu _ { 0 } } = \mathrm { l o g } _ { 1 0 } ( \frac { g _ { j } ^ { h _ { 0 } } } { d _ { i } ^ { h _ { 0 } } } )
+$$
+
+置信度损失函数为
+
+$$
+\mathrm { l o s s } _ { c o n } = - { \sum _ { i \in p o s t i v e } ^ { N } } x _ { i j } ^ { p } \log _ { 1 0 } ( c _ { i } ^ { p } ) - { \sum _ { i \in n e g a t i v e } ^ { N } } x _ { i j } ^ { p } \log _ { 1 0 } ( c _ { i } ^ { o } )
+$$
+
+$$
+C _ { i } ^ { p } = \frac { e x p ( c _ { i } ^ { p } ) } { \sum _ { p } e x p ( c _ { i } ^ { p } ) }
+$$
+
+说明： $l o s s _ { c o n }$ 代表置信度损失，是softmax损失,输入为每一个类的置信度 $\mathrm { ~ \varsigma ~ } _ { \mathrm { ~ \ / ~ C ~ } }$ 。
+
+$l o s s _ { l o c }$ 代表定位损失，loss代表总的损失，N代表代表匹配的默认框数目， $\mathrm { \bf { g } }$ 代表ground-truth 框的参数， $\mathtt { \mathtt { q } }$ 代表平衡因子，设置为1，i代表预测的框，d代表默认框， $\mathrm { c } _ { x } , \mathrm { c } _ { y }$ 代表默认框的中心坐标， $\mathrm { ~ w ~ } _ { 0 }$ 代表默认框的宽度， $\mathrm { h } _ { \mathrm { 0 } }$ 代表默认框的高度。$x _ { i j } ^ { \rho } = \mathbf { 1 }$ 表示第 $i$ 个默认框与类别P的第 $j$ 个 ground truth相匹配，如果不匹配则 $x _ { i j } ^ { p } = 0$ ，其实只有两个类别（维吾尔文，背景区域)。
+
+对于同比例汉字或英文字母，如何区分？本文使用了样本匹配策略。首先需要将ground-truth 框与默认框进行配对，用来组成标签。这里根据 ground-truth 框与默认框的重叠率来进行匹配，只要两者之间重叠率大于一个给定的阈值，则将两者配对。这里的阈值设为0.6。当阈值大于0.6时，会被当做正样本。因对图像中的维吾尔文文本区域进行了Ground-truth框标注，所以图像中的维吾尔文文本区域会被当作正样本；同时由于图像中的中英文区域没有标注，所以中英文区域会被当做负样本。
+
+难的负样本挖掘：在将ground-truth框与默认框进行匹配后，需要控制产生的负样本和正样本的比例，以便于更快优化，更稳定训练。本方法采取先将每一行维吾尔文文本行的位置对应的预测框（默认框）是负框的进行排序，按照默认框的置信度排序，选择最高的几个，同时保证负样本：正样本 $\scriptstyle : = 3 : 1$ 。
+
+训练过程：训练时训练数据被统一为 $3 5 0 ^ { * } 5 0 0$ 像素大小,并随机水平翻转。使用随机梯度下降(SGD)训练，训练的权值衰减取0.0005，动量取0.9，学习率初始值取0.01，之后每4万次减少为原来的0.1。
+
+数据增强：将原始图像进行不同程度颜色变换和对比度变化，或者添加四种不同比例的高斯噪声。
+
+# 3 实验与分析
+
+本文将自然场景中的维吾尔文检测问题转换为二分类（维吾尔文和背景)问题与边框回归问题，训练策略采用fine-tuning技术，采用VOC2007数据集格式。
+
+本文实验平台说明：Ubuntul6.04系统，使用Caffe框架，8 GB内存，CPU为Inteli7处理器,GPU为NVIDIA的GeForceGTX1080,8BG显存。本章通过可视化改进的单深层神经网络学习到的特征，说明计算机是如何确定维吾尔文区域。同时主要讨论两方面内容：一是单深层神经网络结构对检测性能的影响；二是改进的单深层神经网络方法与其他方法的比较。
+
+# 3.1实验数据集和评价指标
+
+在目标检测中常用的评价指标有以下几类：
+
+准确率=正确检测到的文本框数目总共检测到的文本框数目召回率= 正确检测到的文本框数目数据集总共的文本框的数目
+
+由于缺乏公开且标注好的自然场景中维吾尔文图像数据集本文所采用的自然场景中维吾尔文图像数据集由新疆大学电气工程学院模式识别与智能控制研究室从新疆乌鲁木齐市街景实际采集而来，其中有一小部分图像是从网上下载而来。文本图像包括了广告牌、招牌、路标告示、宣传栏等场景文本图像。由于拍摄角度和距离原因，图像尺寸大小各有差异，图像中的大部分文本都是维吾尔文混杂着小部分中文和极小部分的英文与阿拉伯数字。这些文本的尺寸、颜色和大小各不相同，而且分布在图像中的不同位置。单深层神经网络需要输入统一大小的图片，所以本实验把图片都统一为 $3 5 0 ^ { * } 5 0 0$ 的尺寸。为了能够训练出合适的模型，需要构造训练样本集和测试的样本集；同时为了确保数据集构造分布合理，本实验将原始图像660张，随机地分为550张训练样本和110张测试样本，并且对550 张训练样本中的部分数据做了数据扩充，得到了3930张数据增强的图片。本数据集中所有的图像都用Label-Image 工具对文本区域做了标注。即对每张图像中的维吾尔文文本坐标都被提前标注出来，以方便最后模型的评测。本文实验制作的自然场景中的维吾尔文数据集包括4590张/JPG，Labels:4590个XML。
+
+训练样本与测试样本集说明如表1所示。
+
+表1训练样本与测试样本集说明  
+
+<html><body><table><tr><td>类型</td><td>图片尺寸</td><td>数量</td></tr><tr><td rowspan="2">训练样本</td><td rowspan="2">350*500</td><td>550 张自然场景中的图片和3930 张数据</td></tr><tr><td>增强得到的图片</td></tr><tr><td>测试样本</td><td>350*500</td><td>110张自然场景中的图片</td></tr></table></body></html>
+
+部分训练样本和测试样本分别如图6、7所示。
+
+![](images/e17adbd0dbf205040313480bb1525ecf39f0df29d8c59895dd3e9b3fb202e72b.jpg)  
+(a）自然场景中维吾尔文图片训练样本示例
+
+![](images/059871f7029825243c96242468c78ced4f84dfb42e0cf467810d587eaa60bb18.jpg)  
+图6部分训练样本图片
+
+(b）数据增强得到的部分训练图片
+
+![](images/7cd54cd04b299e0f44c10828e7c04e973b1cea1c8788b6b8d7fe0e70634093a2.jpg)  
+图7自然场景中维吾尔文图片测试样本部分示例图片
+
+# 3.2特征提取
+
+CNN在图像的目标检测中具有位移不变性、缩放不变性及其他形式的扭曲不变性。由于CNN的特征检测层通过训练数据进行学习，不需要进行特征的设计和抽取，自动训练学习抽取特征。本节通过可视化一些网络层学习提取到的特征，说明改进的单深层神经网络检测自然场景中的维吾尔文的中间过程。
+
+某测试图片如图8所示。图9中给出了检测识别某测试图片过程中的部分卷积层的特征图。
+
+从图中可以看出，不同卷积层提取的图像的特征尺度不一样。Convl_1、convl_2、conv2_1、conv2_2学习到的是一些基本特征例如颜色、边缘等底层特征。底层提取的是图像的浅层的全局的特征，上层提取的是图像高层的局部特征。
+
+改进的单深层神经网络的卷积核是从训练数据中学习得到的。图10为本文训练后得到的部分层所使用的卷积核。
+
+![](images/cc4a640335cbaa2c71a7aa611ab09a267221a91261e03a7af3ed319049d4c2c6.jpg)  
+图8测试图片
+
+![](images/70372b38748978d509b4a044b4f56f7ce57aca0165fcf4c2ba446ba3ee87197f.jpg)
+
+![](images/298dc1fe661759a3297dfaf96c1abd33cff382ef5baf99912356c1eedbf64372.jpg)  
+图9部分卷积层的特征图
+
+![](images/e71bdd792b8a5611bcc63fce813b52c3684589224545d930a3dc77c7c8459b94.jpg)  
+图10卷积核提取的特征
+
+# 3.3结果分析
+
+训练结果如表2所示。
+
+表2训练过程中平均检测精度随迭代次数的变化  
+
+<html><body><table><tr><td>迭代次数</td><td>平均检测精度</td></tr><tr><td>5000</td><td>0.2903</td></tr><tr><td>10000</td><td>0.5420</td></tr><tr><td>15000</td><td>0.5304</td></tr><tr><td>20000</td><td>0.5225</td></tr><tr><td>25000</td><td>0.5311</td></tr><tr><td>30000</td><td>0.5500</td></tr><tr><td>35000</td><td>0.5789</td></tr><tr><td>40000</td><td>0.5208</td></tr><tr><td>45000</td><td>0.5716</td></tr><tr><td>50000</td><td>0.5508</td></tr><tr><td>55000</td><td>0.5280</td></tr><tr><td>60000</td><td>0.5704</td></tr></table></body></html>
+
+从表2可知，随着训练迭代次数的增加，算法的平均检测精度总体是呈上升趋势，最高的平均检测精度在0.57左右。
+
+单深层网络结构使用了不同特征图谱的网络层作维吾尔文文本框预测时性能对比，如表3所示（此时交并比( $\mathrm { \langle } \mathrm { I O U } ) { = } 0 . 5 \mathrm { \rangle }$ ）
+
+表3单深层神经不同网络结构的性能对比  
+
+<html><body><table><tr><td>做文本框预测时所使用的特征图</td><td>网络结</td><td>网络结</td><td>网络结</td><td>网络结</td></tr><tr><td>谱网络层</td><td>构1</td><td>构2</td><td>构3</td><td>构4</td></tr><tr><td>Conv4_3</td><td>√</td><td>√</td><td></td><td>√</td></tr><tr><td>Conv5_3</td><td>√</td><td></td><td>√</td><td></td></tr><tr><td>Conv7</td><td>√</td><td>√</td><td>√</td><td>√</td></tr></table></body></html>
+
+<html><body><table><tr><td>Conv8_2</td><td>√</td><td></td><td>√</td><td>√</td></tr><tr><td>Conv9_2</td><td>√</td><td>√</td><td>√</td><td>√</td></tr><tr><td>Conv10_2</td><td>√</td><td></td><td>√</td><td>√</td></tr><tr><td>Conv11_2</td><td></td><td></td><td></td><td>√</td></tr><tr><td>Pool6</td><td>√</td><td>√</td><td>√</td><td></td></tr><tr><td>评价指标</td><td>网络结</td><td>网络结</td><td>网络结</td><td>网络结</td></tr><tr><td></td><td>构1</td><td>构2</td><td>构3</td><td>构4</td></tr><tr><td>准确度</td><td>0.4241</td><td>0.5395</td><td>0.6186</td><td>0.7234</td></tr><tr><td>召回率</td><td>0.3873</td><td>0.4205</td><td>0.3175</td><td>0.5247</td></tr><tr><td>F值</td><td>0.4241</td><td>0.4726</td><td>0.4196</td><td>0.6115</td></tr></table></body></html>
+
+从表3可知，添加了卷积层conv112后提取的特征对于后面的维吾尔文文本框的预测有比较好的提升效果。这主要是因为增加了多层级和多尺度的特征用于后期的维吾尔文文本框的预测，同时设计了合适的多宽高比和多尺度的默认框，并调整了部分卷积核的大小以适合自然场景中维吾尔文图像文本行的特点。
+
+为了进一步验证算法的有效性，将不同方法在数据集进行测试，作算法性能对比，如表4所示。
+
+表4不同方法在我们数据集的测试性能对比  
+
+<html><body><table><tr><td rowspan="2">方法</td><td colspan="3">交并比阈值=0.5</td><td colspan="3">交并比阈值=0.6</td></tr><tr><td>召回率</td><td>正确率</td><td>F值</td><td>召回率</td><td>准确率</td><td>F值</td></tr><tr><td>Faster-</td><td>0.6471</td><td>0.3659</td><td>0.4660</td><td>0.5882</td><td>0.3354</td><td>0.4272</td></tr><tr><td>RCNN[16] TextBoxes[15]</td><td>0.4205</td><td>0.5395</td><td>0.4726</td><td>0.3385</td><td>0.4342</td><td>0.3804</td></tr><tr><td>本文算法</td><td>0.5247</td><td>0.7234</td><td>0.6115</td><td>0.4753</td><td>0.6754</td><td>0.5580</td></tr></table></body></html>
+
+从表4可知，本文算法在数据集上测试，虽然召回率低于Faster-RCNN，但是F值和准确率均高于Faster-RCNN和TextBoxes方法，而且交并比阈值为0.5的结果优于交并比阈值为0.6时的结果。综合几个评估标准，本文算法具有较好的性能。
+
+成功检测到的带有维吾尔文的图片部分结果展示如图11所示。
+
+![](images/19a2837879d89a1fc2a847ecac12bf9f5e0cc5a2eae8bb5bcdfa0816403f25d5.jpg)  
+图11成功检测到的带有维吾尔文的图片部分结果展示
+
+# 4 结束语
+
+本文改进了单深层神经网络检测自然场景中的维吾尔文。实验表明改进的单深层网络较好地考虑了图像的多尺度、多层级特征对维吾尔文检测准确率的影响，提高了检测的准确度。今后改善的侧重点为以下两个方面：一是针对自然场景中维吾尔文的特点提出多边形边框回归的算法，以减少因为文字多方向的问题，造成直接使用矩形边框回归导致的检测的准确率不高；二是如何将传统特征与深层神经网络提取的特征融合，用于自然场景中的维吾尔文检测中。
+
+# 参考文献：
+
+[1]艾力·居麦，哈力旦·A，黄浩．视频图像中维吾尔文字的识别研究[J]. 计算机工程与应用,2011,47(36):190-192.(ELIJume,Halidan.A,Huang Hao.Recognition of extracting Uyghur texts from videos images [J]. Computer Engineering and Application, 2011,47 (36): 190-192.)
+
+[2]Fang Shancheng,Xie Hongtao,Chen Zhineng,et al.Detecting Uyghur text in complex background images with convolutional neural network [J]. Multimedia Tools & Applications,2017,76 (13): 1-21.
+
+[3]Li Huiping,Doermann D,Kia O.Automatic text detection and tracking in digital video [J].IEEE Trans on Image Processing,20oo,9(1):147-56.
+
+[4]Lee JJ,Lee PH,Lee S W,et al.AdaBoost for text detection in natural scene [C]//Proc of IEEE International Conference on Document Analysis and Recognition.2011: 429-434.
+
+[5]Yao Cong.Detecting texts of arbitrary orientations in natural images [C]/ Proc of IEEE Conference on Computer Vision and Pattern Recognition.[S. 1.]:IEEE Computer Society,2012:1083-1090.
+
+[6]Huang Weilin,Lin Zhe,Yang Jianchao,et al.Text localization in natural images using stroke feature transform and text covariance descriptors [C]/ Proc of IEEE International Conference on Computer Vision.2014:1241- 1248.
+
+[7]Lu Shijian,Chen Tao,Tian Shangxuan,et al. Scene text extraction based on edges and support vector regression [J]. International Journal on Document Analysis& Recognition,2015,18(2):125-135.
+
+[8]Kethineni V, Velaga S M. Text detection on scene images using MSER [J]. International Journal of Research in Computer and Communication Technology,2015,4(7): 2320-5156.
+
+[9]Liu Shun,Xie Hongtao,Yin Jian,et al.Uyghur language text detection in images [C]// Proc of the 8th International Conference on Digital Image Processing.International Society for Optics and Photonics.2016:1003345.
+
+[10] Liu Shun,Xie Hongtao, Zhou Chuan,et al. Uyghur language text detection in complex background images using enhanced MSERs [C]//Proc of International Conference on Multimedia Modeling.Cham: Springer, 2017: 490-500.
+
+[11]哈恩楠，吉立新，高超．基于对象建议算法的自然场景文本检测 [J/OL].计算机应用研究，2018(01):1-7[2018-02-28]. http://sq.lib.xju.edu.cn:80/rwt/CNKI/http/NNYHGLUDN3 WXTLUPMW4 A/kcms/detail/51.1196.TP.20170119.1538.014.html.(Ha Ennan,JiLixin, Gao Chao.Scene text detection based on object proposals [J/OL]. Application Research of computers,2018 (01):1-7 [2018-02-28]. http://sq. lib.xju.edu.cn:80/rwt/CNKI/http/NNYHGLUDN3WXTLUPMW4A/ kcms/detail/51.1196.TP.20170119.1538.014. html.)
+
+[12] Tursun Dilmurat,LiKai,Gulxax Halelbek,et al.A joint approach of harris corners detection and baseline searching for localization ofUyghur text lines in image sequences[J].Journal of Information Hiding& Multimedia Signal Processing,2016,7(2):352-361.
+
+[13]李敏强，哈力旦·阿布都热依木，闫轲．一种改进型局部二值模式的维吾尔文定位算法[J].河南科技大学学报：自然科学版，2015,36(3)：43-47.(Li Mingqing,Halidan $\cdot \cdot$ Abudureyimu,Yan Ke.An Uyghur textalgorithm based on improved Local Binary Pattern Features [J].Journal ofHenan University of Science and Technology: Natural Science,2O15,36 (3):43-47.)
+
+[14]Liu Chang,Song Yifan,Zhao Zhicheng,et al.Fast Uyghur text detection in
+
+videos based on learning of baseline feature [C]//Proc of Visual Communications and Image Processing.2016:1-4.   
+[15]Liao Minghui,Shi Baoguang,Bai Xiang,et al.TextBoxes:a fast text detector with a single deep neural network [EB//OL].(2016-11-21) .arXiv: 1611. 06779.   
+[16]Ren Shaoqing,He Kaiming,R Girshick,et al.Faster R-CNN: towards realtime object detection with region proposal networks [J].IEEE Trans on Pattern Analysis& Machine Intelligence,2017,39(6):1137-1149.

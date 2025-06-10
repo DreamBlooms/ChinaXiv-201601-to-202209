@@ -1,0 +1,261 @@
+[
+    {
+        "type": "text",
+        "text": "Top Quark at the Upgraded Tevatron to Probe New Physics ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jin Min Yang a,b,2 and   \nA.Datta $b$ ， M. Hosch $b$ , C. S. Li $c$ ， R. J. Oakes $a$   \nK. Whisnant $\\boldsymbol { b }$ , Bing-Lin Young $\\boldsymbol { b }$ , X. Zhang d $d$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（204号 $a$ Department of Physics， Northwestern University， Evanston, Il 60208 $\\boldsymbol { b }$ Department of Physics and Astronomy, Iowa State University, Ames, IA 50011 （ $c$ Department of Physics, Peking University， Beijing， China （20 $d$ Institute of High Energy Physics, Academia Sinica, Beijing, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This talk is a brief review of the recent studies on probing new physics through single top quark processes and probing exotic top quark decays at the upgraded Tevatron. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The exceedingly heavy top quark is believed to be more sensitive to new physics than others. The upgraded Tevatron will provide a good opportunity to study top quark properties. Apart from the dominant top pair production which tests the top's QCD properties, the single top productions [1] are also interesting to study since they involve the electroweak interaction and can, therefore,be used to probe new physics in top's electroweak couplings. Analyses show that new physics effects that produce larger than $1 6 \\%$ effect on the single top cross section should should be detectable at the upgraded Tevatron [2]. On the other hand, since top events will increase significantly at the upgraded Tevatron, it is interesting to search for exotic top decays predicted by new physics models. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This talk is a brief review of some recent studies on the ability of single top quark production at the upgraded Tevatron to probe new physics as well as the possibility of observing the exotic decay mode of the top quark predicted by Minimal Supersymmetric Model (MSSM). About the SUSY efects in top pair production, we refer to [3] and will not discuss them further. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Model-independent Analysis for New Physics in Single Top Production ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Since no direct signal of new particles has been observed so far, it is very likely that the only observable effects of new physics at energies not too far above the SM energy scale could be in the form of new interactions affecting the couplings of the third-family quarks,and the untested sectors of the Higgs and gauge bosons. In this spirit, the new physics effects can be expressed as non-standard terms in an effective Lagrangian describing the interactions among third-family quarks, the Higgs and gauge bosons, which were enumerated in [4, 5,6]. In the following we pick out those which affect single top production at the Tevatron. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Two typical operators which contribute to LEP I and LEP II observables, $\\sigma _ { t \\bar { t } }$ and $A _ { F B } ^ { t }$ at NLC and $\\sigma _ { t \\bar { b } }$ at the Tevatron are [5]: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { { \\cal O } _ { q W } } } & { { = } } & { { \\left[ \\bar { q } _ { L } \\gamma ^ { \\mu } \\tau ^ { I } { \\cal D } ^ { \\nu } q _ { L } + \\overline { { { { \\cal D } ^ { \\nu } q _ { L } } } } \\gamma ^ { \\mu } \\tau ^ { I } q _ { L } \\right] W _ { \\mu \\nu } ^ { I } , } } \\\\ { { { \\cal O } _ { \\Phi q } ^ { ( 3 ) } } } & { { = } } & { { i \\left[ \\Phi ^ { \\dagger } \\tau ^ { I } { \\cal D } _ { \\mu } \\Phi - ( { \\cal D } _ { \\mu } \\Phi ) ^ { \\dagger } \\tau ^ { I } \\Phi \\right] \\bar { q } _ { L } \\gamma ^ { \\mu } \\tau ^ { I } q _ { L } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Using $1 \\sigma$ bound of $R _ { b }$ we obtain the constraints [5]: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- 0 . 0 0 8 0 < \\frac { 4 s _ { W } c _ { W } } { e } \\frac { 1 } { \\Lambda ^ { 2 } } \\left[ C _ { q W } \\frac { c _ { W } m _ { Z } ^ { 2 } } { 4 } - C _ { \\Phi q } ^ { ( 3 ) } \\frac { v m _ { Z } } { 2 } \\right] < - 0 . 0 0 2 3\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Then the effets of $O _ { \\Phi q } ^ { ( 3 ) }$ arefoundtobenegligiblysmall[5],while theeffectsof $O _ { q W }$ are ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r l } & { \\mathrm { L E P I I } ( e ^ { + } e ^ { - } \\to b \\bar { b } ) } & { \\mathrm { N L C ~ } ( e ^ { + } e ^ { - } \\to t \\bar { t } ) } & { \\mathrm { T e v a t r o n } ( p \\bar { p } \\to t \\bar { b } + X ) } \\\\ & { 2 . 4 \\% < \\frac { \\Delta \\sigma } { \\sigma ^ { 0 } } < 8 . 4 \\% } & { 8 . 6 \\% < \\frac { \\Delta \\sigma } { \\sigma ^ { 0 } } < 2 9 . 8 \\% } & { 6 . 9 \\% < \\frac { \\Delta \\sigma } { \\sigma ^ { 0 } } < 2 4 . 0 \\% } \\\\ & { 0 . 3 \\% < \\frac { \\delta A _ { F B } } { A _ { F B } ^ { 0 } } < 1 . 0 \\% } & { 1 6 . 3 \\% < \\frac { \\delta A _ { F B } } { A _ { F B } ^ { 0 } } < 5 6 . 8 \\% } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "So the effects of $O _ { q W }$ may still be observable at LEP II， NLC and the upgraded Tevatron. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The following dimension-six CP-violating operators can give rise to transverse polarization asymmetry of top quark in single top production ( $\\begin{array} { r } { \\dot { ( u + d  { t + \\bar { b } } , \\bar { u } + d  { } } } \\end{array}$ ${ \\bar { t } } + b )$ at the Tevatron [6]: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { \\bar { \\mathcal O } _ { q W } } } & { { = } } & { { i \\left[ \\bar { q } _ { L } \\gamma ^ { \\mu } \\tau ^ { I } D ^ { \\nu } q _ { L } - \\overline { { { D ^ { \\nu } q _ { L } } } } \\gamma ^ { \\mu } \\tau ^ { I } q _ { L } \\right] W _ { \\mu \\nu } ^ { I } , } } \\\\ { { \\bar { \\mathcal O } _ { t W \\Phi } } } & { { = } } & { { i \\left[ ( \\bar { q } _ { L } \\sigma ^ { \\mu \\nu } \\tau ^ { I } t _ { R } ) \\widetilde \\Phi - ( D ^ { \\mu } \\widetilde \\Phi ) ^ { \\dagger } ( \\overline { { { D _ { \\mu } t _ { R } } } } q _ { L } ) \\right] } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Introducing the coordinate system in the top quark (or top antiquark) rest frame with the unit vectors $\\vec { e } _ { z } \\propto - \\vec { P } _ { \\bar { b } }$ and $\\vec { e } _ { y } \\propto \\vec { P } _ { u } \\times \\vec { P } _ { \\bar { b } }$ . Transverse polarization asymmetry is defined by [7] $\\begin{array} { r } { A ( \\hat { y } ) = \\frac { 1 } { 2 } \\left[ \\Pi ( \\hat { y } ) - \\bar { \\Pi } ( \\hat { y } ) \\right] } \\end{array}$ ，where $\\Pi ( \\hat { y } )$ and $\\Pi ( \\hat { y } )$ are, respectively, the polarizations of the top quark and top antiquark in the direction $\\hat { y }$ . The polarizations are given by ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Pi ( \\hat { y } ) = \\frac { N _ { t } ( + \\hat { y } ) - N _ { t } ( - \\hat { y } ) } { N _ { t } ( + \\hat { y } ) + N _ { t } ( - \\hat { y } ) } , ~ \\bar { \\Pi } ( \\hat { y } ) = \\frac { N _ { \\bar { t } } ( + \\hat { y } ) - N _ { \\bar { t } } ( - \\hat { y } ) } { N _ { \\bar { t } } ( + \\hat { y } ) + N _ { \\bar { t } } ( - \\hat { y } ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $N _ { t } ( \\pm \\hat { y } ) \\ [ N _ { \\bar { t } } ( \\pm \\hat { y } ) ]$ is the number of $t ( \\bar { t } )$ quarks polarized in the direction $\\pm \\hat { y }$ Assuming $m _ { t } = 1 7 5$ GeV,we obtain the asymmetry at hadron level as [6] ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } { A ( \\hat { y } ) } & { = } & { \\left\\{ \\begin{array} { l l } { - 0 . 4 1 \\frac { C _ { q W } - 2 C _ { t W \\Phi } - g _ { 2 } C _ { D t } / 2 } { ( \\Lambda / 1 \\mathrm { ~ T e V } ) ^ { 2 } } } & { \\quad \\mathrm { a t ~ } \\sqrt { s } = 2 \\mathrm { ~ T e V } } \\\\ { - 0 . 8 4 \\frac { C _ { q W } - 2 C _ { t W \\Phi } - g _ { 2 } C _ { D t } / 2 } { ( \\Lambda / 1 \\mathrm { ~ T e V } ) ^ { 2 } } } & { \\quad \\mathrm { a t ~ } \\sqrt { s } = 4 \\mathrm { ~ T e V } } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Assume an observable level of ten percent of this asymmetry, the upgraded Tevatron will probe ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { C _ { q W } - 2 C _ { t W \\Phi } - g _ { 2 } C _ { D t } / 2 } { ( \\Lambda / 1 ~ \\mathrm { T e V } ) ^ { 2 } } \\mathrm { t o } \\left\\{ \\begin{array} { l } { { 1 / 4 \\mathrm { f o r } \\sqrt { s } = 2 \\mathrm { T e V } } } \\\\ { { 1 / 8 \\mathrm { f o r } \\sqrt { s } = 4 \\mathrm { T e V } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This means that with a new physics scale at the order of 1 TeV, the further upgraded Tevatron can probe the coupling strength down to the level of 0.1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 Probing SUSY in Single Top Production ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the R-parity Conserving MSSM， we found that within the allowed range of squark and gluino masses the supersymmetric QCD corrections can enhance the cross section by a few percent [8]. The Yukawa corrections [8] to single top quark production at the Tevatron can amount to more than a $1 5 \\%$ reduction in the production cross section relative to the tree level result in the general two-Higgs-doublet model, and a $1 0 \\%$ enhancement in the minimal supersymmetric model for the smallest allowed $\\tan \\beta$ ( $\\simeq 0 . 2 \\mathrm { : }$ 5).The supersymmetric electroweak corrections [8] to the cross section are at most a few percent for $\\tan \\beta > 1$ ，but can exceed 10% for $\\tan \\beta \\ < \\ 1$ .So the combined effects of SUSY QCD， SUSY EW, and the Yukawa couplings in the R-parity Conserving MSSM can exceed 10% for the smallest allowed $\\tan \\beta$ ( $\\simeq 0 . 2 5 )$ （20 but are only a few percent for $\\tan \\beta > 1$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the R-parity violating MSSM, the processes induced by R-violating couplings are [9, 10] ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { { \\lambda ^ { \\prime } : \\quad } } & { { u \\bar { d }  \\tilde { l }  t + \\bar { b } , ( \\mathrm { s - c h a n n e l } ) } } \\\\ { { \\lambda ^ { \\prime \\prime } : \\quad } } & { { u \\bar { d }  t + \\bar { b } , ( \\mathrm { t - c h a n n e l } ) } } \\\\ { { \\lambda ^ { \\prime \\prime } : \\quad } } & { { c d  \\tilde { s }  t b , ( \\mathrm { s - c h a n n e l } ) } } \\\\ { { \\lambda ^ { \\prime \\prime } : \\quad } } & { { c s  \\tilde { d }  t b , ( \\mathrm { s - c h a n n e l } ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Their signature are an energetic charged lepton,missing $E _ { T }$ , and double $b$ -quark jets. The backgrounds are (1) $q \\bar { q } ^ { \\prime } \\to W ^ { * } \\to t b$ ， (2） the quark-gluon process $q g  q ^ { \\prime } t b$ （204 with a W-boson as an intermediate state in either the t-channel or the s-channel of a subdiagram; (3) processes involving a b-quark in the initial state, $b q ( \\bar { q } )  t q ^ { \\prime } ( \\bar { q } ^ { \\prime } )$ and $g b  t W$ ； (4) $W b { \\bar { b } }$ ；(5) $W j j$ ; and (6) $t \\bar { t } \\to W ^ { - } W ^ { + } b \\bar { b }$ . For the upgraded Tevatron (LHC)， the basic cuts are $p _ { T } ^ { l } \\ge 2 0 \\mathrm { G e V }$ ， $p _ { T } ^ { b } \\ \\ge \\ 2 0 ( 3 5 ) \\$ GeV， $p _ { T } ^ { \\mathrm { m i s s } } \\ge 2 0 ( 3 0 )$ ）GeV, $\\eta _ { b }$ ， $\\eta _ { l } \\leq 2 . 5 ( 3 )$ and $\\Delta R _ { j j }$ ， $\\Delta R _ { j l } \\ge 0 . 4$ . Also we required reconstructed top quark mass $M ( b W )$ to lie within the mass range $| M ( b W ) - m _ { t } | < 3 0 \\mathrm { G e V }$ , which can reduce the backgrounds $W b { \\bar { b } }$ and $W j j$ efficiently. The number of signal events required for discovery of a signal is $S \\geq 5 { \\sqrt { B } }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For the s-channel process $u + \\bar { d }  \\bar { l }  t + \\bar { b }$ induced by $\\lambda ^ { \\prime }$ , the histogram of the differential cross section versus the invariant mass of the $t b$ system over the bin size of 10 GeV is shown in Fig.2 of Ref. [9]. The resonance behavior is already manifested. Because of their narrow widths, for each slepton the contributions of the $\\lambda ^ { \\prime }$ -couplings are negligible for a couple of bins away from the resonance. This will help to identify the signal of the slepton production. The value of $\\lambda _ { 1 1 1 } ^ { \\prime } \\lambda _ { 1 3 3 } ^ { \\prime } + \\lambda _ { 2 1 1 } ^ { \\prime } \\lambda _ { 2 3 3 } ^ { \\prime } + \\lambda _ { 3 1 1 } ^ { \\prime } \\lambda _ { 3 3 3 } ^ { \\prime }$ versus the slepton mass for $u \\bar { d } \\to \\tilde { l } \\to t \\bar { b }$ to be observable under the criteria $S \\geq 5 { \\sqrt { B } }$ is shown in Fig.4 of Ref. [1O], which show that the LHC can do better than the upgraded Tevatron in further probing the couplings, especially for higher mass sleptons. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For the s-channel process $c d  \\tilde { s }  t b$ induced by $\\lambda ^ { \\prime \\prime }$ couplings， the value of （20 $\\lambda _ { 2 1 2 } ^ { \\prime \\prime } \\lambda _ { 3 3 2 } ^ { \\prime \\prime }$ versus strange-squark mass for it to be observable under the criteria $S \\geq 5 \\sqrt { B }$ （20 is shown in Fig.1 of Ref.[10]，which show that both the LHC and the upgraded Tevatron can efficiently probe the relevant couplings,and the LHC serves a more powerful probe than the upgraded Tevatron. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For the s-channel process $c s  \\tilde { d }  t b$ induced by $\\lambda ^ { \\prime \\prime }$ ， The value of $\\lambda _ { 2 1 2 } ^ { \\prime \\prime } \\lambda _ { 3 3 1 } ^ { \\prime \\prime }$ （204号 versus down-squark mass for it to be observable under the criteria $S \\geq 5 { \\sqrt { B } }$ is shown in Fig.3 of Ref. [1O]，which show that this process cannot be probed as efficiently as $c d  \\tilde { s }  t b$ because of the relative suppression of the strange quark structure function compared to the valence down quark. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 Searching for Exotic Top Decay Modes ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The FCNC Decays in the SM, R-conserving MSSM [11] and R-violating MSSM [12] are given by ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/3799cb50d3111f7b5d00b2a3c369dbd330c871f45f53b7cde3d6515e2ade2268.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>SM</td><td>MSSM</td><td>R MSSM</td></tr><tr><td>B(t→cg) 10-10</td><td>10-6</td><td>10-3</td></tr><tr><td>B(t →cγ) 10-12</td><td>10-8</td><td>10-5</td></tr><tr><td>B(t →cZ) 10-12</td><td>10-8</td><td>10-4</td></tr><tr><td>B(t →ch) 10-7</td><td>10-5</td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The FCNC top decays in R-violating MSSM might be observable at the upgraded Tevatron since for integrated luminosity of 10 (100） fb $^ { - 1 }$ ，the detection sensitivity is [13] $B r ( t  c g ) \\simeq 5 \\times 1 0 ^ { - 3 } ( 1 \\times 1 0 ^ { - 3 } )$ ， $B r ( t  c \\gamma ) \\simeq 4 \\times 1 0 ^ { - 4 } ( 8 \\times 1 0 ^ { - 5 } )$ and $B r ( t  c Z ) \\simeq 4 \\times 1 0 ^ { - 3 } ( 6 \\times 1 0 ^ { - 4 } )$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Let us look at the top decay to light stop, $t  \\tilde { t } _ { 1 } \\tilde { \\chi } _ { 1 } ^ { 0 }$ ， in the framework of Rconserving MSSM with the lightest neutralino being the LSP. the parameters involved in $\\Gamma ( t  \\tilde { t } _ { 1 } \\tilde { \\chi } _ { 1 } ^ { 0 } )$ are $M _ { \\tilde { t } _ { 1 } } , M _ { 2 } , M _ { 1 } , \\mu , \\tan \\beta$ . In the region of parameter space allowed by $R _ { b }$ data and the $e e \\gamma \\gamma + \\mathcal { h } _ { T }$ event[14], we obtain [15] $0 . 0 7 \\leq B ( t  \\tilde { t } _ { 1 } \\tilde { \\chi } _ { 1 } ^ { 0 } ) \\leq 0 . 5 0$ ： The dorminant decay of a light stop is $\\tilde { t } _ { 1 }  c \\tilde { \\chi } _ { 1 } ^ { 0 }$ . This will give a new final state in $t t$ （20 production: $t \\bar { t } \\longrightarrow W b \\bar { c } \\tilde { \\chi } _ { 1 } ^ { 0 } \\tilde { \\chi } _ { 1 } ^ { 0 }$ . Its signature is an energetic charged lepton, one $b$ -quark jet， one light $c$ -quark jet， plus missing $E _ { T }$ from the neutrino and the unobservable $\\chi _ { 1 } ^ { 0 }$ 's. The potential SM backgrounds are (1) $b q ( \\bar { q } )  t q ^ { \\prime } ( \\bar { q } ^ { \\prime } )$ ，(2) $q \\bar { q } ^ { \\prime }  W ^ { * }  t b$ ； (3) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$W b b$ ； (4) $W j j$ ； (5) $t \\bar { t } \\to W ^ { - } W ^ { + } b b$ ；(6) $g b  t W$ and (7) $q g  q ^ { \\prime } t b$ .Besides the basic cuts we impose a cut on transverse mass $m _ { T } = \\sqrt { ( P _ { T } ^ { l } + P _ { T } ^ { \\mathrm { m i s s } } ) ^ { 2 } - ( \\vec { P } _ { T } ^ { l } + \\vec { P } _ { T } ^ { \\mathrm { m i s s } } ) ^ { 2 } } > 9 0 \\$ GeV. Then we found (1) this final state is unobservable at Run 1 with $\\sqrt { s } = 1 . 8$ TeV and $L = 0 . 1 \\ \\mathrm { f b ^ { - 1 } }$ ，(2) Run 2 with $\\sqrt { s } = 2$ TeV and $L = 1 0 ~ \\mathrm { f b ^ { - 1 } }$ can either discover this final state or provide the additional strong constraint given approximately by （20 $M _ { \\tilde { t } _ { 1 } } - M _ { \\tilde { \\chi } _ { 1 } ^ { 0 } } < 6$ GeV. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "If charged Higgs is light enough, $t  H ^ { + } b$ is also possible; we refer to [16] for its phenomenological implications at Tevatron. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1） Single top quark processes at upgraded Tevatron can be meaningfuly used to probe new physics; (2) The FCNC top decays $t  c V$ and top decay to light stop （204号 $t  \\tilde { t } _ { 1 } \\tilde { \\chi } _ { 1 } ^ { 0 }$ predicted by R-violating MSSM might be observable at upgraded Tevatron, else further constraints can be set on the relevant couplings. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] S. Willenbrock and D. Dicus, Phys. Rev. D34, 155 (1986); S. Dawson and S. Willenbrock, Nucl. Phys. B284, 449 (1987); C.-P. Yuan， Phys. Rev. D41， 42 (1990); F. Anselmo, B. van Eijk and G. Bordes, Phys. Rev. D45, 2312 (1992); R.K. Ellis and S. Parke, Phys. Rev. D46,3785 (1992); D. Carlson and C.-P. Yuan, Phys. Lett. B306,386 (1993); G. Bordes and B. van Eijk, Nucl. Phys. B435, 23 (1995); A. Heinson,A. Belyaev and E. Boos,hep-ph/9509274. S. Cortese and R. Petronzio,Phys. Lett. B306,386 (1993). T. Stelzer and S. Willenbrock， Phys. Lett. B357, 125 (1995). M. Smith and S. Willenbrock, Phys. Rev. D54,6696 (1996)； S. Mrenna and C.-P. Yuan, hep-ph/9703224; T. Tait and C.-P. Yuan, hep-ph/9710372.   \n[2] A. P. Heinson, hep-ex/9605010.   \n[3] C. S. Li, B. Q. Hu, J. M. Yang and C. G. Hu, Phys. Rev. D52, 5014 (1995); J. M. Yang and C. S. Li, Phys. Rev. D52, 1541 (1995); J. Kim, J. L. Lopez, D. V. Nanopoulos and R. Rangarajan, Phys. Rev. D54, 4364 (1996); J. M. Yang and C. S. Li, Phys. Rev. D54, 4380 (1996); C. S. Li, H. Y. Zhou, Y. L. Zhu, J. M. Yang, Phys. Lett. B379,135 (1996); S. Alam, K. Hagiwara and S. Matsumoto, Phys. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Rev.D55, 1307 (1997); Z. Sullivan, Phys. Rev. D56, 451 (1997); W. Hollik, W. M. Mosle and D. Wackeroth, hep-ph/9706218. [4] G. J. Gounaris, D. T. Papadamou and F. M. Renard, hep-ph/9609437. [5] K. Whisnant， J. M. Yang, B.-L. Young and X. Zhang, Phys. Rev. D56, 467 (1997). [6] J. M. Yang and B.-L. Young, Phys. Rev. D56, 5907 (1997). [7] D. Atwood, S. B. Shalom, G. Eilam and A. Soni,Phys. Rev. D54, 5412 (1996). [8] C. S. Li, R. J. Oakes and J. M. Yang, Phys. Rev. D55,1672 (1997); Phys. Rev. D55, 5780 (1997); hep-ph/9706412. [9] A. Datta, J. M. Yang, B.-L. Young and X. Zhang, Phys. Rev. D56, 3107 (1997); [10] R. J. Oakes, K. Whisnant，J. M. Yang,B.-L. Young and X. Zhang，hepph/9707477. [11] C. S. Li, R. J. Oakes and J. M. Yang, Phys. Rev. D49, 293 (1994); J. M. Yang and C. S. Li, Phys. Rev. D49, 3412 (1994); G. Couture, C. Hamzaoui and H. Konig, Phys. Rev. D52, 171(1995); J. L. Lopez, D. V. Nanopoulos and R. Rangarajan, hep-ph/9702350; G. Couture, M. Frank and H. Konig, hep-ph/9704305; G. M. de Divitiis, R. Petronzio and L. Silvestrini, hep-ph/9704244. [12] J. M. Yang, B.-L. Young and X. Zhang, hep-ph/9705341. [13] T. Han,R. D. Peccei, and X. Zhang, Nucl. Phys. B454, 527 (1995); T. Han, K. Whisnant, B.-L. Young, and X. Zhang, Phys. Rev. D55, 7241 (1997); Phys. Lett. B385, 311 (1996). [14] S. Ambrosanio,G. L. Kane, G. D. Kribs, S. P. Martin, and S. Mrenna, Phys. Rev. Lett. 76, 3498 (1996); S. Dimopolous,M. Dine, S. Raby and S. Thomas, Phys. Rev. Lett. 76, 3502 (1996); D. Garcia and J. Sola, Phys. Lett. B357, 349 (1995). [15] M. Hosch, R. J. Oakes, K. Whisnant, J. M. Yang, B.-L. Young and X. Zhang, hep-ph/9711234; S. Mrenna and C. P. Yuan, Phys. Lett. B367, 188 (1996). [16l J. Guasch and J. Sola. hep-ph/9707535. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

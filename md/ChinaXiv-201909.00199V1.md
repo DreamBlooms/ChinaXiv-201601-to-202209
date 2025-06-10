@@ -1,0 +1,176 @@
+# 反馈间隔影响反馈加工的行为及电生理研究
+
+万楠；朱树青；贾世伟\*山东师范大学心理学院，济南250358
+
+[摘要]反馈在现实生活中扮演着重要角色，通过反馈信息进行学习是人类获取知识和技能的有效手段。反馈间隔是指个体行为发生到反馈刺激呈现之间的时间间隔。在反馈加工过程中，反馈间隔是一个重要影响因素，但反馈间隔影响反馈加工的研究结果不一。对反馈间隔影响反馈加工的行为和电生理研究分别做了介绍，对结果出现差异的原因进行了分析总结。未来的研究应考虑结合行为研究与电生理研究，并统一反馈间隔的操作定义。
+
+[关键词反馈间隔；反馈加工；反馈相关负波；延迟反馈；立即反馈
+
+[分类号]B842.1
+
+# The effect of feedback interval on feedback processing: Behavioral and electrophysiological research
+
+Nan,WAN;Shuqing,ZHU;Shiwei,JIA
+
+School of Psychology, Shandong Normal University, Jinan 250358, China [Abstract] Feedback plays a crucial role in real life.Learning from the information feedback, human being could mater general skils and knowledge for adapt to the environment. As an important factor of feedback processing,feedback interval means the duration between initiation of behavior and the appearance of feedback stimulus. However, the prior research about how the feedback interval modulated feedback processing did not reach consistent viewpoint. Introduced both the behavioral and ERP studies about how feedback interval affects feedback processing, and analyzed the reasons for the results discrepancies among these studies. Finally, we propose the necessty to standardize the definition of feedback interval and the combination of the behavioral and electrophysiological methods in further research.
+
+[Keywords] feedback interval; feedback processing； feedback-related negativity； delayed feedback;immediate feedback
+
+反馈加工是心理学上的一个重要概念，通过反馈加工人们可以习得知识和技能(Luft,2014)。反馈加工包含任务要求、反馈、调整行为三个方面(Kulhavy& Stock,1989;Mory,2004)。具体来说，当学习者面对一个学习任务时，需要根据要求作出相应的行为反应。在接收到反馈后，学习者将评估反馈信息，并将反馈信息与自己的反应相联系。最后在后续的测试或学习过程中，可以调整自己的行为，达到学习任务的要求。在反馈加工过程中，三个方面相互作用，相互影响，而反馈是这个过程中的一个重要组成部分。反馈可以被看作为启动一个过程的反应(Mory,2004)，也可以被概念化为一种能被感官觉察的行动的结果(Luft,2014)。
+
+在反馈加工过程中，任何反馈方面的细微的变化都会影响最终的学习效果。例如学习任务的复杂程度(冯霞，冯文锋，冯成志，2018)，反馈信息的类型(Pashler,Cepeda,Wixted,&Rohrer,2005)、详细程度(Luft,2014)，学习者对反馈结果的预期水平(Walsh& Anderson,2012;Weismuller& Bellebaum,2016）,反馈间隔的长短(Carpenter& Vul, 2011; Yin,Wang,Zhang,&Li,2018)等。其中，反馈间隔的长短对反馈加工过程的影响是研究者一直以来关注的问题。然而，不论是在行为研究还是电生理研究中，反馈间隔对反馈加工的影响目前都没有得出一致的结论。有些研究者认为延迟反馈会阻碍从反馈中获取信息进行学习(Opitz,Ferdinand,& Mecklinger,2011; Yin et al.,2018)；有些研究者持相反的意见，认为延迟反馈可以帮助保留原有的记忆，从而提高后续测试的成绩(Butler,Karpicke,& Roediger, 2007; Smith &Kimball, 2010)。
+
+在本文中，我们列举了相关的行为研究与电生理研究，并分析了研究结果
+
+出现差异的原因。期望通过原因分析，为将来对“反馈间隔影响反馈加工”这一问题的研究提供一些  
+思路，促进该方面的研究。
+
+# 1行为研究
+
+到目前为止，反馈间隔如何影响反馈加工这一问题的行为研究已经进行了半个多世纪，积累了丰富的研究成果。在行为研究中，研究者使用的学习任务多样。而反馈加工过程中任务要求、反馈和后续的行为调整三个方面相互影响，相互作用，不同的任务应该会影响反馈加工和学习的效果。因此，区分不同的学习任务类型对于探讨反馈间隔对反馈加工的影响是有必要的。本节将行为研究中的学习任务分为三种：类别学习任务、事实信息学习任务以及动作技能学习任务，分别探讨了不同学习任务条件下，反馈间隔对反馈加工的影响。
+
+# 1.1反馈间隔影响类别学习
+
+类别学习是有机体把环境中的事物分成各种类别，并根据所形成的类别知识来决定采取的反应(刘志雅，莫雷，张娟，2007)。在对类别学习的研究中，Ashby，Alfonso-Reese，Turken 和Waldron(1998)设计了两种类别结构，一种是基于规则的类别结构(Rule-based category structure)，一种是信息整合的类别结构(Information-integration category structure)。实验材料由空间频率和方向不同的光栅图组成，基于规则的类别结构其分类规则只考虑空间频率或者方向一个维度，而信息整合的类别结构其分类规则需考虑空间频率和方向两个维度的整合(Maddox,Ashby,& Bohil,2003;Maddox ＆ Ashby,2004;张奇，刘万伦，2007；孙海龙，邢强，2014)。
+
+研究者认为，对基于规则的类别结构和信息整合的类别结构的学习是由不同的系统调节的(Maddox etal.,2003;Maddox＆ Ashby,2004；孙海龙，邢强，2014)，基于规则的类别结构是由外显假设检验系统所控制的，受工作记忆和执行注意的影响(刘志雅 等，2014)。人们甚至可以在没有反馈情况下学习到基于规则的类别结构(Ashby,Queller,&Berretty,1999)，因此反馈间隔对基于规则的类别结构的学习没有影响(Maddox etal.,2003)。但信息整合的类别结构的学习是由一种内隐系统所控制的，这个系统主要受到尾状核的尾部调节，延迟反馈使内隐系统得到意外的强化，黑质释放的多巴胺进入尾状核的尾部，加强最近活跃的突触。由于多巴胺调节的学习要求刺激反应和反馈之间有紧密的连接，因此延迟反馈会对学习成绩产生不利影响(Maddoxetal.,2003;刘志雅等，2014)。
+
+例如Maddox等人(2003)研究了反馈间隔对于基于规则的类别结构和信息整合的类别结构学习的影响。将实验条件分为延迟反馈和立即反馈两种情况，立即反馈组是在反应终止后500ms给予反馈，而延迟反馈组是在反应终止后2500ms、5000ms、10000ms给予反馈。实验结果表明，反馈间隔对基于规则的类别学习没有影响，但却会对信息整合类别结构的学习产生不利影响，延迟反馈条件下信息整合类别结构的学习正确率显著低于立即反馈条件下。
+
+但由于信息整合的类别学习受多巴胺调节，Worthy,Markman和Maddox(2013)认为，当多巴胺和钙浓度的峰值在反应后500ms时，学习是最好的。因此Worthy等人采用相同的光栅图实验材料，将延迟时间设置为0ms、500ms、1000ms三种条件，研究不同的反馈间隔对类别结构学习的影响。实验结果表明，延迟反馈对于基于规则的类别结构没有影响，但是500ms的延迟要比0ms 和 $1 0 0 0 \mathrm { { m s } }$ 的延迟条件对信息整合的类别结构有更好的成绩。
+
+邢强、王家慰和黄秀青(2018)通过天气预报任务研究反馈间隔对概率类别学习的影响。天气预报任务是通过提供给被试一些卡片，每张卡片上会显示一个独特的几何图形，要求被试根据卡片图形判断其属于“晴天”还是“雨天”，而这个任务的实际结果是由每张卡片已经被设置好的概率大小所决定的。研究者让被试预测卡片代表晴天或雨天，并间隔一段时间后进行反馈，其中反馈间隔分为立即反馈(500ms)和延迟反馈(5000ms)两种。实验结果发现立即反馈的学习效果优于延迟反馈，延迟反馈不利于概率类别学习，被试在实验过程中同时使用外显和内隐系统进行学习，但更倾向于内隐学习。
+
+由此可见，在类别学习的反馈加工过程中，反馈间隔的作用是不同的。反馈间隔对外显假设检验系统所控制的学习过程没有影响，但延长反馈间隔对内隐系统所控制的学习过程产生不利影响。
+
+# 1.2反馈间隔影响事实信息任务的学习
+
+在研究事实信息任务的学习中，研究者通过探讨反馈间隔对事实信息学习的影响，来研究延迟反馈的作用是什么，是强化最初正确的反应(Smith&Kimball,2010; Butler etal.,2007)，还是纠正错误反应(Pashler et al.,2005)。
+
+早期研究者认为反馈的作用是强化最初正确的反应，因此反应和反馈之间的间隔越小，越有利于强化已出现的正确行为，信息的延迟会减弱反应与反馈之间联系，从而不利于学习。例如Saltzman(1951)通过“言语迷宫”(verbalmaze)任务，Bourme(1957)通过概念识别任务探究延迟反馈对学习的影响。研究结果发现延迟反馈将增加错误次数，降低学习成绩。
+
+随着研究的深入，实验任务的范式增多，研究者认为延迟反馈的优势可能需要长时间才能显现出来。例如Butler等人(2007)以事实信息学习任务发现延迟反馈对长时记忆具有积极的作用。实验材料选用了12篇文章，并从每篇文章中选取事实信息作为测试题目，题目采用选择题的方式呈现，每个题目由一个问题，一个正确答案和五个错误答案组成。立即反馈组是在完成多项选择后立即给出反馈，而延迟反馈组是在完成多项选择一天后的第二次学习期间给予。完成实验后的一周后，被试需要返回进行最后的线索回忆测试。实验结果发现，延迟反馈比立即反馈更有利于长时记忆，反馈间隔并不影响错误的纠正。条件分析表明延迟反馈比立即反馈更有利于强化最初正确的反应。
+
+同样 Smith和 Kimball(2010)通过测试立即反馈和延迟反馈对学习事实信息的影响，认为反馈是一种强化最初正确反应的机制。研究者选择76个琐事事实作为实验材料，将实验分为两个阶段：60分钟的学习阶段(学习 $+$ 初次测试)和一周后同一时间30分钟的延时测试阶段。立即反馈组在初次测试后立即给予反馈，延迟反馈组在初次测试8分钟后给予反馈。研究结果表明，延迟反馈组在一周后的测试成绩要比立即反馈组更好，并且相对于立即反馈，延迟反馈增加了重复最初正确反应的概率。反馈间隔对纠正错误没有显著影响。
+
+研究者认为在被试正确反应后提供延迟反馈，反馈信息本身的作用，相当于让被试间隔一段时间后进行再次学习；而在被试错误反应后提供延迟反馈，可以减少错误反应与正确反应之间的竞争，使错误反应消失，从而帮助学习正确反应(Kulhavy,1977; Smith & Kimball,2010; Butler et al., 2007)。
+
+而Pashler等人(2005)虽也认同延迟反馈带给学习的有利作用，但却从反馈的功能是纠正错误来进行解释。Pashler等人(2005)研究了立即学习和延迟记忆测试对外语学习的影响。实验材料选择了20个卢干达词语以及它们对应的英语词语，要求被试学习卢干达词语并记住相应的英语词语，并在测试阶段根据出示的卢干达词语写出相应的英语词语。实验分为练习阶段和测试阶段，中间间隔一周。在练习阶段，包含两次所有词语的呈现和两次测试，并给予反馈；在一周后的测试阶段进行最终的测试，测试后没有反馈。在实验中，反馈的形式被分为5种情况：(1)立即反馈(0ms 延迟)、(2)5000ms 的延迟(5000ms 的空白屏幕)、(3)呈现字词“正确”或“错误”的反馈 5000ms、(4)呈现正确答案(正确的相对应的英语词语)5000ms、(5)在第一天中没有接受额外的测试。实验结果发现，在被试作出错误的回答后，只有反馈形式(4)的被试，在学习阶段的两次测试中成绩有所提高，并在最终的测试中占有优势。此外，当学习者做出正确回答时，无论提供立即反馈还是延迟反馈，反馈形式对测试成绩的影响并不大。
+
+因此研究者认为在一个难度较大的测试中，延迟反馈之所以会提高成绩是因为在延迟的时间间隔内，最初的错误反应往往会被遗忘，从而减少了对从反馈中学习正确反应的干扰。而收到立即反馈的学习者，由于他们的回答不正确，就会受到错误反应的干扰(Guthrie,1971)。
+
+此外，反馈间隔的操作定义尚未建立，是导致研究结果之间不一致的最大潜在原因(Smith&Kimball,2010)，在事实信息学习任务的研究中尤为突出。在教学过程中，立即反馈被定义为在学生回答问题后立即给予答案，在学生回答完几个额外的问题后再给予答案称为延迟反馈(Sinha&Glass,2015)。但在实际的操作过程中，立即反馈和延迟反馈又被细分为许多的类型，如立即反馈可以在每一次回答问题后、每一个模块结束时或每一次测试后立即给予答案，延迟反馈也可以是延迟几秒、几小时、隔天或一周内给予答案。因此，在以后的研究中，如何将反馈间隔进行定义，并使之能满足绝大多数的研究需求，是一个具有挑战性的研究项目。当然，在延迟反馈过程中，被试对答案的预期、好奇(Mullaney,Carpenter,Grotenhuis,&Burianek,2O14)等都会对研究结果产生影响。
+
+# 1.3反馈间隔影响动作技能学习
+
+在早期对动作技能学习的研究中，研究者同样认为延迟反馈会破坏结果与动作之间的连接，从而影响对动作技能的学习，因此立即给予反馈更有利于动作技能的学习(Salmoni,Schmidt,&Walter,1984)。但后来的研究发现，动作技能的学习过程可随着学习时间的变化分为获得阶段、保持阶段及迁移阶段，在不同的阶段设置延迟反馈对最终的学习效果不同(Lee,Swinnen,& Serrien,1994;金亚虹，章建成，孙耀华，任杰，2001)。此外，动作技能的复杂程度也对学习效果有一定的影响(冯霞 等，2018)。
+
+金亚虹等人(2001)要求被试用瞄准器瞄准目标进行目标追踪，随后立即给予反馈或延迟2000ms给予反馈，并在实验后的第二天设置无反馈的保持测试以及第三天设置迁移测试，探讨反馈间隔对动作技能学习的影响。研究结果发现，在获得阶段，立即提供反馈要比延迟2000ms提供反馈更有利于提高追踪的准确性。但获得阶段延迟2000ms给予反馈，却能够改进保持阶段的测试成绩；迁移阶段中，反馈间隔对动作技能的迁移没有影响。
+
+在动作技能获得阶段，冯霞等人(2018)做了进一步的研究，测试了不同任务难度下反馈间隔对动作技能的影响。复杂任务采用二维追踪运动任务，被试需在电脑屏幕上追踪小球的运动轨迹，反馈信息立即提供或延迟4000ms提供，实验结果表明，反馈间隔对动作技能的学习没有影响。简单任务则要求被试操纵小球使其停止位置与目标位置接近，反馈信息同样是立即提供或延迟
+
+$4 0 0 0 \mathrm { { m s } }$ 提供。研究结果发现立即反馈操作准确性好于延迟反馈。因此，在动作技能获得阶段，反馈间隔对动作技能的学习影响受到任务难度的影响，在复杂任务中，反馈间隔对动作技能的学习没有影响，在简单任务中，立即反馈在一定时间内是有利于动作技能的获得。
+
+# 1.4 小结
+
+上面分三个部分呈现了反馈间隔影响反馈加工的行为研究，但研究结果很难达到一致，下面尝试分析结果不一致的原因。
+
+研究中使用的实验任务所属的记忆类型不一致。实验任务所属记忆类型不同可能是造成研究结果不一致的原因之一。如类别学习任务更多涉及到工作记忆(Maddox etal.,2003;Maddox& Ashby,2004)、事实信息学习任务多涉及陈述性记忆(Butler et al.,2007;Mullaney etal.,2014)，动作技能任务多涉及程序性记忆(金亚虹 等，2001)。在将来的研究中，详细区分不同的实验任务所属的记忆类型，并对更为精细的实验任务进行总结分析，可能会对反馈间隔影响反馈加工这一研究有所帮助。
+
+反馈间隔的操作定义不一致。对延迟反馈和立即反馈的界定，每个研究有自己的设定。Smith(2007)认为在行为研究中，反馈间隔的操作定义可以依据研究者所关注的点不同进行划分，大致可以分为四类：Item-by-itemimmediate(IBI-I) feedback(在每个测试试次后立即提供反馈)；Item-by-item delayed (IBI-D)feedback(对每个测试试次干预后延迟提供反馈)；End-of-test immediate (EOT-I)feedback(在所有测试项目完成之后立即提供反馈)；End-of-test delayed (EOT-D)feedback(在完成所有测试项目，并间隔一段时间后提供反馈)。但这依然无法完全解释有关反馈间隔的文献中所有的实验任务。研究者根据自己的研究目的、研究方法任务等将立即反馈和延迟反馈进行不同的定义，并且延迟反馈的定义总是相对于立即反馈来定义的。因此，反馈间隔的操作定义不一致也是原因之一。
+
+随着认知神经科学的兴起，研究者开始探索反馈间隔影响反馈加工的神经生理机制。事件相关电位(event-related potential,ERP)研究发现的反馈相关负波(feedback related negativity,FRN)与反馈紧密相关，下面详细介绍这个成分，以及应用这个成分研究反馈间隔影响反馈加工方面取得的成果。
+
+# 2电生理研究
+
+# 2.1反馈相关负波介绍
+
+对于反馈间隔如何影响反馈加工与学习这一研究问题，事件相关电位技术有独特的优势，因为这种技术有精确到毫秒的时间分辨率(Kim&Arble,2019)。而在事件相关电位的众多成分中，FRN是用来研究反馈加工与学习的首要成分(Luft,2014)。
+
+FRN 是在反馈加工中由行为错误、金钱损失等负性反馈诱发的一种脑电成分，通常在反馈后250\~350ms 达到峰值(Miltner,Braun,&Coles,1997)，研究发现，FRN对反馈效价敏感，负性反馈诱发的FRN显著负于正反馈引发的FRN(Gehring & Willoughby, 2002;Hajcak,Moser, Holroyd,& Simons,2006;Walsh &Anderson,2012; Sambrook&Goslin,2015)。此外，FRN也对预期违背敏感，当实际结果与自身预测不匹配时，不论是正反馈还是负反馈，都会引发FRN，FRN 波幅大小与期望和反馈不匹配程度有关(Oliveira,Mcdonal,&Goodman,2007;Ferdinand,Mecklinger,Kray,& Gehring,2012)。近年来学者也通过研究不同反馈间隔对FRN变化影响，来探讨深层的脑机制(Foerde,Race,
+
+Verfaellie,& Shohamy,2013; Foerde & Shohamy, 2011; Weinberg, Luhmann,Bress,& Hajcak,2012;Weismuller & Bellebaum, 2016)。
+
+以FRN为指标对反馈加工进行的研究大致可以分为两类，反馈评估类和反馈学习类。反馈评估类研究中，实验任务大多采用简单赌博任务。在赌博任务中，正负性反馈的概率通常各为 $50 \%$ ，且随机呈现。也就是说被试的行为反应与反馈之间没有必然联系，被试无法从反馈中学习到规律并调整之后的行为。因此，被试的成绩不会逐渐提高。上述任务中，参加者在实验中只停留在反馈评估阶段，而没有进行学习。而与反馈评估类相比，反馈学习类关注的不是反馈评估本身，而是反馈评估之后，根据反馈信息对下一次行为的调整(Luft,2014)。反馈学习类任务中（例如概率学习任务），任务可习得，被试可以根据反馈逐渐提高行为表现。近年来，一些研究开始关注反馈间隔对以上两类研究的影响，下面分别介绍。
+
+# 2.2反馈间隔影响反馈评估
+
+早期通过FRN研究延迟反馈对反馈评估影响的为Weinberg 等人(2012)，采用修改后的赌博任务：电脑屏幕上呈现两扇同样的门的图案，让被试选择其中一扇，延迟1000ms(短延迟)或6000ms(长延迟)给予反馈。结果表明，在短延迟情况下，输钱反馈引发更大的FRN，但长延迟情况下，未引发明显的FRN，也就是赢钱或输钱反馈引发的FRN之间的差异可以忽略不计。这种结果可能表明从做出反应到收到反馈之间设置延迟会干扰行为一结果联系的形成，使得人们无法将行为与延迟几秒之后的结果联系起来，也可能说明处理立即奖赏的系统与处理延迟奖赏的系统是不同的。
+
+但Wang,Chen,Lei和Li(2014)的研究结果却与之前的研究结果不同。研究者同样采用简单赌博任务，检验短期延迟反馈是否会影响与奖励处理相关的大脑活动。实验呈现四个同样不同色的气球，要求被试选择其中一个，在气球呈现之前，出示五角星或三角形以预示延迟时间的长短， $6 0 0 \mathrm { { m s } } { \sim } 1 0 0 0 \mathrm { { m s } }$ 的延迟为短延迟； $4 0 0 0 { \sim } 5 0 0 0 \mathrm { m s }$ 的延迟为长延迟，最后反馈笑脸或哭脸代表赢钱或输钱。与以往实验结果不同的是，此研究发现长延迟和短延迟反馈条件下同样引发了FRN，且FRN波幅之间没有显著的差异。这表明，等待时间的长短对被试的反应没有影响，与早期反馈相关的大脑活动在长延迟和短延迟条件下是相同的。
+
+研究者认为，实验中使用的程序和延迟间隔设定的不同可能是研究结果产生差异的原因之一(Weismuller& Bellebaum,2016)。Holroyd,Krigolson,Baker,Lee和Gibson(2009)认为FRN反映了预期错误，特别是在反馈对学习有用的情况下。但在上述两个实验中，反馈效价是随机呈现的，不具备功利性，被试无法根据反馈信息找到规律进行学习，因此研究结果无法一致(Peterburs,Kobza, & Bellebaum, 2016)。
+
+# 2.3反馈间隔影响反馈学习
+
+与反馈评估不同，反馈学习指通过反馈结果进行学习，进而调整下一试次的行为。而不同时间间隔的反馈不仅会影响反馈评估，并且影响反馈学习。反馈间隔影响反馈学习的研究多采用概率学习任务、配对关联学习任务，通过调整反馈间隔，观察学习现象的发生和FRN的变化。
+
+Peterburs等人(2016)在Weinberg 等人(2012)的研究基础上，改进了实验，设计了三种延迟时间下的概率学习任务，研究了反馈间隔时间的逐步增加对反馈学习过程的线性影响。实验材料共6个日文字符，每次呈现一个，被试用左右两个按键做出反应，选择后与之相对应的屏幕上的按钮变为绿色，经过短暂的延迟后，给予对错反馈，要求被试学习“刺激一反应一结果”之间的关联，并将延迟时间分为500ms(短延迟)、3500ms(中等延迟)和6500ms(长延迟)。行为结果发现，正确反应的比例不受反馈延迟时间的影响。但是，随着反馈间隔的增加，FRN差异波波幅呈现线性的下降，即在短延迟条件下FRN差异波波幅最大，在长延迟条件下FRN差异波波幅最小。
+
+这一研究结果得到再次验证。2016年Weismuller和Bellebaum进一步细化研究，同样使用概率学习任务，研究在延迟反馈情况下，FRN是否还会受主观报酬期望的影响。实验材料为5个日本字符，每个字符有不同的概率会赢钱，每次同时呈现两个字符，被试猜测并选择其中一个以获得更多的奖励，随后经过一段时间的延迟，给予赢钱或输钱的反馈。反馈间隔分为1000ms(立即反馈)和 $7 0 0 0 \mathrm { { m s } }$ (延迟反馈)，此外在被试进行选择时，屏幕上符号之间显示了一个从0到 $100 \%$ 不等的标度，要求被试在进行选择的同时指出他们的主观报酬期望。研究结果发现随着不断地学习，正确率逐渐的增加，block3、4、5的正确率要显著大于bolck1，但反馈间隔的差异没有对学习产生影响。此外，在立即反馈情况下的FRN差异波波幅显著大于延迟反馈情况下，且不管是立即反馈，还是延迟反馈，在意外情况下的FRN差异波波幅要大于意料内情况下的，但主观报酬期望不受反馈间隔的影响。
+
+除了概率学习任务外，Arbel,Hong,Baker 和Holroyd (2017)通过配对关联学习任务，也发现了立即反馈会引发更大的FRN。研究任务是学习56个新异的物体(非物体)的名称(非单词)，分为四组，每组由14个新对象组成。在每个试次中，呈现给被试一个新项目的图片和两个可能的名字(非单词)，并通过按键选择新对象的正确名字。随后经过一段时间的延迟，呈现正确或错误的反馈。四组中两组使用立即反馈(被试按键后500ms给予反馈)，两组使用延迟反馈(被试按键后6500ms 给予反馈)。被试在完成实验一天后进行一次后期测试，测试后不给予反馈。实验结果发现，无论反馈间隔如何，学习成绩都随着实验的进程有了显著的提高，也就是说反馈间隔对学习结果没有影响。此外，相比于延迟反馈，立即反馈会引发更大的FRN。
+
+相较于上述研究中认为反馈间隔对学习没有影响，也有研究认为随着延迟时间的增加，学习能力下降。Opitz等人(2011)研究了立即反馈和延迟反馈对人工语法学习的影响。该研究使用人工语法学习任务，实验材料是以主动宾句子结构为基础的长句。在学习阶段，让被试观察一些句子，学习基本的语法规则；在测试阶段呈现一些全新的句子，其中一半句子具有语法规则，另一半具有语法错误，让被试判断这些句子是否具有语法规则，随后给予对错反馈，反馈分为立即反馈 $( 0 ~ \mathrm { m s } )$ 和延迟反馈 $( 1 0 0 0 \mathrm { m s } )$ 两种情况。实验结果发现，相比于立即反馈(正确比例为0.826)，延迟反馈(正确比例为0.683)不利于人工语法规则的学习，并且反馈延迟同时影响FRN和P300的变化。
+
+同样Yin等人(2018)使用时间估计任务研究延迟反馈对强化学习的影响。此实验中的时间估计任务是在听到听觉信号后开始估计1000ms 的时间，并按键确定，随后给予反馈。反馈分为立即反馈和延迟反馈两种，立即反馈是在反应后的 $6 0 0 { - } 1 0 0 0 \mathrm { m s }$ 收到“”或“ $\times$ 的反馈，而在延迟反馈条件下，被试只有在第六个试次后才能收到第一个试次的反馈，中间间隔5个试次来使被试忘记之前的估计。实验结果发现，在立即反馈中，在收到负反馈情况下，被试根据反馈调节自己的行为要好于收到正反馈情况下。在延迟反馈情况下没有出现这种现象。此外，延迟反馈条件下正负反馈之间的PCA-FRN振幅的差异明显小于立即反馈条件下的差异，但在原始数据中，这种差异不显著。实验表明，在立即反馈中，反馈促进了强化学习中正确答案的保留以及错误答案的调整，而延迟反馈减小了结果与之前行为的联系，从而有损于强化学习。
+
+# 2.4小结
+
+第2节探讨了反馈间隔影响反馈加工的电生理研究。该小节将研究分为反馈评估类和反馈学习类，并主要关注反馈间隔对学习效果的影响，以及反馈间隔对FRN 波幅的影响。
+
+在反馈间隔对学习效果的影响研究中，延迟反馈对学习的效果可能受到多方面因素的影响。一是实验任务的设置不同。例如，在概率学习任务中，多数研究认为反馈间隔对学习没有影响(Weismuller&Bellebaum,2016;Arbel,et al.,2017)，研究者认为这是因为，在概率学习任务中，针对不同的刺激所设定的反馈类型的概率是一成不变的，学习者很可能在第一个block时就已经学会了刺激一反应一结果之间的联系，因此在后续block中，是否延迟给予反馈对结果没有影响(Peterburs etal.,2016)。但在Yin等人(2018)的研究中，延迟反馈间隔设定为间隔5个试次后给予第一个试次的反馈，延迟期间的5个试次相当于设置了干扰项，阻碍了被试从反馈中学习，从而影响结果。
+
+二是在学习任务中，工作记忆参与程度高低的影响。如Opitz等人(2011)的人工语法学习任务中，被试需在延迟过程中同时记忆多个语法规则，难度较大，工作记忆参与程度高，因此短暂的延迟会损害人工语法的学习效果。而Weismuller和Bellebaum(2016)的研究中，被试只需记忆两种刺激物的选择，因而工作记忆的参与程度较小，反馈间隔对学习效果没有太大的影响。
+
+三是反馈间隔时间的设定。在电生理研究中，有的研究将反馈间隔设置在一段范围内随机呈现(Wang etal.,2014)，有的研究者将反馈间隔设置为固定的时间间隔(Weinberg et al.,2012;Weismuller& Bellebaum,2016)。此外，对立即反馈和延迟反馈所涉及的具体时间间隔也不一致，如Arbel等人(2017)将立即反馈设定为500ms，Weismuller和Bellebaum(2016)将立即反馈设置为$1 0 0 0 \mathrm { { m s } }$ ，还有研究者将 500ms 和1000ms 当做短延迟(Weinberg etal.,2012;Peterburs etal.,2016)。对延迟反馈的时间间隔设定也从6000ms到7000ms 不等(Weinberg et al., 2012;Weismuller& Bellebaum, 2016; Arbel et al.,2017)。因而反馈间隔时间设定不一致，也是造成的原因之一。
+
+在反馈间隔对FRN的影响方面。研究结果也出现差异，大部分研究认同延迟反馈会减小FRN(Weinberg et al.,2012;Weismuller& Bellebaum,2016; Arbel etal.,2017)，少数认为反馈间隔的FRN 没有影响(Wang etal.,2014)，差异原因可能是由于实验中使用的程序和延迟间隔设定的不同(Weismuller＆Bellebaum,2016)以及个体差异(Zhang,Lei,Yin,Li,&Li,2018)的原因。因此在将来的研究中，可以严格控制实验流程等因素，探讨纯粹的FRN波幅随反馈间隔时间的变化是怎样变化的。
+
+此外，在反馈间隔对FRN变化具有影响时，延迟反馈和立即反馈下FRN的不同证明处理延迟奖赏的系统与处理立即奖赏的系统可能是分开的(Weinbergetal.,2012)。在学习过程中，处理立即反馈和延迟反馈分别属于纹状体和海马两个不同的神经机制(Foerde＆ Shohamy,2011)。纹状体被认为支持基于反馈的学习，以促进刺激反应之间的关联(Gabrieli,1998)，而内侧颞叶中的海马可以跨时间绑定相关元素，将时间或空间上不连续的经验元素联系在一起(Davachi,2006;Staresina&Davachi,2009)，为大脑在延迟反馈环境中学习提供了条件，当学习需要付出更多努力或包含相互冲突的信息时，这些区域可能以一种协同的方式并行运行，并且相互作用，随着等待时间的增加，反馈处理中的纹状体活动逐渐减少，并且更多地依赖海马进行陈述性记忆(Dickerson&Delgado,2015;Foerde et al., 2013;Foerde & Shohamy, 2011)。
+
+# 3研究展望
+
+在前文中，我们围绕“反馈间隔影响反馈加工”这一问题，介绍了行为和电生理两方面的研究。在对行为研究的总结中，我们主要介绍了反馈间隔对三种类型的实验任务的影响，并对结果差异的原因进行分析。
+
+在类别学习的研究中发现，延长反馈间隔对外显学习没有影响，但会降低内隐学习的效果(Maddox et al.,2003;Maddox & Ashby,2004;邢强 等，2018),当反馈间隔为 $5 0 0 \mathrm { { m s } }$ 时，内隐学习效果最佳(Worthy etal.,2013)。在事实信息学习的多数研究中发现，相比于立即反馈，延迟反馈有利于让被试在测试中表现更好(Butler et al., 2007; Smith & Kimball, 2010; Mullaney et al.,2014)。而在动作技能学习的研究中发现，在动作技能获得阶段，当实验任务简单时，立即反馈的学习效果好于延迟反馈，但任务复杂程度较高时，反馈间隔对学习效果的影响不显著(冯霞 等，2018)；在学习后的保持阶段，延迟反馈反而更有利于动作技能的保持(金亚虹 等，2001)。为此，我们从研究中使用的实验任务所属的记忆类型不一致，以及反馈间隔的操作定义不一致对结果差异进行了分析。
+
+在电生理研究的总结中，我们以FRN为指标，将实验任务分为了反馈评估和反馈学习两种，并综述了反馈间隔对二者的影响。在反馈评估的研究中，相比于立即反馈，延迟反馈条件下引发的FRN波幅更小(Weinberg et al.,2012)，但任务前的线索提示(Wangetal.,2014)或个体之间的差异(Zhang et al.,2018)可能会影响实验结果。在反馈学习的研究中，立即反馈下引发的FRN波幅显著大于延迟反馈条件下的，并且反馈间隔对概率学习任务和关联配对学习任务没有影响(Weismuller&Bellebaum,2016;Arbel etal.,2017)，但是延迟反馈会损害强化学习和人工语法学习(Yin et al.,2018;.Opitz et al.,2011)。这些可能是由于实验任务的设置、工作记忆的参与程度以及反馈间隔的设定等多方面的因素造成的。
+
+而对比行为研究和电生理研究两个领域内的结果，我们发现两种研究所关注的加工阶段不一致可能是造成两个领域无法直接对比的原因。在行为研究中，研究者更多关注的是反馈间隔对学习效果的影响。而体现学习效果的测试，可能在实验当天完成，也可以在多天后进行记忆保持测试(Smith&Kimball,2010)，通过被试在最后测试阶段的成绩，来估测在学习阶段，延长反馈间隔是否会影响学习(Butler et al.,2007;Mullaney etal.,2014)。但是在电生理研究中，研究者更多关注的是反馈间隔对反馈评估本身的影响。目前研究者主要是通过反馈间隔对FRN波幅的影响，研究反馈间隔对反馈评估的影响(Weinberg etal.,2012;Wang etal.,2014)。当然，也有一些研究通过电生理手段，研究反馈间隔对反馈学习的调节，但是常见学习任务是时间估计、概率学习任务(Yin et al.,2018; Weismuller & Bellebaum,2016; Peterburs et al.,2016)。电生理研究与行为研究用到的学习任务还有很大差异。
+
+在将来的研究中，研究者可以根据行为研究和电生理研究的侧重点，结合两者研究。要用行为研究的成果，指导电生理研究，尤其是反馈间隔影响学习效果方面的研究；也要发挥电生理研究在揭示神经机制和认知时程方面的优势，验证行为研究的结果，进一步阐明反馈间隔影响反馈加工和学习的认知机制和神经机制。
+
+此外，实验任务需要区分记忆类型，并且反馈间隔操作定义需要统一。在前文中，我们已经分析了记忆类型的不同和反馈间隔的界定不同，均会造成研究结果的不同。因此在未来的研究中，研究者可以定义关于反馈间隔的标准，以及学习任务涉及的记忆类型，以便更好的区分反馈间隔对不同类型的学习任务的影响。
+
+#
+
+参考文献 [1]冯霞,冯文锋,冯成志.(2018).反馈类型和反馈时间对动作技能获得的影响.心理科学,41(03),533-539. [2]金亚虹,章建成,孙耀华,任杰.(2001).延迟结果反馈对追踪任务技能学习的影响.心理科学,24(6),739- 740. [3]刘志雅,莫雷,张娟.(2007).基于规则的类别学习和信息整合的类别学习.心理科学,30(6),1429-1432. [4]孙海龙,邢强.(2014).反馈对知觉类别学习的影响及其认知神经生理机制.心理科学进展,22(1),67-74. [5]邢强,王家慰,黄秀青.(2018).反馈时间、反馈类型和掩蔽类型对概率类别学习的影响.心理学探 新,38(05),26-32. [6]张奇,刘万伦.(2007).类别学习多重系统理论的研究与展望.心理科学进展,15(1),78-87. [7] Arbel, Y.,Hong,L.，Baker,T.E.,& Holroyd,C.B.(2017).It'sallabout timing:An electrophysiological examination of feedback-based learning with immediate and delayed feedback. Neuropsychologia,99,179. [8]Ashby,F.G.,Alfonso-Reese,L.A.,Turken,A. U.,& Waldron,E. M. (1998).A neuropsychological theoryof multiple systems in category learning. Psychological Review, 105,42-481. [9]Ashby,F.G., Queller,S.,& Berrty,P.M.(1999).Onthe dominance of unidimensional rules inunsupervised categorization.Perception & Psychophysics,61(6),1178-99. [10] Bourne,L.E.(1957).Effects of delay of information feedback and task complexity on the identification of concepts.Journal of Experimental Psychology, 54(3),201-207. [11] Butler, A.C., Karpicke,J. D.,& Roediger, H.L.,I. (2007).The effect of type and timingoffeedback on learning from multiple-choice tests.Journal of Experimental Psychology: Applied,13,273-281. [12] Carpenter, S.K.,& Vul,E.(20l1).Delaying feedback by three seconds benefits retention of face-name pairs: The role of active anticipatory processing. Memory & Cognition, 39(7), 1211-1221. [13] Davachi,L.(20o6). Item,context and relational episodic encoding in humans. Current Opinion_in Neurobiology, 16, 693-700. [14] Dickerson KC,Delgado MR.(2015). Contributions of the hippocampus to feedback learning. Cognitive affective&behavioral neuroscience,15,861-77. [15]Ferdinand,N.K.,Mecklinger,A.,Kray,J.,& Gehring,W.J. (2012).The procesing of unexpected positive response outcomes in the mediofrontal cortex.Journal of Neuroscience,32 (35),12087-12092. [16]Foerde,K.,Race,E., Verfaelie,M.,&Shohamy,D.(2Ol3).Arole for the medial temporallobe in feedbackdriven learning:Evidence from amnesia.Journal of Neuroscience,33(13),5698. [17] Foerde,K.,& Shohamy, D. (2011).Feedback timing modulates brain systems for learning in humans. Journal of Neuroscience, 31,13157-13167. [18] Gabrieli,J. D. (1998). Cognitive neuroscience of human memory. Annual Review of Psychology, 49(49),87. [19] Gehring, W. J.,& Willoughby,A. R. (2002). The medial frontal cortex and the rapid processing of monetary gains and losses. Science, 295,2279-2282. [20] Guthbib,J.T. (1971).Feedback and sentence learning.Journal of Verbal Learning and Verbal Behavior,10, 23-28. [21] Hajcak, G.,Moser,J.S.,Holroyd, C.B.,& Simons,R.F. (2006).The feedback-related negativity reflects the binary evaluation of good versus bad outcomes. Biological Psychology, 71(2), 0-154. [22] Holroyd,C.B.,Krigolson,O.E.,Baker,R.,Lee,S.,& Gibson,J.(20o9).When isan error not a prediction error?An electrophysiological investigation. Cognitive,Affctive & Behavioral Neuroscience,9,59-70. [23] Kim,S.，& Arbel, Y. (2019).Immediate and delayed auditory feedback in declarative learning: An examination of the feedback related event related potentials.Neuropsychologia,129,255-262. [24] Kulhavy,R. W.(1977).Feedback in writen instruction. Review ofEducational Research,47(2),211-232. [25] Kulhavy,R.W.，& Stock,W.A. (1989). Feedback in writen instruction: The place of response certitude. Educational Psychology Review,1(4),279-308. [26] Lee,T.D.,Swinnen,S.P.,& Serrien,D.J.(1994). Cognitive effort and motor learning. Quest, 46(3),328-344. [27] Luft, C. D. (2014).Learning from feedback: The neural mechanisms of feedback processing facilitating better performance. Behavioural Brain Research,261(6),356-368. [28] Maddox,W.T.,& Ashby,F. G.(2004).Dissociating explicit and procedural-learning based systems of perceptual category learning. Behavioral Processes,66,309-332. [29]Maddox,W.T.,Ashby,F.G.,&Bohil,C.J.(20o3).Delayed feedback effctsonrule-basedand informationintegration category learning.Journal of Experimental Psychology: Learning,Memory,and Cognition,29,650- 663
+
+[30] Miltner,W.H.,Braun, C.H.,& Coles,M.G.(1997).Event-related brain potentials following incorrect feedback in a time-estimation task: Evidence for a“generic”neural system for error detection. Journal of cognitive neuroscience,9,788-798.   
+[31]Mory，E.H. (2004).Feedback research revisited.Mahwah，NJ,US:Lawrence Erlbaum Associates Publishers.   
+[32] Mullaney, K.M.,Carpenter, S.K.,Grotenhuis,C.,& Burianek,S. (2014).Waiting for feedback helps if you want to know the answer: The role ofcuriosity in the delay-of-feedback benefit. Memory& Cognition, 42(8), 1273-1284.   
+[33] Oliveira,F.T.,Mcdonald,J.J.,& Goodman,D.(20o7).Performance monitoring inthe anterior cingulateis not all error related: Expectancy deviation and the representation of action-outcome associations.Journal of Cognitive Neuroscience,19,1994-2004.   
+[34] Opitz,B.,Ferdinand,N.K.,& Mecklinger,A. (2011).Timing maters: The impact ofimmediate and delayed feedback on artificial language learning.Frontiers in Human Neuroscience,5,8.   
+[35] Pashler,H.,Cepeda,N.J.,Wixted,J.T.,&Rohrer,D.(2Oo5).When does feedback facilitate learning of words?Journal of Experimental Psychology:Learning, Memory,and Cognition,31,3-8.   
+[36] Peterburs,J.,Kobza,S.,& Belebaum,C.(2016).Feedback delay graduallyaffects amplitude and valence specificity of the feedback-related negativity (FRN).Psychophysiology,53,209-215.   
+[37] Salmoni,A. W.,Schmidt,R.A.,& Walter, C.B.(1984). Knowledge ofresults and motor learning: Areview and critical reappraisal.Psychological Bulletin,95(3),355-386.   
+[38] Saltzman,I. J. (1951). Delay of reward and human verbal learning. Journal ofExperimental Psychology, 41, 437-439.   
+[39] Sambrook, T.D.,& Goslin, J. (2015).Aneural reward prediction error revealed by a meta-analysis of ERPs using great grand averages.Psychological Bulletin,141,213-235.   
+[40] Sinha,N.,& GlassA.L.(2015).Delayed,but not immediate,feedback after multiple-choicequestions increases performance on a subsequent short-answer, but not multiple-choice,exam: Evidence for the dualprocess theory of memory. The Journal of General Psychology,142(2),118-134.   
+[41] Smith，T.A.，& Kimball,D.R.(2010).Learning from feedback: Spacing and the delay-retention effect.Journal of Experimental Psychology: Learning,Memory, and Cognition,36(1),80-95.   
+[42] Smith,T.A. (2Oo7). Spacing and the delay-retention efect: An alternative explanation of the effects of feedback timing on semantic learning (Unpublished master's thesis). University of Texas at Arlington.   
+[43] Staresina BP, Davachi L. (2Oo9). Mind the gap: Binding experiences across space and time in the human hippocampus. Neuron,63,267-276.   
+[44] Wang,J.,Chen,J.,Lei,Y.,andLi,P.(2014).P300,not feedback error-related negativitymanifests the waiting cost of receiving reward information. Neuroreport, 25,1044-1048.   
+[45] Walsh,M.M.,& Anderson,J.R. (2Ol2).Learning from experience: Event-related potential correlatesof reward processing, neural adaptation,and behavioral choice. Neuroscience & Biobehavioral Reviews,36(8), 1870-1884.   
+[46] Weinberg,A.,Luhmann,C.C.,Bres,J.N.,& Hajcak,G.(2012).Beter late than never?The effct of feedback delay on ERP indices of reward processing. Cognitive Afective & Behavioral Neuroscience, 12, 671- 677.   
+[47] Weismuller, B.,& Bellebaum, C.(2016).Expectancy affects the feedback-related negativity (FRN) for delayed feedback in probabilistic learning.Psychophysiology,53,1739-1750.   
+[48] Worthy, D.A.,Markman,A.B.,& Maddox, W.T. (2013).Feedback and stimulus-offset timing effects in perceptual category learning. Brain and Cognition,81,283-293.   
+[49] Zhang,X.,Lei,Y.,Yin,H.,Li,P.,&Li,H. (2O18).Slow is also fast: Feedback delay affects anxietyand outcome evaluation.Frontiers in Human Neuroscience,12,20.   
+[50] Yin,H.,Wang,Y., Zhang,X.,&Li,P.(2018).Feedback delay impaired reinforcement learning: Principal components analysis of reward positivity. Neuroscience Letters,685,179.
+
+(通讯作者：贾世伟E-mail:jiashiwei82@126.com)
+
+# 作者贡献声明：
+
+万楠：论文起草，文献搜集，论文写作朱树青：文献搜集，论文修改贾世伟：论文修改，最终版本修订

@@ -1,0 +1,220 @@
+酵母多糖的生物学功能及其对仔猪肠道健康的影响1
+
+崔艺燕 马现永\*
+
+（广东省农业科学院动物科学研究所，畜禽育种国家重点实验室，农业部华南动物营养与饲料重点实验室，广东省畜禽育种与营养研究重点实验室，广东省动物育种与营养公共实验室，
+
+广州510640)
+
+摘要：断奶应激会导致仔猪肠道代谢紊乱，肠道内环境失衡，健康受损。酵母多糖能够改善仔猪肠道健康和增强机体免疫力，增强肠道消化吸收功能，减少臭气排放，改善仔猪养殖环境，对发展生态健康养殖业具有重要意义。本文就酵母多糖的生物学功能及其对仔猪肠道健康的影响作了综述。
+
+关键词：酵母多糖；仔猪；肠道健康；肠道微生物中图分类号：S816.7 文献标志码：A
+
+仔猪生产是养猪业中的关键阶段，而肠道健康则是重中之重。正常的肠道功能是仔猪健康的保证。断奶应激会导致仔猪肠道健康受损，如黏膜形态改变、肠上皮通透性增加、消化吸收功能降低、黏液层厚度下降、肠道pH升高、肠道微生物菌群失衡等[1]。抗生素可改变胃肠道微生物定植，降低免疫刺激，促进生产。但抗生素容易产生残留、耐药菌、食品安全隐患、生态环境污染、危害人类健康等一系列问题。因此，开发高效廉价的绿色饲料添加剂或生理活性调控剂，减少抗生素在养猪业的应用成为目前研究热点。
+
+酵母多糖是一种天然高效的活性调控剂，可维持仔猪肠道健康和增强机体免疫力，减少疾病发生，增强消化吸收功能，减少臭气排放，降低抗生素和药物的使用，改善养殖环境，促进生态养猪业的健康发展，从而提高我国生猪产业的经济效益和生态效益。
+
+因此，探索酵母多糖对仔猪肠道健康的机理，对指导生猪养殖具有重要的科学、经济和生态意义。本文对酵母多糖的组成、生物学功能及其对仔猪肠道健康的影响作了综述。目前，酵母多糖在养殖业上的应用研究以酿酒酵母为主，本文所讲酵母多糖若无标明均指来源于酿酒酵母。
+
+# 1酵母多糖的组成
+
+酵母细胞壁由外到内分为3层，分别为甘露寡糖（mannan oligosaccharide,MOS）、蛋白质和葡聚糖。酵母多糖是由 $50 \% \sim 6 0 \%$ 的 $\beta$ -葡聚糖和 $40 \%$ 的甘露聚糖蛋白质组成的复合高分子[2]。葡聚糖包括 $\beta$ -1,6-葡聚糖、 $\beta$ -1,3-葡聚糖与 $_ { \mathrm { a - 1 } , 6 }$ 连接的分枝，以及线性α-1,3-葡聚糖等[3]。酵母多糖含有 $1 0 0 { \sim } 3 0 0$ 个甘露聚糖[4]，甘露聚糖以 $_ { \mathrm { a - 1 } , 6 }$ 键连接为主链，α-1,2与 $\mathfrak { a }$ -1,3键连接为侧链[5]。甘露聚糖通过乙酰解反应，切断 $\mathfrak { a }$ -1,6-糖苷键，可生成多种寡糖，即MOS[5]。
+
+# 2酵母多糖的生物学功能
+
+# 2.1酵母多糖的免疫调节功能
+
+$\beta$ -葡聚糖的免疫作用是通过与免疫细胞受体结合启动机体免疫应答实现的[6]。 $\beta$ -葡聚糖增加白细胞家族，如巨噬细胞、粒细胞、单核细胞[7]，刺激白细胞介素（IL）-1、IL-2、IL-4、IL-5、IL-6、IL-8、IL-12 和肿瘤坏死因子 $\mathbf { \sigma } \cdot \mathbf { a }$ (TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ )、干扰素- $\gamma$ (IFN- $\gamma$ ）的产生[7-8]。 $\beta$ -1,3-葡聚糖能通过降低 $\mathrm { C D 4 ^ { + } } .$ 与CD8+的比例以及 $I L { - } 2 , I L { - } 6$ 和TNF- $\cdot a$ 的表达水平，达到增强肿瘤抑制过程的免疫功能的效果[9]。此外， $\beta$ -葡聚糖还可促进辅助性T细胞（Th1细胞）分化和细胞毒性T淋巴细胞启动，消除肿瘤侵袭树突状细胞相关的免疫抑制[10]。
+
+β-葡聚糖的主要特异性受体有树突状细胞相关性C 型植物血凝素-1(Dectin-1)受体、补体受体3（CR3）和 Toll样受体（TLR）。具有 $\beta$ -1,6-分枝的不溶性颗粒β-1,3-葡聚糖与Dectin-1受体结合能够激活天然和适应性免疫应答，而可溶性β-葡聚糖可通过CR3 激活抗体介导的补体系统降低炎性反应，调节宿主的防御机制，详见Stier等[8]的综述。
+
+MOS 具有一定的免疫原性，能够刺激机体产生免疫应答，能作为毒素、病毒等外源抗原的佐剂，使抗原吸收减慢、效价提高，进而增强动物机体免疫应答[I]。MOS 能刺激机体免疫器官发育和成熟、促进浆细胞形成、延长免疫记忆、激活巨噬细胞等，提高动物抗病力和抗应激力[12]。
+
+酵母多糖的免疫机制包括活化巨噬细胞、嗜中性粒细胞、自然杀伤细胞以及B、T淋巴细胞[7-8,12]，增强体内外巨噬细胞的吞噬作用[7]，增加细胞因子数量[13]，从而发挥免疫调节功能。
+
+# 2.2酵母多糖的抗氧化功能
+
+酵母多糖可提高机体超氧化物歧化酶（SOD）活性，降低丙二醛（MDA）含量，提高清除或抑制氧自由基的能力，发挥抗氧化作用[14]。对过氧亚硝酸盐或过氧化氢诱导的脂质过氧化， ${ \mathfrak { \beta } } \qquad $ -葡聚糖具有极强的防御能力：血小板蛋白氧化明显减少，羰基含量极显著降低了$50 \%$ ，硫代巴比妥酸反应产物含量极显著降低了 $80 \%$ 。体内外研究表明，酵母多糖能显著提高小鼠肝脏和血清中 SOD 活性，并显著降低 MDA含量[16]。
+
+化学修饰可改善酵母多糖的生物学功能，常见有取代基影响抗氧化活性[17]，溶解度影响自由基清除能力[18]。酵母多糖化学修饰有乙酰化、羧甲基化、磷酸化和磺酰化[19-20]。硫酸化葡聚糖具有显著的还原能力[17,21]，磷酸化葡聚糖具有较强的羟自由基、超氧阴离子清除活性和抗脂质过氧化作用[17]。磷酸化MOS、硫酸化MOS、羧甲基化MOS、羧甲基化磷酸化MOS和羧甲基化硫酸化MOS 的超氧阴离子的清除能力接近维生素C，抗脂质过氧化能力均高于酵母 MOS[22]。
+
+# 2.3酵母多糖调节肠道微生态的功能
+
+酵母多糖可以被肠道细菌利用，为微生态系统带来益处[23]。辐射葡聚糖对大肠杆菌、沙门氏菌、蜡样芽胞杆菌、变形杆菌有明显的抑制效果[24]。酵母多糖能够干扰肠道病原菌的定植，降低肠道病原微生物（如沙门氏菌和大肠杆菌）的数量，同时其作为一种生长代谢的营养物质，能促进肠道乳酸菌、双歧杆菌等繁殖，调节肠道菌群平衡[25]。详见3.2的描述。
+
+# 2.4酵母多糖的吸附功能
+
+酵母多糖能吸附真菌毒素，如黄曲霉毒素和玉米赤霉烯酮[26]。 $\beta$ -葡聚糖对真菌毒素具有毒性抑制作用[27]，在胃肠道中结合霉菌毒素，可减轻猪中真菌毒素的影响[28]。另一种酵母多糖 $a { - } D { - }$ 甘露聚糖的毒性抑制作用可能是通过与其有毒的基因产物作用而实现[29]。MOS 可以形成具有较强吸附能力的三维空间构型，能吸附肠道内霉菌毒素和有害病原菌[25.30]；而且随着其分子质量增加，吸附效果越大[30]。
+
+因此，酵母多糖能减少机体毒素的沉积与产生，减弱毒素毒性，减少粪便异味和氨气排放。Kogan 等[31]认为，酵母 $\beta$ -葡聚糖和 MOS具有免疫调节和霉菌毒素的吸附活性，防止细菌粘附和传播，促进猪的健康。
+
+# 3酵母多糖对仔猪肠道健康的影响
+
+# 3.1酵母多糖对仔猪肠道形态的影响
+
+酵母多糖能改善仔猪肠道形态，提高营养物质的消化吸收，促进仔猪生长发育。但是，有部分研究认为酵母多糖对仔猪肠道形态无显著影响。酵母多糖对仔猪肠道形态的影响见表1。酵母多糖来源、类型、 $\beta$ -葡聚糖和 MOS 的比例、加工工艺、蛋白质杂质含量以及添加比例等均可引起差异。
+
+表1酵母多糖对仔猪肠道形态的影响  
+
+<html><body><table><tr><td colspan="2">Table 1</td><td colspan="3">Effects of yeast polysaccharide on intestinal morphology of piglets</td></tr><tr><td>多糖</td><td>仔猪</td><td>肠道</td><td>肠道形态</td><td>参考文献</td></tr><tr><td>Polysaccharide</td><td>Piglets</td><td>Guts</td><td>Intestinal morphology</td><td>References</td></tr><tr><td>甘露寡糖</td><td>(11.69±</td><td>空肠</td><td>显著增加空肠隐窝深度</td><td>[32]</td></tr><tr><td>MOS</td><td>0.71）kg</td><td>十二指肠</td><td>肠绒毛高度、隐窝深度和绒毛高度/隐窝深 度值无显著差异</td><td></td></tr><tr><td>毕赤酵母甘露 寡糖</td><td rowspan="6"></td><td rowspan="3"></td><td>显著提高绒毛高度，显著降低隐窝深度，</td><td rowspan="6">[30]</td></tr><tr><td>空肠</td><td>显著提高绒毛高度/隐窝深度值，0.2%组的</td></tr><tr><td>28日龄</td><td>隐窝深度显著大于0.1%组</td></tr><tr><td>Pichia pastoris</td><td></td><td>显著降低隐窝深度，显著升高绒毛高度/隐</td></tr><tr><td>MOS</td><td>回肠</td><td>窝深度值，0.2%组绒毛高度/隐窝深度值显</td></tr><tr><td></td><td>空肠</td><td>著高于0.1%组 显著提高断奶仔猪绒毛高度/隐窝深度值，</td></tr><tr><td>酵母壁多糖</td><td></td><td></td><td>0.45%酵母壁多糖显著提高绒毛高度</td></tr><tr><td>Yeast wall</td><td>21日龄</td><td>十二指肠</td><td>0.45%酵母壁多糖显著提高十二指肠绒毛 高度/隐窝深度值，组间十二指肠绒毛高度</td></tr><tr><td>polysaccharides</td><td></td><td></td><td>[33] 无显著差异</td></tr><tr><td></td><td></td><td>回肠</td><td>组间隐窝深度、绒毛高度差异均不显著</td></tr><tr><td>纯化的酵母</td><td></td><td></td><td></td></tr><tr><td>(1,3/1,6)</td><td></td><td></td><td></td></tr><tr><td>-β-D-葡聚糖</td><td>7、21日龄</td><td>回肠</td><td>组间小肠长度和重量以及回肠隐窝深度、 [34]</td></tr><tr><td>Purified yeast</td><td></td><td></td><td>绒毛高度无显著差异</td></tr><tr><td>(1,3/1,6)</td><td></td><td></td><td></td></tr><tr><td>-β-D-glucan</td><td></td><td></td><td></td></tr><tr><td></td><td>（20±2）日</td><td></td><td></td></tr><tr><td>酵母甘露寡糖</td><td></td><td></td><td>酵母MOS对仔猪小肠的重量或长度无显著</td></tr><tr><td>Yeast MOS</td><td>龄</td><td>小肠 影响</td><td></td></tr></table></body></html>
+
+小肠在消化吸收中起重要作用，其绒毛形态影响营养物质的吸收。小肠绒毛高度/隐窝深度（V/C）值升高可增强机体的消化吸收功能，提高仔猪生长性能。以上研究也证实了这一点，即酵母多糖增加小肠V/C 值的同时，显著提高了仔猪平均日采食量[33]、平均日增重
+
+[30,32-33]以及饲料转化效率[30,32]。
+
+目前研究多集中在酵母多糖对小肠绒毛高度、隐窝深度的影响，而对肠道杯状细胞和淋巴细胞研究则较为缺乏。此外，这些肠道形态指标较为宏观，难以阐明酵母多糖是如何影响仔猪肠道形态结构变化。 $\beta$ -葡聚糖能改善肠道通透性和紧密连接的结构完整性[36]，而肠上皮细胞的结构变化与肠组织的功能变化有关，因此可考虑利用体外培养方式从细胞角度研究酵母多糖对仔猪肠上皮细胞的分裂分化等，开展更为深入的机制研究。
+
+# 3.2酵母多糖对仔猪肠道微生物的影响
+
+微生物菌群平衡对仔猪的消化吸收、生长发育具有重要作用。断奶会引起肠道有益菌减少，有害菌增多，而有害菌大量繁殖并产生毒素，会破坏肠道黏膜[1]。酵母多糖可保持肠道微生态平衡，改善菌群结构。添加酵母多糖能降低肠道沙门氏菌和大肠杆菌等致病菌数量[37],其机理在于酵母多糖中的β-葡聚糖和MOS2种多糖成分的作用。
+
+# 3.2.1酵母β-葡聚糖对仔猪肠道微生物的影响
+
+β-葡聚糖可作为预防断奶后产肠毒素性大肠杆菌（enterotoxigenic Escherichia coli,ETEC）感染的抗生素替代物，断奶后补充β-葡聚糖2周可降低仔猪对ETEC 的易感性[38]。在 Stuyven 等[39]的研究中，β-葡聚糖保护了ETECF4 感染的断奶仔猪，但对 ETECF4 感染的无菌仔猪无保护，这表明微生物定植可能受β-葡聚糖影响。
+
+由表2可知，β-葡聚糖能够抑制肠道大肠杆菌的增殖，对双歧杆菌或乳酸杆菌的增殖影响较小，即 $\beta \cdot$ -葡聚糖在不影响有益菌生长下，可改善肠道菌群结构。一般认为益生元通过转移微生物群落的活性或组成而产生积极的影响[44];益生菌可通过和细菌竞争营养物质或黏附于肠上皮细胞[45]，亦可通过生产具有抗生素或免疫调节作用的化合物来抑制致病菌的定植[46]。 $\beta$ -葡聚糖对部分细菌有凝集力，抑制有害菌附着于上皮细胞，防止在黏膜表面定植[31]。目前 ${ \mathrm { ~  ~ \beta ~ } }$ -葡聚糖影响仔猪肠道微生物的机制研究缺乏，是否促进有益菌与有害菌竞争？如何阻止有害菌繁殖？这些问题还需更深入的研究。
+
+表2酵母 $\beta$ -葡聚糖对仔猪肠道微生物的影响  
+
+<html><body><table><tr><td colspan="5">Table2 Effects of yeast β-glucan on intestinal microbes of piglets</td></tr><tr><td>添加量</td><td>仔猪</td><td>肠道</td><td>效果</td><td>参考文献</td></tr><tr><td>Doses</td><td>Piglets</td><td>Guts</td><td>Effects</td><td>References</td></tr><tr><td rowspan="2">0.10%</td><td>28日龄</td><td>结肠、盲肠、</td><td>显著抑制大肠杆菌的增殖，显著提高</td><td rowspan="2">[40]</td></tr><tr><td></td><td>直肠</td><td>仔猪后肠中双歧杆菌、乳酸杆菌的数</td></tr></table></body></html>
+
+# 量
+
+<html><body><table><tr><td rowspan="2">150 g/t</td><td rowspan="2">28日龄</td><td>回肠、盲肠、</td><td>显著减少大肠杆菌的数量，显著降低</td><td rowspan="2">[41]</td></tr><tr><td>近端和远端结 肠</td><td>猪罗伊氏乳杆菌的数量，对双歧杆菌 或乳酸杆菌的数量没有显著影响</td></tr><tr><td>250 g/kg</td><td>18.8 kg</td><td>回肠、结肠</td><td>显著减少了肠杆菌的数量，而对双歧 杆菌或乳酸杆菌的数量没有显著影响</td><td>[42]</td></tr><tr><td rowspan="2">0.1 g/kg</td><td>(21±2)日</td><td></td><td>显著减少了粪便中的大肠杆菌的数</td><td rowspan="2">[43]</td></tr><tr><td>龄</td><td></td><td>量，但对乳杆菌数量没有显著影响</td></tr></table></body></html>
+
+# 3.2.2酵母MOS 对仔猪肠道微生物的影响
+
+MOS 通过在一些细菌（如大肠杆菌和沙门氏菌）的表面附着甘露糖结合蛋白影响肠道微生物，防止细菌侵袭肠道[47]。White 等[48]发现，MOS（ $0 . 2 3 4 \%$ ）显著增加粪便乳杆菌数量，但对大肠杆菌数量无显著影响。 $0 . 2 \%$ 的 MOS减少仔猪空肠大肠杆菌数量，对乳酸杆菌数量无显著影响[35]。由此可知，MOS 对肠道大肠杆菌和乳酸杆菌的影响不同，但都改善了菌群结构，这可能与MOS 的纯度、添加量等有关。然而，在Poeikhampha 等[32]研究中，MOS并不能显著影响保育仔猪盲肠、直肠中乳酸杆菌和大肠杆菌数量，这可能是由于在良好的管理条件下，对肠道微生物的影响有限。
+
+关于MOS 如何影响仔猪肠道微生物，有研究认为α-D-MOS 结合大肠杆菌的甘露糖特异性凝集素型受体，阻止大肠杆菌和沙门氏菌等表面的甘露糖与肠道长绒毛表面的糖蛋白结合，抑制细菌病原体的定植和扩散[31]。但是，除了这种方式外，MOS 影响仔猪肠道微生物的其他方式少有研究。体外培养结果表明：MOS 可作为营养物质被有益菌利用，产生有机酸、抑菌抗菌肽等，这些物质抑制致病菌的繁殖[49]；有害菌利用 MOS 的能力比有益菌弱，如棱状芽孢杆菌、大肠杆菌等对 MOS 不能利用或代谢利用率很低[50]，使得有害菌生长代谢减慢；有益菌的大量增殖起到抑制有害菌数量增加的作用，如乳酸杆菌和大肠杆菌都可利用MOS 进行生长，但乳酸杆菌的生长强于大肠杆菌[49.51]；MOS 对乳酸粪肠球菌和沙门氏菌有凝集效果[52]，可阻止其定植。以上机理虽然在体外培养中得以证实，但这不是针对仔猪肠道来源的微生物得出的。此外，不同酵母来源的MOS以及体内环境的不同均可导致酵母多糖影响微生物菌群的差异，因此需要进一步研究，使其更加符合实际生产应用。
+
+# 3.2.3酵母多糖对仔猪肠道微生物引起腹泻的影响
+
+断奶后致病菌数量上升是仔猪腹泻的主要原因。酵母多糖对改善断奶仔猪肠道菌群结构有促进作用，能减少因肠道微生态失衡而出现的腹泻。补充 $\beta \cdot$ -葡聚糖14d可减少断奶仔猪粪便的 ETEC F4数量，以及减少 ETEC 导致的腹泻[38]。MOS 可抑制产生毒素的细菌，减少或预防腹泻发生[53]。 $0 . 3 0 \%$ 和 $0 . 4 5 \%$ 的酵母壁多糖可显著降低仔猪盲肠大肠杆菌、沙门氏菌数量[37]，同时随着添加量的增加，腹泻率有降低的趋势，其中 $0 . 3 0 \%$ 组降低了 $3 1 . 6 8 \% ^ { [ 3 3 ] }$ 这与其他研究结果[53]一致。
+
+3.3酵母多糖对仔猪肠道挥发性脂肪酸（volatile fattyacid，VFA）含量的影响
+
+肠道微生物的组成和代谢物影响VFA的数量和组成。 ${ \mathfrak { \beta } }$ -葡聚糖显著增加仔猪盲肠总VFA含量[42]。MOS 有增加盲肠丁酸和总VFA含量的趋势，对乳酸、乙酸和丙酸的含量无显著影响[32]。酵母壁多糖可显著提高仔猪结肠乙酸含量， $0 . 3 0 \%$ 和 $0 . 4 5 \%$ 的酵母壁多糖显著提高结肠丙酸、丁酸以及总VFA含量[37]。Castillo 等[35]则认为，MOS对仔猪回肠和盲肠总VFA、乙酸、丙酸、丁酸、戊酸和支链脂肪酸含量没有显著影响。
+
+由上可知，酵母多糖可提高仔猪结肠、盲肠总VFA含量，对乳酸、丙酸、丁酸含量有一定影响；而酵母多糖对回肠VFA含量无显著影响。一般认为VFA主要是大肠微生物发酵产生，小肠微生物作用较少。回肠作为小肠的后段，微生物发酵较少，因此合成的VFA有限。酵母多糖对仔猪后肠发酵合成VFA研究较少，需要更多的数据来证实酵母多糖对肠道VFA的益处。
+
+以上研究差异主要与肠道微生物种类、数量以及比例有关。肠上皮与微生物相互作用，有益菌利用酵母多糖合成VFA，如乙酸、丙酸和丁酸。VFA 降低肠道pH，促进有益菌生长，抑制有害菌繁殖，起到维持微生态平衡的作用。丁酸盐通过诱导肠上皮中局部氧水平的消耗来改善肠壁屏障，调节屏障保护的缺氧诱导因子[54]。此外，VFA还可为肠道上皮细胞提供能量[54]，刺激结肠上皮细胞的增长[44-5]，增大结肠黏膜吸收表面[44]，改善肠上皮细胞的转运能力，提高营养物质的吸收利用效率等[47]，从而使有益菌发挥微生物屏障、营养吸收、免疫调控等功能。
+
+# 3.4酵母多糖对仔猪肠道免疫的影响
+
+肠道免疫屏障主要由肠黏膜吸收上皮细胞和肠道淋巴组织构成。肠黏膜可防止细菌黏附，区分病原体和共生微生物、组织免疫耐受和对病原体的免疫应答[36]。肠道淋巴组织是免疫系统的最大组成，在肠道防御中起核心作用[44]。MOS 对仔猪回肠免疫球蛋白A（IgA）含量、空肠上皮内淋巴细胞或杯状细胞的数量无显著影响[35]。毕赤酵母 MOS 能减缓因大肠杆菌攻毒导致的空肠黏膜上皮细胞间淋巴细胞和杯状细胞数量的升高，显著降低攻毒组回肠杯状细胞的数量，即酵母MOS 有提高肠黏膜细胞免疫力、免疫监视外源病原菌的作用[30]。
+
+$\beta$ -葡聚糖显著提高了仔猪回肠的肿瘤坏死因子 $- \alpha$ （TNF-α）的相对表达量，同时肝脏和脾脏TNF- $\cdot a$ 的相对表达量极显著增加[13]。纯化的(1,3/1,6) $\cdot \beta$ -D-葡聚糖对仔猪肠道免疫发育没有显著影响，随着添加量的增加，有降低回肠绒毛CD3 细胞数量的趋势[34]。贺琴等[56]研究发现， $0 . 3 0 \%$ 、 $0 . 4 5 \%$ 的酵母壁多糖显著提高回肠 $\mathrm { C D 4 ^ { + } } .$ 淋巴细胞数量，一定程度上提高 $\mathrm { C D 8 ^ { + } }$ 和 $\mathrm { C D } 2 0 ^ { + }$ 淋巴细胞数量。毕赤酵母 MOS 能显著降低未攻毒时空肠、回肠黏膜IL-1β和 TLR4的相对表达量，显著提高IL-6 的相对表达量；攻毒后可显著提高黏膜 $I L \mathrm { - } 1 \beta$ 和 IL-6 的相对表达量，有降低 TLR4 的相对表达量的趋势，即在大肠杆菌感染时，毕赤酵母MOS 可增强肠道免疫系统，调节细胞因子表达，提高机体免疫反应[30]。
+
+仔猪对酵母多糖免疫刺激反应不同，是由于酵母多糖的各级结构、杂质含量等有所差异造成的。目前酵母多糖对于仔猪肠道免疫的相关研究较少。已知研究表明，酵母多糖对免疫功能的影响，主要是β-葡聚糖与位于小肠中微胶体细胞的相互作用[8]。葡聚糖通过结合胃肠道上皮和肠道淋巴组织细胞从胃肠道转移到全身循环中，然后通过微胶体细胞摄取从肠腔转运到位于派耶尔斑块内的免疫细胞[8]，或通过结合树突状细胞而被吸收[20]。之后，葡聚糖可以结合免疫细胞表面的特异性受体位点，触发基因表达和细胞因子分泌。然而，葡聚糖激活免疫系统是相当复杂的，这种机制尚未在仔猪肠道免疫中得到证实，尚需进一步探讨酵母多糖对仔猪肠道黏膜免疫的作用机理。分泌型免疫球蛋白A（SIgA）在肠黏膜免疫中起重要作用，对致病菌及其他外来物质起免疫屏障作用[I]，但酵母多糖影响肠道 SIgA 的研究较少。另外，寡糖可以促进有益菌，特别是双歧杆菌的生长，同时研究认为双歧杆菌对机体具有免疫刺激作用[]。所以，可考虑双歧杆菌利用酵母多糖生长的同时调节肠道免疫。这些都需要深入研究。
+
+# 4小结
+
+综上所述，酵母多糖能够改善仔猪断奶应激，促进肠道健康，但其对肠道形态功能的影响以及相关的调控机理尚无深入研究，主要是由于酵母多糖的杂质和结构复杂多样。由于生产加工技术方法多样，目前的酵母多糖在纯度、溶解度、分子量、三级结构、聚合物电荷和溶液构象等方面差异很大。因此有必要对以下问题进行深入研究：酵母多糖化学结构及衍生物的生物学功能差异；酵母多糖对仔猪肠道结构改善以及动物疾病抵抗力的具体机制；不同酵母菌株来源的酵母多糖之间生物学和功能差别；酵母多糖与其他营养或非营养因素之间的相互关系；酵母多糖与其他饲料添加剂的协同作用和增效机制等。
+
+酵母多糖改善动物肠道健康的同时，减少抗生素以及药物使用，保护生态环境。在当今“安全生产，绿色保健，健康养殖"理念日趋成熟的同时，人们对食品安全的关注会使酵母多糖愈加得到重视。在未来绿色、健康、高品质的生态健康养殖模式下，酵母多糖将有更广阔的应用前景。
+
+参考文献:  
+[1]徐子伟.仔猪肠道损伤修复营养调控及其机制和应用[J].动物营养学报,2014,26(10):3033-3045.
+
+[2] CABIB E,ROBERTS R,BOWERSB.Synthesisof the yeast cell wall andits regulation[J].Annual Review of Biochemistry,1982,51(1):763-793.
+
+[3] ZHENG X,ZOU S W,XU H,et al.The linear structure of $\beta$ -glucan from baker's yeast and its activation of macrophage-like RAW264.7 cels[J].Carbohydrate Polymers,2016,148:61-68.
+
+[4] SOKOLOV S S,KALEBINA T S,AGAFONOV M O,et al.Comparative analysis of the structural role of proteins and polysaccharides in cell walls of the yeasts Hansenula polymorpha and Saccharomyces cerevisiae[J].Doklady Biochemistry and Biophysics,2002,384(1/2/3/4/5/6):172-175.
+
+[5]郄彦昭,段文娟,卢晓菲.酵母多糖的功能活性及在动物生产中的应用研究[J].饲料与畜牧,2012(11):40-41.
+
+[6] BROWN G D.Dectin-1:a signaling non-TLR patternrecognition receptor[J].Nature Reviews Immunol0gy,2006,6(1):33-43.
+
+[7]SABER A,ALIPOUR B,FAGHFOORI Z,et al.Celllar and molecular effects of yeast probiotics on cancer[J].Critical Reviews in Microbiology,2017,43(1):96-115.
+
+[8] STIER H,EBBESKOTTE V,GRUENWALD J.Immune-modulatory effects of dietary yeast beta-1,3/1,6-D-glucan[J].Nutrition Journal,2014,13:38.
+
+[9] MO L,CHEN Y F,LI W J,et al.Anti-tumor effects of( $( 1  3 )$ ） $\cdot \beta$ -D-glucan from Saccharomyces cerevisiae in S180 tumor-bearing mice[J].International Journal of Biological Macromolecules,2017,95:385-392.
+
+[10] NING Y L,XU D Q,ZHANG X H,et al. $\beta$ -glucan restores tumor-educated dendritic cell maturation to enhance antitumor immune responses[J].International Journal of Cancer,2016,138(11):2713-2723.
+
+[11]张树政.糖生物工程[M].北京:化学工业出版社,2012:216-233.   
+[12] HALAS V,NOCHTA I.Mannan oligosaccharides in nursery pig nutrition and their potential mode ofaction[J].Animals (Basel),2012,2(2):261-274.
+
+[13] EICHER S D,MCKEE C A,CARROLL JA,et al.Supplemental vitamin C and yeast cell wall $\beta$ -glucan as growth enhancers in newborn pigs and as immunomodulators after an endotoxin challenge after weaning[J].Journal of Animal Science,2006,84(9):2352-2360.
+
+[14] NEWSMAN K,JACQUEA K,BUEDE R.Effect of mannan-olignsaceharide supplementation on performance and fecal bacteria of holstein ealves[J].Journalof Animal Science,1993(71):270-271.
+
+[15] SALUK-JUSZCZAK J,KROLEWSKA K,WACHOWICZ B.β-glucan from Saccharomyces cerevisiae as a blood platelet antioxidant[J].Platelets,2010,21(6):451-459.
+
+[16] 孙正博.啤酒酵母多糖抗氧化活性的研究[D].硕士学位论文.武汉:湖北工业大学,2007. [17] TANG Q L,HUANG G L,ZHAO F Y,et al.The antioxidant activities of $\sin ( 1  3 ) - \beta -$ ${ \mathbf { } } \cdot { D }$ -glucan derivativespreparedfromyeastcellwall[J].InternationalJournal ofBiological Macromolecules,2017,98:216-221.
+
+[18]马霞,刘蓝天,沈丽,等.不同提取方法对产肮假丝酵母 $\beta$ -葡聚糖性质的影响[J/OL].食品科学.(2017-08-28).http://kns.cnki.net/kcms/detail/11.2206.TS.20170828.1258.030.html.
+
+[19] KAGIMURA F Y,DA CUNHA M A,BARBOSA A M,et al.Biological activities of derivatized D-glucans:a review[J].International Journal of Biological Macromolecules,2015,72:588-598.
+
+[20] DE CUNHA M A A,ALBORNOZ S L,SANTOS V A Q,et al.Structure and biological functionsof $D$ -glucans and their applications[J].Studies in Natural Products Chemistry,2017,53:309-337.
+
+[21] ZHANG H,ZHANG J,FAN Z L,et al.Chemical synthesis of sulfated yeast (Saccharomyces cerevisiae) glucans and their in vivo antioxidant activity[J].Molecules,2017,22(8):1266.
+
+[22]LIUY,HUANG G L.The derivatizationandantioxidantactivitiesofyeast mannan[J].International Journal of Biological Macromolecules,2017,doi: 10.1016/j.ijbiomac.2017.09.055.
+
+[23] CUSKIN F,LOWE E C,TEMPLE M J,et al.Human gut bacteroidetes can utilize yeast mannan through a selfish mechanism[J].Nature,2015,517(7533):165-169.
+
+[24] KHAN A A,GANI A,MASOODI F A,et al.Structural,thermal,functional,antioxidant & antimicrobial properties of $\beta$ $D$ -glucan extracted from baker's yeast(Saccharomyces cereviseae)- Effect of $\gamma$ -irradiation[J].Carbohydrate Polymers,2016,140:442-450.
+
+[25] LI T,DONG Z R,GUO Z Y,et al.Mannose-mediated inhibitory effects of PA-MSHA on invasion and metastasis of hepatocellular carcinoma via EGFR/Akt/IkBβ/NF-kB pathway[J].Liver International,2015,35(4):1416-1429.
+
+[26]彭小芳,朱建军.酵母细胞壁多糖的生理功能及其应用研究进展[J].湖南饲料,2011(5):13-14.
+
+[27] SROBAROVA A,KOGAN G,EGED S.Yeast polysaccharide affects fusaric acid content in maize root rot[J].Chemistry & Biodiversity,2000,2(12):1685-1690.
+
+[28] SWAMY H V L N,SMITH T K,MACDONALD E J,et al.Effects of feeding a blend of grains naturally contaminated with fusarium mycotoxins on growth and immunological measurements of starter pigs,and the eficacy of a polymeric glucomannan mycotoxin adsorbent[J].Journal of Animal Science,2003,81(11):2792-2803.
+
+[29] MADRIGAL-SANTILLAN E,MADRIGAL-BUJAIDAR E,MARQUEZ-MARQUEZ R,et al.Antigenotoxic effect of Saccharomyces cerevisiae on the damage produced in mice fed with aflatoxin B(1) contaminated corn[J].Food and Chemical Toxicology,2006,44(12):2058-2063.
+
+[30] 李玉欣.毕赤酵母甘露寡糖对猪生产性能和免疫性能的影响[D].博士学位论文.北京:中
+
+国农业大学,2015.
+
+[31] KOGAN G,KOCHER A.Role of yeast cell wall polysaccharides in pig nutrition and health protection[J].Livestock Science,2007,109(1/2/3):161-165.
+
+[32] POEIKHAMPHA T,BUNCHASAK C.Comparative effects of sodium gluconate,mannan oligosaccharide and potassium diformate on growth performances and small intestinal morphology of nursery pigs[J].Asian-Australasian Journal of Animal Sciences,2011,24(6):844-850.
+
+[33] 贺琴,王自蕊,游金明,等.酵母壁多糖对断奶仔猪生长性能和小肠黏膜形态结构的影响[J]动物营养学报,2016,28(11):3536-3541.
+
+[34] HESTER S N,COMSTOCK S S,THORUM S C,et al.Intestinal and systemic immune development and response to vaccination are unaffected by dietary(1,3/1,6)- $\cdot \beta$ -D-glucan supplementation in neonatal piglets[J].Clinical & Vaccine Immunology,2012,19(9):1499-1508.
+
+[35]CASTILLOM,MARTIN-ORUESM,TAYLOR-PICKARD JA,et al.Use of mannanoligosaccharides and zinc chelate as growth promoters and diarrhea preventative in weaningpigs:effects on microbiota and gut function[J].Journal of Animal Science,2008,86(1):94-101.
+
+[36] HAN F F,FAN H F,YAO M,et al.Oral administration of yeast $D$ -glucan ameliorates inflammation and intestinal barrier in dextran sodium sulfate-induced acute colitis[J].Journal of Functional Foods,2017,35:115-126.
+
+[37] 贺琴,王自蕊,游金明,等.酵母壁多糖对断奶仔猪肠道挥发性脂肪酸和微生物菌群的影响[J].动物营养学报,2017,29(1):177-183.
+
+[38] STUYVENE,COX E,VANCAENEGHEMS,et al.Effect of $\beta$ -glucans on an ETEC infection in piglets[J].Veterinary Immunology and Immunopathology,2009,128(1/2/3):60-66.
+
+[39] STUYVEN E,VAN DER BROECK W,NAUWYNCK H,et al.Oral administration of beta-1,3/1,6-glucan Macrogard® fails to enhance the mucosal immune response following oral F4 fimbrial immunisation in gnotobiotic pigs[J].Veterinary Immunology and Immunopathology,2010,137(3/4):291-297.
+
+[40] 潘树德,李学俭,边连全,等.酵母β-葡聚糖对断奶仔猪肠道菌群的影响[J].饲料工 业,2012,33(12):21-23.
+
+[41] MURPHY P,DAL B F,O'DOHERTY J,et al.Analysis of bacterial community shifts in the gastrointestinal tract of pigs fed diets supplemented with $\beta$ glucan from Laminaria digitata,Laminaria hyperborea and Saccharomyces cerevisiae[J].Animal,2013,7(7):1079-1087. [42] SWEENEY T,COLLINS C B,REILLY P,et al.Eect of purified $\beta$ -glucans derived from Laminaria digitata,Laminaria hyperborea and Saccharomycescerevisiae on piglet performance,selected bacterial populations,volatile faty acids and pro-inflammatory cytokines in the gastrointestinal tract of pigs[J].British Journal of Nutrition,2012,108(7):1226-1234.   
+[43] ZHOU T X,JUNG J H,ZHANG Z F,et al.Effect of dietary $\beta$ glucan on growth performance,fecal microbial shedding and immunological responses after lipopolysaccharide challenge in weaned pigs[J].Animal Feed Science & Technology,2013,179(1/2/3/4):85-92. [44] VERSPREET J,DAMEN B,BROEKAERT W F,et al.A critical look at prebiotics within the dietary fiber concept[J].Annual Review of Food Science and Technology,2016,7(1):167-190. [45] DERRIEN M,VAN HYLCKAMA VLIEG J E.Fate,activity,and impact of ingested bacteria within the human gut microbiota[J].Trends in Microbiology,2015,23(6) :354-366 .   
+[46]DONIAMS,FISCHBACHMA.smallmoleculesfromthe human microbiota[J].Science,2015,349(6246):1254766.   
+[47] SPRING P,WENK C,DAWSON K A,et al.The effects of dietary mannanoligosaccarides on cecal parameters and the concentrations of enteric bacteria in the ceca of salmonella-challenged broiler chicks[J].Poultry Science,2000,79(2):205-211.   
+[48] WHITE L A,NEWMAN M C,CROMWELL G L,et al.Brewers dried yeast as a source of mannan oligosaccharides for weaning pigs[J].Journal of Animal Science,2002,80(10):2619-2628. [49]盛清凯,姚惠源.低聚糖对肠道菌群的调节机理[J].动物科学与动物医 学,2002,19(2):35-38.   
+[50] BAILEY J S,BLANKENSHIP L C,COX N A.Effect of fructooligosaccharide on Salmonella colonization of the chicken intestine[J].Poultry Science,1991,70(12):2433-2438.
+
+[51] 杭苏琴,戴兆来,朱伟云.甘露寡糖对纯培养和共培养的乳酸杆菌体外生长的影响[J].微生物学报,2009,36(1):51-56.
+
+[52] 李溪,王金荣,赵银丽,等.甘露寡糖对乳酸粪肠球菌和沙门菌细胞凝集的影响研究[J].饲料研究,2016(3):1-7,13.
+
+[53] ZHAO P Y,JUNG J H,KIM I H.Effect of mannan oligosaccharides and fructan on growth performance,nutrient digestibility,blood profile,and diarrhea score in weanling pigs[J].Journal of Animal Science,2012,90(3):833-839.
+
+[54]KELLY C J,ZHENG L,CAMPBELL E L,et al.Crosstalk between microbiota-derived short-chain fatty acids and intestinal epithelial HIF augments tissue barrier function[J].Cell Host & Microbe,2015,17(5):662-671.
+
+[55]EL-ARAB A E,FOHEID S,EL-SAID M.Effect of yeast and botanical $\beta$ -glucan on serum lipid profile and cecum probiotic bacteria using rats fed cholesterol diet[J].Polish Journal of Food &Nutrition Sciences,2009,59(2):169-174.
+
+[56] 贺琴,王自蕊,游金明,等.酵母壁多糖对断奶仔猪外周血免疫和肠道免疫的影响[J].动物营 养学报,2017,29(7):2502-2511.
+
+Biological Function of Yeast Polysaccharide and Its Effect on Piglet's Gut Health CUI Yiyan MA Xianyong (The Key Laboratory of Animal Nutrition and Feed Science (South China) of Ministry of Agriculture, State Key Laboratory of Livestock and Poultry Breeding, Guangdong Public Laboratory of Animal Breeding and Nutrition, Guangdong Key Laboratory of Animal Breeding and Nutrition, Institute of Animal Science, Guangdong Academy ofAgricultural Sciences,Guangzhou, 510640, China)
+
+Abstract: Weaning stress leads to the imbalance of piglet's intestinal metabolism and environment, which results in impaired piglet's health. Yeast polysaccharide improve piglet’s gut health and immunity, enhance digestive and absorptive function,reduce odor emissions and improve the piglet's breeding environment, which is of great significance to the development of ecological health breeding industry. In this paper, the biological function of yeast polysaccharide and its effect on piglet's gut health are reviewed.
+
+Key words: yeast polysaccharide; piglets; gut health; intestinal microflora i

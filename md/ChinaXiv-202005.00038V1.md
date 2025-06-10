@@ -1,0 +1,266 @@
+# 伪装情绪的人际影响及其作用机制
+
+冯柔佳 毕研玲 付小丽 王 佳 李梦珠
+
+（陕西师范大学心理学院暨陕西省行为与认知神经科学重点实验室，西安710062）
+
+摘要 伪装情绪是指在情绪交互的过程中，人们展现实际不存在的积极或消极情绪，放大亦或是压抑原本的情绪。伪装情绪是一种策略选择的结果，表现者所展现的情绪在当下可能并未发生，但却能在某种程度上令人信服。目前关于伪装情绪的研究比较分散，对于伪装情绪人际影响及其作用机制还存在着一定争议。现有文献多从博弈过程、亲社会行为情境、组织情境和领导效果四个方面对伪装情绪的人际效应进行探讨，其中相关的机制包括情绪接受者的情感反应及“以己度人”的内心过程。未来的研究可以从情绪接受者、群体伪装、伪装情绪效价、认知神经机制以及文化等方面，对伪装情绪展开深入系统性的研究。
+
+关键词伪装情绪；情绪策略；情绪感知；情绪交互；情绪识别
+
+# 1引言
+
+情绪（emotion）是以主体的需要、愿望等倾向为中介的一种心理现象，是一种伴随着个体某种外部表现的内部主观体验，涉及许多层次的神经和化学整合(Lindsley,1951)。情绪不是我们血液中的物质，而是通过我们表演和讲述组织起来的社会体验(Rosaldo,1984)，是文化的产物(Kovecses,2000)。在互动中，人们把情绪作为社会和文化产品(Boehner,DePaula,Dourish,& Sengers,2007)，传递信息，有效沟通，让个体能够更好地适应和生存。比如婴儿通过情绪和成人交流，成人通过情绪了解自己与他人的身心状态。倘若人类社会没有了情绪，那么社会网络就没有了连接点的线，整个社会不过是一个点集而已。因此，情绪在人们的社交互动中有着重要的作用，是我们生活中不可或缺的一部分，它与理性交织在一起，是我们作为人类的特质之一(Peleckis,2013)。
+
+作为一种有目的、有思考成分的行为模式(Dewey,1895)，情绪可能由一个可识别的事件被动诱发而来，也可能是为了达到目标而主动生成的一种手段(Potworowski&Kopelman2008)。在很多社会情境中，人们会策略性地管理或表达自己的情绪，从而实现自己的目的。情绪的策略性表达是一种重要的情绪管理能力，它涉及到是否以及如何表达一种真实的或是伪装的情绪。无论是真实的还是伪装的，策略性地表达情绪可以作为个体的行为说服策略，在一定程度上达到预期的效果(Potworowski& Kopelman,2008)。然而，策略性情绪表达在给个体带来积极的影响同时，也会伴随着不利因素。以往研究显示，积极情绪的策略性表达（如快乐）既可以帮助个体在潜在的整合环境中发展长期互惠关系(Kopelman&Rosette,2008)，也能产生包括削弱他人信任等在内的诸多负面效应(Caza,Zhang,Wang,&Bai,2015)。Peleckis（2013）也指出，当人们隐藏自己的真实情绪并试图在工作中实现效用最大化时，一些非预期结果也会相伴而来，进而对人际关系造成不良影响。
+
+在社会交往中，人们往往策略性地选择情绪表达来实现更理想的目标。伪装情绪是一种常见的情绪表达策略。它是指在情绪交互的过程中，人们表达出实际不存在的积极或是消极情绪，放大亦或是压抑原本的情绪(Ekman&Friesen,1975)。伪装情绪是个体情绪体验与情绪表现不一致的行为(童萍，吴承红,2008)。在伪装情绪的过程中，情绪表达者展现的情绪，可能在当下并未发生，但却能由于在某种程度上令人信服而达到个体特定的目的。比如愤怒的人可能通过假装悲伤来增加他人的同情；顾客可能通过假装愤怒而使得服务员加快服务速度；病人也可能通过夸大痛苦来引发他人的关注，等等。因此，伪装情绪作为一种情绪信息广泛存在于社会交往中，并对人们生活工作的方方面面都有着深刻的影响。
+
+那么，情绪的接受者是如何感知他人的伪装情绪并受到伪装情绪的影响呢？由于在情绪表达过程中会伴随着一些可以识别的相关线索，而这些线索一旦被感知到，情绪接受者的认知、态度和行为会受到他人伪装情绪的影响。以往研究发现，学龄前儿童已经能清楚地区分真实的和表面的情绪，并且理解许多控制情绪表达的社会表现规则(Banerjee,1997)。由于表情是情绪最敏感的外显表现。因此，很多研究者都是通过表情来研究情绪(Lindsley,1951;Cacioppo&Gardner,1999)。在日常生活中，人们可能会根据语言(Dellaert,Polzin,&Waibel,1996，林菡，张侃,2009)、面部表情(Cohen,Garg,& Huang,2000)、手势(Glowinski,Camurri,Volpe,Dael,& Scherer,2008;Kipp&Martin,2009)和其它各种生理线索对他人情绪进行判断(Castellano,Kessous,& Caridakis,2008; Haag, Goronzy, Schaich,& Wiliams,2004)。情绪接受者可能通过微妙的非语言信号，比如对方情绪呈现的时间长度或不对称的面部收缩来判断对方的情绪表现是否真实(Borod& Koff,1984)。Ekman 和 Friesen（1978）认为，未经训练个体的伪装情绪与典型的面部表情会有显著差异，这些差异常常会导致情绪接受者观察到的情绪和对方试图伪装的情绪之间存在不同(Padgett, Cottrell,&Adolphs,1996)，从而使得情绪接受者作出情绪伪装者非预期的反应。因此，职业玩家在赌场上经常会用帽子和太阳镜隐藏面部表情(Kappas,Bherer,&Theriault,2000),防止对方根据自己不可控制的情绪表现作出判断，影响最终的输赢。基于此，伪装情绪虽然是为情绪表达者的个人目的服务，但否能达到预期目的，还需看情绪接受者是否能够被伪装情绪成功地说服。因此，不论情绪表达者能否成功伪装情绪，情绪接受者对于情绪线索的接受及解释，都是伪装情绪产生人际影响的重要的中间环节。
+
+基于以上论述，情绪表达过程为情绪判断提供了信息，情绪接受者可以将这些信息纳入到自己对情绪表达者的评价体系中(Van Kleef,2009)，并结合情绪表达的具体内容，综合推断情绪表达者具有的性格品质(Van Kleef, Van Doorn, Heerdink,& Koning,2011)。由于在表达伪装情绪的过程中，情绪表达者表现出来的情绪线索和接受者感知到的线索之间可能存在不一致(Coté,2005; Hochschild,1983)，并且情绪接受者可以察觉到这种不一致(Cote,Hideg,&Van Kleef,2013)，此时，情绪接受者会从符合自身实际感受角度，推断对方所体现情绪的真实性。当情绪接受者察觉到对方的情绪不真实时，可能会将其解释为情绪上的不诚实和对人际交往兴趣的缺乏(Frank,Ekman,&Friesen,1993)，但情绪接受者也可能从这些不真实情绪当中获得更积极的体验，更有利于推动人际间的互动(Wong,2013;Lechner&Paul,2017)。因此，情绪接受者如何感知、解读伪装情绪，是伪装情绪对人际关系的形成及发展产生影响的决定因素。
+
+正是由于生活中情绪作为信息传递的普遍性，以及情绪接受者感知到伪装情绪的可能性，我们希望通过对相关领域文献整理，更深入地探究伪装情绪在人际方面的影响及其机制。随后的内容中，我们首先从伪装情绪人际影响的四个方面入手，系统介绍了现有的关于伪装情绪的主要研究领域，之后又分析了伪装情绪对人际关系产生影响的可能原因，建构了伪装情绪人际效应作用路径模型。在以上内容基础上，最后整理了伪装情绪领域目前存在的一些局限并对未来的研究方向提出了一些建议。
+
+# 2伪装情绪对人际关系的效应
+
+在生活中，人们常常通过表达不真实的情绪达到某些目的或要求。而伪装情绪，不仅会对情绪表达者自身心理行为产生一定的效应，也会对其人际关系造成显著影响。通过对以往文献的梳理，伪装情绪的人际影响效应可由短期的偶然的情绪伪装引发，也可源于长期的周期性的伪装情绪。因此，依据出现的周期性及持续时间，伪装情绪大致可以分为两类：
+
+一类是短期偶然的情绪伪装。这是由特定情境所诱发或为满足某种需要，在短时的、偶然的某种情境中产生的伪装情绪。这类情境中，伪装情绪的目的明确、具体，且每次持续的时间也相对短暂，人们的决策易受到情绪使用情境及对象的影响(Rothman&Magee,2016;Van Kleef,De Dreu,& Manstead,2010; Van Kleef,2009)。因此，不同场合、不同目的伪装情绪都会有所差别。同时，该领域很少有文献探究相关情境中产生的伪装情绪对情境之外的生活或工作会产生什么影响，而多是检验伪装情绪对情境中的状态性结果的效应(Hideg&VanKleef,2017;Tng＆Au,2014)。“博弈行为”和“亲社会行为”相关研究中的伪装情绪由于诱发情境持续时间通常相对短暂，每次的情绪目标、情绪策略以及最终目的都会有所差异，并且同一种伪装情绪较少反复出现，其出现的规律也会随着目的的改变而发生变化(Hideg,2012; Hideg& Van Kleef,2017; Methasani, Gaspar,& Barry,2017)，因此，这两个情境中的伪装情绪效应应该可以归为这一类。
+
+第二类是长期周期性的情绪伪装效应。这种效应是在长期地、反复地对同一种伪装情绪使用的基础上产生的。在此类情境中，伪装情绪不仅能够对人们的工作关系产生一定的效应，同时也很大程度地影响着人们工作之外的日常生活(Taxer&Frenzel,2015;Brotheridge &Grandey,2002; Oc,Daniels,Diefendorff, Bashshur,& Greguras,2019)。在这些情境中，研究者们认为个体倾向于使用“情绪劳动(emotionallabor，是指要求员工在工作时展现某种特定情绪以达到其所在职位工作目标的劳动形式)”进行工作，也就是要求个体与工作对象在互动过程中使用伪装情绪(Hochschild,1983)。以往文献中，“组织工作”和“领导行为”两个领域中的伪装情绪由于针对的情境和对象都相对稳定，且具有持久性、重复性的特点，因此大致可以归于这一类。
+
+下面的内容将从以上四个方面入手，系统探讨伪装情绪对个人交往动机、组织效率、组织过程以及在无关领域的持续获益等方面的效应。我们希望通过对这些研究领域的深入讨论，为伪装情绪的后续研究提供更为系统的理论支撑。
+
+# 2.1伪装情绪在行为博弈中的人际效应
+
+博弈是指在多决策主体的行为之间具有相互作用时，各主体根据所掌握的信息及对自身能力的认知，做出有利于自己决策的一种行为(Suits,1967)。博弈是人们在日常社会交往中不可避免的程序：消费者可能会与店老板进行博弈，从而获得更加优惠的价格；谈判者通过博弈获得令双方都能够接受的条款；管理人员与员工也会对加薪问题进行博弈，等等。在博弈的过程中，双方情绪的强度和类型能够影响博弈的结果。如在商品消费领域里，买卖双方对对方情绪信号的感知，会影响最终的价格决策。也即在竞争环境中，当一方表现出更加消极情绪时，另一方更容易做出价格上的让步(Bhattacharjee＆ Moreno,2017)。因此，博弈双方在博弈过程中往往都会采取一定的情绪策略。而伪装情绪是博弈过程中个体最常使用的情绪策略，在这个过程中，人们使用情绪信息误导对方，从而达到预期目的(Gino& Shea,2012)。再如，博弈的双方会在互动过程中通过伪装自己的情绪，从而影响双方信息共享的程度(Steinel,Utz,&Koning,2010)，进而达到让对手让步，使自己利益最大化的目的。
+
+在博弈过程中，情绪既是前因，也可以是结果(Gaspar& Schweitzer,2013)。情绪在人际交往中是能够传递的(Filipowicz, Barsade,& Melwani,2011)。情绪传递在博弈过程中尤为重要，博弈一方的情绪可以传递给另一方，并影响他们的决策。博弈者常常需要利用对手的情绪作为信息来源，对博弈对象的情绪进行感知和判断，进而直接影响博弈决策和结果(VanKleef,2009)。所以，老练的博弈者可能会在博弈过程中伪装自己的情绪，而有经验的对手同样也会在这个过程中采取相应的情绪应对策略。Tenbrunsel（1998）的研究也证明了这一点，他认为当谈判者对对方的信任减少时，他们更有可能在谈判中使用“防御性欺骗”。也就是说，因为担心被对手欺骗，自己会在博弈过程中主动使用欺骗策略。因此，博弈是一个双方据理力争的过程，情绪在其中起到了重要的信息作用。博弈的一方释放情绪信息，另一方则根据对对方情绪的解释，调整自己的情绪策略，形成反馈。在这个过程中，伪装情绪被广泛地使用着，博弈双方都会通过表现伪装情绪或是对伪装情绪形成应对策略，力图在博弈中获得最好的结果。
+
+伪装情绪对博弈双方关系的发展也起着一定作用，它可能促进或是阻碍博弈过程。人们可能利用情绪策略，伪装自己真实的情绪，放大、压抑或是捏造自己的情绪表现，促使博弈结果更加符合自己预期。但是，一旦对手感知到他们的伪装情绪时，结果可能就会和他们的预期产生偏差。比如表达中等强度的愤怒会引起谈判对手的让步(Adam& Brett,2018)，那么当个体认为使用情绪策略在经济利益竞争上有益时，他们可能会故意夸大自己的愤怒程度用以获益(Andrade&Ho,2009)。但是谈判中的虚假愤怒只会产生少量利益，并不利于长期持续性关系的发展，因为伪装愤怒会引起对方真正的愤怒并削弱对方对自己的信任感(Campagna,Mislin,Kong,& Bottom,2016)。Coté等人(2013)也发现了类似结果，他们的研究发现，与那些伪装愤怒的人相比，参与者更有可能信任情绪中立的人。另外,Tng 和 Au (2014)的研究也关注了真实情绪与非真实情绪对谈判的影响：当人们感知到对方的愤怒不真实时，会做出更少的让步。Adam 和 Brett（2018）的研究也表明，在博弈过程中，由于情绪接受者认为对方表达的愤怒水平是不恰当的，因而高水平的愤怒对博弈结果产生更多的负性影响。
+
+总之，博弈不仅仅是在谈判桌上进行的，它也广泛渗透在人们生活的很多方面。伪装情绪是博弈情境中经常使用的一种策略，也是博弈结果的重要影响因素。一方面，伪装情绪能够在一定程度上为博弈者服务，实现在博弈过程中的利益最大化。但另一方面，伪装情绪也并不总是能成功说服博弈对象，甚至可能造成相反的效果。不同的人对于情绪有着不同的解读和不同的反应方式，因此情绪接受者对于伪装情绪的主观感知会影响自己情绪博弈策略的选择(Methasani,Gaspar,& Barry,2017)。也正是因为如此，情绪伪装的效果可能达不到情绪
+
+表达者的预期。
+
+# 2.2伪装情绪在亲社会行为中的人际效应
+
+伪装情绪对亲社会行为影响，也是相关领域研究的一个热点。亲社会行为是指在没有回报的情况下，行为者自愿给予他人利益的行为(Andreoni,1990)。情绪表达是用来推断互动伙伴性格和社会意图信息的线索之一(Rothman & Magee,2016; Van Kleef et al.,2010)。Barasch等人的研究表明，不论表现出的情绪水平是亲社会行为的前因还是结果，情绪表达者的情绪越强烈，情绪接受者感知到的亲社会水平就越高。也就是说，在亲社会行为发生之前或是在亲社会行为发生之后，亲社会行为实施者对接受者或相关事件表现出的情绪越强，情绪接受者都更倾向于认为实施者的亲社会水平更高(Barasch,Levine,Berman,& Small,2014)。基于以上研究，伪装情绪对亲社会行为的影响途径应该包括以下两个假设：第一，由于人们普遍希望给他人留下好印象，那么在亲社会背景下，当情绪表达者为了给他人留下好印象时，可能会对自己情绪进行伪装，从而影响情绪接受者的判断；第二，当情绪接受者认为对方想要给自己留下好印象，那么他们也可能倾向于认为情绪水平高的表现者伪装了情绪，并以此调整自己的情绪反应策略。
+
+基于以上两个假设，我们可以推论情绪接受者对情绪是真实的抑或是不真实的感知，会直接影响到他们的态度及自身的亲社会行为。研究表明，当人们认为自己或他人的行为思想符合道德标准，就会产生积极情绪，如喜爱和赞赏；否则就会产生消极情绪，如反感和厌恶(周详，杨治良，郝雁丽,2007)。因此，情绪接受者对情绪真实和不真实的感知，会直接影响到他们的态度，从而影响自身的亲社会行为。情绪不真实的感知会令情绪接受者产生消极反应，这是因为当情绪表达者试图表达某种情绪（不论这种情绪是否真实），但情绪接受者感知到的具体情绪并不符合情绪表达者的预期时，情绪接受者便会对对方的性格进行相应的推断：如果情绪接受者认为对方展现了不真实的情绪，那么对方也可能在其他重要问题上有所隐瞒(Cote,2005)。比如，当情绪表达者试图在捐赠过程中传递悲伤的情绪，但情绪接受者并未成功接收到这种情绪信息时，便可能对双方关系产生影响。在这样的情形下，对于情绪接受者来说，与信任相关的判断很可能也会受到其对情绪表达者情绪真实性判断的影响(Chen,Saparito,&Belkin,2011)。因此，在情绪接受者的眼中，表达不真实情绪的个体的可靠性被削弱了，信任感就会被破坏。而信任感又是亲社会行为的重要的预测指标(Bendapudi,Singh,& Bendapudi,1996)。这就意味着当情绪接受者认为他人表达的情绪不真实时，他们对这个人的信任度会降低，更不愿意做出亲社会行为(Hideg,2012)。Hideg 和 Van Kleef(2017)的实验表明，与表达真实情绪（快乐）的筹款人相比，捐款人捐款的数量在感知到筹款人表现的
+
+快乐并不真实时会明显减少。
+
+综上所述，尽管目前关于伪装情绪对亲社会行为影响的研究还比较零碎分散，缺乏一定的系统性，但多数研究一致表明，伪装情绪对他人亲社会行为水平存在负性影响。这可能是由于亲社会行为本身是相对纯粹的：当人们没有意识到对方的情绪存在伪装时，高水平的情绪确实能在一定程度上激发人们的亲社会行为；然而，当人们感知到他人伪装情绪时，反而会在很大程度上降低自己的亲社会行为水平。
+
+# 2.3伪装情绪对组织情境中工作绩效及工作关系的影响
+
+在组织工作中，人们同样会通过有意识地管理表达出来的表情及肢体语言(Hochschild,1983)，来伪装与工作对象互动过程中的情绪。情绪伪装在组织工作情境中也是一个重要的情绪调节策略。一般来说，深层情绪及表层情绪的表达都是组织工作中常见的伪装情绪，具有一定的主动性及目的性(傅慧，段艳红,2013)。深层情绪是指情绪表达者自身的内部体验与公开的表现更为匹配时的伪装情绪表现，所引发的情绪表现也相对较真实，产生的效果也较为积极；而表层情绪行为是指情绪表达者内心真实的情绪体验与表现出的情绪不匹配时的伪装情绪表现，表层情绪行为将会产生更多的非预期效应(Cote,2005;Grandey,2003)。由于深层情绪反应所引发的情绪体验与真实情绪较为接近，因此下文讨论的伪装情绪皆指表层情绪反应。
+
+在组织环境中，人们常常要学会伪装自己的情绪，以完成组织的期待(Harrison&Stephens,2019;Miller,Considine,& Garmer,2007)。在这个过程中，伪装情绪会影响工作绩效以及组织绩效(Ute,Jonas,&Günter,2010)，并对情绪表达者自身产生显著的消极影响。研究表明，员工频繁伪装幸福能够预测较低的客户满意度(Bujisic,Wu,Mattila,& Bilgihan,2014;Wang,Nguyen, Johnson,& Groth,2017; Delpechitre& Beeler,2017)，也能降低客户对服务提供者的信任感(Cameron& Payne,2011;Wang& Groth,2014)。此外，在工作中使用伪装情绪而产生的情绪不协调，会引发员工对工作的不满(Pugh,Groth,&Hennig-Thurau,2011)，进而对整体的组织沟通效率及组织氛围产生负面影响(Muchinsky,1977)，最终降低组织绩效。以教师为研究对象的研究也表明，长期性的情绪伪装会降低教师的幸福感，最终影响到教师的工作效果及师生关系(Taxer&Frenzel,2015; Gray,Wilcox,& Nordstokke,2017)。在其他工作领域，如以警察为对象的研究表明，人们对警察的信任度与他们对警察积极情绪真实性的感知有关：人们越是认为警察积极情绪是真实的，他们就越倾向于相信相应警察的工作表现更出色，而越是认为警察积极情绪是伪装的，他们则更不相信警察能在工作中表现出色(Gelderen,Konijn,&Bakker,2011)。与此类似，在医疗过程中，医生伪装或者掩饰自己的情绪越多，患者的满意度就越低(Yagil& Shnapper-Cohen,2016)。还有研究者认为，较多的表层情绪行为能够显著预测较差的心理健康水平(黄敏儿，吴钟琦，唐淦琦,2010)和较高水平的情绪耗竭(胡君辰，杨林锋,2009)。因而，Brotheridge 和Grandey 认为，较多的表层情绪行为更可能诱发工作之外的自我迷失和更高水平的工作倦怠(Brotheridge& Grandey,2002; Zhan,Wang,&Shi,2016)。总之，伪装情绪作为一种情绪策略，在各行各业的组织工作中被广泛地使用着，并对员工个人及其情绪交互对象之间的人际关系都有着广泛而深刻的影响。大量的研究结果显示，员工在工作中伪装情绪的程度与更加消极的人际效应和较差工作绩效相联系。
+
+但另一方面，也有研究表明，伪装情绪有时也会对员工工作绩效及工作关系产生积极效应。Groth 等人的研究发现，员工不真实的幸福感并不影响客户对服务质量的评价(Groth,Hennig-Thurau,&Walsh,2009)，这很可能是因为伪装积极情绪与服务满意度并无关系(Wang& Groth,2014)。另外，Wong(2013)的研究也显示，消费者对情绪真实性的看法是变化的，表达和放大积极情绪有助于实现工作场所互动的目标。Lechner 和Paul的研究结果也证明了这一点。也就是说，体验积极情绪的顾客认为一线员工的积极情绪表现更真实，而不考虑其客观真实性的程度(Lechner &Paul,2017)。
+
+基于以上文献梳理，目前研究对于伪装情绪在组织工作过程中的人际影响的性质尚未形成统一的结论。即便是面对同一种情绪，不同情绪接受者对表达者情绪真实性的主观感受并不相同，对情绪接受者的态度及行为产生的效应也不同(Hideg,2012)。Hideg 和 Van Kleef(2017)认为影响伪装情绪效应的一个重要调节变量是情绪接受者的辩证思维。由于辩证思维辩证思维允许人们从不同的角度思考问题，导致思考结果的多样性，从而使得伪装情绪对人际关系影响效果的多元化。而Wang 和Groth(2014)的研究表明，伪装情绪的效果可能和熟悉度有关：相对来说，与员工熟悉的客户对员工压抑负面情绪更不敏感，更不易感知到员工的真实情绪。总之，伪装情绪在组织工作情境中的效应受到了多种变量的调节。在应用相关研究结果减少伪装情绪消极效应、促进员工人际关系和生产效率时，还要考虑到受众的人格特征、任务特征以及工作环境特点等细节问题。
+
+# 2.4伪装情绪对领导效果的影响
+
+领导效果是领导力的体现，但它反映的并不只是领导个人的作用，而是在领导带领下，整个组织团队工作的成效。领导效果是领导者、被领导者、工作与环境相互作用的动态过程结果。真实的情绪表达对团队绩效有促进作用。如Moon 等人的研究发现，感知到领导对顾客更真实的情绪表达，会提升员工对领导者的认同和信任，从而提升员工的工作绩效(Moon，Hur,&Choi,2019)。Weiss 等人的研究则发现，随着与员工互动的增加，表达真实情绪的领导者工作压力会减少；而偏好伪装情绪的领导者工作压力则会逐渐变大(Weiss,Razinskas,Backmann,&Hoegl,2017)。对于大多数组织来说，成员之间的互动是团队共享信息的重要媒介(Patrashkova-Volzdoska,McComb,Green,& Compton,2003，葛宝山，刘牧,2014)。同时,互动、沟通和信任是影响领导、团队绩效和创造力的关键因素(Boies,Fiset,&Gill,2015)。因此，对于领导者来说，伪装情绪可能会通过对组织成员之间的互动沟通的质量而对领导效果产生消极影响。例如，一般来说，当领导者表现出谦虚时，员工会更有信心表达真实的自我；但是当怀疑领导者谦虚的真实性时，员工与领导者之间的情感关系会变得脆弱(Oc et al,2019)，最终导致领导效果下降。
+
+尽管伪装情绪可能会对领导效果产生负面影响，但是在很多情境中，真实的情绪却无助于领导效能的提升。现有的很多文献表明，诚实、开放和信任是良好关系的标志，真实的情绪表达有助于社会互动(Hareli& Hess2012; Niedenthal& Brauer,2012)，有利于团队创新(李先江,2011)。但是真实的情绪在职场领导行为中并不总是行得通。研究表明，在感知领导者有效性方面，情绪不真实但有德行的领导者与情绪真实但品行不端的领导者之间，并不存在显著的差异(Bartsch,Mansur,& Ramus,2018)。领导者身上的积极特质并不一定会得到追随者的积极回应。当领导者更有原则时，员工实际上会伪装得更多，他们通常会通过假装合群，尽量表现出与组织相匹配的价值观等方式创造一致性表象(Hewlin,Dumas,&Burmett,2017)。而 Liraz 和Guttmann (2018)也发现，有时表现出消极的真实情绪无助于职场人际关系的形成或加强，反而更可能会产生负面效果。也就是说，当员工感知到领导者表现出真实的负面情绪时，更可能会损害两者之间的关系质量。
+
+此外，员工使用伪装情绪也会对领导效果产生消极影响。一般来说，在职场中为了迎合组织一致性的需求，在实际工作场合，员工可能通常会选择隐藏自己的负面情绪，以掩盖自已真实的情绪(Salmela,2005)。但是当员工掩饰了自己的真实情绪，而管理者恰恰善于感知情绪时，伪装情绪的表达会更加损害职场的人际关系质量(Xu,Liu,&Guo,2014)。领导效果不单是领导对整个团队促进作用的检验，同样是整个组织团队良性互动的重要指标，当领导者与下属的关系不能维持健康的状态时，领导效果势必受到影响。
+
+诚如前所述，伪装情绪对领导效果既存在着积极效应，也有着明显的消极影响。这就导致在某些情境下，伪装情绪会破坏领导与员工之间的关系；而在另一些情境下，伪装情绪又是一种适应职场的品质。在复杂的职场环境中，对领导而言，想要发挥好领导效能，需要下属对组织的满意及忠诚；对下属来说，个人自我实现的程度是很重要的职场内容。领导与员工双方如何协调两者关系，使得领导者能更好地掌舵，下属也能够执行领导意图，保质保量完成目标，并使得领导效果最大化，调整情绪策略和使用伪装情绪在解决这些问题时扮演着重要角色。
+
+# 3伪装情绪人际效应的机制
+
+由于人际交往的复杂性，伪装情绪对人际关系的效应是多元的。因此，目前针对伪装情绪人际影响相关研究的结论并不存在纯粹的积极效应或是纯粹的消极效应。但伪装情绪作为一种传递着重要信息的情绪策略，对人们的日常交往有着广泛而深入的影响，这一观点是毋庸置疑的。同时，结论的不一致性也提示我们伪装情绪对人际交往的效应很可能受到了其他变量的调节，存在着不同的机制或者影响的途径。那么，伪装情绪是如何影响各领域人际交往的呢？伪装情绪影响人际交往的途径和机制又有哪些呢？
+
+![](images/cba4448ff95d84fad8bb424fe0780961de4fb342abff2a761e317eb70f7d6ed4.jpg)  
+图1伪装情绪人际效应作用路径
+
+简单来说，伪装情绪对人际关系产生影响的途径可以概括为以下三个（图1）：首先，从情绪表达者的角度来看，当情绪表达者为了不纯粹的目的对情绪进行伪装，会产生两种人际效果：一是伪装成功，情绪接受者相信表达者的情绪表现。在这种情境下，伪装情绪的人际关系效应和正常情绪表现产生的人际关系效应大体一致，因为这两种情形都能在一定程度上唤起情绪接受者相应的情绪；而另一种结果是伪装失败。情绪接受者能够或多或少感知到表达者的情绪表现的不真实，而这种情况下的结果就比较复杂，因为这是一个由情绪表达者、情绪接受者以及环境相互作用的动态过程。表达者的动机、特质，接受者的文化类型、推理能力以及伪装情绪的场景等等，都会影响接受者的行为决定。情绪接受者的决定又会形成反馈，使表达者重新布置情绪策略。因此，从表达者的角度预期伪装情绪的效果时，会出现两种可能：伪装成功或是伪装被识别。
+
+其次，从情绪接受者的角度看，情绪接受者可能被表达者的伪装情绪说服，也可能成功识别对方的伪装情绪。与前一段两种情况相对应，当情绪接受者被伪装情绪说服时，他们的反应或决定与感知到真实情绪时的表现一致；当情绪接受者成功识别对方伪装情绪时，则会根据这些情绪信息调整自己的情绪策略。但还有一种情况比较特殊，也即是第三种影响途径，那就是情绪表达者并未伪装情绪，但情绪接受者认为他们进行了伪装。这时，情绪接受者会以与处理伪装情绪相同的方式来调整自身情绪表达。因此即便是面对同一种情绪，如对对方情绪真实性的主观感受不同，情绪接受者也会对情绪表达者产生不同的态度及行为方式(Hideg,2012)。因此，由于个体的差异性及情境的复杂性，人们常常受制于自身局限，在对接受到的情绪信息进行分析应对时，难免出现偏差，进而产生不同的情绪应对策略。我们认为，这种情况下情绪对人际关系的影响，也是“伪装情绪”带来的。
+
+综上所述，不论是站在情绪表达者的角度还是情绪接受者的角度，接受者对伪装情绪的感知，是决定伪装情绪如何发生作用的重要因素。情绪接受者怎么感知情绪以及如何解读情绪，将会对双方的人际交互产生决定性影响。基于此，我们将从情绪接受者的角度探讨伪装情绪人际效应的机制。
+
+结合以往对情绪的研究，我们将伪装情绪人际影响的机制大致归结为以下两种：一是情绪接受者的情感反应，也就是由于情绪传递和情绪感染引发的情绪唤起；二是以己度人，将心比心，从自己的角度推测别人。
+
+# 3.1由情感反应引起的人际效应
+
+情感反应（affective reaction）可能是伪装情绪效应的一个机制。“情感反应”是指情绪接受者被情境特征激发的情绪行为，以及通过观察他人的情绪表现而产生的喜好体验(Van
+
+Kleef,2009)。情感反应的过程也是一个情绪传递的过程(Hatfield, Cacioppo,& Rapson,1993)。广义上的情绪传递是指由他人情绪激发，情绪接受者将自己的情绪状态和表达者趋于一致的过程(Hoffman,2002)。在情感反应的过程中，情绪表达者的情绪能够唤起情绪接受者相应的情感。一个人的情绪状态可以影响他人的情绪感知，因而当情绪表达者成功伪装了自己的情绪时，情绪接受者会产生情绪共鸣，进而影响接受者的行为态度。正是由于情感反应的存在，使得人们能够通过情绪策略，实现亲社会和自我服务的目标(Cialdini,2001)。更有甚者，情感反应机制可能被一些具有不纯粹目的的人利用，制造操纵性的场景，以达到某种目的(Salovey&Mayer,1990)。比如在捐赠情境中，筹款人可能会夸大自己的悲伤水平来获得更多的捐赠，当捐款人被夸大的悲伤水平影响，发生情感反应，继而产生相应水平的同情心理时，就更有可能做出有利于筹款人的捐款决策。这就在一定程度上解释了人们为什么愿意冒着被揭穿的风险进行情绪伪装。总之，尽管面对同一种情绪，情绪接受者情绪反应的程度也会由于其对情绪信息解读的不同而有所差异，但不可否认，情绪接受者的情绪反应是对情绪表达者的积极反馈，也是伪装情绪发生人际效应的重要机制。
+
+# 3.2由“以己度人”引起的人际效应
+
+“以己度人”也可能是伪装情绪效应的行为机制。“以己度人”是指用自己的心理去衡量或揣度别人。根据对以往文献的梳理，我们从两个角度来解释“以己度人”：一是在社会交互过程中，情绪接受者站在自己的角度，根据自有的一套朴素的经验理论，比如信念、偏好等，结合背景因素，推测他人的行为成因，对他人的情绪行为的真实性做出判断，并调整自身反应。持有这一视角的观点以“理论论”为主。第二种取向认为，在伪装情绪发生效应的过程中，情绪接受者会假想自己正处于对方的情境，模仿对方可能的心理历程，同时对对方的真实反应做出预测。之后结合对方的实际反应，判断对方情绪行为的真实性，从而调整自己的应对策略。这一取向的观点则以“模拟论”最具代表性。
+
+# 3.2.1 理论论(Theory-Theory)
+
+该取向的观点认为，人们能够基于自身的知识经验，如自己的文化类型(Hideg,2012)、推理能力(Hideg&Van Kleef,2017)等，从他人的行为、环境或其他线索中推断出他人的心理状态，并据此对对方的心理行为特征进行推测和分析(Wellman,1990)。在伪装情绪情境中，情绪接受者结合自己的经验以及环境线索，可能可以察觉到表达者真实情绪和所表现情绪之间的差异(Cote etal.,2013)。由于感知到的这些差异，在不需要确切地知道对方真实的内心感受的情况下，情绪接受者也能够对对方情绪的真实性做出自认为的判断。比如，当赠礼者送出一份礼物，在收到对方非常愉悦的反馈时，他不一定认为对方的情绪有其表现的强烈，因为他无意中得知，对方拥有比这份礼物更好的同类替代品。这个时候，赠礼者可能会根据这些小线索，推测对方情绪表现的动机：是出于客套，还是真实的开心，从而产生相应的情绪反应。随后，情绪接受者会从对方的情绪表现中推断其性格品质或行为动机：当通过一些线索，推测情绪表达者伪装了自己的情绪时，情绪接受者可能会认为对方在其他重要问题上也有所隐瞒(Cote,2005)，从而对其之后的行为、态度产生影响(Van Kleef,2009)。总之，理论论强调站在情绪接受者自身的角度，根据已有的知识经验，对对方的情绪进行归因。
+
+# 3.2.2 模拟论(Simulation-Theory)
+
+与“理论论”相对的另一种理论是“模拟论”。模拟论主张，人们通常通过模拟过程来了解他人的思想，在自己的头脑中模拟与目标对象相同的状态来进行归因(Von Eckardt,1994)。同样以赠送礼物为例，在送出礼物的时候，人们可能把自己置身于收礼者的心境中，推测对方收到礼物时的反应。当对方表现的情绪与预期不一致时，比如过于强烈或是过于平淡，他们会将这种情绪表现进行重新定义，并调整自己的回应方式。这是一个情绪接受者在与他人互动过程中重塑对方行为的推理过程(Van Kleef,2009)。在这个过程中，他们会推演对方情绪相对应的初始状态，并将自己置于其中，通过自己的认知过程，对整个过程进行操作，完成推测过程(Goldman& Sripada,2005)，并结合对方实际表现做出相应判断及反应。
+
+总之，“理论论”的核心论点是站在自身的角度，根据自己的经验理论，对目标信息进行推断，做出相应的反应。而“模拟论”是站在对方的角度，模拟相似的状态，并进行演绎。这两种理论之争已持续多年，但抛开哲学家和心理学家们的具体争论，我们可以发现，不论是从自身角度还是从对方角度进行归因，这两个理论都是人们站在自己的立场，对对方的情绪行为进行推测。情绪接受者会针对对方情绪表现状态，推断出对方因事件而感受到的情绪。当对方表现出的情绪与情绪接受者推测的情绪不相符时，他们可能会感知到情绪表达者的情绪不真实并认为对方对情绪进行了伪装，据此调整自己的应对策略。情绪接受者的推测有可能是正确的，情绪表达者的伪装策略未成功；当然他们的推测也可能是错误的，也就是表达者并未伪装情绪，而情绪接受者感知到了伪装情绪。在这种偏差下，无论表达者情绪伪装成功与否，伪装情绪的人际效应便开始形成了。总而言之，人们常常囿于自己的知识经验，难以摆脱自己的思想，完全站在他人的角度进行思考，由此便产生了“自认为他人”与“实际他人”之间的不对称，当“自认为他人”在情绪行为交互中占据了上风，伪装情绪带来的各种人际影响也便由此产生。
+
+# 4现有研究局限和未来研究方向
+
+# 4.1从情绪接受者角度对伪装情绪的人际效应进行研究
+
+现有相关领域的研究多是集中在了伪装情绪对情绪表达者自身心理行为效益的影响。比如在博弈研究中，研究者大多关注的是情绪表达者伪装愤怒，对其自身的博弈结果产生的影响(Andrade&Ho,2009)；在组织工作的研究中，研究者更加关注伪装情绪对情绪表达者人际关系质量和工作绩效的效应(Ute,Jonas,&Gunter,2010)。然而，很少有研究是从情绪接受者的角度，探讨情绪接受者更容易识别伪装情绪的条件及其相应的情绪应对策略。因此，未来的研究也可以站在情绪接受者的角度来探讨伪装情绪的人际效应。如情绪接受者在感知到并加工了环境中其他个体情绪信息的基础上，做出相应的情绪行为之后，再接收实验反馈。通过这一操作，使情绪接受者了解其所感知到的“伪装情绪”是否准确，并进一步研究情绪接受者如何调整自己的应对策略。除此之外，社会交往过程所涉及的多方因素，比如情绪表达者自身特质、情绪接受者自身特质、双方情感关系等等，是相互作用的(Rapoport,1976)。但是当前的研究大多是以一个因素为研究对象，比如只关注伪装情绪情境中情绪表达者的行为反应，或是表达者在这个过程中获得的个人效益，却未能同时考虑情绪双方在情绪交互过程中的态度行为变化。因此未来研究还可以关注互动情境中伪装情绪表达者和接受者双方的情绪策略调整及其相关的效应。
+
+# 4.2群体伪装情绪的研究
+
+在社会情境中，情绪对个体层面的影响与对群体层面的影响是有所差异的(Cameron&Payne,2011;Fischer& Manstead,2008)。一个群体是有着纽带、能够进行互动的一群人(Shaw,1981)。个体的行为会深深受到所在群体过程的影响，带有明显的群体烙印。目前关于伪装情绪的研究多以个体研究为主，比如关注伪装情绪对个体行为态度或是最终效益的影响。然而，较少有研究关注个体伪装情绪对群体的效应以及群体伪装情绪对个体或对群体的效应。人们的社会生活脱离不了群体而存在，群体情绪对群体内成员个人及与其互动的其他群体同样具有重要的社会意义。因此，系统探讨群体伪装情绪的影响因素及其产生的心理行为效应也具有重要的理论价值和实践意义。
+
+一般来说，当一个群体的人有着共同的目标，使用同种情绪策略与另一个群体进行互动时，那么情绪伪装这个共同的变量是否会对情绪表达群体之中的个体也具有一定的影响呢？具体地说，未来可以探究在形成群体伪装情绪的过程中，群体内的情绪传递和群体共同的目标所扮演的角色；或是从情绪接受群体的角度，来研究群体伪装情绪背景下，群体成员个人的心理特征。此外，不同效价的伪装情绪同样可能会对群体关系产生影响，未来研究还可以关注不同的伪装情绪的效价对群体内以及群体间关系质量的影响。
+
+# 4.3伪装情绪的效价对人际效应的异同
+
+在实际情绪事件中，人们往往很难受到单一类型情绪的影响。目前关于伪装情绪人际效应的研究大多只关注了一种诱发的情绪。这类研究的优点是在一个研究中能够很明确地了解某种特定效价的伪装情绪在人际关系中的作用，但是单一情绪研究结论应用范围相对有限，生态效度存在一定的局限。比如在多个博弈的研究中都探讨了伪装愤怒的效应，研究的结果只是囿于伪装愤怒成功，能获得更多让步(Adam& Brett,2018)，伪装愤怒失败，则会失去更多利益(Tng＆Au,2014)。在这些研究中，人们能够很明确地知道伪装愤怒在人际关系上起到的作用。但是这些研究却未将不同伪装情绪整合起来比较。然而，实际的博弈情境往往会涉及多种情绪策略选择，伪装愤怒并不是唯一的方式。单一情绪的研究无法针对不同效价或唤醒水平的伪装情绪进行比较，从而给出更好的情绪选择策略。除此以外，以往也很少有研究在一定范围内，同时检验正性伪装情绪和负性伪装情绪对人际效应的差异。正如前面所讲到的，当前关于伪装情绪人际效应尚未形成一致的结论，这也很可能是由于研究诱发的情绪类型和效价不同而导致的伪装情绪的人际效应的差异。因此，今后的研究可以尝试比较在不同情境中，不同效价伪装情绪的人际效应的异同，同时还可以探讨对比情绪接受者在不同的伪装情绪效价下归因方式的异同及其相关作用机制等。
+
+# 4.4伪装情绪人际效应的认知神经机制
+
+# 4.4.1通过反馈对比进行研究
+
+心理效应的认知神经机制一直是近年来研究的人们话题。然而，目前关于伪装情绪效应的认知神经机制的探讨还相对较少。在以往研究中，研究者们使用了诸如如眼动追踪(Calvo,Gutierrez-Garcia, Avero，& Lundqvist, 2013； Hossin, Gedeon, Sankaranarayana, Apthorp，&Dawel,2016)、脑电图(Alhagry,Aly,& El-Khoribi,2017; Murugappan, Juhari, Nagarajan,&Yaacob,2009)、功能性磁共振成像(Gur et al.,2002)等多种技术手段从认知神经方面进行了伪装情绪识别的研究。此前，也有研究者探讨了伪装情绪认知生理机制。如对人们辨别真实情绪和伪装情绪的生理过程特征进行比较，来揭示伪装情绪的生理机制。再如，还有研究者使用眼动技术，发现了与真笑脸刺激相比，人们会在假笑脸的嘴巴和眼睛处停留更长的时间(Calvo et al.,2013)，同时，观察者面对假笑刺激时，瞳孔扩张得更大(Hossain et al.,2016)。这些研究都在一定程度上表明了伪装情绪可能具有不同的认知生理过程或神经机制。
+
+然而，目前鲜有研究直接关注伪装情绪人际效应的认知神经机制。在日常人际关系中，个体之间是相互作用的。在社会交往中，伪装情绪接受者也是情绪表达者，情绪表达者常常也是情绪接受者。因此未来研究可以通过提供反馈的方式，关注在伪装情绪的情境中，收到反馈的前后，作为情绪接受者以及情绪表达者，或是再次成为情绪接受者时的认知生理过程有何异同。未来研究可以利用更有效的技术手段（如 ERP、fMRI、fNIRS 和 TMS等），探究个体在识别伪装情绪过程中，参与认知加工过程的脑区时间进程特征，以及探讨促进人们对伪装情绪识别的认知神经干预手段，进一步拓展伪装情绪人际关系效应领域研究的广度和深度。
+
+# 4.4.2从伪装情绪出现的周期性/偶然性的角度进行研究
+
+未来的研究还可以从周期性及持续性角度对伪装情绪的认知神经机制进行研究。如前所述，组织情境、领导效果中的伪装情绪可能是长期的、周期性的情绪表达，博弈过程、亲社会行为中的伪装情绪一般是短期的、偶然性的情绪表现。根据对以往的研究的整理，我们发现，在组织行为和领导效果两种情境的研究中，对于伪装情绪在相似的情形下对人际关系是否具有消极影响的结论尚存在很大的不一致性，而在针对博弈过程及亲社会行为中伪装情绪的研究中，伪装情绪对人际关系不利影响的结论则较为一致。例如，在针对组织情境、领导效果的研究中，伪装情绪不一定能够达到情绪表达者的最初目的，但是真实情绪表达也不一定能促进人际关系发展(Bartsch et al.,2018;Groth etal.,2009)；而在针对博弈过程、亲社会行为的研究中，我们可以发现大多的研究结论表明，伪装情绪被揭露会伤害人际关系质量并对效益结果产生负面影响(Cote,2005;Tng＆Au,2014)。这些结果在很大程度上说明，长期周期性的伪装情绪的效应及其相应的认知神经过程受到更多变量的调节，有着更加复杂的机制。目前的研究多使用行为实验观察人们在相应情境中行为指标的改变，尚未有研究从周期性或持续性的角度针对伪装情绪的认知神经机制进行分析和比较，也未有研究关注长期或者周期性伪装情绪是否会引起相关脑区结构或者功能性的改变。因此，未来的研究可以针对这些方面的空白创设相应情境，探究对比情绪表达者在长期重复，或者短期偶尔使用伪装情绪时的认知神经机制的区别，具体可以包括探讨诸如激活的脑区是否一致，或是认知加工时间进程是否存在差异等。此外，还可以对比由于长期反复使用伪装情绪而产生不同人际效果的人们，在使用伪装情绪时的认知神经机制是否存在差异，进一步揭示伪装情绪在组织劳动及领导效果中，产生不同结论的原因。
+
+# 4.5伪装情绪与文化
+
+DeVos 和Hippler(1969)认为人类的心理和行为是由文化决定和制约的，因此任何研究都不能脱离文化背景而存在。而作为心理的重要过程，情绪也受到了文化的影响，并且和文化相互作用(Kitayama&Markus,1994)，对个体的心理行为产生了深刻的影响。不同的文化背景中，个体的情绪表达和情绪理解也存在一定的差异。比如在对 23个国家被试情绪调节过程的研究中发现，集体主义文化国家的被试在情绪压抑方面得分较高，而个人主义文化国家的被试则得分相对较低(Matsumoto,Yoo,& Nakagawa,2008)。也有研究发现个人主义国家被试在对待积极情绪和消极情绪时更加两极化，也就是有更强烈追求积极情绪，以及回避消极情绪行为；而在集体主义文化中，这种追求积极情绪，回避消极情绪的现象则不那么强烈，更显得折中平衡(Miyamoto,Ma,&Wilken,2017)。虽然探索情绪和文化之间关系研究有很多，但很少有研究关注伪装情绪心理行为效应的跨文化差异。因此，未来可以探讨不同文化背景下，伪装情绪对人际关系不同成分的效应。比如伪装情绪在不同的文化背景中功能和效应的异同，或是如何与亚文化特征相互作用。另外，不同文化中的情绪接受者对于伪装情绪的解读方式，以及不同文化背景下的人们判定伪装情绪的阈限值的高低差异等问题，都值得未来研究继续深入探讨。
+
+# 参考文献
+
+傅慧，段艳红.(2013).情绪劳动研究述评与展望．管理学报,10(9),1399-1404.   
+葛宝山，刘牧.(2014).创业团队通过团队互动行为实现团队信息共享的实证研究．情报科学,32(6),69-72.   
+胡君辰，杨林锋.(2009)．“情绪劳动”要求与情绪耗竭：情绪劳动策略的中介作用研究．心理科学,32(2), 423-426.   
+黄敏儿，吴钟琦，唐淦琦.(2010).服务行业员工的人格特质、情绪劳动策略与心理健康的关系．心理学报， 42(12), 1175-1189.   
+李先江.(2011).企业营销创新中真实型领导与创新绩效的关系研究．财经论丛(5),106-111.   
+林菡，张侃.(2009).语音情绪识别的应用和基础研究．人类功效学,15(2),64-67.   
+童萍，吴承红.(2008)．情绪伪装．中国康复理论与实践,14(11),1041-1042.   
+周详，杨治良,郝雁丽.(2007).理性学习的局限：道德情绪理论对道德养成的启示．道德与文明(3),57-60.   
+Adam,H.,，& Brett, J.M. (2018,May). Everything in moderation: The social effects of anger depend on its perceived intensity. Journal of Experimental Social Psychology, 76,12-18.   
+Alhagry, S.,Aly,A.,& El-Khoribi,R.(20l7).Emotion recognition based on EEGusing LSTMrecurrent neural network. Emotion, 8(10), 355-358.   
+Andrade,E.B.,& Ho,T.-H. (2o09). Gaming emotions in social interactions.Journal of Consumer Research,36(4), 539-552.   
+Andreoni, J.(1990). Impure altruism and donations to public goods: A theory of warmglow giving.The Economic Journal, 100(401), 464-477.   
+Banerjee, M. (1997). Hidden emotions: Preschoolers' knowledge of appearance-reality and emotion display rules. Social Cognition, 15(2),107-132.   
+Barasch,A.,Levine,E.E., Berman,J. Z.,& Small, D.A. (2014). Selfish or selfless? On the signal value of emotion in altruistic behavior.Journal of Personality and Social Psychology，107(3),393-413.   
+Bartsch, M., Mansur, J.A.,& Ramus,T. (2018). Authentic leadership revisited: An empirical studyof morality in authentic leadership (Unpublished doctorial dissertation). Catolica Portuguesa University.   
+Bendapudi,N., Singh,S.N.,& Bendapudi, V. (1996). Enhancing helping behavior: An integrative framework for promotion planning. Journal of Marketing, 60(3), 33-49.   
+Bhatacharjee,S.,& Moreno,K.K. (2017).The role of informal controls and a bargaining opponent’s emotions on transfer pricing judgments. Contemporary Accounting Research, 34(1), 427-454.   
+Boehner, K., DePaula,R.,Dourish, P.,& Sengers,P.(20o7). How emotion is made and measured. International Journal of Human-Computer Studies, 65(4), 275-291.   
+Boies,K.,Fiset,J.，& Gill H. (2015). Communication and trust are key: Unlocking the relationship between leadership and team performance and creativity. The Leadership Quarterly, 26(6),1080-1094.   
+Borod,J. C.,&Koff,E. (1984).Asymmetriesinaffective facial expression: Anatomyandbehavior. InN.Fox &R. Davidson (Eds.),The psychobiologyof Affective Development (pp.293-323). Hillsdale,NJ: Laence Erlbaum.   
+Brotheridge, C. M.，& Grandey, A. A. (2002). Emotional labor and burnout: Comparing two perspectives of "people work". Journal of Vocational Behavior, 60(1),17-39.   
+Bujisic,M., Wu,L.,Matila,A.,&Bilgihan,A. (2O14).Not allsmiles are created equal: Investigating theeffcts of display authenticity and service relationship on customer tipping behavior. International Journal of Contemporary Hospitality Management, 26(2), 293-306.   
+Cacioppo, John T.; Gardner, Wendi L. Emotion. Annual Review of Psychology,1999,50.1: 191-214.   
+Calvo,M. G., Gutierrez-Garcia,A., Avero,P.,& Lundqvist, D. (2013). Atentional mechansms in judging genuine and fake smiles: Eye-movement patterns. Emotion,13(4),792-802.   
+Cameron, C.D.,& Payne, B.K.. (2011). Escaping affect: how motivated emotion regulation creates insensitivity to mass suffering. Journal of Personality and Social Psychology, 1Oo(1),1-15.   
+Campagna,R.L., Mislin,A.A.， Kong,D.T.,& Botom, W.P. (2016). Strategic consequences of emotional misrepresentation in negotiation: The blowback effect. Journal of Applied Psychology,101(5), 605-624.   
+Castellano, G., Kessous.L.,& Caridakis,G.(2008). Emotion recognition through multiple modalities: Face,body gesture，speech. In Beale R (Ed.)， Affct and emotion in human-computer interaction: Vol. 4868. Springer, New York.   
+Caza,A., Zhang,G., Wang,L.,& Bai, Y. (2015). How do you realy feel? Effect of leaders’perceived emotional sincerity on followers'trust.The Leadership Quarterly, 26(4),518-531.   
+Chen, C.C.,Saparito,P.,& Belkin,L. (2011). Responding to trust breaches: The domain specificityof trust and the role of afect. Journal of Trust Research,1(1), 85-106.   
+Cameron, C.D.,& Payne, B. K.. (2011). Escaping affect: how motivated emotion regulation creates insensitivity to mass suffering. Journal of Personality and Social Psychology,10o(1),1-15.   
+Cialdini, R. B.(2001). Harnessng the science of persuasion. Harvard Business Review, 79(9), 72-81.   
+Cohen, I., Garg,A.,& Huang, T. S. (2ooo). Emotion recognition from facial expressions using multilevel HMM. Presented at the Neural Inf. Process. Syst. (NIPS) Workshop Afective Comput.   
+Cote,S.(2o05).A social interaction model of the effcts of emotion regulation on work strain. Academy of Management Review,30(3),509-530.   
+Cote,S.,Hideg,I.,& Van Kleef, G. A. (2013). Theconsequences of faking anger in negotiations. Journal of Experimental Social Psychology, 49(3), 453-463.   
+Dellaert,F.,Polzin,T.,& Waibel,A. (1996,October).Recognizing emotion in speech.In Proc. of the 4th International Conference on Spoken Language Processing, Philadelphia(pp. 1970-1973), PA, USA.   
+Delpechitre,D.,&Beeler,L.(2Ol7).Faking it: Salespersonemotional intelligence's influenceon emotional labor strategies and customer outcomes. Journal of Business & Industrial Marketing, 33(1), 53-71.   
+DeVos,G. A.，& Hippler, A. E. (1969). Cultural psychology: Comparative studies of human behavior. In G. Lindzey & E. Aronson (Eds.), Handbook of Social Psychology: Vol. 4. Reading (pp. 323-347). MA: Addison-Wesley Publishing Company.   
+Dewey,J. (1895). The theory of emotion. Psychological Review,2(1),13-32.   
+Ekman, P., &Friesen, W. V. (1975). Unmasking the face. Englewood Cliffs,NJ: Prentice-Hall.   
+Ekman,P.,& Friesen, W.V.(1978). Facial action coding system. Palo Alto, CA: Consulting Psychologists Press.   
+Filipowicz,A.， Barsade,S.，& Melwani, S.(2O11).Understanding emotional transitions: The interpersonal consequences of changing emotions in negotiations. Journal of Personality and Social Psychology, 101(3), 541-556.   
+Fischer,A. H.，& Manstead,A. S.R.. (2008). Social functions of emotion. Handbook of Emotions，39(3), 456-470.   
+Frank,M. G., Ekman, P.,& Friesen, W. V. (1993). Behavioral markers and recognizability of the smile of enjoyment. Journal of Personality and Social Psychology, 64(1),83-93.   
+Gaspar, J.P.,& Schweitzer,M.E. (2013).The emotion deception model: Areview of deception in negotiation and the role of emotion in deception. Negotiation and Conflict Management Research, 6(3),160-179.   
+Gelderen, B.R. V., Konijn,E.A.,& Bakker,A.B. (2011). Emotional labor among trainee police officers: The interpersonal role of positive emotions.Journal of Positive Psychology, 6(2),163-172.   
+Gino F,Shea C (2012). Deception in negotiations: The role of emotions. In R.T. Croson, G.E.Bolton (Eds), Handbook of Conflict Resolution (pp. 47-60). New York: Oxford University Press.   
+Glowinski,D.,Camurr,A., Volpe,G.,Dael,N.,& Scherer,K. (2008,June). Technique forautomaticemotion recognition by body gesture analysis. In 2008 IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops (pp.1-6). IEEE.   
+Goldman,A. I.,& Sripada,C. S. (2oo5). Simulationist models offace-based emotion recognition. Cognition, 94(3), 193-213.   
+Grandey,A.A. (20o3). When “the show must go on": Surface acting and deep acting as determinants of emotional exhaustion and peer-rated service delivery. Academy of Management Journal, 46(1), 86-96.   
+Gray, C., Wilcox, G, Nordstokke,D. (2017). Teacher mental health,school climate,inclusive education and student learning: A review. Canadian Psychology, 58(3), 203-210.   
+Groth,M., Hennig-Thurau,T.,& Walsh, G. (2009). Customer reactions to emotional labor: The roles of employee acting strategies and customer detection accuracy. Academy of Management Journal, 52(5), 958-974.   
+Gur,R.C.,Schroeder,L.,Turner,T.,McGrath,C.,Chan,R.M.,Turetsky,B.I., Gur,R.E. (2002).Brainactivation during facial emotion processing. Neurolmage, 16(3), 651-662.   
+Haag,A., Goronzy,S., Schaich,P.,& Williams,J. (2oo4,June). Emotion recognition using bio-sensors: First steps towards an automatic system. International Journal of Computer & Electrical Engineering，3068, 36-48.
+
+Hareli,S.,& Hess,U.(20l2).The social signal value of emotions.Cognition & Emotion,26(3),385-389.
+
+Harrison,M.A.,& Stephens, K.K. (20l9). Shifting from wellness at work to wellness in work: Interrogating the link between stress and organization while theorizing a move toward wellness-in-practice. Management Communication Quarterly, 33(4), 616-649.
+
+Hossain, M.Z., Gedeon, T. Sankaranarayana,R., Apthorp, D., Dawel, A.. Pupilary responses of Asian observers in discriminating real from fake smiles: a preliminary study. In 1Oth International Proceedings on Proceedings， International Conference on Methods and Techniques in Behavioral Research (pp. 170-176). Dublin, Ireland.   
+Hatfield,E., Cacioppo,J.T.&Rapson,R.L. (1993).Emotionalcontagion.Current DirectionsinPsychological Science,2(3), 96-100.   
+Hewlin,P.F.,Dumas,T.L.,& Burnet,M.F. (2Ol7).To thine ownself be true?Facades of conformity, values incongruence, and the moderating impact of leader integrity. Academy of Management Journal, 60(1), 178-199.   
+Hideg,I.(2012).The effects ofup-regulated happiness on others'prosocial behavior: Therole ofcultural thinking style (Unpublished doctorial dissertation). University of Toronto.   
+Hideg,I.,& Van Kleef, G. A. (2017). When expressons offake emotions elicit negative reactions: The role of observers' dialectical thinking.Journal of Organizational Behavior, 38(8),1196-1212.   
+Hochschild,A.(1983,September). Comment on kemper's“Socialconstructionist and positivist approaches to the sociology of education". American Journal of Sociology, 89, 432-434.   
+Hoffman, M.L. (20o2). How automatic and representational is empathy,and why. Behavioral and Brain Sciences, 25(1),38-39.   
+Kappas,A.,Bherer,F.,& Thériault,M. (2Ooo).Inhibiting facial expresions: Limitations to the voluntarycontrol of facial expressions of emotion. Motivation and Emotion, 24(4),259-270.   
+Kipp,M., & Martin,J. C. (2009,September). Gesture and emotion: Can basic gestural form features discriminate emotions?. In 2O09 3rd International Conference on Affective Computing and Inteligent Interaction and Workshops (pp. 1-8). Amsterdam.   
+Kitayama, S., & Markus, H. R.(1994). Emotion and culture: Empirical studies on mutual influences. Washington, District of Columbia: American Psychological Association.   
+Kopelman, S.,& Rosete,A.S. (oo8). Cultural variation in response to strategic emotions innegotiations. Group Decision and Negotiation, 17(1), 65-77.   
+Kovecses, Z. (20o). Metaphor and emotion: language, culture, and bodyin human feling, New York: Cambridge University Press.   
+Lechner,A.T.,& Paul,M.(2017,July).Is this smilefor real? The role of affect and thinking style in customer perceptions of frontline employee emotion authenticity. Journal of Business Research, 94,195-208.   
+Lindsley,D.B. (1951).Emotion.In S.S.Stevens (Ed.), Handbook of experimental psychology (pp. 473-516). New York: Wiley.   
+Matsumoto, D., Yoo,S. H., & Nakagawa,S. (2008). Culture,emotion regulation,and adjustment. Journal of Personality and Social Psychology, 94(6),925-937.   
+Medler-Liraz,H.，& Seger-Gutmann, T. (2018). Authentic emotional displays,leader-member exchange,and emotional exhaustion. Journal ofLeadership & Organizational Studies, 25(1),76-84.   
+Methasani,R., Gaspar,J.P.，& Barr,B.(2017).Feeling and deceiving:A review and theoretical model of emotions and deception in negotiation. Negotiation & Conflict Management Research,10(3),158-178.   
+Miler, K.1., Considine,J.,& Garmer,J. (2007). “Let me tellyouabout myjob": Exploring the terain of motion in the workplace. Management Communication Quarterly, 20(3),231-260.   
+Miyamoto,Y. Ma, X.,& Wilken, B. (2017, May). Cultural variation in pro-positive versus balanced systems of emotions. Current Opinion in Behavioral Sciences,15,27-32.   
+Moon,T.W.,Hur,W.-M.,& Choi,Y.J. (2019).How leaders'perceived emotional labor leads to followers' job performance: A serial mediation model. Journal of Service Theory and Practice, 29(1),22-44.   
+Muchinsky,P.M. (1977). Organizational communication: Relationships to organizational climate and job satisfaction. Academy of Management Journal, 20(4),592-607.   
+Murugappan, M.,Juhari, M.R.B.M., Nagarajan,R.,& Yaacob，S.(2009).An investigation on visual and audiovisual stimulus based emotion recognition using EEG. International Journal of Medical Engineering and Informatics, 1(3), 342-356.   
+Niedenthal,P.M.,& Brauer,M. (2O12). Social functionalityof human emotion. Annual Reviewof Psychology, 63(1), 259-285.   
+Oc,B.,Daniels,M.A.,Diefendorf,J. M.,Bashshur,M.R.,& Greguras, G.J. (2019). Humility breedsauthenticity: How authentic leader humility shapes follower vulnerability and felt authenticity. Organizational Behavior and Human Decision Processes.   
+Padgett,C.,，Cottrell， G.，& Adolphs，R.(1996). Categorical perception in facial emotion clasification. In Proceedings of the Eighteenth Annual Conference of the Cognitive Science Society: July 12-15,1996, University ofCalifornia,San Diego (Vol.18,p.249).Psychology Press.   
+Patrashkova-Volzdoska,R.R.,McComb,S.A., Green,S.G.,& Compton,W.D.(203).Examiningacurvilinear relationship between communication frequency and team performance in cross-functional project teams. IEEE Transactions on Engineering Management, 50(3),262-269.   
+Peleckis,K. (2o13). International business negotiations: culture,dimensions,context. International Journalof Business,Humanities and Technology,3(7),91-99.   
+Potworowski, G.,& Kopelman, S. (2o08). Strategic display and response to emotions: Developing evidence-based negotiation expertise in emotion management (NEEM). Negotiation and Conflict Management Research, 1(4), 333-352.   
+Pugh,S.D., Groth,M.,& Hennig-Thurau,T. (20l1). Willing and able to fake emotions: A closer examinationof the link between emotional dissonance and employee well-being. Journal of Applied Psychology, 96(2), 377-390.   
+Rapoport,A. (Ed.). (1976). The mutual interactionof people and their built environment: A cross-cultural perspective. Chicago: Aldine.   
+Rosaldo,M. Z. (1984). Toward an Anthropology of Self and Feeling. In R. A. Shweder and R. A. LeVine (Eds.), Culture Theory: Essays on Mind, Self, and Emotion, Cambridge: Cambridge University Press.   
+Rothman, N. B.,& Magee, J. C. (2O16). Affective expressions in groups and inferences about members' relational well-being: The efects of socially engaging and disengaging emotions. Cognition and Emotion, 30(1), 150-166.   
+Salmela,M. (20o5). What is emotional authenticity? Journal for theTheory ofSocial Behaviour,35(3),209-230.   
+Salovey，P.，& Mayer，J.D.(1990).Emotional Intelligence. Imagination，Cognition and Personality，9(3), 185-211.   
+Shaw,M.E. (1981). Group dynamics: The psychology ofsmall group behavior(3rd ed.).New York: McGraw Hill   
+Steinel,W., Utz,S.,& Koning,L. (2o10).The good,the bad and theuglything to do when sharing information: Revealing, concealing and lying depend on social motivation, distribution and importance of information Organizational Behavior and Human Decision Processes, 113(2), 85-96.   
+Suits,B. (1967). What is a game? Philosophy of Science, 34(2),148-156.
+
+Taxer,J.L.,& Frenzel,A.C.(2O15,July).Facetsof teachers’emotional lives: A quantitative investigationof teachers'genuine,faked,and hidden emotions. Teaching and Teacher Education, 49,78-88.
+
+Tenbrunsel, A.E. (1998). Misrepresentation and expectations of misrepresentation in an ethical dilemma: The role of incentives and temptation. Academy of Management Journal, 41(3), 330-339.   
+Tng,H.-Y.,& Au,A. K. C.(2O14). Strategic display of anger and happinessin negotiation: The moderating role of perceived authenticity. Negotiation Journal, 30(3),301-327.   
+Ute R,H., Jonas W B,L.,& Gunter W,M. (2010).Emotional labor, strain,and performance: Testing reciprocal relationships in alongitudinal panel study. Journal ofOcupational Health Psychology,15(4),505-521.   
+Van Kleef, G.A. (0o9). How emotions regulate social life: The emotions as social information (EASI) model. Current Directions in Psychological Science, 18(3),184-188.   
+Van Kleef, G.A., De Dreu, C. K. W.and Manstead,A. S.R. (2010, December). An interpersonal approach to emotion in social decision making: The emotions as social information model. Advances in Experimental Social Psychology,42,45-96.   
+Van Kleef, G.A.,Van Doorn,E.A.,Heerdink,M. W.,& Koning,L.F. (2011).Emotion is for influence.European Review of Social Psychology, 22(1),114-163.   
+Von Eckardt B. (1994). Folk psychology. In Gutenplan S (Ed.) A Companion to the Philosophy of Mind (pp. 300-307). Blackwell, Cambridge.   
+Wang, K.L., & Groth, M. (2014). Buffering the negative effects of employee surface acting: The moderating role of employee-customer relationship strength and personalized services. Journal of Applied Psychology, 99(2), 341-350.   
+Wang,K.L.,Nguyen, H.,Johnson,A.M.,& Groth, M. (2017). Service with a fake smile: Detecting inauthentic emotions in service setings. In Academy of Management Proceedings (Vol. 2017, No.1,p.13117) Briarclif Manor, NY 10510: Academy of Management.   
+Weiss，M.，Razinskas，S.， Backmann,J.，and Hoegl，M. (2017). Authentic leadership and leaders’ mental well-being: An experience sampling study. Leadersh. Q. 29(2),309-321.   
+Wellman,H. M. (1990). The child's theory of mind. Cambridge, MA: MIT Press.   
+Wong,E., Tschan,F.，Messerli,L.，& Semmer,N. K. (2013). Expressing and amplifying positive emotions facilitate goal attainment in workplace interactions. Frontiers in Psychology, 4(188),1-15.   
+Xu, J.,Liu, Y.,& Guo, Y. (2014). The role of subordinate emotional masking in leader-member exchange and outcomes: A two-sample investigation. Journal of Business Research, 67(2),100-107.   
+Yagil,D.,& Shnapper-Cohen,M.(2016).When authenticity matrs most: Physicians’regulation of emotional display and patient satisfaction.Patient Education and Counseling, 99(10),1694-1698.   
+Zhan,Y.,Wang,M.,& Shi,J. (20l6). Interpersonal processofemotional labor: The role of negative and positive customer treatment.Personnel Psychology, 69(3),525-557.
+
+# The Interpersonal Effects of Fake Emotion and the Way It Works
+
+FENG Roujia;BI Yanling; FUXiaoli;WANG Jia; LI Mengzhu (School of Psychology, Shaanxi Normal University & Key Laboratory of Behavioral and Cognitive Neuroscience of Shaanxi Province, Xi'an 710062, China)
+
+Abstract: Fake emotion refers to the process of emotional interaction that people show positive or negative emotions in disguise to amplify or suppress the original emotions. Fake emotion is the result of a strategic choice. The emotion displayed may not happen at the moment, but sometimes it can be persuasive.Fake emotions are common in daily life,but the present research on it is relatively scatred,and there are still some disputes about the interpersonal influence of fake emotion as well as its mechanism. The existing literature mainly concerns four aspects of the interpersonal effect of fake emotion, including the game process, pro-social behavior situation, organizational situation，and leadership effect. The related mechanisms include the afective reaction of the emotion receivers and the inner process of "speculating others’emotions by their own standard". Future research can focus more on the deep and systematic study of fake emotion on the emotional receiver, group fake emotion, the valence of fake emotion, cognitive neural mechanism, culture background,and so on.
+
+Keywords: fake emotion; emotional strategy; emotion perception; emotion interaction; emotion recognition

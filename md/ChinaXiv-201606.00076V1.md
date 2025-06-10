@@ -1,0 +1,183 @@
+# 数字图书馆系统的社群网站技术研究
+
+# 顾立平
+
+(国立台湾大学图书资讯系台北10671)
+
+【摘要】系统地介绍数字图书馆开发社会网站功能的相关研究,分析社交图对象元数据(SGOM)、应用程序接口(API)、标记语言(ML)、查询语言(QL)、描述语言(JS）,讨论数字图书馆的社群服务机制。此架构可作为数字图书馆开发社交网络服务的指引。
+
+【关键词】社群社会网络信息服务系统AJAXFacebook【分类号】G250.76
+
+# TechnologiesofSocial NetworkWebsiteofDigitalLibrarySystem
+
+KuLiping
+
+(DepartmentofLibraryandInformationScience,NationalTaiwanUniversity,Taipei10671,China)
+
+【Abstract]Thisarticlesystematicallintroducestherelevantstudiesofsocialnetworkwebsitefeaturesofdigitallibrary, analyseBSocialGraphObjetMetadata（SGOM），ApplicationProgrammingInterface（API)，MarkupLanguage(ML), QueryLanguage(QL）andJavaSeript(JS），thendiscussesthemachine-processedsocialcommunityserviceofdigital library，Thisframeworkcanbeaguidelinetodevelopsocialnetworkserviceindigitallibrary.
+
+【Keywords]Social communitySocial newtorkInformationservice system AJAX Facebook
+
+# 1前言：以人为对象的数字化服务
+
+社会网络服务(SocialNetworkService，SNS)是数字图书馆系统的发展方向之一，也是一种以人为对象，而不是以信息为对象的新型知识服务方式之一。
+
+数字图书馆发展的是图书馆罗列信息的空间,还是用户使用信息与交流信息的空间,Hargittai(2007)比较社群网站Facebook、MySpace、Xanga和Friendster的用户和非用户行为认为，如果用户感到自主权越多，越容易接受社群服务[1]。如果数字图书馆想要“赢得用户”的使用、满意和支持,则需要加大的不只是用户参与，而是用户在数字图书馆中所拥有的控制权利,把这些权利从图书馆解放到终端用户的手中去。
+
+现代科学日益发达,类似生物医学这样的研究项目需要具有不同专长的人组合在一个研究团队中,而社会网络服务可以提供这样一种联系和查询合作对象的作用[2]。社群网站可以作为图书馆发展人力资源的社会关系搜索引擎的工具[3]。
+
+不管是终端用户参与到数字图书馆服务，还是数字图书馆服务高端用户进行科学协作，社会网络服务是一种新型的知识服务。支持这样的服务有三种方式；
+
+(1)建立一个像Facebook一样的分布式系统，为用户提供一个全球平台；  
+(2)不建立任何系统,而是由图书馆员在Facebook或人人网里,登记成为一个终端用户,用来联系其他用户[4];
+
+收稿日期：2010–11–22
+
+# 42 现代图书情报技术
+
+（3）利用已有的社群网站，开发适合于数字图书馆的社会网络系统。
+
+本文主要针对第三种方式进行研究。对数字图书馆而言，全球化（Globalization）策略提供一种图书馆借力使力的服务模式，通过嵌入到用户空间，与用户共同分享信息服务体验的方式，来获得用户的改进意见。这是本研究的主要目标。
+
+这种借力使力的模式，需要数字图书馆作为全球型信息服务供应商和终端用户之间的桥梁。目前已有许多相关论述，却缺乏具体让数字图书馆建设社会网络服务系统的机制与研究。
+
+本文首先梳理数字图书馆的社群服务，在前人研究的基础上，梳理数字图书馆的社群服务“应该是什么（WhatshouldDLSNSbe)"；然后分析社交图对象元数据（ Social Graph Ojbect Metadata,SGOM）、Facebook 应用程序界面(Facebook Application Programming Inter-face，FAPI）、Facebook标 记语言（FaceBookMarkupLanguage, FBML)、Facebook 查询语言（Facebook QueryLanguage,FQL）、Facebook 描述语言（Facebook JavaS-cript，FJS的运作机制，梳理数字图书馆的社群服务“如何做 $\mathrm { \tilde { \mathbf { F } } \mathbf { \bar { n } } \mathbf { \bar { \ u } } } ^ { * } - \mathbb { H } \mathbf { \bar { \mathbf { \Lambda } } } \mathrm { \tilde { \mathbf { \Lambda } } } \mathrm { \tilde { \mathbf { \Lambda } } } ]$ ”；最后总结数字图书馆的社会网络服务模式。研究成果可以作为各类图书馆针对不同社群发展其社会网络服务，提供建立轻简型社会网络系统的参考。
+
+# 2进展：数字图书馆的社群服务
+
+社群网站具有三种信息：自我生成信息（Self-Generated Information）、朋友生成信息(Friends -Gener-atedInformation）和系统生成信息（System-GeneratedInformation）[5]。其所导致的用户行为有两方面：研究传统意义下的用户的信息行为，即用户的个人行为，特征与现象和研究传统意义下的非正式的用户信息行为，即用户的社交行为，即用户和用户之间的交流行为。
+
+在用户行为与特征方面，EIlison等（2007）调查学生用户后认为社群网站所带来的社会资本（SocialCap-ital可能对自尊较低或生活满意度较低的用户有益]。Wilkinson等（2010）分析2007年至2010年的MySpace用户人口属性和行为（Demographicsand Be-havior，发现美国的社群网站规模虽然缩小，但是用户却没有减少，特别是拉丁美洲裔(Latino/Hispanic）的用户增加，可能是交流音乐促使了较多年轻人参与[7]。
+
+在用户社交行为方面，Zhang等（2010）电话调查Facebook，MySpace和YouTube的用户,发现社群网站可增强市民讨论时政的热情，但不会影响市民的政党倾向[8]。社群网站也可以创建社区和建立接触，通过技术衔接（Comvcrgence)劳资双方、朋友、亲人、师生的社会互动[]。
+
+数字图书馆发展社会网络服务，不只是支持用户信息行为，也需要注意用户交流中的行为管理问题。从社群网站上的社会喜好度（SociometricPopularity）和社会知名度（SocialAttractiveness）来看，过多朋友链接未必有可取之处[10]。Valenzuela等（2009）调查德州大学学生的社群网站使用情况，认为对他们的人际关系帮助不大，而且不是讨论时政和政治的有益工具，总体来说社群网站具有负面影响[“1]。对比Ackland(2009）的看法[12]和Zhang(2010）的研究[3]，年龄和心智成熟度其实决定了社群网站对用户的正负面影响，而数字图书馆应该通过社会网络服务发挥它在科学交流中的影响力。此外，Fuchs{2010}调查后发现社会网络服务对奥地利萨尔斯堡居民的公共信息和舆论监督具有交流作用，但同时观察到studiVZ等社交平台充斥针对性强的个性化广告（TargetedPersonalizedAdvertising）的现象[13]。在数字图书馆中没有广告等间题，也并不关注时政，但是需要注意内容品质的稳定性。
+
+数字图书馆开发社会网络服务，也存在一定的风险，例如：Connell（2009）调查大学新人对图书馆使用社群网站的感觉，建议图书馆谨慎处理社交网络的个人资料[14]。用在社群网站的身份盗窃、人肉搜素/网络跟踪（Cyber-stalking）和错误行为等信息曝露（Infor-mationDisclosure）问题[12]。社群网站促使了大规模的用户自我披露（MassiveSelf-disclosure）现象，通过结构方程式模型Krasnova（2010）等指出这是因为保持和发展人际关系的需要，但是也受到信息风险的制约[16]。此外，Debatin等(2009）调查社群网站用户对隐私、利益和注册风险的关注度，认为更安全的社会网络服务需要注意使用模式、心理机制和第三者介人的效果[17]。用户本身决定了服务品质，这与从前图书馆员决定了服务品质有很大的差异，值得进一步探索。
+
+社群网站还存在两个潜在价值：对图书情报理论而言的超链接分析和对图书情报实践而言的E化研究平台[17]。Park(2010）调查韩国大学里的不同用户社群网站使用率,分为积极型用户(ActiveUsers)、半积极和不积极用户，指出个性、网络使用和话题兴趣是影响积极与否的原因,作为研究型图书馆发展参考服务的参考[18]。
+
+相关研究着重在观察用户在社群网站的活动,或者建议图书馆员进入社群网站,至于如何从这些观察结果或互动经验,进一步去开发数字图书馆的社会网络服务系统,相对较少。以下就技术部分进行探索,探讨图书情报工作的理念与这项网络技术的结合。
+
+# 3技术:社群网站的应用程序
+
+# 3.1社交图的对象元数据
+
+社群网站的核心概念是社交图,以Facebook为例,其信息组织对象(Object)分为用户、事件和网页等三大类(除此之外,还有群体、应用、状态信息、照片、相册、图像资料、影片、注解和插件）,每个对象中包括属性(Properties)和连接(Connections)两类元数据。Sk­ageby(2009)认为社群网站通过优化社会元数据（So-cialMetadata]丰富了人际交流[19]。对象的元数据，反映出设计者对社会网络的认识论。以下就用户、事件和网页三类对象,进行其属性和连接的比较与说明。
+
+(1)用户（User）是指用户配置文件（UserPro−file）[20]。其属性包括：识别码（ID）、姓、名、全名、链接、自我陈述(About）、生日、工作、教育、电子邮件、个人网页、家乡、现地址、简历、性别、兴趣、找寻关系、现存关系、关系、宗教、政治、认证、签名、时区、第三方识别码(匿名的唯一标识符)、语言环境等。其中,区分了两种关系；想找寻的社会关系和已有登记的社会关系,以及两种识别码。前者可为用户发展社会关系,后者可为用户避免账号遗失。
+
+用户的连接则包括;用户的新闻提要(Home)、用户板块(Feed)、用户下的标签、位置、照片、朋友、活动、兴趣、音乐、书籍、电影、电视、网页链接、照片（含用户配置文件的照片和）、相簿、影片、群组、状态更新(Sta-tuses)、发帖链接、注释、事件、收件箱、发件箱、账户、插件、在应用程序中的未完成请求(Platformrequests）。其中,有别于事件(Event）,活动是指在用户配置文件中的活动定制(Activities);另外,区分了用户的发帖链接和用户的网页链接,不区分用户配置文件的照片和用户所加标签的照片,统称照片（Photos）。
+
+(2)事件(Event)是指地点、活动名称、计划、邀请等信息[21]。其属性包括：识别码（ID）、发起人（ $0 w \mathfrak { n }$ er）、名称(Name）、描述（以HTML的描述方式）、开始时间、结束时间、地点、场地、活动能见度(Privacy）、最后更新时间等。其中,区分了地点（Location)和场地(Venue）;有别于姓名,名称(Name)是指事件名称。
+
+其连接则包括;事件板块(Feed)、尚未回应的用户(Noreply）、可能参与事件的用户（Maybe）、所有被邀请的用户(Invited）关注此事件的用户（Attending）、拒绝参与的用户(Declined)和活动照片,明显地区分5种用户类型。
+
+(3)网页(Page)标示对所有属性的实时更新,与其他网页无异，但是经过特别分类[22]。其属性包括：识别码、网页名称、分类、爱好者的页面数量(Fan_count）等。
+
+其连接则包括:网页板块、照片、标签、网页链接、照片、群组、相簿、更新现况、事件、插件等。其中,区分了网页拥有的帖子和网页所发布的帖子等两类链接(类似被引和引用关系);而这里的事件(Events)是指这个网页所关注的事件,插件是指当前通讯的朋友(Facebook有即时通讯的功能）。
+
+用户、事件和网页是社交图核心元素,也是最重要的对象元数据。它们是FAPI,FBML、FQL和FJS的核心要素。对象元数据本身及其属性和连接,是数字图书馆发展社群网站技术的重要基础。
+
+# 3.2Facebook应用程序界面[23]
+
+应用程序界面可区分为系统组成元件的应用程序,以及组合这些原件的界面。通过FAPI可以让管理者存取社群网站的用户、群组、个人档案等资料,主要分为认证和管理两部分。
+
+(1）认证API包括：建立密钥的auth.createToke、产生用户ID和期限的auth．getSession、取消级别的auth.expireSession、根据目前级别取得密钥的auth.promoteSession、移除应用程序的auth.revokeAuthorization、移除指定程序延伸权限的auth.revokeExtendedPermis-siion,共6种。
+
+(2)管理API包括:管理每日信息发送配额的ad­min.getAllocation,取得统计数据的admin．getMetrics、取得各类属性设定值的admin.getAroperties、设定各类属性设定值的admin.setAroperties取得用户使用限制的admin.getRestrietionlnfo设定用户使用限制的admin.setRestrictionInfo（如年龄、地区、内容类型等）6种。
+
+此外，在FAPI中还包括大量的应用程序，可与“对象元数据"中的用户，事件和网页等进行互操作，而这些功能又主要依赖于标记语言（FBML）、查询语言FQL）和描述语言（FJS）所发挥的作用。
+
+# 3.3Facebook标记语言[2]
+
+Facebook标记语言类似XML语法，由语法名称和参数(参数和数值)两部分所组成。其格式为 $\therefore \mathbb { h } _ { : }$ 语法名称参数 $\mathbf { i } =$ “数值”参数 $\dot { z } = \ "$ 数值"/>。
+
+其参数数值，包括数组（Array）、布尔（Boolean）颜色（Color）、浮点数（Float）、整数（Int）、字符申（String）用户识别码（Uid）和网址（Url）等。
+
+而它的语法名称则有很多，较为重要的用户群组和邀请朋友语法如表1、表2所示：
+
+表1用户群组的FBML语法（节录）  
+
+<html><body><table><tr><td colspan="2">说明</td></tr><tr><td>fb; name</td><td>在应用程序上指定用户的名称</td></tr><tr><td>ih;user</td><td>将特定内容指定给用户</td></tr><tr><td>Ib: pmdile - pic</td><td>在用户个人档案中的个人图像</td></tr><tr><td>lb; ewentlink:</td><td>指定事件名弥和担链技</td></tr><tr><td>fb: grouplink</td><td>指定固体名称和粗链接</td></tr><tr><td>fb:- in - netwurk</td><td>将特定内容限制在用户社会网络中函其他用户检课</td></tr><tr><td>viewer</td><td>:is-friends-wi判新用户是否与群定用户为朋友关系，若是，则可校 混内容，著非，则不健捷觀内容</td></tr></table></body></html>
+
+表2遗请朋友的FBML语法（节录）  
+
+<html><body><table><tr><td colspan="2">语击</td></tr><tr><td>fh: reqaest − fon</td><td>说明 用户选取朋友账号与发送意请的请单</td></tr><tr><td>fb: req - choice</td><td>用户在道请网真中的按钮样式</td></tr><tr><td>fh: nmralti = friend = selecter</td><td>建立供用户排选朋友的名单</td></tr></table></body></html>
+
+标记语言其实是针对对象元数据的再一次加工。使之能够为API所计算和管理；数字图书馆的社会网络服务可以延伸自SQL并修改自FQL来达到其服务目的。
+
+# 3.4Facebook查询语言[1
+
+从SQL延伸的Facebook查询语言，在系统后端协助用户查询权限许可下的可获取数据（倒如，查询朋友现况、社群现况等)。由栏位、表格和条件三部分所组成。其格式为<Sclcct[栏位]From[表格]Where［条件]>。例如执行"select uid,name,value from cookieswhere uid $= \square \square \square ^ { - 1 } 2 ^ { - 1 }$ 的语法，可得回传：
+
+Array （ [0] = > Array( [uid] = >0922 [ nsme] = > guja [ value] $\mathbf { \lambda } = \mathbf { \lambda } :$ > the lover ）   
+）
+
+以上即最简单的语法范例，通过FQL函数和列表，开发者可以快速获得社群网站上的数据。对象元数据中的用户（UserProfile）、事件（Event）和网页（Page），在FQL中可以呼叫出其相关资料。例如针对用户可以呼叫家乡hometown_location、感兴趣的人meeting_sex、找对象的理由meeting_for、感情状况rela-tionship_status。针对事件可以呼叫事件名称Name、事件标语Tagline、事件所属的网络识别码Nid、事件的大型图片网址pic_big、主办者名称Host、事件简介Description、事件类别cvent_type等。针对网页，可以用FQL呼叫诸如小图示pic_small、公司简介company_verview、个人经历Bio、联系方式Affiliation、粉丝数量fan_count等。
+
+数字图书馆服务的目标和商业交友网站不同，但是其社会网络服务所需的技术本身无异，只有在对象元数据有所不同后，其后的查询语法才有所不同的设置。
+
+# 3.5Facebook描述语言[26]
+
+FJS是一种JavaScript开发方案，其导向的浏览器语言，可以增加网页应用程序的交互性。对于JavaS-cript、DOM、CSS(CascadingStyleSheets)等都不是新颖技术。FJS的差别仅在于：因为需要将网页传输的数据转化为可实现社会网络服务的可读性数据，所以JavaScript程序码会被分析后，在所有函数和变量前加上社会网络服务的应用程序的ID前缀字段。例如：
+
+function see（gi）  
+var obj $\mathbf { \lambda } = \mathbf { \lambda }$ | human;gir  
+retum obj. human;  
+1  
+会转变为：  
+function a 0922_see( a 0922_girl)  
+var a 0922_obj = bumgn:g0922_girl|：retum a 0922_obj- propetty ;  
+：
+
+因为DOM物件和CSS可以自定义类，因此，运用这种已有的开发工具便可以实现社会网络服务的系统。配合AJAX的POST函数,在前端建立好对象,便可运用POST函数呼叫后端程序,将资料转变成FBML的格式,回传到用户浏览器上。
+
+# 4结语：结合服务理念与网络技术
+
+数字图书馆可以选择三种方式进行社会网络服务,建立服务系统的方式费时、耗钱,不用技术的方式费力,借力使力的方式比较省时、省钱、省力。
+
+从人文思潮研究现代科技,可以拓展对于科技本质的认识,进而推展技术应用、科技创新(其思路)及其学科发展。例如Kreps(2010）用后结构主义诠释学的角度研究信息系统,指出社会网站作为一个虚拟空间中的再现(Represent)个人存在的本质(EssenceofanIndividual)的机制,使得计算机“用户”的定义大大超越以往信息系统下的狭窄概念[27]。同理，图书情报学分析信息系统中的信息组织,可以从哲学认识论的角度,观察到新媒体现象下的知识结构,从而以本学科的知识核心概念,重新认识理论和实践之间的推移。
+
+Khan等（2010）研究社群网站的事件（Event）功能，认为网上互动空间促进社交事件的时空协调[28]。用户事件和网页是社会网络服务机制的核心元素，相关的数字图书馆研究应该着重在对这三类元素的定义和权限、应用程序与参数的设计上。
+
+在相关研究的进展过程中,文献内容反映了各种数字图书馆的社群服务模式,其中嵌入到用户空间的模式相对简单易行。本文对此进行应用程序的研究。
+
+(1)对象元数据,为描述网络上的社会网络关系,Facebook已经提供了精心设计的元数据,反映出设计者对社会网络的认识论；(2)应用程序,认证和管理机制涉及到经营者的团队和目标,数字图书馆有别于商业网站,而每个数字图书馆又有其不同的组成,如何建立属于图书情报领域的社会网络服务认证和管理是未来一项研究前沿;(3)标记语言、查询语言和描述语言,其实数字图书馆可以从已有的XML、SQL和JaνaSeript技术中（不限于这些技术)发展出一套符合图书情报工作的轻简型社会网络系统以满足用户,关键只是在于对象元数据的统一制定而已。
+
+综上所述,这样的服务机制,即用户行为驱动社会网络服务的数字图书馆系统。
+
+# 参考文献：
+
+〔1]HargittiE.WhoseSpace？DiferenoesAmangUsersandNon− Users ofSocialNetworkSites[J].JournalofComputer−Mediated Cammanication, 2007,13(1):276 -297.   
+[2]SchleyerT,SpallekH,ButlerBS,etal.FacebookforScientists； Requizements andServiceefor Optimizing HowScientific CollsboretionsareEstablished[J].Journal@fMedicelnternetResearch, 2008，10(3）：e24.[2010−10−27]，htp1//www,jmir.og/ 2008/3/e24/.   
+[3]SealeMS.Facebok a88Social SearchEngineand theImplicationsforLibrariesintheTwentyFirstCentury[J].LbraryHi Tech, 2008, 26(4):540 =556.   
+{4]CharmigoL,ElisPB.ChecingoutFacebook.com：TeImpact ofaDigitalTrendonAcademicLibraries[J].IformationTechnologyandLibraries,2007,26(1）:23−34.   
+[5]UtzS.ShowMeYourFriendsandⅠwillTellYouWhatTypedf PersonYouAre；HowOne’6Prolile,NumberofFrienda,and TypeofFriensInfueeImpeoFomaionoScialNetwork Sites[1].JounalfComputeMediatedCmmuiction,201 15(2)：314−335.   
+{6]EllsonNB,SteinfieldC,LampeC，TheBenefitsofFacebook “Friends”：Social Capital andCollgeStudents’UseofOnline SocialNetwockSites[J].JoamnalofComputerMediatedCommunication,2007,12(4）:1143–1168.   
+[7]WilkinsonD,ThelwallM.SocialNetwarkSiteChangesOver Time：TheCaseofMySpace[J].JournaloftheAmericanSociety forInformatinScieeandTecnogy,2010,6111）;11 2323.   
+[8]ZhangWW,JohnsonTJ,SeltzerT,etal.TheRevolutionwillbe Networked-theInfluenceof Social NetworkingSites onPolitical AtitudesandBehviorJ]SocialScienceCompueReiew 2010, 28(1）:75 =92,   
+[9]Uribe-TiradoA,Echavaria−RamirzAF.FaceboksNetworkofLibrarians,InformstionScientistsandArehivistsinLatin America[J].Profesional DeLaIformacion,2008,17(6）：670 −676.   
+[10]TongST,Van Der HeideB,LangwellL,etal.Too Much of8 GoodThing?TeRelationshipBebwenNumberofFrendsandInterpersonalImpressonsonFacebookJ].JocmalofCampude MediatedCommunieation,2008,13(3);531-549.   
+[11]ValenzuelaS,ParkN，KoeKF.I8 ThereSocial Capital in aSocia] NetworkSite?：FacebookUseandCollegeStudents’LifeSatisfac tion,Trust，andParticipation[J]，JouralgfComputerMedated Communication,2009,14（4）;875-901.   
+[121AeklandR.SorialNerkServinnntaSraesadPla
+
+# 46 现代图书情报技术
+
+for e − Researching Social Networks [ J]. Sociol Scienee Computer Rmiee,2009, 27(4） :481 − 492.   
+[13]Fuchs C.StudiVZ：Soeial Networking in tbe Surveillance Society [J].Erkies and Irgformation Teckmoləgy, 2010, 12 (2） :171 − 185.   
+[14 ] Gonnell R S. Academic Libraries, Faoebook and MySpaoe, and Student Outreach : A Survey of Student Opinion [J]. Powral −Lbraries ond Acadewy, 2009, 9(1) ;25 −36.   
+[ 15 ] Tow W N F H, Dell P, Venable J. Understanding Iaformation Diaclosurc Bchavior in Australian Facebook Uscrs [ J]. Jourmal qf frformation Teshnology, 2010, 25(2) :126 – 136.   
+[ 16]Krasnora H, Spiekemmqnn S, Koroleva K, et al. Online Soeial Networks:Why We Disclosc[ I]. Jovraal qf Information Technolo, 2010, 25(2) :109 - 125.   
+[17] Debatin B, Lorejoy J P, Hora A K, et aL Facebook and Online Privavy : Attitudes, Bebaviors, and Uninteoded Conseqoences[ J]. Jourmal qf Comyuter − Mediated Communicotton, 20o9 , 15(1) :83 −108.   
+[ 18] Park J H, Differenoee Among Univeraity Students and Faculties in Social Networking Site Perception and Use Implications for Academic Library Serviees [ J] . £leetronie Libnury, 2010, 28 (3) :417 -431.   
+[ 19] Skageby J. Exploring Qualitative Sharing Practices of Social Metadata:Expanding the Attention Economy[ J]. Inforssotion: Society , 2009, 25 (1) ±60 – 72.   
+[20] faccbock. com.referenee[ EB/0L ]. [ 2010 − 10 – 27 ], http:// developers. facebook. com/docs/referenee/api/user.   
+[21] facebock. eom. reference[ EB/0L ]. [ 2010 − 10 – 27 ]. http:// developers.facebook. com/docs/reference/api/'erent.   
+[22] facebook. com.reference[ EB/OL ]. [ 2010 − 10 – 27 ]. http:// developers, facebook. com/docs/reference/api/page.   
+[23] facebook, com. API[ EB/OL]. [ 2010 = 10 = 27 ]. http://developers, faccbook. com/docs/api.   
+[24] faccbook, com. FBML[ EB/OL].[ 2010 − 10 − 27 ]. bttp://developers. faeebook. com/docs/reference/fbml/.   
+[25] facebook. com.FQL[ EB/OL]. [ 2010 − 10 − 27 ]. htp://developers. faccbook. com/docs/reference/fql/.   
+[ 26] facebook. oom, FBJS[ EB/OL] . [2010 − 10 − 27]. htp://developers. facebook, coen/docs/reference/javascript/.   
+[27] Kreps D.My Social Netuorking Profile: Copy, Resemblance,or Simulacrum? A Poststracturalist Interpretation of Social Information Systems[ J]. European Jourmal gf Irgformatiow Systems, 2010, 19 (1):104 -115.   
+[28] Khan Z, Jarvenpaa S L Exploring Temporal Coordination of Events with Faeebook. com[ J].Jocornal qf IrformationTechnology, 2010, 25 (2) ;137 − 151. {作者 E -mail ;kuliping@ ntu， edu， tw）

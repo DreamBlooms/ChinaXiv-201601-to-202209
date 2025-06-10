@@ -1,0 +1,615 @@
+[
+    {
+        "type": "text",
+        "text": "Study on the Rotor Design Method for a Small Propeller-Type Wind Turbine ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yasuyuki Nishi1, Yusuke Yamashita² and Terumi Inagaki1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.DepartmentofechanicalEngineering,Ibaraki University4-12-1Nakanarusawa-cho,Hitachi-shi,baraki,6-8511, JAPAN   \n2.Graduate School of Scienceand Enginering,Ibaraki University,4-12-1 Nakanarusawa-cho,Hitachi-shi,Ibaraki, 316-8511,JAPAN ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Small propeler-type wind turbines have a low Reynolds number,limiting the number of usable airfoil materials. Thus,their design method is not suffciently established,and their performance is often low.The ultimate goal of this research is to establish high-performance design guidelines and design methods for smallpropeler-type wind turbines.To that end,we designed two rotors: Rotor A,based on the rotor optimum design method from the blade element momentum theory,and Rotor B,in which the chord length of the tip is extended and the chord length distribution is linearized.We examined performance characteristics and flow fields of the two rotors through wind tunnel experiments and numerical analysis.Our results revealed that the maximum output tip speed ratio of Rotor B shifted lower than that of Rotor A,but the maximum output coefficient increased by approximately $3 8 . 7 \\%$ .Rotors Aand B experienced a large-scale separation on the hub side, which extended to the mean in Rotor A.This difference in separation had an impact on the significant decrease in Rotor A's output compared to the design value and the increase in Rotor B's output compared to Rotor A. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Wind Turbine,Propeller-Type,Horizontal Axis,Blade Element Momentum Theory,Rotor Design Method ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In recent years,energy problems due to global warming and the exhaustion of fossil fuels have become serious; thus, the effective utilization of natural energy sources is expected. Wind power generation has a relatively low power generation cost, thereby making it suitable for commercialization.Propeller-type wind turbines are currently used for power generation. These wind turbines have been upsized and are being introduced not only on coastal lands and mountainous areas but also on offshore locations.On the other hand, the use of small propeller-type wind turbines is expected to become familiar in environments such as urban areas and suburbs; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "however, their distribution is insufficient because of lack of power generation owing to startup characteristics and lower power generation efficiency， damages due to changes in wind direction and speed,and noise pollution from turbine rotation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The blade element momentum theory[1,2] has been widely used for the rotor design of propeller-type wind turbines; optimum design [3-6] and performance analysis [7,8]are conducted.However,a limited number of reports detail comparisons of optimal properties and flow fields of rotors from turbines designed using bladeelement-momentum-theory-generated design values. Specifically, in a small propeller-type wind turbine,the Reynolds number is low,and there are limited usable airfoil materials; thus,itis important to examine optimal properties and flow fields of rotors in the turbine.In recent years，reverse taper blades，in which the chord length is lengthened toward the tip,in contrast with small propeller-type wind turbines designed using the blade element momentum theory, have been employed,and they have been experimentally shown to be effective at improving the turbine performance within low rotational speed ranges[9,1O].However, the details on the mechanism of the performance improvement are unknown. At this point,a design method for a small propeller-type wind turbine has not been established. ",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/535f4fa17568c9ca5757dc35e7dc8c91b3984a78cd9e2fd79c299b1ff0f8b53b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Nomenclature</td><td colspan=\"2\">Greek letters</td></tr><tr><td>a</td><td>axial induction coefficient</td><td>α</td><td>attack angle (°)</td></tr><tr><td>a</td><td>circumferential inductioncoefficient</td><td>β</td><td>blade angle (°) = rt @/v</td></tr><tr><td>A</td><td>wind-receiving area (m²)= πr</td><td></td><td>tip speed ratio</td></tr></table></body></html>",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/dca5eec9b6ab5e5ae2c3d4b691674507bbc7ec72e20165f0b7577055fabf59be.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>B</td><td>number of blades</td><td>2</td><td>kinematic viscosity coefficient (m²/s)</td></tr><tr><td>C</td><td>chord length (m)</td><td>p</td><td>fluid density (kg/m)</td></tr><tr><td>Cw</td><td> power coefficient =W/(p Av /2)</td><td></td><td>rotational angular velocity (rad/s) =2 πn/60</td></tr><tr><td>D</td><td>rotor diameter (m)</td><td>Subscripts</td><td></td></tr><tr><td>n</td><td>rotational speed (min-1)</td><td>1</td><td>rotor inlet</td></tr><tr><td>P</td><td>static pressure (Pa)</td><td>2</td><td>rotor outlet</td></tr><tr><td>Q</td><td>torque (N·m)</td><td>a</td><td>axial component</td></tr><tr><td>r</td><td>rotor radius (m)</td><td>h</td><td>hub</td></tr><tr><td>Re</td><td>local Reynolds number =wC/v</td><td>r</td><td>radial component</td></tr><tr><td>V</td><td>absolute velocity (m/s)</td><td>t</td><td>tip</td></tr><tr><td>W</td><td>relative velocity (m/s)</td><td>u</td><td>circumferential component</td></tr><tr><td>W</td><td>turbine output (W)=Qω</td><td>8</td><td> infinite distance</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this research, our final goal was to establish a highperformance design guideline and design method for small propeller-type wind turbines. Thus,we designed rotors using the rotor optimum design method[11] based on the blade element momentum theory while designing rotors with extended tip chord lengths and linearized chord length distributions.Performance characteristics and flow fields of these two types of rotors were examined with wind tunnel experiments and numerical analyses and were compared with their design values. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RotorDesign Method ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We designed rotors using the rotor optimum design method[11],which is based on the blade element momentum theory. The summary is presented below [11]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Design specifications are as follows: $\\nu _ { \\infty }$ is the absolute velocity at an infinite distance, $\\boldsymbol { r } _ { t }$ is the tip radius of the rotors, $r _ { h }$ is the hub radius of the rotors,and $B$ is the number of blades.We assumed the tip speed ratio $( \\lambda )$ and power coefficient $( C _ { W } )$ as follows: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { W } = \\frac { W } { ( 1 / 2 ) \\rho \\pi r _ { t } ^ { 2 } \\nu _ { \\infty } ^ { 3 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda = \\frac { r _ { t } \\omega } { \\nu _ { \\infty } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\rho$ is the fluid density and $\\omega$ is the rotational an gular velocity. Turbine output $( W )$ and rotational speed $( n )$ are confirmed using the equations as follows: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW = \\frac { 1 } { 2 } C _ { W } \\rho \\pi _ { t } ^ { 2 } \\nu _ { \\infty } ^ { 3 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nn = \\frac { 6 0 \\lambda \\nu _ { \\infty } } { 2 \\pi r _ { t } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Because design calculations are performed for each radius,the blade is subdivided in the radial direction.The dimensionless radius $\\textcircled{5}$ is defined as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\xi = \\frac { r } { r _ { t } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $r$ is the radius.In this study, design calculations were performed with $\\xi = 0 . 1 4$ , 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8,0.9,and O.975.Because calculations cannot be performed when $\\xi = 1$ ， $\\xi = 0 . 9 7 5$ was used for the calculation instead. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The velocity triangle for the arbitrary radius is shown in Figure 1[11]. The angle between the relative velocity $( w )$ of the inflow into the blade element and the chord is defined as the attack angle $( a )$ ,and the angle between the rotation surface of the rotor and the chord is defined as thebladeangle $( \\beta )$ . The angle between the rotation surface and the relative velocity $( w )$ is defined as $\\varphi$ . In addition,vortices from blades are of arbitrary radius and form a spiral vortex surface.At this time,the slipstream was not expanded and was assumed to have the same diameter. We also assumed a condition in which the energy loss is minimized.Betz' law [12] describes where the vortex surface flowswithout deformation.The locus of thevortex filament present in the vortex surface is shown in Figure2[11].Here, $w _ { ~ n } ^ { \\prime }$ is the convection velocity of the vortex filament and is perpendicular to the vortex surface In addition, $\\mathbf { \\nabla } _ { \\boldsymbol { \\nu } } \\mathbf { \\dot { \\rho } } _ { \\mathrm { ~ } } ,$ is the apparent convection velocity in the axialdirectionof thevortex surface.We assume the convection velocity ratio $\\textcircled{5}$ to be defined by the equation given below( $\\zeta$ is constant regardless of the radius). In this research, we used $\\zeta = 0 . 3$ as the initial value. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\zeta = \\frac { \\nu ^ { \\prime } } { \\nu _ { \\infty } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ca79ae76a2e7b52356bb8a8f40cba0f05825261aaff3f82479f06fae160e1463.jpg",
+        "img_caption": [
+            "Fig.1Velocity triangle "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ea7062597ccd4b4f19f69902a35e0af6f00b0127cdf5b371c031d5d44396532.jpg",
+        "img_caption": [
+            "Fig.2The locus of vortex filament in the rotor wake "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The value for $\\varphi$ is obtained from ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi = \\alpha + \\beta = \\tan ^ { - 1 } \\left\\{ \\left( 1 - \\frac { \\zeta } { 2 } \\right) \\frac { 1 } { \\xi \\lambda } \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The loss coefficient of the blade tip $( F )$ is obtained from the Prandtl equation [12] as follows: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF = \\frac { 2 } { \\pi } \\mathrm { c o s } ^ { - 1 } \\Bigg [ \\mathrm { e x p } \\Bigg ( { - \\frac { B } { 2 } \\frac { 1 - \\xi } { \\mathrm { s i n } \\phi _ { t } } } \\Bigg ) \\Bigg ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\varphi _ { t }$ is the $\\varphi$ of the blade tip.We used $\\varphi$ when $\\xi =$ 0.975. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Next,we select the airfoil and obtain the lift coefficient $( C _ { L } )$ ofthe blade element fromairfoil characteristics. The local Reynolds number $( R e )$ is obtained from ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR e = \\frac { w C } { \\mathrm { v } } = \\frac { 4 \\pi r F \\mathrm { c o s } \\phi \\mathrm { s i n } \\phi \\nu _ { \\infty } \\zeta } { \\mathrm { v } \\ : C _ { L } B }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $C$ is the chord length and $\\nu$ is the kinematic viscosity coefficient.We set the attack angle $( a )$ of blade element to obtain the drag-lift ratio (ε) using the local Reynolds number $( R e )$ and airfoil characteristics by the equation as follows: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varepsilon = \\frac { C _ { D } } { C _ { L } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $C _ { D }$ is the drag coefficient.The power coefficient $( C _ { W } )$ can be written as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { W } = J _ { 1 } \\zeta - J _ { 2 } \\zeta ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where ${ \\cal J } _ { 1 } ^ { 2 }$ and ${ \\cal J } _ { 2 } ^ { \\prime }$ are obtained from ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ J _ { 1 } } ^ { \\prime } = 4 \\xi ^ { 2 } \\lambda F \\mathrm { c o s } \\phi \\mathrm { s i n } \\phi \\left( 1 - \\frac { \\varepsilon } { \\mathrm { t a n } \\phi } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ _ { 2 } \" = \\frac { J _ { 1 } \" } { 2 } \\big ( 1 + \\varepsilon \\mathrm { t a n } \\phi \\big ) \\mathrm { c o s } ^ { 2 } \\phi\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Moreover, $J _ { 1 }$ and $J _ { 2 }$ are obtained from ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ _ { 1 } = \\int _ { \\xi _ { h } } ^ { \\xi _ { t } } J _ { 1 } ^ { \\prime } ( \\xi ) d \\xi\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ _ { 2 } = \\int _ { \\xi _ { h } } ^ { \\xi _ { t } } J _ { 2 } ^ { \\prime } ( \\xi ) d \\xi\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The obtained $J _ { 1 }$ and $J _ { 2 }$ as well as the assumed power coefficient $( C _ { W } )$ are used to calculate $\\zeta$ from ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\zeta = \\frac { J _ { 1 } - \\sqrt { J _ { 1 } ^ { 2 } - 4 J _ { 2 } C _ { W } } } { 2 J _ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "If the calculated $\\zeta$ and the $\\zeta$ assumed as the initial value do not match,we use the $\\zeta$ obtained here and recalculate with $\\varphi$ in Equation (7). If $\\zeta$ does not converge even after repeating this calculation,we change the assumed power coefficient $( C _ { W } )$ ，airfoil,or attack angle $( a )$ . If $\\zeta$ still does not converge, the design specifications must be reviewed. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "If $\\zeta$ converges,we obtain axial induction coefficient (a) and circumferential induction coefficient $( a ^ { \\prime } )$ from ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\na = \\frac { \\zeta } { 2 } \\mathrm { c o s } ^ { 2 } \\phi \\big ( 1 + \\mathrm { \\varepsilon } \\mathrm { t a n } \\phi \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\na ^ { \\prime } { = } \\frac { \\zeta } { 2 \\xi \\lambda } \\mathrm { c o s } \\phi \\mathrm { s i n } \\phi \\Bigg ( 1 { - } \\frac { \\varepsilon } { \\mathrm { t a n } \\phi } \\Bigg )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The relative velocity $( w )$ is obtained using the equation as follows: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw = \\frac { ( 1 - a ) \\nu _ { \\infty } } { \\sin \\phi }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Chordlength $( C )$ is determined from ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC = \\frac { 4 \\pi F \\mathrm { c o s } \\phi \\mathrm { s i n } \\phi \\nu _ { \\infty } \\zeta } { w C _ { L } B }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Blade angle $( \\beta )$ is obtained from ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta = \\phi - \\alpha\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The obtained chord length distribution $( C ( r ) )$ and blade angle distribution $( \\beta ( r ) )$ determine the blade shape, and an optimum rotor can be established. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Experimental Apparatus and Methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Test Rotors ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Schematics of the two types of test rotors used in this experiment are shown in Figure 3,and their specifications are listed in Table 1.In addition, the chord length andblade angle distributions are illustrated in Figures 4 and 5.Rotor A was designed using the optimal design method[11], the above described blade element momentumtheory.Its design specifications are shown in Table 2 We set the absolute velocity of the infinite distance $( \\nu _ { \\infty } )$ as $8 ~ \\mathrm { m / s }$ ，therotor tip radius $\\mathbf { \\eta } ( r _ { t } )$ as $0 . 2 5 \\mathrm { ~ m ~ }$ ，the rotor hub radius $( r _ { h } )$ as $0 . 0 7 ~ \\mathrm { m }$ ，and the number of blades $( B )$ as3 and assumed a tip speed ratio $( \\lambda )$ of 5 and a power coefficient $( C _ { W } )$ of O.4 for the design. For any radial position, MELO31 [13] was used as the airfoil,and the attack angle $( a )$ was $4 ^ { \\circ }$ .The chord length of the tip was $0 \\ \\mathrm { m m }$ However,giving consideration to strength,in Rotor B, the chord length was extended such that the maximum blade thickness of the tip in Rotor A was $5 . 0 \\mathrm { m m }$ ,and the chordlengthdistribution was linearized.In addition,the blade angle of both rotors was the same. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Experimental Apparatus and Methods ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "An outline of the wind tunnel experimental apparatus is shown in Figure 6.This open-type wind tunnel has air outlet dimensions of $8 0 0 \\ \\mathrm { { m m } \\times 8 0 0 \\ \\mathrm { { m m } } }$ . Downstream from the center of the wind tunnel outlet, the $1 D$ (500 mm）position was designated as the standard position, and the wind velocity at this position was set as $8 ~ \\mathrm { m / s }$ = Wind velocity was measured using a Pitot tube and an 人人 (a)Rotor A (b) Rotor B ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/107e5a921072f870daab9d479237ddd4dc43fa15a6431f305cb8a834d978c115.jpg",
+        "table_caption": [
+            "Table1Specifications of test rotors "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Rotor A</td><td>Rotor B</td></tr><tr><td>Tip radius: rt</td><td colspan=\"2\">0.25 m</td></tr><tr><td>Hub radius: rh</td><td>0.07 m</td><td></td></tr><tr><td>Number of blades: B</td><td colspan=\"2\">3</td></tr><tr><td>Airfoil</td><td colspan=\"2\">MEL031</td></tr><tr><td>Tip chord length</td><td>0 mm</td><td>33.3 mm</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3002b0325c9514b52fa2a492419089aba483d054026bb9398e5681bdb9693837.jpg",
+        "img_caption": [
+            "Fig.4Chord length distributions "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ad4fd4110b59713cd79a25af23f3d6ff6070c1c1481ace3ea03c6ad2b2ebe7be.jpg",
+        "img_caption": [
+            "Fig.5Blade angle distributions "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ee083686f763ac169c3d53b369d9d05df0de6239c164141c6c2ce622992f7661.jpg",
+        "table_caption": [
+            "Table 2Design specifications of Rotor A "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Rotor A</td></tr><tr><td>Flow velocity: Voo</td><td>8 m/s</td></tr><tr><td>Tip radius: rt</td><td>0.25 m</td></tr><tr><td>Hub radius: rh</td><td>0.07 m</td></tr><tr><td>Number of blades: B</td><td>3</td></tr><tr><td>Tip speed ratio: λ</td><td>5</td></tr><tr><td>Power coefficient: Cw</td><td>0.4</td></tr><tr><td>Airfoil</td><td>MEL031</td></tr><tr><td>Attack angle:α</td><td>4°</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c23b1af634d5cbccf34b0b31f2fc59bf619a28e7296025fbc65a3ef7433496d2.jpg",
+        "img_caption": [
+            "Fig.3Test rotors ",
+            "Fig.6Experimental apparatus "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "inclined tube manometer. Flow at $1 D$ ,a downstream po sition from the wind tunnel outlet, was confirmed to be almost uniform.In addition, test rotors were positioned at $1 . 2 5 D$ 0 $7 5 0 \\mathrm { m m } )$ downstream from the wind tunnel outlet. The load of the rotor was controlled using a motor and an invertor. Rotational speed $( n )$ and torque $( \\boldsymbol { Q } )$ were measured with a magnetoelectric rotation detector and a torque detector, respectively.From these values, the turbine output $( W )$ was obtained.Note that the torque obtained was corrected by measuring the torque without a rotor. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Numerical Analysis Methods and Conditions ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We used the general-purpose thermal fluid analysis code ANSYS CFX15.0 for the numerical analyses,and conducted three-dimensional incompressible steady flow analyses. The governing equations are the conservation of mass equation [14] and the conservation of momentum equation [14]. The SST(Shear Stress Transport) model [15] was adopted as the turbulence model. $2 5 ^ { \\circ } \\mathrm { C }$ air was used for the working fluid. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The total computational region is shown in Figure 7. The computational region mainly consisted of an external region,a middle region and a rotor region.The external region was cylindrical with a diameter 1O times the outer diameter $D$ of the rotor. Moreover, the lengths upstream and downstream were 10 times and 15 times the length of the outer diameter $D$ of the rotor,respectively, and were measured from the center of the rotor. The numbers of computational grids for Rotors A and B were approximately 4,130,000 and 4,030,000 elements,respectively; the total numbers of grids were 6,020,0o0 and 5,920,000 elements,respectively. The boundary conditions were the flowvelocity $( \\nu _ { \\infty } = 8 ~ \\mathrm { m } / \\mathrm { s } ) ,$ ）for the inlet boundary,arbitrary rotational speed for the rotor and the static pressure （ $( P _ { \\infty } = 0 \\ \\mathrm { P a } )$ for the outlet boundary. About the wall surface boundary,the outer periphery of the external region was assigned as the slip condition and wall surfaces were assigned as the nonslip condition. Moreover, the boundaries between the rotating and static systems were joined using the frozen rotor[16] technique. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Results and Discussion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ComparisonofPerformance Characteristics ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The relation between the tip speed ratio (） and the power coefficient $( C _ { W } )$ is shown in Figure 8.First, experimental and calculated values for $C _ { W }$ of Rotor B were compared.Both $C _ { W }$ values reached their maximum at $\\lambda =$ 4.5.At this maximum output tip speed ratio $( \\lambda = 4 . 5 )$ ,the experimental value was $C _ { W } = 0 . 3 3 5$ ，whereas the calculated value was $C _ { W } = 0 . 3 3 3$ ； these values were in good agreement.However,at low tip speed ratios $( \\lambda = 2 . 5 )$ or high tip speed ratios $( \\lambda = 6 )$ ，differences between these two values increased.At the maximum output tip speed ratioof Rotor B, the experimental and calculated values were in good agreement; thus,our calculated results are considered to bevalid. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2534502da6b73bc5b9712301d49a6e068725d24f074f82a1a453d33d8ee93074.jpg",
+        "img_caption": [
+            "Fig.7Computational region "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4e5220962927843e18a0becc246650f2f3bfd22084f3f49caa66db58d26d0440.jpg",
+        "img_caption": [
+            "Fig.8 Correlation between the tip speed ratio and the power coefficient "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Next,let us consider the calculated $C _ { W }$ of Rotor A. The maximum value of this $C _ { W }$ (0.240) was previously obtained using the designed tip speed ratio $( \\lambda = 5 )$ ; however, this value was significantly lower than the design value, $C _ { W } = 0 . 4$ .On the other hand, the calculated $C _ { W }$ of Rotor B had a maximum value that was lower than the design value; yet, it was approximately $3 8 . 7 \\%$ higher than that of Rotor A. Yet, the maximum output tip speed ratio of Rotor B was shifted slightly lower,as described previously. We will examine the significant decrease in Rotor A's output compared to the design value and the increase in Rotor B's output compared to Rotor A. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ComparisonofFlowFields ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The radial direction distributions of the axial components ( $\\dot { \\nu } _ { a 1 }$ and $\\nu _ { a 2 , }$ ）and the circumferential components 0 $\\dot { \\nu } _ { u 1 }$ and $\\nu _ { u 2 } \\$ ）are shown in Figures 9 and 10,respectively, for the absolute velocity at the inlet/outlet of Rotors A and B based on numerical analysis.In both cases, the tip speed ratio was $\\lambda = 5$ .Figure 9 shows that when the $\\nu _ { a 1 }$ of Rotor Aand the design value are compared,at any radial position, the $\\nu _ { a 1 }$ of Rotor A was significantly larger than the design value. On the hub side, the $\\nu _ { a 1 }$ of Rotor B was similar to that of Rotor A,but from the mean to the tip side,thevalueofRotorBwassmallerthanthatofRotor ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A,and at around $0 . 8 \\leq r / r _ { t } \\leq 0 . 9$ ,thevalues were almost the same as the design value.However, on the tip side, when $r / r _ { t } > 0 . 9$ ，the $\\nu _ { a 1 }$ of Rotor B increased rapidly; the same was true for Rotor A.On the other hand, $\\nu _ { a 2 }$ decreased compared to $\\nu _ { a 1 }$ .Especially in Rotor B, the difference between $\\nu _ { a 1 }$ and $\\nu _ { a 2 }$ was large.Therefore,compared to Rotor B,the flow in Rotor A was completed, meaning that the energy of wind was not sufficiently extracted. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 10 shows that $\\nu _ { u 1 }$ in Rotors Aand B was almost O,as designed,and at the rotor inlet, the flow was without rotation. However, $\\nu _ { u 2 }$ had positive and negative values for both rotors,which were especially large on the hub side.When comparing the $\\nu _ { u 2 }$ of Rotors A and B, the values were almost the same on the hub side,but from the mean to the tip side, the value of Rotor B was higher than that of Rotor A.Differences in the $\\nu _ { a }$ and $\\nu _ { u }$ distribution of Rotors A and B are likely to arise from the fact that the chord length was mostly the same on the hub side but was different from the mean to the tip side. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2bd0442a94dd812b60c879dbe9d692510a16d3e423c5f91c609ba02b8bfaa522.jpg",
+        "img_caption": [
+            "Fig.9Axial component distributions of the absolute velocity at rotor inlet and outlet $( \\lambda = 5$ 0 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f90b459dcd8d19f1f6ce606230f05b4350163d3a121f3d40aa3970722f229ba.jpg",
+        "img_caption": [
+            "Fig.10 Circumferential component distributions of the absolute velocity at rotor inlet and outlet $( \\lambda = 5 )$ 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The relative velocity $\\left( w _ { 1 } \\right)$ at the rotor inlets of Rotors AandB based on numerical analysis,the local Reynolds number $( R e )$ ，and the radial direction distribution of the attack angle $( a )$ are shown in Figures 11,12,and 13,respectively. In all cases, the tip speed ratio was $\\lambda = 5$ . According to Figure 11,the $w _ { 1 }$ ofRotors A and B was almost the same and agreed well with the design value. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/30c1b85b90460e17ac499e45840574cd8d71576fdd8655896dfebb6a8a32a8e9.jpg",
+        "img_caption": [
+            "Fig.11Relative velocity distributions at rotor inlet $( \\lambda = 5$ 0 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0adb33d6cac920d357b238b633cf92409351435a1d0b0f676b9e8a88ff307451.jpg",
+        "img_caption": [
+            "Fig.12Local Reynolds number distributions at rotor inlet ( $= 5$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a08498ad343835fb3090a4460424889edc682feaef3ebc5706db7acc0b3b547a.jpg",
+        "img_caption": [
+            "Fig.13Attack angle distributions at rotor inlet $( \\lambda = 5 )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Therefore,as shown in Figure 12, $R e$ of Rotor A agreed with the design value,increasing from the hub to the mean side and then decreasing as it approaches the tip side.On the other hand, the $R e$ of Rotor B exhibited a similar value to thatofRotor A on the hub side but in creased as it approached the tip side,reaching approximately $0 . 9 \\times 1 0 ^ { 5 }$ .This is because the chord length of Rotor B from the mean to the tip side was larger than that of Rotor A.Figure 13 shows that the $\\scriptstyle a$ of Rotor A was larger than the design value at all radial positions and was especially large on the hub side.Meanwhile, the $\\scriptstyle a$ of RotorBhad a similarvalue to that ofRotorAon the hub side but was smaller than that of Rotor A from the mean to the tip side,and at $0 . 8 \\leq r / r _ { t } \\leq 0 . 9$ on the tip side, the $\\scriptstyle a$ value became similar to the design value. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figures 14 (a) and (b） show limiting streamline on suction surfaces for Rotors A and B when $\\lambda = 5$ Alargescale separation was observed on the hub side of both rotors.Especially in Rotor A, the separation extended to the mean side.For the MELO31 used in this research, the publishedlower limit of the Reynolds number characteristic to the airfoil is $1 . 0 \\times 1 0 ^ { 5 }$ . Therefore,values for the lift coefficient and drag-lift ratio in the Reynolds number ranging below $1 . 0 \\times 1 0 ^ { 5 }$ were obtained through linear function extrapolation. However, because the local Rey nolds number $( R e )$ was extremely low (approximately 0.4 $\\times ~ 1 0 ^ { 5 } )$ on the hub side of both rotors,the design value and actual value for the lift coefficient and drag-lift ratio deviated significantly. Thus, the axial component of the absolute velocity became large on the hub side,making the attack angle $( a )$ much larger than the design value. Thus,a large-scale separation was observed on the hub side of both rotors.Especially for Rotor A,Re was low from the mean to the tip side with a large attack angle $( a )$ thus,the separation extended to the mean. The difference in the area of the separation likely had an impact on the significant decrease in Rotor A's output compared to the design value and the increase in Rotor B's output compared to RotorA. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c7f6d3cf2d88f62c70a74e1fa5e685bf5b122d764089b42b144bbbbe2affe50d.jpg",
+        "img_caption": [
+            "Fig.14Limiting streamline on suction surface $( \\lambda = 5$ 门 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We examined performance characteristics and flow fields of Rotor A(designed using the rotor optimum design method based on the blade element momentum theory) and Rotor B(the chord length of the tip was increased compared to Rotor A,and the chord length distribution was linearized） through wind tunnel experiments and numerical analysis.The findings of our study are as follows: ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.In Rotor A,the maximum output tip speed ratio   \nagreed with the design value,but the maximum power   \ncoefficient decreased significantly in comparison with   \nthe design value. 2.In Rotor B, the maximum output tip speed ratio was   \nlow when compared with Rotor A,but the maximum   \npower coefficient increased by approximately $3 8 . 7 \\%$ 3.Alarge-scale separation was observed in Rotors A   \nand B on the hub side; however, the separation extended   \nto themean side inRotorA.Thisdifference in the extent   \nof the separation is believed to cause the significant de  \ncrease in Rotor A's output compared to the design value   \nand the increase in Rotor B's output compared to Rotor A. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] Glauert W. H.,“Fans and Aerodynamics Theory IV\", Cambridge University Press,1934,pp.324-341.   \n[2] Wilson R.E.and Lissaman P.B.S.,“Applied Aerody namics of Wind Power Machine\",NTIS PB 238594, Oregon State University,1974.   \n[3] Tokuyama H.,Tanaka T.and Ushiyama I.,“ExperimentallyDetermining the Optimum Design Configuration for Micro Wind Turbine (The problems of present design)\", Journal of Wind Energy,Vol.24,No.1,2000,pp. 65-70.   \n[4]Tokuyama H.and Ushiyama I.,“Experimentally Determining the Optimum Design Configuration for Micro Wind Turbine”,Journal of Wind Energy,Vol.24,No.4, 2000, pp. 62-65.   \n[5]Jerson Rogério Pinheiro Vaz,Joäo Tavares Pinho,André Luiz Amarante Mesquita,“An extension ofBEM method applied to horizontal-axis wind turbine design\",Renewable Energy,Vol.36,2011,pp.1734-1740.   \n[6]Déborah Aline Tavares Dias do Rio Vaz,Jerson Rogério Pinheiro Vaz,André Luiz Amarante Mesquita, Joäo Tavares Pinho and Antonio Cesar Pinho Brasil Junior,“Optimum aerodynamic design for wind turbine blade with a Rankine vortexwake”,Renewable Energy,Vol.55,2013, pp. 296-304.   \n[7]Rajakumar S.and Ravindran D.,“Iterative approach for optimising coefficient of power,coefficient of lift and drag of wind turbine rotor\",Renewable Energy,Vol.38, 2012, pp. 83-93.   \n[8]Hua Yang,Wenzhong Shen,Haoran Xu,Zedong Hong and Chao Liu,“Prediction of the wind turbine performance by using BEM with airfoil data extracted from CFD\",Renewable Energy,Vol.70,2014,pp.107-115.   \n[9] Nishizawa Y., Suzuki M., Taniguchi H., Ushiyama I.,“An Experimental Study of the Shapes of Rotor for a Horizontal-Axis Small Wind Turbines\",Transactions of the JapanSocietyofMechanicalEngineers,SeriesB,Vol.75, No. 751,2009,pp. 547-549.   \n[10]Nishizawa Y., Suzuki M.,Taniguchi H., Ushiyama I.,“An Experimental Study of the Shapes of Blade for a Horizontal-Axis Small Wind Turbines (Optimal Shape for LowDesign Tip Speed of Rotor)\",Transactions of the Japan SocietyofMechanical Engineers,SeriesB,Vol.75, No.753,2009,pp.1092-1100.   \n[11] Koike M.,“Fluid machinery engineering”,Corona Publishing, San Antonio, Texas,2009,pp.86-93.   \n[12] BetzA.,“Screw Propellers with Minimum EnergyLoss\", Gottingen Reports,1919,pp.193-213.   \n[13] Matsumiya H.,Kogaki T., Iida M. and Kieda K.,“Development of ahigh performance airfoil\",Turbomachinery,Vol.29,No.9,2001,pp.519-524.   \n[14] ANSYS, Inc., “ANSYS CFX-Solver Theoretical guide\", 2010,pp.22-23.   \n[15]ANSYS, Inc.,“ANSYS CFX-Solver Theoretical guide” 2010, pp.81-85.   \n[16]ANSYS,Inc.,“ANSYS CFX-Solver Modeling guide”, 2010,pp.142-143. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

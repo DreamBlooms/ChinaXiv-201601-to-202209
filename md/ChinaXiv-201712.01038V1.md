@@ -1,0 +1,136 @@
+# 临床研究
+
+# LRG-1在舌癌组织及舌癌细胞系Tca8113中的表达及意义
+
+郝丽静1,²,郑文娇}²,王淑芬1,²,郑 颖¹,何韶衡²,张 斌1  
+辽宁医学院附属第一医院'口腔科,变态反应与临床免疫研究中心，辽宁 锦州 121001
+
+摘要：目的探讨富亮氨酸α2糖蛋白1(LRG-1)在舌癌及舌癌细胞系Tca8113中的表达及其与舌癌临床病理参数的关系并分析LRG-1的临床意义。方法 采用S-P免疫组织化学方法检测我院40例浸润性舌癌患者的病灶及癌旁正常组织、20例舌部不典型性增生组织、20例舌原位癌中LRG-1的表达，分析LRG-1表达与舌癌临床病理参数的相关性;流式细胞技术检测舌癌细胞系（Tca8113)中LRG-1的表达;Westerm bloting法检测舌癌组织及细胞系Tca8113中LRG-1的表达;MTT法检测LRG-1对人血管内皮细胞生长的影响;体外小管形成实验观察LRG-1对血管生成的影响。结果LRG-1阳性表达率在舌癌组织中 $( 8 5 \% , 3 4 / 4 0 ) ,$ 1显著高于癌旁正常组织 $( 1 0 \% , 4 / 4 0 ) ,$ ,亦显著高于舌部不典型性增生组织 $( 3 0 \% , 6 / 2 0 )$ 及舌原位癌 $( 5 0 \% , 1 0 / 2 0 )$ ，差异均有统计学意义 $( P { < } 0 . 0 5 )$ 。LRG-1在舌癌组织中的表达与患者年龄、性别等不相关，而与组织分化程度、临床分期及淋巴结转移有相关性$( P { < } 0 . 0 5 )$ 。LRG-1能够促进血管内皮细胞的增殖和小管形成。结论LRG-1在舌癌组织及细胞系中表达异常，且能够促进血管内皮细胞的生长和小管形成，提示其可能与肿瘤血管生成有关。
+
+关键词：富亮氨酸α2糖蛋白1；舌鳞癌； $\mathrm { T c a } 8 1 1 3$ ;血管生成
+
+# Expression of LRG-1 in clinical specimens and Tca8113 cel line of tongue carcinoma
+
+HAO Lijing12,ZHENGWenjiaol2,WANG Shufen12,ZHENG Ying1,HE Shaoheng²,ZHANG Bin1   
+DepartmentoftistrydCicalmuolesechCnteistfaedspitalofoningedicaliy   
+Jinzhou 121001, China
+
+Abstract:ObjectiveToinvestigate theexpressionofRG-1inclinical spcimensandTca813cellineoftonguecarcinomaand analyze the relationship between LRG-1 expresionand the clinicopathological parameters.Methods LRG-1 expression was detected in 40 tonguesquamous cellcarcinoma (TSCC)tissues and paired normaladjacent tisses,20atypical hyperplasia tisues ofthetongue,and20tisuesof tonguecancer insituusing immunohistochemicalmethod.The expresionofLG-1in Tca8113 celline wasdetected usingflowcytometry. The expression ofRG-1 was alsodetected inhuman TSCC tisues and $\mathrm { T c a } 8 1 1 3$ cells with Western blotting.The effectofLRG-1onthe proliferationofHUVECs was determined using MTTassayand its effct onangiogenesis was evaluated with Matrigel tube formation assays.Results Human TSCCtissues hadasignificantly higher rate of positive expression for LRG-1 ( $8 5 \%$ , 34/40) than the adjacent tissues $( 1 0 \% , 4 / 4 0 )$ , invasive tongue cancer $( 3 0 \% , 6 /$ 20),and tongue cancer in situ $( 5 0 \%$ ,10/20) $( P { < } 0 . 0 5 )$ . LRG-1 expression was correlated with the degree of tumor differentiation, clinical stage and lymph node metastasis of the tumor $_ { ( P < 0 . 0 5 ) }$ but not with the patients' age or gender. In the in vitro experiment,LRG-1 promoted HUVEC proliferationand angiogenesis.Conclusion Abnoral LRG-1expresion is presentin the human TSCCtissueand Tca8113cels.LRG-1can promote HUVECproliferation andangiogenesis invitro,suggestingits possible role in promoting tumor angiogenesis.
+
+Key words: LRG-1; squamous cel carcinoma of tongue; Tca8113 cells; angiogenesis
+
+口腔癌是头颈部常见的恶性肿瘤，其中舌癌又是最常见的口腔癌，多数为鳞癌。近年来舌癌的发病率有增高趋势，但患者的生存率却无明显改善。大部分患者确诊时已经是晚期，处于第Ⅲ期或第IV期，这是降低患者生存率的一个重要因素[1-2]。因此,预防舌癌的发生，探索其发病机制，发现新的早期诊断标志物成为目前研究的重点。Ki-67、p53、HOX基因和IV型胶原酶等是近年来发现的较新的口腔鳞癌的生物学标志物，对诊断和治疗口腔鳞癌意义重大[3]。有研究表明富亮氨酸α2糖蛋白1(LRG-1)在肝癌4、胰腺癌5、卵巢癌肺癌和结直肠癌等多种肿瘤中的表达较正常人高。又有研究发现LRG-1表达升高与血管生成有密切关系。血管生成是指在原有的毛细血管和(或)微静脉基础上通过血管内皮细胞的迁移和增殖，从已存在的血管处以芽生或非芽生形式形成新的、以毛细血管为主的血管系统过程。内皮细胞活化增殖是血管生成的起始阶段[10]。故研究血管内皮细胞的增值情况即可大致反应血管生成的情况。但LRG-1在舌癌中的表达情况及其参与舌癌发生、发展的相关机制尚不清楚。本实验旨在体外检测LRG-1在舌癌组织及细胞系的表达,以及LRG-1对人血管内皮细胞增殖及小管形成的影响，初步探讨其在舌癌组织中的表达变化及其对肿瘤血管生成的影响，为进一步研究其生物学作用及可能存在的致病机制提供实验依据。
+
+# 1资料和方法
+
+# 1.1 主要试剂
+
+RPMI1640培养基:美国Corning。胎牛血清：美国Gibco。兔抗人LRG-1单抗、HRP标记的驴抗兔IgG、PE标记的鼠抗兔IgG:美国LifeSpanBioSciences。重组人LRG-1:上海江莱生物科技有限公司。噻唑蓝(MTT)：美国Sigma进口分装。Matrigel:美国BD。
+
+# 1.2 细胞株
+
+人舌癌细胞株Tca8113细胞由上海拜力生物公司购得；人脐静脉内皮细胞HUVEC由ATCC细胞库购得。
+
+# 1.3 临床资料
+
+收集2005\~2015年辽宁医学院附属第一医院病理科保存的浸润性舌癌标本40例，舌部不典型性增生组织20例、舌原位癌组织20例，患者术前均未接受化疗及放疗。其中浸润性舌癌中男性28例，女性12例，年龄40\~75岁，平均52岁。组织学分类：高分化15例，中低分化25例。有淋巴结转移22例，无淋巴结转移18例。根据国际抗癌联合会(UICC)分期：I期17例，Ⅱ期12例，Ⅲ期6例，V期5例。所有标本均经镜下病理检查证实。40例癌旁正常组织均采用距离肿瘤至少 $2 \mathrm { c m }$ 且术中病理证实切缘为阴性的舌体组织。临床病理资料包括性别、年龄、分化程度、淋巴结转移、肿瘤分期。
+
+# 1.4 方法
+
+1.4.1免疫组织化学染色选取与HE染色一致的典型蜡块做 $4 \mu \mathrm { m }$ 厚连续切片。切片脱蜡至水， $3 \% \mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 消除内源性过氧化物酶，组织抗原微波加热修复， $5 \%$ BSA封闭非特异性抗原,加入兔抗人LRG-1单抗， $4 ^ { \circ } \mathrm { C }$ 过夜，滴加HRP标记的驴抗兔IgG工作液， $3 7 ~ \mathrm { { ^ { \circ } C } }$ 孵育 $1 \mathrm { ~ h ~ }$ ,PBS冲洗3次， $5 \mathrm { m i n } /$ 次;DAB显色，苏木素复染，常规脱水、透明、中性树胶封片。染色结果判读：镜下观察以肿瘤细胞中出现清晰棕黄色颗粒判定为阳性细胞。根据反应强度和范围分为：阴性(-)：未见阳性细胞；阳性 $( + )$ ·阳性细胞未超过半数且染色较浅;强阳性 $( + + )$ ：阳性细胞超过半数且染色较深。
+
+1.4.2细胞培养舌癌细胞株Tca8113、人脐静脉内皮细胞HUVEC均采用含 $10 \%$ 胎牛血清的RPMI1640培养液(内含青霉素 $1 0 0 ~ \mathrm { U / m L }$ 链霉素 $1 0 0 \mathrm { m g / L }$ )培养，置于含 $5 \% \mathrm { C O } _ { 2 } , 3 7 \ \mathrm { ^ { \circ } C }$ 恒温培养箱中。每1\~2d传代1次，取对数生长期细胞进行实验。
+
+1.4.3流式细胞技术检测舌癌细胞系(Tca8113)中LRG-1的表达取对数生长期细胞，常规胰酶消化后，制成单细胞悬液，离心弃上清，再经PBS缓冲液洗涤两次。BD破膜试剂盒进行破膜，重悬细胞，在实验组细胞悬浮液中加入 ${ 5 \mu \mathrm { L } }$ 兔抗人LRG-1单抗，同型组加入同型一抗,轻轻混匀后于 $2 { \sim } 8 ~ \mathrm { \% }$ 避光条件下孵育 $3 0 ~ \mathrm { m i n }$ 洗涤，再加入 ${ 5 \mu \mathrm { L } }$ PE标记的鼠抗兔IgG后轻轻混匀于$2 { \sim } 8 \ \mathrm { { ^ circ C } }$ 避光条件下孵育 $3 0 \mathrm { m i n }$ ，洗涤， $2 0 0 ~ \mu \mathrm { L }$ PBS重悬,上机行流式细胞仪检测。实验重复3次。
+
+1.4.4Westernblotting检测临床标本及细胞系中LRG-1的表达临床上所取新鲜舌癌组织及癌旁组织冲洗后剪碎，匀浆，裂解后抽提蛋白并定量；Tca8113细胞预冷PBS冲洗，裂解后抽提蛋白并定量。取 $5 0 ~ \mu \ g$ 总蛋白经 $10 \%$ 聚丙烯酰胺凝胶电泳分离后，转至硝酸纤维素膜上， $5 \%$ 脱脂牛奶封闭1h,加兔抗人LRG-1单抗及$\beta$ -actin单抗 $4 \mathrm { { ^ { \circ } C } }$ 孵育过夜、洗膜，加辣根过氧化物酶标记的二抗，室温孵育2h，洗膜，ECL法显色后GIS凝胶图像分析系统拍照并分析处理。以上实验重复3次。
+
+1.4.5MTT法检测内皮细胞增殖情况将处于生长对数期的HUVEC细胞经胰酶消化、重悬、按每孔 $1 0 0 ~ \mu \mathrm { L }$ 种于96孔板，每孔含1000个细胞，设4个复孔， $5 \% \mathrm { C O } _ { 2 }$ 、$3 7 \mathrm { ~ \textdegree C }$ 恒温培养箱中培养 $2 4 \mathrm { ~ h ~ }$ ,弃去培养液。加入LRG-1浓度为 $5 . 1 0 . 2 0 . 4 0 . 5 0 \mu \mathrm { g / m L }$ 的培养液，另设置不加LRG-1的阴性对照组和阳性对照组血管内皮生长因子 $\mathrm { \cdot V E G F } ( 1 0 ~ \mathrm { n g / m L } )$ 。继续培养6h后，每孔加人 $1 5 ~ \mu \mathrm { L }$ MTT,4h后吸弃孔中液体，每孔加入 $1 0 0 ~ \mu \mathrm { L }$ DMSO,摇床震荡 $1 0 ~ \mathrm { m i n }$ ，使结晶物溶解。酶标仪在 $5 7 0 ~ \mathrm { n m }$ 波长下检测每孔的吸光度(A)值，以上实验重复3次。
+
+1.4.6LRG-1对人脐静脉内皮细胞HUVEC小管生成的影响Matrigel基质胶 $4 \mathrm { { ^ { \circ } C } }$ 过夜冻融，次日，在预冷的96孔板中加入 $5 0 ~ \mu \mathrm { L }$ 融化的Matrigel基质胶溶液,在 $3 7 ~ \mathrm { ^ { \circ } C }$ 放置 $3 0 \mathrm { m i n }$ 成胶。按细胞悬液 $2 \times 1 0 ^ { 4 }$ 孔加人板中,放入 $\mathrm { C O } _ { 2 }$ 培养箱培养 $2 4 \ : \mathrm { h _ { \circ } }$ 分为阴性对照组和实验组,实验组分别是LRG-1浓度为 $5 . 1 0 { \cdot } 2 0 . 4 0 . 5 0 \mu \mathrm { g / m L }$ 每组设置5个复孔。 $\mathrm { C O } _ { 2 }$ 培养箱培养 $6 \mathrm { h }$ 。光学显微镜下观察内皮细胞小管的形成情况，每孔随机取5个视野，数码相机拍照，计数形成的小管的个数。
+
+# 1.5统计学处理
+
+采用SPSS17.0统计软件处理数据，计数资料组间比较采用x检验;计量资料以均数 $\stackrel { \cdot } { \pm }$ 标准差表示，两组间比较采用t检验，多组间比较采用方差分析；计数资料与计量资料的统计分析均以 $P { < } 0 . 0 5$ 为有统计学意义。
+
+# 2结果
+
+# 2.1免疫组织化学检测LRG-1的表达
+
+结果显示，LRG-1在舌癌组织中呈不同程度的表达(图1)。LRG-1的表达主要定位于胞浆中，细胞核亦可见染色，各标本LRG-1着色深浅不一。癌旁组织不表达LRG-1或仅在上皮基底细胞层显弱阳性着色。40例浸润性舌癌组织中，34例LRG-1呈阳性表达，阳性表达率为 $8 5 \%$ ;癌旁正常组织中，4例LRG-1阳性表达，阳性表达率为 $10 \%$ $) \% ; x ^ { 2 } { = } 4 5 . 1 1 3 , P { < } 0 . 0 5$ ,差异有统计学意义。因此得出：舌癌组LRG-1阳性率高于癌旁组。20例舌部不典型性增生组织中LRG-1的阳性表达率为
+
+$30 \%$ ;20例舌原位癌组织中LRG-1的阳性表达率为$5 0 \%$ ；二者与浸润性舌癌组织比较，差异均有统计学意义 $_ { \scriptstyle P < 0 . 0 5 }$ ，表1)。另外，LRG-1在浸润性舌癌组织中的表达与患者年龄、性别等不相关，而与组织分化程度、临床分期及淋巴结转移有相关性 $( P { < } 0 . 0 5 )$ ，组织分化程度越低和临床分期越高的舌癌组织中LRG-1的表达越高。发生淋巴结转移的舌癌组织中LRG-1的表达较未转移者高(表2)。
+
+![](images/6f6b58b2b64987cd05908f1053933d31c3881dff2e51ef3d1e5857759459ab7b.jpg)  
+图1LRG-1在舌癌组织中呈不同程度的表达 Fig.1 Expression of LRG-1 in human TSCC tissue (Original magnification: $\times 4 0 0$ ).A: Strong positive expression $( + + )$ B: Weak positive expression $( + )$ ; C: Negative expression (-).
+
+表1LRG-1在不同类型舌组织中的表达Tab.1 Expression of LRG-1 in different tongue tissues  
+
+<html><body><table><tr><td>Tissue</td><td>Total number</td><td>ONuRG-r1 (+ and ++)</td><td>Positive rate of LRG-1 (%)</td></tr><tr><td>Invasive tongue cancer</td><td>40</td><td>34</td><td>85%</td></tr><tr><td>Normal tissue beside tongue cancer</td><td>40</td><td>4</td><td>10%*</td></tr><tr><td>Tongue atypical hyperplasia</td><td>20</td><td>6</td><td>30%*</td></tr><tr><td>Tongue cancer in situ</td><td>20</td><td>10</td><td>50%*</td></tr></table></body></html>
+
+\*P<0.05 vs invasive tongue cancer.
+
+用流式分析软件分析得出，实验组LRG-1呈阳性表达(图2)。Tca8113细胞中LRG-1阳性细胞的百分数：同型对照组为 $0 . 1 5 { \scriptstyle \pm 0 . 0 4 }$ ，实验组为 $8 9 . 3 7 { \scriptstyle \pm 7 . 0 0 }$ ，实验组与同型对照组相比,差异有统计学意义 $( P { < } 0 . 0 5 )$ $\mathrm { T c a } 8 1 1 3$ 细胞中LRG-1阳性细胞的平均荧光强度：同型对照组为 $5 8 7 { \pm } 1 7 1 . 6 7 \$ ；实验组为 $2 7 0 8 { \pm } 1 8 4 . 1 9$ ，实验组与同型对照组相比，差异有统计学意义 $( P { < } 0 . 0 5 )$ 。
+
+表2LRG-1表达的强弱与舌癌临床病理参数的关系  
+Tab.2RelationshipbetweenLRG-1 expression and clinicopathological parameters of tongue cancer   
+
+<html><body><table><tr><td>Clinical characteristics</td><td>NuRGr1 (+ and ++)</td><td>LRG-1 (++)</td><td>LRG-1 (+)</td><td>P</td></tr><tr><td>Clinical stage</td><td></td><td></td><td></td><td></td></tr><tr><td>I-Ⅱ</td><td>23</td><td>12</td><td>11</td><td rowspan="2">0.027</td></tr><tr><td>Ⅲ-Ⅳ</td><td>11</td><td>10</td><td>1</td></tr><tr><td>Differentiation</td><td></td><td></td><td></td><td></td></tr><tr><td>Well</td><td>10</td><td>3</td><td>7</td><td rowspan="2">0.006</td></tr><tr><td>Moderately and Poorly</td><td>24</td><td>19</td><td>5</td></tr><tr><td>LN metastasis</td><td></td><td></td><td></td><td></td></tr><tr><td>Yes</td><td>22</td><td>18</td><td>4</td><td rowspan="2">0.005</td></tr><tr><td>No</td><td>12</td><td>4</td><td>8</td></tr><tr><td>Gender</td><td></td><td></td><td></td><td></td></tr><tr><td>Male</td><td>23</td><td>17</td><td>6</td><td rowspan="2">0.104</td></tr><tr><td>Female</td><td>11</td><td>5</td><td>6</td></tr><tr><td>Age(year)</td><td></td><td></td><td></td><td></td></tr><tr><td>≥52</td><td>21</td><td>16</td><td>5</td><td rowspan="2">0.075</td></tr><tr><td><52</td><td>13</td><td>6</td><td>7</td></tr></table></body></html>
+
+# 2.2流式细胞技术检测结果
+
+# 2.3Western blotting 检测结果
+
+结果显示在舌癌组织及舌癌细胞Tca8113中可以看到明显条带，而在癌旁正常组织中条带较浅，说明舌癌组织及舌癌细胞Tca8113中LRG-1表达水平高于癌旁正常组织(图3)。
+
+# 2.4MTT法检测不同处理对内皮细胞活力的影响
+
+实验中使用不同浓度的LRG-1(0、5、10、20、40、$5 0 ~ \mu \mathrm { g / m L }$ 及VEGF( $\mathrm { 1 0 \ n g / m L }$ 处理HUVEC细胞 $6 \textup { h }$ 二3 C LRG-11 β-actin后，MTT法检测LRG-1对HUVEC细胞活力的影响。结果表明，随着LRG-1浓度的升高，内皮细胞的活性及数量不断增高(表3)。不同浓度的LRG-1组与阴性对照组比较，差异有统计学意义 $( P { < } 0 . 0 5 )$ ;不同浓度的LRG-1组间比较差异也有统计学意义 $( P { < } 0 . 0 5 )$ 。且LRG-1浓度为 $5 0 ~ \mu \mathrm { g / m L }$ 时，血管内皮细胞的活性高于阳性对照组-VEGF( $1 0 ~ \mathrm { { n g / m L } }$ )处理组 $( P { < } 0 . 0 5 )$ 。结果表明LRG-1能明显促进HUVEC细胞生长。
+
+![](images/25129dadbdea9198c71f6e36cd82837baf8386678dd7889c7b4cbe54b56a68b5.jpg)  
+图2Tca8113细胞中LRG-1的表达情况 Fig.2 Expression of LRG-1 in Tca8113 cels.A: Flow cytometric analysis of the percentage of LRG $\cdot 1 ^ { \ast }$ cells in Tca8113 cells; B: Comparison of the percentage of LRG $\cdot 1 ^ { + }$ cells $( ^ { * } P { < } 0 . 0 5 )$ ; C: Analysis of the mean fluorescence intensity of LRG $\cdot 1 ^ { + }$ cells by flow cytometry; $D$ ：Comparison of the MFIof LRG $\cdot 1 ^ { + }$ cells $( ^ { * } P { < } 0 . 0 5 )$   
+图3Western blotting检测舌癌组织及Tca8113中LRG-1的表达  
+Fig.3Westernblotting fordetectingthe expression of LRG-1 in the human TSCC tissue and Tca8113 cells.A: Tca8113 cells;；B: Tongue squamous cell carcinoma (TSCC) tissue;C: Adjacent tissues of TSCC.
+
+表3LRG-1对HUVEC细胞增殖的影响 Tab.3 Effect of LRG-1 on proliferation of HUVECs (absorbance)   
+
+<html><body><table><tr><td rowspan="2">Group</td><td colspan="3">Experiment</td><td rowspan="2">Mean±SD</td></tr><tr><td>1</td><td>2</td><td>3</td></tr><tr><td>LRG-1 (0 μg/mL)</td><td>0.1567</td><td>0.1628</td><td>0.1618</td><td>0.1604±0.0033</td></tr><tr><td>LRG-1 (5 μg/mL)</td><td>0.1944</td><td>0.1828</td><td>0.1928</td><td>0.1900±0.0063</td></tr><tr><td>LRG-1 (10 μg/mL)</td><td>0.2040</td><td>0.2246</td><td>0.2267</td><td>0.2184±0.0125</td></tr><tr><td>LRG-1 (20 μg/mL)</td><td>0.3502</td><td>0.3326</td><td>0.3327</td><td>0.3385±0.0101</td></tr><tr><td>LRG-1 (40 μg/mL)</td><td>0.4302</td><td>0.4234</td><td>0.4433</td><td>0.4323±0.0101</td></tr><tr><td>LRG-1 (50 μg/mL)</td><td>0.6155</td><td>0.6153</td><td>0.6250</td><td>0.6186±0.0055</td></tr><tr><td>VEGF (10 ng/mL)</td><td>0.5278</td><td>0.5363</td><td>0.5118</td><td>0.5253±0.0124</td></tr><tr><td>F</td><td></td><td></td><td></td><td>1103.012</td></tr><tr><td>P</td><td></td><td></td><td></td><td>0.000</td></tr></table></body></html>
+
+# 2.5LRG-1对HUVEC小管生成的影响
+
+体外小管形成实验结果表明LRG-1能够促进HUVEC的体外小管形成。且随着LRG-1浓度的升高，小管数目逐渐增多，且结构也变得紧密完整(图4)。
+
+![](images/2648a3997e4593660266569c2faa30e990dfd4dbe235519e7496ecc41083d837.jpg)  
+图4LRG-1对HUVEC小管形成的影响 Fig.4Effect of LRG-1 on tube formation of HUVECs (Original magnification: $\times 4 0 0$ ).A:LRG-1 $\mathrm { \langle 5 0 ~ \mu g / m L }$ B:LRG-1 $( 4 0 \mu \mathrm { g / m L } )$ ;C:LRG-1 $( 2 0 \mu \mathrm { g / m L } ,$ ： $D$ ：LRG-1 $( 1 0 \mu \mathrm { g / m L } )$ ;E:LRG-1 $( 5 \mu \mathrm { g } / \mathrm { m L } )$ ;F:Negative control.
+
+# 3讨论
+
+1977年Haupt和Baundner从人血清中分离出LRG1，并在1985年又决定了它的氨基酸序列。LRG-1是富亮氨酸重复序列(LRR)家族的一员["]，LRRs通常在细胞黏附、生存、信号转导及基因修复、重组、转录等过程中发挥重要作用[12]。它在骨髓造血时表达，尤其在中性粒细胞系分化时表达较高[13]。LRG-1在正常人血浆中的浓度为 $2 1 { \sim } 5 0 \ \mu \mathrm { g / m L } ^ { [ 1 4 - 1 5 ] } ,$ 。近年来,有研究发现,LRG-1的异常表达与多种组织恶性肿瘤的发病有关，如肝癌4、胰腺癌5卵巢癌肺癌1和结直肠癌8等，并且LRG-1在这些肿瘤中表达均上调最新研究发现，LRG-1能够促进血管生成,尤其是异常血管的生长。LRG-1通过结合到其辅助受体endoglin(ENG)，从而激活TGF-β血管生成的开关,这使得TGF- $\beta$ 信号远离维持正常血管的信号通路，转向了促进有害血管生成的方向，活化了促血管生成信号TGF- $\beta$ R-Ⅱ,进而招募内皮TGF- $\beta$ R-I激活素受体样激酶-1(ALK-1)，而ALK-1反过来又能够启动激活转录因子Smad1,5和8，从而发挥其促进血管生成的作用[17]。众所周知,血管生成是一个重要的生物学过程，是发育、生殖以及损伤组织修复的必要条件。然而，异常的血管生成在多种疾病如肿瘤中发挥着重要的作用。以肿瘤中的血管生成为例，良性肿瘤血管生成稀少，血管生长缓慢;而大多数恶性肿瘤的血管生成密集且生长迅速。因此，血管生成在肿瘤的发生、发展以及转移的过程中发挥着极为关键的作用[18]以此推测LRG-1在肿瘤的发生、发展中发挥重要作用。
+
+舌癌是口腔颌面部最为常见的恶性肿瘤，有研究表明口腔鳞癌中约为 $6 1 . 4 \%$ 为舌癌。尽管采用了扩大根治性手术和辅助放射治疗，但治疗效果欠佳，最常见的情况是局部、区域性复发和远处转移。有研究表明舌癌一旦复发,预后很差,3年生存率不足 $2 5 \% ^ { [ 1 9 ] }$ 。目前多数学者认为，舌癌的发生、发展与肿瘤细胞中的基因表达调控异常有关。在目前现有的治疗方法基础上，探索安全有效的基因治疗，有望进一步提高口腔鳞癌的综合治疗效果。
+
+本研究发现LRG-1在浸润性舌癌组织及舌癌细胞系Tca8113中呈高表达，在舌部不典型性增生组织及舌原位癌中的表达较浸润性舌癌组织低，LRG-1在浸润性舌癌组织中的表达与患者年龄、性别等不相关，而与组织分化程度、临床分期及淋巴结转移有相关性，组织分化程度越低和临床分期越高的舌癌组织中LRG-1的表达越高，发生淋巴结转移的舌癌组织中LRG-1的表达较未转移的高。Kakisaka等5发现胰腺癌患者血浆中LRG-1浓度较正常人高，故推测LRG-1对胰腺癌的临床诊断有重大意义。Smith等研究发现女性卵巢癌患者血清及肿瘤组织中LRG-1含量较正常女性高，故推测卵巢癌细胞分泌LRG-1致使卵巢癌患者血清LRG-1浓度升高，进一步的研究将证明LRG-1可能作为诊断卵巢癌的一个生物标志。因此，我们可以得出：LRG-1可能在舌癌的发生过程中发挥重要作用，可作为诊断舌癌的一个辅助指标。本研究还发现，LRG-1能够促进血管内皮细胞的增殖和小管形成，因此可以初步推测LRG-1可能促进血管生成。
+
+综上所述，LRG-1在舌癌组织中表达升高，推测其可作为诊断舌癌的一个辅助指标。LRG1能够促进血管内皮细胞的增殖和小管形成,推测其可能促进肿瘤血管的形成。血管生成在肿瘤的发生、发展及转移的过程中发挥着极为关键的作用，故推测LRG-1在肿瘤的发生、发展中意义重大，具体机制有待于进一步研究。研究舌癌中LRG-1的表达及其生物学作用，可为舌癌的生物治疗提供依据，并为其治疗提供新的靶点。
+
+# 参考文献：
+
+[1]Jung DW,Che ZM,Kim J,et al. Tumor-stromal crosstalk in invasion of oral squamous cell carcinoma:a pivotal role of CCL7 [J].Int JCancer, 2010,127(2): 332-44.   
+[2]Seo BY,Lee CO,Kim JW. Changes in the management and survival rates of patients with oral cancer: a 3O-year single-institution study [J].JKorean Assoc Oral Maxillofac Surg,2016,42(1): 31-7.   
+[3]Rivera C,Venegas B.Histological and molecular aspects of oral squamous cell carcinoma (Review)[J]. Oncol Lett,2014,8(1): 7-11.   
+[4]He X,Wang Y, Zhang W, et al. Screening differential expression of serumproteinsin AFP-negative HBV-related hepatocellular carcinoma using iTRAQ-MALDI-MS/MS[J].Neoplasma, 2013,61 (1): 17-26.   
+[5]Kakisaka T,Kondo T,Okano T,et al．Plasma proteomics of pancreatic cancer patients by multi-dimensional liquid chromatography and two-dimensional difference gel electrophoresis (2D-DIGE):up-regulation of leucine-rich alpha-2-glycoprotein in pancreatic cancer[J].J Chromatogr B Analyt Technol Biomed Life Sci,2007,852(1/2): 257-67.   
+[6]Smith CR,Batruch I, Bauga JM,et al. Deciphering the peptidome of urine from ovarian cancer patients and healthy controls[J].Clin Proteomics,2014,11(1): 23.   
+[7] Guergova-Kuras M, Kurucz I, Hempel W, et al. Discovery of lung cancer biomarkersby profiling the plasma proteomewith monoclonal antibody libraries[J].Mol Cell Proteomics,2011,10 (12): M111.010298.   
+[8]Ladd JJ,Busald T,Johnson MM,et al. Increased plasma levels of the APC-interacting protein MAPRE1，LRG1，and IGFBP2 preceding a diagnosis of colorectal cancer in women[J].Cancer Prev Res (Phila),2012,5(4): 655-64.   
+[9]Wang X，Abraham S,Mckenzie JA，et al. LRGl promotes angiogenesis by modulating endothelial TGF $\boldsymbol { \beta }$ signalling [J]. Nature,2013,499(7458): 306-11.   
+[10]Ucuzian AA, Greisler HP. In vitro models of angiogenesis[J]. World J Surg,2007,31(4): 654-63.   
+[11]Ng AC,Eisenberg JM,Heath RJ,et al. Human leucine-rich repeat proteins:a genome-wide bioinformatic categorization and functional analysis in innate immunity[J].Proc Natl Acad Sci USA, 2011,108(Suppl 1): 4631-8.   
+[12]Kobe B,Deisenhofer J. Proteins with leucine-rich repeats[J].Curr Opin Struct Biol,1995,5(3): 409-16.   
+[13]O'donnell LC,Druhan LJ,Avalos BR.Molecular characterization and expression analysisof leucine-rich alpha2-glycoprotein，a novel marker of granulocytic differentiation[J].JLeukoc Biol, 2002, 72(3): 478-85.   
+[14]Haupt H, Baudner S.Isolation and characterization of an unknown, leucine-rich 3.1-S-alpha2-glycoprotein from human serum (author's transl)[J].Hoppe Seylers Z Physiol Chem,1977,358(6): 639-46.   
+[15]Weivoda S,Andersen JD, Skogen A,et al. ELISA for human serum leucine-rich alpha-2-glycoprotein-1 employing cytochrome c as the capturing ligand[J].JImmunol Methods,2008,336(1): 22-9.   
+[16]习臻畅,张坚松.LRG1基因在肝细胞癌中的表达情况研究[J].湖南师 范大学学报:医学版,2015,12(2):24-7.   
+[17]刘兆国,范方田,赵林钢,等.肿瘤血管生成新靶点LRG1研究进展[J]. 中国药理学通报,2014,30(1):6-9.   
+[18]Treps L, Gavard J. Tumor angiogenesis: when the Tree of Life turns bad[J].Med Sci (Paris),2015,31(11): 989-95.   
+[19]Sun GW,Tang EY, Yang XD,et al. Salvage treatment for recurrent oral squamous cell carcinoma[J].J Craniofac Surg,20o9,20(4): 1093-6. (编辑.孙昌明)

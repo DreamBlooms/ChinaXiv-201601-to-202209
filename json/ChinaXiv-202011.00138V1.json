@@ -1,0 +1,341 @@
+[
+    {
+        "type": "text",
+        "text": "Changes in rainfall partitioning caused by the replacement of native dry forests of Lithraea molleoides by exotic plantations of Pinus elliottii in the dry Chaco mountain forests, central Argentina ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Samia S CORTES1, Juan I WHITWORTH-HULSE23, Eduardo L PIOVANO', Diego E GURVICH, Patricio N MAGLIANO3.4\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Land Science Research Center(CICTERRA-CONICET)and National University of C6rdoba,Av. Velez Sarsfield 1611, X5016GCA C6rdoba, Argentina;   \nMultidisciplinaryInstituteofPlantBiology,National UniversityofC6rdobaandCONCET,CC495,X50CCrdoba, Argentina;   \nEnvironmentalStudyGroup,InstituteofApledMathsofSanLuis,National UniversityofSanLuisandCONICET,Ejercito de los Andes 950, D5700HHW San Luis,Argentina;   \n4 DepartmentofBology,FacultyofChemistry,iochemistryandPharmacyNational UnversityofSanLuis,Ejercitodelos Andes 950, D5700HHW San Luis,Argentina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The replacement of native dry forests by commercial (exotic) tree plantations could generate changes in rainfallpartitioning, which further affects the water cycle. In this study, we determined (i) the rainfall partitioning into interception, throughfall and stemflow, (i) the role of rainfall event size on rainfall partitioning, (ii) the $\\mathrm { p H }$ of water channelized as throughfall and stemflow, and (iv) the runoff in Litbraea moleoides (a native species)and Pinus elloti (an exotic species) stands in the dry Chaco mountain forests, central Argentina. On average, interception, throughfall and stemflow accounted for $1 9 . 3 \\%$ 。 $7 9 . 5 \\%$ and $1 . 2 \\%$ of the gross rainfall in $L .$ molleoides stand,and $3 2 . 6 \\%$ 。 $6 6 . 7 \\%$ and $0 . 7 \\%$ of the gross rainfall in $P .$ elliotti stand,respectively. Amounts of interception， throughfall and stemflow presented positive linear relationships with the increment of rainfall event size for both tree species $\\scriptstyle { \\sqrt { P < 0 . 0 1 } }$ in all cases). Percentages of interception, throughfalland stemflow were allrelated to the increment of rainfall event size, showing different paterns. With increasing rainfall event size, interception exponentially decreased, throughfall asymptotically increased and stemflow linearly increased. Both $P .$ elliottii and $L .$ molleoides stands presented significant differences in the $\\mathrm { \\ p H }$ values of water channelized as throughfall (6.3 vs. 6.7, respectively; $P { < } 0 . 0 1 \\$ ） and stemflow (4.5 vs. 5.8, respectively; $P { < } 0 . 0 1$ ). Runoff occupied only $0 . 3 \\%$ of the gross rainfall in $P .$ elliotii stand and was zero in $L .$ molleoides stand. Our results showed that the native species $L .$ molleoides presented $1 3 . 6 \\%$ more water reaching the topsoil (i.e.， net rainfall; net rainfall $\\circeq$ gross rainfall-interception-runoff) than the exotic species $P .$ elliotii. This study improves our understanding of the effects of native vegetation replacement on the local water balance in the dry forest ecosystems. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: drylands; ecohydrology; land use changes; spatial heterogeneity; water-limited environments ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Dry forests cover approximately $16 \\%$ of the global land surface (Olson et al., 20o1) and represent one of the most threatened ecosystems (Hoekstra et al., 2Oo5). These forests influence on the rainfall pathway from the canopy to the soil surface, and also from the top soil to the groundwater zone and streamflow (Ellison et al., 2O17; Sadeghi et al., 2O20). Several studies highlighted that hydrological processes are sensible to land cover changes (e.g., native dry forests replacement by exotic plantations) by altering the liquid and vapor fluxes of the water balance (Fahey et al., 2001; Eberbach, 2OO3; Reichert et al., 2O17). Exotic plantations have been largely expanded around the world,generating justified concern about their impacts on water resources， particularly in drylands (Richardson and Rejmanek, 2011; Sadeghi et al., 2016; Whitworth-Hulse et al., 2020). Therefore, addressing the ecohydrological relations between rainwater inputs and vegetation attributes becomes an important issue that may influence the water resource management and native forest sustainability in the long run. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Dry forest canopy regulates the quantity and quality (e.g., chemical properties) of water reaching the soil surface by partitioning rainfall into interception, throughfall， stemflow and runoff (Lilienfein and Wilcke, 2004; Raz-Yaseef et al., 2010; Fan et al., 2O15; Magliano et al., 2016). In general terms, the relatively contributions of throughfall, interception, stemflow and runoff to the gross rainfall are $> 6 0 . 0 \\%$ ， $< 3 0 . 0 \\%$ ， $< 1 0 . 0 \\%$ and ${ < } 5 . 0 \\%$ ， respectively (Levia and Frost, 2003; Llorens and Domingo, 2007; Nouwakpo et al., 2016; Magliano et al.， 2019a). Interception represents the fraction of rainwater that is retained on the canopy and then evaporated (Dunkerley 2OOO; Fan et al., 2O14); and therefore, this flux shows a negative effect on plant water consumption (Navar and Bryan, 199O; Magliano et al.， 2019b). In contrast, the remaining rainfall amount reaches the ground as throughfall and/or stemflow (Zheng et al., 2018, 2019). Throughfall is the fraction of water transfers to the ground through the canopy gaps without hitting the canopy surfaces or through dripping from the leaves and branches (Zhang et al., 2019; Whitworth-Hulse et al.， 2020). Furthermore, this flux contributes to the spatial distribution of soil water, particularly in the top soil layers (Shachnovich et al., 2OO8; Zhang et al., 2016). Stemflow delivers rainwater to the ground around the base of shrubs and trees, and channels water to the root zone, remaining available for its absorption (Li et al., 2O08; Levia and Germer, 2015; Yuan et al., 2019; Zhang et al., 2020). Meanwhile, the fraction of rainfall that reaches the soil surface, but not infiltrates, contributes to the runoff flux, which is considered a net water loss at the stand scale (Wilcox et al., 20O3; Ludwig et al., 2005). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "From a perspective of increasing (or at least not decreasing) net primary production of dry forest ecosystems, it is desirable that interception and runof remain as low as possible. However, the ecohydrological impacts attributed to the replacement of high diverse native vegetation by mono-specific exotic plantations involve the increment of those two fluxes (Farley et al., 2005; Nosetto et al., 2O12; Reichert et al., 2O17). For instance, plantations of Pinus nigra and Pinus halepensis intercept approximately $50 \\%$ of the rainfall (Llorens and Domingo, 2OO7; Molina and del Campo, 2012). In the case of soil surface runoff, Kothyari et al. (2004) found a positive response between this flux and rainfall event size in coniferous plantations from Central Himalaya, attributing the results to the simplified structure of the exotic vegetation. Furthermore, recent studies highlighted that the water quality of throughfall and stemflow under plantations is also modified in terms of chemical properties (Kothyari et al., 2O04; Hervé-Fernandez et al., 2016). For example, Leiva and Frost (2OO3) reported that the $\\mathrm { \\ p H }$ of throughfall is lower under coniferous canopies than under deciduous or mixed conifer-deciduous canopies. It is worth mentioning that the decrease in the $\\mathrm { \\ p H }$ values of soils (i.e., acidification) alters the mobility of some nutrients, and therefore may afect plant growth of some species (Certini et al., 1998; Silva and Rodriguez, 20o1; Lilienfein and Wilcke, 2004). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The dry mountain forests of Chaco, expanding over $1 . 0 { \\times } 1 0 ^ { 6 } ~ \\mathrm { k m } ^ { 2 }$ ,are the second-largest forest extension in South America after the Amazonia (Houspanossian et al., 2O16). This region is one of the few dry forests in the world that still conserves a large proportion (about $7 0 . 0 \\%$ ）of its native vegetation (Baldi and Jobbagy， 2O12). Nonetheless， land cover change rates have sped up dramatically in the last two decades, reaching top records in comparison to the global pattrn (Hansen et al., 2O13). The most common land cover change is the replacement of native forests by extensive croplands in the plain landscapes and by exotic Pinus spp. plantations in the mountainous areas (Gasparri and Baldi, 2013; Hoyos et al.， 2013; Jobbagy et al.， 2013). In particular, the ecohydrological changes caused by the implantation of exotic trees in the mountainous areas of central Argentina can involve not only variations in net primary production dynamics, but also a decrease in the water yield of permanent and ephemeral rivers affecting water provision for people that live in those areas (Dorado et al., 1997; Jobbagy et al., 2008, 2013). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this study, (i) the rainfall partitioning into interception, throughfall and stemflow, (i) the role of rainfall event size on rainfall partitioning, (ii) the $\\mathrm { p H }$ of water channelized as throughfall and stemflow, and (iv) the runoff, were determined in native and exotic forest stands of Lithraea molleoides and Pinus elliotii, respectively, in the dry Chaco mountain forests (central Argentina). So far, there is no evidence about the role that rainfall partitioning has on this threatened region, where vegetation is rapidly and massively being replaced. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2Study area and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Studyarea ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This study was carried out in the dry Chaco mountain forests of C6rdoba Province, central Argentina $( 3 1 ^ { \\circ } 5 0 ^ { \\prime }  – 3 1 ^ { \\circ } 5 8 ^ { \\prime } \\mathrm { S }$ $6 4 ^ { \\circ } 5 7 ^ { \\prime } { - } 6 4 ^ { \\circ } 5 9 ^ { \\prime } \\mathrm { W }$ ; 1078-118O m a.s.l.; Fig. 1a). The landscape matrix involves a mosaic of vegetation physiognomies, highlighting the native dry forests mainly dominated by $L$ ，molleoides, exotic trees, shrubs and grasses (Giorgis et al., 2O17; Oyarzabal et al., 2018). The major drivers of this mosaic pattern are the fire regime, high rates of logging, overgrazing and spread of exotic plant species (Gavier and Bucher, 2OO4). In the last four decades, native forests and shrublands have been replaced by commercial (exotic) mono-specific tree plantations of Pinus spp. (Hoyos et al.， 2013; Jobbagy et al., 2013). The study area is characterized by a semi-arid climate with the ratios of precipitation to reference evapotranspiration between 0.40-0.65 (Trabucco and Zomer, 2009). Specifically, in the field stands,mean annual precipitation is $5 7 6 \\ \\mathrm { m m }$ and mean annual potential evapotranspiration is around $1 4 0 0 ~ \\mathrm { \\ m m }$ (National Meteorological Service of Argentina; https://www.smn.gob.ar/). About $8 1 \\%$ of rainfall events are concentrated in the spring-summer season from October to April (Magliano et al., 2015). The soils are Lithic Torriorthents (Pennington et al., 2OOo; Karlin et al., 2013) and slopes are determined by the topographic position in the mountains, presenting typical values of $10 \\% - 1 5 \\%$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2Experimental design and data collection ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The experiment was conducted on two representative mature dry forest stands ( $( 6 0 ~ \\mathrm { m } { \\times } 6 0 ~ \\mathrm { m }$ for each), one covered by the native species $L .$ . molleoides and the other covered by the exotic species $P .$ elliotti (Shachnovich et al., 2008; He et al., 2014; de Queiroz et al., 2020). Both stands had the same biophysical conditions except for the woody vegetation composition and structure (Fig. 1b and c). Field measurements took place from 2 June 2015 to 3 October 2016. Leaf area index values were 1.6 and 2.4 for $L .$ molleoides and $P .$ elliottii stands, respectively, while mean height values were 10.4 and $2 0 . 6 \\mathrm { ~ m ~ }$ for the two stands, respectively. Both tree species are evergreen and rough-barked; specifically, $L .$ molleoides has pinnate leaves and low branch inclination angles and $P .$ elliottii has needle-leaves with branches horizontally orientated. We measured stemflow with collectors at 1O individual trees $( n { = } 1 0 )$ and determined throughfall using three randomly located gutters with an open surface of $0 . 9 \\mathrm { \\ m } ^ { 2 }$ for each one $\\scriptstyle ( n = 3 )$ . It is worth mentioning that large-size fixed guters are particularly good at obtaining the amount of throughfall (the aim of our study), but they cannot capture the spatial variation of throughfall. We determined interception as the difference among gross rainfall, stemflow and throughfall according to the description of Zhang et al. (2O15). Furthermore, we measured runoff by installing one rectangular plot ( $2 0 ~ { \\mathrm { m } } { \\times } 5 ~ { \\mathrm { m } } { = } 1 0 0 ~ { \\mathrm { m } } ^ { 2 } ,$ ） per forest stand. Each plot presented an average slope of $11 \\%$ . We obtained stemflow, throughfall, interception and runoff amounts for each rainfall event, and converted each mean value to the percentage of the gross rainfall for each event. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/960dcd8a33332b60ed0f1c6d95dc5dc25ac629239c4aab9e97e0870743d2d6d9.jpg",
+        "img_caption": [
+            "Fig.1Location of the study site, experimental design and field measurements. (a),location of the study site in the dry Chaco mountain forests (CMF) of Cordoba Province,central Argentina; (b), photo taken at field that showsthe exotic tree plantationsofPinuseliotti (behind)and thenativedryforestsofLithraea molleoides (in the front; the doted line separates the two vegetation covers); (c), schematic representation of the experimental design of one forest stand with the corrsponding field measurements: stemflow (S) in trees (blue circles; $n { = } 1 0$ )， gutters to measure throughfall (T) (green lines; $\\scriptstyle n = 3$ ) and runoff (R) plot (orange shape; $\\scriptstyle n = 1$ ); (d), measurement of stemflow; (e), measurement of throughfall; (f),measurement of runoff. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We calculated each rainfall event size by averaging three manual rain gauges situated in open canopy areas, i.e., three gauges in $L .$ molleoides stand and three in $P .$ elliottii stand. A rainfall event was defined as a rainfall period from preceding and succeeding rainfall being separated by at least $2 4 \\mathrm { h }$ without rainfall. During the study period, we measured 25 and 23 individual rainfall events in $L$ molleoidesand $P .$ elliottii stands, respectively. It should be noted that not all the rainfall events were measured simultaneously at both stands, that is to say, some rainfall events were measured only in one stand and some in another one. We determined the $\\mathrm { p H }$ values of stemflow and throughfallsamples at five rainfall events according to the method of Bates (1964). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Stemflow was collected with a plastic collar wound round the tree trunk at $1 . 3 \\mathrm { ~ m ~ }$ height, and drained through a rubber pipe to a graduated tank of $2 0 \\mathrm { L }$ , which was emptied after each stemflow measurement (Fig. 1d). The height and basal area of each tree were measured with a graduated telescopic stick and a specially calibrated tape, respectively. The projected canopy area was determined as a circumference by measuring the canopy diameter. At each rainfall event, stemflow was determined for each individual tree and then averaged ( $\\scriptstyle \\overbrace { n = 1 0 }$ trees） using the following equation: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { { S = S V / P C A , } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where S is the stemflow depth (cm); SV is the stemflow volume $( \\mathrm { c m } ^ { 3 } )$ ; and PCA is the projected canopy area $( \\mathrm { c m } ^ { 2 } )$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Throughfall gutters were installed under the canopy and placed $1 . 0 \\mathrm { m }$ above ground (Fig. 1e). Each gutter was connected to a graduated tank collector of $2 0 0 \\mathrm { ~ L ~ }$ , which was emptied after each throughfall measurement. Throughfall at each rainfall event was determined using Equation 2: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { T } = \\sum \\mathrm { T V } / n \\times \\mathrm { G R A } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathrm { \\Delta T }$ is the throughfall depth (cm); TV is throughfall volume $( \\mathrm { c m } ^ { 3 } )$ for each gutter; $n$ is the number of gutters installed under the canopy; and GRA is the gross rainfall area of each gutter $( \\mathrm { c m } ^ { 2 } )$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Interception at each rainfall event was calculated by Equation 3: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { I } = \\mathbf { G } \\mathbf { R } - \\mathbf { S } - \\mathbf { T } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where I is the interception (cm); GR is the gross rainfall in an open canopy area (cm); S is the stemflow depth (cm); and $\\mathrm { \\Delta T }$ is the throughfall depth (cm). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Runoff plots were constructed with zinc metal sheets that were buried $1 0 \\ \\mathrm { c m }$ from the soil surface and protruded $1 0 \\ \\mathrm { c m }$ from it (Fig. 1f). Each plot was connected to a graduated tank collector of $2 0 0 \\mathrm { ~ L ~ }$ (Whitworth-Hulse, 2O18). The tank collectors were emptied after each runoff measurement. Runoff at each rainfall event was determined using Equation 4: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { R = G R V / P A , }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where R is the runoff depth (cm); GRV is the gross rainfall volume collected in the plot $( \\mathrm { c m } ^ { 3 } )$ and PA is the area of the plot $( \\mathrm { c m } ^ { 2 } )$ . ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 Data analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Descriptive statistics were computed for rainfall partitioning fluxes (e.g., the amount and percentage values of interception, throughfall and stemflow),and $\\mathrm { p H }$ analysis (in the cases of throughfall and stemflow). $T .$ -tests were performed to determine statistical differences between both tree species assuming a significance level of O.O5. Linear and nonlinear regression models were performed to determine the relations of rainfall event size with interception, throughfall and stemflow (amount and percentage values). Akaike's information criterion was used to obtain the fitted equation of each relationship performed (Akaike, 1974). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The replacement of native dry forests of $L .$ molleoides by exotic tree plantations of $P .$ elliottii generated changes in the amount and quality of rainfal that reached the ground. More specifically, rainfall partitioning into interception, throughfall and stemflow presented significant differences between $L .$ molleoides and $P .$ elliottii stands (Fig. 2). Interception was higher in $P .$ elliottii stand than in $L$ molleoides stand ( $3 2 . 6 \\%$ vs. $1 9 . 3 \\%$ , respectively; $\\scriptstyle P = 0 . 0 3$ ), while throughfall showed the opposite pattern ( $7 9 . 5 \\%$ vs. $6 6 . 7 \\%$ in $L .$ molleoides and $P .$ elliottii stands, respectively; $P { = } 0 . 0 3 )$ ） Although stemflow was $5 8 . 0 \\%$ higher in $L .$ molleoides stand than in $P .$ Elliottii stand $_ { ( P = 0 . 0 5 ) }$ ,it represented a very small flux in both cases ( $1 . 2 \\%$ vs. $0 . 7 \\%$ in $L .$ molleoides and $P .$ elliottii stands, respectively). In $L$ ， molleoides stand， interception was the most variable flux, followed by stemflow (coefficient of variations (CVs) of $9 0 . 7 \\%$ and $7 4 . 0 \\%$ , respectively); while in $P .$ ellioti stand, stemflow was the most variable flux, followed by interception (CVs of $1 1 1 . 4 \\%$ and $7 7 . 7 \\%$ ， respectively). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Amounts and percentages of interception, throughfall and stemflow as a function of rainfall event size in $L .$ molleoides and $P .$ elliottii stands are shown in Figure 3. Interception, throughfall and stemflow amounts presented positive linear relations with rainfall event size in $L .$ molleoides and $P .$ elliottii stands( ${ \\it P } { < } 0 . 0 1$ in all cases; Fig. 3a, c and e). The significant response of interception to rainfall event size was higher in $P .$ elliottii stand than in $L$ molleoides stand (slopes of 0.22 and O.13, respectively; Fig. 3a). Throughfall and stemflow presented the opposite pattern, and their response to rainfall event size was higher in $L .$ molleoides stand than in $P .$ elliottii stand. The slopes of throughfall variation were O.92 and O.82 in $L$ ，molleoides and $P .$ elliottii stands, respectively (Fig. 3c), while the slopes of stemflow variation were O.03 and 0.01 in $L .$ molleoides ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6cc9bd4b03f00ab760c489e94348bda23a9a955f2514f0a75013a20ec2d517ba.jpg",
+        "img_caption": [
+            "Fig. 2Rainfall partitioning into interception, throughfall and stemflow in $L .$ molleoides and $P .$ elliottii stands. Vertical bar represents standard error. \\* means significant differences between the two species at $P { < } 0 . 0 5$ level. ",
+            "Fig. 3 Amounts (a, c, e) and percentages (b,d,f)of interception, throughfall and stemflow as a function of rainfall event size in $L$ molleoidesand $P .$ elliottii stands "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "25-(a) 100(b) L.molleoidesy=0.13x;R²=0.18 L. molleoides   \n(irr rnne nrnnoranrm 20- P.elliottii y=0.22x;R²=0.31 rreeeeerees 80 X X y=119.1e-0.22x+7.4; R²=0.59 -\\*.P.elliottii X y=72.1e-0.16x+22.5;R²=0.35 15 60 X 10 40 X ×X + . 5 1 X 20 . \\*x X X 0 0 O 1 1 0 15 30 45 60 75 0 15 30 45 60 75 75-(c) 100-(d) ： C X   \nganiearrnrnnm rreeeeegrea ? X 60- 80 . 45 X X 60 ×× T\\*+- 30 40 . X . L. molleoides 15 X 20 y=105.0x/(x+3.9);R²=0.50 × X -\\*: P. elliottii y=86.1x/(x+4.1); R²=0.36 妥 × 1 0 1 1 0 15 30 45 60 75 0 15 30 45 60 75 1.5-(e) 5-(f) . L.molleoidesy=0.03x-0.02;R²=0.90 L. molleoides   \n(tir nnninr mionnm \\*P.elliottii y=0.01x-0.01;R²=0.79 ( eeee eeees 4 y=0.06x+0.15;R=0.57 y=0.03x-0.06;R²=0.62 1.0- . X 6 3 X X 2 0.5 . x X X 1 X X X X × 义 × 0.0- xepec 0 x 1 1 0 15 30 45 60 75 0 15 30 45 60 75 Rainfall event size (mm) Rainfall event size (mm) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "and $P .$ elliottii stands, respectively (Fig. 3e). The rainfallthreshold values for stemflow generation were 6.1 and $8 . 4 ~ \\mathrm { m m }$ in L. molleoides and $P .$ elliottii stands, respectively. Interception, throughfall and stemflow percentages were also associated with rainfall event size, displaying different paterns (Fig. 3b, d and f). Interception decreased exponentially with increasing rainfall event size for both tree species,with the lowest value in $L$ .molleoides stand (Fig. 3b). Throughfall increased asymptotically with increasing rainfall event size for both tree species, with the highest value in $L .$ molleoides stand (Fig. 3d). Stemflow linearly increased with increasing rainfall event size, presenting a higher slope in $L .$ molleoides stand (Fig. 3f). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The $\\mathrm { \\ p H }$ of water channelized as throughfall and stemflow was lower (more acid) in $P .$ elliottii stand than in $L .$ molleoides stand ( $_ { \\scriptstyle P < 0 . 0 1 }$ ; Fig. 4). In the case of throughfall, $L$ ，molleoides stand presented an average $\\mathrm { p H }$ of 6.7, while $P .$ elliottii stand exhibited an average $\\mathrm { p H }$ of 6.3. Regarding the stemflow, the $\\mathrm { \\ p H }$ values were 5.8 and 4.5 in $L .$ molleoides and $P .$ elliottii stands, respectively. So, the $\\mathrm { \\ p H }$ values of water channelized as stemflow were $1 4 . 0 \\%$ and $2 9 . 0 \\%$ lower than those of water channelized as throughfall in $L .$ molleoides and $P .$ elliottii stands, respectively. In other words, rainfall became more acid when it was funnelled by the stem than when it crossed the branches and leaves via throughfall, especially in $P .$ elliotti stand. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f94a203907a292cddc540097ffdf690d16746d4d95f9961b94527b88e4ebab9.jpg",
+        "img_caption": [
+            "Fig. 4 The $\\mathrm { \\ p H }$ values of water channelized as throughfall and stemflow in $L$ ，molleoidesand $P .$ elliottii stands. Vertical bar represents standard error ( $\\scriptstyle { n = 5 }$ rainfall events). $* *$ and $* * *$ mean significant differences between the two tree stands at $P { < } 0 . 0 1$ and $P { < } 0 . 0 0 0 1$ levels, respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Runoff occupied $0 . 3 \\%$ of the gross rainfall in $P .$ elliottii stand and was zero in $L$ ，molleoides stand. These values were very low even considering the occurrence of single rainfall event larger than $3 0 ~ \\mathrm { m m }$ during the study period. So, it can be assumed that the amount of water that reaches the topsoil was mainly affected by canopy interception losses. As a result of the sum of al rainfall eventsmeasured intheexperiment, thetotal net rainfall(netrainfall $\\ c =$ gross rainfall-interception-runoff) was $8 0 . 7 \\%$ and $6 7 . 1 \\%$ in $L .$ molleoides and $P .$ elliottii stands, respectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Rainfall partitioning into interception, throughfall, stemflow and runoff plays a key role in dry forests, regulating the amount and quality of water inputs (Carlyle-Moses, 2OO4; Loik et al., 2004; Zhang et al., 2O15). Evaluating the quantitative importance of canopy interception losses is a crucial issue in terms of water availability in drylands where soil moisture is a limiting factor. Our results showed that the replacement of native dry forests of $L$ ，molleoides by exotic tree plantations of $P .$ elliottii generated a significant increment in the interception losses and also a reduction of throughfall and stemflow fluxes (Figs. 2 and 3), diminishing the rainwater that reaches the topsoil. Moreover, the pH values of water channelized as both throughfall and stemflow were lower in $P .$ elliottii stand than in $L$ molleoides stand (Fig. 4). It is important to mention that the higher canopy interception losses of $P .$ elliottii stand can be assumed as less water available for transpiration, which may negatively impact on the net primary productivity. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "From an ecohydrological perspective, the replacement of native vegetation by mono-specific tree plantations can introduce changes in evapotranspiration (directly related to net primary productivity) and water yield of the permanent rivers. Our results showed that $P .$ elliottii plantations presented $1 3 . 6 \\%$ less water reaching the topsoil than $L$ molleoides plantations, suggesting that net primary productivity should be lower. However, we further evaluated the annual temporal dynamics of Normalized Diference Vegetation Index (NDVI) as a surrogate of evapotranspiration or net primary productivity (Fensholt et al., 2O04; Nosetto et al., 2012) and found an opposite patern. The result shown in Figure 5 indicated that on average of the whole year, NDVI of $P .$ elliottii stand was $1 1 . 0 \\%$ higher than that of $L .$ molleoides stand $( P { < } 0 . 0 1 )$ . This contradiction (lower net rainfall but higher NDVI of $P .$ elliottii stand) can be explained by the reduction of water yield of the main permanent river of the watershed. A previous research measured the river flow before (upland) and after (lowland) the $P .$ elliottii plantations, and found a reduction of $56 . 0 \\%$ in water yield (Cortés, 2O18). These results are consistent with other studies conducted in another watershed of the same area,as well as, in similar environments worldwide (Farley et al.， 2005; Llorens and Domingo, 2007; Jobbagy et al.， 2008, 2013). Jobbagy et al. (2013), for example, suggested a decreasing of $4 8 . 0 \\%$ of water yield caused by the replacement of native grasslands by exotic $P .$ elliottii plantations in the eastern slope of the Córdoba Mountains, Argentina. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e182187b5061744ba96e716b7bac27aa6166bc5086293428ddb6a7b9f6a403ae.jpg",
+        "img_caption": [
+            "Fig.5Intra-annual temporal dynamics of Normalized Difference Vegetation Index (NDVI) in L. molleoides and P. elloti stands. NDVI data were derived from MODIS imagery (MOD13Q1 V6 product)and downloaded from the Oak Ridge National Laboratory Distributed Active Archive Center (https://modis.ornl.gov/globalsubset/). Data were corresponded to two stand sites (each area of $2 5 0 \\ \\mathrm { m } { \\times } 2 5 0 \\ \\mathrm { m }$ ）where the field measurementswere carried out: L. molleoides site $( 3 1 ^ { \\circ } 5 4 ^ { \\prime } 0 8 ^ { \\prime \\prime } \\mathrm { S }$ ， $6 4 ^ { \\circ } 5 8 ^ { \\prime } 1 0 ^ { \\prime \\prime } \\mathrm { W } )$ and $P .$ elliottii site $( 3 1 ^ { \\circ } 5 8 ^ { \\prime } 4 9 ^ { \\prime \\prime } \\mathrm { S }$ ， $6 4 ^ { \\circ } 5 9 ^ { \\prime } 1 9 ^ { \\prime \\prime } \\mathrm { W }$ ).Each circular marker represents the mean value ( $\\scriptstyle \\overbrace { n = 1 0 }$ a) and vertical bar represents standard error. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Previous studies focused on Pinus spp. plantations showed that interception, throughfall and stemflow accounted for, on average, $2 6 . 7 \\%$ ， $7 0 . 6 \\%$ and $2 . 8 \\%$ of the gross rainfall, respectively (Table 1). Our results showed that interception losses were higher while both throughfall and stemflow were lower than those mean values.However, the values of this study were very similar with those of van Stan et al. (2O17), who also focused their study on $P .$ elliottii plantations (Table 1). In addition, the $\\mathrm { \\ p H }$ values of plantations in previous studies also presented similar magnitudes with the results of our study (Certini et al., 1998; Silva and Rodriguez, 2O01; Lilienfein and Wilcke,2OO4). In this sense, soil acidification has been reported in coniferous forests as a result of rainfall pathway from the canopy to the ground via throughfall and stemflow (Qualls, 2020). Acidification process may increase the aluminum concentrations in the soil solution， and therefore might negatively affect the mobility of essential nutrients for plant growth (Wright, 1989; Kochian, 1995). Regarding rainfall redistribution in $L$ molleoides forests, Whitworth-Hulse (2018) reported similar values of interception, throughfall, stemflow and runoff in a dry forest close to our study area, but unfortunately, there are no data focusing on rainwater chemical properties to compare with our findings. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/95050f4dc2e3405bf6cba30d9cb6186b7c3da49658fc6aa98346db54e92e0998.jpg",
+        "table_caption": [
+            "Table 1List of studies that determined the percentages of interception, throughfalland stemflow in Pinus spp. plantations "
+        ],
+        "table_footnote": [
+            "Note:Inthecases wheretheauthors presentedarange,weaveraged the minimumand maximumvalues insteadofasinglevalue.-,no data.CV, coefficientofvariation. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Reference</td><td rowspan=\"2\">Pinus species</td><td colspan=\"3\">Percentage (%)</td></tr><tr><td>Interception</td><td>Throughfall</td><td>Stemflow</td></tr><tr><td>Lilienfeinand Wilcke (2004)</td><td>P.caribaea</td><td>24.5</td><td>80.0</td><td>0.5</td></tr><tr><td>McKeeand Carlyle-Moses (2017)</td><td>P.contorta</td><td>-</td><td>-</td><td>1.8</td></tr><tr><td>Carlyle-Moses et al. (2014)</td><td>P. contorta</td><td>40.6</td><td>59.4</td><td>0.0</td></tr><tr><td>Anderson and Pyatt (1986)</td><td>P. contorta</td><td>29.0</td><td>61.0</td><td>10.0</td></tr><tr><td>Sadeghi et al. (2016)</td><td>P. eldarica</td><td>45.0</td><td>51.0</td><td>4.0</td></tr><tr><td>van Stan et al. (2017)</td><td>P. elliotti</td><td>35.5</td><td>64.5</td><td>0.1</td></tr><tr><td>Molina and del Campo (2012)</td><td>P. halepensis</td><td>-</td><td>55.9</td><td>1.5</td></tr><tr><td>Shachnovich et al. (2008)</td><td>P.halepensis</td><td>-</td><td>-</td><td>1.6</td></tr><tr><td>Ji and Cai (2015)</td><td>P.koraiensis</td><td>21.5</td><td>76.8</td><td>1.8</td></tr><tr><td>Chai et al. (2013)</td><td>P. koraiensis</td><td>25.6</td><td>72.6</td><td>1.7</td></tr><tr><td>Domingo et al. (1994)</td><td>P. nigra</td><td>-</td><td>84.3</td><td>12.3</td></tr><tr><td>Certini et al. (1998)</td><td>P. nigra</td><td>-</td><td>70.0</td><td>3.7</td></tr><tr><td>Miller and Williams (1974)</td><td>P. nigra</td><td>-</td><td>66.0</td><td>3.0</td></tr><tr><td>Valente et al. (1997)</td><td>P.pinaster</td><td>17.1</td><td>82.6</td><td>0.3</td></tr><tr><td>Domingo et al. (1994)</td><td>P. pinaster</td><td></td><td>85.9</td><td>1.5</td></tr><tr><td>Silva and Rodriguez (2001)</td><td>P. pinaster</td><td>17.1</td><td>82.6</td><td>0.3</td></tr><tr><td>Mazza et al. (2011)</td><td>P. pinea</td><td>31.5</td><td>68.5</td><td>0.2</td></tr><tr><td>Licata et al. (2011)</td><td>P. ponderosa</td><td>19.5</td><td>74.0</td><td>3.0</td></tr><tr><td>Navar (2011)</td><td>P. pseudostrobus</td><td>-</td><td>-</td><td>0.4</td></tr><tr><td>Silva and Rodriguez (2001)</td><td>P. pseudostrobus</td><td>19.2</td><td>-</td><td>0.6</td></tr><tr><td>Fahey et al. (2001)</td><td>P. radiata</td><td>20.0</td><td>75.0</td><td>5.0</td></tr><tr><td>Aydin et al. (2018)</td><td>P.sylvestris</td><td>20.2</td><td>73.9</td><td>5.9</td></tr><tr><td>Cayuela et al. (2018)</td><td>P. sylvestris</td><td>-</td><td>-</td><td>1.0</td></tr><tr><td>Soulsby et al. (2017)</td><td>P. sylvestris</td><td>46.0</td><td>55.0</td><td>1.3</td></tr><tr><td>Liu et al. (2016)</td><td>P. sylvestris</td><td>29.5</td><td>69.3</td><td>1.3</td></tr><tr><td>Cape et al. (1991)</td><td>P. sylvestris</td><td>20.0</td><td>64.5</td><td>10.5</td></tr><tr><td>Abrahamson et al. (1998)</td><td>P. taeda</td><td>9.5</td><td>84.0</td><td>3.4</td></tr><tr><td> This study</td><td>P. elliotti</td><td>32.6</td><td>66.7</td><td>0.7</td></tr><tr><td>Mean</td><td></td><td>26.5</td><td>70.6</td><td>2.8</td></tr><tr><td>CV</td><td></td><td>37.7</td><td>14.3</td><td>118.3</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The replacement of native dry forests by commercial (exotic) tre plantations generated strong changes in rainfall partitioning affecting the amount and quality of water inputs. We found that the exotic tree species $P .$ elliottii showed more interception losses and less throughfall and stemflow than the native tree species $L .$ molleoides. Furthermore, $L .$ molleoides exhibited a higher response of throughfall and stemflow to the increment of rainfall event size than $P .$ elliottii. The $\\mathrm { p H }$ of water channelized as throughfall and stemflow was lower (more acid) in $P .$ elliottii stand than in $L .$ molleoides stand. Moreover, runoff was very low in $P .$ elliottii stand ( $0 . 3 \\%$ of the gross rainfall) and was zero in $L .$ molleoides stand. These results showed that native $L .$ molleoides stand presented $1 3 . 6 \\%$ more water reaching the topsoil (i.e.， net rainfall; net rainfal $\\ c =$ gross rainfall-interception-runoff) than exotic $P .$ elliottii stand. This study, based on two years of field measurements for native and exotic tree species, provides a preliminary insight of how vegetation regulates the rainfall partitioning in water-limited environments in the dry Chaco mountain forests. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This study was funded by the Secretary of Science and Technology of the National University of C6rdoba (2014-017) and supported by a PhD grant from the National Research Council Scientific and Technical (Dr. Samia CORTES). We thank to Dr. Eduardo KRUSE, Dr. Mónica BLARASIN and Dr. Marcela CIOCCALE for their valuable suggestions. We also thank to Mr. Lisandro FERNANDEZ and Mr. Mauricio ROSAS for their help with field measurements,and Mr. George CASTELLANOS for his help with satelite analysis. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "AbrahamsonDA,DoughertyPM,Zarnoch SJ.1998. Hydrological components ofayoung loblollpine plantationonasandy soil with estimates of water use and loss.Water Resources Research,34(12): 3503-3513.   \nAkaike H.1974.Anew look atthe statistical modelidentification.IEEE Transactions on Automatic Control,19:716-723.   \nAndersoAR,PyattDG1986.Interceptionof precipitation bypole-stage Sitkaspruceand lodgepole pineand mature Sitka spruce at KielderForest,Northumberland.Forestry:AnInternational Journal of ForestResearch,59(1): 29-38.   \nAydnM,GunesSenS,Celik.18.rougfall,semflowndintereptionhracteristicsofiferousforesteote in the western black sea region of Turkey (Daday example). Environmental Monitoring and Asessment,190: 316-326.   \nBaldi GJobbgyEG1.Landuseintedryubropics:Vegetationcompositionndproductionacrossotrastinguman contexts. Journal of Arid Environments, 76: 115-127.   \nBates R G 1964. Determination of pH: Theory and practice.Journal of the American Chemical Society,86(18): 3912.   \nCape J,BrownA,Robertson S,etal.1991.Interspeciescomparisonsof throughfallandstemflowatthreesitesinorth Britain. Forest Ecology and Management, 46(3-4): 165-177.   \nCarlyle-Moses DE.2O04.Throughfall,stemflow,andcanopy interceptionloss fluxes inasemi-aridSierra MadreOriental matorral community. Journal of Arid Environments, 58(2): 181-202.   \nCayuela C,LlorensPachez-CostaE,etal.2O18.Effectofbioticandabioticfactorsoninter-andintra-eventvariabilityin stemflow rates in oak and pine stands in a Mediterranean mountain area. Journal of Hydrology,56O: 396-406.   \nCertini G, UgoliniFC,CortiG,etal.1998.Earlystagesof podzolizationunder Corsican pine (Pinus nigra Ar.ssp.laricio). Geoderma, 83(1-2): 103-125.   \nChai R,CaiT, Man X,et al.013.Simulationof rainfallinterception processof primary Korean pie forestin Xiaoxing'an Mountains by using the modified Gash model. Acta Ecologica Sinica,33(4): 1276-1284.(in Chinese)   \nCortes S.2018.Hydrological studyinmountain basinssubjected todifferent landuse (forestvs.native)，Sierrs Grandes, C6rdoba. PhD Dissertation. C6rdoba: National University of C6rdoba. (in Spanish)   \nde QueirozMGdaSvaTGF,ZolnierS,etal.2O20.Partitioningofraifallinaseasonaldrytropicalforest.Ecohydrology& Hydrobiology, 20(2): 230-242.   \nDomingoF,Puigdefabregas J,MoroMJ.etal.1994.Roleof vegetationcoverinthebiogeochemicalbalancesofasmal afforested catchment in southeastern Spain. Journal of Hydrology,159(1-4): 275-289.   \nDoradoM,AstiniE,VerzinoG,etal.1997.GrowthcurvesforPinuselioti,PinustaedaandPinusradiataintwareasofthe Calamuchita Valley (C6rdoba, Argentina). Forest Ecology and Management,95(2): 173-181.   \nDunkerley D.2Oo. Measuring interception lossand canopy storage indryland vegetation: Abrief review and evaluationof available research strategies.Hydrological Processes,14(4): 669-678.   \nEberbachPL.23.The eco-hydrologyofpartlycleared, nativeecosystems in southern Australia: Areview.Plant and Soil, 257:357-369.   \nElison D,MorisCE,Locatelli,etal207.Tees,forestsand water: Cool insightsforahotworldGlobalEnviroental Change, 43: 51-61.   \nFaheyB,WatsonA,PayneJ.2Oo1. Waterlossfrom plantationsof Douglas-firandradiatapineontheCanterburyPlains,South Island, New Zealand. Journal of Hydrology (New Zealand), 4O: 77-96.   \nFanJL,OestergaadKT,GuyotA,et al.2O14. Measuring and modelingrainfallinterception losss bya native Banksia woodland and an exotic pine plantation in subtropical coastal Australia.Journal of Hydrology,515: 156-165.   \nFanJL.BaumgartlT.ScheuermannA.et al.2O15.Modeling efects of canov androts onsoil moisture anddeepdrainage.   \nFarleyKA,oagyEGcsonKB..ectsrestatononatereld:Aglolstessithatostor policy. Global Change Biology, 11(10): 1565-1576.   \nFensholt R,Sandolt I, Rasmussen M S.2O04.Evaluationof MODIS LAI,fAPAR and the relation between fAPAR and NDVI in a semi-arid environment using in situ measurements. Remote Sensing of Environment, 91(3-4): 490-507.   \nGasparri NI,Baldi G2013.Regionalpattrnsand controlsof biomassinsemiarid woodlands:Lessons from the Northern Argentina Dry Chaco. Regional Environmental Change, 13: 1131-1144.   \nGavier-Pizarro GI,BucherEH.2O04.Deforestationof the Sieras ChicasofCordoba (Argentina)inthePeriod1970-1997. C6rdoba: National Academy of Sciences,1-27. (in Spanish)   \nGiorgis MA, Cingolani AM, GurvichDE,etal.2017.Changes infloristiccomposition and physiognomyare decoupled along elevation gradients in central Argentina. Applied Vegetation Science, 20(4): 558-571.   \nHansen M C, Potapov P V, Moore R, et al. 2013. High-resolution global maps of $2 1 ^ { \\mathrm { s t } }$ century forest cover change. Science, 342(6160): 850-853.   \nHe Z B,YangJJ,DuJ,etal.2O14.Spatialvariabilityofcanopyinterception in aspruce forestofthe semiarid mountaingions of China. Agricultural and Forest Meteorology, 188: 58-63.   \nHervé-Fernandez P,Oyarzun CE, Woelfl S.2016.Throughfallenrichment and stream nutrientchemistry in smallheadwater catchments with diferent land cover in southern Chile. Hydrological Processes, 30(26): 4944-4955.   \nHoekstraJM,BoucherTM,Rickets TH,etal.2O5.Confrontinga biome crisis: Global disparitiesofhabitatlosand protection. Ecology Letters, 8(1): 23-29.   \nHouspanossianJ,GimenezR,Baldi G,etal.2O16.Isaridityrestrictingdeforestationandlanduses intheSouth AmericanDry Chaco? Journal of Land Use Science, 11(4): 369-383.   \nHoyos LE,Cingolani AM,Zak MR.etal.20l3.Deforestation andprecipitation paterns inthearid Chacoforestsofcentral Argentina. Applied Vegetation Science,16(2): 260-271.   \nJi Y,Cai TJ.2015.Canopyinterception inoriginalKrean pineforest: Measurementand dividual simulation in Xiaoxing'an Mountains, northeastern China.Journal of Beijing Forestry University,37(10): 41-49. (in Chinese)   \nJobbagyE G Nosetto MD,Santoni CS,et al.2008.Theecohydrologicalchallengeof the transitions between woodyand herbaceous systems in the Chaco-Pampas plain. Ecologia Austral, 18: 305-322. (in Spanish)   \nJobbagyEG,Acosta AM,NosetoMD.20l3.Wateryield inprimarywatersheds under grassandsand pine plantations inthe hills of C6rdoba (Argentina). Ecologia Austral, 23: 87-96. (in Spanish)   \nKarlin M S,Karlin UO,Coirini R O,et al.2013.TheArid Chaco.C6rdoba: National Universityof Cordoba,1-420.(in Spanish).   \nKochian L V.1995. Celular mechanisms of aluminum toxicity and resistance in plants. Annual Review of Plant Biology, 46: 237-260.   \nKothyari B,Verma P,Joshi B,etal.2O04.Raifallrunof-soilandnutrientlossrelationshipsforplotsizeareasofetagad watershed in Central Himalaya, India. Journal of Hydrology, 293(1-4): 137-150.   \nLeviaDF,FrostEE.2Oo3.Areview and evaluationof stemflowliterature inthehydrologic andbiogeochemicalcycles of forested and agricultural ecosystems. Journal of Hydrology, 274(1-4): 1-29.   \nLevia DF,Germer S.2015.Areviewof stemflow generation dynamics and stemflow-environment interactions in forests and shrublands. Reviews of Geophysics, 53(3): 673-714.   \nLi X Y,LiuLY,GaoSH,etal.O08.Stemflowinthreshrubsand itseffectonsoilwaterenhancementinsmiaridlo region of China. Agricultural and Forest Meteorology, 148(10): 1501-1507.   \nLicataJA,PypkerTGWeigandt M,etal.2O11.Decreasedrainfallinterceptionbalances increasedtranspirationxotic ponderosa pine plantations compared withnative cypressstands inPatagonia,Argentina.Ecohydrology,4(1): 83-93.   \nLilienfein J, Wilcke W.2O04.Waterand element input into native,agri-and silvicultural ecosystems of the Braziliansavana. Biogeochemistry, 67: 183-212.   \nLiu X P,HeYH,ZhaoXY,etal.2016.Theresponseofsoil wateranddeeppercolationunder Caragana microphylltinfall in the Horqin Sand Land, northern China. CATENA,139: 82-91.   \nLlorens P,DomingoF.2Oo7.RainfallpartitioningbyvegetationunderMediterraneanconditions.AreviewofstudiesiEurope. Journal of Hydrology, 335(1-2): 37-54.   \nLoik ME,Breshears DD,Lauenroth WK, et al. 2004. A multi-scale perspective of water pulses in dryland ecosystems: Climatology and ecohydrology of the western USA. Oecologia,141: 269-281.   \nLudwig JA, WilcoxBP,Breshears DD,et al.25.Vegetation patches andrunof-erosionas interacting ecohydrological processes in semiarid landscapes. Ecology, 86(2): 288-297.   \nMagliano PN,Fernandez R J, Giménez R,etal.2O16.Changes inwater fluxes partition in the arid Chaco caused bythe replacement of forest by pastures. Ecologia Austral, 26: 95-106. (in Spanish)   \nMagliano PN,Whitworth-HulseJI,Baldi G2019a.Interception,throughfallandstemflowpartition indrylands:Global synthesis and meta-analysis. Journal of Hydrology,568: 638-645.   \nMaglianoPN,WitwortHulseJoriELetalbIterceptinlo,trougallandtemflowbyrreict: The role of rainfallcharacteristics and plant morphological atributes. Ecological Research,34(6): 753-764.   \nMazza $\\mathbf { G }$ Amorini E,Cutini A,et al. 2011. The influence of thinning on rainfall interception by Pinus pinea L. in Mediterranean coastal stands (Castel Fusano-Rome). Annals of Forest Science, 68: 1323-1332.   \nMcKeeAJ,Carlyle-MosesDE.2017.Modellingstemflowproductionby juvenileldgepolepine (Pinuscontortavar.latifolia) trees. Journal of Forestry Research,28: 565-576.   \nMiler HGWilliams B L.1974.Researchon forestsoilsand tree nutrition.In:Report on Forest Research.Forestry Commission, UK, 60-61.   \nMolina AJ,delCampoAD.2012.The effectsof experimental thiningonthroughfalland stemflow: Acontributiontowards hydrology-oriented silviculture in Aleppo pine plantations.Forest Ecology and Management,269: 206-213.   \nNavarJ,Bryan R.1990.Interception lossandrainfallredistributionby three semi-arid growing shrubs innortheastern Mexico. Journal of Hydrology, 115(1-4): 51-63.   \nNavar J.2011. Stemflow variation in Mexico's northeastern forestcommunities: Itscontribution tosoil moisture contentand aquifer recharge. Journal of Hydrology, 408(1-2): 35-42.   \nNosetoMD,JobbagyEGBrizuelaAB,etal.2O12.ThehydrologicconsequencesoflandcoverchangeincentralArgetina. Agriculture, Ecosystems and Environment, 154: 2-11.   \nNouwakpo S K, Wilims CJ, Al-Hamdan O Z,etal. 2016. Areview ofconcentrated flow erosion processes on rangelands: Fundamental understanding and knowledge gaps. International Soil and Water Conservation Research,4(2): 75-86.   \nOlsonDM,DinersteinE,WikramanayakeED,etal.2Ol.TerrstrialEcoregionsof theWorld: ANewapofLifeonEarth:A newglobal mapof terestrial ecoregions providesan innovative tol forconserving biodiversity.BioScience,51(11): 933-938.   \nOyarzabal M,ClavijoJ,OakleyL,etal.2018.VegetationunitsofArgentina.Ecologia Austral,28: 40-63.(inSpanish)   \nPenington TR,PradoDE,Pendry CA.2Oo0.Neotropical seasonallydry forests andQuaternary vegetation changes.Journal of Biogeography, 27(2): 261-273.   \nQuallsRG.2020.Roleof precipitation partitioning inliterbiogeochemistry.In:vanStanJT,Gutmann E,FriesenJ. Precipitation Partitioning by Vegetation. Switzerland: Springer,163-182.   \nRaz-Yaseef NR, Yakir D,Rotenberg E,et al.2010. Ecohydrologyof a semi-arid forest: Partitioningamong water balance components and its implications for predicted precipitation changes.Ecohydrology,3(2): 143-154.   \nReichertJM,Rodrigues MF,Pelaez JJZ,etal.2l7.Waterbalance in paired watersheds with eucalyptus anddegraded grassland in Pampa biome. Agricultural and Forest Meteorology, 237-238: 282-295.   \nRichardson DM,Rejmanek M.2011. Trees and shrubs as invasivealienspecies-a global review.DiversityandDistributions, 17(5): 788-809.   \nSadeghiSMM,AtarodP,van StanJT,etal.2016.Theimportanceofconsideringrainfallpartitioninginafforestation initiatives insemiaridclimates:Acomparisonofcommon planted tree species in Tehran,Iran.Scienceof The Total Environment, 568: 845-855.   \nSadeghi S MM, Gordon DA,van StanJT.2020.A global synthesis of throughfalland stemflowhydrometeorology. In:van Stan J,Gutmann E, Friesen J. Precipitation Partitioning by Vegetation.Switzerland: Springer, 49-70.   \nShachnovichYerlerPR,arP.Oo8.Ranfallinterceptioandsatialdstrbutionofthroughfalliapineforestplatedin an arid zone. Journal of Hydrology, 349(1-2): 168-177.   \nSilva IC,Rodriguez HG2O01.Interceptionloss,troughfalland stemflowchemistry in pine andoak forests innorteastern Mexico. Tree Physiology,21(12-13): 1009-1013.   \nSoulsby C,Braun H,SprengerM,et al.2017.Influenceof forest and shrubcanopies on precipitationpartitioningand isotopic signatures. Hydrological Processes, 31(24): 4282-4296.   \nTrabucco A, ZomerRJ.2O09.Globalaridity index (global-aridity)and global potential evapo-transpiration (global-PET) geospatial database. CGIAR Consortium for Spatial Information. [2020-11-01]. htp://www.csi.cgiar.org.   \nValente F,DavidJ, GashJ.1997.Modellng interceptionlossfor twosarseeucalypt andpineforests incentralPortugalusing reformulated Rutter and Gash analytical models. Journal of Hydrology, 190(1-2): 141-162.   \nvan StanJT,Coders-Gerits,bleM,etal.7.Efetsofpenoogyndmeteoroogcaldisturbaneonlieriall interceptionforaPinus elliotiistand inthesoutheasternUnitedStates.Hydrological Processes,31(21):3719-3728.   \nWhitworth-HulseJI.2O18.Efectsof Ligustrum lucidum invasionon waterdynamics innative forestsoftheChaco Serrano: The interactionbetween precipitation,vegetationandsoil.PhDDissertation.Cordoba: National UniversityofCordoba.(in Spanish)   \nWhitworth-HulseJI,MaglianoPN,Zeballos SR,etal.2020.Advantagesofrainfallpartitioningbytheglobal invader Ligustrum lucidum over the dominant native Lithraea moleoides in a dry forest.Agricultural andForest Meteorology, 209(15): 108013,doi: 10.1016/j.agrformet.2020.108013.   \nWilcox BP,Breshears DD,AllenCD.2O3.Ecohydrologyofaresource-conservingsemiarid woodland:Efectsof scaleand disturbance. Ecological Monographs, 73(2): 223-239.   \nWrightRJ.1989.Soil aluminum toxicityand plant growth.Communications in Soil Scienceand Plant Analysis,20(15-16): 1479-1497.   \nYuan C,GaoGY,FuBJ,etal.2O19.Temporallydependentefectsofrainfallcharacteristicsoninter-and intra-event branch-scale stemflow variability in two xerophytic shrubs.Hydrologyand Earth System Sciences,23: 4077-4095.   \nZhang YF,Wang XP,HuR,etal.2015.Rainfall partitioning into throughfall,stemflowand interceptionlossby two xerophytic shrubswithin arain-fedre-vegetated desert ecosystem,northwestern China.Journal of Hydrology，527: 1084-1095.   \nZhang YF, Wang XP,HuR,etal.2016.Throughfalland itsspatialvariabilitybeneath xerophyticshrubcanopies within water-limited arid desert ecosystems. Journal of Hydrology, 539: 406-416.   \nZhangYF, Wang XPPanYX,etal.019.Alterationinisotopiccompositionof gossrinfallas it isbeingpartited int throughfalland stemflow by xerophyticshrub canopies within water-limitedariddesert ecosystems.Scienceof The Total Environment, 692: 631-639.   \nZhang YF, Wang X P,Pan XP,etal.2O20.Relativecontributionof bioticand abiotic factors to stemflow productionand funeling eficiency: Along-term field studyona xerophytic shrub species in TenggerDesert of northernChina. Agricultural and Forest Meteorology, 280(15): 107781, doi: 10.1016/j.agrformet.2019.107781.   \nZheng J,FanJL, ZangFC,tal.2018.Rainfallpartitioning intothroughfall,stemfloand intereptionlosbyazecanopy on the semi-arid Loess Plateau of China.Agricultural Water Management,195: 25-36.   \nZhengJ,FanJL,ZhangFC,etal.2019.roughfallandstemflowheterogeneityunderthemaizecanopyanditseectosoil water distribution at the row scale. Science of The Total Environment,66O:1367-1382. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

@@ -1,0 +1,115 @@
+# 三种常绿阔叶树光系统ⅡI在低温胁迫下的光抑制及恢复
+
+程冬梅\*，张志勇，周赛霞，彭焱松，张兆祥（江西省植物迁地保护与利用重点实验室，江西省、中国科学院庐山植物园，江西 九江 332900）
+
+摘要：冬季低温胁迫对亚热带常绿阔叶树光合活性的主要影响之一体现在光合机构的低温光抑制。为了阐明冬季低温胁迫下常绿阔叶树光系统Ⅱ的光抑制程度及光保护机制，该试验研究了冬季自然低温胁迫（零下低温冻害和零上低温寒害）对红叶石楠、枇杷和猴樟三种亚热带常绿阔叶树光合机构光系统II(PSII)光抑制的影响以及春季气温回暖后的恢复情况。结果表明，冻害和寒害低温胁迫使猴樟的PSII活性显著降低，PSII受到较严重的光抑制，低温胁迫解除后PSII活性未能完全恢复。红叶石楠PSII活性下降程度和光抑制程度最轻，春季PSII活性显著上升，光抑制显著下降。枇杷PSII活性和光抑制程度介于猴樟和红叶石楠之间。低温胁迫下红叶石楠的非光化学淬灭(NPQ)接近常温水平；枇杷的 NPQ 略有降低，春季恢复正常；猴樟 NPQ最低，春季低温解除后仍不能完全恢复。此外，三种常绿阔叶树在冬季低温胁迫和春季恢复时期的NPQ与PSII的光抑制程度存在显著的负相关关系。综合以上结果分析表明，冬季低温对红叶石楠PSII影响不大，对枇杷有一定影响但春季气温回暖后可以及时恢复，对猴樟 PSII有显著的光抑制且恢复过程较慢。不仅如此，NPQ对保护常绿阔叶树PSII免受冬季低温光抑制有重要的贡献。
+
+关键词：光合作用生理，光系统II，光抑制，低温胁迫，非光化学淬灭，光保护
+
+# Photoinhibition and recovery of photosystem I of three broad-leaved evergreens to low temperature stress
+
+CHENG Dongmei\*, ZHANG Zhiyong， ZHOU Saixia, PENG Yansong, ZHANG Zhaoxiang   
+(1. Provincial Key Laboratory of Plant Ex Situ Conservation and Utilization, Lushan Botanical   
+Garden, Jiangxi Province and Chinese Academy of Sciences, Jiujiang 3329o0,Jiangxi, China)
+
+基金项目：江西省重点研发计划项目(20161BBF60054)；中国科学院重点部署项目(KFJ-3W-N01-143)；江西省科研基础条件 和能力建设项目(2017ZDD01002)[Supported by Key Research andDevelopment Program of Jiangxi (20161BBF60054); Key Program of Chinese Academy of Sciences(KFJ-3W-N01-143)； Scientificinfrastructureandcapacitybuilding of Jiangxiprovince(2017ZDD01002)] 。
+
+作者简介：程冬梅(1985-)，女，青海省民和县，博士，助理研究员，研究方向为光合作用调控，（E-mail)chengdongmey@163.com。
+
+\*通信作者：程冬梅，博士，助理研究员，研究方向为光合作用调控,（E-mail）chengdongmey $@$ 163.com。
+
+Abstract: The limits on photosynthesis of subtropical evergreen trees imposed by winter low temperature are mainly from photoinhibition of photosynthetic apparatus.To understand the extent of photoinhibition of photosystem I (PSI) and the mechanism of photoprotection of evergreen trees under winter low temperature stress, PSII photoinhibition and recovery were studied in three broad-leaved evergreen tree species Photinia $\times$ fraseri， Eriobotrya japonica (Thunb.) Lindl, and Cinnamomum bodinieri Levl. Results indicated that PSII of Cinnamomum bodinieri was severely depressed and suffered photoinhibition under freezing and chilling temperature,and function of PSI was unable to fully recover at spring normal temperature. Photinia $\times$ fraseri showed the most unaffected PSII function and the least photoinhibition，whereas the situation in Eriobotrya japonica was in the intermediate. Accordingly, Photinia $\times$ fraseri maintained the level of non-photochemical quenching (NPQ） almost as high as at normal temperature,and NPQ of Eriobotrya japonica showed a little decrease but recovered at normal temperature condition. Cinnamomum bodinieri displayed the lowest NPQ under low temperature and was unable to totally recover. Furthermore,all the three tree species showed a strong negative relationship between NPQ and PSIl photoinhibition，which was indicated by the maximum potential photochemical efficiency of PSII $\mathrm { ( F v / F m ) }$ and the quantum yield of non-regulated energy dissipation of PSIl (Y(NO)). Overall, the results demonstrate that Photinia $\times$ fraseri is more resistant to low temperature stress than Eriobotrya japonica and Cinnamomum bodinieri in terms of PSII. NPQ plays an important role for protecting PSI of these trees from photoinhibition under low temperature.
+
+Key words: physiology of photosynthesis, PSII, photoinhibition, low temperature stress, NPQ, photoprotection
+
+低温是限制植物地理分布和生理活动的重要环境因素(Sharma etal,2005;Ensminger etal,2012)。低温冻害和寒害不仅造成植物细胞水分结晶、渗透压改变、膜系统受损，还导致酶活性降低、代谢变缓、光合机构受氧化胁迫活性降低(Graham and Patterson,1982;Oquistand Huner,2003；张子山等，2013)。叶绿体类囊体膜上的光合机构光系统 II(PSII)对环境变化最为敏感(Aro etal,1993;Tyystjärvi,2013)，当植物在低温等环境胁迫条件下吸收和传递过剩光能，产生的大量活性氧使PSII反应中心D1蛋白氧化损伤速率大于修复速率，导致光化学效率降低，引起光抑制现象(Vass and Cser,2009; Sonoike,2011)。非光化学淬灭(NPQ)是植物应对氧化胁迫的重要防御机制，捕光天线复合物将吸收的过剩光能以热能耗散，避免活性氧的积累(Takahashi and Murata,20o8; Murchie and Niyogi, 2011; Pinnola and Bassi, 2018)。
+
+不同于落叶树，常绿树在冬季仍保留叶片进行光合作用，低温使 $\mathrm { C O } _ { 2 }$ 固定相关酶活性降低，NADPH还原力积累，导致叶绿体内产生大量活性氧(Sharma et al,2005;Verhoeven,2013)。因此，大部分松柏类常绿树在冬季 PSII活性显著降低，NPQ受调控显著上升(Bigraset al,2001;Derks etal,2015)。这种PSII冬季持续性光抑制现象是植物应对冬季低温的一种重要的保护机制(Oquist and Huner 2003;Miguez et al,2017)。近年来研究报道，零上低温对热带、亚热带常绿阔叶树 PSII 发生显著的光抑制(胡文海等，2005;Huang et al,2010; Li et al,2018)。但目前对红叶石楠(Photinia $\times$ fraseri)、枇杷(Eriobotrya japonica)、猴樟(Cinnamomumbodinieri)等亚热带常绿阔叶树在零下低温冻害后PSII的光抑制程度以及NPQ在光保护方面的作用报道仍比较少见。此次试验主要研究了红叶石楠、枇杷、猴樟三种常绿阔叶树在低温冻害和寒害胁迫下PSII的光抑制及活性恢复，并对 NPQ在保护PSII免受光抑制中的作用进行了探讨。
+
+1．材料与方法
+
+# 1.1植物材料
+
+以江西省中国科学院庐山植物园分园鄱阳湖植物园( $\cdot 1 1 6 ^ { \circ } 5 . 2 ^ { \prime } \mathrm { E }$ ， $2 9 ^ { \circ } 4 0 . 5 ^ { \prime } \mathrm { N }$ ，海拔 $2 5 \mathrm { m } )$ 种植的八年生成熟的红叶石楠 $( P h o t i n i a \times f r a s e r i )$ 、枇杷(Eriobotrya japonica (Thunb.) Lindl和猴樟(Cinnamomum bodinieriLevl)为研究材料，分别于2018年冬春季节低温胁迫和恢复期间上午09:00至11:00取向阳面同一位置成熟枝叶，暗适应 $3 0 \mathrm { m i n }$ 后立即用LI-COR6800便携式光合仪对叶片进行叶绿素荧光测定。每种材料至少进行3个叶片重复观测。
+
+# 1.2 温度条件
+
+2018年1月27日至30日鄱阳湖植物园遭受连续降雪和冻雨导致的零下低温冻害；2月8日气温回升至零上低温寒害；4月9日气温基本恢复正常，可作为低温胁迫解除和光合活性恢复的对照条件。分别于1月30、2月8日、4月9日进行实验，三天的日最低气温分别为-5.3、4.5、 $9 . 2 ^ { \circ } \mathrm { C }$ ，日平均气温分别为-1.1、7.2、 $1 8 . 5 ^ { \circ } \mathrm { C }$ 。气温数据由植物园气象站观测获得。
+
+# 1.3叶绿素荧光检测
+
+暗适应叶片观测最小荧光Fo 和 $1 0 , 0 0 0 \ \mu \mathrm { m o l }$ photons $\cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { s } ^ { - 1 }$ 饱和脉冲下最大荧光 $\mathrm { F m }$ ，并计算PSII潜在最大光化学量子产量 $\mathrm { F v / F m } = ( \mathrm { F m } { \cdot } \mathrm { F o } ) / \mathrm { F m }$ 。然后开启光化光，检测光适应时最小荧光Fo'、最大荧光 $\mathrm { F m ^ { \prime } }$ 和稳态荧光Fs，分别计算 PSII实际光化学量子产量 $\Phi ( \mathrm { I I } ) = { }$ $( \mathrm { F m ^ { \prime } - F s } ) / \mathrm { F m ^ { \prime } }$ ；PSII相对电子传递速率 $\mathrm { { r E T R } ( I I ) = }$ 光合有效辐射 $( \mathrm { P A R } ) \times \Phi ( \mathrm { I I } ) { \times } 0 . 8 4 { \times } 0 . 5$ ；非光化学淬灭 $\mathrm { N P Q } = ( \mathrm { F m } \cdot \mathrm { F m ^ { \prime } } ) / \mathrm { F m ^ { \prime } }$ ; $\mathsf { q N } = 1$ -(Fm'-Fo')/(Fm-Fo)；PSII非调节性能量耗散量子产量 $\mathrm { Y ( N O ) } = \mathrm { F s / F m }$ 。将叶片在 $\textrm { E 0 , } 2 5 , \quad 5 0 , \quad 1 0 0 , \quad 1 5 0 , \quad 3 0 0 , \quad 5 0 0 , \quad 1 \ 0 0 0 , \quad 1 \ 5 0 0 , \ 2 \ 0 0 0 \ \mathrm { { \textmu m o l } }$ photons $\cdot \mathbf { m } ^ { - 2 } \cdot \mathbf { s } ^ { - 1 }$ 光合有效辐射下保持 $9 0 { - } 1 2 0 \ \mathrm { s }$ ，测得各叶绿素荧光参数的快速光响应曲线。
+
+# 1.4 曲线拟合
+
+根据Jasby 和Platt 的方程 $\boldsymbol { \mathrm { P } } = \boldsymbol { \mathrm { P } } \boldsymbol { \mathrm { m } } \times$ tanh $( \mathsf { a } { \times } \mathsf { P A R } / \mathsf { P m } )$ (Jasby 和Platt1976)对 rETR(II)快速光响应曲线进行拟合。其中 $\mathfrak { a }$ 为曲线的初始斜率，反映了光能利用效率； $ { \mathrm { P m } }$ 是拟合出来的潜在最大相对电子传递速率；半饱和光强 $\scriptstyle { \mathrm { I k } = { \mathrm { P m } } / { \mathrm { a } } }$ ，反映了样品耐受强光的能力。曲线用最小二乘法通过Origin8.5软件拟合。
+
+# 1.5数据分析
+
+实验数据用MicrosoftExcel2015软件统计平均值和标准差，用Origin8.5软件作图。
+
+# 2．结果与分析
+
+# 2.1PSII的活性变化
+
+图1为零下低温冻害(1月30日)、零上低温寒害(2月8日)和恢复(4月9日)时期红叶石楠、枇杷和猴樟PSII实际光化学量子产量 $\Phi ( \mathrm { I I } )$ 和PSII相对电子传递速率rETR(II)的光响应曲线，以此来反映低温对 PSII活性的影响。结果显示，冻害使三种树 PSII的活性都受到不同程度的下降。红叶石楠冻害后 $\Phi ( \mathrm { I I } )$ 与恢复期接近，rETR(II)保持较高水平，甚至高于恢复时期。枇杷冻害后的 $\Phi ( \mathrm { I I } )$ 和rETR(II)比红叶石楠略低。猴樟PSII受影响最严重， $\Phi ( \mathrm { I I } )$ 和rETR(II)最低。零上低温寒害下三种树的PSII活性仍维持在冻害时期的水平甚至更低。春季气温回升至 $1 8 . 5 ^ { \circ } \mathrm { C }$ 后(4月9日)，红叶石楠和枇杷 $\Phi ( \mathrm { I I } )$ 恢复至正常水平，而猴樟 $\Phi ( \mathrm { I I } )$ 与rETR(II)不能全部恢复。对rETR(II)快速光响应曲线进行拟合后，猴樟初始斜率 $\mathfrak { a }$ 和最大光合速率 $ { \mathrm { P m } }$ 在低温胁迫时明显低于红叶石楠和枇杷，温度恢复后猴樟最大光合速率 $\mathrm { P ( m ) }$ 和耐受强光的能力Ik 仍然低于红叶石楠和枇杷(表1)。
+
+![](images/67173c139e36642f724594a89812b14fbf383ad81e289a6573c838c7637f96f9.jpg)  
+图1红叶石楠、枇杷和猴樟在冻害(1月30日)、寒害(2月8日)、春季常温(4月9日)下PSII活性变化  
+Fig.1 Effects of freezing (Jan 30), chilling (Feb 8) and recovery (Apr 9) temperature on PSII activity of Photinia $\times$ fraseri, Eriobotrya japonica and Cinnamomum bodinieri
+
+表1红叶石楠、枇杷和猴樟快速光响应曲线拟合参数  
+Table1Fitted parameters for rapid light curve from Photinia $\times$ fraseri,Eriobotrya japonica and Cinnamomum   
+
+<html><body><table><tr><td colspan="5">bodinieri</td></tr><tr><td>名称</td><td>日期</td><td>最大相对电子传递速率</td><td>初始斜率</td><td>半饱和光强</td></tr><tr><td>Species</td><td>Date</td><td>Pm</td><td>α</td><td>Ik</td></tr><tr><td>红叶石楠</td><td>1月30日Jan30</td><td>40.24</td><td>0.23</td><td>173.23</td></tr><tr><td>Photinia ×fraseri</td><td>2月8日Feb8</td><td>39.31</td><td>0.21</td><td>187.04</td></tr><tr><td></td><td>4月9日Apr9</td><td>24.19</td><td>0.19</td><td>125.61</td></tr><tr><td>枇杷</td><td>1月30日Jan30</td><td>42.18</td><td>0.19</td><td>224.24</td></tr><tr><td>Eriobotrya japonica</td><td>2月8日Feb8</td><td>41.64</td><td>0.22</td><td>186.08</td></tr><tr><td rowspan="4">猴樟 Cinnamomum</td><td>4月9日Apr9</td><td>42.48</td><td>0.28</td><td>150.03</td></tr><tr><td>1月30日Jan30</td><td>25.06</td><td>0.16</td><td>154.42</td></tr><tr><td>2月8日Feb8</td><td>30.85</td><td>0.08</td><td>401.54</td></tr><tr><td>4月9日Apr9</td><td>18.13</td><td>0.22</td><td>80.86</td></tr></table></body></html>
+
+# 2.2PSII的光抑制及恢复
+
+图2显示了低温胁迫及恢复过程中三种树PSII光抑制变化。冻害和寒害下红叶石楠维持较高的Fv/Fm 和较低的Y(NO)，表明PSII仅受到轻微的光抑制，且在温度恢复正常后光抑制也完全恢复。冻害使枇杷的 $\mathrm { F v / F m }$ 和Y(NO)分别低于和高于红叶石楠，寒害下枇杷的PSII光抑制有所减轻，气温恢复后PSII的光抑制也得到完全恢复。冻害对猴樟的PSII产生非常显著的光抑制，Fv/Fm 和 Y(NO)分别达到了最低和最高值，而且光抑制程度随着冻害的解除和冷害的持续而继续加深，直到气温恢复正常后光抑制程度才有部分恢复。
+
+![](images/a33c888921d3df5deb88a9794c9f50957e51ea2c9dae1bc360465622a4b81285.jpg)  
+图2 红叶石楠、枇杷和猴樟在冻害(1月30日)、寒害(2月8日)、春季常温(4月9日) 下(A)Fv/Fm 和(B)Y(NO)变化 Fig. 2 Effects of freezing (Jan 30), chilling (Feb 8) and recovery (Apr 9) temperature on (A) iv/Fm and (B) Y(NO) of Photinia $\times$ fraseri, Eriobotrya japonica and Cinnamomum bodinieri
+
+# 2.3NPQ与PSII光抑制的关系
+
+非光化学淬灭(NPQ)是植物进行光保护的重要机制，可以通过叶绿素荧光参数 NPQ 和qN来反映。图3显示了红叶石楠、枇杷和猴樟在零下低温冻害、零上低温寒害和气温恢复时期叶绿素荧光参数NPQ和qN的光响应曲线变化。结果显示冻害和寒害胁迫下三种树的NPQ 和qN均有不同程度的降低，气温恢复后NPQ 和qN也随之得到不同程度的恢复。相对而言，冻害和寒害低温胁迫对红叶石楠的 NPQ 和 $\mathsf { q N }$ 影响较小，枇杷 NPQ和qN低于红叶石楠，猴樟的NPQ和 $\mathsf { q N }$ 最低。气温恢复后，红叶石楠和枇杷的NPQ和qN均恢复到较高水平，猴樟的 NPQ 和qN 仍不能完全恢复。将冻害、寒害、正常温度三种条件下红叶石楠、枇杷和猴樟的 $\mathrm { F v / F m }$ 与 ${ 5 0 0 } \mathrm { \mu m o l }$ photons $\mathbf { m } ^ { - 2 } { \cdot } \mathbf { s } ^ { - 1 }$ 光合有效辐射下的 NPQ、Y(NO)进行分析，发现三种树在三种条件下Y(NO)和 $\mathrm { F v / F m }$ 均与 NPQ存在极显著的负相关关系，即 PSII光抑制程度与非光化学淬灭存在显著负相关(图 4)。
+
+![](images/bab8613e1fe67645072d68ccc66c676e12abfcf93d2577cbbf6e4343363ff404.jpg)
+
+![](images/65d52c6e9fb2667d926a9b31e63213e33b901992f7142671938923d8a7929c45.jpg)  
+图3 红叶石楠、枇杷和猴樟在冻害(1月30日)、寒害(2月8日)、春季常温(4月9日)下 NPQ 变化 Fig. 3 The effect of freezing (Jan 30), chilling (Feb 8) and recovery (Apr 9) temperature on NPQ of Photinia $\times$ fraseri, Eriobotrya japonica and Cinnamomum bodinieri   
+图4NPQ与 $\mathrm { F v / F m }$ 和Y(NO)呈显著负相关关系 Fig. 4 The significant negative relationships of NPQ to Fv/Fm and Y(NO)
+
+# 3．结论与讨论
+
+冻害和寒害胁迫对越冬的常绿阔叶树的PSII产生光抑制，是导致冬季树木光合活性下降的重要原因(Verhoeven,2013)。低温光照条件下产生的活性氧对光合机构和其他生物大分子造成氧化损伤，不仅使光合作用活性下降，而且导致叶片黄化、褐化、坏死(Sharma et al,2005)。这项研究对红叶石楠、枇杷、猴樟在冬季冻害和寒害低温胁迫下PSII的光抑制和恢复进行了研究，证明冬季低温对三种亚热带常绿阔叶树PSII造成的光抑制存在差异。综合而言，低温对红叶石楠PSII的影响最小，枇杷次之，猴樟PSII受到显著的光抑制且恢复较慢。三种树的PSII光抑制程度与 NPQ的活性存在负相关。
+
+研究证明，Fv/Fm 和 Y(NO)可以有效反映 PSII 的光抑制程度(Baker,2008;Huang et al,2010;Miguez etal,2015)。此次试验结果显示，三种常绿阔叶树在低温胁迫和恢复时期 PSII活性越高，Fv/Fm 越高，Y(NO)越低，证实了这两个叶绿素荧光参数可以真实有效地反映PSII光抑制的生理状态。红叶石楠在低温胁迫下PSII活性未受显著下降，而rETR(II)在春季气温恢复后却表现出下降(图1)，原因可能是受恢复时期 $\Phi ( \mathrm { I I } )$ 光响应曲线随着光合有效辐射的增加而迅速下降所影响，因为rETR(II)的计算结果由光合有效辐射和 $\Phi ( \mathrm { I I } )$ 共同决定。
+
+尽管三种树在低温胁迫下PSII 活性下降程度不同，但Fv/Fm 均表现出下降趋势,Y(NO)均有上升趋势，即 PSII都发生了不同程度的光抑制，这表明三种常绿阔叶树在冬季进行了PSII持续性光抑制的保护机制 这个结果证实了Miguez(2015)越冬常绿植物普遍在气温阈值为 $0 ^ { \circ } \mathrm { C }$ 左右发生PSII持续性光抑制的结论。下一步研究低温胁迫对PSI光抑制的影响将进一步阐明PSII与PSI在低温胁迫下的光抑制特性与相互关系。
+
+综上所述，冬季冻害和寒害对红叶石楠、枇杷和猴樟三种亚热带常绿阔叶树PSII 产生不同程度的光抑制，而且非光化学淬灭的光保护机制对越冬树种PSII免受光抑制具有重要的生理学意义。
+
+参考文献:   
+ARO EM, VIRGIN I,ANDERSSON B,1993. Photoinhibition of photosystem II. Inactivation, protein damage and turnover[J]. BBA-Bioenergetics,1143(2): 113-134.   
+BAKER NR, 2008. Chlorophyll fluorescence: a probe of photosynthesis in vivo[J]. Annu Rev Plant Biol, 59(1): 89-113.   
+BIGRAS FJ, RYYPPO A, LINDSTROM A, et al, 2001. Cold acclimation and deacclimation of shoots and roots of conifer seedlings[M]. Dordrecht: Springer: 57-88.   
+DERKS A， SCHAVEN K，BRUCE D,2015.Diverse mechanisms for photoprotection in photosynthesis. Dynamic regulation of photosystem II excitation in response to rapid environmental change[J]. BBA-Bioenergetics,1847(4-5): 468-485.   
+ENSMINGER I，BERNINGER F，STREB P,2012.Response of photosynthesis to low temperature[M]. UK: Cambridge University Press: 272-289.   
+GRAHAM D, PATTERSON BD,1982. Responses of plants to low, nonfreezing temperatures: proteins, metabolism, and acclimation[J]. Annu Rev Plant Biol, 33(1): 347-372.   
+HU WH， XIAO YA, LONG WW, 2005. Effects of night low temperature and sunlight on photoinhibition and photosystem II functions in leaves of Pitosporum tobira (Thunb.） Ait. and Ficus microcarpa L[J].JPlant Physiol, 41(4): 467-470.[胡文海，肖宜安，龙婉婉,2005. 夜间低温后日间光照对海桐和榕树叶片的光抑制以及光系统Ⅱ功能的影响[J]．植物生理 学通讯,41(4): 467-470.]   
+HUANG W, ZHANG SB, CAO KF, 2010. Stimulation of cyclic electron flow during recovery after chilling-induced photoinhibition of PSI[J]. Plant Cell Physiol, 51(11): 1922-1928.   
+JASBY AD，PLATT T，1976. Mathematical formulation of the relationship between photosynthesis and light for phytoplankton[J]. Limnol Oceanogr, 21(4): 540-547.   
+LI ZZ,LI XM, RUBERT-NASON FK, et al, 2018. Photosynthetic acclimation of an evergreen broadleaved shrub (Ammopiptanthus mongolicus） to seasonal climate extremes on the Alxa Plateau, a cold desert ecosystem[J]. Trees,32(5): 603-614.   
+MIGUEZ F, FERNANDEZ-MARiN B, BECERRIL JM, et al, 2015. Activation of photoprotective winter photoinhibition in plants from different environments: a literature compilation and meta-analysis[J]. Physiol Plant, 155(4): 414-423.   
+MIGUEZ F,FERNANDEZ-MARIN B，BECERRIL JM,et al， 2017. Diversity of winter photoinhibitory responses: a case study in co-occurring lichens, mosses, herbs and woody plants from subalpine environments[J]. Physiol Plant, 160(3): 282-296.   
+MURCHIE EH，NIYOGI KK，2011. Manipulation of photoprotection to improve plant photosynthesis[J]. Plant Physiol, 155(1): 86-92.   
+OQUIST G, HUNER NP, 2003. Photosynthesis of overwintering evergreen plants[J]. Annu Rev Plant Biol, 54(1): 329-355.   
+PINNOLA A，BASSI R,2018. Molecular mechanisms involved in plant photoprotection[J]. Biochem Soc T, 46(2): 467-482.   
+SHARMA P, SHARMA N,DESWA R, 2005. The molecular biology of the low-temperature response in plants[J]. Bioessays,27(10): 1048-1059.   
+SONOIKE K, 2011. Photoinhibition of photosystem I[J]. Physiol Plant, 142(1): 56-64.   
+TAKAHASHI S, MURATA N,2008. How do environmental stresses accelerate photoinhibition[J]? Trends Plant Sci, 13(4): 178-182.   
+TYYSTJARVI E, 2013. Photoinhibition of photosystem I[M]. Cambridge: Academic Press: 243-303.   
+VASS I, CSER K, 2009. Janus-faced charge recombinations in photosystem I photoinhibition[J]. Trends Plant Sci, 14(4): 200-205.   
+VERHOEVEN AS,2013. Sustained energy disspation in winter evergreens[J]. New Phytol, 201(1): 57-65.   
+ZHANG ZS,YANG C,GAO HY, 2013. Chilling photoinhibition of photosystem I and its recovery after photoinhibition[J].JPlant Physiol,49 (4):301-308.[张子山，杨程，高辉远, 2013．植物光系统I的低温光抑制及恢复[J]．植物生理学报，49(4):301-308.]

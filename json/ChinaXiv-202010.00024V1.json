@@ -1,0 +1,359 @@
+[
+    {
+        "type": "text",
+        "text": "Relationship ofspeciesdiversity between overstory trees and understory herbs along the environmental gradients in the Tianshan Wild Fruit Forests, Northwest China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CHENG Junhui1， SHI Xiaojun1， FAN Pengrui1， ZHOU Xiaobing²， SHENG Jiandong1,ZHANG Yuanming2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Xinjiang KeyLaboratoryof Soiland Plant Ecological Processes,Collegeof Grassandand Environmental Sciences, Xinjiang Agricultural University, Urumqi 830052, China;   \n2StateKeyLaboratoryof Desertand OasisEcology,Xinjiang Instituteof Ecologyand Geography,ChineseAcademy of Sciences,Urumqi 830011, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In forest ecosystems, interactions between overstory trees and understory herbs play an important role in driving plant species diversity. However, reported links between overstory tree and understory herb species diversity have been inconsistent,due to variations in forest types and environmental conditions. Here, we measured species richness (SR) and diversity (Shannon-Wiener (H) and Simpson's (D) indices) of overstory trees and understory herbs in the protected Tianshan Wild Fruit Forest (TWFF)，Northwest China, to explore their relationships along the latitudinal, longitudinal, elevational,and climatic (current climate and paleoclimate) gradients in 2O18.We found that SR,and $\\mathrm { H ^ { \\prime } }$ and D diversity indices of overstory trees and understory herbs exhibited a unimodal pattern with increasing latitude and elevation $( P { < } 0 . 0 5 )$ and negative associations with longitude $( P { < } 0 . 0 1 )$ . Along the climatic gradients, there were U-shaped patterns in SR,and $\\mathrm { H ^ { \\prime } }$ and D diversity indices between trees and herbs $( P { < } 0 . 0 5 )$ . SR,and $\\mathrm { H ^ { \\prime } }$ and D diversity indices for overstory tree species were positively associated with those for understory herbs $( P { < } 0 . 0 1 )$ . These findings indicate that overstory trees and understory herbs should be protected concurrently in the TWFF to increase effectiveness of species diversity conservation programs. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: diversity indices; overstory trees; understory herbs; paleoclimate; current climate; elevation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Diversity in forest ecosystems reflects interactions between overstory trees and understory herbs (hereafter referred to as trees and herbs，respectively) (Gilliam，2007; Pan et al.，2013) and is regulated by a series of feedbacks between the two strata. For example， trees determine light availability and heterogeneity of soil fertility available to herbs (Muller， 2OO3；Neufeld and Young, 2Oo3),while herbs drive positive and negative feedback processes with trees， such as competition for resources among herb and tree seedlings and the return of nutrients to the soil from herb litter (Yarie，1980; Gilliam， 2007). Thus，it is important to understand the relationship between tree and herb species diversity in forests to improve practical management and conservation of forest biodiversity. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The relationship between tree and herb species diversity has been studied in a range of forest types，such as temperate deciduous, subalpine forest, and mixed conifer forests (Ewald and Freising-Weihenstephan，2002; Ingerpuu et al.，2003； Gilliam，2007; Vockenhuber et al.， 2011)，and was found to vary among the types.In global temperate and German deciduous forests，tree species diversity was positively associated with that of herbs (Gilliam， 2007; Molder et al.， 2008； Vockenhuber et al.， 2011).While in mountain forests of Bavarian Alps and deciduous forests of North America， there was no relationship between tree and herb species diversity (Ewald and FreisingWeihenstephan，2002；Houle，2007)．Besides，high levels of tree species diversity in conifer forests were negatively associated with diversity of herbs, due to low levels of soil pH caused by conifer species (Berger and Puettmann, 2000). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This inconsistency in the relationship between tree and herb species diversity among forest types may be result of a number of factors,including stand age and diversity condition,and environmental gradients. For example, the relationship between tree and herb species diversity is known to vary with stand age in hardwood forests,where there is an association in mature stands, but not in young stands (Gilliam et al., 1995); herb diversity tends to be greater in stands of mixed rather than single species (Barbier et al.， 2Oo8); and the relationship between tree and herb species diversity varies along the environmental gradients (Gilliam and Robert, 20o3; Vockenhuber et al.， 2011). The effect of environmental gradients on forest plant diversity is complex. For example,at the global scale, tree and herb species diversity is unimodal with increasing elevation,but their diversity peaks appeared at different elevations due to differences in physiological tolerance and niche partitioning (Guo et al., 2013).Also,it is reported that in the eastern Himalayas,herb species diversty is positively related to annual levels of precipitation， and there is a unimodal relationship with increasing temperature，whereas the relationships for tree diversity are the reverse (Kluge et al., 2017). Differences in evolutionary history and sensitivity to local climate have led to contrasting tree and herb species diversity responses to latitudinal gradient in forests in China (Wang et al., 2012), indicating that the relationship between tree and herb species diversity is environment context-dependent. Thus, further research is needed to clarify environmental gradient effects on tree and herb species diversity relationships. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Tianshan Wild Fruit Forest (TWFF)，which originated from the late Tertiary and early Quaternary, is a special broad-leaved forest and a priority conservation ecosystem in China， comprising a mixture of paleotemperate broad-leaved forests and north forest meadows (Chang， 1973; Xu et al., 2006). A total of 441 vascular plant species have been identified in the TWFF, including many that are endangered and relic plants (Yang et al.， 2Oo3), such as Malus sieversii and Prunus sogdiana that are wild ancestors of many cultivated tree fruit species (Yang et al.， 2003; Duan et al.， 2017). Although plant diversity in the TWFF has been widely reported (Yang et al.， 2O03; Li et al.，2011; Fang et al.， 2019)， however， our understanding about variation of diversity along the environmental gradients and links between tree and herb species diversity remains limited，as these studies neglecting effects of paleoclimate changes on diversity in the TWFF and pooling tree and herb species together as total forest diversity (Yang et al., 2Oo3; Fang et al., 2019). Therefore, in this study，we surveyed tree and herb species in the TWFF to quantify changes in diversity with latitude， longitude，elevation， and climate, and to clarify the relationship between tree and herb diversity in this forest type. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The study was conducted at five sites with contrasting tree and herb species composition and environmental factors in the Ii Kazak Autonomous Prefecture, Xinjiang Uygur Autonomous Region in Northwest China. The study area is located between Tianshan Mountains and Altay Mountains (Fig. 1)，which is the center of the TWFF in China (Chang，1973；Yang et al.， 2003).The Xinyuan and Gongliu study sites are located at the southern edge of Tianshan Mountains and are similar in tree species composition (Fig. 1)，with pure stands of Malus sieversii, but the two study sites differed in herb composition, where Urtica dioica, Festuca gigantean， and Dactylis glomerata dominated at the Xinyuan study site and Cannabis sativa， Poa annua,and Setaria viridis dominated at the Gongliu study site. Study sites of Huocheng, Tuoli,and Emin, which are located at the northern edge of Tianshan Mountains and southern edge of Altay Mountains (Fig. 1)，are comprised by mixed stands, dominated by Malus sieversii, with abundant Juglans regia, Armeniaca vulgaris， Prunus sogdiana， Crataegus chlorocarpa，and Sorbus tianshanica，while dominant herbscomprisedImpatiensbrachycentra， Achilleamillefolium， Carex pediformis, Potentilla bifurca，Bromus japonicas,and Iris tenuifolia，depending on site condition. The study area ranges from 843.8 to 1406.0 m a.s.l. in elevation and is characterized by a temperate continental climate，with mean annual precipitation (MAP) ranging from 196 to 266 mm and mean annual temperature (MAT） ranging from $3 . 2 ^ { \\circ } \\mathsf { C }$ to $7 . 0 ^ { \\circ } \\mathsf { C }$ (Table 1); mountain black brown soils dominate the area (Lin and Cui, 2000). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9af73582b6e26a08ac679ffe6fd8f22b7eeb6c80f9e9a3a2e77d5edfe2ab6526.jpg",
+        "img_caption": [
+            "Fig.1 Distribution of the study sites "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/44e8416faa707de365334024b0e1ad44e7c6fe77d68d6ab502402f0abf5c75d1.jpg",
+        "table_caption": [
+            "Table1 Geographic location,elevation,meanannual temperature (MAT)and meanannual precipitation (MAP) of the studysites "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Sites</td><td>Latitude (°N)</td><td>Longitude (°E)</td><td>Elevation (m)</td><td>MAT (C)</td><td>MAP (mm)</td></tr><tr><td>Emin</td><td>46.37</td><td>83.99</td><td>1255.0</td><td>3.2</td><td>266</td></tr><tr><td>Tuoli</td><td>46.15</td><td>83.55</td><td>843.8</td><td>5.7</td><td>235</td></tr><tr><td>Huocheng</td><td>44.43</td><td>80.79</td><td>1173.2</td><td>7.0</td><td>196</td></tr><tr><td>Gongliu</td><td>43.24</td><td>82.72</td><td>1261.0</td><td>6.4</td><td>196</td></tr><tr><td>Xinyuan</td><td>43.38</td><td>83.60</td><td>1406.0</td><td>5.6</td><td>225</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 Plant diversity ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Tree and herb species diversity was assessed in August 2018,when the herb diversity reached the maximum level. To measure diversity of tree species,we randomly placed five $2 0 ~ \\mathsf { m } \\times 2 0 ~ \\mathsf { m }$ plots at each study site,with the exception of Tuoli where four plots were established.The $2 0 \\ m { \\times } 2 0$ m sample size was recommended and used for monitoring networks of forest biodiversity in China (Mi et al., 2016;Wang et al.， 2018). Tree and shrub species abundance was recorded in the plots; shrubs were classified as trees because shrubs in this area are rare and have a high height. We recorded herb species abundance within each plot in three (at the study sites with low diversity) or five (at the study sites with high diversity) randomly placed 1 mx1 m quadrats. We calculated species richness (SR),and Shannon-Wiener $( \\mathsf { H ^ { \\prime } } )$ and Simpson's (D) diversity indices for the recorded tree and herb species (Molder et al.， 2008; Vockenhuber et al.， 2011)，and classified herbs to functional group (forbs or graminoids) to analyzetheir relationshipswithtree speciesdiversity (Vockenhuber et al., 2011). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3Environmentalvariables ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In each study plot， geographic information (longitude and latitude） and elevation were recorded using a portable GPS (eTrex H, Taiwan，China). We also extracted current climate variables (MAP, precipitation of coldest quarter (PCQ)， MAT， and mean temperature of coldest quarter (MTCQ))  and equivalent paleoclimate change anomalies since the Last Glacial Maximum (LGM)(MAPano，MATano，MTCQano，and PCQano，which are anomaly values of MAP, MAT， MTCQ，and PCQ since the LGM, respectively)，as they affect trees and herb species diversity (Curie and Paquin, 1987; Feng et al., 2016)and current diversity patterns，respectively (Jansson， 2O03; Lu et al., 2018). Current climate variables were extracted from WordClim (1970-2000; http://www.worldclim.org/) at a resolution of 1 kmx1 km (Hijmans et al., 2005), and MAPano， PCQano， MATano， and MTCQano were calculated by subtracting their values at the LGM,which were extracted from the Community Climate System Models v3 (http://www. worldclim.org/paleo-climate1) at a resolution of 1 kmx1 km (Jansson，2003； Otto-Bliesner et al.， 2006)，from corresponding current climate values (Feng et al., 2016). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4 Data analyses ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A general linear model (GLM) was adapted to explore trends in tree and herb species diversity along the environmental gradients (Ma et al., 2010). Environmental variables in this study were highly correlated with each other, that could lead to a miscalculation in the GLM due to multicollinearity; therefore, we used a principal component analysis (PCA) to produce a set of independent principal components (PCs) to represent the environmental gradients (Wang et al., 2012). The first principal component (PC1) reflected a tradeoff between temperature (MAT and MTCQ) and precipitation (MAP and MAPano) (Fig.2). For example, there were low temperatures and high levels of precipitation at the Emin study site,whereas temperatures were high and levels of precipitation were low at the Huocheng study site (Table 1; Fig. 2). The second principal component (PC2) represented elevation-induced variations in paleoclimate and current climate (MTCQano,MATano, and PCQ; Fig. 2). For example, the Xinyuan study site was located at high elevation with high levels of MTCQano and low levels of MATano and PCQ,whereas the Tuoli ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9f7448f34f30ac0590543e39f450d798976961d3919f021fd56b0c41272722fe.jpg",
+        "img_caption": [
+            "Fig.2Principal component analysis (PCA)of variation in environmental variables along the latitudinal gradient. MAP, mean annual precipitation; MAT, mean annual temperature; MTCQ, mean temperature of coldest quarter; PCQ,precipitation of coldest quarter. MAPano,MATano,MTCQano,and PCQano are "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "anomaly values of MAP, MAT, MTCQ,and PCQ since the Last Glacial Maximum,respectively.PC1 and PC2 represent the first and second principal components,respectively. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "study site was characterized by low elevation,with low levels of MTCQano and high levels of MATano and PCQ (Fig. 2). Together， PC1 and PC2 explained $8 7 . 3 \\%$ of total variation in environmental variables,so they were used in the GLM analysis of latitudinal and environmental trends in diversity (Wang et al., 2012).We also used the GLM to explore the relationship between tree and herb species diversity, where both linear and quadratic relationships were fitted separately and the best model was selected using the Akaike Information Criterion (AlC) (Brunham and Anderson，20o2). All statistical analyses were performed in R software v2.15.1 (R Development Core Team, 2012). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1 Trends in diversity along the latitudinal and longitudinal gradients ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We found that SR, and H' and D diversity indices of tree and herb species were unimodal along the latitudinal gradient ( ${ \\cdot } P { < } 0 . 0 1$ ; Figs. 3a-f), indicating that in the TWFF， the peak of diversity appeared at the middle level of latitude. However， SR，and H' and D diversity indices of tree and herb species were negatively associated with longitude（ ${ \\it P } { < } 0 . 0 1$ ； Figs.3g-l)，demonstrating that western sites had a high level of diversity while eastern sites had a low level of diversity. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 Trends in diversity along the elevational and climatic gradients ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "SR,and H' and D diversity indices for tree and herb species showed U-shaped patterns with increasing temperature (MAT and MTCQ) and decreasing levels of precipitation (MAPano and MAP) (PC1 environmental gradient; ${ \\cal P } { < } 0 . 0 0 1$ ： Figs. 4a-f). In contrast, tree specie's SR,and H' and D diversity indices,and herb specie's SR and $\\mathsf { H } ^ { \\prime }$ diversity index exhibited a unimodal pattern with increasing elevation and MTCQano,and decreasing MATano and PCQ (PC2 environmental gradient; $P { < } 0 . 0 5$ ; Figs. 4g-l). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 Relationship between tree and herb species diversity ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "There was a consistent positive， linear relationship of richness (SR） and diversity(H' and D) between tree and herb species ( ${ \\cal P } { < } 0 . 0 1$ ; Figs. 5a-c). When herbs were classified as forbs or graminoids, there was a positive relationship between tree and forb species diversity $( P { < } 0 . 0 1$ ； Figs. 5d-f). However， there was no relationship between tree and graminoid diversity ( ${ \\cdot } P { > } 0 . 0 5$ ; Figs. 5g-i). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 Discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1 Trends in tree and herb species diversity along the latitudinal and longitudinal gradients ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Diversity patterns along the latitudinal gradient is a key issue in ecology and biogeography (Hillebrand，2004; Mannion et al.，2013)，and studies have indicated they may be random or vary from unimodal, to positive or negative linear, depending on forest types and spatial scale (Gaston,2Ooo; Wilig et al., 2003). In the TWFF, richness (SR) and diversity (H' and D) of tree and herb species with increasing latitude was unimodal (Figs. 3a-f), supporting previous studies of forests in China (Wang et al., 2011, 2012). This unimodal pattern of diversity with latitude was driven by temperature,particularly by the MTCQ and temperature seasonality that is the standard deviation of mean monthly temperature (Wang et al.， 2011； Qian， 2013). Levels of MTCQ gradually decreased with increasing latitude，and it has been shown that high levels of MTCQ at lower latitudes reduce the proportion of temperate species,while low levels of MTCQ at higher latitudes decrease the proportion of tropical species that lead to low levels of species diversity at both lower and higher latitudes (Wang et al.， 2011). The peak of species diversity at the mid-latitude was attributed to the coexistence of a large numbers of tropical and temperate species (Wang et al.， 2011). This mechanism may also exist in the TWFF because MTCQ was significantly negatively correlated with latitude i $( P { < } 0 . 0 0 1 )$ （20 and the unimodal pattern of tree and herb species diversity was also found with increasing MTCQano (Figs. 4g-l). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the TWFF, we found that diversity of tree and herb species was negatively associated with longitude (Figs. 3g-l), supporting a recent study of forests in China (Wu et al., 2018). The high ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "☆Emin Huocheng VTuoli △ Xinyuan Gongliu 8 81 (a) R²=0.86,P<0.0001 (g) R²=0.66,P<0.0001   \neenge 6 4 d 6 4 ： √   \nS 2 新 中 2 好 ■ 0 0+ 43 44 45 46 47 80 81 828384 85 2.0 (b)R²=0.75P<0.0001 2.0(h) R²=0.72,P<0.0001   \ntees 1.5 / 8 0 1.5 … .   \nd 1.0- 1.0 。   \nH 0.5 B 1V 菜 0.5 √ 0.0+ 品 43 44 45 46 47 80 81 82 83 84 85 1.2 (c)R²=0.68,P<0.0001 1.2 R=0.70,P<0.0001 8 0.8 8 Q 9 □ □   \nD0.4- □ 0.4 中 4☆ 菜 ★ 1 0.0 □ 专 43 44 45 46 47 80 81 82 83 84 85 20 (d) R²=0.30,P<0.0001 20 ()R²=0.39,P<0.0001   \n1 ！ 二 文 1 1 1 15 10 F 1 0 1 目 □ 最   \nS 8 么 80 5 . 5 二 出 1 8 0 0 43 44 45 46 47 80 81 82 83 84 85 3.01 3.0 (e) R²=0.21,P<0.0001 (k) R²=0.21,P<0.0001 轮 8 鑫 2.0 日 日 鑫 A 雅 E 二 具 8   \n1.0 餐 □ 寶 1.0 □ 身 安 0.0 1 0.0 ? 43 44 45 46 47 80 81 82 83 84 85 1.2 (f) R²=0.13,P=0.0010 1.2() R=0.10, P-0.0013 哈 -0 一 卖 0.8 日 港 三 1 二   \nD0.4 ★ 0.4 赛 □ 0.0 √ 0.0 ? 43 4445 46 47 80 81 82 838485 Latitude (N) Longitude (E) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "levels of diversity at the western study sites and low levels at the eastern study sites may be attributed to variation in precipitation. For example， precipitation in Xinjiang in spring and summer ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "mainly derives from water vapor from the Mediterranean and Caspian Seas, and the Atlantic that ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Emin Huocheng VTuol1 △ Xinyuan ■Gongliu 8下 8 (a)R²=0.67,P<0.0001 / (g)R²=0.27,P-0.0357   \nseenge 6 % 6 ： 1 8 O 4 1 √ 1 41 √   \nSR 2 ★ ★ 2 V ★ / Z ★ V ★★ 中 ? 0+ 0 -6 -3 0 3 -3 0 3 6 2.0 (b)R²=0.73,P<0.0001 2.01 (h) R²=0.19,P=0.0442   \neen ge 1.5 1.0 8 1.5 1.0 0000!   \nH 0 大 V 福 01 V 真 1 -6 -3 0 3 -3 0 3 6 1.2 1.2 (c)R²=0.69,P<0.0001 (i) R²=0.25,P=0.0471 8 0.8 8 / 8 □ □   \nD 0.4 ★ 。 / ? 0.4 ? ★ 品 0.0+ ★ 文 义 □ 0.0 ★ 天 -6 -3 0 3 -3 0 3 6 20 (d) R²=0.38,P<0.0001 20 (j) R²=0.09,P=0.0093 H 15 Coror 目   \nSR 105 ★ o ★ 公 公 √ √ 0 0- -6 -3 0 3 -3 0 3 6 3.0 3.0 (e)R²=0.25,P<0.0001 (k)R²=0.07,P=0.0336 童 日 2.0 健 目 △ 中 1 H 1 二日 会 会   \nH 1.0 赛 以 日 □ 1.0 广 釋 有 □ 目 以 0.0+ ? 0.0 -6 -3 0 3 -3 0 3 6 1.2 1.2 (f) R²=0.15,P=0.0004 (l)NS   \n0 三 中 844 y 0 □ 叁会△ 餐 □ 0.0+ ? 0.0 -6 -3 0 3 -3 0 3 6 PC1 PC2 MAT (-) MAT (+) Elevation (-) Elevation (+) MTCQ (-) MTCQ (+) MTCQano (-) MTCQano (+) MAPano (+) MAPano (-) MATano $( + )$ MATano (-) MAP (+) MAP(-) PCQ (+) PCQ (-) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "PC2 (g-l) environmental gradients.Estimated relationship (solid lines) was fitted with confidence intervals (dashed lines） at $\\scriptstyle P = 0 . 0 5$ level.NS，no significant relationship．Positive $( + )$ and negative (-） signs indicated change in direction of environmental variables along the PC1 and PC2 environmental gradients. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "★Emin ● Huocheng √Tuoli △ Xinyuan ■Gongliu 8 2.0 1.2 (a)R²=0.28,P=0.0089 (b)R²=0.38,P=0.0017 (b)R²=0.28,P=0.0099 。 。 1.6 ： 8 /0 . 。 O 。 4 . = T d 。 □ 省 H0.5 □ D 0.4 □ Y □□□ 1 有 0 0.0 中 A 0.0 △ 0 3 69 12 15 0.8 1.2 1.62.0 2.4 0.4 0.6 0.8 1.0 SR of herbs H'of herbs D of herbs 8 2.0 1.2 (d)R²=0.42,P=0.0008 (e)R²=0.48,P=0.0003 (f) R²=0.28,P=0.0087   \nsan . 9 15 .   \n4 1 。 中 石 0.4 □ Y 日 ★ 0 0.0 V 0.0 △ 0 3 6 9 12 15 0.5 1.0 1.5 2.0 0.2 0.4 0.6 0.8 1.0 SR of forbs H'of forbs D of forbs 8 2.0 1.2 (g)NS (h)NS (i)NS   \nsanjo 。 . 1 8 。 。 o。 8 8 4 □   \n2 ★ △□ H0.5 ? □ □ 0.4 ? □ □ ■△ ★ ★ 0 0.0 存 长 △ 0.0 ★ ☆ -□--△ 0 1 2 3 0.00.20.40.6 0.8 0.0 0.10.20.30.4 SR of graminoids H'of graminoids D of graminoids ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "gradually decreases eastwards (Yang and Liu， 2018). The negative relationship between tree and herb species diversity with increasing longitude in the TWFF may be partly driven by this unique precipitation pattern,as global diversity was also positively related with levels of annual precipitation (Gaston, 2000). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.2 Trends in species diversity along the elevational gradient ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In the TWFF, tree species diversity was found to be unimodal with increasing elevation (Figs. 4g-l), supporting previous studies in Himalaya Mountains and temperate forests in Taibai, Taishan, and Laoshan mountains in China (Acharya et al., 2011; Zhang et al., 2016; Xu et al., 2019). However, the unimodal pattern of herb species diversity was in contrast to the negative and U-shaped pattern found in Taishan and Laoshan mountains (Zhang et al., 2O16). A global study demonstrated that types of species diversity pattern along the elevational gradient were closely related to latitude and altitude，because unimodal patterns of species diversity have been recorded at high latitudes $( { > } 4 0 ^ { \\circ } \\mathrm { N } )$ in the Northern Hemisphere (Guo et al., 2013). The TWFF lies between $4 3 . 2 3 ^ { \\circ } \\mathrm { N }$ and $4 6 . 3 6 ^ { \\circ } \\mathrm { N }$ ， and the unimodal pattern of tree and herb species diversity was consistent with these global predictions. A previous study in the study area found a negative relationship between species diversity and elevation within the range from 1100.0 to $1 5 0 0 . 0 \\mathrm { ~ m ~ }$ (Li et al., 2011). The greater range of elevation in our study $( \\mathrm { f r o m } 8 4 3 . 8 \\$ to $1 4 0 6 . 0 \\ \\mathrm { m }$ ） increased the size of the dataset and prediction power of the statistical model and likely led to the confirmation of a unimodal species diversity pattern (Guo et al., 2013). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The unimodal pattern of species diversity along the elevational gradient was generally explainedby environmental filtering and species competition (Lomolino，2001). For example， low levels of species diversity at high elevations were mainly caused by decreases in temperature and availability of soil nutrients and increased isolation, because only few species may survive in such harsh environmental conditions (Guo and Berry， 1998;Lomolino， 2001). In contrast， low levels of species diversity at lower elevations may have resulted from highly competitive ability of native species (Guo and Berry, 1998; Lomolino,20o1). The peak in level of species diversity at mid-elevations can be attributed to suitable environmental conditions that allow for the greater survival and growth of a wider range of species (Guo and Berry， 1998; Lomolino, 2001). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.3 Trends in species diversity along the climatic gradients ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Paleoclimate，particularly paleoclimate change since the LGM，was found to elicit significant effects on contemporary patterns of tree and herb species diversity (Montoya et al., 2007; Feng et al.， 2016). We found that diversity of tree and herb species in the TWFF initially decreased and then increased, with decreasing levels of MAPano and MAP (Figs. 4a-f), indicating that the climate has become more wetter and drier with greater levels of species diversity since the LGM. At the time of the LGM, the area of the TWFF was covered with snow and ice，with accompanying cool temperatures (CLIMAP Project Members, 1976；Mix et al.， 2011). Following the LGM， the retreat of snow and ice, together with an increase in temperature,led to a warmer and drier climate that likely facilitated the colonization and maintenance of a greater diversity of species (Currie et al.， 2004). Some species in the region，such as Prunus sogdiana，are likely to increase in distribution in wetter conditions (Li et al., 2011)and may have led to higher levels of diversity at sites where levels of precipitation have increased since the LGM. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.4 Relationship between tree and herb species diversity ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A recent review proposed that, in temperate forests, the contribution of herbs to ecosystem function is context-dependent (Landuyt et al.， 2019)，while previous studies have shown that the relationship between tree and herb species diversity may be positive or negative，or non-existent (Berger and Puettmann，2000；Ewald and Freising-Weihenstephan，2002；Gilliam，2007; Houle，2007； Molder et al.， 2008； Vockenhuber et al.， 2011). In the TWFF, diversity of tree species was positively associated with that of herb species (Figs.5a-c)， supporting previous studies of temperate and deciduous forests (Gilliam，2007；Molder et al.，2008；Vockenhuber et al.， 2011)，and it was unsurprising that we also found a positive relationship between tree and forb species diversity (Figs. 5d-f)，given the large proportion of forb herbs in this area. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This positive relationship between tree and herb species diversity may be driven by a number of mechanisms.Firstly, the greater diversity of tree species leads to more heterogeneous availability of light and soil nutrients，which further increases herb species diversity (Huston， 1994； Barbier et al., 2008; Vockenhuber et al., 2011). In the TWFF, high levels of herb species diversity at the Huocheng study site was mainly attributed to the presence of shadetolerant herbs, such as Impatiens brachycentra and Viola collina (Wang et al., 2016). Low levels of herb species diversity at the Xinyuan and Gongliu study sites were caused by high densities of species with rapid growth rates, such as Urtica dioica and Origanum vulgare (Li et al.， 2011)， that then increase competition among slower growing species for light and reduce overall herb species diversity. Secondly, nutrient compensation between trees and herbs is a key driver of the positive relationship between tree and herb species diversity. For example, diversity of herb species in forests of West Virginia is regulated by soil calcium (Ca), magnesium (Mg),and potassium (K),while tree species diversity is driven by soil phosphorus (P) (Gilliam and Robert, 2003; Gilliam, 20o7),as indicated by greater concentrations of $\\mathsf { P }$ in herb leaves than in trees and greater concentrations of ${ \\mathsf { C a } } ^ { 2 + }$ in tree leaves than in herbs (Muller, 2003；Gilliam，2007).Thus，decomposed $\\mathsf { P }$ from herbs becomes available for tree growth and maintains high levels of species diversity，while releases of $\\mathsf { C a } ^ { 2 + }$ from tree leaf litter provide resource for herbs. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Understanding the diversity relationships between tree and herb species has animportant implication in forest diversity conservation. In the TWFF， tree species diversity was positively associated with herb species diversity due to they responded similarly along the latitudinal， elevational and climatic gradients, indicating that both groups should be protected to ensure adequate conservation of this unique forest ecosystem. However， the underlying mechanisms of this positive relationship between tree and herb species diversity are unclear, so we recommend that controlled experiments are further needed to explore resource competition and nutrient return among and between the two species groups. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This study was financially supported by the Natural Science Foundation of Xinjiang Uygur Autonomous Region of China (2016D01A033). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acharya KP,Vetaas OR,Birks HJB.2011.Orchid species richnessalong Himalayan elevational gradients.Journal of Biogeography, 38(9): 1821-1833.   \nBarbier S,GosselinF,Balandier P.20o8.Influence oftreespecies onunderstoryvegetation diversityand mechanisms involved: Acritical review for temperate and boreal forests.Forest Ecology and Management,254(1):1-15.   \nBergerAL,Puettmann K J.2Oo.Overstorycompositionand stand structure influence herbaceous plant diversityin the mixed aspen forest in northern Minnesota.The American Midland Naturalist,143(1):111-125.   \nBrunham KP,Anderson DR.2002.Model Selectionand Multimodel Inference:A practical Information-Theoretic Approach.New York:Springer,49-96.   \nCLIMAP Project Members.1976.The surface of the lce-Age Earth:Quantitative geologic evidence is used to reconstruct boundary conditions for the climate 18,000 years ago. Science,191(4232): 1131-1137.   \nCurrie D J，Paquin V.1987. Large-scale biogeographical pattrns of species richness of trees. Nature,329(6137): 326-327.   \nCurrie DJ,Mitelbach GG,CorellHV,etal.2004.Predictionsandtestsofclimate-based hypothesesof broad-scale variation in taxonomic richness. Ecology Letters,7(12): 1121-1134.   \nDuan NB,BaiY,Sun H H,etal.2017.Genome re-sequencing reveals the historyof appleandsupports atwo-stage model for fruit enlargement. Nature Communications,8: 249,doi:10.1038/s41467-017-00336-7.   \nEwaldJ，Freising-Weihenstephan.2O02.Multiple controls of understorey plant richness in mountain forests of the Bavarian Alps. Phytocoenologia,32(1): 85-100.   \nFang ZY,LiLY,Al Kebai ErML,etal.2019.Effectsof human disturbanceon plant diversityofwildfruit forests in Western Tianshan Mountain.Bulletin of Soil and Water Conservation, 39(2): 267-274.(in Chinese)   \nFeng G,MaoLF,Sandel B,etal.2016.High plantendemism inChina ispartiallylinkedtoreduced glacial-interglacial climate change.Journal of Biogeography, 43(1):145-154.   \nGaston K. 2000. Global patterns in biodiversity. Nature, 405(6783): 220-227.   \nGiliam FS,TurllNL,Adams M B.1995.Herbaceous-layer and overstory species in clear-cut and mature central Appalachian hardwood forests. Ecological Applications, 5(4): 947-955.   \nGilliam FS,Robert MR.2003.Interactions between the Herbaceous Layerand Overstory Canopyof Eastern Forests: A Mechanism for Linkage. New York: Oxford University Press,198-223.   \nGiliam F S. 2007.The ecological significance of the herbaceous layer in temperate forest ecosystems. Bioscience, 57(10):845-858.   \nGuo Q F, Berry W L. 1998. Species richnessand biomass: Dissection of the hump-shaped relationships.Ecology, 79(7): 2555-2559.   \nGuo QF,Kelt DA, Sun ZY,et al.2013.Global variation inelevational diversitypaterns.Scientific Report,3:3007, doi: 10.1038/srep03007.   \nHijmans RJ,Cameron SE,Parr JL,etal.2O05.Very highresolution interpolated climate surfaces for global land areas.International Journal of Climatology, 25(15): 1965-1978.   \nHillebrand H.2O04.Onthe generalityof the latitudinal diversity gradient.TheAmerican Naturalist,163(2):192-211.   \nHoule G.2007.Determinants ofine-scale plant species richnessinadeciduous forest of northeastern North America. Journal of Vegetation Science,18(3): 345-354.   \nHuston MA.1994. Biological Diversity: The Coexistence of Species on Changing Landscapes.New York: Cambridge University Press,40-41.   \nIngerpuu N,Vellak K,Lira J,etal.2O03.Relationships betweenspeciesrichness pattrns indeciduous forestsatthe North Estonian limestone escarpment.Journal of Vegetation Science,14(5): 773-780.   \nJansson R.2003.Global paterns in endemism explained by past climatic change.Proceedings of the Royal Society B-Biological Sciences, 270(1515): 583-590.   \nKluge J,Sebastian W,Simon L,etal.2017.Elevational seed plants richness paterns in Bhutan,eastern Himalaya. Journal of Biogeography, 44(8): 1711-1722.   \nLanduytD,Lombaerde ED,Perring MP,etal.2019.The functionalroleof temperate forestunderstoreyvegetation in a changing world. Global Change Biology, 25(11): 3625-3641.   \nLi LP, HaiY,Anwar M,etal.2011.Communitystructure andconservationofwildfruit forests intheIlivaley,Xinjiang. Arid Zone Research,28(1): 60-66.(in Chinese)   \nLin P J,Cui N R.2000.The Resource of Wild-Fruit Forests in Tianshan Mountain: General Study on Wild Fruit Forest in li. Beijing: China Forestry Publishing House,10-13.(in Chinese)   \nLomolino MV.2001.Elevation gradients of species-density: Historicaland prospective views.Global Ecologyand Biogeography, 10(1): 3-13.   \nLu L S,Cai HY,Yang Y,etal.2018.Geographic paterns and environmental determinants of gymnosperm species diversity in China.Biodiversity Science,26(11): 1133-1146.(in Chinese)   \nMa WG,He JS,YangYH,et al.2010.Environmental factorscovary with plant diversity-productivityrelationships among Chinese grassland sites. Global Ecology and Biogeography,19(2): 233-243.   \nMannionPD,Upchurch P,BensonRBJ,etal.2013.The latitudinalbiodiversitygradient through deeptime.Trends in pia\"y.DIvuivioIy vICIcC,∠(. Ieoe   \nMix A C，Bard E，Schneider R.2011. Environmental processes of the ice age: Land,oceans，glaciers (EPILOG). Quaternary Science Review, 20(4): 627-657.   \nMolderA，Bernhardt-Romermann M,Schmidt W.2008.Herb-layer diversity in deciduous forests:Raised by tree richness or beaten by beech? Forest Ecology and Management, 256(3): 272-281.   \nMontoya D，Rodriguez MA,Zavala MA,et al.2007.Contemporary richness of holarctic treesand the historical pattern of glacial retreat. Ecography,30(2): 173-182.   \nMullerRN.2003.Nutrient Relations of the Herbaceous Layer in Deciduous Forest Ecosystems.New York:Oxford University Press,15-37.   \nNeufeld H S,Young DR.2O03. Ecophysiology of the Herbaceous Layer in Temperate Deciduous Forests. New York: Oxford University Press,38-90.   \nOto-BliesnerBL,BradyEC,ClauzetG,etal.2006.Last glacial maximumand Holocene climate in CCSM3.Journal of Climate,19(11): 2526-2544.   \nPanYD,BirdseyRA,PhilipsOL,etal.2013.The structure,distribution,and biomassof the world's forests.Annual Review of Ecology, Evolution,and Systematics,44: 593-662.   \nQian H.2013.Environmental determinants of woody plant diversity at a regional scale in China.PLoS ONE,8(9): e75832,doi: 10.1371/journal.pone.0075832.   \nR Development Core Team.2012.R: A Language and Environment for Statistical Computing. Vienna: R Foundation for Statistical Computing.   \nVockenhuber EA,Scherber C,Langenbruch C,etal.2011.Tree diversityand environmental context predict herb species richness and cover in Germany's largest connected deciduous forest. Perspectives in Plant Ecology, Evolution and Systematics,13(2): 111-119.   \nWangL,Zheng X,Hai C,etal.2016.Analysison the composition and resources of seed plants in wild-fruitforests in the Large Xigou and Smal Xigou valleys in Huocheng County, Xinjiang.Arid Zone Research,23(3): 446-452.(in Chinese)   \nWang XG,WiegandTAnderson-TeixeiraKJ,etal.2018.Ecologicaldriversofspatialcommunitydissimilarityspecies replacementand species nestednessacrosstemperate forests.Global Ecologyand Biogeography,27(5): 581-592.   \nWang XP,Tang ZY,Shen ZH,etal.2012.Relative influenceof regional species richness vs local climate on local species richness in China's forests.Ecography, 35(12): 1176-1184.   \nWang ZH,FangJY,Tang ZY,et al.2011.Paterns,determinants and models of woodyplant diversity in China. Proceedings of the Royal Society B: Biological Science, 278(1715): 2122-2132.   \nWang ZH,Fang JY,Tang ZY,et al.2012.Relative role of contemporary environment versus history in shaping diversity patterns of China's woody plants.Ecography, 35(12): 1124-1133.   \nWillig MR，Kaufman,D M，Stevens R D.2003.Latitudinal gradients of biodiversity: Pattern，process，scale and synthesis.Annual Review of Ecology Evolution and Systematics,34:273-309.   \nWuAC,Deng XW,RenXL,etal.2018.Biogeographic paternsand influencing factorsofthe speciesdiversityof tree layer communityin typicalforest ecosystems in China.Acta Ecological Sinica,38(21):7727-7738.(in Chinese)   \nXuJS,Dang H,Wang M,et al.2019.Is phylogeny more useful than functional traits for assessing diversitypatterns under community assembly processes? Forest,10(12):1159,doi: 10.3390/f10121159.   \nXu W H,Ouyang ZY, Huang H,et al. 2006.Priority analysis on conserving China's terestrial ecosystems.Acta Ecologica Sinica,26(1): 271-280.(in Chinese)   \nYang HJ,CuiDF,Xu Z,etal.2003.Analysis on the componentsand resource situationof seed plants in thewild fruit forest in Tianshan Mountain in China. Journal of Plant Resourcesand Environment,12(2): 39-45. (in Chinese)   \nYang HL,Liu J.2018.Some advances of water vapor research in Xinjiang. Journal of Natural Disasters,27(2): 1-13. (in Chinese)   \nYarie J.1980.The role of understoryvegetation in the nutrient cycle offorested ecosystems in the Mountain Hemlock Biogeoclimatic Zone. Ecology, 61(6): 1498-1514.   \nZhang W X, Huang D Z,Wang R Q.2016.Altitudinal paterns of species diversityand phylogenetic diversity across temperate mountain forests of northern China.PLoS ONE,11(7):e0159995,doi: 10.1371/journal.pone.0159995.   \nZhang XS.1973.On the eco-geographical charactersandthe problems of classification of the wildfruit-treeforest in ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "the lli Valley of Sinkiang.Acta Botanica Sinica,15(2):239-253.(in Chinese) ",
+        "page_idx": 14
+    }
+]

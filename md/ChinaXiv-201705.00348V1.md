@@ -1,0 +1,191 @@
+# Design and Ananysis of a Permanent Magnet Linear Generator for a Free-Piston Energy Converter
+
+Jinhua Chen, Youyong Liao, Chi zhang and Zhe Jiang Ningbo InstituteofMaterialsTechnology&Engineering,ChineseAcademyofSciences.Ningbo,315201,China chenjinhua@nimte.ac.cn
+
+Abstract-The free piston energy converter (FPEC) is a new type of power unit for hybrid electric vehicle.In a FPEC,an internal combustion engine driven permanent magnet linear generator(PMLG) may be utilized to produce electrical energy. This paper discusses the issues that are pertinent to the design of a linear permanent magnet generator for application in a FPEC.To achieve the required high power density and low moving mass,a tubular machine equipped with modular windings and axially magnetized is considered to be the most appropriate.Finite Element Analysis are adopted to analyse the PMLG.Magnetic fielddistribution,EMF,thrust forceand Noload corl loss are obtained through the finite element method. An effective tool for design optimization is provided.It is shown that the machine design can be optimized with respect to three key dimensional ratios while satisfying other performance specifications.
+
+# I. INTRODUCTION
+
+Efficiency improvements in order to reduce the production of CO2 are required in all technical areas of life to limit the anticipated climate changes to an extent sustainable for humanity[1].Currentapproachesinthefieldof transportation cover both increasing the efficiency of conventional drives and the development of hybrid, battery, fuel cell and range extender concepts,and combinations of these [2]-[5]. This requirement is met particularly well by Free piston energy converter (FPEC)[2],[5],[6]. It is capable of transforming chemical energy into electrical energy by means of a combustion process. This is achieved by keeping the system frequency constant and adapting to the power demanded by variation of the stroke and compression. Furthermore,these system characteristics mean that the freepistonlineargenerator can beoperated with both conventional fuels such as petrol,diesel and gas and with alternative fuels such as sun fuel, synthetic fuel,hydrogen etc[7]-[9].
+
+![](images/ab238b8cc9641f92b8554719b08489ac40ce97967b6f50c22bde2c42217e0442.jpg)  
+Fig.1 Schematic diagram of the FPEC
+
+The schematic diagram of the FPEC is shown in Fig.1. The two ends of the translator of a linear generator are connected to the two pistons of two oppositely placed combustionchambers, respectively.Thereciprocating ignition and compression processes in the two chambers drive the translator of the linear generator to move backward and forward,thus,electric energy isproduced in the generator, which will be supplied to a motor,after rectification and inverting,to drive the vehicle.As will be evident from Fig.1,Thus,The linear generator isan important part in the FPEC,and in this paper a tubular axially magnetized magnet linear generator schemeis investigated.
+
+# II. STRUCTURE OF THE TUBULAR AXIALFLUXPMLINEAR GENERATORFORFPEC
+
+A 3-phase,12-slot/1l-pole tubular linear generator equipped with a modular stator winding in which the coils of eachphase aredisposedadjacent to eachother,as shown in Fig.2,has been identified as being the most appropriate for this application.It has two parts: stator and translator. The stator is composed of the stator lamination and winding,and the translator consists of axially magnetized permanent magnets,iron segments,and stainless steel.
+
+silicon steel is the best material for low reluctance magnetic circuit material, so the stator is constructed from non oriented silicon steel laminations of grades 5oW470. The typical specifications of 5oW470 is shown in Table 1. The permanent magnets are made of a high flux density rare earth Neodymium Iron Boron with a remanence of 1.21T and a relative recoil permeability of 1.O6.the iron segments is mild steel 45 which are sandwiched between the permanent magnets to get better magnetic performance.The stainless steel material which has a relative permeability around 1 is chosen as the shaft material. The low relative penneability shaft causes almost all fluxes to flow through the stator core.To decrease the total weight and increase the specific power,the long translator structure is adopted in this paper.
+
+![](images/a48894b3a435ae7448e1d9b9965477704bb238d488c3136bcf767dfe8ef05dd5.jpg)  
+Fig.2.Schematic of 3-phase,12-slot/11-pole,axially magnetized magnet linear generator.
+
+Table 1 Lamination material property   
+
+<html><body><table><tr><td rowspan="2">Grade</td><td rowspan="2">Thk (mm)</td><td rowspan="2">Density (g/cm³)</td><td colspan="2">Max.core loss</td><td rowspan="2">Max.Inductio 5.000A/m</td></tr><tr><td></td><td>1.0TWkg1.5T</td></tr><tr><td>50W470</td><td>0.5</td><td>7.7</td><td>2.00</td><td>4.70</td><td>1.65</td></tr></table></body></html>
+
+# A. Armaturereaction
+
+The magneto-motive force (mmf) distribution in the slotted stator of a tubular PM machine may be represented using a current model,assuming that the yoke and teeth are infinitely permeable.According to Ampere's law,Figs.3(a) andFigs.4(a) show the actual MMF distribution of the three phase winding of the 3-phase，12-slot,11-pole modular machinewith single-layer and double-layerwindings, respectively.Harmonic contents of the three phase winding of12-slot,11-pole modular machine with single-layer and double-layer windings are provided in the Figs.3(b) and Figs.4(b).Fig.3(b) shows a worsening of the harmonic contents when the winding is transformed into a single-layer one.In particular, the increase of the subharmonic of order $\nu$ $\mathbf { \Psi } = \mathbf { \Psi } 1$ is evident.The lower and higher order mmf harmonics travelatdifferent speedsto the armature,andinduceeddy current losses in both the PMs,iron,and stainless steel,and may cause other undesirable effects such as localized core saturation,noise,and vibration.
+
+![](images/65695d375303971ad97e62577e220f81ad528b1fb8b9f0631deb94d94bd72435.jpg)  
+Fig.3.MMF distribution of a 12-slot 11-pole linear generator with single layer. (a) Actual waveform.(b) harmonic content
+
+![](images/beaea55edce59b2202f7672c9eb413124b86bc62af61d54c7bb9849472d2d391.jpg)  
+Fig.4.MMF distribution of a 12-slot11-pole linear generator with double layer.(a) Actual waveform.(b) harmonic content
+
+# B. FluxDistribution
+
+Calculate the induced voltage in the coils and map the flux density in the generator parts by flux calculation. The voltage induced in the coils can be derived from the flux changing with respect to time.The shape and the dimension of teeth,the back iron of the stator,and air gap are determined by the flux density. The magnetic potential vector $\vec { \bf \Phi } _ { A } ^ {  }$ ,instead of flux density,is often used in the field analysis.The differential operation to this vector potential gives:
+
+$$
+\nabla \cdot \stackrel {  } { B } = \nabla \cdot ( \nabla \times \stackrel {  } { A } ) = 0
+$$
+
+Forproblems considering saturable material with permanent magnets, the constitutive relation for the magnetic fields is:
+
+$$
+\begin{array} { c } { { { \vec { B } } = \mu { \vec { H } } + \mu _ { \scriptscriptstyle 0 } { \vec { M } } _ { r } } } \\ { { \mu _ { \scriptscriptstyle 0 } M _ { r } = B _ { r } } } \end{array}
+$$
+
+where $\mu _ { 0 }$ a is absolute permeability of free space, $\vec { M } _ { r }$ is remanent intrinsic magnetization vector,and $\mathrm { \Delta B _ { r } }$ is remanent flux density. The flux flows through an area can be calculated as:
+
+$$
+\psi = \int \stackrel {  } { B } \cdot \stackrel {  } { n } d s
+$$
+
+# C. Output Voltages
+
+Electro-motive force (EMF) of one phase is calculated from the linkage flux in the coils by Faraday'sLaw.
+
+$$
+e _ { s } = - N { \frac { d \psi } { d t } }
+$$
+
+where $N$ is the number of turns.
+
+The terminal voltage $U _ { s }$ for a phase can be expressed as:
+
+$$
+{ \it U } _ { s } = e _ { s } - { \it R } _ { s } i _ { s } + { \it L } _ { s } \frac { d i _ { s } } { d t }
+$$
+
+where $R _ { s }$ is phase resistance, $i _ { s }$ is the phase current,, $L _ { \it s }$ is phase inductance.
+
+Fig.5 shows the equivalent per phase circuit diagram of the PMLG.
+
+![](images/efdee56a320955ddb9f9ec7cf848b3634e372953d5549bc5239e5354d1f2488e.jpg)  
+Fig.5.Equivalent per phase circuit diagram
+
+# $D$ ： Output Power and Efficiency
+
+Input power is defined as follows if the mechanical loss is also neglected,
+
+$$
+P _ { i n } = P _ { o u t } + p _ { F e } + p _ { C u } + p _ { e d d }
+$$
+
+Where $P _ { \mathrm { o u t } }$ is the output power. $p _ { \mathrm { { F e } } }$ is the core loss,which can be calculated by using empirical formulas , $p _ { \mathrm { c u } }$ is copper loss which is proportional to the square of load current and
+
+（204 $p _ { \mathrm { e d d } }$ is eddy-current loss.
+
+The output power is calculated as following,
+
+$$
+P _ { o u t } = U _ { a } I _ { a } + U _ { b } I _ { b } + U _ { c } I _ { c }
+$$
+
+Where $P _ { o u t }$ is the average output power, $U _ { a } , \ U _ { b }$ and $U _ { c }$ is voltage RMS of phase A,B and C,respectively, $\boldsymbol { I } _ { a } , \boldsymbol { I } _ { b }$ and $I _ { \mathit { c } }$ are current RMS of phase A,B and $\mathbf { C }$ respectively.
+
+The efficiency of a PMLG is obtained as follows,
+
+$$
+\eta = \frac { P _ { o u t } } { P _ { i n } } { \times 1 0 0 \% }
+$$
+
+# $E$ ： Cogging Force
+
+The cogging force is due to the magnetic attraction between the permanent magnets mounted onto the shaft and the stator teeth.The force attempts to maintain the alignment between the permanent magnet and the teeth. It becomes an important parameter since its peak value is significantly high.Virtual work method is presented for computing the cogging force in the $\mathbf { X }$ direction, expressed as follows,
+
+$$
+F _ { x } = - { \frac { \partial W } { \partial x } }
+$$
+
+Where $W$ is the surface energy of mover on air-gap, expressed as,
+
+$$
+W = \sum _ { i = 1 } ^ { k } \int _ { S } \biggl [ \int _ { 0 } ^ { B } \biggl ( \stackrel {  } { H } _ { i } \cdot d \stackrel {  } { B } _ { i } \biggr ) \biggr ] d S _ { i }
+$$
+
+Where $k$ is the total number of local triangular elements on mover surface, $\stackrel {  } { H } _ { \ i }$ is the magnetic field intensity,and $\stackrel {  } { B } _ { i }$ is the magnetic flux density at element $i$
+
+# III. DESIGN OPTIMIZATION
+
+The design of the machine can be optimized with respect to the design parameters shown in Fig.6.For a given stator outer radius $R o$ ,The generator design parameters,such as the mover inner radius $R _ { \mathrm { i \cdot } }$ ，the dimensional ratios $\tau _ { \mathrm { m } } / \tau _ { \mathrm { p } }$ ,the magnet thickness hm,turns of coils $N _ { \mathrm { c } } ,$ and the airgap length $g$ are determined iteratively considering the overall generator size loss,efficiency and other parameters to arrive at an optimal system design.
+
+![](images/17d58dd0eb7e36b3e027b0b54339f2edf3c9db40b19086e6f9ca446117b3c3b4.jpg)  
+Fig.6.Design parameters of modular tubular linear generator
+
+In general, the air-gap length $g$ is assumed to be constant at $1 ~ \mathrm { m m }$ ，since although a smaller air-gap length would also improve the performance,it is limited by manufacturing tolerances.the performance improvesas $h _ { \mathrm { m } }$ is increased. However,an increase in the volume of rare-earth PM material increases the cost and results in a heavier armature, which is usually undesirable for amoving-magnet machine. In this study,therefore,the magnet thickness is fixed at 5 mm to produce an acceptable air-gap flux density and thrust force.Fig.7 shows the variation of thrust force as a function of $I _ { \mathrm { m a x } }$ and $N _ { \mathrm { c } }$ assuming $R _ { \mathrm { i } } { = } 0 . 0 2 9 \mathrm { m }$ .Fig.8 shows the variation of thrust force as a function of $I _ { \mathrm { m a x } }$ and $R _ { \mathrm { i } }$ As can be seen,irrespective of the Fig.7or Fig.8,within specified limits,as three phase current,the number of turns or the mover inner radius increases,the thrust force almost increases with linearly.
+
+![](images/0d6a656d55cf13fc9537cedbd7fe621a5dcf372fd0a1829d8c229c02976a173f.jpg)  
+Fig.7. thrust force as a function of $\tau _ { \mathrm { m a x } }$ and $N _ { \mathrm { c } }$ （204号
+
+![](images/fa05fe47cf660b913f604139d35ac6da33fde12435e3649b3f0cea3e0e36280a.jpg)  
+Fig.8.thrust force as a function of $I _ { \mathrm { m a x } }$ and $R _ { \mathrm { i } }$
+
+Fig.9 and Fig.1O show phase-to-neutral back-EMF waveforms and the rmsvalue of induced voltages for the 12- slot 1l-pole linear generator,respectively.it is possible to observe that this EMF exists an optimal ratio of $\tau _ { \mathrm { m } } / \tau _ { \mathrm { p } } { \bullet 0 . 7 }$ which yields the maximum rms value of induced voltages and the best sine wave.The no load core loss versus the variation of the dimensional ratios $\tau _ { \mathrm { m } } / \tau _ { \mathrm { p } }$ is shown in Fig.11. As can be seen,the no load core loss is reduced gradually with the $\tau _ { \mathrm { m } } / \tau _ { \mathrm { p } }$ increased.
+
+![](images/c45b944636c330e9cea6076a196cdb34ff591f8658c8b48be7f7df4ef278e413.jpg)  
+Fig.9.Phase-to-neutral back-EMF waveforms for the 12-slot 11-pole linear generatorcalculated byFEA
+
+![](images/84fc7e81711d1ff4cc1ad063be0f428a31c12de72d646448838557a3cec3faa5.jpg)  
+Fig.10.Variation of back-EMFs with dimensional ratios $\tau _ { \mathrm { m } } / \tau _ { \mathrm { p } }$
+
+![](images/50343f577f72169686c3ec095706c49479e6232686164b86d7c303f3374bf1a1.jpg)  
+Fig.11.Variation of no-load core loss with dimensional ratios $\tau _ { \mathrm { m } } / \tau _ { \mathrm { p } }$
+
+The output power and the efficiency for PMLG in different loads are shown in Fig.12.As can be seen that the output power and efficiency climb up and then decreases with an increasing load resistance.When the load resistance is $2 \Omega$ ， $8 . 7 \mathrm { k W }$ output power is got and the efficiency reached $9 3 . 9 6 \%$ at a constant speed of $1 0 \ \mathrm { m / s }$ For RL loads,the same conclusion can be obtained,and only the current phase changes.
+
+![](images/54e9827ca4de89ab70711c63de8452c91c382a670bc617a68c57cc94b436373b.jpg)  
+Fig.12.Output power and efficiency for PMLG at $1 0 \mathrm { m / s }$
+
+A linear generator design are presented here to illustrate theapplication of the finite element method.Fig.13(a) and (b)show,respectively, the no-load and full-load flux distributions of the machine,in which end-effects associated with the finite statorlength are considered.
+
+![](images/50860fe0f680328635a4b970c81d77880c68cf508e7ded20d69f324530ce4673.jpg)  
+IV. FINITE ELEMENT ANALYSIS   
+Fig.13.Flux distributions in 3-phase,a12-slot11-pole linear generator.
+
+![](images/9b2e3b18099010410b93401b5b5bd9f558df26d76c321cddc7746b46ea40934c.jpg)  
+Fig.14 shows the Br and $\mathbf { B } \mathbf { z }$ components for the no load magnetic flux density of the linear generator.Induced electromotive force when load is2 and the speed is $\mathrm { 1 0 m / s }$ is shown in Fig.15.It is clear that the three phase voltage is quite symmetrical.
+
+![](images/89eaab34f0f02cd1af42693d5779e8ae03f40fad0b7a2a8bbb591cf0788f3011.jpg)  
+Fig. 14. $B _ { \mathrm { r } }$ and $B _ { \mathrm { z } }$ components for the no load magnetic flux density of the linear generator
+
+![](images/143423db92303d1e27e33ba345b5be13766b483d621542069cfc80cd044740ce.jpg)  
+Fig.15.Back electromotive force at load   
+Fig.16.Thrust force waveforms with sinusoidal current excitation at $\mathrm { 1 0 m / s }$ #
+
+Fig.16 shows the thrust force waveforms resulting from sinusoidal current excitation and the average thrust force is $2 . 5 5 ~ \mathrm { k N }$ at $I _ { \mathrm { { m a x } } } { = } 8 0 \mathrm { { A } }$ .The peak-to-peak thrust force is in the vicinityof $0 . 2 1 \mathrm { ~ \textrm ~ { ~ k N ~ } ~ }$ at $I _ { \mathrm { m a x } } { = } 0 \mathrm { A }$ ，correspondingto approximately $8 . 2 \%$ of the linear rated thrust force.A variety of techniques are available to further reduce the thrust force ripple.For example,the magnet span can be adjusted in order to nearly eliminate the lowest frequency component of the thrust force，Bifurcated slots dummy slots in stator teeth.
+
+# V. CONCLUSION
+
+The suitability of employing a tubular PMlinear generator equipped with axially magnetized magnets in a free piston energy converter has been discussed.It has been shown that this machine topology has attractive features in terms of its high power density,high efficiency and low cogging force, which are essential for achieving a high output power from an FPEC.An effective tool for design optimization has been provided.Magnetic field distribution,EMF,thrust force and No-load core loss has been obtained through the finite element method.The output power of the PMLG has been calculated in different loads,and the efficiency reached $9 3 . 9 6 \%$ at $2 \Omega$ condition.It is shown that the machine design can be optimized with respect to three key dimensional ratios while satisfying other performance specifications.
+
+# ACKNOWLEDGMENT
+
+Project supported by International S&T Cooperation Projects of China under Grant 2014DFA7101O and the Natural Science Foundation ofNingbo under Grant 2013A610153.
+
+# REFERENCES
+
+[1]A.P.Kleemann,J.-C.Dabadie,and S.Henriot,“Computational design studies for a high-efficiency and low-emissions free-piston engine prototype,”SAEPaper2004-01-2928,2004.   
+[2] J.Fredriksson,“Modelling of a free piston energy converter,”Licentiate thesis,Chalmers UniversityofTechnology,Gothenburg,Sweden,2006.   
+[3] Zhaoping Xu and Siqin Chang，“Prototype testing and analysis of a novel internal combustion linear generator integrated power system," AppliedEnergy,87,pp.1342-1348,2010.   
+[4] Frank Rinderknecht,Hans-Georg Herzog，“Calculation of a linear generator fora hybrid vehicle concept,”XIX International Conference on ElectricalMachines-ICEM,Rome,2010.   
+[5] R.Mikalsen,E.Jones,A.P.Roskilly,“Predictive piston motion control in afree-piston internal combustion engine,”Applied Energy,87,pp.1722- 1728,2010.   
+[6] J.Wang,W.Wang,and K.Atallah,“Design of a Linear Permanent Magnet Motor for Active Vehicle Suspension”,IEEE Trans.On Vehicular Technology,vol.60,no.1,pp.55-63,2011.   
+[7] J.Wang and D.Howe,“Design and experimental verification of a linear permanent magnet generator for a free-piston energy converter,”IEEE Trans.Energy Convers.,vol.22,no.2,pp.299-306,Jun.2007.   
+[8] Zhaoping Xu and Siqin Chang_，"Improved Moving Coil Electric Machine forInternal CombustionLinear Generator,”IEEETransactions on Energy Conversion,vol.25,no.2, pp.281-286,June,2010.   
+[9] J.Wang,D.Howe and G.W.Jewell,“Analysis and design optimization of an improved axially magnetized tubular permanent-magnet machine," IEEE Trans.Energy Convers.,vol.19,no.2,pp.289-295,2004.

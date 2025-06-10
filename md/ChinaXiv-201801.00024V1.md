@@ -1,0 +1,278 @@
+编号： 2016-0178
+
+# 自适应鼓包气动构型优化与结构概念设计
+
+聂瑞，裘进浩\*，季宏丽，郝林
+
+南京航空航天大学 航空宇航学院 机械结构力学及控制国家重点实验室，江苏，南京210016，中国摘要：超临界翼型在来流速度超过临界马赫速时会出现激波，导致激波阻力迅速增加。为了减小不同飞行条件下的波阻，本文对激波控制鼓包进行了研究。通过集成NURBS曲线建模和CFD仿真模块搭建了鼓包仿真优化平台，对不同流场状态下的鼓包构型优化。以RAE2822 翼型为例进行计算，结果表明在非设计状态下，优化得到的鼓包构型可以大幅度降低翼型激波阻力，提高非设计点的气动效率。为了克服单点优化鼓包减阻有效范围小的问题，提出了一种基于形状记忆合金的二维自适应鼓包设计概念。自适应鼓包能够根据温度调节自身构型，对不同流场状态下的激波进行控制。
+
+关键词：激波阻力；激波控制鼓包；自适应鼓包；形状记忆合金；NURBS 曲线中图分类号： V211.3 文献标识码：A
+
+# Aerodynamic Configuration Optimization and Structural Concept Design
+
+of Adaptive Bump
+
+NIE Rui QIU Jin-Hao\* JI Hong-Li Hao Lin State Key Laboratory of Mechanics and Control of Mechanical Structures, Collge of Aerospace Engineering, Nanjing University ofAeronautics and Astronautics,Nanjing 21oo16,China
+
+Abstract: There is a shock wave in the supercritical airfoil when the inflow velocity is faster than the critical Mach number, which leads to the wave drag increase rapidly. In order to reduce the wave drag for different flow fields,the shock control bump are studied in this thesis.An optimization platform was developed consisting of a genetic algorithm optimiser, a NURBS curve module and a CFD simulation module and the different flow states were optimized by using this platform.A calculation for RAE2822 airfoil has been done,and the computation results demonstrate that the optimized bump configuration can reduce the wave drag of the airfoil greatly and improve the performance for off-design conditions. To overcome the problem of narrow effective regions of significant drag reduction for one-point designed bumps,a design of two-dimensional adaptive bump based on shape memory alloy is proposed. Shock wave in diferent flow condition can be controlled through adjusting the appearance of SMA bump by temperate.
+
+Key words: wave drag; shock control bump; adaptive bump; shape memory alloy; NURBS curve
+
+# 0引言
+
+据分析，2025年的全球航空运输量将比目前增长2-3倍。根据美国“新一代航空运输系统（NextGen)”计划，预计在2030-2035年投入使用的先进民机—一 $\cdot N + 3$ 代，要求其排污、油耗、运营成本等方面均有较大幅度的改善[1]。
+
+飞行器在高亚音速飞行状态，机翼、机身会有局部激波出现，且激波强度随着飞行速度的提高迅速增加。根据波音公司的研究，以翼身融合体（BWB）布局为代表的下一代民机相比现有常规机身 $+$ 机翼外形，在噪声、油耗等方面有望同时满足新一代先进民机的技术要求。研究表明，BWB构型的激波阻力显著增大，大于总阻力的 $1 0 \% ^ { [ 2 ] }$ 。因此，针对翼型的激波控制减阻技术有很强的应用前景。
+
+鼓包减阻技术，是一种典型的用于激波控制的流动控制手段。已有的研究成果表明，实体鼓包能够显著弱化激波强度、减小激波阻力，同时不附加黏性阻力[3-6]。
+
+国内外多个航空研究单位均对鼓包激波减阻特性进行了研究。1992年，Ashil1等人第一次提出了在层流翼型上使用鼓包减小激波阻力的思路[7]。NASA兰利研究中心针对高亚音速条件，对安装了固定式鼓包的翼型在非设计点时的气动状态进行了风洞实验研究，结果表明通过选用合理的鼓包构型，翼型阻力能够减小 $1 2 \% - 1 5 \% ^ { [ 8 ] }$ 。英国Glasgow 大学K.H..LO等人在超音速（ $\mathrm { M a c h } { = } 1 . 3$ ）来流条件下，研究了三维鼓包构型在翼型流动分离控制方面的应用。结果表明，三维鼓包带来的喷射压力有效的控制了气流方向和顺翼展方向上的流动分离[9]。剑桥大学JerenyP.Eastwood等人对三维鼓包构型设计进行了研究，分析了不同设计参数对鼓包减阻效果的影响[10]。
+
+鼓包减阻的多项研究表明，固定式鼓包工作带宽窄，难以实际应用。为此研究人员提出了自适应鼓包的设计概念，希望根据不同的飞行状态自动调整鼓包构型，以满足不同条件下的飞行要求。E.Jinks等人研究了单点驱动的铝制自适应鼓包结构，结果表明自适应鼓包能够对多个任务状态进行优化，可保证翼型在更大的包线内具有较优的气动特性[]。加拿大AVPopov,MLabib 等人研究了分布式驱动的自适应鼓包变形控制，对鼓包变形过程中驱动器控制方法、变形驱动力等进行了分析[12]。
+
+本文以超临界翼型激波减阻为目标，结合NURBS曲线建模、CFD仿真等方法研究以RAE2822为代表的超临界翼型鼓包位置、不同流动条件下的鼓包构型的优化问题，并在此基础上提出了一种自适应鼓包结构实现形式。
+
+# 1鼓包构型设计
+
+# 1. 1 NURBS曲线
+
+为了得到鼓包在不同气动状态下的外形，利用样条曲线对鼓包进行参数建模。常用的曲线参数设计方法包括：Bezier曲线、B样条、NURBS（Non-UniformRationalB-Splines，非均匀有理B样条）等[13]，可以根据控制点来生成目标几何模型。由于NURBS曲线具有良好的局部支撑性，即改变曲线某一控制点的值只会对与之对应的曲线局部产生影响，从而实现了对几何模型的局部修改[14]。本文选用NURBS曲线作为鼓包参数化方法，利用MATLAB编程实现自适应鼓包构型的参数化建模。
+
+通常，用参数 $\mathrm { ~  ~ u ~ }$ 表示的 $\mathfrak { p }$ 次NURBS曲线点定义为
+
+$$
+{ \bf C } ( u ) = \frac { \displaystyle \sum _ { i = 0 } ^ { n } N _ { i , p } ( u ) \omega _ { i } { \bf P } _ { i } ( x _ { i } , y _ { i } ) } { \displaystyle \sum _ { i = 0 } ^ { n } N _ { i , p } ( u ) \omega _ { i } } , a \le u \le b
+$$
+
+其中， $\left\{ \mathrm { P } _ { i } ( x _ { i } , y _ { i } ) \right\}$ 是控制点（构成曲线的控制多边形)， $\omega _ { i }$ 表示权重因子，用于定义控制点的权重。$\mathfrak { n } { + } 1$ 个权因子分别于同等数量的控制点 $\left\{ \mathrm { P } _ { i } ( x _ { i } , y _ { i } ) \right\}$ 相对应。 $\left\{ N _ { i , p } ( u ) \right\}$ 是由节点矢量 $U$ ，根据递推关系得到的p次B样条基函数。节点矢量（204号 $U = \{ u _ { 0 } , u _ { 1 } , \cdots , u _ { m } \}$ 由一组实数序列构成， $U$ 为节点矢量， $u _ { i }$ 为节点值， $u _ { i } \leq u _ { i + 1 } , i = 0 , 1 , \cdots , m - 1$ 。本文选用均匀节点矢量进行描述。
+
+$$
+\begin{array} { r } { \{ \begin{array} { l l } { N _ { i , 0 } ( u ) = \{ 1 , \quad i f u _ { i } \leqslant u < u _ { i + 1 } } \\ { 0 } \\ { N _ { i , p } ( u ) = } \\ { \quad \displaystyle \frac { u - u _ { i } } { u _ { i + p } - u _ { i } } N _ { i , p - 1 } ( u ) + \frac { u _ { i + p + 1 } - u } { u _ { i + p + 1 } - u _ { i + 1 } } N _ { i + 1 , p - 1 } ( u ) } \end{array}  } \end{array}
+$$
+
+$$
+\begin{array} { r } { U = \{ \underset { { p + 1 } } { \underbrace { a , \cdots a } } , u _ { p + 1 } , \cdots , u _ { m - p + 1 } , \underbrace { b , \cdots b } _ { p + 1 } \} } \\ { u _ { i } \leq u _ { i + 1 } } \end{array}
+$$
+
+因此，只需给出一组控制点 $\left\{ \mathrm { P } _ { i } ( x _ { i } , y _ { i } ) \right\}$ 的坐标值，指定曲线的阶次、各个控制点的权重，就可以得到一条NURBS曲线。如图1所示，为利用4个控制点生成的3阶NURBS曲线，各控制点的权重均为1。图中，曲线01控制点2的Y坐标为0.5,曲线02控制点2的Y坐标值为1.0。可以看出，通过改变控制点的坐标值，可以对曲线形状进行局部调整。
+
+![](images/57ee81c4dcd698fa097cc72b415d409f7c55ef3082cd50dc9c804cd0811cac75.jpg)  
+图1NURBS曲线随控制点的变化
+
+# 1.2激波控制鼓包构型优化方法
+
+为了得到特定流场条件下的鼓包构型，本文使用遗传算法对鼓包NURBS曲线参数进行优化。利用CFD仿真得到翼型的气动特性参数（升力系数、阻力系数、升阻比等)。在保证升力系数的条件下，寻求具有最小阻力系数的鼓包构型。
+
+利包曲线生成模块，Gambit网格更新模块，Fluent翼型气动参数计算模用isight多学科仿真优化平台，通过集成Matlab 鼓块，使用GAII遗传优化算法，实现了对不同流动状态下的鼓包构型优化。流程图如图2所示
+
+![](images/6c0cecdcdabbde9ab592983e877de45eb1f02b337480f22d87befc1d0fab43d6.jpg)  
+Fig.1NURBS Curve with the change of control points   
+Fig.2Flow chart of optimization of bump configuration
+
+# 1.3 CFD可靠性验证
+
+CFD仿真技术广泛应用于多种主动、被动流动控制技术的研究工作中，本文选用Fluent流体仿真软件对RAE2822翼型鼓包减阻的气动特性进行研究。为方便起见，选用RAE2822翼型进行软件的跨声速流动计算能力进行验证。
+
+计算状态：马赫速 $\mathrm { M a } { = } 0 . 7 2 9$ ，攻 $\mathrm { A O A } { = } 2 . 3 1 ^ { \circ }$ ，雷诺数 $\mathrm { R e } { = } 6 . 4 9 9 8 1 \mathrm { e } { + } 0 6$ 。
+
+表1为Fluent计算结果与实验结果的对比。可以看出，采用S-A模型计算的阻力偏大，SST模型计算的升力偏小。由于优化过程需要迭代多次，综合考虑计算时间、计算精度。选用S-A模型进行后续计算，网格数59800，第一层网格高度 $6 . 3 \times 1 0 ^ { - 5 }$ 倍弦长。
+
+表1RAE2822升阻特性计算与试验结果对比 Table 1 Comparison of calculation and experimenta results for RAE2822 aerofoil   
+
+<html><body><table><tr><td>Grid number</td><td>Cd</td><td>C1</td></tr><tr><td>Experiment</td><td>0.0121165</td><td>0.730962</td></tr><tr><td>59800</td><td>0.0138742</td><td>0.700442</td></tr><tr><td>S-A 64400</td><td>0.0138196</td><td>0.700179</td></tr><tr><td>75600</td><td>0.0138010</td><td>0.699636</td></tr><tr><td rowspan="2">k-w SST 64400</td><td>59800</td><td>0.0132308 0.677409</td></tr><tr><td>0.0131077</td><td>0.678579</td></tr><tr><td>75600</td><td>0.0130952</td><td>0.678749</td></tr></table></body></html>
+
+如下图所示为S-A模型计算得到的压力系数分布，结果表明在上述条件下计算得到的RAE2822翼型表明压力系数分布与NASA的风洞试验测试结果吻合较好。从计算结果可以看出，本文采用的流场计算方法是可靠的。
+
+![](images/3cef2a98db12dfbbe7d4be6435a4cd84babb41464f7e35aae101f610a255bc94.jpg)  
+图2鼓包构型优化流程图  
+图3仿真与实验结果压力系数对比  
+Fig.3Comparison of pressure coefficient between results of simulation and experiment
+
+# 2激波控制鼓包位置选择
+
+不同的鼓包变形区域、变形形状会带来不同的气动效果。为了确定合理的局部鼓包变形区域，在翼型上表面激波位置附近，选取三个不同的优化区间用于确定合理的鼓包变形区域，分别为Case1，Case2，Case3，如图4所示。变形区间取值范围如表2所示。仿真计算条件与1.3小节相同，翼型同样选择RAE2822超临界翼型。
+
+![](images/b35d8a0ee1f22c053bd6f9729c97315f7f1f161b9b91e8532d5bd3d734508c02.jpg)  
+图4鼓包优化区间选取
+
+Table 2 Bump Configuration optimization interval parameters   
+
+<html><body><table><tr><td></td><td>X/C</td></tr><tr><td>Case1</td><td>0.35-0.57</td></tr><tr><td>Case2</td><td>0.42-0.64</td></tr><tr><td>Case3</td><td>0.5-0.71</td></tr></table></body></html>
+
+优化后的升阻系数结果如表3所示，不同Case下的优化结果均呈现不同程度的减阻效果。当翼型上表面变形范围取Case2区间时，具有最好的减阻效果。在升力系数变化不大的情况下（增加了约$1 . 5 9 \%$ )，阻力系数下降了约 $6 . 1 5 \%$ ，升阻比提高了$8 . 2 5 \%$ 。远高于Case1区间和Case3区间。
+
+表3不同优化条件下的气动特性  
+Table3 Aerodynamic characteristics underdifferent   
+
+<html><body><table><tr><td colspan="4">optTmalcohdTtTons</td></tr><tr><td></td><td>Cd</td><td>C1</td><td>LD</td></tr><tr><td>Base</td><td>1.3906e-02</td><td>7.0339e-01</td><td>50.5805</td></tr><tr><td rowspan="2">Case1</td><td>1.3663e-02</td><td>7.0456e-01</td><td>51.5691</td></tr><tr><td>↓1.75%</td><td>↑ 0.17%</td><td>↑ 1.95%</td></tr><tr><td rowspan="2">Case2</td><td>1.3051e-02</td><td>7.1457e-01</td><td>54.7531</td></tr><tr><td>↓6.15%</td><td>↑ 1.59%</td><td>↑ 8.25%</td></tr><tr><td rowspan="2">Case3</td><td>1.3467e-02</td><td>7.1012e-01</td><td>52.73157</td></tr><tr><td>↓3.16%</td><td>↑ 0.96%</td><td>↑ 4.25%</td></tr></table></body></html>
+
+![](images/84a1d1c55e4576f0934b85cdbdadac622235ab51cdf182720f0bdc7d05562ee1.jpg)  
+Fig.4Bump Configuration optimization interval selection表2鼓包优化区间参数  
+图5不同优化条件下的气动特性  
+Fig.5Aerodynamic characteristics under different optimal conditions
+
+根据压力系数分布曲线，图6，所有优化结果均表现为：由最初的一道强激波变为优化后的一道弱激波，翼型表面变形实现了对激波的弱化。对于不同的鼓包变形位置，可以看出，Case1的激波出现位置与原始翼型相比并没有太大的变化，压力系数分布接近。对于Case2和Case3，从图中可以看出激波明显减弱，同时激波出现的位置相对原始翼型后移。
+
+根据计算结果，可以认为当激波位置处于鼓包变形区域中心附近时，具有最佳的减阻效果，如Case2的计算结果；当激波位置处于鼓包变形区域中心偏向前缘端时，仍有一定效果，如Case3；当激波位置处于鼓包变形区域中心偏向后缘端时，减阻效果最小。
+
+![](images/9a517872ab8cd1ad963281bac03115a972091be36d51cc2c6f11a1943425e425.jpg)
+
+![](images/773387849b4cb0ec4b61727c10bfd7563d8c51d1bb3e0e7274aa409a6ab5a67b.jpg)  
+图6压力系数分布
+
+# 3不同气动状态下的优化结果
+
+# 3.1攻角变化对气动特性的影响
+
+自适应鼓包的设计目的在于飞行器可以根据自身飞行状态的不同，实时的改变鼓包的构型，以保证在所需的飞行条件下，机翼始终具有较好的气动特性。为此，需要对不同气动状态下的鼓包构型进行优化，得到一系列的鼓包形状曲线。
+
+以变攻角模式为例，为了得到不同气动状态下的鼓包曲线，分别选取不同的攻角，在优化区间Case2区域下进行优化分析。优化攻角状态分别选取 ${ \mathrm { A O A } } { = } 1 . 8 ^ { \circ }$ ， $\mathrm { A O A } { = } 2 . 3 1 ^ { \circ }$ ， ${ \mathrm { A O A } } { = } 2 . 8 ^ { \circ }$ 。仿真计算条件与2.3小结相同，翼型同样选择RAE2822超临界翼型。如图7所示，鼓包高度随优化攻角的增大而增大，最大高度变化小于 $3 \%$ 。
+
+![](images/05668b7d3f8127d600a9b3b56d6dbcf12cb7270ada367b21e1e1f753e7d95b92.jpg)  
+Fig.6Pressure coefficient distribution   
+Fig.7Comparison of optimized configuration ofbump at different angles of attack
+
+在不同攻角下对鼓包构型进行优化计算，结果表明，在不同攻角下鼓包均能改善翼型的气动性能，表现在阻力系数减小，升阻比增大。同时，相对于阻力系数、升阻比的变化，升力系数并没有出现大幅变化，基本保持稳定（改变量小于 $2 \%$ ）。
+
+在翼型攻角较小时（ $\mathrm { ^ { \prime } A O A } { = } 1 . 8 ^ { \circ }$ ），翼型上表面无明显的激波，因此优化后的鼓包较小，对原始翼型的气动特性影响不大，升力系数、阻力系数的变化小于 $1 \%$ 。随着攻角的增加（ $\mathrm { A O A } { = } 2 . 3 1 ^ { \circ }$ ，${ \bf A O A } { = } 2 . 8 ^ { \circ }$ )，翼型上表面出现较强的激波，鼓包开始起到明显的减阻效果，阻力系数分别减少 $6 . 1 5 \%$ 和 $1 0 . 2 8 \%$ 。同时，随着攻角的增加，鼓包的高度也随之增加。
+
+表4不同优化条件下的气动特性  
+Table 4Aerodynamic characteristics under different   
+
+<html><body><table><tr><td colspan="2">optimal conditions</td><td colspan="2"></td></tr><tr><td>AOA</td><td>CL</td><td>CD</td><td>LD</td></tr><tr><td>2822-1.8</td><td>6.10e-01</td><td>1.165e-02</td><td>52.3664</td></tr><tr><td rowspan="2">Bump-1.8</td><td>6.13e-01</td><td>1.158e-02</td><td>52.9243</td></tr><tr><td>↑ 0.51%</td><td>←0.55%</td><td>↑ 1.07%</td></tr><tr><td>2822-2.31</td><td>7.03e-01</td><td>1.391e-02</td><td>50.5805</td></tr><tr><td rowspan="2">Bump-2.31</td><td>7.15e-01</td><td>1.305e-02</td><td>54.7531</td></tr><tr><td>↑ 1.59%</td><td>↓6.15%</td><td>↑ 8.25%</td></tr><tr><td>2822-2.8</td><td>7.90e-01</td><td>1.757e-02</td><td>44.944</td></tr><tr><td rowspan="2">Bump-2.8</td><td>8.04e-01</td><td>1.577e-02</td><td>50.984</td></tr><tr><td>↑ 1.78%</td><td>←10.28%</td><td>↑ 13.44%</td></tr></table></body></html>
+
+对于优化后的翼型在不同攻角下的气动性能，如图8的升阻极曲线可以看出，在非设计区域，鼓包增加了翼型阻力。在设计区域，鼓包改善了原始翼型的阻力特性。如图9所示，在大于优化攻角的条件下，对比原始翼型，增加鼓包后的升阻比有较大幅度的提升。同时，从图中可以看出，对某一特定攻角下的优化结果，当攻角小于该优化攻角时，气动特性表现较原始翼型差。
+
+![](images/5aef93d4bf729925cb1466bf00a9edf7995c5fc977c8da3c91f6cad26bb78c6f.jpg)  
+图7不同攻角下的鼓包优化构型对比  
+图8不同优化攻角下的升阻极曲线  
+Fig.8Drag polars for the clean airfoil and different bump shapes at the design angles of attack of the bumps
+
+![](images/d51af36919325d1211af525a651944f93fa0cc888b2ea6b4fdf52ca699565ea4.jpg)  
+图9不同优化攻角下升阻比随攻角的变化 Fig.9L/D vs AOA for the clean airfoil and different bump shapes at the design angles of attack of the bumps
+
+考察多个攻角下的鼓包优化结果，如图 10(a)所示，利用1.2节的优化方法，对多个攻角下的自适应鼓包构型进行优化，得到优化后的翼型气动特性。可以看出，通过对不同攻角下的鼓包构型进行优化，在大攻角下的升力有较大提升，最大升阻比提高了 $4 . 4 \%$ ，最大升阻比出现的位置从 $1 . 8 ^ { \circ }$ 攻角提高到了 $2 . 4 ^ { \circ }$ 攻角。同时相较于干净的RAE2822翼型，通过对不同攻角下的鼓包构型进行优化，使得变形后的翼型可以在一个大的攻角范围内有更高的升阻比。如图所示，优化后的翼型在 $1 . 8 ^ { \circ } - 2 . 6 ^ { \circ }$ 攻角范围内，升阻比始终大于原始翼型。图b为对应攻角下优化后得到的鼓包最大变形高度，对比图a 和图b,可以看出，当攻角小于 $1 . 8 ^ { \circ }$ 时，即小于初始翼型最大升阻比状态时，鼓包变形可以忽略，对气动特性基本没有影响。当攻角大于 $1 . 8 ^ { \circ }$ 时，优化后的鼓包最大变形高度与攻角近似呈线性增长，气动特性也有较大的提升。
+
+![](images/10f20051676cf41ea33e7506a94be710e183407cd3386de9df244f51e9a69854.jpg)  
+(a) Lift to drag ratio   
+图10不同攻角下优化前后的优化结果对比
+
+![](images/c2fd4e272f8373bb9936d245fd298af211f614ba2ca04f52ac9ce4a0c663f99e.jpg)  
+(b) Optimized results of bump height at different AOA
+
+可见，使用能够随飞行状态变化而变化的自适应鼓包，可以根据需要进行变形，保证翼型在较宽的工况条件下都能具备最优的气动特性。
+
+# 3.2优化结果在非设计点的气动特性
+
+飞机在飞行过程中，由于阵风等因素，飞行状态会在短时间内迅速变化，需要研究同一鼓包构型在不同飞行条件下的气动特性。图11分别为在不同攻角下优化得到的翼型在攻角 $1 . 8 ^ { \circ }$ 、2.31°、 $2 . 8 ^ { \circ }$ ，马赫数0.729下的升力系数和升阻比，不同攻角下的优化结果利用鼓包高度 $\mathrm { Y / C }$ 代表。
+
+![](images/01805a3ddf184882d89e4b51c1f0e1c92eb7d8dcf03daa79eb798245b8b8ed85.jpg)  
+Fig.10 Result curve before and after the optimization.
+
+如图所示，在设计点状态的优化结果由黑圈标出，其升力系数相对于干净翼型变化不大，但具有最高的升阻比，说明阻力系数大幅减小。当鼓包高度小于设计点最优高度时，升力系数基本不变，升阻比相对于原始翼型有一定的提高，提高幅度小于设计点。当鼓包高度大于设计点最优高度时，升力系数、升阻比均迅速减小。因此，只有当鼓包高度小于等于最优高度时，鼓包能够起到减阻的效果。
+
+![](images/1f60f91269feb6242b4dc7bfca1bf00cd1fb2ce56305d37bee37dc105ecf57c4.jpg)  
+图11气动性能随鼓包高度的变化规律
+
+考察攻角 $1 . 8 ^ { \circ }$ 、 $2 . 3 1 ^ { \circ }$ 、 $2 . 8 ^ { \circ }$ 下优化得到的新翼型，在气动状态为攻角 $2 . 3 1 ^ { \circ }$ 、马赫数0.729时的气动特性，图12a、b分别为其压力系数分布和气动特性变化率。可以看出，在攻角 $2 . 3 1 ^ { \circ }$ 状态下得到的优化结果（具有最优的鼓包高度）具有最优的气动特性，阻力系数降低了 $6 . 1 5 \%$ ；在 $1 . 8 ^ { \circ }$ 攻角下优化得到的翼型（鼓包高度小于最优高度)，在$2 . 3 1 ^ { \circ }$ 攻角状态下，鼓包对流场的影响很小，翼型气动性能的改善较小，阻力系数降低了 $2 . 5 1 \%$ ；在$2 . 8 ^ { \circ }$ 攻角下优化得到的翼型（鼓包高度大于最优高度)，在 $2 . 3 1 ^ { \circ }$ 攻角状态下，气流在鼓包前方已经由于受到压缩出现第一道激波，在鼓包之后又出现第二道强激波，大幅劣化了翼型气动特性，阻力系数增加了 $23 . 1 \%$ 。
+
+![](images/52e46f155452f70f148a0e0fb0c648e3b0f32e3dd07691f5862bb235df7bf67f.jpg)
+
+![](images/09a930bfe0750ff25dd8ed0ff177d59d02cba1ed5a4f605e575659b2879375a9.jpg)  
+Fig.11Aerodynamic performances of different bump shapes   
+图12不同鼓包构型在马赫数0.729，攻角 $2 . 3 1 ^ { \circ }$ 条件下的气动特性  
+Fig.12Aerodynamic performances of differentbump shapes at a design point of $\mathrm { M a } = 0 . 7 2 9$ andAOA $\scriptstyle = 2 . 3 1$ 0
+
+因此，为充分发挥鼓包的减阻效果，同时不影响翼型的升力特性，采用可主动变形的自适应鼓包,根据需要实时改变自身构型，是一个有效的选择。
+
+# 4激波控制鼓包减阻机理
+
+现代超临界机翼在设计过程中，要求翼型设计点压力分布为无激波压力分布。但是，由于传统机翼翼型不可变，无激波特征只能维持在一个较窄的飞行工况内。随着速度或者攻角的增加，机翼表面会出现较强的激波，合适的鼓包形状可以改变翼型局部构型，减小波阻。根据激波控制鼓包（SCB)相关研究，鼓包减阻的原理主要有两种形式：1）入形激波减阻原理；2）等熵压缩减阻原理。两种原理分别对应不同的鼓包构型。前述鼓包建模过程中，通过对NURBS曲线控制点进行限制，保证了鼓包跟原始翼型之间光滑过度，使得鼓包构型为凹-凸-凹构型，因此可以利用等商压缩原理进行解释。当气流流过连续光滑的鼓包曲面时，气流连续转折，产生无数道微弱的压缩波，这些压缩波聚集在一起形成了一道较弱的斜激波[15]。这一过程增加了翼型上表面的等商压缩范围，使得表面气流压缩更为充分，弱化了激波强度，减小了波阻[6]。
+
+如图13所示，随着优化条件的改变(变攻角），鼓包减阻的效果越来越强，主要减小的阻力分量为激波阻力。
+
+![](images/bab288ce2b9bb4ce7a30907f9665a72aea1ee82f72d15f48a26de89bdb1a7949.jpg)  
+图13不同优化鼓包的减阻效果
+
+以攻角 ${ \mathrm { A O A } } { = } 2 . 8 ^ { \circ }$ 为例，从图14 速度云图可以看出，使用自适应鼓包，可以明显改善非设计点的气动特性。优化后的鼓包增加了翼型上表面的等熵压缩区，对上表面气流压缩的更充分，因此使得激波出现位置后移，同时强度减弱。激波位置从$56 \text{‰}$ 位置后移到 $62 \text{‰}$ 的位置。
+
+![](images/d5611815b7a4dcce56b0e365cd603f4cf9ed03197de47bd2eaca388044600a0f.jpg)  
+Fig.13Components of drag gain for different bump shapes at a design point   
+图14激波区域速度分布Fig.14 Isobars in the shock region
+
+# 5基于SMA的自适应鼓包概念设计
+
+# 5.1 自适应鼓包设计原理
+
+形状记忆合金（SMA）具有独特的形状记忆效应效应[17,18]，广泛应用于多种工业领域。通过专门的时效处理，可以得到具有双程记忆效应的合金材料。对记忆合金结构施加不同的控制温度，结构能够在高温构型和低温构型之间连续变形[19,20]。
+
+利用形状记忆合金的双程形状记忆效应，可以实现自适应鼓包（AdaptiveBump）结构设计。如图15所示，鼓包主动变形的实现主要依靠三个方面：1)SMA蒙皮构成的鼓包；2）SMA加热装置（电磁涡流加热等)；3）SMA冷却（空气冷却）。
+
+![](images/d6a503f4ead12960020eea4d18d12d72ef872b68f1a3d92ac96364a4c3f981b0.jpg)  
+图15SMA自适应鼓包工作原理  
+Fig.15Working principle of SMA adaptive bump
+
+# 5.2 SMA鼓包变形仿真
+
+为研究SMA自适应鼓包结构设计的可行性，对SMA条带进行仿真研究，SMA本构模型采用Lagoudas 三维唯象理论模型[21-23]。通过 SMA 材料的弹性应变、热膨胀应变以及由材料相变引起的应变来描述结构变形过程中产生的应变。仿真流程如图16所示
+
+![](images/d775511843762558e5c7b2118eb47e55019af4080b1e7cbc418b2182ccd1e8db.jpg)  
+图16形状记忆合金变形仿真程序流程图 Fig.16Flow chart of simulation program for deformation of shape memory alloy
+
+# SMA材料的主要参数设置如下表所示
+
+# 表1SMA材料参数
+
+Table1Shape memory alloy material parameters   
+
+<html><body><table><tr><td>材料参数</td><td></td><td>数值</td></tr><tr><td>1</td><td>未变形条带尺寸</td><td>140*20*0.5mm</td></tr><tr><td>2</td><td>奥氏体杨氏模量</td><td>70 GPa</td></tr><tr><td>3</td><td>马氏体杨氏模量</td><td>30 GPa</td></tr><tr><td>4</td><td>正相变开始温度 Ms</td><td>291 K</td></tr><tr><td>5</td><td>正相变结束温度Mf</td><td>271 K</td></tr><tr><td>6</td><td>逆相变开始温度As</td><td>295K</td></tr><tr><td>7</td><td>逆相变结束温度Af</td><td>315K</td></tr></table></body></html>
+
+如图17所示，SMA条带仿真过程中，仿真边界条件为两端固支，在条带长度方向上有一个-0.01的预应变，温度载荷加载范围从290K到350K，以保证条带能够经历一个完整的相变循环（材料由马氏体相到奥氏体相变化）。
+
+![](images/f911e0cdc5b2f9a30aa90ee3e2c104a306fb632acc4b3cd53e4c6ce7856ab6d1.jpg)  
+图17形状记忆合金条带有限元仿真  
+Fig.17Finite element simulation of SMA ribbon
+
+图18为逆相变仿真过程的最大挠度随温度变化的曲线。结果表明，SMA条带最大挠度达到条带长度的 $4 . 4 \%$ 。同时，从逆相变开始温度As（295K）到逆相变结束温度Af(315K)之间，变形近似呈线性变化，具有较好的可控性。
+
+![](images/ed995364f8fb46fb73b3fb44e8b05e22cfd43e6d9655603cff497a26d9649c57.jpg)  
+图18形状记忆合金条带温度-位移曲线  
+Fig. 18SMA ribbon temperature displacement curve
+
+# 6结论
+
+（1）使用NURBS曲线对自适应鼓包进行参数化建模。再此基础上，应用isight优化平台集成了Matlab 鼓包曲线生成、Gamibt网格更新、Fluent流动求解模块，搭建了用于自适应鼓包优化的求解器，可以利用遗传算法进行优化求解。
+
+（2）利用鼓包优化平台研究了RAE2822翼型不同鼓包变形位置对减阻的影响，确定了最优的变形区域。研究表明，当激波位置位于鼓包中心时具有更好的减阻效果。对于RAE2822翼型， $42 \% 6 5 \%$ 弦长处为自适应鼓包最优的位置。
+
+（3）优化得到了RAE2822翼型在不同攻角下最优鼓包构型。结果表明，随着攻角的增加，鼓包减阻的效果越来越明显。在攻角 $\mathrm { A O A } { = } 2 . 3 1 ^ { \circ }$ 时，减阻 $6 . 1 5 \%$ ；攻角 ${ \mathrm { A O A } } { = } 2 . 8 ^ { \circ }$ 时，减阻 $1 0 . 2 8 \%$ 。
+
+（4）为充分发挥鼓包的减阻效果，同时不影响翼型的升力特性，需要采用可主动变形的自适应鼓包，根据气动要求实时改变自身构型。
+
+（5）提出了一种基于形状记忆合金材料的自适应鼓包设计方案。利用三维SMA本构材料程序对条带鼓包变形进行了仿真，鼓包最大变形量达到$4 . 4 \%$ ，在相变温度之间鼓包变形量与温度近似呈线性关系，理论上可以满足自适应鼓包的变形要求。
+
+# 参考文献
+
+[1]朱自强．民机空气动力设计先进技术[M]．上海：上海 交通大学出版社， 2013:18-23 Zhu Ziqiang. Advanced Technology of Aerodynamic Design For Commercial Aircraft [M.ShangHai:ShangHai Jiao Tong University Press,2013:18-23   
+[2] Qin N,Vavalle A,Moigne A L,et al. Aerodynamic considerations of blended wing body aircraft [J].Progress in Aerospace Sciences,2004,40(6): 321-43.   
+[3] 李沛峰,张彬乾，陈迎春,等．减小翼型激波阻力的鼓 包流动控制技术 [J]．航空学报，2011，32(6):971-977. Li Peifeng, Zhang Binqian, Chen Yingchun, et al. Wave Drag Reduction of Airfoil with Shock Control Bump [J]..Acta Aeronautica et Astronautica Sinica, 2011, 32(6): 971-977.   
+[4]Birkemeyer J, Rosemann H, Stanewsky E. Shock control on a swept wing [J]. Aerospace Science & Technology, 2000,4(2000): 147-156.   
+[5]Bruce P JK, Colliss S P.Review of research into shock control bumps [J]. Shock Waves,2015,25(5): 1-21.   
+[6]Stanewsky E,Delery J,Fulker J, et al. Euroshock - Drag Reduction by Passive Shock Control [J]. Notes on Numerical Fluid Mechanics,1997, 56   
+[7]Ashill P,Fulker J.A Novel Technique for Controlling Shock Strength of Laminar-Flow Aerofoil Sections [C]. Proceedings 1st European Forum on Laminar Flow Technology. Hanburg: DGLR Bericht ,1992:175-183.   
+[8] W Miholen,L Owens. On the Application of Contour Bumps for Transonic Drag Reduction (Invited) [C].43rd AIAA Aerospace Science Meeting and Exhibit. Nevada: AIAA, 2005: AIAA 2005-0462.   
+[9]Lo K H, Zarebehtash H, Kontis K. Effectiveness of Flow Separation Control on Contour Bumps under a Mach 1.3 Freestream: An Experimental Study [J]. Communication Systems,2013,AIAA 2014-2976   
+[10] Eastwood J P,Jarrett J P. Toward Designing with Three-Dimensional Bumps for Lift/Drag Improvement and Buffet Alleviation [J]． Aiaa Journal，1971，50(12): 2882-2898.   
+[11] Jinks E R, Bruce PJ, Santer M J. Adaptive Shock Control Bumps[C]. 52nd Aerospace Sciences Meetin. Maryland: AIAA, 2014: AIAA2014-0945   
+[12] Popov A V, Labib M, Fays J, et al. Closed-Loop Control Simulations on a Morphing Wing [J]. Journal of Aircraft, 2008,45(5): 1794-1803.   
+[13] J，Riuml,L M, et al. Optimized Nonuniform Rational B-Spline Geometrical Representation for Aerodynamic Design of Wings [J]. Aiaa Journal,2001，39(11): 2033-2041.   
+[14]皮格．非均匀有理B样条[M].北京：清华大学出版社, 2010:86-91 Les Piegl. The NURBS BOOK [M]. BeiJing: TsingHua University press, 2010:86-91   
+[15]何立明．气体动力学 [M]．北京：国防工业出版社, 2009: 120-127. He Liming. Gas Dynamics[M]. BeiJing: National Defens Industry Press,2009:120-127.   
+[16] Mazaheri K, Kiani K C, Nejati A, et al. Optimization and analysis of shock wave/boundary layer interaction for drag reduction by Shock Control Bump [J]. Aerospace Science & Technology,2015,42:196-208.   
+[17]Mirzaeifar R, Shakeri M, Sadighi M. Nonlinear finite element formulation for analyzing shape memory alloy cylindrical panels[J]. Smart Materials & Structures,2009, 18(3): 2202-2221.   
+[18] Lagoudas D C. Shape Memory Alloys :Modeling and Engineering Applications [M]. New York ： Springer, 2008:1-43   
+[19]陶宝祺．智能材料结构[M]．北京：国防工业出版社, 1997: 22-40 Tao Baoqi. Smart Materials and Structural[M].BeiJing: National Defens Industry Press,1997: 22-40   
+[20] 赵澎涛，裘进浩，于慧臣．形状记忆合金三维鼓包结构 热变形的有限元模拟[J]．机械工程材料，2014, 38(3):96-101. ZHAO Pengtao,Qiu Jinhao,Yu Huichen.Finite Element Simulation of Thermal Deformation of Shape Memory Alloy Three Dimensional Bump Structure [J].Materials For Mechanical Engineering,2014, 38(3):96-101.   
+[21] Qidwai M A,Lagoudas D C. On thermomechanics and transformation surfaces of polycrystalline NiTi shape memory alloy material [J]. International Journal of Plasticity,2000,16(10): 1309-1343.   
+[22] Bo Z,Lagoudas D C. Thermomechanical modeling of polycrystaline SMAs under cyclic loading， Part I: theoretical derivations[J].International Journalof Engineering Science,1999,37(37): 1089-1140.   
+[23] Roh JH, Lee K S K. Shape Adaptive Airfoil Actuated by a Shape Memory Alloy and its Aerodynamic Characteristics [J].Mechanics of Advanced Materials& Structures,2009, 16(3): 260-274.

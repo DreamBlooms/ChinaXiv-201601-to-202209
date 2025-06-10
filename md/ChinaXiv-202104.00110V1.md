@@ -1,0 +1,174 @@
+# 氮添加和降水变化对红砂生理指标的影响
+
+杨洁，单立山，白亚梅，张婉婷，张正中，解婷婷，李毅(甘肃农业大学林学院，甘肃 兰州730070)
+
+摘要：以红砂幼苗为研究对象，测定了不同降水[降水减少 $3 0 \% ( \mathrm { W } - )$ 、自然降水(W)和降水增多 $3 0 \% ( \mathrm { W } + )$ ]和氮添加 $\big [ \mathrm { N } _ { 0 } ( 0 \mathrm { ~ g } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 } ) \mathrm { ~ } _ { \mathrm { N } _ { 1 } } ( 4 . 6 \mathrm { ~ g } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 } ) \mathrm { ~ } _ { \mathrm { N } _ { 2 } } ( 9 . 2 \mathrm { ~ g } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 } ) \mathrm { ~ } \big ] \mathrm { ~ w } _ { 1 } ( 0 . 2 \mathrm { ~ g } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 } )$ $\mathbf { \nabla } . \mathrm { N } _ { 3 } ( 1 3 . 8 \ \mathrm { g } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 } )$ ]条件下红砂幼苗叶片的脯氨酸1 $\scriptstyle \left. \mathrm { P r o } \right|$ ）、叶绿素(Chl）、超氧化物歧化酶(SOD）、过氧化物酶(POD)和可溶性蛋白(SP)含量。结果表明：(1）在自然降水量(W)和降水量增加 $3 0 \% ( \mathrm { W } + )$ 条件下,随施氮量的增加,红砂脯氨酸和叶绿素含量呈增加趋势,说明水分条件适宜时，水氮会发挥耦合效应促进脯氨酸和叶绿素的积累。(2）在无氮添加 $\left( \mathrm { N } _ { 0 } \right)$ 和低氮 $\left( \mathbf { N } _ { 1 } \right)$ 水平下，自然降水量(W)条件下的POD活性分别显著小于降水量减少 $3 0 \% ( \mathrm { W } - )$ 条件下的值，中氮 $\left( \mathbf { N } _ { 2 } \right)$ 、高氮 $\left( \mathbf { N } _ { 3 } \right)$ 水平下则明显相反。说明在低氮水平下,降水量增加抑制POD活性的增加,而中氮和高氮添加极大地减缓这种抑制作用,促进POD活性的增强,表现了氮水间的补偿效应。（3）在自然降水量(W)条件下,随氮添加量的增加,可溶性蛋白含量先增大后减小，而降水量减少 $3 0 \% ( \mathrm { W } - )$ 条件下，氮添加对可溶性蛋白含量影响不显著。说明在正常水分条件下，适量的氮素添加会促进植物体内蛋白的转化，但当施氮量达到一定临界值时,氮素含量的持续增加将会抑制可溶性蛋白的产生,而水分亏缺时施氮对可溶性蛋白的转化无显著影响。
+
+关键词：降水变化；氮添加；生理指标；红砂
+
+20世纪中叶以来，由于化石燃料燃烧、化学氮肥使用等人类活动的增加，大气中含氮化合物的排放量也呈迅猛增加的趋势，预计到21世纪末，全球氮沉降速率将增加2\~3倍[2]。研究表明,适量外源氮素的增加会改变植物生理变化，刺激植物生长，增强植物抗性[3]。同时,受全球气候变化的影响,未来全球降水格局会产生巨大变化，极端天气和干旱强降水事件的发生频率将增加，西北干旱区降水的季节性波动表现更加明显[4],降水作为植被生长发育最主要的限制因子，其变化必将对植物生理生态产生深刻影响[5]。我国西北干旱和半干旱区作为对全球变化响应极其敏感的地区，降水和氮浓度将成为制约该区域生态系统恢复和植物生长繁殖的关键因子[6。因此，加强干旱区降水变化和氮沉降对荒漠植物生理变化特征的研究，有利于从理论上阐明荒漠植物对氮素和水分变化的生理生态响应机制，对荒漠植被的保护、恢复和重建具有重要意义。
+
+氮素和水分对植物的影响是相互依赖的[7]。有研究表明，氮沉降可以增强植物抗旱的能力，减轻水分胁迫对植物生长等的抑制作用[8-9]。但是有学者却发现，氮添加会抑制植物生长，使植物对水分胁迫的变化更为敏感[10-1]。还有研究发现,无水分胁迫时，氮对植物有显著的正向调节作用；轻度水分胁迫下，氮对植物的影响不明显；重度水分胁迫下,氮对植物呈负效应调节[12]。植物生理指标的变化是对植物生长状况的综合反映，水分胁迫和氮沉降会对植物内部的生理生化指标产生影响[13]。杨晓清等[14]对土沉香幼苗(Aquilaria sinensis)的研究表明，正常水分条件下，高氮处理(氮素浓度为15$\mathrm { m m o l } \cdot \mathrm { L } ^ { - 1 }$ )有利于提高抗氧化酶(SOD,POD,CAT)活性。周晓兵等[15研究发现，无论土壤干旱还是湿润，钩刺雾冰藜(Bassiahyssopifolia)叶片叶绿素含量随施氮浓度的增加都显著增加;同一施氮浓度下，干旱处理在一定程度上降低了涩荠(Malcolmia africana)的可溶性蛋白含量，这些生理指标的改变都可能直接影响到植物的生长。然而，由于植物种属和试验环境等诸多因素的差异，关于氮水交互胁迫对植物生理特征影响的研究仍无统一定论。对于长期生长在高辐射、高温、干旱环境下的荒漠植物，其生理生化特征对氮水交互作用如何响应，是否具有特殊的机制，相关研究较为薄弱。
+
+红砂（Reaumuriasoongorica）,别名琵琶柴,是我国西北干旱和半干旱区荒漠灌丛植被的主要优势种和建群种[16],具有很强的抗旱性、耐盐性和生态可塑性[17],在保护和改善荒漠生态系统方面发挥着重要作用。目前，关于红砂的研究主要集中在单因素水分胁迫下生物量分配[18]、光合和荧光特性[19-21]根系形态[22]等方面。但近年研究发现与气候相关的环境因子都是协同作用对生态系统功能产生影响[23]，关于多因素交互作用对红砂生理生态影响的研究主要基于水分胁迫和 $\mathrm { C O } _ { 2 }$ 浓度变化两方面[24-25]。氮素作为制约干旱半干旱区生态系统植被生长、分布的关键因子，就氮水结合对红砂生理指标影响的研究较少。因此,本研究以红砂幼苗为研究对象，在其生长季节内通过人工控制降水量和氮浓度开展模拟试验，测定其叶片各生理指标的变化，旨在探讨氮水变化对红砂生理指标的影响机制，为科学预测未来气候变化对荒漠植被生长的影响趋势及植被恢复和重建提供理论指导和科学依据。
+
+# 1试验材料与试验方法
+
+# 1.1试验材料培养
+
+2018年3月底至4月初，从红砂自然分布区选取长势基本一致的红砂幼苗，平均株高 $1 0 \ \mathrm { c m }$ 、株幅$1 0 \ \mathrm { c m }$ 。将所有幼苗移植到校内试验基地内上径32$\mathrm { c m }$ ，下径 $2 6 \mathrm { c m }$ ，高 $3 5 ~ \mathrm { c m }$ 的花盆中,每盆装土 $1 3 \mathrm { ~ k g }$ 种植1株幼苗，试验共设12个处理(3个降水梯度、4个氮梯度），每个处理设置9个重复，共计108盆植株。定植后为保证幼苗成活每天进行水分管理和遮阴处理，待缓苗2个月后，于6月初开始控水和施氮处理。
+
+# 1.2 试验设计
+
+根据红砂在西北典型分布区生长季(6—10月）每月平均降雨量设置降水梯度。根据资料显示（以中国气象局1951—2011年的降雨资料为依据），分布区多年平均降雨量为 $1 1 0 \mathrm { m m }$ ,降雨量较高年份多为 $1 4 2 ~ \mathrm { m m }$ 左右，比多年平均值高出约 $3 0 \%$ ;降雨量较低年份多为 $7 7 ~ \mathrm { m m }$ 左右，比多年平均水平低约$3 0 \%$ 。根据气象资料统计多年平均自然降雨量113$\mathbf { m } \mathbf { m }$ ,本试验模拟年降水量为 $1 1 0 ~ \mathrm { m m }$ ,在此基础上，增加和减少了 $3 0 \%$ ，分别为 $\mathbb { W } +$ （降水量增加 $30 \%$ ））和W-（降水量减少 $30 \%$ )处理降水量。在模拟降水量的试验中，计算出6一10月的月降水量占比，分别换算出每个月的降水量[26-28]。然后，根据花盆直径大小将各处理的降水量换算为灌水量。
+
+参照西北荒漠区大气氮沉降水平[29]，将添加氮素量设置4个水平,分别为：对照( $\mathrm { \Delta N _ { 0 } }$ ：氮素 $0 \ \mathrm { g }$ .$\mathbf { m } ^ { - 2 } \cdot \mathbf { a } ^ { - 1 } )$ 、低氮水平 $\left( \mathrm { N } _ { 1 } : 4 . 6 \ \mathrm { g } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 } \right)$ 、中氮水平（204号 $\left( \mathrm { N } _ { 2 } \colon 9 . 2 \ \mathrm { g } \cdot \mathbf { m } ^ { - 2 } \cdot \mathbf { a } ^ { - 1 } \right)$ ）、高氮水平 $\left( \mathrm { N } _ { 3 } : 1 3 . 8 ~ \mathrm { g } \bullet \mathrm { m } ^ { - 2 } \bullet \mathrm { a } ^ { - 1 } ~ \right)$ ，模拟施氮材料选择尿素 $\mathrm { \bar { \Gamma } ( N H _ { 2 } ) _ { 2 } C O ) }$ ][30],根据尿素中氮的含量为 $4 6 . 7 \%$ ，将 $\mathrm { N } _ { 1 } , \mathrm { N } _ { 2 } , \mathrm { N } _ { 3 }$ 分别换算成1a施入花盆尿素的量,分别为 $0 . 8 8 6 5 \ \mathrm { g } \cdot 1 . 7 7 3 0 \ \mathrm { g } \cdot 2 . 6 5 9 5 \ \mathrm { g }$ 并分5次于6—10月在红砂生长期间均匀喷洒于土壤中。
+
+# 1.3样品采集和指标测定
+
+在7月、9月、11月月底分3次取样，每次取样36盆。采集样品时，选择晴朗天气，取红砂幼苗中上部健康鲜叶放入带盖试管中，装入带有冰袋的保温箱，立即带到试验室进行生理指标测定。
+
+# 1.4生理指标测定方法
+
+脯氨酸(Pro)含量采用磺基水杨酸提取法[31]、叶绿素(Chl)含量采用丙酮比色法[32]、过氧化物酶(POD)采用愈创木酚法[33]、超氧物歧化酶(SOD)采用氮蓝四唑(NBT)法[33]、可溶性蛋白(SP)采用考马斯亮蓝G-250染色法[34测定。
+
+# 1.5数据处理与分析
+
+数据采用SPSS20.0进行统计分析，氮添加和降水量对红砂生理指标的影响采用双因素方差分析；对同一降水量(氮添加量)不同氮添加量(降水量)下红砂生理指标进行了单因素方差分析，运用Duncan检验法进行多重比较。作图采用Excel2016，图中数值均为平均值 $\pm$ 标准误差。
+
+# 2结果与分析
+
+# 2.1不同降水量和氮添加条件下叶绿素(ChI)含量的变化特征
+
+由表1可以看出，红砂叶绿素含量受氮添加量的影响极显著 $_ { ( P < 0 . 0 0 1 }$ )。由图1可知，在自然降水量条件下，红砂叶绿素含量随氮添加量的增加呈增加趋势，在高氮水平其含量达到最大值。在降水量减少 $3 0 \%$ 和降水量增加 $3 0 \%$ 条件下，红砂叶绿素含量随氮添加量的增加呈先升高后降低趋势，均在中氮水平下达到最大值，比无氮添加、低氮、高氮水平下的叶绿素含量增加了 $7 0 . 8 1 \% . 5 5 . 2 6 \% . 3 1 . 4 9 \%$ 和$3 4 . 4 2 \% . 3 2 . 5 8 \% . 7 . 2 5 \%$ 。各降水梯度下，施氮植株的叶绿素含量均分别显著高于未施氮植株。各氮添加水平下，降水量增加 $3 0 \%$ 条件下的叶绿素含量均显著高于降水量减少 $30 \%$ 和自然降水量条件下注： $\mathrm { N } _ { 0 }$ 表示 $0 \mathrm { g } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ ,N表示 $4 . 6 \mathrm { g } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ $\mathbf { N } _ { 2 }$ 表示 $9 . 2 \ \mathrm { g } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 } , \mathrm { N } _ { 3 }$ 表示 $1 3 . 8 ~ \mathrm { g } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ ;W-表示降雨量减少 $3 0 \%$ ,W表示自然降雨量，$\mathbb { W } +$ 表示降雨量增加 $3 0 \%$ ;不同小写字母表示相同水分处理下不同施氮水平间差异显著，不同大写字母表示相同施氮水平不同水分处理间差异显著 $( P { < } 0 . 0 5 )$ 。下同。
+
+表1降水量、氮添加量及二者的交互作用对红砂幼苗生理指标的双因素方差分析 $( F$ 值  
+Tab.1Two-wayANOVA( $F _ { \ l }$ -values) of effects of precipitation,nitrogen addition and their interaction on the physiological indexes of R. soongorica seedlings   
+
+<html><body><table><tr><td rowspan="2">因子</td><td colspan="2">降水量</td><td colspan="2">氮添加量</td><td colspan="2">交互作用</td></tr><tr><td>df</td><td>F</td><td>df</td><td>F</td><td>df</td><td>F</td></tr><tr><td>脯氨酸(Pro)</td><td>2</td><td>0.093</td><td>5</td><td>5.377**</td><td>6</td><td>0.051</td></tr><tr><td>叶绿素(Chl)</td><td>2</td><td>0.002</td><td>5</td><td>9.178***</td><td>6</td><td>0.104</td></tr><tr><td>可溶性蛋白(SP)</td><td>2</td><td>0.200</td><td>5</td><td>4.174**</td><td>6</td><td>1.072</td></tr><tr><td>过氧化物酶POD</td><td>2</td><td>0.175</td><td>5</td><td>2.077</td><td>6</td><td>0.296</td></tr><tr><td>超氧化物歧化酶SOD</td><td>2</td><td>0.208</td><td>5</td><td>12.118***</td><td>6</td><td>1.339</td></tr></table></body></html>
+
+注：\*表示在0.05水平下差异显著;\*\*表示在0.01水平下差异显著;\*\*\*表示在0.001水平下差异显著。下同。
+
+![](images/d5512461b0cb011801efe13313aa90f8af49e21a7cc438dbe9228b0f78f49204.jpg)
+
+图1不同降水量和氮添加量条件下红砂叶绿素含量的变化 Fig.1 Dynamics of chlorophy of $R$ ，soongorica seedlings in different precipitation and nitrogen addition
+
+的叶绿素含量。
+
+# 2.2不同降水量和氮添加条件下脯氨酸(Pro)和可溶性蛋白(SP)含量的变化特征
+
+由表1还可以看出，脯氨酸含量受氮添加量的影响极其显著( $\scriptstyle { \overbrace { P { < } 0 . 0 1 } } .$ )。由图2可知，在自然降水量和降水量增加 $3 0 \%$ 时，脯氨酸含量在不同氮处理间差异显著，且均随着氮添加量的增加而增大，高氮水平下脯氨酸含量比无氮添加、低氮、中氮水平下的值分别增加了 $123 . 3 1 \%$ 、 $1 5 . 3 9 \%$ ！ $7 . 3 6 \%$ 和$5 4 . 5 0 \% . 2 7 . 4 6 \% . 2 0 . 0 3 \%$ 。降水量减少 $3 0 \%$ 条件下，施氮增加了红砂叶片脯氨酸含量，但随着氮浓度的升高其值显著减小。同一降水梯度下，施氮植株的脯氨酸含量均显著高于未施氮植株。不同氮水平下，降水量增加 $3 0 \%$ 时脯氨酸含量均显著大于自然降水量条件下对应的值。在高氮水平下，红砂脯氨酸含量随降水量的增加呈增加趋势。
+
+如图2所示，在自然降水量和降水量增加 $30 \%$ 条件下，施氮植株的可溶性蛋白含量均分别高于未施氮植株。在自然降水量条件下，随氮添加量的增加，可溶性蛋白含量先增大后减小，在中氮水平下达到最大值，较无氮添加增加了 $5 4 . 4 4 \%$ 。降水量增加 $3 0 \%$ 条件下，低氮、中氮、高氮水平下的可溶性蛋白含量比无氮添加条件下的可溶性蛋白含量分别增加了 $9 8 . 8 9 \% . 4 9 . 3 2 \% . 9 2 . 5 3 \%$ 。在无氮添加水平下，可溶性蛋白含量随降水量的增加呈降低趋势，在低氮水平下呈增加趋势。可溶性蛋白含量的最大值出现在中氮水平和自然降水量共同作用的条件下。
+
+# 2.3不同降水量和氮添加条件下超氧化物歧化酶(SOD)活性和过氧化物酶(POD)活性的变化特征
+
+由图3可知，在自然降水量条件下，随氮添加量的增加，SOD活性逐渐增大，高氮水平下的SOD活性较无氮添加、低氮、中氮水平分别增加了 $5 9 . 0 2 \%$ 、$1 8 . 4 2 \% \cdot 1 2 . 3 2 \%$ 。在降水量减少 $3 0 \%$ 条件下，高氮水平下的SOD活性较无氮添加、低氮、中氮分别增加了 $2 8 . 1 5 \% . 5 4 . 4 5 \% . 2 7 . 5 6 \%$ 。在低氮水平下SOD活性随降水量的增加呈逐渐增加趋势，降水量增加$30 \%$ 时SOD的活性较降水量减少 $3 0 \%$ 和自然降水量时分别增加了 $4 4 . 2 6 \%$ 和 $1 1 . 8 9 \%$ ;而在高氮水平下SOD活性随降水量的增加呈逐渐降低趋势，降水量减少 $30 \%$ 时SOD活性值最大，相比于自然降水量和降水量增加 $3 0 \%$ 条件下的值分别增加了 $1 . 1 6 \%$ 和$1 6 . 3 4 \%$ 。
+
+![](images/c28e70eaf78b90d753f349535592669af8663763f14ff0828dcca25e2436010c.jpg)  
+图2不同降水量和氮添加量条件下红砂脯氨酸和可溶性蛋白含量的变化
+
+![](images/6fcf5d74eb739fbc9114aaa9683816fed33fd9db16afb6e554171e16c176c8d1.jpg)  
+Fig.2Dynamics of prolineand soluble proteinof R.soongorica seedlings indiferent precipitationandnitrogenadditior   
+图3不同降水量和氮添加量条件下红砂超氧化物歧化酶(SOD）、过氧化物酶(POD)活性的变化Fig.3Dynamics of SOD、POD of R.soongorica seedlings in different precipitation and nitrogen additiol
+
+由图3还可知，降水量减少 $3 0 \%$ 时，随施氮量的增加，POD活性呈显著降低趋势，无氮添加水平下的POD活性较低氮、中氮、高氮水平下的值分别增加 $1 9 . 7 8 \% . 5 2 . 1 1 \% . 1 5 8 . 2 0 \%$ 。在4种氮水平下，降水量增加 $3 0 \%$ 条件下的POD活性均显著小于自然降水量条件下的POD活性，POD活性的最大值均出现在中氮水平，分别比低氮水平下的最小值增加了$3 6 . 3 5 \%$ 和 $8 3 . 3 5 \%$ 。无氮添加和低氮水平下，随着降水量的增加，POD活性显著减小，降水量减少 $3 0 \%$ 条件下的POD活性较自然降水量和降水量增加$3 0 \%$ 条件下的值分别增加了 $3 9 . 4 1 \%$ 、 $1 2 8 . 4 8 \%$ 和$5 2 . 4 5 \%$ 、 $1 3 2 . 2 2 \%$ 。中氮和高氮水平下POD活性均在自然降水量条件下达到最大值。
+
+表2降水变化和氮添加下红砂生理指标的相关性分析  
+Tab.2Correlationanalysisofphysiologicalindexes of R.soongoricaunderprecipitationchangeandnitrogenaddition   
+
+<html><body><table><tr><td>相关指标</td><td>脯氨酸</td><td>叶绿素</td><td>SOD活性</td><td>POD活性</td><td>可溶性蛋白</td></tr><tr><td>脯氨酸</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>叶绿素</td><td>0.644*</td><td>1</td><td></td><td></td><td></td></tr><tr><td>SOD活性</td><td>0.175</td><td>0.463</td><td>1</td><td></td><td></td></tr><tr><td>POD活性</td><td>0.084</td><td>-0.508</td><td>-0.582*</td><td>1</td><td></td></tr><tr><td>可溶性蛋白</td><td>0.370</td><td>0.268</td><td>0.683*</td><td>-0.179</td><td>1</td></tr></table></body></html>
+
+# 2.4各生理指标相关性分析
+
+由表2结果表明，不同降水变化和氮添加条件下红砂各生理指标间存在相关性。红砂脯氨酸和叶绿素含量呈一定的正相关( $_ { ( P < 0 . 0 5 ) }$ ;SOD活性与POD活性呈显著负相关 $( P { < } 0 . 0 5 )$ ,与可溶性蛋白含量呈显著正相关( $( P { < } 0 . 0 5 )$ 。
+
+# 3讨论
+
+叶绿素作为植物进行光合作用的重要物质，其含量会直接影响植物有机物的积累，进而影响植物生长发育[35-37]。脯氨酸作为植物体内重要的渗透调节物质之一，脯氨酸含量的增加有利于提供合成蛋白质的碳源和氮源，为植物正常生理代谢活动提供能源[38-39]。本研究发现,在自然降水量条件下,红砂叶绿素含量随氮添加量的增加呈增加趋势，说明氮素作为植物体内叶绿素的组成元素，与叶绿体的形成，叶绿素的合成和积累存在特有的正向关联作用。本研究发现在无氮添加、低氮、中氮处理下，降水量减少 $3 0 \%$ 时的脯氨酸含量均显著大于相对应的自然降水量条件下的脯氨酸含量。说明水分胁迫会促进红砂叶片积累大量的脯氨酸来降低体内渗透势，提高吸水能力以增强自身抗旱性[24]。在自然降水量和降水量增加 $3 0 \%$ 时，脯氨酸含量均随着氮添加量的增加而显著增大，说明在水分充足条件下施氮可以显著促进红砂叶片脯氨酸的积累。这与杨晓清等[4]研究发现在正常水分条件下，施氮显著提高土沉香(Aquilaria sinensis)的脯氨酸质量分数的结果一致。本研究还发现，在同一氮添加条件下，降水量增加 $3 0 \%$ 条件下的脯氨酸和叶绿素含量分别显著大于自然降水量条件下的值;氮水交互作用条件下，脯氨酸含量的最大值出现在降水量增加$3 0 \%$ 高氮组，叶绿素含量的最大值出现在降水量增加 $3 0 \%$ 中氮组，两者最小值均出现在自然降水量无氮添加组，脯氨酸含量最大值较最小值增长了$1 6 9 . 4 9 \%$ ，叶绿素含量最大值较最小值增长了$8 6 . 4 7 \%$ 。说明降水增加和高氮添加协同对红砂脯氨酸积累产生促进作用，降水增加和中氮添加的交互作用会增加红砂叶绿素含量，水分条件较好时，水氮存在耦合效应促进植物生长。这与王海茹等[4o]对黍稷（Panicummiliaceum)幼苗的研究结果一致。
+
+氮素是植物蛋白质、氨基酸的基本组成元素[41],作为生命活动体现者的蛋白质的含量在干旱胁迫、低氮或高氮条件下会发生明显的变化[42-44],从而对细胞进行正常的新陈代谢及维持细胞内外的渗透压平衡产生影响。本研究发现在无氮添加水平下，可溶性蛋白含量随降水量的减少呈增加趋势，这与周紫鹃等24研究发现，红砂可溶性蛋白含量随土壤含水量的下降呈逐渐升高趋势的结果一致，表明植物在水分亏缺时，高含量的可溶性蛋白可用于维持较低的渗透势,提高植物抗旱性[45]。本研究发现,在自然降水量条件下，随氮添加量的增加，可溶性蛋白含量先增大后减小，这与赵若含等4研究发现，冬小麦叶片可溶性蛋白含量随施氮量增加表现为先升高后降低的趋势的结果一致。在降水量减少 $3 0 \%$ 条件下，氮添加对可溶性蛋白含量影响不显著。以上结果说明，在正常水分条件下，适量的氮素添加会促进植物体内蛋白的转化，对避免和缓解干旱胁迫时植株叶片过度脱水起到一定的作用[47];但当施氮量达到一定临界值时，氮素含量的持续增加将会抑制可溶性蛋白的产生，而水分亏缺条件下施氮对可溶性蛋白的转化无显著影响。
+
+SOD和POD是植物体内清除活性氧的重要保护酶[48]。研究表明植物在生长过程中受到不良环境条件影响时，POD对保持体内代谢平衡起着重要的作用[49]。在水分胁迫下，POD活性往往升高[50]]本研究结果显示在低氮水平下，随降水量的减少，
+
+SOD活性减小，而POD活性逐渐增大。说明在低氮水平下，水分胁迫会促进POD活性而抑制SOD活性。这可能是因为在水分亏缺环境中，植物体内SOD酶活性降低，为避免其催化氧自由基转变为$\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 过量累积，以减小植物体内活性氧的积累对细胞膜产生的伤害[24.51]。同时,POD酶活性会显著增加促进其对 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 的分解作用。这充分表明了植物在应对水分胁迫时SOD和POD协同发挥作用的重要性。本研究还发现，在无氮添加和低氮水平下，自然降水量条件下的POD活性分别显著小于降水量减少 $3 0 \%$ 条件下的值，而中氮、高氮水平下，自然降水量条件下的POD活性却均显著大于降水量减少 $3 0 \%$ 条件下的值。说明在低氮水平下，降水量增加抑制POD活性的增加，而中氮和高氮添加极大地减轻这种抑制作用，促进POD活性的增强，表现了氮水间的补偿效应。这种补偿作用可能是由于营养和水分之间存在一种互补机制,即一种因子量上的不足可以通过另一种因子量的增加来获得相似的生态效应[15]。这与钟小莉等[52]研究发现,土壤水分过多会对胡杨(Populuseuphratica)幼苗生长不利，而适量氮素的施加能缓解水分对幼苗生长产生的不利影响的结果一致。降水量减少 $3 0 \%$ 时，POD活性随氮添加量的增加呈显著降低趋势，说明水分亏缺条件下，施氮量的增加会抑制POD活性的增强。
+
+# 4结论
+
+在自然降水量和降水量增加 $3 0 \%$ 条件下，随施氮量的增加，红砂叶绿素和脯氨酸含量均呈增加趋势。说明水分条件较好时，水氮存在耦合效应促进植物体内脯氨酸和叶绿素的积累。在正常水分条件下，适量的氮素添加会促进植物体内蛋白的转化，但当施氮量达到一定临界值时，氮素含量的持续增加将会抑制可溶性蛋白的产生。水分亏缺条件下，施氮量的增加会抑制POD活性的增强。此外，低氮水平下，降水量增加抑制POD活性的增加，而中氮和高氮添加极大地减缓这种抑制作用，促进POD活性的增强，表现了氮水间的补偿效应。
+
+# 参考文献(References):
+
+[1] Holland EA,DentenerFJ,Braswell BH,et al.Contemporary and pre- industrial global reactive nitrogen budgets[J]. Biogeochemis
+
+465 try,1999, 46(1): 7-43.   
+[2]Lamarque JF,Kiehl JT,Brasseur G P,etal. Assessing future nitrogen deposition and carbon cycle feedback using a multimodel approach:Analysis of nitrogen deposition[J]. Journal of Geophysical Research Atmospheres,2005,110(D19): 2657-2677.   
+[3]王秀波,上官周平.干旱胁迫下氮素对不同基因型小麦根系活 力和生长的调控[J].麦类作物学报,2017,37(6):820-827. [Wang Xiubo,Shangguan Zhouping.Efect of nitrogen onrotvigor and growth in different genotypes of wheat under drought stress [J]. Journal of Triticeae Crops,2017,37 (6): 820-827.]   
+[4]周雅聘,陈世苹,宋维民,等.不同降水条件下两种荒漠植物的 水分利用策略[J]. 植物生态学报,2011,35(8):789-800.[Zhou Yazhen,Chen Shiping,Song Weimin,et al.Water-use strategies of two desert plants along a precipitation gradient in northwestern China[J].Chinese Journal of Plant Ecology,2011,35(8):789- 800.]   
+[5] Bauer G A,Bazzaz FA, Minocha R,et al.Effects of chronic N additions on tissue chemistry,photosynthetic capacity，and carbon sequestration potential of a red pine (Pinus resinosa Ait.) stand in the NE United States[J].Forest Ecology and Management,2004, 196(1): 173-186.   
+[6] Hooper D U, Johnson L. Nitrogen limitation in dryland ecosystems: Responses to geographical and temporal variation in precipitation[J]. Biogeochemistry,1999,46,247-293.   
+[7]King J. Seasonal dynamicsoffine roots relative to foliage and stem growth in loblolly pine (Pinus taeda L.)as affected by water and nutrient availability[J].New Phytologist,2002,154: 389-398.   
+[8]Tesha A J, Kumar D.Effect of fertilizer nitrogen on drought resistance in Coffea arabica L.[J]. The Journal of Agricultural Science, 1978, 90(3): 625-631.   
+[9]Brueck H.Eects of nitrogensupplyonwater-use effciencyofhigher plants[J]. Journal of Plant Nutrition and Soil Science,2008,171 (2): 201-219.   
+[10] Shangguan Z P,Shao MA,Dyckmans J. Nitrogen nutrition and water stress effects on leaf photosynthetic gas exchange and water use efficiency in winter wheat[J]. Environmental and experimental botany,2000,44(2): 141-149.   
+[11]Ashraf M,shabaz M, Ashraf M. Influence of nitrogen supply and water stress on growth and notrogen, phosphorus,potassium and calcium contents in pearl millet[J]. Biologia Plantarum,2001,44 (3): 459-462.   
+[12] 梁银丽,陈培元.土壤水分和氮磷营养对冬小麦根苗生长的效 应[J].作物学报,1996,23(4): 476-482.[Liang Yinli,Chen Peiyuan.Effects of soil water, nitrogen and phosphorus supplied on root and seedling growth of wheat[J].Acta Agronomica Sinica,1996,23 (4): 476-482. ]   
+[13] 王洋,单立山,白蕾,等.不同坡位对红砂生理指标的影响[J].水 土保持通报,2017,37(6): 113-118.[Wang Yang,Shan Lishan, Bai Lei,et al.Effects of different slope positions on physiological
+
+indexes of Reaumuria soongorica[J].Bulletin of Soil and Water
+
+Conservation,2017,37(6): 113-118.]   
+[14]杨晓清,周再知,梁坤南,等.氮素对模拟胁迫下土沉香幼苗抗 旱生理的影响[J].热带作物学报,2013,34(6):1121-1127.[Yang Xiaoqing,Zhou Zaizhi,Liang Kunnan,et al.Effects of nitrogen nutrition on physiological traits of the Aquilaria sinensis seedlings under simulated water stres[J]. Chinese Journal of Tropical Crops, 2013,34(6): 1121-1127.]   
+[15] 周晓兵,张元明,王莎莎,等.模拟氮沉降和干旱对准噶尔盆地 两种一年生荒漠植物生长和光合生理的影响[J].植物生态学 报,2010,34(12):1394-1403.[Zhou Xiaobing, Zhang Yuanming, Wang Shasha,et al. Combined effects of simulated nitrogen deposition and drought stress on growth and photo-synthetic physiological responses of two annual desert plants in Junggar Basin, China [J]. Chinese Journal of Plant Ecology,2010,34(12): 1394-1403.]   
+[16] 刘家琼,邱明新,蒲锦春,等.我国荒漠典型超旱生植物——红 砂[J]. Journal of IntegrativePlantBiology,1982,24(5): 4588 [Liu Jiaqiong,Qiu Mingxin,Pu Jinchun, et al.A typical superhydrophyte in desert of China: Reaumuria soongorica[J]. Journal of Integrative Plant Biology,1982,24(5): 485-488.]   
+[17]马茂华,孔令韶.新疆呼图壁绿洲外缘的琵琶柴生物生态学特 性研究[J].植物生态学报,1998,22(3):46-53.[Ma Maohua, Kong Lingshao. The bioecological characteristics of Reaumuria soongorica on the border of oasis at Hutubi, Xinjiang[J]. Chinese Journal of Plant Ecology,1998,22(3): 46-53.]   
+[18] 孙百生,钱金平,赵欢蕊.西北典型荒漠植物红砂生物量及根系 形态特征对降水格局的响应[J].生态环境学报,2018,27(11): 1993-1999.[Sun Baisheng, Qian Jinping, Zhao Huanrui. Response of biomass and root morphology of desert plant Corispermum candelabrum to precipitation change in NorthWest China[J].Ecology and Environmental Sciences,2018,27(11): 1993-1999.]   
+[19] 马静,单立山,王珊,等.不同降水量条件下C植物红砂—C4植 物珍珠混生光合特性研究[J].草地学报,2019,27(4):921-927. [Ma Jing, Shan Lishan,Wang Shan,et al. Studies on photosynthetic characteristics of $\mathrm { C } _ { 3 }$ plant Reaumuria soongarica and $\mathrm { C } _ { 4 }$ plant Salsola passerinain a mixed community under diffrent precipitations[J]. Acta Agrestia Sinica,2019,27(4): 921-927.]   
+[20] 耿东梅,单立山,李毅,等.土壤水分胁迫对红砂幼苗叶绿素荧 光和抗氧化酶活性的影响[J].植物学报,2014,49(3):282-291. [Geng Dongmei, Shan Lishan,Li Yi,et al. Effect of soil water stress on chlorophyll fluorescence and antioxidant enzyme activity in Reaumuria soongorica seedlings[J]. Chinese Bulletin of Botany, 2014,49(3): 282-291.]   
+[21] 周生荟,刘玉冰,谭会娟,等.荒漠植物红砂在持续干旱胁迫下 的光保护机制研究[J].中国沙漠,2010,30(1):69-73.[Zhou Shenghui,Liu Yubing,Tan Huijuan,et al. The photoprotective mechanism of desert plant Reaumuria soogorica under progressive soil drying[J]. Journal of Desert Research,2010,30(1): 69-73.]
+
+[22]段桂芳,单立山,李毅,等.红砂幼苗根系形态特征对降水格局
+
+变化的响应[J].草业学报,2016,25(10):95-103.[Duan Guifang, Shan Lishan,Li Yi,et al.Response of root morphology to precipitation change in Reaumuria soongorica seedlings[J].Acta Prataculturae Sinica,2016,25(10): 95-103.]   
+[23] 史顺增,熊德成,邓飞,等.土壤增温、氮添加及其交互作用对杉 木幼苗细根生产的影响[J].植物生态学报,2017,41(2):186- 195.[Shi Shunzeng, Xiong Decheng,Deng Fei, et al. Interactive effects of soil warming and nitrogen addition on fine root production of Chinese firseedlings[J].Chinese Journal of Plant Ecology, 2017,41(2): 186-195.]   
+[24] 周紫鹃,苏培玺,解婷婷,等.不同生境下红砂(Reaumuria soong" orica)的生理生化特征及适应性[J].中国沙漠,2014,34(4): 1007-1014.[Zhou Zijuan,SuPeixi,Xie Tingting,etal.Thephysiological and biochemical characteristics and environmental adaptability of Reaumuria soongorica in different habitats[J].Journal of Desert Research,2014,34(4): 1007-1014.]   
+[25] 姬江莉,种培芳,李毅,等.红砂对 $\mathrm { C O } _ { 2 }$ 浓度升高及降水变化的 生理生长响应[J].西北植物学报,2017,37(5):923-932.[Ji Jiangli,Chong Peifang,Li Yi,etal.Effects of interactive elevated CO $2$ （204号 concentration and precipitation on physiological and biomass characteristics of Reaumuria soongorica [J]. Acta Botanica Boreali-Occidentalia Sinica,2017,37(5): 923-932.]   
+[26]肖春旺.施水量对毛乌素沙地4种优势植物叶绿素荧光的影响 [J].草地学报,2001,9(4): 296-301.[Xiao Chunwang.Effect of water supply change on chlorophyll fluorescence of four dominant plants in Maowusu Sandland[J]. Acta Agrestia Sinica, 2O01, 9(4): 296-301.]   
+[27] 付晓玥,闫建成,梁存柱,等.干旱与半干旱区一年生植物水势 对模拟降水变化的响应[J.内蒙古大学学报(自然科学版), 2012,43(2): 160-167.[Fu Xiaoyue,Yan Jiancheng,Liang Cunzhu, et al.Water potentials of annual plants response to simulated rainfall in arid and semiarid regions[J].Journal of Inner Mongolia University(Natural Science Edition),2012,43(2): 160-167.]   
+[28] 闫建成,梁存柱,付晓玥,等.草原与荒漠一年生植物性状对降 水变化的响应[J].草业学报,2013,22(1):68-76.[Yan Jiancheng,Liang Cunzhu,Fu Xiaoyue, et al.The responses of annual plant traits torainfallvariation insteppeanddesertregios[J]. Acta Prataculturae Sinica, 2013,22(1): 68-76.]   
+[29]Liu XJ, Zhang Y, Han W X,et al.Enhanced nitrogen deposition over China[J]. Nature,2013,494(7438): 459-462.   
+[30]文海燕.氮沉降对黄土高原典型草原碳过程的影响[D].兰州: 兰州大学,2013.[Wen Haiyan.Effect of Nitrogen Deposition on Carbon Process in Typical Steppe of Loess Plateau[D]. Lanhou: Lanzhou University,2013.]   
+[31]Qin Yongrong,Nong Yanchun,Huang Jiangbin,et al. The comparison of contents of malondialdehyde and proline in the area of Karst area in Northweastern Guangxi Province[J].Agricultural Science $\&$ technology,2011,12(4): 469-473,575.]
+
+[32]贾向阳,种培芳,张玉洁,等.外源NO对NaCl胁迫下红砂幼苗
+
+生长和生理特性的影响[J].草地学报,2019,27(3):628-636. [Jia Xiangyang, Chong Peifang,Zhang Yujie,etal. Effects of nitric oxide on physiological characteristics and growth of Reaumuria soongorica seedling under NaCl stress[J].Acta Agrestia Sinica, 2019,27 (3): 628-636.]   
+[33] 李合生.植物生理生化实验原理和技术[M].北京:高等教育出 版 社,2Ooo.[Li Hesheng.Principles and Techniques of Plant Physiological and Biochemical Experiments [M].Beijing:Higher Education Press,2000.]   
+[34] 赵英永,戴云,崔秀明,等.考马斯亮蓝G-250染色法测定草乌 中可溶性蛋白质含量[J].云南民族大学学报(自然科学版), 2006,15(3):235-237.[Zhao Yingyong,Dai Yun, Cui Xiuming,et al.DeterminationofproteiotetsofdixAconiti usfius ing Coomassie brillant blue G-25O dye binding[J]. Journal of Yunnan Minzu University(Natural Sciences Edition),20o6,15(3): 235- 237.]   
+[35] 曹仪植,宋占午.植物生理学[M].兰州:兰州大学出版社,1998: 144-157.[Cao Yizhi, Song Zhanwu. Plant Physiology[M].Lanzhou: Lanzhou University Press,1998: 144-157.]   
+[36] 党晓宏,蒙仲举,高永,等.西鄂尔多斯天然荒漠灌丛光合生态 适应性[J].干旱区研究,2020,37(2): 435-443.[Dang Xiaohong, Meng Zhongju,Gao Yong,et al.Photosynthetic characteristics and ecological adaptability of desert shrubs in western Ordos[J].Arid Zone Research, 2020,37(2): 435-443.]   
+[37] 余叔文,汤章城.植物生理与分子生物学[M].北京:科学出版 社,1999: 262-276.[Yu Shuwen,Tang Zhangcheng.Plant Physiologyand Molecular Biology[M]. Beijing: Science Press,1999: 262- 276.]   
+[38] 任丽花,余华,蔡南通,等.不同氮素水平对菜用甘薯叶片生理 特性的影响[J].中国园艺文摘,2011,27(6):3-5.[Ren Lihua, Yu Hua,Cai Nantong,et al.Effects of different nitrogen levels on physiological characteristics of vegetable sweet potato[J]. Chinese Horticulture Abstracts,2011,27(6): 3-5.]   
+[39]周静,张仁陟.不同耕作措施下春小麦应对干旱胁迫的生理响 应[J].干旱区研究,2010,27(1):39-43.[Zhou Jing,Zhang Renzhi. Physiological responses of spring wheat to drought stress under different cultivation measures[J].Arid Zone Research,2010, 27(1): 39-43.]   
+[40] 王海茹,张永清,董文晓,等.水氮耦合对黍稷幼苗形态和生理 指标的影响[J].中国生态农业学报,2012,20(11):1420-1426. [Wang Hairu,Zhang Yongqing,Dong Wenxiao,etal.Efectof iigation and nitrogen supply on physio-morphological indices of broomcorn millet at seedling stage[J]. Chinese Journal of Eco-Agriculture,2012, 20 (11): 1420-1426.]   
+[41] 汪德水.旱地农田肥水关系原理与调控技术[M].北京:中国农 业科技出版社,1995:195-203.[Wang Deshui.Principle and Control Technology of Fertilizer Water Relationship in Dryland Farmland[M]. Beijing: China Agricultural Science and Technology Press,1995: 195-203.]   
+[42]Fusconi A, Berta G.Abiotic Stress Responses in Plants[M]. New York: Springer, 2011: 1-36.   
+[43] 卫星,王政权,张国珍,等.水曲柳苗木不同根序对干旱胁迫的 生理生化反应[J].林业科学,2009,45(6):16-21.[Wei Xing, Wang Zhengquan, Zhang Guozhen,et al. Physiological and biochemical responses of different root orders of Fraxinus mandshurica sedlings to drought stress[J]. Scientia Silvae Sinicae,2009,45 (6): 16-21.]   
+[44] 张明生,谢波,谈锋,等.甘薯可溶性蛋白、叶绿素及ATP含量 变化与品种抗旱性关系的研究[J].中国农业科学,2003,36(1): 13-16.[Zhang Mingsheng, Xie Bo,Tan Feng,et al. Relationship among soluble protein, chlorophyllandATP insweet potato under water stress with drought resistance[J]. Scientia Agricultura Sinica, 2003,36(1): 13-16.]   
+[45] 薛焱,王迎春,王同智.盐胁迫对濒危植物长叶红砂抗氧化系统 的影响[J].中国沙漠,2012,32(6):1669-1673.[Xue Yan,Wang Yingchun,Wang Tongzhi.Responses of antioxidant system of an endemic halophyte Reaumuria trigyn to NaCl stress[J]. Journal of Desert Research,2012,32 (6): 1669-1673.]   
+[46] 赵若含,陈红卫,欧行奇,等.不同氮素水平对冬小麦根叶氧化 酶活性的影响[J].中国农学通报,2020,36(11):1-7.[Zhao Ruohan, Chen Hongwei,Ou Xingqi,et al.Efect of nitrogen levels on oxidase activities in leaves and roots of winter wheat[J]. Chinese Agricultural Science Buetin,2020,36(11): 1-7.]   
+[47] 邓世媛,陈建军.氮素营养对烤烟抗旱适应性的影响[J].干旱区 研究,2007,24(4) :499-503.[Deng Shiyuan, Chen Jianjun.Effects of nitrogen nutrient on the drought adaptability of tobacco plants[J]. Arid Zone Research, 2007,24(4) : 499-503.]   
+[48] 孙小妹,张涛,陈年来,等.土壤水分和氮素对春小麦叶片抗氧 化系统的影响[J].干旱区研究,2011,28(2):205-214.[Sun Xiaomei, Zhang Tao,Chen Nianlai,et al. Study on antioxygenic system in leaves of three spring wheat cultivars with diferent drought-resistant capabilities under different soil moisture content and nitrogen levels[J].Arid Zone Research,2011,28(2): 205-214.]   
+[49]郑飞雪,魏民,牟同水.NaCl胁迫对羽衣甘蓝生理生化指标的 影响[J].北方园艺,2010(17): 42-44.[Zheng Feixue,Wei Min, Mou Tongshui.Efects of NaCl stress on physiological and biochemical indices in Ornamental kale[J]. Northern Horticulture, 2010(17): 42-44. ]   
+[50]Reddy AR, Chaitanya K V,Jutur PP,etal. Differential antioxidative responses to water stress among five mulberry (Morus alba L.) cultivars[J]. Environmental & Experimental Botany，2OO4,52(1): 33-42.   
+[51] 解荣花,张韬.干旱胁迫下红砂渗透调节和抗氧化保护系统的 响应研究[J].甘肃科技,2015,31(21):137-140,145.[Xie Ronghua, Zhang Tao.Response of osmotic adjustment and antioxidant protection system of Reaumuria soongorica under drought stress [J]. Gansu Science and Technology，2015,31(21):137- 140, 145.]
+
+[52]钟小莉,马晓东,吕豪豪,等.干旱胁迫下氮素对胡杨幼苗生长 及光合的影响[J].生态学杂志，2017,36(10):2777-2786. [Zhong Xiaoli,Ma Xiaodong,Lyu Haohao,etal.Effect of nitrogen on growth and photosynthesis of Populus euphratica seedlings under drought stress[J]. Chinese Journal of Ecology,2017,36(10): 2777-2786.]
+
+# Effects of nitrogen addition and precipitation on Reaumuria soongorica physiological indices
+
+YANG Jie， SHAN Lishan， BAI Yamei， ZHANG Wanting,ZHANG Zhengzhong, XIE Tingting， LI Yi(College of Forestry,Gansu Agricultural University,Lanzhou 73oo7O,Gansu, China)
+
+Abstract: Water and nitrogen are the key factors limiting the growth and development of desert plants.To predict the impact of climate change on desert vegetation growth in the future,understanding the effects of nitrogen and water on plant physiology is essential. We investigated the effects of nitrogen application and precipitation on Reaumuria soongorica seedlings.Proline (Pro), chlorophyll (Chl)，superoxide dismutase (SOD)，peroxidase (POD),and soluble protein (SP) contents in $R$ ， soongorica leaves were measured under different precipitation treatments [precipitation decreases $30 \%$ 1 $( \mathrm { W } - )$ , natural precipitation (W),and precipitation increases $30 \%$ （204 $( \mathrm { W } + ) ]$ （20 and nitrogen applications $[ \mathrm { N _ { 0 } } ( 0 \ \mathrm { g \cdot m ^ { - 2 } \cdot a ^ { - 1 } } )$ ， $\mathbf { N } _ { 1 }$ $( 4 . 6 ~ \mathrm { g } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 } )$ ， $\mathbf { N } _ { 2 }$ $( 9 . 2 ~ \mathrm { g \cdot m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 } )$ ， ${ \bf N } _ { 3 }$ $( 1 3 . 8 \ \mathrm { g } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 } ) _ { . } ^ { \cdot }$ ]. Under natural precipitation (W) and precipitation increases $30 \%$ （20 $( \mathrm { W } + )$ ，proline and chlorophyll contents increased with increased nitrogen application.The coupling eect of water and nitrogen promoted the accumulation of proline and chlorophyll when the water condition was suitable. In the no nitrogen $( \mathrm { N } _ { 0 } )$ and low nitrogen $( \Nu _ { 1 } )$ treatments, POD activity under natural precipitation (W) was significantly lower than that under precipitation decreases $30 \%$ (W-),while the opposite trend was observed in the medium nitrogen $\left( \mathrm { N } _ { 2 } \right)$ and high nitrogen $\left( \mathrm { N } _ { 3 } \right)$ ） treatments.The results showed that at low nitrogen levels,increased precipitation inhibited POD activity, while the addition of nitrogen mitigated the inhibition and promoted POD activity,demonstrating the compensation efects of nitrogen and water. Under natural precipitation（W） conditions,the soluble protein content first increased and then decreased as the nitrogen concentration increased,while the effect of nitrogen addition on soluble protein content was not significant under precipitation decreases $30 \%$ (W-).These findings demonstrate that under normal water conditions,appropriate nitrogen adition could promote the transformation of plant protein up to a certain concentration threshold，then continuous nitrogen increases inhibit soluble protein production. Conversely, nitrogen application had no significant effect on soluble protein transformation under water deficits.
+
+Keywords: precipitation change； nitrogen addition; physiological index; Reaumuria soongorica

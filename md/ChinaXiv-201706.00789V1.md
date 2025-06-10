@@ -1,0 +1,158 @@
+# Effect of Double Air Injection on Performance Characteristics of Centrifugal Compressor
+
+Toshiyuki Hirano1, Tatsuya Ogawa², Ryutaro Yasui³, Hoshio Tsujita4
+
+1. Mechanical Enginering Course,Department of Scienceand Engineering,Kokushikan University,4-28-1,Setagaya,   
+Setagaya City, Tokyo,154-8515, Japan   
+2. Graduate School of Engineering,Program in Mechanical Engineering, Kokushikan University   
+3. Nexco-East Engineering Company Limited   
+4.Departmentof Mechanical Engineering,Facultyof ScienceandEngineering,Hosei University,3-7-2,Kajino-cho,   
+Koganei City, Tokyo,184-8584, Japan
+
+$\circledcirc$ Science Press and Institute of Enginering Thermophysics, CAS and Springer-Verlag Berlin Heidelberg 2017
+
+In the operation of acentrifugal compresor of turbocharger,instability phenomena such as rotating stall and surge are induced at a lower flow rate close to the maximum pressure ratio.In this study,the compressed airat the exit of centrifugal compressor was re-circulated and injected to the impeler inlet byusing two injection nozzles in order to suppress the surge phenomenon.The most effective circumferential position was examined to reduce the flowrate at the surge inception.Moreover,the influences of the injection on the fluctuating property of the flow field before and after the surge inception were investigated by examining the frequency of static pressure fluctuationon the wall surface and visualizing the compressor wall surface by oil-film visualization technique.
+
+# Keywords: Centrifugal Compressor, Performance, Nozzle Injection, Surge
+
+# Introduction
+
+Asa part of the technology dealing with environmental problems,a turbochargeris expected to clean the exhaust gas from automobile engines by improving combustion efficiency,and to contribute to the reduction of fuel consumption.Therefore,the application of a turbocharger tovarioustypesof vehicleisdevelopingrapidly. Moreover, it is expected that turbochargers will be more employed for gasoline engines in addition to diesel engines.The demand for turbochargers for small gasoline engines is increasing to meet demand from energy-conscious customers wanting to cope with tight fuel regulations.And now, the centrifugal compressor,which is a main component of turbocharger,possesses higher pressure ratio in a single stage.But, the performance of compressors at lower flow rate is characterized by the occurrence of unsteady flow phenomena such as surge and rotating stall.Both instabilities cause critical operating conditions with strong dynamical loading on the blades and can therefore not be tolerated during compressor operation. The surge may generate enough intense vibration and noise to destroy the whole pipeline system including a compressor.As a result,the stable operation range is inevitably restricted. Therefore,the extension of the stable operation range and the improvement of the supercharging characteristics of a centrifugal compressor are required dramatically.Several investigations [1]-[9] have been carried out to control the inception of instability phenomena for the purpose of the extension of stable operation range of a centrifugal compressor to the lower flow rate.However, factors leading
+
+# Nomenclature
+
+<html><body><table><tr><td colspan="2">Non Te lature</td><td rowspan="2">IROR</td><td rowspan="2">improvement rate of operating range(%)</td></tr><tr><td>b D</td><td>blade height (mm)</td></tr><tr><td></td><td>diameter (mm)</td><td>RR1</td><td>recirculation ratio (%)</td></tr><tr><td>G</td><td>mass flow rate (kg/s)</td><td>T0</td><td>standard temperature (K)</td></tr><tr><td>G</td><td>critical flow rate for surge inception in Injection</td><td>T</td><td>measured temperature (K)</td></tr><tr><td>Gmax</td><td>maximum flow rate</td><td>Z</td><td>number of impeller blades</td></tr><tr><td>GN</td><td>critical flow rate for surge inception in Normal</td><td>Greek letters</td><td></td></tr><tr><td>GR</td><td>flow rate in injection</td><td>πt</td><td>total pressure ratio</td></tr><tr><td>N</td><td>rotational speed (r/min)</td><td>Subscripts</td><td></td></tr><tr><td>Pa</td><td>measured atmospheric pressure (Pa)</td><td>1</td><td>impeller inlet</td></tr><tr><td>Pa0</td><td>standard atmospheric pressure (Pa)</td><td>2</td><td>impeller outlet</td></tr><tr><td>IRSM</td><td>improvement rate of surge margin (%)</td><td></td><td></td></tr></table></body></html>
+
+![](images/7570aabe279174b7183b8204930e85c34a242a204c5ac7a6e996c34ce17eeb85.jpg)  
+Fig.1Schematic view of experimental apparatus and double injection system
+
+to the occurrence of surging still require clarification, and it is difficult to estimate quantitative prediction of surging by many problems, due to the extreme complexity of the internal flow of a centrifugal compressor.
+
+In this study, the compressed air at the exit of centrifugal compressor was re-circulated and injected to the impeller inlet by using two injection nozzles in order to suppress the surge phenomenon.In addition,the optimum circumferential position of injection nozzle,which most effectively reduced the flow rate for the surge inception,was investigated for the compressor at rotational speed of $4 0 , 0 0 0 ~ \mathrm { r / m i n }$ .Moreover, the influences of the injection on the fluctuating property of the flow field before and after the surge inception were investigated by examining the frequency of static pressure fluctuation on the wall surface and visualizing the compressor wall surface by oil-film visualization technique.
+
+# Experimental Apparatus and Method
+
+The experimental apparatus used in this study is shown in Fig.1(a). The compressed air supplied from the screw compressor Was used to drive the turbine impeller which revolved the compressor impeller through the co rotating axis.In this study,in order to extend the stable operating range of centrifugal compressor to lower flow rate by the suppression of surge phenomenon,a part of the compressed air at the exit of the compressor scroll was re-circulated and injected into the impeller inlet through the bypass pipe by using the double injection nozzle system,which consists of two nozzles installed on the inner wall of suction pipe.Fig.1(b) shows the crosssectional view of Double injection system.The head of each nozzle was installed at $1 ~ \mathrm { m m }$ upstream of the impeller leading edge.Then,the remaining air was discharged through the delivery duct.In the following,the case with the injection nozzle is named “Injection”and that without the injection nozzle is named“Normal".The specifications and the configurations of centrifugal impeller is shown in Table1 and Fig.2,respectively. The injection nozzle is movable in the circumferential direction.The circumferential position of injection nozzles is indicated by IP,which has the origin at the corresponding position to the scroll tongue portion and takes positive value in the impeller rotational direction as shown in Fig. 3.The circumferential position of the first nozzle was always fixed to $\mathrm { I P } ( + 3 0 )$ ．On the other hand,that of second one was changed in the circumferential direction. The notation of $\mathrm { I P } ( + \mathrm { a } , + 3 0 )$ indicates that the circumferential position of the first injection nozzle is at $+ 3 0$ degree and that of the second one at $+ \mathrm { a }$ degree. The inner diameters of the injection nozzlesused in this studyare $5 \mathrm { m m }$
+
+Table1Specification of tested impeller   
+
+<html><body><table><tr><td>Inlet diameter</td><td>D1</td><td>37.7</td></tr><tr><td>Outlet diameter</td><td>D2</td><td>52.0</td></tr><tr><td>Number of blades (Main + Splitter)</td><td>Z</td><td>10(5+5)</td></tr><tr><td>Inlet blade height</td><td>b</td><td>20.0</td></tr><tr><td>Outletblade height</td><td>b</td><td>4.00</td></tr></table></body></html>
+
+![](images/ee294df762646e9e83682f8838ad7022a3c1fbe612e233b5c7903a02f2ba41c2.jpg)  
+Fig.2Tested impeller
+
+![](images/c63766194dc615fb772f554f1abe87d29eacaeeccd944634a67b47114c44f7ff.jpg)  
+Fig.3Definition of position of injection nozzle
+
+The experiments were performed to find out the optimum circumferential position of the second nozzle for the fixed first one,which is able to most effectively reduce the flow rate of surge inception. The experiments were carried out for the tested impeller at the rotational speed of $4 0 , 0 0 0 ~ \mathrm { r / m i n }$ .In this study,the surge inception was detected by the observation of the pressure fluctuation caused by the surge,which was suddenly increased by gradually closing the valve by its minimum revolution The corrected flow rate $G$ and the pressure ratio $\pi _ { t }$ were defined by the following equations:
+
+$$
+G { = } G _ { 0 } { \frac { P _ { a 0 } } { P _ { a } } } \sqrt { \frac { T _ { 1 } } { T _ { 0 } } } \qquad [ \mathrm { k g / s } ]
+$$
+
+$$
+\scriptstyle \pi _ { t } = { \frac { P _ { t } } { P _ { a } } } \quad [ - ]
+$$
+
+where $G _ { 0 }$ is the measured flow rate, $P _ { a 0 }$ is the standard atmospheric pressure, $P _ { \mathrm { { a } } }$ is the measured atmospheric pressure, $T _ { 1 }$ is the measured temperature, $T _ { 0 }$ is the standard temperature,and $P _ { \mathrm { { t } } }$ is the measured total pressure at compressor outlet.In order to investigate the unstable phenomena, the wall static pressure fluctuation was measured at $5 0 ~ \mathrm { m m }$ downstream of the compressor exit. The frequency characteristics of the wall static pressure fluctuation were analyzed by performing FFT.Flow sensor was installed at the bypass pipe to measure the flow rate ejected from the injection nozzle.The oil flow visualizations were performed atthe shroud and the hub sidewalls in the diffuser by using the oil mixture with titanium oxide.
+
+# Results and Discussion
+
+# Performance characteristics
+
+Fig.4(a) shows the performance characteristics for Normal and Injection at rotational speeds of $4 0 , 0 0 0 \mathrm { r / m i n }$ Fig.4(b) shows the enlarged view of performance characteristics at the low flow rate region in Fig.4(a),which focuses on the ability of Injection to remarkably reduce the critical flow rate for surge inception as shown later. The performance curves for each injection position showed the same tendency (Fig.4).Although the total pressure ratio of Injection was decreased about $1 \%$ compared with that of Normal at the higher flow rate region, the critical flow rate for surge inception is reduced by using the nozzle injection system as clearly shown in Fig. 4(b).Therefore,the nozzle injection system is considered to be able to extend the stable operating range to the lower flow rate region without significant decrease in the total pressure ratio.
+
+# Optimal injection position
+
+In order to evaluate the effect of injection on the reduction of critical flow rate for surge inception and on the increase of operating range of the compressor, the improvement rate of surge margin $\boldsymbol { I _ { R S M } }$ and improvement rate of operating range $I _ { R O R }$ were defined by the following equations.
+
+$$
+I _ { R S M } = \frac { G _ { N } - G _ { I } } { G _ { N } } { \times 1 0 0 } [ \% ]
+$$
+
+$$
+I _ { R O R } = \frac { G _ { I m a x } - G _ { I } } { G _ { N m a x } - G _ { N } } { \times 1 0 0 } [ \% ]
+$$
+
+where $G _ { N }$ and $G _ { I }$ mean the critical flow rate for surge inception, and $G _ { N m a x }$ and $G _ { I m a x }$ mean the maximum flow rate in Normal and Injection,respectively.Fig.5(a) and Fig.5(b) give the relationship between the injection position $\mathrm { I P }$ and the improvement rate $J _ { R S M }$ and $I _ { R O R }$ ，respectively. Each radius axis represents the $\boldsymbol { I _ { R S M } }$ and the $I _ { R O R }$ respectively and a circumferential direction indicates the injection position. The measurements for $\mathrm { I P } ( 0 , + 3 0 )$ $\mathrm { I P } ( + 3 0 , + 3 0 )$ and $\mathrm { I P } ( + 6 0 , + 3 0 )$ could not be performed because the holders of two injection nozzles interfered with each other at these region of injection positions.The $\boldsymbol { I _ { R S M } }$ exhibits the improvement rate of about $40 \%$ for every IP. In the previous study[9],however, the effects of $\mathrm { I P }$ on $I _ { R S M }$ were detected. The critical flow rate for surge inception of Normal in this study was lower than that in the previous study. Therefore,the dependency of $I _ { R S M }$ on $\mathrm { I P }$ is considered to be reduced by the decrease of the critical flow rate for surge inception of Normal. In Fig. 5(b), the $I _ { R O R }$ exhibits the improvement rate of about $3 \%$ for every IP,but the maximum flow rate of Injection was slightly lower than that of Normal. These results suggest that the present double nozzle injection system extends the stable operating range of the compressor to the lower flow rate without significant decrease in the maximum flow rate as well as in the total pressure ratio.
+
+# Frequency characteristic near surge inception
+
+Figure 6 shows the frequency characteristics of the static pressure fluctuation on the inner wall surface of the delivery duct at $5 0 \mathrm { m m }$ downstream of the compressor exit for Injection at the flow rate nearest to that of surge inception of Normal.Figure 7 shows the frequency cha racteristics of the static pressure fluctuation at the same location for Injection at critical flow rate for surge inception.The peak of the spectrum of pressure fluctuation for Normal wasobserved around $3 8 \mathrm { H z }$ .Thepeaksforthe IP ofInjection are lower than that in Normal.In Fig.7, the peaks at the range between $\mathrm { I P } ( 1 8 0 , + 3 0 )$ to $\mathrm { I P } ( - 1 2 0 , + 3 0 )$ are lower than those at other IP.There was no noticeable change in the $I _ { R S M }$ and $I _ { R O R }$ caused by injection position IP, and further investigations will be required.The features observed in Figs.6 and7 are considered to be associated with the unstable phenomenon such as the rotating stall which appears generally prior to the surge inception. Therefore,itis considered that the Injection enhances the improvement rate of surge margin by suppressing the unstable phenomenon appearing just before the surge inception.
+
+![](images/bc13bd78147b12913a243877f5abcce94d20ed2bab870b34f0c302702c43827f.jpg)  
+Fig.4Performance characteristics
+
+![](images/e118f4c7e8bc8bb9802e71c01e9878ffb0663311a23e0ee15ab224a9998f8f3f.jpg)  
+Fig.5Improvement rate of tested compressor
+
+![](images/27e110c394f2d9ef8ff9137c41824df419c85769f73b99969858ee1d3be67fd5.jpg)  
+Fig.6Spectrum ofpressure fluctuationat delivery ductat $G { \equiv } 0 . 0 2 4 5 \mathrm { k g / s }$
+
+![](images/b2ea3affbf74c3eec1b251da946a994194cce14ddd37ee12e96b9930583cc25c.jpg)  
+Fig.7Spectrum of pressure fluctuation at delivery duct at limiting flow rate for surge inception
+
+![](images/b1712e192edfeb314a2b254a44269a212b0adfa116c6d2a4b9269098d159509f.jpg)  
+Fig.8 Re-circulation ratio
+
+# Injection flow rate
+
+In order to evaluate the ratio of the injected mass flow rate $G _ { R }$ to that discharged from the delivery duct $G$ ，the re-circulation ratio $R _ { R I }$ was defined by the following equ ation.
+
+$$
+R _ { R I } = \frac { G _ { R } } { G } \times 1 0 0 ~ [ \% ]
+$$
+
+Fig.8 shows the re-circulation ratio $R _ { R I }$ for the Injection.The re-circulation ratio $R _ { R I }$ is increased by the decrease of the flow rate $G$ ，and this tendency is kept at every injection position IP. The independency of $R _ { R I }$ on IP is considered to be one of the reasons for the fact that the $I _ { R S M }$ was independent on $\mathrm { I P }$ in the present study. The re-circulation ratio $R _ { R I }$ at the critical flow rate for the surge inception was larger than that in the previous investigation[9],becauseof the lower critical flowrate for surge inception.
+
+# Oil flow visualization
+
+In order to examine the effects of the injection on the steady flow field in the diffuser,theoil flow visualizations were also conducted on the shroud and the hub side Walls in the diffuser. The visualization results of the critical flow rate for surge inception $( G { = } 0 . 0 0 2 4 5 \ \mathrm { k g / s } )$ of Normal are shown in Fig.9.The results shown in Fig.10 to Fig.18 are for the Injection at the nearest flow rate to the critical flow rate for surge inception of Normal. The streaklines toward the radial and the impeller counter-rotational directions are observed for Normal. This phenomenon indicates the appearance of the reverse flow over the whole shroud and hub side wall surfaces in the diffuser. On the other hand, the undisturbed oil painting region is observed for Injection in the range from IP $( - 3 0 , + 3 0 )$ to IP $( - 9 0 , + 3 0 )$ ，which are surrounded by the solid line in Fig. 1O(a). The appearance of this undisturbed region for Injection is considered to suggest the suppression of the reversed flow by the interaction with the injected flow. The circumferential position of the undisturbed region migrated depending to injection position IP as shown in Fig.10(a) to Fig.18(a). Moreover, the single undisturbed region was initially located in the area with the shorter distance between two injection nozzles as shown in Fig.1O(a) and Fig.11(a),but it was separated into two regions according to the departure of second nozzle from the first one as in Fig.12(a) and Fig. 13(a).And then, the separated undisturbed two regions were combined again into single region by the approach of the second to the first one as shown in Fig.14(a) to Fig.18(a).However, the total areas of the undisturbed region were almost the same for every IP.Although the undisturbed region slightly appeared in the hub side for eachInjection, the radial component of the reversed flow isreduced compared with thatinNormal.Therefore,itis considered that the injection on the inner wall of the suction pipe of the compressor would reduce the reversed flow region distributed on the hub side wall from the diffuser exit up to the impeller inlet which appeared before the surge inception,and consequently extend the critical flow rate for surge inception to the lower flow rate region and operating range.
+
+![](images/68f45ea9369545bf3417f720426c57b122ab65ee9282d928fb51475cdab16351.jpg)  
+Fig.9Flow visualization of Normal $G { \equiv } 0 . 0 0 2 4 5 \mathrm { k g / s }$
+
+![](images/5b0f75b273623eee778763ecb2ef438e7fbe2d84142d81eb01fe70d497ca128b.jpg)  
+Fig.10Flow visualization of Injection，l $[ \mathrm { P } ( - 3 0 , + 3 0 ) ,$ ） $G \equiv$ $0 . 0 0 2 4 5 \mathrm { k g / s }$
+
+![](images/20517ca7f7dcb601f5e0ef38cf4e1dbdcb7dd2d55aa4ccae7673df459f53b051.jpg)  
+Fig.11Flow visualization of Injection, $\mathbb { P } ( - 6 0 , + 3 0 )$ ） $G \equiv$ $0 . 0 0 2 4 5 \mathrm { k g / s }$
+
+![](images/51d31f5a9a1546408d139af74a52f96dd3f5c96c97b5c3fb4cec755a5dacb6a2.jpg)  
+Fig.12Flow visualization of Injection, $\mathrm { I P } ( - 9 0 , + 3 0 )$ ， $G \equiv$ （204号 $0 . 0 0 2 4 5 \mathrm { k g / s }$
+
+![](images/32eebade17613c20a5d4105e534e1f200fffa1489e143671defc4e0617deadef.jpg)  
+Fig.13Flow visualization of Injection, $\mathrm { I P } ( - 1 2 0 , + 3 0 )$ ， $G { \dot { = } }$ $0 . 0 0 2 4 5 \mathrm { k g / s }$ （204号
+
+![](images/e62cbfb7af454083304219e176ba8b438e7927ea3784cc6141cf4a7465d69110.jpg)  
+Fig.14Flow visualization of Injection, $\operatorname { I P } ( - 1 5 0 , + 3 0 )$ $G { \dot { = } }$ $0 . 0 0 2 4 5 \mathrm { k g / s }$
+
+![](images/ae3a56d855e0226be714306aa61f72e7b8e7fb4c659462a0924c7d735db11d4c.jpg)  
+Fig.15Flow visualization of Injection, $\mathrm { I P } ( 1 8 0 , + 3 0 )$ ， $G \doteq$ $0 . 0 0 2 4 5 \mathrm { k g / s }$
+
+![](images/55f08d5c28c70200c17a0cd8abe1edd42645c3e72e8214c6f88b846377974766.jpg)  
+Fig.17Flow visualization of Injection, $\mathrm { I P } ( + 1 2 0 , + 3 0 )$ ， $G { \dot { = } }$ $0 . 0 0 2 4 5 \mathrm { k g / s }$
+
+# Conclusion
+
+The following conclusions were obtained by the present study.
+
+(1）The present double nozzle injection system extends the stable operating range of the compressor without significant decrease in the maximum flow rate as well asin the total pressure ratio. (2) The improvement rates of surge margin of the tested compressor were not influenced by the circumferential position of the second injection nozzle because of the desirable low critical flow rate for the surge inception at the condition without the injection. (3）The independency of the improvement rate of surge margin on the circumferential position of the second injection nozzle would be related to the unchangeable total area of the undisturbed region visualized on the walls in the diffuser.
+
+# References
+
+[1]Suzuki,A.,Tsujita,H.,and Mizuki, S.,Passive Control of Surge For Centrifugal Compressor by Using Resonator, Proceedings of the Fourth International Symposium on Experimental and Computational Aerothermodynamics of Internal Flows,Vol.II,pp.226-233,Dresden,Germany, 1999.   
+[2]Mizuki,S.,Tsujita,H.,and Hishinuma,Y.,Control of Surge for Centrifugal Compression System by Using a Bouncing Ball，ASME Paper 2000-GT-429，Munich, 2000.   
+[3] Willemas,F.，and Jager,B.De,One-Sided Control of Surge in A Centrifugal Compressor System,ASME Paper 2000-GT-527,Munich,2000.   
+[4]Skoch,G.J.,Experimental Investigation of Diffuser Hub Injection to Improve Centrifugal Compressor Stability, NASA/TM-2004-213182,2004.   
+[5]Chen,H.andLei,V.,Casing Treatment & Inlet Swirl of Centrifugal Compressors,Proceeding of ASME GT2012 -69340, Copenhagen,Denmark,2012.   
+[6]Tamaki,H.,Zheng,X.and Zhang Y.,Experimental Investigation of High Pressure Ratio Centrifugal Compressor with Axisymmetric and Non-Axisymmetric Recirculation device,Proceeding of ASME GT2012-68219,Copenhagen,Denmark,2012.   
+[7]Gu,R.,and Yashiro,M.,Surge Control for Centrifugal Compressor of Turbocharger, JSAE,Vol.36,No.2,2005.   
+[8] Gu,R.,Mizuki,S.,Tsujita,H.,and Ikeda, S., Surge Control of Centrifugal Compressor by Inducer Tip Injection, Proceedings of IGTC2007 Tokyo TS-030,Tokyo,Japan, 2007.   
+[9] ToshiyukiHirano,Mizuki Takano,Hoshio Tsujita,Effect of Double Air Injection on Performance Characteristics of Centrifugal Compressor,Journal of Thermal Science Vol.24, No.1, pp.10-16,2015.
+
+![](images/a63e690aa4b3bdbd017817dbffdcce38d7604c6f2528366dc8aca03f5008e99c.jpg)  
+Fig.16Flow visualization of Injection, $\mathrm { I P } ( + 1 5 0 , + 3 0 )$ 1 $G { \dot { = } }$ $0 . 0 0 2 4 5 \mathrm { k g / s }$
+
+![](images/3bb1d5b048de304aa71363f639ac4bebc603d8d258304f5fc06d9324279dcdc2.jpg)  
+Fig.18Flow visualization of Injection, $\Pi { \cal ( + 9 0 , + 3 0 ) }$ ） $G \doteq$ $0 . 0 0 2 4 5 \mathrm { k g / s }$

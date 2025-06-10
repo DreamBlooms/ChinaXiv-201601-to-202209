@@ -1,0 +1,403 @@
+[
+    {
+        "type": "text",
+        "text": "Hydrological and economic feasibility of mitigating a stressed coastal aquifer using managed aquifer recharge: a case study of Jamma aquifer, Oman ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mustafa EL-RAWY1,2.3， Ali AL-MAKTOUMI1\\*， Slim ZEKRI1, Osman ABDALLA1, RashidAL-ABR14.5",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Sultan Qaboos University,Alkhoud 123, Oman;   \n² Civil Engineering Department,Facultyof Engineering,Shaqra University,Dawadmi 17441,Saudi Arabia;   \n3 DepartmentofCivil Engineering,FacultyofEngineering,Minia University,Minia6111,Egypt;   \n4 Ministry of Regional Municipality and Water Resources,Muscat 112,Oman;   \n5 Oman Water Society,Muscat 900, Oman ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This study explored the hydrological and economic feasibility of managed aquifer recharge (MAR) using tertiary treated wastewater (TWW) to mitigate salinity in the coastal aquifer of Jamma, Oman. A steady-state groundwater flow and transport model, using MODFLOW software, was developed and calibrated.Different managerial scenarios were simulated and the results reveal that the Jamma aquifer will be further deteriorated in the next 2O a if it remains unmanaged.The groundwater table willdecline further by more than $3 \\mathrm { ~ m ~ }$ on average; and the iso-concentration salinity line of $1 5 0 0 ~ \\mathrm { m g / L }$ will advance $2 . 7 ~ \\mathrm { k m }$ inland,which willseverely affect the farming activities in the area. However, MAR using TWW when integrated with the management of groundwater abstraction (e.g.,using modern irrigation systems to reduce the abstraction rate) becomes hydrologically feasible to augment the aquifer storage and control seawater intrusion,and hence improves the farming activities. The results indicate that: (1) injecting TWW in the vicinity of irrigation wels (Scenario A2); (2) investing in smart water meters and online control of pumping from the wells to reduce the abstraction rate by $2 5 \\%$ (Scenario B);and (3) a combination of both (Scenario B2) are feasible scenarios with positive net present values. Recharge in upstream areas is found not economicall feasible because of the very high investment cost of the installation of pipes to transport the TWW over a distance of $1 2 . 5 \\mathrm { k m }$ . Because of securing funds are challenging, Scenario B would be the best option and the second-best option is Scenario A2. Scenario B2 has the lowest net benefit investment ratio and is very attractive because it entails integrated demand and supply management of groundwater. It is required to reduce pumping and to invest in injecting TWW to improve groundwater quality in the vicinity of irrigation wells and to form a hydrological barrier to control seawater intrusion in the long run. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: managed aquifer recharge; treated wastewater; salinity line; coastal aquifer; Oman ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation:Mustafa EL-RAWY，Ali AL-MAKTOUMI， Slim ZEKRI，Osman ABDALLA，Rashid AL-ABRI. 2019. Hydrological and economic feasibility of mitigating a stressed coastal aquifer using managed aquifer recharge: a case studyofJammaaquifer,Oman.JournalofAridLand,11(1):148-159.htps:/doi.org/10.1007/s4033-019-0093-7 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In arid regions, such as Oman, limited water resources may threaten the development of agriculture, industry and tourism. Groundwater is overexploited in densely populated/developed coastal areas, which depletes aquifer storage and causes seawater intrusion that degrades agricultural land and hence adversely affects the socioeconomic aspects of the farming community (MRMWR, 2005). Along with the proper management of water resources, additional water sources are needed to augment stressed coastal aquifers， among which are construction of recharge dams, control/rationing of the groundwater abstraction, and desalination of seawater. The rainfall pattern is irregular, unpredictable and of low rate in Oman (annual average rainfall is approximately 100 mm).Thus, the role of recharge dams is tightly linked to weather conditions,which are characterized by long dry spells and low frequent rainfall (Sen, 2Oo8). Desalinated water is expensive (approximately $\\mathrm { 1 ~ \\bar { ~ } U S D / m ^ { 3 } }$ as estimated by Zekri et al. (2013)） and has negative environmental impacts. Recently， managed aquifer recharge (MAR） using tertiary treated wastewater (TWW) as a non-conventional water resource has been viewed as a feasible option (Asano and Cotruvo, 2004; Khan et al., 2008; Al-Assa'd and Abdulla, 2010; Missimer et al.,2012; Ebrahim et al.,2O15). MAR is the intentional recharge of water into an aquifer either by injection or infiltration and recovery by planned extraction (Hayder Consulting, 2O06). MAR has been identified as a potential major water management practice to support groundwater storage in arid and semi-arid areas (Ebrahim et al., 2015). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abiye et al. (2Oo9) found that TWW can be used for MAR rather than discharge into the Little Akaki River in Ethiopia for storage in the groundwater reservoir because the treated effluent is of better quality than the river water. Li et al. (2Oo6) numerically investigated the impact of MAR on Perth Basin,Western Australia and developed a model which can help to evaluate the effects of different ways of MAR in augmenting groundwater storage and improving the aquifer water quality, particularly along the coast and river margins.MAR also improved the groundwater quality and augmented the storage of an alluvial wadi aquifer in Saudi Arabia (Missimer et al., 2012). Moreover, the injected TWW acted as a hydraulic barrier to decelerate seawater intrusion in the Damour and Jieh regions in Lebanon (Masciopinto, 2013). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Economically, MAR often provides the cheapest water supply (Dillon, 20o5; Zekri et al., 2013). Khan et al. (2Oo8) suggested that underground water storage facilities are cheaper than those of surface water storage, with less environmental consequences and evaporation losses. Zekri et al. (2013) proposed the reuse of TWW to farmers through injection/recovery systems via aquifers. The injection of TWW into aquifers for later use in irigation will further result in natural treatment and quality improvement. Zekri et al. (2013) estimated the current TWW cost in Oman was 0.550 USD $/ \\mathrm { { m } } ^ { 3 }$ , while the cost of injection and recovery of TWW in an aquifer is approximately $0 . 0 2 6 \\mathrm { U S D } / \\mathrm { m } ^ { 3 }$ ： The quality of water used for aquifer recharge could alter the physical and chemical characteristics of the porous medium. The injected TWW must undergo treatment processes to satisfy drinking water standards and reduce the associated risks (Hayder Consulting, 20o6; Dillon et al., 2009). In Oman,Haya Water Company is the main entity responsible for the collection and treatment of sewage water to produce tertiary TWW.The hydrochemistry of MAR practices is beyond the scope of this paper and will be considered in future studies. The volume of tertiary TWW is $1 . 0 0 \\times 1 0 ^ { 5 }$ $\\mathrm { m } ^ { 3 } / \\mathrm { d }$ in 2015 (Zekri et al.,2013) and is expected to reach $2 . 7 4 \\times 1 0 ^ { 5 } ~ \\mathrm { m } ^ { 3 } / \\mathrm { d }$ by 2030 in Muscat, the capital city of Oman (Zekri et al., 2016). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The objective of this study is to numerically assess the feasibility of MAR using tertiary TWW to mitigate a deteriorated coastal unconfined alluvium aquifer at the Jamma site in the Al-Batinah area of northern Oman. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Currently, the Jamma aquifer is mainly used for irigation purposes.The Al-Batinah plain has approximately $50 \\%$ of the total agricultural land in Oman (Oman Salinity Strategy, 2012). Overpumping during the last 45 a has resulted in a significant decline in the groundwater table (up to 5 m),which consequently caused seawater intrusion and soil salinization (MRMWR,2005； Al Barwani and Helmi, 20o6; Zekri,2Oo8).As a result, suitable agricultural lands in the Al-Batinah plain reduced by $7 \\%$ in 2000-2oo5,with negative socioeconomic consequences (Al Barwani and Helmi,2006; Zekri,2009; Oman Salinity Strategy, 2012). The injection of TWW into the aquifer will form a hydraulic barrier against seawater intrusion, improve water quality within the vicinity of the injection and furnish additional water for irrigation. In this study, the clogging effect during the artificial recharge as discussed by Voudouris (2O11) is not considered at this stage as the treatment level is tertiary with additional purification steps (in fact Quaternary). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and method ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Jamma aquifer $( 2 3 ^ { \\circ } 3 5 ^ { \\prime } 5 3 ^ { \\prime } \\mathrm { W }$ ， $5 7 ^ { \\circ } 3 5 ^ { \\prime } 1 4 ^ { \\prime \\prime } \\mathrm { E } )$ is an important alluvium unconfined aquifer (Al Barwani and Helmi,2Oo6) that is located in the southeast part of the Al-Batinah coast in Oman (Wadi Al-Fara catchment) and covers an area of approximate $2 9 5 ~ \\mathrm { k m } ^ { 2 }$ (Fig. 1). The study area, Jamma, is characterized by warm winter with low humidity, very hot and humid summer, along with low and irregular rainfall. The annual mean rainfall is approximately $6 0 ~ \\mathrm { m m }$ , with an annual potential evapotranspiration (ET） of $1 6 4 4 ~ \\mathrm { m m }$ (MWR, 1996). The highest annual rainfall (240 mm) is recorded in the southern region of the study area (above $3 0 0 0 \\mathrm { m }$ a.s.l.) compared with the coastal region $( 8 0 \\mathrm { m m } )$ from which the major recharge to the coastal aquifer occurs(Weyhenmeyer et al.,20oo). The mean annual temperature is $2 8 . 5 ^ { \\circ } \\mathrm { C }$ . There are approximately 1037 unmonitored/unregulated irrigation wells clustered along the coastal strip with a width of $5 ~ \\mathrm { k m }$ (Fig. 1) that mainly tap the upper part of the Quaternary aluvium layer because the vast majority of the wels are shallow-dug wells.The groundwater abstraction records in the study area are very limited. The total groundwater abstraction from irigation wells has been estimated based on field surveys and measurements conducted by the Ministry of Regional Municipalities and Water Resources (MRMWR) of Oman. The total volume of irrigation water in the study area was estimated based on the irrigation water requirement per hectare under different irrigation systems (Table 1; Zekri et al., 2016). The cropped area is approximately $1 0 . 9 \\ \\mathrm { k m } ^ { 2 }$ ，with $80 \\%$ of it under traditional flood irrigation and the rest under modern irrigation systems (MRMWR,2005). The total abstraction from irrigation wells is approximately $8 9 \\times 1 0 ^ { 6 } \\mathrm { m } ^ { 3 } / \\mathrm { \\dot { a } }$ ，with $2 3 5 ~ \\mathrm { m } ^ { 3 } / \\mathrm { d }$ as an average abstraction rate per well Irrigation returns to the aquifer (as a source of recharge) is ignored provided the depth to the water table varies from $6 1 . 4 \\mathrm { m }$ at the southern boundary to $1 6 . 0 \\mathrm { m }$ in the vicinity of the coastal boundary (average water table, $3 1 . 6 \\mathrm { ~ m } )$ . The groundwater table was monitored using seven observation wels by the MRMWR, which were used in the calibration of the numerical model (Fig. 1). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8155c47f82eefbe12d2a3ad0cb4138d06c4924b341d94172edc2ddf28d739d80.jpg",
+        "img_caption": [
+            "Fig.1Location of the irrigation and observation wells in the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/edefba042858e2eba4f3e701b8fa6a5f16345a9b7be183da8c77b2b6dc2fd7b8.jpg",
+        "table_caption": [
+            "Table1 Irrigation water requirement "
+        ],
+        "table_footnote": [
+            "Note:Modern irrigation includes drip and sprinkler irrigations. "
+        ],
+        "table_body": "<html><body><table><tr><td>Irrigation system</td><td>Irrigation water requirement (×1O³ m³/(hm²·a))</td></tr><tr><td>Flood irrigation</td><td>96.469</td></tr><tr><td>Modern irrigation</td><td>22.917</td></tr><tr><td>Modern+flood irrigation</td><td>42.012</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 Geology and hydrogeology of the study area ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The geology of Wadi Al-Fara catchment was previously investigated by many researchers (e.g., Searle and Malpas,1980； Stanger,1986; Lakey et al.， 1995). The Wadi Al-Fara catchment comprisestwo distinctgeomorphological zones. The first zone (southern part）is mountainous/piedmont upper catchment dominated by Samail Nappes, as wel as Hadhramaut Group (HG) sedimentary rocks. The second (northern part, Jamma area) is aluvial fans, which is a plain that extends through the central and lower reaches of the catchment to the coast.The aquifer is unconfined and modeled as a two-layered system, as shown in the geological cross-section (Fig. 2). Layer 1 (quaternary alluvium) has a low clay content (with a hydraulic conductivity of 8-70 $\\mathrm { m } / \\mathrm { d } )$ ）whereas layer 2 (tertiary alluvium, or as named locally \"Upper Fars Formation\") is more compacted and characterized with lower hydraulic conductivity $( 0 . 1 - 2 0 . 0 \\ \\mathrm { m } / \\mathrm { d } )$ . Those values of hydraulic conductivities were used in the calibration process (Table 2).The thickness of layer 1 ranges from 80 to $2 2 0 \\ \\mathrm { m }$ . The thickness of layer 2 varies between 195 and $4 3 0 \\mathrm { ~ m ~ }$ (Fig. 2). The specific yield varies between O.01 to O.20 and the porosity is equal to 0.25. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The bottom elevation of the alluvial unconfined aquifer in the study area was obtained from geophysical data and lithological descriptions of piezometers (MAF,1986; MRMWR,2006), while the bottom elevation of the Upper Fars aquifer in the study area was extrapolated from geological cross-sections of piezometers located close to the boundary with a neighboring catchment (Wadi Bani Ghfir) (MRMWR, 2006). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3acab2f6e774e98bd3cdc4ed73a4fc6c6151e4d6b3adbc6045e3b7a93796a0ab.jpg",
+        "img_caption": [
+            "Fig.2Geological cross-section of the study area,Jamma aquifer,in the Wadi Al-Fara catchment "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3Numerical model setup ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A three-dimensional finite-difference groundwater flow model MODFLOW-20o5 (Harbaugh, 2005) was used to simulate groundwater flow using ModelMuse (Winston, 20o9) as the graphical user interface (GUI). The model was discretized by a $3 0 \\mathrm { m } { \\times } 3 0 \\mathrm { m }$ grid, resulting in a domain of 952 rows and 610 columns and 2 layers with 1,161,440 cells $( 2 \\times 9 5 2 \\times 6 1 0 \\$ ),of which 655,390 are active cells. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The southern boundaries hydraulic conductivity zones and injection wells are shown in Figure 3. Constant head boundaries were assigned to the coastline (water head, $\\mathrm { ~ 0 ~ m ~ } ,$ ）and southern boundary (water head, $9 5 . 0 \\mathrm { ~ m ~ }$ as estimated from piezometric map) to account for the deep percolation from the mountainous area that receives a higher amount of rainfall $( 2 4 0 \\ \\mathrm { m m / a } )$ and is considered as the header tank for the coastal area (Fig.2).Analysis of head hydrograph data for the observation well,located at the upstream boundary, supports the assumption of a \"constant head boundary\" as the water table remains constant over the last 15 a.No flow boundaries were assigned to the eastern and western boundaries of the model domain since the regional flow is normal to the coastline.The direct recharge from rainfall in the coastal plain area was assumed to be $20 \\%$ of the annual rainfall(Lakey et al.,1995; Walther et al.,2014; Ebrahim et al.,2015). The potential ET of $1 6 4 4 ~ \\mathrm { m m / a }$ was assigned with an extinction depth of $1 2 \\mathrm { ~ m ~ }$ (Christmann and Sonntag,1987; and Abdalla, 2008). The processing of the pumping test data divided the modeled area into two main zones (Fig. 3): the upstream part Zone 2 had a lower hydraulic conductivity of $\\mathrm { 0 . 1 - 8 . 0 ~ m / d }$ and the downstream Zone 1 had a higher hydraulic conductivity of $1 0 . 0 { - } 5 0 . 0 \\ \\mathrm { m / d }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The seawater salinity concentrations in the Oman Sea range from 40,000 to $^ { 4 8 , 0 0 0 } \\mathrm { \\ m g / L }$ (Greenlee et al., 2009). In this study, a constant concentration of $4 0 { , } 0 0 0 \\ \\mathrm { m g / L }$ was assigned along the coastal boundary, with an assumed dispersion coefficient of $2 0 0 \\mathrm { m } ^ { 2 } / \\mathrm { d }$ . The solute transport for seawater intrusion was simulated based on constant density approach using the MT3DMS code (Zheng and Wang,1999). The density eect was ignored in this study as the interest is a regional scale and the efects of the density on the flow and transport processes of saline water could be neglected for the purpose of this study. The simulation period is $2 0 \\mathrm { ~ a ~ }$ ,with 244 stress periods of 30 d each. The 20-a period is selected to explore the aquifer responses over a relatively short hydrological time to MAR practice. TWW was injected during four months winter (during which an excess of TWW is available, as per the TWW industry), followed by eight months of recovery or without injection (WMAR). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/116b46e38bfb0951f53e123488435e9811bc221ff0ff819793e082e4e217c9c9.jpg",
+        "img_caption": [
+            "Fig.3Locations of irigation (green dot)and observation(black triangle) wels,the sea and southern boundaries, hydraulic conductivity zones and locations of forty upstream (US）and downstream (DS） treated wastewater injection wells "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4Sensitivity analysis and calibration ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A sensitivity analysis was carried out using UCODE 2005 (Poeter et al.,2005) with the help of ModelMate (Banta,2O11). The lack of time series data for irigation wells (private wells） is a challenge that hindered the transient state calibration process.The model is calibrated for the steady state using data from 2Oo5 from the seven available piezometers (Fig. 3). The values of the calibrated parameters are presented in Table 2. The results of the calibrated groundwater model shows a correlation factor of 0.96 (Fig. 4a). The simulated head distribution using the calibrated parameters is presented in Figure 4b. The mean error is $- 0 . 0 4 \\mathrm { ~ m ~ }$ ， mean absolute error is $0 . 9 0 ~ \\mathrm { m }$ ， and root mean square error is $1 . 1 7 \\mathrm { m }$ ，which shows that the model performs well. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/544f7ab5a2e284333719e0133c4e340626ab013d3c94de3eec48254a53e662d1.jpg",
+        "img_caption": [
+            "Fig.4Simulated versus observed groundwater heads for the steady state using seven monitoring wels at the Jamma site (a) and simulated groundwater head using the calibrated parameters (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The water budget of the calibrated model is summarized in Table 3. Using ZONEBUDGET program (Harbaugh, 1990) as a post-processor step, the inflow from the sea boundary into the aquifer was calculated. The total amount of inflow from the coastal boundary into the aquifer is $1 7 1 . 7 0 2 { \\times } 1 0 ^ { 3 } \\ \\mathrm { m } ^ { 3 } / \\mathrm { d }$ , while the recharge through the southern boundary is $7 9 . 2 8 8 \\times 1 0 ^ { 3 } ~ \\mathrm { m } ^ { 3 } / \\mathrm { d }$ and the direct recharge from rainfall to the aquifer is approximately $0 . 5 3 4 \\times 1 0 ^ { 3 } \\mathrm { m } ^ { 3 } / \\mathrm { d }$ ,which is $0 . 2 \\%$ of the daily inflow amount. The abstracted volume by irrigation wells is $2 . 4 3 . 6 9 5 \\times 1 0 ^ { 3 } \\mathrm { m } ^ { 3 } / \\mathrm { d }$ ,which is $9 7 \\%$ of the total outflow rate, while the outflow by ET is estimated at $7 . 8 2 9 \\times 1 0 ^ { 3 } \\ \\mathrm { m } ^ { 3 } / \\mathrm { d }$ , which accounts for $3 \\%$ of the total outflow budget from the modeled area and is an acceptable volume given the depth of the water table( $1 6 . 0 { - } 6 1 . 4 \\mathrm { ~ m ~ }$ from downstream to upstream). The over abstraction of groundwater resulted in a water depression in the vicinity of the irrigation wells,reaching approximately $3 . 3 \\mathrm { ~ m ~ }$ ,causing seawater intrusion in the area. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/eb9daaf2e8f12963d475b7ed2884cabb8f1b0f7b0dd0b6206a0c51743c01da9a.jpg",
+        "table_caption": [
+            "Table 3Water balance of the steady state calibrated model "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"2\">Inflow</td><td colspan=\"2\">Outflow</td><td rowspan=\"2\">Difference (×10² m³/d)</td></tr><tr><td>(×10³ m³/d)</td><td>(%)</td><td>(×10³ m³/d)</td><td>(%)</td></tr><tr><td>From the coastal boundary (Oman Sea)</td><td>171.702</td><td>68.3</td><td>0</td><td>0</td><td>171.702</td></tr><tr><td>inflow from the south boundary</td><td>79.288</td><td>31.5</td><td>0</td><td>0</td><td>79.288</td></tr><tr><td>Pumping wells</td><td>0</td><td>0</td><td>243.695</td><td>97</td><td>-243.695</td></tr><tr><td>ET</td><td>0</td><td>0</td><td>7.829</td><td>3</td><td>-7.829</td></tr><tr><td>Recharge</td><td>0.534</td><td>0.2</td><td>0</td><td>0</td><td>0.534</td></tr><tr><td>Total</td><td>251.524</td><td>100</td><td>251.524</td><td>100</td><td>0</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.5 Simulated scenarios ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Eight scenarios (which are divided into 3 main groups: A,B and C) were simulated and are presented in Table 4. The simulation time is set as $2 0 \\mathrm { ~ a ~ }$ ，with 244 stress periods of 30 d each. Scenario A considers the case \"business as usual\", which simulates the current situation assuming that no changes (in terms of management and climatic conditions) willtake place for the next $2 0 \\mathrm { a }$ Scenario A will thus be considered as the base scenario,with which the results of the other scenarios are compared. The responses of the aquifer to MAR using TWW in two injection locations were simulated (scenarios Al and A2). The locations of the injection wells were taken into consideration of land availability because the zone is densely populated and privately owned. The locations of wells are given as Zone 1 for upstream and Zone 2 for downstream (vicinity of farms) in Figure 3. The injected volume is based on the availability of excess TWW $( 3 1 \\times 1 0 ^ { 6 } \\mathrm { m } ^ { 3 } / \\mathrm { a } )$ ,as reported by the Haya Water Company (Zekri et al., 2O13). Scenarios B and C are based on policies recommended by the Ministry of Agriculture and Fisheries of Oman (Oman Salinity Strategy, 2012) and by the MRMWR in Oman (Abdel-Rahman and Abdel-Magid, 1993), as shown in Table 4. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/66bd34fa7a1449559778258393dcba6511b2218f40d922626bdd0a8c63f9cb43.jpg",
+        "table_caption": [
+            "Table 4Description of the simulated scenarios "
+        ],
+        "table_footnote": [
+            "Note:A,the base scenario;NA,notapplicable;MAR,managed aquifer recharge;Upstream,the injectionwas performed $1 6 . 5 ~ \\mathrm { k m }$ upstream of the coastline (approximately $1 2 . 5 ~ \\mathrm { k m }$ from the water supply line);Downstream,in the vicinity of the farming area and approximately $2 . 7 \\mathrm { k m }$ from the water supply line; $4 \\mathrm { - m t h } / 8 \\mathrm { - m t h }$ ,4 months MAR followed by 8 months WMAR (without managed aquifer recharge);\\*,data source: Abdel-Rahman and Abdel-Magid,1993. "
+        ],
+        "table_body": "<html><body><table><tr><td>Scenario</td><td>Location of the injection</td><td>Description</td><td>Injection (x10m≥/d)</td><td>Number of wells</td><td>Period of injection</td><td>Abstraction (x10³m³/d)</td></tr><tr><td>A</td><td>NA</td><td>Represents the current situation To test the feasibility of</td><td>NA</td><td>NA</td><td>NA</td><td>243.695</td></tr><tr><td>A1</td><td>Upstream</td><td>upstream injection on augmentation of aquifer storage</td><td>1.500</td><td>40</td><td>4-mth/8-mth</td><td>243.695</td></tr><tr><td>A2</td><td>Downstream</td><td>To test the feasibility ofMAR to forma hydraulic barrier against seawater intrusion</td><td>1.500</td><td>40</td><td>4-mth/8-mth</td><td>243.695</td></tr><tr><td>B</td><td>NA</td><td> Abstraction volume reuce by</td><td>NA</td><td>NA</td><td>NA</td><td>194.956</td></tr><tr><td>B1</td><td>Upstream</td><td>Abstraction volume reduced by 25%</td><td>1.500</td><td>40</td><td>4-mth/8-mth</td><td>194.956</td></tr><tr><td>B2</td><td>Downstream</td><td>Abstraction volume reduced by 25%</td><td>1.500</td><td>40</td><td>4-mth/8-mth</td><td>194.956</td></tr><tr><td>C</td><td>NA</td><td>Abstraction volume reduced by 50%*</td><td>NA</td><td>NA</td><td>None</td><td>128.888</td></tr><tr><td>C1</td><td>Upstream</td><td> Abstraction volume reduced by</td><td>1.500</td><td>40</td><td>4-mth/8-mth</td><td>128.888</td></tr><tr><td>C2</td><td>Downstream</td><td>Abstraction volume reduced by 50%</td><td>1.500</td><td>40</td><td>4-mth/8-mth</td><td>128.888</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3Results and discussion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The effects of the diferent simulated scenarios on mitigating the aquifer were analyzed at the end of the simulated period. With respect to the base scenario A, the injection of $6 0 . 0 0 0 { \\times } 1 0 ^ { 3 } \\ \\mathrm { m } ^ { 3 } / \\mathrm { d }$ of TWW in the upstream location (Scenario A1) causes a decrease in the inflow of water through the coastline ( $1 2 . 0 1 2 \\times 1 0 ^ { 3 } \\mathrm { m } ^ { 3 } / \\mathrm { d } )$ and the southern boundaries $\\left( 6 0 1 ~ \\mathrm { m } ^ { 3 } / \\mathrm { d } \\right)$ (Fig. 5). The change in water volume discharge via ET is small. The groundwater table rises by $0 . 8 5 \\mathrm { m }$ on average. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d77cb0361d749d531b8707a1274fc3e8ce1a12a432c89b3df63f7b23b4a92a30.jpg",
+        "img_caption": [
+            "Fig.5Waterbalanceofthe diferent scenariosat WMAR20 (endof240 stressperiods)forthe simulated scenarios "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Moving the injection wells to the vicinity of the farms (the stressed part of the aquifer, Scenario A2) due to the injection of $6 0 . 0 0 0 { \\times } 1 0 ^ { 3 } \\ \\mathrm { m } ^ { 3 } / \\mathrm { d }$ of TWW in the downstream part of the aquifer, the inflows from both the coastline and southern boundaries into the aquifer decreased by $1 \\dot { 1 } . 6 0 8 \\times 1 0 ^ { 3 }$ （204号 and $4 4 ~ \\mathrm { m } ^ { 3 } / \\mathrm { d }$ ,respectively, against to Scenario A. It is similar to Scenario A1 because of the effects of the active irrigation wels in simultaneously recovering the injected water and hence the slow gain in storage. The groundwater table rises by $0 . 2 \\mathrm { m }$ on average (Table 5). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In Scenario B, the reduction in the volumetric abstraction rate was $2 5 \\%$ （ $1 9 4 . 9 5 6 \\times 1 0 ^ { 3 } \\mathrm { m } ^ { 3 } / \\mathrm { d } ,$ and there was no MAR practice.The inflow from both the coastline and the southern boundaries decreased by $4 5 . 2 0 0 \\times 1 0 ^ { 3 }$ and $9 4 4 ~ \\mathrm { m } ^ { 3 } / \\mathrm { d }$ , respectively, with respect to Scenario A. The impact of reducing the abstraction is much higher than that induced by MAR in the scenarios Al and A2.The recovery in the water table is $0 . 8 2 \\mathrm { m }$ but a great volume of water is lost through ET $( 1 7 \\% )$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "When the reduction in abstraction from irrigation wells in Scenario B is complemented with MAR at the locations of the scenarios Bl and B2,the inflows from both the coastline and southern boundaries decreased by $4 8 . 3 0 0 \\times 1 0 ^ { 3 }$ and $1 5 5 4 ~ \\mathrm { m } ^ { 3 } / \\mathrm { d }$ ，respectively, for scenario B1 compared to Scenario A.The groundwater table rose $1 . 6 6 \\mathrm { m }$ on average(Table 5).For Scenario B2, the aquifer receives approximately $5 7 . 6 2 8 \\times 1 0 ^ { 3 } \\ \\mathrm { m } ^ { 3 } / \\mathrm { d }$ of seawater, which represents a reduction of $3 3 . 5 \\%$ compared to Scenario A. Injection at the downstream site in Scenario B2 reduces seawater intrusion by only $5 \\%$ compared to Scenario B1 and by $7 \\%$ with respect to Scenario B.MAR increased the average water table by $100 \\%$ in Scenario B1 and $23 \\%$ in Scenario B2 with respect to Scenario B. The active role of irrigation wels on the recovery of the injected TWW provided less opportunity for the water table mound to develop and hence the aquifer storage to recover (Table 5). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A further drop in the volumetric abstraction rate of $50 \\%$ (Scenario C, $1 2 9 . 0 0 0 { \\times } 1 0 ^ { 3 } \\ \\mathrm { m } ^ { 3 } / \\mathrm { d } ,$ ,even in the absence of MAR,will decrease the seawater intrusion rate by $63 \\%$ compared to Scenario A (inflow from the sea decreased by $1 0 8 . 0 0 0 { \\times } 1 0 ^ { 3 } \\ \\mathrm { m } ^ { 3 } / \\mathrm { d } )$ . This reduction allows aquifer storage recovery, which is reflected in the increase of the average groundwater table by $1 . 9 1 ~ \\mathrm { m }$ (Table 5). Obviously, losses via ET increase by $60 \\%$ , which is relatively small compared to other outflows from the modeled system. Similar to the scenarios B1 and B2,the injection of TWW will further enhance the hydrological condition of the aquifer. The inflow of saline water decreases by $70 \\%$ and the average groundwater table rises by $2 . 7 5 \\mathrm { ~ m ~ }$ (Table 5） when Scenario C1 is simulated.When MAR is shifted to the downstream locations (Scenario C2), the induced changes are almost the same as those of Scenario C1. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/a6ae93eb6be7b5083b6e33f25ababca202bffce22ed887738416ec3a69464220.jpg",
+        "table_caption": [
+            "Table 5Abstraction and injection rates as wellas changes in inflow from the sea boundary,discharge through evapotranspiration,and the changes in the average groundwater table ofallscenarios against Scenario A "
+        ],
+        "table_footnote": [
+            "Note: NA,not applicable. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Scenario</td><td>Abstraction from agricultural wells</td><td>Injection rate</td><td>Change in inflow from the sea boundary</td><td>Change in evapotranspiration</td><td rowspan=\"2\">Average change in groundwater table (m)</td></tr><tr><td colspan=\"3\">(×10² m³/d)</td><td></td></tr><tr><td>A</td><td>243.695</td><td>0</td><td>NA</td><td>NA</td><td>NA</td></tr><tr><td>A1</td><td>243.695</td><td>60.000</td><td>12.012</td><td>0.351</td><td>0.85</td></tr><tr><td>A2</td><td>243.695</td><td>60.000</td><td>11.608</td><td>0.318</td><td>0.20</td></tr><tr><td>B</td><td>194.956</td><td>0</td><td>46.235</td><td>1.560</td><td>0.82</td></tr><tr><td>B1</td><td>194.956</td><td>60.000</td><td>58.344</td><td>2.106</td><td>1.66</td></tr><tr><td>B2</td><td>194.956</td><td>60.000</td><td>57.628</td><td>2.029</td><td>1.01</td></tr><tr><td>C</td><td>128.888</td><td>0</td><td>107.881</td><td>4.701</td><td>1.91</td></tr><tr><td>C1</td><td>128.888</td><td>60.000</td><td>119.704</td><td>5.608</td><td>2.75</td></tr><tr><td>C2</td><td>128.888</td><td>60.000</td><td>118.901</td><td>5.438</td><td>2.10</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The results suggest that MAR is more efficient in restoring the stressed coastal aquifer when integrated with the management of abstraction from irrigation wels. It is obvious that injecting more TWW willaugment the aquifer storage,but the availability of TWW is a limitation. Moreover, the cost-benefit aspect must be considered when the optimization of MAR and irrigation practices are considered. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The developed groundwater mound for a selected scenario is plotted against time at a crosssection(which passes through the zone of the injection wells) across the modeled area (extending between the eastern and western boundaries; Fig.3） for the selected stress periods.A detailed analysis of the results shows that Scenario A1 creates a mound of $8 . 2 8 ~ \\mathrm { m }$ afterMAR20(at end of MAR duration for 20 a). The mound dissipates gradually when injection ceases and extends over a long distance of approximately $3 . 5 \\mathrm { k m }$ from the center of the zone of the injection wells.MAR enhances the aquifer storage,as reflected in the gradual rise in the mound after successive and consistent injections (Fig. 6). The buildup of a hydraulic head over time due to MAR will help to reduce the inflow from the sea and hence improve and sustain farming activities. However, the base scenario suggests that the water table will further drop by more than $3 \\mathrm { ~ m ~ }$ in average in case the aquifer remains unmanaged. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/fbad98a2696222dcc0a3fb4e6bc148a27b36e99bcf4de1b471c7a6a9084992f5.jpg",
+        "img_caption": [
+            "Fig.6Simulated groundwater heads at a line crossing the injection wels at the end of diferent durations of MAR and WMAR (MAR1, WMAR1, MAR2, WMAR2,MAR5, WMAR5,MAR10, WMAR10, MAR20 and WMAR20) for Scenario A1 with respect to the base scenario A "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The $1 5 0 0 ~ \\mathrm { m g / L }$ iso-concentration line for Scenario A and scenarios A1,A2,B1, B2, C1 and C2 are considered (Fig.7) to observe the effects of MAR on the recesson of the saline and fresh water interface.The salinity line recedes in the seaward direction by nearly $1 . 0 \\mathrm { k m }$ at the end of 20 a for Scenario A2 and by approximately $1 . 3 \\mathrm { k m }$ for Scenario B2.Figure 6 clearly shows that MAR using TWW acts as a hydraulic barrier against seawater intrusion. It is, however, less effective in this regard when the injection is implemented far from the coastline in the upstream area. However, the upstream injection is expected to further purify the injected water when it is filtered out by the subsurface porous domain,and perhaps its influence on the hydrologic system willbe observed in a period longer than the simulated periods in this research. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The results show that MAR becomes more effective in both restoring the head distribution in the depressed zone and augmenting the groundwater quality when MAR is applied in the downstream areas and integrated with a $50 \\%$ reduction in abstracted irrigation water (Scenario C2). ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/9ef62866d4f9d423ee04c9dff21e58454c744ce13b99291619f67d047ae3f309.jpg",
+        "img_caption": [
+            "Fig.7Salinity line of $1 5 0 0 ~ \\mathrm { m g / L }$ iso-concentration for the scenarios A,A1,A2,B1, B2, C1, and 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Table 6 presents the salinized water volume and its changes considering the $1 5 0 0 ~ \\mathrm { m g / L }$ isoconcentration salinity line for Scenario Aand simulated scenarios at the end of the simulation time. Considering the $2 4 4 ^ { \\mathrm { t h } }$ stress period,a volume of $2 . 5 6 1 \\times 1 0 ^ { 9 } \\ \\mathrm { m } ^ { 3 }$ is salinized for Scenario A. In Scenario C2, $7 9 \\%$ of the salinized water is cleaned to a salinity level lower than $1 5 0 0 ~ \\mathrm { { m g / L } }$ and is hence becomes suitable for farming activities (for the types of crops and trees cultivated in the study area,i.e., date palm trees,lime trees and fodder crops). In the absence of aquifer management (e.g. MAR and efficient irigation systems), the saline water interface is expected to intrude a distance of $2 . 7 \\mathrm { k m }$ landward direction. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A cost-benefit analysis was applied to evaluate the economic value of the scenarios using a 20-a life span and $5 \\%$ discount rate.All the scenarios that involve recharge in the upstream area are not economically feasible due to the very high investment cost to transport water by $1 6 . 5 \\mathrm { k m }$ . Scenario B does not involve any recharge to the aquifer and the investment cost is related to the cost of installation of smart groundwater meters in each of the 1037 wells and online monitoring of the pumping (Zekri et al.,20l7). Scenario B2 is a combination of scenarios A2 and B.It assumes that the injection of treated wastewater willtake place in the downstream area, and at the same time, pumping will be controlled as in Scenario B. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Given that financial resources for investments are scarce,the decision criteria on the best scenario should rely on the net benefit investment ratio. The highest ratio of 4.41 corresponds to ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Scenario B. Even though Scenario B2 has the lowest net benefit investment ratio,it is very attractive from a social perspective because it involves two measures at a time.Thus,farmers are requested to cut pumping and the government will invest in recharge to improve the quality of the groundwater. The joint effort of the ministry and farmers will provide a higher chance of success than acting from a single side only. ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/19a512623f96bcc2b967101389792fd1cf18e0d388cf5994ed467f75690c7365.jpg",
+        "table_caption": [
+            "Table 6Salinized water volume for different simulated scenarios considering the $1 5 0 0 ~ \\mathrm { m g / L }$ iso-concentration salinity line at the end of the simulation period "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Scenario</td><td>Salinized water volume (×10 m3)</td></tr><tr><td>A</td><td>2.561</td></tr><tr><td>A1</td><td>2.488</td></tr><tr><td>A2</td><td>1.443</td></tr><tr><td>B</td><td>2.123</td></tr><tr><td>B1</td><td>2.030</td></tr><tr><td>B2</td><td>1.067</td></tr><tr><td>C</td><td>1.400</td></tr><tr><td>C1</td><td>1.300</td></tr><tr><td>C2</td><td>0.537</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4Conclusions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Jamma aquifer will further deteriorate if the current practices continue without a plan for groundwater management for the next $2 0 \\mathrm { a }$ ,which will lead to more than $3 . 0 \\mathrm { m }$ average decline in the groundwater table and $2 . 7 \\mathrm { k m }$ further intrusion in the $1 5 0 0 \\mathrm { m g / L }$ salinity line. By contrast, using MAR will result in raising the groundwater table by $0 . 8 5 \\mathrm { m }$ and cause the salinity line to recede by more than $1 0 0 0 \\mathrm { ~ m ~ }$ . The best managerial results can be achieved when the management of groundwater abstraction (e.g., using modern irigation systems) is integrated with MAR using TWW.However, the scenarios with very high investment and maintenance costs are not economically feasible. The main challenge in practicing MAR for all aquifers along Al-Batinah coast is the availability of TWW. The numerical simulations show that MAR can be applied for a single aquifer for a certain period of time until the aquifer is cured and can then be moved to another aquifer. As a feasible management practice to augment water resources in salinized coastal aquifers in arid areas,MAR can help improve farming profitability and sustainability as well as food security in Oman. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This study was supported by the USAID (United States Agency for International Development)—FABRI(Further Advancing the Blue Revolution Initiative)and the MENA NWC (Middle East and North Africa Network of Water Centers of Excellnce)(1001626-104). The authors would like to acknowledge the support of Sultan Qaboos University and the Ministry of Regional Municipalities and Water Resources in Oman. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abdalla O.2o08.Groundwater discharge mechanism insemi-arid regionsand theroleof evapotranspiration.Hydrological Processes,22(16):2993-3009.   \nAbdel-Rahman HA,Abdel-MagidIM.1993.Waterconservation inOman.Water InternationalJournal,18(2):95-102.   \nAbiyeTA,Sulieman H,Ayalew M.2O09.Useof treated wastewaterfor managedaquiferrecharge inhighlypopulated urban centers: a case study in Addis Ababa,Ethiopia.Environmental Geology,58(1): 55-59.   \nAl-Assa'dTA,AbdullaFA.2O10.Artificial groundwaterrecharge toasemi-aridbasin:casestudyofMujibaquifer,Jordan. Environmental Earth Sciences,60(4): 845-859.   \nAl Barwani A,Helmi T.2O06.Sea water intrusion inacoastal aquifer:acase studyfortheareabetween Seeband Suwaiq Sultanate of Oman. Journal of Agricultural and Marine Sciences,11(S.I.): 55-69.   \nAsano T,Cotruvo JA.2O04.Groundwaterrecharge with reclaimed municipal wastewater: health andregulatory considerations. Water Research,38(8):1941-1951.   \nBanta ER.2011.ModelMate-A graphical user interface for model analysis.Geological Survey Techniques and Methods 6-E4. Reston, USA.   \nDillon P.20o5.Future management of aquifer recharge.Hydrogeology Journal,13(1): 313-316.   \nDillonP,KumarA,KookanaR,etal.O9.aagedquifercharge-skstogroundwaterdependentcosystems-rvie. Water for a Healthy Country Flagship Report to Land & Water Australia, 6-8.   \nGreenleeLF,Lawler DF,FreemanBD,etal.O09.Reverseosmosisdesalination:watersources,technologyand today's challenges.Water Research,43(9):2317-2348.   \nHarbaugh A W.1990.Acomputer program for calculating subregional water budgets using results fromtheU.S.Geological Surveymodularthree-dimensional finite-diferenceground-waterflowmodel.In: U.S.Geological SurveyOpen-FileReport 90-392.Reston, USA.   \nHarbaugh A W.2005.MODFLOW-20o5,The U.S.Geological survey modular ground-water model—the ground-water flow process.U.S.Geological Survey Techniques and Methods 6-A16.Reston, USA.   \nHayder Consulting.206.Alternativeurban watersuppliesregulatoryreview, managedaquiferrecharge (MAR)technicaleport. VC02161-01-MAR Rpt Final.Victoria,Australia.   \nKhanS,Mushtaq S,Hanjra MA,etal.2Oo8.Estimatingpotentialcostsandgainsfromanaquiferstorageandrecoveryprogram in Australia.Agricultural Water Management, 95(4): 477-488.   \nLi Q,Harris B,AydoganC,etal.26.Feasibilityofrchargingrclaimed wastewatertothecoastalaquifersofPerth,weste Australia.Process Safety and Environmental Protection,84(4): 237-246.   \nMasciopinto C.2O13.Managementofaquiferrecharge inLebanonbyremoving seawaterintrusionfromcoastalaquifers.Journal of Environmental Management,130:306-312.   \nMissimerTM,DrewesJE,Amy G,etal.2012.Restorationof wadi aquifers byartificial recharge with treated waste water. Ground Water, 50(4): 514-527.   \nPoeterEE,HillMC,BantaER,et al.20o5.UCODE_20o5andsix othercomputercodes foruniversal sensitivityanalysis, calibration,and uncertainty evaluation. U.S.Geological Survey Techniques and Methods 6-A11.Reston,USA.   \nPyne RDG.1995.Groundwater Recharge and Wels: A Guide to Aquifer Storage Recovery.New York: CRC Pres,23-57.   \nSearle M,Malpas J.1980.Structureand metamorphismofrocks beneath the SemailophioliteofOmanand their significance in ophiolite obduction. Earth Sciences,71(4): 247-262.   \nSen Z.2008.Wadi Hydrology.New York: CRC Press,37-107.   \nStanger G.1986. The hydrogeology of the Oman Mountains.PhD Dissertation. Milton: Open University.   \nVoudourisK.20l1.Artificialrechargeviaboreholesusing treated wastewater: possibilitiesandprospects.Water,3(4):965-975.   \nWaltherM,ikLelfsO,al4.Asingteltwateratipotealofthmesioal,rou, coastal aquifer system. Environmental Earth Sciences,72(10): 3827-3837.   \nWeyhenmeyerCE,BurnsSJ,WaberHN,etal.2Ooo.Colglacial temperaturesandchanges inmoisture sourcerecorded in Oman groundwaters. Science,287(5454): 842-845.   \nWinston R B.2009.ModelMuse—A graphical user interface for MODFLOW-2005 and PHAST.U.S.Geological Survey Techniques and Methods 6-A29.Reston, USA.   \nZekri S.2o08.Using economic incentivesand regulations toreduce seawater intrusion in the Batinah coastal area ofOman. Agricultural Water Management,95(3): 243-252.   \nZekri S.2009.Controlling groundwater pumping online.Journalof Environmental Management,90(11): 3581-3588.   \nZekri S,Ahmed M,Gafour N,etal.20l3.Managedaquiferrechargeusing Quaternary-treated wastewater:Aneconomic perspective. International Journal of Water Resources Development,30(2): 246-261.   \nZekri S,AlHarthiSA,Kotagama H,etal.O16.Anestimateofthe wilingness topayfortreated wastewaterforirigatinin Oman. Journal of Agricultural and Marine Sciences,21(1): 57-63.   \nZekri S,Madani K,Bazargan-Lari MR,etal.2O17.Feasibilityof adopting smart water meters in aquifer management: An integrated hydro-economic analysis.Agricultural Water Management,181: 85-93.   \nZheng C,WangPP.199MT3DMS:amodularthree-dimensional multi-species transport modelforsimulationof advection, dispersion and chemicalreactions of contaminants in groundwater systems. Contract Report SERDP-99-1.Alabama,USA. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

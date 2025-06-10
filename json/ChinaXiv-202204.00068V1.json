@@ -1,0 +1,565 @@
+[
+    {
+        "type": "text",
+        "text": "基于Smooth-DETR的产品表面小尺寸缺陷检测算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张乃雪，钟羽中，赵涛，佃松宜(四川大学 电气工程学院，成都 610065)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为应对实际工业产品视觉质量检测中缺陷罕见、尺寸小等挑战，提出了一种仅需要少量训练样本的小尺寸缺陷检测算法——Sm0oth-DETR。该算法采用基于 DETR 的编码-解码结构对缺陷类别和位置进行预测，该结构降低了参数量和计算复杂度。因DETR强大的全局特征学习能力，该算法可从少量训练样本中充分挖掘产品表面纹理特征，从而对打破了表面纹理连续性的缺陷检出率高。通过结合 Smooth-L1损失和GIoU损失的优势，进一步提升了小尺寸缺陷的回归精度。实验结果表明，所提方法检测性能优于现有先进检测模型。此外，仅用少量训练样本，该算法对11类产品表面的缺陷检测平均精确率就能够达到 $98 \\%$ 以上。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：Transformer；DETR模型；GIoU损失；表面缺陷检测；深度学习 中图分类号：TP391.4 doi:10.19734/j.issn.1001-3695.2022.01.0011 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Detection method for small-size defects based on Smooth-DETR ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhang Naixue, Zhong Yuzhong†, Zhao Tao,Dian Songyi (Collegeof Electrical Engineering,Sichuan University,Chengdu 61oo65,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Todealwithchalenges of limitedandsmal-sizedefects in productquality inspection,thispaperproposedamethod forsurface-defect-detectionof smal-size with few training samples (Smooth-DETR).This method utilized DETR-based encoder-decoder to predict the clasification and location of defects,which reduced the parameters and complexity.DETR has astrong global feature learming capability, which could obtainrich texture features ofproduct surfaces with few samples, sothat itiseasytodetect defects thatbreak thecontinuityof texture.Thecombinationof Smooth-L1lossand GloU loss improvestheregressionaccuracyonsmall-sizedefectsamples.Experimentalresultsshow thatthe proposed method performs betterthan the existing state-of-the-art methods.Moreover,the average detection precision of the proposed method for11 different classes of surface defects is higher than $98 \\%$ with few training samples. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: Transformer; DETR; GIoU loss; surface defect detection; deep learning ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "工业产品质量检测是生产和运维中的重要环节，是保证产品外观、质量和性能的关键。近年来，随着深度学习的发展及其在各个场景的广泛应用[1,2],基于深度学习的目标检测算法也逐渐应用于表面缺陷检测任务中[3,4]以提高生产和检测效率，同时降低人的主观意识对检测结果的影响。与传统的缺陷检测相比，基于深度学习的表面缺陷检测算法更加智能化，且具有更好的检测准确率和泛化性[5]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于深度学习的表面缺陷检测任务可以大致分为基于检测的表面缺陷检测算法和基于分割的表面缺陷检测算法。基于检测的表面缺陷检测通常可以被视作一个特殊的目标检测任务。目前目标检测技术以端到端的深度学习检测算法为主，分为两大类，一类是以FasterR-CNN为代表的two-stage 检测算法[3];另一类是以YOLO为代表的one-stage 检测算法[6]。Di等人[7首先使用多组CNN对图像进行分类，针对不同类型的缺陷分别训练不同的卷积核；然后，将可能包含缺陷的特征映射输入到另一个基于YOLO的网络中，对缺陷的检测框进行回归。为应对YOLOv4的主干网络复杂度较高和难以检测到小尺寸表面缺陷等问题，Lian等人[8提出了YOLOv4-DefectSP算法。该算法利用深度可分离卷积代替传统的卷积结构，并融合知识蒸馏[]，不仅提升了对小尺寸缺陷检测准确率，还极大地降低了模型复杂度。此外，为了提高织物数据集检测的速度和准确性，Zhou等人[10]提出了更高效的RCNN算法。该算法利用可变形卷积网络代替了FasterR-CNN中主干网络的最后一个阶段，并引入特征金字塔网络和距离IoU损失函数，以达到检测更加快速和准确的目的。除了基于目标检测的缺陷检测方法以外，也有不少其他的检测方法。例如，由于很多行业无法获取足够的高精度标注样本，文献[11]提出了一个混合监督网络，由分割网络和分类网络两个子网络构成。该网络利用图像级标签和区域级标签混合监督的方法达到缺陷检测的目的，在一定程度上减少了对标注样本的需求。另外，基于分割的表面缺陷检测是指将语义分割模型用于解决表面缺陷检测任务。通常，语义分割模型由编码-解码结构组成，常见的有FCN[12]、UNet[13]和DeepLab $\\mathbf { V } 3 + [ 1 4 ]$ 等。目前也有不少研究将语义分割模型引入表面缺陷检测任务中，彭磊等[15]将UNet模型用于道路缺陷检测，郭亚萍等[16]将SegNet网络应用于工件表面缺陷检测中。除了通用的分割模型以外，针对条纹形的表面缺陷不易分割这一问题，ScratchNet[17]利用基于交叉最大池化模块的特征金字塔结构结合多层信息精确地提取各个方向的边界特征，更关注边界细节的分割；再利用空间注意上采样模块，确保低分辨率到高分辨率特征传递的有效性，提高了检测准确度。实验证明基于分割的模型在表面缺陷检测任务中也有着不错的表现。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "然而，以上这些算法都依赖于卷积神经网络(CNN)[18],并在其基础上发展而来，但卷积神经网络更关注局部特征而忽视了全局特征，因此基于CNN的检测算法对小尺度缺陷的检测存在不足。Transformer[19]则能够捕捉到较大范围内的特征信息，因此更关注全局特征。随着学者们将Transformer应用于各个领域[20,21]，Carion 等[22]提出了基于 Transformer的端到端的目标检测模型—一DETR 模型。DETR 模型将目标检测任务转换为集合序列预测任务，通过简单的CNN提取特征，再利用基于Transformer 的编码-解码结构进行并行地预测。DETR模型的提出和应用，为解决目标检测任务提供了一种全新的思路。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在工业产品质量检测中，很难获取到大量经专家标注后的且种类丰富的缺陷样本，因此训练集样本的数量非常有限。同时，工业产品表面常常出现尺寸较小且不显著的缺陷，这对视觉缺陷检测是一个巨大的挑战。针对这些问题，本文提出了一种基于 Smooth-DETR的产品表面小尺寸缺陷检测算法。考虑到工业产品表面通常以重复的结构性纹理作为背景，缺陷的存在打破了表面纹理的连续性，因此该算法利用DETR模型的全局特征学习能力，减少了对训练样本数量的需求，提升了缺陷的检出率。该算法还结合Smooth-L1损失函数[]和GIoU损失函数[23]作为边框回归损失，以提升对小尺寸缺陷的回归精度和模型训练效率。另外，还使用匈牙利算法来得到分类损失和回归损失的最优匹配，提升算法整体的检测准确率。与基于CNN的端到端的表面缺陷检测算法相比，由于Smooth-DETR使用了更少的卷积层，计算复杂度更低、参数量更小。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 Transformer模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Transformer模型最初在自然语言处理(NLP)中被提出。该模型舍弃了用于提取特征的各种类型的卷积运算[24,25lanchor-based和非极大值抑制(NMS)等后处理方法，而是全部由注意力机制组成，最初用于解决机器翻译任务。Transformer模型主要由多个基于多头注意力机制的编码器和解码器构成，如图1所示。每个编码器和解码器由多头注意力、前馈网络和层归一化等构成，其基本组成如图2所示。其中，多头注意力机制[19]为注意力层提供了多组由查询向量(Query)、关键向量(Key)和值向量(Value)组成的权重矩阵。假设含有 $h$ 个多头则多头注意力机制定义为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathrm { A t t e n t i o n } ( Q , K , V ) = \\mathrm { s o f t m a x } ( \\frac { Q K ^ { \\top } } { \\sqrt { d _ { k } } } ) V } \\\\ & { Q _ { i } = Q W _ { i } ^ { Q } , K _ { i } = K W _ { i } ^ { K } , V _ { i } = V W _ { i } ^ { V } , i = 1 , . . . , h } \\\\ & { \\mathrm { h e a d } _ { i } = \\mathrm { A t t e n t i o n } ( Q _ { i } , K _ { i } , V _ { i } ) } \\\\ & { \\mathrm { M u l t i h e a d } = \\mathrm { C o n c a t } ( \\mathrm { h e a d } _ { 1 } , . . . , \\mathrm { h e a d } _ { h } ) W ^ { o } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\sqrt { d _ { k } }$ 缩放因子； $W _ { i } ^ { Q } , W _ { i } ^ { K } , W _ { i } ^ { V } , W ^ { o }$ 均为权重矩阵。经过训练后，输入向量被投影到不同的子空间中，使得模型可以关注不同位置的信息，提升了注意力层的性能。与基于CNN的特征提取器相比而言，由于Transformer包含了多个子空间，故更容易关注全局特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce1669ad4eb789dcb734ca2f84dd5145496df0fd571d666921cdfb8052bc7a00.jpg",
+        "img_caption": [
+            "图1Transformer 模型结构Fig.1Structure of Transformer"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b595cfd4af42448543c5c347cb08a53c9439dca732f6ac4e659c2f83e9eab444.jpg",
+        "img_caption": [
+            "图2编码器和解码器的基本结构Fig.2Structures of encoder and decoder"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Smooth-DETR 算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1DETR模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DETR为端到端的目标检测算法提出了一种全新的思路，它将CNN和Transformer模型相结合，并行地预测包含目标和背景在内的N个对象的类别信息。借助于Transformer模型更关注全局特征这一特性，DETR模型也具有强大的全局特征学习能力。如图3所示，首先将输入图像分为大小相同的图像块，经过CNN网络对图像块进行特征提取，再利用$1 \\times 1$ 的卷积将特征图压缩成多个一维向量，和位置信息向量一并送入基于Transformer的编码器和解码器， $\\mathrm { ~ N ~ }$ 个对象被转换成嵌入输出；最后，经过一个共享权重的前馈网络将这些嵌入输出向量并行地独立解码为N个类别和预测框。基于Transformer的编码-解码结构并行地预测整个输入，因此位置编码尤为重要。位置编码的计算如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { P E _ { ( p o s , 2 i ) } = \\sin \\left( { p o s / 1 0 0 0 0 ^ { 2 i / d } } \\right) } \\\\ { P E _ { ( p o s , 2 i + 1 ) } = \\cos \\left( { p o s / 1 0 0 0 0 ^ { 2 i / d } } \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $p o s$ 表示图像块的位置， $d$ 表示该向量维度； $2 i$ 和 $2 i { + } 1$ 分别表示 $d$ 中偶数维度和奇数维度。由三角函数性质可知，每个位置 $p o s + k$ 都能用 $p o s$ 位置计算得到，且每个位置的所有维度都有独特的编码。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f2018308228e66925ebcc882a52fe305e83ad6d3ff5f884d79a98d0bb76937a4.jpg",
+        "img_caption": [
+            "图3DETR 结构图",
+            "Fig.3Structure of DETR "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设输入图像大小为 $\\mathrm { H } \\times \\mathrm { W }$ ，图像通过CNN网络提取后的特征，再经过 $1 \\times 1$ 的卷积降维，转换后得到 $D \\times \\mathrm { H W }$ 大小的向量作为Transformer 模型的输入。在基于Transformer 的编码阶段，注意力矩阵大小为 $( \\mathbf { H } \\times \\mathbf { W } ) { \\times } ( \\mathbf { H } { \\times } \\mathbf { W } )$ ，如图4左图，表示了某一个token对应的注意力矩阵。注意力矩阵上的某一个点，实际对应此token所表示的特征块上两个不同的点，如图4右图所示。又因为编码器的输入token数量与特征图像素个数相同，所以这就确定了一个框。因此，DETR模型在目标检测任务具有独特的优势。此外，缺陷的存在破坏了产品表面纹理连续性，而全局特征学习能力强的DETR模型能挖掘到更丰富的表面纹理特征，因此其更易于实现产品表面的缺陷检测。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/cc1481d4ba644c5c6218b6b8123fd6d8a502a6c36a0a633a3852c82444be24b1.jpg",
+        "img_caption": [
+            "图4注意力矩阵与特征图对应关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "此外，与基于CNN的目标检测不同的是，DETR模型采用基于Transformer的编码器和解码器进行预测。因为减少了大量的卷积层，DETR模型的计算复杂度和参数量都非常小。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 损失函数设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DETR模型对解码器的嵌入输出向量进行解码预测；为了优化模型，需要通过损失函数不断减小预测值与标签值之间的偏差使模型达到最优。为了提升检测准确率，本文提出了Smooth-DETR算法，用Smooth-L1和GIoU损失函数相结合作为回归损失，对检测边框进行预测回归。Smooth-DETR算法不仅有利于提升对小尺度缺陷的回归精度，增加检测准确率，还有利于提高训练鲁棒性和训练效率。除了回归损失外，本文还使用分类损失预测缺陷类别。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1分类损失 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "交叉熵损失函数[25]可以很好地描述预测输出和期望输出之间的距离，通过不断学习优化模型预测每个类别的概率与one-hot形式的标签类别之间的距离，达到正确分类的目的。假设概率分布 $\\hat { p } _ { \\sigma _ { ( i ) } }$ 为预测输出， $c _ { i }$ 为期望输出，则交叉熵损失函数定义为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { L } _ { \\mathit { B C E } } \\left( \\hat { p } _ { \\sigma _ { \\left( i \\right) } } , c _ { i } \\right) = - \\sum _ { i = 0 } ^ { N } \\log \\hat { p } _ { \\sigma _ { \\left( i \\right) } } \\left( c _ { i } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2回归损失",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在许多产品质量检测应用场景下，难以收集到大量的含有标注的缺陷样本，并且缺陷的形态大小各异，具有多样性；另外，产品表面常常出现小尺寸缺陷，而现有的在小尺寸缺陷样本上表现较好的模型往往结构复杂，计算量大。为了提升对小尺寸缺陷的检测准确率，本文采用Smooth-L1损失函数和GIoU损失函数相结合的方式，使算法不仅能够对小尺寸的缺陷稳定回归，提高检测准确率，还可以快速收敛到更高的精度。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathbf { L } _ { \\mathrm { S m o o t h } - L 1 } \\Big ( b _ { \\sigma ( i ) } , \\hat { b _ { i } } \\Big ) = \\left\\{ \\begin{array} { l l } { \\displaystyle \\sum _ { i = 0 } ^ { N } 0 . 5 \\Big ( b _ { \\sigma ( i ) } - \\hat { b _ { i } } \\Big ) ^ { 2 } , i f \\Big | \\hat { b _ { i } } - b _ { \\sigma ( i ) } \\Big | < 1 } \\\\ { \\displaystyle \\sum _ { i = 0 } ^ { N } \\Big | b _ { \\sigma ( i ) } - \\hat { b _ { i } } \\Big | - 0 . 5 , o t h e r } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $b _ { \\sigma ( i ) }$ 表示第 $i$ 个索引的期望框， $\\hat { b _ { i } }$ 为第 $i$ 个索引的预测框。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "相比于L1损失函数和L2损失函数而言，Smooth-L1损失函数结合了二者的优点，其定义如式(4)。如图5所示，在训练初期，预测框和期望框的距离过大，Smooth-L1损失函数很好地限制了预测框的梯度，避免了“梯度爆炸”，并且在保留了模型快速收敛特性的同时，使模型更加鲁棒；而在训练后期，预测框和期望框的距离过小，损失函数在0附近波动时也存在导数，模型可以收敛到更高精度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "但是，Smooth-L1损失函数在求解预测框时，仅仅独立的使用了4个点的损失值，并没有关注到4个值之间的相关性[19]，不能真实地反映预测框和期望框之间的包含关系。因此，在计算回归损失时，还引入了GIoU[19]，它将预测框当作一个整体进行回归。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fe93594afbb39e5b90546430e0a3acd3623c093c125430b5d7443ac5a4472042.jpg",
+        "img_caption": [
+            "Fig.4Correspondence between attention matrix and feature map ",
+            "图5损失函数对比图",
+            "Fig.5Comparison of loss function "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG I o U \\left( b _ { \\sigma ( i ) } , \\hat { b _ { i } } \\right) = \\frac { \\left| b _ { \\sigma ( i ) } \\mathrm { ~ I ~ } \\hat { b _ { i } } \\right| } { \\left| b _ { \\sigma ( i ) } \\mathrm { ~ U ~ } \\hat { b _ { i } } \\right| } - \\frac { \\left| B \\left( b _ { \\sigma ( i ) } , \\hat { b _ { i } } \\right) \\setminus \\left( b _ { \\sigma ( i ) } \\mathrm { ~ U ~ } \\hat { b } \\right) _ { i } \\right| } { \\left| B \\left( b _ { \\sigma ( i ) } , \\hat { b _ { i } } \\right) \\right| }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname { L } _ { \\mathit { G I o U } } \\left( b _ { \\sigma ( i ) } , \\hat { b _ { i } } \\right) = 1 - G I o U\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式(5)展示是了GIoU的计算过程。其中 $B \\Big ( b _ { \\sigma ( i ) } , \\hat { b _ { i } } \\Big )$ 表示包围了 $b _ { \\sigma ( i ) }$ 和 $\\hat { b }$ 的最小包围矩形； $B \\left( b _ { \\sigma \\left( i \\right) } , \\hat { b } _ { i } \\right) \\setminus \\left( b _ { \\sigma \\left( i \\right) } \\mathbf { U } \\hat { b } \\right)$ 表示 $B ( \\mathrm { g } )$ 中没有覆盖 $b _ { \\sigma ( i ) }$ 和 $\\hat { b }$ 的面积。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "除此之外，为了保证预测框与期望框之间的最大匹配，以及预测位置与类别一一对应，本文还采取了匈牙利算法[22],即寻找增广路径，达成类别和预测框的最佳匹配。如式(6)所示，匈牙利算法选取损失值最小作为最佳匹配。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { ~ L ~ } _ { H u n g a r i a n } \\left( y , \\hat { y } _ { \\sigma _ { i } } \\right) = \\sum _ { i = 1 } ^ { N } \\left( \\mathrm { L } _ { B C E } \\left( \\hat { p } _ { \\sigma _ { ( i ) } } , c _ { i } \\right) + \\mathrm { L } _ { b o x } \\left( b _ { \\sigma ( i ) } , \\hat { b } _ { i } \\right) \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { L } _ { b o x } = \\alpha \\mathrm { L } _ { G I o U } + \\beta \\mathrm { L } _ { S m o o t h - L 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式(7)描述了预测框的损失函数，主要由Smooth-L1和GIoU共同决定，其中 $\\alpha$ 和 $\\beta$ 分别表示GIoU损失函数和Smooth-L1损失函数的权重系数。基于此，本文通过SmoothL1结合GIoU损失函数作为边框回归损失的策略，不仅提升了算法的检测准确率，使Smooth-DETR算法在小尺寸缺陷样本上也有很好的检测效果，还加快了算法收敛速度，提升了模型训练效率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 实验分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 数据集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了证明本文所提算法对各种类型的缺陷，尤其是低对比度缺陷有着良好的检测效果，本文选取了两个公开数据集进行实验。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.1DAGM2007 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DAGM2007数据集是德国模式识别协会提供的，包含10种不同类型的人造缺陷数据集，如图6第一行和第三行所示，其中每个子类有约80 张带缺陷的训练样本和600 张测试集样本。在该数据集中，缺陷形态、大小各异；还包括了小尺寸缺陷。DAGM2007数据集中的所有样本大小均为$5 1 2 \\times 5 1 2$ ，且在实验过程中均没有改变图像大小和数据增强。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.2KolektorSDD ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "KolektorSDD数据集是Kolektor团队在受控工业环境下所采集的真实的电子换向器表面缺陷样本，如图7(a)所示，共有52张缺陷图像和347张无缺陷图像。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2实验环境",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文在两个公开数据集上进行了实验，并与现有的方法进行对比。所有的实验均在Windows系统下，GPU采用的NVIDIAGeForceRTX3060Ti，其显存为16GB；CPU采用的",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Interi7-10700F，内存为32GB。本实验采用Python编写代码， 深度学习框架为PyTorch。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3评价指标",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了定量地分析实验结果，验证本文所提方法的有效性，本文选取了FP、FN、平均精确率(AP)、mAP、和AUC等作为评价指标[26]。FP指假阳性，表示被误报为缺陷的正常样本;FN指假阴性，表示被误报为正常样本的缺陷样本。AP是指平滑后的Precision-Recall曲线与坐标轴所围成的面积，这使得AP能够精确地表示不同阈值下的综合模型性能；其中，Precision和Recall分别表示查准率和查全率；mAP则是所有类别AP的均值。AUC是ROC曲线与坐标轴所围成的面积，ROC曲线由 $F P R = F P / \\left( T N + F P \\right)$ 和 $T P R = T P / \\left( T P + F N \\right)$ 为横纵坐标构成，其中TN指预测正确的正常样本，TP表示预测正确的缺陷样本。由于ROC曲线不随样本分布变换而变换，因此ROC曲线常常用于样本类别不均衡的情况。在ROC曲线不能直观地展示分类结果好坏时，往往选用AUC更清楚地描述分类结果好坏。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e26b9a4ea9251294483ac1395e4754a33672bdf92f190638b475ba90ac61768d.jpg",
+        "img_caption": [
+            "图6DAGM2007数据集的检测结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3206adbdcf950bdf69fe4313824f03c9bc433ed40d7f2a3fac2b0c995dfdd8f4.jpg",
+        "img_caption": [
+            "图7KolektorSDD数据集的检测结果 Fig.7Detection results on kolektorsdd dataset "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4实验结果分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4.1与DETR模型实验对比分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e3d4a431480cec4f24cc6744d064f5299ff6cfefdd969517304d3f1145ccfb8f.jpg",
+        "img_caption": [
+            "Fig.6Detection results on DAGM 2007 dataset "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于本文受DETR模型启发，同时为了验证本文所提的Smooth-DETR算法不仅在有限训练样本的情况下检测效果良好，而且在训练过程中可以快速收敛到较高精度。本文实验设置与DETR模型在DAGM2007数据集上进行对比。实验中，分别在每个子类中选取20张缺陷图片作为训练集、5张样本作为验证集；两种算法在整个训练过程中均选取40个epoch，权重衰减系数为0.0001，Batchsize设置为4。采取AdamW优化器,初始学习率为0.0001，每15个epoch学习率降低10倍。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图8展示了两种算法在训练过程中不同的epoch时，训练集的错分率、总损失和mAP的变化。由于本文所提出的Smooth-DETR采用了Smooth-L1损失函数，相比于DETR模型，Smooth-L1损失函数在预测框和期望框的距离十分相近时也存在导数，使模型可以收敛到更高精度，并且对小尺寸缺陷也能稳定回归；同时，因为GIoU损失函数在训练前期也具有梯度，结合Smooth-L1损失函数在训练前期快速收敛的优点，模型可以更加快速、稳定地收敛，提高了训练效率。另外，图9展示了验证集中各指标的变换，从图9的错分率变化曲线可以看出，大约在14个epoch时，Smooth-DETR算法已经能够正确分类，并且整体精度高于DETR 模型。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图9验证集指标变化曲线",
+            "Fig.9Metrics of validation set "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了证明Smooth-DETR在多种类型的缺陷上有更良好的表现，尤其对低对比度、小尺寸的缺陷检测效果对比DETR有所提升，本文选取了约1万张包含这10个不同的缺陷的样本作为测试集，进行实验；与DETR模型的检测结果对比如表1所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了兼顾对错误样本的分类情况，并且分析算法对不同类型的缺陷的检测能力，选取了AUC指标对每个子类缺陷的检测结果进行定量地展示。表1对DAGM2007数据集上每种缺陷的检测结果的AUC进行对比，从表中可以清晰地看出在Class3、Class5和Class9 这些尺寸较小的低对比度缺陷上，由于Smooth-L1和GIoU损失函数相结合能对目标缺陷的边框更精确的回归，使得本文所提出的算法的检测性能有明显的提升。另外，Smooth-DETR 算法在Class4 和Class10 这类缺陷纹理与产品表面纹理具有相似性的样本上也有更好的表现。综合以上，说明了Smooth-DETR在各种形状和纹理的缺陷样本上有很好的检测效果，尤其对小尺寸缺陷也有着很好的检测效果。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/2d564f8e3b7b2be67f8f23e8755160cfa686fe7f55cd5784ed8b5b1ed8ae4049.jpg",
+        "table_caption": [
+            "表1 AUC指标对比结果"
+        ],
+        "table_footnote": [
+            "3.4.2DAGM2007实验结果分析"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">数据集</td><td colspan=\"2\">AUC/%</td></tr><tr><td>Smooth-DETR</td><td>DETR[22]</td></tr><tr><td>Class 1</td><td>97.6</td><td>97.1</td></tr><tr><td>Class 2</td><td>98.7</td><td>98.2</td></tr><tr><td>Class 3</td><td>98.1</td><td>96.3</td></tr><tr><td>Class 4</td><td>98.3</td><td>97.7</td></tr><tr><td>DAGM Class 5</td><td>100</td><td>96.2</td></tr><tr><td>2007</td><td>Class 6 91.3</td><td>95.5</td></tr><tr><td>Class 7</td><td>100</td><td>97.3</td></tr><tr><td>Class 8</td><td>95.8</td><td>95.6</td></tr><tr><td>Class 9</td><td>100</td><td>99.3</td></tr><tr><td>Class 10</td><td>100</td><td>95.3</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了直观地呈现Smooth-DETR算法在DAGM2007数据集上的检测结果，图6展示了10种不同类型缺陷的检测结果。图6(a)和(c)是原图，图6(b)和(d)是对应的检测结果。为了清楚地展示缺陷，还在原图中添加了缺陷的放大图。在这10种不同类型的缺陷中，包括了Class1、Class3、Class5和Class8这类较小尺寸的低对比度缺陷，它们的缺陷纹理与产品表面纹理极为相似；以及Class4和Class10这类背景和缺陷都具有明显边缘特征的样本。另外，在该数据集中，大多类别的表面都是重复的结构性纹理，缺陷破坏了这种连续性，而本文所提出的算法具有强大的全局特征学习能力，因此本文所提出的算法在所有类型的缺陷上都有很好的检测效果，尤其是在Class9这类分辨率低于 $1 7 \\times 1 7$ 像素的小尺寸缺陷上的检测结果依然很准确。从图6中可以看出，Smooth-DETR不管在低对比度缺陷样本还是小尺寸样本上，检测框能够准确的回归缺陷所在位置，对不同的缺陷类型也能准确分类，有很好的检测效果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "进一步地，本文将所提Smooth-DETR方法与最新的表面缺陷检测算法——ScratchNet[17]、混合监督网络[11]、Faster-RCNN[27]、分类决策网络[28]和YOLOv4-DefectSP[8],在DAGM2007数据集上进行比较，对比结果如表2所示。表2中N表示区域级标签样本，M表示图像级标签样本。从表2中可以看出，Smooth-DETR的检测性能要远高于ScratchNet、Faster-RCNN、分类决策网络、YOLOv4-DefectSP以及仅使用5张区域级标签样本和约1000 张含图像级标签的样本训练的混合监督网络；其检测性能几乎媲美使用了有15张区域级标签样本和额外约1000张含图像级标签的样本训练的混合监督网络。表2证明了本文所提算法能适应多类产品表面缺陷检测任务，尤其是当训练数据不充分时。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a3d206e98ef81d0a88d5c10ec8ff3b4ed21e0f9a7a1baefecee6074d2a0219a1.jpg",
+        "table_caption": [
+            "表2 DAGM2007数据集上的对比结果",
+            "Tab.2Comparison results on DAGM2007 dataset "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>方法</td><td>AUC/%</td><td>mAP</td></tr><tr><td>ScratchNet[17](N=15, M=0)</td><td>93.7</td><td>94.8</td></tr><tr><td>(N=5,M=1000) 混合监督网络[11]</td><td>94.9</td><td>91.5</td></tr><tr><td>(N=15,M=1000)</td><td>100</td><td>100</td></tr><tr><td>Faster-RCNN[27] (N=15,M=0)</td><td>88.3</td><td>90.4</td></tr><tr><td>分割决策网络[28](N=15,M=0)</td><td>85.1</td><td>86.5</td></tr><tr><td>YOLOv4-DefectSp[8] (N=15,M=0)</td><td>89.8</td><td>92.2</td></tr><tr><td>Smooth-DETR(N=15,M=0)</td><td>98.0</td><td>98.5</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在许多产品质量检测应用中，为了方便检测、提高检测效率以及借助于机器代替人工完成复杂的检测任务，检测设备逐步趋向于小型化便携式设备，不可避免地要求检测算法足够简单。也就是说，工业场景下的表面缺陷检测不仅需要关注检测结果，模型的大小和检测速度也同样重要。表3给出了以上六个模型的参数量和检测时间。如表3所示，ScratchNet模型复杂度较高，会消耗大量的计算资源，检测时间也较长。虽然分割决策网络和YOLOv4-DefectSP的模型复杂度小、检测时间短，但是从表2中可以看出，这两个模型的检测性能相对较差。而对于通用的目标检测网络Faster-RCNN而言，因为使用了大量的卷积层，网络层数深，会消耗较多的检测时间，检测结果也并不理想。由于Smooth-DETR在特征提取阶段采用了基于CNN的网络，使得该算法具有一定的参数量。然而，正因为Smooth-DETR结合了CNN与Transformer的优点，该算法不仅有效地提取了全局特征还充分地利用了缺陷的局部特征。综上，Smooth-DETR整体的实验结果最佳，保证检测速度的同时，还保持了较高的检测精确率。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/5d30f22f6e580d91dae2a1e8db0175bcb1722832e8b9b2c4cca68b65448b9e8d.jpg",
+        "table_caption": [
+            "Tab.1Comparison results of AUC ",
+            "表3参数量和检测时间对比",
+            "Tab.3Comparison of parameter and detection time "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>方法</td><td>参数量</td><td>检测时间/秒/张</td></tr><tr><td>ScratchNet[17]</td><td>51 Mio</td><td>0.92</td></tr><tr><td>混合监督网络[]</td><td>30 Mio</td><td>0.67</td></tr><tr><td>Faster-RCNN[27]</td><td>41 Mio</td><td>1.03</td></tr><tr><td>分割决策网络[28]</td><td>2 Mio</td><td>0.32</td></tr><tr><td>YOLOv4-DefectSP[8]</td><td>10 Mio</td><td>0.41</td></tr><tr><td>Smooth-DETR</td><td>37 Mio</td><td>0.52</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4.3KolektorSDD实验结果分析 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了证明Smooth-DETR算法适用于不同产品的表面缺陷检测，本文还在不同的数据集上进行实验。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图7展示了本文所提出的方法在真实的电子换向器缺陷KolektorSDD数据集上的检测结果。图7(a)和(c)分别是有缺陷原图和无缺陷原图；图7(b)和(d)分别是对应的检测结果图。从图7可以看出，Smooth-DETR算法正确地识别电子换向器缺陷，说明Sm0oth-DETR算法除了在DAGM2007数据集上有不错的检测效果，还可以适用于不同产品的检测。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "目前，基于有监督的检测算法需要对大量的含有标签的样本进行长时间训练以获得较好的检测效果，而在实际产品质检应用中，很难获取到足够多的缺陷样本。本文将Smooth-DETR算法与DeepLab $\\mathbf { v } 3 +$ 、UNet和混合监督网络分别在10个和20个样本的训练集上进行了比较，结果如表4所示。DeepLab $\\mathbf { v } 3 +$ 和混合监督网络都是现有先进的表面缺陷检测算法。实验中，本文选用了性能表现最佳的超参数。值得说明的是，Smooth-DETR算法仅需矩形框标注缺陷的大致范围，而DeepLabv3、UNet和混合监督网络需精确地标注缺陷像素。从表4可以看出，DeepLab $\\mathbf { v } 3 +$ 在20张训练集时，与10张训练集的检测精确率有明显的提升；UNet对训练样本数量敏感，这两个方法总体检测结果不佳。由于Transformer强大的全局特征学习能力，Smooth-DETR 算法在仅有20 张样本进行训练后得到的模型，其AUC和平均精确率均高于DeepLab $\\mathbf { v } 3 +$ 和混合监督网络。实验说明了Smooth-DETR中Transformer结构有更强的特征学习能力，可以从更少的样本中学习到缺陷特征，从而达到在少样本情况下的高检出率，用于解决质量检测应用中缺少大量的训练样本而造成的检测不准确的问题。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/c7da0760149a328094b87ce7c1eac942004d07bf5abda9641cc872f67016428a.jpg",
+        "table_caption": [
+            "表4 KolektorSDD数据集上的对比结果",
+            "[ab.4Comparison results on kolektorsdd dataset "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">指标</td><td colspan=\"2\">DeepLab v3+[14]</td><td colspan=\"2\">UNet[13]</td><td colspan=\"2\">混合监督网络[1]</td><td colspan=\"2\">Smooth-DETR</td></tr><tr><td>10</td><td>20</td><td>10</td><td>20</td><td>10</td><td>20</td><td>10</td><td>20</td></tr><tr><td>AUC/%</td><td>77.5</td><td>95.7</td><td>88.1</td><td>81.8</td><td>96.5</td><td>98.8</td><td>95.6</td><td>99.8</td></tr><tr><td>AP/%</td><td>34.9</td><td>89.2</td><td>70.3</td><td>57.4</td><td>89.1</td><td>94.4</td><td>91.0</td><td>98.9</td></tr><tr><td>FP</td><td>38</td><td>2</td><td>6</td><td>8</td><td>3</td><td>2</td><td>1</td><td>0</td></tr><tr><td>FN</td><td>17</td><td>4</td><td>11</td><td>17</td><td>3</td><td>1</td><td>4</td><td>1</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "针对产品质量检测中，缺陷样本有限、形状不规则、尺寸较小且难以获取大量的缺陷样本用于训练检测模型等问题，本文提出了用于产品表面小尺寸缺陷检测的Smooth-DETR算法。该算法利用DETR模型强大的全局特征学习能力，提升了对破坏产品表面纹理连续性的缺陷的检出率；另外，该算法采用Smooth-L1和GIoU共同作为边框回归损失函数，提升了对小尺寸缺陷的检测准确率。同时该算法比现有的基于CNN的检测算法参数量更小，计算复杂度更低。实验结果显示，该算法在11种不同类型的缺陷数据集上都有不错的检测结果，说明了该算法具有普适性。与DETR算法相比，该算法不仅在训练阶段能更快速地回归到更高精度，还具有更高的平均检测精确率。此外，与现有的检测算法相比，Smooth-DETR算法可以利用更少的训练样本，得到更好的检测性能。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]任条娟，陈鹏，陈友荣，等．基于深度学习的多目标运动轨迹预测算 法[J].计算机应 用研究,2022,39(1):7.(Ren Tiaojuan,Chen Peng, Chen Yourong,et al.Multi-target motion trajectory prediction method based on deep learning[J].Application Research of Computers,2022,39 (1): 7.)   \n[2]赵玉卿，贾金露，公维军等．基于pro-YOLOv4的多尺度航拍图像目 标检测算法 [J].计算机应用研究，2021,38(11):3466-3471.(Zhao yuqing,Jia Jinlu,Gong Weijun,et al. Multi-scale aerial image target detection algorithm based on pro-YOLOv4 [J].Application Research of Computers,2021,38(11):3466-3471.)   \n[3]Wei B,Hao K,Tang X,et al.Fabric defect detection based on faster RCNN[C]// international conference on artificial intelligence on textile and apparel. Springer, Cham,2018:45-51.   \n[4]Zhou X,Wang Y,Zhu Q,et al.A surface defect detection framework for glass bottle bottom using visual attention model and wavelet transform [J].IEEE Transactions on Industrial Informatics,2019,16(4):2189- 2201.   \n[5]Luo Q,Fang X,Liu L,et al.Automated visual defect detection for flat steel surface:A survey [J].IEEE Trans on Instrumentation and Measurement,2020,69 (3):626-644.   \n[6]Redmon J,Divvala S,Girshick R,et al.You only look once:Unified, real-time object detection [C]//Proceedings of the IEEE conference on computer vision and pattern recognition.2016:779-788.   \n[7]He D,Xu K, Zhou P.Defect detection of hot rolled steels with a new object detection framework called classification priority network [J]. based on improved YOLOv4 [J].Assembly Automation,2021.   \n[9] Hinton G,Vinyals O,Dean J.Distilling the knowledge in a neural network [J].arXiv preprint arXiv: 1503.02531,2015,2（7).   \n[10] Zhou H, Jang B,Chen Y,etal.Exploring faster RCNN for fabric defect detection [Cl// 2020 Third International Conference on Artificial Intelligence for Industries (AI4I).IEEE,2020: 52-55.   \n[11] Bozic J,Tabernik D, Skocaj D.Mixed supervision for surface-defect detection: From weakly to fully supervised learning [J]. Computers in Industry,2021,129:103459.   \n[12] Long J,Shelhamer E,Darrell T.Fully convolutional networks for semantic segmentation [C]// Proceedings of the IEEE conference on computer vision and pattern recognition. 2015: 3431-3440.   \n[13] Ronneberger O,Fischer P,Brox T.U-net: Convolutional networks for biomedical image segmentation [C]// International Conference on Medical image computing and computer-assisted intervention. Springer, Cham,2015: 234-241.   \n[14] Chen L C,Zhu Y, Papandreou G,et al. Encoder-decoder with atrous separableconvolution forsemantic imagesegmentation[C]// Proceedings of the European conference on computer vision (ECCV). 2018: 801-818.   \n[15]彭磊，张辉．基于U-net 的道路缺陷检测[J]．计算机科学,2021,48 (S2): 616-619.(Peng Lei, Zhang Hui. Road defect detection based on Unet [J]. Computer Science,2021,48 (S2): 616-619.)   \n[16]郭亚萍，顾智聪，彭宏京.SegNet 在工件表面缺陷检测中的应用[J]. 计算机工程与设计，2019,40(10):2979-2984.(Guo Yaping，Gu Zhicong,Peng Hongjing.The application of SegNet in the surface defect detection [J].Computer Engineering and Design,2019,40 (10): 2979- 2984.）   \n[17] Mei S,Cai Q,Gao Z,et al.Deep learning based automated inspection of weak microscratches in optical fiber connector end-face [J].IEEE Transactions on Instrumentation and Measurement, 2021,70:1-10.   \n[18]周飞燕，金林鹏，董军．卷积神经网络研究综述[J].计算机学报, 2017,40 (06):1229-1251.(Zhou Feiyan,Jin Linpeng,Dong Jun. Summary of convolutional neural network research [J]. Chinese Journal of Computers,2017,40 (06): 1229-1251.)   \n[19] Vaswani A, Shazeer N,Parmar N,et al.Attention is all you need [J]. Advances in neural information processing systems,2o17,30.   \n[20] 张晓旭，马志强，刘志强等.Transformer 在语音识别任务中的研究 现状与展望[J].计算机科学与探索,2021,15(9):1578-1594.(Zhang Xiaoxu,Ma Zhiqiang,Liu Zhiqiang,et al.Research status and prospects of Transformer in speech recognition [J].Journal of Frontiers of Computer Science & Technology,2021,15 (9): 1578-1594.)   \n[21] You J, Korhonen J. Transformer for image quality assessment [C]// 2021 IEEE International Conference on Image Processing (ICIP).IEEE,2021: 1389-1393.   \n[22] Carion N,Massa F,Synnaeve G,et al.End-to-end object detection with transformers [C]// European Conference on Computer Vision. Springer, Cham,2020: 213-229.   \n[23] Rezatofighi H, Tsoi N,Gwak JY,et al.Generalized intersection over union: Ametric and a loss for bounding box regression [C]/ Procedings of the IEEE/CVF conference on computer vision and pattern recognition. 2019: 658-666.   \n[24] Dai J,Qi H, XiongY,etal.Deformableconvolutional networks[C/ Proceedings of the IEEE international conference on computer vision. 2017: 764-773.   \n[25] Chollet F. Xception: Deep learning with depthwise separable convolutions [Cl// Proceedings of the IEEE conference on computer vision and pattern recognition.2017:1251-1258.   \n[26] PadillaR,Netto SL,Da Silva EAB.A survey on performance metrics for object-detection algorithms [C]// 202O international conference on systems,signals and image processing(IWSSIP) .IEEE,2020:237-242.   \n[27] Ren S,He K,Girshick R,etal.Faster r-cnn: Towards real-time object ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "detection with region proposal networks [J].Advances in neural information processing systems,2015,28. [28] Tabernik D, Sela S,Skvar J,et al. Segmentation-based deep-learning approach for surface-defect detection [J].Journal of Intelligent Manufacturing,2020,31 (3):759-776. ",
+        "page_idx": 6
+    }
+]

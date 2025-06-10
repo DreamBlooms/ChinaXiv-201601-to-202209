@@ -1,0 +1,593 @@
+[
+    {
+        "type": "text",
+        "text": "基于单脉冲雷达和差通道多普勒估计的前视成像",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李悦丽¹，马萌恩¹，赵崇辉²1．国防科技大学电子科学学院，湖南长沙4100732毫米波遥感技术重点实验室，北京，100854",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：单脉冲测角技术用于扫描雷达前视成像可有效提高图像的清晰度，但单个脉冲对同分辨单元多目标测角时会发生角闪烁现象，造成图像模糊。本文提出了一种基于单脉冲雷达和差通道多普勒估计的前视成像算法，利用目标和平台之间相对运动引起的多普勒梯度差异实现同分辨单元内不同方向目标的分离，然后在多普勒域采用和差比幅测角技术测量目标的方位角，完成能量投影。为提高测角精度，进一步提出了采用调频Z变换(Chirp ZTransform）重建和差多普勒估计并进行比幅测角的算法。点目标仿真实验结果表明，所提出的算法在前斜视方向具有分离多目标的能力，对实测数据成像结果验证了基于CZT的成像算法相比传统算法能显著提高对场景成像的轮廓清晰度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：单脉冲雷达；前视成像；和差比幅测角；调频Z变换 中图分类号：TN958.4 文献标识码：A 文章编号： DOI:10.11999/JEITx××x×X ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Forward-looking Imaging via Doppler Estimates of Sum-difference Measurements in Scanning Mono-Pulse Radar ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Li Yue-li, Ma Meng-en, Zhao Chong-hui 1College oflectronic SienceandTechnology,National UniversityofDefense Technology,Changsha 4107,China 2 Science and Technology on Millimeter-wave Laboratory, Beijing lOo854 China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Monopulse lobing has been applied in scanning radars to improve image quality in the forward-looking area. However, monopulse measurements fail to resolve multiple targets inthe same resolution bin because of angle glint, which mayleadto imaging blurring.To tackle the problem,we propose a monopulse forward-looking imaging method via Doppler estimates of sum-difference measurements.Firstly,target multiplicity isresolved byexploiting thediferent Doppler slopes caused by relative motion between the platform and targets at diferent directions.Secondly,the azimuthal angles of the Doppler estimates are acurately measured by using sum-diference amplitude comparison (SDAC). Subsequently,theintensityof thesumchannel estimatesisprojectedontotheimageplaneaccordingtotherangeandangle measurements.To further improve the precision of angle measurements,a chirp-z transform(CZT) based algorithm is proposed to reconstructthe Doppler estimates of sum-difference channels.Simulationresults demonstrate thecapabilityof our proposed methods to resolve multiple targets at the large-squint scanning angles.Real data experiments validate that theCZTbased algorithm significantly improves the profile of the scene compared to that of the traditional monopulse imaging method. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Monopulse radar; forward-looking imaging;sum-diference amplitude comparison (SDAC);chirp-Ztransform (CZT) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高分辨前视成像（HRFLI:High Resolution Forward-Looking Imaging）是指对飞行器正前方区域进行二维微波高分辨成像，一直以来都是雷达遥感领域的前沿技术难题，并已成为当前对地观测成像技术的研究热点[1]。目前前视成像的主要研究方向包括：双基地合成孔径雷达（SAR：Synthetic Apeture Radar）成像，超分辨(SR: Super Resolution)成像和单脉冲测角（ML:Monopulse lobing）成像。基于单基地雷达波束扫描模式的前视成像技术可用于机扫、相扫雷达，其中超分辨前视成像技术将天线波束对场景的扫描视为目标的雷达截面积与天线方向图的卷积，通过方位向回波和天线方向图实现目标超分辨成像，国内电子科技大学对扫描波束锐化的理论方法和实现技术进行了深入研究，并已在机载雷达上验证了高倍数的角度超分辨能力[2]；南京航空航天大学等机构对机载雷达扫描波束单脉冲成像的实现技术和聚焦性能进行了深入研究，并基于实测数据验证了该技术对特定场景的分辨率改善性能以及自聚焦成像算法[3][4][5]；我们最早研究基于单脉冲雷达和差通道的解卷积波束锐化技术[6]，由于单脉冲雷达通道方向图不严格满足强互质条件，在解卷积运算中会带来高频噪声放大问题，哈工大学者引入了 $\\ell _ { _ 1 }$ 正则化技术有效抑制了噪声[7]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "单脉冲成像技术具有系统复杂度低、对航迹无特殊要求的优点，是一种实际可行的前视成像方法，但是由于单脉冲测角的通道数限制，无法区分同分辨单元内多个目标并会导致“角闪烁”现象，从而造成对非稀疏场景的成像质量下降。Sherman 等学者曾系统地研究了单脉冲测角中对多目标分辨的问题，指出两个任意目标和传统单脉冲天线方向图的条件下，单个脉冲不可能解决不可分辨目标问题；但是，当脉间存在波束指向、频率或极化变化时，有可能实现两个以上独立目标的分辨[8]。对单脉冲雷达同分辨单元多目标分辨的一种思路是采用最大似然估计法构造和、差通道多次测量值的联合方程，然后用最优化方法得到目标参数估计，这种方法可实现天线波束内4个以下目标参数估计[9][10]，但联合最大似然估计的运算复杂度高，用于实时成像可行性有待验证；另一思路是基于目标的多普勒差异在多普勒域实现多目标分辨，西安电子科技大学陈伯孝等学者研究了单脉冲逆合成孔径雷达（ISAR：Inverse SAR）三维成像技术[11]，提出运用超分辨技术在多普勒域提高目标分辨性能，并指出 APES（APES:Amplitude and Phase Estimation）算法[12]比快速傅立叶（FFT:Fast Fourier Transform）算法具有更高的多普勒分辨率[13]，这一技术思路应用于扫描雷达前视对地成像中可望解决多目标带来的测角模糊问题，但仍需要克服前视区域目标多普勒梯度下降带来的问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为解决扫描前视成像时单脉冲雷达同分辨单元内多目标难以分辨导致的成像质量下降问题，本文提出了基于单脉冲雷达和差通道多普勒估计的前视成像方法。首先利用前斜视方向目标回波的多普勒梯度差异实现对多目标的分离，然后基于和差通道的多普勒估计值对目标进行和差比幅测角，根据距离和方位角将和通道的多普勒估计幅值投影到成像平面上得到前视图像。研究发现，目标和差通道的多普勒估计精度对测角性能影响很大，为此，进一步提出了基于调频Z变换的和差通道多普勒估计重建策略，具体方法是：对于和通道主瓣内多普勒单元中的目标，结合调频 Z变换（CZT:Chirp-Z Transform）对频谱细化并搜索局部最大值，得到目标的精确多普勒频率[14]，然后基于频率估计重建目标的差通道多普勒估计；最后，利用重建值完成比幅测角和能量投影。仿真实验和实测数据处理结果表明：相比传统单脉冲前视成像算法，基于单脉冲雷达和差通道多普勒估计的前视成像有效提高了雷达在前斜视向对多目标分辨的能力，采用重建多普勒估计测角进一步提高了目标的定位精度，提高了图像清晰度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.基于多普勒估计的单脉冲前视成像原理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "搭载在运动平台上的单脉冲雷达以角速度 $\\omega$ 对前视场景扫描，脉冲重复频率为 $f _ { _ p }$ 。假设经过脉冲压缩和运动补偿后，连续 $N$ 个脉冲在某距离门内的方位和、差通道复信号矢量分别表示为 $\\mathbf { y } _ { \\scriptscriptstyle \\Sigma } { = } [ y _ { _ { \\Sigma 1 } } \\ y _ { _ { \\Sigma 2 } } \\ \\ldots y _ { _ { \\Sigma N } } ] ^ { T }$ ，y△=[𝑦△y△²…y△ν] ∈CNx，其回波信号模型的矩阵形式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\mathbf { y } _ { \\scriptscriptstyle \\Sigma } = \\mathbf { A } _ { \\scriptscriptstyle \\Sigma } \\mathbf { s } + \\mathbf { n } _ { \\scriptscriptstyle \\Sigma } } \\\\ { \\mathbf { y } _ { \\scriptscriptstyle \\Delta } = \\mathbf { A } _ { \\scriptscriptstyle \\Delta } \\mathbf { s } + \\mathbf { n } _ { \\scriptscriptstyle \\Delta } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\mathbf { s } \\in \\mathbb { C } _ { \\kappa \\times 1 }$ 为天线波束内目标的雷达截面积（RCS：Radar cross section）在扫描网格上的分布，（204号 $\\mathbf { A } _ { \\scriptscriptstyle \\Sigma } , \\mathbf { A } _ { \\scriptscriptstyle \\Delta } \\in \\mathbb { C } _ { N \\times K }$ 分别为和差天线方向图对空间扫描构成的感知矩阵， $\\mathbf { n } _ { \\scriptscriptstyle \\Sigma } , \\mathbf { n } _ { \\scriptscriptstyle \\Delta } \\in \\mathbb { C } _ { { \\scriptscriptstyle N } \\times 1 }$ 为和差通道复噪声信号矢量（为简化分析，假设两个通道的噪声均服从0均值、方差为 $\\sigma$ 的独立高斯分布)。设3dB 方位波束宽度为$\\theta$ ， $N$ 为雷达在扫描到一个方位上发射和接收的驻留脉冲数； $K = \\left\\lfloor \\theta f _ { p } / \\omega \\right\\rfloor$ 为雷达扫描天线 3dB 波束覆盖范围内发射和接收的脉冲数，因此通常 $N \\ll K$ ，式(1)是一个欠定方程组，对(1)的求解属病态逆问题求解范畴。由于 $N$ 个脉冲内的天线增益变化几乎可以忽略，无法通过解方程组(1)直接求解目标 RCS 在方位上的分布。在这种条件下，对目标前视成像有两种技术途径：一种是利用单脉冲成像技术，通过比较和差通道的信号幅度或相位测量目标偏离天线对称轴线的程度实现更高精度的测角，然后将目标能量投影到成像平面上[3],这种方法可显著缩小目标点扩展函数的方位分布范围，因此能够提高图像清晰度，但是不能分辨多目标[4]。另一种是多普勒波束锐化（DBS：Doppler Beam Sharpen）技术，利用了目标相对平台运动产生的多普勒梯度差异分离位于不同角度的目标，然后采用多普勒中心估计和杂波锁定技术估计目标方位角并进行能量投影实现波束的锐化[15]，但是其锐化比受到多普勒滤波器带宽 $f _ { p } / N$ 的限制，一般在斜视角 30\\~50 度范围内，波束锐化比可以达到32倍，再继续增大斜视角，锐化比将随着主瓣内目标多普勒频率差异减小而急剧下降形成盲区[16]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于单脉冲雷达和差通道多普勒估计的前视成像方法将以上两种技术思路结合起来，首先对扫描雷达某一距离门的连续N个脉冲回波进行多普勒处理，利用目标的多普勒差异将位于不同方位的目标分离，解决同分辨单元内多目标混迭的问题，提高方位分辨率；然后，基于和差通道的多普勒估计值直接进行和差比幅测角，实现对目标方位角的精确测量，最终实现目标的定位和能量投影。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在单脉冲雷达波束扫描模式中，首先建立了基于多普勒估计值进行单脉冲测角的信号模型。同式(1)，设同距离门内连续 $N$ 个采样值构成了对目标信号的一维均匀采样，令 $\\mathbf { a } _ { \\mathrm { o } } ( \\omega ) \\triangleq [ 1 ~ e ^ { - j \\omega }$ ： $e ^ { - j ( N - 1 ) \\omega } ] ^ { T }$ 为导向矢量， $\\omega \\in [ 0 , 2 \\pi )$ 为多普勒频率，则由脉冲重复频率 $f _ { _ p }$ 所确定的均匀多普勒域采样间隔为（20 $\\omega _ { { } _ { n } } = 2 \\pi n / N , n = 0 , 1 , \\dots N - 1$ 。定义在方位向对信号进行离散傅里叶变换（DFT：Discrete Fourier Transform）的 Fourier 基矩阵 $\\mathbf { A } _ { D } \\triangleq [ \\mathbf { a } _ { D } ( \\omega _ { 0 } ) , \\mathbf { a } _ { D } ( \\omega _ { 1 } ) , \\hdots \\mathbf { a } _ { D } ( \\omega _ { N - 1 } ) ] \\in \\mathbb { C } _ { N \\times N }$ ，则有：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { A } _ { D } = \\left[ \\begin{array} { c c c c } { 1 } & { 1 } & { \\cdots } & { 1 } \\\\ { 1 } & { e ^ { - j \\omega _ { 1 } } } & { \\cdots } & { e ^ { - j \\omega _ { N - 1 } } } \\\\ { \\vdots } & { \\vdots } & { \\vdots } & { \\vdots } \\\\ { 1 } & { e ^ { - j ( N - 1 ) \\omega _ { 1 } } } & { \\cdots } & { e ^ { - j ( N - 1 ) \\omega _ { N - 1 } } } \\end{array} \\right] , \\omega _ { n } = 2 \\pi n / N , n = 0 , 1 , \\ldots N - 1\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "和差通道信号的多普勒估计 $\\mathbf { Y } _ { \\scriptscriptstyle \\Sigma } , \\mathbf { Y } _ { \\scriptscriptstyle \\Delta } \\in \\mathbb { C } _ { { \\scriptscriptstyle N } \\times 1 }$ 可表示为矩阵形式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\mathbf { Y } _ { \\scriptscriptstyle \\Sigma } = \\mathbf { A } _ { \\scriptscriptstyle D } \\mathbf { y } _ { \\scriptscriptstyle \\Sigma } = \\mathbf { A } _ { \\scriptscriptstyle D } ( \\mathbf { A } _ { \\scriptscriptstyle \\Sigma } \\mathbf { s } + \\mathbf { n } _ { \\scriptscriptstyle \\Sigma } ) = \\mathbf { A } _ { \\scriptscriptstyle D } \\mathbf { A } _ { \\scriptscriptstyle \\Sigma } \\mathbf { s } + \\mathbf { e } _ { \\scriptscriptstyle \\Sigma } } \\\\ { \\mathbf { Y } _ { \\scriptscriptstyle \\Delta } = \\mathbf { A } _ { \\scriptscriptstyle D } \\mathbf { y } _ { \\scriptscriptstyle \\Delta } = \\mathbf { A } _ { \\scriptscriptstyle D } ( \\mathbf { A } _ { \\scriptscriptstyle \\Delta } \\mathbf { s } + \\mathbf { n } _ { \\scriptscriptstyle \\Delta } ) = \\mathbf { A } _ { \\scriptscriptstyle D } \\mathbf { A } _ { \\scriptscriptstyle \\Delta } \\mathbf { s } + \\mathbf { e } _ { \\scriptscriptstyle \\Delta } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DFT 可采用 FFT 算法实现， $\\mathbf { e } _ { _ \\Sigma } , \\mathbf { e } _ { _ \\Delta } \\in \\mathbb { C } _ { _ { N \\times 1 } }$ 仍服从均值为0的复高斯白噪声分布，当 $N \\ll K$ 时，可以忽略在$N$ 个脉冲范围内各个方位目标对应的天线增益加权变化，这意味着对于位于某方位角 $\\theta$ 的目标 $s ( \\theta )$ ， ${ \\bf A } _ { \\Sigma } ( \\theta )$ 和 $\\mathbf { A } _ { \\Delta } ( \\theta )$ 在 $N$ 个脉冲内基本不变，因此多普勒处理后对和差多普勒估计值进行比幅测角仍可以测量目标的方位角。同时，当不同目标间的多普勒频差大于 $f _ { p } / N$ 时，多普勒处理可将目标区分开，实现多目标分辨的能力。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "接下来需要确定目标能量在多普勒域的分布范围，这一步骤类似DBS 处理中的杂波锁定，需要计算和通道天线波束中心对应目标的多普勒中心频率以及和通道 3dB 波束宽度覆盖范围内目标的多普勒带宽。如图1 雷达扫描成像几何关系示意图所示，设雷达平台飞行遵循匀速直线运动，其前向飞行速度为 $\\ v _ { { x } }$ ，侧向飞行速度为0，雷达天线波束在前视方向扫描，当前和通道天线波束中心对应的方位角为 $\\theta$ ，俯仰角为 $\\beta$ ，则和通道天线波束中心对应目标的多普勒中心频率为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { _ { D C } } = \\frac { 2 \\nu _ { x } \\cos \\theta \\cos \\beta } { \\lambda }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由 $f _ { _ { D C } } / ( f _ { _ p } / N )$ 确定天线波束中心对应地面目标的多普勒单元索引，此时如系统存在多普勒模糊，需要消除多普勒模糊的影响才能确定正确的索引。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在和通道天线波束覆盖区域中，若同一距离环带上、主瓣内两个目标P1和 P2 存在方位角偏差 $\\Delta \\theta$ ，则两目标对应的多普勒中心频率存在频差为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta f _ { _ { D C } } = f _ { _ { D C 1 } } - f _ { _ { D C 2 } } = = \\frac { 2 \\nu _ { _ x } \\cos \\beta \\left[ \\cos \\theta - \\cos ( \\theta + \\Delta \\theta ) \\right] } { \\lambda }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于一般的天线波束， $\\Delta \\theta$ 很小，满足cos $\\Delta \\theta \\approx 1$ ， $\\sin \\Delta \\theta \\approx \\Delta \\theta$ ，则 $\\Delta f _ { D C }$ 可近似为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta f _ { _ { D C } } = \\frac { 2 } { \\lambda } \\cdot \\nu _ { _ { x } } \\sin \\theta \\cdot \\cos \\beta \\cdot \\Delta \\phi\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "因此，若和通道天线 3dB 波束宽度在地面投影范围为 $\\theta _ { 3 d B }$ ，忽略多普勒调频率的影响，天线波束地面投影区域回波对应的多普勒带宽为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta f _ { D } \\approx \\frac { 2 } { \\lambda } \\nu _ { \\mathrm { } _ { x } } \\sin \\theta \\cdot \\cos \\beta \\cdot \\theta _ { \\mathrm { } _ { 3 d B } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由 $\\Delta f _ { _ { D } } / ( f _ { _ p } / N )$ 可以确定和通道天线 3dB 波束范围内目标 RCS 在多普勒域的分布范围大小，结合(4)确定的多普勒中心频率索引可得到3dB 波束内目标在多普勒域上的分布区域和对应多普勒单元索引。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4e81c038019fe3b53b6aa9f67d4bf340808903948fda03b490481dd972965771.jpg",
+        "img_caption": [
+            "图1雷达扫描前视成像几何关系示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 Geometry for forward-looking imaging of a scanning radar ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "设3dB 天线波束内的目标分布在M个多普勒单元内，根据多普勒单元索引在和差通道多普勒估计中提取各多普勒单元中的信号 $Y _ { \\Sigma } \\left( \\omega _ { _ { m } } \\right)$ 和 $Y _ { \\Delta } \\left( \\omega _ { _ { m } } \\right)$ ，完成和差通道复比 $\\varepsilon _ { { _ m } }$ 的计算[8]:",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varepsilon _ { \\ b { m } } = \\mathrm { s g n } \\left( Y _ { \\Sigma I } \\left( \\omega _ { \\ b { m } } \\right) Y _ { \\Delta I } \\left( \\omega _ { \\ b { m } } \\right) + Y _ { \\Sigma Q } \\left( \\omega _ { \\ b { m } } \\right) Y _ { \\Delta Q } \\left( \\omega _ { \\ b { m } } \\right) \\right) \\frac { \\left| Y _ { \\Delta } \\left( \\omega _ { \\ b { m } } \\right) \\right| } { \\left| Y _ { \\Sigma } \\left( \\omega _ { \\ b { m } } \\right) \\right| } m = 0 , 1 , \\ldots M - 1\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式(8)中 $\\operatorname { s g n } ( * )$ 表示求函数的符号，下标 $I$ 和 $Q$ 分别代表信号的实部和虚部，由 $\\varepsilon _ { { \\scriptscriptstyle m } }$ 在雷达鉴角曲线上对应查找到目标偏离中轴线的角度 $\\theta _ { \\it e }$ ，则目标的真实方位角应为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { \\theta } _ { _ { m } } = \\theta - \\theta _ { _ { e } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "得到 $\\hat { \\theta } _ { { } _ { m } }$ 后，将该单元目标的和通道多普勒估计强度投影到对应的成像网格中进行能量积累，即可完成前视成像。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于多普勒估计的单脉冲前视成像流程如图2所示，和差通道的原始回波在进行方位向处理前需完成脉冲压缩和距离走动校正，校正采用了 Keystone 算法[17]；校正后的回波在距离门内沿方位向分帧，然后对每一帧数据进行方位向FFT，得到和差通道的多普勒估计；接着，由平台运动参数计算 3dB 波束内目标分布的多普勒单元索引，并提取对应的和差通道多普勒估计值计算和差信号的复比，得到目标的真实方位角；最后，根据目标所在的距离门和方位角将和通道多普勒估计的强度作为目标能量投影到成像平面上，得到前视图像。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d80f1b860e9033f59f1e67c26f8bda0d88a9684bfc557c129bcd89bbd5fa5db6.jpg",
+        "img_caption": [
+            "图2基于多普勒估计的单脉冲前视成像流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 Flowchart of mono-pulse forward-looking imagination based on Doppler estimates ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图2所示的成像流程中，成像是通过将目标能量投影到成像平面上实现的，因此对目标的定位精度（包括距离和方位角测量的精度）是影响成像质量的关键指标。研究发现，单脉冲测角技术对目标方位角测量的精度与目标回波 SNR 和目标偏离中轴线的角度有关，这一精度不会随着前斜视角度的减小而明显下降，所以相比同样基于多普勒处理的DBS 技术，在前斜视方向采用单脉冲测角技术确可以大大改善对目标定位精度，从而提高图像的清晰度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3基于调频Z变换重建单脉冲雷达和差通道多普勒估计值 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "上文分析表明，采用FFT算法对N个脉冲的样本值进行多普勒估计可实现前斜视方向上目标的分离，但是，也应注意到 $N$ 的取值受到 $f _ { _ { p } }$ 或平台运动引起的相位误差等因素的限制，不能太大，这意味着用 DFT构造的多普勒滤波器组，其分辨率在前斜视方向并不高，因此邻近目标的旁瓣或能量泄漏都可能会影响对目标的幅度估计结果，导致和差复比误差增大。为了提高对目标的定位精度，提出了一种基于调频 Z变换重建单脉冲雷达和差通道多普勒估计值的算法。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "有上节可知，多普勒处理后，3dB 波束宽度内目标对应的多普勒单元为M个，首先对每个多普勒单元重新估计各单元内目标的多普勒频率。具体的方法是在每个目标所处多普勒单元附近采用调频Z变换算法（CZT：Chirp-ZTransform）进行频率间隔细化，在细化后的多普勒估计值中搜索局部最大值，对应的频率即为目标的真实多普勒频率的估计[14]。设 $\\omega _ { \\it { m i } }$ 为第 $\\mathbf { m }$ 个单元目标的真实多普勒频率：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\omega _ { m i } = \\omega _ { 0 } + i \\frac { \\Delta \\omega } { L } , i = 0 , 1 , 2 , . . . , L - 1 , m = 0 , 1 , 2 , . . . , M - 1\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\omega _ { \\scriptscriptstyle 0 }$ ， $\\Delta \\omega$ 和 $L$ 分别表示起始频率点、对频率间隔细化后的频率增量和细化后的样本点数，则细化后的频谱分辨率为 $\\Delta \\omega / L$ ，与式(10)的频率样本集相对应的DFT 应为",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY \\left( \\omega _ { m i } \\right) = \\sum _ { n = 0 } ^ { N - 1 } y \\left( n \\right) e ^ { - j \\omega _ { m i } n } , \\ i = 0 , 1 , 2 , . . . , L - 1\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "若定义W为",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW = e ^ { - j { \\frac { \\Delta \\omega } { L } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "则由式(11)、(12)可得",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY \\Big ( \\omega _ { _ { m i } } \\Big ) = \\sum _ { n = 0 } ^ { N - 1 } y \\Big ( n \\Big ) e ^ { - j \\omega _ { 0 } n } W ^ { n i } , ~ i = 0 , 1 , 2 , . . . , L - 1\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "利用等式：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nn i = \\frac { 1 } { 2 } \\Bigl [ n ^ { 2 } + i ^ { 2 } - \\bigl ( i - n \\bigr ) ^ { 2 } \\Bigr ]\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "式(14)可重写为：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY \\left( \\omega _ { _ { m i } } \\right) = \\sum _ { n = 0 } ^ { N - 1 } y \\left( n \\right) e ^ { - j \\omega _ { 0 } n } W ^ { n ^ { 2 } / 2 } W ^ { i ^ { 2 } / 2 } W ^ { - \\left( i - n \\right) ^ { 2 } / 2 } , \\ i = 0 , 1 , 2 , . . . , L - 1\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "令",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng \\left( n \\right) = y \\left( n \\right) e ^ { - j \\omega _ { 0 } n } W ^ { n ^ { 2 } / 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "则可以得出：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY ( \\omega _ { _ { m i } } ) = { W ^ { i } } ^ { 2 } / { \\sum _ { n = 0 } ^ { N - 1 } g ( n ) W ^ { - ( i - n ) ^ { 2 } / 2 } } ]  , \\ i = 0 , 1 , 2 , . . . , L - 1\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在(17)中， $Y \\left( \\omega _ { m i } \\right)$ 是 $g \\left( n \\right)$ 与 $W ^ { - n ^ { 2 } / 2 }$ 两序列的卷积，再与 $W ^ { i ^ { 2 } / 2 }$ 相乘， $W ^ { - n ^ { 2 } / 2 }$ 是以 𝑛 为线性频率增量上升的复指数序列，说明可以采用调频 $Z$ 变换直接求得该目标的和通道多普勒估计 $Y _ { \\scriptscriptstyle \\Sigma } \\left( \\omega _ { { \\scriptscriptstyle m i } } \\right)$ ，然后找到峰值点所在的位置，即为目标的频率估计 $\\hat { \\omega } _ { _ { m i } }$ 。基于目标的频率估计 $\\hat { \\omega } _ { _ { m i } }$ 可以重建差通道的多普勒估计。首先，根据频率估计值 $\\hat { \\omega } _ { _ { m i } }$ 构造导向矢量 $\\mathbf { a } _ { \\mathrm { D } } ( \\omega _ { m i } ) \\triangleq [ 1 ~ e ^ { - j \\omega _ { m i } }$ ： $e ^ { - j ( N - 1 ) \\omega _ { m i } } ] ^ { T }$ ，然后用导向矢量乘以差通道原始的复信号矢量，求得差通道复信号在多普勒空间这一频率点上的投影，即为差通道的多普勒估计：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { \\Delta } ( \\omega _ { _ { m i } } ) = \\mathbf { a } _ { _ { D } } ( \\omega _ { _ { m i } } ) ^ { T } \\mathbf { y } _ { \\Delta }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(18)中重建使用的导向矢量相当于Fourier 基矩阵中的一个列向量，区别在于频率更为精确，因此得到的和差估计值更接近目标的真实值，对目标测角的精度更高。接着，可由重建的和差多普勒估计计算和差通道复比εmi：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varepsilon _ { \\ b { m i } } = \\mathrm { s g n } \\left( Y _ { \\Sigma I } \\left( \\omega _ { \\ b { m i } } \\right) Y _ { \\Delta I } \\left( \\omega _ { \\ b { m i } } \\right) + Y _ { \\Sigma Q } \\left( \\omega _ { \\ b { m i } } \\right) Y _ { \\Delta Q } \\left( \\omega _ { \\ b { m i } } \\right) \\right) \\frac { \\left| Y _ { \\Delta } \\left( \\omega _ { \\ b { m i } } \\right) \\right| } { \\left| Y _ { \\Sigma } \\left( \\omega _ { \\ b { m i } } \\right) \\right| }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "然后根据和差通道鉴角曲线查询得到目标偏移中轴线的角度 $\\theta _ { \\it { m e } }$ ，根据式(9)即得到真实的方位角。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "基于重建多普勒估计的单脉冲雷达前视成像流程如图3所示：首先，对和差通道的原始回波完成预处理，将 Keystone 校正后的和通道回波在距离门内沿方位向分成长度为N 的子帧，然后用FFT处理子帧数据，得到和通道信号的多普勒估计；其次，根据雷达平台的运动参数计算多普勒中心频率和 3dB 波束内目标的多普勒带宽，确定目标在多普勒域的分布范围和单元索引；再次，用调频Z变换计算对应M个多普勒单元的精确多普勒估计以及多普勒频率，并重建差通道多普勒估计；然后，根据重建值计算目标的和差复比，利用雷达的鉴角曲线测角，得到目标的方位角；最后，根据各目标所在的距离门和方位角进行坐标变换，将目标和通道多普勒估计的幅值投影到成像平面上，得到前视图像。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/044b5d6812cb17337274dce7e982b641e910bd794c602a4c5cac6e06f314f68f.jpg",
+        "img_caption": [
+            "图3基于重建多普勒估计的单脉冲前视成像流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 Flowchart of monopulse forward-looking imaging based on the reconstructed Doppler estimates ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4仿真结果和算法性能分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1点目标仿真实验 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "仿真参数如表1所示，假设雷达安装在机载平台上，发射脉宽1微秒、带宽 50MHz的线性调频信号，发射信号中心频率为 $1 8 \\mathrm { G H z }$ ，设天线波束从， $. 1 5 ^ { \\circ }$ 扫描到 $1 5 ^ { \\circ }$ ，发射的脉冲总数为 2000个，在地面上以$[ 1 7 0 0 m , 0 m ]$ 为中心设置了 $3 \\times 2 1$ 点目标阵列，点目标的强度均为1，在距离向和方位向间隔均为30米，相邻点目标的方位角间隔约为1度，脉压后回波的 $\\mathrm { S N R } { = } 2 0 \\mathrm { d B }$ ，噪声服从均值为0，方差为 $\\sigma ^ { 2 }$ 的复正态分布。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/0e236e061e886a6cdc3feb34f1e0f0d12b62fe5080c5711254583f5ac97ccd0e.jpg",
+        "table_caption": [
+            "表1波束扫描前视成像实验仿真参数 ",
+            "Table I Simulation parameters of a forward-looking scanning radar "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>场景中心地距</td><td>1700m</td><td>平台飞行速度</td><td>100m/s</td></tr><tr><td>雷达中心频率</td><td>18GHz</td><td>距离/方位分辨单元</td><td>3mX3m</td></tr><tr><td>信号带宽</td><td>50MHz</td><td>信号脉宽</td><td>1us</td></tr><tr><td>和通道3dB 波束宽度</td><td>5°</td><td>波束扫描范围</td><td>-15°-15°</td></tr><tr><td>脉冲重复频率PRF</td><td>2000Hz</td><td>天线扫描速度</td><td>30%s</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "经过预处理和运动补偿后，分别采用四种前视成像算法完成了信号处理，并绘制了等高线图，由于传统多普勒波束锐化在前斜视区域成像效果不佳，没有采用DBS 算法进行对比。图4(a)为实孔径成像结果，成像分辨率很差。图4(b)为采用传统单脉冲成像算法的成像结果，距离分辨率保证了目标在距离上的有效分离，但是沿方位向目标之间发生了交叠，无法准确地确定各点目标的位置，说明同分辨单元内的多目标使得单脉冲测角不准确，引起了图像模糊。图4(c)采用图1给出的算法，图4(d)采用图2给出的算法，脉冲积累数 $N { = } 6 4$ 。在图4(c)中可以观察到靠左右两侧的点目标在方位向得到了分离，但同时目标周围散布着大量的杂波；图4(d)相比图4(c)，左右两侧点目标的方位分布范围明显缩小，距离向和方位向的背景杂波也明显减少。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1750 1740 0.9 1730 0.8 1720 0.7 （w） 1710 1690 州 605 0.4 1680 0.3 1670 0.2 1660 0.1 1650 -400 -200 0 200 400 方位向(m) ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/bdcc33a07daef5dfdee72df4155f93b15b10322d9583434f6adda4ef50d9fdc1.jpg",
+        "img_caption": [
+            "(a）实孔径成像结果 (a) Real aperture imaging results ",
+            "(b）单脉冲成像结果 (b) Monopulse imaging results "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1750 1750 1740 0.9 1740 0.9 1730 0.8 1730 A 0.8 1720 0.7 1720 0.7 （w）回留 1000 005 （） 1710 666 1690 0.4 1690 0.4 1680 0 1680 o 80 1660 0.1 1660 0.1 1650 1650 ， -400 -200 。 200 400 -400 -200 0 200 400 方位向(m) 方位向(m) (c）基于FFT进行多普勒估计的单脉冲成像结果 (d）基于CZT重建多普勒估计的单脉冲成像结果 (c) Monopulse imaging results based on Doppler (d) Monopulse imaging results based on reconstructed estimates by using FFT Doppler estimates by using CZT ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "Figure. 4 Comparison of forward-looking imaging performance ( $\\mathrm { S N R } { = } 2 0 \\mathrm { d B }$ ） 图4点阵目标单脉冲前视成像效果对比（ $\\mathrm { S N R } { = } 2 0 \\mathrm { d B }$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "为了对比图像中目标的方位分辨情况，在图5 中绘制了图 4(b)-(d)中在地距 $1 7 3 0 \\mathrm { m }$ 处 21个目标的归一化方位向剖面图：图中红色圆圈代表目标的真实位置，绿色虚线绘制的是传统单脉冲前视成像得到的目标方位向剖面图，可观察到多数目标由于角闪烁偏离了真实位置；采用基于多普勒估计的单脉冲前视成像算法得到的目标方位向剖面图如蓝色虚线所示，方位向 $\\pm 2 0 0 \\mathrm { m }$ 外目标偏离真实位置的程度下降明显，但是目标强度起伏和分裂也比较明显；采用重建多普勒估计的单脉冲前视成像算法得到的目标方位向剖面图如红色实线所示，相比其它曲线，在方位向土 $1 8 0 \\mathrm { m }$ 外的目标位置与真实值吻合度很高，目标的方位分布更为集中，幅度也更均匀，显示算法对目标的方位分辨率明显提高。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/fd004413eddce68b3733edc2cef3be58fa3c5781d32af6e81b3f9e98886ac1b7.jpg",
+        "img_caption": [
+            "图5距离门1730处目标的方位向剖面图（ $\\mathrm { S N R } { = } 2 0 \\mathrm { d B }$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Figure 5 Azimuthal contour plot for point targets at the 173Oth range bin $( \\mathrm { S N R } { = } 2 0 \\mathrm { d B } )$ 0 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "同时，我们也注意到图4和图5中，在正前方两侧一定范围内存在一个目标混迭区，在此范围内目标的多普勒梯度受到斜视角的影响急剧下降，多个角度的目标落入同一个多普勒单元，导致算法失效。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.2实测数据验证",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "图6是对某机载单脉冲雷达实测数据的前视成像处理结果，平台飞行过程中雷达对水面进行扫描，波束扫描范围为- $2 4 ^ { \\circ } \\sim + 2 4 ^ { \\circ }$ 。雷达和通道天线 3dB 波束宽度约为2.5度。图6中每幅图右侧是场景中两个区域的局部放大图，右上为左侧场景岸边的图像，位于场景左侧-8到 $0 ^ { \\circ }$ 附近；右下为水面一组点目标的图像，位于场景右侧 $1 2 ^ { \\circ }$ 附近。图6(a)为采用实孔径成像技术对雷达前视成像的结果，右侧水面目标的方位分布范围大，左侧岸边和陆地地貌轮廓模糊；图6(b)为采用传统单脉冲成像的结果，从右下侧点目标成像结果来看，目标强度增大，方位分布显著缩小，优于实孔径图像，说明了单脉冲成像有效地缩小了点目标扩展函数的方位分布范围，左侧陆地的成像结果则改善不明显，这是因为左侧场景为大块陆地，由对比度差异不明显的散射点组成，角闪烁导致的测角错误或测角结果异常使得图像模糊；图6(c)采用了基于多普勒估计的单脉冲前视成像算法，图6(d)则采用了基于重建和差通道多普勒估计的单脉冲前视成像算法，两种算法相对图6(b)对左侧陆地的成像效果都明显提升，表现为陆地场景的轮廓更清晰，纹理特征更丰富；从右下侧的局部放大图来看，对于水面目标，图6(c)成像后出现了少量的假目标，图6(d)则没有假目标；同时，也观察到采用多普勒处理后，在水面成像时，背景杂波相比图6(b)抬高了一些，这是由于多普勒处理时强目标的能量泄漏到其它多普勒分辨单元导致的。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e24d7386ff7535b20d066be8dd7fcdacb1309603282695687e829bd4c019159.jpg",
+        "img_caption": [
+            "(a）实孔径成像结果 (a) real aperture image results "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/047a9a36122fc2397afc27c393993c80d4cbff2c0f14d3242244fe677507225d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/38943125eaf045134e17d4f8b03c04a74404943322620cc52e69b4108d51ff5f.jpg",
+        "img_caption": [
+            "(b) Monopulse forward-looking imaging results ",
+            "(c）基于多普勒估计的单脉冲前视成像结果 "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/a54219735f29ec3290a2d0b3f349eb6f62db11908a539692a382d611e7c4e8ad.jpg",
+        "img_caption": [
+            "(b）单脉冲前视成像结果 ",
+            "(c) Monopulse forward-looking imaging results via Doppler estimates "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(d)基于重建多普勒估计的单脉冲成像结果 (d) Monopulse forward-looking imaging results via reconstructed Doppler estimates ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Figure 6 Comparison of experimental results in forward looking imaging 点目标仿真实验和实测数据成像实验表明： ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 对于前斜视方向同分辨单元内的多点目标，基于多普勒估计的单脉冲前视成像算法利用点目标之间的多普勒梯度差异分离目标，能有效解决角闪烁带来的图像模糊问题;  \n$\\textcircled{2}$ 和差比幅测角后进行能量投影可以缩小点目标扩展函数的方位分布范围，而基于重建多普勒估计值进行和差比幅测角，能进一步的提高测角精度，减小点目标扩展函数的方位分布范围，从而提高图像清晰度。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "本文研究了基于单脉冲雷达和差通道多普勒估计的前视成像技术，对扫描雷达回波序列沿方位向分帧进行多普勒处理，实现了前斜视方向多目标的分辨，基于重建估计值的和差比幅测角则提高了对天线覆盖范围内目标的定位精度，仿真和实测数据验证了所提算法能有效提升前视图像的清晰度，使存在大量散射点的场景轮廓更清晰，纹理更丰富。由于多目标间的多普勒频差受到平台运动速度、目标相对运动方向的夹角以及雷达系统的波长等因素影响，测角精度的改善指标需要结合雷达系统参数和平台特性进行具体分析。同时，由于多普勒梯度差异急剧下降，在正前视方向一定范围内这一技术仍无法分辨多目标，也不能分辨同时出现在前视方向左右两侧且角度、大小完全相同的目标，这类目标由于多普勒频率相同会出现\"左右模糊\"的问题，这些问题都是未来研究工作中要继续关注的。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[1]杨建宇.雷达对地成像技术多向演化趋势与规律分析[J].雷达学报,2019,8(6):669-693.doi:10.1200/JR19099. YANGJianyu.Multi-directionalEvolutionTrendandLawAnalysisofRadarGroundImagingTechnology[J].JournalofRadars2019, 8(6):669-693.doi: 10.12000/JR19099.   \n[2] ZHANG Y,ZHANGYUANGY,etal.AngularSuperesolutionforSanningRadarWithImprovedReguarizedIterativedatie Approach[J].IEEE Geoscienceand Remote Sensing Lettrs,2016,13(6):846-850.doi:10.1109/LGRS.2016.2550491.   \n[3]吴迪,朱岱寅,朱兆达.机载雷达单脉冲前视成像算法[J].中国图象图形学报,2010,15(3):462-469.doi:10.11834/jig.20100317 WUDi,ZHUDiin,ndZHUZaoda.ResearchonNomopulseForward-lookingImagingAlgorithforboreRadar[J].Joualfage and Graphics,2010,15(3):462-469.doi:10.11834/jig.20100317   \n[4] 吴迪,朱岱寅,田斌，等.单脉冲成像算法性能分析[J].航空学报,2012.33(10):1905-1914. WU Di,ZHUDii,Ain,etalerforanceEvauatioforonopuseaginglgoritJActaAeronuticaETstroaicinica 2012,33(10):1905-1914.   \n[5]吴迪，杨成杰，朱岱寅，沈明威.一种用于单脉冲成像的自聚焦算法[J]，电子学报，Vol.44 No.8 Aug.,2016:1962-1968. WUDi,ANGhenje;HUi-in,hning-wei.AnutofocusgotitforoopulseIaging[J].ActaElectroicaica06 44(8): 1962-1968.   \n[6]李悦丽,梁甸农,黄晓涛.一种单脉冲雷达多通道解卷积前视成像方法[].信号处理,2007,23(5):699-703.doi: 10.3969/j.issn.1003-0530.2007.05.013. LI Yueli，LIANGDiannong，and HUANG Xiaotao.A Muli-Chanel Deconvolution basedonForword-Looking Imaging Method in MonopulseRadar[J].JournalofSignal Procesing，2007，23(5):699—703．doi:10.3969/j.issn.1003-0530.2007.05.013.   \n[7]唐琳,焦淑红,齐欢，等.一种单脉冲雷达多通道 L1正则化波束锐化方法[J].电子与信息学报,2014,36(9):2201-2206.doi: 10.3724/SP.J.1146.2013.01792. TANGLin,JAOShuHong，QIHuan,etal.ANew Mono-pulseRadarBeam SharpeningMethod with MultichanelL1Regularization[J]. journal of electronics $\\&$ information technology,2014,36(9):2201-2206.doi: 10.3724/SP.J.1146.2013.01792.   \n[8]谢尔曼．单脉冲测向原理与技术[M].国防工业出版社,2013. Sherman S M. Monopulse Principles And Techniques[M].National Defense Industry Press,2013.   \n[9]ZhangXilPBar-aloYoouseRdaetectioadLcalizofultipleUesoveTargetsviaJointroig] IEEE Transactions on Signal Processing 2005,53(4):1225\\~1236.doi: 10.1109/TSP.2005.843732.   \n[10]杨洋,李丽.单脉冲前视成像多目标分辨算法[J].信号处理,2016,32(9):1055-1064.doi:10.16798/jissn.1003-0530.2016.09.07. YANGyagandLIYueliMult-targetsDiscriinatioAgorithinMonopulseForward-lokingImaging[J].JoualofSignalroceing 2016,32(9):1055-1064.doi: 10.16798/j.issn.1003-0530.2016.09.07.   \n[11]陈伯孝,张守宏,马长征.单脉冲三维成像及其在末制导雷达中的应用[J].雷达科学与技术,2003,1(4):205-209.doi: 10.3969/j.issn.1672-2337.2003.04.004. CHENBaixiao,ZHANGShouhong,andMAChangzheng.MonopulseRadar3-DImagingandItsApplicationinTerminalGuidanceada[J] Radar Science And Technology,2003,1(4):205-209.doi: 10.3969/j.issn.1672-2337.2003.04.004.   \n[12]StoicaPndLJanAdaptieflteringaroachtospectraltimatiodAimagigJ].EETasactiosoignalring publication of the IEEE Signal Processing Society,1996,44(6):1469-1484.doi: 10.1117/12.210835.   \n[13]马长征,张守宏.超分辨在单脉冲雷达三维成像中的应用[J].西安电子科技大学学报,199,26(3):379-382.doi: 10.3969/j.issn.1001-2400.1999.03.027. MAChangzhengandZHANG Souong.Applications ofsuper-resolutionignalprocessngonmonopulseadarthreedimensioal iaging[J]. Journalof XiDian University1999,26(3):379-382.doi: 10.3969/j.issn.1001-2400.1999.03.027.   \n[14]LIUXiaoogandLIYueliParameterstimatioofarowbadrdiofrequencyiterferecebedolocaleiementsarchifreqency domain[C].2015IEEEInternationalConferenceonCommunicationProblem-Solving(ICCP)，Guilin，Guangxi，China,Jan.205．doi: 10.1109/ICCPS.2015.7454112   \n[15]孙泓波,顾红,苏卫民，等.机载脉冲多普勒雷达 DBS成像实验研究[J].数据采集与处理,2001,16(4):423-427．doi: 10.3969/j.issn.1004-9037.2001.04.007. SUNHongbo,GUong,SUWeimin,etal.ExperimentalResearchofBagigBsedorbePulseopperadar[J]Jalfta Acquisition & Processing,2001,16(4):423-427.doi: 10.3969/j.issn.1004-9037.2001.04.007.   \n[16]毛士艺,李少洪黄永红，等机载PD雷达DBS实时成像研究[J]电子学报,20,28(3):32-34.doi:10.3321/j.isn:0372-2112.2.03009. MAO Shiyi,LIShaohong,HUANGYonghong,etal.StudyofReal-TimeImagebyDBSonAirborePDRadar[J].ActaElectronicaSinica 2000,28(3):32-34.doi: 10.3321/j.issn:0372-2112.2000.03.009.   \n[17]王娟,赵永波.Keystone 变换实现方法研究[J].火控雷达技术,201140(1):45-51.doi:10.3969/j.isn.1008-8652.2011.01.010. WANGJuanadZHogbeseahoplemetatioofKeystoeTafoJ].eCotroladarTchology11,0(1):4do 10.3969/j.isn.1008-8652.2011.01.010. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "作者简介：李悦丽：女，1973年生，国防科技大学电子科学学院副教授，主要研究方向为雷达成像以及信号处理技术研究",
+        "page_idx": 13
+    }
+]

@@ -1,0 +1,281 @@
+# 学步期焦虑影响5岁幼儿创造力：一般认知和掌握动机的链式中介作用
+
+成 童¹程南华」王美芳²王争艳¹(首都师范大学心理学院，儿童发展研究中心，北京市“学习与认知”重点实验室，北京 100048)(2首都师范大学初等教育学院，北京100048)
+
+摘 要 儿童早期焦虑是一种常见的心理卫生问题，影响个体中央执行功能的发展，而个体中央执行功能所表现的认知能力的发展通常反映出个体创造性问题解决的过程。本研究采用追踪研究设计，探讨了学步期儿童焦虑对其学龄前期创造力的长时影响及其潜在作用机制。来自北京的96个家庭（男孩42名，女孩54名）参与了本研究。在儿童1岁和2岁时，母亲填写中国版《12\~36月龄幼儿情绪社会性评估量表》和家庭基本信息调查表。在儿童2岁时，采用贝利婴幼儿发展量表评估幼儿的一般认知能力；在儿童3岁时，母亲报告儿童掌握动机情况；在儿童5岁时，采用托兰斯活动与动作创造性思维测验评估儿童的创造力。研究结果表明：（1）儿童学步期焦虑（广泛性焦虑和分离焦虑）可以显著负向预测其5岁时的创造力；（2）一般认知能力和掌握动机在儿童学步期焦虑（广泛性焦虑和分离焦虑）和学前期创造力之间的链式中介作用成立；（3）儿童学步期广泛性焦虑还可以通过直接负向预测掌握动机，从而对其5岁创造力的表现产生消极影响。
+
+关键词广泛性焦虑，分离焦虑，一般认知能力，掌握动机，创造力
+
+# 分类号 B844
+
+# 1前言
+
+焦虑 (anxiety)是指儿童在感知到内外界刺激对自己存在某种威胁，或者自己无法达到某种目标、克服某种障碍时所产生的愤怒、苦闷、羞愧、内疚、惊慌等不良的情绪体验或心理状态（林崇德 等,2003)。研究表明，焦虑在婴儿5个月大时开始出现，直到学龄早期都随年龄增加呈线性增长趋势 (Laurin et al.,2015)。幼儿的焦虑可分化为不同的焦虑症状，不管是 Spence 等人(2001)的五因素模型，还是 Sterba(2007)等人的三因素模型，均发现广泛性焦虑和分离焦虑作为两个单独的亚型存在于不同年龄的儿童群体中，表明这两种亚型有较好的区分度及代表性。此外，临床研究发现，患有广泛性焦虑障碍的儿童约占焦虑儿童的 $3 8 \% { \sim } 5 8 . 4 \%$ ，患有分离焦虑障碍的儿童约占焦虑儿童的 $2 2 . 2 \% { \sim } 3 8 \%$ ，远高于其他焦虑亚型的儿童 (Kendall et al.,2001)。因此，本研究将以广泛性焦虑和分离焦虑作为儿童早期焦虑指标进行探讨。其中，广泛性焦虑（Generalanxiety）是指儿童对自身行为、能力和未来的广泛的担心，其发生率在儿童早期随年龄增加而不断增长(Broeren et al.,2013)；而分离焦虑(Seperation anxiety)是指儿童与依恋对象或亲人分离时产生的急性、期待性的焦虑 (Zhang et al.,2009)，呈现倒U型的发展模式，在学前期达到顶峰，然后随着年龄的增加呈现降低的趋势 (Hale et al.,2008)。广泛性焦虑是一种特质焦虑，具有个体差异的性格倾向，其表现相对稳定；而分离焦虑是一种状态焦虑，是由环境压力引起的短暂的情绪模式，包括生理唤醒、紧张等症状 (Byron＆Khazanchi,2011)。
+
+焦虑在认知领域中非常重要，因为它经常与认知任务中较差的行为表现相关，特别是高级的认知功能，比如创造力 (Byron＆Khazanchi,2011)。良好的创造力是个体自身发展及社会进步必不可少的一项综合能力 (刘文 等,2020)，在儿童早期探究影响创造力发展的因素及机制，能为更好地从家庭层面培养幼儿创造力、促进幼儿创造力良性发展提供实证证据的支持。创造力是在特定情况下产生原创 (即新颖)和有用的想法、解决方案或产品的认知过程(Stermberg etal.,1999)。儿童创造力在 2-5岁不断发展，在5岁时达到一个小高峰，随后发展趋于平缓(Torrance,1967;叶平枝,马倩茹,2012)。幼儿期是创造力发展和培养的一个关键时期(Alfonso-Benllure et al.,2013)。一些研究表明焦虑对创造力任务表现有 消 极作 用（Acedo-Baquedano & Acedo-Lizarraga，2012；Byron& Khazanchi,2011)，且相比成年人，儿童焦虑对创造力表现的抑制影响更大(Byron＆Khazanchi,2011)。此外，还有研究发现不同焦虑亚型对创造力影响程度不同（Acedo-Baquedano &Acedo-Lizarraga,2012；Byron& Khazanchi，2011；卢家楣 等,2005)。因此考察学前期两种重要但不同的焦虑亚型对创造力的长时效应是有必要的。
+
+然而，幼儿的焦虑影响创造力的过程机制尚不清楚。在成人研究中，加工效能理论和注意控制理论初步解释了焦虑影响创造力的过程。加工效能理论 (Processing efficiencytheory，Eysenck&Calvo,1992)认为，焦虑产生的担忧情绪占用了工作记忆系统下的部分处理和存储资源。例如有研究表明焦虑破坏了工作记忆能力 (Ng&Lee,2015)。注意控制理论（Attentional control theory,Eysenck et al.,2007）进一步强调焦虑通过破坏抑制功能和转换功能的效能，从而破坏注意控制的效能。实证研究表明高焦虑个体在包含抑制功能(Eysenck et al.,2007）和转换功能（Gul& Humphreys,2014)的任务中表现更差，且在背外侧前额叶皮质(Basten etal.,2012)和前扣带回(Comte et al.,2015)也表现出大脑活动和静息态功能连接网络的变化 (Allen et al.,2019;Barker et al.,2018)，表明高焦虑个体对抑制和转换功能的控制力更差。但是，这些理论在儿童群体中的适用性目前还有待研究进一步证实。
+
+已有研究发现儿童焦虑与皮质醇水平的升高有关，儿童早期的焦虑可以预测8年后的较高水平的HPA 轴活动 (Greaves-Lord etal.,2010)。儿童早期神经内分泌系统处于迅速发展阶段，HPA轴的终端产物皮质醇对于大脑发育起到关键作用 (聂瑞虹 等,2015)。因此，生物系统模型可能解释了焦虑作用于认知能力而对儿童后期创造力发展产生的影响。根据该模型，压力诱发焦虑后，神经内分泌系统中 HPA 轴（Hypothalamic-Pituitary-Adrenalcortex axis,下丘脑-垂体-肾上腺皮质轴)产生的应激激素（如糖皮质激素）会通过血脑屏障进入大脑，进而影响与认知功能相关的区域，如海马体、额叶和杏仁核等，损害个体的认知功能 (Lupien et al.,2007)。在行为观察层面，较高的皮质醇水平则会损害记忆和警觉等认知能力 (Lupien et al.,2007; Plotsky et al.,1998)。当儿童长期处于应激状态时，会妨碍激素调节的灵活性，从而影响儿童执行功能的发展(McEwen,2000;Ramos &Armsten,2007)。综上，可以推断儿童早期的焦虑状态会对后期的认知发展产生长期影响。之前已有实证研究发现了焦虑对创造力发展的消极作用（如Acedo-Baquedano&Acedo-Lizaraga,2012;Byron& Khazanchi，2011)，但这些研究主要基于横断研究的设计以及童年中期到成年人的被试群体，较少研究探讨了婴幼儿早期焦虑对创造力的长时影响。本研究采用追踪研究设计，考察学步期焦虑对学龄前期创造力的影响及其作用机制。考虑到创造力是基于人类信息加工的基本能力而产生的 (Dietrich,2004)，而婴儿期创造力主要体现为一种认识能力的发展，并不具备真正的创造力(张文新,谷传华,2004,p.64)。可以合理推测，认知能力可以作为对于童年早期的焦虑影响创造力的发展中介过程。根据皮亚杰的认知发展阶段理论，2岁儿童开始从具体动作中摆脱出来，进入表象思维阶段，开始处于一种真正的问题情境，进而有意识、有目的地探索、询问、寻找问题的答案（张文新,谷传华,2004,p.65)。因此，本研究以2岁一般认知能力作为创造力发展的早期认知基础，探讨焦虑影响创造力发展过程中一般认知能力的作用。本研究假设婴幼儿时期的焦虑可能会先导致生命早期一般认知能力的受损，进而影响创造力的表现。
+
+加工效能理论提出，担忧降低了工作记忆中的认知资源 (Eysenck etal.,2007)，可能也降低参与任务的积极性以及完成任务的动机(Barch etal.,2008;杜瑶,2018)。当儿童从学步儿时期转向幼儿时期，认知水平不断发展，随着经验的积累，周围的环境变化与儿童已有的知识经验和认知水平存在矛盾，产生了迫切的理解他人、自己和周围事物的需要(张文新,谷传华,2004,pp.64－.65)。Morgan 等人（1990）把这种需要称为掌握动机，驱动个体集中地、持久地尝试独立解决具有适度挑战性的问题、技能或任务。Harter 等人(1974)提出，儿童掌握动机的特点表现为儿童解决挑战性认知问题的愿望，为了获得解决问题本身的内在满足感，是后期认知和智力发展的一种核心动力 (Hausercram etal.,2001;Macturk et al.,1995)。根据掌握动机发展阶段理论 (Jennings,1991)，在掌握动机的发展过程中，因为婴儿逐渐会关注不同类型的行为结果而使掌握行为的具体目标有所改变，引发掌握行为的环境条件随发展而变化。其中3岁儿童的整体坚持性和掌握愉悦感更高，从“主要掌控行为是达到最终的结果目标以完成问题解决”过渡到“主要掌控行为是关注任务难度，偏爱挑战”。在这个过程中，问题解决导向动机 (Jennings,1991)的产生是创造力发展的必要因素。因此，本研究选择幼儿3岁时的掌握动机，探讨其在儿童低水平的认知能力向高级认知能力发展过程的作用。根据以上研究推测，儿童早期焦虑可能会通过破坏儿童对新鲜事物的好奇心和探索欲，对掌握动机的发展产生长时影响，进而影响创造力的发展。
+
+同时，在皮亚杰 (1952)提出的的认知发展阶段理论中暗含了动机原则：个体当前的认知结构遇到新异刺激是向更高认知阶段发展的前提，个体通过同化及顺应，最终达到与环境新的平衡。在该过程中，新异刺激的产生就意味着动机的出现：个体根据以往适应平衡的经验，对新的适应水平产生期望，而新的适应水平与旧的适应水平之间的不一致，导致个体产生消除不一致的动机 (Hunt,1965)。在这个过程中，基础的认知结构是动机产生的先决条件，动机又是认知发展的必要条件 (Jennings,1991;Ulvund,1980)。因此，本研究推论儿童的一般认知能力和掌握动机在焦虑和创造力之间起了链式中介作用。考虑到广泛性焦虑和分离焦虑在儿童群体中的高发性，本研究将构建早期焦虑 $$ 一般认知能力 $$ 掌握动机 $$ 创造力的链式路径，并探讨不同亚型的焦虑对儿童创造力的影响机制是否一致。
+
+为了更好地探究早期焦虑对后来儿童创造力的发展的影响及其作用机制，本研究也对影响儿童创造力的其他因素进行了考察和控制，包括社会经济地位、母亲敏感性等环境中的近端和远端变量。例如，研究显示，父母收入、受教育程度以及母亲敏感性都与儿童的掌握动机（Turner& Johnson,2003;Young&Hauser-Cram,2006)及创造力（师保国，申继亮,2007;张景焕 等,2013)存在直接或间接的关系。因此本研究将父母收入、受教育程度和母亲敏感性等与本研究关键变量有显著相关的变量作为协变量进行控制，以得到更纯粹的早期焦虑与后来创造力发展的关系。
+
+综上所述，本研究采用追踪研究的设计，考察学步期的广泛性焦虑和分离焦虑对5岁时创造力的预测及其潜在机制。本研究的理论路径模型如下：
+
+![](images/4ae944bbbc1e973a2e942e94dc50a72837b0c3e4bbaee4098ec226c3339e3c9a.jpg)  
+图1焦虑预测创造力的链式中介理论模型
+
+# 2研究方法及程序
+
+# 2.1被试
+
+本研究的样本来自“北京市婴幼儿认知、情绪-社会性发展的纵向追踪研究”项目（BELONGS），这项研究始于2010年，通过与社区卫生服务中心儿保科、妇幼保健医院等合作，采用现场、电话和网络招募北京市6个月的健康婴儿及其家庭自愿参加。招募标准为：(1)婴儿是健康足月的头胎儿，且出生时体重大于2500克；(2)婴儿出生时，母亲的年龄需在 $2 0 { \sim } 4 0$ 岁之间；(3)在加入项目时，母亲已婚且与婴儿的父亲居住在一起;(4)参与的家庭报告自己为北京市居民。6个月时,招募到了95个家庭（女孩57名，男孩49名)，在儿童9个月时加入5个家庭，1岁加入1个家庭，2岁、3岁、5岁时又分别加入5个家庭、2个家庭、6个家庭,故总的参与家庭是114个，其中女孩61名 $( 5 3 . 5 \% )$ ，男孩53名 $( 4 6 . 5 \% )$ ；流失4个家庭，总的流失率是 $4 . 2 \%$ 。
+
+本研究中，在儿童1岁(T1)、2岁(T2)、3岁(T3)和5岁(T4)时进行追踪测验，运用的测验方法包括问卷测量法和实验室实验法。本研究将只要参加了一个时间点的家庭都保留，最终的样本量为96个家庭。在96名儿童被试当中，女孩54名，男孩42名。卡方检验结果表明，保留的家庭和剔除的家庭在儿童性别、父亲收入、母亲收入、父亲受教育水平和母亲受教育水平上都没有显著差异 $( p > . 0 5 )$ 。在96个家庭中，母亲受教育水平高中及以下占 $4 . 4 \%$ ，本科或大专占 $5 5 . 6 \%$ ，硕士及以上占 $40 . 1 \%$ 。父亲的受教育水平高中及以下占 $2 . 2 \%$ ，本科或大专占 $42 . 8 \%$ ，硕士及以上占 $45 \%$ 。母亲收入在6000元以下的占 $4 1 . 9 . \%$ ， $6 0 0 0 { \sim } 1 0 0 0 0$ 元的占 $20 . 3 \%$ ，10000以上的占 $3 7 . 8 \%$ 。父亲收入在6000元以下的占 $6 . 6 \%$ ， $6 0 0 0 { \sim } 1 0 0 0 0$ 元的占 $2 2 . 4 \%$ ，10000以上的占 $71 \%$ 。
+
+1岁时（T1)，儿童的平均年龄是1.19岁，标准差为0.07；2岁时（T2)，儿童的平均年龄是2.10岁，标准差为0.10；3岁时（T3)，儿童的平均年龄是3.19岁，标准差为0.09；5岁时(T4)，儿童的平均年龄为5.09岁，标准差为0.06。
+
+# 2.2研究程序
+
+每个时间点均发放问卷测查家庭的基本情况，在儿童1岁和2岁时（T1和T2），由母亲报告儿童的广泛性焦虑和分离焦虑状况，并在1岁时采用自由的母子互动，对母亲敏感性行为进行编码；在儿童2岁时，邀请儿童及父母来到实验室，对儿童的一般认知进行评估；在儿童3岁时（T3），由母亲报告儿童的掌握动机；在儿童5岁时（T4），在实验室对儿童创造力进行评估。所有调查项目都得到了父母的同意。
+
+# 2.3研究工具
+
+# 2.3.1家庭基本信息表（T1）
+
+通过自编儿童家庭基本信息调查表，收集父母收入水平与受教育程度等人口学信息。父母收入水平使用5点评分： $1 { = } 1 5 0 0$ 以下/月， $2 { = } 1 5 0 0 { \sim } 3 0 0 0 /$ 月， $3 { = } 3 0 0 0 { \sim } 6 0 0 0$ 元/月， $4 { = } 6 0 0 0 { \sim } 1 0 0 0 0$ 元/月，$5 { = } 1 0 0 0 0$ 元以上/月。父母的受教育程度进行7点评分： $1 =$ 受教育年限低于三年， $2 { = }$ 受教育年限4至6年， $3 \mathrm { = }$ 初中， $\scriptstyle 4 =$ 高中， $5 \mathrm { = }$ 大专， $6 =$ 本科， $\scriptstyle 7 =$ 硕士及以上。
+
+# 2.3.2母亲敏感性（T1）
+
+由两名研究人员在征得家长同意并协商好家庭观察时间后，携带录像机等器材到被试家庭进行录像。家庭观察要求母亲与幼儿进行15分钟有玩具的自由活动，玩具由研究者提供。家庭观察的时间避免和幼儿进食、睡觉的时间相冲突，幼儿的身体和精神状态良好。
+
+采用Pederson 和Moran基于Ainsworth 的母亲敏感性的概念开发出的用于描述母婴互动质量的母亲行为Q分类（Matermal Behavior Q-Sort,MBQ; Pederson et al.,1990,1999）对母婴互动家庭录像进行编码。本研究使用的是2010年修订的72个条目的简版（Moran etal.,2010;Pederson etal.,2009)，进行Q分类时分为每组8张卡片的9组，9点计分（ $1 { = }$ 最不符合， $9 =$ 最符合）。本研究中2名经过统一培训的编码者对MBQ的条目-条目的编码者一致性(相关系数)为0.71，通过合计每个母亲的MBQ分数的方式计算出的编码者一致性(相关系数)为0.90。
+
+# 2.3.3中国版《 $1 2 { \sim } 3 6$ 月龄幼儿情绪社会性评估量表》（T1&T2）
+
+采用张建端等人修订的《中国版 $1 2 { \sim } 3 6$ 月龄幼儿情绪社会性评估量表》可以测量$1 2 { \sim } 3 6$ 个月儿童的外化行为域、内化行为域、失调域和能力域（Zhang etal.,2009）。内化问题包括几个维度：抑郁、广泛性焦虑、恐惧、强迫、分离焦虑和新事物退缩，本研究将采用这一量表来评估2岁儿童的广泛性焦虑、分离焦虑。该问卷由母亲报告，其中广泛性焦虑包含4个条目（如条目39：担心，焦虑或紧张），分离焦虑包含4个条目（如条目38：当您要离开时哭闹或抱住您不放），所有条目均为“0、1、2"三点评分，0代表“不符合/偶尔符合”，1代表“有时符合”，2代表“非常符合/经常符合”。计算广泛性焦虑和分离焦虑的平均分。该量表在中国文化背景下的 $1 0 { \sim } 1 4$ 天的重测信度为 $0 . 7 8 \sim$ 0.89，分半信度为 $0 . 8 2 \sim 0 . 9 0$ ，内部一致性系数为 $0 . 7 9 \sim 0 . 8 8$ （Zhang etal.,2009）。在本研究中，该量表在两个时间点的内部一致性均 $\geqslant 0 . 8 4$ 。本研究基于不同焦虑亚型对创造力影响的考虑，以及不同年龄点同一焦虑亚型的显著相关程度，将1岁和2岁的广泛性焦虑以及分离焦虑进行标准化，然后分别将广泛性焦虑和分离焦虑相加平均，因此得到儿童学步期广泛性焦虑和分离焦虑两个指标。
+
+# 2.3.4贝利婴幼儿发展量表（T2）
+
+美国儿童心理学家Bayley于1930 年编制贝利婴幼儿发展量表（Bayley Scale of InfantDevelopment,BSID），用于评估1\~42个月婴幼儿的发育情况。本研究采用其 2006年修订的BSIDI的认知分量表对幼儿的一般认知能力进行评估，评估的内容包括感知动作的发展（如第1题：坚持够物）、探索和操作（如第28题：用手挤压玩具）、客体关系（如第 48/53题：关联游戏：自我/他人）、概念信息（如第72题：概念归类：颜色）、记忆（如空间记忆）和其他方面的认知过程。主试根据幼儿的月龄选择起测点，使用贝利工具对幼儿进行施测，能够完成的条目计1分，不能完成的条目计0分，所有条目完成后计总分。本研究中使用的是认知的百分等级分数，描述儿童在标准化样本中的相对位置。该量表认知分量表的信度在 $0 . 9 2 \sim 0 . 9 9$ 之间。
+
+# 2.3.5掌握动机维度问卷（T3）
+
+本研究采用Morgan 等人（1990）编制的掌握动机维度问卷（Dimensions of MasteryMotivation Questionnaire 17th version,DMQ17）测量儿童3岁时的掌握动机。该问卷由母亲对儿童的掌握动机水平进行5点李克特等级评定（从 $1 { = }$ 不曾这样，到 $5 \mathrm { = }$ 总是这样)，共有45 个条目。测量了儿童的整体坚持性、掌握愉悦感、对失败的消极反应和一般能力。整体坚持性有27个条目构成（如跟我或其他大人玩的时候，有很多互动）。掌握愉悦感分量表有5个条目（如，成功完成一件事的时候会表现出兴奋的样子），对失败的消极反应分量表有8个条目（如，想做某些事而做不到时，会把目光移开）。一般能力分量表有5个条目（如，了解事物有一点慢）。由于一般能力是家长对儿童能力表现的评价，并非孩子客观的行为表现的反映。按照之前研究的做法(Morgan et al.,2009)，除一般能力外，整体坚持性、掌握愉悦感和对失败的消极反应可以合成掌握动机总分。本研究中，掌握动机总分的内部一致性系数为0.86。
+
+# 2.3.6托兰斯活动与动作创造性思维测验（T4)
+
+考虑到幼儿主要通过动作来表达他们的思想(Memmert,2007;Pagona&Costas,2008)，因此本研究采用托兰斯在1981年编制的活动与动作创造性思维测验（Thinking
+
+Creatively in Action and Movement,TCAM)，测量学龄前儿童的运动创造力（Torrance,1981)。该测验适用于3\~8岁的儿童(Zachopoulou et al.,2009)。TCAM是不仅是口头反应的，还通过动作反应进评分，已被证明是一种可靠的测量学龄前儿童创造力潜力的方法(Cooper, 1991; Zachopoulou et al., 2009)。
+
+该测验主要包括四个活动：活动一，有多少种方法；活动二，你能像(动物或者树)一样做动作吗；活动三，把纸杯扔进纸篓还有其他什么方法；活动四，可以用纸杯做什么。其中活动二的得分计为想象力得分，其他三个活动则均对儿童的流畅性和独创性进行计分。其中，流畅性分值是指想法的多少；独创性代表的是想法的独特程度，该分值是根据与评分标准里的常模进行赋值的，每个反应的分值在0到3分间；想象力分值以李克特五点量表为基础，在“无运动0"与“模拟非常像5"间变动。
+
+本测验由两名经过严格训练的研究生担任实验者，对儿童进行个别施测和评分。其中对于5岁儿童的创造力测评录像中选取 $20 \%$ 的录像建立一致性，两名评分者在流畅性、独创性、想象力原始分上的一致性相关系数分别为0.97、0.90、0.92。考虑到创造力的流畅性、独创性和想象力相关程度很高，特别是流畅性和独创性之间的相关，为了降低多重共线性的风险，对创造力三个维度进行了主成分分析，合成了一个创造力因子，它解释了总方差的 $8 0 . 2 7 \%$ 。
+
+# 2.4数据分析
+
+首先使用 SPSS22.0对数据的极端值、分布形态、缺失值等进行清理。接着使用SPSS22.0对所研究变量进行描述性统计分析，相关分析和回归分析。最后使用Mplus 7.0进行中介效应分析。
+
+原始数据的预处理方法、程序以及结果如下：
+
+首先对各个变量的极端值进行检验，采用箱图的方法进行分析，发现所有的变量均无极端值。对各个变量的缺失值分析发现，1岁广泛性焦虑、1岁分离焦虑、2岁广泛性焦虑、2岁分离焦虑、2岁一般认知、3岁掌握动机和5岁创造力的缺失率分布在$1 6 . 7 \% { \sim } 2 4 . 0 \%$ 之间。对4个时间点的所有变量进行Little's完全随机缺失检验，结果发现x$= 7 2 . 1 0$ ， $p = 0 . 3 1$ ，这表明所有变量的缺失由完全随机缺失导致，满足MCAR假设。所以在之后的回归和中介分析中，对缺失值采用极大似然估计中期望极大算法进行插补(EM插补，Acock,2005;Widaman,2006)。EM插补是极大似然估计的一种算法，基本思想是缺失数据含有与估计参数有关的信息,而参数反过来有助于寻找最可能的缺失值。
+
+最后，对数据进行了相关分析和链式中介效应分析。其中，链式中介分析采用偏差校正的非参数百分位Bootstrap方法来验证图1的模型。这种分析策略对于小样本到中等样本非常有用 (Shrout& Bolger,2002;Hayes,2013)。通过普通最小二乘回归分析，估计早期分离焦虑和广泛性焦虑对的5岁创造力总体影响和直接影响。对于间接影响，生成了偏置校正的 Bootstrap 置信区间(CI)和标准误差的 Bootstrap 估计 (Bootstrap 样本数 $= 1 0 0 0 )$ 。当置信区间不包含0时，则表明间接效应显著 (Shrout＆Bolger,2002)。
+
+# 3研究结果
+
+# 3.1各变量的基本情况以及性别差异检验结果
+
+对各个变量的基本情况进行描述，包括变量的样本量、最大值、最小值、平均数和标准差。并且，对各个变量的性别差异进行T检验，结果发现所有变量都不存在性别差异，结果见表1。考虑到各个变量上都没有性别差异，在之后的回归分析和中介效应检验中，不再将性别作为控制变量。
+
+表1变量的基本情况和性别差异检验结果  
+
+<html><body><table><tr><td>变量</td><td>样本量</td><td>最大值</td><td>最小值</td><td>男孩</td><td>女孩</td><td>t</td><td>p</td></tr><tr><td>1岁广泛性焦虑</td><td>76</td><td>1.50</td><td>0</td><td>0.45±.37</td><td>0.41±0.37</td><td>0.35</td><td>.72</td></tr><tr><td>1岁分离焦虑</td><td>76</td><td>1.67</td><td>0</td><td>0.76±.38</td><td>0.75±0.47</td><td>0.03</td><td>.97</td></tr><tr><td>2 岁广泛性焦虑</td><td>79</td><td>1.25</td><td>0</td><td>0.35±.31</td><td>0.39±0.34</td><td>0.49</td><td>.63</td></tr><tr><td>2岁分离焦虑</td><td>79</td><td>1.75</td><td>0</td><td>0.70±.36</td><td>0.65±0.40</td><td>0.54</td><td>.59</td></tr><tr><td>2岁一般认知</td><td>75</td><td>18</td><td>6</td><td>10.97±2.38</td><td>11.35±2.66</td><td>1 0.64</td><td>.52</td></tr><tr><td>3岁掌握动机</td><td>69</td><td>161</td><td>100</td><td>137.04±10.74</td><td>135.50±10.40</td><td>0.59</td><td>.56</td></tr><tr><td>5岁流畅性</td><td>75</td><td>82</td><td>6</td><td>30.33±14.90</td><td>34.42±18.09</td><td>一 1.03</td><td>.31</td></tr><tr><td>5岁独创性</td><td>75</td><td>114</td><td>3</td><td>41.27±26.15</td><td>46.02±27.43</td><td>一 0.75</td><td>.46</td></tr><tr><td>5岁想象力</td><td>75</td><td>22</td><td>10</td><td>16.63±2.71</td><td>16.38±2.44</td><td>0.43</td><td>.67</td></tr><tr><td>5岁创造力</td><td>75</td><td>2.42</td><td>- 1.66</td><td>- 0.08±.99</td><td>0.05±1.02</td><td>一 0.56</td><td>.58</td></tr></table></body></html>
+
+# 3.2广泛性焦虑、分离焦虑与一般认知、掌握动机和创造力的相关分析结果
+
+各个变量相关分析结果如表2所示，1岁时的广泛性焦虑与1岁的分离焦虑之间相关显著 $_ { r = 0 . 4 8 }$ ， $\mathbf { \sigma } _ { p = 0 . 0 0 1 }$ )，2岁的广泛性焦虑与2岁的分离焦虑之间的相关显著 $( r =$ 0.42， $p = 0 . 0 0 1 \mathrm { \Omega }$ )，且1岁的广泛性焦虑与2岁的广泛性焦虑 $( r = 0 . 3 1$ ， $p = 0 . 0 1 \AA .$ 以及2岁的分离焦虑 $( r = 0 . 2 6$ ， $p { = } 0 . 0 3 )$ 之间显著相关，1岁的分离焦虑与2岁的分离焦虑有显著相关！ $( r = 0 . 2 9$ ， $ { p } = 0 . 0 2 )$ 。表明不同亚型的焦虑之间有显著的相关，且在时间上存在一定程度的稳定性。1岁的分离焦虑、2岁的广泛性焦虑以及2岁的分离焦虑与2岁的一般认知都有不同程度的相关 $( r = - 0 . 2 7 \sim - 0 . 2 1$ ， $p _ { s } = 0 . 0 3 \sim 0 . 0 8 \rangle$ 。2岁的广泛性焦虑和分离焦虑均与创造力有中度到强度的显著负相关 $( r = - 0 . 3 5 \sim - 0 . 3 8$ ， $p _ { s } = 0 . 0 0 2 \sim 0 . 0 0 5 )$ 。此外，母亲的受教育程度与儿童1岁的分离焦虑有显著相关（ $( r = - 0 . 2 4 \$ ， $p = 0 . 0 4 )$ ，母亲收入与儿童3岁的掌握动机显著相关 $( r = - 0 . 3 0$ ， $p = 0 . 0 2 )$ 。因此，在接下来的分析中，仅将母亲的受教育程度和收入水平作为控制变量进行分析。
+
+表2儿童早期广泛性焦虑、分离焦虑与一般认知、掌握动机和创造力的相关系数表  
+
+<html><body><table><tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td></tr><tr><td>1.广泛性焦虑T1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2.分离焦虑T1</td><td>0.48**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3.广泛性焦虑 T2</td><td>0.31*</td><td>0.11</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.分离焦虑T2</td><td>0.26*</td><td>0.29*</td><td>0.42**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.一般认知T2</td><td>0.20</td><td>- .22</td><td>0.27*</td><td>- 0.21+</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6.掌握动机T3</td><td>0.15</td><td>0.001</td><td>0.38**</td><td>-0.1</td><td>0.22+</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7.创造力T4</td><td>0.22</td><td>0.18</td><td>0.35**</td><td>0.38**</td><td>0.16</td><td>0.39**</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>8.母亲受教育程度T1</td><td>0.12</td><td>0.24*</td><td>0.01</td><td>0.05</td><td>0.03</td><td>0.04</td><td>0.01</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>9.父亲受教育程度T1</td><td>0.13</td><td>-0.1</td><td>0.02</td><td>0.12</td><td>0.002</td><td>.00</td><td>0.05</td><td>0.38**</td><td></td><td></td><td></td><td></td></tr><tr><td>10.母亲收入T1</td><td>0.05</td><td>一 0.18</td><td>0.02</td><td>0.07</td><td>0.06</td><td>- .30</td><td>0.08</td><td>0.31**</td><td>0.29*</td><td></td><td></td><td></td></tr><tr><td>11.父亲收入T1</td><td>0.16</td><td>0.13</td><td>- 0.06</td><td>0.07</td><td>0.13</td><td>0.14</td><td>0.03</td><td>0.35**</td><td>0.38**</td><td>0.57**</td><td></td><td></td></tr><tr><td>12.母亲敏感性T1</td><td>0.02</td><td>0.05</td><td>0.02</td><td>0.06</td><td>0.03</td><td>.00</td><td>0.12</td><td>0.02</td><td>0.02</td><td>0.09</td><td>0.01</td><td></td></tr></table></body></html>
+
+注： $^ { + } p < . 1 0 , ^ { * } p < . 0 5 , ^ { * * } p < . 0 1 , ^ { * * * } p < . 0 0 1$ 。T1表示1岁，T2表示2岁，T3表示3岁，T4表示5岁。
+
+采用分层回归分析考察儿童早期焦虑、一般认知以及掌握动机对创造力的预测。在该分析及之后的分析中，分别将14个月和24个月的广泛性焦虑和分离焦虑合成儿童早期广泛性焦虑和分离焦虑两个指标。该分析包括两个模型，每个模型分四个步骤：幼儿14个月时母亲的受教育水平和收入进入第一层，广泛性焦虑或分层焦虑进入第二层，随后2岁一般认知进入第三层，3岁掌握动机进入第四层。表3结果表明，广泛性焦虑和分离焦虑解释了 $1 7 \% { \sim } 2 0 \%$ 的创造力的变异，一般认知则对创造力没有直接显著的贡献，掌握动机解释了 $6 \% { \sim } 1 3 \%$ 的创造力的变异。
+
+表3预测创造力的的分层回归分析  
+
+<html><body><table><tr><td rowspan="2">预测变量</td><td colspan="3">创造力T4</td><td colspan="3">创造力T4</td></tr><tr><td>β</td><td>B(SE)</td><td>△R²</td><td>β</td><td>B(SE)</td><td>△R²</td></tr><tr><td>第一步</td><td></td><td></td><td>0.01</td><td></td><td></td><td>0.01</td></tr><tr><td>母亲受教育程度T1</td><td>0.04</td><td>0.04(0.10)</td><td></td><td>0.04</td><td>0.04(0.10)</td><td></td></tr><tr><td>母亲收入 T1</td><td>-0.10</td><td>- 0.08(0.08)</td><td></td><td>- 0.10</td><td>- 0.08(0.08)</td><td></td></tr><tr><td>第二步</td><td></td><td></td><td>0.16***</td><td></td><td></td><td>0.17***</td></tr><tr><td>广泛性焦虑T1&T2</td><td>-0.40***</td><td>- 0.45(0.11)</td><td></td><td></td><td></td><td></td></tr><tr><td>分离焦虑T1&T2</td><td></td><td></td><td></td><td>-0.42***</td><td>- 0.47(0.11)</td><td></td></tr><tr><td>第三步</td><td></td><td></td><td>0.01</td><td></td><td></td><td>0.01</td></tr><tr><td>一般认知 T2</td><td>0.12</td><td>0.05(0.04)</td><td></td><td>0.12</td><td>0.05(0.04)</td><td></td></tr><tr><td>第四步</td><td></td><td></td><td>0.06**</td><td></td><td></td><td>0.11***</td></tr><tr><td>掌握动机T3</td><td>0.28**</td><td>0.02(0.01)</td><td></td><td>0.36***</td><td>0.03(0.01)</td><td></td></tr></table></body></html>
+
+注： $^ { * } p < . 0 5 , ^ { * * } p < . 0 1 , ^ { * * * } p < . 0 0 1$ 。T1表示1岁，T2表示2岁，T3表示3岁，T4表示5岁。
+
+# 3.3一般认知和掌握动机的多重中介效应分析结果
+
+# 3.3.1广泛性焦虑和创造力之间的链式中介机制分析
+
+广泛性焦虑预测创造力的链式中介模型为饱和模型。模型结果显示，儿童早期的广泛性焦虑显著地负向预测了2岁的一般认知 $( \mathrm { a } _ { 1 } = - 0 . 3 0 , p < 0 . 0 0 1 )$ ，2岁的一般认知对3岁的掌握动机（ $\mathrm { \hat { d } } _ { 2 } = 0 . 1 5$ ， $p { = } 0 . 0 7 )$ 的预测呈边缘显著，而3岁的掌握动机正向预测了5岁的创造力 $( \mathsf { b } _ { 2 } = 0 . 3 2$ ， $p { = } 0 . 0 0 1 \}$ 。Bootstrap 估计显示，儿童2岁的一般认知和3岁的掌握动机的链式中介作用是显著的 $( B = - 0 . 0 2 , 9 5 \% \mathrm { C I } [ - 0 . 0 5 , ~ - 0 . 0 0 2 ] )$ ，表明该间接效应（广泛性焦虑 ${  } 2$ 岁一般认知 $ 3$ 岁掌握动机 $ 5$ 岁创造力)作用显著 (温忠麟,叶宝娟,2014)。此外，儿童早期的广泛性焦虑可以直接负向预测儿童5岁的创造力 $\mathrm { ( c ^ { \prime } } = - 0 . 2 9$ ， $p { = } 0 . 0 0 3 \mathrm { ; }$ ,或者通过负向预测3岁的掌握动机 $\left( \mathbf { a } _ { 2 } = - 0 . 2 7 \right.$ ， $p { = } 0 . 0 0 4 )$ ，进而影响儿童5岁时的创造力，该中介路径的bootstrap 估计的置信区间是显著的 $( B = - 0 . 0 9 , 9 5 \% \mathrm { C I } [ - 0 . 1 9 , ~ - 0 . 0 3 ] )$ ，表明掌握动机的简单中介作用成立。除此之外，其他中介路径均不显著。虽然在相关结果中，2岁一般认知能力和3岁掌握动机是不相关的，但二者的链式中介作用是显著的。这可能是因为加入母亲收入这个控制变量以及其他模型变量之后所导致的关系增强的遮掩/抑制效应 (suppression effect，MacKinnon et al., 2000)。
+
+![](images/11afe9dbc3f3cb41f02e662102e9aadeba45a20483b89a1b13fc444e02f7f95e.jpg)  
+图2学步期广泛性焦虑对学龄前期创造力的链式中介路径图
+
+注： $^ + p <$ .10, $^ { * } p < . 0 5$ $^ { * * } p < . 0 1$ $^ { * * } p < . 0 0 1$ 。T1表示1岁，T2表示2岁，T3表示3岁，T4表示5岁
+
+# 3.3.2分离焦虑和创造力之间的链式中介机制分析
+
+分离焦虑预测创造力的链式中介模型为饱和模型。模型结果显示，儿童早期的分离焦虑显著地负向预测了2岁的一般认知 $( \mathsf { a } _ { 1 } = - \mathsf { 0 } . 3 1 , p < 0 . 0 0 1 )$ ，2 岁的一般认知正向预测了3岁的掌握动机（ $\mathrm { \hat { d } } _ { 2 } = 0 . 2 5$ ， $p = 0 . 0 1 \}$ ，最终3岁的掌握动机正向预测了5岁的创造力（ $( { \mathsf b } _ { 2 } =$ 0.42， $p < 0 . 0 0 1 \AA ,$ 。Bootstrap 估计显示，儿童2岁的一般认知和3岁的掌握动机的链式中介作用是显著的 $( B = - 0 . 0 3 , 9 5 \% \mathrm { C I } [ - 0 . 0 9 , \mathrm { ~  ~ { ~ - ~ } ~ } 0 . 0 1 ] )$ ，表明该间接效应(分离焦虑 $^ {  2 }$ 岁一般认知 $^ {  3 }$ 岁掌握动机 $ 5$ 岁创造力)作用显著。此外，儿童早期的分离焦虑可以直接负向预测儿童5岁的创造力（ $( \mathrm { c } ^ { \prime } = - 0 . 4 3$ ， $p < 0 . 0 0 1 )$ 。其他两条简单中介路径均不显著。
+
+![](images/dd6a2c8a7dc749f6d76f38c377575edcb7280616c82fdeb9d3058715d3151903.jpg)  
+图3学步期分离焦虑对学龄前期创造力的链式中介路径图
+
+注： $^ + p <$ .10, $^ { * } p < . 0 5$ $^ { * * } p < . 0 1$ $^ { * * * } p < . 0 0 1$ 。T1表示1岁，T2表示2岁，T3表示3岁，T4表示5岁
+
+# 4讨论
+
+以往有关焦虑和创造力之间关系的研究证据大多来自大龄儿童、青少年和成年人的横断研究，本研究采用纵向追踪研究设计，从学步期表现出的两种焦虑亚型（广泛性焦虑和分离焦虑）出发，考察两种亚型对学前期儿童创造力的长时影响及其作用机制。首先，本研究发现婴幼儿期焦虑问题已经存在了亚型分化的趋势，并在同一时间点呈现中等强度的相关，同一亚型在两个时间点上存在较低到中等程度的相关，表明焦虑亚型的同时间点的共发性和跨时间点的稳定性；其次，儿童学步期的广泛性焦虑和分离焦虑以及掌握动机都对学前期（5岁）创造力有显著的预测作用，而一般认知对创造力并没有直接的预测作用；进一步的链式中介分析表明，个体的一般认知和内部掌握动机在广泛性焦虑或分离焦虑与创造力之间起了链式中介作用，该结果验证了Ulvund(1980)的观点，即在个体认知不断提升发展的过程中，动机在其中起了重要作用；此外，广泛性焦虑也通过直接影响个体的内部掌握动机，从而影响了创造力的发展。
+
+相关分析结果表明，1\~2岁婴幼儿的广泛性焦虑和分离焦虑在同一时间点上表现出中等强度的相关，表明在婴幼儿时期，焦虑已经开始分化，但它们之间存在一定的共发性在不同时间点的同一焦虑亚型也表现出低至中度的相关，表明在婴幼儿时期焦虑发展并没有达到高强度的稳定性，这与以往研究一致。例如，一项针对0\~2岁的婴幼儿焦虑发展轨迹的研究发现，母亲报告的婴儿焦虑在婴儿5个月大时开始出现(Cotéetal.,2009)，但焦虑的发展轨迹大致分为三类：低焦虑组几乎保持稳定；中度上升组在2.5岁之前几乎保持稳定，但在 $2 . 5 { \sim } 3 . 5$ 岁之间有急剧上升，然后趋于下降，到4.5岁又呈上升趋势；高上升组从 $1 . 5 { \sim } 3 . 5$ 岁之间一直保持高速率的增加趋势，在 $3 . 5 { \sim } 4 . 5$ 岁之间有所下降，进而又开始上升。从该研究结果可以看出，婴幼儿时期的焦虑发展并不均衡。本研究中两个时间点的分离焦虑只达到了较低强度的相关，这可能受到多种因素的影响，如父母焦虑(Sterba et al.,2007)，儿童气质 (Bosquet & Egeland,2006; Guerin et al.,1997)，家庭社会经济地位(Gilliom& Shaw,2004)等。这些较低相关的结果也表明了儿童早期焦虑状态的可塑性，通过改善家庭系统相关的措施，可能会降低儿童焦虑的程度。目前关于婴幼儿时期不同亚型的焦虑的研究较少，未来对于儿童焦虑的研究应更多聚焦于低龄儿童，特别是进一步探究不同亚型焦虑的发展轨迹。
+
+本研究也发现，儿童学步期表现出来的广泛性焦虑、分离焦虑都可以直接负向预测 5岁儿童的创造力，与之前研究结果一致(Acedo-Baquedano&Acedo-Lizarraga,2012;Kircaburun etal.,2020)。根据注意控制理论的假设，焦虑会破坏抑制功能和转换功能的效能，进而破坏注意控制的效能，从而对高级认知能力产生消极影响。在本研究的创造力任务中，要求个体对平时常见的任务（如从A地到达B地）采用多种不同的方式完成，或者对平时常见的用具（如纸杯）想出多种用途。在这些任务中，个体需要抑制惯性思维的冲动，从操作空间提取经验或有效信息，然后将注意力转换到任务本身，将经验或有效信息与任务进行匹配，从而形成新颖的解决方案。虽然注意控制理论建立在焦虑特质或焦虑症状影响同一时间上认知任务表现的基础上，但本研究结果扩展了该理论的适用范围，即学步期的焦虑也会对个体的认知产生长时的负面影响。研究者认为，环境因素对生理的影响往往是慢性的、长期的，通过逐步改变机体的稳态对身体健康造成影响(聂瑞虹 等,2015)。此外，根据生物神经系统模型，儿童的压力或不良的生活经验都会引发一种特定的情绪，导致HPA轴产生应激反应。学步期的特质焦虑（即广泛性焦虑）对广泛的社会环境都存在应激倾向，从而导致皮质醇分泌的失调 (Miller etal.,2007)，这种失调可能对个体身体健康、行为问题、认知能力和情绪调节能力等产生影响(Blair et al.,2011;Chrousos,2009; Fries et al.， 2005；Lopez-Duran et al.， 2009； Sapolsky et al.，2000;Zalewski etal.,2012)。分离焦虑是一种针对与依恋对象分开的一种焦虑，随着年龄增加，儿童对这一事实的理解更加深刻，这种理解被证明是“一个潜在的终生紧张源”(Bretherton&Waters,1985)。3\~5岁儿童的分离焦虑达到顶峰(罗增让,2002)，一直到青春期才有所缓解。本研究虽然没有设置实验情境触发儿童的分离焦虑，但早期的分离焦虑源一直存在，并且会对儿童5岁时的创造力表现产生负向的预测作用。
+
+除了广泛性焦虑和分离焦虑，儿童3岁时的掌握动机也对创造力有显著的贡献，这与以往基于青少年的相关研究结果一致(师保国，申继亮,2007)。在创造力的组成框架中，Amabile(1996)强调，个体在具备产生创造性产出的能力的基础上，能否生产出新颖的产品很大程度上取决于完成任务的内部动机(Csikszentmihalyi,1996)。掌握动机是学步儿期发展出的一种重要的内部动机，它不是静态、稳定、单一的特质，是复杂、可塑的过程。自我决定理论（Self Determination Theory, SDT,Deci& Ryan,2000)指出，儿童是主动的个体，他们的行为由内部动机所激发，会自发地探索环境、掌握新技能、寻求挑战、发展自己。3岁儿童掌握动机的特点是更加专注于目标，将结果与目标进行对比，从而进行对任务完成度的评估。儿童自我探索的过程赋予他们积极的反馈，反过来又会促进他们的好奇心和探索欲望，激发出更高的掌握动机，这些环境刺激和特质在创造力的培养中也是不可或缺的 (Oden,1968)。另外，本研究还发现了个体内部掌握动机在广泛性焦虑和创造力之间的简单中介作用，即广泛性焦虑负向预测了掌握动机(如Huang et al.,2016)，进而正向预测5岁的创造力。这一结果不仅与之前的研究相一致(Chen etal.,2021)，也支持了Amabile等 (2012)提出的创造力内在动机假说。但在分离焦虑和创造力的关系中没有发现内部掌握动机的简单中介作用。从临床诊断标准来看，广泛性焦虑指的是对日常生活中的一些主题、或者事件有超过6个月以上的难以控制的担忧 (DSMIV,APA,1994)，这可能会导致高广泛性焦虑的个体常常对环境中的负性情绪信息表现出选择性注意的倾向，如消极的自我状态，从而增加个体减少焦虑状态的动机 (Eysenck et al.,2007)，直接影响个体的掌握动机，进而影响创造力。分离焦虑是指对真实或想象的与依恋对象分离的异常反应 (Masi etal.,2001)，更大程度上是指向照顾对象焦虑。而掌握动机考察的是儿童解决挑战性认知问题的愿望，这种指向照顾对象的焦虑可能会直接影响认知发展，但可能不会直接影响儿童探索、理解和控制环境的内在欲望。未来研究可以采用情绪启动的研究范式，诱发孩子的分离焦虑，在焦虑状态下考察是否会通过影响孩子的内部掌握动机，进而影响认知任务的表现。
+
+关于认知与创造力的关系，本研究没有发现认知对创造力有直接的预测作用，而进一步的链式中介模型结果表明，一般认知能力通过影响掌握动机，进而影响了创造力的发展。整合这些结果，验证了Ulvund(1980)的观点：即动机在认知发展中是很重要的。Ulvund(1980)提出在皮亚杰的认知发展阶段理论和Hunt的不一致原则中，都暗含了动机原则，认知和动机是交织存在的：当个体遇到不一致情境时，对新异刺激的判断及同化，都需要一定的认知基础，而认知发展要从一个阶段发展到更高阶段，动机起了很重要的作用。本研究在一定程度上支持了Ulvund的观点，即2岁的一般认知能力是3岁掌握动机的先决条件。尤其是，由学步期的广泛性焦虑或分离焦虑引起的一般认知能力发展的不均衡，并不能直接预测高级认知能力，即创造力，而是通过3岁的掌握动机对其间接产生影响。以往关于焦虑影响认知表现的文献，大多从以注意机制为基础的加工效能理论(Eysenck etal.,2007)和认知干扰理论(Tobias,1985)进行探讨。这些理论认为，高焦虑者在主动调节注意资源的分配上有缺陷，导致其更容易陷入到个体负面情绪信息中，难以转移和脱离。而低焦虑个体将更多的注意力分配到任务本身 (Tobias,1985)，他们拥有更强的注意控制能力，能够更好地抑制定式思维，更加灵活地运用、转换自己的注意力，从而提高在创造力任务中的表现。本研究虽没有对儿童的认知加工过程进行研究，但贝利认知分量表的条目涵盖了探索、表征、推理、记忆等认知过程，它们是注意分配、中央执行等这些高级的认知过程发展的基础。此外，有研究者认为，焦虑所产生的担忧等负面情绪会消耗认知资源，并且会对儿童的前额叶皮层或其他神经区域产生需求，复杂的认知任务可能对脑区之间的联结需求较高，而儿童大脑发育尚不完善，其表现可能会比成年人更差 (Byron& Khazanchi,2011)。因此，本研究结果在某种程度上也支持了加工效能理论和认知干扰理论。此外，以往一些横断研究表明，焦虑个体会对负性刺激有注意偏向（Bar-Haimetal.,2007）；而一般认知能力受损的焦虑个体可能会关注自我的消极感受，无法专心投入到认知任务中，也很难对任务进行深度加工，体验不到攻克难关的乐趣（张景焕等，2011）。因此，在面对创造力这种需要整合以往经验和当前情境的复杂任务中，高焦虑个体没有足够的认知资源进行信息加工，即注意控制理论提到的中央执行功能受损（Eysenck etal.,2007）。本研究只是从行为表现层面观测到以上变量间的关系，而没有对儿童认知加工过程的发展进行探讨，对于以往横断研究采用的解释模型是否适用于本研究的低龄儿童尚不清楚。本研究也没有纳入相关年龄点的HPA系统活动特征分析，未来研究可以考虑采用脑成像或事件相关电位、幼儿HPA系统活动特征等相关方法与技术，多水平验证情绪对认知加工过程以及动机的影响，并考察以上关系在时间上的动态变化过程。
+
+本研究通过5年的追踪测查，发现儿童学步期焦虑对5岁儿童创造力的影响以及一般认知和内部动机的中介机制。这提示家长要敏感地对儿童早期焦虑进行识别，并及时给予干预。有研究认为，儿童的焦虑与父母的侵扰控制的养育行为 (Knappe etal.,2012)、过度保护反应（Ollendick&Benoit,2011)以及对孩子缺乏温暖性(Markus et al.,2003)、拒绝的态度(Knappe et al.,2012)有关。由于认知的发展与大脑皮层的成熟有关(Davidson etal.,2006)，而大脑皮层中突触的形成、修剪和髓鞘化是依赖外部经验的(Rosen et al,2019)。因此，父母的教养方式等外部环境的变化可能导致儿童出现焦虑症状，从而影响认知发展。此外，链式中介结果提示家长，对于有焦虑症状的儿童，可以通过训练一般认知能力，如工作记忆、动作训练等，可以提高儿童在任务中的卷入程度和掌握动机，从而达到提升高级认知功能的目的。最后，本研究还强调了掌握动机在广泛性焦虑和创造力之间的重要性。由于广泛性焦虑存在随年龄增长而增长的趋势 (Broeren et al,2013)，以及掌握动机对认知(Hausercram et al.,2001)、学业表现(Broussard& Garrison,2004;Jozsa&Barrett,2018)的影响，提示家长应避免通过外部奖励的方式鼓励儿童在任务中的卷入程度，这会降低儿童完成任务的内部动机，最终可能影响创造力以及其他认知行为的表现。
+
+虽然本研究从样本群体年龄和研究问题两个角度拓展了以往研究的结果，但仍有几点不足：第一，本研究的样本量较小，且样本均来自于北京，家庭社会经济地位都处于较高水平，使得本研究结果的推广性受到限制。在未来的研究中应该扩大样本来源的多元性，比如对于我国农村留守儿童而言，长期处于分离焦虑的状态，对创造力的影响路径可能会有不一样的结果。第二，儿童的广泛性焦虑、分离焦虑和掌握动机均由母亲报告。未来的研究可以结合多主体报告形式，或者采用实验室行为观察和测验任务的形式来收集数据，以增强数据分析结果的稳健性。第三，与以往研究相比，本研究验证了生命早期焦虑对创造力的影响及其长时作用，但同时由于年龄限制，对认知过程的发展在两者关系中所起的作用没有进行探讨。未来研究应该结合神经影像手段，采用适宜巧妙的实验范式对低龄儿童的认知过程进行探讨，验证注意分配理论、认知干扰理论等在儿童样本中是否也同样成立。第四，本研究的结果提示儿童早期焦虑对于创造力具有纵向预测作用，需要注意的是本研究中创造力的测量仅采用了发散思维测验中适合于学龄前儿童的创造力 (Torrance,1981)。虽然该测量方式也在中国样本中被证明具有良好的信效度(Wang&Dong,2019)，但是未来的研究可以进一步采用其他测量方式（比如图画测验或语言测验）验证结果的稳健性。此外，有研究表明，儿童创造力的发展在不同年龄上的侧重点有所不同。学前儿童创造力更侧重于创造力过程的发展，而他们的创造力产品则相对凌乱且缺乏必然联系；年长儿童和成年人的创造力更加以事实为基础，更富逻辑性、丰富性以及有意性 (张文新,谷传华,2004)。未来的研究需要探究更加广泛的儿童年龄跨度下，早期焦虑对于创造力不同方面的预测作用。
+
+# 5结论
+
+本研究得到结论如下：(1)儿童学步期焦虑（广泛性焦虑和分离焦虑）可以显著负向预测其5岁时的创造力；(2)一般认知、掌握动机在儿童学步期焦虑（广泛性焦虑和分离焦虑）和学前期创造力之间的链式中介作用成立；（3）儿童学步期广泛性焦虑还可以通过直接负向预测掌握动机，从而对其5岁创造力的表现产生消极影响。
+
+# 参考文献
+
+Acedo-Baquedano, M. T. S.D.,& Acedo-Lizarraga, M.L. S.D. (2012). Relationships between state and trait anxiety with verbal and graphic creativity in students in compulsory secondary education. Electronic Journal ofResearch in Educational Psychology，10(3),1123-1138.   
+Acock,A. C. (2005). Working with missing values.Journal of Marriage and Family, 67(4),1012-1028.   
+Alfonso-Benllure,V.,Melendez,J. C.,& Garcia-Ballesteros,M. (2013).Evaluationofa creativity intervention program for preschoolers. Thinking Skills and Creativity, 10,112-120.   
+Allen,P.,Sommer,IE,Jardri,R.Eysenck,M.W.,&Hugdahl,K., (219).Extrinsicand default mode networks in psychiatric conditions: Relationship to excitatory-inhibitory transmiter balance and early trauma.Neurosci Biobehav Rev 99,90-100.   
+Amabile,T. M.. (1996). Creativity and innovation in organizations. Harvard Business Review.   
+Amabile,T. M.,& Pillmer, J. (2012). Perspectives on the social psychology of creativity. Journal of Creative Behavior, 46(1), 3-15.   
+American Psychiatric Association. Diagnostic and statistical manual for mental disorders. 4th ed. Washington, DC: American Psychiatric Association, 1994.   
+Barch,D.M.,Yodkovik,N.,Sypher-Locke,H.,& Hanewinkel,M.(2Oo8).Intrinsic motivation inschizophrenia: relationships to cognitive function,depresson,anxiety,and personality. Journal of Abnormal Psychology, 117(4), 776-787.   
+Bar-Haim ，Y.，Lamy，D.，Pergamin，L.，Bakermans-Kranenburg，M.J.，& van Ijzendoorn M.H.(2O07). Threat-related attentional bias in anxious and nonanxious individuals: A meta-analytic study. Psychological Bulletin,133,1-24.   
+Barker,H.,Munro,J.,Orlov,N.,Morgenroth,E,Moser,J.,Eysenck,M.W.,etal.,(18). Worrysassociatedwith ineffcient functional activity and connectivity in prefrontal and cingulate cortices during emotional interference.Brain and Behavior;8(12),1-9.   
+Basten,U.,Stelzel, C.,& Fiebach, C.J.,(2012). Trait anxietyand the neural eficiency of manipulation in working memory. Cognitive Affective Behavioral Neuroscience,12 (3),571-588.   
+Bayley,N. (2006). Bayley scales of infant and toddler development: Administration manual (3rd ed.). San Antonio, TX: Harcourt Assessment.   
+Blair, C., Granger, D.A.，Willoughby,M., Mils-Koonce,R., Cox, M., Greenberg,M.T.，..Fortunato,C.F. (2011). Salivary cortisol mediates efects of poverty and parenting on executive functions in early childhood. Child Development, 82(6),1970-1984.   
+Bosquet, M.B.，& Egeland, B.(2o06). The development and maintenance of anxiety symptoms from infancy through adolescence in a longitudinal sample. Development and Psychopathology,18,517-550.   
+Bretherton,I.,& Waters,E..(1985). Growing Points ofAttchment Theory and Research. Chicago (University of Chicago Press).   
+Broeren,S.,Muris,P.,Diamantopoulou,S.,& Baker,J.R. (2o13).Thecourse of childhood anxietysymptoms: developmental trajectoriesand child-related factors in normal children. Journal of abnormal child psychology, 41(1), 81-95.   
+Broussard, S.C.，& Garrison， M. B. (2004). The relationship between clasroom motivation and academic achievement in elementary-school-aged children. Family and consumer sciences research journal,33(2),106- 120.   
+Byron,K.,& Khazanchi,S.(2Ol1).A meta-analytic investigation of the relationshipof state and trait anxiety to performance on figural and verbal creative tasks.Personality and Social Psychology Buletin,37(2),269-283.   
+Chen,P.P.，Zhang,J.H.,Li, H. X.,& Fu,M.M.(2021).Relationships between Parenting Behaviors and Adolescents’Creativity in China: The Mediating Role of Autonomous Motivation. The Journal of psychology, 155(5),457-472.   
+Comte,M.,Cancel,A.,Coul,J.,Shon,D.,eyaud,E,&Boukezzi,S.,etal., (25).Efctof traitnietyo prefrontal control mechanisms during emotional conflict. Human Brain Mapping,36 (6),207-2214.   
+Cooper,E. (1991).Acritique of 6 measures for assessing creativity.Journal of CreativeBehavior; 25(3),194-204.   
+Cote,S.M.,Boivin,M.,Liu,X.,Nagin,D.S.,Zoccolilo,M.,& Tremblay,R.E. (209).Depressionandaniety symptoms: onset, developmental course and risk factors during early childhood. Journal of Child Psychology and Psychiatry, 50(10),1201-1208.   
+Chrousos, G. P. (2009). Stress and disorders of the stress system. Nature Reviews Endocrinology 5(7),374-381.   
+Csikszentmihalyi, M. (1996). The creative personality. Psychology Today,29(4), 36-40.   
+Davidson,M.C.,D Amso, Anderson,L.C.,& Diamond,A.. (20o6).Development of cognitive control and executive functions from 4 to 13 years: evidence from manipulations of memory, inhibition, and task switching. Neuropsychologia, 44(11),2037-2078.   
+Deci,E.L.,& Ryan,R. M.. (2ooo). The\"what\" and \"why\" of goal pursuits: human needs and the selfdetermination ofbehavior. Psychological Inquiry, 11(4),227-268.   
+Dietrich,A.. (2o04).The cognitive neuroscience of creativity.Psychonomic Buletin & Review,1(6),1011-1026.   
+Du, Y. (2018). Relationship between Children's Learning Motivation, Academic Engagement and Academic Achievement: Moderating Effect of Emotion (Unpublished Master dissertation). Hebei Normal University, Shijiazhuang.   
+[杜瑶.(2018).儿童学习动机、学习投入与学业成就的关系：情绪的调节作用 (硕士学位论文).河北师范大 学,石家庄.]   
+Eysenck,M. W.,& Calvo,M. G.. (1992). Anxiety and performance: the procesing efficiency theory. Cognition & Emotion, 6(6), 409-434.   
+Eysenck,M.W.， Derakshan， N.， Santos,R.，& Calvo，M. G. (2007). Anxiety and cognitive performance: attentional control theory. Emotion,7(2),336-353.   
+Fries，E.，Hesse，J.，Hellhammer,J.，& Hellhammer，D.H. (2005).A new view on hypocortisolism. Psychoneuroendocrinology, 30(10),1010-1016.   
+Gilliom, M.,& Shaw,D.S.(20o4). Codevelopment of externalizing and internalizing problems inearly childhood. Development and Psychopathology,16,313-333.   
+Guerin,D.W.,Allen, W.G.,& Craig,W.T. (1997). Diffificult temperament and behavior problems: A longitudinal study from 1.5 to 12 years.International Journal of Behavioral Development, 21,71-90.   
+Gul, A.,& Humphreys,G. W. (2014). The Relationship between Anxiety and Task Switching Ability. Global Journal of Human-Social Science Research,14,27-32.   
+Greaves-Lord,K.,Ferdinand,R.F.,Oldehinkel,A.J.,Sondeijker,F.,&Verhulst,F.C.. (2010).Higherortisol awakening response in young adolescents with persistent anxiety problems. Acta Psychiatrica Scandinavica, 116(2), 137-144.   
+Hale, W. W.，Raijmakers, Q.，Muris,P.，Hoof,A. V.,& Meeus, W.. (2008). Developmental trajectories of adolescent anxiety disorder symptoms: a 5-year prospective community study. Journal of the American Academy of Child & Adolescent Psychiatry, 47(5),556-564.   
+Hausercram,P.,Warfield,M.,Shonkof,J.P.,Krauss,M.W.,&Overton, W.F. (201).Children withdisabiliies:a longitudinal study of child development and parent wellbeing. Monographs of the Society for Research on Child Development, 66,1-126.   
+Harter, S.，&Zigler,E..(1974). The assessment of effectance motivation in normal and retarded children. Developmental Psychology,10(2),169-180.   
+Hayes,A.F.(2o13). Introduction to mediation, moderation,and conditional process analysis: A regression-based approach. New York: Guilford Press.   
+Huang,Y.,Lv, W.，& Wu,J. (2016). Relationship between Intrinsic Motivation and Undergraduate Students’ Depression and Stress. Psychological Reports, 119(2), 527-538.   
+Hunt,J. M.. (1965). Intrinsic motivation and its role in psychological development. Nebraska Symposium on Motivation. Nebraska Symposium on Motivation,13,189-282.   
+Jennings K D. (1991). Early development of mastery motivation and its relation to the self-concept [C]. In M. Bullock (Ed.),The development ofintentional action: Cognitive,motivational and interactive processes. Contributions to human development (Vol. 22). Basel, Switzerland: Karger,1-13.   
+Jozsa,K.,& Barrett, K. C. (2018). Affective and social mastery motivation in preschool as predictors of early school success: A longitudinal study. Early Childhood Research Quarterly, 45, 81-92.   
+Kendall，Philip,Brady，Erika,& Verduin.(20o1). Comorbidity in childhood anxiety disordersand treatment outcome. Journal of the American Academy of Child & Adolescent Psychiatry, 40(7), 787-794.   
+Kircaburun, K.，Grifiths,M.D., Sahin,F., Bahtiyar,M., Atmaca,T.,& Tosuntas,S.B.(202O).The Mediating Role of Self/Everyday Creativity and Depression on the Relationship between Creative Personality Traits and Problematic Social Media Use among Emerging Adults. International Journal of Mental Health and Addiction, 18,77-88.   
+Knappe,S.,Beesdo-Baum,K.,Fehm,L.,Lieb,R.,& Witchen,H. (2012). Characterizing the associationbetween parentingandadolescentsocialphobia.JournalofAnxietyDisorders, 26， 608-616. https://doi.org/10.1016/janxdis.2012.02.014.   
+Laurin, J. C.,Joussemet, M., Tremblay, R.E.,& Boivin, M.. (2015). Early forms ofcontroling parenting and the development of childhood anxiety.Journal of Child and Family Studies,24(11),3279-3292.   
+Lin, C.D., Yang,Z.L.，& Huang, X. T. (2003). Dictionary of Psychology (in Chinese). Shanghai: Shanghai Education Science Press, 600.   
+[林崇德,杨治良,&黄希庭.(2003).心理学大辞典.上海教育出版社.600.]   
+Liu, W., Zhang, J. Q. & Che,H. B. (2020). The Relationship between 3\~4-Year-Old Children's Creative Personality and Temperament: A Cross-Lagged Regresson Analysis.Journal of Psychological Science, 43(3), 7.   
+[刘文,张嘉琪,&车翰博.(2020). $3 { \sim } 4$ 岁幼儿创造性人格与气质的交叉滞后分析.心理科学,43(3),7.]   
+Lopez-Duran,N.L., Kovacs,M.,& George, C.J. (2oo9). Hypothalamic-pituitary-adrenal axis dysregulation in depressed children and adolescents: A meta-analysis. Psychoneuroendocrinology, 34(9),1272-1283.   
+Lu, J.，Wen,H.，Wei,L.，& Lu,S.. (2005).The influence of the students'anxietyon their creativity. Acta Psychologica Sinica(06), 85-90.   
+[卢家楣,贺雯,刘伟,& 卢盛华.(2005).焦虑对学生创造性的影响.心理学报(06),85-90.]   
+Luo, Z.R.. (2002). A Study of Development in Separation Anxiety of Children. Psychological Development and Education(04), 65-69.   
+[罗增让.(2002).儿童分离焦虑的发展变化研究.心理发展与教育(04),65-69.]   
+Lupien,S.J.,Maheu,F.,Tu,M.,Fiocco,A.,& Schramek,T.E..(2007). The effects of stress and stress hormones on human cognition: implications for the field of brain and cognition. Brain Cogn,65(3),209-237.   
+MacKinnon,D.P., Krul, J.L., & Lockwood, C.M. (2ooo). Equivalence of the mediation, confounding and suppression effect. Prevention science,1(4),173-181.   
+MacTurk,R. H., Morgan, G. A.,& Jennings,K. D.(1995). Mastery motivation: origins,conceptualizations and applications.Advances in applied developmental psychology.Ablex Publising Corporation Norwood, New Jersey.   
+Markus,M.T.,Lindhout,I. E.,Boer,F.,Hoogendij,T.H.G.,&Arrndell,W.A.(2003).Factors of perceived parental rearing styles: The EMBU-C examined in a sample of Dutch primary school children. Personality and Individual Differences,34,503-519.   
+Masi,G.,Mucci, M.，& Millpiedi, S.(2001). Separation anxiety disorder in children and adolescents. CNS drugs, 15(2), 93-104.   
+Mcewen,B.S.. (2ooo).The neurobiology ofstress: from serendipity to clinical relevance. Brain Research,886(1- 2), 172-189.   
+Memmert, D. (2007). Can creativity be improved by an atention-broadening training program? An exploratory study focusing on team sports. Creativity Research Journal, 19(2-3),281-291.   
+Miler, G., Chen,E.,& Zhou,E.. (20o).If it goes up,must it come down? chronic stress and the hypothalamicpituitary-adrenocortical axis in humans. Psychological Bulletin,133(1),25-45.   
+Moran,G.,Pederson, D.R.,& Bento, S. (2010). MBQS-72 for Detailed Video Coding (2010).Retrieved Jan 8, 2012, from http://works.bepress.com/gregmoran/103   
+Morgan,G.A.， Busch-Rossnagel, N. A.， BarrettK. C.，& Wang,J. (2009). The Dimensions of Mastery Questionnaire (DMQ): a manual about its development, psychometrics, and use. Fort Collins: Colorado State University.   
+Morgan, G.A., Harmon,R.J.,& Maslin-cole, C.A.(1990). Mastery Motivation: Definition and measurement. Early education and Development,1(5),318-339.   
+Ng,E.L.,& Lee,K.. (2015).Effects of trait test anxiety and state anxiety onchildren's working memory task performance. Learning and Individual Differences, 40,141-148.   
+Nie,R.,Ying, X.U.,& Han,Z.. (2015). The relations between diurnal cortisol and children's psychosocial factors and problem behaviors.Advances in Psychological Science. 23(0o4), 591-601.   
+(聂瑞虹,许颖,&韩卓.(2015).皮质醇日常节律与儿童问题行为及心理社会因素的关系.心理科学进展, 23(004), 591-601.)   
+Oden,M. H. (1968). The fulfillment of promise: 40 year follow up of the Terman gifted group (Vol.77). Stanford University Press.   
+Ollendick,T.H.,& Benoit,K.E.. (20l1).A parent-child interactional model of social anxiety disorder in youth. Clinical Child andFamily Psychology Review,15(1),1-91.   
+Pagona,B.,& Costas,M.(2O08).The development of motor creativity in elementary school children and its retention. Creativity Research Journal, 20(1),72-80.   
+Pederson, D.R.,Moran G.,& Bento,S.(2009). Assessing maternal sensitivity andthe quality of mother-Infant interactions using The Maternal Behavior Q-Sort (MBQS). Pederson-Moran MBQS Manual. unpublished manuscript.Western University at Ontario, Canada.   
+Pederson,D.R.,Moran, G.,& Bento,S..(1999).Maternal behaviour Q-sort. Psychology Publications,60(2-3), 247-254.   
+Pederson,D.R.,Moran, G.,Sitko,C.,Campbell,K.,Ghesquire,K.,&Acton,H.(1990). Maternal sensitivityand the security of infant-mother attachment: A Q-sort study. Child Development, 61(6),1974-1983.   
+Piaget, J. (1952).The origin of intelligence in children. International University Press,New York.   
+Plotsky，P. M.，Owens，M.J.，& Nemeroff, C.B..(1998). Psychoneuroendocrinology of depression. hypothalamic-pituitary-adrenal axis. Psychiatric Clinics of North America, 21(2),293-307.   
+Ramos,B.P.,& Arnsten,A.F. (20o7).Adrenergic pharmacology and cognition: Focus on the prefrontal cortex. Pharmacology and Therapeutics, 113(3),523-536.   
+Rosen,M.L.,Amso,D.,& Mclaughlin, K.A.. (2019). The role of the visual association cortex in scaffolding prefrontal cortex development: a novel mechanism linking socioeconomic status and executive function. Developmental Cognitive Neuroscience, 39,1-46.   
+Sapolsky, R. M., Romero,L. M.,& Munck,A. U. (2oo0). How do glucocorticoids influence stress responses? Integrating permissive, suppressve, stimulatory,and preparative actions. Endocrine reviews,21(1),55-89.   
+Shi,B.G.& Shen,J.L. (2o07).The relationshipsamong familyses,intellgence,intrinsic motivation and creativity Psychological Development and Education. V23(1),30-34.   
+[师保国,& 申继亮.(2007).家庭社会经济地位、智力和内部动机与创造性的关系.心理发展与教育,V23(1), 30-34.]   
+Shrout,P.E.,& Bolger, N.. (2oo2). Mediation in experimental and nonexperimental studies: new procedures and recommendations. Psychological Methods,7(4), 422.   
+Spence,S.H.,Rapee,R., Mcdonald, C.，& Ingram, M.. (2001). The structure of anxiety symptoms among preschoolers. Behaviour Research and Therapy, 39(11),1293-1316.   
+Sterba,S.K., Prinstein, M.J.,& Cox, M.J. (20o7).Trajectories of internalizing problems across childhood: heterogeneity, external validity,and gender differences.Development and Psychopathology,19(O2),345-366.   
+Sternberg,R.J.,Amabile,T.M.,Lubart,T.I., et al. (Eds). (1999): Handbook of Creativity.New York: Cambridge University Press.   
+Tobias，& Sigmund. (1985). Test anxiety: interference,defective skills,and cognitive capacity. Educational Psychologist, 20(3),135-142.   
+Torrance,E.P..(1967). Understanding the fourth grade slump in creative thinking: [final report. Behavior Development, 443.   
+Torrance,E. P.(1981). Thinking creatively in action and movement. Benesville, IL: Scholastic Testing Service.   
+Turner,L.A.，& Johnson， B.(20o3).A model of mastery motivation for at-risk preschoolers.Journal of educational psychology, 95(3),495.   
+Ulvund,S.E.. (1980). Cognition and motivation in early infancy. Human Development, 23(1),17-32.   
+Wang, Z.& Dong, S. (2019). Autonomy as core of creativity and compliance: moderated moderation model of maternal parenting behavirs. Creativity Research Journal, 31(1), 74-82.   
+Wen,Z.L.，& Ye,B.J.. (2014).Analyses of mediating effects: the development of methods and models. Advances in Psychological Science, 22(5),731-745.   
+[温忠麟,&叶宝娟.(2014).中介效应分析:方法和模型发展.心理科学进展(05),5-19.]   
+Widaman, K.F.(206). Missing data: What to do with or without them. Monographs of the Society for Research in Child Development, 71(3),42-64.   
+Ye,P.,& Ma,Q.. (2012).The Characteristics and Laws ofthe Development of Creative Thinking of Children 2-6 Years Old. Studies in Early Childhood Education(O8),38-43.   
+[叶平枝,& 马倩茹.(2012).2-6岁儿童创造性思维发展的特点及规律.学前教育研究(08),38-43.]   
+Young,J. M.，& Hauser-Cram,P..(2O06).Mother-child interaction as a predictor of mastery motivation in children with disabilities born preterm. Journal of Early Intervention, 28(4),252-263.   
+Zachopoulou,E.,Makri, A.,&Polltou,E. (2o09).Evaluation of children's creativity: psychometric propertiesof torrance's 'thinking creatively in action and movement' test. Early Child Development and Care,179(3),317- 328.   
+Zalewski,M.,Lengua,L.J.,Fisher,P.A.,Trancik,A.,Bush,N.R.,& Meltzo,A.N. (2012).Povertyand single parenting: Relations with preschoolers' cortisol and efortful control. Infant and Child Development, 21(5), 537-554.   
+Zhang,J. D., Wang,H. S. Shi, S.H.,Huang, X.N.,Liu, G.Y.,Lian, G.L.,& Shi, J. X. (2009). Reliability and validity of standardized chinese version of urban infant-toddler social and emotional assessment. Early human development, 85(5),331-336.   
+Zhang,J. H.,Liu, G.R., Shi, W.W.,& Fu, X.J. (2011). On the relationship between motivating style and
+
+elementary students'creative thinking: the mediatingrole of autonomous motivation.Acta Psychologica Sinica, 43(10),1138-1150. [张景焕，刘桂荣，师玮玮，&付秀君.(2011).动机的激发与小学生创造思维的关系：自主性动机的中介作 用.心理学报,43(10),1138-1150.] Zhang,W. X.,& Gu, C.H..Developmental Psychology of Creativity (in Chinese). Hefei: Shanghai Education Science Press. [张文新,& 谷传华.(2004).创造力发展心理学.安徽教育出版社.]
+
+# Toddlers’Anxiety Predicts Their Creativity at The Age of Five: The Chain Mediation Effects of General Cognition and Mastery Motivation
+
+CHENG Tong1,2, CHENG Nanhual,2, WANG Meifang23, WANG Zhengyan1,2 DepartmentofPsychology,CenterforChildDevelopment,LeamingandCognitiveKeyLaboratory,CapitalNormalUersity Beijing looo48,China)( Collge of Elementary Education,Capital Normal University,Beijing l0o048,China)
+
+# Abstract
+
+Anxiety is an aversive emotional and motivational state occurring in threatening circumstances, mainly including general anxiety and separation anxiety in early childhood. General anxiety is a kind of trait anxiety relating to general susceptibility to anxiety， while separation anxiety belongs to the state anxiety determined interactively by trait and situational stress. Previous studies have demonstrated the negative effects of anxiety on creativity, but less is known about the mechanisms of these effect， particular the longitudinal effects of anxiety on creativity from toddlerhood to preschool period. Processing Efficiency Theory and Attentional Control Theory explained the effect of anxiety on cognition from the perspective of cognitive processing. Moreover, childhood anxiety may longitudinally affect later development of creativity through neuroendocrine system. That is,anxiety activates the hypothalamic-pituitary-adrenal axis (HPA axis) with releasing glucocorticoids, which are associated with the development of higher-order cognitive function. Thus, we assumed that anxiety in early childhood had a longitudinal adverse effect on later development of creativity. Further, the present study explored the mechanisms between early childhood anxiety and creativity in preschool period. The general cognitive ability, a foundamental component of creativity, and motivation may be candidate mediated variables. According to Piaget’s cognitive development theory, a necessary precondition for the development from one cognitive stage to a higher stage is that the individual encounters with discrepancies between the previous schema and the current stimulus, which lead to the motivation to achieve a new cognitive balance. These views suggested that cognition and motivation may be two closely intertwined processes， and general cognitive functions play a decisive role in motivation activation. For younger children, the motivation is reflected in the persistence on objects and people and so on, namely mastery motivation. Accordingly, a longitudinal study was designed to examine the relation between anxiety of toddlers and their creativity when they were 5 years old, and investigate the underlying mechanism by chain mediation effects of general cognitive function and mastery motivation.
+
+96 families (42 boys and 54 girls) were recruited from the local communities and child care clinics in urban areas of Beijing. At 14 and 25 months, infants’ general anxiety and eparated anxiety were reported by their mother with the Infant-Toddler Social and Emotional Assessment (ITSEA-Chinese version). When children were 25 and 38 months, children's general cognition and master motivation were evaluated using the Bailey Scale of Infant Development and Dimensions of Mastery Motivation Questionnaire in the laboratory respectively. Children's creativity was assessed by Thinking Creatively in Action and Movement (TCAM) when they were 61 months.
+
+Results showed that: (1） Both general anxiety and separate anxiety in the first two years of life negatively predicted motor creativity at preschool years directly. (2) The chain mediation effects of general cognitive ability at toddler period and mastery motivation at 3-year-old were significantly linking both types of anxiety to creativity. (3) The general anxiety could negatively predict mastery motivation, which in turn led to the decreased performance of creativity.
+
+Overall, our findings indicated the long-term impact of both general and separation anxiety in early childhood on creativity in preschool years. Path analysis confirmed the interwined process of cognition and motivation in the development of creativity. These results suggest that early identification of child anxiety as well as intervention for general cognition and master motivation would be conducive to the development of creativity.
+
+Key words General Anxiety， Separation Anxiety， General Cognition， MasteryMotivation, Creativity

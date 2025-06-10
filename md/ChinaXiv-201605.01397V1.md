@@ -1,0 +1,213 @@
+# A better experimental method to detect the sensitivity of cancer cells to anticancer drugs after adenovirus-mediated introduction of two kinds of p53 in vivo
+
+Hui Wangä，WeiYing Lia, BaiTang Lai a, XueHui Yanga, ChunYan Zhanga, JinZhao Lib and YunZhong Zhua
+
+$\pmb { p 5 3 }$ plays an important role in drug responses by regulating cell cycle progression and inducing programmed cell death. The C-terminal of $\pmb { p } \pmb { 5 3 }$ self-regulates the protein negatively; however,whether it affects the sensitivity of cancer cells to anticancerdrugs is unclear.In this study, two experimental methods were used to compare the sensitivity to anticancer drugs of human lung 8o1D cancer cells transfected with adenovirus bearing either full-length $\pmb { p 5 3 }$ or the deleted-Cterminal $\pmb { p } \pmb { 5 3 }$ in vivo.Adenovirus-mediated deliveriesof full-length or deleted-C-terminal $\pmb { p } \pmb { 5 3 }$ were performed after development of tumors (the first method) or by infection into cells before xenotransplantation (the second method). The results showed that infection with the deleted-Cterminal $\pmb { p } \pmb { 5 3 }$ increased 8o1D cell sensitivity to anticancer drugs in the second, but not in the first method,as indicated by greater tumor-inhibition rates. In addition, compared with the first method, the second method resulted in viruses with moreuniformly infected cells and the infection rates
+
+# between groups were similar. This yielded smaller within-group variations and greater uniformity among transplanted tumors.The second method could circumvent the difficulties associated with intratumoral injection. AntiCancer Drugs 26:852-859 Copyright $\circledcirc$ 2015 Wolters Kluwer Health, Inc.All rights reserved.
+
+Anti-Cancer Drugs 2015,26:852-859
+
+Keywords:drug sensitivity,experimental method,in vivo,p53 aCell Biology Laboratory,Department of Cellular&Molecular Biology, Beijing Tuberculosis and Thoracic Tumor Research Institute,Beijing Chest Hospital, Capital Medical University and bBiophysical Laboratory,Institute of Biophysics, Chinese Academy of Sciences,Beijing, China
+
+Correspondence to WeiYing Li, DSc,Cell Biology Laboratory,Department of Cellular& Molecular Biology,Beijing Tuberculosis and Thoracic Tumor Research Institute,Beijing Chest Hospital, Capital Medical University,No.97 Ma Chang, Tongzhou District,Beijing 101149,China Tel: $+ 8 6$ 10 8950 9372; fax: $+ 8 6$ 10 6954 0276;e-mail: lizh7173@gmail.com
+
+Received14January2015Revisedformaccepted25May2015
+
+# Introduction
+
+Cisplatin and paclitaxel have been used widely for the treatment of patients with lung cancer [1-3]; however, their efficiencies are only $2 5 \mathrm { - } 5 4 \%$ . This low efficiency is partly because of the development of drug resistance of cancer cells. The resistance mechanism is complex and remains unclear. Recent studies have shown that many factors affect the tolerance and sensitivity of cancer cells to chemotherapeutic drugs [4,5]. Among these factors, the tumor-suppressor gene $\phi 5 3$ plays an important role in regulating the sensitivity of cancer cells to drugs by blocking cell cycle progression and inducing programmed cell death [2,6]. As a transcription factor,the central domain of $_ { \mathit { p 5 3 } }$ targets specific DNA sequences and regulates the transcription of downstream target genes. Conversely，the central domain is regulated by many factors,including the C-terminus,which plays a negative role.Previous results have shown that lung cancer cells transfected with a deleted-C-terminal $\phi 5 3$ grow more slowly than those transfected with full-length $\phi 5 3$ in vitro [7]. Similar findingshave also been reported [8]. However, the studies of the effect of $\phi 5 3$ deleting
+
+C-terminal on the sensitivity of cancer cells to drugs have not beenreported.
+
+The xenograft in nude mice refers to human cells or primary tissues that are inoculated into immunodeficient nude mice subcutaneously. The method plays an important role in the research of tumor biology, drugs and gene therapy，etc.and has been used for decades [9]. This method has some shortcomings after it has long been used and evaluated. For example, the experimental results are not completely consistent with the clinical outcomes; the research fields have some limitations;and some difficulties exist in the operation process so that they affect the accuracy of experimental results.In view of these existing problems,the method is also improving [10-13]. To solve the problem of difficulties in the operation process, the method was improved.
+
+In this study,we compared the sensitivities of cancer cellstransfectedwitheither adenovirus-packaged deleted-C-terminal $_ { \mathit { p 5 3 } }$ or full-length $_ { \mathit { p 5 3 } }$ to cisplatin and paclitaxel in vivo. Two techniques were used to deliveradenoviruses,referred toas the‘first'and‘second' methods.In the first method,adenovirus-packaged fulllength $\rho 5 3$ or deleted-C-terminal $\rho 5 3$ were injected into xenograft tumors,respectively,and the drugs were then administered.In the second method,tumor cells were
+
+DOI:10.1097/CAD.0000000000000259 infectedwiththreeadenovirusesbeforexenotransplantation and the drugs were then administered when the tumors became palpable. The results of the two methods were not exactly compatible.Infection with $\phi 5 3$ deleting the C-terminal increased the sensitivity of 801D cells to anticancer drugs in the second, but not the first method.In addition,the second method showed more advantages.
+
+# Materials and methods 801D cell line and p53 gene status
+
+801D cells (kindly provided by the People's Liberation Army General Hospital) were cultured in 164O medium supplemented with $1 0 \%$ fetal bovine serum. The $\phi 5 3$ gene in these cells shows loss of heterozygosity in the 248th codon and a $\mathrm { C G G { \to } C T T }$ transversion [7].
+
+# BALB/c nude mice and chemotherapeutic drugs
+
+All animal experiments and maintenance conformed to the guidelines of both the Animal Care and Use Committee and the American Association of Laboratory Animal Care. Female ${ \mathrm { B A L B / c } }$ nude mice (Vital River, Beijing,China) aged 4-6 weeks (average weight $2 0 \mathrm { g } )$ were used in this study. These mice were raised in a pathogen-free environment at a temperature of $2 1 \pm 2 ^ { \circ } \mathrm { C }$ and a relative humidity of $3 0 \mathrm { - } 7 0 \%$ . Specialized personnel were responsible for their feeding.
+
+Cisplatin was purchased from Qilu Pharmaceutical Factory (Jinan, China) and paclitaxel was purchased from Beijing Sihuan Medical Science and Technology Company (Beijing,China). The two drugs were dissolved in saline to a concentration of $0 . 3 \mathrm { m g / m l }$
+
+# Construction of the recombinant $\pmb { p 5 3 }$ adenovirus
+
+Recombinant $_ { \mathit { p 5 3 } }$ adenoviral plasmids were constructed using the Ad-Track-Easy transgenic system as described previously [6]. Two deficient adenoviruses carrying either full-length $\rho 5 3 \left[ \phi 5 3 ( \mathrm { w t } ) \right]$ or the deleted-C-terminal $\phi ^ { 5 3 } \ [ \phi 5 3 ( \mathrm { d e l } ) ]$ were prepared. The two recombinants, plus the empty vector,were then infected into 293 packaging cells,together with the defective adenovirus, to generate the control adenovirus (Ad), Ad $\mathbf { \nabla } \cdot \phi ^ { 5 3 } ( \mathrm { d e l } )$ ,and $\mathrm { A d } { - } \phi 5 3 ( \mathrm { w t } )$ [14].Virus concentrations were determined by multiplicity of infection (MOI) [6].
+
+# Preparation of the $\pmb { p 5 3 }$ recombinant adenovirus
+
+Two recombinants were constructed using the TrackEasy plasmid vector: Track-Easy-p53(del) and TrackEasy-p53(wt). Track-Easy alone served as an emptyvector control. Track-Easy- $\cdot \phi ^ { 5 3 } \mathrm { ( d e l ) }$ contained a truncated form of $\rho 5 3$ in which the amino acids 356-393 of its C-terminal and all noncoding sequences after the stop codon were deleted. Track-Easy- $\cdot \phi ^ { 5 3 }$ (wt) contained wildtype $\rho 5 3$ .The two recombinants plus the empty vector were transfected into 293 cells using lipofectamine to prepare three deficient adenoviruses: Ad-p53(del),Ad$\phi ^ { 5 3 ( \mathrm { w t } ) }$ ，and Ad (control) [14].
+
+# Examination of the infected efficiencies of $\pmb { p 5 3 }$ reagents Cell proliferation assay
+
+Tumor cells (30oO/well) were seeded in flat-bottom 96-well plates. Cell proliferation was evaluated using a 3-(4,5-dime thyl-thiazol-2-yl)-5-(3-carboxymethoxyphenyl)-2-(4-sulfophenyl)-2H-tetrazolium (MTS;Promega,Madison, Wisconsin,USA) assay,which was performed at a fixed time every day for the next 5 days. $2 0 \mu \mathrm { l }$ MTS was added to each well, followed by incubation for $3 \mathrm { h }$ .The absorbance was recorded at $4 9 0 \mathrm { n m }$ using an EL-800 universal microplate reader (Bio-Tek Instruments, Winooski, Vermont, USA). This experiment was repeated three times.
+
+# Cell apoptotic analysis
+
+Cells were inoculated in a 96-well plate and grown to $7 5 \%$ confluence. Cells in the logarithmic growth phase were collected.After washing with RPMI-1640 medium without serum, cells were incubated in $1 0 0 \mu \mathrm { l }$ RPMI-1640 medium withoutserum $[ 5 0 \mathrm { m g / m l }$ propidium iodide(SigmaAldrich，St Louis，Missouri，USA), $5 \mu \mathrm { g } / \mathrm { m l }$ Hoechest 33342(Thermo,Hom Bridge City,Massachusetts,USA)]. Cells were incubated for $1 0 \mathrm { m }$ at $3 7 ^ { \circ } \mathrm { C }$ and the percentage of apoptotic cells was determined by Thermo Scientific ArrayScanVTI HCS(Thermo).Cellquest software (Becton Dickinson, Franklin,New Jersey,USA) was used for analysis. This experiment was repeated three times.
+
+# Western blot
+
+Protein of $5 0 { - } 1 0 0 \mathrm { m g }$ was subjected to $12 \%$ polyacrylamide gel electrophoresis. The separated protein was transferred to a polyvinylidene difluoride membrane by electrotransfer. The blots were blocked with $5 \%$ milk (Protifar;Nutricia,Zoetermeer, the Netherlands) in Trisbuffered saline-Tween 20 (TBS-T: $1 0 \mathrm { m m o l } / 1$ Tris,pH 8.0, $1 5 0 \mathrm { m m o l } / 1 \mathrm { N a C l }$ $0 . 0 0 1 \%$ Tween 20) at room temperature for $^ { 1 \mathrm { h } }$ and incubated overnight at $4 ^ { \circ } \mathrm { C }$ with specific antibodies against $\rho 5 3$ (SantaCruz,Huissen, the Netherlands） and GAPDH (Kandcheng， Shanghai, China) diluted in $5 \%$ milk/TBS-T.
+
+# Drug sensitivity experiments Determination of virus concentration in infected 801D cells
+
+The three viruses，Ad, Ad-p53(wt) and Ad- $\cdot \ p 5 3 ( \mathrm { d e l } )$ infected 801D cells at MOIs of 25,50,and 100.Infection status was confirmed using fluorescence microscopy and detecting the expression of $\rho 5 3$ .The colony formation and inhibition rates were calculated after 2 weeks.
+
+# The second experimental method
+
+Nude mice were divided randomly into four groups. There were six mice in each group. These groups were the Ad control group (drug untreated group) and the Ad,
+
+Ad-p53(del), Ad- $\cdot \phi 5 3$ (wt) groups (drug treatment groups). The three viruses,Ad，A $\mathrm { d } { - } \phi { 5 3 } ( \mathrm { d e l } )$ ，and Ad-p53(wt), infected 801D cellsata MOIof 50.After $2 4 \mathrm { h }$ ,cells were harvested and washed twice with saline.Cells were resuspended at a density of $1 . 0 \times 1 0 ^ { 7 } \mathrm { c e l l s / m l } .$ A suspension $\left( 2 . 0 \times 1 0 ^ { 6 } \mathrm { c e l l s } \right)$ of $0 . 2 { \mathrm { m l } }$ (equal to $1 . 0 \times 1 0 ^ { 8 }$ virus) was injected subcutaneously into the flank of BALBc $\mathrm { { ( n u / n u ) } }$ mice.When tumors became palpable,cisplatin or paclitaxel was injected into the abdominal cavity at $3 \mu \mathrm { g } / \mathrm { g }$ body weight. Control groups did not receive drug treatment. After 3 days,cisplatin or paclitaxel was injected again at the same dose,respectively.After a further 5 days, paclitaxel alone was injected at the same dose. All mice were killed after 45 days and the number of tumors, average tumor weight,and inhibition rates were calculated.Animal care and experiments were conducted in accordance with the Animal Research Committee Guidelines of Beijing Chest Hospital, Capital Medical University.
+
+# The first experimental method
+
+801D cells were harvested, washed twice with saline, and resuspended at a density of $1 . 0 \times 1 0 ^ { 7 } \mathrm { c e l l s / m l }$ ， $0 . 2 { \mathrm { m l } }$ suspension $( 2 . 0 \times 1 0 ^ { 6 }$ cells） was then injected subcutaneously into the flanks of BALBc $\mathrm { { ( n u / n u ) } }$ mice. Nude mice were divided randomly into four groups. There were six mice in each group. These groups were the Ad control group (drug untreated group) and the Ad, Ad-p53(wt),Ad-p53(del) groups (drug treatment groups). Ad,Ad-p53(wt) and A $\mathrm { d } { - } \phi { 5 3 } ( \mathrm { d e l } )$ were injected into the inoculation sites of the experimental groups at a concentration of $2 . 0 \times 1 0 ^ { 9 }$ per tumor, with an additional Ad group as a nondrug control. The experimental groups were administered either cisplatin or paclitaxel,as described in the second experimental method section.
+
+# Statistical analysis
+
+All data were analyzed using the SPSS,13.O software (IBM Corp.,Armonk,New York,USA). The inhibition rates of colony formation and tumor weights among the different groups were analyzed using one-way analysis of variance.Differences were considered to be significant at $P$ value less than or equal to 0.05.
+
+# Results
+
+# Optimization of adenovirus-mediated growth inhibition of human lung cancer 8o1D cells in vitro
+
+From the time-related curve, the infection rate increased gradually from O to $2 4 \mathrm { h }$ and reached a plateau at $2 4 \mathrm { h }$ (Fig.1a). Therefore, the infection time was determined in $2 4 \mathrm { h }$ .The optimal dose of virus required to affect colony formation was determined by infecting 8o1D cells with different concentrations of the three prepared adenoviruses (Fig.1b).A virus concentration of $1 0 0 \ \mathrm { M O I }$ resulted in colony-formation inhibition rates of 80,92, and $9 7 \%$ in Ad-infected,Ad-p53(wt)-infected,and Ad$\phi 5 3 ( \mathrm { d e l } )$ -infected cells,respectively. The inhibition rates were 40, 70,and $9 2 \%$ ,respectively,at $5 0 \mathrm { M O I }$ and 38, 48, and $8 5 \%$ ，respectively,at $2 5 \mathrm { M O I }$ .These results suggest that a viral dose of $1 0 0 \ \mathrm { \ M O I }$ was toxic because the colony-formation inhibition rates of all three viruses, including the Ad control, were similarly high.In contrast, viral loads of 25 and $5 0 ~ \mathrm { M O I }$ resulted in lower inhibition rates for the control Ad virus (40 and $3 8 \%$ ,respectively), but the colony-formation inhibition rate of $\mathrm { \ A d - } \phi { \bar { 5 } } 3 ( \mathrm { w t } )$ was also low at a 25 MOI.We therefore used viral loads of ${ 5 0 } \ \mathrm { M O I }$ in subsequent experiments.
+
+Fig. 1   
+
+<html><body><table><tr><td>(a)</td></tr><tr><td>Table 1The time related curve of virus infection Time (h) Rates of infection (mean±SD)</td></tr><tr><td>0 0</td></tr><tr><td>3 0.20±0.03</td></tr><tr><td>6 0.46±0.02</td></tr><tr><td>9 0.60±0.04</td></tr><tr><td>12 0.70±0.03</td></tr><tr><td>16 0.85±0.03</td></tr><tr><td>24 0.92±0.04</td></tr><tr><td>36 0.93±0.03</td></tr><tr><td>48 0.92±0.05</td></tr></table></body></html>
+
+![](images/f4dced0fc8e3f42de626834e355e2cd6002f5e7f886327f057c004e87b89a9e9.jpg)  
+The optimal time and concentration of virus infection (a) the time-related curve of virus infection; $( \mathsf { b } )$ colony formation inhibition rates in 801D cells infected with three different recombinant virusesas indicated. $^ { \star } P < 0 . 0 5$ (compared with the Ad group).
+
+# $\pmb { p 5 3 }$ expression in the infected lines
+
+For the detection of $\phi 5 3$ ， $5 0 \mathrm { m g }$ protein of human lung cancer cell lines was subjected to western blot (Fig. 2a). Compared with 801D cells, $\rho 5 3$ protein levels of 801D$\rho 5 3 ( \mathrm { w t } )$ and $8 0 1 \mathrm { D } { - } \phi 5 3 ( \mathrm { d e l } )$ cells increased. p53 expression was increased two times and 1.96 times in $8 0 1 \mathrm { D } { \cdot } {  { \ p } } 5 3 ( \mathrm { v }$ vt) and $8 0 1 \mathrm { D } { - } \phi 5 3 ( \mathrm { d e l } )$ ，respectively. To determine the function of the truncated $\rho 5 3$ ,we performed a cell proliferation assay.As indicated in Fig.2b,801D-p53(wt) and 801D$\phi 5 3 ( \mathrm { d e l } )$ cells showed decreased growth beginning on the second day.From the third day，proliferation of 801D$\rho 5 3 ( \mathrm { w t } )$ and $8 0 1 \mathrm { D } { \cdot } { \cdot } { \mathcal { P } } ^ { 5 3 ( \mathrm { d e l } ) }$ cells showed differences. The proliferation of 801D-p53(del) cells was slower than that of 801D-p53(wt) cells.In addition, apoptosis was analyzed by calculating the apoptosis ratios by HCS. Compared with 801D cells,more apoptosis cells appeared in $8 0 1 \mathrm { D } { \cdot } \phi 5 3 \mathrm { ( w }$ D and $8 0 1 \mathrm { D } { - } { \phi } 5 3 ( \mathrm { d e l } )$ cells (Fig. 2c). Compared with 801D cells,the apoptosis ratio of $8 0 1 \mathrm { D } { \cdot } \phi 5 3 ( \mathrm { w t } )$ cells increased 1.99-fold $( P < 0 . 0 5 )$ and that of $8 0 1 \mathrm { D } { - } \phi 5 3 ( \mathrm { d e l } )$ cells increased2.65-fold $( P < 0 . 0 5 )$ ：
+
+# Drug sensitivity experiments in nude mice Deleted-C-terminal p53 increases 801D cell sensitivity to anticancer drugs by the second method
+
+The effect of deleting the C-terminal of $\rho 5 3$ on the sensitivity of lung cancer cells to cisplatin was tested using the second method (Table 1). Tumor weights differed among the various treatments. Tumor weights in the untreated Ad group were significantly greater than those of the $\mathrm { A d + P D D }$ ， $\mathrm { A d } { - } \phi 5 3 ( \mathrm { d e l } ) { + } \mathrm { P D D }$ ，and $\mathrm { A d } { - } \phi 5 3 ( \mathrm { w t } ) { + } \mathrm { P D D }$ groups $( P < 0 . 0 5 )$ ， suggesting that cisplatin suppressed tumor growth. The average tumor weight in the $\mathrm { A d + P D D }$ group was significantly greater than that in the $\mathrm { A d } \lnot p { 5 3 } .$ $( \mathrm { d e l } ) + \mathrm { P D D }$ group and the $\mathrm { A d } { - } \phi 5 3 ( \mathrm { w t } ) { + } \mathrm { P D D }$ group （ $( P < 0 . 0 5 )$ .Although there was no significant difference in the tumor weights between the Ad- $\cdot \phi 5 3 ( \mathrm { w t } ) + \mathrm { P D D }$ and the A $\mathrm { \Phi _ { \it d - f P S 3 } ( d e l ) + P D D }$ groups $( P > 0 . 0 5 )$ ，the average tumor weight of the $\mathrm { A d } { - } \phi 5 3 ( \mathrm { d e l } ) { + } \mathrm { P D D }$ group was smaller than that of the $\mathrm { A d } { - } \phi 5 3 ( \mathrm { w t } ) { + } \mathrm { P D D }$ group. Compared with the $\mathrm { A d + P D D }$ group, the tumor-inhibitionrateswere increased by $5 1 . 1 1 \%$ in the Ac $ { \vert - \phi 5 3 ( \mathrm { w t } ) + \mathrm { P D D } }$ group and by $6 2 . 2 2 \%$ in the A $\mathrm { d } { - } \phi 5 3 ( \mathrm { d e l } ) + \mathrm { P D D }$ group. These results suggest that $\phi 5 3$ deleting the C-terminal significantly increased the sensitivity of 801D cells to cisplatin.
+
+The effect of $_ { \mathit { p 5 3 } }$ deleting the C-terminal on the sensitivity of lung cancer cells to paclitaxel（Tax） was also examined using the second method (Table 2). The average tumor weight in the Ad- $\phi 5 3 ( \mathrm { d e l } ) + \mathrm { T a x }$ group was significantly smaller than those in the Ad, $\mathrm { A d } + \mathrm { T a x }$ and $\mathrm { A d } \mathbf { - } \mathbf { \nabla } \rho 5 3 ( \mathrm { w t } ) + \mathrm { T a x }$ groups $( P < 0 . 0 5 )$ .There were no significant differences among the Ad, $\mathrm { A d } + \mathrm { T a x }$ ，and
+
+![](images/9c43b5dd75712e48650098dcb53f9fcc8e76016131992f22290f5753b2230365.jpg)  
+Fig. 2
+
+(c)
+
+Table 2 Apoptosis ratio in human lung cancer cell lines   
+
+<html><body><table><tr><td>Cell lines</td><td>Apoptosis ratio (%)</td></tr><tr><td>801D</td><td>3.67±1.12</td></tr><tr><td>801D-p53(wt)</td><td>7.30±1.02*</td></tr><tr><td>801D-p53(del)</td><td>9.74±1.21**</td></tr></table></body></html>
+
+中 $\cdot \mathsf { P } { < } 0 . 0 5$ (compared with the control) $^ { * * } P { < } 0 . 0 5$ (compared with full-length p53)
+
+The identification of $\mathsf { p } 5 3$ virus infection (a) the identification of p53 protein; (b) the growth curve of $8 0 1 \mathsf { D }$ and infected cell strains; (c) apoptosis condition of ${ \mathsf { 8 0 1 } } { \mathsf { D } }$ and infected cell strains.MTS,3-(4, 5-dimethyl-thiazol-2-yl)-5-(3-carboxymethoxyphenyl)-2-(4-sulfophenyl) 2H-tetrazolium.
+
+Ad $\mathcal { P } ^ { 5 3 ( \mathrm { w t } ) } + \mathrm { T a x }$ groups $( P > 0 . 0 5 )$ . Compared with the $\mathrm { A d } + \mathrm { T a x }$ group,the tumor-inhibition rate was increased by $5 7 . 8 9 \%$ in the Ad- $\mathbf { \nabla } \phi 5 3 ( \mathrm { d e l } ) + \mathrm { T a x }$ group. These results suggest that deleted-C-terminal $\rho 5 3$ ，but not full-length $\phi 5 3$ ，increased the sensitivity of 801D cells to paclitaxel.
+
+# Deleted-C-terminal p53 does not increase 801D cell sensitivity to anticancer drugs by the first method
+
+The sensitivity of lung cancer cells with C-terminaldeleted $\rho 5 3$ to cisplatin was also examined using the first method (Table 3). The average tumor weight in the Ad group was significantly greater than those in the $\mathrm { A d + P D D }$ ，A $\mathrm { d } { - } \phi 5 3 ( \mathrm { d e l } ) + \mathrm { P D D }$ ，and $\mathrm { \ A d - } \phi 5 3 ( \mathrm { w t } ) + \mathrm { P D D }$ groups $( P < 0 . 0 5 )$ .However, there were no significant differences among the $\mathrm { A d + P D D }$ ，Ad ${ \cdot } \phi 5 3 ( \mathrm { d e l } ) + \mathrm { P D D }$ and Ad $\cdot \phi 5 3 ( \mathrm { w t } ) + \mathrm { P D D }$ groups $( P > 0 . 0 5 )$ . Compared with the $\mathrm { A d + P D D }$ group,the tumor-inhibition rates in the Ad-p53(wt) and $\mathrm { 4 d - } \phi 5 3 ( \mathrm { d e l } )$ groups were increased by 1.61 and $1 . 6 1 \%$ ,respectively,after cisplatin treatment. These results suggest that, under the first method, neither deleted-C-terminal $\phi 5 3$ nor full-length $\phi 5 3$ increased the sensitivity of 801D cells to cisplatin.
+
+Table 1PDD sensitivity assay of the second experimental method   
+
+<html><body><table><tr><td>Group</td><td colspan="6">Tumor weight (g)</td><td>Mean±SE (g)</td><td>The inhibited rate (%)</td></tr><tr><td>Ad</td><td>1.70</td><td>1.30</td><td>1.00</td><td>0.60</td><td>0.45</td><td>0.35</td><td>0.90±0.22</td><td></td></tr><tr><td>Ad+PDD</td><td>0.90</td><td>0.50</td><td>0.40</td><td>0.35</td><td>1.00</td><td>0.60</td><td>0.63±0.11*</td><td>30.00</td></tr><tr><td>Ad-p53(wt) + PDD</td><td>0.30</td><td>0.15</td><td>0.10</td><td>0.05</td><td>0.10</td><td>0.00</td><td>0.17±0.04*△</td><td>81.11</td></tr><tr><td>Ad-p53(del) +PDD</td><td>0.10</td><td>0.05</td><td>0.10</td><td>0.00</td><td>0.05</td><td>0.00</td><td>0.07±0.03*△</td><td>92.22</td></tr></table></body></html>
+
+$^ { \star } P < 0 . 0 5$ (compared with Ad group). $^ { \Delta } P < 0 . 0 5$ (compared with Ad $^ +$ PDD group).
+
+'able 2Paclitaxel sensitivity assay of the second experimental method   
+
+<html><body><table><tr><td>Group</td><td colspan="6">Tumor weight (g)</td><td>Mean±SE (g)</td><td>The inhibited rate (%)</td></tr><tr><td>Ad</td><td>1.10</td><td>1.05</td><td>1.00</td><td>1.60</td><td>0.96</td><td>0.80</td><td>1.09±0.11</td><td></td></tr><tr><td>Ad + Tax</td><td>1.52</td><td>0.40</td><td>0.50</td><td>1.00</td><td>0.70</td><td>0.60</td><td>0.79±0.17</td><td>27.52</td></tr><tr><td>Ad-p53(wt) + Tax</td><td>1.60</td><td>0.50</td><td>1.0</td><td>0.60</td><td>0.90</td><td>0.70</td><td>0.88±0.16</td><td>19.27</td></tr><tr><td>Ad-p53(del) +Tax</td><td>0.10</td><td>0.05</td><td>0.10</td><td>0.00</td><td>0.05</td><td>0.00</td><td>0.05±0.01*</td><td>95.41</td></tr></table></body></html>
+
+$^ { \star } P < 0 . 0 5$ [compared with Ad,Ad $^ { 1 + }$ Tax,and Ad-p53(wt) $^ +$ Tax groups].
+
+The sensitivity of lung cancer cells to paclitaxel was detected under the conditions of the first method (Table 4). There were no significant differences in the average tumor weights among the Ad, $\mathrm { A d } + \mathrm { T a x }$ ，Ad$\phi 5 3 ( \mathrm { w t } ) + \mathrm { T a x }$ ，and $\mathrm { A d - } \phi 5 3 ( \mathrm { d e l } ) + \mathrm { T a x }$ groups $( P > 0 . 0 5 )$ · Similarly,there were no significant differences in tumorinhibition rates after paclitaxel treatment in either the Ad-p53(wt) or the A $\mathrm { i d - } \phi 5 3 ( \mathrm { d e l } )$ groups compared with paclitaxel-treated Ad alone. These results suggest that neither deleted-C-terminal $_ { \mathit { p 5 3 } }$ nor full-length $\phi 5 3$ increased the sensitivity of 801D cells to paclitaxel in the first method.
+
+# Comparison of two experimental methods Interclassvariationsbecomessmall andcentral tendency is better in the second method
+
+$\rho 5 3$ deletion at the C-terminal increased the sensitivity of 801D cells to anticancer drugs with the second, but not the first method,as indicated by significant differences between several groups.We therefore analyzed the data further(Table 5 and Fig.3). The SEs in the Ad-p53(del) and Ad-p53(wt） groups with cisplatin treatment in the second method were fewer than those in the first method,whereas the SE in the Ad group with cisplatin treatment in the second method was greater than that of the first method. The ratios of SEs and mean in Ad$\phi 5 3 ( \mathrm { d e l } )$ and Ad-p53(wt) groups with cisplatin treatment in the second method were greater than those in the first method,whereas the ratio of SE and mean in the Ad group with cisplatin treatment in the second method was less than that in the first method.
+
+The results of paclitaxel experiments were analyzed under two experimental methods (Table 5 and Fig.3). The analytic results showed that the SEs of the Ad, $\mathrm { A d } + \mathrm { T a x }$ ， $\mathrm { A d } \mathbf { - } \mathbf { \nabla } \phi 5 3 ( \mathrm { w t } ) + \mathrm { T a x } .$ and $\mathrm { A d } { - } \phi 5 3 ( \mathrm { d e l } ) + \mathrm { T a x }$ groups in the second method were less than those in the first method. The ratios of SEs and mean of the Ad, $\mathrm { A d } + \mathrm { T a x }$ ， $\mathrm { A d } \mathbf { - } \mathbf { \nabla } \phi 5 3 ( \mathrm { w t } ) + \mathrm { T a x } .$ ，and $\mathrm { A d } { - } \phi 5 3 ( \mathrm { d e l } ) + \mathrm { T a x }$ groups in the second method were less than those in the first method. This analysis indicates that the data showed lower interclass variations and better central tendency in the second method.
+
+# Discussion
+
+Recent studies have shown that the drug sensitivity of cancer cells is related to drug response. Cytotoxic drugs kill tumor cells by a variety of ways and mechanisms [4,5], and further work is required to improve the efficacy of
+
+Table 3PDD sensitivity assay of the first experimental method   
+
+<html><body><table><tr><td>Group</td><td colspan="6">Tumor weight (g)</td><td>Mean±SE (g)</td><td>The inhibited rate (%)</td></tr><tr><td>Ad</td><td>1.60</td><td>1.30</td><td>1.00</td><td>0.65</td><td>0.30</td><td>0.10</td><td>0.83±0.24</td><td></td></tr><tr><td>Ad +PDD</td><td>0.50</td><td>0.30</td><td>0.60</td><td>0.20</td><td>0.05</td><td>0.10</td><td>0.29±0.09*</td><td>65.06</td></tr><tr><td>Ad-p53(wt) + PDD</td><td>0.25</td><td>0.30</td><td>0.20</td><td>0.05</td><td>0.10</td><td>0.00</td><td>0.15±0.05*</td><td>66.67</td></tr><tr><td>Ad-p53(del)+PDD</td><td>0.35</td><td>0.20</td><td>0.20</td><td>0.10</td><td>0.05</td><td>0.00</td><td>0.15±0.05*</td><td>66.67</td></tr></table></body></html>
+
+$^ { \star } P < 0 . 0 5$ (compared with Ad group).
+
+Copyright $\textcircled{ C}$ 2015 Wolters Kluwer Health, Inc.All rights reserved.
+
+Table 4Paclitaxel sensitivity assay of the first experimental method   
+
+<html><body><table><tr><td>Group</td><td colspan="6">Tumor weight (g)</td><td>Mean±SE (g)</td><td>The inhibited rate (%)</td></tr><tr><td>Ad</td><td>1.10</td><td>0.50</td><td>1.20</td><td>0.40</td><td>1.00</td><td>0.20</td><td>0.73±0.17</td><td></td></tr><tr><td>Ad + Tax</td><td>0.60</td><td>1.20</td><td>0.30</td><td>0.80</td><td>0.10</td><td>0.00</td><td>0.50±0.19</td><td>31.50</td></tr><tr><td>Ad-p53(wt) + Tax</td><td>0.35</td><td>0.20</td><td>0.35</td><td>1.00</td><td>0.90</td><td>0.00</td><td>0.47±0.16</td><td>35.66</td></tr><tr><td>Ad-p53(del) + Tax</td><td>0.50</td><td>0.05</td><td>0.80</td><td>0.20</td><td>0.00</td><td>0.00</td><td>0.26±0.13</td><td>64.38</td></tr></table></body></html>
+
+Table 5Comparison results of two methods in the chemotherapy drugs susceptibility test   
+
+<html><body><table><tr><td></td><td colspan="3">The second experimental method</td><td colspan="3">The first experimental method</td></tr><tr><td>Group</td><td>Tumor weight range (g)</td><td>Mean±SE (g)</td><td>SE/mean (%)</td><td>Tumor weight range (g)</td><td>Mean±SE (g)</td><td>SE/mean (%)</td></tr><tr><td>Ad</td><td>0.35-1.70</td><td>0.90±0.22</td><td>24</td><td>0.10-1.60</td><td>0.83±0.24</td><td>27</td></tr><tr><td>Ad+PDD</td><td>0.35-1.00</td><td>0.63±0.11</td><td>17</td><td>0.05-0.60</td><td>0.29±0.09</td><td>24</td></tr><tr><td>Ad-p53(wt)+ PDD</td><td>0.00-0.30</td><td>0.17±0.04</td><td>24</td><td>0.00-0.30</td><td>0.15±0.05</td><td>29</td></tr><tr><td>Ad-p53(del) +PDD</td><td>0.00-0.10</td><td>0.07±0.03</td><td>43</td><td>0.00-0.35</td><td>0.15±0.05</td><td>38</td></tr><tr><td>Ad</td><td>0.80-1.60</td><td>1.09±0.11</td><td>10</td><td>0.20-1.20</td><td>0.73±0.17</td><td>22</td></tr><tr><td>Ad + Tax</td><td>0.40-1.52</td><td>0.79±0.17</td><td>22</td><td>0.00-1.20</td><td>0.50±0.19</td><td>40</td></tr><tr><td>Ad-p53(wt) + Tax</td><td>0.50-1.60</td><td>0.88±0.16</td><td>18</td><td>0.00-1.00</td><td>0.47±0.16</td><td>34</td></tr><tr><td>Ad-p53(del) + Tax</td><td>0.00-0.10</td><td>0.05±0.01</td><td>20</td><td>0.00-0.80</td><td>0.28±0.15</td><td>53</td></tr></table></body></html>
+
+![](images/5be6aa383ebbeab0ae4ce9802c5493d5d9d10421aa5133ce1e3549fad490565a.jpg)  
+Fig. 3   
+TheSE/meancomparisonsoftomethodsichemotherapydrugssusceptibitytest.(aTheSE/meancomparisonoftwomethodsinthePDD susceptibility test.(b) The SE/mean comparison of two methods in the Tax susceptibility test.
+
+drug responses. The genetic background and molecular abnormalities of cancer cells affect their sensitivity to anticancer drugs. The $\phi 5 3$ tumor-suppressor gene plays an important regulatory role in multiple complex gene networks [15]. Notably, $\rho 5 3$ is regulated negatively by its C-terminal. $\phi 5 3$ is often targeted by anticancer agents; for example, the anticancer agent cisplatin stimulates the molecular sensors ataxia telangiectasia mutated,ataxia telangiectasia and Rad3-related,and the DNA-dependent protein kinase,which can activate $\phi 5 3$ phosphorylation through a negative-feedback loop that promotes dissociation from MDM2，and thereby increases $_ { \mathit { p } 5 3 }$ expression and stability [16,17].
+
+$\rho 5 3$ gene expression has been shown to increase the sensitivity of cancer cells to anticancer drugs in vitro, in vivo,and in clinical trials [18-22]. Because the C-terminal of $\phi 5 3$ plays a negative regulatory role,we examined the sensitivity of human lung cancer cells with $\phi 5 3$ deleting the C-terminal to chemotherapeutic drugs with two methods. The experimental results showed that tumor-inhibition rates increased in mice treated with cisplatin in the deleted-C-terminal and full-length $\phi 5 3$ groups.However, significant tumor inhibition was only achieved intumorsexpressing $\phi 5 3$ deleting the C-terminal and only in mice treated using the second method after cisplatin treatment. The inhibition rate in cells with $\phi 5 3$ deleting the C-terminal, but not in those with full-length $\phi 5 3$ ，was significantly increased compared with the Ad control group with or without paclitaxel treatment in the second,but not in the first method. These results provide direct evidence that $\phi 5 3$ deletion in the C-terminal increases the sensitivity of tumor cells to chemotherapeutic drugs.In this study, $\phi 5 3$ deletion of the C-terminal removed 37 amino acids (356-393) of the C-terminal and its noncoding region. These sequences regulate $_ { \mathit { p 5 3 } }$ function negatively and include sequences that can inhibit $\phi 5 3$ transcription or induce its degradation when combined with microRNA.This is the first study to report a relationship between $_ { \mathit { p 5 3 } }$ deleting the C-terminal and chemotherapeutic drug responses.
+
+The C-terminal of $\phi 5 3$ mainly includes the functional domains.TheC-terminal includes thenuclearlocalization signal (NLS), the nuclear export signal, the tetrameriza tion domain,and the C-terminal regulatory domain. The tetramerization domain is essential for DNA binding, protein-protein interactions,post-translational modifications,and $_ { \mathit { p 5 3 } }$ degradation.Nuclear $_ { \mathit { p 5 3 } }$ enables its activity as a transcription factor [23-25] and so NLS is essential.In the truncated $\phi 5 3$ ，we reserve the NLS and the tetramerization domain and remove the other part of the C-terminal. We proved that the truncated $\phi 5 3$ negatively regulated tumor cell sensitivity to anticancer drugs. However, the mechanisms remain unclear and require further investigation: first, it should be clarified as to what elements on these sequences are responsible for the negative regulation. Is it possible that some miRNA or lncmRNA targets these sequences to inhibit $\phi 5 3$ function or the $3 ^ { \prime }$ noncoding mRNA sequence is self-regulated? Second, the key genes involved in the signaling pathways through which those repressor sequences regulated drug sensitivity should be identified. It is very important to understand the role of $3 ^ { \prime }$ sequences of $_ { \mathit { p 5 3 } }$ in tumor suppression and to elucidate the mechanisms underlined, which would benefit both basic science research and new anticancer drug development.
+
+Furthermore, the first and second methods were analyzed in terms of their abilities to deliver robust results. The second method produced statistically significant findings，whereas the first method did not. Tumorinhibition rates increased in the $\mathrm { \Delta \ A d - } \phi 5 3 ( \mathrm { d e l } ) + \mathrm { d }$ rug groups,but not in the $\mathrm { A d - } \phi 5 3 ( \mathrm { w t } ) + \mathrm { d r u g }$ groups compared with the $\operatorname { A d } +$ drug groups,which indicates that $\phi 5 3$ deletion of the C-terminal increased the response of 801D cells to cisplatin and paclitaxel.
+
+As for the stability and reliability of the two experimental methods,the second method produced smaller SEs than the first method. The SE reflects the size of sampling error, that is,a smaller SE indicates greater stability and reliability of the mean. Thus, the result of the analysis of the SE suggests that the second method is preferable to the first method.Because the size of SE is related to the mean，we also analyzed the ratios of SE and mean. However,the ratio of SE to mean in the Ad-p53- $\mathrm { ( d e l ) + P D D }$ group was greater for the second method than for the first method in the cisplatin-sensitivity experiments.The result is inconsistent with that of the analysis of SE alone. This discrepancy may be because the SE and mean in the Ad- $\phi 5 3 ( \mathrm { d e l } ) + \mathrm { P D D }$ group were smaller for the second method compared with the first method,given that it is difficult to decrease the SE beyond a certain value in small samples,in brief,whether SEs or the ratios of SEs and mean indicated that the second method was preferable to the first method. Similarly, the ratios of SE and mean in the $\mathrm { A d } + \mathrm { T a x } .$ Ad$\phi 5 3 ( \mathrm { w t } ) + \mathrm { T a x }$ ,and $\mathrm { A d } { - } \phi 5 3 ( \mathrm { d e l } ) { + } \mathrm { T a x }$ groups were lower for the second method compared with the first method in the paclitaxel-sensitivity experiments,which also suggests superiority of the second method.
+
+Inaddition to its reliability,the second method also has several other advantages.First, the ratio and division of infected cells can be observed under a fluorescence microscope.Second,cells are infected more uniformly and the infection rates are similar among groups.Finally, this method overcomes the restrictions associated with injecting virus into the inoculation sites,such as uneven infection of the tumor cells.Overall, the second method therefore represents a more efficient method for conducting experiments to test the effects of adenovirusmediated factors on tumor drug sensitivity in vivo.
+
+# Conclusion
+
+The second experimental method is recommended for performing drug sensitivity tests in vivo.In other words, viruses infect cells before cells are inoculated into nude mice and drugs are used once the tumors become palpable.In addition, the results of this study show that $\phi 5 3$ deletion of the C-terminal can increase the sensitivity of 801D cells to chemotherapeutic drugs compared with full-length $\rho 5 3$ ：
+
+# Acknowledgements
+
+The work was financed by the Beijing Municipal Science and Technology Committee grant (No. 954830600) and the Beijing Natural Science Foundation (7153162).
+
+# Conflicts of interest
+
+There are no conflicts of interest.
+
+# References
+
+1Persons DL, Yazlovitskaya EM,Pelling JC.Effect of extracellular signalregulated kinase on p53 accumulation in response to cisplatin.JBio/ Chem 2000；275:35778-35785.   
+2 Rosenberg B,vanCamp L,Trosko JE,Mansour VH.Platinum compounds:a new class of potent antitumour agents.Nature 1969;222:385-386.   
+3 Braeuning A.The connection of beta-catenin and phenobarbital in murine hepatocarcinogenesis:a critical discussion of Awuah et al., PLoS ONE7(6): e39771,2012. Arch Toxico/2013;87:401-402.   
+4 Bagnyukova TV,Serebriiskii IG,Zhou Y,Hopper-Borge EA,Golemis EA, Astsaturov l.Chemotherapy and signaling:How can targeted therapies supercharge cytotoxic agents? Cancer Bio/Ther2010;10:839-853.   
+5 Basu A, Krishnamurthy S.Cellular responses to cisplatin-induced DNA damage.J Nucleic Acids 2010; 2010:201367-201382.   
+6 He TC,Zhou S,da Costa LT,Yu J, Kinzler KW,Vogelstein B.A simplified system for generating recombinantadenoviruses.Proc Natl Acad Sci USA 1998;95:2509-2514.   
+7 Wang H,LiJZ,Lai BT,Yang XH, Zhang CY,Yue WT,Zhan XP.Inhibitory effect of p53 with deletion of C-terminal 356-393 amino acids on malignant phenotype of human lung cancer celline.Zhonghua Zhong Liu Za Zhi 2003; 25:527-530.   
+8 Gohler T,Reimann M, Cherny D,Walter K,Warnecke G, Kim E,Deppert W. Specific interaction of p53 with target binding sites is determined by DNA conformationand is regulated by the C-terminal domain.JBio/ Chem 2002; 277:41192-41203.   
+9 Kelland LR.Of mice and men: values and liabilities of the athymic nude mouse model inanticancer drug development.Eur JCancer 2004; 40:827-836.   
+10 Morgan RA.Human tumor xenografts: the good,the bad,and the ugly.Mo/ Ther 2012;20:882-884.   
+11 JohnT,KohlerD,Pintilie M, Yanagawa N,Pham NA,LiM,et a/.The ability to form primary tumor xenografts is predictive of increased risk of disease recurrence in early-stage non-small cell lung cancer.Clin Cancer Res 2011; 17:134-141.   
+12 Wang X,Fu X,Hoffman RM.A new patient-like metastatic model of human lung cancer constructed orthotopically with intact tissue via thoracotomy in immunodeficient mice.Int JCancer1992;51:992-995.   
+13Caysa H, Hoffmann S,Luetzkendorf J,Mueller LP,Unverzagt S,Mader K, Mueller T.Monitoring of xenograft tumor growth and response to chemotherapy by non-invasive in vivo multispectral fluorescence imaging. PLoS One 2012; 7:e47927.   
+14Wang H,Lai B,LiW,Yang X,Zhang C,Wei P,Li J.Preparation of two types p53 recombinant adenovirus and quantitative exogenous expression of green fluorescence protein by flow cytometry.Zhongguo Fei Ai Za Zhi2010; 13:470-476.   
+15Haupt S,Berger M,Goldberg Z, Haupt Y.Apoptosis - the p53 network. JCell Sci 2003;116 (Pt 20):4077-4085.   
+16Ashcroft M,Taya Y, Vousden KH. Stress signals utilize multiple pathways to stabilizep53.Mo/ Cell Bio/2000;20:3224-3233.   
+17 Wetzel CC,Berberich SJ.p53 binds to cisplatin-damaged DNA.Biochim Biophys Acta 2001;1517:392-397.   
+18 Choi JH,Ahn KS, Kim J, Hong YS.Enhanced induction of Bax gene expression in H460 and H1299 cells with the combined treatment of cisplatinand adenovirus mediated wt-p53 gene transfer.Exp Mol Med 2000; 32:23-28.   
+19 Guntur VP,Waldrep JC,Guo JJ,Selting K, Dhand R. Increasing p53 protein sensitizes non-small cell lung cancer to paclitaxel and cisplatin in vitro. Anticancer Res 2010;30:3557-3564.   
+20Huang Y, Jeong JS,Okamura J, Sook-Kim M, Zhu H,Guerrero-Preston R, Ratovitski EA.Global tumor protein p53/p63 interactome: making a case for cisplatin chemoresistance.Ce// Cyc/e 2012;11:2367-2379.   
+21 LiJ,Zhang Y,Zhao J,Kong F,Chen Y.Overexpression of miR-22 reverses paclitaxel-induced chemoresistance through activation of PTEN signaling in p53-mutated colon cancer cells. Mo/ Ce/l Biochem 2011;357:31-38.   
+22 Tokalov SV,Abramyuk AM,Abolmaali ND.Protection of p53 wild type cells from taxol by genistein in the combined treatment of lung cancer.Nutr Cancer 2010;62:795-801.   
+23Li Q,Falsey RR,Gaitonde S,Sotello V, Kislin K,Martinez JD. Genetic analysis of p53 nuclear importation.Oncogene 2007;26:7885-7893.   
+24Liang SH,Clarke MF.A bipartite nuclear localization signal is required for p53 nuclear import regulated by a carboxyl-terminal domain.JBio/ Chem 1999;274:32699-32703.   
+25Tran EJ,Wente SR.Dynamic nuclear pore complexes: life on the edge. Cell 2006;125:1041-1053.

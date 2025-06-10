@@ -1,0 +1,160 @@
+# DOI:10.5846/stxb201703050358
+
+蒋万祥，陈静，王红妹，贺诗水，卓丽玲，陈青，王洪凯，蔡庆华.新薛河典型生境底栖动物功能性状及其多样性.生态学报,2018,38（6)：2007-2016.  
+JiangWX,ChJ，angH,HeSZuoLLQgHK,CiQdyfacertebatefctioaritsddiversiotyicalhabitats in the New Xue River.Acta Ecologica Sinica,2018,38(6):2007-2016.
+
+# 新薛河典型生境底栖动物功能性状及其多样性
+
+蒋万祥¹，陈静]，\*，王红妹}，贺诗水¹，卓丽玲'，陈青}，王洪凯¹，蔡庆华²  
+1枣庄学院生命科学学院,枣庄277160  
+2 中国科学院水生生物研究所淡水生态与生物技术国家重点实验室,武汉430072
+
+摘要;功能性状对环境变化敏感,在生物多样性与生态系统功能关系的研究中扮演关键角色;基于生物性状的功能多样性与生态系统过程密切相关,是了解生态系统和群落功能的关键所在。基于新薛河底栖动物3个季度的调查数据,对功能性状和功能多样性时空动态及其对环境梯度的响应进行了研究。研究结果表明10个功能性状的等级性状间均存在显著差异。空间格局上,33 个等级性状中有21个在河段间差异显著,涉及10个功能性状中的9个;而在时间序列上,仅有12个等级性状于各季节间差异显著,涉及10个功能性状中的6个。功能多样性于各河段间差异显著,表现为 $\mathrm { D } \gtrless \mathrm { E } , \mathrm { A } \gtrless \mathrm { C } > \mathrm { B }$ ;而于各季节间整体表现为差异不显著;底栖动物各功能性状之间存在一定的权衡关系;水文条件是影响研究区域底栖动物功能多样性的主要因素;功能性状及功能多样性对河流生境质量具有较好的响应性。 20
+
+关键词：功能性状；功能多样性；底栖动物；新薛河
+
+# Study of macroinvertebrate functional traits and diversity among typical habitats in the New Xue River
+
+JIANG Wanxiang'，CHEN Jing1,\*，WANG Hongmei'，HE Shishui1， ZHUO Liling’，CHEN $\mathrm { { \ Q i n g } ^ { 1 } }$ ，WANG Hongkai' ,CAI Qinghua²
+
+1 College of Life Sciences， Zaozhuang University， Zaozhuang 277160,China   
+2StateKeyboatoyfreshaterodoteoostfdedefiecs，Wa
+
+Abstract：Functional traitsare sensitive tolocalenvironmentalconditions，andare importantcharacteritics intheesearch ontherelationshipbetweenbiological diversityandecosystemfunction.Functionaldiversitybasedonspecies traitsisclosely related to ecosystem proceses，and has emerged as akey feature forunderstanding ecosystem and communityfunction.In this study，weusedayear'squarterlysurveydata of macroinvertebrates in the New XueRiver to investigate thespatiotemporal dynamicsoffunctional traitsand functionaldiversity，anddiscusstherelationship between thesefunctional atributesand habitat quality.Byanalyzing traitcomposition，we found thatthere were significant diferencesamongthe state traitsof allthe10 traits examined.One-way ANOVAand an independentsamples t-test were performed to compare the relative abundance of traitsamong diferent reaches（A toE）and seasons（Spring，Autumn，Winter），and the results showedthatthestatetraitsofallthe1Ofunctionaltraitsweresignificantlydifferent.Twenty-oneof the33statetraitswere significantly differentamong the fivereaches，involving nine（voltinism，shape，sizeat maturity，rheophily，habit, swimmingability,trophic habit，occurenceindrift，attachment）ofthe1Ofunctional traits.Incontrast,only twelveof the
+
+33state traitswere significantlydiferentamong seasons,involvingsix（sizeatmaturity,thermal preference,trophichabit, habit，swimmingability，occurrence indrift）ofthe1Ofunctional traits.Thefunctional diversityindex was highestinthe reach D,followed by reach A，E,C，and lowest in reach B；showed ${ \mathrm { D } } { \geqslant } \mathrm { E }$ ， $\mathbf { A } \geqslant \mathbf { C } > \mathbf { B }$ during the year.Although functional diversityindex wassignificantlydiferentamong thediffrentreaches,，there wasnosignificant differenceamongthedifferent seasons.Ourresultssuggestthat1）thereisatrade-offamong macroinvertebrates functionaltraits；2)hydrologicalcondition isthe main factoraffcting macroinvertebratesfunctional taitsanddiversity；and,3）functionaltraitsanddiversityaregood indicators of habitat quality. G
+
+Key Words:functional trait；functional diversity；macroinvertebrate；the New Xue River
+
+生态系统功能是一个非常宽泛的概念,包括生态系统过程(如营养循环),生态系统服务(如提供渔获物、栖息环境、过滤作用等),及对干扰的恢复力和抵抗力等[1-2]。一直以来,河流生态系统功能研究绝大多数是基于传统的物种分类开展的;然而,近年来的研究表明,生态系统功能主要受制于功能性状的多样性,即功能性状的分布和丰度的时空格局[3]。功能性状研究近20年的发展使得生态学家能够从新的角度重新审视复杂的生态学过程。从个体、种群、群落到生态系统,功能性状已被证明是探索各类生态学前沿问题的有效手段[4]。 2
+
+气候变化引起整个流域内环境特征包括水文特征、水体理化因子、河岸植被带等随季节发生相应的改变,并最终影响底栖动物的生长、繁殖和种群演替,使底栖动物群落结构发生改变[5];功能性状研究对深入理解上述过程提供了一条新的路径。相比大量关于功能性状空间格局的研究,功能性状时间动态方面研究远远不够[4]。功能多样性指数目前主要应用在陆生植被群落,水域生态系统远比陆生植被系统复杂,且功能性状的量化和获取非常困难,因此,水生生物功能多样性研究起步较晚[6]。溪流底栖动物功能性状及多样性相关研究在我国尚鲜见报道[7],而有关时间序列的研究更是未见报道。本文基于山东省新薛河底栖动物调查数据，对功能性状、功能多样性的时空动态进行了统计分析,并就功能性状和多样性对环境压力的响应进行了探讨，以期为后续系统地开展相关研究(如土地利用、气候变化等对生态系统功能的影响及生态系统服务功能等)提供背景数据,为季节性河流的科学管理提供一定的理论支持。
+
+# 1材料与方法
+
+# 1.1 区域概况与样点设置
+
+新薛河位于山东省西南部,属于南四湖水系，全长 $8 9 . 6 \mathrm { k m }$ ,流域面积 $6 8 6 \mathrm { k m } ^ { 2 }$ 。根据生境特征,沿水流方向共调查5种不同溪流生境的河段,每个河段沿水流方向设3个采样点,共计15个。A河段,位于石嘴子水库坝下,流态以缓流为主,沉积物较多。B河段位于枣庄市山亭区上游,河道频繁出现干涸现象。C河段位于山亭区下游,城市污水在经过沉积处理后直接排到该河段;D河段距离城区较远,生境质量相对较好。E河段间歇性地受家禽、衣物涮洗的影响。
+
+# 1.2底栖动物采集及鉴定
+
+2012年4、10、12月,每月中旬用40目网径、采样面积 $0 . 0 9 \mathrm { m } ^ { 2 }$ 的索伯网（surber sampler)采集底栖动物,将网中的底栖动物拣出,装标本瓶中,用 $10 \%$ 的福尔马林液固定,标本带回实验室后鉴定、计数[8-10]。共采集标本42个（4月份B河段断流）。
+
+# 1.3功能性状和功能多样性
+
+功能性状主要参考文献[4,1-12],少数类群性状根据标本和分类资料描述[8-10]确定。选择化性、漂移性、游泳能力、吸附能力、形状、成熟个体大小、流态偏好、温度偏好、生活型、营养习性等10个功能性状纳入分析。功能性状选择及其等级描述、代码参考文献[4,7],具体见表1。
+
+表1新薛河底栖动物功能性状、性状等级和代码  
+Table1The functional traits,trait state and code of macroinvertebrates in the New Xue River   
+
+<html><body><table><tr><td>性状</td><td>性状等级</td><td>代码</td><td>性状</td><td>性状等级</td><td>代码</td></tr><tr><td>Traits</td><td>Trait states</td><td>Code</td><td>Traits</td><td>Trait states</td><td>Code</td></tr><tr><td>化性</td><td>少于1世代/a</td><td>Volt1</td><td></td><td>捕食者</td><td>Trop4</td></tr><tr><td>Voltinism</td><td>1世代/a</td><td>Volt2</td><td></td><td>撕食者</td><td>Trop5</td></tr><tr><td></td><td>2代或多代/a</td><td>Volt3</td><td>生活型</td><td>穴居</td><td>Habi1</td></tr><tr><td>形状</td><td>流线型</td><td>Shpe1</td><td>Habit</td><td>攀爬</td><td>Habi2</td></tr><tr><td>Shape</td><td>非流线型</td><td>Shpe2</td><td></td><td>蔓生</td><td>Habi3</td></tr><tr><td>成熟个体大小</td><td>小(<9mm)</td><td>Size1</td><td></td><td>附着</td><td>Habi4</td></tr><tr><td>Size at</td><td>中等(9-16mm)</td><td>Size2</td><td></td><td>游泳</td><td></td></tr><tr><td>maturity</td><td>大(>16mm)</td><td>Size3</td><td>游泳能力</td><td>无</td><td>Habi5 Swim1</td></tr><tr><td>流态偏好</td><td>沉积型</td><td>Rheo1</td><td>Swimming ability</td><td>弱</td><td></td></tr><tr><td>Rheophily</td><td>沉积和侵蚀型</td><td>Rheo2</td><td></td><td>强</td><td>Swim2</td></tr><tr><td></td><td>侵蚀型</td><td>Rheo3</td><td>漂移性</td><td>极少</td><td>Swim3</td></tr><tr><td>温度偏好</td><td>喜凉</td><td>Ther1</td><td>Occurrence in drift</td><td>一般</td><td>Drft1</td></tr><tr><td>Thermal Preference</td><td></td><td></td><td></td><td></td><td>Drft2</td></tr><tr><td></td><td>广热</td><td>Ther2</td><td></td><td>较高</td><td>Drft3</td></tr><tr><td>营养习性</td><td>集食者</td><td>Trop1</td><td>附着能力</td><td>无</td><td>Atch1</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Trophic habit</td><td>滤食者 植食者</td><td>Trop2</td><td>Attachment</td><td>有 者兼备</td><td>Atch2</td></tr></table></body></html>
+
+功能多样性采用Rao二次熵指数计算,该指数结合了物种相对丰度和生物性状信息,将每个物种看作多维性状空间中的点,主要计算物种距离的变异[13]。遵循 Podani 和 Schemra 的建议[14],计算功能多样性时使用Gower距离来度量物种及生物性状的距离。
+
+式中， ${ F D } _ { Q }$ 为 Rao 二次熵指数， $P _ { i }$ 和 $\overline { { \boldsymbol { P } } } _ { i }$ 分别代表物种 $i$ 和物种 $j$ 的相对丰度， $s$ 为物种数， $d _ { i j }$ 为物种 $i$ 和物种 $j$ 之间的距离, $d _ { i j }$ 的取值范围在0（物种 $\dot { \mathbf { \zeta } } _ { i }$ 和物种 $j$ 具有完全相同的生物性状组成)和1（物种 $i$ 和物种 $j$ 未共有任何相似的生物性状)之间。
+
+# 1.4 数据处理
+
+功能多样性计算运用的软件为R3.1.3和FDiversity软件包[15]。单因素方差分析（One-way ANOVA）、独立样本 $T$ 检验（Independent samples $T$ test)用于比较功能性状、功能多样性时空格局上的差异;使用的软件为IBMSPSS19.0。图使用软件Oringin8.0 制作。
+
+# 2结果与分析
+
+# 2.1功能性状组成
+
+对功能性状组成进行分析(表2）,发现新薛河底栖动物10个功能性状的组分(等级性状)间均存在显著差异（ $\scriptstyle \cdot { P < 0 . 0 5 }$ )。具体为：化性表现为1世代/a占比最大,相对丰度为 $6 8 . 7 \%$ ;漂移频率较高的个体最多,相对丰度为 $6 0 . 8 \%$ ;游泳能力表现为无游泳能力个体相对丰度高达 $9 7 . 1 \%$ ;附着能力以无附着能力个体所占比重最大,为 $6 5 . 0 \%$ ;成熟个体大小以小型个体为主,相对丰度为 $6 9 . 0 \%$ ;流态偏好以沉积/侵蚀兼备型个体所占比重最大,相对丰度为 $4 2 . 3 \%$ ;温度偏好以广温型个体所占比重最大，相对丰度为 $6 0 . 7 \%$ ;形态方面以非流线型个体占绝大多数，相对丰度为 $9 2 . 4 \%$ ;生活型方面以穴居者占比最大，相对丰度为 $5 5 . 4 \%$ ;营养习性方面以收集者占优,相对丰度为 $6 0 . 4 \%$ 。
+
+http://www.ecologica.cn
+
+表2新薛河底栖动物功能性状组成和相对丰度 $\%$   
+Table2Macroinverterates functional traits states,relative abundance in the New Xue River   
+
+<html><body><table><tr><td>性状 Traits</td><td>等级 States</td><td>相对丰度 Relative abundance</td><td>性状 Traits</td><td>等级 States</td><td>相对丰度 Relative abundance</td></tr><tr><td>化性</td><td>Volt1a</td><td>0.8</td><td></td><td>Rheo3a</td><td>29.0</td></tr><tr><td>Voltinism</td><td>Volt2b</td><td>68.7</td><td>温度偏好</td><td>Therla</td><td>32.6</td></tr><tr><td></td><td>Volt3c</td><td>30.5</td><td>Thermal</td><td>Ther2b</td><td>60.7</td></tr><tr><td>漂移性</td><td>Drft1a</td><td>12.4</td><td>Preference</td><td>Ther3c</td><td>6.8</td></tr><tr><td>Occurrence in</td><td>Drft2b</td><td>26.8</td><td>形态</td><td>Shpela</td><td>7.6</td></tr><tr><td>drift</td><td>Drft3c</td><td>60.8</td><td> Shape</td><td>Shpe2b</td><td>92.4</td></tr><tr><td>游泳能力</td><td>Swimla</td><td>97.1</td><td>生活型</td><td>Habila</td><td>55.4</td></tr><tr><td>Swimming</td><td>Swim2b</td><td>1.1</td><td>Habit</td><td>Habi2b</td><td>2.2</td></tr><tr><td>ability</td><td>Swim3b</td><td>1.8</td><td></td><td>Habi3b</td><td>.8</td></tr><tr><td>附着能力</td><td>Atch1a</td><td>65.0</td><td></td><td>Habi4c</td><td>29.9</td></tr><tr><td>Attachment</td><td>Atch2b</td><td>32.1</td><td></td><td>Habi5b</td><td>4.6</td></tr><tr><td></td><td>Atch3c</td><td>2.9</td><td>营养习性</td><td>Tropla</td><td>60.4</td></tr><tr><td>成熟个体大小</td><td>Sizela</td><td>69.0</td><td>Trophic habit</td><td>Trop2b</td><td>17.7</td></tr><tr><td>Size at</td><td>Size2b</td><td>29.8</td><td></td><td>Trop3b</td><td>14.0</td></tr><tr><td>maturity</td><td>Size3c</td><td>1.2</td><td></td><td>Trop4b</td><td>7.9</td></tr><tr><td>流态偏好 Rheophily</td><td>Rheola Rheo2b</td><td>28.7 42.3</td><td></td><td>Trop5c</td><td>0.1</td></tr></table></body></html>
+
+字母不同表示差异显著( $\textstyle P < 0 . 0 5 ,$
+
+# 2.2 等级性状时空分布
+
+# 2.2.1 等级性状空间格局
+
+对等级性状空间格局进行对比分析（图1）,结果表明33个等级性状中有21个在空间序列上差异显著（ $P { < } 0 . 0 5 )$ ;涉及10个功能性状中的9个，仅温度偏好所属等级性状在各河段间差异不显著( $P { > } 0 . 0 5 )$ 。具体为：身体形态表现为流线型在B、C河段相对丰度最小;非流线型个体在B、C河段丰度相对较高。化性表现为1世代/a个体相对丰度在下游DE河段高于上游A、B、C 河段;2代或多代/a个体在D河段低于其他河段。漂移性表现为极少漂移个体相对丰度在A河段高于其他河段;一般漂移型个体相对丰度表现为A、B河段显著低于C、D、E河段;高漂移性个体相对丰度在B、C河段高于其他河段。游泳能力表现为无游泳能力个体在C 河段最高;强游泳能力个体在D、E河段高于其他河段。附着能力方面表现为无附着能力个体在B河段最高;有附着能力个体相对丰度在下游D、E河段高于其他河段。成熟个体大小方面,小型个体相对丰度B河段高于D河段;中等个体相对丰度D、E河段高于A、B、C 河段。流态偏好方面,沉积型个体相对丰度在 $\mathbf { A } , \mathbf { B } , \mathbf { C }$ 河段高于D、E河段;侵蚀型个体在D、E河段相对丰度较高。生活型表现为穴居者相对丰度在A、B、C 河段高于D E河段;蔓生者在A河段高于其他河段;附着者在D、E河段相对丰度高于其他河段。营养习性方面,集食者在A、B、C 河段丰度最大;滤食者在D、E 河段丰度最大;捕食者在A河段高于其他河段。
+
+# 2.2.2等级性状季节动态
+
+对等级性状时间格局进行对比分析（图2）,结果表明33个等级性状中仅有12个在时间序列上差异显著（ $P { < } 0 . 0 5 )$ ;涉及10个功能性状中的6个,化性、附着能力、形态、流态偏好4个功能性状所属等级性状在各季节间差异不显著( $P { > } 0 . 0 5 )$ 。具体为：强漂移性个体相对丰度10 月 $\geqslant 4$ 月 $\geqslant 1 2$ 月。强游泳能力个体相对丰度在4月小于10和12月。个体大小方面,小型个体相对丰度在12月小于4月和10月;中等大小个体相对丰度12月大于10和4月;大型个体相对丰度10月高于其他月份。温度偏好表现为喜热型个体相对丰度在4月高于其他月份。生活型方面,穴居者相对丰度在4、10月高于12月;蔓生者相对丰度在4月份最大,10月份最小;附着者相对丰度12月份高于其他月份。营养习性方面,集食者相对丰度在4、10月高于12月;滤食者、
+
+![](images/7c87be4431785f538e4bbc73ece4a088330e32d1f89e9b99d4a5eb55eeb749ba.jpg)  
+图1各河段底栖动物等级性状相对丰度  
+Fig.1Relative abundance of macroinvertebrates state traits in different river reaches
+
+图中所示为差异显著等级性状， $P < 0 . 0 5 ; \mathrm { A }$ 代表 $\mathrm { \bf A }$ 河段,B代表B河段,C代表C河段,D代表D河段,E代表E河段;各参数见表2捕食者相对丰度在12月份高于其他月份。
+
+![](images/fe57cf58224134b8351c7cc2fc69dd3a6a13b5ba40150267471725995e7c7688.jpg)  
+图2不同季节底栖动物等级性状相对丰度  
+Fig.2Relative abundance of macroinvertebrates state traits among different seasons
+
+# 2.3 功能多样性
+
+# 2.3.1 功能多样性空间格局
+
+分析底栖动物功能多样性空间格局（见图3）,发现D河段功能多样性均值最高（0.119）,E、A河段次之 （分别为 $0 . 1 0 6 , \ L _ { 0 . 1 0 4 } ) , \ L _ { 0 . \mathrm { B } }$ 河段最低（分别为 $0 . 0 9 4 , 0 . 0 6 7 ;$ ;整体表现为 $\mathrm { D } { \geqslant } \mathrm { E } \mathrm { \lrcorner } \mathrm { A } { \geqslant } \mathrm { C } { > } \mathrm { B } ( P < 0 . 0 5 )$ 。对各季 节不同河段功能多样性进行比较,结果表明,4月份各河段功能多样性介于0.08—0.12之间,各河段功能多样 性指数差异不显著( $P { > } 0 . 0 5 )$ ；10月份各河段功能多样性介于0.05—0.15之间,表现为 $\mathrm { D } \geqslant \mathrm { C } \mathrm { \leqslant { A } } \mathrm { \leqslant { B } } ( P \ <$ 0.05）;12月份各河段功能多样性介于0.04—0.15之间,表现为 $\mathrm { A } \gtrsim \mathrm { D } \ . \mathrm { E } \gtrsim \mathrm { C } \gtrsim \mathrm { B } ( \ I \ < 0 . 0 5 )$ 。
+
+# 2.3.2功能多样性季节动态
+
+在时间序列上（图4）,4月、10月、12月功能多样性均值分别为 $0 . 1 0 7 , 0 . 0 9 5 , 0 . 1 0 0$ ,差异不显著( $P >$ 0.05）。具体到各河段：4、10、12月功能多样性均值在A河段分别为 $0 . 1 0 3 , 0 . 0 7 3 , 0 . 1 3 7 ; \mathrm { B }$ 河段分别为：0.073、0.060（4月份未采集）；C河段分别为 $0 . 1 0 7 , 0 . 0 8 7 , 0 . 0 9 0 ; \mathrm { D }$ 河段分别为：0.117、0.130、0.110；E河段分别为:0.103、0.113、0.103。方差分析和独立样本T检验表明,各季节功能多样性仅在A河段差异显著( $\boldsymbol { P } <$ 0.05）,表现为12月 $\geqslant 4$ 月 $\geqslant 1 0$ 月;其他河段功能多样性于季节间差异均不显著( $( P > 0 . 0 5 )$ 。
+
+![](images/edbed28685c08a7ef98968a08e7bd1ae081956f621eb90879ae8c97de1972bf9.jpg)  
+图3新薛河底栖动物功能多样性空间格局  
+Fig.3The functional diversity among different river reaches in the New Xue River
+
+# 3讨论
+
+功能性状能够响应生存环境的变化,并对生态系统功能有一定影响[16]。物种在群落中的功能主要由其获取和保存资源的能力、耐受竞争压力和环境胁迫的性状所决定[17]。性状相对丰度的差异是生境过滤的结果,即相对丰度较高的等级性状可认为是对区域环境适应较好的性状[18]。通过方差分析确定了适宜新薛河生境的等级性状,不仅增加了对底栖动物功能结构的了解,同时,对研究区域河流状况也有一定的反映。如漂移性能够反映水生昆虫规避不利环境的能力,高漂移性昆虫丰度高，一定程度上反映了河流受干扰程度较高[19-20]。附着能力、流态偏好、身体形态能够反映河流水文条件,无吸附能力、侵蚀/沉积兼备型、非流线型昆虫丰度最高是对流域水文条件的综合反映。一方面,就一个年度周期而言,流速在大多数时间应属缓流,另一方面,季节性降水又使得水文条件出现波动。体型小的个体通常生活周期较短(r选择),使群落在受到干扰后能后较快地恢复[21];同时,个体小能够增加底栖动物对水环境的利用能力（通常个体越小,生活需水量越少),对底栖动物规避旱季河道缺水意义重大[22]。营养习性是群落所在生态系统物质循环和能量流动方式的反映,研究水域集食者所占比重最高,表明新薛河底栖动物在水域生态系统中主要扮演次级生产者的角色[23]。
+
+1 生态系统功能本质上依赖于物种所具有的功能性状[24-25]。通过功能性状来探讨群落动态变化规律已经成为有力可靠的方式,相比大量关于功能性状格局的研究,功能性状动态变化的研究远远不够[26]。功能性状在空间格局上存在较大差异是对环境变化的响应及在不同功能之间的权衡[27],分析结果同研究河段间生境高异质性比较一致。河段A流速低、水深浅,由多个小型汇水区(poo)构成,群落性状组成主要表现为极少迁移型、蔓生型、捕食者个体所占比重最高,强游泳能力、有附着能力型、侵蚀型、滤食者个体相对较少。河段 B最易出现断流现象,水流以激流为主,其性状特征主要表现为高迁移型、有附着能力、个体小型、侵蚀型、集食者个体少,流线型、滤食者个体占比较高。D、E河段流速相对较大,受人为干扰较小,群落性状主要表现为强游泳型、吸附型、侵蚀型、附着型、滤食者个体相对丰度较高。
+
+![](images/287c2f4b52e6b42fd6e14ecb8560b4c57fe29fc3cbb225b190b2f9c66f648c04.jpg)  
+图4新薛河底栖动物功能多样性季节动态  
+Fig.4\The functional diversity among different seasons in the New Xue River
+
+相对空间格局,等级性状在时间序列上差异相对较小,化性、附着能力、形态、流态偏好等4个性状所属等级性状在季节间差异均不显著,表明底栖动物各功能性状之间存在一定的权衡关系。权衡关系是功能性状间各种关系中最普遍的一种[26],这种权衡关系是经过自然筛选后形成的性状组合,也称“生态策略”,即物种沿一定的生态策略轴排列于最适应或最具竞争力的位置[28]。比如,Westoby 分析了7个新热带森林中 2134 种木本植物的7种功能性状间的关系,发现同一地点的物种共存其实是多种生活策略的稳定组合[29];Statzner等通过对欧洲地区底栖动物80年的监测数据进行分析发现,其生物形状组成基本稳定[30]。功能性状能够保持相对稳定,主要受河流生境的唯一性决定[21]。在时间尺度上,本研究功能性状组成虽然表现出一定的稳定性,但相对上述研究也表现出一定的变异,主要是因为1)研究范围较小;2)研究河流为季节性河流,B河段所在河段常有断流、干涸现象;3)流域内人口密集,干扰强度大。上述原因促使季节间生境质量差异相对较大，导致底栖动物性状组成发生变化;这和 Snook 等[31]研究结果较为一致。
+
+功能多样性可以用来分析生物对环境驱动因素的响应[27,32]。本研究底栖动物功能多样性格局主要有 2个特点:1)在空间格局上差异显著;2)季节间差异不显著(A 河段除外)。由 Rao 二次熵指数[5,1.33]的计算过程可知,造成功能多样性差异的主要原因是物种性状的距离变异；一般而言,外部压力越大,功能性状趋同性越强,功能多样性越小。功能多样性在空间格局上差异显著,是生境对适应该生境性状的一类物种进行选择的结果[4]。上述分析进一步表明,底栖动物功能多样性对间歇性断流(B河段)和污水的排放(C 河段)等环境压力具有良好的响应性。
+
+功能多样性季节动态比较符合生境模板理论,该理论认为,局地环境会对区域物种库中的物种具有过滤筛选作用,使得群落生物性状组成会逐渐同质化,即在类似的生境中,即使物种组成不同,但其生物性状组成是相似的[4]。此外,研究区域年降水量较少,降水频率较低,河道底质组成变化不大,加之性状间权衡关系的影响,使得季节间功能性状组成差异不大。A河段多样性指数季节间变异显著,主要是因为A河段静水期、流水期交替出现，水文节律变化相对较大所致。 5
+
+致谢：马相铭、李坤、李丛丛帮助野外调查，特此致谢。
+
+# 参考文献（References）:
+
+[1]Diaz S,Cabido M.Vive la différence：plant functional diversity matters to ecosystem pr ends in Ecology& Evolution，2001，16(11）：646-655.  
+2]Brer’raitsdocaltgoseatidaagntJalfExptalaridol2008,366(1) : 37-47.  
+3]Elittalidotalesssdhieiolstressed areas.Marine Pollution Bulletin，2007，54(6):640-645.  
+[4]PoffeDasdicarrotsecologicalapplcatiosinlightofgenticelatisJoalofrthAcanentolgicaliety（4）：.  
+[5] Rao CR.Diversityanddisimilaritycoeffcients：Aunifiedapproach.TheoreticalPopulation Biology，1982,21（1）:24-43.  
+[6] 张澈波.城镇化对溪流底栖动物物种多样性和功能多样性影响的研究.南京：南京农业大学，2013:1-18.  
+[7] 蒋万祥，何逢志，蔡庆华.香溪河水生昆虫功能性状及功能多样性空间格局.生态学报，2017，37(6)：1861-1870.  
+[8]EplerJH.Identficationmanualforteachironomdae（Diptera）oforthndSouthCarolina.AmercaEAGrant#X98479:1-500.  
+[9] MorseJC,YangLF,TianLX.AquaticIsectsfChinaUsefulforMonitoringWaterQualityNanjing:HohaiUniversityPress，994：-68.  
+[10] BrinkhurstRO.GuidetothefreshwateraquaticmicrodrileOligochaetesofNorthAmerica.Freshwater Science,987,6(1):78-79.  
+Useliedefinition of groups with similar traits.Freshwater Biology，2000,43(2）：175-205.  
+[12]Tachet H,Richoux P Bournaud M，Usseglio-Polatera P.Invertebres d'Eau Douce：Systematique，Biologie，Ecologie.Paris：CNRS editions,2002: 1-552.  
+[13] Bota-DukatZasadacseasuualesisdleriJoaloeatic,：533-540.  
+[14] Podani J，Schmera D.On Dendrogram-Based Measures of Functional Diversity.Oikos,2006,115(1）：179-185.  
+[15 CasanovesFlaL,DenJizDiversityoarepakagforthitegatedalysisoffctioaldversityethosoland Evolution，2011,2(3）：233-237.  
+[16] 贾鹏，杜国祯.生态学的多样性指数：功能与系统发育.生命科学，2014，26(2)：153-157.17 WrightIJ,ReichPB,Westoby,AckerlyDD,BaruchZ,BongersF,Cavender-BaresJ,ChapinT,CorelissnJHC,Diemer,leaJ,GarnierE,GroomPK,GuliasJ,HikosakaK,LamontBB,LeeT,LeeW,LuskC,MidgleyJJ,NavasML,NnemetsU,OleksyJ,adN,PoorterH,PootP,PriorL,PyankovVI,RoumeC,TomasSC,oelkerMG,VeneklasEJ,Villr,R.Theworldwideleafecooicsspectrum.Nature，2004，,428(6985）：821-827.  
+[18] MenezesS,BairdDJAmSBeyondtaxoomy：areviewofmacroinvertebraterait-basedcomunitydescriptorsastolsforfresaterbiomonitoring.Journal of Applied Ecology，2010,47(4）：711-719.  
+[19] WiseEJ.SeasoaldistrbutiondifeistosfEphemeropteraiorthbanr.reshaterlog98,（）：.  
+20]VaoteeBgapalsftallepaldelfauatiefauralndalregimes on aquatic insect communities.The American Naturalist，1980,115(5）：667-695.  
+[21] BecheLA，McelraE，eshVH.Long-tesasoalvariationintbologicaltritsofenthic-macroivertebatesintwoMedieaclimate streams in California,U.S.A.Freshwater Biology，2006,51(1）：56-75.  
+[22] Townsend CR.The Patch Dynamics Conceptof Stream Community Ecology.Freshwater Science,1989,8（1）：36-50.  
+[23] 蒋万祥，蔡庆华，唐涛，渠晓东.香溪河水系大型底栖动物功能摄食类群生态学.生态学报，2009,29（10)：5207-5218.  
+[24] DiazS,HodgsonJG,sonK,bdo,elisenJHCJliliA,otserat-MatG,GrieJ,ZrkarF,sri,d,BasconceloS,astro-DiezPunsG,HamzeheeB,osheviM,ere-Hargndeguy,Perez-RontoéMC,vanyFVedraiFYazdaniS,Abs-AiiR,oadA,saniSaes,ea,eTes-EspFlukV,ee-aJ,HJG,KowsaryE,e-aedFas-aDash,Vl-Sldor,Zak.plantisaieecosystems：evidence from three continents.Journal of vegetation science，2004，15（3）：295-304.  
+[25] HoperDU，ViousekP.TheetsofplantcompositionanddiversityocosystmprocesesSience,99773）:305.  
+[26] 刘晓娟，马克平.植物功能性状研究进展.中国科学：生命科学，2015，45(4)：325-339.  
+[27] 肖玉，谢高地，安凯，鲁春霞.基于功能性状的生态系统服务研究框架.植物生态学报，2012，36(4)：353-362.  
+[28] WrightIJ,AckerlyDD,ongersF,HasKE,barr-ManrquezG,Martinez-RamosM,MzerSJ,Mullr-LnduhcHC,PazHiaNC A,PorterL,aM,isedopC,WebCOWstb，WightSJRelatoipsoolgicallmporatessattrait variation in seven Neotropical forests.Annals of Botany，20O7,99(5）：1003-1015.  
+[29] Westoby M.A leaf-height-seed （LHS）plant ecology strategy scheme. Plant and soil，1998，199(2): 213-227.  
+[30] StatzerB,lecgyolocalaitositioofropanSrebateiti：inghtsVTrait Filter Types.Ecography，2004,27(4）: 470-488.  
+3SooalifacovereatdliftF）Hydrobiologie，2002，153(2）：245-271.  
+[32] MouchetMA，VillgerS，MasonNWH，MouilotD.Functionaldiversitymeasures：anoverviewoftheirredundancyandteirabilityodiscriminate community assmbly rules.Functional Ecology，2010,24(4): 867-876.  
+33]PavoietuirldeialPopulation Biology，2005,67(4）：231-239.

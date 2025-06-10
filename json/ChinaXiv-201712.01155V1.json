@@ -1,0 +1,305 @@
+[
+    {
+        "type": "text",
+        "text": "临床研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "连续性血液净化治疗体外循环堵管风险积分模型的构建 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "何朝生1-3，符霞²3，梁馨苓2,3,宋利²3，史伟2,3  \n1南方医科大学,广东广州 510515；广东省人民医院肾内科，广东广州 510080;广东省医学科学院,广东  \n广州510080",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的 构建24h连续性血液净化治疗患者的体外循环堵管风险积分模型。方法研究对象为425例连续性血液净化治疗的患者,其中302例用于建立体外循环堵管风险积分模型,103例用来验证该模型,观察终点为CRRT体外循环管路堵塞。所有数据采用SPSS17.0软件包进行统计分析。结果 $2 4 \\mathrm { h }$ CRRT体外循环堵塞的风险积分模型的风险评分为0\\~5分。模型积分系统的ROC曲线下面积0.7900 $9 5 \\%$ CI 0.719\\~0.826), $P { < } 0 . 0 0 1$ ,可较好地判断 $2 4 \\mathrm { h }$ 内CRRT体外循环是否会堵塞。检验结果显示，CRRT体外循环堵管预测积分模型的拟合度良好,预测堵管的发生率与实际堵管发生率无统计学差异 $\\left( \\mathrm { R } ^ { 2 } { = } 0 . 3 0 1 , P { = } 0 . 2 3 2 \\right)$ 。验证组病例中低危、中危和高危三组体外循环管路的生存时间有显著性差异 $( P { < } 0 . 0 5 )$ 。结论连续性血液净化治疗体外循环堵管风险积分模型,包括血流量不足、无抗凝剂治疗、HCT、LAC和APTT值等可以预测治疗过程中可能发生的堵管问题。根据预测可及时提前进行干预处理,减少了意外不良事件的发生。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：连续性血液净化；体外循环;凝血；积分模型",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A prognostic model for predicting extracorporeal circuit clotting in patients with continuous renal replacement therapy ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HEChaosheng1-,FUXia2 3,LIANGXinliang23,SONG $L i ^ { 2 , 3 }$ SHI Wei23   \nSouthernedicleityua;patofodoalsa   \nChina;³GuangdongAcademy ofMedical Sciences,Guangzhou 51oo8o,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:ObjectiveTo establishaprognosticmodel for predicting extracorporealcirculationcloting inpatientswith continuousrenal replacement therapy(CRRT).Methods425 patients with CRRT were involved in the study.We built a predictive risk modelof extracorporeal blood cloting withthe302 participants,and103 participants wereused to validate the model.The primary endpoint of CRRT was extracorporeal circulation pipe blockage. Results We used a score of O-5 point evaluating system to predict the risk of 24 hours CRRT integral model of cardiopulmonary bypass clogging.The area under the CRRT predictive model of cardiopulmonary bypass clogging integral system ROC curve was 0.790 $( 9 5 \\% \\mathrm { C I } 0 . 7 1 9 \\ – 0 . 8 2 6 ) ( P <$ 0.001). Theevaluating systemcan determine the blockageof 24hoursCRTextracorporealcirculation.Theresultsshowed that CRRT extracorporeal plugging prediction fited the integral model and could predict the chance of plugging. The actual plugging rate showed no significant difference from the predicted rate $( \\mathrm { R } 2 { = } 0 . 3 0 1$ $\\scriptstyle P = 0 . 2 3 2$ ). The cardiopulmonary pipe survival time between the 3 groups(low risk, intermediate risk,and high risk) showed a significant diffrence $( P { < } 0 . 0 5 )$ . Conclusion We established acontinuity extracorporeal blood purification pluggng risk sore model,to predict plugging risks during CRRT treatment. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: continuous blood purification; extracorporeal circuit; cloting; integral model ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "连续性血液净化(continuous blood purification,CBP)，又称为连续性肾脏替代疗法(continuousrenalreplacementTherapy,CRRT)，是几十年来血液净化治疗技术的重大革新与进步，已经成为当今危重症患者重要治疗手段[-5]。在连续性血液净化治疗过程中,由于治疗持续时间长，引起体外循环堵塞的因素较多，各因素间存在相互作用，从而导致治疗过程中体外循环堵塞的发生率较高。据报道，CRRT治疗过程中体外循环堵塞发生率 $6 7 . 6 \\% { \\sim } 7 4 . 6 \\% ^ { [ 6 - 7 ] }$ 。体外循环系统堵塞严重影响治疗目标的完成以及导致患者大量失血[89]。许多因素都可能直接或间接导致体外循环凝血，包括血管通路的通畅性、血流量、血浓缩、血小板计数、抗凝剂用量、透析器膜材料以及治疗模式等[10-14]。然而，目前导致体外循环凝血过程的确切因素尚不清楚。因此，如何最大限度地避免出现严重堵管导致血液丢失是连续性血液净化治疗的重要课题。本研究拟对425例患者的体外循环堵塞相关因素进行分析，除血流量、输血制品、超滤速度、抗凝剂等因素外，还对患者血常规、凝血指标、肝功能、血气分析、电解质、血压等可能的影响因素进行研究，旨在建立体外循环堵塞风险积分模型，",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1资料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1研究对象",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2011年1月1日\\~2013年6月31日在广东省人民医院重症监护室接受连续性血液净化治疗的425例患者纳入研究。2011年1月1日\\~2012年9月30日收集的病例(共302例)用于建立体外循环堵管的风险积分模型，2012年10月1日\\~2013年6月31日收集的病例（共103例用来验证该模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "纳入标准：(1)年龄18岁及以上;(2)持续治疗时间超过 $2 4 \\mathrm { h } ; 3 )$ 治疗前 $2 4 \\mathrm { h }$ 内有血常规、凝血指标、血气分析、生化八项和肝功能的检验结果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "排除标准：(1)心脏手术后 $7 2 \\mathrm { { h } }$ ;(2)接受体外膜氧合(ECMO)治疗;(3)因堵管以外的其他原因中断治疗;(4)透析抗凝方式采用其他抗凝方式(非低分子肝素抗凝)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2连续性血液净化治疗程序",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设备：Aquarius连续性血液净化治疗机（美国Baxter);血管通路：临时静脉置管通路(美国Quinton双腔导管）；血滤器：FB190U（三醋酸纤维素膜，日本Nipro)或FX60(聚砜膜，德国费森尤斯公司);治疗模式：根据患者的治疗需要选择连续性血液透析滤过(continuous venovenous hemodiafiltration, CVVHDF)或连续性血液滤过(contimiousvenovenous hemo-filtration，CVVH)；置换液：A液采用成都青山利康公司生产4L袋装血液滤过置换基础液，B液采用 $5 \\%$ 碳酸氢钠注射液 $2 5 0 ~ \\mathrm { m l }$ 由另一通路注入体内，配方根据患者病情、生化及血气结果进行动态调整，以确保患者内环境及血流动力学稳定；抗凝方案：低相对分子质量肝素或无抗凝治疗。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3观察终点及判断标准 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "观察终点为CRRT体外循环管路堵塞,出现以下任何一种情况:跨膜压(TMP)持续大于 $3 0 0 { \\mathrm { m m H g } }$ ；静脉压(VP)大于 $3 5 0 \\mathrm { m m H g }$ ；连续性血液净化治疗机持续报警无法继续工作，需要回血重新更换管路或滤器。观察时间为治疗开始后 $6 、 1 2 、 1 8 、 2 4 \\mathrm { h }$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4 统计方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1研究对象的人口学资料与临床特征",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "425例患者构建模型组和模型验证组的体外循环管路的平均寿命分别为 $1 5 . 5 { \\pm } 1 . 6 \\mathrm { ~ h ~ }$ 和 $1 3 . 6 { \\pm } 2 . 4 \\mathrm { ~ h } ( { t = }$ 0.893, $P { = } 0 . 3 4 5$ )，两组病例管路凝血的发生率分别为$6 7 . 7 \\%$ 和 $6 4 . 2 \\% ( t = - 1 . 0 1 6 , P = 0 . 3 1 0 )$ 。根据时间划分的两组病例特征均衡，其临床特征和人口社会学因素无显著性差异 $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2单因素方差分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "单因素方差分析结果显示，共有12个变量可能影响体外循环管路的寿命。根据预先设定的显著性差异水准 $P { < } 0 . 0 5$ ，可能影响CRRT体外循环凝血的12个因素包括年龄、血红蛋白 $( \\mathrm { g / L } )$ ）、HCT、NEUT ratio $( \\% )$ 、aPTT、PT $. \\mathrm { A } \\%$ 、INR、FIB $( \\mathrm { g / L } )$ ）、动脉血气分析LAC(mmol/L）动脉血气分析血糖值(mmol/L）抗凝剂(LMWH)和充足的血流量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3多因素分析及风险模型构建",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Spearman相关分析结果显示， $P { > } 0 . 6$ 的3对因素且临床上判定对凝血具有共线性的相关因素分别为$\\mathrm { P T - A } \\%$ 与aPTT( $\\mathrm { R } { = } { - } 0 . 6 1 2$ ， $\\scriptstyle P < 0 . 0 0 1 .$ ），HCT与Hb( $\\mathrm { \\widehat { R } = }$ 0.974, $P { < } 0 . 0 0 1$ ， $\\mathrm { P T - A } \\%$ 与INR( $\\scriptstyle \\mathrm { R = - 0 . 9 9 0 }$ ， $P { < } 0 . 0 0 1 \\$ ，剔除Hb和 $\\mathrm { P T - A } \\%$ ，将剩余的可能影响体外循环管路凝血的10个变量纳入Cox比例风险回归分析后结果显示，共有HCT、aPTT、乳酸、抗凝剂及充足的血流量等5个变量进入Cox风险模型(表1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4建立CRRT体外循环堵管风险积分模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据每一项指标对应的积分（将多变量Coxproportional-hazards模型中每个独立预测因素的回归系数除以最小预测因素回归系数，所得数值四舍五入取整数即为该因素的风险评分值)，建立 $2 4 \\mathrm { h }$ CRRT体外循环堵塞的预测积分模型，每个变量的评分均为1分，即CRRT风险评分为0\\~5分(表2)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.5CRRT体外循环堵管风险积分模型的验证 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究结果显示，CRRT体外循环堵塞风险积分模型的ROC曲线下面积0.790( $9 5 \\%$ CI: 0.719-0.826) , $P <$ 0.001，提示该模型可较好地判断 $2 4 \\mathrm { ~ h ~ }$ 内CRRT体外循环是否会堵塞(表3)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Hosmer-Lemeshow检验结果显示，CRRT体外循 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "所有数据应用SPSS17.0统计软件进行分析，计量数据以均数标准差表示，用单因素方差分析及LSD-t检验进行组间两两比较，计数资料采用卡方检验，单变量分析采用Cox比例风险模型选择进入方法，采用ROC曲线下面积及Hosmer-Lemeshow检验评估体外循环堵管风险积分模型， $P <$ 0.05为差异具有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/b375683cd1d8c1acdfdf6118492bf804a86bd4101e65ae1da08dca037f769954.jpg",
+        "table_caption": [
+            "表1CRRT体外循环凝血的COX比例风险回归分析Tab.1 Cox proportional-hazards model of factors on circuit coagulation in CRRT"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Variables</td><td colspan=\"3\">Multivariate analysis</td></tr><tr><td>β coefficient</td><td>P</td><td>Adjusted HR (95.0% CI)</td></tr><tr><td>HCT</td><td>1.055</td><td>0.002</td><td>1.951 (1.297-2.949)</td></tr><tr><td>aPTT(s)</td><td>-0.014</td><td>0.001</td><td>0.987 (0.979-0.994)</td></tr><tr><td>LAC of (mmol/L)</td><td>-0.061</td><td>0.002</td><td>0.941 (0.905-0.987)</td></tr><tr><td>Anticoagulation (LMWH)</td><td>0.547</td><td>0.001</td><td>1.725 (1.273-2.345)</td></tr><tr><td>Sufficient Blood flow</td><td>0.744</td><td>0.001</td><td>2.105 (1.345-3.295)</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/75e9c24cff86090c9afaa69571230222ecbef06b58283d75498622217d36cc49.jpg",
+        "table_caption": [
+            "表2CRRT体外循环堵管风险预测积分模型 Tab.2 Risk-scoring system of circuit coagulation in Cox proportional-hazards models during CRRT "
+        ],
+        "table_footnote": [
+            "CRRT:Continuous Renal ReplacementTherapy; HCT:hematocrit;aPTT:activated partialthromboplastintime partactivated clotting time; Lac: lactate. "
+        ],
+        "table_body": "<html><body><table><tr><td>Variables</td><td></td><td>HR (95.0% CI)</td><td>P</td><td>β coefficient</td><td>scores</td></tr><tr><td rowspan=\"2\">Insufficient blood flow</td><td>yes</td><td>1.640 (1.039-2.588)</td><td>0.034</td><td>0.494</td><td>1</td></tr><tr><td>no</td><td></td><td></td><td></td><td>0</td></tr><tr><td rowspan=\"2\">No anticoagulation</td><td>yes</td><td>1.890 (1.389-2.573)</td><td>0.001</td><td>0.637</td><td>1</td></tr><tr><td>no</td><td></td><td></td><td></td><td>0</td></tr><tr><td rowspan=\"2\">LAC≤3 mmol/L</td><td>yes</td><td>1.994 (1.456-2.732)</td><td>0.001</td><td>0.69</td><td>1</td></tr><tr><td>no</td><td></td><td></td><td></td><td>0</td></tr><tr><td rowspan=\"2\">HCT>0.37</td><td>yes</td><td>1.951 (1.287-2.959)</td><td>0.002</td><td>0.668</td><td>1</td></tr><tr><td>no</td><td></td><td></td><td></td><td>0</td></tr><tr><td rowspan=\"2\">APTT≤44.2</td><td>yes</td><td>2.012 (1.500-2.699)</td><td>0.001</td><td>0.699</td><td>1</td></tr><tr><td>no</td><td></td><td></td><td></td><td>0</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/eafce86b4abe1036106e923ce9b680e6309f3e34c9ce13ba63c9a8001ad5e6d4.jpg",
+        "table_caption": [
+            "表3CRRT体外循环堵管的ROC曲线相关数据Tab.3 Data of ROC curve in extracorporeal circuit life of CRRT"
+        ],
+        "table_footnote": [
+            "\\*The cutoff level with maximum diagnostic accuracy is in asterisk.CI: confidence interval; $+ \\mathrm { L R }$ ：Positive likelihood ratio:-LR=Negative likelihood ratio. "
+        ],
+        "table_body": "<html><body><table><tr><td>SCOER</td><td>Sensitivity 95% CI</td><td>Specificity 95% CI</td><td>+LR 95% CI</td><td>-LR 95% CI</td></tr><tr><td>≥0</td><td>100% (91-100)</td><td>0% (0-4)</td><td>1.00%</td><td></td></tr><tr><td>>1*</td><td>84% (69-94)</td><td>56% (45-67)</td><td>1.92%</td><td>0.20%</td></tr><tr><td>>2</td><td>41% (26-56)</td><td>90% (82-96)</td><td>4.31%</td><td>0.65%</td></tr><tr><td>>3</td><td>3% (1-14)</td><td>100% (96-100)</td><td></td><td>0.97%</td></tr><tr><td>>4</td><td>0% (0-9)</td><td>100% (96-100)</td><td></td><td>1.00%</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "环堵塞风险积分模型的拟合度良好，预测堵管的发生率与实际堵管发生率无统计学差异( $\\scriptstyle P = 0 . 2 3 2$ ，图1)。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/073672045db9b0add9bf98d43addf6bca02f1e1394e79aaaf12fbe5f6a838515.jpg",
+        "img_caption": [
+            "图1积分模型预测堵管的发生情况与实际堵管的比较 Fig.1 Comparison between predicted and observed circuit cloting. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "验证组病例根据堵管风险预测得分情况分为3组：低危0\\~1分;中危2\\~3分;高危4\\~5分。3组体外循环管路的生存时间有显著性差异。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "连续性血液净化治疗技术越来越成为危重症患者救治不可或缺的手段，实施连续性血液净化治疗时，除了治疗剂量的制定外，面临的最大问题就是如何保证治疗能够顺畅进行，血液体外循环可能导致体外循环管路及血滤器凝血5，使治疗无法继续进行，严重时还会导致体外循环的血液无法回输体内，导致患者严重失血。可见，体外循环管路的通畅是保证CRRT的顺利进行不可或缺的必备条件之一[16。然而,重症患者体外循环管路的通畅性往往受到多种因素的影响，使用时间并不理想。Lagenecker等[17学者的研究结果显示,即便使用肝素或肝素联合使用前列环素进行CVVH治疗，也只能维持体外循环管路寿命在 $1 4 { \\sim } 1 7 \\mathrm { h }$ 。我们的研究结果显示，CRRT治疗的体外循环管路使用寿命的中位时间是$1 5 . 0 { \\pm } 1 . 3 \\mathrm { h }$ ，管路堵塞的发生率高达 $6 6 . 6 \\%$ 。因此，为了保证连续性血液净化的顺利进行,严密监测体外循环管路的运行状态并预测堵管，提前给予处理是非常有必要的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究构建和验证了一个简单的CRRT体外循环堵管预测积分模型，可以很好地预测堵管存在的可能风险。而且，该预测工作可以简便快捷地在床旁进行，不需要利用电脑或计算机设备进行繁琐的操作。只需要观察五个指标，包括血流量不足，没有抗凝， $\\mathrm { H C T } { \\geqslant } 0 . 3 7$ 动脉血气分析乳酸值 $\\stackrel { \\cdot } { \\left. \\leqslant 3 \\right. }$ mmol/L和APTT $< 4 4 . 2 \\mathrm { ~ s ~ }$ ,这些指标评分均为1分。当这些危险因素存在时，要采取特别的干预措施来降低堵管的风险。积分总得分 ${ \\geqslant } 3$ 即可预测堵管的发生，这时需要及早更换整套体外循环管路或者通过调整治疗参数来降低堵管的风险，此举可大大提高治疗质量和避免失血。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "此外，本研究结果显示，堵管风险预测积分0\\~1分、",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2\\~3分以及3\\~5分可以分别提示堵管的低、中及高危风险。这种简单的预测办法可以使得操作者对治疗过程中的管路运行状况具有良好的把握度，能及时进行恰当的应对处理。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "既往研究显示：充足的血流量对血液净化治疗至关重要[18。这与本研究一致,即血流量不足, $< 2 0 0 ~ \\mathrm { m l / m i n }$ ，可能会导致堵管,在预测积分模型中可获得1分的风险值。提示我们在临床治疗过程中，可以通过选择适宜的血管通路类型或选择合适的静脉导管直径，保证充足的血流量，为治疗的顺畅性提供一分保险;大量的临床研究和实践已经证实，HCT和APTT可以客观地反映体内凝血活动的水平，我们的风险积分模型中也包含了这两个指标，说明它们对堵管风险预测具有同等的贡献值。$\\mathrm { H C T } { \\geqslant } 0 . 3 7$ 或 $\\mathrm { A P T T } { < } 4 4 . 2 \\ \\mathrm { s }$ 均对CRRT治疗的体外循环堵管具有一定的风险,但这两个因素在临床中只能反映其对堵管的预测能力，而无法对相关的参数进行调整，故当这两个因素对体外循环存在凝血风险时，应加强其他三个因素的参数调整并密切监测治疗过程中体外循环管路的各项压力水平，及早对可能的堵管进行预见性处理;Oudemans-van Straaten等学者建议在CRRT治疗过程中只要不增加出血就应该使用低分子肝素进行抗凝，以保证体外循环的通畅[18]。这个建议与我们的研究一致，在预测模型中“无抗凝剂治疗\"会增加堵管的发生风险，相比可能的出血风险，为了保证CRRT治疗的顺利进行，需要应用低分子肝素进行抗凝。对于存在严重出血倾向的患者，则建议采用枸橼酸抗凝的方式进行治疗;此外，本研究构建的积分模型还包含了\"LAC $\\mathtt { \\backslash \\le 3 }$ mmol/L\"预测指标，这是符合人体的生理凝血机制的，因为LAC水平下降会增加凝血的发生几率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因此，连续性血液净化体外循环堵管风险积分模型，包括血流量不足、无抗凝剂治疗、HCT、LAC和APTT值等可以用于预测治疗过程中可能发生的堵管问题。进而可以通过简单的预测即可及时进行干预处理，减少了可能的意外堵管致使无法回血等不良事件的发生，并可增加有效治疗时间。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Wald R,Friedrich JO,Bagshaw SM,et al.Optimal mode of clearance in critically ill patientswith acute kidney injury (OMAKI) -a pilot randomized controlled trial of hemofiltration versus hemodialysis:a Canadian critical care trials group project[J]. Crit Care,2012,16(5):R205.   \n[2]Ronco C,Bellomo R，Ricci Z.Continuous renal replacement therapy in critically ill patients ［J].Nephourol Dial Transplant, 2001,16(Suppl 5): 67-72.   \n[3]Uchino S,Bellomo R,Morimatsu H,et al.Continuous renal replacement therapy:A worldwide practice survey [J]. Intensive Care Med,2007,33:1563-70.   \n[4]Vanholder R,Van Biesen W,Lameire N. What is the renal replacement method of first choice for intensive care patients[J]. J Am Soc Nephourol, 2001,12(suppl 17): S40-3.   \n[5]Kleger GR,Faesser E.Can circuit lifetime be a quality indicator in continuous renal replacement therapy in the critically ill[J].Int J Artif Organs,2010,33(3): 139-46.   \n[6]Kim IB,Fealy N,Baldwin I, et al. Insertion side,body position and circuit Life during continuous renal replacement therapy with femoral vein access[J].Blood Purif,2011,31(1/3): 42-6.   \n[7]Holt AW,Bierer P,Glover P,et al. Conventional coagulation and thromboelastograph parameters and longevity of continuous renal replacement circuits[J]. Intensive Care Med,2002,28(11): 1649-55.   \n[8]Joannidis M, Straaten HM. Clinical review: Patency of the circuit in continuous renal replacement therapy[J]. Crit Care,2OO7,11(4): 218.   \n[9]Cutts MW,Thomas AN, Kishen R. Transfusion requirements during continuous veno-venous haemofiltration: the importance of filter Life[J]. Intensive Care Med,2000,26(11): 1694-7.   \n[10]Hackbarth R,Bunchman TE,An C,et al. The effect of vascular access location and size on circuit survival in pediatric continuous renal replacement therap y:a report from the PPCRRT registry[J]. Int J Artif Organs, 2007,30(12): 1116-21.   \n[11] Baldwin I,Bellomo R,Koch B.Blood flow reductions during continuous renal replacement therapy and circuit Life[J]. Intensive Care Med,2004,30(11): 2074-9.   \n[12]Padrini R,Canova C,Conz P,et al. Convective and adsorptive removal ofbeta 2-microglobulin duringpredilutionaland postdilutional hemofiltration[J]. Kidney Int,20o5,68(5): 2331-7.   \n[13]Uchino S,Fealy N,Baldwin I, et al. Pre-dilution vs. post-dilution during continuous veno-venous hemofiltration: Impact on filter Life and azotemic control[J]. Nephron Clin Pract,2003, 94(4): C94-8.   \n[14] Zhu LP, Zhang XX， Xu L,et al. Improved protein-adsorption resistance of polyethersulfone membranes via surface segregation of ultrahigh molecular weight poly (styrene-alt-maleic anhydride) J]. Colloids Surf B Biointerfaces,2007,57(2): 189-97.   \n[15]Hisrh J,Rasehke R,Warkentin TE,et al.HeParin: mechanism of action，Pharlnacokineties，dosingconsiderations，monitoring, efficacy,and safety[J]. Chest,1995,108(4Suppl): 12.   \n[16]Uchino S,Fealy N, Baldwin I, et al. Continuous is not continuous: the incidence and impact of circuit\"down-time\"on uraemic control during continuous veno-venous haemofiltration[J]. Intensive Care Med,2003,29(4): 575-8.   \n[17]Langenecker SA,Felfernig M, Werba A,et al. Anticoagulation with prostacyclin and heparin during continuous venovenous hemofiltration[J]. Crit Care Med,1994,22(11): 1774-81.   \n[18]mans-van VH,Wester J,de Pont A,et al.Anticoagulation strategies incontinuous renal replacement therapy: can the choice be evidence based[J]. Intensive Care Med,2006,32(2): 188-202. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（编辑：孙昌朋）",
+        "page_idx": 3
+    }
+]

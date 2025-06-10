@@ -1,0 +1,358 @@
+# Degrees of freedom of $f ( T )$ gravity
+
+Miao Li $a$ ， Rong-Xin Miao $\boldsymbol { b }$ ， and Yan-Gang Miao $c$   
+（204 $a$ Kavli Institute for Theoretical Physics,   
+Key Laboratory of Frontiers in Theoretical Physics,   
+Institute of Theoretical Physics， Chinese Academy of Sciences,   
+Beijing 100190， People's Republic of China. \*   
+$\boldsymbol { b }$ Interdisciplinary Center for Theoretical Study,   
+University of Science and Technology of China,   
+Hefei， Anhui 230026, People's Republic of China.t and   
+（20 $c$ School of Physics， Nankai University,   
+Tianjin 300071， People's Republic of China.\*
+
+Abstract
+
+We investigate the Hamiltonian formulation of $f ( T )$ gravity and find that there are five degrees of freedom. The six first class constraints corresponding to the local Lorentz transformation in Teleparallel gravity become second class constraints in $f ( T )$ gravity, which leads to the appearance of three extra degrees of freedom and the violation of the local Lorentz invariance in $f ( T )$ gravity. In general, there are $D - 1$ extra degrees of freedom for $f ( T )$ gravity in $D$ dimensions,and this implies that the extra degrees of freedom correspond to one massive vector field or one massless vector field with one scalar field.
+
+# I. INTRODUCTION
+
+$f ( T )$ gravity as an alternative to dark energy has recently received much attention in cosmology [1-23]. It is a generalization of the teleparallel gravity $( T G )$ [24-26] by replacing the so-called torsion scalar $T$ with $f ( T )$ ： $T G$ was originally developed by Einstein in an attempt of unifying gravity and electromagnetism. The basic variables in $T G$ are tetrad fields $e _ { a \mu }$ ，where the Weitzenbock connection rather than the Levi-Civita connection was used to define the covariant derivative. As a result, there is no curvature but only torsion. A vector $V ^ { \mu }$ in $T \mathrm { \ ' } G$ is parallel transported along a curve if its projection $\begin{array} { r } { V _ { a } = e _ { a \mu } V ^ { \mu } } \end{array}$ remains constant,this is the so-called teleparallelism. It is interesting that a covariant energymomentum tensor of gravitation can naturally be defined in the gauge context of $T G$ [27].
+
+$f ( T )$ gravity is different from $f ( R )$ gravity in several aspects. Firstly, as a main advantage compared with $f ( R )$ gravity, the equations of motion of $f ( T )$ gravity are second-order instead of fourth-order. Secondly, the local Lorentz invariance is violated in $f ( T )$ gravity [18]. Therefore, extra degrees of freedom will appear. Till now, it is not clear how many extra degrees of freedom there are in $f ( T )$ gravity[30]. One might make a guess from the viewpoint of symmetry. There are 16 tetrad fields $e _ { a \mu }$ in $f ( T )$ gravity among which four $e _ { a 0 }$ are nondynamical， so 12 degrees of freedom remain. Like $T G$ ， $f ( T )$ gravity is invariant under the general coordinate transformation which again removes four more degrees of freedom. Because the local Lorentz invariance is violated in $f ( T )$ gravity, unlike $T G$ , there is no further local gauge symmetries which can be used to eliminate degrees of freedom. Therefore, one might guess that there are totally eight (or six extra) degrees of freedom in $f ( T )$ gravity. However，it is not the case. The key point lies in the fact that there are second class constraints in $f ( T )$ gravity, thus the above guess fails and the degrees of freedom should be fewer than eight. To find out the number of degrees of freedom in $f ( T )$ gravity， we need to analyze the constraint structure strictly. To the best of our knowledge,the Hamiltonian formulation is our first choice to derive the number of degrees of freedom[31]. In this paper, we analyze the constraint structure of $f ( T )$ gravity and find that there are totally five degrees of freedom. A simple interpretation of this result is that the six first class constraints corresponding to the local Lorentz transformation in $T G$ turn into second class in $f ( T )$ gravity, thus three extra degrees of freedom emerge in $f ( T )$ gravity.
+
+The paper is arranged as follows. In Sec. 2, we give a brief review of $f ( T )$ gravity. In
+
+Sec.3,we establish the Hamiltonian formulation of $f ( T )$ gravity. In Sec. 4 and Sec. 5,we analyze the degrees of freedom of $f ( T )$ gravity in $4 D$ and $3 D$ , respectively. At the end of Sec. 5,we briefly discuss the the degrees of freedom of $f ( T )$ gravity in $D$ dimensions.We conclude in Sec. 6.
+
+# II. BRIEFREVIEWOF $f ( T )$ GRAVITY
+
+Let us start with some definitions. $e _ { a \mu }$ are tetrad felds and $g _ { \mu \nu }$ is the spacetime metric. They are related with each other by $\eta _ { a b } = e _ { a \mu } e _ { b \nu } g ^ { \mu \nu } = ( - 1 , 1 , 1 , 1 )$ and $g _ { \mu \nu } = e _ { a \mu } \eta ^ { a b } e _ { b \nu }$ ， where $a$ and $\mu$ are the internal space and spacetime indices, respectively.“ $a ^ { \prime \prime }$ runs from 0 to 3,and $\mu = 0 , i$ ， $^ { \mathfrak { s } _ { i } \mathfrak { s } }$ runs from 1 to 3. $T _ { a \mu \nu } = \partial _ { \mu } e _ { a \nu } - \partial _ { \nu } e _ { a \mu }$ are torsion fields and $T$ is defined as
+
+$$
+T = \Sigma ^ { a b c } T _ { a b c } , \qquad \Sigma ^ { a b c } = \frac { 1 } { 4 } ( T ^ { a b c } + T ^ { b a c } - T ^ { c a b } ) + \frac { 1 } { 2 } ( \eta ^ { a c } T _ { d } ^ { ~ d b } - \eta ^ { a b } T _ { d } ^ { ~ d c } ) .
+$$
+
+The Lagrangian density of $f ( T )$ gravity is
+
+$$
+L = - e f ( T ) ,
+$$
+
+where we have set the Newton constant $\begin{array} { r } { G = \frac { 1 } { 1 6 \pi } } \end{array}$ ， $e = | e _ { a \mu } | = \sqrt { - g }$ In $T G$ ， $T$ is written as
+
+$$
+T = - R - 2 \nabla ^ { \mu } T ^ { \nu } { } _ { \mu \nu } ,
+$$
+
+where $R$ and $\nabla ^ { \mu }$ are the Ricci scalar and covariant derivative in Einstein gravity, respectively. Since $\nabla ^ { \mu } T ^ { \nu } { } _ { \mu \nu }$ is not a local Lorentz scalar, $f ( T )$ gravity has no local Lorentz invariance and thus it has more degrees of freedom than that of $T G$ which is equivalent to Einstein gravity. One can also argue that there are extra degrees of freedom for $f ( T )$ gravity by analyzing the equation of motion [18],
+
+$$
+H _ { \mu \nu } = f ^ { \prime } ( T ) ( R _ { \mu \nu } - \frac { R } { 2 } g _ { \mu \nu } ) + \frac { 1 } { 2 } g _ { \mu \nu } [ f ( T ) - f ^ { \prime } ( T ) T ] + 2 f ^ { \prime \prime } ( T ) \Sigma _ { \nu \mu \rho } \nabla ^ { \rho } T = \frac { 1 } { 2 } \Theta _ { \mu \nu } ,
+$$
+
+where $\Theta _ { \mu \nu }$ is the stress-energy tensor of matter. For simplicity, the action of matter field is supposed to have the local Lorentz invariance,and therefore $\Theta _ { \mu \nu }$ is symmetrical [18]. There are six extra equations
+
+$$
+{ \cal H } _ { [ \mu \nu ] } = 2 f ^ { \prime \prime } ( T ) \Sigma _ { [ \nu \mu ] \rho } \nabla ^ { \rho } T = 0
+$$
+
+in $f ( T )$ gravity, thus it is expected that there are more physical degrees of freedom. Naturally, one may guess that there are six extra degrees of freedom, however, it is not the case. In fact，as we will show in Sec. IV, there are only three extra degrees of freedom， which implies that not allof the equations (eq. (5)) contribute to the dynamics of the tetrad fields.
+
+To find out the number of the physical degrees of freedom, we shall analyze the structure of constraints of $f ( T )$ gravity in the next section. For simplicity, let us rewrite the $f ( T )$ Lagrangian density (eq. (2)) in an equivalent form
+
+$$
+L = - e [ f ( \varphi ) + \phi ( T - \varphi ) ] ,
+$$
+
+where $\varphi$ and $\phi$ are two auxiliary fields. The variation of the action with respect to $\varphi$ leads to the feld equation
+
+$$
+\phi = \frac { \partial f ( \varphi ) } { \partial \varphi } .
+$$
+
+Using the above equation， we can solve $\varphi$ in terms of $\phi$ for every given function $f$ . Substituting the solution $\varphi ( \phi )$ into eq. (6), we can get an equivalent Lagrangian density
+
+$$
+{ \cal { L } } = - e [ \phi T + V ( \phi ) ] ,
+$$
+
+which contains only one auxiliary feld $\phi$ . We do not need to know the exact form of $V ( \phi )$ since it is irrelevant to our analysis of constraint structure. We shall focus on the Lagrangian density eq. (8) in the following sections.
+
+To end this section,let us briefly discuss the conformal rescaling of the action of $f ( T )$ gravity. It is well known that the action of f(R) gravity
+
+$$
+S = \int d ^ { 4 } x \sqrt { - g } f ( R )
+$$
+
+is equivalent to the Einstein gravity with a scalar field
+
+$$
+S = \int d ^ { 4 } x \sqrt { - \tilde { g } } [ \tilde { R } - { \frac { 1 } { 2 } } \partial ^ { \mu } \tilde { \phi } \partial _ { \mu } \tilde { \phi } - V ( \tilde { \phi } ) ] ,
+$$
+
+if wepefoofoaasfoaio $\tilde { g } _ { a b } = f ^ { \prime } g _ { a b }$ and $\tilde { \phi } = \sqrt { 3 } \ln f ^ { \prime }$ ， $\begin{array} { r } { V ( \tilde { \phi } ) = \frac { R f ^ { \prime } - f } { ( f ^ { \prime } ) ^ { 2 } } } \end{array}$ Similarly, performing the conformal transformation $\widetilde { e } _ { a \mu } = \sqrt { \phi } e _ { a \mu }$ and $\tilde { \phi } = \sqrt { 3 } \ln \phi$ ， $\begin{array} { r } { V ( \tilde { \phi } ) = \frac { V ( \phi ) } { \phi ^ { 2 } } } \end{array}$ ， we can rewrite the action eq. (8) in the following form
+
+$$
+S = \int d ^ { 4 } x \sqrt { - \tilde { g } } [ \tilde { R } + \frac { 1 } { 2 } \partial ^ { \mu } \tilde { \phi } \partial _ { \mu } \tilde { \phi } - V ( \tilde { \phi } ) - \frac { 2 } { \sqrt { 3 } } \tilde { T } ^ { \nu \mu } { } _ { \nu } \partial _ { \mu } \tilde { \phi } ] ,
+$$
+
+where we have used formulas $e = \sqrt { - g }$ and $T = - R { - } 2 \nabla ^ { \mu } T ^ { \nu } { } _ { \mu \nu }$ . Note that the kinetic energy term of scalar $\tilde { \phi }$ in the above action has a wrong sign which seems to lead to instabilities. The last term in the above action is not a local Lorentz scalar which is a reflection of the violation of the local Lorentz invariance in f(T） gravity.
+
+The above action may realize a kind of Higgs mechanism, so that a vector in $e _ { a \mu }$ becomes a massive dynamic vector. Thus, it is possible that the general $f ( T )$ gravity contains a massless spin two graviton and a massive vector.
+
+# III. HAMILTONIAN FORMULATION OF $f ( T )$ GRAVITY
+
+Following the procedure developed in refs. [28, 29], we analyze the Hamiltonian formulation of $f ( T )$ gravity in this section. From the Lagrangian density eq.(8)，we can derive the momenta conjugate to $e _ { a \mu }$ and $\phi$ , respectively,
+
+$$
+\begin{array} { l } { { \Pi ^ { a \mu } = \displaystyle \frac { \partial { \cal L } } { \partial ( \partial _ { 0 } e _ { a \mu } ) } = - 4 \phi e \Sigma ^ { a 0 \mu } , } } \\ { { \pi = \displaystyle \frac { \partial { \cal L } } { \partial ( \partial _ { 0 } \phi ) } = 0 . } } \end{array}
+$$
+
+There are eleven primary constraints in the above equations
+
+$$
+\begin{array} { l } { { \Gamma ^ { a b } = \Pi ^ { a b } - \Pi ^ { b a } + 2 \phi e \left[ e ^ { a m } e ^ { b j } T _ { m j } ^ { 0 } - ( e ^ { a m } e ^ { b 0 } - e ^ { b m } e ^ { a 0 } ) T _ { m j } ^ { j } \right] \approx 0 , } } \\ { { \ } } \\ { { \Pi ^ { a 0 } \approx 0 , } } \\ { { \pi \approx 0 . } } \end{array}
+$$
+
+The derivation of constraints eq. (14) is very complicated, please refer to ref. [28] for details. Constraints eqs. (15) and (16) are obvious. Since the Lagrangian density eq. (8) contains no time derivatives of $e _ { a 0 }$ and $\phi$ , their conjugate momenta eqs. (15) and (16) vanish. We can derive the primary Hamiltonian density by a similar method to that given in ref. [28]. Here we only need to replace $k$ appearing in ref. [28] by $\phi$ and add a term of potential energy, we give the result below:
+
+$$
+\begin{array} { l } { { H _ { 0 } ~ { = ~ \Pi ^ { a \mu } { \dot { e } } _ { a \mu } + \pi { \dot { \phi } } - L } } } \\ { { { { } } ~ = ~ - e _ { a 0 } \partial _ { k } \Pi ^ { a k } - \displaystyle { \frac { 1 } { 4 g ^ { 0 0 } } \phi e \bigg ( g _ { i k } g _ { j l } P ^ { i j } P ^ { k l } - \frac { 1 } { 2 } P ^ { 2 } \bigg ) } } } \\ { { { { } ~ + \phi e \bigg ( \displaystyle { \frac { 1 } { 4 } g ^ { i m } g ^ { n j } T ^ { a } { } _ { m n } T _ { a i j } + \frac { 1 } { 2 } g ^ { n j } T ^ { i } { } _ { m n } T ^ { m } { } _ { i j } - g ^ { i k } T ^ { j } { } _ { j i } T ^ { n } { } _ { n k } } \bigg ) + e V ( \phi ) , } } } \end{array}
+$$
+
+where $\begin{array} { r } { P ^ { i k } = \frac { 1 } { \phi e } \Pi ^ { ( i k ) } - \Delta ^ { i k } } \end{array}$ ， $P = P ^ { i j } g _ { i j }$ ,and
+
+$$
+\Delta ^ { i k } \ = \ - g ^ { 0 m } ( g ^ { k j } T ^ { i } { } _ { m j } + g ^ { i j } T ^ { k } { } _ { m j } - 2 g ^ { i k } T ^ { j } { } _ { m j } ) - ( g ^ { k m } g ^ { 0 i } + g ^ { i m } g ^ { 0 k } ) T ^ { j } { } _ { m j } .
+$$
+
+The total Hamiltonian density is given by
+
+$$
+H = H _ { 0 } + \lambda _ { a b } \Gamma ^ { a b } + \lambda \pi ,
+$$
+
+where $\lambda _ { a b }$ and $\lambda$ are Lagrange multipliers. We have ignored the Lagrange multipliers corresponding to $\Pi ^ { a 0 }$ because $\Pi ^ { a 0 }$ are first class constraints in view of the non-dynamical character of tetrad fields $e _ { a 0 }$ （ We have checked that adding Lagrange multipliers corresponding to （204号 $\Pi ^ { a 0 }$ do not affect the conclusions of this paper ).
+
+The basic Poisson brackets of the canonical variables are
+
+$$
+\begin{array} { l } { { { \displaystyle \{ e _ { a \mu } ( x ) , \Pi ^ { b \nu } ( y ) \} = \delta _ { a } ^ { b } \delta _ { \mu } ^ { \nu } \delta ^ { 3 } ( x - y ) , } } } \\ { { { \displaystyle \{ \phi ( x ) , \pi ( y ) \} = \delta ^ { 3 } ( x - y ) , } } } \end{array}
+$$
+
+with which we can calculate the Poisson brackets of two arbitrary fields.
+
+Now let us begin to search for secondary constraints. From $\{ \Pi ^ { a 0 } , H \} \approx 0$ ， we can derive four secondary constraints
+
+$$
+\begin{array} { r c l } { { { \cal C } ^ { a } } } & { { = } } & { { \displaystyle - \partial _ { k } \Pi ^ { a k } + e e ^ { a 0 } V ( \phi ) + e ^ { a 0 } \biggl [ - \frac { 1 } { 4 g ^ { 0 0 } } \phi e \biggl ( g _ { i k } g _ { j l } P ^ { i j } P ^ { k l } - \frac { 1 } { 2 } P ^ { 2 } \biggr ) } } \\ { { } } & { { } } & { { \displaystyle + \phi e \biggl ( \frac { 1 } { 4 } g ^ { i m } g ^ { n j } T ^ { b } { } _ { m n } T _ { b i j } + \frac { 1 } { 2 } g ^ { n j } T ^ { i } { } _ { m n } T ^ { m } { } _ { i j } - g ^ { i k } T ^ { m } { } _ { m i } T ^ { n } { } _ { n k } \biggr ) \biggr ] } } \\ { { } } & { { } } & { { \displaystyle - \frac { 1 } { 2 g ^ { 0 0 } } \phi e \biggl ( g _ { i k } g _ { j l } \gamma ^ { a i j } P ^ { k l } - \frac { 1 } { 2 } g _ { i j } \gamma ^ { a i j } P \biggr ) - \phi e e ^ { a i } \biggl ( g ^ { 0 m } g ^ { n j } T ^ { b } { } _ { i j } T ^ { b } { } _ { b m n } } } \\ { { } } & { { } } & { { \displaystyle + g ^ { n j } T ^ { 0 } { } { } _ { m n } T ^ { m } { } _ { i j } + g ^ { 0 j } T ^ { m } { } _ { m j } T ^ { m } { } _ { n i } - 2 g ^ { 0 k } T ^ { m } { } _ { m k } T ^ { n } { } _ { n i } - 2 g ^ { j k } T ^ { 0 } { } _ { i j } T ^ { n } { } _ { n k } \biggr ) } } \end{array}
+$$
+
+where $\gamma ^ { a i j }$ is defined by
+
+$$
+\begin{array} { r c l } { { \mathrm {  ~ \Psi ~ } _ { } ^ { i j } } } & { { = } } & { { \displaystyle - \frac { 1 } { 2 k e } ( e ^ { a i } e ^ { b 0 } e ^ { c j } \Gamma _ { b c } + e ^ { a j } e ^ { b 0 } e ^ { c i } \Gamma _ { b c } ) - e ^ { a k } \biggl [ g ^ { 0 0 } ( g ^ { j m } T _ { ~ k m } ^ { i } + g ^ { i m } T _ { ~ k m } ^ { j } + 2 g ^ { i j } T ^ { m } ) } } \\ { { } } & { { } } & { { } } \\ { { } } & { { + } } & { { g ^ { 0 m } ( g ^ { 0 j } T _ { ~ m k } ^ { i } + g ^ { 0 i } T ^ { j } _ { ~ m k } ) - 2 g ^ { 0 i } g ^ { 0 j } T _ { ~ m k } ^ { m } + ( g ^ { j m } g ^ { 0 i } + g ^ { i m } g ^ { 0 j } - 2 g ^ { i j } g ^ { 0 m } ) T ^ { 0 } , } } \end{array}
+$$
+
+It is interesting that $C ^ { \boldsymbol { \mathsf { \Pi } } ^ { \boldsymbol { \mathsf { \Pi } } } }$ can be written in the following form
+
+$$
+\begin{array} { l } { { C ^ { a } = e ^ { a 0 } H _ { 0 } + e ^ { a i } H _ { i } , } } \\ { { { } } } \\ { { H _ { i } = - e _ { b i } \partial _ { k } \Pi ^ { b k } - \Pi ^ { b k } T _ { b k i } . } } \end{array}
+$$
+
+For $T G$ , there are no further secondary constraints,and all the constraints $\Gamma ^ { a b }$ ， $H _ { 0 }$ ， $H _ { i }$ ， and $\Pi ^ { a 0 }$ are first class [28]. $\Gamma ^ { a b }$ are the generators of six local Lorentz transformations, and $H _ { 0 } , H _ { i }$ are that of four general coordinates transformations. $\Pi ^ { a 0 }$ can be used to fix the tetrad fields $e _ { a 0 }$ ，which is consistent with the fact that $e _ { a 0 }$ are not dynamical fields. Thus, the physical degres of fredom of $T G$ are $\begin{array} { r } { { \frac { 2 n - 2 m - l } { 2 } } = 2 } \end{array}$ ，where‘ $n = 1 6 ^ { \prime \prime }$ is the number of fields, $^ { \circ } m = 1 4 ^ { \prime \prime }$ is the number of first class constraints,and $\mathbf { \boldsymbol { \hat { \mathbf { \mathit { \mathit { \varepsilon } } } } } } \mathbf { \boldsymbol { l } } = 0 ^ { \prime } \mathbf { \boldsymbol { \check { \mathbf { \mathit { \varepsilon } } } } }$ is the number of second class constraints.
+
+We note that the situation is very different for $f ( T )$ gravity. Poisson brackets between $\Gamma ^ { a b }$ ， $H _ { 0 }$ ,and $\pi$ no longer vanish because $\phi$ is now a function rather than a constant, which is different from the case of $T G$ . We shall make a careful analysis for $f ( T )$ gravity in the next section.
+
+# IV. DEGREES OF FREEDOMOF $f ( T )$ GRAVITY IN $4 D$ （204号
+
+We calculate the Poisson brackets among $\Gamma ^ { a b }$ ， $\Pi ^ { a 0 }$ ， $H _ { 0 }$ ， $H _ { i }$ ，and $\pi$ ， and give one very complicated secondary constraint for $f ( T )$ gravity in $4 D$ .We analyze the structure of constraints and find that there are five degrees of freedom in all.
+
+Since $\Pi ^ { a 0 }$ and $H _ { i }$ are independent of $\phi$ and $\pi$ , similar to ref.[28], Poisson brackets between $\Pi ^ { a 0 }$ ， together with $H _ { i }$ ， and the other constraints still vanish. The other non-vanishing Poisson brackets are listed below:
+
+$$
+\begin{array} { r l } { \| { \bf \vec { S } } ^ { \vec { \mu } } ( z ) \| _ { 2 } ^ { \nu \vec { \nu } } ( y ) \| ^ { \nu } \leq \| - \| - \mu ^ { \nu } \phi ^ { \vec { \mu } } ( z ) - \mu ^ { \nu } \phi ^ { \vec { \nu } } ( z ^ { \nu \vec { \nu } } ) + \mu ^ { \nu } \phi ^ { \vec { \nu } } ( z ) \| _ { 2 } ^ { \vec { \nu } } \phi ^ { \vec { \nu } } ( z - y ) , } \\ { \| { \bf \vec { S } } ^ { \vec { \mu } } ( z ) , \tau ( \vec { \nu } ) \| ^ { \nu } \| \partial _ { z } \| \tau \| ^ { \nu } \leq 2 \| { \vec { S } } ^ { \vec { \mu } } ( z ) \| _ { 1 } ^ { \nu \vec { \nu } } ( y ) - ( \vec { S } ^ { \vec { \mu } } \tau ^ { \vec { \nu } } \phi ^ { \vec { \nu } } ) - ( \vec { S } ^ { \vec { \mu } } \tau ^ { \vec { \nu } } \phi ^ { \vec { \nu } } ) \| _ { 2 } ^ { \vec { \nu } } \| { \vec { S } } ^ { \vec { \nu } } ( z - y ) , } \\ { \big \{ \big \{ \vec { R } } ( y ) ( \vec { \vec { x } } ) , \tau ( \vec { \nu } ) \| ^ { \nu } \big \} \|  & { \lesssim - \bigg [ \frac { 1 } { \sqrt { 3 } } \| { \vec { S } } ^ { \vec { \mu } } ( y ) \phi ^ { \vec { \nu } } ( z ) - \frac { 1 } { 2 } \| { \vec { S } } ^ { \vec { \mu } } \phi \| _ { 2 } ^ { \vec { \nu } } \| ^ { \vec { \nu } } \bigg \} \| \tau ^ { \vec { \mu } } \delta \tau _ { \vec { \nu } } \phi _ { \vec { \nu } } ^ { \vec { \nu } } ( y ) - \vec { \nu } _ { \vec { \mu } } \phi ^ { \vec { \nu } } ( z ^ { \vec { \nu } } ) \bigg ] ^ { \ n } } \\ &  - \big ( \vec { S } ^ { \vec { \mu } } \tau ^ { \vec { \nu } } \big \{ - \vec { \nu } ^ { \vec { \mu } } \tau ^ { \vec { \nu } } \big \} \beta ^ { \vec { \nu } } \big ) ^ { \vec { \nu } } \| ^ { \nu } \big ( \mathrm { e } ^ { \vec { \nu } \cdot \vec { \nu } ^ { \vec { \nu } } \phi ^ { \vec { \nu } } } \mathrm { e } ^  \big \{ \vec { \nu } ^ { \mu } \big \} \phi ^ { \vec { \nu } } \big \} \bigg ) ^ { \vec { \nu } } \bigg ( \mathrm { e } ^ { \vec { \mu } \tau } \big ( \vec { S } ^  \vec  \end{array}
+$$
+
+where $G ^ { b d } = 2 e ( e ^ { b m } e ^ { d 0 } - e ^ { d m } e ^ { b 0 } ) \partial _ { m } \phi$ in eq. (25), and ‘ $\approx$ denotes the Dirac's weak equality.   
+Eqs. (25)-(27) imply that the local Lorentz invariance is violated.
+
+Now let us begin to search for other secondary constraints. The consistency of constraints $H _ { 0 }$ ， $\Gamma ^ { a b }$ and $\pi$ requires
+
+$$
+\begin{array} { c } { { \{ H _ { 0 } , H \} ~ = ~ \{ H _ { 0 } , H _ { 0 } \} + \{ H _ { 0 } , \Gamma ^ { c d } \} \lambda _ { c d } + \{ H _ { 0 } , \pi \} \lambda \approx 0 , } } \\ { { \{ \Gamma ^ { a b } , H \} ~ = ~ \{ \Gamma ^ { a b } , H _ { 0 } \} + \{ \Gamma ^ { a b } , \Gamma ^ { c d } \} \lambda _ { c d } + \{ \Gamma ^ { a b } , \pi \} \lambda \approx 0 , } } \\ { { \{ \pi , H \} ~ = ~ \{ \pi , H _ { 0 } \} + \{ \pi , \Gamma ^ { c d } \} \lambda _ { c d } \approx 0 . } } \end{array}
+$$
+
+We want to mention that the second equation above is equivalent to the field equation eq. (5),andthe third equation is equivalent to $\begin{array} { r } { \frac { \partial V ( \phi ) } { \partial \phi } + T = 0 } \end{array}$ . There are eight equations but only seven unknown quantities $\lambda _ { c d }$ and $\lambda$ , thus it is expected that we can derive one secondary constraint from the above equations. It is indeed the case. For simplicity, we use （204号 $\Gamma ^ { i } = e _ { a } ^ { \phantom { \dagger } 0 } e _ { b } ^ { \phantom { \dagger } i } \Gamma ^ { a b }$ and $\Gamma ^ { i j } = e _ { a } ^ { \ i } e _ { b } ^ { \ j } \Gamma ^ { a b }$ instead of $\Gamma ^ { a b }$ in the following calculations,and note that $\{ \Gamma ^ { i } , \Gamma ^ { j } \} \approx 0$ ， $\{ H _ { 0 } , \Gamma ^ { i } \} \approx \Pi ^ { ( i m ) } \partial _ { m } \ln ( \phi )$ . Define
+
+$$
+y _ { i } = \{ H _ { 0 } , \Gamma ^ { i } \} , \qquad y _ { 4 } = \{ H _ { 0 } , \Gamma ^ { 1 2 } \} , \qquad y _ { 5 } = \{ H _ { 0 } , \Gamma ^ { 1 3 } \} , \qquad y _ { 6 } = \{ H _ { 0 } , \Gamma ^ { 2 3 } \} ,
+$$
+
+$$
+\begin{array} { r } { \mathbf { \Phi } _ { i } = \{ H _ { 0 } , \pi \} , \qquad x _ { i } = \{ \Gamma ^ { i } , \pi \} , \qquad x _ { 4 } = \{ \Gamma ^ { 1 2 } , \pi \} , \qquad x _ { 5 } = \{ \Gamma ^ { 1 3 } , \pi \} , \qquad x _ { 6 } = \{ \Gamma ^ { 1 2 } , \pi \} . } \end{array}
+$$
+
+$$
+{ \begin{array} { r l } { A _ { i 1 } } & { = \left\{ \Gamma ^ { i } , \Gamma ^ { 1 2 } \right\} } \\ & { \approx 2 e \left[ g ^ { 0 i } ( g ^ { 0 i } g ^ { 2 m } - g ^ { 0 2 } g ^ { 1 m } ) + g ^ { 1 i } ( g ^ { 0 m } g ^ { 0 2 } - g ^ { 2 m } g ^ { 0 0 } ) - g ^ { i 2 } ( g ^ { 0 m } g ^ { 0 1 } - g ^ { 1 m } g ^ { 0 0 } ) \right. } \\ & { A _ { i 2 } = \left\{ \Gamma ^ { i } , \Gamma ^ { 1 3 } \right\} } \\ & { \approx 2 e \left[ g ^ { 0 i } ( g ^ { 0 i } g ^ { 3 m } - g ^ { 0 3 } g ^ { 1 m } ) + g ^ { 1 i } ( g ^ { 0 m } g ^ { 0 3 } - g ^ { 3 m } g ^ { 0 0 } ) - g ^ { i 3 } ( g ^ { 0 m } g ^ { 0 1 } - g ^ { 1 m } g ^ { 0 0 } ) \right. } \\ & { A _ { i 3 } = \left\{ \Gamma ^ { i } , \Gamma ^ { 2 3 } \right\} } \\ & { \approx \left. 2 e \left[ g ^ { 0 i } { ( g ^ { 0 i } g ^ { 0 2 } g ^ { 3 m } - g ^ { 0 3 } g ^ { 2 m } ) } + g ^ { 2 i } ( g ^ { 0 m } g ^ { 0 3 } - g ^ { 3 m } g ^ { 0 0 } ) - g ^ { i 3 } ( g ^ { 0 m } g ^ { 0 2 } - g ^ { 2 m } g ^ { 0 0 } ) \right. \right. } \end{array} }
+$$
+
+$$
+\begin{array} { r l } & { B _ { 1 2 } = \left\{ \Gamma ^ { 1 2 } , \Gamma ^ { 1 3 } \right\} } \\ & { \approx 2 e \left[ g ^ { 1 2 } ( g ^ { 1 m } g ^ { 0 3 } - g ^ { 3 m } g ^ { 0 1 } ) - g ^ { 1 1 } ( g ^ { 2 m } g ^ { 0 3 } - g ^ { 3 m } g ^ { 0 2 } ) + g ^ { 1 3 } ( g ^ { 2 m } g ^ { 0 1 } - g ^ { 1 m } g ^ { 0 2 } ) \right. } \\ & { B _ { 1 3 } = \left\{ \Gamma ^ { 1 2 } , \Gamma ^ { 2 3 } \right\} } \\ & { \approx 2 e \left[ g ^ { 2 2 } ( g ^ { 1 m } g ^ { 0 3 } - g ^ { 3 m } g ^ { 0 1 } ) - g ^ { 1 2 } ( g ^ { 2 m } g ^ { 0 3 } - g ^ { 3 m } g ^ { 0 2 } ) - g ^ { 2 3 } ( g ^ { 1 m } g ^ { 0 2 } - g ^ { 2 m } g ^ { 0 1 } ) \right] } \\ & { B _ { 2 3 } = \left\{ \Gamma ^ { 1 3 } , \Gamma ^ { 2 3 } \right\} } \\ & { \approx 2 e \left[ g ^ { 2 3 } ( g ^ { 1 m } g ^ { 0 3 } - g ^ { 3 m } g ^ { 0 1 } ) - g ^ { 3 3 } ( g ^ { 1 m } g ^ { 0 2 } - g ^ { 2 m } g ^ { 0 1 } ) + g ^ { 1 3 } ( g ^ { 3 m } g ^ { 0 2 } - g ^ { 2 m } g ^ { 0 3 } ) \right. } \end{array}
+$$
+
+we can rewrite Eq. (29) in a compact form
+
+$$
+M \Lambda = 0 ,
+$$
+
+where $\mathfrak { a } = ( 1 , \lambda _ { 1 } , \lambda _ { 2 } , \lambda _ { 3 } , \lambda _ { 4 } , \lambda _ { 5 } , \lambda _ { 6 } , \lambda ) ^ { T } , \lambda _ { i } = e _ { a 0 } e _ { b i } \Gamma ^ { a b } , \lambda _ { 4 } = e _ { a 1 } e _ { b 2 } \Gamma ^ { a b } , \lambda _ { 5 } = e _ { a 1 } e _ { b 3 } \Gamma ^ { a b } , \lambda _ { 6 } = e _ { a 2 } e _ { b 4 } \Gamma ^ { a b } .$ $\lambda _ { 6 } =$ $e _ { a 2 } e _ { b 3 } \Gamma ^ { a b }$ and matrix $M$ is given by
+
+$$
+M = \left( \begin{array} { c c c c c c c c c } { { 0 } } & { { y _ { 1 } } } & { { y _ { 2 } } } & { { y _ { 3 } } } & { { y _ { 4 } } } & { { y _ { 5 } } } & { { y _ { 6 } } } & { { x _ { 0 } } } \\ { { - y _ { 1 } } } & { { 0 } } & { { 0 } } & { { 0 } } & { { A _ { 1 1 } } } & { { A _ { 1 2 } } } & { { A _ { 1 3 } } } & { { x _ { 1 } } } \\ { { - y _ { 2 } } } & { { 0 } } & { { 0 } } & { { 0 } } & { { A _ { 2 1 } } } & { { A _ { 2 2 } } } & { { A _ { 2 3 } } } & { { x _ { 2 } } } \\ { { - y _ { 3 } } } & { { 0 } } & { { 0 } } & { { 0 } } & { { A _ { 3 1 } } } & { { A _ { 3 2 } } } & { { A _ { 3 3 } } } & { { x _ { 3 } } } \\ { { - y _ { 4 } } } & { { - A _ { 1 1 } } } & { { - A _ { 2 1 } } } & { { - A _ { 3 2 } } } & { { 0 } } & { { B _ { 1 2 } } } & { { B _ { 1 3 } } } & { { x _ { 4 } } } \\ { { - y _ { 5 } } } & { { - A _ { 1 2 } } } & { { - A _ { 2 2 } } } & { { - A _ { 3 2 } } } & { { - B _ { 1 2 } } } & { { 0 } } & { { B _ { 2 3 } } } & { { x _ { 5 } } } \\ { { - y _ { 6 } } } & { { - A _ { 1 3 } } } & { { - A _ { 2 3 } } } & { { - A _ { 3 3 } } } & { { - B _ { 1 3 } } } & { { - B _ { 2 3 } } } & { { 0 } } & { { x _ { 6 } } } \\ { { - x _ { 0 } } } & { { - x _ { 1 } } } & { { - x _ { 2 } } } & { { - x _ { 3 } } } & { { - x _ { 4 } } } & { { x _ { 5 } } } & { { - x _ { 6 } } } \end{array} \right) .
+$$
+
+Because Eq. (34) has a nonzero solution $\Lambda = ( 1 , \lambda _ { 1 } , \lambda _ { 2 } , \lambda _ { 3 } , \lambda _ { 4 } , \lambda _ { 5 } , \lambda _ { 6 } , \lambda ) ^ { \scriptscriptstyle T }$ ， the determinant of matrix $M$ should vanish. Thus,we get one constraint $\mid M \mid \approx 0$ . It is too complicated to use $\mid M \mid$ as a secondary constraint, therefore we try to simplify it. Note that $M$ is an $8 \times 8$ （20 antisymmetric matrix whose determinant can be written as $D ^ { 2 }$ where $D$ is a function of the elements of $M$ . Applying eqs. (32) and (33), we find that $x _ { 0 }$ does not contribute to $\mid M \mid$ ：
+
+Now， we can express the secondary constraint as
+
+$$
+\begin{array} { r l } { \mathcal { R } _ { 1 } ^ { \star } = } & { \sqrt { \left| \widetilde { \mathbf { Z } } \right| } \quad \lambda _ { 1 } ^ { \star } , } \\ { = } & { \phi _ { 1 } ^ { \star } \left( \lambda _ { 2 , 1 } ^ { \star } \otimes \lambda _ { 2 , 1 } \otimes \lambda _ { 3 , 1 } \otimes \lambda _ { 4 , 2 , 2 } \otimes \lambda _ { 3 , 1 } \otimes \lambda _ { 3 , 2 } \otimes \lambda _ { 4 , 3 , 1 } \otimes \lambda _ { 4 , 2 , 2 } \otimes \lambda _ { 3 , 1 } \otimes \lambda _ { 4 , 3 , 2 } \right) } \\ & { \quad + \lambda _ { 2 , 4 } ^ { \star } , } \\ & { \quad + \lambda _ { 3 , 4 } ^ { \star } , } \\ & { \quad + \lambda _ { 2 , 1 } ^ { \star } , } \\ & { \quad + \lambda _ { 3 , 2 } ^ { \star } \otimes \lambda _ { 3 , 1 } \otimes \lambda _ { 4 , 3 , 2 } \otimes \lambda _ { 3 , 1 } \otimes \lambda _ { 4 , 2 , 2 } \otimes \lambda _ { 4 , 3 , 1 } \otimes \lambda _ { 4 , 3 , 1 } \otimes \lambda _ { 4 , 4 , 3 , 1 } \otimes \lambda _ { 4 , 4 , 3 , 1 } \otimes \lambda _ { 4 , 4 , 3 , 1 } ^ { \star } } \\ & { \quad + \lambda _ { 2 , 1 } ^ { \star } \otimes \lambda _ { 1 , 2 } \otimes \lambda _ { 2 , 1 } \otimes \lambda _ { 3 , 2 } \otimes \lambda _ { 4 , 3 , 2 } \otimes \lambda _ { 4 , 3 , 1 } \otimes \lambda _ { 4 , 3 , 2 } \otimes \lambda _ { 4 , 3 , 2 } \otimes \lambda _ { 4 , 3 , 1 } \otimes \lambda _ { 4 , 3 , 2 } \otimes \lambda _ { 4 , 3 , 1 } } \\ & { \quad - ( \lambda _ { 2 , 1 } \otimes \lambda _ { 2 , 1 } \otimes \lambda _ { 2 , 2 } \otimes \lambda _ { 4 , 3 , 1 } \otimes \lambda _ { 4 , 3 , 2 } \otimes \lambda _ { 4 , 3 , 1 } \otimes \lambda _ { 4 , 3 , 1 } \otimes \lambda _ { 4 , 3 , 2 } \otimes \lambda _ { 4 , 4 , 3 , 1 } \otimes \lambda _ { 4 , 3 , 2 } ) } \\ &  \quad - ( \lambda _ { 2 , 1 } \otimes \lambda _ { 2 , 1 } \otimes \lambda _ { 2 , 1 } \otimes \lambda _ { 4 , 3 , 2 } \otimes \lambda _ { 4 , 3 , 1 } \otimes \lambda _ { 4 , 3 , 2 } \otimes \lambda _ { 4 , 4 , 3 , 1 } \otimes \lambda _ { 4 , 3 , 2 } \otimes \lambda _ { 4 , 4 , 3 , 1 } \\ &  \quad + \lambda _ { 2 , 1 } ^ { \star } \otimes \lambda _ { 4 , 1 } \otimes \lambda _ { 4 , 1 } \otimes \lambda _ { 4 , 3 , 1 } \otimes \lambda _ { 4 , 4 , 3 , 1 } \otimes \lambda _ { 4 , 4 , 3 , 2 } \ \end{array}
+$$
+
+which is a very complicated formula.In general， the constraint $\pi _ { 1 }$ takes the form （204号 $C ^ { ( m n l ) } \partial _ { m } \phi \partial _ { n } \phi \partial _ { l } \phi = 0$ ，where $C ^ { ( m n l ) }$ is independent of the space derivatives of $\Pi ^ { a i } , \phi , T _ { a i j }$ .If the metric $g _ { \mu \nu }$ has only diagonal elements, $\pi _ { 1 }$ can be highly simplified as
+
+$$
+( \Pi ^ { ( m n ) } g ^ { i l } g ^ { j h } g ^ { k g } T _ { ~ h g } ^ { 0 } - \Pi ^ { 0 m } g ^ { i n } g ^ { j h } g ^ { k g } T _ { ~ h g } ^ { l } ) \epsilon _ { i j k } \partial _ { m } \phi \partial _ { n } \phi \partial _ { l } \phi = 0 .
+$$
+
+Since $M$ is an $8 \times 8$ antisymmetric matrix with zero determinant, the rank of $M$ is $6$ Thus,after imposing $\pi _ { 1 } = 0$ , there are only six independent equations in eq. (34) for seven Lagrange multipliers. The consistency condition of constraint $\pi _ { 1 }$ （204号
+
+$$
+\{ \pi _ { 1 } , H \} = \{ \pi _ { 1 } , H _ { 0 } \} + \{ \pi _ { 1 } , \Gamma ^ { c d } \} \lambda _ { c d } + \{ \pi _ { 1 } , \pi \} \lambda \approx 0
+$$
+
+leads to another equation for the Lagrange multipliers. We shall prove in the appendix that eq. (38) together with eq. (34) provides seven independent equations for the seven Lagrange multipliers $\lambda _ { a b }$ and $\lambda$ . As a result, all the Lagrange multipliers can be determined and there are no further secondary constraints.
+
+We turn to analyze the structure of constraints. In order to find out the number of degrees of freedom in $f ( T )$ gravity， we do not need to calculate the Poisson brackets between $\pi _ { 1 }$ （204号 and the other constraints $\Gamma ^ { a b }$ ， $\pi$ ， $\Pi ^ { a 0 }$ ， $H _ { 0 }$ ， $H _ { i }$ because the calculation is highly complicated due to eq. (36). With the results at hand, we are ready to give the number of degrees of freedom. Let us recall that the Poisson brackets between $( \Pi ^ { a 0 } , H _ { i } , H )$ and $( \Gamma ^ { a b } , \pi )$ are zero. Consequently, the Poisson brackets among all the constraints $( \pi _ { 1 } , \pi , \Gamma ^ { a b } , \Pi ^ { a 0 } , H _ { i } , H )$ take the following form
+
+$$
+N = ( \begin{array} { c c c c c c } { { 0 } } & { { \{ \pi _ { 1 } , \pi \} } } & { { \{ \pi _ { 1 } , \Gamma ^ { a b } \} } } & { { \{ \pi _ { 1 } , \Pi ^ { a 0 } \} } } & { { \{ \pi _ { 1 } , \Pi ^ { a 0 } \} } } & { { \{ \pi _ { 1 } , H _ { i } \} } } & { { 0 } } \\ { { \{ \pi , \pi _ { 1 } \} } } & { { 0 } } & { { \{ \pi , \Gamma ^ { a b } \} } } & { { 0 } } & { { 0 } } & { { 0 } } \\ { { \{ \Gamma ^ { c d } , \pi _ { 1 } \} } } & { { \{ \Gamma ^ { c d } , \pi \} } } & { { \{ \Gamma ^ { c d } , \Gamma ^ { a b } \} } } & { { 0 } } & { { 0 } } & { { 0 } } \\ { { \{ \Pi ^ { a 0 } , \pi _ { 1 } \} } } & { { 0 } } & { { 0 } } & { { 0 } } & { { 0 } } & { { 0 } } \\ { { \{ H _ { i } , \pi _ { 1 } \} } } & { { 0 } } & { { 0 } } & { { 0 } } & { { 0 } } & { { 0 } } \\ { { 0 } } & { { 0 } } & { { 0 } } & { { 0 } } & { { 0 } } & { { 0 } } \end{array} ) ) \ : \mathbb { S }
+$$
+
+This is a $1 6 \times 1 6$ antisymmetric matrix. The top left corner of it must be an $8 \times 8$ nonsingular matrix, otherwise, we would not solve allof the Lagrange multipliers. The lower right corner is an $8 \times 8$ zero matrix. The lower left quarter, denoted by $N _ { l l }$ , is an $8 \times 8$ matrix with the non-vanishing first line only. Obviously, the rank of $N _ { l l }$ is at most $1$ , we can turn it into a matrix with only the non-vanishing element, denoted as $N _ { l l ( 1 1 ) }$ , by applying the elementary transformations of matrices. In addition, we can make a similar treatment to the top right corner of $N$ . Therefore, the non-zero part of $N$ becomes a $9 \times 9$ antisymmetric matrix in the top left corner whose rank is eight, which will be shown below. Now it is clear that the rank of $N$ is eight.
+
+$$
+\begin{array} { r } { \left( \begin{array} { c c c c c } { 0 } & { \{ \pi _ { 1 } , \pi \} } & { \{ \pi _ { 1 } , \Gamma ^ { a b } \} } & { - N _ { l ( 1 1 ) } \left| 0 \ 0 \right. } \\ { \{ \pi , \pi _ { 1 } \} } & { 0 } & { \{ \pi , \Gamma ^ { a b } \} } & { 0 } \\ { \{ \Gamma ^ { c d } , \pi _ { 1 } \} } & { \{ \Gamma ^ { c d } , \pi \} } & { \{ \Gamma ^ { c d } , \Gamma ^ { a b } \} } & { 0 } & { \left| 0 \ 0 \right. } \\ { \frac { N _ { l ( 1 1 ) } } { 0 } } & { 0 } & { 0 } & { 0 } & { \left| 0 \ 0 \right. } \\ { 0 } & { 0 } & { 0 } & { 0 } & { \left| 0 \ 0 \right. } \\ { 0 } & { 0 } & { 0 } & { 0 } & { \left| 0 \ 0 \right. } \end{array} \right) . } \end{array}
+$$
+
+The above discussions show that there are eight second class constraints $( \Gamma ^ { a b } , \pi , \pi _ { 1 } )$ together with eight first class constraints, thus the degrees of freedom of $f ( T )$ gravity are $\frac { 2 n - 2 m - l } { 2 } = 5$ ，where $\cdot n = 1 7 ^ { \gamma }$ is the number of fields，“ $m = 8 ^ { \prime \prime }$ is the number of first class constraints and $\cdot l = 8 ^ { \ ' }$ is the number of second class constraints. This conclusion is consistent with the physical analysis of $f ( T )$ gravity: The action of $f ( T )$ gravity is invariable under the general coordinate transformation, and $e _ { a 0 }$ are not dynamical fields. Similar to $T G$ , four of the eight first class constraints correspond to the general coordinate transformation of $f ( T )$ gravity; the rest four first class constraints can be used again to fix the non-dynamical fields $e _ { a 0 }$ . Two of the second class constraints $( \pi , \pi _ { 1 } )$ can be used to eliminate the auxiliary field $\phi$ introduced in the action eq. (8),and the existence of the other six second class constraints ( $\Gamma ^ { a b }$ ) implies that the local Lorentz invariance is violated completely.
+
+# V. DEGREES OF FREEDOMOF $f ( T )$ GRAVITY IN $3 D$
+
+In this section,we establish the Hamiltonian formulation of $f ( T )$ gravity in $3 D$ .It is slightly different from the case in $4 D$ , as we shall show, since there is no constraint like $\pi _ { 1 }$ ， the structure of constraints is much simpler. We find that there are six first class constraints $( H , H _ { i } , \Pi ^ { a 0 } )$ ， $a = 0 , 1 , 2 , \ i = 1 , 2$ , together with four second class constraints $( \Gamma ^ { 1 } , \Gamma ^ { 2 } , \Gamma ^ { 1 2 } , \pi )$ （204 in all, thus the degrees of freedom are two.
+
+Following the procedure developed in Set.III，we can derive all the ten constraints $( H _ { 0 } , H _ { i } , \Pi ^ { a 0 } , \Gamma ^ { 1 } , \Gamma ^ { 2 } , \Gamma ^ { 1 2 } , \pi )$ ，where‘ $\dot { a } ^ { \dag }$ runs from O to 2 and $i = 1 , 2$ . The Poisson brackets between those constraints are the same as those in $4 D$ , see eqs. (25)-(28). Similarly, when we define
+
+$$
+\begin{array} { r l r } & { } & { y _ { i } = \{ H _ { 0 } , \Gamma ^ { i } \} , \qquad y _ { 3 } = \{ H _ { 0 } , \Gamma ^ { 1 2 } \} , } \\ & { } & { x _ { 0 } = \{ H _ { 0 } , \pi \} , \qquad x _ { i } = \{ \Gamma ^ { i } , \pi \} , \qquad x _ { 3 } = \{ \Gamma ^ { 1 2 } , \pi \} , } \end{array}
+$$
+
+$$
+\begin{array} { r l } { { } } & { { A _ { i } ~ = ~ \{ \Gamma ^ { i } , \Gamma ^ { 1 2 } \} } } \\ { { } } & { { { } } } \\ { { } } & { { { } ~ \approx ~ 2 e [ g ^ { 0 i } ( g ^ { 0 1 } g ^ { 2 m } - g ^ { 0 2 } g ^ { 1 m } ) + g ^ { 1 i } ( g ^ { 0 m } g ^ { 0 2 } - g ^ { 2 m } g ^ { 0 0 } ) - g ^ { i 2 } ( g ^ { 0 m } g ^ { 0 1 } - g ^ { 1 m } g ^ { 0 0 } ) ] \partial _ { m } } } \end{array}
+$$
+
+we can rewrite the self-consistent equations eq. (29) in a compact form
+
+$$
+M _ { 3 D } \Lambda _ { 3 D } = 0 ,
+$$
+
+where $\Lambda _ { 3 D } = ( 1 , \lambda _ { 1 } , \lambda _ { 2 } , \lambda _ { 3 } , \lambda ) ^ { T }$ and $M _ { 3 D }$ is define by
+
+$$
+M _ { 3 D } = \left( \begin{array} { c c c c c } { { 0 } } & { { y _ { 1 } } } & { { y _ { 2 } } } & { { y _ { 3 } } } & { { x _ { 0 } } } \\ { { } } & { { } } & { { } } & { { } } & { { } } \\ { { - y _ { 1 } } } & { { 0 } } & { { 0 } } & { { A _ { 1 } } } & { { x _ { 1 } } } \\ { { } } & { { } } & { { } } & { { } } & { { } } \\ { { - y _ { 2 } } } & { { 0 } } & { { 0 } } & { { A _ { 2 } } } & { { x _ { 2 } } } \\ { { } } & { { } } & { { } } & { { } } & { { } } \\ { { - y _ { 3 } } } & { { - A _ { 1 } } } & { { - A _ { 2 } } } & { { 0 } } & { { x _ { 3 } } } \\ { { } } & { { } } & { { } } & { { } } & { { } } \\ { { - x _ { 0 } } } & { { - x _ { 1 } } } & { { - x _ { 2 } } } & { { - x _ { 3 } } } & { { 0 } } \end{array} \right) .
+$$
+
+Since eq. (42) has one non-zero solution $\Lambda _ { 3 D }$ , the determinant of $M _ { 3 D }$ should vanish,which is satisfied automatically because $M _ { 3 D }$ isa $5 \times 5$ antisymmetric matrix. Thus,unlike the case in $4 D$ , there is no further constraint for $f ( T )$ gravity in $3 D$ . The rank of $M _ { 3 D }$ is four, which means that there are four independent equations for the four Lagrange multipliers. We can derive all the Lagrange multipliers as follow:
+
+$$
+\begin{array} { r l } & { \lambda _ { 1 } = \cfrac { A _ { 2 } x _ { 0 } + x _ { 3 } y _ { 2 } - x _ { 2 } y _ { 3 } } { A _ { 1 } x _ { 2 } - A _ { 2 } x _ { 1 } } , } \\ & { \lambda _ { 2 } = \cfrac { - A _ { 1 } x _ { 0 } - x _ { 3 } y _ { 1 } + x _ { 1 } y _ { 3 } } { A _ { 1 } x _ { 2 } - A _ { 2 } x _ { 1 } } , } \\ & { \lambda _ { 3 } = \cfrac { y _ { 1 } x _ { 2 } - y _ { 2 } x _ { 1 } } { A _ { 1 } x _ { 2 } - A _ { 2 } x _ { 1 } } , } \\ & { \lambda = \cfrac { A _ { 1 } y _ { 2 } - A _ { 2 } y _ { 1 } } { A _ { 1 } x _ { 2 } - A _ { 2 } x _ { 1 } } . } \end{array}
+$$
+
+Since we are interested in the most general case,we require $A _ { 1 } x _ { 2 } - A _ { 2 } x _ { 1 } \neq 0$ here. Now it is clear that $\Gamma ^ { 1 } , \Gamma ^ { 2 } , \Gamma ^ { 1 2 } , \pi$ are second class constraints while $H , H _ { i } , \Pi ^ { a 0 }$ (Note that it is $H$ ， not $H _ { 0 }$ ）are first class constraints. Therefore, the degrees of freedom is two for $f ( T )$ gravity in $3 D$ ：
+
+The discussions in this section and the above section can be extended to the case in dimensions higher than two. In general, thre are $\begin{array} { r } { \frac { D ( D - 3 ) } { 2 } + D - 1 } \end{array}$ degrees of freedom for （204号 $f ( T )$ gravity in $D$ dimensions. Since the calculations are very complicated,we only show some key points here.Firstlyone should note that therank of the $\begin{array} { r } { \frac { D ( D - 1 ) } { 2 } \times \frac { D ( D - 1 ) } { 2 } } \end{array}$ matric eq. (25) is $2 ( D - 2 )$ . Thus, from the second equation of eq. (29) one can determine the Lagrange multiplier $\lambda$ and derive $\begin{array} { r } { \frac { D ( D - 1 ) } { 2 } - 2 ( D - 2 ) - 1 } \end{array}$ secondary constraints. Secondly, note that those secondary constraints contains the constraint like $\pi _ { 1 } = \sqrt { | \ M \ | } \$ eq. (36). One can check that in 4 dimensions the constraint derived from the second equation of eq. (29) and square root of the determinant of $M$ eq. (36) are exactly the same. So, after imposing those secondary constraints and substituting $\lambda$ into eq. (29), there are $2 ( D - 2 ) + 1$ instead of $2 ( D - 2 ) + 2$ independent equations for $\textstyle { \frac { D ( D - 1 ) } { 2 } }$ Lagrange multipliers $\lambda _ { a b }$ . Thirdly, the consistency condition of those secondary constraints lead to $\begin{array} { r } { \frac { D ( D - 1 ) } { 2 } - 2 ( D - 2 ) - 1 } \end{array}$ more equations for Lagrange multipliers $\lambda _ { a b }$ . Thus,all the all the Lagrange multipliers can be determined and there are no further secondary constraints. Finally, there are $2 D$ first class constraints and $D ( D - 1 ) - 2 ( D - 2 )$ second class constraints, so the degree of freedoms are D(D-3)+D-1for f(T) gravityin Ddimensions which implies that the D-1extra degrees are one massive vector feld or one massless vector field with one scalar field. Incidentally, there are no independent degrees of freedom for $f ( T )$ gravity in $2 D$ (Since $T = 0$ and $\Sigma _ { \mu \nu \rho } = 0$ in $2 D$ , it should be mentioned that Ferraro and Fiorini also observed [22] the lack of dynamics in $2 D$ （ $f ( T )$ gravity.).
+
+# VI. CONCLUSIONS
+
+We have established the Hamiltonian formulations of $f ( T )$ gravity. $\mathrm { I n } 4 D$ , we find that the six first class constraints corresponding to the local lorentz invariance in $T G$ become second class constraints in $f ( T )$ gravity, which implies that there are three extra degrees of freedom and the local lorentz invariance is broken completely. In $3 D$ ， the constraint structure is much simpler and the independent degrees of freedom are two. In addition, there are $D - 1$ （20 extra degrees of freedom for $f ( T )$ gravity in $\boldsymbol { D }$ dimensions which implies that the extra degrees of freedom correspond to one massive vector field or one massless vector field with one scalar field. From the conformal rescaling of the action eq. (2.11)，we observe that the vector degrees of freedom might emerge from some kind of Higgs mechanism. This problem needs further study in the future. We hope our results will give some guidance for the cosmological perturbations of $f ( T )$ gravity, where the gauge conditions and extra degrees of freedom should carefully be treated when compared with Einstein gravity. Besides, the extra degrees of freedom are expected to play the role of dark energy in $f ( T )$ gravity. More studies on the properties of the extra degrees of freedom are needed, such as whether the extra degrees of freedom correspond to vector felds,and whether the fields are stable, and so on,based on which one may obtain more insights into the behaviors of dark energy in （204号 $f ( T )$ gravity.
+
+# Acknowledgements
+
+R-X.M. would like to thank T. Wang,B. Li and T. P. Sotiriou for email communications. M.L. and R-X.M. are supported by the NSFC grants No.10535060, No.10975172, and No.10821504,and by the 973 program grant No.2007CB815401 of the Ministry of Science and Technology of China. Y-G.M. is supported by the NSFC grant No.10675061.
+
+# Appendix
+
+We shall prove that all the Lagrange multipliers can be determined from eq. (34) and eq. (38),thus there is no further secondary constraint. The exact result of eq. (38) is highly complicated due to eq. (36), however, it is not necessary to derive eq. (38) exactly. Let us adopt a technique of calculation to overcome this difficulty.
+
+Recall the results obtained in Set.IV. From eq. (34)，we can derive one secondary constraint $\pi _ { 1 }$ and obtain six independent equations for the seven Lagrange multipliers. Without the loss of generality, we can express all the other Lagrange multipliers in terms of $\lambda _ { 5 }$ . Substituting the Lagrange multipliers into eq. (38),
+
+$$
+\{ \pi _ { 1 } , H \} = \{ \pi _ { 1 } , H _ { 0 } \} + \{ \pi _ { 1 } , \Gamma ^ { c d } \} \lambda _ { c d } + \{ \pi _ { 1 } , \pi \} \lambda \approx 0 ,
+$$
+
+we can get one equation for $\lambda _ { 5 }$ in the general form
+
+$$
+C = ( B + E ^ { i } \partial _ { i } ) \lambda _ { 5 }
+$$
+
+Only under the very strict conditions $B = E ^ { \ i } = 0$ can we derive another secondary constraint （204 $C = 0$ , otherwise we can solve $\lambda _ { 5 }$ from the above equation. Note that only the terms $\{ \pi _ { 1 } , \Gamma ^ { c d } \}$ contribute to $E ^ { i }$ . In view of $\pi _ { 1 } = C ^ { ( m n l ) } \partial _ { m } \phi \partial _ { n } \phi \partial _ { l } \phi$ ,where $C ^ { ( m n l ) }$ is independent of the terms such as $\partial _ { j } \Pi ^ { a k }$ ， $\partial _ { i } T _ { a j k }$ and $\partial _ { k } \phi$ , and it is linear to the product of $\Pi ^ { a i }$ and $T _ { a i j }$ , we find that $E ^ { i }$ must take the form of $E ^ { i m n l } \partial _ { m } \phi \partial _ { n } \phi \partial _ { l } \phi$ ， where $E ^ { i m n l }$ contains no derivatives of $\Pi ^ { a k }$ ， $T _ { a j k }$ （20 and $\phi$ .If $E ^ { i }$ does not vanish automatically， we cannot make it vanish by imposing the constraints $H _ { 0 }$ ， $H _ { i }$ ， $\Gamma ^ { a b }$ ，and $\pi _ { 1 }$ Since $H _ { 0 }$ and $H _ { i }$ contain the derivative of $\Pi ^ { a k }$ ， they are independent of $E ^ { i }$ .Because $\Gamma ^ { a b }$ contains no terms related to $\partial _ { m } \phi$ it is also independent of （204号 $E ^ { i }$ (Note that though $\partial _ { m } \Gamma ^ { a b }$ contains the derivative of $\phi$ , it also contains the derivatives of $\Pi ^ { a k }$ and $T _ { a j k }$ . Thus, we cannot use functions constructed from $\Gamma ^ { a b }$ and its derivatives to eliminate $E ^ { i }$ ). Only $\pi _ { 1 }$ can be used to eliminate $E ^ { i }$ ，but there is only one $\pi _ { 1 }$ which cannot eliminate all $E ^ { i }$ . We shall show below that $E ^ { i }$ is non-vanishing, therefore there is no further secondary constraint and we can derive all the Lagrange multipliers.
+
+Suppose that we have derived $E ^ { i } = E ^ { i m n l } \partial _ { m } \phi \partial _ { n } \phi \partial _ { l } \phi$ and $B$ strictly by applying the complicated expression of $\pi _ { 1 }$ eq. (36). Then, imposing the condition that $g _ { \mu \nu }$ is diagonal, we can simplify $E ^ { i }$ ， $B$ and obtain $A ^ { \prime } { } ^ { i }$ ， $B ^ { \prime }$ .If $E ^ { \prime i }$ is non-vanishing, so is $E ^ { i }$ . In order to derive （204号 $E ^ { \prime i }$ ,， we do not need to use the exact form of $\pi _ { 1 }$ . In fact, eq. (37) is enough. Consequently, our technique is to apply eq. (37) to derive $E ^ { \prime i }$ . It should be stressed that if we want to derive the correct $B ^ { \prime }$ ， we must preserve the frst order of the non-diagonal parts of for $g _ { \mu \nu }$ $\pi _ { 1 }$ . However, for the derivation of $E ^ { \prime } { } ^ { i }$ , the zero order of non-diagonal parts of $g _ { \mu \nu }$ is enough. Note that the condition $g _ { \mu \nu }$ is diagonal is not a gauge, but our technique of calculation. We impose only this condition at the end of the calculations to simplify the results.
+
+Under the condition that $g _ { u v }$ is diagonal, we can derive
+
+$$
+E ^ { \prime i } = - h _ { 5 } ^ { i } + \frac { A _ { 1 2 } } { A _ { 1 1 } } h _ { 4 } ^ { i } + \frac { A _ { 3 2 } } { A _ { 3 3 } } h _ { 6 } ^ { i } - \left( - h _ { 2 } ^ { i } + \frac { A _ { 2 1 } } { A _ { 1 1 } } h _ { 1 } ^ { i } + \frac { A _ { 2 3 } } { A _ { 3 3 } } h _ { 3 } ^ { i } \right) \frac { - x _ { 5 } + x _ { 4 } \frac { A _ { 1 2 } } { A _ { 1 1 } } + x _ { 6 } \frac { A _ { 3 2 } } { A _ { 3 3 } } } { - x _ { 2 } + x _ { 1 } \frac { A _ { 2 1 } } { A _ { 1 1 } } + x _ { 3 } \frac { A _ { 2 3 } } { A _ { 3 3 } } } ,
+$$
+
+where ${ h _ { * } } ^ { i }$ is defined by
+
+$$
+\begin{array} { l } { { \{ \Gamma ^ { j } ( x ) , \pi _ { 1 } ( y ) \} = - { h _ { j } } ^ { i } ( x ) \partial _ { x _ { i } } \delta ( x - y ) + \cdots , } } \\ { { \{ \Gamma ^ { 1 2 } ( x ) , \pi _ { 1 } ( y ) \} = - { h _ { 4 } } ^ { i } ( x ) \partial _ { x _ { i } } \delta ( x - y ) + \cdots , } } \\ { { \{ \Gamma ^ { 1 3 } ( x ) , \pi _ { 1 } ( y ) \} = - { h _ { 5 } } ^ { i } ( x ) \partial _ { x _ { i } } \delta ( x - y ) + \cdots , } } \\ { { \{ \Gamma ^ { 2 3 } ( x ) , \pi _ { 1 } ( y ) \} = - { h _ { 6 } } ^ { i } ( x ) \partial _ { x _ { i } } \delta ( x - y ) + \cdots , } } \end{array}
+$$
+
+where the above‘..’ stand for the terms without the derivative of the delta function. Substituting $\pi _ { 1 }$ eq. (37） into the above equations,we can derive all the ${ h _ { * } } ^ { i }$ .After some tedious calculations, we find that $E ^ { i }$ eq. (5O) does not vanish even imposing all of the constraints. As a result, we can solve all the Lagrange multipliers and there are no further secondary constraints.
+
+[1] R. Ferraro and F. Fiorini, Phys. Rev. D 75, 084031 (2007).   
+[2] R.Ferraro and F. Fiorini, Phys. Rev. D 78,124019 (2008).   
+[3] G.R. Bengochea and R. Ferraro, Phys.Rev. D 79,124019 (2009).   
+[4] P. Wu and H. Yu (2010), Phys. Lett. B 693,415 (2010) [arXiv:1006.0674]. [5] R.Myrzakulov (2010), [arXiv:1006.1120].   
+[6] P. Yu Tsyba, I. I. Kulnazarov, K. K. Yerzhanov and R. Myrzakulov, Int. J. Theor. Phys. 50, 1876 (2011) [arXiv:1008.0779].   
+[7] E.V. Linder, Phys.Rev. D 81,127301 (2010).   
+[8] P. Wu and H. Yu (2010), Eur.Phys.J.C 71, 1552 (2011) [arXiv:1008.3669].   
+[9] K. Bamba, C. Q. Geng and C. C. Lee (2010), [arXiv:1008.4036].   
+[10] K. Bamba, C. Q. Geng and C. C. Lee, J. Cosmo. Astropart. Phys.08,021 (2010).   
+[11] R. Myrzakulov (2010),[arXiv:1008.4486].   
+[12] P. Wu and H. Yu, Phys. Lett. B 692,176 (2010).   
+[13] K.Karami and A. Abdolmaleki (2010),[arXiv: 1009.2459].   
+[14] S.-H. Chen, J. B. Dent, S. Dutta and E. N. Saridakis, Phys. Rev. D 83, 023508 (2011). [15] J.B. Dent, S. Dutta and E. N. Saridakis, J. Cosmo. Astropart. Phys. O1, O09 (2011). [16] R. Zheng, Q. G. Huang, J. Cosmo. Astropart. Phys. 1103, 002 (2011).   
+[17]T.P. Sotiriou，B.Li and J. D. Barrow (2010)，Phys.Rev.D 83，104030 (2011) [arXiv:1012.4039].   
+[18] B. Li, T. P. Sotiriou and J. D. Barrow,Phys. Rev. D 83,064035 (2011) [arXiv: 1010.1041]. [19] B. Li, T. P. Sotiriou and J. D. Barrow,Phys. Rev. D 83,104017 (2011) [arXiv: 1103.2786]. [20] T. Wang, [arXiv:1102.4410].   
+[21] Y. F. Cai, S. H. Chen, J. B. Dent, S. Dutta and E. N. Saridakis, [arXiv:1104.4349].   
+[22] R. Ferraro and F. Fiorini, [arXiv:1103.0824].   
+[23] C. Deliduman and B. Yapiskan, [arXiv:1103.2225].   
+[24] A.Einstein 1928, Sitz. Preuss. Akad. Wiss. p. 217; ibid p. 224   
+[25] A.Einstein 2005， translations of Einstein papersby A. Unzicker & T. Case, [arXiv:physics/0503046].   
+[26] R. Aldrovandi and J.G. Pereira, An Introduction to Teleparallel Gravity, Instituto de Fisica Teorica, UNSEP, Sao Paulo (http://www.ift.unesp.br/gcg/tele.pdf).   
+[27] V. C. de Andrade, L. C. T. Guillen,and J. G. Pereira, Phys. Rev. Lett.84, 4533 (2000). [28] J.W. Maluf and J. F. da Rocha-Neto， Phys.Rev D 64，084014 (2001） [arXiv: gr-qc/0002059v2].   
+[29] J. F. da Rocha-Neto, J. W. Maluf, S. C. Ulhoa, Phys. Rev. D 82, 124035 (2010).   
+[30] Li et al. have studied the extra degrees of freedom (edof) in $f ( T )$ gravity in light of the field
+
+equations [18] and linear perturbation equations [19] of $f ( T )$ gravity. Their studies are very illuminating, however, the exact numbers of $e d o f$ are not derived. From the method in Ref. [18],the most natural guess of the number of $e d o f$ is 6 since there are 6 more equations in （204 $f ( T )$ gravity than that in $T G$ . In the present paper,we obtain some new insights on edof of （204号 $f ( T )$ gravity by investigating the constraint structure. We find that the number of edof is 3 instead of 6 and the $e d o f$ seem to correspond to one massive vector field.
+
+[31] The main advantage of the Hamiltonian formulation is that one can analyze constraint structures and then obtain the degrees of freedom $( d o f )$ directly by following Dirac's procedure. On the other hand, in general, it is very hard to obtain the independent dynamical $d o f$ straight from the Lagrange or field equations. One may try to find out $d o f$ by analyzing the linear perturbation equations of $f ( T )$ gravity. However, for some special backgrounds (for example, for the background $e _ { a \mu } = \mathrm { d i a g } ( 1 , 1 , 1 , 1 ) ;$ ，a number of extra dof do not appear in the linear perturbation.Thus, the best way to derive $d o f$ is to adopt the Hamiltonian formulation.

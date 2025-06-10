@@ -1,0 +1,187 @@
+# DOI: 10.5846/stxb201508041645
+
+梁艳,干珠扎布,曹旭娟,张伟娜,张勇,栗文瀚,高清竹,万运帆,李玉娥,旦久罗布,何世丞.模拟氮沉降对藏北高寒草甸温室气体排放的影响.生 态学报,2017,37(2):485-494. LiangY,HasbagGajuvCaXJ,agWagY,WZ,nY,iE,jLB,HeSEftsfsaed depositionongreenhousegasemisions fromalpinemeadowsinnorthemn Tibet.Acta Ecologica Sinica,2017,37(2):485-494.
+
+# 模拟氮沉降对藏北高寒草甸温室气体排放的影响
+
+梁艳}²，干珠扎布1,²，曹旭娟1,²，张伟娜1,²，张勇³，栗文瀚1,²，高清竹1,2,\*， 万运帆1²，李玉娥,²，旦久罗布4，何世丞4
+
+1中国农业科学院农业环境与可持续发展研究所，北京100081  
+2 农业部农业环境与气候变化重点实验室，北京100081  
+3北京师范大学环境学院，北京100875  
+4西藏自治区那曲地区草原站，那曲852100
+
+摘要：目前,高寒草甸对全球温室效应的贡献仍具有不确定性，而随着N沉降的增加，该系统温室体气排放也必将发生变化。为揭示高寒草甸对N沉降的响应机制,探讨其对全球变化的反馈作用,利用人工添加氮素的方法,于2014年生长季(6—9月)在那曲地区那曲县设置不同水平N添加梯度( $( 0 . 7 , 2 0 \mathrm { ~ k g } \mathrm { ~ h m } ^ { - 2 } \mathrm { ~ a } ^ { - 1 }$ 和 $4 0 \ \mathrm { k g \ h m ^ { - 2 } \ a ^ { - 1 } }$ ),模拟氮沉降增加对藏北高寒草甸温室气体排放的影响。经过1a的研究结果表明：1)施氮显著促进了 $\mathrm { C O } _ { 2 }$ 排放，,但对 $\mathrm { C H } _ { 4 }$ 的吸收和 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 的排放无显著影响。总体而言，添加氮素明显增加了温室气体排放总量,其中 N20 处理下高寒草甸温室气体排放总量最高。2)回归分析结果表明， $\mathrm { C O } _ { 2 }$ 与NPP(总生物量)和TOC(土壤有机碳)线性相关( $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ），而与TN（总氮） $\mathrm { N H } _ { 4 } ^ { + }$ -N和 $\mathrm { N O } _ { 3 } ^ { - }$ -N 均无显著相关关系( $\scriptstyle P > 0 . 0 5$ ）， $\mathrm { C H } _ { 4 }$ 与$\mathrm { T N } / \mathrm { N P P } / \mathrm { T O C } / \mathrm { N H _ { 4 } ^ { + } } \mathrm { - N } / \mathrm { N O _ { 3 } ^ { - } } \mathrm { - N }$ 均不相关( $P { > } 0 . 0 5 )$ 1 ${ \bf N } _ { 2 } \mathrm { O }$ 与 $\mathrm { N P P / T O C / N O _ { 3 } ^ { - } }$ -N均显著线性相关( $P { < } 0 . 0 5 )$ ，而与 $\mathrm { T N } / \mathrm { N H } _ { 4 } ^ { + }$ -N不相关。综合初步研究结果,未来氮沉降增加条件下,藏北高寒草甸温室气体排放通量将有可能明显增加,从而对气候变化产生重要的反馈作用。
+
+关键词：氮沉降;高寒草甸;温室气体；土壤养分;生物量
+
+# Effects of simulated nitrogen deposition on greenhouse gas emissions from alpine meadows in northern Tibet
+
+LIANG Yan1,2，HASBAGAN Ganjurjav1,2，CAO Xujuan1,2， ZHANG Weina $^ { 1 , 2 }$ ，ZHANG Yong³，LI Wenhan $^ { 1 , 2 }$ GAO Qingzhu1,2,\* , WAN Yunfan1,2,LI $\mathrm { Y u ^ { \prime } e ^ { 1 , 2 } }$ ，DANJIU Luobu4，He Shicheng4
+
+1InstituteofEnomentdSustableDeelopentinAiculture，CheseAcademyofgriculturalSciecsejngo   
+2KeyLaboratory for Agro-Environment& Climate Change，Ministryof Agriculture，Beijing 1Oo081,China   
+3School of Environment,Beijing Normal University,Beijing 1Oo875,China   
+4 Nagqu Grassland Station，Nagqu 85210o,China
+
+Abstract：Thealpine meadow isthelargestandmostimportantecosystem innorthernTibet.Recently,nitrogendeposition in Tibet has hada profound impact oncarbon and nitrogen cycles ingrassand ecosystems.To assess the impactof nitrogen deposition ongreenhousegasemissions fromalpinemeadows in northern Tibet，weconductedanitrogen fertilizing experiment，using four fertilizing levels of O,7,2O，and $4 0 ~ \mathrm { k g } ~ \mathrm { h m } ^ { - 2 } ~ \mathrm { a } ^ { - 1 }$ ，in Nagqu County in the growing season in 2014. Ourresults showed thatthe impact on greenhouse gas emission varied with diferentlevelsof nitrogen deposition.Regarding daily variation，nitrogen significantly enhanced $\mathrm { C O } _ { 2 }$ emission but had no effect on the absorption of $\mathrm { C H } _ { 4 }$ ，or the emission of ${ \bf N } _ { 2 } \mathrm { O }$ .Overall，nitrogendeposition significantly increased greenhousegas emisions.Thehighest emissonoccurred with he N2O treatment，and there was a positive correlation among $\mathrm { C O } _ { 2 }$ ,net primary productivity（NPP），and total organic carbon (TOC）（ $\scriptstyle P < 0 . 0 5 { \mathrm { ~ , ~ } }$ ).The total nitrogen（TN）， $\mathrm { N H } _ { 4 } ^ { + }$ -N，and $\mathrm { N O } _ { 3 } ^ { - }$ -N were not correlated with $\mathrm { C O } _ { 2 } ( P { > } 0 . 0 5 )$ ，and the same patern was observed in the relationship between $\mathrm { C H } _ { 4 }$ and TN/NPP/TOC/NH $\stackrel { \cdot + } { \cdot }$ -N/NO $^ 3$ -N ( $P { > } 0 . 0 5$ ）. ${ \bf N } _ { 2 } \mathrm { O }$ levels showed a significant linear correlation with NPP/TOC/ $\mathrm { { N O } } _ { 3 }$ -N ( $P { < } 0 . 0 5$ ），but were not correlated with TN/NH $\stackrel { \tau } { \cdot } \stackrel { \quad } { 4 }$ -N ( $P { > } 0 . 0 5$ ).With additional nitrogen deposition expectedinthe future，greenhousegasemissions would increase significantlyand havea positive or negative feedback on climate change in Northern Tibet.
+
+Key Words：nitrogen deposition；alpine meadow；greenhouse gas；soil nutrients；biomass
+
+氮沉降是指由自然或人为活动向大气中输入的活性氮化合物通过干、湿沉降的途径进入生态系统的过程[1]。近几十年来,人类活动导致大气氮沉降量显著增加,施肥以及植物固氮向生态系统输入的氮素逐渐增多,明显改变了陆地生态系统碳、氮循环,进而影响整个生态系统的结构和功能[2。我国平均大气干湿总沉降量为 $1 2 . 9 \mathrm { k g \ h m } ^ { - 2 } \mathrm { a } ^ { - 1 }$ ,部分地区高达 $6 3 . 5 \mathrm { ~ k g ~ h m } ^ { - 2 } \mathrm { ~ a } ^ { - 1 }$ ,已成为继欧洲、北美之后的第三大氮沉降区，随着我国经济的进一步发展,氮沉降的问题将愈发严重[3]。
+
+草地是分布最广的陆地生态系统类型之一,对全球变化极为敏感,也是目前人类活动影响最为严重的区域[4」。其不仅受气温升高[5」降水格局变化[6] $\mathrm { C O } _ { 2 }$ 浓度富集7的影响,其对氮沉降增加[8也较为敏感，并且通过一系列生理生态活动调节温室气体排放,从而对气候变化产生重要的反馈作用。 $\mathrm { C O } _ { 2 }$ 是最主要的温室气体,对温室气体增温效应的贡献约为 $6 3 \% ^ { [ 9 ] }$ 。草地生态系统 $\mathrm { C O } _ { 2 }$ 交换过程包括植被通过光合和呼吸作用，以及土壤中的有机物通过微生物分解作用将 $\mathrm { C O } _ { 2 }$ 释放到大气中的过程[10]。一般来说,短期添加氮素会加快土壤碳矿化速率,促进生态系统碳排放[1]。除 $\mathrm { C O } _ { 2 }$ 外， $\mathrm { C H } _ { 4 }$ 和 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 也是很重要的温室气体。 $\mathrm { C H } _ { 4 }$ 有很强的红外吸收能力,其增温潜势是 $\mathrm { C O } _ { 2 }$ 的 15—30 倍,在大气中浓度和辐射强度仅次于 $\mathrm { C O } _ { 2 }$ [12],对温室气体增温效应的贡献约为 $1 8 \% ^ { [ 9 ] }$ 。短期添加氮素会降低青藏高原高寒草甸 $\mathrm { C H } _ { 4 }$ 的吸收[13]。 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 在大气中留存时间长,其辐射强迫为 $\mathrm { C O } _ { 2 }$ 的310倍,对温室气体增温效应的贡献约为 $6 \% ^ { [ 9 ] }$ 。在陆地生态系统,土壤 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放量占全球生物圈排放量的 $7 0 \%$ ,是最主要的排放源[14]。随着氮沉降不断加剧,陆地生态系统 ${ \bf N } _ { 2 } \mathrm { O }$ 排放将进一步升高[15]。
+
+藏北高原又称“羌塘”，天然草地资源丰富，是西藏的主要牧区,平均海拔在 $4 5 0 0 \mathrm { m }$ 以上;该地区自然条件极为严酷,生态与环境非常脆弱和敏感[16]。在藏北地区,草地是最重要、面积最大的生态系统,也是藏北地区生活生产的基础条件[17]。该文利用人工添加氮素的方法,研究氮沉降增加对藏北高寒草甸温室气体排放的影响,为高寒草地减排政策的制定提供科学支撑。
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+试验区位于藏北地区那曲县农业部那曲农业环境观测实验站 $( 3 1 . 4 4 1 ^ { \circ } \mathrm { N } , 9 2 . 0 1 7 ^ { \circ } \mathrm { E } )$ ），主要以高山嵩草（Kobresia pygmaea)为建群种;东方针茅（Stipa orientalis）为主要禾本科植物,主要的杂草包括青藏黄芪（Astragalus peduncularis）、钉柱委陵菜（Potentilla saundersiana）、菊叶委陵菜（Potentilla tanacetifolia）、二裂委陵菜（Potentillabifuica)等。2014年该地区生长季（6—8月） $5 \mathrm { c m }$ 土壤平均温度为 $1 2 . 3 5 \mathrm { ^ { \circ } C }$ ,平均体积含水量为$2 0 \%$ （图1）,该地区雨热同季,月平均温度在5一9月份高于 $0 ^ { \circ } \mathrm { C }$ . $9 0 \%$ 以上的降水也集中在该时段。
+
+# 1.2样地设置与取样方法
+
+氮素添加剂量参照中国氮沉降分布格局[18],即西藏地区干湿沉降率为 $7 \mathrm { k g \ N h m } ^ { - 2 } \mathrm { a } ^ { - 1 }$ ,预计到2050年,该地区年氮沉降量将达 $4 0 \mathrm { k g \ N \ h m } ^ { - 2 } \ \mathrm { a } ^ { - 1 [ 1 9 ] }$ 。因此,本实验设置的氮素添加浓度分别为当地自然沉降量的1、3、6倍,即 $7 \mathrm { k g ~ N ~ h m ^ { - 2 } ~ a ^ { - 1 } ( \ N 7 ) ~ } \mathrm { { . 2 0 k g ~ N ~ h m ^ { - 2 } ~ a ^ { - 1 } ( \ N 2 0 ) } }$ 和 $4 0 \mathrm { k g ~ N ~ h m } ^ { - 2 } \mathrm { ~ a } ^ { - 1 } \mathrm { ( ~ N } 4 0 \mathrm { ) }$ 。该研究样地选择在常年禁牧的平坦的小嵩草草甸群落内,样地内共设16 个小区,包括3个氮素添加梯度(N7、N20 和 N40)和对照,共4个处理,每个处理4个重复，实验小区大小为 $3 \mathrm { m } \times 3 \mathrm { m }$ ,相邻小区之间设置 $2 \mathrm { m }$ 的缓冲隔离带。于生长季(6—9月)每月月初将氮肥（尿素，含N量 ${ > } 4 6 . 4 \%$ )溶于5L水中，喷洒于样方内，对照小区内喷洒等量的水。
+
+![](images/72e96e7756e9e1b8c731fd42a447675e2a14a7723fe41cb3024bbefb1c5c0a61.jpg)  
+图1藏北高寒草甸生长季土壤温湿度变化特征  
+Fig.1 Seasonal variations of soil temperature and soil moisture at 5cm depth of alpine meadow in northern Tibet
+
+温室气体排放通量测定：测定采用常规静态箱法,于2014年6—8月进行高寒草甸 $\mathrm { C O } _ { 2 } \ 、 \mathrm { C H } _ { 4 }$ 和 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放通量测定,每月测定3次,测定时间为11:00。其中每月测定1次日动态,测定时间为9:00至19:00,每隔 $2 \mathrm { h }$ 测定1次。静态箱采用不透明的PVC板制作，直径 $1 5 0 \mathrm { m m }$ ,高 $2 5 0 \mathrm { m m }$ ;在测定前24h将无底座插入土壤中$3 \mathrm { c m }$ 。测定时,将静态箱罩于底座上，同时在周围抽取空气,注入密封玻璃气瓶中; $1 5 \mathrm { m i n }$ 后用密封气瓶收集箱内气体,并移开静态箱置。把收集的气体样品带回室内,使用气相色谱仪(HP6890N,Agilent 公司)测定其浓度，测定 $\mathrm { C O } _ { 2 }$ 和 $\mathrm { C H } _ { 4 }$ 浓度的检测器为氢火焰离子检测器（FID）,测定温度为 $2 0 0 \%$ ,色谱柱为PorpakQ填充柱，柱温 $7 0 \%$ ；测定 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 浓度的检测器为电子捕获检测器（ECD），测定温度为 $3 3 0 \mathrm { ^ { \circ } C }$ ，色谱柱也为PorpakQ填充柱,柱温 $7 0 \%$ 。根据罩箱后及开箱前箱内的气体浓度差来计算其排放通量[20]。
+
+生物量测定：于草甸植被生长季(6一8月），在每个小区选取 $0 . 5 \mathrm { m } \times 0 . 5 \mathrm { m }$ 面积调查植物种类组成、高度、盖度等群落特征。与此同时,每月在实验样地外选取16个校正样方,分种收集地上生物量,用于估测各小区地上生物量。收集地上植物后，将其置于 $1 0 5 \mathrm { ^ \circ C }$ 烘箱中杀青 $0 . 5 \mathrm { h }$ ,测干重。通过物种高度与盖度和生物量之间的关系,得到线性回归方程,从而计算其各处理生物量。于生长季末,在小区里用土钻（直径为 $6 \mathrm { c m }$ 随机选取一个土壤样品，采样深度为 $2 0 \mathrm { c m }$ ,将根取出并清洗干净后，以 $7 0 \%$ 烘干至恒重,测干重。
+
+土壤样品采集与分析：于生长季末,在每个样地利用土钻(直径为 $6 \mathrm { { c m } }$ )随机选取1个土壤样品，采样深度为 $2 0 \mathrm { c m }$ ,土样采集后，过 $2 \mathrm { m m }$ 土筛,去除土壤中砾石和植物根系，带回实验室。称取 $\boldsymbol { 5 } \mathrm { g }$ 新鲜土样,加入 $5 0 \mathrm { m L }$ $2 \mathrm { m o l / L }$ 的KCl溶液震荡3h,经过定型滤纸过滤,利用连续流动注射分析仪（Bran Luebbe，Germany）测定滤液中的 $\mathrm { N H } _ { 4 } ^ { + }$ -N和 $\mathrm { N O } _ { 3 } ^ { - }$ -N浓度。
+
+# 1.3 计算公式
+
+气体通量计算公式
+
+$$
+\ ; \ F = { \frac { \Delta m } { A \ \times \ A t } } = { \frac { m _ { 2 } \ - m _ { 1 } } { A \times \ A t } } = { \frac { C _ { 2 } \times \ V \times M _ { 0 } \ \times { \frac { 2 7 3 } { 2 7 3 \ + \ T _ { 2 } } } - C _ { 1 } \times V \times M _ { 0 } \ \times { \frac { 2 7 3 } { 2 7 3 \ + \ T _ { 1 } } } } { A \times \ ( t _ { 2 } \ - t _ { 1 } ) \times 2 2 . 4 \times 1 0 ^ { - 3 } } } \times \ 1 0 0 0 \
+$$
+
+式中， $F$ 为 $\mathbf { \chi } _ { t }$ 时刻温室气体排放通量( $\mathrm { ~ m g ~ m } ^ { - 2 } \mathrm { ~ h } ^ { - 1 } .$ ),正值为排放,负值为吸收; $A$ 为取样箱的底面积 $( \mathbf { m } ^ { 2 } ) ; V$ 为取样箱体积 $\left( \mathbf { m } ^ { 3 } \right) ; m _ { 1 } , m _ { 2 }$ 分别为测定箱关闭前和开启前箱内某温室气体的质量 $\mathbf { \Psi } ( \mathbf { g } ) ; t _ { 1 } , t _ { 2 }$ 分别为测定箱关闭前
+
+和开启前的时间; $C _ { 1 } , C _ { 2 }$ 分别为测定箱关闭前和开启前箱内温室气体的体积百分比浓度; $T _ { 1 } , T _ { 2 }$ 分别为测定箱关闭前和开启前箱内温度( ${ } ^ { \mathcal { C } } )$ ; $M _ { 0 }$ 表示某种气体的摩尔质量( $\mathbf { g } / \mathbf { m o l } )$ 。
+
+温室气体增温潜势的计算公式：基于全球增温潜势(GWP，以 $1 0 0 \mathrm { a }$ 计)的综合温室效应用将 $\mathrm { C H } _ { 4 }$ 和 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 转化为 $\mathrm { C O } _ { 2 }$ 当量来估算[21],即： $\mathrm { C O } _ { 2 } { \mathrm { - e } } = 2 5 \mathrm { R C H } _ { 4 } { \mathrm { + } } 2 9 8 \mathrm { R N } _ { 2 } \mathrm { O }$ ,式中 $\mathrm { C O } _ { 2 }$ -e 为高山嵩草草甸每公顷每天排放的综合温室效应 $\mathrm { C O } _ { 2 }$ 当量 $\mathrm { ' } \mathrm { k g } \mathrm { C O } _ { 2 } \mathrm { - e } / \mathrm { h m } ^ { 2 }$ )， $\mathrm { R C H } _ { 4 } \ 、 \mathrm { R N } _ { 2 } \mathrm { O }$ 分别为生长季 $\mathrm { C H } _ { 4 }$ 和 ${ \bf N } _ { 2 } \mathrm { O }$ 每公顷每天排放量( $\mathrm { \ k g / h m } ^ { 2 }$ ）。
+
+生物量线性回归方程式：Biomas $\mathsf { s } = 0 . 5 8 5 + 1 . 2 8 2 \times h + 0 . 0 5 9 \times c ( P < 0 . 0 5 )$ 式中，Biomass 代表生物量 $\mathbf { \Psi } ( \mathbf { g } ) \mathbf { \Psi } , h$ 为物种高度 $\mathrm { ( m ) }$ .， $\boldsymbol { c }$ 为物种盖度 $( \% )$ 。
+
+# 1.4 数据分析
+
+本文采用 Excel 2010软件进行初步的数据处理,将各样地内所采数据进行平均,采用 IBM SPSS Statistics19 软件中的单因素方差分析、回归分析方法以及重复度量方差分析等方法对数据进行分析处理。
+
+# 2结果与分析
+
+2.1不同N素添加水平下小嵩草高寒草甸温室气体排放通量日变化特征生长旺季,不同N素添加水平对温室气体日排放通量均具有显著影响,其变化规律较为一致（图2，处理 丨←丨CK 丨丨N7 丨丨 N20 丨| N40
+
+![](images/09e26a4b3883eb956e43399e375f2a20e4feafb92e66685fe21725cac12651e6.jpg)  
+图2高寒草甸生长季温室气体排放通量日变化动态
+
+Fig.2Greenhouse gas emission flux changes dynamically in growing season of alpine meadow表1）。施氮条件下,6月和8月份不同时间及处理下 $\mathrm { C O } _ { 2 }$ 排放通量均具有显著性差异( $P { < } 0 . 0 5 \mathrm { ~ ; ~ }$ ），7月份不同时间和处理下 $\mathrm { C O } _ { 2 }$ 排放通量无显著性差异( $P { > } 0 . 0 5 )$ ,而各处理下 $\mathrm { C O } _ { 2 }$ 的变化规律几乎一致,其各处理与时间之间均具有交互作用( $\scriptstyle P < 0 . 0 5 )$ 。N添加条件下， $\mathrm { C H } _ { 4 }$ 排放通量在日不同时段下均具有显著性差异( $P { < } 0 . 0 5 )$ ，且各处理下 $\mathrm { C H } _ { 4 }$ 的变化规律几乎一致,其各处理与时间之间均具有交互作用( $P { < } 0 . 0 5 )$ ，但各处理下 $\mathrm { C H } _ { 4 }$ 排放通量差异均不显著( $_ { | P > 0 . 0 5 ) }$ 。施氮改变了6月和8月份 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放的日变化规律,其在 $6 / 7 / 8$ 月份不同时间段均具有显著性差异( $_ { _ { P < 0 . 0 5 ) } }$ ,但在不同处理之间差异不显著( $( P { > } 0 . 0 5 )$ 。
+
+总的来看，N20处理下 $\mathrm { C O } _ { 2 }$ 排放量最高，在6/7/8月份，其日均值分别较CK增加了 $3 9 . 3 9 \%$ ） $6 8 . 5 5 \%$ 和$2 2 5 . 3 8 \%$ 。在施N条件下, $\mathrm { C H } _ { 4 }$ 吸收量既有降低又有增加,其在6月份主要表现为吸收量增加,其中,17：00N20 处理下 $\mathrm { C H } _ { 4 }$ 吸收量最为明显,较CK增加了 $1 9 1 . 5 2 \%$ ,而在7/8月份,其吸收量变化各异（图2)。施N对${ \mathrm { N } } _ { 2 } \mathrm { O }$ 通量的影响因不同时间段而异,6月份的13：00，N7处理下 ${ \bf N } _ { 2 } \mathrm { O }$ 排放量最高，较CK增加了 $1 6 9 . 0 4 \%$ ，7月份的19:00 和8月份的15:00,N20 处理下 ${ \bf N } _ { 2 } \mathrm { O }$ 排放量最高,分别较CK 增加了 $2 0 3 . 4 2 \%$ 和 $4 6 . 6 3 \%$ （图2）。
+
+表1不同氮添加水平下高寒草甸温室气体排放日动态显著性  
+
+<html><body><table><tr><td colspan="4">Table1 Thedynalmmcs CaiC greenousegases SSIOIS 5C</td></tr><tr><td>月份</td><td>室气</td><td>模</td><td>F 显著值</td></tr><tr><td>6</td><td>CO2</td><td>时间</td><td>19.39 <0.001</td></tr><tr><td rowspan="20">7</td><td></td><td>处理 17.55</td><td><0.001</td></tr><tr><td></td><td>时间×处理 4.28</td><td><0.001</td></tr><tr><td>CH4</td><td>时间 7.93</td><td><0.001</td></tr><tr><td></td><td>处理 1.03</td><td>0.40</td></tr><tr><td></td><td>时间×处理 2.12</td><td>0.02</td></tr><tr><td>N20</td><td>时间</td><td>33.08 <0.001</td></tr><tr><td></td><td>处理</td><td>2.33 0.10</td></tr><tr><td></td><td>时间×处理</td><td>6.35 <0.001</td></tr><tr><td rowspan="3">CO2</td><td>时间</td><td>2.28 0.06</td></tr><tr><td>处理</td><td>1.28 0.34</td></tr><tr><td>时间×处理</td><td>2.09 0.03</td></tr><tr><td rowspan="3">CH4</td><td>时间</td><td>10.08 <0.001</td></tr><tr><td>处理</td><td>0.42 0.74</td></tr><tr><td>时间×处理 2.23</td><td>0.01</td></tr><tr><td rowspan="3">N20</td><td>时间</td><td>15.82 <0.001</td></tr><tr><td>处理</td><td>0.17 0.92</td></tr><tr><td>时间×处理 1.51</td><td>0.12</td></tr><tr><td rowspan="3">8 CO2</td><td>时间</td><td>23.15 <0.001</td></tr><tr><td>处理</td><td>13.16 0.008</td></tr><tr><td>时间×处理</td><td>0.006</td></tr><tr><td>CH4</td><td></td><td>3.08 13.50 <0.001</td></tr><tr><td rowspan="3"></td><td>时间</td><td></td></tr><tr><td>处理</td><td>0.07 0.97</td></tr><tr><td>时间×处理 3.29</td><td>0.002</td></tr><tr><td rowspan="3">N20</td><td>时间</td><td>31.54 <0.001</td></tr><tr><td>处理</td><td>0.54 0.66</td></tr><tr><td>时间×处理</td><td>3.91 <0.001</td></tr></table></body></html>
+
+# 2.2不同N素添加水平下小嵩草高寒草甸温室气体排放通量季节化特征
+
+生长季,不同N添加处理下温室气体排放通量的变化规律几乎一致。 $\mathrm { C O } _ { 2 }$ 排放呈现“三峰三谷”的变化趋势（图3)，其在不同日期及不同处理之间均具有显著性差异( $\scriptstyle \left( P < 0 . 0 5 \right)$ ,但其日期和处理之间无交互作用( $P >$
+
+0.05)（表2)；短期添加N素 $\mathrm { C H } _ { 4 }$ 的变化规律为“降低一升高一降低一再升高”的趋势， ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放通量的变化呈现为在6月底出现一个峰值之后,在X轴上下小幅度波动的趋势，二者在不同日期及不同处理之间均具有显著性差异( $_ { _ { P < 0 . 0 5 ) } }$ ,并且其日期和处理之间均具有交互作用( $P { < } 0 . 0 5 )$ （图3,表2）。
+
+短期添加N素， $6 / 7 / 8$ 月份 N20 处理下显著增加了 $\mathrm { C O } _ { 2 }$ 排放量,其月平均值分别较CK 增加了 $4 6 . 6 1 \%$ 、$1 0 0 . 8 4 \%$ 和 $6 4 . 0 7 \% ( P { < } 0 . 0 5 )$ ;在8月初及8月中旬,施氮显著增加了 $\mathrm { C H } _ { 4 }$ 排放，N7处理下分别较CK增加了$3 8 7 . 1 9 \%$ 和 $4 3 9 7 . 2 8 \% ( P < 0 . 0 5 )$ ,但短期施氮对 $\mathrm { C H } _ { 4 }$ 排放7/8月份月平均值无显著影响( $P { > } 0 . 0 5 )$ ，而在6月份，N20处理下施氮降低了 $\mathrm { C H } _ { 4 }$ 排放，较CK降低了 $6 9 . 4 9 \%$ 。不同N添加处理下， $6 / 7 / 8$ 月份 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放月平均值无显著差异( $P { > } 0 . 0 5$ ，图3）。
+
+![](images/ed09478e111ccd1bad81fd8840857e172da4f76795fbe25082811c5ef80768b5.jpg)  
+图3高寒草甸生长季温室气体排放季节变化
+
+Fig.3Greenhouse gas emission flux changes dynamically in growing season of alpine meado不同小写字母表示不同处理之间差异显著( $\scriptstyle P < 0 . 0 5$ ）
+
+生长季(6一8月)各处理温室气体排放总量均高于对照。其中，N20处理下温室气体排放总量最高，为$2 6 . 9 4 \mathrm { k g \ h m ^ { - 2 } \ d ^ { - 1 } }$ （表3），较对照增加了 $6 9 . 9 5 \%$ ;N7与N40 处理下的温室气体排放总量相近,分别为 $1 9 . 1 6 \mathrm { k g }$ $\mathbf { h m } ^ { - 2 } \mathbf { \Phi } \mathbf { d } ^ { - 1 }$ 和 $1 8 . 1 4 \mathrm { k g \ h m ^ { - 2 } \ d ^ { - 1 } }$ ,较对照分别增加了 $2 0 . 8 6 \%$ 和 $1 4 . 4 1 \%$ 。
+
+# 2.3不同N素添加水平下小嵩草高寒草甸植物群落生物量及土壤养分变化
+
+短期添加N素并未显著提高高寒草甸植被总生物量 $\scriptstyle P > 0 . 0 5 { \mathrm { ) } }$ )，但其有增加的趋势。6月初施N后，N7和N20处理下其地上生物量较CK分别增加了 $2 2 . 6 5 \%$ 和$2 6 . 9 3 \%$ （ $\scriptstyle P < 0 . 0 5$ ，图4）。
+
+表2不同氮添加水平下高寒草甸温室气体排放季节变化显著性 Table 2The dynamic significance of Greenhouse gas emissions under different nitrogen addition levels of alpine meadow   
+
+<html><body><table><tr><td>温室气体 Greenhouse gases</td><td>模型 Model</td><td>F</td><td>显著值 Sig.</td></tr><tr><td>CO2</td><td>日期</td><td>11.41</td><td><0.001</td></tr><tr><td rowspan="3"></td><td>处理</td><td>12.78</td><td>0.005</td></tr><tr><td>时间×处理</td><td>1.07</td><td>0.43</td></tr><tr><td>日期</td><td>9.93</td><td><0.001</td></tr><tr><td rowspan="4">N20</td><td>处理</td><td>6.65</td><td>0.005</td></tr><tr><td>时间×处理</td><td>2.37</td><td>0.001</td></tr><tr><td>日期</td><td>27.17</td><td><0.001</td></tr><tr><td>处理</td><td>12.14</td><td>0.001</td></tr><tr><td></td><td>时间×处理</td><td>3.52</td><td><0.001</td></tr></table></body></html>
+
+表3生长季不同氮素添加处理对温室气体排放总量的影响  
+Table 3The impact of different level of nitrogen addition on greenhouse gas emissions   
+
+<html><body><table><tr><td>处理 Treatment</td><td>CO2-e/(kg hm-² d-1) (CO）</td><td>CO-e/(kg hm-² d-1) （CH4）</td><td>COz-e/(kg hm-² d-1) (NO)</td><td>CO-e/ (kg hm-² d-1)</td></tr><tr><td>CK</td><td>15.34±1.55</td><td>0.07±0.046</td><td>0.44±0.16</td><td>15.85±1.63</td></tr><tr><td>N7</td><td>18.75±3.32</td><td>0.08±0.076</td><td>0.34±0.18</td><td>19.16±3.21</td></tr><tr><td>N20</td><td>26.37±4.44</td><td>-0.02±0.066</td><td>0.59±0.24</td><td>26.94±4.60</td></tr><tr><td>N40</td><td>17.77±1.96</td><td>0.05±0.13</td><td>0.31±0.23</td><td>18.14±2.07</td></tr><tr><td>Sig.</td><td>0.001</td><td>0.44</td><td>0.25</td><td>0.002</td></tr></table></body></html>
+
+N7、N20、N40 分别代表当地氮素自然沉降量的1、3、6倍,即 $7 \mathrm { k g } \ \mathrm { N } \ \mathrm { h m } ^ { - 2 }$ a−1（N7）、20kgNhm-²a-1（N20)和40kg Nhm-²a-1（N40)
+
+![](images/09e0c2ef5294a54856cb6477e2264ee065e35a0b8d32231004fff2106b9d2237.jpg)  
+图4不同氮添加水平下藏北高寒草甸植被生物量  
+Fig.4The biomass in northern Tibet alpine meadow under different nitrogen addition levels
+
+添加N素显著增加高寒草甸 $\mathrm { N H } _ { 4 } ^ { + }$ -N 含量。其中,N40水平下,其 $\mathrm { N H } _ { 4 } ^ { + }$ -N 含量较对照增加了 $2 6 . 4 0 \%$ （ $\textstyle P < 0 . 0 5$ ，,表4)。
+
+2.4生物与非生物因子对温室气体排放的影响
+
+经逐步回归分析， $\mathrm { C O } _ { 2 }$ 与 NPP 和 TOC 均显著线性正相关( $\textstyle P < 0 . 0 5$ ,表5）,而与TN、 $\mathrm { N H } _ { 4 } ^ { + }$ -N和 $\mathrm { N O } _ { 3 } ^ { - }$ -N无相关关系( $P { > } 0 . 0 5 )$ ， $\mathrm { C H } _ { 4 }$ 与 $\mathrm { T N } / \mathrm { N P P } / \mathrm { T O C } / \mathrm { N H _ { 4 } ^ { + } } \mathrm { - N } / \mathrm { N O _ { 3 } ^ { - } } \mathrm { - N }$ 均不相关( $P { > } 0 . 0 5 \$ ）， ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 与 NPP、TOC 显著线性负相关,与 $\mathrm { N O } _ { 3 } ^ { - }$ -N 呈显著线性正相关关系( $P { < } 0 . 0 5 )$ ，而与TN/ $\mathrm { N H } _ { 4 } ^ { + }$ -N无相关关系( $\scriptstyle P > 0 . 0 5 { \mathrm { ~ , ~ } }$ 。
+
+表4藏北高寒小嵩草草甸土壤养分状况  
+
+<html><body><table><tr><td>处理 Treament</td><td>TN/(g/kg)</td><td>NO3-N/ (mg/kg)</td><td>NH4-N/(mg/kg)</td><td>T0C/(g/kg)</td></tr><tr><td>CK</td><td>3.53 a</td><td>2.00 a</td><td>7.12 a</td><td>23.85 a</td></tr><tr><td>N7</td><td>3.88 ab</td><td>1.80 a</td><td>8.31 ab</td><td>26.69 a</td></tr><tr><td>N20</td><td>3.77 ab</td><td>1.84 a</td><td>8.25 ab</td><td>26.60 a</td></tr><tr><td>N40</td><td>4.15 b</td><td>1.82 a</td><td>9.00 b</td><td>27.42 a</td></tr></table></body></html>
+
+不同小写字母表示不同处理之间差异显著( $\scriptstyle P < 0 . 0 5$
+
+Table 4 Soil nutrients of alpine meadow in Northern-Tibet   
+表5逐步线性回归分析土壤养分与温室气体的关系  
+Table5Stepwise linear regressionanalysis of the relationship betweensoil nutrient and greenhousegases flux   
+
+<html><body><table><tr><td>Greenhouse gases</td><td>回归方程Equation</td><td>F</td><td>Sig.</td><td>R²</td></tr><tr><td>CO2</td><td>y=0.11a+6.57b-171.25</td><td>9.44</td><td>0.003</td><td>0.61</td></tr><tr><td>N20</td><td>y=-2.004×10-5a-0.003b+0.015c+0.081</td><td>10.48</td><td>0.001</td><td>0.75</td></tr></table></body></html>
+
+$\mathbf { \Delta } _ { a }$ 为NPP,b为 $\mathrm { T O C } , c$ 为 $\mathrm { N O } _ { 3 } ^ { - }$ -N
+
+# 3讨论
+
+草地生态系统 $\mathrm { C O } _ { 2 }$ 排放过程主要来源于生态系统呼吸作用,其中包括自养呼吸和异养呼吸作用。自养呼吸主要受生物量的影响,而异养呼吸作用主要受温度、水分和养分条件等环境因子和土壤动物以及微生物等生物因子的影响[22]。氮沉降不仅改变土壤养分条件,并且将导致土壤微生物活性改变[23]。多数研究表明,氮沉降促进青藏高原草地 $\mathrm { C O } _ { 2 }$ 排放[22-24],但其原因各不相同。如氮沉降增加导致的微生物活性增加[22-23]、生物量增加[22-24]、土壤有效氮含量增加[22,24]等,进而影响 $\mathrm { C O } _ { 2 }$ 排放。也有研究认为由于施氮可能会改变土壤呼吸的温度敏感性,导致氮沉降条件下青藏高原高寒草甸 $\mathrm { C O } _ { 2 }$ 排放减少[13]。除此之外,Wei等[25]研究结果表明,由于高寒地区微生物群落对N利用率较低,模拟氮沉降对青藏高原高寒草原生态系统 $\mathrm { C O } _ { 2 }$ 排放无显著影响,也未改变其季节变化规律。本研究结果显示，施氮显著促进 $\mathrm { C O } _ { 2 }$ 排放量，而 $\mathrm { C O } _ { 2 }$ 排放与NPP和TOC具有显著正相关关系。但本研究中NPP 和TOC 在施氮条件下并未发生显著变化。因此,高寒草甸土壤 $\mathrm { C O } _ { 2 }$ 排放对氮输入的响应存在很大的不确定性。鉴于已有的相关研究,本研究中 $\mathrm { C O } _ { 2 }$ 排放量增加可能来源于施氮条件下土壤微生物活性增加[22-23]。因此在下一步研究中应重点研究土壤微生物数量及活性对施氮的响应。
+
+对高寒草甸生态系统而言,该系统是 $\mathrm { C H } _ { 4 }$ 汇[26]。其对 $\mathrm { C H } _ { 4 }$ 的吸收主要与土壤温湿度[27]、微生物活性[27]等密切相关。此外,施氮格局及N形态也是影响 $\mathrm { C H } _ { 4 }$ 吸收的重要因素[28]。张裴雷等[26]研究表明,低氮处理促进青藏高原高寒草甸土壤 $\mathrm { C H } _ { 4 }$ 吸收,而中氮和高氮处理抑制土壤 $\mathrm { C H } _ { 4 }$ 吸收,这是由于土壤水分是影响土壤$\mathrm { C H } _ { 4 }$ 吸收的主要因子之一,低氮和高氮处理倾向于降低土壤含水量,而中氮处理倾向于增加。而 Jiang 等[13]研究发现,对青藏高原高寒草甸生长季短期添加氮素会减少 $\mathrm { C H } _ { 4 }$ 吸收。李伟等[28研究发现,未来氮沉降增加将抑制温带阔叶红松林土壤 $\mathrm { C H } _ { 4 }$ 的吸收,总体来看施氮抑制土壤碳排放,其既能抑制 $\mathrm { C H } _ { 4 }$ 产生,又能抑制 $\mathrm { C H } _ { 4 }$ 氧化,添加N素对 $\mathrm { C H } _ { 4 }$ 通量的影响可能最终取决于其对 $\mathrm { C H } _ { 4 }$ 产生和氧化两个过程抑制作用的相对大小[28]。本研究结果表明施氮对 $\mathrm { C H } _ { 4 }$ 的吸收无影响,并对全球增温潜势的影响很小[13]。
+
+草地生态系统 ${ \bf N } _ { 2 } \mathrm { O }$ 排放主要取决于土壤中硝化与反硝化过程。而该过程受土壤温湿度、土壤中 $\mathrm { N H } _ { 4 } ^ { + }$ -N、$\mathrm { N O } _ { 3 } ^ { - }$ -N 以及土壤微生物强烈的影响[25,27,29-30]。已有的研究表明,施氮对草地生态系统 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放的影响不尽相同。胡正华等[31]研究表明,短期内,氮沉降未改变北亚热带落叶阔叶林土壤 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 通量的季节性变化规律和日变化规律。其认为这可能由于氮沉降处理时间较短,未明显改变土壤中C/N 比,表现出氮沉降对土壤 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放影响不显著。而 Jiang 等[13]对青藏高原高寒草甸的研究结果表明,生长季短期添加氮素导致 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放增加,可能原因为施氮促进了高寒草甸的反硝化过程,进而促进了 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 的排放。此外,方华军等[15]研究发现,低氮不改变土壤 ${ \bf N } _ { 2 } \mathrm { O }$ 的排放,而高氮促进 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放。这是由于在高氮条件下， ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 产生菌群落结构变化,导致其活性增加,从而促进 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放。本研究发现：高寒草甸为弱的 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放源,氮添加并未显著改变 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放通量,此结论与Wei等[25]在青藏高原高寒草原所做研究得出的结论一致,均取决于硝化与反硝化过程,并可能受到半干旱的高寒地区气候,以及土壤质地、低的土壤有机碳含量和阳离子交换的影响[3]。
+
+# 参考文献（References）：
+
+[1]VitousekP,AberJD,HowarthRW,LkesGE,MatsonPA,SchnderDW,SchlesingerWH,TanDG.Humaalteratioheglobalnitrogen cycle：sources and consequences.Ecological Applications，1997,7(3）：737-750.  
+[2］朱天鸿,程淑兰,方华军,于贵瑞，郑娇娇，李英年.青藏高原高寒草甸土壤 $\mathrm { C O } _ { 2 }$ 排放对模拟氮沉降的早期响应.生态学报，2011，31(10):2687-2696.  
+[3]MoJug,iZsefitsuatedepoiisdliedeforests in subtropical China.Plant and Soil,2006,282(1/2）：135-151.  
+［4］肖胜生，董云社，齐玉春，彭琴，何亚婷，杨智杰.草地生态系统土壤有机碳库对人为干扰和全球变化的响应研究进展.地球科学进展，2009，24(10)：1138-1148.  
+[5]LuoYWanS，HuF，WalLLlimatizaiofespratioaginallgasspraiue，，656)：622-625.  
+[6]HuxmanTE,Smith MD,FayPA,KnappAK,ShawMR,Loik ME,SmithSD,TisueDT,ZakJC,WeltzinJF,PockmanWT,SalaQE,HaddB,HarteJ,KochGWSchwiingS，SmallEE，WillasG.Covergeceacrosbiomestocomonrain-useficiency.Nature，2004，429(6992）：651-654.  
+[7]GillR,ollyHW,JoonHB,AndersonLJ,aeraliH,JsoRBNolieagassaesposestsndfutueosc $\mathrm { C O } _ { 2 }$ Nature，2002,417(6886): 279-282.  
+[8]MoJM,ZangW,ZuWX,udersenP,FangY,LiDJ,WngH.rogenaditioeducessolespiatioinamatureroicaorestinsouthern China.Global Change Biology，2008，14（2）：403-412.  
+[9]IPCC.ClimateChange2O07：ThePhysicalScienceBasis.Contributionof WorkingGroupItotheFourthAsessmentReportoftheIntergovermmentalPanelonClimateChange.Cambridge，UnitedKingdomandNewYork,NY,USA：CambridgeUniversityPress，2007.  
+[10］赵亮，古松，徐世晓，赵新全，李英年.青藏高原高寒草甸生态系统碳通量特征及其控制因子.西北植物学报，2007,27(5）：859-863.  
+[11]BowdenRDvidoE,ageK,abiaC,ederocitrogndisdceoailspratiodmasaiintemperate forest soils at the Harvard Forest.Forest Ecology and Management,2O04,196(1）：43-56.  
+[12］邓湘雯，杨晶晶，陈槐，黄志宏，项文化，彭长辉．森林土壤氧化（吸收)甲烷研究进展.生态环境学报，2012，21（3）：577-583.  
+[13]Jiang C M,YuG R,Fang HJ,CaoG M,Ling YN.Short-term effect of increasing nitrogen deposition on $\mathrm { C O } _ { 2 }$ ， $\mathrm { C H } _ { 4 }$ and ${ \bf N } _ { 2 } \mathrm { O }$ fluxes in an alpinemeadow on the Qinghai-Tibetan Plateau,China.Atmospheric Environment，2010,44(24）：2920-2926.  
+[14]Fluckiger J,Dalenbach A，Blunier T,Stauffer B,Stocker TF,RaynaudD,Barmola JM.Variations inatmospheric ${ \bf N } _ { 2 } \mathrm { O }$ concentration duringabrupt climatic changes.Science，1999，285(5425）：227-230.  
+[15］方华军，程淑兰，于贵瑞，王永生，徐敏杰，党旭升，李林森，王磊.大气氮沉降对森林土壤甲烷吸收和氧化亚氮排放的影响及其微生物学机制.生态学报，2014，34（17）：4799-4806.  
+[16］高清竹，段敏杰，万运帆，李玉娥，郭亚奇，江村旺扎.藏北地区生态与环境敏感性评价.生态学报，2010,30(15)：4129-4136.  
+[17]GaoQZ,LiYE，WanYF,LinED,XiongW,JiangcuWZ,WangBS,LiWF.GrassanddegradationinnortheTibet:basedoeotesensing data.Journal of Geographical Sciences，2006，16(2）：165-173.  
+[18]LuCQanHSpatialpalesfreposiSsfeatialaJolofh2007，112(D22）:D22S05.  
+[19]GalowayJN,DnteerFJ,CaponDG,oyerEWHoearthRW,SeingrP,AserGP,levelandCC,GrenPA,Hlld,KalDM,MichaelsAF,orterJsendAVoartyC.roencyesst,prstduturegeocestry,(）226.  
+[20］万运帆，李玉娥，林而达，高清竹，秦晓波.静态箱法测定旱地农田温室气体时密闭时间的研究.中国农业气象,2005,27（2)：122-124.  
+[21]ZhangAF,BianRJ,PanGX,CuiLQ,Hussina Q,LiLQ,ZhengJW,ZhengJF,ZhangXH,Han XJ,YuXY.Efectsofbiocharamendmentonsoilquality，copyieldandgreehousegasemisioninaChinesericepaddy：Afieldstudyof2cosecutivericegrowingcycles.Field Crops Research,2012,127：153-160.  
+[22］李娇，尹春英，周晓波，魏宇航，高巧，刘庆.施氮对青藏高原东缘窄叶鲜卑花灌丛土壤呼吸的影响.生态学报，2014，34（19)：5558-5569.  
+[23］涂利华，胡庭兴，张健，何远洋，田祥宇，肖银龙.模拟氮沉降对华西雨屏区苦竹林细根特性和土壤呼吸的影响.应用生态学报，2010,21(10): 2472-2478.  
+[24］宗宁，石培礼，蔣婧，熊定鹏，孟丰收，宋明华，张宪洲，沈振西.短期氮素添加和模拟放牧对青藏高原高寒草甸生态系统呼吸的影响.生态学报，2013，33（19)：6191-6201.  
+[25]Wei D,Xu R,Liu YW,Wang YH,Wang Y S. Three-year study of $\mathrm { C O } _ { 2 }$ efflux and $\mathrm { C H } _ { 4 } / \mathrm { N } _ { 2 } \mathrm { O }$ fluxes at an alpine steppe site on the centralTibetan Plateau and their responses to simulated N deposition.Geoderma,2014,232-234：88-96.  
+[26］张裴雷，方华军，程淑兰，徐敏杰，李林森，党旭升.增氮对青藏高原东缘高寒草甸土壤甲烷吸收的早期影响.生态学报，2013，33(13):4101-4110.  
+[27］魏达，旭日，王迎红，姚檀栋.青藏高原纳木错高寒草原温室气体通量及与环境因子关系研究.草地学报，2011，19（3)：412-419.  
+［28］李伟，白娥，李善龙，孙建飞，彭勃，姜萍.施氮和降水格局改变对土壤 $\mathrm { C H } _ { 4 }$ 和 $\mathrm { C O } _ { 2 }$ 通量的影响.生态学杂志，2013，32（8)：1947-1958.  
+[29] 王改玲，陈德立，李勇.土壤温度、水分和 $\mathrm { N H } _ { 4 } ^ { + }$ -N浓度对土壤硝化反应速度及 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放的影响.中国生态农业学报，2010，18(1)：1-6.  
+[30] 马钢，王平，王冬雪，徐世权.高寒灌丛土壤温室气体释放对添加不同形态氮素的响应.草业学报，2015，24（3)：20-29.  
+[31] 胡正华，张寒，陈书涛，李琪，李涵茂，申双和.氮沉降对林带土壤 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 和 $\mathrm { C H } _ { 4 }$ 通量的影响.中国环境科学，2011，31(6)：892-897.  
+[32]Sommer S G,， Schjoerring JK,Denmead $\mathrm { ~ o ~ r ~ }$ ，Ammonia emision from mineral fertilizers and fertilized crops.Advances in Agronomy，2004，82:557-622.

@@ -1,0 +1,430 @@
+[
+    {
+        "type": "text",
+        "text": "Numerical Study of Combining Steady Vortex Generator Jets and Deflected Trailing Edge to Reduce the Blade Numbers of Low Pressure Turbine Stage ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Li Chao, YAN Peigang, Wang Xiangfeng, HAN Wanjin, WANG Qingchao ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "School of Energy Science and Engineering, Harbin Institute of Technology,Harbin,150oo1, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A flow control system that combined steady Vortex Generator Jets and Deflected Trailing-edge (VGJs-DT) to decrease the low pressure turbine (LPT) blade numbers was presented.The effects of VGJs-DT on energy loss and flow of low solidity low pressure turbine (LSLPT) cascades were studied.VGJs-DT was found to decrease the energy loss of LSLPT cascade and increase the flow turning angle. VGJs-DT decreased the solidity by $12 . 5 \\%$ without a significant increase in energy loss. VGJs-DT was more effective than steady VGJs. VGJs-DT decreased the energy loss and increased the flow angle of the LSLPT cascade with steady VGJs.VGJs-DT can use $50 \\%$ less mass flow than steady VGJs to inhibit the flow separation in the LSLPT cascade.The deflected trailing edge enhanced the abilityof steady VGJs toresist flow separation.Overall VGJs-DTcan beused to controlflow separation in LPT cascade and reduce the blade numbers of low pressure turbine stage. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: low pressure turbine,profile los,flow control, Vortex Generator Jets,deflected trailing edge ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The current trend in the design of modern turbomachinery is minimizing operating costs and manufacturing costs without significantly change in efficiency. Reducing the LPT blade numbers is needed to achieve these goals [1]; however, reducing the blade numbers will increase the blade load,and the boundary layer may separate on the suction side with the increase of adverse pressure gradient [2]. This is more challenging for high-lift low pressure turbine (LPT) blades compared to traditional blades [3,4]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "One way to control flow separation in an LPT cascade is to design more separation-resistant airfoils [5].Aft loaded profile can reduce endwall losses [6],but it will increase the adverse pressure gradient. Compared with the aerodynamic performance of the aft loaded profile, the front loaded profile is better, especially at low Reynolds numbers[7-9].Although a front loaded profile has a good aerodynamic performance,there are some shortcomings.For example,front loaded profiles produce a longer turbulence zone on the suction surface,which tends to increase the energy loss [10]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Advantageous profiles can increase the resistance to flow separation in an LPT cascade, but flow separation still occurs when the load is above a loading limit.If flow control devices are used in the advantageous profiles, the loading limit may be increased [11].Passive control devices,such as grooves [12],dimples [13],and trailing edge thickness [14],are simple and can decrease the energy loss at low Re in the LPT operation range;however,passive control devices increase the energy loss at higher Re.Active control devices, such as plasma devices [15],microjets [16] and Vortex generator jets (VGJs) [11,17-19],add additional devices in LPT； the strength can be adjusted to adapt to different flow conditions or turned off at high Re to avoid additional energy loss[7]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the passive and active techniques,VGJs are significantly promising [17]. However, VGJs increase the length of the turbulence zone on the suction surface, which tends to increase the energy loss. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In order to reduce the LPTblade numbers,researchers have developed a high lift LPT cascade by increasing the blade pitch.Sondergaard et al. [2O] used steady Vortex generator jets(VGJs) to develop a high-lift LPT by increasing the pitch of Pak-B LPT cascade.Chen et al. [21,22] showed that the pitch of Pak-B LPT cascade increased by $12 . 5 \\%$ with the jet-flap and gurney-flap, without a significant change in loss.And Li et al.[23] used a deflected trailing edge to develop the low solidity LPT cascade.A deflected trailing edge increased the flow energyinboundarylayer, increased theabilityto inhibit flow separation,and decreased the length of the turbulence zone on the suction surface. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Since both steady VGJs and deflected trailing edges can increase the ability of inhibiting flow separation by increasing the energy near the wall, the deflected trailing edge can reduce the length of the turbulence zone on the suction surface while steady VGJs increase the length of the turbulence zone. We hypothesized that combining steady VGJs and a deflected trailing edge (VGJs-DT) would allow for the control of flow separation in low solidity high-lift front loaded LPT cascades. Thiswork studied the effects of VGJs-DT on energy loss,flow turning angle and flow of high-lift LPT cascade,and a flow control mechanism of VGJs-DT was discussed. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Computation model and method ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this work,the LPT blade was a high-lift frontloaded LPT L2F, which was designed by McQuilling [9]. The axial chord $C _ { x }$ was $1 5 2 . 4 \\mathrm { m m }$ The pitch-to-chord ratio $s / C _ { x }$ was 1.221. The designed inlet flow angle $\\beta _ { I }$ was $3 5 ^ { \\circ }$ and the designed flow angle $\\beta _ { 2 }$ was $5 8 ^ { \\circ }$ ，as shown in Figure 1.The Zweifel lift coefficient of L2F was1.59,which was $3 8 \\%$ higher than that of the wellknown blade profile Pak-B [24]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b011d89fa1925d2e0765de116d9efc6ab078a64e8be3154faa9f4b5de12b6006.jpg",
+        "img_caption": [
+            "Fig.1 Schematic of the blade cascade "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Zw(Zweifel lift coefficient) is defined as: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ w = 2 { \\frac { s } { C _ { x } } } \\sin ^ { 2 } { \\beta _ { \\mathrm { o u t } } } [ { \\frac { u _ { \\mathrm { i n } } } { u _ { \\mathrm { o u t } } } } \\cot { \\beta _ { \\mathrm { i n } } } + \\cot { \\beta _ { \\mathrm { o u t } } } ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Where $s$ is the pitch, $u$ is the velocity. $\\beta _ { \\mathrm { i n } }$ and $\\beta _ { \\mathrm { o u t } }$ are respectively the inlet and exit angle. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "VGJs were located at $2 6 \\% \\ C _ { \\mathrm { x } }$ and the trailing edge deflected at $9 5 \\% C _ { \\mathrm { x } }$ from the leading edge, $h$ is the height of the deflected trailing edge,as shown in Figure 1.The injected angle is defined by the skew angle 0 (defined as the angle between the main flow and the projection of jets on the suction surface) and the pitch angle $\\boldsymbol { \\Phi }$ (defined as the angle between the jets and their projection on the suction surface). The skew angle $\\theta$ and the pitch angle $\\varphi$ were $3 0 ^ { \\circ }$ and $6 0 ^ { \\circ }$ ，respectively. The jet diameter D was $2 . 8 \\mathrm { m m }$ . The spanwise distance between the two jets was 10D,as shown in Figure 2. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e0edbc89d0c235f83c85d51f1ea47d93d80694a1ba48de0d41cc1bd9d9d6925.jpg",
+        "img_caption": [
+            "Fig.2The geometry of VGJs-DT "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Considering the flow separation and transition，the commercial software CFX with Menter's transition model[25,26] was used to simulate the flow in the LPT cascade . ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The three-dimensional computational grids are shown in Figure 3.The grids around the blade and jets zone were O-grids while the other grids were H-type grids. To conserve computational resources, the jets grids remained only at the outlet surface on the suction surface. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a4e910c4c1e163311e3355be906d36575f6bce7fd6054a7203a878675a8bb024.jpg",
+        "img_caption": [
+            "Fig.3the computational grids "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The inlet boundary specified total pressure, freestream turbulence intensity (FSTI), flow angle, total temperature and eddy viscosity ratio imposed. Static pressure was imposed at the outlet boundary. The velocity, flow angle, static temperature,FSTI and eddy viscosity ratio were imposed at the VGJ boundary. One single blade cascade was used in the computation with periodic conditions in the crossflow direction and in the spanwise direction. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Validation of the numerical method ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Computational data and experimental data were compared to verify the computation methods. Static pressure coefficient distributions $\\mathrm { C } _ { \\mathrm { p } }$ in Pak-B are shown in Figure 4.The CFD data were in agreement with the experimental data [13,17,27] for Pak-B with and without VGJs. There were some differences between the two experimental data for Pak-B without VGJs,which was caused by the flow instability atlowRe in theLPT cascade.Jet blowing ratio $\\mathbf { B }$ is defined as $\\scriptstyle \\mathrm { B = } u _ { \\mathrm { j e t } } / u _ { \\mathrm { l o c } }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The blade surface static pressure coeficient $\\mathrm { C _ { p } }$ isdefined as: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { p } { = } 2 ( P _ { \\mathrm { T } , \\mathrm { i n } } - P _ { \\mathrm { S } } ) \\big / { \\rho } u _ { i n } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Where $\\rho$ is the density. $P _ { \\mathrm { T } }$ and $P _ { \\mathrm { { s } } }$ are static pressure and stagnation pressure,respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The energy loss coefficient @ is defined as: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\omega } = \\left( P _ { \\mathrm { { T } , \\mathrm { { i n } } } } - P _ { \\mathrm { { T } , \\mathrm { { o u t } } } } \\right) \\big / \\big ( P _ { \\mathrm { { T } , \\mathrm { { i n } } } } - P _ { \\mathrm { { S } , \\mathrm { { o u t } } } } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Effects of the energy loss coefficient $\\boldsymbol { \\omega }$ for Pak-B cascade at $\\mathbf { B } = 2$ are shown in Figure 5.The CFD data agreed well with the experimental data [27] at high Re. Steady VGJs can reduce the energy loss of the LPT cascade. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The blade surface static pressure coefficient $\\mathrm { C _ { \\mathrm { p } } }$ distributions in L2F are shown in Figure 6.The CFD data agreed well with the experimental data [19]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The effects of the Re on the energy loss coefficient @ are shown in Figure 7.Computed data was in good agreement with experimental data [9,24]. The high lift front load LPT cascade L2F showed better aerodynamic performance than the LPT cascade Pak-B,especially at low Re. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c8ef3dcc6474ef7a200d891206b609d2f8f07aee07d4093fb1a26586ab36b2af.jpg",
+        "img_caption": [
+            "Fig.4Blade surface static pressure coefficient $\\mathrm { C _ { p } } { } .$ Pak-B "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Examining the collective data from Figures 4 to 7, we concluded that the computation method in this work can predict flow separation and transition in the LPT cascade. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/965376849ab3009bbb86df7ae0e6ff7d3dacd6cede30c3ecb39f140be93940cd.jpg",
+        "img_caption": [
+            "Fig.5Effects of Re on energy loss coefficient $\\boldsymbol { \\omega }$ at $\\mathbf { B } = 2$ Pak-B "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6fe1df9f6983a2fcbafed3c3ad701dd7665baaa450b2af45216e63ff7d0ed835.jpg",
+        "img_caption": [
+            "Fig.6Blade surface static pressure coefficient distributions $\\mathrm { { C _ { p } } } .$ L2F, $F S \\mathrm { T I } = 3 \\%$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/cc31b3fcd47441fd5643f38b12497822f99344f6b6c95f522cb935baacdbfce8.jpg",
+        "img_caption": [
+            "Fig.7Effects of the Re on energy loss coefficient @,L2F, $F S \\mathrm { T I } = 3 \\%$ （20 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Effects of VGJs-DT on the aerodynamic perfor mance ofL2F-LB ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In order to reduce the blade numbers of the LPT stage, the solidity $\\tau$ (defined as $\\mathrm { C / L }$ ） decreased by increasing the pitch by $12 . 5 \\%$ only. The low solidity LPT cascade was referred to as L2F-LB.The Reynolds number (Re) is based on inlet velocity and the axial chord. The free stream turbulence intensity (FSTI) is $3 \\%$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The energy loss coefficient $\\gamma$ ，which considered the Vortex Generator Jets, is defined as: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma = \\frac { ( m _ { \\mathrm { i n } } P _ { \\mathrm { T , i n } } + m _ { \\mathrm { v g j } } P _ { \\mathrm { T , v g j } } ) - ( m _ { \\mathrm { i n } } + m _ { \\mathrm { v g j } } ) P _ { \\mathrm { T , o u t } } } { m _ { \\mathrm { i n } } ( P _ { \\mathrm { T , i n } } - P _ { \\mathrm { s , i n } } ) + m _ { \\mathrm { v g j } } ( P _ { \\mathrm { T , v g j } } - P _ { \\mathrm { s , v g j } } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Where $m _ { \\mathrm { i n } }$ and $m _ { \\mathrm { v g j } }$ are respectively inlet and VGJs massflowrate. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The effects of $H$ on the energy loss coefficient at $\\operatorname { R e } =$ 20000 and at $\\mathrm { R e } = 5 0 0 0 0$ are shown in Figures 8.The VGJs-DT decreased the energy loss of the LPT cascade. For $\\mathbf { B } = 1$ and $\\mathbf { B } = 2$ at $\\mathrm { R e } = 2 0 0 0 0$ and $\\mathbf { B } = 1$ at $\\mathrm { R e } =$ 50000,the energy loss of the LPT cascade decreased as $H$ increased. However, for high $B$ ，the energy loss slightly increased as $H$ increased.VGJs-DT decreased the energy loss at low $B$ and maintained a substantially constant energy loss for high $B$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 8 shows the energy loss of L2F-LB with VGJs-DT at the same level as the standard solidity LPT cascade at $\\mathrm { R e } = 2 0 0 0 0$ and $\\mathrm { R e } \\ : = \\ : 5 0 0 0 0$ . VGJs-DT decreased the solidity by $12 . 5 \\%$ without a significant increase in energy loss. The energy loss of L2F-LB with VGJs-DT at $\\mathrm { R e } = 2 0 0 0 0$ and ${ \\mathbf B } = 2$ was lower than the energy lossofL2F-LB with only VGJs at $\\scriptstyle \\mathrm { R e } = 2 0 0 0 0$ and $\\mathrm { ~ B ~ } = 3$ . The energy loss of L2F-LB with VGJs-DT at $\\scriptstyle \\mathrm { R e = } 5 0 0 0 0$ and $\\mathbf { B } = 1$ was lower than the energy loss of L2F-LB with only VGJs at $\\mathrm { R e } = 5 0 0 0 0$ and $\\mathbf { B } = 2$ .Adeflected trailing edge enhanced the ability of VGJs to suppress flow separation in the LPT cascade.VGJs-DT used $3 3 \\%$ and $50 \\%$ less mass flow rate than VGJs alone to suppress flow separation in L2F-LB at $\\mathrm { R e } = 2 0 0 0 0$ and $\\mathrm { R e } = 5 0 0 0 0$ ,respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The effects of $H$ on the flow turning angle ofL2F-LB with VGJs at $\\mathrm { R e } = 2 0 0 0 0$ and $\\mathrm { R e } = 5 0 0 0 0$ are shown in Figure 9. The flow turbine angle increased as $H$ increased for different $B$ values at $\\mathrm { R e } = 2 0 0 0 0$ and $\\mathrm { R e } = 5 0 0 0 0$ . The flow turning angle of L2F-LB with VGJs-DT was higher than the flow turning angle of L2F.A deflected trailing edge increased the flow turbine angle of L2F-LB with VGJs. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "EffectsofVGJs-DTontheflowofL2F-LB ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In order to reveal the flow control mechanism,effects of VGJs-DT on the flow of L2F-LB were presented. Figure 10 shows effects of $H$ on the static pressure coefficient distributions on the blade in the middle of jets in L2F-LB at $\\mathrm { R e } = 2 0 0 0 0$ and $\\mathbf { B } = 2$ . As shown,VGJs-DT decreases the size of separation bubble.With the increase of H,the maximum static pressure coefficient increases, this means the flow velocity on the blade surface increases. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ffb102e9c4a0c0d4a487e80e2ed651f26a241a2c41e9b1ab7f5b3f4392c0ffd7.jpg",
+        "img_caption": [
+            "Fig.8Effects of $H$ on energy loss coefficient,L2F-LB "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Velocity distribution in L2F-LBat $\\mathrm { R e } = 2 0 0 0 0$ and B $= 2$ is shown in Figure 11.As $H$ increased the flow separation on the suction surface was suppressed for $\\mathbf { B } = 2$ and as a result, the energy loss of the LPT cascade decreased at $\\mathrm { R e } = 2 0 0 0 0$ . However, because the flow separation was controlled by VGJs for $\\mathrm { ~ B ~ } = 3$ ，as shown in Figure 12,there was no obvious change in the flow on the suction surface as $H$ increased.As shown,the deflected trailing edge enhanced the flow mixing near the trailing edge. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The turbulence energy distribution in L2F-LB at $\\operatorname { R e } =$ 20000 and $\\mathbf { B } = 2$ and $\\mathbf { B } = 3$ ,are shown in Figures 13 and Figures 14,respectively. The turbulence intensity on the suction surface decreased as $H$ increased;however, the turbulence intensity near the trailing edge increased as $H$ increased. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d4dfc021e781d513b9bc826ad24efde47499ea8080d2c4c62bc836cd6de46ba2.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/81c7c50dccc10b141145bdcae53a4f552316f4a71190b916911abb383e03e765.jpg",
+        "img_caption": [
+            "Fig.10Effects of H on the static pressure coefficient distributions,L2F-LB, $\\mathrm { R e } = 2 0 0 0 0$ ， $\\mathbf { B } = 2$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8d1fdf8629696d46bb5ca8703747f7299056bc075fbd298a40d5f7adb0bedc6a.jpg",
+        "img_caption": [
+            "Fig.9Effects of $H$ on flow turning angle, L2F-LB "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The deflected trailing edge deflected the main flow of L2F-LB with steady VGJs,accelerated the flow on the suction side,and increased the energy of flow near the wall.The deflected trailing edge enhanced the ability of steady VGJs to resist flow separation，which tended to decrease the energy loss.Furthermore，the deflected trailing edge decreased the turbulence energy intensity on the suction side of L2F-LB with steady VGJs,which tended to decrease the energy loss.However, the deflected trailing edge enhanced the mixing flow near the trailing edge of the cascade with steady VGJs,which tended to increase the energy loss. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/db431f16be071f7e342cc5e33c8f7548be7a7cc38a63a5fb46e02bded695ea8e.jpg",
+        "img_caption": [
+            "Fig.11Velocity distribution,L2F-LB, $\\scriptstyle \\mathrm { R e } = 2 0 0 0 0$ ,B=2 ",
+            "Fig.12Velocity distribution,L2F-LB, $\\mathrm { R e } { = } 2 0 0 0 0$ 5 $\\scriptstyle \\mathrm { B } = 3$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/623ef20b9cfd8f9b590c251b5cdb7ca95eed1491a5e25d0c4c0a1d7c973d49da.jpg",
+        "img_caption": [
+            "Fig.13Turbulence distribution,L2F-LB, $\\scriptstyle \\mathrm { R e } = 2 0 0 0 0$ $\\scriptstyle \\mathrm { B } = 2$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/fd6b8e0a7b16c3f38f713cab3c86a84550efcd66b90ab2b48d7ab83f3aba6854.jpg",
+        "img_caption": [
+            "Fig.14Turbulence distribution,L2F-LB, $\\scriptstyle \\mathrm { R e } = 2 0 0 0 0$ $\\scriptstyle \\mathrm { B } = 3$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A flow control system that combined steady VGJs and a deflected trailing edge(VGJs-DT） was presented. The effects of VGJs-DT on energy loss and flow ofL2F-LB were studied.The main conclusions are summarized as follows: ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1)VGJs-DT decreased the energy loss of the low solidityLPT cascade and decreased the low pressure turbine blade numbers by $12 . 5 \\%$ without notable change in efficiency. VGJs-DT was more effective than steady VGJs.The deflected trailing edge reduced the energy loss and increased the flow turning angle of L2F-LB with steady VGJs. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2) The deflected trailing edge accelerated the flow on the suction side and enhanced the ability of steady VGJs to resist flow separation. VGJs-DT used less mass than steady VGJs flow to control flow separation. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3) The deflected trailing edge suppressed flow separation and decreased the turbulence energy intensity on the suction surface,which tended to decrease the energy loss.However, the deflected trailing edge enhanced the mixing flow near the trailing edge,which tended to increase the energy loss. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(4）Prior work generally only used either passive control technology or active control technology alone to suppress flow separation in an LPT cascade.However, our results show that combining passive and active control technologies can be more effective than using them alone. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]MichAAlek J,Monaldi M,Arts T. Aerodynamic Performance ofa Very High LiftLow Pressure Turbine Airfoil (T106C) atLow Reynolds and High Mach Number With Effect of Free Stream Turbulence Intensity[J].Journal of Turbomachinery,2012,134(6): 061009.   \n[2]Liu X, Zhou H. Numerical investigations of flow separation control for a low pressure turbine blade using steady and pulsed vortex generator jets[R].ASME Turbo Expo 2010:Power for Land, Sea,and Air.American Society of Mechanical Engineers, Glasgow, UK,GT2010: 22587.   \n[3]Curtis E M, Hodson HP,Banieghbal M R, et al. Development of blade profiles for low-pressure turbine applications [J]. Journal of Turbomachinery,1997,119(3): 531 $^ { - 5 3 8 }$ ：   \n[4]Praisner T J, Grover E A, Knezevici D C, et al. Toward the expansion of low-pressure-turbine airfoil design space [R].ASME Paper,2008-GT-50898,2008.   \n[5] Praisner TJ, Clark JP.Predicting transition in turbomachinery—Part I:A review and new model development [J].Journal of Turbomachinery, 2007,129(1): 1-13.   \n[6] Wei AP, FottnerL. The influence ofload distribution on secondary flow in straight turbine cascades[R] ASME Paper,GT-1993-086.   \n[7] Volino RJ,Kartuzova O,Ibrahim MB.Experimental and Computational Investigations of Low-Pressure Turbine Separation Control Using Vortex Generator Jets[R], ASME Paper,GT2009-59983,2009.   \n[8]Popovic I, Zhu J, Dai W, et al. Aerodynamics of a Family of Three Highly Loaded Low-Pressure Turbine Airfoils: Measured Effects of Reynolds Number and Turbulence Intensity in Steady Flow[R] ASME Paper,GT2006- 91271,2006.   \n[9]McQuilling M W. Design and Validation of a High-Lift Low-Pressure Turbine Blade[D]. Wright State University, 2007.   \n[10] Zhang X F,Vera M,Hodson H,et al. Separation and transition control on an aft-loaded ultra-high-lift LP turbine blade at low Reynolds numbers:low-speed investigation[J]. Journal of Turbomachinery,2006,128(3): 517- 527.   \n[11]Volino R J, Ibrahim M B. Separation control on high lift low-pressure turbine airfoils using pulsed vortex generator jets[J].Applied Thermal Engineering,2012,49:31- 40.   \n[12]Lake JP, King P I, Rivir R B. Low Reynolds number loss reduction on turbine blades with dimples and V-grooves [J].AIAAPaperNo.00-0738,2000.   \n[13]Rouser K P, Use of dimples to suppress boundary layer separation on a low pressure turbine blade [D]. Ohio State: Air Force Institute of Technology, 2002.   \n[14] Zhou C,Hodson H,Himmel C,et al. The Effects of Trailing Edge Thickness on the Losses ofUltra-High Lift LP Turbine Blades[J]. Journal of Turbomachinery, 2013:V06AT36A001.   \n[15]Huang J, Corke T C, Thomas F O.Plasma actuators for separation control of low-pressure turbine blades[J]. AIAA Journal,2006,44(1): 51-57.   \n[16]Fernandez E,Kumar R,Alvi F. Separation Control on a Low-Pressure Turbine Blade using Microjets [J]. Journal ofPropulsion & Power,2013,29(4):867-881.   \n[17]Sondergaard R,Rivir R B,Bons JP. Control of LowPressure Turbine Separation Using Vortex-Generator Jets[J]. Journal of Propulsion & Power, 2002,18(4): 889- 895.   \n[18]Bons JP, Sondergaard R,Rivir R B. The fluid dynamics of LPT blade separation control using pulsed jets[R]. ASME Paper,2001-GT-0190,2001.   \n[19]Benton S I,Bons JP,Sondergaard R.Secondary Flow Loss Reduction Through Blowing fora High-Lift FrontLoaded Low Pressure Turbine Cascade[J].Journal of Turbomachinery, 2013,135(2): 021020.   \n[20] Sondergaard R,Bons JP, Sucher M,et al. Reducing Low-Pressure Turbine Stage Blade Count Using Vortex Generator Jet Separation Control[R]. ASME Paper, GT2002-30602: 2002,Amsterdam, The Netherlands.   \n[21]Chen PP, Qiao W Y, Luo HL, et al. Investigation of Low Solidity LP Turbine Cascade With Flow Control:Part 1—Active Flow Control Using Jet-Flap[R], Glasgow, UK: ASME Paper GT2010-22328,2010.   \n[22]Chen PP, Qiao W Y, Luo H L. Investigation of Low Solidity LP Turbine Cascade With Flow Control: Part 2—Passive Flow Control Using Gurney-Flap[R],Glasgow, UK: ASME Paper GT2010-22330,2010.   \n[23]Li C,Yan PG, Wang XF,Han WJ, Wang QC. Use deflected trailing edge to improve the aerodynamic performance and develop low solidity LPT cascade [J]. International Journal of Turbo & Jet-Engines. ISSN(Online) 2191-0332,ISSN (Print) 0334-0082,DOI: 10.1515/tjj2016-0005, March 2016.   \n[24]Lyall ME,King PI, Sondergaard R,et al. An Investigation of Reynolds Lapse Rate for Highly Loaded Low Pressure Turbine Airfoils With Forward and Aft Loading [J].Journal of Turbomachinery,2012,134(5): 051035.   \n[25] Menter F R,Langtry R B,Likki SR,et al.A correla-tion-based transition model using local variables-Part I: model formulation [J]. Journal of Turbomachinery, 2006, 128(3): 413-422.   \n[26] Langtry R B,Menter F R,Likki S R,et al.A correla-tion-based transition model using local variables-part II: test cases and industrial applications [J]. Journal of Turbomachinery, 2006,128(3): 423-434   \n[27]Sondergaard R.LPT Flow Control at AFRL [J]. AIAA 2008-4156,2008. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

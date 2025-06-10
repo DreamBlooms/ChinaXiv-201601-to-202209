@@ -1,0 +1,402 @@
+[
+    {
+        "type": "text",
+        "text": "SCIENTIFIC REPORTS ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "OPEN ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received: 12 March 2015   \nAccepted: o1 October 2015   \nPublished: o3 November 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Biochemical and structural characterization of a novel ubiquitin-conjugating enzyme E2 from Agrocybe aegeria reveals Ube2w family-specific properties ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chao $\\mathsf { O i } ^ { \\mathsf { 1 } , \\mathsf { 2 } , \\star }$ De-Feng $\\mathsf { L i ^ { \\star } }$ , Lei Feng¹,Yanjie Hou¹, Hui Sun³,Da-Cheng Wang¹& Wei Liu4 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ubiquitination is a post-translational modification that is involved in myriad celar regulation and disease pathways.The ubiquitin-conjugating enzyme (E2) is an important player in the ubiquitin transfer pathway. Although many E2 structures are available,not all E2 families have known structures,and three-dimensional structures from fungal organisms other than yeast are lacking. We report here the crystal structure of UbcAl, which is a novel ubiquitin-conjugating enzyme identified from the edible and medicinal mushroom Agrocybe aegerita and displays potential antitumor properties.The protein belongs to the Ube2w family and shows similar biochemical characteristics to human Ube2w, including monomer-dimer equilibrium in solution, $\\mathbf { \\alpha } _ { \\alpha - \\ N H _ { 2 } }$ ubiquitin-transfer activity and a mechanism to recognize backbone atoms of intrinsically disordered N-termini in substrates.Its structure displays a unique C-terminal conformation with an orientation of helix α3 that is completely different from the reported E2 structures but similar to a recently reported NMR ensemble of Ube2w.A mutagenesis study on this novel enzyme revealed that an intact C-terminus is significant for protein dimerizationand enzymatic activity.As the first crystalized full-length protein of this family, UbcA1 may supersede the truncated $\\mathsf { x }$ -ray structure of Ube2w (PDB entry 2A7L) as the representative structure of the Ube2w family. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The ubiquitin-proteasome pathway (UPP) is a highly selective proteolytic mechanism that plays crucial roles in proteinquality control,cell cycle control, proliferation,development,signal transduction,transcriptional regulation,receptor down-regulation,and synaptic plasticityl-4.The UPP begins with covalent attachment of a ubiquitin (Ub), which is a highly conserved 76-amino-acid polypeptide, to a substrate protein5.Protein ubiquitination is a multistep process orchestrated by three enzymes: a Ub-activating (E1) enzyme,a Ub-conjugating (E2) enzyme and a Ub ligase (E3). E1 activates ubiquitin by forming a high-energy thioester linkage between its catalytic Cys residue and the C-terminal glycine of Ub. Next, E2 transfers the activated Ub via a ubiquitin thioester intermediate to a substrate specifically bound to E3,which catalyzes the formation of an isopeptide bond between the C-terminus of ubiquitin and the $\\boldsymbol { \\varepsilon } \\mathrm { - } \\mathbf { N } \\mathbf { H } _ { 2 }$ group of a lysine on the substrate. Subsequently, the E2-E3 pair often switches to polyubiquitination by cyclically attaching additional Ub molecules to one of the Lys residues in the substrate-linked ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1National Laboratory of Biomacromolecules，Institute of Biophysics， Chinese Academy of Sciences，Beijing, 100101,China.²UniversityofChineseAcademyofSciences,Beijing,10o049,China.The CollegeofLifeSciences, Wuhan University,Wuhan,Hubei Province,430072,China.4Instituteof Immunology,The Third Military Medical University， Chongqing，400038，China.\\*These authors contributed equally to this work.Corespondence and requests for materials should be addressed to D.-C.W.(email: dcwang@ibp.ac.cn) or W.L. (email: wei.liu. $2 0 0 5 \\textcircled { \\circ }$ gmail.com) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ubiquitin.Despite the common Ub attachment to the $\\mathsf { \\varepsilon } - \\mathrm { N H } _ { 2 }$ side chain of Lys residues in the ubiquitinated protein,certain E2s may transfer Ub to noncanonical amino acids such as cysteine,serine and threonine or even to $\\mathrm { \\alpha \\alpha \\alpha \\mathrm { N H } } _ { 2 }$ of some substrates67. Recent studies from different laboratories have identified Ube2w as the first known N-terminus modifying ${ \\mathrm { E } } 2 ^ { 8 - 1 0 }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "E2s that are encoded in various genomes constitute a huge protein superfamilyl-13. All E2 enzymes are characterized by the presence ofa highly conserved ubiquitin-conjugating (Ubc) domain comprising $\\mathord { \\sim } 1 5 0$ amino acids and adopting a similar overallfold14.E2s that contain variable N-or C-terminal extensions appended to the Ubc domain are more common,and the E2 superfamily is accordingly divided into four classes: class I, Ubc domain only; class II, Ubc plus a C-terminal extension; class III,Ubc plus an N-terminal extension; class IV,Ubc plus both N- and C-terminal extensions1,12. Three or four $\\alpha$ -helices,an anti-parallel $\\beta$ -sheet formed by four strands,and a short $3 _ { 1 0 }$ -helix compose the structural core of the Ubc domain.The N-terminal helix and two loops,L4 and L7 (also referred to as Ll and L2 in some literatures),form the interaction site with El and $\\bar { \\mathrm { E } } 3 ^ { 1 5 , 1 6 }$ . Critical mechanical elements include the active site cysteine nestled in a shallow groove close to the $3 _ { 1 0 }$ -helix,an upstream‘HPN' tripeptide and a downstream highly conserved tryptophan that often contacts a conserved proline residue located on $\\mathrm { L } 4 ^ { 1 1 , 1 3 }$ . In addition to these common features,the Ubc fold represents a rare example in enzyme evolution with high structural diversityll,and even the Ubc domain alone can be classified into l7 subfamiliesl2.Multiple lines of evidence have demonstrated that some physiological functions and celular activities of E2s are related to family-specific structural elements1,i6.To date,160 structures classified in the CATH ubiquitin-conjugate enzyme superfamily (3.10.110.10) have been deposited in the Protein Data Bank (PDB),most of which are of an individual Ubc domain.Despite the abundance of available structures,not allof the E2 families defined by Michellel et al.1² have a known structure,and no crystal structure from fungi other than yeast has been reported. Aside from the generalized motifs,studies on family-specific structural features and the relevant mechanistic roles were relatively insuffcient.All of these facts have encouraged researchers to determine more E2 structures with unrelieved enthusiasm. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mushrooms have been recognized for their unique medicinal application for over five milennia17,18. Agrocybe aegerita,an edible mushroom with wide-range growth, was found to have potential antitumor properties1920. A gene encoding a putative Ub-conjugating enzyme was fished by screening its cDNA library in a recent transcriptomic analysis21,22. The gene product comprising 152 amino acids showed considerable sequence similarity to E2s in the Ube2w family. Subsequent biochemical assay confirmed that the protein possesss definite Ub-conjugating activity, and it was named UbcA1.We describe here the biochemical and structural characterization of this novel Ub-conjugating enzyme, which is the first fungal E2 enzyme other than the homologues from yeast crystallized to date. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "UbcA1 belongs to the Ube2w family. The ORF of UbcAl fished from a cDNA library of fruiting body of medicinal fungus Agrocybe aegerita encoded a 152-amino-acid sequence showing highest similarity with Ube2w enzymes ( $5 0 \\%$ identity with human Ube2w) and Arabidopsis thaliana Ubcl5,16 and 18 (Fig.1A),and considerably lower similarity with E2s from other families (Fig.1B).The protein contained an individual Ubc domain without an $\\Nu _ { - }$ or C-terminal extension.All known conserved elements throughout the E2 superfamily were present in its sequence, including a catalytic cysteine at position 93 and a downstream tryptophan (residue 101).The upstream HPN signature (residues 83-85),however, was replaced by HPH in UbcA1, which is a unique property of the Ube2w familyl,12. Another generalized motif, $\\mathbf { x R } \\phi \\mathbf { x } \\mathbf { x } \\mathbf { - } \\mathbf { X }$ 0 $\\bf { \\dot { X } } ,$ any residue; $\\phi ,$ hydrophobic; -,negative) close to the N-terminus1³ appeared in the sequence of UbcA1 and Ube2w homologues as a variant version of $\\mathrm { R R } \\phi \\mathbf { x } \\mathrm { K E }$ (Fig. 1A). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ubiquitin is attached to the N-terminal $\\mathbf { \\alpha } \\mathbf { \\alpha } \\mathbf { \\alpha } \\mathbf { \\alpha } \\mathbf { \\alpha } \\mathbf { \\alpha } \\mathbf { \\alpha } \\mathbf { \\alpha } \\mathbf { \\alpha } \\mathbf { \\alpha } \\mathbf { \\alpha } \\mathbf { \\alpha } \\mathbf { \\alpha } \\mathbf { \\alpha } \\mathbf { \\alpha } \\mathbf { \\alpha } \\mathbf { \\alpha } \\mathbf { \\alpha } \\mathbf { \\alpha } \\mathbf { \\alpha } \\mathbf { \\alpha } \\mathbf { \\alpha } \\mathbf { \\alpha } \\mathbf { \\alpha } \\mathbf { \\alpha } \\mathbf { \\alpha } \\mathbf { \\alpha } \\mathbf { \\alpha } \\mathbf { \\alpha } \\mathbf { \\alpha } \\mathbf { \\alpha } \\mathbf { \\alpha } \\mathbf { \\beta } \\mathrm { ~ }$ group of UbcAl in vitro. Because all family-specific signatures were present in the UbcAl sequence,we wondered whether this novel E2 enzyme had similar Ub-transfer activity to human Ube2w. Ube2w mediates Ub-atachment to the N-terminus in a wide range of substrate proteins,including itself,and such modification can even be done in the absence of an E3,though at a substantially slower rate8-10.As downstream E3s and possible substrates in Agrocybe aegeria are allunknown, we performed an E1-dependent Ub-loading assay to detect Ub-modification to UbcA1 itself.A mono-Ub conjugate was observed $5 \\mathrm { { m i n } }$ after incubation with a human E1 enzyme and excess ubiquitin,and a di-Ub conjugate was detected $1 0 \\mathrm { m i n }$ after the reaction started,indicating that more than one Ub molecule could be loaded onto UbcAl in vitro.Because Ube2w only mediates mono-ubiquitination in vivo23,24, we supposed that one Ub was loaded to the $\\alpha$ -amino group of UbcAl,while the other conjugated to the catalytic Cys residue through a thioester bond.To test this possibility, the reaction solution was incubated with SDS sample buffer containing O or $2 0 0 \\mathrm { m M }$ DTT before loading onto an SDS gel. The band corresponding to the di-Ub conjugate completely disappeared in the presence of DTT on either a Coomasie-blue-stained SDS gel or a western blot (Fig.2A), which confirmed our speculation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Vital et al. reported that Ube2w can recognize backbone atoms of intrinsically disordered N-termini in its substrates,allowing it to mediate multiple addition of Ubs harboring a 13-amino-acid N-terminal human influenza hemagglutinin (HA） tag to the substratel0.To detect whether UbcA1 has a similar activity, we repeated the in vitro Ub-loading assay using HA-Ub instead of wild-type Ub,and observed ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "η1 α2 α3   \nUbcA1 1 TT TT T T e T T 000000000006 .eeeee   \nUbcA1 7213737 VTDGKE H SN 工工 AV C SML D DR N TLFH YDDD   \nUBE2W_XENTR .GDNI /HPH SNGHIC IL TED ALSVQSV LSI SMLSS CK RP D NSFYVRTCN K N PK KTKWWYHDD ccccccv   \nUBE2W_RAT .GENI HP II EI ALS V vC SI CKE RP D NSF rCN KN KTKWWY DD   \nUBE2W_HUMAN 73 .GENI HP EI ALS SI CKE RP D NSF TCN KN KTKWW PD   \nUBE2W_BOVIN 73 .GENI QSV C SI CKE RP D NSF TCN K N KTKWW 出 DD   \nUBE2W_MOUSE 73 .GENI 红 CKE D TCN K N TKWW   \nUB2WA_DANRE 73 .GENI H AL SV SI SM CKE D NSF TCN K N KTKWWY H   \nUBE1W_AIADI 18 GP PA HE AMT ssV SII SMI SP RP YV SRVKNNKS VRWWEH V   \nUBC15_ARATH 82 SP HE AMT NSV C SII SM E S P RP NDR NCKNGRS TRWWF E v   \nUBC16_ARATH 82 .HP K KNCKNGR TRWWF KV ： ★ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "000000000000000  \nUbcA1 ..mGSVSAR AKELREIQSEG.CPVGITL...VDASD .FSKWLFTIEVMGNS QYQGEA .TL 55  \n1BR7 .MTTSKERHSVSK LQQELRTLLMS..GDPGITA...FPDGD ..NLFKWVATLDGPKDTVYESLK .KL 60  \n1WZV ·gshmASMR VKELEDLQKK..PPPYLRN...LSSDDAN....VLVWHAL PDQPPYHLKA . NL 55  \n1Z2U .GSHMALKR QKELQDLGRD..PPAQCSA...GPVGDD.....LFHWQATIMGPPESE YQGGV .FL 55  \n1ZDN .gsmnSnvENLPPHIIRLV YKEVTTLTAD..PPDGIKV...FPNEED. .LTDLQVTI LE EGPEGTPYAGGL .RM 64  \n2GRR .gShMSGIALSRLAQERKAWRKD..HPFGFVA...VPTKNPDGTMNLMNWECAIPGKKGI EGGL .KL 63  \n2YB6 .mSTPARRRLMRDFKRLQED..PPVGVSG...APSEN.. ..NIMQWNAVIFGPEGT FEDGTE ..KL 55  \n3K90 .maNIAVQRIKREFKEVLKS..EETSKNQ...IKVDLVDEN..FTELRGEIAGPPDTPYEGGR .Q 58  \n3H8K .AGTALKRLMAEYKQLTLN..PPEGIVA...GPMNEE....NFFEWEALIMGPEDTCFEFGV .PA 55  \n3CEG .SAARARRLAQEAVTLSTS..LPLSSSSSVFVRCDEE.. ..RLDIKVLITGPADTE ANGC .EF 57  \n2A4D mgSshhhhhhSSglVprgStGVKVPRNFRLLEELEEGQ.KGVGDGTVSWGLEDDED..MTLTRWTGMIICPPRTIYENRI .S 80  \n30BQ gamgsAVSESQLKKMVSKYKYRDLTVRETVNVITLYKDLKPVLDSYGTGSRELMN GTIPVPYRGNT NIP 73  \n1UKX GSSGSSGMESYSQRQDHELQALEAIYGSDFQDLR....PDARGR..VREPPEINL YPQGLAGEEVYVQVEL 67  \nee 0000000000000  \nUbcA1 QFRFDAQYPISS 开 WSPVLS VIA C TLQSN ASCKKK. 124  \n1BR7 E PSI YKPF TASYD VRT L SLQSLLGEPNN. 123  \n1WZV RISI PP FK NWKPCTK TCQ LEA NVL NRPNI 119  \n1Z2U T IHE PT FKPF R HPNIN.SNGSICLDILRS. QWSPAL ISK LS CSLLCDPNP. 118  \n1ZDN K LLGK AS KGY TK IFHPNVG.ANGEI VNVLKRD. WTAELG. IRH L T KCLLIHPNP 127  \n2GRR RMLFKD 中 KCKFEPP LFHPNVY.PSG CLSILEED. .KDWRPAIT. KQ: T LGIQELLNEPNI 128  \n2YB6 VIERSEE RFLSK MFHPNVY.ADGSICL DILQN. .RWSPTYD. VSS LTSIQSLLDEPNP. 118  \n3K90 E KIPETY FNPE RF TK IWHPN ISSVTGAICLDILKDQ. WAAAM RT L LSLQALLAAAEP. 122  \n3H8K I SFPL IRETCE. F HPN Y.PD C SILHAPGDDPMGYESSAERWSPVQS VEK: T .SVVSMLAEPND. 131  \n3CEG D YFPQI NLETTGGHSVRFNPI Y.ND HK CLSIL NTWHGRP .EEKWNPQT: SSFLQ L VSVQSL LVAEPYF 135  \n2A4D K ECGPK PF RFV K INMNGVNSSNG DPRAISVLA. KWQNSY IKV LQELRRL MMSKEN. 146  \n30BQ C WLLDT YNPPICFVKPTSSMTIKTGKHVD.ANGKIYLPYLHE. WKHPQ SDLLG QVMIVVFGDEPP. 141  \n1UKX RVKCPPTYPDVVPEIDLKNAKG...LSNESVN..LLKSHLEELAKK. .QCGEVMIFELAHHVQSFLSEHNK. 131  \n000000  \nUbcA1 ERP .ADNDRYVRTAPDNPKkt1fhydddt 152  \n1BR7 ASP .LNAQAADMWS.NQTEYKKVLHEKYKTAQSDK. 156  \n1WZV REP .LRMDLAD LTQNPEL RKNAEEFTLRFGVDRPS 155  \n1Z2U DDP..LVPEIAR YKTDRER NQLAREWTQKYAM. 150  \n1ZDN ESA..LNEEAGRLLLENYEEYAARARLLTEIHG. 158  \n2GRR QSP..AQAEAYT YCQNRVEYEKRVRAQAKK.FAPS. 161  \n2YB6 NSP .ANSQAAQ YQENKRE EKRVSAIVEQSWNDS. 152  \n3K90 DDP..QDAVVANQYKQNPEMFKQTARLWAHVYAGA. 155  \n3H8K ESG..ANVDASKMWRDDREQ YKIAKQIVQKSLGL 164  \n3CEG NEPGYERSRGTPSGTQSSRE DGNIRQATVKWAL. 169  \n2A4D MK LPQPPEGQCYSn 160  \n30BQ VFSRPPTPSAPVPL 155  \n1UKX SGPSSG 137",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/03b3cfed882b57a70aacc26c7b4d396acba607816b3c7d4b11e62ad74f9d0f26.jpg",
+        "img_caption": [
+            "Figure 1.Sequence comparison reveals that UbcAl belongs to the Ube2w family.(A) Sequence alignment of UbcAl and Ube2w homologues.The catalytic residues and conserved motifsare highlighted by blue symbols on the bottom line. (B) Structure-based sequence alignment between UbcAl and 12 representative domains from the Ub-conjugating enzyme superfamily (3.10.110.10) defined in the CATH database28,with PDB codes of 1BR7,1WZV,1Z2U,1ZDN,2GRR,2YB6,3K9O,3H8K,3CEG,2A4D,3OBQ and 1UKX. The secondary structures of UbcAl are given on the top line in both panels. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a82ee13cd958eb413bb5cf8ad90b69b68c6254f14bbdc3e41ead15497831eb08.jpg",
+        "img_caption": [
+            "Figure 2.UbcAl conjugates ubiquitin to the N-terminus of itself in the absence of an E3.(A) Single Ubtransfer to the $\\mathrm { \\alpha \\alpha \\mathrm { - N H } } _ { 2 }$ group and thioester formation shown on a Coomassie-stained SDS gel (Upper panel) and a western blot gel for Ub (Lower panel). UbcAl was incubated with El and Ub for 5,10,15 or $3 0 \\mathrm { m i n }$ （20 prior to the addition of SDS sample bufer with or without DTT,as indicated beneath the gel. (B)Multiple Ub-transfer to the N-terminus when UbcA1 is incubated with HA-Ub rather than wild-type Ub.(C) UbcA1-127△(removal of residues downstream of 127)could not conjugate Ub to itself, indicating that an intact C-terminus is required for the enzymatic activity,as shown on the Coomassie-stained SDS gel (Upper panel) and a Western blotted gel for Ub (Lower panel).(D) Identification of N-terminally ubiquitinated UbcA1 byLC MS/MS analysis after excision of protein band froma silver-stained SDS-polyacrylamide gel and in-gel tryptic digestion. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "poly-Ub attachment to the N-terminus of itself (Fig.2B).This result clearly indicates that UbcAl relies on the same mechanism as Ube2w to mediate $\\mathrm { \\alpha \\alpha \\alpha \\mathrm { N H } } _ { 2 }$ ubiquitination. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Finaly, to confirm the N-terminal Ub-conjugation, mono-ubiquitinated UbcAl was purified from an excised band of a reduced silver-stained SDS gel and subjected to mass spectrometry (MS) before in-gel tryptic digestion. The resulting LC MS/MS spectra demonstrated the presence of a peptide consistent with N-terminally ubiquitinated UbcA1 (Fig. 2D). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Dimeric structure of UbcA1 in the crystal.UbcAl was crystalized after protein purification. The structure was determined by means of molecular replacement and refined at $1 . { \\dot { 7 } } { \\dot { \\mathrm { A } } }$ .The asymmetric unit in space group $C 2$ contained two monomers related by a two-fold non-crystallographic axis (Fig. 3A). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/aa6f19b807dfb957cf8f443f2944a3936a4070ac62b7aa0c6cf04c3b64a73ebf.jpg",
+        "img_caption": [
+            "Figure 3.The dimeric structure and the monomer-dimer equilibrium of UbcAl.(A) Ribbon diagram showing a dimeric architecture in the crystal structure. (B,C) Velocity sedimentation distribution of wildtype UbcA1(B)and UbcA1-127△(C).The molecular weight estimated from each signal is given on the top of corresponding peak. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The refined model comprised 282 amino acids (residues 2 to 142 in both subunits)and 320 solvent molecules.The N-terminal His-tag and the C-terminal sequence from residue 143 to 152 were poorly defined due to lack of traceable electron density and had to be omittd from the model. The crystallgraphic and stereochemical quality of the final model was acceptable (Table 1). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The two protein protomers siting in the asymmetric unit formed a dimeric architecture with overall dimensions of $5 0 \\mathring { \\mathrm { A } } \\times 5 0 \\mathring { \\mathrm { A } } \\times 8 0 \\mathring { \\mathrm { A } }$ 、By comparison with most dimeric proteins,however, the UbcA1 dimer looked rather uncompact and somewhat unstable, which seemed to be attributable to a small buried area upon dimer formation.Each subunit contributed only $6 \\%$ 0 $\\mathrm { 4 6 8 } \\mathring { \\mathrm { A } } ^ { 2 }$ vs. $7 7 5 4 \\mathring { \\mathrm { A } } ^ { 2 } .$ ）ofthetotal solvent-accessible surface at the dimer interface,and the protein relied almost entirely ona short C-terminal helix $( \\alpha 3 )$ to form subunit-subunit interactions (Fig.3A). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Monomer-dimer equilibrium of UbcA1 in solution.Despite the dimeric architecture revealed in the crystal, we were not sure whether this was the real state of UbcA1 in solution because the majority of E2s function as monomers. The purified protein was subjected to velocity sedimentation assay using a Beckman XL-I analytical ultracentrifuge. Two sedimentation signals corresponding to UbcAl monomer and dimer were displayed on the sedimentation coefficient distribution curve (Fig.3B),indicating this novel E2 exists in a monomer-dimer equilibrium, which is another property similar to human $\\mathrm { U b } { \\mathrm { e } } 2 \\mathrm { w } ^ { 2 5 }$ . It is notable,however, that the equilibrium in UbcAl semed quantitatively different from Ube2w because the dimer signal was much lower than the monomer signal (monomer : dimer $= 3 2 . 6 5 { : } 1 \\dot { ! }$ ), indicating the monomer was the dominant form in solution. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Taken together,all biochemical characteristics of UbcAl revealed in our experiments, including the $\\mathrm  \\alpha \\alpha \\alpha \\mathrm  \\alpha \\alpha \\mathrm  \\alpha \\alpha \\mathrm  \\alpha \\alpha \\mathrm  \\alpha \\alpha \\mathrm  \\alpha \\alpha \\mathrm  \\alpha \\mathrm  \\alpha \\mathrm  \\alpha \\mathrm  \\alpha \\mathrm  \\alpha \\beta \\mathrm  \\alpha \\mathrm  \\alpha \\mathrm  \\alpha \\beta \\mathrm  \\alpha \\mathrm \\beta \\mathrm  \\alpha \\mathrm  \\alpha \\beta \\mathrm \\mathrm  \\alpha \\beta \\mathrm \\mathrm  \\alpha \\beta \\mathrm \\mathrm  \\alpha \\beta \\mathrm \\mathrm  \\alpha \\beta \\mathrm \\mathrm  \\alpha \\mathrm \\beta \\mathrm \\mathrm  \\alpha \\beta \\mathrm \\mathrm  \\alpha \\mathrm \\beta \\mathrm \\mathrm  \\alpha \\beta \\mathrm \\mathrm \\mathrm  \\alpha \\beta \\mathrm \\mathrm \\mathrm  \\alpha \\beta \\mathrm \\mathrm \\mathrm  \\alpha \\beta \\mathrm \\mathrm \\mathrm  \\alpha \\beta \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\beta \\mathrm \\mathrm \\mathrm  \\alpha \\mathrm \\beta \\mathrm \\mathrm \\mathrm  \\alpha \\mathrm \\beta \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\mathrm \\beta \\mathrm \\mathrm \\mathrm  \\alpha \\beta \\mathrm \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\mathrm \\beta \\mathrm \\mathrm \\mathrm  \\alpha \\mathrm \\mathrm \\beta \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\mathrm \\beta \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\beta \\mathrm \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\mathrm \\beta \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\beta \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\beta \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\beta \\mathrm \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\beta \\mathrm \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\beta \\mathrm \\mathrm \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\beta \\mathrm \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\beta \\mathrm \\mathrm \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\beta \\mathrm \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\beta \\mathrm \\mathrm \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\beta \\mathrm \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\beta \\mathrm \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm  \\Omega \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm  \\Omega \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\Omega \\$ ubiquitination and the monomer-dimer equilibrium as well as the catalytic mechanism of recognizing intrinsic disordered backbone atoms of substrates, were comparable to $\\mathrm { U b } \\mathrm { e } 2 \\mathrm { w } ^ { 1 0 , 2 5 }$ ， which suggests that these features are the common properties of this protein family. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Subunit structure and catalytic elements. The subunit structure of UbcA1 showed a typical elliptical scaffold that was basically same as the generalized topology of $\\mathrm { E } 2 \\mathsf { s } ^ { 1 1 }$ . The structural core was composed of a four-stranded antiparallel curled $\\beta$ -sheet flanked by a $\\mathrm { C }$ -terminal flap-like structure containing a short $3 _ { 1 0 }$ helix near the active site.Extending from it, there were an N-terminal $\\alpha$ -helix $( \\alpha \\mathrm { 1 } )$ and two helices ( $\\scriptstyle \\alpha 2$ and $\\propto 3$ )close to the C-terminus (Fig. 4A). Two loops,L4 bridging $\\beta 3$ and $\\beta 4$ and L7 connecting the $3 _ { 1 0 }$ helix and $\\alpha 2$ ,were present on one side of the $\\beta$ -meander. These loops, together with $\\propto 1$ ， are believed to compose the interaction surface for E1/E3 binding15,16. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/26fcddb2065c3f6689970d9a0433541d3e99328d8192c61af38c90aa37ce5c5c.jpg",
+        "table_caption": [
+            "Table 1.Data collction and structure refinement statistics of UbcAl.\\*Values in parentheses are statistics of the highest resolution shell. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Data collection</td><td></td></tr><tr><td> Space group</td><td>C2</td></tr><tr><td>Unit cell parameters</td><td></td></tr><tr><td>a, b, c (A)</td><td>84.93,34.76,128.10</td></tr><tr><td>α,β,~(°)</td><td>90,118.57, 90</td></tr><tr><td>Resolution range (A)*</td><td>42.45 - 1.70 (1.79-1.70)</td></tr><tr><td>Wilson B-factor</td><td>22.5</td></tr><tr><td>Multiplicity\"</td><td>3.4 (2.3)</td></tr><tr><td>Completeness (%)*</td><td>94.1(72.2)</td></tr><tr><td>Mean I/σ (I)*</td><td>9.7 (3.4)</td></tr><tr><td>Solvent content (%)</td><td>41.7</td></tr><tr><td>Rsym*</td><td>0.044 (0.204)</td></tr><tr><td>Structure Refinement</td><td></td></tr><tr><td>No.of reflections in working/test set</td><td>37002 (3704)</td></tr><tr><td>Atoms in model</td><td></td></tr><tr><td>No. of non-H protein atoms</td><td>2180</td></tr><tr><td>No. of water molecules</td><td>344</td></tr><tr><td>No. of ions</td><td>10</td></tr><tr><td>R-work/R-free</td><td>0.202/0.235</td></tr><tr><td>Average of B-factor (A2)</td><td></td></tr><tr><td>Protein</td><td>33.4</td></tr><tr><td>Solvent</td><td>41.4</td></tr><tr><td>Ligand/ion</td><td>39.5</td></tr><tr><td>R.M.S.D.</td><td></td></tr><tr><td>R.M.S.D. bond lengths (A)</td><td>0.009</td></tr><tr><td>R.M.S.D. bond angles ()</td><td>1.130</td></tr><tr><td>R.M.S.D.B-factor for bonded atoms</td><td>5.93</td></tr><tr><td>MolProbity analysis</td><td></td></tr><tr><td>Ramachandran plot</td><td></td></tr><tr><td>Most favored region (%)</td><td>91.5</td></tr><tr><td>Allowed region (%)</td><td>8.5</td></tr><tr><td>Disallowed region (%)</td><td>0</td></tr><tr><td>Rotamer outliers (%)</td><td>1.65%</td></tr><tr><td>C-beta outliers</td><td>0</td></tr><tr><td>Clashscore</td><td>6.90</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The architecture of the active site in UbcAl was consistent with canonical eukaryotic E2s.The catalytic cysteine(Cys93) was located in the long loop region following the $\\beta$ -meander, two residues upstream of the $3 _ { 1 0 }$ -helix,with its side chain exposed on protein surface (Fig.4B).As a family-specific feature,the side chains of the two upstream conserved histidine residues (His83 and His85)occupied similar positions to their counterparts of the HPN motif in classical eukaryotic E2s other than the Ube2w family (Fig. 4B). Such a spatial arrangement alows the second histidine (His85) to play a similar role to asparagine to serve as a stabilizer for an oxyanion hole formed in the process of enzyme turnover26.The highly conserved tryptophan,TrplOl,was located three positions downstream of the $3 _ { 1 0 }$ -helix,withits sidechains hydrophobically interacting with a conserved proline residue (Pro68)on L4. This pair of residues was believed to play an important structural role in stabilizing the E2 foldl1. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f62a351a10db22c7774b0f7699b464adc40fa7fb1473432794545cbfd95df75.jpg",
+        "img_caption": [
+            "Figure 4. Subunit structure of UbcAl in the crystal. (A) Stereo view of the subunit structure resembling the canonical Ubc fold.The protein model is rainbow-colored,from the N-terminus in blue to the C-terminus in red.(B) Conserved amino acids recognized as the key catalytic elements.Allthese residues arerepresented by a stick-ball model with atom-indexed colors: carbon, yellow; oxygen,red; nitrogen, blue; sulfur, magenta. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Structural comparison with human Ube2w.Human Ube2w (PDB entry 2A7L) is the only available $\\mathrm { \\Delta X }$ -ray structure in the Ube2w family to date,but unfortunately it was crystalized from a truncated construct lacking the polypeptide after residue $1 1 7 ^ { 2 7 }$ . Superimposition of UbcA1 onto it revealed considerable structural variance between them. Although structural alignment gave an rmsd of $1 . 2 \\mathring \\mathrm { A }$ on 88 $\\mathrm { C } _ { \\alpha }$ positions,the N-terminal region (residues 1-32) could not be even slightly overlaid (Fig.5A).That segment in Ube2w adopts an unusual conformation radically deviating from the canonical Ubc fold.Its N-terminal helix $( \\alpha \\boldsymbol { 1 } )$ stretches away from the structural core and the first $\\beta$ -strand(β1) isreplaced by a flexible loop, which may render the structure unstable.In another respect, although the two enzymes both form dimers in the crystal,their dimerization modes look completely disimilar.In contrast to the helix-helix interactions at the dimeric interface of UbcA1 (Fig.5B),two loops in Ube2w, L3 and L6, mediated dimerization through loop-loop contacts (Fig.5C). Probably due to the truncated protein used in crystallization,the apparent structural inconsistencies between the human Ube2w structure and the generalized topology of E2s were likely driven by crystal packing and hence might not reflect a physiological conformation. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8fdb472f36ab5157278e8dbb458a7ddef2f1e1f0d5f3ac9ecf01ff5a213a8bca.jpg",
+        "img_caption": [
+            "Figure 5. Structural comparison between UbcAl and human Ube2w. (A) Structure superimposition of the UbcAl structure (red) and the crystal structure of Ube2w with the PDB code of 2A7L (blue) showing inconsistent N-terminal regions (residues 1-32)due to deviation of the latter structure from the canonical Ubc fold.(B)The dimeric model of UbcA1 displaying the protein-protein interface at the C-terminal segment and helix $\\propto 3$ in particular. (C) The dimeric model of 2A7L showing the interface formed by two loops,L3 and L6.(D) Structure superimposition of UbcAl (red) and a recent NMR model of Ube2w with PDB code 2MT6 (blue). Both adopt the canonical fold except fora C-terminal peptide covering the last helix $( \\alpha 3 )$ .For clarity,only two models from the NMR ensemble are shown. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/85e352f4e41c4d8baef05884ea6d929170c62f2748228de021a6e704ab13ccc6.jpg",
+        "img_caption": [
+            "Figure 6. The unique C-terminal conformation of UbcA1.(A) Superimposed $\\operatorname { C } \\alpha$ traces of UbcA1 (red) and12 representative domains from the Ub-conjugating enzyme superfamily (3.10.110.10) defined in the CATH database28,with PDB codes of 1BR7,1WZV,1Z2U,1ZDN,2GRR,2YB6,3K9O,3H8K,3CEG,2A4D, 3OBQ and 1UKX.(B) Superimposed ribbon model between UbcA1 (red) and 1BR7 (blue) clearly showing the different orientations of their C-termini.(C) The K122P mutant (cyan) shows invariant C-terminal conformation of the wild-type protein (green).(D) Hydrogen bonds form around the C-terminal peptide resulting from the intra-subunit interactions.The amino acids involved in hydrogen bond formation are represented by a stick-ballmodel and colored by element: carbon, yellow; oxygen,red; nitrogen, blue. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In the CATH database28，the superfamily of ubiquitin-conjugating enzymes (3.10.110.10） currently contains 29 representative domains with lower than $3 5 \\%$ sequence identity between any two of them.As the only available structure,2A7L is the representative model of the Ube2w family (Cluster 3.10.110.10.16.1.1.1). On realizing the possible flaws existing in that structure,we supposed that our model better represented this protein family because UbcAl was crystalized from a full-length construct and its structure resembled the canonical E2 fold. Notably,an NMR ensemble of human Ube2w (PDB entry 2MT6) was reported recently10,which showed a canonical position and orientation of the N-terminal helix $( \\alpha \\boldsymbol { 1 } )$ andadisordered C-terminal helix $( \\alpha 3 )$ . Superimposition of our structure and this ensemble displayed a perfectly overlaid Ubc domain but a non-overlaid C-terminal peptide following helix $\\propto 2$ (Fig. 5D). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "UbcA1 shows a unique C-terminal conformation. The UbcAl coordinates were sent to the Dali server29 for structural comparison with others E2s.Although remarkable structural similarity covered $8 5 \\%$ of the amino acid sequence from residue 2 to l21,the C-terminal region (residue l22-142) of ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "UbcAl unexpectedly did not match any other reported structures.Superimposition of the 12 representative structures from different E2 families classified in CATHonto UbcA1 revealed a distinctive conformation of the C-terminal sequence of this novel Ub-conjugating enzyme (Fig. 6A). These representative domains were taken from the PDB entries of 1BR7,1WZV,1Z2U,1ZDN,2GRR,2YB6,3K9O,3H8K, 3CEG,2A4D,3OBQ and 1UKX.The orientation of the C-terminal helix $( \\alpha 3 )$ ofUbcA1 dramatically differed from all those structures, e.g.,1BR7,by almost $1 8 0 ^ { \\circ }$ (Fig. 6B). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The sequence alignments between UbcAl and other E2s revealed that (i) good conservation existed at the C-terminal sequence after position 122 between UbcAl and other Ube2w enzymes (Fig.1A),and (ii) by contrast, the sequence similarity at the same segment between UbcAl and the 12 representative Ubc domains chosen from CATH was much lower than the overal similarity (Fig.1B). These comparisons clearly indicate that the C-terminal sequence of E2s is a variant region among diffrent families, but highly conserved within the Ube2w family.We therefore suppose that the unique C-terminal conformation observed in UbcAl is a family-specific feature. Such a conformation makes helix $\\propto 3$ close to the catalytic Cys residue, which agrees well with the recent NMR structure of Ube2w that displayed a disordered C-terminal region directly beneath the active sitel0. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The C-terminus is relatively flexible though surrounded by a hydrogen bond network. Given the surprising structural variance observed at the C-terminal peptide between UbcA1 and other reported crystal structures,we next wondered what the structural determinant is for the unique conformation in our structure.The sequence alignment shown in Fig.1B revealed that a number of E2 sequences from various families contain a proline-rich region (PNPxxP) on the loop between $\\propto 2$ and $\\propto 3$ .Compared with these proteins,UbcA1 lacked the first two Pro residues; instead, it contained three consecutive Lys residues at the same positions. Because lysine often behaves as a destabilizer for local conformation by increasing surface entropy, we speculated that these residues rendered the downstream peptide more flexible in this case.To verify the effects of the Lys residues,three mutants (K122P,K124P and $\\mathrm { K } 1 2 2 \\mathrm { P } /$ K124P) were produced and crystallized in the same way as the wild-type protein. These structures, however,displayed anunaltered C-terminal conformation (Fig.6C),suggesting thatthe amino acid sequence of that loop is not the structural determinant for downstream peptide folding. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In the crystal structure of UbcA1,the C-terminus was exposed on the protein surface and seemed more disordered than other Ub-conjugating enzymes，which was reflected by significantly higher B-factors of the C-terminal region immediately following the second helix $( \\alpha 2 )$ (40.99 from residue 120 to 142) than the rest of UbcAl(20.253 from residue 2 to 119).Similar flexibility of the C-terminus has also been observed in the NMR structure of $\\mathrm { U b } { \\mathrm { e } } 2 { \\mathrm { w } } ^ { 1 0 }$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Despite the flexible conformation,the C-terminus of UbcAl was surrounded bya hydrogen bond network in the crystal (Fig. 6D).Amino acids in helix $\\propto 3$ ,including Asp129,Asn130,Arg132 and Tyr133, were involved in this network.The hydroxyl of Tyrl33 formed a tight hydrogen bond $( 2 . 6 \\mathring \\mathrm { A } )$ with the indole ring of a histidine residue (His91) two positions upstream of the active Cys93,while Asnl30 was located within hydrogen bond distance from Ser88 (Fig.6D).That the C-terminus was oriented so close to the active site may be not only a structural requirement for keeping the unusual C-terminal conformation but also a necessity for remaining the enzymatic activity,as the C-terminus of Ube2w is suggested to facilitate substrate bindinglo.In addition,the loop following helix $\\propto 3$ folded back towards the structural core,which allowed for the formation of a hydrogen bond between Lys142 and Ser67 located on L4. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The C-terminus significantly affects protein dimerization and E2 activity. Although UbcA1 semingly forms a dimeric architecture in the crystal, mostly through the interaction between the C-terminal helices inthe two neighboring protomers (Fig.3A),we were not sure whether the C-terminal peptide is sufficient for protein dimerization in solution because human Ube2w also forms a dimer in the crystal,though it was crystalized from a truncated construct without the C-terminal segment after residue $1 1 7 ^ { 2 7 }$ .To assess the role of this segment,a truncation mutant was made by removing the amino acids downstream of residue 127 (UbcA1- $\\bar { 1 } 2 7 \\Delta$ ). The mutant was then subjected to a velocity sedimentation assay using the same protocol as the wild-type protein. The molecular weight of the UbcAl monomer estimated from sedimentation coefficients was changed from 19.2 to $1 5 . 5 \\mathrm { K a }$ upon this truncation,but the dimer signal became less evident, though it did not completely disappear (Fig.3C),which indicates the monomer-dimer equilibrium that existed in wild-type UbcA1 was greatly abolished in UbcA1- $\\cdot 1 2 7 \\Delta$ ： This observation disagrees with the SEC elution profile of human Ube2w, which showed almost unaltered equilibrium upon on a similar C-terminal truncation25.Our experimental data may imply that the dimerization mechanism probably differs between UbcA1 and Ube2w. UbcAl seems likely to rely on its C-terminus alone to mediate protein dimerization. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Because $\\mathrm { U b c A 1 - } 1 2 7 \\Delta$ showed weaker tendency to form a dimer, we were curious to determine whether an intact C-terminus is also required for enzymatic activity.The in vitro Ub-loading assay was repeated using UbcA1- $1 2 7 \\Delta$ instead of the full-length protein. Neither $\\mathrm  \\alpha \\alpha \\alpha \\mathrm  \\alpha \\alpha \\alpha \\mathrm  \\alpha \\alpha \\mathrm  \\alpha \\alpha \\mathrm  \\alpha \\alpha \\mathrm  \\alpha \\alpha \\mathrm  \\alpha \\mathrm  \\alpha \\mathrm  \\alpha \\mathrm  \\alpha \\mathrm  \\alpha \\mathrm  \\alpha \\beta \\mathrm  \\alpha \\mathrm  \\alpha \\mathrm \\mathrm  \\alpha \\beta \\mathrm \\mathrm  \\alpha \\mathrm  \\alpha \\beta \\mathrm \\mathrm  \\alpha \\beta \\mathrm \\mathrm  \\alpha \\mathrm \\beta \\mathrm  \\alpha \\mathrm \\mathrm  \\alpha \\beta \\mathrm \\mathrm  \\alpha \\mathrm \\beta \\mathrm \\mathrm  \\alpha \\mathrm \\mathrm  \\beta \\alpha \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\beta \\mathrm \\mathrm  \\alpha \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\beta \\mathrm \\mathrm  \\alpha \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\mathrm  \\alpha \\beta \\mathrm \\mathrm \\mathrm \\mathrm  \\alpha \\mathrm \\beta \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\mathrm \\mathrm  \\alpha \\beta \\mathrm \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\mathrm \\beta \\mathrm \\mathrm \\mathrm  \\alpha \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\mathrm \\beta \\mathrm \\mathrm \\mathrm  \\alpha \\mathrm \\mathrm \\mathrm \\beta \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\beta \\mathrm \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\beta \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\beta \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\beta \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\mathrm \\beta \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\mathrm \\beta \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\mathrm \\beta \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\Omega \\mathrm \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm  \\Omega \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm  \\Omega \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm  \\Omega \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm  \\Omega \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\$ nor thiol ubiquitination was observed on either a Coomassie-stained SDS gel or a western blot within a 3O-min reaction (Fig.2C),which indicated that the truncated enzyme completely lost the Ub-conjugating activity. This was another distinct property compared with human Ube2w, in which a C-terminal truncated protein (removal after residue 131) is still capable of forming a thioester intermediate with ubiquitin. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Ubiquitin-conjugating enzymes are central players of the Ub transfer choreography in the ubiquitin-proteasome pathway. The important molecular functions of E2s in the process of Ub chain assembly have been increasingly recognized in recent studies1-4.Nevertheless,structural and mechanistic insights into this superfamily are still insufficient due to high structural diversity among various protein families,which results in diferent family-specific physiological functions16.The available crystal structures do not cover all E2 families,though hundreds of E2 structures have been deposited in $\\mathrm { P D B } ^ { 1 2 }$ .In this study, the crystal structure of a novel Ub-conjugating enzyme was determined.This is the first E2 structure from a fungus other than yeast and the first full-length X-ray structure in the Ube2w family. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The UbcAl structure reveals a unique conformation of the C-terminal peptide from residue 122 to 142,although its core structure resembles the canonical architecture of the Ubc domain.In this case,helix $\\propto 3$ orients differently from all previously reported E2 structures except the NMR ensemble of Ube2w10 (Fig. 6).Such a striking conformation is likely a family-specific feature because the C-terminal sequence of UbcA1 shows good conservation within the Ube2w family (Fig.1A) but not with Ub-conjugating enzymes from other families (Fig.1B). Our study further indicates that the C-terminal peptide downstream of residue 127 significantly afects the monomer-dimer equilibrium (Fig.3B,C),thus showing that this region is an important,if not the determinant, structural element involved in protein dimerization. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In the Ub-loading assay, UbcA1 showed exactly the same activity as Ube2w (Fig.1A,B). UbcA1 mediates Ub-attachment to the $\\mathrm  \\alpha \\alpha \\alpha \\mathrm  \\alpha \\alpha \\alpha \\mathrm  \\alpha \\alpha \\mathrm  \\alpha \\alpha \\mathrm  \\alpha \\alpha \\mathrm  \\alpha \\alpha \\mathrm  \\alpha \\mathrm  \\alpha \\mathrm  \\alpha \\mathrm  \\alpha \\mathrm  \\alpha \\mathrm  \\alpha \\beta \\mathrm  \\alpha \\mathrm  \\alpha \\mathrm \\mathrm  \\alpha \\beta \\mathrm \\mathrm  \\alpha \\mathrm  \\alpha \\beta \\mathrm \\mathrm  \\alpha \\beta \\mathrm \\mathrm  \\alpha \\mathrm \\beta \\mathrm  \\alpha \\mathrm \\mathrm  \\alpha \\mathrm \\beta \\mathrm \\mathrm  \\alpha \\mathrm \\beta \\mathrm \\mathrm  \\alpha \\mathrm \\mathrm  \\beta \\alpha \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\beta \\mathrm \\mathrm  \\alpha \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\mathrm  \\alpha \\beta \\mathrm \\mathrm \\mathrm \\mathrm  \\alpha \\mathrm \\beta \\mathrm \\mathrm \\mathrm  \\alpha \\mathrm \\mathrm \\beta \\mathrm \\mathrm \\mathrm  \\alpha \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\beta \\mathrm \\mathrm \\mathrm \\mathrm  \\alpha \\mathrm \\mathrm \\beta \\mathrm \\mathrm \\mathrm  \\alpha \\mathrm \\mathrm \\mathrm \\beta \\mathrm \\mathrm \\mathrm  \\Omega \\beta \\mathrm \\mathrm \\mathrm \\mathrm  \\alpha \\mathrm \\mathrm \\mathrm \\beta \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\beta \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\beta \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\mathrm \\beta \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm  \\Omega \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm  \\Omega \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm  \\Omega \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm  \\Omega \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\$ group of itself even in the absence of an E3 enzyme.Both enzymes can transfer a single wild-type Ub but multiple HA-Ubs to substrates, suggesting that recognition of backbone atoms could be a common mechanism shared by all members in this protein family. At variance from Ube2w,however, the C-terminal truncation in UbcAl completely abolishes its Ub-conjugating activity (Fig. 2C), which indicates that the C-terminal region of UbcA1 plays a more crucial role in the enzyme turnover. Despite the high degree of sequence conservation in the C-terminal region throughout the Ube2w family (Fig.1A） and similar helix $\\propto 3$ positions close to the active site in both the crystal structure of UbcAl and the NMR ensemble of Ube2w (Fig. 5D), it seems likely that there are subtle differences in the C-terminal region among enzymes in this E2 family, which may result in diferent roles in the process of Ub-modification. Even so,the unique C-terminal conformation is likely a family-specific feature and serves as a structural determinant of $\\mathrm { \\alpha \\mathrm { - } N H } _ { 2 }$ ubiquitination. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Some E2s require dimerization for Ub-conjugation30.31,although most enzymes are monomers under physiological conditions.An intact C-terminus of UbcAl plays a dual role in both protein dimerization (Fig.3C)and Ub-loading activity(Fig. 2C).However, we do not know if these two properties are closely linked.A similar truncated version of Ube2w did show much reduced but not $1 0 0 \\%$ loss of enzymatic activity,and almost unaltered monomer-dimer equilibrium10,25. More studies on this issue are needed to reveal the connection between the physiological function of the enzymes in the Ube2w family and their dimeric state. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Materialsand Methods ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Expression, purification and crystallization. The ORF encoding UbcAl was inserted into the expression plasmid pET28a (Novagen,Massachusets, USA) to produce a recombinant protein containing an N-terminal His-tag, which was purified with a two-step chromatography protocol using a Ni-NTA affinity column $( 1 5 \\mathrm { m l } )$ and a HiLoad 16/60 Superdex75 column (GE Healthcare,Uppsala,Sweden). Crystals used for diffraction data collection were grown under the condition of $2 0 \\%$ (w/v) PEG 3350, $0 . 2 \\mathrm { ~ M ~ }$ sodium acetate,and $0 . 1 ~ \\mathrm { M }$ Bis-Tris, $\\mathrm { p H } 6 . 5$ ： ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Data collection and evaluation. X-ray diffraction data were collected at $1 0 0 \\mathrm { K }$ under the wavelength of $1 . 0 \\mathring \\mathrm { A }$ on beamline BL5A at KEK, Photon Factory, Japan, using an ADSC Q315r CCD detector at a distance of $1 7 8 ~ \\mathrm { m m }$ with an edge resolution limit at $1 . 9 \\mathring \\mathrm { A }$ .The collected diffraction data were indexed, integrated and scaled using iMosflm³² and Scala from the CCP4 program suite33.The scaling statistics showed that the crystal diffracted to even higher resolution than expected.To obtain higher resolution data, integration and scaling were done again with an integration area extending to the half-corner on each image. As a consequence of this evaluation strategy, the data resolution reached $1 . 7 \\mathring \\mathrm { A }$ with good $\\mathrm { { I } / \\sigma ( I ) }$ (3.4) but lower completeness $( 7 2 . 2 \\% )$ in the outermost shell (Table 1). Further details concerning UbcAl purification, crystallization and data collection are given in another report34. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Structure determination and refinement. The structure of UbcAl was solved by means of molecular replacement using the Plasmodium vivax E2 (PDB code 2FO3) as a search model. Automated structure determination using Phaser35 and default parameters failed to give apparent solutions, but fortunately two clear solutions were obtained using $\\bar { A } m o R e ^ { 3 6 }$ ，with reasonable correlation coeficients at 56 and R factors at 0.418,indicating two protein monomers siting in the asymmetric unit. The initial model was manually modified using $O ^ { 3 7 }$ and refined using $C N S ^ { 3 8 }$ and Phenix.refne39,40. The final model was validated using Procheck from the CCP4 program suite³3.Statistics from the data collection and structure refinement are summarized in Table 1. Structural comparison and structure-based sequence alignment were performed using the program $S T R A P ^ { 4 1 }$ . All figures representing the UbcA1 structure were generated using the molecular visualization program $P y M O l ^ { 4 2 }$ ： ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Mutational analyses. Three single or double site-directed mutants,K122P, K124P and $\\mathrm { K } 1 2 2 \\mathrm { P } /$ K124P,as well as a truncated construct named UbcA1- $1 2 7 \\Delta$ with deletion of the C-terminal region (residues 128-152),were generated using PCR.All mutants were produced and purified following the same purification protocol as the wild-type protein. The K122P, K124P and K122P/K124P mutants were subsequently crystallized under the same conditions as native UbcAl,and the crystal structures were determined by molecular replacement using the wild-type structure as the search model.The deletion mutant UbcA1- $1 2 7 \\Delta$ was subjected to velocity sedimentation assay for oligomeric state detection. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In vitro Ub-loading assay.To assess the activity of UbcA1 to form an $\\mathrm { \\alpha \\mathrm { - } N H } _ { 2 }$ -Ub or thioester-Ub intermediate,an in vitro ubiquitin-loading assay was carried out in $3 0 \\mu \\mathrm { l }$ of reaction solution containing $0 . 5 \\mu \\mathrm { M }$ E1 enzyme (human), $4 0 \\mu \\mathrm { M }$ ubiquitin or HA-ubiquitin, $2 0 \\mu \\mathrm { M }$ purified UbcA1 or UbcA1 $\\cdot 1 2 7 \\Delta$ ， $5 \\mu \\mathrm { M } \\mathrm { M g C l } _ { 2 }$ in $5 0 \\mathrm { m M }$ Tris, $5 0 \\mathrm { m M }$ KCl, $\\mathrm { p H } 7 . 5$ .Reactionswere initiatedby theaddition of $5 \\mathrm { m M }$ ATP and incubation at $3 7 ^ { \\circ } \\mathrm { C }$ 、A small aliquot of reaction samples was withdrawn at 5,10,15 and $3 0 \\mathrm { m i n }$ after the reaction started. Reactions were stopped by boiling after the addition of SDS sample buffer containing 0or $2 0 0 \\mathrm { m M }$ DTT for distinguishing N-terminal Ub-modification and thioester-Ub intermediates. The reaction products were detected by SDS-PAGE using Coomasse blue staining and western blotting using an anti-ubiquitin antibody. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Ubiquitylation site identification by LC-MS/MS. Protein bands corresponding to the ubiquitylated UbcAl intermediate shown on a silver-stained SDS gel were excised before reduction ( $\\mathrm { . 1 0 m M }$ DTT in $2 5 \\mathrm { m M }$ $\\mathrm { N H _ { 4 } H C O _ { 3 } } ,$ ）andalkylation ( $\\mathrm { \\dot { 4 } 0 ~ m M }$ iodoacetamide in 25 mM $\\mathrm { N H _ { 4 } H C O _ { 3 } }$ ）of the cysteines. The gel plugs were digested with trypsin ( $\\mathrm { 4 0 n g }$ for each band),and the resultant sample was analyzed using a Q Exactive LC-MS/MS mass spectrometer (Thermo Fisher Scientific) equipped with an Easy $\\mathfrak { n }$ -LC 1000 HPLC system (Thermo Scientific).Peptides were fractioned on a reverse-phase C18 column (Reprosil-Pur C18 AQ, $3 \\mu \\mathrm { m }$ ,Dr.Maisch GmbH) with a 78-min gradient elution from $5 \\%$ to $9 5 \\%$ acetonitrile.MS data were collected using a data-dependent top-10 method dynamically choosing the most abundant precursor ions from the survey scan for higher energy collsional dissociation (HCD). Survey scans $\\left( \\mathrm { m / z } ~ 3 0 0 { - } 1 6 0 0 \\right)$ ）were performed ata high resolution of 7o,000 at $\\mathrm { m } / \\mathrm { z } \\ 2 0 0$ ,and the resolution for HCD spectra was set to 17,500 at $\\mathrm { m } / \\mathrm { z } \\ 2 0 0$ .The raw data from Q Exactive were analyzed with Proteome Discovery version 1.4 using the Sequest HT search engine for protein identification and Percolator for the false discovery rate (FDR),against a UniProt human protein database (updated June 2013) containing the Ubcal protein sequence either with or without an N-terminal extension of GG,corresponding to the last two amino acids of Ub.Two forms of Ubcal were considered,either containing or omitting the N-terminal methionine residue. FDR analysis was performed using Percolator with $1 \\%$ FDR set as the criterion for protein/peptide identification. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Analytical ultracentrifugation. Velocity sedimentation experiments were performed using a 60-Ti rotor equipped in a Beckman XL-I analytical ultracentrifuge at $4 ^ { \\circ } \\mathrm { C } ,$ with $1 2 \\mathrm { m m }$ aluminum double-sector cells filled with $4 0 0 \\mu \\mathrm { L }$ of $4 0 \\mu \\mathrm { M }$ UbcA1 or UbcA1- $1 2 7 \\bar { \\Delta }$ dissolved in a buffer containing $5 0 \\mathrm { m M }$ Tris, $\\mathrm { p H } 7 . 5$ and $1 5 0 \\mathrm { m M }$ NaCl.Raw data were obtained at $2 8 0 \\mathrm { n m }$ in a continuous scan mode at $0 . 0 0 3 \\mathrm { c m }$ intervals with a rotor speed of $^ { 6 0 , 0 0 0 \\mathrm { r p m } }$ ,and analyzed using the $\\mathsf { c } ( \\mathsf { S } )$ module of Sedfit43. The buffer parameters, partial-specific volume of the protein, and the corrected sedimentation coefficient $ { \\mathrm { S } } _ { 2 0 \\mathrm { W } } ^ { \\circ }$ were calculated using Sednterp44. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "1.Geng,F.,Wenzel,S.&TanseyWPUbiquitinandproteasomesintranscription.AnnuReviochem8l,77-01(012).   \n2.Haglund,K.&Dikic,eoleofubiquitylatioinceptoredocyosisddosomalsrting.JCellSci,6-5(1)   \n3.Mocciaro,A.&Rape,M.Emergingregulatory mechanisms inubiquitin-dependentcellcyclecontrol.JCellSci5,255-63 (2012).   \n4.Shang,E&TaylorA.Roleoftheubquitin-proteasomeinproteinqualitycontrolandsignaling:implicationinthepathogenesis of eye diseases.Prog Mol Biol Transl 109,347-396 (2012).   \n5.Glickman,M.H.& Ciechanover,A.Theubiquitin-proteasomeproteolyticpathway:destructionforthesakeofconstruction. Physiol Rev 82,373-428 (2002).   \n6.McDowell,G.S.，Kucerova,R.&hilpot,A.Non-canonicalubiquitylationof theproneuralprotein Ngn2occursinboth Xenopus embryos and mammalian cells.Biochem Bioph Res Co 400,655-660 (2010).   \n7.Trausch-Azar,J,Lon,T.C.KellD.P&hwartz,A.L.Ubiquitinroteasome-ependentdegradationoftetrascioal coactivator PGC-1{alpha} via the N-terminal pathway.JBiol Chem 285,40192-40200 (2010).   \n8.Scaglione,K.M.etal.Theubiquitin-conjugatingenzyme (E2)Ube2wubiquitinatestheNterminusof substrates.JBiolChem 288,18784-18788 (2013).   \n9.Tatham,M.H,chanovoa,A.,JrayE.Gmen,H.&Hay,R.TUbe2cojugatesubquitintlpa-aminogousof protein N-termini. BiochemJ453,137-145 (2013).   \nl0.Vital,V.etal.Intrinsicdisorderdrives N-terminalubiquitination by Ube2w.Nat Chem Biol1,3-89(2015).   \n1.Burroughs,..,Jfe,,erL..&rvind,LatoftElgsefoldipicationsfreologdeotio of ubiquitin/Ub-like protein conjugation.J Struct Biol 162,205-218 (2008).   \nl2.Michelle,C.,Vourch,P,Mignon,L.&Andres,C.R.What wasthesetofubiquitinandubiquitin-likeconjugating enzesin the eukaryote common ancestor? JMol Evol 68,6l6-628 (2009).   \n13.Winn,P.JReliga,T.L,attey,Nane,A.&Wde,R.C.Deternantsoffunctioalityinebquitioating enzyme family. Structure 12,1563-1574 (2004).   \n14.Van Wijk,S.J.&Timmers,H.T.Tefmilyofubiquiti-conjugating enzymes (E2s):decidingbetwenlifeanddeathofproteins. FASEB J24,981-993 (2010).   \n15.Wenzel,D..,Stoll,K.E.&lvit,R..Essucturallcooicalndfctioallplete.ocm4-4(1).   \n16.Ye,Y.&Rape,M.Building ubiquitinchains: E2 enzymes at work.Nat Rev Mol CellBio10,755-764 (2009).   \n17.Borchers,A.T,Ken,C.L.&Gershwin,M.E.Mushrooms,tmorsndimmunity:anupdate.ExpolMed29,93406 (2004).   \n18.Borchers,A.T,Stern,J.S.,Hackman,R.M,Keen,C.L.&Gershwin,M.E.ushrooms,tumorsadimmunity.PocEpiol Med 221,281-293 (1999).   \n19.Feng,L.,Sun,H,Zhang,Y,Li,D.F&Wang,D.C.Structuralinsightsintotherecognitionmechanismbetweeanantitumor galectin AAL and the Thomsen-Friedenreich antigen.FASEB J24,3861-3868 (2010).   \n20.Yang,N.etal.Structuralbasisforthetumorcellapoptosis-inducingactivityofanantitumorlectinfromtheediblemushroom Agrocybe aegerita.JMol Biol 387,694-705 (2009).   \n21.Li,N.etal.Rapiddevelopmentof proteomicsin China:from the perspectiveof the Human LiverProteomeProjectand technology development. Sci China Life Sci 57,1162-1171 (2014).   \n22.Zhang,G.,Wang,T.&He,Q.Howtodiscovernewproteins-translatomeprofling.Sci China Life Sci57,358-360 (2014).   \n23.Scaglione,K.M.etal. Ube2wandataxin-3coordinatelyregulatetheubiquitinligaseCHIP.MolCell43,599-612(2011).   \n24. Zhang,Y.etal.UBE2Winteracts withFANCLandregulates themonoubiquitinationofFanconianemia proteinFANCD2.Mol Cells 31,113-122 (2011).   \n25.Vital,V,Wenel,D.oic,P..&levit,.E.ochmicaldstructuralaacterationofbqtioating enzyme UBE2W reveals the formation of a noncovalent homodimer.CellBiochem Biophys 67,103-110 (2013).   \n26.Wu,P.Y.etal.Aconservedcatalyticresidue in theubiquitin-conjugatingenzyme family.EMBOJ22,5241-5250 (2003).   \n27.Sheng,Y.etal.Ahumanubiquitinconjugatingenzyme(E2)-HECTE3ligasestructure-functionscreen.Mol CellProteomics, 329-341 (2012).   \n28.Orengo,C.A.et al.CATH-a hierarchic clasification of protein domain structures.Structure 5,1093-1108(1997).   \n29.Holm,L.& Rosenstrom,P.Dali server:conservation mapping in 3D.Nucleic Acids Res 38,W545-549 (2010).   \n30.Li,W.,TuD,Brunger,A.T&Ye,Y.Aubiquitinligasetransfersprefrmedpolyubiquitincainsfromaonjugatingezeto a substrate.Nature 446,333-337 (2007).   \n31.Ravid,T.&Hochstrassr,M.AutoregulationofanE2nzymebyubiquiti-chainaemblyonitscatalyticresidue.NatCllBiol 9,422-427 (2007).   \n32.Batye,TG.Konogias,L,Jso,OowellH..&sle,.G.Ograicaliterfaceforaco image processing with MOSFLM. Acta Crystallogr D 67,271-281 (2011).   \n33.Winn,M.D.et al.Overview of the CCP4 suite and current developments.Acta Crystalogr D67,235-242 (2011).   \n34.LiD.F,FengLHouYJ.&uWepoodaloofogigr AgrocybeaegeritauderscoreteimpactofHs-taglocatioonecombiantproteiproperti.ActaCrystalogrF69,53-(213)   \n35.McCoy,A.J.et al.Phaser crystallographic software.J Appl Crystallogr 40,658-674 (2007).   \n36.Navaza,J. AMoRe: anautomated package for molecular replacement.Acta Crystalogr A50,157-163(1994).   \n37.Jones,T.A.,Zou,J.Y,Cowan,S.W.&Kjeldgaard,M.Improved methodsforbuildingproteinmodelsinlectrondesityaps and the location of errors in these models.Acta Crystallogr A 47(Pt2),110-119 (1991).   \n38.Brunger,A.T.etal.Crystalography&NMR system:Anewsoftwaresuiteformacromolecular structuredetermination.Acta Crystallogr D 54,905-921 (1998).   \n39.Afonne,Vetlowdtoedalgacruureemihectastalg8().   \n40.Headd,JJ.etal.Useofnowledge-basedrestraints inhenixrefetomprovemacromolecularrefiementatlowsolution. Acta Crystallogr D 68,381-390 (2012).   \n41.Gille,C.&Frommel, C.STRAP:editor for STRuctural Alignmentsof Proteins.Bioinformatics17,377-378 (2001).   \n42.Schrodinger,LLC.The PyMOL Molecular Graphics System,Version 1.3rl (2010).   \n43.Schuck,P,Perugini,M.A,Gonzales,N.R,HowlettG.J.&chubert,D.ize-distributionanalysisofproteinsbyalical ultracentrifugation: strategies and application to model systems.Biophys J82,1096-1111 (2002).   \n44.LaueTadgea&e.IalclUentfugtioinemstrdc (eds Harding,S.E.et al.)90-125 (Royal Society of Chemistry,1992). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by grants from the National Basic Research Program of China (2011CB910300 and 2013CB911500),the National Natural Science Foundation of China (31270788,31270792 and 31170711),and the Chinese Academy of Sciences (KJZD-EW-LO2 and XDB0802020).The authors would liketo thank the beamline staff at BL5A of KEK,Photon Factory, Japan for their kind help in data collection,Dr. Xiaoxia Yu for her help in analytical ultracentrifugation,and Dr. Xiang Ding,Dr. Zhensheng Xie and Dr. Jifeng Wang for their contribution to mass spectrometry analysis.The atomic coordinates and structure factors have been deposited in the Protein Data Bank (PDB) as entry 3WE5. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "C.Q.and Y.H. performed biochemical and mass spectrometry assays; C.Q. prepared figures 1-2; D.-F.L. and L.F. purified and crystallized the protein and determined its structure; H.S.and D.-C.W. designed the experiments; D.-FL.and W.L.analyzed the data; W.L. prepared figures 3-6and wrote the manuscript. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Additional Information ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Competing financial interests:The authors declare no competing financial interests. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "How to cite this article: Qi, C.et al. Biochemical and structural characterization of a novel ubiquitin conjugating enzyme E2 from Agrocybe aegeria reveals Ube2w family-specific properties. Sci. Rep. 5, 16056; doi: 10.1038/srep16056 (2015). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This work is licensed under a Creative Commons Attribution 4.0 International License.The images or other third party material in this article are included in the article's Creative Commons license,unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license,users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ ",
+        "page_idx": 12
+    }
+]

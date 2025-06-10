@@ -1,0 +1,213 @@
+# 分枝杆菌细胞裂解液催化甾体激素Ci.2位脱氢反应的研究
+
+秦梦菲，孙鸿，宋浩
+
+（天津大学化工学院，系统生物工程教育部重点实验室，天津化学化工协同创新中心合成生物学平台，天津，300072）
+
+摘要9β,11β-环氧-17α,21-二羟基-16β-甲基孕-1,4-二烯-3,20-二酮（IV）是生产9-氟甾体激素的关键前体，以 $^ { 9 \beta , 1 1 \beta }$ -环氧-17α,21-二羟基-16β-甲基孕-4-烯-3,20-二酮-21-醋酸酯（I）为底物合成IV是工业化生产V的重要方法。通过比较分枝杆菌全细胞转化法与细胞裂解液转化法，发现分枝杆菌全细胞只能将I转化 $^ { 9 \beta , 1 1 \beta }$ -环氧-17α,21-二羟基 $\cdot 1 6 \beta$ 甲基孕-4-烯-3,20-二酮（Ⅱ)，而细胞裂解液可以有效地将I转化为 $\mathbb { N }$ ，其反应机制为底物I自发水解为中间体Ⅱ，Ⅱ在 $\mathbf { C } _ { 1 , 2 }$ 位脱氢酶（KSTD）的催化作用下发生 $\mathrm { C } _ { 1 , 2 }$ 位脱氢反应生成产物IV。为进一步提高产物IV的转化率，利用基因工程手段在分枝杆菌中分别过表达编码KSTD的关键基因：kstD、kstD3和 $k s t D _ { \mathrm { M } }$ ，提高脱氢反应效率，结果表明 $1 \ \mathrm { g / L }$ 底物Ⅰ在 $\mathrm { p H } 7 . 0$ 的重组菌株$\mathrm { M S } 1 3 6  – k s t D _ { \mathrm { M } }$ 细胞裂解液中反应 $4 5 \mathrm { h }$ ，IV的转化率为 $78 . 4 \%$ ，比出发菌株提高了 $3 8 . 9 \%$ ；并优化缓冲液 $\mathfrak { p H }$ ，提高反应速率，结果表明 $1 \ \mathrm { g / L }$ 底物I在 $\mathsf { p H 7 } . 5$ 的重组菌株 $\mathrm { M S } 1 3 6 { - } k s t D _ { \mathrm { M } }$ （204号细胞裂解液中反应 $4 5 \mathrm { h }$ ，IV的转化率为 $9 2 . 8 \%$ ，比出发菌株提高了 $6 3 . 4 \%$ 。
+
+关键词9β,11β-环氧-17α,21-二羟基 $\lvert 1 6 \lvert \AA$ 甲基孕-1,4-二烯-3,20-二酮 分枝杆菌细胞裂解液 $\mathrm { C } _ { 1 , 2 }$ 位脱氢酶
+
+# Studies on the 3-Ketosteriod-1-Dehydrogenation of Steroid Hormone by Cellular lysates of Mycobacterium
+
+QIN Meng-fei, SUNHong, SONG Hao
+
+(SchoolofChemicalEngineeringandTechnology,KeyLaboratoryofSystems Bioengineering (MinistryofEducation),Bio Research Platform,ColaborativeInovationCenterofhemicalSieneandEnginering(Tianjin),TianjiUniversityjin,
+
+China,300072)
+
+Abstract9β, $1 1 \beta$ -Epoxypregn-4-ene-17α,21-diol-3,20-dione 21-acetate（I） is a substrate for the production of $9 \beta$ ，11β-Epoxypregn-1,4-diene-17α,21-diol-3,20-dione (IV),which is a key precursor for the production of many 9-fluoro-substituted corticosteroid hormones. By comparing whole cells catalysis and cellular lysates conversion， it was found that whole cells of Mycobacterium sp.MS136 could only convert I to $9 \beta$ ， $1 1 \beta$ -Epoxypregn-4-ene $. 1 7 \alpha$ ，21-diol-3, 20-dione(II),and I can be effectively converted to $\mathbb { N }$ by cellular lysates. The reaction order is that I is spontaneously hydrolyzed to $\mathbb { I }$ and $\mathbb { I }$ undergoes $\mathrm { C } _ { 1 }$ ， $2$ -dehydrogenation reaction to IV.In order to improve the productivity of $\mathbb { N }$ , the key genes kstD,kstD3 and $k s t D _ { \mathrm { M } }$ encoding $\mathrm { C } _ { 1 }$ （204号 $2$ -dehydrogenase (KSTD)were overexpressed in Mycobacterium sp. MS136 to enhance the $\mathrm { C } _ { 1 }$ （20 $2$ -dehydrogenation reaction rate,and the results showed that $1 \ \mathrm { g / L }$ substrate I can be converted by recombinant strain MS136-kstDmcellular lysates at $\mathrm { p H } ~ 7 . 0$ ，the productivity of $\mathbb { N }$ reached $78 . 4 \%$ after $4 5 \mathrm { ~ h ~ }$ ，which is $3 8 . 9 \%$ higher than original strain. The reaction rate is enhanced by optimizing the $\mathfrak { p H }$ ，and the results showed that $1 \ \mathrm { g / L }$ substrate (I)can be converted by recombinant strain $\mathrm { M S } 1 3 6 { - } k s t D _ { \mathrm { M } }$ cellular lysates at $\mathrm { p H } ~ 7 . 5$ ， the productivity of IVreached $9 2 . 8 \%$
+
+after $4 5 \mathrm { h }$ ,which was $6 3 . 4 \%$ higher than original strain.   
+Key words $^ { 9 \beta , 1 1 \beta }$ -Epoxypregn-1,4-diene-17α,21-diol-3,20-dionecellular lysates of Mycobacterium 3-ketosteriod-1-dehydrogenase
+
+甾体激素药物作为抗生素之后的第二大类药物广泛用于治疗和预防许多疾病[1，例如消炎，利尿，避孕，促孕，抗雄激素和抗癌剂等[2-3]。甾药的高需求促生了另一重要产业的蓬勃发展一甾药中间体（甾药前体）的提取与制备。微生物法制备甾药前体的工艺因其环境污染小，反应步骤少、产品损失低、收率高等突出优势[4-5]，广泛应用于工业生产[6]。近年来，通过微生物的生物转化对甾体化合物进行脱氢、氧化、羟化及侧链切割等反应而获得多种药物中间体[7-9]。如图1所示，IV是用于生产9-氟甾体激素（如地塞米松，倍他米松，曲安西龙等）的关键前体[10-11],以I为底物生产IV的生物转化过程包括水解反应和 $\mathrm { C } _ { 1 , 2 }$ 位脱氢反应，根据反应顺序不同可区分为I、II、IV和I、III（9β,11β-环氧-17α,21-二羟基- $\cdot 1 6 \beta \cdot$ 甲基孕-1,4-二烯-3,20-二酮-21-醋酸酯）、IV两种可能的反应机制。但是关于9（11)-环氧甾体生物转化的研究还未见报道，反应机制也没有完全阐明。
+
+分枝杆菌（Mycobacteriumsp.）是重要的工业菌株，能够利用甾体作为唯一的碳源，将其开环降解为自身提供能量[12-14]。分枝杆菌可以表达KSTD，Wei 等[15-16]为使植物甾醇降解后的中间体9-OHAD（9α-羟基雄甾-4-烯-3,17-二酮）大量积累且稳定存在，敲除了编码KSTD 的关键基因:kstD1、kstD2、kstD3 和 $k s t D _ { \mathrm { M } }$ ：Zhang 等[17]为积累 ADD（雄甾-1,4-二烯-3,17-二酮)，从 Mycobacterium neoaurumJC-12获得编码KSTD的 ksdd 基因并在 Bacillus subtilis 168中表达。目前，对于甾体化合物的生物转化大多都基于基因工程改造的微生物或分离纯化的酶催化[18]。这些方法可以使甾体化合物的转化率有一定的提高，但甾体底物溶解度差[19]、微生物发酵过程染菌[20]以及分离纯化酶的高成本都是制约其工业应用的关键问
+
+题。
+
+本实验以Mycobacteriumsp.MS136为出发菌株，首次提出用分枝杆菌细胞裂解液生产甾药前体，并阐明了底物I转化为产物IV的反应机理。通过在分枝杆菌中分别过表达kstD、kstD3 和 $k s t D _ { \mathrm { M } }$ 基因提高KSTD 的活性，并优化缓冲液 pH,从而提高甾药前体IV的转化率，为将来的工业化生产提供理论依据。
+
+![](images/4f5726e4be87ab09d152cbd67f44299e673f963481b905f5d9f34913e1bbab6b.jpg)  
+图1|转化为IV的反应机制Fig.1 The reaction mechanism ofI to IV
+
+# 1材料与方法
+
+# 1.1材料
+
+1.1.1菌株、质粒和培养基
+
+本文涉及的所有质粒和菌株信息详见表1。质粒pMV261购自Biosci公司，基因kstD，kstD3和 $k s t D _ { \mathrm { M } }$ 由Genewiz公司合成。
+
+分枝杆菌液体培养基：甘油 $1 0 \ \mathrm { g / L }$ 、酵母提取物 $1 0 \ \mathrm { g / L }$ 、磷酸氢二铵 $1 . 5 \ : \mathrm { g / L }$ 、 磷酸氢二钾 $0 . 5 \ : \mathrm { g / L }$ 、磷酸二氢钾 $0 . 5 \ : \mathrm { g / L }$ 、吐温 $8 0 2 . 5 \ \mathrm { g / L }$ 、无水硫酸镁 $1 0 \ \mathrm { g / L }$ 、硫 酸亚铁 $0 . 5 \ : \mathrm { g / L }$ 、硫酸锌 $0 . 2 \ \mathrm { g / L }$ ， $\mathrm { p H } 7 . 2 \ – 7 . 3$ ；固体培养基添加 $1 5 \mathrm { g / L }$ 琼脂粉。
+
+# 表1实验中涉及的菌株和质粒
+
+Table 1 Strains and plasmids used in this research   
+
+<html><body><table><tr><td>Strain or plasmid</td><td>Relevant genotype and description</td><td>Reference or source</td></tr><tr><td>Strains</td><td></td><td></td></tr><tr><td>Mycobacterium sp.MS136</td><td>Mycobacterium sp. CGMCC 13532</td><td>This work</td></tr><tr><td>E.coli BL21(DE3)</td><td>used to express foreign protein</td><td>This work</td></tr><tr><td>Plasmids</td><td></td><td></td></tr><tr><td>pUC57-kstD</td><td>Amp',carries kstD</td><td>This work</td></tr><tr><td>pUC57- kstD3</td><td>Ampr,carries kstD3</td><td>This work</td></tr><tr><td>pUC57-kstDm</td><td>Amp",carries kstDm</td><td>This work</td></tr><tr><td>pMV261</td><td>Kan',Shuttle vector of mycobacterium and E.coli,carrying</td><td>Telentiet al. (1997)</td></tr><tr><td></td><td>the heat shock hsp60 promoter</td><td></td></tr><tr><td>pMV261-kstD</td><td>Kan',carries kstD</td><td>This work</td></tr><tr><td>pMV261-kstD3</td><td>Kan',carries kstD3</td><td>This work</td></tr><tr><td>pMV261-kstDm</td><td>Kan', carries kstDm</td><td>This work</td></tr><tr><td>pET-28a</td><td>Kan',E.coli expression vector</td><td>Novagen</td></tr><tr><td>pET-kstD</td><td>Kan',carries kstD</td><td>This work</td></tr><tr><td>pET-kstD3</td><td>Kan', carries kstD3</td><td>This work</td></tr><tr><td>pET-kstDm</td><td>Kan',carries kstDm</td><td>This work</td></tr></table></body></html>
+
+# 1.1.2试剂及仪器
+
+T4DNA连接酶、限制酶BamHI和HindIII购自Fermentas公司；Gibson组装预混液购于NEB公司；质粒小提试剂盒、普通DNA产物纯化试剂盒、琼脂糖凝胶DNA回收试剂盒购自天根公司；I、ⅡI和IV均购自上海博顿生物化工有限公司；氢化可的松、PMS（吩嗪硫酸甲酯）购于Solarbio公司。所用仪器：超声破碎仪（SCIENTZ）、高效液相色谱仪（Waters）、电转仪（Ependorf)。
+
+# 1.1.3引物用于PCR的引物见表2。
+
+表2PCR引物序列Table 2 Primers used for amplification  
+
+<html><body><table><tr><td>Primers</td><td>Sequences (5'-3')</td></tr><tr><td>kstD-F</td><td>CCCGATCCGGAGGAATCACGGATCCATGACCACCGAAACCGCTGG</td></tr><tr><td>kstD-R</td><td>AACTACGTCGACATCGATAAGCTTTTAAGACGGCTGAGCAGATTC</td></tr><tr><td>kstD3-F</td><td>CCCGATCCGGAGGAATCACGGATCCATGTCTGACTCTGACCTGGAATTC</td></tr><tr><td>kstD3-R</td><td>TAACTACGTCGACATCGATAAGCTTTTATTCAGCAGAAGACTGGGTAGC</td></tr><tr><td>kstDm-F</td><td>CCCGATCCGGAGGAATCACGGATCCATGTTCTACATGACCGCTCAGG</td></tr><tr><td>kstDM-R</td><td>TAACTACGTCGACATCGATAAGCTTTTAAGCTTTACCAGCCAGGTGC</td></tr><tr><td>pMV261-F</td><td>CAGCGAGGACAACTTGAGCCGT</td></tr></table></body></html>
+
+<html><body><table><tr><td>pMV261-R</td><td>ACATCAGAGATTTTGAGACACA</td></tr><tr><td>T7</td><td>ACATCCACTTTGCCTTTCTC</td></tr><tr><td>T7ter</td><td>TGCTAGTTATTGCTCAGCGG</td></tr></table></body></html>
+
+# 1.2方法
+
+# 1.2.1全细胞转化底物I
+
+培养 Mycobacterium sp.MS136 的方法如下：将 Mycobacterium sp.MS136 细胞接种于 $5 \mathrm { m l }$ 液体培养基中， $3 0 \ \mathrm { ^ { \circ } C }$ 过夜培养。转接到另一装有 $5 0 \mathrm { m l }$ 液体培养基的 $2 5 0 \mathrm { m l }$ 锥形瓶中， $3 0 \ \mathrm { ^ { \circ } C }$ 、 $2 0 0 ~ \mathrm { r / m i n }$ 培养 $5 \mathrm { h }$ （ $\mathrm { O D } _ { 6 0 0 }$ 达到0.5-0.6)，添加终浓度为 $0 . 1 \ \mathrm { g / L }$ 的诱导剂氢化可的松， $3 0 \mathrm { ~ \textdegree ~ } 2 0 0 \mathrm { ~ r / m i n }$ 培养 $2 4 \mathrm { h }$ 。 $1 0 0 0 0 \mathrm { r p m }$ 离心$5 \mathrm { m i n }$ 收集菌体，用 $\mathrm { p H } 7 . 0$ 的 $0 . 2 \mathrm { M }$ 磷酸盐缓冲液（PBS）洗涤两次后重悬菌体至 $\mathrm { O D } _ { 6 0 0 }$ 达到2.0。取 $5 0 \mathrm { m l }$ 细胞悬浮液转入 $2 5 0 \mathrm { m l }$ 锥形瓶中，加入1g/LI、2.5mMPMS和 $7 \%$ 乙醇， $3 0 \ \mathrm { ^ { \circ } C }$ 、 $2 0 0 ~ \mathrm { r / m i n }$ 反应。
+
+# 1.2.2细胞裂解液转化底物I
+
+取40 mlMycobacterium sp.MS136细胞悬浮液进行超声破碎，超声功率500W，破碎时间 $5 \mathrm { ~ s ~ }$ ，间歇时间5s，总共需要 $2 0 \mathrm { m i n }$ ，全程冰上操作。如果破碎后的细胞出现混浊现象，应重复超声操作。将破碎后的细胞裂解液转入 $2 5 0 \mathrm { m l }$ 锥形瓶中，加入 $1 \mathrm { g / L }$ I、2.5mMPMS 和 $7 \%$ 乙醇， $3 0 \ \mathrm { ^ { \circ } C }$ 、 $2 0 0 \mathrm { r / m i n }$ 反应。
+
+# 1.2.3KSTD氨基酸序列分析
+
+利用DNAman软件对已获的 $\mathbf { C } _ { 1 , 2 }$ 位脱氢酶氨基酸序列新金分枝杆菌Mycobacterium neoaurum ATCC 25795 （kstD Genbank ID : GQ476982、 kstD3Genbank ID：KF772210）和新金分枝杆菌 Mycobacterium neoaurum NwIB-01（kstDm Genbank ID：GQ228843）与耻垢分枝杆菌 Mycobacterium smegmatis（MSMEG5941）的 $\mathrm { C } _ { 1 , 2 }$ 位脱氢酶氨基酸序列进行多序列对比分析。
+
+# 1.2.4重组质粒的构建
+
+如图2所示，以pMV261-kstD的构建为例，以合成的质粒pUC57-kstD为模板，按照表2的引物扩增各目的基因片段并纯化回收。所得PCR产物kstD 基因片段分别与线性化的pMV261载体（HindII和BamHI限制性酶切）通过Gibsonassembly无缝连接法组装在一起，从而构建重组质粒pMV261-kstD，使基因片段置于hsp60 启动子的控制下。重组质粒pMV261-kstD3 和pMV261-kstDm的构建方法相同。
+
+将质粒pET-28a及上述PCR产物kstD、kstD3和 $k s t D _ { \mathrm { M } }$ 基因分别进行HindIII和BamHI双酶切，胶回收相应基因片段和同时双酶切的pET-28a质粒，按照比例连接获得重组质粒pET-kstD、pET-kstD3和pET-kstDm。
+
+![](images/4aea6dde225190319ffa7a772f2cf83868beecfecc62dd47dbe40b9b43fc11d7.jpg)  
+图2重组质粒pMV261-kstD的构建  
+Fig.2The constructionof the recombinant plasmidpMV261-kstD
+
+# 1.2.5重组质粒的转化
+
+将菌体用无菌水洗2次， $5 0 0 0 ~ \mathrm { r / m i n }$ 离心，最终重悬于无菌水中。利用电转化法[21]将重组质粒pMV261-kstD，pMV261-kstD3 和 $\mathrm { p M V } 2 6 1 { - } k s t D _ { \mathrm { M } }$ 导入宿主菌
+
+株 Mycobacterium sp.MS136，电转化条件：电压 $1 . 8 \mathrm { k V }$ ，电击杯孔径1mm，电击两次；确认电击频率 $( 4 { - } 5 \mathrm { m s } ) ^ { - 1 }$ 范围，电击处理后的感受态于冰上放置 $5 \mathrm { m i n }$ 利用终浓度为 $5 0 \mu \mathrm { g / m l }$ 卡那霉素抗性平板筛选转化子。
+
+将上述获得的重组质粒pET-kstD、pET-kstD3 和pET-kstDm转化至新鲜制备的表达宿主BL21(DE3)感受态细胞中，并将其涂布于含有 $5 0 ~ \mathrm { \mu g / m l }$ 卡那霉素抗性平板， $3 7 \ \mathrm { { ^ circ C } }$ 恒温隔夜培养。
+
+# 1.2.6 样品的提取、检测与定量
+
+反应液混匀后，迅速吸取适量，用稀释剂（乙腈：水 $= 5 : 5$ ）稀释10倍后经 $0 . 2 5 \mu \mathrm { m }$ 滤膜过滤，取滤液上紫外液相检测。色谱条件：色谱柱:BDSHYPERSILC18色谱柱（ $1 5 0 \mathrm { m m } { \times } 4 . 6 \mathrm { m m }$ ， ${ 5 \mu \mathrm { m } }$ ）；检测器：Waters 2489UV/Vis；泵：Waterse2695；流动相：乙腈：冰 $= 3 \ { : } 7$ ；柱温： $4 0 \ \mathrm { ^ \circ C }$ ；检测波长为 $2 4 0 \mathrm { n m }$ ；流速 $1 . 2 \mathrm { m l / m i n }$ 。定量方法：使用相同的色谱条件测定ⅡI和IV标准品的标准溶液，绘制浓度-峰面积标准曲线，对II和IV定量。用生成产物的摩尔数除以底物的摩尔数即可得生成物的转化率。
+
+# 2结果与讨论
+
+# 2.1比较全细胞转化法与细胞裂解液转化法
+
+分别用Mycobacteriumsp.MS136全细胞和细胞裂解液转化底物I。表3中，利用分枝杆菌MS136全细胞转化 $1 \mathrm { g / L }$ 底物I反应 $4 5 \mathrm { h }$ ，底物I只残余 $5 \%$ 的量，对产物II的转化率为 $60 . 3 \%$ ，反应体系中检测不到产物IV的积累；表明分枝杆菌MS136菌株有可能将底物I水解后进一步代谢，导致产物V无法积累。而细胞裂解液转化 $1 \mathrm { g / L }$ 底物I反应 $4 5 \mathrm { h }$ ，底物I残余量为 $20 \%$ ，反应体系中产物IV转化率为 $56 . 8 \%$ 。由图3可知， $1 \mathrm { g / L }$ 底物IV在细胞裂解液中反应 $4 5 \mathrm { h }$ 后，V剩余
+
+# $0 . 9 2 { \mathrm { g / L } }$ ，说明以V为底物时，细胞裂解液不能将其进一步降解。
+
+表3全细胞与细胞裂解液以|为底物的转化情况  
+Table3 Conversion result ofI by whole cell and cellular lysates   
+
+<html><body><table><tr><td>转化45h</td><td>全细胞转化法</td><td>细胞裂解液转化法</td></tr><tr><td>I（g/L)</td><td>0.052</td><td>0.204</td></tr><tr><td>Ⅱ (g/L)</td><td>0.519</td><td>0.054</td></tr><tr><td>III (g/L)</td><td>NT</td><td>NT</td></tr><tr><td>IV (g/L)</td><td>NT</td><td>0.485</td></tr></table></body></html>
+
+NT:not tested
+
+![](images/c82a2f70533538250daa96d0af9b400a7b9390ca2ea392a9e7074e8baa7f2c4c.jpg)  
+图3分枝杆菌细胞裂解液转化IV的产物生成曲线
+
+Fig.3 Time courses of the conversion $\mathbb { N }$ bycellular lysates of Mycobacterium sp.MS136
+
+# 2.2研究分枝杆菌细胞裂解液转化底物|的反应机制
+
+$1 \ \mathrm { g / L }$ 底物I在 $\mathrm { p H } 7 . 0$ 的分枝杆菌细胞裂解液中反应，分别在2h，5h, $1 0 \mathrm { { h } }$ 21h， $3 3 \mathrm { h }$ 、 $4 5 \mathrm { h }$ 和 $7 6 \mathrm { h }$ 取样，检测产物的生成情况。如图4所示，产物IV随时间不断增加， $4 5 \mathrm { h I V }$ 的转化率达到最高值 $56 . 8 \%$ ，而 $\mathbb { I }$ 的转化率始终较低。在产物中始终未检测到III，说明分枝杆菌细胞裂解液转化I的反应顺序是I、II、IV。
+
+![](images/6c69f867ae198022c51dfea35bdabb7e3df2ee604b38da6d21490a2eef381ede.jpg)  
+图4分枝杆菌细胞裂解液转化|的产物生成曲线
+
+$1 \mathrm { g / L }$ 底物I在 $\mathrm { p H } 7 . 0$ 的PBS中反应，只有产物I的生成， $4 5 \mathrm { h }$ 后，Ⅱ的转化率为 $6 . 7 \%$ （如图5)。说明I发生C-21脱乙酰化反应即水解反应是自发进行的，而 $\mathrm { C } _ { 1 , 2 }$ 脱氢反应是酶催化反应。
+
+![](images/ec46b33b98b1468cd3ad075481eacd9eacb4a6a8c8dd3035000e6304cd99e42d.jpg)  
+图5磷酸盐缓冲液转化|的产物生成曲线 Fig.5 Time course of the conversion I to $\mathbb { I }$ byPBS
+
+分枝杆菌细胞裂解液分别以I和ⅡI为底物进行生物转化，如图6所示， $4 5 \mathrm { h } \mathrm { I V }$ 的转化率几乎相同（分别是 $56 . 8 \%$ 和 $5 7 . 3 \%$ )。以上数据说明在分枝杆菌细胞裂解液转化I的反应中：1）反应顺序为I自发水解形成ⅡI，Ⅱ经KSTD催化为IV；2）从Ⅱ到V的 $\mathrm { C } _ { 1 , 2 }$ 脱氢酶催化反应是关键步骤。
+
+![](images/28a93985cc6ff363f7198cb000243c3be8d8fcba23914381c00e62ee1fc90772.jpg)  
+图6分枝杆菌细胞裂解液转化|和I的产物生成曲线
+
+Fig.6 Time courses of the conversion I and $\mathbb { I }$ to $\mathbb { N }$ by cellular lysates ofMycobacterium sp.MS136
+
+# 2.3KSTD氨基酸序列分析
+
+已获的KSTD 氨基酸序列与耻垢分枝杆菌Mycobacterium smegmatis 的 $\mathrm { C } _ { 1 , 2 }$ 位脱氢酶氨基酸序列比对分析结果如图7所示，MSMEG5941和 $\mathrm { k s t D _ { M } }$ 的氨基酸序列同源性最高，为 $88 \%$ ；与kstD3和kstD的同源性较低，分别为 $36 \%$ 和 $12 \%$ 。kstD3 和 $\mathrm { k s t D } _ { \mathrm { M } }$ 的黄素腺嘌呤二核苷酸结合位点（FlavinAdenineDinucleotidebinding，简称 FAD-binding）与Van 等[22推测的KSTD 的FAD-binding 序列一致，即 $\mathrm { G S G ( G / A ) ( G / A ) ( G / A ) X _ { 1 7 } E }$ 。根据KSTD氨基酸序列比对分析结果，相比于kstD和 kstD3， $\mathrm { k s t D _ { M } }$ 和MSMEG5941的氨基酸序列同源性最高，可能其脱氢酶活性最高。
+
+kstD.txt MTTETAGIREIDTGDLPDRYARGWHCLGPVKDYLEGKPHG 40   
+kstD3.txt MSDSDLEFDVIVAG 14   
+kstDm.txt .MFYMTAQDYSVFIVVVVG 18   
+MSMEG5941.txt .MTGOEY...DVVVVG 12   
+Consensus d B   
+kstD.txt VEIFEIMLVVFDSEGELKVLDGYCRHMGENLAOGSIKED 80   
+kstD3.txt SGG.CLAGAYTAARENLSVLLVEATDLFGETTSFSGGGEM 53   
+kstDm.txt SGAACMVAALTAAHQGLSTVVVEKAPHYGCSTARS.GGEV 57   
+MSMEG5941.txt SGAACMVAALTZAHQGLSTVVVEKAPHYGCSTARS.GGCV 51   
+Consensus g a gg g
+
+# 2.4重组质粒的构建与验证
+
+分枝杆菌中 kstD、kstD3 和 $k s t D _ { \mathrm { M } }$ 的基因长度分别为1200bp、1560bp 和1713bp,以合成的质粒为模板进行扩增PCR，产物经 $1 \%$ 琼脂糖电泳检测，在2000bp 以下可见三条明显的特异性条带（图8)，与目的片段的大小位置相符。将目的基因连接到载体pMV261上，转入E.coliDH5α中，提取重组质粒pMV261-kstD、pMV261-kstD3 和pMV261-kstDm，采用质粒测序引物pMV261-F 和pMV261-R进行PCR验证和测序验证，结果表明各重组质粒构建成功。通过测序引物T7和T7ter 对重组质粒pET-kstD、pET-kstD3 和pET-kstDm进行PCR 验证和测序验证，结果表明各重组质粒构建成功。
+
+![](images/1288ca421b3b8819c6847c0b85d6f875550272913f152111593a39945bf5efc5.jpg)  
+图8kstD、kstD3和 $k s t D _ { \mathrm { M } }$ 的PCR产物 Fig.8PCR productions of kstD、kstD3 and $k s t D _ { \mathrm { M } }$
+
+# 2.5分枝杆菌重组菌株的转化
+
+对分枝杆菌重组菌株MS136-kstD，MS136-kstD3，MS136-kstDm细胞裂解液的转化特性进行研究，考察其对I的转化效率，用HPLC 法检测产物IV的生成情况，同时以导入pMV261空白载体的出发菌株细胞裂解液作对照。如图9所示，$1 \ \mathrm { g / L }$ 底物I在 $\mathrm { p H } ~ 7 . 0$ 的分枝杆菌细胞裂解液中反应 $4 5 \mathrm { ~ h ~ }$ 后，重组菌株MS136-kstD，MS136-kstD3和 $\mathrm { M S } 1 3 6  –  { k s t } D _ { \mathrm { M } } \mathrm { W }$ 的转化率分别为 $60 . 6 \%$ ， $69 . 5 \%$ 和$78 . 4 \%$ ，出发菌株IV的转化率为 $56 . 8 \%$ ，最多提高了 $3 8 . 9 \%$ 。以上数据表明过表达kstD基因（特别是 $k s t D _ { \mathrm { M } }$ ）后，KSTD的活力明显提高，加速脱氢反应，导致IV大量积累。
+
+![](images/86ef272c82dcc3118612c7206a221e52ccc5160d43b4a2549f9c0cb258def09c.jpg)  
+图9出发菌与重组菌的转化率比较图
+
+Fig.9 Time courses of the conversion I to $\mathbb { N }$ by cellular lysates of Mycobacterium sp.MS136
+
+# 2.6不同pH的缓冲液对产物IV转化率的影响
+
+缓冲液的pH不同会影响底物I的转化。本实验对比了重组菌株$\mathrm { M S } 1 3 6 { - } k s t D _ { \mathrm { M } }$ 细胞裂解液 $\mathsf { p H }$ 值分别为6，6.5，7，7.5，8时IV的转化率，反应条件为底物投料量 $1 \ \mathrm { g / L }$ 反应 $4 5 \mathrm { h }$ 。由图10可知， $\mathrm { p H } 7 . 5$ 最佳，此时IV的转化率达到 $9 2 . 8 \%$ ，其原因可能是碱性条件加速水解反应，使I更易水解为Ⅱ，再由KSTD酶催化为 $\mathbb { N }$ ;也可能是 $\mathrm { p H } 7 . 5$ 时KSTD 酶活更高，而 $\mathrm { p H } 8$ 的裂解液降低了KSTD酶活，导致IV的转化率有所下降。
+
+![](images/407829e6ebd5019375004053c5ade573c8a9a976ceff07242f6c05f05ff90633.jpg)  
+图 $1 0 ~ { \mathsf { p H } }$ 对产物IV转化率的影响 Fig.10 The effect of pH on conversion rate of IV
+
+# 2.7大肠杆菌重组菌株的转化
+
+对大肠杆菌重组菌株 BL21(DE3)-kstD，BL21(DE3)-kstD3，BL21(DE3)-kstDm细胞裂解液的转化特性进行研究，考察其对I的转化效率，用HPLC 法检测产物IV的生成情况。如图11所示， $1 \mathrm { g / L }$ 底物I在 $\mathrm { p H } 7 . 5$ 的大肠杆菌细胞裂解液中反应 $4 5 \mathrm { ~ h ~ }$ 后，重组菌株 BL21(DE3)-kstD，BL21(DE3)-kstD3，BL21(DE3)-kstDmIV的转化率分别为 $4 8 . 7 \% , 7 1 . 6 \%$ 和 $7 9 . 5 \%$ 。相比于分枝杆菌重组菌株MS136-kstDm（ $9 2 . 8 \ \%$ )，BL21(DE3)-kstDmIV的转化率较低，其原因可能是分枝杆菌Mycobacteriumsp.MS136自身含有编码 $\mathrm { C } _ { 1 , 2 }$ 位脱氢酶的基因，且能翻译出有活性的脱氢酶，而大肠杆菌 BL21(DE3)不能。
+
+![](images/36b27f26c3d5f40e9af58bcc4fca021c9fc2fbffb70aaf2256dfe00d46d3aeee.jpg)  
+图11大肠杆菌重组菌的转化率比较图
+
+Fig.11 Time courses of the conversion I to $\mathbb { N }$ by cellular lysates of E.coli BL21(DE3)
+
+# 3结论
+
+产物IV是用于生产9-氟甾体激素（如地塞米松，倍他米松，曲安西龙等）的关键前体[10-1]。本实验以 Mycobacterium sp.MS136为出发菌株，通过细胞裂解液转化I生产Ⅳ，并阐明了I转化为V的反应机理,即I先自发水解为中间体ⅡI，ⅡI经KSTD催化发生 $\mathrm { C } _ { 1 , 2 }$ 位脱氢反应转化为产物IV。为提高产物IV的转化率，在分枝杆菌中分别过表达编码KSTD 的关键基因：kstD、kstD3和 $k s t D _ { \mathrm { M } }$ ，并优化缓冲液 $\mathfrak { p H }$ ，结果表明 $1 \ \mathrm { g / L }$ 底物I在 $\mathrm { p H } 7 . 5$ 的重组菌株 $\mathrm { M S } 1 3 6 { - } k s t D _ { \mathrm { M } }$ 细胞裂解液中反应 $4 5 \mathrm { ~ h ~ }$ ，产物IV的转化率为 $9 2 . 8 \%$ ，比优化前提高了 $6 3 . 4 \%$ 。本研究首次提出用分枝杆菌细胞裂解液生产甾药前体，为甾体激素类药物的定向转化和工业化生产提供了理论依据。
+
+# 参考文献
+
+[1]Tong W Y,Dong X.Microbial biotransformation: recent developments on steroid drugs.Recent Pat Biotechnol, 2009, 3(2): 141-153.   
+[2] Croxatto HB.Progestin implants. Steroids,2000, 65(10-11): 681-685.   
+[3]Hughes DT, Sperandio V.Inter-kingdom signaling: communication between bacteria and their hosts.Nat Rev Microbiol, 2008,6(2): 111-120.   
+[4] Bragin J， Saowakhon S,Manosroi A.A novel one-step biotransformation of cortexolone-21-acetate to hydrocortisone acetate using Cunninghamella blakesleeana ATCC 8688a. Enzyme Microb Technol,2007, 41(3):322-325.   
+[5]Funder JW. Minireview: aldosterone and mineralocorticoid receptors: past,present,and future.Endocrinology, 2010, 151(11):5098-5102.   
+[6] Garcia JL,Uhia I, Galan B.Catabolism and biotechnological applications of cholesterol degrading bacteria. Microb Biotechnol, 2012, 5(6):679-699.   
+[7] Bragin EY, Shtratnikova VY,Dovbnya D V,et al. Comparative analysis of genes encoding keysteroid core oxidation enzymes in fast-growing Mycobacterium spp. strains.J Steroid Biochem Mol Biol, 2013, 138(10):41-53.   
+[8] Xie R,Shen Y, Qin N,et al. Genetic differences in ksdD influence on the ADD/AD ratio of Mycobacterium neoaurum.JInd Microbiol Biotechnol, 2015, 42(4):507-513.   
+[9] Cruz A,Angelova B,Fernandes P,et al. Study of key operational parameters for the side-chain cleavage of sitosterol by free mycobacterial cells in bis-(2-ethylhexyl） phthalate.Biocatal Biotransform,2004, 22(3):189-194.   
+[10] Fokina V V,Sukhodol'skaya G V, Gulevskaya S A, et al. The 1(2)-dehydrogenation of steroid substrates by Nocardioides simplex VKM Ac-2033D.Microbiology,2003,72(1):24-29.   
+[11] Fokina V V,Donova M V.21-Acetoxy-pregna-4(5),9(11),16(17)-triene-21-ol-3,20-dione conversion by Nocardioides simplex VKM Ac-2033D.J Steroid Biochem Mol Biol, 2003,87(4-5):319-325.   
+[12] Donova M V.Transformation of steroids by actinobacteria: a review.Applied Biochemistry and Microbiology,2007,43(1):5-18.   
+[13] Donova M V,Egorova O V. Microbial steroid transformations: Current state and prospects.Appl Microbiol Biotechnol, 2012, 94(6):1423-1447.   
+[14]Fernandes P,Cruz A,Angelova B,et al.Microbial conversion of steroid compounds: Recent developments. Enzyme Microb Technol,2003,32(6):688-705.   
+[15] Yao K, Xu L Q,Wang F Q, et al. Characterization and engineering of 3-ketosteroid- $\triangle ^ { 1 }$ -dehydrogenase and   
+3-ketosteroid- $\mathfrak { g } _ { \mathfrak { a } }$ -hydroxylase inMycobacterium neoaurum ATCC 25795toproduce $9 \alpha$ -hydroxy-4-androstene-3，17-dione through the catabolism of sterols.Metabolic Engineering，2014,   
+24:181-191. [16] Wei W，Wang F Q，Fan S Y，et al. Inactivation and augmentation of the primary   
+3-ketosteroid- $\cdot \Delta ^ { 1 }$ -dehydrogenase in Mycobacterium neoaurum NwIB-01: biotransformation of soybean phytosterols to 4-androstene-3,17-dione or1,4-androstadiene-3,17-dione.Appl Environ Microbiol,2010,   
+76(13):4578-4582. [17] Zhang W Q， Shao M L,Rao Z M,et al. Bioconversion of 4-androstene-3,17-dione toandrost-1,4-diene-3,17-dionebyrecombinantBacillussubtilisexpressingksddgeneencoding   
+3-ketosteroid- $\cdot \Delta ^ { 1 }$ -dehydrogenasefrom Mycobacterium neoaurum JC-12.J Steroid Biochem MolBiol, 2013,   
+135(1):36-42. [18] Li Y,Lu F，Sun T,et al. Expression of ksdD gene encoding 3-ketosteroid- $\cdot \Delta ^ { 1 }$ -dehydrogenase from Arthrobacter simplex in Bacillus subtilis.Lett Appl Microbiol,2007,44(5):563-568. [19]Malaviya A， Gomes J.Androstenedione production by biotransformation of phytosterols.Bioresource Technol0gy,2008,99(15):6725-6737. [20] Shao M,Zhang X,Rao Z,et al.Enhanced productionof androst-1,4-diene-3,17-dione by Mycobacterium neoaurum JC-12 using three-stage fermentation strategy. PLoS One,2015,10(9):e0137658. [21] Flett F,Mersinias V,Smith CP.High efciency intergeneric conjugal transfer of plasmid DNA from Escherichia coli to methyl DNA-restricting streptomycetes.FEMS MicrobiolLett,1997,155(2):223-229. [22] Van D G R，Hessels G I，Van G R，et al. Targeted disruption of the kstD geneencoding   
+3-ketosteroid- $\cdot \Delta ^ { 1 }$ -dehydrogenase isoenzyme of Rhodococcus erythropolisSQ1． Appl Environ Microbiol,   
+2000,66(5): 2029-2036.

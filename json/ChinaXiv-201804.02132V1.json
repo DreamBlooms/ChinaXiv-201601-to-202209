@@ -1,0 +1,642 @@
+[
+    {
+        "type": "text",
+        "text": "一种尺度空间特征区域的强鲁棒性水印算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "齐向明，徐嫚，李玥，侯明君(辽宁工程技术大学 软件学院，辽宁 葫芦岛 125100)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对数字水印算法中特征区域选取不足以反映图像重要信息，导致鲁棒性减弱的问题，提出一种尺度空间特征区域的强鲁棒性水印算法。通过尺度空间特征点检测，提取靠近载体图像重心且互不重叠的特征区域，合成特征区域矩阵，用变换域水印算法嵌入水印，对可能受到攻击的含水印图像提取特征区域，合成其特征区域矩阵，用嵌入水印算法逆过程提取水印。实验表明，该算法不仅对一系列攻击都具有强鲁棒性，且不可见性良好。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：数字水印；尺度空间；特征区域；变换域；强鲁棒性 中图分类号：TP391 doi: 10.3969/j.issn.1001-3695.2018.01.0056 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Strong robust watermark algorithm in scale space signature area ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Qi Xiangming, Xu Man, Li Yue, Hou Mingjun (CollegeofSoftwareLiaoning Technical University,Huludao Liaoningl25105,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Areaselectionbasedonthedigital watermarkingalgorithmisnotenoughtoreflecttheimageofimportantinformation, leadto decreasedrobustness problems,this paper put forwarda measure space characteristicsof thearea the strong robustness ofwatermarking algorithm.Through scale space feature point detection and extraction characteristics nearthe image centerof gravity and non-overlapping regions,regional matrix synthesis characteristics，with the transform domain watermarking algorithm embedding watermarking，the area may contain the watermark image feature extractionunder atack，the characteristics ofregionalmatrixsynthesis,itusedinverse processtoextracte watermark embeddng watermarkingalgorthm. Experiments show that this algorithm is not only robust to a series of atacks,but also has good invisibility. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: digital watermarking; scale space; characteristic region; transform domain; strong robustness ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "网络的开放性与共享性给人们生产、工作和生活带来了极大地便利，随之也产生了媒体信息的安全问题。数字水印技术作为知识产权保护和认证的一种有效方式，得到了广泛应用。水印算法的关键是在良好不可见性的前提下，增强水印鲁棒性。强鲁棒性水印算法成为国内外专家和学者研究的热点对象。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "变换域较空域更容易设计出强鲁棒性的水印算法[I]。基于变换域的水印算法主要通过修改变换的系数值存储水印[2]。文献[3\\~5]将载体图像进行单一变换，算法只能在对抗某一种攻击上表现较好的鲁棒性，且其不可见性较差；文献[将载体图像进行DCT变换和SVD，一定程度均衡了水印算法的不可见性和鲁棒性，但鲁棒性仍然较差；文献[7]将载体图像先作DWT变换再作SVD，得到载体图像奇异值矩阵，将置乱后的水印作相同处理得到水印奇异值矩阵，把后者加权嵌入到前者较大系数中，载体图像奇异值不发生剧烈改变，但水印嵌入不完全，鲁棒性不理想。通过对图像本身的某些特征来辅助水印的嵌入和提取，特别是辅助确定水印嵌入的准确位置，有助于增强水印算法的鲁棒性。文献[8,9]对采用Harris 算子检测特征点，实现对图像重要特征的提取；文献[10]在小波变换域提取的Harris特征点嵌入水印信息，在抗几何攻击上体现了较好的鲁棒性；文献[11]提出了基于直方图均衡化和Harris角点检测的数字水印算法，可提取数量较为可观的特征点；文献[12,13]利用Harris-Affine提取出图像的仿射不变特征点，特征点稳定性较好；Mikolajczky等人[14]将Harris特征点检测算子与尺度选择相结合，提出了Harris-Laplace 特征点检测算子，既能检测到较大数量的特征点，且包含尺度特征。综上所述的各种基于图像特征区域水印算法，虽在某方面得到改进，但没有兼顾解决以下几点问题：a)所提取图像特征点数量较少，不能较好地反映图像的某些特征；b)特征点检测方法存在很多冗余点，增加嵌入水印时间且错误率较高；c)特征点稳定性差且分布不均匀，影响数字水印抗攻击能力；d)不能结合图像内容确定局部特征区域尺寸和位置，减弱了水印算法的鲁棒性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于以上分析，本文采用改变Harris-Laplace 算法中Harris角点的尺度空间来获得特征点，根据水印图像大小确定特征区域大小，选取载体图像中靠近图像重心且互不重叠的特征区域，合成特征区域矩阵，对其依次进行DWT、DCT和SVD变换，完成水印信息嵌入。对可能受到攻击的含水印图像进行特征区域的合成，再作水印信息嵌入的逆过程，提取水印。该算法的目标是增强各类攻击鲁棒性，同时不影响水印的不可见性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 基础理论",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1尺度空间特征点检测",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "尺度空间理论的基本思想是：在图像信息处理过程中引入一个被视为尺度的参量，通过不断变化参量获得多尺度下的空间序列，对这些序列进行尺度空间主轮廓的提取，并以该主轮廓作为特征向量，实现对边缘、角点检测和不同分辨率上的特征提取。Harris-Laplace特征点检测算子计算特征点的尺度信息，尺度信息通常是未知的，一般而言，较大尺度能较可靠地消除误检，但定位不够准确；反之，较小尺度能准确定位真正的特征点，而误检率较高。因此，通过引入尺度空间理论，在多尺度空间上寻求最大响应点，即该点在正交方向上的梯度变化显著，将其作为候选特征点，求得候选特征点集{ $P _ { \\boldsymbol { k } }$ }。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "确定候选特征点集基础上，计算每一特征点的特征尺度(characteristic scale)，它反映局部图像特征与操作算子间的最大相似度，选用LOG函数计算特征尺度。LOG算子如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL O G ( x , y , \\delta _ { D } ) = \\delta _ { D } ^ { 2 } \\Bigg | \\frac { \\hat { \\sigma } ^ { 2 } G ( x , y , \\delta _ { D } ) } { { \\hat { \\sigma } x } ^ { 2 } } + \\frac { \\hat { \\sigma } ^ { 2 } G ( x , y , \\delta _ { D } ) } { { \\hat { \\sigma } y } ^ { 2 } } \\Bigg | * I\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：数字图像记为I,对于给定的尺度空间 $\\delta _ { 1 } ^ { ( n ) } = 1 . 4 ^ { n } \\delta _ { 0 }$ $\\delta _ { D } ^ { ( n ) } = 0 . 7 \\delta _ { 1 } ^ { ( n ) }$ ? $( n = 1 , 2 , . . . , 1 5 )$ 及阈值 $t = 1 0 0 0$ ，对于「 $P _ { \\boldsymbol { k } }$ }中的每个候选特征点，迭代确定最终的图像特征点与特征尺度。实现方法如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）检验LOG算子在预选的图像特征点处，能否在尺度搜索范围内获得局部极值，如果得不到极值，该点舍弃。尺度搜索范围限定为： $\\delta _ { 1 } ^ { ( k + 1 ) } = t \\delta _ { 1 } ^ { ( k ) }$ ，其中 $t = 0 . 7$ ..1.4。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）将LOG 算子取极值的特征点 $P _ { \\boldsymbol { k } }$ 加入候选特征点集合$\\{ P _ { k } ^ { ' } \\}$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c)重复以上两步,至所有特征点处理完毕为止。集合{ $P _ { k } ^ { ' } \\}$ 就是所求Harris-Laplace 特征点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2强鲁棒性水印嵌入和提取 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "小波变换后的低频子带和余弦变换后的低频系数都表征着图像的能量特性，当图像受到攻击时，变换后DCT的低频系数和DWT后的低频子带系数具有相同的变化趋势，即能同时变大或变小[15]。因此，利用关系双方DCT和DWT系数上述特征进行的水印算法具有一定的鲁棒性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从图像处理的角度来看，奇异值分解特性是，一幅图像的奇异值具有相当好的稳定性，即当图像受到轻微扰动时，其奇异值不会发生剧烈的改变，奇异值能够表现出图像内在的代数特性[16]。大小为 $m \\times n$ 的矩阵 $A \\in C ^ { m \\times n }$ 的奇异值分解为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA = U D V ^ { T } = \\sum _ { i = 1 } ^ { r } \\lambda _ { i } \\mu _ { i } \\nu ^ { T }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $U \\in C ^ { m \\times n }$ ， $V \\in C ^ { m \\times n }$ 是两个酉矩阵，即 $U ^ { T } U = E$ ，$V ^ { T } V = E : \\mathrm { D }$ 表示元素为非负数的对角阵， $r \\leq \\operatorname* { m i n } \\{ m , n \\}$ 是矩阵 A 的秩； $\\lambda _ { i } = \\sqrt { \\mu _ { i } }$ 称为矩阵A 的奇异值； $\\mu _ { i }$ （204$( i = 1 , 2 , . . . , r )$ 称为矩阵A的左奇异向量，对应于矩阵 $A A ^ { T }$ 的特征向量； $\\boldsymbol { \\nu } _ { i } ( i = 1 , 2 , . . . , r )$ 称为矩阵 A 的右奇异向量，对应于矩阵 $A ^ { T } A$ 的特征向量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图像矩阵的奇异值与图像内在的特征存在相关性[17]，具有较强的稳定性。当图像遭受到较小的攻击时，其奇异值不会发生较大的改变，且图像的奇异值对图像失真具有不变性。因此，将SVD与DWT和DCT相结合，算法的时间复杂度大大降低，水印具有更好的鲁棒性和不可见性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 算法实现 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 图像预处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.1水印图像加密 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为消除像素空间的相关性，需要对水印图像进行加密处理。采用Logistic 映射混沌加密作为处理方法。Logistic 映射定义如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { k + 1 } = x _ { k } \\times \\lambda \\times ( 1 - x _ { k } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\lambda \\in [ 0 , 4 ]$ 被称为Logistic 参数； $x _ { k } \\in [ 0 , 1 ]$ ， $x _ { 0 }$ 即为密钥key。在当 $3 . 5 6 9 9 4 5 6 < \\lambda < 4$ 时，Logistic 映射处于混沌状态。处于混沌状态的水印图像被随机而均匀地置乱，产生了一个非周期、不收敛的，并对初始条件敏感的序列，像素间相关性被消除。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.2载体图像特征区域选取 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过Harris-Laplace算子提取图像的特征点。载体图像Lena、Barbara、Baboon、door 和 flower 进行Harris-Laplace 特征点检测的结果见图1。可以看出，特征点的分布区域主要在复杂纹理和灰度变化明显的位置，不是所有的特征点都适用于嵌入水印。本算法以特征点为中心，选取靠近载体重心的特征区域，特征区域可能存在重叠。为避免水印信息互相影响，需要筛选出部分不相重叠的特征区域作为最佳的嵌入水印的位置。筛选的步骤如下所述：",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5ca52fa29c6282e097ded32fd1409708ae05f96cdf65c6bfe01647c680652c80.jpg",
+        "img_caption": [
+            "图1Harris-Laplace 特征点检测结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a）载体图像I通过尺度空间的Harris-Laplace 算子得到特征点集合{ $P _ { k } ^ { ' }$ ；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b）根据水印图像的大小，选择特征区域的大小。以{ $\\{ P _ { k } ^ { ' } \\}$ 中特征点为中心取矩形特征区域;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c）从{ $P _ { \\boldsymbol { k } } ^ { ' }$ }中删掉特征点对应的矩形特征区域存在有重叠部分的特征点，并保存为{ $\\boldsymbol { P } _ { k } ^ { \" } \\}$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)标记载体图像的重心位置 $l ( x _ { 1 1 } , y _ { 1 1 } )$ ，集合 $\\{ P _ { k } ^ { \" } \\}$ 中每个特征点 $l$ 的距离记做集 $\\{ D _ { P _ { k } ^ { \\dagger } }$ }，对 $\\{ D _ { P _ { k } ^ { \\dagger } }$ }从小到大排序。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e）根据水印图像的大小，选择特征区域的个数，依次按照$\\{ D _ { P _ { k } ^ { \\prime } }$ }中的顺序取对应的特征点及特征区域作为水印嵌入子块，保证了特征区域靠近载体图像的重心且互不重叠。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2水印嵌入",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设原始载体图像I的大小为 $M \\times M$ ，置乱后的水印图像为 $W$ ，其大小为 $N \\times N$ 。水印嵌入的具体流程如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)将特征区域合成特征区域矩阵 $A A$ ，作离散小波变换，对低频子带 $L L$ 离散余弦变换得到DCT 系数矩阵 $L L _ { 7 }$ ，奇异值分解后(即 $\\boldsymbol { L } \\boldsymbol { L } _ { 7 } = \\boldsymbol { U } \\boldsymbol { D } \\boldsymbol { V } ^ { T }$ )形成正交矩阵 $U$ 、 $V$ 和对角矩阵 $S = d i a g ( \\lambda _ { 1 } , \\lambda _ { 2 } , . . . , \\lambda _ { { \\scriptscriptstyle N } } )$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)通过式 $T e m p = S + a f * W$ 修改载体图像对角阵 $S$ ，其中，af 为嵌入强度，本算法中取 $a f = 4 7$ 。对矩阵Temp作奇异值分解，得到正交矩阵 $U 1$ 、V1和对角矩阵$S 1 = d i a g ( \\lambda _ { 1 } ^ { ' } , \\lambda _ { 2 } ^ { ' } , . . . , \\lambda _ { N } ^ { ' } )$ ，用 $S 1$ 替换 $S$ 进行逆 SVD 变换，得到嵌入水印后的DCT系数矩阵，对其进行反离散余弦变换，将其低频子带和其他中高频方向子带作逆小波变换，得到含有水印的特征区域矩阵 $A A$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c）对含有水印的特征区域矩阵 $\\ A A$ 进行分解，依次替换原图像中的特征区域，得到含有水印的图像 $\\boldsymbol { I } ^ { ' }$ □",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3水印提取 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "水印提取前，对可能受到攻击的含水印图像提取特征区域，合成其特征区域矩阵，对该矩阵使用嵌入水印逆过程提取水印信息。水印提取的具体流程如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)提取可能受到攻击的含水印图像 $\\boldsymbol { I } ^ { ' }$ 的特征区域，对特征区域进行合成运算，构成可能受到攻击嵌入水印特征区域矩阵BB。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)对 $B B$ 进行离散小波变换，对低频子带 $L L 1$ 进行离散余弦变换，将得到的DCT系数矩阵记为 $L L L$ ，对 $L L L$ 作奇异值分解，得到正交矩阵 $U 2$ 或 $V 2$ 以及对角矩阵$S 2 = d i a g ( \\lambda _ { 1 } ^ { \" } , \\lambda _ { 2 } ^ { \" } , . . . , \\lambda _ { N } ^ { \" } ) ~ ,$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)用 $S 2$ 替换 $S 1$ 进行逆 SVD 变换，得到中间矩阵 $S N$ ，通过式WN= $W N = \\frac { S N - S } { a f }$ 提取出水印信息WN。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)根据 $\\lambda = 4$ 、 $x _ { 0 } = 0 . 2 3 4 5$ 通过Logistic 映射混沌解密将提取出的水印信息WN进行解密运算，得到解密后的水印图像WNN。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 仿真实验及分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1实验环境及参数说明",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "仿真实验采用MATLABR2015b作为实验平台，选取Lena、Barbara和Baboon三幅标准灰度图像作为载体图像，其大小为 $3 8 4 \\times 3 8 4$ 。选取大小为 $3 2 \\times 3 2$ 的二值图像“辽宁工大”为水印图像。当 $x _ { k } \\in [ 0 , 1 ]$ ， $\\lambda$ 越接近于4时，Logistic 映射工作越处于混沌状态，因此取Logistic 映射混沌加密中Logistic参数 $\\lambda = 4$ ，密钥随机取值为 $x _ { 0 } = 0 . 2 3 4 5$ 。图2(a)是 $3 2 \\times 3 2$ 的二值水印图象，对该水印进行Logistic 映射混沌加密；(b)是水印图像经过混沌加密的加密图像。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "辽宁  \n工大  \n(a)水印图像 (b)加密图像",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用峰值信噪比(PNSR)来评价原始图像和含水印图像之间的质量差别；同时采用归一化互相关系数(NC)来评价原始水印与提取解密的水印的相似程度，NC值越大，表示两者相似程度越大，则水印的鲁棒性越强。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 鲁棒性测试 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了检测本算法具有较好的鲁棒性，对含水印的图像分别进行噪声攻击、旋转攻击、缩放攻击等多种类型攻击实验，并且在水印提取后对水印进行Logistic 映射混沌解密。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.1噪声攻击 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "向五幅含水印的图像分别添加乘积性噪声、高斯噪声、椒盐噪声和高斯白噪声。表1列出了五幅图像添加噪声攻击后提取出的水印NC值。尺度空间的特征区域均靠近载体图像的重心位置，反映载体图像的较多信息，通过对特征区域进行离散小波变换，并对其低频子带进行离散余弦变换，得到的DCT系数矩阵进行奇异值分解，而加噪是对图像高频信息的操作，几乎不会影响到在特征区域低频中嵌入的水印信息，只会对高频中嵌入的水印信息产生一定的干扰。因此，本文算法可以有效提高水印抗乘积性噪声、高斯噪声、椒盐噪声和高斯白噪声攻击的能力。在嵌入水印前对图像进行Logistic 映射混沌加密，进一步分散水印信息，使其能提取具有较大NC值的水印。图3展示了各种噪声攻击下的含水印图像及其所提取出的水印图像。图中的水印图像清晰可辨，说明本算法可以有效抵抗噪声攻击，具有强鲁棒性。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c0477e8a12bd4004d62c614d77c9d20d1d780235ea510a4f6d6d63661eabc107.jpg",
+        "table_caption": [
+            "表1含水印图像添加噪声攻击后提取出的水印NC 值"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>攻击方式</td><td>参数</td><td>Lena</td><td>Barbara</td><td>Baboon</td><td>door</td><td>flower</td></tr><tr><td>乘积性噪声</td><td>0.01</td><td>1.0000</td><td>0.9972</td><td>1.0000</td><td>1.0000</td><td>1.0000</td></tr><tr><td rowspan=\"4\">高斯噪声</td><td>0.015</td><td>1.0000</td><td>1.0000</td><td>0.9972</td><td>0.9944</td><td>1.0000</td></tr><tr><td>0.02</td><td>0.9944</td><td>0.9972</td><td>1.0000</td><td>0.9916</td><td>0.9911</td></tr><tr><td>0.01</td><td>0.9944</td><td>0.9944</td><td>0.9917</td><td>0.9916</td><td>0.9930</td></tr><tr><td>0.005</td><td>1.0000</td><td>0.9972</td><td>0.9972</td><td>1.0000</td><td>0.9986</td></tr><tr><td>椒盐噪声</td><td>0.01</td><td>1.0000</td><td>0.9972</td><td>1.0000</td><td>1.0000</td><td>0.9993</td></tr><tr><td rowspan=\"3\">高斯白噪声</td><td>0.015</td><td>0.9972</td><td>0.9972</td><td>0.9972</td><td>1.0000</td><td>0.9979</td></tr><tr><td>10</td><td>1.0000</td><td>1.0000</td><td>1.0000</td><td>1.0000</td><td>1.0000</td></tr><tr><td>15</td><td>1.0000</td><td>1.0000</td><td>1.0000</td><td>1.0000</td><td>1.0000</td></tr><tr><td></td><td>20</td><td>0.9944</td><td>0.9945</td><td>0.9916</td><td>0.9944</td><td>0.9937</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/94df1e75b01a691c2fb3973eac137222142db8fa00d55600690afb5b1a373ec1.jpg",
+        "img_caption": [
+            "图2水印图像经过Logistic 映射混沌加密后的加密图像",
+            "图3噪声攻击实验图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.2旋转攻击 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对五幅含水印的图像分别进行向左或向右多种幅度的旋转。表2列出了旋转攻击后提取出的水印NC值。对于不同角度、不同方向的旋转攻击，提取出的水印NC值均在0.9700以上。图4是旋转角度为 $3 0 ^ { \\circ }$ 、方向为向左时旋转攻击攻击下含水印图像及其所提取出的水印图像。由于图中水印图像足够清晰，表明本算法对旋转攻击可以有效抵抗，鲁棒性强。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2含水印图像旋转攻击后提取出的水印NC值",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a96c0e935835d0c35d3471af8e023b7d5811ca3c8cf987dbee99ecc2aba7e6a0.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>攻击方式</td><td>参数</td><td>Lena</td><td>Barbara</td><td>Baboo n</td><td>door</td><td>flower</td></tr><tr><td rowspan=\"8\">旋转</td><td>向左</td><td>0.9945</td><td>0.9861</td><td>0.9944</td><td>0.9888</td><td>0.991</td></tr><tr><td>10</td><td>0.9974</td><td>0.989</td><td>1.0000</td><td>0.9972</td><td>0.9954</td></tr><tr><td>向右 10</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>向左</td><td>0.9873</td><td>0.9725</td><td>0.9945</td><td>0.9862</td><td>0.9844</td></tr><tr><td>20 向右</td><td>0.9903</td><td>0.9863</td><td>0.9945</td><td>0.9861</td><td>0.9893</td></tr><tr><td>20</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>向左</td><td>0.9861</td><td>0.989</td><td>0.9945</td><td>0.9751</td><td>0.9862</td></tr><tr><td>30 向右</td><td>0.9889</td><td>0.9945</td><td>0.9917</td><td>0.9806</td><td></td></tr><tr><td></td><td>30</td><td></td><td></td><td></td><td></td><td>0.9889</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7d7a7727ebe25663017ab459ea573d961359efb08cfff048b16b13345842cc32.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6a4b399533e9320b7922bfff8daa074c83b4dc38eb8ab669ff29365b418f28e5.jpg",
+        "img_caption": [
+            "图4旋转攻击实验图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.3压缩攻击 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为检测算法对不同强度JPEG压缩攻击抵抗能力，对五幅含水印的图像分别进行一系列压缩攻击。表3列出的是图像经压缩攻击后提取出的水印NC值。对于不同压缩强度的攻击，提取出的水印NC值均在0.9800以上。图5是压缩质量因子为$30 \\%$ 时的压缩攻击下含水印图像及其所提取出的水印图像。图中的水印图像清晰可辨，表明本算法可以有效抵抗噪声攻击，具有强鲁棒性。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/272f81777fb3a78a23ffae98f914dfd6f803fd336cda0d9619bc1d47f011cd70.jpg",
+        "table_caption": [
+            "表3含水印图像JEPG压缩攻击后提取出的水印NC 值"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">攻击方式</td><td rowspan=\"2\">参数</td><td rowspan=\"2\">Lena</td><td rowspan=\"2\">Barara</td><td rowspan=\"2\">Baboo n</td><td rowspan=\"2\">door</td><td rowspan=\"2\">flower</td></tr><tr><td></td></tr><tr><td rowspan=\"6\">压缩攻击</td><td>10</td><td>0.9970</td><td>1.0000</td><td>0.9872</td><td>0.9809</td><td>0.991 3</td></tr><tr><td>20</td><td>0.9972</td><td>1.0000</td><td>0.9972</td><td>0.9836</td><td>0.994 5</td></tr><tr><td>30</td><td>0.9972</td><td>1.0000</td><td>1.0000</td><td>0.9889</td><td>0.996 5</td></tr><tr><td>50</td><td>1.0000</td><td>1.0000</td><td>1.0000</td><td>0.9889</td><td>0.997</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>2 1.000</td></tr><tr><td>70</td><td>1.0000</td><td>1.0000</td><td>1.0000</td><td>1.0000</td><td>0</td></tr><tr><td></td><td>100</td><td>1.0000</td><td>1.0000</td><td>1.0000</td><td>1.0000</td><td>1.000 0</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c9f5afb390ce40b74289c676228282d681fbf652aa5822c185d993f130ac4c76.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/516a9499bb71969cef22f21066695365e68d2282b27ae6c32af9552e9daabb9e.jpg",
+        "img_caption": [
+            "图5旋转攻击实验图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.4其他类型攻击",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对含水印的图像分别进行图像变暗攻击、增加对比度、高斯低通滤波攻击和缩放攻击。表4是图像在受到不同攻击后所提取水印的NC值。随着攻击强度的增大，对提取出的水印NC值有一定的影响，但仍能提取出具有较大NC值的水印。本算法可以有效抵抗各种类型的攻击，具有较强的鲁棒性。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/bf1a90c627cd026093f5ffb6d5756b5ea7c66b1b87c353140bace5b2bbc29d3b.jpg",
+        "table_caption": [
+            "表4含水印图像受攻击后提取出水印NC值"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>攻击方式</td><td>参数</td><td>Lena</td><td>Barara</td><td>Baboo n</td><td>door</td><td>flower</td></tr><tr><td rowspan=\"3\">图像变暗</td><td>(0,0.98)</td><td>0.9972</td><td>1</td><td>1</td><td>0.9991</td><td>0.9990</td></tr><tr><td>(0,0.95)</td><td>0.9916</td><td>0.9916</td><td>0.9944</td><td>0.9925</td><td>0.9925</td></tr><tr><td>(0,0.92)</td><td>0.9861</td><td>0.9888</td><td>0.9888</td><td>0.9879</td><td>0.9879</td></tr><tr><td>高斯低通滤波</td><td>3×3</td><td>0.9945</td><td>1</td><td>0.9972</td><td>0.9972</td><td>0.9972</td></tr><tr><td>增加对比度</td><td>(0.1,0.9</td><td>0.9833</td><td>0.9917</td><td>0.9833</td><td>0.9861</td><td>0.9861</td></tr><tr><td rowspan=\"3\">缩放攻击</td><td>）</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1/2</td><td>0.9848</td><td>0.9770</td><td>0.9931</td><td>0.9890</td><td>0.9889</td></tr><tr><td>1.2</td><td>0.9975</td><td>0.9832</td><td>0.9956</td><td>0.9966</td><td>0.9965</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 不可见性性测试",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在载体图像上分别嵌入不同大小水印信息得到的含水印图像。图6(i)为标准灰色图像Lena、Barbara、Baboon、door和flower；(j)为嵌入水印后的载体图像，并标有该图像的峰值信噪比PSNR值；(k)为提取的水印信息；(I)为解密后的水印信息，分别是两组不同尺寸大小的水印，并标注计算得到的NC值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "仿真实验表明，本文提出的水印算法具有强鲁棒性，同时较好地均衡不可见性。从视觉效果来看，含水印的图像与原始图像没有明显变化，图像质量良好，并且提取出的水印清晰可辨，还原度很高。本算法得到的峰值信噪比PSNR都达到45以上，具有较好的感官效果，水印的不可见性较好，提取出来的水印图像NC值都达到1.0000以上，水印具有强鲁棒性。实验结果验证了本文算法在水印良好不可见性的前提下，实现了强鲁棒性，具有较好的实用性和合理性。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/875f18796dba83a7f4e350b8782586d9acf4f8d10590010fa97be8e6724f9f5c.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "NC=1.0000 ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/cad7603105730a054272a939e436b440f440604043ef843950a58cac4bd5a9cf.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "NC=1.0000 ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/5c65044c268892bd446f98b3a91d37384cad412004b9a7afb183c6ca94208cd5.jpg",
+        "img_caption": [
+            "Baboon "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "PNSR=45.2302dB辽宁工大",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/4ce6d02851840f5e588a9252bf605a96ad46678f6b0635d164876a17123be252.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "NC=1.0000 ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/70aff201c0ea09d6a13da70c66e3f6edafb0db99414c8a88c3f3f6e9e5d2d51f.jpg",
+        "img_caption": [
+            "图6载体图像、嵌入水印图象、提取出水印以及解密后水印图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(i)载体图像 (j）水印图象 (k)提取出水印 (l)解密后水印 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4对比验证 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为验证本算法具有较强的鲁棒性，选择Lena图像为载体图像的实验结果与文献[18\\~20]算法进行对比，其NC值对比实验结果如表5所示。Lena图像不同算法性能比较折线图如图7所示。从表5及图7可以看出，与文献[18]相比，本文在受到噪声攻击、旋转攻击、压缩攻击以及其他多种类型攻击后所提取出的水印NC值得到了显著提升，说明其在对抗攻击方面的优势突出，鲁棒性能明显优于文献[19,20]的算法。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/93960e8f941257825f3d7dc3545d4a440028f1f47f47c53072c4dcbf02b922d3.jpg",
+        "table_caption": [
+            "表5本文算法与文献[18,19]NC 值对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">攻击方式</td><td rowspan=\"2\">参数</td><td>文献</td><td>文献</td><td>文献</td><td>本文</td></tr><tr><td>[18]</td><td>[19]</td><td>[20]</td><td>算法</td></tr><tr><td>乘积性噪声</td><td>0.015</td><td>0.7950</td><td>0.7354</td><td>0.9522</td><td>1</td></tr><tr><td>高斯噪声</td><td>0.01</td><td>0.8360</td><td>0.7592</td><td>0.9428</td><td>0.9917</td></tr><tr><td>椒盐噪声</td><td>0.01</td><td>0.8560</td><td>0.8953</td><td>0.9286</td><td>1.0000</td></tr><tr><td>高斯白噪声</td><td>20</td><td>0.8428</td><td>0.9012</td><td>0.9429</td><td>0.9944</td></tr><tr><td>旋转攻击</td><td>向左20</td><td>0.8972</td><td>0.9672</td><td>0.9431</td><td>0.9873</td></tr><tr><td>压缩攻击</td><td>30</td><td>0.9723</td><td>0.8562</td><td>0.9102</td><td>0.9972</td></tr><tr><td>图像变暗</td><td>(0，0.92)</td><td>0.8371</td><td>0.8326</td><td>0.9328</td><td>0.9861</td></tr><tr><td>缩放攻击</td><td>1//2</td><td>0.9407</td><td>0.8872</td><td>0.9000</td><td>0.9848</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/88b39c19ac6a92a1bdd01ac6d1fb69c2e92e5a0929c65aa8a2afb484a5da3851.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>高斯低通滤波</td><td>3×3</td><td>0.82</td><td>0.9734</td><td>0.9420</td><td>0.9945</td></tr><tr><td>增加对比度</td><td>(0.1,0.9)</td><td>0.9634</td><td>0.9521</td><td>0.9872</td><td>0.9833</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8ad58aad6594b5e351d16ec5a5a548d91db318c2d610441917e29936862e4118.jpg",
+        "img_caption": [
+            "图7Lena 图像不同算法性能比较折线图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为验证本文水印算法同时具有良好的不可见性，选择含水印的Lena图像的PSNR值与文献[18\\~20]进行对比，本文算法、文献[18\\~20]得到的PSNR值分别为47.3026、40.290、45.700、42.47，且本文算法得到的含水印图像的PSNR值都能达到45以上，可见本文算法得到的含水印图像具有更好的不可见性。与文献[18\\~20]对比，本文算法实现更精准的水印提取解密，对于各种攻击的抵抗能力都保持在一个较高的水平，可见本文算法能够较好地增强水印算法的鲁棒性，提高水印算法抵抗多种攻击的能力，同时均衡水印的不可见性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文采用Harris-Laplace 特征点检测算子获取载体图像特征点，根据水印图像的大小确定特征区域大小，选择靠近载体重心且互不重叠的特征区域作为待嵌入水印区域，实现水印的重要特征区域嵌入。在水印嵌入过程中，对特征区域矩阵作离散小波变换和离散余弦变换，使水印可以嵌入到特征区域的低频中，水印信息的嵌入和提取同步，结合奇异值分解，提高水印算法的稳定性。在水印提取前，对相应特征区域进行水印信息提取。仿真实验表明，Harris-Laplace 特征点检测算子与变换域水印算法结合，水印信息被嵌入到载体图像的重要特征区域中，兼顾解决了原有水印算法在特征点检测和特征区域选取过程中存在的问题。基于尺度空间特征区域的强鲁棒性水印算法能够有效抵抗多种类型的攻击，实现了水印的强鲁棒性，同时均衡不可见性，可以有效提高知识产权的保护和认证。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]胡裕峰．图像变换数字水印技术研究[D].杭州：浙江大学,2014.[2]杨韫饴，王玲.非抽样Contourlet 变换的低频数字水印[J].计算机工程与应用 2011,47(16):201-203.[3] 李文娜，孔祥勇，高立群，等．基于多描述编码和小波变换的数字图像",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "水印算法[J]．东北大学学报：自然科学版,2012,33(8):1094-1097.  \n[4]Parah SA, Sheikh JA,Loan NA.Ro bust and blind watermarking techniquein DCT domain using inter-block coefficient differencing [J].Digital SignalProcessing,2016,53:11-24.  \n[5]刘瑞桢，谭铁牛．基于奇异值分解的数字图像水印方法[J].电子学报,2001,29 (2): 168-171.  \n[6]Horng SJ,RosiyadiDD,Litr,et al.Ablind image copyright protectionscheme for e-government [J]. Journal of Visual Communication and ImageRepresentation,2013,24(7):1099-1105.  \n[7]Zhang Lijing.Robust watermarking scheme based on singular value ofdecomposition in DWT domain [C]// Proc of Asia-Pacific Conf onInformation Processing.2009:19-22.  \n[8]徐贤锋，檀结庆．一种改进的多尺度Harris 特征点检测方法[J].计算机工程,2012,38(17):174-177  \n[9]陈白帆，蔡自兴．基于尺度空间理论的 Harris 特征点检测[J].中南大学学报：自然科学版,2005,36(5):751-754.  \n[10]李健，叶有培，韩牟．一种基于Harris 角点的抗几何攻击的数字水印算法[J]．太原理工大学学报,2008,39(6):576-580.  \n[11]孙辉．基于直方图均衡化和Harris 角点检测的数字水印算法[D].青岛：青岛大学,2009.  \n[12]聂雪莲，戴青．基于图像仿射不变特征点的零水印算法[J].计算机工程与科学,2012,34(7):109-113.  \n[13]楼偶俊．基于Contourlet 域特征点的抗几何攻击水印方法[J].计算机研究与发展,2010,47(1):113-120.  \n[14] Mikolajczyk K,Schmid C,Scale & affine invariant interest point detectors[J],International Journal of Computer Vision,2004,60(1): 63-86  \n[15]沈晓峰，马小虎．一种基于离散余弦变换和奇异值分解的数字水印算法[J].南通大学学报,2006,5(3):11-15.  \n[16] Cheng MZ,LiY, Zhou YJ,et al. A combined DWTand DCT watermarkingscheme optimized using genetic algorithm [J].Journal of multimedia, 2013,8 (3): 299-305.  \n[17]王磊．基于 SVD变换的数字水印算法研究[D].合肥：合肥工业大学,2009.  \n[18]孔玲君，聂鹏．一种基于DWT-DCT 变换域的全息水印技术[J]．光电子·激光,2016,27(2):198-202.  \n[19]柏均，张敏瑞，梁文莉．基于特征点的图像水印嵌入方案[J].计算机工程,2011,37(13):139-149.  \n[20]吕建萍，彭述．一种基于 SIFT的DWT域抗几何攻击水印算法[J]．西安邮电大学学报,2015,20(2):88-92.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

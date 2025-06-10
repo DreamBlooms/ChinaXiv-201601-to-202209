@@ -1,0 +1,221 @@
+# 氢氧稳定同位素对达里湖水体蒸发与补给来源的指示作用
+
+郭鑫，李文宝，孙标（内蒙古农业大学水资源利用与保护自治区重点实验室，内蒙古 呼和浩特010018)
+
+摘要：为了研究稳定同位素质量平衡法在寒旱区封闭型内陆湖泊水量平衡计算中的适用性,以内蒙古高原达里湖作为研究区域，基于流域水体样品中氢氧稳定同位素( $\mathrm { \Omega ^ { 8 D } . 8 ^ { 1 8 } O }$ 特征分析，讨论了8D $\cdot \mathbf { \delta } ^ { 1 8 } \mathbf { O }$ 对水体蒸发和补给来源的指示作用。结果表明：夏季达里湖水体氢氧稳定同位素值不断减小，其主要受到降水过程的影响;冬季结冰过程使得氢氧同位素在冰体中富集。达里湖湖水 $8 ^ { 1 8 } \mathrm { O - } 8 \mathrm { D }$ 关系点落在了当地大气降水线的右下方，显示湖区水体蒸发最为强烈;部分河水和地下水 $8 ^ { 1 8 } \mathrm { O } { - } 8 \mathrm { D }$ 关系点落在当地大气降水线左上方，显示当地大气降水并非其地下水的主要补给来源。利用稳定同位素质量平衡法对2018年达里湖蒸发量和地下水补给量进行估算,结果显示年蒸发量约为$2 . 6 9 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ 全年地下水补给量约为 $1 . 6 5 { \times } 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ 。在考虑动力分馏和初始水体同位素组成的条件下，利用水体稳定同位素分馏过程中8D与剩余水体比例的关系，计算得到达里湖湖水蒸发损失量约为初始水体的 $41 \% \sim 4 6 \%$ ○
+
+关键词：氢氧稳定同位素；蒸发；补给；达里湖
+
+湖泊是陆地水文系统的重要组成部分，对调节河川径流和区域水文循环具有关键作用；湖泊的蒸发过程是水文循环中的关键环节，对维持湖泊的健康发展起着重要作用。湖泊蒸发量除了可以实际观测外，还可以借助一些成熟的水量平衡方程来进行估算[1-3]。目前,在区域水文过程的研究中,水体稳定同位素 $\mathrm { ( 8 D , 8 ^ { 1 8 } O } \mathrm { ) }$ )已经成为估算湖泊蒸发量的一个重要指标[4-7],并得到了广泛的应用[6-10]
+
+当前，利用氢氧稳定同位素对湖泊补排情况进行研究多集中于定性分析上，如蒙新高原岱海、达里湖等湖水补排关系分析，但基于稳定同位素对湖泊水量平衡进行定量研究相对较少[11-13];同时在已有的湖泊水量平衡计算中，一般认为其补给来源于当地的大气降水[4-5],但在实际应用中，湖泊补给水源还可能有来源于深层地下水和跨区域输水等补水情况；因此，有必要考虑湖泊水体补给来源对水量平衡计算的影响。
+
+内蒙古克什克腾旗达里湖，位于东亚夏季风北部边缘带，是一个典型的草原内陆型湖泊。夏季以地表水和大气降水输入为主，冬季主要为地下水的补给，其水文循环过程相对简单，是研究稳定同位素方法估算湖泊水量平衡在内陆封闭型湖泊适用性的理想区域。基于当前对达里湖水文循环过程的研究逐渐展开，初步分析了达里湖流域同位素特征及补给关系[3，同时对达里湖水体稳定同位素的空间分布规律展开了研究[14-16]。本文将通过对达里湖流域不同水体8D和 $| \delta ^ { 1 8 } \mathrm { O }$ 的分析，利用氢氧稳定同位素的指示作用，对达里湖流域补给来源进行分析，并选用8D值来估算湖泊蒸发量和地下水补给量，进而为利用水体稳定同位素研究湖泊的水量平衡提供基础数据。
+
+# 1研究区概况与方法
+
+# 1.1 研究区概况
+
+达里湖位于内蒙古中东部的克什克腾旗境内$( 4 3 ^ { \circ } 1 2 ^ { \prime } { \sim } 4 3 ^ { \circ } 2 4 ^ { \prime } \mathrm { N }$ $1 1 6 ^ { \circ } 2 4 ^ { \prime } { \sim } 1 1 6 ^ { \circ } 4 5 ^ { \prime } \mathrm { E } \rangle$ ，海拔为1226$\mathrm { ~ m ~ }$ ,地处东亚季风气候的边缘区，属于温带大陆性季风气候。达里湖为一个半咸水湖，有贡格尔河、沙里河、亮子河和耗来河汇人，西南部有泉水汇入，无出流。2018年达里湖年蒸发量为 $1 4 3 7 \mathrm { m m }$ ,降雨量为 $2 5 3 ~ \mathrm { m m }$ ,年均温度约为 $1 . 4 ~ \mathrm { { ^ { \circ } C } }$ 。达里湖日最低气温约为 $- 3 6 . 7 \ \mathrm { { ^ { circ } C } } , 0 \ \mathrm { { ^ { \circ } C } }$ 以下积温天数为189d，占全年天数的 $5 1 . 7 \%$ ，达里湖11月中旬至次年4月上旬湖泊被冰雪所覆盖，其冰封期可达5个月。
+
+# 1.2样品采集
+
+综合考虑达里湖湖区面积、水深变化、入河口位置分布特征进行采样点布置，利用GPS进行定位(图1)，共在湖区布设12个采样点，采样点依次命名为 $\mathrm { D L } \mathrm { - } 1 \ \mathrm { , D L } \mathrm { - } 2 \ \mathrm { , D L } \mathrm { - } 3 \ \mathrm { , } \ \cdots \ \mathrm { , D L } \mathrm { - } 1 2$ ；采样点具体布置如下：在湖区入湖口处各布置一个采样点(DL-1、DL-4、DL-11、DL-12)，在靠近湖岸处布置一个采样点(DL-9)，其余采样点以深度差异布置在湖区中部。在贡格尔河、沙里河、亮子河和耗来河等距入湖口约 $2 \mathrm { k m }$ 处各布置一个河水采样点，依据靠近湖区为原则，以井水和泉水代表地下水，共计5个采样点。样品主要为非冰封期(2018年6月、7月、8月）湖泊表层水、人湖河水、地下水样品以及冰封期(2018年12月)所采集的湖泊表层水、冰体样品。夏季湖水样品利用船舶直接在采样点用采水器进行采集，每次采集12个，共采集36个；冬季为凿开冰层后再进行湖水样品采集，冰体和表层水体各采集一次，采集湖冰样品12个，湖水样品11个;采集收集地下水样品14个，河水样品12个。样品采集完成后，保存于 $5 0 ~ \mathrm { m L }$ 聚乙烯瓶中，采样时先用原水润洗三次后再装入样品，采样后进行密封保存和冷藏，并尽快完成氢氧稳定同位素测定。此外，利用标准集雨器在室外进行大气降水收集，2018年共收集23个降水样品。
+
+![](images/585dbfd02752a5a0eb3911afa26bc44454d40b62ff3476da5b61a508dc50d2a7.jpg)  
+图1采样点位置示意图  
+Fig.1 Locations of sample site
+
+水样在通过 $0 . 4 5 ~ { \mu \mathrm { m } }$ 的滤膜后，使用液态水同位素分析仪(DTL-100)进行8D和 $| \delta ^ { \mathrm { 1 8 } } \mathrm { O }$ 的测定，并用国际原子能机构的标准样品VSMOW进行校正， $\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~ ‰ ~ } }$ 的测试误差小于 $0 . 1 \text{‰}$ ,8D的测试误差小于 $0 . 4 \% o ^ { [ 1 4 ] }$ 。测试工作在内蒙古农业大学水资源利用与保护自治区重点实验室完成。
+
+# 1.3研究方法
+
+1.3.1 水量平衡方程和同位素质量守恒方程基于水体氢同位素组成，应用稳定同位素质量平衡方程（假设湖泊混合良好并保持长期恒定体积)来估算湖泊蒸发量[17]。湖泊水量平衡方程和同位素质量平衡方程如下：
+
+$$
+\scriptstyle I = Q + E
+$$
+
+$$
+I \delta _ { \mathrm { \scriptsize { I } } } = Q \delta _ { \mathrm { \scriptsize { Q } } } + E \delta _ { \mathrm { \scriptsize { E } } }
+$$
+
+式中：I为进入湖泊的水量; $Q$ 为流出湖泊的水量; $E$ 为湖泊的蒸发量； $\delta _ { \mathrm { l } } \delta _ { \mathrm { 0 } }$ 和 $| \delta _ { \mathrm { E } }$ 分别为入湖水、出流水和 湖泊蒸发水汽稳定同位素值。
+
+水体蒸发同位素组成 $\cdot \delta _ { \mathrm { E } }$ 采用Graig等提出的开放水面蒸发模型[18-22]进行计算：
+
+$$
+\delta _ { \mathrm { g } } = \left( \frac { \delta _ { \mathrm { L } } - \varepsilon ^ { + } } { \alpha ^ { + } } - h \delta _ { \mathrm { A } } - \varepsilon _ { \mathrm { k } } \right) / ( 1 - h + 1 0 ^ { - 3 } \varepsilon _ { \mathrm { K } } )
+$$
+
+式中： $\delta _ { \mathrm { { E } } }$ 为湖泊蒸发水汽同位素组成； $\delta _ { \mathrm { { L } } }$ 取2018年测定非冰封期湖水同位素组成和冰封期冰体同位素组成均值，为 $- 2 9 . 7 7 \% o ; h$ 为水面相对湿度，为 $56 \%$ ·$\alpha ^ { + }$ 为氢同位素平衡分馏系数； $\varepsilon ^ { + }$ 为同位素分离因子；$\varepsilon _ { \mathrm { k } }$ 为动力分馏系数； $\delta _ { \mathrm { { A } } }$ 为大气中氢同位素组成。
+
+在瑞利平衡分馏过程中，温度是控制氢氧同位素分馏的主要因素，氢的平衡同位素分馏系数 $\omega ^ { + }$ 和同位素分离因子 $\varepsilon ^ { + }$ 与温度有关，根据Horita等[21]给出的氢的平衡同位素分馏系数与温度的关系，推导出实验值：
+
+$$
+\scriptstyle { \begin{array} { l } { \alpha ^ { * } ( ^ { 2 } H ) = \exp } \\ { \left[ 1 1 5 8 . 8 { \left( \frac { \left( 2 7 3 . 1 5 + T \right) ^ { 3 } } { 1 0 ^ { 1 2 } } \right) } - 1 6 2 0 . 1 { \left( \frac { \left( 2 7 3 . 1 5 + T \right) ^ { 2 } } { 1 0 ^ { 9 } } \right) } + \right] } \\ { 7 9 4 . 8 4 { \left( \frac { \left( 2 7 3 . 1 5 + T \right) } { 1 0 ^ { 6 } } \right) } - \frac { 1 6 1 . 0 4 } { 1 0 0 0 } + \frac { 2 9 9 9 2 0 0 } { \left( 2 7 3 . 1 5 + T \right) ^ { 3 } } } \end{array} }
+$$
+
+$$
+\varepsilon ^ { + } = ( \alpha ^ { + } - 1 ) \times 1 0 0 0
+$$
+
+达里湖2018年湖面平均温度 $T$ 为 $3 . 3 7 \mathrm { ^ \circ C }$ ,计算出平衡分馏系数 $\alpha ^ { + }$ 为1.1065，同位素分离因子 $\varepsilon ^ { + }$ 为$1 0 6 . 5 \% o$ 。
+
+动力分馏系数 $\dot { \varepsilon } _ { \mathrm { k } }$ 与相对湿度 $h$ 和边界层条件有关，其函数关系为： $\scriptstyle { \varepsilon _ { \mathrm { k } } = } C _ { \mathrm { k } } \left( \ 1 - h \right)$ ,其中 $C _ { \mathrm { k } }$ 为动力学常数，取 $1 2 . 5 \% o ^ { [ 2 3 ] }$ ,利用该公式计算出达里湖的动力分馏系数 $\dot { \varepsilon } _ { \mathrm { k } }$ 为 $5 . 5 0 \text{‰}$ ○
+
+大气中氢同位素组成 $\mathbf { \partial } \cdot \delta _ { \mathrm { A } }$ 利用以下公式[24]计算。
+
+$$
+{ \delta _ { \mathrm { { s } } } } = - 0 . 1 1 { t ^ { 2 } } + 5 . 1 7 t - 1 7 5
+$$
+
+式中： $\mathbf { \Phi } _ { t }$ 为达里湖2018年平均气温，为 $1 . 4 ^ { \circ } \mathrm { C }$
+
+达里湖是一个尾闾湖，故不考虑出流，水量支出主要为蒸发项，补给来源于河水、地下水和大气降水；则湖泊蒸发量 $E$ 和地下水补给量 $I _ { \mathrm { G } }$ 计算公式如下：
+
+$$
+E = \frac { I _ { \mathrm { U } } ( \delta _ { \mathrm { U } } - \delta _ { \mathrm { G } } ) + I _ { \mathrm { P } } ( \delta _ { \mathrm { P } } - \delta _ { \mathrm { G } } ) } { \delta _ { \mathrm { E } } - \delta _ { \mathrm { G } } }
+$$
+
+$$
+I _ { \mathrm { { G } } } = E - I _ { \mathrm { { U } } } - I _ { \mathrm { { P } } }
+$$
+
+式中： $I _ { \mathrm { U } }$ 为地表水入湖量； $I _ { \mathrm { P } }$ 为降水量； $I _ { \mathrm { G } }$ 为地下水入湖量； $\delta _ { \mathrm { U } }$ 为入湖河水氢同位素组成加权平均值，为 $- 7 7 . 6 0 \% o , \delta _ { \mathrm { P } }$ 为2018年大气降水氢同位素组成加权平均值，为 $- 5 9 . 4 9 \text{ / } \textmu$ P $\delta _ { \mathrm { { G } } }$ 为达里湖周边地下水氢同位素组成均值，为 $- 8 2 . 6 2 \% o$ ，湖泊蒸发氢同位素组成$\delta _ { \mathrm { { E } } }$ 为 $- 7 7 . 4 6 \% o$ ○
+
+1.3.2蒸发剩余水体比例在瑞利平衡蒸发条件下，剩余水体的氢氧稳定同位素组成与蒸发后的剩余水体和原始水体的比率服从瑞利分馏模型[6]。
+
+$$
+\frac { \delta - 1 } { \delta _ { 0 } - 1 } = f ^ { \alpha - 1 }
+$$
+
+式中： $\delta _ { \mathrm { 0 } }$ 为水体氢氧稳定同位素的初始组成 $\mathrm { , } f$ 为剩余水体的比例， $\alpha$ 为分馏系数。
+
+自然条件下实际蒸发分馏和理想的平衡分馏存在一定的差异。有研究表明：水体在蒸发过程中，不仅要受到平衡分馏作用的影响，还要受到动力分馏作用的影响，受动力分馏水体的氢氧稳定同位素的分馏效果比平衡分馏效果大，因此，在实际水体蒸发过程中，必须考虑蒸发过程中的动力分馏[6]分馏系数 $\alpha$ 计算公式如下：
+
+$$
+\alpha = \left[ \alpha ^ { + } ( 1 + 1 0 ^ { - 3 } \varepsilon _ { \mathrm { k } } ) \right] ^ { - 1 }
+$$
+
+1.3.3同位素混合模型达里湖流域河水受到地下水和大气降水的共同补给作用3，利用二元混合模型来区别不同源的利用状况[25],公式如下：
+
+$$
+\delta _ { \mathrm { { r } } } = f _ { \mathrm { { A } } } \delta _ { \mathrm { { A } } } + ( 1 - f _ { \mathrm { { A } } } ) \delta _ { \mathrm { { B } } }
+$$
+
+式中： $\delta _ { \mathrm { { T } } }$ 表示总8值； $\delta _ { \mathrm { { A } } }$ 和 $| \delta _ { \mathrm { B } }$ 表示A源和B源的同位素值； $f _ { \mathrm { A } }$ 表示来自A源的比例。 $f _ { \mathrm { A } }$ 可由下式计算：
+
+$$
+f _ { \mathrm { A } } { = } ( \delta _ { \mathrm { r } } { - } \delta _ { \mathrm { b } } ) / ( \delta _ { \mathrm { A } } { - } \delta _ { \mathrm { B } } )
+$$
+
+# 2结果与分析
+
+# 2.1水体氢氧同位素组成时空变化特征
+
+水体8D、 $\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~ ‰ ~ } }$ 受到补给和蒸发作用的影响，由于不同时间段的降水和蒸发存在差异，其氢氧同位素组成也随之变化[16]。比较达里湖夏季3次不同时间获得的湖水同位素样品，发现湖水氧同位素值呈现不断降低的趋势，6月和7月同位素组成差值相对较大，7月和8月同位素组成相近，氢同位素总体上变化趋势与氧同位素相似(图2a1\~图2a2)。夏季达里湖湖水同位素组成在时间上表现出随着时间的推移，其值不断减小的趋势，同时7月和8月集中了全年约 $6 9 \%$ 的降水量，而地下水的补给作用一般全年变化不大，表明达里湖7月和8月的夏季降水过程对湖水有一定的稀释作用，这在一定程度上体现了该区域水体同位素组成受降水过程的影响
+
+水体结冰过程中存在同位素分馏效应，使得$ { 8 \mathrm { D } }  { \mathrm { \Omega } }  { \mathrm { 8 } } ^ {  { 1 } 8 }  { \mathrm { O } }$ 在冰体中富集[14]。达里湖冰体中8D较冰下水体中的平均值偏重了约 $1 1 . 6 1 \% o$ ，冰体中 $\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~ ‰ ~ } }$ 较冰下水体中的平均值偏重了约 $1 . 3 7 \% o$ （图2b1\~图2b2)；冰体和冰下水体中稳定同位素差异显示了结冰过程对湖泊水体的影响。当然不同采样点由于水深和氢氧稳定同位素富集程度存在差异，使得不同采样点氢氧稳定同位素的分馏程度存在差异；比如DL-12采样点 $\Delta \mathfrak { d } \mathfrak { d } _ { \mathfrak { d } \mathfrak { k } - \mathcal { K } }$ （冰体氢同位素值-水体氢同位素值)为 $1 4 . 0 8 \% o$ ， $\Delta \delta ^ { 1 8 } 0 _ { \it \Psi \mathrm { y k - 7 k } }$ （冰体氧同位素值-水体氧同位素值)为 $1 . 9 3 \% o$ ,而DL-6采样点 $\Delta \ S \mathrm { D _ { \it { v k } - \mathcal { K } } }$ 为 $9 . 0 2 \% o$ ， $\Delta \delta ^ { 1 8 } \mathrm { O _ { \it { v } \mathrm { k - \it { \cdot } \mathrm { k } } } }$ 为 $0 . 5 8 \% o$ 。但总体上表现出相同的变化特征，即冰体中8D、 $\mathbf { 8 ^ { 1 8 } O }$ 较水体中富集。
+
+比较冰封期和非冰封期达里湖湖水及冰体样品，发现冰封期冰体样品中氢氧稳定同位素最为富集。同时冰封期与非冰期水体样品相比，冰封期水体样品氢氧稳定同位素组成与非冰封期中6月湖水样品组成最为接近，7月和8月湖水样品氢氧稳定同位素组成相对贫化。
+
+比较不同月份达里湖补给水体同位素组成，发现达里湖7月大气降水中8D、 $\mathfrak { F } ^ { 1 \mathrm { { 8 } } } \mathrm { O }$ 最为偏负，同时7月大气降水量最大，显示出一定的大气降水稀释效应；河流8D、 $\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~ ‰ ~ } }$ 组成呈现出和湖水相似的变化特征，从6—8月其水体8D、 $\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~ ‰ ~ } }$ 表现出明显的递减趋势（图3)；地下水水体8D、 $\mathbb { . 8 ^ { 1 8 } }$ 组成随时间的变化要相对复杂，其规律有待进一步研究。
+
+![](images/ccb3fb2f8575f39f6832e1c327c487eaf8aa7e5d0b899abac1ef3683c702db4d.jpg)  
+图2达里湖各采样点夏季、冬季水体中氢氧同位素组成时空变化特征
+
+总体来看，达里湖流域湖水8D、 $\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~ ‰ ~ } }$ 比其补给水源明显偏正，表明湖水受到了强烈的蒸发作用的影响;当然，由于7月份大气降水的集中补给，湖水8D、 $\mathfrak { \delta } ^ { 1 8 } \mathrm { O }$ 值变化又显示出受到大气降水稀释过程的影响。此外，达里湖流域大气降水8D、 $8 ^ { 1 8 } 0$ 要比绝大部分地下水和河水偏正，显示其并非达里湖流域河水和地下水的主要补给来源。
+
+# 2.2水体氢氧同位素组成关系
+
+通过对达里湖流域大气降水样品中 $8 ^ { 1 8 } \mathrm { O - } 8 \mathrm { D }$ 关系的拟合，建立当地大气降水线，对达里湖流域河流、地下水样品中 $8 ^ { 1 8 } \mathrm { O } { - } 8 \mathrm { D }$ 关系拟合，建立当地蒸发线；发现大部分地下水和河水样品中的 $8 ^ { 1 8 } 0 . 8 \mathrm { D }$ 值落在全球大气降水线(GMWL)的下方，少部分河水落在全球大气降水线右下方(图4)，主要由于河流受蒸发影响，水体同位素富集造成；特别是湖水 $\mathbf { 8 ^ { 1 8 } O }$ ）8D值全部落在全球大气降水线的右下方、流域蒸发线右上方，且分布集中，显示 $\mathbf { \delta } ^ { 1 8 } \mathbf { 0 } \mathbf { , 8 D }$ 值的变化范围相对较小；河水 $\delta ^ { \mathrm { 1 8 } } \mathrm { O } , \delta \mathrm { D }$ 值则分布于全球大气降水线左下方，值更加偏负，显示湖水受到蒸发分馏作用要比河水大得多。显然，冰封期和非冰封期湖泊水体的蒸发程度存在差异；夏季湖水样品中7月和8月关系点落在了当地大气降水线和流域蒸发线之间，显示7月和8月湖水样品明显受到了降水的影响，使其氢氧稳定同位素组成贫化；冬季湖水样品及冰体样品 $8 ^ { 1 8 } \mathrm { O } { - } 8 \mathrm { D }$ 关系点落在流域蒸发线右上方，显示8月以后，随着达里湖流域降水量的急剧减小，同时湖区蒸发强烈，使得湖水氢氧稳定同位素不断富集，蒸发作用对湖泊水体同位素偏移产生明显影响。当降水受到蒸发时，剩余水体将沿着蒸发线分布，同时降水在入渗过程中，水体中 $\delta ^ { 1 8 } \mathrm { O } , \delta \mathrm { D }$ 均会因蒸发作用和水岩相互作用而富集，如果地下水来源于当地降水，地下水 $8 ^ { 1 8 } \mathrm { O } { - } 8 \mathrm { D }$ 关系点将落在当地大气降水线上或下方;达里湖流域大部分河水和地下水 $8 ^ { 1 8 } \mathrm { O } { - } 8 \mathrm { D }$ 关系点落在了当地大气降水线的上方，仅有少数 $8 ^ { 1 8 } \mathrm { O } { - } 8 \mathrm { D }$ 关系点落在当地大气降水线上或大气降水线下方，同时大气降水加权平均值比地下水和河水明显富集，表明当地大气降水并非其主要补给来源。
+
+![](images/44b25b7dbe7be6c71d4de0623e5dfea04e0f839885361df51114a24b9e95db5d.jpg)  
+Fig.2 Temporal and spatial variation characteristics of SD and $\delta ^ { 1 8 } \mathrm { O }$ in the water body of Dali Lake in summer and winte   
+图3达里湖补给水体中氢氧同位素组成时空变化特征  
+Fig.3Temporal and spatial variation characteristics of SD and $\delta ^ { \mathrm { 1 8 } } \mathrm { O }$ in recharge water of Dali Lake
+
+![](images/3f1360c98c0c6e93d0e439136a8eec4d67dfe0af0bf91bdf4773d0d76905d1dc.jpg)  
+图4达里湖湖水、河水和地下水 $ { 8 ^ { 1 8 } } \mathrm { O }  { - }  { 8 \mathrm { D } }$ 的关系 Fig.4 The cross-plot of $\delta ^ { 1 8 } \mathrm { O }$ and δD from water ofDaliLake basin
+
+# 3讨论
+
+# 3.1达里湖蒸发量和补给量计算
+
+达里湖流域补排关系研究表明周边地下水和河水对湖水进行补给，且存在一定区域差异[13.15],同时流域地下水和河水并非仅来源于当地大气降水。因此，在对达里湖流域水文过程定性分析的基础上，有必要量化不同补给水体对湖泊水体的作用差异，确定湖泊水量平衡的主要控制因素
+
+达里湖水体稳定同位素值年际变异性很小，混合较为均匀[16]，且湖面面积变率较小，3S反演结果显示2012—2016年达里湖面积约 $1 8 9 ~ \mathrm { k m } ^ { 2 }$ ，年变化率在 $1 \%$ 左右[26],水体体积保持相对稳定;满足稳定同位素质量平衡法的适用条件，故可以应用氢氧稳定同位素方法推求达里湖湖水蒸发量和地下水补给量。在氢氧稳定同位素方法应用中，动力分馏系数的不确定性相对较大[27]，同时在对蒸发同位素组成的推求过程中，与氧同位素相比，氢同位素对动力分馏系数的敏感性较小[28-29],因此本文选取氢同位素进行水量平衡计算。
+
+根据达里湖2018年降水量约为 $2 5 3 ~ \mathrm { m m }$ ,蒸发量约为 $1 4 3 7 ~ \mathrm { m m }$ （水文站 $2 0 ~ \mathrm { m m }$ 蒸发皿),河流入湖量为 $0 . 5 6 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ，可换算为单位面积入湖量297$\mathbf { m } \mathbf { m }$ ;将各项系数代入公式(7)中，可得达里湖单位面积年蒸发量为 $1 4 2 2 ~ \mathrm { m m }$ ,换算为 $2 . 6 9 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ 。与湖泊实测蒸发量 $1 4 3 7 \mathrm { m m }$ 相差 $1 5 ~ \mathrm { m m }$ （核算相对误差约 $1 \%$ ),因此利用氢氧同位素质量平衡方法估算达里湖蒸发量是可行的。同时计算得出地下水补给量约为 $8 7 2 ~ \mathrm { m m }$ ,可换算为 $1 . 6 5 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ ,说明达里湖补给主要来源于地下水。
+
+# 3.2水体氢氧稳定同位素组成与剩余水体间关系
+
+达里湖虽受到地下水、河水和大气降水的补给[13-15],且水体同位素组成受到了当地大气降水的影响，但是其部分地下水和河水并非来源于当地大气降水(图4)。一般认为受蒸发水体氢氧稳定同位素的初始组成由氢氧稳定同位素确定的当地降水线和蒸发线的交点，可得初始水体氢同位素组成 $\delta _ { \mathrm { 0 } }$ 为 $- 8 0 . 5 8 \% o$ ，而实测地下水氢同位素最小值为$- 9 0 . 6 5 \%$ ，假定该值为未受蒸发作用的地下水氢同位素组成，不同的氢同位素初始值必然对湖泊水体的受蒸发程度估计产生影响。根据不同的初始水体稳定同位素组成建立蒸发分馏过程中剩余水体中8D随剩余水体比例变化的模拟线及相应水体氢同位素值在该模拟线上落点，可以估计水体的受蒸发程度。
+
+当假定当地大气降水是其水体的主要来源时，湖泊剩余水体约在 $0 . 6 0 { \sim } 0 . 6 4$ 之间,湖水损失量约占初始水体的 $3 6 \% { \sim } 4 0 \%$ ；而绝大部分河水的受蒸发程度要小于零，说明当地大气降水可能并非其主要补给来源。取当地地下水同位素最小值作为其初始水体同位素组成时，湖水剩余水体约为初始水体的0.54\~0.59，即湖水损失量约为初始水体的 $41 \% \sim 4 6 \%$ (图5a);但是湖水同位素组成明显受到当地大气降水的影响，因此，该方法计算出的水体损失量可能要比实际偏大；同时地下水是达里湖主要补给来源，那么达里湖湖水蒸发损失量约为初始水体的
+
+$41 \% \sim 4 6 \%$ 相对可靠。就夏季不同月份湖水蒸发强度而言，6月蒸发强度最大，7月和8月蒸发强度相对小(图5b)，体现夏季大气降水对湖泊水体的稀释作用[14]。
+
+# 3.3达里湖流域地下水与河水补给关系分析
+
+达里湖补给水体同位素特征显示河水受到了大气降水的影响，但其氢氧稳定同位素值较大气降水偏负，指示大气降水并非其主要补给来源；同时与地下水相比，河水稳定同位素值与之相近，指示河水与地下水可能存在相互转换关系(图4)。达里湖流域河水和地下水主要受岩石风化作用控制，大
+
+注：实心形状表示均值。
+
+![](images/e9515e44e0613a3a3a44df9f3742db55ddc4565be816aa7a599b52473db36bbf.jpg)  
+图5达里湖水体8D特征与剩余水体比例的关系  
+Fig.5The relationship between SD and the residual water mass in Dali Lake
+
+气降水的输入作用十分微弱[30]，同样指示河水受到了地下水的补给。当已知河水、地下水和大气降水稳定同位素值时，可以利用同位素混合模型推求来源于地下水的河水比例。
+
+就不同河流补给量来看，贡格尔河补给量占河流补给总量的 $6 3 \%$ ，亮子河补给量占 $2 2 \%$ ,其余两条河流补给量仅占 $1 5 \%$ ,故贡格尔河和亮子河是达里湖主要河流补给来源。对贡格尔河和亮子河进行补给来源分析，可以确定地下水对河水补给的影响。将达里湖地下水所测最小值作为流域地下水氢氧稳定同位素组成，大气降水加权平均值作为降水同位素组成，河水同位素组成取多次采样平均值，利用同位素混合模型即可计算出不同月份各河流来源于地下水的比例。分别利用8D和 ${ \mathfrak { F } } ^ { 1 8 } \mathrm { O }$ 进行河水补给比例计算，结果表明贡格尔河水中地下水占比在 $7 0 \% { \sim } 8 7 \%$ ，亮子河占比约在 $6 8 \% { \sim } 8 1 \%$ ；总体上，地下水约占河水补给来源的 $6 8 \%$ 以上，是河水的重要补给来源。达里湖地下水补给量约为 $1 . 6 5 \times$ $1 0 ^ { 8 } \mathrm m ^ { 3 }$ ，占湖泊总补给量的 $6 1 \%$ ；如果考虑到地下水对河水的补给作用，河水占达里湖补给量的 $2 1 \%$ ，那么地下水对达里湖的水量平衡更为重要。
+
+# 4结论
+
+(1）达里湖流域夏季各水体不同程度上受到了降水过程的影响，其氢氧稳定同位素组成在时间和空间上存在明显差异；夏季湖泊水体氢氧稳定同位素值不断减小，入湖河水也表现出相似的变化趋势，地下水同位素组成变化不明显。冬季结冰过程使得氢氧稳定同位素在冰体中富集。根据氢氧稳定同位素在不同水体中 $8 ^ { 1 8 } \mathrm { O } { - } 8 \mathrm { D }$ 关系特征，达里湖湖水水体受到的蒸发作用最大，当地大气降水可能并非其地下水的主要补给来源。
+
+(2）在对达里湖水文过程定性分析的基础上，利用稳定同位素质量平衡方法对达里湖蒸发量进行定量计算，显示其2018年蒸发量约为 $1 4 2 2 ~ \mathrm { m m }$ 地下水是达里湖的主要补给水源，其补给量约占总补给量的 $6 1 \%$ 。
+
+（3）考虑湖水主要补给来源的结果显示达里湖湖水剩余水体约为初始水体的 $0 . 4 1 \mathrm { \sim } 0 . 4 6$ ,这一结果相对较为可靠。利用湖泊水体氢氧稳定同位素组成与剩余水体比例关系来计算水体蒸发损失量可能是评估水体受蒸发程度的有效方法。
+
+# 参考文献(References):
+
+[1]LiQY, Zhao W Z,Fang H Y.Effects of sand burial depth and seed mass on seedling emergence and growth of Nitraria sphaerocarpa[J]. Plant Ecology,2006,185(2): 191-198.   
+[2]Dincer T.The use of oxygen 18 and deuterium concentrations in the water balance of lakes[J].Water Resources Research,1968,4 (6): 1289-1306.   
+[3] Wang W,Xiao W, Cao C,eta1. Temporal and spatial variations in radiation and energy balance across a large freshwater lake in China[J]. Journal of Hydrology,2014,511: 811-824.   
+[4]Gibson JJ,Edwards TWD,Bursey G G,et al.Estimating evaporation using stable isotopes: Quantitative results and sensitivity analysis for two catchments in northern Canada[J].Hydrology Research,1993,24: 79-94.   
+[5]Seal R R. Stable-isotope geochemistry of mine waters and related solids[J].Environmental Aspects of Mine Wastes,2003,31(1): 303-334.   
+[6]高宏斌,李畅游,孙标,等.呼伦湖流域氢氧稳定同位素特征及 其对水体蒸发的指示作用[J].湖泊科学,2018,30(1):211-219. [Gao Hongbin,Li Changyou, Sun Biao,et al. Characteristics of hydrogen and oxygen stable isotopes in Lake Hulun Basin and its indicative function in evaporation[J]. Journal of Lake Sciences, 2018,30(1): 211-219.]   
+[7]肖薇,符靖茹,王伟,等.用稳定同位素方法估算大型浅水湖泊 蒸发量—以太湖为例[J].湖泊科学,2017,29(4):1009-1017. [Xiao Wei,Fu Jingru,Wang Wei,et al.Estimating evaporation over a large and shallow lake using stable isotopic method: A case study of Lake Taihu[J]. Journal of Lake Sciences,2O17,29(4): 1009-1017.]   
+[8]Gat JR, Shemesh A,Tziperman E,et a1. The stable isotope composition of waters of the eastern Mediterranean Sea[J]. Journal of Geophysical Research,1996,101(C3): 6441-6451.   
+[9]包为民,胡海英,瞿思敏,等.稳定同位素方法在湖泊水量平衡 研究中的应用[J].人民黄河,2007,29(8):29-30,80.[Bao Weiming,Hu Haiying,Qu Simin,et al.Application of stable isotope method to the water balance of lakes[J]. Yellow River,2007,29(8): 29-30, 80.]   
+[10] 张奇,刘元波,姚静,等.我国湖泊水文学研究进展与展望[J].湖 泊科学,2020,32(5):1360-1379. [ZhangQi,Liu Yuanbo,Yao Jing,et al.Lake hydrology in China: Advances and prospects[J]. Journal of Lake Sciences,2020,32(5): 1360-1379.]   
+[11] 冯盛楠,刘兴起,李华淑.中国西部湖泊水体δD 与 $8 ^ { 1 8 } 0$ 的空间 变化特征及其影响因素[J].湖泊科学,2020,32(4):1199-1211. [Feng Shengnan,Liu Xingqi, Li Huashu. Spatial variations of δD and $\mathrm { 8 ^ { 1 8 } O }$ in lake water of western China and their controlling factors[J]. Journal of Lake Sciences,2020,32(4): 1199-1211.]   
+[12] 陈建生,季弼宸,刘震,等.内蒙古高原岱海接受远程深循环地 下水补给的环境同位素及水化学证据[J].湖泊科学,2013,25 (4): 521-530.[ Chen Jiansheng,Ji Bichen,Liu Zheng,et al.Isotopic and hydro-chemical evidene on the origin of groundwater through deep-circulation ways in Lake Daihai region,Inner Mongolia Pla teau[J]. Journal of Lake Sciences,2013,25(4): 521-530.]   
+[13] 甄志磊,李畅游,李文宝,等.内蒙古达里诺尔湖流域地表水和 地下水环境同位素特征及补给关系[J].湖泊科学,2014,26(6): 916-922.[Zhen Zhilei,Li Changyou,Li Wenbao,et al. Characteristics of environmental isotopes of surface water and groundwater and their recharge relationships in Lake Dali basin[J]. Journal of Lake Sciences,2014, 26(6): 916-922.]   
+[14] 李文宝,刘志娇,杨旭,等.内蒙古高原达里诺尔湖夏季水体稳 定同位素变化特征[J].湖泊科学,2019,31(2):539-550.[Li Wenbao,Liu Zhijiao,Yang Xu,etal.Changes of stable oxygen and hydrogen isotopes in summer Dali-nor Lake in Inner Mongolia of Northern China[J]. Journal of Lake Sciences,2019,31(2): 539- 550.]   
+[15] 李文宝,杜蕾,王旭阳,等.内蒙古达里诺尔湖水体稳定同位素 空间分布特征指示的区域补给差异[J].湖泊科学,2019,31(5): 1334-1343.[Li Wenbao,Du Lei, Wang Xuyang,et al. Regional groundwater recharges based on the characteristics of stable isotope distribution in Dali-nor Lake in Inner Mongolia[J].Journal of Lake Sciences,2019,31(5): 1334-1343.]   
+[16] 杜蕾,李畅游,李文宝,等.达里诺尔湖水中氢、氧稳定同位素组 成的空间变化特征及影响因素[J].湿地科学,2019,17(2):215- 221.[Du Lei,Li Changyou,Li Wenbao,et al. Spatial variation characteristics of composition of hydrogen and oxygen stable isotopes in water of Dalinor Lake and their influencing factors[J]. Wetland Science,2019,17(2): 215-221.]   
+[17] Gibson JJ, Edwards T.Regional water balance trends and evaporation-transpiration partitioning from a stable isotope survey of lakes in northern Canada[J]. Global Biogeochemical Cycles,2O02,16: 1026.   
+[18]Dnsgaarg W.The abundance of $^ { 1 8 } \mathrm { O }$ in atmospheric water and water vapor[J]. Tellus,1953,5(4): 461-469.   
+[19]Craig H. Isotopic variations in meteoric waters[J]. Science,1961, 133:1702-170.   
+[20] Craig H,Gordon L.Deuterium and oxygen-18 in the ocean and marine atmosphere[J]. Symposium on Marine Geochemistry,1965,9: 277-374.   
+[21]Horita J,Wesolowskiw D.Liquid-vapour fractionation of oxygen and hydrogen isotopes of water from the freezing to the critical temperature[J].Geochim Et Cosmochim Acta,1994,58,3425-3437.   
+[22]Majoube M.Fractionnement en oxygene-18 et en deuterium entre I'eau et savapour[J]. Journal de Chimie Physique et de PhysicoChimie Biologique,1971,68:1423-1436.   
+[23]Horita J,Rozanski K,Cohen S. Isotope effects in the evaporation of water: Astatus report of the Craig-Gordon model[J]. Isotopes in Environmental & Health Studies,2008,44(1),23-49.   
+[24]Jacob H, Sonnta C.An $^ { 8 - }$ year record of the seasonal variation of $^ { 2 } \mathrm { H }$ and $^ { 1 8 } \mathrm { O }$ in atmospheric water vapour and precipitation at Heidelberg[J]. Tellus,1991,43(3),291-300.   
+[25]聂振龙,陈宗宇，申建梅,等.应用环境同位素方法研究黑河源 区水文循环特征[J].地理与地理信息科学,2005,21(1):104- 108.[Nie Zhenlong,Chen Zongyu,Shen Jianmei,et al. Environmental isotopes as tracers of hydrological cycle in the recharge area of the Heihe River[J].Geography and Geo-Information Science, 2005,21(1): 104-108.]   
+[26]王旭阳.基于3S技术的达里诺尔湖水深反演研究[D].呼和浩 特:内蒙古农业大学,2017.[Wang Xuyang.Research on the Water Depth Retrieval of Dali lake Based on 3S Technology[D]. Hohhot: Inner Mongolia Agricultural University,2017.]   
+[27] Xiao W,Lee XH,Hu Y B,et al.An experimental investigation of kinetic fractionation of open- water evaporation over a large lake [J].Journal of Geophysical Research,2017,122(21):11651- 11663.   
+[28] 谢成玉,肖薇,徐敬争,等.氢和氧稳定同位素示踪湖泊蒸发的 对比研究[J].海洋与湖沼,2019,50(1):74-85.[Xie Chengyu, Xiao Wei,Xu Jingzheng,et al. Comparison of using hydrogen and oxygen Isotopes in tracing water evaporation in Taihu lake[J]. Oceanologia et Limnologia Sinica,2019,50(1): 74-85.]   
+[29]Xiao W,Wen X,Wang W,et al. Spatial distribution and temporal variability of stable water isotopes in a large and shallow lake[J]. Isotopes in Environmental & Health Studies,2016,52(4-5): 443- 454.   
+[30] 赵胜男,史小红,崔英,等.内蒙古达里诺尔湖湖泊水体与入湖 河水水化学特征及控制因素[J].环境化学,2016,35(9):1865- 1875.[Zhao Shengnan, Shi Xiaohong,Cui Ying,et al. Hydrochemical properties and controlling factors of the Dali Lake and its inflow river water in Inner Mongolia[J]. Environmental Chemistry, 2016,35(9): 1865-1875.]
+
+# Indication of hydrogen and oxygen stable isotopes in Dali Lake for evaporation and replenishment sources
+
+GUO Xin， LI Wenbao， SUN Biao (Key Laboratory of Water Resources Protection and Utilization,Inner Mongolia Agricultural University,Hohhot O1OO18,Inner Mongolia, China)
+
+Abstract: The goal of this study was to study the applicability of the stable isotope mass balance method in the calculation of the water balance of Dali Lake in the Inner Mongolia Plateau.The water bodies of the Dali basin were collected three times in the summer of 2O18,and surface water and ice samples were collcted from the lakes during the winter. The stable hydrogen and oxygen isotopes (δD, $\delta ^ { 1 8 } \mathrm { O }$ ） were tested in the different water samples.Then,the stable isotope massbalance method was used to calculate water evaporation and recharge from Dali Lake,and SD was used to analyze the source of water evaporation and recharge.The results showed thatthe stable isotopic spatial variabilityofhydrogen and oxygen in the Dali Lake water body was low,and the rate of enrichment of the water body continued to decrease in summer,which was mainly affected by the precipitation proces.During winter, stable hydrogen and oxygen isotopes were enriched in the ice,which is mainly affected by the freezing process.The groundwater was hardly afected by the local atmospheric precipitation. The $ { 8 ^ { 1 8 } }  { \mathrm { O } } -  { 8 \mathrm { D } }$ relation point of Dali Lake falls to the lower right of the local evaporation line, indicating that the lake region has the highest evaporation. Part of the $\delta ^ { \mathrm { 1 8 } } \mathrm { O - } \delta \mathrm { D }$ river- groundwater relationship point fals above the local atmospheric precipitation line,suggesting that the local atmospheric precipitation may not be the primary source of groundwater replenishment.The water of Dali Lake is uniformly mixed, with SD, $\delta ^ { \mathrm { 1 8 } } \mathrm { O }$ and the volume of lake water remaining relatively stable, which satisfies the applicable conditions of the stable isotope mass balance method.The stable isotope mass balance method was used to estimate the evaporation and recharge of groundwater from Dali Lake on an annual basis.The evaporation volume was about 269 million $\mathrm { m } ^ { 3 }$ ， and the annual groundwater recharge was about 165 million $\mathrm { m } ^ { 3 }$ . The groundwater supply accounts for about $61 \%$ of the total supplyof Dali Lake and is its main supply source.Using the relationship between SDand the residual water mass in the process of stable isotopic fractionation of the water mass,and taking into account the dynamic fraction and the initial isotopic composition of the water mass,the loss by evaporation of Dali Lake was calculated to be about $41 \% - 4 6 \%$ of the initial water body. These results indicate that groundwater is an important source of recharge for river water.
+
+Keywords: stable isotope of hydrogen and oxygen; evaporation; replenishment; Dali Lake

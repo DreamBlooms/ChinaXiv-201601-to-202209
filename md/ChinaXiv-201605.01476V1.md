@@ -1,0 +1,188 @@
+# Oxidovanadium(IV) sulfate-induced glucose uptake in HepG2 cells through IR/Akt pathway and hydroxyl radicals
+
+Qian Zhao a, Deliang Chena, Pingsheng Liub, Taotao Wei b, Fang Zhanga\*, Wenjun Ding a,\*\*
+
+Lboratoryoid bNationalbtcooleleseodeestd
+
+# ARTICLE INFO
+
+Article history:   
+Received 24 October 2014   
+Received inrevised form7May 2015   
+Accepted 8 May 2015   
+Available online 15May 2015
+
+Keywords:   
+Oxidovanadium(IV) sulfate   
+ROS   
+Glucose uptake   
+IR/Akt   
+HepG2 cells
+
+# ABSTRACT
+
+The insulin-mimetic and anti-diabetic properties ofvanadium and related compounds have been welldocumentedbothin vitro and in vivo.However,the molecularbasis of the link between vanadium and the insulin signaling pathway in diabetes melitus is notfully described.We investigated the effects ofreactive oxygen species (ROS) induced by oxidovanadium(IV) sulfate $\mathrm { ( V O S O _ { 4 } ) }$ on glucose uptake and the insulin signaling pathway in human hepatoma cell line HepG2.Exposure of cells to $\mathsf { V O S O } _ { 4 } ( 5 { - } 5 0 \mu \mathrm { M } )$ resulted in an increase in glucose uptake,insulin receptor(IR)and protein kinase B(Akt)phosphorylation and intracellular ROS generation. Using Western blot, we found that catalase and sodium formate,but not superoxide dismutase,prevented the increase of hydroxyl radical（·OH) generation and significantly decreased $\mathrm { V O S O _ { 4 } } .$ -induced IR and Akt phosphorylation.These results suggest that $\mathrm { \Delta V O S O _ { 4 } }$ -induced ·OHradical,which is a signaling species,promotes glucose uptake via the IR/Akt signaling pathway.
+
+$\circledcirc$ 2015 Elsevier Inc.All rights reserved.
+
+# 1. Introduction
+
+In vitro and invivo studies have been demonstrated that vanadium compounds can improve glucose homeostasis and insulin resistance with their insulin-mimetic and anti-diabetic properties in type 1and type 2 diabetes mellitus [1-4]. Vanadiumand its compounds stimulate glucose transport and oxidation [5-7],and glycogen synthesis [8,9]. Moreover,some vanadium compounds have been previously documented to have insulin-like effects in streptozotocin (STZ)-diabetic rats[1o].Vanadium is known to accumulate in rat liver,an organ with many diabetes altered metabolic processes through the insulin signaling pathway[11,12].In our previous studies,we also found that oral administration vanadium complexes enhance the glycogen synthesis and inhibit the gluconeogenesis by down-regulating the mRNA expression of phosphoenolpyruvate carboxykinase（PEPCK) in the liver of streptozotocin-induced diabetic rats [13,14].However, the exactmechanism of the anti-diabetic activity of vanadium is not fully understood.
+
+Several studies have demonstrated that V compounds with various oxidation states have different anti-diabetic effects [15-17]. The main oxidation states of vanadium under oxic conditions are $\mathrm { V } ^ { \mathrm { I V } } 0 ^ { 2 + }$ and $\nabla ^ { \vee } 0 ^ { 3 - }$ [18]. In the various body fluids and cellular compartments,the predominant species of vanadium well be vanadate(V).Vanadate(V) may enter cells byananion transport system and be subsequently reduced by glutathione to oxidovanadium(IV) [18, 19].Vanadate(V) and oxidovanadium(IV) sulfate $( \mathsf { V O S O } _ { 4 } )$ )are themain inorganic vanadium species relevant to intracellular function [10], which is likely to center on the regulation of reactive oxygen species (ROS) production and redox signaling[2O].Thus,interactions of vanadium compounds with cellular oxidation-reduction processes are important event in the anti-diabetic action of vanadium compounds [15]. Superoxide radicals $( 0 _ { 2 } ^ { \bullet - } )$ ,hydrogen peroxide $\left( \mathrm { H } _ { 2 } \mathrm { O } _ { 2 } \right)$ and hydroxyl radicals（·OH) are ubiquitous,highly reactive,short-lived product of oxygen metabolism that react with surrounding molecules at the site of formation [21].Despite their potential for cytotoxicity,low levels of ROS are essential for the regulation of many biological functions and several biochemical processes,including intracellular messagingand cellular differentiation [22,23]. Recent studies have found that mitochondrial-derived ROS regulate protein tyrosine phosphatase (PTPase) oxidation,influencing growth factors signaling[24].Hydroxyl radicals generated in vivo can act as physiological oxidizingagents for PTPase inactivation [25].In addition,the serine/threonine kinase Akt occupies a central position in insulin signaling in that it is involved in stimulation of glucose uptake by insulin target cells [25-27]. It has beendemonstrated that Akt isactivated ina phosphatidylinositol 3- kinase (PI3K)-dependent manner by ROS and transition metal ions, such as $\mathtt { C u ( I I ) }$ $Z \mathrm { n } ( \mathrm { I I } )$ and Ni(II) [26]. Regarding the signal-stimulating effects of ROS,redox-active transition metal ions capable of generating ROS in cells have been reported to stimulate Akt [28].However,it remains unclear whether an activation of Akt signaling by exposure of the insulin-sensitive cells to vanadium-induced ROs,be capable of eliciting the effects similar to those described above.
+
+It has been demonstrated that oxidovanadium(IV) ions act peripherally,and that they rather than vanadate species are responsible for the insulin-like effects of vanadium[3].Therefore,the aim of this study wasto investigate the capability of $\mathrm { \Delta V O S O _ { 4 } }$ stimulates Aktactivity in cultured HepG2 cells,and to elucidate whether $\mathrm { \Delta V O S O _ { 4 } }$ -induced Aktactivation and glucose uptake are dependent of the formation of ROS.
+
+# 2.Materials and methods
+
+# 2.1. Reagents
+
+$\mathsf { V O S O } _ { 4 } { \cdot } 3 . 5 \mathsf { H } _ { 2 } 0$ was purchased from Aldrich Chemical Company (Milwaukee,WI,USA).Anti-phospho-Ser473 Akt,anti-Akt,antiphospho-Tyr974IR,anti-IRand anti- $\cdot \mathrm { \beta }$ -actinantibodies were purchased from Cell Signaling Technologies (Beverly,MA,USA).Fetal bovine serum was purchased from Hyclone (UT,USA).Dulbecco's modified Eagle's medium (DMEM) was obtained from Invitrogen (CA,USA). ${ } ^ { 2 ^ { \prime } , 7 ^ { \prime } }$ -dichlorodihydrofluorescein diacetate (DCFH-DA), $\beta$ -nicotinamide adenine dinucleotide phosphate salt (NADPH),diphenylene iodonium (DPI),rotenone,catalase（CAT, $5 0 , 0 0 0 \mathrm { U / m g } \mathrm { \cdot }$ ),superoxide dismutase (SOD, $3 0 0 0 \mathrm { U / m g } ,$ ),and sodium formate were purchased from Sigma Chemical Co.(St.Louis,MO,USA).HEPES was purchased from Amresco Chemical Co.(OH,USA).Skim milk powder was obtained from BD（MD, USA).Enhanced chemiluminescence detection (ECL) reagent and ultrapure water system were obtained from Millipore(MA, USA).5,5-Dimethyl-1-pyrroline-N-oxide（DMPO）was purchased from Dojindo Molecular Technologies (Kumamoto-ken, Japan).D-[U- $^ { 1 4 } { \mathsf { C } }$ lglucose was purchased from PerkinElmer Life Sciences (Mississauga, Ontario, Canada).24-well plates and cell culture dishes were obtained from Costar Cambridge (MA,USA).
+
+# 2.2. Cell culture
+
+Human hepatocellular carcinoma（HepG2）cells were purchased from American Type Culture Collection(ATCC,Rockville,MD,USA), and were cultured in DMEM supplemented with $4 . 5 \ \mathrm { g } / 1$ glucose, $1 0 \%$ fetal bovine serum,1oo units/ml penicillin,and $1 0 0 \mu \mathrm { g / m l }$ streptomycin at $3 7 ^ { \circ } \mathrm { C }$ in $5 \% \mathrm { C O } _ { 2 }$ .All cell experiments were performed at 80 to $90 \%$ of cell confluence with viability $2 9 0 \%$ determined by the trypan blue staining. Cells were then harvested using $0 . 2 5 \%$ trypsin and subcultured into $6 0 \mathrm { - m m }$ culture dishes or 24-well plates according to selection of experiments.
+
+# 2.3.Determination of glucose uptake
+
+Glucose uptake assay were carried out according to the method of Tardif et al.[29] with modifications.In brief,on the day of the study, HepG2 cells were washed with $2 ~ \mathrm { m l }$ KRPHbuffer（5mM ${ \tt N a } _ { 2 } { \mathrm { H P O } } _ { 4 }$ $2 0 ~ \mathrm { m M }$ HEPES, $1 \ \mathrm { m M \ M g { S O _ { 4 } } }$ $1 \mathrm { \ m M } \mathrm { \ C a C l _ { 2 } }$ 5 $1 3 6 ~ \mathrm { m M }$ NaCl, $4 . 7 \ \mathrm { m M }$ KCl, and $0 . 2 \%$ BSA,pH7.4).The cellswere treated with 5,10,25 or $5 0 \mu \mathrm { M } \lor 0 5 0 _ { 4 }$ for $3 0 ~ \mathrm { { m i n } }$ ,and then $1 \mu \mathrm { C i }$ of D-[U- $^ { 1 4 } { \mathsf { C } }$ lglucosewas added to each well for $1 0 \mathrm { m i n }$ .Glucose uptake was stopped by rising 3 times with ice-cold PBS.The cells were solubilized with $1 \%$ SDS at $3 7 ^ { \circ } \mathrm { C }$ for $1 0 \mathrm { m i n }$ ,and cell-associated radioactivitywas analyzed by scintillation counting（1450 MicroBeta TriLux Microplate Scintillation and Luminescence Counter,PerkinElmer）according to the manufacturer's protocol.Glucose uptake was expressed as a fold of control.Nonspecific uptake ( $\leq 1 0 \%$ of the total),determined in the presence of cytochalasin B $( 5 0 \mu \mathrm { M } )$ ,was subtracted from the total uptake [30].
+
+# 2.4.Immunoblot assay
+
+Cellswere plated in $6 0 \mathrm { m m }$ culture dishesand treated with 5,10, 25 and $5 0 \mu \mathrm { M } \lor 0 5 0 _ { 4 }$ .The cells were then lysed in radio immunoprecipitation assay(RIPA) buffer(15O mMNaCl, $1 0 0 \mathrm { m M }$ Tris, $1 \%$ Triton X-100, $1 \%$ deoxycholic acid, $0 . 1 \%$ SDS, $5 \mathrm { m M }$ EDTA,and $1 0 ~ \mathrm { m M }$ NaF, $\mathsf { p H } 8 . 0$ )supplemented with $1 \mathrm { m M }$ phenylmethanesulfonyl fluoride (PMSF)on ice for $1 0 ~ \mathrm { { m i n } }$ .After centrifugationat12,ooo rpm for $1 5 \mathrm { m i n }$ ,the supernatant containing the total cellular protein extract was harvested and stored at $- 7 0 ^ { \circ } C$ prior to use.Total protein extracts were subsequently size-separated by SDS-PAGE,and transferred to a poly(vinylidene fluoride)（PVDF)membrane in $2 0 ~ \mathrm { m M }$ Tris-HCl( $\mathtt { \backslash p H 8 . 0 ) }$ containing $1 5 0 ~ \mathrm { m M }$ glycine and $2 0 \% ( \nu / \nu )$ methanol.The membranes were blocked with $5 \%$ （204 $( m / \nu )$ skim dry milk for $^ { 1 \mathrm { ~ h ~ } }$ The cells were incubated with the primary antibodies diluted (1:100O） against IR and Akt in Tris-buffered saline ( $2 0 ~ \mathrm { m M }$ TrisHCl and $1 5 0 ~ \mathrm { m M }$ NaCl,pH 7.4) containing $0 . 1 \%$ Tween 20 (TBST) overnightat $4 ^ { \circ } C$ and then incubated with the secondaryantibody diluted（1:1ooo）at room temperature for $^ { 1 \mathrm { ~ h ~ } }$ .The membrane was washed with TBST three times for 5 min each.Immunoreactive bands were detected with enhanced chemiluminescence reagents according to the manufacturer's instructions. $\beta$ -Actin wasused as loading controls for the total protein content.
+
+# 2.5.Detection of intracellular reactive oxygen species
+
+DCFH-DA is widely used to detect the generation of ROS and for assessing the overall oxidative stress [31].DCFH-DAas a molecular probe is able to diffuse through the cell membrane and become enzymatically hydrolysed by intracellular esterases to produce nonfluorescent DCFH.The oxidation of DCFH by intracellular ROS,mainly $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ ·OHand other ROS,results in fluorescent DCF,which stains the cells[32].In brief,HepG2 cells were cultured in 24-well plates at a density of $1 \times 1 0 ^ { 5 }$ cells/well. The cells were treated with 5,10,25 and $5 0 ~ \mu \mathrm { M }$ $\mathsf { V O S O } _ { 4 }$ for $3 0 \mathrm { m i n }$ .DCFH-DA(diluted with DMEM medium to final concentration of $1 0 \mu \mathrm { M }$ )was applied to the cells and incubated foranother $3 0 ~ \mathrm { { m i n } }$ at $3 7 ^ { \circ } \mathsf { C }$ .The cells were washed twice with icecold PBS and harvested for measurement of fluorescence intensity. DCF fluorescence intensity of each well was quantified using a fluorescence multi-well plate reader(TriStar LB941,Berthold,Germany) with excitation and emission wavelengths of 485 and $5 3 5 \mathrm { n m }$ ,respectively. Results were measured as mean fluorescence (arbitrary units,AU).
+
+# 2.6.Electron spin resonance (ESR) measurement
+
+ESR trapping technique,using DMPO as the spin trap,Was employed to detect free radical generation.This technique involves the addition-type reaction of a short-lived radicalswitha diamagnetic compound（spin trap） to forma relatively long-lived free radical product(spin adduct),which can be studied using conventional ESR.In this assay,the intensity of the spin adduct signal corresponds to the quantity of short-lived radicals trapped.The hyperfine couplings of the spin adduct are generally characteristic of the original trapped radicals [33].ESR spectra were recorded on a Bruker ESP 300 spectrometer(Bruker,Ettlingen,Germany)and a flatcell assembly [33,34].The reactants were mixed in a test tube in a final volume of $5 0 0 \mu \mathrm { l }$ Hyperfine couplingswere measured(up to O.1 G) directly from the magnetic feld separation using potassium tetraperoxochromate $\left( \mathsf { K } _ { 3 } \mathsf { C r O } _ { 8 } \right)$ and1,1-diphenyl-2-picrylhydrazylasreference standards. HepG2 cells $( 1 \times 1 0 ^ { 7 } )$ ）were mixedwith $1 0 0 ~ \mathrm { { m M } }$ DMPO, $1 \ \mathrm { m M }$ NADPH, $1 \ \mathrm { m M } \ \mathrm { V O S O _ { 4 } }$ ,and different ROS scavengers( $2 0 ~ \mu \mathrm { M }$ DPI, $5 0 \mu \mathrm { M }$ rotenone, $0 . 3 3 \mathrm { m g / m l }$ SOD, $0 . 1 ~ \mathrm { m g / m l }$ CAT,or $3 0 0 \mu \mathrm { M }$ sodium formate).The reaction mixture was then transferred to a flat cell for ESR measurement.
+
+# 2.7.Statistical analysis
+
+All data are presented as mean $\pm$ SEMof at least three independent experiments.Statistical analysis was performed with analysis of variance(ANOvA) for multiple comparisons,followed by a Fisher post hoc test.Avalue of $ { \mathrm { P } } < 0 . 0 5$ was considered as statistically significant.
+
+# 3.Results
+
+# 3.1. $V O S O _ { 4 }$ stimulates glucose uptake
+
+To determine whether $\mathsf { V O S O } _ { 4 }$ could stimulate glucose uptake, HepG2 cells were treated with various concentrations of $\mathsf { V O S O } _ { 4 }$ for $3 0 \mathrm { m i n }$ .As shown in Fig.1,the levels of glucose uptake were induced by $\mathsf { V O S O } _ { 4 }$ ina dose-dependent manner.At 5,10,25 and $5 0 ~ { \mu \mathrm { M } }$ $\mathsf { V O S O } _ { 4 }$ induced a 1.3-,1.6-,1.9-and 1.6-fold stimulation in glucose uptake,respectively.The maximum level of glucose uptake was induced by $2 5 \mu \mathrm { M } \lor 0 5 0 _ { 4 }$ .These results indicate that within the concentration range,5 to $5 0 \mu \mathrm { M }$ of $\mathsf { V O S O } _ { 4 }$ stimulates glucose uptake in HepG2 cells.
+
+# 3.2. $V O S O _ { 4 }$ increases IR/Aktphosphorylation
+
+To further investigate if the observed glucose uptake induced by $\mathsf { V O S O } _ { 4 }$ was related to the insulin signaling pathway in HepG2 cells, the expressions of IR and Akt phosphorylation were measured by Western blot. Cells were incubated with the indicated $\mathrm { \Delta V O S O _ { 4 } }$ concentration for $3 0 \mathrm { m i n }$ The total cellular protein extracts were used to determine levels of phospho-IR for Tyr942 and IR proteinas well as phospho-Akt for Ser473 and Akt proteins using immunoblot assay.As shown in Fig. 2, $\mathsf { V O S O } _ { 4 }$ significantly increased IR and Akt phosphorylation ina dose-dependent manner,whereas it did not alter the IR or Akt protein level.The induction of IR or Akt phosphorylation was maximum by the treatment of $\mathrm { \Delta V O S O _ { 4 } }$ at $2 5 \mu \mathrm { M }$ These results suggest that $\mathrm { \Delta V O S O _ { 4 } }$ induced IR/Akt phosphorylation.
+
+# 3.3. $V O S O _ { 4 }$ increasesROS generation
+
+Previous studies have demonstrated that ROS is involved in vanadium-induced biological activities [33,35]. If glucose uptake is responsible for some of the biological effects caused by vanadium, ROS generation mayalso playa role in $\mathrm { \Delta V O S O _ { 4 } } .$ -induced stimulation in glucose uptake.To test this possibility,the ability of $\mathrm { \Delta V O S O _ { 4 } }$ to generate ROS in HepG2 cells was determined by dye staining and ESR.As shown in Fig.3,in the presence of 25 or $5 0 \mu \mathrm { M } \lor 0 5 0 _ { 4 }$ ROS generation, as measured by increased DCF fluorescence,was increased approximately 1.5-fold in vanadium-treated,compared with untreated control, HepG2 cells.
+
+![](images/c9282581f601018b107b080872e1fa070f34e830b8cff29b677d9937bdc86c63.jpg)  
+Fig.1.Effects of $\mathrm { \Delta V O S O _ { 4 } }$ on glucose uptake in HepG2 cells. HepG2 cells were incubated with media containing 5,10,25 and $5 0 \mu \mathrm { M }$ of $\mathsf { V O S O } _ { 4 }$ for $3 0 \mathrm { m i n }$ and then indicated with KRPH buffer containing $1 \mu \mathrm { C i }$ ofD- $\cdot [ \mathrm { U } ^ { - 1 4 } \mathsf { C } ]$ glucose for 10 min. Glucose uptake was determined in cells.Data are presented as mean $\pm$ SEM of three independent experiments. $\tilde { \mathbf { \rho } } _ { \mathsf { p } } < 0 . 0 5$ $^ { * * } \mathrm { \bf p } < 0 . 0 1$ Vs. the untreated control cells.
+
+![](images/3429aa04948680415be0977c5f5b064f00b47e58173b7bb805bebf064acf0381.jpg)  
+Fig.2.Effects of $\mathsf { V O S O } _ { 4 }$ on phosphorylation of IR and Akt in HepG2 cells. HepG2 cells were treated with 5,10,25 and $5 0 \mu \mathrm { M }$ of $\mathrm { \Delta V O S O _ { 4 } }$ for $3 0 \mathrm { m i n }$ The total cellular protein extracts were prepared and subjected to immunoblot assay with antibodies against phospho-IR (Tyr942) and phospho-Akt (Ser473).The immunoblot signals quantified using Imagej software are shown in the bar graph.The mean densitometry data from three independent experiments (one of which is shown here) were normalized to the result obtained in cells in the absence of $\mathrm { \Delta V O S O _ { 4 } }$ (control).Data are presented as mean $\pm$ SEM of three independent experiments. $\mathbf { \Psi } ^ { * * } \mathbf { p } < 0 . 0 1$ Vs.the untreated control cells.
+
+![](images/bdb40fb3c7b637c9de2c866f96ea7e9f81367c2e96ff8f1971145192e5afb0ac.jpg)  
+Fig.3.Effects of $\mathrm { \Delta V O S O _ { 4 } }$ on ROS generation in HepG2 cells.HepG2 cells were exposed to 5, 10,25 and $5 0 \mu \mathrm { M V O S O } _ { 4 }$ for $3 0 \mathrm { m i n }$ . Intracellular ROS levels were determined by DCFH-DA staining.The fluorescence intensity of DCF was measured by fluorescence plate reader (TriStar LB 941).Data are presented as mean $\pm$ SEM of three independent experiments. $\mathrm { ^ * p } < 0 . 0 5$ $\mathbf { \Psi } ^ { * * } \mathbf { p } < 0 . 0 1$ vs. the untreated control cells. #p $< 0 . 0 5$ VS. $\mathrm { \Delta V O S O _ { 4 } }$ -treated cells.
+
+# 3.4.VOsO4 induces hydroxyl radicals generation
+
+To further confirm whether ·OH radical was induced by $\mathrm { \Delta V O S O _ { 4 } }$ the ability of $\mathsf { V O S O } _ { 4 }$ to generate ·OH radical was detected using an ESR spin trapping method with DMPO as the spin trap.The spectrum consists of a 1:2:2:1 quartet with a splitting of $\mathsf { a } _ { \mathrm { H } } = \mathsf { a } _ { \mathrm { N } } = 1 4 . 9 \ : \mathrm { G }$ where $\mathsf { a } _ { \mathrm { N } }$ and $\mathsf { a } _ { \mathrm { H } }$ denote the hyperfine splitting of the nitroxyl nitrogen and $\alpha$ -hydrogen,respectively. Based on these splittings and the 1:2:2:1 line shape,this spectrum was assigned to the DMPO/·OH adduct,which was evidence of ·OH radical generation.As shown in Fig.4,HepG2 cells alone did not generate any detectable amount of free radicals (Fig.4A-1).However,the cells incubated with $\mathsf { V O S O } _ { 4 }$ generated a typical ESR spectrum(Fig.4A-2).NADPH,a cofactor of certain flavoenzymes such as glutathione reductase,slightly enhanced the generation of the ·OH radical (Fig.4A-3).Neither DPI nor rotenone decreased the signal intensity induced by $\mathrm { V O S O } _ { 4 }$ (Fig.4A-4,5).Addition of SOD,an $\mathrm { O } _ { 2 } ^ { \bullet - }$ radical scavenger,significantly increased the DMPO/· OH adduct signal (Fig.4A-6).However,addition of CAT,a scavenger of $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ ,inhibited ·OH radical generation(Fig.4A-7),indicating that $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ was produced in the $\mathrm { \Delta V O S O _ { 4 } }$ -treated cellsand involved in $\cdot$ OH generation.Addition of sodium formate,an ·OH radical scavenger,decreased the signal intensity(Fig.4A-8),further supporting the ·OH radical generation.These results indicated that ·OH generation by $\mathrm { \Delta V O S O _ { 4 } }$ might be required for its stimulation of glucose uptake.
+
+![](images/ba8b5f113cc6b66b3016d548a653d3440293fb455e5827210b4472d1c0b5f73f.jpg)  
+Fig.4.Effects of antioxidants on $\mathrm { \Delta V O S O _ { 4 } }$ -induced ROS generation in HepG2 cells. HepG2 cells $( 1 \times 1 0 ^ { 7 } )$ were incubated in PBS containing $1 0 0 ~ \mathrm { { m M } }$ DMPO and $1 \mathrm { m M V O S O _ { 4 } }$ with or without antioxidants,DPl,and rotenone ESR spectra were recorded for 5 min.1, HepG2 cells only;2,cells $+ \ V 0 \mathsf { S } 0 _ { 4 }$ 0 $1 \ \mathrm { m M } ;$ ；3,cells+ $\mathrm { { V O S O } _ { 4 } + }$ NADPH(1 mM);4, cells $\mathrm { + ~ \ V o s o _ { 4 } ~ + }$ DPI $( 2 0 ~ \mu \mathrm { M } )$ ；5,cells $^ +$ $\cdot \mathrm { \nabla { V } 0 S 0 _ { 4 } \ + }$ rotenone $( 5 0 ~ \mu \mathrm { M } )$ ；6, cells $+ \ \mathsf { V O S O _ { 4 } } \ + \ \mathsf { S O D }$ 0 $\cdot 1 0 0 0 \ \mathrm { U / m l } )$ ；7,cells $+ \ \mathsf { V O S O } _ { 4 } \ + \ \mathsf { C A T }$ 0 $5 0 0 0 ~ \mathrm { U / m l } )$ ；8, cells $+ \mathrm { V O S O _ { 4 } } +$ sodium formate $( 3 0 0 \mu \mathrm { M } )$ .A,The ESR spectra from a representative experiment. B,Data are presented as mean $\pm$ SEM of three independent experiments (Control $= 1$ ） $^ { * * } \mathrm { p } < 0 . 0 1$ vs. the untreated control cells.#p $< 0 . 0 5$ VS. $\mathrm { \Delta V O S O _ { 4 } }$ -treatedcells.
+
+# 3.5.Requirementof hydroxyl radicals forinductionof glucoseuptake
+
+To further study of the role of ROS in $\mathrm { \Delta V O S O _ { 4 } }$ -stimulated glucose uptake,the effects of various specific antioxidants on glucose uptake in HepG2 cells were determined.As shown in Fig.5,treatment of the cells with $\mathsf { V O S O } _ { 4 }$ increased D-[U- $^ { 1 4 } \mathsf { C l }$ glucose uptake,and addition of CAT and sodium formate significantly decreased glucose uptake.In contrast,treatment of the cells with SOD did not significantly decrease glucose uptake induced by $\mathrm { \Delta V O S O _ { 4 } }$
+
+# 3.6.Involvementof hydroxyl radicals in IR/Akt phosphorylation
+
+To understand whether $\mathrm { \Delta V O S O _ { 4 } }$ -induced ROS generation play a role in $\mathsf { V O S O } _ { 4 } .$ -stimulated glucose uptake through the IR/Akt pathway,the effects of various antioxidants on $\mathrm { \Delta V O S O _ { 4 } }$ -inducedIRand Akt phosphorylation were determined by immunoblot assay.As shown in Fig.6,treatment of the cellswith $2 5 \mu \mathrm { M } \lor 0 5 0 _ { 4 }$ induced IR and Akt phosphorylation.CAT and sodium formate significantly inhibited $\mathrm { \Delta V O S O _ { 4 } }$ -induced IR and Akt phosphorylation.In contrast, treatment of cells with SOD did not inhibit IR and Akt phosphorylation.These results further confirmed that ·OH as a signaling molecular was involved in $\mathrm { \Delta V O S O _ { 4 } }$ -induced IR/Akt phosphorylation.
+
+# 4. Discussion
+
+In this study,we have demonstrated that oxidovanadium(IV) sulfate improves glucose uptake in human hepatoma cell line HepG2. Further, we showed that $\mathrm { V O S O _ { 4 } }$ -induced ·OH radical servesas one of the metabolic signals for glucose uptake.Therefore,we assessed the underlying mechanism of $\mathrm { \Delta V O S O _ { 4 } }$ on glucose uptake. The increase in glucose uptake by $\mathrm { \Delta V O S O _ { 4 } }$ was predominantly mediated by activation of Akt activity. In addition,the IR/Akt is required for induction of central signaling pathway regulating cellular glucose uptake response to ·OH radical generation.
+
+![](images/1729c779fbb067c6fb3393fb5b23f07b0ad1e578ee28b7ed33d0fcb98aa92952.jpg)  
+Fig.5.Effects of antioxidants on $\mathrm { \Delta V O S O _ { 4 } }$ -induced glucose uptake in HepG2 cells. Cells were pretreated with $1 0 0 0 \mathrm { U / m l }$ SOD, $5 0 0 0 \mathrm { U / m l }$ CAT and with $3 0 0 \mu \mathrm { M }$ sodium formate,respectively.Then the cells were treated with $2 5 \mu \mathrm { M } \lor 0 5 0 _ { 4 }$ for $3 0 \mathrm { { m i n } }$ .Glucose uptake in cells was determined. Data are presented as mean $\pm$ SEM of three independent experiments. $^ { * * } \mathrm { \bf p } < 0 . 0 1$ vs. the untreated control cells. ##p $< 0 . 0 1$ Vs. $\mathrm { \Delta V O S O _ { 4 } }$ -treated cells.
+
+![](images/d29ddbcc9a5a6899b919fd80149c649cc88edadfa62b3f3e7b5bc4780ab5b777.jpg)  
+Fig.6. Effects of antioxidants on $\mathrm { \Delta V O S O _ { 4 } }$ -induced IR and Akt phosphorylation in HepG2 cells. Cells were pretreated with $1 0 0 0 \mathrm { U / m l }$ SOD, $5 0 0 0 \mathrm { U / m l }$ CAT and $3 0 0 { \mu \mathrm { M } }$ sodium formate,respectively.Then the cells were incubated with $2 5 ~ { \mu \mathrm { M } }$ （20 $\mathrm { \Delta V O S O _ { 4 } }$ for $3 0 ~ \mathrm { m i n }$ Immunoblotted with phospho-IR(Tyr942)and phospho-Akt(Ser473)antibodies to examine the phosphorylation status and subsequently immunoblotted with the anti-IR and anti-Akt antibodies as loading control.The phosphorylation density of the IR and Akt from replicate quantitated using ImageJ software was shown in the bar graph.The mean densitometry data from three independent experiments (one of which is shown here)were normalized to the result obtained in cells in the absence of $\mathrm { V O S O } _ { 4 }$ (control). Data are presented as mean $\pm \mathsf { S E M }$ of three independent experiments. $\mathfrak { P } ^ { < } 0 . 0 1$ vs. the untreated control cells. ##p $< 0 . 0 1$ VS. $\mathrm { \Delta V O S O _ { 4 } }$ -treated cells.
+
+These data are consistent with the previous reports that vanadium appears to have a profound impact on insulin action through the insulin signaling cascade [12,36-38].
+
+Tardif et al. described that vanadate induces a dose-dependent increase in glucose uptake in cardiomyocytes [39].More recently, Hwang and Chang described that vanadium pentoxide stimulates glucose uptake in L6 myotubes [4O].Similarly,we also observed that $\mathsf { V O S O } _ { 4 }$ significantly increased the levels of glucose uptake in HepG2 cells in a dose-dependent manner (Fig.1),suggesting the insulin signaling pathway activated by $\mathsf { V O S O } _ { 4 }$ treatment leading to enhanced glucose uptake.Activation of this cascade by $\mathsf { V O S O } _ { 4 }$ also induced a dose-dependent increase in glucose uptake in HepG2 cells.This observation is consistent with an earlier report demonstrating that the dose-dependent stimulation of glucose uptake in adipocytes was more sensitive to vanadate in cells rendered insulin-resistantby exposure to high glucose.The increased sensitivity of glucose uptake was paralleled by an increased sensitivity of IR phosphorylation and Tyr kinase activity [41].
+
+Rehder described the ability of vanadium to regulate the cellular production of ROS [42]. Under physiological conditions and vanadium concentrations below $1 0 0 \mu \mathrm { M }$ ,vanadate is rapidly reduced to $\mathrm { V } ^ { \mathrm { I V } } 0 ^ { 2 + }$ upon entering cells [43]. It has been demonstrated that $\mathsf { V O } ^ { 2 + }$ isable to generate ·OH radical from hydrogen peroxide via a Fenton-like reaction [42].In the present study,we showed that $\mathrm { \Delta V O S O _ { 4 } }$ triggered an increase of intracellular ROS in a dose-dependent manner as determined by dye staining(Fig.3). Also,ESR spin trapping measurements show that cells treated with $\mathrm { \Delta V O S O _ { 4 } }$ generated ·OH radical (Fig.4A). Catalase and sodium formate,asa specific scavenger of $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ or $\cdot \mathrm { O H }$ ,dramatically decreased the generations of ROS and ·OH induced by $\mathrm { \Delta V O S O _ { 4 } }$ (Fig.4B).These observations are consistent with the previous reports that incubation of cells with vanadium led to an increase in the generation of ROS [33,35,44,45].
+
+Early studies have demonstrated that vanadium exposure induces intracellular ROS generation,which function as signaling species to activate calcium-calcineurin pathways in T cells [33] or to trigger p53 activation in A549 cells [34]. ROS clearly possess the capacity to behave in a random and can directly or indirectly activate cellular stress-sensitive signaling pathways [46].It is well known that ROS generation is believed to be essential in triggering signaling response of insulin [47].Previous studies have identified that the exposure of cells to ROS or ROS generating systems is capable of stimulating cellular Akt activity [48,49]. In line with this signalstimulating effect of ROS,redox-active transition metal ions capable of generating ROS in cells were demonstrated to stimulate Akt also [26].For example,exposure to $\mathtt { C u ( I I ) }$ salts triggers an activation of Akt in human and rat hepatoma cells and rat liver epithelial cells [28,50].Orthovanadate results in increased phosphorylation of RET/PTC1 for Tyr451 and activation of the PI3K/Akt/mTOR signaling pathway[51].In this present study,we also observed that $\mathsf { V O S O } _ { 4 }$ 1 induced ROS caused activation of IR and Akt(Fig.2).Moreover, catalase and sodium formate significantly inhibited IR and Akt phosphorylation induced by $\mathsf { V O S O } _ { 4 }$ (Fig.6),suggesting that ·OH is involved in $\mathrm { \Delta V O S O _ { 4 } }$ -induced IR and Akt phosphorylation.
+
+Although ROS enhance insulin signaling,particularly, $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ has been identified as a suitable second messenger molecule,excessive levels of ROS may cause diabetic complications [52]. Moreover,oxidative stress is believed to be the common denominator for the major pathways involved in the development and progression of diabetic diseases [53]. In the present study,we observed an increase of ROS generation that was significantlydifferent from control levels,at $2 5 \mu \mathrm { M }$ and $5 0 \mu \mathrm { M }$ of $\mathrm { \Delta V O S O _ { 4 } }$ (Fig.3). However, the maximum level of glucose uptake was reachedat $2 5 \mu \mathrm { M }$ of $\mathrm { \Delta V O S O _ { 4 } }$ (Fig.1).Therefore,ROS generation needs to be closely monitored in applying vanadium compounds in vitro and in vivo due to the cytotoxic nature of ROS.
+
+In conclusion, the present study demonstrated that $\mathrm { \Delta V O S O _ { 4 } }$ -induced ROS generation elicits glucose uptake in HepG2 cells.Moreover,our findings revealed an interaction between ROS generation and IR/Akt activation in $\mathrm { V O S O _ { 4 } }$ -treatedcells.We found that $\mathrm { \Delta V O S O _ { 4 } }$ -induced ·OH radical,as the major species of ROS,is responsible for glucose uptake and IR/Akt phosphorylation.These results suggest that increase of glucose uptake induced by $\mathrm { \Delta V O S O _ { 4 } }$ through IR/Akt signaling pathway, ·OH radical may play an important role.
+
+# Abbreviations
+
+CAT catalase   
+DCFH-DA 2',7'-dichlorodihydrofluorescein diacetate   
+DMPO 5,5-dimethyl-1-pyrroline-N-oxide   
+DPI diphenylene iodonium   
+ECL enhanced chemiluminescence   
+ESR electron spin resonance   
+IR insulin receptor   
+PEPCK phosphoenolpyruvate carboxykinase   
+PI3K phosphatidylinositol 3-kinase   
+PMSF polymethylsulfonyl fluoride   
+PTPase protein tyrosine phosphatase   
+PVDF poly (vinylidene fluoride)   
+RIPA radio immunoprecipitation assay   
+ROS reactive oxygen species   
+SEM standard error of mean   
+SOD superoxide dismutase   
+TBST Tris-buffered saline ( $2 0 ~ \mathrm { m M }$ Tris-HCl and 150 mM NaCl, pH 7.4) containing $0 . 1 \%$ Tween 20
+
+# Conflict of interest
+
+All authors declare that there are no conflicts of interest.
+
+# Acknowledgments
+
+This work was supported by grants from the National Natural Science Foundation of China (Nos.11075207,20871120).
+
+# References
+
+[1]M.Li,J.J. Smee,W.Ding, D.C.Crans,J. Inorg. Biochem.103(2009) 585-589. [2]T.K. Saha, Y. Yoshikawa, H. Sakurai,J.Pharm. Pharmacol.59 (2007) 437-444. [3]H.Sakurai,K.Tsuchiya,M.Nukatsuka,M. Sofue,J. Kawada,J.Endocrinol.126 (1990) 451-459. [4] G.R.Willsky, L.H. Chi, Y. Liang, D.P.Gaile, Z. Hu, D.C.Crans,Physiol. Genomics 26 (2006) 192-201. [5]H.Degani,M. Gochin,S.J. Karlish,Y. Shechter,Biochemistry 20 (1981) 5795-5799. [6] A. Green,Biochem.J.238(1986) 663-669. [7]Y.Shechter,I. Goldwaser,M.Mironchik,H.Tsubery,M.Fridkin,Pure Appl. Chem.77 (2005)1617-1628. [8] N.Sekar,J.Li,Z.He,D.Gefel,Y. Shechter, Endocrinology 140 (1999) 1125-1131. [9] T.A. Clark, A.L. Edel, C.E. Heyliger, G.N. Pierce, Can.J. Physiol.Pharmacol.82 (2004) 888-894. [10]K.H. Thompson, C.Orvig,J. Inorg. Biochem.100 (2006) 1925-1935. [11]L.A. Setyawati, K.H. Thompson,V.G. Yuen,Y. Sun, M. Battell,D.M. Lyster,C.Vo,T.J. Ruth,S. Zeisler,J.H.McNeill, C. Orvig,J. Appl.Physiol.84(1998) 569-575. [12]D.Wei,M.Li,W.Ding,J.Biol.Inorg.Chem.12(2007) 1265-1273. [13]F.Liu,M.Xie,D.Chen,J.Li,W. Ding,J.Diabetes Res.2013(2013) 956737. [14]M. Xie, D. Chen,F. Zhang, G.R.Willsky, D.C. Crans,W.Ding,J. Inorg. Biochem.136 (2014) 47-56. [15]P. Buglyo,D.C.Crans,E.M.Nagy,R.L. Lindo,L. Yang,JJ. Smee,W.Jin, L.H. Chi, M.E. Godzala II, G.R. Willsky, Inorg. Chem. 44 (2005) 5416-5427. [16]M. Haratake,M.Fukunaga,M.Ono,M. Nakayama,J. Biol. Inorg. Chem.10 (2005) 250-258. [17] M. Li,W. Ding,J.J. Smee,B. Baruah,G.R.Wilsky,D.C. Crans,Biometals 22 (2009) 895-905. [18] B.R. Nechay, Annu. Rev. Pharmacol. Toxicol. 24 (1984) 501-524. [19]M. Yoshinaga,T. Ueki, N.Yamaguchi, K. Kamino,H. Michibata, Biochim. Biophys. Acta 1760 (2006) 495-503. [20]D.Rehder,Angew.Chem.Int. Ed.30(1991)148-167. [21] C.K. Roberts,K.K. Sindhu, Life Sci.84(2009) 705-712. [22]V.L. Voeikov,Cell. Mol. Biol.51 (2005) 663-675.
+
+[23]J.Ye,M. Ding, S.S. Leonard, V.A. Robinson,L. Millecchia, X. Zhang, V.Castranova, V. Vallyathan, X. Shi, Mol. Cell Biochem. 202(1999) 9-17.   
+[24]J.Frijhoff,M. Dagnel,M.Augsten,E.Beltrami,M.Giorgio,A. Ostman,Free Radic.Biol. Med. 68 (2014) 268-277.   
+[25] F.G. Meng, Z.Y. Zhang, Biochim. Biophys.Acta 1834 (2013) 464-469.   
+[26] A.Eckers,L.O.Klotz, Redox Rep.14(2009) 141-146.   
+[27] C.M. Taniguchi, B. Emanueli, C.R. Kahn,Nat. Rev. Mol. Cell Biol.7(20o6) 85-96.   
+[28] P.L. Walter, A. Kampkotter, A. Eckers, A. Barthel,D.Schmoll, H.Sies,L.O. Klotz, Arch. Biochem. Biophys. 454(2006)107-113.   
+[29]A. Tardif, N. Julien, A. Pelletier, G.Thibault, A.K. Srivastava,J.L. Chiasson,L. Coderre, Am. J. Physiol. Endocrinol. Metab. 281(2001) E1205-E1212.   
+[30] S.Jackson,S.M. Bagstaff,S.Lynn,S.J. Yeaman, D.M.Turnbull,M.Walker, Diabetes 49 (2000)1169-1177.   
+[31] C.P. LeBel, H. Ischiropoulos, S.C. Bondy, Chem. Res. Toxicol.5(1992) 227-231.   
+[32]A. Gomes,E.Fernandes,J.L. Lima,J. Biochem. Biophys.Methods 65 (20o5) 45-80.   
+[33] C.Huang,M. Ding, J. Li, S.S.Leonard,Y. Rojanasakul,V. Castranova, V.Vallyathan, G. Ju,X.Shi,J. Biol. Chem.276 (2001) 22397-22403.   
+[34] X.Shi, N.S.Dalal, Free Radic. Res. Commun.17 (1992) 369-376.   
+[35] N. Gao,M. Ding,J.Z. Zheng, Z. Zhang,S.S. Leonard,K.J. Liu,X. Shi, B.H.Jiang,J. Biol. Chem.277 (2002) 31963-31971.   
+[36] D.W. Kwong,W.N. Leung,M. Xu, S.Q. Zhu, C.H. Cheng,J. Inorg. Biochem. 64(1996) 163-180.   
+[37]M.Li,W.Ding,B. Baruah, D.C.Crans,R.Wang,J. Inorg. Biochem.102(2008) 1846-1853.   
+[38]N. Sekar,J. Li, Y. Shechter, Crit. Rev. Biochem. Mol. Biol.31(1996)339-359.   
+[39] A. Tardif, N. Julien, J.L. Chiasson, L. Coderre,Am.J. Physiol. Endocrinol. Metab.284 （2003）E1055-E1064.   
+[40] S.L. Hwang, H.W. Chang, Mol. Cell. Biochem.360 (2012) 401-409.   
+[41]B.Lu,D.Ennis,R. Lai, E. Bogdanovic,R. Nikolov,L Salamon, C.Fantus,H. Le-Tien, I.G. Fantus,J. Biol. Chem.276 (2001) 35589-35598.   
+[42]D. Rehder,Dalton Trans.42 (2013)11749-11761.   
+[43] LA. Minasi, A. Chang,G.R. Willsky,J. Biol. Chem. 265(1990) 14907-14910.   
+[44] J. Rivadeneira,D.A. Barrio, G. Arrambide, D. Gambino,L. Bruzzone,S.B. Etcheverry,J. Inorg. Biochem.103(2009) 633-642.   
+[45]G.R.Willsky,LH. Chi,M. Godzala II,P.J. Kostyniak,JJ.Smee, A.M.Trujillo,J.A.Alfano, W. Ding, Z. Hu,D.C.Crans, Coord. Chem. Rev.255 (2011) 2258-2269.   
+[46] J.Fu, C.G.Woods, E. Yehuda-Shnaidman, Q. Zhang, V.Wong,S. Collins, G.Sun,M.E. Andersen,J. Pi, Environ. Health Perspect. 118 (2010) 864-870.   
+[47]K. Mahadev, X. Wu,A. Zilbering,L. Zhu,J.T. Lawrence, B.J. Goldstein,J. Biol. Chem. 276(2001) 48662-48669.   
+[48]K. Abdelmohsen,P.A. Gerber, C.von Montfort, H. Sies,L.O.Klotz,J. Biol. Chem.278 (2003)38360-38367.   
+[49]X. Wang,K.D.McCullough,T.F.Franke,N.J.Holbrook,J. Biol. Chem.275 (2000) 14624-14631.   
+[50] E.A. Ostrakhovitch,M.R. Lordnejad,F. Schliess,H. Sies, L.O. Klotz, Arch. Biochem. Biophys.397 (2002) 232-239.   
+[51]A.P. Goncalves, A. Videira,P.Soares,V. Maximo,Life Sci. 89 (2011) 371-377.   
+[52]H. Sies,J. Biol. Chem. 289 (2014) 8735-8741.   
+[53]L. Rochette,M. Zeller,Y. Cottin, C. Vergely,Biochim. Biophys. Acta 1840 (2014) 2709-2729.

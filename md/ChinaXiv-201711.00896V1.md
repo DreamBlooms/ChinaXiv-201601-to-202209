@@ -1,0 +1,178 @@
+# $2 0 { \sim } 5 0 \mathrm { k g }$ 川藏黑猪的能量代谢与沉积规律研究
+
+李斌余丹殷勤邓卉
+
+（四川省畜牧科学研究院饲料所，动物遗传育种四川省重点实验室，成都610066)
+
+摘要：本文旨在研究 $2 0 { \sim } 5 0 ~ \mathrm { k g }$ 川藏黑猪的能量代谢与沉积规律。试验一：选择体重接近[ $( 2 0 . 1 7 { \scriptstyle \pm 3 . 4 6 }$ ）kg]的川藏黑猪配套系商品猪64头，预试期7d后屠宰4头猪测定胴体成分；其余试验猪按公母随机分成5个组，每个组4个重复，每个重复3头，各重复单圈饲养，分别自由采食消化能（DE）水平分别为13.79、13.37、12.96、12.54 和12.12MJ/kg 的饲粮，测定平均日采食量、平均日增重和料重比。试验猪体重达 $5 0 \mathrm { k g }$ 时，结束试验一并在各组选择1头猪屠宰测定胴体成分。试验二：选择试验一中15 头体重接近 $[ ( 4 8 . 3 4 \pm 4 . 0 7 ) \mathrm { k g } ]$ 的公猪，随机分成5个组，每个组3个重复，每个重复1头，单独饲养于代谢笼，分别采食上述5种DE水平的饲粮，进行消化代谢试验。预试期3d，正试期4d。采用析因法建立能量需要量预测模型。结果表明：饲粮 DE 水平影响了 $2 0 { \sim } 5 0 \mathrm { k g }$ 川藏黑猪的平均日采食量、平均日增重和料重比；饲粮DE 转化为代谢能（ME）效率（ME/DE）为$9 7 . 2 6 \% { \sim } 9 8 . 1 0 \%$ ，ME 用于沉积产品能的效率(DED/ME)平均值为 $4 1 . 7 1 \%$ ；此阶段川藏黑猪维持需要ME平均值为 $0 . 4 9 \mathrm { \ M J / W ^ { 0 . 7 5 } }$ 或0.85 MJ/W0.60(按 DE 计为 $0 . 5 0 \mathrm { \ M J / W ^ { 0 . 7 5 } }$ 或 $0 . 8 7 \mathrm { \ M J / W ^ { 0 . 6 0 } ) }$ ，增重需要DE 和 ME平均值分别为18.91和 $1 8 . 4 7 \mathrm { M J / k g }$ 。由此得出， $2 0 { \sim } 5 0 \mathrm { k g }$ 阶段川藏黑猪能量需要模型为：DE（MJ/d） $\scriptstyle = 0 . 5 0 4$ $\mathrm { W } ^ { 0 . 7 5 } \mathrm { + } 1 8 . 9 1 \Delta \mathrm { W }$ 或 DE（MJ/d） $\scriptstyle = 0 . 8 6 7$ W0.60+18.91△W；ME（MJ/d） $\scriptstyle = 0 . 4 9 2$ （20$\mathrm { W } ^ { 0 . 7 5 } \mathrm { + } 1 8 . 4 7 \Delta \mathrm { W }$ 或 ME（MJ/d) $\scriptstyle = 0 . 8 4 7$ W0.60+18.47△W。
+
+关键词：川藏黑猪；能量需要量；能量代谢；沉积规律中图分类号：S828 文献标识码：
+
+文章编号：
+
+能量是动物一切代谢活动和生产活动的基础。受基因型、饲粮类型、饲粮养分互作效应及环境条件等的影响，不同品种的猪在不同生理阶段的能量需要量是不同的。近几年，杨正德等、李伟等[2]、刘占俊等[3]、张慧君等[4]、江碧波等[5]通过比较屠宰试验或梯度饲养试验（线性回归法)，对贵州香猪、外二元生长肥育猪、二元（可乐 $\times$ 大约克）后备母猪、二元（可乐 $\times$ 大约克）生长肥育猪、
+
+$1 0 { \sim } 2 0 \mathrm { k g }$ 湘村黑猪的能量代谢及沉积规律进行了研究。川藏黑猪是四川省畜牧科学研究院将外种猪血缘引入四川本地猪种后，通过选育形成的新品系；既保持了地方猪种肉质风味的特点，又大幅度提高了生长性能。因此，其能量需要既不同于外种猪，也异于地方猪种，通过对其能量需要量的准确评定，可以精准制定饲粮的能量水平，实现其养殖经济效益的最大化。中国地方猪种众多，品种间差异较大，近年来在其能量物质转化及代谢、饲养标准深入的研究也较少见到报道。本研究通过测定川藏黑猪配套系商品猪 $2 0 { \sim } 5 0 \mathrm { k g }$ 阶段养分沉积量，采用析因法研究其能量代谢和沉积规律，以建立川藏黑猪配套系商品猪 $2 0 { \sim } 5 0 \mathrm { k g }$ 阶段能量需要量模型，明确其能量需要量，为制定川藏黑猪的饲养标准提供参数，对于促进优良猪种快速推广、提高生产效率意义重大。
+
+# 1材料与方法
+
+# 1.1 试验设计
+
+试验一（饲养试验)：从四川省畜牧科学研究院种猪场选择遗传来源相似、品种特征典型、平均体重为（ $2 0 . 1 7 { \scriptstyle \pm 3 . 4 6 }$ ）kg 的川藏黑猪配套系商品猪64头，设预试期7d，预试期末屠宰4头猪（公母各占1/2）作为空白对照。余下的60头试验猪随机分成5个组，每个组4个重复，每个重复3头，每个重复1个圈，其中2个重复是2头公猪1头母猪，另外2个重复为1头公猪2头母猪，各组中公母平均分配，均为6头公猪6头母猪。5个组分别自由采食消化能水平分别为13.79、13.37、12.96、12.54 和 $1 2 . 1 2 \mathrm { M J / k g }$ 的饲粮，配制饲粮时饲料原料的消化能采用中国饲料原料数据库（2011版）数值，其他养分含量参照 NRC（1998）[7]、NRC（2012）[8]以及我国《猪饲养标准》]设计配制。饲养试验进行到体重平均达 $5 0 ~ \mathrm { k g }$ 左右结束，结束时各组选择1头猪（体重最接近组内平均值的）屠宰，进行比较屠宰试验。试验饲粮组成及营养水平见表1。
+
+试验饲粮的实际消化能和代谢能采用消化代谢试验测定。从饲养试验一结束后开始，选择 15 头体重接近 $[ ( 4 8 . 3 4 \pm 4 . 0 7 ) \mathrm { k g } ]$ 的公猪，随机分成5组，每个组3个重复，每个重复1头，单独饲养于 代谢笼，进行试验二（消化代谢试验)。5个组分别采食上述5种消化能水平的饲粮。试验预试期3d, 正试期 $\mathsf { 4 d }$ 9
+
+表1试验饲粮组成及营养水平（风干基础)  
+Table 1 Composition and nutrient levels of experimental diets （air-dry basis）  
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">组别Groups</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+%
+
+<html><body><table><tr><td>玉米Corn</td><td>59.24</td><td>61.53</td><td>58.47</td><td>53.50</td><td>49.80</td></tr><tr><td>麦麸 Wheat bran</td><td>5.00</td><td>5.00</td><td>10.00</td><td>10.00</td><td>10.00</td></tr><tr><td>统糠 Rice bran</td><td></td><td></td><td></td><td>2.40</td><td>5.56</td></tr><tr><td>豆粕 Soybean meal</td><td>20.73</td><td>20.34</td><td>19.20</td><td>19.40</td><td>19.80</td></tr><tr><td>玉米胚芽粕 Corn germ meal</td><td>8.00</td><td>8.00</td><td>8.00</td><td>10.00</td><td>10.00</td></tr><tr><td>氯化胆碱 Choline chloride</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td></tr><tr><td>食盐 NaCl</td><td>0.46</td><td>0.45</td><td>0.45</td><td>0.45</td><td>0.45</td></tr><tr><td>豆油 Soybean oil</td><td>2.73</td><td>0.85</td><td>0.05</td><td>0.16</td><td>0.29</td></tr><tr><td>石粉Limestone</td><td>1.47</td><td>1.48</td><td>1.51</td><td>1.77</td><td>1.75</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>0.68</td><td>0.66</td><td>0.62</td><td>0.62</td><td>0.65</td></tr><tr><td>L-赖氨酸硫酸 L-Lys·HSO4</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>DL-蛋氨酸 DL-Met</td><td>0.01</td><td>0.01</td><td>0.02</td><td>0.02</td><td>0.02</td></tr><tr><td>防霉剂Mold inhibitor</td><td>0.06</td><td>0.06</td><td>0.06</td><td>0.06</td><td>0.06</td></tr><tr><td>抗氧化剂 Antioxidant</td><td>0.02</td><td>0.02</td><td>0.02</td><td>0.02</td><td>0.02</td></tr><tr><td>预混料 Premixl)</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>消化能（计算值） DE （calculated values）/（MJ/kg）</td><td>13.79</td><td>13.37</td><td>12.96</td><td>12.54</td><td>12.12</td></tr><tr><td>消化能(实测值） DE</td><td>13.86</td><td>13.41</td><td>12.95</td><td>12.73</td><td>12.47</td></tr><tr><td>（measured values）/（MJ/kg）</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗蛋白质 CP</td><td>16.00</td><td>16.00</td><td>16.00</td><td>16.00</td><td>16.00</td></tr><tr><td>钙Ca</td><td>0.80</td><td>0.80</td><td>0.80</td><td>0.90</td><td>0.90</td></tr><tr><td>总磷TP</td><td>0.55</td><td>0.55</td><td>0.58</td><td>0.59</td><td>0.58</td></tr><tr><td>有效磷 AP</td><td>0.25</td><td>0.25</td><td>0.25</td><td>0.25</td><td>0.25</td></tr><tr><td>钠Na</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td></tr><tr><td>赖氨酸Lys</td><td>1.02</td><td>1.02</td><td>1.01</td><td>1.01</td><td>1.01</td></tr><tr><td>蛋氨酸 Met</td><td>0.25</td><td>0.25</td><td>0.25</td><td>0.25</td><td>0.25</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.51</td><td>0.51</td><td>0.51</td><td>0.51</td><td>0.51</td></tr></table></body></html>
+
+预混料为每千克饲粮提供 The premix provided the following per kg of diets:VA5250IU,VD31125IU,VE 75 mg,$\mathrm { V B } _ { 1 } 2 . 2 5 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 7 . 5 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 3 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 3 ~ \mathrm { m g }$ ， $D$ 泛酸 $D$ -pantothenic acid $2 4 ~ \mathrm { m g }$ ，叶酸 folic acid $0 . 9 \mathrm { m g }$ ，烟酸 nicotinic acid $3 0 ~ \mathrm { m g }$ ，生物素biotin $0 . 1 5 \mathrm { m g }$ ， $ { \mathrm { M n } } 2 0  { \mathrm { m g } }$ ， $\mathrm { ~ I ~ } 0 . 3 5 \mathrm { ~ m g ~ }$ ，Fe $6 0 ~ \mathrm { m g }$ ， $\mathrm { { C u } \ 8 \ m g }$ ， $Z n 8 0 \mathrm { m g }$ ， $\mathrm { S e } 0 . 2 \mathrm { m g }$ 。
+
+# 1.2 测定指标和方法
+
+# 1.2.1 体重与采食量
+
+试验一：预试期结束时和正式试验结束时，空腹 $1 2 \mathrm { h }$ 称重；整个试验期间，日喂3次，每次准确记录投食量，保证试验猪自由采食，自由饮水。以重复为单位每天记录采食量、猪只健康状况和平均圈舍温度等情况，试验结束时称重，统计并计算平均日采食量、平均日增重和料重比。
+
+试验二：预试期3d；先按前期采食量的平均值给料，逐步增加采食量至自由采食，并记录采食量。正试期4d。正试期按自由采食量的 $8 5 \%$ 给饲，日喂3次。
+
+# 1.2.2 胴体样本制备
+
+屠宰后，去除消化道与膀胱内容物后取左胴体，肉、脂肪及内脏用绞肉机绞碎，反复2\~3次，尽量使其均匀；骨骼样品亦用捣碎机捣碎，充分混匀；血液计量；皮毛用剪刀剪碎；将各部分充分混匀后再按胴体、内脏、皮毛、血液重量比制备样品，备测。预试期末屠宰的4头猪为体重最接近试验猪只平均值的2头公猪和2头母猪，试验结束时屠宰的5头猪为体重最接近组内平均值的3头公猪和2头母猪。
+
+# 1.2.3消化代谢试验中粪尿样本制备
+
+采用全收粪法，准确收集正试期内各试验猪每日（ $2 4 \mathrm { ~ h ~ }$ ）排粪，以试验猪最静卧状态界定日与日之间的时间界限，本试验定为在晨饲后 $1 { \sim } 1 . 5 \mathrm { h }$ 收集。各头猪每日排粪加入 $10 \%$ 稀盐酸（每 $1 0 0 \ \mathrm { g }$ 鲜样加 $5 \mathrm { m L }$ ）和甲苯数滴防腐，经充分混匀后，按鲜重的 $10 \%$ 取样。试验每日的尿液经过滤、计量后，按 $1 0 0 ~ \mathrm { { m L } }$ 尿样加入 $10 \%$ 盐酸 $1 0 ~ \mathrm { m L }$ ，置于密闭的容器（盛尿瓶）放置 ${ } _ { - 2 0 } { } ^ { \circ } \mathrm { C }$ 冰箱中保存。试验期结束后，把相同组4d的粪样混合均匀，制备成风干样品，粉碎后制成40目的风干样，放入冰箱中保存备测；混匀所取尿样，置于 ${ } ^ { - 2 0 } { } ^ { \circ } \mathrm { C } .$ 冰箱保存备测。
+
+# 1.2.4 分析方法
+
+饲料与胴体样品采用GB/T 6435—2014[10]、GB/T 6432—1994[1]和GB/T 6433- $2 0 0 6 ^ { [ 1 2 ] }$ 方法分别测定水分、粗蛋白质和脂肪含量，采用全自动氧弹式量热仪（长沙友欣YX-ZR9302）测定饲料、胴体和粪尿的能量。
+
+# 1.2.5 计算公式
+
+养分(能量、粗蛋白质、脂肪)的采食量与沉积量计算：
+
+某养分采食量（g/d） $\mathbf { \sigma } = \mathbf { \sigma }$ 饲料采食量（g/d） $\times$ 饲料中某养分含量 $( \% )$
+
+某养分沉积量（g/d） $\scriptstyle = [$ 阶段终末体重（g） $\times$ 阶段末胴体养分含量 $( \%$ ）-阶段初体重（g） $\times$ 阶段初胴体养分含量（%）]/本阶段试验天数（d);
+
+饲粮表观消化能（MJ/kg） $\scriptstyle = [$ 食入饲料总量（kg） $\times$ 食入饲料总能 $\mathrm { \langle M J / k g \rangle }$ ）-粪干物质排泄量 $( \mathbf { k g } )$ ×粪干物质总能（MJ/kg）]/[食入干物质量（kg） $\times$ 饲料风干样本的干物质含量 $( \% ) \rfloor$
+
+饲粮表观代谢能（MJ/kg） $\scriptstyle = [$ 食入饲料总量（kg) $\times$ 食入饲料总能（ $\mathrm { \Delta \langle M J / k g \rangle }$ )-粪干物质排泄量 $( \mathbf { k g } ^ { \cdot }$ ）×粪干物质总能（MJ/kg）-尿排泄量（kg） $\times$ 尿总能（MJ/kg）J/[食入干物质量（kg） $\times$ 饲料风干样本的干物质含量 $( \% ) ]$
+
+体表氮能 $\dot { \mathbf { \zeta } } = 0 . 0 1 8 \times \mathbf { W } ^ { 0 . 7 5 } \times 6 . 2 5 \times 2 3 . 6 4 ~ \mathbf { k J } ^ { [ 1 3 ] }$ 维持产热 $\iota =$ 摄入代谢能一(能量沉积 $^ +$ 体表氮能损失 $^ +$ 沉积蛋白质与脂肪产热)。
+
+# 1.3数据处理
+
+试验数据用Excel整理后，用SPSS18.0单因素方差分析，并用 $F$ 检验进行显著性分析，显著水平为 $P { < } 0 . 0 5$ 和 $P { < } 0 . 0 1$ ，结果以“平均值±标准差"表示。
+
+# 2结果与分析
+
+# 2.1 饲养试验结果
+
+饲养试验共计进行45d，试验结果列于表2。从饲养试验结果可见， $2 0 { \sim } 5 0 ~ \mathrm { k g } ~ ,$ 川藏黑猪采食不同D E水平饲粮后生长性能出现明显差异。4组试验猪终末体重极显著低于1组（ $\scriptstyle P < 0 . 0 1 { \mathrm { . } }$ ，显著低于3组( $. P { < } 0 . 0 5 \$ )；5 组试验猪终末体重显著低于1组（ $_ { \cdot \cdot P < 0 . 0 5 }$ )。平均日采食量方面，除2组和3组之间显著差异（ $. P { < } 0 . 0 5$ ）以外，其他各组之间差异不显著（ $P { > } 0 . 0 5 )$ 。平均日增重方面，除1组与2 组和5组有显著差异（P<0.05）以外，其他各组之间差异不显著（ $\mathrm { \Phi } _ { P > 0 . 0 5 } \mathrm { \cdot }$ )。料重比方面，1组极显著低于4组和5组（ $_ { . } P { < } 0 . 0 1 \$ ，显著低于3组（ $_ { . } { \cdot } { \cdot } { \cdot } { \cdot } { \cdot } ^ { } \ .$ )，2组、3组、4组、5组之间差异不显著( $_ { . } { \cdot } { \cdot } { \cdot } 0 . 0 5 \rangle$ 。
+
+表2饲粮能量水平对20\~50 阶段川藏黑猪生长性能的影响  
+Table 2Effects of dietary energy level on growth performance of 20 to $5 0 \mathrm { k g }$ Chuanzang black pigs   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">组别 Groups</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>消化能</td><td>13.86</td><td>13.41</td><td>12.95</td><td>12.73</td><td>12.47</td></tr><tr><td>DE/（MJ/kg）</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>初始体重</td><td>20.29±0.47a</td><td>20.12±0.20a</td><td>20.11±0.43a</td><td>19.72±0.47a</td><td>19.91±1.02a</td></tr><tr><td>Initial body weight/kg</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>终末体重</td><td>47.64±1.21Aa</td><td>44.78±1.92ABabc</td><td>46.5±0.76ABab</td><td>42.68±2.95Bc</td><td>44.28±1.48ABbc</td></tr><tr><td>Final body weight/kg</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日采食量</td><td>1.46±0.11ab</td><td>1.44±0.04b</td><td>1.59±0.05a</td><td>1.55±0.11ab</td><td>1.53±0.04ab</td></tr><tr><td>ADFI/(kg/d)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日增重</td><td>607.80±34.35a</td><td>548.03±41.06b</td><td>586.67±24.99ab</td><td>560.27±22.61ab</td><td>541.67±34.80b</td></tr><tr><td>ADG/(g/d)</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+料重比
+
+同行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5$ )，不同大写字母表示差异极显著（ ${ \cal P } { < } 0 . 0 1$ )，相同或无字母表示差异不显著（ $P { > } 0 . 0 5$ )。下表同。
+
+In the same row, values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,and with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ ,while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ .The same as below.
+
+# 2.2 饲粮的消化能与代谢能
+
+通过测定和计算，各组饲粮能量的采食、消化与代谢情况见表3。
+
+# 表3各组饲粮能量的采食、消化与代谢
+
+Table 3Intake, digestion and metabolism of energy of all groups   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">组别 Groups</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>初始体重</td><td>47.87±4.98</td><td>47.43±4.53</td><td>47.95±3.90</td><td>48.40±3.50</td><td>50.03±6.09</td></tr><tr><td>Initial body weight/kg</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总能GE/(kJ/kg)</td><td>16 404.96</td><td>16 048.19</td><td>15 763.42</td><td>15 761.50</td><td>15 866.06</td></tr><tr><td>粪能 FE/(KJ/kg)</td><td>2 545.23</td><td>2 638.27</td><td>2 814.05</td><td>3 032.99</td><td>3 399</td></tr><tr><td>尿能UE/(kJ/kg)</td><td>379.45</td><td>268.86</td><td>328.64</td><td>242.30</td><td>314.23</td></tr><tr><td>消化能 DE/(kJ/kg)</td><td>13 859.73</td><td>13 409.92</td><td>12 949.37</td><td>12 728.51</td><td>12 467.06</td></tr><tr><td>消化能/总能DE/GE/%</td><td>84.48</td><td>83.56</td><td>82.15</td><td>80.76</td><td>78.58</td></tr><tr><td>代谢能 ME/(kJ/kg)</td><td>13 480.28</td><td>13 141.06</td><td>12 620.73</td><td>12 486.21</td><td>12 152.83</td></tr><tr><td>代谢能/总能ME/GE/%</td><td>82.17</td><td>81.88</td><td>80.06</td><td>79.22</td><td>76.60</td></tr><tr><td>代谢能/消化能ME/DE/%</td><td>97.26</td><td>98.00</td><td>97.46</td><td>98.10</td><td>97.48</td></tr></table></body></html>
+
+# 2.3 消化代谢试验结果
+
+日沉积能量通过2次屠宰试验所取胴体样品测定的总能之差计算而得。日沉积蛋白质和日沉积脂肪通过胴体样品测定的蛋白质和脂肪含量及平均日增重计算而得。日沉积蛋白质产热和日沉积脂肪按每沉积 $\mathrm { ~ 1 ~ g ~ }$ 蛋白质产热 $2 0 ~ \mathrm { k J }$ 、每沉积 $\mathrm { ~ 1 ~ g ~ }$ 脂肪产热 $1 4 ~ \mathrm { k J }$ 计算而得。每千克增重需要能量由每千克增重沉积的能量和每千克增重中蛋白质、脂肪沉积产热需要能量以及每千克增重时体表氮能损失构成[14]。
+
+从代谢能在体内的沉积与分配结果（表4）可看出，川藏黑猪配套系商品代在 $2 0 { \sim } 5 0 \mathrm { k g }$ 阶段维持需要代谢能按动物营养学界公认的代谢体重0.75（W0.75）计算，为 $0 . 4 1 { \sim } 0 . 5 4 \mathrm { M J } / \mathrm { W } ^ { 0 . 7 5 }$ ，平均值为0.49 MJ/W0.75。增重需要代谢能为17.41\~19.95 MJ/kg，平均值为18.47 MJ/kg。按 NRC（2012）认为，$\mathbf { W } ^ { 0 . 7 5 }$ 用于测量母猪的绝食产热（FHP）和维持代谢能（MEm)；在生长肥育猪上一般采用代谢体重$0 . 6 ( \mathrm { W } ^ { 0 . 6 0 } )$ 测量。本试验按 $\mathbf { W } ^ { 0 . 6 0 }$ 计算,维持需要代谢能为 $0 . 7 1 { \sim } 0 . 9 2 \ \mathrm { M J / W } ^ { 0 . 6 0 }$ ,平均值为 $0 . 8 5 \mathrm { M J / W ^ { 0 . 6 0 } }$ 。
+
+# 表4能量、养分采食量及沉积量
+
+Table 4Intake and deposition of energy and nutrient   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">组别Groups</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>饲料采食量 FI/(g/d)</td><td>1 400.74</td><td>1 415.56</td><td>1 630.37</td><td>1 496.30</td><td>1 527.78</td></tr><tr><td>饲粮代谢能</td><td>13 480.28</td><td>13 141.06</td><td>12 620.73</td><td>12 486.21</td><td>12 152.83</td></tr><tr><td>ME of diet/(J/g)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>代谢能摄入</td><td>18 882.38</td><td>18 601.90</td><td>20 576.46</td><td>18 683.07</td><td>18 566.82</td></tr><tr><td>Intake of ME/(kJ/d)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>初始体重</td><td>24.65</td><td>23.85</td><td>22.75</td><td>23.20</td><td>24.90</td></tr><tr><td>Initial body weight/kg 终末体重</td><td>55.45</td><td>50.90</td><td>52.75</td><td>50.75</td><td>50.65</td></tr><tr><td>Final body weight/kg</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>屠宰猪只性别</td><td>母</td><td>母</td><td>公</td><td>公</td><td>母</td></tr><tr><td>Gender of slaughtered pig</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日增重 ADG/(g/d)</td><td>684</td><td>601</td><td>667</td><td>612</td><td>572</td></tr><tr><td>日沉积能量</td><td>8 462.72</td><td>7 139.88</td><td>8 960.71</td><td>7 159.75</td><td>8 071.76</td></tr><tr><td>Daily energy deposition/(kJ/d)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>日沉积能量/代谢能DED/ME</td><td>44.82</td><td>38.38</td><td>43.55</td><td>38.32</td><td>43.47</td></tr><tr><td>日沉积脂肪</td><td>101.60</td><td>79.27</td><td>112.97</td><td>80.32</td><td>92.31</td></tr><tr><td>Daily fat deposition/g</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>日沉积蛋白质</td><td>123.50</td><td>113.51</td><td>110.78</td><td>116.43</td><td>100.34</td></tr><tr><td>Daily protein deposition/g</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>日沉积脂肪产热</td><td>1 422.35</td><td>1 109.76</td><td>1 581.32</td><td>1 124.46</td><td>1 292.41</td></tr><tr><td>Daily heat production by</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>deposition fat/(kJ/d)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>日沉积蛋白质产热</td><td>2 470.09</td><td>2 270.30</td><td>2 270.30</td><td>2 328.51</td><td>2 006.84</td></tr></table></body></html>
+
+<html><body><table><tr><td>Daily heat production by</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>deposition protein/(kJ/d) 体表氮能损失</td><td rowspan="2">42.34</td><td rowspan="2">40.20</td><td rowspan="2">40.50</td><td rowspan="2">39.88</td><td rowspan="2">40.52</td></tr><tr><td>N energy loss on body</td></tr><tr><td>surface/(kJ/d)</td><td rowspan="2">6 484.87</td><td rowspan="2">8 041.77</td><td rowspan="2">7 779.24</td><td rowspan="2">8 030.47</td><td rowspan="2">7 155.29</td></tr><tr><td>维持产热</td></tr><tr><td>Maintain heat production/(kJ/d)</td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td></tr><tr><td>维持需要代谢能</td></tr><tr><td></td><td rowspan="2">0.41</td><td rowspan="2">0.53</td><td rowspan="2">0.51</td><td rowspan="2">0.54</td><td rowspan="2">0.47</td></tr><tr><td>Maintain requirement of</td></tr><tr><td>ME/(MJ/W0.75)</td><td rowspan="2">18.13</td><td rowspan="2">17.58</td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2">19.95</td></tr><tr><td>增重需要代谢能</td></tr><tr><td></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2">19.27</td><td rowspan="2">17.41</td><td rowspan="2"></td></tr><tr><td>Gain requirement of ME/(MJ/kg)</td></tr><tr><td></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td></tr><tr><td></td></tr></table></body></html>
+
+体表氮损失按 ARC(1980)推荐值 $0 . 0 1 8 \mathrm { g } / \mathrm { W } ^ { 0 . 7 5 }$ 计算。Surface nitrogen energy loss was calculated with the recommendation value of $0 . 0 1 8 \mathrm { g } / \mathrm { W } ^ { 0 . 7 5 }$ in ARC (1980).
+
+3讨论
+
+# 3.1能量与物质的沉积规律
+
+# 3.1.1消化能转化为代谢能的效率
+
+采用代谢试验实际测定了川藏黑猪配套系商品代猪 $2 0 { \sim } 5 0 ~ \mathrm { k g }$ 阶段消化能转化为代谢能的效率平均值为 $9 7 . 6 6 \%$ 。这个值在中国猪的饲养标准推荐值是 $9 6 \% [ 1 2 ]$ ，李伟等[2]在外二元生长肥育猪上测得其消化能转化为代谢能的效率平均值为 $9 5 . 2 3 \%$ ，江碧波等[5]在 $1 0 { \sim } 2 0 ~ \mathrm { k g }$ 湘村黑猪上测得其为$9 4 . 2 2 \%$ 。NRC（2012）[13]认为代谢能与消化能呈重要的比例关系（ $9 2 \% { \sim } 9 8 \%$ )。本试验的测值在NRC(2012)推荐的值范围内，略高于中国猪饲养标准推荐值。
+
+# 3.1.2 能量与物质的沉积
+
+动物生长对能量的沉积主要表现为脂肪和蛋白质的沉积。在川藏黑猪配套系商品代 $2 0 { \sim } 5 0 \mathrm { k g }$ 阶段，每增加 $1 \mathrm { k g }$ 体重，平均净增沉积蛋白质 $1 8 0 . 0 3 \ \mathrm { g }$ ，脂肪 $1 4 8 . 2 4 \ \mathrm { g }$ ，能量 $1 2 6 8 9 . 6 7 \mathrm { k J }$ 。本试验测定的猪种在 $2 0 { \sim } 5 0 ~ \mathrm { k g }$ 阶段，代谢能用于沉积产品能的效率为 $3 8 . 3 2 \% \sim 4 4 . 8 2 \%$ ，平均值为 $4 1 . 7 1 \%$ ：与李伟等[2]在外二元猪 $5 0 { \sim } 8 0 \mathrm { k g }$ 阶段试验报道代谢能用于沉积产品能的效率（ $4 3 . 5 0 \%$ ）略低，这可能与猪种和生理阶段不同有关系。
+
+# 3.2维持与生长的能量需要
+
+# 3.2.1 维持的能量需要
+
+川藏黑猪配套系商品代在 $2 0 { \sim } 5 0 \mathrm { k g }$ 阶段MEm 需要为0.847 MJ/W0.60（0.492MJ/W0.75)，消化能转化为代谢能的效率平均为 $9 7 . 6 6 \%$ ，则其维持消化能（DEm)需要为0.867MJ/W0.60（0.504 MJ/W0.75）。本试验测出的维持需要代谢能平均值（0.49 MJ/W0.75）略高于NRC（1998）[13]推荐的0.444KJ/W0.75；
+
+按 $\mathbf { W } ^ { 0 . 6 0 }$ 计算为0.87 MJ/W0.60，在 NRC（2012）推荐的生长肥育猪 MEm 值范围内（0.799\~0.903MJ/W0.60)。从目前已发表的试验报告看，去势公猪、小母猪、种公猪的FHP 和MEm 基本没有差异。但是，不同瘦肉生长速度的品种FHP 和MEm 有所不同。基于这样一点，也可以推测同一品种中去势公猪和小母猪因为瘦肉沉积多而导致FHP和MEm也可能差异较大。
+
+# 3.2.2生长的能量需要
+
+本试验测得增重需要代谢能为 $1 7 . 4 1 { \sim } 1 9 . 9 5 \ \mathrm { M J / k g }$ ，平均值为18.47MJ/kg。按本试验测定的消化能转化为代谢能的效率平均值为 $9 7 . 6 6 \%$ 计算，增重需要消化能为18.91MJ/kg。猪生长的能量需要与品种、体重和环境等因素密切相关。杨正德等[报道，在贵州香猪 $7 { \sim } 1 6 \ \mathrm { k g }$ 体重段每千克增重代谢能需要为20.29MJ/kg，消化能需要为21.17 MJ/kg; $1 { \sim } 2 5 \mathrm { k g }$ 体重段每千克增重代谢能需要为 21.66MJ/kg，消化能需要为22.60MJ/kg，2个阶段平均值为 $2 1 . 8 9 \mathrm { M J / k g }$ 。江碧波等[5]在 $1 0 { \sim } 2 0 \mathrm { k g }$ 湘村黑猪上用比较屠宰法测得其每千克增重的消化能需要为13.79 MJ/kg.
+
+# 3.2.3 总的能量需要
+
+生长育肥猪的能量需要主要由体重和平均日增重2个因子决定，即能量总需要 $\ v =$ 维持需要 $^ { + }$ 生长需要。归纳上述研究结果，在本试验条件下，川藏黑猪配套系商品代 $2 0 { \sim } 5 0 \mathrm { k g }$ 阶段的能量需要模型为：DE（MJ/d) $\scriptstyle = 0 . 5 0 4$ W0.75+18.91△W或 DE（MJ/d) $\scriptstyle = 0 . 8 6 7$ W0.60+18.91△W； ME（MJ/d)） $\scriptstyle = 0 . 4 9 2$ （202$\mathbf { W } ^ { 0 . 7 5 } \substack { + 1 8 . 4 7 \Delta \mathrm { W } }$ 或 ME（MJ/d） =0.847 W0.60+18.47△W。
+
+据上述公式，按潜在平均日增重 $0 . 7 ~ \mathrm { k g }$ 和 $\mathbf { W } ^ { 0 . 7 5 }$ 计算，川藏黑猪配套系商品代猪在 $2 0 { \sim } 5 0 ~ \mathrm { k g }$ 阶段消化能的每日需要量为18.00\~22.71MJ，按平均日采食量为 $1 . 5 \mathrm { k g }$ 计算，饲粮消化能平均值为13.66MJ/kg；按潜在平均日增重 $0 . 7 \mathrm { k g }$ 和 $\mathbf { W } ^ { 0 . 6 0 }$ 计算，川藏黑猪配套系商品代猪在 $2 0 { \sim } 5 0 \mathrm { k g }$ 阶段消化能的每日需要量为 $1 8 . 4 6 { \sim } 2 2 . 3 0 \mathrm { M J }$ ，按平均日采食量为 $1 . 5 \mathrm { k g }$ 计算，饲粮消化能平均值为 $1 3 . 7 2 \mathrm { M J / k g }$
+
+4结论
+
+$\textcircled{1}$ 藏黑猪配套系商品代 $2 0 { \sim } 5 0 \mathrm { k g }$ 阶段的能量需要模型为：DE（MJ/d）=0.504W0.75+18.91△W或DE（MJ/d) $= 0 . 8 6 7$ W0.60+18.91△W；ME（MJ/d) $\scriptstyle = 0 . 4 9 2$ W0.75+18.47△W 或 ME（MJ/d) $\scriptstyle = 0 . 8 4 7$ （202W0.60+18.47△W。
+
+$\textcircled{2}$ 按此模型，以该阶段平均日采食量 $1 . 5 \mathrm { k g }$ 计算，川藏黑猪配套系商品代 $2 0 { \sim } 5 0 \mathrm { k g }$ 阶段饲粮消化能需要估算为 $1 3 . 6 6 { \sim } 1 3 . 7 2 \mathrm { M J / k g } .$
+
+# 参考文献：
+
+[1] 杨正德,潘正昌,李昌茂,等.贵州香猪能量代谢与沉积规律研究[J].贵州农业科学,2010,38(2):126-129.  
+[2] 李伟,杨正德,王嘉福,等.外二元生长肥育猪的能量代谢与沉积规律研究[J].西南农业学报,2011,24(3):1140-1143.  
+[3] 刘占俊,杨正德,王嘉福,等.可乐 $\times$ 大约克后备母猪能量代谢与沉积规律[J].贵州农业科学,2011,39(8):128-131.  
+[4] 张慧君,杨正德,王嘉福,等.可乐 $\times$ 大约克生长肥育猪的能量代谢与沉积规律[J].贵州农业科学,2011,39(9):130-133.  
+[5] 江碧波,禹琪芳,姚爽,等.2种方法估计 $1 0 { \sim } 2 0 \mathrm { k g }$ 湘村黑猪能量需要量[J].动物营养学报,2014,26(8):2335-2341.  
+[6] 陈晓晖,刘锐,杨跃奎,等.川藏黑猪配套系商品猪饲养水平和饲养模式研究[J].西南农业学报,2013,26(6):2588-2591.  
+[7] NRC.Nutrient requirements of swine[M].1Oth ed.Washington,D.C.:National AcademyPress,1998.  
+[8] NRC.Nutrient requirements of swine[M].11th ed.Washington,D.C.:National Academy Press,2012.  
+[9] 中华人民共和国农业部.NY/T65—2004 猪饲养标准[S].北京:中国农业出版社,2004.  
+[10]中华人民共和国国家质量监督检验检疫总局,中国国家标准化管理委员会.GB/T6435—2014饲料中水分的测定[S].北京:中国标准出版社,2015.  
+[11]国家技术监督局.GB/T6432—1994 饲料中粗蛋白测定方法[S].北京:中国标准出版社,1994.  
+[12]中华人民共和国国家质量监督检验检疫总局,中国国家标准化管理委员会.GB/T6433—2006饲料中粗脂肪的测定[S].北京:中国标准出版社,2006  
+[13]杨嘉实,冯仰廉.畜禽能量代谢[M].北京:中国农业出版社,2004.  
+[14]杨凤.动物营养学[M].2版.北京:中国农业出版社,1993.
+
+Study on Regularity of Energy Metabolism and Deposition of 20 to $5 0 \mathrm { k g }$ Chuanzang Black pigs
+
+# LI Bin YU Dan YIN Qin DENG Hui
+
+(Animal Breeding and Genetics Key Laboratory of Sichuan Province,Feed institute of Sichuan Animal Science Academy, Chengdu 610066, China)
+
+Abstract: This experiment was conducted to investigate regularity of energy metabolism and deposition of 20 to $5 0 ~ \mathrm { k g }$ Chuanzang black pigs. In the experiment one, 64 Chuanzang black pigs at body weight of （ $( 2 0 . 1 7 { \scriptstyle \pm 3 . 4 6 } )$ kg were selected, 4 pigs were kiled to measure carcass composition after 5 days adaptation period, others were randomly divided to 5 groups based on sex (4 replicates per group and 3 pigs per replicate),each replicate were fed in the same pen, pigs in the 5 groups were fed the diets which digestible energy (DE) levels were 13.79,13.37,12.96,12.54 and $1 2 . 1 2 ~ \mathrm { M J / k g }$ ,respectively, and the average daily feed intake (ADFI),average daily gain (ADG) and feed to gain (F/G) were measured. Experiment 1 was finished when the weight of the pigs reached about $5 0 \mathrm { k g }$ , then one pig chosen in each replicate were killed to measure carcass composition. In the experiment two,15 barrows at body weight of $( 4 8 . 3 4 { \pm } 4 . 0 7 ) \$ 馆 come from experiment one were randomly divided to 5 groups (3 replicates per group and 1 pigs per replicate),each replicate were fed in the metabolic cage, pigs in the 5 groups were fed the diets as same as the experiment one,the metabolic experiment contained 3 days adaptation period and 4 days test period. The energy requirement model was built by the factorial method. The results showed as follows: dietary DE level affected the ADFI, ADG and F/G of 20 to $5 0 \mathrm { k g }$ Chuanzang black pigs. The conversion eficiency of DE transformed metabolizable energy(ME）(ME/DE）was $9 7 . 2 6 \%$ to $9 8 . 1 0 \%$ ，the mean value of deposition efficiency of ME (DED/ME） was $4 1 . 7 1 \%$ ; the mean value of ME for maintenance requirement was 0.49 MJ/W0.75or 0.85 MJ/Wo.60（DE for maintenance requirement was 0.50 MJ/W0.75 or 0.87 MJ/W0.60)， the requirement of ME and DE of weight gain was 18.91 and $1 8 . 4 7 \mathrm { M J / k g }$ 。 It is concluded that the energy requirement model is set up as $\because$ DE（MJ/d) $\scriptstyle = 0 . 5 0 4$ W $^ { \cdot 0 . 7 5 } \mathrm { + } 1 8 . 9$ 1△Wor DE（MJ/d) $\scriptstyle = 0 . 8 6 7$ （204号 W0.60+18.91△W； ME（MJ/d) $\scriptstyle = 0 . 4 9 2$ W0.75+18.47△W or ME（MJ/d) $\scriptstyle = 0 . 8 4 7$ W0.60+18.47△W.
+
+Key words: Chuanzang black pig; energy requirement; energy metabolism; energy deposition

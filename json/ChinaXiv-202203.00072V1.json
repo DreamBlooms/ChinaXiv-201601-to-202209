@@ -1,0 +1,395 @@
+[
+    {
+        "type": "text",
+        "text": "基于0.618法的改进区间插值法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "宗钰涵\\*，张彦博(北京邮电大学理学院，北京100876)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：0.618法是一维线搜索中针对一维单峰函数，应用最为广泛的一种方法。具有良好的收敛性，但其收敛性太慢，因此，本文基于函数在搜索区间端点和区间内任一点函数值的基础上，给出了一种普适性的线搜索加速策略，每步迭代都可以在较大程度上缩小函数值的不确定性区间。数值试验结果表明，其收敛速度较0.618法有所提高，尤其是当初始区间两端函数值相差较大或很大的情况下，本文改进算法可以很大程度上减小区间范围。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：一维搜索；区间插值；0.618法；加速策略中图分类号：0224文献标志码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "An improved interval interpolation method based on 0.618 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "method ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZONG Yu-han\\*, ZHANG Yan-bo (School of Science,Beijing University of Posts and Telecommunications,Beijing 100876,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The 0.618 method is the most widely used method for one-dimensional unimodal function in one-dimensional line search.It has good convergence,but its convergence is too slow. Therefore, based on the search of function values at the end points of the interval and any point in the interval, this paper presents a universal line search acceleration strategy. Each iteration can reduce the uncertainty interval of function values to a large extent.Numerical results show that the convergence speed of the proposed algorithm is better than that of the O.618 method, especially when the function values at both ends of the initial interval dier greatly or greatly,the improved algorithm in this paper can reduce the interval range to a large extent. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: One-dimensional search; Interval interpolation; O.618 method; To accelerate the strategy ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在最优化的迭代算法中，需要用到一维搜索或简称线搜索，这是许多非线性规划算法不可或缺的一部分。它可归结为单变量函数的极小化问题[1],其数学模型为： $\\operatorname* { m i n } { f ( x ) }$ 。其分为精确线搜索和非精确线搜索[1]-[3]，而精确线搜索又分为直接法和解析法。解析法是使用函数导数的搜索，如插值法、牛顿法及抛物线法等；但当函数的导数不可用时，就需要采用不需要导数的方法，即直接法求解，其基本思想是：首先确定包括问题最优解的搜索空间，然后采用某种插值或分割技术缩小这个区间，进行精确求解。此类方法包括黄金分割法、分数法及二次插值等。在一维搜索中，一般要求函数是单峰函数，因此本文只考虑单峰函数情况。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "现实中大多数函数的导数是不可用或极难求得的，这时候直接法的应用便广泛起来。从上述直接法的思想可以看出，决定直接法性能的关键有两点：一是初始区间的选取，二是包含极小值点子区间的缩小[4]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0.618法是一维直接搜索中应用最为广泛的一种方法，其优点是对函数的连续性不做要求；每次迭代只计算一个新的试探点，另一个是重复利用的；具有良好的收敛性，收敛速度是线性的。但缺点是收敛太慢。本文在0.618法的基础之上，提出了一种改进的优化方法。其并将其与0.618法比较，通过数值计算证明了此种方法收敛速度快，迭代步数少。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 0.618法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "0.618 法也称黄金分割法，其基本思想[5]是：通过对每步试探点函数值的比较，使包含极小值点的搜索区间（不确定区间）不断缩小，当达到某种准则时，可以找到极小值点的近似。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "0.618法取试探点的规则为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { k } = a _ { k } + 0 . 3 8 2 ( b _ { k } - a _ { k } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { k } = a _ { k } + 0 . 6 1 8 ( b _ { k } - a _ { k } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其计算步骤如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "步骤0：给定初始区间 $[ a _ { 0 } , b _ { 0 } ]$ 及精度 $ { \\varepsilon } \\in \\left( 0 , 1 \\right)$ 计算试探点 $\\lambda _ { 1 }$ 和 $\\mu _ { \\mathrm { 1 } }$ ，计算公式为",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "计算函数值 $f \\left( \\lambda _ { k + 1 } \\right)$ ，转步骤4。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "步骤4：置 $k : = k + 1$ ，返回步骤1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2基于区间插值的优化算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[6][7]提出了基于区间缩小的不同改进算法，它们分别利用区间一端一阶导数和二阶导数，进一步缩小区间，但对于导数不可求或极难求得时，上述方法就不再适用。因此在本文中，我们希望通过利用当前搜索区间两端点的函数值及此区间上任意一点的函数值，构造出一种一维线搜索的加速算法，来改进0.618法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设 $f ( x )$ 为导数不可求或极难求得的一维连续单峰函数， $\\left[ a _ { k } , b _ { k } \\right]$ 为包含极小值点 $x ^ { * }$ 的当前搜索区间，首先我们选取 $f { \\left( { { a } _ { k } } \\right) }$ 与 $f { \\big ( } b _ { k } { \\big ) }$ 中函数值大的点，比如 $f { \\left( a _ { k } \\right) } < f { \\left( b _ { k } \\right) }$ ，则一定存在一点 $\\xi$ 满足",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf \\left( \\xi \\right) = f \\left( a _ { \\boldsymbol { k } } \\right) , \\xi \\in \\left[ a _ { \\boldsymbol { k } } , b _ { \\boldsymbol { k } } \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\lambda _ { 1 } = a _ { 0 } + 0 . 3 8 2 ( b _ { 0 } - a _ { 0 } ) } \\\\ { \\quad } \\\\ { \\mu _ { 1 } = a _ { 0 } + 0 . 6 1 8 ( b _ { 0 } - a _ { 0 } ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "计算函数值 $f \\bigl ( \\lambda _ { 1 } \\bigr )$ 和 $f \\left( \\mu _ { 1 } \\right)$ ，令 $k = 1$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "步骤1：若满足 $\\left| b _ { k } - a _ { k } \\right| \\leq \\varepsilon$ ，则停止计算，得到极小值点的近似 $x ^ { * } = { \\frac { b _ { k } + a _ { k } } { 2 } }$ 。否则，当$f { \\left( \\lambda _ { k } \\right) } > f { \\left( \\mu _ { k } \\right) }$ 时，转步骤2；当 $f { \\left( \\lambda _ { k } \\right) } \\leq f { \\left( \\mu _ { k } \\right) }$ 时，转步骤3。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "步骤2：置 $a _ { k + 1 } = \\lambda _ { k }$ ， $b _ { k + 1 } = b _ { k }$ ， $\\lambda _ {  { \\boldsymbol { k } } + 1 } = \\mu _ {  { \\boldsymbol { k } } }$ ，",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { k + 1 } = a _ { k + 1 } + 0 . 6 1 8 ( b _ { k + 1 } - a _ { k + 1 } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "计算函数值 $f \\left( \\mu _ { k + 1 } \\right)$ ，转步骤4。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "步骤3：置 $a _ { { } _ { k + 1 } } = a _ { { } _ { k } } , { } \\ b _ { { } _ { k + 1 } } = \\mu _ { { } _ { k } } , { } \\ \\mu _ { { } _ { k + 1 } } = \\lambda _ { { } _ { k } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { k + 1 } = a _ { k + 1 } + 0 . 3 8 2 ( b _ { k + 1 } - a _ { k + 1 } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上述属性表明区间 $\\left[ \\xi , b _ { k } \\right]$ 不包含 $x ^ { * }$ 。所以我们可以在进行下一步前如先去掉区间 $\\left[ \\xi , b _ { k } \\right]$ ，之后再对新区间进行分割，会使算法具有更好的效能。若想利用上述优点，关键在于如何求 $\\xi$ 使得 $f ( \\xi ) = f { \\big ( } a _ { k } { \\big ) }$ 0若所给问题函数简单，可以得到满足条件的精确解，但适用范围很局限，此时就需要另一种求解 $\\xi$ 的通用方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因为插值法是只利用函数值信息，不涉及导数信息，因此我们提出用插值法来求得可代替 $\\xi$ 的一个近似值 $\\varsigma$ 。具体思想为：利用函数在初始区间$[ a _ { 0 } , b _ { 0 } ]$ 端点处的函数值 $f { \\left( a _ { 0 } \\right) }$ ， $f \\left( b _ { 0 } \\right)$ 及初始区间内任一点 $c \\in \\left( a _ { 0 } , b _ { 0 } \\right)$ （一般我们选此点为区间中点）的函数值 $f ( c )$ ，来构造目标函数的二次逼近函数 $\\phi ( x )$ ，即利用三点二次插值方法构造逼近函数[8]，之后利用此函数求解满足 $\\phi { \\left( \\varsigma \\right) } = \\phi { \\left( { { a } _ { k } } \\right) }$ 的 $\\varsigma$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "具体过程[3]为：通过曲线 $y = f { \\big ( } x { \\big ) }$ 的三点${ \\left( { x _ { 1 } , { f } _ { 1 } } \\right) } , { \\left( { { x } _ { 2 } , { f } _ { 2 } } \\right) }$ ， $\\left( x _ { 3 } , f _ { 3 } \\right)$ 作二次函数 $y = \\phi { \\big ( } x { \\big ) }$ 即$\\phi ( x ) = { \\frac { ( x - x _ { 0 } ) ( x - x _ { 2 } ) } { ( x _ { 1 } - x _ { 0 } ) ( x _ { 1 } - x _ { 2 } ) } } f _ { 1 } + { \\frac { ( x - x _ { 1 } ) ( x - x _ { 2 } ) } { ( x _ { 0 } - x _ { 1 } ) ( x _ { 0 } - x _ { 2 } ) } } f _ { 0 } + { \\frac { ( } { ( x _ { 0 } - x _ { 2 } ) ( x - x _ { 0 } ) } } f _ { 1 } \\quad$ 令 $\\phi { \\left( \\varsigma \\right) } = \\phi { \\left( { { a } _ { k } } \\right) }$ ，得$\\varsigma =  \\frac  ( f { \\bigl ( } a _ { k } { \\bigr ) } { \\bigl ( } { c _ { k } } ^ { 2 } - { b _ { k } } ^ { 2 } { \\bigr ) } + f { \\bigl ( } b _ { k } { \\bigr ) } { \\bigl ( } a _ { k } { \\vphantom { ' } } ^ { 2 } - { c _ { k } } ^ { 2 } { \\bigr ) } + f { \\bigl ( } c _ { k } { \\bigr ) } { \\bigl ( } b _ { k } ^ { 2 } - a _ { k } ^ { 2 } { \\bigr ) } + a _ { k } { \\bigl ( } f { \\bigl ( } a _ { k } { \\bigr ) } { \\bigr ) } + f { \\bigl ( } a _ { k } { \\bigr ) } { \\bigl ( } a _ { k } { \\bigr ) } + f { \\bigl ( } a _ { k } { \\bigr ) } { \\bigl ( } c _ { k } ^ { 2 } - b _ { k } { \\bigr ) } + f { \\bigl ( } a _ { k } { \\bigr ) } { \\bigl ( } a _ { k } { \\bigr ) } + f { \\bigl ( } a _ { k } { \\bigr ) } { \\bigl ( } a _ { k } { \\bigr ) } + f { \\bigl ( } a _ { k } { \\bigr ) } { \\bigl ( } a _ { k } { \\bigr ) } + f { \\bigl ( } a _ { k } { \\bigr ) } { \\bigl ( } a _ { k } { \\bigr ) } + f { \\bigl ( } a _ { k } { \\bigr ) }$ 对于 $\\phi { \\left( \\varsigma \\right) } = \\phi { \\left( b _ { k } \\right) }$ ，类同。下面给出此改进方法的算法步骤：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "步骤0：给定初始搜索区间 $[ a _ { 0 } , b _ { 0 } ]$ 和区间内一点 $c _ { 0 } = \\frac { a _ { 0 } + b _ { 0 } } { 2 }$ 及精度 $ { \\varepsilon } \\in \\left( 0 , 1 \\right)$ 。计算函数值 $f { \\left( a _ { 0 } \\right) }$ $f ( b _ { 0 } ) , f ( c _ { 0 } )$ 。置 $k = 0$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "步骤1：若满足 $\\left| b _ { k } - a _ { k } \\right| \\leq \\varepsilon$ ，则停止计算，得到极小值点的近似 $x ^ { * } = { \\frac { b _ { k } + a _ { k } } { 2 } }$ b+ak。否则转步骤2。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "步骤2：若 $f { \\left( a _ { k } \\right) } < f { \\left( b _ { k } \\right) }$ ，按公式$\\varsigma = { \\frac { \\left( f { \\bigl ( } a _ { k } { \\bigr ) } { \\bigl ( } c _ { k } ^ { 2 } - b _ { k } ^ { 2 } { \\bigr ) } + f { \\bigl ( } b _ { k } { \\bigr ) } { \\bigl ( } a _ { k } ^ { 2 } - c _ { k } ^ { 2 } { \\bigr ) } + f { \\bigl ( } c _ { k } { \\bigr ) } { \\bigl ( } b _ { k } ^ { 2 } - a _ { k } ^ { 2 } { \\bigr ) } + a _ { k } { \\bigl ( } f { \\bigl ( } a _ { k } { \\bigr ) } ( b _ { k } - c _ { k } ) + f { \\bigl ( } b _ { k } { \\bigr ) } ( c _ { k } - a _ { k } ) + f { \\bigl ( } c _ { k } { \\bigr ) } { \\bigl ( } a _ { k } - b _ { k } { \\bigr ) } { \\bigr ) } \\right) } { f { \\bigl ( } b _ { k } { \\bigr ) } { \\bigl ( } a _ { k } - c _ { k } { \\bigr ) } + f { \\bigl ( } a _ { k } { \\bigr ) } ( c _ { k } - b _ { k } ) + f { \\bigl ( } c _ { k } { \\bigr ) } ( b _ { k } - a _ { k } { \\bigr ) } } }$ 计算 $\\varsigma$ ，去掉区间 $\\left[ \\varsigma , b _ { k } \\right]$ ，置 $b _ { k } = \\varsigma$ 得新的区间$\\left[ a _ { k } , b _ { k } \\right]$ ，转步骤4。否则转步骤3。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "步骤3：当 $f { \\left( a _ { k } \\right) } \\geq f { \\left( b _ { k } \\right) }$ 时，按公式$\\varsigma = { \\frac { \\left( f { \\bigl ( } a _ { k } { \\bigr ) } { \\bigl ( } c _ { k } ^ { 2 } - b _ { k } ^ { 2 } { \\bigr ) } + f { \\bigl ( } b _ { k } { \\bigr ) } { \\bigl ( } a _ { k } ^ { 2 } - c _ { k } ^ { 2 } { \\bigr ) } + f { \\bigl ( } c _ { k } { \\bigr ) } { \\bigl ( } b _ { k } ^ { 2 } - a _ { k } ^ { 2 } { \\bigr ) } + b _ { k } { \\bigl ( } f { \\bigl ( } a _ { k } { \\bigr ) } ( b _ { k } - c _ { k } ) + f { \\bigl ( } b _ { k } { \\bigr ) } ( c _ { k } - a _ { k } ) + f { \\bigl ( } c _ { k } { \\bigr ) } { \\bigl ( } a _ { k } - b _ { k } { \\bigr ) } { \\bigr ) } \\right) } { f { \\bigl ( } b _ { k } { \\bigr ) } { \\bigl ( } a _ { k } - c _ { k } { \\bigr ) } + f { \\bigl ( } a _ { k } { \\bigr ) } ( c _ { k } - b _ { k } ) + f { \\bigl ( } c _ { k } { \\bigr ) } { \\bigl ( } b _ { k } - a _ { k } { \\bigr ) } } }$ 计算 $\\varsigma$ ，去掉区间 $\\left[ a _ { k } , \\varsigma \\right]$ ，置 $a _ { k } = \\varsigma$ 得新的区间",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\left[ a _ { k } , b _ { k } \\right]$ ，转步骤4。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "步骤4：计算试探点 $\\lambda _ { k }$ 和 $\\mu _ { k }$ ，公式为$\\begin{array} { c } { \\lambda _ { k } = a _ { k } + 0 . 3 8 2 ( b _ { k } - a _ { k } ) } \\\\ { { } } \\\\ { \\mu _ { k } = a _ { k } + 0 . 6 1 8 ( b _ { k } - a _ { k } ) } \\end{array}$ 计算函数值 $f { \\left( \\lambda _ { k } \\right) }$ 和 $f { \\left( \\mu _ { k } \\right) }$ 。当 $f { \\left( \\lambda _ { k } \\right) } > f { \\left( \\mu _ { k } \\right) }$ 时，转步骤5；当 $f { \\left( \\lambda _ { k } \\right) } \\leq f { \\left( \\mu _ { k } \\right) }$ 时，转步骤6。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "步骤5：置 $a _ { k + 1 } = \\lambda _ { k }$ ， $b _ { k + 1 } = b _ { k }$ ， $c _ { k + 1 } = \\mu _ { k }$ ，转步骤7。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "步骤6：置 $a _ { k + 1 } = a _ { k } , b _ { k + 1 } = \\mu _ { k } , c _ { k + 1 } = \\lambda _ { k } ,$ （20转步骤7。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "步骤7：置 $k : = k + 1$ ，返回步骤1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3数值实验 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为验证改进算法的效果，我们选取一个简单的一维单峰函数和两个较复杂的单峰函数[9]来比较改进的算法与0.618法，将它们对例1、2、3中目标函数在指定区间进行搜索，通过对比两算法的迭代步数和输出结果精度，衡量新算法的优势。其中精度我们分别选取 $1 0 ^ { - 2 }$ ， ${ { 1 0 } ^ { - 4 } }$ ，结果如表2、表3、表4所示。例1： $f ( x ) = x ^ { 2 }$ ，最小值点为0，初始区间选为［-1,100].例2： $f ( x ) = e ^ { x } - 3 x ^ { 2 }$ ，最小值点为-0.144275，初始区间选为 $[ - 1 , 4 ]$ 例3： $f { \\bigl ( } x { \\bigr ) } = \\cos x + { \\bigl ( } x - 2 { \\bigr ) } ^ { 2 }$ ，最小值点为2.35424，初始区间选为[1,4].",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/5a55aaebc32e9827608913880fadff234d48bbc41d6fb04c23d2e72da4f1fe0e.jpg",
+        "table_caption": [
+            "表1函数1在两种算法下的结果比较 Table 1 Comparison of the results of function 1 under the two algorithms "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>改进算法</td><td>0.618法</td></tr><tr><td>初始区间</td><td>[-1,100]</td><td>[-1,100]</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/bb86277399e33c1d7922e9cb675f8bb3e4ed98d953c9bddd53a8631ed924d031.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>迭代步数</td><td>6</td><td>20</td></tr><tr><td>输出结果</td><td>1.15431×10\"</td><td>2.11656×10-</td></tr><tr><td>初始区间</td><td>[-1,100]</td><td>[-1,100]</td></tr><tr><td>迭代步数</td><td>10</td><td>29</td></tr><tr><td>输出结果</td><td>-9.13146×106</td><td>7.23312×10</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/6cfd312617c565bbb5e5e0c74fa66c2ad1872cd9fc72b6d35ad1ddba0bcd679e.jpg",
+        "table_caption": [
+            "表2函数2在两种算法下的结果比较 Table 2 Comparison of the results of function 2 under the two algorithms "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>改进算法</td><td>0.618法</td></tr><tr><td>初始区间</td><td>[-1,4]</td><td>[-1,4]</td></tr><tr><td>迭代步数</td><td>5</td><td>10</td></tr><tr><td>输出结果</td><td>-0. 147635</td><td>-0. 144297</td></tr><tr><td>初始区间</td><td>[-1,4]</td><td>[-1,4]</td></tr><tr><td>迭代步数</td><td>13</td><td>23</td></tr><tr><td>输出结果</td><td>-0. 148459</td><td>-0.144314</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d5f94a517df955cfec7991e09cfc24bb2a459a397c89fe1ab5207cc8e3259482.jpg",
+        "table_caption": [
+            "表3函数3在两种算法下的结果比较 Table 3 Comparison of the results of function 3 under the two algorithms "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>改进算法</td><td>0.618法</td></tr><tr><td>初始区间</td><td>[1,4]</td><td>[1,4]</td></tr><tr><td>迭代步数</td><td>6</td><td>11</td></tr><tr><td>输出结果</td><td>2.35115</td><td>2.3542</td></tr><tr><td>初始区间</td><td>[1,4]</td><td>[1,4]</td></tr><tr><td>迭代步数</td><td>12</td><td>22</td></tr><tr><td>输出结果</td><td>2.3468</td><td>2.3542</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过观察三个函数的测试结果，改进算法的迭代步数不仅比0.618法的要小得多，而且最优值点精度也有明显改进，同时构造出的点列能够在有限步内得到达到所要求精度的最优化问题的最优解。因此改进算法不仅有稳定的收敛性，而且在各种情况下也能保持较快的收敛速度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "同时经过分析可知，0.618法每步迭代只计算一个函数值，而改进的算法每步计算两个函数值，但因为迭代步数减少不止一半，因此改进算法也是有一定提高的。我们通过测试函数说明这一结论，针对例1在不同长度的区间上的区间缩短率，对0.618法和改进算法进行比较，结果如表4所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表4两算法对于不同区间的计算Table 4 Two algorithms for different",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/85599c9d18f4e5c00e9476fbbdcc09d5466a3f2ec98bf589ba7723ec6e9178e8.jpg",
+        "table_caption": [
+            "interval calculation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>精度：</td><td colspan=\"2\">0.618法</td><td colspan=\"2\">改进算法</td></tr><tr><td>10-4</td><td>迭代</td><td>输出</td><td>迭代 步数</td><td>输出 结果</td></tr><tr><td>初始 区间</td><td>步数</td><td>结果</td><td></td><td></td></tr><tr><td>[-1,500]</td><td>33</td><td>-3.96339×10-5</td><td>10</td><td>-9.13188×10</td></tr><tr><td>[-1,100]</td><td>29</td><td>-7.23312×10-5</td><td>10</td><td>-9.13146×10</td></tr><tr><td>[-1,10]</td><td>25</td><td>-2.76438×10-5</td><td>10</td><td>-9.08866×10</td></tr><tr><td>[-1,1]</td><td>21</td><td>-4.40305×10-5</td><td>10</td><td>-8.88847×10</td></tr><tr><td>[-1,0.1]</td><td>20</td><td>-3.79423×10-5</td><td>8</td><td>-6.25798×10</td></tr><tr><td>[-1,0.01]</td><td>20</td><td>-4.57181×10-5</td><td>5</td><td>-1.86693×10</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "观察表4，当初始区间是[-1,500]时，迭代步数是0.618法的三分之一倍，同时区间缩短率减小了 $2 8 \\%$ ；当初始区间是 $[ - 1 , 0 . 0 1 ]$ 时，迭代步数是0.618法的四分之一倍，同时区间缩短率减小了$3 6 \\%$ ；而当初始区间是 $[ - 1 , 1 ]$ 时，迭代步数虽然是0.618 法的五分之二倍，但是区间缩短率只减小了$6 \\%$ 。因此我们可以发现当初始区间两端函数值相差较大或很大的情况下，比如初始区间两端点相差100倍左右时，改进的算法可以较快的减小区间范围，以较快的速度收敛到最小值点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当区间长度慢慢变小时，0.618法的迭代步数变化很小，或者几乎不变，但是相比较而言，改进的算法在区间长度减小时，不会出现停滞的现象，且迭代步数还会偶尔成倍减小，因此改进的算法可以显现出很好的性能。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4结语 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "线搜索算法是单因素实验设计中最常用的一种方法，其收敛速度直接影响算法的效率。如何利用函数在搜索区间的信息，提高算法的收敛速度是相关研究的重点。本文通过利用目标函数在搜索区间端点处的函数值信息，不断缩小每步迭代区间，获得了具有普适性的加速策略，进行的数值实验表明本研究所给出的算法能够加快现有线搜索算法的收敛速度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]陈宝林.最优化理论与算法[M]．北京：清华大学出版社，2005：254-280",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[2]许国根，赵后随，黄智勇．最优化方法及其MATLAB实现[M].北京：北京航空航天大学出版社,2018：12-18  \n[3]张烨．基于混合遗传算法的离散平衡配重优化[J]．电子元器件与信息技术，2021,5(1)：116-117[4]胡梦英，贺祖国．基于重开始共轭思想的改进多项式插值法[J].软件，2015，36（11）：48-51[5]李学文，闫桂峰，李庆娜.最优化方法[M]．北京：北京理工大学出版社，2018：101-118  \n[6]姚胜伟，邬玉萍.一种线搜索加速策略及其应用  \n[J]．河池学院学报，2019,39(2)：43-48  \n[7]董媛媛，,谢承蓉.一种改进的0.618法[J]．长江  \n大学学报,2014,11(22)：4-6  \n[8]林青瑜，洪智勇.对基于最优化原理的高压配电  \n网建设规模评估分析[J]．电子元器件与信息技  \n术,2020,4(10) :72-73  \n[9]Emin Kahya. A new unidimensional search  \nmethod for optimization:The 5/9  \nmethod[J].Appl.Math.Comput,2005：163-179作者简介：  \n宗钰涵(1997-），女，硕士研究生，河北省，主要研究方向：最优化算法，379508292@qq.com。  \n张彦博 $\\left( 2 0 0 0 - \\right)$ ，男，本科生，主要研究方向：计算机。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

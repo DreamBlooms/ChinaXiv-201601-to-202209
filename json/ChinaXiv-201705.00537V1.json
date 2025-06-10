@@ -1,0 +1,542 @@
+[
+    {
+        "type": "text",
+        "text": "First-Principles Prediction of Ultralow Lattice Thermal Conductivity of Dumbbell Silicene: A Comparison with Low-Buckled Silicene ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bo Peng† Hao Zhang\\*† Hezhu Shao, Yuanfeng Xu,† Rongjun Zhang† Hongliang Lu,l David Wei Zhang, and Heyuan Zhu\\*,+ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Shanghai Ultra-precision Optical Manufacturing Engineering Research Center and Key Laboratory of Micro and Nano Photonic Structures (Ministryofducation)，DepartmentofOptical ScienceandEnginering,FudanUniversityanghai04Cina \\*Ningbo Institute of Materials Technologyand Engineering, Chinese Academy of Sciences, Ningbo 315201,China IState KeyLaboratoryofAICandSystem,Instituteof dvanced Nanodevices,Schoolof Microelectronics,Fudan Uiversity Shanghai 200433, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/61a23842816dc91c8afa250119522c46c9a8a7fb206a49ee6002a59cd0709cdf.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT:Thedumbbellstructureof two-dimensional group IVmaterialofers alternatives to grow thin flmsfordiverse applications.Thermal properties areimportantfortheseapplications.Weobtain thelatice thermalconductivityoflow-buckled (LB)and dumbbell(DB)slicene byusing first-principles calculations and the Boltzmann transport equation for phonons.For LB silicene, the calculated latice thermal conductivity with naturally occurring isotope concentrations is $2 7 . 7 2 \\mathrm { W / m K }$ For DB silicene, the calculated value is $2 . 8 6 ~ \\mathrm { W / m K } .$ The thermal conductivity for DB silicene is much lower than LB silicene due to stronger phonon scatering.Ourresults willinduce further theoreticaland experimental investigationsonthethermoelectric (TE)propertiesof DBsilicene.The size-dependentthermal conductity inbothLBandDB silicene is investigated as wellfor designing TE devices.This work sheds ight on the manipulation of phonon transport in two-dimensional group IV materials by dumbbel structure formed from the addition of adatoms. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KEYWORDS: 2D group $I V$ materials， silicene, phonon transport, dumbbell structure, Boltzmann transport equation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Unique electronic properties，high chemical stability，and mechanical strength have made graphene a material of interest in various_fields ranging from electronics to energy conversion devices.1-7 Reasonably， other group IV elements have been considered as candidates to have a graphenelike two-dimensional (2D） honeycomb structure with similar exceptional properties.8-18 Recentlysilicene,germaneneand stanene (2D silicon,germanium,and tin nanosheet, respectively） have been fabricated by epitaxial growth on substrates.19-21 Compared to other 2D group IV materials,the realization of silicene would be of great importance because of its easier incorporation into silicon-based microelectronics industry.First-principles calculations have predicted that silicene has a low-buckled (LB) honeycomb structures.8,14 However, to explain some characteristics of silicene grown on $\\mathrm { A g } ( 1 1 1 )$ surfaces， some modifications of this graphene-like structure have been proposed: the addition ofSi adatoms to LB silicene resultsin the formation of a dumbbell (DB） structure with a lower total energy per atom.1622-2eeoseceilfopV materials beyond the LB honeycomb lattices.Furthermore,DB structures occur not only for monolayer monatomic honeycomb structures,but also for their compounds such as SiGe and SiC.l622Fafcre barrier is not high,which can offer alternatives to grow thin films with diverse properties.24 Although the electronic,optical, and magnetic properties of DB silicene have been studied intensively,1 y1622eotptpa an important role in potential applications such as electronic and energy conversion devices,are not revealed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "For application in thermoelectric （TE） energy conversion, it is important to reduce the lattice thermal conductivity of a material while maintaininga high electrical conductivity,which oftenconflict witheachotherTaditionallytherearefour factors to guide the search for low thermal conductivity materials:(i） weak interatomic bonding,(2） high average atomic mass，(3） complex crystal structure，and (4）high anharmonicity.33 According to Slack's theory, weak interatomic bonding and high average atomic mass imply a low Debye temperature,and high anharmonicity indicates strong anharmonic phonon scattering， which lead to a low thermal conductivity.This has been observed in ${ \\mathrm { C u } } _ { 2 } { \\mathrm { G e S e } } _ { 3 }$ and monolayer transition metal dichalcogenides $( \\mathbf { M o S } _ { 2 } ,$ $\\mathbf { M o S e } _ { 2 }$ and $\\mathrm { W S } _ { 2 } .$ ）inourpreviouswork.34,35Fullymicroscopic computational materials techniques have been developed to study thermal transport properties recently.36-39 Thus, systematic investigations of phonon transport properties in LB and DB silicene can be performed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Herewe investigate the lattice thermal conductivity $\\kappa$ ofboth LB and DB silicene using first-principles calculations and selfconsistent iterative solution of the Boltzmann transport equation (BTE) for phonons.37-39 A much lower thermal conductivity in DB silicene is observed $\\left( 2 . 8 6 ~ \\mathrm { W / m K } \\right)$ ，which may indicate higher TE efficiency and will induce further investigations on the TE performance of DB silicene.The underlying mechanism is investigated by both Slack's theory and calculation of phonon relaxation time.The influence of naturally occurring isotopes is studied as well.Finally，for designing TE nanostructures,we investigate the size-dependent lattice thermal conductivity. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.METHODOLOGY ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The in-plane K is isotropic and can be calculated as40,4: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\kappa = \\kappa _ { \\alpha \\alpha } = \\frac { 1 } { V } \\sum _ { \\lambda } C _ { \\lambda } \\nu _ { \\lambda \\alpha } ^ { 2 } \\tau _ { \\lambda \\alpha }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $V$ is the crystal volume, $\\lambda$ is the phonon mode (comprising both a wave vector $\\mathbf { q }$ and a phonon branch index $j$ ) $C _ { \\lambda }$ is the heat capacity per mode, $\\nu _ { \\lambda \\alpha }$ is the group velocity of mode $\\lambda$ along $\\alpha$ direction,and $\\tau _ { \\lambda \\alpha }$ is the relaxation time.We use the nominal layer thicknesses $h =$ 4.20A for both LB and DB silicene,corresponding to the van der Waals radii of slicon.4243 Using the ShengBTEcode6-39we calculate the lattice thermal conductivity iteratively with the harmonic and anharmonic (third-order） interatomic force constants (IFCs） as the only inputs,which are obtained from first-principles calculations. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We perform the calculations based on density functional theory (DFT)using the Vienna ab initio simulation package (VASP).44 We choose the generalized gradient approximation (GGA） in the Perdew-Burke-Ernzerhof (PBE）parametrization for the exchangecorrelation functional.A plane-wave basis set with kinetic energy cutoff of $6 0 0 ~ \\mathrm { e V }$ is employed.During structural relaxation for the unit cell of LB (DB) silicene,a $2 1 \\times 2 1 \\times 1$ $( 1 5 \\times 1 5 \\times 1 )$ q-mesh isused,until the energy differences are converged within $1 0 ^ { - 6 } ~ \\mathrm { e V } ,$ with a HellmanFeynman force convergence threshold of $1 0 ^ { - 2 } ~ \\mathrm { e V / \\mathring A } .$ A vacuum spacing larger than 15 A(20 A) is used for LB (DB）silicene to eliminate interactions between adjacent layers. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "By calculating the dynamical matrix through the linear response of electron density,the harmonic IFCs can be obtained based on density functional perturbation theory (DFPT).45 Using the supercell approach,a $5 \\times 5 \\times 1$ 1 $( 3 \\times 3 \\times 1 )$ ）supercell with $\\bar { 5 } \\times 5 \\times 1$ 1 $( 3 \\times$ $3 \\times 1$ ） $\\mathbf { q }$ -mesh is used for LB(DB） silicene.The phonon dispersion relation is obtained using the harmonic IFCs,and subsequently the group velocity $\\nu _ { \\lambda \\alpha }$ and specific heat $C _ { \\lambda }$ can be obtained. The thirdorderanharmonic IFCs play a significant role in determining the threephonon scattering rate,which is the inverse of $\\tau _ { \\lambda \\alpha } .$ Using a supercellbased,finite-difference method,the anharmonic IFCs are calculated,39 and the same $5 \\times 5 \\times 1$ 0 $3 \\times 3 \\times 1 )$ supercell is used for LB (DB) silicene with $s \\times s \\times 1$ ( $( 3 \\times 3 \\times 1$ ） $\\mathbf { q }$ -mesh.We include the interactions with the eighth nearest-neighbor atoms for both structures,which is well converged. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The convergence of $\\kappa$ with respect to $\\mathbf { q }$ points is tested in our calculation.We introduce discretizationa of the Brillouin zone (BZ) into a $\\Gamma$ -centered regular gridof $9 0 \\times 9 0 \\times 1$ $( 5 0 \\times 5 0 \\times 1 )$ q points for LB (DB) silicene.A Gaussian function is used to enforce the conservation of energy in the three-phonon processes with a scale parameter of O.5 for broadening.38 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.RESULTS AND DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1.Crystal Structures and Phonon Dispersions.Figure shows the optimized structure of LB and DB silicene.The optimized LB silicene has a hexagonal structure with space group $P \\overline { { 3 } } m \\mathbf { l }$ and $2 \\ \\mathrm { S i }$ atoms in one unit cell.A low-buckled confguration is found in Figure la,which is similar to LB germanene and stanene. $^ { 9 , 1 0 , 1 4 , 1 6 , 1 7 }$ As shown in Figure 1b, the optimized DB silicene has a hexagonal structure with space group P6/mmm and $1 0 \\mathrm { S i }$ atoms in one unit cell. Two DB units are formed at the para positions of a honeycomb ring and the other Si atoms stay in the same plane,which is similar to DB stanene and DB $\\dot { S _ { \\mathrm { n } _ { 6 } } } \\mathrm { G e } _ { 4 }$ 28,30 The optimized geometries of LB and DB silicene are listed in Table 1.The lattice constant a and buckling height $h$ of both LB and DB silicene are in good agreement withpreviousstudies.14164647Infact，heni adatoms are placed on silicene,DB structures can be formed without any energy barrier,2S and these adatoms gradually cover the surface uniformly.24 The DB structures can construct stable periodic structures with higher cohesive energy，because DBDB coupling is attractive until the first nearest-neighbor separation,2426 and the energy barrier to the migration of DBs along the straight path between the two first (second) nearest-neighbor atoms of silicene is 0.75 (0.95）eV.24 As shown in Table 1, the calculated cohesive energy per Si atom for DB silicene is $0 . 2 1 \\ \\mathrm { \\ e V }$ higher than that of LB silicene, indicating that DB silicene is more stable. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b0554f350015d3d8fe29ea9d41571825e45ba6116cdabf83937e0b640d5c897c.jpg",
+        "img_caption": [
+            "Figure 1.Top view and side view of(a) LB and(b)DB silicene. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/bf9505681b1acbadab15350873c7fe138402f58c780ffbfc7fdc5787c6219a72.jpg",
+        "table_caption": [
+            "Table 1.Lattice Constant ${ \\pmb a }$ ，BucklingHeight $\\pmb { h }$ ，and Cohesive Energy $E _ { \\mathrm { c } }$ ofLB and DB Silicenea "
+        ],
+        "table_footnote": [
+            "aOther theoretical data are listed in parentheses for comparison. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>a (A) h (A)</td><td></td><td>E. (eV/atom)</td></tr><tr><td rowspan=\"2\">LB silicene</td><td>3.87</td><td>0.44</td><td>4.77</td></tr><tr><td>(3.8746)</td><td>(0.4546)</td><td>(4.5746)</td></tr><tr><td rowspan=\"4\">DB silicene</td><td>(3.8747)</td><td>(0.4447)</td><td></td></tr><tr><td>(3.8814)</td><td>(0.4414)</td><td></td></tr><tr><td>7.43</td><td>2.71</td><td>4.98</td></tr><tr><td>(7.4316)</td><td>(2.7116)</td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "High cohesive energy may not ensure that these two materials correspond to deep minima in the BornOppenheimer surface.Here，we investigate the dynamic stability of these two structures by the calculations of phonon dispersion in Figure 2. The calculated phonon dispersion of LB silicene is in good agreement with previous works.46-49 The frequencies of all modes are positive over the whole $\\mathbf { B } \\mathbf { Z } ,$ therefore both LB and DB silicene are dynamically stable. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ee2f56017d2875171b43b40a784688d68a83ccdf69ef27154cb53d41c79edfb.jpg",
+        "img_caption": [
+            "Figure 2.Phonon dispersion for(a） LB and (b) DB silicene along different symmetry lines. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure 2a, the longitudinal acoustic (LA) and transverse acoustic (TA) branches of LB silicene are linear near the $\\Gamma$ point,and out-of-plane acoustic $\\mathrm { ( Z A ) }$ branch shows a quadratic trend with a linear component; while the ZA branch of DB silicene is totally quadratic near the $\\Gamma$ point, as shown in Figure 2b.This difference comes from the structural difference. DB silicene belongs to $D _ { 6 h }$ point group,whereas the buckled structure belongs to the point group symmetry of $D _ { 3 d }$ which breaks the reflection symmetry,and therefore the $z$ modes of LB silicene couple with the XY modes.4849 This results in the linear dispersion component of ZA phonons near the $\\Gamma$ point. Similar linear ZA dispersion has been observed in other buckled structures such as germanene and stanene.17,47,49 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The different shapes of ZA phonon dispersion lead to different group velocities $\\nu _ { g }$ for LB and DB silicene near the zone center.As shown in Figure 3a,a small but nonzero sound velocity for the ZA branch of silicene is observed in LB silicene, which is consistent with other studies.48,50 This is because the dispersion of the ZA branch near the $\\Gamma$ point contains a linear component. The phonon group velocities of LB and DB silicene for the ZA,TA,and LA modes in the long-wavelength are listed in Table 2.It should be noticed that the sound velocities of LB silicene for the ZA,TA,and LA modes are larger than those of DB silicene. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5fac9727087e0ea232e30ec6b9f55259b983fd40495a736aa53fa810b5acabe8.jpg",
+        "img_caption": [
+            "Figure 3.Calculated phonon group velocities $\\nu _ { \\mathrm { g } }$ of (a) LB and (b) DB silicene in the whole BZ. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/7e25d1989dc73cdb50661cbcb5b9aabe8942073b7166b484cd26c2b7b9aa84bb.jpg",
+        "table_caption": [
+            "Table 2. Sound Velocities and Debye Temperature $\\mathbf { \\Theta _ { \\mathbf { p } } }$ of LB and DB Silicene in Comparison with Graphene "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>vg(ZA) (m/s)</td><td>𝑣g(TA) (m/s)</td><td>vg(LA) (m/s)</td><td>0D (K)</td></tr><tr><td>LB silicene</td><td>860</td><td>5570</td><td>9520</td><td>798.1</td></tr><tr><td>DB silicene</td><td>0</td><td>4850</td><td>8700</td><td>753.4</td></tr><tr><td>graphene</td><td>0</td><td>13 88051</td><td>22 00051</td><td>230052</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Debye temperature $\\Theta _ { \\mathrm { D } }$ can be calculated with the maximum optical phonon frequency (Debye frequency) ${ \\omega _ { \\mathrm { m } } } ^ { 5 3 }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Theta _ { \\mathrm { D } } = h \\omega _ { \\mathrm { m } } / k _ { \\mathrm { B } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $h$ is the Planck constant and $k _ { \\mathrm { B } }$ is the Boltzmann constant. The calculated $\\Theta _ { \\mathrm { D } }$ values of LB and DB silicene are given in Table 2.Because the Debye temperature reflects the magnitude of sound velocity,34 it is expected that the larger the sound velocities，the higher the Debye temperature.54 The Debye temperature of LB silicene is higher than that of DB silicene,which is in consistency with the fact that the sound velocities of LB silicene are larger.For comparison,we also list the phonon group velocities in the long-wavelength limit and Debye temperature of graphene in Table 2. The $\\Theta _ { \\mathrm { D } }$ of graphene is much higher than that of LB and DB silicene.The Debye temperature is a measure of the temperature above which all modes begin to be excited and below which modes begin to be frozen out.55 Generally, low $\\Theta _ { \\mathrm { D } }$ corresponds to low thermal conductivity according to the aboved-mentioned Slack's theory35 because lower Debye temperature indicates smaller phonon velocities and lower acoustic-phonon frequencies，and low acoustic-phonon frequencies further increase phonon populations，which subsequently increase phonon scattering rates.55-57 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The mode Grineisen parameters provide information about the anharmonic interactions and can be calculated directly from the anharmonic $\\mathrm { I F C } s ^ { 3 7 }$ （20 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma _ { \\lambda } = - \\frac { 1 } { 6 \\omega _ { \\lambda } ^ { 2 } } \\sum _ { \\eta ^ { \\prime } l ^ { \\prime } } \\sum _ { \\eta ^ { \\prime } l ^ { \\prime \\prime } } \\sum _ { \\alpha \\beta \\gamma } \\Phi _ { \\eta 0 , \\eta ^ { \\prime } l ^ { \\prime } , \\eta ^ { \\prime \\prime } l ^ { \\prime } } ^ { \\alpha \\beta \\gamma } \\frac { e _ { \\alpha \\eta } ^ { j } ( \\mathbf { q } ^ { * } ) e _ { \\beta \\eta ^ { \\prime } } ^ { j } ( \\mathbf { q } ) } { \\sqrt { M _ { \\eta } M _ { \\eta ^ { \\prime } } } } e ^ { i \\mathbf { q } \\mathbf { R } _ { l } ^ { \\prime } } \\mathbf { r } _ { \\eta ^ { \\prime \\prime } l ^ { \\prime } \\gamma }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\alpha , \\beta ,$ and $\\gamma$ are the Cartesian components, $\\Phi _ { \\eta 0 , \\eta ^ { \\prime } l ^ { \\prime } , \\eta ^ { \\prime \\prime } l ^ { \\prime \\prime } } ^ { \\alpha \\beta \\gamma }$ the third-order anharmonic IFCs, $e _ { \\alpha \\eta } ^ { j } \\bigl ( \\mathbf { q } ^ { * } \\bigr )$ and $e _ { \\beta \\eta ^ { \\prime } } ^ { j } ( \\dot { \\mathbf { q } } )$ are the phonon eigenvectors,and $\\mathbf { r } _ { \\eta ^ { \\prime \\prime } l ^ { \\prime \\prime } \\gamma }$ is the position of $\\dot { \\eta } ^ { t h }$ atom in $l ^ { t h }$ primitive cell.Figure 4 shows the mode Grineisen parameters within the whole BZ for LB and DB silicene.The Griineisen parameters of DB silicene are larger than those of LB silicene at low frequencies,indicating higher anharmonicity of DB silicene. Therefore,DB silicene has much stronger anharmonic phonon scattering than LB silicene at low frequencies.These large mode Griineisen parameters at low frequencies are crucial to the understanding of the phonon transport in DB silicene, because most of the heat is carried by low-frequency phonons. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/380a14bd0225a05d19b29c45c9c3771586200e2850cb218fdea528ccb8948244.jpg",
+        "img_caption": [
+            "Figure 4.Calculated Griineisen parameters for (a)LB and (b) DB silicene within the whole BZ. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.Thermal Conductivity. The room-temperature lattice thermal conductivity of naturally occurring $\\left( \\kappa _ { n a t } \\right)$ and isotopically pure $( \\kappa _ { \\mathrm { p u r e } } )$ silicene are listed in Table 3.The calculated thermal conductivity of free-standing LB silicene is in good agreement with other theoretical results.48,58-60 Compared to LB silicene,much lower thermal conductivity is observed in DB silicene.It should be noticed that only free-standing silicene is considered here.However, in device applications,bothLB and DB silicene are usually synthesized on various substrates,and as a result, the thermal conductivity will be further affected. In fact,for LB silicene,the influence of substrate on the thermal transport is in debate.Wang et al.have found that，in LB silicene, though the coupling of ZA modes to the substrate linearizes the phonon dispersion and increases the group velocity，the relaxation times of the ZA phonons are dramatically decreased, because the presence of the substrate breaks the _reflection symmetry and introduces more phonon scattering.6 Thus, the presence of a $\\mathrm { S i O } _ { 2 }$ substrate results in a large reduction to the thermal conductivity at $3 0 0 \\mathrm { K } .$ However, from nonequilibrium molecular dynamics simulations, Zhang et al.have found that by changing the surface crystal plane of the substrate,the thermal conductivity of LB silicene can be either suppressed or enhanced.62 ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/658040ea086e1ceebe0db3f2726c6d741c476ea36973d57a65eb5f46ad61501d.jpg",
+        "table_caption": [
+            "Table 3 $\\kappa _ { \\mathrm { n a t } } , \\kappa _ { \\mathrm { p u r e } } , P _ { 3 } ,$ and Contribution of ZA, TA, LA, and Optical Phonon Modes toward the $\\pmb { \\kappa } _ { \\mathrm { n a t } }$ in All Studied 2D Group IV Crystals at $3 0 0 \\mathrm { ~ K ~ }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>(W/ mK) Knat</td><td>K (W/ mK)</td><td>P3</td><td>ZA (%)</td><td>TA (%)</td><td>LA (%)</td><td>optical (%)</td></tr><tr><td>LB silicene</td><td>27.72</td><td>28.85</td><td>0.15</td><td>38.98</td><td>21.63</td><td>20.97</td><td>18.42</td></tr><tr><td>DB silicene</td><td>2.86</td><td>2.86</td><td>4.08</td><td>20.22</td><td>34.43</td><td>22.01</td><td>23.34</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The reduced thermal conductivity in DB silicene can be explained by conventional Slack's theory.Lower Debye temperature in DB silicene results in decreased phonon velocities and higher phonon scattering rates since_ more phononmodesareactiveat a given temperature.5,56The crystal structure of DB silicene is more complex: there are 10 atoms in the unit cell of DB silicene，corresponding to 3 acoustic and 27 optical phonon branches,indicating that a phonon can be scattered more easily in DB silicene (more three-phonon groups that can satisfy the energy and quasimomentum conservations).In addition, large mode Griineisen paramters of DB silicene imply strong anharmonic phonon scattering as well. Consequently, the thermal conductivity of DB silicene is significantly reduced. Our results indicate that the lattice thermal conductivity of 2D group IV materials can be tuned by dumbbell structure formed from the addition of adatoms. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Aspresent in Table 3, the thermal conductivity of LB and DB silicene are insensitive to the naturally occurring isotope, since the Umklapp processes become dominant over isotopic scattering at high temperatures and consequently drive the thermal conductivity.63,64 In addition， DB silicene has much stronger anharmonic phonon scattering as mentioned above. Therefore,the isotopic influence on thermal conductivity is much less obvious in DB silicene than in LB silicene. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure S presents the lattice thermal conductivity for LB and DB silicene with naturally occurring isotope concentrations as a function of temperature. The thermal conductivity decreases with increasing temperature，as expected for a phonondominated crystalline materials.We also compare the thermal conductivity calculated from the iterative and single-mode relaxation time approximation（SMRTA）solution.The difference between the two approaches for DB silicene is much smaller than that for LB silicene. The SMRTA has no memory of the initial phonon distribution， because it assumes that phonons are excited individually. As a result， when the momentum-conserving Normal processes play an important role, the SMRTA typically does not work well.65 Our results indicate the dominant role of the Umklapp processes in phonon-phonon interactions of DB silicene over a wide temperature range. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a32418cde7484fd10cd71409d31aa6d64de88cd3505ae8a9881165a44687295e.jpg",
+        "img_caption": [
+            "Figure 5.Thermal conductivity asa function of temperature for (a) LB and (b) DB silicene. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "High TE performance requires the system to be a bad conductor for phonons. The ultralow lattice thermal conductivity of DB silicene $( 2 . 8 6 W / \\mathrm { m K }$ at $3 0 0 \\ \\mathrm { K }$ ）is similar in magnitude to thatof state-of-the-art TE materials such as PbTe $( 2 . 8 ~ \\mathrm { W / m K } ^ { 6 6 } ,$ and ${ \\mathrm { C u } } _ { 2 } { \\mathrm { G e S e } } _ { 3 }$ $( 2 . 0 { - } 2 . 4 ~ \\mathrm { W / m K ^ { 3 4 } } )$ .DB silicene may realize much higher thermoelectric efficiency considering the ultralow lattice thermal conductivity $\\left( 2 . 8 6 W / \\mathrm { m K } \\right)$ ，which will induce further investigations on the performance of TE devices based on silicene.Compared to other 2D hexagonal materials,the lattice thermal conductivity of DB silicene is much lower than that of LB germanene $\\dot { ( 2 0 . 2 ~ \\mathrm { W / m K } ) } ^ { 5 1 }$ and stanene (11.6 to $2 6 . 2 ~ \\mathrm { W / m K }$ 17.51 monolayer $\\mathbf { M o S } _ { 2 }$ (30-100 $\\mathbf { W } / \\mathrm { m K } )$ 35,67-69 andblue phosphorene $( 7 8 \\mathrm { \\ : W / m K } ) , ^ { 7 0 }$ whereas it is at least 3 orders of magnitude smaller than that of graphene $\\left( 3 0 0 0 { - } 5 0 0 0 \\ \\mathrm { ~ W / m K } \\right)$ 134871Thisisduetostrongthree phonon scattering in DB silicene as we mentioned above. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To understand the underlying mechanism of low lattice thermal conductivity of DB silicene,the key physical insight can be obtained by calculating the allowed phase space for threephonon processes $P _ { 3 }$ . In the temperature range where threephonon processes are dominant, the total phase space for threephonon processes P3 is defined by37,72 ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { 3 } = \\frac { 2 } { 3 \\Omega } \\biggl ( P _ { 3 } ^ { ( + ) } + \\frac { 1 } { 2 } P _ { 3 } ^ { ( - ) } \\biggr )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\Omega$ is a normalization factor,7 and ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { 3 } ^ { ( \\pm ) } = \\sum _ { j } \\int d \\mathbf { q } D _ { j } ^ { ( \\pm ) } ( \\mathbf { q } )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { D _ { j } ^ { ( \\pm ) } ( { \\bf { q } } ) = \\displaystyle \\sum _ { j ^ { \\prime } , j ^ { \\prime \\prime } } \\displaystyle \\int d { \\bf { q } } ^ { \\prime } \\delta ( \\omega _ { j } ( { \\bf { q } } ) \\pm \\omega _ { j ^ { \\prime } } ( { \\bf { q } } ^ { \\prime } ) } } \\\\ { { - \\mathrm { } \\omega _ { j ^ { \\prime } } ( { \\bf { q } } \\pm { \\bf { q } } ^ { \\prime } - { \\bf { G } } ) ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $D _ { j } ^ { + } ( \\mathbf { q } )$ corresponds to absorption processes，i.e., $\\omega _ { j } ( { \\mathbf { q } } ) { + } { \\omega _ { j ^ { ' } } } ( { \\mathbf { q } } ^ { \\mathrm { ~ \\tiny ~ { ~ } ~ } } ) \\ = \\ \\omega _ { j ^ { ' } } ( { \\bar { \\mathbf { q } } } { + } { \\mathbf { q } } ^ { \\prime } { - } { \\mathbf { G } } ) ,$ whereas $D _ { i } ^ { - } ( \\bar { \\bf q } )$ corresponds to emission processes， i.e., $\\omega _ { j } ( { \\mathbf { q } } ) = \\omega _ { j ^ { \\prime } } ( \\widetilde { { \\mathbf { q } } } ^ { \\prime } ) + \\omega _ { j ^ { \\prime \\prime } } ( { \\mathbf { q } } - { \\mathbf { q } } ^ { \\prime } - { \\mathbf { G } } )$ According to eqs $4 \\mathrm { - } 6 , P _ { 3 }$ provides a measure of the phase space available for three-phonon processes of each phonon mode. Larger phase space for three-phonon processes usually implies a larger number of available scattering channels.Consequently, there is an inverse relationship between $P _ { 3 }$ and the intrinsic lattice thermal conductivity of a material.3,72 As shown in Table 3,DB silicene has larger $P _ { 3 }$ than LB silicene,indicating a larger number of available scattering channels for phonons. This is consistent with the above analysis showing that the anharmonic phonon scattering in DB silicene is stronger. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, the relaxation time of each phonon mode for LB and DB silicene is extracted to reveal the scattering mechanism in detail.Figure 6 presents the isotopic relaxation time and the intrinsic three-phonon relaxation time of each phonon mode for these two materials.Isotopic scattering processes are frequency-dependent. The low-frequency phonons can_transport nearly all the heat with little isotopic scatering,74 thus at low frequencies we observe therelative long isotopic relaxation time of acoustic phonons. The total scattering rate is a sum of contributions from isotopic scattering and anharmonic three-phonon scattering, 40,63 ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 / \\tau _ { j } ( \\mathbf { q } ) = 1 / \\tau _ { j } ( \\mathbf { q } ) ^ { \\mathrm { i s o } } + 1 / \\tau _ { j } ( \\mathbf { q } ) ^ { \\mathrm { a n h } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The anharmonic three-phonon scattering is much stronger than isotopic scattering (corresponding to shorter relaxation time). Thus，with much shorter relaxation time,the three-phonon scattering dominates the total relaxation time. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure 6a, the three-phonon relaxation time of LB silicene agrees well with previous results. It should be noticed that $\\tau _ { j } ( \\mathbf { q } ) ^ { \\mathrm { a n h } }$ of LB silicene is much longer than that of DB silicene，leading to much higher latice thermal conductivity.For DB silicene in Figure 6b,the enhancement of acoustic phonon scattering(corresponding to shorter relaxation time） is the main factor for the reduced lattice thermal conductivity.Moreover, the relaxation times of TA phonons in DB silicene are longer than ZA and LA phonons in the frequency range of $1 0 ^ { \\cdot } { - } 8 0 ~ \\mathrm { c m ^ { - 1 } }$ .Therefore,the contribution of TA phonons to $\\kappa _ { \\mathrm { n { a t } } }$ of DB silicene is largest $\\left( 3 4 . 4 3 \\% \\right)$ ,as shown in Table 3. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/26140143039e05eb0d25433e2de7b3998d81ed1f876eeb374a4232d96d883e9c.jpg",
+        "img_caption": [
+            "Figure 6.Isotopic and three-phonon relaxation time of each phonon mode for (a)LB and (b)DB silicene. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.Size Dependence of $\\pmb { \\kappa }$ .With ultralow lattice thermal conductivity,DB silicene may realize higher TE effciency.This will motivate a systematic examination of the size dependence of thermal conductivity in these two materials for TE applications.To analyze the size dependence of thermal conductivity,we calculate the cumulative thermal conductivity with mean free path (MFP） below $L$ by the following expression ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\kappa ( L ) = \\kappa _ { \\alpha \\alpha } ( L ) = \\frac { 1 } { V } \\sum _ { \\lambda } ^ { l _ { \\lambda } < L } C _ { \\lambda } \\nu _ { \\lambda \\alpha } ^ { 2 } \\tau _ { \\lambda \\alpha }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The cumulative thermal conductivity at $3 0 0 \\mathrm { K }$ with respect to $L$ for LB and DB silicene are shown in Figure 7a, b,respectively. For LB silicene, the accumulation function closely resembles a step function，with the major contribution by phonons with ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/31ab968cc1063e254582728b37194cc42a4ed2ad2eb05e1251c4e90cb80320f6.jpg",
+        "img_caption": [
+            "Figure 7.Cumulative thermal conductivity for (a) LB and (b）DB silicene. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "MFP between S and $1 0 0 \\ \\mathrm { n m }$ 、For DB silicene，the major contribution comes from phonons with MFP between O.S and $1 0 0 ~ \\mathrm { { n m } }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Furthermore，when the size of sample gets smaller， the boundary scattering becomes dominant over other scattering mechanisms，and the $\\kappa$ becomes proportional to a constant value $l _ { \\mathrm { S G } } ,$ which limits the MFP uniformly.37 The $l _ { \\mathrm { S G } }$ can be calculated as ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nl _ { \\mathrm { S G } } = \\kappa / \\kappa _ { \\mathrm { S G } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $\\kappa _ { \\mathrm { S G } }$ is the thermal conductivity per $l _ { \\mathrm { S G } }$ in the small-grain limit. The $l _ { \\mathrm { S G } }$ at $3 0 0 ~ \\mathrm { K }$ is found to be $1 6 . 7 6 ~ \\mathrm { n m }$ $\\left( 2 . 3 4 ~ \\mathrm { n m } \\right)$ for LB(DB） silicene.These quantities are crucial to the manipulation of phonon transport in the small-grain limit such as nanowires. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In both LB and DB silicene nanowires, the $\\kappa$ will be further reduced with decreasing width due to stronger boundary scattering,as shown in Figure 8.Atwidth about 13 and $4 \\ \\mathrm { n m }$ for LB and DB silicene respectively，the lattice thermal conductivity drops about $5 0 \\%$ ，which means that $\\kappa$ of DB silicene is less sensitive to nanostructuring size effects than LB silicene.Actually，higher lattice thermal conductivity arises typically because of weaker intrinsic phonon scattering,which causes phonons to have larger MFPs.39 Consequently, these long-MFP phonons can be more easily blocked by boundaries of a similar size.Thus,because DB silicene has lower intrinsic thermal conductivity，it is hard to reduce $\\kappa$ further in nanostructures. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/288f4e580bfd7f0e743368260695e5161cf6ce3dcaac87d606471d273ff7bdd5.jpg",
+        "img_caption": [
+            "Figure 8.Thermal conductivities of(a）LB and (b）DB silicene nanowires along the [1oo] direction as a function of width. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In summary,the lattice thermal conductivity of LB and DB silicene are calculated using first-principles calculations and the BTE for phonons.The $\\kappa$ ofbothLB and DB silicene are found to be insensitive to naturally occurring isotopes.Much stronger anharmonic phonon scattering is observed in DB silicene as compared with LB silicene.Therefore，the predicted lattice thermal conductivity of DB silicene is much lower than other 2D materials,which will induce further theoretical and experimental investigations on the TE performance for these two structures of silicene.Finally, for designing nanostructures in TE applications,we investigate the size-dependent thermal conductivity in detail. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "AUTHOR INFORMATION ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Corresponding Authors ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$^ { * } \\mathrm { E }$ -mail: zhangh@fudan.edu.cn.   \n$^ { * } \\mathrm { E }$ -mail: hyzhu@fudan.edu.cn. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Notes ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The authors declare no competing financial interest. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This work is supported by the National Basic Research Program of China (973 Program） under Grant 2013CBAOl5oS,and the National Natural Science Foundation of China under Grants 11374063 and 11404348. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES   \n(1）Zhang, Y.；Tan, Y.-W.； Stormer,H.L.； Kim,P.Experimental Observation of the Quantum Hall Effect and Berry's Phase in Graphene.Nature 2005,438,201-204.   \n(2) Geim,A. K. Graphene: Status and Prospects. Science 2009,324, 1530-1534.   \n(3）Novoselov,K.S.；Fal'ko，V.I.；Colombo,L.；Gellert,P.R; Schwab, M. G.; Kim, K. A Roadmap for Graphene. Nature 2012, 490, 192-200.   \n(4)Klinovaja, J.; Loss, D. Spintronics in $\\mathbf { M o s } _ { 2 }$ Monolayer Quantum Wires.Phys.Rev.B:Condens.Matter Mater.Phys.2013,88,075404. (5) Issi,J.-P.; Araujo,P.T.;Dresselhaus,M. S.In Physics of Graphene; Aoki, H.,Dresselhaus, M. S.,Eds.; Springer: New York,20i4; Chapter 3, pp 65-112.   \n(6) Luican-Mayer,A; Andrei, E.Y. In Physics of Graphene; Aoki, H., Dreselhaus.S.Eds.；Springer:New York,20;Chater2 29-63.   \n(7）Ferrari，A. C.；Bonaccorso，F.； Fal'ko，V.；Novoselov，K. S.; Roche,S.； Boggild,P.； Borini， S.； Koppens,F.H.L.；Palermo,V.; Pugno,N.；Garrido,J.A.；Sordan,R.； Bianco,A.；Ballerini,L.； Prato, M.; Lidorikis,E.; Kivioja,J.; Marinell, C.; Ryhanen,T.;Morpurgo,A; Coleman,J. N.; Nicolosi,V.; Colombo,L.; Fert,A;Garcia-Hernandez, M.；Bachtold, A.； Schneider, G.F.; Guinea,F.; Dekker,C.； Barbone, M.; Sun, $Z . ;$ Galiotis, C.; Grigorenko,A. N.; Konstantatos, G.; Kis,A; Katsnelson,M.; Vandersypen,L.; Loiseau,A.; Morandi,V.; Neumaier, D.； Treossi,E.；Pellegrini,V.;Polini, M.;Tredicucci,A;Willams,G. M.; HeeHong,B.;Ahn,J.-H.; Min Kim,J.; Zirath,H.; vanWees,B.J.; van der Zant, H.; Occhipinti, L.; Di Matteo,A; Kinloch, I.A.; Seyller, T.; Quesnel,E.;Feng,X.; Teo,K.; Rupesinghe,N.; Hakonen,P.; Neil, S. R. T.；Tannock, $\\mathrm { Q . ; }$ Lofwander，T.；Kinaret，J. Science and Technology Roadmap for Graphene，Related Two-dimensional Crystals,and Hybrid Systems.Nanoscale 2015,7,4598-4810.   \n(8） Cahangirov, S.； Topsakal, M.；Akturk,E.； Sahin,H.； Ciraci，S. Two- and One-Dimensional Honeycomb Structures of Silicon and Germanium.Phys.Rev.Lett2009,102,236804.   \n(9）Liu, C.-C.； Feng,W.； Yao, Y. Quantum Spin Hall Effect in Silicene and Two-dimensional Germanium. Phys. Rev. Lett.2011,107, 076802.   \n(10)Liu, C.-C.; Jiang,H.; Yao,Y.Low-energy Effective Hamiltonian Involving Spin-orbit Coupling in Silicene and Two-dimensional Germanium and Tin. Phys.Rev.B:Condens. Matter Mater. Phys. 2011, 84,195430.   \n(11) Xu, Y.; Yan,B.; Zhang,H.-J.; Wang, J.; Xu,G.; Tang,P.; Duan, W.； Zhang, S.-C.Large-Gap Quantum Spin Hall Insulators in Tin Films.Phys.Rev.Lett.2013,111,136804.   \n(12）Xu,Y.；Gan， Z.； Zhang，S.-C. Enhanced Thermoelectric Performance and Anomalous Seebeck Effects in Topological Insulators.Phys.Rev.Lett. 2014,112,226801.   \n(13) Xu, Y.; Li, Z.; Duan, W. Thermal and Thermoelectric Properties of Graphene. Small 2014,10,2182-2199.   \n(14)Roome,N.J.; Carey, J. D. Beyond Graphene: Stable Elemental Monolayers of Silicene and Germanene. ACS Appl. Mater. Interfaces 2014,6, 7743-7750.   \n(15）Balendhran, S.；Walia, S.；Nili,H.； Sriram, S.；Bhaskaran，M. Elemental Analogues of Graphene: Silicene, Germanene, Stanene,and Phosphorene. Small 2015,11,640-652.   \n(16) Matusalem,F.; Marques,M. Teles,L.K; Bechstedt,F.Stability and Electronic Structure of Two-dimensional Allotropes of Group-iv Materials.Phys.Rev.B:Condens.Matter Mater.Phys.2015,92,045436. (17) Peng, B.; Zhang, H.; Shao,H.; Xu, Y.; Zhang, X.; Zhu,H. Low Lattice Thermal Conductivitv of Stanene. Sci. Ren.2016.6. 20225. (18) Lu,Y.H.； Zhou, D.； Wang,T.； Yang,S.A.; Jiang, J. Z. Topological Properties of Atomic Lead Film with Honeycomb Structure. Sci. Rep.2016,6,21723.   \n(19)Vogt,P.; De Padova,P.; Quaresima, C.; Avila, J.; Frantzeskakis, E.; Asensio,.CRestaA;EaletB.;eayGene: Colin Experimental Evidence for Graphenelike Two-Dimensional Silicon. Phys. Rev. Lett 2012,108,155501.   \n(20）Dävila,M.E.； Xian,L.； Cahangirov, S.； Rubio,A.；Le Lay,G. Germanene: a Novel Two-dimensional Germanium Allotrope Akin to Graphene and Silicene.New J.Phys.2014,16,095002.   \n(21) Zhu,F.-f.; Chen,W.-j.; Xu,Y.; Gao,C.-l.; Guan,D.-d.; Liu,C.-h.; Qian,D.； Zhang, S.-C.; Jia,J.-f.Epitaxial Growth of Two-dimensional Stanene.Nat.Mater.2015,14,1020-1025.   \n(22）Kaltsas,D.； Tsetseris,L. Stability and Electronic Properties of Ultrathin Films of Silicon and Germanium. Phys. Chem. Chem. Phys. 2013, 15, 9710-9715.   \n(23) Cahangirov, S.; Ozgelik, V. O.; Rubio,A; Ciraci, S.Silicite: the Layered Allotrope of Silicon. Phys.Rev. B: Condens. Matter Mater.Phys. 2014, 90, 085426.   \n(24) Ozgelik, V. O.; Kecik, D.; Durgun,E.; Ciraci, S.Adsorption of Group IV Elements on Graphene, Silicene, Germanene,and Stanene: Dumbbell Formation. J. Phys. Chem. C 2015, 119,845-853.   \n(25)Ozgelik, V.O.; Gurel,H. H.; Ciraci,S. Self-healing of Vacancy Defects in Single-layer Graphene and Silicene.Phys.Rev.B: Condens. Matter Mater.Phys.2013,88, 045440.   \n(26）Ozgelik, V. O.； Ciraci， S.Local Reconstructions of Silicene Induced by Adatoms.J. Phys. Chem. C 2013,117,26305-26315. (27）Cahangirov，S.； Ozgelik,V.O.； Xian，L.； Avila, J；Cho，S.; Asensio, M. C.; Ciraci, S.; Rubio,A.Atomic Structure of the ${ \\sqrt { 3 \\times { \\sqrt { 3 } } } }$ Phase of Silicene on Ag(111).Phys.Rev. B: Condens.Matter Mater. Phys. 2014, 90, 035448.   \n(28）Tang,P.;Chen,P.; Cao,W.; Huang, H.; Cahangirov, S.; Xian, L.; Xu,Y.; Zhang,S.-C.; Duan,W.; Rubio,A. Stable Two-dimensional Dumbbell Stanene:a Quantum Spin Hall Insulator.Phys. Rev.B: Condens. Matter Mater.Phys.2014,90,121408.   \n(29)Ozcelik，V.O.；Durgun,E.；Ciraci,S.New Phases of Germanene.J.Phys. Chem.Lett.2014,S,2694-2699.   \n(30) Chen,X；iLZao.Hydrogenatioinducedrgga Quantum-spin-hall Insulator States in a Germanium-tin Dumbbell Structure.RSC Adv.2015,5,72462-72468.   \n(31) Qin, G.; Yan, Q-B.; Qin, Z.; Yue, S.-Y.; Cui, H.-J.; Zheng, $\\scriptstyle \\mathrm { Q . R }$ Su,G.Hinge-like Structure Induced Unusual Properties of Black Phosphorus and New Strategies to Improve the Thermoelectric Performance. Sci. Rep.2014,4, 6946.   \n(32）Fan,Z.； Zheng, J；Wang, ${ \\mathrm { H . } } { \\mathrm { Q . } } { \\mathrm { ; } }$ Zheng, J.-C. Enhanced Thermoelectric Performance in Three-dimensional Superlattice of Topological Insulator Thin Films.Nanoscale Res. Lett 2012,7, 570. (33） Slack，G.A. Nonmetalic Crystals with High Thermal Conductivity.J. Phys. Chem. Solids 1973,34,321-335.   \n(34) Shao,H.; Tan, X.; Hu, T.; Liu, $\\mathrm { G . ^ { - } C . ^ { } }$ Jiang, J; Jiang,H. Firstprinciples Study on the Lattce Dynamics and Thermodynamic Properties of $\\mathrm { C u } _ { 2 } \\mathrm { g e s e } _ { 3 }$ EPL (Europhysics Leters）2015,109,47004. (35）Peng,B.； Zhang, $\\mathrm { H . ; }$ Shao,H.；Xu, Y.；Zhang,X.； Zhu，H. Thermal Conductivityof Monolayer $\\mathbf { M o s } _ { 2 } ,$ $\\mathrm { M o s e } _ { 2 } ,$ and $\\mathbf { W } \\mathbf { s } _ { 2 }$ : Interplay of Mass Effect, Interatomic Bonding and Anharmonicity.RSC Adv. 2016, 6, 5767-5773.   \n(36）Omini， M.； Sparavigna，A. Beyond the Isotropic-model Approximation in the Theory of Thermal Conductivity.Phys.Rev. B: Condens.Matter Mater.Phys.1996,S3,9064-9073.   \n(37)Li, W.; Carrete,J.; Katcho,N.A.; Mingo,N. Shengbte: a Solver of the Boltzmann Transport Equation for Phonons. Comput. Phys. Commun. 2014, 185, 1747-1758.   \n(38）Li,W.；Mingo,N.; Lindsay,L.; Broido,D.A.； Stewart,D.A; Katcho,N.A. Thermal Conductivity of Diamond Nanowires from First Principles.Phys.Rev.B:Condens.Mater Mater.Phys.2012,85, 195436.   \n(39)Li,W.; Lindsay,L.； Broido,D.A.； Stewart, D.A.； Mingo,N. Thermal Conductivity of Bulk and Nanowire $\\mathbf { M g } _ { 2 } \\mathbf { s i } _ { x } \\mathbf { s n } _ { 1 - x }$ Alloys from First Principles.Phys. Rev.B: Condens.Matter Mater.Phys.2012,86, 174307.   \n(40）Li，W.； Carrete, J.；Mingo，N.Thermal Conductivity and Phonon Linewidths of Monolayer $\\mathbf { M o s } _ { 2 }$ from First Principles. Appl. Phys.Lett.2013,103,253103.   \n(41） Ouyang, T.； Hu, M. Competing Mechanism Driving Diverse Pressure Dependence of Thermal Conductivity of xte ( $\\displaystyle { \\dot { \\boldsymbol { x } } } = \\mathbf { h } \\mathbf { g } ,$ cd, and zn).Phys.Rev.B:Condens.Matter Mater.Phys.2015,92,235204. (42）Hu，M.；Zhang,X.；Poulikakos，D.Anomalous Thermal Response of Silicene to Uniaxial Stretching. Phys. Rev.B: Condens. Matter Mater.Phys.2013,87,195417.   \n(43） Kuang Y.D.； Lindsay,L.； Shi, S. $\\mathrm { Q . ; }$ Zheng, G.P. Tensile Strains Give Rise to Strong Size Effects for Thermal Conductivities of Silicene,Germanene and Stanene.Nanoscale 2016,8,3760-3767. (44）Kresse,G.； Furthmuller,J. Eficient Iterative Schemes for ab Initio Total-energy Calculations Using a Plane-wave Basis Set.Phys. Rev.B: Condens.Matter Mater.Phys.1996,54,1169-11186.   \n(45）Baroni, S.；de Gironcoli，S.；Dal Corso，A.；Giannozzi，P. Phonons and Related Crystal Properties from Density-functional Perturbation Theory. Rev.Mod.Phys.2001,73, 515-562.   \n(46)Drummond,N.D.；Z6lyomi，V.；Fal'ko，V.I.Electrically Tunable Band Gap in Silicene.Phys.Rev.B:Condens.MatterMater. Phys. 2012,85,075423.   \n(47）Scalise,E.；Houssa，M.；Pourtois，G.；van den Broek，B.; Afanas'ev，V.；Stesmans，AVibrationalPropertiesofiliceneand Germanene.Nano Res.2013,6,19-28.   \n(48）Gu，X.； Yang，R. First-principles Prediction of Phononic Thermal Conductivity of Silicene:a Comparison with Graphene.J. Appl.Phys.2015,117,025102.   \n(49)Huang,L.-F.; Gong, P.-L.; Zeng, Z.Phonon Properties, Thermal Expansion,and Thermomechanics of Silicene and Germanene.Phys. Rev.B:Condens.Matter Mater.Phys.2015,91,205433.   \n(S0）Li,X.； Mullen, J. T.; Jin,Z.； Borysenko,K.M.；Buongiorno Nardelli, M.； Kim, K.W. Intrinsic Electrical Transport Properties of Monolayer Silicene and $\\mathbf { M o s } _ { 2 }$ from First Principles.Phys.Rev.B: Condens.MatterMater.Phys.2013,87,115418.   \n(51） Peng B.； Zhang, H.； Shao,H.; Xu, Y.； Zhang,R； Zhu,H. ab Initio Study of Phonon-transport Properties of Two-dimensional Group-iv Materials.arXiv,2016,1602.02266v1.   \n(52)Efetov,D.K.; Kim,P.Controlling Electron-Phonon Interactions in Graphene at Ultrahigh Carrier Densities.Phys.Rev.Lett 2010,105, 256805.   \n(53） Tohei，T.；Kuwabara，A.；Oba，F.； Tanaka，I.Debye Temperature and Stiffess of Carbon and Boron Nitride Polymorphs from First Principles Calculations. Phys. Rev.B: Condens. Mater Mater. Phys. 2006,73,064304.   \n(54) Shao,H.； Tan, X.; Jiang, J.; Jiang, H.First-principlesStudyon theElastiosere 26001.   \n(55)Nakashima,T.; Umakoshi,Y.Anisotropyof Electrical Resistivity and Thermal Expansion of Single-crystal $\\mathrm { T i } _ { 5 } \\mathrm { s i } _ { 3 }$ .Philos. Mag.Lett. 1992, 66, 317-321.   \n(S6）Lindsay，L.；Broido，D.A.；Reinecke,T.L.First-Principles Determination of Ultrahigh Thermal Conductivity of Boron Arsenide: A Competitor for Diamond? Phys.Rev.Lett.2013,111, 025901. (S7)Shao,H.； Tan,X.； Liu,G.-Q;Jiang,J JiangH.A Firstprinciples Study on the Phonon Transport in Layered Bicuose. Sci. Rep.2016,6,21035.   \n(58)Li, H-P.； Zhang, R-Q. Vacancy-defect-induced Diminution of Thermal Conductivity in Silicene.EPL (Europhysics Leters)2012,9, 36001.   \n(59) Pei, Q.-X.; Zhang, Y.-W.; Sha, Z.-D.; Shenoy, V.B. Tuning the Thermal Conductivity of Silicene with Tensile Strain and Isotopic Doping: a Molecular Dynamics Study.J. Appl. Phys. 2013，114, 033526.   \n(60) Xie, H.; Ouyang, T.; Germaneau, E.; Qin, G.; Hu, M.; Bao,H. Large Tunability of Lattice Thermal Conductivity of Monolayer Silicene Via Mechanical Strain.Phys.Rev.B: Condens.Mater Mater. Phvs. 2016,93,075404. (61）Wang， Z.； Feng,T.； Ruan， X. Thermal Conductivity and Spectral Phonon Properties of Freestanding and Supported Silicene. J. Appl.Phys.2015,117,084317.   \n(62）Zhang,X.；Bao,H.;Hu,M.Bilateral Substrate Effect on the Thermal Conductivity of Two-dimensional Silicon. Nanoscale 2015,7, 6014-6022.   \n(63）Ziman, J.M.Electrons and Phonons:The Theory of Transport Phenomena in Solids;Oxford University Press: Oxford,1960.   \n(64）Grimvall,G.Thermophysical Properties of Materials；Elsevier Science:Amsterdam,1999.   \n(65）Fugallo，G.；Lazzeri，M.；Paulatto，L.；Mauri，F.ab Initio Variational Approach for Evaluating Lattce Thermal Conductivity. Phys.Rev.B:Condens.Matter Mater.Phys.2013,88,045430.   \n(66) Akhmedova, G.A.; Abdinov, D.S. Effect of Thallium Doping on the Thermal Conductivity of Pbte Single Crystals.Inorg.Mater.2009, 45,854-858.   \n(67） Yan,R； Simpson, J.R； Bertolazzi, S.；Brivio,J.;Watson,M.; Wu, X.; Kis,A.; Luo,T.； Hight Walker，A. ${ \\mathrm { R } } ;$ Xing, H. G. Thermal Conductivity of Monolayer Molybdenum Disulfide Obtained from Temperature-Dependent Raman Spectroscopy. ACS Nano 2014，8, 986-993.   \n(68) Zhang, X.; Sun, D.; Li, Y.; Lee, G.-H.; Cui, X.; Chenet, D.; You, Y.;Heinz, T.F.；Hone,J.C.Measurement of Lateral and Interfacial Thermal Conductivity of Single-and Bilayer $\\mathbf { M o S } _ { 2 }$ and $\\mathbf { M o S e } _ { 2 }$ Using Refined Optothermal Raman Technique.ACS Appl. Mater.Interfaces 2015,7,25923-25929.   \n(69）Peng,B.；Zhang,H.；Shao,H.；Xu,Y.；Zhang, X.；Zhu,H. Towards Intrinsic Phonon Transport In Single-layer $\\mathbf { M o s } _ { 2 }$ Ann. Phys. 2016, 528,504-511.   \n(70）Jain,A.；McGaughey，A. J.H. Strongly Anisotropic In-plane Thermal Transport in Single-layer Black Phosphorene.Sci. Rep. 2015, 5,8501.   \n(71）Balandin,A.A.； Ghosh,S.; Bao,W.； Calizo,L.； Teweldebrhan, D.；Miao,F.； Lau, C.N. Superior Thermal Conductivity of SingleLayer Graphene.Nano Lett. 2008,8, 902-907.   \n(72）Lindsay，L.； Broido，D.A. Three-phonon Phase Space and Lattice Thermal Conductivity in Semiconductors.J.Phys.:Condens. Matter 2008,20,165209.   \n(73)Wu, X.; Varshney,V.; Lee,J.; Zhang, T.; Wohlwend, J.L.; Roy, A.K.; Luo,T.Hydrogenation of Penta-Graphene Leads to Unexpected Large Improvement in Thermal Conductivity. Nano Lett. 20i6,16, 3925.   \n(74） Ziman,J.The Thermal Properties of Materials. Sci. Am.1967, 217, 180-188.   \n(75）Han,Y.； Dong, J.； Qin, J.；Hu, M.Phonon Transport in the Ground State of Two-dimensional Silicon and Germanium.RSC Adv. 2016, 6, 69956-69965. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "NOTEADDED INPROOF ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We have recently become aware of a related work.75 ",
+        "page_idx": 8
+    }
+]

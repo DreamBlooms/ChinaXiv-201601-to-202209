@@ -1,0 +1,126 @@
+# 社会阶层信号及其对人际水平社会互动的影响
+
+郭容；傅鑫媛
+
+（1中央财经大学社会与心理学院心理学系，北京100081)
+
+摘要社会阶层信号是指个体据以感知和判断他人社会阶层的一切线索，人们通过加工这些微妙的线索便能判断出他人的社会阶层，而他人的社会阶层在很大程度上决定着人们在人际水平的社会互动行为。以穿着打扮、面部特征和说话特点为例，说明社会阶层信号对个体判断他人阶层的影响，在此基础上围绕社会交换、社会公平和社会认同这三个动机视角归纳了社会阶层信号对人际水平社会互动的不同影响。针对社会阶层信号本身，将来有必要探讨社会阶层信号功能弱化的问题；由于社会阶层信号与社会阶层这一概念的相关度较高，未来研究有必要阐述二者的联系与区别；鉴于目前少有研究考察第三方的社会阶层信号如何影响人际水平社会互动的问题，探索互动中第三方社会阶层信号的影响及其机制将会是对社会阶层心理学研究的一个重要推进。
+
+关键词 社会阶层信号；人际水平社会互动；社会交换；社会公平；社会认同分类号 C91.61
+
+# 1引言
+
+心理学界对社会阶层进行系统化、理论化的研究近些年才兴起，国内目前也主要是社会学家致力于中国社会分层状况和阶层结构变化趋势的探讨（李春玲，2017；郑杭生，2005)，心理学家对社会阶层的研究则还较少。尽管如此，作为一个独立领域的社会阶层心理学(psychology of social class;Kraus & Stephens,2012)已在理论和实证研究上积累了不少成果。梳理相关文献发现，现有研究主要关注一个人所处的社会阶层对其心理和行为的影响(e.g.，郭永玉，杨沈龙，李静，胡小勇，2015；Kraus,Horberg,Goetz,&Keltner,2011;Manstead,2018)，以及在人际社会互动中他人的社会阶层(信号)作为群体分类标签如何影响个体的心理和行为(e.g.，徐凤娇，2016；Kraus&Keltner,2009;van Doesum,Tybur,&vanLange,2017)。随着我国社会贫富分化持续加剧，阶层固化问题日益突出，研究中国当下的社会阶层(信号)有着重要的现实意义。郭永玉等(2015)致力于社会阶层心理学的研究，综述了社会阶层心理学的研究取向以及个体所处的社会阶层对其心理和行为的广泛影响，但并未涉及社会阶层信号及其影响的内容。因此，本文将介绍社会阶层信号的概念及其功能，并进一步归纳其对人际水平社会互动的影响，以进一步推动社会阶层心理学的研究，为探索中国社会治理中的阶层心理学问题提供新的视角。
+
+社会阶层信号(socialclass signs)是指个体据以感知和判断他人社会阶层的一切线索(Kraus&Keltner,2009)。社会阶层除了是一种社会群体分类标签，还可在同一阶层的内部塑造出具有阶层特异性的价值体系和行为模式(Kraus& Stephens,2012)。传达这些具有阶层特异性的价值体系和行为模式的各种线索即为社会阶层信号，比如不同阶层人们吃的食物、出入的场所、穿着打扮、面部特征、说话特点、兴趣爱好和特定的举止等都是社会阶层信号(e.g.,Bjormsdottir&Rule,2017)。人们通过加工这些微妙的社会阶层信号便能迅速判断出他人的社会阶层(Kraus,Park,&Tan,2017)，而社会阶层在很大程度上决定着人际社会互动方式以及社会关系的形成(郑杭生，2002)。换句话说，社会阶层信号首先影响个体对他人社会阶层的判断(即具有信号功能)，进而在人际社会互动中产生广泛而深刻的影响。因此，本文接下来先介绍社会阶层信号对个体判断他人阶层的影响，然后归纳社会阶层信号对人际水平社会互动的影响及其理论解释，并在此基础上展望未来研究的方向。
+
+# 2社会阶层信号影响个体对他人阶层的判断
+
+特定的社会阶层给其内部成员提供了特定的身份和行为认同，这些认同感使得处于某一阶层的人们按照特定的行为规范行事，从而形成带有阶层烙印的特点，这些特点反过来又能折射出一个人的社会阶层，如穿着打扮、面部特征和说话特点，都属于社会阶层信号，会在人际水平社会互动中影响个体对他人阶层的判断(Kraus etal.,2017)。
+
+穿着打扮是阶层文化的重要符号和元素。例如，有研究者主张服装不仅有颜色和质地之分，更有“易读性”，即通常可以通过着装来判断他人的阶层(胡荣，陈斯诗,2008)。还有学者在观察人们的日常生活和行为后发现，衣着服饰和房子样式、家居摆设、休闲方式等信息一样，可以代表个体的生活层次，并据此将美国社会从高到低分成九个等级(Fussell,1983)。实证研究也表明，作为一种非言语信号，一双鞋子便可传达其主人很多方面的信息，除了性别、年龄和政治立场以外，人们通过鞋子还可以判断出对方的大致收入水平和所属的社会阶层(Gillath,Bahns,Ge,&Crandall,2012)。还有研究者指出，高阶层者在购买名牌服饰等地位性消费上对中低阶层者的消费行为有显著的示范效应，其原因就在于这些名牌服饰能够向他人表征自身的阶层，于是中低阶层者为了让自己看起来更像高阶层者而极力效仿高阶层者的消费行为(杭斌，修磊，2016)。
+
+古人常说“相由心生”，是指一个人的身体和心理的状态会反映在其面相上。不仅如此，一个人的社会阶层信息也会表现在其面部特征上。实证研究发现，观察者可以通过观察面部特征判断被观察者的社会阶层。例如，有研究者从社交网站上选取一些面部特写照片，并将这些照片作统一标准化处理，保证种族和照片背景等因素不会干扰被试的判断，然后呈现面孔的局部区域，发现被试仅观察眼部、嘴部、上半张脸或下半张脸就可以推断出观察对象的财富状况(Bjomsdottir&Rule,2016)。这是由于面部肌肉和皮肤状态会记录个体在日常生活中的情绪表达习惯，且随着个体年龄的增长，这些岁月的痕迹会在其脸上越来越明显(Malatesta,Fiore,&Messina,1987)。一个人若能经常体验到生活的富足和幸福，那么即便不做什么表情，其嘴角也容易呈上扬状，而艰苦不幸的生活经历也会反映在低阶层者的面貌上。基于这些日常生活经验，人们便建立起财富与面部特征之间的联系，认为生活条件好的人体验到的幸福感更高(Diener&Biswas-Diener,2002)，面部表情也更加自信和积极，呈现出一副“富人脸”；而贫穷则会给个体带来更多的抑郁和焦虑，从而成就一副“穷人脸”(Haushofer＆Fehr,2014)。
+
+说话是人们完成人际社会互动的最重要途径，研究者认为，说话特点，包括说话时的发音和身体动作等，都会暴露说话者的社会阶层。有研究发现，被试只要听取包含7个英文单字的说话片段就可以判断出说话者的社会阶层(Kraus etal.,2017)。还有研究者将被试分成两组，一组被安排模仿伦敦方言口音，另一组被安排模仿标准英式发音，结果前一组被试被认为其社会阶层更低(Giles& Sass0on,1983)。在说话的身体动作方面，研究者也发现了其作为社会阶层信号的功能。例如，有研究者选取来自不同阶层的100名大学生，并将其两两分为50组，然后要求他们面对面而坐，模拟一次求职面试并讨论和确定有效的面试策略，时间为5分钟。该互动过程被全程录像，之后安排7名本科生作为观察者观看上述经过消声处理的录像，并根据这些录像对被试进行社会阶层评定。结果发现，尽管没有其他额外信息，观察者仅通过观看被试一系列的身体动作(如点头、摇头、微笑、抬眉等)便能判断出被试的社会阶层(Kraus&Keltner,2009)。
+
+总的来说，人们在人际社会互动中会通过他人的穿着打扮、面部特征和说话特点来判断其所属的社会阶层。当然，社会阶层信号远不止这些，还包括人们的兴趣爱好、出入的场所和特定的行为举止等一切社会阶层线索，它们广泛影响着人际的社会互动。在社会交往中，人们通过加工这些微妙的社会阶层信号便能判断出对方的社会阶层，对方的社会阶层进而影响人们在人际互动中的行为表现。有学者指出，基于社会交换、社会公平和社会认同三种不同的动机因素，社会阶层信号对人际水平社会互动的影响不尽相同(van Doesum etal.,2017)。本文接下来就相应地从高社会阶层信号促进人际社会互动、低社会阶层信号促进人际社会互动，以及社会阶层信号与个体自身阶层交互影响人际社会互动三个方面归纳社会阶层信号的影响。
+
+# 3社会阶层信号对人际水平社会互动的不同影响
+
+# 3.1社会交换视角下的高社会阶层信号促进人际水平社会互动
+
+马克思曾指出，在一切社会关系中，最为根本的关系就是人们在社会活动中所结成的各种利益关系。社会交换理论也认为，人类的行为受到能够带来奖励和报酬的交换活动的支配，人类的一切社会活动都可以归结为一种交换，人们在社会交换中所结成的关系也是一种交换关系(Cao,Yu,Wu,& Zhou,2015)。人们相互之间不仅交换物质性的商品和金钱，还交换社会性的商品，比如爱、服务、信息和地位等(Schilke,Reimann,&Cook,2015)。相对于高阶层者来说，低社会阶层者的受教育机会较少，居住的环境较恶劣，并时常受到失业的威胁，他们拥有较少的社会资源，其生活也充满了各种不确定性。在这种情况下，通过与低社会阶层者分享资源或是合作来获得高回报的可能性就低，与其结盟不易换取最大化的自我利益，因而容易被认为是一种“不值得”的行为；相反，如果对方拥有的社会资源越多，所属的社会阶层越高，与他们积极交往而在日后获得利益回报的可能性就越大，获得的回报的价值也往往越大(傅鑫媛，2016)。基于社会交换动机，人们普遍认为与高阶层者交往比与低阶层者交往更能获得利益回报，因而更倾向于在人际社会互动中表现出一系列迎合更高阶层者的行为。
+
+早在1973年，秘鲁的研究者就发现，高社会阶层信号能促进人们的交友意愿。实验要求被试阅读一段描述他人社会阶层信息的文字，第一种描述为：“他们毕业于秘鲁大学，是精英社交俱乐部的会员”;另一种描述为：“他们是没上过大学的秘鲁土著居民”。结果表明，相较于没有上过大学的土著居民，被试更希望与第一类人交朋友(Bergeron&Zanna,1973)。还有研究发现着装作为社会阶层信号会影响谈判效果。研究者招募一群男性被试并将其随机分成三组：一组被试穿上从高档百货购买的黑色西装和一双黑色真皮礼服鞋(高社会阶层信号)，另一组被试身穿从廉价超市购买的白色T恤、蓝色运动裤和塑料凉鞋(低社会阶层信号)，第三组被试穿上普通休闲装(控制条件)。实验要求这些被试与陌生搭档模拟一次谈判。结果发现，陌生搭档认为穿西装的被试更有权力，并对其作出更大的让步，使得西装组的被试获得更有利的谈判结果，最后平均获利超过200万美元；而身穿廉价T恤的被试则被认为其能力不足，陌生搭档因此更不愿意对其让步，使得T恤组的被试最终仅平均获利68万美元，穿普通休闲装的被试也只赚到了120万美元(Kraus&Mendes,2014)。
+
+另外，求职者的高社会阶层信号还能促进雇主的雇人决策。有研究者收集了40 张大学生的标准中性面部照片，并根据他们的家庭收入水平将其归为低社会阶层或高社会阶层，然后告知职场人员被试这些照片里的人是会计专业的应届毕业生，并要求被试根据照片判断这些毕业生能在多大程度上成功找到一份会计工作。结果表明，和低阶层大学生的面部照片相比，那些高阶层大学生的面部照片被认为更有可能成功找到会计工作(Bjornsdottir&Rule,2017)。再比如，有研究发现，一些世界名企在招聘员工时会依据应聘者的兴趣爱好来筛选出更高阶层的潜在员工(Rivera,2016)。如此一来，那些在简历中提及高级兴趣爱好(如打高尔夫球等)或注明自己是某高端休闲俱乐部会员的求职者往往更容易在大企业里找到工作(e.g.,Rivera&Tilcsik,2016)。上述研究结果都表明，个体在寻找和选择互动对象时，会通过外在的社会阶层信号判断潜在目标的社会阶层，并且更青睐和迎合来自更高阶层的合作对象。
+
+# 3.2社会公平视角下的低社会阶层信号促进人际水平社会互动
+
+社会公平理论主张，人们不仅关心自身利益，也关心自身与他人收益的分配公平性，这种对公平的追求也表现为对不公平的厌恶，因而人们在日常交往中就有改善这种收益不均等的动机(fairness motives;Leventhal,1980)。低阶层者相比高阶层者拥有更少的资源、面临更多的威胁、生活的境遇也更加糟糕(郭永玉等，2015)，他们身上的低社会阶层信号，如破旧的衣衫和穷困的神态等，容易激发人们对于低阶层者的同情和改善这种不公平的动机。当对方的低社会阶层信号成为情境中诱发同情和不公平厌恶的线索，而人们又能敏感地知觉到这些线索时，其人际互动决策就会受到当下同情水平和公平动机的影响。
+
+已有学者通过虚拟情境启动任务证实了低社会阶层信号促进人际社会互动的现象(van Doesum et al.,2017)。研究者要求被试阅读一段文字，内容为“John 是一个40 多岁的男人，毕业于名牌大学，从事一份理想的工作，住在高档社区，开一辆高档车，年收入约为15万美元”(高社会阶层信号)或“John是一个40多岁的男人，高中学历，从事一份不太理想的工作，住在一个不太好的社区，开一辆破旧的车，年收入约为4万美元"(低社会阶层信号)，然后想象与“John”一起挑选礼物。被试有优先选择权，但礼物的种类和数量都有限。结果发现，在低社会阶层信号情境下，被试更愿意为对方着想，在挑选礼物时给“John”留下的选择余地更多。另一项基于独裁者实验的研究也发现了类似的结论。在这个实验中，大学生被试或面对“其爸爸外出打工，妈妈在家务农”的同伴，或面对“其爸爸开了家颇具规模的公司，妈妈是全职太太”的同伴，相比之下，大学生被试在第一种情况下表现得更慷慨，在独裁者游戏中分给同伴的金额显著更高(徐凤娇，2016)。
+
+上述研究结果符合社会公平理论的主张，即人有改善不公平的动机和倾向，且当其收入领先于别人时，他会牺牲自身的利益去帮助别人(Cappelen,Eichele,Hugdahl, Specht,
+
+Sprensen,&Tungodden,2014)。在社会公平动机的驱动下，个体会通过社会阶层信号判断互动对象的社会阶层，并且有强烈的愿望和行动去增进低阶层者的福利。
+
+# 3.3社会认同视角下的社会阶层信号对人际水平社会互动的影响
+
+社会认同理论认为，个体通过社会分类对自己所属的群体产生认同，并产生内群体偏爱和外群体偏见(Haslam,2014)。社会阶层是由于经济、政治等多种原因而形成的，在社会层次结构中处于不同地位的群体(郭永玉等，2015)，作为群体分类标签，他人的社会阶层信息是人际社会互动中的重要线索，会在很大程度上决定人们如何采取行动(程淑华，李欣，韩毅初，2017)。人们通过社会阶层信号判断他人的阶层，并与自身阶层相比较后将其划入内群体或者外群体，如果发现彼此所属的阶层越接近，后续的人际社会互动就越容易往积极的方向靠拢；而如果社会阶层信号强化了内外群体的界限和差异，双方的互动就容易因外群体偏见而受到不良影响(van Doesum etal.,2017)。
+
+例如，有研究发现，低阶层群体内部的人际信任水平更高，他们会向与自己一样处于不利处境(如简陋的房屋和疾病等)的人提供更多的物质资源(Navarro-Carrillo,Valor-Segura,&Moya,2018)。再比如，研究发现，当经济舱乘客要穿过头等舱才能到达自己的座位时，发生“空怒”事件(如经济舱乘客与头等舱乘客发生冲突)的几率会提高2.18 倍(DeCelles&Norton,2016)。研究人员认为，头等舱的存在让经济舱乘客感觉自己“低人一等”，因而在情绪上“更压抑、更冲动”；而经济舱乘客的存在让头等舱乘客感觉自己“不一般”，因而变得“更自私、更爱颐指气使、更目中无人”。也就是说，头等舱和经济舱的区别设计作为社会阶层信号强化了阶层(即内外群体)的界限，从而使得双方在人际互动过程中容易起冲突。
+
+另一项实验研究也得出了相似的结论。研究者将成年人被试按其学历分成低中高三个组：小学及以下学历组、中学学历组和大学及以上学历组，然后安排被试阅读描述若干个他人的文字，并基于有限的信息对这若干个他人分别回答以下两个问题：对这个人的喜欢程度和这个人与自己的相似程度。在文字所描述的这若干个人中，有一位叫“WilliamKing”的人，他“住在租来的公寓里，是一家便利商店的店员”；还有一位叫“MohammedHussain”，他“上过大学，职业是一名医生”。结果发现，高学历被试持有更严重的偏见，认为“MohammedHussain”与自己更相似，且更不喜欢“William King"(Kuppens,Spears,Manstead,Spruyt,&Easterbrook,2018)。可见，有限的文字信息作为社会阶层信号让被试得以判断出他人的阶层(尤其是学历)，并在与自身相比较的基础上偏爱与自身阶层更接近的人，符合社会认同理论的主张。
+
+# 4研究展望
+
+# 4.1 研究社会阶层信号功能弱化的问题
+
+研究发现，因为炫耀性产品(如顶级名车、限量版名牌包等)具有社会阶层信号的功能，低阶层者对炫耀性消费的需求往往比高阶层者更加强烈，他们会购买炫耀性产品以使自己看起来更像上层社会的人(王春晓，朱虹，2016;Clingingsmith& Sheremeta,2018)。相对地，高阶层者的炫耀性消费需求反而较弱，“有钱人爱炫耀”的原始假设也在实际调查中遭到了挑战甚至直接的否定—一相当一部分的高阶层者并无"通过消费让他人明了自身的金钱、权力和身份地位”的强烈愿望(Makkar,2014)。正因如此，以炫耀性消费品为代表的许多外在可见的社会阶层信号其“符号性”和“信号性”的功能实际是在被弱化的。高阶层者不需要刻意追求带有明显信号功能的炫耀性消费品来表达自己的阶层属性；而有很大一部分低阶层者则会想要通过购买炫耀性消费品来“标榜”自己，试图彰显渴望拥有但实际上并不具备的财富和地位。越来越多的日常生活经验告诉人们，背着限量版名牌包包的人也很可能来自工薪阶层甚至社会底层。所以，以炫耀性消费品为代表的社会阶层信号功能弱化问题是未来可以研究的一个方向，具体可以从以下两个方面入手。
+
+第一，检验以炫耀性消费品为代表的社会阶层信号的功能弱化程度。例如，探讨人们在多大程度上仍然依赖并相信炫耀性消费品可以代表他人的社会阶层；厘清哪些炫耀性消费品可能存在反向的社会阶层信号功能，即越是看起来属于高阶层群体的消费品可能越被人们认为是低阶层群体的标签；再比如，检验炫耀性消费品的易读性(如显眼的品牌标签)是否在一定程度上弱化了其作为社会阶层信号的功能等。
+
+第二，挖掘不易被“模仿”的社会阶层信号(如良好的谈吐气质、道德修养和教育背景等)并检验其对人际水平社会互动的影响。由于这些不易被“模仿”的社会阶层信号其易读性也相对“装门面”的炫耀性消费品而言更弱，所以有必要检验其信号功能的强弱，即在多大程度上影响个体对他人社会阶层的判断；另一方面，也正是因为这些社会阶层信号不易被“模仿”，那么是否会对人际社会互动产生更加稳定和持久的影响？对这一问题的探讨也将有助于我们更深入地发掘社会阶层信号的实质及其对人际社会互动的具体影响。
+
+# 4.2 厘清社会阶层信号与社会阶层的关系
+
+社会阶层信号与社会阶层的概念相关度较高，但有本质区别。具体来说，社会阶层是以个体在劳动分工、权威等级、生产关系和制度分割中的位置来划分的(陆学艺，2002)。只有在传统的熟人社会中，人际互动双方频繁地面对面交流、彼此了解且重复交往的基础上，双方才能较好地把握彼此的社会阶层，并据此做出人际互动行为决策。而在现今越来越趋近于“陌生人社会”的时代背景下，人们每天需要面对更多的他人，接收并处理海量的信息，甚至经常需要通过电话和网络等现代通讯设备与陌生人进行线上互动，这不仅大大增加了人们的认知负荷，而且在短时间接触中人们更难以准确获知对方的社会阶层。这就使得人们在人际社会互动中越来越依赖能节省认知资源的直觉式或自动化加工(Bar-Anan,Liberman,Trope,&Algom,2007)，这时便是社会阶层信号在发挥作用。
+
+认知双加工理论认为，人们存在“经验一直觉”式(系统一)和“理性一分析”式(系统二)两种基本信息加工模式(Evans,2008)。人们在全面知晓对方的社会阶层时，往往会通过系统二进行“理性一分析”式加工，而在陌生人情境中，尤其在有时间压力的情况下，则更倾向于启动“经验一直觉”式加工，基于过去的经验和直觉，通过细微的社会阶层信号快速做出判断并采取行动。由于两种信息加工模式具有实质区别，未来研究有必要阐述与此相对应的社会阶层信号与社会阶层在影响人际社会互动中的区别。笔者认为可以从信息量和时间压力两个维度上加以区分。一方面，二者的区别在于个体掌握的信息量不同：当明确掌握对方的社会阶层时，人们的互动行为更多遵循系统二的加工规律，而当不了解对方所属的社会阶层时，人们更多依赖社会阶层信号做出经验直觉式的反应，两者对个体人际互动行为的影响可能存在本质差异。另一方面，二者对人际水平社会互动的影响可能因时间压力的大小而不同：当时间充裕时，人们更可能花时间理性分析他人所属的社会阶层并做出互动决策，而当时间紧迫时，人们更可能凭直觉对社会阶层信号进行加工并做出行为反应，两者因而可能对人际水平的社会互动产生截然不同的影响。当然，上述区别还有赖于未来研究予以验证，以更全面地解释中国当下大量的社会现实。
+
+# 4.3 探索人际水平社会互动中第三方的社会阶层信号的影响
+
+尽管已有文献加深了我们对社会阶层信号如何影响人际社会互动的理解，但也有待完善之处，其中很重要的一点便是人际水平社会互动中第三方视角的缺失。事实上，互动双方之外的第三方(如旁观者)往往也会影响个体的互动行为决策，因此，第三方的社会阶层信号如何影响人际社会互动的问题很值得探讨。
+
+例如，可以研究旁观者的社会阶层信号如何影响个体提供帮助的可能性。社会冷漠现象发生的一个重要原因是旁观者效应，潜在施助者对在场旁观者行动的预期会影响其行为(e.g., Abbate,Ruggieri,& Boca, 2013; Thomas,De Freitas, DeScioli,& Pinker, 2016)。有人相信“为富不仁”，认为高阶层者是自私和贪婪的，于是他们可能对高阶层旁观者采取行动的期待较低，因而决定自己采取行动的可能性更大；与此相反，“穷则独善其身，达则兼济天下”是很多中国人的处世原则，高阶层者更有能力也更有责任去帮助他人，基于这种认识，人们可能对高阶层旁观者采取行动的期待较高，因而决定自己不行动的可能性较大且因此产生的内疚感也可能较少。据此推测，旁观者的社会阶层信号可能成为情境线索影响潜在施助者帮助受助者的可能性。未来研究可以通过现场实验和实验室实验来检验上述推测。总之，探索人际水平社会互动中第三方的社会阶层信号的影响及其机制将会是对社会阶层心理学研究的一个重要推进。
+
+参考文献程淑华，李欣，韩毅初.(2017)．群际接触对外群体信任的影响：内群体认同的中介效应.心理学探新,37(1),54-58傅鑫媛.(2016).受助者权力对施助者亲社会行为的影响．博士学位论文．北京师范大学.郭永玉，杨沈龙，李静，胡小勇.(2015)．社会阶层心理学视角下的公平研究．心理科学进展,23(8),1299-1311.杭斌，修磊.(2016).收入不平等、信贷约束与家庭消费.统计研究,33(8),73-79.胡荣，陈斯诗.(2008)．时尚消费的符号意义与社会阶层建构．社会科学研究,(6),110-114.李春玲.(2017).“中产化"：中国社会阶层结构变化新趋势.人民论坛,(22),1-1.陆学艺.(2002)．当代中国社会阶层研究报告．社会科学文献出版社.王春晓，朱虹.(2016).地位焦虑、物质主义与炫耀性消费——中国人物质主义倾向的现状、前因及后果．北京社会科学, (5),31-40.徐凤娇.(2016).亲社会行为的阶层差异：施与受的双重视角．硕士学位论文．华中师范大学.郑杭生.(2002).我国社会阶层结构新变化的几个问题．华中师范大学学报(人文社会科学版),41(4),5-9.郑杭生.(2005)．透视当代社会结构 促进中国社会和谐．中国人民大学学报,19(2),1-8.Abbate,C.S.,Ruggieri,S.,&Boca,S.(2Ol3).Theeffctofprosocialpriminginthepresenceofbystanders.TheJouralofSocial Psychology,153(5), 619-622.Bar-Anan,Y.,Liberman,N.,Trope,Y.,&lgom,D. (Oo).Automatic procesingof psychologicaldistance: Evidence froma Stroop task. Journal of Experimental Psychology: General,136(4), 610-622.Bergeron,A.P.,& Zanna,M.P.(1973). Groupmembershipandbeliefsimilarityas determinantsof interpersonal aractionin Peru. Journal of Cross-Cultural Psychology, 4(4),397-411.Bjornsdotir,R.T.,& Rule,N.O.(2O16,January). Conspicuous class: Wealth is accurately perceived from the face.Presentation at the Emerging Psychology of Social Class Pre-Conference of the Society for Personality and SocialPsychology, San Diego, CA.Bjornsdotir,R.T.,&Rule,N.O.(2o17).The visibilityofsocial class from facialcues.JournalofPersonalityand SocialPsychology, 113(4),530-546.Cao,Y.,Yu,H.,Wu,Y.,& Zhou,X.(O15).Can money healallwounds? Social exchange norm modulates thepreferencefor monetary versus social compensation. Frontiers in Psychology, 6,1411-1421.Cappelen,A.W.,Eichele,T.,Hugdahl, K.SpechtE,Sprensen,E.O.,& Tungodden B.(2014).Equity Theory andFair
+
+Inequality:ANeuroeconomic Study.ProceedingsoftheNationalAcademyofSciencesofthe United StatesofAmerica
+
+111(43),15368-15372.   
+Clingingsmith,D.,& Sheremeta,R.M. (2O18). Status and the demand for visible goods: Experimental evidence on conspicuous consumption. Experimental Economics,21(4), 877-904.   
+DeCeles,K.A.,&Norton,M.I. (2O16).Physicalandsituational inequalityonairplanes predicts airrage.Proceedingsofthe National Academy of Sciences, 113(20),5588-5591.   
+Diener,E.,&Biswas-Diener,R. (2oO2). Willmoney increase subjective well-being?.Social Indicators Research,57(2), 119-169.   
+Evans,J.S.B.T. (2o8).Dual-processngaccounts ofreasoning,judgment,andsocialcognition.Annual Review Psyhology, 59,255-278.   
+Fussell, P.(1983). Class: A guide through the American status system.New York: Summit Books.   
+Giles,H.,& Sassoon,C. (1983).The effectof speaker's accent, social class background and message style on British listeners' social judgements. Language & Communication, 3(3),305-313.   
+Gilath,O.,Bahns,A.J.,Ge,F.,&Crandall,C.S. (2l2). hoes assourceoffirstimpresions.JournalofResearch in Personality, 46(4), 423-430.   
+Haslam,S.A. (2014). Making good theory practical: Five lessons for anapplied socialidentity approach tochalenges of organizational,health,and clinical psychology. British Journal of Social Psychology,53(1),1-20.   
+Haushofer,J.,& Fehr,E. (2014). On the psychology of poverty. Science, 344(6186),862-867.   
+Kraus,M. W.,&Keltner,D. (20o9).Signs of socioeconomic status: Athin-slicing aroach. Psychological Science,20(1), 99-106.   
+Kraus,M.W.,& Mendes,W.B. (2014).Sartorial symbols ofsocial class elicit class-consistent behavioraland physiological responses: A dyadic approach. Journal of Experimental Psychology: General,143(6), 2330-2340.   
+Kraus,M. W.,& Stephens,N.M. (2012). Aroad map for an emerging psychology of social clas. Social & Personality Psychology Compass, 6(9), 642-656.   
+Kraus,M.W.,Horberg,E.J.,Goetz,J.L,&Keltner,D.(2ol).Socialclassrank,threatvigilance,andhostilereactivity Personality and Social Psychology Bulletin,37(1O),1376-1388.   
+Kraus,M. W.,Park,J. W.,&Tan,J. (2Ol7). Signs of socialclas: The experience of economic inequality ineveryday life. Perspectives on Psychological Science,12(3), 422-435.
+
+Kuppens,T.,Spears,R.,Manstead,A.S.,Spruyt,B.,&Easterbrook,M.J. (2O18).Educationismand the ironyof meritocracy: Negative atitudesof higher educated people towards the lesseducated.Journal ofExperimental Social Psychology,76,429-447.
+
+Leventhal, G.S.(198O). What should be done with equity theory? New approaches to the study offairness in social relationships.In K. Gergen,M.Greenberg,&R. Wilis (Eds.),Social exchange: Advances in theory and research(pp. 27-55). New York: Plenum Press.   
+Makkar,M. (2014).Luxury foroneselfor luxury forothers?Exploring theunderlying emotionsbehind inconspicuous luxury consumption. Doctoral dissertation. Auckland University of Technology.   
+Malatesta,C..Fiore,M.J.,&Messina,J.J. (198).Aect,personalityandfacialexpresivecharacteristicsofolder people.Psychology& Aging,2(1),64-69.   
+Manstead,A.(2018).The psychologyofsocialclas: How socioeconomic status impacts thought,feelings,andbehaviour. British Journal of Social Psychology,57(2),267-292.   
+Navarro-CariloG.,Valor-Segura,I,&Moya,M. (2O18).Doyou truststrangers,closeacquaintances,andmembersofyour ingroup?Diferences in trust based on social class in Spain.Social Indicators Research,135(2),1-13.   
+Rivera,L.A.(2016). Pedigree: How elite students get elite jobs.Princeton,NJ: Princeton University Press.   
+Rivera,L.A.,& Tcsik,A. (2O16). Classadvantage,commitment penalty: The gendered effct of social class signals in an elite labor market. American Sociological Review, 81(6),1097-1131.   
+Schilke,O.,Reimann,M.,& Cook, K.S.(2O15).Power decreases trust insocial exchange. Proceedingsofthe National Academy of Sciences of the United States of America,1l2(42),12950-12955.   
+Thomas,K.A.,De Freitas,J.,DeScioli,P.,& Pinker,S. (2016). Recursive mentalizing and common knowledge in the bystander effect. Journal of Experimental Psychology: General,145(5),621-629.   
+van Doesum,N.J.,Tybur,J.M.,&van Lange,P.A.M.(Ol7). Classimpressions: Highersocial class elicits lower prosociality. Journal of Experimental Social Psychology, 68,11-20.
+
+# Social Class Signs and Their Effects on Interpersonal Social Interactions
+
+GUO Rong¹；FU Xinyuan
+
+（ $^ { 1 }$ Department of Psychology at School of Sociology and Psychology， Central University of Finance and Economics，Beijing 10oo81， China)
+
+Abstract: Social class signs are a component of person perception about social class of others. People can determine another’ s social class by processing these subtle social class signs,and another’ s social class has a profound and extensive impact on interpersonal social interaction. This article used personal attire, facial features, and speaking characteristics as examples to illustrate that social class signs affect individual’ s judgment of another’ s social class. Moreover， we summarized the distinguishing influences of social class signs on interpersonal social interactions based on the perspectives of social exchange， social fairness, and social identity. It would be desirable to study if the functions of some social class signs are weakened because of the problem of conspicuous consumption. Regarding the relatively high relevance between social class signs and social class, it is necessary to explore the relation and distinction between these two constructs in future research. Given that few studies have examined the impacts of social class signs of a third party on interpersonal social interactions，it is important to expand the research from the interpersonal perspective to the third-party perspective.
+
+Key words: social class signs; interpersonal social interactions; social exchange; social fairness; social identity
+
+作者贡献声明：
+
+郭容：论文起草，文献搜集，初稿撰写，参与文章修改；
+
+傅鑫媛：研究命题的提出、设计，进行文章修改，论文最终版本修订。

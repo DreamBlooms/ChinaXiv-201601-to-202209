@@ -1,0 +1,465 @@
+[
+    {
+        "type": "text",
+        "text": "Spatio-temporal variations of soil water content and salinity around individual Tamarix ramosissima in a semi-arid saline region of the upper Yellow River, Northwest China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YANG Benman,WANG Ruoshui, XIAO Huijie\\*, CAO Qiqi, LIU Tao ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "College of Soil and Water Conservation,Beijing Forestry University,Beijing 1Ooo83,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Ecological restoration by Tamarix plants on semi-arid saline lands affects the accumulation, distribution patterns and related mechanisms of soil water content and salinity. In this study, spatio-temporal variations of soil water content and salinity around natural individual Tamarix ramosissima Ledeb.were invetigated in a semi-arid saline region of the upper Yelow River， Northwest China. Specifically, soil water content, electrical conductivity $\\mathrm { ( E C _ { \\mathrm { e } } ) }$ ,sodium adsorption ratio $( \\mathrm { S A R _ { e } ) }$ ,and salt ions (including $\\mathrm { N a ^ { + } }$ ， $\\mathrm { K ^ { + } }$ ， $\\mathrm { C a } ^ { 2 + }$ ， $\\mathrm { M g ^ { 2 + } }$ and $\\mathrm { S O } _ { 4 } { } ^ { 2 - }$ ） were measured at different soil depths and at different distances from the trunk of $T .$ ramosissima in May, July,and September 2O16. The soil water content at the $2 0 { - } 8 0 ~ \\mathrm { c m }$ depth was significantly lower in July and September than in May, indicating that $T .$ ramosissima plants absorb a large amount of water through the roots during the growing period,leading to the decreasing of soil water content in the deep soil layer.At the $0 { - } 2 0 ~ \\mathrm { c m }$ depth,there was a salt island effect around individual $T .$ ramosissima, and the $\\mathrm { E C _ { \\mathrm { e } } }$ differed significantly inside and outside the canopy of $T _ { \\mathbf { \\delta } }$ ramosissima in May and July. Salt bioaccumulation and stemflow were two major contributing factors to this difference. The $\\mathrm { S A R _ { e } }$ at the $0 { - } 2 0 ~ \\mathrm { c m }$ depth was significantly different inside and outside the canopy of $T .$ ramosissima in the three sampling months. The values of $\\mathrm { S A R } _ { \\mathrm { e } }$ at the $6 0 { - } 8 0 ~ \\mathrm { c m }$ depth in May and July were significantly higher than those at the $ { 0 - 6 0 }  { \\mathrm { c m } }$ depth and higher than that at the corresponding depth in September. The distribution of $\\mathrm { N a ^ { + } }$ in the soil was similar to that of the $\\mathrm { S A R _ { e } }$ ,while the concentrations of $\\mathrm { K ^ { + } }$ ， $\\mathrm { C a } ^ { 2 + }$ ,and $\\mathrm { M g ^ { 2 + } }$ showed significant differences among the sampling months and soil depths.Both season and soil depth had highly significant effects on soil water content, $\\mathrm { E C _ { \\mathrm { e } } }$ and $\\mathrm { S A R _ { e } }$ ,whereas distance from the trunk of $T .$ ramosissima only significantly affected $\\mathrm { E C _ { \\mathrm { e } } }$ .Based on these results,we recommend co-planting of shallow-rooted salt-tolerant species near the Tamarix plants and avoiding planting herbaceous plants inside the canopy of $T .$ ramosissima for afforestation in this semi-arid saline region. The results of this study may provide a reference for appropriate restoration in the semi-arid saline regions of the upper Yellow River. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Tamarix ramosissima; soil watercontent; electricalconductivity;sodiumadsorption ratio;salinesoil; Yellow River ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Tamarix (Tamaricaceae） plants are dominant tree species distributed in the semi-arid saline regions of the upper Yellow River. More than 1O species of Tamarix are distributed in these regions,and these species are typical salt-secreting halophytes (Sookbirsingh et al., 2010). In China,Tamarix plants are considered as excellent species for soil and water conservation as well as for afforestation in saline regions (Zhang et al., 2OO2). Large-scale planting of Tamarix plants can influence the distributions of soil water content and salinity in saline regions. The spatio-temporal variations of soil water content and salinity can, in turn, largely determine the spatial distributions of other vegetation types (Wu et al.，2009; He et al., 2014, 2015). These cascading effects are likely to influence how vegetation restoration occurs in saline regions. The semi-arid saline regions of the upper Yellow River are mostly located in the Yellow River irrigation area, where the spatio-temporal variations of soil water content and salinity are complex due to special hydrological conditions such as uneven rainfall distribution, shallow groundwater depth,and high salinity of groundwater. The spatio-temporal variations of soil water content and salinity around individual Tamarix plants are unclear in these regions. Such variations are closely related to regional vegetation restoration and vegetation allocation. Therefore, identifying the relationships between the Tamarix plants and spatio-temporal variations of soil water content and salinity in the semi-arid saline regions of the upper Yellow River will be important for vegetation restoration and vegetation allocation in future. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It has been shown that salt bioaccumulation could cause a salt island effect around individual Tamarix stands (Grubb et al.,1997),reflecting the spatial heterogeneity of soil on a small scale. The salt island effect also has a profound impact on the vegetation pattern of an ecosystem on a large scale (Hillerislambers et al.,2Oo1). Some studies have observed a significant increase in soil salinity under the canopy of Tamarix plants in different land-cover types，including riparian corridors (Ladenburger et al.，2OO6), deserts (Yin et al.，2O1O), saline-alkali lands (Zhang and Chen,2015) and coastal wetlands (Liu et al.,2017). However, Ohrtman et al. (2012) noted that soil salinity under the canopy of Tamarix plants was lower than that in an adjacent area without woody cover under non-flooded conditions. Additionally, Lesica and DeLuca (2OO4) and Li et al. (2007） found no difference in soil salinity inside and outside the canopy of Tamarix plants. It should be mentioned that previous related studies (e.g., Ladenburger et al., 2Oo6; Yin et al.,2010; Zhang and Chen, 2O15) mainly focused on the enrichment effect of Tamarix plants on soil salinity at a single time point. Numerous studies on soil water under Tamarix plants have also shown that the distribution of soil water varies greatly from region to region. Di Tomaso (1998) and Xia et al. (2016) noted that Tamarix plants could reduce soil water content. In contrast, Guan et al. (2009) found that soil water storage capacity was higher in the root zone of Tamarix chinensis Lour. than in an adjacent unplanted area in a saline coastal area of Shandong Province, China. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Investigating the spatio-temporal distributions of soil water content and salinity on the individual plant scale plays an important role in optimal vegetation management (Parkin,1993). To date,few studies have investigated the spatio-temporal variations of soil water content and salinity around individual Tamarix plants in the semi-arid saline regions of the upper Yellow River. In the present study,we analyzed the spatial distributions and seasonal variations of soil water content, electrical conductivity $\\left( \\mathrm { E C _ { \\mathrm { e } } } \\right)$ ，sodium adsorption ratio $( \\mathrm { S A R _ { e } } )$ ,and salt ions at different soil depths and at different distances from the trunk of Tamarix ramosissima Ledeb. during the growing period in a semi-arid saline region of the upper Yellow River. Since T. ramosissima is a natural specie commonly found in this study region,we hope that this study could provide a reference for the restoration and spatial allocation of vegetation in the semi-arid saline regions of the upper Yellow River. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The study area was located on Shuxin Forest Farm of Xiaoba Town, Qingtongxia City, Ningxia ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Hui Autonomous Region, Northwest China ( $3 8 ^ { \\circ } 0 1 \\mathrm { N }$ ， $1 0 5 ^ { \\circ } 5 6 ^ { \\prime } \\mathrm { E }$ ：， $1 1 3 9 \\mathrm { ~ m ~ }$ a.s.l.). This region lies within the irrigation area of Yinchuan Plain along the upper reaches of the Yellow River. It should be noted that the region was previously a saline lake. The study area is characterized by a temperate continental climate with low precipitation (mean annual precipitation of $2 6 0 . 7 \\mathrm { m m } \\mathrm { \\Omega }$ and high evaporation (mean annual evaporation of $1 2 9 6 ~ \\mathrm { m m }$ ). The annual mean temperature is $8 . 5 ^ { \\circ } \\mathrm { C }$ and the mean annual sunshine hour is $2 2 9 5 \\mathrm { h }$ . The average groundwater level is approximately 1.5 m and the total dissolved solid concentration of groundwater is in the range of $3 { \\mathrm { - } } 1 3 { \\mathrm { ~ g / L } }$ . Native plant species include $T .$ ramosissima,Phragmitesaustralis (Cav.) Trin. exSteud.,Suaeda salsa (L.) Pall., Achnatherumsplendens (Trin.） Nevski., and Agropyroncristatum(Linn.) Gaertn. The soil of the study area is sandy soil. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Sampling methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 Characteristics of sampling plot ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A sampling plot with an area of $2 0 \\mathrm { ~ m } { \\times } 2 0 \\mathrm { ~ m ~ }$ was selected within the natural $T .$ ramosissima community in the study area. Three living individual T. ramosissma plants in the sampling plot were selected as the targets for investigation.The selected plants had similar canopy size, height, and stem diameter measurements.Morphological traits of the selected $T .$ ramosissima plants and characteristics of the understory vegetation are shown in Table 1. Measurements of soil water content and salinity were carried out on 10 May (spring),15 July (summer) and 21 September (autumn), 2O16.Table 1 shows the basic soil physical characteristics at the $\\scriptstyle 0 - 8 0 \\ c \\mathrm { m }$ soil depth in the sampling plot. The soil in the sampling plot is sandy soil. Furthermore,the soil is saline-sodic with high $\\mathrm { E C _ { \\mathrm { e } } }$ and $\\mathrm { S A R _ { e } }$ ,and the dominant salts are sodium and sulfate. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/016c8095138bdc9109a356245872341827b825b8f7d31bc3451d481a70e8d092.jpg",
+        "table_caption": [
+            "Table1 Characteristics of the sampling plot "
+        ],
+        "table_footnote": [
+            "Note: $\\mathrm { E C _ { \\mathrm { e } } }$ ,electrical conductivity; $\\mathbf { S A R _ { c } }$ ,sodium adsorption ratio.Values in the parentheses represent standard deviations "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">Morphological traits of the selected T.ramosissima</td><td colspan=\"2\">Understory vegetation</td><td rowspan=\"2\">Soil ECe (mS/cm)</td><td rowspan=\"2\">Soil pHe</td><td rowspan=\"2\">Soil SARe</td><td colspan=\"3\">Soil texture</td></tr><tr><td>heMht(m)</td><td>diatemer (cm)</td><td>Canopysize</td><td>Coverage (%)</td><td>Dopminant</td><td>(mmol/L)0.5</td><td>Sand</td><td>Si Clay</td></tr><tr><td rowspan=\"2\">3.99 (0.10)</td><td>5.02</td><td>4.19</td><td>5% in Mo in:</td><td>Suaeda salsa</td><td>11.29</td><td>7.77</td><td>24.34</td><td>81.75</td><td>8.50</td><td>9.75</td></tr><tr><td>(0.28)</td><td>(0.06.x4.25</td><td>Jul; <10% in Sep</td><td>Phragmitesau stralis</td><td>(0.56)</td><td>(0.08)</td><td>(3.86)</td><td>(2.96)</td><td>(2.09)</td><td>(1.27)</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2Soil sampling ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Soil samples were collcted using the concentric circle method (Zhang et al., 2O16). For each individual $T .$ ramosissima,we taken the trunk as the center of measurement and collected soil samples in four directions using a 5-cm-diameter soil auger. As shown in Figure 1, the sampling points were distributed at 50，100,150，200 and $2 5 0 ~ \\mathrm { c m }$ from the trunk in four directions. Specifically, three sampling points (50,10o,and $1 5 0 \\ \\mathrm { c m }$ from the trunk) were situated inside the canopy of $T .$ ramosissima, one sampling point ( $2 0 0 \\mathrm { c m }$ from the trunk) was located at the edge of the canopy, and one sampling point $2 5 0 \\mathrm { c m }$ from the trunk) was located outside the canopy. The soil was sampled at four depths (O-20,20-40,40-60,and $6 0 { - } 8 0 ~ \\mathrm { c m } )$ with three replicates.Finally, a total of 72O soil samples (5 sampling points $\\times 4$ soil depths $\\times 4$ directions $\\mathbf { \\nabla } \\times 3$ repetitions $\\times 3$ （20 sampling months) were collected. For each soil sample,a part of the sample was separated out to measure soil water content and the remainder was stored in a sealed plastic bag to measure the other physical and chemical properties. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 Measurements and calculations ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Rainfall and air temperature data were collected using a small weather station (HOBOware U30, Onset,USA） during the growing season of $T .$ ramosissima. Soil water content was measured using the oven-drying method. Soil samples used for measuring the other physical and chemical properties were air-dried and then sieved with a $1 \\mathrm { - m m }$ mesh sieve. Soil $\\mathrm { E C _ { \\mathrm { e } } }$ ， $\\mathbf { S A R _ { e } }$ ， $\\mathrm { \\ p H _ { e } }$ and concentrations of soluble ions (including $\\mathrm { { N a ^ { + } } }$ ， $\\mathrm { K ^ { + } }$ ， $\\mathrm { C a } ^ { 2 + }$ ， $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ and $S O _ { 4 } { } ^ { 2 - } )$ ）were measured forall samples as saturated paste extract. Soil texture was determined using a laser particle size analyzer (S5300,Microtrac,USA） after the soil was treated with dispersant. Soil $\\mathrm { p H } _ { \\mathrm { e } }$ and $\\mathrm { E C _ { \\mathrm { e } } }$ were determined using a $\\mathrm { p H }$ meter(PHS-3C,Leici, China) and a conductivity meter (DDS-3O7,Leici, China),respectively. The concentrations of soluble ions were determined using an Inductively Coupled Plasma Optical Emission Spectrometer (Optima 5300DV,PerkinElmer, USA). Soil $S A R _ { \\mathrm { e } }$ was calculated using the following formula (Sou/Dakouré, 2013): ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/dfa19defd1ed25672f957de93d07459f8f80ce8d76243f04a7d89ad0faf10e3a.jpg",
+        "img_caption": [
+            "Fig.1Layout of the sampling points "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S A R } _ { \\mathrm { e } } = \\frac { C _ { \\mathrm { N a } ^ { + } } } { \\sqrt { \\displaystyle \\frac { 1 } { 2 } \\biggl ( C _ { \\mathrm { C a } ^ { 2 + } } + C _ { \\mathrm { M g } ^ { 2 + } } \\biggr ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where, $C _ { \\mathrm { N a ^ { + } } }$ is the concentration of $\\mathrm { N a ^ { + } \\left( m m o l _ { c } / L \\right) }$ ： $C _ { \\mathrm { C a } ^ { 2 + } }$ is the concentration of $\\mathbf { C a } ^ { 2 + } \\left( \\mathrm { m m o l } \\mathrm { c } / \\mathrm { L } \\right)$ and $C _ { \\mathrm { M g } ^ { 2 + } }$ is the concentration of $\\mathbf { M g } ^ { 2 + } \\left( \\mathrm { m m o l } \\mathrm { c } / \\mathrm { L } \\right)$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4 Data analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Soil water content and salinity data were analyzed using SPSS software version 18.O (IBM, USA). One-way analysis of variance and least significant difference tests were used to analyze the differences in soil properties. In addition, Student-Newman-Keuls test was used to determine the effects of season, sampling location, soil depth and their interactions on soil water content and salinity. Differences of $P { < } 0 . 0 5$ were considered significant. Furthermore,Microsoft Excel 2007 was used for data analysis and mapping. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 Variations in rainfall and air temperature during the growing season of $T .$ ramosissima ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The total rainfall was $1 9 3 . 1 \\ \\mathrm { m m }$ for the whole growing season of T. ramosissima,with $5 2 . 3 \\%$ of total rainfall occurring during the high-growth period in July and August. As shown in Figure 2, rainfall inMay2016( ${ \\mathrm { 4 1 . 2 ~ m m } } )$ was the highest among the three sampling months (i.e.,May, July, and September),and it was also higher than the long-term average monthly rainfallin May (19.0 mm）in the region. Rainfall in September 2016（ $1 1 . 5 \\ \\mathrm { m m } )$ ） was the lowest among the three sampling months, and it was also lower than the long-term average monthly rainfall in September $( 2 6 . 0 \\ \\mathrm { m m } )$ .Furthermore,rainfall in July 2016（ $( 3 7 . 8 ~ \\mathrm { m m } )$ ）was slightly lower than the long-term average monthly rainfall in July $( 4 1 . 0 \\ \\mathrm { m m } )$ . The mean air temperature was highest in July $( 2 5 . 5 ^ { \\circ } \\mathrm { C } )$ ，followed by September $( 1 9 . 4 ^ { \\circ } \\mathrm { C } )$ and May $( 1 8 . 6 ^ { \\circ } \\mathrm { C } )$ . Air temperature showed irregular fluctuations during the whole growing season of $T .$ ramosissima (Fig. 2). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2Basic soil properties ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Statistical analyses of soil water content, $\\mathrm { E C _ { \\mathrm { e } } }$ ，and $S A R _ { \\mathrm { e } }$ at different soil depths around individual ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/366126f40861e15176aca8aa5ac47c2b30233866833e507d530a20f883262d4a.jpg",
+        "img_caption": [
+            "Fig.2Rainfall and air temperature during the growing season of $T .$ ramosissima "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "T. ramosissima are shown in Table 2. Soil water content generally increased with increasing soil depth in all sampling months,with exceptions of $2 0 { \\ - } 4 0 \\ \\mathrm { ~ c m }$ depth in July and September. Specifically, soil water content at the $2 0 { \\ - } 4 0 \\ \\mathrm { c m }$ depth was lower than that at the $0 { - } 2 0 ~ \\mathrm { c m }$ depth in July and September. There were significant differences in the soil water content at different soil depths among the three sampling months (May, July,and September; $P { < } 0 . 0 5 )$ . The values of soil water content at the $6 0 { - } 8 0 ~ \\mathrm { c m }$ depth were 4.9,3.2,and 1.4 times higher than those at the $0 { - } 2 0 ~ \\mathrm { c m }$ depth in May， July,and September, respectively. Table 2 shows that the CV (coefficient of variation) of soil water content at different soil depths in different sampling months varied from $31 \\%$ to $80 \\%$ . The CV of soil water content at the $0 { - } 2 0 ~ \\mathrm { c m }$ depth was greater than that at the $2 0 { - } 8 0 ~ \\mathrm { c m }$ depth in May and September. There were small differences in the CV of soil water content among different soil depths in July. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/7a9c89a4a9f0a01105f3129729d2308836a337455b632d4dd5b9ba1d98867353.jpg",
+        "table_caption": [
+            "Table 2Statistical parameters of soil water content, $\\mathrm { E C _ { \\mathrm { e } } }$ ,and $\\mathrm { S A R _ { e } }$ around individualT.ramosissima "
+        ],
+        "table_footnote": [
+            "Note:SD,stadardevio;CVoeintofratioDirentlowecaeletersicatesiicatdiereceatitoil depths in the same sampling month $( P { < } 0 . 0 5 )$ ;different capital letters indicate significant differences in different sampling months at the same soil depth $( P { < } 0 . 0 5 )$ "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Month</td><td rowspan=\"2\">Soil depth (cm)</td><td colspan=\"3\">Soil water content</td><td colspan=\"3\">ECe</td><td colspan=\"3\">SARe</td></tr><tr><td>Mean (%)</td><td>SD (%)</td><td>CV (%)</td><td>Mean (mS/cm)</td><td>SD (mS/cm)</td><td>CV (%)</td><td>Mean (mmol/L)0.5</td><td>SD (mmol/L)0.5</td><td>CV (%)</td></tr><tr><td rowspan=\"4\">May</td><td>0-20</td><td>2.96dAB</td><td>1.89</td><td>64.0</td><td>7.49cB</td><td>6.10</td><td>81.4</td><td>14.90bB</td><td>5.02</td><td>33.7</td></tr><tr><td>20-40</td><td>6.05cA</td><td>2.03</td><td>33.5</td><td>7.92cB</td><td>4.50</td><td>56.8</td><td>15.62bB</td><td>5.18</td><td>33.2</td></tr><tr><td>40-60</td><td>9.18bA</td><td>2.87</td><td>31.3</td><td>13.27bA</td><td>6.65</td><td>50.1</td><td>20.67bB</td><td>11.40</td><td>55.1</td></tr><tr><td>60-80</td><td>14.46aA</td><td>4.87</td><td>33.7</td><td>16.48aA</td><td>6.39</td><td>38.8</td><td>51.79aA</td><td>38.61</td><td>74.6</td></tr><tr><td rowspan=\"4\">Jul</td><td>0-20</td><td>2.34cB</td><td>1.56</td><td>66.7</td><td>11.73bA</td><td>10.29</td><td>87.7</td><td>19.90bA</td><td>6.92</td><td>34.8</td></tr><tr><td>20-40</td><td>2.07cC</td><td>0.99</td><td>48.1</td><td>9.97bA</td><td>6.03</td><td>60.4</td><td>20.23bA</td><td>7.03</td><td>34.8</td></tr><tr><td>40-60</td><td>4.21bB</td><td>2.86</td><td>67.9</td><td>15.02aA</td><td>8.07</td><td>53.7</td><td>26.32bA</td><td>14.86</td><td>56.5</td></tr><tr><td>60-80</td><td>7.51aB</td><td>4.48</td><td>59.7</td><td>16.53aA</td><td>8.84</td><td>53.5</td><td>52.40aA</td><td>45.47</td><td>86.8</td></tr><tr><td rowspan=\"4\">Sep</td><td>0-20</td><td>3.48bA</td><td>2.76</td><td>79.5</td><td>8.38bcB</td><td>6.50</td><td>77.6</td><td>15.17cB</td><td>5.25</td><td>34.6</td></tr><tr><td>20-40</td><td>3.12bB</td><td>0.97</td><td>31.1</td><td>7.50cB</td><td>5.49</td><td>73.2</td><td>15.88beB</td><td>5.49</td><td>34.6</td></tr><tr><td>40-60</td><td>4.27aB</td><td>1.83</td><td>42.8</td><td>10.04bB</td><td>6.17</td><td>61.5</td><td>17.87bB</td><td>6.36</td><td>35.6</td></tr><tr><td>60-80</td><td>4.97aC</td><td>2.18</td><td>43.8</td><td>16.06aA</td><td>8.21</td><td>51.1</td><td>21.27aB</td><td>7.73</td><td>36.3</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The variation of $\\mathrm { E C _ { \\mathrm { e } } }$ in the vertical soil profile was consistent with that of soil water content. That is,the $\\mathrm { E C _ { \\mathrm { e } } }$ generally increased with increasing soil depth with exceptions of $\\mathrm { E C _ { \\mathrm { e } } }$ at the $2 0 { \\ - } 4 0 \\ \\mathrm { c m }$ depth in July and September. Also, the $\\mathrm { E C _ { \\mathrm { e } } }$ at the $2 0 { \\ - } 4 0 ~ \\mathrm { c m }$ depth was lower than that at the $0 { - } 2 0 ~ \\mathrm { c m }$ depth in July and September. There were significant differences in the $\\mathrm { E C _ { \\mathrm { e } } }$ among different soil depths in May and September $( P { < } 0 . 0 5 )$ ,and the values of $\\mathrm { E C _ { \\mathrm { e } } }$ at the $6 0 { - } 8 0 \\ \\mathrm { c m }$ depth were 2.2 and 1.9 times higher than those at the $\\textstyle 0 - 2 0 \\ \\mathrm { c m }$ depth,respectively. Additionally, there was a significant difference of $\\mathrm { E C _ { \\mathrm { e } } }$ between the O-40 and $4 0 { - } 8 0 ~ \\mathrm { c m }$ depths in July $( P { < } 0 . 0 5 )$ ，with the latter being $3 1 . 2 \\%$ higher than the former. The $\\mathrm { E C _ { \\mathrm { e } } }$ first increased and then decreased during the three sampling months at all soil depths.The CV of $\\mathrm { E C _ { \\mathrm { e } } }$ was highest at the $0 { - } 2 0 ~ \\mathrm { c m }$ depth in all sampling months. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As similar as soil water content and $\\mathrm { E C _ { \\mathrm { e } } }$ ，the $\\mathsf { S A R } _ { \\mathrm { e } }$ also increased with increasing soil depth. The $\\mathsf { S A R } _ { \\mathrm { e } }$ at the $6 0 { - } 8 0 ~ \\mathrm { c m }$ depth showed distinct peaks in May and July,and was significantly higher than thatat the $ { 0 - 6 0 } \\ \\mathrm { c m }$ depth for the same months $( P { < } 0 . 0 5 )$ .The values of $S A R _ { \\mathrm { e } }$ at the $6 0 { - } 8 0 ~ \\mathrm { c m }$ depth were 3.5 and 2.6 times higher than those at the $0 { - } 2 0 ~ \\mathrm { c m }$ depth $( P { < } 0 . 0 5 )$ in May and July,respectively. There were significant differences in the $\\mathsf { S A R } _ { \\mathrm { e } }$ among different soil depths in September $( P { < } 0 . 0 5 )$ ,and the $\\mathsf { S A R } _ { \\mathrm { e } }$ at the $6 0 { - } 8 0 ~ \\mathrm { c m }$ depth was 1.4 times higher than that at the $0 { - } 2 0 ~ \\mathrm { c m }$ depth.Furthermore, the CV of $S \\mathrm { A R _ { e } }$ was highest at the $6 0 { - } 8 0 ~ \\mathrm { c m }$ depth. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As shown in Table 3, the $\\mathrm { p H _ { e } }$ at the $6 0 { - } 8 0 ~ \\mathrm { c m }$ depth was significantly higher than that at the O-60 cm depth in May and July $( P { < } 0 . 0 5 )$ ，whereas the $\\mathrm { p H _ { e } }$ at the $\\textstyle 0 - 4 0 \\mathrm { c m }$ depth was significantly higher than that at the $4 0 { - } 8 0 ~ \\mathrm { c m }$ depth in September $( P { < } 0 . 0 5 )$ . The $\\mathrm { p H _ { e } }$ value at each soil depth in May was significantly higher than those in July and September $( P { < } 0 . 0 5 )$ .The cations in the soil around individual $T .$ ramosissima were dominated by $\\mathrm { { N a ^ { + } } }$ ，which was mainly distributed in the deep soil depths. The $\\mathrm { { N a ^ { + } } }$ concentration at the $4 0 { - } 8 0 ~ \\mathrm { c m }$ depth was significantly higher than that at the O-40 cm depth in all sampling months $( P { < } 0 . 0 5 )$ . The $\\mathrm { { N a ^ { + } } }$ concentration was found to be highest in July. The concentrations of $\\mathrm { K ^ { + } }$ ， $\\mathrm { C a } ^ { 2 + }$ ，and $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ were relatively low,and all of them showed significant differences among the sampling months and soil depths $( P { < } 0 . 0 5 )$ . The concentration of $\\mathrm { S O } _ { 4 } { } ^ { 2 - }$ generally increased with increasing soil depth. There was no significant difference of $\\mathrm { S O } _ { 4 } { } ^ { 2 - }$ concentration at the $6 0 { - } 8 0 ~ \\mathrm { c m }$ depth among the sampling months. The CV values of $\\mathrm { { N a ^ { + } } }$ $\\mathrm { C a } ^ { 2 + }$ ,and $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ concentrations were highest at the $0 { - } 2 0 \\mathrm { c m }$ depth in all sampling months. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3Variations in soil water content and salinity at different distances from individual $T .$ ramosissima ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 Variations in soil water content ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Variations of soil water content at diferent soil depths and at different distances from the trunk of T.ramosissima showed different trends for the three sampling months.In May, the soil water content at the $0 { - } 2 0 ~ \\mathrm { c m }$ depth gradually decreased with increasing distance from the trunk of $T .$ （204号 ramosissima,and the soil water content inside the canopy ( $5 0 \\ \\mathrm { c m }$ from the trunk) was two times higher than that outside the canopy( $2 5 0 \\mathrm { c m }$ from the trunk) (Fig. 3a). At the $2 0 { - } 4 0 ~ \\mathrm { c m }$ depth, the soil water content initially decreased and then increased with increasing distance from the trunk, and the difference was significant between the 5O- and $1 5 0 \\mathrm { - c m }$ distances from the trunk $( P { < } 0 . 0 5 )$ At the $4 0 { - } 8 0 ~ \\mathrm { c m }$ depth,the soil water content did not significantly differ inside and outside the canopy. In July, the highest soil water content at the $0 { - } 2 0 ~ \\mathrm { c m }$ depth occurred outside the canopy （ $2 5 0 \\mathrm { c m }$ from the trunk),while the lowest value occurred at the edge of the canopy ( $2 0 0 \\ \\mathrm { c m }$ from the trunk) (Fig.3b). The soil water content inside the canopy increased with increasing distance from the trunk.There was no significant difference in the soil water content inside and outside the canopy at the $ { 0 - 6 0 }  { \\mathrm { c m } }$ depth.However,at the $6 0 { - } 8 0 ~ \\mathrm { c m }$ depth, the soil water content outside the canopy was significantly higher than those at the edge of canopy and inside the canopy $( P { < } 0 . 0 5 )$ ： In September, variation of soil water content at the $0 { - } 2 0 ~ \\mathrm { c m }$ depth(Fig.3c） was similar to that observed in May (Fig. 3a). That is,in September， soil water content at the $0 { - } 2 0 ~ \\mathrm { c m }$ depth decreased with increasing distance from the trunk (Fig.3c). Furthermore, there was no significant difference in the soil water content inside and outside the canopy across the $\\scriptstyle 0 - 8 0 \\ c \\mathrm { m }$ depth. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.2 Variations in soil electrical conductivity $\\mathrm { ( E C _ { \\mathrm { e } } ) }$ ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The spatio-temporal distributions of soil $\\mathrm { E C _ { \\mathrm { e } } }$ around individual T. ramosissima showed substantial differences at different distances from the trunk. As shown in Figure 4,at the $0 { - } 2 0 ~ \\mathrm { c m }$ depth,the $\\mathrm { E C _ { \\mathrm { e } } }$ values at the 5O- and $1 0 0 \\mathrm { - c m }$ distances from the trunk were higher than those at the other sampling points in al sampling months,demonstrating an obvious salt island effect around the individual $T .$ ramosissima.In May, the $\\mathrm { E C _ { \\mathrm { e } } }$ at the $0 { - } 2 0 ~ \\mathrm { c m }$ depth was significantly higher inside the canopy (50 and $1 0 0 ~ \\mathrm { c m }$ from the trunk) than outside the canopy (25O from the trunk) and at the edge of the canopy(2OO from the trunk) ( $( P { < } 0 . 0 5$ ; Fig. 4a). At the $2 0 { \\ - } 4 0 \\ \\mathrm { c m }$ depth, the $\\mathrm { E C _ { \\mathrm { e } } }$ inside the canopy was significantly higher at the $1 0 0 \\mathrm { - c m }$ distance from the trunk than at the $1 5 0 \\mathrm { - c m }$ distance from the trunk $( P { < } 0 . 0 5 )$ . At the $4 0 { - } 8 0 ~ \\mathrm { c m }$ depth, no significant difference was found between the $\\mathrm { E C _ { \\mathrm { e } } }$ inside and outside the canopy. In July,at the $0 { - } 2 0 ~ \\mathrm { c m }$ depth， the $\\mathrm { E C _ { \\mathrm { e } } }$ （204 inside the canopy was $4 8 . 0 \\%$ and $5 5 . 2 \\%$ higher than those outside the canopy and at the edge of the canopy，respectively $( P { < } 0 . 0 5$ ；Fig.4b).At the $2 0 { \\mathrm { - } } 6 0 \\ { \\mathrm { c m } }$ depth,there was no significant difference between the $\\mathrm { E C _ { \\mathrm { e } } }$ inside and outside the canopy.At the $6 0 { - } 8 0 ~ \\mathrm { c m }$ depth, the $\\mathrm { E C _ { \\mathrm { e } } }$ outside the canopy was significantly higher than that inside the canopy at the $1 0 0 \\mathrm { - c m }$ distance from the trunk $( P { < } 0 . 0 5 )$ . In September, the $\\mathrm { E C _ { \\mathrm { e } } }$ at the $0 { - } 2 0 ~ \\mathrm { c m }$ depth did not significantly differ inside and outside the canopy, whereas the $\\mathrm { E C _ { \\mathrm { e } } }$ at the $2 0 { - } 8 0 ~ \\mathrm { c m }$ depth was significantly different inside and outside the canopy ( $\\scriptstyle { \\overbrace { P { < } 0 . 0 5 } }$ ; Fig. 4c). ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/bf53e8794808cc2ca83baf03e5617bcac55ebadf963d200ca39c8a89d48e8aac.jpg",
+        "table_caption": [
+            "Table 3Statistical parameters of concentrations of soluble ions and $\\mathrm { p H _ { e } }$ values around individual T.ramosissima "
+        ],
+        "table_footnote": [
+            "Note:Different lowercase letters indicate significant differences at different soil depths in the same month $_ { ( P < 0 . 0 5 ) }$ ；differentcapital letters indicate significant differences in different months at the same soil depth $( P { < } 0 . 0 5 )$ "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Month</td><td rowspan=\"2\">Soil depth (cm)</td><td colspan=\"3\">Na+ concentration</td><td colspan=\"3\">Ca2+ concentration</td><td colspan=\"3\">Mg2+ concentration</td></tr><tr><td>Mean (g/kg)</td><td>SD (g/kg)</td><td>CV (%)</td><td>Mean (g/kg)</td><td>SD (g/kg)</td><td>CV (%)</td><td>Mean (g/kg)</td><td>SD (g/kg)</td><td>CV (%)</td></tr><tr><td rowspan=\"4\">May</td><td>0-20</td><td>1.10cB</td><td>0.84</td><td>76.4</td><td>0.26bA</td><td>0.25</td><td>96.2</td><td>0.11bA</td><td>0.12</td><td>109.1</td></tr><tr><td>20-40</td><td>1.20cB</td><td>0.69</td><td>57.5</td><td>0.28bA</td><td>0.19</td><td>67.9</td><td>0.10bA</td><td>0.09</td><td>90.0</td></tr><tr><td>40-60</td><td>2.11bA</td><td>1.20</td><td>56.9</td><td>0.45aA</td><td>0.20</td><td>44.4</td><td>0.21aA</td><td>0.15</td><td>71.4</td></tr><tr><td>60-80</td><td>3.08aA</td><td>1.28</td><td>41.6</td><td>0.21bB</td><td>0.19</td><td>90.5</td><td>0.17aB</td><td>0.14</td><td>82.4</td></tr><tr><td rowspan=\"5\">Jul</td><td>0-20</td><td>1.74bA</td><td>1.52</td><td>87.4</td><td>0.38aA</td><td>0.41</td><td>107.9</td><td>0.16aA</td><td>0.21</td><td>131.3</td></tr><tr><td>20-40</td><td>1.55bA</td><td>0.97</td><td>62.6</td><td>0.29bA</td><td>0.21</td><td>72.4</td><td>0.11bA</td><td>0.09</td><td>81.8</td></tr><tr><td>40-60</td><td>2.49aA</td><td>1.50</td><td>60.2</td><td>0.40aAB</td><td>0.21</td><td>52.5</td><td>0.184A</td><td>0.12</td><td>66.7</td></tr><tr><td>60-80</td><td>3.11aA</td><td>1.92</td><td>61.7</td><td>0.24bB</td><td>0.21</td><td>87.5</td><td>0.15abB</td><td>0.12</td><td>80.0</td></tr><tr><td>0-20</td><td>1.15cB</td><td>0.80</td><td>69.6</td><td>0.32bcA</td><td>0.36</td><td>112.5</td><td>0.12bA</td><td>0.13</td><td>108.3</td></tr><tr><td rowspan=\"3\">Sep</td><td>20-40</td><td>1.09cB</td><td>0.75</td><td>68.8</td><td>0.26cA</td><td>0.26</td><td>100.0</td><td>0.09bA</td><td>0.09</td><td>100.0</td></tr><tr><td>40-60</td><td>1.48bB</td><td>0.93</td><td>62.8</td><td>0.35bB</td><td>0.25</td><td>71.4</td><td>0.12bB</td><td>0.10</td><td>83.3</td></tr><tr><td>60-80</td><td>2.39aB</td><td>1.25</td><td>52.3</td><td>0.53aA</td><td>0.30</td><td>56.6</td><td>0.27aA</td><td>0.21</td><td>77.8</td></tr><tr><td rowspan=\"2\">Month</td><td rowspan=\"2\">Soilepth</td><td colspan=\"3\"></td><td colspan=\"4\"></td><td colspan=\"2\">PHsD</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>Mean</td><td></td><td>C</td></tr><tr><td rowspan=\"4\">May</td><td>0-20</td><td>0.09aC</td><td>0.05</td><td>55.6</td><td>0.87bA</td><td>0.63</td><td>72.4</td><td>7.76bA</td><td>0.23</td><td>3.0</td></tr><tr><td>20-40</td><td>0.05bC</td><td>0.02</td><td>40.0</td><td>1.11bAB</td><td>0.77</td><td>69.4</td><td>7.58cA</td><td>0.23</td><td>3.0</td></tr><tr><td>40-60</td><td>0.04bB</td><td>0.02</td><td>50.0</td><td>2.46aA</td><td>1.43</td><td>58.1</td><td>7.57cA</td><td>0.26</td><td>3.4</td></tr><tr><td>60-80</td><td>0.05bB</td><td>0.02</td><td>40.0</td><td>2.84aA</td><td>1.64</td><td>57.7</td><td>8.18aA</td><td>0.63</td><td>7.7</td></tr><tr><td rowspan=\"5\">Jul</td><td>0-20</td><td>0.24aA</td><td>0.22</td><td>91.7</td><td>1.17bA</td><td>0.90</td><td>76.9</td><td>7.49bB</td><td>0.22</td><td>2.9</td></tr><tr><td>20-40</td><td>0.18abA</td><td>0.28</td><td>155.6</td><td>1.22bA</td><td>0.94</td><td>77.0</td><td>7.39cB</td><td>0.18</td><td>2.4</td></tr><tr><td>40-60</td><td>0.15bA</td><td>0.18</td><td>120.0</td><td>2.45aA</td><td>1.71</td><td>69.8</td><td>7.37cB</td><td>0.15</td><td>2.0</td></tr><tr><td>60-80</td><td>0.13bA</td><td>0.14</td><td>107.7</td><td>2.62aA</td><td>1.97</td><td>75.2</td><td>7.78aB</td><td>0.66</td><td>8.5</td></tr><tr><td>0-20</td><td>0.14aB</td><td>0.09</td><td>64.3</td><td>1.01CA</td><td>0.86</td><td>85.1</td><td>7.47aB</td><td>0.20</td><td>2.7</td></tr><tr><td rowspan=\"3\">Sep</td><td>20-40</td><td>0.09bB</td><td>0.05</td><td>55.6</td><td>0.85cB</td><td>0.73</td><td>85.9</td><td>7.46aB</td><td>0.26</td><td>3.5</td></tr><tr><td>40-60</td><td>0.07bB</td><td>0.06</td><td>85.7</td><td>1.33bB</td><td>1.02</td><td>76.7</td><td>7.36bB</td><td>0.23</td><td>3.1</td></tr><tr><td>60-80</td><td>0.07bB</td><td>0.04</td><td>57.1</td><td>2.69aA</td><td>1.62</td><td>60.2</td><td>7.28bC</td><td>0.21</td><td>2.9</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.3 Variations in soil sodium adsorption ratio $( \\mathrm { S A R _ { e } } )$ ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Similar to $\\mathrm { E C _ { \\mathrm { e } } }$ ，the $\\mathsf { S A R } _ { \\mathrm { e } }$ at the $0 { - } 2 0 ~ \\mathrm { c m }$ depth was significant high inside the canopy of $T .$ （204号 ramosissima in all sampling months (Fig. 5). Specifically, the $S \\mathrm { A R _ { e } }$ value at the $0 { - } 2 0 ~ \\mathrm { c m }$ depth was significantly higher inside the canopy at the $1 0 0 \\mathrm { - c m }$ distance from the trunk than those outside the canopy ( $2 5 0 \\mathrm { c m }$ from the trunk) and at the edge of the canopy ( $2 0 0 \\mathrm { c m }$ from the trunk) $( P { < } 0 . 0 5 )$ in May and September.Additionally, in July, the $S \\mathrm { A R _ { e } }$ at the $0 { - } 2 0 ~ \\mathrm { c m }$ depth inside the canopy at the $5 0 \\mathrm { - c m }$ distance from the trunk was $2 7 . 5 \\%$ and $1 9 . 3 \\%$ higher than those outside the canopy and at the edge of the canopy,respectively $( P { < } 0 . 0 5 )$ . In May, the $\\mathsf { S A R } _ { \\mathrm { e } }$ at the $2 0 { - } 8 0 ~ \\mathrm { c m }$ depth did not significantly differ inside and outside the canopy (Fig. 5a). In July, the $\\mathsf { S A R } _ { \\mathrm { e } }$ at the $2 0 { \\ - } 4 0 \\ \\mathrm { c m }$ depth decreased with increasing distance from the trunk of $T .$ ramosissima,and the $\\mathrm { S A R _ { e } }$ inside the canopy at the $5 0 \\mathrm { - c m }$ distance from the trunk was $1 6 . 6 \\%$ higher than that outside the canopy (Fig. 5b). Moreover, there was a significant difference of $S A R _ { \\mathrm { e } }$ at the $4 0 { - } 8 0 ~ \\mathrm { c m }$ depth inside and outside the canopy $( P { < } 0 . 0 5 )$ . In September, the $S \\mathrm { A R _ { e } }$ values at the 20-40 and 60-80 cm depths inside the canopy were significantly higher than those outside the canopy and at the edge of the canopy ( $( P { < } 0 . 0 5$ ; Fig. 5c). The $S \\mathrm { A R _ { e } }$ at the $4 0 { \\mathrm { - } } 6 0 ~ \\mathrm { c m }$ depth inside the canopy was also significantly higher than that at the edge of the canopy $( P { < } 0 . 0 5 )$ . The $\\mathsf { S A R } _ { \\mathrm { e } }$ at the $0 { - } 2 0 ~ \\mathrm { c m }$ depth differed significantly inside and outside the canopy in all sampling months $( P { < } 0 . 0 5 )$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5675bf0b9dd773679edb2bc779aeb7446df9ed99200b2e3b135d8c84cf7c486.jpg",
+        "img_caption": [
+            "Fig.3Variations of soil water content at different soil depths and at different distances from the trunk of $T .$ （204 ramosissima in May (a),July(b） and September (c).The legends indicate distances from the trunk of $T .$ （204号 ramosissima.Different lowercase letters indicate significant difference among different distances from the trunk ofT.ramosissima at the same soil depth $( P { < } 0 . 0 5 )$ .Bars mean standard deviations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0a79d3422e6c8d4533ab1691af2cb1050597a11bc1fc66241f8546cc89097fa.jpg",
+        "img_caption": [
+            "Fig.4Variations of electrical conductivity $\\mathrm { ( E C _ { \\mathrm { { e } } } ) }$ at different soil depths and at different distances from the trunk of $T .$ ramosissima in May (a),July (b) and September (c).The legends indicate distances from the trunk of $T .$ （20 ramosissima.Diferent lowercase letters indicate significant diferences among different distances from the trunk at the same soil depth $( P { < } 0 . 0 5 )$ .Bars mean standard deviations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/99f0ff9d011f428c057ebf193620cc46cc682faa5470335b501e1c8f815c4fc7.jpg",
+        "img_caption": [
+            "Fig.5Variations of sodium adsorption ratio $( \\mathrm { S A R _ { e } } )$ at different soil depths and at different distances from the trunk of $T .$ ramosissima in May (a),July (b)and September (c).The legends indicate distances from the trunk of $T .$ （20 ramosissima.Diferent lowercase letters indicate significant diferences among different distances from the trunk at the same soil depth $( P { < } 0 . 0 5 )$ .Bars mean standard deviations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.4Effects of season, distance and soil depth on soil water content and salinity around individual T.ramosissima ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Multivariate analysis of variance shows that season and soil depth had highly significant effects on soil water content, $\\mathrm { E C _ { \\mathrm { e } } }$ ，and $\\mathbf { S A R _ { e } }$ around individual $T .$ ramosissima $( P { < } 0 . 0 1$ ； Table 4). However, distance from the trunk only significantly affected $\\mathrm { E C _ { \\mathrm { e } } }$ around individual $T .$ （20 ramosissima $( P { < } 0 . 0 5 )$ , indicating that there were significant differences in $\\mathrm { E C _ { \\mathrm { e } } }$ inside and outside the canopy of $T .$ ramosissima,and that salt enrichment led to the formation of a salt island under the canopy. The relationship between season and soil depth was highly significant for soil water content and $S A R _ { \\mathrm { e } }$ $( P { < } 0 . 0 1 )$ . However, the relationships between season and distance,and between distance and soil depth,and the relationship among these three factors were not significant either for soil water content or for soil salinity. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1Spatio-temporal variations of soil water content around individual T. ramosissima ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Spatial heterogeneity of soil physical-chemical properties is common in arid and semi-arid regions,and plants (e.g., shrubs) contribute mostly to this variation (Zhang et al., 2O01). In the horizontal direction, we found that soil water content in the surface soil layer $( 0 { - } 2 0 \\mathrm { c m } )$ increased with increasing distance from the trunk of $T .$ ramosissima only in July,while the opposite trend was observed in May and September (Fig. 3). Additionaly, soil water content in the surface soil layer $( 0 { - } 2 0 \\ \\mathrm { c m } )$ inside the canopy of $T .$ ramosissima was significantly higher than that at the edge of the canopy and outside the canopy of $T .$ ramosissima in May. However, no consistent trends were found in soil water content at the $2 0 { - } 8 0 ~ \\mathrm { c m }$ depth. Our results differ from the results of Yin et al. (2OO7),who found that soil water content inside the canopy of Tamarix shrubs was lower than that outside the canopy. In this study,the lower soil water content inside the canopy of $T .$ （204 ramosissima in July was perhaps induced by the transpiration through water uptake by the roots (Ehleringer et al.,1991; Mounsif et al.,2O02). This inference is supported by the decreasing soil water content at the $2 0 { \\mathrm { - } } 6 0 \\ \\mathrm { c m }$ depth over the study period. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/ab96137c1fe481d32f6a83be9a8fc0b5f6d25983a3b12c50ce6419dc292f9f4d.jpg",
+        "table_caption": [
+            "Table 4Multivariate analysis of variance for the efects of season,distance and soil depth on soil water content and salinity around individual T.ramosissima "
+        ],
+        "table_footnote": [
+            "Note:\\*,significant difference at $P { < } 0 . 0 5$ level;\\*\\*,significant difference at $P { < } 0 . 0 1$ level;ns, not significant. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Factors</td><td colspan=\"3\">F value</td></tr><tr><td>Soil water content</td><td>ECe</td><td>SARe</td></tr><tr><td>Season</td><td>182.505**</td><td>9.963**</td><td>24.745**</td></tr><tr><td>Distance</td><td>1.014ns</td><td>3.054*</td><td>0.923ns</td></tr><tr><td>Soil depth</td><td>172.708**</td><td>46.599**</td><td>67.882**</td></tr><tr><td>SeasonxDistance</td><td>0.390ms</td><td>0.896ns</td><td>0.087ns</td></tr><tr><td>SeasonxSoil depth</td><td>35.997**</td><td>1.869ns</td><td>10.503**</td></tr><tr><td>DistancexSoil depth</td><td>0.266ns</td><td>1.064\"s</td><td>0.085ns</td></tr><tr><td>SeasonxDistancexSoil depth</td><td>0.483ns</td><td>0.413ns</td><td>0.041\"s</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In the vertical profile, the soil water content around individual $T .$ ramosissima increased with increasing soil depth,and the CV of soil water content showed moderate variation at all depths (Table 2) (Nielsen and Bouma,1985). The soil water content at the $2 0 { - } 8 0 ~ \\mathrm { c m }$ depth in May was significantly higher than those in July and September, indicating that there was a clear seasonal variation of soil water content around individual T. ramosissima.This variation may be resulted from the interaction of climate,soil,and vegetation-related factors.The soil in the study area was sandy soil with poor water-holding capacity and high water permeability, thus soil water content is higher in the deep soil layer than in the surface soil layer. It should be noted that there was relatively high rainfall,low temperature,and weak evaporation before the sampling in May. In contrast, there was relatively low rainfall, high temperature, and strong evaporation before the sampling in July and September (Fig.2). This may be the major reason that soil water content was overall higher in May than in July and September. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Tamarix plants can absorb water from multiple sources and they have the capacity to tolerate drought (Nippert et al., 2010; Yu et al.,2013;Wu et al., 2016). Chen et al. (2016) stated that groundwater and deep soil water are the main sources of water for $T .$ ramosissima,and that the hydraulic lift by the roots ensures the shallow soil layer maintaining a certain level of soil water content. Zhou et al.(2Ol3) also found that the absorbing roots of T. ramosissima are distributed in the deep soil layer, and deep soil water and groundwater contribute $90 \\%$ of the water sources for $T .$ ramosissima. Indeed, Tamarix is a highly water-consuming genera (Gay and Fritschen,1979; Sala et al.,1996; Cleverly et al.,1997; Nagler etal.,2005). Schofield (1992) found that Tamarix plants can significantly lower the groundwater level via high water consumption. The water consumption of Tamarix plants is highest in summer, folowed by autumn. In addition to groundwater, Tamarix plants also need to absorb water from the deep soil layer to maintain the normal growth both in summer and autumn. Consequently, the soil water content in the deep soil layer around T. ramosissima significantly decreased over the seasons. Soil water content in the surface soil layer was also likely influenced by the understory vegetation of $T .$ ramosissima. Because the herbaceous vegetation around T. ramosissima had not germinated and the soil surface was exposed in May, the soil water content in the surface soil layer was slightly lower in May than in September. In July, evaporation was at its peak and vigorous herbaceous vegetation also increased water consumption. Thus, soil water content in the surface soil layer was lowest in July. To sum up, T. ramosissima consume a large amount of water during the growing season, resulting in a low soil water content in the deep soil layer. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.2Spatio-temporal variations of soil $\\mathbf { E C _ { e } }$ around individual T. ramosissima ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This study shows that the $\\mathrm { E C _ { \\mathrm { e } } }$ in the surface soil layer $( 0 { - } 2 0 \\ \\mathrm { c m } )$ around individual T. ramosissma was higher inside the canopy than outside the canopy and at the edge of the canopy in all sampling months (Fig.4).A salt island was formed around the $T .$ ramosissima due to salt enrichment,which is consistent with the results of Brotherson and Field (1987)and Su et al. (2012).This phenomenon may be attributable to the following reasons.First, Tamarix plants are salt-secreting species that can absorb soil salt via the roots,transport the salt to the branches and leaves,and finally excrete it to the outside through litterfall, thereby returning the salt to the surface soil (Arndt et al.,2O04). Moreover, the multi-stemmed hemispheroidal crowns of Tamarix plants are favorable for capturing and holding the litterfall (Bochet et al.,1999), thus maximizing the return of salt to the surface soil. Second,the stemflow can lead to a difference in salt distribution around plants.Navar(1993） showed that the rainwater collected by stemflow was more than five-fold higher than that intercepted by the canopy in three types of sub-shrubs in a semi-arid region.The Tamarix plants excrete absorbed salt to the outside through their salt glands. Salt excreted by the branches and leaves is leached from the canopy through rainwater and then intercepted by the litterfall under the canopy,thereby forming a high salinity area around the plants. In our study, the annual rainfall is relatively low and the rainfall amount in both July and September was lower than the respective average monthly rainfall amount. Thus,the stemflow of T.ramosissima was relatively low and the salt was likely concentrated (Fan and Hong, 2001), thereby increasing the enrichment of salt under the canopy. Third,the non-biological environment has an impact on salt distribution. The $\\mathrm { E C _ { \\mathrm { e } } }$ in the surface soil layer( $\\mathrm { ( 0 { - } 2 0 ~ c m ) }$ around individual $T .$ （204 ramosissima was significantly higher in July than in May and September, which difered from the results of Zhao et al. (2O16)，who found that the EC in the surface soil layer $( 0 { - } 2 0 ~ \\mathrm { c m } )$ was highest in spring.This difference may be due to the fact that the stronger groundwater evaporation in the hot and dry summer led to the surface accumulation of salt in the current study. Thus,we surmise that our findings on the $\\mathrm { E C _ { \\mathrm { e } } }$ in the surface soil layer $( 0 { - } 2 0 ~ \\mathrm { c m } )$ resulted from the interactions of salt bioaccumulation and stemflow of $T .$ ramosissima and non-biological environment in the study area. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Generally speaking, evaporation is lower inside the canopy than outside the canopy because of the shading effect of the canopy. However, in this study,we found that in the surface soil layer $( 0 { - } 2 0 ~ \\mathrm { c m } )$ ，the $\\mathrm { E C _ { \\mathrm { e } } }$ was significantly higher and the soil water content was lower inside the canopy than outside the canopy in July. This probably occurred because the T. ramosissima formed a high-salinity area around its main root zone, which inhibited the growth of understory herbaceous vegetation. The surface soil around the main root zone of $T .$ ramosissima was therefore exposed and only covered with litterfall. Consequently， evaporation in summer was greater in the soil exposed under the canopy than that covered with vegetation outside the canopy. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In this study,the understory herbaceous plants around the canopy of $T .$ ramosissima was dominated by S. salsa,which is a deep-rooted， salt-tolerant species (Yi and Wang，2011). Absorption of salt by S. salsa might explain the presence of a low-salinity area at the $4 0 \\ \\mathrm { c m }$ soil depth in July (Fig.4b). Tamarix is highly salt-tolerant, with higher salt accumulation in the rhizosphere (Li et al.,2Oo7). In our study, the salt around T. ramosissima mainly accumulated in the deep soil layer (Table 2)，which is different from the results of Yin et al. (2O10).The distribution characteristics of soil salinity around $T .$ ramosossoma in this study suggest that it is appropriate to plant shallow-rooted, salt-tolerant plants near the Tamarix plants，and that herbaceous species should not be planted inside the canopy of $T .$ ramosossoma. Furthermore, timely clearing of litterfall under the canopy of Tamarix plants can reduce the accumulation of salt in the surface soil layer and prevent the return of salt into the deep soil layer. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.3Spatio-temporal variations of soil $\\mathbf { S A R _ { e } }$ and salt ions around individual T. ramosissima ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Similar to $\\mathrm { E C _ { \\mathrm { e } } }$ ，the $\\mathbf { S A R _ { e } }$ in the surface soil layer $( 0 { - } 2 0 ~ \\mathrm { c m } )$ around individual $T .$ ramosissima was significantly high in all sampling months (Fig. 5). This indicates that salt enrichment under the canopy of $T .$ ramosissima was dominated by sodium, which agrees with the results of Zhang et al. (2O16). The distribution characteristics of $S A R _ { \\mathrm { e } }$ are associated with the selective absorption of salt ions by Tamarix plants.The Tamarix plants have salt glands that could selectively secretes salt ions (Shuyskaya et al., 2O17). The secretion of $\\mathrm { { N a ^ { + } } }$ is markedly higher than those of $\\mathrm { C a } ^ { 2 + }$ and $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ ，which may be due to the high $\\mathrm { { N a ^ { + } } }$ concentration in leaves and branches of Tamarix plants (Glenn etal.,2O12; Imada et al., 2O13).In the vertical soil profile,we found that the $S \\mathrm { A R _ { e } }$ was significantly higher at the $6 0 { - } 8 0 ~ \\mathrm { c m }$ depth than at the $ { 0 - 6 0 } ~ \\mathrm { c m }$ depth in May and July,and the $\\mathrm { S A R _ { e } }$ at the $6 0 { - } 8 0 ~ \\mathrm { c m }$ depth in September was significantly lower than those in May and July (Table 2; Fig. 5),which is likely related to the variations of soil water content and $\\mathrm { E C _ { \\mathrm { e } } }$ . Li and Sun (2015） have suggested that the Tamarix plants can improve the saline environments by reducing the groundwater level. The deep roots of Tamarix plants absorb groundwater to replenish water lost by transpiration，resulting in a gradual drop in the groundwater level and an accumulation of salt in the deep soil layer (Li and Sun, 2O15). During the growing period of $T .$ （204 ramosissima,a large number of $\\mathrm { { N a ^ { + } } }$ ions in the deep soil layer enters the plant via root absorption and then returns to the surface soil layer through secretion and litterfall (Imada et al.,2013). Moreover, the $\\mathrm { { N a ^ { + } } }$ ions may transfer to the deep soil layer along with the drop in the groundwater level.In this study, the significant decrease in $\\mathrm { { N a ^ { + } } }$ concentration and increases in $\\mathrm { C a } ^ { 2 + }$ and $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ concentrations led to the $\\mathsf { S A R } _ { \\mathrm { e } }$ at the $6 0 { - } 8 0 ~ \\mathrm { c m }$ depth in September being significantly lower than those in May and July. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In the study area, the cations in the soil were mainly dominated by $\\mathrm { { N a ^ { + } } }$ and the enrichment effectwasrelativelyclear for $\\mathrm { { N a ^ { + } } }$ .The $\\mathrm { { N a ^ { + } } }$ concentration at the $4 0 { - } 8 0 ~ \\mathrm { c m }$ depth was significantly higher in May and July than in September.However, $S O _ { 4 } { } ^ { 2 - }$ ，which was relatively abundant in the study area, showed no significant difference at the $6 0 { - } 8 0 ~ \\mathrm { c m }$ depth among different sampling months (Table 3). This also suggests that $T .$ ramosissima mainly absorb $\\mathrm { { N a ^ { + } } }$ .The concentrations of $\\mathrm { { N a ^ { + } } }$ $\\mathrm { C a } ^ { 2 + }$ ，and $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ all showed the largest variations in the surface soil layer $( 0 { - } 2 0 ~ \\mathrm { c m } )$ in all sampling months.Thus,the $S A R _ { \\mathrm { e } }$ in the surface soil layer showed significant differences inside and outside the canopy. Salt bioaccumulation was mainly associated with the absorption and transportation of salt by plant roots.Although the salt island effect was mainly present in the surface soil layer under the canopy, the rhizosphere activity also probably played an important role (Yin et al.，2O12). The distribution characteristics of $S \\mathrm { A R _ { e } }$ and salt ions around $T .$ ramosissima indicate that individual $T .$ ，ramosissima can enrich the $\\mathrm { { N a ^ { + } } }$ ions around the roots. Furthermore,Tamarix plants have the ability to improve the saline-alkali soil and they can play a better role when they are planted in sodium-type saline soils. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Spatio-temporal variations of soil water content and salinity around natural individual T. ramosissima were investigated in a semi-arid saline region of the upper Yellow River. The results show that in the semi-arid saline regions of the upper Yellow River, T. ramosissima continuously absorbed deep soil water via their roots during the growing period, resulting in the decreasing in soil water content in the deep soil layer. Soil $\\mathrm { E C _ { \\mathrm { e } } }$ and $S \\mathrm { A R _ { e } }$ at the $0 { - } 2 0 ~ \\mathrm { c m }$ depth inside the canopy of $T .$ ramosissima were significantly higher than those outside the canopy, exhibiting an obvious salt island effect. The accumulation of salt under the canopy of $T .$ ramosissima was dominated by $\\mathrm { { N a ^ { + } } }$ .Both season and soil depth had highly significant effects on soil water content, $\\mathrm { E C _ { \\mathrm { e } } }$ ，and $S \\mathrm { A R _ { e } }$ ，while distance from the trunk of $T .$ ramosissima had a significant effect only on $\\mathrm { E C _ { \\mathrm { e } } }$ . Therefore, we recommend co-planting shallow-rooted salt-tolerant species near the Tamarix plants but avoiding planting herbaceous species inside the canopy of Tamarix plants. We further recommend choosing locations with a suitable groundwater level for planting Tamarix plants in the semi-arid saline regions of the upper Yellow River. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This study was funded by the Fundamental Research Funds for the Central Universities (2O16ZCQ06)，the ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Forestry Industry Research Special Funds for Public Welfare Projects (2O1504402）and the Application Technology of Seaweed Fertilizer Based on Desertification Control and Saline-alkili Soil Improvement (2016HXFWSBXY002). We thank Ningxia University and Shuxin Forest Farm of Xiaoba Town, Ningxia Hui Autonomous Region, China for field work and laboratory assistances. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Ardt SK,Arampatsis C,Foetzki A,etal.2O04.Contrasting paternsofleaf soluteaccumulationandsaltadaptationin four Phreatophytic desert plants ina hyperarid desert with saline groundwater.Journal of Arid Environments,59(2): 259-270.   \nBochetE,RubioJL,Poesen J.1999.Modified topsoilislands within patchy Mediterranean vegetationin SE Spain.CATENA, 38(1): 23-44.   \nBrotherson JD,Field D.1987. Tamarix: impacts of a successful weed. Rangelands,9(3): 110-112.   \nChen YP,ChenYN,XuCC,etal.2O16.The effcts of groundwaterdepthonwateruptakeofPopulus euphraticaand Tamarix ramosissima in the hyperarid regionof Northwestern China.Environmental Scienceand Polltion Research,23(17): 17404-17412.   \nCleverlyJR,SmithSD,SalaA,etal.1997.InvasivecapacityofTamarix ramosissimainaMojave Desertfloodplain:therole of drought. Oecologia,111(1): 12-18.   \nDiTomaso JM.1998.Impact,biology,andecologyofsaltcedar(Tamarixspp.）in the southwestern United States.Weed Technology,12(2): 326-336.   \nEhleringerJR,PhilipsSL,SchusterWSF,etal.1991.Diferentialutilizationofsummerrainsbydesertplants.Oecologia, 88(3):430-434.   \nFanHB,Hong W.2Ool.Estimationof dry deposition andcanopy exchange in Chinese firplantations.Forest Ecologyand Management,147(2-3): 99-107.   \nGayLW,Fritschen LJ.1979.An energy budget analysis of water use bysaltcedar.Water ResourcesResearch,15(6): 1589-1592.   \nGlennEP,MorinoK,NaglerPL,etal.2l.Rolesofsaltcedar(Tamarixsp.）andcapilaryrseinsalinizinganon-flooding terrace on a flow-regulated desert river. Journal of Arid Environments,79: 56-65.   \nGrubb RT,SheleyRL,Carlstrom RD.1997.Saltcedar (tamarisk).Montana State University Extension Service MT9710. Bozeman, USA: Montana State University.   \nGuan HB,Wang XL,Ju D.2O09.Soiled modificationandapplicationof Tamarix chinensison the salinesoil.Resource Development & Market,25(10): 918-921.(in Chinese)   \nHe B,CaiYL,Ran WR,etal.20l4.Spatialandseasonalvariationsof soilsalinityfollowing vegetationrestorationncoastal saline land in eastern China.CATENA,118:147-153.   \nHe B,Cai YL,RanWR,etal.20l5.Spatiotemporal heterogeneityofsoil salinityafter theestablishmentofvegetationona coastal saline field. CATENA,127: 129-134.   \nHilerislambersR,Rietkerk M,vanden Bosch F,etal.2Oo1.Vegetation pattern formation insemi-aridgrazingsystems. Ecology,82(1): 50-61.   \nImada S,AcharyaK,LiYPetal.2Ol3.Saltdyamics inTamarixramosissimainthelower VirginRiverfloodplan,Nevada. Trees,27(4): 949-958.   \nLadenburgerCGHildAL,KazmerDJ,etal.O6.SoilsalinitypatersinTamarixinvasions intheBghornBasin,Wyoing, USA. Journal of Arid Environments, 65(1): 111-128.   \nLesica P,DeLuca TH. 2004.Is tamarisk allelopathic?Plant and Soil, 267(1-2): 357-365.   \nLiJ,Zhao C,ZhuH,etal.2Oo7.Efectofplantspeciesonshrubfertileislandatanoasis-desertecotoneinthe SouthJunggar Basin, China.Journal of Arid Environments,71(4): 350-361.   \nLi ZJ,Sun WY.2015.Saline-Alkali Soil Agro-Ecological Engineering.Beijing: Science Press,93-97.(in Chinese)   \nLiuJT,RongQQ,ZhaoYY.2O17.Variations insoil nutrientsandsalinitycausedbytamarisk inthecoastal wetlandof the Laizhou Bay,China.Ecosphere,8(2): e01672,doi: 10.1002/ecs2.1672.   \nMounsif M,Wan CGSosebeeRE.2002.Efectsof top-soil dryingonsaltceder photosynthesisand stomatal conductance. Journal of Range Management, 55(1): 88-93.   \nNaglerPL,ScottRL,Westenburg C,et al.2Oo5.Evapotranspirationon Western U.S.rivers estimated usingthe Enhanced Vegetation Index from MODIS anddata from eddycovariance and Bowenratio flux towers.Remote Sensing of Environment, 97(3): 337-351.   \nNavar J.1993.The causes of stemflow variation in threesemi-arid growing species of northeastern Mexico.Journal of Hydrology,145(1-2): 175-190.   \nNielsen DR,Bouma J.1985.Soil Spatial Variability.Wageningen: PUDOC Scientific Publishers,2-30.   \nNippertJB,ButlerJJJr,KluitenbergGJ,etal.2O10.PatersofTamarix wateruse duringarecorddrought.Oecologia,6(2): 283-292.   \nOhrtman MK,SherAA,Lair KD.2012.Quantifying soil salinity inareas invadedby Tamarix spp.Journal of Arid Environments,85: 114-121.   \nParkinTB.1993.Spatialvariabilityofmicrobialprocesss insoil—areview.JournalofEnvironmentQuality22(3):409-417.   \nSala A,Smith SD,DevittDA.1996. Water use by Tamarix ramosisima and associated phreatophytes in a Mojave desert floodplain. Ecological Applications, 6(3): 888-898.   \nSchofieldNJ.1992. Tree planting for dryland salinitycontrol in Australia.Agroforestry Systems,20(1-2): 1-23.   \nShuyskayaEV,RakhamkulovaZF,LebedevaMP,etal.20l7.Diferent mechanismsofionhomeostasisaredominant inthe recretohalophyte Tamarixramosissimaunderdiferent soil salinityActa PhysiologiaePlantarum，39(3):81，doi: 10.1007/s11738-017-2379-8.   \nSookbirsingh R,Castillo K,GillTE,et al2Olo.Saltseparationprocesses inthesaltcedarTamarixramosissima (Ledeb.). Communications in Soil Science and Plant Analysis,41(1O): 1271-1281.   \nSou/DakouréMY,MermoudA,Yacouba H,etal.20l3.Impactsof irigationwith industrialtreatedwastewateronsoil properties.Geoderma,200-201: 31-39.   \nSuYZ,WangXF,YangR,etal.2O12.Soilfertility,salinityandnematodediversityinfluencedbyTamarixramosissimin different habitats in an arid desert oasis.Environmental Management, 5O(2): 226-236.   \nWu GL,Jiang SW,LiuWY,etal.2O16.CompetitionbetweenPopulus ephraticaandTamarixramosissimasedingsuder simulated high groundwater availability. Journal of Arid Land,8(2):157-171.   \nWu YY,LiuRC,ZhaoYG,etal.2Oo9.Spatialandseasonal variationofsaltions under the influenceof halophytes,ina coastal flat in eastern China. Environmental Geology,57(7): 1501-1508.   \nXiaJB,Zhang SY,Zhao XM,etal.2016.Efectsof diferent groundwaterdepthsonthedistributioncharacteristicsof soil-Tamarix water contents and salinity under saline mineralization conditions.CATENA,142:166-176.   \nYiLP,Wang ZW.20l1.Root systemcharacters in growth and distribution among three itoral halophytes.Acta Ecologica Sinica,31(5):1195-1202.(in Chinese)   \nYin CH,Feng GTianCY,etal.2Oo7.Influenceof tamarisk shrubonthedistributionofsoil salinityand moistureontheedge of Taklamakan Desert. China Environmental Science,27(5): 670-675.(in Chinese)   \nYin CH,Feng G,ZhangFS,etal.2O10.Enrichmentofsoilfertilityandsalinitybytamarisk insalinesoilsonthe nrthern edge of the Taklamakan Desert.Agricultural Water Management, 97(12):1978-1986.   \nYin CH,DongJZ,Shi QM,et al.2012.Saltisland effectof halophytic shrubs in different habitatsand its ecological implication.Acta Pedologica Sinica,49(2):289-295.(in Chinese)   \nYu TF,Feng Q,SiJH,etal.2O13.Patterns,magnitude,ndcontrolingfactorsof hydraulicredistributionof sol waterby Tamarix ramosissima roots. Journal of Arid Land,5(3): 396-407.   \nZhang DY,YinLK,PanBR.2O02.Biologicalandecologicalcharacteristicsof Tamarix L.anditsefectontheecological environment. Science in China Series D: Earth Sciences,45(Suppl.):18-22.   \nZhang H,ShiPJ, Zheng QH.2Oo1.Research progress in relationship between shrub invasion and soil heterogeneityina natural semi-arid grassland.Acta Phytoecological Sinica,25(3):366-370.(in Chinese)   \nZhangLH,Chen XB.2015.Characteristicsof‘saltisland'and‘fertileislnd'forTamarixchinensisandsoilcarbon,itrogen and phosphorus ecological stoichiometry insaline-alkali land.Chinese Jourmal of AppliedEcology,26(3):653-658.(in Chinese)   \nZhangLH,ChenPH,LiJ,etal.2O1.Distributionofsoilsaltionsaroundamarixchinensis individualsintheYellowRiver Delta. Acta Ecologica Sinica,36(18): 5741-5749.(in Chinese)   \nZhao QQ,Bai JH,Liu Q,etal.2O16.Spatialandseasonalvariationsofsoilcarbonand nitrogencontent and stock inatidal salt marsh with Tamarix chinensis,China. Wetlands,36(Suppl.): 145-152.   \nZhouH,ZhengX,TangLS,etalOl3.DierencesandsmlaritiesbetweenwatersourcesofTamarixramosissima,traria sibiricaand Reaumuri soongorica inthe southeastern JunggarBasin.Chinese Journalof PlantEcology37():665673.(in Chinese) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

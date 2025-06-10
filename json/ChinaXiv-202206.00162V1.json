@@ -1,0 +1,514 @@
+[
+    {
+        "type": "text",
+        "text": "Tree-ring ${ \\mathfrak { d } } ^ { 1 5 } \\mathbf { N }$ of Qinghai spruce in the central Qilian Mountains of China: Is pre-treatment of wood samples necessary? ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Ziyi1, LIU Xiaohong1,2.3\\*, WANG Keyi1.4, ZENG Xiaomin1, ZHANG $\\mathrm { Y u ^ { 1 } }$ ， GE Wensen1, KANG Huhu², LU Qiangqiang ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 School of Geographyand Tourism, Shaanxi Normal University, Xi'an 710119, China;   \n2 State KeyLaboratoryof Cryospheric Science,Northwest Instituteof Eco-Environment and Resources,Chinese Academyol   \nSciences,Lanzhou 730000,China;   \n3 Qilian Mountain National Park Research Center (Qinghai), Xining 81Ooo8, China;   \n4 School of Earth System Science,Tianjin University,Tianjin 30o072,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: A knowledge of the tree-ring stable nitrogen isotope ratio $( 8 ^ { 1 5 } \\mathrm { N } )$ can deepen our understanding of forest ecosystem dynamics by indicating the long-term availability, cycling and sources of nitrogen $\\mathrm { ( N ) }$ However, the radial mobility of N blurs the interannual variations in the long-term $\\mathrm { \\Delta N }$ records.Previous studies of the chemical extraction of tre rings before analysis had produced inconsistent results and it is still unclear whether it is necessry to pre-treat wood samples from specific tre species to remove soluble N compounds before determining the $8 ^ { 1 5 } \\mathrm { { N } }$ values.We compared the effects of pre-treatment with organic solvents and hot ultrapure water on the $\\mathrm { \\Delta N }$ concentration and $\\delta ^ { 1 5 } \\mathrm { N }$ of tree rings from endemic Qinghai spruce (Picea crasifolia) growing in the interior of the central Qilian Mountains, China,during the last $6 0 \\mathrm { ~ a ~ }$ We assessed the effects of different preparation protocols on the removal of the labile $\\mathrm { \\Delta N }$ compounds and investigated the need to pre-treat wood samples before determining the $8 ^ { 1 5 } \\mathrm { { N } }$ values of tree rings. Increasing trends of the tree-ring $\\mathrm { \\Delta N }$ concentration were consistently observed in both the extracted and unextracted wood samples. The total $\\mathrm { \\Delta N }$ removed by extraction with organic solvents was about $1 7 . 6 0 \\%$ with a significantly higher amount in the sapwood section $( P { < } 0 . 0 1 )$ . The $\\delta ^ { 1 5 } \\mathrm { N }$ values of tree rings decreased consistently from 1960 to 2019 in both the extracted and unextracted wood samples. Extraction with organic solvents increased the $\\delta ^ { 1 5 } \\mathrm { N }$ values markedly by about $5 . 2 \\text{‰}$ and reduced the variations in the $8 ^ { 1 5 } \\mathrm { { N } }$ series. However, extraction with hot ultrapure water had litle effect, with only a slight decrease in the $8 ^ { 1 5 } \\mathrm { { N } }$ values of about $0 . 5 \\text{‰}$ .Our results showed that the radial pattern in the inter-ring movement of $\\mathrm { \\Delta N }$ in Qinghai spruce was not minimized by extraction with either organic solvents or hot ultrapure water. It is unnecessary to conduct hot ultrapure water extraction for the wood samples from Qinghai spruce because of its negligible effect on the removal of the labile N. The $8 ^ { 1 5 } \\mathrm { { N } }$ variation trend of tree rings in the unextracted wood samples was not influenced by the heartwood-sapwood transition zone. We suggest that the $8 ^ { 1 5 } \\mathrm { { N } }$ values of the unextracted wood samples of the climate-sensitive Qinghai spruce could be used to explore the ecophysiological dynamics while focusing on the long-term variations. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: tree rings; stable nitrogen isotope ratio $( 8 ^ { 1 5 } \\mathrm { N } )$ ；nitrogen concentration; solvent-extracted wood; water-extracted wood; wood pre-treatment; Qinghai spruce; Qilian Mountains ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: WANG Ziyi,LIU Xiaohong,WANG Keyi,ZENG Xiaomin,ZHANG Yu,GE Wensen,KANG Huhu,LU Qiangqiang. 2022. Tree-ring $\\delta ^ { 1 5 } \\mathrm { \\dot { N } }$ of Qinghai spruce in the central Qilian Mountains of China: Is pre-treatment of wood samples necessary? Journal of Arid Land,14(6): 673-690.https://doi.org/10.1007/s40333-022-0065-1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As a promising environmental proxy, the tree-ring stable nitrogen isotope ratio $( \\delta ^ { 1 5 } \\mathrm { N } )$ has been used extensively to investigate long-term variations in the availability and cycling of nitrogen (N) in ecosystems (Robinson, 2001; Pardo and Nadelhoffer,201O; Doucet et al., 201; Gerhart and McLauchlan, 2014; Gessler et al., 2014; van der Sleen et al.,2017; Savard et al.,2020; Mason et al., 2022). However, the reliability of using the $\\delta ^ { 1 5 } \\mathrm { { N } }$ series of tree rings has been impeded because of the potential influence of the mobility of the unstable $\\mathbf { N }$ components within plant stems and the low amounts of $\\mathrm { \\bf N }$ stored in the wood tissue (Cutter and Guyette,1993; Meerts,2O02). The radial movement of the unstable $\\mathbf { N }$ fractions has restricted the accuracy of the interannual resolution of the tree-ring $\\delta ^ { 1 5 } \\mathrm { N }$ series.The $\\mathbf { N }$ translocation mechanism is a response to the internal physiological processes that sustain tree growth. $\\mathbf { N }$ is carried from the older tree rings to the cambium tissue during the lignification process with the senescence of the sapwood (Meerts, 2002).With the death of xylem parenchyma cells, $\\mathbf { N }$ in cytoplasm is retrieved for possible reuse elsewhere in the trees as the sapwood is transformed into the heartwood (Merrill and Cowling, 1966). The movement of unstable $\\mathbf { N }$ masks the actual $\\mathbf { N }$ isotope signal in tree rings formed in a given year and the precise historical information about soil $\\mathbf { N }$ dynamics (Mizota et al., 2011). Therefore, wood samples are often extracted before analysis to try to overcome this problem. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Wood extraction experiments, which were aimed at removing the labile N components before tracing the actual N signature of the annual tree rings, have yielded contradictory results among different tree species. Sheppard and Thompson (2OOO） reported that extraction with organic solvents reduced the amount and variability of the total $\\mathbf { N }$ concentration of tree rings from ponderosa pine (Pinus ponderosa) and concluded that this method successfully removed mobile N compounds. However, these results were not replicated when the same extraction protocol was applied to different tree species. For example,extraction with organic solvents removed the unstable N in the sapwood,but did not affect the overall trend of the $\\mathbf { N }$ concentration in tree rings from red pine (Pinus densiflora) (Kwak et al., 20o9). The N concentration and $\\delta ^ { 1 5 } \\mathrm { { N } }$ values in tree rings from Norway spruce (Picea abies) were not significantly affected when they were extracted using a chemical protocol (Tomlinson et al., 2014). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A recent study concluded that solvent-based extraction did not effectively eliminate the non-structural $\\mathbf { N }$ in tree rings of western redcedar (Thuja plicata) because the $^ { 1 5 } \\mathrm { N }$ -labeled signal was detected in tree rings formed up to about 1O a previously (Bunn et al.,2O17).The influence of the wood extraction experiment on the same species has been shown to be inconsistent; for example, solvent-based pre-treatment of wood increased the interannual resolution of the $\\mathrm { \\Delta N }$ concentration and ${ \\delta } ^ { 1 5 } \\mathrm { \\mathbf { N } }$ values,but did not remove all mobile $\\mathbf { N }$ in beech (Fagus sylvatica), however, in another investigation， pre-treatment of wood decreased the variation in the $\\delta ^ { 1 5 } \\mathrm { { N } }$ signal(Elhani et al.， 2O03， 20o5). Many researchershavemodified theoriginal Sheppard-Thompson protocol, such as simplifying the original method,changing the organic solvents and using different pre-treatment methods (Hart and Classen, 2OO3; Bukata and Kyser, 2005; Savard et al., 2009; Doucet et al., 2011; Drake et al.,2011; Larry et al.,2011). In summary, there is still considerable uncertainty in the assessment of wood pre-treatment methods for certain tree species used to record potential climate and environmental signals. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study, we documented the $\\mathrm { \\Delta N }$ concentration and $\\delta ^ { 1 5 } \\mathrm { { N } }$ values of tree rings in endemic Qinghai spruce (Picea crassifolia), one of the dominant coniferous tree species growing on shady and semi-shady slopes in the Qilian Mountains,China (Liang et al.， 2Oo6).We used three different pre-treatment methods before measuring the $\\mathrm { \\Delta N }$ concentration and ${ \\delta } ^ { 1 5 } \\mathrm { \\mathbf { N } }$ values of tree rings: (l） wood extracted with organic solvents; (2) wood extracted with hot ultrapure water; and (3） unextracted wood. The aim of this study was to investigate the ability of diferent extraction methods to remove the soluble N-containing compounds from wood samples.We explored whether it is necessary to pre-treat wood samples to give reliable $\\delta ^ { 1 5 } \\mathrm { { N } }$ series for tree rings of Qinghai spruce for use in investigating the historical record of $\\mathbf { N }$ availability and cycling in temperate forests in remote mountainous areas where $\\mathbf { N }$ deposition is low. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1Study site and field sampling ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The study site is located at the Sidalong Forest Farm $( 9 9 ^ { \\circ } 5 4 ^ { \\prime } 1 0 ^ { \\prime \\prime } \\mathrm { E }$ ， $3 8 ^ { \\circ } 2 6 ^ { \\prime } 5 8 ^ { \\prime \\prime } \\mathrm { N } )$ in the upper reaches of the Heihe River catchment in the interior of the central Qilian Mountains, China. The climate in this region is influenced by both the East Asian Monsoon and the Westerlies (Li and Liu, 2000). Climate data from two nearby meteorological stations (Qilian and Minle) showed that the annual mean temperature in the time period of 1958-2O19 ranged from $1 . 0 ^ { \\circ } \\mathrm { C }$ to $4 . 1 ^ { \\circ } \\mathrm { C }$ and the total annual precipitation varied from 288.2 to $5 2 6 . 6 \\mathrm { m m }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We collected two cores per living tree from a forest stand of pure Qinghai spruce at an elevation of $2 5 9 0 \\mathrm { m }$ a.s.l.,close to the lower timberline of Qinghai spruce.We totally collected 54 tree ring cores from opposite sides of the stem of 27 large mature Qinghai spruce trees in June 2020. The samples were taken at about $1 . 3 \\mathrm { ~ m ~ }$ above the ground (breast height） using a $1 0 \\mathrm { - m m }$ diameter increment borer. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Wood pre-treatment ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 Sample preparation ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We collected all the tree cores to the laboratory and processed them according to the standard dendrochronology techniques (Stokes and Smiley,1996).After air-drying and polishing, we used the LINTAB 6.O system (RINNTECH, Heidelberg, Germany） for ring width measurements and applied the COFECHA program (Holmes，1983） to guarantee the quality of cross-dating. One core from each of five trees was chosen for manual dissection into annual rings using a clean stainless-steel blade with the aid of a binocular microscope (SDPTOP, Suzhou, China). We pooled the annual rings from five cores of the same year into one sample for isotope analysis.The mixed samples were ground in a ball-millto a powder that could pass through a 2OO-mesh screen. All the powdered samples were oven-dried to constant weight at $5 5 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2Nitrogen (N) extraction protocol ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Each annual powder sample was separated into three subsamples (weight of $5 5 \\mathrm { - } 8 0 ~ \\mathrm { m g }$ for each): (1） wood extracted with organic solvents; (2) wood extracted with hot ultrapure water; and (3) unextracted wood (Fig.1). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Unstable compounds (e.g., resins,salts and most free forms of alkaloids and tannins） were removed from the subsamples in the first group via solvent-based extraction following the protocol of Sheppard and Thompson (2OoO).The subsamples were loaded into filter bags and extracted for $1 0 \\mathrm { { h } }$ in a 1:2 mixture of toluene and ethanol and then for $1 0 \\mathrm { { h } }$ in ethanol in a Soxhlet apparatus.The filter bags were then rinsed three times for $2 \\mathrm { { h } }$ each time with ultrapure water(18 $\\mathbf { M } \\Omega { \\cdot } \\mathbf { c } \\mathbf { m } )$ until the resultant solution became transparent. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The second group of subsamples was extracted with hot ultrapure water to remove soluble compounds, including tannins,inorganic salts and low molecular weight polysaccharides (Rowell, 1984; Ajuong and Breese,1997) following a modified version of the water-bath method of Bukata and Kyser (2Oo5). We used hot water rather than cold water because some compounds (e.g., tannins)are more soluble at higher temperatures.A $1 ~ \\mathrm { m L }$ volume of ultrapure water $( 1 8 \\mathrm { M } \\Omega { \\cdot } \\mathrm { c m } )$ （204号 was added to each centrifuge tube containing the subsamples and heated at $9 0 ^ { \\circ } \\mathrm { C }$ for $^ { 4 \\mathrm { ~ h ~ } }$ in a dry block bath (THB-2,AS ONE Corp., Osaka, Japan). The tubes were centrifuged at $1 0 , 0 0 0 ~ \\mathrm { r / m i n }$ for $5 \\mathrm { m i n }$ and the supernatant solution was decanted after standing for $^ { \\textrm { 1 h } }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "All the extracted and unextracted subsamples were then oven-dried at $5 5 ^ { \\circ } \\mathrm { C }$ for $4 8 \\mathrm { ~ h ~ }$ to remove any remaining water and reagents. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3Determination of the stable N isotopes ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Wood subsamples of about $7 ~ \\mathrm { m g }$ were enclosed in tin capsules and combusted in an Element Analyzer (EA Isolink,Thermo Fisher, Bremen, Germany) coupled via a ConFlo VI interface to a Gas Isotope Ratio Mass Spectrometry (Delta V Advantage,Thermo Fisher, Bremen, Germany) at the Laboratory of Stable Isotope and Global Change in Shaanxi Normal University, Xi'an, China. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6c05fa18fb91082124d3ca41f7c3015dab8ade79a6d73cf42258f736e8a26ec2.jpg",
+        "img_caption": [
+            "Fig.1Flow chart of the wood pre-treatment methods for the determination of the stable nitrogen isotope ratio （204号 $( \\delta ^ { 1 5 } \\mathrm { N } )$ in tree rings from the endemic Qinghai spruce.Three pre-treatment methods were used to prepare the wood samples for the measurements of the nitrogen (N) concentration and $\\delta ^ { 1 5 } \\mathrm { { N } }$ in tree rings:(1） wood extracted with organic solvents (solvent-extracted wood); (2) wood extracted with hot ultrapure water (water-extracted wood); and (3) unextracted wood (bulk wood). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We used the certified international standard material USGS-55 ( $\\mathrm { \\Delta } \\mathrm { \\hat { \\delta } } ^ { 1 5 } \\mathrm { N } = - 0 . 3 \\%$ （20 $( \\pm 0 . 4 \\% ) \\big \\rangle _ { , }$ ,which has a high N concentration $( 0 . 2 5 \\% )$ , for instrument calibration. To eliminate any nonlinear effects associated with the small peak heights,we developed a wood internal standard collected from Qilian juniper (Sabina przewalskii) trees, which could produce peak heights similar to those from the international standard. We calibrated the international standard using material USGS-55 to assess the accuracy of our method (standard deviation lower than $0 . 3 \\text{‰}$ ： $n { = } 1 2 8$ ).The stable $\\mathbf { N }$ isotope ratio was expressed as per mil $( \\\\text{‰}$ value using delta (δ) notation as relative deviations from the international standard (atmospheric $\\mathbf { N } _ { 2 } \\mathbf { \\dot { \\Omega } }$ )，and was normalized using one-point linear interpolation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Because the N concentration in tree rings was very low relative to the carbon (C) concentration, we used an ascarite trap ( $1 2 ~ \\mathrm { m L }$ volume） to scrub excessive $\\mathrm { C O } _ { 2 }$ from the sample gas before gas chromatography. The analysis time was set at 6OO s to eliminate potential memory effects originating from the large amount of $\\mathbf { C O } _ { 2 }$ that was produced from preceding combustion. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4 Statistical analyses ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The heartwood-sapwood boundary is not clearly detectable by differences in the color of the wood from Qinghai spruce.The most abrupt shift in the $\\mathbf { N }$ concentration of tree rings during the time period of 196O-2O19 was determined using the changepoint package in the R statistical program (version 4.1.3). We detected an abrupt increase in the N concentration in the late 1990s, close to rings from 1995 to 1998,suggesting that the wood of this species might contain a transition zone of the heartwood to the sapwood in the physiological sense of the term (Fig. 2) (Merrill and Cowling,1966). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To minimize the differences and evaluate the similarities between the three curves for the different pre-treatment methods,we normalized the absolute values of the $\\mathbf { N }$ concentration and ${ \\delta } ^ { 1 5 } \\mathrm { \\mathbf { N } }$ in each series to obtain the standard $Z$ -scores.Differences in the $\\mathrm { \\Delta N }$ concentration or ${ \\delta } ^ { 1 5 } \\mathrm { \\mathbf { N } }$ values among the three different pre-treatments were determined by one-way ANOVA followed by a least significant difference (LSD) test of means with a $9 5 \\%$ confidence level. We also checked some differences in the series of the $\\mathrm { \\Delta N }$ concentration and $\\delta ^ { 1 5 } \\mathrm { { N } }$ between the sapwood and heartwood and/or among different extractions by exploiting some statistical indices.Differences in the offsets of the $\\mathrm { \\Delta N }$ concentration or $\\delta ^ { 1 5 } \\mathrm { { N } }$ values between the extracted wood and unextracted wood were compared by an independent sample $t \\cdot$ -test.Differences in the $\\mathrm { \\Delta N }$ concentration or $\\delta ^ { 1 5 } \\mathrm { N }$ values between the sapwood and heartwood among the three different pre-treatments were also tested via an independent sample $t \\cdot$ -test. Statistical analyses were completed with SPSS Statistics 25(IBM, USA) and performed in R 4.1.3 (R Core Team, 2022). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3b9bf6970709679c925cc4a171ac27e523d279a8dbca01711f86edfa79a9e806.jpg",
+        "img_caption": [
+            "Fig.2N concentration (a） and $\\delta ^ { 1 5 } \\mathrm { { N } }$ values (b） in tree rings from Qinghai spruce as a function of time determined by the three diferent pre-treatment methods: wood extracted with organic solvents (solvent-extracted wood),wood extracted with hot ultrapure water (water-extracted wood)and unextracted wood (bulk wood).The vertical gray-shaded area indicates the heartwood-sapwood transition zone around the time period of 1995-1998. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1Tree-ring N concentration ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Increasing trends of the tree-ring $\\mathbf { N }$ concentration were observed in Qinghai spruce for the extracted wood (solvent-extracted wood and water-extracted wood) and unextracted wood (bulk wood) from 196O to 2019. There was a typical distribution pattern in which the N concentration of tree rings increased sharply in the heartwood-sapwood transition zone, whereas there was a constant flat trend in the heartwood,followed by a steady increase in the sapwood,with the highest concentration in the most recent rings (Fig. 2a). The year-to-year variation in the N concentration of the sapwood was greater than the variation in the $\\mathbf { N }$ concentration of the heartwood,in which the interannual correlations were stronger,as observed in some of the statistical indices (Table S1).The variations in the $\\mathbf { N }$ concentration of the solvent-extracted wood and water-extracted wood were consistent with those in the bulk wood,as indicated by the significant linear correlations between the standardized $Z \\cdot$ -scores of the extracted wood and unextracted wood（ $R ^ { 2 } { = } 0 . 9 5 5$ between the solvent-extracted wood and bulk wood,and $R ^ { 2 } { = } 0 . 9 6 9$ between the water-extracted wood and bulk wood; $P { < } 0 . 0 1$ ) (Fig.3). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ca5bac99e44cb76922ce4dc0663780784ef084b770e1ef6e9cecbd834662d153.jpg",
+        "img_caption": [
+            "Fig.3Comparisons of the time series of the tree-ring N concentration and $\\delta ^ { 1 5 } \\mathrm { { N } }$ values for the extracted wood (solvent-extracted wood and water-extracted wood) and unextracted wood (bulk wood)duringthe time period of 1960-2O19,as well as relationships of the $Z$ -scores of the $\\mathrm { \\Delta N }$ concentration and $\\delta ^ { 1 5 } \\mathrm { { N } }$ values between the extracted wood (solvent-extracted and water-extracted wood） and unextracted wood (bulk wood).(a and b)，the N concentration; (c and d), the $\\delta ^ { 1 5 } \\mathrm { { N } }$ values.The curves in the left panel were standardized by the $Z .$ -scores.The solid lines in the right panel represent the linear regresion of each dataset.The1:1 line is shown by the dashed line. The coefficient of determination $( R ^ { 2 } )$ and $P$ -value are also given. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Pre-treatment of wood with organic solvents removed about $1 7 . 6 0 \\%$ of the total $\\mathbf { N }$ ，witha statistically significant difference between the heartwood and sapwood sections $( P { < } 0 . 0 1 )$ . Tree rings of the solvent-extracted wood had remarkable lower $\\mathbf { N }$ concentration (mean of $0 . 0 5 2 \\%$ $P { < } 0 . 0 5 )$ ） than tree rings of the water-extracted wood and bulk wood (means of $0 . 0 6 6 \\%$ and $0 . 0 6 3 \\%$ ， respectively),as shown by the results of one-way ANOVA followed by an LSD test (Table 1;Fig. 4). The differences in the $\\mathbf { N }$ concentration between the solvent-extracted wood and bulk wood were significantly larger in the sapwood section than in the heartwood section $( P { < } 0 . 0 1 )$ ，with mean values of $- 0 . 0 1 6 \\%$ and $- 0 . 0 0 8 \\%$ ，respectively，as indicated by the independent sample $t \\cdot$ -test(Table 1；Fig.5).The coefficient of variance reflected the lower interannual variability in the $\\mathbf { N }$ concentration of the solvent-extracted wood compared to the bulk wood (Table S1). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Extraction by hot ultrapure water had litte efect on the removal of the soluble N compounds from tree rings. There was no significant difference in the $\\mathbf { N }$ concentration in tree rings between the water-extracted wood and bulk wood $( P { > } 0 . 0 5$ ；Fig.4).Differences in the $\\mathbf { N }$ concentration between the whole wood extracted by ultrapure water and bulk wood increased marginally with a mean value of $0 . 0 0 2 \\%$ (Table 1).No statistically significant difference was observed between the heartwood and sapwood in the water-extracted wood and bulk wood from the results of the independent sample $t \\cdot$ -test( $scriptstyle { P = 0 . 1 2 7 }$ ; Table 1; Fig. 5). ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/1522d73ce62704f0c87c1fd934bb7bb425676508f6a8d5f98d0f6ea3db02a2a5.jpg",
+        "table_caption": [
+            "Table 1Summary statistical analyses among the pre-treatment methods of wood samples "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"5\">N concentration (%)</td></tr><tr><td>Bulk wood</td><td>Solvent-extracted wood</td><td>Water-extracted wood</td><td>Df. I</td><td>Df. II</td></tr><tr><td>Whole wood</td><td>0.063±0.017</td><td>0.052±0.012</td><td>0.066±0.017</td><td>-0.011±0.006</td><td>0.002±0.003</td></tr><tr><td>Sapwood</td><td>0.081±0.017</td><td>0.065±0.012</td><td>0.084±0.014</td><td>-0.016±0.005</td><td>0.003±0.004</td></tr><tr><td>Heartwood</td><td>0.053±0.008</td><td>0.045±0.004</td><td>0.055±0.007</td><td>-0.008±0.005</td><td>0.002±0.002</td></tr><tr><td>P</td><td>0.000**</td><td>0.000**</td><td>0.000**</td><td>0.000**</td><td>0.127</td></tr><tr><td></td><td colspan=\"5\">815N (%o)</td></tr><tr><td></td><td>Bulk wood</td><td>Solvent-extracted wood</td><td>Water-extracted wood</td><td>Df. I</td><td>Df. II</td></tr><tr><td>Whole wood</td><td>8.4±4.1</td><td>13.6±3.7</td><td>7.8±3.9</td><td>5.2±2.1</td><td>-0.5±0.8</td></tr><tr><td>Sapwood</td><td>4.1±1.8</td><td>9.5±2.4</td><td>3.7±1.5</td><td>5.5±0.8</td><td>-0.3±0.6</td></tr><tr><td>Heartwood</td><td>11.1±2.8</td><td>15.9±1.7</td><td>10.5±2.6</td><td>4.9±2.6</td><td>-0.6±0.9</td></tr><tr><td>P</td><td>0.000**</td><td>0.000**</td><td>0.000**</td><td>0.322</td><td>0.228</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Note:Mean±standard deviation values of the tree-ring N concentration and $\\delta ^ { 1 5 } \\mathrm { N }$ values for the extracted wood (solvent-extracted woodand water-extracted wood)andunextracted wood(bulk wood).Df.IandDf.Irefertothedifference between the solvent-extracted wood and bulk woodand betweenthe water-extracted wood and bulk wood,respectively.The $P$ value represents result from the independent sample $t$ -test,which is dimensionless.\\*\\*, $P { < } 0 . 0 1$ level. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d695444b924659b30842cf2d45b21558d908520ec0c790ddaece64be056139e.jpg",
+        "img_caption": [
+            "Fig.4Box-whisker plots of the tree-ring $\\mathbf { N }$ concentration (a） and $\\delta ^ { 1 5 } \\mathrm { { N } }$ values (b),as well as relationships between the $\\mathrm { \\Delta N }$ concentration and ${ \\delta } ^ { 1 5 } { \\bf N }$ values (c） of the extracted wood (solvent-extracted wood and water-extracted wood) and unextracted wood (bulk wood).The boundaries of the boxes indicate the $2 5 ^ { \\mathrm { t h } }$ and $7 5 ^ { \\mathrm { t h } }$ percentiles.The solid lines are median values,the black dots are mean values and the black squares are outliers. Bars represent the change range of the $\\mathrm { ~ N ~ }$ concentration or $\\delta ^ { 1 5 } \\mathrm { { N } }$ values.Different lowercase letters indicate significant differences $_ { ( P < 0 . 0 5 ) }$ between the pre-treatment methods by one-way ANOVA.The solid curves represent the correlations simulated by exponential fiting. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ec3dff902e5949539c008f74102dadba2fa469773c3c428809918afc66690eeb.jpg",
+        "img_caption": [
+            "Fig.5Box-whisker plots of the changes in the tree-ring $\\mathrm { \\Delta N }$ concentration (a） and $\\delta ^ { 1 5 } \\mathrm { { N } }$ values (b) for the heartwood and sapwood sections in the extracted wood (solvent-extracted wood and water-extracted wood) compared with the unextracted wood (bulk wood)，aswell as relationships between differences in the $\\mathbf { N }$ concentration and $\\delta ^ { 1 5 } \\mathrm { { N } }$ values between the extracted wood and unextracted wood (c).The boundaries of the boxes indicate the $2 5 ^ { \\mathrm { t h } }$ and $7 5 ^ { \\mathrm { t h } }$ percentiles.The solid lines are median values,the black dots are mean values and the black squares are outliers.The bars represent the change range of differences in the $\\mathrm { \\Delta N }$ concentration or $\\delta ^ { 1 5 } \\mathrm { { N } }$ values.Offsets were calculated between the extracted wood and unextracted wood.Different lowercase letters indicate significant differences $( P { < } 0 . 0 5 )$ between the sapwood and heartwood by the independent sample $t \\cdot$ -test. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2Tree-ring ${ \\mathfrak { d } } ^ { 1 5 } \\mathbf { N }$ ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "There was a consistent decrease during the research period in the ${ \\delta } ^ { 1 5 } \\mathrm { \\mathbf { N } }$ of tree rings from Qinghai spruce for all three pre-treatment methods (Fig.2b). Temporal variations in the tree-ring $\\delta ^ { 1 5 } \\mathrm { { N } }$ of the solvent-extracted wood and water-extracted wood corresponded with those in the bulk wood, indicated by significant linear relationships between the normalized $Z$ -score curves of the extracted and unextracted wood ( $R ^ { 2 } { = } 0 . 7 3 4$ for the solvent-extracted wood and $R ^ { 2 } { = } 0 . 9 6 5$ for the water-extracted wood; $P { < } 0 . 0 1$ ; Fig.3). The results were similar to those for the $\\mathbf { N }$ concentration: the variations in the tree-ring $\\delta ^ { 1 5 } \\mathrm { { N } }$ in the sapwood were larger than those in the heartwood and the interannual correlations were stronger in the heartwood (Table S1). However, we also observed some differences in the tree-ring $\\delta ^ { 1 5 } \\mathrm { { N } }$ signal among the three pre-treatment methods. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The removal of the mobile $\\mathbf { N }$ by extraction with organic solvents weakened the variations in the tree-ring $\\delta ^ { 1 5 } \\mathrm { N }$ signal, but markedly increased the mean $( 5 . 2 \\text{‰}$ of the absolute values (Table 1). The mean tree-ring ${ \\delta } ^ { 1 5 } \\mathrm { \\mathbf { N } }$ value of the solvent-extracted wood (mean of $1 3 . 6 \\text{‰}$ ）wasmostly higher than those of the water-extracted wood and bulk wood ( $7 . 8 \\text{‰}$ and $8 . 4 \\text{‰}$ ，respectively)，which were significantly different $( P { < } 0 . 0 5 )$ ，as indicated by the ANOVA LSD test (Table 1; Fig. 4). However, there was a gentle trend in the tree-ring $\\delta ^ { 1 5 } \\mathrm { { N } }$ of the solvent-extracted wood compared with the bulk wood,as indicated by the slopes of linear regresson lines (Fig. S1; Table S2) and the values of the coefficient of variance (Table S1). The independent sample $t$ -test showed no significant difference ( $( P { = } 0 . 3 2 2 )$ in the offsets of the tree-ring ${ \\delta } ^ { 1 5 } \\mathrm { \\mathbf { N } }$ values between the heartwood and sapwood for tree rings extracted with organic solvents (Table 1; Fig. 5). These results mirrored those of the solvent-extracted wood, in which the tree-ring ${ \\delta } ^ { 1 5 } \\mathrm { \\mathbf { N } }$ values in the sapwood did not increase significantly relative to those in the heartwood. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Pre-treatment with hot ultrapure water had little effect, with the mean tree-ring ${ \\delta } ^ { 1 5 } \\mathrm { \\mathbf { N } }$ value decreasing slightly by $0 . 5 \\text{‰}$ . The ${ \\delta } ^ { 1 5 } \\mathrm { \\mathbf { N } }$ values of the water-extracted wood decreased marginally and insignificantly with a mean of $7 . 8 \\text{‰}$ $( P { > } 0 . 0 5 )$ ,as shown by the ANOVA LSD test (Table 1; ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.4).Although differences in the tree-ring ${ \\delta } ^ { 1 5 } \\mathrm { \\mathbf { N } }$ values between the water-extracted wood and bulk wood were higher in the heartwood than in the sapwood (mean values of $- 0 . 6 \\text{‰}$ and $- 0 . 3 \\text{‰}$ ， respectively),no significant difference ( $\\scriptstyle P = 0 . 2 2 8 { \\mathrm { , } }$ ） was observed by the independent sample $t$ -test (Table 1; Fig. 5). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1Higher efficiency of chemical extraction in removing mobile N ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Given the efficiency of removing the mobile $\\mathbf { N }$ compounds, extraction with organic solvents may be more popular than extraction with hot ultrapure water. Solvent-based extraction reduced the total $\\mathbf { N }$ concentration in the whole wood by about $1 7 . 6 0 \\%$ and removed significantly more $\\mathbf { N }$ in the sapwood section of tree rings，whereas the offsets in the $\\mathbf { N }$ concentration between the water-extracted wood and bulk wood were almost zero (Table 1; Fig. 5a). Many researchers have reported that the tree-ring N concentration is lower after solvent-based extraction following the Sheppard-Thompson protocol to remove the unstable $\\mathbf { N }$ (Sheppard and Thompson,2OoO;Elhani et al.,2003,2005； Kwak et al.,2009; Hietz et al., 2010; Tomlinson et al.,2014),although the proportion of the $\\mathbf { N }$ removed differs among tree species (Fig.6). For instance,the total $\\mathbf { N }$ concentration of tree rings in the sapwood decreased significantly by about $4 5 . 0 0 \\%$ for ponderosa pine ( $P .$ ponderosa)(Sheppard and Thompson,2OoO) and decreased from $0 . 2 2 \\%$ to $0 . 1 5 \\%$ after extraction for beech ( $F .$ sylvatica) (Elhani et al.,2O03). For red pine ( $P .$ densiflora),extraction with organic solvents removed $1 9 . 4 0 \\% - 3 1 . 6 0 \\%$ of the total $\\mathbf { N }$ in recent tree rings (Kwak et al., 2009), in agreement with our results that solvent-based extraction significantly reduced the total N in the sapwood section of tree rings from Qinghai spruce ( $\\mathrm { \\Delta } P .$ crassifolia) by about $1 9 . 3 0 \\%$ Differences in the $\\mathbf { N }$ concentration between the water-extracted wood and bulk wood were close to zero in both the heartwood and sapwood (Table 1),contrasting with the finding that the weight percentage of the N decreased significantly by $1 0 . 5 0 \\%$ in the sapwood of tree rings extracted with deionized water in non-resinous species such as white oak(Quercus alba) (Bukata and Kyser, 2005).The complex influences may be caused by the diversity of the wood extractives in tree rings from different tree species. Resins form the principal part of the wood extractives of temperate conifers (Muton,1962; Fengel and Wegener, 1989; Sheppard and Thompson, 2000) and are not extracted with hot water as a result of their hydrophobic nature. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/adbd378a4213bf5e7bb5f3b45162a233e708436a81b17bb3d9b624d7c7ef4e9b.jpg",
+        "img_caption": [
+            "Fig.6Offset in the tree-ring $\\delta ^ { 1 5 } \\mathrm { { N } }$ values (a) and percentage of offset in the $\\mathbf { N }$ concentration (b) for different tree species after the extraction of bulk wood. Offset in the $\\delta ^ { 1 5 } \\mathrm { { N } }$ was calculated as the difference between the extracted wood and unextracted wood,so offset in the $\\mathbf { N }$ concentration did.The percentage of offset in the N concentration was calculated as the quotients of the offset in the $\\mathbf { N }$ concentration divided by the actual value of the unextracted wood.Tree rings in white oak were extracted with deionized water.Tree rings of other species were extracted with organic solvents.Data were obtained from previous studies as follows (see Table S3 for details):[1],heppardandThompson (2OO0);[2],Elhani etal.(2O03);[3],Elhani etal.(2Oo5);[4],Kwaketal. (2009);[5] Hietz et al. (2010);[6],Larry etal.(2011);[7],Bukata and Kyser (2005);[8],Hart andClassen (2003). S-e, solvent-extracted wood; W-e,water-extracted wood. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.2 Distinct differences in the tree-ring ${ \\mathfrak { d } } ^ { 1 5 } \\mathbf { N }$ values between the two extraction methods ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Pre-treatment of the bulk wood samples with organic solvents reduced the variations in the tree-ring $\\delta ^ { 1 5 } \\mathrm { { N } }$ signal (Fig. S1; Table S2) and remarkably increased the absolute values (Table 1), in line with the results of the non-labeled beech trees ( $F .$ sylvatica) extracted by organic solvents (Elhani et al., 2005). The higher ${ \\delta } ^ { 1 5 } \\mathrm { \\mathbf { N } }$ values for tree rings in the extracted wood have also been reported for Spanish cedar (Cedrela odorata)， big-leaf mahogany (Swietenia macrophylla), Japanese black pine (Pinus thunbergii) and Norway spruce ( $P .$ abies) (Hietz et al., 2010; Larry et al.,2011; Tomlinson et al.,2O14). Extraction with organic solvents increases the absolute values of the ${ \\delta } ^ { 1 5 } \\mathrm { \\mathbf { N } }$ in the wood samples, which could be explained by assuming that the decomposition of the $\\mathbf { N }$ compounds into mobile forms depletes the $^ { 1 5 } \\mathrm { N }$ of the soluble $\\mathbf { N }$ compounds as a result of fractionation (Yoneyama et al., 1998). Solvent-based extraction fractionates the $^ { 1 5 } \\mathrm { N }$ so that the lighter $^ { 1 4 } \\mathrm { N }$ is removed, which could explain the elevated $\\delta ^ { 1 5 } \\mathrm { { N } }$ values of tree rings after extraction (Tomlinson et al., 2014). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The $\\delta ^ { 1 5 } \\mathrm { { N } }$ values of tree rings extracted with ultrapure water as a function of time was almost coincident with those for the bulk wood (Fig. S1； Table S2)，although the absolute values decreased slightly (Table 1; Fig. 4). Our results are consistent with previous reports that there are no significant changes in the tree-ring $\\delta ^ { 1 5 } \\mathrm { { N } }$ values for red oak(Quercus rubra) and white oak (Quercus alba) after pre-treatment in water-bath (Bukata and Kyser, 2Oo5). Extraction with hot ultrapure water had little effect on the $\\delta ^ { 1 5 } \\mathrm { { N } }$ signal of tree rings from Qinghai spruce and did not change the $\\delta ^ { 1 5 } \\mathrm { { N } }$ values beyond the limit of analytical precision $( \\pm 0 . 3 \\% )$ ： ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.3Proposal of using the bulk wood for the determination of the ${ \\mathfrak { s } } ^ { 1 5 } \\mathrm { N }$ in tree rings of Qinghai spruce ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Extraction with either organic solvents or hot ultrapure water did not eliminate the physiologically driven radial pattern in the $\\mathbf { N }$ concentration associated with the $\\mathrm { \\bf N }$ translocation, suggesting that not all of the mobile $\\mathbf { N }$ fractions were removed from tree rings.Although solvent-based extraction significantly reduced the total $\\mathbf { N }$ concentration in the wood，the distribution pattern of the $\\mathbf { N }$ concentration was not minimized. The tree-ring $\\mathbf { N }$ concentration and $\\delta ^ { 1 5 } \\mathrm { N }$ values for the solvent-extracted wood were probably underestimated because extraction with organic solvents not only removed the soluble N-containing compounds，but also other compounds.An unexpected finding was that the translocation of $\\mathbf { N }$ between inter-rings had a visible impact on the $\\delta ^ { 1 5 } \\mathrm { { N } }$ series of tree rings in the solvent-extracted wood. The major decrease in the $\\delta ^ { 1 5 } \\mathrm { { N } }$ values over the whole series coincided with a sharp increase in the $\\mathrm { \\bf N }$ concentration in the heartwood-sapwood transition zone (Fig.2a). The effect of water extraction on either the N concentration or ${ \\delta } ^ { 1 5 } \\mathrm { \\mathbf { N } }$ values was negligible. Hence, neither extraction with organic solvents nor hot ultrapure water eliminated the $\\mathbf { N }$ translocation pattern,which might mask the original annual $\\delta ^ { 1 5 } \\mathrm { N }$ signal of tree rings. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The ${ \\delta } ^ { 1 5 } \\mathrm { \\mathbf { N } }$ values of the bulk wood in Qinghai spruce should be a more reliable method of determining long-term variations in forest ecosystems. The most obvious variation in the $\\delta ^ { 1 5 } \\mathrm { { N } }$ series of tree rings in the bulk wood did not occur in the heartwood-sapwood transition zone (Fig. 2),suggesting that the physiological pattern in the $\\mathrm { \\Delta N }$ concentration does not influence the $\\delta ^ { 1 5 } \\mathrm { N }$ values.This could provide indirect evidence that the radial mobility of $\\mathrm { \\bf N }$ among tree rings does not generate significant fractionation of $\\mathrm { \\bf N }$ isotopes in Qinghai spruce (Doucet et al., 2011,2012). Given the confusing effect of different pre-treatments in the removal of the mobile $\\mathbf { N }$ compounds, we recommend that the bulk wood is used for the determination of the $\\delta ^ { 1 5 } \\mathrm { { N } }$ in tree rings from endemic Qinghai spruce to provide long-term environmental signals. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.4Consistent downward trend of the tree-ring ${ \\mathfrak { d } } ^ { 1 5 } \\mathbf { N }$ in different protocols ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Variations in the ${ \\delta } ^ { 1 5 } \\mathrm { \\mathbf { N } }$ of tree rings from all three pre-treatment methods showed a consistent decrease for Qinghai spruce trees growing in the interior of the central Qilian Mountains during the research period (Figs.2b and 3). The level of the $\\mathbf { N }$ deposition at our study site was very low. The average atmospheric dry and wet $\\mathbf { N }$ deposition values over the region were 9.6 and $9 . 5 ~ \\mathrm { k g }$ $\\mathrm { { N / ( h m ^ { 2 } { \\cdot } a ) } }$ during the time period of 2O11-2O15,respectively, both lower than the average fluxes across China (20.6 and $1 9 . 3 ~ \\mathrm { k g } ~ \\mathrm { N } / ( \\mathrm { h m } ^ { 2 } { \\cdot } \\mathrm { a } )$ ，respectively）( $\\mathrm { { X u } }$ et al., 2015; Jia et al., 2016, 2019). Asa result of the limitations in the temporal resolution of $\\mathbf { N }$ deposition data,we cannot detect reliable direct or indirect evidence of anthropogenic atmospheric $\\mathbf { N }$ deposition in the annual variations of the $\\delta ^ { 1 5 } \\mathrm { N }$ in tree rings, in contrast with the $\\delta ^ { 1 5 } \\mathrm { N }$ values of tree rings from riparian trees in the lower reaches of the Heihe River, China (Wang et al.,2O2O). The more pronounced decreasing trend of the ${ \\delta } ^ { 1 5 } \\mathrm { \\mathbf { N } }$ in tree rings might be caused by fractionation in the soil-forest N cycle after the forest was hold allochthonous $\\mathbf { N }$ inputs with the lower $\\delta ^ { 1 5 } \\mathrm { { N } }$ ，which requires further investigation. We ruled out the possibility that the downward trend in the tree-ring $\\delta ^ { 1 5 } \\mathrm { { N } }$ in recent decades might be related to different soil textures or soil depths (Hogberg,1997) because there were no significant local differences in soils affecting the sampled trees from this pure, mature Qinghai spruce stand. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The decreased trend of the $\\delta ^ { 1 5 } \\mathrm { { N } }$ values in tree rings showed that the availability of $\\mathbf { N }$ in the ecosystem had decreased and that the $\\mathbf { N }$ cycle in these soils has become increasing closing over the last 6O a (Austin and Vitousek，1998；Emmett et al.，1998；Bukata and Kyser, 2005; McLauchlan et al.,2007; Craine et al.,2015; McLauchlan et al., 2017). Tree growth,as indicated by the basal area increment of Qinghai spruce,has accelerated since the 195Os in the interior of the central Qilian Mountains as a result of a warmer and wetter climate (Figs. S2 and S3).A longer growing season resulting from a warmer climate and increased atmospheric $\\mathrm { C O } _ { 2 }$ concentrations could stimulate a greater $\\mathbf { N }$ demand for tree growth，which could reduce the availability of $\\mathbf { N }$ (Ollinger et al.,2OO2; Norby et al., 2016).Mineralization, which is the dominant source of the bioavailable $\\mathbf { N }$ for trees growing in temperate forests in remote mountain regions, generally increases under wet conditions (Guerrieri et al.,2O10; Greaver et al.,2Ol6). Ecosystems might therefore meet higher plant demands for N by decreasing the N losses and increasing the N fixation and mineralization,leading to a gradually closing N cycle (Penuelas and Estiarte,1997). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Unfortunately,we do not have evidence of long-term trends to examine whether our series of the $\\mathrm { \\Delta N }$ concentration and $\\delta ^ { 1 5 } \\mathrm { { N } }$ in tree rings could be related to the tree ages.The increases in the carbon isotope ratio $( \\delta ^ { 1 3 } \\mathbf { C } )$ and/or reductions in the intrinsic water use efficiency within the first few decades of the rapid growth of trees most likely reflect the age effects,which are greatly influenced by physiological changes linked to the height growth during tree development (Pefuelas et al.,2008;Hardtle et al.,2013; Guerrieri et al.,202O).We speculated that variations in the $\\mathrm { \\Delta N }$ concentration and $\\delta ^ { 1 5 } \\mathrm { { N } }$ of tree rings during their juvenile period might be more dramatic, similar to the large interannual variability in the sapwood of mature trees. Living xylem parenchyma cells sustain rapid growth in young trees before the lignification process is complete, affecting physiological processes within the tree stem (Merrill and Cowling,1966). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "There were nonlinear relationships between the N concentration and $\\delta ^ { 1 5 } \\mathrm { { N } }$ values of tree rings in Qinghai spruce for all three pre-treatment methods (Fig. 4c). The negative correlation was stronger in the sapwood section than in the heartwood section, consistent with the discovery that this negative relationship decreased when excluding the sapwood samples (Trumper et al., 2020). These differences in the correlation between the heartwood and sapwood may help to explain the differences in this relationship under lower or higher $\\mathbf { N }$ concentration. Nevertheless,we have insuficient evidence to demonstrate whether this relationship is meaningful. If a more appropriate extraction technique is developed to remove the $\\mathbf { N }$ translocation mechanism, then the $\\mathbf { N }$ concentration of tree rings could be used as another environmental indicator. The potential meaning of the correlation between the $\\mathrm { \\Delta N }$ concentration and $\\delta ^ { 1 5 } \\mathrm { N }$ values in tree rings would then be of more interest to researchers. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Extraction based on organic solvents may be more efcient in removing the mobile N components from the wood of endemic Qinghai spruce species than hot ultrapure water. Our two extraction experiments produced a distinct difference in the $\\delta ^ { 1 5 } \\mathrm { { N } }$ of tree rings in both the tendency and absolute values. Not all the unstable $\\mathbf { N }$ compounds were removed by any pre-treatment of the wood samples，which could be explained that the results of wood pre-treatment with organic solvents differ strongly among tree species. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Given that the impact of wood pre-treatments on the tree-ring $\\mathbf { N }$ isotopes is complex and varies between species, we recommend that the bulk wood samples of tree rings from Qinghai spruce are used to register long-term variations in the environment. To increase the temporal resolution and dependability of the ${ \\delta } ^ { 1 5 } \\mathrm { \\mathbf { N } }$ series in tree rings,we suggest:（1） the modification of current and/or development of new pre-treatment methods to improve the efficiency of extraction; (2) corroboration of whether the removal of the soluble $\\mathbf { N }$ compounds is necessary in view of species-specific differences; and (3) the verification of evidence to directly demonstrate whether differences in physiological processes affect the environmental signals recorded in tree rings. Although we are still unable to pinpoint the exact mechanism underlying the decreased $\\delta ^ { 1 5 } \\mathrm { { N } }$ in tree rings, a triple stable isotope approach combining $\\delta ^ { 1 3 } \\mathrm { C }$ ， $\\delta ^ { 1 8 } \\mathrm { O }$ and ${ \\delta } ^ { 1 5 } \\mathrm { \\mathbf { N } }$ with dendrochronological analyses has potential in monitoring long-term physiological responses of Qinghai spruce trees to global climate change. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This research was supported by the National Natural Science Foundation of China (41971104),the Open Foundation of the State Key Laboratory of Loessand Quaternary Geology,Institute of Earth Environment, Chinese Academy of Sciences (CASSKLLQG1817） and the Qilian Mountain National Park Research Center (Qinghai)(GKQ2019-01).We thank the editors and anonymous reviewers for their constructive and valuable comments,which helped to improve our paper. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Ajuong EMA,Brese CM.1997.The roles of extractivesonshort-term creep incompressionparalel to grainofPai wood (Afzelia africana Smith).Wood and Fiber Science,29(2):161-170.   \nAustin AT,VitousekPM.1998.Nutrient dynamicsona precipitation gradient in Hawai.Oecologia,113(4):519-529.   \nBukataAR,KyserTK.Oo5.Responseofthenitrogenisotopiccompositionof tre-ringsfollowingtre-clearingandland-use change.Environmental Science and Technology,39(2O): 7777-7783.   \nBunn A G, HelfieldJM,GerdtsJR,etal.2Ol7.Asolvent-basedextraction failstoremove mobilenitrogen from western redcedar (Thuja Plicata).Dendrochronologia,44:19-21.   \nCraineJM,roosheENJramerD,tal.5Eologicalterpretatisofrogesotoatiosfteretalplts and soils.Plant and Soil, 396:1-26.   \nCuterBE,GuyeteRP.1993.Anatomical,chemicaland ecological factorsaecting tre specieschoiceindendrochemical studies. Journal of Environmental Quality,22(3): 611-619.   \nDoucetA,SavardMMginC,etal.l1.Isoodpretreatmentessntialfortre-rngntrogenconcentrationandisotope analysis?.Rapid Communications Mass Spectrometry,25(4): 469-475.   \nDoucet A, Savard M M,Bégin C,et al. 2012. Tree-ring $\\delta ^ { 1 5 } \\mathrm { N }$ values to infer air quality changes at regional scale. Chemical Geology,320-321:9-16.   \nDrake D C,Sheppard PJ,Naiman R J,et al.2O11.Relationships between salmon abundance and tree-ring $\\delta ^ { 1 5 } \\mathrm { { N } }$ ：three objective tests.Canadian Journal of Forest Research,41(12): 2423-2432.   \nElhani S,LemaBF,ZelerB,etal.2Oo3.Inter-anualmobilityofnitrogenbtweenbechrings:alabellngexperiment.Anals of Forest Science,60(6): 503-508.   \nElhani S,Guehl JM,Nys C,et al. 2OO5.Impact of fertilization on tree-ring $\\delta ^ { 1 5 } \\mathrm { N }$ and $\\delta ^ { 1 3 } \\mathrm { C }$ in beech stands:a retrospective   \nEmmett B A, Kjonaas O J, Gundersen P, et al. 1998. Natural abundance of $^ { 1 5 } \\mathrm { N }$ in forests across a nitrogen deposition gradient. Forest Ecology and Management,101(1-3): 9-18.   \nFengel D,Wegener G.1989.Wood: Chemistry, Ultrastructure,Reactions.Berlin: De Gruyter,1-632.   \nGerhart L M,McLauchlan K K.2014.Reconstructing terestrial nutrient cycling using stable nitrogen isotopes in wood. Biogeochemistry,120(1-3):1-21.   \nGesler A,FerioPJHommelR,etal.2O14.Stable isotopes intreerings: towardsa mechanisticunderstandingof isotope fractionation and mixing processes from the leaves to the wood. Tree Physiology,34(8): 796-818.   \nGreaverTL,ClarkCM,ComptonJE,etal.2016.Keyecologicalresponses to nitrogenare alteredbyclimatechange.Nature Climate Change,6(9): 836-843.   \nGuerieriR,MencucciniM,SheppardLJ,etal.2O10.The legacyofenhancedNandSdepositionasrevealed bythecombined analysis of $\\delta ^ { 1 3 } \\mathrm { C }$ $\\delta ^ { 1 8 } \\mathrm { O }$ and $\\delta ^ { 1 5 } \\mathrm { N }$ in tree rings. Global Change Biology,17(5): 1946-1962.   \nGuerieriR,VanguelovaE,PimanR,etal.2O20.Climateandatmosphericdepositioneffectsonforestwater-useeficiencyand nitrogen availability across Britain.Scientific Reports,10(1):12418,doi: 10.1038/s41598-020-67562-w.   \nHardtle W,Niemeyer T,Assmann T,et al.2O13.Long-term trends in tree-ring width and isotope signatures $( \\delta ^ { 1 3 } \\mathrm { C } , \\delta ^ { 1 5 } \\mathrm { N } )$ of Fagus sylvatica L.on soils with contrasting water supply. Ecosystems,l6(8): 1413-1428.   \nHartS C,Classen AT.2O03.Potential for assessing long-term dynamics in soil nitrogenavailability from variations in $\\delta ^ { 1 5 } \\mathrm { { N } }$ of tree rings.Isotopes in Environmental and Health Studies,39(1):15-28.   \nHietzP,DuenischO,Wanek W.2l0.Long-term trendsinnitrogenisotopecompositionandnitrogenconcentrationinBrazilian rainforest trees suggest changes in nitrogen cycle.Environmental Science and Technology,44(4):1191-1196.   \nHogberg P. 1997. Tansley review No. 95 $^ { 1 5 } \\mathrm { N }$ natural abundance in soil-plant systems. New Phytologist,137(2): 179-203.   \nHolmes RL.1983.Computer-asisted quality control in tree-ring dating and measurement.Tree-Ring Buletin,43:69-78.   \nJia YL,Yu GR,Gao YN,et al.2O16.Global inorganic nitrogendrydeposition inferred from ground-andspace-based measurements. Scientific Reports,6: 19810,doi: 10.1038/srep19810.   \nJiaYL,Wang QF,ZhuJX,etal.2019.Aspatial andtemporal datasetof atmospheric inorganic nitrogen wet deposition in China (1996-2015).China Scientific Data,4(1),doi: 10.11922/csdata.2018.0031.z.   \nKwak JH,LimSS,Park HJ,etal.2O9.Relating treeringchemistryofPinus densifloratoprecipitationacidity nan industrial area of South Korea.Water,Air,and Soil Pollution,199(1):95-106.   \nLarry M,CaceresL,Mzota C,etal.2O11.Efectsofpre-treatmentothentrogenisotopecompositionofJapaneseblack pine (Pinus thunbergi) tre-rings asaectedby highNinput.RapidCommunications Mass Spectrometry,25(21): 3298-3302.   \nLiD L,Liu D X.20o0. Climate in Gansu.Beijing: China Meteorological Press,1-378. (in Chinese)   \nLiangEY,ShaoX,EcksteinD,etal.2Oo6.Topographyndspecies-dependentgrowthesponsesofbinaPrzewalskad Picea crasifolia to climate on the northeast Tibetan Plateau. Forest Ecology and Management, 236(2): 268-277.   \nMason RE,Craine JM,LanyNK,etal.2022.Evidence,causes,andconsequences of declining nitrogen availabilityin terrestrial ecosystems. Science,376(6590),doi:10.1126/science.abh3767.   \nMcLauchlanK K,CraineJM,Oswald WW,etal.2Oo7.Changesin nitrogencycling during the pastcentury inanorthern hardwood forest.Proceedings ofthe NationalAcademyof Sciencesofthe United Statesof America,104(18):7466-7470.   \nMcLauchlanKK,GerhartLM,BattlesJJ,etal.2l7.Centenial-scalereductionsinitrogenavailabilityintemperateforests of the United States.Scientific Reports,7: 7856,doi: 10.1038/s41598-017-08170-z.   \nMeerts P.2OO2.Mineralnutrientconcentrations insapwoodand heartwood:aliteraturereview.AnalsofForest Science,59(7): 713-722.   \nMerill W,Cowling EB.1966.Role of nitrogen in wood deterioration:amountsand distributionof nitrogen in tree stems. Canadian Journal of Botany, 44(11): 1555-1580.   \nMizota C,Caceres MLL,Yamanaka T,etal.2Ol1.Differentialresponseof twoPinussp.toavian nitrogen inputasrevealed by nitrogen isotope analysis for tree rings. Isotopes in Environmental and Health Studies,47(1): 62-70.   \nMuton DB.1962.Wood resins.In:Wood Extractivesand Their Significanceto thePulpandPaper Industries.New York: Academic Press,331-363.   \nNorbyRJ,De Kauwe MG,Domingues TF,etal.2O16.Model-data synthesis forthe next generationofforest free-air $\\mathrm { C O } _ { 2 }$ enrichment (FACE) experiments.New Phytologist,209(1): 17-28.   \nOlinger SV,AberJD,ReichPB,etal.2Oo2.Interactive effectsof nitrogendeposition,troposphericozone,elevated $\\mathrm { C O } _ { 2 }$ and land use historyon the carbon dynamics of northern hardwood forests.Global Change Biology,8(6): 545-562.   \nPardoLH,NadelhoferKJ.20l0.Using Nitrogen IsotopeRatios toAssess TerrestrialEcosystems atRegionaland Global Scales.In: Isoscapes.Dordrecht: Springer,221-249.   \nPefuelas J,Estiarte M.1997.Trends inplantcarbonconcentrationand plant demand forNthroughoutthiscentury.Oecologia, 109(1):69-73.   \nPeiuelas J,Hunt JM, Ogaya R,et al. 2OO8.Twentieth century changes of tree-ring $\\delta ^ { 1 3 } \\mathbf { C }$ at the southern range-edge of Fagus sylvatica:increasing water-use eficiencydoesnot avoid the growth decline induced by warming at low altitudes.Global Change Biology,14(5):1076-1088.   \nR Core Team.2O.R: Alanguage and environment for statisticalcomputing.Vienna: RFoundation for Statistical Computing. [2022-05-28]. https://www.R-project.org/.   \nRobinson D.2001. $\\delta ^ { 1 5 } \\mathrm { N }$ as an integrator of the nitrogen cycle. Trends in Ecology & Evolution,16(3):153-162.   \nRowell R M.1984.The Chemistry of Solid Wood.Washington: American Chemical Society,2O7:1-614.   \nSavard M M, Bégin C,Smirnoff A,et al. 2Oo9.Tree-ring nitrogen isotopes reflect anthropogenic $\\mathrm { N O } _ { \\mathrm { x } }$ emissions and climatic effects.Environmental Science and Technology,43(3): 604-609.   \nSavardMM,MarionJ,Begin C.2O20.Nitrogenisotopesof individualtree-ringseries-Thevalidityof middle-tolong-term trends.Dendrochronologia,62:125726,doi: 10.1016/j.dendro.2020.125726.   \nSheppardPR,ThompsonTL.2Oo.Efectof extractiononradialvariationof nitrogenconcentration intree rings.Joumalof Environmental Quality,29(6): 2037-2042.   \nStokes MA, Smiley TL.1996.An Introduction to Tree-Ring Dating( $2 ^ { \\mathrm { n d } }$ ed.).Arizona: University of Arizona Press,1-73.   \nTomlinson G,SiegwolfRTW,Buchmann N,etal.2O14.The mobilityof nitrogenacrosstree-ringsof Norwayspruce(Picea abies L.)and the effect of extraction method on tree-ring $\\delta ^ { 1 5 } \\mathrm { N }$ and $\\delta ^ { 1 3 } \\mathrm { C }$ values.Rapid Communications Mass Spectrometry, 28(11): 1258-1264.   \nTrumperML,GrifinD,Hobbie SE,et al.2O20.Century-scale wood nitrogen isotope trajectories fromanoak savana with variable fire frequencies.Biogeosciences,17(18): 4509-4522.   \nvander Slen P,ZuidemaPA,Pons TL.2O17.Stable isotopes in tropical tree rings:theorymethodsandaplications. Functional Ecology, 31(9): 1674-1689.   \nWang KY,Zeng XM,Liu XH,etal.2O20.Nitrogenratherthanstreamflowregulates thegrowthofriparian trees.Chemical Geology, 547(5): 119666,doi: 10.1016/j.chemgeo.2020.119666.   \nXu W, Luo $\\textrm { x s }$ ,Pan YP,et al.2015. Quantifying atmospheric nitrogen deposition through a nationwide monitoring network across China.Atmospheric Chemistry and Physics,15(21):12345-12360.   \nYoneyama T,Fujihara S,Yagi K.1998.Natural abundance of $^ { 1 5 } \\mathrm { N }$ in amino acids and polyamines from leguminous nodules: Unique $^ { 1 5 } \\mathrm { N }$ enrichment in homospermidine.Journal of Experimental Botany, 49(32O): 521-526. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Appendix ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/80e82329c8866fd3331bd1cb594ddf4097b1c4244f8b3e3a731d8fa798d41e00.jpg",
+        "table_caption": [
+            "Table S1Summary statistical analyses,including mean sensitivity, $1 ^ { \\mathrm { s t } }$ autocorrelation and coefficient of variance of the N concentration and stable nitrogen isotope ratio $( \\delta ^ { 1 5 } \\mathbf { N } )$ in tree rings of the extracted wood (solvent-extracted wood and water-extracted wood) and unextracted wood (bulk wood) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Wood section</td><td colspan=\"9\">N concentration</td></tr><tr><td colspan=\"3\">Mean sensitivity</td><td colspan=\"3\">1st autocorrelation</td><td colspan=\"3\">Coefficient of variance</td></tr><tr><td></td><td>Bulk wood</td><td>Solvent- extracted wood</td><td>Water- extracted wood</td><td>Bulk wood</td><td>Solvent- extracted wood</td><td>Water- extracted wood</td><td>Bulk wood</td><td>Solvent- extracted wood</td><td>Water- extracted wood</td></tr><tr><td>Whole wood</td><td>0.083</td><td>0.073</td><td>0.084</td><td>0.702</td><td>0.668</td><td>0.728</td><td>0.272</td><td>0.236</td><td>0.254</td></tr><tr><td>Sapwood</td><td>0.101</td><td>0.091</td><td>0.111</td><td>0.376</td><td>0.325</td><td>0.262</td><td>0.208</td><td>0.188</td><td>0.169</td></tr><tr><td>Heartwood</td><td>0.059</td><td>0.052</td><td>0.051</td><td>0.807</td><td>0.732 815N</td><td>0.829</td><td>0.143</td><td>0.092</td><td>0.121</td></tr><tr><td rowspan=\"3\">Wood section</td><td colspan=\"9\"></td></tr><tr><td colspan=\"3\">Mean sensitivity Solvent- Water- Bulk</td><td colspan=\"3\">1' autocorrelation Solvent-</td><td colspan=\"3\">Coefficient of variance Solvent-</td></tr><tr><td>wood</td><td>extracted wood</td><td></td><td>extracted wood</td><td>Bulk wood</td><td>extracted wood</td><td>Water- extracted wood</td><td>Bulk wood</td><td>extracted wood</td><td>Water- extracted wood</td></tr><tr><td>Whole wood</td><td>0.139</td><td>0.115</td><td>0.135</td><td>0.876</td><td>0.765</td><td>0.889</td><td>0.494</td><td>0.271</td><td>0.492</td></tr><tr><td>Sapwood</td><td>0.262</td><td>0.168</td><td>0.307</td><td>0.472</td><td>0.385</td><td>0.259</td><td>0.450</td><td>0.254</td><td>0.394</td></tr><tr><td>Heartwood</td><td>0.101</td><td>0.088</td><td>0.086</td><td>0.828</td><td>0.452</td><td>0.874</td><td>0.256</td><td>0.108</td><td>0.244</td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/544aac93c84255c431e42f05cefefb809f556299a91ed48c7ba519035bae90fd.jpg",
+        "img_caption": [
+            "Fig. S1Trends simulated by the linear regression of the $\\mathrm { \\Delta N }$ concentration (a) and $\\delta ^ { 1 5 } \\mathrm { { N } }$ (c) in tree rings of the extracted wood (solvent-extracted wood and water-extracted wood) and unextracted wood (bulk wood)，and trends of the N concentration (b) and $\\delta ^ { 1 5 } \\mathrm { { N } }$ (d) of the heartwood and sapwood sections in tree rings of the extracted wood (solvent-extracted wood and water-extracted wood) and unextracted wood (bulk wood) from 196O to 2019. The vertical grey-shaded area indicates the heartwood-sapwood transition zone around the period of 1995-1998. "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/2f8b5563b63922157f1c0bf5676ca958321ec9bebd500f625a543d18daf8cb87.jpg",
+        "table_caption": [
+            "Table S2Statistical analyses of the variations in the $\\mathbf { N }$ concentration and ${ \\delta } ^ { 1 5 } \\mathrm { \\mathbf { N } }$ in tree rings of the extracted wood (solvent-extracted wood and water-extracted wood) and unextracted wood (bulk wood) "
+        ],
+        "table_footnote": [
+            "Note:Variationsintheheartwood,sapwoodandwholewoodarerepresentedbytheslopesof theregressionlines (seeFig.).The coefficient of determination $( R ^ { 2 } )$ is provided. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">Wood</td><td colspan=\"6\">N concentration (%)</td></tr><tr><td colspan=\"2\">Heartwood</td><td colspan=\"2\">Sapwood</td><td colspan=\"2\">Whole wood</td></tr><tr><td>Slope</td><td>R²</td><td>Slope</td><td>R²</td><td>Slope</td><td>R²</td></tr><tr><td>Solvent-extracted wood</td><td>0.00030</td><td>0.532</td><td>0.00096</td><td>0.230</td><td>0.00056</td><td>0.629</td></tr><tr><td>Water-extracted wood</td><td>0.00058</td><td>0.808</td><td>0.00077</td><td>0.110</td><td>0.00082</td><td>0.730</td></tr><tr><td>Bulk wood</td><td>0.00068</td><td>0.831</td><td>0.00113</td><td>0.165</td><td>0.00082</td><td>0.689</td></tr><tr><td rowspan=\"3\">Wood</td><td colspan=\"8\">815N (%0)</td></tr><tr><td colspan=\"2\">Heartwood</td><td colspan=\"2\">Sapwood</td><td colspan=\"2\">Whole wood</td></tr><tr><td>Slope</td><td>R²</td><td></td><td>Slope</td><td>R²</td><td>Slope</td><td>R²</td></tr><tr><td>Solvent-extracted wood</td><td>-0.08</td><td>0.216</td><td>-0.15</td><td>0.129</td><td>-0.17</td><td>0.659</td></tr><tr><td>Water-extracted wood</td><td>-0.23</td><td>0.853</td><td>-0.07</td><td>0.092</td><td>-0.21</td><td>0.888</td></tr><tr><td>Bulk wood</td><td>-0.25</td><td>0.802</td><td>-0.12</td><td>0.167</td><td>-0.22</td><td>0.869</td></tr></table></body></html>",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/69d488aad10c1c66768e79f92d6f3ff608633b2930a3a8f710d845910069961a.jpg",
+        "table_caption": [
+            "Table S3Retrospect of extraction protocols used in the tree-ring $\\delta ^ { 1 5 } \\mathrm { { N } }$ analysis from previous studies "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Method</td><td>Extraction protocol</td><td>Tree species</td><td>N concentration</td><td>815N</td><td>Determination</td><td>Reference</td></tr><tr><td rowspan=\"5\">Sheppard/ Thompson</td><td rowspan=\"5\">S1: 4 h in a 1:1 mixture of toluene/ethanol;</td><td>Ponderosa pine (Pinus ponderosa) and Douglas-fir</td><td>D5.00se (about</td><td>NA</td><td>The variation in N rongsentrationoftee substantially.</td><td>Sheppard and Thompson (2000)</td></tr><tr><td>Beech (Fagus sylvatica)</td><td>Decrease (about 36.000%,from 0.220% to 0.150%)</td><td>Decrease (about 0.4%)</td><td>The interannual resolution of the N and δ15N was improved, but not all mobile N was removed.</td><td>Elhani et al. (2003)</td></tr><tr><td>Beech (F. sylvatica)</td><td>NA</td><td>-5.0%o to -4.5%0--3.5% in the control trees)</td><td>Increase (-6.0%o- Variation in the δ15N signal was decreased, but differences between trees before and after treatment were enhanced.</td><td>Elhani et al. (2005)</td></tr><tr><td>Red pine Pinus</td><td>Decrease (1.000%</td><td>NA</td><td>Higher extractable N in the</td><td>K2wa9 et al.</td></tr><tr><td>Spanish cedar (Cedrela odorata) and big-leaf mahogany (Swietenia</td><td>Decrease (not significantly 1.0%o higher in lower)</td><td>Increase (about the treated wood)</td><td>The proportion of N extractable in the sapwood was not higher than that in the heartwood.</td><td>Hietz et al. (2010)</td></tr><tr><td rowspan=\"3\"></td><td>macrophylla) Norway spruce (Picea abies)</td><td>Decrease</td><td>Increase (slight)</td><td>No significant effect on the tree-ring N and 815N.</td><td>Tomlinson et al. (2014)</td></tr><tr><td>Western redcedar (Thuja plicata) and Douglas-fir</td><td>NA</td><td>Elevated 15N signal found 10 a before the 15N-labeled</td><td>was eliminated ineffectively. The mobile N in tre ringsBunn et al.</td><td>(2017)</td></tr><tr><td></td><td>NA</td><td>Increase of 3.0% with the high N</td><td></td><td>LarTyet al.</td></tr><tr><td></td><td>deionized (DI) water</td><td>(Picea rubens)</td><td>respectively)</td><td></td><td>temporal trends.</td><td></td></tr></table></body></html>",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/c798c77be4b7bd508ac8defc029173b6b1cf24f8680bae009d8a4d6a890e1530.jpg",
+        "table_caption": [
+            "WANG Ziyi etal.: Tree-ring $\\delta ^ { 1 5 } \\mathrm { N }$ of Qinghai spruce in the central Qilian Mountains... "
+        ],
+        "table_footnote": [
+            "Note:NA,not analyzed. "
+        ],
+        "table_body": "<html><body><table><tr><td>Methods</td><td>Extraction protocol</td><td>Tree species</td><td>N concentration</td><td>815N</td><td>Determination</td><td>Reference</td></tr><tr><td>Water-bath</td><td></td><td></td><td></td><td></td><td>No signifiean change</td><td>Bykat (20d5)</td></tr><tr><td>Holocelulose</td><td>S1:16-18 h in a 2:1 DI water</td><td>P.pderos pin</td><td>dbout 10.00)0</td><td>Decrease the labeled trees)</td><td>Relatively small and comre hargibyleffet og he</td><td>C</td></tr></table></body></html>",
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/090919d7238f6ad0008397d846904857fe4b2b3256c512dd08cbe6b000f7d35a.jpg",
+        "img_caption": [
+            "Fig.S2Growth pattern of Qinghai Spruce during the period of 1840-2019. Variations in the tree growth were estimated as the basal area increment (BAI) during the period of 1840-2019.The orange line is smoothed using a 20 a low-pass Fast Fourier Transform (FFT) filter to emphasize the low-frequency variations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/17fc9b852b2effbda8946ba8f185687155313251895c0ccff7fe038800a71012.jpg",
+        "img_caption": [
+            "Fig.S3Temporal trends of annual mean temperature(a) and total precipitation (b)from 1958 to 2019 based on averaging data from two nearby meteorological stations(Qilian and Minle)of the study area.The dashed lines represent the trends simulated by the linear regressons.Annual variation is represented by the slope of the trend line.The coefficient of determination $( R ^ { 2 } )$ and significance $P$ -value are also provided. "
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "BukataAR,KyserTK.Oo5.Responseofthenirogenisotopiccompositionof tre-ingsfollowingtre-clearingndlnd-use change.Environmental Science and Technology,39(2O): 7777-7783.   \nBunnAG,HelfieldJM,GerdtsJR,etal.2O17.Asolvent-basedextractionfailstoremove mobilenitrogen fromwester redcedar (Thuja Plicata).Dendrochronologia,44:19-21.   \nDoucetA,SavardMMeginC,etal.l1.Isoodpretreatmentssntialfore-rngtrogenconcentrationdisotoe analysis? Rapid Communications Mass Spectrometry,25(4): 469-475.   \nElhani S,LemaBF,ZelerB,tal.2Oo3.Inter-anualmobilityofnitrogenbetweenbeechings:alabelingexperimentAnals of Forest Science,60(6): 503-508.   \nElhani S,Guehl JM,Nys C,et al.2Oo5.Impact of fertilization on tree-ring $\\delta ^ { 1 5 } \\mathrm { { N } }$ and $\\delta ^ { 1 3 } \\mathrm { C }$ in beech stands:a retrospective analysis. Tree Physiology,25(11):1437-1446.   \nHart SC,Classen AT.2Oo3.Potential for asessng long-termdynamics insoil nitrogenavailability fromvariations in $\\delta ^ { 1 5 } \\mathrm { { N } }$ of tree rings.Isotopes in Environmental and Health Studies,39(1):15-28.   \nHietzP,Duenisch O,Wanek W.2010.Long-term trendsinnitrogenisotopecompositionandnitrogenconcentrationinBrazilian rainforest trees suggest changes in nitrogen cycle.Environmental Science and Technology,44(4):1191-1196.   \nKwakJH,Lim SS,ParkHJ,etal.209.Relating treeringchemistryof Pinus densiflora toprecipitationacidityinan industrial area of South Korea.Water,Air,and Soil Pollution,199(1):95-106.   \nLary M,CaceresL,MzotaC,etal.Ol1.Efectsofpre-treatmentonthenitrogenisotopecompositioofJapaneseblack pine (Pinus thunbergii)tree-ringsasaffectedbyhighNinput.RapidCommunicationsMas Spectrometry25(21):3298-302.   \nSheppardPR,ThompsonTL.2oo.Efectof extractiononradial variationof nitrogenconcentration intreerings.Jouralof Environmental Quality,29(6): 2037-2042.   \nTomlinsonG,SiegwolfRTW,BuchmannN,etal.2O14.Themobilityofnitrogenacrosstree-ringsofNorwayspruce(icea abies L.)and the effect of extraction method on tree-ring $\\delta ^ { 1 5 } \\mathrm { N }$ and $\\delta ^ { 1 3 } \\mathbf { C }$ values. Rapid Communications Mass Spectrometry, 28(11): 1258-1264. ",
+        "page_idx": 17
+    }
+]

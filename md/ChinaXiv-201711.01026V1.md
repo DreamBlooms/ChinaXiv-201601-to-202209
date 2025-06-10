@@ -1,0 +1,167 @@
+# 笼养和散养蛋鸡小肠细菌菌群区系的聚合酶链式反应-变性梯度凝胶电泳分析
+
+崔一喆」王秋菊1\*李　悦」苏　景²　周亚强」张宇辰1（1.黑龙江八一农垦大学动物科技学院，大庆163319；2.黑龙江省动物疫病预防与控制中心，哈尔滨 150069）
+
+摘要：本试验对笼养和散养蛋雏鸡和成年蛋鸡的小肠中细菌种类进行分析。取8周龄雏鸡和 30 周龄产蛋鸡整个小肠内容物，进行聚合酶链式反应－变性梯度凝胶电泳（PCR-DGGE）分析，结合指纹克隆，研究鸡小肠细菌菌群的DNA指纹图谱。结果显示，共从蛋鸡的肠内容物中分离出39 株细菌，有4个菌门，包括变形菌（2株， $5 . 1 \%$ )，拟杆菌（4株， $1 0 . 2 \%$ )，放线菌（5株， $1 2 . 8 \%$ ）和厚壁菌门（21株， $5 3 . 8 \%$ )，以及7个环境样品(不可培养细菌)。不同阶段蛋鸡不同肠段存在不同的细菌种类，在成年母鸡和自由放养鸡肠道中的细菌种类比雏鸡和笼养鸡丰富。所有分离细菌中，共分离得到10株乳酸菌，除陪伴粪球菌外，其余9株乳杆菌作为微生态制剂后备菌保存。结果提示，饲养模式和饲养阶段对蛋鸡肠道中细菌群落种类分布有很大影响，散养模式细菌群落更丰富，成年鸡较雏鸡肠道细菌多。
+
+关键词：蛋鸡；笼养；散养；PCR-DGGE；菌群鉴定中图分类号：S811.6 文献标识码：A 文章编码：1006-267X(2016)00-0000-00
+
+家禽肠道是一个复杂而多样的生态环境，其体内微生物超过 400 种，这些微生物对宿主的正常发育和营养物质的消化吸收起着重要的作用。长期以来，由于微生物形态过于简单，缺乏明显的外部特征，人们对环境中细菌菌群结构的了解不多。随着基于16S rDNA 分子技术的发展，更全面更深入地了解微生物菌落结构成为可能，其中变性梯度凝胶电泳/温度梯度凝胶电泳（DGGE/TGGE）技术被用于检测人类[1]、猪[2]、鸡[3]等动物胃肠道主要细菌的结构和多样性[4]。肠道菌群失调会减弱机体对营养物质的吸收率，降低机体免疫力，削弱肠道的屏障功能[5]，影响畜禽的生长和健康，所以对肠道微生物是否会导致动物肠道功能紊乱等相关研究十分迫切。目前，对宿主与肠道微生物之间相互作用的了解非常有限，直接限制了对动物肠道微生物与肠道功能的研究。因此，本研究通过特定细菌物种通用引物聚合酶链式反应－变性梯度凝胶电泳（PCR-DGGE）方法，对笼养和散养的雏鸡及产蛋鸡所有肠道肠内容物菌群16S rDNAV3区进行PCR-DGGE 指纹图谱比较分析，研究不同饲养方式下不同生长阶段蛋鸡十二指肠、空肠、回肠和盲肠中细菌种群结构和多样性的发育性变化，旨在为了解家禽肠道菌群结构和分离特异性有益菌提供理论依据。
+
+# 1材料与方法
+
+# 1.1 试验动物与样品采集
+
+试验动物分别选自大庆兴和牧业蛋鸡养殖场的笼养蛋鸡和大庆林甸散养蛋鸡，品种均为海蓝灰蛋鸡系。随机选取体重相近的8和30周龄的笼养与散养蛋鸡各25只，剖杀，取全部小肠，同时分别取相同周龄饲养方式相同的每5只鸡的十二指肠、空肠、回肠和盲肠的肠道内容物并分别混匀，按每管 $_ { \textrm { 1 g } }$ 分装至 $5 \mathrm { m L }$ 离心管中， $- 2 0 \ \mathrm { { ^ circ C } }$ 保存。
+
+# 1.2 DNA提取
+
+采用十二烷基硫酸钠（SDS）高盐抽提法提取样品基因组DNA[6。用细菌基因组DNA提取试剂盒（上海海博生物有限公司）进行过柱纯化和溶解，最终总DNA溶于 $3 0 ~ \mu \mathrm { L }$ 无菌水中， $- 2 0 \ \mathrm { { ^ circ C } }$ 保存。
+
+# 1.3细菌16SrDNA片段的PCR扩增
+
+以样品基因组DNA为模板，采用细菌通用引物GC-338F和518R扩增样品16S rDNA高变区序列（表1）[7]。
+
+PCR 扩增体系（ ${ 5 0 } ~ \mu \mathrm { L }$ ）为： $1 0 \times$ PCR buffer ${ 5 \mu \mathrm { L } }$ ； dNTP（2.5 mmol/L） $3 . 2 ~ \mu \mathrm { L }$ ；rTaq（ $5 \mathrm { U / \mu L }$ ） $0 . 4 ~ \mu \mathrm { L }$ ； GC-338F（20 mmol/L） $1 ~ \mu \mathrm { L }$ ； 518R（20 mmol/L） $1 ~ \mu \mathrm { L }$ ；模板DNA $5 0 \mathrm { n g }$ 补 $\mathrm { \ d d H _ { 2 } O }$ 至 ${ 5 0 \mu \mathrm { L } }$ 。PCR扩增程序为： $9 4 ~ \mathrm { ^ { \circ } C }$ 预变性 $5 \mathrm { m i n }$ ; $9 4 ~ \mathrm { ^ { \circ } C }$ 变性 $1 \mathrm { m i n }$ ， $5 5 \ \mathrm { ^ \circ C }$ 复性 $4 5 \mathrm { ~ s ~ }$ $7 2 \ \mathrm { { ^ \circ C } }$ 延伸 $1 \mathrm { m i n }$ ，30个循环；最终 $7 2 \ \mathrm { { ^ \circ C } }$ 延伸 $1 0 \mathrm { m i n }$ 。PCR产物采用OMEGA公司DNAGelExtraction Kit 纯化回收。
+
+PCR仪为Biometra公司生产的T-Gradient,凝胶成像仪为Bio-Rad公司的Gel-Doc2000凝胶成像系统。
+
+表1引物及序列  
+Table1Primer and sequences   
+
+<html><body><table><tr><td>引物Primer</td><td>序列 Sequence</td></tr><tr><td>338F</td><td>CCTACGGGAGGCAGCAG</td></tr><tr><td>518R</td><td>ATT ACC GCG GCT GCTGG</td></tr><tr><td>GC-338F</td><td>CGCCCGGGGCGCGCCCCGGGGCGGGGCGGGGGCGCGGGGGG</td></tr><tr><td></td><td>CCTACGGGAGGCAGCAG</td></tr></table></body></html>
+
+1.4PCR 产物的DGGE 分析
+
+取 $1 0 ~ \mu \mathrm { L }$ PCR产物进行DGGE分析。采用变形梯度为 $3 5 \% \sim 5 5 \%$ 、浓度为 $8 \%$ 的聚丙烯酰胺凝胶，化学变性剂为 $100 \%$ 尿素 $7 \ \mathrm { m o l / L }$ 和 $40 \%$ （体积分数）的丙烯酰胺，在 $1 { \times } \mathrm { T A E }$ 缓冲液中 $1 5 0 \mathrm { V }$ 、 $6 0 \ \mathrm { { ^ \circ C } }$ 下电泳 $5 \mathrm { h }$ 。
+
+# 1.5DGGE 图谱中优势条带的回收与测序
+
+用灭菌的手术刀切下待回收DGGE 条带，采用 OMEGA 公司Poly-GelDNA Extraction
+
+Kit回收目的条带。以 $2 ~ \mu \mathrm { L }$ 回收产物为模板，338F/518R为引物进行PCR扩增。将重新扩增的DNA片段切胶回收、纯化后，连接到PMD18-T载体上，并转化至DH5α感受态细胞中，筛选阳性克隆，菌液由北京华大基因研究中心对插入的细菌16SrDNA片段进行序列测定。
+
+# 1.6 数据分析
+
+用Quantity One 软件对鸡各段肠道分离的细菌的PCR-DGGE 指纹图谱进行条带计数和模拟，在GenBank中使用Blast程序进行同源性比较，获得最相似典型菌株的16S rDNA序列。
+
+# 2结果与分析
+
+# 2.1 PCR产物的DGGE
+
+分别从8和 30 周龄笼养和散养蛋鸡的十二指肠、空肠、回肠和盲肠内容物中提取总DNA，经电泳分析，各肠道内容物总DNA分子量相近，均在2000 bp 以上，说明总 DNA提取一致。以鸡各肠道内容物提取的细菌总DNA为模版，以GC-338F 和518R为引物扩增16S rDNA序列、得到约200 bp 的DNA片段用于DGGE分析。
+
+样品16SrDNAPCR产物的DGGE 分析结果如图1。小肠内容物的特定菌群分析表明，细菌通用引物扩增中16个样本中均得到16S rDNAV3区片段，利用上述已得到片段 16SrDNAV3区进行PCR-DGGE 指纹图谱和聚类分析。不同饲养模式不同年龄鸡小肠肠道细菌种类丰富，且不相同。共分离 35 条带，十二指肠、空肠、回肠和盲肠中细菌总条带数，8周龄笼养雏鸡分别为8、12、8和9条，散养雏鸡分别有8、13、14和9条；笼养成年蛋鸡分别有13、12、9和9条，散养成年蛋鸡分别有16、15、13和10条。各鸡各肠道中虽然有些共性条带，但30 周龄成年蛋鸡肠道菌种数量多于8周龄雏鸡肠道菌种数量，散养鸡肠道细菌总数多于笼养鸡，且均以十二指肠中细菌总数差别最大。
+
+![](images/18e6f4f1e2c076c425943572e27bc37c60a1b0a00e38ba3dd91333f24a76b019.jpg)
+
+8 和 30代表周龄；字母F表示散养，C表示笼养；1\~4，5\~8，9\~12，13\~16分别为各鸡十二指肠、空肠、回肠和盲肠细菌。
+
+8 and 30 mean week of age; F means free range and C means cage range; 1 to 4,5 to 8,9 to 12,and 13 to 16 mean bacteria from duodenum, jejunum,ileum and cecum of chicken,respectively
+
+# 图1DGGE条带分析结果
+
+2.2各样品之间的细菌群落结构相似性
+
+从各鸡小肠中共分离出39株菌，根据各肠道中总细菌种属数量中的相同细菌种属的比例，进行菌种遗传相似系数计算，非加权分组平均法（UPGMA）聚类图如图2所示。
+
+不同饲养模式雏鸡和成年蛋鸡不同肠道中细菌群落的组成有很大差异。相同周龄相同肠道组织中菌种遗传相似系数很低，30 周龄散养和笼养蛋鸡小肠中细菌菌种相似系数为$1 8 . 9 \% { \sim } 3 3 . 5 \%$ ；8周龄散养和笼养蛋鸡小肠中细菌菌种相似系数为 $1 7 . 0 \% { \sim } 3 3 . 3 \%$ 。相同饲养模式下，不同周龄蛋鸡相同肠道组织中菌种相似系数较高。散养条件下，8和30周龄蛋鸡各肠道细菌菌种相似系数为 $1 9 . 4 \% { \sim } 3 5 . 2 \%$ ；笼养条件下，8和30周龄蛋鸡各肠道细菌菌种相似系数为 $3 3 . 1 \% { \sim } 4 9 . 1 \%$ ，明显高于散养条件下不同周龄蛋鸡肠道菌群分布的相似性，说明笼养环境相对稳定，散养环境复杂，散养环境下鸡只采食的细菌类别可变性较大。菌群相似性指数是测量群落间或样方间相似程度指数指标，相似性指数的高低说明细菌群落相似程度，也可间接地说明共性菌群以外的菌群情况。由上述结果中可知，不同饲养环境不同周龄鸡肠道菌群组成差别较大，饲养模式、周龄及肠道部位均影响鸡肠道中细菌的多样性。
+
+![](images/ec716ef5b0ebea0560149cbcfa7d54b36f41b788aa777d339b4a8905402cac37.jpg)  
+Fig.1Analysis results of DGGE bands   
+图2 UPGMA聚类图  
+Fig.2Dendrogram based on the unweighted pair-group method analysis (UPGMA)
+
+2.3主要电泳条带的序列测定
+
+DGGE 凝胶条带回收后，以338F/518R为引物进行PCR 扩增，获得约 $2 0 0 \mathrm { b p }$ 的DNA片段。PCR产物纯化后连接到pMD18-T载体上，转化至 $\mathrm { D H } 5 \mathrm { a }$ 感受态细胞中，筛选阳性克隆测序。指纹图谱中分别割胶回收测序结果见表2，测序结果与GenBank中的序列进行比对，得到条带所代表的细菌类型，绘制系统发育树，如图3所示。在39个测序结果中，与GenBank数据库中微生物的同源性绝大多数均大于 $9 2 \%$ ，有的同源性甚至达到 $100 \%$ 。
+
+经鉴定，蛋鸡小肠中细菌种类分为4个菌门，为变形菌（Proteobacteria）、拟杆菌（Bacteroidetes）、放线菌（Actinobacteria）、厚壁菌（Firmicutes）以及环境样品（environmentalsamples）。其中2株变形菌（占总菌比例 $5 . 1 \%$ ）为鲁氏不动杆菌（Acinetobacterlwoffii）（条带8）和哥假黄单胞菌（Pseudoxanthomonas mexicana）（条带21），均仅在散养鸡肠道中检测到，分别为8周龄雏鸡的空肠和30 周龄成年蛋鸡的回肠中。4株拟杆菌（占总菌比例 $1 0 . 2 \%$ ）,为蓝斑拟杆菌（Bacteroides plebeius）（条带2）、丁酸弧菌（Butyricimonas virosa)（条带13_2）、克拉副普氏菌（Paraprevotellaclara）（条带14）和Alistipesputredinis（条带33），其中条带2为相似度 $89 \%$ 的蓝斑拟杆菌亚种，与条带3同源的丁酸弧菌存在各鸡的小肠中；条带14为相似度 $7 2 \%$ 的克拉副普氏菌变种，在散养鸡肠道中和8周龄的笼养鸡空肠中检测到；而条带33 同源菌Alistipes putredinis 仅在成年蛋鸡小肠中发现。
+
+5 株放线菌（占总菌比例 $1 2 . 8 \%$ ）包括2株阴道加德菌（Gardnerellavaginalis）（条带28 和 29），3株螺旋链霉菌（Streptomyces spiralis）（条带30、31和32），其中条带 28 和29是相似度 $9 2 \%$ 的变种，同源于阴道加德菌；条带 30、31和32为相似度 $100 \%$ 的同源螺旋链霉菌；条带 28同源的阴道加德菌和条带30、31和32 同源的螺旋链霉菌存在各鸡小肠中;而阴道加德菌（条带29）仅在30 周龄散养成年蛋鸡肠道中发现。
+
+本试验分析的39 株细菌中，有21株为厚壁菌（占总菌比例 $5 3 . 8 \%$ )，是蛋鸡小肠中的优势菌群。其中乳酸菌（Lactobacillus）属共有10株（占总菌比例 $2 5 . 6 \%$ )，是厚壁菌中的优势菌属（占 $4 7 . 6 \%$ )，包括3株鸟乳酸菌（Lactobacillusaviaries）、3株棉子糖乳酸菌（Lactococcusraffinolactis）、1 株敏捷乳杆菌（Lactobacillus agilis）、1 株陪伴粪球菌（Coprococcus comes）、1株同代乳杆菌（Lactobacillus equigenerosi）和1株嗜酸乳杆菌（Lactobacillusacidophilus）。30周龄散养和笼养成年蛋鸡小肠中各检测到7株乳酸菌，而8周龄的雏鸡小肠中分别检测到5株（散养）和6株（笼养)。各鸡小肠均有的共同乳酸菌为3种，分别是鸟乳酸菌（条带4、5和23）、棉子糖乳酸菌（条带6和25）和同代乳杆菌（条带15_1)；其中条带 4和条带 23相似性仅为 $31 \%$ ，与鸟乳酸菌相似性仅为$2 7 \%$ ，而他们与条带5的相似性达 $9 8 \%$ ，说明条带4和23为鸟乳酸菌的新种；条带15与同代乳杆菌的相似性仅为 $3 6 \%$ ，在各鸡小肠中均检测到，为鸡肠道中共同菌种；棉子糖乳酸菌（条带6_1和6_2）在各鸡小肠中存在，但在十二指肠中未检测到，是鸡后段小肠中存在的共同菌种。敏捷乳杆菌（条带11）、陪伴粪球菌（条带12）和嗜酸乳杆菌（条带34）为不同日龄鸡特有的乳酸菌种。其中条带11与敏捷乳杆菌相似度为 $87 \%$ ，是敏捷乳杆菌的亚种，仅分离自8周龄笼养和散养的小鸡肠道中，30 周龄成年鸡肠道中未发现;条带12与陪伴粪球菌的相似度为 $70 \%$ ，是陪伴粪球菌的变种，仅分离自30周龄笼养和散养的成年蛋鸡小肠中，8周龄雏鸡肠道中未发现；条带34与嗜酸乳杆菌相似性为 $84 \%$ ，是嗜酸乳杆菌的亚种，仅在散养30 周龄鸡的十二指肠中检测到，在其他鸡肠道中均未检测到，是散养成年鸡小肠中特有菌种。
+
+厚壁菌中有6株梭菌属（Clostridium）（占总菌的 $1 5 . 4 \%$ )，分别为普氏梭杆菌(Fusobacterium plautii）（条带1）、第三梭状芽孢杆菌(Clostridium tertium)（条带7）、缓腐梭菌(Clostridium lentocellum)（条带17）、艰难梭菌(Clostridium difficile)（条带24）、煎盘梭菌(Clostridium sartagoforme）（条带 26）和不规则梭菌(Clostridium irregulare）（条带27）。其中普氏梭杆菌、第三梭状芽孢杆菌和煎盘梭菌在各鸡小肠中检测到，是鸡的共同梭菌;而条带1与普氏梭杆菌相似性为 $9 2 \%$ ，是普氏梭杆菌的亚种，条带17与缓腐梭菌相似性为$90 \%$ ，是缓腐梭菌的亚种，条带26与煎盘梭菌相似性为 $9 0 \%$ ，为煎盘梭菌的亚种。条带7与第三梭状芽孢杆菌相似度仅为 $32 \%$ ，仅在成年蛋鸡肠道中检测到，雏鸡小肠中不存在或未检出；条带27与不规则梭菌相似性为 $89 \%$ ，是不规则梭菌变种，仅在散养雏鸡小肠中发现，而在其他鸡小肠中未检出；条带24与艰难梭菌相似性为 $8 5 \%$ ，是艰难梭菌变种，是雏鸡小肠共同菌株，而在成年散养蛋鸡小肠中未发现。厚壁菌中还有4株菌，分别为鲁梅利杆菌(Rummeliibacillus stabekisii)、普氏粪杆菌(Faecalibacterium prausnitzii)以及加洛链球菌(Streptococcus gallolyticus)。这3株菌在散养成年蛋鸡小肠中均检测到，且与普氏粪杆菌同源的条带9是散养成年蛋鸡小肠中特有菌属，而与鲁梅利杆菌同源的条带3和与加洛链球菌同源的条带10在散养雏鸡小肠中也检测到。
+
+另在鸡肠道中检测到7株环境样品（占总菌比例 $1 7 . 9 \%$ ）是不可培养菌(unculturedbacterium)(条带13_1、16、18、19、20、22 和35)，且这7株菌相似性均高于 $9 7 \%$ ，在各鸡小肠中均有发现，普遍存在鸡肠道中。
+
+以上结果说明，饲养模式和肠道部位影响鸡肠道细菌的结构。
+
+表2细菌种属分析结果  
+Table 2Analytic results of bacterial species   
+
+<html><body><table><tr><td>条带编号 Band No.</td><td>最相似菌株名称 The most similarstrains' name</td><td></td><td>登录号 Accession No.</td><td>相似度 Similarity/%</td><td>菌门Bacterial phylum</td></tr><tr><td>1</td><td></td><td>普氏梭杆菌Fusobacterium plautii</td><td>NR_029356</td><td>97</td><td>厚壁菌Firmicutes</td></tr><tr><td>2</td><td></td><td>蓝斑拟杆菌 Bacteroides plebeius</td><td>NR_041277</td><td>99</td><td>拟杆菌 Bacteroidetes</td></tr><tr><td>3</td><td></td><td>鲁梅利杆菌Rummeliibacillus stabekisii</td><td>NR_043992.1</td><td>99</td><td>厚壁菌Firmicutes</td></tr><tr><td>4</td><td></td><td>鸟乳酸菌Lactobacillus aviaries</td><td>NR_044703.1</td><td>98</td><td>厚壁菌Firmicutes</td></tr><tr><td>5</td><td></td><td>鸟乳酸菌 Lactobacillus aviaries</td><td>NR_044703.1</td><td>98</td><td>厚壁菌Firmicutes</td></tr><tr><td>6_1</td><td></td><td>棉子糖乳球菌 Lactococcus raffinolactis</td><td>NR_044359.1</td><td>100</td><td>厚壁菌Firmicutes</td></tr><tr><td>6_2</td><td></td><td>棉子糖乳球菌 Lactococcus raffinolactis</td><td>NR_044359.1</td><td>99</td><td>厚壁菌Firmicutes</td></tr><tr><td>7</td><td></td><td>第三梭状芽孢杆菌Clostridium tertium</td><td>NR_037086.1</td><td>95</td><td>厚壁菌Firmicutes</td></tr><tr><td>8</td><td>鲁氏不动杆菌 Acinetobacter lwoffii</td><td></td><td>NR_026209.1</td><td>98</td><td>变形菌Proteobacteria</td></tr><tr><td>9_1</td><td>普氏粪杆菌Faecalibacteriumprausnitzii</td><td></td><td>NR_028961.1</td><td>95</td><td>厚壁菌 Firmicutes</td></tr><tr><td>9_2</td><td>普氏粪杆菌Faecalibacteriumprausnitzii</td><td></td><td>NR_028961.1</td><td>96</td><td>厚壁菌 Firmicutes</td></tr><tr><td>10</td><td>加洛链球菌 Streptococcus gallolyticus</td><td></td><td>NR_074849.1</td><td>99</td><td>厚壁菌 Firmicutes</td></tr><tr><td>11</td><td>敏捷乳杆菌Lactobacillus agilis</td><td></td><td>NR_044700.1</td><td>98</td><td>厚壁菌 Firmicutes</td></tr><tr><td>12</td><td>陪伴粪球菌 Coprococcus comes</td><td></td><td>NR_044048.1</td><td>92</td><td>厚壁菌Firmicutes</td></tr><tr><td>13_1</td><td>不可培养菌 Uncultured bacterium</td><td></td><td>HM192239.1</td><td>100</td><td>环境样本</td></tr></table></body></html>
+
+<html><body><table><tr><td>13_2</td><td>丁酸弧菌 Butyricimonas virosa</td><td>NR_041691.1</td><td>92</td><td>拟杆菌 Bacteroidetes</td></tr><tr><td>14</td><td>克拉副普氏菌 Paraprevotella clara</td><td>NR_041626.1</td><td>96</td><td>拟杆菌 Bacteroidetes</td></tr><tr><td>15_1</td><td>同代乳杆菌 Lactobacillus equigeneros</td><td>NR_041566.1</td><td>95</td><td>厚壁菌Firmicutes</td></tr><tr><td>15_2</td><td>克劳森球菌 Pediococcus claussenii</td><td>NR_075029.1</td><td>95</td><td>厚壁菌Firmicutes</td></tr><tr><td>16</td><td>不可培养菌 Uncultured bacterium</td><td>JQ013040.1</td><td>100</td><td>环境样本</td></tr><tr><td>17</td><td>缓腐梭菌 Clostridium lentocellum</td><td>NR_026101.1</td><td>96</td><td>Environmental samples 厚壁菌Firmicutes</td></tr><tr><td>18</td><td>不可培养菌 Uncultured bacterium</td><td>JN021901.1</td><td>99</td><td>环境样本</td></tr><tr><td>19</td><td>不可培养菌 Uncultured bacterium</td><td>AB666120.1</td><td>99</td><td>Environmental samples 环境样本</td></tr><tr><td>20</td><td>不可培养菌 Uncultured bacterium</td><td>EU473569.1</td><td>99</td><td>Environmental samples 环境样本</td></tr><tr><td>21</td><td>哥假黄单胞菌 Pseudoxanthomonas</td><td>NR_025105.1</td><td>99</td><td>Environmental samples 变形菌 Proteobacteria</td></tr><tr><td>22</td><td>mexicana</td><td></td><td></td><td>环境样本</td></tr><tr><td>23</td><td>不可培养菌 Uncultured bacterium</td><td>AB506418.1</td><td>99</td><td>Environmental samples</td></tr><tr><td>24</td><td>鸟乳酸菌 Lactobacillus aviaries</td><td>NR_044703.1</td><td>98</td><td>厚壁菌Firmicutes</td></tr><tr><td>25</td><td>艰难梭菌 Clostridium difficile</td><td>NR_074454.1</td><td>100</td><td>厚壁菌 Firmicutes</td></tr><tr><td></td><td>棉子糖乳球菌 Lactococcus raffinolactis</td><td>NR_044359.1</td><td>100</td><td>厚壁菌Firmicutes</td></tr><tr><td>26</td><td>煎盘梭菌 Clostridium sartagoforme</td><td>NR_026490.1</td><td>99</td><td>厚壁菌 Firmicutes</td></tr><tr><td>27</td><td>不规则梭菌 Clostridium irregulare</td><td>NR_029249.1</td><td>100</td><td>厚壁菌Firmicutes</td></tr><tr><td>28</td><td>阴道加德菌 Gardnerella vaginalis</td><td>NR_044694.1</td><td>96</td><td>放线菌Actinobacteria</td></tr><tr><td>29</td><td>阴道加德菌 Gardnerella vaginalis</td><td>NR_044694.1</td><td>96</td><td>放线菌 Actinobacteria</td></tr><tr><td>30</td><td>螺旋链霉菌 Streptomyces spiralis</td><td>NR_044142.1</td><td>100</td><td>放线菌Actinobacteria</td></tr><tr><td>31</td><td>螺旋链霉菌 Streptomyces spiralis</td><td>NR_044142.1</td><td>100</td><td>放线菌 Actinobacteria</td></tr><tr><td>32</td><td>螺旋链霉菌 Streptomyces spiralis</td><td>NR_044142.2</td><td>99</td><td>放线菌 Actinobacteria</td></tr><tr><td>33 34</td><td>Alistipes putredinis 嗜酸乳杆菌 Lactobacillus acidophilus</td><td>NR_025909.1 NR_075049.1</td><td>99 99</td><td>拟杆菌 Bacteroidetes 厚壁菌 Firmicutes</td></tr><tr><td></td><td></td><td></td><td></td><td>环境样本</td></tr><tr><td>35</td><td>不可培养菌 Uncultured bacterium</td><td>JX183818.1</td><td>100</td><td>Environmental samples</td></tr></table></body></html>
+
+31j Band 4 27 Band 23 98 Lactobacillus aviarius NR 044703.1 68 Band 5 Lactobacillus agilis NR 044700.1 84Band 11 27 87 Lactobacillus acidophilus NR 07504 43 Band 34 Lactobacillus equigenerosi NR 0415 29 34 ：Pediococcus claussenii NR 075029.1 36 Band 15-1 84Band 15-2 100Streptococcus gallolyticus NR 074i Band 10 83 73 Band 25 99 Band 6-1 28 Lactococcus raffinolactis NR 044359 77 30L Band 6-2 Rummeliibacillus stabekisii NR 043992.1 99 Band 3 32 Band 7 Clostridiu tertium NR 037086.1 90 Clostridium sartagoforme NR 026490.1 Band 26 9 53 85Clostridium difficile NR 074454.1 Band 24 98 Clostridium irregulare NR 029249.1 89Band 27 Faecalibacterium praus nitzii NR 028961.1 98 Band 9-1 86Band 9-2 Uncultured bacterium AB506418.1 100Band 22 12 Coproce Cus comes NR 044048.1 70 Band 12 90 Clostridium lentocellum NR 026101.1 Band 17 15 Streptomyces spiralis NR 044142.1 27 Band 30 100Band 31 Band 32 Gardnerella vaginalis NR 044694.1 100 Band 28 92 Band 29 100Uncultured bacterium JNo21901.1 1Band 18 30 97UnculturedbacteriumJQ0130401 100 Uncultured bacterium JX183818.1 100 Band 35 92 Flavonifractor plautii NR 029356.1 Band 1 Acinetobacter Iwofi NR 026209.1 Band8 udoxanthomonas mexicana NR 025105.1 31 52 99Band 21 Uncultured bacterium EU473569.1 100Band 20 Band 13-1 41 68 Band 13-2 100 Uncultured bacterium clone HM192239.1 Butyricimonas virosa NR 041691.1 100Alistipes putredinis NR 025909.1 92 Band 33 99Uncultured bacterium AB666120.1 83 Band 19 89Bacteroides plebeius NR 041277.1 81 Band 2 63 Paraprevotella clara NR 041626.1 72 Band 14 0.02
+
+3讨论
+
+肠道微生物可通过养分的利用和胃肠道系统的发育来影响宿主的营养、健康和生长性能。肠道微生物菌群的组成，会对宿主的健康和生长产生影响。对人类[8]、猪[9、鸡等的研究结果均证实不同个体肠道菌群指纹图谱有差异，即使是饲养于相同环境、饲喂相同饲料、相互接触的同龄鸡，都会表现出不同的带谱，说明宿主因素对肠道菌群的组成影响很大。由于动物种类[10]、饲养环境、温度[1]等均影响肠道菌群结构，且基于传统培养方法很难全面地反映或比较肠道菌群的结构特征，本研究采用先进且有效的DGGE 技术对笼养和散养模式下8和30周龄海蓝褐蛋鸡十二指肠、空肠、回肠和盲肠内容物中细菌组成进行研究，分析不同饲养方式下蛋鸡肠道中微生物类群发育性变化。从所有鸡整个小肠中发现35个菌属的细菌，散养鸡较笼养鸡小肠中细菌种属相对较多，散养雏鸡整个小肠中细菌总数较笼养雏鸡的多7株，而散养成年蛋鸡比笼养成年蛋鸡小肠细菌总数多11株；相同饲养模式，成年鸡肠道菌群较雏鸡阶段丰富，主要表现在十二指肠中细菌数量相差较多，空肠之后的肠道中细菌总数相差不多。如散养条件下，雏鸡十二指肠细菌有8株，成年蛋鸡有16株；笼养条件下，雏鸡十二指肠有8株细菌，成年蛋鸡有13株，证实禽的生活环境对肠道中菌的生存有很大影响。
+
+为了开发动物用益生菌制剂菌，在各个肠道均存活的乳酸菌株将作为后备菌进行研究。本研究从鸡各肠道分离出乳酸菌株共10 株。目前，关于同代乳杆菌的研究报道仅有3篇[12-14]，且均是从马的肠道中分离出来或是做成微生态制剂饲喂马。对该菌进行生物学特性研究发现，同代乳杆菌具有高耐酸耐胆盐能力，可以在pH为3.0的环境存活，对肠上皮细胞黏附力高达 $60 \%$ 以上，没有致病性，且能够降低马血液胆固醇含量和尿素含量，可作为益生菌进行开发。本研究首次从笼养蛋雏鸡肠道中分离出同代乳杆菌，根据以上研究结果显示，同代乳杆菌可以作为蛋鸡用微生态制剂的后备菌在未来试验中进一步研究。鸟乳酸菌仅在Waters 等[15]的一篇综述中提到过，可能作为微生态制剂菌，没有发现其他的相关研究报道。关于敏捷乳杆菌的研究有3个，最早的研究是Palop 等[6]研究发现一株敏捷乳杆菌R16 能够在含有芥末籽提取物的环境中生长，并可以降解硫甙，说明该菌具有一定的生命抗性和生物活性；Baele 等[17证实敏捷乳杆菌为鸽子肠道中乳酸菌属的重要组成部分；最近的研究，即 Stephenson 等[18]研究发现，敏捷乳杆菌为肉鸡肠道常驻乳酸菌属菌株，具有高黏附和定植力，并具有高效表达抗菌蛋白的功能；本研究发现了敏捷乳杆菌，通过以上研究的对比，说明该菌在禽类肠道具有很好的定植的能力和适应性，因此敏捷乳杆菌可作为微生态制剂菌进行进一步研究。
+
+关于棉子糖乳球菌的研究都是近两年的，且均为发酵牛奶中关于该菌的研究[19-20]，至今没有从禽肠道中分离鉴定该菌的研究，但Meslier等[19]的研究中提到棉子糖乳球菌为环境中的常见乳酸菌，而本研究在鸡肠道中分离出该菌，根据前人研究它的促发酵作用，该菌具有微生态制剂后备菌的特性，具体应用效果有待于进一步研究。关于陪伴粪球菌的研究，多数为20世纪90年代前的[21l，最近的仅有1篇，为Graessler等[22]的研究，均是说明陪伴粪球菌在肠道中数量的增多与克罗恩氏病（节段性肠炎）有关，因此该菌不可作为微生态制剂菌。
+
+此外，鸡各肠道还有3株非乳酸菌属共同菌，为1株鲁梅利杆菌和2株阴道加德菌。而其中阴道加德菌，有多个研究表明该菌为致病菌[23-24]，会产生生殖道炎症，因此不可作为益生菌制剂后备菌研究。目前，直接研究鲁梅利杆菌菌属的报道仅有2篇[25-26]，均是从土壤中分离并鉴定的，但是Vaishampayan 等[25]分离出的鲁梅利杆菌，经测定严格需氧，耐高盐， $2 8 { \sim } 3 2 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 生长良好；而Her 等[26]分离出的鲁梅利杆菌菌株不耐盐( $\mathrm { \Delta N a C l { < } 1 } . 5 \%$ )，也不耐酸（ $\mathrm { p H } 5 { \sim } 1 0 )$ ，不具有微生态制剂菌的优良特性。因此本研究分离出的芽孢杆菌属鲁梅利杆菌，是否可作为微生态制剂制备菌，有待于进一步的研究确定。
+
+4结论
+
+$\textcircled{1}$ 饲养模式和饲养阶段对鸡肠道中细菌群落种类分布有很大影响，散养模式细菌群落更丰富，成年鸡较雏鸡肠道细菌多；肠道不同肠段决定细菌种类的多样性和特异性，尤其是小肠入口的十二指肠是各鸡细菌种类差异最明显的肠段。
+
+$\textcircled{2}$ 本研究分离鉴定出9株乳酸菌和1株芽孢杆菌，其中除同代乳杆菌已在马属动物上作为微生态制剂菌应用过外，鸟乳酸菌、敏捷乳杆菌、棉子糖乳球菌及鲁梅利杆菌是否可作为微生态制剂制备菌，均有待于进一步的研究确定，可作为后备菌保存。
+
+# 参考文献：
+
+[1] ZWIELEHNER J,LASSL C,HIPPE B,et al.Changes in human fecal microbiota due to chemotherapyanalyzedbyTaqMan-PCR,454sequencingandPCR-DGGE fingerprinting[J].PLoS One,2011,6(12):e28654,doi:10.1371/journal.pone.0028654.   
+[2] KONSTANTINOV S R,ZHU W Y,WILLIAMS B A,et al.Effect of fermentable carbohydrates on piglet faecal bacterial communities as revealed by denaturing gradient gel electrophoresis analysis of 16S ribosomal DNA[J].FEMS Microbiology Ecology,2003,43(2):225-235.   
+[3] WIELEN P W J J,KEUZENKAMP D A,LIPMAN L J A,et al.Spatial and temporal variation of the intestinal bacterial community in commercially raised broiler chickens during growth[J].Microbial Ecology,2002,44(3):286-293.   
+[4] FLOREZ A B,MAYO B.PCR-DGGE as a tool for characterizing dominant microbial populationsintheSpanishblue-veinedCabralescheese[J].InternationalDairy Journal,2006,16(10):1205-1210.   
+[5] ZOETENDAL E G,COLLIER C T,KOIKE S,et al.Molecular ecological analysis of the gastrointestinal microbiota:a review[J].The Journal of Nutrition,2004,134(2):464-472.   
+[6] TAPIA-PANIAGUA S T,CHABRILLON M,DIAZ-ROSALES P,et al.Intestinal microbiota diversityofthe flat fish Solea senegalensis(Kaup,1858) followingprobiotic administration[J].Microbial Ecology,2010,60(2):310-319.   
+[7] FLIEGEROVA K,MRAZEK J,KAJAN M,et al.The effect of maize silage as co-substrate for
+
+swine manure on thebacterial communitystructure in biogasplants[J].Folia Microbiologica,2012,57(4):281-284.
+
+[8] NADAL I,DONANT E,RIBES-KONINCKX C,et al.Imbalance in the composition of the duodenalmicrobiotaofchildrenwithcoeliacdisease[J].JournalofMedical Microbiology,2007,56(12):1669-1674.   
+[9] WANG S P,BO M J,KONG X F,et al.16S rRNA gene-based analysis of ileal bacterial community and phylogeny in nursing and weaned piglets[J].Animal Husbandry and Feed Science,2009,1(4/5):12-17.   
+[10] LI X M,YU Y H,FENG W S,et al.Host species as a strong determinant of the intestinal microbiota of fish larvae[J].The Journal of Microbiology,2012,50(1):29-37.   
+[11] LU Y C,LI N,GONG D L,et al.The efect of temperature on the structure and function of a cellulose-degrading microbial community[J].Applied Biochemistry and Biotechnology,2012,168(2):219-233.   
+[12] ENDO A,ROOS S,SATOH E,et al.Lactobacillus equigenerosi sp.nov.,a coccoid species isolated from faeces of thoroughbred racehorses[J].International Journal of Systematic and Evolutionary Microbiology,2008,58(Pt 4):914-918.   
+[13] MORITA H,NAKANO A,SHIMAZU M,et al.Lactobacillus hayakitensis,L. Equigenerosi andL.equi,predominantlactobacilliintheintestinalfloraofhealthy thoroughbreds[J].Animal Science Journal,2009,80(3):339-346.   
+[14] BOTHA M,BOTES M,LOOS B,et al.Lactobacillus equigenerosi strain Le1 invades equine epithelial cells[J].Applied and Environmental Microbiology,2012,78(12):4248-4255.   
+[15] WATERS S M,MURPHY R A,POWER R F G.Characterisation of prototype Nurmi cultures using culture-based microbiological techniques and PCR-DGGE[J].International Journal of Food Microbiology,2006,110(3):268-277.   
+[16] PALOP M L,SMITHS JP,BRINK B T.Degradation of sinigrin by Lactobacillus agilis strain R16[J].International Journal of Food Microbiology,1995,26(2):219-229.   
+[17] BAELE M,DEVRIESE L A,HAESEBROUCK F.Lactobacillus agilis is an important component of the pigeon crop flora[J].Journal of Applied Microbiology,2001,91(3):488-491.   
+[18] STEPHENSON D P,MOORE R J,ALLISON G E.Transformation of,and heterologous protein expression in,Lactobacillus agilis and Lactobacillus vaginalis isolates from the chicken gastrointestinal tract[J].Applied and Environmental Microbiology,2011,77(1):220-228.   
+[19] MESLIER V,LOUX V,RENAULT P.Genome sequence of Lactococcus raffinolactis strain 4877,isolated from natural dairy starter culture[J].Journal of Bacteriol0gy,2012,194(22):6364.   
+[20] KIMOTO-NIRA H,AOKI R,MIZUMACHI K,et al.Interaction between Lactococcus lactis and Lactococcus raffinolactis during growth in milk:development of a new starter
+
+culture[J].Journal of Dairy Science,2012,95(4):2176-2185.
+
+[21] BULL K,MATTHEWS N,RHODES J.Antibody response to anaerobic coccoid rods in Crohn's disease[J].Journal of Clinical Pathology,1986,39(10):1130-1134.
+
+[22] GRAESSLER J,QIN Y,ZHONG H,et al.Metagenomic sequencing of the human gut microbiome before and after bariatric surgery in obese patients with type 2 diabetes:correlationwithinflammatoryand metabolicparameters[J].The Pharmacogenomics Journal,2013,13(6):514-522.   
+[23] MACHADO A,JEFFERSON K K,CERCA N.Interactions between Lactobacillus crispatus and bacterial vaginosis (BV)-associated bacterial species in initial attchment and biofilm formation[J].International Journal of Molecular Sciences,2013,14(6):12004-12012.   
+[24] TOMUSIAK A,HECZKO P B,JANECZKO J,et al.Bacterial infections of the lower genital tract in fertile and infertile women from the southeastern Poland[J].Ginekologia Polska,2013,84(5):352-358.   
+[25] VAISHAMPAYAN P,A MIYASHITA M,OHNISHI A,et al.Description of Rummeliibacillus stabekisii gen. nov.,sp. nov. and reclassification of Bacillus pycnus Nakamura et al.2002 as Rummeliibacillus pycnus comb.nov[J].International Journal of Systematic and Evolutionary Microbiology,2009,59(Pt 5):1094-1099.   
+[26] HER J,KIM J.Rummeliibacillus suwonensis sp. nov.,isolated from soil collected in a mountain area of South Korea[J].Journal of Microbiology,2013,51(2):268-272. Intestinal Microbiological Diversity of Chicken Fed in Cage and Free Range by PCR-DGGE Analysis CUI Yizhe1WANG Qiuju1\*LI YuelSU Jing²ZHOU Yaqiang1ZHANG Yuchen1 (1. College ofAnimal Science and Veterinary, Heilongjiang Bayi Agricultural University, Daqing 163319,China; 2. Heilongjiang Province Animal Epidemic Prevention and Control Center; Harbin 150069, China)   
+Abstract: This study investigated the structural diversity of intestinal bacterial flora in young and   
+adult chicken fed in cage and free range separately. Intestinal samples were collected from 8 and   
+30 weeks old chickens. Polymerase chain reaction and denaturing gradient gel electrophoresis   
+(PCR-DGGE ） was used, in combination with cloning and sequencing of amplified fragments to   
+produce bacterial flora DNA fingerprints. Total of 39 strains were isolated from the intestinal   
+contents of chicken，including 4 sulfer bacteria as 2 Proteobacteria strains $( 5 . 1 \% )$ ，4   
+Bacteroidetes strains $( 1 0 . 2 \% )$ ，5Actinobacteria strains $( 1 2 . 8 \% )$ and 21 Firmicutes strains   
+$( 5 3 . 8 \% )$ , as well as 7 environmental samples (uncultured bacterium). And bacteria species were   
+various in different intestine parts of different chicken,bacteria in adult hens and chicken fed in   
+free range was richer than bacteria in young chicken and chicken fed in cage. Ten Lactobacillus   
+stains were isolated. Coprococcus was excluded but the rest of nine Lactobacillus species were   
+saved to study for probiotics.Results indicate that feeding mode and chicken age have a great   
+influence on the intestinal bacterial community composition,and more bacterial species exist in
+
+adult hens' intestinal tract and fed in free range.
+
+Key words: chicken; cage range; free range; PCR-DGGE; flora identification

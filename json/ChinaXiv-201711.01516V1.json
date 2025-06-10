@@ -1,0 +1,543 @@
+[
+    {
+        "type": "text",
+        "text": "艾蒿水提物对肉仔鸡血清细胞因子含量及小肠诱导型一氧化氮合成酶mRNA表达量的影响赵　飞　史彬林\\* 陈宏燕　佟满满　孙登生　张鹏飞　金　晓　闫素梅（内蒙古农业大学动物科学学院，呼和浩特010018）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在研究饲粮中添加不同水平的艾蒿水提物对肉仔鸡血清细胞因子含量及小肠诱导型一氧化氮合成酶（iNOS）mRNA表达量的影响。选取192只健康的1日龄爱拔益加（AA）肉仔鸡，随机分为4个组，每组6个重复，每个重复8只鸡。对照组饲喂基础饲粮，试验组分别饲喂在基础饲粮中添加： $5 0 0 , 1 0 0 0 , 2 0 0 0 \\mathrm { m g / k g }$ 艾蒿水提物的试验饲粮。试验期 $4 2 {  { \\mathrm { ~ d ~ } } }$ 。结果表明：1）与对照组相比，21日龄时， $2 \\ 0 0 0 \\ \\mathrm { m g / k g }$ 添加组的血清白细胞介素 $1 \\beta$ (IL $\\cdot 1 \\beta$ ）、白细胞介素-2（IL-2）和白细胞介素-4（IL-4）的含量显著升高（ $( P { < } 0 . 0 5 )$ ，$5 0 0 ~ \\mathrm { m g / k g }$ 添加组的血清 IL-4 含量和 $1 \\ 0 0 0 \\ \\mathrm { m g / k g }$ 添加组的血清 IL-2 含量极显著升高（ $P { < } 0 . 0 1 \\$ ）；42日龄时， $5 0 0 ~ \\mathrm { m g / k g }$ 添加组的血清IL-2含量显著升高（ $. P { < } 0 . 0 5 \\$ ）。2）与对照组相比，21日龄时， $5 0 0 \\mathrm { m g / k g }$ 添加组的血清一氧化氮（NO）含量和iNOS 活性及十二指肠、空肠和回肠的iNOSmRNA表达量差异不显著（ $. P { > } 0 . 0 5 \\$ ）， $1 \\ 0 0 0 \\ \\mathrm { m g / k g }$ 添加组的血清NO 含量和回肠iNOSmRNA表达量显著升高（ $P { < } 0 . 0 5 \\$ ）， $2 \\ 0 0 0 \\ \\mathrm { m g / k g }$ 添加组的回肠iNOSmRNA表达量极显著升高（ $P { < } 0 . 0 1$ ）；42日龄时，500、1000和 $2 \\ 0 0 0 \\ \\mathrm { m g / k g }$ 添加组血清NO 含量和iNOS 活性及空肠iNOSmRNA表达量显著或极显著升高（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ）。由此可见，饲粮中添加艾蒿水提物可以促进肉仔鸡免疫细胞因子的分泌和NO 的生成，且与iNOSmRNA的表达增强有关。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：艾蒿水提物；肉仔鸡；细胞因子；诱导型一氧化氮合成酶；mRNA",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S831",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "肉鸡养殖是我国畜禽养殖业的重要组成部分，饲料营养和生产环境是生产健康优质鸡肉的重要保障。随着肉鸡养殖业规模化和集约化的快速发展，饲用抗生素因其促生长作用而一度受到养殖户的喜爱。然而，抗生素在提高畜禽生长性能的同时，也带来了许多的负面效应，如药物残留和病原微生物的耐药性，还会导致环境污染等问题。因此，开发无毒、无残留、可提高机体免疫力的新型绿色添加剂成为研究的焦点和新方向。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "艾蒿水提物（Artemisia argyi aqueous extract，AAE)是从天然中草药艾蒿中提取的一类含有多糖等生物活性物质的提取物[I，具有抗菌、抗病毒、抗氧化和抗疟疾等作用，且安全无毒、无耐药性[2-3]。AAE 作为饲料添加剂能改善动物的生长性能、屠宰性能和肉品质[4],增强机体抗氧化和免疫功能[5]。尹美珍等[通过体外培养小鼠脾细胞和腹腔巨噬细胞，发现艾叶多糖显著提高了脾细胞分泌的肿瘤坏死因子， $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ （TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ ）和白细胞介素-2（IL-2）的含量。隆雪明[7采用实时荧光定量PCR法发现艾叶挥发油能显著提高小鼠脾脏IL-2和白细胞介素-4（IL-4）mRNA的表达量。体外试验结果表明，艾蒿（艾叶）的免疫增强作用可能与作为免疫调节因子的一氧化氮（NO）有关[]。NO 是诱导型一氧化氮合成酶（iNOS）催化$L .$ 精氨酸生成，它可调节多种免疫活性介质的合成，进而影响机体的免疫功能[8]。NO 对巨噬细胞、噬中性粒细胞、T 淋巴细胞、抗原呈递细胞、肥大细胞和自然杀伤（NK）细胞等均具有调节作用[9]。iNOS 在活化的巨噬细胞中最先被发现，且在巨噬细胞、NK 细胞、单核细胞、小神经胶质细胞、肥大细胞、嗜酸性粒细胞等免疫细胞中均有表达[10]。刘晴雪等[I]研究发现，一定浓度的水溶性苜蓿多糖能够促进体外培养的肉仔鸡外周血、胸腺、脾脏和法氏囊淋巴细胞的NO含量以及iNOS 活性。萨仁娜[12通过体内、体外试验也表明，海带岩藻聚糖可显著提高肉鸡腹腔巨噬细胞的NO含量和iNOS 活性。而从已有的研究可以发现，关于AAE 对肉仔鸡细胞免疫功能及NO免疫途径影响的研究鲜有报道。因此，本试验旨在研究饲粮中添加不同水平的AAE 对肉仔鸡血清中免疫细胞因子、NO 含量和iNOS 活性及小肠iNOS mRNA表达量的影响，来探讨 AAE对肉仔鸡免疫功能的影响机制，从而为AAE 在肉仔鸡饲粮中的应用提供科学的理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AAE：7月初，试验用艾蒿在和林格尔县大红城乡境内采集，将其在室温下阴干后切成小段，加适量蒸馏水煮沸 $3 0 \\mathrm { m i n }$ ，共3次（加水比例分别为1:20、1:16、1:12），然后经旋转蒸发仪浓缩，并用冻干机冻干成粉，每千克艾蒿得灰黑色提取物 $1 5 0 \\ \\mathrm { g }$ 左右。试验所用剂量均以风干粉剂计算。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计与饲粮组成",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验采用单因子随机试验设计，选取体重相近的健康1日龄爱拔益加（AA）肉仔鸡192只，随机分为4个组，每个组6个重复，每个重复8只鸡（公母各占1/2）。对照组饲喂基础饲粮，试验组分别饲喂在基础饲粮中添加 500、1000、2000mg/kg AAE 的试验饲粮。试验期 $4 2 \\mathrm { d }$ ，分为前期（ $_ { 1 \\sim 3 }$ 周龄）和后期（ $4 { \\sim } 6$ 周龄），各 $2 1 \\mathrm { d }$ 。试验基础饲粮营养水平参照我国《鸡饲养标准》（NY/T33—2004）配制，基础饲粮组成及营养水平见表1。各组饲粮营养水平一致。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/5675fb58ea5784e1d2ff22f1feab23138fcc0274eea318cfa14dd1227190e212.jpg",
+        "table_caption": [
+            "表1基础饲粮组成及营养水平 (风干基础)",
+            "Table 1Composition and nutrient levels of basal diets (air-dry basis) ",
+            "原料Ingredients"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"2\">含量Content</td></tr><tr><td>项目Items</td><td>1～3 周龄 1 to 3 weeks of age</td><td>4～6 周龄 4 to6 weeks of age</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/962ffab0e4ab1d9088b96d16b10027b81af679b280ed0b565e9c84b6f95310b0.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>玉米 Corn</td><td>51.68 58.49</td></tr><tr><td>豆粕 Soybean meal</td><td>41.00 34.30</td></tr><tr><td>豆油 Soybean oil</td><td>3.00 3.00</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.90 1.80</td></tr><tr><td>石粉 Limestone</td><td>1.10 1.20</td></tr><tr><td>食盐 NaCl</td><td>0.37 0.37</td></tr><tr><td>赖氨酸盐酸盐 Lys·HCl （98%）</td><td>0.05 0.03</td></tr><tr><td>DL-蛋氨酸DL-Met</td><td>0.19 0.10</td></tr><tr><td>预混料 Premix1)</td><td>0.71 0.71</td></tr><tr><td>合计 Total</td><td>100.00 100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td></tr><tr><td>代谢能 ME/(MJ/kg)</td><td>12.62 12.87</td></tr><tr><td>粗蛋白质 CP</td><td>21.84 19.95</td></tr><tr><td>粗脂肪 EE</td><td>5.42 5.56</td></tr><tr><td>钙Ca</td><td>1.00 1.00</td></tr><tr><td>有效磷 AP</td><td>0.48 0.46</td></tr><tr><td>赖氨酸Lys</td><td>1.40 1.20</td></tr><tr><td>苏氨酸 Thr</td><td>0.91 0.81</td></tr><tr><td>色氨酸Trp</td><td>0.30 0.26</td></tr><tr><td>蛋氨酸Met</td><td>0.56 0.44</td></tr><tr><td>含硫氨基酸 SAA 0.96</td><td>0.80</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "D预混料为每千克饲粮提供 The premix provided the following per kg of diets：VA6141.5 IU，VD31 789.2IU,VE $7 . 9 9 \\mathrm { m g }$ ，VK $1 . 8 2 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 } 0 . 6 5 ~ \\mathrm { m g }$ ， $\\mathrm { V B } _ { 2 } 3 . 9 3 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 6 } 2 . 0 8 ~ \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 2 } 0 . 0 1 ~ \\mathrm { m g }$ ，烟酸 nicotinic acid$1 8 . 0 6 \\mathrm { m g }$ ，泛酸钙 calcium pantothenate $6 . 6 5 \\mathrm { m g }$ ，叶酸 folic acid $0 . 5 9 \\mathrm { m g }$ ，生物素biotin $0 . 0 7 \\mathrm { m g }$ ，胆碱cholinechloride $3 3 2 . 2 8 ~ \\mathrm { m g }$ ，Fe $6 0 . 9 1 \\mathrm { m g }$ ， $\\mathrm { C u } 6 . 0 1 \\mathrm { m g }$ ， $\\mathrm { Z n 6 5 . 7 5 m g }$ ， $\\mathrm { M n } 6 2 . 3 \\mathrm { m g }$ ， $\\mathrm { ~ I ~ } 0 . 9 \\mathrm { ~ m g }$ ，Se 0.21 mg。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2)粗蛋白质为实测值，其余均为计算值。CP was a measured value,while others were all calculated values. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3饲养管理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验在内蒙古农业大学动物生产鸡舍进行，试验前对鸡舍及周边环境和试验用具进行严格的清洗消毒。试验鸡进行笼养，试验期间控制温度、湿度、光照和通风，具体方法参照《AA肉鸡饲养管理手册》。同时，免疫程序如下：1日龄对试验鸡进行新城疫滴鼻点眼首免；7日龄对试验鸡进行新城疫 $\\vdots +$ 传染性支气管炎弱毒苗滴鼻点眼免疫；14日龄对试验鸡进行法氏囊饮水免疫。此外，试验是按照内蒙古农业大学动物保护和使用委员会的指导原则进行的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4样品采集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在试验第21、42天，每个重复分别选取2只体重相近的健康鸡。颈静脉采血，室温静置 $^ { \\textrm { 1 h } }$ ， $3 0 0 0 \\mathrm { r / m i n }$ 离心 $1 0 \\mathrm { m i n }$ ，将上层血清分装入 $1 \\mathrm { m L }$ 离心管中，于 $- 2 0 \\ \\mathrm { { ^ \\circ C } }$ 冰柜中冷冻保存，用于血清中白细胞介素- $1 \\beta$ ( $\\mathbf { I L - } 1 \\boldsymbol { \\beta } .$ ）、IL-2、IL-4、白细胞介素-6（IL-6）、干扰素-γ（ $\\mathrm { I F N } { - } \\gamma$ ）、TNF- $\\mathbf { \\alpha } \\cdot \\mathbf { a }$ 、NO含量和iNOS 活性的测定；然后宰杀，于冰浴上迅速剪取小肠（十二指肠、空肠和回肠）组织，用生理盐水冲洗干净，分装于 $1 . 5 ~ \\mathrm { m L }$ EP 管中，迅速投入液氮，冷冻后转入 $- 8 0 ~ \\mathrm { { ^ circ C } }$ 低温冰箱冻存，用于总RNA的提取。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5 测试指标与方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.1 血清中细胞因子含量的测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "血清 $\\mathbb { L } \\mathrm { - } 1 \\beta$ 、IL-2、IL-4、IL-6、IFN-γ、TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 含量采用酶联免疫吸附试验（ELLSA）试剂盒测定，测定仪器为全功能酶标仪（美国伯腾仪器有限公司），试剂盒由碧迪医疗器械(上海)有限公司提供。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.2 血清中NO含量和iNOS 活性的测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "血清 NO含量和iNOS 活性采用试剂盒法测定，测定仪器为全功能酶标仪（美国伯腾仪器有限公司），试剂盒由南京建成生物生物工程研究所提供。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.3肝脏、脾脏和小肠组织中iNOSmRNA表达量的测定",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.3.1总RNA提取及反转录 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "小肠总RNA提取按照Trizol总RNA提取试剂（Takara，日本）说明书进行。RNA的浓度和纯度用 $2 \\%$ 凝胶电泳和全功能酶标仪检测，所有样品吸光度比值（ $2 6 0 / 2 8 0 \\ \\mathrm { n m }$ ）在$1 . 8 { \\sim } 2 . 1$ 之间。然后，按照 Prime ScriptRTMasterMix 试剂盒要求，将RNA反转录合成cDNA于 $- 8 0 ~ \\mathrm { { ^ circ C } }$ 保存，反应体系为 $2 0 { \\mu \\mathrm { L } }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.3.2 实时荧光定量PCR ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据GenBank中鸡iNOS和 $\\beta$ -肌动蛋白（ $\\beta$ -actin）基因序列，由北京六合华大基因科技有限公司合成。采用SYBRPremixExTaqTM $\\mathrm { I I }$ 试剂盒进行实时荧光定量PCR扩增的检测。PCR反应体系为 $2 0 \\mu \\mathrm { L }$ : SYBR Premix Ex TaqTMII $1 0 \\mu \\mathrm { L }$ ，上下游引物各 $0 . 4 \\mu \\mathrm { L }$ ，cDNA模板 $2 ~ \\mu \\mathrm { L }$ 和双蒸水 $7 . 2 ~ \\mu \\mathrm { L }$ 。选用 $\\beta$ -肌动蛋白基因作为内参。引物序列及参数见表2。实时定量PCR的反应程序为： $9 5 ^ { \\circ } \\mathrm { C } 3 0 \\mathrm { s }$ ； $9 5 ^ { \\circ } \\mathrm { C } 5 \\mathrm { \\ s }$ ，退火温度 $3 0 ~ \\mathrm { s }$ ， $7 2 \\ \\mathrm { ^ { \\circ } C } \\ 2 0 \\mathrm { s }$ ，进行40个循环反应； $7 2 \\mathrm { ~ \\textdegree ~ { ~ C ~ } ~ } 7 \\mathrm { { \\ m i n } }$ ；溶解曲线程序为 $7 0 { \\sim } 9 5 ~ \\mathrm { ^ circ C }$ ，监测系统每 $0 . 5 ~ \\mathrm { { ^ \\circ C } }$ 读取荧光值1次，自动生成溶解曲线。反应结束后，PCR产物于 $8 0 ~ \\mathrm { { ^ { \\circ } C } }$ 保存备用。采用 $2 ^ { - \\Delta \\Delta \\mathrm { C t } }$ 法进行基因相对定量分析[13]。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/1ec7f8ca4579c4fe3e1a6113234e865bb96aa7ce95bb8239e2c62c64a5593c94.jpg",
+        "table_caption": [
+            "表2引物序列及参数",
+            "Table 2Primer sequences and parameters "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>基因</td><td>引物序列</td><td>GenBank 登录号</td><td>长度</td><td>退火温度</td></tr><tr><td>Genes</td><td>Primer sequences (5'-3')</td><td>GenBank accession No. Length/bp</td><td></td><td>Tm/℃</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/fed456450341f847cf209cbb02e1380b98485cf5fecbda9a1c2ab56cf8a3797f.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "$\\mathrm { F = }$ 上游引物， $\\scriptstyle \\mathrm { R = }$ 下游引物。$\\mathrm { F } =$ forward primer;R=reverse primer."
+        ],
+        "table_body": "<html><body><table><tr><td>-肌动蛋白</td><td>F:GCCAACAGAGAGAAGATGACAC</td><td></td><td></td><td></td></tr><tr><td>β-actin</td><td>R:GTAACACCATCACCAGAGTCCA</td><td>NM_205518</td><td>118</td><td>60</td></tr><tr><td></td><td>F:GCAGCACGTGGCTGAACAA</td><td></td><td></td><td></td></tr><tr><td>氧化氮合成酶</td><td></td><td>NM_204961.1</td><td>165</td><td>60</td></tr><tr><td>iNOS</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>R:CATAGAGACGCTGCTGCCAGA</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.6 数据处理与统计分析",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "数据采用 SAS 2000 软件进行统计学处理。方差分析使用单因素方差分析（one-wayANOVA），多重比较采用Duncan氏法， $P { < } 0 . 0 5$ 为差异显著， $P { < } 0 . 0 1$ 为差异极显著。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1AAE 对肉仔鸡血清中细胞因子含量的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，与对照组相比，21日龄时， $5 0 0 ~ \\mathrm { m g / k g }$ 添加组血清 IL-2 含量显著升高（ $( P { < } 0 . 0 5 )$ ），且血清IL-4含量极显著升高（ $. P { < } 0 . 0 1 \\rangle$ ； $1 0 0 0 \\mathrm { m g / k g }$ 添加组血清IL-2含量极显著升高（ $P { < } 0 . 0 1$ ），且血清IL-4含量显著升高（ $P { < } 0 . 0 5 )$ ； $2 \\ 0 0 0 \\ \\mathrm { m g / k g }$ 添加组血清L- $1 \\beta$ ，IL-2 和 IL-4 含量均显著升高（ $_ { _ { P < 0 . 0 5 } }$ ）；42日龄时， $5 0 0 ~ \\mathrm { m g / k g }$ 添加组血清IL-2含量显著升高（ $P { < } 0 . 0 5$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/d207e1c3a08823464946e0fa8c5318da745bfe85b5cd1f9daf7693629dee7a75.jpg",
+        "table_caption": [
+            "表3AAE对肉仔鸡血清中细胞因子含量的影响",
+            "Table 3Effects of AAE on serum cytokines contents of broilers F "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>日龄</td><td colspan=\"4\">AAE 添加水平 AAE supplemental level/(mg/kg)</td><td rowspan=\"2\">SEM</td><td rowspan=\"2\">P值 P-value</td></tr><tr><td>Items</td><td>Days of age</td><td>0</td><td>500</td><td>1000</td><td>2 000</td></tr><tr><td>白细胞介素-1β</td><td>21</td><td>189.90b</td><td>199.62ab</td><td>199.70ab</td><td>210.00a</td><td>3.86</td><td>0.013</td></tr><tr><td>IL-1β</td><td>42</td><td>429.69</td><td>424.31</td><td>432.64</td><td>423.96</td><td>8.41</td><td>0.951</td></tr><tr><td>白细胞介素-2</td><td>21</td><td>56.56c</td><td>71.72b</td><td>89.34a</td><td>74.59b</td><td>4.78</td><td><0.001</td></tr><tr><td>IL-2</td><td>42</td><td>74.47b</td><td>92.24a</td><td>84.12ab</td><td>80.18b</td><td>3.63</td><td>0.031</td></tr><tr><td>白细胞介素-4</td><td>21</td><td>25.13c</td><td>43.37a</td><td>32.92b</td><td>36.72b</td><td>2.99</td><td><0.001</td></tr><tr><td>IL-4</td><td>42</td><td>41.19</td><td>41.33</td><td>41.95</td><td>41.85</td><td>1.16</td><td>0.986</td></tr><tr><td>白细胞介素-6</td><td>21</td><td>14.20</td><td>14.60</td><td>13.59</td><td>14.28</td><td>0.32</td><td>0.324</td></tr><tr><td>IL-6</td><td>42</td><td>9.50</td><td>9.49</td><td>9.50</td><td>10.79</td><td>0.42</td><td>0.222</td></tr><tr><td>干扰素-γ</td><td>21</td><td>42.58</td><td>41.88</td><td>41.40</td><td>45.14</td><td>1.00</td><td>0.157</td></tr><tr><td>IFN-γ</td><td>42</td><td>60.58</td><td>57.26</td><td>59.33</td><td>58.74</td><td>1.99</td><td>0.877</td></tr><tr><td>肿瘤坏死因子-α</td><td>21</td><td>61.71</td><td>60.17</td><td>64.44</td><td>63.89</td><td>1.88</td><td>0.474</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/4bfe5330c23f5c1f75af1ae4a419c4e58098557fce8c72cb4fa1ee5fc8ab7c3e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>TNF-α</td><td>42</td><td>61.73</td><td>59.60</td><td>64.27</td><td>62.60</td><td>2.19</td><td>0.804</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "同行数据无肩标字母或肩标含相同字母者表示差异不显著 $( P { > } 0 . 0 5 )$ ，肩标为相邻字母者表示差异显著 $P <$ 0.05)，肩标为相间字母者表示差异极显著( $\\scriptstyle \\overbrace { P } < 0 . 0 1 \\rangle$ 。下表同。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the same row, values with no lettr or the same superscript lettrs mean no significant difference $\\mathrm { ( } P \\mathrm { > } 0 . 0 5 \\mathrm { ) }$ ）， while adjacent different letters mean significant difference $( P { < } 0 . 0 5 )$ ，and the interphase letters mean extremely significant difference $( P { < } 0 . 0 1 )$ .The same asbelow. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2AAE 对肉仔鸡血清NO含量及iNOS 活性的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，与对照组相比，21日龄时，500 和 $2 0 0 0 \\mathrm { m g / k g }$ 添加组血清NO含量和iNOS活性差异不显著（ $. P { > } 0 . 0 5 )$ ）， $1 0 0 0 \\mathrm { m g / k g }$ 添加组血清NO含量显著升高（ $P { < } 0 . 0 5 \\$ ）；42日龄时， $5 0 0 \\mathrm { m g / k g }$ 添加组的血清NO含量显著升高（ $P { < } 0 . 0 5 \\rangle$ ）， $1 0 0 0$ 和 $2 0 0 0 \\mathrm { m g / k g }$ 添加组的血清NO含量极显著升高（ $_ { . } P { < } 0 . 0 1 \\$ ），500和 $1 0 0 0 \\mathrm { m g / k g }$ 添加组的血清iNOS 活性显著升高（ $. P { < } 0 . 0 5 \\$ ）， $2 0 0 0 \\mathrm { m g / k g }$ 添加组的血清 iNOS 活性极显著升高（ ${ \\cdot } P { < } 0 . 0 1$ ）。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e27e49a2fcd4764f414080c6acd86dcb59489be30ee6b20753c117352e3e568d.jpg",
+        "table_caption": [
+            "Table 4Effects of AAE on NO content and iNOS activity in serum of broilers "
+        ],
+        "table_footnote": [
+            "2.3 AAE对肉仔鸡小肠iNOSmRNA表达量的影响"
+        ],
+        "table_body": "<html><body><table><tr><td>项目</td><td>日龄</td><td></td><td>AAE 添加水平 AAE supplemental level/(mg/kg)</td><td></td><td></td><td>SEM</td><td>P值</td></tr><tr><td>Items</td><td>Days of age</td><td>0</td><td>500</td><td>1000</td><td>2000</td><td></td><td>P-value</td></tr><tr><td>一氧化氮</td><td>21</td><td>7.66b</td><td>9.76ab</td><td>12.70a</td><td>6.93b</td><td>1.227</td><td>0.048</td></tr><tr><td>NO/ (μmoL/L)</td><td>42</td><td>3.28c</td><td>5.10b</td><td>6.25a</td><td>6.98a</td><td>0.657</td><td><0.001</td></tr><tr><td>一氧化氮合酶</td><td>21</td><td>15.09</td><td>15.48</td><td>17.65</td><td>16.55</td><td>0.697</td><td>0.190</td></tr><tr><td>iNOS/ (U/mL)</td><td>42</td><td>9.71c</td><td>11.94b</td><td>11.85b</td><td>16.40a</td><td>1.048</td><td><0.001</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表5可知，与对照组相比，21日龄时， $5 0 0 \\mathrm { m g / k g }$ 添加组十二指肠、空肠和回肠的 iNOSmRNA表达量差异不显著（ $P { > } 0 . 0 5$ ）， $1 0 0 0 \\mathrm { m g / k g }$ 添加组回肠iNOSmRNA表达量显著升高（ $_ { _ { P < 0 . 0 5 } ) }$ ）， $2 0 0 0 \\mathrm { m g / k g }$ 添加组十二指肠 $i N O S \\mathrm { \\ m R N A }$ 表达量显著升高（ $. P { < } 0 . 0 5 \\ '$ ），2000$\\mathrm { m g / k g }$ 添加组回肠iNOSmRNA表达量极显著升高( ${ \\scriptstyle \\cdot } P { < } 0 . 0 1$ ）；42日龄时，500、1000和2000$\\mathrm { m g / k g }$ 添加组空肠iNOSmRNA表达量显著升高( $_ { _ { P < 0 . 0 5 } ) }$ ，而十二指肠和回肠的iNOSmRNA表达量差异不显著（ $. P { > } 0 . 0 5$ ）。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/74c7fb4a4a9c82d608634efdaf90462b1c96feafbe75259cd564eab9b864b752.jpg",
+        "table_caption": [
+            "表4AAE对肉仔鸡血清NO含量及iNOS活性的影响",
+            "表5AAE对肉仔鸡小肠iNOSmRNA表达量的影响",
+            "Table 5Effects of AAE on iNOS mRNA expression level in small intestine of broilers "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>日龄</td><td colspan=\"4\">AAE 添加水平 AAE supplemental level/(mg/kg)</td><td rowspan=\"2\">SEM</td><td rowspan=\"2\">P值 P-value</td></tr><tr><td>Items</td><td>Days of age</td><td>0</td><td>500</td><td>1000</td><td>2 000</td></tr><tr><td>十二指肠</td><td>21</td><td>0.98bc</td><td>0.96c</td><td>1.11b</td><td>1.44a</td><td>0.09</td><td><0.001</td></tr><tr><td>Duodenum</td><td>42</td><td>1.19</td><td>1.26</td><td>1.16</td><td>1.09</td><td>0.06</td><td>0.439</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e26d03a552515079ee0576e557ec081f08be75e331be380be7796cc0d58afb5a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>空肠</td><td>21</td><td>0.40</td><td>0.34</td><td>0.43</td><td>0.40</td><td>0.02</td><td>0.227</td></tr><tr><td> Jejunum</td><td>42</td><td>0.79b</td><td>1.06a</td><td>1.06a</td><td>1.15a</td><td>0.07</td><td>0.034</td></tr><tr><td>回肠</td><td>21</td><td>0.55℃</td><td>0.65bc</td><td>0.75b</td><td>0.92a</td><td>0.07</td><td><0.001</td></tr><tr><td>Ileum</td><td>42</td><td>1.01</td><td>1.00</td><td>1.03</td><td>1.10</td><td>0.05</td><td>0.672</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1AAE 对肉仔鸡血清中细胞因子含量的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "细胞因子是由免疫细胞(如单核、巨噬细胞、T细胞、B 细胞、NK 细胞等)和某些非免疫细胞(内皮细胞、表皮细胞、纤维母细胞等)经刺激而合成、分泌的一类生物活性物质，可以作为细胞间信号传递分子介导和调节慢性炎症反应[14]。目前研究已经发现，IL-1、IL-2、IL-4、IL-6、IFN-γ 和 TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 均有不同程度的佐剂作用[15-16]。在免疫反应过程中，IL-1是由活化的单核/巨噬细胞分泌的一种能刺激T淋巴细胞分泌IL-2 的多功能细胞因子，并可协同IL-2 促进淋巴因子激活的杀伤细胞（LAK）的产生[8]。IL-2 由活化的T淋巴细胞产生，因此又称T细胞生长因子，是具有广泛生物活性的细胞因子。IL-4是Th2 细胞亚群产生的具有多种生物学功能的细胞因子，能增强免疫球蛋白E（IgE）介导的体液免疫并具有杀伤细胞的能力[17]，但可被 $\\mathrm { I F N } _ { - \\gamma }$ 拮抗[18]。IL-6由Th2 细胞亚群分泌，对B细胞的生长和分化起关键作用，又被称为B细胞生长因子。IFN $\\cdot \\gamma$ 主要介导Th1 型反应，促进IL-2 的分泌和释放以及T细胞的分化增殖[19]。TNF $\\mathbf { \\sigma } \\cdot \\mathbf { a }$ 是活化的巨噬细胞分泌的另一细胞因子，对抗肿瘤、免疫和炎症反应的效应细胞都有调节作用[8]。本试验测定了肉仔鸡血清 $\\mathrm { I L } \\mathrm { - } 1 \\beta$ 、IL-2、IL-4、IL-6、IFN-γ和TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 含量，结果显示，在试验21和42日龄，添加AAE 组的IL- $1 \\beta$ 和IL-2含量均高于对照组，虽然AAE 添加组的IL-6和TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 的含量与对照组相比差异不显著，但也有一定程度提高，与此同时，IL-4与IFN- $\\cdot \\gamma$ 表现出一定的拮抗关系。这与尹美珍等、隆雪明[7]和Lan[20]等的研究结果基本一致。这也表明在饲粮中添加AAE可促进肉仔鸡免疫细胞因子的分泌，刺激机体的细胞免疫功能，究其原因，可能是由于AAE中含有的多糖可以激活T/B 淋巴细胞[21]、巨噬细胞[22]、NK细胞[23]等免疫细胞以及补体系统[24]等；也有可能是因为多糖能够介导细胞信号通路而调节细胞内基因的表达[25]，但其确切的机制还需更深入的研究。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2AAE 对肉仔鸡血清NO 含量、iNOS 活性和小肠iNOSmRNA表达量的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "NO 是由巨噬细胞分泌并存在于动物机体细胞中的另一种具有生物活性的细胞信使因子。它是 $L$ -精氨酸经NO合成酶（nitrick oxide synthases，NOS）催化而成的一种短期生物活性自由基，即可作用于自身，也能扩散到邻近细胞并结合到转录因子、蛋白激酶等受体上而发挥一系列免疫调节作用。iNOS为非钙离子（ $\\cdot \\mathrm { C a } ^ { 2 + }$ ）依赖型，一些外来刺激如干扰素、细菌、病毒以及TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 、IL-1、IL-6等都会激活iNOS。在与NO受体结合后会触发蛋白激酶的磷酸化，最终使编码iNOS的mRNA增多而合成大量的\"诱导型 $\\mathrm { \" ~ } \\mathrm { N O } ^ { [ 2 6 ] }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "已有研究表明，多糖作为免疫增强剂和促进剂，能刺激巨噬细胞NO 生成和iNOS mRNA的表达[27]，且主要采用体外法进行。Lee等[28]发现茯苓多糖能激活核转录因子-kB（NF-kB）而促进iNOSmRNA的表达及NO 的生成。张莘莘等[29]研究不同浓度的黑林芝多糖对正常和脂多糖(LPS)活化的腹腔巨噬细胞时表明，多糖有效地促进了正常巨噬细胞分泌NO、TNF- $\\mathbf { \\alpha } _ { \\mathbf { a } }$ 和 $\\mathrm { I L } { - } 1 \\beta$ ，并呈现剂量依赖关系；与此同时，多糖又不同程度地抑制了LPS 活化巨噬细胞对NO、TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 和 $\\mathrm { { I L } \\mathrm { { - } 1 \\mathrm { { \\beta } } } }$ 的过量分泌。杨兴斌等[30]也发现，当归多糖能促进巨噬细胞释放 NO、TNF- $\\mathbf { \\alpha } _ { \\mathrm { ~ \\normalfont ~ a ~ } }$ 及活性氧（ROS）等细胞效应分子。许金霞[3的研究结果也表明，枸杞多糖能促进巨噬细胞NO生成和iNOSmRNA的表达。然而，仅有极少数资料表明艾叶多糖能增强巨噬细胞生成NO的能力，并在试验剂量范围内有剂量依赖效应[32]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "目前，关于AAE 对肉仔鸡 iNOSmRNA表达量及其活性影响的报道还尚未见报道。本试验的研究结果发现，AAE 能提高肉仔鸡血清 NO 含量和 iNOS 的活性，提高小肠 iNOSmRNA表达量，并且，从整个试验期发现，1000 和 $2 0 0 0 \\mathrm { m g / k g }$ 添加组较好地提高了iNOSmRNA 表达量及其活性。由此结果可以推测，AAE 中含有的多糖等生物活性物质在一定程度上能够调控iNOS 的合成和iNOS mRNA 的表达，进而影响 NO 的分泌，而其具体的原因和作用机制仍需进一步探究。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 饲粮中添加 $1 0 0 0 \\mathrm { m g / k g }$ 的 AAE 可较好地提高肉仔鸡21日龄时血清 $\\mathrm { I L } { - } 1 \\beta$ 、IL-2和IL-4 含量；42日龄时，饲粮中添加 $5 0 0 \\mathrm { m g / k g }$ 的 AAE 显著提高了血清IL-2 的含量。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 饲粮中添加1000和 $2 0 0 0 \\mathrm { m g / k g }$ 的AAE 能够提高肉仔鸡血清NO含量和iNOS活性，并促进小肠iNOSmRNA表达。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] 吴桂花.艾叶挥发油和多糖提取工艺及生物活性研究[D].硕士学位论文.上海:华东理工大学,2011:19-24.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[2]张鹏飞,李倜宇,史彬林,等.艾蒿对动物的生物学作用研究[J].饲料研究,2015(20):24-27.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[3]李春娜,占颖,刘洋洋,等.艾蒿药理作用和开发利用研究进展[J].中华中医药杂志,2014,29(12):3889-3891.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[4] 楚维斌,史彬林,张鹏飞,等.艾蒿水提物对肉仔鸡生长性能、屠宰性能和肉品质的影响[J].饲料工业,2015,36(10):6-9.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[5] 楚维斌,史彬林,闫素梅,等.艾蒿水提物对肉仔鸡免疫和抗氧化功能的影响[J]).中国畜牧杂志,2015,51(19):67-70.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[6] 尹美珍,胡岗,苏振宏,等.艾叶多糖对小鼠免疫细胞分泌细胞因子及其活性的影响[J].时珍国医国药,2013,24(7):1610-1611.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[7] 隆雪明.艾叶挥发油的免疫作用及其对部分细胞因子 mRNA 表达的影响[D].硕士学位论文.长沙:湖南农业大学,2008:35-45.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[8] 赵天章,李慧英,王志刚,等.黄芪多糖对肉仔鸡血清免疫细胞因子含量及小肠诱导型一氧化氮合成酶mRNA表达的影响[J].动物营养学报,2014,26(4):1011-1018.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[9] TRIPATHI P,TRIPATHI P,KASHYAP L,et al.The role of nitric oxide in inflammatory reactions[J].FEMS Immunology & Medical Microbiology,2007,51(3):443-452. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[10] SCHAIRER D O,CHOUAKE J S,NOSANCHUK J D,et al.The potential of nitric oxide releasing therapies as antimicrobial agents[J].Virulence,2012,3(3):271-279. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[11] 刘睛雪,董晓芳,佟建明,等.水溶性苜蓿多糖对肉仔鸡生长及免疫性能的影响[J]).饲料研究,2010(7):1-4,8.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[12] 萨仁娜.海带岩藻聚糖分级纯化及对肉仔鸡巨噬细胞免疫调节的研究[D].博士学位论文.北京：中国农业科学院,2008:28-49.[13] LIVAK K J,SCHMITTGEN T D.Analysis of relative gene expresson data using real-timequantitative PCR and the $2 ^ { - \\Delta \\Delta \\mathrm { C t } }$ method[J].Methods,2001,25(4):402-408.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[14]闫朝武.细胞因子与慢性炎症[J].国外医学免疫学分册,2002,25(2):98-101.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[15]侯亚琴,刘桂林.细胞因子的研究进展及其应用[J].动物科学与动物医学,2004,21(10):10-12.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[16]高玲美,牛钟相,丁淑燕.动物细胞因子研究进展[J].动物医学进展,2003,24(4):46-48.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[17]任玲龙,郭永建.白细胞介素4与抗病毒感染[J].国际流行病学传染病学杂志,2006,33(3):204-206.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[18]朱兆荣,刘娟,杜林林,等.复方苦芩对小鼠免疫功能及犬 $I L { \\cdot } 4 ~ \\mathrm { m R N A }$ 和IFN-γ mRNA表达的影响[J].中国兽医科学,2012,42(8):875-880.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[19] 邹云,谢红兵,禹琪芳,等.植物多糖对断奶仔猪淋巴细胞增殖和细胞因子分泌的影响[J].动物营养学报,2014,26(1):210-218.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[20] LAN M B,ZHANG Y H,ZHENG Y,et al.Antioxidant and immunomodulatory activities of polysaccharides from moxa (Artemisia argyi) leaf[J].Food Science and Biotechnology,2010,19(6):1463-1469. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[21] 章世元,徐春燕,董晓芳,等.苜蓿多糖和黄芪多糖对肉仔鸡淋巴细胞增殖的影响[J].动物营 养学报,2010,22(3):670-674. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[22]王翔岩,齐云,蔡润兰,等.肉从蓉多糖的巨噬细胞活化作用[J]).中国药理学通报,2009,25(6):787-790.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[23] 李敬双,刘英姿,唐雨顺,等.苜蓿多糖对小鼠淋巴细胞增殖和 NK 细胞活性影响的研究[J].中国农学通报,2012,28(32):89-93.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[24] 马红樱,张德禄,胡春香,等.植物活性多糖的研究进展[J].西北师范大学学报:自然科学版,2004,40(3):112-117.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[25] 尚庆辉,解玉怀,张桂国,等.植物多糖的免疫调节作用及其机制研究进展[J].动物营养学报,2015,27(1):49-58.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[26]范精华,刘康,刘保林.NO在炎症及免疫应答中的调节作用[J].中外医疗,2009,28(25):163,166.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[27] SCHEPETKIN I A,XIE G,KIRPOTINA L N,et al.Macrophage immunomodulatory activity of polysaccharides isolated from Opuntia polyacantha[J].International Immunopharmacology,2008,8(10):1455-1466. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[28] LEE K Y,JEON Y J.Polysaccharide isolated from Poria cocos sclerotium induces NF-kB/Rel activation and iNOS expression in murine macrophages[J].International Immunopharmacology,2003,3(10/11):1353-1362 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[29] 张莘莘,李文娟,聂少平,等.黑灵芝多糖对体外培养的小鼠腹腔巨噬细胞功能的影响[J].中国药理学通报,2010,26(9):1139-1142.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[30] 杨兴斌,梅其炳,周四元,等.当归多糖对小鼠腹腔巨噬细胞释放细胞效应分子的诱导作用[J].细胞与分子免疫学杂志,2004,20(6):747-749.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[31] 许金霞.枸杞多糖的制备及其活化巨噬细胞机理的研究[D].硕士学位论文.杭州:浙江大学,2007:7-21.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[32] 余桂朋,尹美珍,黄志,等.艾叶多糖对小鼠腹腔巨噬细胞吞噬功能及NO 生成的影响[J].湖北理工学院学报,2012,28(5):54-58.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Effects of Artemisia argyi Aqueous Extract on Serum Cytokines Content and Small Intestine Inducible Nitric Oxide Synthase mRNA Expression Level of Broilers   \nZHAO FeiSHI Binlin\\* CHEN Hongyan TONG Manman SUN Dengsheng ZHANG PengfeiJIN XiaoYAN Sumei   \n(College of Animal Science and Technology, Inner Mongolia Agricultural University, Huhhot 010018, China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This experiment was conducted to study the effects of dietary different supplementation of Artemisia argyi aqueous extract (AAE） on serum cytokines content and small intestine inducible nitric oxide synthase (iNOS） mRNA expresson level of broilers.A total of 192 one-day-old Arbor Acre (AA) broilers were randomly divided into four groups with six replicates per group and eight chickens per replicate.Broilers in the control group were fed a basal diet, and the others in the control group were fed the basal diets supplemented with 5Oo,1 OOO and 2 000 mg/kg AAE,respectively. The experiment lasted for 42 days. The results showed as follows: 1) compared with the control group,at 21 days of age,the contents of interleukin $1 \\beta$ (IL-1β), interleukin-2 (IL-2)and interleukin-4 (IL-4) in serum of $2 \\mathrm { 0 0 0 m g / k g }$ supplementation group were significantly improved ( $( P { < } 0 . 0 5 )$ , and the serum IL-4 content of $5 0 0 ~ \\mathrm { m g / k g }$ supplementation group and the serum IL-2 content of $\\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ supplementation group were significantly improved （204号 $( P { < } 0 . 0 1 )$ ; at 42 days of age, the serum IL-2 content of $5 0 0 ~ \\mathrm { m g / k g }$ supplementation group was significantly increased ( $\\scriptstyle \\cdot { \\cal P } \\ll 0 . 0 5 )$ . 2) Compared with the control group,At 21 days of age,the nitric oxide (NO) content and iNOS activity in serum and iNOS mRNA expression level in duodenum, jejunum and ileum of $5 0 0 ~ \\mathrm { m g / k g }$ supplementation group had no significant difference $( P { > } 0 . 0 5 )$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "the serum NO content and the ileum iNOS mRNA expression level of $1 ~ 0 0 0 ~ \\mathrm { \\ m g / k g }$ supplementation group were significantly increased $( P { < } 0 . 0 5 )$ ; the ileum iNOS mRNA expression level of $2 \\mathrm { \\ t { 0 0 0 } \\ m g / k g }$ supplementation group was significantly increased $( P { < } 0 . 0 1 )$ ; at 42 days of age, the NO content and iNOS activity in serum and the jejunum iNOS mRNA expression level of 500,1 000 and $2 \\ 0 0 0 \\ \\mathrm { m g / k g }$ supplementation groups were significantly improved ( $_ { ( P < 0 . 0 5 }$ or $P { < } 0 . 0 1 \\$ ). The results suggested that dietary supplementation of AAE can improve the secretion of cytokines and the production of NO,and it is related to the expression of iNOS mRNA . ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Key words: Artemisia argyi aqueous extrac; broilers; cytokines; inducible nitric oxide synthase; mRNA ",
+        "page_idx": 11
+    }
+]

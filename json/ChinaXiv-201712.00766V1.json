@@ -1,0 +1,287 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "应用JAR细胞株建立SCIDbeige小鼠绒毛膜癌移植瘤病理模型",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "田泉,郑 伟,孙 戎,薛 艳,季 伟,安瑞芳西安交通大学医学院第一附属医院妇产科，陕西 西安 710061摘要：目的 建立稳定有效的绒毛膜癌SCID beige小鼠移植瘤模型,观察模型的病程特点和生物学行为。方法 将3\\~5周龄SCID beige雌性小鼠随机分为实验组和对照组;实验组12只小鼠分为A(皮下移植瘤模型)/B(肺转移瘤模型)两组,分别皮下注射或尾静脉注射JAR细胞 $5 { \\times } 1 0 ^ { 6 } /$ 只,应用形态学、放射性免疫分析法测定β-HCG、小动物活体成像系统(IVIS)和组织学HE染色方法明确JAR细胞皮下移植瘤及肺转移瘤形成等情况。结果 实验组接种28d后,A组小鼠皮下形成质硬肿瘤结节，HE染色符合绒毛膜癌细胞形态学表现;B组小鼠应用IVIS检测显示体内出现单个或多个肿瘤实体包块,HE染色表明肺组织均有不同程度的瘤细胞浸润。接种第14天，实验组 $_ { \\mathrm { ~ \\tiny ~ \\beta ~ } }$ -HCG水平显著高于对照组 $( P { < } 0 . 0 5 )$ ；其中B组 $_ { \\mathrm { ~ \\tiny ~ \\beta ~ } }$ -HCG水平明显高于A组 $( P { < } 0 . 0 5 )$ 。结论SCID beige小鼠皮下/尾静脉注射JAR细胞可成功构建人绒毛膜癌移植瘤病理模型，该模型能模拟临床绒毛膜癌上皮性实体瘤特性及肺转移特点，是研究人类绒毛膜癌发病机理及实验治疗的良好模型。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：绒毛膜癌;SCIDbeige小鼠;JAR细胞;移植瘤模型;活体成像系统",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Establishment of a SCID beige mouse model bearing transplanted humar choriocarcinoma using JAR cell line ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TIAN Quan,ZHENG Wei, SUNRong,XUE Yan,JIWei,ANuifng Departmenodesiei ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective To establish a mouse model bearing human choriocarcinoma xenograft in severe combined immuno-deficient (SCID)beige mice and investigate the disease courseandbiological behaviorsof the tumors.Methods Human choriocarcinoma JAR cels were injected in female SCID beige mice (3-5 weeks old) either subcutaneously (group A, $n =$ 6) or via the tail vein (group B, $n { = } 6 )$ . Morphological studies, radioactive immunoassay， in vivo tumor imaging and histopathological examinations were performed toconfirmJARcellengraftmentatthesubcutaneous injectionsiteand inthe lungsof themice.Results Onday28aftertumorcellinoculation,themice ingroupAshowed palpablesubcutaneous nodules, andHE staining revealed morphologicalfeatures of the nodulesconsistent withchoriocarcinoma cels;invioo imaging in group B showed single or multiple solid tumor masses in the lungs,and tisse biopsy examination demonstrated varying degrees of tumor cell infiltration. Compared with the control mice, peripheral blood $\\beta$ -HCG levels in both groups A and B increased significantly on day 14 after cell inoculation $( P { < } 0 . 0 5 ) ,$ , and the increment was more conspicuous in group B $_ { ( P < 0 . 0 5 ) }$ Conclusion Mouse models bearing human choriocarcinoma xenograft can be succesfull established by injecting JAR cels either subcutaneouslyorviathetailvein to mimicthecharacteristicsof epithelialsolid tumorsandlung metastasisof human choriocarcinoma. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: choriocarcinoma;severe combined immuno-deficientbeige mouse; JAR cels; xenografts; in vivo imaging ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "绒毛膜癌是一类高度恶性的滋养细胞肿瘤，绝大多数继发于正常或非正常妊娠之后，故称妊娠性或继发性绒癌;极少数与妊娠无关，故称非妊娠性或原发性绒癌[]。绒癌具有恶性程度高，具有易早期转移、易复发、易产生耐药的特点，严重地威胁着育龄期妇女的健康2。目前，化疗是绒毛膜癌主要治疗手段，然而，随着一线化疗药物在临床的广泛应用，耐药及复发病例呈现逐年上升趋势,这在很大程度上限制绒毛膜癌的长期疗效[3]。因此通过建立动物模型寻求能治疗绒毛膜癌的新药物或者可以预测绒毛膜癌的分子标志物具有重要的意义。郑井红等将人绒癌细胞系JEG-3尾静脉注射建立人绒癌SCID小鼠肺转移动物模型[4]。应用BALB/C-beige/beige同类近交系小鼠将beige基因引入SCID小鼠构建SCIDBeige(SCID.bg)小鼠，导致小鼠体内NK细胞活性降低，提高受体保留移植细胞活力和功能的潜力[5]但国内对SCID.bg小鼠的应用尚不广泛。近年来，应用慢病毒过表达或敲除基因广泛应用于肿瘤相关研究国外文献报道发现，在绒毛膜癌细胞系中，JAR细胞系更易于稳定感染慢病毒载体。因此,本实验采用鼠尾静脉注射稳定表达EGFP的JAR细胞构建稳定有效重复性好的绒毛膜癌SCIDbeige雌性小鼠病理模型，模拟临床绒毛膜癌上皮实体瘤特性及全身远处转移弥漫生长特点，为研究人绒毛膜癌发病机理及药物治疗奠定实验基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1材料来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人绒毛膜癌细胞株JAR购自ATCC细胞库(上海);慢病毒空载体GV208（吉凯基因，上海），元件顺序：Ubi-MCS-EGFP,真核抗性：嘌呤霉素，荧光标记：EGFP;Polybrene购自上海吉凯公司；24只3\\~5周龄SCIDbeige雌性小鼠,体质量 $1 6 { \\sim } 2 0 ~ \\mathrm { g }$ ，购自北京维通利华实验动物技术有限公司。小鼠在符合SPF标准层流架内无菌独立送风IVC笼中饲养，饲以标准颗粒饲料，添加维生素C、鸡蛋，饮用水为加少量食盐的灭菌双蒸水，垫料等与鼠接触物品均经灭菌处理，保持动物实验室内温度 $2 5 ~ \\mathrm { { ^ { \\circ } C } }$ 左右，相对湿度 $4 0 \\% \\sim 7 0 \\%$ ，每日光照 $1 2 \\mathrm { h }$ 适应性饲养1周的SCID.bg小鼠随机分为实验组和对照组，每组12只，实验组分为A(皮下移植瘤模型)/B(肺转移瘤模型)两组。细胞培养基DMEM及胎牛血清均购自美国Gibco公司； $\\beta$ -HCG试剂盒购自日本东京三菱公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1慢病毒载体转染JAR细胞、稳定细胞系筛选及细 胞悬液制备将 $5 { \\times } 1 0 ^ { 4 }$ 对数生长期JAR细胞接种于6孔 板培养皿， $3 7 \\%$ $\\mathrm { C O } _ { 2 }$ 饱和湿度培养箱中培养 $2 4 \\mathrm { h } _ { \\circ }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将适量病毒颗粒和Polybrene加入 $3 \\mathrm { m L }$ 培养基,终浓度为 $6 { \\sim } 8 ~ \\mu \\mathrm { g / m L }$ ,轻吹混匀，加入培养皿。 $2 4 \\mathrm { ~ h ~ }$ 后更换新鲜的完全培养基培养 $4 8 \\mathrm { ~ h ~ }$ ；每隔2d更换 $2 ~ \\mu \\mathrm { g / m L }$ 嘌呤霉素药物的培养基继续培养。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "待抗性细胞长满后， $0 . 5 \\%$ 胰酶消化，含 $10 \\%$ 血清的培养基重悬细胞，水平离心机 $1 0 0 0 ~ \\mathrm { r / m i n }$ 离心 $5 \\mathrm { m i n }$ ，灭菌PBS重悬细胞，轻柔涮洗3次，无血清培养基重悬细胞后进行细胞计数，再次离心后，根据细胞数目加入无血清培养基，配置 $2 . 5 { \\times } 1 0 ^ { 7 } / \\mathrm { m L }$ 细胞悬液",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2建立绒毛膜癌皮下移植瘤模型6只SCID小鼠移植前，腹腔注射 $4 . 3 \\%$ 水合氯醛（ $4 3 0 \\mathrm { m g / k g } ,$ 麻醉小鼠。皮下移植瘤组常规消毒背部，将 $2 0 0 ~ \\mu \\mathrm { L }$ 细胞悬液 $( 5 \\times$ $1 0 ^ { 6 } /$ 只)接种于背部皮下，建立皮下移植瘤病理模型；每天观察皮下成瘤时间及生长特性，连续观察4周。用游标卡尺测量肿瘤长轴，以瘤结节直径达 $0 . 5 \\mathrm { c m }$ 作为成瘤标准。如SCID.bg鼠死亡或肿瘤 $< 0 . 5 \\ \\mathrm { c m }$ 则计为模型失败。根据最早扪及皮下肿瘤的时间和随后每3d的测量结果,计算肿瘤体积,肿瘤体积 $( \\mathrm { c m } ^ { 3 } ) { = } 0 . 5 \\times$ 长径 $\\times$ 宽径²，取均值，绘制肿瘤生长曲线。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3建立绒毛膜癌肺转移瘤模型 6只SCID.bg小鼠移植前，腹腔注射 $4 . 3 \\%$ 水合氯醛 $( 4 3 0 \\mathrm { \\ m g / k g } )$ 麻醉小鼠，常规消毒鼠尾注射部，鼠尾静脉注射 $2 0 0 ~ \\mu \\mathrm { L }$ JAR/EGFP细胞悬液（ $\\left. 5 \\times 1 0 ^ { 6 } \\right.$ 只)，对照组分别于鼠背部注射和鼠尾静脉注射等量灭菌PBS。4周后， $4 \\%$ 异氟烷吸入麻醉小鼠后， $2 \\% { \\sim } 2 . 5 \\%$ 异氟烷维持麻醉，应用小动物IVIS系统检测活体EGFP荧光水平，明确肺部移植瘤成瘤情况，同时观察肝、生殖器以及颈部邻近的淋巴结有无转移灶。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.4小鼠外周血 $\\beta$ -HCG检测接种后第14天取小鼠尾静脉外周血 $2 0 0 ~ \\mu \\mathrm { L }$ ，放射免疫分析法(RIA)检测外周血 $\\beta$ -HCG含量，具体操作参考说明书。最小测定的水平为 $0 . 1 \\mathrm { n g / m L }$ ，测定变异系数分别为 $4 . 5 \\%$ 和 $6 . 3 \\%$ 。$1 . 2 . 5 \\ \\mathrm { H E }$ 染色及镜检皮下或静脉注射JAR/EGFP细胞4周后，对SCID小鼠实施安乐死，解剖获取皮下实体移植瘤及小鼠肺脏组织，以 $10 \\%$ 甲醛固定 $4 8 \\mathrm { ~ h ~ }$ 以上，常规石蜡切片，HE染色，光学显微镜下观察皮下移植瘤体及肺转移瘤的组织结构。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.6统计学分析采用SPSS18.0统计软件，所得数据用均数 $\\stackrel { \\cdot } { \\pm }$ 标准差表示，组间均数比较采用 $t$ 检验， $P { < } 0 . 0 5$ 差异有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1小鼠成瘤情况及形态学表现 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "皮下移植瘤组：观察期，皮下注射2周后，在背部可触及微小结节，随着肿块的增大，小鼠体质量无明显改变，精神状态良好(图1A)。背部结节边界清，略可活动，触之质中，瘤体表面皮肤呈紫褐色(图1B)。4周后，小鼠实施安乐死后解剖可见皮下瘤外附包膜,瘤体呈粉白色，侵袭小鼠背部肌层组织(图1C)，皮下周围血管过度增殖，进入肿瘤(图1D)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "肺转移瘤组：鼠尾静脉接种JAR/EGFP细胞28d后实验组小鼠开始出现动物皮毛起皱步态不稳萎靡不动。IVIS系统检测均在小鼠肺部发现单发或多发性实体肿块，其中1只小鼠出现颈部淋巴结转移，1只伴生殖器部位受累;1只伴生殖器部位受累和淋巴结转移(图2A)；1只解剖发现肺转移伴脾脏明显肿大(图2B)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 成瘤期外周血 $\\cdot \\mathrm { \\boldsymbol { \\mathrm { ~ \\_ { ~ \\cdot ~ } ~ } } }$ -HCG检测",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "接种后第14天，实验组及对照组SCID小鼠采用RIA法测定血清 $\\mathsf { \\beta }$ -HCG。数据显示，接种JAR细胞14d,实验组β-HCG水平显著高于对照组( $P { < } 0 . 0 5 )$ ,肺转移瘤模型的 $\\beta$ -HCG水平明显高于皮下瘤模型 $( P { < } 0 . 0 5 )$ (图3A)。小鼠血清 $\\mathsf { \\ddot { \\beta } }$ -HCG水平与皮下瘤肿瘤体积相关",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/4a5f6217bcd04f9caaca358456896851c059589af5602006d9dfcaebb0e2805f.jpg",
+        "img_caption": [
+            "图1皮下移植瘤模型小鼠形态学"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b7d711b52608e73a3b4604cebf85adfd6b31cc3118e6ac33ff169d4e1b665a63.jpg",
+        "img_caption": [
+            "Fig.1 Gross observation of the subcutaneous xenograft model.A: A tumor-bearing mouse showing good general condition; B: The border of the subcutaneous xenograft was clear, and the skin covering the tumor became purple-brown; C: Dissection of the encapsulated tumor,which was pale pink in color and invaded the dorsal muscle tissue; $D$ : Excessive proliferation of blood vessels surrounding the xenograft. ",
+            "图2肺转移瘤模型IVIS图像和脾大解剖外观 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.2In vivo imaging ofthelung xenograft and disectionofthe enlarged spleen ina mouse bearing metastaticlung tumors. A: In vivo imaging (a:Lung xenograft; b:Lung xenograft with cervical lymph node metastasis; c:Lung xenograft withgenital metastasis; d: Lung xenograft with genital and cervical lymph node metastasis); B: Enlarged splen in a mouse bearing lung xenograft. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（图3B）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3组织病理学检查",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "皮下移植瘤组：组织病理切片HE染色显示细胞核大而深染，多数见病理性核分裂象，胞浆淡染，瘤体内可见有坏死出血区，并可见多量新生血管，表明所建立的皮下移植瘤符合人绒毛膜癌细胞特征(图4A，B)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "肺转移瘤组：HE染色见肺转移灶存在高度增生的滋养细胞，细胞分布密集成团，核大深染，未见到绒毛结构;肺转移瘤周围肺组织明显炎性渗出(图4C，D)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "国外研究报道，大约5000名女性当中会出现1位绒癌患者[8。而基因学方面的相关研究表明,正常妊娠、部分性葡萄胎和完全性葡萄胎均可发展成为绒癌，所以绒癌的实际发病率应该更高[9-10]。绒毛膜癌早期即可出现转移，其中肺部最常见的远处转移部位。由于其对化疗的高度敏感性，是迄今唯一化疗治愈的恶性肿瘤，总的治愈率超过 $9 0 \\% ^ { [ 1 1 ] }$ 。但是,化疗药物的毒副作用影响治疗效果，高危、耐药及复发病例的治疗效果令人难以满意[3]。需要寻找新的化疗药物或另辟新的治疗靶点。因此，建立高效的绒毛膜癌动物模型对于探索治疗的新药物具有重要意义。众所周知，动物模型是新药筛选评价的重要研究基础612]。徐文静等[13]研究指出 SCID.bg小鼠各项免疫指标均低于BALB/c裸小鼠和SCID小鼠,且品系内不同性别间差异无显著性。Takizawa等[14]发现在某些肿瘤移植的成功率高于SCID小鼠。郑井红等4应用相同细胞数目的JEG-3细胞注射SCID小鼠18d后，实验鼠即处于濒死状态。本研究应用SCID.bg小鼠成瘤后，皮下瘤组小鼠状态良好，肺转移瘤组小鼠于28d开始出现动物皮毛起皱、步态不稳、萎靡不动等不良状态。进一步说明SCID.bg小鼠在肿瘤移植模型的应用方面可能具有较大的优势。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ebde74e24ad754a2e97372e6735f44b767603df037fa3e2a632d9f17229a99c.jpg",
+        "img_caption": [
+            "图3移植瘤模型小鼠的血清 $\\mathsf { \\cdot \\{ \\beta \\} }$ -HCG水平及其与皮下瘤体积的关系 Fig.3 Serum $\\beta$ HCG levels of the mice at 14 days (A) and its relationship with subcutaneous tumor volume (B). $^ { * } P { < } 0 . 0 5$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d3d28a5871b94d031216fd3ee2a715aa5d02ef678754f1662a762ee0a7dc59c1.jpg",
+        "img_caption": [
+            "图4实验小鼠组织学表现",
+            "Fig.4 Histological examination of the xenografts in the tumor-bearing mice (HE staining, original magnification: $\\times 4 0 0$ ).A:Subcutaneous tumor tissue;B: Subcutaneous tumor necrosis; C: Solid tumor area of the lung xenograft; $D$ ：Border zone of the lung xenograft. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "近几年，原位移植肿瘤建立肿瘤肺转移模型成为研究的热点[15-16]。但是， $9 0 \\%$ 绒毛膜癌患者通过化疗治愈，很难获得绒癌组织块，且SCID鼠个体小，其子宫更小，于子宫肌层内移植入绒癌组织块建立妊娠性绒癌的动物模型，在实际操作中可行性很小。目前，用于建立绒毛膜癌动物模型的方法主要有尾静脉注射和皮下注射两种方法。皮下注射具有操作简单、局部成瘤快、成功率高等优点[17-19]。尾静脉注射绒毛膜癌细胞可随血液循环形成局部靶器官浸润，能更好的模拟绒毛膜癌弥漫生长、易早期血行转移至肺脏等特点，因而更符合绒毛膜癌临床特点。本课题同时应用皮下及尾静脉注射建立绒毛膜癌病理模型，对比接种后小鼠形态学、特异性血清标志物β-HCG和组织病理学HE检测，发现接种第14天，实验组小鼠血清 $\\beta$ -HCG显著高于对照组,A组小鼠血清 $\\beta$ -HCG水平与皮下瘤肿瘤体积相关，且肺转移瘤模型 $\\beta$ -HCG水平明显高于皮下瘤模型。接种第28天，A实验组小鼠皮下出现完整包膜单发肿瘤，组织病理切片HE染色明确皮下移植瘤符合人绒毛膜癌细胞特征。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "活体成像系统(IVIS)是近年来迅速发展的一种检测细胞或组织生物发光的新技术，可灵敏、连续地示踪体内外标记细胞，并进行精确的量化分析，已被广泛应用于肿瘤学、病毒学和基因研究等诸多领域[20-21]。因此，我们应用JAR细胞转染慢病毒载体后，首次通过IVIS系统检测尾静脉注射JAR/EGFP细胞的小鼠肺转移瘤模型，发现肺脏出现单发或多发肿瘤，并同时明确是否合并其他部位的肿瘤，为后期解剖获取目标器官及肿瘤组织提供依据。本研究的组织病理学结果即肺组织均有不同程度的瘤细胞浸润进一步表明IVIS系统定位前瞻性及准确性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究分别通过皮下及尾静脉注射JAR细胞成功构建人绒毛膜癌小鼠病理模型，模型动物成瘤率高，生存期稳定，能良好的模拟临床绒毛膜癌弥漫生长、远处转移特点，为抗绒癌药物筛选分子靶向和基因治疗提供稳定动物模型，具有重大的临床实用价值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Goldstein DP,Berkowitz RS.Current management of gestational trophoblastic neoplasia[J].Hematol Oncol Clin North Am,2O12,26 (1): 111.   \n[2]Boufettal H, Khalkane L,Noun M, et al. Gestational choriocarcinoma at Ibn Rochd Hospital,Casablanca,2OO4-201O [J].East Mediterr Health J,2014,19 (Suppl 3): S208-12.   \n[3]Froeling FE,Seckl MJ.Gestational trophoblastic tumours:an update for 2014[J].Curr Oncol Rep,2014,16(11): 408.   \n[4]郑井红,陆佳琦,程明军,等.人绒毛膜癌鼠肺转移模型的建立及其生 物学特性的初步观察[J].中华妇产科杂志,2010,45(7):519-24.   \n[5]Shibata S,Asano T, Ogura A,et al. SCID-bg mice as xenograft recipients[J].Lab Anim,1997,31(2): 163-8.   \n[6]Kawamura K,Kawamura N, Okamoto N,et al. Suppression of choriocarcinoma invasion and metastasis following blockade of BDNF/TrkB signaling[J].Cancer Med,2013,2(6): 849-61.   \n[7]Kawamura N,Kawamura K,Manabe M,et al. Inhibition of Brain-Derived neurotrophic factor/tyrosine kinase B signaling suppresses choriocarcinoma cell growth[J].Endocrinology,2010, 151(7): 3006-14.   \n[8]Horowitz NS,Goldstein DP,Berkowitz RS.Management of gestational trophoblastic neoplasia[J]. Semin Oncol, 2009,36(2): 181-9.   \n[9]Ngan S, Seckl MJ. Gestational trophoblastic neoplasia management: an update[J]. Curr Opin Oncol,2007,19(5): 486-91.   \n[10]Szulman AE. Choriocarcinoma after hydatidiform mole[J].Am J Obstet Gynecol,2000,183(1): 257.   \n[11] Cheung AN, Zhang HJ，Xue WC，et al.Pathogenesis of choriocarcinoma: clinical,genetic and stem cell perspectives [J]. Future Oncol, 2009,5(2): 217-31.   \n[12]Xie N,Mou LS, Yuan JH,et al. Modulating drug resistance by targetingBCRP/ABCG2usingRetrovirus-MediatedRNA interference[J].PLoS One,2014,9(7): e103463.   \n[13]许文静,郭建光,吴艳秋,等.SPF级SCID.BG小鼠与BALB/c裸小 鼠、SCID小鼠部分免疫指标的测定与比较[J].实验动物与比较医学, 2013,33(2): 153-6.   \n[14] Takizawa Y, Saida T, Tokuda Y,et al. New immunodeficient (nude-scid,beige-scid) mice as excellent recipients of human skin grafts containing intraepidermal neoplasms[J]. Arch Dermatol Res, 1997,289(4): 213-8.   \n[15]Prasad MA，Kulik LM. The role of bridge therapy prior to orthotopic liver transplantation[J].JNatl Compr Canc Netw,2014, 12(8): 1183-90.   \n[16]Minervini A,Serni S,Vittori G,et al. Current indications and results of orthotopic ileal neobladder for bladder Cancer[J]. Expert Rev Anticancer Ther, 2014,14(4): 419-30.   \n[17]李 卓,徐 珊,朱利群,等.多药耐药性人绒毛膜癌裸鼠皮下移植瘤模 型的建立及其生物学特性[J].中国肿瘤生物治疗杂志,2007,14(4): 347-51.   \n[18]吴元洁,吴元波,郑书国,等.糖尿病大鼠血糖波动模型的建立[J].南 方医科大学学报,2014,34(6):771-4.   \n[19]汤 瑶,雷翔慧,简文静,等.最佳剂量链脲佐菌素构建糖尿病小鼠的淋 巴瘤模型[J].南方医科大学学报,2014,34(6):827-31.   \n[20] Park PG,Cho MH,Rhie GE,et al.GFP-tagged E.coli shows bacterial distribution in mouse organs: pathogen tracking using fluorescence signal[J].Clin Exp Vaccine Res,2012,1(1): 83-7.   \n[21]Han Z,Fu A,Wang H,et al. Noninvasive assessment of cancer response to therapy[J].Nat Med,2008,14(3): 343-9. (编辑.孙旦明) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

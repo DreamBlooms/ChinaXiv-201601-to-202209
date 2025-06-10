@@ -1,0 +1,172 @@
+[
+    {
+        "type": "text",
+        "text": "Short-Term Synaptic Plasticity Mimicked on Ionic/Electronic Hybrid Oxide Synaptic Transistor Gated by Nanogranular ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { S i O } _ { 2 }$ Films ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhaojun $G u o ^ { 1 , 2 ) }$ , Liqiang Guo²), Liqiang $Z h u ^ { 2 ) ^ { * } }$ ， Yuejin Zhu1)   \n1） Faculty of Science,Ningbo University,Ningbo 315211,China   \n2） Ningbo Instituteof Materials Technology & Engineering,Chinese Academy of Sciences,Ningbo 315201,China [Manuscript received December 30,2013,in revised form January 21,2014,Available online 6 May 2014] ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Anindium-zinc-oxide (IZO）based ionic/electronic hybrid synaptic transistor gated by field-configurable nanogranular $\\mathsf { S i O } _ { 2 }$ films was reported. The devices exhibited a high current ON/OFF ratio of above ${ 1 0 } ^ { 7 }$ ，a high electron mobility of $\\sim 1 4 \\ c m ^ { 2 } \\ \\vee ^ { - 1 } \\ \\mathbf s ^ { - 1 }$ and a low subthreshold swing of $\\sim 8 0 \\mathrm { \\ m V / \\Omega }$ decade. The gate bias would modulate the interplay between protons and electronsat the channel/dielectric interface.Due to the dynamic modulation of the transient protons flux within the nanogranular $\\mathsf { S i O } _ { 2 }$ films，the channel current Would be modified dynamically. Short-term synaptic plasticities，such as short-term potentiation and shorttermdepression，were mimicked on the proposed IZO synaptic transistor.The results indicate that the synaptic transistor proposed here has potential applications in future neuromorphic devices. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KEY WORDS: Synaptic transistor; Short-term synaptic plasticity; Protonic/electronic hybrid ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Inspired by the high efficiency of neural computation in biological systems,neuromorphic computational systems based on solid-state neural network have attracted much attention[1-3]. Electrically triggered memristors with self-learningabilities were proposed to mimic the synaptic behaviors in biological systems and were reported to have potential applications in neuromorphic computation[4-7]. The field-driven migration of metal ions results in the formation of metal filaments and the decreased resistivity.Transistors,with several unique characteristics,are also pretty candidates for emulating artificial synapses and thus for building artificial neural networks.Alibart et al.[8] reported pentacene-based organic transistor behaving as an artificial synapse to mimic short-term plasticity of a biological synapse. Synaptic transistors with p-Si channel and carbon nanotube (CNT) have also been investigated to mimic signal processing and learning functions[9,10]. Much attention has been atracted on zinc oxide based semiconductors.Structure and electrical characteristics were studied[11-13].Especially，amorphous oxide semiconductor-based thin-film transistors (TFTs） have stimulated considerable attention due to their high electron mobility and low processing temperature[14-16]. However, there are few reports on amorphous oxide semiconductor-based transistors for mimicking biological synaptic plasticity. It is well known that low-dimensional inorganic semiconductor nanostructures are attracting tremendous interest due to their unique physical and chemical properties[17,18]．Recently， nanogranular $\\mathrm { S i O } _ { 2 }$ films have also been proposed as a solid-state electrolyte to gate the oxide semiconductor,resulting in metal-insulator phase transition[19]. Due to the unique protonic/electronic coupling effects within the nanogranular $\\mathrm { S i O } _ { 2 }$ electrolyte,nanogranular $\\mathrm { S i O } _ { 2 }$ electrolyte gated transistor has been proposed to mimic the synaptic responses[20,21]. In this work,we demonstrated that analog synaptic plasticity behaviors can be mimicked in an indium一zinc-oxide (IZO) based thin-film transistors fabricated at room temperature.The gate bias modulated the interplay between protons and electrons at the channel/nanogranular $\\mathrm { S i O } _ { 2 }$ film interface.Typical transistor characteristics and short-term synaptic plasticities were obtained. The proposed synaptic transistor has potential applications in future neuromorphic devices. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.Experimental ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fig.1(a) shows the schematic diagram for obtaining IZO thinfilm transistors(TFTs) on indium-tin-oxide (ITO) coated glass substrates.Firstly,a phosphorus (P)-doped nanogranular $\\mathrm { S i O } _ { 2 }$ layerwasdeposited onITO glass substratesbyplasma enhanced chemical vapor deposition (PECVD) by using $\\mathrm { S i H } _ { 4 } / \\mathrm { P H } _ { 3 }$ mixture $( 9 5 \\% \\mathrm { S i H } _ { 4 } + 5 \\% \\mathrm { P H } _ { 3 } )$ )and $\\mathbf { O } _ { 2 }$ as reactive gases.Then,patterned IZO layers $( 1 5 0 ~ { \\mu \\mathrm { m } } \\times 1 0 0 0 ~ { \\mu \\mathrm { m } } )$ were deposited on the nanogranular $\\mathrm { S i O } _ { 2 }$ by radio frequency (RF） magnetron sputtering with a nickel shadow mask.The nickel shadow mask was placed above the substrate.The deposition was performed using IZO ceramic target $( \\mathrm { I n } _ { 2 } \\mathrm { O } _ { 3 } ; \\mathrm { Z n O } = 9 0 ; 1 0$ in $w t \\%$ ）sputteredwithaRF power of 1oo W.The working pressure and Ar gas flow rate were set to $0 . 5 \\mathrm { P a }$ and14 sccm (standard cubic centimeter per minute), respectively.As shown in Fig. 1(a),the sputtered IZO nanoclusters will diffract into the shadow regions of the nickel mask. Therefore,a thin IZO channel layerwill be self-assembled between two patterned IZO layers simultaneously.Due to the low resistance, the two patterned IZO layer could be deemed as the source and drain electrodes.When the bottom conductive ITO layer is deemed as the bottom gate,a normal bottom gate IZO ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/33cb3b074ca58c48fcaec0feb950b7b0dc89736f54310d7d191513b654d5b149.jpg",
+        "img_caption": [
+            "Fig.1 (a) Schematic diagrams for obtaining IZO thin-film transistors (TFTs) with IZO source/drain electrodes and self-assembled IZO channel by using one shadow mask; (b) Specific capacitance as a function of frequency from $1 \\ \\mathrm { H z }$ to ${ 1 0 ^ { 6 } } \\mathrm { H z }$ for the microporous $\\mathrm { S i O } _ { 2 }$ films (Inset: cross-sectional SEM images of the nanogranular $\\mathrm { S i O } _ { 2 }$ films on Si wafer);(c) Transfer characteristics 0 $\\mathrm { \\tilde { \\it I _ { d s } } }$ VS $V _ { \\mathrm { g s } } )$ of the IZO TFT gated by $\\mathrm { \\bf ~ P }$ -doped nanogranular $\\mathrm { S i O } _ { 2 }$ films with a constant $V _ { \\mathrm { d s } }$ of $1 . 6 \\mathrm { ~ V ~ }$ in a bottom gate structure. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "TFT is obtained. When taking the bottom gate as the presynapse,while the channel with the source and drain as the post-synapse,an IZO based synaptic transistor is obtained.At the same time,nanogranular $\\mathrm { S i O } _ { 2 }$ films were also deposited on polished Si wafers for scanning electron microscopy (SEM) characterizations.The cross-sectional morphology characterizations were performed by field-emission SEM (Hitachi-S4800). The capacitance of the nanogranular $\\mathrm { S i O } _ { 2 }$ films was measured by using a Solartron 126OA impendance analyzer. The transistor performances and synaptic plasticity were characterized by using a Keithley 42oo semiconductor parameter analyzer. All the measurements were finished at room temperature and at air ambient insideashieldedbox. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.Results and Discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The inset of Fig. 1(b) shows the cross-sectional SEM images of the phosphorus (P)-doped nanogranular $\\mathrm { S i O } _ { 2 }$ films on Si substrate.Clear nanocolumnar microstructures with aligned nanochannels are observed.The thickness of the nanogranular $\\mathrm { S i O } _ { 2 }$ films deposited at room temperature is estimated to be $\\sim 6 5 0 ~ \\mathrm { n m }$ .Such loose structure helps to the absorption of $_ { \\mathrm { H } _ { 2 } \\mathrm { O } }$ molecules within the nanogranular $\\mathrm { S i O } _ { 2 }$ films and the protonic/ electronic hybrid behaviors.Fig.1(b) shows the specific capacitance of the nanogranular $\\mathrm { S i O } _ { 2 }$ films as a function of frequency in the range between $1 . 0 \\mathrm { H z }$ and $1 . 0 \\mathrm { M H z }$ .It can be seen that the specific capacitance increases with decreasing frequency. The maximum specific capacitance of $\\sim 6 . 3 \\ \\mu \\mathrm { F / c m } ^ { 2 }$ is obtained at $1 . 0 \\ : \\mathrm { H z }$ .Such big specific capacitance is due to the formation of electric-double-layer (EDL) at the interface.Fig.1(c) shows the transfer characteristics (drain current, $ { I _ { \\mathrm { d s } } }$ vs gate voltage, $V _ { \\mathrm { g s } } )$ of the IZO TFT gated by $\\mathrm { \\bf ~ P }$ -doped nanogranular $\\mathrm { S i O } _ { 2 }$ films in saturation region with a constant $V _ { \\mathrm { d s } }$ of $1 . 6 \\mathrm { ~ V ~ }$ in a bottom gate structure.A hysteresis loop of ${ \\sim } 0 . 3 \\mathrm { ~ V ~ }$ is observed by the forward and reverse scan,which is suggested to be related to the migration of protons within the nanogranular SiO2 films[19,2] Current ON/OFF ratio,subthreshold swing(S.S.)and threshold voltage $\\left( V _ { \\mathrm { t h } } \\right)$ are estimated to be $\\sim 6 ~ \\times ~ 1 0 ^ { 7 }$ ， $8 0 \\ \\mathrm { \\ m V } /$ decade and $- 0 . 1 \\mathrm { ~ V } _ { : }$ ，respectively.Field-effect mobility $( \\mu )$ is estimated by the following equation: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { \\mathrm { d s } } = { \\frac { W C \\mathrm { i } } { 2 L } } \\mu \\big ( V _ { \\mathrm { g s } } - V _ { \\mathrm { t h } } \\big ) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $W$ is channel width of $\\sim 1 \\ \\mathrm { m m }$ ， $L$ is channel length of $\\sim 8 0 ~ \\mu \\mathrm { m }$ ， $C _ { \\mathrm { i } }$ is the capacitance of P-doped nanogranular $\\mathrm { S i O } _ { 2 }$ films of $\\sim 6 . 3 \\ \\mu \\mathrm { F / c m } ^ { 2 }$ ，respectively.Therefore,the mobility $( \\mu )$ is estimated to be ${ \\sim } 1 4 \\ \\mathrm { { \\hat { c } m } ^ { 2 } \\ V ^ { - 1 } \\ s ^ { - 1 } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The modulation of the IZO channel conductance is related to the field-configurable protons flux within the nanogranular $\\mathrm { S i O } _ { 2 }$ films.The gate bias would trigger a transient protons flux within $\\mathrm { S i O } _ { 2 }$ films,therefore modulating the interplay between protons and electrons at the channel/dielectric interface.Due to the dynamic modulation of the migration of protons within the nanogranular $\\mathrm { S i O } _ { 2 }$ films by the gate bias, the channel current would be modified dynamically. Owing to such unique protonic/electronic hybrid properties,synaptic plasticity could be mimicked on the field-configurable nanogranular $\\mathrm { S i O } _ { 2 }$ gated IZO TFTs. The bottom gate could be deemed as the pre-synapse and the IZO channel with the source/drain electrodes could be deemed as the post-synapse.The IZO channel current was read out with a short read pulse on the gate before and after applying a gate input spike (programming pulse). Fig.2(a) shows the IZO channel current as a function of time after applying a read pulse $( 0 . 0 5 { \\mathrm { V } } , { }$ （204号 $2 0 ~ \\mathrm { m s } \\dot { }$ ）and a single programming pulse of $1 \\mathrm { \\Delta V }$ in amplitude and $3 0 ~ \\mathrm { m s }$ in duration time.A constant $V _ { \\mathrm { d s } }$ of $0 . 5 \\mathrm { ~ V ~ }$ was applied to the drain with the source grounded.The interval time between the read pulse and the programming pulse is $2 5 0 ~ \\mathrm { m s }$ Before applying the positive programming pulse, the initial drain current （204号 $\\left( I _ { \\mathrm { i n i t i a l } } \\right)$ is $\\sim 1 0 2 ~ \\mathrm { \\ n A }$ by applying a read pulse on the gate.After applying the positive programming pulse,the drain current $( I _ { \\mathrm { a f f e r } } )$ increases to $\\mathrm { \\sim 1 1 9 n A }$ by applying a read pulse on the gate. Interestingly, for the negative programming pulse of $- 0 . 5 \\mathrm { ~ V ~ }$ in amplitude and $3 0 ~ \\mathrm { m s }$ in duration time, $I _ { \\mathrm { a f f e r } }$ is lower than $I _ { \\mathrm { i n i t i a l } }$ (91 nA vs $9 7 ~ \\mathrm { n A } \\$ ),as shown in Fig.2(b).When the pulse ends, the current gradually decays back to a static equilibrium state. The temporal profile of the current is comparable to those observed in biological synapses. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e30b1fd02b4cf3c2915eb6d1278e68a07b721b1cc281f6fa2b569d3de9d0a28.jpg",
+        "img_caption": [
+            "Fig.2IZO channel current as a function of time after applying a read pulse $( 0 . 0 5 \\mathrm { ~ V } , 5 0 \\mathrm { ~ m s } )$ and a single programming pulse with a constant $V _ { \\mathrm { d s } }$ of $0 . 5 \\mathrm { V } ;$ ：(a)A positive programming pulse of $1 \\mathrm { \\Delta V }$ in amplitude and $3 0 \\mathrm { m s }$ in duration; (b) A negative programming pulse of $- 0 . 5 \\mathrm { ~ V ~ }$ in amplitude and $3 0 ~ \\mathrm { { m s } }$ in duration. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The transistors can also be dynamically programmed to arbitrary states by applying gate programming pulses with different amplitude and different polarity.A series of positive programming pulses with fixed amplitude of $1 \\mathrm { \\Delta V }$ and fixed duration time of $3 0 ~ \\mathrm { m s }$ were applied to the bottom gate.A constant $V _ { \\mathrm { d s } }$ of $0 . 5 \\mathrm { ~ V ~ }$ was applied to the drain.After each programming pulse, the transistor was stabilized at $V _ { \\mathrm { g s } } = 0 ~ \\mathrm { V }$ for $2 5 0 ~ \\mathrm { m s }$ .Then the drain current was measured by applying a read pulse $( 0 . 0 5 { \\mathrm { ~ V } } ,$ （204号 $2 0 ~ \\mathrm { m s } ,$ ）on the gate. The interval time between two programming pulses is $5 0 0 ~ \\mathrm { { m s } }$ .As shown in Fig.3(a),the current read out by the read pulse progressively increases with the increase of the number of the positive programming pulses.A series of negative programming pulses with fixed amplitude of $- 0 . 5 \\mathrm { ~ V ~ }$ and fixed duration time of $3 0 ~ \\mathrm { m s }$ were also applied to the bottom gate. Different behaviors are observed.As shown in Fig.3(b),the current read out by the read pulse progressively decreases by the negative programming pulses. The progressive increasing and decreasing in channel current as a function of constant programming pulse trains are similar to the response of synapse with facilitating process and depressing process,respectively[9]. The phenomena suggest that the drain current can be gradually adjusted by tuning the numbers and polarity of the programming pulses.Fig.3(c) illustrates the drain current when the device is configured by a series of identical positive programming pulses $( 1 ~ \\mathrm { ~ V } , ~ 3 0 ~ \\mathrm { ~ m s } )$ ）followed by a series of identical negative programming pulses $( - 0 . 5 \\mathrm { ~ V } , \\ 3 0 \\mathrm { ~ m s } )$ . The drain current was measured at a small read pulse of $0 . 0 5 \\mathrm { ~ V ~ }$ on the gate with a constant $V _ { \\mathrm { d s } }$ of $0 . 5 \\mathrm { V }$ after each programming pulse.The interval time between the read pulse and the programming pulse is $2 5 0 ~ \\mathrm { { m s } }$ .The application of positive programming pulses (P) progressively increases the drain current,while the application of negative programming pulses (D） gradually decrease the drain current.Under the influence of an electric field,the continuous potentiation and depression contribute to modulating the drain current precisely.The increase (or decrease) in the drain current observed here is analogous to short-term synaptic potentiation (or depression) of synapses in biological systems. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d25624b82614f1304e1d25e3be49dd8a12af0870e48ed7fd99d0d0f8487b3418.jpg",
+        "img_caption": [
+            "Fig.3IZO transistors response to programming pulses.The channel current is read out by applying a read pulse (O.05 V,5O ms) with a constant $V _ { \\mathrm { d s } }$ of $0 . 5 { \\mathrm { ~ V } } .$ (a) Current (lower curve) is progressively increased by applying a series of positive programming pulses with amplitude of $1 \\mathrm { ~ V ~ }$ (upper curve).(b) Current (lower curve) is progressively decreased by applyinga series of negative programming pulses with amplitude of $- 0 . 5 \\mathrm { ~ V ~ }$ (upper curve).(c) The channel current can be progressively increased or decreased by consecutive positive $( \\mathrm { P } ; 1 ~ \\mathrm { V } , 3 0 ~ \\mathrm { m s } )$ ）ornegative (D: $- 0 . 5 ~ \\mathrm { V } ,$ $3 0 ~ \\mathrm { m s }$ ）programming pulses. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The operation mechanisms of the synaptic plasticity are discussed as follows.When a positive bias at the bottom gate electrode is applied,mobile protons $( \\mathrm { H } ^ { + } )$ within the P-doped nanogranular $\\mathrm { S i O } _ { 2 }$ films will move to the area near the interface of the top IZO channel and result in the formation of an interfacial electric-double-layer (EDL)[19]. On the one hand, protons $( \\mathrm { H } ^ { + } )$ dissociated from $\\mathrm { S i H } _ { 4 }$ and $\\mathrm { P H } _ { 3 }$ during the PECVD process will enter the nanogranular $\\mathrm { S i O } _ { 2 }$ films.On the other hand, the loose nanogranular $\\mathrm { S i O } _ { 2 }$ films exposed to the atmosphere would absorb $\\mathrm { H } _ { 2 } \\mathrm { O }$ molecules within $\\mathrm { S i O } _ { 2 }$ films,in which hydrogen bonds with the hydroxyl groups[23,24]. When a positive gate programming pulse arrives,a transient proton flux is triggered within the nanogranular $\\mathrm { S i O } _ { 2 }$ films.Then the protons $( \\mathrm { H } ^ { + } )$ will accumulate at the $\\mathrm { S i O } _ { 2 } / \\mathrm { I Z O }$ channel interface,resulting in the accumulation of electrons in the IZO channel.With the increase of the numbers of the positive gate programming pulse,the phenomena of potentiation are observed.When a negative gate programming pulse arrives,a transient proton flux with opposite direction is triggered within the nanogranular $\\mathrm { S i O } _ { 2 }$ films. Therefore the electron in the IZO channel can be depleted.With the increase of the numbers of the negative gate programming pulse,the phenomena of depression are observed.The microporous structure of the nanogranular $\\mathrm { S i O } _ { 2 }$ films plays an important role in field-configurable operation.The short-term synaptic plasticity mimicked on the proposed IZO synaptic transistors is related to the dynamic modulation of the protons flux within the $\\mathrm { S i O } _ { 2 }$ nanogranular films. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In summary,an indium-zinc-oxide based ionic/electronic hybrid synaptic transistor gated by field-configurable nanogranular $\\mathrm { S i O } _ { 2 }$ films was demonstrated. High electrical performancesare illustrated, such asahigh drain current ON/OFF ratio of above ${ 1 0 } ^ { 7 }$ ,a low subthreshold swing of $8 0 ~ \\mathrm { m V / }$ decade and a high electron mobility of $1 4 ~ \\mathrm { c m } ^ { 2 } ~ \\mathrm { V } ^ { - 1 } ~ \\mathrm { s } ^ { - 1 }$ . Due to the dynamic modulation of the transient protons flux within the nanogranular $\\mathrm { S i O } _ { 2 }$ films,the channel current would be modified dynamically. Short-term synaptic plasticities,such as short-term potentiation and short-term depression,were mimicked on the proposed IZO synaptic transistor. The synaptic transistor proposed here has potential applications in future neuromorphic devices. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Program on Key Basic Research Project (No.2012CB933004), the Zhejiang Pro vincialNatural Science Foundation ofChina (No.LY14Ao40009) and the Ningbo Natural Science Foundation (No.2O13A610001). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1] A. Masaki, Y. Hirai, M. Yamada, Circ. Dev. Mag. IEEE 6 (1990) 12-17.   \n[2] J.G. Lamont, J. Antonio，M. Cadenas， F.G. Castaneda, Int. J. Election 91 (2004) 697-717.   \n[3] E. Neftci, E. Chicca, I.G. ndiveri, R. Douglas, Neural Comput. 23 (2011) 2457-2497.   \n[4] S.G. Hu, Y. Liu, T.P. Chen, Z. Liu, Q. Yu, L.J. Deng, Y. Yin, S.Hosaka,Appl. Phys.Lett.103(2013） 133701.   \n[5] S.M. Yu, B. Gao, Z. Fang, H.Y. Yu, J.F. Kang, H.S. Philip Wong, Adv. Mater. 25 (2013) 1774-1779.   \n[6] T. Chang, S.H. Jo, W. Lu, ACS Nano 5 (2011) 7669-7676.   \n[7] Z.Q. Wang, H.Y. Xu, X.H. Li, H. Yu, Y.C. Liu, X.J. Zhu, Adv. Funct. Mater. 22 (2012) 2759-2765.   \n[8] F. Alibart, S. Pleutin，D. Guérin，C. Novembre，S. Lenfant, K.Lmimouni, C. Gamrat, D. Vuillaume, Adv. Funct. Mater. 20 (2010) 330-337.   \n[9] Q. Lai,L. Zhang, Z.Li, W.F. Stickle,R.S. Williams, Y. Chen, Adv. Mater. 22 (2010) 2448-2453.   \n[10] K. Kim, C.L. Chen, Q. Truong, A.M. Shen, Y. Chen, Adv. Mater. 25 (2013) 1693-1698.   \n[11] J.P. Zhang, L.D. Zhang, L.Q. Zhu, Y. Zhang, M. Liu, X.J. Wang, G. He, J. Appl. Phys.102 (2007) 114903.   \n[12] Y.F. Wu, D.P. Liu, N.S. Yu, Y.D. Liu, H.W. Liang, G.T. Du, J. Mater. Sci. Technol. 29 (2013) 830-834.   \n[13] Y.Y. Liu, S.Y. Yang, G.X. Wei, J.Q. Pan, Y.Z. Yuan, C.F. Cheng, J. Mater. Sci. Technol. 29 (2013) 1134-1138.   \n[14] K. Nomura, H. Ohta, A. Takagi, T. Kamiya, M. Hirano, H. Hosono, Nature 432 (2004) 488-492.   \n[15] J.S. Park, T.W. Kim, D. Stryakhilev, J.S. Lee, S.G. An, Y.S. Pyo, D.B. Lee, Y.G. Mo, D.U. Jin, H.K. Chung, Appl. Phys. Lett.95 (2009) 013503.   \n[16] N.C. Su, S.J. Wang,C.C.Huang，Y.H. Chen， H.Y. Huang, C.K. Chiang, A. Chin, Electron Dev. Let. IEEE 31 (2010) 680-682.   \n[17] X.S. Fang, L.F. Hu, K.F. Huo, B. Gao, L.J. Zhao, M.Y. Liao, P.K. Chu, Y. Bando,D. Golberg,Adv.Funct. Mater. 21 (011) 3907-3915.   \n[18] X.S. Fang, J. Yan, L.F. Hu, H. Liu, P.S. Lee, Adv. Funct. Mater. 22 (2012) 1613-1622.   \n[19] L.Q. Zhu, J. Jun, G.D. Wu, H.L. Zhang, Q. Wan, Nanoscale 5 (2013) 1980-1985.   \n[20] C.J. Wan,L.Q. Zhu, J.M. Zhou, Y. Shi, Q. Wan, Nanoscale 5 (2013) 10194-10199.   \n[21] L.Q. Zhu, C.J. Wan, L.Q. Guo, Y. Shi, Q. Wan, Nat. Commun. 5 (2014) 3158.   \n[22] H.T. Yuan, H. Shimotani, A. Tsukazaki, A. Ohtomo, M. Kawasaki, Y.lwasa, J. Am. Chem. Soc. 132 (2010) 6672-6678.   \n[23]W. Yue, X. Xu, Z. Su, J.T.S. Irvine,Y. Zou, Y. Liu, W. Zhou, J. Mater. Sci. 47 (2012) 2146-2154.   \n[24] M. Nogami, R. Nagao, K. Makita, Y. Abe, Appl. Phys. Lett. 71 (1997) 1323-1325. ",
+        "page_idx": 3
+    }
+]

@@ -1,0 +1,409 @@
+[
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "23 (1.华中农业大学动物科技学院，武汉 430070；2.湖北省生猪健康养殖协同创新中心，武汉 430073)4 摘要：本文旨在应用Meta分析方法研究 $1 0 { \\sim } 2 5 \\mathrm { k g }$ 仔猪赖氨酸（Lys）需要量及其影响因素。本研究检索了19905 年至2016年期间发表的有关仔猪Lys 需要量的研究,根据文献筛选标准共17篇文献被纳入研究。用二次曲线(QC)6 模型、线性平台（LP）模型和曲线平台（CLP）模型估计了标准回肠可消化赖氨酸（SIDLys）需要量。结果表明：7 LP 模型估计得到的 SID Lys 需要量较低，而QC 和CLP 模型的估计值较高且基本一致。其中，饲粮 SID Lys 含量8 变化不影响仔猪的平均日采食量（ADFI）( $\\scriptstyle P _ { \\mathrm { Q C } } = 0 . 8 2 8 0$ ， $P _ { \\mathrm { l i n c a r } } { = } 0 . 5 8 4 4 \\$ ；以平均日增重（ADG）和料重比（F/G)9 为因变量,SIDLys 含量为自变量,用QC 模型估计得出 $1 0 { \\sim } 2 5 \\mathrm { k g }$ 仔猪饲粮 SID Lys 需要量分别为 $1 . 2 8 0 \\% ( P { < } 0 . 0 0 0$   \n101）和 $1 . 2 6 0 \\%$ （ $P { < } 0 . 0 0 0 \\ 1 )$ 。饲粮类型以及遗传背景等因素影响 SID Lys 需要量。其中，玉米-豆粕饲粮和非玉米-  \n11豆粕饲粮的 SID Lys 需要量分别为 $1 . 3 0 7 \\%$ （ $\\scriptstyle P = 0 . 0 0 5 \\ 0$ ）和 $1 . 1 3 8 \\%$ （ $P { = } 0 . 0 0 0 \\ 1 \\rangle$ ；中国地方猪种和瘦肉型猪种的D  \n12 2SID Lys 需要量分别为 $1 . 0 6 0 \\%$ （ ${ \\cal P } { = } 0 . 0 0 1 2$ ）和 $1 . 3 3 4 \\%$ （ $\\scriptstyle P = 0 . 0 0 4 \\ 3 .$ )。综上，为满足 $1 0 { \\sim } 2 5 ~ \\mathrm { k g }$ 仔猪达到最佳生长  \n13能，饲粮SIDLys 需要量为 $1 . 2 3 0 \\% \\sim 1 . 2 8 0 \\%$ ，同时应考虑饲粮类型以及猪的遗传背景等因素。  \n14关键词： $1 0 { \\sim } 2 5 \\mathrm { k g }$ 仔猪；Lys 需要量；影响因素；Meta 分析；分析模型  \n15中图分类号：S828文献标识码：A文章编号：  \n16 赖氨酸（lysine，Lys）是猪常规饲粮中的第一限制性氨基酸。关于猪 Lys 需要量的研究报道很多，但这些研N  \n17—究结果的差异较大，可能与猪的体重、性别、蛋白质沉积的遗传潜力和试验环境等不同有关Il。此外，评定动物  \n18 最佳反应的统计方法、饲粮氨基酸的平衡状况以及动物饲粮类型等也会影响所预测的Lys 需要量[2]。2  \n19 ■ Meta 分析是一种定量的综述方法，它通过对同一科学问题的多个独立研究结果进行综合比较分析来增加样本  \n20含量，从而提供参数统计功效[3]。Meta分析已经广泛应用于国内外畜牧业研究中[45]。前人已经对猪的支链氨基酸X  \n21 （即色氨酸、缬氨酸和异亮氨酸）需要量[68、奶牛产奶量[9]、生长肥育猪 Lys 需要量[10]、生物素和烟酸等对奶牛  \n22 C生产性能的影响[1l-12]以及微量元素对肉鸡生产性能的影响[13]等进行了 Meta 分析研究，但未见关于仔猪 Lys 需要  \n23量的 Meta分析报道。  \n24 C 预测动物营养物质需要量的常用方法包括二次曲线（quadratic curve，QC）模型[3.10-1,3-141、线性平台  \n25 （linear-plateau，LP）模型和曲线平台（curvilinear-plateau，CLP）模型[6]，即使使用相同的数据库，不同模型预  \n26 测的营养物质需要量差异也较大。因此，本研究旨在应用QC、LP 和CLP 模型，通过 Meta分析研究 $1 0 { \\sim } 2 5 \\mathrm { k g }$ （204号",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "27断奶仔猪Lys 需要量，并分析影响Lys 需要量的因素，为养猪生产和猪饲粮生产提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1文献检索 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在 Web of science、PubMed、Elsevier、ScienceDirect、Wiley Online Library、Springer、Taylor & Francis Online以及OVID 农业电子信息平台等英文数据库中，输入关键词\"pig\"或\"swine”、“lysine”、“requirement\"或“supplementation\"以及\"growth\"或\"performance\"；在中国知网、万方数据库、维普数据库、中国科学引文数据库（CSCD）等中文数据库中，输入“猪”、“赖氨酸”、“需要量\"或“添加量”、“生长\"或\"生长性能\"等关键词。检索时间范围为1990年至 2016年，查阅相关的中文文献及硕士、博士毕业论文（不包含会议论文和未发表的研究)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2文献筛选标准",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对所获得的文献按照以下标准进行筛选，即：1）文献的目的是研究猪Lys 需要量；2）Lys 梯度水平不低于3；3）提供了完整的饲粮配方；4）测定了平均日采食量（average daily feed intake，ADFI)、平均日增重（averageily gain，ADG）以及料重比（feed/gain，F/G）等生长性能数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "399.3数据收集与计算  \n000 在不同的研究中，分析不同营养水平下动物的饲养效果时，饲粮营养价值的评估可能是不可控制变异的重要  \n41因素。因此，在 Meta 分析中，要统一不同文献研究的饲粮组成和饲粮营养成分，根据文献中提供的饲粮配方重  \n42新计算每个试验饲粮的净能（net energy，NE）和氨基酸标准回肠消化率（standardized ileal digestibility，SID)。  \n43一数据库中的每篇文献都提供了试验动物的初始体重，但有的文献未提供动物的终末体重，可以根据 ADG 和试验  \n44 周期来计算缺失的终末体重；对于文献中未提供的 ADG，可以根据文献中的饲粮配方和 ADFI等可利用的信息进  \n2  \n45■行计算；如果文献中未提供F/G，则根据ADG 和 ADFI进行计算。本研究中所出现各变量的单位如下：饲粮标准  \n46 回肠可消化氨基酸（SIDAA）含量用每千克饲粮所含有的氨基酸百分数来表示 $( \\%$ )，能量单位为兆焦（MJ)，体  \n47 重为千克（kg），采食量以每天采食的克数表示（g/d)，Lys 摄入量以每天采食的克数表示（g/d），日增重以每天  \n48 增重的克数表示 $\\mathrm { ( g / d ) }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "961.4 统计分析",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Meta 分析在多水平试验分析时，利用 SAS 软件的Mixed 模型，首先假设研究间存在异质性（饲粮、品种、特殊添加剂使用、动物体况以及统计方法等)，利用对研究间效应的校正剔除研究间的差异，从而将所有研究纳入同一个研究中，研究添加不同水平Lys 对试验结果的影响[1]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "依变量（ADFI、ADG 和F/G）和自变量[饲粮标准回肠可消化赖氨酸（SID Lys）]的关系利用 SAS 软件PROCMIXED语句进行分析，模型一般式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { i j } { = } B _ { 0 } { + } B _ { 1 } X _ { i j } { + } B _ { 2 } X ^ { 2 } { _ { i j } } { + } S _ { i } { + } b _ { 1 i } X _ { i j } { + } b _ { 2 i } X ^ { 2 } { _ { i j } } { + } e _ { i j } \\circ\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中：i为研究个数 $( i { = } 1 , 2 , 3 , \\cdots , n _ { i } )$ . $j$ 为每个研究中的观察数 $( j { = } 1 , 2 , 3 , \\cdots , n _ { i } )$ ; $B _ { 0 }$ 为全部研究的总截距（固定效应)； $B _ { 1 }$ 和 $B _ { 2 }$ 分别为研究间的多项式一次项和二次项系数（固定效应)； $X _ { i j }$ 为第 $i$ 个研究中第 $j$ 个观察值的自变量X; $S _ { i }$ 为第 $i$ 个研究的随机效应截距； $b _ { 1 i }$ 和 $b _ { 2 i }$ 分别为第 $i$ 个研究的多项式一次项和二次项系数(随机效应)； $e _ { i j }$ 为残差，服从 $N$ （ $_ { 0 , \\sigma ^ { 2 } , \\ }$ ）分布(随机效应)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "i0 SAS 混合效应代码如下：  \ni1 dataex;do $\\mathrm { a } { = } 1$ to n;input n $@ \\textcircled { a }$   \ni2 doi=1 to n;input XZY @ @;  \ni3 Output;end;  \ni4 cards;  \ni5 PROC MIXED data=ex;  \ni6 CLASS a;  \ni7 MODEL $\\scriptstyle \\mathrm { Y = X }$ Z/Solution OUTP=Predictionset OUTPM=PredY;  \ni8 RANDOM intercept X/G SUBJECT=a;  \ni9 RUN;  \n10000 4F2F00:V 以校正后的 SID Lys 含量以及生长性能指标（ADFI、ADG 和F/G）作为横坐标和纵坐标，分别用QC 模型、P模型和CLP模型进行拟合。模型一般式如下：QC模型: $Y _ { i j = a + b X _ { i j } + c X _ { i j } } { } ^ { 2 }$ LP模型: $Y _ { i j } { = } L _ { i } [ 1 { + } U ( R { - } X _ { i j } ) ]$ for $X _ { i j } { < } R$ $\\scriptstyle Y _ { i j } = L _ { i }$ for $X _ { i j } \\mathcal { \\ P } R$ CLP模型: $Y _ { i j } { = } L _ { i } [ 1 { + } U ( R { - } X _ { i j } ) ^ { 2 } ]$ for $X _ { i j } { < } R$ $Y _ { i j }$ =Lifor $X _ { i j } { \\geq } R _ { \\circ }$ 式中： $Y _ { i j }$ 为因变量（如 ADG、ADFI、F/G 等)； $X _ { i j }$ 为第 $i$ 个研究中第 $j$ 个观察值的自变量 $X$ ；i为研究个数$- ( i { = } 1 , 2 , 3 , \\cdots , 3 3 )$ ， $j$ 为每个研究中的观察数 $( j { = } 1 , 2 , 3 , \\cdots , n _ { i } )$ ： $U$ ， $a$ ， $b$ ， $\\mathbf { \\Psi } _ { c }$ 分别为常数； $L _ { i }$ 为因变量的最大预测值（平）； $R$ 为 $Y _ { i j }$ 达到最大值 $\\langle L i \\rangle$ ）时的最小 $X$ 值。结果数据库  \n:0 et 根据文献筛选标准进行筛选，共有17篇文献[2.15-30纳入本研究中，筛选流程及文献淘汰情况如图1所示。分  \n1 析所有纳入文献的试验设计，挑选文献中具体的研究组别，建立总数据库（附表1)。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0cf179f63bdcc4b1b7832b9758d5b10c919ea405fa8f0c7bafd3e93f65f4c9fc.jpg",
+        "img_caption": [
+            "Fig.1Publications selecting process of Meta analysis "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "批注[U1]:图中：“CSCD-中国科学引文”改为“中国科学引文数据库（CSCD）”",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "数据特征",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究共纳入17篇文献，包含了99个研究组别，4735头仔猪。所有纳入文献中，16篇文献的饲粮中添加抗生素，1篇文献的饲粮为无抗饲粮[21]。研究主要分布于美国（ $2 3 . 5 \\%$ 、中国（ $2 9 . 4 \\%$ 、巴西（ $2 3 . 5 \\%$ 、加拿号 $( 5 . 9 \\%$ 、波兰（ $5 . 9 \\%$ 、墨西哥（ $5 . 9 \\%$ ）和西班牙（ $5 . 9 \\%$ )。所有纳入文献所使用的饲粮配方中，NE含量都满NRC（2012）推荐标准。另外，还从部分研究能量和Lys 比值的文献中挑选了能量满足需要量的研究组别纳入续的分析中。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "按照 NRC（2012）的饲料原料营养物质含量，重新计算了文献提供的饲粮配方，并通过回归分析检测了 SIDLys 的计算值与文献提供值的关系（图2)，结果显示计算值与文献提供值高度吻合（ $P { < } 0 . 0 0 0 ~ 1 \\$ ， $R ^ { 2 } { = } 0 . 9 1 6 2 \\rangle$ 。所有纳入文献所报道的饲粮Lys含量与ADG的关系如图3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "武酒医 进 rielrerle CIS 2015  \n0.5-  \n0.0 1  \n0.0 0.5 1.0 1.5 2.0饲粮标准回肠可消化赖氨酸的计算值Calculated values of SID Lys/%",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Regression analysis of calculated values and values reported in the publications of SID Lys ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7320643c98c3cbd3674bedfd28e0e0a289c99079bb20b4f2df1d25f417d05466.jpg",
+        "img_caption": [
+            "图2SIDLys 的计算值与文献提供值回归分析",
+            "图3ADG 随饲粮Lys 含量的变化趋势",
+            "Fig.3The variation trend of ADG with the content of Lys in diet "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$1 0 { \\sim } 2 5 \\mathrm { k g }$ 仔猪 SID Lys 需要量",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以 SIDLys为自变量， $1 0 { \\sim } 2 5 ~ \\mathrm { k g }$ 仔猪的生长性能指标（ADFI、ADG 和F/G）为因变量，分析了当仔猪达到佳生长性能时所需要的最低饲粮SIDLys含量。分析结果显示， $1 0 { \\sim } 2 5 \\mathrm { k g }$ 仔猪的ADFI与饲粮Lys 含量无显著次曲线或线性关系（ $P _ { \\mathrm { Q C } = 0 . 8 2 8 \\ 0 }$ ， $P _ { \\mathrm { l i n c a r } } { = } 0 . 5 8 4 \\ 4 \\$ 。仔猪 ADG 和F/G 均与饲粮 Lys 含量有显著二次曲线关系$P { < } 0 . 0 0 0 1 )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1QC 模型估测 SIDLys 需要量",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以 SIDLys为自变量，校正后ADG和F/G为因变量，通过QC 模型估计 $1 0 { \\sim } 2 5 \\mathrm { k g }$ 仔猪 SIDLys需要量（表1)。结果显示，SIDLys 需要量分别为 $1 . 2 8 0 \\%$ 0 $Y _ { A D G } { = } { - } 2 8 9 . 4 X ^ { 2 } { + } 7 4 1 . 3 X { + } 1 1 0 . 1$ ， $\\scriptstyle n = 9 9$ ， $R ^ { 2 } { = } 0 . 7 4 5$ ， $P { < } 0 . 0 0 0 \\ 1 \\rangle$ 和$1 . 2 6 0 \\%$ (YF/G=1.351X²-3.406X+3.788, $R ^ { 2 } { = } 0 . 8 9 5$ ， $P { < } 0 . 0 0 0 ~ 1 \\$ )，对应的ADG和F/G分别为 $5 8 4 . 8 ~ \\mathrm { g / d }$ 和1.64(图4)。QC 模型得到的 SIDLys 需要量估计值略高于NRC（2012）推荐需要量（ $1 1 { \\sim } 2 5 \\mathrm { k g }$ ， $1 . 2 3 0 \\%$ )，NRC（2012）预估ADG 和F/G 分别为 $5 8 5 . 0 \\mathrm { g / d }$ 和1.63。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/d394010e671b0710fd8d9ae573edb40646083b2952526e0cf7b74ff92546ca5e.jpg",
+        "table_caption": [
+            "表1QC 模型、LP模型和CLP模型参数表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">Table1Parameter tables of quadratic curve model,linear-plateau model and curvilinear-plateau model</td></tr><tr><td>因变量</td><td>模型</td><td>最佳生长性能</td><td>常数</td><td>最适标准回肠可消化</td><td></td></tr><tr><td rowspan=\"2\">Dependent</td><td rowspan=\"2\">Model</td><td rowspan=\"2\">Bestgrowth</td><td rowspan=\"2\">Constant</td><td rowspan=\"2\">P值P-value</td><td></td></tr><tr><td>赖氨酸需要量Optimal</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊\\$.2LP和CLP 模型估测 SIDLys 需要量",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/789bcd0fe7aedd291be196af9d12b90d910bc5b211cbc9b9b3f572343ad04325.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>variable</td><td>performance</td><td>(U)</td><td>SID Lys requirement</td><td></td><td></td></tr><tr><td></td><td></td><td>(L)</td><td></td><td>(R)/%</td><td></td></tr><tr><td>平均日增重</td><td>QC</td><td>584.8</td><td></td><td>1.280</td><td><0.000 1</td></tr><tr><td>ADG/(g/d)</td><td>LP</td><td>583.4</td><td>-243.7</td><td>1.102</td><td><0.0001</td></tr><tr><td></td><td>CLP</td><td>583.5</td><td>-291.6</td><td>1.274</td><td><0.0001</td></tr><tr><td></td><td>QC</td><td>1.64</td><td></td><td>1.260</td><td><0.0001</td></tr><tr><td>料重比F/G</td><td>LP</td><td>1.65</td><td>1.17</td><td>1.070</td><td><0.0001</td></tr><tr><td></td><td>CLP</td><td>1.65</td><td>1.46</td><td>1.230</td><td><0.0001</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9c145cead00a4997aa58e4f743c6065c1b4f118f8a596469430922c9a516e2b2.jpg",
+        "img_caption": [
+            "图4校正后ADG 和F/G 随饲粮 SIDLys含量的变化趋势（QC 模型）"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过LP模型和CLP模型对 SID Lys 需要量进行了估计分析（图5，表1)。3种模型分析估计的仔猪最佳生:性能相近，但最适 SIDLys 需要量却不完全一致。其中，LP模型估测的最适 SIDLys 需要量为 $1 . 1 0 2 \\%$ （以ADG因变量）和 $1 . 0 7 0 \\%$ （以F/G 为因变量)，该 SIDLys含量不仅低于NRC（2012）推荐值，同时也低于CLP 模型$. 2 7 4 \\%$ （以ADG为因变量）和 $1 . 2 3 0 \\%$ （以F/G为因变量）]和QC模型 $[ 1 . 2 8 0 \\%$ （以ADG为因变量）和 $1 . 2 6 0 \\%$ 以 F/G 为因变量）]估测的 SIDLys 需要量。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/46130aa8c5bbe0cb51684f5f55c442cdf0f721b13e739a6df8c0e6ca0de3bfd3.jpg",
+        "img_caption": [
+            "Fig.4The variation trend of adjusted ADG and F/G with the contentof SID Lys in diet (QC model)[2.15-30] "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.5The variation trend of adjusted ADG andF/G with thecontentof SIDLys in diet (LPand CLP model) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4 $1 0 { \\sim } 2 5 \\mathrm { k g }$ 仔猪 SIDLys 需要量的影响因素",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4.1 饲粮类型",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据饲粮中能量饲料原料的组成，将饲粮分为玉米-豆粕型饲粮和非玉米-豆粕型饲粮，2者的 SID Lys 需要量分别为 $1 . 3 0 7 \\%$ （ $\\scriptstyle P = 0 . 0 0 5$ ）和 $1 . 1 3 8 \\%$ （ $\\scriptstyle P = 0 . 0 0 0 \\ 1 \\rangle$ ，对应的ADG分别为 $5 9 2 . 5 \\ \\mathrm { g } / \\mathrm { d }$ 和 $5 4 8 . 1 \\ \\mathrm { g / d _ { \\circ } }$ 这表明用非玉米-豆粕型饲粮饲喂的仔猪生长性能低于玉米-豆粕型饲粮，而对应的 SIDLys 需要量也相对较低（图6)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/38a2265a038ff3914b02da142c0180be48012aef9b40c34212379c875397ac35.jpg",
+        "img_caption": [
+            "图6非玉米-豆粕型饲粮（A）与玉米-豆粕型饲粮（B）对SIDLys需要量的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.6fctsoaalet()9dlt() ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Lys requirement ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2遗传背景",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "中国地方猪种最适 SIDLys 需要量为 $1 . 0 6 0 \\%$ ( ${ \\cal P } { = } 0 . 0 0 1 \\ 2$ )，而其对应的ADG为 $4 2 5 . 4 ~ \\mathrm { g / d }$ ；杂交瘦肉型猪种适 SIDLys 需要量为 $1 . 3 3 4 \\%$ （ $\\scriptstyle P = 0 . 0 0 4 \\ 3 { \\mathrm { ~ , ~ } }$ ，对应的ADG为 $6 3 2 . 2 ~ \\mathrm { g / d }$ (图7)。说明中国地方猪种的生长性能低瘦肉型猪种，同时，满足地方猪种生长所需要的饲粮 SIDLys 含量也相对较低。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c42c2fb99cd5149caaa797a4da5a079a4fee7319ae9b256f4582200df29ca9f9.jpg",
+        "img_caption": [
+            "图7中国地方猪种（A）与瘦肉型猪种（B）饲粮 SIDLys需要量"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.7DietarySysrequirmentofeselocalpigbreed(A)26-3ndlea-typepigbreed(B)[2 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.1分价恢坐； 本研究使用3种不同的分析模型（QC、LP和CLP模型)，分析过程都利用 SAS9.4软件完成 $1 0 { \\sim } 2 5 \\mathrm { k g }$ 仔猪， 的 SID Lys 需要量[14.31-32]。用相同数据库进行分析后，QC 模型和 CLP 模型估计的 SID Lys 需要量非常接近，SID） Lys 需要量分别为 $1 . 2 8 0 \\%$ （ADG）、 $1 . 2 6 0 \\%$ （F/G）和 $1 . 2 7 4 \\%$ （ADG）、 $1 . 2 3 0 \\%$ (F/G)；而用LP 模型得到的 SID Lys需要量估计值 $[ 1 . 1 0 2 \\%$ （ADG）、 $1 . 0 7 0 \\%$ （F/G）]则与CLP和QC 模型得到的估计值不同。： 分析模型的选择是影响营养物质需要量估计值的重要因素[3]。在评估动物对不同浓度梯度饲粮的反应时，LP：模型曾被认为是估计动物营养物质需要量较好的模型[33-34]，但LP 模型通常会低估氨基酸的需要量[35]。因此，Baker33|建议用CLP 模型来描述动物群体的曲线反应，并估计营养物质需要量。Simongiovanni 等[在2012年对色氨酸 $\\mathrm { \\cdot } \\mathrm { \\mathrm { T r p } }$ ）需要量的Meta 分析中，也比较了LP 模型和CLP 模型的优劣，并认为CLP模型更适用于估计氨基酸4的需要量。St-piere[0l则在 2001年详细阐明了应用QC 模型估计动物营养物质需要量的方法。CLP和QC 模型分，别为：YjL[1U(R-xjfrXjR;=for≥R和Ya+bXjex表明，CLP模型在拐点（时）之前0 的增长趋势曲线与QC 模型相同。为了保证CLP模型中曲线的连续和平滑性，平台期的水平直线（ $Y { = } L _ { i j }$ 时）需与增长期二次曲线相切[31]。因此，CLP 模型中的拐点与QC 模型的顶点接近，因此本研究分析结果符合统计学规7需要注意的是，尽管用QC 模型和CLP模型估计的营养物质需要量接近，但是所代表的生物学意义还是有区副的。在CLP模型中，最佳的营养物质需要量是指二次曲线阶段和平台阶段之间的拐点。从这个拐点往上继续增点后，继续增加饲粮 SID Lys 含量，仔猪生长性能则会受到抑制，呈下降趋势。因此，CLP模型估计的拐点是为达到最佳生长性能的营养物质最低需要量，是降低生产成本和提高生长性能的营养物质理想水平；而QC 模型的顶点则是达到最佳生长性能的营养物质最高需要量，一旦超过这个水平，动物的生长性能就降低了。h Lys 是以谷物类饲料原料为基础饲粮的第一限制性氨基酸。Lys 主要用于合成蛋白质，特别在幼龄动物体内，用于合成蛋白质的Lys 比例高达 C $8 0 \\% ^ { 1 3 6 ] }$ 。NRC（2012）推荐了不同阶段仔猪的Lys 需要量，其中断奶仔猪在 $5 \\sim$ 、 （20 $2 5 \\mathrm { k g }$ 的Lys 需要量被分为3个阶段， $5 { \\sim } 7 \\mathrm { k g }$ ， $8 \\mathrm { \\sim } 1 1 \\mathrm { k g }$ 和 $1 2 { \\sim } 2 5 \\mathrm { k g }$ 推荐需要量分别为 $1 . 5 0 \\%$ 、 $1 . 3 5 \\%$ 和 $1 . 2 3 \\%$ 。） 但在我国实际养猪生产中，仔猪通常在 $2 1 \\sim 2 3 \\mathrm { d }$ 断奶，断奶体重接近 $7 \\mathrm { k g }$ ；然后继续用教槽料饲喂2周，体重达車到 $1 0 ~ \\mathrm { k g }$ 左右；然后用保育料饲喂到9周龄或10 周龄、体重 $2 5 \\sim 3 0 ~ \\mathrm { k g }$ 左右。因此，本研究综合 $1 0 { \\sim } 2 5 ~ \\mathrm { k g }$ 仔猪！SID Lys 需要量进行 Meta分析，对于指导我国养猪生产是很有意义的。3.2 $1 0 { \\sim } 2 5 \\mathrm { k g }$ 仔猪 SID Lys 需要量的影响因素．3.2.1饲粮因素",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "小麦和大麦等谷物是玉米的重要替代物，但是小麦和大麦中含有较多的粗纤维和可溶性纤维[37]。普通玉米的粗纤维含量为 $1 . 2 \\% \\sim 1 . 6 \\%$ ，中性洗涤纤维含量为 $9 . 4 \\%$ ，酸性洗涤纤维含量为 $3 . 5 \\%$ ；小麦、大麦等谷物的粗纤维含量为 $2 . 0 \\% \\sim 2 . 2 \\%$ ，带皮大麦的粗纤维含量甚至高达 $4 . 8 \\%$ ，小麦和大麦的中性洗涤纤维含量高达 $1 0 \\% \\sim 1 8 \\%$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "酸性洗涤纤维含量为 $3 . 9 \\%$ 。到目前为止，虽然无饲粮纤维含量直接影响Lys需要量的研究报道，但有研究发现，纤维是仔猪肠道菌群的重要能源物质，且可能促进肠道微生物区系和发酵指标的改善[38-40]，降低仔猪腹泻，促进消化器官的完善，提高消化酶活性[4Il。本研究比较了以玉米、豆粕为基础的试验饲粮（玉米-豆粕型）和以小麦、大麦等混合型谷物为基础的试验饲粮（非玉米-豆粕型)，结果显示，估计得到的玉米-豆粕型饲粮和非玉米-豆粕型饲粮中 SID Lys 需要量分别为 $1 . 3 0 7 \\%$ （ $\\scriptstyle P = 0 . 0 0 5 \\ 0$ ）和 $1 . 1 3 8 \\%$ （ $P { = } 0 . 0 0 0 \\ 1 \\$ )，相应的ADG分别为 $5 9 2 . 5 ~ \\mathrm { g / d }$ 和$5 4 8 . 1 \\ \\mathrm { g } / \\mathrm { d } ,$ 。这意味着以玉米、豆粕作为基础饲粮时， $1 0 { \\sim } 2 5 ~ \\mathrm { k g }$ 仔猪 SID Lys 需要量应该达到 $1 . 3 0 7 \\%$ ，高于NRC（2012)推荐量，能使仔猪的 ADG 更高；但使用小麦、大麦等能量饲料替代玉米时，仔猪的 SIDLys 需要量较低，但向时拍ADU匹怕应底玉木-立相尘词根。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2.2遗传背景本研究纳入了满足筛选标准的所有有关Lys 需要量的文献，其中包括中国地方猪种和瘦肉型猪种。将中国地方猪种和瘦肉型猪种比较分析时，结果发现，中国地方猪种的生长性能低于瘦肉型猪种，SID Lys 需要量分别为  \n4  \nN $. 0 6 0 \\%$ （ ${ \\cal P } { = } 0 . 0 0 1 \\ 2$ ）和 $1 . 3 3 4 \\%$ （ $\\scriptstyle P = 0 . 0 0 4 \\ 3$ ），相应的 ADG 分别为425.4和 $6 3 2 . 2 ~ \\mathrm { g / d } _ { \\circ }$ 这表明，中国地方猪的遗  \n传潜力较差，生长速度较慢，因此满足其生长所需要的饲粮 SID Lys 含量较低。而对于生长性能更好的瘦肉型猪  \n种来说，其ADG 比 NRC（2012）估计值高 $4 7 . 2 \\ \\mathrm { g } / \\mathrm { d } _ { \\circ }$ 动物品种及饲养管理在近些年不断改进提升，使得猪饲粮利  \n用率不断提高[，Nemechek 等[42]学者在 2012年已经指出了NRC（1998）推荐的饲粮Lys 含量不足（ $\\mathrm { 1 0 } { \\sim } 2 0 \\ \\mathrm { k g }$   \nLT $\\overline { { 1 } } . 0 1 \\%$ )，且NRC（2012）在Lys需要量方面做了相应的上调。本研究 Meta分析结果说明，NRC（2012）所推荐  \n的 Lys 需要量可能稍低于满足瘦肉型猪种达到最佳生长性能的需要量。  \n07. 结论应用QC模型和CLP 模型估计，为满足 $1 0 { \\sim } 2 5 \\mathrm { k g }$ 仔猪达到最佳生长性能的 SID Lys 需要量为 $1 . 2 3 0 \\% \\sim 1 . 2 8 0 \\%$ ?NRC（2012）推荐量分阶段为5\\~7、7\\~11和 $1 1 { \\sim } 2 5 \\mathrm { k g }$ ，推荐的 SID Lys 需要量分别为 $1 . 5 0 \\%$ 、 $1 . 3 5 \\%$ 和 $1 . 2 3 \\%$ ，本  \nMeta 分析结果与NRC（2012）推荐量基本吻合；但考虑到实际生产中仔猪阶段划分不够精细的情况下， $1 0 { \\sim } 2 5 \\mathrm { k g }$ （2  \n断奶仔猪 SID Lys 需要量可能高于 NRC（2012）推荐量。同时，还应考虑饲粮氨基酸平衡性、饲粮类型以及猪的  \n遗传背景等差异。其中，玉米-豆粕型饲粮和非玉米-豆粕型饲粮 SID Lys 需要量分别为 $1 . 3 0 7 \\%$ 和 $1 . 1 3 8 \\%$ ；中国  \nC地方猪种和瘦肉型猪种 SID Lys 需要量分别为 $1 . 0 6 0 \\%$ 和 $1 . 3 3 4 \\%$ 。在猪的饲粮生产和养猪生产中，应考虑这些因素对Lys 需要量的影响，合理满足需要。致谢：感谢兰州大学草地农业科技学院李飞教授和华中农业大学理学院易鸣教授和张芯同学在数据分析方面的帮助。参考文献：[1]VANMILGEN J,VALANCOGNE A,DUBOISS,et al.InraPorc:a model and decision support tool for the nutritionofgrowing pigs[J].Animal Feed Science and Technology,2008,143(1/2/3/4):387-405.[2]KENDALLDC,GAINESAM,ALLEEGL,etal.Commercialvalidationof the trueilealdigestible lysinerequirementfor eleven-to twenty-seven-kilogram pigs[J].Journal of Animal Science,20o8,86(2):324-332.[3]SAUVANTD,SCHMIDELYP,DAUDINJJ,etal.Meta-analysesofexperimentaldatainanimal",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1 nutrition[J].Animal,2008,2(8):1203-1214.   \n2 [4] PASTORELLIH,VANMJ,LOVATTOP,et al.Meta-analysis offeed intake and growth responses of growing pigs after   \n3 a sanitary challenge[J].Animal,2012.6(6):952-961.   \n4 [5]LONCKER,DEWULFJ,VANDERHAEGHEC.et al.Non-infectiouscausesof piglet mortality before weaning.Part   \n5 2:factors related to the sow and the environment[J].Vlaams Diergeneeskundig Tijdschrift,20o9,78(2):71-81.   \n6 [6] SIMONGIOVANNI A,CORRENT E,LE F N,et alEstimationof thetryptophan requirement inpiglets by   \n7 meta-analysis[J].Animal,2012,6(4):594-602.   \n8 [7] VAN MILGENJ,GLOAGUEN M,FLOC'HNL,et al.Meta-analysis of the response of growing pigs to valine content   \n9 of the diet[M]/OLTJENJW,KEBREAB E,LAPIERRE H.Energyand Protein Metabolismand Nutrition in Sustainable Animal Production.The Netherlands:Wageningen Academic Publishers,2O13:339-340. [8] VAN MILGENJ,GLOAGUEN M,LEFLOCHN,et al.Meta-analysis of the response of growing pigs to the isoleucine concentration in the diet[J].Animal,2012,6(10):1601-1608.   \n9] DANIELJB.FRIGGENSNCCHAPOUTOT P,etalMilkyieldandmilkcompositionresponsestochange in predicted net energy and metabolizable protein:a meta-analysis[J].Animal,2016,10(12):1975-1985.   \n5[10] 张国华.精准饲养模式下生长育肥猪赖氨酸动态需要量的评估[D].博士学位论文.杨凌:西北农林科技大 学,2011. ?   \n7[11] 陈波.基于 Meta分析对生物素影响奶牛生产性能效果的研究[D].博士学位论文.杭州:浙江大学,2011. 12]赵睿,李华伟,徐进昊.烟酸对奶牛产奶性能影响的Meta 分析[J].饲料广角,2016(8):24-27. Q [13] 陈思.微量元素对肉鸡生产性能影响的Meta 分析[D].硕士学位论文.杨凌:西北农林科技大学,2013. [14] ST-PIERRE N R.Invited review:integrating quantitative findings from multiple studiesusing mixed model   \n2[15] NAMD S,AHERNEF X.The efectsof lysine:energy ratioontheperformance of weanling pigs[J].Journalof   \n3Animal Science,1994,72(5):1247-1256. C   \n4 [16] SMITH等.日粮赖氨酸与能量比值对仔猪生长性能的影响[J].赵华成译.国外畜牧科技,2001,28(4):16-17.   \n5 [17]ABREUMLTD,DONZELEJL,OLIVEIRARFMD,et al.Dietarydigestible lysine levels,using the ideal protein   \n6 concept,forbarrowswithhighgeneticpotentialfrom15to30kg[J].RevistaBrasileirade   \n7 Zootecnia,2006,35(3):1039-1046.   \n8 [18]FRAGAAL,MOREIRAI,FURLANAC.etal.Lysine requirementofstarting barrws from two genetic groups fedon   \n9 low crude protein diets[J].Brazilian Archives of Biology and Technology,20o8,51(1):49-56.   \n0 [19]FIGUEROAJL,ESTRADAJ,ZAMORA V,etal.Digestible lysine levels in low-proteindietssupplementedwith   \n1 syntheticaminoacidsfornursery,growing,and finishing barows[J].IrishJournal ofAgricultural andFood   \n2 Research,2012,51(1):33-44. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[20]YIGF,GAINESAM,RATLIFFBW,etal.Estimationof the trueilealdigestiblelysineandsulfur amino acid ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "requirement and comparison of the bioeficacy of 2-hydroxy-4-(methylthio)butanoic acid and $D L$ -methionine in elevento twenty-six-kilogram nursery pigs[J].Journal of Animal Science,20o6,84(7):1709-1721. [21]NIETO R,BAREAR,LARAL,et al.Lysine requirement relative to total dietary protein foroptimum performanceand carcass protein deposition of Iberian piglets[J].Animal Feed Science and Technology,2O15,206:48-56. [22]OLIVEIRA AL S D,DONZELEJL,OLIVEIRA RFMD.et al.Dietary digestible lysine requirement of barrows with highgeneticpotential forleangaininthecarcassfrom15to3Okg[J].RevistaBrasileirade Zootecnia,2006,35(6):2338-2343. [23] PASQUETTI T J,POZZA P C,MOREIRA I,etal.Simultaneous determinationof standardized ileal digestible tryptophan and lysine for barrows from 15 to $3 0 \\mathrm { k g }$ live weight[J].Livestock Science,2015,181:114-120. [24]URYNEK W,BURACZEWSKA L.Effect of dietary energy concentrationand apparent ileal digestible lysine:metabolizable energyratioon nitrogen balance and growth performanceof young pigs[J].Journal of Animal   \nScience,2003,81(5):1227-1236.   \nQ25] WILLIAMS N H,STAHLYTS,ZIMMERMAN DREfect of level of chronic immue system activation onthe growth and dietary lysine needs of pigs fed from 6 to $1 1 2 \\mathrm { k g } [ \\mathrm { J } ]$ .Journal of Animal Science,1997,75(9):2481-2496.   \n[26] 王英.关中黑猪保育和生长育肥阶段适宜 SID 赖氨酸与代谢能比对生长发育的影响[D].硕士学位论文.杨凌：西   \n北农林科技大学,2014. [27]席鹏彬,郑春田.赖氨酸水平对仔猪生长表现、血清尿素氮及游离赖氨酸浓度的影响[J].养猪,2003(5):1-3. [28] 乔岩瑞.同时测定保育后期仔猪赖氨酸和苏氨酸需要量的试验[J].养猪,2005(3):1-2.   \n2 [29]远德龙,姜建阳,韩先杰,等 $1 5 { \\sim } 3 0 \\mathrm { k g }$ 烟台黑猪可消化赖氨酸需要量的研究[J].中国畜牧杂志,2015,51(7):59-64. [30] 朱绍伟,宋春阳,林宗强,等.鲁莱配套系断奶仔猪对赖氨酸需要量的研究[J].饲料工业,2009,30(11):7-9.   \nLOUGHINSAS@for mixed models,2ndeditioneditedbyLitel,R.C.,Millken,G.A.,Stroup, W. W., WolfigerRD   \nCand Schabenberger,O.[J]. Biometrics,200662(4):271274. [33]BAKER DH.Problems and pitfals in animal experiments designed to establish dietaryrequirements forsential nutrients[J].The Journal of Nutrition,1986,116(12):2339-2349. [34] HAZZLEDINE MJ,VERNON B G,CAMPBELL R J.Nutrient requirement standards for pigs[J]. 2003. [35]MORRIST R.Interpretation of response data from animal feeding trials[J].Recent Advancesin Animal Nutrition,1983. [36]KLASING K C.Minimizing aminoacid catabolismdecreasesamino acidrequirements[J].The Journalof Nutrition,2009,139(1):11-12. [37]马艳凤.糙米、小麦代替玉米及添加酶制剂对断奶仔猪生产性能和消化率的影响研究[D].硕士学位论文.北京:中 国农业科学院,2002. [38]金立志,宋群青,袁保京.膳食纤维在断奶仔猪饲料中的功能特性[J].中国畜牧杂志,2016,52(4):24-30. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[39]陈瑾,邹成义,杨加豹,等.日粮纤维对猪肠道微生态环境的影响研究进展[J.中国饲料,2014(3):37-41.   \n[40]HERMESRG,MOLISTF,YWAZAKIM,etal.Effectofdietary levelof proteinand fiberontheproductive performance and health status of piglets[J].Journal of Animal Science,20o9,87(11):3569-3577.   \n[41]杨玉芬,卢德勋,许梓荣.日粮纤维对仔猪生长性能和消化生理功能的影响[J].动物营养学报,2009,21(6):816-821. [42]NEMECHEKJE,GAINESAM,TOKACHMD,etal.Evaluationof standardized ileal digestible lysine requirementof nursery pigs from seven to fourteen kilograms[J].Journal of Animal Science,2012,9O(12):4380-4390.   \n[43]WILTAFSKYMK,SCHMIDTLEINB,ROTHFX.Estimatesof theoptimum dietary ratioof standardized ileal digestiblevaline tolysineforeighttotwenty-fivekilogramsofbodyweightpigs[J].Journalof Animal Science,2009,87(8):2544-2553.   \n[44]卢永红.瘦肉猪饲养:赖氨酸和蛋氨酸及其他氨基酸营养进展[J].国外畜牧学:饲料,1992(3):33-34.   \n^↓ Lysine Requirement and Its Influence Factors of 10 to $2 5 \\mathrm { k g }$ Piglets: a Meta-Analysis   \nXIANG Quanhang1XIA MaolXIA Xiong1PANG Jiaman1ZHENGLiufeng1WANG Chao1PENG Jianl.2\\* . (1.CollegeofAnimal Science and Technology, Huazhong Agricultural University, Wuhan 43o7o,China; 2.The D   \nO Cooperative Innovation Centerfor Sustainable Pig Production of Hubei Province,Wuhan 43o073,China) Abstract: This study was conduct to research the lysine (Lys)requirement and its influence factors of 10 to $2 5 ~ \\mathrm { k g }$ piglets bya meta-analysis.The publications searching for theLys requirementof piglets publishedfrom 1990 to 2016 years were retrieved,and seventeen publications were selected according publication selecting criteria.The quadratic curve (QC), Tinear-plateau (LP)and curvilinear-plateau (CLP)models were used to estimate the standard ileal digestible lysine (SID Lys)requirement.The results showed that the SIDLys requirement estimated by CLP model was similar to that estimated by QC model,which was higherthan that estimated byLP model.The content of SIDLys in diet had no efect on the ?   \naverage daily feed intake (ADFI) of piglets $\\scriptstyle P _ { \\mathrm { Q C } } = 0 . 8 2 8 \\ 0$ $P _ { \\mathrm { l i n e a r } } { = } 0 . 5 8 4 ~ 4$ ). Using average daily gain (ADG)and the ratio of feed to gain $\\mathrm { ( F / G ) }$ as dependent variable,the content of SID Lys as independent variable,the SID Lys requirement in diet of piglets from 10 to $2 5 \\mathrm { k g }$ were $1 . 2 8 0 \\%$ 0 $P { < } 0 . 0 0 0 \\ 1 _ { . }$ and $1 . 2 6 0 \\%$ $P { < } 0 . 0 0 0 ~ 1$ ）estimatedbyQCmodel,respectively. Moreover,the SID Lys requirement was affcted by diet type and genetic background and so on.The SID Lys requirement of corn-soybean meal diet and non corn-soybean meal diet were $1 . 3 0 7 \\%$ 1 $\\scriptstyle P = 0 . 0 0 5 0 \\rangle$ and $1 . 1 3 8 \\%$ $\\scriptstyle ( P = 0 . 0 0 0$ （20 1),respectively; and the SID Lys requirement of Chinese local pig breed and lean-type pig breed were $1 . 0 6 0 \\%$ 0 $\\scriptstyle P = 0 . 0 0 1 \\ 2$ ） and $1 . 3 3 4 \\%$ 0 $\\scriptstyle P = 0 . 0 0 4 \\ 3$ ),respectively. In conclusion,the SID Lys requirement in diet recommended at $1 . 2 3 0 \\%$ to $1 . 2 8 0 \\%$ for 10 to $2 5 ~ \\mathrm { k g }$ piglets to achieving the best growth performance.Meanwhile,diet type and genetic background of pigs and so on should be taken into consideration.   \nKeywords: $1 0 { \\sim } 2 5 ~ \\mathrm { k g }$ piglets; Lys requirement; influence factors; meta-analysis; statistical model calculated values and values reported in the publications of SID Lys ",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/5e88cc01eddff6875dedd32e0a250fc8f6c7cf8a4ff59b834a60d913fe1d27d0.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td></td><td></td><td>赖氨酸文献</td><td colspan=\"4\">标准回肠可消化氨基酸计算值 Calculated values of SID AA/%</td><td colspan=\"4\">生长性能</td><td colspan=\"4\"></td></tr><tr><td>编</td><td>参考文献 （发表年）</td><td></td><td>处理</td><td>提供值 Values</td><td colspan=\"4\"></td><td colspan=\"4\">Growth Performance</td><td>初重 Initial</td><td>末重 Final</td><td>抗生素 Antibiot</td><td>遗传背景 Genetic</td><td>饲粮 Diet</td></tr><tr><td>号</td><td>References</td><td>组别 Group</td><td>Treatm</td><td>reported in</td><td rowspan=\"2\">Lys</td><td rowspan=\"2\">Met</td><td rowspan=\"2\"></td><td rowspan=\"2\">Thr</td><td rowspan=\"2\">Trp</td><td rowspan=\"2\">ADG/(g/d)</td><td rowspan=\"2\">ADFI/(g/d)</td><td rowspan=\"2\">F/G</td><td>weight/kg</td><td>weight/kg</td><td rowspan=\"2\">ics</td><td rowspan=\"2\">background</td><td rowspan=\"2\"></td></tr><tr><td>No.</td><td>(published</td><td></td><td>ent</td><td>the publications</td></tr><tr><td></td><td>year)</td><td></td><td></td><td>of Lys/%</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>T3 G1</td><td>1</td><td></td><td>0.93</td><td>0.28</td><td>0.59</td><td>0.21</td><td></td><td></td><td>1009</td><td>1.76</td><td>9.1</td><td>21.1</td><td></td><td></td><td>小麦-大</td></tr><tr><td></td><td>Nam等[15]</td><td>T3 G2</td><td>1</td><td>1.03 1.18</td><td>1.08</td><td>0.28</td><td>0.59</td><td>0.21</td><td>572 610</td><td></td><td>1016</td><td>1.67</td><td></td><td>21.9</td><td></td><td>长x大</td><td>麦-去壳</td></tr><tr><td>1</td><td>(1994)</td><td>T3 G3</td><td>1</td><td>1.32</td><td>1.22</td><td>0.28</td><td>0.59</td><td>0.21</td><td>614</td><td></td><td>1027</td><td>1.67</td><td>9.1 9.1</td><td>22.0</td><td></td><td></td><td>燕麦-豆</td></tr><tr><td></td><td></td><td>T3G4</td><td>1</td><td>1.47</td><td>1.37</td><td>0.28</td><td>0.59</td><td>0.21</td><td></td><td></td><td>985</td><td>1.65</td><td>9.1</td><td>21.6</td><td></td><td></td><td>粕</td></tr><tr><td></td><td></td><td>Low G1</td><td>2</td><td>0.60</td><td>0.51</td><td>0.19</td><td>0.40</td><td>0.11</td><td></td><td></td><td>1114</td><td>2.34</td><td>6.0</td><td>27.0</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Low G2</td><td>2</td><td>0.90</td><td>0.74</td><td>0.23</td><td>0.53</td><td>0.16</td><td></td><td>476 577</td><td>1052</td><td>1.82</td><td>6.0</td><td>27.0</td><td></td><td>（杜×汉普</td><td>玉米-豆</td></tr><tr><td></td><td>Williams 等[25]</td><td>Low G3</td><td>2</td><td>1.20</td><td>0.98</td><td>0.28</td><td>0.66</td><td>0.21</td><td></td><td>652</td><td>990</td><td>1.52</td><td>6.0</td><td>27.0</td><td></td><td>夏）×（长×</td><td>粕-乳清</td></tr><tr><td>17</td><td>(1997)</td><td>Low G4</td><td>2</td><td>1.50</td><td>1.21</td><td>0.38</td><td>0.79</td><td>0.26</td><td></td><td>677</td><td>977</td><td>1.44</td><td>6.0</td><td>27.0</td><td></td><td>大)</td><td>粉-脱脂</td></tr><tr><td></td><td></td><td>Low G5</td><td>2</td><td>1.80</td><td>1.45</td><td>0.53</td><td>0.92</td><td>0.32</td><td></td><td>624</td><td>968</td><td>1.55</td><td>6.0</td><td>27.0</td><td></td><td></td><td>牛奶</td></tr><tr><td></td><td></td><td>T2 G1</td><td>3</td><td>0.71</td><td>0.68</td><td>0.29</td><td>0.70</td><td>0.24</td><td></td><td></td><td>1006</td><td>1.62</td><td>9.0</td><td>26.0</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>T2 G2</td><td>3</td><td>0.82</td><td>0.79</td><td>0.29</td><td>0.70</td><td>0.24</td><td></td><td>621 605</td><td>943</td><td>1.56</td><td>9.0</td><td>26.0</td><td></td><td></td><td>玉米-豆</td></tr><tr><td></td><td>Smith 等[16]</td><td>T2 G3</td><td>3</td><td>0.93</td><td>0.90</td><td>0.29</td><td>0.70</td><td>0.24</td><td></td><td>633</td><td>941</td><td>1.49</td><td>9.0</td><td>26.0</td><td></td><td>杂交猪</td><td>粕</td></tr><tr><td></td><td>(2001)</td><td>T2 G4</td><td>3</td><td>1.04</td><td>1.01</td><td>0.29</td><td>0.70</td><td>0.24</td><td></td><td></td><td>878</td><td>1.43</td><td>9.0</td><td>26.0</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>T2 G1</td><td>4</td><td>1.08</td><td>1.01</td><td>0.34</td><td>0.65</td><td>0.23</td><td></td><td>612 608</td><td>1015</td><td>1.67</td><td>12.8</td><td>29.8</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>T2 G2</td><td>4</td><td>1.28</td><td>1.15</td><td>0.39</td><td>0.74</td><td>0.23</td><td></td><td>629</td><td>1016</td><td>1.62</td><td>13.4</td><td>31.0</td><td></td><td></td><td>小麦-大</td></tr><tr><td>4</td><td>(2003) Urynek 等[24]</td><td>T2 G3</td><td>4</td><td>1.40</td><td>1.31</td><td>0.48</td><td>0.83</td><td>0.25</td><td></td><td></td><td>1019</td><td>1.55</td><td>13.1</td><td>31.5</td><td>+</td><td>杂交猪</td><td>麦-豆粕</td></tr><tr><td></td><td></td><td>T2 G4</td><td>4</td><td>1.51</td><td>1.45</td><td>0.57</td><td>0.92</td><td>0.27</td><td>657</td><td></td><td>1016</td><td>1.63</td><td>13.0</td><td>30.5</td><td></td><td></td><td></td></tr><tr><td>C</td><td></td><td></td><td></td><td>1.00</td><td>0.93</td><td>0.32</td><td>0.61</td><td>0.18</td><td>625 380</td><td></td><td>720</td><td>1.89</td><td>8.0</td><td>18.5</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1 2</td><td>5 5</td><td>1.10</td><td>1.01</td><td>0.30</td><td>0.62</td><td>0.20</td><td>410</td><td></td><td>730</td><td>1.78</td><td>8.0</td><td>19.4</td><td></td><td>大×长x北京</td><td>玉米-豆</td></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/a28cb1298ea7e8da1dc189294cbc2022376d9900b7c9bf19ec340ffbb6d2afbd.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>3</td><td>6</td><td>1.10</td><td>1.04</td><td>0.35</td><td>0.67</td><td>0.06</td><td>590</td><td>920</td><td>1.56</td><td>11.3</td><td>22.6</td><td></td><td></td><td></td></tr><tr><td rowspan=\"10\"></td><td>4</td><td>6</td><td>1.20</td><td>1.14 1.24</td><td>0.41</td><td>0.74 0.80</td><td>0.07 0.07</td><td>600 580</td><td>930 900</td><td>1.55 1.55</td><td>11.3 11.3</td><td>22.6 22.6</td><td></td><td></td><td></td></tr><tr><td>5 Exp.1</td><td>6</td><td>1.30</td><td></td><td>0.46</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>G1</td><td>7</td><td>1.10</td><td>1.06</td><td>0.30</td><td>0.70</td><td>0.25</td><td>549</td><td>853</td><td>1.55</td><td>12.0</td><td></td><td></td><td></td><td></td></tr><tr><td>Exp.1 G2</td><td>7</td><td>1.20</td><td>1.16</td><td>0.30</td><td>0.70</td><td>0.25</td><td>568</td><td>875</td><td>1.54</td><td>12.3</td><td>24.2</td><td></td><td></td><td></td></tr><tr><td>Exp.1</td><td>7</td><td>1.30</td><td>1.26</td><td>0.30</td><td>0.70</td><td>0.25</td><td>586</td><td>889</td><td>1.52</td><td>12.3</td><td>24.6</td><td>+</td><td>Triumph 4xPIC C22</td><td>玉米-豆 粕</td></tr><tr><td>G3 Exp.1</td><td>7</td><td>1.40</td><td>1.36</td><td>0.30</td><td>0.70</td><td>0.25</td><td>577</td><td>853</td><td>1.48</td><td>12.3</td><td>24.4</td><td></td><td></td><td></td></tr><tr><td>G4 Exp.1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.49</td><td></td><td>24.4</td><td></td><td></td><td></td></tr><tr><td>G5 1</td><td>7</td><td>1.50</td><td>1.46</td><td>0.30</td><td>0.70</td><td>0.25</td><td>572</td><td>853</td><td></td><td>12.2</td><td>30.2</td><td></td><td></td><td></td></tr><tr><td>2</td><td>8 8</td><td>0.90 1.00</td><td>0.93 1.02</td><td>0.25 0.29</td><td>0.59 0.62</td><td>0.05 0.05</td><td>607 732</td><td>1042 1092</td><td>1.72 1.49</td><td>15.8 15.8</td><td>30.2</td><td>+</td><td>杂交猪</td><td>玉米-豆</td></tr><tr><td>3</td><td>8</td><td>1.10</td><td>1.12</td><td>0.35</td><td>0.68</td><td>0.05</td><td>778</td><td>1097</td><td>1.41</td><td>15.8</td><td></td><td></td><td></td><td>粕</td></tr><tr><td></td><td></td><td>1.20</td><td>1.22</td><td>0.41</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"7\">(2006) Oliveira 等[22]</td><td>4 1</td><td></td><td></td><td></td><td></td><td>0.74</td><td>0.07</td><td>731</td><td>1057</td><td>1.45</td><td>15.8</td><td>30.2 30.0</td><td></td><td></td><td></td></tr><tr><td>2</td><td></td><td>0.80</td><td>0.82</td><td>0.23</td><td>0.54</td><td>0.05</td><td>661</td><td>1167</td><td>1.77</td><td>15.0</td><td>30.0</td><td></td><td></td><td>玉米-豆</td></tr><tr><td>3</td><td></td><td>0.90</td><td>0.93</td><td>0.25</td><td>0.59</td><td>0.05</td><td>607</td><td>1042</td><td>1.72 1.54</td><td>15.0 15.0</td><td>30.0</td><td>+</td><td>杂交猪</td><td>粕</td></tr><tr><td>4</td><td>9 9</td><td>1.00 1.10</td><td>1.03 1.14</td><td>0.26</td><td>0.65</td><td>0.05</td><td>755</td><td>1165 1066</td><td>1.38</td><td>15.0</td><td>30.0</td><td></td><td></td><td></td></tr><tr><td>5</td><td>9</td><td>1.20</td><td>1.24</td><td>0.28 0.30</td><td>0.70 0.76</td><td>0.05 0.05</td><td>771 708</td><td>1036</td><td>1.46</td><td>15.0</td><td>30.0</td><td></td><td></td><td></td></tr><tr><td>Exp.1 G1</td><td>10</td><td>1.05</td><td>0.98</td><td>0.29</td><td>0.65</td><td>0.23</td><td>579</td><td>855</td><td>1.47</td><td>11.5</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>10</td><td>1.12</td><td>1.05</td><td>0.33</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>Triumph</td><td></td></tr><tr><td rowspan=\"5\">Kendall 等[2] (2008)</td><td>G2 Exp.1</td><td></td><td></td><td></td><td></td><td>0.69</td><td>0.23</td><td>583</td><td>841</td><td>1.45</td><td>11.5</td><td>27.0</td><td></td><td>4xPIC</td><td>玉米-豆</td></tr><tr><td>G3 Exp.1</td><td>10</td><td>1.19</td><td>1.12</td><td>0.37</td><td>0.73</td><td>0.23</td><td>622</td><td>853</td><td>1.37</td><td>11.5</td><td>27.0</td><td>+</td><td>Camboroug</td><td>粕</td></tr><tr><td>G4</td><td>10</td><td>1.26</td><td>1.19</td><td>0.41</td><td>0.78</td><td>0.23</td><td>622</td><td>864</td><td>1.39</td><td>11.5</td><td>27.0</td><td></td><td>h 22</td><td></td></tr><tr><td>Exp.1 G5</td><td>10</td><td>1.33</td><td>1.26</td><td>0.45</td><td>0.83</td><td>0.24</td><td>646</td><td>861</td><td>1.33</td><td>11.5</td><td></td><td></td><td></td><td></td></tr><tr><td>Exp.1</td><td>10</td><td>1.40</td><td>1.33</td><td>0.50</td><td>0.87</td><td>0.26</td><td>645</td><td></td><td></td><td>1.35</td><td>11.5</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/c1be7e92cb80b530c3c4b4665826cce56580847b0ffc894544eb9a8c5305f686.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Exp.2 11 G1</td><td></td><td>1.05</td><td>1.01</td><td>0.29</td><td>0.67</td><td>0.23</td><td>482</td><td>693</td><td>1.43</td><td>11.5</td><td>27.0</td></tr><tr><td>Exp.2 G2</td><td>11</td><td>1.14</td><td>1.10</td><td>0.36</td><td>0.72</td><td>0.23</td><td>489</td><td>683</td><td>1.39</td><td>11.5</td><td>27.0</td></tr><tr><td>Exp.2 G3</td><td>11</td><td>1.23</td><td>1.19</td><td>0.41</td><td>0.78</td><td>0.23</td><td>518</td><td>384</td><td>1.32</td><td>11.5</td><td>27.0</td></tr><tr><td>Exp.2 G4</td><td>11</td><td>1.32</td><td>1.28</td><td>0.47</td><td>0.84</td><td>0.23</td><td>526</td><td>688</td><td>1.30</td><td>11.5</td><td>27.0</td></tr><tr><td>Exp.2 G5</td><td>11</td><td>1.41</td><td>1.37</td><td>0.52</td><td>0.89</td><td>0.24</td><td>530</td><td>678</td><td>1.28</td><td>11.5</td><td>27.0</td></tr><tr><td>Exp.3 G1</td><td>12</td><td>1.05</td><td>1.01</td><td>0.29</td><td>0.67</td><td>0.23</td><td>532</td><td>831</td><td>1.56</td><td>11.5</td><td>27.0</td></tr><tr><td>Exp.3 G2</td><td>12</td><td>1.14</td><td>1.10</td><td>0.36</td><td>0.72</td><td>0.23</td><td>549</td><td>844</td><td>1.54</td><td>11.5</td><td>27.0</td></tr><tr><td>Exp.3 G3</td><td>12</td><td>1.23</td><td>1.19</td><td>0.41</td><td>0.78</td><td>0.23</td><td>564</td><td>835</td><td>1.47</td><td>11.5</td><td>27.0</td></tr><tr><td>Exp.3 G4</td><td>12</td><td>1.32</td><td>1.28</td><td>0.47</td><td>0.84</td><td>0.23</td><td>591</td><td>856</td><td>1.45</td><td>11.5</td><td>27.0</td></tr><tr><td>Exp.3 G5</td><td>12</td><td>1.41</td><td>1.37</td><td>0.52</td><td>0.89</td><td>0.24</td><td>571</td><td>822</td><td>1.43</td><td>11.5</td><td>27.0</td></tr><tr><td>Exp.4 G1</td><td>13</td><td>1.05</td><td>1.01</td><td>0.29</td><td>0.67</td><td>0.23</td><td>538</td><td>833</td><td>1.54</td><td>11.5</td><td>27.0</td></tr><tr><td>Exp.4 G2</td><td>13</td><td>1.14</td><td>1.10</td><td>0.36</td><td>0.72</td><td>0.23</td><td>589</td><td>866</td><td>1.47</td><td>11.5</td><td>27.0</td></tr><tr><td>Exp.4 G3 Exp.4</td><td>13</td><td>1.23</td><td>1.19</td><td>0.41</td><td>0.78</td><td>0.23</td><td>596</td><td>851</td><td>1.43</td><td>11.5</td><td>27.0</td></tr><tr><td>G4 Exp.4</td><td>13</td><td>1.32</td><td>1.28</td><td>0.47</td><td>0.84</td><td>0.23</td><td>599</td><td>851</td><td>1.41</td><td>11.5</td><td>27.0</td></tr><tr><td>G5 Exp.4</td><td>13</td><td>1.41</td><td>1.37</td><td>0.52</td><td>0.89</td><td>0.24</td><td>610</td><td>851</td><td>1.39</td><td>11.5</td><td>27.0</td></tr><tr><td>G6</td><td>13</td><td>1.50</td><td>1.46</td><td>0.58</td><td>0.95</td><td>0.26</td><td>611</td><td>838</td><td>1.37</td><td>11.5</td><td>27.0</td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/5f21e6875fec485d09f1bcf6025dc018c665b6f7facae26103443fda524c764a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>Exp.5</td><td>14</td><td>1.05</td><td>1.01</td><td>0.29</td><td>0.67</td><td>0.23</td><td>614</td><td>991</td><td>1.61</td><td>11.5</td><td>27.0</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>G1 Exp.5</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>G2</td><td>14</td><td>1.14</td><td>1.10</td><td>0.36</td><td>0.72</td><td>0.23</td><td>624</td><td>959</td><td>1.54</td><td>11.5</td><td>27.0</td><td></td><td></td></tr><tr><td></td><td></td><td>Exp.5 G3</td><td>14</td><td>1.23</td><td>1.19</td><td>0.41</td><td>0.78</td><td>0.23</td><td>634</td><td>965</td><td>1.52</td><td>11.5</td><td>27.0</td><td></td><td></td></tr><tr><td></td><td></td><td>Exp.5</td><td>14</td><td>1.32</td><td>1.28</td><td>0.47</td><td>0.84</td><td>0.23</td><td>646</td><td>958</td><td>1.47</td><td>11.5</td><td>27.0</td><td></td><td></td></tr><tr><td>1042800:1</td><td></td><td>G4 Exp.5</td><td>14</td><td>1.41</td><td>1.37 0.52</td><td></td><td>0.89</td><td>0.24</td><td>640</td><td>956</td><td>1.49</td><td>11.5</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>G5 Exp.5</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>27.0</td><td></td><td></td></tr><tr><td></td><td></td><td>G6</td><td>14</td><td>1.50</td><td>1.46 0.58</td><td>0.95</td><td>0.26</td><td>646</td><td></td><td>968</td><td>1.49</td><td>11.5</td><td>27.0</td><td></td><td></td></tr><tr><td></td><td></td><td>1</td><td>15 0.80</td><td>0.62</td><td>0.24</td><td>0.46</td><td>0.05</td><td>650</td><td></td><td>1340</td><td>2.06</td><td>14.8</td><td>29.9</td><td>Commercial</td><td></td></tr><tr><td></td><td>Fraga等[18]</td><td>2 3</td><td>15 1.00</td><td>0.82</td><td>0.35</td><td>0.59</td><td>0.08</td><td>680</td><td></td><td>1300</td><td>1.91</td><td>14.8</td><td>31.0 +</td><td>crossbred</td><td>玉米-豆</td></tr><tr><td></td><td>(2008)</td><td></td><td>15</td><td>1.20</td><td>1.02 0.46</td><td>0.71</td><td>0.12</td><td>610</td><td></td><td>1210</td><td>1.98</td><td>14.8</td><td>29.6</td><td>genetic</td><td>粕</td></tr><tr><td></td><td></td><td></td><td></td><td>1.40</td><td>1.26 0.38</td><td>0.84</td><td>0.16</td><td>310</td><td></td><td></td><td></td><td></td><td></td><td>group1</td><td></td></tr><tr><td>U</td><td></td><td>41</td><td>1516</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1200</td><td>1.97</td><td>14.8</td><td>30.8</td><td></td><td></td></tr><tr><td>12</td><td>朱绍伟等[30]</td><td>2</td><td>16</td><td>1.15</td><td>1.15 0.32</td><td></td><td>0.62</td><td>0.08</td><td>405</td><td>634</td><td>1.57</td><td>9.0</td><td>25.0 +</td><td>鲁莱配套系</td><td>玉米-豆</td></tr><tr><td>Z:AI</td><td>(2009)</td><td>3</td><td>16</td><td>1.25</td><td>1.25 0.32</td><td></td><td>0.62 0.08</td><td></td><td>353</td><td>664</td><td>1.88</td><td>9.0</td><td>25.0</td><td>断奶仔猪</td><td>粕</td></tr><tr><td></td><td></td><td>4</td><td>16</td><td>1.35</td><td>1.35 0.32</td><td></td><td>0.62</td><td>0.08</td><td>331</td><td>636</td><td>1.92</td><td>9.0</td><td>25.0</td><td></td><td></td></tr><tr><td></td><td>Figueroa 等[19]</td><td>LP G1</td><td>17</td><td>1.01</td><td>1.00 0.31</td><td></td><td>0.60 0.05</td><td></td><td>590</td><td>970</td><td>1.64</td><td>10.6</td><td>23.0</td><td></td><td>高梁-豆</td></tr><tr><td></td><td>(2012)</td><td>LP G2 17</td><td></td><td>1.11</td><td>1.11 0.32</td><td></td><td>0.61</td><td>0.05</td><td>600</td><td>1020</td><td>1.70</td><td>10.6</td><td>23.2 +</td><td>长×大×皮</td><td>粕</td></tr><tr><td></td><td></td><td>LP G3 17</td><td></td><td>1.21</td><td>1.20 0.32</td><td></td><td>0.60</td><td>0.05</td><td>590</td><td>990</td><td>1.68</td><td>10.6</td><td>23.0</td><td></td><td></td></tr><tr><td></td><td></td><td>Exp.2 G1</td><td>18</td><td>0.74</td><td>0.78</td><td>0.25</td><td>0.46</td><td>0.12</td><td>340</td><td>960</td><td>2.82</td><td>13.9</td><td>20.7</td><td></td><td></td></tr><tr><td></td><td></td><td>Exp.2 G2</td><td>18</td><td>0.83</td><td>0.87</td><td>0.29</td><td>0.52</td><td>0.14</td><td>460</td><td>1130</td><td>2.46</td><td>13.8</td><td>23.0</td><td></td><td></td></tr><tr><td>14</td><td>王英[26] (2014)</td><td></td><td></td><td></td><td>0.97</td><td>0.32</td><td>0.58</td><td></td><td>400</td><td>1020</td><td>2.55</td><td>13.7</td><td>21.7 +</td><td>关中黑猪</td><td>玉米-豆 粕-鱼粉-</td></tr><tr><td></td><td></td><td>Exp2</td><td>18</td><td>0.93</td><td></td><td></td><td></td><td>0.16</td><td></td><td></td><td></td><td></td><td></td><td></td><td>乳清粉</td></tr><tr><td></td><td></td><td>Exp.2</td><td>18</td><td>1.02</td><td>1.07</td><td>0.35</td><td>0.63</td><td>0.18</td><td>460</td><td>910</td><td>1.98</td><td>13.5</td><td>22.7</td><td></td><td></td></tr><tr><td></td><td></td><td>G4</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Exp.2</td><td>18</td><td>1.11</td><td>1.17</td><td>0.38</td><td>0.69</td><td>0.21</td><td>420</td><td>950</td><td>2.26</td><td>13.8</td><td>22.2</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/25c44929382bcf91a309c96b40912f518cd1820a4ba34b4a299ce4744ccbb397.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>1</td><td>19</td><td>0.72</td><td>0.58</td><td>0.22</td><td>0.58</td><td>0.09</td><td>387</td><td>852</td><td>2.20</td><td>10.0</td><td>25.0</td><td></td><td></td></tr><tr><td>Nieto 等[21]</td><td>2 3</td><td>19 19</td><td>0.78</td><td>0.67 0.77</td><td>0.22</td><td>0.58</td><td>0.09</td><td>433</td><td>884</td><td>2.04</td><td>10.0</td><td>25.0</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>0.86</td><td></td><td>0.22</td><td>0.58</td><td>0.09</td><td>435</td><td>883</td><td>2.03</td><td>10.0</td><td>25.0</td><td>伊比利亚小</td><td>玉米-大</td></tr><tr><td>(2015)</td><td>4</td><td>19</td><td>0.94</td><td>0.87</td><td>0.22</td><td>0.58</td><td>0.09</td><td>468</td><td>912</td><td>1.95</td><td>10.0</td><td>25.0</td><td>猪</td><td>麦-豆粕</td></tr><tr><td></td><td>5 6</td><td>19</td><td>1.08</td><td>0.95</td><td>0.22</td><td>0.58</td><td>0.09</td><td>470</td><td>898</td><td>1.91</td><td>10.0</td><td>25.0</td><td></td><td></td></tr><tr><td></td><td></td><td>19</td><td>1.20</td><td>1.05</td><td>0.22</td><td>0.58</td><td>0.09</td><td>473</td><td>911</td><td>1.93</td><td>10.0</td><td>25.0</td><td></td><td></td></tr><tr><td>远德龙等[29]</td><td></td><td>20</td><td>0.60</td><td>0.55</td><td>0.19</td><td>0.65</td><td>0.10</td><td>280</td><td>940</td><td>3.36</td><td>15.0</td><td>30.0</td><td></td><td>玉米-花</td></tr><tr><td>(2015)</td><td>2 3</td><td>20</td><td>0.70</td><td>0.65</td><td>0.19</td><td>0.65</td><td>0.10</td><td>340</td><td>1100</td><td>3.24</td><td>15.0</td><td>30.0</td><td>烟台黑猪</td><td>生粕-麸</td></tr><tr><td></td><td></td><td>20</td><td>0.80</td><td>0.75</td><td>0.19</td><td>0.65</td><td>0.10</td><td>410</td><td>1210</td><td>2.95</td><td>15.0</td><td>30.0</td><td></td><td>皮</td></tr><tr><td></td><td>4</td><td>20</td><td>0.90</td><td>0.85</td><td>0.19</td><td>0.65</td><td>0.10</td><td>390</td><td>1170</td><td>3.00</td><td>15.0</td><td>30.0</td><td></td><td></td></tr><tr><td></td><td>Trp0.25 G1</td><td>21</td><td>0.97</td><td>0.92</td><td>0.37</td><td>0.65</td><td>0.14</td><td>702</td><td>1400</td><td>1.99</td><td>15.0</td><td>30.0</td><td></td><td></td></tr><tr><td>Pasquetti 等[23]</td><td>Trp0.25</td><td>21</td><td>1.11</td><td>1.06</td><td>0.37</td><td>0.65</td><td>0.14</td><td>668</td><td>1 220</td><td>1.83</td><td>15.0</td><td>30.0</td><td></td><td>玉米-豆</td></tr><tr><td>(2015)</td><td>G2 Trp0.25</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>皮×(长×大)</td><td></td></tr><tr><td></td><td>G3</td><td>21</td><td>1.25</td><td>1.20</td><td>0.37</td><td>0.65</td><td>0.14</td><td>680</td><td>1200</td><td>1.76</td><td>15.0</td><td>30.0</td><td></td><td></td></tr><tr><td></td><td>Trp0.25</td><td>21</td><td>1.39</td><td>1.35</td><td>0.37</td><td>0.65</td><td></td><td></td><td></td><td></td><td></td><td>30.0</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 16
+    }
+]

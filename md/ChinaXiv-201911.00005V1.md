@@ -1,0 +1,162 @@
+# 父子(女） 间面孔相似性的进化适应机制及其影响
+
+于全磊1,2. 陈建文4 谭秀娟5,6邓雪菲4 赵庆柏周治金(1 青少年网络心理与行为教育部重点实验室，武汉，430079)，(2 中国基础教育质量监测协同创新中心华中师范大学分中心，武汉，430079）（3华中师范大学心理学院，武汉，430079）（4华中科技大学教育科学研究院，武汉，430074）（5山西师范大学教育科学学院，临汾，041000）（6 天津师范大学心理学部，天津，300387）
+
+摘要 由于受精和孕育过程发生在母亲体内，人类受孕具有一定的隐蔽性，同时人类早期社会存在着通奸行为，因而，父亲面临着父亲身份不确定性的风险。为了应对这种风险，人类男性在生活中往往会寻求一些能表征父亲身份的线索，其中亲子间面孔相似性被证明是辨别个体间是否存在基因关联（或血缘关系）的有效线索之一。morph 软件合成、第三方评定以及当事人的主观评定是研究亲子间面孔相似性的三种基本范式。以往的研究表明当父子（女）间面孔相似性越高时，父亲对子女的亲子投资水平越高，父亲感知到的焦虑水平越低，父亲的身体也越健康，与此同时，当父子（女）间面孔相似性越高时，父亲对女儿会表现出更高的性厌恶水平。未来的研究可以进一步关注文化因素在该效应中的调节作用、影响亲子间面孔相似性感知的因素以及探寻新的研究范式以提高研究的内部效度和外部效度。
+
+关键词 父子（女）间面孔相似性；父亲身份不确定性；亲子投资；文化；性别
+
+# 1引言
+
+在人类繁衍后代的过程中，男性和女性分别面临着不同的适应问题(Platek,2003)。对于女性而言，她们需要选择携带健康基因且具有一定社会经济地位的伴侣，以便于在生育子女期间能够得到伴侣所提供的充足物质和生活保障(Buss,1989;Greengross& Miller,2011;Jonason,Tost,& Koenig,2012;Schmit,2014；乐国安，陈浩，张彦彦,2005；刘永芳，苏丽娜,王怀勇,2011)。对于男性而言，由于人类孕育后代的过程在女性的体内进行，而且人类女性不像其他灵长类雌性动物在排卵期有明显的生理信号，人类的受孕具有极大的隐蔽性，甚至连女性自己都不知晓。因此，是否怀孕与频繁的性交行为没有必然联系(张雷,2007)。人类早期社会存在着普遍的通奸行为，在婚前，妻子可能与其他男性已发生过性关系或已经怀孕;
+
+在婚后，妻子也可能依然偷偷地维持与其他男性的性关系(Buss,2019)。因此，男性面临着所抚养的后代与自身基因不确定性的风险，即父亲身份不确定性(Patermal Uncertainty)(Buss,2019;Trivers,1972；张雷,2007)。1由于受精和孕育过程发生在女性体内，而且在大多数社会中，对后代的抚养也是由母亲来完成(孩子与母亲一同居住)，因此，母亲几乎能够 $100 \%$ 确定所抚养后代与自己存在血缘关系(Gaulin& Schlegel,1980)。
+
+为了增强父亲身份的确定性，男性在进化过程中形成了一系列的心理行为应对机制(Platek,2003；也见 李宏利，张雷，陈丹云,2006)。首先，在妻子的繁殖期内，丈夫的性嫉妒和伴侣守护能够在一定程度上限制着配偶与其他男性发生性关系(Buss & Schmitt,1993)；其次，当伴侣守护失败后，丈夫将采用一些无意识的竞争策略来增强父亲身份确定性，如精子竞争策略，即当夫妻分离一段时间后，丈夫的射精量将会显著增多，研究者认为这种生理机制有助于排除或替换其他男性的精子，从而增强丈夫的精子与妻子的卵子成功结合受孕的机会(Buss,2019; Shackelford, Goetz,LaMunyon,Pham,&Pound,2016)。最后，在孩子出生以后，丈夫会依据生活中的一些线索来评估父亲身份的确定性，并根据感知到的确定性程度调整对子女的亲子投资(Alvergne,Faurie,& Raymond,2010; Apicella& Marlowe,2004; Bressan,Bertamini, Nalli, & Zanutto, 2009; Daly & Wilson,1998; Platek, Burch,Panyavin, Wasserman,&Gallup,2002; Platek et al.,2003; Platek et al.,2004；李宏利，张雷,2007；也见 李宏利 等人，2006)。
+
+# 2父亲身份确定性的线索 父子（女）间面孔相似性
+
+在日常生活中，男性会无意识地寻找一些能够表征与自己基因一致性的线索来评估父亲身份的确定性程度。这些线索包括间接线索和直接线索(Alvergne et al.,2010; Apicella &Marlowe,2004; Bressan et al.,2009;Daly&Wilson,1998)。其中感知到配偶的性忠诚度作为一种间接的社会线索被男性用来推断父亲身份的确定性(Bilingsley,Antfolk，Santtila,&Lieberman,2018;Apicella& Marlowe,2004;Flinn,1988)，而父亲感知到子女与其在体味和面孔上的相似性是辨识后代是否与自己存在血缘关系的两个重要的直接线索(Alvergne,Faurie,& Raymond, 2009; Alvergne et al., 2010; Bressan et al., 2009)。
+
+面孔相似性主要是指个体间的面孔特征在整体上的一致性。父子（女）间的面孔相似性是辨别父亲身份确定性的一个非常重要的直接线索之一，人们常常根据面孔特征的相似性来判断个体间是否具有血缘关系(Alvergne et al.,2010; Apicella & Marlowe,2004; Bressan et al.,2009;Bressan&Kramer,2015;Daly&Wilson,1998)。来自生物遗传学领域的证据表明面孔特征具有高度的遗传性(Johannsdottir, Thorarinsson,Thordarson,& Magnusson, 20o5)。两个具有血缘关系的个体间的面孔相似性显著高于两个没有血缘关系的个体间的面孔相似性(Bressan& DalMartello,2002)。与此同时，脑神经领域的相关研究表明男性对与自己长相相似的面孔表现出了特异的脑区激活模式，如研究发现，相比女性被试而言，男性被试在观看与自己长相相似儿童的面孔照片时其脑皮层的激活水平更高(Platek,Keenan,&Mohamed,2005; Plateket al.,2004)，而且识别与自我面孔相似的儿童照片的反应也更快(Wu, Yang,Sun,Liu,&Luo,2013)。
+
+由于面孔相似性是辨别个体间是否存在血缘关系的一个良好指标(Alvergne et al.,2009;DeBruine etal.,2009)，因此，研究者往往选择父子（女）间面孔相似性作为测量父亲身份确定性的指标 (Alvergne et al., 2009,2010; Apicella & Marlowe,2004; Chang,Lu,Lee,Li,& Sui,2010; Gaulin& Schlegel,1980; Sear & Mace,2008; Yu et al.,2016; Yu et al.,2017; Yu et al.,2019a;Yu etal.,2019b; Yu etal,2019c；于全磊 等,2019)。同时，与西方人相比，中国人的体味差异相对较小，眼睛和头发的颜色也基本都是黑色，因而，对于中国人（或东亚人）而言，面孔相似性是确认父亲身份的一个非常的重要线索(Chang et al.,2010)。
+
+# 3父子（女）间面孔相似性的研究方法
+
+目前学术界对父子（女）间面孔相似性的评估方法主要采用实验法（Morph 软件合成法）、第三方评定和当事人的主观评定三种方法。
+
+Morph 软件是研究者在合成实验面孔图片材料时常用的一种软件。研究者通过该软件可以将被试的面孔与特定客体的面孔（如婴儿的面孔）按照特定的比例合成在一起，因此，这种方法可以操作客体与被试的面孔相似性(DeBruine,2002)，并进而探讨面孔相似性与人类心理、行为的因果关系。以往研究通过 Morph 软件合成法将被试的面孔按照不同的比例与假定个体的面孔进行合成，结果发现当被试面孔对合成面孔的贡献比例越大时，被试越愿意信任该假定个体、越愿意为"假定亲属"提供更多的公共利益、越愿意与“假定亲属"进行长期合作(DeBruine,2002,2005)，而与"假定亲属"的面孔相似性程度却不能显著地预测对"假定亲属"的惩罚(Krupp,Debruine,& Barclay, 2008)。
+
+第三方评定法主要是指当事人以外的其他个体（如亲属、朋友、陌生人）对亲子间面孔相似性的一种主观感知的测评方法。研究表明第三方能够通过个体间面孔相似性准确地辨别个体间是否具有血缘关系(Arantes & Berg,2012)。为了探讨二者的关系，Maloney 和 DalMartello (2006)选取了两组独立的被试，要求第一组被试对配对孩子照片（照片中的孩子一半为具有血缘关系的兄弟姐妹，另一半为来自不同家庭的个体）的面孔相似性进行评定，第二组被试对该批配对照片是否为兄弟姐妹进行判定，结果表明第一组面孔相似性的评定分数能够显著地预测第二组的分类评定，变异的解释率高达 $96 \%$ ，而且被试能够准确地判断配对照片中的两个孩子是否具有血缘关系。与此同时，Alvergne,Perreau,Mazur,Mueller 和Raymond (2014)选择了27对父子的面孔照片，通过 Photoshop 软件对儿子的面孔照片进行分割、切除、移位等处理，然后要求与照片中人物素不相识的大学生被试对材料中的父子关系进行判定，结果表明，在不同的处理情境下，被试基本上都能够准确地判断出个体之间是否具有血缘关系。近期的研究还发现，孩子五岁左右就已具备通过个体间的面孔相似性来准确判断亲属之间的血缘关系，而这种识别能力会随着年龄的增长逐渐增强，到9\~11岁时基本达到成人的辨识能力水平(Kaminski,Gentaz,&Mazens,2012)。然而，在评定亲子间面孔相似性上，有些群体可能存在特定的动机从而产生评定偏差，如相关研究发现，孩子的母亲以及母亲一方的亲属更倾向于认为孩子与父亲更为相似，以使父亲对孩子做出更多的亲子情感和物质投资(Alvergne,Faurie,& Raymond, 2007; McLain, Setters,Moulton,& Prat, 2000)，如McLain 等人(2000)发现当父亲在场时， $87 . 5 \%$ 的母亲认为孩子与父亲在长相上更为相似，而当父亲不在场时，母亲认为孩子与父亲长得更为相似的比例降低至 $60 \%$ 。
+
+当事人的主观评定主要是指当事人对自己与孩子(或与父母)面孔相似性所进行的评定。不可否认，当事人的评定存在较大的主观性。对于父亲而言，他们可能存在一定的防御动机，认为孩子与自己长得较为相似，以捍卫父亲身份的确定性(Yuetal.,2016)。纵然如此，当事人的主观评定仍具有一定的客观性。在远古时代，人类没有镜子，无法了解自己的容貌与长相，因此，人类对自己容貌的了解以及自己面孔与亲属间的面孔相似性更多地是通过"社会镜子（SocialMirror）"来完成的。大量研究的结果支持了这一假设，父母主观感知到亲子间面孔相似性程度与第三方评定的结果存在较高的一致性，相关系数达到 0.80 以上(Alvergneet al.,2010; Billingsley et al.,2018; Burch & Gallup,2000; Yu et al.,2017)。另外，跨文化的研究结果也支持了该假设，研究者选取自愿参加亲子鉴定的男性，结果发现，父亲身份确定信心低的男性的后代非亲生比例（中位数约为 $2 9 . 8 \%$ ）显著高于父亲身份确定信心高的男性的后代非亲生比例（中位数约为 $1 . 7 \%$ ）(Anderson,2006)。
+
+相比较而言，Morph合成面孔的方法具有较高的内部效度，它可以通过操作客体面孔与被试面孔的相似性来探讨面孔相似性与相应心理和行为之间的因果关系。但是这些面孔刺激均是虚拟合成的，得到的研究结果在真实家庭中的推广性受到较大的限制(Alvergne et al.,2010; Platek et al.,2002; Platek et al.,2003; Platek et al.,2004)，因此，Morph 软件合成法的生态效度要弱一些。而当事人的主观评定方法的生态效度较高，无论客观上孩子与父亲面孔相似性的程度如何，只要父亲主观认为孩子与自己相似或不相似，即可影响到父亲对孩子和对家庭的态度与投资。但主观评定法较易受到社会赞许性或社会规范的影响，因而其内部效度不高(Alvergne etal.,2010)。相比较而言，第三方评定在内部效度和生态效度方面都处于中等水平(Yuetal.,2016)。因此，在采用主观感知评定法探讨亲子间面孔相似性的心理与行为机制时，研究者应辅以实验操纵进一步增强研究的内部效度。
+
+# 4父子（女）间面孔相似性的作用
+
+父子（女）间面孔相似性作为辨别个体间基因相似性的一个重要线索，一方面能够指导父亲的亲子投资行为，以避免将自身有限的资源投资给与自己没有血缘关系的后代；另一方面还可以诱发个体的性厌恶进而避免近亲繁殖，从而提高个体的内含适应性。因此，亲子间面孔相似性对个体的心理与行为具有深远的影响（Billingsley etal.,2018）。
+
+# 4.1父子（女）间面孔相似性与亲子关系
+
+亲子投资理论认为男性若将异性伴侣与其他男性生育的孩子养育成人，这将严重损害其内含适应性——将资源投资给其他男性的后代，浪费了自己有限的金钱和精力，而自身所携带的基因也没有得到传承(Trivers,1972)。基于广义内含适应理论，人类更倾向于帮助那些与自己具有血缘关系的个体，从而增强自身所拥有基因传播的可能性(Hamilton,1964)，而亲子间面孔相似性是辨别个体间血缘关系的一个有效指标(Alvergne et al.，2010;Apicella&Marlowe,2004; Bressan et al.,2009; Bressan & Kramer,2015; Daly & Wilson,1998)，因此，父亲往往依据父子（女）间面孔相似性的程度调节着其对后代的投资行为。以往的研究表明，后代与父亲长得越为相似，父亲与后代的关系越为亲密和融洽(Alvergne etal.,2009;Alvergneet al., 2010; Apicella & Marlowe, 2004; Billingsley et al.,2018; Chang et al.， 2010; Gaulin &Schlegel,1980; Sear & Mace,2008; Yu, et al.,2017; Yu et al.,2019c；李宏利,张雷,2007)。
+
+以往关于父子（女）间面孔相似性对亲子关系影响的研究大多采用的是横断研究范式(Alvergne et al.,2009,2010; Apicella & Marlowe,2004; Bilingsley etal.,2018; Chang et al.,2010;Gaulin& Schlegel,1980; Sear & Mace,2008; Yu, et al.,2017; Yu et al.,2019c)，该研究范式在推导变量间因果关系上存在天然的不足。因而，研究者们尝试在实验室的模拟情境中探讨面孔相似性对人类心理和行为的影响。如DeBruine 通过Morph 软件操纵虚拟同伴与被试的面孔相似程度，研究发现当虚拟同伴与被试在长相上较为相似时，无论是男性被试还是女性被试均会给予其更多的信任和支持，与此同时，在排除熟悉性等干扰因素的影响后，这种效应依然稳健地存在(DeBruine,2002,2005)。但这里需要进一步解释的是，横断调查研究的数据均来自真实的家庭，母亲已经确证孩子与自己存在血缘关系，无须额外的线索来引导自己做出亲子投资，而在实验室研究中，女性与虚拟的被评定对象并没有明确他们之间的血缘关系，而根据亲缘选择理论(Laham,Gonsalkorale,& von Hippel,2005)，无论男性还是女性都倾向于帮助与自己具有血缘关系的个体和群体，而面孔相似性是辨识基因相似性的一个有效线索，所以，在虚拟的实验情境中，女性呈现出对与自己相似的面孔个体提供更多的关怀和照顾也是可以理解的 (Yu et al.,2017)
+
+父亲身份的确定性不仅可以通过生理特征的相似性程度来得以确认，同时还可以通过一些社会文化制度和社会习俗得以加强(Chang et al.,2010)。如婚后同丈夫的家人一起居住(Murdock,1982)、孩子随丈夫的姓氏以及对于不同性别卷入通奸的双重惩罚标准（对女性的惩罚力度远高于对男性的惩罚力度）等社会文化习俗都能够在一定程度上增强父亲的身份(Daly,Wilson,&Weghorst,1982)。Chang 等人(2010)认为在男方家里，父亲与父亲家中的其他成员已结成同盟关系，妻子婚后与男方父母一起居住能够在一定程度上减少妻子的婚外性行为，从而提升丈夫的父亲身份确定性，因此，婚后夫妻同丈夫的亲属一起居住的生活方式和父子（女）间面孔相似性具有同样的功能。Chang 等人(2010)以中国家庭为研究对象分析了父母主观感知到亲子间面孔相似性与亲子投资之间的关系，结果发现，在核心家庭中（不与祖父母一起居住)，父子（女）间面孔相似性能够显著地预测到父亲的亲子投资，而在主干家庭中（与祖父母一起居住)，父子（女）间面孔相似性对父亲的亲子投资的影响减弱至不显著。该结果表明婚后同丈夫的家属一起居住能够在一定程度上补偿父子（女）间面孔相似性的功能——确认父亲身份。此外，在中国文化背景下，传统观念认为男性可以传宗接代、传递香火，甚至需要承担起给父母养老送终的责任，而女性不仅没有传递香火的能力，而且也没有照顾自己年老父母的义务和责任(Peng,2011；林莞娟，赵耀辉,2014)。因此，在中国文化背景下，后代的性别能够调节着父子（女）间面孔相似性与亲子投资之间的关系，具体而言，父子间面孔相似性与父亲对儿子的情感投资具有显著的关联，而父女间面孔相似性与父亲对女儿的情感投资的关联没有达到显著水平(Yuetal.,2017)。
+
+# 4.2父子（女）间面孔相似性与家庭暴力
+
+当孩子与父亲的长相更为相似时，孩子不仅获得父亲的较多投资，而且在家中经历的家庭暴力频率也较低(于全磊 等，已录用)。Burch 和Gallup(2000)从一个咨询中心选择了 55 名被裁定为具有家庭暴力（针对配偶）的男性为研究对象。在研究中，研究者一方面要求被试对孩子与被试的面孔相似性程度进行主观评定（您觉得孩子与您有多像？其他人告知您孩子与您有多像？），另一方面，研究者要求被试评定其对家庭成员的暴力程度、亲子关系质量等，研究结果表明感知到孩子与自己的面孔相似程度能够显著地预测父子（女）之间关系的亲密程度和针对配偶的家庭暴力严重程度，同时要求被试评估自己与父亲的面孔相似性以及曾经在家中经历的家庭暴力行为，结果也呈现出了一致的模式，即感知到与自己父亲的长相越为相似，他们的关系越为亲密，自己在儿时受到家庭暴力的频率越小，目睹母亲受虐待的频率也越小。Heijkoop,Semon Dubas 和 van Aken (2009)以来自荷兰的正常家庭的父母为被试发现了类似的结果。Heijkoop 等人要求被试首先主观评定子女在外貌上与自己的相似性和在人格上与自己的相似性，然后主观报告被试对子女的暴力行为频率（如"我经常用巴掌扇孩子耳光")，结果表明，父亲感知到的父子（女）间外貌相似性能够显著地预测父亲对子女的暴力行为，而母亲感知到母子（女）间外貌相似性对母亲的暴力行为预测作用不显著。Platek 等人(2002)通过实验操纵的方法也得到了类似的结果。首先，研究者采用 Morph 软件合成法操作假定孩子与被试面孔的相似程度；然后，让被试想象自己珍贵的物品被该假定孩子打坏时对该假定孩子实施体罚的可能性；结果表明，相比较与自己长相不相似的个体而言，男性被试对与自己长相相似的孩子做出更少的惩罚。在一些其他的相关调查研究中也发现，已婚男性对继子（女）的惩罚频率和严重程度都远远高于对那些具有血缘关系子女的惩罚(Daly&Wilson,1998)。总之，父子（女）间面孔相似性不仅能够增强父亲对子女的情感投资和物质投资，还能减少发生家庭暴力的可能性。
+
+与 Yu 等人(2017)的研究结果—一子女的性别调节着父子（女）间面孔相似性对亲子关系的影响—一类似，于全磊等人(已录用)也发现由于受到中国传统重男轻女观念的影响，父子间面孔相似性与父亲的情感虐待存在显著的负向关联，而父女间面孔相似性与父亲情感虐待的相关没有达到显著水平。
+
+# 4.3父子（女）间面孔相似性与子女的身体发育
+
+基于内含适应理论和父亲身份不确定性的假设，父亲将会通过感知到父子（女）间的面孔相似性调整其对子女的亲子投资，而亲子投资的多少将会关乎着子女的生存和成长质量(Alvergne et al.,2009,2010; Gaulin& Schlegel,1980; Sear& Mace,2008)。Alvergne 等人(2009)以居住在非洲塞内加尔传统村庄的村民为被试探讨了父子（女）间面孔相似性和父子（女）
+
+间体味相似性对子女发育的影响，研究结果表明父子（女）间生理特征的相似性（面孔相似性、体味相似性)不仅能显著地预测到父亲的亲子投资(如父亲与孩子在一起的互动时间)，而且还能显著地预测子女的身体发育（臂长 MAC 和 BMI)。随后，Alvergne 等人(2010)以法国儿童为研究对象重复了他在塞内加尔展开的研究，研究结果重复验证了父子（女）间面孔相似性对父亲与孩子的情感亲密联结的稳健影响，但父子（女）间面孔相似性对子女的身体发育（BMI）的影响没有达到显著水平。Alvergne 等人（2010）认为这可能是由于在工业较为发达的法国，母亲已具备了一定的经济实力，她能够在一定程度上补偿父亲身份不确定性所带来的效应。由此可见，父子（女）间面孔相似性对后代的亲子投资及对后代心身发展的影响效应在不同的社会经济文化背景下存在一定的差异。
+
+# 4.4父子（女）间面孔相似性与父母的健康
+
+繁衍后代是人类的终极动机(Kenrick,Griskevicius,Neuberg，& Schaller,201O;Yu et al.,2019b)，父亲身份确定性的水平越高，父亲抚育子女动机的满足也越为充分，父亲可能体验到较多的积极情感。父子(女)间面孔相似性的主要功能是辨识父亲身份(Chang etal.,2010)，因而，父子（女）间面孔相似性不可避免地会影响到父亲的心理健康甚至身体健康。
+
+为了增强父亲身份确定性，男性非常看重配偶的性忠诚度。研究发现当想象配偶生理出轨时，男性将会产生极大的焦虑和不安(Buss,Larsen,Westen,& Semmelroth,1992)。类似地，作为父亲身份确定性的直接线索，当父子（女）间面孔相似性较低时，父亲同样会产生焦虑感。由于子女在成年前需要父母的照顾，因此，父子（女）关系是一种稳定而持久的关系，而且父子（女）间面孔相似性将作为一种稳定的刺激作用于父亲。父亲持久地感知到较低的父子（女）间面孔相似性，进而会引发持久的焦虑和不安，久而久之，这种状态性焦虑会进一步引发具有跨时间稳定性和跨情境一致性的特质焦虑(Yuetal.,2016)。与此同时，对于孩子与其面孔相似度较低的父亲而言，由于长期受到焦虑的困扰，父亲的免疫系统功能可能遭到一定的抑制(Koh&Lee,1998)。研究表明个体在焦虑状态下的应激表现为5羟色胺功能不齐(Chang,Cloak,&Ernst,2003; Stein et al.,1998)、去甲肾上腺素升高(Geracioti et al,2001)等,而这些变化均会减弱个体免疫系统的机能，进而对其生理健康产生一定的影响；由于母亲与后代之间的血缘关系是确定的，母亲无需额外的线索来辨别母亲的身份，因此，母子（女)的面孔相似性不会引起母亲的焦虑情绪，同时也不会对母亲的身体健康产生影响(Yu et al.,2019a)。
+
+# 4.5父子（女）间面孔相似性与近亲繁殖
+
+从亲属利他的角度来讲，将与自己相似的个体评定为高性吸引力会在一定程度上提升该个体的繁衍成功率。但若是个体将与自我面孔相似性的异性个体评定为高性吸引力，那么，近亲繁殖的几率将会大大增加，进而降低个体的内含适应性。因而，个体是否将与自己长相相似的个体评定为高性吸引力取决于评定者与被评定对象是否为同一性别，即评定者与被评定者为同性时，面孔相似性能够提升性吸引力的评定，而二者若为异性时，面孔相似性对提升性吸引力评定的效应不显著。早期的研究结果证实了这一推论，研究者们首先采用 morph方法合成面孔材料，然后要求被试对这些合成面孔的性吸引力进行评定，研究结果表明与自己长得更为相似的面孔更可能被评定为具有高性吸引力，但这种效应仅发生在被试和评定对象为同一性别时 (DeBruine,2005;Wolf&Durham,2004)。然而，最近 Billingsley 等人(2018)采用当事人主观评定的方法探讨了父女间生理特征相似性（包含面孔相似性）与父亲性动机的关系，发现父女间生理特征的相似性与父亲对女儿的性厌恶、性唤起的相关没有达到显著水平，而父亲感知到配偶的性忠诚度与父亲对女儿的性厌恶、性唤起的相关达到了显著水平。Billingsley 等人认为这一结果与前人研究结果之所以存在一定的出入，可能是因为父女间生理特征的相似性涉及的范畴过广所致，同时，研究者也尝试推论父子（女）间生理特征的相似性并不是父亲身份不确定性的有效线索。不过，这些推论仍需要多领域证据的支持。
+
+# 5未来的研究
+
+尽管以往研究已发现一些有关父子（女）间面孔相似性的有价值且可靠的结论，但是该领域研究仍有待拓展，未来的研究可以在以下几个方面进一步延伸。
+
+首先，未来的研究应着重探讨文化因素在进化过程中的作用。人类行为是生物因素和社会文化因素综合作用的产物(DeSteno,Bartlett Braverman,& Salovey,2002; Sear &Mace,2008;Shan etal.,2012)。Sear 和Mace (2008)认为人类的行为系统在不同的生态环境下会发生一定的变异。然而，以往的研究大多只关注了生物进化的作用机制，很少有研究考察文化因素的影响。在中国文化背景下，传统观念认为男性可以传宗接代、传递香火，甚至需要承担起给父母养老送终的责任，而女性不仅没有传递香火的能力，而且也没有照顾自己年老父母的义务和责任(Peng,2011；林莞娟，赵耀辉,2014)。因此，在中国文化背景下探讨父子（女）间面孔相似性对亲子投资的影响可能受到孩子性别的调节(Yu et al.,2017)。然而，重男轻女观念在中国不同地域间存在较大差异，因此，未来的研究需要在中国的不同地域对以上研究进行验证和拓展。除此之外，宗教文化也可能会调节着父子（女）间面孔相似性对父亲亲子投资的影响。基督教文化强调人都是上帝的儿子(Genesis 1:27)，基督徒与主的关系甚至优于基督徒与其家人的关系(Matthew 10:37;12:46-50)。因此，对于虔诚的基督徒而言，父亲身份的确定性可能没有如此重要，基督宗教信仰可能会调节着父子（女）间面孔相似性对父亲亲子投资的影响，这需要未来的研究进一步探讨。
+
+其次，研究的内部效度和外部效度需要进一步加强。如前所述，morph 软件合成法具有较好的内部效度(Yu etal.,2016)，但是，实验材料均为合成，实验情境均是虚构，被试也是不曾为人父为人母的大学生，进化心理视角下的需求层次理论假设人的需求是发展的，在人生的每一阶段，人生的追求目标和动机是不同的(Kenrick etal.,2010)，因此，在虚拟的实验条件下，大学生可能无法准确地体验为人父母的心理与行为，研究的生态效度受到较大的限制（Alvergne et al.,2010; Platek et al.,2002; Platek et al.,2003; Platek et al.,2004)。采用主观报告法得到的研究结果均为真实家庭情境中当事人（父母或子女）所报告的真实心理和行为，该范式具有较高的生态效度(Yuetal.,2016)，但研究范式大多为横断研究，对于探讨父子（女)间面孔相似性与亲子投资等变量之间的因果关系具有天然的不足。因而，未来的研究应选择外部效度和内部效度兼具的研究方式（如纵向追踪的研究范式）来探讨父子（女）间面孔相似性的进化机制。
+
+最后，亲子间面孔相似性的主观、客观评定之间差异的心理机制需要进一步探讨。虽然以往的研究表明客观的亲子间面孔相似性与主观感知到亲子间面孔相似性之间存在较高的一致性(Alvergne et al.,2010; Anderson,2006; Burch & Gallup,2000)，但是二者并不完全相同，在客观现实与主观感知之间可能存在一些调节变量，而这些调节变量会使主体曲解客观现实，从而使主体产生感知偏差。如 Yu 等人(2016)发现，由于受到自我服务偏差的影响，无论父亲还是母亲都主观上认为孩子与自己长的更像，他们的评定分数均显著高于量表的中点值，而对于父亲而言，他们可能受到父亲身份不确定性的威胁，父亲的自我服务偏差比母亲更强。同时，在人类的早期社会，镜子尚未被发明之前，人们对亲子间面孔相似性的知觉往往来自周围亲人和朋友感知的反馈。然而，周围的亲人、朋友与当事人父亲和当事人母亲的亲密关系程度具有一定的不对称性，而这种不对称可能会左右着第三方的感知。除此之外，研究还发现被试对谁与自己长得更像会受到被评定对象的积极效价特征的影响，对于面孔相似性相同的面孔刺激（通过Morph 软件操作)，被试更倾向于认为那些可信赖的个体与自己长得更为相似(Farmer,McKay,&Tsakiris,2014; Verosky& Todorov,2010)。而还有哪些因素会影响到主体对客观亲子间面孔相似性的感知以及这些因素背后所隐藏的心理机制是什么，这些均有待研究者进行深入、系统地探索。
+
+# 参考文献
+
+金一虹.(2010).流动的父权：流动农民家庭的变迁．中国社会科学,4,151-165.乐国安，陈浩，张彦彦.(2005)．进化心理学择偶心理机制假设的跨文化检验．心理学报,37(4),
+
+561-568.   
+李宏利，张雷.(2007).父亲严厉教养与父亲及儿童心理行为特点的关系：父亲与儿童类似性判断 的调节作用．心理学报,39(3),495-501.   
+李宏利，张雷，陈丹云.(2006).父母确定性与儿童发展．中国心理卫生杂志,20(11),772-773.   
+林莞娟，赵耀辉.(2014).“重男轻女”降低女性福利吗？离婚与抚养压力．经济学,14(1),135-158.   
+刘永芳，苏丽娜，王怀勇.(2011).女性择偶决策的线索偏好及信息加工方式．心理学报,43(1), 21-29.   
+于全磊，谭秀娟，熊青，邹泓，金盛华，周治金.(2019)．感知到亲子间面孔相似性对亲子虐待的 影响：一个双重调节模型．心理科学.   
+张雷.(2007).进化心理学.广州：广东高等教育出版社.   
+Alvergne,A.,Faurie, C.,& Raymond, M. (2oo7). Differential facial resemblance of young children to their parents: Who do children look like more? Evolution and Human Behavior; 28(2),135-144.   
+Alvergne,A.， Faurie, C.，& Raymond, M. (2009). Father-offspring resemblance predicts paternal investment in humans. Animal Behaviour; 78(1), 61-69.   
+Alvergne,A.， Faurie, C.，& Raymond, M. (2010).Are parents'perceptions of offspring facial resemblance consistent with actual resemblance? Effects on parental investment. Evolution and Human Behavior; 31(1), 7-15.   
+Alvergne,A., Perreau,F., Mazur,A., Mueler, U.,& Raymond, M. (2014). Identification of visual paternity cues in humans. Biology Letters, 10(4), 1-4.   
+Anderson, K. (2oo6). How well does paternity confidence match actual paternity?: Evidence from worldwide nonpaternity rates. Current Anthropology, 47(3), 513-520.   
+Apicella, C.L.,& Marlowe,F. W. (2004). Perceived mate fidelity and paternal resemblance predict men's investment in children. Evolution and Human Behavior, 25(6), 371-378.   
+Arantes, J.,& Berg, M.E. (2O12). Kinship recognition by unrelated observers depends on implicit and explicit cognition. Evolutionary Psychology, 10(2),210-224.   
+Billingsley,J.,Antfolk, J., Santila, P.,& Lieberman,D. (2018). Cues to paternity: Do partner fidelity and offspring resemblance predict daughter-directed sexual aversions? Evolution and Human Behavior; 39(3),290-299.   
+Bressan, P., Bertamini, M., Nali, A., & Zanutto,A. (20o9). Men do not have a stronger preference than women for self-resemblant child faces. Archives of Sexual Behavior; 38(5), 657-664.   
+Bressan,P.,& Dal Martello,M.F. (2Oo2). Talis pater, talis filius: Perceived resemblance and the belief in genetic relatedness. Psychological Science, 13(3),213-218.   
+Bressan, P.,& Kramer, P. (2015). Human kin detection. Wiley Interdisciplinary Reviews-Cognitive Science, 6(3),299-311.   
+Burch,R.L.，& Gallup, G. G. (20oo). Perceptions of paternal resemblance predict family violence. Evolution and Human Behavior, 21(6),429-435.   
+Buss,D.(2019). Evolutionary psychology: The new science ofthe mind (6th ed.).New York and Lodon: Routledge.   
+Buss,D.M. (1989). Sex differences in human mate preferences: Evolutionary hypotheses tested in 37 cultures. Behavioral and Brain Sciences, 12(1),1-14.   
+Bus,D.M.,Larsen,R.J.,Westen,D.,& Semmelroth,J. (1992). Sex differences in jealousy: Evolution, physiology, and psychology. Psychological Science, 3(4),251-255.   
+Bus,D. M., & Schmit, D. P. (1993). Sexual strategies theory: An evolutionary perspective on human mating. Psychological Review, 100(2),204-232.   
+Chang,L., Cloak, C. C.,& Ernst, T. (2003). Magnetic resonance spectroscopy studies of GABA in neuropsychiatric disorders. Journal of Clinical Psychiatry, 64,7-14.   
+Chang,L., Lu, H.J.,Lee,L. N.,Li, T.,& Sui, S. S. (201O). Patrilocal residence and father-child resemblance beliefs in relation to paternal investment. Parenting: Science and Practice, 10(4), 274-285.   
+Daly, M., & Wilson, M. (1998). The truth about Cinderella: A Darwinian view of parental love. New Haven: Yale University Press.   
+Daly,M., Wilson, M.,& Weghorst, S.J. (1982). Male sexual jealousy. Ethology and Sociobiology, 3(1), 11-27.   
+DeBruine,L. M. (2002). Facial resemblance enhances trust. Proceedings of the Royal Society of London B: Biological Sciences, 269(1498),1307-1312.   
+DeBruine,L. M. (2005).Trustworthy but not lust-worthy: Context-specific efects of facial resemblance. Proceedings of the Royal Society B: Biological Sciences, 272(1566), 919-922.   
+DeBruine,L.M., Smith,F. G.,Jones,B.C., Roberts, S. C., Petrie,M.,& Spector, T. D. (2009). Kin recognition signals in adult faces. Vision Research, 49(1),38-43.   
+DeSteno，D.，Bartlett，M. Y.，Braverman,J.，& Salovey， P. (2002). Sex diferences in jealousy: Evolutionary mechanism or artifact of measurement? Journal of Personality and Social Psychology, 83(5),1103-1116.   
+Farmer,H.,McKay,R.,& Tsakiris,M. (2014). Trust in me: Trustworthy others are seen as more physically similar to the self. Psychological Science,25(1),290-292.   
+Flinn, M. V. (1988). Mate guarding in a caribbean village. Ethology and Sociobiology, 9(1),1-28.   
+Gaulin,S. J. C., & Schlegel,A. (1980). Paternal confidence and paternal investment: A cross-cultural test of a sociobiological hypothesis.Ethology and Sociobiology, 1(4),301-309.   
+Geracioti Jr,T.D.,Baker,D. G.,Ekhator, N.N., West, S.A., Hill, K.K.,Bruce,A.B.,..& Kasckow, J. W. (2001). CSF norepinephrine concentrations in posttraumatic stress disorder. American Journal of Psychiatry, 158(8),1227-1230.   
+Greengross,G.,& Miller, G. (2011). Humor abilityreveals intellgence,predicts mating sucesandis higher in males. Intelligence, 39(4),188-192.   
+Hamilton, W.D. (1964). The genetical evolution of social behaviour. I1. Journal of Theoretical Biology, 7(1), 17-52.   
+Heijkoop,M., Semon Dubas,J.,& van Aken, M.A.(2009). Parent-child resemblance and kin investment: Physical resemblance or personality similarity? European Journal of Developmental Psychology, 6(1), 64-69.   
+Johannsdottir，B.， Thorarinsson，F.， Thordarson，A.，& Magnusson，T.E.(2005).Heritability of craniofacial characteristics between parents and offspring estimated from lateral cephalograms. American Journal of Orthodontics and Dentofacial Orthopedics, 127(2),200-207.   
+Jonason，P. K.， Tost, J.，& Koenig，B.L. (2012). Sex diferences and personality correlates of spontaneously generated reasons to give gifts. Journal of Social, Evolutionary， and Cultural Psychology, 6(2),181-192.   
+Kaminski, G., Gentaz, E.,& Mazens, K. (2012). Development of children's ability to detect kinship through facial resemblance. Animal Cognition, 15(3), 421-427.   
+Kenrick, D.T., Griskevicius, V.,Neuberg, S.L.,& Schaller,M. (2010). Renovating the pyramid of needs contemporary extensions built upon ancient foundations. Perspectives on Psychological Science, 5(3),292-314.   
+Koh, K. B.,& Lee, B. K. (1998). Reduced lymphocyte proliferation and interleukin-2 production in anxiety disorders. Psychosomatic Medicine, 60(4),479-483.   
+Krupp,D.B., Debruine,L.A.,& Barclay, P. (2008). Acue of kinship promotes cooperation for the public good. Evolution and Human Behavior, 29(1), 49-55.   
+Laham, S. M., Gonsalkorale, K., & von Hippel, W. (20o5). Darwinian grandparenting: Preferential investment in more certain kin. Personality and Social Psychology Bulletin,31(1), 63-72.   
+Maloney,L.T.,& Dal Martelo,M. F. (2006). Kin recognition and the perceived facial similarity of children. Journal of Vision, 6(10),1047-1056.   
+McLain, D.K., Settrs,D., Moulton, M. P.,& Pratt, A. E. (20o0). Ascription ofresemblance of newborns by parents and nonrelatives. Evolution and Human Behavior; 21(1),11-23.   
+Murdock, G. P. (1982). Outline of cultural materials.New Haven, CT: Human Relations Area Files.   
+Peng,X. Z. (2011). China's demographic history and future challenges. Science, 333(6042), 581-587.   
+Platek, S. M. (2oo3). An evolutionary model of the effects of human paternal resemblance on paternal investment. Evolution and Cognition, 9(2),189-197.   
+Platek, S. M., Burch, R. L., Panyavin, I. S., Wasserman, B. H.,& Gallup, G. G. (2002). Reactions to children's faces: Resemblance affects males more than females. Evolution and Human Behavior; 23(3), 159-166.   
+Platek,S.M., Critton, S.R.,Burch,R.L.,Frederick,D.A.,Myers,T.E.,& Galup, G.G. (2003).How much paternal resemblance is enough? Sex differences in hypothetical investment decisions but not in the detection of resemblance. Evolution and Human Behavior, 24(2), 81-87.   
+Platek,S. M., Keenan, J. P.,& Mohamed,F.B. (2Oo5). Sex differences in the neural correlates of child facial resemblance: an event-related fMRI study. Neuroimage, 25(4),1336-1344.   
+Platek,S. M., Raines,D.M., Gallup Jr, G. G.,Mohamed,F.B., Thomson,J. W.,Myers,T.E.,..& Arigo, D.R.(2o04). Reactions to children's faces: Males are more affected by resemblance than females are, and so are their brains. Evolution and Human Behavior, 25(6),394-405.   
+Schmitt, D.P. (2014). Evaluating evidence of mate preference adaptations: How do we really know what Homo sapiens sapiens really want? In V. A. Weekes-Shackelford & T. K. Shackelford (Eds.), Evolutionary Perspectives on Human Sexual Psychology and Behavior. New York: Springer.   
+Sear,R.,& Mace,R. (20o8). Who keeps children alive?A review of the effects of kin on child survival. Evolution and Human Behavior; 29(1),1-18.   
+Shackelford, T. K., Goetz, A. T., LaMunyon, C. W., Pham, M. N.,& Pound, N. (2016). Human sperm competition. In D. M. Buss (Ed.), The Handbook of Evolutionary Psychology (2nd ed.） (pp. 524-541). Hoboken, NJ: John Wiley & Sons.   
+Shan, W., Shenghua,J.,Davis,H.M., Peng,K., Shao, X., Wu,Y.,..& Qiao,M. (2012). Mating strategies in Chinese culture: Female risk avoiding vs. male risk taking. Evolution and Human Behavior, 33(3), 182-192.   
+Stein,E.A.,Pankiewicz,J., Harsch, H.H., Cho,J. K.,Fuller, S.A.,Hoffmann,R.G.,..& Bloom,A.S. (1998). Nicotine-induced limbic cortical activation in the human brain: A functional MRI study. American Journal of Psychiatry, 155(8), 1009-1015.   
+Trivers,R. (1972). Parental investment and sexual selection. In B. Campbell (Ed.), Sexual Selection & the Descent of Man (pp. 136-179). New York: Aldine de Gruyter.   
+Verosky,S.C.,& Todorov,A. (2O1O).Diffrential neural responses to faces physically similar to the self as a function of their valence. Neuroimage, 49(2),1690-1698.   
+Wolf,A.,& Durham, W. (2004). Inbreeding, incest, and the incest taboo: The state of knowledge at the turn of the century. Palo Alto, CA: Stanford University Press.   
+Wu,H.Y., Yang, S.Y., Sun, S.Y., Liu, C.,& Luo, Y. J. (2013). The male advantage in child facial resemblance detection: Behavioral and ERP evidence. Social Neuroscience, 8(6),555-567.   
+Yu, Q.,Guo,Y., Zhang,L., Chen,J., Wei, X.,& Zhou,Z.(2019a). The more similar, the healthier: The effect of perceived parent-child facial resemblance on parental physical health. Frontiers in Psychology. 9,1-7.   
+Yu, Q.,Zhang, J., Zhang,L., Zhang, Q., Guo,Y., Jin, S.,& Chen,J. (2019b). Who gains more? The relationship between parenthood and well-being. Evolutionary Psychology. 17(3),1-10.   
+Yu, Q., Zhang, Q., Chen,J.,Jin,S., Qiao,Y.,& Cai, W. (2016). The effct ofperceived parent-child facial resemblance on parents’ trait anxiety: The moderating efect of parents’ gender. Frontiers in Psychology, 7,1-6.   
+Yu,Q.,Zhang, Q., Jin, S., Chen, J.,Shi, Y.,&Li, Y. (2017). The effect of perceived facial resemblance on parent-child relationship.Personality and Individual Differences, l16,359-365.   
+Yu, Q.,Zhang, Q., Xiong,Q., Zou,H.,Jin, S.,& Guo., Y.(2019c).More similar,the warmer: The effect of parent-child perceived facial resemblance for parenting behaviors. Personality and Individual Differences,138,358-362.
+
+# Father-child facial resemblance as a mechanism for evolutionary adaptation and its impacts
+
+YU Quanlei1,2.3; CHEN Jianwen4; TAN Xiujuan56; DENG Xuefei4; ZHAO Qingbai3; ZHOU Zhijin3 (1 Key Laboratory of Adolescent Cyberpsychology and Behavior(CCNU), Wuhan,430079)(2 Central China Normal University Branch, Collaborative Innovation Center of Assessment toward Basic Education Quality,   
+Wuhan,430079)(3 SchoolofPsychology,Central China Normal University,Wuhan,430079)(4 Graduate School   
+of Education,Huazhong Universityof Science and Technology, Wuhan,43oo74)(5 SchoolofEducational Science, Shanxi Normal University,Linfen, 04100)(6 Faculty ofPsychology,Tianjin Normal University,300387)
+
+Abstract: Due to the characteristics of internal fertilization, human fertilization,to a certain extent, is concealed. Meanwhile,adultery existed in early human society. Therefore, males sufer from the uncertainty that their putative children may not be their biological offspring, which is paternal uncertainty. To cope with this uncertainty, males are unconsciously looking for cues that might indicate a genetic similarity between them and their offspring. Among these cues, the facial resemblance is one of the indirect ways that males could infer if there is a biological connection in terms of fatherhood. Three methods are there to measure facial resemblance,including morph software synthesis, third-party rating,and self-rating.Previous studies have shown that the more similar the facial characteristics between a father and his offspring are,the more paternal resources the father would be wiling to invest during parenthood.The less anxious and healthier a father is during parenthood, the higher sexual aversion a father would experience in the relationship with their children.The present research suggested three directions for future studies.First,it is valuable to look at the cultural differences in the impacts of father-child facial resemblance.Second,in order to enhance its internal and external validity, future work can adopt new methods to assess the fatherchild facial resemblance. Last, it would be an exciting direction to explore the relationship between the subjective assessments and the objective assessments of father-child facial resemblance.
+
+Key Words: Parent-child facial resemblance; uncertainty of paternity; parental investment; culture; gender

@@ -1,0 +1,676 @@
+[
+    {
+        "type": "text",
+        "text": "跨界行为对创造力影响的跨层次双刃剑效应\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "朱金强’徐世勇²周金毅张柏楠4 许昉昉4 宗博强4  \n（1中央民族大学管理学院，北京100081）（2中国人民大学劳动人事学院人力资源开发与  \n评价中心，北京100872）（北京科技大学东凌经济管理学院，北京100083）（4中国人民大学劳动人事学院，北京100872）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要 本文从资源的视角，在团队和个体两个层面探究了跨界行为分别对团队创造力和个体创造力的影响以及中介机制和边界条件。采用多阶段-多来源的方式收集数据。研究结果表明在团队层面上，团队跨界行为会提高团队创造力，但在个体层面上，员工跨界行为通过增加员工的角色压力对个体创造力产生不利影响。角色宽度自我效能感调节了上述关系，相比于角色宽度自我效能感较高的员工，角色宽度自我效能感较低的员工实施了跨界行为后更容易产生角色压力，对个体创造力的负向影响更强。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词跨界行为；创造力；角色压力；角色宽度自我效能感",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1前言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1问题提出",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在当前中国大力推进新时代全面深化改革的背景下，企业面临的环境瞬息万变，这就需要企业时刻关注外部环境，从企业外部搜集信息、获取资源以应对动荡不安的局势，从而在残酷的竞争中取胜。所以企业越来越多的、迫在眉睫地鼓励员工进行跨界行为。跨界行为（boundary spanningbehavior）指个体从组织外部获取信息并将这些信息传递给组织内部人员的行为(Katz&Tushman,1983)。跨界行为包括团队和个体两个层面，现有文献大都在这两个层面上分别展开研究(Marrone,Tesluk,&Carson,2007)。然而团队跨界行为首先是在个体层面上产生的，之后才汇聚到团队层面(Chan,1998)，两个层面的跨界行为是相互联系在一起的，个体跨界行为是团队跨界行为的基础(刘松博，李育辉，2014)。此外根据跨界行为的概念，跨界行为同时涉及员工和团队两个方面，会对这两个方面同时产生影响，其中员工是跨界行为的实施者，员工所在的团队是跨界行为的行为对象。跨界行为对行为实施者和行为对象是否具有相同的效应？现有的研究没有系统回答这一问题。因此，同时在团队和个体两个层面研究跨界行为，对全面深入理解跨界行为对不同层面结果变量的影响具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "相关的研究结果表明在团队层面上团队跨界行为会提高团队创造力(徐建中，曲小瑜，2014)，但是在个体层面上员工跨界行为会对个体创造力产生什么样的影响以及如何产生影响，对这一问题我们仍然知之甚少。很多情况下跨界行为是超越角色规范要求的角色外行为，实施跨界行为需要占用员工大量额外的时间和精力等资源(徐磊,2019)。即使是角色内要求员工跨界，员工同样需要消耗大量的时间和精力密切关注外部环境并获取对团队有用的信息(Katz& Tushman,1983)。创造力的相关文献表明充足的资源是提高个体创造力的必要条件(Amabile,1988)。因此从资源的角度来看，跨界行为会妨碍个体创造力。虽然已有学者意识到了跨界行为可能存在消极影响(Marrone,Tesluk,&Carson,2007)，但是没有进一步深入探究跨界行为的消极影响是如何产生的？以及在什么条件下产生的？",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "鉴于此，本研究从资源的视角出发，基于资源保存理论和先前的相关研究(Hobfoll,1989,2001;Hobfoll,Halbesleben,Neveu,&Westman,2018)，构建并实证检验了跨界行为分别在团队和个体层面上对创造力的影响，并进一步探究这些影响是如何以及在什么样的条件下发生的。资源保存理论（conservation of resources theory,COR）认为个体资源损耗会引发个体紧张和压力进而对个体产生不利影响(Hobfoll,1989;Hobfoll,Halbesleben,Neveu,&Westman,2018)。根据资源保存理论，我们认为在团队层面上，跨界行为会为团队获取资源从而促进团队创造力，但在个体层面上，员工跨界行为会消耗员工的资源，给实施跨界行为的员工带来角色压力，从而降低该员工的个体创造力。此外，资源保存理论的相关文献表明自我效能感会影响个体产生压力的过程(Hobfoll,2001;Hobfoll,Freedy,&Geller,1990)。基于此我们将进一步检验了角色宽度自我效能感对上述关系的调节作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2跨界行为与创造力",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Hobfoll(1989)最早提出了资源保存理论。该理论认为个体总是努力获取、保存和保护资源。Hobfol(1989)将资源定义为\"个体特征、条件、能量等让个体觉得有价值的东西或者获得这些东西的方式”，包括物质资源（如厂房）、条件资源（如资历、职位）、个体特征资源（如自我效能感、智商）和能力资源（如时间、知识)。这些资源之所以被个体认为有价值是因为它们能够帮助个体实现其目标。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "创造力的相关文献表明充足的资源是提高个体创造力的必要条件(Amabile,1988)。资源不充足是阻碍个体创造力的重要因素(Amabile,1988)。没有足够的资源（如时间和知识)，个体将无法发现问题、找出解决问题的新方法、新思路(De Jonge,Spoor,Sonnentag,Dormann,& vanden Tooren,2012)。根据资源保存理论，获取、保存和保护资源是个体维持生存和发展的基本需要(Hobfoll,1989;Hobfollet al.,2018)。不仅个体如此，团队也一样，团队为了维持自己的生存和发展也会不断地获取资源。团队跨界行为是团队获取资源的一种重要方式。在团队层面上，跨界行为的目的是为了实现团队目标(Choi,2002)，在与外部进行互动过程中，员工会有意识地获取对团队有用的信息和资源。通常情况下，这些资源是团队内部缺乏的，与团队内部的资源相比，它们是异质的、新颖的。而异质的、新颖的资源是提高团队创造力所必须的(张大力，葛玉辉，2016)。此外，跨界行为团队会主动与组织高层领导建立联系以取得高层领导的支持与承诺(Ancona＆Caldwell,1992)，这对于提高团队创造力是非常重要的，因为创造性活动具有很大的风险，很容易失败(朱金强，徐世勇，张丽华，2018)。获得领导的支持可以解决团队的后顾之忧，使团队放心地投入创造性活动中，从而提高团队创造力。实证研究表明团队跨界行为会提高团队创造力(徐建中，曲小瑜，2014)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "但在个体层面上，首先，无论是角色内还是角色外的跨界行为，跨界员工都需要长时间密切关注外部环境，从外部庞杂而又瞬息万变的环境中获取对团队有用的信息，还需要将这些信息转化成团队成员能理解的知识，然后传递给团队成员(Katz&Tushman,1983)，这个复杂的过程本身就会消耗员工大量的时间和精力。实证研究表明员工跨界行为与员工的资源损耗显著正相关(徐磊，2019)。其次，无论是角色内还是角色外的跨界行为，只要员工跨界就意味着员工需要与众多的利益相关者维持联系(Ancona&Caldwell,1992)，应对各种各样不同类型的人，需要处理复杂的人际关系，过多的外部人际交往活动会干扰员工的注意力，导致员工无法集中精力在创造性工作上，从而对个体创造力产生不利影响。实证研究表明跨界行为会降低员工的工作专注度(Ramarajan,Bezrukova,Jehn,& Euwema,2011)。最后，对于角色外的跨界行为，一方面，员工一般需要在正式工作时间之外进行跨界行为(Paul,Scott,&Sarah,2011)，通常会占用员工的休息时间，导致员工没有充足的时间从工作中恢复过来，而恢复体验是提升员工创造力的重要因素(Eschleman,Madsen,Alarcon,&Barelka,2014)。另一方面，员工需要平衡角色内的任务工作和角色外的跨界行为，这会花费员工大量的时间和精力。个体的时间和精力等资源是有限的，跨界行为大量损耗个体资源会导致个体花费在创造性活动中的资源减少，从而不利于提升个体创造力。综上，我们提出如下假设：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设1：在团队层面上，团队跨界行为促进团队创造力。但是在个体层面上，员工跨界行为会降低该员工的个体创造力。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3角色压力的中介作用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "资源保存理论认为实际的和潜在的资源损失都会引发个体的压力反应，当产生压力后，个体会采取措施缓解压力(Hobfoll,1989;Hobfoll etal.,2018)。根据该理论我们提出员工跨界行为会消耗该员工的时间和精力等资源从而引起员工的角色压力，进而对个体创造力产生不利影响。角色压力指个体不能有效地完成角色期望时产生的一种压力，包括角色冲突、角色模糊和角色过载三个方面(Kahn,Wolfe,Quinn,Snoek,&Rosenthal,1964)。角色冲突指员工无法同时满足多个角色的不一致要求或期待(Kim,Murrmann,&Lee,2009;Rizzo,House,&Lirtzman,1970)。角色模糊指员工对自己扮演的角色不明确或缺乏应有的理解，无法获得清晰的角色期望(House&Rizzo,1972;Rizzo etal.,1970)。角色过载指角色期望超出了个人能力所能承受的限度(Singh,1998)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "角色压力往往发生于跨边界活动中(王三银，刘洪，刘润刚,2017)。无论是角色要求员工跨界，还是员工角色外跨界，只要员工实施跨界行为，员工就需要与外部不同的利益相关者接触，在与不同的外部利益相关者互动过程中需要员工扮演不同的角色。每一种角色对员工的要求不一样，有时甚至是冲突的(Ramarajan etal.,2011)，员工频繁的进行跨界活动，就需要不断的在多种不同甚至可能冲突的角色之间进行切换。一方面容易引发员工的角色冲突，另一方面也会使员工产生困惑，对自己定位不清晰，导致出现角色模糊。如果跨界行为是角色外行为的话，一方面，跨界行为员工除了承担团队内的角色任务外，还需要额外承担从外部获取信息、处理信息和传递给信息等多重任务，这本身增加了员工的工作量，会大量消耗员工的时间和精力等资源，容易引起员工角色过载(邓春平，刘小娟，毛基业,2018)。实证研究表明消耗员工时间和精力的帮助行为会使员工产生角色压力(陈晓暾，陈欢，罗文春,2020)。另一方面，角色内的任务工作和角色外的跨界行为对员工的要求可能并不一致，这容易导致员工产生角色冲突。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据资源保存理论当个体产生压力后会采取措施防止资源进一步损失(Hobfoll,1989; ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Hobfoll etal.,2018)。创造性活动是一种会大量消耗员工资源的活动。当跨界行为员工因资源消耗过大产生压力后，会导致该员工没有足够的资源投入到创造性活动中，为了防止资源进一步损失，员工就会减少对创造性活动的投入，选择放松来恢复资源(De Jonge etal.,2012)，等资源恢复后再投入工作中。实证研究表明角色压力会降低员工的工作投入(王国芳，韩鹏，杨晓辉,2014)。此外，角色压力往往伴随情绪耗竭(王红丽，张筌钧,2016)，情绪耗竭状态下的员工通常缺乏工作动力(万颖莹等,2011)，没有动力投入到创造性活动中。实证研究表明角色压力会降低员工的创造力(Cekmecelioglua&Gunselb,2011)。基于以上分析，我们提出：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "假设2：员工跨界行为通过增加员工的角色压力从而降低员工的个体创造力。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4角色宽度自我效能感的调节作用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "资源保存理论认为拥有较多资源的个体更不容易受到资源损失的影响，并确定了自我效能感为一种重要的个体特征资源(Hobfoll,2001)，是维持个体资源库的重要因素(Hobfoll,2011,p.349)，影响资源损失导致压力产生的过程(Hobfoll,2001)。角色宽度自我效能感是一种重要的自我效能感，并且与跨界行为和角色压力这两个变量密切相关。据此我们提出角色宽度自我效能感会调节跨界行为与角色压力之间的关系。角色宽度自我效能感指员工对自己执行范围更广、主动性更强并超越工作职责要求的任务的能力感知(Hwang,Han,& Chiu,2015)。它是自我效能感的一种具体形式，强调员工是否有信心执行更广的角色外行为(Galperin, 2012)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "跨界行为是一种非常具有挑战性和复杂性的活动(Marrone etal.,2007)，实施跨界行为会消耗员工大量的时间和精力等资源。角色宽度自我效能感作为一种重要的个体特征资源(Hobfoll,2001)，能够帮助员工抵御实施跨界行为带来的资源损耗。根据资源保存理论(Hobfoll,2001)，角色宽度自我效能感高的员工拥有更多的资源，而具有较多资源的员工对资源损失更不敏感，更不容易产生压力。具体来讲，与低角色宽度自我效能感的员工相比，高角色宽度自我效能感的员工更加自信，他们相信自己能够处理好与利益相关者的关系(Marrone etal.,2007)，这份自信能够帮助员工减缓跨界行为带来的资源损耗，从而降低跨界行为的负面效应，减轻角色压力。角色宽度自我效能感较高的员工更加相信自己有能力完成超越本职工作的任务(廖辉尧，梁建，2015)，有信心执行更多的角色外行为(Galperin,2012)，他们具有较高的应对挫折的能力(Hartog&Belschak,2012)，相信自己有能力应对各种困难(廖辉尧，梁建,2015)。因此在面对跨界行为的挑战性和复杂性，相互冲突的角色要求、角色模糊和角色过载时，他们有信心扮演好各种角色，相信自己能够处理这些问题，即使实施再多的跨界行为也不容易产生角色压力。基于以上分析，我们提出如下假设：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "假设 3a：角色宽度自我效能感调节员工跨界行为与角色压力之间的关系。员工的角色宽度自我效能感越高，员工跨界行为对角色压力的正向影响越弱。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "进一步，员工的角色压力降低后，员工投入创造性活动的主动性和积极性就会提高。尤其是高角色宽度自我效能感员工，他们会以更加超脱的状态激发主动和创新行为(Parker,Williams,&Nick,2006)，更加积极的从事创造性活动。综合假设2和假设3a，我们提出如下的第一阶段被调节中介模型假设：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "假设3b：角色宽度自我效能感调节角色压力在员工跨界行为与个体创造力之间的中介作用。员工角色宽度自我效能感越高，角色压力的中介作用越弱。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1样本",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究的样本来源于北京、深圳、上海的几家企业，主要涉及金融、咨询、互联网等行业。研究者事先向各企业负责人说明调查目的，并让他们确定能够参与调查的下属和主管的名单，然后我们根据名单对问卷进行配对编号。问卷发放以纸质版为主，少量问卷通过电子邮件方式发给调查对象。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了尽可能减少同源偏差的影响，本研究采用多阶段-多来源的方式收集数据。数据收集分两次进行，分别从下属和主管两个来源收集。在第一阶段，邀请到620名下属参与调研。我们让下属评价自己的跨界行为、角色宽度自我效能感、角色压力以及下属的个人基本信息，该轮调查共得到590名员工问卷。大约1个月后进行第二阶段的数据收集，邀请到135名主管参与调研。我们让主管评价第一阶段已经完成问卷的下属的创造力和主管的个人基本信息，该轮调查共得到120名主管问卷。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "两轮调研后，我们根据事先确定好的编号对下属和主管问卷进行配对。删除无法配对和填写不完整的问卷后，最终获得536名员工问卷（有效回收率 $90 . 3 2 \\%$ ）和111名主管问卷（有效回收率 $8 2 . 2 2 \\%$ )。团队规模（即每名主管评价的下属人数）在3\\~8人之间，平均团队规模为4.83人。其中，在下属样本中，男女比例基本持平，男性占 $4 8 . 1 \\%$ 。在学历方面，本科最多，占 $61 \\%$ ，其余依次是大专占 $2 2 . 8 \\%$ ，研究生及以上占 $8 . 2 \\%$ ，中专及以下占 $8 \\% 5 2 . 6 \\%$ 的员工已婚。下属的平均年龄 $2 9 . 9 7 ( S D { = } 4 . 4 9 )$ ，在本单位的平均工作年限为3.66年( $\\cdot S D { = } 3 . 8 4 )$ 。在主管样本中，男女比例也基本持平，男性占 $5 5 \\%$ 。在学历方面，本科最多，占 $6 5 . 8 \\%$ ，其余依次是大专占 $1 6 . 2 \\%$ ，研究生及以上占 $1 6 . 2 \\%$ ，中专及以下仅占 $1 . 8 \\% 8 1 . 1 \\%$ 的主管已婚。主管的平均年龄34.05（ $S D { = } 4 . 6 8 \\ '$ ，在本单位的平均工作年限为5.85年（ $. S D { = } 3 . 9 7$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2测量",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "跨界行为。采用 Faraj 和 Yan(2009)开发的跨界行为量表，让员工评价自己从团队外部为团队获取信息和资源的程度，采用7点量表，从1到7分别代表“非常不符合”到“非常符合”。共4个测量题目，典型的测量题目如“我会与团队外的重要人物接触为团队获得信息和资源”。下属对自己的评价作为个体层面的员工跨界行为，参照 Marrone 等人(2007)的做法，将每个团队内所有员工跨界行为取均值作为团队层面的团队跨界行为。之所以取均值，而不是方差或最大值或最小值，是因为方差法适合于探究团队构成多样性的变量，如年龄多样性。而最大值或最小值法适合于团队结果完全依赖于团队中单个人的情况(Barrick,Stewart,Neubert,&Mount,1998)。在本研究中，团队跨界行为主要关注团队整体跨界行为的多少，并不是关注团队跨界行为的多样性，所以从我们的理论关注点上来看，并不适合采用方差法。团队整体跨界行为的多少不是由团队中某个人的跨界行为单独决定的，而是由团队成员整体联合起来决定的，所以团队跨界行为也不适合采用最大或最小值法。同样的道理，团队创造力也采用均值法来聚合。员工跨界行为的Cronbach's $\\mathfrak { a }$ 为0.80，团队跨界行为的Cronbach's$\\mathfrak { a }$ 为0.79。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "角色宽度自我效能感。采用 Parker(1998)开发的量表，共7个测量题目，典型的测量题目如“我能够联络公司以外的人（如客户）来讨论问题”。采用5点量表，从1到5分别代表“非常不同意”到“非常同意”。该量表的Cronbach's $\\mathfrak { a }$ 为0.73。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "角色压力。采用李超平、张翼(2009)开发的量表，共13个测量题目，其中5个为反向计分题目。采用5点量表，从1到5分别代表“非常不同意”到“非常同意”。典型的测量题目如“我从两个或者更多的人那里接收到互相矛盾的要求”。该量表的Cronbach'sα为0.76。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "创造力。采用 Zhou 和George(2001)开发的量表，共13个测量题目，让主管评价下属的创造力，采用5点量表，从1到5分别代表“非常不同意”到“非常同意”。典型的测量题目如“他/她会提出新方法来实现工作目标”。主管对每位下属的评价作为个体层面的个体创造力，将主管对团队内所有员工的评价取均值作为团队层面的团队创造力。个体创造力的Cronbach's $\\mathfrak { a }$ 为0.97，团队创造力的Cronbach's $\\mathfrak { a }$ 为0.98。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "控制变量。先前的研究表明人口统计学变量会影响跨界行为和创造力(Marrone et al.,2007)，因此我们控制住了个体层面上员工的性别（1女、2男）、年龄（用年表示）、婚姻（1未婚、2已婚）、教育水平（1初中及以下、2中专/高中、3大专、4本科、5研究生及以上）和工龄（用年表示)，以及团队层面上领导的性别、年龄、婚姻、教育水平和工龄，编码方式同员工层面的相应变量。此外个体的悖论思维、团队职能（1财务、2销售、3生产制造、4运营、5设计、6管理、7其他，转化为6个虚拟变量）和团队规模（用团队人数表示）也可能会影响员工跨界行为和创造力，因此本研究把个体的悖论思维、团队职能和团队规模也作为控制变量，以排除变量间关系其他可能的解释。悖论思维的测量采用 Miron-Spektor,Ingram,Keller,Smith 和Lewis (2018)开发的量表，共9个测量题目，典型的测量题目如“当我处理相互冲突的观点时，我可以对问题有更好的理解”。该量表的Cronbach's $\\mathfrak { a }$ 为0.86。另外，团队来源不同的企业，可能存在嵌套效应问题，为了排除嵌套效应的影响，本研究把企业（总共27家企业，转化成26个虚拟变量）也作为控制变量。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3数据分析 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究使用 SPSS22.0 和Mplus7.4进行数据分析。首先，通过验证性因子分析和平均变异萃取量（AverageVariance Extracted，AVE）检验变量间的聚合效度和区分效度。其次，采用 Harman 单因子法和未测单一方法潜因子法检验同源偏差。然后，采用 rwg、ICC(1)、ICC(2)指标来检验数据聚合的有效性。最后，采用多水平结构方程模型模（multilevel structuralequationmodeling,MSEM)中的路径分析检验研究假设，并且通过蒙特卡罗方法（Monte Carlomethod)来计算中介效应的置信区间(Preacher & Selig,2012)。根据 Edwards 和 Lambert(2007)的路径分析方法检验被调节的中介模型。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1效度检验 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "采用验证性因子分析的模型比较和平均变异萃取量检验变量的聚合效度和区分效度。团队跨界行为和团队创造力是团队层面的变量，员工跨界行为、角色压力、角色宽度自我效能感、个体创造力和悖论思维是个体层面的变量，所以我们用Mplus 软件构建了跨层的验证性因子分析来检验变量间的区分效度。由于角色压力、个体创造力、团队创造力、角色宽度自我效能感、悖论思维的测量题目较多，根据吴艳、温忠麟(2011)的建议，采用平衡法对这五个变量的测量题目进行打包，按照题目因子载荷大小进行排序后，将因子载荷最高的题目和最低的题目取均值打包成一个测量题目，以此类推。打包后角色压力、角色宽度自我效能感、个体创造力、团队创造力均各包含3个测量题目，悖论思维包含4个测量题目。跨层的验证性因子分析结果如表1所示七因子模型能够较好的拟合数据，模型中七个变量（员工跨界行为、角色压力、个体创造力、角色宽度自我效能感、悖论思维、团队跨界行为、团队创造力）测量题目的标准化因子载荷除了团队跨界行为一个测量题目的因子载荷为0.42略低于0.5外，其余均大于临界值0.5。并且七个变量的 $A V E$ 值分别为0.59、0.64、0.87、0.47、0.64、0.62、0.93，除角色宽度自我效能感的AVE值略低于临界值0.5外，其他六个变量的AVE 值均大于临界值 0.5(Anderson & Gerbing,1988;Hair,Black,Babin,Anderson,& Tatham,2006),说明模型中的七个变量具有一定的汇聚效度。如表1所示11个竞争模型与七因子模型相比均显著变差，说明七个变量具有区分效度。并且如表2所示每个变量的AVE 值均大于各自两两变量之间相关系数的平方(Formel&Larcker,1981;Hair etal.,2006)，进一步说明五个变量具有良好的区分效度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/3ed6530a7944ad7b09f170c940545af81944fe5f8e602962d0c73d06dc50084d.jpg",
+        "table_caption": [
+            "表1验证性因子分析结果"
+        ],
+        "table_footnote": [
+            "注：个体层面 $N { = } 5 3 6$ ，团队层面 $N { = } 1 1 1$ ， $^ { * } p { < } 0 . 0 5$ ， $^ { * * } p { < } 0 . 0 1$ ， $^ { * * * } p ^ { < 0 . 0 0 1 }$ 。各因子模型的具体说明请 见文末附录一 "
+        ],
+        "table_body": "<html><body><table><tr><td>模型</td><td>x2</td><td>df</td><td>x2/df</td><td>RMSEA</td><td>CFI</td><td>TLI</td><td>△x2</td><td>△df</td></tr><tr><td>七因子模型</td><td>369.05</td><td>122</td><td>3.03</td><td>0.06</td><td>0.96</td><td>0.95</td><td></td><td></td></tr><tr><td>六因子模型1</td><td>1310.83</td><td>126</td><td>10.40</td><td>0.13</td><td>0.80</td><td>0.76</td><td>941.78***</td><td>4</td></tr><tr><td>六因子模型2</td><td>905.27</td><td>126</td><td>7.18</td><td>0.11</td><td>0.87</td><td>0.84</td><td>536.22***</td><td>4</td></tr><tr><td>六因子模型3</td><td>897.31</td><td>126</td><td>7.12</td><td>0.11</td><td>0.87</td><td>0.84</td><td>528.26***</td><td>4</td></tr><tr><td>六因子模型4</td><td>1651.73</td><td>126</td><td>13.11</td><td>0.15</td><td>0.75</td><td>0.69</td><td>1282.68***</td><td>4</td></tr><tr><td>六因子模型5</td><td>661.23</td><td>123</td><td>5.38</td><td>0.09</td><td>0.91</td><td>0.89</td><td>292.18***</td><td>1</td></tr><tr><td>五因子模型1</td><td>1835.17</td><td>129</td><td>14.23</td><td>0.16</td><td>0.72</td><td>0.67</td><td>1466.12***</td><td>7</td></tr><tr><td>五因子模型2</td><td>1602.10</td><td>127</td><td>12.61</td><td>0.15</td><td>0.76</td><td>0.70</td><td>1233.05***</td><td>5</td></tr><tr><td>四因子模型1</td><td>3078.33</td><td>131</td><td>23.50</td><td>0.21</td><td>0.51</td><td>0.41</td><td>2709.28***</td><td>9</td></tr><tr><td>四因子模型2</td><td>2487.72</td><td>131</td><td>18.99</td><td>0.18</td><td>0.61</td><td>0.53</td><td>2118.67***</td><td>9</td></tr><tr><td>三因子模型</td><td>3721.34</td><td>132</td><td>28.19</td><td>0.23</td><td>0.41</td><td>0.29</td><td>3352.29***</td><td>10</td></tr><tr><td>两因子模型</td><td>4013.51</td><td>133</td><td>30.18</td><td>0.23</td><td>0.36</td><td>0.24</td><td>3644.46***</td><td>11</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2同源偏差检验 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了减少同源偏差的影响，根据Podsakoff,MacKenzie,Lee和Podsakoff(2003)的建议，在研究设计阶段，采用不同时间点、不同来源的方式收集数据。并且对于不同的变量分别采用5点和7点两种不同的计分方式，此外，测量角色压力时还设置了5道反向计分的题目。在数据分析阶段，采用Harman单因子法和未测单一方法潜因子法来检验同源偏差的影响。Harman单因子法的结果表明探索性因子分析的KMO为0.92，Bartlett球形检验显著（ $\\scriptstyle \\cdot \\mathtt { p } ^ { < 0 . 0 0 0 ) }$ ，未经旋转的第一个因子只解释了总变异的 $3 3 . 0 4 \\%$ 。未测单一方法潜因子法结果显示，同源方法潜因子的AVE值仅为0.35,远远低于临界值0.5(Dulac,Coyle-Shapiro,Henderson,&Wayne,2008),表明同源偏差不会对本研究中变量之间的关系产生实质性影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3数据聚合",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究采用跨层设计，团队跨界行为和团队创造力为团队层面的变量，但是测量是在个体水平上进行的，因此需检验个体水平收集的数据聚合到团队水平的可行性。根据于海波、方俐洛、凌文轻(2004)的建议，通过 ${ \\bf r } _ { \\mathrm { w g } }$ 、ICC(1)、ICC(2)来检验数据聚合的有效性。结果表明团队跨界行为 $\\mathbf { r } _ { \\mathrm { w g } }$ 中位数为0.92、 $\\mathrm { I C C } ( 1 ) { = } 0 . 3 3$ 、 $\\mathrm { I C C } ( 2 ) { = } 0 . 7$ ；团队创造力 ${ \\bf r } _ { \\mathrm { w g } }$ 中位数为0.98、$\\mathrm { I C C } ( 1 ) { = } 0 . 5 7$ 、 $\\mathrm { I C C } ( 2 ) { = } 0 . 8 6$ ，满足 ${ \\bf r } _ { \\mathrm { w g } }$ 中位数大约0.7(Lebreton& Senter,2007)， $\\mathrm { I C C } ( 1 ) { > } 0 . 0 5$ ，$\\mathrm { I C C } ( 2 ) { > } 0 . 5$ 的标准(James,1982)，说明团队成员的评分具有足够的组内一致性，并且具有足够的组间差异，组间差异分别解释了团队跨界行为和团队创造力 $4 7 . 0 5 \\%$ 和 $6 5 . 3 3 \\%$ 的变异，能够聚合到团队层面进行后续分析。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4描述性统计分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "各变量的均值、标准差和相关系数如表2所示，在个体层面上，员工跨界行为与角色压力显著正相关（ $_ { ( r = 0 . 1 5 }$ ， $p { < } 0 . 0 0 1$ )，角色压力与个体创造力显著负相关（ $_ { , r = - 0 . 1 5 }$ ， $\\scriptstyle { p < 0 . 0 0 1 }$ ）在团队层面上，团队跨界行为与团队创造力显著正相关（ $\\scriptstyle { r = 0 . 3 3 }$ ， $p { < } 0 . 0 0 1$ )，这些结果符合理论预期，为研究假设提供了初步支持。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/7442ff18ddc4218e64c05e0f05947a3fc72411e6d1b01f8eb787bb78c91fb91b.jpg",
+        "table_caption": [
+            "表2变量的均值、标准差、相关系数"
+        ],
+        "table_footnote": [
+            "注：个体层面 $N { = } 5 3 6$ ，团队层面 $N { = } 1 1 1$ ， $^ { * } p { < } 0 . 0 5$ ， $^ { * * } p { < } 0 . 0 1$ ， $^ { * * * } p { < } 0 . 0 0 1$ 。由于团队职能和企业已转化成虚拟变量，所以这两个变量没有包含在相关系数表中。"
+        ],
+        "table_body": "<html><body><table><tr><td>层面</td><td>变量</td><td>均值</td><td>标准差</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr><td>个体层面</td><td>1性别-员工</td><td>1.48</td><td>0.50</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>2年龄-员工</td><td>29.97</td><td>4.49</td><td>0.02</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>3教育水平-员工</td><td>3.68</td><td>0.76</td><td>0.07</td><td>0.01</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>4 婚姻-员工</td><td>1.53</td><td>0.50</td><td>-0.01</td><td>0.58***</td><td>-0.07</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>5工龄-员工</td><td>3.66</td><td>3.84</td><td>0.02</td><td>0.56***</td><td>-0.20***</td><td>0.37***</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>6悖论思维</td><td>3.57</td><td>0.61</td><td>-0.01</td><td>0.02</td><td>0.04</td><td>0.04</td><td>0.18***</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>7员工跨界行为</td><td>4.78</td><td>1.15</td><td>-0.10</td><td>0.10*</td><td>0.05</td><td>0.06</td><td>0.13**</td><td>0.20***</td><td></td><td></td><td></td></tr><tr><td></td><td>8角色压力</td><td>2.60</td><td>0.43</td><td>0.01</td><td>0.02</td><td>0.03</td><td>0.02</td><td>0.11**</td><td>0.08</td><td>0.15***</td><td></td><td></td></tr><tr><td></td><td>9角色宽度自我效能感</td><td>3.81</td><td>0.52</td><td>-0.06</td><td>0.11*</td><td>0.12**</td><td>0.11**</td><td>0.19***</td><td>0.56***</td><td>0.19***</td><td>-0.01</td><td></td></tr><tr><td></td><td>10 个体创造力</td><td>3.54</td><td>0.71</td><td>0.02</td><td>0.05</td><td>0.00</td><td>0.04</td><td>0.16***</td><td>0.27***</td><td>-0.02</td><td>-0.15***</td><td>0.33***</td></tr><tr><td>团队层面</td><td>1性别-领导</td><td>1.55</td><td>0.50</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>2年龄-领导</td><td>34.05</td><td>4.68</td><td>0.08</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>3教育水平-领导</td><td>3.97</td><td>0.63</td><td>0.09</td><td>0.12</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>4 婚姻-领导</td><td>1.81</td><td>0.39</td><td>0.44***</td><td>0.34***</td><td>0.05</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>5工龄-领导</td><td>5.81</td><td>3.97</td><td>0.07</td><td>0.30**</td><td>-0.07</td><td>0.31**</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>6团队规模</td><td>32.57</td><td>92.33</td><td>-0.07</td><td>0.08</td><td>-0.28**</td><td>0.12</td><td>0.28*</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>7 团队跨界行为</td><td>4.63</td><td>0.68</td><td>0.05</td><td>-0.02</td><td>0.16</td><td>0.13</td><td>0.20*</td><td>-0.04</td><td></td><td></td><td></td></tr><tr><td></td><td>8团队创造力</td><td>3.54</td><td>0.72</td><td>0.04</td><td>-0.15</td><td>0.03</td><td>-0.08</td><td>0.21*</td><td>0.07</td><td>0.33**</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.5假设检验 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "根据Preacher,Zyphur 和 Zhang(2010)的方法使用 Mplus7.4 构建两水平路径分析来检验研究假设。结果如图1所示，在控制了个体层面的员工悖论思维、性别、年龄、婚姻、教育水平和工龄，以及团队层面的团队职能、团队规模、企业、领导的性别、年龄、婚姻、教育水平和工龄后，团队跨界行为对团队创造力具有显著的正向影响‘ $( \\beta = 0 . 1 8 , p < 0 . 0 5 )$ 。员工跨界行为对个体创造力的总效应为负且显著（ $\\cdot \\beta = \\cdot 0 . 0 2 , p < 0 . 0 5 )$ ，说明员工跨界行为对个体创造力具有显著的负向影响，假设1得到支持。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/04cc94028262426d8c7fa4753ffbe4c954cbb0372e13ee3a434430c7e0f1c64c.jpg",
+        "img_caption": [
+            "图1多水平路径分析结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "注：图中路径系数为非标准化路径系数个体层面 $N { = } 5 3 6$ ，团队层面 $N { = } 1 1 1$ ， $^ { * } p { < } 0 . 0 5$ ， $^ { * * } p { < } 0 . 0 1$ ， $^ { * * * } p ^ { < 0 . 0 0 1 }$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "角色压力中介效应的检验结果表明员工跨界行为对角色压力具有显著的正向影响（ $\\beta =$ （204号 $0 . 0 5 , p < 0 . 0 1 \\$ ，角色压力对个体创造力具有显著的负向影响！ $\\langle \\beta = - 0 . 3 4 , p < 0 . 0 0 1 \\rangle$ 。角色压力在员工跨界行为和个体创造力之间的中介效应显著（中介效应值 $\\dot { \\bf \\Phi } = - 0 . 0 2$ $p < 0 . 0 5 \\$ ，此外蒙特卡罗方法显示中介效应 $9 5 \\%$ 的置信区间不包含 $0 \\ ( . 0 . 0 3 , \\ . 0 . 0 0 6 )$ ，说明角色压力中介了员工跨界行为与个体创造力之间的关系，假设2得到支持。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "角色宽度自我效能感调节效应的检验结果表明员工跨界行为与角色宽度自我效能感的乘积项系数显著 $( \\beta = - 0 . 0 8 , p < 0 . 0 1 )$ ，说明角色宽度自我效能感调节了员工跨界行为与角色压力之间的关系，假设3a得到支持。为了清晰地展示角色宽度自我效能感的调节作用，我们根据Aiken和West(1991)的方法，按照角色宽度自我效能感均值加减一个标准差绘制调节效应图（见图2)，如图2所示，当员工的角色宽度自我效能感较低时，员工跨界行为对角色压力的正向影响更强。简单斜率分析的结果表明，当角色宽度自我效能感较低（均值-一个标准差）时，员工跨界行为对角色压力具有显著的正向影响 $( \\beta { = } 0 . 1 0 , p { < } 0 . 0 0 1 )$ 。当角色宽度自我效能感较高（均值 $+$ 一个标准差）时，员工跨界行为对角色压力的正向影响不显著$\\scriptstyle ( \\beta = 0 . 0 2 , p > 0 . 1 )$ ，并且两组差异显著（ $\\scriptstyle : \\beta = - 0 . 0 8 , p < 0 . 0 5 )$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/f26db917ad4f4d911de68f1f350d9401e605f2b5014efc28d0ecf282645dd6a1.jpg",
+        "img_caption": [
+            "图2角色宽度自我效能感调节效应图"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "根据 Edwards 和Lambert(2007)的方法检验假设3b 第一阶段的被调节中介模型。首先按照调节变量均值加减一个标准差的标准将样本分成高低两组，然后分别计算高低两组中介效应的大小及差异，如果两组中介效应的差异显著，则说明被调节的中介成立。结果如表3所示，当角色宽度自我效能感较高时，角色压力的中介作用较小且不显著（中介效应值 $\\ c =$ 10 $) . 0 1 , p { > } 0 . 1 , 9 5 \\%$ 的CI包含0[-0.02,0.01])。当角色宽度自我效能感较低时，角色压力的中介作用较大且显著（中介效应值 $\\underline { { \\underline { { \\mathbf { \\Pi } } } } } = - 0 . 0 3$ ， $p < 0 . 0 1$ ， $9 5 \\%$ 的CI不包含0[-0.06,-0.01])，并且组间差异显著（ $\\Delta$ 中介效应值 $= 0 . 0 2$ $p < 0 . 0 5$ ， $9 5 \\%$ 的 CI不包含0[0.01,0.05])，说明角色宽度自我效能感调节了角色压力的中介作用，假设3b得到支持。",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/bc5b623b6ca68008524da1ae918e10df3f1f0d3b3d0c3ede364b5d1c0b2bcfdb.jpg",
+        "table_caption": [
+            "表3第一阶段被调节的中介模型分析结果"
+        ],
+        "table_footnote": [
+            "注： $^ { * } p { < } 0 . 0 5$ ， $^ { * * } p { < } 0 . 0 1$ ， $^ { * * * } p ^ { < 0 . 0 0 1 }$ 。由于在跨层分析中，Mplus软件无法用bootstrap方法来计算置信区间，根据Preacher和 Selig(2012)的建议以及他们提供的R语言，我们用蒙特卡罗模拟的方法在R软件中计算置信区间，我们在文章末尾附上了相应的R语句。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">分组统计</td><td colspan=\"4\">员工跨界行为（X）→角色压力（M）→个体创造力（Y)</td></tr><tr><td>第一阶段 (Pmx)</td><td>第二阶段 （PMx)</td><td>间接效应 （PMX * PMx)</td><td>间接效应95%的置信区 间</td></tr><tr><td>高角色宽度自我效能感</td><td>0.02</td><td>-0.35**</td><td>-0.01</td><td>[-0.02,0.01]</td></tr><tr><td>低角色宽度自我效能感</td><td>0.10***</td><td>-0.35**</td><td>-0.03**</td><td>[-0.06, -0.01]</td></tr><tr><td>组间差异</td><td>-0.08**</td><td>0</td><td>0.02*</td><td>[0.01, 0.05]</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本研究从资源的视角，基于资源保存理论在团队和个体两个层面探究了跨界行为分别对团队创造力和个体创造力的影响以及中介机制和边界条件。研究结果表明在团队层面上，团队跨界行为会提高团队创造力，但在个体层面上，员工跨界行为通过增加员工的角色压力对个体创造力产生不利影响。角色宽度自我效能感调节了上述关系，相比于角色宽度自我效能感较高的员工，角色宽度自我效能感较低的员工实施了跨界行为后更容易产生角色压力，对个体创造力的负向影响更强。学者和实践者们应当警惕跨界行为的不利影响，在充分发挥其积极效应的同时，尽量减少其消极影响。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.1理论贡献 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本研究的理论贡献主要体现在以下三个方面：首先，以往研究或者从行为对象或者从行为实施者自身的单一角度考察跨界行为的效果(Ancona＆Caldwell,1992；宋萌，王震，张华磊,2017)，而本研究则这两种视角整合在一起，同时在团队和个体两个层面探究跨界行为的积极和消极影响。更为重要的是，聚焦到跨界行为与创造力关系的文献时，我们发现目前的研究主要关注跨界行为对行为对象（团队创造力）的影响(徐建中，曲小瑜，2014)，而本研究关注跨界行为对该行为实施者自身（个体创造力）产生什么样的影响，即我们将跨界行为与创造力关系的研究视角由行为对象转移到了行为实施者自身，由团队层面扩展到个体层面，有助于学者们和实践者更加全面的解读跨界行为。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "其次，以往研究主要从学习和网络的视角探究跨界行为的积极影响(Liu,Jiang,Chen,Pan,&Lin,2018)。如徐建中、曲小瑜(2014)的实证研究表明团队跨界行为通过团队学习提高团队创造力。刘松博、李育辉(2014)考察了网络中心性的中介作用，他们发现员工跨界行为通过增强员工的网络中心性进而促进员工的任务绩效。不同于以往学者的研究视角，本研究从资源的视角考察跨界行为的消极影响，研结果表明员工跨界行为通过增加员工的角色压力对个体创造力产生不利影响。这一研究结果表明跨界行为除了会产生积极影响外，也会对员工产生消极影响，从而拓展了跨界行为的相关研究。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "最后，本研究丰富了资源保存理论，发现了资源保存理论的具体边界条件-角色宽度自我效能感。Halbesleben,Neveu和Paustianunderdahl(2O14)呼呼学者们关注多种资源的交互作用并强调重点关注环境因素的作用。本研究响应了Halbesleben 等人(2014)的呼呼，探究了个体内在的心理特征资源（角色宽度自我效能感）对个体资源损耗过程的调节作用，从而进一步丰富了资源保存理论。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.2实践启示",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "以往有关跨界行为和创造力的研究表明跨界行为会促进团队创造力(徐建中，曲小瑜，2014)，而本研究则表明跨界行为在促进团队创造力的同时会阻碍个体创造力，这说明跨界行为对团队创造力的促进作用可能是以牺牲个体创造力为代价的。即个体牺牲了小我，成就了大我。因此，在实践中团队通过成员的跨界行为提升团队创造力时，需要警惕跨界行为对员工的不利影响，一方面要采取措施尽量减少这种不利影响，另一方面要对员工这种牺牲自我成就团队的奉献精神予以鼓励和奖励。如在组建团队时，尽量选择自我效能感较高的员工。并且多采用表扬的方式管理员工以提高员工的自我效能感。因为自我效能感较高的员工，实施了跨界行为后产生的不利影响较小。此外团队领导可以公开表扬、奖励实施跨界行为的员工，让其他成员感知到实施跨界行为是被团队认可和支持的，这样做一方面可以减少员工实施跨界行为产生的角色压力，降低跨界行为对个体的不利影响。另一方面也是对员工牺牲自已成就团队的奉献精神的肯定和认可，从而激励员工更加努力地为团队做出贡献。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.3研究不足和未来研究",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "首先，虽然本研究采用多阶段-多来源的研究设计，在一定程度上减少了同源偏差的影响，但仍不能得出因果关系的结论，尤其是跨界行为和角色压力两个变量在同一时间点收集。将来的研究可以考虑采用实验的方式检验变量间的关系，以便得到可靠的因果关系。另外，对团队创造力的测量采用团队领导对每个成员的个人创造力评价取均值的方式，而不是直接以团队为对象进行整体评价，也是本研究的不足，未来的研究可以让团队领导直接对团队整体创造力进行评价，进一步验证本文的结论。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "其次，很多情况下跨界行为可能并非员工自愿，而是团队为适应外部环境精心安排的(Ancona&Caldwell,1992)，因此跨界行为可以分成主动和被动两种。这两种不同类型的跨界行为产生的效果可能是不一样的。将来的研究可以继续探究不同类型的跨界行为的积极和消极影响以及作用机制。此外，本研究仅关注了压力机制，在个体层面除了角色压力会使跨界行为对个体创造力产生消极影响外，也可能存在其他机制使跨界行为对个体创造力产生积极影响。比如如果跨界行为员工具有丰富的信息来源的话，员工能够容易地获得丰富的甚至新颖的观点、思想等，进而可能促进个体创造力。未来的研究可以继续探究跨界行为在个体层面上对个体创造力同时产生积极和消极影响的双重甚至多种机制。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "最后，本研究是在中国情景下进行的，所得结论能否可以扩展到其他国家还有待进一步检验。中国是一个集体主义倾向较高的国家(Hofstede,Hofstede,&Minkov,2010)，中国员工更有可能会为了集体利益而牺牲自己利益，因此更有可能为了提升团队绩效积极主动做出跨界行为。相反美国是一个个体主义倾向较高的国家(Hofstede etal.,2010)，美国员工更多关注个人利益，不太可能为集体利益牺牲个人利益，因此美国员工不太可能主动做出跨界行为。即不同文化背景下的员工做出跨界行为的可能性以及动机可能是不一样的。未来的研究可以同时在不同的国家收集数据进行对比研究，可能会得到有意思的结论。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Aiken,L.S.,& West,S.G.(1991).Multiple regression: Testing and interpreting interactions.London: Sage.   \nAmabile,T.M. (1988). A model of creativity and innovation in organizations.In B.M. Staw & L.L. Cummings (Eds.),Research in organizational behavior (Vol.10,pp.123-167). Greenwich, CT: JAI Press.   \nAncona,D.G.,& Caldwel,D.F.(1992).Bridging theboundary: Externalactivityand performance inorganizational teams.Administrative Science Quarterly,37(4),634-665.   \nAnderson,J. C.,& Gerbing,D.W.(1988).Structural equation modeling in practice: A review and recommended two-step approach.Psychological Bulletin,103(3),411-423.   \nCekmecelioglua, H. G.,& Guinselb,A. (2011).Promoting creativity among employees of mature industries: The effects of autonomy and role stress on creative behaviors and job performance.Procedia Social and Behavioral Sciences,24,889-895. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Chan,D.(1998).Functional relations among constructs in the same content domain at diferent levels of ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "analysis: A typology ot composition models. Journal of Applied Psychology, 83(2), 234-246.   \nChen,X. T., Chen, H.,& Luo,W. C.(202O).An inverted U-shaped relationship between helping behavior and carer growth: The mediating role of role stressor and the moderating of job autonomy. Human Resources Development of China, 37(O4),51-63.   \n[陈晓暾，陈欢，罗文春.(2020).助人行为与职业成长的倒U型关系:角色压力的中介作用和工作自主性的调 节作用．中国人力资源开发,37(04),51-63.]   \nChoi, J.N. (2002). External activitiesand team effctivenes:review and theoretical development. Small Group Research,33(2),181-208.   \nDe Jonge,J.,Spoor,E., Sonnentag,S.,Dormann,C.,& Van den Tooren,M.(2012).“Take a break?!”Off-job recovery, job demands,and job resources as predictors of health,active learning,and creativity. European Journal of Work & Organizational Psychology,21(3),321-348.   \nDeng,C.P.,Liu, X.J.,& Mao,J.Y. (2018).The impacts of challenge and hindrance stressors on the outcome of boundary spanning: The moderated mediation efect of IT personnel's learning under stressors. Business Review,30(07),150-163.   \n[邓春平，刘小娟，毛基业.(2018).挑战与阻断性压力源对边界跨越结果的影响——IT员工压力学习的有调 节中介效应．管理评论,30(07),150-163.]   \nDulac,T.,Coyle-Shapiro,J.A.,Henderson,D.J.,& Wayne,S.J. (2O08). Notallresponses to breach are the same: The interconnection of social exchange and psychological contract processes in organizations. Academy of Management Journal, 51(6),1079-1098.   \nEdwards, J. R.,& Lambert,L. S. (2Oo7). Methods for integrating moderationand mediation: a general analytical framework using moderated path analysis.Psychological Methods,12(1),1-22.   \nEschleman, K.J.,Madsen,J.,Alarcon, G.,& Barelka,A. (2O14).Benefiting from creative activity: The positive ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "relationships between creative activity,recovery experiences,and performance-related outcomes.Journal of Occupational & Organizational Psychology,87(3),579-598. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Faraj,S.,& Yan,A. (2009). Boundary work in knowledge teams.Journal of Applied Psychology,94(3),604-617.   \nFornel,C.，& Larcker,D.F.(1981).Evaluating struktural equation models with unobserved variable and measurement error.Journal of Marketing,18,39-50.   \nGalperin,B.L. (2012). Exploring the nomological network of workplace deviance: Developing and validating a measure of constructive deviance.Journal of Applied Social Psychology, 42(12),2988-3025.   \nHair,J.F.,Black,W.C.,Babin,B.J.,Anderson,R.E.,& Tatham,R.L. (206). Multivariate data analysis (Vol. 6). Upper Saddle River,NJ: Pearson Prentice Hall.   \nHalbesleben,J.R.B.,Neveu,J.P.,& Paustianunderdahl, S.C. (2014). Geting to the \"COR\": Understanding the role of resources in conservation of resources theory. Journal of Management, 40(5),1334-1364.   \nHartog,D.N.D.,& Belschak,F.D.(2O12). When does transformational leadership enhance employee proactive behavior? The role of autonomy and role breadth self-efficacy.Journal of Applied Psychology,97(1),194- 202.   \nHobfoll,S.E. (1989).Conservation of resources: Anew attempt at conceptualizing stres. American Psychologist, 44(3), 513-524.   \nHobfoll,S.E. (200l).The influence of culture,community,and the nested - self in the stress process: Advancing conservation of resources theory. Applied Psychology, 50(3),337-421.   \nHobfoll,S.E.,Freedy,J.R.,&Geller,P.(199o). Conservationof social resources: Socialsupport resource theory. Journal of Social &Personal Relationships,7(4),465-478.   \nHobfoll,S.E.,Halbesleben,J.,Neveu,J.P.,&Westman,M. (20l8).Conservationofresources intheorganizational context: The reality of resources and their consequences. Annual Review of Organizational Psychology ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Hofstede,G. H.,Hofstede, G.J.,& Minkov,M. (2010). Cultures and organizations: Software of the mind. New York: McGraw-Hill. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "House,R.J.,& Rizzo,J.R. (1972). Roleconflict and ambiguity as critical variables in amodel of organizational behavior. Organizational Behavior & Human Performance,7(3),467-505.   \nHwang,P.C.，Han, M.C.,& Chiu, S.F.(2015).Role breadth self-eficacy and foci of proactive behavior: Moderating role of collctive,relational,and individual self-concept.The Journal of Psychology,149(8), 846-865.   \nJames,L.R. (1982). Aggregation bias in estimates of perceptual agreement. Journal of Applied Psychology, 67(2), 219-229.   \nKahn,R.L., Wolfe,D.M.,Quinn,R.P.,Snoek,J.D.,&Rosenthal,R.A.(1964). Organizational stress: Studies in role conflict and ambiguity.American Journal of Sociology,10(1),125-129.   \nKatz,R.,& Tushman,M.L. (1983). Alongitudinal study of the efects of boundary spanning supervision on turnover and promotion in research and development. Academy of Management Journal, 26(3),437-456.   \nKim,B.C.P., Murrmann,S. K.,&Lee, G. (2O09). Moderating effects of gender and organizational level between role stress and job satisfaction among hotel employees. International Journal of Hospitality Management, 28(4), 612-619.   \nLebreton,J.M.,& Senter,J.L. (2007). Answers to20 questions about interraterreliabilityand interrateragreement. Organizational Research Methods,11(4),815-852.   \nLi, C.P.,& Zhang,Y. (2019). The efects of role stressors on physical health and mental health among chinese teachers. Psychological Development and Education,25(1),114-119.   \n[李超平，张翼.(2009)．角色压力源对教师生理健康与心理健康的影响．心理发展与教育,25(1),114-119.]   \nLiao,H.Y.,& Liang, Y. (2015). Self-sacrificial leadership and employee proactivity: An integrated model. Human ResourcesDevelopment ofChina,(23),28-37.   \n[廖辉尧，梁建.(2015).自我牺牲型领导与员工主动行为:一个整合模型．中国人力资源开发,(23),28-37.]   \nLiu,S.B.,& Li, Y.H. (2014).A longitudinal study on the impact mechanism of employes' boundary spanning behavior: Roles of centrality and collectivism. Acta Psychologica Sinica, 46(6), 852-863.   \n[刘松博，李育辉.(2014)．员工跨界行为的作用机制：网络中心性和集体主义的作用．心理学报,46(6),852- 863.]   \nLiu, S.,Jiang, K., Chen,J.,Pan,J.,&Lin, X.(2O18).Linking employee boundary spanning behavior to task performance: the influence of informal leader emergence and group power distance. International Journal of Human Resource Management, 29(12),1879-1899.   \nMarrone,J.A.,Tesluk,P.E.,& Carson,J.B.(2Oo7).Amultilevel investigationofantecedents and consequencesof team member boundary-spanning behavior. Academy of Management Journal, 50(6),1423-1439.   \nMiron-Spektor,E., Ingram,A., Keller, J., Smith, W. K.,& Lewis,M. W.(2018). Microfoundations of organizational paradox: The problem is how we think about the problem. Academy of Management Journal, 61(1), 26-45.   \nParker,S.K.(1998). Enhancing role breadth self-efficacy: The roles of job enrichment and other organizational interventions.Journal of Applied Psychology, 83(6), 835-852.   \nParker,S.K.,Wiliams,H.M.,& Nick,T. (2O06).Modeling the antecedents of proactive behavior at work.Journal of Applied Psychology, 91(3),636-652.   \nPaul,G.,Scot, S.,& Sarah,R. (2O11). Boundary-spanning work demands and their consequences for guilt and psychological distress. Journal of Health & Social Behavior,52(1),43-57.   \nPodsakoff,P.M.,MacKenzie,S.B.,Lee,J.,&Podsakoff,N.P.(2003).Common method biases in behavioral ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "research: A critical review of the literature and recommended remedies.Journal of Applied Psychology, 88(5),879-903. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Preacher,K.J.,Zyphur,M.J.,& Zhang,Z.(2Ol0).A general multilevel sem framework for assessing multilevel mediation.Psychological Methods,15(3),209-233. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Preacher,K.J.,& Selig,J.P.(2O12).Advantages of monte carlo confidence intervals for indirect effects. Communication Methods and Measures, 62(2),77-98. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Ramarajan,L.,Bezrukova,K.,Jehn,K.A.,&Euwema,M. (2O11).From the outside in: The negative spillover effects of boundary spanners' relations with members of other organizations.Journal of Organizational Behavior, 32(6),886-905. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Rizzo,J.R., House,R.J.，& Lirtzman, S.I. (1970).Role conflict and ambiguity in complex organizations. Administrative Science Quarterly,15(2), N/A. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Singh,J.(1998).Strikingabalance in boundary-spanning positions:An Investigation of some unconventional influences of role stressors and job characteristics on job outcomes of salespeople. Journal of Marketing, 62(3),69-86. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Song,M.,Wang,Z.,& Zhang,H.L.(2O17). Understanding the relationship between leader boundary spanning behavior and team innovation: A knowledge management perspective. Management Review,29(3),126- 135.   \n[宋萌，王震，张华磊.(2017).领导跨界行为影响团队创新的内在机制和边界条件:知识管理的视角．管理评 论,29(3), 126-135.] ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Xu,L.(2019).Boundary spanning behavior,team trust and team innovation performance: Mediation effect of resource depletion.Science& Technology Progress and Policy,36(O6),11-18. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[徐磊.(2019).跨界行为、团队信任与创新绩效:资源损耗的调节作用．科技进步与对策,36(06),11-18.]",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Wang,Y.Y.,Meng,R.,Li,J.,Wang,J.Y.,Hu,T.,&Zhao,X.Q.,et al (2011).The Mediation effect of emotion focused coping between occupational stress and emotional exhaustion. Psychological Research, 04(5),60- 66. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[万颖莹，孟冉，李洁，王佳颖，胡陶，赵小蓁，等.(2011).情绪聚焦应对在压力源和情绪衰竭间的中介作用. 心理研究,04(5),60-66.]   \nWang, G.F., Han,P.,& Yang, X. H. (2O14). Effects of role stressand negative mood regulation expectancies on work engagement in prison police: Mediating effect of proactive coping. Chinese Journal of Clinical Psychology, 22(06),1095-1098.   \n[王国芳，韩鹏，杨晓辉.(2014).监狱警察角色压力和消极情绪调节期待对工作投入的影响:前摄应对的中介 作用．中国临床心理学杂志,22(06),1095-1098.]   \nWang,H.L.,& Zhang,Q.J. (2O16).The cost of feling trusted: the study on the effects of feling trusted from supervisor,role overload, job stress and emotional exhaustion. Management World, (8),110-125.   \n[王红丽，张筌钧.(2016)．被信任的代价:员工感知上级信任、角色负荷、工作压力与情绪耗竭的影响关系研 究．管理世界,(8),110-125.]   \nWang,S.Y.,Liu,H.,&Liu,R.Q. (2017).Efects of workload boundary onemployees'emotional exhaustion: The mediating role of role stress. Journal of Zhejiang Gongshang University, (2),79-89.   \n[王三银，刘洪，刘润刚.(2017).工作边界强度对员工情绪耗竭的影响研究:角色压力的中介作用．浙江工商 大学学报,(2),79-89.]   \nWu,Y.,& Wen,Z.L. (2O11). Item parceling strategies in structural equation modeling. Advances in Psychological Science,19(12),1859-1867.   \n[吴艳，温忠麟.(2011).结构方程建模中的题目打包策略．心理科学进展,19(12),1859-1867.]   \nXu,J. Z.,& Qu, X. Y. (2O14). The relationship among team's boundary spanning behavior, knowledge trading and ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "team creativity: An empirical study based on equipment manufacturing enterprise.Science of Science And Management of S.&T.,(7),151-161. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[徐建中，曲小瑜.(2014).团队跨界行为、知识交易与团队创造力关系研究—一基于装备制造企业的实证分析．科学学与科学技术管理,(7),151-161.]",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Yu,H.B.,Fang,L.L.,& Ling，W.Q.(2Oo4).Issues on multilevel research of organizations.Advances in Psychological Science,12(02),462-471. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[于海波，方俐洛，凌文轻.(2004).组织研究中的多层面问题．心理科学进展,12(02),462-471.]",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Zhang,D.L.,& Ge,Y.H. (2O16).Relationship between top management team boundary-spanning behavior and the innovation performance of enterprises: Aperspective of team learning.Journal ofSystems & Management, 25(2),235-245. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[张大力，葛玉辉.(2016)．高管团队跨界行为与企业创新绩效关系:基于团队学习的视角．系统管理学报,25(2),235-245.]",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Zhou,J.,& George,J.M.(2oo1). When jobdissatisfaction leads tocreativity: Encouraging the expressionof voice. Academy of Management Journal, 44(4), 682-696. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Zhu,J.Q.,Xu,S.Y.,& Zhang,L.H.(2018).“Being lenient and being strict helping each other”promotes subordinates’ innovation: Based on the view of yin-yang. Nankai Business Review,21(O5),202-214. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[朱金强，徐世勇，张丽华.(2018).\"宽猛相济\"促创新—一基于阴阳观的视角．南开管理评论，21(05), 202-214.]",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The Cross-level Double-edged Sword Effect of Boundary Spanning Behavior on ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Creativity ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "ZHU Jiqiangl; XU Shiyong²; ZHOU Jinyi3; ZHANG Bainan4; XU Fangfang4; ZONG Boqiang4 (1 School of Management, Minzu University of China, Beijing,10oo81, China) （ $^ 2$ Center for Human Resource Development and Assessment, School of Labor and Human Resources, Renmin University of China, Beijing, 10o872, China)   \n0 $^ 3$ Donlinks School of Economics and Management, University of Science & Technology Beijing, Beijing,100083, China)   \n(4 School ofLabor and Human Resources,Renmin University of China, Beijing,10o872, China) ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "There has been much interest in boundary spanning behavior recently. The existing studies about boundary spanning behavior focus on its positive outcome from the perspective of social network. In the decades, research has consistently demonstrated that the boundary spanning behavior produces a wide array of positive outcomes for team and organizations.However, scholars recently found that the boundary spanning behavior have negative outcoms for individuals. Based on the conservation of resources theory (COR), we examined the double-edged sword effect of boundary spanning behavior on creativity on different levels, the mediating mechanism and boundary conditions. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "To test the proposed theoretical model, we used multi-waves and multi-source research design. The data was collected from the dyads employees and supervisors in the enterprise.At time 1, boundary spanning behavior, role stress,and role breadth self-efficacy were measured. These variables were rated by employees.About one month later, we asked leaders to rate employees' creativity. These variables were assessed by mature scales.A total of 536 employees $( 9 0 . 3 2 \\% )$ and 111 leaders $( 8 2 . 2 2 \\% )$ ）responded to our survey. Confirmatory factor analyses (CFA） and average variance extracted (AVE） were conducted to assess the discriminant validity and convergence validity of the key variables.Multilevel structural equation modeling (MSEM) was used to test the hypothsis and the Monte Carlo simulation procedures by the open-source software $\\mathtt { R }$ to test mediation effects. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "The results showed that in the team level, team boundary spanning behavior had significantly positive effect on team creativity $( \\beta = 0 . 1 8 , p < 0 . 0 5 )$ ,but in the individual level, employees' boundary spanning behavior had significantly negative effect on employees' creativity $( \\beta = - 0 . 0 2 , p$ （204号 $< 0 . 0 5 )$ . In the individual level, boundary spanning behavior had significantly positive effect on role stress $( \\beta = 0 . 0 5 , p < 0 . 0 1 )$ ）and role stress had significantly negative effect on creativity $( \\beta = - 0 . 3 4$ ， $p < 0 . 0 0 1 \\$ ). The mediation effect of role stress was significantly $( \\beta = - 0 . 0 2 , p < 0 . 0 5$ ,Monte Carlo $\\ O =$ 20000, $9 5 \\%$ （204 $\\operatorname { C I } = - 0 . 0 3$ ， -0.006). These evidences indicated that boundary spanning behavior had negative effect on individual creativity via role stress. Results also showed that the product term between boundary spanning behavior and the role breadth self-efficacy was significant $( \\beta = - 0 . 0 8$ $p < 0 . 0 1 \\$ ). The role breadth self-efficacy moderated the relationship so that the mediating effect of role stress was stronger for employees with low role breadth self-efficacy. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "The study illustrated that the double-edged sword effect of boundary spanning behavior on creativity on different levels and that the mediating mechanism and boundary conditions about the negative effect of boundary spanning behavior on individual creativity and enrich the studies about boundary spanning behavior. We found the boundary conditions of COR, which broadens the COR. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Key Words boundary spanning behavior; creativity; role stress; role breadth self-efficacy ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "附录一：表1各因子模型的具体含义 ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "七因子模型：个体层面：员工跨界行为、角色压力、角色宽度自我效能感、个体创造力、悖论思维团队层面：团队跨界行为、团队创造力  \n六因子模型1：个体层面：员工跨界行为 $+$ 个体创造力、角色压力、角色宽度自我效能感、悖论思维团队层面：团队跨界行为、团队创造力  \n六因子模型2：个体层面：员工跨界行为 $^ +$ 角色宽度自我效能感、角色压力、个体创造力、悖论思维团队层面：团队跨界行为、团队创造力  \n六因子模型3：个体层面：员工跨界行为、角色压力、角色宽度自我效能感 $+$ 个体创造力、悖论思维团队层面：团队跨界行为、团队创造力  \n六因子模型4：个体层面：员工跨界行为、角色压力、角色宽度自我效能感、个体创造力 $+$ 悖论思维团队层面：团队跨界行为、团队创造力  \n六因子模型5：个体层面：员工跨界行为、角色压力、角色宽度自我效能感、个体创造力、悖论思维团队层面：团队跨界行为 $^ +$ 团队创造力  \n五因子模型1：个体层面：员工跨界行为 $+$ 个体创造力 $^ +$ 角色宽度自我效能感、角色压力、悖论思维团队层面：团队跨界行为、团队创造力  \n五因子模型2：个体层面：员工跨界行为 $+$ 个体创造力、角色宽度自我效能感、角色压力、悖论思维团队层面：团队跨界行为 $^ +$ 团队创造力  \n四因子模型1：个体层面：员工跨界行为 $+$ 个体创造力 $^ +$ 角色宽度自我效能感 $+$ 悖论思维、角色压力团队层面：团队跨界行为、团队创造力  \n四因子模型2：个体层面：员工跨界行为 $+$ 个体创造力 $^ +$ 角色宽度自我效能感 $\\cdot +$ 角色压力、悖论思维团队层面：团队跨界行为、团队创造力  \n三因子模型：个体层面：员工跨界行为 $+$ 个体创造力 $^ +$ 角色宽度自我效能感 $^ +$ 角色压力 $+$ 悖论思维团队层面：团队跨界行为、团队创造力  \n二因子模型：个体层面：员工跨界行为 $+$ 个体创造力 $^ +$ 角色压力 $+$ 角色宽度自我效能感 $^ +$ 悖论思维团队层面：团队跨界行为 $^ +$ 团队创造力",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "阳水二：义文里测里川用里衣 ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "员工跨界行为我会与团队外的重要人物接触为团队获得信息和资源。我会利用自己在团队以外的关系获得信息和资源。我会从部门内/外获取信息和资源。我会通过非正式渠道为团队获取信息和资源。  \n团队跨界氛围团队成员与团队外的重要人物接触为团队获得信息和资源团队成员利用自己在团队以外的关系获得信息和资源团队成员从部门内/外获取信息和资源团队成员通过非正式渠道为团队获取信息和资源  \n角色宽度自我效能感：我能够向团队里的同事提供相关信息及资料。我能够参与制定我的工作目标。我能够就我的工作范围设计新程序。我能够联络公司以外的人（如客户）来讨论问题。我能够分析一个存在已久的问题并寻求解决方法。我能够代表部门与高层开会。我会探访其它部门的同事，建议以不同方式办事。  \n角色压力我经常要面对一些要求彼此冲突的情形。我从两个或者更多的人那里接收到互相矛盾的要求。我不得不去面临一些不同的情形，并以不同的方式来做这些事情。我的工作有明确的、计划好的目标与目的。我确切地了解单位对我的期望是什么。我知道我的职责是什么。我非常明确我承担多大的责任。我的职责有明确的界定。很需要减轻我的部分工作。在工作中，我感觉负担过多。我承担了太多的职责。我的工作负担太重。我所承担的工作量太大，以至于我不能保证工作的质量。  \n个体创造力他/她会提出新方法来实现工作目标。他/她会提出新的和可行的想法，改进工作绩效。他/她会找出新的技术、流程等方面的想法。他/她会提出新的途径来提高质量。  \n他/她是一个良好的创意来源。  \n他/她不怕冒风险。  \n他/她会主动向别人表达自己的想法。  \n如有机会他/她就能在工作中展现创造力。  \n他/她会为实施新想法会做好充分的计划安排。  \n他/她经常有创新性的想法。  \n他/她会想出创造性的问题解决方案。  \n他/她经常有解决问题的新方法。  \n他/她会建议新方法来履行工作任务。  \n附录三：被调节的中介高低组中介效应差异检验的R语句：  \n$_ { \\mathrm { a 0 = 0 . 0 5 6 } }$ #自变量对中介变量的路径系数  \n$_ { \\mathrm { a l } } = - 0 . 0 7$ 6#自变量和调节变量的乘积项对中介变量的路径系数  \n$\\mathsf { b } = - 0 . 3 4 6 \\dag$ 中介变量对因变量的路径系数  \naOstd $= 0 . 0 1 6 \\# \\mathrm { a } 0$ 的标准误  \nalstd $= 0 . 0 2 6 \\# \\mathrm { a } 1$ 的标准误  \nbstd $\\scriptstyle = 0 . 0 8 5$ #b的标准误  \nrep $= 2 0 0 0 0$ #重复模拟次数  \ncont $\\scriptstyle \\mathrm { f = } 9 5 \\#$ 置信区间  \naOvec=rnorm(rep) \\* aOstd $+ \\mathrm { a } 0 \\#$ 模拟系数a0的取值  \nalvec $\\Bumpeq$ rnorm(rep) \\*alstd $+ \\mathrm { a } 1$ #模拟系数a1的取值  \nbvec $\\mathbf { \\sigma } =$ rnorm(rep)\\*bstd $+ \\mathbf { b } \\#$ 模拟系数b的取值  \namhvec $\\mathop { : = }$ alvec\\*0.5161 +a0vec  \nam1vec $\\ O =$ alvec\\*(-0.5161)+a0vec  \nabh $\\ O =$ amhvec\\*bvec#高分组的中介效应  \nab1 $\\ c =$ amlvec\\*bvec#低分组的中介效应  \n${ \\mathrm { d } } =$ abh-ab1#高低组中介效应的差异  \nlow $\\ulcorner$ (1-conf/100)/2  \n$\\mathsf { u p p } = ( \\left( 1 - \\mathrm { c o n f } / 1 0 0 \\right) / 2 ) + \\left( \\mathrm { c o n f } / 1 0 0 \\right)$   \nLL $\\ c =$ quantile(d,low)#置信区间下限  \nUL $\\ c =$ quantile(d,upp)#置信区间上限  \nLL4 =format(LL, digits ${ } = 5$ ）  \nUL4 $\\ c =$ format(UL,digits $\\scriptstyle : = 5$ ）  \nhist(d, breaks $\\scriptstyle \\operatorname { \\mathsf { s c m } } ^ { \\prime } \\mathbf { F D } ^ { \\prime }$ ，col $\\ c = ^ { \\prime }$ skyblue', xlab $\\ c =$ paste(conf, $1 \\%$ Confidence  \nUL4）,main $\\mathbf { \\tau } = \\mathbf { \\dot { \\tau } }$ Distribution of Indirect Effect')",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 23
+    }
+]

@@ -1,0 +1,235 @@
+# DOI:10.5846/stxb201705160912
+
+赵广，刘刚才，朱万泽.贡嘎山峨眉冷杉树干呼吸空间特征及其对温度的响应.生态学报,2018,38（8)：2732-2742. Zhao G,Liu GC,Zhu W Z.Spatial variations in the stem $\mathrm { C O } _ { 2 }$ efflux rate of Abies fabri and the response to temperature in the Gongga Mountains.Acta Ecologica Sinica,2018,38(8) :2732-2742.
+
+# 贡嘎山峨眉冷杉树干呼吸空间特征及其对温度的响应
+
+赵广1,²，刘刚才¹，朱万泽1,\*
+
+1中国科学院水利部成都山地灾害与环境研究所，成都610041  
+2中国科学院大学，北京100049
+
+摘要：采用红外线气体分析仪-土壤呼吸气室水平测定法(HOSC)原位监测了贡嘎山东坡峨眉冷杉(Abies fabri)树干 $\mathrm { C O } _ { 2 }$ 释放速率 $( E _ { \mathrm { s } } )$ ,分析了树干 $E _ { \mathrm { s } }$ 与树干温度( $T _ { \mathrm { s t e m } }$ )的关系。贡嘎山峨眉冷杉树干 $E _ { \mathrm { s } }$ 和 $T _ { \mathrm { s t e m } }$ 空间变化格局明显,不同测定高度树干温度为 $0 . 3 \mathrm { m } > 1 . 3 \mathrm { m } > 2 . 3 \mathrm { m }$ ，以 $1 . 3 \mathrm { m }$ 处 $E _ { s }$ 最大;不同方向 $E _ { \mathrm { s } }$ 和 $T _ { \mathrm { s t e m } }$ 均表现为南面 $>$ 北面。生长季和非生长季的峨眉冷杉 $E _ { \mathrm { s } }$ 分别在0.51- $0 . 9 9 \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 }$ 和0.14— $0 . 2 2 \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 }$ 之间波动。峨眉冷杉树 $E _ { \mathrm { s } }$ 变化趋势和 $\widehat { T } _ { \mathrm { s t e m } } \widehat { - }$ 致,二者具有显著的指数函数关系 $_ { \tiny { P < 0 . 0 1 } }$ )。峨眉冷杉非生长季树干呼吸 $Q _ { 1 0 }$ 显著高于生长季( $\scriptstyle P < 0 . 0 1 { \mathrm { ~ } }$ ),其中生长季变幅在 $\mathsf { 1 . 9 } \mathrm { - } 3 . 0$ 之间,非生长季在4.6—6.8 之间,暗示个体或群落水平树干 $\mathrm { C O } _ { 2 }$ 释放通量的估算应充分考虑树干 $E _ { \mathrm { s } }$ 空间特征和 $\scriptstyle Q _ { 1 0 }$ 变化。
+
+关键词：峨眉冷杉;树干呼吸;空间变化;温度敏感系数( $Q _ { 1 0 }$ ）
+
+# Spatial variations in the stem $\mathbf { C O } _ { 2 }$ efflux rate of Abies fabri and the response to temperature in the Gongga Mountains
+
+ZHAO Guang1,²,， LIU Gangcai'， ZHU Wanze1, \*   
+1InstituteofMountainHazardsandEuironent，ChineseAcademyfSciencesndMinistryofWaterResorces，Chengdu6Oina   
+2 University of Chinese Academy of Sciences，Beijing 100049，China
+
+Abstract: As an important component of carbon budgets and net ecosystem $\mathrm { C O } _ { 2 }$ exchange in forest ecosystems，stem CO $^ 2$ （204号 efflux rate $( E _ { \mathrm { s } } )$ plays a crucial role in the global carbon balance.Investigation of spatial variations and the response of $E _ { \mathrm { s } }$ to temperature， are essential for improving the accuracy of $E _ { \mathrm { s } }$ estimates at individual and community levels. In this study，the horizontally oriented soil chamber（HOSC） technique was applied to measure the $\mathrm { C O } _ { 2 }$ released by stems.We measured $E _ { \mathrm { s } }$ in situin the Abies fabri foreston Gongga Mountainusing IRGA with aLi-6400-09 from September to December2014.Our objectives were to examine the spatial variations in $E _ { \mathrm { s } }$ of $A$ . fabri and to explore the response of $E _ { \mathrm { s } }$ to stem temperature （ $T _ { \mathrm { s t e m } }$ ). Two representative trees in an immature A. fabri forest stand were selected. An opaque PVC collar ( $1 0 . 7 \mathrm { c m }$ inside diameterand 5cm high）wascutto match the approximatecurvatureof thestemwiththeother end beingcutflat.Then the custom-built PVC collar was fastened to the south of the stem at a height of O.3,1.3 and $2 . 3 \mathrm { m }$ and to the north at a height of 1.3m，with $1 0 0 \%$ silicone sealant 24h before the measurement was made.Loose bark and moss were carefully removed from the stem surface curvedbythePVCcolar using ahairbrush without damaging the underlying cambium before instaling the PVC colars.Measurements were made over three cycles at each sampling point，every 2h from 8:00 to 18:00 in the same day of every month. The A. fabri stem $E _ { \mathrm { s } }$ and $T _ { \mathrm { s t e m } }$ showed an apparent spatial pattern. The $T _ { \mathrm { s t e m } }$ at different heights ranked as follows : $0 . 3 { > } 1 . 3 { > } 2 . 3 \mathrm { m }$ with maximum $E _ { \mathrm { s } }$ appearing at $1 . 3 \mathrm { m }$ .The $E _ { \mathrm { s } }$ and $T _ { \mathrm { s t e m } }$ on the south face of the stem were higher than that on the north. The monthly averages $E _ { \mathrm { s } }$ of the growing season（September and October）and the non-growing season （November and December）was 0.51—0.99 and 0.14— $0 . 2 2 \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 }$ ，respectively. The trend in $A$ . fabri stem $E _ { \mathrm { s } }$ was consistent with $T _ { \mathrm { s t e m } }$ with a significantly exponential relationship observed.The temperature coefficient ( $Q _ { 1 0 } ^ { \phantom { + } } .$ ）during the nongrowingseason（4.6—6.8）was much higherthan thatin the growing season（1.9—3.O).It was concluded that spatial variations of $E _ { \mathrm { s } }$ and $Q _ { 1 0 }$ should be considered when estimating individual and community stem $E _ { \mathrm { s } }$ ： V
+
+Key Words: Abies fabri ; stem $\mathrm { C O } _ { 2 }$ efflux rate；spatial variations； temperature sensitive coefficient ( $Q _ { \scriptscriptstyle { 1 0 } }$ ）
+
+森林生态系统在全球碳循环中占有重要地位[1]。森林碳平衡取决于系统内的碳固定和碳代谢过程,树干不仅生物量占森林比例较大,而且呼吸量占地上部分的 $2 5 \%$ 一 $5 0 \% ^ { [ 2 ] }$ ,是森林生态系统碳代谢的重要组分[3]。因此,准确评估树干 $\mathrm { C O } _ { 2 }$ 释放量( $( E _ { \mathrm { s } } )$ 有助于构建森林和大气之间碳循环模型[46]。先前研究多以测定的树干 $E _ { \mathrm { s } }$ 为基础,通过胸径或边材体积上推估算整株或群落水平的树干 $E _ { \mathrm { s } }$ 通量[7]。然而,受气温[6]、湿度[8]、土壤状况[9] $\mathrm { C O } _ { 2 }$ 浓度[10]等环境因素和树种[11]、径级[8]、树干氮含量[12-13]等生物因素影响,树干 $E _ { \mathrm { s } }$ 具有种内和种间差异以及明显的时空动态变化。石新立等[14]和许飞等[15]对东北东部温带树种的研究表明， $E _ { \mathrm { s } }$ 的种内和种间变异显著,并认为胸径是导致种内变异的主要因素,而种间差异主要与树种个体特性紧密相关（生长速率、树皮紧实状况、木质部孔型特征等）。时间上,树干 $E _ { \mathrm { s } }$ 主要表现为昼夜和季节变化,这方面已有大量报道。温度是时间变化格局的主要驱动因子[16-18],通过影响酶的活性、基质和腺苷酸的有效性以及呼吸产物的运输等[19],温度使树干 $E _ { \mathrm { s } }$ 变化表现出一定的规律性。空间上,不同树干方向和高度的树干 $E _ { \mathrm { s } }$ 存在差异[20-21]。但是,当前关于 $E _ { s }$ 垂直分布格局的报道还较少[22],缺乏对 $E _ { \mathrm { s } }$ 空间变化规律的影响因素的报道,这在很大程度上限制了树干呼吸通量模型的发展。
+
+指数方程是描述呼吸和温度之间关系应用最广泛的模型,该模型推导出来的温度系数( $Q _ { 1 0 }$ ,即温度变化$1 0 \%$ ,呼吸速率变化的倍数)是生态系统碳循环模型中的重要参数[16]。树干呼吸 $Q _ { 1 0 }$ 值的 $4 2 \%$ 分布集中区域为 $1 . 5 { - } 2 . 0 , 9 0 \%$ 以上在1.0—3.0 之间[23],而利用 $\overline { { Q _ { 1 0 } } }$ 可进行不同温度间 $E _ { \mathrm { s } }$ 的换算。越来越多研究表明, $Q _ { 1 0 }$ 可能并不是一个恒定的数值,而受测定温度范围、树种、林龄、径阶、季节等多种因素的影响[19,23-24]。多数生态系统模型往往以恒定值(2.0)来推算不同尺度的碳循环过程,这必然会造成较大的估算误差，降低模型预测精度[25]。然而,国内外有关 $Q _ { 1 0 }$ 的时空动态变化报道还较少[22.25-26]。因此,为提高森林生态系统碳循环估算准确性、降低不确定性,需探明 $E _ { \mathrm { s } }$ 和 $\overline { { Q _ { 1 0 } } }$ 的空间变异规律。
+
+我国已有对东北寒温树种[27]温带树种[28-29]、亚热带[30]和热带树种[31]等的树干呼吸速率测定及其影响因子的研究,但西南林区及亚高山暗针叶林树干呼吸的研究还未见报道。西南林区位于青藏高原东南缘,云、冷杉构成的山地暗针叶林是林区亚高山森林的主体组成部分。区内为典型高山峡谷地貌,其显著的气候垂直分异、特殊地质地貌以及不同发育阶段的土壤和植物,使植物个体和生态系统对气候变化的反馈极为敏感，是研究森林生态系统过程及其对全球气候变化的响应的重点区域[32]。目前,西南亚高山森林碳循环对气候变化响应的研究多集中在森林生物量、碳储量、净初级生产力以及土壤呼吸等方面[-35],亟需开展亚高山森林低温、潮湿环境下树干呼吸的时空变异及其对温度响应规律的研究。鉴于树干 $E _ { \mathrm { s } }$ 和 $Q _ { 1 0 }$ 时空动态研究的不足以及研究区相关报道的欠缺,本文以贡嘎山东坡峨眉冷杉（Abies fabri)为对象,分析了峨眉冷杉林树干 $E _ { \mathrm { s } }$ 的空间动态规律及其对温度的响应规律,重点阐明 $E _ { \mathrm { s } }$ 在不同树高、方向的差异和 $Q _ { 1 0 }$ 的时空变化规律及其驱动机制,研究可为提高个体水平和群落水平树干 $E _ { \mathrm { s } }$ 估算的准确性、了解亚高山森林生态系统碳收支状况和构建亚高山森林生态系统碳循环模型提供基础数据。
+
+# 1研究方法
+
+# 1.1 试验地概况
+
+贡嘎山位于青藏高原东南缘大雪山脉中南段,区内地质构造复杂、地貌类型多样、岭谷高差悬殊,东坡从大渡河谷底到主峰水平距离 $2 9 \mathrm { k m }$ ,相对高差达 $6 4 5 0 \mathrm { m }$ 。本区生物区系和地理成分复杂,生态环境原生性强，原始状态保持良好。气候上位于中国东部亚热带湿润季风区与青藏高原寒冷气候区的过渡带上,东坡从河谷到高山带年降水量达 $1 0 0 0 { - } 3 0 0 0 \mathrm { m m }$ ,发育了从亚热带到寒带的完整的垂直带谱,随海拔梯度变化依次为常绿阔叶林带、针阔叶混交林带、暗针叶林带、灌丛草甸带、草甸带、疏草寒漠带。
+
+试验地位于中科院贡嘎山高山生态系统观测试验站冷杉林试验场( $2 9 ^ { \circ } 3 4 ^ { \prime } 2 1 ^ { \prime \prime } \mathrm { N }$ ， $1 0 2 ^ { \circ } 5 9 ^ { \prime } 4 2 ^ { \prime \prime } \mathrm { E }$ )，属于山地寒温带气候类型,气候湿冷,年平均气温 $4 \operatorname { \mathrm { ~ \% ~ } } , 1$ 月平均气温 $- 4 . 5 \mathrm { ~ \mathcal ~ C ~ } , 7$ 月 $1 2 . 7 \mathrm { ^ { \circ } C }$ ,年平均降水量 $1 9 0 0 \mathrm { { m m } }$ ,年平均相对湿度 $9 0 \%$ ,年平均日照 $8 8 0 \mathrm { h }$ 。 2
+
+在贡嘎山东坡海拔 $3 0 0 0 \mathrm { { m } }$ 暗针叶林带选取有代表性的峨眉冷杉中龄林,设置一个 $2 0 \mathrm { m } \times 3 0 \mathrm { m }$ 样地。峨眉冷杉是样地中乔木层的密度优势种,其他树种有五尖槭（Aacer maximowiczii）、多对花楸（Sorbus multijuga）和冬瓜杨（Populus simoniiCarr)等。样地内峨眉冷杉平均胸径 $2 3 . 4 \mathrm { c m }$ ,平均树高 $2 5 \mathrm { m }$ ,郁闭度0.8,密度为697株/$\mathrm { { h m } } ^ { 2 }$ 。样地土壤为典型山地暗棕壤,土壤发育较好,土层较厚（1— $1 . 2 \mathrm { m }$ ）,腐殖化特征明显，有机碳含量7.8—$3 9 . 2 \mathrm { g / k g }$ 。
+
+# 1.2树干 $E _ { \mathrm { s } }$ 和树干温度( $T _ { \mathrm { s t e m } }$ )测定
+
+试验采用红外线气体分析仪-土壤呼吸气室水平测定法（HOSC）[36]测定树干 $E _ { \mathrm { s } }$ ，将直径 $1 0 . 7 \mathrm { c m }$ 、高5cm的PVC 管的两端打磨光滑,并根据树干表面弧度切割使其一端与所测树干吻合。安装前 24h 使用毛刷小心去除苔藓和松脱的树皮，用 $100 \%$ 中性硅酮防水胶将呼吸环固定在树干表面,尽量减少对树干活组织的伤害。注水法检测呼吸环的密闭性,使呼吸环与树干无缝胶合。每次测定结束后,呼吸环保留在树干上,待下次测定使用。实验结束后,采用纸板记录下呼吸环在树干表面包围的面积,注水法测定呼吸环包围的体积。
+
+将 Li-6400 便携式光合测定系统(Li-cor Inc.,Lincon，NE，USA)与Li-6400-09 土壤呼吸气室(Li-cor Inc.,Lincon，NE，USA)连用测定树干呼吸速率。树干呼吸测定的时间选取在2014年9月—12月的每月下旬的某天气晴朗日进行,测定时间为8:00—18:00,时间间隔2h,即每天测定6次,每次测定3个循环。在每个呼吸环下方 $5 \mathrm { c m }$ 钻深 $3 \mathrm { c m }$ 的小洞,在测定 $E _ { \mathrm { s } }$ 的同时用Li-6400便携式光合测定系统自带的土壤温度探针测定$T _ { \mathrm { s t e m } }$ 。为客观量化树干 $E _ { \mathrm { s } }$ 的时空变化规律,所有树干高度和方向的 $E _ { \mathrm { s } }$ 测定均在同一天进行,且每个时段的监测时长不超过 $0 . 5 \mathrm { h }$ ,以降低 $E _ { \mathrm { s } }$ 自身日变化带来的影响。而对研究区该林分的研究也表明[37],同一径级、同方向的树干 $E _ { \mathrm { s } }$ 无显著差异。因此,本试验只选取两株具有代表性的样树 A（胸径 $2 3 . 4 \mathrm { c m }$ ,树高 $1 9 \mathrm { m }$ )和B（胸径$2 4 . 3 \mathrm { c m }$ ,树高 $2 2 \mathrm { m }$ )来测定 $E _ { \mathrm { s } }$ （样树超过2株无法在同一天进行）,旨在真实反映 $E _ { \mathrm { s } }$ 在不同测定方向和树高的差异。 A
+
+根据试验地峨眉冷杉物候期变化情况（表1）,本文将9月和10月作为生长季,11月和12月作为非生长季。不同测定位置的基本特征见表2。
+
+表1测定样地峨眉冷杉物候期  
+Table1Phenological phase of A.fabri in the experimental field   
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2">出芽期 Bud burst</td><td rowspan="2">展叶期 Leaf expansion Flowering</td><td rowspan="2">开花期</td><td colspan="3"></td></tr><tr><td>种子成熟期 Maturity period</td><td>叶变色期 First leaf coloring</td><td>落叶期 Defoliating period</td></tr><tr><td>开始时间 Beginning time</td><td>2014-05-01</td><td>2014-05-07</td><td>2014-05-19</td><td>2014-06-02</td><td>2014-09-20</td><td>2014-10-10</td></tr></table></body></html>
+
+# 1.3数据处理
+
+由于采用自制呼吸环,树干呼吸速率需进行如下校正：
+
+$$
+E _ { \mathrm { s } } = E \times \frac { V _ { \mathrm { 0 } } + V _ { \mathrm { 1 } } - \pi \times ( \frac { D } { 2 } ) ^ { 2 } \times h } { V _ { \mathrm { 0 } } } \times \frac { A _ { \mathrm { 0 } } } { A _ { \mathrm { 1 } } }
+$$
+
+式中： $E _ { \mathrm { s } }$ 为树干 $\mathrm { C O } _ { 2 }$ 释放速率( $\mu \mathrm { m o l } \textrm { m } ^ { - 2 } \textrm { s } ^ { - 1 }$ ）， $E$ 为测定系统记录的树干呼吸速率( $\mu \mathrm { m o l } \textrm { m } ^ { - 2 } \textrm { s } ^ { - 1 }$ ）， $V _ { 0 }$ 为呼吸室
+
+容积（ $( 9 9 1 { \mathrm { c m } } ^ { 3 }$ ）， $V _ { 1 }$ 为测得的呼吸环体积( $\mathrm { c m } ^ { 3 }$ ）， $D$ 为呼吸室插入PVC 环直径( $1 0 . 7 \mathrm { c m } \dot { } ,$ ）， $h$ 为呼吸环高度， $A _ { 0 }$ 为系统默认的呼吸室表面积( $7 1 . 6 \mathrm { c m } ^ { 3 }$ ）， $A _ { 1 }$ 为实际测定的树干表面积 $\left( \mathrm { c m } ^ { 2 } \right)$ ）。
+
+表2不同测定位置的基本特征  
+Table 2 Basic characteristics of different measurement sites   
+
+<html><body><table><tr><td>测定样树 Samlpe tree</td><td>测定高度和方向 Height and direction</td><td>测定点直径 Diameter/cm</td><td>呼吸环覆盖面积 Cover area/cm²</td></tr><tr><td>样树A Sample A</td><td>0.3m（南）</td><td>24.84</td><td>91.00</td></tr><tr><td></td><td>1.3m (南)</td><td>23.36</td><td>91.35</td></tr><tr><td></td><td>2.3m(南)</td><td>21.85</td><td>92.00</td></tr><tr><td></td><td>1.3m (北)</td><td>23.36</td><td>91.35</td></tr><tr><td>样树B Sample B</td><td>0.3m (南)</td><td>27.55</td><td>91.00</td></tr><tr><td></td><td>1.3m (南)</td><td>24.29</td><td>90.68</td></tr><tr><td></td><td>2.3m (南)</td><td>21.07</td><td>90.00</td></tr><tr><td></td><td>1.3m (北)</td><td>24.29</td><td>90.68</td></tr></table></body></html>
+
+采用指数方程,拟合 $E _ { \mathrm { s } }$ 与 $T _ { \mathrm { s t e m } }$ 的关系：
+
+$$
+E _ { \mathrm { s } } = \alpha \mathrm { e } ^ { \beta T }
+$$
+
+式中， $E _ { \mathrm { s } }$ 为树干 $\mathrm { C O } _ { 2 }$ 释放速率( $\mathrm { [ \mu m o l \ m ^ { - 2 } \ \mathbf { s } ^ { - 1 } }$ ）， $T$ 为树干温度， $\alpha$ 和 $\beta$ 为常数
+
+$Q _ { 1 0 }$ 是温度每增加 $1 0 ^ { \circ } \mathrm { C }$ 树干呼吸速率增加的倍数,用公式(3)计算：
+
+式中， $\beta$ 即为(2)式中的计算出的常数值。
+
+$E _ { 1 0 }$ 为树干温度 $1 0 ^ { \circ } \mathrm { C }$ 时,树干释放 $\mathrm { C O } _ { 2 }$ 的速率,计算见式(4)
+
+式中， $E _ { \mathrm { s } }$ 为树干 $\mathrm { C O } _ { 2 }$ 释放速率（μmolm²s1） ${ } , { \beta }$ 为(2)式中的常数值,T为树干温度。
+
+# 1.4 统计分析
+
+采用单因素方差分析法（One-way ANOVA）和最小显著差异法（LSD）比较不同测定位置之间的差异。Excel2007和SPSS20.0进行统计分析，采用Origin8.0完成绘图。
+
+# 2结果和分析
+
+2.1 $E _ { \mathrm { s } }$ 和 $T _ { \mathrm { s t e m } }$ 季节变化特征测定时期的峨眉冷杉 $E _ { \mathrm { s } }$ 和 $T _ { \mathrm { s t e m } }$ 呈明显单向变化格局(图1；图2),即从生长季(9月和10月)到非生长季（11月和12月） $E _ { \mathrm { s } }$ 和 $T _ { \mathrm { s t e m } }$ 急剧下降。生长季和非生长季的峨眉冷杉 $E _ { \mathrm { s } }$ 均值分别在0.51— $0 . 9 9 \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 }$ 和（20 $0 . 1 4 { \scriptstyle \longrightarrow } 0 . 2 2 \mu \mathrm { m o l } \textbf { m } ^ { - 2 } \textbf { s } ^ { - 1 }$ 波动。峨眉冷杉树干 $E _ { \mathrm { s } }$ 和 $T _ { \mathrm { s t e m } }$ 在不同月份的变幅整体上和 $E _ { \mathrm { s } }$ 与 $T _ { \mathrm { s t e m } }$ 变化趋势一致。不同月份的 $\mathcal { T } _ { \mathrm { s t e m } } ^ {  }$ 变幅整体上随着树干高度升高和月份递增(除12月)而降低,树干南面温度变幅高于北面(表3)。树干 $E _ { \ast }$ 变幅随月份递增而降低， $1 . 3 \mathrm { m }$ 处变幅最大,且南面高于北面。
+
+2.2 $E _ { \mathrm { s } }$ 和 $T _ { \mathrm { s t e m } }$ 空间变化特征
+
+< 不同测定高度的 $E _ { \mathrm { s } }$ 整体表现为 $1 . 3 \mathrm { m } { > } 0 . 3 \mathrm { m } { > } 2 . 3 \mathrm { m }$ $T _ { \mathrm { s t e m } }$ 表现为 $0 . 3 \mathrm { m } > 1 . 3 \mathrm { m } > 2 . 3 \mathrm { m }$ （图1)。样树A不同测定高度的 $E _ { \mathrm { s } }$ 在9月、10月和11月差异显著( $P { < } 0 . 0 5 )$ ,而样树B在9月和10月差异显著( $P { < } 0 . 0 5 )$ ，非生长季差异不显著( $( P { > } 0 . 0 5 )$ ）。不同测定方向的 $E _ { \mathrm { s } }$ 和 $T _ { \mathrm { s t e m } }$ 整体表现为南面 $\mathrm { \dot { ~ } } >$ 北面(图2），在测定月份均差异显著( $P <$ 0.05)。
+
+为消除温度变化对树干呼吸的影响和客观对比不同测定位置 $E _ { \mathrm { s } }$ ,采用归一化的树干呼吸速率( $E _ { 1 0 }$ ，
+
+![](images/2a6099122969bc0b1a620b57936dd1ca4bad5a056e2352a97a8001f6a1c721c2.jpg)  
+图1不同测定高度树干 $\pmb { { E } } _ { s }$ 和 $\pmb { T } _ { \mathrm { s t e m } }$ 的季节变化  
+Fig.1 Seasonal changes in Esand $\pmb { T } _ { \mathrm { s t e m } }$ on different measurement height
+
+GS：生长季,growing season;DS：非生长季,dormant season； $E _ { 0 . 3 \mathrm { { m } } } ^ { \prime \prime } \langle _ { 1 . 3 \mathrm { { m } } } \cdot E _ { 2 . 3 \mathrm { { m } } }$ ：树干0.3、1.3 和 $2 . 3 \mathrm { m }$ 处呼吸速率,stem $\mathrm { C O } _ { 2 }$ efflux rate at 0.3,1.3and $2 . 3 \mathrm { m }$ height; $T _ { 0 . 3 \mathrm { m } } \setminus T _ { 1 . 3 \mathrm { m } } \setminus T _ { 2 . 3 \mathrm { m } }$ :树干0.3、1.3和2.3m 处树干温度,stem temperature at 0.3，1.3 and $2 . 3 \mathrm { m }$ height
+
+$\mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 }$ )来进行分析。如图3所示 $, 1 . 3 \mathrm { m }$ 处的 $E _ { 1 0 }$ 显著高于 $0 . 3 \mathrm { m }$ 和 $2 . 3 \mathrm { m }$ ,且树干南面高于北面。 $0 . 3 \mathrm { m }$ 和$2 . 3 \mathrm { m } \ E _ { \ast }$ 差异不显著( $P { > } 0 . 0 5 )$ 。对于同一测定位置， $E _ { \mathrm { s } }$ 在生长季明显高于非生长季。
+
+表3不同测定点峨眉冷杉树干呼吸速率和树干温度变幅的季节变化  
+
+<html><body><table><tr><td>测定高度</td><td colspan="2">9月September</td><td colspan="2">10月October</td><td colspan="2">11月November</td><td colspan="2">12月December</td></tr><tr><td>Height</td><td></td><td>T</td><td>E</td><td>T</td><td>E</td><td>Ts</td><td>E</td><td>T</td></tr><tr><td>样树A Tree A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>0.3m (S)</td><td>0.15</td><td></td><td>0.07</td><td>1.35</td><td>0.34</td><td>1.29</td><td>0.05</td><td>3.83</td></tr><tr><td>1.3m (S)</td><td>0.61</td><td>2.52</td><td>0.13</td><td>0.77</td><td>0.13</td><td>1.05</td><td>0.02</td><td>4.40</td></tr><tr><td>2.3 m (S)</td><td>0.11</td><td>2.21</td><td>0.11</td><td>0.94</td><td>0.07</td><td>0.71</td><td>0.10</td><td>3.92</td></tr><tr><td></td><td>0.29</td><td>2.41</td><td>0.08</td><td>0.64</td><td>0.11</td><td>0.20</td><td>0.06</td><td>3.33</td></tr><tr><td>样树B Tree B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>0.3m (S)</td><td>0.30</td><td>2.79</td><td>0.04</td><td>1.94</td><td>0.13</td><td>0.56</td><td>0.05</td><td>3.50</td></tr><tr><td>1.3m (S)</td><td>0.52</td><td>2.15</td><td>0.17</td><td>1.57</td><td>0.16</td><td>0.64</td><td>0.08</td><td>3.39</td></tr><tr><td>2.3m (S) 2.3m (N)</td><td>0.19 0.24</td><td>1.98 1.92</td><td>0.27 0.03</td><td>0.40 0.61</td><td>0.16 0.14</td><td>0.23 0.15</td><td>0.03 0.05</td><td>4.11 3.32</td></tr></table></body></html>
+
+$E _ { s }$ ：树干呼吸速率,stem $\mathrm { C O } _ { 2 } .$ ffluxrate; $T _ { s }$ :树干温度,stem temperature;S:树干南面,south of the stem;N:树干北面,north of the stem
+
+# 2.3 $E _ { \mathrm { s } }$ 对温度的响应特征
+
+不同测定位置的峨眉冷杉树干 $E _ { \mathrm { s } }$ 和树干温度均存在极显著指数曲线关系( $P { < } 0 . 0 1$ ；图4和图5)，其中以
+
+![](images/8877dd872cba31ef5d10677fc21ba2405efdc583e74bb53ad6b694ebdefab4ca.jpg)  
+图2不同测定方向树干 $E _ { s }$ 和 $T _ { \mathrm { s t e m } }$ 的季节变化
+
+GS：生长季,growing season;DS：非生长季,dormant season; $E _ { \mathrm { s o u t h } } \setminus \bar { E } _ { \mathrm { n o r t h } }$ ：树干1.3m 处南面和北面呼吸速率,stem $\mathrm { C O } _ { 2 }$ efflux rate on the south and north of $1 . 3 \mathrm { m }$ height; $T _ { \mathrm { s o u t h } } \setminus T _ { \mathrm { n o r t h } }$ ：树干 $1 . 3 \mathrm { m }$ 处南面和北面树干温度,stem temperature at the south and north of $1 . 3 \mathrm { m }$ height
+
+树干 $1 . 3 \mathrm { m }$ 南北两处的拟合效果较好(表4)。峨眉冷杉树干呼吸 $Q _ { 1 0 }$ 值在2.57—5.92之间变化(图6)。生长季和非生长季的树干呼吸 $Q _ { 1 0 }$ 在各测定位置均差异显著（ $\textstyle P < 0 . 0 5$ ；图4），且不同测定位置整体表现为1.3m（N)$> 1 . 3 \mathrm { m } ( \mathrm { \Delta S } ) > 2 . 3 \mathrm { m } ( \mathrm { \mathrm { \textrm { S } } ) } > 0 . 3 \mathrm { m } ( \mathrm { \mathrm { \textrm { S } } ) }$ ?
+
+# 3结论和讨论
+
+# 3.1 $E _ { \mathrm { s } }$ 空间变化特征
+
+树木个体尺度呼吸的测定是林分尺度碳释放估算的基础。绝大多数森林碳循环模型假设 $E _ { \mathrm { s } }$ 、温度和 $Q _ { 1 0 }$ 在树内恒定，以树干某一测定点、某几个时刻的 $E _ { \mathrm { s } }$ 来估算整个树干甚至林分的呼吸量[5.21,25]。但是,越来越多研究指出林内不同高度甚至朝向的树干温度、 $Q _ { 1 0 }$ 以及E 都存在明显差异。以温度为例,Motzer[38]在研究森林垂直梯度温度变化时发现树冠位置的空气温度比林下
+
+![](images/4022be36f85ae2bc292f24f43b5ca0c082205e56808f2ef9fb89c36bbdd06c76.jpg)  
+Fig.2Seasonal changes in $E _ { \mathrm { s } }$ and $\pmb { T } _ { \mathrm { s t e m } }$ on different measurement direction   
+图3不同测定位置 $E _ { 1 0 }$ 比较  
+Fig.3Comparison of $\scriptstyle { E _ { 1 0 } }$ on different measurement sites
+
+S：树干南面,south of the stem;N:树干北面,north of the stem
+
+层高 $4 ^ { \circ } \mathrm { C }$ ,而 Derby 和Gates[39]认为易受太阳直射树干面的温度通常会高于背面。受此影响, $E _ { \mathrm { s } }$ 在树干高度和方向上表现出差异性,这会对单株树或立地水平的碳释放量估算产生较大影响。本研究中,峨眉冷杉树干$T _ { \mathrm { s t e m } }$ 随测定高度上升而下降,而树干 $E _ { \mathrm { s } }$ 最大值出现在 $1 . 3 \mathrm { m }$ ,二者未表现出一致性。树干 $E _ { \mathrm { s } }$ 和 $T _ { \mathrm { s t e m } }$ 也表现出相似的变化趋势。在温带和热带地区,森林经长时间太阳辐射,上层林冠温度通常会高于林下,如山毛榉（Fagussyluatica)和罗汉松林树冠木质部温度和 $E _ { \mathrm { s } }$ 均高于树干胸径处[40-41]。贡嘎山东坡云雾多、降水频繁,测定期间峨眉冷杉林长时间无太阳直射，而研究区土壤0— $6 0 \mathrm { c m }$ 温度高于空气温度,使与土壤接触的树干下部温度高$\mathrm { H } _ { 0 . 3 \mathrm { m } }$ ：树干 $0 . 3 \mathrm { m }$ 处， $0 . 3 \mathrm { m }$ of the stem; $\mathrm { H } _ { 1 . 3 \mathrm { m } }$ ：树干 $1 . 3 \mathrm { m }$ 处， $1 . 3 \mathrm { m }$ of the stem; $\mathrm { H } _ { 2 . 3 \mathrm { { m } } }$ :树干2.3m 处,2.3m of the sto于和空气接触的树干上部(数据未列出),这导致树干温度随高度升高呈现梯度变化。然而,峨眉冷杉树干 $E _ { \mathrm { s } }$ 并未和 $T _ { \mathrm { s t e m } }$ 一样表现出梯度性变化,表明树干温度未能较好解释 $E _ { \mathrm { s } }$ 在垂直梯度上的变化,而其他因素如树干皮层状况、树干液流对 $\mathrm { C O } _ { 2 }$ 的运输可能会影响 $E _ { \mathrm { s } }$ 在垂直方向上的变化。例如,树干基部的较厚树皮会限制树干内部 $\mathrm { C O } _ { 2 }$ 向外部环境释放,而树干呼吸释放出来的 $\mathrm { C O } _ { 2 }$ 有部分会溶解在木质部液流中并随液流向上流动被运输到树冠顶部[42],这些因素和温度综合作用于 $E _ { \mathrm { s } }$ ,使空间变异规律表现出复杂性。此外,峨眉冷杉树干南面 $E _ { \mathrm { s } }$ 显著高于北面,与美国白栎(Quercus alba）、橡栎（Quercus prinus）和红枫（Acer rubrum）[43]以及红松[27]的研究结果一致,这与树干朝向温度差异相关。
+
+![](images/cd1fdc844c75b1bb329d8da8287eb5e8f627f7eb9fe5990c98558bbc875e7a4f.jpg)  
+Fig.4The relationship between $E _ { \mathrm { s } }$ and $\pmb { T } _ { \mathrm { s t e m } }$ on different measurement heights
+
+![](images/235a242bae5189b78bf41e8ee78f8cb3205f72d18a2eebdb1f31fb9a6f1a3028.jpg)  
+图4不同测定高度树干 $E _ { s }$ 和 $T _ { \mathrm { s t e m } }$ 间的关系  
+图5不同测定方向树干 $E _ { \mathrm { s } }$ 和 $T _ { \mathrm { s t e m } }$ 间的关系  
+Fig.5The relationship between $E _ { s }$ and $\pmb { T } _ { \mathrm { s t e m } }$ on different measurement direction $F _ { \mathrm { s o u t h } }$ ：树干南面,south of the stem； $F _ { \mathrm { n o r t h } }$ :树干北面,north of the stem
+
+为消除温度变化对 $E _ { \mathrm { s } }$ 的影响,采用温度归一化后的 $E _ { 1 0 }$ 比较测定位置对树干 $\mathrm { C O } _ { 2 }$ 释放速率的影响，发现生长季的 $E _ { 1 0 }$ 显著高于非生长季。生长季植物树干通常具有较高的生理活性[2]、生长速率[445]以及充足的碳氮供应[9,i2],这些新陈代谢活动往往需要呼吸作用提供碳骨架和能量物质[26],从而导致较高的 $\mathrm { C O } _ { 2 }$ 释放速率。此外,树干 $1 . 3 \mathrm { m }$ 处 $E _ { 1 0 }$ 大于 $0 . 3 \mathrm { m }$ 和 $2 . 3 \mathrm { m }$ 处,南面大于北面,这可能与树干内部活细胞分布有关。研究表明，除温度影响，树干不同位置的物质组成差异、木质部活细胞的分布情况、树干液流对 $\mathrm { C O } _ { 2 }$ 运输的影响、碳水化合物在树干中的转运和储存等因素也会导致 $E _ { \mathrm { s } }$ 在树高和方向发生变化[40]。如树干上部边材比例大、幼嫩组织生理活性高，需要较多的能量供应，往往会产生较高的 $\mathrm { C O } _ { 2 }$ 释放速率[22]
+
+# 3.2 $E _ { \mathrm { s } }$ 对树干温度的响应
+
+植物呼吸过程中的酶促反应对温度反应敏感[19,41],同时木质部液流中 $\mathrm { C O } _ { 2 }$ 的溶解性(亨利定律)和细胞间 $\mathrm { C O } _ { 2 }$ 的径向扩散会随温度升高而增大和加快（菲克定律）[46],因此温度通常被认为是造成 $E _ { \mathrm { s } }$ 昼夜、季节和树干测定位置差异的主要因子。采用指数模型
+
+8 a □生长季 ■非生长季 a a rrgreeeer a 票 山 b 2 一 0 0.3 m (S) 1.3 m (S) 2.3 m (S) 1.3 m (N) 测定位置Measurement sites
+
+S：树干南面,south of the stem;N:树干北面,north of the stem
+
+预测 $E _ { \mathrm { s } }$ 和 $T _ { \mathrm { s t e m } }$ 间的关系，幼年火炬松的树干温度可以解释 $E _ { s }$ 变异量的 $6 1 \%$ ,挪威云杉树干和枝的温度解释了变异的 $6 8 \% ^ { [ 4 7 ] }$ ,而 Zha等[6对欧洲赤松的研究发现树干温度贡献了超过 $70 \%$ 的 $E _ { \mathrm { s } }$ 变化。本文中,树干温度可以解释不同测定位置 $E _ { s }$ 变化的 $6 9 . 4 \mathrm { - } 8 9 . 5 \%$ ，是 $E _ { \mathrm { s } }$ 在生长季和非生长季差异显著的主导因子。从表3可以看出，树干温度和 $E _ { \mathrm { s } }$ 的变异幅度整体上一致。其中 $1 . 3 \mathrm { m }$ 处南北两面 $R ^ { 2 }$ 较高， $0 . 3 \mathrm { m }$ 处较低。生长季和非生长季的峨眉冷杉 $E _ { \mathrm { s } }$ 分别在0.51- ${ \bf \cdot 0 . 9 9 \mu m o l }$ m−²s−1和0.14- $0 . 2 2 \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 }$ 之间波动,远低于其他研究的报道,可能与样地常年低温有关。Zach等[48]比较了海拔 $\lambda 0 5 0 \mathrm { m }$ 和 $3 0 5 0 \mathrm { m }$ 处雨林树干 $\mathrm { C O } _ { 2 }$ 释放速率,发现前者平均气温为后者的2倍,而 $E _ { \mathrm { s } }$ 为6.6倍。Robertson 等[49]对亚马逊和安第斯山脉地区的研究也得出相似结论。本研究位于海拔 $3 0 0 0 \mathrm { { m } }$ 的亚高山暗针叶林带,生长季月均温度只有 $1 0 ^ { \circ } \mathrm { C }$ ,低温显著抑制了峨眉冷杉生理活动和碳代谢,使树干 $E _ { \mathrm { s } }$ 保持在较低水平。
+
+表4不同测定点峨眉冷杉 $E _ { s }$ 与 $T _ { \mathrm { s t e m } }$ 的指数拟合方程和温度系数  
+Table 4Exponential fiting equation of $E _ { \mathrm { s } }$ and $\pmb { T } _ { \mathrm { s t e m } }$ and $Q _ { 1 0 } \mathbf { o n }$ different measurement site   
+
+<html><body><table><tr><td>测定位置 定样树 position</td><td>回归方程</td><td>决定系数（R²）</td><td>温度系数（Q1）</td><td>样本量（(n）</td></tr><tr><td>0.3m (S) 样树A</td><td>equation y= 0.204e0.1011 x</td><td>coefficient 0.765</td><td>coefficient 2.75</td><td>63</td></tr><tr><td>样树B</td><td>y = 0.226e0.0944x</td><td>0.694</td><td>2.57</td><td>70</td></tr><tr><td>1.3m (S) 样树A</td><td>y=0.338e0.1230 x</td><td>0.820</td><td>3.42</td><td>65</td></tr><tr><td>样树B</td><td>y = 0.263e0.1406x</td><td>0.835</td><td>4.08</td><td>69</td></tr><tr><td>2.3m (S) 样树A</td><td>y=0.177e0.1004x</td><td>0.749</td><td>2.73</td><td>68</td></tr><tr><td>样树B</td><td>y = 0.229e0.1071 x</td><td>0.703</td><td>2.92</td><td>63</td></tr><tr><td>1.3m (N) 样树A</td><td>y = 0.276e0.1406 x</td><td>0.822</td><td>4.07</td><td>69</td></tr><tr><td>样树B</td><td>y = 0.120e0.1779x</td><td>0.875</td><td>5.92</td><td>67</td></tr></table></body></html>
+
+拟合 $E _ { \mathrm { s } }$ 与 $T _ { \mathrm { s t e m } }$ 的指数方程的样本量为：3(循环数) $\times 6 \AA$ （每天次数） $\times 4$ 天(4个月每月1天) $\mathbf { \Sigma } = \mathbf { \Sigma }$ 72(次)，表中 $\mathbf { \Omega } _ { n }$ 值为剔除异常值后的次数；S：树干南面,south of the stem;N:树干北面,north of the stem
+
+# 3.3 （204号 $Q _ { 1 0 }$ 变化特征
+
+峨眉冷杉树干呼吸在非生长季的 $Q _ { 1 0 }$ 显著高于生长季,与前人结果一致[2,9,50-51]。Amthor[16]提出用成熟组织法(Mature tisue method)将植物呼吸分为生长呼吸和维持呼吸,并认为二者对温度的敏感程度不同,如维持呼吸和温度有较好的指数拟合关系,而生长呼吸多受植物生长节律和物候的影响。非生长季植物以维持呼吸为主,而维持呼吸比生长呼吸对温度变化更敏感。因而,Saxe等[52]认为这是 $Q _ { 1 0 }$ 季节变化的主要原因。然而,越来越多的学者开始质疑成熟组织法的正确性,因为此方法缺乏对温度系数变化的考虑[9,3,53]。相反,他们认为Qi0并不是一个恒定的参数,植物对长期温度变化具有呼吸适应现象（Thermal aclimation）[9,9,54]，即植物对温度的敏感程度( $Q _ { 1 0 }$ )会在长时间低温条件下升高。呼吸的温度适应存在土壤和根系呼吸[55-5]叶片呼吸[58-59]和树干呼吸[50.24],而且种间和种内差异较大[60]。本研究中,生长季 $Q _ { 1 0 }$ 变幅在1.9—3.0 之间,非生长季在4.6—6.8之间,远高于冷杉属均值(2.0)[7]和王文杰等[61]报道的 $Q _ { 1 0 }$ 分布范围（1.0—3.0）。我们推测,长期生长在低温环境下,峨眉冷杉树干呼吸产生了温度适应现象。Tjoelker等[62]对相关文献的统计发现，热带地区 $Q _ { 1 0 }$ 为2.14,温带为2.26,寒温带为2.20 和极地地区为2.56。寒冷地区的 $Q _ { 1 0 }$ 值明显高于温暖地区，表明呼吸的温度适应不仅导致 $Q _ { 1 0 }$ 的季节波动,也会造成不同气候环境下的差异。此外，树干朝向上，树干北面 $Q _ { 1 0 }$ 高于南面,可能是北面较低的温度导致 $Q _ { 1 0 }$ 上升。而垂直方向上, $Q _ { 1 0 }$ 表现出与 $\mathcal { E } _ { \mathrm { s } } ^ { \mathrm { ~ ~ } }$ 相同的变化趋势，可能与测定处树干形成层生理活性有关。
+
+国内对森林生态系统树干呼吸的研究工作开展较晚,特别是关于树干呼吸机理模型的研究还比较薄弱。当前仍没有专门测定树干 $E _ { \mathrm { s } }$ 的仪器,基本上改装自土壤呼吸测定装置,而红外线气体分析仪笨重、电缆线短等缺点很大程度上限制了对 $E _ { \mathrm { s } }$ 垂直分布格局的研究。本研究限于测定方法，最高观测位置只有 $2 . 3 \mathrm { m }$ ,远低于树高。所以，今后应进一步加强对树干整体 $E _ { \mathrm { s } }$ 空间格局及其变化机理等关键问题的探讨，以期深层理解树干$E _ { \mathrm { s } }$ 在森林生态系统碳循环中的作用。 2
+
+# 参考文献（References）:
+
+[1]DixonRK，SolonAM,roS,HghtonRA,SloonAM,TrexierMC，WisnieskiJ.Carbpolsandxoflobalforestecost.Science，1994，263(5144)：185-190.  
+[2]Lavigne MBRyanMG.Growthandmaintenanerespratiotesofaspn,black spruceandjackpinestestorthadsouthASsites.Tree Physiology，1997,17(8/9): 543-551.  
+[3]AcostaavekaoJoDchCOiertalpilfwsrucetre.ropnJoalofFsta2011，130(4):649-656.  
+[4] RyanMG.Asipleethodstatiggosarbougetsforvgeatioinforestostes.Treeiolog991（/2):5-266.  
+[5]RyanG,HbbdRogacsRJutrieRE.lae,fotosuedadespratioinitrelation to nitrogen status.Tree Physiology，1996，16(3）: 333-343.  
+[6]ZhaT,KkWgKp,toaldalespatiootsirdelsBotany, 2004, 94(6) : 889-896.  
+[7］Damesin C CeschiaE,LeGoffN,OtoriniJM,DufreneE.Stemandbranchrespirationofbeech：fromtree measurements toestimationsatthestandlevel.NewPhytologist，2002，153(1):159-172.  
+[8] YangY,ZaoM,XuX,unZZ,nGD,PiaSDuandsoalcgeiseespiratioofLriprciis-upehe，Northern China. PloS One，2014,9(2）:e89294.MaierCAStemgrothdrespirationinlblollypineplantatiosdieringinsoilesourcevailabityTreehysioloy，O,2（16）：1183-1193.  
+[10] Edwards N T，Tschaplinski T J，Norby R J. Stem respiration increases in $\mathrm { C O } _ { 2 }$ -enriched sweetgum trees.New Phytologist，2002，155（2）：239-248.  
+[11] Ryan MG,Linder S,VoseJM,HubbardR M.Dark respiration of pines.Ecological Bulletins，1994,43：50-63.  
+[12] MaierCA,ZaohSJ,oughertyEfctsoftmpeauredisueirogooantseasodachinteaesatioyoung loblolly pine（Pinus taeda）plantation.Tree Physiology，1998,18(1）：11-20.  
+[13]VoseJyanMGeasoalespratiofliagfeosddtisuesielatioowthisuedotosiobalChange Biology，2002，8（2）：182-193.  
+[14] 石新立，王传宽，许飞，王兴昌.四个温带树种树干呼吸的时间动态及其影响因子.生态学报，2010，30(15)：3994-4003.  
+[15］许飞，王传宽，王兴昌.东北东部14个温带树种树干呼吸的种内种间变异.生态学报，2011，31(13)：3581-3589.  
+[16] AmthorJS. Respiration and crop productivity.New York：Springer-Verlag，1989.  
+[17] Amthor J S. Scaling $\mathrm { C O } _ { 2 }$ -photosynthesis relationships from the leaf tothecanopy.Photosynthesis Research，1994,39(3):321-350.  
+[18] AmthorJS.TheMcCre-deWit-Peingde Vies-Thorleyrespirationparadigms:30yearslater.AnalsofBotany，O0,86(1):1-20.  
+[19] Atkin O K,Tjoelker $\mathrm { M }$ G.Thermalaccimation and the dynamic response of plant respiration to temperature.Trends in Plant Science，2003，8(7): 343-351.  
+20]tocfosJpeaueasdtroofllsirs：lafspoeligdpPhysiology，2000,20（15）：1057-1062.  
+[21]ArakiMG,Usugi H,KajimotoT,HanQM,KawasakiT,ChibaYEstimationof whole-stemrespiraion，incorporatingverticalvariations in stem CO $^ 2$ efflux rate，of Chamaecyparis obtusa trees.Journal of Forest Research,2010,15(2):115-122.  
+[22]TarvanenLantforsM,WallnG.Verticalgradientsndseasoalvariatiste $\mathrm { C O } _ { 2 }$ efflux within NowaysprcestandTre ysiolog,2014,34(5):488-502.  
+[23] 杨金艳，杨阔，王传宽.生物环境因子对树干呼吸时空变异的影响.应用与环境生物学报，2009,15(6)：880-887.  
+[24]BritoP,Morales D,Wieser G,Jiménez M S.Spatial and seasonal variations in stem $\mathrm { C O } _ { 2 }$ efflux of Pinus C nariensis attheir upper distribution limit.Trees，2010,24(3）:523-531.  
+[25]Kim MH,NakaneK,LeJT,BangHS,NaYEStem/branch maintenanceresprationofJapaneseredpinestand.ForestEcologyandManagement,2007,243(2/3）:283-290.  
+[26] 韩风森，胡聘，王晓琳，周宏轩.北京2种阔叶树不同高度枝干的呼吸速率及其对温度的敏感性.植物生态学报，2015,39（2)：197-205.  
+[27] 王淼，姬兰柱，李秋荣，肖冬梅，刘海良.长白山地区红松树干呼吸的研究.应用生态学报，2005，16(1)：7-13.  
+[28] 许飞，王传宽.温带4种针叶树种春、秋季节树干维持呼吸的日动态.生态学报，2015，35(10)：3233-3243.  
+[29] 游伟斌.塞罕坝华北落叶松树干呼吸时空变化及影响因子[D].北京：北京林业大学，2013．  
+[30] 黄玮，朱锦懋，黄儒珠，王健，郑怀舟，盛浩，李机密.福建长汀冬季植物树干 $\mathrm { C O } _ { 2 }$ 释放速率日变化特征.亚热带资源与环境学报，2009,4(1) : 38-46.  
+[31] 严玉平，沙丽清，曹敏.西双版纳热带季节雨林优势树种树干呼吸特征.植物生态学报，2008，32（1)：23-30.  
+[32] 张远东，庞瑞，顾峰雪，刘世荣.西南高山地区土壤异养呼吸时空动态.生态学报，2013,33（16)：5047-5057.  
+[33] 周旭，付致君.道孚林区川西云杉鳞皮冷杉生物量的测定.四川林业科技，1983，（4)：28-33.  
+[34] 方江平，项文化.西藏色季拉山原始冷杉林生物量及其分布规律.林业科学，2008，44（5）：17-23.  
+[35] 钟祥浩，罗辑．贡嘎山山地暗针叶林带自然与退化生态系统生态功能特征.山地学报，2001，19(3)：201-206.  
+[36]Xu M, De Biase T A,Qi Y. A simple technique to measur stemrespiration using a horizontally oriented soil chamber.Canadian Journal of ForestResearch，2000,30（10）:1555-1560.  
+[37]Zhao G,Liu G C, Zhu W Z, Zhao JX，Wang M，WangYY,JiaM.Stem $\mathrm { C O } _ { 2 }$ efflux of Abies fabri in subalpine forests in the GonggaMountains,Eastern Tibetan Plateau. Journal of Plant Ecology，2016,doi；10.1093/jpe/rtw100.  
+[38]Motzer T. Micrometeorological a cts of a tropical mountain forest.Agricultural and Forest Meteorology，2005，135(1/4）: 230-240.  
+[39]Derby R W, Gates D M. The ten perature of tree trunks-calculated and observed.American Journal of Botany，1966,53(6): 580-587.  
+40]CeschiEibtailrEdsspatFs).Annals of Forest Science,2002,59(8): 801-812.  
+[41]BowmaWurbullMH,TisueDWitehadD,GrifiKLSapwodtemperaturegradientsbetwnlowerstemsandthecodotinfluence estimates of stand-level stem CO $^ 2$ efflux.Tree Physiology，2008，28(10）：1553-1559.  
+[42] TeskeyRO,Muireesureetofsespratioofsyaore（latausidentalisL.）treesolesitealdetealfuesf（24号 $\mathrm { C O } _ { 2 }$ and possible transport of CO $^ 2$ from roots.Plant，Cell& Environment,2007,30(5）:570-579.EdwardsNT,Hanson PJ.Stem respiration in aclosed-canopy uplandoak forest. Tree Physiology，1996,16(4): 433-439.RyanMG.GrowthdainteancespioisofinuscotortaandPiceegelmaianadanJoualofForstesearh99(1) :48-57.  
+[45] Ryan MG.FoliaaintenaeespatioofsubalpiandealrdubsielatiotrgencotntPlantCell&Enviot995,18(7) :765-772.  
+[46]Levy PE，Meir P,Allen S J,Jarvis PG. The effect of aqueous transport of $\mathrm { C O } _ { 2 }$ in xylem sap on gas exchange in woody plants.Tree Physiology,1999,19(1) :53-58.  
+[47]Acosta M,Pavelka M,PokornyR,Janous D,Marek M V.Seasonal variation in $\mathrm { C O } _ { 2 }$ efflux of stems and branches of Norway Spruce trees.Annals ofBotany，2008,101(3）:469-477.  
+[48]Zach，A,Horna，V,Leuschner C. Elevational change in woody tissue $\mathrm { C O } _ { 2 }$ efflux in a tropical mountain rain forest in southern Ecuador.TreePhysiology，2008,28（1）:67-74.  
+[49] Robertson A L,Malhi Y,Farfan-AmezquitaF,Aragao L EO C,SILVAESPEJO JE S,Robertson $\mathbf { M }$ A. Stem respiration in tropical forests alongan elevation gradient in the Amazon and Andes.Global Change Biology，2010,16(12）：3193-3204.  
+[50]CareyEValeluciEtespatiofossgoitrastilateslaforaleagOecologia,1997,111（1）:19-25.  
+[51] StockforsJ,LinderS.EfectofnitrogenontheseasonalcourseofgrowthndmaintenancerespirationinstemsofNorwaysprucetrees.Physiology，1998,18(3）:155-166.  
+[52]Saxe H, Cannell MG R,Johnsen $\boldsymbol { \wp }$ ，Ryan M G,Vourlitis G.Tree and forest functioning in response to global warming. New Phytologist,2001,149(3) :369-399.  
+[53] MaierCA,AaughT,LeellnH,ughertyPRespraoyarbouseandarboorgeind-rottolbllpne（utdL.plantations：the efectof siteresourceson the standcarbon balance.Global Change Biology，2O04，10(8）:1335-1350.  
+[54] KingA W,GundersonCA,PostW，WestonDJ,WulschlegerSD.Plantrespirationinawarmerorld.ience,6，31（577）56-537.  
+[55] AtkinOK,Hlly,allAatiofo(Euclypuspufa）afrspatiooasoladualvraie：the importanceofhangesinthecapacityandtemperaturesensitivityofrespiration.Plant，Cell&Envronment，2o，23（）：15-26.  
+[56]BrylaDesatespatiatespeauednhtntellt,1997，20(11) :1411-1420.  
+[57] PengSS,PiaS,WangT,SunJnZH.Tmpatureesitivitoflespatioindiereosystsinina.SldBiochemistry，2009,41（5）:1008-1014.  
+[58] LarigauderieKrCatiooffakspatiotmpatureieddnteciesAalsfotay99(）：245-252.  
+[59] Tjoelker M G，Reich P B, Oleksyn J. Changes in leaf nitrogen and carbohydrates underlie temperature and $\mathrm { C O } _ { 2 }$ acclimation of dark respiration infive boreal tree species.Plant，Cell & Environment，1999，22(7） :767-778.  
+[60] LeeTD,ReichPB,olstdPVAcliatioofafrespratiotompratureispidndeateospecifceafealublesgasdefnitrogen across three temperate deciduous tree species.Functional Ecology，2005，19(4）:640-647.  
+[61］王文杰，王慧梅，祖元刚，李雪莹，小池孝良.林木非同化器官与土壤呼吸的温度系数 $Q _ { 1 0 }$ 值的特征分析.植物生态学报，2005，29（4）：680-691.  
+[62]TjoelkerMG,OleksynJ，Reich PB.Modelingrespirationof vegetation:evidencefora generaltemperature-dependent $Q _ { 1 0 }$ . Global ChangeBiology，2001，7(2):223-230.

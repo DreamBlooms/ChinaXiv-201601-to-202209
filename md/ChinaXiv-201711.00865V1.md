@@ -1,0 +1,206 @@
+ChinaXiv合作期刊
+
+1 苎麻青贮替代苜蓿干草对奶牛生产性能、乳成分及血清指标的影响  
+2 吴端钦」魏仲珊 2.3高帅² 李志才²　曾国璋侯振平」 王延周」戴求仲 1.2\*  
+3 （1.中国农业科学院麻类研究所，长沙 410205；2.湖南省畜牧兽医研究所，长沙 410131;  
+4 3.湖南德人牧业有限公司，长沙 410131)  
+5 摘要：本试验旨在研究苎麻青贮替代饲粮中苜蓿干草对奶牛生产性能、乳成分及血清指标  
+6 的影响。选用24头体重、胎次、产奶量接近的健康荷斯坦奶牛，随机分为4组，每组6头，  
+7 各组以苎麻青贮分别等量替代基础饲粮中0（对照组） $3 3 \%$ （试验1组）、 $67 \%$ （试验2组）  
+8 和 $100 \%$ 的苜蓿干草（试验3组)。预试期 $1 4 \mathrm { ~ d ~ }$ ，正试期 $6 0 \mathrm { ~ d ~ }$ 。结果表明：1）苎麻青贮中  
+9 的粗蛋白质、粗脂肪、粗纤维以及粗灰分的含量均高于苜蓿干草。2）苎麻青贮替代苜蓿干  
+10 草对奶牛干物质采食量、产奶量及乳成分含量均无显著影响（ $. P { > } 0 . 0 5$ )。3）苎麻青贮替代  
+11 苜蓿干草对血清中总蛋白、白蛋白、葡萄糖、甘油三酯、谷胱甘肽过氧化物酶含量及谷草转  
+12 氨酶、谷丙转氨酶活性均无显著影响（ $_ { P > 0 . 0 5 }$ )。4）试验3组的血清尿素氮含量显著高于  
+13 试验1组和试验2组（ $P { < } 0 . 0 5 \$ )，与对照组之间无显著差异（ $_ { \cdot P > 0 . 0 5 }$ )。5）对照组和试验1  
+14 组血清总胆固醇含量显著高于试验2 组（ $P { < } 0 . 0 5 \rangle$ ，试验2组与试验3组之间无显著差异  
+15 （ $. P { > } 0 . 0 5$ )。6）随着苎麻青贮添加比例的增加，血清总抗氧化能力和超氧化物歧化酶含量逐  
+16 渐升高，试验3组显著高于对照组（ $P { < } 0 . 0 5 \$ )。综合得出，苎麻青贮可以替代奶牛饲粮中苜  
+17 蓿干草，而不影响生产性能、乳成分及血清指标，适宜的替代比例为 $3 3 \% { \sim } 6 7 \%$ 。  
+18 关键词：苎麻青贮；荷斯坦奶牛；生产性能；乳成分；血清生化指标；血清抗氧化指标  
+19 中图分类号：S823  
+20 我国是个农业大国，农业是国民经济的基础。2016 年农业部在《全国草食畜牧业发展  
+21 规划（2016-2020 年)》中指出，在奶牛生产方面应积极开辟南方产区，因地制宜推进南方  
+22 饲草产区的生产。同时，农业部在《全国种植业结构调整规划（2016-2020 年)》中明确指  
+23 出我国北方地区重点发展优质苜蓿、青贮玉米、饲用燕麦等饲草，而南方地区重点发展饲用  
+24 油菜、饲用苎麻、饲用桑叶等。  
+25 苎麻的生态适应性强，在南方不但可以正常生长，还能获得较高的生物量，且粗蛋白质  
+26 含量较高、氨基酸种类齐全，是一种潜在的非常规高蛋白质优质饲草[1-3]。朱涛涛[4]对苎麻  
+27 与我国南方地区广泛种植的桂牧1号杂交象草和多年生黑麦草2种牧草进行了品质比较研  
+28 究，发现苎麻粗蛋白质含量在 $1 8 \%$ 以上，显著高于2种牧草中的粗蛋白质含量。蒋桂韬等[5]  
+29 研究了不同苎麻与精料配合对朗德鹅生长性能的影响，发现在朗德鹅（ $2 \sim 4$ 周龄、 $5 \sim 7$   
+30 周龄）饲粮中添加不高于 $50 \%$ 的饲用苎麻并通过肉鹅后期补饲精料，对肉鹅生长性能无不  
+31 良影响，但是可以提高饲养效益。王贤芳等利用苎麻草粉替代蛋鸡饲粮中蛋白质饲料，配  
+32 制出含 $6 \%$ 苎麻草粉的饲粮进行蛋鸡饲养试验，发现与商品蛋鸡饲粮相比，饲喂含苎麻饲粮  
+33 产蛋率与淘汰率无显著变化，但是显著降低了蛋鸡死亡率。紫花苜蓿世界上重要的优质牧草  
+34 之一，富含植物蛋白质，另外其碳水化合物在瘤胃中经微生物发酵产生挥发性脂肪酸，是反  
+35 刍动物能量的主要来源[7]。但是，苜蓿喜温暖半干燥气候，最适生长日均温度为 $1 5 { \sim } 2 1 ~ ^ { \circ } \mathrm { C }$   
+36 忌土壤积水[8]。因此，南方地区的多雨、高热的自然环境条件不利于苜蓿的生长。而且，近  
+37 年来我国奶业发展迅速，对苜蓿的需求量日益增加，我国首蓿干草的产量和品质远远不能满  
+38 足市场的需要，使得每年需从国外进口大量的苜蓿。我国南方地区优质饲草的缺乏已成为  
+39 制约当地草牧业发展的瓶颈，开发新的优质饲草资源，大力发展草牧业，对于缓解人畜争粮  
+40 矛盾，促进南方畜牧业绿色可持续发展具有重要意义。传统的干草制备法在南方的湿热雨季  
+41 受到一定的限制，另外苎麻生长快，如果不及时收割则容易老化，而将苎麻青贮则是解决这  
+42 些问题的好方法。目前，对于如何在动物生产上科学、高效利用饲用苎麻青贮的相关研究报  
+43 道较少，而在奶牛生产中的应用更是鲜见报道。本试验旨在研究非常规粗饲料苎麻青贮替代  
+44 饲粮中首蓿干草对奶牛生产性能、乳成分及血清指标的影响，为开发饲用苎麻在奶牛生产上  
+45 的应用、促进南方草牧业的发展等提供理论依据。
+
+1材料与方法
+
+1.1 试验材料
+
+苎麻青贮制作：收获株高 $1 . 5 \mathrm { m }$ 左右的苎麻鲜草，利用揉搓切割机将苎麻整株切碎至3cm 左右，然后用打捆包膜一体机打捆、青贮，密封保存。
+
+# 1.2试验动物及饲养管理
+
+试验选用24头体重、胎次、产奶量接近的健康荷斯坦奶牛，随机分为4组，每组6头。
+
+试验牛集中在同一牛舍分组饲养，每组试验牛饲粮均配成利用率高的全混合日粮(total mixedratio，TMR）进行饲喂，每天05：30、17:30各饲喂1次，自由饮水，散放式管理。每天在挤奶厅挤奶2次（05:30-06:00、17:30-18:00)。试验期为 $7 4 \mathrm { d }$ ，其中预试期 $1 4 { \mathrm { d } }$ ，正试期 $6 0 \mathrm { d }$ 9
+
+1.2试验饲粮
+
+试验以NRC（2001）奶牛营养需要为参照依据配制试验饲粮。对照组饲喂基础饲粮;试验组以苎麻青贮分别等量替代基础饲粮中 $3 3 \%$ （试验1组） $67 \%$ （试验2组）和 $100 \%$ 的首蓿干草（试验3组)。试验饲粮组成及营养水平见表1。
+
+表1试验饲粮组成及营养水平（干物质基础）  
+Table1 Composition and nutrient levels of experimental diets (DMbasis) $\%$   
+
+<html><body><table><tr><td>项目</td><td>对照组</td><td>试验1组</td><td>试验2组</td><td>试验3组</td></tr><tr><td>Items</td><td>CON group</td><td>Trial group 1</td><td>Trial group 2</td><td>Trial group 3</td></tr><tr><td>玉米Corn</td><td>15.00</td><td>15.00</td><td>15.50</td><td>15.50</td></tr><tr><td>豆粕 Soybean meal</td><td>20.00</td><td>20.00</td><td>20.00</td><td>20.00</td></tr><tr><td>麦麸Wheat bran</td><td>4.50</td><td>4.50</td><td>4.50</td><td>4.50</td></tr><tr><td>干酒糟及其可溶物 DDGS 小苏打 NaHCO3</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td></tr><tr><td></td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td></tr><tr><td>碳酸钙CaCO3 食盐 NaCl</td><td>0.70</td><td>0.70</td><td>0.70</td><td>0.70</td></tr><tr><td>预混料 Premixl)</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>甜菜粕 Sugar beet meal</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>玉米青贮 Corn silage</td><td>5.00</td><td>5.00</td><td>4.50</td><td>4.50</td></tr><tr><td>苜蓿干草 Dried alfalfa hay</td><td>38.00</td><td>38.00</td><td>38.00</td><td>38.00</td></tr><tr><td></td><td>18.00</td><td>12.00</td><td>6.00</td><td></td></tr><tr><td>苎麻青贮 Ramie silage</td><td></td><td>6.00</td><td>12.00</td><td>18.00</td></tr><tr><td>总计Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels²)</td><td></td><td></td><td></td><td></td></tr><tr><td>泌乳净能 NE/（MJ/kg)</td><td>7.18</td><td>7.18</td><td>7.19</td><td>7.19</td></tr><tr><td>干物质DM</td><td>51.00</td><td>51.10</td><td>51.20</td><td>51.20</td></tr><tr><td>粗蛋白质CP</td><td>18.00</td><td>18.00</td><td>18.10</td><td>18.20</td></tr><tr><td>中性洗涤纤维 NDF</td><td>32.10</td><td>32.40</td><td>32.50</td><td>32.50</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>21.80</td><td>21.80</td><td>22.10</td><td>22.30</td></tr></table></body></html>
+
+1每千克预混料含有 One kilogram of premix contained the following:CuSO49 0o mg,FeSO4·HO 4 300
+
+2泌乳净能为计算值，其他营养水平为实测值。NEL was a calculated value,while the other nutrient levels weremeasured values.
+
+ChinaXiv合作期刊
+
+1.3测定指标与方法
+
+1.3.1饲料营养成分含量
+
+青贮成熟后，取苎麻青贮和苜蓿干草样品，进行营养成分含量分析。将采集的样品 $6 5 ^ { \circ } \mathrm { C }$ 条件下烘干，制成风干样。将制备的风干样粉碎，过40 目筛，参照张丽英[10]的方法进行常规营养成分分析。
+
+# 1.3.2采食量、产奶量及乳成分
+
+测定所取的饲粮样和剩料样的干物质（DM）含量，根据每天每组试验牛的投料量、剩料量及其DM含量计算每头牛的干物质采食量（DMI)。试验期间每天记录奶牛产奶量，并于正试期第60天采集奶样，按早、晚产奶量的比例共收集 $5 0 ~ \mathrm { m L }$ 乳样，加入重铬酸钾防腐剂（ $0 . 6 \mathrm { m g / m L }$ ）混合均匀， $4 ^ { \circ } \mathrm { C }$ 冷藏，备测。乳成分由德人牧业有限公司测定。
+
+1.3.3血清指标
+
+利用真空采血管于正试期第 60天晨饲前通过奶牛尾静脉采血，每头每次 $1 0 \mathrm { m L } , 2 0 0 0 \times g$ 离心 $1 0 \mathrm { m i n }$ ，取上层血清，于 ${ \boldsymbol { - 2 0 } } \ { \boldsymbol { \circ } } { \boldsymbol { \mathrm { C } } }$ 冷冻保存，备测。血清生化指标葡萄糖、总蛋白、白蛋白、甘油三酯、总胆固醇、尿素氮含量及谷丙转氨酶、谷草转氨酶活性由湖南省药物安全评价研究中心测定。血清抗氧化指标总抗氧化能力及超氧化物歧化酶和谷胱甘肽过氧化物酶含量采用南京建成生物工程研究所的试剂盒测定。
+
+# 1.3.4数据统计分析
+
+用 Microsoft Excel2013软件进行数据的录入处理。采用 SPSS21.0软件进行单因素方差分析，Duncan氏法多重比较进行组间差异显著性检验，显著性定为 $P { < } 0 . 0 5$ ，结果以平均值±标准误表示。
+
+2结果与分析
+
+2.1苎麻青贮及苜蓿干草的常规营养成分含量
+
+苎麻青贮成熟后，开包对其进行感官评定发现：苎麻青贮质地柔软，茎叶结构清晰可见，具芳香味，烘干后呈淡褐色。苎麻青贮与苜蓿干草的常规营养成分含量相比较可见，苎麻青贮中的粗蛋白质、粗脂肪、粗纤维以及粗灰分的含量均高于首蓿干草。
+
+表2苎麻青贮及苜蓿干草的常规营养成分含量(干物质基础）
+
+Iable 2Common nutrient component contents of ramie silage and alfalfa hay (DM basis)   
+
+<html><body><table><tr><td>项目Items</td><td>干物质 DM</td><td>粗蛋白质CP</td><td>粗脂肪 EE</td><td>粗纤维CF</td><td></td><td>粗灰分Ash</td></tr></table></body></html>
+
+ChinaXiv合作期刊
+
+<html><body><table><tr><td>苎麻青贮 Ramie silage</td><td>25.56</td><td>19.77</td><td>1.66</td><td>35.78</td><td>14.23</td></tr><tr><td>苜蓿干草Alfalfa hay</td><td>92.50</td><td>18.67</td><td>1.12</td><td>29.34</td><td>10.95</td></tr></table></body></html>
+
+93 2.2不同比例苎麻青贮的饲粮对生产性能的影响
+
+由表3可知，苎麻青贮替代苜蓿干草对奶牛DMI、产奶量及乳成分含量均无显著影响！ $P { > } 0 . 0 5 \$ ，但是随着苎麻青贮比例的增加，DMI有降低的趋势（ $\scriptstyle P = 0 . 5 6 7 .$ )，而产奶量却有增加的趋势（ $\scriptstyle P = 0 . 8 2 0 )$ ，乳体细胞数有降低的趋势（ $P { = } 0 . 6 3 3 \cdot$ ）°
+
+表3苎麻青贮对奶牛DMI、产奶量和乳成分的影响(干物质基础)
+
+98   
+
+<html><body><table><tr><td>项目 Items</td><td>对照组 CON group</td><td>试验1组 Trial group 1</td><td>试验2组 Trial group 2</td><td>试验3组 Trial group 3</td></tr><tr><td>干物质采食量 DMI/(kg/d)</td><td>24.51±2.38</td><td>23.41±2.48</td><td>23.16±2.92</td><td>21.76±2.60</td></tr><tr><td>产奶量 Milk yield/(kg/d)</td><td>21.73±1.15</td><td>22.41±1.91</td><td>23.54±2.13</td><td>22.39±1.86</td></tr><tr><td>乳蛋白率Milk protein percentage/%</td><td>3.49±0.08</td><td>3.23±0.21</td><td>3.30±0.22</td><td>3.52±0.19</td></tr><tr><td>乳脂率Milk fat percentage/%</td><td>2.54±0.16</td><td>2.87±0.47</td><td>2.93±0.24</td><td>2.45±0.24</td></tr><tr><td>乳糖率Lactose percentage/%</td><td>4.79±0.13</td><td>4.76±0.11</td><td>4.57±0.03</td><td>4.67±0.38</td></tr><tr><td>乳尿素氮MUN/%</td><td>12.03±1.19</td><td>11.75±1.07</td><td>13.88±1.23</td><td>12.73±0.78</td></tr><tr><td>乳体细胞数 Milk somatic cell count/(1o 个/mL)</td><td>118.75±56.93</td><td>100.75±29.65</td><td>104.00±29.27</td><td>98.67±68.42</td></tr><tr><td>乳干物质率 Milk DM percentage/%</td><td>10.73±0.49</td><td>10.82±0.29</td><td>11.00±0.89</td><td>9.86±0.24</td></tr></table></body></html>
+
+司行数据肩标不同小写字母表示差异显著（ $. P { < } 0 . 0 5$ )。下表同。
+
+Values in the same row with different small letter superscripts mean significant difference $P { < } 0 . 0 5$ ）.The same as below.
+
+2.3不同比例苎麻青贮的饲粮对血清指标的影响
+
+103 由表4可知，苎麻青贮对血清中总蛋白、白蛋白、葡萄糖、甘油三酯、谷胱甘肽过氧化  
+104 物酶含量及谷草转氨酶、谷丙转氨酶活性均无显著影响（ ${ \cdot } P { > } 0 . 0 5 { \rangle }$ 。试验3组的血清UN含  
+105 量显著高于试验1组和试验2组（ $P { < } 0 . 0 5 \mathrm { { ; } }$ ，但是与对照组之间无显著差异（ $P { > } 0 . 0 5 \$ ；对照  
+106 组和试验1组血清总胆固醇含量显著高于试验2组（ $P { < } 0 . 0 5 \mathrm { { ; } }$ ，而试验2组与试验3组之间  
+107 无显著差异（ $P { > } 0 . 0 5$ )。随着苎麻青贮添加比例的增加，血清的总抗氧化能力和超氧化物歧  
+108 化酶含量提高，试验3组显著高于对照组（ $P { < } 0 . 0 5 \$ )°
+
+Table 3Effects of ramie silage on DMI, milk yield and milk composition of dairy cows   
+表4苎麻青贮对奶牛血清指标的影响  
+Table 4Effects of ramie silage on serum parameters of dairy cows   
+
+<html><body><table><tr><td>项目</td><td>对照组</td><td>试验1组Trial</td><td>试验2组</td><td>试验3组</td></tr><tr><td>Items</td><td>CON group</td><td>group 1</td><td>Trial group 2</td><td>Trial group 3</td></tr><tr><td>总蛋白TP/(g/L)</td><td>72.00±3.46</td><td>82.00±2.08</td><td>75.00±4.04</td><td>80.00±3.51</td></tr></table></body></html>
+
+<html><body><table><tr><td>白蛋白ALB/(g/L)</td><td>34.73±2.79</td><td>38.33±2.24</td><td>35.80±0.87</td><td>36.60±1.91</td></tr><tr><td>尿素氮 UN/(mmol/L)</td><td>4.01±1.43ab</td><td>3.51±0.36b</td><td>3.64±0.21b</td><td>5.49±1.15a</td></tr><tr><td>总胆固醇 TC/(mmol/L)</td><td>6.02±0.20a</td><td>6.02±1.06a</td><td>4.32±0.18b</td><td>4.81±0.94ab</td></tr><tr><td>葡萄糖 GLU/(mmol/L)</td><td>3.70±0.15</td><td>3.79±0.29</td><td>3.69±0.19</td><td>3.92±0.21</td></tr><tr><td>甘油三酯 TG/(mmol/L)</td><td>0.14±0.01</td><td>0.12±0.05</td><td>0.12±0.03</td><td>0.11±0.03</td></tr><tr><td>谷草转氨酶 AST/(U/L)</td><td>64.00±2.65</td><td>72.33±7.51</td><td>71.00±17.69</td><td>72.67±4.73</td></tr><tr><td>谷丙转氨酶 ALT/(U/L)</td><td>27.00±7.81</td><td>30.33±3.51</td><td>27.33±9.02</td><td>28.00±6.56</td></tr><tr><td>总抗氧化能力TAOC/(U/mL)</td><td>4.51±0.23b</td><td>5.06±0.29b</td><td>5.29±0.28b</td><td>6.09±0.07a</td></tr><tr><td>超氧化物歧化酶 SOD/(ng/mL)</td><td>183.38±14.00c</td><td>212.997±1.55b</td><td>230.91±5.20b</td><td>262.19±1.17a</td></tr><tr><td>谷胱甘肽过氧化物酶 GSH-Px/(ng/mL)</td><td>46.46±0.42</td><td>45.92±2.60</td><td>47.07±0.35</td><td>49.68±1.01</td></tr></table></body></html>
+
+1113讨论
+
+3.1苎麻青贮与苜蓿干草常规营养成分含量的比较
+
+首蓿是一种多年生豆科牧草，蛋白质含量高，适口性好，而且其氨基酸含量丰富，组成比例接近动物性蛋白质，可以提供奶牛生产性能、改善乳品质等，在奶牛生产中广泛应用[1-13]。苜蓿中粗蛋白质含量一般为 $1 6 . 0 0 \% { \sim } 2 6 . 0 0 \%$ 、粗纤维含量为 $1 7 . 2 0 \% { \sim } 4 0 . 6 0 \% ^ { [ 1 4 ] } ,$ 苎麻不仅可以作为纤维用植物，也是一种高蛋白质优质饲草，而且在一年的生育期内可以多次刘割，因此生物量较高。有研究发现，苎麻中粗蛋白质含量为 $1 7 . 9 0 \% { \sim } 2 1 . 1 1 \% ^ { 1 5 ] }$ 、粗纤维含量为 $7 . 7 4 \% \sim 2 6 . 4 7 \% ^ { [ 1 6 ] }$ 。南方的奶业一直落后于北方，造成这个局面的原因除了高温、高湿等一些自然条件，南方地区缺乏如苜蓿、羊草等优质的粗饲料，粗饲料年供应不平衡等也是非常重要的制约要素[1]。因此，开发、筛选南方的优质蛋白质牧草资源，可为南方草牧业的发展打下坚实的物质基础。
+
+# 3.2苎麻青贮对奶牛生产性能的影响
+
+由于地域、气候等一些自然条件的限制，首蓿在我国南方远远不能满足养殖业的需求，探索苜蓿的替代牧草十分必要。有探索粗饲料菌糠、高羊茅替代苜蓿干草或苜蓿青贮对奶牛生产性能影响的研究，发现油菜秸秆菌糠可以部分替代苜蓿干草，对奶牛生产性能和肝功能无不良影响；高羊茅替代苜蓿青贮降低了奶牛DMI，但是对产奶量及乳成分没有影响[18-19]。De Toledo 等[20]在兔的饲粮中用 $1 5 \%$ 的苎麻代替苜蓿干草发现，2种饲料表现出良好的协同作用，改善了兔生长性能。在本试验中发现，随着苎麻青贮的替代比例的增加，DMI 有降低的趋势，可能是由于苎麻中粗纤维含量较高。本试验发现，苎麻青贮有降低乳中体细胞数的趋势，但是没有达到显著水平。苎麻根、叶就可用来入药，叶甘寒、无毒，具有散瘀、抗炎的作用[21]。本试验条件下，苎麻青贮替代奶牛饲粮中的首蓿干草对产奶量及乳成分没有
+
+ChinaXiv合作期刊
+
+显著影响，初步说明短期内苎麻青贮可以部分甚至全部替代苜蓿干草，而对奶牛长期生产的影响还需进一步开展相关的试验。
+
+3.3苎麻青贮对奶牛血清指标的影响
+
+血清UN 含量与粗蛋白质采食量、瘤胃降解蛋白质被微生物利用及体内蛋白质利用率相关，在体内当蛋白质利用率降低时，血清UN含量会增加，而血清UN含量低时，表明机体蛋白质合成率较高[22]。本试验中，试验3组中的血清UN 含量显著高于试验1组和试验 2组，可能由于其机体蛋白质合成率较低，而试验1组和试验2组血清UN含量较低，说明苎麻青贮与苜蓿干草具有一定的补充、协同作用，使得蛋白质利用率较高。苎麻叶富含有机酸、醛、酮类、酯类、甾醇类等化合物，其中有机酸是主要物质，不饱和脂肪酸的含量超过 $45 \%$ 而不饱和脂肪酸具有保持细胞的正常生理功能、降低血液中总胆固醇和甘油三酯等功效[23-24]。本试验发现，当苎麻青贮在奶牛饲粮中添加到一定量的时候，显著降低了血清中的总胆固醇含量。而且，苎麻青贮显著提高了血清总抗氧化能力和超氧化物歧化酶含量，说明苎麻具有缓解动物氧化应激的能力。
+
+4结论
+
+$\textcircled{1}$ 苎麻青贮营养价值均衡，尤其苎麻中粗蛋白质含量较高，替代苜蓿干草对奶牛产奶  
+量及乳成分没有显著影响；且具有降低奶牛血清中胆固醇含量、提高血清总抗氧化能力的作  
+用。$\textcircled{2}$ 苎麻青贮替代奶牛饲粮中首蓿干草的适宜比例为 $3 3 \% { \sim } 6 7 \%$ 。
+
+# 参考文献：
+
+[1] 吴端钦,唐守伟,朱四元,等.饲用苎麻产量和品质的影响因素及其在动物生产中的应用[J].中国饲料,2015(7):35-37.  
+[2] 郭婷,余玮,肖呈祥,等.饲用苎麻研究进展[J].作物研究,2012,26(6):730-733.  
+[3]KIPRIOTISE,HEPING X,VAFEIADAKIS T,et al.Ramie and kenaf as feed crops[J].IndustrialCrops and Products,2015,68:126-130.  
+[4] 朱涛涛.苎麻与南方主要牧草的饲用价值比较研究[D].硕士学位论文.北京:中国农业科学院,2014:11-25.  
+[5] 蒋桂韬,林谦,李闯,等.不同苎麻与精料配合比饲粮对朗德鹅生长性能和肠道黏膜形态结构发育的影响[J].家畜生态学报,2015,36(11):32-36.  
+[6] 王贤芳,揭雨成.蛋鸡苎麻配合饲料的效果试验[J].中国畜禽种业,2012(10):140-142.  
+[7] 许红,余莹,梁新平,等.苜蓿干草对杜寒杂交羊瘤胃发酵参数及十二指肠食糜氨基酸含量的影响[J].动物营养学报,2014,23(6):1689-1697.  
+[8] 林丽秀,白史且,张新全,等.中国南方紫花苜蓿引种适应性研究进展[J].安徽农业科学,2007,35(23):7159-7161.  
+[9] 孙启忠,玉柱,徐春城.我国苜蓿产业亟待振兴[J].草业科学,2012,29(2):314-319.  
+[10] 张丽英.饲料分析及饲料质量检测技术[M].3版.北京:北京农业大学出版社,2007.  
+[11]王石莹,李兆林,王坤龙,等.苜蓿青贮对泌乳牛产奶量和乳品质的影响[J].中国奶牛,2015(6):56-58.  
+[12]EUN JS,KELLEY A W,NEAL K,et al.Effects of altering alfalfa hay quality when feedingsteam-flaked versus high-moisture corn grain on ruminal fermentation and lactationalperformance of dairy cows[J].Journal of Dairy Science,2014,97(12):7833-7843.  
+[13] MANTHEY A K,KALSCHEUR K F,GARCIA A D,et al.Lactation performance of dairy cowsfedyeast-derived microbial proteinin low-and high-forage diets[J].Journal of DairyScience,2016,99(4):2775-2787.  
+[14] 雷永鹏,蒙昊,张磊,等.不同来源干苜蓿营养成分测定与分析[J].中国牛业科学,2015,41(3):8-11.  
+[15]曾日秋,洪建基,卢劲梅,等.饲用苎麻生长动态及其饲用品质研究[J].热带农业工程,2009,33(3):20-24.  
+[16] 彭玉梅,蔡敏,李雅玲,等.应用近红外光谱法测定苎麻粗纤维含量[J].中国麻业科学,2016,38(3):125-128.  
+[17] 张佩华,王加启,覃春富,等.湖南省奶牛养殖现状调研报告[J].中国奶牛,2011(4):23-28.  
+[18]齐永玲,王力生,程建波,等.菌糠替代苜蓿干草对奶牛生产性能及血清生化指标的影响[J].中国饲料,2013(11):10-12.  
+[19] BENDERR W,LOPESF,COOKD E,et al.Effects of partial replacement of corn and alfalfasilage with tall fescue hay on total-tract digestibility and lactation performance in dairy
+
+ChinaXiv合作期刊
+
+[20] DE TOLEDO G SP,DA SILVA L P,DE QUADROS AR B,et al.Productive performance of rabbits fed with diets containing ramie (Boehmeria nivea) hay in substitution to alfalfa (Medicago sativa) hay[C]/9th World Rabbit Congress.Verona:[s.n.],20o8:827-830.   
+[21]张宏岐,邹坤，汪鋆植,等.苎麻叶抗炎活性部位研究[J].中国民族医药杂 志,2009,15(4):37-39.   
+[22] 付聪,王洪荣,王梦芝,等.不同代谢葡萄糖水平饲粮对 8\~10 月龄后备奶牛生长发育、营养 物质消化率和血清生化指标的影响[J].动物营养学报,2014,26(9):2615-2622.   
+[23]闵勇,张薇,王洪,等.水苎麻叶挥发性成分分析及其抗菌活性研究[J].食品工业科 技,2011,32(7):86-87,90.   
+[24] LEE Y R,NHO JW,HWANG I G,et al.Chemical composition and antioxidant activity of ramie leaf (Boehmeria nivea L.)[J].Food Science and Biotechnology,20o9,18(5):1096-1099.   
+Effects of Replacing Different Partial Alfalfa Hay with Silage Ramie on Production Performance, Milk Composition and Serum Parameters of Dairy Cows WU Duanqin1WEI Zhongshan2.3GAO Shuai²LI Zhicai²ZENG Guozhang³HOU Zhenping1WANG Yanzhou1DAI Qiuzhong1,2\* (1.Institute ofBast Fiber Crops,Chinese Academy of Agricultrial Sciences,Changsha 410205,   
+China; 2.Hunan Institute ofAnimal Science and Veterinary Medicine,Changsha 410l31, China; 3.Hunan Deren Animal Husbandry Co.,Ltd.,Changsha 410131, China)   
+Abstract: This experiment was conducted to study the effects of replacing alfalfa hay with ramie   
+silage in diet on performance,milk composition and serum parameters of dairy cows.Twenty four   
+healthy Holstein cows with similar body weight, parity and milk yield were randomly divided into   
+four groups with 6 cows per group.Different proportions [O (control group), $3 3 \%$ (trial group 1),   
+$67 \%$ (trial group 2) and $100 \%$ (trial group 3)] of alfalfa hay in diet were replaced with equivalent   
+ramie silage.The pretrial lasted $1 4 { \mathrm { d } }$ ,and the trial lasted for $6 0 \mathrm { d }$ The results showed as follows: 1)   
+the contents of crude protein, ether extract, crude fiber and crude ash were higher in ramie silage
+
+C hinaXiv合作期刊
+
+than dried alfalfa hay.2) Dry matter intake,milk yield and milk composition contents were not significantly affected by replacing of alfalfa hay with ramie silage $( P { > } 0 . 0 5 )$ ).3)serum total protein, albumin,glucose,triglyceride and glutathione peroxidase contents,and aspartate aminotransferase and alanine transarninase activities were not significantly affected by replacing of alfalfa hay with ramiesilage $( P { > } 0 . 0 5 )$ .4) Serum urinary nitrogen content of trial group 3 was significantly higher than that of trial groups1 and 2 $( P { < } 0 . 0 5 )$ ,but no significant difference with control group was found $( P { > } 0 . 0 5 )$ .5） Serum total cholesterol content of control group and trial group 1 was significantly higher than that of trial group 2 $( P { < } 0 . 0 5 )$ ,and there was no significant difference between trial groups 2 and 3 $( P { > } 0 . 0 5 )$ .6) With the increase of ramie silage proportion,serum of total antioxidant capacity and superoxide dismutase content were increased,and trial group 3 was significantly higher than control group $( P { < } 0 . 0 5 )$ .Therefore,alfalfa hay can be replaced with silage ramie in diary diet without effects on performance,milk composition and serum parameters,and the optimum proportion was $3 3 \%$ to $67 \%$ under this experimental conditions. Key words: ramie silage；Holstein cow；performance；milk composition； serum biochemical parameter; serum antioxidant parameter

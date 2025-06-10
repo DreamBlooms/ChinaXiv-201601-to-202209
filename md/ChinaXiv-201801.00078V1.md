@@ -1,0 +1,270 @@
+编号：162001
+
+# 大型往复压缩机管道系统气流脉动的计算
+
+熊怡君1 张晓青」　张栋」　侯小兵² 叶君超2（1．华中科技大学能源与动力工程学院，武汉，4300742．中石化石油机械股份有限公司压缩机分公司，武汉，430041)
+
+摘要：针对某大型往复活塞压缩机管系结构，进行了气流脉动的计算与分析。以平面波动理论为基础，采用网络传递矩阵方法，建立了该复杂管系气流脉动的网络分析模型，并开发了相应的分析软件程序代码。计算了该管道系统气柱的前十阶固有频率，并判断管系是否共振，同时，计算了管道系统中各节点的脉动压力，计算结果满足API618标准的要求。复杂管系气流脉动的研究，将为管系的设计、气流脉动与管道振动的拟制与消除提供理论依据。
+
+关键词：往复压缩机；平面波动理论；网络传递矩阵；气柱固有频率；脉动压力中图分类号：TH457 文献标识码：A
+
+# Calculation of Gas Pulsation in Large Reciprocating Compressor Piping System
+
+XIONG Yi-Jun1 ZHANG Xiao-Qing1 ZHANG Dong1HOU Xiao-Bing²YE Jun-Chao² (1.SchoolofEnergyand PowerEngineering,Huazhong UniversityofScience and Technology,Wuhan,43o074,China; 2. Sinopec Petroleum Machinery Limited by Share Ltd Compressor Branch, Wuhan, 430041, China)
+
+Abstract: The calculation and analysis of gas pulsation are carred out for a large reciprocating compressor piping system.Based on the theory of plane wave,a network analytical model of gas pulsation for the complex piping system of one large reciprocating compressor is established using the network transfer matrix method,and the corresponding analytical program code is developed.The first ten order of gas natural frequencies are calculated,and the estimate is made about the resonant situation of piping system. At the same time,the pulsating pressure at each calculating node of the pipeline system is calculated.The calculation results demonstrate that the requirements in API 618 for the gas pulsating in the piping system are met.This research would provide the theoretical basis not only for the design ofthe piping system,but also for the control of the gas pulsation as wellas the pipeline vibration.
+
+Key words: Reciprocating compresor; Plane wave theory； Network transfer matrix; Gas natural frequency: Pulsating pressure
+
+# 0引言
+
+大型往复活塞式压缩机作为压缩和输送介质的动力源，广泛应用于石油、化工、制冷等领域。由于运输尺寸、重量和占地面积的限制，对大型往复压缩机的结构紧凑性、可靠性和运行稳定性的要求越来越高。但是，由于压缩机间歇性的吸、排气，会使管道内产生较强烈的气流脉动，气流脉动不仅会影响压缩机的工作性能，还会引起管道振动，对生产安全造成很大的威胁。因此，研究气流脉动的产生机理，计算气流脉动声场分布，无论是对主动控制和抑制压缩机组的气流脉动，以及减小或消除管道振动，还是提高运行的经济性，均具有重要的工程实用价值和现实意义。
+
+近年来国内外对于气流脉动的研究，主要采用转移矩阵法[1]、有限元法[2]、声电模拟法[3]、CFD法[4]和一维时域流动求解法[5]以及商业软件 BentleyPULS。PULS是国外专门用于管路气柱分析的软件，目前已被国外市场垄断，不仅购买价格昂贵，而且软件的更新也花费巨大，因此，开发自主气流脉动分析软件具有极其重要的意义。转移矩阵法，也常称为网络传递矩阵方法，是目前计算压缩机管道气流脉动最为实用的一种适于工程设计与分析的计算方法。西安交通大学对此方面的研究具有重大贡献[1]，特别是在气柱固有频率、气流脉动、压力脉动的计算方面，成功解决了一些实际问题。李志博[通过转移矩阵法，获得任意复杂管系的固有频率及该管系任意位置的脉动波形和脉动幅值，通过比较计算结果与实测值，发现该方法有较高的精度。徐斌等人对级间管路气流脉动做了深入细致的研究[7]，并针对传递矩阵法模型计算精度不足的问题对模型进行了修正[8]，并进行实际测量，十分具有指导意义。樊艮[9]基于传递矩阵法计算出气柱固有频率，研究了管道气流脉动的控制方法，有效降低了压缩机组出口管道和相应附件的振动，保证机组整体安全稳定运行，意义重大。
+
+本文基于平面波动理论，采用网络传递矩阵方法，编制了气流脉动分析程序，对某企业的大型往复式压缩机管道系统的气流脉动进行了分析计算，得到管系气柱的各阶固有频率，并判断管系是否共振，以及网络元件各节点处的脉动压力，计算结果与API618标准进行了比较，可以判断管系的设计是否合理。为压缩机组管系的设计和振动抑制，提供了理论依据和改进的方向。
+
+# 1数学模型
+
+对于气流脉动的研究主要分为两部分：计算气柱的固有频率，使其避开压缩机激振频率的共振频带（ $0 . 8 { \sim } 1 . 2 ) \$ f；计算气流的脉动压力，使其控制在标准范围内。本文采用网络传递矩阵法计算气柱的固有频率和气流的脉动压力。
+
+# 1.1气柱固有频率计算数学模型
+
+正常情况下，管道中气流压力的脉动值相对于均压的平均值是一个很小的数值（按双振幅计，一般在 $8 \%$ 以内)，符合平面波动理论的假设，因此，往复式压缩机管道内的气流脉动可以采用平面波动理论来分析。
+
+根据气体的连续方程、运动方程和波动方程，略去平均气流速度，可以得到平面波动方程[1]
+
+$$
+\frac { \hat { \sigma } ^ { 2 } p _ { t } } { \hat { \sigma } t ^ { 2 } } = a ^ { 2 } \frac { \hat { \sigma } ^ { 2 } p _ { t } } { \hat { \sigma } x ^ { 2 } }
+$$
+
+其解为
+
+$$
+p _ { t } ^ { * } = A ^ { * } e ^ { j w \left( t - x / a \right) } + B ^ { * } e ^ { j w \left( t + x / a \right) }
+$$
+
+在平均气流速度 $u _ { 0 } = 0$ 的情况下，根据运动方程式（3）和波动方程式（4）
+
+$$
+\frac { \partial u _ { t } } { \partial t } = - \frac { 1 } { \rho _ { \scriptscriptstyle 0 } } \frac { \partial p _ { \scriptscriptstyle t } } { \partial x }
+$$
+
+$$
+\frac { \partial p _ { t } } { \partial t } + \rho _ { 0 } a ^ { 2 } \frac { \partial u _ { t } } { \partial x } = 0
+$$
+
+可得，
+
+$$
+u _ { t } ^ { * } = \frac { 1 } { \rho a } \Bigg ( A ^ { * } e ^ { j w ( t - \frac { x } { a } ) } - B ^ { * } e ^ { j w ( t - \frac { x } { a } ) } \Bigg )
+$$
+
+式中， $\boldsymbol { p } _ { t } ^ { * }$ ，脉动压力， $\boldsymbol { P a } \boldsymbol { : } \boldsymbol { u } _ { t } ^ { * }$ ，脉动速度，$m / s$ ； $\rho$ ，气体的密度， $k g / m ^ { 3 }$ ； $\mathbf { \Omega } _ { a }$ ，气体声速，$m / s$ ； $\boldsymbol { A } ^ { * }$ 、 $\boldsymbol { B } ^ { * }$ ，复数常数，由管道的端点条件确定。
+
+复杂的管道系统可以看成是由等截面管、容器、汇流点、异径管等基本管道元件组成，根据网络传输矩阵，可以建立各元件之间节点处的脉动压力和脉动速度之间的关系。假设压缩机管道系统起始端和末端的脉动压力和脉动速度分别为pi、u\`P、u，则有传输矩阵式（6)。
+
+$$
+{ \left[ { \boldsymbol { p } _ { 2 } } \right] } = \boldsymbol { M } _ { 1 } \cdot \boldsymbol { M } _ { 2 } \cdot \cdot \cdot \boldsymbol { M } _ { n } \left[ \boldsymbol { p } _ { 1 } \right]
+$$
+
+式中， ${ \pmb M } _ { i }$ 为各管道元件的传输矩阵，根据边界条件即可得到管系气柱的固有频率方程，利用Matlab编程即可算出管道系统的各阶气柱固有频率。
+
+# 1.2脉动压力计算数学模型
+
+为计算压力脉动量，必须考虑阻尼。
+
+线性阻尼波动方程为：
+
+$$
+\frac { \hat { \sigma } ^ { 2 } p _ { t } } { \hat { \sigma } x ^ { 2 } } - \frac { R } { a ^ { 2 } } \frac { \hat { \sigma } p _ { t } } { \hat { \sigma } _ { t } } - \frac { 1 } { a ^ { 2 } } \frac { \hat { \sigma } ^ { 2 } p _ { t } } { \hat { \sigma } t ^ { 2 } } = 0
+$$
+
+式中， $R$ ，管道沿程的阻尼系数，其表达式为$R = 4 \lambda u _ { \mathrm { 0 } } / D$ ； $\lambda$ ，气体与管壁间的摩擦系数； $D$ ，管道内径， $\mathrm { ~ m ~ }$ ； $u _ { 0 }$ ，管道气流的平均气流速度，$\mathrm { m / s }$ 。
+
+方程（7）的解为：
+
+# WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538
+
+$$
+\boldsymbol { p _ { t } ^ { * } } = \boldsymbol { \left[ A ^ { * } e ^ { ( \alpha + j k ) x } + B ^ { * } e ^ { - ( \alpha + j k ) x } \right] } e ^ { j w t }
+$$
+
+式中， $w$ ，脉动的圆频率； $\alpha = R / ( 2 a )$ ：$k = w / a$ 。
+
+首先对压缩机的吸、排气曲线进行谐量分析，得到各阶脉动质量流量，然后，根据各元件的传输矩阵得到管系总的传输矩阵，进而求出各阶脉动压力，最后，将各阶脉动压力加以叠加，可得到管系内任一点的脉动压力。各通用元件的网络传递矩阵可以参考文献[1]。
+
+# 2气流脉动计算与分析
+
+# 2.1网络计算模型
+
+压缩机气缸排列为对称平衡式，6列6缸，双作用。管道系统内的介质是混合工艺气，平均分子量为 $1 7 . 3 ~ \mathrm { g / m o l }$ 。压缩机转速为 $9 9 4 ~ \mathrm { { \ r / m i n } }$ ，进气压力为2MPa，排气压力为6MPa，进气温度为16$\mathrm { { ^ \circ C } }$ ，排气温度为 $9 3 . 9 \mathrm { ~ \ ^ ~ { ~ \circ ~ } C ~ }$ 。
+
+计算和建模中，首先对该压缩机组排气管道系统作如下假定：
+
+（1）忽略系统中的测温和测压装置；（2）将阀门看作变截面，过滤器、洗涤罐和缓冲罐看作体积元件；（3）冷凝器简化为由两个前端管箱、后端管箱和两根连接管五部分组成，前、后端管箱看作体积元件，连接管看作等截面管；（4）不考虑法兰，常开阀门均看作通管；（5）不考虑排污系统以及放空管路对气柱的影响。
+
+按照以上假定，对实际管道系统进行了简化，简化结果如图1所示，即为分析管系气流脉动的网络阻抗模型。
+
+![](images/443ee72919d2cf24caa393c914108382bc145d0d630df31e827fb872da0479ea.jpg)  
+图1管路系统网络模型  
+Fig.1Network model of pipeline system
+
+在气流脉动分析时，该管路系统被划分为45个单元，46个节点，其中节点1、3、5、12、14、16分别为六个气缸的排气端，节点40为声学开口边界条件（工艺气出口)，节点46为声学闭口边界条件（氮气置换口，一般情况下该分支管路上的阀门关闭)。
+
+# 2.2气柱固有频率的计算
+
+对于声学上的开口有脉动压力 $p = 0$ ，声学上的闭口有脉动速度 $u = 0$ ，把端点不为零的 $p$ 或 $u$ 设为1，与气缸相连的管路一端看成是闭端。将$0 . 8 { \sim } 1 . 2$ 倍气柱固有频率之间的区域定义为共振区。
+
+根据传输矩阵法计算出排气管道系统内气柱的前十阶固有频率 $f$ 及共振区域 $( 0 . 8 \sim 1 . 2 ) f$ ，见表1所示。
+
+表1气柱固有频率及共振区 Table1 Gas natural frequency and resonance region   
+
+<html><body><table><tr><td>n</td><td>f/ Hz</td><td>(0.8~1.2)f/Hz</td></tr><tr><td>1</td><td>0.6958</td><td>0.56~0.83</td></tr><tr><td>2</td><td>2.3586</td><td>1.89~2.83</td></tr><tr><td>3</td><td>3.1020</td><td>2.48~3.72</td></tr><tr><td>4</td><td>5.1612</td><td>4.13~6.19</td></tr><tr><td>5</td><td>7.9449</td><td>6.36~9.53</td></tr><tr><td>6</td><td>9.9331</td><td>7.95~11.92</td></tr><tr><td>7</td><td>12.6257</td><td>10.10~15.15</td></tr></table></body></html>
+
+# WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538
+
+<html><body><table><tr><td>8</td><td>15.3800</td><td>12.30~18.46</td></tr><tr><td>9</td><td>17.8260</td><td>14.26~21.39</td></tr><tr><td>10</td><td>19.1640</td><td>15.33~23.00</td></tr></table></body></html>
+
+压缩机的激发频率 $f _ { e x }$ 按（9）计算，
+
+$$
+f _ { e x } = \frac { m N } { 6 0 }
+$$
+
+式中， $N$ ，压缩机转速， $\mathbf { r } / \mathrm { m i n }$ ； $\mathbf { \nabla } m$ ，单作用时等于1，双作用时等于2。
+
+由此计算的压缩机的主激发频率为 $3 3 . 1 3 ~ \mathrm { ~ H z }$ 通过计算结果可以看出，压缩机的激发频率有效的避开了气柱前十阶共振区，说明不会引起压缩机与管道内的气柱共振。
+
+# 2.3脉动压力的计算
+
+# 2.3.1压力脉动的控制标准
+
+压力脉动的程度用压力不均匀度 $\delta$ 来评价，即，
+
+$$
+\delta = \frac { P _ { \mathrm { m a x } } - P _ { \mathrm { m i n } } } { P _ { \mathrm { 0 } } } = \frac { 2 \Delta P } { P _ { \mathrm { 0 } } }
+$$
+
+式中， $P _ { \mathrm { m a x } }$ ，气体瞬时压力最大值， $\mathbf { M P a }$ ； $P _ { \mathrm { m i n } }$ ，气体瞬时压力最小值， $\mathbf { M P a }$ ； $p _ { 0 }$ ，气体平均压力值，，MPa； $\Delta p$ ，压力脉动最大幅值， $\mathbf { M P a }$ 。且有， $P _ { 0 } = \big ( P _ { \mathrm { m a x } } + P _ { \mathrm { m i n } } \big ) \big / 2$ ， $\Delta P = \big ( P _ { \operatorname* { m a x } } - P _ { \operatorname* { m i n } } \big ) \big / 2$ ，所以 $\Delta P = P _ { 0 } \delta / 2$ 。
+
+根据2007年发布的第五版API618，系统中各处的压力脉动控制标准概述如下[10]。
+
+（a）压缩机气缸法兰最大许用压力脉动
+
+压缩机气缸法兰处未经滤波的压力脉动不均匀度应限制在 $7 \%$ 以下或小于下面公式的计算值。
+
+$$
+\left[ \delta \right] = 0 . 0 3 R \times 1 0 0 \%
+$$
+
+式中， $R$ ，级压力比。
+
+（b）缓冲装置管侧接管处或接管以外的最大许用脉动范围
+
+缓冲装置应将缓冲装置管侧的压力不均匀度限制在式（12）范围内，
+
+$$
+[ \delta ] = \sqrt { a / 3 5 0 } \mathrm { ( } \frac { 4 0 0 } { \sqrt { 1 0 \times P _ { \mathrm { L } } \times D _ { \mathrm { I } } \times f } } \mathrm { ) }
+$$
+
+式中， $\mathbf { \Omega } _ { a }$ ，气体的音速， $\mathrm { m / s }$ ； $P _ { \mathrm { L } }$ ，管路平均绝对压力，MPa； $D _ { \mathrm { { I } } }$ ，管子内径， $\mathrm { m m }$ ； $f$ ，脉动频率， $\mathrm { H z }$ 。
+
+# 2.3.2脉动速度谐量分析
+
+节点1、3、5、12、14、16为压缩机排气端边界条件，脉动速度为已知，首先对脉动速度和脉动质量流量进行傅里叶谐量分析，节点1处的脉动速度和脉动质量流量前10阶谐量如表2所示。其余排气端点的各阶脉动速度的谐量系数不同，但是幅值都与节点1处相同，在此不再一一列出。由表中可以看出，对双作用气缸来说，最大幅值的谐量为第2阶，其频率就是激发主频率。
+
+表2节点1脉动速度和脉动质量流量前10阶谐量  
+Table 2 The first 1O order of harmonics for the pulsating velocity and mass flow rate at node 1   
+
+<html><body><table><tr><td colspan="7">Tabie2Tne ouisat Tateatnode</td></tr><tr><td rowspan="2">n</td><td>an/m:s-1</td><td>脉动速度分量 b/m-s-1</td><td>Cn/m·s-1</td><td>5/g-1</td><td>脉动质量流量分量 5b/kg.s-1</td><td>5c/kgs-1</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1</td><td>0.2534</td><td>-0.2132</td><td>0.3312</td><td>0.1328</td><td>-0.1117</td><td>0.1736</td></tr><tr><td>2</td><td>0.0284</td><td>-2.4228</td><td>2.4230</td><td>0.0149</td><td>-1.2697</td><td>1.2697</td></tr><tr><td>3</td><td>-0.1230</td><td>-0.1997</td><td>0.2346</td><td>-0.0645</td><td>-0.1047</td><td>0.1229</td></tr><tr><td>4</td><td>-1.4266</td><td>0.1531</td><td>1.4348 0.1016</td><td>-0.7476 -0.0455</td><td>0.0803 0.0278</td><td>0.7519 0.0533</td></tr><tr><td>5</td><td>-0.0867</td><td>0.0530 0.4487</td><td>0.6291</td><td>0.2311</td><td></td><td>0.3297</td></tr><tr><td>6</td><td>0.4410 0.0268</td><td>-0.0075</td><td>0.0278</td><td>0.0140</td><td>0.2351 -0.0039</td><td></td></tr><tr><td>7</td><td></td><td></td><td></td><td></td><td></td><td>0.0146</td></tr><tr><td>8</td><td>-0.1369</td><td>-0.5336</td><td>0.5509</td><td>-0.0717</td><td>-0.2796</td><td>0.2887</td></tr></table></body></html>
+
+# WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538
+
+<html><body><table><tr><td>9</td><td>-0.0391</td><td>-0.0172</td><td>0.0427</td><td>-0.0205</td><td>-0.0090</td><td>0.0224</td></tr><tr><td>10</td><td>-0.3073</td><td>0.3382</td><td>0.4570</td><td>-0.1610</td><td>0.1772</td><td>0.2395</td></tr></table></body></html>
+
+图2为一个周期内脉动速度的曲线图。从周期内脉动速度曲线图可以看出该图形符合双作用气缸的排气速度规律。同时，也可以看出在压缩机的轴侧和盖侧的脉动速度幅值是不对称的，这是由于轴侧活塞杆占据了一定的气缸容积，结构不对称导致的。
+
+![](images/661c00bdf9bf37904e942387bf17d0653a704cafc0b7333fb8f3fd735aa8f132.jpg)  
+图2脉动速度曲线Fig.2 Pulsating velocity curve
+
+# 2.3.3压力不均匀度的计算
+
+根据各元件的单元传输矩阵就可以得到各点各阶脉动压力谐量，由于节点太多，在此只列出压缩机排气端点和缓冲罐出口处的压力幅值，如表3和表4所示。
+
+表3压缩机排气端点1的压力幅值  
+
+<html><body><table><tr><td>n</td><td>Re/Pa</td><td>Im/Pa</td><td>Pm/Pa</td><td>d/rad</td></tr><tr><td>1</td><td>1.92</td><td>125.45</td><td>125.47</td><td>1.5555</td></tr><tr><td>2</td><td>1.67</td><td>700.35</td><td>700.54</td><td>1.5470</td></tr><tr><td>3</td><td>0.97</td><td>25.65</td><td>25.67</td><td>1.5328</td></tr><tr><td>4</td><td>2.66</td><td>95.15</td><td>95.19</td><td>1.5428</td></tr><tr><td>5</td><td>0.94</td><td>10.88</td><td>10.92</td><td>1.4844</td></tr><tr><td>6</td><td>-36.94</td><td>-255.35</td><td>258.01</td><td>-1.7145</td></tr><tr><td>7</td><td>-2.15</td><td>-6.34</td><td>6.70</td><td>-1.8976</td></tr><tr><td>8</td><td>392.05</td><td>-300.44</td><td>493.92</td><td>-0.6539</td></tr></table></body></html>
+
+表中， $R e$ ，解的实部；Im，解的虚部； $\boldsymbol { P _ { m } }$ ，压力幅值；d，相位角。
+
+将各阶脉动压力幅值按它们的相位关系叠加起来，得出端点1总的压力波形图，见图3。其中，脉动压力最大值为 $8 1 7 0 0 \mathrm { P a }$ ，最小值为-102910Pa，最大最小脉动压力分别出现在转角2.26rad和5.82rad处。管内平均压力为 $6 \mathrm { M P a }$ ，其压力不均匀度为 $3 . 0 8 \%$ 。
+
+![](images/ace162955d724f42fbd67a0cf2d7052acf5dd2042724c8a48c7c00e26ec8b1ec.jpg)  
+图3压缩机排气端点1的压力波形图 Fig.3Pressure waveform of node1 at exhaust pore
+
+Table 3 Pressure amplitude of node 1 at exhaust pore   
+表4缓冲罐出口点7的压力幅值  
+Table 4 Pressure amplitude of node 7 at the outlet of the buffer   
+
+<html><body><table><tr><td>n</td><td>Re/Pa</td><td>Im/Pa</td><td>Pm/Pa</td><td>d/rad</td></tr><tr><td>1</td><td>176.18</td><td>587.8</td><td>613.64</td><td>1.2796</td></tr><tr><td>2</td><td>1504</td><td>9369.5</td><td>9489.4</td><td>1.4116</td></tr><tr><td>3</td><td>184.45</td><td>1567.7</td><td>1578.5</td><td>1.4537</td></tr><tr><td>4</td><td>1606.8</td><td>14402</td><td>14491</td><td>1.4597</td></tr><tr><td>5</td><td>187.80</td><td>1517.7</td><td>1529.3</td><td>1.4477</td></tr><tr><td>6</td><td>2547</td><td>15378</td><td>15588</td><td>1.4067</td></tr><tr><td>7</td><td>-564.43</td><td>-1512.5</td><td>1614.4</td><td>-1.9280</td></tr><tr><td>8</td><td>55221</td><td>-46916</td><td>72460</td><td>-0.7043</td></tr></table></body></html>
+
+将各阶脉动压力幅值按它们的相位关系叠加起来，得出端点7总的压力波形图，见图4。其中脉动压力最大值为 $1 5 6 4 . 6 \mathrm { P a }$ ，最小值为- $1 2 0 0 \ \mathrm { \ p _ { a } }$ ，其中，最大最小脉动压力分别出现在转角0.71rad 和5.74rad处。管内平均压力为 $6 \mathrm { M P a }$ ，其压力不均匀度为 $0 . 0 4 6 \%$ 。
+
+# WORD批量转PDF工具-未注册 注册码购买联系QQ:3049816538
+
+![](images/e68661206b386d0a24cab2ebe6f62dd214ff285ee7e64593c37f288cd4a3b233.jpg)  
+图4缓冲罐出口点7的压力波形图  
+Fig.4Pressurewaveformof node7at the outletof the buffer
+
+依次类推，可以求出管道中各点脉动压力的最大值和最小值，进而求出压力不均匀度，并与API618标准进行比较，如表5所示。
+
+表5各节点的压力不均匀度  
+Table 5 Pressure un-uniformity of each node   
+
+<html><body><table><tr><td>节点</td><td>节点位置</td><td>P'maxPa</td><td>P'mnPa</td><td>P0 /MPa</td><td>81%</td><td>801%</td></tr><tr><td>1</td><td>气缸排气端口</td><td>81700</td><td>-102910</td><td>6</td><td>3.08</td><td>7</td></tr><tr><td>3</td><td>气缸排气端口</td><td>82030</td><td>-100800</td><td>6</td><td>3.05</td><td>7</td></tr><tr><td>5</td><td>气缸排气端口</td><td>85100</td><td>99990</td><td>6</td><td>3.08</td><td>7</td></tr><tr><td>7</td><td>缓冲罐出口</td><td>1564.6</td><td>-1200</td><td>6</td><td>0.046</td><td>0.51</td></tr><tr><td>12</td><td>气缸排气端口</td><td>97850</td><td>-88050</td><td>6</td><td>3.10</td><td>7</td></tr><tr><td>14</td><td>气缸排气端口</td><td>81700</td><td>-98070</td><td>6</td><td>3.00</td><td>7</td></tr><tr><td>16</td><td>气缸排气端口</td><td>82820</td><td>-101250</td><td>6</td><td>3.07</td><td>7</td></tr><tr><td>18</td><td>缓冲罐出口</td><td>1234</td><td>-982</td><td>6</td><td>0.037</td><td>0.51</td></tr></table></body></html>
+
+表中， $\boldsymbol { P } _ { \mathrm { \operatorname* { m a x } } } ^ { * }$ ，脉动压力幅值最大值； $P _ { \mathrm { \ m i n } } ^ { * }$ ，脉动压力幅值最小值； $P _ { 0 }$ ，脉动压力平均值； $\delta$ ，压力不均匀度； $\delta _ { \phantom { } _ { 0 } }$ ，API618允许值。
+
+从表中可以看出，经过缓冲罐后压力不均匀度远小于API618允许值，因此，后面的管道中压力不均匀度也一定能够满足标准要求。
+
+# 3结论
+
+本文以平面波动理论为基础，建立了大型往复活塞式压缩机复杂管系气流脉动分析的数学模型和网络传递分析模型，运用MATLAB编制了气流脉动分析程序。应用该程序对某企业大型往复式压缩机出口管道系统气流脉动进行了分析计算，获得了气柱固有频率和脉动压力的计算结果，并对该管道系统设计的合理性进行判断与分析。
+
+研究结果表明，该管道系统的前十阶气柱固有频率范围在 $0 . 7 { \sim } 1 9 . 1 6$ $\mathrm { H z }$ 之间，可以很好的避开压缩机的激发频率 $3 3 . 1 3 ~ \mathrm { ~ H z }$ ，说明该系统不会产生低阶气柱共振。另外，该管道系统压缩机各排气端口的压力不均匀度 $\delta \leq 3 . 1 \%$ ，小于API618标准的允许值7 $\%$ ，并且缓冲罐出口的压力不均匀度$\delta \leq 0 . 0 4 6 \%$ ，远小于API618标准的允许值0.51
+
+$9 \%$ ，这说明该管道系统设计合理，不会引起较强的振动。
+
+通过开发的气流脉动分析软件程序代码，可以得到管道气柱的固有频率和各节点的脉动压力及压力不均匀度，能够较好地预测压缩机管道系统中的气流脉动，为管系的设计和气流脉动的消减提供理论依据，保障机组的安全高效运行。
+
+# 致谢
+
+本论文得到国家高技术船舶科研计划项目的资助（项目
+
+号：0214120042），特此感谢！
+
+# 参考文献
+
+[1]党锡淇，陈守五.活塞式压缩机气流脉动与管道振动 [M].
+
+西安：西安交通大学出版社,1984:7-17.
+
+Dang Xiqi,Chen Shouwu. Gas Pulsation and Vibration in Reciprocating Compressor Piping System [M],Xi'an:Xi'an Jiaotong University Press,1984: 7-17.
+
+# WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538
+
+[2] 肖正华．往复式压缩机管系振动与气流脉动的模拟分析 及实验研究 [D]．兰州：兰州交通大学,2014. Xiao Zhenghua. Reciprocating Compressor Piping Vibration and Flow Fluctuation With Simulation Analysisand Experiment Research [D], Lanzhou: Lanzhou Jiaotong University, 2014.   
+[3]王东东,梁灿,白文杰,等．往复压缩机管道系统气柱固有 频率的声电模拟 [J].压缩机技术.2015(A01):6-11. Wang Dongdong,Liang Can,Bai Wenjie, et al. Acousto - electricSimulation on GasNatural Frequencyin ReciprocatingCom-pressorPiping[J]. Compressor Technology. 2015(A01):6-11.   
+[4] Cyklis P.A CFD Based Identification Method of the Transmittances for the Pulsating Gas Installation Element Part I:Theory [C]// Proceedings of the 2002 Purdue Compressor Technology Conference. West Lafayette， in USA: Purdue University,2002: 15-16.   
+[5] Tweten D,Nored M, Brun K. The Physics of Pulsations [C]// Gas Machinery Conference 2008 Proceedings, Albuquerque. NM. 2008.   
+[6] 李志博．活塞压缩机管道系统气流脉动数值模拟及实验 研 究[D]．西安：西安交通大学,2003. Li Zhibo. Numerical Simulation and Experimental Study on Airflow Pulsation in Pipeline System of Piston Compressor [D]. Xi'an ： Xi'an Jiaotong University. 2003   
+[7]徐斌，冯全科，余小玲．往复压缩机级间管路气流脉动 研 究[J]．压缩机技术.2009(03):1-3. Xu Bin,Feng Quanke,Yu Xiaoling. Study on Pressure Pulsation of Piping System on Reciprocating Compressor [J]. Compressor Technology. 2009(03): 1-3.   
+[8]徐斌，冯全科，余小玲．往复压缩机级间管路的振动研 究 [J]．压缩机技术.2010(01):3-6. Xu Bin， Feng Quanke， Yu Xiaoling. Reciprocating CompressorPipingSystemVibrationStudies[J]. Compressor Technology. 2010(01): 3-6.   
+[9]樊艮，回志澎．基于气柱共振的往复压缩机出口管道减 振 技术应用 [J]．压缩机技术.2015(4):21-25. Fan Gen,Hui Zhipeng.Application of Reciprocating Compressor OutletPipeline Vibration Technology Based on Gas Resonance [J]. Compressor Technology.2015(4): 21-   
+25. [10]American Petroleum Institute.Reciprocating Compressors for Petroleum, Chemical,and Gas Industry Services [S]. 5th ed.Washington DC,USA:API Publishing Services,2007:   
+47-51.
+
+# WORD批量转PDF工具-未注册 注册码购买联系QQ:3049816538
+
+# WORD批量转PDF工具-未注册 注册码购买联系QQ:3049816538

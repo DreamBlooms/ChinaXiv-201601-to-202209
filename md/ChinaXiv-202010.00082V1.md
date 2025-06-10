@@ -1,0 +1,358 @@
+# 员工正念对配偶家庭满意度和工作投入的影响
+
+倪丹」 刘琛琳」 郑晓明1('清华大学经济管理学院，北京100084)
+
+摘 要 文章基于资源保存理论，采用体验抽样法收集了一家商业银行114 名员工及其配偶的数据。结果表明，在个体内层面，员工正念通过员工情感联结策略的中介作用影响其配偶家庭满意度及第二天早上工作投入；在个体间层面的配偶家庭负面情感表达调节了员工正念与员工情感联结策略的关系及员工情感联结策略的中介作用，即配偶家庭负面情感表达水平越高，员工正念对员工情感联结策略的影响及员工情感联结策略的中介作用相对更弱。
+
+关键词正念，情感联结策略，家庭满意度，工作投入，家庭负面情感表达分类号B849:C93
+
+# 1问题提出
+
+随着正念实践在国内外企业中的逐步开展，管理学者对正念也投入了越来越多的关注。正念(mindfulness)指的是个体对当前的事件和体验保持一种不加评判的注意和觉察(Glomb et al.,2011)。尽管研究已充分证实正念在工作场所中的重要作用(Good et al.,2016)，但是大多数研究聚焦于正念的个体内(intrapersonal)效果，而有关个体间(interpersonal)效果的探讨仍然有限(Glomb et al.,2011;Montes-Maroto etal.,2018)，尤其是正念对配偶的影响。这一方面的缺失将在很大程度上阻碍我们对正念效果准确且深入的理解(Purser& Milillo,2015；郑晓明，倪丹,2018)。考虑到正念在本质上具有人际功能性的表征(Glomb et al.,2011; Good et al.,2016)，学者应充分考虑其在个体间所发挥的独特作用，进而拓展正念的人际后效的研究(张静等,2017；郑晓明，倪丹,2018)。除了跨个体的效果外，正念在跨领域过程中的效果也被学者们所强调(Glomb etal.,2011)。工作与家庭是成年人生活中的重要组成部分(Aryee＆ Luk,1996)，大量工作与家庭界面的研究已发现员工与配偶间的互动以及个体特征与状态对于双方的家庭和工作结果具有重要影响(e.g.,Wang et al.,2019; Xie et al.,2018; Zhao etal.,2019；高中华，赵晨,2014；马红宇等,2014；谢菊兰等,2017)。可见，系统地讨论正念在不同领域及跨领域过程中的作用显得尤为重要。然而，目前大多数的正念研究仅关注某一个领域(Glomb etal,2011; Good etal.,2016)，尤其是工作领域，而鲜有研究同时探讨了正念在不同领域中的作用(Reb etal., 2014)。
+
+鉴于此，本研究采用资源保存理论(Hobfoll,1989)，考察了个体内的员工正念对配偶家庭满意度(family satisfaction)及第二天早上工作投入(work engagement)的影响，包括个体内员工情感联结策略(strategic emotional connecting display)的中介作用及个体间配偶的家庭负面情感表达(family negativeemotional expression)的调节效果。资源保存理论指出，个体有动机投入和使用资源，而丰富的初始资源促使个体充分利用和投资已有资源，并将其投入到后续的活动中(Halbesleben etal.,2014; Hobfoll,1989,2011)。然而当初始资源相对匮乏时，个体容易受到资源损失的风险，且投资和使用现存资源变得更加困难。由于正念让员工对当前的内部和外部刺激保持不加评判地注意和觉察(Brown & Ryan,2003,2004)，它能够帮助员工存储能量，并使用该种资源在后续的活动中(Good et al.,2016; Shapiroet al.,2006)。同时，根据以往很多学者的观点(e.g.,Haun et al.,2018;Hulsheger et al.,2013；郑晓明等,2019)，本文将正念看作一种个体的状态，强调了正念具有变化性，可能因为各种内外部因素而发生变化。这符合资源本身应具有波动性的观点(Halbesleben etal.,2014)。因此，正念是个体所具有的一种有价值的内部资源(Fisher et al.,2019; Grover et al.,2017; Kroon et al.,2015;Montani et al.,2018;Taylor&Millear,2016；郑晓明等,2019)，当员工体验到高正念后，他们更可能将这一资源投入到与配偶的互动过程中。高正念状态的员工专注当下，对内在体验和外部环境进行不加评判的接纳，这将促使员工对配偶表达积极的情感(e.g.,Chen et al.,2020;Wachs ＆ Cordova,2007)，给予对方温暖，与对方建立良好的亲密关系(Kemper,1984;Liu et al.,2012)——情感联结策略。这种良性的情感策略有助于促进人际互动与交流，拓展社会联结(Liu et al.,2012；Lively&Powell,2006)，因而可以改善配偶的家庭满意度，帮助配偶在第二天更加投入地工作。资源保存理论也指出，当个体感到资源受到潜在威胁时，他们不再愿意投入和使用现有资源，而是采取保护行动防止资源被进一步损耗(Hobfoll,1989)。一般情况下，配偶经常向员工表达负面情感的行为将对员工的资源构成潜在的威胁。员工更可能保护现存的正念资源，从而在与配偶的日常交互中减少对正念资源的投入和使用。由此，正念对员工情感联结策略、配偶结果的积极影响被进一步削弱。本研究的假设模型如图1所示。
+
+本研究理论贡献主要有以下四个方面。第一，本研究通过探讨员工正念对配偶家庭满意度和第二天早上工作投入的影响，拓展了正念在人际方面的后效文献，并进一步推动了工作-家庭界面的本土研究。第二，本研究打开了员工正念与配偶结果之间的“黑箱”，强调了员工情感联结策略的中介作用，并拓展情感联结策略的前因，从而丰富情感联结策略的逻辑关系网。第三，通过考察配偶的家庭负面情感表达的调节作用，本研究回应了先前研究的呼吁，丰富了正念研究的边界条件。第四，体验抽样法(experience sampling methodology)的使用有益于我们获取大量生态数据集，从而捕捉模型中这一系列过程中的动态性，加强因果关系的推断。
+
+![](images/173b55470e31537a282b7190d8a100ae467eeb5750f9a89b658b28f695a7cce3.jpg)  
+图1本研究理论模型
+
+# 1.1个体内的员工正念作为一种个体资源
+
+正念作为一种重要且独特的个体内部资源(Fisher et al.,2019;Grover et al.,2017; Kroon et al.,2015;Montani et al.,2018;Taylor et al.,2016；郑晓明等,2019)，展示了员工特定的初始资源状态，它会影响员工采取何种策略与配偶进行情感互动。不同于以往传统的个体资源，正念具有其明显的独特性。首先，过去被广泛关注的个体资源主要是心理资本资源(Xanthopoulou,Bakker,Demerouti,& Schaufeli,2007)。它们与个体的韧性程度、积极的核心自我概念有关(Barbier et al.,2013; Hobfoll et al.,2003;Xanthopoulou,Bakker,Dollard,et al.,2007)，从而能够为个体提供使用和发挥可用资源的机会，帮助个体采用积极的应对方式。但是，正念与自我概念的联系较小，而更多地与人们如何使用他们的注意力资源有密切的联系(Grover etal.,2017)。当员工体验到高水平的正念时，他们更可能与未来和过去相分离，并将注意力充分地集中在当前的事物或体验上(Grover etal.,2017)。其次，传统的个体资源的确与掌握和使用资源机会有紧密联系。然而，正如 Kroon 等人(2015)曾明确指出，在这些已被发现的个体资源之外，正念提供了一种额外的独特资源。这是因为正念包含了一种对当前而非过去或未来体验和事件的开放式的觉知和注意。正念使员工能够观察内外部刺激，而不去判断或评估，增强了他们对其它资源(包括其它个体资源和外部资源)的觉知和发现。也就是说，正念作为一种个体资源不仅可以帮助员工接受他们当前的资源水平，减少对环境中可用资源的依赖，还能够使其感知更多的替代资源(Kroon etal.,2015)。再次，资源保存理论强调了资源是那些人们看重的，并有助于达成目标的事物。传统的个体资源大多聚焦于帮助个体实现这些目标或价值，而正念不仅如此，还可以帮助员工识别出哪些是他们真正看重和在意的事物(Deci& Ryan,1985; Shapiro et al.,2006)。这是因为通过觉知和注意当前的体验和事件，员工有机会识别并采纳那些对于他们生活有重要意义的价值和目标(Montani et al.,2018)。因此，正念可以促进员工选择更真实、更符合他们根深蒂固的价值观、需求和兴趣的行为,从而改善自我调节(Brown&Ryan,2003;Levesque&Brown,2007; Shapiroet al.,2006)。最后，资源保存理论本身是一个动态的理论(Halbesleben et al.,2014)，强调了资源本身具有动态性、波动性(Halbesleben etal.,2014)。在正念文献中，很多学者都强调并且证实了个体正念体验的可变性。然而，一些传统的个体资源(如尽责性、自我效能感)并不一定具有充分的可变性。因此，可变性也是正念区别于很多传统的个体资源的一个重要因素。综上，正念作为一种特殊个体资源，有别于传统的个体资源，因而对于员工和配偶的表现将具有重要且独特的影响。
+
+# 1.2个体内的员工正念与情感联结策略
+
+依据资源保存理论及正念文献，本文认为个体内的正念促进员工采用情感联结策略。情感联结策略指个体向对方表达那些具有温暖、积极、鼓舞人心特点的积极情感，这种情感表达方式具有建立和改善人际关系的重要功能(Liu et al.,2012)。个体在人际交互的过程中使用积极情感已成为人际影响的重要方式之一。研究发现表达积极情感对于改善人际关系有重要效果(Glaso&Einarsen,2008;Kopelman et al.,2006; Liu et al.,2012; Staw et al.,1994)，但是有关其前因的探讨较为局限(Davila et al,2017)。学者指出，人们能够控制和调节自身的情感表现方式(Liuetal.,2012)，如抑制或强化自身积极情感的展示(Gordon,1990; Guerrero & Andersen,1998)。尤其是个体通常会有意识地采取某些情感表达策略(Goffman,1959)，进而来展示特定目的(Parkinson,1997)。
+
+在本文中，充足的正念资源可以帮助员工参与到情感联结的策略中，因为当员工体验到高水平正念时，他们的注意力会持续而稳定地关注当下(Brown&Ryan,2003)。在与配偶互动的过程中，他们可以保持专注并对配偶的情感状态保持敏感和警觉，而不会心不在焉地思考其它事情，或被无关事情所干扰。例如，在与配偶一起进行家务活动或交谈时，高正念促使员工专注于当前与配偶的家庭活动中，而不会无意识地将注意力分散至其它地方。处于专注状态中的员工对内部体验和外部环境保持着较高的注意力，更可能巧妙地表现他们的积极情绪(Wachs&Cordova,2007)。总之，人际交往中有意识的专注他人及其感受是个体采取积极的、适应性的情感策略(如安慰、鼓励等)的基本前提和条件(Wachs & Cordova,2007)。
+
+更为重要的是，学者已指出正念与情绪智力紧密联系，正念能促使个体准确、有效地感知和调节自身与他人情感状态(Chambers et al.,2009; Schutte& Malouff,2011)。由于正念帮助个体不沉浸于过去或未来的情感或事件中(Brown&Ryan,2003)，它能够帮助员工减少过激的情感反应和情感失调(Arch&Craske,2010; Hill& Updegraff,2012)，获得良好的自我情感调节状态(Glomb etal.,2011; Goodet al.,2016)。由此，高正念状态下的员工不仅减少了自身对不愉快事件的负面评价，修复消极情绪，还会体验和表现出更多的积极情感(Glomb et al.,2011; Good et al.,2016)。例如，高正念的员工通过调试自身的注意力，可以实现积极的重新评估，以更清晰和客观的方式看待自身情感(Baer,2003;Hulsheger et al.,2014)。也就是说，他们可以从主观体验中退后一步，将其视为纯粹的事物(Good etal.,2016; Shapiro et al.,2006)。通过重新感知，员工即使是对待他们的悲伤和绝望等负面情绪，也不会陷入其中。因此，高正念状态允许员工从消极的情感状态中分离出来，有效修复消极情绪(Broderick,2005;Williams,2008)，减少了自身对不愉快事件的负面评价(Garland et al.,2009)。不仅如此，正念能促使个体准确、有效地调节自身与他人情感状态(Chambers et al.,2009; Schutte&Malouff,2011)，通常可以帮助个体体验和表现出更多的积极情感(Glomb et al.,2011; Good et al.,2016)，从而提升了员工向配偶表达有益的情感的可能性。目前，已有实证研究发现，高正念的个体通常会向他人表达出更多的积极情感(Turpyn & Chaplin,2016)。Wachs 和 Cordova(2007)也发现正念改善了夫妻之间的情感技能，包括对情绪的识别和认同、表现更多的同理心等。他们指出关注他人的情绪可能会促使个体对他人作出建设性的情感反应，而非冲动的情感反应。因此，正念能促进个体对他人表现出更多的有益情感。
+
+此外，体验到高正念的员工坦然接纳自身体验和外部刺激(Glomb etal.,2011)，更可能不加评判地站在配偶的角度去思考问题(Morgan&Morgan,2005)，并保持接纳与开放的心态(Baer et al.,2004;Lau et al.,2006)。由此，高正念状态下的员工更倾向于对配偶表现出周到且友好(如安慰、启发、鼓励和温暖等)的情感反应(Wachs&Cordova,2007)。例如，具有高正念状态的员工更可能设身处地为配偶着想，容忍家庭中所产生的分歧或矛盾，并以一种不加评判的心态来应对；在配偶失意时给予安慰，在配偶迷茫时及时启发和鼓励配偶以积极应对。当员工在家中具有高正念状态时，他们能够自我调节，避免冲动或负面的回应，进而为配偶提供了一个温暖和亲密的交往环境(Duncan et al,2009)。已有许多实证研究发现，正念通过有效调节个体的情感状态，能够使得个体向他人表达移情，产生出更多的共情关怀(Beitel et al.,2005; Chen et al.,2020; Wachs & Cordova,2007)。因而，高正念状态下的员工更可能给予配偶以鼓励、支持和安慰等积极情感，帮助配偶获得更多的资源(Bishop etal.,2004)。可见，高正念状态增加了情感功能性(emotional functioning)的表现(Chambers et al.,2009)，即有助于员工主动表达积极情感，改善与配偶的情感互动方式，进而来维系与对方的融洽关系(Karremans etal.,2015;Pakenham& Samios,2013)。由此，我们提出，高正念状态可以促使员工采用情感联结策略。
+
+假设1：在个体内层面，员工正念与员工情感联结策略呈正相关的关系。
+
+# 1.3个体内的情感联结策略的中介作用
+
+家庭满意度反映了个体对家庭生活总体方面的满意程度(Ford etal.,2007)。鉴于积极的情感表达在夫妻关系中始终发挥着重要的作用(Hershenberg et al.,2016)，尤其是情感联结策略集合了温暖、传播正能量、鼓舞人心等多种功能(Liuetal.,2012)，本文认为这种策略有助于改善配偶的家庭满意度。
+
+由于情感联结策略具有给予安慰、启发、鼓励、温暖等特点(Liuet al.,2012)，当员工采用情感联结策略时，员工所给予的情感支持及其对当前沟通与交流的重视将得到突显。尤其是个体在共情沟通间建立情感联结策略可以将一个人与另一个人痛苦或担忧联系起来，从而加深双方的移情过程(Miller,2007)。上述表现将在很大程度上改善配偶在这段关系中的人际联结感和亲密度，进而使得目标对象感到更加幸福(Liu etal.,2012; Staw et al.,1994)。
+
+此外，情感联结策略意味着员工在人际交互过程中表达良好的情感，展示积极的人际互动，因而具有强烈的情感吸引力(Staw etal.,1994)，能够有效改善配偶对家庭生活的评价，进而提升其家庭满意度。例如，在家庭交谈中，员工主动表达积极情感，给与支持和启发，能够使得夫妻关系更加融洽，提升配偶对家庭的满意度。有关工作与家庭关系的研究发现个体的情感(如活力)和态度会产生交叉效应，对于配偶产生显著影响(Takeuchi et al.,2002;Westman et al.,2009)。在本研究中，员工通过情感联结策略向配偶表现积极的情感，可以产生积极的交叉效应。也就是说，员工的情感联结策略能够激发配偶更多的积极情感，让配偶从特定事件中恢复过来(Gable et al.,2004)，进而更可能感受家庭生活的美好。
+
+实证研究表明，对夫妻间进行情感联结干预可以使得双方具有更高的关系满意度与依恋度(Pietrzak etal.,2016)。Litzinger 和 Gordon(2005)也发现积极的情感表达方式可以改善夫妻间的关系，并提升满意度。因此，员工的情感联结策略有助于提升配偶家庭满意度。更进一步，本研究提出，员工情感联结策略在员工正念与配偶家庭满意度的关系间起到了中介作用。
+
+假设2：在个体内层面，员工情感联结策略与配偶家庭满意度呈正相关的关系。
+
+假设3：在个体内层面，员工情感联结策略中介了员工正念与配偶家庭满意度的关系。
+
+工作投入是一种积极、充沛、持久及普遍的情感-认知状态(Schaufeli et al.,2006)。鉴于情感联结策略的特点，本文认为员工的情感联结策略可以提升配偶第二天早上的工作投入。如前所述，在家庭领域中，员工对于情感联结策略的使用实际上是一种友善且促进人际关系的行为(Liu etal.,2012)。它展示了支持性的人际互动倾向，将促进良好的交流与沟通(Liu et al.,2012)。尤其是员工将积极的情感传递出来，有助于配偶积累更多的情感资源(Halbesleben et al.,2012)。研究表明，当员工向配偶展示了特定的情感或感受后，双方之间会产生交叉效应(Song et al.,2008; Song et al.,2011)。由此，当员工在家中向配偶展示出更多的积极情感时，通过交叉效应能够促使配偶的情感体验得到改善。根据溢出效应(Kanter,1977)，尽管家庭与工作存在暂时的分界，但是某一个领域的感情和行为会产生溢出效应，影响个体在另一个领域的表现。有关工作与家庭关系的研究也证实了个体工作和家庭感受在跨领域之间的显著效果(Bakker et al.,2009;Ford et al.,2007)。由此，配偶在家庭中所积累的情感资源可以溢出到工作领域，进而帮助他们在第二天工作时更加投入。
+
+此外，情感联结策略给予配偶的积极能量和支持，可以在很大程度上缓解其当天所面临的压力和负面感受(Cohen& Wills,1985;Cutrona ＆ Suhr,1992)，从而帮助配偶更迅速地得以恢复。可见，情感联结策略给予了配偶充足的家庭支持，而家庭领域的支持往往对于个体的工作投入具有重要的影响(王永丽等,2012)。因此，高水平的情感联结策略可以使配偶有效且积极地应对第二天的工作。
+
+因此，员工的情感联结策略有助于提升配偶第二天早上的工作投入水平。更进一步，本研究提出员工情感联结策略在员工正念与配偶第二天早上工作投入的关系间起到了中介作用。
+
+假设4：在个体内层面，员工情感联结策略与配偶第二天早上工作投入呈正相关的关系。
+
+假设5：在个体内层面，员工情感联结策略中介了员工正念与配偶第二天早上工作投入的关系。
+
+# 1.4个体间的配偶家庭负面情感表达的调节效果
+
+家庭情感表达指的是家庭成员间语言或非语言的表达方式，而负面情感表达强调了个体对消极情感的宣泄(Halberstadt et al.,1995)。本文认为，个体间的配偶高水平的家庭负面情感表达削弱了个体内层面的员工正念与情感联结策略间的关系。
+
+当配偶总爱表达负面情感时，这实际上对员工造成了一种资源威胁(Halbesleben etal.,2012)，因为员工需消耗大量资源以面对和处理这种负面情感表达方式。根据资源保存理论，当资源受到威胁时，员工通常会采取行动保护已有资源，以防止资源的进一步损耗(Hobfoll,1989)。因而，在此情况下，员工很可能不再继续投入自己内在的正念资源，而是采取行动保护它，以预防其进一步受到损失。由此，正念对情感联结策略的积极效果被削弱。反之，当配偶的面情感表达水平较低时，员工的资源未受到严重威胁，因而更可能充分使用自身的正念资源，以投入到情感联结的策略中。
+
+整合上述所有假设，本文提出一个被调节的中介模型，即配偶家庭负面情感表达调节了员工正念一员工情感联结策略一配偶结果的关系。
+
+假设6：个体间的配偶家庭负面情感表达调节了员工正念与员工情感联结策略间的关系，即高水平的配偶家庭负面情感表达削弱了员工正念与员工情感联结策略间的正向关系。
+
+假设7：个体间的配偶家庭负面情感表达调节了员工情感联结策略对员工正念与配偶家庭满意度的中介作用，即配偶家庭负面情感表达水平越高，该中介作用越弱。
+
+假设8：个体间的配偶家庭负面情感表达调节了员工情感联结策略对员工正念与配偶第二天早上工作投入的中介作用，即配偶家庭负面情感表达水平越高，该中介作用越弱。
+
+# 2方法
+
+# 2.1样本与流程
+
+本研究数据来自中国北方的一家商业银行。该银行的主要经营内容包括存款、贷款、结算、债券、担保等业务。在高层领导者的高度支持与人力资源部的全力配合下，研究者邀请了该银行所有符合要求(即已婚状态，配偶有稳定工作，且双方长期居住在一起)的 449 名一线员工及其配偶参与此项研究。其中，129 名员工及其配偶愿意参加此项调研。研究者随后邀请了这些员工及其配偶参加现场的调研说明会，详细阐述了研究的目的和意义，并保证数据只作研究之用。高层领导者也表达了他们对该项目的支持，并鼓励大家积极配合。在说明会结束之前，我们邀请这129 名员工和配偶填写人口统计学信息，配偶还评估了自身的负面情感表达的水平。鉴于本研究涉及员工和配偶双方答卷，研究者在调研说明会中向参与者多次强调独立填写问卷的要求。员工和配偶双方一致同意并承诺会按照要求完成每日问卷后，才会进入每日问卷的填答环节。在调研说明会结束之后，研究者分别回收了126 名员工及其配偶的基线问卷。接下来，员工和配偶被邀请填写连续10 个工作日的问卷。一方面，根据以往学者的普遍做法(e.g.,Barnes et al.,2015; Dimotakis et al.,2011; Ilies et al.,2017; Koopman et al.,2016；孙旭等,2014；郑晓明等,2019)，体验抽样法的每日数据收集仅涉及工作日，不包括休息日。另一方面，为了保证和提升体验抽样法的生态效度，我们应尽量在特定状态发生的地方或时间段内进行测量(Ilies et al.,2017; Ilies et al.,2007; Sonnentag& Bayer,2005)。考虑到在真实的工作情境中测量配偶的工作投入，才能更加准确捕捉该变量的实际水平，因此本研究中的每日调研时间涉及10个连续的工作日。所有的每日问卷采用线上方式进行，由研究者从后台通过手机社交软件将问卷链接发送给参与者。在参与者接收到问卷链接之后，仅需点击链接，即可开始进行答卷。具体而言，在每个工作日的早上9点，配偶会收到一个邀请其评估工作投入的电子问卷链接。在每个工作日的晚上8点30分，员工和配偶都会分别收到一个电子问卷链接。员工需要评价自身的正念水平和情感联结策略，配偶需要评价自身的家庭满意度。为了保证员工和配偶独立填写问卷，本研究分别将问卷链接发送到员工和配偶的手机上，并设定“一台电子设备在规定的时间范围内只能填答一次问卷”。在发送每日问卷链接的时候，问卷页上也会提醒参与者独立填写此问卷。同时，为了增加回收率，研究者根据Fisher 和 To(2012)的建议，在发送电子问卷链接后的一个小时左右向那些尚未填写问卷的参与者发送一个提醒。
+
+在删除有大量缺失值的数据后，最终样本包含114名员工及其配偶。其中，员工每日晚上问卷共 1133 份(潜在可回收问卷 $_ { : = 1 0 }$ 份 $\mathbf { \nabla \times } 1 2 9$ 人；回收率为 $8 7 . 8 3 \%$ ，配偶每日上午问卷共1107份(潜在可回收问卷 $\scriptstyle = 1 0 \times 1 2 9$ 人；回收率为 $8 5 . 8 1 \%$ ，配偶每日晚上问卷共1121份(潜在可回收问卷 ${ \tt = } 1 0 \times 1 2 9$ 人；回收率为 $8 6 . 9 0 \%$ 。在最终的员工样本中，女性占比为 $7 6 . 3 0 \%$ ，平均年龄是 28.96 岁 $( S D = 3 . 0 2 )$ ，$8 8 . 6 0 \%$ 的人拥有本科及以上的学历 $\langle S D = 0 . 3 7 \rangle$ ，平均在本银行的工作年限为6.35年 $\langle S D = 3 . 5 5 \rangle$ 。在最终的配偶样本中，平均年龄是30.11 岁( $( S D = 3 . 0 6 )$ ， $7 1 . 9 0 \%$ 的人拥有本科及以上的学历 $\left( S D = 0 . 5 8 \right)$ ，平均在当前公司的工作年限为5.84 年 $\langle S D = 3 . 4 8 )$ 。
+
+# 2.2测量
+
+由于本研究所使用的量表均来自西方，我们采用了翻译和回译的程序，以保证中文问卷的指导语和题项能够准确表达原始英文问卷的含义(Brislin,1986)。
+
+# 2.2.1员工正念
+
+Hulsheger 等人(2014)对 Brown 和Ryan(2003)的量表进行了修订，选出 5个题项以测量每日的正念状态。在本研究中，我们同样采用该量表来测量员工的正念水平。评价尺度从1(完全不同意)到7(完全同意)。参与者被要求根据其今天在家中与配偶相处时的状态进行评估，示例项目如“我很自动化地做事情，而不在意我正在做什么”。所有题项均为反向题，为了在分析中更好地解释结果我们将题项分数进行了转换，进而使得高分表明高水平的正念状态。在本研究中，该量表在10天中的信度均值为0.90。
+
+# 2.2.2员工情感联结策略
+
+我们采用了Liu 等人(2012)所开发的量表来测量员工的情感联结策略。该量表共3个题项，参与者被要求根据其今天在家中与配偶相处时的状态进行评估，示例项目如“我通过表达正向的情绪(如欢乐、温暖)来建立与配偶之间的关系”。评价尺度从1(完全不同意)到 7(完全同意)。在本研究中，该量表在10天中的信度均值为0.85。
+
+# 2.2.3配偶家庭满意度
+
+我们采用了Kopelman 等人(1983)的量表中的3个题项。参与者被要求根据其今天在家中与配偶相处时的感受进行评估，示例题项如“我很喜欢我的家庭”。评价尺度从1(完全不同意)到7(完全同意)。在本研究中，该量表在10 天中的信度均值为0.79。
+
+# 2.2.4配偶工作投入
+
+我们采用 Schaufeli等人(2006)所开发的简短版的量表来测量配偶工作投入。该量表共9个题项，参与者被要求评估他们当前的工作状态，示例题项如“在工作中，我感到自己进发出能量”。评价尺度从1(完全不同意)到7(完全同意)。在本研究中，该量表在9天中的信度均值为0.92。
+
+# 2.2.5配偶家庭负面情感表达
+
+我们使用 Halberstadt 等人(1995)所开发的量表来测量配偶的家庭负面情感表达。该量表有17个题项，示例题项如“我因家里遇到困难而指责配偶”。评价尺度从1(从未)到9(非常频繁)。在本研究中，该量表的信度均值为0.87。
+
+# 2.2.6控制变量
+
+由于不同性别的个体，对于特定的人际交互状态有不同的感知和反应(Thoits,1986;Thompson&Cavallaro,2007)，因而可能会影响正念的效果。同时，以往有关正念的人际效果的研究控制了个体的性别差异(Reb et al.,2014; Schuh et al.,2019)。因此，本研究在后续的分析过程中将员工性别作为了控制变量。
+
+# 2.3分析策略
+
+由于本研究数据具有嵌套性质(每日数据嵌套于个体内)，我们首先计算了员工正念、员工情感联结策略、配偶家庭满意度和配偶第二天早上工作投入的个体内方差百分比，以考察这些变量是否适合进行跨层分析。我们通过 Mplus 8.0软件(Muthen& Muthen,1998-2017)对核心变量进行了跨层的验证性因子分析。在检验假设之前，我们对个体内层面的预测变量(员工正念)进行了个体均值中心化处理，以确保其个体内的预测效果的准确预估(Hofmann & Gavin,1998)。我们对个体间层面的预测变量(配偶家庭负面情感表达)以及控制变量(员工性别)进行了总均值中心化处理(Hofmann &Gavin,1998)。此外，本研究关注的一个结果变量是配偶第二天早上的工作投入，因而在分析过程中，我们检验的是个体间层面的变量及个体内层面的当天预测变量对于第二天早上配偶工作投入的影响系数。
+
+我们在 Mplus 8.0 软件中使用跨层分析方式来检验假设。具体而言，根据以往学者的建议(Preacher et al.,2011; Preacher et al.,2010)，我们设定了1-1-1中介模型。当检验中介效应的时候，我们使用蒙特卡洛模拟(Monte Carlo method; Preacher et al.,2010)的方式(20,000 重复抽样)来预估中介作用在 $9 5 \%$ 置信区间上的显著性。更进一步，为了检验跨层的调节效果，本研究将员工正念预测个体内层面的随机截距的个体内均值包含在模型中，进而检验个体间层面的配偶家庭负面情感表达的不同水平对员工正念与员工情感联结策略之间关系的影响(Bauer et al.,2006; Preacher et al.,2007)。此外,我们通过蒙特卡洛模拟的方式(20,000 重复抽样)来检验被调节中介效应(Selig&Preacher,2008),即考察在高水平(高于均值1个标准差)和低水平(低于均值1个标准差)的配偶家庭负面情感表达下，员工情感联结策略在自变量和结果变量之间的中介效应是否在 $9 5 \%$ 置信区间上显著。最后，我们计算了伪R方(pseudo $R$ -square; Snijders&Bosker,1999)来评估本研究模型的中介变量对结果变量的解释方差，以作为效用值的预估。
+
+# 3结果
+
+# 3.1描述性统计
+
+本研究首先分别检验了个体内层面变量的个体内方差的百分比。结果表明，这些变量均具有充足的个体内方差百分比(见表1),因而适合进行跨层分析。本研究变量的均值、标准差以及相关系数，见表2所示。在个体内层面，员工正念与员工情感联结策略显著正相关 $( r = 0 . 1 5 , p < 0 . 0 0 1 )$ 。员工情感策略与配偶家庭满意度 $( r = 0 . 0 9 , p = 0 . 0 0 3 )$ 、配偶第二天早上工作投入 $( r = 0 . 0 8 , p = 0 . 0 1 1 )$ )都显著正相关。
+
+表1变量的个体内方差百分比  
+
+<html><body><table><tr><td>变量</td><td>个体内方差 (e2)</td><td>个体间方差 (r2)</td><td>个体内方差百分比 (%)</td></tr><tr><td>员工正念</td><td>0.54</td><td>0.85</td><td>38.79%</td></tr><tr><td>员工情感联结策略</td><td>0.63</td><td>0.59</td><td>51.44%</td></tr><tr><td>配偶家庭满意度</td><td>0.42</td><td>0.54</td><td>43.71%</td></tr><tr><td>配偶第二天早上工作投入</td><td>0.41</td><td>0.86</td><td>32.31%</td></tr></table></body></html>
+
+注：个体内方差百分比 $\scriptstyle . =$ 个体内方差/(个体内方差 $+$ 个体间方差)。
+
+表2描述性统计结果  
+
+<html><body><table><tr><td></td><td>均值</td><td>SD个体内</td><td>SD个体间</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td>1.员工正念</td><td>5.20</td><td>0.73</td><td>0.92</td><td></td><td>0.10</td><td>0.17</td><td>0.17</td><td>0.10</td><td>-0.32***</td></tr><tr><td>2．员工情感联结策略</td><td>5.18</td><td>0.79</td><td>0.77</td><td>0.15***</td><td></td><td>0.18</td><td>0.15</td><td>0.07</td><td>-0.06</td></tr><tr><td>3.配偶家庭满意度</td><td>5.98</td><td>0.65</td><td>0.74</td><td>0.02</td><td>0.09**</td><td></td><td>0.38***</td><td>-0.10</td><td>-0.33***</td></tr><tr><td>4.配偶第二天早上工作 投入</td><td>4.66</td><td>0.64</td><td>0.93</td><td>0.05</td><td>0.08*</td><td>0.08*</td><td></td><td>0.05</td><td>-0.34***</td></tr><tr><td>5.员工性别</td><td>0.76</td><td></td><td>0.43</td><td></td><td></td><td></td><td></td><td></td><td>-0.23*</td></tr><tr><td>6.配偶家庭负面情感表</td><td>3.61</td><td></td><td>1.02</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>达</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+注：个体内层面的样本 $= 9 9 8 – 1 1 3 3$ ；个体间层面的样本 $= 1 1 4$ 。个体内层面变量的信度是基于10天观察结果的平均内部一致性系数；对角线右上方的结果是将个体内层面变量聚合到个体间层面变量后，计算得到的相关系数。性别：男性 $= 0$ ，女性 ${ \bf \mu } = 1 { \bf \sigma }$ 。 $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$ 。
+
+# 3.2验证性因子分析
+
+鉴于样本与题项总数的比率会影响模型总体的拟合度，学者建议使用题项打包的方法(Little etal.,2013;Williams et al.,2009)。由于模型中的工作投入与家庭负面情感表达的题项数量相对较多，本研究采用题项-构念平衡法(item-to-construct-balance approach)对这些题项进行打包。工作投入和家庭负面情感表达的题项分别打包为三个指标。结果表明，假设模型(五因子模型)与数据之间的拟合度良好 $\langle \chi ^ { 2 } ( 1 8 0 ) = 3 3 6 . 3 7$ 7， $p < 0 . 0 0 1$ ， $\mathrm { T L I } = 0 . 9 6$ $\mathrm { C F I } = 0 . 9 7$ ,RMSEA $= 0 . 0 3$ ,SRMR 个体内 =0.03, SRMR 个$_ { \mathrm { \scriptsize ~ \uparrow \ t i \uparrow \boxplus \mathrm ~ } } = 0 . 0 5 )$ ，而其它4种替代模型的拟合指数都显著变差(见表3)。由此，本研究模型中的五个核心变量之间具有良好的区分效度。
+
+表3验证性因子分析结果  
+
+<html><body><table><tr><td>模型</td><td>X</td><td>df</td><td>△x</td><td>TLI</td><td>CFI</td><td>RMSEA</td><td>SRMR 个体内</td><td>SRMR 个体间</td></tr><tr><td>五因子模型</td><td>336.37</td><td>180</td><td></td><td>0.96</td><td>0.97</td><td>0.03</td><td>0.03</td><td>0.05</td></tr><tr><td>四因子模型</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>员工正念与员工情感联结策略并入</td><td>1285.17</td><td>187</td><td>948.80***</td><td>0.76</td><td>0.80</td><td>0.07</td><td>0.09</td><td>0.13</td></tr><tr><td>一个因子 配偶家庭满意度与配偶工作投入并</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>1503.10</td><td>187</td><td>1166.73***</td><td>0.71</td><td>0.76</td><td>0.08</td><td>0.10</td><td>0.10</td></tr><tr><td>入一个因子 三因子模型</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>员工正念与员工情感联结策略并入</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>2352.16</td><td>192</td><td>2015.79***</td><td>0.54</td><td>0.61</td><td>0.10</td><td>0.13</td><td>0.16</td></tr><tr><td>一个因子；配偶家庭满意度与配偶工作</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>投入并入一个因子</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>二因子模型</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>所有个体内层面的变量并入一个因 子</td><td>4078.60</td><td>195</td><td>3742.23**</td><td>0.18</td><td>0.30</td><td>0.13</td><td>0.18</td><td>0.22</td></tr></table></body></html>
+
+注： $^ { * * * } p < 0 . 0 0 1$ 。
+
+# 3.3假设检验
+
+# 3.3.1直接效应
+
+假设1提出员工正念与员工情感联结策略呈正相关的关系。结果(见表4)支持了这一假设，即员工正念与员工情感联结策略之间有显著的正向关系 $( \gamma = 0 . 1 5$ $S E = 0 . 0 5$ $p = 0 . 0 0 1 \$ )。同时，假设2和假设 4 分别提出员工情感联结策略与配偶家庭满意度和配偶第二天早上工作投入呈正相关的关系。结果显示，员工情感联结策略与配偶家庭满意度 $( \gamma = 0 . 0 7$ $S E = 0 . 0 3$ $p = 0 . 0 1 6 )$ 、配偶第二天早上工作投入 $( \gamma = 0 . 0 6 , S E = 0 . 0 2 , p = 0 . 0 1 6 )$ 均具有正向关系。因而，假设2和4 也得到了支持。
+
+# 3.3.2中介效应
+
+假设3提出，员工情感联结策略中介了员工正念与配偶家庭满意度之间的关系。结果表明，员工情感联结策略在上述关系间的中介作用系数是0.011，在 $9 5 \%$ 的置信区间上显著[0.002,0.024]。由此，假设3得到了支持。同时，假设5提出，员工情感联结策略中介了员工正念与配偶第二天早上工作投入之间的关系。结果表明，员工情感联结策略在上述关系间的中介作用系数是0.009，在 $9 5 \%$ 的置信区间上显著[0.001,0.019]。由此，假设5也得到了支持。
+
+# 3.3.3调节效应
+
+假设6提出个体间的配偶家庭负面情感表达调节了员工正念与员工情感联结策略之间的关系。研究结果显示，配偶家庭负面情感表达对在该关系起到了显著的调节作用 $( \gamma = - 0 . 1 0$ ， $S E = 0 . 0 4$ $p =$ 0.018)。交互效应图(见图2所示)和简单斜率检验的结果表明，当配偶家庭负面情感表达处于低水平时(低于平均值1个标准差)，员工正念与员工情感联结策略间有显著的正向关系 $( \gamma = 0 . 2 5$ ， $t = 3 . 7 0 , p$ <0.001)。然而，当配偶家庭负面情感表达处于高水平时(高于平均值1个标准差)，员工正念员工情感联结策略间不存在显著关系 $( \gamma = 0 . 0 5$ $t = 0 . 8 7$ $p = 0 . 3 8 4 )$ 。因此，假设6得到了支持。
+
+表4跨层路径分析结果  
+
+<html><body><table><tr><td colspan="2">员工情感联结策略</td><td>配偶家庭满意度</td><td>配偶第二天早上工作投入</td></tr><tr><td colspan="2">个体内层面的变量</td><td></td><td></td></tr><tr><td rowspan="3">0000011 员工正念 员工情感联结策略</td><td></td><td></td><td>0.03)</td></tr><tr><td>0.15”</td><td>(0.03)</td><td></td></tr><tr><td></td><td>0.07*</td><td>0.06*</td></tr><tr><td colspan="2">个体间层面的变量</td><td>(0.03)</td><td>(0.02)</td></tr><tr><td colspan="2">0 员工性别</td><td></td><td>0.09</td></tr><tr><td rowspan="3">0 22 配偶家庭负面情感表达</td><td>0.10</td><td>-0.20</td><td></td></tr><tr><td>(0.18)</td><td>(0.16)</td><td>(0.20)</td></tr><tr><td>-0.04 (0.07)</td><td></td><td></td></tr><tr><td colspan="2">2 跨层交互项</td><td></td><td></td></tr><tr><td>员工正念×配偶家庭负面</td><td></td><td></td><td></td></tr><tr><td>情感表达</td><td>-0.10* (0.04)</td><td></td><td></td></tr></table></body></html>
+
+注：括号中的数值为标准误(SE)。员工正念进行了个体均值中心化处理，配偶家庭负面情感表达和员工性别进行了总均值中心化处理。当不包含控制变量时，研究模型仍然被支持。 $^ { * } p < 0 . 0 5$ ， $^ { * * } p < 0 . 0 1$ 。
+
+# 3.3.4被调节的中介效应
+
+假设7进一步提出，配偶家庭负面情感表达调节了员工情感联结策略在员工正念与配偶家庭满意度之间关系的中介作用。结果发现，员工正念—员工情感联结策略—配偶家庭满意度的间接效应在低水平的配偶家庭负面情感表达的情况下显著,间接效应为0.018(95%置信区间为[0.003,0.038]),然而在高水平的配偶家庭负面情感表达的情况下间接效应不显著，间接效应为0.004(95%置信区间为[-0.005,0.014])。二者差异是显著的 $9 5 \%$ 置信区间为[-0.037，-0.001])。因而，假设7得到支持。类似的，假设8提出，配偶家庭负面情感表达调节了员工情感联结策略在员工正念与配偶第二天早上工作投入之间关系的中介作用。结果表明，员工正念—员工情感联结策略—配偶第二天早上工作投入的间接效应在低水平的配偶家庭负面情感表达的情况下显著，间接效应为0.014(95%置信区间为[0.002,0.030])，然而在高水平的配偶家庭负面情感表达的情况下间接效应不显著，间接效应为0.003( $9 5 \%$ 置信区间为[-0.004,0.011])。二者差异是显著的 $9 5 \%$ 置信区间为[-0.028,-0.001])。因此，假设8也同样得到了支持。最后，结果显示，本研究的被调节中介模型解释了中介变量(情感联结策略 $12 . 2 1 \%$ 的方差，结果变量(配偶家庭满意度和配偶第二天早上工作投入) $) 4 . 7 5 \%$ 的方差。
+
+![](images/b8fdd404e8cd37a4e142d649becdecdc080c5e78d2fb544abcbd13eec1cf90e7.jpg)  
+图2配偶家庭负面情感表达对员工正念与员工情感联结策略关系的调节作用
+
+# 3.3补充分析
+
+由于员工正念、情感联结策略、配偶家庭满意度均在同一时间段收集，我们可能无法完全排除其它可替代性的关系。对此，本研究进一步检验了三个潜在的可替代性关系，以期在一定程度上缓解因果关系推论的问题。首先，配偶的家庭满意度可能会增加员工的正念水平。研究结果表明，配偶家庭满意度与员工正念无显著的关系 $( \gamma = 0 . 0 2$ $S E = 0 . 0 4$ $p = 0 . 5 7 5 )$ 。其次，“员工情感联结策略一员工正念—配偶家庭满意度”的模型结果表明，员工情感联结策略与员工正念的关系显著 $( \gamma = 0 . 1 3$ $S E = 0 . 0 4$ $p = 0 . 0 0 1 \mathrm { \Omega }$ ；但是员工正念与配偶家庭满意度的关系不显著 $( \gamma = 0 . 0 1$ $S E = 0 . 0 3$ $p = 0 . 8 2 2 \mathrm { , }$ ；
+
+另外，“员工正念一配偶家庭满意度一员工情感联结策略”的模型结果表明，员工正念与配偶家庭满意度的关系不显著 $( \gamma = 0 . 0 2$ $S E = 0 . 0 3$ $p = 0 . 5 5 8 )$ ；配偶家庭满意度与员工情感联结策略的关系显著 $\dot { \left( \gamma = 0 . 1 1 , S E = 0 . 0 4 , p = 0 . 0 0 8 \right) }$ 。由此，上述结果在一定程度上排除了其它两种可替代关系的解释。
+
+更进一步，本研究关注的是员工在家中的情感表现对于配偶第二天早上工作投入的影响，但是从理论上来说，配偶自身的家庭满意度与配偶的工作投入也可能存在正向的关系。对此，我们进行了补充分析。结果表明，当考虑配偶的家庭满意度对配偶第二天早上工作投入的影响后，员工情感联结策略仍然对配偶的第二天早上工作投入有显著的影响 $( \gamma = 0 . 0 5$ $S E = 0 . 0 2$ $p = 0 . 0 2 9 )$ ，且该效应的显著性比配偶家庭满意度与配偶第二天早上工作投入之间的显著性更高 $\dot  ( \gamma = 0 . 0 7 , S E = 0 . 0 4 , p =$ 0.043)。
+
+# 4讨论
+
+# 4.1理论贡献
+
+本研究对于正念文献具有重要的理论贡献。第一，本研究深入考察了员工正念对配偶家庭满意度和第二天早上工作投入的影响，进而拓展了员工正念的人际效果研究。如前所述，很少研究关注了正念的人际效果，而本研究通过深入探讨员工正念对于其配偶家庭体验和工作状态的影响，拓展了正念的后效。由此，本研究也回应了学者们的呼呼，即进一步考察个体正念的人际效果(Brown&Ryan,2003; Glomb et al.,2011; Pratscher et al.,2019；张静等,2017；郑晓明，倪丹,2018)，并印证了之前有关正念促进积极工作-家庭界面感知的观点(e.g.，倪丹，郑晓明,2019；郑晓明等,2019)。更为重要的是，虽然先前少数研究关注了正念对配偶的影响(Pakenham& Samios,2013;Willims& Cano2014；陈国典，杨通平,2020)，但主要局限于某一单个领域，而本研究不仅探讨了同一领域中正念的人际效果，还考察了正念在跨领域过程中的重要作用。通过将家庭领域和工作领域相联结，本研究揭示了家庭中的员工正念对于工作中配偶的工作状态的影响(family-work process)。因此，本研究从跨个体、跨领域这两个方面更加系统地阐述了员工正念的效果。更广泛地来说，工作-家庭界面的研究在国内外已得到学者们越来越多的关注。研究已基本证实，员工与配偶之间的交互对于双方的家庭结果(如情感与压力状态、婚姻满意度)和工作结果(如工作投入)均具有显著的影响(e.g.,Song et al.,2008;Song etal.,2011；王永丽等,2012；谢菊兰等,2017)。可见，配偶双方之间积极或消极的交叉和溢出效应在工作和家庭领域广泛存在。本研究通过将员工正念与配偶的家庭与工作结果联系起来，强调了正念作为一种资源促进了健康、友善的家庭人际交互，改善了配偶的状态。由此，本文将进一步推动正念与工作-家庭界面的研究，并促进未来学者继续考察中国本土的工作-家庭研究主题。
+
+第二，本研究打开了员工正念与配偶结果之间的“黑箱”。通过探讨员工情感联结策略在员工正念与配偶家庭满意度及配偶第二天早上工作投入的中介作用机制，本研究进一步阐明了员工正念如何影响其配偶的家庭感受和工作体验。这一方面的探索将在很大程度上拓展正念与工作家庭界面的研究。如前所述，先前研究并未充分考察正念是如何发挥积极的人际效果，从而给配偶带来良好的家庭和工作结果(e.g.,Pakenham& Samios,2013;Williams＆ Cano,2014)。由此，二者之间的影响机制尚不明确，这阻碍了我们对于正念人际效果的全面理解。根据近来的正念综述性文章，有关正念效果的机制是被强调的，学者们也鼓励未来研究可以充分挖掘正念的独特效果和机制(Good et al,2016；张静等,2017；郑晓明，倪丹,2018)。由此，本研究恰恰回应了“如何”这个问题，进一步阐明了员工正念影响其配偶的家庭感受和工作体验的重要机制。
+
+第三，本研究对于情感联结策略也具有一定的贡献。虽然已有研究证实了员工情感联结策略可以改善人际联结、增强人际关系网络的获得(Liuet al.,2012)，但是有关这一概念在员工与配偶之间的重要作用尚不清晰。由此，对于员工情感联结策略这一中介作用的探讨不仅帮助我们更全面地厘清员工正念如何影响配偶结果这一问题，还在很大程度上拓展了情感联结策略的前因和后效研究。尤其是情感联结策略的文献主要聚焦于特定策略对于个体自身或人际关系的影响，但有关情感策略的前因的探讨较为局限。本研究通过考察员工正念对于情感联结策略的积极影响，阐述了正念是情感联结策略的一个影响因素，从而丰富了情感联结策略的逻辑关系网，拓展了情感展示和表达的相关文献。
+
+第四，本研究通过对配偶家庭负面情感在员工正念与情感联结策略关系之间调节作用的探讨，进一步丰富了正念研究的边界条件。本研究发现在配偶长期进行负面情感表达的情况下，员工正念对情感联结策略的作用被削弱，进而使得员工情感联结策略的中介作用也得到了弱化。本研究通过整合配偶的情感表达方式来考察其对员工正念效果的影响，更加全面展示了员工与配偶双方的交互过程，强调了配偶的特定情感表达方式会影响员工对自身正念资源的使用。由此，本研究也对之前学者提出的未来研究应关注正念边界条件的建议做出了回应(Glomb et al.,2011; Good et al.,2016;Sutcliff et al.,2016)。特别指出的是，先前研究强调了正念在影响个体和他人积极结果上的强大预测力(for reviews,see Glomb et al.,2011; Good et al.,2016)，而本研究的结果则展示了正念的效果也存在一定的界限。这一方面的探讨与发现将有助于我们更加全面、准确地理解正念效果的边界条件。
+
+第五，鉴于本研究的核心变量具有明显的波动性(Glomb et al.,2011;Liu et al.,2012)，我们采用了体验抽样法的数据收集方式。该方法有益于捕捉研究模型中这一系列过程中的动态与变化，抓取参与者在自然情境下的体验反馈，进而加强了本研究的生态效度(Moskowitz&Young,2006)。同时，该研究方法也有助于我们更准确地对变量间进行因果关系的推断。尤其是针对不同领域间正念效果的传递作用，本研究通过体验抽样法提供了一个更加完整、动态的视角以考察员工正念对于配偶结果的重要影响。
+
+# 4.2实践意义
+
+本研究也具有重要的实践意义。第一，本研究发现员工正念对配偶的家庭满意度、第二天早上工作投入均有积极的影响。因此，我们建议企业在员工培训环节中可以适当引入正念冥想训练，以期培养员工保持正念的意识，并提升员工的正念水平。从员工的角度而言，可以积极通过正式或非正式的正念训练方式来提高自身的正念水平，进而向配偶传递积极情绪，改善配偶的家庭满意度和工作投入。第二，本研究发现员工的情感联结策略对配偶结果具有显著的积极效果。因此，我们鼓励员工在家中与配偶进行积极且有效的沟通，传递积极情感，并表现出温暖、鼓励、启发等良好的人际情感行为。例如，在家庭谈话中，员工可以主动展示积极的情感状态，向配偶提供情感支持，改善与配偶的人际联结。第三，本研究发现配偶的家庭负面情感表达会对正念效果产生消极的影响，不利于提升配偶的家庭满意度和工作投入。因此，我们建议个体在家庭生活中，尽量收敛自己的负面情感，主动把积极、乐观的一面展现给对方，从而改善配偶的家庭感受和工作状态。例如，个体可以采取有效的舒缓和调节方式来应对自身的负面情感，并尽量控制负面情感的过度表达。
+
+# 4.3局限与未来展望
+
+尽管本研究具有重要的理论贡献和实践意义，但是也存在一些研究局限。第一，本研究在论述和提出假设的过程中，提及了一些变量之间的潜在的作用原理和机制，但并没有实际测量这些内容。例如，本研究在解释员工情感联结策略与配偶结果之间的关系时，阐述了员工所采用的情感联结策略会给与配偶更多的情感资源，进而改善他们的家庭满意度和第二天早上的工作投入。需指出的是，本研究并未实际测量配偶所感知到的资源状态。由此，我们建议学者在未来的研究中可以测量本研究变量之间的潜在机制，这将在更大程度上改善我们对变量之间关系的理解，对于正念研究具有重要的贡献。
+
+第二，虽然本文提出并证实了员工情感联结策略传递了员工正念对配偶家庭感受和工作状态的作用，但是其它潜在的中介机制仍然存在。例如，高正念状态下的员工所表现出的同理心、情绪调节等有助于人际交互的行为也可能解释正念“如何”产生特定的效果(Glomb etal.,2011)。同时，员工情感联结策略主要侧重情感路径，但是有关工具性或认知性方面的路径也值得被进一步探讨。为了加深我们对于员工正念作用机制的理解，未来研究可以结合多种视角，整合性地考察员工正念如何通过不同路径影响配偶的态度或行为。
+
+第三，通过强调配偶家庭负面情感表达作为一种资源威胁，本研究考察了个体正念和情感联结策略之间的边界条件。尽管从配偶的一般特性出发，本研究可以帮助我们理解何时正念的积极效果会被削弱，从而为正念边界条件的探索提供了一些新知。然而，有关员工自身的因素和工作方面的因素，也可能影响正念效果的发挥(Sutcliffe et al.,2016)。例如，当员工的工作压力与需求较高时，他们在工作中所面临的资源威胁可能影响正念在家庭领域中效果的发挥；员工的直接领导者所具有的特定领导风格(如家庭支持型领导行为)，可能也会影响正念的效果。因此，本文建议未来研究可以进一步考察其它重要的调节变量对员工正念和情感联结策略之间的影响。
+
+第四，从方法的角度来看，本研究采用的是体验抽样法。该方法可以在一定程度上捕捉变量之间的动态变化，更有效地帮助我们进行因果关系的推论(Moskowitz& Young,2006)。同时，本研究通过不同来源(即员工和配偶)收集相应的数据，并通过补充分析在一定程度了排除了其它关系的可能性。但是，我们仍然无法为变量间的因果关系提供充分的证据。先前研究指出，个体的特征或状态与情境存在互为因果的关系(e.g.,De Jonge et al.,2001;Liet al.,2014)，同时，夫妻双方间的情感扮演方式、情感支持或交流方式也同样具有互为因果的特性(e.g.,Sanz-Vergel et al.,2012;Wright et al,1998;Y00 etal.,2014)。对此，我们建议未来研究可以在不同时间点分别收集核心变量，或者采用实验法或纵向研究设计来进一步检验本模型，从而获得更有效的因果关系的推论。例如，配偶的状态和感受也许会进一步影响员工的正念水平。尤其是鉴于目前鲜有研究关注了正念的前因，我们鼓励未来研究可以充分考虑家庭因素或其它情境因素对于个体正念的影响效果，以期拓展正念的逻辑关系网。此外，本研究已经通过多种方式尽量控制员工和配偶独立完成每日问卷，但是我们仍鼓励未来研究可以采用更加有效的控制手段来实现问卷填写的独立性。
+
+第五，研究的结论普适性受到一定的局限。本研究的数据来自于中国的一家商业银行，对于银行业具有一定的代表性。然而，针对其它行业，尤其是差异很大的行业(如建筑业)，研究结果是否仍然适用有待进一步考察。正如 Sutcliffe 等人(2016)所提到，未来研究可以进一步考察文化差异对于正念及其效果的影响。鉴于不同文化背景下，夫妻间交互状况、关系情况以及对于正念的看法等方面都可能存在很大的差别，我们期待未来研究能够考察本研究模型在不同文化背景下的普适性。最后，本研究中变量之间的系数值相对较小，但是均显著支持了研究假设，且结果与以往采用体验抽样法的研究具有可比性。尽管如此，我们呼呼未来研究可以进一步通过体验抽样法的方式，收集更多的每日数据来复制本研究结果，以检验模型的解释度。
+
+# 5结论
+
+基于资源保存理论和正念文献，本研究探讨了员工正念如何以及何时影响配偶家庭满意度、第二天早上工作投入。通过采用体验抽样法，本研究得到的结果包括：在个体内层面，员工情感联结策略中介了员工正念与配偶结果之间的关系；个体间的高水平的配偶家庭负面情感表达削弱了个体内层面的员工正念与情感联结策略的关系；更进一步，个体间的高水平的配偶家庭负面情感表达降低了员工正念一员工情感联结策略一配偶结果这一中介作用。本文的研究发现拓展了个体正念的后效，加强了我们对于正念在人际效果方面的理解，对于正念文献具有重要的理论意义。
+
+参考文献   
+Arch,J. J.,&Craske,M.G.(ol0).Laboratorystresors inciicallyanxiousand non-anxious individuals:Temoderating role of mindfulness. Behaviour Research and Therapy, 48(6), 495-505.   
+Aryee,S.,&Luk, V.(1996).Balancing lwo major parts of adultlife experience: Work andfamilyidentity among dual-earmer couples. Human Relations, 49(4), 465-487.   
+Baer,R.A.(2oo3).Mindfunestrainingasaclinical interventio: Aconceptual and empiricalreview.Clinical Psychology: Science and Practice,10(2), 125-143.   
+Baer,R.A.,Smith,G.T.,& Allen,K.B.(2o04).Assessment of mindfulnessbyself-report:The Kentucky Inventoryof Mindfulness Skills. Assessment, 11(3),191-206.   
+Bakker，A.B.，Demerouti，E.，& Burke，R.(2O09).Workaholism and relationship quality:A spillver-crossover perspective. Journal of Occupational Health Psychology,14(1),23-33.   
+Barbier,M.,Hnsez,I.,Ciel,N,&emerouti,E.(l3).erformanceexpectationsersonalresourcesdjobou: How do they predict work engagement?. European Journal of Work and Organizational Psychology,22(6), 750-762.   
+Barnes,C.M.,Lucianeti,L.,Bhave,D.P.,& Christian,M.S.(2015).“You wouldn'tlike me when I'm sleepy": Leaders' sleep,daily abusive supervision,and work unit engagement. Academy of Management Journal,58(5),1419-1437.   
+Bauer,D.J.,Preacher,K.J,& Gil,K.M.(o6).Conceptualingndtestingandomindrecteffectsandmoderatedmdation in multilevel models: New procedures and recommendations. Psychological Methods,11(2),142-163.   
+Beitel,M.,Ferrr,E&Cecero,J.J.().scolgicaldededwareesofseldohes.Joualfical Psychology, 61(6),739-750.   
+Bishop,S.R.,Lau,.,apoS.arlson,L,derson,N.,Camody,J.,..evinsG. ().indulns: pood operational definition. Clinical Psychology: Science and Practice,11(3),230-241.   
+Brislin,R.W.(1986).The wording and translation of research instruments.In W.J.Lonner &J. W.Berr(Eds.)Croscultural research and methodology series: Vol. 8.Field methods in cross-cultural research (pp. l37-164). Sage Publications, Inc.   
+Broderick,P.C.(2Oo5).Mindfulnessand coping with dysphoric mood: Contrasts with rumination and distraction.Cognitive Therapy and Research,29(5),501-510.   
+Brown,K.W.&Ryan,R.M.(2Oo3).Thebenefitsofbeing present: Mindfulnessanditsrole inpsychological well-eing. Journal of Personality and Social Psychology,84(4), 822-848.   
+Brown,K.W.,& Ryan,R.M.(2O04).Perils and promise in defining and measuring mindfulness: Observations from experience. Clinical Psychology: Science and Practice,11(3),242-248.   
+Chambers,R.,Gullne,E.,&Allen,N.B.(2o9).Mindful emotionregulation: Anintegrativereview.ClinicalPsychology Review,29(6), 560-572.   
+Chen,G.D.,&Yang,T.P.(00).The influenceofmindfulness onintimaterelationships.Advances inPsychological Science, 28(9), 1551-1563.   
+[陈国典，杨通平.(2020).正念对亲密关系的影响．心理科学进展,28(9),1551-1563.]   
+Chen，Z.，Allen，T.D.，& Hou,L. (2020). Mindfulness，empathetic concern,and work-family outcomes: A dyadic analysis. Journal of Vocational Behavior. Advance online publication. https://doi.org/10.1016/jjvb.2020.103402   
+Cohen,S.,&Wils,T.A. (98).Str,oialpprtdthebernghotsis.Psholgicaluletn,98(2)5.   
+Cutrona，C.E.，& Suhr，J.A.(1992).Controllbility of stresful eventsand satisfaction with spouse support behaviors. Communication Research,19(2),154-174.   
+Davila, J.，Wodarczyk, H.,& Bhatia, V.(2017).Positive emotional expresson among couples: The role of romantic competence. Couple and Family Psychology: Research and Practice, 6(2),94-105.   
+Deci,E.L.,&Ryan,R.M.(985).The general causalityrientationsscale: Self-determinationin personality.Journalof Research in Personality,19(2),109-134.   
+De Jonge,J.,Dormann,C.,Janssen,P.P.,Dolld,M.F,Lndewerd,J.A.&Nijuis,F.J.(2O1).Testingreciprocal relationships between job characteristicsand psychological wel-being:A cross-lagged structural equation model. Journal of Occupational and organizational Psychology, 74(1),29-46.   
+Dimotakis,N.,Scot,B.A.,& Koopman,J. (211).Anxperiencesampling investigationofworkplaceinteractions,ective states,and employee wel-being. Journal of Organizational Behavior,32(4), 572-588.   
+Duncan,L.G.,Coatsworth,J.D.,& Greenberg,M.T. (2o9).Amodelof mindful parenting: Implications forparent-child relationships and prevention research. Clinical Child and Family Psychology Review,12(3),255-270.   
+Fisher,C.D.，& To,M.L. (2012). Using experiencesampling methodology in organizational behavior. Journalof Organizational Behavior, 33(7), 865-877.   
+Fisher,D.M.,Ker,A.J.,& Cunningham,S.(2O19).Examining the moderating effect of mindfulnessontherelationship between job stressors and strain outcomes. International Journal of Stress Management, 26(1), 78-88.   
+Ford,M.T.,Heinen,B.A.,&Langkamer,K.L.(o7).Workandfamilysatisfactionandconflict: Ameta-analysisofrosdomain relations. Journal of Applied Psychology, 92(1),57-80.   
+Gable, S.L.,Reis,H.T.,Impet,E.A.,&Asher,E.R. (204).What doyoudo when things goright?Theintrapersonaland interpersonal benefits of sharing positive events.Journal ofPersonality and Social Psychology,87(2),28-245.   
+Garland,E., Gaylord,S.,&Park,J. (29).Theroleofmindfulness inpositivereappraisal.Explore,5(1),7-44.   
+Glaso,L.,&Einarsen,S.(2o08).Emotionregulation in leader-follower relationships.European Journalof Work and Organizational Psychology,17(4), 482-500.   
+Glomb,T.M.,Duffy,M. K., Bono,J.E.,& Yang,T. (20). Mindfulnessat work.Research in Personnel and Human Resources Management, 30(1),115-157.   
+Gofman E. (Ed.)(1959). The presentation of self in everyday life. New York: Doubleday Anchor.   
+Gong, Z.H.,& Zhao,C.(2014).Whyisit difficult to balance work and family?Ananalysisbasedon work-family boundary theory. Acta Psychologica Sinica, 46(4), 552-568.   
+[高中华，赵晨.(2014).工作家庭两不误为何这么难？基于工作家庭边界理论的探讨.心理学报,46(4),552-568.]   
+Good,D.J.,Lyddy,C.J.,Glomb,T..,Bono,J.E.Brown,K.W.,Duffy,M.K,.Lazar,S.W. (2016).Contemplating mindfulness at work: An integrative review. Journal of Management, 42(1),114-142.   
+Gordon,S.L. (1990).Social structural effectsonemotions.InKemper,T.D. (Ed.)Research agendasinthe sociologyof emotions (pp. 145-179). New York: State University of New York Press, Albany.   
+Grover,S.L.,Teo,S.T.,Pick,D.,&Roche,M. (2O17).Mindfulnessasapersonal resourcetoreduce work stressinthejob demands-resources model. Stress and Health,33(4),426-436.   
+Guerero,L.K.,&Andersen,P.A.(1998).hedarksideofjealouslyndenvy:Desire,delusiondesperationnddestructive communication.InB.H.Spitzberg & W.R. Cupach (Eds.),The dark sideof close relationships (pp.33-70).Lawrence Erlbaum Associates Publishers.   
+Halberstadt,A.G,Casidy,J,tifter,C.A.,Parke,R.D.,&Fox,N.A.(199).Self-expresiveness witinthefamilycotet: Psychometric support for a new measure. Psychological Assessment, 7(1), 93-103.   
+Halbesleben,J.R.B.,Neveu,J.-P.,Paustian-Underdahl,S.C.,& Westman,M. (2014). Geting tothe“COR": Understading the role of resources in conservation of resources theory. Journal of Management, 40(5),1334-1364.   
+Halbesleben,J.R.B.,Wheeler,A.R.,&Rosi,A.M. (2O12).Thecosts and benefitsof working with one's spouse: A twsampleexamination of spousal support,work-familyconflict,and emotional exhaustion in work-linked relationships. Journal of Organizational Behavior,33(5),597-615.   
+Haun,V.C.,Nubold,A.,& Bauer,A.G. (2O18).Being mindful at work andat home: Buffering effects in the stressor detachment model. Journal of Occupational and Organizational Psychology, 91(2),385-410.   
+Hershenberg,R.,avandadi,S.,Baddeley,J.,&Libet,J.(l6).Capitalizationidistreedcouples: Apilotsudyadutline for future research. Personal Relationships, 23(4), 684-697.   
+Hil,C.L.,&Updgaf,J.A.(2).ndfuesnditselationshiptmotionalregulation.Emotion,(),-90.   
+Hobfoll,S.E.(989).Conservationofresources: Anewattempt atconceptalizing stres.American Psychologist,(3)51 524.   
+Hobfoll,S.E. (20l1).Conservation of resource caravans and engaged setings.Journal of Occupational & Organizational Psychology, 84(1),116-122.   
+Hofmann,D.A.,& Gavin,M.B.(1998).Centering decisions in hierarchical linear models: Implications forresearch in organizations. Journal of Management, 24(5), 623-641.   
+Hobfll,S.E.,Json,R.JEs,N,&Jackson,A.P.().esourceloesouregindemotinaloutcomsaog inner city women. Journal of Personality and Social Psychology,84(3),632-643.   
+Hulsheger,U..,Alberts,H.J.,Feinholdt,A.,&Lang,J.W. (2O13).Benefits ofmindfulnessat work: theroleofmindfulness in emotion regulation, emotional exhaustion,and job satisfaction.Journal ofApplied Psychology,98(2),310-325.   
+Hulsheger,U.R.,Lang,J.W.B.,Depenbrock,F.Fehrma,C.,Zijlstra,F.R.H.,&Alberts,H.J.E..(2014).Thepower of presence: The role of mindfulnessat work for daily levels and change trajectories of psychological detachment and sleep quality. Journal of Applied Psychology, 99(6),1113-1128.   
+Ilies, R.,Liu, X.Y.,Liu,Y.K.,&Zheng,X.M. (20l7).Whydo employees have beterfamilylives when theyare highly engaged at work?. Journal of Applied Psychology, 102(6), 956-970.   
+Ilies,R.,Schwind,K..,Wagner,D.T.,Johnson,M.D.,DeRue,D.S.,&Igen,D.R.(07).Whenca employees havea family life?The effcts of daily workload and affect on work-family conflict and social behaviors at home.Journal of Applied Psychology,92(5),1368-1379.   
+Kanter,R.M. (1977).Some efects ofproportions on grouplife: Skewed sex ratios and responses to token women. American Journal of Sociology, 82(5), 965-990.   
+Karremans,J.C.Schellekens,M.P.J,&Kappen, G.(2015).Bridging thesciences ofmindfulnessandromantic relatiosips: A theoretical model and research agenda.Personality & Social Psychology Review, 21(1),29-49.   
+Kemper,T.D.(1984).Power,status,and emotions: A sociological contribution toa psycho-physiological domain. In K. Scherer &P.Ekman (Eds.),Approaches to emotion (pp.369-384).Hilsdale,NJ: Lawrence Erlbaum Associates.   
+Koopman,J.,Lanaj,K.,& Scott,B.A.(2O16). Integrating thebright anddark sides ofOCB: Adailyinvestigationof the benefits and costs of helping others. Academy of Management Journal, 59(2), 414-435.   
+Kopelman,R.E.,Greenaus,J.H.,&Connolly,T.F.(1983).Amodelof work,familyandinterroleconflict:Aconstruct validation study. Organizational Behavior and Human Performance,32(2), 198-215.   
+Kopelman, S.,Rosete,A.S.,&Thompson,L.(Oo6).Thethreefaces ofEve: Strategic displaysofpositive,negative,and neutral emotions in negotiations. Organizational Behavior and Human Decision Processes, 99(1),81-101.   
+Kroon,B.,Menting,C.,&van Woerkom,M. (2O15).Why mindfulnesssustains performance: The role of personaland job resources. Industrial and Organizational Psychology, 8(4), 638-642.   
+Lau,M.A.,Bishop,S.R.,Segal,Z.V.,Buis,T.,Anderson,N.D.,Carlson,L...& Devins,G. (206).The Toronto mindfulness scale: Development and validation. Journal of Clinical Psychology, 62(12),1445-1467.   
+Levesque,C.,&Brown,K.W.(2o07).Mindfulnessasmoderatorof theeectofimplicit motivational self-conceptonday to-day behavioral motivation. Motivation and Emotion,31(4),284-299.   
+Li, W.D.,Fay,D.,Frese,M.,Harms,P.D.,&Gao,X.Y. (2014).Reciprocal relationshipbetween proactive personalityand work characteristics: A latent change score approach. Journal of Applied Psychology, 99(5), 948-965.   
+Litle,T.D.,hemtula,M.,Gibson,K.,& Schoemann,A.M. (20l3).Whytheitems versusparcelscontroversyneedn'tbe one.Psychological Methods,18(3),285-300.   
+Litzinger，S.,& Gordon,K.C.(2oo5).Exploring relationshipsamongcommunication,sexual satisfaction,and marital satisfaction. Journal of Sex & Marital Therapy, 31(5), 409-424.   
+Liu,Y.,Liu,J.,& Wu,L(2).trategicmotinalisplay: Anexaminatioofits terpersoalandcareroutcoms.Creer Development International,17(6),518-56.   
+Lively,K.J.,&owel,B.(O6).Emotioalexpressonat workandatome:omain,status,orindividualharacteristics. Social Psychology Quarterly, 69(1),17-38.   
+Ma,H.Y.,Sheng,C.G.,Yang,J.,TangH.Y.,& Xie,J.L.(2014).Boundary flexibilityand work-familyconflict and enrichment: from person-environment fit perspective. Acta Psychologica Sinica, 46(4),540-551.   
+[马红宇，申传刚，杨璟，唐汉瑛，谢菊兰.(2014).边界弹性与工作-家庭冲突,增益的关系：基于人-环境匹配的视 角.心理学报,46(4),540-551.]   
+Miler,K.I. (2007). Compassionate communication in the workplace: Exploring processesof noticing,connecting,and responding. Journal of Applied Communication Research, 35(3),223-245.   
+Montani,F.,Dagenais-Desmarais,V. Giorgi,G,&Gregoire,S. (18). Aconservationofresources perspectiveongative affect and innovative work behaviour: The role of affect activation and mindfulness.Journal of Business and Psychology,33(1),123-139   
+Montes-Maroto,G.,Rodriguez-MunozA.,Antino,M.,&Gil,F. (20l8).Mindfulness beyondtheindividual: Spillvernd crossover effects in working couples.Mindfulness,9(4),1258-1267.   
+Morgan,W.D.,& Morgan,S.T. (2o5). Cultivating atention and empathy.In C.K.Germer,R.D.Siegel,&P.R.Fulton (Eds.),Mindfulness and psychotherapy (pp.73-90). New York: The Guilford Press.   
+Moskowitz,D.S.,&Young,S.N. (206).Ecologicalmomentaryassssment: What itisand why itisa methodofthe future in clinical psychopharmacology.Journal of Psychiatry and Neuroscience, 31(1),13-20.   
+Muthen,L.K.,& Muthen,B.O. (Eds.).(1998-2017). Mplus user's guide (Eighth ed.).Los Angeles,CA: Muthen&Muthen.   
+Ni,D.,& Zheng, X. M. (2019). Have you been mindfulness today? Mindfulness helps you improve your work and family experience. Tsinghua Business Review,(11),42-49.   
+[倪丹，郑晓明.(2019).今天，你正念了吗?——正念帮你改善工作家庭体验.清华管理评论,(11),42-49.]   
+Pakenham,K.I.,& Samios,C.(20l3). Couples coping with multiple sclerosis: A dyadic perspective on the roles of mindfulness and acceptance. Journal of Behavioral Medicine, 36(4),389-400.   
+Parkinson,B.(997). Untanglingthe appraisal-emotionconection.Personalityand Social Psychology Review,1(1),6279.   
+Pietrzak,T.,Hauke,G.,&Lohr,C.(2O16).Connecting Couples Intervention: Improving couples’empathyand emotional regulation using embodied empathy mechanisms. European Psychotherapy,13,66-98.   
+Pratscher,S.D., Wood,P.K,King,L.A.,&Betencourt,B.A. (2019).Interpersonal mindfulne: Scale developmentand initial construct validation. Mindfulness,10(6),1044-1061.   
+Preacher,K.J.,Rucker,D.D.,& Hayes,A.F.(2o07).Addressing moderated mediation hypotheses: Theory, methods,and prescriptions. Multivariate Behavioral Research, 42(1),185-227.   
+Preacher,K.J.,Zhang,Z.,& Zyphur,M.J. (2011).Alternative methods for assessing mediation in multilevel data:The advantages of multilevel SEM. Structural Equation Modeling,18(2),161-182.   
+Preacher,K.J.,Zyphur,M.J.,& Zhang,Z.(2010).A general multilevel SEM framework for asesing multilevel mediation. Psychological Methods,15(3),209-233.   
+Purser,R.E.，&Mililo,J. (2015).Mindfulnessrevisited:A Buddhist-based conceptualization.Journalof Management Inquiry,24(1), 3-24.   
+Reb,J.,Narayanan,J.,& Chaturvedi,S.(2014).Leading mindfuly:Two studieson the influenceof supervisor trait mindfulness on employee well-being and performance. Mindfulness, 5(1),36-45.   
+Sanz-Vergel,A.I.,Rodriguez-Munoz,A.，Bakker,A.B.,& Demerouti,E. (20l2).Thedailyspiloverandcrossoverof emotional labor: Faking emotions at work and at home. Journal of Vocational Behavior,81(2),209-217.   
+Schaufeli, W.B.,Bakker,A.B,&Salanova,M.(2Oo6).The measurement of work engagementwithashort questionnaire: A cross-national study. Educational and Psychological Measurement, 66(4),701-716.   
+Schuh,S.C.,Zheng,M.X.,Xin,K.R.,&Ferandez,J.A. (219).Theiterpersonalbenefitsofleader mindfulness:Aserial mediation model linking leader mindfulness，leader procedural justice enactment，and employee exhaustion and performance.Journal of Business Ethics,156(4),1007-1025.   
+Schute,N.S.,&Malouf,J.M.(0l1).Emotioal intelligence mediates therelationshipbetweenmindfulnessandsubjective well-being. Personality and Individual Differences,50(7),1116-1119.   
+Selig,J.P.,&reacr,K.J.(8).onteCarlmetodforingmediationAnnteractivetoolfreatingcofdence intervalsfor indect efects.[Computersoftware].Rerieved fromhtp://quantpsy.org.   
+Shapiro，S.L.,Carlson,L.E.，Astin,J.A.,&Freedman,B.(20o6).Mechanismsof mindfulnessJournalofClinical Psychology, 62(3), 373-386.   
+Snijders,T.A.,&Bosker,R.J.(Eds.).(1999).Multilevelanalysis:Anintroductiontobasicandadvancedmultilevelmodeling. Sage, London.   
+Song, Z.,Foo,M.D.,& Uy,M.A.(2o08). Mood spilover and crossover among dual-earner couples: Acellphone event sampling study. Journal of Applied Psychology, 93(2), 443-452.   
+Song,Z.,Foo,M.D.,Uy,M.A.,&Sun,S. (2Ol1).Unravelingthedailystresscrossoverbetweenunemployedindividualsand their employed spouses.Journal of Applied Psychology, 96(1),151-168.   
+Sonnentag, S.,&Bayer,U.V. (2Oo5).Switching offmentall: Predictors andconsequences ofpsychological detachment from work during off-job time. Journal of Occupational Health Psychology,10(4),393-414.   
+Staw,B.M.,Suton,R.I.,&Pelled,L.H.(1994).Employee positive emotionand favorableoutcomes at the workplace. Organization Science, 5(1),51-71.   
+Sun. X.,Yan,M.,Chu, X.P. (2014).Passive mood and work behavior: The cro-evel mediating efect of zhong-yong thinking style. Acta Psychologica Sinica, 46(11),1704-1718.   
+[孙旭，严鸣，储小平.(2014).坏心情与工作行为：中庸思维跨层次的调节作用.心理学报,46(11),1704-1718.]   
+Sutcliffe,K.M., Vogus,T.J.,& Dane,E. (2016). Mindfulness inorganizations: Across-levelreview.AnnualReviewof Organizational Psychology and Organizational Behavior,3,55-81.   
+Takeuchi,R.,Yun,S.,&Tesuk,P.E. (2oO2).Anexaminationofrossoverandsplovereffectsofspousalandxpatriate cross-cultural adjustment on expatriate outcomes. Journal of Applied Psychology, 87(4), 655-666.   
+Taylor,N.Z,& Millear,P.M.R.(2016).Thecontributionofmindfulnesstopredicting burnout in the workplace.Personality and Individual Differences,89,123-128.   
+Thoits,P.A. (1986).Multiple identities: Examining genderand marital status diferences indistre.American Sociological Review, 259-272.   
+Thompson,B.M.,&Cavalaro,L.(2O07).Gender,work-basedsupportandfamilyoutcomes.Stressand Health,23(2),73 85.   
+Turpyn,C.C.,& Chaplin,T.M. (2016).Mindful parenting and parents’emotion expression: Efects onadolescent risk behaviors. Mindfulness,7(1),246-254.   
+Wachs，K.，& Cordova,J.V.(2007).Mindful relating:Exploring mindfulnessand emotionrepertoiresin intimate relationships.Journal of Marital and Family Therapy,33(4), 464-481.   
+Wang,Y.L.,Zhang,Z.Y.,He,Y. (20l2).Theresearchonthe effectsof work-familysupportonemployees'creativity.Acta Psychologica Sinica, 44(12),1651-1662.   
+[王永丽，张智宇，何颖.(2012).工作-家庭支持对员工创造力的影响探讨.心理学报,44(12),1651-1662.]   
+Wang, Z.,Jex,S.M.,eng,Y.Liu,L,& Wang,S.(0l9).Emotionregulationinsupervisoryinteractionsand maritalellbeing: A spillover-crossover perspective. Journal of Occupational Health Psychology, 24(4), 467-481.   
+Westman,M.,Etzion,D.,& Chen,S. (20o9). Crossoverof positive experiences frombusinesstravelers to theirspouses. Journal of Managerial Psychology, 24(3),269-284.   
+Wiliams,J.M.G. (8).indfunes,depresionand modes ofmind.CogniiveThrapyand Research,2(6),72-73.   
+Willams,A.M.,& Cano,A. (2014).Spousal mindfulnessand social support incouples with chronic pain.The Clinical Journal of Pain,30(6), 528-535.   
+Willims,L.JVandenberg,R.J,&Edwards,J.R.(20).12structuralequationmodelinginmanagementresearch:Aguide for improved analysis. Academy of Management Annals, 3(1), 543-604.   
+Wright,D.L.，Aquilino,W.S.& Suppe,A.J. (1998).A comparisonof computer-asistedand paper-and-pencil selfadministered questionnaires in a surveyon smoking,alcohol,and drug use.Public Opinion Quarterly, 62(3),331-353.   
+Xanthopoulou,D.,Baker,A.B.,Demerouti,E.,&Schaufeli, W.B.(o7).Theroleofpersonalresources in the jobdemandsresources model. International Journal of Stress Management,14(2),121-141.   
+Xanthopoulou,D.,Bakker,A.B.,Dollard,M.F.,Demerouti,E.,Schaufeli,W.B.,Taris,T.W.,&Schreurs,P.J.(0). When do job demands particularly predict burnout?. Journal of Managerial Psychology,22(8),766-786.   
+Xie,J., Zhou,Z.E.,& Gong,Y. (20l8).Relationshipbetween proactive personalityand marital satisfaction:A spillovercrossover perspective.Personality and Individual Differences,128,75-80.   
+Xie, J. L., Ma,H.Y.,Tang H.Y.,&Jiang H. (2O17).Familysupportivesupervisorbehaviorand marital satisfaction among Chinese dual-earmer couples: Testingapositive spilover-crossover model.Acta Psychologica Sinica,49(3),359-369.   
+[谢菊兰，马红宇，唐汉瑛，姜海.(2017).家庭支持型主管行为与双职工夫妻的婚姻满意感：一个积极溢出-交叉模 型.心理学报,49(3),359-369.]   
+Yoo,H.,Bartle-Haring,S.,Day,R.D.,&Gangamma,R.(2014).Couplecommunication,emotionaland sexual intimacyand relationship satisfaction. Journal of Sex & Marital Therapy,40(4),275-293.   
+Zhang, J., Song,J. W.,& Wang,Y.(2017).Mindfulness in the workplace: A literature review and prospects.Foreign Economics & Management, 39(8), 56-70.   
+[张静，宋继文，王悦.(2017).工作场所正念：研究述评与展望.外国经济与管理,39(8),56-70.]   
+Zhao,K.,Zhang,M.,Kraimer,M.L.,&Yang,B. (2O19).Sourceatributionmaters:Mediationandmoderatioeects inthe relationshipbetween work-to-familyconflictandjob satisfaction.Journalof Organizational Behavior,40(4),492-505.   
+Zheng,X.M.,&Ni,D.(2018).Reviewofmindfulnessresearch inorganizational management.Management Review,30(10), 155-170.   
+[郑晓明,倪丹.(2018).组织管理中正念研究述评.管理评论,30(10),155-170.]   
+Zheng,X.M.,Ni,D.,&Liu,X.(O19).Theeffctofmindfulness on work-to-familyenrichment:Evidencefromexperience sampling methods. Chinese Journal ofManagement,16(3),360-368.   
+[郑晓明，倪丹，刘鑫.(2019).基于体验抽样法的正念对工作-家庭增益的影响研究.管理学报,16(3),360-368.]
+
+# The effects of employee mindfulness on spouse family satisfaction and work engagement
+
+NI Dan1;LIU Chenlin1; ZHENG Xiaoming
+
+(SchoolofEconomicsand Management,Tsinghua University,Beijing looo84,China)
+
+# Abstract
+
+Based on conservation of resources (COR） theory, this paper examines how and when employee mindfulness influences spouse family satisfaction and work engagement. It proposes that employee mindfulness as an important resource is positively related to spouse family satisfaction and work engagement by strategic emotional connecting display. Meanwhile, COR theory suggests that threats to resources Would urge individuals to protect rather than consume the remaining resources.Thus,this study considers spouse family negative emotional expresson as a moderator in the relationship between employee mindfulness and employee strategic emotional connecting display.
+
+We collected data from front-line employees in a commercial bank in Northern China and their spouses by experience sampling methodology. At Time 1(one week before the start of the daily surveys), we invited 129 front-line employees to offer demographic information. We also asked their spouses to provide demographic information and rate the variable at the between-person level (i.e.,family negative emotional expression). During 10 workdays,we invited participants to rate the variables at the within-person level. At 9 a.m., spouses received a link to assess their work engagement. At $8 { : } 3 0 ~ \mathrm { p . m } .$ , employees and their spouses received a link respectively. Employees rated their mindfulness and strategic emotional connecting display, and spouses were asked to rate their family satisfaction. The final valid sample consisted of 114 employees and 114 their spouses.Mplus 8.0 and the bootstrap technique were used to test our hypotheses.
+
+As hypothesized,our study found that employee mindfulness was positively and significantly related to employee strategic emotional connecting display. Employee strategic emotional connecting display was positively and significantly associated with spouse family satisfaction and work engagement in the next morning. Additionally,employee strategic emotional connecting display mediated the effects of employee mindfulness on spouse family satisfaction and spouse work engagement in the next morning. Moreover, spouse family negative emotional expresion moderated the positive relationship between employee mindfulness and employee strategic emotional connecting display. That is, when spouse family negative emotional expresson was higher rather than lower,the positive relationship between employee mindfulness and employee strategic emotional connecting display was weakened. The moderated mediation model was also supported such that the indirect effects of employee mindfulness on spouse outcomes (i.e., family satisfaction and work engagement in the next morning) via employee strategic emotional connecting display were weakened when spouse family negative emotional expression was higher rather than lower.
+
+This study contributes to the mindfulness literature in multiple ways.First, our study enriches the interpersonal effcts of mindfulnessliterature and advances research on the work-family interface by linking employee mindfulness to spouse work and family outcomes. Second, this study opens the “black box” between employee mindfulness and spouse outcomes by exploring the mediating mechanism of strategic emotional connecting display. This study also extends the antecedent of strategic emotional connecting display and enriches the nomological network of this construct. Third, this study explores the moderating roleof spouse family negative emotional expression, which responds to the call ofthe previous studies and enhances our understanding of the boundary conditions of the effects of employee mindfulness.Finally,by adopting experience sampling methodology, this study can obtain a large number of ecological data sets to capture the dynamic nature of relationships in the model. In addition to the theoretical contributions, this study also provides useful guidance for management practice.
+
+Key words: mindfulness, strategic emotional connecting display, family satisfaction, work engagement, family negative emotional expression

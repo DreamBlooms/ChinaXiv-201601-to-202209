@@ -1,0 +1,1961 @@
+[
+    {
+        "type": "text",
+        "text": "Higher Spins and Yangian Symmetries ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Matthias R. Gaberdielα，Rajesh Gopakumarb，Wei Lic and Cheng Pengd ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a Institut fir Theoretische Physik, ETH Zurich, CH-8093 Zurich, Switzerland   \nb International Centre for Theoretical Sciences-TIFR, Survey No. 151， Shivakote, Hesaraghatta Hobli, Bengaluru North, India 560 089   \nc CAS Key Laboratory of Theoretical Physics, Institute of Theoretical Physics, Chinese Academy of Sciences, 100190 Beijing, P.R. China   \n$d$ Department of Physics, Brown University, 182 Hope Street, Providence, RI 02912， USA   \nE-mail: gaberdiel@itp.phys.ethz.ch,   \nrajesh.gopakumar@icts.res.in， weili@itp.ac.cn,   \ncheng_peng@brown.edu ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT: The relation between the bosonic higher spin ${ \\mathcal W } _ { \\infty } [ \\lambda ]$ algebra, the affine Yangian of ${ \\mathfrak { g l } } _ { 1 }$ ，and the SH $c$ algebra is established in detail. For generic $\\lambda$ we find explicit expressions for the low-lying ${ \\mathcal W } _ { \\infty } [ \\lambda ]$ modes in terms of the affine Yangian generators,and deduce from this the precise identification between $\\lambda$ and the parameters of the affine Yangian. Furthermore, for the free field cases corresponding to $\\lambda = 0$ and $\\lambda = 1$ we give closed-form expressions for the affine Yangian generators in terms of the free fields. Interestingly, the relation between the $\\mathcal { W } _ { \\infty }$ modes and those of the affine Yangian is a non-local one, in general. We also establish the explicit dictionary between the affine Yangian and the SH $\\mathbf { \\Psi } _ { . } ^ { c }$ generators. Given that Yangian algebras are the hallmark of integrability, these identifications should pave the way towards uncovering the relation between the integrable and the higher spin symmetries. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Contents ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1Introduction 1 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2The affine Yangian and $\\mathcal { W } _ { 1 + \\infty } [ \\lambda ]$ 3 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1The affine Yangian of ${ \\mathfrak { g l } } _ { 1 }$ 3   \n2.2The algebra $\\mathcal { W } _ { 1 + \\infty } [ \\lambda ]$ 7 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Relating $\\mathcal { W } _ { 1 + \\infty } [ \\lambda ]$ and the affine Yangian of ${ \\mathfrak { g l } } _ { 1 }$ 8 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1Identification of generators 8 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 The spin-one and spin-two generators 8   \n3.1.2 The spin-three generators 9   \n3.1.3 The spin-4 generators and the spin-3 commutators 11 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2Decoupling the $\\mathfrak { u } ( 1 )$ currents 11 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.3Determining the structure constant 12 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.4 Triality symmetry 14   \n3.5 The universal enveloping algebra and representations 15 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4Free field realizations 17 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4.1 The free fermion construction 18   \n4.2 The free boson construction 19 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5The relation to $\\mathbf { S H } ^ { c }$ 20 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5.1 The SH $c$ algebra and its isomorphism to the affine Yangian of gl1 21   \n5.2 The relation to $\\mathcal { W } _ { 1 + \\infty } [ \\lambda ]$ （204号 23   \n5.3 （20 $N$ -tuple Young diagram representation of SH $\\mathbf { \\Psi } _ { c } ^ { c }$ （204号 24 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "6Discussion 25 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A The construction of the local spin-4 field 27 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The higher spin - CFT duality allows one to get a glimpse at the large symmetry algebra underlying string theory [1-3]. Indeed, the higher spin symmetry of string theory is believed to appear at the tensionless point in AdS [4-6]，where infinitely many felds of spin greater than two become massless and give rise to a Vasiliev higher spin theory [7]. A concrete description of this phenomenon was found for the case of AdS $_ 3$ in [8],and at least for this specific background, it is now possible to study the large unbroken symmetry algebra of string theory in detail. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The tensionless point of string theory on AdS is dual to the free limit of the dual field theory, at which the integrable structure of the field theory should have an explicit realization. It is then a natural question how the integrable structure relates to the higher spin and the stringy symmetries. In this paper we begin to explore this question by studying the relation between the higher spin (and the stringy) symmetry algebra on AdS $_ 3$ , and certain Yangian algebras. Yangian algebras appear naturally in spin-chain models and are a hallmark of integrability. More specifically, we shall explore this question for the original bosonic version of the higher spin - CFT duality [9]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Some time ago it was noted [1O, 11] that the affine Yangian of ${ \\mathfrak { g l } } _ { 1 }$ (as defined in [10,12]） is isomorphic to $\\mathcal { W } _ { 1 + \\infty } [ \\lambda ]$ , the asymptotic symmetry algebra of the bosonic higher spin theory on AdS $^ 3$ .1 This isomorphism arises as the rational limit of the equivalence between the quantum-deformed $\\mathcal { W } _ { 1 + \\infty }$ algebra and the quantum toroidal algebra of ${ \\mathfrak { g l } } _ { 1 }$ [10],generalizing the construction of [13] to the toroidal case. The toroidal isomorphism was first pointed out in [14],and the definition of the quantum toroidal algebra (or quantum affinization of the affine Lie algebra) of ${ \\mathfrak { g l } } _ { 1 }$ was inspired by [15]； the toroidal isomorphism was also independently re-derived in a series of papers [16-18]. More recently, the construction of the quantum toroidal algebras was generalized further to arbitrary quiver diagrams in [19]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In [11] Prochazka proposed a concrete dictionary for how the parameters of the affine Yangian of ${ \\mathfrak { g l } } _ { 1 }$ and $\\mathcal { W } _ { 1 + \\infty } [ \\lambda ]$ are related to each other, and gave circumstantial evidence for this by comparing the structure of some representations. In this paper we confirm his claim independently by constructing the low-lying ${ \\mathcal W } _ { \\infty } [ \\lambda ]$ generators explicitly in terms of the affine Yangian generators. This allows us to determine the two structure constants that characterize the ${ \\mathcal W } _ { \\infty } [ \\lambda ]$ algebra [20] - the central charge $c$ and the OPE coefficient $C _ { 3 3 } ^ { 4 }$ describing the coupling of two spin-3 fields to the spin-4 field - and thereby check the proposed dictionary. We also establish this identification for the two free field cases, the free fermion case corresponding to $\\lambda = 0$ (which was already analysed in [11]） as well as the the free boson construction leading to the algebra with $\\lambda = 1$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "One of the interesting lessons of our analysis is that in general the modes of the local fields of the ${ \\mathcal W } _ { \\infty } [ \\lambda ]$ algebra involve infinite linear combinations of the Yangian generators, reflecting the inherently non-local structure of the Yangian algebra. Our analysis also allows us to clarify the way in which the triality symmetry of the ${ \\mathcal W } _ { \\infty } [ \\lambda ]$ algebra arises in the affine Yangian description. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The affine Yangian of ${ \\mathfrak { g l } } _ { 1 }$ is also believed to be isomorphic to the spherical degenerate double affine Hecke algebra, also called SH $c$ algebra, of [21]. (In fact, the affine Yangian of ${ \\mathfrak { g l } } _ { 1 }$ was first constructed (in the RTT formulation) by [22] at around the same time as [21], in the context of proving the AGT correspondence.） While this relation seems to be known to the experts,an explicit description of the underlying isomorphism does not seem to exist in the literature,and we have therefore also included an explicit account of it here. Among other things this allows us to explain how different natural classes of representations are related to one another. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "All of these considerations concern the original higher spin symmetry algebra ${ \\mathcal W } _ { \\infty }$ ， rather than the stringy symmetry algebra, i.e. the Higher Spin Square [23]. This therefore suggests that the integrable structure should already be visible in terms of the higher spin theory, and may not require including the stringy degrees of freedom. It would nevertheless be very interesting to understand how the Higher Spin Square algebra can be brought into the fold. On the face of it, it also seems to correspond to some Yangian algebra [23], but this does not seem to be directly related to the Yangian algebras we encounter in this paper. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The paper is organized as follows. In Section 2 we briefly review the structure of the affine Yangian of ${ \\mathfrak { g l } } _ { 1 }$ and the higher spin algebra ${ \\mathcal W } _ { \\infty } [ \\lambda ]$ . Section 3 is concerned with working out the relation between the two structures. We also explain (in Sections 3.4 and 3.5) how the triality symmetry is realized, and how the representations can be identifed. Section 4 deals with the two free field realizations that provide specific incarnations of the general dictionary, and in Section 5 we establish the detailed correspondence with the SH $c$ algebra. Finally, Section 6 contains our conclusions. There is one appendix in which some of the details of the construction of the spin-4 field of ${ \\mathcal W } _ { \\infty } [ \\lambda ]$ in terms of affine Yangian generators is explained in some detail. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 The affine Yangian and $\\mathcal { W } _ { 1 + \\infty } [ \\lambda ]$ ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We begin by reviewing the structure of the affine Yangian in Section 2.1, and that of $\\mathcal { W } _ { 1 + \\infty } [ \\lambda ]$ in Section 2.2. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 The affine Yangian of ${ \\mathfrak { g l } } _ { 1 }$ ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The affine Yangian of ${ \\mathfrak { g l } } _ { 1 }$ is the associative algebra generated by the generators $e _ { j }$ ， $f _ { j }$ ，and $\\psi _ { j }$ with $j = 0 , 1 , \\ldots$ ， subject to a set of commutation and anti-commutation relations that are most easily described in terms of the generating functions [10] ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne ( z ) = \\sum _ { j = 0 } ^ { \\infty } \\frac { e _ { j } } { z ^ { j + 1 } } ~ , \\qquad f ( z ) = \\sum _ { j = 0 } ^ { \\infty } \\frac { f _ { j } } { z ^ { j + 1 } } ~ , \\qquad \\psi ( z ) = 1 + \\sigma _ { 3 } \\sum _ { j = 0 } ^ { \\infty } \\frac { \\psi _ { j } } { z ^ { j + 1 } } ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $z$ is a‘spectral’ parameter, and $\\sigma _ { 3 } = h _ { 1 } h _ { 2 } h _ { 3 }$ . Here $( h _ { 1 } , h _ { 2 } , h _ { 3 } )$ is a triplet of parameters whose sum is zero ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { 1 } \\equiv h _ { 1 } + h _ { 2 } + h _ { 3 } = 0 \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and we denote their symmetric powers by ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { 2 } \\equiv h _ { 1 } h _ { 2 } + h _ { 2 } h _ { 3 } + h _ { 1 } h _ { 3 } \\ , \\qquad \\sigma _ { 3 } \\equiv h _ { 1 } h _ { 2 } h _ { 3 } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In order to describe the relations we introduce the function ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varphi ( z ) = { \\frac { ( z + h _ { 1 } ) ( z + h _ { 2 } ) ( z + h _ { 3 } ) } { ( z - h _ { 1 } ) ( z - h _ { 2 } ) ( z - h _ { 3 } ) } } = { \\frac { z ^ { 3 } + \\sigma _ { 2 } z + \\sigma _ { 3 } } { z ^ { 3 } + \\sigma _ { 2 } z - \\sigma _ { 3 } } } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "which satisfies the obvious identity ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varphi ( z ) \\varphi ( - z ) = 1 ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The relations of the affine Yangian are then ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { e ( z ) e ( w ) } } & { { \\sim } } & { { \\varphi ( z - w ) e ( w ) e ( z ) } } \\\\ { { } } & { { } } & { { f ( z ) f ( w ) } } & { { \\sim \\ \\varphi ( w - z ) f ( w ) f ( z ) } } \\\\ { { } } & { { } } & { { \\psi ( z ) e ( w ) } } & { { \\sim \\ \\varphi ( z - w ) e ( w ) \\psi ( z ) } } \\\\ { { } } & { { } } & { { \\psi ( z ) f ( w ) } } & { { \\sim \\ \\varphi ( w - z ) f ( w ) \\psi ( z ) \\ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\cdot \\sim$ means equality up to terms that are regular at $z = 0$ or $w = 0$ . (Note that in eq. (2.1) the generators of the algebra are all associated to singular terms of the spectral parameter.） In addition we have the identity ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne ( z ) f ( w ) - f ( w ) e ( z ) = - \\frac { 1 } { \\sigma _ { 3 } } \\frac { \\psi ( z ) - \\psi ( w ) } { z - w } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "as well as the Serre relations ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { \\pi \\in S _ { 3 } } \\left( z _ { \\pi ( 1 ) } - 2 z _ { \\pi ( 2 ) } + z _ { \\pi ( 3 ) } \\right) e \\left( z _ { \\pi ( 1 ) } \\right) e \\left( z _ { \\pi ( 2 ) } \\right) e \\left( z _ { \\pi ( 3 ) } \\right) = 0 \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "together with the same identity for $f ( z )$ . This formulation is particularly suited for describing the representation theory of the affine Yangian as we will see at the end of this section. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In order to get a feeling for what these relations mean, it is useful to write them out in terms of modes. For example,multiplying the first equation (2.6) by the denominator of (2.4) we obtain ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { 3 } \\big \\{ e ( z ) , e ( w ) \\big \\} = \\Big ( ( z - w ) ^ { 3 } + \\sigma _ { 2 } ( z - w ) \\Big ) \\big [ e ( z ) , e ( w ) \\big ] \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "which upon expanding out in terms of modes leads to the relation ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\sigma _ { 3 } \\{ e _ { j } , e _ { k } \\} = [ e _ { j + 3 } , e _ { k } ] - 3 [ e _ { j + 2 } , e _ { k + 1 } ] + 3 [ e _ { j + 1 } , e _ { k + 2 } ] - [ e _ { j } , e _ { k + 3 } ] } } \\\\ { { { } } } \\\\ { { + \\sigma _ { 2 } [ e _ { j + 1 } , e _ { k } ] - \\sigma _ { 2 } [ e _ { j } , e _ { k + 1 } ] . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The other cases work similarly, and we find in addition the identities (see also [11]) ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { 0 = [ \\psi _ { j } , \\psi _ { k } ] } } \\\\ { { } } \\\\ { { - \\sigma _ { 3 } \\{ f _ { j } , f _ { k } \\} = [ f _ { j + 3 } , f _ { k } ] - 3 [ f _ { j + 2 } , f _ { k + 1 } ] + 3 [ f _ { j + 1 } , f _ { k + 2 } ] - [ f _ { j } , f _ { k + 3 } ] } } \\\\ { { } } \\\\ { { + \\sigma _ { 2 } [ f _ { j + 1 } , f _ { k } ] - \\sigma _ { 2 } [ f _ { j } , f _ { k + 1 } ] } } \\\\ { { } } \\\\ { { \\psi _ { j + k } = [ e _ { j } , f _ { k } ] } } \\\\ { { \\sigma _ { 3 } \\{ \\psi _ { j } , e _ { k } \\} = [ \\psi _ { j + 3 } , e _ { k } ] - 3 [ \\psi _ { j + 2 } , e _ { k + 1 } ] + 3 [ \\psi _ { j + 1 } , e _ { k + 2 } ] - [ \\psi _ { j } , e _ { k + 3 } ] } } \\\\ { { } } \\\\ { { + \\sigma _ { 2 } [ \\psi _ { j + 1 } , e _ { k } ] - \\sigma _ { 2 } [ \\psi _ { j } , e _ { k + 1 } ] } } \\\\ { { - \\sigma _ { 3 } \\{ \\psi _ { j } , f _ { k } \\} = [ \\psi _ { j + 3 } , f _ { k } ] - 3 [ \\psi _ { j } , f _ { k + 1 } ] + 3 [ \\psi _ { j + 1 } , f _ { k } ] - [ \\psi _ { j } , f _ { k + 3 } ] } } \\\\ { { + \\sigma _ { 2 } [ \\psi _ { j + 1 } , f _ { k } ] - \\sigma _ { 2 } [ \\psi _ { j } , f _ { k + 1 } ] ~ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "together with the low order relations ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ \\psi _ { 0 } , e _ { j } ] = 0 \\ , \\qquad [ \\psi _ { 1 } , e _ { j } ] = 0 \\ , \\qquad [ \\psi _ { 2 } , e _ { j } ] = 2 e _ { j } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ \\psi _ { 0 } , f _ { j } ] = 0 \\ , \\qquad [ \\psi _ { 1 } , f _ { j } ] = 0 \\ , \\qquad [ \\psi _ { 2 } , f _ { j } ] = - 2 f _ { j } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "as well as the Serre relations ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S y m } _ { ( j _ { 1 } , j _ { 2 } , j _ { 3 } ) } [ e _ { j _ { 1 } } , [ e _ { j _ { 2 } } , e _ { j _ { 3 } + 1 } ] ] = 0 \\ , \\qquad \\mathrm { S y m } _ { ( j _ { 1 } , j _ { 2 } , j _ { 3 } ) } [ f _ { j _ { 1 } } , [ f _ { j _ { 2 } } , f _ { j _ { 3 } + 1 } ] ] = 0 \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "It is immediate from the above commutation relations that the affine Yangian contains two central elements, namely $\\psi _ { 0 }$ and $\\psi _ { 1 }$ . In a given representation, the algebra is therefore characterized by four independent parameters: $\\psi _ { 0 }$ and $\\psi _ { 1 }$ ， together with $\\sigma _ { 2 }$ and $\\sigma _ { 3 }$ . However,not all four parameters are independent since the algebra possesses a scaling symmetry ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\psi _ { j } \\mapsto \\alpha ^ { j - 2 } \\psi _ { j } ~ , \\qquad e _ { j } \\mapsto \\alpha ^ { j - 1 } e _ { j } ~ , \\qquad f _ { j } \\mapsto \\alpha ^ { j - 1 } f _ { j } ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "under which the above relations remain invariant provided we also scale $\\sigma _ { 2 } \\mapsto \\alpha ^ { 2 } \\sigma _ { 2 }$ and $\\sigma _ { 3 } \\mapsto \\alpha ^ { 3 } \\sigma _ { 3 }$ ,i.e. ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { j } \\mapsto \\alpha h _ { j } ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Thus the algebra actually only depends on three of the four parameters $\\sigma _ { 2 }$ ， $\\sigma _ { 3 }$ ， $\\psi _ { 0 }$ （204 and $\\psi _ { 1 }$ ; in particular, we may consider the scale-invariant combinations ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { 2 } \\psi _ { 0 } ~ , \\qquad \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } ^ { 3 } ~ , \\qquad \\mathrm { a n d } \\qquad \\psi _ { 1 } ^ { 2 } \\psi _ { 0 } ^ { - 1 } ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "There is a very natural class of representations of the affine Yangian of ${ \\mathfrak { g l } } _ { 1 }$ which are of interest in the connection to the $\\mathcal { W } _ { \\infty }$ algebra.2 These representations are best viewed in terms of plane partitions, i.e. three-dimensional box stacking configurations.’ They are special in that they have a finite number of states at every level and thus possess infinitely many null states; they are discussed in some detail in [11, 25], and we only summarize the salient aspects which we will draw upon later. A generic plane partition representation is labelled by three Young tableaux. These Young tableaux correspond to the asymptotic box configurations (along the three positive axes) of a three dimensional box stacking configuration. A valid stacking is one in which the number of boxes are non-increasing as one moves from any site to a neighboring site along any of the three positive directions (see Figure 1). ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e252fe080d92ad03ef2822ba0269076af1035ba7d5af26240cd0c57995795d2e.jpg",
+        "img_caption": [
+            "Figure 1. There are four types of plane partition representations, depending on how many of the three asymptotics are non-trivial. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The highest weight state of a representation (labelled by three Young tableaux) is the plane partition configuration with the minimum number of boxes consistent with the specified asymptotics (the blue boxes in Figure 1). The other states in the representation are obtained by the repeated action of the Yangian generators on this representation (given by the yellow boxes in Figure 1). This action is given in terms of adding/removing boxes from a given valid stacking configuration. To be specific, we have the action of the generating functions (2.1) [11] ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\psi ( z ) | \\Lambda \\rangle = \\psi _ { \\Lambda } ( z ) | \\Lambda \\rangle ~ , } } \\\\ { { \\displaystyle e ( z ) | \\Lambda \\rangle = \\sum _ { \\bigsqcup \\in { \\mathrm { A d d } } ( \\Lambda ) } \\frac { \\big [ - \\frac { 1 } { \\sigma _ { 3 } } \\mathrm { R e s } _ { w = h ( \\bigtriangledown ) } \\psi _ { \\Lambda } ( w ) \\big ] ^ { \\frac { 1 } { 2 } } } { z - h ( \\bigtriangledown ) } | \\Lambda + \\bigtriangledown \\rangle ~ , } } \\\\ { { \\displaystyle f ( z ) | \\Lambda \\rangle = \\sum _ { \\bigsqcup \\in { \\mathrm { R e m } } ( \\Lambda ) } \\frac { \\big [ - \\frac { 1 } { \\sigma _ { 3 } } \\mathrm { R e s } _ { w = h ( \\bigtriangledown ) } \\psi _ { \\Lambda } ( w ) \\big ] ^ { \\frac { 1 } { 2 } } } { z - h ( \\bigtriangledown ) } | \\Lambda - \\bigtriangledown \\rangle ~ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where ‘Res’ denotes the residue. Thus $\\psi ( z )$ acts diagonally on a plane partition configuration $\\Lambda$ with eigenvalue ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\psi _ { \\Lambda } ( z ) = \\bigl ( 1 + { \\frac { \\psi _ { 0 } \\sigma _ { 3 } } { z } } \\bigr ) \\prod _ { \\lbrack \\in \\Lambda } \\varphi ( z - h ( \\varTheta ) ) \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh ( \\sqcup ) = h _ { 1 } x ( \\bigsqcup ) + h _ { 2 } y ( \\bigsqcup ) + h _ { 3 } z ( \\bigsqcup )\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "with $x ( \\sqsubseteq )$ the $x$ -coordinate of the box, etc. The RHS of the second and third lines indicate that the action of $e ( z )$ and $f ( z )$ give rise to configurations with one more (or one less) box. The sum is over all plane partition configurations of this kind. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In this language, the vacuum representation of $\\mathcal { W } _ { 1 + \\infty }$ is the plane partition with trivial asymptotics,i.e., its highest weight configuration has no boxes. The character of this representation thus counts all finite plane partitions whose generating function is given by the MacMahon function. The minimal representation is the next simplest case, which has a single box Young tableau boundary condition in one of the three directions (and trivial asymptotic behaviour in the other two). We immediately see that triality,which acts by interchanging the $h _ { i }$ and the three axes，gives rise to two other minimal representations,which have the same character (up to an overall factor involving the conformal dimension of the highest weight), in agreement with the prediction of [20]. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2 The algebra $\\mathcal { W } _ { 1 + \\infty } [ \\lambda ]$ ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The algebra $\\mathcal { W } _ { 1 + \\infty } [ \\lambda ]$ is the $\\mathcal { W }$ algebra that is generated by one independent field for each spin $s = 1 , 2 , 3 , . . .$ . Since it contains a spin-one field,whose commutator can only contain a central term and hence define a $\\mathfrak { u } ( 1 )$ algebra, ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ J _ { m } , J _ { n } ] = m \\kappa \\delta _ { m , - n } ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "we can consider the coset of the $\\mathcal { W } _ { 1 + \\infty } [ \\lambda ]$ algebra by this $\\mathfrak { u } ( 1 )$ field,and hence conclude that ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { W } _ { 1 + \\infty } [ \\lambda ] \\cong \\mathfrak { u } ( 1 ) \\oplus \\mathcal { W } _ { \\infty } [ \\lambda ] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "see, e.g., the discussion in [26]. Here ${ \\mathcal W } _ { \\infty } [ \\lambda ]$ is the $\\mathcal { W }$ algebra generated by one field for each spin $s = 2 , 3 , \\ldots$ ； as was shown in [2O], this algebra is uniquely characterized by the value of the central charge $c$ and the OPE coupling constant $C _ { 3 3 } ^ { 4 }$ describing the coupling of two spin-3 fields to the spin-4 field. This OPE coefficient is parametrized in terms of $c$ and $\\lambda$ as ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( C _ { 3 3 } ^ { 4 } ) ^ { 2 } = \\frac { 6 4 ( c + 2 ) ( \\lambda - 3 ) \\bigl ( c ( \\lambda + 3 ) + 2 ( 4 \\lambda + 3 ) ( \\lambda - 1 ) \\bigr ) } { ( 5 c + 2 2 ) ( \\lambda - 2 ) \\bigl ( c ( \\lambda + 2 ) + ( 3 \\lambda + 2 ) ( \\lambda - 1 ) \\bigr ) } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Since the numerator and denominator of (2.32) are cubic polynomials in $\\lambda$ , there are generically three different values of $\\lambda$ (which also depend on $c$ since the coefficients of the polynomials are functions of $c$ ) that lead to the same OPE structure constant $C _ { 3 3 } ^ { 4 }$ and therefore to the same algebra. This is referred toas the‘triality’symmetry of the algebra. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In addition to the two parameters $( \\lambda , c )$ , the algebra $\\mathcal { W } _ { 1 + \\infty } [ \\lambda ]$ is also characterized by the central term $\\kappa$ in (2.3O),as well as the eigenvalue of the central generator $J _ { 0 }$ .（The coset construction guarantees that $J _ { 0 }$ commutes with all generators of ${ \\mathcal W } _ { \\infty } [ \\lambda ]$ .） Obviously, $\\kappa$ can be rescaled by rescaling the $J _ { m }$ generators, but this would also modify the value of $J _ { 0 }$ ; therefore the (scale) invariant quantity is ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( J _ { 0 } ) ^ { 2 } / \\kappa ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Hence the $\\mathcal { W } _ { 1 + \\infty } [ \\lambda ]$ algebra is also characterized by three parameters, which we may take to be $\\lambda$ ， $c$ , and the ratio (2.33). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3 Relating $\\mathcal { W } _ { 1 + \\infty } [ \\lambda ]$ and the affine Yangian of ${ \\mathfrak { g l } } _ { 1 }$ ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In this section we explain in detail the relation between $\\mathcal { W } _ { 1 + \\infty } [ \\lambda ]$ and the affine Yangian of ${ \\mathfrak { g l } } _ { 1 }$ . We start by identifying the spin-one and spin-two generators. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1 Identification of generators ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 The spin-one and spin-two generators ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Following [11] we identify the $\\mathfrak { u } ( 1 )$ algebra of $\\mathcal { W } _ { 1 + \\infty } [ \\lambda ]$ inside the affine Yangian by setting ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ _ { 1 } = - f _ { 0 } \\ , \\qquad J _ { - 1 } = e _ { 0 } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "so that ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\kappa = \\psi _ { 0 } ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The higher modes of the $\\mathfrak { u } ( 1 )$ algebra can be obtained recursively by using the commutation relations ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ L _ { m } , J _ { n } \\right] = - n J _ { m + n } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(Note that these $L _ { m }$ generators are the full Virasoro generators of the $\\mathcal { W } _ { 1 + \\infty } [ \\lambda ]$ algebra; in particular, they do not commute with the $\\mathfrak { u } ( 1 )$ generators.） In fact,it is enough to use the commutation relations with the Mobius generators $L _ { \\pm 1 }$ (instead of all Virasoro generators $L _ { m }$ ), for which we make the ansatz ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { 1 } = - f _ { 1 } \\ , \\qquad L _ { - 1 } = e _ { 1 } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Then the scaling operator $L _ { 0 }$ is ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { L _ { 0 } = \\frac 1 2 \\left[ L _ { 1 } , L _ { - 1 } \\right] = \\frac 1 2 \\psi _ { 2 } \\ , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "from which we deduce that $J _ { 0 }$ equals ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ _ { 0 } = [ L _ { 1 } , J _ { - 1 } ] = - [ f _ { 1 } , e _ { 0 } ] = \\psi _ { 1 } ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Note that (3.6) is then also equal to $\\psi _ { 1 } = [ e _ { 1 } , f _ { 0 } ] = - [ L _ { - 1 } , J _ { 1 } ]$ ，as required by consistency. The scale-invariant combination from (2.24) ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\psi _ { 1 } ^ { 2 } \\psi _ { 0 } ^ { - 1 } \\cong ( J _ { 0 } ) ^ { 2 } / \\kappa ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "matches then precisely with the invariant combination (2.33). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In order to identify the higher Virasoro generators, we need to specify the form of the generators $L _ { \\pm 2 }$ , for which we make the ansatz, again following [11] ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { L _ { - 2 } = \\frac { 1 } { 2 } \\big ( [ e _ { 2 } , e _ { 0 } ] + \\sigma _ { 3 } \\psi _ { 0 } [ e _ { 0 } , e _ { 1 } ] \\big ) \\ , \\qquad L _ { 2 } = - \\frac { 1 } { 2 } \\big ( [ f _ { 2 } , f _ { 0 } ] + \\sigma _ { 3 } \\psi _ { 0 } [ f _ { 0 } , f _ { 1 } ] \\big ) \\ . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Using the commutation relations of the Virasoro algebra, this then determines recursively all $L _ { m }$ generators (upon taking repeated commutators with $L _ { 1 }$ and $L _ { - 1 }$ ， respectively). The resulting generators then satisfy - we have only checked this explicitly for the first few cases - ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ L _ { m } , L _ { n } \\right] = ( m - n ) L _ { m + n } + { \\frac { c } { 1 2 } } m ( m ^ { 2 } - 1 ) \\delta _ { m , - n } \\ , \\qquad \\mathrm { w i t h } \\quad c = - \\sigma _ { 2 } \\psi _ { 0 } - \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } ^ { 3 } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Note that the parameters that appear in the definition of $c$ are indeed scale-invariant, see eq. (2.24). In addition, the resulting generators are compatible with eqs. (3.3) and (2.30). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1.2 The spin-three generators ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "For the wedge modes of the spin-three generator we now make the ansatz ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c l c r } { { } } & { { } } & { { W _ { - 2 } ^ { 3 } = - [ e _ { 1 } , e _ { 2 } ] } } \\\\ { { } } & { { } } & { { W _ { - 1 } ^ { 3 } = - e _ { 2 } - \\frac { 1 } { 2 } \\sigma _ { 3 } \\psi _ { 0 } e _ { 1 } } } \\\\ { { } } & { { } } & { { W _ { 0 } ^ { 3 } = \\frac { 1 } { 6 } ( - 2 \\psi _ { 3 } - \\sigma _ { 3 } \\psi _ { 0 } \\psi _ { 2 } ) } } \\\\ { { } } & { { } } & { { W _ { 1 } ^ { 3 } = f _ { 2 } + \\frac { 1 } { 2 } \\sigma _ { 3 } \\psi _ { 0 } f _ { 1 } } } \\\\ { { } } & { { } } & { { W _ { 2 } ^ { 3 } = - [ f _ { 1 } , f _ { 2 } ] ~ . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "These modes are constructed so as to have the correct commutation relations with the Mobius generators ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ L _ { m } , W _ { n } ^ { 3 } ] = ( 2 m - n ) W _ { m + n } ^ { 3 } ~ \\mathrm { f o r } ~ m = 0 , \\pm 1 ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "However, the above ansatz cannot be quite correct since, for $| n | \\leq 2$ , the commutators with the spin-one modes $J _ { m }$ are ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ J _ { m } , W _ { n } ^ { 3 } ] = - 2 m L _ { m + n } - \\mathrm { s i g n } ( m ) m ( m + { \\textstyle { \\frac { n } { 2 } } } ) \\sigma _ { 3 } \\psi _ { 0 } J _ { m + n } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "and hence are not of the general form predicted by [27] based on the locality of the fields — the offending term is the $\\mathrm { s i g n } ( m )$ term that is proportional to $\\sigma _ { 3 }$ ；it necessarily appears in the above commutators as one can conclude, for example, from ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { [ J _ { - 1 } , W _ { 1 } ^ { 3 } ] = 2 L _ { 0 } + \\frac { 1 } { 2 } \\sigma _ { 3 } \\psi _ { 0 } J _ { 0 } } \\\\ & { [ J _ { 1 } , W _ { 2 } ^ { 3 } ] = - 2 L _ { 3 } - 2 \\sigma _ { 3 } \\psi _ { 0 } J _ { 3 } \\ . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Thus the above $W _ { n } ^ { 3 }$ modes cannot be the modes of a local field. In order to repair this,we define the (non-local） generators (for $n \\in \\mathbb { Z }$ ）） ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { W } _ { n } = \\frac { 1 } { 2 } \\sum _ { l } | l - \\frac { n } { 2 } | \\Theta ( l ( l - n ) ) : J _ { n - l } J _ { l } : + \\frac { 1 } { 1 2 } ( | n | + 2 ) ( | n | + 1 ) J _ { n } J _ { 0 } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "where $\\Theta ( m )$ is the step function defined by $\\Theta ( m ) = 0$ for $m \\leq 0$ ，and $\\Theta ( m ) = 1$ for $m > 0$ .(Note that the $\\Theta$ -function term guarantees that the mode numbers of the two $J$ -modes in the first sum have opposite signs.） The $\\tilde { W } _ { n }$ generators have the property that, for $m = 0 , \\pm 1$ （204号 ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ L _ { m } , \\tilde { W } _ { n } ] = ( 2 m - n ) \\tilde { W } _ { m + n } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, for $| n | \\leq 2$ ，",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left[ J _ { m } , \\tilde { W } _ { n } \\right] = \\mathrm { s i g n } ( m ) m ( m + \\frac { n } { 2 } ) \\psi _ { 0 } J _ { m + n } \\ , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "which follows from the commutation relations (2.30). Thus we can modify the definition of $W _ { n } ^ { 3 }$ by this non-linear correction term to remove the strange term in (3.16). More specifically, if we define ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { n } ^ { 3 } = W _ { n } ^ { 3 } + \\sigma _ { 3 } \\tilde { W } _ { n } ^ { 3 } ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "the redefined modes satisfy ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ J _ { m } , V _ { n } ^ { 3 } ] = - 2 m L _ { m + n } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This relation in fact remains true for the modes $W _ { n } ^ { 3 }$ with $| n | \\geq 3$ ， provided we define the outside-the-wedge generators appropriately; a choice that works is ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { W _ { 3 } ^ { 3 } = - \\frac { 1 } { 6 } [ f _ { 2 } , [ f _ { 0 } , f _ { 2 } ] ] + \\frac { \\sigma _ { 3 } \\psi _ { 0 } } { 8 } [ f _ { 2 } , [ f _ { 0 } , f _ { 1 } ] ] - \\frac { 1 } { 1 2 } ( 2 \\sigma _ { 2 } + \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } ^ { 2 } + \\sigma _ { 3 } \\psi _ { 1 } ) [ f _ { 1 } , [ f _ { 0 } , f _ { 1 } ] ] + \\frac { \\sigma _ { 3 } } { 4 } [ f _ { 1 } , f _ { 0 } ^ { 2 } ] ] } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "and similarly for $W _ { - 3 } ^ { 3 }$ , and then determining the remaining outside-the-wedge generators by recursively considering the commutators with the Mobius generators $L _ { \\pm 1 }$ Then we can calculate the commutators with the $J _ { m }$ modes,and find for example ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { [ J _ { - 1 } , W _ { 3 } ^ { 3 } ] = 2 L _ { 2 } } } \\\\ { { \\ } } \\\\ { { [ J _ { - 2 } , W _ { 3 } ^ { 3 } ] = 4 L _ { 1 } } } \\\\ { { \\ } } \\\\ { { [ J _ { - 3 } , W _ { 3 } ^ { 3 } ] = 6 L _ { 0 } + 5 \\sigma _ { 3 } \\psi _ { 0 } J _ { 0 } } } \\\\ { { \\ } } \\\\ { { [ J _ { 1 } , W _ { 3 } ^ { 3 } ] = - 2 L _ { 4 } - \\frac { 5 } { 2 } \\sigma _ { 3 } \\psi _ { 0 } J _ { 4 } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "One can check that the terms proportional to the $J$ -modes are again cancelled by the commutator with the correction term $\\tilde { W } _ { 3 } ^ { 3 }$ , so that (3.23) is indeed true for $n = 3$ and $m = - 1 , - 2 , - 3 , 1$ . Since all the other commutators can be recursively determined from these using the quasi-primary condition,i.e. the fact that the $W ^ { 3 }$ and $\\tilde { W } ^ { 3 }$ modes satisfy (3.15) and (3.20),it follows that (3.23) holds for all modes. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The $V _ { n } ^ { 3 }$ modes are the modes of a quasi-primary, but not primary, spin-three field. Indeed, we find for the commutators with the Virasoro generators ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { [ L _ { m } , V _ { n } ^ { 3 } ] = ( 2 m - n ) V _ { m + n } ^ { 3 } + \\frac { m ( m ^ { 2 } - 1 ) } { 6 } \\left( \\sigma _ { 2 } + \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } ^ { 2 } \\right) J _ { m + n } \\ . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "While this commutator still contains a correction term proportional to $J$ , the structure of (3.29) is now compatible with locality [27]. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.1.3 The spin-4 generators and the spin-3 commutators ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The analysis for the spin-4 generators is similar. Since the details are somewhat tedious,， we have moved the description of the construction to Appendix A. With the definition of the spin-4 generators at hand, we can then analyse the relevant commutators. First we determine by direct calculation the commutators of the $W ^ { 3 }$ （204号 modes ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { \\displaystyle [ W _ { 0 } ^ { 3 } , W _ { 2 } ^ { 3 } ] = - 4 W _ { 2 } ^ { 4 } } } } \\\\ { { { \\displaystyle [ W _ { 0 } ^ { 3 } , W _ { 1 } ^ { 3 } ] = - 2 W _ { 1 } ^ { 4 } + \\frac { 1 } { 1 0 } ( - \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } ^ { 2 } + 4 \\sigma _ { 3 } \\psi _ { 1 } - 4 \\sigma _ { 2 } ) L _ { 1 } ~ , } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "where the $W ^ { 4 }$ modes are defined in eqs. (A.2) and (A.3), respectively. Taking into account the correction terms, one then finds for the commutators of the $V ^ { 3 }$ modes ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { [ { \\cal V } _ { 0 } ^ { 3 } , { \\cal V } _ { 2 } ^ { 3 } ] = - 4 { \\cal V } _ { 2 } ^ { 4 } + \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } \\displaystyle \\sum _ { m \\le 0 } ( 2 m - 2 ) ^ { 2 } { \\cal J } _ { m } { \\cal J } _ { 2 - m } } } } \\\\ { { { [ { \\cal V } _ { 0 } ^ { 3 } , { \\cal V } _ { 1 } ^ { 3 } ] = - 2 { \\cal V } _ { 1 } ^ { 4 } + { \\displaystyle \\frac { 1 } { 1 0 } } ( - \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } ^ { 2 } - 4 \\sigma _ { 2 } ) { \\cal L } _ { 1 } + { \\displaystyle \\frac { 1 } { 2 } } \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } \\displaystyle \\sum _ { m \\le 0 } ( 2 m - 1 ) ^ { 2 } { \\cal J } _ { m } { \\cal J } _ { 1 - m } ~ , } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "where the $V ^ { 4 }$ modes are defined in eq. (A.21). These commutators are now of local form— the $J J$ bilinear term has spin $s = 4$ ： ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2 Decoupling the ${ \\mathfrak { u } } ( 1 )$ currents ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The generators $V _ { n } ^ { 3 }$ and $V _ { n } ^ { 4 }$ are the modes of a local spin-3 and spin-4 field of $\\mathcal { W } _ { 1 + \\infty } | \\lambda |$ ， respectively. However, these fields are neither $\\mathfrak { u } ( 1 )$ nor Virasoro primary, see, e.g. eqs. (3.23) and (3.29)，and eqs. (A.22) and (A.23)， respectively. As a consequence, it is diffcult to read off from their commutators the relevant structure constants directly. On the other hand,we know on general grounds that we can decouple the $\\mathfrak { u } ( 1 )$ current, see eq. (2.31),and that the resulting algebra must then be isomorphic to ${ \\mathcal W } _ { \\infty } [ \\lambda ]$ . Thus it remains to perform this $\\mathfrak { u } ( 1 )$ decoupling explicitly, following [26]. For the Virasoro generators, the analysis is quite standard, and we find for the decoupled generators ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { L } _ { m } = L _ { m } - \\frac { 1 } { 2 \\psi _ { 0 } } \\sum _ { l } : J _ { l } J _ { m - l } : \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "These generators then give rise to a Virasoro algebra ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\bigl [ \\tilde { L } _ { m } , \\tilde { L } _ { n } \\bigr ] = ( m - n ) \\tilde { L } _ { m + n } + \\frac { \\tilde { c } } { 1 2 } m ( m ^ { 2 } - 1 ) \\delta _ { m , - n } , \\qquad \\bigl [ \\tilde { L } _ { m } , J _ { n } \\bigr ] = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "where the central charge equals now, cf. eq. (3.9) ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { c } = - \\sigma _ { 2 } \\psi _ { 0 } - \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } ^ { 3 } - 1 ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "For the $\\mathfrak { u } ( 1 )$ decoupled spin-3 field we find ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { V } _ { m } ^ { 3 } = V _ { m } ^ { 3 } + { \\frac { 2 } { \\psi _ { 0 } } } \\sum _ { l } : J _ { m - l } \\tilde { L } _ { l } : + { \\frac { 1 } { 3 \\psi _ { 0 } ^ { 2 } } } \\sum _ { l , n } : J _ { m - n - l } J _ { n } J _ { l } : ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This field is then primary with respect to both the $\\mathfrak { u } ( 1 )$ and the decoupled Virasoro algebra, i.e. ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ \\tilde { L } _ { m } , \\tilde { V } _ { n } ^ { 3 } ] = ( 2 m - n ) \\tilde { V } _ { m + n } ^ { 3 } \\ , \\qquad [ \\tilde { V } _ { m } ^ { 3 } , J _ { n } ] = 0 \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The $\\mathfrak { u } ( 1 )$ decoupled primary spin-4 wedge generators are ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\gamma _ { m } ^ { 4 } = \\tilde { V } _ { m } ^ { 4 } - \\frac { 3 } { \\psi _ { 0 } } \\sum _ { l } : \\tilde { V } _ { m - l } ^ { 3 } J _ { l } : + \\frac { 3 } { \\psi _ { 0 } ^ { 2 } } \\sum _ { n , l } : \\tilde { L } _ { m - n - l } J _ { n } J _ { l } : } } \\\\ { { \\displaystyle \\quad \\quad + \\frac { 1 } { 4 \\psi _ { 0 } ^ { 3 } } \\sum _ { l , p , q } : J _ { m - l - p - q } J _ { l } J _ { p } J _ { q } : - \\frac { \\sigma _ { 2 } - \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } ^ { 2 } } { 2 0 \\psi _ { 0 } } \\sum _ { l } ( 5 l ^ { 2 } - 5 m l + m ^ { 2 } + 1 ) : J _ { m - l } J _ { l } : } } \\\\ { { \\displaystyle \\quad \\quad + \\ \\frac { 3 \\left( 3 \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } ^ { 3 } + 7 \\sigma _ { 2 } \\psi _ { 0 } + 5 \\right) } { \\psi _ { 0 } \\left( 5 \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } ^ { 3 } + 5 \\sigma _ { 2 } \\psi _ { 0 } - 1 7 \\right) } \\Big ( \\sum _ { l } : \\tilde { L } _ { m - l } \\tilde { L } _ { l } : - \\frac { 3 } { 1 0 } ( m + 2 ) ( m + 3 ) \\tilde { L } _ { m } \\Big ) \\ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "which satisfy for $| n | \\leq 3$ ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ \\tilde { L } _ { m } , \\tilde { V } _ { n } ^ { 4 } ] = ( 3 m - n ) \\tilde { V } _ { m + n } ^ { 4 } \\ , \\qquad [ J _ { m } , \\tilde { V } _ { n } ^ { 4 } ] = 0 \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.3 Determining the structure constant ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "With these explicit expressions at hand, we can now determine the commutators of these $\\mathfrak { u } ( 1 )$ decoupled modes and find ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } {  { [ \\tilde { V } _ { 0 } ^ { 3 } , \\tilde { V } _ { 2 } ^ { 3 } ] = - 4 \\tilde { V } _ { 2 } ^ { 4 } + \\frac { 1 6 ( - \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } ^ { 3 } - 4 \\sigma _ { 2 } \\psi _ { 0 } - 8 ) } { \\psi _ { 0 } ( 5 \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } ^ { 3 } + 5 \\sigma _ { 2 } \\psi _ { 0 } - 1 7 ) } \\sum _ { m = - \\infty } ^ { \\infty } : \\tilde { L } _ { m } \\tilde { L } _ { 2 - m } : } } \\\\ & { } & \\\\ & { } & { [ \\tilde { V } _ { 0 } ^ { 3 } , \\tilde { V } _ { 1 } ^ { 3 } ] = - 2 \\tilde { V } _ { 1 } ^ { 4 } + \\frac { ( - \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } ^ { 3 } - 4 \\sigma _ { 2 } \\psi _ { 0 } - 8 ) } { 1 0 \\psi _ { 0 } } \\tilde { L } _ { 1 } } \\\\ & { } & { + \\frac { 8 ( - \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } ^ { 3 } - 4 \\sigma _ { 2 } \\psi _ { 0 } - 8 ) } { \\psi _ { 0 } ( 5 \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } ^ { 3 } + 5 \\sigma _ { 2 } \\psi _ { 0 } - 1 7 ) } \\Big ( \\sum _ { m = - \\infty } ^ { \\infty } : \\tilde { L } _ { m } \\tilde { L } _ { 1 - m } : + \\frac { 2 } { 5 } \\tilde { L } _ { 1 } \\Big ) ~ . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This can now be compared with eq. (A.6) of [20]. Comparing (3.32) to the case $m = 0$ ， $n = 2$ of (A.6) in [2O], we have the identifications ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\tilde { c } = - \\psi _ { 0 } ( \\sigma _ { 2 } + \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } ^ { 2 } ) - 1 } } \\\\ { { N _ { 3 } = \\displaystyle \\frac { \\tilde { c } + \\frac { 2 2 } { 5 } } { 1 6 } \\frac { 1 6 \\left( \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } ^ { 3 } + 4 \\sigma _ { 2 } \\psi _ { 0 } + 8 \\right) } { \\psi _ { 0 } \\left( 5 \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } ^ { 3 } + 5 \\sigma _ { 2 } \\psi _ { 0 } - 1 7 \\right) } = \\displaystyle \\frac { 1 } { 5 } \\frac { \\left( - \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } ^ { 2 } - 4 \\sigma _ { 2 } \\psi _ { 0 } - 8 \\right) } { \\psi _ { 0 } } ~ . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In order to determine $\\lambda$ it remains to compute at least one term in the commutator $[ \\tilde { V } _ { n } ^ { 3 } , \\tilde { V } _ { m } ^ { 4 } ]$ ; the simplest case to consider is the coefficient of the $\\Theta _ { 5 } ^ { 6 }$ term in the commutator $[ \\tilde { V } _ { 2 } ^ { 3 } , \\tilde { V } _ { 3 } ^ { 4 } ]$ , where $\\Theta ^ { 6 }$ is the $\\mathfrak { u } ( 1 )$ and Virasoro primary composite field of spin $6$ ， whose modes are of the form ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Theta _ { n } ^ { 6 } = \\sum _ { m } \\left( \\frac { 5 } { 3 } m - n \\right) : \\tilde { L } _ { n - m } \\tilde { V } _ { m } ^ { 3 } : + \\mathrm { t e r m s ~ p r o p o r t i o n a l ~ t o ~ } \\tilde { V } ^ { 3 } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "see eq. (A.10) of [20]. From the explicit form of the commutators we can read off the coefficient of $\\Theta _ { 5 } ^ { 6 }$ in the commutator $[ \\tilde { V } _ { 2 } ^ { 3 } , \\tilde { V } _ { 3 } ^ { 4 } ]$ to be ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 8 ( - 2 7 - 9 \\sigma _ { 2 } \\psi _ { 0 } - \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } ^ { 3 } ) } { 5 \\psi _ { 0 } ( 1 7 - 5 \\sigma _ { 2 } \\psi _ { 0 } - 5 \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } ^ { 3 } ) } ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Comparing to eq. (3.4) of [20], this coefficient should equal $\\frac { 8 4 N _ { 4 } } { 2 5 N _ { 3 } ( c + 2 ) }$ recall that the central charge $c$ of [20] needs to be identified with $\\tilde { c }$ defined by eq. (3.42) - from which we conclude that ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { N _ { 4 } } { N _ { 3 } } = \\frac { 1 5 ( c + 2 ) ( - 2 7 - 9 \\sigma _ { 2 } \\psi _ { 0 } - \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } ^ { 3 } ) } { 1 4 \\psi _ { 0 } ( 1 7 - 5 \\sigma _ { 2 } \\psi _ { 0 } - 5 \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } ^ { 3 } ) } ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Together with the previous expression (3.43),we therefore find ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { N _ { 4 } } { N _ { 3 } ^ { 2 } } = \\frac { 7 5 ( c + 2 ) ( 2 7 + 9 \\sigma _ { 2 } \\psi _ { 0 } + \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } ^ { 3 } ) } { 1 4 ( 8 + 4 \\sigma _ { 2 } \\psi _ { 0 } + \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } ^ { 3 } ) ( 1 7 - 5 \\sigma _ { 2 } \\psi _ { 0 } - 5 \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } ^ { 3 } ) } ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "This is now to be equated with, see eq. (3.4) of [20]. ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { N _ { 4 } } { N _ { 3 } ^ { 2 } } = \\frac { 7 5 ( c + 2 ) ( \\lambda - 3 ) \\left( c ( \\lambda + 3 ) + 2 ( 4 \\lambda + 3 ) ( \\lambda - 1 ) \\right) } { 1 4 ( 5 c + 2 2 ) ( \\lambda - 2 ) \\left( c ( \\lambda + 2 ) + ( 3 \\lambda + 2 ) ( \\lambda - 1 ) \\right) } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "fromwhich we conclude that ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { ( 2 7 + 9 \\sigma _ { 2 } \\psi _ { 0 } + \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } ^ { 3 } ) } { ( 8 + 4 \\sigma _ { 2 } \\psi _ { 0 } + \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } ^ { 3 } ) } = \\frac { ( \\lambda - 3 ) \\bigl ( c ( \\lambda + 3 ) + 2 ( 4 \\lambda + 3 ) ( \\lambda - 1 ) \\bigr ) } { ( \\lambda - 2 ) \\bigl ( c ( \\lambda + 2 ) + ( 3 \\lambda + 2 ) ( \\lambda - 1 ) \\bigr ) } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In order to explain the relation between the two sets of parameters, it is now convenient to parameterize $c$ and $\\lambda$ in terms of the coset labels $( N , k )$ via ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc = ( N - 1 ) \\Bigl ( 1 - { \\frac { N ( N + 1 ) } { ( N + k ) ( N + k + 1 ) } } \\Bigr ) \\ , \\qquad \\lambda = { \\frac { N } { N + k } } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "and the $\\sigma _ { 2 }$ and $\\sigma _ { 3 }$ variables in terms of $h _ { 1 }$ ， $h _ { 2 }$ and $h _ { 3 }$ ， see eq. (2.3). Then one checks by direct computation that the relations $c = { \\tilde { c } }$ of eq. (3.36) and eq. (3.49) are exactly compatible with the proposed identification of the parameters [11] as ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\psi _ { 0 } = N ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { 1 } = - \\sqrt { \\frac { N + k + 1 } { N + k } } , \\qquad h _ { 2 } = \\sqrt { \\frac { N + k } { N + k + 1 } } , \\qquad h _ { 3 } = \\frac { 1 } { \\sqrt { ( N + k ) ( N + k + 1 ) } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "This calculation therefore establishes the identification of parameters proposed in [11]. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3.4 Triality symmetry ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Recall from the analysis of [2O] that the triality identifications of the $( N , k )$ parameters are generated by the two fundamental transformations ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pi _ { 1 } : N \\mapsto N \\ , \\qquad k \\mapsto - 2 N - k - 1\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pi _ { 2 } : N \\mapsto \\frac { N } { N + k } \\ , \\qquad k \\mapsto \\frac { 1 - N } { N + k } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "see eq. (3.1O) of [20]. These transformations act on the $( N , k )$ parameters as follows: ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\big ( - \\frac { N } { N + k + 1 } , - \\frac { k } { N + k + 1 } \\big ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Under these transformations the structure constant (2.32） remains invariant, and hence the $\\mathcal { W } _ { \\infty }$ algebra does not change. In terms of the $\\lambda$ parameters, $\\pi _ { 1 }$ exchanges ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { 1 } \\equiv \\frac { N } { N + k } \\longleftrightarrow \\lambda _ { 2 } \\equiv - \\frac { N } { N + k + 1 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(while leaving $\\lambda _ { 3 } \\ \\equiv \\ N$ invariant)，and $\\pi _ { 2 }$ exchanges $\\lambda _ { 2 } ~  ~ \\lambda _ { 3 }$ (while leaving $\\lambda _ { 1 }$ invariant). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In this section we want to understand the incarnation of this symmetry in the language of the affine Yangian. Under the transformation $\\pi _ { 1 }$ ， $N$ (and hence $\\psi _ { 0 }$ ) does not change, and ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pi _ { 1 } : \\quad ( N + k + 1 ) \\mapsto - ( N + k ) \\ , \\qquad ( N + k ) \\mapsto - ( N + k + 1 ) \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Writing both signs as $e ^ { \\pm \\pi \\imath }$ - if we think of the transformation (3.53) as arising from some analytic continuation of $k$ ， both signs have the same form - then under the action of $\\pi _ { 1 }$ ， $h _ { 1 } \\mapsto - h _ { 2 }$ ， $h _ { 2 } \\mapsto - h _ { 1 }$ ，while $h _ { 3 } \\mapsto - h _ { 3 }$ . The overall sign of the $h _ { i }$ can be absorbed by the rescaling with $\\alpha = - 1$ ， see eq. (2.23), and this does not modify $\\psi _ { 0 } = N$ , see eq. (2.22). Thus we conclude that the transformation $\\pi _ { 1 }$ acts on the $h _ { i }$ （204号 parameters of the affine Yangian as ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pi _ { 1 } : \\qquad h _ { 1 } \\longleftrightarrow h _ { 2 } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "while leaving $h _ { 3 }$ invariant,i.e. as the permutation (12). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The analysis for the case of $\\pi _ { 2 }$ is analogous. Now $N$ is transformed to $N / ( N + k )$ ， and hence we need to rescale the resulting expressions with $\\alpha = ( N + k ) ^ { - 1 / 2 }$ ， so as to bring $\\psi _ { 0 }$ back to its original form. If we apply this $\\alpha$ transformation also to the $h _ { i }$ , then one finds that $\\pi _ { 2 }$ corresponds to the transformation ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pi _ { 2 } : \\qquad h _ { 2 } \\longleftrightarrow h _ { 3 } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "while leaving $h _ { 1 }$ invariant. (For example, one finds $\\pi _ { 2 } ( h _ { 1 } ) = \\sqrt { N + k + 1 }$ ，and then rescaling by $\\alpha = ( N + k ) ^ { - 1 / 2 }$ indeed gives back $h _ { 1 }$ ） ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The two triality transformations therefore correspond to the permutations (12) and (23) acting on the $h _ { i }$ parameters,while keeping $\\psi _ { 0 }$ invariant； they therefore generate the full permutation group (acting on the $h _ { i }$ ). The triality symmetry acts trivially on the algebra,but exchanges the representations via the natural (geometric) permutation action of the $h _ { i }$ . This explains, from first principles,the observations made in [11]. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "3.5 The universal enveloping algebra and representations ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Finally we should be a bit more precise in how the the affine Yangian of ${ \\mathfrak { g l } } _ { 1 }$ and $\\mathcal { W } _ { 1 + \\infty } [ \\lambda ]$ are related to one another. Recall that the former is an associative algebra, while the latter is a commutator algebra. So far, we have confirmed that at least the first few generators of $\\mathcal { W } _ { 1 + \\infty } [ \\lambda ]$ can be expressed in terms of generators of the affine Yangian so that the commutation relations of $\\mathcal { W } _ { 1 + \\infty } [ \\lambda ]$ follow from the defining relations of the affine Yangian. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "We have not found a general formula for an arbitrary $\\mathcal { W } _ { 1 + \\infty } [ \\lambda ]$ generator in terms of affne Yangian generators, except for the two free field constructions that will be described in Section 4. However, we have found identifications (for general $\\lambda$ ）for the first few $\\mathcal { W } _ { 1 + \\infty } [ \\lambda ]$ generators,and in each case the identification was of the triangular form ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { e _ { s } = \\pm V _ { - 1 } ^ { s + 1 } + \\mathrm { c o r r e c t i o n ~ t e r m s ~ w i t h ~ f i e l d s ~ o f ~ l o w e r ~ s p i n } \\ , } } \\\\ { { f _ { s } = \\pm V _ { 1 } ^ { s + 1 } + \\mathrm { c o r r e c t i o n ~ t e r m s ~ w i t h ~ f i e l d s ~ o f ~ l o w e r ~ s p i n } \\ . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "In particular, this is the case for $f _ { 0 } = - J _ { 1 }$ ， $f _ { 1 } = - L _ { 1 }$ (as well as $e _ { 0 } = J _ { - 1 }$ and $e _ { 1 } = L _ { - 1 }$ )， see eqs. (3.1) and (3.4). Similarly, $W _ { - 1 } ^ { 3 } = - e _ { 2 } + \\mathrm { l o w e r }$ spin terms， see eq. (3.11), and $W _ { - 1 } ^ { 4 } = e _ { 3 } + \\mathrm { l o w }$ er spin terms, see eq. (A.3), and similarly for $W _ { 1 } ^ { 3 }$ and $W _ { 1 } ^ { 4 }$ . (The correction terms that lead to the actual local modes $V _ { \\pm 1 } ^ { 3 }$ and $V _ { \\pm 1 } ^ { 4 }$ are also of lower spin.） Thus this dictionary suggests that we can express recursively not only all $\\mathcal { W } _ { 1 + \\infty } [ \\lambda ]$ generators in terms of affine Yangian generators, but also conversely all $e _ { s }$ （20 and $f _ { s }$ generators (and hence also all $\\psi _ { s }$ generators) in terms of $\\mathcal { W } _ { 1 + \\infty } [ \\lambda ]$ generators. Since the affine Yangian algebra is the associative algebra generated by the modes $e _ { s }$ ， $f _ { s }$ and $\\psi _ { s }$ , it then follows that the affine Yangian is isomorphic to the universal enveloping algebra of $\\mathcal { W } _ { 1 + \\infty } [ \\lambda ]$ ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "In particular, it therefore follows that the affine Yangian of ${ \\mathfrak { g l } } _ { 1 }$ and $\\mathcal { W } _ { 1 + \\infty } [ \\lambda ]$ （204号 share the same representation theory. At least generically, i.e.as long as the vacuum representation does not possess any non-trivial nul-vectors, the representations of the vertex operator algebra associated to $\\mathcal { W } _ { 1 + \\infty } [ \\lambda ]$ are in one-to-one correspondence with those of the universal enveloping algebra. Indeed, the vertex operator algebra associates a mode to every state of the vacuum representation, and these can always be described in terms of normal-ordered products of monomials of the generating modes; conversely, every element of the universal enveloping algebra can (at least formally） be written as a sum of modes of the vertex operator algebra. We therefore conclude that the representations of the vertex operator algebra associated to $\\mathcal { W } _ { 1 + \\infty } [ \\lambda ]$ are in one-to-one correspondence with those of the affine Yangian of ${ \\mathfrak { g l } } _ { 1 }$ ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "As explained in Section 2.1, the set of plane partitions with given asymptotics （204号 $( \\Xi ^ { ( x ) } , \\Xi ^ { ( y ) } , \\Xi ^ { ( z ) } )$ furnishes a natural representation of the affine Yangian of ${ \\mathfrak { g l } } _ { 1 }$ .A plane partition is an eigenstate of $\\psi ( z )$ , with eigenvalue given by (2.25), and $e ( z ) / f ( z )$ （204号 acting on it by (legally) adding/removing boxes, see eqs. (2.26)/(2.27). Therefore the set of plane partitions with given asymptotics $( \\Xi ^ { ( x ) } , \\Xi ^ { ( y ) } , \\Xi ^ { ( z ) } )$ also defines a representation of the $\\mathcal { W } _ { 1 + \\infty }$ algebra. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Depending on how many of the three asymptotics are non-trivial, there are four different types of plane partition representations， see Figure 1. If at most two boundary conditions are non-trivial, and applying the triality symmetry if necessary, we may assume that $\\Xi ^ { ( z ) } = 0$ , i.e. that the boundary condition is described by $( \\Xi ^ { ( x ) } , \\Xi ^ { ( y ) } , 0 )$ . Then the representation can be identifed with a representation of the coset ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { \\mathfrak { s u } ( N ) _ { k } \\oplus \\mathfrak { s u } ( N ) _ { 1 } } { \\mathfrak { s u } ( N ) _ { k + 1 } } } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "where $\\Xi ^ { ( x ) }$ and $\\Xi ^ { ( y ) }$ are representations of the ${ \\mathfrak { s u } } ( N ) _ { k }$ and ${ \\mathfrak { s u } } ( N ) _ { k + 1 }$ algebra, respectively.4 In the context of the dual higher spin theory, these three types correspond to the vacuum, the perturbative states in Vasiliev theory, and the non-perturbative states,respectively [2O]. The last type,i.e. the one where all three asymptotics are non-trivial, does not seem to have an interpretation in terms of the coset theory, i.e. it does not arise as the large $( N , k )$ limit of a coset representation. As far as we are aware, it defines a new type of representation of $\\mathcal { W } _ { 1 + \\infty }$ that has not been constructed via any other method. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The generating function of a plane partition representation $( \\Xi ^ { ( x ) } , \\Xi ^ { ( y ) } , \\Xi ^ { ( z ) } )$ counts, at level $n$ , the number of ways to stack $n$ boxes (the yellow ones in Figure 1) on top of the ground state, given by the minimal configuration obeying the boundary condition （204号 $( \\Xi ^ { ( x ) } , \\Xi ^ { ( y ) } , \\Xi ^ { ( z ) } )$ (the blue configuration of Figure 1). For the coset type representations (i.e. for $\\Xi ^ { ( z ) } = 0$ ), the plane partition generating function is identical to the character computed via the Kac-Weyl formula [17]. One advantage of the plane partition viewpoint in describing representations of $\\mathcal { W } _ { \\infty }$ , even those of the coset type, is that it is much easier to compute the character via the combinatorics of box stacking than using the Kac-Weyl character formula. For example, this idea was used to identify the twisted sector representations of the symmetric orbifold in [25]. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The plane partition representations are quasi-finite, i.e. there are only finitely many states at each level. We note that the afine Yangian (as well as $\\mathcal { W } _ { 1 + \\infty } [ \\lambda ]$ ）also possess larger representations; for example, for $\\lambda = N$ there are also representations that are labelled by $N$ independent Young diagrams. (This follows from the fact that the algebra $\\mathrm { S H } ^ { c }$ , which is isomorphic to the affine Yangian of ${ \\mathfrak { g l } } _ { 1 }$ ， see [28] and Section 5 below, has such representations, see e.g. [29].) ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "4Free field realizations ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "For $\\lambda = 0$ and $\\lambda = 1$ ，the ${ \\mathcal W } _ { \\infty } [ \\lambda ]$ algebra has a free field construction in terms of free fermions and free bosons, respectively. Thus we should expect that, for these values of $\\lambda$ , we can find closed-form expressions for the affine Yangian generators in terms of the corresponding free fields. For the case of $\\lambda = 0$ this description was already found in [11] (and we shall only briefly review it below)，while the construction for $\\lambda = 1$ （20 appears to be new. The fact that at least for these special values of $\\lambda$ we can establish a closed-form dictionary between the affine Yangian and the $\\mathcal { W } _ { \\infty }$ generators gives strong support to the idea that the partial dictionary we established in Section 3 can be generalized to all spin fields. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Before we describe the details for the two cases，we would like to make one general comment. The case $\\lambda = 0$ correspond to taking $k  \\infty$ at fixed $N$ ，while $\\lambda = 1$ is described by taking $N  \\infty$ at fixed $k$ . In either case, $\\sigma _ { 2 }$ and $\\sigma _ { 3 }$ ， defined by eq. (2.3)， become ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\sigma _ { 2 } = - 1 - \\frac { 1 } { ( N + k ) ( N + k + 1 ) } \\cong - 1 \\ , } } \\\\ { { \\displaystyle \\sigma _ { 3 } = - \\frac { 1 } { \\sqrt { ( N + k ) ( N + k + 1 ) } } \\cong 0 \\ . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "In particular, the non-local correction terms of Section 3 and Appendix A are absent since they are proportional to $\\sigma _ { 3 }$ ，see eqs. (3.22) and (A.21). Furthermore, at least formally, the anti-commutator terms in the definition of the affine Yangian in eqs. (2.13)，(2.15)，(2.17) and (2.18) drop out. However, there is one important subtlety: in the relations eqs. (2.17) and (2.18), $\\sigma _ { 3 }$ is multiplied by $\\psi _ { j }$ ，and for （204号 $j = 0$ ， $\\psi _ { 0 } = N$ is taken to infinity for $\\lambda = 1$ . Hence while for $\\lambda = 0$ all of these anti-commutator terms are indeed absent, for $\\lambda = 1$ ， the expression $\\sigma _ { 3 } \\psi _ { 0 }$ becomes ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { 3 } \\psi _ { 0 } = - \\frac { N } { \\sqrt { ( N + k ) ( N + k + 1 ) } } \\cong - 1 ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "and hence leads to a correction term for the special cases ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { [ \\psi _ { 3 } , e _ { k } ] = 3 [ \\psi _ { 2 } , e _ { k + 1 } ] - 3 [ \\psi _ { 1 } , e _ { k + 2 } ] + [ \\psi _ { 0 } , e _ { k + 3 } ] + [ \\psi _ { 1 } , e _ { k } ] - [ \\psi _ { 0 } , e _ { k + 1 } ] - 2 e _ { k } } } } \\\\ { { { { } } } } \\\\ { { { { } = 6 e _ { k + 1 } - 2 e _ { k } \\ , } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { [ \\psi _ { 3 } , f _ { k } ] = 3 [ \\psi _ { 2 } , e _ { k + 1 } ] - 3 [ \\psi _ { 1 } , e _ { k + 2 } ] + [ \\psi _ { 0 } , e _ { k + 3 } ] + [ \\psi _ { 1 } , e _ { k } ] - [ \\psi _ { 0 } , e _ { k + 1 } ] + 2 f _ { k } } } \\\\ { { \\nonumber } } \\\\ { { \\ = - 6 f _ { k + 1 } + 2 f _ { k } ~ . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "This will be important in our construction below. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "4.1 The free fermion construction ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The construction for $\\lambda = 0$ was already given in [11],and hence we shall be brief. We start with $N$ free complex fermions $\\psi ^ { i }$ and $\\psi ^ { i }$ with $i = 1 , \\ldots , N$ . The bilinear $\\mathrm { U } ( N )$ singlets (where we take the $\\psi ^ { i }$ to transform in the fundamental representation of $\\mathrm { U } ( N )$ ,and the ${ \\bar { \\psi } } ^ { i }$ in the anti-fundamental) generate the linear $\\mathcal { W } _ { 1 + \\infty }$ algebra [30- 32], see also [26]. Thus the Yangian generators should also be expressed in terms of such bilinears,and one finds that ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\psi _ { r } = \\sum _ { m \\in \\mathbb { Z } + \\frac { 1 } { 2 } } \\sum _ { i = 1 } ^ { N } \\left( ( - m - \\frac { 1 } { 2 } ) ^ { r } - ( - m + \\frac { 1 } { 2 } ) ^ { r } \\right) : \\bar { \\psi } _ { - m } ^ { i } \\psi _ { m } ^ { i } : , } } \\\\ { { \\displaystyle f _ { s } = \\sum _ { m \\in \\mathbb { Z } \\neq \\frac { 1 } { 2 } } \\sum _ { i = 1 } ^ { N } ( - m + \\frac { 1 } { 2 } ) ^ { s } : \\bar { \\psi } _ { - m + 1 } ^ { i } \\psi _ { m } ^ { i } : , } } \\\\ { { \\displaystyle e _ { s } = - \\sum _ { m \\in \\mathbb { Z } + \\frac { 1 } { 2 } } \\sum _ { i = 1 } ^ { N } ( - m - \\frac { 1 } { 2 } ) ^ { s } : \\bar { \\psi } _ { - m - 1 } ^ { i } \\psi _ { m } ^ { i } : } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "satisfy all the relations of the affine Yangian at $\\sigma _ { 3 } = 0$ ， $\\sigma _ { 2 } = - 1$ . Note that the definition of $\\psi _ { 0 }$ formally vanishes,but that in order to reproduce the correct central charge $\\tilde { c } = N - 1$ in (3.42） we should set $\\psi _ { 0 } = N$ .(Since $\\psi _ { 0 }$ is central and since all anti-commutators drop out,we are free to set $\\psi _ { 0 }$ to any value we chose without modifying the defining relations of the affine Yangian.) ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "One can also check that the above generators give rise to the correct $W$ -generators using our general identification between the $\\mathcal { W } _ { \\infty }$ generators and the affine Yangian generators. For example, we have from eq. (3.13) ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { W _ { 1 } ^ { 3 } = f _ { 2 } + \\frac { 1 } { 2 } \\sigma _ { 3 } \\psi _ { 0 } f _ { 1 } \\cong f _ { 2 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "in the $\\lambda  0$ limit, leading to ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { 1 } ^ { 3 } = \\sum _ { m \\in \\mathbb { Z } + \\frac { 1 } { 2 } } \\sum _ { i = 1 } ^ { N } ( m - \\frac { 1 } { 2 } ) ^ { 2 } : \\bar { \\psi } _ { - m + 1 } ^ { i } \\psi _ { m } ^ { i } : ,\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "which reproduces the usual free field answer, see e.g. eq. (2.8) of [26]. (Recall that at $\\sigma _ { 3 } = 0$ there is no difference between the $V _ { n } ^ { 3 }$ and the $W _ { n } ^ { 3 }$ generators, see eq. (3.22).) ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "4.2 The free boson construction ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The situation for the free boson case is slightly more subtle. We start again with $k$ free complex boson fields,whose modes satisfy the commutation relations ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lbrack \\alpha _ { m } ^ { i } , { \\bar { \\alpha } _ { n } ^ { j } } ] = m \\delta ^ { i j } \\delta _ { m , - n } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "while al other commutators vanish. The $\\mathrm { U } ( k )$ singlets (where the ${ \\alpha _ { m } ^ { i } } / { \\bar { \\alpha } _ { m } ^ { i } }$ transform in the fundamental/anti-fundamental representation of $\\mathrm { U } ( k )$ ） generate now only a linear $\\mathcal { W } _ { \\infty }$ algebra, and there is no spin-one generator. As a consequence, we should only expect to be able to express the affne Yangian generators $e _ { r }$ ， $f _ { r }$ with $r \\geq 1$ and $\\psi _ { s }$ with $s \\geq 2$ in terms of these free fields; note that the algebra generated by this subset of fields is a well-defined subalgebra of the affine Yangian algebra.5 For these generators we make the ansatz ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { f _ { r } = - \\displaystyle \\sum _ { m \\in \\mathbb { Z } } \\displaystyle \\sum _ { j = 1 } ^ { k } \\bigl ( - m + 1 \\bigr ) ^ { r - 1 } : \\alpha _ { m } ^ { j } \\bar { \\alpha } _ { 1 - m } ^ { j } : } } \\\\ { { } } \\\\ { { e _ { r } = \\displaystyle \\sum _ { m \\in \\mathbb { Z } } \\displaystyle \\sum _ { j = 1 } ^ { k } ( - m ) ^ { r - 1 } : \\alpha _ { m } ^ { j } \\bar { \\alpha } _ { - 1 - m } ^ { j } : } } \\\\ { { \\displaystyle \\psi _ { r } = \\displaystyle \\sum _ { m \\in \\mathbb { Z } } \\displaystyle \\sum _ { j = 1 } ^ { k } \\Bigl ( ( m + 1 ) ( - m ) ^ { r - 2 } + \\bigl ( - m + 1 \\bigr ) ^ { r - 1 } \\Bigr ) : \\alpha _ { m } ^ { j } \\bar { \\alpha } _ { - m } ^ { j } : , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "where the $\\psi _ { r }$ modes are determined by the condition $[ e _ { r } , f _ { s } ] = \\psi _ { r + s }$ ， see eq. (2.16). Note that with respect to the hermitian structure defined by $( \\alpha _ { m } ^ { j } ) ^ { \\dag } = \\bar { \\alpha } _ { - m } ^ { j }$ , we have $e _ { r } ^ { \\dagger } = - f _ { r }$ . These modes then satisfy all relations of the affine Yangian algebra. In particular, the commutators of two $e _ { r }$ generators are ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { r } , f _ { s } \\bigr ] = \\sum _ { m \\in \\mathbb { Z } } \\sum _ { j = 1 } ^ { k } \\Bigl ( \\bigl ( - m + 1 \\bigr ) ^ { r } \\bigl ( - m + 2 \\bigr ) ^ { s - 1 } - \\bigl ( - m + 2 \\bigr ) ^ { r - 1 } \\bigl ( - m + 1 \\bigr ) ^ { s } \\Bigr ) : \\alpha _ { m } ^ { j } \\bar { \\alpha } _ { 2 - m } ^ { j } :\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "and similarly ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ e _ { r } , e _ { s } \\right] = \\sum _ { m \\in \\mathbb { Z } } \\sum _ { j = 1 } ^ { k } \\left( \\left( - m \\right) ^ { r - 1 } \\left( - m - 1 \\right) ^ { s } - \\left( - m - 1 \\right) ^ { r } \\left( - m \\right) ^ { s - 1 } \\right) : \\alpha _ { m } ^ { j } \\bar { \\alpha } _ { - 2 - m } ^ { j } : .\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "It is then straightforward to check that they satisfy the relations (2.14) -(2.17) with $\\sigma _ { 2 } = - 1$ and $\\sigma _ { 3 } = 0$ ， as well as (2.21). One also confirms directly that they indeed give rise to the correct initial conditions ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c c } { { \\left[ \\psi _ { 2 } , f _ { k } \\right] = - 2 f _ { k } ~ , ~ } } & { { ~ \\left[ \\psi _ { 3 } , f _ { k } \\right] = - 6 f _ { k + 1 } + 2 f _ { k } ~ , } } \\\\ { { \\left[ \\psi _ { 2 } , e _ { k } \\right] = 2 e _ { k } ~ , ~ } } & { { ~ \\left[ \\psi _ { 3 } , e _ { k } \\right] = 6 e _ { k + 1 } - 2 e _ { k } ~ . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Here we have used that since the $\\psi _ { s }$ are only defined for $s \\geq 2$ ， only the last equa tion from eq. (2.19) and (2.20) makes sense,and because of (4.3) and (4.4)，the commutator with $\\psi _ { 3 }$ has indeed the required form. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Again, we can also check that the above generators give rise to the correct $W$ generators using our general identification between the $\\mathcal { W } _ { \\infty }$ generators and the affine Yangian generators. For example, we have from eq. (3.13) ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { W _ { 1 } ^ { 3 } = f _ { 2 } + \\frac { 1 } { 2 } \\sigma _ { 3 } \\psi _ { 0 } f _ { 1 } \\cong f _ { 2 } - \\frac { 1 } { 2 } f _ { 1 } ~ , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "where we havetaken the $\\lambda  1$ limit.This leads to ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { 1 } ^ { 3 } = \\sum _ { m \\in \\mathbb { Z } } \\sum _ { j = 1 } ^ { k } \\left( m - \\frac { 1 } { 2 } \\right) : \\alpha _ { m } ^ { j } \\bar { \\alpha } _ { 1 - m } ^ { j } : ,\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "which reproduces (up to an overall normalization factor) the usual free field answer, see for example eq. (2.5) of [33]. (Again, at $\\sigma _ { 3 } = 0$ there is no difference between the $V _ { n } ^ { 3 }$ and $W _ { n } ^ { 3 }$ generators, see eq. (3.22).) ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "5The relation to SH $c$ ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "The affine Yangian is believed to be isomorphic [11, 28] to the spherical degenerate double affine Hecke algebra, the so-called SH $c$ algebra of [21], although the detailed dictionary has, to our knowledge, not been written down before. In this section we exhibit this isomorphism in detail; we also explain how this fits together with the equivalence to the universal enveloping algebra of $\\mathcal { W } _ { 1 + \\infty } [ \\lambda ]$ ： ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "5.1 The SH $c$ algebra and its isomorphism to the affine Yangian of ${ \\mathfrak { g l } } _ { 1 }$ ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "The definition of the SH $c$ algebra is spelled out in Def. 1.31 of [21]; here we follow the description of the algebra in terms of generating functions that was worked out in [34, 35]. The definition of SH $c$ is not manifestly triality invariant; in order to rectify this,it is convenient to choose an arbitrary parameter $h _ { 1 }$ , and define $h _ { 2 }$ and $h _ { 3 }$ ,using the parameters $\\kappa$ and $\\xi$ that appear in [21] via ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\kappa = - { \\frac { h _ { 2 } } { h _ { 1 } } } \\ , \\qquad \\xi = 1 - \\kappa = - { \\frac { h _ { 3 } } { h _ { 1 } } } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Then we introduce the generating functions6 ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathcal D } _ { \\pm 1 } ( z ) \\equiv \\sum _ { j = 0 } ^ { \\infty } \\frac { ( h _ { 1 } ) ^ { j } D _ { \\pm 1 , j } } { z ^ { j + 1 } } \\qquad \\mathrm { a n d } \\qquad { \\mathcal D } _ { 0 } ( z ) \\equiv \\sum _ { j = 0 } ^ { \\infty } \\frac { ( h _ { 1 } ) ^ { j } D _ { 0 , j + 1 } } { z ^ { j + 1 } } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "The algebraic relations of SH $c$ are then ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle \\left[ { \\mathcal D } _ { 0 } ( z ) , { \\mathcal D } _ { 0 } ( w ) \\right] = 0 } } \\\\ { { \\displaystyle \\left[ { \\mathcal D } _ { 0 } ( z ) , { \\mathcal D } _ { \\pm 1 } ( w ) \\right] = \\mp \\frac { { \\mathcal D } _ { \\pm 1 } ( z ) - { \\mathcal D } _ { \\pm 1 } ( w ) } { z - w } } } \\\\ { { \\displaystyle \\left[ { \\mathcal D } _ { + 1 } ( z ) , { \\mathcal D } _ { - 1 } ( w ) \\right] = - \\frac { 1 } { h _ { 3 } } \\frac { { \\mathcal E } ( z ) - { \\mathcal E } ( w ) } { z - w } \\ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathcal { E } ( z )$ is the generating function of the modes $E _ { j }$ ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathcal E } ( z ) = 1 - h _ { 3 } \\sum _ { j = 0 } \\frac { ( h _ { 1 } ) ^ { j } E _ { j } } { z ^ { j + 1 } } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "which are related in turn to the $D _ { 0 , j }$ modes by eq. (1.73) of [21]. To express this relation more conveniently, we introduce $\\mathcal { X } ( z )$ via [35] ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { X } ( z ) \\equiv \\int ^ { z } d z ^ { \\prime } \\mathcal { D } _ { 0 } ( z ^ { \\prime } ) = D _ { 0 , 1 } \\log \\bigl ( \\frac { z } { h _ { 1 } } \\bigr ) - \\sum _ { j = 1 } ^ { N } \\frac { 1 } { j } \\frac { ( h _ { 1 } ) ^ { j } D _ { 0 , j + 1 } } { z ^ { j } } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "and then define $\\mathcal { V } ( z )$ as ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { V } ( z ) \\equiv e ^ { c ( z ) } \\frac { e ^ { \\mathcal { K } ( z - h _ { 1 } ) } e ^ { \\mathcal { K } ( z - h _ { 2 } ) } } { e ^ { \\mathcal { K } ( z ) } e ^ { \\mathcal { K } ( z + h _ { 3 } ) } } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "where $c ( z )$ is the generating function of the central charges ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc ( z ) = \\sum _ { j = 0 } ^ { \\infty } \\frac { ( h _ { 1 } ) ^ { j } c _ { j } } { z ^ { j + 1 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Then we have the simple relation ",
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathscr { E } ( z ) = \\frac { \\mathscr { V } ( z - h _ { 3 } ) } { \\mathscr { V } ( z ) } ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "It was shown in [35] that, on the $N$ -tuple Young diagram representations (that form a faithful representation of $\\mathrm { S H } ^ { c }$ ， see Corollary 8.7 of [21]） the SH $c$ relations imply, see eq. (2.30) of that paper, ",
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { V } ( z ) \\mathcal { D } _ { + 1 } ( w ) \\frac { 1 } { \\mathcal { V } ( z ) } = g ( z - w + h _ { 3 } ) \\mathcal { D } _ { + 1 } ( w ) + \\frac { h _ { 1 } h _ { 2 } } { h _ { 3 } } \\left[ \\frac { \\mathcal { D } _ { + 1 } ( z + h _ { 3 } ) } { z - w + h _ { 3 } } - \\frac { \\mathcal { D } _ { + 1 } ( z ) } { z - w } \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "where $g ( z )$ is defined via ",
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng ( z ) \\equiv { \\frac { ( z + h _ { 1 } ) ( z + h _ { 2 } ) } { z ( z - h _ { 3 } ) } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Note that the second term in (5.11) only corrects for the poles that are explicitly introduced by the function $g ( z )$ ; in particular, multiplying the whole equation by $( z - w + h _ { 3 } ) ( z - w )$ we obtain ",
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { ( z - w + h _ { 3 } ) ( z - w ) { \\mathcal V } ( z ) { \\mathcal D } _ { + 1 } ( w ) \\displaystyle \\frac { 1 } { { \\mathcal V } ( z ) } = ( z - w - h _ { 2 } ) ( z - w - h _ { 1 } ) { \\mathcal D } _ { + 1 } ( w ) } } \\\\ { { \\ ~ + \\displaystyle \\frac { h _ { 1 } h _ { 2 } } { h _ { 3 } } ( z - w ) { \\mathcal D } _ { + 1 } ( z + h _ { 3 } ) ~ ( \\bar { z } - w - h _ { 1 } ) } } \\\\ { { \\ ~ - \\displaystyle \\frac { h _ { 1 } h _ { 2 } } { h _ { 3 } } ( z - w + h _ { 3 } ) { \\mathcal D } _ { + 1 } ( z ) ~ . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "The left-hand-side vanishes for $z = w$ ，while the right-hand-side then becomes ",
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( - h _ { 2 } ) ( - h _ { 1 } ) \\mathcal { D } _ { + 1 } ( w ) - \\frac { h _ { 1 } h _ { 2 } } { h _ { 3 } } h _ { 3 } \\mathcal { D } _ { + 1 } ( z ) | _ { z = w } = 0 \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "because of the second term. The other correction term similarly guarantees that the equations holds for $z = w - h _ { 3 }$ . Using (5.10), eq. (5.11) then leads to the identity ",
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\mathcal { E } ( z ) \\mathcal { D } _ { + 1 } ( w ) \\frac { 1 } { \\mathcal { E } ( z ) } = \\varphi ( z - w ) \\mathcal { D } _ { + 1 } ( w ) } \\\\ { \\displaystyle \\qquad + \\frac { 2 h _ { 1 } h _ { 2 } h _ { 3 } } { ( h _ { 1 } - h _ { 2 } ) ( h _ { 2 } - h _ { 3 } ) ( h _ { 3 } - h _ { 1 } ) } \\Big [ ( h _ { 2 } - h _ { 3 } ) \\frac { \\mathcal Ḋ D Ḍ _ { + 1 } ( z - h _ { 1 } ) } { z - w - h _ { 1 } } } \\\\ { \\displaystyle \\qquad + ( h _ { 3 } - h _ { 1 } ) \\frac { \\mathcal Ḋ D Ḍ _ { + 1 } ( z - h _ { 2 } ) } { z - w - h _ { 2 } } + ( h _ { 1 } - h _ { 2 } ) \\frac { \\mathcal Ḋ D Ḍ _ { + 1 } ( z - h _ { 3 } ) } { z - w - h _ { 3 } } \\Big ] \\ . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Again, the terms of the second and third line only correct for the poles that are explicitly introduced by $\\varphi ( z - w )$ at $z = w + h _ { i }$ . Since these do not contribute to the terms that have both negative Fourier coeffcients in $z$ and $w$ ，which are the only ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "terms we are interested in, given the definition of the generating functions (5.2) and (5.6),we can write this identity as ",
+        "page_idx": 23
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { E } ( z ) \\mathcal { D } _ { + 1 } ( w ) \\sim \\varphi ( z - w ) \\mathcal { D } _ { + 1 } ( w ) \\mathcal { E } ( z ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "where $\\varphi ( z - w )$ is the same function as defined in (2.4). Similarly, we find for $\\mathcal { D } _ { - 1 }$ the relation ",
+        "page_idx": 23
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathcal E } ( z ) { \\mathcal D } _ { - 1 } ( w ) \\sim \\varphi ( w - z ) { \\mathcal D } _ { - 1 } ( w ) { \\mathcal E } ( z ) \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "These identities now look very similar to the relations that appear in the definition of the affine Yangian, see in particular eqs. (2.8) and (2.9). (The relation eq. (5.5) is also essentially the same as eq. (2.1O). On the other hand, the relations eqs. (2.6) and (2.7) give rise to commutation relations for the higher modes that are implicitly defined in eq. (2.4) of [35].） Thus the isomorphism of the two algebras simply amounts to the identification ",
+        "page_idx": 23
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne ( z ) = \\frac { 1 } { \\sqrt { h _ { 1 } h _ { 2 } } } { \\mathcal D } _ { + 1 } ( z ) \\ , \\qquad f ( z ) = \\frac { 1 } { \\sqrt { h _ { 1 } h _ { 2 } } } { \\mathcal D } _ { - 1 } ( z ) \\ , \\qquad \\psi ( z ) = { \\mathcal E } ( z ) \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "In terms of modes, this means that we have the identification ",
+        "page_idx": 23
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne _ { j } = \\frac { ( h _ { 1 } ) ^ { j } } { \\sqrt { h _ { 1 } h _ { 2 } } } D _ { 1 , j } \\ , \\qquad f _ { j } = \\frac { ( h _ { 1 } ) ^ { j } } { \\sqrt { h _ { 1 } h _ { 2 } } } D _ { - 1 , j } \\ , \\qquad \\psi _ { j } = - \\frac { ( h _ { 1 } ) ^ { j } } { h _ { 1 } h _ { 2 } } E _ { j } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "5.2 The relation to $\\mathcal { W } _ { 1 + \\infty } [ \\lambda ]$ ",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "It is argued in [21], see Remark 8.28, that the SH $\\mathbf { \\Psi } _ { . } ^ { c }$ algebra is isomorphic to the universal enveloping algebra of $\\mathcal { W } _ { 1 + N }$ realized via a Drinfeld-Sokolov construction with level ",
+        "page_idx": 23
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk _ { \\mathrm { D S } } = \\kappa - N \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "where $\\kappa$ is the parameter that appears in the definition of the SH $c$ . The relation of the DS level $k _ { \\mathrm { D S } }$ and the usual coset level $k$ is, see e.g., [36, eq. (7.52)] ",
+        "page_idx": 23
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { 1 } { k _ { \\mathrm { D S } } + N } } = { \\frac { 1 } { k + N } } + 1 \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "from which we conclude that the $\\kappa$ parameter in $\\mathrm { S H } ^ { c }$ equals, in terms of the $( N , k )$ parametrization ",
+        "page_idx": 23
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\kappa = { \\frac { k + N } { k + N + 1 } } = - { \\frac { h _ { 2 } } { h _ { 1 } } } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "where we have used (3.52) in the last step. This then precisely agrees with (5.1). In terms of the parameters of the afine Yangian, the translation of the parameters is ",
+        "page_idx": 23
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\kappa + \\kappa ^ { - 1 } - 2 = - \\frac { ( h _ { 3 } ) ^ { 2 } } { h _ { 1 } h _ { 2 } } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Note that the expression on the RHS is invariant under the scaling symmetry (2.23). The triality symmetry of the affine Yangian, which we studied in Section 3.4, has also an incarnation for the case of SH $\\mathbf { \\Psi } _ { . } ^ { c }$ ; this was already studied in [37]. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "5.3 （204号 $N$ -tuple Young diagram representation of $\\mathrm { { S H ^ { c } } }$ ",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "The SH $c$ algebra acts naturally on a vector space whose basis vectors are labelled by an $N$ -tuple of Young diagrams $\\vec { \\lambda } \\equiv ( \\lambda _ { 1 } , . . . , \\lambda _ { N } )$ .Here each $\\lambda _ { i }$ is a Young diagram，and the representation is characterized by a vector of complex numbers （20 ${ \\vec { a } } = ( a _ { 1 } , \\ldots , a _ { N } )$ . More specifically, each $N$ -tuple Young diagram $\\vec { \\lambda }$ is an eigenvector of the operator $\\mathcal { E } ( z )$ （204号 ",
+        "page_idx": 24
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { E } ( z ) \\mathinner { | { \\vec { \\lambda } } \\rangle } _ { \\vec { a } } = \\mathcal { E } _ { \\vec { \\lambda } } ( z ) \\mathinner { | { \\vec { \\lambda } } \\rangle } _ { \\vec { a } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "where the eigenvalue equals ",
+        "page_idx": 24
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { E } _ { \\vec { \\lambda } } ( z ) = \\prod _ { \\bigsqcup \\in \\mathrm { A d d } ( \\vec { \\lambda } ) } \\left( 1 - \\frac { h _ { 3 } } { z - \\phi ( \\bigtriangledown ) } \\right) \\prod _ { \\bigsqcup \\in \\mathrm { R e m } ( \\vec { \\lambda } ) } \\left( 1 + \\frac { h _ { 3 } } { z - \\phi ( \\bigtriangledown ) } \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Here $\\operatorname { A d d } ( { \\vec { \\lambda } } )$ is the set of boxes that can be added to the $N$ Young diagrams (so that the resulting configuration still describes an $N$ -tuple of Young diagrams), while $\\mathrm { R e m } ( \\vec { \\lambda } )$ is the set of boxes that can be consistently removed. Furthermore，the function $\\phi ( \\sqsubseteq \\sqsupset$ is defined via ",
+        "page_idx": 24
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi ( \\bigtriangledown ) = a _ { i ( \\bigtriangledown ) } + h _ { 1 } x ( \\bigtriangledown ) + h _ { 2 } y ( \\bigtriangledown ) \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "where $i ( \\sqsubseteq )$ denotes which of the $N$ Young diagram the box is associated to, while $x ( \\sqsubseteq )$ and $y ( \\sqsubseteq )$ are its $( x , y )$ coordinate - here the Young diagrams lie in the $x y$ plane, with the first box having coordinates $( x , y ) = ( 0 , 0 )$ ， and the different Young diagrams are lined up along the $z$ -direction. (The alert reader will notice that this is a generalization of (2.29)， to which it reduces if $a _ { i } = h _ { 3 } ( i - 1 )$ .）With these conventions, the action of $\\mathcal { D } _ { \\pm 1 } ( z )$ on these states is defined as ",
+        "page_idx": 24
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\mathcal { D } _ { + 1 } ( z ) \\left. \\vec { \\lambda } \\right. _ { \\vec { a } } = \\displaystyle \\sum _ { \\bigsqcup \\in \\mathrm { A d d } ( \\vec { \\lambda } ) } \\frac { \\left[ - \\frac { 1 } { h _ { 3 } } \\mathrm { R e s } _ { w = \\phi ( \\bigtriangleup ) } \\mathcal { E } _ { \\vec { \\lambda } } ( w ) \\right] ^ { \\frac { 1 } { 2 } } } { z - \\phi ( \\bigtriangleup ) } \\left. \\vec { \\lambda } + \\boldsymbol { \\Omega } \\right. _ { \\vec { a } } , } \\\\ { \\displaystyle \\mathcal { D } _ { - 1 } ( z ) \\left. \\vec { \\lambda } \\right. _ { \\vec { a } } = \\displaystyle \\sum _ { \\bigsqcup \\in \\mathrm { R e m } ( \\vec { \\lambda } ) } \\frac { \\left[ - \\frac { 1 } { h _ { 3 } } \\mathrm { R e s } _ { w = \\phi ( \\bigtriangleup ) } \\mathcal { E } _ { \\vec { \\lambda } } ( w ) \\right] ^ { \\frac { 1 } { 2 } } } { z - \\phi ( \\bigtriangleup ) } \\left. \\vec { \\lambda } - \\boldsymbol { \\Omega } \\right. _ { \\vec { a } } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "where Res is the residue,while $\\mathcal { D } _ { 0 } ( z )$ acts diagonally as ",
+        "page_idx": 24
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathcal D } _ { 0 } ( z ) | \\vec { \\lambda } \\rangle _ { \\vec { a } } = \\sum _ { \\sqcup \\in \\vec { \\lambda } } \\frac { 1 } { z - \\phi ( \\sqcup ) } | \\vec { \\lambda } \\rangle _ { \\vec { a } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Here the $a _ { i }$ are treated as formal (independent) variables, and it follows by the same arguments as in [21] (see also [35]) that this defines a representation of $\\mathrm { S H } ^ { c }$ ： ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "For generic $a _ { i }$ , there are $N$ states at level one. To obtain more special representations, in particular those with many null states, we need to choose special $a _ { i }$ . The ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "most extreme example of this is the vacuum representation of $\\mathcal { W } _ { 1 + \\infty }$ ， for which we choose (cf. the comment below eq. (5.26)) ",
+        "page_idx": 25
+    },
+    {
+        "type": "equation",
+        "text": "$$\na _ { i } = a + h _ { 3 } ( i - 1 ) ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "It is not diffcult to see that the numerator factor in (5.27) guarantees that one cannot add a box to the $( i + 1 ) ^ { \\mathrm { t h } }$ Young diagram at position $( x , y )$ , if one could also add a box at position $( x , y )$ to the $i ^ { \\mathrm { t h } }$ . Thus, starting from the configuration of $N$ （20 empty Young diagrams, one can only add a box to the $( i + 1 ) ^ { \\mathrm { t h } }$ Young diagram if the corresponding position is already occupied in the $i ^ { \\mathrm { t h } }$ . The resulting configurations are therefore precisely the plane partitions, whose counting function agrees with the MacMahon function (and thus the vacuum character of $\\mathcal { W } _ { 1 + \\infty }$ ） ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Similarly, the representations whose non-trivial asymptotics are described by the single Young diagram $\\Xi ^ { ( x ) }$ are obtained upon choosing ",
+        "page_idx": 25
+    },
+    {
+        "type": "equation",
+        "text": "$$\na _ { i + 1 } = a _ { i } + h _ { 3 } - h _ { 1 } ( \\Xi _ { i } ^ { ( x ) } - \\Xi _ { i + 1 } ^ { ( x ) } ) ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "where $\\Xi _ { j } ^ { ( x ) }$ is the number of boxes in the $j ^ { \\mathrm { t h } }$ row of $\\Xi ^ { ( x ) }$ . Indeed, then the numerator factor in (5.27) guarantees that one cannot add a box to the $( i + 1 ) ^ { \\mathrm { t h } }$ Young diagram at position $( x , y )$ , if one could also add a box at position $( x - n , y )$ to the $i ^ { \\mathrm { t h } }$ Young diagram， where $n = \\Xi _ { i } ^ { ( x ) } - \\Xi _ { i + 1 } ^ { ( x ) }$ For $n > 0$ it is therefore possible to add a box to the $( i + 1 ) ^ { \\mathrm { t h } }$ Young diagram at $( x , y )$ ， even if the corresponding position has not yet been filled in the $i ^ { \\mathrm { t h } }$ ; effctively, this is equivalent to imposing a non-trivial asymptotic (described by $\\Xi ^ { ( x ) }$ ） for the first few Young diagrams, i.e., the resulting configurations are counted by plane partitions with boundary condition $\\Xi ^ { ( x ) }$ By the same reasoning, for the case where there are non-trivial boundary conditions both in the $x$ -and the $y$ -direction (described by the Young diagrams $\\Xi ^ { ( x ) }$ and $\\Xi ^ { ( y ) }$ ， respectively)，the relevant formula becomes ",
+        "page_idx": 25
+    },
+    {
+        "type": "equation",
+        "text": "$$\na _ { i } = a + h _ { 3 } ( i - 1 ) - h _ { 1 } \\Xi _ { i } ^ { ( x ) } - h _ { 2 } \\Xi _ { i } ^ { ( y ) } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "We should note that the action of $\\mathcal { D } _ { + 1 } ( z )$ ， see eq. (5.27)， is essentially the same as that for the corresponding operator $e ( z )$ , see eq. (2.26); in particular,apart from the $h _ { 1 }$ -and $h _ { 2 }$ -terms that effectively implement the non-trivial asymptotics (see above), (5.26) with $a _ { i }$ being defined by (5.32) agrees with (2.29). ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "6 Discussion ",
+        "text_level": 1,
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "In this work we have spelled out some of the relations between the $\\mathcal { W } _ { \\infty }$ algebra and certain novel algebraic structures that have been studied in recent years such as the affine Yangian of ${ \\mathfrak { g l } } _ { 1 }$ and the SH $c$ algebra. We expect these alternative viewpoints to shed new light on both the ${ \\mathcal W } _ { \\infty }$ algebra as well as the Yangians. We have already seen that the triality symmetry of ${ \\cal W } _ { \\infty }$ ，which is not obvious in any of its conventional formulations, is manifest in the Yangian description. The Yangian picture is also very natural in the study of the degenerate representations of $\\mathcal { W } _ { \\infty }$ in terms of plane partitions. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "We can also expect insight in the reverse direction. Yangian symmetries have played a role in understanding the two-dimensional integrable structures underlying planar gauge theories such as ${ \\mathcal N } = 4$ super Yang-Mills. These symmetries act nonlocally on the dual worldsheet description, which makes it difficult to tease out their consequences. As noted above, the map (3.59) between generic Yangian generators and those of $\\mathcal { W } _ { \\infty }$ is non-local. This suggests that we might be able to use (an analogue of） this relation,or rather,its inverse, to search for an alternative, local worldsheet description to the Yangians that appear in integrable spin chains [38]. It would also be particularly interesting to connect this to the work on integrability in AdS $_ 3$ /CFT $_ 2$ [39-42]. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "One of the original motivations for this work was to get a better handle on the unbroken stringy symmetries of AdS $_ 3$ backgrounds, as captured by dual symmetric product CFTs, which are much bigger than $\\mathcal { W } _ { \\infty }$ . It was shown in [23] that for $\\lambda = 0$ （20 and $\\lambda = 1$ the bosonic ${ \\mathcal W } _ { \\infty } [ \\lambda ]$ algebra can be extended to a much larger symmetry algebra, the analogue of the stringy $\\mathcal { W }$ -algebra of the $\\mathcal { N } = 4$ superconformal case [8]. Given that the stringy $\\mathcal { W }$ -algebra contains the $\\mathcal { W } _ { \\infty }$ algebra as a subalgebra, it is natural to ask how it is related to the affine Yangian (or the SH $\\mathbf { \\Psi } _ { . } ^ { c }$ algebra).Unfortunately, we have not been able to find a direct relation between these structures so far. The stringy symmetry algebra is equivalent to the universal enveloping algebra of a complex boson theory - this is simply the familiar fact that the symmetry algebra of a symmetric orbifold is generated, in the large $N$ limit,by the (single-particle) generators that are in one-to-one correspondence with all the states (including the multi-particle states) of the underlying seed theory. However, this identification does not seem to give rise to any simple relation between the stringy symmetry algebra and the universal enveloping algebra of $\\mathcal { W } _ { 1 + \\infty }$ , i.e., the affine Yangian. On the other hand, the structure of the stringy symmetry algebra is fairly reminiscent of a Yangian algebra 23], and this could be a sign that yet another Yangian algebra plays an important role here. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "We are grateful to Akash Goel, Vasily Pestun, Tomas Prochazka, and Hong Zhong for discussions and correspondences. MRG thanks ITP, Chinese Academy of Sciences, where part of this work was done, for hospitality. The work of CP was supported by a grant from the Swiss National Science Foundation and also partly by the US Department of Energy under contract DE-SC0010010 Task A. RG is supported partly by a J. C. Bose Fellowship and more broadly by the support for basic science from the people of India. MRG and WL thank the first Mandelstam School for Theoretical Physics for hospitality, and CP appreciates the hospitality of ETH Zurich, KU Leuven, and the Université Libre de Bruxelles during the final stages of this work. This research was also (partly) supported by the NCCR SwissMAP, funded by the Swiss National Science Foundation. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "AThe construction of the local spin-4 field ",
+        "text_level": 1,
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "For the wedge modes of the spin-4 field we make the ansatz ",
+        "page_idx": 27
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { W _ { - 3 } ^ { 4 } = - \\frac { 1 } { 2 } [ e _ { 1 } , [ e _ { 1 } , e _ { 3 } ] ] } \\\\ & { W _ { - 2 } ^ { 4 } = - \\frac { 1 } { 2 } [ ( e _ { 1 } , e _ { 3 } ] + \\sigma _ { 3 } \\psi _ { 0 } [ e _ { 1 } , e _ { 2 } ] ) } \\\\ & { W _ { - 1 } ^ { 4 } = e _ { 3 } + \\sigma _ { 3 } \\psi _ { 0 } e _ { 2 } - \\frac { 1 } { 5 } ( \\sigma _ { 2 } - \\sigma _ { 3 } \\psi _ { 1 } - \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } ^ { 2 } ) e _ { 1 } } \\\\ & { W _ { 0 } ^ { 4 } = \\frac { 1 } { 4 } \\psi _ { 4 } + \\frac { 1 } { 4 } \\sigma _ { 3 } \\psi _ { 0 } \\psi _ { 3 } - \\frac { 1 } { 2 0 } ( \\sigma _ { 2 } - \\sigma _ { 3 } \\psi _ { 1 } - \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } ^ { 2 } ) \\psi _ { 2 } } \\\\ & { W _ { 1 } ^ { 4 } = - f _ { 3 } - \\sigma _ { 3 } \\psi _ { 0 } f _ { 2 } + \\frac { 1 } { 5 } ( \\sigma _ { 2 } - \\sigma _ { 3 } \\psi _ { 1 } - \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } ^ { 2 } ) f _ { 1 } } \\\\ & { W _ { 2 } ^ { 4 } = \\frac { 1 } { 2 } \\big ( [ f _ { 1 } , f _ { 3 } ] + \\sigma _ { 3 } \\psi _ { 0 } [ f _ { 1 } , f _ { 2 } ] \\big ) } \\\\ & { W _ { 3 } ^ { 4 } = - \\frac { 1 } { 2 } \\big [ f _ { 1 } , \\big [ f _ { 1 } , f _ { 3 } ] \\big ] . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Again, they satisfy the correct commutation relations with the wedge modes of the Virasoro algebra ",
+        "page_idx": 27
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ L _ { m } , W _ { n } ^ { 4 } ] = ( 3 m - n ) W _ { m + n } ^ { 4 } ~ \\mathrm { f o r } ~ m = 0 , \\pm 1 ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Some examples of their commutators with the spin-one generators are ",
+        "page_idx": 27
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } & { \\left[ J _ { - \\infty } , \\frac { W _ { 1 } } { N } \\right] - 3 J _ { 0 } ^ { 2 } } \\\\ & { \\left[ J _ { - \\infty } , \\frac { W _ { 1 } } { N } \\right] - 3 J _ { 0 } ^ { 2 } } \\\\ & { \\left[ J _ { - \\infty } , \\frac { W _ { 1 } } { N } \\right] - 9 J _ { 0 } ^ { 3 } \\left[ J _ { - 1 } + 3 \\left( J _ { 0 } - J _ { 0 } ^ { 2 } \\right) ^ { 2 } - \\sigma _ { 0 } \\sigma _ { 0 } ^ { 2 } \\right] J _ { 0 } ^ { 2 } } & { \\mathrm { ( A . t ) } } \\\\ & { \\left[ J _ { - \\infty } , \\frac { W _ { 1 } } { N } \\right] - 9 J _ { 0 } ^ { 3 } \\left[ J _ { - 1 } + 3 \\left( J _ { 0 } - J _ { 0 } ^ { 2 } \\right) ^ { 2 } - \\sigma _ { 0 } \\sigma _ { 0 } ^ { 2 } \\right] J _ { 1 } ^ { 2 } } & { \\mathrm { ( A . t ) } } \\\\ & { \\left[ J _ { - \\infty } , \\frac { W _ { 1 } } { N } \\right] - 3 J _ { 0 } ^ { 3 } \\left[ J _ { - 1 } + 3 \\left( J _ { 0 } ^ { 2 } - J _ { 0 } ^ { 2 } \\right) ^ { 2 } \\right] I _ { 0 } ^ { 2 } } & { \\mathrm { ( A . t ) } } \\\\ & { \\left[ J _ { - \\infty } , \\frac { W _ { 1 } } { N } \\right] - 9 J _ { 0 } ^ { 3 } \\left[ J _ { 0 } + 3 \\left( J _ { 0 } ^ { 2 } - J _ { 0 } ^ { 2 } \\right) ^ { 2 } - \\sigma _ { 0 } \\sigma _ { 0 } ^ { 2 } \\right] J _ { 0 } ^ { 2 } } & { \\mathrm { ( A . t ) } } \\\\ & { \\left[ J _ { - \\infty } , \\frac { W _ { 1 } } { N } \\right] - 9 J _ { 0 } ^ { 4 } \\left[ J _ { 0 } ^ { 3 } - J _ { 0 } ^ { 2 } \\sigma _ { 0 } ^ { 2 } L _ { - 1 } \\right] \\left[ 6 ( J _ { 0 } ^ { 2 } - \\sigma _ { 0 } ^ { 2 } \\sigma _ { 0 } ^ { 2 } \\sigma _ { - } ^ { 2 } \\sigma _ { 0 } ^ { 2 } \\sigma _ { - } ^ { 2 } \\sigma _ { - } ^ { 2 } \\sigma _ { 0 } ^ { 2 } \\sigma _ { - } ^ { 2 } \\sigma _ { - } ^ { 2 } \\sigma _ { - } ^ { 2 } \\sigma _ { 0 } ^ { 2 } \\right] J _ { 0 } } & { \\mathrm { ( A . t ) } } \\\\ &  \\left[ J _ { - \\infty } , \\frac { W _ { 1 } } { N } \\right] - 9 J _ { 0 } ^ { 2 } \\left[ J _ { 0 } ^ { 2 } - 3 \\sigma _ { 0 } ^ { 2 } \\sigma _ { 0 } ^ { 2 } \\right] J _ { 0 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "If $J _ { m }$ and $W _ { n } ^ { 4 }$ are the modes of local quasi-primary operators, it follows from the general analysis of [27] that their commutator has to take the form ",
+        "page_idx": 28
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { [ J _ { m } , W _ { n } ^ { 4 } ] = - 3 m W _ { m + n } ^ { 3 } - \\sigma _ { 3 } \\psi _ { 0 } { \\frac { m } { 2 } } ( 3 m + n ) L _ { m + n } + { \\frac { m } { 2 } } ( 3 m + n ) \\Lambda _ { m + n } ^ { ( 2 ) } } } \\\\ { { - \\left( \\sigma _ { 2 } - \\psi _ { 0 } ^ { 2 } \\sigma _ { 3 } ^ { 2 } - \\sigma _ { 3 } \\psi _ { 1 } \\right) { \\frac { m } { 1 0 } } ( 5 m ^ { 2 } + 5 m n + n ^ { 2 } + 1 ) J _ { m + n } ~ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "where $\\Lambda ^ { ( 2 ) } = : J J :$ is the normal ordered product of the spin-one current with itself. (In principle, also a normal ordered field at $s = 3$ could have appeared, but this does not seem to be the case.） In any case, the bilinear contribution of the $J$ -modes is not of the correct form — in particular, one would have expected an infinite sum of bilinear $J$ modes,and the coefficient in front of it does not have the correct $( m , n )$ （20 dependence - and it therefore follows that the $W ^ { 4 }$ modes cannot be the modes of a local field. In order to correct for this we define, for $| n | \\leq 3$ ， ",
+        "page_idx": 28
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { W } _ { n } ^ { 4 } = \\frac { 1 } { 2 } \\sum _ { l } | 3 l - n | : L _ { n - l } J _ { l } : + \\frac { 1 } { 5 } ( 3 - 2 n ^ { 2 } ) \\Theta ( 2 - | n | ) J _ { 0 } L _ { n } .\n$$",
+        "text_format": "latex",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "For $| n | \\leq 3$ , these modes then satisfy the quasi-primary condition ",
+        "page_idx": 28
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ L _ { m } , \\tilde { W } _ { n } ^ { 4 } ] = ( 3 m - n ) \\tilde { W } _ { m + n } ^ { 4 } \\ , \\qquad m = 0 , \\pm 1 \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "The modified $s = 4$ generators ",
+        "page_idx": 28
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { m } ^ { 4 } = W _ { m } ^ { 4 } - \\sigma _ { 3 } \\tilde { W } _ { m } ^ { 4 } ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "then satisfy for $| n | \\leq 3$ and all $m \\in \\mathbb { Z }$ ",
+        "page_idx": 28
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { [ J _ { m } , V _ { n } ^ { 4 } ] = - 3 m V _ { m + n } ^ { 3 } - \\frac { \\sigma _ { 2 } - \\psi _ { 0 } ^ { 2 } \\sigma _ { 3 } ^ { 2 } } { 1 0 } m ( 5 m ^ { 2 } + 5 m n + n ^ { 2 } + 1 ) J _ { m + n } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Their commutators with the Virasoro modes can be similarly determined to be ",
+        "page_idx": 28
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { [ L _ { m } , V _ { n } ^ { 4 } ] = ( 3 m - n ) V _ { m + n } ^ { 4 } - \\frac { m ( m ^ { 2 } - 1 ) } { 1 0 } \\big ( 7 \\sigma _ { 2 } + 3 \\sigma _ { 3 } ^ { 2 } \\psi _ { 0 } ^ { 2 } \\big ) L _ { m + n } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "where we have again assumed $| n | \\le 3$ . Both of these commutators are then of the local form predicted by [27]. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "It should also be possible to extend the local modes $V _ { n } ^ { 4 }$ beyond the wedge, i.e. for $| n | \\ge 4$ . However, we have not found a closed formula for these modes. In any case, for the determination of the relevant structure constant, it suffices to consider the modes inside the wedge, see the discussion in Section 3.3. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "[1] D.J. Gross,“High-energy symmetries of string theory,” Phys. Rev. Lett. 60 (1988) 1229. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "[2] E.Witten，“Space-time and topological orbifolds,” Phys. Rev. Lett. 61 (1988) 670. [3] G.W. Moore,“Symmetries and symmetry breaking in string theory,” in proceedings of the SUSY '93 conference,‘Supersymmetry and unification of fundamental interactions,' (1993) 540 [arXiv:hep-th/9308052].   \n[4] B. Sundborg,“Stringy gravity, interacting tensionless strings and massless higher spins,” Nucl. Phys. Proc. Suppl. 102 (2001) 113 [arXiv:hep-th/0103247].   \n[5] E. Witten, talk at the John Schwarz 60-th birthday symposium (Nov. 2001), http://theory.caltech.edu/jhs6o/witten/1.html.   \n[6] A. Mikhailov,“Notes on higher spin symmetries,” arXiv:hep-th/0201019.   \n[7] M.A. Vasiliev,“Nonlinear equations for symmetric massless higher spin fields in (A)dS(d),” Phys.Lett.B 567 (2003) 139 [arXiv:hep-th/0304049].   \n[8] M.R. Gaberdiel and R. Gopakumar,“Higher Spins & Strings,” JHEP 1411 (2014) 044 [arXiv:1406.6103 [hep-th]].   \n[9] M.R. Gaberdiel and R. Gopakumar,“An AdS $^ 3$ dual for minimal model CFTs,” Phys.Rev.D 83(2011) 066007 [arXiv:1011.2986 [hep-th]].   \n[10] O. Tsymbaliuk,“The affine Yangian of ${ \\mathfrak { g l } } _ { 1 }$ , and the infinitesimal Cherednik algebras,” Ph.D. thesis, MIT, Department of Mathematics (2014).   \n[11] T. Prochazka,“W-symmetry, topological vertex and affine Yangian,” JHEP 1610 (2016) 077 [arXiv:1512.07178 [hep-th]].   \n[12] O. Tsymbaliuk,“The affine Yangian of ${ \\mathfrak { g l } } _ { 1 }$ revisited,” Adv. Math. 304 (2017) 583 [arXiv:1404.5240 [math.RT]].   \n[13] S. Gautam, V. Toledano Laredo,“Yangians and quantum loop algebras,” Selecta Mathematica 19 (2013) 271 [arXiv:1310.7318 [math.RT]].   \n[14] K. Miki, “A $( q , \\gamma )$ analog of the $\\mathcal { W } _ { 1 + \\infty }$ algebra,” J. Math. Phys. 48 （2007) 123520.   \n[15] V.G. Drinfeld,“A new realization of Yangians and of quantum affine algebras,\" Dokl. Akad. Nauk SSSR 296 (1987） 13.   \n[16] B.Feigin,E. Feigin,M. Jimbo,T.Miwa,and E.Mukhin,“Quantum Continuous （20 ${ \\mathfrak { g l } } _ { \\infty }$ : Semi-infinite construction of representations,” Kyoto J. Math. 51, no. 2 (2011) 337 [arXiv:1002.3100 [math.QA]].   \n[17] B.Feigin, E. Feigin, M. Jimbo,T. Miwa,and E. Mukhin,“Quantum Continuous ${ \\mathfrak { g l } } _ { \\infty }$ : Tensor Products of Fock Modules and $\\mathcal { W } _ { n }$ Characters,” Kyoto J. Math. 51, no. 2（2011) 365 [arXiv:1002.3113 [math.QA]].   \n[18] B.Feigin,M.Jimbo,T.Miwa,and E.Mukhin,“Quantum toroidal ${ \\mathfrak { g l } } _ { 1 }$ algebra:plane partitions,” Kyoto J. Math. 52, no.3 (2012) 621 [arXiv:1110.5310 [math.QA]].   \n[19] T. Kimura and V. Pestun, “Quiver W-algebras,” arXiv:1512.08533 [hep-th].   \n[20] M.R. Gaberdiel and R. Gopakumar, “Triality in Minimal Model Holography,” JHEP 1207(2012) 127 [arXiv:1205.2472 [hep-th]].   \n[21] O. Schiffmann and E. Vasserot, “Cherednik algebras,W-algebras and the equivariant cohomology of the moduli space of instantons on A $^ 2$ ,” arXiv:1202.2756 [math.QA].   \n[22] D. Maulik and A. Okounkov,“Quantum Groups and Quantum Cohomology,” arXiv:1211.1287 [math.AG].   \n[23] M.R.Gaberdiel and R. Gopakumar,“Stringy Symmetries and the Higher Spin Square,”J.Phys.A 48 (2015) 185402 [arXiv:1501.07236 [hep-th]].   \n[24] R.P. Stanley,“Enumerative combinatorics,” vol 2., Cambridge University Press (1999).   \n[25] S. Datta, M.R. Gaberdiel, W. Li and C. Peng,“Twisted sectors from plane partitions,” JHEP 1609 (2016) 138 [arXiv:1606.07070 [hep-th]].   \n[26] M.R. Gaberdiel, K. Jin,and W. Li, “Perturbations of ${ \\mathcal W } _ { \\infty }$ CFTs,” JHEP1310 (2013)162 [arXiv:1307.4087 [hep-th]].   \n[27] R. Blumenhagen, M. Flohr, A. Kliem, W. Nahm,A. Recknagel, and R. Varnhagen, “W algebras with two and three generators,” Nucl. Phys. B 361 (1991) 255.   \n[28] R.D. Zhu and Y. Matsuo,“Yangian associated with 2D $\\mathcal { N } = 1$ SCFT,”PTEP 2015 (2015)093A01 [arXiv:1504.04150 [hep-th]].   \n[29] S.Kanno, Y. Matsuo, and H. Zhang,“Extended Conformal Symmetry and Recursion Formulae for Nekrasov Partition Function,” JHEP 1308 (2013) 028 [arXiv:1306.1523 [hep-th]].   \n[30] E. Bergshoeff, M.P. Blencowe, and K.S. Stelle,“Area Preserving Diffeomorphisms and Higher Spin Algebra,” Commun.Math. Phys.128（1990) 213.   \n[31] E. Bergshoeff, C.N. Pope, L.J. Romans, E. Sezgin, and X. Shen, “The Super W(infinity）Algebra,” Phys.Lett.B 245(1990) 447.   \n[32] D.A. Depireux,“Fermionic realization of W(1+infinity),” Phys. Lett.B 252 (1990) 586.   \n[33] M.R. Gaberdiel and R. Gopakumar,“String Theory as a Higher Spin Theory,” JHEP 1609 (2016) 085 [arXiv:1512.07237 [hep-th]].   \n[34] J.E. Bourgine,“Spherical Hecke Algebra in the Nekrasov-Shatashvili Limit,” JHEP 1501(2015)114 [arXiv:1407.8341 [hep-th]].   \n[35] J.E. Bourgine, Y. Matsuo and H. Zhang,“Holomorphic field realization of SH $c$ and quantum geometry of quiver gauge theories,” JHEP 1604 (2016) 167 [arXiv:1512.02492 [hep-th]].   \n[36] P. Bouwknegt and K. Schoutens,“W symmetry in conformal feld theory,” Phys. Rept.223 (1993) 183 [hep-th/9210010].   \n[37] M. Fukuda, S. Nakamura, Y. Matsuo, and R.D. Zhu,“SH $c$ realization of minimal model CFT: triality, poset and Burge condition,” JHEP 1511 (2015） 168 [arXiv:1509.01000 [hep-th]].   \n[38] A. Torrielli，“Review of AdS/CFT Integrability, Chapter VI.2: Yangian Algebra,” Lett.Math.Phys.99 (2012) 547 [arXiv:1012.4005 [hep-th]].   \n[39] O. Ohlsson Sax and B. Stefanski,“Integrability, spin-chains and the AdS3/CFT2 correspondence,” JHEP 1108 (2011) 029 [arXiv:1106.2558 [hep-th]].   \n[40] O. Ohlsson Sax, B. Stefanski, and A. Torrielli， “On the massless modes of the AdS3/CFT2 integrable systems,” JHEP 1303 (2013) 109 [arXiv:1211.1952 [hep-th]].   \n[41] R.Borsato, O. Ohlsson Sax,A. Sfondrini and B. Stefaski,“The A $\\mathrm { { d S _ { 3 } \\times S ^ { 3 } \\times S ^ { 3 } \\times S ^ { 1 } } }$ worldsheet S matrix,” J. Phys. A 48 (2015) 415401 [arXiv:1506.00218 [hep-th]]   \n[42] A. Sfondrini,“Towards integrability for AdS3/CFT2,” arXiv:1406.2971 [hep-th]. ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 31
+    }
+]

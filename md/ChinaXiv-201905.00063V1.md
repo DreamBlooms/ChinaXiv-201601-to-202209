@@ -1,0 +1,170 @@
+# 社会排斥的心理行为特征及其脑机制
+
+彭苏浩1,2.3,4陶丹1,2.3,4冷玥1,2,3,4 邓慧华1,2,3.4(东南大学生物科学与医学工程学院，南京210096)( 东南大学学习科学研究中心，南京210096)(东南大学儿童发展与学习科学教育部重点实验室，南京210096)(4东南大学儿童发展与教育研究所，南京210096)
+
+摘要社会排斥损害个体基本的归属需要，对个体的心理和生理会造成严重影响。根据需要威胁时间模型，社会排斥后的心理和行为特征可以分为三个阶段。社交媒体的发展使社会排斥出现了新的心理和行为特征。近年来功能性磁共振成像研究发现，突显网络和默认网络等网络中的一些核心脑区都参与了社会排斥各阶段的情绪和认知加工过程。未来研究应以需要威胁时间模型为基础，以脑网络方法为手段，探索社会排斥神经机制，预测排斥后的心理和行为反应模式。
+
+关键词社会排斥;需要威胁时间模型;社交媒体；默认网络;突显网络
+
+# 1引言
+
+人类是社会性动物，在生存、发展和繁殖过程中对稳定的社会联结(socialconnection)有着极强的需求(Nezlek,Wesselmann,Wheeler,&Williams,2012;Williams,2007)。因此，个体对任何威胁社会联结的信息都极其敏感，一旦社会联结受到破坏，其生理和心理都将会感到痛苦。社会排斥就是这样一种普遍存在的社会联结破坏现象，造成个体的社会疼痛(social pain)。社会排斥(social exclusion)是指由于被某一社会团体或他人所排斥或拒绝，一个人的归属需求和关系需求受到阻碍的现象和过程(陈晨,杨付,李永强,2017;杜建政,夏冰丽,2008;Williams,2007)。拒绝(rejection)和放逐(ostracism)是诱发社会疼痛的两种核心类型。拒绝指的是个体或群体被明确表明拒绝接受；放逐指的是个体或群体被其他个体或群体忽视并排除在外(Williams,2007)。另外，还有研究将突发的社会排斥体验称作应激状态(stressful situation)，这种应激状态可能会引起抑郁(Wang, Braun,& Enck,2017)。
+
+近年来，随着脑成像和神经电生理研究技术的发展，研究者尝试通过对神经活动模式的分析来探索社会排斥的神经机制，并预测社会排斥后的心理和行为反应。国内已有学者对社会排斥的研究范式和理论模型做了初步的总结，并提出了关键的争论点以及未来研究方法(蔡强，吴寅,刘金婷,2011;程苏,刘璐,郑涌,2011;杜建政,夏冰丽,2008)。随后几年研究者们围绕这些争论做出了更进一步的探究，社会排斥的心理及其神经机制也涌现出许多新的发现，尤其是脑网络分析方法的发展，使得很多存在争议的问题逐渐有了解决思路，如个体对社会排斥的心理和行为反应模式的独特性和多样性，不同阶段社会排斥诱发神经活动模式改变的差异性等。
+
+但是社会排斥具有阶段性，正在经历排斥、过去刚经历排斥以及长时间经历社会排斥对个体影响具有显著区别，目前还没有文献对社会排斥在不同时间阶段的心理行为特征及其脑机制进行总结和分析。因此，本文以社会排斥经典的需要威胁时间模型(temporal need-threat model)(Ren,Wesselmann,&Williams,2018;Williams,2007,2009)为基础，将社会排斥对个体 的影响分为三个阶段，结合近年来相关的脑网络研究，从三阶段角度梳理了影响社会排斥的心理行为表现及其神经活动变化，为预测社会排斥后的心理和行为反应提供更多的思路。
+
+# 2需要威胁时间模型及各阶段的心理行为特征
+
+# 2.1需要威胁时间模型
+
+Williams 等人整合大量的社会排斥的心理与行为实证研究，根据排斥后的心理行为变化的个体差异性与阶段性，提出了经典的需要威胁时间模型(temporal need-threat model) (Ren et al,2018;Williams，2007,2009)。如图1所示，需要威胁时间模型主要有三个阶段：反射阶段(Reflexive stage)、反思阶段(Reflective stage)以及退避阶段(resignation stage)。个体遭受排斥后首先回进入反射阶段，该阶段会感受到痛苦、悲伤、愤怒以及低满意度等相关的四种基本的心理需求，具体表现为归属感、自尊感、控制感以及有意义的存在感等需要受到威胁。随后进入反思阶段，该阶段个体通过一系列努力试图从被排斥中脱离出来，他们采取的方式主要有两种：亲社会行为和反社会行为。最近研究者发现该阶段还存在另一种反应—一退缩反应，即有些个体受到排斥后只是希望从痛苦的社会交往中解脱出来，寻求独处(Ren,Wesselmann,&Williams,2016)。最后，当排斥依然持续存在时，个体会进入第三个退避阶段，会感到强烈的疏离感、沮丧感、无助感和无价值感。
+
+社会排斥 反射阶段 反思阶段 持续排斥 退避阶段需要威胁 行为反应 无法获得需要·归属感 ·亲社会 ·疏远·自尊感 ·反社会 ·抑郁·控制感 ·退缩 ·无助有意义的存在感 ·无价值
+
+# 2.2不同阶段的心理行为变化的新特征
+
+在需要威胁时间模型反射阶段的研究结果都比较一致，认为社会排斥导致个体需要受阻，归属感、自尊感、控制感以及有意义的存在感都有所降低，进而诱发负性情绪。但是到了反思阶段，也是社会排斥领域研究最多的阶段，研究者们发现个体会采取不同的行为模式应对社会排斥。早期研究发现有些个体会更加关注社会信息或更倾向模仿他人等，也有些个体会选择攻击他人或惩罚他人等。近几年发现社会排斥会提高观点采择(王紫薇,涂平,2014)和心理理论(Knowles,2014; White et al.,2016; Will, Crone,& Guroglu,2015)。Knowles (2014)通过一系列的实验发现，社会排斥会促使个体从自我中心转向以他人为中心，被排斥者表现出更高的观点采择能力(Knowles,2014)。White 等人从心智化角度考察了心理理论与社会排斥的关系，发现普通儿童受排斥后，心智化能力会出现提高，运用更多的心理语言(mental state language)，更加有效地与他人沟通，尝试重新建立社会连接(White etal.,2016)。
+
+值得注意的是，Ren 等人(2016)发现被排斥个体在反思阶段还会做出退缩反应，寻求个人独处。他们首先让113名被试填写大五人格和罗森伯格自尊问卷，然后完成网络投球任务(Cyberball task)。网络投球任务是目前社会排斥领域采用最广泛的范式之一。结果发现，大五人格中的外向性可以调节个体被排斥后行为，具体表现为内向的个体在受到排斥后更容易出现退缩行为，他们在接下来的游戏中更倾向于一个人完成。研究者认为无论是亲社会还是反社会，或是退缩反应，都是一种防御机制，避免受到更多的社会疼痛。最新发现的这种退缩反应是一种转移倾向(moving away tendencies)，这种转移倾向某种意义上可以让个体远离威胁，避免遭受更多的痛苦(Ren etal.,2016)。该结果也得到了其他相关研究的支持，Hales 等人(2016)发现，个体受到突然的社会排斥后，选择祈祷或转移注意可以有效减轻被排斥后的社会疼痛(Hales,Wesselmann, & Williams, 2016)。
+
+当个体持续受到排斥后就会进入退避阶段，感到被疏远、无助、无价值，甚至抑郁，最后导致认知和情绪能力失调，影响身心发展。最近，Martin 等人(2017)采用了大学女生联谊会志愿者招募方法进行社会排斥操作，考察了社会排斥对个体长期的影响。他们在招募前测量了被试的抑郁、积极情绪、生活满意度、归属感知以及社会地位感知等作为基线，然后在招募中拒绝了一些志愿者，结果发现即使过了三个月，被试的一些心理指标还是没有恢复到以前的基线水平。该研究说明社会排斥对个体影响具有长期性，被试受到排斥后，即使没有后续继续排斥操作，也会对其心理产生负面影响(Martin,Smart Richman,& Leary,2017)。Oxman-Martinez 等人(2012)对生活在加拿大的1053名11\~13岁的新移民儿童进行了社会排斥相关调查，结果发现五分之一的儿童自我感觉被排斥在外，十分之一的儿童自我感觉被社会孤立，由于长时间地受到排斥，很多儿童会选择逃避群体。他们的调查结果还发现那些长期受排斥的儿童从来没有参加过组织活动(Oxman-Martinez et al.,2012)。社会排斥会诱发个体抑郁情感，尤其值得关注的是，高抑郁个体受到排斥后，会向着更抑郁的方向发展，产生厌世、退避等行为，这些行为反过来又会导致个体遭遇更多的孤立和排斥(Starr&Davila,2008)。
+
+# 2.3社会因素对不同阶段的影响
+
+社会排斥作为一种社会性的现象或过程，也受到了社会情境、文化环境等因素的影响。随着近十年来社会发展的巨大变化，尤其是互联网的发展，使得社会排斥涉及的领域及其影响有了新的特征。社交网站的发展让人们愿意花费更多的时间在虚拟空间与人交流，比如QQ、微信以及微博等媒体已经成为了国内人主要的社交工具之一，有研究表明网络社交可以有效调节个人孤独感、自尊感、自我价值感以及情绪等。近几年伴随着网络媒体的迅速发展，国内外研究者几乎同时关注网络社交与社会排斥之间的关系，考察虚拟网络中的社会排斥对个体反射阶段心理的影响。国内研究中，如Chiou 等人(2015)将被试分为两组，一组采用网络社交启动任务，另一组被试进行中性启动任务，然后进行网络投球排斥任务，结果发现网络社交启动任务可以有效减轻社会排斥的痛苦体验。随后他们考察了不同程度网络社交使用者对社会排斥的反应，首先将被被试分为两组，一组被试要求回忆并记录过去不能使用网络社交媒体时的感受，另一组不用要求回忆并记录不能登陆大学网站时的感受，然后再进行相互认识范式的排斥操作，结果发现重度网络社交使用的被试回忆过失去网络社交后，产生更为痛苦的排斥体验(Chiou,Lee,&Liao,2015)。Lin等人也发现，高焦虑个体在遭受排斥后，使用网络社交软件可以很好的从排斥的负面影响中恢复过来(Lin,Li,&Qu,2017)。国外研究也发现排斥过程中Facebook 的使用可以帮助个体有效减少归属需要威胁 (Knausenberger& Echterhoff,2018)。
+
+当前很多青少年受到排斥后，很少在现实生活中表露出来，但是会选择在网络上寻求归属感。社交技术的进步导致很多人利用网络社交逃离现实生活，试图从现实的被排斥中脱离，但是有研究表明当个体依赖网络社交之后，如果离开网络会感到更加孤独，只能更加依赖网络。孤独的人更倾向于利用网络进行社交活动，甚至代替线下的现实社交活动(Nowland,Necka,&Cacioppo,2018)。一项对 Facebook用户活动特征的分析发现，青少年在网络社交中的跟帖、签到、黑暗内容浏览以及对网络评论态度等特点可以很好预示他们在现实生活中的社会排斥遭遇情况以及随后的心理变化和应对方式(Ophir,Asterhan,& Schwarz,2019)。相比西方人，中国人更为内向，尤其是青少年，社会排斥后不愿向他人吐露，反思阶段可能更多选择退缩行为，他们可能会在网络中寻求归属感，沉迷与网络，影响个体发展。如果长期遭受排斥，抑郁的风险随之增加，更容易在网络中表现出极端行为，进而影响现实生活。因此，对青少年网络社交使用情况进行分析可以发现一些心理健康相关指标的变化，为青少年心理健康教育和干预提供新的思路。不过当前国内这方面的研究极少，将会成为未来研究的一个重要方向。
+
+# 3社会排斥各阶段的脑网络特征
+
+早期的认知神经科学研究大多聚焦于探索与社会排斥心理反应相关的脑区活动。大量fMRI 研究表明，个体对社会排斥的反应涉及很多脑区，主要有前扣带回皮层(anterior cingulatecortex,ACC)、后扣带回皮层(posterior cingulate cortex,PCC)、脑岛(insula)，腹侧和腹外侧前额叶皮层(ventral and ventrolateral prefrontal cortex，vPFC/vlPFC)，以及颞极(temporal lobe)(Wang etal.,2017)。其中 ACC 和 PFC 脑区的活动与社会排斥最为密切，争议也最大。自 Eisenberger 等人首次发现背侧前扣带回皮层(dorsal anterior cingulate cortex,dACC)与社会排斥存在密切关系(Eisenberger,Lieberman,&Williams,2003)以来，研究者们对该结果一直有大量争议。
+
+总结过去文献，发现主要有三点争议：第一，普遍采用的投球范式在反射阶段能否诱发社会排斥引起的需要威胁？研究者们认为，虽然网络投球范式能诱发强烈的被排斥感受，同时在任务过程中也存在预期违反效应，即被试除了感到被排斥，还会感到奇怪或诧异。这种预期违反效应会引起冲突控制相关的ACC脑区的激活。那么ACC脑区激活反映的是冲突监测还是排斥体验？有关dACC与社会排斥的相关性，元分析(meta-analysis)研究也没有得到一致性的结果(Cacioppo etal.,2013;Rotge etal.,2015)。第二，社会排斥后反思阶段的心理行为特征神经活动模式是怎样的，能否通过神经活动对亲社会、反社会或退缩等行为模式进行预测？Will 等人(2015)曾发现不同观点采择能力的被排斥者对排斥者采取的行为具有明显的差异性，并不是以前行为研究中提到的选择惩罚行为，而且其行为与心理理论相关脑区的活动有关(Will et al.,2015)。第三，很多文献都曾报告个体持续受到排斥后，会产生抑郁或无价值感，还有文献提出很多社会排斥引起的暴力行为和自杀行为的个体脑功能和结构都发生了改变(Fossati,2019;Olie&Courtet,2018;Schwartz etal.,2019)，但是如何鉴别以及干预社会排斥引起的负面影响，目前还值得继续探究。
+
+随着研究者们对脑网络作用的认识越来越深刻，发现单独从某个脑区的激活不足以解释社会排斥的神经机制，于是开始尝试从不同脑区之间的功能连接做进一步探索。但是目前还没有文献对脑网络与社会排斥的关系进行综述，因此，如图2所示，本节将从突显网络(saliencenetwork,SN)、默认模式网络(default mode network,DMN)等脑网络关键脑区出发，结合社会排斥的心理行为表现，对社会排斥的脑机制进行梳理和分析。
+
+![](images/59ed36c1be7ea3645651a756d8181cab1f7c32ad74a1f98bff0fe96e23604ab4.jpg)  
+图2社会排斥各阶段脑网络中相关脑区的神经活动模式
+
+突显网络主要涉及腹侧纹状体(ventral striatum),背侧前扣带皮层(dorsal anterior cingulate cortex,dACC),杏仁核(amygdala);前脑岛(anterior insula,AI);默认模式网络主要涉及后扣带回皮层(posterior cingulate cortex,PCC),楔前叶(precuneus),内侧前额叶皮层(media prefrontal cortex,mPFC),顶下小叶(inferior parietal lobe,IPL),顶联合区(temporoparietal junction,TPJ);执行控制网络主要涉及背外侧前额皮层(dorsal lateral prefrontal cortex,dIPFC);其他脑区包括腹外侧前额叶皮层(ventrolateral prefrontal cortex,vIPFC)和腹前扣带回皮层(ventral anteriorcingulate cortex, vACC)。
+
+# 3.1突显网络
+
+突显网络(salience network,SN)是社会认知研究中的重要脑网络，主要包括双侧前脑岛(anterior insula,AI)、dACC、杏仁核(amygdala)、腹侧纹状体(ventral striatum)以及腹侧被盖区(ventral tegmental)。此外，SN还涉及到海马和背内侧丘脑(dorsomedial thalamus)。SN由两个子网络构成，分别是腹侧注意网络(ventral attention network,VAN)和情感网络(affective network,AN)，主要负责突发事件的监控以及情绪加工(Kaiser,Andrews-Hanna,Wager,&Pizzagali,2015;Seeley et al.,2007)。SN加工过程主要分为两部分，第一部分是快速自动的自下而上加工过程，负责从检测和过滤外界信息，尤其是一些特异性信息，如潜在的威胁信息，这种生物本能性的加工在进化过程中至关重要；第二部分是高级命令系统，负责整合感知觉、情绪以及其他认知信息，然后将信息传递到功能相关的脑区(Goulden et al.,2014;Menon&Uddin,2010)。SN系统中的前脑岛主要涉及社会情感加工，如疼痛、内省、共情以及厌恶等，而dACC 主要涉及选择反应和冲突监控。
+
+然而，近年来大量神经影像学研究发现dACC 激活可以反映社会排斥反射阶段需要受阻的痛苦体验，而且这种痛苦体验和生理性疼痛分享共同的神经机制(Eisenberger et al.,2003;Eisenberger,2012,2015b; Kross,Berman,Mischel,Smith,& Wager,2011)。Eisenberger 等人又通过对 Neurosynth 数据库中的 10000 个 fMRI研究进行了定量反向推理分析(quantitative reverseinference analyses)和元分析，明确了只有疼痛加工与dACC 的激活高度相关，而执行、冲突或突显加工与dACC 激活则没有显著相关(Eisenberger,2015a; Lieberman & Eisenberger,2015)。不过也有许多研究者对此提出了质疑，认为dACC参与了很多认知控制相关的加工，而dACC 激活与非疼痛加工不相关就等于否定了大量 SN 研究中对dACC 作用的结论，因此，把dACC 激活作为社会排斥痛苦体验的指标是一种错误的导向(Iannetti & Mouraux,2011; Iannet,Salomons,Moayedi,Mouraux,&Davis,2013;Wager et al.,2016)。目前该争论仍未停止，对此可以从其他角度去试图解决这个问题：前脑岛作为 SN 的重要节点，而且与疼痛、共情和厌恶等情感密切相关，dACC 与社会疼痛相关，那么以前脑岛或dACC 作为节点，考察与其他脑区的连接变化或许能为上述争论提供证据。
+
+行为学研究曾报告社会排斥反思阶段个体出现自我控制、冲动控制等认知控制能力降低。社会排斥激活双侧前脑岛和杏仁核，这些脑区是情绪加工的重要部分，而 AI与dACC 和前扣带回中部(middle anterior cingulate cortex,mACC)在脑网络中有着密切的相关，因此 AI的活动变化会进而影响到负责自我认识和认知控制相关的 dACC 以及 mACC 脑区(Martelli,Chester,Warren Brown,Eisenberger,& DeWall,2018;Wang et al.,2017)。另一项研究比较了不同类型的社会排斥，认为dACC 在社会评价任务中受到负面反馈时的激活主要涉及的是冲突检测(被试的期待和实际反馈不一致)，但是在投球范式等排斥任务中主要涉及的是痛苦体验。此外，社会排斥的痛苦程度与vIPFC 有着负相关，但是腹侧纹状体可以调节痛苦体验相关脑区的激活水平(Premkumar,2012)。该情绪-认知环路从神经层面证明了社会排斥对个体认知功能的影响，但是还不足以解释个体为何会做出不同的行为模式，需要更多的研究成果支撑。
+
+此外，种族歧视属于社会排斥中的特殊类型，行为学研究已经表明，个体如果长期生活在被歧视的环境中，也会出现社会排斥后的退避状态，甚至抑郁。Berger 等人(2015)对以往种族歧视相关的社会排斥 fMRI研究进行整理和分析，结果发现种族歧视诱发的被排斥感激活很多SN 的核心脑区，尤其是种族歧视事件，会增强了杏仁核与dACC以及AI的功能连接(Berger&Samyai,2015)。在涉及到种族歧视的社会排斥中，歧视行为可以看作是一种突显刺激，从而影响 SN部分脑区，SN脑区激活水平失调和连接异常会导致个体对种族歧视等排斥事件产生高度敏感性。
+
+SN 作为负责检测和过滤外界信息的重要脑网络，在社会认知中扮演着重要角色。根据已有研究可以肯定的是dACC在一定程度上参与了社会排斥的加工，但并不能说 dACC 只对社会排斥敏感，更不能说dACC的激活程度就是考察社会排斥痛苦体验程度的指标。未来研究需要将dACC纳入到社会排斥相关的更具体的网络系统中，才能更准确地明确其功能。不同类型个体，如不同应激状态的个体，其 SN网络本身，包括dACC 活动都有可能对任务产生不同的反应，因此将dACC 激活水平的变化直接归因于社会排斥所引起的痛苦体验，其可靠性还有待进一步验证。
+
+# 3.2默认模式网络
+
+在神经科学中，默认模式网络也被称作默认网络(default network)或默认状态网络(defaultstate network)。当个体执行外在认知任务时，一些脑区会出现负激活(deactivation)；当个体没有执行外在任务，处于静息状态时，这些脑区的激活会回到基线状态，这种激活程度与任务呈负相关的脑区所组成的网络就是DMN(Raichle et al.,2001)。DMN 的核心脑区有 PCC、楔前叶(precuneus)和内侧前额叶皮层(media prefrontal cortex,mPFC)。每个核心脑区与个体内部自发的心理活动密切相关，其中PCC与自我加工、无意识回忆和未来想象相关；mPFC 是心理理论的主要脑区，负责观点采择。除此之外，DMN 还包含两个子系统，其中背内侧前额叶皮层(dorsal medial prefrontal cortex,dMPFC)子系统包含双侧颞叶皮层(lateral temporal cortex,LTC)、颞极(temporal pole)和颞顶联合区(temporoparietal junction，TPJ)；内 侧颞叶子系统(medialtemporal lobe,MTL)包含顶下小叶后部(posterior inferior parietal lobe,pIPL)、腹内侧前额叶皮层(ventral medial prefrontal cortex,vMPFC)和海马(hippocampus)，这些子系统脑区在社会认知中都起着重要作用(Andrews-Hanna,2012)。
+
+对于投球范式来说，社会排斥研究争论焦点之一就是ACC的激活反映的是社会排斥痛苦体验还是规则违反。根据需要威胁时间模型，如果个体只是觉得规则违反，没有进入反射阶段，感受不到痛苦，社会排斥也就不会对个体产生疼痛影响。对此，Boling等人针对社会排斥的第一个阶段，通过修改社会排斥投球任务，将被试接不到球的情况分为两种，即社会排斥和规则违反，探讨社会排斥与社会疼痛之间的关系，进而考察 ACC 在社会排斥中的作用。他们根据Damasio 的情绪理论将社会排斥诱发的情绪分为两阶段，第一阶段是先天(innate)的初级情绪，主要涉及的是边缘系统(limbic system)；第二阶段是涉及更多认知参与和评估过程的情绪。结果发现，腹前扣带回皮层(ventral anterior cingulate cortex,vACC)激活反映的是第一阶段情绪，而 dACC 的激活反映的是第二阶段情绪。为了更明确 vACC 在社会排斥中的作用，他们以vACC 作为主要节点，采用心理物理交互分析方法(psychophysical interaction analysis,PPI)，考察两个脑区在不同的心理活动时功能连接变化。结果发现，个体在被排斥过程中，从vACC 到mPFC、rIPL 和楔前叶的功能连接出现显著增强，这些脑区都是 DMN 的核心脑区；然而个体在规则违反过程中，从 vACC 到中央前回(precentral gyrus)、双侧脑岛(bilateral insula)以及中央旁小叶(paracentral lobule)的功能连接表现出显著增强。这些结果表明，当被试在投球任务中受到社会排斥时，可能会从他人角度思考为什么会排斥自己，或者自己处于走神或想象状态，此时 DMN就出现了高度激活，并且导致 vACC 和DMN的功能连接增强(Bolling et al.,2011)。已有研究发现vACC 与 DMN 功能连接与情感加工相关，表现为负性情感个体的功能连接更强(Greicius et al.,2007)，而vACC与社会评价(social evaluation)也有着密切关系(Rigney,Koski,&Beer,2018)。从vACC 与DMN 相关脑区的连接出发，很好的说明了投球任务是有效的社会排斥操作，可以诱发个体进入反射阶段，产生社会疼痛的心理反应，并表现为相关脑区激活以及与DMN的连接增强，为探明ACC在社会排斥中的作用提供了很好的思路。但是该研究没有发现与社会排斥更密切的dACC在两种任务中的差异，以及在脑网络中所起的作用，需要未来做进一步的研究，解决争论。
+
+社会排斥反思阶段的行为反应具有多样性，Moor等人(2012)在一项 fMRI研究中，考察了三个年龄段的儿童青少年个体在投球任务中遭受社会排斥时的大脑网络活动与之后的独裁者游戏中公平性行为的相关性，结果发现所有年龄段被排斥者都会出现亲社会行为降低现象，而且降低程度与颞上沟(superior temporal sulcus,STS)和外侧前额叶皮层(lateral prefrontal cortex, IPFC)以及DMN 中的 TPJ激活程度显著相关(Moor et al.,2012)。之后，Will等人(2015)利用相似的实验流程，对被试进投球和独裁者游戏时都进行了fMRI扫描，考察个体遭遇社会排斥与后续对排斥者采取惩罚或原谅行为的相关性及其神经关联。结果发现DMN中的 TPJ和mPFC 的激活程度与个体受到排斥后的反社会行为呈负相关，当个体受到排斥后，TPJ和mPFC 激活程度低的被试更倾向于选择原谅排斥者(Willet al.,2015)。TPJ和mPFC是心理理论涉及的重要脑区，该研究在神经基础层面支持了需要威胁时间模型的反思阶段，个体受到排斥改后，其心理理论相关脑区的激活水平与个体做出的行为结果有着密切关系。反思阶段是当前研究最多的阶段，研究结果最丰富，对该阶段相关认知能力的考察是预测社会排斥对个体后续行为影响的关键，对儿童和青少年心理健康发展有重要的现实意义。
+
+一些研究专门考察长期社会排斥(long-term social exclusion)对个体的影响，比如引发个体的孤独感(loneliness)。当个体的社会关系长时间没有满足自己的预期时，就会进入需要威胁时间模型的退避阶段，产生孤独感，表现出抑郁、紧张、焦虑等负面情绪。Che 等人(2014)通过333名被试的大样本数据考察了社会支持和DMN的关系，他们对每个被试进行了静息态 fMRI扫描，并要求被试填写领悟社会支持量表和孤独感评估量表。基于种子点的功能连接和经典谱分析发现，领悟社会支持分数较高的被试，其DMN 中的部分脑区，如 PCC、楔前叶、IPL 以及 PFC之间的连接显著增强，并且这些脑区之间的同步性(synchronicity)也显著增强(Che et al.,2014)。该研究说明DMN内部脑区的连通性和同步性的增强可以与个体人际关系的发展相关。如果个体长期处于被排斥的孤独感中，DMN中这脑区的连通性和同步性会降低，DMN是人静息状态下最重要的网络之一，与个体情绪和行为有着密切关系，DMN 的受损可能诱发个体出现退避行为，导致人际关系障碍。
+
+综合以往研究发现，DMN 网络中很多核心区域都参与了社会排斥相关的情绪和认知加工过程，而且长期遭受社会排斥经历的人，DMN 网络的连接也会发生改变。目前，脑网络相关的研究已经取得了一些成果，但还有待进一步丰富。就目前研究来看，虽然证据还不够充分，但是已经可以预测从vACC与DMN相关脑区的功能连接出发，能够有助于阐明ACC在社会排斥中所起的作用，这将是未来研究的一个重点方向。其次，DMN 内部脑区之间以及同其他脑区的连接强度或许可以用来预测个体孤独感水平以及对社会排斥的行为反应。另外，未来的研究需要将不同实验操作条件下已经发现的主要关键脑区与DMN 结合，更加系统、全面地探索社会排斥的认知神经机制。
+
+# 3.3其他相关网络
+
+还有研究考察社会排斥对不同网络之间连通性的影响。Clemens 等人(2017)在被试社会排斥前后分别采集了静息态 fMRI数据，然后考察了SN和DMN网络之间的连通性变化，结果发现DMN与 SN中的一些节点(如dACC)之间的连接出现了增强，受到社会排斥后，个体从DMN中自发的、自我参考的内部心理状态加工模式转向了 SN 中更为警觉和注意的加工模式(Clemens etal.,2017)。但是该研究并没有直接考察个体被排斥过程中脑网络之间连接变化，被试受到排斥后这种应激状态可能又重新回到了基线水平，因此该研究结果还有待进一步验证。
+
+除了突显网络和默认模式网络，社会排斥还涉及很多其他相关网络的脑区，如执行控制网络(executive control network,ECN)，ECN 主要涉及背外侧前额叶皮层(dorsal lateral prefrontalcortex,dIPFC)，mPFC 和 IPL 等脑区，与情绪加工以及抑制能力密切相关，其相关脑区的激活程度与连接变化可以很好的反应社会排斥的痛苦体验。Onoda 等人(2010)通过fMRI考察高、低自尊个体受到社会排斥时在反射阶段关键脑区的连接变化。结果发现低自尊被试受到社会排斥后痛苦体验程度高于高自尊被试，而且低自尊被试mPFC 和dACC之间的功能连接表现出正相关，而高自尊被试受到排斥后其功能连接表现为负相关(Onoda et al.,2010)。
+
+一些研究专门致力于探索现实生活中的有早期社会排斥经历是否以及如何影响人类的大脑功能网络，比如ACC-PFC 网络。研究发现有早期分离经历的儿童在投球任务中会产生更强的痛苦体验，dACC 和dIPFC 的激活程度更低，而且dACC-dIPFC 连通性也出现了降低。这说明在社会排斥经历会导致个体社会情绪加工相关脑网络连接发生改变(Puetz et al.,2014)。此外，一项重复经颅磁刺激(repetitive transcranial magnetic stimulation,rTMS)研究，在被试进行投球任务时，专门对其dIPFC 进行 $1 ~ \mathrm { H z }$ 的连续脉冲刺激，结果发现高个人痛苦特质(personal distress)被试表现出更强烈痛苦体验，而低个人痛苦特质被试则没有痛苦体验增强效应，进而明确了dIPFC 在社会性疼痛网络中的功能是反映个体的疼痛经历(Fitzgibbon et al.,2017)。另一项 fMRI研究则发现了近期的社会排斥经历会影响个体的ACC-PFC网络。Park等人(2016)通过量表筛选出高排斥经历儿童和低排斥经历儿童，然后记录他们在执行情绪反馈任务时的脑活动情况。通过动态因果模型(dynamic causal modeling)分析方法比较了不同排斥经历被试面对情绪反馈时，vIPFC-ACC有效连通性(effective connectivity analysis)的差异。结果发现高排斥经历儿童 vIPFC-ACC 的连通性会抑制对正性情绪的反应，并且倾向于对负性情绪的反应，表明vIPFC-ACC 网络可以反映社会排斥经历对情绪加工的影响(Park et al.,2016)。ACC-PFC 的功能连接研究说明，该网络的连通性与社会排斥经历密切相关，在现实生活中有过排斥经历的个体，无论是在排斥任务中，还是在其他情绪任务中，ACC-PFC 网络都会发生改变。但是PFC 中dIPFC 单独的激活在社会排斥中的具体作用尚不明确，还需要更多的研究证据予以支持。
+
+# 4未来展望
+
+# 4.1社会排斥新的心理行为特征为未来研究出新的要求
+
+通过对近几年研究的整理和分析可以发现，随着网络和社交技术的发展，他们会更加依赖网络，在虚拟的网络社交中尝试脱离现实中的社会疼痛体验，尤其是在青少年群体中，这种趋势越来越明显。当前人们更倾向于将自己受到排斥后的负面情感通过QQ、微信、微博等社交媒体表达出来，甚至有些人会在网络社交中表达出自杀的意愿。此外，网络的发展也使人们面临新形式的社会排斥，近年来网络歧视和排斥诱发各种形式网络暴力，导致的社会问题呈爆炸式增长，但是目前只有很少社会排斥相关研究关注到这一领域。未来研究应当充分利用 QQ、微信、微博等媒体，通过学生群体在社交媒体上表露出的信息，在原有的研究基础上开发出一套信效度较高的问卷或实验范式，可以明确哪些学生正在经历社会排斥，以及当前处于社会排斥哪个阶段。这些问卷或范式可以为学校心理健康工作者提供一套可操作的筛查标准，从而准确及时地对遭受社会排斥痛苦学生做心理疏导等干预措施。
+
+最新研究发现个体受到排斥后还会出现另一种行为反应模式—一寻求独处。相比西方人，中国人更为内向，内敛的文化传统导致很多青少年在发展过程中遭受社会排斥选择退缩，尤其是最近几年网络爆出的学校霸凌事件，几乎所有的被伤害学生都选择了忍气吞声，没有采取正确的应对方式。目前几乎每天都有很多类似事件发生，而他们的退缩行为导致相关工作者无法及时发现他们的心理问题，进行及时有效的干预。未来研究需要充分考虑中国人的性格特点，在中国文化背景下深入探讨这一问题，为国内学校心理健康教育等相关工作者提供相应指导。
+
+# 4.2脑网络为社会排斥脑机制研究提供的新的思路
+
+过去对社会排斥神经机制的争议，或许可以通过脑网络方法逐渐找到解决方法。未来研究依然需要围绕社会排斥神经机制的几个主要争论进行，第一，如何构建完整的社会排斥诱发需要威胁时痛苦体验的脑机制模型。研究需要利用已有技术，如 ERP，fMRI及fNIRS等，结合投球范式、聊天室范式、相互认识范式以及注视范式等不同类型社会排斥的研究范式，相互比较验证，得出可靠完整的结果。在时间尺度和空间尺度上利用网络分析方法，对社会排斥不同阶段的大脑活动进行更为准确的定位，通过相关网络连接在时间和空间上的变化探讨社会排斥涉及的社会疼痛相关脑机制，尤其是ACC 在社会排斥各个阶段发生的改变，以期解决长久以来 ACC 在社会排斥中扮演角色的争论；第二，目前脑网络研究只能反映社会排斥后反思阶段行为做出之后的神经活动，未来需要充分利用社会排斥范式，尤其是驱逐范式和拒绝范式，考察不同类型排斥后对后续认知加工的影响，在此基础上获得多种社会排斥在不同阶段的认知行为模式，进而探明其背后的脑机制，通过神经活动模式对行为结果进行预测；第三，社会排斥会引发的心理问题具有多样性，而且涉及的脑机制极其复杂，需要通过更有效的范式或分析方法，考察社会排斥各阶段行为反应的心理机制，如首先考察排斥早期阶段情绪情感变化涉及的神经活动变化，然后考察排斥后执行不同类型任务时脑网络活动的特异性等，进而发现与个体排斥经历相关的特定的神经活动变化。
+
+此外，个体的社交网络和脑网络在未来或许可以进行结合，有研究发现个体受到排斥后心理理论相关脑区的网络连接变化与个体社交网络中朋友数量密切相关，已有相关研究者根据相关成果提出了网络神经科学(network neuroscience)，将社会认知和神经科学结合（Bassett &Sporns,2017; Danielle S.Bassett, Zurn,& Gold,2018; Falk & Bassett2017; Schmalzle et al.,2017),认为社会网络和脑网络可以通过一定方法结合在一起，利用问卷和社交媒体获得个体社交网络信息，结合实验室研究获得的脑网络信息，从更全面的角度进行社会认知神经科学研究，解决社会心理学对认知神经科学提出的质疑。该观点目前仍然需要大量研究才能验证，但很可能是社会认知神经科学发展的一个重要方向。未来研究需要充分利用网络分析方法，将心理学、行为学和神经影像学结合，针对不同维度的数据，构建更为系统的网络模型，为探索社会排斥的脑机制及随后干预方法提供思路。
+
+# 参考文献
+
+蔡强,吴寅,刘金婷.(2011).社会排斥及其神经机制.心理研究,4(5),3-9.   
+陈晨,杨付,李永强.(2017).职场排斥的作用机制与本土化发展.心理科学进展,25(8),1387-1400.   
+程苏,刘璐,郑涌.(2011).社会排斥的研究范式与理论模型.心理科学进展,19(06),905-915.   
+杜建政,夏冰丽.(2008).心理学视野中的社会排斥.心理科学进展,16(6),981-986.   
+王紫薇,涂平.(2014).社会排斥情境下自我关注变化的性别差异.心理学报,46(11),1782-1792.   
+Andrews-Hanna, J.R. (2O12). The brain's default network and its adaptive role in internal mentation. Neuroscientist, 18(3),251-270.   
+Bassett, D.S.,& Sporns, O. (20l7). Network neuroscience. Nature Neuroscience, 20(3),353-364.   
+Bassett,D.S., Zurn,P.,& Gold,J.I. (2018). On the nature and use of models in network neuroscience. Nature Reviews Neuroscience, 19(9), 566-578.   
+Berger，M.，& Sarnyai, Z. (2015). "More than skin deep": Stress neurobiology and mental health consequences of racial discrimination. Stress-the International Journal on the Biology of Stress, 18(1), 1-10.   
+Boling,D. Z.,Pitskel,N.B.,Deen,B.,Crowley, M.J.,McPartland,J. C.,Mayes,L.C.,&Pelphrey,K.A. (2011).Dissociable brain mechanisms for processing social exclusion and rule violation. NeuroImage, 54(3),2462-2471.   
+Cacioppo, S.,Frum, C., Asp,E., Weiss,R. M.,Lewis, J. W.,& Cacioppo,J.T. (2013).A quantitative metaanalysis of functional imaging studies of social rejection. Scientific Reports, 3,2027.   
+Che,X., Zhang,Q., Zhao,J., Wei,D.,Li,B., Guo,Y.,...Liu, Y. (2014).Synchronous activation within the default mode network correlates with perceived social support. Neuropsychologia, 63, 26-33.   
+Clemens,B., Wagels,L.,Bauchmuller,M.,Bergs,R.,Habel, U.,& Kohn,N. (2017).Alerted default mode: Functional connectivity changes in the aftermath of social stress. Scientific Reports, 7, 40180.   
+Comput Human BehavChiou, W.-B.,Lee, C.-C.,& Liao,D.-C.(2015).Facebook effects on social distress: Priming with online social networking thoughts can alter the perceived distress due to social exclusion. Computers in Human Behavior, 49,230-236.   
+Eisenberger, N.I.,Lieberman, M. D.,& Wiliams, K. D. (2003). Does rejection hurt? An FMRI study of social exclusion. Science, 302(5643), 290-292.   
+Eisenberger, N. I. (2Ol2). The pain of social disconnection: examining the shared neural underpinnings of physical and social pain. Nature Reviews Neuroscience, 13(6), 421-434.   
+Eisenberger,N.I. (2O15a).Meta-analytic evidence for the role of the anterior cingulate cortex in social pain. Social Cognitive and Affective Neuroscience, 10(1), 1-2.   
+Eisenberger,N. I. (2015b). Social pain and the brain: Controversies,questions,and where to go from here. Annual Review of Psychology, 66, 601-629.   
+Falk,E.B.,& Basset, D. S.(2017). Brain and social networks: fundamental building blocks of human experience. Trends in Cognitive Sciences,21(9), 674-690.   
+Fitzgibbon,B.M.,Kirkovski, M.， Bailey, N.W.,Thomson,R.H.,Eisenberger, N.,Enticot,P.G.,& Fitzgerald, P. B. (2017). Low-frequency brain stimulation to the left dorsolateral prefrontal cortex increases the negative impact of social exclusion among those high in personal distress. Social Neuroscience, 12(3), 237-241.   
+Fossati, P. (2019). Circuit based anti-correlation, attention orienting,and major depression. CNS Spectrums, 1-8.   
+Goulden, N., Khusnulina,A.,Davis, N. J.,Bracewel,R. M., Bokde,A.L., McNulty, J. P.,& Mullins,P.G. (2014). The salience network is responsible for switching between the default mode network and the central executive network: replication from DCM. NeuroImage, 99,180-190.   
+Greicius, M.D.,Flores,B.H., Menon, V., Glover, G. H., Solvason, H.B., Kenna,H.,... Schatzberg, A. F. (2007).Resting-state functional connectivity in major depression: abnormally increased contributions from subgenual cingulate cortex and thalamus. Biological Psychiatry, 62(5),429-437.   
+Hales, A.H., Wesselmann,E.D.,& Williams,K.D. (2016).Prayer,self-affirmation,and distraction improve recovery from short-term ostracism. Journal of Experimental Social Psychology, 64,8-20.   
+Ianneti, G. D., & Mouraux, A. (2011). Can the functional MRI responses to physical pain really tell us why social rejection "hurts"? Proceedings of the National Academy of Sciences,108(30),E343-E343.   
+Iannetti, G. D., Salomons,T. V., Moayedi, M., Mouraux,A.,& Davis, K. D. (2013). Beyond metaphor: contrasting mechanisms of social and physical pain. Trends in Cognitive Sciences,17(8),371-378.   
+Kaiser, R. H., Andrews-Hanna,J.R.， Wager, T. D.,& Pizzagali, D. A. (2015). Large-Scale Network Dysfunction in Major Depressive Disorder: A meta-analysis ofresting-state functional connectivity. JAMA Psychiatry, 72(6), 603-611.   
+Knausenberger, J.，& Echterhoff, G. (2018). Recovering from social exclusion: The interplay of subtle Facebook reminders and collectivistic orientation. Computers in Human Behavior, 78,298-305.   
+Knowles, M. L. (2014). Social rejection increases perspective taking. Journal of Experimental Social Psychology, 55,126-132.   
+Kross,E., Berman, M. G., Mischel,W., Smith,E.E.，& Wager, T.D.(2011). Social rejection shares somatosensory representations with physical pain. Proceedings of the National Academy of Sciences, 108(15), 6270-6275.   
+Lieberman, M. D.,& Eisenberger, N. I. (2015). The dorsal anterior cingulate cortex is selective for pain: Results from large-scale reverse inference. Proceedings of the National Academy of Sciences, 112(49), 15250-15255.   
+Lin, X.,Li, S.,& Qu, C. (2017). Social network sites influence recovery from social exclusion: Individual differences in social anxiety. Computers in Human Behavior; 75, 538-546.   
+Martelli,A.M., Chester,D.S., Warren Brown, K.,Eisenberger,N.I.,& DeWall, C.N.(2018). When less is more: mindfulness predicts adaptive afective responding to rejection via reduced prefrontal recruitment. Social Cognitive and Affective Neuroscience, 13(6), 648-655.   
+Martin, J.L., Smart Richman,L.,& Leary, M.R.(2O17). Alasting sting: Examining the short-term and longterm effects ofreal-life group rejection. Group Processes & Intergroup Relations,21(8),1109-1124.   
+Menon, V.,& Uddin,L. Q. (2010). Saliency, switching,atention and control: A network model of insula function. Brain Structure and Function, 214(5-6), 655-667.   
+Moor, B. G., Guroglu, B., Op de Macks, Z. A., Rombouts, S.A., Van der Molen, M. W., & Crone, E. A. (2012). Social exclusion and punishment of excluders: neural correlates and developmental trajectories. Neurolmage, 59(1), 708-717.   
+Nezlek,Wesselmann,E.D., Wheeler,L.,& Williams, K.D. (2012). Ostracism in everyday life. Group Dynamics: Theory, Research, and Practice, 16(2), 91-104.   
+Nowland, R., Necka,E. A.,& Cacioppo, J. T. (2018). Loneliness and social internet use: Pathways to reconnection in a digital world? Perspectives on Psychological Science, 13(1),70-87.   
+Olie,E.，& Courtet， P. (2018). Interest of neuroimaging of social exclusion in suicide. Journal of Neuroscience Research.   
+Onoda,K., Okamoto,Y., Nakashima,K.,Nitono,H., Yoshimura,S., Yamawaki,S... Ura,M. (2010). Does low self-esteem enhance social pain? The relationship between trait self-esteem and anterior cingulate cortex activation induced by ostracism. Social Cognitive and Affective Neuroscience, 5(4), 385-391.   
+Ophir, Y.,Asterhan, C. S. C.,& Schwarz,B.B.(2019).The digital footprints ofadolescent depression, social rejection and victimization of bullying on Facebook. Computers in Human Behavior; 91, 62-71.   
+Oxman-Martinez,J.,Rummens,A.J.,Moreau,J., Choi,Y.R.,Beiser, M.,Ogilvie,L.,&Armstrong,R.(2012). Perceived ethnic discrimination and social exclusion: newcomer immigrant children in Canada. American Journal of Orthopsychiatry, 82(3),376-388.   
+Park, C.-h.,Lee,J.-E.,Kim, Y.-H.,Kim,K.-T.,Kim,Y.-J.,&Lee,K.-U. (2016). Modulation of prefrontalcingulate connectivity in affective processing of children with experiences of ostracism. Child and Adolescent Mental Health, 21(1),37-43.   
+Premkumar, P. (2012). Are you being rejected or excluded? Insights from neuroimaging studies using different rejection paradigms. Clinical Psychopharmacology and Neuroscience,10(3),144-154.   
+Puetz,V.B., Kohn,N.,Dahmen,B., Zvyagintsev,M., Schuppen,A., Schultz,R.T.,... Konrad, K. (2014). Neural response to social rejection in children with early separation experiences. Journal of the American Academy of Child and Adolescent Psychiatry, 53(12), 1328-1337.   
+Raichle,M.E.,MacLeod,A. M.,Snyder,A. Z., Powers, W.J., Gusnard,D.A.,& Shulman, G.L. (2001). A default mode of brain function. Proceedings of the National Academy of Sciences, 98(2),676-682.   
+Ren,D., Wesselmann,E.,& Williams, K.D. (2016). Evidence for another response to ostracism: Solitude seeking. Social Psychological and Personality Science, 7(3),204-212.   
+Ke1,D., wesseal, E., & was, Λ. D. (Ulo). HuIt peopie nuit peupie:. Usuacis au aggiessiu. Current Opinion in Psychology, 19,34-38.   
+Rigney,A.E.,Koski, J.E.,& Beer,J.S. (2018).The functional role of ventral anterior cingulate cortex in social evaluation: Disentangling valence from subjectively rewarding opportunities. Social Cognitive and Affective Neuroscience, 13(1), 14-21.   
+Rotge,J. Y.,Lemogne, C.,Hinfray,S.,Huguet,P.,Grynszpan,O.,Tartour,E.,..Fossati,P. (215).Ametaanalysis of the anterior cingulate contribution to social pain. Social Cognitive and Affective Neuroscience,10(1), 19-27.   
+Schmalzle,R.,Brook O'Donnell,M., Garcia,J. O., Cascio,C.N.,Bayer,J.,Basset,D.S.,...Falk,E. B. (2017). Brain connectivity dynamics during social interaction reflect social network structure. Proceedings of the National Academy of Sciences, 114(20), 5153-5158.   
+Schwartz,J., Ordaz, S.J., Kircanski, K.,Ho,T. C.,Davis,E. G., Camacho,M. C.,& Gotlib,I. H. (2019). Resting-state functional connectivity and inflexibility of daily emotions in major depression. Journal of Affective Disorders, 249,26-34.   
+Seeley, W. W., Menon,V., Schatzberg,A.F.,Keler,J., Glover, G. H., Kenna,H... Greicius,M.D.(2007). Dissociable intrinsic connectivity networks for salience processing and executive control. Journal ofNeuroscience, 27(9),2349-2356.   
+Starr,L. R.,& Davila,J. (2oo8). Excessive reassurance seeking, depression, and interpersonal rejection: A meta-analytic review. Journal of Abnormal Psychology, 1l7(4),762.   
+Wager,T.D.,Atlas,L.Y.,Botvinick,M.M., Chang,L.J., Coghil,R.C.,Davis, K.D... Yarkoni,T.(2016). Pain in the ACC? Proceedings of the National Academy of Sciences, 113(18), E2474-2475.   
+Wang,H., Braun, C.,& Enck, P. (2017). How the brain reacts to social stress(exclusion) - A scoping review. Neuroscience and Biobehavioral Reviews,80,80-88.   
+White,L. O., Klein,A. M., vonKlitzing,K., Graneist,A.,Otto,Y.,Hil,J.,..Crowley,M. J. (2016).Putting Ostracism into perspective: young children tell more mentalistic stories after exclusion, but not when anxious. Frontiers in Psychology， 7,1926.   
+Will, G. J., Crone,E.A.,& Guroglu,B. (2015). Acting on social exclusion: Neural correlates of punishment and forgiveness of excluders. Social Cognitive and Affective Neuroscience, 10(2),209-218.   
+Williams, K. D. (2007). Ostracism. Annual Review of Psychology, 58, 425-452.   
+Willams,K. D. (2009). Ostracism: A temporal need-threat model. Advances in Experimental Social Psychology, 41, 275-314.
+
+# The psychological and behavior characteristics of social exclusion and its brain mechanisms
+
+PENG Suhao1,2,3.4; TAO Dan1,2,3.4; LENG Yue1,2.3,4; DENG Huihua1,2,3,4   
+( School of Biomedical Science and Medical Engineering, Southeast University, Nanjing, 210096, China) ( Research Center for Learning Science, Southeast University, Nanjing, 210o96, China)   
+0 $^ { - 3 }$ Key Laboratory of Child Development and Learning Science (Ministry of Education), Southeast University, Nanjing, 210096, China)   
+(4 Institute of Child Development and Education,Southeast University, Nanjing, 210o96,China)
+
+Abstract: Social exclusion impairs our basic needs of belongingness and has serious psychological and physiological efect on cognitive processes， emotional well-beings， physiological responses and behaviors. Under the framework ofthe temporal need-threat model, psychology and behavioral response to social exclusion can be divided into three stages. With the development of social media, new psychological and behavioral characteristics of social exclusion are presented.From the perspective of brain network, some key brain areas of default mode network, salience network and some other brain networks are involved in emotional and cognitive processes at each stage of social exclusion. Future studies should focus on the basis of temporal need-threat model to investigate the brain network of social exclusion and predict the psychological and physiological response patterns after social exclusion.
+
+Key words: social exclusion; temporal need-threat model; social media; default mode network; salience network

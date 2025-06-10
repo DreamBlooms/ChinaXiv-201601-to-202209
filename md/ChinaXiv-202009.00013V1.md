@@ -1,0 +1,169 @@
+# 音乐紧张感加工的影响因素
+
+孙丽君」杨玉芳‘1中国科学院心理研究所 行为科学重点实验室，北京，100101摘要 音乐无他，张弛而已。音乐紧张感架起了客观音响与主观体验之间的桥梁，是音乐情绪产生的前提和基础。音乐紧张感加工的影响因素主要来自客体与主体两方面。研究发现，声学要素与调性结构是影响音乐紧张感诱发的声音线索，而文化背景与音乐能力是影响听者对紧张感加工的个体因素。未来需要对时间结构与长时程调性结构诱发的紧张感及其机制进行深入探究，这将有助于深化我们对音乐紧张感与情绪加工的认识。
+
+关键词 音乐紧张感；调性结构；声学要素；文化背景；音乐能力分类号B842
+
+# 1引言
+
+音乐是情绪的语言。在日常生活中，人们常常通过音乐调节情绪、舒解压力并在音乐中得到享受(Juslin& Sloboda,2010)。在音乐聆听中，人们不仅能知觉和体验音乐所传递的微妙的情绪变化(Shen et al.,2018; Zentner et al.,2008)，还会激活与加工一般情绪事件相似的脑区与神经环路(Koelsch,2018)。可见，音乐确实具有强大的情绪力量。那么，音乐音响如何引发了音乐情绪呢？
+
+正如Hindemith所说"音乐无他，张弛而已"(引自张前,2002)，紧张-放松是音乐最直接的表达。紧张感是一种与冲突、不协和、不稳定和不确定性相关的情感状态(Lehne＆Koelsch,2015b)。虽然人们在日常生活中常常将紧张感与恐惧、焦虑、抑郁等负面情绪联系在一起，但是音乐中的紧张感并没有鲜明的负性色彩，是一种与效价无关的动态感受(Schubert,2010)。通俗来说，音乐紧张感类似于人们观看悬疑片时，故事情节环环相扣却真相未朗时所诱发的紧张感受，也被称之为"悬念感"(Granot& Eitan,2011;Lehne& Koelsch,2015b)。与此相反，悬而未决的消解则会使听者产生放松感与终止感。正是由于音乐中紧张-放松模式的不断交替才推动着音乐的发展。作为客观音响与主观体验之间的桥梁，音乐紧张感是音乐情绪产生的基础(Berry,1976;Hindemith,1937)，同时也是引发音乐内在意义的前提 (蒋存梅,2016)。
+
+鉴于紧张感在音乐情绪知觉中的重要性，大量的理论模型与实证研究对音乐紧张感进行了深入探讨。本研究分别从客体与主体两个方面，探讨影响音乐紧张感加工的声音线索与个体因素。首先，通过梳理音乐紧张感的理论模型与实证研究，揭示声学要素与调性结构对诱发音乐紧张感的重要作用及其潜在的神经机制。其次，从个体经验的视角，进一步分析文化背景与音乐能力对听者紧张感加工的影响及其原因。最后，讨论了音乐紧张感研究目前的不足和发展方向，特别是需要进一步探究音乐结构诱发的紧张感及其机制。
+
+# 2影响音乐紧张感的声学和结构因素
+
+作曲家依据音乐规则，将离散的音符元素组织成复杂的具有结构组织的声音序列。一方面，音符元素本身的力度、速度以及协和性等声学要素能够影响音乐紧张感的诱发；另一方面，音乐结构通过音级/和弦的变换与排列方式，还会影响紧张-放松模式的层级性组织。
+
+# 2.1 声学要素
+
+基于感觉的紧张-放松模型强调声音物理属性对紧张感的影响。对于单独的音乐事件而言，泛音系列和音调之间某些频率间隔的平滑性或粗糙性决定了声音的紧张感(Hutchinson &Knopoff,1978)。不协和和弦的振动频率会干扰内耳基底膜的听觉接收器(Helmholtz,1913)。对于展开的音乐序列而言，当前音乐事件与音乐背景的兼容度决定了听者的紧张感。“听觉短时记忆模型"(Auditory Short-termMemory,ASTM)不仅关注独立的音乐事件，还考虑了音乐的上下文，以"知觉驱动"的方式将音乐事件的加工解释为短时记忆中声音音高频率属性不断累加的结果(Bigand et al.,2014; Collins et al.,2014; Leman,2000)。
+
+在此基础上，Farbood(2012)提出了音乐紧张感参数与时间的定量模型(Parametric,Temporal Model of Musical Tension)。一方面，该模型纳入了和声(harmony)、音高(pitch height)、旋律期待(melodic expectation)、力度(dynamics)、开始频率(onset frequency)、速度(tempo)、节拍(meter)、节奏规则(rhythmic regularity)以及切分(syncopation)等多个音乐参数预测音乐紧张感；另一方面，基于移动的知觉时间窗口以及趋势凸显的概念，通过比较记忆窗口与当前注意窗口中紧张趋势的匹配程度，确定短时记忆对音乐紧张感的贡献。因此，该模型通过给不同的音乐参数赋予权重，并综合衡量音乐展开过程中时间的动态变化，从而对复杂音乐刺激的紧张感进行预测。
+
+研究者通常采用实时评价的测量手段探讨声学要素对音乐紧张感的影响。这种连续测量的方法具有很好的信效度(Schubert,2010)，不仅能够准确地记录听者对音乐序列中某一个声音事件的紧张感，还能勾勒出整首音乐展开过程中紧张感发展变化、起伏波动的曲线。Krumhansl(1996)给被试呈现莫扎特E大调 K.282 钢琴奏鸣曲第一乐章，并采用实时评价的方法探讨响度对紧张感诱发的影响。结果表明，音乐响度与紧张感之间具有显著正相关，即响度越高，紧张感越强。后续研究不仅验证了该结果(Ilie& Thompson，2006；Misenhelter,2001),还发现与其他声学参数相比，响度能够更快地诱发音乐紧张感(Farbood&Finn,2013)，并对音乐紧张感的影响也更大(Granot& Eitan,2011)。从生物学的视角来看，响度大的声音常常是潜在危险的警示信号，因此听者可能对其产生了条件反射式的响应。
+
+音色也是影响紧张感诱发的重要因素之一。研究发现，声音在粗糙度、明亮度、密度(Pressnitzer etal.,2000)以及协和性(Toiviainen&Krumhansl,2003)等方面的差异都会诱发不同程度的紧张感。Farbood 和Price (2017)更细致地考察了音色各个维度对紧张感的影响，试图揭示音色中诱发紧张感的关键维度。结果发现，与频谱质心(spectral centroid)与频谱偏差(spectral deviation)相比，粗糙度(roughness)、不谐和度(inharmonicity)以及频谱平滑度(spectralflatness)与紧张感具有更密切的关系。除此之外，音区(Costa& Nese,2020;Granot& Eitan,2011; Ilie & Thompson,2006)、音高轮廓(Bigand et al.,1996; Farbood,2012; Krumhansl,1996)、速度(Farbood,2012; Ilie& Thompson,2006; Madsen et al.,1997)等其他声学要素对紧张感的影响也相继得到验证。直到近年，Farbood(2012)与 Farbood 和 Finn (2013)才综合考量了多个声学参数对紧张感的影响。他们发现，听者真实感受的紧张感与通过对多个音乐参数量化评估的紧张感曲线几乎完全吻合。研究结果验证了基于声学参数的紧张感模型，暗示多个声学参数及其在短时记忆中产生作用的时间窗口对量化音乐紧张感的重要性。
+
+虽然以上研究在一定程度上验证了声学要素对紧张感的影响，但是大部分心理声学因素是一般听觉刺激都具备的物理属性，属于较为低级的听觉层面加工。音乐玲听本质上是人们对声音序列的主动加工过程，时刻伴随着从表层听觉事件提取高层级结构的心理表征构建。因此，仅探讨声学要素对音乐紧张感的影响是不够的，这可能导致音乐特异于其他声音刺激的重要属性被忽略。
+
+# 2.2 调性结构
+
+基于认知的紧张-放松模型阐释了音乐中的调性结构对紧张感的影响。Lerdahl和Jackendoff(1983)在调性生成理论(Generative Theory of Tonal Music,GTTM)中首先通过构建延长还原树来展示紧张-放松模式的层级组织方式，将局部的紧张-放松模式作为整体的一部分嵌入于长时程的紧张-放松模式中。他们认为，音乐中处于调性层级中越重要的音乐事件紧张感越弱，反之，则紧张感越强。Lerdahl(2001)进一步提出调性音高空间理论(Tonal PitchSpace Theory,TPS)，主张从调内距离与调外距离两方面计算和弦与和弦之间的空间距离，进而评估音乐事件的紧张感。具体来说，距离调性中心的远近决定了调内距离，而调与调之间共同音的数量决定了调外距离，空间距离越远的和弦紧张感则越强。
+
+在此基础上,Lerdahl和 Krumhansl (2007)提出调性紧张模型(Tonal Tension Model, TTM),该模型综合了延长还原结构(prolongational structure)、音高空间模型(pitch space model)、表层紧张模型(surface-tension model)以及倾向模型(attraction model)四个方面，通过公式量化出每个和弦的紧张感数值。延长还原结构与音高空间距离延续了Lerdahl和 Jackendoff(1983)以及Lerdahl(2001)的紧张感理论。表层紧张模型则考虑了和弦转位（以三音、五音或七音为低音的和弦)以及和弦高声部旋律音对紧张感的影响。音高倾向指在调性音乐中一个音对另一个音的吸引力，吸引力越大的音诱发的紧张感越强。上述的紧张感模型既抽离出传递音乐紧张感的关键事件，又清晰地展示出每一个和弦在推进音乐紧张感发展过程中所发挥的独特作用。可以看出，紧张-放松模式的层级式展开同时依赖于调性的局部组织以及调性关系长距离的依存。
+
+为了探讨和弦稳定性对音乐紧张感的影响，Bigand 等(1996)采用三和弦的和声序列作为实验材料，操纵中间和弦的和声结构(和弦纵向/横向的组织形式)，使其为7个调内和弦（由调式内音级构成的和弦）或调外和弦（包含一个或多个调外音级的和弦)。依据调性结构的层级性，所有调内和弦的稳定性均高于调外和弦，对调内和弦来说，主和弦（在主音上构成的和弦）的稳定性最高，其次是属和弦（在属音上构成的和弦)，最不稳定的是导和弦（在导音上构成的和弦)。音乐结束后，听者需要判断中间一个和弦的紧张感。研究结果表明，和声结构越稳定的和弦诱发的紧张感越弱，即主和弦诱发的紧张感最小，依次是属和弦、调内其他和弦以及调外和弦。类似地，Steinbeis 等(2006)通过操纵乐句最后一个和弦的稳定性，也发现听者对高稳定和弦的紧张感判断显著低于低稳定和弦。而且，与声学要素相比，旋律/和声结构的改变对音乐紧张感的影响具有更重要的作用(Krumhansl,1996;Lehne et al,2013)。总的来说，以上结果支持了基于调性的紧张-放松模型，验证了和弦结构的稳定性对音乐紧张感的影响。
+
+除了局部的和声结构，Bigand 和Parncut(1999)还进一步探讨了长时程和声结构对音乐紧张感的影响。研究者选取一段包含转调的和弦序列，在呈现时分别结束在不同的和弦位置上，然后要求被试判断最后一个和弦的紧张感。研究结果表明，音乐紧张感主要由局部的和声终止式所决定，长时程的和声偏离不能诱发紧张感，长时程的和声回归也不能使紧张感得到解决。该研究结果并没有验证Lerdahl和 Jackendoff (1983)在调性生成理论中所提出的层级性的紧张感加工模式。这可能缘于转调对紧张感影响的时间范围较窄，当转调之后再次回到主调时，主和弦被当作调性偏离，反而增加了紧张感。遗憾的是，上述研究在操纵调性结构时，没有严格的实验设计控制声学因素的干扰。未来研究可以借鉴音乐句法加工研究中所使用的实验控制方法(e.g.，Koelsch et al.，2007； Poulin-Charronnat et al.，2006； Zhang et al.,2018)。一方面，通过改变音乐背景的调性和声结构从而使关键和弦的声学要素保持一致;另一方面，采用二级和弦或四级和弦代替拿波里和弦与重属和弦，控制关键和弦在音乐背景中的出现次数及其与背景和弦的共同音个数，降低声学新异性的影响。
+
+还有一些研究考察了音乐紧张感加工的神经生理机制。白学军等人(2016)操纵调式结构（大调vs.小调）与和声结构的稳定性（高稳定性vs.低稳定性)，要求被试对音乐紧张感进行主观评价，同时用生理多导仪记录皮电、指脉率、指温等生理指标。结果发现，在大调条件下，不稳定的和声结构比稳定的和声结构诱发更强烈的紧张感，在生理上表现出更大的皮电以及更高的指脉率。而在小调条件下，稳定与不稳定和声结构诱发的紧张感与生理反应都没有显著差异。这可能是由于听者对小调音乐中层级结构的敏感性弱于大调音乐所致(Vuvan& Schmuckler,2011)。该研究结果表明，音乐紧张感与更高的皮电和指脉率等生理反应相关，这与情绪加工的生理机制是一致的。
+
+Steinbeis 等(2006)以及 Steinbeis和Koelsch (2008)还探讨了听者对音乐紧张感加工的脑电反应。他们采用句法规则违反范式，发现与不违规和弦相比，句法违规和弦诱发了更大早期右前负波（early right anterior negativity,ERAN）以及N5成分，这两个脑电成分表明音乐紧张感与预期违反之间具有紧密关系。然而，该研究并没有严格地控制关键和弦中的调外音以及违规和弦在音乐背景中出现的次数，因而混淆了声学因素的影响。除此之外，Lehne 等(2014)还通过功能性核磁共振成像 (functional magnetic resonance imaging,fMRI)的技术手段探讨音乐紧张感的加工脑区。研究者要求被试在聆听钢琴音乐作品的同时实时评价紧张感体验。脑区激活强度与紧张感评价的相关分析表明，额下回左侧眶部与右侧杏仁核可能是音乐紧张感加工的关键脑区。遗憾的是，该研究并没有区分心理声学因素与调性结构因素对紧张感的贡献。虽然认知神经科学的技术手段为探讨音乐紧张感加工的神经机制提供了有力工具，然而，已有探究音乐紧张感的脑电与脑成像研究却非常有限。因此，未来研究需要更深入地聚焦音乐结构，并运用时频谱、相位一致性与功能连接等分析方法深入挖掘数据，揭示听者对紧张感加工的神经机制。另外，脑磁图(magnetoencephalogram,MEG)技术同时具备高时间分辨率与高空间分辨率，未来研究也可以借助这种技术手段，更精确地考察随着时间推进音乐紧张感的变化过程，更全面地探讨音乐长时程结构对情绪发展的作用及其神经机制。
+
+综上所述，基于"物理主义"与"认知主义"的紧张感模型分别从声学要素与音乐结构角度对音乐紧张感进行预测和解释，并得到了行为与神经生理等实证研究的支持。但是，由于实验材料混淆了声学要素与调性结构对紧张感的贡献，因此，未来研究应该采用更严密的实验设计准确分离二者对音乐紧张感的影响。
+
+# 3影响音乐紧张感加工的个体因素
+
+音乐紧张感是客观音响刺激与主观感受的中间环节。因此，除了声学要素与调性结构等音乐线索之外，听者真实体验到的紧张感还会受到文化背景与音乐能力等个体差异的影响。下文将围绕这两个方面进行具体阐述。
+
+# 3.1 文化背景
+
+听者在特定文化背景下形成的音乐聆听经验会影响音乐紧张感的加工。Wong 等(2009)选取3组人群作为被试，他们分别仅具有印度音乐背景、仅具有西方音乐背景或同时具有印度音乐和西方音乐背景。西方音乐与印度音乐的调式系统采用不同的音乐结构组织规则，因而具有不同的调性层级结构。研究者让3组被试均聆听印度音乐和西方音乐，并在音乐结束之后评定音乐紧张感。研究结果表明，仅有印度音乐背景的听者认为西方音乐具有更强的紧张感，仅有西方音乐背景的听者认为印度音乐具有更强的紧张感，同时具有两种音乐背景的听者对印度音乐和西方音乐的紧张感评价不具有差异。Jiang 等(2017)的研究也验证了这一结果，发现具有西方音乐文化背景的被试对印度音乐的紧张感评价比西方音乐更高。以上研究结果说明，听者对采用非自身音乐文化背景中调式结构的音乐产生更强烈的紧张感。
+
+文化背景对音乐紧张感的影响可能缘于听者对调式结构心理表征的差异。研究表明，人们长时间暴露于某种音乐文化背景下，就能够内隐地习得该音乐文化中主流的音乐结构规则(Deutsch,2013;Trainor&Hannon,2013)。这些在耳闻目染中所获得的内隐知识使不同文化背景的听者得以建立各自独有的内心图式，从而帮助人们感受该文化背景中音乐作品的紧张与放松模式。这与音乐情绪的研究结果是一致的。McDermott 等(2016)选取一群生活在亚马逊热带雨林几乎接触不到任何外界音乐信息的缇曼斯人作为被试，让他们聆听协和与不协和的和弦并进行愉悦感判断。结果发现，缇曼斯人对协和与不协和和弦的愉悦性评分不存在差异。然而，对于对照组的听者来说（具有西方音乐文化背景)，他们对协和和弦的愉悦性评分显著高于不协和和弦。
+
+值得一提的是，中国人具有“双音乐文化的耳朵”。在中国，人们经常聆听的音乐作品既涵盖西方大小调式音乐（如《中国义勇军进行曲》)，也包括中国传统的五声调式音乐（如《好一朵美丽的茉莉花》)。因此，中国人能够对两种不同的调性层级结构进行表征，从而加工两种音乐文化背景下音乐作品的紧张感。然而，对于没有接触过中国五声调式音乐的人来说，他们可能由于难以表征五声调式规则下的音乐结构组织，导致对中国音乐作品中调式结构诱发的紧张感不够敏感。除此之外，研究发现音乐文化背景对紧张感加工的影响还缘于音色与其他音乐要素的交互作用，人们可能对非自身音乐文化背景中的音色产生更多的紧张感(Jiang etal.,2017)。因此，未来可以针对中国本民族的乐器与调式，通过跨文化比较研究深入探讨中国听者的双音乐文化背景与紧张感加工的关系。
+
+# 3.2音乐能力
+
+即便没有接受过音乐训练的普通人，也能够加工音乐紧张感。Bigand 和 Pamcutt(1999)将肖邦 E 大调前奏曲中前两个乐句的和弦抽取出来，并将所有和弦以相同的时间间隔呈现给被试，要求被试对每一个和弦进行紧张感评价。结果发现，非音乐家能够很好地知觉和弦序列的紧张感变化。类似地，还有研究通过被试对音乐紧张感的行为判断，发现非音乐家不仅能够加工简单的和弦序列(Bigand& Parmcutt，1999；Bigand et al.，1996)、单声部旋律(Farbood,2012;Wong et al.,2009)，还能够加工真实音乐片段中的紧张感(Lehne et al.,2013;Lehne et al.,2014)。其原因在于：一方面，人们能够普遍地知觉速度、力度等日常听觉事件所具备的声学物理属性，因此能够敏锐地捕捉到诱发音乐紧张感的重要声学线索。另一方面，由于长时间的音乐暴露，普通听者也能内隐习得音乐的组织规则(Jiang etal.,2017;Koelsch etal.,2013;Wong etal.,2009)，从而加工调性结构诱发的音乐紧张感。
+
+虽然非音乐家能够在一定程度上加工音乐紧张感，但是音乐训练对紧张感加工具有影响。
+
+Bigand 等(1996)选取音乐家与非音乐家两组被试，要求他们评价和弦序列的紧张感。结果发现，音乐家被试倾向于利用层级性和声结构线索，而非音乐家被试则更多地利用心理声学线索加工音乐紧张感。随后的研究不仅验证了该结论(Granot& Eitan，2011；Toiviainen &Krumhansl，2003)，还发现与非音乐家相比，音乐家对和弦序列的紧张感评价与认知模型的预测结果更加吻合 (Bigand& Parmcutt,1999)。以上研究均表明，音乐家比非音乐家更擅长运用结构线索加工音乐紧张感，这可能源于音乐训练能够提高对音乐结构的加工能力。的确，音乐句法的研究表明，音乐家比非音乐家对音乐句法违规和弦诱发了更大的早期右前负波，该成分体现了对违规和弦的早期识别(Koelsch etal.,2002)。音乐家对音乐结构的早期自动化加工优势，可能使他们对调性结构诱发的音乐紧张感更为敏感。
+
+还有研究关注了先天失歌症者对音乐紧张感的加工。失歌症者俗称五音不全者，他们具有音高加工方面的障碍，不仅无法分辨音高之间的细微差异(Jiang et al.，2019;Zhou et al,2017)，而且也无法加工调性结构规则(Jiang et al.,2016; Zhou et al.,2019)。Jiang 等(2017)选取失歌症者与普通人两组被试，他们都具有西方大小调的音乐文化背景。研究者要求他们分别聆听西方大小调式旋律以及印度拉格调式旋律，并判断紧张感。研究结果表明，失歌症者对西方音乐与印度音乐的紧张感评价相似，但是控制组对印度音乐的紧张感评价显著高于西方音乐。就西方音乐来说，失歌症者知觉到的紧张感显著高于控制组，而对印度音乐来说，两组被试的紧张感评价没有差异。这说明，失歌症者难以加工由大小调式结构诱发的音乐紧张感，其原因可能在于失歌症者缺乏对调式结构规则的心理通达。
+
+因此，无论对于接受多年音乐训练的音乐家还是具有音高加工障碍的失歌症者来说，音乐能力对紧张感加工的影响主要体现在由调式结构而非声学要素诱发的紧张感。然而，正是由于音乐结构诱发的紧张感才使得音乐与其他声音不同，能够传递更加微妙而复杂的情绪。考虑到紧张感加工是音乐审美的重要方面，因此，未来研究可以进一步探索音乐能力是否会影响听者对音乐审美情绪的感知。
+
+# 5总结与展望
+
+已有的行为与神经生理研究表明音乐紧张感的加工不仅受到声学要素与调性结构等声音线索的影响，而且还受到文化背景与音乐能力等个体因素的调节。这些结果极大地丰富和推进了人们对音乐紧张感和音乐情绪的认识。通过对以往研究的梳理，我们发现，结构组织之于音乐具有特殊意义，且对紧张感加工具有重要的影响。然而，目前很少有研究涉及音乐时间结构与紧张感的关系以及音乐作品在更大时间尺度上由多水平层级结构诱发的紧张感。另外，音乐结构诱发紧张感的内在机制也缺乏深入讨论。因此，未来还需要在以下几个方面进行更深入的探讨：
+
+首先，音乐事件在音高与时间两个维度上依据各自的稳定性组合成具有层级性的结构组织(Lerdahl&Jackendoff,1983;Rohrmeier,2011)。和声结构与节拍结构的加工是音乐认知的两个重要方面(Fitch,2013; Koelsch,2013; Sun et al.,2018; Sun etal.,2020)，也是诱发音乐情绪体验的重要线索(Koelsch,2014;Witek etal.,2014)。目前已有的研究主要聚焦于和声结构对音乐紧张感的诱发，忽略了时间结构的重要性。事实上，音乐是时间的艺术，即便缺乏音高维度的打击乐依旧可以成为很好的音乐作品，但是没有时间维度的信息就无法称之为音乐(江俊 等,2014)。音乐中时间结构的层级组织体现在拍子的强弱关系（例如，二拍子是强拍-弱拍的组合)。当出现切分节奏导致节奏重音与节拍重音不吻合时，强弱关系的打破可能成为诱发紧张感的重要线索。另外，通常情况下，音乐是由音高与时间两个维度信息交错组织在一起的(Prince,2014a,2014b)，音高与时间结构如何共同诱发音乐紧张感尚不可知。对以上问题的研究有助于更全面地揭示音乐紧张感的形成与发展。
+
+其次，真实的音乐作品是在多个时间尺度上展开的具有层级结构的声音序列。调性生成理论也认为局部的紧张-放松模式嵌套于整体的紧张-放松模式中，从而诱发具有层级性的紧张感(Lerdahl&Jackendoff,1983)。然而，由于音乐中长时程层级结构研究的匮乏，这一关键问题无法得到很好的验证。近年来，已有研究者开始探讨听者对音乐嵌套结构的加工(Koelsch et al.,2013;Ma et al.,2018a,2018b; Zhou et al.,2019),验证了人们对长时程音乐结构进行认知加工的心理现实性。嵌套结构的研究方法不仅为音乐长时程紧张感的研究提供了很好的研究范式，根据其研究结果，我们还可以预期音乐聆听中确实存在更为丰富的层级性的紧张-放松模式。未来研究需要采用更具生态效度包含多水平嵌套结构的音乐材料，结合实时动态的行为评价手段，揭示长时程层级结构所诱发的紧张-放松模式，为调性生成理论提供实证支持。
+
+最后，音乐结构通过预期进而诱发紧张感的内在机制尚不清楚。大量研究表明大脑对听觉刺激会进行主动且持续的预测，并依据新输入的信息不断更新心理表征(Friston，2010;吕雪靖，侯欣,2019)。一段音乐响起后，听者首先根据已经出现的音响形成一定的心理表征，并依此对接下来即将出现的音乐事件进行预期 (Koelsch,2014; Koelsch etal.,2019)。一方面，当心理表征的指向性明确而接下来出现的事件不符合预期时，听者的心理预期被打破，预测误差会诱发紧张感(Lehne&Koelsch,2015b)；另一方面，当出现一个让听者难以预期音乐随后发展的音乐事件时，较低的可预期性导致听者心理表征的指向不明确，在下一个事件出现之前听者也会产生紧张感 (Lehne & Koelsch，2015a;Margulis,2005)。正如概率预期假设（probabilistic prediction hypothesis,PPH）所认为，音乐中的信息熵（entropy）越高，可预期性就越低，听者预测难度则越大(Hansen&Pearce,2014;Pearce,2018)。可见，音乐聆听中的预测难度和预测错误可能是诱发更高紧张感的内在机制，但是，音乐结构、预期与音乐紧张感三者的关系还亟需进一步的实证研究支持。
+
+# 参考文献
+
+Bai,X.,Ma,X.,& Tao,Y. (2016). The response effects of Chinese and western music on emotion.Acta Psychologica Sinica, 48(7),757-769.   
+[白学军，马谐，陶云.(2016).中-西方音乐对情绪的诱发效应．心理学报,48(7),757-769.]   
+Berry, W. (1976). Structural functions in music.Englewood Clifs,NJ: Prentice-Hall (Reprinted New York: Dover, 1987).   
+Bigand,E.,Delbé, C.,Poulin-Charronnat,B.,Leman,M.,& Tillmann,B.(2014).Empirical evidence for musical syntax processing? Computer simulations reveal the contribution of auditory short-term memory. Frontiers in Systems Neuroscience, 8, 94.   
+Bigand,E.,& Parncut, R.(1999).Perceiving musical tension in long chord sequences.Psychological Research, 62(4),237-254.   
+Bigand,E.,Parncut,R.,& Lerdahl,F.(1996). Perception of musical tension in short chord sequences: The influence of harmonic function,sensory dissonance,horizontal motion,and musical training. Perception & Psychophysics, 58(1),125-141.   
+Collins,T.,Tillmann,B.,Barrtt,F.S.,Delbe,C.,&Janata,P. (2014).Acombined modelof sensoryandcognitive representations underlying tonal expectations in music: From audio signals to behavior. Psychological Review, 121(1),33-65.   
+Costa,M.,& Nese,M. (202o). Percevied tension, movement,and pleasantnes in harmonic musical intervals and noises.Music Perception: An Interdisciplinary Journal,37(4),298-322.   
+Deutsch,D.(2013). The psychology of music.Poland: Academic Press,Elsevier.   
+Farbood,M.M. (2ol2).Aparametric,temporal model of musical tension.Music Perception: An Interdisciplinary Journal, 29(4),387-428.   
+Farbood,M. M.,& Finn, U. (2013). Interpreting expressive performance through listener judgments of musical tension. Frontiers in Psychology, 4,993.   
+Farbood,M.M.，& Price,K. C.(2017). The contribution of timbre atributes to musical tension. Journal of Acoustical Society of America, 141(1),419-427.   
+Fitch,W. T. (2013).Rhythmic cognition in humans and animals: Distinguishing meter and pulse perception. Frontiers in Systems Neuroscience,7,68.   
+Friston,K. (20l0). The fre-energy principle: Aunified brain theory? Nature Neuroscience,21(8),1019-1021.   
+Granot,R. Y.,& Eitan, Z. (2011). Musical tension and the interaction of dynamic auditory parameters. Music Perception: An Interdisciplinary Journal, 28(3),219-246.   
+Hansen,N. C.，& Pearce, M. T. (2014). Predictive uncertainty in auditory sequence processng. Frontiers in Psychology, 5,1052.   
+Helmholtz, H. L.F. von (1913). Die Lehre von den Tonempfindungen als physiologische Grundlage fir die Theorie der Musik. Braunschweig:Friedrich Vieweg & Sohn.   
+Hindemith, P. (1937). The craft of musical composition (Vol. 1). New York: Belwin-Mills.   
+Hutchinson, W.,& Knopof, L. (1978). The acoustical component of Western consonance. Journal of New Music Research,7(1),1-29.   
+Ilie, G.,& Thompson, W. (2o06). A comparison of the acoustic cues in music and speech for three dimensions of affect.Music Perception: An Interdisciplinary Journal,23(4),319-330.   
+Jiang, C.(2016). Psychology of music. Shanghai: East China Normal University Press.   
+[蒋存梅.(2016)．音乐心理学.上海：华东师范大学出版社.]   
+Jiang, C.,Liu,F.,& Thompson, W.F. (2O16). Impaired explicit processing of musical syntax and tonality in a group of Mandarin-speaking congenital amusics. Music Perception, 33(4), 401-413.   
+Jiang,C.,Liu,F.，& Wong,P.C. (2017). Sensitivity to musical emotion is influenced by tonal structure in congenital amusia. Scientific Reports,7,7624.   
+Jiang,J.,Liu,F., Zhou,L.,& Jiang,C. (2o19).The neural basis for understanding imitation-induced musical meaning: The role of the human mirror system. Behavioural Brain Research,359,362-369.   
+Jiang, J.,Wang, Z., Wan, X.,& Jiang,C. (2014).Temporal procesing in music: Eects of musical elements and individual differences.Advances in Psychological Sicience, 22(4),650-658.   
+[江俊，王梓梦，万璇，蒋存梅.(2014)．音乐时间加工的影响因素．心理科学进展,22(4),650-658.]   
+Juslin,P.N.,& Sloboda, J.A. (2010). Handbook of music and emotion: Theory，research,applications (2 ed.). London, UK: Oxford University Press.   
+Koelsch, S. (2013). Brain and music. Oxford, UK: John Wiley & Sons.   
+Koelsch, S. (2014). Brain corrlates of music-evoked emotions. Nature Reviews Neuroscience,15(3),170-180.   
+Koelsch, S. (2018). Investigating the neural encoding of emotion with music. Neuron, 98(6),1075-1079.   
+Koelsch, S., Jentschke,S.,Sammler, D.,& Mietchen,D. (2007). Untangling syntactic and sensory procesing: An ERP study of music perception. Psychophysiology, 44(3), 476-490.   
+Koelsch, S.,Rohrmeier, M.,Torrecuso,R.,& Jentschke,S. (20l3).Processing of hierarchical syntactic structure in music. Proceedings of the National Academy of Sciences of the United States of America, 110(38), 15443-15448.   
+Koelsch,S.,Schmidt,B.H.,& Kansok,J. (2OO2).Effects of musical expertiseon the earlyright anterior negativity: An event-related brain potential study. Psychophysiology, 39(5), 657-663.   
+Koelsch,S., Vuust,P.，& Friston,K.(20l9).Predictive processes and the peculiar case of music.Trends in Cognitive Sciences, 23(1), 63-77.   
+Krumhansl, C.L.(1996). A perceptual analysis of Mozart' s piano sonata K.282: Segmentation,tension,and musical ideas. Music Perception: An Interdisciplinary Journal,13(3), 401-432.   
+Lehne，M.，& Koelsch， S. (2015a). Tension-resolution pattrns as a key element of aesthetic experience: Psychological principles and underlying brain mechanisms.In J. P. Huston,M. Nadal,F. Mora, L.F. Agnati,& C.J. C.Conde (Eds.),Art, aesthetics,and the brain.Oxford: Oxford University Press.   
+Lehne,M.,& Koelsch, S. (2015b). Toward a general psychological model of tension and suspense. Frontiers in Psychology, 6, 79.   
+Lehne,M.,Rohrmeier, M., Gollmann,D.,& Koelsch,S. (20l3).The influence of diferent structural features on felt musical tension in two piano pieces by Mozart and Mendelssohn. Music Perception: An Interdisciplinary Journal, 31(2),171-185.   
+Lehne,M.,Rohrmeier,M.,&Koelsch,S.(2O14).Tension-related activity in the orbitofrontal cortex and amygdala: An fmri study with music. Social Cognitive and Afective Neuroscience, 9(10),1515-1523.   
+Leman,M. (20o0). An auditory model of the role of short-term memory in probe-tone ratings. Music Perception: An Interdisciplinary Journal, 17(4), 481-59.   
+Lerdahl,F. (2001). Tonal pitch space.New York: Oxford University Press.   
+Lerdahl, F.,& Jackendof,R.(1983). A generative theoryoftonal music. Cambridge,Masschusetts: MPress.   
+Lerdahl,F.,&Krumhansl,C.L.(20o7). Modeling tonal tension. Music Perception:An InterdisciplinaryJournal, 24(4),329-366.   
+Lu, X.,& Hou, X.(20l9). Predictive coding in auditory cortex: The neural responses to sound repetition and auditory change. Advances in Psychological Sicience, 27(12), 1996-2006.   
+[吕雪靖，侯欣.(2019).听觉预测编码：对声音重复和变化的神经反应．心理科学进展,27(12),1996-2006.]   
+Ma, X.,Ding, N., Tao, Y., & Yang, Y.F. (2018a). Differences in processing mechanisms underlying the processing of center-embedded and non-embedded musical structures. Frontiers in Human Neuroscience,12, 425.   
+Ma, X.,Ding,N.,Tao, Y.,& Yang, Y.F. (2o18b). Syntactic complexity and musical proficiency modulate neural processing of non-native music. Neuropsychologia, 121,164-174.   
+Madsen, C.K., Geringer, J. M.,& Fredrickson, W.E. (1997).Focus of atention to musical elements in Haydn's Symphony $\# 1 0 4$ Bulletin of the Council for Research in Music Education,133,57-63.   
+Margulis,E.H. (2oo5).Amodel of melodic expectation. Music Perception: An Interdisciplinary Journal,22(4), 663-714.   
+McDermot,J.H.,Achultz,A.F.,Undurrga,E.A.,& Godoy,R.A. (2016). Indifference to dissonance in native Amazonians reveals cultural variation in music perception. Nature, 535,547-550.   
+Misenhelter, D. (2oo1). An investigation of music and nonmusic majors'responses to musical tension and dynamics in Bethoven's Symphony No.7. Missouri Journal of Research in Music Education, 38,56- 67.   
+Pearce,M.T. (2018). Statistical learning and probabilistic prediction in music cognition: Mechanisms of stylistic enculturation. Annals of the New York Academy ofSciences,1423,378-395.   
+Poulin-Charonnat, B.,Bigand,E.,& Koelsch,S. (2oo6).Processing of musical syntax tonic versus subdominant: An event-related potential study. Journal of Cognitive Neuroscience,18(9),1545-1554.   
+Pressnitzer,D.,Mcadams,S.，Winsberg,S.，& Fineberg,J. (20o0). Perception of music tension for nontonal orchestral timbres and its relation to psychoacoustic roughness. Perception & Psychophysics,62(1), 66- 80.   
+Prince, J. B.(014a). Pitch structure,but not selective atention,affects accent weightings in metrical grouping. Journal of Experimental Psychology: Human Perception and Performance, 40(5),2073-2090.   
+Prince, J. B. (2014b).Pitch structure,but not selective attentionafects accent weightings in metrical grouping. Journal of Experimental Psychology: Human Perception and Performance, 40(5),2073-2092.   
+Rohrmeier, M. (2011). Towards a generative syntax of tonal harmony. Journal of Mathematics and Music, 5(1), 35-53.   
+Schubert,E.(2010). Continuous self-report methods.In P. Juslin & J.A. Sloboda (Eds.), Handbook of music and emotion: Theory, research, applications. Oxford: Oxford University Press.   
+Shen,C., Wang,M.,Ding,T.,Yang,Y.,，Cabanyes-Truffino,J.,Sun,L.J... Wang,W. (2018). Basic emotions expressed in music: Factor analyses on intensity ratings by non-musical professonal Chinese university students.Psychology Research and Behavior Management, 11,617-629.   
+Steinbeis,N.,& Koelsch, S.(2Oo8). Shared neural resources between music and language indicate semantic processing of musical tension-resolution pattrns. Cerebral Cortex, 18(5),1169-1178.   
+Steinbeis,N., Koelsch,S.,& Sloboda,J.A. (2006).The role of harmonic expectancy violations in musical emotions: Evidence from subjective， physiological, and neural responses. Journal of Cognitive Neuroscience,18(8),1380-1393.   
+Sun,L.,Liu,F., Zhou,L.，& Jiang,C.(2018). Musical training modulates the early but not the late stage of rhythmic syntactic processing. Psychophysiology, 55(2), e12983.   
+Sun,L.,Thompson, W.F.,Liu,F.,Zhou,L.,&Jiang,C. (202O).The human brain processes hierarchical structures of meter and harmony differently: Evidence from musicians and nonmusicians.Psychophysiology, e13598.   
+Toiviainen, P.,& Krumhansl, C.L. (2oo3). Measuring and modeling real-time responses to music: The dynamics of tonality induction. Perception, 32(6),741-766.   
+Trainor,L.J.,& Hannon,E.E. (2013). Musical development. In D.Deutsch (Ed.),The psychology of music (3 ed., pp.423-498). London: Elsevier.   
+Vuvan,D. T.,& Schmuckler, M. A. (2011). Tonal hierarchy representations in auditory imagery. Memory and Cognition, 39,477-490.   
+Witek，M.A.G.， Clarke，E.F.，Wallentin，M.，Kringelbach，M.L.，& Vuust，P. (2014). Syncopation, body-movement and pleasure in groove music. Plos One, 9(4), e94446.   
+Wong,P.C.,Roy,A.K.,&Margulis,E.H.(2O9).Bimusicalism: The implicit dual enculturationofcognitive and affective systems.Music Perception:An Interdisciplinary Journal,27(2),81-88.   
+Zentner,M., Grandjean,D.,& Scherer,K.R.(2Oo8).Emotions evoked by the sound of music: Characterization, classification,and measurement. Emotion, 8(4),494-521.   
+Zhang,J., Zhou,X., Chang,R.,& Yang,Y. (2018).Efects of global and local contexts on chord procesing: An ERP study.Neuropsychologia, 109,149-154.   
+Zhou,L.,Liu,F.,Jiang,J.,Jiang,H.,& Jiang,C.(2019).Abnormal neural responses to harmonic syntactic structures in congenital amusia. Psychophysiology, 56(9), e13394.   
+Zhou,L.,Liu,F., Jing, X.,& Jiang, C.(2017). Neural differences between the processing of musical meaning conveyed by direction of pitch change and natural music in congenital amusia. Neuropsychologia, 96, 29-38.
+
+Zhang,Q. (20o2).Textbook of musical aesthetics. Shanghai: Shanghai Music Pulishing House.
+
+[张前.(2002)．音乐美学教程.上海：上海音乐出版社.]
+
+# The influences of musical cues and individual differences on the processing of musical tension
+
+SUN Lijun'; YANG Yufang
+
+1 CAS KeyLaboratoryofBehavioral Science,Institute ofPsychology,Chinese AcademyofSciences,Beijing,China,100101
+
+Abstract: The patern of tension-relaxation is an essential component in music.Musical tension, building a bridge between objective sound and subjective experience，is important for the generation of musical emotion. On the one hand,musical tension is influenced by acoustic elements and structural organizations of tonal hierarchy, which is supported by theoretic models and empirical studies.On the other hand, musical tension experienced by listeners is also affected by individual differences, such as cultural background and musical ability. Future studies should pay more attention to musical tension induced by temporal structure and large-scale tonal structure. Meanwhile,the mechanism of tension induction also needs to be examined, which will be helpful to deepen our understanding of tension and emotion processing in music.
+
+Key words: musical tension; tonal structure; acoustic elements； cultural background; music ability

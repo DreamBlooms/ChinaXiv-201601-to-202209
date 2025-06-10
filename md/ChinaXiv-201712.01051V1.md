@@ -1,0 +1,137 @@
+# 基础研究
+
+# 线粒体DNA缺失HepG2细胞系的建立、鉴定及放射生物学特性
+
+孙恒文'，潘 燚'，曾子君',方良毅'，张红丹',谢松喜',李伟雄'，许家彬²  
+1广东省人民医院//广东省医学科学院肿瘤中心放疗科，广东广州 510080;2广东医学院附属彭湃纪念医院肿  
+瘤科，广东 海丰 516400
+
+摘要：目的 为研究人肝癌细胞系HepG2线粒体DNA(mtDNA)缺失后的放射生物学特性,建立并鉴定 mtDNA缺失HepG20 $\mathrm { \rho ^ { \mathrm { 0 } } H e p G } 2 ,$ 细胞系。测定辐射干预下mtDNA缺失(Rho0)肝癌细胞的凋亡情况、侵袭能力以及辐射敏感性的变化。方法 在含有溴化乙锭(EB）丙酮酸、尿嘧啶的特殊培养基中培养HepG2细胞,经30次传代后，有限稀释法筛选完全去除mtDNA的克隆。去除丙酮酸及尿嘧啶后,观察细胞的存活情况。PCR法鉴定mtDNA的缺失。用6MvX射线梯度剂量照射HepG2细胞和pHepG2细胞,平板克隆法绘制生长曲线，线性二次方程拟合生存曲线，计算α/β。2Gy剂量辐射细胞,24h后用Hochest33342细胞核染色，比较HepG2细胞与 $\rho ^ { \mathrm { { 0 } } } \mathrm { { H e p G 2 } }$ 凋亡率的差异。用Transwell法测定两种不同细胞的侵袭能力。结果 在含EB特殊培养环境下,HepG2细胞可持续生长传代至30代，去除丙酮酸和尿嘧啶后,细胞短时间内大量死亡。经PCR法证实mtDNA完全缺失。 $\rho ^ { \mathrm { { \mathrm { 0 } } } } \mathrm { H e p G } 2$ 细胞 $\boldsymbol { \mathbf { \rho } } _ { \mathrm { \infty } }$ β显著低于正常HepG2细胞,辐射抵抗能力增强。辐射干预后pHepG2的凋亡比例显著减少。pHepG2穿膜细胞数显著增多。结论 在EB长期诱导下,HepG2肝癌细胞可被成功诱导为mtDNA缺失细胞。 $\rho ^ { \mathrm { { \mathrm { { \sc ~ H e p G 2 } } } } }$ 细胞的辐射抵抗性显著增强，抗凋亡能力及侵袭能力均提高。
+
+关键词:辐射敏感性;HepG2;Rho0cells;凋亡
+
+# Observation of radiobiological characteristics in a HepG2 cell line with mitochondrial DNA deletion
+
+SUNHengwen',ANYi',ZENGZijun',ANGLiangyi,ZHANGHngdan',XIESongxi’,IWeixiong',bin DepartmentofRadiologyCancerCenterGuangdongGeneralHospital/GuangdongAcademyofMedicalcience,Guangzho580 China;DepartmentofncologyengaiemorialHospitalAfiliatedtouangdongedicalCollge,Haifeng64Cina
+
+Abstract: Objective To study theradiobiological characteristics of a HepG2celline with mitochondrial DNA (mtDNA) deletion.Methods HepG2 cels were cultured in a medium containing ethidium bromide,acetylformic acid and uracil. The HepG2 cell line with mtDNA deletion ( $\mathrm { \ p ^ { \circ } H e p G } 2$ cells) were acquired after 30 subcultures by limited dilution cloning. The cell survivalwasthenobservedintheabsenceofacetylformicacidanduracil,andthetotal mtDNAdeletioninthecelswas confirmed by PCR. The radiosensitivity of HepG2 and $\rho ^ { \mathrm { { \circ } } } \mathrm { H e p } { \mathrm { G } } 2$ cells was evaluated by exposure to gradient doses of $6 \mathrm { M V }$ $x$ ray irradiation.The cellapoptosis was assessed following a 2 Gy X-rayexposure with Hochest3332 staining，and the invasiveness of $\rho ^ { \mathrm { { \tiny ~ 0 } } } \mathrm { { H e p G } } 2$ cells was measured by Transwell assay. Results HepG2 cels could survive 30 subcultures in the presence ofethidiumbromide,andmassvecelldeathoccurredafterremovalofacetylformicacidanduracilfomthemedium. PCR confirmed total mtDNA deletion from $\rho ^ { \mathrm { { \mathrm { { \sc ~ H e p G 2 } } } } }$ cells, whose $\alpha / \beta$ value was significantly lower than that of HepG2 cells. $\rho ^ { \mathrm { { \mathrm { { \sc ~ H e p - G 2 } } } } }$ cells showed an obviously lowered cell apoptosis rate following $x$ -ray exposure with enhanced cell invasiveness. Conclusion HepG2 cells can be induced by ethidium bromide into $\rho ^ { \mathrm { { \circ } } } \mathrm { { H e p } } { \mathrm { { G } } } 2$ cells with an increased radiation resistance, anti-apoptosis ability and cell invasiveness.
+
+Key words: radiosensitivity; HepG2; Rho0 cells; apoptosis
+
+mtNDA是惟一核外遗传物质，其编码37个基因（22个tRNA基因、2个rRNA基因和13个多肽基因），参与细胞氧化磷酸化和能量代谢合成ATP，为细胞的生命活动提供直接能量。Rho0细胞氧化呼吸链缺陷，不能正常为细胞提供能量。
+
+关于Rho0细胞辐射敏感性的研究不多，且结论不一致。Zhang[研究发现,人小气道上皮Rho0细胞可以抵抗高LETa粒子射线的辐射。而Yoshida的研究则发现人骨肉瘤 $\dot { \rho } ^ { \mathrm { 0 } } \ d _ { 1 } \ d _ { 4 3 } \ d _ { \mathrm { B } }$ 细胞不影响细胞的辐射敏感性。曹建平[3]的研究发现， $\mathrm { \ p ^ { 0 } } 1 4 3 \mathrm { B }$ 细胞的DNA断裂修复能力不及143B细胞，反而有更高的辐射敏感性。面对相反的结论，再次研究Rho0细胞辐射敏感性的变化及其
+
+内在的机制将更具意义。
+
+HepG2细胞在体外条件下，生长曲线呈典型的S形,群体倍增时间为 $2 4 \mathrm { h }$ ，分裂指数最高达 $4 . 5 \%$ ,增殖能力强,生长状态稳定[4。因此,被很多肝癌的体内、外实验选用[5-7]。但以肝癌细胞系HepG2为母本的mtDNA缺失 $\rho ^ { \mathrm { { \circ } } } \mathrm { H e p G } 2$ 细胞尚未见报道。本研究首先在EB诱导下成功建立 $\rho ^ { \mathrm { 0 } } \mathrm { H e p G } 2$ 细胞系，鉴定mtDNA完全缺失。随后测定两种细胞的辐射敏感性，以及抗凋亡能力和侵袭能力的变化。为后续mtDNA调控细胞辐射敏感性差异机制研究奠定基础。
+
+# 1材料与方法
+
+# 1.1 材料
+
+人肝癌细胞系HepG2购自中国科学院上海生物细胞研究所。数字化直线加速器23EX（VARIAN)，PCR仪（Techgene），超净工作台（苏州净化设备厂），POWER/PAC200电泳仪(Bio-Rad)，倒置荧光显微镜及照相系统(Leica), $\mathrm { C O } _ { 2 }$ 细胞培养箱(HARRIS),24孔培养板（Omega）。KODPlusPCR试剂盒(TOYOBO）,Hoechst33342（Sigma），DMEM培养基、胰蛋白酶(Hyclone),标准胎牛血清(TBD),溴化乙锭、5'-氧溴脱氧尿嘧啶(BrdU）丙酮酸钠(Sigma)。
+
+# 1.2细胞培养及pHepG2细胞株制备
+
+常规培养HepG2细胞用DMEM培养基（含 $10 \%$ 小牛血清)，置入 $3 7 ~ \mathrm { ^ { \circ } C } \setminus { 5 \% } \mathrm { C O } _ { 2 }$ 孵箱，2\~3d换液1次，细胞长满 $80 \%$ 后用 $0 . 2 5 \%$ 胰酶消化、传代。对数生长期细胞计数接种,用于后续实验。将HepG2细胞在含 $5 0 ~ \mu \varrho / \mathrm { L }$ EB $\mathrm { . 1 0 0 \ m g / L }$ 丙酮酸钠 $\mathrm { . 5 0 ~ m g / L }$ 尿嘧啶和 $10 \%$ 胎牛血清的培养基中培养。2\~3d传代1次，传代至30代后，行细胞计数。将细胞接种到24孔板中，换用不含EB的特殊培养液（含 $1 0 0 ~ \mathrm { { m g / L } }$ 丙酮酸钠 $\mathrm { . 5 0 ~ m g / L }$ 尿嘧啶和$10 \%$ 胎牛血清的培养基中培养)。采用有限稀释法进行克隆，挑选其中一个克隆扩增培养。
+
+# 1.3 $\rho ^ { \mathrm { { \mathrm { { \sc H e p G 2 } } } } }$ 营养缺陷鉴定
+
+选择对数生长期的pHepG2细胞，在去除丙酮酸及尿嘧啶的培养基中继续培养 $2 4 \mathrm { h }$ ,大部分细胞死亡呈悬浮状态，少量死亡细胞可贴壁。 $0 . 0 4 \%$ 台盼蓝对剩余少量贴壁细胞染色 $2 \mathrm { m i n }$ ,死细胞可被染为淡蓝色，而活细胞拒染，从而鉴定是否为活细胞。
+
+# 1.4PCR法鉴定
+
+研究者既往文献中报道过扩增mtDNA非编码区的报道，采用一步法直接抽提mtDNA，以此为模板PCR法扩增非编码区。目的片段长 $1 5 2 8 \mathrm { b p }$ ,引物序列 $5 ^ { \prime }$ -ATTCTAACCTGAATCGGAGG-3'和 $5 ^ { \prime }$ -GATGCTTGCATGTGTAATCT-3'。PCR条件为： $9 4 ~ \mathrm { ^ { \circ } C }$ 预变性$5 ~ \mathrm { m i n }$ $9 4 ~ \mathrm { { ^ { \circ } C } }$ 变性 $1 ~ \mathrm { m i n }$ $5 5 ~ \mathrm { { ^ { \circ } C } }$ 退火 $1 ~ \mathrm { m i n }$ $7 2 \ \mathrm { { ^ { \circ } C } }$ 延伸
+
+$1 . 5 \ \mathrm { m i n } , 3 5 \$ 个循环后 $7 2 \ \mathrm { { ^ { \circ } C } }$ 延伸结束。PCR产物 $- 2 0 \ \mathrm { { ^ circ C } }$ 保存。取 ${ 5 \mu \mathrm { L } }$ PCR产物, $1 \%$ 琼脂糖凝胶电泳， $3 5 \mathrm { m i n }$ 后凝胶成像仪成像并拍照。
+
+# 1.5平板克隆实验
+
+分别取对数生长期的HepG2细胞和 $\rho ^ { \mathrm { { \mathrm { 0 } } } } \mathrm { H e p G } 2$ $0 . 2 5 \%$ 胰酶消化，用各自培养基配成单细胞悬液，接种于6孔板中。以 $0 . 0 . 5 , 1 , 2 , 4 , 6 , 8 , 1 0 \mathrm { G y }$ 剂量梯度分为8组，每组重复3孔，按剂量梯度接种细胞数如下，0(200)$0 . 5 ( 2 0 0 ) _ { \setminus } 1 ( 2 0 0 ) _ { \setminus } 2 ( 2 0 0 ) _ { \setminus } 4 ( 2 0 0 ) _ { \setminus } 6 ( 4 0 0 ) _ { \setminus } 8 ( 6 0 0 ) _ { \setminus }$ 和10$( { 8 0 0 } ) \mathrm { G y }$ 。细胞辐射后放入孵箱，继续培养10\~14d,期间每3d换液1次。当培养板中出现肉眼可见的克隆时，终止培养，弃培养液，清洗后加纯甲醇 $5 \mathrm { m L }$ 固定$1 5 ~ \mathrm { m i n }$ 。弃去固定液，加适量染色 $1 \%$ 结晶紫溶液染色$3 0 \mathrm { m i n }$ ，流水缓慢洗去染色液，空气干燥。在显微镜下计数大于50个细胞的克隆数，按下式计算接种效率(PE)。 $\mathrm { P E } =$ （克隆数/接种细胞数） $\times 1 0 0 \%$ 。统计存活分数(SF): $\mathrm { S F } { = } \stackrel { \textstyle \subset } { \scriptscriptstyle }$ 实验组克隆数(细胞接种数 $\times \mathrm { P E } ) \operatorname { J } \times$ $100 \%$ 。绘制存活曲线，用GraphPadPrism5.0软件以线性二次方程(L-Q)公式 $Y = e ^ { ( - \alpha x - \beta x ^ { 2 } ) }$ e(-ax-βx²拟合量效曲线,计算各自 $\alpha / \beta$ ，并统计二者差异。
+
+# 1.6Transwell细胞侵袭实验
+
+Transwell小室（膜孔径 $0 . 8 ~ \mu \mathrm { m } \rangle$ ，培养板底部加入$5 0 ~ \mathrm { m L }$ 无血清的NIH3T3培养液，小室底部加入 $1 0 0 ~ \mu \mathrm { L }$ Matrigel胶(1:1稀释)，使胶均匀覆盖底部。对数生长期细胞用胰酶消化后，制备成悬液，取 $5 { \times } 1 0 ^ { 4 }$ 细胞加入小室，并均匀覆盖在胶上，放入孵箱培养36h后，轻轻擦去小室底部的Matrigel胶及未浸润的细胞，无水乙醇固定，台盼蓝染色，光镜下观察并记录进入下室5个不同200倍视野下的细胞数，以侵袭数目说明不同细胞的侵袭情况。每种细胞平行设3个小室。计数两种细胞穿孔细胞数，统计两种细胞穿孔数目的差异，
+
+# 1.7Hoechst33342染色观察辐射后细胞核变化情况
+
+对数生长期的HepG细胞或 $\mathrm { i } \rho ^ { \mathrm { 0 } } \mathrm { H e p G } 2$ 细胞接种于六孔板内 $2 0 \ : \mathrm { m m } { \times } 2 0 \ : \mathrm { m m }$ 盖玻片上，每孔约 $1 \times 1 0 ^ { 5 }$ 细胞，继续培养 $1 2 { \sim } 1 8 \mathrm { ~ h ~ }$ 细胞贴壁后，2Gy剂量辐射，继续培养 $2 4 \mathrm { ~ h ~ }$ ，进行细胞核Hoechst33342染色。将有细胞贴壁的盖玻片以PBS冲洗3次，移去多余液体，用固定液（甲醇：冰乙酸 $= 1 : 3 , v / v )$ 固定 $1 0 \mathrm { m i n }$ ,PBS再次清洗，加$2 0 0 ~ \mu \mathrm { L }$ Hoechst33342工作液，使液体均匀覆盖玻片，室温染色 $5 \mathrm { m i n }$ ，荧光显微镜下观察，凋亡细胞呈现浓集、固缩、碎裂等形态。每种细胞设3个复孔，每孔随机5个200倍视野，计数呈凋亡状态的细胞核，并统计差异。
+
+# 1.8 统计分析
+
+本研究使用SPSS13.0统计软件。本实验测定数据均为3次重复实验结果，以均数 $\stackrel { \cdot } { \pm }$ 标准差形式在表中显示，采用One-WayANOVA方法统计分析。
+
+# 2结果
+
+# 2.1 $\rho ^ { \mathrm { { \mathrm { { \sc } } } H e p G 2 } }$ 细胞株制备及营养缺陷鉴定
+
+HepG2细胞在含EB的培养基中可持续传代生长，传代至10代有部分细胞悬浮死亡，存活细胞形态改变，但仍可继续生长传代。传代至30代后经克隆筛选、去除EB后生长状态良好。去除丙酮酸和尿嘧啶继续培养$2 4 \mathrm { ~ h ~ }$ 后，大量悬浮死亡。少量贴壁细胞可被台盼蓝染色，证实为死亡细胞(图1)。
+
+![](images/8b388892c7e300eac58ea4f6cdc6e64d39287b19653be287d800c7db384548df.jpg)  
+图1HepG2母本细胞经含EB培养传代生长图及营养缺陷实验图 Fig.1Wild-type HepG2 cells (Original magnification, $\times 2 0 0 _ { \it . }$ ) $\rho ^ { \eta }$ HepG2 cells(Original magnification: $\times 2 0 0$ ）and results of nutritional deficiency experiment (Original magnification: $\times 1 0 0$ ）
+
+# 2.2PCR法鉴定pHepG2
+
+以抽提的mtDNA为模板PCR产物电泳结果提示，仅母本HepG2细胞中可扩增出 $1 5 2 8 \mathrm { b p }$ 非编码区片段，$\rho ^ { \mathrm { 0 } } \mathrm { H e p } { \mathrm { G } } 2$ 未见该片段扩增(图2)。
+
+![](images/f6c4f7d9b2bdea7e50522002b29579ee77983354501960658aafc0232f315e80.jpg)  
+图2PCR鉴定pHepG2电泳图 Fig.2 Agarose gel electrophoresis of the PCR product.
+
+2.3平板克隆法测定pHepG2辐射敏感性以梯度剂量辐射细胞后，可形成大于50个细胞克隆逐渐减少，如图3示。计数克隆数，计算细胞存活百分比，绘制生存曲线， $\rho ^ { \mathrm { { \mathrm { 0 } } } } \mathrm { H e p G } 2$ 生存曲线始终位于HepG2细胞之上，统计分析提示差异显著，如图4。用GraphPadPrism5.0软件以线性二次方程(L-Q)公式$Y = e ^ { ( - \alpha x - \beta x ^ { 2 } ) } ;$ 拟合量效曲线，如图4。 $\rho ^ { \mathrm { { \mathrm { { \sc ~ H e p G 2 } } } } }$ 的α/β显著低于HepG2细胞( $_ { \it P = 0 . 0 0 1 }$ ，表1)。
+
+表1通过线性二次方程拟和求出HepG2和 $\rho ^ { \mathrm { { \circ } } } \mathrm { H e p G } 2$ 细胞α/βTab.1 $\alpha / \beta$ value of $\rho ^ { \mathrm { { o } } } \mathrm { { H e p } } { \mathrm { { G } } } 2$ cells and HepG2 cells $\scriptstyle ( n = 3 )$   
+
+<html><body><table><tr><td>Group</td><td>α/β(Mean±SD)</td></tr><tr><td>HepG2</td><td>9.47±0.20</td></tr><tr><td>pHepG2</td><td>6.35±0.22</td></tr><tr><td>t</td><td>43.81</td></tr><tr><td>P</td><td>0.001</td></tr></table></body></html>
+
+# 2.4Transwell侵袭实验
+
+细胞侵袭实验结果显示， $\rho ^ { \mathrm { { \mathrm { 0 } } } } \mathrm { H e p G } 2$ 穿过细胞数为$( 2 2 1 \pm 3 2 )$ 个，较HepG2穿过细胞数为( $\ 1 0 4 { \pm } 2 0 )$ 个，前者数量多且侵袭能力增强，有统计学意义( $\scriptstyle \phantom { + } ( P < 0 . 0 5$ ，图5)。
+
+![](images/b9985ca36456973daeaa0e66a1d1ccb23bc0dc15281ae6ff068369984151ccf8.jpg)  
+图3梯度剂量辐射细胞后平板克隆实验图 Fig.3 Clone-forming assay of $\rho ^ { \mathrm { { \tiny ~ H e p G 2 } } }$ cells after gradient dose irradiation.
+
+![](images/05d8be08dc3919953a445670cb196425c803a54856b371ae1255b17bf723d8cf.jpg)  
+图4克隆形成实验绘制的两种细胞生存曲线和线性二次方程拟合量效曲线 Fig.4 Survival curves of the two cellines after irradiationand the fitted dose-effect curves
+
+![](images/068a4b3ef4c1e159c862d1de4ef9416e381caf1b588e649404b671a6abc01d13.jpg)  
+图5HepG2和pHepG2细胞侵袭实验图 Fig.5 Transwell images of HepG2 and $\rho ^ { \mathrm { { \tiny ~ H e p G 2 } } }$ cells.
+
+# 2.5Hoechst33342观察凋亡细胞数
+
+由平板克隆实验部分结果，推算X线对HepG2细胞的半数致死剂量大致为 $2 { \mathrm { G y } }$ 。因此选择2Gy,将使
+
+实验结果更具代表性。两种不同细胞经2Gy辐射，继续培养 $2 4 \mathrm { h }$ ，经Hoechst33342核染色，荧光显微镜下可见典型的核固缩、碎裂形态学表现(图7)。计数5个高
+
+![](images/a4df475f51599116a3033a41f2ccc2fdb913c68f832712825f9ce3c6d0450cb9.jpg)  
+图6辐射HepG2和pHepG2后经Hoechst33342染色图 Fig.6Hoechst33342 staining of HepG2 and $\rho ^ { \mathrm { { \circ } } } \mathrm { H e p } { \mathrm { G } } 2$ cells after irradiation.
+
+倍视野下凋亡细胞数，重复3次，结果发现凋亡率为$( 2 6 . 7 \pm 3 . 2 ) \%$ ,HepG2凋亡率为 $( 4 6 . 8 { \pm } 6 . 2 ) \%$ ,前者抗凋亡能力较后者强，且有统计学意义 $( P { < } 0 . 0 5 )$ ）
+
+# 3讨论
+
+mtDNA在胞质中松散分布，损伤修复能力远低于nDNA，因此推测射线对mtDNA的损伤显著高于nDNA。胞质成分包括mtDNA、蛋白、细胞器的膜状结构等，辐射对这些物质的作用称为胞质辐射，将是未来研究的热点]。Li[]发现X射线可以损伤mtDNA,导致mtDNA4977大片段缺失，缺失的程度可预测细胞的辐射敏感性，证实mtDNA辐射损伤程度和细胞辐射敏感性的量效关系。研究表明人肿瘤细胞的辐射敏感性是一个十分重要的特征。肿瘤细胞的辐射敏感性主要与该细胞的生物化学结构、该细胞对辐射损伤的修复能力、以及该细胞对自由基的清除等因素有关[11-12]。射线主要通过使细胞大量产生ROS继而损伤DNA。Tann[13]等发现内源性ROS可导致mtDNA单链断裂，可导致细胞的凋亡，但Rho0细胞却不会发生这种情况。Rho0细胞的这种生物学行为的差异，为我们研究mtDNA与细胞辐射敏感性的关系提供了一个稳定的模型。
+
+EB是一种分子螯合剂，可以插入无核蛋白保护的层状排列DNA碱基之间，抑制mtDNA的复制和转录。由于mtDNA缺失，不能编码相应的线粒体呼吸链酶复合物亚单位，导致呼吸链功能障碍。尿嘧啶和丙酮酸能弥补这种呼吸链的缺陷，使得Rho0细胞得以生长。去除尿嘧啶和丙酮酸，缺陷的氧化呼吸链不能为细胞提供能量，导致细胞死亡，这也是鉴定Rho0是否培养成功的重要指标。本实验用低浓度EB诱导HepG2细胞30代，去除丙酮酸和尿嘧啶，继续培养5d后，大量细胞悬浮死亡，即使有少量贴壁细胞，也因不能继续分裂增殖而陆续死亡，并经台盼蓝染色证实。再用有限稀释法筛选克隆,经PCR鉴定,获得pHepG2。曾经有用HepG2诱导RhoO细胞失败的报道，但作者认为EB的起始浓度非常关键，细胞需要逐渐适应氧化呼吸链的缺陷，要保证前10代细胞旺盛的生长趋势。但即使以 $5 0 ~ \mu \varrho / \mathrm { L }$ 的低浓度，本研究同期研究的肺癌细胞系SPC-A-1细胞仍未能被成功诱导Rho0细胞，其中的生物学原因有待进一步研究。
+
+本研究采用平板克隆法测定细胞辐射敏感性，以0.5、1、2、4、6、8、10Gy梯度剂量辐射细胞,剂量从 $0 . 5 \mathrm { G y }$ 跨度至 $1 0 \mathrm { G y }$ ，统一的接种细胞数不能更好的观察不同剂量对细胞的杀伤效果。低剂量组如果接种太多细胞，将会出现很多克隆的融合，不便于克隆的计数。高剂量组如果接种过少的细胞可能在6Gy以上就会出现过少的克隆形成，影响实验的敏感性。因此，随着辐射剂量的提高，接种细胞数也相应提高，这也是用平板克隆实验测定细胞辐射敏感性经典且常用的方法[14]。 $\alpha / \beta$ 是X线对不同细胞辐射杀伤效应的特定属性，是线性二次方程对平板克隆测得数据拟合计算出的结果，也是大多数辐射敏感性测定实验中的金标准[15]
+
+本研究证实了 $\rho ^ { \mathrm { { \mathrm { 0 } } } } \mathrm { H e p G } 2$ 对医用高能X线的辐射抵抗，其抗凋亡和侵袭能力均提高。研究者成功诱导 $\rho ^ { \mathrm { 0 } } \mathrm { H e p G } 2$ 细胞株，并用克隆形成实验以及线性二次方程拟合量效曲线，证实该细胞辐射抵抗性显著增强，并发现 $\mathrm { . \rho ^ { \mathrm { 0 } } H e p G 2 }$ 具有显著增强的抗凋亡能力。线粒体凋亡途径在细胞的凋亡现象中发挥重要作用。线粒体蛋白质组学告诉我们，大量的凋亡相关蛋白定位于线粒体内膜，Rho0细胞的蛋白质组学发生了哪些变化，对细胞的线粒体凋亡途径产生了什么影响，其辐射抵抗的机制又是什么。有待研究者进一步的探索。
+
+# 参考文献：
+
+[1]Zhang B,Davidson MM,Hei TK.Mitochondria regulate DNA damage and genomic instability induced by high LET radiation[J]. Life Sci Space Res (Amst),2014,1: 80-8.   
+[2]Yoshida K,Yamazaki H, Ozeki S,et al.Role of mitochondrial DNA in radiation exposure[J].Radiat Med,20oo,18(2): 87-91.   
+[3］曹建平,马岛秀行,山口千鹤.应用脉冲电场凝胶电泳分析X射线诱发 骨肉瘤细胞DNA双链断裂与损伤修复效应[J].中华放射医学与防护 杂志,2000,20(3):159-64.   
+[4]Tayel A,Ebrahim MA,Ibrahim AS,et al.Cytotoxic effects of suramin against HepG2 cells through activation of intrinsic apoptotic pathwa[J].JBUON,2014,19(4): 1048-54.   
+[5]Yang C,Zhu R,Wan J,et al. Biological effects of irradiating hepatocellular carcinoma cells by internal exposure with (125）Ilabeled 5-iodo-2'-deoxyuridine-chitosan drug loading nanoparticles [J]. Cancer Biother Radiopharm,2014,29(9): 395-402.   
+[6]Ling CS,Yin KB,et al.Expression profiling of choline and ethanolamine kinases in MCF7,HCT116 and HepG2 cells,and the transcriptional regulation by epigenetic modification[J」.Mol Med Rep,2015 Jan,11(1): 611-8.   
+[7]Wu XZ,Kato T, Terada S,et al. Real-time Noninvasive Monitoring of UVLight-induced cell death by the deflection of a probe beam [J].Anal Sci.2014,30(10): 1023-5.   
+[8］孙恒文,胡义德.肺癌细胞系线粒体DNA非编码区序列变异研究[J]. 中国肺癌杂志,2007,10(2):124-8.   
+[9]Jalal N,Haq S,Anwar N,et al. Radiation induced bystander effect and DNA damage[J].JCancer Res Ther,2014,10(4): 819-33.   
+[10] Li J,Wang Y,DU L，et al. Nested PCR for mtDNA-4977-bp deletion and comet assay for DNA damage-a combined method for radiosensitivity evaluation of tumor cells[J]. Oncol Lett, 2O14,7(4): 1083-7.   
+[11]Whitaker SJ,Ung YC,McMillan TJ.DNA double-strand break induction and rejoining as determinants of human tumour cell radiosensitivity.A pulsed-field gel electrophoresis study[J].Int J Radiat Biol, 1995,67(1): 7-18.   
+[12]Woudstra EC,Brunsting JF,Roesink JM,et al. Radiation induced DNA damage and damage repair in three human tumour cell lines [J].Mutat Res,1996,362(1): 51-9.   
+[13]Tann AW,Boldogh I,Meiss G,et al.Apoptosis induced by persistent single-strand breaks in mitochondrial genome: critical role of EXOG (5'-EXO/endonuclease） in their repair[J].J Biol Chem,2011,286(37):31975-83.   
+[14] Zhang D,Xiang J,Gu Y,et al. Inhibition of mammalian target of rapamycinbyrapamycinincreasestheradiosensitivityof esophageal carcinoma Ecal09 cells [J].Oncol Lett,2014,8(2): 575-81.   
+[15] Zhang T,Shen Y,Chen Y,et al. The ATM Inhibitor KU55933 Sensitizes Radio-resistant Bladder Cancer Cells with DAB2IP Gene Defect[J].IntJRadiat Biol,2015,14:1-23. (编辑·经媛)

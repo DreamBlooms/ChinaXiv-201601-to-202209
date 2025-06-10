@@ -1,0 +1,531 @@
+[
+    {
+        "type": "text",
+        "text": "A New Method Applicable to Study Solid Compounds with Multiple Polyhedral Structures ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhenlian Chen and Jun Li\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A new direct summation method，named as polyhedron method，is proposed to calculate Madelung energy.This method calculates sums of electrostatic interactions over sets of neutral polyhedron unit pairs rather than conventional ion pairs; this gives Madelung constant in a matrix.With robustly rapid convergence,polyhedron method is generally applicable forcomplex compounds containingmultiplepolyhedral building-blocks and numerical polyhedral connection modes. The matrical analysis suggests face-sharing between octahedral pairs and edge-sharing between tetrahedral pairs can be electrostatically stable,against Pauling's third rule.Further, the matrical calculation of Madelung energies offers a unique advantage to evaluate enormous configurations of cation distributions in a given lattice in a high-throughput manner. That isapplicable to study solid solution composites，polymorphism，and defect structures，including but not limited to intermediate phase of delithiated cathode compounds, charge order or antisite defects，and extensively magnetic order. $\\Subset$ 2016 Wiley Periodicals, Inc. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DOI: 10.1002/jcc.24360 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Coordination polyhedra are important building-blocks of complex compounds,helping understand the nature of chemical bonding,for example,crystal field splitting,d-electron configurations,and d-p orbital overlaps.1-3] Their stacking, that is,the network of building-blocks,forms the framework of crystals and determines materials property.Fora given closed packed anion sublattice，the cation distribution determines the connection of polyhedra.Studies of those polyhedral structures not only provide insights on complicated phenomena such as phase transition but also offer a simple yet high-throughput design of compounds that can be infused with different elements to modify their physical and chemical properties.[4-7] For example,solid-solution designs are a major approach in pursuing better electrochemical performances in lithium-ion cathode compounds.8-10] During delithiation and lithiation processes,the intermediate delithiated phase of cathode compounds often involves the energy competition of occupation and vacancy on Li sites,accompanied by the charge order of transition metal ions in mixing valence states. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "and grouped by rapid energy calculations.The aim of the present work is to invoke Madelung energies (MEs) calculationas an efficient filtering algorithm for global energy landscape.In coupling with first-principles calculations,details of further structural modifications and material properties can be obtained on selected candidates without loss of generality.This approach has a physical root on that ME is the electrostatic energy within point-charge hypothesis,an overall distribution of all elements in a chemical compound.As a major factor to lattice cohesive energy,ME is also a basis to understand a variety of physical and chemical properties, including piezoelectricity and electrochromism,even protein folding.[18-23] ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "While supercomputing has advanced in the area of computational chemistry, the calculation of ME is essentially the same as at the time Ewald Summation was proposed.It is still time consuming and very inefficient to calculate ionic configurations in a huge number. Madelung constant (MC),the ratio between the electrostatic energy due to the presence of the periodic images and that due to the lonely ion pair, has to be ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Although great progresses have been achieved in predicting crystal structures merely from knowledge of chemical composition,thereremain two challenges in materials design.11-16] One is the combinational complexity of searching strategy; the other is the energy landscape of global minimization.A closed packed anion sublattice with cations on interstitial sites (octahedral and/or tetrahedral) provides a starting platform to design new solid compounds by construction.[1] Within an anion sublattice,only a finite number of cation distributions can be allowed by criteria of geometric restriction and energy filtering.17]The design becomes straight:first,all possible polyhedral units can be generated by a combinator; then,nonrepeating configurations of cation distributions can be filtered calculated on each possible structure,no matter what methods,integral transformation or direct summation methods,are used24-29]edifiltyrotsinthedefitioof,ichis a function of lattice, ion coordinates,as well as valence states of ions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/c2841be20666201eb2776af59766cca48c1490157656248ff3ca5618c3442ef0.jpg",
+        "img_caption": [
+            "Figure 1.Schematic illustration of polyhedron method.a) Crystal lattice of NaCl and neutral $N a C l _ { 6 }$ NPU.Red big balls are Na ions,black small Cl.b) llustration of a $N a C l _ { 6 }$ NPU pair. Here, ${ \\pmb { \\mathrm { r } } } _ { \\mathrm { i j } } , { \\pmb { \\mathrm { r } } } _ { \\mathrm { n } } ,$ and ${ \\bf r } _ { \\mathrm { m } }$ are Na-Na ions vectors (from center cation of NPU-ito that of $j )$ ,Na-Cl ionic bond vectors within NPU-i (from cation center of unit $i$ to its anion corner $\\begin{array} { r } { \\boldsymbol { n } _ { \\mathrm { - } } ^ { \\prime } } \\end{array}$ ，andwithin $N P U - j$ (from cation center of unit $j$ to its anion corner m),respectively.And, $\\mathsf { q } _ { \\mathrm { i } }$ and ${ \\mathsf { q } } _ { \\mathrm { j } }$ are the charge of cations in unit $i$ and ${ \\boldsymbol { j } } ,$ respectively. ${ \\sf N } _ { \\sf C } ^ { \\mathrm { i } }$ and ${ \\sf N } _ { \\sf C } ^ { \\mathrm { j } }$ are coordination number of cations in unit $i$ and ${ \\boldsymbol { j } } ,$ respectively.c) Group Coulombic interactions U between NPUs,where subscript Cis for cations,Afor anions and thesummation isover allcorners of each NPU. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Here,based on Pauling's rules of electrostatic valence and taking ionic crystalline structuresasa periodic piling of coordinating polyhedra,[1] we developed a new method, named as polyhedron method, to calculate MC.The method counts Coulomb interactions between polyhedron pairs instead of ion pairs.That results in very rapidly robust convergence without inviting any mathematic trick to deal with boundary conditions of lattice summation and is easy to implement. Notably, the expression of MC adopts a matrix form directly correlating electrostatic potential to polyhedral structure.The matrix is a function of lattice and ion coordinates only, excluding valence states ofions. That facilitates highthroughput calculation of MEs for all cation distributions within the same anion sublattice. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "pair with parameters shown in Figure 1b,and the group Coulombic interaction $U _ { \\mathrm { i j } }$ between NPU-i in center cell and $N P U - j$ inL cell(L is the lattice vector givenby $\\mathbf { L } \\equiv I _ { 1 } \\mathbf { a } + I _ { 2 } \\mathbf { b } + I _ { 3 } \\mathbf { c } ,$ a, b and $\\cdot$ the unit cell vectors) is: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { U _ { i j } ^ { \\mathbf { L } } = q _ { i } \\times q _ { j } \\times \\Bigg \\{ \\displaystyle \\frac { 1 } { r _ { i j \\mathbf { L } } } - \\frac { 1 } { N _ { C } ^ { j } } \\sum _ { m = 1 , N _ { c } ^ { j } } \\frac { 1 } { | \\mathbf { r } _ { i j \\mathbf { L } } + \\mathbf { r } _ { m } | } - \\displaystyle \\frac { 1 } { N _ { C } ^ { i } } \\sum _ { n = 1 , N _ { c } ^ { i } } \\frac { 1 } { | \\mathbf { r } _ { i j \\mathbf { L } } - \\mathbf { r } _ { n } | } } } \\\\ { { + \\displaystyle \\frac { 1 } { N _ { C } ^ { j } \\times N _ { C } ^ { j } } \\sum _ { m = 1 , N _ { c } ^ { i } } \\sum _ { m = 1 , N _ { c } ^ { j } } \\frac { 1 } { | \\mathbf { r } _ { i j \\mathbf { L } } - \\mathbf { r } _ { n } + \\mathbf { r } _ { m } | } \\Bigg \\} , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where ${ \\bf r } _ { i j { \\bf L } } \\equiv { \\bf r } _ { i j } + { \\bf L }$ and . ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Because the neutrality of polyhedron unit radically removes net point charge oscillation in lattice summation, the summation of $U _ { i j } ^ { \\mathsf { L } }$ over lattice L is now unconditionally convergent to a definite physical result for any given numerical threshold, while conditionally convergent in original format(the specified condition to obtain a definite result is shown in Appendix A and B).A matrix form independent of the point charge can be obtained: ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Description of the polyhedron method ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A.Construction of Neutral Polyhedron Unit. The core implementation of polyhedron method is the construction of neutral polyhedron unit (NPU),which is illustrated with example ionic crystal NaCl，shown in Figure 1a.Where，a full point charge $( + 1 )$ is assigned to the center cation Na,while a fraction charge $( - 1 / 6 )$ to coordinating anion Cl.The neutrality of the unit guarantees the network assembled by NaCl octahedral NPUs remains neutral and the construction of NPU could be generally and easily implemented for any complex compounds within point charge approximation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "B.Representation of MM and ME.Figure 1c givesa set of Coulombic interactions among all ionic pairs between a NPU ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { i j } \\equiv \\frac { 1 } { q _ { i } \\times q _ { i } } \\sum _ { \\mathbf { l } } U _ { i j } ^ { \\mathbf { L } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "No boundary condition,no special lattice cut-off,even number of ions arrangement along expanding edge,charge compensation on the summation boundary or average over nanoparticle is employed in the polyhedron method[24,27-30] The convergence of each matrix element $M _ { \\mathrm { i j } }$ is solely determined by the geometric combination of NPUs in the context of periodic arrays.Note，the matrix (Madelung Matrix，MM)is different from conventional definition of MC,which is referred to individual ion depending on the point charge assignment in compounds and is inconvenient for multicomponent complex crystals.27] It should be noted that MM is in the unit of the reciprocal of the distance,different from unit-less MC;only cationswithin unit cell enter matrix index because the calculation entity is the whole NPU group,not individual ions as implemented in conventional MC approach. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/306e30b4abc84e5e6abc38ed978a2a926cd8e437b3986369f373f57c4089dc44.jpg",
+        "img_caption": [
+            "Figure2.NPUsandcellexpansion forNaClcalculation.a)Four NPUs inacubiccell.b)NPUs involvedwith matrixelements $M _ { 1 1 }$ and $M _ { 1 2 }$ .c) Three dimen sional lattice expansion (nL).The OL cellis the center cell, represented by the red cube. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fora generic compound with an array of cationic charges $Q = ( q _ { 1 } , ~ q _ { 2 } , ~ . ~ . ~ . ~ q _ { \\mathsf { n } } )$ per unit cell,ME is calculated through the quadratic form of MM: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { M } = \\frac { 1 } { 2 } \\mathbf { Q } \\cdot \\mathbf { M } \\cdot \\mathbf { Q } ^ { ' } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $Q ^ { \\prime }$ is the transpose of cationic array $Q$ and the factor 2 removes double counting of NPU pairs.Once the matrix is calculated,ME for arbitrary cationic distribution within that structure family can be evaluated in a high-throughput manner by matrix algebra of eq.(3)，providing calculation effciency for charge ordering determination for cationswith variable valence states and materials of variable stoichiometry.The conventional MC α can be transformed from ME by $\\alpha { = } - E _ { \\mathrm { M } } / N _ { \\mathrm { f } }$ $\\times R$ or $\\alpha { = } { - } E _ { \\mathrm { M } } / N _ { \\mathrm { f } } { \\times } a$ $( N _ { \\mathsf { f } }$ is the number of formula units in the unit cell)，referred to bond length $R$ or lattice constant a, respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "C.Calculation Procedure of NaCl as Example. Here,uses conventional NaCl unit cell (with four f.u.per cubic cell) to illustrate the whole procedure of Polyhedron Method.Four NPUs are constructed on the four Na sites,seeing in Figure 2a,giving $4 \\times 4$ MM.The four NPUs are equivalent, then all diagonal $( M _ { i i , } \\ _ { i } \\ = \\ 1 , 4 )$ and non-diagonal $( M _ { i j , i \\neq j } )$ elements are identical, respectively. The two polyhedral building-blocks relating to distinct elements $M _ { 1 1 }$ and $M _ { 1 2 }$ are shown in Figure 2b.The interactions contributing from the center cube to $M _ { 1 1 } , , M _ { 1 1 } ^ { 0 L }$ are ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { U _ { c c } = 0 , } } \\\\ { { \\ } } \\\\ { { U _ { C A } ^ { 2 } = U _ { C A } ^ { 1 } = - \\displaystyle \\frac { 1 } { 6 } \\times \\displaystyle \\frac { 6 } { d } = - \\displaystyle \\frac { 1 } { d } , } } \\\\ { { \\ } } \\\\ { { U _ { A A } = \\displaystyle \\frac { 1 } { 3 6 } \\times \\left\\{ \\displaystyle \\frac { 1 } { 2 d } + \\displaystyle \\frac { 4 } { \\sqrt { 2 } d } \\right\\} \\times 6 , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where, d $( 2 . 8 2 0 1 \\mathring { \\mathsf { A } } )$ is the Na-Cl ionic bond length.Then, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { M _ { 1 1 } ^ { 0 L } = { \\cal U } _ { C C } + { \\cal U } _ { C A } ^ { 1 } + { \\cal U } _ { C A } ^ { 2 } + { \\cal U } _ { A A } } } \\\\ { { = \\displaystyle \\frac { 1 } { d } \\left\\{ - 2 + \\frac { 1 } { 6 } \\times \\left( \\frac { 1 } { 2 } + \\frac { 4 } { \\sqrt { 2 } } \\right) \\right\\} \\approx - 0 . 5 1 2 5 ; } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "and to $M _ { 1 2 } ^ { 0 L }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU _ { c c } = \\frac { 1 } { \\sqrt { 2 } d } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU _ { C A } ^ { 2 } = U _ { C A } ^ { 1 } = - \\frac { 1 } { 6 } \\times \\left\\{ \\frac { 2 } { d } + \\frac { 2 } { \\sqrt { 3 } d } + \\frac { 2 } { \\sqrt { 5 } d } \\right\\} ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU _ { A A } = \\frac { 1 } { 3 6 } \\times \\left\\{ \\begin{array} { l } { { \\displaystyle \\left( \\frac { 1 } { 2 d } + \\frac { 4 } { \\sqrt { 2 } d } \\right) \\times 2 + \\left( \\frac { 3 } { \\sqrt { 2 } d } + \\frac { 3 } { 6 d } \\right) \\times 2 } } \\\\ { { \\displaystyle + \\left( \\frac { 1 } { \\sqrt { 2 } d } + \\frac { 1 } { 2 d } + \\frac { 2 } { \\sqrt { 6 } d } + \\frac { 1 } { 2 \\sqrt { 2 } d } + \\frac { 1 } { \\sqrt { 1 0 } d } \\right) \\times 2 } } \\end{array} \\right\\} ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "giving ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { M _ { 1 2 } ^ { 0 L } = U _ { C C } + U _ { C A } ^ { 1 } + U _ { C A } ^ { 2 } + U _ { A A } } } \\\\  { = \\displaystyle { \\frac { 1 } { d } \\left\\{ \\begin{array} { c } { { \\displaystyle { \\frac { 1 } { \\sqrt { 2 } } - \\frac { 1 } { 6 } \\times ( 1 + \\frac { 2 } { \\sqrt { 3 } } + \\frac { 2 } { \\sqrt { 5 } } ) \\times 2 } } \\\\ { { \\displaystyle { + \\frac { 1 } { 3 6 } \\times ( 1 + \\frac { 8 } { \\sqrt { 2 } } + \\frac { 5 } { \\sqrt { 6 } } + \\frac { 1 } { 2 \\sqrt { 2 } } + \\frac { 1 } { \\sqrt { 1 0 } } + } ) \\times 2 } } \\end{array} } } } } \\\\ \\right\\{ { \\approx - 0 . 0 4 3 3 . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Three dimensional cell expanding along unit cell vectors from the center cell is shown in Figure 2c and the summation is over nL cells, $( n + 1 ) { \\times } ( n + 1 ) { \\times } ( n + 1 )$ of cubes at summation length nL $( n = 0 , 1 , \\ldots , L$ isa symbol representation of the length of unit cell vectors).The evolutions of calculated values of matrix elements and conventional MC at summation length nL are listed in Table 1.At summation length $2 L ,$ the values of MM reach the preset converging threshold (cf. Table 2)and give the conventional MC 1.7476 by the conversion ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/dc0539b7d460204654ea2ab47c0e5b4efc055d7e89ca83d9796a04271dd41b57.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">Table 1. MM elements (unit: A-[1l) as functions of summation length nL.</td></tr><tr><td>Shell</td><td>NNPUS</td><td>M</td><td>M</td><td>α</td></tr><tr><td rowspan=\"4\">OL 1L 2L</td><td>1 3-1=26</td><td>-0.5125</td><td>-0.0433</td><td>0.9059</td></tr><tr><td>SC</td><td>-0.1932</td><td>-0.1343</td><td></td></tr><tr><td>TC 5³-3=98</td><td>-0.7057</td><td>-0.1777</td><td>1.7466</td></tr><tr><td>SC TC</td><td>0.0001 -0.7056</td><td>-0.0002 -0.1779</td><td>1.7476</td></tr><tr><td colspan=\"5\">SC and TC represent contributions from cubes in the nL shell and all cubes up to nL cell, respectively.The α is the converted MC at the sum- mation length nL. NNpus is the number of NPUs in the nL shell.</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/5a6c9dc187ced287d37aa7c7df300ae93dd4db877bc849c31e891cff6c982265.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"9\">Table2MEsEnit:ciftigtbaduidistrteddstortdoi andLaMnO3and rhombohedral cathode LiCoO2.</td></tr><tr><td>OL</td><td>1L</td><td></td><td>2L</td><td>3L</td><td>CL</td><td>EOV</td><td>apm aref</td><td>Rora</td></tr><tr><td>NaCl -4.6256</td><td>-8.9183</td><td>-8.9234</td><td>-8.9234</td><td>2L</td><td></td><td>1.7476</td><td>1.74756[31]</td><td>2.8201</td></tr><tr><td>CsCl -2.789</td><td>-7.1273</td><td>-7.1085</td><td>-7.1087</td><td>3L</td><td></td><td>1.7627</td><td>1.76268[31]</td><td>3.5706</td></tr><tr><td>ZnO -24.7536</td><td>-47.6913</td><td>-47.9881</td><td>-47.9953</td><td>4L</td><td>-47.9940</td><td>5.9872</td><td>5.99413[31]</td><td>1.7964</td></tr><tr><td>SrTiO3 -104.3587</td><td>-182.5812</td><td>-182.5718</td><td>-182.5716</td><td>3L</td><td rowspan=\"2\"></td><td>49.5099</td><td rowspan=\"2\">49.512[32]</td><td>3.905</td></tr><tr><td>LaMnO3 -107.757</td><td>-166.6544</td><td>-166.6967</td><td>-166.6996</td><td>-166.7007</td><td>22.0195</td><td>1.9021</td></tr><tr><td>LiCoO2 -57.9281</td><td>-108.1180</td><td>-111.0780</td><td>-111.0850</td><td>4L 3L</td><td>E(n-1)L)</td><td>38.1554</td><td></td><td>4.9461</td></tr><tr><td colspan=\"13\">CL is the convergence length of all matrix elements reaching the converging threshold FnL /EM|<1.0e-4.Ev and αpm is the converged values ofMEandCauatdyedroetdspectielyiseueeprediliteatureRreuesudintec</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\alpha = - \\frac { 1 } { 4 } E _ { M } { \\times } 2 . 8 2 0 1 = - \\frac { 1 } { 8 } Q { \\times } \\boldsymbol { \\mathrm { M } } { \\times } Q { \\times } 2 . 8 2 0 1 } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { = - 0 . 3 5 2 5 \\times ( 1 , 1 , 1 , 1 , 1 ) \\times \\left[ \\begin{array} { l l l l } { - 0 . 7 0 5 6 } & { - 0 . 1 7 7 9 } & { - 0 . 1 7 7 9 } & { - 0 . 1 7 7 9 } \\\\ { - 0 . 1 7 7 9 } & { - 0 . 7 0 5 6 } & { - 0 . 1 7 7 9 } & { - 0 . 1 7 7 9 } \\\\ { - 0 . 1 7 7 9 } & { - 0 . 1 7 7 9 } & { - 0 . 7 0 5 6 } & { - 0 . 1 7 7 9 } \\\\ { - 0 . 1 7 7 9 } & { - 0 . 1 7 7 9 } & { - 0 . 1 7 7 9 } & { - 0 . 7 0 5 6 } \\end{array} \\right] \\times \\left( \\begin{array} { l } { 1 } \\\\ { 1 } \\\\ { 1 } \\\\ { 1 } \\\\ { 1 } \\end{array} \\right) } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { = 1 . 7 4 7 6 . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Notably， Table 1 shows the contribution from the 2L shell has become small in order of $1 0 ^ { - 4 } \\mathring { \\mathsf { A } } ^ { - [ 1 ] }$ for both diagonal element and non-diagonal element.Here,nL shell means all cubes locate between nL and $( n - 1 ) \\mathsf { L }$ length.At summation length $2 L ,$ that is,4d,the 2L cell consists of $5 \\times 5 \\times 5 \\times$ $8 = 1 0 0 0$ ions,in contrast to ${ \\mathsf { 8 L } } ,$ that is,16d or 27000 ions required in Bakers'scheme (cf.Table 3 in Ref.29),which was the shortest length to give the value 1.7476 by direct MC calculation in literature to our best knowledge. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Solid-solution configurations construction ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We take spinel $\\mathsf { L i M n } _ { 2 } \\mathsf { O } _ { 4 }$ as example to illustrate the determination of the cation distributions using ME as a high-throughput filter. The flow chart is shown in Figure 3.In spinel $\\mathsf { L i M n } _ { 2 } \\mathsf { O } _ { 4 } ,$ Mn exhibits variable valence states, $\\mathsf { M n } ^ { 3 + }$ and $ { \\mathsf { M } }  { \\mathsf { n } } ^ { 4 + }$ . In $\\mathsf { F d } \\bar { 3 } m$ unit cell, there are16 Mn ions on octahedral sites and 8 Li ions on tetrahedral sites, generating a $2 4 \\times 2 4$ MM.When one picks up 8 octahedral sites for $\\mathsf { M n } ^ { 3 + }$ ions among the 16 octahedral sites,the combinator gives $C _ { 1 6 } ^ { 8 } ,$ 12870 configurations. Each can be represented by a cationicarray Q (e.g.,[1,1,1,1,1,1,1,1,3,3,3,3,3,3,3,3,4,4,4,4,4,4,4,4],we the first eight for Li ions and the other 16 for Mn ions).Then by comparing MEs calculated for the 12,870 set by eq. (3),25 distinct configurations are obtained in a high throughput manner.Thus, this method can be generally applied to other solid solutions of elements even in identical nominal valence state orantiferromagentic order,only if elements or spin orientations are assigned to different pseudo valence states,whichare not necessaryto havea chemical meaning but will help identify or classify geometric patternsof cation distributions.Detailed chemical bonding effects can be captured by following-up first-principles calculations. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Applications ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "General applicability of the polyhedron method ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The neutrality of polyhedron unit ensures the polyhedron method a robust approach to MC calculations,regardless of Bravais lattice type,different from other reported direct summation methods, which are most applicable to cubic compounds.[27-29] A systematic calculations of ME for various compounds,such as often-studied cubic NaCl and CsCl,Wurzite ZnO, perovskites $\\mathsf { S r T i O } _ { 3 }$ (undistorted, cubic)，and $\\mathsf { L a M n O } _ { 3 }$ (distorted,orthogonal) and rhombohedral cathode $\\mathsf { L i C o O } _ { 2 } ,$ all reach flattingvalues within numeric precision $0 . 1 \\%$ at a summation length not longer than 2L.Digital precision is slightly structure dependent but ME always converges monotonically, seen in Table 2.The accuracy of all converged MEsat the converging threshold is better than chemical accuracy.From the point of view of a high eficient and high throughput energy filtering, we do not pursue further accuracy and precision in the calculation of MC for structure prediction beyond point-charge hypothesis. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Physical insight of polyhedral connection ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "What MM describes is the Coulomb interaction between polyhedral building-blocks,analog to Pauling's structural characteristics of coordination compounds,especially relating to his third rule about polyhedral combination.Figure 4 shows the stacking of all octahedral and tetrahedral interstitial sites within cubic close-packing (AB stacking) and hexagonal close-packing (ABC stacking) oxygen sublattices.One cation-oxygen octahedra layer sandwiched between two cation-oxygen tetrahedra layers.There could be nine connection modes: corner-,edge-,and face-sharing between tetrahedron and/or octahedron in AB close-packing oxides;whereas six modes: corner- and edge-sharing between octahedron-octahedron pair andtetrahedron-tetrahedronpair，and corner-， face-sharing between octahedron-tetrahedron pair in ABC stacking.The MM elements for the modes (values are given in Table 3) can be allpossible EM=Q·M·Q nonrepeating cofigurations cofigurations filter $C _ { 1 6 } ^ { 8 } = 1 2 8 7 0$ （20 25 ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/eb254980c7bd189bc895fcfeb1bd2b66c9820aea654d1e65d71d13df82ed94a2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">Table3.MM elementsMij forNPU pair (i, j).</td></tr><tr><td rowspan=\"3\">Pairs sharing rij(A)</td><td colspan=\"2\">Octahedron-octahedron</td><td>Tetrahedron- tetrahedron</td><td>Octahedron- tetrahedron</td></tr><tr><td colspan=\"2\">corner</td><td colspan=\"2\">edgeface corner edge face corner edge face</td></tr><tr><td colspan=\"2\">0.91 1.00 0.71 0.58</td><td colspan=\"2\">0.71 0.5 0.29 0.83 0.6 0.43</td></tr><tr><td colspan=\"6\">Mij(A) -1 -0.17 -0.19 -0.24-0.24 -0.32 -0.410.42-0.24 -0.31 -0.13</td></tr><tr><td colspan=\"6\">Here,rij is the distance between the centers of the pair.</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "calculated from a hexagonal supercell of six layers with lattice parameters $a = 3 a _ { 0 }$ and $c = 4 \\sqrt { 3 } a _ { 0 } ,$ where $a _ { 0 } = 0 . 7 0 7 \\mathrm { ~ \\AA ~ }$ When the six stacking of oxygen layers is ABABAB,the cation-oxygen polyhedral sequencesare AAAAAA and ABBAABBAABBA for octahedra and tetrahedra,respectively; for the ABCABC stacking,the sites are ABCABC and ABCABCABCABC for octahedra and tetrahedra respectively.For the six polyhedral connection modes in ABC stacking, the distances between cation centers of polyhedra are the same as those in AB stacking，except for octahedronoctahedron corner-sharing,of which the distance is 1.oo A and 0.91 A in ABC and AB stacking, respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "One finds that with tetrahedron,face-sharing is often more electrostaticallyinstable.Especially，face-sharingbetween tetrahedron-tetrahedron pair even givesa positive value,confirming Pauling's speculation that face-sharing intend to decrease the stability of crystals with low coordination number.1] However, between octahedron-octahedron pair, face-sharing gives value extremely close to edge-sharing and negatively larger than corner-sharing;amongall polyhedron pairs,edge-sharing gives values negatively larger than corner-sharing.That indicates Pauling's third rule partially incorrect and supports that edge-sharing between tetrahedra can stabilize structures of $\\beta$ -BeO,dumortierite $\\mathsf { A l } _ { 7 } \\mathsf { B O } _ { 3 } ( \\mathsf { S i O } _ { 4 } ) _ { 3 } \\mathsf { O } _ { 3 } ,$ $\\mathsf { L i } _ { 5 } \\mathsf { F e O } _ { 4 }$ and $\\mathsf { L i } _ { 6 } \\mathsf { C o O } _ { 4 } ,$ and face-sharing between octahedra can stabilize $2 H - B a M n O _ { 3 }$ [33-36] The physical rootis that the collective Coulomb attraction between anions of $N P U - j$ and cation in NPU-i surpasses cation-cation Coulomb repulsion for most connection modes except for face-sharing between tetrahedron pair,but itwas ignored in Pauling'sspeculation. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e7836363dcfd69e5ab35f6d96d9a39d9470c16f7e603401088ad71b340a5985a.jpg",
+        "img_caption": [
+            "Figure 3.The flow chart illustrating construction of solid solution configurations using ME as a high-throughput filter algorithm.[Color figure can be viewed in the online issue,which is available at wileyonlinelibrary.com.] ",
+            "Figure 4.Connection modes between polyhedral building-blocks in AB and ABC stacking of oxygen sublattices.Black small,Green large and purple small balls represent oxygen,octahedral (octa) sites,and tetrahedral (tetra) sites,respectively.Labels C,E,and F represent corner-，edge-,and facesharing,respectively.[Color figure can be viewed in the online issue,which is available at wileyonlinelibrary.com.] "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/16daeb1316d55288d819921ff5bc57dd48a740ef20add2b0ebe9a40264ce18ea.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">Table4. Energytermsand magneticmoments for the four highsymme- trycharge-orderconfigurations.</td></tr><tr><td rowspan=\"2\"></td><td colspan=\"2\">Energy</td><td rowspan=\"2\"></td><td colspan=\"2\">Magnetic moments</td></tr><tr><td>EM</td><td>E 8</td><td>Mn3+</td><td>0(2-δ)- Mn4+ 0(2+δ)-</td></tr><tr><td rowspan=\"2\">Imma -246.68 P4322 -246.72 Cmm2 -246.96</td><td rowspan=\"2\">-247.72 -47.321 -47.515 -47.452</td><td rowspan=\"2\">-47.507</td><td rowspan=\"2\">1/2 1/6 3.89 3.9</td><td rowspan=\"2\">3.63~3.66 -0.09~-0.11 3.15 0 -0.08 -0.04</td></tr><tr><td colspan=\"2\">3.17 -0.05 3.9 3.15,3.18 ~-0.01</td></tr><tr><td colspan=\"6\">Em and Et are MEs and our first-principles GGA+U total energies by VASP structural relaxations, respectively.38-43] For the reference Fd3m configurationwith all Mn[3].5+，ME is-244.58eV/f.u.Magnetic moments are calculated in ferromagnetic order,representing charge</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Charge order determination in coupling with first-principles calculations ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Now,we use spinel $\\mathsf { L i M n } _ { 2 } \\mathsf { O } _ { 4 }$ again to show that in coupling with first-principles calculations, polyhedron method can provide more deep insights on the physical and chemical properties for complex compounds.There are four configurations with high symmetry (by ISOTROPY analysis[37l) of $\\mathsf { P } \\bar { 4 } m 2 .$ （2 $\\mathsf { P } 4 _ { 3 } 2 2 ,$ Imma,and Cmm2,among the twenty-five distinct configurations according to MEs. In $\\mathsf { F d } \\bar { 3 } m$ lattice,all $\\mathsf { M n O } _ { 6 }$ octahedra are undistinguishable then the major contributions, intra-NPU interactions of all $ { \\mathsf { M n O } _ { 6 } }$ units,are the same.The ME for $\\mathsf { M n } ^ { 3 + } \\mathsf { - M n } ^ { 4 + }$ charge-order is always lower than the referenced $\\mathsf { M n } ^ { [ 3 ] . 5 + }$ configuration (cf. Table 4).This is due to the quadratic ruling in Coulomb energy [referring to eq. (3)], cf.,sum of square $( 3 ^ { 2 } + 4 ^ { 2 } )$ vs. square of average $( 2 \\times 3 . 5 ^ { 2 } )$ .This simple rule indicates charge orders always electrostatically stabilize a compound with mixing valences if differences in NPUs surpass other electronic repulsion effects. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In Mn3+-Mn4+ charge-order configurations,charge disproportion forms on oxygen ions because each oxygen ion is shared by one $\\mathsf { L i O } _ { 4 }$ tetrahedron with three $ { \\mathsf { M n O } _ { 6 } }$ octahedra. In $\\mathsf { P } \\bar { 4 } m 2$ configuration, three $\\mathsf { M n } ^ { 3 + }$ or three $ { \\mathsf { M } }  { \\mathsf { n } } ^ { 4 + }$ ions share one oxygen ion, then the valence disproportion is $1 / 2$ and the nominal valence of oxygen is -(2-1/2) or $\\cdot ( 2 + 1 / 2 ) .$ whereas, two $\\mathsf { M n } ^ { 3 + }$ one $ { \\mathsf { M n } } ^ { 4 + }$ or two $ { { M } _ { \\mathrm { n } } } { } ^ { 4 + }$ ，one $\\mathsf { M n } ^ { 3 + }$ share one oxygen ion in the other three configurations， then thevalence disproportion ofoxygen becomes smaller to ${ 1 / 6 } ,$ seen in Figure 5.In $\\mathsf { P } \\bar { 4 } m 2$ configuration, the valence disproportion is so strong that it is leaning to an averagevalence state after first-principlesstructural relaxation; whereas the other three configurations all favor clear $\\mathsf { M n } ^ { 3 + } \\mathsf { - M n } ^ { 4 + }$ charge-orders.These features arerevealed wellin magnetic moments patterns,seeing Table 4.Total energies of the three charge-order configurations are again lower than that of $\\mathsf { P } \\bar { 4 } m 2$ configuration. The atomistic difference among the three $\\mathsf { M n } ^ { 3 + }$ $\\mathsf { M n } ^ { 4 + }$ charge-order configurations lays in the pattern of $M { \\mathsf { n } } ^ { [ 3 ] \\mathrm { ~ + ~ } }$ ${ \\mathsf O } _ { 6 } / { \\mathsf M } { \\mathsf n } ^ { [ 4 ] } \\ ^ { + } \\ { \\mathsf O } _ { 6 }$ combinations, that is, the nearest Mn-Mn connections,cf.Figure 5,and gives rise to small difference in MEs as well asin total energies. The proximity of energy suggests various charge- order configurations may coexist in $\\mathsf { L i } M \\mathsf { n } _ { 2 } \\mathsf { O } _ { 4 } ;$ the chargeorder may be local rather than global as demonstrated in the long range partially charge-order in Fddd superlattice with 504 ions each cell[44] That is rendering to further experimental verification. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/39f154d93461639bd2797313c44a789412d9c0138cb81db005e4572b2c8764ac.jpg",
+        "img_caption": [
+            "Figure 5.Landscape of MEsand $\\boldsymbol { { \\cal M } } \\boldsymbol { \\mathrm { n } } \\boldsymbol { \\mathrm { O } } _ { 6 }$ octahedral combination sketched for charge-order configurations,where green and black small balls represent lithium and oxygen ions,respectively.[Color figure can be viewed in the online issue,which is available at wileyonlinelibrary.com.] "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Based on the construction of NPU,a new direct summation method is proposed to calculate MEs for complex crystal compounds.Due to screening effects of NPUs, the convergence of lattice summation becomes rapidly robust and generallyapplicable.The MC is expressed in a matrix form and each matrix element accounts for the group interaction between NPU pair. The matrix quantitatively characterizes connection modes among polyhedral building-blocks.That justifies Pauling's third rule and validates face-sharing between octahedra and edgesharing between tetrahedra could be electrostatically stable. The matrix form also benefits comprehensive and systematic ME calculations for solid materials with variable stoichiometry and mixing valence states.It offers a new strategy to study atomistic details of solid solution and polymorphisms (such as $A _ { 2 } B \\mathsf { S i O } _ { 4 }$ silicates with cations A,B,and Si on tetrahedral sites in AB stacking oxygen lattice)，charge order,or even spinpolarized systems,for example,anti-ferromagnetic order.This may guide the searching of charge-pairing mechanism in very challenging solid compounds and provide a new strategy to study complicated processes for compounds with variable valence metal ions including intercalation cathode of lithiumion batteries. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "APPENDIXA ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Mathematic Proof ofUnconditional Convergence of Lattice Summation of $\\pmb { U } _ { i j } ^ { \\bot }$ ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Due to NPU construction,net point-charge interactions are screened off between NPUs,and eq.(1） can be rewritten as sum of interactions between dipolar pairs: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle { u _ { i j } ^ { \\mathbf { L } } } = \\frac { 0 } { r _ { i j \\mathbf { L } } } - \\frac { 1 } { N _ { C } ^ { i } } \\sum _ { m = 1 , N _ { C } ^ { i } } \\left( \\frac { 1 } { | \\mathbf { r } _ { i j \\mathbf { L } } - \\mathbf { r } _ { m } | } - \\frac { 1 } { r _ { i j \\mathbf { L } } } \\right) - \\frac { 1 } { N _ { C } ^ { i } } \\sum _ { n = 1 , N _ { C } ^ { i } } \\left( \\frac { 1 } { | \\mathbf { r } _ { i j \\mathbf { L } } + \\mathbf { r } _ { n } | } - \\frac { 1 } { r _ { i j \\mathbf { L } } } \\right) } } \\\\ { { + \\frac { 1 } { N _ { C } ^ { i } \\times N _ { C } ^ { i } } \\sum _ { n = 1 , N _ { C } ^ { i } ; m = 1 , N _ { C } ^ { i } } \\left( \\frac { 1 } { | \\mathbf { r } _ { i j \\mathbf { L } } + \\mathbf { r } _ { n } - \\mathbf { r } _ { m } | } - \\frac { 1 } { r _ { i j \\mathbf { L } } } \\right) , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $U _ { i j } ^ { \\mathsf { L } } = \\frac { U _ { i j } ^ { \\mathsf { L } } } { q _ { i } \\times q _ { j } } .$ .When rijL ≥{m,rn ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { u _ { i j } ^ { \\mathbf { L } } = - \\frac { 1 } { N _ { C } ^ { j } } \\sum _ { m = 1 , N _ { c } ^ { j } } \\frac { \\mathbf { r } _ { m } \\cdot \\mathbf { r } _ { i j \\mathbf { L } } } { r _ { i j \\mathbf { L } } ^ { \\mathbf { 3 } } } + \\frac { 1 } { N _ { C } ^ { i } } \\sum _ { n = 1 , N _ { c } ^ { i } } \\frac { r _ { n } \\cdot \\mathbf { r } _ { i j \\mathbf { L } } } { r _ { i j \\mathbf { L } } ^ { \\mathbf { 3 } } } } } \\\\ { { \\displaystyle ~ + \\frac { 1 } { N _ { C } ^ { j } \\times N _ { C } ^ { i } } \\sum _ { m = 1 , N _ { c } ^ { j } ; n = 1 , N _ { c } ^ { i } } \\frac { ( \\mathbf { r } _ { m } - \\mathbf { r } _ { n } ) \\cdot \\mathbf { r } _ { i j \\mathbf { L } } } { r _ { i j \\mathbf { L } } ^ { \\mathbf { 3 } } } + O \\bigg ( \\frac { 1 } { r _ { i j \\mathbf { L } } ^ { \\mathbf { 3 } } } \\bigg ) } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The first three terms in eq.(A2) are dipolar contributions and the last term includes all other higher multipolar terms with smaller contributions.The dipole terms vanish after merging: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\bf { r } } _ { t } = - \\frac { 1 } { N _ { C } ^ { j } } \\sum _ { m = 1 , N _ { C } ^ { i } } { \\bf { r } } _ { m } } + \\frac { 1 } { N _ { C } ^ { i } } \\sum _ { n = 1 , N _ { c } ^ { i } } { \\bf { r } } _ { n } } \\\\ { ~ + \\sum _ { m = 1 , N _ { C } ^ { i } ; n = 1 , N _ { c } ^ { i } } \\frac { 1 } { N _ { C } ^ { j } \\times N _ { C } ^ { i } } ( { \\bf { r } } _ { m } - { \\bf { r } } _ { n } ) = 0 . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Then, ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { i j } ^ { \\mathsf { L } } { = } \\frac { \\boldsymbol { \\mathsf { r } } _ { t } { \\bullet } \\boldsymbol { \\mathsf { r } } _ { i j \\mathsf { L } } } { { \\boldsymbol { r } } _ { i j \\mathsf { L } } { } ^ { { 3 } } } + o \\left( \\frac { 1 } { { \\boldsymbol { r } } _ { i j \\mathsf { L } } ^ { { 3 } } } \\right) { = } o \\left( \\frac { 1 } { { \\boldsymbol { r } } _ { i j \\mathsf { L } } ^ { { 3 } } } \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "That means $U _ { i j } ^ { \\mathsf { L } }$ attenuates to the third order or higher order of reciprocal of distance between the centers.Therefore,the lattice summation of $U _ { i j } ^ { \\mathsf { L } }$ should converge monotonically，scaling as $1 / \\mathsf { r } _ { \\mathrm { i j L } }$ because the number of polyhedra increases with cell expansion scaling as ${ \\mathsf { r } _ { \\mathsf { i j L } } } ^ { 2 }$ .In other words,for any given converging threshold $\\Delta ,$ one can find a suitable summation length nL， satisfying $| ( E _ { M } ^ { n L } - E _ { M } ^ { ( n - 1 ) L } ) / E _ { M } ^ { n L } | < \\Delta$ That confirms the convergence of the polyhedron method is mathematically robust, in contrast to the conditional convergence of classical MC schemes.If the symmetry of the polyhedra is high,higher multipolar terms such as quadrapolar term may also be counteractive so as to achieve much faster convergence than dipole convergence. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "APPENDIXB ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Independence of Convergences on Cell Expansion and Lattice Shape ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The neutrality of the polyhedron unit is a strong physical imposition on the group summation that drives the convergence of the polyhedron method,insensitive to the boundary condition,that is, the scheme of cell expansion in sphere or cube and lattice shape in cubic or triclinic. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure B1 shows four cases using NaCl as example for sphere and cube cell expansion with primitive cell (PC) and crystal cell (CC)，all cases reach convergence within 5L with error smaller than ${ { 1 0 } ^ { - 4 } }$ .This is in contrast to the conventional direct summation method，which is divergent for sphere lattice expansion in the calculation of MC for NaCl without correction term.25] In conventional methods,whether or not the ions, cations or anions,are on the boundary is determined by its pair distance to the refer ion.[45] On the contrast,in polyhedron method, the determination condition is the pair distance between the center cations of the polyhedron unit and the refer unit.In fact,coordinated anions are on the boundary.For example,shown in Figure B1 b, the Cl ions coordinated to the 12 cations (forming icosahedron） seen in the upper atomic model in Figure B1 b are on boundary of the 1L summation with PC using sphere expansion. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/56bc13ff58a7549c11be5ea4c1df241e2654b7b0e1f56a15a678909ceaa0cb8b.jpg",
+        "img_caption": [
+            "FigureB1.ThculatioofMforNal.aUnitcelofndC.)ecatiosandpolydaonboundaryinsummationusingseeasior withPC.cTeconvergenceusingspereandcubeexansionwithand.olorfurecanbeviewedinteolineissue,hichisailablel wileyonlinelibrary.com.] "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "While the value of ME using sphere expansion with rhombohedral PC deviates far away from the convergent value in summation length of ${ 1 L , }$ it converges rapidly to the same definite physical result after 5L.That deviation roots in the group of cations,which is determined by the lattice constant in our calculations.In the sphere expansion with PC, the radius of 1L length is of $3 . 9 8 8 2 \\mathring { \\textsf { A } }$ and only nearest cation neighbors are included; while at least second nearest cation neighbors are counted in for the other three cases. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Appendix A has shown that polyhedron method will obtain a definite result,.which is independent on the boundary scheme of cell expansion and lattice shape.However, this does not exclude the numeric deviation before convergence reaches. Thenumeric deviation of the polyhedron method relies on the symmetry of the polyhedron units and the lattice.The latter one determines the networking of the polyhedra on boundary, kind of similar to other direct summation methods.This deviation is different in nature from the convergent difficulty in other direct summation methods,in which the convergent difficulty or errors mainly come from the correction terms on boundary.Recent works showed such difficulties also exist in the well-developed Ewald summation.46] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Madelung energy $\\cdot$ polyhedral connection $\\cdot$ crystal structure prediction $\\cdot$ charge order $\\cdot \\cdot$ direct summation method ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "How to cite this article: Z. Chen, J. Li J. Comput. Chem. 2016, 37,1476-1483. DOl: 10.1002/jcc.24360 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]L.Pauling,J.Am. Chem. Soc.1929,51,1010. [2]J.S.Griffith,L.E. Orgel, Chem. Soc.1957,11,381.   \n[3] Z.Chen,C.Zhang,Z. Zhang,J.Li, Phys.Chem.Chem. Phys.2014,16, 13255. [4] J.Reed,G.Ceder,A.Van Der Ven,Electrochem.Solid State Lett.2001, 4,A78. A81. [5]J.Kunes,A.V. Lukoyanov,V.I.Anisimov,R.T.Scalettar, W.E.Pickett, Nat.Mater.2008,7,198. [6]S.Torquato,F.H. Stillinger,Rev.Modern Phys.2010,82,2633.   \n[7]J.Suntivich,H.A.Gasteiger，N.Yabuuchi,H.Nakanishi,J．B. Goodenough,Y. Shao-Horn,Nat. Chem.2011,3,546. [8]N.Yabuuchi,T.Ohzuku,J.Power Sources 2003,119121,171. [9]K.W. Nam,X.J.Wang,W. S.Yoon,H. Li,X. Huang, O. Haas, J. Bai, X.Q. Yang,Electrochem.Commun.20o9,11,913.   \n[10] R.Chen,R. Heinzmann,S.Mangold, V.S.K. Chakravadhanula,H.Hahn, S.Indris,J.Phys.Chem.C 2012,117,884.   \n[11]G.L.W.Hart,Nat.Mater.2007,6,941.   \n[12]S.M.Woodley,R.Catlow, Nat. Mater.20o8,7,937.   \n[13]A.R.Oganov,A.O.Lyakhov,M.Valle,Acc.Chem.Res.2011,44,227.   \n[14]E.Lee,K.A.Persson,Energy Environ.Sci.2012,5,6047.   \n[15]Y.C.Wang,J.Lv,L. Zhu,S.H. Lu, K.T. Yin, Q.Li,H.Wang, L. Zhang,Y. Ma,J.Phys. Condens.Matter2015,27,203203.   \n[16] M. Jansen,Adv.Mater.2015,27,3229.   \n[17]T. Luo,C. Zhang,Z. Zhang,Y. Zhu,J.Li, Phys. Status Solidi B 2011,248, 2027.   \n[18] A.Azia,Y. Levy,J.Mol.Biol.2009,393,527.   \n[19]V.Stevanovic，M．d'Avezac，A.Zunger，Phys.Rev.Lett.2010，105, 075501.   \n[20]L.Glasser,Inorg.Chem.2012,51,2420.   \n[21] H. Kim,S.M. Kim, H.Son,H. Kim, B.Park,J. Ku,J.I.Sohn,K.Im,J.E.Jang, J.J.Park,O.Kim,S.Cha,Y.Park,J.Energy Environ.Sci.2012,5,8932.   \n[22] I.Belozerova,R. Levicky,J.Am.Chem.Soc.2012,134,18667.   \n[23]M.Honig,J.A.Sulpizio,J.DroriA.Joshua,E.Zeldov,S.llani,Nat. Mater.2013,12,1112.   \n[24]P.P.Ewald,Annalen der Physik 1921,369,253.   \n[25]D.Borwein,J.M. Borwein,K.F.Taylor,J.Math.Phys.1985,26,2999.   \n[26]P.F.Batcho,T.Schlick,J.Chem.Phys.2001,115,8312.   \n[27]W.A.Harrison,Phys.Rev.B 2006,73,212103.   \n[28]M.Gaio,P.L.Silvestrelli,Phys.Rev.B2009,79,012102.   \n[29]A.D.Baker,M.D.Baker,Am.J.Phys.2010,78,102.   \n[30]A.D.Baker,M.D.Baker,J.Phys.Chem.C2009,113,14793.   \n[31]Q.C.Johnson,D.H. Templeton,J.Chem.Phys.1961,34,2004.   \n[32]W.Van Gool,A.G.Piken,J.Mater.Sci.1969,4,95.   \n[33]E.J.Cussen,P.D.Battle,Chem.Mater.2000,12,831.   \n[34]J.M.Perez-Mato,D.Orobengoa,M.I.Aroyo,Acta Crystallogr.A 2010, 66,558. [35]J.K. Burdett,T.J.McLarnan,Am.Mineral.1984,69,601.   \n[36]S.Narukawa,Y.Takeda,M.Nishijima,N.Imanishi,O.Yamamoto,M.   \nTabuchi,Solid State lonics 1999,122,59.   \n[37]H.T.Stokes,D.M. Hatch,J.Appl. Crystallogr.2005,38,237.   \n[38]G.Kresse,D.Joubert,Phys.Rev.B 1999,59,1758.   \n[39]J.P.Perdew,K. Burke,M. Ernzerhof,Phys.Rev. Lett.1996,77,3865.   \n[40]G.Kresse,J.Furthmüller,Phys.Rev.B1996,54,11169.   \n[41]G.Kresse,J.Hafner,Phys.Rev.B 1994,49,14251.   \n[42]P.E.Blochl,Phys.Rev.B1994,50,17953.   \n[43]A.I.Liechtenstein,V.I.Anisimov,J.Zaanen,Phys. Rev. B1995,52,R5467.   \n[44]G.Rousse,C.Masquelier, J.Rodriguez-Carvajal,E.Elkaim,J.P. Lauriat, J.L.Martinez,Chem.Mater.1999,11,3629.   \n[45] Z.Hu,J.Chem.Theory Comput.2014,10,5254.   \n[46] C.Pan,Z.Hu,J.Chem. Theory Comput.2014,10,534. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "SGML and CITI Use Only DO NOT PRINT ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A new method is proposed to study electrostatic interactions among polyhedral building-blocks in complex crystals within point charge approximation. By counting group interaction between neutral polyhedron unit pairs,the Madelung constant is obtained in matrix form,revealing the geometric correlations among interstitial sites in lattice.Distinct cationic distributions can be clasified according to Madelung energies by high-throughput matrix algebra. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/bdf01594cbfb1c4b051c2ffe7d2bd88d61d98e7f17c267cafa2e5df02a70e1a3.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    }
+]

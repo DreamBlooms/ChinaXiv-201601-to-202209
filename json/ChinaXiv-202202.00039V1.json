@@ -1,0 +1,995 @@
+[
+    {
+        "type": "text",
+        "text": "按属植物非挥发性化学成分和药理活性研究进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄丽平”²，周中流’2，伍影瑶¹，李春燕¹，张灿龙’²，薛中峰3（1．岭南师范学院，广东 湛江524048；2．粤西特色生物医药工程技术研究中心，广东 湛江 524048；3．广西中医药大学，南宁530200）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：桉属(EucalyptusL.Herit)是桃金娘科的大属，该属约600 余种，主要分布于世界各地热带亚热带地区。我国引入品种较多，主要分布于华南地区，其中广东和广西为桉树的主要种植基地。桉属植物具有较多的工业价值，其木材、叶、果实等是化学工业、香料、医药领域的重要原料，可用作开发高性能桉木重组材、竹桉复合材料、造浆与造纸等。桉属植物作为民间药材被使用，具有抑菌消炎、疏风解热、防腐止痒等功效，其药理研究表明，桉属植物具有良好的抗氧化、抗炎、抗菌、抗病毒、抗肿瘤、抗心血管疾病等药理活性。该研究拟通过查阅近三十年桉属植物相关的国内外文献报道，对桉属植物不同部位的421个非挥发性化学成分及其药理活性等进行了较详细的分类阐述，其中黄酮类化合物共73个、有机酸化合物共61个、萜类化合物共45个、多酚类化合物共229个、脂肪醇类化合物共13个，药理活性多集中在抗氧化、抗菌、抗病毒、抗肿瘤等，但相关机制仍需进一步阐明。该文旨在重点关注桉属植物的药用部位，充分发掘其药用价值，开展临床转化和新药研究工作，以期为今后桉属植物的进一步研究、开发和利用提供科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：桉属植物，非挥发性化学成分，结构分类，药理活性，研究进展",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research progress of non-volatile chemical components from Eucalyptus genus plants and their pharmacological activities ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HUANG Lipingl' ², ZHOU Zhongliul' 2\\*,WU Yingyaol,LI Chunyan1, ZHANG Canlongl' ², XUE Zhongfeng²’ 3   \n(1. Lingnan Normal University, Zhanjiang 524048, Guangdong, China; 2.Western Guangdong   \nCharacteristic Biology and Medicine Engineering and Research Center, Zhanjiang 524048, Guangdong, China; 3. Guangxi University of Chinese Medicine,Nanning 530220, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Eucalyptus L. Herit is a large genus of myrtidae with more than 6OO species, native to Australia and some of its northern islands and mainly distributed in tropical and subtropical regions of the world. Eucalyptus has the characteristics of fast growth, high yield, short rotation period and so on. It is an excellnt pulp material with remarkable economic benefits. There are many introduced species in China, mainly distributed in south China. Nearly 80 species have been introduced into China since 1890, widely distributed in Guangdong, Guangxi, Guizhou, Sichuan, Yunnan, Jiangxi and other places. At present, China has become one of the countries with the largest area of Eucalyptus plants in the world and is also the largest exporter of Eucalyptus oil. Eucalyptus has a lot of industrial value.Its wood,leaves and fruits are important raw materials in chemical industry， fragrance and medicine fields. They can be used for developing high performance Eucalyptus recombination material, bamboo Eucalyptus composite material, pulp and paper-making， etc. Eucalyptus plants are used as folk medicine，with anti-bacterial and anti--inflammatory, wind-relieving and anti-pyretic, anti-corrosion and anti-pruritic efects. As a traditional medicine,Australian aborigines were the first to use Eucalyptus for the treatment of fever and bronchial diseases； in China, the leaves of $E$ ：globulus Labill,E. robusta Smith.，E. exserta F.Muell.,，E. tereticornis Smith., E. citriodora Hook. are often used to treat influenza, dysentery, eczema, and injuries for a long time. Pharmacological studies show that Eucalyptus plantshavegoodanti-oxidant, anti-inflammatory， anti-bacterial， anti-viral， anti-tumor, anti-cardiovascular diseases and other pharmacological activities. In this study, 421 non-volatile chemical constituents from different parts of Eucalyptus and their pharmacological activities were classified and described in detail by referring to the domestic and foreign literatures related to Eucalyptus in recent 30 years. There were 73 flavonoids, 61 organic acids,45 terpenoids,229 polyphenols and 13 fatty alcohols. Most of the pharmacological activities are anti-oxidant, anti-bacterial,anti-viral and anti-tumor,but the related mechanisms still need to be further elucidated. The purpose of this study was to focus on the medicinal parts of Eucalyptus, fully explore their medicinal value,and carry out clinical transformation and new drug research, which could provide scientific basis for further research, development and utilization of Eucalyptus in the future. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Eucalyptus genus plants, non-volatile chemical components, structure classification. pharmacological activity, research progress ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "桉属（EucalyptusL.Herit），是桃金娘科（Myrtaceae）的大属，广泛种植于澳大利亚、印度尼西亚和马布亚新几里亚，常统称为桉树。其功能多样化，在生态方面可蓄水保土、固碳释氧、积累营养物质和净化环境；在药理作用方面，桉属植物长期以来作为民间药被使用，广泛应用于流行性感冒、痢疾、湿疹、跌打损伤等。中国引种桉树将近100年的历史，约80种，主要分布在福建、广东、广西、云南和四川等地，主要树种有细叶桉、赤桉、柠檬桉、窿缘桉、大叶桉、斜脉胶桉、蓝桉和直杆蓝桉等。桉属植物具有生长迅速、适应性广、产量高、材质优良等特性，是化学工业、香料、医药领域的重要原料。随着人们对健康的标准日益提高，均向往绿色天然且安全低毒的药物来达到治疗疾病的目的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前关于桉属植物的研究多集中在桉叶的挥发油部位，其挥发油的生物活性物质非常丰富，具有抗肿瘤、抗糖尿病、抗氧化、驱虫、抗菌等活性。国内外学者研究发现桉属植物中非挥发性化合物主要含有黄酮、多酚、萜类和有机酸等，具有抗氧化、抗炎、抗菌、抗病毒、抗肿瘤和抗心血管疾病等药理活性（Chattopadhyay et al.,2002；陈斌，2002；唐伟军等，2006;Achiwa et al.,2007;Steinkamp-fenske et al.,2007; Solmaz et al.,2014）。但目前对桉属植物非挥发性成分总结不够全面，化合物结构及其对应的生物活性缺乏系统的归纳总结。本研究依托Webof Science，PubMed和中国知网等数据库检索网站，整理了近30年以来有关桉属植物非挥发性成分的国内外研究论文进行分析，采用罗列、对比、总结归纳等方法，拟探讨以下问题：（1）桉属植物非挥发性成分的分类；（2）桉属植物非挥发性成分的来源；（3）",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "桉属植物非挥发性成分的药理活性和相关机制。本文旨在对其非挥发性化学成分的分类、来源、结构、生物活性等方面进行整理和归纳，以期为桉属植物的深入研究与开发提供参考。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1化学成分",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1黄酮类化合物",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "黄酮类化合物是指两个苯环通过三个碳原子相互连接而成的一系列化合物，即具有$\\mathrm { C } _ { 6 } – \\mathrm { C } _ { 3 } – \\mathrm { C } _ { 6 }$ 结构的化合物。国内外学者从桉属植物中分离得到73个黄酮类化合物（附表1），主要包括黄酮和黄酮醇类、二氢黄酮和二氢黄酮醇类、异黄酮类和黄烷醇类。其黄酮类化合物主要分布于叶中，黄酮类化合物数量达到62个。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2有机酸类化合物",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "有机酸是一种含有羧基的酸性有机化合物，结构分为脂肪酸和芳香酸。国内外学者在桉属植物中鉴定了61个有机酸类化合物（附表2），主要有二元羧酸、羟基酸、高级饱和脂肪酸和不饱和脂肪酸。桉属有机酸类化合物主要分布在叶和茎中，有机酸类化合物数量分别为28和19个。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3萜类化合物",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "萜类是异戊二烯的聚合体及其衍生物，其骨架一般以5个碳为基本单位。文献报道了桉属植物含42个三萜和3个非挥发性二萜类化合物（附表3和附表4）。桉属非挥发性萜类化合物的结构骨架主要为二萜和三萜，其中二萜类化合物具有直链和单环的结构特征。此外，三萜类化合物主要为五环三萜，结构骨架可分为乌苏烷型、齐墩果烷型和羽扇豆烷型。桉属萜类化合物主要分布在其树皮中，萜类化合物数量达到31个。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4多酚类化合物",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.1间苯三酚 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "桉属植物中报道了113个间苯三酚类化合物（附表5），基本骨架为1,3,5-三羟基苯。间苯三酚类化合物具有明显的结构特征： ${ \\bf R } _ { 1 }$ 常与邻位的酚羟基结合，结合的基团多数为单萜、倍半萜及二萜类结构片段，形成多环状化合物； ${ \\bf R } _ { 2 }$ 和 ${ \\bf R } _ { 3 }$ 一般为醛基、甲基、甲氧基、甲基丁酮等。桉属间苯三酚化合物主要分布在其叶中，间苯三酚化合物数量达到 76 个。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.2鞣质 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "鞣质是一类结构较为复杂的多元酚类化合物，主要由没食子酸及其衍生物构成。桉属植物中已发现82个鞣质（附表6），结构骨架主要为水解鞣质和缩合鞣质。桉属鞣质化合物主要分布在其叶和树皮中，鞣质化合物数量分别为58个和15 个。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.3酚酸类 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究发现桉属植物含34个酚酸化合物（附表7），结构骨架主要为苯甲酸类、苯烯丙酸、苯丙酸。其中，苯甲酸类可分为单羟基苯甲酸类，双羟基苯甲酸类和三羟基苯甲酸类。桉属酚酸类化合物主要分布在其叶中，酚酸类化合物数量达到28 个。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5脂肪醇类 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从桉属植物中鉴定了13个脂肪醇化合物（附表8），结构骨架主要为直链高级脂肪醇类，碳链含有8\\~29个碳原子，是合成醇系表面活性剂的主要原料。桉属脂肪醇类化合物主要分布在其叶中，脂肪醇类化合物数量达到11个。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 药理活性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1抗氧化活性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "桉属植物E.globules $50 \\%$ 乙醇提取物具有清除DPPH自由基活性，最大清除率为 $65 \\%$ ，其作用机制通过抑制基质金属蛋白酶（MMPs）和白介素-6（IL-6）的表达，增加转化生长因子 ${ \\bf \\nabla } \\cdot { \\bf \\{ \\beta \\} } 1$ （TGF- ${ \\bf \\nabla } \\cdot { \\bf \\{ \\beta \\} } 1$ ）和1型胶原蛋白的表达，调节TGF-β/Smad信号传导通路，减少皱纹的形成和防止皮肤干燥（Park etal.,2018）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "多酚类化合物317、318、320、324、368和387（图1）具有显著的抗氧化活性，可防止人肝癌细胞氧化及对DPPH和ABTS+两种自由基均具有较强的清除活性， $\\mathrm { I C } _ { 5 0 }$ 范围为$4 1 . 4 { \\sim } 5 3 8 . 7 \\mu \\mathrm { m }$ 。多酚类化合物352抗氧化活性最强， $\\mathrm { I C } _ { 5 0 }$ 为 $4 1 . 4 \\mu \\mathrm { m }$ ，其结构由一个单糖基连接5个没食子酸，形成含多个没食子酸的水解鞣质类化合物，其抗氧化活性与没食子酸密切相关（谢晓艳等，2011；肖苏尧等，2012）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "酚酸类化合物341、384和389具有单苯环类母核，结构含酚羟基和羧基，抗氧化能力强。341对DPPH、NO 和羟自由基清除率及抑制脂质过氧化的能力强于维生素C（Ma et al.,2010b；王艳芳等，2005），通过调节MMP和TGF- $_ { \\cdot \\beta 1 }$ 表达保护皮肤。368具有保护人脐静脉内皮细胞（HUVEC）免受辐射诱导的氧化应激损伤的作用，可能机制是通过调节PI3K和 ERK 信号通路，诱导Nrf2 活化，增加细胞内谷胱甘肽（GSH）和烟酰胺腺嘌呤二核苷酸磷酸（NADPH）含量，进而保护HUVEC免受辐射诱导的氧化应激损伤（Ma et al.,2010a）。389 通过JNK介导的磷酸化激活 Nrf2，增强小鼠巨噬细胞的谷胱甘肽过氧化物酶（GPx）和谷胱甘肽还原酶(GR）的表达，从而提高巨噬细胞抗氧化能力（Maetal.,2010b）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "此外，三萜类化合物152增加氧化应激敏感性转录因子Nrf2和MAP 激酶的表达来保护人肝细胞，使其免受叔丁基过氧化氢（t-BHP）诱导的细胞毒性；还具有消除ROS，抑制脂质过氧化和强化抗氧化防御系统的功能（Maetal.,2010a）。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/468036897157923508ba1652249426cd34806ef8b989ffe37dbd716661e0af11.jpg",
+        "img_caption": [
+            "图1具有抗氧化作用的化合物",
+            "Fig.1Structure of compounds with antioxidant properties "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 抗炎活性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "蓝桉乙醇提取物具有明显的抗炎镇痛作用，可显著减轻小鼠耳廓肿胀和提高毛细血管通透性，明显抑制大鼠棉球肉芽肿和阻止组胺从RBL $\\cdot 2 \\mathrm { H } _ { 3 }$ 细胞中的释放，从而达到抗炎及治疗哮喘的效果（何耀松等，2007；唐云等，2015）。另外，酚酸类化合物384 通过阻断 JNK信号通路，抑制辐射诱导的U937对HUVEC 的粘附，阻止细胞间黏附分子-1（ICAM-1）和血管细胞黏附分子-1（VCAM-1）的表达，发挥抗炎作用（Ma etal.,2010b）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3抗菌作用",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "桉属植物中具有抗菌活性的三萜类化合物主要为乌苏烷型和羽扇豆烷型（图2）。Chattopadhyay et al.(2002）发现熊果酸（151）具有抗菌活性强、广谱等特点，对金黄色葡萄球菌、腐生葡萄球菌、粪链球菌等细菌均表现出良好的抑制作用，最低抑菌浓度（MIC)为 $0 . 1 2 8 { \\sim } 2 \\ \\mathrm { m g { \\cdot } m L ^ { - 1 } }$ 。陈斌等（2002）报道了白桦酸（156）和 $2 \\alpha \\cdot$ -羟基熊果酸（153）对金黄色葡萄球菌和大肠杆菌表现出较强的抑菌活性，MIC 为 $1 2 . 5 { \\sim } 5 0 ~ \\mu \\mathrm { g } { \\cdot } \\mathrm { m L } ^ { - 1 }$ 。熊果酸和 $2 \\mu \\mathrm { . }$ 羟基熊果酸均有良好的抗菌活性，且羟基取代物抗菌活性有增大趋势。另外，酚类化合物间苯三酚化合物272和273对葡萄球菌和枯草杆菌具有良好的抑制作用，半数抑制浓度（ $\\mathrm { I C } _ { 5 0 }$ ）分别为3.9 和 $7 . 8 ~ \\mu \\mathrm { g } { \\cdot } \\mathrm { m L } ^ { - 1 }$ ，且 $\\mathfrak { a }$ 构型活性强于β构型。大果桉醛类化合物对革兰阳性菌有明显抑制活性，其中化合物217、218、219、220、224 和 233 均具有较强的抗龋齿和牙周病菌活性，MIC为 $0 . 3 9 { \\sim } 1 0 0 ~ \\mu \\mathrm { g } { \\cdot } \\mathrm { m L } ^ { - 1 }$ ，且抗菌活性强于抗菌剂百里酚；大果桉醛A-G（217-223）对金黄色葡萄球菌、枯草芽孢杆菌、藤黄微球菌和包皮垢分支杆菌的 $\\mathrm { I C } _ { 5 0 }$ 均处于 $0 . 7 8 \\substack { - 3 . 1 3 \\ \\mu \\mathrm { g } \\cdot \\mathrm { m L } ^ { - 1 } }$ 范围；化合物 233对变形链球菌和茸毛链球菌均表现出良好的抑制作用，MIC 分别为12.5和 $6 . 2 5 \\mu \\mathrm { g } \\cdot \\mathrm { m L } ^ { - 1 }$ （Osawa et al.，1996；付文卫等，2003；刘玉明，2004；Huang et al.，2014）。桉属植物中以大果桉醛类为代表的间苯三酚类化合物具有抗菌谱广、活性强等特点，有望从中发现新的天然抗菌先导化合物。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f23fe85a1b0f79d3f999a25487ad0193838ae71eb0c411b7c4f4624bf507c163.jpg",
+        "img_caption": [
+            "图2具有抗菌作用的化合物",
+            "Fig.2Structure of compounds with antibacterial activity "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4抗病毒作用",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "桉属植物提取物对甲型流感病毒、人类疱疹病毒和乙肝病毒均有一定的抑制作用。Wangetat al.(2005)以甲I型流感病毒感染的小鼠为研究对象，芦丁（53）表现出明显的抗甲I型流感病毒作用。Tang etal.(2015)报道了间苯三酚 207、202和220（图3）具有显著的抗人类疱疹病毒作用。三萜类化合物156、151和153具有较强的抗乙肝病毒作用，对乙肝表面抗原（HBsAg）的抑制率分别为 $4 7 . 0 \\%$ 、 $3 9 . 9 \\%$ 和 $30 . 2 \\%$ ，对乙型肝炎E抗原（HBeAg）的抑制率分别为 $12 . 3 \\%$ 、 $23 . 6 \\%$ 和 $1 3 . 9 6 \\%$ （陈斌，2002）。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f52d8aba2f14c2d841d7e66307e8a618c1911d0b22cad4dde24327479356157.jpg",
+        "img_caption": [
+            "图3具有抗病毒作用的化合物",
+            "Fig.3Structure of compounds with antiviral "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.5抗肿瘤作用",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.5.1抗白血病",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "白血病是血液系统恶性肿瘤的一种，Benyahia etal.(2004)研究发现黄酮类化合物13 和14（图4）可抑制人早幼粒细胞白血病细胞HL-60的存活和增殖，化合物13（ $\\mathrm { \\Delta } { \\cdot } \\mathrm { I C } _ { 5 0 } { = } 1 . 7 { \\pm } 0 . 1$ $\\mu \\mathrm { m o l } \\cdot \\mathrm { L } - 1$ ）的抑制作用强于14（ $\\mathrm { I C } _ { 5 0 } { = } 7 . 4 { \\pm } 2 . 3 ~ \\mathrm { \\mu m o l { \\cdot } L ^ { - 1 } }$ ），可能原因是B环对位甲氧基被羟基取代，导致活性降低。半胱天冬酶（caspases）在细胞凋亡的过程中起关键性作用，caspase-8 和caspase-3 的表达在各种癌症中显著下降。13 和14均通过活化caspase-8，激活caspase-3，释放细胞色素c，裂解聚腺苷二磷酸核糖聚合酶-1（PARP-1），使DNA无法修复，最终导致肿瘤细胞凋亡。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Solmaz etal.(2014)研究表明芹菜素（9）对伊马替尼敏感和耐药的慢性髓性白血病具有治疗潜力，通过磷酸化热休克蛋白27（Hsp27）、活化半胱天冬酶和促进HL-60 细胞中的线粒体去极化，从而诱导肿瘤细胞凋亡；另外，还通过降低线粒体膜电位（MMP）和激活caspase-3，诱导K562和K562/IMA3两种细胞凋亡，高剂量条件下可使K562 细胞周期停滞",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在G2/M期。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae9e78a04b0b54c01e7e72809376ee1553d4f163972f2daeac2e7b683230dcfa.jpg",
+        "img_caption": [
+            "Fig.4Structure of compounds with anti-leukemia "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5.2抗消化系统肿瘤",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "桉属植物中黄酮类化合物槲皮素（12）、异槲皮苷（18）、木犀草素（23）等对消化系统肿瘤具有很好的抑制作用（图5）。Huang etal.(2014)研究发现，化合物18对肝癌具有很强的抑制作用，其分子机制可能与丝裂原活化蛋白激酶（MAPK）和蛋白激酶C（PKC）信号通路密切相关。Sabry etal.(2021)研究发现，桉树水溶性树脂多酚对肝癌也具有抑制作用，其机制与抑制 MMP-9 和 TEF-β的基因表达相关。Solmaz et al.(2014)发现异槲皮苷通过激活caspase-3 发挥抑制 ERK 和p38-MAPK 蛋白磷酸化和促进应激活化蛋白激酶（JNK）的磷酸化，使肝癌细胞被阻滞在Gi期。化合物23可抑制人胃癌 BGC-823 细胞裸鼠移植瘤，且抑制作用强于阳性对照药 5-氟尿嘧啶。化合物12通过激活 5'-AMP 活化蛋白激酶（AMPK)/p38-MAPK通路，降低线粒体膜电位，使 AMPKα1磷酸化，抑制细胞的生长和增殖，从而诱导 HT-29 结肠癌细胞p53 突变细胞凋亡。此外，还可通过调节 AMPK/COX-2 通路，激活AMPK 磷酸化，抑制COX-2、PGs表达和血管生成，使细胞周期停滞在亚 $\\mathbf { G } _ { 1 }$ 期，最终诱导HT-29 结肠癌细胞凋亡（Lee et al.,2009）。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/23c16115d707daf90abdd3c63e482c405cbd8f02ab8c9e3f5aec171cf991a512.jpg",
+        "img_caption": [
+            "图 4具有抗白血病作用的化合物",
+            "图5具有抗消化系统肿瘤作用的化合物",
+            "Fig.5Structure of compounds with anti-digestive system tumors "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5.3抗乳腺癌、子宫癌 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "槲皮素（12）激活了MCF-7乳腺癌细胞，激活AMPKαl/ASK1/p38信号通路诱导乳腺癌细胞凋亡（Lee etal.,2010）。木犀草素（23）抑制MCF-7细胞增殖、Bcl-2 和基质金属蛋白酶2（MMP-2）蛋白表达，从而达到抗乳腺癌的效果（姜英等，2013）。Achiwa et al.(2007)发现熊果酸（151）具有抗子宫内膜癌作用，主要通过抑制子宫内膜癌细胞系 SNG-II 和低分化的 HEC108细胞系中的PI3K-Akt途径和 MAPK-P44/42途径，降低子宫内膜癌 SNG-II细胞中的PI3K水平，从而杀死肿瘤细胞。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.5.4广谱抗肿瘤作用",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "蓝桉总三萜具有广谱抑制肿瘤细胞生长作用，对人肺癌细胞A-549，人胃癌细胞 AGS、SGC-7901，人结肠癌细胞Caco-2、LS-174T 等各种类型癌细胞均有抑制作用，尤其是对小鼠黑色素瘤 B16，抑制率可达到 $5 5 . 6 \\%$ （陈斌，2002；刘玉明，2004）。刘玉明等（刘玉明，2004）发现苯三酚类化合物218对人肝、胃、食管等癌细胞具有显著的抑制活性。另外，化合物 211、215 和 216 对人肝癌细胞Huh-7、人外周血白血病T细胞 Jurkat、人胃癌细胞BGC-823 和浆细胞骨髓瘤细胞 KE-97均具有显著的抑制活性（唐伟等，2015）。化合物185和207可通过抑制由 TPA 诱导的细胞周期减少肿瘤形成(张广晶等,2014)。Solmaz et al.(2014)发现黄酮类化合物芹菜素（9）也可诱导多种肿瘤细胞凋亡，包括乳腺癌、宫颈癌、肺癌、卵巢癌、前列腺癌和肝癌，机制与PI3K（磷脂酰肌醇3-激酶）/Akt（蛋白激酶B）通路密切相关。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/804cb343bf88eee68888a7dd82d6c729b5097f9fea22c7183016af05a446795f.jpg",
+        "img_caption": [
+            "图6具有抗广谱抗肿瘤作用的化合物",
+            "Fig.6Structure of compounds with anti-spectral antitumor "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.6抗心血管疾病",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "动脉硬化和血栓性疾病的发病可能与高浓度的纤溶酶原激活剂抑制剂1(plasminogenactivator inhibitor type-1，PAI-1)有关，特异性抑制 PAI-1可增加纤维蛋白溶解，从而达到治疗动脉硬化和血栓性疾病作用。桉属植物间苯三酚类272-274、199、276 和204（图7）具有较强的抑制 PAI-1活性，其 $\\mathrm { I C } _ { 5 0 }$ 值分别为3.3、5.3、4.7、138、700 和 $1 5 2 \\ \\mathrm { \\mu m o l { \\cdot } L ^ { - 1 } }$ （付文卫等，2003；李伟，2015）。三萜类化合物也具有保护心脑血管的作用，ursolic acid（151)可通过抑制活性氧的产生，增加NO 的表达，发挥保护血管内皮功能。Betulinic acid（156)通过激活 PI3K 和 ERK/Nrf2 通路，上调血管平滑肌细胞（VSMC）中血管平滑肌细胞血红素氧合酶-1（HO-1）的表达，表现出抗动脉粥样硬化功能（Steinkamp-fenske et al.,2007;Fenget al., 2011）。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/46ea71ac8c0a1bf94d26442d2c312d0a44c8ff94d929c45b71d50de022c0f9b4.jpg",
+        "img_caption": [
+            "图7具有抑制I型纤溶酶原激活物作用的化合物"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.7其他作用",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "桉属植物中的间苯三酚类化合物具有较强的酶抑制活性（图8）。212具有抑制 P450酶活性，其 $\\mathrm { I C } _ { 5 0 }$ 值为 $3 8 . 8 \\ \\mathrm { \\mu m o l { \\cdot } m L ^ { - 1 } }$ （王冀，2012）。217-221能够抑制HIV逆转录酶，其$\\mathrm { I C } _ { 5 0 }$ 值分别为10、5.3、8.4、12 和 $8 . 1 \\ \\mu \\mathrm { m o l } \\cdot \\mathrm { L } ^ { - 1 }$ （李伟,2015）。217、218、220、221、272和273 等具有抑制醛糖还原酶活性，其中272和273 对醛糖还原酶的 $\\mathrm { I C } _ { 5 0 }$ 值分别为1.25和$2 . 4 7 \\ \\mu \\mathrm { m o l } { \\cdot } \\mathrm { L } ^ { - 1 }$ （Elaissi etal.,2011）。217-220、224-226 和 233 在浓度为 $1 0 0 ~ \\mu \\mathrm { g } \\cdot \\mathrm { m L } ^ { - 1 }$ 时均具有明显的抑制葡萄糖基转移酶活性，抑制作用强于阳性对照药（付文卫等，2003）。间苯三酚类化合物还表现出抗附着及拒食和抑制受精卵发育的药理作用，可抗驱逐蓝贝类mytilusedulis galloprovincialis 的附着（付文卫等，2003；王冀,2012）。此外，桉属黄酮类化合物可应用于农作物增产（宋永芳等，1984）。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d3b3ec00de1f2eb29281949fa066b5fc097c2488ccbd1a86530a3598d1d3e2f.jpg",
+        "img_caption": [
+            "Fig .7Structure of compounds with inhibition of Iplasminogen activator ",
+            "图8具有酶抑制活性的化合物",
+            "Fig.8Structure of compounds with enzyme inhibition activity "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3讨论和展望 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "目前桉属植物非挥发性化学成分的提取分离较系统和全面，从根、茎、叶、树皮和果实等中分离报道了421个非挥发性化合物，其中主要为黄酮类、有机酸类、萜类、多酚类和脂肪醇类成分，表现出较好的抗氧化、抗病毒、抗肿瘤等药理活性，但相关的作用机制尚浅，仍需进一步阐明。具体如下：（1）抗氧化活性多集中在乙醇提取物、多酚类化合物、简单酚酸类化合物和三萜类化合物，机制可能与TGF-β /Smad、PI3K/ERK/Nrf2等通路相关。（2）蓝桉乙醇提取物和酚酸类化合物表现出一定的抗炎镇痛活性，但如何发挥抗炎作用的具体作用靶点和机制仍需详细阐明。（3）抗菌作用主要集中在三萜类化合物和酚类化合物间苯三酚，但抑菌机制仍未明确。（4）桉属植物提取物的抗病毒作用较强，尤其对甲型流感病毒、人类疱疹病毒和乙肝病毒均有一定的抑制作用，但相关机制尚未完全清晰。（5）抗肿瘤作用主要集中在黄酮类化合物（芹菜素，槲皮素，木犀草素等）、蓝桉总三萜化合物、间苯三酚类化合物，对白血病、消化系统肿瘤以及其他癌症效果显著，机制研究深入，值得临床推广。（6）间苯三酚类和三萜类化合物表现出较好的抗动脉粥样硬化保护心脑血管功能，但机制仍不完全阐明。（7）间苯三酚类化合物还表现出有较强的酶抑制活性，如抑制HIV 逆转录酶、醛糖还原酶和葡萄糖基转移酶活性，提示其仍有很大的开发应用价值。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "总之，该植物的提取物具有诸多生物活性，但主要为挥发性成分，对非挥发性成分研究较少。根据目前已有的相关研究可在适宜的地区进行研究和推广，进一步分离提纯其有效成分，研究和阐明其化学结构、药理活性与作用机制，将有助于桉属植物资源的开发和利用。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "ABDEL-MOEIN N M, ABDEL-MONIEM EA, MOHAMED DA, et al., 2011. Evaluation of the anti-inflammatory and anti-arthritic effects of some plant extracts[J]. Grasas Aceites,   \n62(4): 365-374. ACHIWA Y, HASEGAWA K, UDAGAWA Y, 2007. Regulation of the phosphatidylinositol   \n3-kinase-akt and the mitogen-activated protein kinase pathways by ursolic acid in human endometrial cancer cells[J].Biosci Biotechnol Biochem, 71(1): 31-37. AL-SAYED E, SINGAB A,AYOUB N, et al., 2012. HPLC-PDA-ESI-MS/MS profiling and chemopreventive potential of Eucalyptus gomphocephala dc[J]. Food Chem， 133(3):   \n1017-1024. BENOUADAH N, PRANOVICH A, ALIOUCHE D, et al., 2018. Analysis of extractives from ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Pinus halepensis and Eucalyptus camaldulensis as predominant trees in Algeria[J].   \nHolzforschung, 72(2): 97-104. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "BENYAHIA S,BENAYACHE S,BENAYACHE F, et al., 2004. Isolation from Eucalyptus occidentalis and identification of a new kaempferol derivative that induces apoptosis in human myeloid leukemia cells[J]. J Nat Prod, 67(4): 527-531. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "BHUYAN DJ, VUONG QV, BOND DR， et al.， 2018. Eucalyptus microcorys leaf extract derived HPLC-fraction reduces the viability of mia paca-2 cells by inducing apoptosis and arresting cell cycle[J]. Biomed Pharmacotherapy, 105: 449-460. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "BOULEKBACHE MAKHLOUF L, MEUDEC E, MAZAURIC JP, et al., 2013. Qualitative and semi-quantitative analysis of phenolics in Eucalyptus globulus leaves by high-performance liquid chromatography coupled with diode array detection and electrospray ionisation mass spectrometry[J].Phytochem Analysis,24(2): 162-170. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "CHATTOPADHYAY D, ARUNACHALAM G, MANDAL AB, et al., 2002. Antimicrobial and anti-inflammatory activity of folklore: Mallotus peltatus leaf extract[J]. J Ethnopharmacol, 82(2-3): 229-237. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "CHEN B, 20O2. Study on a ctive constituents of fruit of Eucalyptus globules[D]. Shanghai: The Second Military MedicalUniversity.[陈斌，2002．蓝桉果实活性成分的研究[D]．上海： 第二军医大学.] ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "CHEN HZ,HUANG JS, WANG JL, et al.,2015. Total polyphenol and antioxidant activities of‘Guanglin No.9'eucalyptus leaves from different months[J]. Sci Technol Food Ind, 34(17):56-59.[陈洪璋，黄景晟，王俊亮，等，2013．不同月份\"广林9号\"桉叶粗提物总酚含量与抗氧化活性研究[J]．食品工业科技，34(17)：56-59.]",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "CHEN Y,WANG J, OU Y, et al., 2014. Cellular antioxidant activities of polyphenols isolated from Eucalyptus leaves (Eucalyptus grandis $\\times$ Eucalyptus urophylla GL9)[J]. J Funct Foods, 7: 737-745. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "CHEN YQ,LIW, CHEN HZ,et al.，2016.The isolation and purification of compounds fromEucalyptus leaves and their antioxidant activity[J]. Eucalypt Sci Technol, 33(2): 25-32. [陈运娇，李伟，陈洪璋，等，2016.桉叶抗氧化物分离纯化及其抗氧化活性的研究[J]．桉树科技，33(2):25-32.]",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "DOMINGUES RMA，OLIVEIRA ELG，FREIRE CSR，et al.，2012. Supercritical fluid",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "extraction of Eucalyptus globulus bark-a promising approach for triterpenoid production[J].   \nInt JMol Sci, 13(6): 7648-7662. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "DOMINGUES RMA, SOUSA GDA,FREIRE CSR, et al., 2010. Eucalyptus globulus biomass residues from pulping industry as a source of high value triterpenic compounds[J]. Ind Crop Prod, 31(1): 65-70. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "DOMINGUES RMA， SOUSA GDA，SILVA CM，et al.，2011. High value triterpenic compounds from the outer barks of several eucalyptus species cultivated in Brazil and in Portugal[J]. Ind Crop Prod, 33(1): 158-164. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "ELAISSI A,MEDINI H, SIMMONDS M, et al.,2011. Variation in volatile leaf oils of seven eucalyptus species harvested from Zerniza Arboreta (Tunisia)[J]. Chem Biodivers,8(2): 362-372. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "FENG J, ZHANG P, CHEN X, et al., 2011.PI3K and ERK/Nrf2 pathways are involved in oleanolic acid-induced heme oxygenase-1 expression in rat vascular smooth muscle cells[J]. J Cell Biochem, 112(6): 1524-1531. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "FU WW, ZHAO CJ,PEI YP, et al.， 2003. Chemical constituents and biological activities ofeucalyptus[J].Drugs Clinic,18(2): 51-58.[付文卫，赵春杰，裴玉萍，等，2003．桉属植物的化学成分与生物活性[J]．国外医药(植物药分册)，18(2)：51-58.]",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "GAO X, 2017. Extraction and analysis of effective components from Eucalyptus[D]. Nanning;GuangxiUniversity.[高璇，2017．窿缘桉树有效成分的提取及分析[D]．南宁：广西大学.]GUAN XF, GUO QY, HUANG XJ, et al., 2015. A new flavonoid glycoside from leaves ofEucalyptus robusta[J]. Chin JChin Mat Med,40(24): 4868-4872.[管希锋,郭倩仪，黄晓君,等，2015．大叶桉叶中一个新的黄酮苷[J]．中国中药杂志，40(24)：4868-4872.]",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "GULLON B,MUNIZ-MOURO A, LU-CHAU TA, et al.， 2019.Green approaches for the extraction of antioxidants from eucalyptus leaves[J]. Ind Crop Prod, 138: 111473. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "GUIMARAES R, BARROS L, CARVALHO AM, et al., 2009. Aromatic plants as a source of important phytochemicals: vitamins, sugars and fatty acids in cistus ladanifer, cupressus lusitanica and Eucalyptus gunni leaves[J]. Ind Crop Prod, 30(3): 427-430. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "GU ZB, YAN L，XU YX,et al.， 2001. Studies on chemical constituents of Eucalyptuscamaldulensis var.pendula[J].Chin Trad Herb Drugs,(4): 12-13.[顾正兵，闫露，徐一新，等，2001．垂枝赤桉的化学成分研究[J]．中草药，(4)：12-13.]",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "HAKKI Z， CAO B,HESKES AM, et al.， 2010. Synthesis of the monoterpenoid esters cypellocarpin c and cuniloside b and evidence for their widespread occurrence in eucalyptus[J]. Carbohyd Res, 345(14): 2079-2084. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "HE YS, ZHANG JD, 2007. Progress on chemical constituents and pharmacological effects ofeucalyptus[J].Prog VeterMed,28(7):98-101.[何耀松，张继东，2007．桉树化学成分及药理作用研究进展[J]．动物医学进展，28(7)：98-101.]",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "HUANG BS,2013. Chemical composition， Antimicrobial and antioxidative properties from leaves of eucalyptus growing in Guangdong[D]. Guangzhou: Guangdong Pharm University. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[黄炳生，2013．广东桉树叶化学成分及其抗菌抗氧化活性研究[D].广州：广东药学院.]HUANG G, TANG B, TANG K, et al.，2014. Isoquercitrin inhibits the progression of livercancer in vivo and in vitro via the MAPK signalling pathway[J]. Oncol Rep,31(5):2377-2384.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "HUI LIU, MI-YAN FENG, QIAN YU, et al., 2018. Formyl phloroglucinol meroterpenoids from eucalyptus tereticornis and their bioactivities[J]. Tetrahedron,74(13): 1540-1545. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "IBRAHIM M,AMBREEN S,HUSSAIN A，et al.，2014. Phytochemical investigation on Eucalyptus globulus Labill[J]. Asian J Chem, 26(4): 1011-1014. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "JIANG Y, XIE KP, HUO HN, et al., 2013. Inhibitory effect of luteolin on the angiogenesis ofchick chorioallantoic membrane and invasion of breast cancer cells via downregulation ofAEG-1 and MMP-2[J].Acta Physiol Sin,65(5): 513-518.[姜英，谢鲲鹏，霍洪楠，等，2013.木犀草素下调 AEG-1和 MMP-2 的表达对血管生成和乳腺癌细胞侵袭性的抑制作用[J].生理学报，65(5)：513-518.]",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "KAHLA Y, ZOUARI-BOUASSIDA K, REZGUI F, et al., 2017. Efficacy of eucalyptus cinerea as a source of bioactive compounds for curative biocontrol of crown gall caused by agrobacterium tumefaciens strain B6[J].Biomed Res Int, 2017: 9308063. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "LEE YK, HWANG JT, KWON DY, et al., 2010. Induction of apoptosis by quercetin is mediated through AMPKα1/ASK1/p38 pathway[J]. Cancer Lett 292(2): 228-236. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "LEE Y, SONG YP, KIM Y, et al.， 2009. AMP kinase/cyclooxygenase-2 pathway regulates proliferation and apoptosis of cancer cells treated with quercetin[J]. Exp Mol Med, 41(3): 201-207. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "LEI QC， 2017. Study on the bioactivities and active constituents of Eucalyptus globulus leaves[D].Hangzhou: Zhejiang Gongshang University.[雷启成，2017.蓝桉叶的生物活性 及活性成分研究[D]．杭州：浙江工商大学.] ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "LIANG QS & WEI JX, 1985. Research progress on chemical and physiological activecomponents of eucalyptus[J]. Eucalypt Sci & Technol, (2): 25-46.[梁庆桑和魏景新，1985.桉属植物的化学及其生理活性成分的研究进展[J]．桉树科技，(2):25-46.]",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "LI J,XU HH,2Ol4.Isolation,structural ldentification and bioactivity of chemical constituentsfrom the bark of Eucalyptus exserta F.MuellJ]. Nat Prod Res Dev,26(9): 1345-1349.[李晶晶，徐汉虹，2014．窿缘桉树皮化学成分的分离鉴定及其生物活性研究[J]．天然产物研究与开发，26(9)：1345-1349.]",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "LIU YM, CAI YF,WU YT, et al., 2004. Study on the essential oil from the fruit of Eucalyptus globulus Labill. and E. robusta smith by GC-MS[J]. Chin J Pharm Anal, 24(1): 24-26.[刘玉 明，柴逸峰，吴玉田，等，2004.GC-MS 对蓝桉果实及大叶桉果实挥发油成分研究[J]．药 物分析杂志，24(1):24-26. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "LI W,2015. Research advances on phloroglucinol derivatives in plants of EucalyptusL'Heritier[J].Chin Trad Herb Drugs,46(23): 3592-3604.[李伟,2015．桉属植物中间苯三酚衍生物的研究进展[J]．中草药，46(23)：3592-3604.]",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "LIU YM, 2Oo4. Studies on chemical constituents of fruit of Eucalyptus globules and its quality control[D]. Shanghai: The Second Military Medical University.[刘玉明，2004．蓝桉果实化 学成分及质量控制研究[D]．上海：第二军医大学药物分析学.] ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "MA ZC，HONG Q，WANG YG，et al.， 2010. Ferulic acid protects human umbilical vein endothelial cells from radiation induced oxidative stress by phosphatidylinositol 3-kinase and extracellular signal-regulated kinase pathways[J]. Biol Pharm Bull, 33(1): 29-34. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "MA ZC，HONG Q，WANG YG，et al.， 2010. Ferulic acid attenuates adhesion molecule expression in gamma-radiated human umbilical vascular endothelial cells[J]. Biol Pharm Bull, 33(5): 752-758. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "NIKBAKHT MR，RAHIMI-NASRABADI M,AHMADI F,et al.，2015.The chemical composition and in vitro antifungal activities of essential oils of five Eucalyptus species[J]. J ESSENT OIL BEAR PL, 18(3): 666-677. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "OKBA MM, GEDAILY RAE, ASH RM, 2017. UPLC-PDA-ESI-qTOF-MS profiling and potent anti-HSV-II activity of Eucalyptus sideroxylon leaves[J]. J chromatogr B， 1068-1069: ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "335-342. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "OSAWA K, YASUDA H, MORITA H, et al.,1996. Macrocarpals H, I, and J from the leaves of Eucalyptus globulus[J]. JNat Prod, 59(9): 823-827. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "PAN M,LEI Q, ZANG N, et al., 2019. A strategy based on GC-MS/MS, UPLC-MS/MS and virtual molecular docking for analysis and prediction of bioactive compounds in Eucalyptus globulus leaves[J]. Int JMol Sci, 20(16): 3875. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "PARK B, HWANG E, SEO SA， et al.， 2018. Eucalyptus globulus extract protects against UVB-induced photoaging by enhancing collagen synthesis via regulation of TGF-β/Smad signals and attenuation of AP-1[J]. Arch Biochem Biophys, 637(1): 31-39. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "PARREIRA P,SOARES BIG,FREIRE SR, et al., 2017. Eucalyptus spp. outer bark extracts inhibit helicobacter pylori growth: in vitro studies(Article)[J]. Ind Crop Prod, 207-214. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "PAVLOVA L V, PLATONOV I A, NIKITCHENKO NV, et al., 2017. Extraction of biologically active compounds from eucalyptus (Eucalypti viminalis Labill) leaves by subcritical water and water-ethanol mixtures[J]. Russ JPhys Chem B,11(7): 1129-1143. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "PUIG CG, REIGOSA M J, VALENTAO P, et al., 2018. Unravelling the bioherbicide potential of Eucalyptus globulus Labil: biochemistry and effects of its aqueous extract[J]. PLoS ONE, 13(2): 19-28. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "QIN GW & XU RS,1986. Studies on chemical constituents of Eucalyptus grandis-isolation andidentification of phenol B and other components of Eucalyptus grandis[J]. Acta Chim Sin,44(2):151-156.[秦国伟和徐任生，1986.大叶桉化学成分的研究-大叶桉酚乙和其它成分的分离和鉴定[J]．化学学报，44(2)：151-156.]",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "RODRIGUES VH,DE MELO MMR, PORTUGAL I, et al.，2018.Extraction of eucalyptus leaves using solvents of distinct polarity. cluster analysis and extracts characterization[J]. J Supercrit Fluid, 135: 263-274. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "SABRY OM， SABRY MO,EI-SONBATY et al.， 2021. In-vivo and in-silico studies of eucalyptus kino polyphenolics: outstanding activity in quenching solid liver tumors through inhibitionofMMP-9andTGF- $\\cdot \\beta$ gene expression[J]. Nat Prod Res， DOI: 10.1080/14786419.2021.1961254 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "SHEN ZB & XU JP, 1987. Studies on chemical constituents of Eucalyptus citri leaves (second report)-isolation and identification of flavonoids[J]. Chem Ind For Prod, (2): 29-35.[沈兆邦 和徐建平，1987．柠檬桉叶化学成分研究(二报)-黄酮类化合物的分离鉴定[J]．林产化学 与工业，(2):29-35.] ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "SHEN ZB & YU QZ, 1986. Study on chemical constituents of Eucalyptus citri leaves (firstreport)[J].Chem IndFor Prod,(3):30-33.[沈兆邦和虞启庄，1986．柠檬桉叶化学成分研究(一报)[J]．林产化学与工业，(3)：30-33.]",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "SHUDAN ZHENG,HUI FANG, JIFENG LIU. 2021， Study on chemical constituents and bioactivities from Eucalyptus globulus[J]. Med Res,5: 210007   \nSILVERIO FO，BARBOSA L CA，FIDENCIO PH，et al.， 2011. Evaluation of chemical composition of eucalyptus wood extracts after different storage times using principal component analysis[J]. J wood Chem Technol, 31(1): 26-41.   \nSONG YF, WANG BL, YU Q, et al., 1984. Extraction of flavonoids from eucalyptus leaves and its application in agriculture[J]. Chem Ind For Prod,(2):19-28.[宋永芳，王碧兰，郁青，等， 1984．桉树叶中黄酮类的提取及其在农业上的应用[J]．林产化学与工业，(2):19-28.]   \nSOLMAZ S, ADAN GOKBULUT A, CINCIN B, et al., 2014. Therapeutic potential of apigenin, a plant flavonoid, for imatinib-sensitive and resistant chronic myeloid leukemia cells[J]. Nutr Cancer, 66(4): 599-612.   \nSTEINKAMP-FENSKE K, BOLLINGER L, LLER N V, et al., 2007. Ursolic acid from the chinese herb danshen (Salvia miltiorrhiza L.） upregulates eNOS and downregulates nox4 expression in human endothelial cells[J]. Atherosclerosis,195(1): e104-e111.   \nSTEINKAMP-FENSKE K, BOLLINGER L,LLER NV, et al.， 2007. Ursolic acid from the chinese herb danshen (Salvia miltiorrhiza L.) upregulates eNOS and downregulates nox4 expression in human endothelial cells[J]. Atherosclerosis,195(1): 104-111.   \nTANG WJ， ZHOU JF，LI XN，et al., 2006.Study on the chemical components in leaf essential oil of Eucalyptus robusta[J].JAnal Sci, 22(2): 182-186.[唐伟军，周菊峰，李晓宁，等, 2006.大叶桉叶挥发油的化学成分研究[J]．分析科学学报，22(2)：182-186.]   \nTANG Y,LI W， 2015. Research advances on chemical constituents of Eucalyptus globulus and their pharmacological activities[J]. Chin Trad Herb Drugs, 46(6): 923-931.[唐云,李伟,2015. 蓝桉的化学成分及其药理活性研究进展[J]．中草药，46(6)：923-931.]   \nTHI-ANH， XIAO-LONG HU， XIAO-JUN HUANG et al.， 2019. Phloroglucinols with immunosuppressive activities from the fruits of Eucalyptus globulus[J]. J Nat Prod, 82(4): ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "859-869. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "TIAN L, XU M, LI Y, 2012.Phenolic compounds from the branches of Eucalyptus maideni[J]. Chem Biodivers, 9(1): 123-130. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "TSIRI D，ALIGIANNIS N，GRAIKOU K，et al.，2008.Triterpenoids from Eucalyptus camaldulensis dehnh. tissue cultures[J]. Helv Chim Acta, 91(11): 2110-2114. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "VUONG QV, CHALMERS AC, JYOTI BHUYAN D, et al., 2015. Botanical, phytochemical, and anticancer properties of the Eucalyptus species[J]. Chem Biodivers,12(6): 907-924. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "WANG C, YANG J, ZHAO P, et al., 2014. Chemical constituents from Eucalyptus citriodora hook leaves and their glucose transporter 4 translocation activities[J]. Bioorg Med Chem Lett, 24(14): 3096-3099. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "WANG J， XU JJ, QIAO W, et al.， 2016. Chemical constituents from fruits of Eucalyptusglobulus[J].Chin Trad Herb Drugs,47(24): 4336-4339.[王佳，许娇娇，乔卫，等，2016.蓝桉果实化学成分研究[J]．中草药，47(24)：4336-4339.]",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "WANG YF, WANG XH, ZHU YT, et al., 2005. Inhibitory effect of rutin on influenza a virus[J].Chin Arch Trund Chin Med,(5):827．[王艳芳，王新华，朱宇同，等，2005．芦丁对甲型流感病毒抑制作用实验研究[J]．中华中医药学刊，(5)：827.]",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "WANG Y,2012. Studies on the chemical and bioactive constituents from the fruits of Eucalyptus globulus[D]. Shanghai: East China normal Univercity.[王冀，2012.中药蓝桉果 实化学成分及其生物活性研究[D]．上海：华东师范大学.] ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "XAVIER L, FREIRE MS,VIDAL-TATO I, et al.， 2014. Aqueous two-phase systems for the extraction of phenolic compounds from eucalyptus (Eucalyptus globulus） wood industrial wastes[J]. J Chem Technol Biot, 89(11): 1772-1778. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "XIAO SR, CHEN XX, CHEN YJ, et al., 2012. Research progress in antioxidant activities ofeucalyptus leaves[J].Technol Food Ind,33(14):396-399.[肖苏尧，陈雪香，陈运娇，等，2012.桉叶抗氧化作用研究进展[J]．食品工业科技，33(14)：396-399.]",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "XIE XY,LIU HT, ZHANG J, et al., 2011. Study on the antioxidative activity of gallic acid invitro[J].JChongqing Med Univ,36(3):319-322.[谢晓艳，刘洪涛，张吉，等，2011．没食子酸体外抗氧化作用研究[J]．重庆医科大学学报，36(3)：319-322.]",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "ZHANG GJ, YANG YY, ZHANG SY et al.， 2014. Research on chemical composition oflanan[J].WJTrad Chin Med,(9):162-165.[张广晶，杨莹莹，张舒媛，等，2014．蓝桉化",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "学成分研究[J]．西部中医药，(9)：162-165.]",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "ZHOU HG, ZHU XA,LIU YH, et al.,2015. Effects of ethanol extracts from eucalyptus leaveson uric acid metabolism of hogs[J]. Guangdong Agric Sci, 42(22): 92-96.[周国海，朱晓艾,刘又豪，等，2015．桉叶醇提物对育肥猪体内尿酸代谢作用的研究[J]．广东农业科学，42(22): 92-96.]",
+        "page_idx": 19
+    },
+    {
+        "type": "table",
+        "img_path": "images/cd18d7b5ebadf7d30396024621724b8d9f8be50f6b474433bc2936607a42cbe2.jpg",
+        "table_caption": [
+            "附表1桉属植物中黄酮类化合物 ",
+            "Supplementary Table 1Flavonoids from Eucalyptus species "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号 No.</td><td>uppr 化合物</td><td>来源</td><td>部位</td><td>参考文献 Reference</td></tr><tr><td>1</td><td>Compound 杨梅素己糖苷</td><td>Source 钉头桉</td><td>Position 叶Leaf</td><td>Al-sayede et al., 2012</td></tr><tr><td>2</td><td>Myricetin hexoside 槲皮素己糖苷 Quercetin hexoside</td><td>E. gomphocephal 钉头桉 E. gomphocephal</td><td>叶Leaf</td><td>Al-sayede et al., 2012</td></tr><tr><td>3</td><td>戊酸双内酯 Valoneic acid dilactone</td><td>钉头桉 E. gomphocephal</td><td>叶Leaf</td><td>Al-sayede et al., 2012</td></tr><tr><td>4</td><td>杨梅素戊糖苷 Myricetin pentoside</td><td>钉头桉 E. gomphocephal</td><td>叶Leaf</td><td>Al-sayede et al., 2012</td></tr><tr><td>5</td><td>槲皮素戊糖苷 Quercetin pentoside</td><td>钉头桉 E. gomphocephal</td><td>叶Leaf</td><td>Al-sayede et al., 2012</td></tr><tr><td>6</td><td>异戊酸双内酯 Isovaloneic acid dilactone</td><td>钉头桉 E. gomphocephal</td><td>叶Leaf</td><td>Al-sayede et al., 2012</td></tr><tr><td>7</td><td>4',5,7-三甲氧基山奈酚</td><td>钉头桉</td><td>叶Leaf</td><td>Al-sayede et al., 2012</td></tr><tr><td>8</td><td>4',5,7-Trimethoxykaempferol 美西汀 Mearnsetin</td><td>E. gomphocephal 蓝桉E.globulus</td><td>树皮 Bark</td><td>唐云等，2015</td></tr><tr><td>9</td><td>芹菜素 Apigenin</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>Bhuyandj et al., 2018</td></tr><tr><td>10</td><td>槲皮苷Quercitrin</td><td>蓝桉E.globulus</td><td>果实Fruit</td><td>Liu et al., 2004</td></tr><tr><td>11</td><td>槲皮素Quercetin</td><td>小帽桉</td><td>果实Fruit</td><td>Liu et al., 2004</td></tr><tr><td>12</td><td>花青素 Anthocyanidin</td><td>E. microcory 柠檬桉</td><td>叶Leaf</td><td>Chen et al., 2016</td></tr><tr><td>13</td><td>6,8-Di-C-methylkaempferol</td><td>E. citriodora 西方桉</td><td>叶Leaf</td><td>Benyahias et al., 2004</td></tr><tr><td>14</td><td>3,4'-dimethyl ether 6,8-Di-C-methylkaempferol</td><td>E. occidentalis 西方桉</td><td>叶Leaf</td><td>Benyahias et al., 2004</td></tr><tr><td>15</td><td>3-Methyl ether 2R,3α-dihydroxyurs-12en-28-0i</td><td>E. occidentalis 西方桉</td><td>叶Leaf</td><td>Benyahias et al., 2004</td></tr><tr><td>16</td><td>c acid Engeletin</td><td>E. occidentalis 红铁木桉</td><td>叶Leaf</td><td>Okbamm et al., 2017</td></tr><tr><td></td><td></td><td>E. sideroxylon 小帽桉</td><td></td><td></td></tr><tr><td>17</td><td>山奈酚 Kaempferol</td><td>E. microcorys</td><td>叶Leaf</td><td>Bhuyandj et al., 2018</td></tr><tr><td>18</td><td>异槲皮苷Isoquercitrin</td><td>柠檬桉E.citriodora</td><td>叶Leaf</td><td>Wang et al., 2014</td></tr></table></body></html>",
+        "page_idx": 19
+    },
+    {
+        "type": "table",
+        "img_path": "images/a04d7afbde628acbf12828d94a7e2720e93a37ebc5809b40ba1b0ef7c22297e4.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>20</td><td>杨梅素Myricitrin</td><td>柠檬桉E.citriodora</td><td>叶Leaf</td><td>Wang et al., 2014</td></tr><tr><td>21</td><td>花旗松素 Taxifolin</td><td>蓝桉E.globulus</td><td>树皮 Bark</td><td>唐云等，2015</td></tr><tr><td>22</td><td>Myricetin</td><td>蓝桉E.globulus</td><td>果实Fruit</td><td>Zhang et al., 2014</td></tr><tr><td>23</td><td>木犀草素 Luteolin</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>雷启成，2017</td></tr><tr><td>24</td><td>柠檬醇 Citriodorol</td><td>柠檬桉 E.citriodora</td><td>叶Leaf</td><td>Chen et al., 2016</td></tr><tr><td>25</td><td>Rhamnazin</td><td>蓝桉E. globulus</td><td>树皮Bark</td><td>唐云等，2015</td></tr><tr><td>26</td><td>鼠李素 Rhamnetin</td><td>蓝桉E. globulus</td><td>叶Leaf</td><td>黄炳生，2013</td></tr><tr><td>27</td><td>二苯乙烯 Distylin</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>黄炳生，2013</td></tr><tr><td>28</td><td>Myricetin</td><td>赤桉 E.rostrata</td><td>叶Leaf</td><td>Bhuyandj et al., 2018</td></tr><tr><td>29</td><td>无色花色素 Leucoanthocyanidin</td><td>窿缘桉 E. exserta</td><td>叶Leaf</td><td>Chen et al., 2016</td></tr><tr><td>30</td><td>Brevifolincarboxylic acid</td><td>钉头桉</td><td>叶Leaf</td><td>Al-sayede et al., 2012</td></tr><tr><td>31</td><td>没食子葡萄糖</td><td>E. gomphocephal 钉头桉</td><td>叶Leaf</td><td>Al-sayede et al., 2012</td></tr><tr><td></td><td>Galloylglucopyranose</td><td>E. gomphocephal 钉头桉</td><td></td><td></td></tr><tr><td>32</td><td>槲皮素苷 Quercetin glycoside</td><td>E. gomphocephal</td><td>叶Leaf</td><td>Al-sayede et al., 2012</td></tr><tr><td>33 34</td><td>原花青素 Procyanidin 异鼠李素 Isorhamnetin</td><td>窿缘桉 E.exserta</td><td>叶Leaf</td><td>Chen et al., 2016</td></tr><tr><td>35</td><td>柠檬桉皮苷 Citriceucalypidin</td><td>蓝桉E.globulus 柠檬桉E.citriodora</td><td>树皮Bark</td><td>唐云等，2015 Chen et al., 2016</td></tr><tr><td></td><td>3-甲基鼠李糖苷</td><td></td><td>叶Leaf</td><td></td></tr><tr><td>36</td><td>3-Methyl rhamnazin</td><td>蓝桉E. globulus</td><td>叶Leaf</td><td>黄炳生，2013</td></tr><tr><td>37</td><td>Quercetin-3-O-glycoside</td><td>蓝桉E.globulus</td><td>茎 Stem</td><td>Xavier et al., 2014</td></tr><tr><td>38</td><td>胡萝卜甾醇 Daucosterol</td><td>桉树 E. globulus</td><td>叶Leaf</td><td>顾正兵等，2001</td></tr><tr><td>39</td><td>Guaijaverin 山奈酚-7-甲基醚</td><td>桉树E.globulus</td><td>叶Leaf</td><td>陈洪璋等，2013</td></tr><tr><td>40</td><td>Kaempferol-7-methyl ether</td><td>桉E.robust</td><td>叶Leaf</td><td>Chen et al., 2016</td></tr><tr><td>41</td><td>Aromadendrin dimethyl ether Kaempferol</td><td>桉E.robust</td><td>叶Leaf</td><td>Chen et al., 2016</td></tr><tr><td>42</td><td>3-O-β-D-galactoside Quercetin</td><td>桉E.robust</td><td>叶Leaf</td><td>管希锋等，2015</td></tr><tr><td>43</td><td>3-O-β-D-galactopyranoside</td><td>桉树E. globulus</td><td>叶Leaf</td><td>Gullón et al., 2019</td></tr><tr><td>44</td><td>芹菜素葡萄糖醛酸苷 Apigenin glucuronide</td><td>钉头桉 E. gomphocephal</td><td>叶Leaf</td><td>Al-sayede et al., 2012</td></tr><tr><td>45</td><td>Quercetin-3-O-glycoside</td><td>柠檬桉E.citriodora</td><td>叶Leaf</td><td>Chen et al., 2016</td></tr><tr><td>46</td><td>槲皮素鼠李糖苷</td><td>钉头桉</td><td>叶Leaf</td><td>Al-sayede et al., 2012</td></tr><tr><td>47</td><td>Quercetin rhamnoside Quercetin-3-O-glucoside</td><td>E. gomphocephal 柠檬桉E.citriodora</td><td>叶Leaf</td><td>Chen et al., 2016</td></tr><tr><td>48</td><td>Puercetin-3-O-arabinoside</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>Pan et al., 2019</td></tr><tr><td>49</td><td>Puercetin-3-O-glucuronide</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>Pan et al., 2019</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>50</td><td>Myricetin-3-O-rhamnoside</td><td>柠檬桉E.citriodora叶 Leaf</td><td></td><td>Chen et al., 2016</td></tr></table></body></html>",
+        "page_idx": 20
+    },
+    {
+        "type": "table",
+        "img_path": "images/c3b7f159f7b4b243ee2a7d464fc8789b550712ec4820b89619e6f2540a62f074.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\"></td></tr><tr><td>51</td><td>Myricetin-3-O-glucoside</td><td>柠檬桉E.citriodora</td><td>叶Leaf</td><td>Chen et al., 2016</td></tr><tr><td>52</td><td>ProcyanidindimerB-type</td><td>红铁木桉 E. sideroxylon</td><td>叶Leaf</td><td>Okba et al., 2017</td></tr><tr><td>53</td><td>芦丁Rutin</td><td>蓝桉E.globulus</td><td>果实Fruit</td><td>Liu et al., 2004</td></tr><tr><td>54</td><td>4',3,5,7-四羟基黄酮 4',3,5,7-Tetrahydroxyflavone</td><td>E. weeping</td><td>叶Leaf</td><td>管希锋等，2015</td></tr><tr><td>55</td><td>二氢槲皮素 Dihydro-quercetrin(astilbin)</td><td>红铁木桉 E. sideroxylon</td><td>叶Leaf</td><td>Okba et al., 2017</td></tr><tr><td>56</td><td>Benzyl-digalloylglucopyranose</td><td>钉头桉 E. gomphocephal</td><td>叶Leaf</td><td>Al-sayede et al., 2012</td></tr><tr><td>57</td><td>Quercetin galloylpentoside</td><td>钉头桉 E. gomphocephal</td><td>叶Leaf</td><td>Al-sayede et al., 2012</td></tr><tr><td>58</td><td>5-羟基-4,7-二甲氧基-6-甲基 黄酮 5-Dydroxyl-4,7-dimethoxy-6-m</td><td>蓝桉E.globulus</td><td>果实Fruit</td><td>张广晶等,2014</td></tr><tr><td>59</td><td>ethyflavone 5-Dydroxyl-4',7-dimethoxy-6,8 -dimethyflavone</td><td>桉E.robust</td><td>叶Leaf</td><td>Chen et al., 2016</td></tr><tr><td>60</td><td>Quercetin-3-O-(6'-n-butyl)-glu curonide</td><td>桉E.robust</td><td>叶Leaf</td><td>Chen et al., 2016</td></tr><tr><td>61</td><td>Quercetin-3-O-α-arabopyranos e-2\"-gallata</td><td>桉树E.globulus</td><td>叶Leaf</td><td>陈洪璋等，2013</td></tr><tr><td>62</td><td>Kaempferol-3-O-α-L-arabinosi de</td><td>桉E.robust</td><td>叶Leaf</td><td>Chen et al., 2016</td></tr><tr><td>63</td><td>Myricetin-digalloyl-rhamnoside</td><td>钉头桉</td><td>叶Leaf</td><td>Al-sayede et al., 2012</td></tr><tr><td>64</td><td>Quercetin-3-O-(2\"-galloyl)-α-L</td><td>E. gomphocephal 桉E.robust</td><td>叶Leaf</td><td>管希锋等，2015</td></tr><tr><td>65</td><td>-arabinosidase Kaempferol-3-O-α-L-arabinosi</td><td>桉E.robust</td><td>叶Leaf</td><td>Chen et al., 2016</td></tr><tr><td>66</td><td>dase (-)-2S-8-Methyl-5,7,4'-trihydro xydihydroflavone-7-O-α-D-glu</td><td>桉E.robust</td><td>叶Leaf</td><td>Chen et al., 2016</td></tr><tr><td>67</td><td>coside (-)-2S-8-甲基-5,7,4-三羟基 二氢黄酮-7-O-β-D-吡喃葡萄 糖苷</td><td>桉E.robust</td><td>叶Leaf</td><td>管希锋等，2015</td></tr><tr><td>68</td><td>(-)-2S-8-Methyl-5,7,4-trihydrox yflavone-7-O-β-D-GalactosE. 5'-hydroxy-7'-O-(6-O-acetyl-β-</td><td></td><td></td><td></td></tr><tr><td></td><td>D-glucopyranosyl)-2'-methylch romone 5'-Hydroxy-7-O-(-D-glucopyr</td><td>桉树E.globulus</td><td>叶Leaf</td><td>Hakki et al., 2010</td></tr><tr><td>69</td><td>anosyl)-2'-methylchromone</td><td>桉树 E.globulus</td><td>叶Leaf</td><td>Hakki et al.,2010</td></tr><tr><td>70</td><td>5'-Hydroxy-7'-O-(β-D-allopyra</td><td>桉树E.globulus</td><td>叶Leaf</td><td>Hakki et al.,2010</td></tr></table></body></html>",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "nosyl)-2'-methylchromone $5 ^ { \\circ }$ -Hydroxy-7'-O-(2,3,4,6-tetra  \n71 O-Acetyl- $\\boldsymbol { \\cdot } \\boldsymbol { \\beta }$ -D-allopyranosyl)-2 桉树E.globulus 叶Leaf Hakki et al., 2010 '-methylchromone   \n72 Cypellocarpin C 蓝桉E.globulus 果实Fruit Liu et al., 2004 $5 ^ { \\circ }$ -Hydroxy-7'-O-(2,3,4,6-tetra73 O-Acetyl- $\\cdot \\beta$ -D-glucopyranosyl)-桉树 E. globulus 叶Leaf Hakki et al., 2010 20 -methylchromone ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "附表2有机酸类化合物",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "table",
+        "img_path": "images/b29e4087fe50311589eb207153659dbd34bf7e00e17c0f3db1d8aff26cb55556.jpg",
+        "table_caption": [
+            "Supplementary Table 2Organic acids from Eucalyptus species "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号 No.</td><td>化合物 Compound</td><td>来源 Source</td><td>部位 Position</td><td>参考文献 Reference</td></tr><tr><td>74</td><td>丁二酸 Succinic acid</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>Puig et al., 2018</td></tr><tr><td>75</td><td>富马酸 Fumaric acid</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>Puig et al., 2018</td></tr><tr><td>76</td><td>苯甲酸 Benzoic acid</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>Puig et al., 2018</td></tr><tr><td>77</td><td>戊二酸 Glutaric acid</td><td>柠檬桉E.citriodora</td><td>叶Leaf</td><td>梁庆桑等，1985</td></tr><tr><td>78</td><td>苹果酸 Malic acid</td><td>柠檬桉E.citriodora</td><td>叶Leaf</td><td>梁庆燊等，1985</td></tr><tr><td>79</td><td>奎尼酸 Quinic acid</td><td>多枝桉E.viminalis</td><td>叶Leaf</td><td>Pavlova et al., 2017</td></tr><tr><td>80</td><td>莽草酸 Shikimic acid</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>Puig et al., 2018</td></tr><tr><td>81</td><td>辛酸 Caprylic acid</td><td>桉树E.globulus</td><td>茎 Stem</td><td>Silvério et al., 2011</td></tr><tr><td>82</td><td>壬酸Nonanoicacid</td><td>油味桉 E.urograndis</td><td>树皮Bark</td><td>Domingues et al., 2011</td></tr><tr><td>83</td><td>壬二酸 Azelaic acid</td><td>桉树E.globulus</td><td>茎 Stem</td><td>Silvério et al., 2011</td></tr><tr><td>84</td><td>十一酸 Undecanoic acid</td><td>苹果桉 E.gunnii</td><td>叶Leaf</td><td>Guimaraes et al., 2009</td></tr><tr><td>85</td><td>月桂酸 Lauric acid</td><td>桉树E.globulus</td><td>叶Leaf</td><td>Abdel-moein et al., 2011</td></tr><tr><td>86</td><td>癸酸 Decanoic acid</td><td>油味桉 E.urograndis</td><td>树皮Bark</td><td>Domingues et al., 2011</td></tr><tr><td>87</td><td>2,6-辛二烯酸 2,6-Octadienoic acid</td><td>油味桉E.oleosa</td><td>茎 Stem</td><td>Benouadah et al., 2018</td></tr><tr><td>88</td><td>反-对-香豆酸 Trans-p-coumaric acid</td><td>油味桉 E.urograndis</td><td>叶Leaf</td><td>陈运娇等，2016</td></tr><tr><td>89</td><td>2-苯丙酸</td><td>桉树E. globulus</td><td>茎 Stem</td><td>Silvério et al., 2011</td></tr><tr><td>90</td><td>2-Phenylpropanoic acid 肉豆蔻酸 Myristic acid</td><td>多枝桉E.viminalis</td><td>叶Leaf</td><td>Pavlova et al., 2017</td></tr><tr><td>91</td><td>十五酸 Pentadecanoic</td><td>苹果桉E.gunnii</td><td>叶Leaf</td><td>Guimarae et al., 2009</td></tr><tr><td>92</td><td>acid 戊二烯-9-烯酸</td><td></td><td></td><td></td></tr><tr><td></td><td>Pentadec-9-enoic acid</td><td>桉树E.globulus</td><td>茎 Stem</td><td>Silvério et al., 2011</td></tr><tr><td>93 94</td><td>棕榈酸 Hexadecanoic acid Zoomaric acid</td><td>直干蓝桉E.maidenii</td><td>树皮Bark 叶Leaf</td><td>Domingues et al., 2011</td></tr><tr><td></td><td>二羟棕榈酸</td><td>桉树E. globulus 红铁木桉</td><td></td><td>Abdel-moein et al., 2011</td></tr><tr><td>95</td><td>Dihydroxy palmitic acid</td><td>E. sideroxylon</td><td>叶Leaf</td><td>Okba,2017</td></tr><tr><td>96</td><td>庚二烯-9-烯酸</td><td>桉树E.globulus</td><td>茎 Stem</td><td>Silvério et al., 2011</td></tr></table></body></html>",
+        "page_idx": 22
+    },
+    {
+        "type": "table",
+        "img_path": "images/4570ce0dfab971310f695a2e11bc060d29b7adc3368b0fafd5f729f6b30c75a3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>97</td><td>亚油酸 Linoleic acid</td><td>尾叶桉E.urophylla</td><td>树皮Bark</td><td></td><td>Domingues et al., 2011</td></tr><tr><td>98</td><td>亚麻酸 Linolenic acid</td><td>直干蓝桉 E.maidenii</td><td>树皮 Bark</td><td></td><td>Domingues et al., 2011</td></tr><tr><td>99</td><td>α-亚麻酸 α-Linolenic acid</td><td>苹果桉 E.gunnii</td><td>叶Leaf</td><td></td><td>Guimarae et al., 2009</td></tr><tr><td>100</td><td>γ-亚麻酸 γ-Linolenic acid</td><td>桉树E.globulus</td><td>叶Leaf</td><td></td><td>Abdel-moein et al., 2011</td></tr><tr><td>101</td><td>硬脂酸 Stearic acid</td><td>赤桉E.camaldulensis</td><td>茎 Stem</td><td></td><td>Benouadah et al., 2018</td></tr><tr><td>102</td><td>油酸 Oleic acid 羟基十八碳三烯酸</td><td>银叶桉 E.cinerea</td><td>叶Leaf</td><td></td><td>Kahla et al., 2017</td></tr><tr><td>103</td><td>Hydroxy octadecatrienoic acid</td><td>红铁木桉 E. sideroxylon</td><td>叶Leaf</td><td></td><td>Okba, 2017</td></tr><tr><td>104</td><td>羟基十八碳三烯酸异构体 Hydroxy octadecatrienoic acid isomer</td><td>红铁木桉 E. sideroxylon</td><td>叶Leaf</td><td></td><td>Okba, 2017</td></tr><tr><td>105</td><td>羟基十八碳二烯酸 Hydroxy octadecadienoic acid</td><td>红铁木桉 E. sideroxylon</td><td>叶Leaf</td><td></td><td>Okba,2017</td></tr><tr><td>106</td><td>反式-9-十八碳烯酸 Trans-9-Octadecenoic acid)</td><td>大桉 E.grandis</td><td>树皮 Bark</td><td></td><td>Domingues et al., 2011</td></tr><tr><td>107</td><td>十八酸-9,12 二烯酸 Octadeca-9,12dienoic acid)</td><td>桉树E. globulus</td><td>茎 Stem</td><td></td><td>Silvério et al., 2011</td></tr><tr><td>108</td><td>三羟基硬脂酸 Trihydroxy stearic acid</td><td>红铁木桉</td><td>茎 Stem</td><td></td><td>Silvério et al., 2011</td></tr><tr><td>109</td><td>三羟基十八烯酸 Trihydroxy octadecenoic</td><td>E. sideroxylon 红铁木桉</td><td></td><td></td><td></td></tr><tr><td>110</td><td>acid 花生四烯酸 Arachidic acid</td><td>E. sideroxylon</td><td>叶Leaf</td><td></td><td>Okba,2017</td></tr><tr><td>111</td><td>雌二醇-9-烯酸</td><td>苹果桉E.gunnii 桉树E.globulus</td><td>叶Leaf</td><td></td><td>Guimarae et al, 2009</td></tr><tr><td></td><td>Eicos-9-enoic acid 二十一酸 Heneicosanoic</td><td></td><td>茎 Stem</td><td></td><td>Silvério et al., 2011</td></tr><tr><td>112</td><td>acid</td><td>油味桉 E.urograndis</td><td>树皮Bark</td><td></td><td>Domingues et al., 2011</td></tr><tr><td>113 114</td><td>苯甲酸 Behenic acid 三羧酸 Tricosylic acid</td><td>赤桉 E.camaldulensis 赤桉 E.camaldulensis</td><td>茎 Stem</td><td></td><td>Benouadah et al., 2018</td></tr><tr><td>115</td><td></td><td>红铁木桉</td><td>茎 Stem</td><td></td><td>Benouadah et al., 2018</td></tr><tr><td></td><td>GlobulusinA</td><td>E. sideroxylon</td><td>叶Leaf</td><td></td><td>Okba,2017</td></tr><tr><td>116</td><td>GlobulusinB</td><td>蓝桉E. globulus</td><td>叶Leaf</td><td></td><td>Boulekbache et al., 2013</td></tr><tr><td>117</td><td>木犀酸 Lignoceric acid 羟基四十三酸</td><td>赤桉 E.camaldulensis 红铁木桉</td><td>茎 Stem</td><td></td><td>Benouadah et al.,2018</td></tr><tr><td>118</td><td>Hydroxy tetracosanoic acid 戊三酸 Pentacosanoic</td><td>E. sideroxylon</td><td>叶Leaf</td><td></td><td>Okba,2017</td></tr><tr><td>119</td><td>acid 六十二酸</td><td>银叶桉E.cinerea</td><td>叶Leaf</td><td></td><td>Kahla et al., 2017</td></tr><tr><td>120</td><td>Hexacosanoicacid</td><td>赤桉 E.camaldulensis</td><td>茎 Stem</td><td></td><td>Benouadah et al., 2018</td></tr><tr><td>121</td><td>二羟基环磷酰胺(异构体)</td><td>红铁木桉</td><td>叶Leaf</td><td></td><td>Okba, 2017</td></tr></table></body></html>",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Di-hydroxycy-pellocarpineE. sideroxylon C (isomer) 七十二烷酸   \n122 油味桉 E.urograndis 树皮Bark Domingues et al., 2011 Heptacosanoic acid 二十碳三酸   \n123 蓝桉E.globulus 果实Fruit Liu et al., 2004 Ctacosanoic acid 三十烷酸 Triacontanoic   \n124 油味桉 E.urograndis 树皮Bark Domingues et al., 2011 acid 3,3'-Di-O-ellagicacid4'-glu   \n125 蓝桉E.globulus 叶Leaf Pan et al., 2019 coside （204号 ${ \\mathfrak { \\beta } }$ -氨基葡萄糖酸   \n126 蓝桉 E.globulus 树皮 Bark 唐云等，2015 $\\beta$ -Amirinpalmitic   \n127 2-羟基硬脂酸2-Hydroxy 桉树E.globulus 茎 Stem Silvério et al., 2011 octadecanoic acid 16-羟基棕榈酸   \n128 16-Hydroxy hexadecanoic 桉树E.globulus 茎 Stem Silvério et al., 2011 acid 19-羟基十九酸   \n129 19-Hydroxy nonadecanoic 桉树E.globulus 茎 Stem Silvério et al., 2011 acid 21-羟基二十一酸   \n130 21-Hydroxy heneicosanoic 桉树E.globulus 茎 Stem Silvério et al., 2011 acid 22-羟基二十二烷酸   \n131 22-Hydroxy docosanoic 油味桉E.urograndis 树皮Bark Domingues et al., 2011 acid 23-羟基三羧酸   \n132 23-Hydroxy tricosanoic 桉树E.globulus 茎 Stem Silvério et al., 2011 acid 4-羟基四十二烷酸   \n133 4-Hydroxy tetracosanoic 大桉 E.grandis 树皮 Bark Domingues et al., 2011 acid 25-羟基戊二酸   \n134 25-Hydroxy pentacosanoic 油味桉 E.urograndis 树皮Bark Domingues et al., 2011 acid ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "附表3二萜类化合物",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "table",
+        "img_path": "images/3195047760cd148073bee2b60b46ac34ade358b69bf24219d412b0bb97ab68a4.jpg",
+        "table_caption": [
+            "Supplementary Table 3Diterpenoids from Eucalyptus species "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号 No.</td><td>化合物 Compound</td><td>来源 Source</td><td>部位 Position</td><td>参考文献 Reference</td></tr><tr><td>135</td><td>植物醇 Phytol</td><td>蓝桉 E.globulus</td><td>树皮Bark</td><td>唐云等，2015</td></tr><tr><td>136</td><td>Cembrene</td><td>珊瑚桉 E.torquata</td><td>树皮Bark</td><td>Nikbakht et al., 2015</td></tr><tr><td>137</td><td>甘露烯 Camphorene</td><td>蓝桉E.globulus</td><td>树皮Bark</td><td>唐云等，2015</td></tr></table></body></html>",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "附表4三萜类化合物",
+        "text_level": 1,
+        "page_idx": 25
+    },
+    {
+        "type": "table",
+        "img_path": "images/fffa3b8531b74fcd04705c0785021af436c5ee65cbc75df213fb9b27db3bd53c.jpg",
+        "table_caption": [
+            "Supplementary Table 4Triterpenoids from 桉树 E.globulus species "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号</td><td>化合物</td><td>来源</td><td>部位</td><td>参考文献</td></tr><tr><td>No.</td><td>Compound</td><td>Source 赤桉</td><td>Position</td><td>Reference</td></tr><tr><td>138</td><td>角鲨烯 Squalene</td><td>E. camaldulensis 柠檬桉</td><td>叶Leaf</td><td>Guimaraes et al., 2009</td></tr><tr><td>139</td><td>Rhodomyrtosone E</td><td>E. citriodora 柠檬桉</td><td>叶Leaf</td><td>Wang et al., 2014</td></tr><tr><td>140</td><td>Asiatic acid</td><td>E. citriodora 柠檬桉</td><td>叶Leaf</td><td>Wang et al., 2014</td></tr><tr><td>141</td><td>麦地亚酸 Madasiatic acid</td><td>E. citriodora 柠檬桉</td><td>叶Leaf</td><td>Wang et al., 2014</td></tr><tr><td>142</td><td>乙酸 Euscaphic acid</td><td>E. citriodora</td><td>叶Leaf</td><td>Wang et al., 2014</td></tr><tr><td>143 144</td><td>尿酸Ursonic acid 异丙酚Dilelatifol D</td><td>蓝桉E.globulus 蓝桉E.globulus</td><td>树皮 Bark 树皮Bark</td><td>唐云等，2015</td></tr><tr><td>145</td><td></td><td>油味桉</td><td></td><td>唐云等，2015</td></tr><tr><td></td><td>α-Amyrin</td><td>E. urograndis</td><td>树皮Bark</td><td>Domingues et al., 2011</td></tr><tr><td>146</td><td>α-乙酸淀粉酯 α-Amyrin acetate</td><td>蓝桉E.globulus</td><td>全株 Whole plan</td><td>Ibrahim al., 2014</td></tr><tr><td>147 148</td><td>β-香树素 β-Amyrin</td><td>蓝桉E. globulus</td><td>树皮Bark</td><td>Domingues et al., 2012</td></tr><tr><td>149</td><td>熊果醇Uvaol 高根二醇 Erythrodiol</td><td>蓝桉E.globulus 蓝桉E.globulus</td><td>树皮 Bark 树皮 Bark</td><td>唐云等，2015 唐云等，2015</td></tr><tr><td>150</td><td></td><td>赤桉</td><td></td><td></td></tr><tr><td></td><td>山楂酸 Maslinic acid</td><td>E. camaldulensis</td><td>叶Leaf</td><td>Tsiri al., 2008</td></tr><tr><td>151 152</td><td>熊果酸Ursolic acid 齐墩果酸 Oleanolic acid</td><td>E. hybrida 亮果桉 E.nitens</td><td>叶Leaf</td><td>Vuong et al., 2015</td></tr><tr><td>153</td><td>2-羟基熊果酸 Colosolic acid</td><td>蓝桉E.globulus</td><td>树皮 Bark 树皮Bark</td><td>Parreira et al., 2017 唐云等，2015</td></tr><tr><td></td><td>熊果酸甲酯</td><td></td><td></td><td></td></tr><tr><td>154</td><td>Ursolic acid methyl ester</td><td>蓝桉E.globulus</td><td>树皮Bark</td><td>唐云等，2015 Domingues et al.， 2011;</td></tr><tr><td>155</td><td>桦木酸 Betulonic acid</td><td>蓝桉E.globulus</td><td>树皮 Bark</td><td>Vuong etal.， 2015; Domingueset al.， 2010; Rodrigues et al., 2018</td></tr><tr><td>156</td><td>白桦脂酸 Betulinic acid</td><td>直干蓝桉 E. maidenii</td><td>树皮Bark</td><td>Domingues et al., 2011</td></tr><tr><td>157</td><td>白桦脂酸甲酯 Betulinic acid methyl ester</td><td>蓝桉E.globulus</td><td>树皮Bark</td><td>唐云等，2015</td></tr><tr><td>158</td><td>乙酰胆碱 Acetylursolic acid</td><td>蓝桉 E.globulus</td><td>树皮Bark</td><td>唐云等，2015</td></tr><tr><td>159</td><td>3-乙酰胆碱 3-Acetylursolic acid</td><td>亮果桉E.nitens</td><td>树皮Bark</td><td>Parreira et al., 2017</td></tr><tr><td>160</td><td>3-乙酰丙酸 3-Acetyloleanolic acid</td><td>亮果桉E.nitens</td><td>树皮Bark</td><td>Parreira et al., 2017</td></tr><tr><td></td><td>3-乙酰白桦酸 3-Acetylbetulinic</td><td></td><td></td><td>Nikbakht et al.，2015 ;</td></tr><tr><td>161</td><td>acid</td><td>蓝桉E.globulus</td><td>树皮Bark</td><td>Domingues et al., 2010</td></tr></table></body></html>",
+        "page_idx": 25
+    },
+    {
+        "type": "table",
+        "img_path": "images/eb27e12bc1014ebdebdde46f4c7d1833f9397a5f479515d8ce5f79058392e829.jpg",
+        "table_caption": [
+            "附表5间苯三酚类化合物"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>162</td><td>乙酰白桦脂酸</td><td>红铁木桉</td><td>叶Leaf</td><td>Okba et al., 2017</td></tr><tr><td>163</td><td>Acetylbetulinic acid 白藜芦醇酸 Alphitolic acid</td><td>E. sideroxylon</td><td>树皮Bark</td><td>唐云等，2015</td></tr><tr><td>164</td><td></td><td>蓝桉E.globulus 柠檬桉</td><td>叶Leaf</td><td>Wang et al., 2014</td></tr><tr><td></td><td>Corosolic acid</td><td>E. citriodora</td><td></td><td></td></tr><tr><td>165 166</td><td>Robustanic acid 乙酰丙酸 Acetyloleanolic acid</td><td>蓝桉E.globulus 蓝桉E.globulus</td><td>果实Fruit 树皮Bark</td><td>王佳等，2016 唐云等，2015</td></tr><tr><td>167</td><td>2α,3α,19α-三羟基乌苏12-烯-28-酸 2α,3α,19α-</td><td>蓝桉E.globulus</td><td>树皮Bark</td><td>唐云等，2015</td></tr><tr><td>168</td><td>Trihydroxywusu-12-ene-28-acid 3β-甲酰氧基-乌索-11,12-烯 -28,13β-内酯 3β-Hydroxy-ursol-11-ene-28,13β-la</td><td>蓝桉E.globulus</td><td>树皮 Bark</td><td>唐云等，2015</td></tr><tr><td>169</td><td>ctone 3 β-O-trans-p-hydroxycinnoyl-12-en</td><td>窿缘桉</td><td></td><td></td></tr><tr><td>170</td><td>e-28-oleanolic acid 3β-O-trans-p-hydroxycinnoyl-2α-hy</td><td>E. exserta 窿缘桉</td><td>树皮Bark</td><td>李晶晶等，2014</td></tr><tr><td>171</td><td>droxy-12-ene-28-ursolic acid cis-p-Methoxy-cinnamoyloxyol-ean</td><td>E. exserta</td><td>树皮Bark</td><td>李晶晶等，2014</td></tr><tr><td></td><td>olic acid methyl ester trans-Pmethoxycinnamoyl-oxyursol</td><td>蓝桉E.globulus</td><td>树皮Bark</td><td>唐云等，2015</td></tr><tr><td>172</td><td>ic acid methyl ester cis-p-Methoxy-cinnamoyloxyursoli</td><td>蓝桉 E.globulus</td><td>树皮 Bark</td><td>唐云等，2015</td></tr><tr><td>173</td><td>c acid methyl ester Methyl-3β,23-diacetoxy-12-ursen-2</td><td>蓝桉 E.globulus</td><td>树皮Bark</td><td>唐云等，2015</td></tr><tr><td>174</td><td>8-oate</td><td>蓝桉E.globulus</td><td>树皮Bark</td><td>唐云等，2015</td></tr><tr><td>175</td><td>3β-Formyloxyurs-11-en-28,13-olide 2a,</td><td>蓝桉E.globulus</td><td>树皮Bark</td><td>唐云等，2015</td></tr><tr><td>176</td><td>3β-Dihydroxyurs-12-en-28-oicacid 11α-Methoxyacetylursolic acid</td><td>蓝桉 E.globulus</td><td>果实Fruit</td><td>张广晶等，2014</td></tr><tr><td>177</td><td>methyl ester 3-O-Methylellagicacid-4'-O-α-L-</td><td>蓝桉E.globulus 窿缘桉</td><td>果实Fruit</td><td>张广晶等，2014</td></tr><tr><td>178</td><td>rhamnopyranoside</td><td>E. exserta</td><td>树皮Bark</td><td>李晶晶等，2014</td></tr><tr><td>179</td><td>2α,3α-Isopropylidenedioxy-lup-20( 29)-en-28-oieaeid</td><td>蓝桉E.globulus</td><td>果实Fruit</td><td>张广晶等，2014</td></tr></table></body></html>",
+        "page_idx": 26
+    },
+    {
+        "type": "table",
+        "img_path": "images/a7222c77c750ca169a3f6d8ff0e67ec46ec4b741a504df74aa04a58ad71d4e15.jpg",
+        "table_caption": [
+            "Supplementary Table 5Phloroglucinols from Eucalyptus species "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号 No.</td><td>化合物 Compound</td><td>来源 Source</td><td>部位 Position</td><td>参考文献 Reference</td></tr><tr><td>180</td><td>巨桉醇 Grandinol</td><td>银叶山桉 E. pulverulenta</td><td>果实Fruit</td><td>李伟，2015</td></tr><tr><td>181</td><td>Jensenone</td><td>E. jensenii</td><td>叶Leaf</td><td>李伟，2015</td></tr><tr><td>182</td><td> Isotorquatone</td><td>E. apodophylla</td><td>叶Leaf</td><td>李伟，2015</td></tr></table></body></html>",
+        "page_idx": 26
+    },
+    {
+        "type": "table",
+        "img_path": "images/040cb8a2886fbc1a395aa2e993f63e0595055a6f6a42a195d4dd99a8a73f478f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>183</td><td>大叶桉酚甲 Torquatone</td><td>E. apodophylla</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>184</td><td>Isobaeckeol</td><td>朱蕊桉 E.miniata</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>185</td><td>Euglobal-G1</td><td>细叶桉</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>186</td><td>Euglobal-G2</td><td>E. tereticornis E. jensenii</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>187</td><td>Euglobal-G3</td><td>大桉 E.grandis</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>188</td><td>Euglobal-T1</td><td>细叶桉 E. tereticornis</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>189</td><td>Euglobal-G4</td><td>桉E.robust</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>190</td><td>Euglobal-G5</td><td>E. jensenii</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>191</td><td>Euglobal-G6</td><td>大桉 E.grandis</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>192</td><td>Euglobal-G7</td><td>大桉 E. grandis</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>193</td><td>Euglobal-G8</td><td>大桉 E. grandis</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>194</td><td>Euglobal-G9</td><td>大桉 E.grandis</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>195</td><td>Euglobal-G10</td><td>桉E.robust</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>196</td><td>Euglobal-G11</td><td>大桉 E. grandis</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>197</td><td>Euglobal-G12</td><td>桉E.robust</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>198</td><td>Euglobal-Ia1</td><td>斜脉桉 E. loxophleba</td><td></td><td>芽，叶 Bud,leaf</td><td>李伟，2015</td></tr><tr><td>199</td><td>Euglobal-Ia2</td><td>蓝桉E.globulus</td><td></td><td>芽，叶 Bud,leaf</td><td>李伟，2015</td></tr><tr><td>200</td><td>Euglobal-Ib</td><td>布氏桉E.blakelyi</td><td></td><td>芽，叶 Bud,leaf</td><td>李伟，2015</td></tr><tr><td>201</td><td>Euglobal-Ic</td><td>布氏桉E.blakelyi</td><td></td><td>芽，叶 Bud,leaf</td><td>李伟，2015</td></tr><tr><td>202</td><td>Euglobal-IIa</td><td>斜脉桉 E. loxophleba</td><td></td><td>芽，叶 Bud,leaf</td><td>李伟，2015</td></tr><tr><td>203</td><td>Euglobal-IIb</td><td>桉E.robust</td><td></td><td>芽，叶 Bud,leaf</td><td>李伟，2015</td></tr><tr><td>204</td><td>Robustadial A</td><td>桉E.robust</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>205</td><td>Robustadial B</td><td>斜脉桉 E. loxophleba</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>206</td><td>Rhodomyrtone</td><td>蓝桉E.globulus</td><td>树皮Bark</td><td></td><td>李伟，2015</td></tr><tr><td>207</td><td>Euglobal-III</td><td>蓝桉E. globulus</td><td></td><td>芽，叶 Bud,leaf</td><td>李伟，2015</td></tr><tr><td>208</td><td>Euglobal-V</td><td>蓝桉E.globulus</td><td></td><td>芽，叶 Bud,leaf</td><td>李伟，2015</td></tr><tr><td>209</td><td>Euglobal-VII</td><td>蓝桉E.globulus</td><td></td><td>芽，叶 Bud,leaf</td><td>李伟，2015</td></tr><tr><td>210</td><td>Euglobal-In-2</td><td>厚叶桉 E.incrassata</td><td>果实Fruit</td><td></td><td>李伟，2015</td></tr><tr><td>211</td><td>Euglobal-In-3</td><td>厚叶桉 E.incrassata</td><td>果实Fruit</td><td></td><td>李伟，2015</td></tr><tr><td>212</td><td>Euglobal-IX</td><td>蓝桉 E.globulus</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>213</td><td>EucalyptalA</td><td>蓝桉E.globulus</td><td>果实Fruit</td><td></td><td>李伟，2015</td></tr><tr><td>214</td><td>Eucalyptal B</td><td>蓝桉E. globulus</td><td>果实Fruit</td><td></td><td>李伟，2015</td></tr><tr><td>215</td><td>Eucalyptal C</td><td>蓝桉E.globulus</td><td>果实Fruit</td><td></td><td>李伟，2015</td></tr><tr><td>216</td><td>Eucalyptal D</td><td>蓝桉 E. globulus</td><td>果实Fruit</td><td></td><td>李伟，2015</td></tr><tr><td>217</td><td>Eucalyptal E</td><td>蓝桉E.globulus</td><td>果实Fruit</td><td></td><td>李伟，2015</td></tr><tr><td>218</td><td>Macrocarpal A</td><td>大果桉</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr></table></body></html>",
+        "page_idx": 27
+    },
+    {
+        "type": "table",
+        "img_path": "images/ef35e5c1fd18094b038010c4925304305267da56bfb343aae5d89c0105336a6c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>219</td><td>Macrocarpal B</td><td>广叶桉 E.amplifolia</td><td>叶Leaf</td><td>李伟，2015</td><td></td></tr><tr><td>220</td><td>Macrocarpal C</td><td>大果桉 E. macrocarpa Hook</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>221</td><td>Macrocarpal D</td><td>大果桉 E. macrocarpa Hook</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>222</td><td>Macrocarpal E</td><td>广叶桉 E. amplifolia</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>223</td><td> Macrocarpal F</td><td>大果桉 E. macrocarpa Hook</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>224</td><td>Macrocarpal G</td><td>直干蓝桉 E. maidenii</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>225</td><td>Macrocarpal H</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>226</td><td>Macrocarpal I</td><td>直干蓝桉 E. maidenii</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>227</td><td>Macrocarpal J</td><td>直干蓝桉 E. maidenii</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>228</td><td>Macrocarpal K</td><td>直干蓝桉 E. maidenii</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>229</td><td>Macrocarpal L</td><td>蓝桉E. globulus</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>230</td><td>Macrocarpal M</td><td>蓝桉E. globulus</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>231</td><td>Macrocarpal N</td><td>蓝桉E. globulus</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>232</td><td>Macrocarpal O</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>233</td><td>Macrocarpal-am-1</td><td>广叶桉 E.amplifolia 红铁木桉</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>234</td><td>Eucalyptone</td><td>E. sideroxylon</td><td>叶Leaf</td><td></td><td>Okba et al., 2017</td></tr><tr><td>235</td><td>Eucalyptone isomer</td><td>红铁木桉 E. sideroxylon</td><td>叶Leaf</td><td></td><td>Okba et al., 2017</td></tr><tr><td>236</td><td>2,6-Dihyroxy-4-methoxy-3-met hyl-ispropiophenone</td><td>银叶山桉 E. pulverulenta</td><td>茎，叶 Stem, leaf</td><td></td><td>李伟，2015</td></tr><tr><td>237</td><td>2,6-Dihyroxy-2',3-dimethyl-4- methoxy-butyrophenone</td><td>银叶山桉 E. pulverulenta</td><td>茎，叶 Stem, leaf</td><td></td><td>李伟，2015</td></tr><tr><td>238</td><td>4,6-Diformyl-2-isobutyrylphlor oglucinol</td><td>E. apodophylla</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>239</td><td>4,6-Diformyl-2-isopentanoylphl oroglucinol</td><td>E. jensenii</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>240</td><td>Chartabomone</td><td>E. jensenii</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>241</td><td>Miniatone</td><td>朱蕊桉 E.miniata</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>242</td><td>Baeckeol methyl ether</td><td>朱蕊桉 E.miniata 朱蕊桉 E.miniata</td><td>叶Leaf</td><td></td><td>李伟，2015 李伟，2015</td></tr><tr><td>243</td><td>Homobaeckeol methyl ether</td><td>斜脉桉</td><td>叶Leaf</td><td></td><td></td></tr><tr><td>244</td><td>Loxophlebene</td><td>E. loxophleba</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>245</td><td>4-O-Demethyl miniatone</td><td>E. jensenii</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>246</td><td>Eucalmainoside A</td><td>直干蓝桉</td><td>果实Fruit</td><td></td><td>李伟，2015</td></tr></table></body></html>",
+        "page_idx": 28
+    },
+    {
+        "type": "table",
+        "img_path": "images/088978ec7e97ed83b14e1537ff32e03181eddc0310384c420922ba243ad26172.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>247</td><td>Eucalmainoside B</td><td>直干蓝桉 E. maidenii</td><td>果实Fruit</td><td></td><td>李伟，2015</td></tr><tr><td>248</td><td>Eucalmainoside C</td><td>直干蓝桉 E. maidenii</td><td>果实Fruit</td><td></td><td>李伟，2015</td></tr><tr><td>249</td><td>Eucalmainoside D</td><td>直干蓝桉 E. maidenii</td><td>果实Fruit</td><td></td><td>李伟，2015</td></tr><tr><td>250</td><td>Eucalmainoside E</td><td>直干蓝桉</td><td>果实Fruit</td><td></td><td>李伟，2015</td></tr><tr><td>251</td><td>8-β-C-Glucopyranosyl-5,7-dihy</td><td>E. maidenii 直干蓝桉</td><td>茎 Stem</td><td></td><td>李伟，2015</td></tr><tr><td>252</td><td>Droxy-2-isobutylchromone Dimer of jensenone</td><td>E. maidenii 柳叶桉 E.saligna</td><td></td><td></td><td>李伟，2015</td></tr><tr><td>253</td><td>Jensenal</td><td>E. jensenii</td><td>叶Leaf 叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>254</td><td>Loxophlebal A</td><td>斜脉桉</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>255</td><td>Loxophlebal B</td><td>E. loxophleba 斜脉桉</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>256</td><td>Euglobal R1</td><td>E. loxophleba 桉E.robust</td><td></td><td></td><td>李伟，2015</td></tr><tr><td>257</td><td>Euglobal R2</td><td>桉E.robust</td><td>叶Leaf 叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>258</td><td>Euglobal-Bl-1</td><td>布氏桉E.blakelyi</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>259</td><td>Eucalyptone G</td><td>蓝桉 E.globulus</td><td>树皮Bark</td><td></td><td>李伟，2015</td></tr><tr><td>260</td><td>Eucalmaidial A</td><td>直干蓝桉 E. maidenii</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>261</td><td>Eucalmaidial B</td><td>直干蓝桉</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>262</td><td>Euglobal-IVb</td><td>E. maidenii 蓝桉 E.globulus</td><td></td><td>芽，叶 Bud,leaf</td><td>李伟，2015</td></tr><tr><td>263</td><td>Macrocarpal P</td><td>蓝桉 E.globulus</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>264</td><td>Macrocarpal Q</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>265</td><td>Conglomerone</td><td>朱蕊桉 E.miniata</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>266</td><td>Baeckeol</td><td>朱蕊桉 E.miniata</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>267</td><td>Isobaeckeol</td><td>朱蕊桉 E.miniata</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>268</td><td>Homoisobaeckeol</td><td>朱蕊桉E.miniata</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>269</td><td>Conglomerone</td><td>朱蕊桉E.miniata</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>270</td><td>Baeckeol</td><td>朱蕊桉 E.miniata</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>271</td><td>Robustaol A</td><td>桉 E.robust</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>272</td><td>Sideroxylonal A</td><td>桉树 E.globulus</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>273</td><td>Sideroxylonal B</td><td>大桉 E.grandis</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>274</td><td>Sideroxylonal C</td><td>斜脉桉</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>275</td><td>Grandinal</td><td>E. loxophleba 大桉 E. grandis</td><td>叶Leaf</td><td></td><td>李伟，2015</td></tr><tr><td>276</td><td>Euglobal-IIc</td><td>蓝桉 E.globulus</td><td></td><td>芽，叶 Bud,leaf</td><td>李伟，2015</td></tr><tr><td>277</td><td>Globuluside</td><td>钉头桉</td><td>叶Leaf</td><td></td><td>Al-sayed et al</td></tr></table></body></html>",
+        "page_idx": 29
+    },
+    {
+        "type": "table",
+        "img_path": "images/447f2ccf02a3a5e994d3491095fe62c6ded3ef4d10439cb9ab1f2d133da072d9.jpg",
+        "table_caption": [
+            "附表6鞣质类化合物"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">E. gomphocephal</td><td colspan=\"3\"></td></tr><tr><td>278</td><td>Cypellocarpin B</td><td>钉头桉 E. gomphocephal</td><td>叶Leaf</td><td>Al-sayed et al., 2012</td></tr><tr><td>279</td><td>Methyl-trihydroxyacetophenone glucoside</td><td>钉头桉 E. gomphocephal</td><td>叶Leaf</td><td>Al-sayed et al., 2012</td></tr><tr><td>280</td><td>Methyl-formoylphloroglucinol glucoside</td><td>钉头桉 E. gomphocephal</td><td>叶Leaf</td><td>Al-sayed et al., 2012</td></tr><tr><td>281</td><td>Methyl-trihydroxyacetophenone glucoside</td><td>钉头桉 E. gomphocephal</td><td>叶Leaf</td><td>Al-sayed et al., 2012</td></tr><tr><td>282</td><td>Eucalteretial A</td><td>细叶桉 E. tereticornis 细叶桉</td><td>茎 Stem</td><td>Liu et al., 2018</td></tr><tr><td>283</td><td>Eucalteretial B</td><td>E. tereticornis</td><td>茎 Stem</td><td>Liu et al., 2018</td></tr><tr><td>284</td><td>Eucalteretial C</td><td>细叶桉 E. tereticornis 细叶桉</td><td>茎 Stem</td><td>Liu et al., 2018</td></tr><tr><td>285</td><td>Eucalteretial D</td><td>E. tereticornis 细叶桉</td><td>茎 Stem</td><td>Liu et al., 2018</td></tr><tr><td>286</td><td>Eucalteretial E</td><td>E.tereticornis</td><td>茎 Stem</td><td>Liu et al., 2018</td></tr><tr><td>287 288</td><td>Eucalglobuside A</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>Lin et al., 2019</td></tr><tr><td></td><td>Eucalglobuside B</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>Lin et al., 2019</td></tr><tr><td>289</td><td>Eucalyptin A</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>Zhang et al., 2021</td></tr><tr><td>290</td><td>Eucalyptin E</td><td>蓝桉E.globulus</td><td>果实 Fruit</td><td>Pham et al., 2018</td></tr><tr><td>291</td><td>Eucalyptin F</td><td>蓝桉E.globulus</td><td>果实Fruit</td><td>Pham et al., 2018</td></tr><tr><td>292</td><td>Eucalyptin G</td><td>蓝桉E.globulus</td><td>果实Fruit</td><td>Pham et al., 2018</td></tr></table></body></html>",
+        "page_idx": 30
+    },
+    {
+        "type": "table",
+        "img_path": "images/eecb90ad3408a26da33ffccd085ba60c4580fe35c5e475da3c4b4fc0a86671f7.jpg",
+        "table_caption": [
+            "Supplementary Table 6Tannins from Eucalyptus species "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号 No.</td><td>化合物 Compound</td><td>来源 Source</td><td>部位 Position</td><td>参考文献 Reference</td></tr><tr><td>293</td><td>Apicatechin</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>Vuong et al., 2015</td></tr><tr><td>294</td><td>Eucaglobulin</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>Vuong et al., 2015</td></tr><tr><td>295</td><td>甲基鞣花酸 Methylellagic acid</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>Vuong et al., 2015</td></tr><tr><td>296</td><td>3,3'-O-Dimethylellagic acid</td><td>蓝桉E.globulus</td><td>树皮 Bark</td><td>唐云等，2015</td></tr><tr><td>297</td><td>3,4,3'-O-Trimethylellagic acid</td><td>蓝桉E.globulus</td><td>树皮Bark</td><td>唐云等，2015</td></tr><tr><td>298</td><td>3,3'-O-Dimethylellagic acid</td><td>蓝桉E.globulus</td><td>树皮 Bark</td><td>唐云等，2015</td></tr><tr><td>299</td><td>Glucoside of dimethylellagic acid</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>李伟，2015</td></tr><tr><td>300</td><td>3-O-Methylellagic acid 3'-α-Rhamnoside</td><td>蓝桉E.globulus</td><td>树皮 Bark</td><td>唐云等，2015</td></tr><tr><td>301</td><td>3'-O-Methyl ellagic acid</td><td>蓝桉E.globulus</td><td>树皮Bark</td><td>李伟，2015</td></tr><tr><td>302</td><td>4-O-β- D-glucose 3,3'-di-O-Methylellagic acid</td><td>油味桉E.urograndis</td><td>叶Leaf</td><td>陈运娇等，2016</td></tr><tr><td>303</td><td>3,4,3',4'-O-Tetramethylellagic acid</td><td>蓝桉E.globulus</td><td>树皮Bark</td><td>唐云等，2015</td></tr></table></body></html>",
+        "page_idx": 30
+    },
+    {
+        "type": "table",
+        "img_path": "images/945cdb05dd5ac2e83efcfcfd1ef56cf3faac39f96bcea83fc2e7b96716d3de56.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>304</td><td>Vescalagin</td><td>油味桉 E.urograndis</td><td>叶Leaf</td><td>陈运娇等，2016</td></tr><tr><td>305</td><td>4-Methoxyellagic acid-3-O-α-L-rhamnose</td><td>桉E.robust</td><td>叶Leaf</td><td>陈运娇等，2016</td></tr><tr><td>306</td><td>Pentagalloylglucopyranose</td><td>钉头桉</td><td>叶Leaf</td><td>Al-sayed et al., 2012</td></tr><tr><td>307</td><td>8-Methoxyellagic</td><td>E. gomphocephal 蓝桉 E.globulus</td><td>叶Leaf</td><td>陈运娇等，2016</td></tr><tr><td>308</td><td>Acid-2-rhamnoside 1,2,3,4,6-O-Pentagalloylglucose</td><td>桉树E.globulus</td><td>叶Leaf</td><td>周国海等，2015</td></tr><tr><td>309</td><td>4-Methoxyellagic</td><td>桉E.robust</td><td>叶Leaf</td><td>陈运娇等，2016</td></tr><tr><td>310</td><td>acid-3-O-α-L-rhamnose 苯甲酸 Phenic acid</td><td>柠檬桉E.citriodora</td><td>叶Leaf</td><td>沈兆邦等，1987</td></tr><tr><td>311</td><td>鞣花酸 Ellagic acid</td><td>小帽桉 E.microcorys</td><td>叶Leaf</td><td>Bhuyan et al., 2018</td></tr><tr><td>312</td><td>没食子酸 Glucogallic acid</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>Pan et al., 2019</td></tr><tr><td>313</td><td>乙酸 Acetic acid</td><td>柠檬桉 E.citriodora</td><td>茎 Stem</td><td>李伟，2015</td></tr><tr><td>314</td><td>Catechin</td><td>银叶桉 E.cinerea</td><td>叶Leaf</td><td>Kahla et al., 2017</td></tr><tr><td>315</td><td>1,6-Di-O-[(R)-oleuropeyl]-β-D-glu</td><td>桉树 E. globulus</td><td>叶Leaf</td><td>Hakki et al., 2010</td></tr><tr><td>316</td><td>copyranose 3-O-Methylellagicacid-4'-O-α-L-</td><td>窿缘桉E.exserta</td><td></td><td>李晶晶等，2014</td></tr><tr><td>317</td><td>rhamnopyranoside Tellimagrandin I</td><td>蓝桉 E.globulus</td><td>树皮 Bark 叶Leaf</td><td>Chen et al., 2014</td></tr><tr><td>318</td><td>Tellimagrandin II</td><td>大桉 E.grandis</td><td>叶Leaf</td><td>Chen et al., 2014</td></tr><tr><td>319</td><td>1-O-Methylellagic acid</td><td>蓝桉 E.globulus</td><td>叶Leaf</td><td>高璇，2017</td></tr><tr><td>320</td><td>Gemin D</td><td>桉树E.globulus</td><td>叶Leaf</td><td>高璇，2017</td></tr><tr><td>321</td><td>Digalloylglucose</td><td>桉树E.globulus</td><td>叶Leaf</td><td>Hakki et al., 2010</td></tr><tr><td>322</td><td>Oenothein B</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>Chen et al., 2014</td></tr><tr><td>323</td><td>Castalagin</td><td>柠檬桉E.citriodora</td><td>叶Leaf</td><td>陈运娇等，2016</td></tr><tr><td>324</td><td>Pedunculagin</td><td>大桉 E. grandis</td><td>叶Leaf</td><td>Chen et al., 2014</td></tr><tr><td>325</td><td>Catechin hydrateEpicatechin</td><td>大桉 E. grandis</td><td></td><td>Bhuyan et al., 2018</td></tr><tr><td>326</td><td>Epigallocatechin</td><td>蓝桉 E.globulus</td><td>叶Leaf 叶Leaf</td><td>Pan et al., 2019</td></tr><tr><td>327</td><td>Catechin hydrate</td><td>窿缘桉E.exserta</td><td>叶Leaf</td><td>黄炳生，2013</td></tr><tr><td>328</td><td>Tetraacetyl tannic acid</td><td>柠檬桉E.citriodora</td><td>叶Leaf</td><td>沈兆邦等，1987</td></tr><tr><td>329</td><td>4-Methoxy tannic acid</td><td>蓝桉 E. globulus</td><td>树皮 Bark</td><td>李伟，2015</td></tr><tr><td>330</td><td>3-O-Methylellagic acid</td><td>油味桉 E.urograndis</td><td>叶Leaf</td><td>陈运娇等，2016</td></tr><tr><td>331</td><td>3,3'-Di-O-methylellagic acid</td><td>油味桉 E.urograndis</td><td>叶Leaf</td><td>陈运娇等，2016</td></tr><tr><td>332</td><td>3,3,4-Trimethylellagic acid</td><td>蓝桉 E.globulus</td><td>果实 Fruit</td><td>张广晶等，2014</td></tr><tr><td>333</td><td>1-O-Galloyl-β-D-glucose</td><td>油味桉 E.urograndis</td><td>叶Leaf</td><td>陈运娇等，2016</td></tr><tr><td>334</td><td>3-O-Methylellagic acid-4'-rhamnoside</td><td>蓝桉E. globulus</td><td>果实Fruit</td><td>王佳等，2016</td></tr><tr><td>335</td><td>4-Methoxyellagic acid-3-O-α-L- rhamnose</td><td>桉E.robust</td><td>叶Leaf</td><td>陈运娇等，2016</td></tr><tr><td>336</td><td>8-Methoxyellagic acid -2-rhamnoside</td><td>蓝桉 E. globulus</td><td>叶Leaf</td><td>陈运娇等，2016</td></tr></table></body></html>",
+        "page_idx": 31
+    },
+    {
+        "type": "table",
+        "img_path": "images/4781c875d1c417a587405e14800dfbb368ea7b866740494e2894b16412605ee6.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>337 side</td><td>-3'-O-α-3\"-O-acetylrhamnopyrano</td><td>蓝桉E.globulus</td><td>树皮Bark</td><td>李伟，2015</td></tr><tr><td></td><td> 3-O-Methylellagic acid</td><td></td><td>树皮Bark</td><td>李伟，2015</td></tr><tr><td>338</td><td>3'-O-a-2\"-O-acetylrhamnopyranosi 蓝桉 E. globulus de 3-O-Methylellagic acid</td><td></td><td></td><td></td></tr><tr><td>339</td><td> 3'-O-α-4\"-O-acetylrhamnopyranosi</td><td>蓝桉E.globulus</td><td>树皮Bark</td><td>李伟，2015</td></tr><tr><td>340</td><td>de 1-O-Galloyl-β-D-glucose</td><td>油味桉 E.urograndis</td><td>叶Leaf</td><td>陈运娇等，2016</td></tr><tr><td>341</td><td>没食子酸 Gallic acid</td><td>窿缘桉 E.exserta</td><td>叶Leaf</td><td>高璇，2017</td></tr><tr><td>342</td><td>鞣花酸已糖 Ellagic acid hexose</td><td>钉头桉 E. gomphocephal</td><td>叶Leaf</td><td>Al-sayed et al., 2012</td></tr><tr><td>343</td><td>鞣花酸己糖苷 Ellagic acid hexoside</td><td>钉头桉 E. gomphocephal</td><td>叶Leaf</td><td>Al-sayed et al., 2012</td></tr><tr><td>344</td><td>HHDP-glucopyranose</td><td>钉头桉 E. gomphocephal</td><td>叶Leaf</td><td>Al-sayed et al., 2012</td></tr><tr><td>345</td><td>Digalloylglucopyranose</td><td>钉头桉 E. gomphocephal</td><td>叶Leaf</td><td>Al-sayed et al., 2012</td></tr><tr><td>346</td><td>Galloyl-HHDP-glucopyranose</td><td>钉头桉</td><td>叶Leaf</td><td>Al-sayed et al., 2012</td></tr><tr><td>347</td><td>Galloylcypellocarpin B</td><td>E. gomphocephal 钉头桉</td><td>叶Leaf</td><td>Al-sayed et al., 2012</td></tr><tr><td>348</td><td>HHDP Galloylglucose isomer</td><td>E. gomphocephal 蓝桉E.globulus</td><td>果实Fruit</td><td>刘玉明等，2004</td></tr><tr><td>349</td><td>甲基鞣花酸己糖 Methylellagic acid hexose</td><td>蓝桉 E.globulus</td><td>果实Fruit</td><td>刘玉明等，2004</td></tr><tr><td>350</td><td>Ellagitannin dimer</td><td>钉头桉</td><td>叶Leaf</td><td>Al-sayed et al. 2012</td></tr><tr><td>351</td><td>Methylellagic acid-3-O-pentoside</td><td>E. gomphocephal 蓝桉E. globulus</td><td>树皮Bark</td><td>唐云等，2015</td></tr><tr><td>352</td><td>Trigalloyl-HHDP-glucopyranose</td><td>钉头桉</td><td>叶Leaf</td><td>Al-sayed et al. 2012</td></tr><tr><td>353</td><td> 3-galloyl-4,6-HHDP-D-glucose</td><td>E. gomphocephal 油味桉 E.urograndis</td><td>叶Leaf</td><td>陈运娇等，2016</td></tr><tr><td>354</td><td>Galloyl ester of methylellagic acid</td><td>蓝桉E.globulus</td><td>果实Fruit</td><td>刘玉明等，2004</td></tr><tr><td>355</td><td>glucose Galloyl-bis-HHDP-glucopyranose</td><td>钉头桉</td><td></td><td>Al-sayed et al., 2012</td></tr><tr><td>356</td><td>isomer Tris-HHDP galloylglucose isomer</td><td>E. gomphocephal 蓝桉E.globulus</td><td>叶Leaf 果实Fruit</td><td>刘玉明等，2004</td></tr><tr><td>357</td><td>Brevifolincarboxylic acid</td><td>钉头桉</td><td>叶Leaf</td><td>Al-sayed et al., 2012</td></tr><tr><td></td><td>没食子葡萄糖</td><td>E. gomphocephal 钉头桉</td><td></td><td></td></tr><tr><td>358</td><td>Galloylglucopyranose</td><td>E. gomphocephal</td><td>叶Leaf</td><td>Al-sayed et al., 2012</td></tr><tr><td>359</td><td>Monogalloylglucose</td><td>蓝桉E. globulus</td><td>茎 Stem</td><td>Xavier et al., 2014</td></tr><tr><td>360</td><td>Tetragalloylglucose</td><td>蓝桉E.globulus</td><td>果实Fruit</td><td>刘玉明等，2004</td></tr></table></body></html>",
+        "page_idx": 32
+    },
+    {
+        "type": "table",
+        "img_path": "images/b602bb587347afa17b5e573b729657ada0dd5525ce2a328da1bb06adaa4252a9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>361</td><td>Tetragalloylglucopyranose</td><td>钉头桉 E. gomphocephal</td><td>叶Leaf</td><td>Al-sayed et al., 2012</td></tr><tr><td>362</td><td>鞣花酸鼠李糖苷 Ellagic acid rhamnoside</td><td>钉头桉 E. gomphocephal</td><td>叶Leaf</td><td>Al-sayed et al., 2012</td></tr><tr><td>363</td><td>甲基鞣花酸鼠李糖苷</td><td>钉头桉</td><td>叶Leaf</td><td>Al-sayed et al., 2012</td></tr><tr><td>364</td><td>Methylellagic acid rhamnoside</td><td>E. gomphocephal 钉头桉</td><td></td><td></td></tr><tr><td></td><td>Pedunculagin isomer</td><td>E. gomphocephal 钉头桉</td><td>叶Leaf</td><td>Al-sayed et al., 2012</td></tr><tr><td>365</td><td>Trigalloylglucopyranose 1,2,3,6-四羟基葡萄糖</td><td>E. gomphocephal</td><td>叶Leaf</td><td>Al-sayed et al., 2012</td></tr><tr><td>366</td><td>1,2,3,6-Tetragalloylglucose 五芳基葡萄糖</td><td>桉树E.globulus</td><td>叶Leaf</td><td>陈运娇等，2016</td></tr><tr><td>367</td><td>Pentagalloylglucose 1,2,3,4,6-penta-O-galloyl-β-D-gluc</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>梁庆燊，1985</td></tr><tr><td>368</td><td>ose</td><td>蓝桉E.globulus 钉头桉</td><td>树皮 Bark</td><td>唐云等，2015</td></tr><tr><td>369</td><td>Benzyl-galloylglucopyranose</td><td>E. gomphocephal 钉头桉</td><td>叶Leaf</td><td>Al-sayed et al., 2012</td></tr><tr><td>370</td><td>Benzyl-trigalloylglucopyranose</td><td>E. gomphocephal 钉头桉</td><td>叶Leaf</td><td>Al-sayed, et al., 2012</td></tr><tr><td>371</td><td>Valoneoyl-digalloyl-glucopyranose Methyl-valoneoyl-digalloyl-glucop</td><td>E. gomphocephal 钉头桉</td><td>叶Leaf</td><td>Al-sayed, et al., 2012</td></tr><tr><td>372</td><td>yranose 3-O-Galloyl-4,6-O-[(S)-hexahydro</td><td>E. gomphocephal</td><td>叶Leaf</td><td>Al-sayed, et al., 2012</td></tr><tr><td>373</td><td>xy-diphenoyl]-D-glucose 3-Methoxy-ellagic-acid-4'</td><td>蓝桉E.globulus</td><td>树皮Bark</td><td>唐云等，2015</td></tr><tr><td>374</td><td>-O-2\"-O-Acetyl-α-L-pyranrhamno side</td><td>蓝桉E.globulus</td><td>树皮Bark</td><td>唐云等，2015</td></tr></table></body></html>",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "附表7酚酸类化合物",
+        "text_level": 1,
+        "page_idx": 33
+    },
+    {
+        "type": "table",
+        "img_path": "images/99e4222b2832cf9353d24bc2ece50642513bd47e854fb87a5b57f5773eaa52d8.jpg",
+        "table_caption": [
+            "Supplementary Table 7Phenolic acids from Eucalyptus species "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号 化合物 No.</td><td>Compound</td><td>来源 Source</td><td>部位 Position</td><td>参考文献 Reference</td></tr><tr><td>375</td><td>Yangambin</td><td>窿缘桉E.exserta</td><td>叶Leaf</td><td>Tang et al.， 2006</td></tr><tr><td>376</td><td>丁香酚 Syringaresinol</td><td>蓝桉E. globulus</td><td>叶Leaf</td><td>Al-sayed et al., 2012</td></tr><tr><td>377</td><td>cis-Ferulicacid</td><td>桉树 E.globulus</td><td>茎 Stem</td><td>Silvério et al., 2011</td></tr><tr><td>378</td><td>trans-Ferulic acid</td><td>油味桉 E.urograndis</td><td>树皮Bark</td><td>Domingues et al., 2011</td></tr><tr><td>379</td><td>Eucalmaidin F</td><td>直干蓝桉E.maidenii</td><td>叶Leaf</td><td>Tian et al., 2012</td></tr><tr><td>380</td><td>p-Coumaric acid</td><td>油味桉E.urograndis</td><td>树皮Bark</td><td>Domingues et al., 2011</td></tr><tr><td>381</td><td>Protocatechuic acid glucoside</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>Pan et al., 2019</td></tr><tr><td>382</td><td>p-Coumaric acid derivative ‘1'</td><td>蓝桉E. globulus</td><td>叶Leaf</td><td>Puig et al., 2018</td></tr></table></body></html>",
+        "page_idx": 33
+    },
+    {
+        "type": "table",
+        "img_path": "images/a719ed276039b150ec6388d3867f3fd228452727b4704e134b8cca64749996b5.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>383</td><td>p-Coumaric acid derivative‘2'</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>Puig et al., 2018</td></tr><tr><td>384</td><td>阿魏酸Ferulic acid</td><td>多枝桉 E.viminalis</td><td>叶Leaf</td><td>沈兆邦等，1986</td></tr><tr><td>385</td><td>咖啡酸 Caffeic acid</td><td>桉E.robust</td><td>叶Leaf</td><td>秦国伟等，1986</td></tr><tr><td>386</td><td>4-羟基-3,5-二甲氧基苯甲酸 4-Hydroxyl-3,5-Dimethoxyben zoic acid</td><td>柠檬桉E.citriodora</td><td>叶Leaf</td><td>付文卫等，2003</td></tr><tr><td>387</td><td>Chlorogenic acid</td><td>钉头桉 E. gomphocephal</td><td>叶Leaf</td><td>Al-sayed et al., 2012</td></tr><tr><td>388</td><td>龙胆酸 Gentisic acid</td><td>银叶桉E.cinerea</td><td>叶Leaf</td><td>Kahla et al., 2017</td></tr><tr><td>389</td><td>Protocatechuic acid</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>Tang et al., 2016</td></tr><tr><td>390</td><td>乙酸 Acetic acid</td><td>柠檬桉E.citriodora</td><td>叶Leaf</td><td>沈兆邦等，1987</td></tr><tr><td>391</td><td>Tetraacetyl tannic acid</td><td>柠檬桉 E.citriodora</td><td>叶Leaf</td><td>沈兆邦等，1987</td></tr><tr><td>392</td><td>cis-p-Coumaric acid-4-O-β-D- glucopyranoside</td><td>油味桉 E.urograndis</td><td>叶Leaf</td><td>陈运娇等，2016</td></tr><tr><td>393</td><td>Diphenyl-6-hydroxybiphenyl</td><td>柠檬桉E.citriodora</td><td>叶Leaf</td><td>陈运娇等，2016</td></tr><tr><td>394</td><td>diacylglucose 2,5-Dihydroxybenzoic acid</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>Pan et al., 2019</td></tr><tr><td>395</td><td>4-Hydroxybenzoic acid</td><td>桉树E. globulus</td><td>茎 Stem</td><td>Silvério et al., 2011</td></tr><tr><td>396</td><td>Gallic acid derivative</td><td>红铁木桉</td><td>叶Leaf</td><td>Okba et al., 2017</td></tr><tr><td>397</td><td>香草酸 Vanillic acid</td><td>E. sideroxylon 桉树E. globulus</td><td>茎 Stem</td><td>Silvério et al., 2011</td></tr><tr><td>398</td><td>丁香酸 Syringic acid</td><td>桉树E.globulus</td><td>茎 Stem</td><td>Silvério et al., 2011</td></tr><tr><td>399</td><td>cis-p-Coumaric acid</td><td>油味桉 E.urograndis</td><td>叶Leaf</td><td>陈运娇等，2016</td></tr><tr><td>400</td><td>3,4-Dihydroxyhyd rocinnamic acid</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>Pan et al., 2019</td></tr><tr><td>401</td><td>Quinol glucuronide/hydroxyphenyl glucopyranosiduronic acid</td><td>红铁木桉 E. sideroxylon</td><td>叶Leaf</td><td>Okba et al., 2017</td></tr><tr><td>402</td><td>2-O-Caffeoylquinic acid</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>Pan et al., 2019</td></tr><tr><td>403</td><td>trans-2-O-Coumaroylquinic acid</td><td>蓝桉 E.globulus</td><td>叶Leaf</td><td>Pan et al., 2019</td></tr><tr><td>404</td><td>trans-3-O-Caffeoylquinic acid</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>Pan et al., 2019</td></tr><tr><td>405</td><td>cis-3-O-Coumaroylquinic acid</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>Pan et al., 2019</td></tr><tr><td>406</td><td>2-O-Coumaroylquinic acid</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>Pan et al., 2019</td></tr><tr><td>407</td><td>4-O-Coumaroylquinic acid</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>Pan et al., 2019</td></tr><tr><td>408</td><td>3-O-Coumaroylquinic acid</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>Pan et al., 2019</td></tr></table></body></html>",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "附表8 脂肪醇类化合物",
+        "text_level": 1,
+        "page_idx": 34
+    },
+    {
+        "type": "table",
+        "img_path": "images/3e9df8c604679bc61f7bf5406cc2d6ee8b89e8a5b41e18309ac4b4d30900101b.jpg",
+        "table_caption": [
+            "Supplementary Table 8Fatty alcohols from Eucalyptus species "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号 No.</td><td>化合物 Compound</td><td>来源 Source</td><td>部位</td><td>参考文献</td></tr><tr><td>409</td><td>2-Methylhexadecan-1-ol</td><td>蓝桉E.globulus</td><td>Position 叶Leaf</td><td>Reference Pan et al., 2019</td></tr></table></body></html>",
+        "page_idx": 34
+    },
+    {
+        "type": "table",
+        "img_path": "images/fc19fb138f1f41f1ef1193a5a26fb449ba1feae8b1b2ee878bd64f59334fb879.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>410</td><td>Hexadecan-1-ol</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>Pan et al., 2019</td></tr><tr><td>411</td><td>Z-9-Octadecen-1-ol</td><td>蓝桉E. globulus</td><td>叶Leaf</td><td>Pan et al., 2019</td></tr><tr><td>412</td><td>E-9-Octadecen-1-ol</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>Pan et al., 2019</td></tr><tr><td>413</td><td>Octadecan-1-ol</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>Pan et al., 2019</td></tr><tr><td>414</td><td>Tetracosan-1-ol</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>Pan et al., 2019</td></tr><tr><td>415</td><td>Hexacosan-1-ol</td><td>蓝桉E.globulus</td><td>叶Leaf</td><td>Pan et al., 2019</td></tr><tr><td>416</td><td>Octacosan-1-ol</td><td>蓝桉E. globulus</td><td>叶Leaf</td><td>Pan et al., 2019</td></tr><tr><td>417</td><td>Octan-1-ol</td><td>桉树E. globulus</td><td>叶Leaf</td><td>Hakki et al., 2010</td></tr><tr><td>418</td><td>Docosan-1-ol</td><td>桉树E. globulus</td><td>叶Leaf</td><td>Hakki et al., 2010</td></tr><tr><td>419</td><td>Triacontan-1-ol</td><td>大桉 E. grandis</td><td>树皮Bark</td><td>Domingues et al., 2011</td></tr><tr><td>420</td><td>Eicosan-1-ol</td><td>桉树E. globulus</td><td>叶Leaf</td><td>Hakki et al., 2010</td></tr><tr><td>421</td><td>Coniferilic alcohol</td><td>桉树E. globulus</td><td>茎Stem</td><td>Silvério et al., 2011</td></tr></table></body></html>",
+        "page_idx": 35
+    }
+]

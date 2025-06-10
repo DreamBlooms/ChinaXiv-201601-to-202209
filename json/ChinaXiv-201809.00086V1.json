@@ -1,0 +1,584 @@
+[
+    {
+        "type": "text",
+        "text": "恩威并施、积极执行与工作绩效",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "探索中国情境下双元领导的有效性",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "侯楠」彭坚² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(」东北大学工商管理学院，沈阳110169)(广州大学工商管理学院，广州 510006)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 当今复杂多变的环境呼呼领导者应采取双元领导策略，以平衡组织内部的相异诉求。恩威并施是我国传统文化塑造的一种具有双元特性的典型领导行为，被大量学者视为提升下属产出的有效方式。然而，以往研究忽略了\"施恩\"(仁慈领导行为)和\"立威\"(威权领导行为)不同组合对下属工作产出的差异化影响及其内部机理。为了弥补这些不足，文章通过引入追随力理论，探讨了施恩和立威组合情况如何塑造下属执行力进而影响工作绩效。采用多项式回归和响应面分析方法，对130份两时间点上下级配对数据进行分析，发现：(1)在施恩与立威水平相当情况下，恩威皆高时下属积极执行程度要高于恩威皆低；(2)在施恩与立威水平不一致情况下，恩多威寡时下属积极执行程度要高于威多恩寡；(3）施恩与立威组合情况对下属积极执行的影响能够波及至下属工作绩效，其中，恩威皆高通过积极执行对工作绩效间接效应是最强的。以上结果细化了学界对恩威并施作用效果的认识，对双元领导、追随力和工作绩效等研究领域均有一定的启发意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词双元领导；仁慈领导；权威领导；恩威并施；追随力",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1问题提出",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在当今社会，领导者不可避免地需要面对、处理诸多“互异”诉求，如关注任务还是关心下属，以自我为中心还是以下属为中心。新近研究指出(Owens,Wallace,&Waldman,2015),单一的领导行为已无法满足组织及其成员的多样化需求，取而代之的是需要一种运用“既/又\"整合思维的领导方式，即双元领导(AmbidextrousLeadership)（Rosing,Frese,& Bausch,2011)。双元领导是由两种差异互补的领导行为构成的新型领导风格(Rosing et al.,2011)，并被视为影响工作产出的重要驱动力。纵观现状，双元领导研究主要聚焦在西方情境，关注探索与利用 (Keller&Weibler,2015)、变革和交易(Schreuders&Legesse,2012)等领导行为的整合，而根植于中国情境的双元领导探索还比较匮乏。鉴于此，本文拟立足于中国本土情境，开展具有中国文化特色的双元领导研究。在中国，由于受泛家族主义的影响(杨国枢,2004)，组织中上下级之间会呈现类似父子般的关系。此时，领导者(Leader)像父亲一样，既会树立威严来监管下属，又会表现出关怀下属的仁慈一面，由此展现出\"恩威并施\"的领导行为。目前，不少研究表明恩威并施与下属工作表现呈正相关(Tsai,Spain,&Wang,2013;Wang,WangTang,Tang,&Al,2016)。然而，也有一些研究发现，仁慈和权威领导并不能交互影响下属工作产出(李珲，丁刚，李新建,2014)，甚至负向影响公平感(周浩，龙立荣,2007)。出现上述问题的原因可能在于：其一，恩威并施与工作产出之间很可能存在复杂的影响路径，而不同路径则会给恩威并施带来不同的影响效果。其二，在恩威并施过程中，“仁慈领导者的施恩”和\"权威领导者的立威\"存在着不同组合情况，而不同组合中下属受到的对待也不尽相同，这可能给其工作产出造成差异化的影响效果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了解决上述议题，本文拟基于追随力理论(Followership Theory)(Uhl-Bien,Riggio,Lowe,&Carsten,2014)，以期打开恩威并施影响下属工作绩效的黑箱。追随力作为一种拥护并支持领导者工作的行为表现，其中重要且具有高度共识的维度是积极执行，即下属在执行领导者指令过程中体现出来的克服困难、精益求精等行为(周文杰，宋继文，李浩澜,2015)。本研究认为，领导者恩威并施会直接决定下属在任务执行过程中的积极性，最终影响到任务执行的质量和效率。具体来讲，仁慈的领导者，会激发下属产生感恩与回报之情，从而引发下属效忠；而威权的领导者，则会展现出高绩效指标、形象整饰及教诲行为(Farh&Cheng，2000)，这会促使下属公开附和、服从指派。倘若领导者采取恩威并施，下属在这种“宽严并济\"的工作氛围中，可能会善意地理解威权领导行为(石冠峰，李琨,2014)，认为威权仅仅是对工作方面的严格要求，对事不对人。这种理解会影响下属在任务执行过程中的态度——积极执行的程度，最终影响到任务执行的质量和效率(魏蕾，时勘,2010)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "恩威并施是两种领导行为的组合，它们之间作用效果会受到彼此的影响。当领导者同时实施仁慈与威权两种领导行为时，由于程度差异可能会形成图1所示的四种不同组合情形：高—高、低—低、高—低、低—高，我们分别将其命名为：恩威皆高、恩威皆低、恩多威寡、威多恩寡。基于上述分类，本文拟探讨：第一，程度相同时，下属积极执行是否会随着仁慈领行为与威权领导行为程度的升高而升高？第二，程度不同时，与威多恩寡相比，恩多威寡下的积极执行是否更优？第三，积极执行是否能够将恩威并施的影响效应传递至工作绩效？",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/ff4fda064258bac197f4bba7c6cfbb40a6c049902ba505ff1fc9614e710a9b0e.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "图1恩威并施：仁慈领导行为与权威领导行为的组合情况"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\" rowspan=\"2\"></td><td colspan=\"2\">威权领导行为</td></tr><tr><td>低</td><td>高</td></tr><tr><td rowspan=\"2\">仁慈 领导 行为</td><td>低</td><td>恩威皆低</td><td>威多恩寡</td></tr><tr><td>高</td><td>恩多威寡</td><td>恩威皆高</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1恩威并施与积极执行",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "恩威并施是一种具有颇具中国本土特色的双元领导行为。在工作中，仁慈的领导者体恤下属，关心下属工作需求；而威权领导者则严密控制下属绩效表现，要求下属服从。由此，我们基于双元领导视角将恩威并施定义为：领导者具备仁慈与威权两种差异互补的领导行为，并能够依据所处情境协调运用这两种领导行为。其中，仁慈领导是指领导者对下属工作和个人福祉表现出长久关怀(郑伯埙，周丽芳，樊景立,2000)，包括工作上的宽容体谅和生活上的个别照顾。这种较为周全的照顾虽有利于提升下属效忠与工作努力(Shin,Taylor,& Seo,2012)，但领导者一味地实施仁慈领导行为还可能引起下属的亲社会性规则违背(李锐，田晓明，柳士顺,2015)，或导致下属的过度依赖。针对仁慈领导行为的阴暗面，领导者的任务监控与规范维护等威权行为就显得尤为重要。威权领导是一种主张权威不容挑战，严密控制下属，要求下属完全服从的领导方式(郑伯埙等,2000)。这种领导行为既会展现出专断独权的作风，又会监控下属、严格要求下属绩效表现。在这种情况下，下属不得不表现出顺从、公开附和(Farh& Cheng,2000)。因此，我们认为仁慈领导行为与威权领导行为搭配互动，可能会扬长避短、相互增益，产生 $1 + 1 > 2$ 的作用功效。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "依据追随力理论(Uhl-Bien etal.,2014)，下属在追随领导者的过程中会产生相应的行为反应。在中国情境下，仁慈领导者和威权领导者在塑造下属追随行为方面具有重要作用。下属在追随仁慈领导者的过程中会更加努力工作(Shin,Taylor,& Seo,2012)，而当面对威权领导者时，下属的追随则常常表现为对领导者的服从、依附(De Cremer&Van Dijk,2005)。基于整合视角我们认为，仁慈领导行为与威权领导行为的协调运用同样会引发下属追随，这种追随既包括仁慈领导者所引发的积极态度，又包括威权领导者所催生的服从执行，最终表现为下属的积极执行。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "领导者在展现仁慈和威权两种不同行为时，可能存在程度上的差异，而这种程度差异可能导致下属在追随过程中所表现出的积极执行发生变化。具体而言，在施恩(仁慈领导行为)和立威(威权领导行为)程度相当时，领导者可能展现出\"恩威皆高”，亦可能表现出\"恩威皆低”。当恩威皆高时，领导者一方面会表现出专权，从而使下属老实地执行工作指令(ChengChou,Wu,Huang,&Farh,2004)，一方面又会对下属提携照顾、关怀生活，从而使下属感恩戴德，善意地理解领导者的专权作风。在这种情况下，下属在执行任务过程中会展现出更加积极的态度，以此来报答领导者的恩惠(周婉茹，周丽芳，郑伯埙，任金刚,2010)。恩威皆低时，低威权领导者会让下属放松警惕，在工作中出现怠慢的情况(任金刚，樊景立，郑伯埙，周丽芳,2003)；倘若领导者同时较少施展关怀与辅导，这会任由下属惰性的滋长，以至于无法真正激发出下属的积极主动性。在这种既缺乏监管又没有温暖的组织中，下属很可能会产生\"当一天和尚撞一天钟\"的心理，出现消极怠工的状态，终将不利于工作任务的积极执行。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "H1：当施恩(仁慈领导行为)与立威(威权领导行为)水平一致时，恩威皆高情况下的积极执行要高于恩威皆低。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在水平不一致时，领导者可能会形成“恩多威寡\"和\"威多恩寡\"两种不同领导行为。当恩多威寡时，在高仁慈领导者的关怀下，下属会产生回报领导者的动机。此时，倘若领导者威权行为较低，则能够增加下属在工作中享有的自主性与掌控感(Deci&Ryan,1985)，这为下属将互惠动机转换为实际行动提供了有利的激活环境。概言之，恩多威寡能促使下属在轻松、愉悦的状态下，表现出积极执行来报答领导者的关怀照顾。然而，当领导者表现出威多恩寡时，下属的积极执行相对较弱。具体来说，高威权的领导者为了维系其权力距离的优势，有时会干涉下属工作、漠视下属建议(周婉茹等,2010)。倘若此时领导者仅施以较少的关怀照顾，会使下属认为领导者不关心个人需求与发展(Farh&Cheng,2000)，从而萌生\"未善待自己\"的认知。这种认知无法有效激发下属的积极主动性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "H2：当施恩(仁慈领导行为)与立威(威权领导行为)水平不一致时，恩多威寡的情形下的积极执行要高于威多恩寡。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2积极执行的中介作用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "追随力理论提出了一个包括领导者特征、下属特征和追随产出的理论框架(Uhl-Bien etal.,2014)。该理论不仅概括了领导者因素如何影响下属的追随力，还包括下属的追随力所产生的能动结果。积极执行作为一种积极主动的追随行为，它意味着下属将大量精力和资源投入到工作角色、任务的执行中，这可以保证下属完成工作的时效性与精确性，有利于提升工作绩效(彭坚，王霄，冉雅璇，韩雪亮,2016)。将上述论点与假设1、2 结合，本文认为，既然恩威并施的组合情形会影响积极执行，继而影响下属工作绩效。首先，在施恩和立威程度一致时，领导者的恩威皆高会促使下属以积极的状态完成工作，最终获得最优的绩效表现。然而，领导者的恩威皆低不但会抑制下属的积极性还会降低其执行任务的时效性，必然会影响到最终的绩效表现。其次，在施恩和立威程度不一致时，面对恩多威寡的领导者，下属会以积极执行工作任务的方式回报领导者的关怀照顾，从而有利于完成基本的绩效目标。而在威多恩寡情形下，下属只是机械地服从命令，缺乏工作积极性。这不仅会影响到任务执行，还会降低绩效表现。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "H3：恩威并施能通过下属积极执行来影响工作绩效。其中，恩威皆高通过积极执行影响工作绩效的间接效应最强。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2 程序与方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1研究对象与程序",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究采用问卷调查法，联系重庆、上海及新疆3地的3家企业收集数据，涉及的行业包括电力与建筑设计行业。首先，研究者面向企业内部招募\"联络人”，“联络人\"负责在其组织内寻找愿意参加本研究的员工(建立时间半年以上)，并帮忙发放与回收问卷。在施测前，“联络人\"先确定好参与人的名单并进行编号，使其与问卷匹配。本研究进行两时点施测，其中：时间点一邀请 204名下属填写基本信息，并评价直属领导者的仁慈与权威情况。问卷回收后，剔除乱答、漏答的问卷。共回收有效问卷183份，回收率为 $8 9 . 7 1 \\%$ 。1个月后，本研究邀请183名完成了时间点一调查的下属继续参与调研。鉴于以往研究(许晟，李元清，曹元坤,2017)采用了自评的方式测量追随力，本研究同样让下属自评积极执行情况，并邀请直属领导者对下属工作绩效进行评价。此轮调查共获得有效配对问卷130份1，回收率为$7 1 . 0 4 \\%$ 。在下属样本中，男性占 $5 2 . 3 1 \\%$ ，平均年龄为21岁，本科及以上学历占 $9 4 . 6 2 \\%$ 入职时间为17个月，与领导者共事时间平均为17个月。在领导者样本中，男性占 $5 9 . 0 9 \\%$ 平均年龄为25岁，本科及以上学历占 $9 8 . 4 6 \\%$ ，任领导职务时间为40个月。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2测量工具",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究采用\"翻译-回译\"程序将英文量表翻译成中文。量表均采用李克特5点计分，从\"1\"到\"5\"表示符合程度由低到高。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "恩威并施：恩威并施主要由仁慈领导和权威领导构成。仁慈领导采用郑伯埙等(2000)开发的家长式领导中的仁慈领导分量表，权威领导则采用周婉茹等(2010)开发的威权领导量表。其中，仁慈领导包括\"个别照顾\"(6题)和\"宽容体谅\"(5题)两个维度，例题如：“他/她会根据我个人的需要，来满足我的要求”，“当我碰到难题时，他/她会及时给我鼓励”。 $\\mathbf { \\alpha } _ { \\mathrm { ~ \\normalfont ~ d ~ } }$ 系数分别为0.91和0.93；权威领导包括\"专权领导\"(8题)和\"尚严领导\"(10题)两个维度，例题如：“他/她要求下属完全服从他/她的领导”，“他/她会督促我的工作进度，要求我全力达成”。 $\\alpha$ 系数分别为0.96和0.93。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "积极执行：采用周文杰等(2015)在中国情境开发的追随力量表中的积极执行维度(2 题)，题目分别为：“我对他/她布置的工作精益求精，力求最好的表现”，“他/她布置的任务我会想",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "尽办法克服困难完成” $\\mathbf { \\Psi } ( \\alpha = 0 . 9 1 )$ ）",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "工作绩效：采用Chen,Tsui 和Farh(2002)开发的工作绩效量表(4 题)，如：“我能按时完成分派给我的工作任务”，“我的表现总能达到领导的期望” $\\langle \\alpha = 0 . 7 0 \\rangle$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "控制变量：依据以往研究(彭坚，王霄,2016)，本研究将领导者-下属的人口特征差值作为控制变量。除此之外，还将具有西方特色的\"开放-闭合\"双元领导作为控制变量，采用Rosing 等(2011)开发的开放型领导量表(7题)与闭合型领导量表(7题)。本研究中 $\\alpha$ 系数分别为0.85与0.90。需要说明的是，本研究借鉴 Zacher 和Rosing (2015)的研究，取开放领导与闭合领导两个变量平均值的乘积项测量\"开放-闭合\"这一双元领导，加入这一控制变量是为了控制西方双元领导的影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3统计分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究采用 SPSS20.0进行描述性统计与相关分析，并采用AMOS18.0进行验证性因素分析以检验变量的结构效度和区分效度。对于假设1、2与3的检验，本文运用多项式回归和响应面分析(Edwards & Parry,1993)，相比传统的调节回归分析和差异值分析，此种分析方法能提供更精确的结果。该方法模型公式如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\begin{array} { c } { { \\frac { \\equiv } { \\operatorname { \\bf { E } } } } + { \\bf { b } } _ { 0 } + b _ { 1 } { \\left( \\boldsymbol { X } \\right) } + b _ { 2 } { \\left( \\boldsymbol { Y } \\right) } + { \\bf { b } } _ { 3 } { \\left( \\boldsymbol { X } ^ { 2 } \\right) } + b _ { 4 } { \\left( \\boldsymbol { X } \\times \\boldsymbol { Y } \\right) } + { \\bf { b } } _ { 5 } { \\left( \\boldsymbol { Y } ^ { 2 } \\right) } } \\end{array} }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在上述公式中， $Z _ { \\mathrm { i j } }$ 代表下属积极执行， $\\mathrm { \\Delta } _ { \\mathrm { X } }$ 代表仁慈领导行为， $\\mathrm { \\Delta Y }$ 代表威权领导行为。在检验恩威并施对下属积极执行影响时，在一致性线 $( \\Chi = \\Upsilon )$ 对应的截面上，斜率 $( \\mathsf { b } _ { 1 } + \\mathsf { b } _ { 2 } )$ 用于检验假设1。在不一致线 $( \\mathbf { { X } } = - \\mathbf { { Y } } )$ 对应的截面上，斜率 $( \\mathsf { b } _ { 1 } - \\mathsf { b } _ { 2 } )$ 用于检验假设2。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "检验假设3时，由于恩威并施由五个多项式组成，中介效应中前半段路径系数实则为五个多项式对积极执行共同作用的结果。为了更准确地分析这一关系，我们参考了Edwards和Cable (2009)的建议，先将仁慈和威权领导行为生成一个组块变量(Block Variable)，并将其用于后续中介效应分析。具体做法是将五个多项式的原始值分别乘以对应的回归系数，进行加总。之后，采用Bootstrapping 法，估计效应值的偏差矫正 $9 5 \\%$ 置信区间以检验中介效应。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3研究结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1共同方法偏差检验",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了控制同源方差，本研究在施测程序上采用了多来源、多时间点的数据搜集方式。同时根据Podsakoff,MacKenzie,Lee 和 Podsakoff(2OO3)以及Dulac,Coyle Shapiro,Henderson 和Wayne (2008)的建议，我们采用了“Harman单因子法”和“未测单一方法潜因子法(Single-Common-Method-Factor Approach)\"来检验本研究的同源方差。Harman 单因子检验法结果显示，未经旋转的探索性因素分析析出的第一个因子为 $2 7 . 8 4 \\%$ ，不到总解释量的一半。基于未测单一方法潜因子法结果显示，模型中同源方差平均变异抽取量为0.37，低于同源方差可判定为潜因子的标准0.50 (Dulac et al.,2008)。综上，同源方差并未严重影响本研究的结果。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2验证性因素分析与区分效度",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了检验主要研究变量的结构效度和区分效度，本文对仁慈领导行为、威权领导行为、积极执行和工作绩效进行验证性因素分析。结果如表1所示，与其他3个竞争模型相比，四因素模型拟合指数都达到要求(RMSEA $< 0 . 0 8$ , NFI/CFI/TLI $> 0 . 9 0 \\dot { }$ )且呈现最优结果，这说明本研究中4个变量具有良好的区分效度。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/dc3e275d8cca04a8d9b673748130c5300e091b78659bbf32b31fd69a8f0dd6fb.jpg",
+        "table_caption": [
+            "表1验证性因素分析结果"
+        ],
+        "table_footnote": [
+            "注： $n = 1 3 0 _ { \\circ }$ AL $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 威权领导行为， $\\mathtt { B L } =$ 仁慈领导行为， $\\mathrm { J J X Z = }$ 积极执行， $\\begin{array} { r } { { \\mathrm { J P } } = } \\end{array}$ 工作绩效。符号\" $\\cdot _ { + } ,$ 表示将变量合并。"
+        ],
+        "table_body": "<html><body><table><tr><td>模型</td><td>X</td><td>df</td><td>x2/df</td><td>RMSEA</td><td>NFI</td><td>CFI</td><td>TLI</td></tr><tr><td>四因素：AL;BL;JJZX;JP</td><td>63.05</td><td>29</td><td>2.17</td><td>0.09</td><td>0.92</td><td>0.95</td><td>0.93</td></tr><tr><td>三因素：AL+BL:JJZX;JP</td><td>223.87</td><td>32</td><td>7.00</td><td>0.22</td><td>0.71</td><td>0.74</td><td>0.64</td></tr><tr><td>二因素：AL+BL+ JJZX;JP</td><td>149.41</td><td>34</td><td>4.39</td><td>0.162</td><td>0.81</td><td>0.84</td><td>0.79</td></tr><tr><td>单因素:AL+BL+ JJZX+ JP</td><td>432.43</td><td>35</td><td>12.36</td><td>0.30</td><td>0.45</td><td>0.46</td><td>0.30</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3描述性统计与相关分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，仁慈领导行为与积极执行 $( r = 0 . 6 6 , p < 0 . 0 I )$ 和下属工作绩效 $( r = 0 . 3 3$ ,p<0.05)呈显著正相关。下属积极执行与下属工作绩效 $( r = 0 . 3 3 , p < 0 . 0 I )$ 呈显著正相关。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/2d9ffde388189a5016ae86209fcc3b32e3c646e16fedd3d467c817450ba03d2b.jpg",
+        "table_caption": [
+            "表2主要研究变量的平均数、标准差和相关系数"
+        ],
+        "table_footnote": [
+            "注： $n = 1 3 0 _ { \\circ } \\ast \\ast p < 0 . 0 1 , \\ast p < 0 . 0 5 ,$ "
+        ],
+        "table_body": "<html><body><table><tr><td>变量</td><td>平均数</td><td>标准差</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>1开放-闭合双元领导</td><td>0.24</td><td>0.27</td><td></td><td></td><td></td><td></td></tr><tr><td>2 仁慈领导行为</td><td>4.07</td><td>0.73</td><td>-0.12</td><td></td><td></td><td></td></tr><tr><td>3威权领导行为</td><td>2.89</td><td>0.88</td><td>0.36**</td><td>-0.12</td><td></td><td></td></tr><tr><td>4 积极执行</td><td>4.34</td><td>0.62</td><td>-0.24**</td><td>0.66**</td><td>-0.07</td><td></td></tr><tr><td>5工作绩效</td><td>4.12</td><td>0.65</td><td>-0.09</td><td>0.33**</td><td>0.07</td><td>0.33**</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4假设检验结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表3呈现了多项式回归的结果。如表3所示，加入了平方项和交互项后，模型3的解释量得到显著提升 $( \\triangle \\mathbb { R } ^ { 2 } = 0 . 0 4$ $p < 0 . 0 5 )$ 。接下来，基于模型3的数据，本研究进行了响应面分析，结果如表4所示。首先，为了检验假设1(恩威皆高优于恩威皆低)对称效应，本研究拟检验一致性线 $( \\Chi = \\Upsilon )$ 的斜率 $( \\mathsf { b } _ { 1 } + \\mathsf { b } _ { 2 } )$ 是否显著。倘若斜率显著为正，则说明下属的积极执行随着施恩(仁慈领导行为)和立威(威权领导行为)程度的升高而递增；反之，这说明下属的积极执行随着施恩(仁慈领导行为)和立威(威权领导行为)程度的升高而递减。如表4中显示，响应面沿着一致性线 $( \\mathrm { X } = \\mathrm { Y } )$ 的斜率显著且为正值(斜率 $= 0 . 4 7 , p < 0 . 0 1 )$ ，这说明与恩威皆低相比，恩威皆高时，下属积极执行更高。因此，假设H1得到支持。其次，为了检验假设 2(恩多威寡优于威多恩寡)非对称效应，本研究拟检验不一致性线 $\\mathrm { ( X = - Y ) }$ 的斜率 $( \\mathsf { b } _ { 1 } - \\mathsf { b } _ { 2 } )$ 是否显著。倘若斜率显著为正，这说明恩多威寡(右边)时下属积极执行高于威多恩寡(左边)。如表4所示，响应面沿着不一致线 $( \\mathbf { { X } } = - \\mathbf { { Y } } )$ 的斜率显著为正值(斜率 $= 0 . 5 1 , p < 0 . 0 1 )$ ，且侧向位移量(lateral shift quantity)为-1.96 $( 9 5 \\% \\mathrm { C I } = [ - 2 . 3 4 , - 0 . 6 7 ] )$ 。即当领导者的施恩(仁慈领导行为)和立威(威权领导行为)程度不一致时，与威多恩寡相比，下属积极执行在恩多威寡的情形下更高。因此假设H2得到支持。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "基于表3中模型3的数据，我们绘制了响应面，形如凸形响应面(见图 2)。积极执行在后面蓝色位置(恩威皆高)时更高，且左角位置(威多恩寡)的下属积极执行要低于右角位置(恩多威寡)。在图2中，投射到响应面上的不一致线(左角到右角)近似一条直线，这表明：随着领导者仁慈程度由小到大趋势，甚至超过其威权程度时，下属的积极执行逐渐提高。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/1b1c08569a19508d838bf7b7eeb0b8a60063a02c82c05e861fdbc69e76e57ab2.jpg",
+        "table_caption": [
+            "表3多项式回归结果"
+        ],
+        "table_footnote": [
+            "注： $n = I 3 0 _ { o } ~ \\ast \\ast \\boldsymbol { p } < 0 . 0 I , ~ \\ast \\boldsymbol { p } < 0 . 0 5 _ { \\circ }$ "
+        ],
+        "table_body": "<html><body><table><tr><td>变量</td><td colspan=\"2\">积极执行</td><td></td></tr><tr><td></td><td>模型1</td><td>模型2</td><td>模型3</td></tr><tr><td>常数项</td><td>4.33**</td><td>4.39**</td><td>4.27**</td></tr><tr><td>性别差异</td><td>-0.06</td><td>-0.031</td><td>-0.01</td></tr><tr><td>年龄差异</td><td>-0.01</td><td>-0.01</td><td>-0.01</td></tr><tr><td>学历差异</td><td>0.04</td><td>0.09</td><td>0.14</td></tr><tr><td>任职时间差异</td><td>-0.01</td><td>-0.01</td><td>-0.01</td></tr><tr><td>共事时长</td><td>0.02**</td><td>0.01</td><td>0.01</td></tr><tr><td>开放*闭合</td><td>-0.43*</td><td>-0.40*</td><td>-0.52**</td></tr><tr><td>自变量</td><td></td><td></td><td></td></tr><tr><td>仁慈领导行为(X)bi</td><td></td><td>0.52**</td><td>0.49**</td></tr><tr><td>威权领导行为(Y)b2</td><td></td><td>0.59</td><td>-0.02</td></tr><tr><td>仁慈平方(X²)b</td><td></td><td></td><td>0.12*</td></tr><tr><td>仁慈*威权(X*Y)b4</td><td></td><td></td><td>0.08</td></tr><tr><td>威权平方(X)b5</td><td></td><td></td><td>0.09*</td></tr><tr><td>中介变量</td><td></td><td></td><td></td></tr><tr><td>积极执行</td><td></td><td></td><td></td></tr><tr><td>R²</td><td>0.14</td><td>0.47</td><td></td></tr><tr><td>△R²</td><td></td><td>0.33**</td><td>0.04*</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/927d78bd4a5873ad6bc2a047e460da38e135c642ce02bface541b2961c00e74d.jpg",
+        "table_caption": [
+            "表4响应面系数检验"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>估计参数</td><td>积极执行</td></tr><tr><td>一致性线X=Y</td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/497070fdb707cb90fa02f8b90fc767567881b3633e774e5ceaec6f0ba699d739.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注： $n = I 3 O _ { o } \\ast \\ast p < 0 . O I , \\ast p < 0 . O 5$ "
+        ],
+        "table_body": "<html><body><table><tr><td>斜率(bi+b2)</td><td>0.47**</td></tr><tr><td>曲率(b + b4+ b5)</td><td>0.29</td></tr><tr><td>不一致性线X=-Y</td><td></td></tr><tr><td>斜率(bi- b2)</td><td>0.51**</td></tr><tr><td>曲率(b3- b4+ b5)</td><td>0.13</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b71555177e274807cf3f1e119baab679134554bc54a83643763161a99670d68.jpg",
+        "img_caption": [
+            "图2恩威并施领导行为与积极执行"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.5下属积极执行的中介效应的检验结果",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "为了检验中介效应，我们参考了Edwards 和Cable (2009)的建议，先将仁慈领导行为和威权领导行为生成一个组块变量(BlockVariable)。组块变量可以更好地评估施恩(仁慈领导行为)和立威(威权领导行为)程度一致与不一致对中介模型的直接与间接效应(Edward& Cable,2009)。更重要的是，运用组块变量不会改变方程中其他变量的评估系数与总解释率(Zhang,Tsui,&Wang,2011)。具体做法是将五个多项式的原始值分别乘以对应的回归系数，进行加总。之后，进行中介效应的检验。我们运用目前学术界普遍认可并广泛使用的Bootstrap 法来检验中介效应值(Zhao,Lynch,& Chen, $2 0 1 0 ) ^ { 2 }$ ，结果见表5。恩威并施合成变量通过积极执行影响工作绩效的中介效应为0.16， $9 5 \\% \\mathrm { C I } = [ 0 . 0 4 , 0 . 3 7 ]$ ，不包括0。这说明中介效应显著，即假设3得到验证。同时，我们绘制了积极执行中介作用效果图，如图3所示。与前部相比，后部深蓝色处的工作绩效更高，这说明与恩威皆低相比，恩威皆高通过积极执行对工作绩效的正向影响更强；同时，左角位置的工作绩效要低于右角位置，这表明与威多恩寡相比，恩多威寡通过积极执行对工作绩效的正向影响更强。图3所描述的情况与本研究对中介效应统计分析的结果相一致，即恩威并施通过下属积极执行来影响工作绩效。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/a91a0c8a88091f4c33dbc06a8f06e77720874e8691e01c4e484bb4a7f400ad46.jpg",
+        "img_caption": [
+            "图3恩威并施经由积极执行对工作绩效的影响效应"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "此外,为了进一步解释积极执行的中介作用,借鉴 Matta, Scott,Koopman 和 Conlon (2015)的研究，还分析了仁慈领导行为与威权领导行为的组合情况通过积极执行对下属工作绩效的影响，具体操作如下：针对所讨论组合情况的不同，将多项式中X(仁慈领导行为)的值分别取1(低)或 5(高)，Y(威权领导行为)的值分别取1(低)或5(高)。结果如表5所示：在恩威皆高领导行为下，积极执行的中介效应最大(中介效应 $= 2 . 6 9 , 9 5 \\% C \\mathrm { I } = [ 0 . 3 0 , 5 . 5 6 ] )$ 。其次是恩多威寡情形(中介效应 $= 1 . 6 6 , 9 5 \\% C \\mathrm { I } = [ 0 . 1 7 , 3 . 4 0 ] )$ 、威多恩寡(中介效应 $= 0 . 8 8 , 9 5 \\% \\mathrm { C I } = [ 0 . 0 9 \\$ 2.02])、恩威皆低(中介效应 $= 0 . 2 1$ ， $9 5 \\% C \\mathrm { I } = [ 0 . 0 5 , 0 . 4 2 ] )$ 。综上，假设H3 得到支持。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/239d51aeed064dcf79d4286867d422a7411b0023ba3525829e3081627bc02d97.jpg",
+        "table_caption": [
+            "表5中介效应检验结果"
+        ],
+        "table_footnote": [
+            "注：n=130。\\*\\*\\*p<0.001，\\*\\*p<0.05,\\*p<0.10 "
+        ],
+        "table_body": "<html><body><table><tr><td>模型</td><td>前半段路径系数</td><td>后半段路径系数</td><td>中介效应</td><td>95%置信区间</td></tr><tr><td>恩威并施组块变量→积极执行→工作绩效</td><td>0.66**</td><td>0.24*</td><td>0.16</td><td>[0.03,0.35]</td></tr><tr><td>恩威皆高→积极执行→工作绩效</td><td>9.60*</td><td>0.28*</td><td>2.69</td><td>[0.30, 5.56]</td></tr><tr><td>恩威皆低→积极执行→工作绩效</td><td>0.76***</td><td>0.28*</td><td>0.21</td><td>[0.05,0.42]</td></tr><tr><td>恩多威寡→积极执行→工作绩效</td><td>5.92*</td><td>0.28*</td><td>1.66</td><td>[0.17, 3.40]</td></tr><tr><td>威多恩寡→积极执行→工作绩效</td><td>3.16*</td><td>0.28*</td><td>0.88</td><td>[0.09,2.02]</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.1结果分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "虽然已有研究认为，在华人组织中，恩威并施会对下属行为与产出产生积极影响，但是，仁慈领导行为和威权领导行为的不同组合对下属工作产出是否会产生差异化的影响效果?其内在机制又是什么？这些问题均尚未得到深入探究。本研究基于上述疑问，采用问卷调查法揭示了：在施恩(仁慈领导行为)和立威(威权领导行为)水平相当情况下，恩威皆高时下属积极执行程度要高于恩威皆低；在施恩(仁慈领导行为)和立威(威权领导行为)水平不一致情况下，恩多威寡时下属积极执行程度要高于威多恩寡；施恩(仁慈领导行为)和立威(威权领导行为)组合情况对下属积极执行的影响能够波及至下属工作绩效，其中，恩威皆高通过积极",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "执行对工作绩效间接效应是最强。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "第一，恩威并施这一典型的本土双元领导行为，同样会引发下属积极执行这一追随行为的产生。这一结论呼应了中国历代兵法思想，即带兵作战的将领，除了必须展现严明的纪律之外，亦需搭配仁慈之心方能发挥最大作战力。具体而言，一方面，当施恩(仁慈领导行为)和立威(威权领导行为)程度相当时，领导者恩威皆高更有利于促进下属积极执行。这是因为，领导者的恩威皆高不但会引发下属效忠、感恩，还会使下属老实地服从与执行工作指令(Cheng etal.,2004)。这会促使下属积极、有效地执行工作任务；与之相对，领导者的恩威皆低不但会导致低质量的交换关系，还会使下属放松警惕，怠慢领导者安排(任金刚等,2003)，影响下属的工作状态，以至于无法真正激发下属的积极主动性。另一方面，当施恩(仁慈领导行为)和立威(威权领导行为)水平不一致时，恩多威寡的领导者更有利于促进下属积极执行的产生。究其原因，领导者恩多威寡会使下属产生报恩的动机与信念，在一定程度上促使下属较为配合任务执行。相反，威多恩寡的领导者通常会对下属实施严密的监管，并缺乏对下属的关照。在这种情形下，下属只会被动地服从指令，缺乏工作积极性，从而影响到任务执行。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "第二，恩威并施领导行为能通过下属积极执行来影响工作绩效。其中，恩威皆高通过积极执行对工作绩效的影响作用是最强的。四种组合情形中，领导者恩威并施通过积极执行对下属工作绩效影响的效果由强到弱排列顺序为，恩威皆高>恩多威寡>威多恩寡>恩威皆低。这说明，在相同机制作用下，恩威并施并不一定都会带来好的绩效。只有恩威并施处于高水平时，才是最有效的领导行为(周婉茹等，2010)，能最大限度激发下属的积极执行并带来高绩效(Ozcelik＆Cenkci,2014)；而恩威皆低，积极执行及其催生的绩效表现是最差的。具体来说，恩威皆高由于领导者体现了较高程度的仁慈，会让下属认为领导者高威权不是要贬低他们的贡献、看轻他们的能力，而是旨在促进组织的发展(Aycan,2006)。在这种情况下，下属更能善意的理解领导行为，有利于培养下属积极的心理认知与情绪 (Cheng et al.,2004;)，促使下属采取积极执行的方式来回应领导者，而这种积极回应方式最终提升了下属工作绩效(Luthans,2002)。而恩威皆低营造的疏于监管并缺乏关怀的环境，使下属不愿积极执行工作任务，进而有碍于工作绩效提升。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "需要澄清的是，从理论上讲，恩威并施是通过积极执行才能影响工作绩效，倘若缺乏积极执行的传导作用，恩威并施与工作绩效的关系比较难以论证，正因如此，本研究并未直接提出主效应假设，且主效应在补充分析中也未得到支持。这说明恩威并施与工作绩效的关系依赖于积极执行的中介作用。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.2理论意义",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "第一，本研究通过探究领导者施恩(仁慈领导行为)和立威(威权领导行为)不同组合对下属产生的差异化影响，揭示了以往恩威并施相关研究存在分歧的原因。现有研究虽已探究恩威并施对下属的影响(Cheng et al.,2004; Chan,Huang,Snape,&Lan,2013)，但研究结论并未达成一致。例如，一些研究表明恩威并施能提高下属工作表现(Tsai et al.,2013;Wang et al.,2016)；而另一些研究则没有支持这一观点(李珲等,2014)。其实，这些研究只探究了仁慈领导行为与威权领导行为之间的简单交互作用，忽略施恩(仁慈领导行为)和立威(威权领导行为)不同组合对下属的影响。为了突破以往研究的窠臼，本研究首次探究施恩(仁慈领导行为)和立威(威权领导行为)不同组合对下属的影响，并发现：施恩(仁慈领导行为)和立威(威权领导行为)分别在“高-高一致”和“低-低一致”“高-低”和“低-高”情况下会对下属积极执行产生差异化影响，继而带来不同的绩效产出。这不仅有助于学界更深入地理解恩威并施之作用效果分歧的原因，并在一定程度上挑战了“恩威并施即为最优”的传统思维定势，也为后续研究的开展提供了一定启发。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "第二，本研究对恩威并施领导行为与下属工作绩效间的机理进行了深入挖掘，打开了恩威并施与下属产出间的内部黑箱。Chan 等(2013)虽然探索了领导者恩威并施对下属的影响效果，但尚未阐清其中的内部过程，并号召未来研究要丰富领导者恩威并施与下属绩效之间内在机理，以更全面地阐释其假设模型。鉴于此，本研究基于追随力理论(Uhl-Bien et al.,2014)，发现了追随力中重要且具有高度共识维度——积极执行(Uhl-Bien et al.，2014，周文杰等，2015)，在恩威并施与下属工作绩效间所起的重要作用，且施恩(仁慈领导行为)和立威(威权领导行为)不同组合情况正是借由积极执行才得以对下属工作绩效产生差异化影响。上述结果从新的理论视角，解释了领导者恩威并施为何能够提升下属工作绩效。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "第三，本研究回应了罗瑾琏、赵莉、韩杨、钟竞和管建世(2016)以及赵红丹和郭利敏(2017)的呼吁，将双元领导研究置于中国情境，帮助国内学者认识本土双元领导在华人组织中的作用功效。由于双元领导诞生于西方情境，以往相关研究大多聚焦于变革-交易(Schreuders &Legesse,2012)、开发-闭合(Rosing et al.,2011)等互异领导行为的整合。然而，由于东、西方文化的差异，学界和商界皆认识到，将西方研究结论直接套用在其他文化地区容易产生削足适履的现象(Smith& Wang，1996)。因此，扎根于中国情境，开展本土双元领导研究显得尤为迫切。鉴于此，本研究从中国传统的“家文化”出发，探索了像父亲一样仁慈又权威的领导者在华人组织中究竟会如何影响下属产出。上述探索既响应罗瑾琏等(2016)的号召，又呼应了“华人领导者具有一种恩威并施典型行为”的观点(郑伯塌，1995)。需要强调的是，本研究还发现，控制了“开放-闭合”这一西方双元领导行为后，恩威并施对下属行为及其工作产出的解释力具有增益效度。这更加凸显了中国情境下本土双元领导具有更强而应景的预测力，并启发后续双元领导研究可以尝试扎根于中国情境下的现实管理问题。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "第四，本研究将追随力理论引入到双元领导研究领域中，拓展了追随力理论在领导力研究领域的解释力。近年来，学者们逐渐意识到领导行为与下属追随行为存在密不可分的联系。同时，现有研究也相继表明领导行为会引发下属追随(Bjugstad,Thach,Thompson,& Morris2006；李浩澜，宋继文，周文杰，2015)，但这些研究大多集中在对单一领导行为的研究，而忽略了领导行为的复杂性及其对下属追随力的影响。为了填补上述不足，本研究基于追随力理论，遵循“领导者特征—下属的追随特征—下属产出\"这一理论框架(Uhl-Bien etal.,2014)，探究了恩威并施这种复杂领导模式对下属追随的影响。通过这项努力，本研究将追随力理论及其理论框架的适用范围从单一领导行为领域拓展到双元领导领域，能够检验、拓展追随力理论的解释或应用范围。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.3实践意义",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "提升下属工作绩效一直是组织管理中的重要实践议题。本文通过揭示恩威并施、下属积极执行与工作绩效的关系，为提升下属工作绩效提供了新思考。第一，面对当今复杂多变的外部环境，领导者应该培养整合思维，比如在培训领导者时拿出组织中的差异实例，让领导者分析、讨论，能够辩证地看待组织中的问题。这样有利于领导者在不同的情境下采取有效的双元领导行为来整合问题、平衡组织中的张力。第二，领导者不应单纯的实施仁慈领导行为或威权领导行为，而是应高度重视威权与仁慈领导行为的配合实施，培养领导者恩威并施。具体而言，领导者应根据下属的实际情况适度的集权并对下属任务执行情况进行监管，提出一定的绩效要求，同时要更加关心下属的工作与生活情况，及时给予下属鼓励与支持，借由恩威并施这种双元领导行为，提升下属的工作表现与组织的有效运营。第三，应注重提高下属积极执行。下属积极执行对其工作绩效表现出更为直接与有效的促进作用。因此，在实践中应积极协调威权与仁慈领导行为，保证下属在宽严并济的氛围中，积极主动地执行工作任务，最终提升其工作绩效。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.4不足与展望 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "本研究也存在一些不足，首先，本研究采用自评法测量下属积极执行，但自评与他评的工作行为可能存在差异。例如，自评工作行为可能会受到更多主观因素的影响。因此，后续研究可以通过自评与他评相结合的方法来弥补由下属自我评价所产生的不足。此外，本研究还存在着样本量较少以及样本过于年轻化的问题。在日后研究中，会扩充样本量，并从多年龄段、多行业等方面进行数据收集，使数据来源更多样化，结论更具说服力。其次，本文没有考虑影响领导者效能发挥的情境因素，如外部环境动态性。当今组织、领导者面临着充满不确定性、极端模糊的环境，领导者的工作也相应的充满了变化与挑战，他们需要时刻应对瞬息万变的工作需求。因此，在这种情境下，领导者恩威并施是否能有效协调组织内外环境，是未来研究的方向。再者，本研究中，恩威并施与下属工作绩效间直接效应不显著。MacKinnon,Krull和Lockwood (2000)指出，总效应不显著原因之一，是由于存在两条符号相反的中介路径，从而使得主效应不显著。因此，除了本研究探索的恩威并施之积极作用，后续研究可以基于认知失调理论，探究恩威并施的阴暗面。例如，恩威并施是否会影响下属心理安全(印田彬，邹艳春,2017)或自我损耗，进而对绩效产生负面影响；或者虽然能提升绩效，但是否以牺牲幸福感为代价(彭坚，王震,2018)。最后，不同于西方双元领导研究，本研究关注具有中国本土特色的恩威并施对下属行为与绩效的影响。那么，恩威并施与西方双元领导行为对下属行为与产出方面的影响是否存在差异，哪种领导行为的效用更强，均是未来的研究应考虑的问题。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "致谢：感谢江西省南丰县重点办何超对本研究的支持。",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Aycan,Z.(2O6).Pateralism:Twardsconceptualrefinementandoperationalization.IK.S.Yang,K.K.Hwang,&U.Ki(Eds.), Scientificadvncsinnigenoushologies:Empiical,ooical,ndultualtributios (pp.44466)o:ge   \nBjugstad,K.ch,E.oKs).rstloshp:gflo leadership styles.Journal of Behavioral& Applied Management,7(3),304-319.   \nCohen,J.(1992).A power primer.Psychological Bulletin,1l2(1),155-159.   \nCheng,B.S.(995).Therelationshipbetweeparentalauthorityand leadershipbehavior:Acasestudyofamoderatorinaprivate enterprise in Taiwan.TheCentralResearch InstituteofEthnology,79,119-173.   \n[郑伯损.(1995).家长权威与领导行为之关系：一个台湾民营企业主持人的个案研究．中央研究院民族学研究所集刊,79,119-173.]   \nCheng,B.S.,Zhou,L.F,&Fan,J.L.(o).Pateralisticleadership:Costructionandmeasurementofterarymode.Idigenous Psychological Research in Chinese Societies,l4,3-64.   \n[郑伯损，周丽芳，樊景立.(2000).家长式领导：三元模式的建构与测量，本土心理学研究,14,3-64.]   \nChen,Z.X.,Tsu,A.S.，&Farh,J.L.(O2).Loyaltytosupervisors.organizationalcommitment:Relationshipstomplyee performance in China.Journal of Occupational and Organizational Psychology,75(3),339-356.   \nCheng,B.S.,Co,L.F,Wu,T.,ang,.P,&Fh,J.().Patealistladersdubordateespos:Estabg leadership model in Chinese organizations.Asian Journal of Social Psychology,7(1),89-117.   \nChan,S.C.Huang,XapeE,a,C..(l).ejausfcefateaisticlader:Authoriasm,eoce subordinates'organization-basedself-esteem,ndperformance.JournalofOrganizationalBehavior,34(1),08-128   \nDeci,E.L.,&Ryan,R.M.(1985).Intrinsic motivationandself-determinationinhumanbehavior NewYork:Plenum   \nDeCremer,D,&VanDijk,E.(o5).Whenandwhyladersputthemselvesfirst:Leaderbehaviouriresourcealocationsasafunction of feeling entitled.EuropeanJournalofSocialPsychology,35(4),553-563.   \nDulac,T.,CylhpioJ.A.des,,ae.J.).otalspsteacrehe:eteoof social exchangandpsyhologicalotractprocees inorgazations.AcademyofanagementJoual,51(6),098.   \nEdwards,J.R.，&Parry,M.E.(1993).Ontheuseof polynomialregresionequationsasanaltermativetodierencescoresin organizational research.Academy of anagement Journal,36(6),1577-1613.   \nEdwards,J.R.,&Cable,D.M.(009).The valueof value congruence.JournalofApplied Psychology,94(3),654-677.   \nFarh,J.L,&eng,B..().AulturaalisfpatealisticeadershiieorganatiosITLi.S.s&W Weldon (Eds.),Management and organizations in the Chinese context (pp.85-127).London: Macmillan.   \nKeler,T,&Weiblr.O5)atitakesdotstbdetrousaagerJoualfedersipanzatioldie 22(1), 54–71.   \nLuthans,F.(O).heedfoadmeaingfosieoranzatioaleavior.JoualfOrgazatioalehavio,,6   \nLi,H.,DingG,&LiX.J(O14).TeimpactofleadershiponemployeeiovationbeaviorinthecontextofChina—Teerspectie paternalistic leadership ternary theory. ChineseJournal of Management,Il(7),1005-1013.   \n[李珲，丁刚，李新建.(2014).基于家长式领导三元理论的领导方式对员工创新行为的影响．管理学报,I(7),1005-1013.]   \nLi,H.L.,Song,J.W,&Zou,W.J.(l5).ThimpactoftraforatioalleadershonmploefollowershieCieotet. Human Resources Development of China, (15),47-55.   \n[李浩澜，宋继文，周文杰.(2015).中国文化背景下变革型领导风格对员工追随力的作用机制.中国人力资源开发,(15),47-55.]   \nLuo,J.L.,Zhao,L,Han,Y.,Zhong,J,&Guan,S.J.(16).Overvieandprospectonresearchofambidextrousleadershp.inese Journal ofManagement,13(12),1882-1889.   \n[罗瑾琏，赵莉，韩杨，钟竞，管建世.(2016).双元领导研究进展述评．管理学报,13(12),1882-1889.]   \nMackinno,Dul,J.,od..).efifgdo Science theOfficialJournaloftheSocietyforPreventionResearch,l(4),173-181   \nMata,F.K.,Scot,B.,Kooan,,&Colon,D.(15).Desseing\"eyeteye\"afctwrkengagementandOCB?Arleo perspective onLMX agreement.Academy ofManagement Journal,58(6),1686-1708   \nOzgelik,G,&CenkciT.4).oderatigfctsfjbmbeddedesohaiosipewenatealisticaershidole job performance.Procedia-Social and Behavioral Sciences,150,872-880. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Owens,B.PWallace,A.S.,&Wan,DA.(O5).Laderarcssndoeroms:ebalainctoflder humility.Journal of AppliedPsychology,l00(4),1203-1213. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Podsaoff,P.ackenie,S.,Lee,J.,&odsakof,N.P.(O3).Commomethodbiasesinbehavioraesearh:Ariical review of the literature and recommended remedies.Journal of Applied Psychology,88(5),879-903. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Peng,J.,Wang,X,an,Y,&Han,X.(6).Capositiefollowershiaracteristicalwaspromoteorkucomesetiatio effect of benevolent leadership.Nankai Business Review,19(4),135-146.   \n[彭坚，王霄，冉雅璇，韩雪亮.(2016).积极追随特质一定能提升工作产出吗——仁慈领导的激活作用．南开管理评论，19(4), 135–146.]   \nPeng,J.,& Wang,X.(o16).Iwillperforefectivelyifyouarewithe:Leader-followercongruenceinfollowershipprototypejb engagement and job performance.Acta Psychologica Sinica, 8(9),1151-1162.   \n[彭坚，王霄.(2016).与上司\"心有灵犀\"会让你的工作更出色吗?——追随原型一致性、工作投入与工作绩效．心理学报，48(9), 1151-1162.]   \nPeng,J.,&Wang,Z.(18).Beingaprototyicfollower:urdeningabling?epradoxicaleffectoffollowershirotottrait match.Acta Psychologica Sinica,50(2),216-225.   \n[彭坚，王震.(2018).做上司的“意中人\"：负担还是赋能？追随原型-特质匹配的双刃剑效应.心理学报,50(2),216-225.]   \nRen,J.Gh)ed Ananalysisof individualandorganizational levels.Chinese indigenouspsychologyresearch inministryofeducation.Taibei: MinistryofEducation.   \n[任金刚，樊景立，郑伯损，周丽芳.(2003)．高阶主管之家长式领导与组织效能：一项个人与组织层次的分析.教育部华人本土心 理学研究追求卓越计划研究报告．台北：教育部.]   \nRosing,K.,rese,M.&BauschA.(Ol).Explingtheterogeneityofteladership-ioatiorelationshi:Ambdetous leadership.Leadership Quarterly,22(5),956-974.   \nSmith,P.B.,&Wang,Z.(996).Chineseleadershiandorganzationaltructures.In.Hond(End.)heandbookofCine psychology (pp.322-337),Hong Kong: Oxford University Press.   \nSchreuders,J.,&Legese,A.(2ol2).Organizationalambidexterty:Howsmalltechologyfimsbalanceinnovationandsuppor. Technology Innovation Management Review,2(2),17-21.   \nShin,J.,Taylor,MS,&Seo,.G(ol).esourcesfoange:Theelationsipsfranzatinalinucementsndpsological resiliencetomployes'atitudesadbehaviorstowardrganzationalchange.AcademyofanagementJoual,55(3),48   \nShi,G.F.,&Li,K.(014).TheimpactofauthoritarianleadershipndbenevolentleadershiponteamcreativityTestofamediated interaction model.Journal ofGuizhou UniversityofFinance and Economics,32(5),53-61.   \n[石冠峰，李琨.(2014).威权领导、仁慈领导对团队创造力—一个有中介的交互效应模型检验．贵州财经大学学报,32(5),53-61.]   \nTsai,C.Y.,Spain,S.M.,&Wang,A.C.(2l3).Pateralisticleadership:Impactofuthoritarianismandbenevolencenbdinte performance. Paper presented atAcademyof Management Anual Meting Proceedings,73rd Annual Meting ofthe Academyof Management, Orlando, US.   \nUhl-Bien,M.,gioR.E,owe,K..Casten,.K.().Foowersipheoryvieandesearchgenda.edep Quarterly,25(1),83-104.   \nWei,L.,&Si,K.(l0).Patealisticladershipndjobivolvement:Teedatingoleofychologicalempowerentudief PsychologyandBehavior,8(2),88-93.   \n[魏蕾，时勘.(2010).家长式领导与员工工作投入：心理授权的中介作用．心理与行为研究,8(2),88-93.]   \nWang,T.Wang,FngngY,&l,E.).diatidctuaoaofioal Social Sciencesin China,37(3),111-129   \nXu,S.,Li,Y.Q.,&Cao,Y,K.(2O17).Theinfuenceofindividualpersonlitytraitsonfolowershipbehavior:Acostructionf modulating meditation model. Human Resources Development of China,(7),6-15.   \n[许晟，李元清，曹元坤.(2017).个体人格特质对追随行为的影响:一个调节的中介模型建构．中国人力资源开发,(7),6-15.]   \nYang,GS.(2Oo4).PsychologyandbehaviorofChinesepeople:Astudyoflocalization.Beijing,China:RenminUniversityof China Press.   \n[杨国枢.(2004).中国人的心理与行为：本土化研究.北京：中国人民大学出版社.]   \nZhou,H.,&LongLR.(O).elatiositwenatealisticeadershdgazatioaljustice.ActaPchologcanc9(5) 909-917.   \n[周浩，龙立荣.(2007).家长式领导与组织公正感的关系．心理学报,39(5),909-917.]   \nZhao,X.,Lynch,J.G,&Chen,Q.(olo).Rcosideringbaronandkey:Mythsandtruthsboutmediationanalysis.Social Science ElectronicPublishing,37(2),197-206.   \nZhou,W.R.,Zhou,L.F,Cheng,B.S.,Ren,J.G.(2olO).Juan-chiuanandshang-yan:Thecomponentsofauthoritarianleadership. Indigenous Psychological Research in Chinese Societies,34,223-284.   \n[周婉茹，周丽芳，郑伯埙，任金刚.(2010).专权与尚严之辨：再探威权领导的内涵与恩威并济的效果．本土心理学研究，34, 223-284.]   \nZhang,A.Y.,Tsui,A.S.,&Wang,D.X.(2O).Leadershipbehaviorsandgroupcreativityinhineseorganizations:Theoleofoup processes.The Leadership Quarterly,22(5),851-862.   \nZacher,H.,&osing,K.(ol5).AmbidextrousadershipdteaminnovationLeadership&OrganzationDevelopmentJoual,6(), 54-68.   \nZhou,W.J.,Song,J.W.,&Li,H.L.(2Ol5).Thedefinition,structureandmeasurementoffoowshipinChinesecontext.Acta Psychologica Sinica,12(3),355-363.   \n[周文杰，宋继文，李浩澜.(2015).中国情境下追随力的内涵、结构与测量．管理学报,12(3),355-363.]   \nZhao,H.D.,&Guo,L.M.(Ol7).Thebestof both worlds:Theconceptual structureand influencing mechanismsofambidextrous leadership.HumanResourcesDevelopment in China,(4),55-65.   \n[赵红丹，郭利敏.(2017).组织中的双面娇娃:双元领导的概念结构与作用机制．中国人力资源开发,(4),55-65.]   \nZou,Y.C.,&in,T.B.(217).Amulti-evelperspectiveotheevieofpsyhologicalsafety.HumanResoucesDevelopmentofChina (4),66-75,121. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[邹艳春，印田彬.(2017).多层次视角下的心理安全研究评述．中国人力资源开发,(4),66-75,121.]",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Authoritarian-benevolent leadership, active implementation and job performance: An investigation on the effectiveness of ambidextrous ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "leadership in the Chinese context ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "HOUNan1;PENG Jian² ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(l School of Business Administration,Northeastern University,Shenyang llOl69,China) $^ { - 2 }$ School of Management,Guangzhou University,Guangzhou 5looo6,China) ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Ambidextrous leadership is key to solving organizational tension and complex problems. This type of leadership has gained attention in the field of organizational behavior in recent years. Ambidextrous leadership refers to a set of two complementary leadership behaviors and the flexibility switch between two different behaviors.Existing studies noted the extensive benefits of ambidextrous leadership to employees and organizations. These advantages include enhancement of the psychological empowerment of employees，exploratory and exploitative behaviors, innovation,and organizational change. Prior studies focused on ambidextrous leadership from the Western context. These studies include opening-closing leadership and transformational-transactionalleadership.However，theconsequencesofindigenous ambidextrous leadership in the Chinese context remain poorly understood. A particular ambidextrousleadershipembedded in Chineseculturewasidentified,namely, authoritarian-benevolent leadership. The present study focuses on the combination of authoritarian and benevolent leadership,which is regarded as a type of indigenous ambidextrous leadership. The researchers aimed to investigate the effect of different combination modes of benevolent and authoritarian leadership on the work outcome of subordinates and its underlying mechanism. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The researchers identified four scenarios by combining the two kinds of leadership, namely, highauthority-high benevolence， lowauthority-lowbenevolence， high authority-low benevolence，low authority-high benevolence. This approach was based on the level of authoritarian and benevolent leadership.The former two forms of leadership fall under the congruence category, whereas the later two fall under the incongruence category. By drawing on followership theory, the researchers expected that the active implementation of subordinates was high when leaders were at a high level of authoritarian leadership and benevolent leadership than when at a low level of authoritarian leadership and benevolent leadership. The researchers also found that the active implementation of subordinates was high when the benevolent leadership of leaders exceeded authoritarian leadership rather than when authoritarian leadership exceeded benevolent leadership.Third,the active implementation of subordinates carred the joint effect of benevolent and authority leadership to the job performance of followers. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "A multiwave, multiresource survey was used to test the hypotheses. Surveys were given to 204 voluntary subordinates at Time 1. They were required to report their leaders’benevolent leadership and authoritarian leadership and demographic information. The researchers obtained 183 effective survey responses. After one month, the researchers conducted Time 2 survey, which required leaders to rate the job performance of their subordinates. The subordinates were then required to rate their active implementation.A total of 13O effective survey responses were obtained. The researchers used polynomial regression combined with response surface analysis based on the two-wave data. The results supported the hypotheses. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The findings offered several contributions to literature.First, different combination modes of benevolent and authoritarian leadership have different efects on the work outcome of subordinates. Second, the researchers uncovered the dynamics between authoritarian-benevolent leadership and work outcome of subordinates.These findings can aid Chinese scholars to gain an improved understanding of indigenous ambidextrous leadership. These findings advance the understanding on how authoritarian leadership combined with benevolent leadership affects the performance of followers. The findings also provide further practical insights to practitioners. Key words ambidexterity leadership; benevolent leadership; authoritarian leadership; benevolent authority; followership ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    }
+]

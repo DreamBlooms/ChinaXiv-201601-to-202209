@@ -1,0 +1,196 @@
+1饲粮 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ 多不饱和脂肪酸比值对冬毛期北极狐生长性能及肝脏脂肪酸代谢相关蛋白基因  
+2 表达的影响'
+
+钟　伟　张　婷　罗　靖　岳志刚　刘学庆　樊燕燕 孙皓然 孙旭阳李光玉\*
+
+（中国农业科学院特产研究所，吉林省特种经济动物分子生物学省部共建实验室，长春摘要:本试验旨在研究饲粮 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ 多不饱和脂肪酸(PUFA)比值对冬毛期北极狐生长性能、肝脏脂肪酸组成及肝脏型脂肪酸结合蛋白(L-FABP)和脂肪酸转运蛋白(FATP)基因表达的影响。试验选取48只157日龄、平均体重为（ $( 5 ~ 6 5 8 { \pm } 4 7$ ） $\mathrm { \bf { g } }$ 的健康雄性北极狐，随机分成4组,每组12个重复，每个重复1只。I组饲粮中添加 $1 2 . 0 0 \%$ 鱼油和 $2 . 0 0 \%$ 豆油， $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA比值为 3.00；Ⅱ组饲粮中添加 $9 . 3 8 \%$ 玉米油和 $4 . 6 2 \%$ 豆油， $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA 比值为18.03：；III组饲粮中添加 $1 2 . 0 0 \%$ 玉米油和 $2 . 0 0 \%$ 豆油， $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA 比值为40.83；IV组饲粮中添加$1 . 5 0 \%$ 鱼油和 $1 2 . 5 0 \%$ 玉米油， $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA 比值为136.36。各组饲粮除油脂组成和配比不同外，其他原料一致。预试期 $^ { 7 \mathrm { ~ d ~ } }$ ，正试期 $4 0 \mathrm { ~ d ~ }$ 。结果表明：1）饲粮 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA 比值对冬毛期北极狐的平均日增重（ADG）、平均日采食量（ADFI）和料重比（F/G）有极显著影响( $( P { < } 0 . 0 1 \$ ）。I和IV组的 ADG 极显著高于Ⅱ和I组（ $\cdot P { < } 0 . 0 1 \$ ），I、Ⅱ和IV组的ADFI极显著高于Ⅲ组（ ${ \cdot } P { < } 0 . 0 1 \$ ）， $\mathrm { I V }$ 组的F/G 极显著低于ⅡI和II组（ ${ \cdot } P { < } 0 . 0 1$ ）。2）饲粮 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA 比值对冬毛期北极狐肝脏单不饱和脂肪酸（MUFA）、PUFA、n-3PUFA和n-6PUFA的含量有显著或极显著影响（ $. P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1 )$ ，对肝脏饱和脂肪酸（SFA）含量无显著影响（ $. P { > } 0 . 0 5$ ）。I和IV组肝脏n-3PUFA含量极显著高于ⅡI和II组（ $_ { \cdot \cdot P < 0 . 0 1 }$ ），ⅡI和I组肝脏n-6PUFA含量极显著高于I和IV组（ $\cdot  { P } { < } 0 . 0 1$ ）。3）饲粮 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA比值对冬毛期北极狐肝脏L-FABP mRNA 相对表达量无显著影响 $( P { > } 0 . 0 5 )$ ），但极显著影响肝脏 $F A T P$ mRNA相对表达量 $( P { < } 0 . 0 1 )$ 。I和IV组肝脏FATPmRNA相对表达量极显著高于II和III组 $( P { < } 0 . 0 1 )$ ）由此可见，饲粮添加 $1 . 5 0 \%$ 鱼油与 $1 2 . 5 0 \%$ 玉米油的混合油脂，即饲粮 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA比值为136.36时，上调了肝脏中FATP基因的表达，增加了肝脏长链脂肪酸的转运及利用效率，促
+
+进了冬毛期北极狐的生长。  
+关键词： $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ 多不饱和脂肪酸；北极狐；肝脏；脂肪酸；肝脏型脂肪酸结合蛋白；脂肪酸转运蛋白
+
+中图分类号：S816 文献标识码：A 文章编号：
+
+多不饱和脂肪酸(polyunsaturated fatty acids，PUFA)，尤其是n-3 和 n-6 PUFA，对机体脂类代谢、基因表达调控、免疫机能及畜禽产品脂肪酸组成等方面发挥着重要作用[1-2]。由于n-6 和n-3PUFA在机体内不能相互转化，必须通过饲粮摄取，因此 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA比值平衡成为目前最受关注的问题。 $\mathrm { n } { - } 6$ 和n-3PUFA是动物必需脂肪酸，研究表明饲料中添加n-6和n-3 PUFA 既能满足必需脂肪酸的需要，适宜n-6/n-3PUFA比值能维持机体的生理机能，调节脂质代谢，促进畜禽健康生长[3-7]。毛皮动物体脂肪酸组成与饲粮脂肪酸组成存在一定的对应关系[8-10]，且不同组织中脂肪酸组成有差异[11]。肝脏型脂肪酸结合蛋白（L-FABP)和脂肪酸转运蛋白（FATP）是具有脂肪酸转运作用的2种蛋白，L-FABP 是脂肪酸结合蛋白家族（FABPs）的重要成员，FATP是跨膜转运蛋白超家族（FATPs）中的一员，2种蛋白均对长链脂肪酸具有高度亲和力，在脂质代谢过程中，对脂肪酸的摄取与转运起着重要作用[12-13]。北极狐(Alopexlagopus)，属于食肉目犬科动物，原产于亚洲、欧洲、北美洲北部和接近北冰洋地带，属于世界珍贵的毛皮动物之一。北极狐在耐受脂肪方面与畜禽存在不同[14],其在脂肪酸利用、转运及沉积方式方面的研究尚未见研究报道。因此，本文旨在通过研究饲粮 n-6/n-3PUFA比值对冬毛期北极狐生长性能、肝脏脂肪酸组成、L-FABP 和FATP基因表达的影响，以期为北极狐的生产及脂肪代谢研究提供理论依据。
+
+1材料与方法
+
+1.1试验动物试验选用的北极狐是地产芬系北极狐，即引进的芬兰种狐经过多年繁育所形成的地方品  
+种。
+
+1.2试验设计与试验饲粮
+
+选取157日龄48只平均体重为（5 $6 5 8 { \pm } 4 7$ ）g的健康生长期雄性北极狐，随机分成4组，每组设12个重复，每个重复1只北极狐。以膨化玉米、豆粕、玉米蛋白粉、干酒糟及其可溶物（DDGS)、鱼粉、肉粉、油等为主要原料，同时添加由矿物质元素、维生素等组成的营养性添加剂配制成试验饲粮，饲粮中脂肪酸需求量参照FEDIAF（European Pet FoodIndustry Federation，2011）[15]，通过改变饲粮中的油脂配比来调配脂肪酸的比例，各组饲粮除油脂组成和配比不同外，其他原料一致。其中，I组饲粮中添加 $1 2 . 0 0 \%$ 鱼油和 $2 . 0 0 \%$ 豆油， $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA比值为3.00；ⅡI组饲粮中添加 $9 . 3 8 \%$ 玉米油和 $4 . 6 2 \%$ 豆油， $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA比值为18.03；II组饲粮中添加 $1 2 . 0 0 \%$ 玉米油和 $2 . 0 0 \%$ 豆油， $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA比值为40.83;IV组饲粮中添加 $1 . 5 0 \%$ 鱼油和 $1 2 . 5 0 \%$ 玉米油， $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA比值为136.36。试验饲粮组成及营养水平、脂肪酸组成分别见表1和表2。
+
+表1试验饲粮组成及营养水平 (风干基础)  
+Table 1 Composition and nutrient levels of experimental diets (air-dry basis) %   
+
+<html><body><table><tr><td>项目Items</td><td colspan="4">组别 Groups</td></tr><tr><td></td><td>I</td><td>II</td><td>ⅢI</td><td>IV</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td><td></td></tr><tr><td>膨化玉米 Extrusion corn</td><td>32.75</td><td>32.75</td><td>32.75</td><td>32.75</td></tr><tr><td>豆粕 Soybean meal</td><td>12.00</td><td>12.00</td><td>12.00</td><td>12.00</td></tr><tr><td>玉米蛋白粉 Corn protein meal</td><td>8.00</td><td>8.00</td><td>8.00</td><td>8.00</td></tr><tr><td>干酒糟及其可溶物 DDGS</td><td>1.55</td><td>1.55</td><td>1.55</td><td>1.55</td></tr><tr><td>鱼粉 Fish meal</td><td>16.00</td><td>16.00</td><td>16.00</td><td>16.00</td></tr><tr><td>肉粉 meat meal</td><td>10.00</td><td>10.00</td><td>10.00</td><td>10.00</td></tr><tr><td>赖氨酸Lys</td><td>0.80</td><td>0.80</td><td>0.80</td><td>0.80</td></tr><tr><td>蛋氨酸Met</td><td>0.40</td><td>0.40</td><td>0.40</td><td>0.40</td></tr><tr><td>预混料 Premixl)</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>鱼油Fish oil</td><td>12.00</td><td></td><td></td><td>1.50</td></tr><tr><td>玉米油 Corn oil</td><td>0.00</td><td>9.38</td><td>12.00</td><td>12.5</td></tr><tr><td>豆油 Soybean oil</td><td>2.00</td><td>4.62</td><td>2.00</td><td></td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td></tr><tr><td>食盐 NaCl</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr></table></body></html>
+
+营养水平 Nutrient levels2
+
+<html><body><table><tr><td>代谢能 ME/(MJ/kg)</td><td>19.04</td><td>19.03</td><td>19.14</td><td>19.05</td></tr><tr><td>粗蛋白质 CP</td><td>29.76</td><td>29.39</td><td>29.82</td><td>29.76</td></tr><tr><td>粗脂肪 EE</td><td>15.50</td><td>15.13</td><td>15.77</td><td>15.09</td></tr><tr><td>粗灰分 Ash</td><td>9.31</td><td>8.82</td><td>9.05</td><td>8.71</td></tr><tr><td>碳水化合物Carbohydrate</td><td>41.43</td><td>42.66</td><td>41.36</td><td>42.44</td></tr><tr><td>赖氨酸Lys</td><td>1.41</td><td>1.41</td><td>1.41</td><td>1.41</td></tr><tr><td>蛋氨酸+半胱氨酸Met+Cys</td><td>1.05</td><td>1.05</td><td>1.05</td><td>1.05</td></tr><tr><td>钙Ca</td><td>1.613</td><td>1.544</td><td>1.504</td><td>1.397</td></tr><tr><td>磷P</td><td>1.139</td><td>1.034</td><td>1.103</td><td>0.977</td></tr></table></body></html>
+
+（20 $1 ^ { \circ }$ 每千克预混料含有 One kilogram of premix contained the following：VA 300 000 IU，VD3 200 000 IU, VE 4 000 mg，VK $3 5 0 ~ \mathrm { m g }$ ，VB1 400 mg， $\mathrm { V B } _ { 2 } 5 0 0 ~ \mathrm { m g }$ ，VB6 $2 0 0 ~ \mathrm { { m g } }$ ， $\mathrm { V B } _ { 1 2 } 4 . 2 \ : \mathrm { m g }$ ，叶酸 folic acid $5 0 \mathrm { m g }$ ， 泛酸 pantothenic acid $2 2 0 0 \mathrm { m g }$ ，生物素 biotin $1 6 0 0 \mathrm { m g }$ ，氯化胆碱 choline chloride $1 2 0 ~ \mathrm { m g }$ ，vC $1 2 0 0 0 \mathrm { m g }$ Fe $4 0 0 0 \mathrm { m g }$ ，Zn 3 200 mg，Mn 1 600 mg， $\mathrm { ~ I ~ } 8 0 \ : \mathrm { m g }$ ，Se $1 2 \mathrm { m g }$ ，Cu 500 mg。 2）粗蛋白质、粗脂肪、粗灰分、赖氨酸、蛋氨酸、钙、磷均为测定值，其他为计算值。CP,EE,Ash,Lys,Met, Caand P were calculated values,while the others were measured values.
+
+# 表2试验饲粮脂肪酸组成
+
+脂肪酸
+
+<html><body><table><tr><td>Fatty acids</td><td></td><td>I</td><td>III</td><td>IV</td></tr><tr><td>C12:0</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>C14:0</td><td>1.46</td><td>0.01</td><td>0.00</td><td>0.18</td></tr><tr><td>C14:1</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>C15:0</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>C15:1</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>C16:0</td><td>8.56</td><td>4.12</td><td>3.37</td><td>3.45</td></tr></table></body></html>
+
+<html><body><table><tr><td>C16:1</td><td>4.15</td><td>0.01</td><td>0.00</td><td>0.51</td></tr><tr><td>C17:0</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>C17:1</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>C18:0</td><td>1.79</td><td>1.10</td><td>0.76</td><td>0.63</td></tr><tr><td>C18:1n-9t</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>C18:1n-9c</td><td>30.80</td><td>22.86</td><td>21.80</td><td>22.12</td></tr><tr><td>C18:2n-6t</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>C18:2n-6c</td><td>13.35</td><td>73.21</td><td>76.36</td><td>70.89</td></tr><tr><td>C20:0</td><td>0.06</td><td>0.14</td><td>0.14</td><td>0.12</td></tr><tr><td>C18:3n-6</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>C20:1</td><td>0.17</td><td>0.08</td><td>0.09</td><td>0.10</td></tr><tr><td>C18:3n-3</td><td>1.93</td><td>4.06</td><td>1.86</td><td>0.19</td></tr><tr><td>C21:0</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>C20:2n-6</td><td>0.00</td><td>0.01</td><td>0.00</td><td>0.00</td></tr><tr><td>C22:0</td><td>0.02</td><td>0.05</td><td>0.02</td><td>0.00</td></tr><tr><td>C22:1n-9</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>C20:3n-3</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>C23:0</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>C20:4n-6</td><td>0.09</td><td>0.00</td><td>0.00</td><td>0.01</td></tr><tr><td>C22:2n-6</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>C24:0</td><td>0.01</td><td>0.01</td><td>0.01</td><td>0.00</td></tr><tr><td>C20:5n-3</td><td>1.92</td><td>0.00</td><td>0.00</td><td>0.24</td></tr><tr><td>C24:1</td><td>0.02</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>C22:6n-3</td><td>0.63</td><td>0.00</td><td>0.00</td><td>0.08</td></tr><tr><td>SFA</td><td>11.90</td><td>5.43</td><td>4.30</td><td>4.38</td></tr><tr><td>MUFA</td><td>35.14</td><td>22.95</td><td>21.89</td><td>22.73</td></tr><tr><td>PUFA</td><td>17.92</td><td>77.28</td><td>78.23</td><td>71.41</td></tr></table></body></html>
+
+<html><body><table><tr><td>n-6 PUFA</td><td>13.44</td><td>73.22</td><td>76.36</td><td>70.90</td></tr><tr><td>n-3 PUFA</td><td>4.48</td><td>4.06</td><td>1.87</td><td>0.52</td></tr><tr><td>n-6/n-3 PUFA</td><td>3.00</td><td>18.03</td><td>40.83</td><td>136.36</td></tr></table></body></html>
+
+SFA为饱和脂肪酸，MUFA为单不饱和脂肪酸，PUFA为多不饱和脂肪酸。表5同。
+
+SFA was saturabilied fatty acids,MUFA was monounsaturated fatty acids,and PUFA was polyunsaturated fatty acids.The same as Table 5.
+
+# 1.3饲养管理
+
+本试验在中国农业科学院特产研究所毛皮动物试验基地完成。试验从2014年10月13日开始至2014年12月1日结束，预试期7d，正试期 $4 0 \mathrm { d }$ 。试验动物单笼饲养，每天08：00 和15：00各饲喂1次，自由饮水。
+
+# 1.4样品采集
+
+正试期结束后，每组随机选取7只北极狐，心脏注射 $5 \mathrm { m L }$ 的琥珀乙酰胆碱处死，之后迅速解剖，取肝小叶相同部位约 $\boldsymbol { 2 } \textrm { g }$ ，用生理盐水冲洗掉血迹，放入冻存管后立即投入液氮中 $1 0 \mathrm { m i n }$ 以上，之后转入一 $8 0 ~ ^ { \circ } \mathrm { C }$ 冰箱保存。另取肝脏约 $5 0 \ \mathrm { g }$ ，用生理盐水冲洗掉血迹，放入自封袋， $- 2 0 ^ { \circ } \mathrm { C }$ 冰箱冷藏待测脂肪酸组成。
+
+1.4 测定指标及方法
+
+# 1.4.1 饲粮养分的测定
+
+测定饲粮中干物质、粗蛋白质、粗脂肪、粗灰分、钙、磷含量。干物质含量采用 $1 0 5 ^ { \circ } \mathrm { C }$ 烘干法测定，参照GB/T 6435—2006；粗蛋白质含量采用凯氏定氮法测定，参照GB /T 6432—1994；粗脂肪含量采用索氏抽提法测定，参照GB/T 6433—1994；粗灰分含量采用 550C灼烧法测定，参照GB/T 6438—1992；钙含量采用乙二胺四乙酸(EDTA)络合滴定法测 定，参照GB/T 6436—1992；磷含量采用钒钼酸铵比色法测定，参照GB/T6437—1992；氨 基酸含量采用全自动氨基酸分析仪（HITACHI，L-8900，日本）进行测定。
+
+# 1.4.2生长性能指标计算
+
+平均日采食量 $\mathrm { ( g / d ) = }$ 试验期采食量/试验天数；  
+平均日增重 $( \mathrm { g / d } ) \mathrm { = }$ 末重一初重)/试验天数；  
+料重比 $\ c =$ 平均日采食量/平均日增重。
+
+# 1.4.2 饲粮和肝脏脂肪酸组成的测定
+
+脂肪酸前处理采用甲酯化方法，参照GB/T21514-2008，测试采用外标法。脂肪酸测定采用气质联用仪（Agilent7890A-7000B），色谱条件：色谱柱为DB-5MS（ $3 0 \mathrm { m } { \times } 2 5 0 \mu \mathrm { m } { \times } 0 . 2 5$ μm）；柱温初始为 $5 5 ~ ^ { \circ } \mathrm { C }$ ，保持 $2 ~ \mathrm { m i n }$ ，然后以 $5 ~ \mathrm { { ^ \circ C / m i n } }$ 速率升至 $2 0 0 ~ ^ { \circ } \mathrm { C }$ ，保持 $1 ~ \mathrm { m i n }$ ，再以 $2 \mathrm { { } ^ { \circ } C / m i n }$ 速率升至 $2 3 0 ^ { \circ } \mathrm { C }$ ，保持 $3 \mathrm { m i n }$ ，再以 $5 \mathrm { { ^ {circ } C / m i n } }$ 速率升至 $2 7 0 ^ { \circ } \mathrm { C }$ ，保持 $1 0 \mathrm { m i n }$ ；进样口温度为 $2 5 0 ^ { \circ } \mathrm { C }$ ；载气为氮气（ $9 9 . 9 9 9 \%$ ） $1 . 0 \mathrm { m L / m i n }$ ；进样量为 $1 \mu \mathrm { L }$ ；分流比为10：1。质谱条件：电子轰击离子（EI）源；离子源温度为 $2 3 0 ^ { \circ } \mathrm { C }$ ；电子能量为 $7 0 \mathrm { e V }$ ；接口温度为$2 5 0 ^ { \circ } \mathrm { C }$ ；扫描质量范围为 $5 0 { \sim } 5 0 0 \mathrm { m / z }$ 。
+
+1.4.3 肝脏L-FABP和FATPmRNA相对表达量的测定
+
+# 1.4.3.1总RNA 提取和cDNA的合成
+
+取肝脏样品于液氮中研磨成粉，收集于 $1 . 5 ~ \mathrm { m L }$ 无RNA酶Eppendorf 管中。总RNA的提取采用RNAiso Reagent试剂盒(TaKaRa 公司)，提取过程参照试剂盒说明书。提取的总RNA通过凝胶电泳检测其完整性，并测定总RNA在260 和 $2 8 0 ~ \mathrm { n m }$ 处的吸光度(OD)值，以检测其纯度。反转录依据试剂盒(TaKaRa 公司)进行，反转录产物于 ${ } _ { - 2 0 } { } ^ { \circ } \mathrm { C }$ 冻存备用。
+
+# 1.4.3.2L-FABPmRNA和FATPmRNA相对表达量的测定
+
+L-FABP和FATPmRNA相对表达量的测定采用实时荧光定量PCR技术(SYBRGreen染料法，Trans-Start 试剂盒)，以 $\beta$ -肌动蛋白( $\beta$ -actin)作为内参基因，引物信息见表3，引物由上海生工生物工程有限公司合成。采用 $2 0 \mu \mathrm { L }$ PCR反应体系： $2 \times$ Trans Start Top Green qPCRSuperMix $1 0 \mu \mathrm { L }$ ，上游引物 $( 1 0 \mu \mathrm { m o l / L } ) 0 . 4 \mu \mathrm { L }$ ，下游引物 $\mathrm { 1 0 \mu m o l / L ) 0 . 4 \mu L }$ ，Passive ReferenceDye $( 5 0 \times ) \ : 0 . 4 \ : \mu \mathrm { L }$ ，Rnase Free $\mathrm { { d H } _ { 2 } O 7 . 8 ~ \mu L }$ ，cDNA $1 ~ \mu \mathrm { L }$ 。反应程序:预变性， $9 5 \ \mathrm { ^ { \circ } C \ 1 \ m i n }$ ，1个循环；PCR反应 $9 5 ^ { \circ } \mathrm { C }$ ， $5 \mathrm { ~ s ~ }$ ，退火 $2 5 ~ \mathrm { s } \ t$ (具体退火温度见表3)，共40个循环。熔解曲线用于确定扩增产物的特异性，反应程序为： $6 5 { \sim } 9 5 ^ { \circ } \mathrm { C }$ ，每升高 $0 . 5 ^ { \circ } \mathrm { C }$ 分析1次， $9 5 ~ ^ { \circ } \mathrm { C }$ 结束，61个循环。
+
+# 表3实时荧光定量PCR引物序列及参数
+
+Table 3Primer sequences and parameters for real time qPCR   
+
+<html><body><table><tr><td>基因</td><td>引物序列</td><td>退火温度</td><td>产物大小</td></tr><tr><td>Genes</td><td>Primer sequence (5'-3)</td><td>Tm/℃</td><td>Product size/bp</td></tr></table></body></html>
+
+<html><body><table><tr><td>β-肌动蛋白</td><td>F:GCTCTCTTCCAGCCTTCCTT</td><td>57.0</td><td rowspan="2">100</td></tr><tr><td>β-actin</td><td>R：GGTCCTTGCGGATGTCAA</td><td>57.0</td></tr><tr><td>肝脏型脂肪酸结合蛋白</td><td>F:ACAGACTTGATGCCTTTG</td><td>52.7</td><td rowspan="3">185</td></tr><tr><td>L-FABP</td><td>R:GAAATCGTGCAGAATGG</td><td>52.7</td></tr><tr><td rowspan="2">脂肪酸转运蛋白FATP</td><td>F:ATCGTGGCTGGTGCTACTCT</td><td>57.0</td></tr><tr><td>R:ATTGGGTTTCTGGGGTGAAT</td><td>144 57.0</td></tr></table></body></html>
+
+# 19 1.5 数据整理与统计分析
+
+试验数据采用Excel2003进行整理，采用SPASS9.13软件中的GLM程序进行统计分析，多重比较采用Duncan氏法进行，其中 $P { < } 0 . 0 1$ 为差异极显著， $P { < } 0 . 0 5$ 为差异显著， $P { > } 0 . 0 5$ 为差异不显著，结果以平均值 $\pm$ 标准差表示。
+
+123 2结果
+
+2.1饲粮n-6/n-3PUFA比值对冬毛期北极狐生长性能的影响
+
+由表4可知，饲粮 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA比值对冬毛期北极狐ADG、ADFI和F/G有极显著影响（ $P { < } 0 . 0 1$ ）。I和IV组ADG 极显著高于ⅡI和II组（ $P { < } 0 . 0 1$ ），I和IV组间差异不显著（ $. P { > } 0 . 0 5$ ），Ⅱ和组间差异不显著（ $. P { > } 0 . 0 5$ ）。I、 $\mathrm { I I }$ 和IV组的 ADFI 极显著高于Ⅲ组（ ${ \cdot } P { < } 0 . 0 1$ ），而I、Ⅱ和IV组间差异不显著 $( P { > } 0 . 0 5$ ）。IV组的F/G 极显著低于ⅡI和III组（ $_ { . } { \cdot } { \cdot } { \cdot } 0 . 0 1$ ），与I组间差异不显著（ $\textstyle P > 0 . 0 5 .$ ），I与IV组间差异不显著（ $P { > } 0 . 0 5$ ），Ⅱ与IⅢ组间差异不显著（ $. P { > } 0 . 0 5$ ）。
+
+fur-growing period
+
+Table 4Effects of dietary $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA ratio on growth performance of Arctic foxes during the winter   
+
+<html><body><table><tr><td>项目Items</td><td colspan="4">组别Groups</td></tr><tr><td></td><td>I</td><td>I</td><td>III</td><td>IV</td><td>P-value</td></tr><tr><td>平均日增重 ADG/(g/d)</td><td>30.50±5.23Aa</td><td>22.33±5.16Bb</td><td>18.00±5.42Bb</td><td>36.36±5.50Aa</td><td>0.001</td></tr><tr><td>平均干物质采食量 ADFI/(g/d)</td><td>320.00±2.77Aa</td><td>305.19±17.84Aa</td><td>276.92±37.56Bb</td><td>318.62±3.09Aa</td><td>0.002</td></tr><tr><td>料重比 F/G</td><td>10.82±2.17ABab</td><td>13.63±2.82Aa</td><td>13.50±1.87Aa</td><td>8.53±1.12Bb</td><td>0.006</td></tr></table></body></html>
+
+同行数据肩标不同大写字母表示差异极显著（ $P { < } 0 . 0 1$ ），不同小写字母表示差异显著（ $P { < } 0 . 0 5$ ），相同或无字母表示差异不显著（ $P { > } 0 . 0 5$ ）。下表同。In the same row,values with different capital leter superscripts mean extremely significant difference（2号 $( P { < } 0 . 0 1 )$ ,and with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,while with no letter orthe same letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ .The same as below.
+
+2.2饲粮n-6/n-3PUFA比值对北极狐肝脏脂肪酸组成的影响
+
+由表5可知，饲粮 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA比值对肝脏单不饱和脂肪酸（MUFA）、多不饱和脂肪酸（PUFA）、 $\mathbf { n } { - } 3$ PUFA和n-6PUFA的含量有显著或极显著影响（ $P { < } 0 . 0 5$ 或 $\scriptstyle P < 0 . 0 1 { \dot { } }$ ，对饱和脂肪酸（SFA）含量无显著影响（ $P { > } 0 . 0 5$ ）。I和IV组肝脏MUFA含量显著高于II组（ $P { < } 0 . 0 5$ ），与Ⅱ组差异不显著（ $\textstyle P > 0 . 0 5 { \mathrm { . } }$ ），Ⅱ和IⅢ组间差异不显著（ $P { > } 0 . 0 5$ ）；ⅡI组肝脏PUFA含量显著高于I和 $\mathrm { I V }$ 组（ $P { < } 0 . 0 5 \$ ），与Ⅲ组差异不显著（ $\cdot P { > } 0 . 0 5 \$ ）；I和IV组肝脏n-3PUFA含量极显著高于II和II组（ $P { < } 0 . 0 1$ ）， $\mathrm { I I }$ 组未检出；II和III组肝脏n-6PUFA含量极显著高于I和IV组（ $P { < } 0 . 0 1$ ）， $\mathrm { I I }$ 与IⅢ组间、I与IV组间差异不显著（ $\cdot P { > } 0 . 0 5 \$ ）。
+
+表5饲粮 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA比值对冬毛期北极狐肝脏脂肪酸组成的影响（占总脂肪酸的比例)
+
+Table 5Effects of dietary $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA ratio on liver fatty acid composition of Arctic foxes during the winter fur-growing period（proportion of total fatty acids）%   
+
+<html><body><table><tr><td>脂肪酸</td><td colspan="3">组别 Groups</td><td colspan="2">P值</td></tr><tr><td>Fatty acids</td><td>I</td><td>I</td><td>III</td><td>IV</td><td>P-value</td></tr><tr><td>C14:0</td><td>0.39±0.12</td><td>0.28±0.00</td><td>0.42±0.13</td><td>0.56±0.00</td><td>0.560</td></tr><tr><td>C16:0</td><td>18.57±3.47</td><td>15.67±3.60</td><td>15.10±3.80</td><td>15.50±1.15</td><td>0.260</td></tr><tr><td>C16:1</td><td>1.38±0.43</td><td>0.74±0.06</td><td>0.85±0.25</td><td>1.64±0.68</td><td>0.060</td></tr><tr><td>C17:0</td><td>0.66±0.08</td><td>0.82±0.08</td><td>0.72±0.00</td><td>0.66±0.08</td><td>0.210</td></tr><tr><td>C18:0</td><td>47.24±2.56</td><td>40.70±3.50</td><td>46.08±9.23</td><td>47.24±2.56</td><td>0.370</td></tr><tr><td>C18:1n-9c</td><td>10.79±2.65</td><td>10.61±1.90</td><td>8.73±1.92</td><td>10.79±2.65</td><td>0.400</td></tr><tr><td>C18:2n-6c</td><td>15.39±1.66Bb</td><td>22.14±1.96Aa</td><td>18.68±3.47Bb</td><td>15.39±1.66Bb</td><td>0.002</td></tr><tr><td>C20:4n-6</td><td>5.02±1.89b</td><td>9.35±2.06a</td><td>7.45±2.38ab</td><td>5.03±1.89b</td><td>0.030</td></tr><tr><td>C20:5n-3</td><td>1.44±0.42Aa</td><td>0.00±0.00Bb</td><td>0.00±0.00Bb</td><td>1.44±0.42Aa</td><td><0.001</td></tr></table></body></html>
+
+<html><body><table><tr><td>C22:6n-3</td><td>2.23±0.61Aa</td><td>0.00±0.00Bb</td><td>1.54±0.59Aa</td><td>1.53±0.57Aa</td><td>0.005</td></tr><tr><td>SFA</td><td>65.14±2.89</td><td>57.01±3.34</td><td>62.32±7.15</td><td>64.18±3.54</td><td>0.050</td></tr><tr><td>MUFA</td><td>12.57±2.79a</td><td>11.10±1.57ab</td><td>10.01±1.30b</td><td>12.43±1.66a</td><td>0.047</td></tr><tr><td>PUFA</td><td>22.29±4.89b</td><td>31.89±3.14a</td><td>27.67±6.56ab</td><td>23.39±3.46b</td><td>0.020</td></tr><tr><td>n-3 PUFA</td><td>3.19±0.37Aa</td><td>0.00±0.00Cc</td><td>1.54±1.13Bb</td><td>2.97±0.58Aa</td><td>0.005</td></tr><tr><td>n-6 PUFA</td><td>19.10±4.47Bb</td><td>31.89±3.14Aa</td><td>26.13±5.57Aa</td><td>20.42±2.93Bb</td><td>0.003</td></tr></table></body></html>
+
+2.3饲粮n-6/n-3PUFA比值对冬毛期北极狐肝脏L-FABP和FATP基因表达的影响由图1可知，随饲粮n-6/n-3PUFA比值的升高，肝脏L-FABPmRNA相对表达量呈先升高  
+再降低的趋势，其中以Ⅲ组的相对表达量最高，但4组间差异不显著（ $\cdot P { > } 0 . 0 5 )$ ）。由图2可知，随着饲粮n-6/n-3PUFA比值的升高，肝脏FATPmRNA相对表达量呈先降低  
+再升高的趋势，I和IV组极显著高于ⅡI和IⅢ组（ ${ \cdot } P { < } 0 . 0 1$ ），但I和IV组间差异不显著（P>0.05），Ⅱ和II组间差异不显著（ $. P { > } 0 . 0 5$ ）。
+
+![](images/84c4834fef9775d491dd3cfa0636168268d482dc7b2731d60aefe6d9737fb1ad.jpg)  
+图1饲粮 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA比值对冬毛期北极狐肝脏 $L$ -FABPmRNA相对表达量的影响 Fig.1Effects of dietary $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA ratio on liverL-FABP mRNA relative expression level of Arctic foxes during the winter fur-growing period
+
+数据柱形标注不同大写字母表示差异极显著（ $P { < } 0 . 0 1$ ），不同小写字母表示差异显著（ $P { < } 0 . 0 5$ ），相同字母表示差异不显著（ $P { > } 0 . 0 5$ ）。图2同。
+
+Date columns with different capital letter superscripts mean extremely significant difference $( P { < } 0 . 0 1 )$ ,and with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,while with the same leter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ .. The same as Fig.2.
+
+![](images/624cb2bb9935164aa6d1ca86b423361a20fcf224a40c9b4221448550bbac0fc8.jpg)  
+图2饲粮 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA比值对冬毛期北极狐肝脏FATPmRNA相对表达量的影响
+
+Fig.2Effects of dietary $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA ratio on liver FATP mRNA relative expression level of Arctic foxes during
+
+the winter fur-growing period
+
+3讨论
+
+3.1饲粮 $\mathrm { n - } 6 / \mathrm { n - } 3$ PUFA比值对冬毛期北极狐生长性能的影响
+
+研究发现鱼油富含n-3PUFA，除能提高家禽免疫力之外，其促生长作用也已被许多研究者证实[16-17]。郭志有[18]研究发现，鱼油替代一定比例的玉米油可以增强肠道免疫应答，提高机体免疫力，从而提高仔猪的F/G。本试验中，从生长性能指标分析，IV和I组的ADFI、ADG均高于 $\mathrm { I I }$ 和IⅢI组，F/G均低于 $\mathrm { I I }$ 和IⅢ组，表明鱼油和植物油脂混合要优于植物油脂间混合。这与在肉鸡上的研究结果[19]相一致，即动、植物油脂混合添加效果优于单独添加，不同的油脂按一定比例混合使用可发挥脂肪酸互补效应，更有利于脂肪的消化和利用，从而改善肉鸡生产性能。I和IV组油脂配比虽然差别不大，但IV组生长性能优于II组，这可能是由于饲粮n-6/n-3PUFA比值不同导致的。研究表明，当饲粮总脂肪含量一定而n-6和n-3PUFA含量不同，即饲粮中n-6/n-3PUFA比值不同时，断奶仔猪的生产性能不同，适当比值的n-6/n-3PUFA通过提高仔猪的免疫机能提高其生产性能[20]。饲粮 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA比值通过影响动物机体代谢，改善动物饲粮消化水平，从而影响动物的生产性能[21]。
+
+3.2饲粮n-6/n-3PUFA比例对冬毛期北极狐肝脏脂肪酸组成的影响
+
+本试验测定发现，北极狐肝脏脂肪酸中SFA约占总脂肪酸的 $6 2 \%$ ，MUFA约占总脂肪酸的 $12 \%$ ，PUFA约总脂肪酸的占 $2 6 \%$ ，说明在北极狐肝脏中脂肪酸主要以饱和形式沉积，这与Rouvinen等[1的研究报道相一致。研究表明畜禽产品中的脂肪酸组成可能受到饲粮中脂肪酸组成的影响[2-23]，本试验中北极狐肝脏脂肪酸中MUFA、PUFA、n-3PUFA和n-6PUFA含量的变化规律基本与饲粮中变化规律相同，即随n-6/n-3PUFA比值的升高，MUFA和n-3PUFA的含量呈先降低后升高趋势，PUFA和n-6PUFA的含量呈先升高后降低趋势，这与Gudbjarmason等[24]的研究报道一致，说明饲粮n-6/n-3PUFA比值影响着肝脏中n-6和n-3PUFA的含量。本试验中，I和IV组饲粮均含鱼油，在肝脏中沉积的n-3PUFA量也最高，研究表明鱼油能降低合成C20:4n-6和C18:2n-6的△-6去饱和酶、延伸酶和△-5去饱和酶的活性[25]，这些酶主要是调控合成n-6PUFA。II、III和IV组饲粮含有丰富的n-6 PUFA，在肝脏中沉积的n-6 PUFA量也高于I组。
+
+3.3饲粮n-6/n-3PUFA比值对冬毛期北极狐L-FABP和FATP基因表达的影响
+
+体外研究表明L-FABP与FATP对长链（>C14）脂肪酸具有高度亲和性，在脂肪酸摄取及转运等方面具有重要调控作用[26-28]。L-FABP与不饱和脂肪酸具有高度亲和性[29]，本试验中I组北极狐肝脏L-FABPmRNA相对表达量最高，可能由于I组饲粮不饱和脂肪酸含量相对高于其他组饲粮，北极狐摄入的较高含量的长链不饱和脂肪酸经肠道消化转运至肝脏，促进了L-FABP基因的表达[9]。I和IV组北极狐肝脏FATPmRNA相对表达量显著高于II和II组，说明I和IV组肝脏中FATP基因转运脂肪酸的效率高于II和III组，更有利于机体对脂肪酸的利用，促进北极狐的生长，这可从北极狐的生长性能结果上得到证实。近些年，随着对FABPs和FATPs基因研究的不断深入，其在北极狐脂肪代谢方面的调控机制还有待进一步研究。
+
+4结论
+
+综合分析本试验结果得出，饲粮添加 $1 . 5 0 \%$ 鱼油与 $1 2 . 5 0 \%$ 玉米油的混合油脂，即饲粮n-6/n-3PUFA比值为136.36时，上调了肝脏中FATP基因的表达，增加了肝脏长链脂肪酸的转运及利用效率，促进了冬毛期北极狐的生长。
+
+参考文献：   
+[1]喻礼怀.饲粮脂肪酸 $\mathrm { \omega } \mathrm { \omega } \omega \mathrm { \omega } \mathrm { \omega }$ 对鹅脂肪代谢影响及其分子机制的研究[D].博士学位论文.扬 州:扬州大学,2012:7-21.   
+[2] 高巧仙,宋代军,靳露.饲粮 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ 多不饱和脂肪酸比例对畜禽健康和产品品质的影响[J]. 动物营养学报,2013,25(7):1429-1436.   
+[3] LARSSON S C,KUMLIN M,INGELMAN-SUNDBERG M,et al.Dietary long-chain n-3 fatty acids for the prevention of cancer:a review of potential mechanisms[J].The American Journal of Clinical Nutrition,2004,79(6):935-945.   
+[4] 王远孝,张莉莉,王恬.不同油脂配比对黄羽肉鸡生产性能、屠宰性能和器官指数的影响[J]. 粮食与饲料工业,2010(2):42-45,52.   
+[5] SANZ M,LOPEZ-BOTE C J,MENOYO D,et al.Abdominal fat deposition and fatty acid synthesis are lower and $\beta$ -oxidation is higher in broiler chickens fed diets containing unsaturated rather than saturated fat[J].The Journal Nutrition,2000,13O(12):3034-3037.   
+[6] 于会民,李德发,管武太,等.不同脂肪对肉鸡营养素沉积、体组成和血清代谢物的影响[J]. 畜牧兽医学报,1998,29(4):304-314.   
+[7]周萌,曹俊明,梁海鸥,等.饲料 $\mathrm { n } { - } 3 / \mathrm { n } { - } 6$ 脂肪酸比值对军曹鱼生长及鱼体组织脂肪酸组成的 影响[J].广东农业科学,2006(12):77-81.   
+[8] ROUVINEN K.Dietary effects of omega-3 polyunsaturated fatty acids on body fat composition and health status of farm-raised blue and silver foxes[J].Acta Agriculturae Scandinavica,1991,41(4):401-414.   
+[9] 张婷,罗婧,钟伟,等.饲粮脂肪水平对冬毛期银狐能量代谢、血清生化指标、肝脏脂肪酸组 成及肝脏型脂肪酸结合蛋白基因表达的影响[J].动物营养学报,2016,28(2):618-626.   
+[10] KAKELA R,POLONEN I,MIETTINEN M,et al.Effects of different fat supplements on growth and hepatic lipids and fatty acids in male mink[J].Acta Agriculturae Scandinavica,Section A: Animal Science,2001,51(4):217-223.   
+[11] ROUVINEN K,KIISKINEN T.Influence of dietary fat source on the body fat composition of mink(Mustelavison)andbluefox(Alopexlagopus)[J].ActaAgriculturae Scandinavica,1989,39(3):279-288.   
+[12] VRICHIERI G V,OGATA R T,ZIMMERMAN A W,et al.Fatty acid binding proteins from different tissues show distinct patterns of fatty acid interactions[J].Biochemistry,2000,39(24):7197-7204.   
+[13] RICHIERI G V,OGATAR T,KLEINFELD A M.Equilibrium constants for the binding of fatty acids with fatty acid-binding proteins from adipocyte,intestine,heart,and liver measured with the
+
+fluorescent probe ADIFAB[JJ.The Journal of Biological Chemistry,1994,269(30):23918-23930.
+
+[14]耿业业.育成期蓝狐脂肪消化代谢规律的研究[D].博士学位论文.北京:中国农业科学 院,2011:28-29.   
+[15] FEDIAF.Nutritional guidelines for complete and complementary pet food for cats and dogs[S].Bruxelles: European Pet Food Industry Federation,2O11,8:14.   
+[16] 夏中生.饲粮中不同油脂对生长鸡组织脂质含量及其脂肪酸组成的影响[J].广西农业大 学学报,1998,17(4):323-332.   
+[17] FRITSCHE K L,CASSITY N A,HUANG S C.Effect of dietary fat source on antibody production and lymphocyte proliferation in chickens[J].Poultry Science,1991,70(3):611-617. [18] 郭志有.多不饱和脂肪酸配比调控荣昌仔猪免疫应激的研究[D].硕士学位论文.重庆:西 南大学,2011:25-41.   
+[19] 安文俊.日粮中添加不同配比油脂对肉鸡生产性能、肉品质及脂肪代谢影响的研究[D]. 硕士学位论文.南京:南京农业大学,2010:33-47.   
+[20] 左磊,李藏兰,赖长华.不同 n-6/n-3 多不饱和脂肪酸比值对断奶仔猪生长性能和免疫反应 的影响[J].中国畜牧杂志,2010,46(23):48-50.   
+[21] 沈曼曼.@-6、@-3 多不饱和脂肪酸及其比值对畜禽影响的研究进展[J].广东饲 料,2012,21(12):32-35.   
+[22] SHANG X GWANG F L,LI D F,et al.Effect of dietary conjugated linoleic acid on the fatty acid composition of egg yolk,plasma and liver as well as hepatic stearoyl-coenzyme A desaturase activity and gene expression in laying hens[J].Poultry Science,2005,84(12):1886-1892.   
+[23] GATLIN L A,SEE M T,HANSEN JA.The effects of dietary fat sources,levels,and feeding intervals on pork fatty acid composition[J].Journal of Animal Science,2002,80(6):1606-1615. [24] GUDBJARNASON S,OSKARSDOTTIR G.Modification of faty acid composition of rat heart lipids by feeding cod liver oil[J].Biochimica et Biophysica Acta:Lipids and Lipid Metabolism,1977,487(1):10-15.   
+[25] KINSELLA JE.Seafoods and fish oils in human health and disease[M].New York: Marcel Dekker,1987:317.
+
+[26] MATZINGER D,DEGEN L,DREWE J,et al.The role of long chain fatty acids in regulating food intake and cholecystokinin release in humans[J].Gut,20oo,46(5):688-694.
+
+[27] HIRSCH D,STAHL A,LODISH H F.A family of fatty acid transporters conserved from mycobacterium to man[J].Proceedings of the National Academy of Sciences of the United States of America,1998,95(15):8625-8629.   
+[28] STORCH J,THUMSER A E A.The fatty acid transport function of fatty acid-binding proteins[J].BiochimicaetBiophysicaActa:MolecularandCell Biology of Lipids,2000,1486(1):28-44.   
+[31] LOWE J B,SACCHETTINI J C,LAPOSATA M,et al.Expression of rat intestinal fatty acid-biding protein in Escherichia coli.Purification and comparison of ligand binding characteristics with that of Escherichia coli-derived rat liver fatty acid-binding protein[J].The Journal of Biological Chemistry,1987,262(12):5931-5937.   
+Effects of Dietary n-6/n-3 Polyunsaturated Fatty Acids Ratio on Growth Performance and Related Protein Gene Expression of Liver Fatty Acid Metabolism of Arctic Foxes During the Winter Fur-Growing Period   
+ZHONG Wei ZHANG Ting LUO Jing YUE Zhigang LIU Xueqing FAN YanyanSUN Haoran SUN Xuyang LIGuangyu\*   
+(State Key Laboratory of Special Economic Animal Molecular Biology, Institute of Special Animal and Plant Science, Chinese Academy of Agriculture Sciences, Changchun 130112, China) Abstract: This experiment was conducted to study the effects of dietary n-6/n-3 polyunsaturated fatty acids （PUFA）ratio on growth performance,liver fatt acid composition and liver-type fatty acid binding protein（ $L$ FABP） and faty acid transport protein（FATP） gene expression of Arctic foxes during the winter fur-growing period. Forty-eight 157-day-old male Arctic foxes with the average body weight of（5 $6 5 8 { \pm } 4 7$ ）g were randomly divided into 4 groups with 12 replicates per group and 1 fox per replicate, and they were fed experimental diets containing （204号 $12 . 0 0 \%$ fish oil and $2 . 0 0 \%$ soybean oil (group I), $9 . 3 8 \%$ corn oil and $4 . 6 2 \%$ soybean oil (group II), $12 . 0 \%$ corn oil and $2 . 0 0 \%$ soybean oil (group III), $1 . 5 0 \%$ fish oil and $12 . 5 0 \%$ corn oil
+
+(group IV) with the n-6/n-3 PUFA ratios were 3.00,18.03, 40.83 and 136.36,respectively. The oil composition and proportion of diets among groups were different, but the other ingredients were consistent. The experiment was 7 days for adaption and 4O days for trial period. The results showed as follows: 1) dietary $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA ratio extremely significantly affected average daily gain(ADG),average daily feed intake (ADFI) and the ratio of feed to gain (F/G) of Arctic foxes during the winter fur-growing period ( $( P { < } 0 . 0 1 )$ . The ADG in groups I and $\mathrm { I V }$ was extremely significantly higher than that in groups $\mathrm { I I }$ and III $( P { < } 0 . 0 1 )$ ,the ADFIin groupsI，II and IV was extremely significantly higher than that in group III $( P { < } 0 . 0 1 )$ ， the F/G in group IV was extremely significantly lower than that in groups I and III $( P { < } 0 . 0 1 \$ ). 2)Dietary $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA ratio extremely significantly or significantly affected liver monounsaturated fatty acids (MUFA), PUFA,n-6 PUFA and n-3 PUFA contents of Arctic foxes during the winter fur-growing period ${ \scriptstyle \overbrace { P \mathrm { < } 0 . 0 1 } }$ or $P { < } 0 . 0 5 \$ ), but had no significant difference in liver saturated fatty acids (SFA) content （204号 $( P { > } 0 . 0 5 )$ . The liver $\mathtt { n } { - } 3$ PUFA content in groups I and $\mathrm { I V }$ was extremely significantly higher than that in groups $\mathrm { I I }$ and III $( P { < } 0 . 0 1 )$ ,while the liver n-6 PUFA content in groups II and III was extremely significantly higher than that in groups I and IV $( P { < } 0 . 0 1 )$ . 3)Dietary $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ （20 PUFA ratio did not significantly affect liver L-FABP mRNA expresson level of Arctic foxes during the winter fur-growing period $( P { > } 0 . 0 5 )$ ，but extremely significantly affected liver FATP mRNA expression level $( P { < } 0 . 0 1 )$ ). The FATP mRNA expression level in groups I and $\mathrm { I V }$ was extremely significantly higher than that in groups II and III $( P { < } 0 . 0 1 )$ . In conclusion,when the ratio of $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA is 136.36 （adding mixed oils of $1 . 5 0 \%$ fish $) i 1 { + } 1 2 . 5 0 \%$ corn oil in the diets), it raises the expression of liver $F A T P$ gene，promotes the transportation and utilization effciency of fatty acids,and improve the growth of Arctic foxes during the winter fur-growing period.
+
+Key Words: n-6/n-3 PUFA; Arctic fox; liver; fatty acids; liver-type fatty acid binding protein; fatty acid transport protein

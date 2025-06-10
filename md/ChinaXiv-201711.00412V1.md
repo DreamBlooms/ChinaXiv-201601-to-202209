@@ -1,0 +1,110 @@
+天然高褪黑素牛奶生产技术张微赵广永张晓明莫放(中国农业大学动物科技学院，动物营养学国家重点实验室，北京100193)
+
+摘要：褪黑素是松果体分泌的一种吲哚类神经内分泌激素，具有改善人体睡眠质量、增强免疫、抗衰老及抗肿瘤等十分广泛的生理功能。普通牛奶中含有天然的褪黑素，但含量较低，通过光控技术专门生产的夜间牛奶天然褪黑素含量很高。因此，本文综述了褪黑素的合成、生物学功能、对人体健康的作用及天然高褪黑素牛奶生产技术，为进一步研究生产天然高褪黑素牛奶提供参考。
+
+关键词：褪黑素；牛奶；夜间奶；高褪黑素奶中图分类号：S816.7;S823
+
+褪黑激素(melatonin,MT)是由松果体合成和分泌的一种吲哚类激素，化学名称为 N-乙酰-5-甲氧基色胺，又名褪黑素、美拉酮宁、抑黑素、松果腺素，最早由美国皮肤病学家Lemer 等于1958 年从肉牛松果体提取物中分离出来。MT 在生物钟、免疫、消化、中枢神经系统、抗氧化以及抗肿瘤方面具有广泛的生物学效应[。MT 早已作为一种调节睡眠和治疗抑郁症的医疗药品[2]，具有改善睡眠和调节情绪的功能，近年来研究还发现其有抗肿瘤[3]、增强免疫[4]和延缓衰老[5]的作用。因此，富含MT的保健食品在市场上广受欢迎。目前世界范围内，美国和中国香港等少数国家和地区把人工合成的MT作为食品添加剂，加拿大、英国和法国等绝大多数国家和地区把人工合成的MT归为药物，不能作为食品添加剂。因此，研发富含天然MT的食品成为欧洲及国际上崇尚天然、追求安全人群的迫切需求。当我国关于脑白金含人工合成的 MT，可能导致内分泌紊乱在主流媒体上报道后，人们更加关心人工合成的MT的安全性问题，而天然来源的MT安全性可靠，含低剂量天然来源的 MT 保健品会越来越受到人们的关注。牛奶是大众消费最多的乳制品，含有天然的 MT，是外源性MT 的良好补充来源，但其在普通市售牛奶中含量较低。本文就MT的合成、生物学功能、对人体健康的作用及天然高MT牛奶生产技术进行介绍，以期能为进一步研究生产天然高MT牛奶提供参考。
+
+1MT的体内合成与人工合成过程
+
+动物机体中的MT主要是由松果体腺细胞合成的，其他部位如视网膜、副泪腺、唾液腺、肠的嗜铬细胞及红细胞等也可合成和分泌少量MT[]。松果体细胞合成 MT 的过程如下：首先色氨酸在色氨酸羟化酶（TPH)的作用下转变成5-羟色氨酸；然后 5-羟色氨酸在 5-羟色氨酸脱羧酶（5-HT-POC）催化下转变成 5-羟色胺；
+
+收稿日期：2015-10-09  
+基金项目：948项目（2015-Z30)  
+作者简介：张微（1975-），女，黑龙江大庆人，副教授，博士，从事反刍动物营养研究。E-mail:  
+wzhang @cau.edu.cn
+
+5-羟色胺在5-羟色胺-2-N-乙酰转移酶（NAT）和羟基吲哚氧位甲基转移酶（HMOT）的作用下，经N-乙酰羟色胺转变成N-乙酰-5-甲氧基色胺(MT)，合成的MT 在吲哚胺羟化酶和甲酰胺化酶的催化下产生N-乙酰-5-甲氧基犬尿酰胺而失去活性[7]。MT的分泌受光周期的制约，呈昼夜节律性改变8，夜间MT量比白天多 5\~10倍，00:00—02：00时 MT 的合成达到最高峰，而后渐渐减少，在12：00时达最低点[9]。MT 的生物合成还与年龄有关，刚出生的婴儿可通过胎盘和哺乳获得少量 MT，3\~5 岁的幼儿夜间 MT 分泌量最高，青春期分泌量略有下降，老年后MT 水平则更低，尤以夜间为甚[]。从动物（如牛）松果腺中提取天然MT，提取物中可能带有各类病毒或存在能引起抗体反应的蛋白质，因此目前化学合成 MT较多。利用化学合成方法制备MT 的工艺较成熟，纯度高，是MT的主要来源，但是合成激素不可能达到 $100 \%$ 纯度，存在化学合成步骤多、反应条件不易控制、生产成本高、生产原料和副产品对人体有害等缺点[]。另外，化学合成MT 虽与体内分泌的 MT在初级化学结构上一致，但它们的生物特性或立体化学结构是否完全一致、制剂辅助成分的搭配是否合理、合成MT是否对体内MT和其他类型激素的内分泌系统产生影响等问题尚不清楚，其安全性有待评价。与人工合成MT 相比，通过食用含高MT的食品补充外源性MT具有很高的安全性。
+
+# 2MT的生物学功能
+
+MT 可以提高机体的免疫功能，包括促进免疫系统产生抗体，提高抗体对抗原的敏感性，增加免疫因子数量，增强免疫因子的活性，促进T、B 淋巴细胞的增殖，增强自然杀伤细胞的细胞毒性[12]，增加胸腺的重量[13]。MT 能够减少胃酸的分泌，提高血浆中胃泌素的水平，从而对胃黏膜起到保护作用[14]。研究表明，MT本身及其多级代谢产物具有强大的抗氧化功能，可以同时清除氧族和氮族自由基及上调多种抗氧化酶活性，起到抗肿瘤和抗衰老作用[5]。此外，MT的昼夜分泌节律与情感状态关系密切[15]。
+
+MT 可用于治疗人体睡眠紊乱疾病。补充外源性 MT，可使体内 MT 水平维持在正常状态，调整正常睡眠节律，提高睡眠质量，治疗睡眠紊乱疾病[16-17]。外源性 MT 可减轻由酒精引起的胃黏膜损伤和胃黏膜血流减少，可减少胃溃疡的发生率和严重性[18]。在治疗精神分裂症患者时辅助应用 MT可以改善睡眠、控制和改善情绪[19-20]。此外，MT 可以对抗精神病药副作用所导致的体重增加和血糖失调[21-22]。尽管 MT 在脑功能保护方面显示出良好前景，但还有许多问题有待解决，如给药方式、最佳剂量等[23]。研究结果表明，MT 可以改善肿瘤患者因化疗或手术所致的血细胞减少，作为肿瘤的辅助治疗[3]。补充外源性 MT 可以维持机体正常MT 水平而起到延缓衰老的作用[24]。
+
+MT 作为一种催眠药物，有其独特的优点：小剂量（ $( 0 . 1 { \sim } 0 . 3 \ \mathrm { m g }$ ）MT就有较为理想的催眠效果[25]；生物半衰期短，口服几小时后即降至正常人的生理水平；MT作为一种内源性物质，在体内有其自身的代谢途径，不会造成药物及其代谢物在体内蓄积，毒性极小[26]。Valtonen 等[27]研究每天进餐时饮用 $0 . 5 \mathrm { L }$ 含 MT为10\~40$\mathrm { { \ p g / m L } }$ 的夜间牛奶对福利院老年人睡眠和生理活动的影响，探讨低剂量MT（其剂量为不影响白天血液中 MT的含量）对改善老人睡眠质量和翌日白天活动的效果，结果表明，即使是微量的MT 也能通过提高老年人白天的活动使他们受益。Barchas 等[28]研究结果表明，MT 可溶性剂量 $8 0 0 ~ \mathrm { m g / k g }$ BW 不引起小鼠死亡。3000多例人体服用试验表明，每天服用多达几克（为维持健康剂量的几千倍)，长达1个月，未见或者几乎没有毒性[29]。Miyamoto 等[30]报道2例具有严重睡眠障碍的病人连续服用 $5 \mathrm { m g } \mathrm { M T } 2$ 年,未发现任何副作用。Seabra等[31]采用随机、双盲、安慰剂对照试验，结果表明，40 名志愿者每天服用 $1 0 \mathrm { m g }$ 、连服 $2 8 { \mathrm { d } }$ 未观察到有任何毒性作用。龚广予[32]应用强化MT 超高温牛奶（MT含量 $1 2 ~ \mathrm { m g / L }$ ）进行老鼠急性毒性试验，结果表明，试验没有引起老鼠急性毒性和遗传毒性等毒副作用。
+
+# 3MT的食物来源及含量
+
+研究结果表明，MT 普遍存在于与人类生活密切相关的植物中，包括粮食作物、蔬菜以及药用植物，其中药用植物 MT 含量很高，如黄岑中 MT 的含量达 $7 . 1 1 { \times } 1 0 ^ { 3 } ~ \mathrm { n g / g }$ ，然而在马铃薯和烟草叶中没有检测到 MT的存在[33]。Eriksson 等[34]研究了每日牛奶中MT 含量变化，发现牛奶中MT夜间增加，并认为乳中 MT 含量反映血液 MT 含量，但有短期延迟。牛奶中天然地含有一定量的MT，且夜间牛奶中MT含量较白天牛奶高，因此一些牛奶公司通过光控研发富含高天然 MT的牛奶。1999 年芬兰英格曼乳业（Ingman Dairy）与库奥皮奥大学（University of Kuopio）的Maija Valtonen 教授合作成功研发出天然高MT奶，实现了销售的稳健增长和奶业的高附加值。随后，日本、英国和爱尔兰等国相继有天然高MT牛奶产品问世，价格是普通牛奶的 2.5倍，颇受消费者欢迎[35]。
+
+# 4天然高MT牛奶的生产技术
+
+# 4.1芬兰
+
+芬兰于2000年6月29日申请，于2001年1月11日公布了1种富含天然MT奶的生产方法的专利[36]。此方法中，奶牛1d中处于暗周期和光周期的长度基本不变，时间长度分别为2\~11h 和 $1 3 { \sim } 2 2 \mathrm { h }$ 。在这种光照制度下，暗周期的光照强度最大为 $4 0 \ln$ ，最优光照强度为 $1 0 \mathrm { { l x } }$ ；光周期的光照强度大于 $1 5 0 \mathrm { l x }$ ，最优光照强度大于 $2 5 0 \mathrm { l x }$ 。奶牛的挤奶昼夜节律要调整到在每天暗周期结束之前进行挤奶，生产实践中奶牛挤奶时间是在早晨，允许奶牛暴露在光源下，但暴露时间只有大约 $3 0 \mathrm { m i n }$ ，目的是为了防止在挤奶之前 MT停止分泌。在挤奶过程中，奶牛眼睛接触的最大光照强度为 $4 0 \mathrm { l x }$ 。奶牛舍中23:00 至次日07:00 的光照强度应该保持在$1 0 \mathrm { { l x } }$ ，早晨挤奶工作应该在06:30之前完成，在其他时间里可以按照正常程序对奶牛挤奶得到普通牛奶。对光照制度进行规范化，可以保证在不同季节都能得到MT含量在 $2 0 \mathrm { p g / m L }$ 以上的高 MT 奶。此方法得到的牛奶包含了较高含量的MT，其活性相对稳定，烹调、冷冻或者巴氏杀菌不会使MT降解，因此牛奶可以用于制作诸如奶酪等乳制品。在牛场的实践证明，在光照强度相同的条件下，使用此方法推荐的光照制度（光照/黑暗为17/7)与之前的光照制度（光照/黑暗为12/12)相比，奶中 MT的含量由 $8 . 9 \ : \mathrm { p g / m L }$ 增加到 $5 6 . 4 ~ \mathrm { p g / m L }$ 。
+
+# 4.2英国
+
+英国于2002年3月5日申请，于2003年10月8日公布了1种提高牛奶中天然MT含量方法的专利[37]。此专利方法要求控制光照强度和光照时间，将光照分为暗周期和光周期，同时需要增加动物的干物质采食量。最优的暗周期时间大约为 $8 { \sim } 1 0 \mathrm { h }$ ，光周期为14\~16h。暗周期的光强度不应超过 $5 0 \mathrm { l x }$ ，光周期的平均光强度应至少有 $1 0 0 0 \mathrm { l x }$ 。在自然光照不能满足专利方法所要求的光照条件时，需要限制自然光源的使用或者补充人工光源。暗周期的时间范围（可以运行在任何阶段，但首选是尽可能多地与自然的日节律一致）21：00 至次日05：00，这个时间点最符合日节律和日常挤奶时间。 $2 4 \mathrm { h }$ 内至少进行2次挤奶，其中1次挤奶在暗周期结束前进行，暗周期和其他时间内的牛奶分开收集和加工。如果只进行1次非黑暗挤奶，可以在大约19:00进行挤奶，黑暗挤奶在大约05：00 进行；若 $2 4 \mathrm { h }$ 内3次挤奶，挤奶时间分别为05：00、13:00和 21:00。应用此专利提供的方法生产的牛奶中 MT 的含量为 $1 5 { \sim } 3 0 \ \mathrm { p g / m L }$ 。
+
+# 4.3德国
+
+德国于 2006年11月30日申请，于2009年12月31日公布了1种天然高MT奶或奶制品的生产方法[38]。该方法将哺乳动物的日循环分为光周期和暗周期，分别使用第1和第2光照制度，产奶动物在暗周期至少要进行1次挤奶以获取高含量MT的奶。在光周期执行第1光照制度，含有一定比例的蓝光。在暗周期执行第2 光照制度时，至少要应用1种光源，其发出的波长在 $5 0 0 ~ \mathrm { n m }$ 以上，不使用波长在 $5 0 0 ~ \mathrm { n m }$ 以下的光源，使用的光源要求可以发出黄光、橙光、红光或者这些颜色的混合光，其中红色光源是最佳选择。根据此专利的要求，全光谱灯（约 $3 7 5 { \sim } 7 2 5 ~ \mathrm { n m }$ ）是首选，这和阳光最相似（约 $2 9 0 { \sim } 7 7 0 \ \mathrm { n m }$ )。由于延长光周期可以显著增加哺乳动物的产奶量，因此可以通过人工光源如全光谱灯的光照，根据要求延长或缩短白天的时间。用于暗周期的理想光源的发光颜色有红色、琥珀色（最高约 $6 1 2 \mathrm { n m }$ )、橙色（最高约 $6 0 5 \mathrm { n m }$ )或黄色（最高约 $5 8 5 \mathrm { n m } .$ )’理想光源为红色发光二极管（LED）灯，其在夜间阶段照射至少1h。在实际使用过程中，最好是至少 2h，6h 以上的使用效果更好。暗周期收集的牛奶最好在 $^ \mathrm { ~ 2 ~ h ~ }$ 以内迅速冷却到 $1 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 以下，如3或8℃。通过缩短暗周期的时间，并使挤奶在暗周期结束前完成，可以得到具有较高MT 含量的牛奶。例如，延长光周期达 16h（优选大于 $^ { 1 8 \mathrm { h } }$ )，能够在暗周期获得MT增加的高峰。正常牛奶中含有 MT 约 $1 . 5 { \sim } 3 ~ \mathrm { p g / m L }$ ，根据此专利的方法，生产的牛奶通常含有至少2倍，甚至高达10倍以上的MT。用该牛奶加工制作的奶粉中，群体平均的MT 含量大于 $2 0 0 \mathrm { p g / g }$ ，动物个体能达到 $5 0 0 \mathrm { p g / g }$ 以上。
+
+4.4中国
+
+我国于2010年4月22日申请，于2012年1月18日公布了1种获得高MT含量的原料乳的方法[39]，此专利解决了现有的提高原料乳中MT含量的方法中存在的原料乳中乳糖含量低的问题，利用此专利方法生产的原料乳中 MT和乳糖的含量均较高。此专利获得高MT乳的方法如下：泌乳期的奶牛饲养根据光照强度分为光照期、黑暗期和采奶期。光照期03:00一15:00，光照强度为 $5 4 0 { \sim } 6 0 0 1 \mathrm { x }$ ；黑暗期15:00至次日02:30，黑暗期每隔1\~2h 波长为 $4 2 0 { \sim } 4 8 0 ~ \mathrm { n m }$ 的蓝绿光光照 $1 5 { \sim } 3 0 ~ \mathrm { m i n }$ 、蓝绿光光照强度为 $2 4 0 { \sim } 3 0 0 \ \mathrm { l x }$ ，黑暗期蓝绿光光照之外剩余时间光照强度控制为 $2 0 { \sim } 4 0 \mathrm { l x }$ ；采奶期02:30—03:00，采奶期用波长为 $4 2 0 { \sim } 4 8 0 \mathrm { n m }$ 、光照强度为 $2 4 0 { \sim } 3 0 0  { \mathrm { l x } }$ 的蓝绿光进行照明。此专利方法中，黑暗期对MT的分泌起积极的促进作用；同时，蓝绿光采用间歇式光照，反复刺激视网膜上的可感光神经节细胞，然后将光刺激传导给下丘脑，再传导给松果体，进一步加快了分泌 MT 的速度；采奶期使用蓝绿光在保证采奶工作顺利进行的同时，不影响松果体分泌 MT。使用此专利方法生产的原料乳中MT的含量为 $5 0 { \sim } 7 1 \ \mathrm { p g / m L }$ ，得到了高MT含量的原料乳。此专利方法中给动物喂食含有红豆、酵母和小米的饲料，红豆和小米进入瘤胃中并被瘤胃中的微生物所分解，而酵母菌提高了瘤胃内羧甲基纤维素酶、水杨苷酶和木聚糖酶的活性，进一步提高了瘤胃的消化分解能力，加快了红豆和小米的分解，促进了丙酸的生成，从而加快了乳糖的合成，此专利原料乳中的乳糖含量为 $4 4 { \sim } 5 6 \ \mathrm { m g / m L }$ 。
+
+# 5我国开发天然高MT牛奶的前景
+
+以前人们非常关注功能性食品在抗胆固醇、糖尿病和骨质疏松等疾病方面的作用，往往忽视了食品本身在改善睡眠等机体亚健康，即那些降低生活质量、但并不危及生命的疾病方面的功能。随着生活水平的提高，以及科学技术的发展，人们认识到亚健康疾病的潜在危害，更关心亚健康疾病的改善或治疗问题，伴随而来的就是功能性食品中功能物质的来源问题。消费者愿意购买天然高MT奶及奶制品——溢价价格很高的功能性食品，这就是一个很好的例子。
+
+我国属睡眠障碍或失眠症高发国家。有调查研究显示：我国3\~13岁儿童睡眠障碍（睡眠不安、睡眠节  
+律紊乱、睡眠异态）的发生率为 $41 \%$ ，15\~19 岁睡眠障碍发生率为 $1 8 . 2 \%$ ，18\~60 岁发病率是 $1 5 . 8 \%$ ；总体上，  
+随着年龄增长，人类1d睡眠总时间呈递减趋势，老年人失眠发病率高达 $6 7 . 2 \% ^ { [ 4 0 ] }$ 。食用MT补充剂早已成  
+为失眠症人群，特别是大部分老年人群的选择，有些人已经开始使用天然 MT。随着我国奶业的发展，喝奶  
+已经成为我国民众的日常习惯，如果开发推广天然高MT牛奶及奶制品，市场前景广阔。虽然我国奶业发展迅速，但奶业效益却起起伏伏，屡次出现质量安全事件。在这种情况下，打击了国内  
+民众对我国奶产品的信心，奶牛养殖户和奶制品生产企业需要承担很大的经济损失，造成我国奶业的非良性  
+发展。通过天然高MT牛奶及奶产品的开发，特别是天然高MT 有机奶及奶产品的开发，增强消费者的信心，  
+促进国内民众对奶产品的购买力，稳定或提高奶牛养殖及奶产品加工效益，促进我国奶业的健康发展。此外，
+
+因为天然高MT牛奶及奶制品的保健功能，在功能性食品领域也许会产生巨大的经济效益。
+
+6小结
+
+牛奶作为大众消费最多的乳制品，是补充外源性 MT 的良好来源，通过光控技术手段提高牛奶中天然  
+MT 的含量，生产高MT牛奶，可能具有广阔的市场前景。  
+参考文献：  
+[1]肖建辉,刘作易,梁宗琦.褪黑激素的研究开发现状[J].生命的化学,2001,21(1):69-70.  
+[2]梁竹,魏玮,陶利.褪黑素在治疗睡眠障碍中的研究进展[J].解放军药学学报,2014,30(1):82-85.  
+[3]陈少雅.褪黑激素的抗肿瘤活性研究进展[J].福建医科大学学报,2001,35(增刊):1-3.  
+[4]武翠,徐金先.褪黑激素对免疫功能的影响[J].饲料研究,2006(9):25-27,36.  
+[5]张军,胡大海.褪黑激素抗氧化作用的研究进展[J].国际药学研究杂志,2008,35(3):189-193.  
+[6] CAGNACCIA.Influencesofmelatoninonhumancircadianrhythms[J].ChronobiologyInternational,1997,14(2):205-220.  
+[7]裴小英,郭定宗,郭锐.松果体和褪黑素的生物学作用研究进展[J].中国畜牧兽医,2007,34(7):60-63.  
+[8]CHAMPNEY T H,HOLTORF A P,STEGER R W,et al.Concurrent determination of enzymatic-activities andsubstrate concentrations in the melatonin synthetic pathway within the same rat pineal gland[J].Journal ofNeuroscience Research,1984,11(1):59-66.  
+[9]谷晓川,李琳,李根.褪黑激素生理活性的研究新进展[J].亚太传统医药,2009,5(8):168-170.  
+[10]黄文华,唐俊峰.论褪黑素对睡眠的生理作用[J].现代中医药,2002(5):12-13.  
+[11]崔成红,谭新旺,臧恒昌.褪黑素合成方法研究进展[J].食品与药品,2009,11(9):61-64.  
+[12]谢利波,王敏,熊安秀.褪黑素的炎症免疫调节机制及其与哮喘的关系[J].实用儿科临床杂志,2005,20(12):1247-1249.  
+[13]周瑞祥,魏建恩,刘卉,等.松果体及其褪黑素影响胸腺T细胞发育周期[J].解剖学报,2005,36(1):70-75.  
+[14]BOROWICZ K K,KAMINSKI R,GASIOR M,et al.Influence of melatonin upon the protective action ofconventionalanti-epilepticdrugsagainstmaximalelectroshockinmice[J].EuropeanNeuropsychopharmacology,1999,9(3):185-190.  
+[15]伍彬,张娇.褪黑激素研究进展[J].中国药业,2009,18(14):81-82.  
+[16]DOLLINS A B,ZHDANOVA I V,WURTMAN R J,et al.Efect of inducing nocturnal serum melatoninconcentrations in daytime on sleep,mood,body temperature,and performance[J].Proceedings of the National
+
+Academy of Sciences of the United States of America,1994,91(5):1824-1828.
+
+[17]GOLOMBEK D A,PANDI-PERUMAL S R,BROWN G M,et al.Some implications of melatonin use in chronopharmacology of insomnia[J].European Journal of Pharmacology,2015,762:42-48.
+
+[18]王化虹,陈宝雯,曹之宪.褪黑激素对胃黏膜的保护作用及其机制[J].中华消化杂志,2001,21(8):477-480.   
+[19]黄继林.褪黑激素与脑血管病[J].第一军医大学学报,2001,21(12增刊):112-113,116.   
+[20]程娟,窦光茜,康明秀,等.褪黑素改善抑郁症患者睡眠及抑郁情绪的研究[J].齐齐哈尔医学院学 报,2014,35(17):2542-2543.   
+[21]UZBAY T,PARLAKPINAR H,AKDAG E,et al.Chronic melatonin treatment reverses disruption of prepulse inhibitioninpinealectomizedandpinealectomized-plus-ovariectomizedrats[J].BehaviouralBrain Research,2013,239:1-7.   
+[22]SHIEH JM,WU H T,CHENG K C,et al.Melatonin ameliorates high fat diet-induced diabetes and stimulates glycogensynthesisviaaPKCg-Akt-GSK3βpathwayinhepaticcels[J].JournalofPineal Research,2009,47(4):339-344.   
+[23]赵浩淼,李作孝,刘广益.褪黑激素与脑保护[J].医学综述,2006,12(10):596-598.   
+[24]何丽华.抗衰老药物的应用现状及研究进展[J].北方药学,2011,8(2):38-39.   
+[25] ZHDANOVA I V,WURTMAN R J,LYNCH H J,et al.Sleep-inducing effects of low doses of melatonin ingested in the evening[J].Clinical Pharmacology & Therapeutics,1995,57(5):552-558.   
+[26]KOPIN I J,PARE CM B,AXELROD J,et al.Fate of melatonin in animals[J].Journal of Biological Chemistry,1961,236(11):3072-3075.   
+[27]VALTONEN M,NISKANEN L,KANGAS A P,et al.Effect of melatonin-rich night-time milk on sleep and activity in elderly institutionalized subjects[J].Nordic Journal of Psychiatry,2O05,59(3):217-221.   
+[28] BARCHAS J,DACOSTA F,SPECTOR S.Acute pharmacology of melatonin[J].Nature,1967,241(5091):919-920.   
+[29]REITER R J,RONBINSON J.Melatonin:your body'snatural wonder drug[M].New York:Bantam Books,1995:15.   
+[30]MIYAMOTO A,OKI J,TAKAHASHI S,et al.Serum melatonin kinetics and long-term melatonin treatment for sleep disorders in Rett syndrome[J].Brain and Development,1999,21(1):59-62.   
+[31]SEABRA M D L V,BIGNOTTO M,PINTO L R Jr,et al.Randomized,double-blind clinical trial,controlled
+
+withplacebo,ofthetoxicologyofchronicmelatonintreatment[J].Journal ofPineal Research,2000,29(4):193-200. [32]龚广予.强化褪黑素牛奶的急性和遗传毒性试验[J].食品工业,2012,33(6):135-137. [33]张贵友,刘伟华,戴尧仁.植物中的褪黑激素及其功能[J].中草药,2003,34(1):87-89. [34] ERIKSSON L,VALTONEN M,LAITINEN J T,et al.Diurnal rhythm ofmelatonin inbovine milk:pharmacokineticsofexogenousmelatoninin lactating cowsandgoats[J].ActaVeterinaria Scandinavica,1998,39(3):301-310. [35]任皓威,姜毓君.乳中褪黑激素及褪黑激素乳品研究进展[J].中国乳品工业,2009,37(8):45-47. [36] VALTONENM,KANGASA P,VOUTILAINEN M.Method forproducing melatoninrich milk:Finland,PCT/FI2000/000589[P].2001-01-11. [37]Red Kite Farms Limited,Turville Court Estate,Turville Health.Method for producing milk with an enhanced content of naturall expressed melatonin:UK,20020005211.6[P].2003-10-08. [38] GNANN T.Method for the production of milk or milk products with a high proportion of melatonin:Germany,US11/921,853[P].2011-08-23. [39]黑龙江省乳品工业技术开发中心.一种获得褪黑素含量高的原料乳的方法：中 国,201010152578.0[P].2010-08-04. [40]陈勇,赖海标,何希俊,等.失眠最新研究概况[J].中国实用内科杂志,2014,34(增刊):171-173. Technology for Production of Cow's Milk Rich in Naturally Expressed Melatonin ZHANG Wei ZHAO Guangyong ZHANG Xiaoming MO Fang (State Key Laboratory of Animal Nutrition, Collge of Animal Science and Technology, China Agricultural University, Beijing 100193, China) Abstract: Melatonin is an indolamine neuroendocrine hormone secreted by pineal gland and has a variety of physiological functions,such as improving the human sleeping quality,strengthening the immunity,anti-aging and antineoplastic. Ordinary milk contains low content of naturally expressed melatonin, but the milk produced in nighttime by light control technology has a higher content of naturally expressed melatonin.This article summarized the melatonin synthetic process,biological functions,efects on human health,and production technologyof high content of naturally expressed melatonin milk to provide references to further development of the technology for enhancing melatonin content in cow's milk.
+
+Key words: melatonin; milk; nighttime milk;melatonin rich milki
+
+(责任编辑 王智航)

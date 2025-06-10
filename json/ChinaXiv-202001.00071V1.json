@@ -1,0 +1,472 @@
+[
+    {
+        "type": "text",
+        "text": "不同覆盖度沙粒胶结体风蚀抑制效益研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "任宏晶}²，李生宇'，雷加强’，樊瑞静²，蔡东旭'，周杰'(1中国科学院新疆生态与地理研究所,新疆乌鲁木齐830011；2中国科学院大学,北京 100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以塔克拉玛干沙漠腹地的沙粒胶结体（Sand Cemented Bodies,SCB)为研究对象，通过野外自然状态下吹蚀不同沙粒胶结体覆盖度的沙盘,计算沙面风蚀(积)量，并对覆盖度与风蚀率、抗风蚀效率的关系进行分析。结果表明：风蚀量随沙粒胶结体覆盖度的增加而减小，随吹蚀时间的增加而增加；当覆盖度大于 $30 \\%$ 时，沙面发生风沙堆积，且堆积量随覆盖度和吹蚀时间的增加而增加；沙粒胶结体的抗风蚀效率随覆盖度的增加而线性增大。沙面蚀积转化临界覆盖度为 $30 \\%$ 左右，且该覆盖度下床面抗风蚀效益最佳。通过对比沙粒胶结体抗风蚀效益的风洞模拟和野外实验，表明风况、风速、沙粒胶结体粒径组合不同可导致沙面蚀积差异和临界覆盖度不同。因此，塔克拉玛干沙漠腹地发育的沙粒胶结体具有很好的风蚀抑制功能，可作为流沙固定新措施继续研究开发。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：沙粒胶结体；野外验证；风蚀量；抗风蚀效率：固沙效益 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "砾石、植被等粗糙元覆盖能减小风对地表的直接作用力,并消耗风能[1-8],从而抑制地表风蚀与沙尘物质释放，成为风沙防护的有效措施之一。目前，国内外学者从粗糙元的种类与覆盖方式[9-10]、覆盖度[11-12]及外形[13-14]等对床面风速廓线、空气动力学粗糙度、摩阻速度、剪切力等[4,8,15-21]的影响人手，探讨其风蚀抑制作用和规律，认为覆盖度或密集度的变化是影响粗糙元抑制风蚀的关键参数[8,22-23]。LANCASTER 和BASS 等[24]建立了植被粗糙元密集度与输沙率之间的定量关系；张克存等[15]研究发现,随着砾石覆盖度增加,近地表风速降低，而摩阻速度、空气动力学粗糙度、剪切力呈线性增加趋势;张伟民等[25]通过野外风洞实验确定了砾石覆盖度影响床面蚀积过程转化的相关阈值。这些研究大多是基于风洞实验的模拟研究，受实验条件的限制，相关野外验证相对较少。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在塔克拉玛干沙漠腹地部分较为平坦开阔的垄间地中,天然发育有一种大颗粒物质—沙粒胶结体（SCB），其直径大小不一，且颗粒形状不规则，平均分布密度约808 粒· $\\mathrm { ~ m ~ } ^ { - 2 [ 2 6 ] }$ 。沙粒胶结体具有一定的抗风蚀作用[26-27],研究其风沙效应对深入认识垄间地沙面稳定机制、开发新型防沙治沙技术和固沙产品具有重要意义。李生宇等[26]对沙粒胶结体的基本特征开展了首次研究;樊瑞静等[27]分析了其胶结过程和发育环境特点;孙娜、周杰等[28-29]基于风洞实验研究了其覆盖度、粒径、风速等对风蚀量和输沙率的影响，但目前尚未开展沙粒胶结体风蚀抑制作用的野外观测验证。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文通过野外观测实验，测定了沙粒胶结体在不同覆盖度条件下的沙面风蚀(积)量，旨在查证沙粒胶结体覆盖度对沙面风蚀的抑制作用，为其在风蚀控制应用方面提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "实验设计与研究方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究区位于塔克拉玛干沙漠腹地的中石油塔里木油田公司塔中四油田基地附近，该区年平均风速$2 . 5 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 左右,起沙风频繁,风向以ENE、NE、E、NNE 为主[30],风力强劲;沙丘高大起伏,地貌类型以高大复合沙垄及宽广的垄间地相间分布为主要特点[31-34]。研究区垄间地沙物质机械组成以细沙和极细沙为主,表层因长期风蚀而粗化[35-36],在地表有一层大颗粒覆盖层,不易起沙[37] 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "沙粒胶结体是研究区垄间地大颗粒覆盖层的重要组成部分[26],尺度可达粗沙、极粗沙和砾石级别,覆盖度 $2 \\% \\sim 3 \\%$ ,与地表粗沙、极粗沙层共同维持着垄间地的沙面稳定[26] 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 野外采样 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "经野外调查，在研究区选取3处垄间地采样区（图1），在每个采样区分别选择3个采样点，且采样点地表均无明显微地形变化，采集地表 $2 \\ \\mathrm { c m }$ 厚的沙样，依次过 $2 \\ \\mathrm { m m } , 1 \\ \\mathrm { m m } , 0 . 5 \\ \\mathrm { m m }$ 孔径的标准筛，并拣出粗沙和极粗沙，得到沙粒胶结体样品。同时，收集过 $0 . 5 \\ \\mathrm { m m }$ 孔径筛后的表层沙土。将采集的沙粒胶结体和表层沙土样品分别装袋标记，以备实验。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 实验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本次野外实验在塔中四油田基地东南 $3 ~ \\mathrm { k m }$ 宽阔平坦的垄间沙地中开展，实验时间为2017年9月3日\\~9月20日，共 $1 8 \\mathrm { ~ d ~ }$ 。将采集的表层沙土均匀平铺在沙盘（长 $\\times$ 宽 $\\times$ 高： $4 0 \\ \\mathrm { c m } \\times 6 0 \\ \\mathrm { c m } \\times 5 \\ \\mathrm { c m } )$ 中，再将各粒级沙粒胶结体样品混合均匀后覆盖于沙样表面,覆盖度分别设置 $3 \\%$ （自然覆盖[26]）、 $10 \\%$ 、$30 \\%$ ， $6 0 \\%$ 以及无沙粒胶结体覆盖的对照组 $( C K )$ ，每个覆盖度梯度设置3个重复。将沙盘称重记录后放置于实验场地，自然状态下经受吹蚀。分别在实验开始后3d(9月5日）、18d(9月20日)进行观测和称重，计算沙面风蚀量，研究沙粒胶结体覆盖度对",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2109fb7ba4c309c09cf404a8fc260ca9577afefab5f21cf2cb1cf9e623c64d24.jpg",
+        "img_caption": [
+            "图1野外采样区分布图Fig.1Location of sampling area"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "地表风蚀的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4 实验期间风力状况 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "塔中地区瞬时流体起动风速约 $6 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,冲击起动风速约 $5 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 [ 3 8 ] }$ 。从中国气象数据网站(http：/data.cma.cn）获取野外实验期间塔中地区逐小时风速、风向数据,利用Excel 和Origin 软件分别进行统计处理和制图，由图2可知，实验期间，该区风向以N、NE、NNW、NNE、ENE为主，平均风速$2 . 8 9 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,最大平均风速 $9 . 3 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,大于$5 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 的风速占比为 $1 4 . 0 6 \\%$ 。实验期间,两次观测时段风况基本一致,其中，前3d,平均风速$2 . 6 7 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,最大平均风速 $7 . 9 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,大于$5 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 的风速占比为 $1 3 . 6 4 \\%$ ;后15d,平均风速$2 . 9 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,最大平均风速 $9 . 3 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,大于$5 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 的风速占比为 $1 3 . 2 1 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c943706acf4eb93ea0f31262db943c87ba1bad92296677e20be88a87dc19aefd.jpg",
+        "img_caption": [
+            "图2研究区实验期间风玫瑰图",
+            "Fig.2Wind rose of study area during the experiment "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5沙粒胶结体覆盖度计算",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "沙粒胶结体覆盖度依据周杰等[29]建立的沙粒胶结体投影面积 $( a _ { i } )$ 与其质量 $( w _ { i } )$ 之间的关系 $w _ { i } =$ $0 . 4 8 ~ a _ { i }$ 确定，分别计算出不同覆盖度！ $( 3 \\% , 1 0 \\%$ 、$30 \\%$ （204 $60 \\%$ )所需沙粒胶结体的质量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.6 风蚀率及抗风蚀效率计算",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "风蚀率 $( R )$ 是指单位时间、单位面积沙样的风蚀量 $( W _ { d } )$ ，即：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR = W _ { d } { \\Big / } \\left( S \\times T \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中：风蚀量( $\\textstyle \\boldsymbol { W } _ { d }$ )为野外沙盘吹蚀前后质量之差；S为实验用沙盘表面积； $T$ 为吹蚀时间。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "抗风蚀效率 $( I )$ 是指不同沙粒胶结体覆盖度的",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "风蚀率降低量与 $C K$ 风蚀率之比，即：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI = ( R _ { c k } - R _ { i } ) \\Big / R _ { c k } = 1 - R _ { i } \\Big / R _ { c k }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $R _ { i }$ 为不同沙粒胶结体覆盖度的风蚀率; $R _ { c k }$ 为对照组风蚀率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 实验结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1不同覆盖度条件下的蚀积变化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从沙盘吹蚀前后外观变化（图3）可知，沙粒胶结体对沙面具有较好的风蚀抑制作用；实验前后沙盘质量变化数据也表明，沙粒胶结体对塔克拉玛干沙漠腹地平沙地的蚀积过程具有一定的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1为两个观测时段（3d和18d），不同覆盖度沙粒胶结体沙面吹蚀前后沙床面蚀积量的变化。由表可知，覆盖度为 $0 \\% ( C K )$ 时,沙床面风蚀量最大,吹蚀 $^ { 3 \\mathrm { ~ d ~ } , 1 8 \\mathrm { ~ d ~ } }$ 后，风蚀量分别达到 $1 . 8 6 \\pm 0 . 2 3$ $\\mathbf { k g } \\cdot \\mathbf { m } ^ { - 2 }$ 和 $2 3 . 9 3 \\pm 2 . 1 8 ~ \\mathrm { k g } \\cdot \\mathrm { m } ^ { - 2 }$ ;覆盖度为 $3 \\%$ 时，风蚀量分别为 $0 . 2 9 \\pm 0 . 1 4 \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ 和 $3 . 7 8 \\pm 0 . 3 6$ $\\mathbf { k g } \\cdot \\mathbf { m } ^ { - 2 }$ ，为 $C K$ 风蚀量的 $1 5 . 5 9 \\%$ 和 $1 5 . 8 0 \\%$ ;覆盖度为 $30 \\%$ 左右时，沙床面开始由风蚀转化为风积，蚀积量分别为 $- 0 . 2 6 \\pm 0 . 0 9 \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ 和 $0 . 3 6 \\pm$ $0 . 0 5 \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ;覆盖度达 $6 0 \\%$ 时,沙床面均为风积状态，蚀积量分别为 $- 0 . 3 8 \\pm 0 . 1 2 \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ 和$- 6 . 6 4 \\pm 1 . 3 6 ~ \\mathrm { k g } \\cdot \\mathrm { m } ^ { - 2 }$ 。由以上可知,床面风蚀量随着沙粒胶结体覆盖度的增加而减少，逐渐转化为堆积状态，表明沙粒胶结体具有一定的抗风蚀作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2不同覆盖度沙粒胶结体的抗风蚀效率",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图4可知，当沙粒胶结体覆盖度为 $3 \\%$ 时，抗风蚀效率为 $8 4 . 2 1 \\% \\sim 8 4 . 3 3 \\%$ ;覆盖度为 $30 \\%$ 时，抗风蚀效率为 $9 8 . 4 9 \\% \\sim 1 1 4 . 1 8 \\%$ ;覆盖度为 $6 0 \\%$ 时，抗风蚀效率达到 $1 2 0 . 1 5 \\% \\sim 1 2 7 . 7 4 \\%$ ，因此，沙粒胶结体的抗风蚀效率随覆盖度的增加而增大。覆盖度小于 $30 \\%$ 时，抗风蚀效率均低于 $100 \\%$ ;覆盖度为 $30 \\%$ 时，吹蚀3d,抗风蚀效率大于 $100 \\%$ ，吹蚀18d,抗风蚀效率小于 $100 \\%$ 。因此，覆盖度为 $30 \\%$ 左右时，为沙面蚀积转化临界覆盖度，是最经济的防风蚀覆盖度。覆盖度为 $6 0 \\%$ 时,抗风蚀效率均大于$100 \\%$ ,表明床面产生了风沙堆积,且风沙堆积量3d$< 1 8 \\mathrm { ~ d ~ }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3风蚀率及抗风蚀效率与覆盖度的关系",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由实验可知，沙床面风蚀率随覆盖度的增加而注： $C K , 3 \\%$ $. 1 0 \\%$ （204号 $, 3 0 \\%$ $60 \\%$ 为沙粒胶结体覆盖度，1、2、3为各覆盖度下的3个重复。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ca45140f427c69e81b5bf108116e6ef6039aaab77587c88bcdb9d19222fa28e.jpg",
+        "img_caption": [
+            "图3实验前后不同覆盖度沙盘的风蚀特征",
+            "Fig.3Characteristics of wind erosion with different coverage before and after field experiment "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f7ea86a01b10c1507373202392648d4581909b7af1859ce13521a5ae99641a62.jpg",
+        "table_caption": [
+            "表1不同覆盖度沙粒胶结体的沙盘风蚀量",
+            "Tab.1Wind erosion amounts with different coverage of SCB "
+        ],
+        "table_footnote": [
+            "注：“-”代表风积，“ $^ +$ ”代表风蚀"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">覆盖度／%</td><td rowspan=\"2\">吹蚀前／kg</td><td colspan=\"2\">吹蚀后／kg</td><td colspan=\"2\">风蚀量／kg·m-2</td></tr><tr><td>3d</td><td>18d</td><td>3d</td><td>18d</td></tr><tr><td>0</td><td>14.28 ±0.51</td><td>13.83 ±0.53</td><td>8.53 ±0.12</td><td>1.86 ±0.23</td><td>23.93 ±2.18</td></tr><tr><td>3</td><td>14.36 ±0.20</td><td>14.29 ±0.18</td><td>13.45 ±0.27</td><td>0.29 ±0.14</td><td>3.78 ±0.36</td></tr><tr><td>10</td><td>14.07 ±0.27</td><td>14.03 ±0.27</td><td>13.28 ±0.17</td><td>0.15 ±0.04</td><td>3.29 ±0.48</td></tr><tr><td>30</td><td>14.44 ±0.64</td><td>14.50 ±0.63</td><td>14.35 ± 0.64</td><td>-0.26 ±0.09</td><td>0.36 ±0.05</td></tr><tr><td>60</td><td>14.90 ±0.71</td><td>14.99 ±0.73</td><td>16.49 ±0.41</td><td>-0.38 ±0.12</td><td>-6.64 ±1.36</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/364c2e20af43f7c334a524975097cf24233c993c33298e0ca15af65a941bbc74.jpg",
+        "img_caption": [
+            "图4不同覆盖度沙粒胶结体条件下抗风蚀效率"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2风蚀率 $( \\boldsymbol { y } )$ 与覆盖度 $( x )$ 的拟合系数（拟合关系为 $\\boldsymbol { y } = \\boldsymbol { a } \\boldsymbol { x } + \\boldsymbol { b }$ ）",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/24c6ffcf58d350dc6912940d540e1feb5e57de6370cebed82010d4cdd9de5e2d.jpg",
+        "table_caption": [
+            "Tab.2Fitting coefficients of wind erosion rate $( \\boldsymbol { \\mathbf { y } } )$ andcoverage $( x )$ （Fitting relationship is $\\ y = a x + b$ ）"
+        ],
+        "table_footnote": [
+            "注：该拟合系数表仅分析覆盖度 $3 \\% \\sim 6 0 \\%$ "
+        ],
+        "table_body": "<html><body><table><tr><td>吹蚀时间／d</td><td>拟合关系式</td><td>拟合系数R</td></tr><tr><td>3</td><td>y = -0.16 x+3.53</td><td>0.87</td></tr><tr><td>18</td><td>y= -0.43 x+11.54</td><td>0.98</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "减小，且覆盖度由 $0 \\%$ 增加至 $3 \\%$ 时,风蚀率显著降低，吹蚀3d和18d时， $0 \\%$ 覆盖度的风蚀率为 $3 \\%$ 覆盖度时的6.38倍和6.34倍;当沙粒胶结体覆盖度为 $3 \\% \\sim 6 0 \\%$ 时，吹蚀 $^ { 3 } \\mathrm { ~ d ~ } , 1 8 \\mathrm { ~ d ~ }$ 后，风蚀率均随覆盖度增加呈线性函数递减（表2）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，沙粒胶结体的抗风蚀效率随覆盖度的增加而线性增加，两者呈显著相关（ $R ^ { 2 } >$ 0.87）。不同吹蚀时间条件下，抗风蚀效率比值随覆盖度增加呈现先增大、后减小的趋势；且覆盖度为$30 \\%$ 时抗风蚀效率比值最大，即吹蚀时间不同时，$30 \\%$ 覆盖度的抗风蚀效果差异明显（图5）。这是由于在 $30 \\%$ 覆盖度下，沙床面开始由风蚀转化为风积，达到最优的抗风蚀效果。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d98d6da3719900904a6c737d53d845827ad07f64abf37a2a2670d85488c581ce.jpg",
+        "img_caption": [
+            "Fig.4Anti-erosion efficiency with different coverage of SCB "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3抗风蚀效率 $( \\boldsymbol { \\mathbf { y } } )$ 与覆盖度 $( x )$ 的拟合系数",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d8f7d36e1624dfd8d3406df96c5ebfce0cf0863cccde012058edf53c136b3bd9.jpg",
+        "table_caption": [
+            "Tab.3Fiting coefficients of anti-erosion efficiency "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">(y)and coverage(x)</td></tr><tr><td>吹蚀时间／d</td><td>拟合关系式</td><td>拟合系数R</td></tr><tr><td>3</td><td>y =0.63 x +86.34</td><td>0.87</td></tr><tr><td>18</td><td>y=0.78 x+79.18</td><td>0.98</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4野外实验对风洞模拟的验证效果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图6可知，在野外实验两次观测段中，3d平均风速 $( 2 . 6 7 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ )小于18d平均风速(2.86$\\mathbf { m } \\cdot \\mathbf { s } ^ { - 1 }$ ),与之相对应，不同沙粒胶结体覆盖度样品，吹蚀 $3 \\mathrm { ~ d ~ }$ 时的风蚀率亦小于吹蚀18d时的风蚀率。这也验证了风洞模拟条件下样品风蚀率随风速增加而增大的结论。在野外自然条件下，当覆盖度为 $30 \\%$ 左右时，床面抗风蚀效益最佳，且吹蚀3d时样品的蚀积转化临界覆盖度略小于18d,而在风洞模拟实验中,在携沙风条件下， $8 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 } \\cdot 1 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ （204号风速下的临界覆盖度分别为 $6 \\%$ ） $1 5 \\%$ 。可见，野外实验与风洞模拟结论一致，表明风速越大，发生蚀积转化的临界覆盖度就越大。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c83ee3249fdfb87a4ef77802ccddb4fa2f4056fc74b00e68ddaa6164d64f6537.jpg",
+        "img_caption": [
+            "图5抗风蚀效率比值随沙粒胶结体覆盖度的变化 Fig.5Anti-erosion efficiency ratios with different coverage of SCB ",
+            "注：风洞模拟结果引自孙娜等[28] ",
+            "图6野外实验与风洞模拟结果对比 Fig.6Comparison of the field experiment with other wind-tunnel simulation results "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当然，野外实验与风洞模拟结果也存在一定差异。由于风洞模拟实验时的携沙风为充分供沙，因而风洞模拟条件下蚀积率均大于野外自然状态，其临界覆盖度也小于野外自然状态（图6）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1不同覆盖度沙粒胶结体的抗风蚀效益",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "砾石覆盖抑制地表风蚀的作用已被前人探究，而塔克拉玛干沙漠腹地的沙粒胶结体，尺度可达砾石级别,密度也接近砾石[27],孙娜等[28]风洞实验表明，其抗风蚀效益也与砾石类似。本次野外实验进一步验证野外自然状态与风洞模拟结果一致，即沙床面风蚀量随沙粒胶结体覆盖度的增加而减少。这是由于覆盖于沙床面的沙粒胶结体可隔离气流与床面沙粒的直接接触，消减部分风能，并减小作用于沙粒胶结体间隙沙床面的剪切压，从而抑制沙尘物质释放;随着覆盖度增加，可蚀床面（沙粒胶结体间隙)面积减小，减少了风沙流对床面的直接冲击作用,同时也增加了地表粗糙度，床面对气流阻力增加,因而风蚀量降低。张伟明等[25]认为风沙流通过粗糙元覆盖床面，一定的覆盖度与风速相互耦合时，可出现风蚀、风积和蚀积平衡床面。本次野外实验的两个观测时段内的风况基本一致，蚀积转化的临界覆盖度在 $30 \\%$ 左右，因而 $30 \\%$ 沙粒胶结体覆盖度可使塔克拉玛干沙漠腹地的沙床面达到最佳抗风蚀效果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2野外实验与风洞模拟产生蚀积差异的原因 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本次野外实验与前人风洞模拟结果基本一致，说明沙粒胶结体具有一定的抗风蚀作用，并可在一定覆盖度条件下捕获风沙流携沙而产生风积。但两种实验的床面蚀积和临界覆盖度也存在一定的差异。分析认为，这种差异有以下原因：（1）自然风的风向复杂多变，实验期间 $\\mathrm { ~ N ~ } , \\mathrm { N E ~ } , \\mathrm { N N W , N N E , E N E }$ 风向的频率分别为 $2 0 . \\ 3 1 \\% . \\ 1 7 . \\ 9 7 \\% . \\ 1 1 . \\ 7 2 \\%$ 、$1 0 . 9 4 \\% . 9 . 3 8 \\%$ ，而风洞模拟时气流稳定、方向单一。（2）风洞模拟时,携沙风（设置 $8 \\ \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ）$1 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ )吹蚀一定时间(分别为 $1 0 \\ \\mathrm { m i n } \\lrcorner 5 \\ \\mathrm { m i n } \\cdot$ ），风洞模拟风速均大于野外实际临界起沙风速$( 6 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ),而此次野外实验起沙风发生频率为$1 3 . 4 3 \\%$ ，且风速大小不同。（3）风洞模拟实验采用同一粒径范围的沙粒胶结体覆盖度沙面，而为更真实反映沙粒胶结体的自然分布状况，本次野外实验覆盖的沙粒胶结体则是不同粒径混合。因此，起沙风的风向变化、风速以及沙粒胶结体粒径等条件的不同，使沙粒胶结体之间的气流性质和剪应力不同，从而产生室内外实验略有不同的结果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "沙粒胶结体作为一种天然固沙材料，具有明显的固沙抗风蚀作用，前人已探究了其理化性质、采用风洞模拟了其抗风蚀效益，但尚缺乏相关野外实地验证。本文在野外自然状态下进行了不同沙粒胶结体覆盖度的沙盘实验，分析了沙粒胶结体覆盖度对沙床面风蚀的影响，得出结论如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）风蚀量随沙粒胶结体覆盖度的增加而降低，沙粒胶结体的抗风蚀效率随覆盖度的增加线性增加，覆盖度由 $0 \\%$ 增加至 $3 \\%$ 时，风蚀量减小最为显著，当覆盖度为 $30 \\%$ 左右时，床面开始发生风沙堆积，且堆积量随覆盖度的增加而增加。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（2）自然吹蚀状态下， $30 \\%$ 左右覆盖度为床面蚀积转化的临界覆盖度，具有最佳的防风蚀效果。本次野外实验验证了风洞模拟条件下沙粒胶结体具有风蚀抑制作用的结论，并发现起沙风的风向变化、风速以及沙粒胶结体粒径组合差异，是造成室内外实验中蚀积差异和临界覆盖度不同的原因。研究结果对深入认识沙粒胶结体风蚀抑制作用和将其开发应用为流沙固定环保新材料具有重要理论和现实意义。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]RAUPACHMR,GILLETTEDA,LEYSJF.The effect of roughness elements on wind erosion threshold[J]. Journal of Geophysical Research Atmospheres,1993,98(D2）:3023-3029.   \n[2] MCKENNA NEUMAN C.Particle transport and adjustments of the boundary layer over rough surfaces with an unrestricted,upwind supply of sediment[J].Geomorphology,1998,25(1）:1-17.   \n[3] GILLETTE D A,STOCKTON PH.The effect of nonerodible particles on wind erosion of erodible surfaces[J].Journal of Geophysical Research Atmospheres,1989,94(D10） :12885-12893.   \n[4] WOLFE SA,NICKLING W G.Shear stress partitioning in sparsely vegetated desert canopies[J].Earth Surface Processes & Landforms,2015,21(7) :607-619. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[5]CHEPILWS,WOODRUFFNP,SIDDOWAYFH,et al.Vegetative and nonvegetative materials to control wind and water erosion [J].Soil Science Society of America Journal,1963,27(1）:86 - 89. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[6]WOLFE S A.The protective role of sparse vegetation in wind erosion[J].Progress in Physical Geography,1993,17(1）:50 -68.   \n[7］黄富祥,王明星，王跃思.植被覆盖对风蚀地表保护作用研究 的某些新进展[J].植物生态学报,2002,26(5）:627-633. [ HUANG Fuxiang, WANG Mingxing, WANG Yuesi. Recent progress on the research of vegetation protection in soil erosion by wind[J].Acta Phytoecologica Sinica,2002,26(5）:627 -633.]   \n[8］刘小平,董治宝.直立植被粗糙度和阻力分解的风洞实验研究 [J].中国沙漠,2002,22（1）:82－87.[LIU Xiaoping,DONG Zhibao.Wind tunnel tests of the roughness and drag partition on vegetated surfaces[J]. Journal of Desert Research,20O2,22（1）: 82 -87.]   \n[9］王翔宇,丁国栋,尚润阳,等.秸秆、地膜覆盖控制农田土壤风 蚀机理[J].安徽农学通报,2007,13（16）:49－50.[WANG Xiangyu,DING Guodong,SHANG Runyang,etal. Mechanism of controlling wind erosion in farmlandbycovering strawand plastic film[J].Anhui Agricultural Science Bulltin,2007,13(16） :49- 50.]   \n[10］刘连友,刘玉璋,李小雁,等.砾石覆盖对土壤吹蚀的抑制效应 [J].中国沙漠,1999,19（1）:60－62.［LIULianyou,LIU Yuzhang,LI Xiaoyan,et al.Effct of gravel mulch restraining soil deflation bywind tunnel simulation[J].Journalof DesertResearch,1999,19(1):60-62.]   \n[11］郭雨华,赵廷宁,丁国栋,等.灌木林盖度对风沙土风蚀作用的 影响[J].水土保持研究,2006,13（5）:245－247.[GUO YUhua,ZHAO Tingning,DING Guodong,et al. Influence of shrub coverage on the wind erosion of sandy soil[J].Research of Soil & Water Conservation,2006,13（5）:245 -247.]   \n[12］慕青松,廖江海,马崇武,等.粗糙元覆盖对土壤风蚀的控制作 用[J].土壤学报,2008,45(6）:1026-1033.[MU Qingsong,LIAO Jianghai,MA Chongwu,et al.Effect of rough elements on soil erosion[J].Acta Pedologica Sinica,2008,45(6）:1026 -1033.]   \n[13］薛娴,张伟民,王涛.戈壁砾石防护效应的风洞实验与野外观 测结果：以敦煌莫高窟顶戈壁的风蚀防护为例[J].地理学报， 2000,55（3）:375-383.[XUE Xian,ZHANG Weimin,WANG Tao.Wind tunnel experiments on the effcts of gravel protection and problems offield surveys[J].Acta Geographica Sinica,2000, 55(3) :375 -383.]   \n[14］樊瑞静.不同外形粗糙元覆盖沙床面防风蚀效益的风洞模拟 实验［D].北京:中国科学院大学,2017.［FAN Ruijing.The wind tunel experiment of anti-erosion effience on the sand beds coveredbydiffrentshasofoughnesselementes.Bejing: University of Chinese Academy of Sciences,2017.]   \n[15］张克存,张伟民,屈建军,等.不同砾石盖度戈壁床面动力学特 征研究［J].干旱区研究,2012,29（6）：1077－1082.［ZHANG Kecun,ZHANG Weimin,QU Jianjun,et al. Study on dynamic ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "properties of gobi surface with different gravel coverage[J].Arid Zone Research,2012,29(6):1077-1082.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[16］梅凡民,江姗姗,王涛.粗糙床面风廓线的转折特征及其物理 意义［J].中国沙漠,2010,30（2）:217－227.[MEI Fanmin, JIANG Shanshan,WANG Tao.The inflected feature of wind profiles over several roughness beds and its implications[J]. Journal of Desert Research,2010,30(2）:217 -227.]   \n[17] ALFARO S C,GOMES L. Improving the large-scale modeling of the saltation flux of soil particles in presence of nonerodible elements[J].Journal of Geophysical Research Atmospheres,1995, 100(D8） :16357-16366.   \n[18］薛晶,侯占峰,刘海洋,等.草原灌木带空气动力学粗糙度研究 [J].干旱地区农业研究,2016,34（6):253-256.[XUE Jing, HOU Zhanfeng,LIU Haiyang,etal. Studyon the aerodynamic roughness of grassland shrub belt[J].Agricultural Research in the Arid Areas,2016,34(6) :253-256.]   \n[19］赵永来,麻硕士,陈智.植被覆盖地表的空气动力学粗糙度及 对土壤风蚀的影响［J].农机化研究,2007，（2）：36－39. [ ZHAO Yonglai,MA Shuoshi,CHEN Zhi. Aerodynamic roughness of vegetation coverage surface and its influence on soil erosion by the wind tunnel［J]. Journal of Agricultural Mechanization Research,2007,（2):36-39.]   \n[20］刘目兴,刘连友，盖永芹,等.农田休闲期垄作地形对近地表风 场的影响[J].土壤学报,2007,44（3）:397-403.［LIU Muxing,LIU Lianyou,GAI Yongqin,etal.Efects of microrelief of ridge-tillage on wind field near the surface of fields in fallow[J]. Acta Pedologica Sinica,2007,44(3）:397-403.]   \n[21]MUSICK HB,GILLETTE D A.Field evaluation of relationships between a vegetation structural parameter and sheltering against wind erosion[J].Land Degradation & Development,2010,2（2）： 87 -94.   \n[22] CHEPIL W S,WOODRUFF N P.The physics of wind erosion and its control[J].Advances in Agronomy,1963,15:211-302.   \n[23]LYLES L,SCHRANDT R L,SCHMEIDLER NF.How aerodynamic roughness elements control sand movement[J]. Transactions ,American Society Agricultural Engineers,1974,17(1）:134-139.   \n[24]LANCASTER N,BAAS A. Influence of vegetation cover on sand transport by wind：Field studies at Owens Lake,California[J]. Earth Surface Processes & Landforms,2015,23(1):69 -82.   \n[25］张伟民,谭立海,张克存,等.不同砾石覆盖度床面蚀积过程的 野外风洞实验研究[J].地理科学,2012,32（11）:1370－1376. [ZHANGWeimin,TANLihai,ZHANGKecun,etal.Fieldwind tunnel simulation of the process of aeolian erosion and deposition of gravel beds with diferent coverage[J].Scientia Geographica Sinica,2012,32(11) :1370 -1376.]   \n[26]李生宇,孙娜,马学喜,等.塔克拉玛干沙漠腹地垄间沙粒胶结 体的基本特性及研究价值[J].中国沙漠,2016,36（2）:265－ 273.[LI Shengyu,SUN Na,MA Xuexi,et al.The characteristics and significances of the sand cemented bodies discovered on interdune corridor in central Taklimakan Desert[J].Journal of Desert ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Research,2016,36(2）:265-273.」 [27］樊瑞静,李生宇,俞祥祥,等.塔克拉玛干沙漠腹地沙粒胶结体 的粒度特征[J].中国沙漠,2017,37（6)：1059-1065.［Fan Ruijing,LI Shengyu,Yu Xiangxiang,et al.Grain-size characteristics of sand cemented bodies in the center of Taklimakan Desert [J].Journal of Desert Research,2017,37(6）:1059-1065.] [28］孙娜,李生宇,马学喜,等.砾石级沙粒胶结体抗风蚀效益的实 验研究［J].中国沙漠,2016,36(3）：575-580.[SUNNa,LI Shengyu,MA Xuexi,et al. Wind tunnel experiment on the anti-erosion benefits of gravelsize cemented bodies from inter-dune corridors in the hinterland of the Taklimakan Desert［J].Journal of Desert Research,2016,36(3）:575-580.] [29］周杰，王海峰,李生宇，等.不同粒径沙粒胶结体覆盖对地表风 蚀和输沙率抑制效应的风洞模拟［J].干旱区研究,2016,33 (5）:961-965.[ZHOU Jie,WANG Haifeng,LI Shengyu,et al. Wind-tunnel simulation on the effects of sand cemented bodies with different sizes on surface wind erosion and windblown sand discharge[J].Arid Zone Research,2016,33(5）:961-965.] [30］周成龙.塔克拉玛干沙漠腹地地表风沙动力热力参数观测研 究[D］.乌鲁木齐：新疆大学,2013.［ZHOUChenglong.The study on the observation of dynamic and thermal parameters of surface sand in the hinterland of Taklimakan Desert[D]. Urumqi: Xinjiang University,2013.] [31］范冬冬，李生宇,雷加强,等.塔克拉玛干沙漠腹地高大复杂纵 向沙垄区沙丘分形特征[J].干旱区地理,2009,32(6)：941-   \n947.[FAN Dongdong,LI Shengyu,LEI Jiaqiang,et al.Fractal features of dunes over the high longitudiral complex ridges in the hinterland of the Taklimakan Desert[J].Arid Land Geography,2009,   \n32(6):941 -947.] [32］吴正.风沙地貌学[M].北京:科学出版社,1987.[WU Zheng. Aeolian geomorphology[M]. Beijing:Science Press,1987.] [33］朱震达,陈治平,吴正.塔克拉玛干沙漠风沙地貌研究[M].北 京：科学出 版社,1981.［ZHU Zhenda,CHEN Zhiping，WU Zheng.Study on aeolian sand landforms in Taklimakan Desert [M].Beijing：Science Press,1981.] [34］王宁波,谷峰,李生宇,等.塔克拉玛干沙漠腹地复合纵向沙垄 间地沙丘空间分形及稳定性[J].干旱区研究,2014,31（1）：   \n163-168.[WANG Ningbo,GU Feng,LI Shengyu,et al.Fractality and stability of sand dunes in lowland among composite longitudinal ridges in the central Taklimakan Desert[J].Arid Zone Research,2014,31（1):163-168.] [35］陈渭南,雷加强.塔克拉玛干沙漠新月形沙丘不同部位的粒度 特征[J].干旱区资源与环境,1992,6（2)：101-108.［CHEN Weinan,LEI Jiaqiang.Grain size features of sands in different localities of barchan dunes,Taklamakan Desert[J]. Journal of Arid Land Resources & Environment,1992,6(2）:101-108.] [36］李生宇,雷加强,徐新文,等.塔克拉玛干沙漠腹地阻沙栅栏对 垄间新月形沙丘形态的影响[J].干旱区地理,2008,31（6)：   \n910-917.[LI Shengyu,LEI Jiaqiang,XU Xinwen,et al.Effects of sand blocking fences on morphology of barchans on interdune corridor of complex ridges in the central Taklimakan Desert[J]. Arid Land Geography,2008,31(6）:910 -917.] [37］李恒鹏,陈广庭.塔克拉玛干沙漠腹地复合沙垄间地新月形沙 丘的逆向演变[J].中国沙漠,1999,19（2）;39-43.[LI Hengpeng,CHEN Guangting.Retrograde evolution of barchan on interdune corridor of complex ridges in central Taklimakan Desert[J]. Journal ofDesert research,1999,19(2）:39-43.] [38］陈渭南，董治宝,杨佐涛,等.塔克拉玛干沙漠的起沙风速[J]. 地理学报，1995,50（4）:360-367.［CHENWeinan,DONG Zhibao,YANG Zuotao,et al. Threshold velocities of sand-driving wind in the Taklimakan Desert[J].Acta Geographica Sinica,   \n1995,50(4) :360 -367.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Field experiment about inhibitory effects on wind erosion of sand cemented bodies with different coverage ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "REN Hong-jing1²，LI Sheng-yu’，LEIJia-qiang'，FANRui-jing12，CAI Dong-xu，ZHOU Jiel (1Xinjiang Institute of Ecology and Geography,Chinese Academy of Scienes,Urumqi 8300l1,Xinjiang,China; 2University of Chinese Academy of Sciences,Beijing 10oo49,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Taking the sand cemented bodies（SCB）in the hinterland of Taklimakan Desert,Xinjiang,China,as the research object,the amounts of wind erosion,accumulation and anti-erosion eficiency onthe surface of sand beds with diferent SCB coverage were calculated after the field experiment,and the relation between coverage and wind erosion or anti-erosion eficiencywas analyzed.The results of the field experiment and wind tunnel simulation were compared and analyzed at the same time.The results showed thatthe amountof erosion was decreased with the increasing degree of SCB coverage and was increased with the increasing deflation time.When the coverage was $0 \\% - 1 0 \\%$ ,the surface of sand beds were wind eroded with different deflation time.The sand blown by the wind accumulated on the sand surface when the coverage is greater than $30 \\%$ ,and the accumulation was increased with the increase of coverage and deflation time.The eficiencyof anti-wind erosion of SCB was increased linearly with the increase of the coverage.The critical coverage is about $30 \\%$ for the sand surface erosion which means the best effect of anti-winderosion of the sandbedis achieved.Thefield experimental results wereconsistent withthe wind-tunnel simulation that the SCBcan improve the ability of anti-wind erosion of sand beds,and SCB can also capture sand from wid-drift sand to generate aeolian accumulation at a given coverage.The wind erosion rate was increased with the increasing wind speed.The bigger the wind speed was,the biggerthe critical coverage when erosion was transformed to accumulation willbe.However,there were some diferences between the field experiment and wind tunnel simulation.Under theconditions of field experiment,thecritical coverage was greater than that inthe wind tunnel simulation,and for theerosion rate it was the opposite.Thiswas caused bythe diferent wind conditions,wind speeds and particle sizes of the SCBs as revealed bythe comparison between the field experiment and the wind tunnel simulation.It was concretely represented in three aspects:Firstly,the wind speed and direction were kept stable in the wind tunnel simulation,whilethe wind was changeable and complex inthe field；secondly,the wind speed in the wind tunnel simulation was higher than the wind velocitythreshold forsand emision in the field；andthirdly in the wind tunnel simulation,the same coverage experimental sample was used to place the SCBs of the same particle size range,whilethe SCBof different particle sizes were collectedand placed inthe field experiment toreflect its true distribution innature.Inconclusion,the SCB developed in the hinterlandof Taklimakan Desert hasagood inhibition of wind erosion and can be used as a new measure for quicksand fixation in the desert. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words：sand cemented bodies；fieldverification；wind erosion amount；anti-erosion efficiency；sand-fixing benefits ",
+        "page_idx": 7
+    }
+]

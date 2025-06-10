@@ -1,0 +1,134 @@
+临床研究
+
+# 上皮性卵巢癌中CD133与EMT相关因子表达的关系
+
+俞岚,周 蕾，武世伍,宋文庆,承泽农,郭冰沁  
+蚌埠医学院第一附属医院临床病理科//蚌埠医学院病理学教研室//安徽省感染与免疫重点实验室,安徽蚌埠  
+233030
+
+摘要：目的 探讨上皮性卵巢癌(Epithelial ovarian cancer,EOC)中CD133蛋白及上皮-间质转化(Epithelial mesenchymaltransition,EMT)相关因子Snail、E-cadherin蛋白表达的关系及其功能意义。方法采用免疫组织化学Elivision plus法检测150例EOC和50例良性上皮性卵巢肿瘤中CD133、Snail和E-cadherin蛋白的表达情况。结果良性上皮性卵巢肿瘤组织中CD133、Snail和E-cadherin蛋白的表达阳性率分别为 $1 0 \% . 8 . 0 \%$ 和 $70 \%$ ,在EOC组织中3者表达分别为 $5 8 . 7 \%$ ） $6 0 . 7 \%$ 和 $3 2 . 7 \%$ ，差异有统计学意义 $( P { < } 0 . 0 5 )$ 。CD133、Snail和E-cadherin的表达与EOC的腹腔脏器和淋巴结转移以及FIGO分期有关( $P <$ 0.01);E-cadherin蛋白的表达与Snail及CD133蛋白的表达均呈负相关关系 $( r$ 分别为-0.545和 $\cdot 0 . 5 7 0 , P$ 均 $< 0 . 0 1$ )，CD133蛋白的表达与Snail蛋白的表达呈正相关关系 $( r { = } 0 . 5 9 9 , P { < } 0 . 0 1 )$ 。Kaplan-Meier生存分析表明， $\mathrm { C D } 1 3 3$ 和 Snail的过表达均与患者的生存率有关，阳性表达的患者生存率明显低于阴性者 $( P { < } 0 . 0 5 )$ ;而随着E-cadherin蛋白表达水平的降低EOC患者生存率明显下降 $( P { < } 0 . 0 5 )$ 。多因素分析表明FIGO分期、CD133、Snail和E-cadherin的表达是影响EOC根治术后患者预后的独立因素( $P <$ 0.05）。结论CD133和Snail表达的升高以及E-cadherin表达的降低与EOC的侵袭、转移和预后等因素相关，这些指标的联合检测有可能作为评估EOC患者临床预后的重要指标。
+
+关键词：上皮性卵巢癌;CD133;Snail;E-cadherin;预后
+
+# Expressions of CD133, E-cadherin,and Snail in epithelial ovarian cancer and their clinico pathologic and prognostic implications
+
+YU Lan, ZHOU Lei,WUShiwu,SONG Wenqing,HENG Zenong, GuOingqin   
+DepartmentoftorstfatedHspitalofgbudicalleiKeyboatoryoctodmog   
+233030, China
+
+Abstract: Objective To explore expressions of CD133, E-cadherin and Snail in hu-man epithelial ovarian cancer (EOC)and elucidate their relationship with the clinicopathologic features and prognosisof the patients.Methods The expressionof CD133,E-cadherinand Snail were detected by immunohistochemical staining in150 specimensof EOCand 50 specimens of benign ovarian epithelial tumor tisses.Results The positivity rates of CD13,E-cadherin and Snail protein inEOC were $5 8 . 7 \%$ $6 0 . 7 \%$ and $3 2 . 7 \%$ , respectively, significantly different from the rates in benign epithelial tumor tissues ( $( 1 0 \%$ $8 . 0 \%$ and $7 0 \%$ ，respectively; $P { < } 0 . 0 5 \rangle$ .The expressions of CD133，E-cadherin and Snail in EOC were significantly correlated with abdominal organ and lymphnode metastases and FIGO stage $( P { < } 0 . 0 1 )$ . E-cadherin expression was inversely correlated with Snail and CD133 expression ( $_ { ( r = - 0 . 5 4 5 }$ and -0.570, $P { \ < } 0 . 0 1 { \ : } _ { . }$ )，and the latter two were positively correlated $( r { = } 0 . 5 9 9 , \ P { < } 0 . 0 1 )$ ： Overexpressions ofCD133 and Snail and a decreased expression ofE-cadherin were allrelated toa poor prognosis of the patients $( P { < } 0 . 0 5 )$ . FIGO stage and expressions of CD133, E-cadherin and Snail were allindependent prognostic factors of EOC $( P { < } 0 . 0 5 )$ . Conclusion Theexpressions of CD133,E-cadherinand Snailarerelated to lymph nodemetastasis,clinicalstage,and prognosis of EOC.Combined detection of these indexes provides important evidence for predicting the progression and prognosis of EOC.
+
+Key words: epithelial ovarian cancer; CD133; snail; E-cadherin; prognosis
+
+上皮性卵巢癌(Epithelial ovarian cancer,EOC)是女性生殖道常见的三大恶性肿瘤之一，其死亡率居妇科恶性肿瘤之首[],严重威胁女性的生命与健康。据美国癌症协会估计，2014年美国妇女新发卵巢癌约21980例,接近14270例患者因卵巢癌而死亡[2。临床上因卵巢癌起病隐匿，缺乏典型的早期症状，约有 $70 \%$ 的患者一经诊断已属晚期,并且约有 $70 \%$ 的患者两年内就会出现复发和转移[3],很难进行根治性手术。肿瘤组织中存在一小群具有自我更新、无限增殖、成瘤能力强，并且导致肿瘤侵袭、转移以及抗放化疗的细胞,称为肿瘤干细胞(CSCs)[4]。CD133是一种被最广泛认可的卵巢癌肿瘤干细胞的标志物[5-6。上皮-间质转化(EMT)以上皮细胞表型的缺失及间质特性的获得为主要特征，这种表型的转化使肿瘤细胞摆脱了细胞间的黏附，易于离散，更具侵袭能力。上皮性标记蛋白E-cadherin表达的缺失被认为是EMT发生的重要标志[8]。Snail作为转录抑制因子，能够与E-cadherin的上游启动子区结合，从而抑制其表达，进而触发EMT过程。目前，关于Snail/E-cadherin介导的EMT过程以及 $\mathrm { C D 1 } 3 3 +$ 的肿瘤干细胞与EOC临床病理特征及预后的相关性研究，国内外尚未见文献报道。本研究通过对150例EOC组织中CD133及EMT相关因子E-cadherin以及Snail表达水平进行检测，分析CD133、E-cadherin及Snail之间的关系，并探讨它们与EOC侵袭、转移以及患者预后之间的关系。
+
+# 1资料与方法
+
+# 1.1 病例资料
+
+收集蚌埠医学院第一附属医院临床病理科2005年1月\~2010年12月存档EOC石蜡包埋组织标本150例(患者术前未行放疗、化疗及其它抗肿瘤治疗)和卵巢良性上皮性肿瘤组织标本50例，所有病例均具备完整的临床、病理及随访资料，入选病例随访至患者死亡或截止至2014年2月，随访时间为6\~105月。患者年龄 $2 0 \sim$ 72岁，中位年龄53岁， ${ \geqslant } 5 3$ 岁76例， $^ { < 5 3 }$ 岁74例。根据国际妇产科联盟关于卵巢癌的FIGO手术-病理分期，早期(FIGO $\mathbb { I } + \mathbb { I }$ 期)卵巢癌67例,晚期(FIGOI $+ \mathrm { I V }$ 期)卵巢癌83例;浆液性癌114例，黏液性癌21例，宫内膜样癌9例,透明细胞癌6例。肿瘤平均长径(D) $4 . 8 8 ~ \mathrm { c m }$ $\mathrm { D } { \gtrsim } 5 . 0 \ \mathrm { c m } \ 5 8$ 例， $\mathrm { D } { < } 5 . 0 \ \mathrm { c m } \ 9 2$ 例。患者伴有腹腔脏器及淋巴结转移者56例，有腹水者56例。同时选择50例良性上皮性卵巢肿瘤患者手术切除标本作为良性对照组。本实验经蚌埠医学院伦理委员会批准后进行的。复阅上述患者的病理切片，选取存档的患者手术标本石蜡块进行切片。
+
+# 1.2 试剂
+
+鼠抗人CD133单克隆抗体和兔抗人多克隆Snail购自美国Abcam公司，鼠抗人E-cadherin单克隆抗体、ElivisionTMplus试剂盒以及DAB显色试剂盒都购自福州迈新生物技术开发有限公司。
+
+# 1.3实验方法
+
+所有组织标本均经 $4 \%$ 中性福尔马林液固定，石蜡包埋组织 $4 \mu \mathrm { m }$ 厚进行连续切片、烤干，然后浸入二甲苯溶液及梯度浓度乙醇溶液中脱蜡至水洗后，行免疫组织化学染色，具体步骤按试剂盒说明书进行，选用已知阳性切片作为阳性对照，并以PBS液代替一抗作空白对照。
+
+# 1.4结果判定
+
+CD133和E-cadherin均以细胞膜和细胞浆出现棕黄色颗粒为阳性，Snail以细胞核出现棕黄色颗粒为阳性。所有标记表达结果均采取二次计分法，即从着色强度和着色范围两个方面综合计分。着色强度：无色，0分；淡黄色，1分；棕黄色，2分；棕褐色，3分。着色范围：计数高倍镜下阳性细胞百分比， $< 1 0 \% , 1$ 分； $1 1 \% { \sim } 5 0 \%$ ，2分； $5 1 \% { \sim } 7 5 \% , 3$ 分； $> 7 5 \%$ ,4分。最后以着色强度得分和范围得分的乘积进行结果判断，积分 ${ \leqslant } 2$ 为阴性， $> 2$ 为阳性。每例标本随机计数10个高倍视野( $\times 4 0 0$ 倍)，选取中位值。最终由两位病理医师采用独立双盲法阅片判定免疫组织化学染色结果。
+
+# 1.5 统计分析
+
+采用SPSS20.0统计软件进行数据分析。CD133、E-cadherin及Snail蛋白表达的阳性组与阴性组生存分析用Kaplan-Meier法，组间比较用log-rank检验，多因素分析采用Cox回归多因素模型，上述指标在EOC组织中的表达与在卵巢良性上皮性肿瘤组织的表达、各临床病理因素之间的相关性及相关关系均采用x和Spearman等级相关检验， $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+2.1CD133在EOC组织中的表达及其与临床病理因素的关系
+
+CD133蛋白在EOC组织中的阳性表达率为 $5 8 . 7 \%$ (55/150)，在良性上皮性卵巢肿瘤组织中的阳性表达率为 $1 0 . 0 \% ( 5 / 5 0 )$ ，两组之间差异具有统计学意义( $P <$ 0.05)。EOC的临床分期越晚，CD133蛋白的阳性表达率越高，差异有统计学意义 $( P { < } 0 . 0 5 )$ ；并且伴有腹腔器官及淋巴结转移的患者，其CD133蛋白的阳性表达率要高于无转移者，组间差异亦具有统计学意义( $P <$ 0.05)。CD133蛋白的阳性表达率与EOC患者的年龄、肿瘤大小、组织学类型以及是否伴有腹水之间差异均无统计学意义( $\mathrm { \ P { > } 0 . 0 5 }$ ，图1A、B，表1)。
+
+# 2.2E-cadherin在EOC组织中的表达及其与临床病理因素的关系
+
+E-cadherin蛋白在良性上皮性卵巢肿瘤组织中阳性率为 $7 0 . 0 \% ( 3 5 / 5 0 )$ ，明显高于在EOC组织的阳性率$[ 3 2 . 7 \% ( 4 9 / 1 5 0 ) ] ( P < 0 . 0 5 )$ 。随着EOC临床分期的增高，E-cadherin蛋白的阳性表达率降低 $( P { < } 0 . 0 5 )$ ；伴有腹腔器官及淋巴结转移组中E-cadherin蛋白的阳性表达率亦低于于无转移组 $( P { < } 0 . 0 5 )$ 。E-cadherin蛋白的阳性表达率在不同患者年龄、肿瘤大小、不同组织学类型及有无腹水等因素之间差异均无统计学意义（ $\scriptstyle \cdot > 0 . 0 5$ 图1C,表1)。
+
+# 2.3Snail在EOC组织中的表达及其与临床病理因素的关系
+
+EOC组织中Snail蛋白的阳性表达率为 $6 0 . 7 \%$ (91/
+
+![](images/63ebe2824ce9ddfdaea64d77f7dc518324ca74d92388538455ab2181834251d2.jpg)  
+图1CD133、E-cadhherin和 Snail在EOC中的表达Fig.1E xpresionofCD133 (A),E-cadherin(B)and Snail(C) inEOC(ElivisionTM,original magnification: $\times 4 0 0$ ）
+
+表1150例EOC组织中Snail、E-cadherin及CD133的表达与临床病理因素的关系 Tab.1 Correlationof eSnail,E-cadherinand CD133 with clinicopathologic indexes in150 patients withEOC   
+
+<html><body><table><tr><td rowspan="2">Variable</td><td colspan="2">Snail</td><td colspan="2">E-cadherin</td><td colspan="2">CD133</td></tr><tr><td>Positive(%)</td><td>P</td><td>Positive</td><td>P</td><td>Positive</td><td>P</td></tr><tr><td>Age (year)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><53</td><td>46(62.2%)</td><td>0.740</td><td>21(28.4%)</td><td>0.299</td><td>44(59.5%)</td><td>0.870</td></tr><tr><td>≥53</td><td>45(59.2%)</td><td></td><td>28(36.8%)</td><td></td><td>44(57.9%)</td><td></td></tr><tr><td>Histological type</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Serous carcinoma</td><td>72(63.2%)</td><td>0.576</td><td>35(30.7%)</td><td>0.754</td><td>67(58.8%)</td><td>0.463</td></tr><tr><td>Mucinous carcinoma</td><td>10(47.6%)</td><td></td><td>9(42.9%)</td><td></td><td>10(47.6%)</td><td></td></tr><tr><td>Endometrioid carcinoma</td><td>5(55.6%)</td><td></td><td>3(33.3%)</td><td></td><td>7(77.8%)</td><td></td></tr><tr><td>Clear cell carcinoma</td><td>4(66.7%)</td><td></td><td>2(33.3%)</td><td></td><td>4(66.7%)</td><td></td></tr><tr><td>FIGO</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>I-II</td><td>22(32.8%)</td><td>0.000</td><td>43(64.2%)</td><td>0.000</td><td>13(19.4%)</td><td>0.000</td></tr><tr><td>Ⅲ-IV</td><td>69(80.1%)</td><td></td><td>6(7.2)</td><td></td><td>75(90.4%)</td><td></td></tr><tr><td>Diameter of tumor</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><6.0 cm</td><td>51(55.4%)</td><td>0.123</td><td>38(41.3%)</td><td>0.816</td><td>46(79.3%)</td><td>0.270</td></tr><tr><td>≥6.0 cm</td><td>40(69.0%)</td><td></td><td>22(37.9%)</td><td></td><td>22(23.9%)</td><td></td></tr><tr><td>Metastasis</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Yes</td><td>35(62.5%)</td><td>0.002</td><td>4(7.1%)</td><td>0.000</td><td>40(71.4%)</td><td>0.003</td></tr><tr><td>No</td><td>46(48.9%)</td><td></td><td>45(47.9%)</td><td></td><td>38(40.4%)</td><td></td></tr><tr><td>Ascite</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Yes</td><td>32(57.1%)</td><td>0.604</td><td>18(32.1%)</td><td>1.000</td><td>30(53.6%)</td><td>0.392</td></tr><tr><td>No</td><td>59(62.8%)</td><td></td><td>31(33.0%)</td><td></td><td>58(61.7%)</td><td></td></tr></table></body></html>
+
+150)，显著高于对照组的阳性表达率 $8 \%$ (4/50)( $\scriptstyle ( P <$ 0.05)。Snail蛋白的表达与患者年龄、肿瘤大小及组织学类型等之间差异均无统计学意义（ $( P { > } 0 . 0 5 )$ 。随着EOC患者临床分期级别的增加及腹腔器官及淋巴结转移的形成,Snail蛋白的阳性表达率显著升高( $\scriptstyle \phantom { + } P < 0 . 0 5$ ，表1)。2.4EOC组织中CD133、E-cadherin及Snail三者表达的相互关系
+
+Spearman相关分析显示，CD133蛋白的表达与Ecadherin蛋白的表达呈负相关关系 $( \mathrm { r s } { = } { - } 0 . 5 7 0 , P { < } 0 . 0 0 1 )$ ;CD133蛋白的表达与Snail蛋白的表达呈正相关关系$( \mathrm { r s } { = } 0 . 5 9 9 , P { < } 0 . 0 0 1 )$ ;E-cadherin蛋白的表达与Snail蛋白的表达呈负相关关系 $( \mathrm { r s } { = } { - } 0 . 5 4 5 , P { < } 0 . 0 0 1$ ，表2)。
+
+# 2.5Cox回归分析
+
+将EOC患者年龄(分为 ${ \geqslant } 5 3$ 岁组与 $^ { < 5 3 }$ 岁组）肿瘤直径(分为 ${ \geqslant } 5 . 0 \mathrm { c m }$ 组与 $< 5 . 0 \ \mathrm { c m }$ 组）PTNM分期（分为$\mathbb { I } + \mathbb { I }$ 期与 $\mathbb { I } { + } \mathbb { V }$ 期组）、腹腔器官及淋巴结转移(分为转移组与无转移组）、腹水(分为有腹水组与无腹水组）CD133蛋白表达(分为阳性与阴性组）E-cadherin蛋白表达(分为阳性与阴性组）、Snail蛋白表达(分为阳性与阴性组)等因素引入Cox模型进行分析，结果显示：CD133、E-cadherin、Snail及PTNM分期是影响EOC患者预后的独立因素(表3)。
+
+# 2.6 生存分析
+
+本组病例平均5年生存率为 $3 8 . 0 \%$ 。Kaplan-Meier生存分析显示CD133蛋白表达阳性组与阴性组5年生存率分别为 $4 . 5 \%$ 和 $8 5 . 5 \%$ ，差异有统计学意义( $P { < } 0 . 0 5$ 图2A);E-cadherin蛋白表达阳性组与阴性组5年生存率分别为 $8 7 . 8 \%$ 和 $1 3 . 9 \%$ ,差异有统计学意义（ $\scriptstyle \phantom { + } ( P < 0 . 0 5$ 图2B)；Snail蛋白表达阳性组与阴性组5年生存率分别为 $1 3 . 2 \%$ 和 $7 8 . 0 \%$ ，两组之间相比差异有统计学意义（ $\scriptstyle \phantom { + } P < 0 . 0 5$ ，图2C)。
+
+表2EOC中Snail、E-cadherin及CD133的表达之间的相互关系 Tab.2 Expression Snail, E-cadherin,and CD133 and their relationship in EOC   
+
+<html><body><table><tr><td rowspan="2">Variable</td><td colspan="2">E-cadherin</td><td rowspan="2"></td><td colspan="2">CD133</td><td rowspan="2">r</td></tr><tr><td>Negative</td><td>Positive</td><td>Negative</td><td>Positive</td></tr><tr><td>Snail</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Negative</td><td>21</td><td>38</td><td>-0.545</td><td>46</td><td>13</td><td>0.599</td></tr><tr><td>Positive</td><td>80</td><td>11</td><td></td><td>16</td><td>75</td><td></td></tr><tr><td>CD133</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Negative</td><td>22</td><td>40</td><td>-0.570</td><td></td><td>-</td><td></td></tr><tr><td>Positive</td><td>79</td><td>9</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+表3150例EOC患者多因素分析Tab.3 Multivariate survival analysis of patients with EOC  
+
+<html><body><table><tr><td>Covariate</td><td>B</td><td>SE</td><td>Wald</td><td>df</td><td>P</td><td>Exp (B)</td><td>95% CI</td></tr><tr><td>FIGO</td><td>1.003</td><td>0.259</td><td>15.032</td><td>1</td><td>0.000</td><td>2.725</td><td>1.642-4.524</td></tr><tr><td>Snail</td><td>0.503</td><td>0.226</td><td>4.953</td><td>1</td><td>0.026</td><td>1.062</td><td>1.062-2.577</td></tr><tr><td>E-cadherin</td><td>0.532</td><td>0.225</td><td>5.568</td><td>1</td><td>0.018</td><td>0.378</td><td>0.378-0.914</td></tr><tr><td>CD133</td><td>0.924</td><td>0.325</td><td>8.081</td><td>1</td><td>0.004</td><td>1.332</td><td>0.332-4.766</td></tr></table></body></html>
+
+![](images/d07a5a715f27bf90a188ef8800d7828da542ab6b19685c07f375456668659447.jpg)  
+图2CD133、E-cadherin和Snail表达阳性组 与阴性EOC患者生存曲线 Fig.2 Survival curves of EOC patients with positive and negative expressions of CD133 (A),E-cadherin (B),and Snail (C).
+
+![](images/a5dff3391624310861e016428476199ee3611b81f31efdcc1b93c7b4f6a1cec5.jpg)
+
+# 3讨论
+
+肿瘤组织由异质性的肿瘤细胞亚群组成，大部分瘤细胞的增殖能力是有限的，经历数次分裂后就会死亡，仅有一小群细胞具有无限增殖和分化的潜能，从而驱动肿瘤的形成、侵袭和转移，有学者将其称为肿瘤干细胞4。将肿瘤干细胞进行移植，能发展成为由新的肿瘤干细胞和非致瘤性肿瘤细胞组成的肿瘤组织。因此，单个肿瘤干细胞已经具备了转移肿瘤或移植后形成新肿瘤的能力。CSCs对化疗药物呈现耐药性,这也是恶性肿瘤复发和转移的主要原因[10]。CD133/prominin 是一种5次跨膜的细胞表面分子,由CD133/prom-1基因编码,分子量 $1 2 0 0 0 0 _ { \circ }$ 1997年，CD133[作为人造血干细胞/祖细胞的一种新标记物被首次报道，随后在血液系统肿瘤以及诸多实体瘤(如结肠癌、胰腺癌、前列腺癌、卵巢癌、肺癌)中,CD133的相关研究也日渐增多[5,12-15]。Flesken-Nikitin等[16]发现小鼠卵巢门区的卵巢表面上皮可以表达干/祖细胞标志物CD133,这些细胞显示出干细胞的特性，在肿瘤抑制基因p53和Rb1失活后，其恶性转化的能力增强，此结果提示卵巢门区表面上皮有可能是卵巢癌干细胞来源之一。Zhang等[17]对400例卵巢癌标本进行组织芯片的检测，结果显示，CD133可以作为卵巢癌干细胞的标记物，其表达水平提示患者具有较差的临床预后。本实验结果表明,CD133的表达水平与EOC患者临床分期及转移关系密切，CD133蛋白表达阳性率的越高，患者临床分期越晚，越容易出现腹腔器官和盆腔淋巴结的转移，此结果与上述相关文献报道一致。
+
+上皮-间质转化是指上皮细胞经历各种生物化学的改变后获得了间充质细胞的表型。通过这一过程，上皮细胞的形态由多边形变为梭形的纤维细胞样，细胞极性消失、黏附力下降、细胞骨架重塑，并且获得了间充质细胞迁移、侵袭以及抗凋亡的生物学特性，同时肿瘤细胞也获得干细胞的特性。EMT过程的发生受到多种生长因子及多条信号通路转导信号的共同调节，近年来，Snail/E-cadherin信号通路越来越受到医学研究者的关注。细胞黏附分子蛋白E-cadherin是一种钙依赖性细胞黏附分子，广泛分布于上皮组织内，锌指转录因子Snail则是通过与E-cadherin启动子区域含有CAGGTG核心碱基序列的E-box元件结合，抑制其表达，导致细胞间黏附降低，使瘤细胞易于脱落并转移至远隔部位[18]Xia等[19]利用PEGFPC1/Snail转染人卵巢癌细胞株A2780后，细胞内E-cadherin表达水平明显降低，而转染Snail/SiRNA人卵巢癌细胞株则使E-cadherin表达明显上调，此结果提示Snail因子的表达与卵巢癌细胞转移具有相关性。Lu[2研究提示，Snail可以作为卵巢癌预后判断及治疗的新靶点。本实验结果与文献报道具有一致性[21-22],即随着EOC组织中Snail蛋白表达水平的升高和E-cadherin蛋白表达水平的降低，患者临床分期越晚，越容易形成转移，临床预后越差。
+
+尽管本实验结果显示 $\mathrm { C D 1 } 3 3 +$ 的肿瘤干细胞和EMT过程相关分子分别在EOC的侵袭进展中发挥了重要的作用,那么它们之间有没有共同作用的可能呢？其作用机制又如何？目前关于这一结果国内外尚未见文献报道。本实验Spearman 相关分析显示,CD133蛋白的表达与Snail蛋白的表达呈现正相关关系，而E-cadherin蛋白的表达与Snail蛋白及CD133蛋白的表达均呈负相关关系，此结果提示CD133、Snail及E-cadherin三者之间可能存在某种关系。已有的研究证实，发生EMT的细胞可以促进CSCs亚群数量的增加,使肿瘤细胞获得干性，而CSCs本身又可呈现出间质样细胞的特点,同时表达EMT的相关蛋白分子。因此，EMT极有可能是自分化的肿瘤细胞对CSCs进行补充的一种机制23,通过这一过程,EMT还赋予了CSCs对放化疗的抵抗能力，使肿瘤更易于侵袭和转移。发生EMT的细胞获得十性，CSCs也可以促进肿瘤细胞EMT过程发生，其具体机制尚不完全明确,EMT形成与CSCs的干性获得可能拥有一些相同的分子基础，亦或是共享了某些信号通路。有研究表明,TGF-β信号通路可能参与了肿瘤的EMT过程及CSCs干性的产生与维持。一方面,TGF-β是诱发EMT产生的最强因素之一,可诱导上皮性肿瘤细胞发生EMT。其机制可能是通过TGF- $\boldsymbol { \cdot } \boldsymbol { \beta }$ 与肿瘤细胞膜上的受体TβRI和TβRII结合，激活Smad2和Smad3,再与Smad4形成三聚体共同进入细胞核内，上调靶基因Snail的表达,进一步导致肿瘤细胞E-cadherin表达降低及EMT产生，肿瘤侵袭性增强[24]；另一方面,TGF-β通路也参与了CSCs的自我修复以及分化之间平衡的调节。由TGF- $\cdot \beta$ 调节的 Snail/E-cadherin介导的EMT过程,能够将肿瘤细胞转变为具有侵袭性的间质样细胞,使其具有了干细胞特性，可以高表达诸如CD133等肿瘤干细胞相关标记，同时也发挥肿瘤干细胞自我更新、高度增殖及多向分化的能力，促进肿瘤复发和转移的发生25。体外实验研究表明26，上皮性卵巢癌中卵巢癌干细胞的富集与EMT产生密切相关。通过对卵巢癌干细胞与EMT之间相关信号通路的研究也发现,卵巢癌EMT的发生极有可能是由TGF-β通路介导产生。关于上述所涉及信号通路在卵巢癌EMT过程及肿瘤干细胞干性产生中的具体分子作用机制尚待后续的实验进一步加以证实。
+
+本实验中，Snail/E-cadherin介导的EMT过程促进$\mathrm { C D } 1 3 3 +$ 的卵巢癌干细胞产生，同时赋予其更强的侵袭转移能力，试想如能靶向Snail/E-cadherin信号通路，进而阻止EMT过程，杀灭肿瘤干细胞，则很有可能抑制了癌细胞的转移和治疗耐药现象。因此，研究EOC组织中Snail/E-cadherin及CD133表达之间的关系，也可以促进EOC更有效的抗癌策略的更新。同时本研究多因素分析显示，CD133、E-cadherin和Snail蛋白的表达水平以及PTNM分期均为影响EOC患者预后的独立因素，临床上可以通过对EOC患者进行这些指标的检测，评估其预后。
+
+综上所述，Snail通过对E-cadherin表达水平的调控促进EOC组织EMT过程的形成，EMT又促进EOC肿瘤干细胞干性特征的产生及其标记物CD133的表达，EMT过程及CSCs干性的形成最终共同促进EOC的侵袭和转移的发生。因此，对EOC患者早期进行CD133、E-cadherin和Snail表达水平的联合检测有可能作为评估其临床预后的一项重要指标。
+
+# 参考文献：
+
+[1]Siegel R,Naishadham D,Jemal A. Cancer statistics,2O12[J].CA CancerJClin,2012,62(1):10-29.   
+[2]Siegel R,Ma J, Zou Z,Jemal A.Cancer statistics,2014[J].CA Cancer JClin,2014,64(1):9-29.   
+[3]Vergote I, Tropé CG,Amant F,et al. Neoadjuvant chemotherapy or primary surgery in stage IIIc or IV ovarian cancer[J].N Engl J Med,2010,363(10): 943-53.   
+[4]Mani SA,Guo WJ,Liao MJ,et al.The epithelial-mesenchymal transition generates cells with properties of stem cells [J].Cell, 2008,133(4): 704-15.   
+[5]Baba T,Convery PA,Matsumura N,et al. Epigenetic regulation of CD133 and tumorigenicity of ${ \mathrm { C D } } 1 3 3 +$ ovarian cancer cells [J]. Oncogene,2009,28(2): 209-18.   
+[6]Ferrandina G,Bonanno G,Piereli L,et al. Expression of CD133-1 and CD133-2 in ovarian cancer[J].Inte JGynecol Cancer, 2008,18 (3): 506-14.   
+[7]Lee JM,Dedhar S,Kalluri R,et al.The epithelial-mesenchymal transition: new insights in signaling,development,and disease[J].J Cell Biol,2006,172(7): 973-81.   
+[8]Klymkowsky MW, Savagner P.Epithelial-mesenchymal transition: a cancer researcher's conceptual friend and foe[J].Am J Pathol, 2009,174(5): 1588-93.   
+[9]Kang Y. Massagu J. Epithelial-mesenchymal transitions:twist in development and metastasis[J].Cell, 2004,118(3): 277-9.   
+[10]Kim J，Villadsen R,Sprlie T,et al．Tumor initiating but differentiated luminal-like breast cancer cells are highly invasive in the absence of basal-like activity[J].Proc Natl Acad Sci U S A, 2012,109(16): 6124-9.   
+[11]Miraglia S,Godfrey W,Yin AH,et al.A novel five-transmembrane hematopoietic stem cell antigen:isolation,characterization,and molecular cloning[J]. Blood,1997,90(12): 5013-21.   
+[12]Lin EH,Hassn M,Li Y,et al. Elevated circulating endothelial progenitor marker CD133 messenger RNA levels predict colon cancer recurrence[J].Cancer,2007,110(3): 534-42.   
+[13]Hermann PC,Huber SL,Herrler T,et al. Distinct populations f cancer stem cells determine tumor growth and metastatic activity in human pancreatic cancer[J]. Cell Stem Cell, 2007,1(3): 313-23.   
+[14] Dubrovska A,Kim S,Salamone RJ,et al. The role of PTEN/Akt/ PI3K signaling in the maintenance and viability of prostate cancer stem-like cell populations[J]. Proc Natl Acad Sci USA,2009,106 (1): 268-73.   
+[15]Bertolini G,Roz L,Perego P,et al. Highly tumorigenic lung cancer $\mathrm { C D 1 } 3 3 +$ cells display stem-like features and are spared by cisplatin treatment[J].Proc Natl Acad Sci U SA,2009,106(38): 16281-6.   
+[16]Flesken-Nikitin A,Hwang CI,Cheng C,et al. Ovarian surface epithelium at the junction area contains a cancer-prone stem cell niche[J]. Nature,2013,495(7440): 241-5.   
+[17] Zhang J,Guo X, Chang DY, et al. CD133 expression associated with poor prognosis in ovarian cancer[J].Mod Pathol,2012,25(3): 456-64.   
+[18]Bao B,Azmi AS,Ali S,et al. The biological kinship of hypoxia with CSC and EMT and their relationship with deregulated expression of miRNAs and tumor aggressiveness [J].Biochim Biophys Acta, 2012,1826(2): 272-96.   
+[19]Xia X,Jiang XF,JiT,etal.Role of snail in the invasionand migration of ovarian carcinoma cells[J].JMed Mol Biol, 2013,10 (1): 21-5.   
+[20] Lu ZY,Dong R,Li D,et al. SNAIl overexpression induces stemness and promotes ovarian cancer cell invasion and metastasis [J]. Oncol Rep,2012,27(5): 1587-91.   
+[21] Takai M, Terai Y,Kawaguchi H,et al. The EMT (epithelialmesenchymal-transition)-related protein expression indicates the metastatic status and prognosis in patients with ovarian cancer[J]. J Ovarian Res,2014,7(2): 76.   
+[22]Yan HC,Sun YP.Evaluation of the mechanism of epithelialmesenchymal transition in human ovarian cancer stem cells transfected with a WW domain-containing oxidoreductase gene[J]. Oncol Lett,2014,8(1): 426-30.   
+[23] Kurrey NK,Jalgaonkar SP,Joglekar AV,etal.Snailandslug mediate radioresistance and chemoresistance by antagonizing p53-mediated apoptosis and acquiring a stem-like phenotype in ovarian cancer cels[J]. Stem Cells,2009,27(9): 2059-68.   
+[24] Xu J,Lamouille S,Derynck R.TGF-beta-induced epithelial to mesenchymal transition[J]. Cell Res,2009,19(2): 156-72.   
+[25] Zubeldia IG, Bleau AM,Redrado M,et al.Epithelial to mesenchymal transition and cancer stem cell phenotypes leading to liver metastasis are abrogated by the novel TGFβ1-targeting peptides P17 and P144[J]. Exp Cell Res,2013,319(3): 12-22.   
+[26]Luo X,Dong Z,Chen Y,et al.Enrichment of ovarian cancer stem-like cells is associated with epithelial to mesenchymal transition through an miRNA-activated AKT pathway [J].Cell Prolif,2013,46(4): 436-46.
+
+(编辑：经媛）

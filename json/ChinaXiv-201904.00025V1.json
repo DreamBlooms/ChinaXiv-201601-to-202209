@@ -1,0 +1,490 @@
+[
+    {
+        "type": "text",
+        "text": "基于深度学习的OFDM系统窄带干扰消除方法研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "马涛la，李悦²，杨峰b，丁良辉la",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.上海交通大学a.图像通信与网络工程研究所；b.无线通信技术研究所，上海 200240;2.海军研究院，北京100161)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对正交频分复用（orthogonal frequency division multiplexing，OFDM）系统中的窄带干扰（narrowbandinterference，NBI）引起的性能下降，提出了两种基于深度学习(deep learming，DL)的窄带干扰消除结构。在两种结构中，首先分别对接收信号进行预处理，然后利用卷积神经网络（convolutional neural network，CNN）从时域上对经过预处理的数据进行特征提取并获得干扰估计。最后将干扰估计量从接收信号中消去。仿真结果显示，两种结构可以有效学习出OFDM系统中的窄带干扰，并提升系统性能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：正交频分复用；窄带干扰消除；深度学习；卷积神经网络 中图分类号：TN973.3 doi:10.19734/j.issn.1001-3695.2018.11.0834 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Deep learning based nbi mitigation method in ofdm systems ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ma Taola,Li Yue², Yang Fenglb, Ding Lianghuila (1.a.Instituteof Image Communication&Network Engineering,b.Instituteof Wireless CommunicationTechnologies, Shanghai Jiao Tong University,Shanghai 200240,China;2.Naval Research Institute,Beijing 100161,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Considering theperformancedeteriorationof orthogonal frequencydivision multiplexing communication (OFDM) system due to narrowband interference (NBI),this paper employed dep learming intoNBI mitigationof OFDM systems and proposed two structures with convolutional neural network (CNN).These two structures firstly pre-processed thereceiveddatainreceiver,thenadopted CNNtoexploit theinterferenceestimation intimedomain.Finallytheimpactof NBI was removed fromreceived signal.The simulationresults demonstratethatthe two systems can lear theinterference effectively and improve system performance. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: OFDM; narrowband interference mitigation; deep learning; CNN. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作为一种多载波传输技术，正交频分复用（OFDM）技术利用载波之间的正交性来传输数据。OFDM系统具有频谱利用率高，有效对抗多径延时和衰落等优点，已经被应用于多种通信技术协议和标准中，如无线局域网（WLAN）、数字媒体广播系[I]。窄带干扰（NBI）是OFDM系统常见的一种干扰，它占据系统的部分带宽，能量较高。由于窄带干扰破坏了OFDM系统子载波间的正交性，因而会导致系统通信性能下降。传统的窄带干扰消除手段主要包括：在时域上设计陷波滤波器；频域阈值滤波，滤除疑似受干扰的子载波上的数据；逐子载波估计干扰等方法[1-3]。在 2010 年前后，压缩感知（compressed sensing,CS）技术被引入NBI估计，通过设计置零保护间隔、预编码矩阵等手段，构造模型重新估计干扰[4。但使用压缩感知重构干扰计算复杂度高，并且不适用于带有循环前缀(cyclicprefix，CP)的OFDM系统。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，深度学习已经被广泛应用于许多领域并取得了巨大成就。作为一种机器学习方法，深度学习通过卷积神经网络(CNN)等神经网络从低维输入数据中提取有用特征并找出数据内部的相关性[5]。深度学习被引入无线通信研究中，并被证明是一项极有价值和希望的研究。传统通信系统面临诸如复杂信道建模困难，存在大数据处理需求以传统块结构系统存在限制等挑战，引入深度学习将有助于解决这些问题[6]。深度学习和无线通信结合会有以下的优势：首先深度网络可以作为一种通用函数近似器对复杂信道建模；其次，深度学习具有的分布式并行处理架构能够满足通信系统的大数据处理需求；第三，基于深度学习的通信系统能够打破人工的模块结构并实现系统整体性能最优。深度学习主要以两种方式应用于无线通信领域。第一种是将通信系统看做一个端到端的自编码器，用多组神经网络来模拟信号发送和接收；文献[7]利用生成对抗网络(generativeadversarial networks,GAN)实现了在未知信道先验知识下的通信系统，作者利用GAN在无监督模式下学习信道模型。另一种是在系统的某个模块中用深度学习改进系统性能。文献[8]介绍了一种迭代的解码CNN噪声估计结构。文献[9]利用多种神经网络结构识别信号的调制模式。可以看到，在通信系统中引入深度学习潜力巨大，是一项很有价值的研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文基于卷积神经网络提出了两种OFDM通信系统，通过不同的方式对接收信号做预处理并通过卷积神经网络学习重构出窄带干扰估计量。最后将干扰估计量从接收信号中抹除，并递入接收机中估计出最终结果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 系统模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假定在OFDM系统收发两端为理想同步，OFDM符号子载波数为 $N$ ，经过高斯白噪声（additive white Gaussian noise,AWGN）信道后的接收信号 $y$ 可以表述为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny = x + n\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $x$ 为时域发送信号， $n$ 为时域噪声。当系统遇到窄带干扰 $d$ 时，式(1)变为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { y = x + n + d } } \\\\ { { = x + n + \\Lambda _ { f } F ^ { * } D } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $F ^ { * }$ 为反离散傅里叶变换（discrete Fourier transform,DFT）矩阵， $D$ 为频域上的窄带干扰向量，$\\Lambda _ { f } = \\left[ 1 , e ^ { \\frac { i \\cdot 2 \\pi \\cdot \\beta } { N } } , . . . , e ^ { \\frac { i \\cdot 2 \\pi \\cdot \\beta \\cdot ( N - 1 ) } { N } } \\right]$ 为偏移向量，β∈[』] 指干扰和发送信号子载波的偏移比例。可以看到， $D$ 是一个稀疏向量，非零元素即为在相应位置上的干扰分量。假定受干扰的子载波连续，并用 $B , f _ { c }$ 代表受干扰的子载波数以及干扰中心频率，则 $D$ 的第 $j$ 个元素 $D _ { j }$ 为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { j } = \\left\\{ \\begin{array} { c } { \\displaystyle { \\sqrt { E _ { I } } \\cdot e ^ { 2 \\pi j \\omega } , \\big | j - f _ { c } \\big | < \\frac { B } { 2 } } } \\\\ { 0 , o t h e r w i s e } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\omega$ 是随机生成的相位，干扰能量 $E _ { I }$ 可以从信干比（signal-to-interference ratio,SIR）中计算得到。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 卷积神经网络",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "作为一种深度学习方式，CNN用局部卷积操作从输入数据中提取样本的线性特征。典型的CNN包括卷积层，激活层，池化层以及全连接层。随着卷积核在输入向量或矩阵上移动卷积，卷积层将输入数据中的线性特征提取出来并映射到新的特征图中。卷积层后为激活层，激活函数给从卷积层出来的特征图引入了非线性特征，常见的激活函数有tanh函数，线性修正单元（rectifiedlinearunit，ReLU）等。在池化层，从前一级得到的特征图会被分组计算并输出平均值或者最大值，经过池化，减小了前级特征图的尺寸，同时也保留了数据的主要特征。最后，全连接层将会把所有的前级特征图汇聚到一起并输出相应的判决。CNN在训练时将会用到被标签过的训练数据，网络训练旨在降低损失函数并获得最优网络参数设定。总之，CNN能够充分提取输入数据的局部特征并能训练成为一个稳定的模型。本文中，考虑到OFDM符号和干扰具有的频域特征，本文尝试用CNN估计和重构窄带干扰信号，在OFDM系统中实现窄带干扰消除。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 基于CNN的干扰消除架构 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在本文中，两种基于深度学习的OFDM通信系统将被用于消除窄带干扰：残余迭代和阈值滤除结构，如图1和2所示。在这两种结构中，CNN相当于干扰估计器，它将从时域上估计干扰信息。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1两种系统架构",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在残余迭代结构中，式(2)中的接收信号 $y$ 首先会被传递到接收机中进行解调、解码。接收机的对应输出 $\\hat { s } _ { 0 }$ ，将重新经过发送机进行做编码调制，记对应的输出结果为 $\\hat { x } _ { 0 }$ 。将 $y$ 和$\\hat { x } _ { 0 }$ 的差值，记为 $\\hat { d }$ 作为卷积神经网络的输入信息，即",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { d } = y - \\hat { x } _ { 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/df22bcd703952315365233fe72b4a44ad63414a91d8f9129c6d251cb9c60cb80.jpg",
+        "img_caption": [
+            "Fig.1The structure of CNN-residual-iteration "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "考虑到 $\\hat { s } _ { 0 }$ 中解码解调会存在错误， $\\hat { d }$ 中不仅包括真实的干扰信息 $\\boldsymbol { d }$ ，还包括由于误码重传导致的错误信息。所以可以将 $\\hat { d }$ 重写为式(5)所示的形式，其中 $\\xi$ 为噪声和NBI向量中的错误部分。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { d } = d + \\xi\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上文提到，在该结构中神经网络相当于干扰估计器，它从网络输入 $\\hat { d }$ 中提取干扰的时域特征并输出相应的干扰估计量，记为 $\\tilde { d }$ 。本文将会在后文单独讨论关于神经网络的架构设计。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随后，干扰估计分量 $\\tilde { d }$ 将会从接收信号 $y$ 中抹除以达到干扰消除的效果：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\tilde { y } = y - \\tilde { d } = x + n + d - \\tilde { d } } } \\\\ { { = x + n + r } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式(6)中 $\\tilde { y }$ 作为去除干扰后的接收信号，将会再次进入接收机中进行解调解码，最终的输出结果为 $\\hat { s } _ { 1 }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从残差迭代的系统结构可以看出，该结构中CNN作为干扰估计器，其输入 $\\hat { d }$ 来源于接收信号和重传结果的差值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CNN-阈值滤波系统的结构如图2所示。和残差迭代结构不同，在阈值滤波系统中，接收信号 $y$ 需要先进行频域滤波。设 $y$ 的频域信号为 $Y$ ，滤波器的阈值为 $T _ { \\scriptscriptstyle F }$ ，相应的经过频域滤波器后的输出为 $\\hat { D }$ ，其计算如式(7)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2ac179f0e691e8b029902b91b9cb9ddda1447f721c672c8ce7a0d294a0da66a0.jpg",
+        "img_caption": [
+            "图1CNN-残余迭代结构",
+            "图2CNN-阈值滤波结构",
+            "Fig.2The structure of CNN-threshold filtering "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { D _ { i } } = \\left\\{ \\begin{array} { l } { Y _ { i } , | Y _ { i } | > T _ { F } } \\\\ { 0 , o t h e r w i s e } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $Y _ { i }$ 表示 $Y$ 在第 $i$ 个子载波上的数据。滤波时，需要首先计算出 $Y$ 中所有的子载波能量；与此同时，取阈值 $T _ { \\scriptscriptstyle F }$ 为 $Y$ 上各子载波的平均能量。设 $\\Lambda = \\{ i | Y _ { i } > T _ { F } \\}$ 为 $Y$ 中超过阈值 $T _ { \\scriptscriptstyle F }$ 的子载波的下标集合，则 $\\hat { D }$ 可以被看做 $\\Lambda$ 中的数据集合。最后，将 $\\hat { D }$ 转到时域上，即 $\\hat { d }$ 。分析 $\\hat { d }$ 的成分，可以发现 $\\hat { d }$ 中有实际的干扰， $\\Lambda$ 中的子载波上的信号和噪声。基于此，可以将 $\\hat { d }$ 拆分为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { d } = d + \\lambda - d _ { r }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\lambda , d _ { r }$ 分别表示 $\\Lambda$ 中受干扰的子载波上的信号和噪声，以及不在 $\\Lambda$ 中的干扰量。所以 $d - d _ { r }$ 代表实际落在A中子载波上的干扰。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将CNN连接在阈值滤波器后，尝试从 $\\hat { d }$ 中提取干扰的特征并获得相应的估计量 $\\tilde { d }$ 。和残余迭代系统类似，本文将 $\\tilde { d }$ 从 $y$ 中消去即式(6)中所示。 $\\tilde { y }$ 将会进入接收机做均衡、解调及解码操作，最后的估计结果为s。从以上两种系统的描述中可以看到，本文分别从时域和频域上生成CNN的输入数据 $\\hat { d }$ ：时域迭代求差以及频域滤波操作。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2基于CNN 的干扰估计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在介绍CNN网络结构前，需要说明从时域上学习干扰的必要性。从频域直接估计干扰的特征，输入数据内部存在较多冗余，无法有效学习出干扰的频域信息。因为只有受到干扰及其附近的子载波才是有用信息，用于学习和估计干扰。时域接收信号 $y$ 包括做完IFFT后的干扰分量。注意到干扰分量在频域上具有稀疏性，IFFT矩阵相当于压缩感知理论中的测量矩阵。所以在本问题中，从时域估计干扰信息和解压缩感知问题类似。然而接收信号中的数据分量给估计干扰带来了难度，直接应用压缩感知技术求解频域干扰需要用到导频等在接收端已知的先验知识，会减少系统的频谱效率。本文提出用CNN作为盲估计器，在不需要导频信息的前提下，找出干扰向量和接收信号之间的关系。鉴于CNN能够从网络输入中提取出其内在的关系，本文选择CNN 作为干扰估计器。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ad2a5677dc92b75ba1d3f052b48652749cd1f38ba4a71e58537c7825dcbd3177.jpg",
+        "table_caption": [
+            "表1网络结构Table 1Network specification setting"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>网络结构</td><td>参数</td></tr><tr><td>输入数据维度</td><td>[2N,1]</td></tr><tr><td>输出数据维度</td><td>[2N,1]</td></tr><tr><td>结构组成</td><td>{;f,...fi;n...n}</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1所示为网络结构的基本设置，可以看到网络的输入输出大小保持不变，都为[2N,1]， $N$ 为OFDM符号子载波数。由于输入输出数据的维度没有减小，所以本文中，CNN网络将只包括卷积层和激活函数层。 $\\{ l ; f _ { 1 } , . . . f _ { l } ; n _ { 1 } . . . n _ { l } \\}$ 代表了系统的网络结构，其中 $\\mathbf { \\xi } _ { l }$ 为卷积层的层数，每层卷积层后都连接了激活层。 $f _ { i } , n _ { i }$ 分别表示第i层卷积层中的卷积核尺寸为 $\\left[ f _ { i } , 1 \\right]$ ，个数为 $n _ { i }$ 。本文提出的网络结构模型和文献[8]中提出的结构模型类似，关于网络模型的设计，有以下几点需要关注：首先该网络并未引入池化层和全连接层。在之前的描述中已经提到，在前向反馈过程中，数据的维度一直保持为2N（将数据的虚部和实部分离)，未发生改变。在进行卷积时，会用加零（zeropadding）的方式来保证卷积操作不会带来数据尺寸的减少。其次，在经过IFFT变换后，时域信号会存在负数。所以在本网络中，将采用如式(10)所示tanh函数作为激活层函数，因为Relu等激活函数不能有效映射出负数特征。最后，提出的网络中没有引入池化层和全连接层。因为在前向反馈过程中，输入数据尺寸未发生变化，所以没有必要采用主要作用为减少数据维度的池化层。出于类似的原因，本文也放弃使用全连接层。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname { t a n h } ( x ) = { \\frac { e ^ { x } - e ^ { - x } } { e ^ { x } + e ^ { - x } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3 网络训练过程",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "神经网络通过训练成为稳定收敛的模型，然后被应用于实际测试。本节将讨论上文提出的网络模型的训练和优化问题。本文将根据式(2)和(3)生成OFDM符号和相应的窄带干扰。在生成窄带干扰时， $B , f _ { c } , \\beta$ 分别为窄带干扰的带宽，中心频率，以及偏移系数，噪声和干扰的能量可以通过信噪比（signal-to-noise ratio,SNR）及信干比（SIR）来计算。假定$B$ 在生成训练数据时是固定的，即受干扰子载波数量保持不变；中心子载波 $f _ { c }$ 从特定的几个位置中选取； $\\beta$ 服从平均分布： $\\beta \\sim \\left( - \\frac { 1 } { 2 } , \\frac { 1 } { 2 } \\right)$ 。SNR 和 SIR 代表了信号传输条件，并将决定系统的通信性能，在本文中， $\\Gamma _ { I }$ 和 $\\Gamma _ { \\scriptscriptstyle N }$ 分别表示生成训练集时的 SIR与 SNR取值集合。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文将采用传统的最小批次下降法（mini-batchgradientdescent）训练网络。考虑到网络模型为回归网络，将损失函数 $L o s s$ 设定为 $\\mathrm { L } _ { 2 }$ 损失函数，其定义为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL o s s = \\frac { \\left\\| d - \\tilde { d } \\right\\| ^ { 2 } } { N } = \\frac { \\left\\| r \\right\\| ^ { 2 } } { N }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在训练进程中，本文采用Adam优化器用于降低训练损耗并且更新优化网络参数设定。从训练集中选取一部分数据作为验证集，网络参数在训练集上更新，同时在训练集上验证网络训练效果。若验证集上的Loss持续多次迭代不再降低，则训练提前终止。此外，在训练时会适当降低学习速率来减缓网络的参数更新速度，使网络模型收敛，即",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha = \\alpha _ { 0 } \\cdot R _ { d } { } ^ { R _ { T } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $R _ { d } \\in ( 0 , 1 )$ 是收敛速度， $R _ { T }$ 代表网络训练进程。是当前训练次数step_c和总训练次数step_t的比值即Rr=tep_C",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于训练数据数量较多，网络训练开销和复杂度将异常巨大，此外经过训练的网络，其性能表现也和训练数据相关。尽管如此，本文提出的系统在实际条件下仍具有相当高的应用价值。本文会在线下训练网络，同时训练数据也将由线下生成并存储。为使线下训练得到的网络模型更加稳定，适应于更多场景，将在生成训练数据时尽可能多地包含多种情形。在实际应用时，可以直接使用已经训练好的网络模型。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4 仿真结果 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "整个仿真中，除非特别声明，本文都将按照表2中的参数设置进行仿真。在发送端，使用二进制相移键控(binaryphaseshiftkeying，BPSK)，‘1/3'码率的Turbo 编码作为符号调制和信道编码方式；在每个(SIR,SNR)场景下，连续生成500 个物理帧（选择其中100 帧作为验证集)，每帧包括10个长度为194的turbo 编码块，也即每帧共101个OFDM符号。为了评价系统模型性能优劣，本文选择文献[3]中提出的“频域阈值滤除法”作为基准方法进行比较。首先计算出OFDM符号各子载波能量以及相应的能量阈值 $T r$ ；然后抹除能量超过 $T r$ 的子载波上的数据。在仿真中由于会对比多种网络结构的效能，所以本文用‘CNNk_i’表示第 $i$ 个有 $k$ 层卷积层的网络，比如‘CNN5_0'。除了神经网络训练和测试进程是在TensorFlow上完成，系统结构中的其他部分都是在Matlab上搭建并进行仿真。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.1网络结构选择",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "前文已经提到，CNN作为干扰估计器，将从时域提取干扰的特征并输出相应的估计向量。因此，网络结构的效果对系统具有较大的影响。本文在训练中使用了表3中所示的几种网络结构，并比较了损失函数和相应的系统误码率。最终本文确定CNN5_5网络在两种系统结构上的训练效果最稳定，在测试集上也有较好的性能。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在对比各种模型时发现，当网络层数 $l > 5$ 时，网络的学习效果提升并不大。对此进行分析，认为这主要是因为输入数据中低维特征较多，高维特征较少，因而增加网络深度并不能帮助提升网络的学习效果。增加卷积核尺寸，其学习效果反而会恶化，这可能是因为卷积核是对输入信号的局部信息做处理，结合输入数据的维度考虑，较大的卷积核不能有效提取数据的局部特征；扩大网络宽度，网络的学习效果会更好。这说明输入数据仍具有较多的低维特征，供CNN 提取和学习。本文曾尝试将图2中的频域滤波器去掉，直接从时域接收信号中估计干扰，发现CNN仍能从中有效学习出干扰的特征，但相比于加上滤波预处理，该方法带来的系统性能提升有限。经过分析后本文认为，不进行滤波的时域接收信号中，存在较多未被干扰的有用信号。这些信号对CNN估计干扰有一定影响，不能很好地估计干扰。而阈值设置过高，也会导致一些受干扰的信息被滤除，使得网络输入信息不全，同样影响CNN的学习效果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/872266207e91d5b29774d3ba90ba79dfb7c5572ce74826c3d750fbbe2e1865e5.jpg",
+        "table_caption": [
+            "Table 2Simulation parameters setting ",
+            "表3用于训练的网络结构"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数名称</td><td>取值</td></tr><tr><td>子载波数目N</td><td>64</td></tr><tr><td>Turbo 编码块长度和个数</td><td>(194，10)</td></tr><tr><td>每帧符号个数</td><td>101</td></tr><tr><td>每种场景下的重复次数</td><td>300</td></tr><tr><td>f集合</td><td>[4,20,36,54]</td></tr><tr><td>SIR集合Γ/dB</td><td>[-6:1:-3]</td></tr><tr><td>SNR集合ΓN/dB</td><td>[3]</td></tr><tr><td>干扰带宽B</td><td>[0.05]</td></tr><tr><td>初始学习速率αo</td><td>0.0001</td></tr><tr><td>批(batch)大小</td><td>101*8</td></tr><tr><td>优化器</td><td>Adam optimization</td></tr><tr><td>初始器</td><td>Xavier optimization</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8a8431a0d9ddcf4ccfe483890843c1505ff10f31e7d8543aa2446f75db5e6378.jpg",
+        "table_caption": [
+            "表2仿真参数设置",
+            "Table 3Network structure for training "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>网络标志</td><td>结构</td></tr><tr><td>CNN4_1</td><td>{4;15,5,5,17;128,128,64,1}</td></tr><tr><td>CNN5_1</td><td>{5；15,5,5,5,17;128,128,64,32,1}</td></tr><tr><td>CNN6_1</td><td>{5;15,5,5,5,5,17;128,128,64,32,16,1}</td></tr><tr><td>CNN5_2</td><td>{5;35,5,5,5,37;128,128,64,32,1}</td></tr><tr><td>CNN5_3</td><td>{5;55,5,5,5,57；128,128,64,32,1}</td></tr><tr><td>CNN5_4</td><td>{5；15,5,5,5,17;64,64,32,16,1}</td></tr><tr><td>CNN5_5</td><td>{5;15,5,5,5,17;256,256,128,64,1}</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2 网络性能验证",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在前面的仿真过程中，训练集和测试集都是在相同的条件下生成的（SNR，SIR， $B$ ， $f _ { c }$ ， $\\beta$ )。然而，在实际场景下，以上五种条件可能是未知甚至和训练场景中不同的。所以，本文提出的系统需要具备一定的鲁棒性，即在与训练场景不同的条件下仍能有效学习出干扰并改进系统性能。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文将训练好的网络应用在不同的场景下测试其鲁棒性。首先测试网络在不同SIR下的系统表现，选定SIR集为：$\\Gamma _ { \\scriptscriptstyle I } = \\left[ - 7 : - 2 \\right]$ SNR集 $\\Gamma _ { R } = [ 3 ]$ ，CNN 网络模型为CNN5_4，得到的系统性能曲线如图3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图3所示，本文提出的两种系统架构均可以降低受干扰OFDM系统的误码率，提升其性能。而和阈值滤波干扰消除技术相比，基于深度学习的频域滤波结构能够更有效地估计出干扰的特征，改进系统性能。而残余迭代结构只能给通信系统的性能带来的改进很有限。但是相比参与迭代结构，阈值滤波结构能够更准确地学习出干扰信息，并带来更多的性能增益。经过分析认为，由于存在较多的误码信息，残余迭代结构中的网络输入 $\\hat { d }$ 含有较多的冗余信息，影响了网络训练的质量。而在阈值滤波结构中，经过阈值滤波后转到时域的 $\\hat { d }$ 中干扰的特征将占更大的比重，在网络训练中的效果会更好。所以在接下来的仿真中，本文将主要关注CNN-阈值滤波结构。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b26471c73b23f81d5731cc3d9ed8f47f921fae1b1bd3aca85f4bef255579c272.jpg",
+        "img_caption": [
+            "图3两种结构在不同SIR下的性能曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了全面验证该网络性能，本文还仿真了系统在不同SNR下的性能，结果曲线如图4所示。其中 $\\Gamma _ { R } = [ 1 , 2 , 3 , 4 , 5 ]$ 。从该曲线中可以看到，CNN-阈值滤波结构在不同的SNR下具有很好的干扰消除效果，并且从图中“未加干扰消除手段”曲线可以看出，在本文提出的系统模型中，窄带干扰是影响系统通信性能的最主要因素。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/319f0f67b40ec2eda3d10c9473ad1f7568cae6cf9c88648601a08880a2fbac9b.jpg",
+        "img_caption": [
+            "Fig.3Performance curve of two structures among various sirs "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e13aec9b27bf12864efb5efafc352b6ad1ca64e1dde9a9314a9b7c8320b0f72c.jpg",
+        "img_caption": [
+            "图4CNN-阈值滤波结构在不同SNR下的性能曲线Fig.4Performance of CNN-threshold filtering structurewith various snrs",
+            "图5CNN-阈值滤波结构在不同干扰数目下的性能曲线Fig.5Performance of CNN-threshold filtering structure with variousjammed subcarrier numbers"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在生成训练集时，受干扰的子载波数目 $B { = } 7$ ，接下来本文将测试该系统在受干扰带宽不同时的性能。图5为系统SIR为-4时的仿真结果，可以看到随着受干扰的子载波数目增多，系统的误码率也逐渐上升，而本文提出的CNN-阈值滤波结构仍能有效学出干扰特征，并降低系统的误码率。和阈值滤波消除技术作对比，可以看到受干扰的子载波越多，本文提出的基于CNN的阈值滤波结构性能提升更加明显。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "此外，在生成训练集时，假定干扰的中心频点位置只有有限几个选择，而在实际情况中，连续干扰的中心频点不一定会落在相同的位置。故而，需要测试系统在这种情况下的稳定性。正如表2中显示，本文隔16个子载波设定一个中心频率选项。在本次仿真中，本文假设中心频率相对训练集中的场景分别偏移了4-8个子载波，其他条件不变，仿真结果如图6所示。可以看到，系统未加任何干扰消除手段和频域滤波方法的效果，基本不会随着子载波的偏移出现变化，而本文提出的结构，其性能会随着中心频率的偏移增大而恶化。虽然随着 $f _ { c }$ 偏移量的增大，干扰覆盖的子载波和训练网络时覆盖的子载波重合度会越来越小（偏移量为7、8时，受干扰的子载波将不会重合)，但系统在相应场景下仍能较为准确地估计并消除干扰。并且当偏移量不大于5个子载波时，本文提出的模型架构性能仍将好于频域滤波手段。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a04f2c6b5900ee5e4136d79c3dc13d5d0cce0e05cd5ca14f4c0d002de721ba95.jpg",
+        "img_caption": [
+            "图6CNN-阈值滤除结构在中心频率存在偏移时的性能曲线 Fig.6Performance of CNN-threshold filtering structure with various subcarrier offsets of center frequency "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文以OFDM系统和深度学习技术为背景，研究了OFDM系统窄带干扰消除问题。本文首先分析和评价了传统的窄带干扰消除方法及其存在的优缺点。本文还介绍了深度学习在物理层通信系统中的应用。本文提出了两种基于深度学习的OFDM窄带干扰消除机制，利用卷积神经网络从时域学习干扰信息并消除。结合模型中干扰的实际特点，本文设计了一种CNN回归学习网络用于学习和估计干扰。学习到的干扰将会在时域上从接收信号中抹除，去除干扰后的信号将通过接收机得到最终结果。在仿真中，本文对影响神经网络和系统性能的几种因素进行了仿真对比，实验结果表明，本文提出的两种系统都能有效地学习出干扰特征并做准确的估计，其中CNN-阈值滤波结构比CNN-残余迭代结构的干扰估计效果更好。这是深度学习第一次被引入OFDM窄带干扰消除问题研究中，基于深度学习的干扰消除结构既能准确估计并消除窄带干扰，还因为其线下训练、线上测试的独特机制，并未增加系统的复杂度，可以应用于多种场景。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Coulson A J.Bit error rate performance of OFDM in narrowband interference with excision filtering [J].IEEE Trans on Wireless Communications,2006,5(9):2484-2492.   \n[2]Darsena D. Successive narrowband interference cancellation for OFDM systems [J].IEEE Communications Letters,20o7,11（1).   \n[3]Shi Kai, Zhou Yi,Kelleci B,et al. Impacts of narrowband interference on OFDM-UWB receivers:analysis and mitigation [J].IEEE Trans on Signal Processing,2007,55 (3): 1118-1128.   \n[4]Gomaa A,Al-Dhahir N.A compressive sensing approach to NBI cancellationinmobileOFDMsystems[C]//Procof Global Telecommunications Conference.Piscataway,NJ:IEEE Press,2O10:1-5.   \n[5]Goodfellow I,Bengio Y,Courville A，et al.Deep learning [M]. Cambridge:MIT Press,2016.   \n[6]Wang Tianqi,Wen Chao-Kai,Wang Hanqing,et al.Deep learning for wireless physical layer:Opportunities and challenges [J].China Communications,2017,14(11): 92-111.   \n[7]Ye Hao,Li G Y,Juang B HF,et al.Channel agnostic end-to-end learning based communication systems with conditional GAN[J].arXiv preprint arXiv:1807.00447,2018.   \n[8]Liang Fei, Shen Cong,Wu Feng.An iterative BP-CNN architecture for channel decoding [J].IEEE Journal of Selected Topics in Signal Processing,2018,12(1): 144-159.   \n[9]O'Shea TJ,Roy T,Clancy TC.Over-the-air deep learning based radio signal classification [J].IEEE Journal of Selected Topics in Signal Processing,2018,12(1): 168-179. ",
+        "page_idx": 4
+    }
+]

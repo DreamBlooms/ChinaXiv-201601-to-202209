@@ -1,0 +1,107 @@
+# 临床研究
+
+# 定量动态磁共振增强扫描在星形细胞瘤诊断中的价值
+
+何建灵1，江治民²，蔡 亮³，张遇乐4,刘 聪51广州市番禺区中医院CT/MRI室,广东广州 511400; $^ { 2 } \mathrm { G E }$ 医疗,广东广州 510623；武警广东总队医院，广东广州 510507;4广州市妇女儿童医疗中心，广东广州 510623；广州市番禺区中心医院，广东广州 511400
+
+摘要：目的探讨定量磁共振动态增强在星形细胞瘤诊断及鉴别诊断中的应用价值。方法60名怀疑脑内肿瘤的患者（男32名,女28名)使用GE Signa HDxT3.0T(Milwaukee)进行定量磁共振动态增强检查，对比剂使用非离子型钆对比剂钆双胺，剂量 $0 . 2 ~ \mathrm { m L / k g }$ ，注射流速 $3 \mathrm { m L } / \mathrm { s } _ { \circ }$ 所有患者的扫描原始图像均使用OK软件自动选取感兴趣区，每个病变测量3个层面：中心层面、中心两旁各1/2层面处,取其平均值，计算其容量转移常数 $( \mathrm { K } _ { \mathrm { u n s } } )$ 、速率常数 $\mathrm { ( K _ { e p } ) }$ 及血管外细胞外间隙容积比 $\mathrm { ( V _ { e } ) }$ ；测量时应尽量避开血管及伪影。结果35名患者发现颅内有肿瘤，其中28名进行了手术并取病理活检，星形细胞瘤14名，脑膜瘤3名,室管膜瘤3名，转移瘤4名，颅咽管瘤2名，听神经瘤2名。病理结果显示14例星形细胞瘤3例I级、4例为Ⅱ级，4例为Ⅲ级、3例为V级，定量参数 $\mathrm { K } _ { \mathrm { t r a n s } }$ 值、 $\mathrm { K } _ { \mathrm { e p } }$ 值、 $\mathrm { v } _ { \mathrm { \ell } }$ 值在Ⅲ级与V级的高级别星形细胞瘤均明显高于I级与Ⅱ级的低级别星形细胞瘤$( P { < } 0 . 0 5 )$ ;I级与Ⅱ级，Ⅲ级与V级星形细胞瘤之间 $\mathrm { \tilde { K } } _ { \mathrm { t r a n s } }$ 值、 $\mathrm { V _ { e } }$ 值无统计学差异 $( P { > } 0 . 0 5 ) $ 。结论磁共振定量参数 $\mathrm { \cdot K } _ { \mathrm { u n s } }$ 值、$\mathrm { K _ { \mathrm { e p } } }$ 值、 $\mathrm { v _ { c } }$ 值可用于术前区分低级别与高级别星形细胞瘤，也可用于术后评估复发可能性,对于术前进行无创性评价肿瘤病理分级具有临床指导价值。
+
+关键词：磁共振动态对比增强;星形细胞瘤;鉴别诊断;容量转移常数
+
+# Clinical value of DCE-MR in astrocytoma diagnosis and differential diagnosis
+
+HE Jianling1, JIANG Zhimin²,CAI Liang³,ZHANG Yule4,LIU Cong5   
+1Panyu Hospital of Chinese Medicine,Guangzhou 511400,China; $^ 2 G E$ Healthcare,Guangzhou 510623, China;Armed Police Guangdong CorpsHospitalangoinanguomeddren'sedicalenteagoua;G Panyu Central Hospital,Guangzhou 511400,China
+
+Abstract: Objective To explore the clinical value of DCE-MR in astrocytoma diagnosis and diferential diagnosis. MethodsThe magnetic resonance examination were performed in 60cases of patients (Male 32,Female 28)with suspend of brain tumors by GE Signa $\mathrm { H D x T } 3 . 0 \mathrm { T }$ (GE medical system, Milwaukee) after the administration of Omniscan at the flow rate of $3 \mathrm { m L / s } , 0 . 1 \mathrm { m m o l / k g }$ The ROI was automatically selected by the OK software, three slides were measured.The measurement was trying to avoid blood vessels and artifacts. The ${ \mathrm { K } } _ { \mathrm { t r a n s } } ,$ $\mathrm { K } _ { \mathrm { e p } }$ and $\mathrm { V _ { e } }$ were calculated and the average value was taken. ResultsTumor was found in 35 patients,28of them underwent surgery and biopsy,14 astrocytomas,3 meningiomas, 3 ependymomas,4 metastases,2 craniopharyngiomas and 2acoustic neuroma.The pathological results showed that 3of 14 astrocytomas were gradeI,4 were grade II,4 were grade Iland 3 were grade IV.Both valuesof high grade gliomas include grade $\mathbb { I }$ and $\mathrm { \Delta W }$ were significantly higher than that of low grade gliomas include gradeI and II $( P { < } 0 . 0 5 )$ . There was no statistically difference of the parameters of ${ \sf K } _ { \mathrm { t r a n s } }$ and $\mathrm { V _ { e } }$ values between grades I with $\mathbb { I }$ and grade $\mathbb { I }$ with IV $( P { > } 0 . 0 5 )$ Conclusion Quantitative DCE-MR parameters ${ \mathrm { K } } _ { \mathrm { t r a n s } } ,$ $\mathsf { K } _ { \mathrm { e p } }$ and $\mathrm { V _ { e } }$ value can be used to distinguish low grade and high grade astrocytoma,and evaluate thepossbilityofrecurence,playsanimportantoleindiscriminate diferent grade intracranial tumors in a preoperative noninvasive way.
+
+Keyword: dynamic contrast-enhanced magnetic resonance imaging;astrocytoma; differential diagnosis; $\mathrm { K } _ { \mathrm { t r a n s } }$
+
+磁共振定量动态增强扫描(DCE-MR)是近年发展的功能成像技术之一，通过药代动力学模型获得定量参数，从功能影像角度对病灶的性质进行判断，已成功应用于中枢神经系统疾病的研究及临床诊断。脑星形细胞瘤是中枢神经系统最常见的肿瘤，占颅内肿瘤的 $1 3 \% { \sim } 2 6 \%$ ，占星形细胞瘤 $2 1 . 2 \% { \sim } 5 1 . 6 \%$ 男性多于女性，具有高致残、致死率的特点，其术前分级对治疗和预后影响很大，特别是高级别星形细胞瘤，预后不佳，平均存活期仅为9\~12个月[。MR平扫 $^ +$ 增强扫描是目前最常用及最重要的诊断手段，但由于其仅局限于形态学检查,在肿瘤的分级(尤其低级别)上尚有许多不足之处。磁共振定量动态增强扫描恰恰在解决了这方面的问题，除了常规的灌注信息以外该检查还可以获得容量转移常数 $\left( \mathrm { K } _ { \mathrm { u n s } } , \mathrm { m i n } ^ { - 1 } \right)$ 、速率常数 $\left( \mathrm { K } _ { \mathrm { e p } } , \mathrm { m i n } ^ { - 1 } \right)$ 和血管外细胞外间隙容积比$\mathrm { ( V _ { c } ) }$ ，从而判断星形细胞瘤的级别。
+
+本研究旨在通过对照不同级别脑星形细胞瘤DCE-MR定量动态增强扫描结果及病理结果，探索磁共振定量动态增强扫描在星形细胞瘤定性诊断及分级上是否有临床意义。过去许多国内的研究使用的扫描方法时间分辨率较低，结果出现较大偏差，本研究使用国内最先进的3.0T磁共振扫描配合快速扫描序列，大大提高扫描时间变率，得出的结果重复性及可信度均较高。按照世界卫生组织标准可以分为低级别(I、Ⅱ级)与高级别(ⅢI、V级),级别越高，恶性程度越高[2]，而磁共振动态对比增强扫描利用动态增强图像和药代动力学模型，在微循环水平上通过研究组织中对比剂浓度随时间的变化规律及对比剂血管内外的交换过程，定量描述肿瘤微血管生成及通透性等血流动力学信息，从而判断肿瘤的良恶性，指导临床制订治疗方案。
+
+# 1资料与方法
+
+# 1.1研究资料
+
+1.1.1样本选择收集2015年7月\~2016年6月在我院临床怀疑颅内肿瘤的60例患者临床资料，所有患者均在病灶穿刺或手术切除前行常规MRI增强扫描及磁共振动态对比增强扫描检查。其中35名患者发现颅内有肿瘤，28名进行了手术并取病理活检，星形细胞瘤14名，脑膜瘤3名，室管膜瘤3名，转移瘤4名，颅咽管瘤2名，听神经瘤2名。14例星形细胞瘤中有3例I级、4例为Ⅱ级，4例为Ⅲ级、3例为V级。入组的星形细胞瘤患者中男8例，女6例，年龄54\~70岁，平均$6 1 . 1 3 { \pm } 1 1 . 2 3$ 岁。该研究经伦理委员会批准同意，所有患者检查前均被告知检查情况，自愿接受扫描，并签署知情同意书。
+
+1.1.2扫描设备与参数MRI检查采用GE公司Signa$\mathrm { H D x T } 3 . 0 \mathrm { T }$ 超导型磁共振成像仪，16通道相控阵列线圈。常规扫描序列，T1加权图像、T2加权图像、及液体翻转恢复序列(FLAIR)所用参数分别为：T1WI,$\mathrm { T R } / \mathrm { T I } / \mathrm { T E } { = } 2 ~ 5 8 0 / 8 6 0 / 2 4 ~ \mathrm { m s }$ ;T2WI,TR/TE ${ } = 5$ 100/$1 3 0 \mathrm { m s }$ ; FLAIR, $\mathrm { T R } / \mathrm { T I } / \mathrm { T E } { = } 9 ~ 6 0 0 / 2 ~ 4 0 0 / 1 1 0 ~ \mathrm { m s }$ 。层厚$5 \mathrm { m m }$ ，间隔 $1 . 5 \mathrm { m m }$ ，矩阵 $3 2 0 { \times } 2 5 6$ ， $\mathrm { F O V } 2 4 0 { \times } 1 8 0 \ \mathrm { m m }$ ，1次采集。磁共振动态对比增强扫描采用三维快速容积扫描序列LAVA，动态增强前， $\mathrm { T R } { = } 1 . 6 ~ \mathrm { m s }$ $\mathrm { T E = }$ $0 . 8 ~ \mathrm { m s }$ ，层厚 $3 \ \mathrm { m m }$ ，扫描5组翻转角分别为2 $ ^ { \circ } , 3 ^ { \circ } , 6 ^ { \circ } ,$ $9 ^ { \circ }$ 、 $1 2 ^ { \circ }$ 图像，均1次采集，动态增强： $\mathrm { T R } { = } 1 . 6 ~ \mathrm { m s }$ ，$\scriptstyle \mathrm { T E = } 0 . 8 \ \mathrm { m s }$ ，层厚 $3 \mathrm { m m }$ ，翻转角 $1 5 ^ { \circ }$ ，时间分辨率为 $4 { \bf \delta s } _ { \odot }$ 扫描范围为整个肿瘤及周围水肿区，连续扫描60时相，第1\~5时相为蒙片，第6时相开始经肘静脉由高压注射器以 $2 \mathrm { m L } / \mathrm { s }$ 的速度注入钆双胺 $\mathrm { ( 0 . 1 \ m m o l / k g ) }$ ，对比剂注射完毕后，即刻以同样速度再注入同等容积生理盐水冲洗导管，以减少团注后对比剂的残留。总扫描时间约 $5 \ \mathrm { m i n } \ 1 0 \ \mathrm { s }$ ，总扫描图像约1800幅。然后再行常规T1WI对比增强扫描。
+
+# 1.2 方法
+
+由3名高年资(10年以上)放射科医师共同判定实性肿瘤部分及周围水肿区，结合普通增强扫描图像上病灶的强化部分，在动态增强的原始图像上画出所有层面的感兴趣区(ROI),包括肿瘤实质区及瘤周水肿区，建立病灶区所有感兴趣区层面信号随时间变化的关系，所有病灶的ROI面积控制在 $2 0 { \pm } 5 \ \mathrm { m m } ^ { 2 }$ 内，避开血管、囊变、坏死区，并测得ROI内参数平均值。每个病变实质区分别测量3次ROI,各参数取3次测量的平均值进行数据统计。采用OK2.0软件计算$\mathrm { K } _ { \mathrm { t r a n s } }$ 值、 $\mathrm { K _ { \mathrm { e p } } }$ 值和V值，并生成各参数功能性伪彩图。
+
+# 1.3 统计学分析
+
+使用SPSS18.0统计软件对不同级别星形细胞瘤的实质区平均 ${ \sf K } _ { \mathrm { u n s } }$ 值、 $\mathrm { K _ { \mathrm { e p } } }$ 值和V值定量参数分别进行统计学分析。先进行正态分布检验，非正态分布者经变量转换至符合正态分布。多组数据比较采用单因素方差分析，组间多重比较采用LSD检验，两组数据比较采用两独立样本均数t检验， $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+2.1不同级别星形细胞瘤 ${ \mathrm { K } } _ { \mathrm { t r a n s } }$ 值 $\cdot \mathrm { V _ { c } }$ 值比较
+
+低级别(I级、Ⅱ级)星形细胞瘤的 ${ \mathrm { K } } _ { \mathrm { t r a n s } }$ 值、V值均低于高级别(Ⅲ级、V级)星形细胞瘤；两者差异均有统计学意义(P均 $< 0 . 0 5$ ，表 $1 { \sim } 4$ )。
+
+表1I级与Ⅲ级胶质瘤的 $\mathrm { K } _ { \mathrm { t r a n s } }$ 值、 $\mathrm { v _ { e } }$ 值、 $\mathrm { K } _ { \mathrm { e p } }$ 值比较  
+
+<html><body><table><tr><td>参数</td><td>I级(n= 3)</td><td>Ⅲ级(n =4)</td><td>P</td></tr><tr><td>Kirans(min*)</td><td>0.121±0.068</td><td>0.285±0.051</td><td><0.05</td></tr><tr><td>V</td><td>0.069±0.031</td><td>0.239±0.078</td><td><0.05</td></tr><tr><td>Kep(min-1)</td><td>1.754±0.475</td><td>1.193±0.331</td><td><0.05</td></tr></table></body></html>
+
+表2I级与IV级胶质瘤的 $\mathrm { K } _ { \mathrm { t r a n s } }$ 值、 $\mathrm { V _ { e } }$ 值、 $\mathrm { K } _ { \mathrm { e p } }$ 值比较  
+
+<html><body><table><tr><td>参数</td><td>I级(n=3)</td><td>V级(n = 3)</td><td>P</td></tr><tr><td>Kiram(min*)</td><td>0.121±0.068</td><td>0.328±0.121</td><td><0.05</td></tr><tr><td>V</td><td>0.069±0.031</td><td>0.242±0.132</td><td><0.05</td></tr><tr><td>Kep(min)</td><td>1.754±0.475</td><td>1.355±0.261</td><td><0.05</td></tr></table></body></html>
+
+表3Ⅱ级与Ⅲ级胶质瘤的 $\mathrm { K } _ { \mathrm { t r a n s } }$ 值、V值、 $\mathrm { K } _ { \mathrm { e p } }$ 值比较  
+
+<html><body><table><tr><td>参数</td><td>Ⅱ级(n=4)</td><td>Ⅲ级(n =4)</td><td>P</td></tr><tr><td>Krar(min*)</td><td>0.182±0.051</td><td>0.285±0.051</td><td><0.05</td></tr><tr><td>V</td><td>0.115±0.090</td><td>0.239±0.078</td><td><0.05</td></tr><tr><td>Kep(min-1)</td><td>1.583±0.434</td><td>1.193±0.331</td><td><0.05</td></tr></table></body></html>
+
+表4Ⅱ级与IV级胶质瘤的 $\mathrm { K } _ { \mathrm { t r a n s } }$ 值、 $\mathrm { \Delta V _ { \epsilon } }$ 值、 $\mathrm { K _ { \mathrm { e p } } }$ 值比较  
+
+<html><body><table><tr><td>参数</td><td>Ⅱ级(n=4)</td><td>Ⅳ级(n = 3)</td><td>P</td></tr><tr><td>Ktran(min*)</td><td>0.182±0.051</td><td>0.328±0.121</td><td><0.05</td></tr><tr><td>V</td><td>0.115±0.090</td><td>0.242±0.132</td><td><0.05</td></tr><tr><td>Kep(min*1)</td><td>1.583±0.434</td><td>1.355±0.261</td><td><0.05</td></tr></table></body></html>
+
+2.2不同级别星形细胞瘤之间 ${ \mathrm { K } } _ { \mathrm { t r a n s } }$ 值及V值均数的多重比较
+
+将各级别星形细胞瘤 $\mathrm { K } _ { \mathrm { t r a n s } }$ 值、V值分别进行单因素方差分析，结果显示，I级和Ⅱ级星形细胞瘤，Ⅲ级和N级星形细胞瘤之间 ${ \mathrm { K } } _ { \mathrm { t r a n s } }$ / $\mathrm { v } _ { \mathrm { c } }$ 值比较均无统计学差异 $P _ { \cdot }$ 均 ${ > } 0 . 0 5$ ,表5、6；Ⅱ、Ⅲ级星形细胞瘤 $\mathrm { K } _ { \mathrm { t r a n s } }$ 、V值无统计学差异 ${ ( P { > } 0 . 0 5 ) }$ ，所以 $\mathrm { K } _ { \mathrm { t r a n s } }$ 、 $\mathrm { v _ { c } }$ 有助于鉴别低级别与高级别星形细胞瘤，而对于Ⅲ级和V级星形细胞瘤，I级和Ⅱ级星形细胞瘤则鉴别困难，
+
+表5低级别胶质瘤的 $\mathrm { K } _ { \mathrm { t r a n s } }$ 值、V值、 $\mathrm { K } _ { \mathrm { e p } }$ 值比较  
+
+<html><body><table><tr><td>参数</td><td>I级(n=3)</td><td>Ⅱ级(n = 4)</td><td>P</td></tr><tr><td>Ktrans(min-1)</td><td>0.121±0.068</td><td>0.182±0.051</td><td>>0.05</td></tr><tr><td>V</td><td>0.069±0.031</td><td>0.115±0.090</td><td>>0.05</td></tr><tr><td>Kep(min-)</td><td>1.754±0.475</td><td>1.583±0.434</td><td>>0.05</td></tr></table></body></html>
+
+表6高级别胶质瘤的 $\mathrm { K } _ { \mathrm { t r a n s } }$ 值、 $\mathrm { v _ { e } }$ 值、 $\mathrm { K _ { \mathrm { e p } } }$ 值比较  
+
+<html><body><table><tr><td>参数</td><td>Ⅲ级(n=4)</td><td>V级(n = 3)</td><td>P</td></tr><tr><td>Ktrans(min-1)</td><td>0.285±0.051</td><td>0.328±0.121</td><td>>0.05</td></tr><tr><td>V</td><td>0.239±0.078</td><td>0.242±0.132</td><td>>0.05</td></tr><tr><td>Kep(min*1)</td><td>1.193±0.331</td><td>1.355±0.261</td><td>>0.05</td></tr></table></body></html>
+
+# 2.3不同级别星形细胞瘤之间 $\mathrm { K _ { \mathrm { e p } } }$ 值的多重比较
+
+将各级别星形细胞瘤 $\mathrm { K } _ { \mathrm { e p } }$ 值进行单因素方差分析，结果显示，I级、Ⅱ级、Ⅲ级和V级星形细胞瘤之间 $\mathrm { K } _ { \mathrm { e p } }$ 值比较均无统计学差异 $( P { > } 0 . 0 5 )$ ；因此 $\mathrm { K _ { \mathrm { e p } } }$ 值对于鉴别不同级别星形细胞瘤无参考价值(图1)。
+
+# 3讨论
+
+星形细胞瘤的发生、发展及恶性度与肿瘤新生血管形成密切相关，导致肿瘤新生血管形成的因素较多[3]，与肿瘤血管生成相关的免疫生化指标逐渐成为判别肿瘤分级、监控抗血管生成药物疗效的重要工具。血管内皮生长因子是在诱导肿瘤血管形成过程中是最重要的因子之一，在肿瘤血管生成中起关键作用[4]。高级别的星形细胞瘤能生成比较多的血管内皮生长因子，有研究证实血管内皮生长因子在短期内可增加血管通透性，使血脑屏障开放，长期的作用底下可刺激内皮细胞增生，形成大量新生的肿瘤微血管[5]，增生的微血管多不成熟，导致通透性增加。肿瘤恶性程度越高，血脑屏障破坏越严重，导致大量对比剂通过血脑屏障泄漏到细胞外血管外间隙中。本研究中的DCE-MR是利用高压注射器快速注入对比剂前后进行连续无间断的T1WI增强扫描，选取相应动脉输入函数，利用1991年Tofts提出的两室血流动力学模型计算得到可反映组织血管通透性的血流动力学参数 $\mathrm { K } _ { \mathrm { t r a n s } }$ 、Ve值，从而对血管通透性进行定量测量[6]。
+
+定量的动力学参数来自一个常用的药代动力学模型的钆浓度-时间曲线(4)，最常用的模型是由Tofts[提出的双室药代动力学模型。这种定量分析涉及的主要动力学参数包括： $\mathrm { K } _ { \mathrm { t r a n s } }$ ，血管外的细胞外空间， $\mathrm { v _ { c } }$ ， $\mathrm { K _ { \mathrm { e p } } }$ 及血浆体积分数。 $\mathrm { K } _ { \mathrm { t r a n s } }$ 描述对比剂从血管至肿瘤间隙的跨内皮细胞转运，即对比剂的摄取，在大多数肿瘤中， ${ \mathrm { K } } _ { \mathrm { t r a n s } }$ 值受组织血流量和渗透性的共同作用， $\mathrm { K } _ { \mathrm { t r a n s } }$ 值越高则表示组织的灌注量和渗透性越高，对肿瘤而言其恶性程度也越高。 $\mathrm { K } _ { \mathrm { e p } }$ 反映了对比剂返回至血管内的反向转运参数，即对比剂的廓清。V表示肿瘤血管外细胞外间隙容积，即肿瘤被血管外细胞外间隙所占据的部分[。以上3个参数满足如下关系： $\mathrm { K _ { c p } { = } K _ { t r a n s } / V e }$ 。
+
+研究结果显示，高级别星形细胞瘤的 $\mathrm { K } _ { \mathrm { t r a n s } }$ 、Ve值均显著高于低级别星形细胞瘤 $( P { < } 0 . 0 5 )$ ，可用于鉴别高低级别星形细胞瘤。I级和Ⅱ级、Ⅲ级和Ⅲ级星形细胞瘤鉴别困难，其他各级星形细胞瘤之间的 ${ \mathrm { K } } _ { \mathrm { t r a n s } }$ 值及Ve值均有统计学差异，对于术前鉴别肿瘤分级有意义。本研究结果与过去多项研究的结论一致，表明这些血流动力学参数可反映肿瘤微血管渗透性的增加及对比剂渗漏到血管外细胞外间隙容积的增加。由于 $\mathrm { \cdot K _ { \mathrm { u n s } } }$ 值与血流量、肿瘤细胞壁的通透性及表面积等因素密切相关，Ve值反映对比剂泄漏到血管外细胞外间隙的容积比，有不少研究[8显示肿瘤恶性度越高，血管通透性增加越明显，则 $\mathrm { K } _ { \mathrm { t r a n s } } .$ 、Ve值也越大，不过本研究由于样本量不多未能就此问题深入探讨。另外，与以往的研究[0]比较， ${ \sf K } _ { \mathrm { t r a n s } }$ 的诊断效能提高不甚明显，而Ⅱ级星形细胞瘤与Ⅲ级星形细胞瘤的 ${ \mathrm { K } } _ { \mathrm { t r a n s } }$ 值未出现明显差异，可能与本次研究的样本量偏小、测量ROI时的部分容积效应等因素有关。
+
+![](images/8111fcdbf0fa46b45e2b7e56ec5dbd9fc76b9826112a7abcd881eff9dd92aca6.jpg)  
+图1I级星形细胞瘤(WHOⅡ级)患者检查所见男,57岁,右侧显形细胞癌;最大横截面为 $1 . 0 \mathrm { c m } { \times } 1 . 2$ cm.
+
+总而言之，磁共振定量成像参数 $\mathrm { K } _ { \mathrm { t r a n s } }$ 值、Ve值结合常规增强MRI扫描，可通过检测肿瘤内新生血管通透性来判断颅内星形细胞瘤的分级，对于术前诊断几术后预后判断有临床指导意义[11-12]。由于DCE-MR可以发现常规增强扫描未见明显强化的高灌注区，在恶性星形细胞瘤的肿瘤实质边界的判定中较常规增强扫描有明显的优势，可以更准确划定肿瘤范围，帮助制定手术计划,准确切除肿瘤,制定放疗靶区[13-15]
+
+# 参考文献：
+
+[1]Tofts PS,Brix G,Buckley DL,et al. Estimating kinetic parameters from dynamic contrast-enhanced T(1)-weighted MRI of a diffusable tracer: standardized quantities and symbols[J].JMagn Reson Imaging,1999,10(3): 223-32.   
+[2]Wang S,Chen Y,Lal B,etal.Evaluation of radiation necrosis and malignant glioma in rat models using diffusion tensor Mr imaging[J].JNeurooncol,2012,107(1):51-60.   
+[3]Haris M,Husain N, Singh A,et al.Dynamic contrast-enhanced derived cerebral blood volume correlates better withleak correction than with no correction for vascular endothelial growth factor, microvascular density,and grading of astrocytoma[J].J Comput Assist Tom0gr,2009,32(6): 955-65.   
+[4]Almeida-Freitas DB,Pinho MC, Otaduy MC,et al.Assessment of irradiated brain metastases using dynamic contrast-enhanced magneticresonanceimaging[J].Neuroradiology,2014,56(6):437-43.   
+[5]Haris M, Gupta RK, Singh A,et al.Differentiation of infective from neoplastic brain lesions by dynamic contrast-enhanced MRI[J]. Neuroradiology,2008,50(6): 531-40.   
+[6] 范兵,杜华睿,王霄英,等.不同对比剂对脑转移瘤MRI动态增强定 量参数(Ktrans)的影响[J].临床放射学杂志,2014,33(9):1421-4.   
+[7] Zhang N, Zhang LJ, Qiu BS,et al. Correlation of volume transfer coefficient Ktrans with histopathologic grades of gliomas[J]．J Magn Reson Imaging,2012,36(2): 355-63.   
+[8］李晓光,康厚艺,程海云,等.T1加权像动态对比增强MRI在评价 脑星形细胞瘤微血管通透性及病理分级中的应用价值[J]．蚌埠 医学院学报,2015,40(2):230-3.   
+[9]黄 杰,李晓光,康厚艺,等.DSC-MRI 和DCE-MRI定量分析在脑 星形细胞瘤分级诊断中的应用[J]．第三军医大学学报，2015，37 (7): 672-7.   
+[10]Walker S,Leach MO,Collins DJ.Evaluation of response to treatment using DCE-MRI: the relationship between initial area undertheGadoliniumcurve(IAUGC）andquantitative pharmacokinetic analysis[J].Phys Med Biol,2006,51(14):3593- 602.   
+[11]Kim S,Loevner LA,Quon H,et al. Prediction of response to chemoradiation therapy in squamous cell carcinomas of the head and neck using dynamic contrast-enhanced Mr imaging[J].AJNR Am JNeuroradiol,2010,31(2): 262-8.   
+[12]Newbold K,Partridge M, Cook G,et al. Advanced imaging applied to radiotherapy planning in head and neck cancer: a clinical review[J].Br JRadiol,2006,79(943): 554-61.   
+[13]Viglianti BL,Lora M,Poulson JM,et al. Dynamic contrastenhanced magnetic resonance imaging as a predictor of clinical outcome in canine spontaneous soft tissue sarcomas treated with thermoradiotherapy[J]. Clin Cancer Res,2009,15(15): 4993-5001.   
+[14]Thamm DH, Kurzman ID,Clark MA,et al. Preclinical investigation of PEGylated tumor necrosis factor alpha in dogs with spontaneous tumors: phase Ievaluation[J].Clin Cancer Res,2010, 16(5): 1498-508.   
+[15]宋加哲，胡兰花，范国光，等．3.0T磁共振动态对比增强扫描在 脑胶质瘤分级诊断中的应用值[J]．中国医科大学学报,2016,45 (7): 620-5.

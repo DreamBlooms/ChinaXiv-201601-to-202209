@@ -1,0 +1,376 @@
+[
+    {
+        "type": "text",
+        "text": "Insight into the three-dimensional structure of maize chlorotic mottle virus revealed by Cryo-EM single particle analysis ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chun-Yan Wanga,1, Qin-Fen Zhang b,1, Yuan-Zhu Gaob, Xue-Ping Zhoua, Gang Jic, Xiao-Jun Huangc, Jian Honga\\*, Chuan-Xi Zhang a,\\*\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "aInstitute of Insect Science,Institute of Biotechnology, Zhejiang University,Hangzhou 310o58,China bStateKeybtootrolofieeestvesitygo ‘ Institute of Biophysics,Chinese Academy of Sciences,Beijing 10o101, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLEINFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article history:   \nReceived4May2015   \nReturned to author for revisions   \n5 June 2015   \nAccepted 25 July 2015   \nAvailable online 11 August 2015   \nKeywords:   \nMCMV   \nThree-dimensional structure   \nSingle particle   \nTransmission ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Maize chlorotic motte virus (MCMV) is the only member of the Machlomovirus genus in the family Tombusviride.Here,we obtained the Cryo-EM structure of MCMV by single particle analysis with most local resolution at approximately $4 \\mathring { \\mathsf { A } } .$ The Cα backbone was built based on residues with bulky side chains.The resolved C-terminus of the capsid protein subunit and obvious openings at the 2-fold axis demonstrated the compactness of the asymmetric unit,which indicates an important role in the stability of MCMV.The Aspl16 residue from each subunit around the 5-fold and 3-fold axes contributed to the negative charges in the centers of the pentamers and hexamers,which might serve as a solid barrier against the leakage of genomic RNA.Finally,the loops most exposed on the surface were analyzed and are proposed to be potential functional sites related to MCMV transmission. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\circledcirc$ 2015Elsevier Inc.All rights reserved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Maize chlorotic mottle virus(MCMV) isan exclusive pathogen of maize,which produces symptoms,typically including mild mosaic, severe stunting and leaf necrosis (Castillo and Hebert,1974; Uyemoto et al.，1981). It was first reported in Peru in 1974 (Castillo and Hebert,1974)and was then found in the United States and Mexico (Niblett and Clafin,1978; Carrera-Martinez et al, 1989).In 2011,MCMV was detected in China and was shown to have a high sequence similarity with the virus previously reported (Nutter et al.,1989;Xie et al.，2011). MCMV isa high level of concern since the outbreak of the corn lethal necrosis (CLN） in Kansas(Uyemoto et al.,198O),which resulted in serious yield losses in maize.The following studies further demonstrate that the CLN disease results from the synergistic infection of the MCMV with other plant viruses in maize (Uyemoto et al.,1981；Stenger etal.,2oO7).Under experimental conditions,MCMV is found to be transmitted by six chrysomelid beetles (Chrysomela populi) (Nault et al.,1978),while recent reports suggest that MCMV can also be transmitted by corn thrips(Frankliniellawilliamsi) (Cabanas et al., 2013）and flower thrips(Frankliniella occidentalis)(Zhao et al., ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2014).Nowadays,MCMV iswidespread(Xie etal.,2O11;Cabanas et al., 2013; Lukanda et al., 2014; Wang et al., 2014a; Zhao et al., 2014).However, the determinants of the MCMV transmission by these insect vectors have not been found yet. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The icosahedral virion of MCMV is composed of 180 copies of chemically identical capsid protein approximately $3 8 \\mathrm { k D }$ in size, and one copy of genomic RNA with a length of $4 . 4 \\mathrm { k b }$ (King et al., 2011).Despite of the similarity of MCMVwith some members of the Carmovirus genus，the MCMV capsid protein shows less identity with the viruses in the Carmovirus genus and thus is grouped into a new genus,Machlomovirus in the family Tombusviridae (King etal.,2O11). Based on structures registered in the PDB (protein data bank),virusesin the family Tombusviridae can be divided into two groups: one group is characterized by obvious protrusions on the surface while the other has a rather smooth surface.The first group includes Tomato bushy stunt virus(TBSV) (Olson et al., 1983), Carnation mottle virus (CarMV) (Morgunova etal.,1994),Turnip crinkle virus(TCV) (Hogle etal.,1986),Melon necrotic spot virus（MNSV)(Wada et al.，2Oo8）and Cucumber necrosis virus(CNV)(Li et al.,2O13). The second group is represented by Panicum mosaic virus(PMV) (Makino et al.,2O13）and Tobacco necrosis virus A(TNV-A)(Oda et al.,2OoO). The common feature of these viruses is that all of the subunits possess the canonical jellyroll fold，which is composed with eight antiparalleled $\\beta$ -sheets defined asa $\\beta$ -barrel structure (Stirk et al., 1992).For the viruses in the first group,the subunit is composed of two $\\beta -$ barrel structures: one contributes to the surface domain and the other to the protruding domain (Olson et al.,1983; Hogle et al.,1986;Morgunova et al.,1994;Wada et al., 2008;Li et al., 2013).For the viruses in the second group，the subunit is composed of only one $\\beta$ -barrel structure that contributes to the surface domain(Oda etal.,20oo;Makino etal.,2013). The exposed residues on the viral surface most likely are the potential target of their transmission vectors (Liu et al., 2OO2; Andret-Link and Fuchs, 2005;Schellenberger et al., 2O1O). Thus, it is of great significance to understand the surface features prior to initiating an investigation into MCMV transmission by the insect vector. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Here,we present the three-dimensional structure of MCMV by cryo-electron microscopy(Cryo-EM） single particle analysis and reveal the featureslocated on the surface of the virus.Ourresults will provide an important structural basis for further studies on MCMVtransmission. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results and discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cryo-EMstructureofMCMV ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Approximately 53,6oo particles in total were selected frommore than 1ooO Cryo-EM micrographs with the best qualities for reconstruction(Fig.1A,B and Fig.S1). The density map of the final reconstruction demonstrated that MCMVis a typical icosahedral virus witha diameter $\\mathsf { o f } \\sim 3 0 \\mathrm { n m }$ (Fig.1C and D),similar to other membersof the familyTombusviridae[PMV(PDB ID:4FY1)(Makino etal.,2013) and TNV (PDB ID:1C8N) (Oda etal., 200O)]. No obvious protruding domain was found on the surface of MCMV.Instead, obvious slits were observed at the 2-fold axis from the surface view of the reconstructions (Fig.1C). Based on the resolution of the density map，the subunits composing pentamers and hexamers showed similar structural features both in their inner surface and outer surfaces,further demonstrating the quasi-equivalence among the three subunits within one asymmetric unit (Fig.1C and D).Due to the methodological limitation,most density from the genomic RNA, which lacks icosahedral symmetry,could not be resolved (Fig. S2). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a5b293dd953384288fd3963ce7efab4c84e057599eb26dedb37177946ec9ffd.jpg",
+        "img_caption": [
+            "FigC godi MCMV has rather smooth surface,(D) inside view of the reconstruction demonstrates the separated ${ \\mathfrak { \\beta } }$ -sheets composing the surface domain of MCMV.The density map is coloredbyradius,ndthelocationsofthe2-foldaxis,3-foldaxisand5-foldaxisare indicated.Thecolorkeyrangesfrom15to $1 6 5 \\mathring { \\mathrm { A } }$ ,with the colors varying from red to blue. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Resolution assessment ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The resolution of the final density map was estimated to be $3 . 6 \\mathring { \\mathsf { A } }$ as assessed by the gold standard of the O.143FSC criterion (Scheres and Chen, 2O12) (Fig.2A). To further validate the resolutionof our density map,the phases of all of the particles were randomized beyond $1 0 \\mathring { \\mathsf { A } }$ and the reconstruction was repeated (Wang et al.,2014b).This treatment was applied to two independent data sets and the FSC was computed,which showed that a sharp drop-off was observed at $1 0 \\mathring { \\mathsf { A } } ,$ indicating that there was no obvious model bias (Fig.2A). The ‘True FSC'was computed from the FSC of the original data set and the FSC of the randomized phase data set (Chen etal.,2O13)and wasalmost identical to the gold-standard FSC curve (Fig. 2A). The local resolution of the density map was calculated from the unsharpened density maps. The local resolution of the innermost side of the capsid was better than $4 \\mathring { \\mathsf { A } }$ ,while that of the outermost part of the capsid was worse than $4 \\mathring { \\mathsf { A } }$ (Fig.2B),indicating that the surface structural elements were more flexible than those inside the capsid. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/dc8d8ef06e86991f776fb2bdb4c7e90bf4c9a2eaf9e3b79c510a3af79aa6fa55.jpg",
+        "img_caption": [
+            "Fig.2.Resolution estimation and validation.(A） Three FSC curves computed between two independent three-dimensional reconstructions generated from two independent data sets using different methods.The “True\"FSC is shown with a blue line and the gold standard FSC is shown with a black line,which is nearly identical with the“True FSC\".The two FSC curves validate the resolution of the density map at $3 . 6 \\mathring { \\mathsf { A } }$ ：the FSC phase randomization at $1 0 \\mathring { \\mathsf { A } }$ is shown with a black dash line and drops sharply from the $1 0 \\mathring { \\mathsf { A } }$ resolution,(B) surface view and cutthrough view of the unsharpened Cryo-EM map colored by local resolution as evaluated by ResMap.The images demonstrate that most local resolutions of the density map inside the capsid are approximately $\\angle 4 \\mathring { \\mathsf { A } }$ ,while the genomic RNA and external surface are at resolutions worse than ${ \\bf 4 } \\mathring { \\bf A } .$ （204 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Modelbuildingandvalidation ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Multiple sequence alignment showed that the PMV capsid protein had approximately $3 5 \\%$ sequence similarity with MCMV (Fig.3).Thus,the model of the PMV subunit(PDB ID:4FYA)was chosen as the template for MCMV subunit modeling.The secondary elements of the generated comparative model fit well in the density of the MCMV,with the exception of the segment between residues Tyr130 and Phe168 plus several other loops that need further optimization.Optimization started with $\\alpha$ helices,then $\\beta$ sheets and finally loops based on the features of the secondary elements andbulky side chains.Refinement of the model was repeated based on the geometry and density fit analysis.Finally,the optimized model was validated in a Ramachandran plot (Kleywegt and Jones, 1996).Correlation of the density map with the model is approximately $8 5 \\%$ due to the flexibility of the loops and some undetermined orientations of the sidechains.Overall,MCMV shared the conserved $\\beta$ -barrel structure with the virusesin the family Tombusviridae,which was composed of anti-paralleled $\\beta$ -sheets. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Mapquality evaluation ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The optimized MCMV model was fitted in the density map to analyze the side chain details.Using thisapproach,the bulky side chains could be confidently identified not only in an $\\alpha$ -helix but also in the $\\beta$ -sheets.One example isa segment of the $\\alpha$ -helix 89- KWLAAQSQMWN-99 (Fig.4A) and three segments of the $\\beta$ -sheets 210-KISYSVSYR-218(Fig.4B),103-FNSVRITW-110 (Fig.4C) and 46- TTCSMSE-52(Fig.4D) in which the bulky residues Phe,Tyr and Trp couldbe easily discerned and could serve asmarkers for the Cα backbone determination.The resolution of our reconstruction was estimated to be $3 . 6 \\mathring { \\mathsf { A } }$ using the gold standard of the O.143 FSC criterion (Scheres and Chen，2O12). The local resolution of the inner most portion is approximately $4 \\mathring { \\mathsf { A } }$ as assessed by Resmap (Swint-Kruse and Brown，2oo5)，consistent with the features observed in thedensity map described above. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "New stabilization factorwithin the asymmetricunit revealed by the C-terminus ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Similar to a typical icosahedral virus with a $T { = } 3$ lattice,the MCMV capsid consisted of 6O identical asymmetric units composed of three chemically identical subunits in quasi-equivalent conformations (Fig.5A).The subunits are arranged with five copies of the A subunit packed along the five-fold axis and three copies of the heterodimeric Aand B subunits packed along the three-fold axis.The sequence near the C-terminus of the subunit has been less resolved in viruses without protruding domains(Oda et al.,2ooo；Makino et al.,2O13). Thus, the spatial distribution of the segment near the Cterminus is unknown for these viruses.In MCMV,the density of the C-terminal sequence was largely resolved and was shown to stretch towards the surface of the virus,nearly covering the interfaces of the subunits within one asymmetric unit (Fig.5B). In the viruses with protruding domains on the surface,these segments correspond to loops linking the surface domain and protrusion domain (Olson et al., 1983;Hogle et al., 1986; Morgunova et al.,1994; Wada et al., 2008; Li et al.,2O13).However, the C-terminal sequence covers the interfaces of the subunits within one asymmetric unit in MCMV may protect the outer interfaces between subunits within one asymmetric unit (Fig.5B). In viruses with protruding domains,stronger interactions are found between neighboring protrusions along the 2-fold axis in the form of dimers (Olson etal., 1983; Hogle etal., 1986;Morgunova et al.,1994;Wada et al.,2008；Li etal.,2013). In MCMV,obvious openings at the 2-fold axis were found instead on the surface (Fig.1C).Apparently, interactions within the asymmetric unit in these viruses are stronger than the interactions between neighboring ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "★ 20 \\$ 40 ★ 60PMV ： MNRNGATPTRGRCKRAIPNPPRRRARGKSVERGSTEIQYVTTIGPSRERMGOGOGWOKLSHE： 62MCMV ： MAASSRSTRG RKORGRSVEAKSRAIRANPPVPRPNEQRNRPPPAGTTCSM： 50A3 RG R4 RG4SVES 6 6 P★ 80 ★ 100 ★ 120PMV ：EIIIQVNSSTAADTIQTIPIIPRISVPACDKEIYSCSAPHIRTIGSAEAIHRWRAISFEWIP:124MCMV:SEIILAVSATTADQILEIPVCAGIDFPACTPERYICAAKWIAAQSOMWNTIVENSVRITWET：112IL STADI IP6 6PAG PYGA L 5 56 Wk 140 ★ 160 k 180PMV ：SCPTTTEENIVIREYPNYSTETPKTITDIMDSESLVLVESISGKTYRPKIETRGNPPEIRNI ：186MCMV:FTADTTSCYISMAELSDYMLSIETGVEDVAR---IVPSATIAIKNRGESIVMPONRTAFRCI ：171TTG66F1Y P 6D6 6V 36K PI N RI★ 200 \\* 220 \\* 240PMV ：DATAESAIS-DEDRGDYSVGRIVVGSSKOAVVIQLGILRMRYSAEMRGATSISGVSA ：242MCMV:CAGOEAAIGSAADROMYSPGRFIVAIPKASATOAVCQIKISYSVSYRGAAIIQPALVPGPGL ：233A FAL DK YS GR 6V K 6G 646 YS RGA 6★PMV ：MCMV ： ANH ： 236",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a5b9a6177ed97a7e332613686c4cea9994326c8a9a39b34fe7c104fad23ad965.jpg",
+        "img_caption": [
+            "Figeqe capsidsshareapproximately $3 5 \\%$ amino acid sequence similarity. ",
+            "Fig.4. Side-chain details of the density map superimposed with atomic models.(A) Atomic model of one $\\mathbf { \\alpha } _ { \\mathbf { \\alpha } } \\mathbf { \\alpha } _ { \\mathbf { \\alpha } }$ -helix composed of residues 89-KWLAAQSQMWN-9 is fitted in the density map,(B)-(D) atomic model of three ${ \\mathfrak { \\beta } }$ -sheetscomposedoftheresiues 208-QKISYSVSYR-218,103-FNSVRITW-110and46-TCSMSE-52aresuperimposed intheir nsitsi arrows. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "asymmetric units,indicatinga potential role for the asymmetric unit inthe stabilityof intact icosahedralMCMVparticles. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Potential contribution of the negative charge in the centers of pentamers and hexamers to the stabilization of the virions ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fitting the Cα backbone into the density map demonstrated that the loop composed of residues 112-TFTADTTSGY-121 is located in close proximity to the centers of the pentamers and hexamers,with Asp116 located in the turn (Fig.6A and B). Sequence analysis of the corresponding loops in five otherviruses(TBSV,CarMV,MNSV,TNV and PMV) suggested thatwhile both TBSVand CarMV had negatively charged residues located in these loops,only the loops in CarMVhad negative residues located in the turn;these contribute to the negative charge in the centers of the pentamers and hexamers (Olson et al., 1983；Morgunova et al.,1994;Wada et al.,2008；Oda et al.,2000;Makino et al.,2013) (Fig. 6C). Binding of the genomic RNAby the capsid protein primarily occurs through the interaction between the phosphates of the genomic RNA and the basic amino acid residues from the capsid protein (Bink and Pleij,2Oo2). Thus, the negatively charged residues located around the centers of the pentamers and hexamers are hypothesized to serve as a strong barrieragainst the leakage of the genomic RNA,thereby promoting thestability of the viral particles. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6d25f92fadeebc5f0f10ba8d350e3c47b534516f1a47e209c71102745e8805f9.jpg",
+        "img_caption": [
+            "FigVis gen withoresogdsitedmsaestatfitidasia "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b3b8f3e9d9634f62a2f9e70b536eb574ab6df48c524ab3eaeed8c173a42304b.jpg",
+        "img_caption": [
+            "FigVia echsubic pace andCari which has Glu172 and Glu146 respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Potential functionalsitesrelatedtothetransmissionoftheMCMV ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In addition to acting as the structural component of the viruses, one critical function of the capsid protein is to provide an interaction site for their insect vectors (Andret-Link and Fuchs,2Oo5). Studies on the transmission of Grape fan leaf virus(GFLV）suggest that the exposed loop (defined as the ${ \\beta } \\mathrm { B } { - } \\beta \\mathrm { C }$ loop in the GFLV capsid structure) is essential for the transmission of GFLV by nematodes (Schellenberger etal.,2O1O). In the case of Cucumber mosaic virus (CMV), disruption of thecharged amino acid residues in the $\\beta \\mathrm { H - } \\beta \\mathrm { I }$ loop was found to be related to virus transmissibility(Liu etal.,2OO2).In MCMV, themost exposed residues are primarily from the subunits composing the pentamers (Fig.7A),which are located in the loops 58-SATTAD-63, 198-PKASATQAV-2O6 and 76-FPAGTPPRY-83 (Fig.7B and C).There are five major loops in the MCMV subunit: ${ \\beta } \\mathsf { B - } \\beta \\mathsf { C }$ loop, $\\beta \\mathrm { ^ { \\prime } D - \\beta \\mathrm { ^ { \\prime } E } }$ loop, βD$\\beta \\mathrm { E }$ loop, ${ \\beta } \\mathrm { F - } \\beta \\mathrm { G }$ loop, $\\beta \\mathrm { H - } \\beta \\mathrm { I }$ loop (Fig. 7D). The structure match of TBSV with MCMV showed that all these loops are located in the surface domain of the subunit,which determines the viral dimension; the exception was the $\\beta \\mathrm { ^ { \\prime } D - \\beta \\mathrm { ^ { \\prime } E } }$ loop,corresponding to the protruding domain in TBSV,which are located on the surface(Fig.7D).The location of ${ \\beta } \\mathsf { B - } \\beta \\mathsf { C }$ loop in MCMV corresponds to the loop in GFLV that is essential for virus transmission (Schellenberger et al.,2O1O),while the $\\beta \\mathrm { H - } \\beta \\mathrm { I }$ loop in MCMV corresponds to the transmission determinant loop in CMV (Liu et al.,2OO2).The characteristic of all three loops is that they are exposed on the surface of the virusand are accessible to the insect vectors.In GFLV,the single site mutation Gly297Asp located in the ${ \\beta } \\mathsf { B - } \\beta { \\mathsf { C } }$ loop seems to be sufficient to affect the transmission of the virus by nematodes (Schellenberger et al., 2011). In terms of virus evolution,mutation in natural environments usually results in improved replication or transmission of the virus.Out of the large number of MCMV isolates,two isolates have been detected with significant variation in these loops: Ala62Asp in the ${ \\beta } \\mathsf { B - } \\beta \\mathsf { C }$ loop (Accession:AFV60465)(Adams et al.,2013）and Pro81Ser mutation located in the $\\beta \\mathrm { ^ { \\prime } D - \\beta \\mathrm { ^ { \\prime } E } }$ loop (Accession:NP_619722)(Nutter et al.,1989). These variations in the exposed loops might be related to the widespread nature of MCMV；therefore,these exposed loops may be associated with MCMV transmission by the insect vectors.However, this inference is based on the structure of MCMV and requires biological evidence for verification. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Conclusion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As the representative member of the genus Machlomovirus in thefamily Tombusviridae,MCMV is the first member of genus Machlomovirus to be resolved structurally. The reconstruction showed that MCMV shares a great deal of similarity with other virusesin the family Tombusviridae.The largelyresolved segment near the C-terminus of the subunit indicates a stronger interaction within one asymmetric unit in MCMV that might be important for stability of MCMV particles.The Asp116 residue from each subunit provides a negative charge in the centers of the pentamers and hexamers,which might serve to prevent leakage of the genomic RNA and to facilitate virus stability.Finally,the most exposed residueslocated in the loops 58-SATTAD-63,198-PKASATQAV-206 and 76-FPAGTPPRY-83 were analyzed and the potential functional sitesrelated to MCMV transmission were discussed based on the comparison between the transmission determinants of other viruses.These structural results provide an important basis for the investigation of MCMV transmission and promote the control of the viral disease caused by MCMV. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e73e160bfb8b463b7762449788c7c323d8dd1ae66103ac97338c718415bc32ab.jpg",
+        "img_caption": [
+            "Figuace areoled matchfi and $\\mathsf { \\beta } \\mathsf { H } \\mathrm { - } \\mathsf { \\beta } \\mathsf { \\beta }$ loop are located in the surface domain while the $\\beta ^ { \\prime } \\mathsf { D - } \\beta ^ { \\prime } \\mathsf { E }$ loop corresponds to the location of the protruding domain in TBSV.The C-terminus of MCMV corresponds to the linking loop between the surface domain and protrusion domain in TBSV. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Materials and methods ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "!solationand purificationof theMCMV virions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Maize leaves infected with MCMV identified as the Yunnan isolate(Wang et al.,2O14a) were used for the purification of virus particles. The sample was pre-cooled in liquid nitrogen and ground into a powder that was dissolved in $0 . 1 \\mathrm { ~ M ~ }$ phosphate buffer containing $0 . 1 \\mathrm { ~ M ~ }$ calcium chloride (pH6).After removing the impuritiesbycentrifugation ( $1 2 , 0 0 0 \\times { \\bf g }$ for $2 0 \\mathrm { m i n }$ at $4 ^ { \\circ } C )$ ，a mixture of equal volumes of chloroform and butanol was added to the supernatant and mixed for $2 0 \\mathrm { m i n }$ at room temperature until the stratification disappeared. Then,the mixture was centrifuged ( ${ 1 2 , 0 0 0 \\times \\mathbf g }$ for $2 0 \\mathrm { m i n }$ at $4 ^ { \\circ } C _ { \\cdot } ^ { \\cdot }$ ,resulting in the butanol phase containing virus particles in the upper layer and the chloroform phase in the lower layer. The virus particles were precipitated by ultracentrifugation ( ${ 1 3 0 , 0 0 0 \\times \\bf { g } }$ for 2h at $4 ^ { \\circ } \\mathsf C$ (Beckman,USA). The resulting precipitate was resuspended in 0.01M PBS containing $0 . 0 1 \\mathrm { M } \\mathsf { C a C l } _ { 2 }$ (pH6)and then centrifuged to remove the impurities ( ${ 1 2 , 0 0 0 \\times \\bf { g } }$ for $2 0 \\mathrm { m i n }$ at $4 ^ { \\circ } \\mathsf C$ .Theresulting virus sample was frozen at $- 7 0 ^ { \\circ } C$ for further investigation. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Cryo-EM sample preparation and data collection ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A $3 . 5 \\mu \\mathrm { l }$ sample was applied to 4oo mesh Quantifoil $\\mathtt { R 1 . 2 } / 1 . 3$ grids（Quantifoil,Germany）with freshly made thin continuous carbon film and flash-frozen in pre-cooled liquid ethane using VitrobotIVat $100 \\%$ humidity(FEI,USA).EM data were collected on an FEI Titan Krios electron microscope at $3 0 0 \\mathrm { k V } .$ Paralleled beam illumination was used and coma-free alignment was carefully performed to ensure beam coherence and minimize beam tilt.To ensure minimization of any astigmatism,it was corrected at the nominal magnification at both $1 5 5 \\mathrm { K }$ and $7 5 \\mathrm { K }$ ：this procedure was performed once after changing to different squares of the grid.To ensure the sample had minimal drift,we performed visual inspections prior to every exposure.The visual inspection was conducted at the neighboring carbon area by using the“preview\" together with“live FFT\"function of the Gatan CCD camera at the nominal magnification of $1 5 5 \\mathrm { K }$ (more than double of that used for data collection） in the“focus mode\",data were collected only when there was no drift in the visual inspection. The defocus values ranged from $^ { - 1 }$ to $- 3 \\mu \\mathrm { m }$ ；most were in the -1 to $- 1 . 5 \\mu \\mathrm { m }$ range.The total dose used for each exposure was ${ \\sim } 2 0$ electrons $/ \\mathring { \\mathsf { A } } ^ { 2 }$ .The images were recorded on a Gatan UltraScan4000 (model 895）16-megapixel CCD，and the final pixel size was 1.196 $\\mathring { \\mathsf { A } } /$ pixel. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Structuredetermination andrefinement ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Particles were selected from the Cryo-EM images using the e2boxer.py program in EMAN2(Tang et al.,2OO7） and the contrast transfer function parameters were determined by using ctfit in EMAN1.9 (Ludtke et al.，1999). The micrographs with obvious vibration or drift were discarded.Finally,the selected datawere randomly separated to two independent groups,and JSPR was used to refine the center, orientation,defocus,astigmatism,magnification of each particle and to rebuild the final density map (Guo and Jiang, 2014).These were sharpened by applying B-factor using the proc3d inEMAN1.9 (Ludtke et al.,1999). The resolution was assessed using the gold standard of the O.143 FSC criterion (Scheresand Chen,2012) andvalidated by the“True FSC\" (Chen et al.,2O13；Wangetal., 2014b).The local resolution Was also calculated using the two independent reconstructions from halves of the total particles by ResMap (Swint-Kruse and Brown, 2005). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Comparativemodel building and model optimization ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A comparative model was built using Phyre2 (Kelley et al, 2015). The sequence alignment of the two sequences was generated from Clustal Omega (Sievers etal.,2O11). The model was then fitted into the density map using the“fit into map”module in Chimera (Pettersen et al.,2oo4).More details can be found in Zhang et al. (2O13). Further model optimization was done using Coot (Emsley, K. (2004))and Phenix(Adams et al., 201O). Finally, the optimized model was validated in the Ramachandran plot (Kleywegt and Jones, 1996). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Accessionnumbers ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Cryo-EM density map of MCMV has been deposited in the Electron Microscopy Data Bank with accession number EMD-6382. The $\\mathsf { C } \\alpha$ backbone of the asymmetric unit has been deposited in the Protein Data Bank under ID code 3JB8. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This study was supported by grants from the National Natural Science Foundation of China (31070129,30370305).Thanks are also given to Dr.Xing Zhang from UCLA(University of California, Los Angeles） for his good suggestions on paper writing. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Appendix A. Supporting information ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Supplementary dataassociated with thisarticle canbe found in the online version at http://dx.doi.org/10.1016/j.virol.2015.07.014. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Adams, I.P., Miano, D.W., Kinyua, Z.M., Wangai, A., Kimani, E., Phiri, N., Reeder, R., Harju, V., Glover, R., Hany, U., Souza-Richards,R., Nath, P.D., Nixon,T., Fox, A., Barnes, A., Smith,J., Skelton, A., Thwaites,R., Mumford, R., Boonham,N., 2013. Use of next-generation sequencing for the identification and characterization of maize chlorotic mottle virus and sugarcane mosaic virus causing maize lethal necrosis in Kenya. Plant Pathol. 62,741-749.   \nAdams, P.D., Afonine,P.V., Bunkoczi, G., Chen, V.B., Davis,I.W., Echols,N., Headd,JJ, Hung,L.W., Kapral, G.J., Grosse-Kunstleve,R.W., McCoy, A.J.，Moriarty,N.W., Oeffner, R.,Read,R.J., Richardson,D.C.,Richardson, J.S.,Terwilliger, T.C., Zwart, P.H.,2010.PHENIX: a comprehensive Python-based system for macromolecular structure solution. Acta Crystallogr. D.66,213-221.   \nAndret-Link,P.,Fuchs,M., 2oo5.Transmission specificity of plant viruses by vectors. J. Plant Pathol. 87, 153-165.   \nBink,H.H., Pleij, C.W., 2Oo2. RNA-protein interactions in spherical viruses. Arch. Virol. 147, 2261-2279.   \nCabanas, D.,Watanabe, S., Higashi, C.H., Bressan, A.,2013. Dissecting the mode of maize chlorotic mottle virus transmission (Tombusviridae: Machlomovirus) by Frankliniella williamsi (Thysanoptera: Thripidae). J. Econ. Entomol. 106,16-24.   \nCarrera-Martinez, H., Mendoza-Zamora, L.S.H., Alvizo-Villasana H., C., 1989. Inmunoabsorcion enzimätica (ELISA) en la identificacion y distribucion del virus moteado clorótico del maiz(VMCM) en el estado de México. Rev. Mex.Fitopatol 7,20-25,in Mexican Spanish.   \nCastillo,J., Hebert, T., 1974. Nueva enfermedad virosa afectando al maiz en el Peru. Fitopatologia 9, 79-84, in Spanish.   \nChen,S., McMullan, G., Faruqi, A.R.，Murshudov, G.N.， Short, J.M., Scheres,S.H., Henderson, R., 2013. High-resolution noise substitution to measure overfitting and validate resolution in 3D structure determination by single particle electron cryomicroscopy. Ultramicroscopy 135, 24-35.   \nEmsley，P.C.，K.，20o4. Coot: Model-building tools for molecular graphics. Acta Crystallogr.D 60,2126-2132.   \nGuo,F., Jiang,W., 2014. Single particle cryo-electron microscopy and 3-D reconstruction of viruses. Methods in Mol. Biol. 1117, 401-443.   \nHogle,J.M., Maeda, A., Harrison, S.C., 1986. Structure and assembly of turnip crinkle virus.1. X-Ray crystallographic structure analysis at 3.2 A resolution. J. Mol. Biol. 191, 625-638.   \nKelley, L.A., Mezulis,S., Yates, C.M.,Wass,M.N., Sternberg,M.J.E.,2015. The Phyre2 web portal for protein modeling，prediction and analysis.Nat. Protoc.10, 845-858.   \nKing, A.M.Q., Lefkowitz, E., Adams,M.J., Carstens, E.B., 2011. Virus Taxonomy: Ninth report of the international committee on taxonomy of viruses,9. Elsevier Academic Press, San Diego, CA, pp. 256-267.   \nKleywegt, G.J., Jones,T.A.,1996.Phi/psi-chology: Ramachandran revisited. Structure 4, 1395-1400.   \nLi,M., Kakani, K.,Katpally, U., Johnson，S., Rochon,D., Smith,T.J.,2013. Atomic structure of cucumber necrosis virus and the role of the capsid in vector transmission. J.Virol. 87, 12166-12175.   \nLiu, S.,He, X., Park, G., Josefsson, C., Perry, K.L.,2oO2. A conserved capsid protein surface domain of Cucumber mosaic virus is essential for eficient aphid vector transmission. J. Virol. 76, 9756-9762.   \nLudtke,S.J., Baldwin, P.R., Chiu, W.,1999. EMAN: semiautomated software for highresolution single-particle reconstructions. J. Struct. Biol. 128, 82-97.   \nLukanda, M., Owati, A., Ogunsanya, P., Valimunzigha, K., Katsongo, K., Ndemere, H., Kumar, P.L., 2O14. First report of maize chlorotic mottle virus infecting maize in the democratic republic of the Congo. Plant Dis. 98, 1448-1449.   \nMakino, D.L., Larson, S.B., McPherson, A., 2013. The crystallographic structure of panicum mosaic virus (PMV). J. Struct. Biol. 181, 37-52.   \nMorgunova, E.Y., Dauter, Z., Fry,E., Stuart, D.I., Stelmashchuk, V.Y., Mikhailov, A.M., Wilson, K.S., Vainshtein, B.K., 1994. The atomic structure of carnation mottle virus capsid protein. Febs. Lett. 338, 267-271.   \nNault,L.R., Styer,W.E., Coffey，M.E.,Gordon，D.T.,Negi, L.S.，Niblett, C.L.,，1978. Transmission of maize chlorotic mottle virus by chrysomelid beetles. Phytopathology 68, 1071-1074.   \nNiblett, C., Clafin,_L.，1978. Corn lethal necrosis,a new virus disease of corn in Kansas. Plant Dis. Rep 62, 15-19.   \nNutter，R.C.， Scheets，K.， Panganiban，L.C.， Lommel， S.A.，1989. The complete nucleotide sequence of the maize chlorotic mottle virus genome. Nucleic Acids Res. 17, 3163-3177.   \nOda, Y.S., Takahashi, K., Maeda, Y., Naitow,T., Tsukihara, H., Fukuyama, K., T.,2000. Crystal structure of tobacco necrosis virus at 2.25 A resolution. J. Mol. Biol. 300, 153-169.   \nOlson, A.J., Bricogne, G., Harrison, S.C.,1983. Structure of tomato bushy stunt virus. 4. The virus particle at 2.9 angstrom resolution. J. Mol. Biol. 171, 61-93.   \nPettersen, E.F., Goddard, T.D., Huang, C.C., Couch, G.S., Greenblatt, D.M., Meng, E.C., Ferrin,T.E., 2oo4. UCSF chimera-A visualization system for exploratory research and analysis. J. Comput. Chem. 25,1605-1612.   \nSchellenberger,P., Andret-Link, P.,Schmitt-Keichinger, C., Bergdoll, M., Marmonier, A.,Vigne,E., Lemaire, O., Fuchs,M., Demangeat, G., Ritzenthaler, C., 2010. A stretch of 11 amino acids in the betaB-betaC loop of the coat protein of grapevine fanleaf virus is essential for transmission by the nematode Xiphinema index. J. virol 84, 7924-7933.   \nSchellenberger, P., Sauter, C., Lorber, B., Bron,P., Trapani, S., Bergdoll, M.,Marmonier,A., Schmitt-Keichinger, Lemaire, O.,Demangeat, G., Ritzenthaler, C., 2011. Structural insights into viral determinants of nematode mediated grapevine fanleaf virus transmission. Plos. Pathog.7 (5), e1002034.   \nScheres, S.H.W., Chen, S.X., 2012. Prevention of overfitting in Cryo-EM structure determination. Nat. Methods 9, 853-854.   \nSievers,F, Wilm, A.,Dineen, D.,Gibson,T.J., Karplus,K.,Li, W., Lopez,R., McWilliam, H.,Remmert,M., Soding, J., Thompson, J.D.,Higgins,D.G.，2011.Fast,stable generation of high quality protein multiple sequence alignments using Clustal Omega. Mol. Syst. Biol.7,539.   \nStenger, D.C., Young, B.A., Qu, F., Morris, T.J., French, R.,2OO7.Wheat streak mosaic virus lacking helper component-proteinase is competent to produce disease synergism in double infections with maize chlorotic mottle virus.Phytopathology 97, 1213-1221.   \nStirk,H.J.，Woolfson，D.N.，Hutchinson， E.G.， Thornton, J.M.，1992. Depicting topology and handedness in jellyroll structures. Febs. Lett. 308,1-3.   \nSwint-Kruse,L., Brown, C.S., 2oo5. Resmap:automated representation of macromolecular interfacesas two-dimensional networks. Bioinformatics21, 3327-3328.   \nTang, G., Peng, L., Baldwin,P.R.,Mann,D.S., Jiang,W.,Rees,I., Ludtke, S.J., 2007. EMAN2: an extensible image processing suite for electron microscopy.J. Struct. Biol. 157, 38-46.   \nUyemoto, J.K., Bockelman,D.L., Claflin, L.E.，1980. Severe outbreak of corn lethal necrosis disease in Kansas. Plant Dis. 64, 99-100.   \nUyemoto, J.K., Claflin, L.E., Wilson, D.L., Raney, R.J.,1981. Maize chlorotic mottle and maize dwarf mosaic viruses-effect of single and double inoculations on symptomatologyand yield. Plant Dis. 65,39-41.   \nWada,Y., Tanaka,H., Yamashita, E., Kubo, C., Ichiki-Uehara,T., Nakazono-Nagaoka, E., Omura, T., Tsukihara, T., 20o8. The structure of melon necrotic spot virus determined at $2 . 8 \\mathring { \\mathsf { A } }$ resolution. Acta Crystallogr. F 64, 8-13.   \nWang, Q., Zhou, X.P., Wu, J.X., 2014a. First report of maize chlorotic mottle virus infecting sugarcane (Saccharum officinarum). Plant Dis. 98, 572-573.   \nWang, Z.,Hryc, C.F.,Bammes,E Afonine,PV., Jakana, J.,Chen,D.H,Liu,X.,Baker, M.L, Kao,C.,Ludtke,S.J, Schmid,M.F., Adams,P.D., Chiu,W.,2014b. An atomic model of brome mosaic virus using direct electron detection and real-space optimization. Nat. Commun 5, 4808. http://dx.doi.org/10.1038/ncomms5808.   \nXie, L., Zhang, J.Z., Wang, Q. Hong, J., Zhou, X.P.,2011. Characterization of maize chlorotic mottle v associated withmaizelethal necrosisdisease in China. J.Phytopathol.159,191-   \nZhang, Q.F., Dai, X.H., Cong Zhang Chen,D.H.,Dougherty,M.T.,Wang,J.Y. Ludtke, S.J., Schmid, M.F 2013.Cryo-EM structure of a molluscan hemocyanin suggests its allosteric mechanism. Structure 21, 604-613.   \nZhao，M.F.，Ho,H.H.,Wu， Y.X.，He,Y.Q,Li，M.J.，2014. Western flower thrips (Frankliniella occidentalis） transmits maize chlorotic mottle virus. J. Phytopathol. 162, 532-536. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,299 @@
+引用格 式:Wang Zhenzhan,Xie Ying,Lu Hao,et al.Calibration and Impact Analysis of $2 3 . 8 ~ \mathrm { G H z }$ Digital-correlation Ful-polarimetric Microwave Radiometer[J].Remote Sensing Technology and Application,2O15,30(4):744- 756.[王振占，谢莹，陆浩，等. $2 3 . 8 ~ \mathrm { G H z }$ 数字相关型全极化微波辐射计的定标及其影响分析[J].遥感技术与应用， 2015,30(4):744-756.]   
+doi:10.11873/j.issn.1004-0323.2015.4.0744
+
+# 23.8GHz数字相关型全极化微波辐射计的定标及其影响分析
+
+王振占1,2，谢莹1,2.3，陆浩1,2，董帅1,2.3，李彬1.2（1.中国科学院国家空间中心微波遥感技术重点实验室，北京100190;2.中国科学院国家空间中心，北京100190;3.中国科学院大学，北京 100049）
+
+摘要：为实现全极化微波辐射计对海面风场的高精度测量，不但需要特殊的全极化定标基准，同时需要高稳定性的接收机系统。恒温控制是提高系统稳定性简单有效的途径之一。基于23.8GHz的数字相关型全极化微波辐射计，考虑温度对于定标的影响，采用特殊的温控方案，设计出一套恒温控制系统，使辐射计工作在一种稳定的状态下。实验结果表明：通过恒温控制可以使辐射计工作维持在一种稳定的状态，从而可以简化定标过程,延长定标周期，同时保证定标精度的要求。
+
+∈键词：全极化微波辐射计;定标周期;灵敏度;恒温控制中图分类号:TP 732.1 文献标志码：A 文章编号：1004-0323（2015)04-0744-13
+
+# 引言
+
+全极化微波辐射计是90年代中后期发展起来的一种新型的被动微波遥感器。相比于微波散射计,全极化微波辐射计进行海面风场测量具有低功耗、高风速条件下精度高等优势，是国际上星载微波遥感技术的前沿方向。自然界任何温度在 $\mathrm { ~ 0 ~ K ~ }$ 以上的物体都会产生微波辐射。在电磁学上用斯托克斯(Stokes)矢量完整地描述目标的微波辐射特性，用亮温表示的电磁场4个Stokes 参数为[1]：
+
+$$
+\overline { { T } } _ { B } = \left[ \begin{array} { c } { T _ { v } } \\ { T _ { h } } \\ { U } \\ { Q } \end{array} \right] = \frac { \lambda ^ { 2 } } { \eta k } \left[ \begin{array} { c } { \langle \mid E _ { v } \mid ^ { 2 } \rangle } \\ { \langle \mid E _ { h } \mid ^ { 2 } \rangle } \\ { 2 \mathrm { R e } \langle E _ { v } E _ { h } ^ { \ast } \rangle } \\ { 2 \mathrm { I m } \langle E _ { v } E _ { h } ^ { \ast } \rangle } \end{array} \right]
+$$
+
+其中： $\overline { { T } } _ { B }$ 是亮度温度（以下简称亮温）， $E _ { v } , E _ { h }$ 分别是垂直和水平方向的辐射电场的复振幅， $\lambda$ 是波长，$\eta$ 是波阻抗， $k = 1 . 3 8 \bullet 1 0 ^ { - 2 3 } \mathrm { J } \bullet \mathrm { K } ^ { - 1 }$ 是玻尔兹曼（Boltzmann）常数（本文大写K为开尔文温度）。传统的微波辐射计测量的是目标微波电磁辐射亮温$\overline { { T } } _ { B }$ 的前两个正交的极化分量 $\smash { T _ { s } }$ 和 $\boldsymbol { T } _ { h }$ ，而全极化微波辐射计不但测量目标微波辐射信号的两个单一的正交极化分量，并且测量这两个正交极化分量的复相关量，即在传统微波辐射计功率幅度测量的基础上，进一步测量其相关信息。这些相关信息对于表面微波辐射的各向异性更加敏感。
+
+根据式（1）中 $U$ 和 $Q$ 的实现方式不同，全极化微波辐射计通常有两种类型：一种是加法型，第三和第四个Stokes参数是通过正交通道亮温与至少一组相关极化通道亮温的组合来实现的。用公式表示为[2]：
+
+$$
+T _ { \scriptscriptstyle 3 } = T _ { \scriptscriptstyle 4 5 ^ { \circ } } - T _ { - 4 5 ^ { \circ } } = 2 T _ { \scriptscriptstyle 4 5 ^ { \circ } } - T _ { \scriptscriptstyle \upsilon } - T _ { \scriptscriptstyle h }
+$$
+
+$$
+T _ { 4 } = T _ { l } - T _ { r } = 2 T _ { r } - T _ { v } - T _ { h }
+$$
+
+另外一种是乘法型，它通过正交通道电场的复相关来实现的，即[3]：
+
+$$
+\begin{array} { r } { T _ { 3 } = \frac { { \lambda } ^ { 2 } } { k \textbf { * } \eta } ( 2 \mathrm { R e } \langle E _ { v } E _ { h } ^ { \ast } \rangle ) } \\ { T _ { 4 } = \frac { { \lambda } ^ { 2 } } { k \textbf { * } \eta } ( 2 \mathrm { I m } \langle E _ { v } E _ { h } ^ { \ast } \rangle ) } \end{array}
+$$
+
+其中： $T _ { 4 5 ^ { \circ } } , T _ { - 4 5 ^ { \circ } }$ 分别为 $+ 4 5 ^ { \circ }$ 和一 $4 5 ^ { \circ }$ 线极化分量的亮温， $\boldsymbol { T } _ { \iota }$ 和 $\smash { T _ { r } }$ 分别为左旋圆极化和右旋圆极化分量的亮温。
+
+从上面的定义可以看出，采用不同的辐射计类型，定标方法也不同：对于加法型全极化微波辐射计，由于其分别测量 $T _ { v \setminus } T _ { h \setminus } T _ { 4 5 ^ { \circ } \setminus } T _ { - 4 5 ^ { \circ } \setminus } T _ { l \setminus } T _ { r } \gets$ 个极化状态亮温，因此其定标方式等同于传统辐射计的定标，也就是通常所说的两点定标。两点定标在地面上通常采用不同温度的定标黑体实现，如液氮制冷的低温黑体和常温黑体，在无法进行液氮制冷的条件下采用常温黑体和加热黑体来实现两点定标。在轨情况下通常采用冷空背景亮温 $2 . 7 K$ 和常温黑体实现两点定标。当然两点定标一般还要进行系统响应的非线性修正，以减小实际辐射计系统响应中的非线性成分产生的误差。
+
+对于乘法型全极化微波辐射计，从式（3）可以看出，系统输出的是经过电场相乘后的电压，用公式表示为[4]：
+
+$$
+{ \bar { v } } = { \left[ \begin{array} { l } { v _ { 1 } } \\ { v _ { 2 } } \\ { v _ { 3 } } \\ { v _ { 4 } } \end{array} \right] } = { \left[ \begin{array} { l l l l } { g _ { v v } } & { g _ { \psi } } & { g _ { v 3 } } & { g _ { v 4 } } \\ { g _ { h v } } & { g _ { h h } } & { g _ { h 3 } } & { g _ { h 4 } } \\ { g _ { 3 v } } & { g _ { 3 h } } & { g _ { 3 3 } } & { g _ { 3 4 } } \\ { g _ { 4 v } } & { g _ { 4 h } } & { g _ { 4 3 } } & { g _ { 4 4 } } \end{array} \right] } { \left[ \begin{array} { l } { T _ { v } } \\ { T _ { h } } \\ { T _ { 3 } } \\ { T _ { 4 } } \end{array} \right] } + { \left[ \begin{array} { l } { \rho _ { v } } \\ { o _ { h } } \\ { o _ { 3 } } \\ { o _ { 4 } } \end{array} \right] } + { \bar { n } }
+$$
+
+$$
+= \bar { \bar { g } } \overline { { { T } } } _ { \scriptscriptstyle B } + \bar { \sigma } + \bar { n }
+$$
+
+可以看出，不同的目标辐射，辐射计输出的电压不同。因此为了确定式（4）中的定标系数，需要至少5 组线性独立的输入亮温及其对应的电压输出。
+
+因此数字相关型全极化辐射计的定标是一种特殊形式的定标，它需要能够同时产生4个Stokes参数基准的定标源，以确定式（4）中g非对角线元素的串扰贡献。由于微波辐射计系统的是一个高灵敏度的接收机，式（4）的定标系数是不断变化的，因此需要在其变化周期内完成定标，才能根据定标方程计算观测目标的微波辐射亮温。辐射计的定标周期是辐射计实际应用中必需考虑的问题，而定标周期的长短取决于微波辐射计的系统稳定性。辐射计系统的稳定性主要取决于系统噪声温度的稳定性和接收机增益的稳定性，二者都与工作温度非常相关，因此本文对一台自行研制的 $2 3 . 8 ~ \mathrm { G H z }$ 的数字相关型全极化辐射计的定标过程进行分析，重点分析温度的稳定性对于定标周期和定标精度的影响。
+
+# 2数字相关型全极化微波辐射计及其定标原理
+
+# 2.123.8GHz数字相关型全极化微波辐射计简介
+
+2011年，中科院空间中心成功研制出了一套数字相关型全极化微波辐射计系统（Digital-correla-tion full PolarimetricMicrowave Radiometer,DPMR)，主要技术指标见表1[5],其中 $2 3 . 8 ~ \mathrm { G H z }$ 主要目标是测量大气中的水汽和降水。但是由于卫星遥感的需求，尤其是海面风场遥感的需求，对于表面极化信息的提取需要建立实际观测亮温或者发射率与表面参数之间的关系，而 $2 3 . 8 ~ \mathrm { G H z }$ 的极化信息往往被忽略，不管是大气还是海面，这对于其他参数的反演非常不利。因此所设计的全极化辐射计是全频段的，以获得表面极化信息的连续频率响应数据。$2 3 . 8 ~ \mathrm { G H z }$ 在以往国内外都没有过全极化配置。本文重点对这个频率的特性和定标进行分析。
+
+表1DPMR主要技术指标  
+Table 1 The main technical indicators of DPMR   
+
+<html><body><table><tr><td>中心频率/GHz</td><td>6.8</td><td>10.7</td><td>18.7</td><td>23.8</td><td>37.0</td></tr><tr><td>带宽/MHz</td><td>600</td><td>600</td><td>600</td><td>400</td><td>1000</td></tr><tr><td>噪声系数/dB</td><td>2</td><td>3</td><td>3.2</td><td>3.3</td><td>3.5</td></tr><tr><td>接收机类型</td><td>SSB</td><td>SSB</td><td>SSB</td><td>SSB</td><td>SSB</td></tr><tr><td>极化方式</td><td></td><td>four Stokes parameters</td><td></td><td></td><td></td></tr><tr><td>天线类型</td><td></td><td>Corrugated horn antenna</td><td></td><td></td><td></td></tr><tr><td>极化隔离度/dB</td><td></td><td></td><td><-30</td><td></td><td></td></tr><tr><td>天线3dB波束宽度/°</td><td></td><td></td><td><11</td><td></td><td></td></tr><tr><td>积分时间/ms</td><td></td><td></td><td>5</td><td></td><td></td></tr><tr><td>采样率</td><td></td><td></td><td>1.5 Gbps</td><td></td><td></td></tr></table></body></html>
+
+$2 3 . 8 ~ \mathrm { G H z }$ 辐射计采用单边带全功率型接收机体制，天线采用波纹喇叭天线。图1给出系统结构框图。天线接收的外面辐射通过极化分离器(OMT)分为两个正交极化状态，水平极化和垂直极化，然后通过放大(LNA）、滤波(Filter)和混频(Mixer)，进入中频模块。中频部分首先进行功分，一分为二，其中一路信号经过滤波和检波，生成传统的正交极化输出，另外一路经过正交解调，产生正交的IQ信号，进入数字相关器，进行交叉相乘，产生 $T _ { 3 }$ 和 $T _ { 4 }$ 信号。同时也能产生自相关 $T _ { v }$ 和 $\textstyle { \mathcal { T } } _ { h }$ 信号。本文直接分析数字相关器输出的4个Stokes电压信号。
+
+![](images/105bcf69b6bcb5cba227b03e3e206a0632919abd539f866e6cde55bc6b4493d7.jpg)  
+Fig.1Digital correlation full-polarization microwave radiometer system block diagram
+
+从图1可以看出，系统的稳定性主要体现在模拟器件的稳定性，包括前端部件增益的温度稳定性，放大器和检波器的温度特性。至于数字相关器，由于采用8位量化，效率几乎和模拟相关器相等，对于温度的依赖性很弱。
+
+# 2.2全极化定标源的原理
+
+全极化微波辐射计是一种新型的被动微波辐射测量设备，由于其同时测量自然目标辐射电磁波的4 个 Stokes 参量，其中第三和第四个Stokes 参数的比传统的第一和第二个Stokes参数小大约两个量级，因此不但需要能够同时产生4个Stokes参数的定标基准，而且对其定标精度的要求更加苛刻，定标精度要求优于 $0 . 5 \mathrm { ~ K ~ }$ 。全极化定标源的原理图如图2所示。其原理为：先通过处于环境温度的黑体和液氮冷却的黑体产生非极化信号，非极化信号通过极化分离器产生线极化信号，最后信号通过相位延迟板时，部分线极化信号转化为圆极化信号，从而产生全极化微波辐射计充分定标所需的4个Stokes参数
+
+图2所示的延迟板之前的Stokes矢量 $\overline { T }$ 可以表示为[6]：
+
+$$
+\begin{array} { r } { \bar { T } = \left[ \begin{array} { c } { T _ { \upsilon } } \\ { T _ { h } } \\ { T _ { 3 } } \\ { T _ { 4 } } \end{array} \right] = \left( \begin{array} { c c c c } { \cos ^ { 2 } \theta } & { \sin ^ { 2 } \theta } \\ { \sin ^ { 2 } \theta } & { \cos ^ { 2 } \theta } \\ { \sin 2 \theta } & { - \sin 2 \theta } \\ { 0 } & { 0 } \end{array} \right) \bullet \left( \begin{array} { c c c c } { r _ { \mathrm { I I } } } & { t _ { \mathrm { I I } } } & { L _ { \mathrm { I I } } } \\ { r _ { \perp } } & { t _ { \perp } } & { L _ { \perp } } \end{array} \right) \bullet \left( \begin{array} { c } { T _ { \mathrm { h o t } } } \\ { T _ { \mathrm { c o l d } } } \\ { T _ { \mathrm { G } } } \end{array} \right) } \end{array}
+$$
+
+其中： $r _ { \mathrm { I I } } \cdot t _ { \mathrm { I I } } \cdot L _ { \mathrm { I I } }$ 分别是网格线方向和电磁波极化方向平行时金属网格的反射系数、传输系数和欧姆损失； $r _ { \perp } \ldots t _ { \perp } \ldots L _ { \perp }$ 分别是垂直时的反射系数、传输系数和欧姆损失； $T _ { \mathrm { h o t } }$ 是热源温度， $T _ { \mathrm { c o l d } }$ 为冷源温度，
+
+$T _ { \mathit { G } }$ 是金属网格的物理温度。 $\theta$ 是网格线与天线垂直极化方向的夹角。
+
+![](images/8167dbaeda9c4456593c6185f51fb2dab0adfdea849c7f30b6d89547390c6e68.jpg)  
+图1数字相关型全极化微波辐射计系统框图  
+图2全极化定标源结构图  
+Fig.2Full polarization calibration source structure
+
+信号通过延迟板后包含两部分亮温的贡献，一个是信号本身亮温，另一个是延迟板亮温。具体计算参考Lahtinen等的研究，经过延迟板后的亮温$T _ { v \mathrm { ~ v ~ } } ^ { ' } T _ { h \mathrm { ~ v ~ } } ^ { ' } T _ { 3 \mathrm { ~ v ~ } } ^ { ' } T _ { 4 } ^ { ' }$ 为：
+
+$$
+\begin{array} { r l } & { T _ { v } ^ { ' } = Q _ { \mathrm { l v } } + Q _ { \mathrm { z r } } \cos ( 2 \varphi ) + Q _ { \mathrm { s r } } \cos ( 4 \varphi ) + } \\ & { \qquad Q _ { \mathrm { a s } } \sin ( 2 \varphi ) + Q _ { \mathrm { s } } \sin ( 4 \varphi ) + } \\ & { \qquad \frac { 1 } { 2 } T _ { v } \bigg [ 2 - \frac { 1 } { \hat { l } _ { \mathrm { l } } ^ { 2 } } - \frac { 1 } { \hat { l } _ { \mathrm { L } } ^ { 2 } } + \Big ( \frac { 1 } { \hat { l } _ { \mathrm { L } } ^ { 2 } } - \frac { 1 } { \hat { l } _ { \mathrm { l } } ^ { 2 } } \Big ) \cos ( 2 \varphi ) \bigg ] } \\ & { T _ { h } ^ { ' } = Q _ { \mathrm { d h } } + Q _ { \mathrm { a s } } \cos ( 2 \varphi ) + Q _ { \mathrm { s r } } \cos ( 4 \varphi ) + } \\ & { \qquad Q _ { \mathrm { a s } } \sin ( 2 \varphi ) + Q _ { \mathrm { s h } } \sin ( 4 \varphi ) + } \\ & { \qquad \frac { 1 } { 2 } T _ { v } \bigg [ 2 - \frac { 1 } { \hat { l } _ { \mathrm { l } } ^ { 2 } } - \frac { 1 } { \hat { l } _ { \mathrm { L } } ^ { 2 } } + \Big ( \frac { 1 } { \hat { l } _ { \mathrm { l } } ^ { 2 } } - \frac { 1 } { \hat { l } _ { \mathrm { L } } ^ { 2 } } \Big ) \cos ( 2 \varphi ) \bigg ] } \end{array}
+$$
+
+$$
+T _ { \mathrm { 3 } } = Q _ { \mathrm { 1 3 } } + Q _ { \mathrm { 2 3 } } \cos ( 2 \varphi ) + Q _ { \mathrm { 3 3 } } \cos ( 4 \varphi ) + Q _ { \mathrm { 4 3 } } \sin ( 2 \varphi ) +
+$$
+
+$$
+Q _ { 5 3 } \sin ( 4 \varphi ) + T _ { R } \Big ( \frac { 1 } { l _ { \perp } ^ { 2 } } - \frac { 1 } { l _ { | | } ^ { 2 } } \Big ) \sin ( 2 \varphi )
+$$
+
+$$
+T _ { 4 } = Q _ { 1 4 } + Q _ { 2 4 } \cos ( 2 \varphi ) + Q _ { 4 4 } \sin ( 2 \varphi )
+$$
+
+其中： $T _ { R }$ 为延迟板物理温度， $\varphi$ 为延迟板慢轴相对于垂直极化方向的旋转角， $l _ { 1 1 }$ 和 $l _ { \perp }$ 分别是平行和垂直于延迟板凹槽的插损。其中 $Q$ 的定义参考[7]。
+
+# 3温控方案及其定标过程的描述
+
+# 3.1全极化微波辐射计系统恒温控制方案设计
+
+$2 3 . 8 ~ \mathrm { G H z }$ 全极化辐射计采用一级整体控温方案，即通过控制辐射计接收机箱体内空气温度的变化，以对流的方式进行热交换，进而控制接收机内部关键模块(射频模块、中频模块)恒温。在恒温控制中，采用半导体制冷片作为控温元件，风冷散热为主要的散热方式。温度检测元件采用高精度铂电阻PT100[8]。系统安装示意图如图3所示：绝热箱体左右两侧安装半导体制冷组件，制冷片冷面朝向箱体内部，热面朝向箱体外部。制冷片冷/热面均安装散热片和风扇，加快箱体内/外空气流动。上下两侧做好绝热。铂电阻贴在射频模块和中频模块表面，用来采集被控物体的温度。实验过程中，射频模块和中频模块表面分别设置一个测温点，应用Lake-shore218测温仪实时监测温度变化。
+
+![](images/703cb66ca9f5f0fd9afc057382dcf2f4b9008c332a9437ba091519f7dd1fd1f0.jpg)  
+图3 $2 3 . 8 ~ \mathrm { G H z }$ 全极化辐射计恒温控制系统安装示意图 Fig.323.8 GHz full-polarization microwave radiometer thermostatic control system installation diagram
+
+针对恒温控制系统功能，基于微控制器STC89C54的核心控制电路主要包括5个部分：测温电路、数据采集控制电路、电源电路、驱动电路和微控制器，如图4所示。系统运行流程是：铂电阻PT100测量温度，将电压值输入到模拟开关；微控制器控制模拟开关，将所需通道的温度电压切换至A/D转换器；A/D将模拟量转化为数字量，方便微控制器处理；微控制器采用模糊增量PID算法，计算控制增量，调整输出PWM波形的占空比，从而调整驱动电路的驱动时间，进而控制制冷/加热时间，控制温度稳定。
+
+温度 大功率PT100测温电路 电源电路 驱动电路电压 小功率PWM模拟开关 制热选择控制 微控制器电压 STC89C54  
+AD转换电路 辅助电路数字量
+
+系统软件采用模糊增量PID控制算法，利用模糊控制和PID控制原理9，根据系统的偏差计算得到控制量，进而进行PID调节。系统控制流程图如图5所示。
+
+![](images/dd5107b1d08f26696a2623eefa91ca4ea7b3b204ed92717e09340c393daa7faf.jpg)  
+图4恒温控制硬件设计方案Fig.4The hardware design scheme ofthermostatic control system  
+图5恒温控制软件整体流程图  
+Fig.5The software flow of thermostatic control system
+
+恒温控制程序流程如下：系统首先进行多路温度采集，得到有效的实际温度；进而将实际温度与系统设定温度进行比较，得出偏差，此时调用模糊算法，整定控制系数 $K _ { \rho } \ 、 K _ { i } 、 K _ { d }$ ;通过增量PID控制器计算出控制增量，作用于温控执行部件，调整系统温度。根据偏差的大小选择不同的温控级别，有利于加快系统控制速度。
+
+# 3.223.8GHz全极化微波辐射计定标测试过程描述
+
+2015年2月 $1 0 \sim 1 2$ 日3天内进行了 $2 3 . 8 ~ \mathrm { G H z }$ 全极化微波辐射计的定标试验，试验包括几个不同的过程：首先是10日下午做了两次控温定标试验，辐射计观测全极化定标源，持续时间约 $^ \mathrm { ~ 1 ~ h ~ }$ ，然后不控温定标试验做了两次，持续时间约 $3 0 ~ \mathrm { m i n }$ 。不控温过程中，辐射计中频温度变化大约有 $1 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 。11日晚上和12日上午进行两次辐射计恒温试验，辐射计天线观测外部吸波材料。当完成恒温试验后，关闭温控电路，辐射计自然升温，进行了无温控试验。3月10日在2月10日试验的基础上增加外部黑体作为控制点，进行了恒温及非恒温的定标试验，至此试验全部结束。
+
+在定标过程中，将延迟板 $9 0 ^ { \circ }$ 放置，定标体从电机初始位置 $0 ^ { \circ }$ 开始随电机旋转，按 ${ 1 0 } ^ { \circ }$ 步进，第一次直到 $2 0 0 ^ { \circ }$ 结束，第二次直到 $3 7 0 ^ { \circ }$ 结束。辐射计天线不动，在角度稳定后记录定标源内部冷源和热源的温度，以及延迟板的温度。通过式(5）、（6)计算定标源的输出亮温。图7给出10日第一次温控过程中定标源的理论亮温。图8给出第一次和第二次温控过程中辐射计输出电压。以下所有数据图中：图标V表示V通道;H表示H通道;3表示第3通道；4表示第4通道； $\cdot _ { 1 } - \ast ^ { \prime \prime }$ 表示第一次试验所得结果；4 $\cdot _ { 2 } - \cdot _ { * } \ : ^ { , }$ 表示第二次试验所得结果。
+
+![](images/58b96a82f376f804406b32d6498b25f43d6983ea2ed42adda49c7646fb6608b7.jpg)  
+图6全极化定标源和 $2 3 . 8 ~ \mathrm { G H z }$ 数字相关辐射计定标照片 Fig.6The picture of full polarization calibration source and 23.8 GHz digital-correlation full-polarimetric microwaveradiometer
+
+![](images/bb226173d37cb6ccf27d5a63e4d020ec43b66fdf461b34e67d82df334a1c4269.jpg)  
+图7根据定标源参数和各个基准源温度获得的定标源输出亮温曲线图
+
+![](images/fdcbdbe7af715400e2394f75e12ce731892f820b2fc76ea89d2af4f063149ee6.jpg)  
+Fig.7The output temperature curve obtained by calibration according to the calibration source parameters and each reference source temperature light source   
+图8两次恒温测量过程中输出电压均值随着旋转角度的变化  
+Fig.8The mean output voltage with the change of rotation angle in the process of two thermostatic test
+
+可以看出电压变化满足理想的周期变化特征，与图7中的亮温是对应的。在每个旋转角，辐射计观测内部和外部的时间总共不超过 $2 \ \mathrm { m i n }$ ，在每个点的数据都是稳定的。
+
+# 4定标方法及其影响因素分析
+
+# 4.1温度对于辐射计输出电压的影响分析
+
+首先分析在室温条件下有无温控对于辐射计输出特性的影响。首先比较2月10日在温控条件下辐射计输出电压的均值(图8)。从图可以看出，两次试验重复性非常好，虽然第一次旋转角度到$2 0 0 ^ { \circ }$ ,第二次到 $3 6 0 ^ { \circ }$ ，前者的时间只有后者的一半，总计时间约 $^ \mathrm { ~ 1 ~ h ~ }$ 。而且图8中的电压均值对称性很好，说明系统温度没有明显改变，周期性产生的原因是定标源的温度变化的结果（图7）。
+
+图9给出测量电压的标准差曲线。这个变化曲线是系统灵敏度的表现。根据灵敏度 $\Delta T$ 的定义[10]：
+
+$$
+\Delta T = ( T _ { R } + T _ { A } ) \left[ \frac { 1 } { B \tau } + \left( \frac { \Delta G _ { S } } { G _ { S } } \right) ^ { 2 } \right] ^ { \frac { 1 } { 2 } }
+$$
+
+其中： $T _ { A }$ 为天线接收的外部目标温度， $T _ { R }$ 为接收机噪声温度， $B$ 接收机带宽， $\tau$ 为积分时间， $G _ { S }$ 为系统增益， $\Delta G _ { S }$ 为增益的变化。当温度恒定以后，方程中$T _ { R }$ 是恒定的， $B$ 和 $\tau$ 是常数， $G _ { S }$ 是缓慢变化的，短期内只受到器件特性和外界温度的影响，因此图9中的变化特性主要来自 $T _ { A }$ 的变化。 $T _ { A }$ 越高，灵敏度$\Delta T$ 越大。同样从图9可以看出系统的灵敏度是稳定的，说明系统处理除输入的 $T _ { A }$ 变化以外其他参数都是稳定的。
+
+![](images/d33a1941d76afb6c0f88a70a373ed057e5b31c28de5ee68fa369417d0c0258e1.jpg)  
+图9两次恒温测量过程中输出电压标准差随着旋转角度的变化  
+Fig.9 The standard deviation with the change of rotation angle in the process of two thermostatic test
+
+为了比较温度恒定对于输出电压的影响，图10和图11分别给出在没有温控条件下输出电压均值和标准差的变化比较。可以看出： $\boldsymbol { T } _ { v }$ 和 $\boldsymbol { T } _ { h }$ 电压均值的一致性不好，随着扫描角度的对称性变差; $T _ { v }$ 和 $\boldsymbol { T } _ { h }$ 电压标准差波动明显，两次差异增大，说明系统噪声温度的波动和接收机增益的变化明显。但是，对于 $T _ { 3 }$ 和 $T _ { \mathrm { 4 } }$ 两个通道的输出电压与环境温度相关性很小，基本上不受温度变化的影响，是稳定的周期变化，但是从图9和图11的比较可以看出标准差(灵敏度)受到温度的影响还是明显的。下面我们首先对上述电压数据进行定标，然后分析上述电压波动产生的亮温的大小，从而分析温度对于定标精度和定标周期的影响。
+
+![](images/d097ddcc725a7e00cb1825cdf4fb25e97aba7ee730b13f365c42ef6668884dc2.jpg)  
+图10无温控条件下输出电压均值的变化 Fig.10The mean output voltage with the change of rotation angle in the process of two test without thermostatic
+
+![](images/0494f6ac3acb775db4f7050e6be03565930bf8dcdd422de189279babc9064402.jpg)  
+图11无温控条件下输出电压标准差的变化 Fig.11The standard deviation with the change of rotation angle without thermostatic test
+
+# 4.2全极化辐射计的定标方法分析
+
+全极化辐射计的定标就是建立测量电压与定标源亮温之间的定标方程，确定定标系数[11]。全极化定标源的输出亮温是确定的，参看图7，因此定标就是从图7的亮温数据和图8的测量电压数据获取定标方程，从而得到测量目标输出电压所对应的亮温。定标方程(4)简化为：
+
+$$
+{ \left[ \begin{array} { l } { T _ { v } } \\ { T _ { h } } \\ { T _ { 3 } } \\ { T _ { 4 } } \end{array} \right] } = { \left[ \begin{array} { l l l l } { a _ { v v } } & { a _ { * h } } & { a _ { v 3 } } & { a _ { v 4 } } \\ { a _ { h v } } & { a _ { h h } } & { a _ { h 3 } } & { a _ { h 4 } } \\ { a _ { 3 v } } & { a _ { 3 h } } & { a _ { 3 3 } } & { a _ { 3 4 } } \\ { a _ { 4 v } } & { a _ { 4 h } } & { a _ { 4 3 } } & { a _ { 4 4 } } \end{array} \right] } { \left[ \begin{array} { l } { v _ { 1 } } \\ { v _ { 2 } } \\ { v _ { 3 } } \\ { v _ { 4 } } \end{array} \right] } + { \left[ \begin{array} { l } { b _ { v } } \\ { b _ { h } } \\ { b _ { 3 } } \\ { b _ { 4 } } \end{array} \right] }
+$$
+
+其中：系数 $a _ { \scriptscriptstyle  { p q } }$ 和 $b _ { \scriptscriptstyle \ P } ( \ b { \phi } , \ b { q } = \ b { v } , h , 3 , 4 )$ 通过定标获得。
+
+由于不同角度下4个Stokes参数之间是完全相关的，因此通过任意5个角度的电压和定标源亮温求解定标方程是很难得到确切解的，通常需要引入至少1组不相关的独立测量。3月10日试验增加了外部黑体作为控制点，恒温试验过程中，在定标源旋转的每个角度下，微波辐射计分别观测全极化定标源和外部黑体各一次，并分别记录试验数据。利用辐射计观测的数据，结合定标方程，可以求出定标系数矩阵。由于外部黑体的观测数据与全极化定标源数据是不相关的，根据五点法的定标方法，若系统稳定，则任意选择其中的5个角度数据即可求出定标系数。
+
+在求解之前还需要修正扫描角度的偏差。根据全极化辐射计的响应特性，在理想情况下， $T _ { 3 }$ 和 $T _ { \mathrm { 4 } }$ 出现0值点在 $0 ^ { \circ } , 9 0 ^ { \circ } , 1 8 0 ^ { \circ } , 2 7 0 ^ { \circ } , 3 6 0 ^ { \circ }$ 等特殊角度上，但是由于辐射计安装、转动平衡和扫描角度的精度等问题，出现0值点的位置会出现偏差。这个偏差需要修正，从而确定定标源实际辐射亮温。修正方法是从辐射计测量电压的 $T _ { 3 }$ 和 $T _ { \mathrm { 4 } }$ 的交点确定偏离角度，在每个 $9 0 ^ { \circ }$ 范围内调整角度的偏差，最终得到实际旋转角度。图8中，在 $0 ^ { \circ } , 9 0 ^ { \circ } , 1 8 0 ^ { \circ } , 2 7 0 ^ { \circ } 4$ 个角度上实际测量的扫描角分别 $2 . 4 ^ { \circ } , 9 1 . 4 ^ { \circ } , 1 8 1 . 5 ^ { \circ } , 2 7 1 . 4 ^ { \circ }$ ，可见除了第一个角度以外，基本上偏大 $1 . 4 ^ { \circ } { \sim } 1 . 5 ^ { \circ }$ 。第一个点由于是起始角度，可能存在定位偏差。因此将这个角度偏差作为修正理论亮温角度的依据。
+
+实际计算时，选取最为临近的5个角度下观测全极化定标源和外部黑体输出的电压数据，结合理论亮温数据，求得定标系数。图12是根据5点法求解出的32个角度下的 $T _ { v }$ 通道的定标系数。（其他通道结果类似，这里不再单独给出）。
+
+![](images/8da88f20b9a02357cbb27445520963798546ddb37fc75ec5b48bbc7c62194e70.jpg)  
+图12Tv通道32个点的定标系数随着扫描角度的变化 Fig.12The calibration coefficients of Tv channel 32 points as the change of scanning angle
+
+将求得的定标系数代回原方程内，根据实际测得的电压求得亮温值，将此亮温与定标源的理论亮温值进行比较，可以看出两者之间存在误差，用这个误差的均方根（RMS)分析定标方程的有效性。为了验证定标方程的有效性，分析定标周期的时长，分别采用临近5点、6点、7点、8点的数据进行定标系数的计算，将每次求得的定标矩阵带回原方程，求得不同计算点数下的定标误差如图 $1 3 \sim 1 6$ 所示。
+
+![](images/bfbf3ca369c69d9d3c45c358d37aec54920636f624f95f97473d8986e421f800.jpg)  
+图135点定标的定标误差随角度的变化情况
+
+![](images/6cf305d6e4b10fef33be65e8e957e40beba66a3bf6ddf7b33cd6a90110614eee.jpg)  
+Fig.13Every angle calibration errorin the five points calibration   
+图146点定标的定标误差随角度的变化情况
+
+![](images/ba0301dbe83fd33ddace576099b1e09898b21665b0d7062f942ada2977586741.jpg)  
+Fig.14Every angle calibration error in the six points calibration   
+图157点定标的定标误差随角度的变化情况 Fig.15Every angle calibration error in the seven points calibration
+
+![](images/70e4873c28ce64db166ddd0c183bb295a1b093789f4f085d5b184f9dcfe7bbff.jpg)  
+图168点定标定标误差随目标亮温的变化 Fig.16Every angle calibration error in the eight points calibration
+
+由图 $1 3 \sim 1 6$ 可知，采用5点、6点和7点的计算结果，大部分测试点下的 $T _ { v } \setminus T _ { h } \setminus T _ { 3 } \setminus T _ { 4 }$ 通道的均方根误差分别为： $\boldsymbol { T } _ { \boldsymbol { v } }$ 通道 $< \ 0 . \ 2 \ \mathrm { ~ K ~ }$ ， $\smash { T _ { h _ { \mathrm { ~ \ell ~ } } } }$ 通道 $<$ $0 . 2 5 ~ \mathrm { K } , T _ { 3 }$ 通道 $< 0 . 3 \ \mathrm { K } , T _ { 4 }$ 通道 $< 0 . 1 5 \mathrm { ~ K ~ }$ 。其中$2 3 \sim 2 6$ 点误差偏大是由外部黑体温度剧烈波动引起的。8点的测量结果误差仍在可控的范围内，但是整体结果不如5点、6点和7点的情况。原因可能是时间较长系统的稳定性变差。
+
+在无温控情况下，待辐射计接收机温度自然上升至较为稳定，定标源从 $0 \sim 3 6 0 ^ { \circ }$ 以 ${ 1 0 } ^ { \circ }$ 为步进旋转，采集每个角度下辐射计观测全极化定标源和黑体的电压输出数据。采用同样的方法来进行定标系数和定标误差的计算。图17为无温控5点法定标误差。$T _ { v }$ RMS最大达到 $1 . 5 \mathrm { ~ K ~ } , T _ { h }$ RMS 最大约为 $1 . 6 ~ \mathrm { K } , T _ { 3 }$ 最大约为 $1 . 3 ~ \mathrm { K } , T _ { 4 }$ 最大约为 $0 . 5 5 \mathrm { ~ K ~ }$ 。证明了无恒温情况下，五点法定标难以实现较高的精度。
+
+![](images/36ae1a2500d7c9c469414a4a42f2474e26cbee92d76d439dd992a8465dd60549.jpg)  
+图17无温控情况5点法定标误差  
+Fig.17Every angle calibration error in the five points calibration without temperature control
+
+# 4.3温度对于定标的影响
+
+4.3.1温度对于灵敏度的影响系统温度稳定前后观测相同目标的输出电压波动是不同的，这从前面图9和图11的比较就可以看出，当温度稳定时，输出电压是稳定的，前后两次的标准差是相同的，对应的亮温变化如图18所示，可见V和H通道是随着旋转角周期变化的，等效为随着观测目标的亮温升高而增大，这主要是灵敏度变化的结果。但是第三和四两个通道的灵敏度是不随目标的亮温变化而变化的。这主要是由于这两个通道的灵敏度主要受到V和H通道的噪声温度的乘积决定的(参看式(9)）。由于 $\mathrm { \Delta V }$ 和H的噪声温度变化趋势相反，乘积后变化基本上抵消，因此， $T _ { 3 }$ 和 $T _ { 4 }$ 的灵敏度只是比V和H的灵敏度大约1.4倍。
+
+$$
+\Delta T _ { ^ 3 / 4 } = \sqrt { \frac { 2 T _ { s r s , v } T _ { s r s , H } } { B \tau } } = \sqrt { 2 \Delta T _ { v } \Delta T _ { H } }
+$$
+
+![](images/08478099a5cb72a6b815c143300d623b641fe0544b03be0b5adf7a58697f7e12.jpg)  
+图18温控条件下辐射计灵敏度的变化 Fig.18The change of the radiometer sensitivity with thermostatic control
+
+图19给出没有温控时灵敏度的变化，很容易看到两次测量的温度变化差别以及随着时间推移温度的变化。需要说明的是温控不能改善灵敏度，只是
+
+![](images/0250ab4ff5cfe9d7e34ef586ba024d59d738aff010f5cd1f8a276176c62eddce.jpg)  
+图19无温控条件下辐射计灵敏度的变化 Fig.19The change of the radiometer sensitivity without thermostatic control
+
+使测量结果波动变小，结果一致性更好。
+
+# 4.3.2辐射计在有无温控时观测相同目标的输出响应变化分析
+
+在2月11日试验中，辐射计的观测目标为泡沫吸波材料，温度为环境温度，用测温仪实时测量其温度的变化(图20)。可以看出射频温度和环境温度有一个缓慢的上升，最大约 $0 . 5 \mathrm { ~ K ~ }$ 。中频温度基本恒定。
+
+![](images/790b3e9b265edeae1e13a749185d70f60ea10734c8d0de6b2c45b1fee1d610c0.jpg)  
+图20试验期间测量的温度变化的比较  
+Fig.20The temperature change measurement during the test
+
+图21给出这段时间内4个Stokes参数电压的输出变化。2月12日恒温数据类似，由于篇幅问题这里不再给出。可以看出，整个实验过程中，电压波动很小，4个通道的均值和标准差分别为： $1 . 7 0 7 \times 1 0 ^ { 1 0 } \pm$ $1 . 4 4 2 \times { 1 0 ^ { 7 } } \cdot { 7 . 4 3 3 } \times { 1 0 ^ { 9 } } \pm 8 . 2 8 2 \times { 1 0 ^ { 6 } } \cdot 1 . 5 0 4 \times { 1 0 ^ { 6 } } \pm$ $4 . 3 9 4 \times 1 0 ^ { 6 } \_ - 3 . 5 8 1 \times 1 0 ^ { 6 } \pm 4 . 9 2 3 \times 1 0 ^ { 6 }$ 。可以看出系统是稳定的，标准差就是对应目标的测量灵敏度。
+
+当撤除温度控制单元以后，获得的辐射计输出如图22所示。其中第一、二通道输出电压直接下降，但对于第三和第四通道没有影响，因为目标是黑体。在 $4 2 ~ \mathrm { m i n }$ 内， $\mathrm { ~ V ~ }$ 和 $\mathrm { ~ H ~ }$ 通道的电压分别变化了$1 . 9 3 7 \times 1 0 ^ { 9 }$ 和 $0 . 8 2 4 \times 1 0 ^ { 9 }$ 。期间目标亮温没有改变。因此为了获得准确的目标亮温，一种方法是通过温控，使系统稳定；另一种方法是快速定标，定标周期要小于温度变化的可接受范围，也就是不能大于灵敏度，这里约 $1 0 \mathrm { ~ s ~ }$ 左右，也就是需要在10s完成至少5个角度的定标测量，才能满足定标精度需求。但是对于地面实际测量来讲这个周期太短，很难实现。因此系统恒温是一个简单易行的保证辐射计定标精度的方法。当然，主要是 $\boldsymbol { T } _ { \boldsymbol { v } }$ 和 $\boldsymbol { T } _ { h }$ 的定标。 $T _ { 3 }$ 和 $T _ { \mathrm { 4 } }$ 的定标不受这个因素制约。
+
+# 4.3.3在全极化定标体制下定标方程有效性分析
+
+前面图15给出了定标方程(8)的各个系数随着观测角度的变化，但是图15中的系数是波动的，将该系数进行平均，分析平均定标系数能否用于所有测量数据的定标。这里把这个系数带入到原测量数据中，分析定标后的亮温与定标源实际亮温的关系。图23给出了恒温测量亮温与定标源亮温的差。可以看出，利用均值系数定标得到的亮温与实际亮温的差不是稳定的，因此不能用于整体定标。原因可能在于每次定标使用的亮温是连续7个角度的亮温，动态范围是不够的，由于辐射计系统存在一定的非线性，因此得到的局部定标系数是存在非线性的差异的，这样作为均值，同样存在系统的非线性影响，所以代入原测量数据中，就不一定具有全局代表性。但是从图15也可以看出，7个点实现一个完整定标，这个定标周期本身就在 $8 ~ \mathrm { m i n }$ 左右，对于全功率辐射计，如果不恒温是不能采用一组定标系数的，一般该类型的星载微波辐射计，定标周期在几秒级，因此，恒温控制对于系统定标是产生明显效果的。若实现几十分钟时长的定标周期，可能需要其他因素，如器件性能指标、测量范围等，这些在以后还将进一步分析。
+
+![](images/2cd75a47a516e3dd537319782eb8775a70e7deb3b7c57643ebd692754de068cb.jpg)  
+图212015年2月11日 $2 2 : 1 9 \sim 2 3 : 0 3 ~ 4 4 \mathrm { { m i n } }$ 内辐射计输出电压的变化
+
+![](images/fdb77a3177862d64459fc21d92312bf95bdae0a5efb1414d1a82723b92554351.jpg)  
+Fig.21The changes of radiometer output voltage in 44 minuteson February 11,2015   
+图22没有温控时辐射计输出的变化  
+Fig.22The changes of radiometer output voltage without thermostatic control
+
+# 5结语
+
+数字相关型全极化微波辐射计是目前研究和应用的一个重要方向。为了获得更好的测量效果，需要了解这种类型辐射计的特点以及影响因素，尤其是定标方法及其影响因素。在这些影响因素中，辐射计的工作温度的变化直接影响系统的灵敏度，进而决定了定标方法和定标周期的设置。
+
+本文针对一台 $2 3 . 8 ~ \mathrm { G H z }$ 的数字相关型全极化微波辐射计，研究了微波辐射计的系统温控方法，并通过试验分析温度对于微波辐射计的定标精度、灵敏度的影响，并分析定标系数随着定标周期长度的变化，结果表明：温度稳定对 $T _ { 3 }$ 和 $T _ { \mathrm { 4 } }$ 的直接影响很小，但是对于 $\boldsymbol { T } _ { v }$ 和 $\boldsymbol { T } _ { h }$ 的影响很大，因此决定了定标周期和定标方程的有效性。另外，通过测量数据可以看出，虽然全极化数字相关辐射计需要实时定标，但是恒温控制下定标周期可以大大延长，可以实现十分钟量级的定标周期。同时发现， $T _ { 3 }$ 和 $T _ { 4 }$ 的灵敏度基本上不受目标温度变化的影响。
+
+![](images/7ea915b6274f00ba9f4278bd5d52e18e133f54a15d887af8cf83ed81672ab112.jpg)  
+图23利用平均定标系数定标的恒温测量亮温与定标源亮温的差 The difference between the thermostatic measuring light temperature and calibration source temperature by using the average calibration coefficient
+
+对于辐射计的精确定标需要控制全极化定标源的各个部件温度、外部定标黑体温度，以及辐射计的射频和中频温度，这是一个非常复杂的试验，同时在试验中，恒温控制系统的调节使散热部件的散热功率变化，导致周围环境温度的变化较为剧烈，这也增加了定标的不确定性，这些问题会在后续试验中不断改进并进一步分析各种因素的影响。
+
+# 参考文献(References)：
+
+[1]Duric A.Development of a Polarimetric Imaging Radiometer System at 91 GHz[D].Bern,Switzerland:University of Bern, 2006.   
+[2] Skou N,Laursen B,Sobjaerg S.Polarimetric Radiometer Configurations：Potential Accuracy and Sensitivity [J].IEEE Transactions on Geoscience and Remote Sensing，1999，37 (5):2165-71.   
+[3]Thompson A R,dAddario L R.Frequency Response of a Synthesis Array:Performance Limitations and Design Tolerances [J].Radio Science,1982,17(2):357-69.   
+[4]Liu Jingyi.Research on Problems of Polarimetric Microwave Radio -meter Calibration and Wind Vector Retrieval[D].Beijing:Center for Space Science and Applied Research,Chinese academyof sciences,Beijing，2oo7.[刘璟怡.全极化微波辐射 计定标和风场反演若干问题研究[D].北京：中国科学院空间 科学与应用研究中心，2007.]   
+[5]Wang ZZ,Zheng W,Liu JY,et al.A Digital Correlation Fullpolarimetric Microwave Radiometer Design and Calibration [C]//IEEE International Geoscience and Remote Sensing Symposium,2012:4688-4690.   
+[6]Lahtinen J,Gasiewski AJ,Klein M,etal.A Calibration Method for Fully Polarimetric Microwave Radiometers[J].IEEE Transactions on Geoscience and Remote Sensing，2003，41 (3):588-602   
+[7]Lahtinen J,Pihlfyckt J,Mononen K,et al.Fully Polarimetric Microwave Radiometer for Remote Sensing[J].IEEE Transactions on Geoscience and Remote Sensing，2oo3，41（8）： 1869-1878.   
+[8]Zhang Yu,Zhang Shengwei. A Design of High Accurate Temperature Measuring System based on Platinum Resistance Transducers[J].Chinese Journal of Sensors and Actuators, 2010,23(3)：311-314.[张瑜，张升伟.基于铂电阻传感器的高 精度温度检测系统设计[J].传感技术学报，2010,23(3)：311- 314.]   
+[9] Huang Yourui,Qu Liguo.The PID Controller Parameter Setting and Implementation[M].Beijing：Science Press，2010. [黄友锐，曲立国.PID控制器参数整定与实现[M].北京：科 学出版社,2010.]
+
+[10]Ulaby FT,Moore RK,Fung A K.Microwave Remote Sens-ing Volume I:Fundamentals and Radiometry[M].Beijing:SciencePress，1988.[乌拉比，穆尔，冯健超.微波遥感（第一卷)：微波遥感基础和辐射测量学[M.北京：科学出版社，1988.]
+
+[11]Lu Hao.Design,Calibration and Error Analysis of Digital-cor-relation Fully Polarimetric Microwave Radiometer[D].Beijing:University of Chinese Academy of Sciences,2ol2.[陆浩，数字相关型全极化微波辐射计的研制、定标和误差分析[D].北京：中国科学院大学，2012.]
+
+# Calibration and Impact Analysis of 23.8 GHz Digital-correlation Full-polarimetric Microwave Radiometer
+
+Wang Zhenzhan $_ { . } ^ { 1 , 2 }$ ,Xie Ying1,2.3 ,Lu Hao $^ { 1 , 2 }$ ,Dong Shuai1,2,3 ,Li Bin1,2 (1. Key Laboratory of Microwave Remote Sensing Technology ， Chinese Academy of Sciences,Beijing lool9o,China; 2.Center for Space Science and Applied Research,Chinese Academy of Sciences,Beijing 1Oo19o,China; 3.University of Chinese Academy of Sciences,Beijing lOo049,China)
+
+Abstract:Temperature control is a simple and effective way to improve the system stability of the totalpower-type microwave radiometer,the full-polarimetric microwave radiometer can achieve high precision measurement for retrieving the sea surface wind vector by the method. Using a 23.8 GHz digital-correlation full-polarimetric microwave radiometer,considering the effects of temperature on calibration of the polarimeter and adopting a special temperature control scheme,a constant temperature control system was designed to make the radiometer work stably.The experimental results show that the constant temperature control scheme can make the radiometer work in a stable state which can simplify the calibration process, make the calibration cycle longer and ensure the accuracy requirement of the calibration.
+
+Key Words: Full-polarimetric microwave radiometer;Calibration cycle;Sensitivity;Temperature control

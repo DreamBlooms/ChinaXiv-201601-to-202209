@@ -1,0 +1,308 @@
+[
+    {
+        "type": "text",
+        "text": "基出研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "STOML-2过表达抑制人宫颈鳞癌Siha细胞凋亡",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "胡国林',姚广裕'，邓欢²,赵可雷,许斐斐1，梁卫江」，刘国炳1  \n1南方医科大学南方医院,广东广州 510515；南方医科大学第三附属医院,广东广州 510631;新乡医学院第  \n一附属医院,河南 新乡 453199",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的 研究STOML-2过表达抑制人宫颈鳞癌Siha细胞凋亡的机制，以期为宫颈癌的治疗开辟新的路径。方法 用携带STOML-2基因的腺病毒感染Siha细胞作为过表达组，同时设立空白载体组及空白组作为对照,72h后用Westemblot检测STOML-2的过表达，并用MTT法检测STOML-2过表达对细胞增殖的影响。用 $\\mathrm { I C } _ { 5 0 }$ 的顺铂处理各组细胞24h后，利用荧光显微镜观察STOML-2过表达对细胞凋亡的影响，并利用流式细胞仪进一步分析细胞的凋亡率;采用Westemblot检测线粒体凋亡途径相关蛋白caspase3、cleaved-caspase3、Bcl-2、Bax以及线粒体内外细胞色素C(Cyt C)表达量的变化。结果与空白组及空白载体组相比，Westemblot结果显示过表达组STOML-2的表达量明显增加;MTT结果显示,STOML-2过表达后可明显促进Siha细胞的增殖。用 $\\mathrm { I C } _ { 5 0 }$ 的顺铂处理细胞24h后，荧光显微镜下，空白载体组凋亡细胞的细胞核大小不一，浓染致密的蓝色荧光显示核固缩，部分核裂解为凋亡小体，而过表达组细胞核多较完整，着色较浅，染色质密度均匀一致，并且流式细胞仪结果同样提示STOML-2过表达后细胞凋亡率明显降低。Westerm blot结果显示过表达组线粒体凋亡途径相关蛋白cleaved-caspase3、Bax以及线粒体外CytC表达水平降低,而caspase3、Bcl-2及线粒体内CytC的表达水平则相应升高。结论 STOML-2过表达可以促进Siha细胞增殖，其抑制凋亡的机制可能与线粒体凋亡途径相关。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：宫颈鳞癌;STOML-2;线粒体凋亡途径",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Overexpression of STOML-2 inhibits apoptosis of human cervical squamous carcinoma Siha cells in vitro ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HU Guolin',YAO Guangyu',DENG Huan2,ZHAO Kelei3,XUFeifei’,LIANG Weijiang',LIUGuobing Nanfangsialoedicalesityaunadfedialftedicli Guangzhou510631,China;3TheFirstAfliated HospitalOf XinxiangMedicalUniversity,Xinxiang453199China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ObjectiveToinvestigatethe mechanismunderlying the inhibitory efectof STOML-2overexpressiononapoptosis of human cervical squamous carcinoma Siha cells. Methods Siha cels were transfected with an adenoviral vector carryng STOML-2, and $^ { 7 2 \\mathrm { ~ h ~ } }$ later STOML-2 expression and the proliferation of the cells were detected by Western blotting and MTT assay. The transfected cells were treated with $\\mathrm { I C } _ { 5 0 }$ Cisplatin for $2 4 \\ \\mathrm { h } ,$ and the morphological changes of cells were observed using fluorescence,and thecellapoptosis wasanalyzed using flowcytomerty;theexpressionlevelsofproteinsrelatedwith mitochondrialpptosisthayudingspase3,eaedcaspse-3,cl-2dcochoeC(CytC,eeted by Western blotting. Results Western blotting showed a significantly increased STOML-2 expression in the transfected clls. Overexpressionof STOML-2obviouslypromoted theproliferationofSihacells.The STOML-2-overexpressingcellsexhbited an obvious resistance to $\\mathrm { I C } _ { 5 0 }$ Cisplatin-induced apoptosis as shown by both fluorescence microscopy and flow cytometry and presented withdecreased expresionsofcleavedcaspase-3,BaxandcytosolCytCand increased expressonsofspase-3, Bcl-2,and mitochondrial CytC.Conclusion Overexpresionof STOML-2can enhance the proliferationof Sihacells by inhibiting cellapoptosis possibly through the mitochondrial apoptosis pathway. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: cervical squamous carcinoma; STOML-2; mitochondrial apoptosis pathway ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "STOML-2是stomatin家族的新成员，具有stomatin家族共有的一致序列，但不具有N端跨膜区域，因此,STOML-2发挥功能的机制可能与其他成员不同[-2]。STOML-2定位于线粒体内膜,其在食管癌、肺癌、子宫内膜癌等多种肿瘤均高表达[3-4],但其在宫颈癌组织中表达量的高低文献报道不一[5-9]。我们实验室采用免疫组化Realtime-PCR以及Westernblot检测宫颈癌组织中的表达情况，发现癌组织中STOML-2的表达都比对应的癌旁组织高[8],但对其抑制宫颈癌细胞凋亡的机制尚未进行研究，且国内外均未见相关报道。本实验以人宫颈鳞癌Siha细胞为研究对象，以腺病毒为载体介导STOML-2过表达，研究其对细胞增殖的影响以及抑制宫颈癌细胞凋亡的机制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 材料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人宫颈鳞癌Siha细胞由南方医院肿瘤科实验室惠赠,RPMI1640培养基(Hyclone),四季青胎牛血清（杭州四季青生物制品公司),STOML-2腺病毒及空载体腺病毒(美国ViGeneBiosciences)，顺铂(江苏豪森药业)，MTT(Sigma)，Hoechst33258(武汉谷歌生物），兔抗人$\\mathfrak { a }$ -tubulin（enogene）、兔抗人caspase3及cleaved-cas-pase3抗体(CST)、兔抗人CytochromeC、Bcl-2、Bax抗体(abcam）羊抗兔荧光二抗(LI-COR)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1Siha细胞及其培养将Siha细胞常规培养于含体积分数为 $10 \\%$ 胎牛血清的RPMI1640培养基中，在$3 7 \\ \\mathrm { ^ { \\circ } C }$ 饱和湿度及含 $5 \\%$ $\\mathrm { C O } _ { 2 }$ 的培养箱中传代培养。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2腺病毒感染Siha细胞将Siha细胞按照20万/孔接种于6孔板上，过夜细胞贴壁后换液，按MOI(multiplicityof infection) $\\scriptstyle = 5 0$ 将腺病毒加入完全培养基中感染细胞， $7 2 \\mathrm { { h } }$ 后提取全蛋白，采用Westernblot检测STOML-2的表达。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$1 . 2 . 3 \\ \\mathrm { M T T }$ 法检测STOML-2过表达后对细胞增殖的影响取对数生长期的Siha细胞，将细胞按7000/孔接种于96孔板上，每孔 $2 0 0 ~ \\mu \\mathrm { L }$ 完全培养基，设5个复孔，按$\\mathbf { M O I } { = } 5 0$ 将腺病毒加入全培中感染细胞， $7 2 \\mathrm { { h } }$ 后每孔加入 $2 0 \\mu \\mathrm { L }$ 浓度为 $5 \\mathrm { m g / m L }$ 的MTT溶液，避光 $, 3 7 ^ { \\circ } \\mathrm { C }$ 孵育$^ { 4 \\mathrm { h } }$ ，小心去掉孔内培养液,每孔加入 $1 5 0 ~ \\mu \\mathrm { L }$ DMSO,置摇床上低速振荡 $1 0 \\mathrm { m i n }$ ,使结晶物充分溶解。用酶联免疫检测仪测定吸光值( $\\scriptstyle \\mathbf { X = 4 9 0 \\ n m }$ ),实验重复3次以上。1.2.4MTT法检测顺铂的 $\\mathrm { I C } _ { 5 0 }$ 取对数生长期的Siha细胞,将细胞按7000个孔接种于96孔板上，每孔 $2 0 0 ~ \\mu \\mathrm { L }$ 完全培养基，设5个复孔， $7 2 \\mathrm { { h } }$ 后换成顺铂终浓度为0、$2 . 5 , 5 , 1 0 , 2 0 , 3 0 , 4 0 , 5 0 , 6 0 , \\mu \\mathrm { g / m L }$ 的完全培养基，继续培养 $2 4 \\mathrm { ~ h ~ }$ 后每孔加入 $2 0 ~ \\mu \\mathrm { L }$ 浓度为 $5 ~ \\mathrm { m g / m L }$ 的MTT溶液，避光 $, 3 7 ^ { \\circ } \\mathrm { C }$ 孵育 $\\mathrm { 4 h _ { \\circ } }$ 小心去掉孔内培养液，每孔加入 $1 5 0 ~ \\mu \\mathrm { L }$ DMSO,置摇床上低速振荡 $1 0 \\mathrm { m i n }$ ，使结晶物充分溶解。用酶联免疫检测仪测定吸光值 $\\scriptstyle \\mathbf { X } = 4 9 0 \\ n \\ m$ ，抑制率 $( \\% )$ )=(处理组-调零孔)/(对照组-调零孔) $1 \\times 1 0 0 \\%$ 取其平均值。实验重复3次以上。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.5Hoechst33258染色观察细胞形态取对数生长期的Siha细胞，将细胞按7000/孔接种于96孔板上，每孔 $2 0 0 ~ \\mu \\mathrm { L }$ 完全培养基，设3个复孔，按 $\\mathrm { \\bf M O I } { = } 5 0$ 将腺病毒加入全培中感染细胞， $4 8 \\mathrm { ~ h ~ }$ 后换成顺铂终浓度为$1 5 ~ \\mu \\mathrm { g / m L }$ 的完全培养基，继续培养 $2 4 \\mathrm { h }$ 后，去上清，室温下用 $4 \\%$ 多聚甲醛固定液固定 $3 0 ~ \\mathrm { m i n }$ ,用PBS洗涤3次，每孔加入 $5 0 ~ \\mu \\mathrm { L }$ 的Hoechst33258避光条件下染色$1 5 ~ \\mathrm { m i n }$ ，再用PBS洗涤3次，在荧光显微镜下观察细胞核形态变化。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.6流式细胞仪检测细胞凋亡率取对数生长期的Siha细胞按照20万/孔接种于6孔板上，过夜细胞贴壁后换液，按 $\\mathrm { M O I } { = } 5 0$ 将腺病毒加入全培中感染细胞，$7 2 \\mathrm { { h } }$ 后换成顺铂终浓度为 $1 5 ~ \\mu \\mathrm { g / m L }$ 的完全培养基，继续培养6h后，收集细胞,用AnnexinV-FITC和PI标记，用流式细胞仪检测，分析凋亡细胞的比例。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.7Westernblot分析取对数生长期的Siha细胞按照100万/皿接种于大皿，过夜细胞贴壁后换液，按$\\mathbf { M O I } { = } 5 0$ 将腺病毒加入全培中感染细胞，72h后换成顺铂终浓度为 $1 5 ~ \\mu \\mathrm { g / m L }$ 的完全培养基,继续培养24h后，按照全蛋白试剂盒和细胞线粒体分离试剂盒收集并裂解细胞，得到细胞全蛋白、线粒体蛋白及胞浆蛋白，用BCA法对蛋白样品进行定量。取等量蛋白样品用 $12 \\%$ SDS-PAGE进行电泳,恒压将蛋白转至PVDF膜。室温下将膜在含 $5 \\%$ 脱脂奶粉的TBST溶液中封闭1h,按照适当的稀释度加入一抗， $4 ^ { \\circ } \\mathrm { C }$ 孵育过夜，荧光二抗室温孵育1h,应用Westernbolt检测系统测定caspase3、cleaved-caspase3、Bcl-2、Bax以及线粒体内外CytC的表达水平。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3统计学处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用SPSS20.0统计软件，实验数据以均数+标准差表示，组间比较采用单因素方差分析， $P { < } 0 . 0 5$ 认为差异具有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1腺病毒感染Siha细胞后STOML-2的表达",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Westernbolt结果如图1所示,用携带STOML-2基因的腺病毒转染Siha细胞72h后STOML-2的表达明显增加，说明外源性的STOML-2基因可以在Siha细胞中过表达。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/30e588f92ded94176cdd81e3a3f7d36488a223e6f20e9a7a6c4119a8fcbf2978.jpg",
+        "img_caption": [
+            "图1腺病毒感染Siha细胞 $7 2 \\mathrm { { h } }$ 后STOML-2的表达 Fig.1 Expression of STOML-2 after transfection in Siha cells.1:Blank group;2: Empty vector transfection group; 3: Overexpression group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2STOML-2过表达对细胞增殖的影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MTT结果显示，STOML-2过表达后明显促进Siha细胞的增殖，同空白组和空载体组相比，结果具有显著统计学差异 $( 0 . 5 4 5 \\pm 0 . 0 8 0$ vs $0 . 5 4 8 \\pm 0 . 0 1 0$ vs $0 . 6 3 6 \\pm$ $0 . 0 5 7 , P { < } 0 . 0 0 0 1 )$ ，而空白组与空载体组无统计学差异。2.3MTT法检测顺铂的 $\\mathrm { I C } _ { 5 0 }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "用不用浓度的顺铂处理Siha细胞 $2 4 \\mathrm { h }$ 后，MTT结果显示，随着顺铂浓度的增加，其对Siha细胞的杀伤率越来越高(图2),计算得 $\\mathrm { I C _ { 5 0 } } { \\approx } 1 5 ~ { \\mu \\mathrm { g / m L } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8629724afd7aaaaf8dc30b9569a7798a7516aa457d1320d34f03c3c4c4fc3cb4.jpg",
+        "img_caption": [
+            "图2不同浓度的顺铂对Siha细胞的杀伤作用 Fig.2 Changes in the viability of Siha cells after treatment with cisplatin. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4Hoechst33258染色检测细胞凋亡 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "细胞发生凋亡时往往出现细胞核形态的改变。用终浓度为 $1 5 ~ \\mu \\mathrm { g / m L }$ 的顺铂处理Siha细胞 $2 4 \\mathrm { ~ h ~ }$ 后，其Hoechst33258染色结果如图3所示，空白组和空载体组细胞表现为凋亡细胞的细胞核大小不一，浓染致密的蓝色荧光显示核固缩，部分核裂解为凋亡小体，而过表达组细胞核多较完整，着色较浅，染色质密度均匀一致，说明经同浓度的顺铂处理后STOML-2过表达组细胞调亡减少。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5流式细胞仪结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用终浓度为 $1 5 ~ \\mu \\mathrm { g / m L }$ 的顺铂作用于Siha细胞6h后，收集细胞，采用AnnexinV-FITC/PI双染，上机检测细胞凋亡。结果如图4所示，与空白组及空载体组相比，过表达组早期凋亡率明显减少且具有统计学差异1 $3 6 . 3 0 { \\scriptstyle \\pm 5 . 7 2 }$ vs $3 9 . 7 7 { \\scriptstyle \\pm 7 . 3 4 }$ vS $9 . 1 0 { \\pm } 5 . 1 6 , P { < } 0 . 0 1 ,$ ，且总凋亡率也明显减少且具有统计学差异( $5 1 . 4 0 { \\scriptstyle \\pm 4 . 8 0 }$ ss$6 1 . 5 3 { \\pm } 7 . 1 7$ vs $2 0 . 3 0 { \\scriptstyle \\pm 9 . 9 6 , P < 0 . 0 1 } \\rangle$ ,空白组与空载体组相比早期凋亡率及总凋亡率均无统计学差异。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/96122bb662258ec1d54aa174cbdabf243b12595b6c0369a9c166229fe5f67de4.jpg",
+        "img_caption": [
+            "图3荧光显微镜下观察STOML-2过表达后对Siha细胞形态的影响 Fig.3Fluorescence microscope of morphological changes of Sihacels after Cisplatin exposure (Original magnification: $\\times 4 0 0$ ） A: Blank group; B: Blank group+Cisplatin; C:Empty vector transfection group+Cisplatin;D: Everexpression group+Cisplatin. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/240d08edf2f2946c58b205b7fea4ccb9290d0f0be86d277c8896bcc968b268e5.jpg",
+        "img_caption": [
+            "图4AnnexinV-FITC/PI双染流式细胞分析 Fig.4 Flow cytometry analysis for Annexin V-FITC/PI staining.1: Blank group $^ +$ Cisplatin; 2: Empty vector transfection group $^ +$ Cisplatin; 3: Overexpression group+Cisplatin. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.6westernblot检测线粒体凋亡途径相关蛋白的变化",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如图5,6所示，经顺铂作用 $2 4 \\mathrm { h }$ 后，与空白组和空载体组相比，过表达组与凋亡直接相关的cleaved-cas-pase3、线粒体外CytC及Bax的表达水平降低，而对应的caspase-3、线粒体内CytC及Bcl-2的表达水平则升高。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "STOML-2在食管癌、肺癌、子宫内膜癌及宫颈癌等多种恶性肿瘤广泛高表达[3-4],说明了其在恶性肿瘤的发生、发展中起着重要作用。我们使用腺病毒感染宫颈鳞癌Siha细胞后MTT结果提示STOML-2过表达可以促进Siha细胞的增殖。用顺铂诱导各组细胞凋亡后用AnnexinV法检测显示过表达组早期凋亡率及总凋亡率均明显低于对照组，而我们以前用HeLa、HCC94细胞株沉默STOML-2后早期凋亡率及总凋亡率均明显高于对照组，说明STOML-2在宫颈鳞癌细胞中起着抑制凋亡的作用，而STOML-2抑制肿瘤细胞凋亡的机制，国内外均未见相关报道。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2719492ffaee7d8351915c5ce65e6841dc688ac5b410ad206062ab296468120.jpg",
+        "img_caption": [
+            "图5Westernblot检测凋亡相关蛋白的表达 Fig.5 The expression of apoptosis-related proteins in Siha cells detected by Western blot.1:Blank groupl 2: Blank group $^ +$ Cisplatin; 3:Empty vector transfection group $^ +$ Cisplatin； 4: Overexpression group+Cisplatin. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d6faf6cba2176af1760a0aeeccd7d1de106c8f80a8d4d902495ec2a7abe848a9.jpg",
+        "img_caption": [
+            "图6Westernblot检测线粒体内外细胞色素C的表达 Fig.6Levels of Cyt-C releas from mitochondria to cytosol in Siha cells detected by Western blotting.1: Blank group; 2: Blank group $^ +$ Cisplatin; 3: Empty vector transfection group $^ +$ Cisplatinl 4: Overexpression group $^ +$ Cisplatin.A: Mitochondria; B: Cytosol. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Rezaul等[研究发现STOML-2存在于线粒体内。随后，两个独立的研究小组[-\"2]进一步报道STOML-2定位于线粒体内膜，本实验通过提取线粒体内外蛋白采用Westernblot也同时证实了STOML-2主要存在于线粒体内。在哺乳类动物的细胞中线粒体通路是凋亡发生时的主要信号通路，在发生细胞外应激和细胞内损伤如DNA损伤时启动[13]。当细胞受到细胞内外的凋亡诱因刺激启动线粒体凋亡途径时，Bcl-2/Bax介导的线粒体外膜通透(MOMP)使线粒体内一些可溶性的蛋白如",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CytC从线粒体内膜释放至细胞质内。CytC结合至单体的凋亡蛋白酶激活因子Apaf-1,进而使得Apaf-1的空间构象发生改变并聚合为多聚体结构。Caspase-9前体与Apaf-1多聚体结合形成凋亡体，凋亡体的形成能激活Caspase-9,通过Caspase-9介导的蛋白裂解作用,最终激活了Caspase-3,诱导细胞凋亡的发生。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本实验进一步用顺铂处理STOML-2过表达的Siha细胞后检测线粒体凋亡途径相关蛋白的变化，结果显示STOML-2过表达后Bax/Bcl-2的比率降低，从线粒体释放到胞浆中的细胞色素C减少，使cleaved-cas-pase3也减少，说明STOML-2过表达可以抑制肿瘤细胞的凋亡，并且其抑制细胞凋亡的机制可能是通过线粒体凋亡途径进行。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上所述，STOML-2过表达可以促进Siha细胞的增殖，STOML-2可能通过线粒体调亡途径抑制肿瘤细胞的凋亡，更为完整的机制有待进一步实验证实。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Owczarek CM, Treutlein HR,Portbury KJ,et al.A novel member of the STOMATIN/EPB72/mec-2 family,stomatin-like 2 (STOML2), is ubiquitously expressed and localizes to HSA chromosome 9p13.1 [J].Cytogenet Cell Genet,2001,92(3/4): 196-203.   \n[2]Dunphy JT,Linder ME. Signalling functions of protein palmitoylation[J].Biochim Biophys Acta,1998,1436(1/2): 245-61.   \n[3]Zhang L,Ding F,Cao W,et al. Stomatin-like protein 2 is overexpressed in Cancer and involved in regulating cell growth and cell adhesion in human esophageal squamous cell carcinoma[J]. Clin Cancer Res,2006,12(5): 1639-46.   \n[4]Cao W, Zhang B,Liu Y,et al. High-level SLP-2 expression and HER-2/neu protein expression are associated with decreased breast Cancer patient survival[J].Am J Clin Pathol,2007,128(3): 430-6.   \n[5］吴 郁.SLP-2基因在宫颈鳞癌组织中的表达及其功能的初步研究 [D].北京:中国协和医科大学,2006.   \n[6]郑 烨.组织芯片法检测新基因SLP-2在宫颈癌组织中的表达及意义 [D].青岛:青岛大学,2008.   \n[7]刘雪梅,马 琳.SLP-2在宫颈腺癌中的表达及其临床意义[J].职业与 健康,2011,27(10):1195-7.   \n[8］邓 欢.STOML-2在宫颈癌中的表达及其功能研究[D].广州:南方医 科大学,2012.   \n[9]杨 晓,刘玉玲,胡晓军,等.MTA1和SLP-2蛋白在宫颈鳞癌中的表达 及相关性[J].中国妇幼保健,2013,28(11):1800-2.   \n[10]Rezaul K,Wu L,Mayya V,et al.A systematic characterization of mitochondrial proteome from human T leukemia cells[J].Mol Cell Proteomics,2005,4(2): 169-81.   \n[11]Hajek P, Chomyn A,Attardi G.Identification of a novel mitochondrial complex containing mitofusin 2 and stomatin-like protein 2[J].JBiol Chem,2007,282(8): 5670-81.   \n[12]Da Cruz S,Parone PA,Gonzalo P,et al. SLP-2 interacts with prohibitins in the mitochondrial inner membrane and contributes to their stability[J].Biochim Biophys Acta,2008,1783(5): 904-11.   \n[13]Hengartner MO. The biochemistry of apoptosis［J].Nature,2000, 407(6805); 770-6. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（编辑：孙昌朋）",
+        "page_idx": 3
+    }
+]

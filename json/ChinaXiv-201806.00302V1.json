@@ -1,0 +1,556 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.11931/guihaia.gxzw201711027 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "广藿香原生质体制备、培养与融合技术优化研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "严寒静1,2，李磊1，张宏意1,2，何梦玲1,2（1广东药科大学中药学院，广州5100062 国家中医药管理局岭南药材生产与开发重点研究室，广州510006)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了建立高效稳定的广藿香原生质体培养与融合技术体系，本研究以广藿香愈伤组织悬浮细胞为材料，研究了原生质体制备的酶解条件，以及培养方法、细胞密度、激素种类和浓度等因素对原生质体培养的影响；并通过测定融合产物直径确立融合细胞筛选范围，进一步研究聚乙二醇浓度、细胞密度、融合时间及融合液加入量等因素对原生质体融合的影响。结果表明，广藿香原生质体制备的适宜条件为 $\\mathrm { p H } 5 . 8$ ，酶解温度 $2 5 \\ \\mathrm { ~ \\textdegree C }$ ；原生质体培养以铵盐减半的MSi培养基进行海藻酸钠包埋、激素选用 $0 . 2 \\mathrm { m g \\cdot L ^ { - 1 } }$ NAA、 $2 . 0 \\mathrm { m g } { \\cdot } \\mathrm { L } ^ { - 1 } 6 { \\cdot } \\mathrm { B A }$ ，培养密度 $2 . 0 { \\times } 1 0 ^ { 5 }$ 个 $\\cdot \\mathrm { m } \\mathrm { L } ^ { - 1 }$ 、蔗糖添加量 $1 . 0 \\%$ 、酸水解酪蛋白 $5 0 0 \\mathrm { m g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 的条件下原生质体分裂频率、植板率均较高，且开始分裂时间和细胞团形成时间都较短；双细胞融合产物筛选范围为69.33-87.35$\\mu \\mathrm { m }$ ；以 $40 \\%$ PEG 6000化学促融 $3 0 \\mathrm { m i n }$ 、加入0.5 倍体积的融合液、细胞密度 $2 . 0 { \\times } 1 0 ^ { 5 }$ 个 $\\cdot \\mathrm { m } \\mathrm { L } ^ { - 1 }$ 的条件进行原生质体融合，聚合率可达 $5 7 . 1 9 \\%$ ；获得的融合产物经海藻酸钠包埋培育2个月后可观察到再生愈伤组织。该技术体系的建立为广藿香种质资源的保护、拓展和新品种选育的材料制备提供了实验方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：广藿香；聚乙二醇；原生质体制备；原生质体融合；新品种选育 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Study on the optimization of protoplasts preparation, culture and fusion in Pogostemon cablin ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YANHan-jing1,2,LI Lei, ZHANG Hong-yi1,2,HE Meng-ling1,2 (1 College of Traditional Medicine，Guangdong Pharmaceutical University，Guangzhou 510006; 2 KeyLaboratoryofStateAdministrationofTraditional Chinese Medicinefor Production& DevelopmentofCantons Medicinal Materials, Guangzhou 510006) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Forestablishingahigheficientandstableprotoplastcultureandfusiontechologysystem,theprotoplastsobtained from Pogostemoncablin'scalus,were studiedasthe materialforenzymatichydrolysisconditionsofprotoplastpreparation,andonthis base,theeffectsofculturemethods,celldensityhormonetypesandconcentrationsontheprotoplastculturewere studied.Sreeing rangeffusioncels weredeterminedbymeasuringthediameteroffusionproducts.TheefectsofEGconcentration,celldensity incubationtimeandamountoffusionfluidonthefusionrateofprotoplasts were studiedbysinglefactoranalysis.Theresults showed that the yield of protoplast was higher with enzymolysis temperature about $2 3 . 2 8 \\mathrm { ~ \\ ^ { \\circ } C }$ and the vitality of protoplast reached the highest value at $2 5 \\mathrm { ~ \\textdegree ~ { ~ C ~ } ~ }$ . The optimal $\\mathsf { p H }$ for enzymatically hydrolyzing was 5.8.Four methods,shalow layer of liquid, double layer of solid liquid,agarose embedding and sodium alginate embedding, were be used to culture protoplast of $P .$ cablin,the protoplasts with sodium alginate mbedding began to divideearlier and gotthe higher division frequencyand plating eficiency.The improved medium $\\mathrm { M S } _ { 1 }$ which consisted half of ammonium salt $\\mathrm { ( N H _ { 4 } N O _ { 3 } ~ 8 2 5 ~ m g { \\cdot } L ^ { - 1 } }$ ),added the hormones about $0 . 2 ~ \\mathrm { m g \\cdot L ^ { - 1 } }$ NAA and $2 . 0 \\ \\mathrm { m g \\cdot L ^ { - 1 } }$ 6-BA was used to embed in sodium alginate.With the conditions of $2 . 0 { \\times } 1 0 ^ { 5 }$ protoplasts $\\mathrm { \\ m L ^ { - 1 } }$ of the cell density, $1 \\%$ sucrose content and 500 $\\mathrm { { m g } { \\cdot } L ^ { - 1 } }$ acid hydrolyzedcasein,protoplasts gotintodivisionandformationofcellclustersearlierandhadthehigherdivision frequency and plating efficiency. The range of double cell fusion products was $6 9 . 3 3 \\mathrm { - } 8 7 . 3 5 \\mathrm { \\mu m }$ ·， $40 \\%$ PEG 6oo0 was selected to promote the chemical fusion.With theincreaseof fusion time，celldensityandamountoffusion liquid，both polymerizationrateand polycondensation rate increased.With O.5 times volume of the fusion solution, $2 . 0 \\times 1 0 ^ { 5 }$ protoplasts $\\mathrm { m } \\mathrm { L } ^ { - 1 }$ of the cell density and 30 min of fusion time, the polymerization rate was up to $5 7 . 1 9 \\%$ .After 2 months’embedding cultivation,the callus was observed.This study improved the protoplast fusion in $P .$ cablin,which is meaningful for germplasms’ protection and development, and it also supplies a solid base in experimental materials for breeding. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keyword: Pogostemon cablin (Blanco) Benth.,PEG, protoplast preparation, protoplast fusion, breeding ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "广藿香[Pogostemon cablin (Blanco) Benth.]为唇形科刺蕊草属植物，是广东的道地药材，具芳香化浊，和中止呕，发表解暑之功效（国家药典委员会，2015)。现代药理学研究表明，广藿香可以调节胃肠道功能并具有抗菌作用（罗集鹏等，2005；莫小路等，2004)，是多种中成药的主要原料。此外，广藿香油中的百秋里醇气味独特宜人，并可使香味持久，是法国标准化委员会确定的香精香料中的标志性成分，被广泛应用于日用品和化妆品中（吴友根等，2010)。广藿香自引种到我国南亚热带地区种植后，很少或者根本没有经过遗传改良，种质退化严重，个体间药用活性成分和产量差异极显著，导致了药材质量不稳定和不可控。解决问题的根本措施之一是开展品种改良或新品种的选育，但是，由于广藿香在我国为无性繁殖，传统育种举步维艰，需要引入新技术和新方法，进行种质资源的创新工作。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "原生质体具有再生成完整植株的能力，是进行细胞器分离、转基因和基因功能分析等研究的理想材料，也是以细胞杂交方式培育新品种的必备材料（Eeckhaut etal,2013)。在中药材品种筛选和种质改良方面，原生质体融合是诱导细胞杂交和增加染色体组倍性行之有效的途径之一。目前植物原生质体制备和融合大多以酶解法制备原生质体、PEG诱导原生质体融合（Mackwska etal,2014;Mori etal,2014；彭小群，2015），而酶液组成、酶解时间和渗透剂组成是影响酶解法制备原生质体的主要因素（Hongoh etal,2003），PEG浓度和融合时间是影响PEG诱导原生质体融合的主要因素（Durieu&Ochatt,2000）。探明这些因素对原生质体制备和融合过程的影响，是系统建立起原生质体制备和融合技术体系的重要保证。本研究以性状优良的石牌广藿香为材料，在前期对广藿香悬浮细胞原生质体的分离与纯化研究的基础上（梁威等，2016），考察不同的培养方法、培养基组成等对广藿香原生质体培养的影响，并着重研究PEG浓度、孵育时间等对原生质体融合的影响，以期筛选出PEG诱导广藿香原生质体融合的最适条件，为系统建立广藿香的原生质体融合技术体系奠定实验基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料与试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验材料采自广东药科大学药用植物园，由姬生国教授鉴定为唇形科刺蕊草属植物广藿香（Pogostemoncablin(Blanco) Benth.)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验试剂荧光素双醋酸酯(Fluorescein diacetate，FDA)为 Solarbio 公司产品、纤维素酶(Celllase)、半纤维素酶(Hemicellulase)、果胶酶(Pectinase)为 Sigma 公司产品，其它生化试剂为国产的分析纯试剂。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1试剂及培养基配制",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "混合酶液的配制参考梁威的方法（梁威等，2016)，原生质体清洗液（CPW-4M）按文献方法（朱至清，2003）配制。以MS为基本培养基，此外再添加 $0 . 4 ~ \\mathrm { m o l ^ { \\bullet } L ^ { - 1 } }$ 甘露醇、 $0 . 1 \\%$ 吗啉乙磺酸（MES）、 $0 . 1 \\%$ 肌醇、不同浓度的蔗糖或葡萄糖、生长调节剂、酸水解酪蛋白等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "低熔点琼脂糖培养基： $1 . 2 \\%$ 琼脂糖、 $0 . 1 \\%$ MES、 $\\mathrm { p H } 5 . 8$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "海藻酸钠溶液： $1 . 5 \\%$ 海藻酸钠，以无钙原生质体培养液(不含 ${ \\mathrm { C a C l } } _ { 2 } ^ { \\prime }$ $2 0 \\mathrm { m i n }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "作刑，（间压八困 。PEG融合液： $1 0 \\mathrm { \\ m m o l ^ { \\bullet } L ^ { - 1 } C a C l _ { 2 } \\bullet 2 H _ { 2 } O \\bullet 0 . 7 \\ m m o l ^ { \\bullet } L ^ { - 1 } K H _ { 2 } P O _ { 4 } } ,$ $0 . 1 \\mathrm { m o L / L }$ 甘露醇、 $30 \\% - 5 0 \\%$ PEG 6000,$\\mathrm { p H } 5 . 8$ ，溶液过 $0 . 4 5 \\mu \\mathrm { m }$ 微孔滤膜后 $4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 保存，使用前过 $0 . 2 2 \\mu \\mathrm { m }$ 微孔滤膜脱菌。高 $\\mathfrak { p H }$ 高钙洗液参考文献（Kao&Michayluk,1974）的方法配制。FDA母液：取 $5 \\mathrm { m g \\ F D A }$ 溶于 $1 \\mathrm { m L }$ 丙酮中， $0 ^ { \\circ } \\mathrm { C }$ 以下保存。以上试剂除特别提到，均121 $\\mathrm { { } ^ { \\circ } C }$ 下高压灭菌后备用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2愈伤组织诱导与悬浮培养",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以石牌广藿香为外植体，接种于 $\\mathrm { M S + 0 . 0 5 2 , 4 - D + 0 . 5 \\ K T }$ （单位为 $\\mathrm { { m g ^ { \\bullet } L ^ { - 1 } } }$ ，下同）固体培养基，光照 $1 2 \\mathrm { h }$ $\\mathbf { \\cdot } \\mathbf { d } ^ { - 1 }$ 、光强 $1 5 0 0 \\mathrm { L X }$ 、 $( 2 5 { \\pm } 2 )$ ， $\\mathrm { { ^ \\circ C } }$ 条件下培养，诱导广藿香愈伤组织。选取疏松淡黄色愈伤组织，转入液体培养基中进行悬浮培养，转速 $1 3 5 \\mathrm { r ^ { \\bullet } m i n ^ { - 1 } }$ ，接种量 $7 0 \\mathrm { g } { \\bullet } \\mathrm { F W } ^ { \\bullet } \\mathrm { L } ^ { - 1 }$ ，继代周期 $2 4 \\mathrm { d }$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3原生质体制备 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3.1酶液pH和酶解温度的筛选 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "悬浮细胞依次过40、100目筛网，收集后按1:10（ $\\mathbf { \\dot { m } } \\mathbf { \\Lambda } ^ { \\mathrm { ~ m ~ } }$ ）加入不同 $\\mathfrak { p H }$ 值的混合酶液以考察酸碱度对分离的影响；设置23、25、28、30℃4个温度梯度， $5 0 \\mathrm { r p m }$ 避光振荡酶解 $1 2 \\mathrm { h }$ ，考察温度对酶解制备原生质体的影响。通过统计分析，确定广藿香原生质体制备的酶液 $\\mathfrak { p H }$ 和酶解温度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3.2原生质体纯化收集",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "酶解液依次过40、100、200目筛网，收集滤液1000转离心 $3 \\mathrm { m i n }$ 去上清，沉淀加适量CPW-4M液混匀后再次离心并去上清，重复3次后，沉淀转移至原生质体培养液中保存。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.4产量与活力的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将1.2.3.2中得到的原生质体溶液滴加在血球计数板上，计算原生质体数，其密度与产量计算公式如下。实验重复不少于3次，镜检时不同视野测量次数 ${ \\geq } 5$ ，每个样品测量值取5次测量的均值（下同)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "原生质体密度(个 $\\cdot \\bullet _ { \\mathrm { { m L } } ^ { - 1 } ) = 5 }$ 个大格内原生质体总数 $\\times 5 { \\times } 1 0 0 0 0 { \\times }$ 稀释倍数;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "原生质体产量（个 $\\cdot _ { \\mathbf { g } ^ { - 1 } }$ ）的计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "原生质体产量",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "原生质体活力参考Widholm(1972)的方法，在荧光显微镜下测定，公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "暗视野下发荧光原生质体数原生质体活力 $\\mathbf { \\tau } = \\mathbf { \\tau }$ × 100%明视野下原生质体数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.5原生质体培养 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "考察液体浅层培养、琼脂糖包埋培养、固液双层培养、海藻酸钠包埋培养不同方法对原生质体培养的影响，培养密度为 $2 \\times 1 0 ^ { 5 }$ 个 $\\bullet _ { \\mathrm { m L } ^ { - 1 } }$ ，培养基为 $\\mathrm { M S _ { 1 } + 0 . 2 N A A + 2 . 0 6 \\mathrm { - } B A + 1 . 0 \\% }$ 蔗糖 $+ 5 0 0 \\mathrm { m g } { \\bullet \\mathrm { L } ^ { - 1 } }$ 酸水解酪蛋白。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "确定培养方法后，再考察培养密度（分别为 $1 . 0 { \\times } 1 0 ^ { 5 }$ 、 $2 . 0 { \\times } 1 0 ^ { 5 }$ 、 $4 . 0 \\times 1 0 ^ { 5 }$ 、 $6 . 0 { \\times } 1 0 ^ { 5 }$ 个 $\\bullet _ { \\mathrm { m L } ^ { - 1 } }$ ）和培养基组分（包括激素、铵盐、碳源、酸水解酪蛋白）（见表3、4）对原生质体培养的影响，以分裂频率与植板率为考察指标，计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "视野内发生分裂的再生细胞数  \n分裂频率 $\\mathbf { \\tau } =$ （204号 $\\times 1 0 0 \\%$ 视野内细胞总数视野内细胞团数  \n植板率 × 100%视野内细胞总数",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.6原生质体融合",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用高pH高钙法融合原生质体，将分离纯化后的原生质体悬浮于适量CPW-4M液中，离心洗涤并调整至不同密度（0.5、1.0、2.0、3.0 $\\times _ { 1 0 ^ { 5 } }$ 个 $\\bullet _ { \\mathrm { m L } ^ { - 1 } }$ )，于培养皿中静置 $1 5 \\mathrm { m i n }$ ；缓慢滴加 $30 \\%$ 、 $40 \\%$ 、 $50 \\%$ 的 PEG6000融合液，加入量为原生质体悬浮液体积的不同倍数（0.2、0.5、1.0、2.0倍)，静置 $5 \\mathrm { m i n }$ ；再滴加融合液2倍量的高pH高钙洗液，静置时间为 $1 0 { \\sim } 4 0 \\ \\mathrm { m i n }$ ；混合液离心后去上清，重复3次；镜检并测量正常形态的细胞直径，计算聚合率、多聚率，公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "双细胞聚合的原生质体数  \n聚合率 $\\mathbf { \\tau } =$ × 100%总原生质体数  \n多聚率=3 3个及3个以上细胞聚合的原生质体数 （204 $\\yen 100 \\%$ 总原生质体数",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.7融合产物的筛选 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献方法(Hao etal,2002)，得到刚分裂生成的子细胞(NDC)的直径RD 和中期细胞的直径 $\\mathsf { R } _ { \\mathsf { M } }$ 之间的关系为： $\\mathrm { R _ { D } } { = } 0 . 7 9 3 7 \\mathrm { R _ { M } }$ 。分别在原生质体培养6-7d时（子细胞多)，测量并统计NDC 细胞直径，计算 $\\mathrm { R _ { D } }$ 平均值；培养10-12d时（中期细胞多)，测量并统计以计算 $\\mathsf { R } _ { \\mathrm { M } }$ 平均值，每次观察100个以上可准确测量直径的细胞。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考刘剑锋（刘剑锋等，2010）的方法，可知2个原生质体融合后产物最小直径 $ { \\mathrm { R } } _ { \\mathrm { m i n } }$ 与最大直径 $\\mathrm { R } _ { \\mathrm { m a x } }$ 。比对细胞直径，一般非融合单细胞直径（ $\\mathrm { R _ { D } } \\mathrm { - R _ { M } }$ ） $\\prec$ 双细胞融合产物直径（Rmin-Rmax），若直径大于Rmax，则为3个细胞以上的融合产物。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1酶解条件对原生质体制备的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f91c0c8e55da20ef6689de0d374ee9d2031a5af9ad05a7b3367d4c8c4bbcc76c.jpg",
+        "img_caption": [
+            "图1酶解温度和pH值对原生质体活力和产量的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Effect of enzymatic hydrolysis temperature and pH on the protoplast vitality and yield ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在我们前期的实验中，已经对广藿香原生质体制备的酶液组合、酶解时间、渗透压调节剂甘露醇浓度等条件进行了系统研究（梁威等，2016)，本文在此基础上，进一步考察酶解温度和酶液 $\\mathsf { p H }$ 值对酶解后原生质体活力和产量的影响（图1)。结果表明，在 $\\mathrm { p H } 5 . 8$ 时，酶解分离后获得的广藿香原生质体产量最高；在 $\\mathrm { p H } 5 . 8 – 6 . 2$ 时，原生质体活力较高。结合产量与活力数据，选择 $\\mathrm { p H } 5 . 8$ 为广藿香细胞壁酶解的最适pH值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "酶解温度在23-28℃时，原生质体产量较高；在 $2 5 \\mathrm { ~ \\textdegree C }$ 时，原生质体活力达到最高值，温度过高或过低活力都有所下降。综合产量与活力数据，选择 $2 5 \\mathrm { ~ \\textdegree C }$ 为广藿香细胞壁适宜的酶解温度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2不同因素对原生质体培养的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1不同培养方法对原生质体培养的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用液体浅层、固液双层、琼脂糖包埋与海藻酸钠包埋4种方法对原生质体进行培养。每天镜检观测， 统计结果见表1。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从表1可以看出，液体浅层与固液双层培养虽然分裂频率与植板率都较高，但最终并未观察到愈伤组织形成；琼脂糖包埋与海藻酸钠包埋的培养方法最终都形成了愈伤组织，其中海藻酸钠包埋开始分裂时间较早，分裂频率与植板率较高，因而选择海藻酸钠包埋法进行广藿香原生质体培养。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/7942f301a6c82aa802decf30844386a5794edcf3de46152bf6dc3afe40fec6a0.jpg",
+        "table_caption": [
+            "表1不同培养方法对原生质体培养的影响（ $\\scriptstyle \\mathbf { n = } 3$ ）",
+            "Table 1 Effects of different methods on protoplast culture "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>培养方法</td><td>第一次分</td><td>开始大量</td><td>分裂频率/%</td><td>细胞团</td><td>植板率/%</td><td>愈伤</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e059276e1ac78570e75e2624703d1404fe0ffa9f37c91469396adc3b4d95694d.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "主：统计结果表示为mean±SEM（ $\\scriptstyle \\mathbf { n = } 3 ,$ ，同列不同大写字母表示差异极显著（ $\\scriptstyle \\mathbf { P } < 0 . 0 1$ ）（下同）Tag.The statistical results are expressed as mean $\\mid \\pm$ SEM $( \\mathtt { n } { = } 3 )$ ，diverse capital letters show highly significantdifferences $( \\mathrm { P } { < } 0 . 0 1 )$ (the same below)"
+        ],
+        "table_body": "<html><body><table><tr><td>Culture method</td><td>裂 时间/d First division time</td><td>分裂时间/d Large numbers of cells division time</td><td>Division frequency</td><td>形成天数/d Cell dumps formation time</td><td>Plating efficiency</td><td>出现 时间 /d Time for</td></tr><tr><td>液体浅层 Shallow liquid</td><td>6</td><td>12</td><td>12.57±0.44 A</td><td>14</td><td>2.64±0.11 A</td><td>callus</td></tr><tr><td>culture 琼脂糖 包埋</td><td>9</td><td>17</td><td>4.27±0.22 D</td><td>20</td><td>1.38±0.05 C</td><td>65</td></tr><tr><td>Agarose embedding 固液双层 double layer culture</td><td>7</td><td>12</td><td>10.40±0.46 B</td><td>14</td><td>2.21±0.10 B</td><td></td></tr><tr><td>海藻酸钠包埋 Sodium alginate embedding</td><td>6</td><td>14</td><td>6.91±0.29 C</td><td>16</td><td>1.83±0.04 B</td><td>63</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.2不同细胞密度对原生质体培养的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "设计 $1 . 0 { \\times } 1 0 ^ { 5 }$ ， $2 . 0 { \\times } 1 0 ^ { 5 }$ 、 $4 . 0 { \\times } 1 0 ^ { 5 }$ 、 $6 . 0 { \\times } 1 0 ^ { 5 }$ 个 $\\bullet _ { \\mathrm { m L } ^ { - 1 } }$ 四个不同的细胞密度进行原生质体培养，结果见表2。当细胞密度为 $2 . 0 { \\times } 1 0 ^ { 5 }$ 个 $\\cdot _ { \\mathrm { m L ^ { - 1 } } }$ 时，分裂频率与植板率都达到最高，且未出现褐化情况。因此可选择细胞密度为 $2 . 0 { \\times } 1 0 ^ { 5 }$ 个 $\\bullet _ { \\mathrm { m L } ^ { - 1 } }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/4c6c8c172a7ef37d421e6422cd624cdb0db29b5b0abdc186440051064f6a55ca.jpg",
+        "table_caption": [
+            "表2不同细胞密度对原生质体培养的影响（ $\\scriptstyle \\cdot = 3$ ）"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">Table 2Effects of different cell density on protoplast culture</td></tr><tr><td>细胞密度 (×105 个/mL)</td><td>第一次分裂 时间/d First division</td><td>分裂频率/% Division frequency</td><td>细胞团形成 天数/d Cell dumps</td><td>植板率/% Plating eficiency</td><td>褐化情况 Browning</td></tr><tr><td>Cell density</td><td>time</td><td></td><td>formation time</td><td></td><td></td></tr><tr><td>1.0</td><td>9</td><td>1.31±0.06C</td><td>一</td><td>一</td><td>一</td></tr><tr><td>2.0</td><td>6</td><td>6.88±0.17 A</td><td>16 16</td><td>2.21±0.05 A 1.70±0.08B</td><td>无 部分</td></tr><tr><td>4.0</td><td>6</td><td>6.09±0.16 B</td><td></td><td>0.92±0.05 C</td><td></td></tr><tr><td>6.0</td><td>6</td><td>5.80±0.10 B</td><td>16</td><td></td><td>明显</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.3不同激素对原生质体培养的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本实验考察了NAA、2,4-D、6-BA不同组合、不同浓度的激素对原生质体培养的影响，结果见表3。当6BA为 $2 . 0 \\mathrm { m g ^ { \\bullet } L ^ { - 1 } }$ 、NAA为 $0 . 2 \\mathrm { m g ^ { \\bullet } L ^ { - 1 } }$ 时，原生质体分裂频率与植板率最高，为最适激素浓度与配比。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/7190bcd01e0139c3d36e91c6a4b04a41db6e3bbc03ccfcfac9529a92fdb5dba7.jpg",
+        "table_caption": [
+            "表3不同激素配比对原生质体培养的影响（ $\\scriptstyle \\mathbf { n = } 3$ ）",
+            "Table 3 Effects of different hormone ratios on protoplast culture "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">NAA(mg/L) 2,4-D(mg/L)</td><td rowspan=\"2\"></td><td colspan=\"3\">分裂频率/%</td></tr><tr><td>6BA(mg/L)</td><td>Division frequency</td><td>植板率/% Plating efficiency</td></tr><tr><td>0.1</td><td>0</td><td>2.0</td><td>7.19±0.09 a</td><td>0.82±0.05 de</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/6457507b04c6884ebfa26c394d7e642d11a3ad67c289e9a87c251ddbc9b3cb1f.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：同列不同小写字母表示差异显著（ $\\mathrm { P } { < } 0 . 0 5$ ）（下同）Tag.Diverse little letters show significant differences ( $( \\boldsymbol { \\mathrm { P } } < \\boldsymbol { 0 } . 0 5 )$ (the same below)"
+        ],
+        "table_body": "<html><body><table><tr><td>0.2</td><td>0 2.0</td><td>7.08±0.18 ab</td><td>1.79±0.09 a</td></tr><tr><td>0.3</td><td>0 2.0</td><td>6.20±0.34 cd</td><td>0.49±0.02 f</td></tr><tr><td>0.2</td><td>0 1.0</td><td>6.35±0.25bcd</td><td>0.71±0.04 e</td></tr><tr><td>0.2</td><td>0 3.0</td><td>6.93±0.36abc</td><td>1.32±0.07 b</td></tr><tr><td>0</td><td>0.05 2.0</td><td>6.28±0.21 cd</td><td>0.90±0.05 d</td></tr><tr><td>0</td><td>0.05 0.5</td><td>5.72±0.12 d</td><td>0.30±0.02 g</td></tr><tr><td>0</td><td>0.05 1.0</td><td>6.54±0.22abc</td><td>1.08±0.06 c</td></tr><tr><td>0</td><td>0.1 1.0</td><td>4.23±0.32 e</td><td>0.39±0.02fg</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.4其它因素对原生质体培养的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本实验还考察了铵盐、碳源及水解酪蛋白浓度对原生质体培养的影响，结果见表4。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "铵盐分别取MS培养基原铵盐浓度（MS： $\\mathrm { N H _ { 4 } N O _ { 3 } } 1 6 5 0 \\mathrm { m g / L } )$ 、减半浓度（ $\\mathrm { \\cdot } \\mathrm { M } \\mathrm { S } _ { \\mathrm { l } }$ ）和不加铵盐（ $\\mathrm { \\cdot } \\mathrm { M S } _ { 0 }$ ）3 个梯度进行比较，结果发现， $ { \\mathrm { M S } } _ { 1 }$ 培养基中原生质体分裂频率、植板率均较高，且开始分裂时间和细胞团形成时间都较短，因此最佳铵盐浓度为 $\\mathrm { N H _ { 4 } N O _ { 3 } } ~ 8 2 5 ~ \\mathrm { m g ^ { \\bullet } L ^ { - 1 } }$ ( $\\mathrm { M S } _ { 1 }$ )。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/9a8319afe21f3103cfe7a7527687de2d52cdd2510fe0652022a8ab82a04a24b2.jpg",
+        "table_caption": [
+            "表4其他因素对原生质体培养的影响"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"8\">Table 4 Effects of other factors on protoplast culture</td></tr><tr><td>编号 No.</td><td>培养基 Medium</td><td>碳源 Carbon source</td><td>酸水解酪蛋 白mg/L Acid hydrolyzed</td><td>第一次分裂 时间/d First division time</td><td>分裂频率/% Division frequency</td><td>细胞团形成 天数/d Cell dumps formation</td><td>植板率/% Plating efficiency</td></tr><tr><td>1</td><td>MS</td><td></td><td>casein</td><td>8</td><td>3.52±0.22C</td><td>time 19</td><td>0.91±0.05 B</td></tr><tr><td>2</td><td>MS1</td><td>1.0%蔗糖</td><td>500</td><td>6</td><td>6.89±0.14 A</td><td>16</td><td>2.05±0.12 A</td></tr><tr><td>3</td><td>MSo</td><td>1.0% sucrose</td><td></td><td>6</td><td>4.92±0.13 B</td><td>17</td><td>1.19±0.07B</td></tr><tr><td>4</td><td>MS1</td><td>0.5%蔗糖 0.5% sucrose</td><td></td><td>8</td><td>5.85±0.28 b</td><td>17</td><td>0.52±0.03 b</td></tr><tr><td>5</td><td>MS1</td><td>2.0%蔗糖</td><td>500</td><td>6</td><td>6.39±0.16ab</td><td>20</td><td>0.32±0.02 c</td></tr><tr><td></td><td></td><td>2.0% sucrose 1.0%葡萄糖</td><td></td><td>未见分裂</td><td></td><td></td><td></td></tr><tr><td>6</td><td>MS1</td><td>1.0% glucose</td><td></td><td>no division</td><td></td><td></td><td></td></tr><tr><td>7</td><td>MS1</td><td>1.0%蔗糖</td><td>0</td><td>11</td><td>4.51±0.31B</td><td>21</td><td>0.57±0.06C</td></tr><tr><td>8</td><td>MS1</td><td></td><td>200</td><td>9</td><td>5.25±0.26B</td><td>20</td><td>1.03±0.09B</td></tr><tr><td>9</td><td>MS1</td><td>1.0% sucrose</td><td>800</td><td>7</td><td>7.04±0.27A</td><td>16</td><td>1.80±0.10A</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "碳源分别选择了 $0 . 5 \\%$ 、 $1 . 0 \\%$ 、 $2 . 0 \\%$ 的蔗糖与 $1 . 0 \\%$ 的葡萄糖，以MSi培养基进行海藻酸钠包埋培养，结果发现，葡萄糖作为碳源未观察到细胞分裂；而蔗糖含量为 $1 . 0 \\%$ 时，细胞开始分裂时间与形成细胞团时间均较早，分裂频率与植板率都较高，为最佳浓度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "酸水解酪蛋白对原生质体培养起一定促进作用，本实验设定了 $0 , ~ 2 0 0 , ~ 5 0 0 , ~ 8 0 0 ~ \\mathrm { m g ^ { \\bullet } L ^ { - 1 } }$ 四个浓度梯度进行实验，结果发现，酸水解酪蛋白浓度为 $5 0 0 \\mathrm { m g ^ { \\bullet } L ^ { - 1 } }$ 时，细胞分裂时间较早，分裂频率与植板率较高，为最适浓度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3不同因素对原生质体融合的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.1融合产物筛选范围",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "经测量与统计，单个广藿香原生质体直径范围是 $5 1 . 7 4 \\mathrm { - } 6 9 . 3 3 ~ \\mu \\mathrm { m }$ ；经公式推导，融合产物直径范围是$6 5 . 1 9 \\mathrm { - } 8 7 . 3 5 ~ \\mu \\mathrm { m }$ ；剔除交集部分，双细胞融合产物筛选范围是 $6 9 . 3 3 \\mathrm { - } 8 7 . 3 5 ~ \\mathrm { \\textmu m }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 PEG浓度对原生质体融合的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "考察 $30 \\%$ 、 $40 \\%$ 、 $50 \\%$ 的 PEG6000 对原生质体融合的影响，结果表明，当PEG6000 浓度为 $40 \\%$ 、 $50 \\%$ 时，聚合率较高，分别为 $56 . 2 4 \\%$ 和 $5 7 . 4 4 \\%$ ，两者间差异不显著；但当浓度为 $50 \\%$ 时，多聚率达到 $1 3 . 7 4 \\%$ ，明显高于前者，且该处理较多原生质体融合为三聚体、多聚体及树枝状结构（表5)。因此，PEG 6000的浓度选择 $40 \\%$ 为宜。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/7fae9ba3c6f6ee43f0ba027524f108f8534c03e4874869190b77cd5e956ec281.jpg",
+        "table_caption": [
+            "Table 5 Effects of different PEG concentrations on protoplast culture "
+        ],
+        "table_footnote": [
+            "2.3.3细胞密度、融合时间及融合液加入量对原生质体融合的影响"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">PEG 6000 浓度% Concentration ofPEG</td><td colspan=\"2\">聚合率/%</td></tr><tr><td>Polymerization rate</td><td>多聚率/% Polycondensation rate</td></tr><tr><td>6000</td><td></td><td></td></tr><tr><td>30%</td><td>40.17±1.28 B</td><td>8.19±0.14 C</td></tr><tr><td>40%</td><td>56.24±1.36 A</td><td>9.63±0.21 B</td></tr><tr><td>50%</td><td>57.44±1.44 A</td><td>13.74±0.32 A</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表6融合时间、细胞密度及融合液加入量对原生质体融合的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/973977c2dc36152c78bd689e4284e0b5ffe1b604f5400a6462af2912f7250d3d.jpg",
+        "table_caption": [
+            "表5不同PEG浓度对原生质体融合的影响（ $\\scriptstyle \\mathbf { n = } 3$ ）",
+            "[able6 Effects of fusion time,cell density and volume of fusion fluid on protoplast cultur "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">融合液与细胞</td></tr><tr><td>编号 No.</td><td>融合时间（min） Fusion time</td><td>细胞密度 (×105 个/mL) Cell density</td><td>液体积比 Volume ratio of fusion fluid to culture media</td><td>聚合率 % Polymerization rate</td><td>多聚率% Polycondensation rate</td></tr><tr><td>1</td><td>10</td><td>2.0</td><td>0.5</td><td>47.33±2.81b</td><td>8.50±0.53b</td></tr><tr><td>2</td><td>20</td><td>2.0</td><td>0.5</td><td>50.23±2.22ab</td><td>9.16±0.70b</td></tr><tr><td>3</td><td>30</td><td>2.0</td><td>0.5</td><td>57.19±2.95 A</td><td>9.20±0.76 B</td></tr><tr><td>4</td><td>40</td><td>2.0</td><td>0.5</td><td>56.13±2.91a</td><td>11.84±1.05a</td></tr><tr><td>5</td><td>30</td><td>0.5</td><td>0.5</td><td>38.50±1.12 C</td><td>6.31±0.33 C</td></tr><tr><td>6</td><td>30</td><td>1.0</td><td>0.5</td><td>46.35±1.81 B</td><td>7.51±0.37 BC</td></tr><tr><td>7</td><td>30</td><td>3.0</td><td>0.5</td><td>59.25±0.57 A</td><td>18.35±0.81 A</td></tr><tr><td>8</td><td>30</td><td>2.0</td><td>0.2</td><td>40.73±2.53B</td><td>7.83±0.29B</td></tr><tr><td>9</td><td>30</td><td>2.0</td><td>1.0</td><td>56.44±2.73A</td><td>9.60±0.44B</td></tr><tr><td>10</td><td>30</td><td>2.0</td><td>2.0</td><td>51.05±3.75A</td><td>24.27±1.57A</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "融合时间、细胞密度和融合液加入量对原生质体融合的影响见表6。结果表明，随着融合时间的增长，聚合率与多聚率都随之增加，融合时间 $3 0 \\mathrm { m i n }$ 与 $4 0 ~ \\mathrm { m i n }$ 的聚合率没有显著差异，但 $4 0 \\mathrm { m i n }$ 时多聚率明显增加，因此融合时间以 $3 0 \\mathrm { m i n }$ 为宜；而随着细胞密度的增加，聚合率与多聚率都随之增高，以较高聚合率与较低多聚率为考察标准，选择 $2 . 0 { \\times } 1 0 5$ 个 $\\bullet _ { \\mathrm { m L } ^ { - 1 } }$ 作为最适融合细胞密度；随着融合液加入量的增加，多聚率不断提高，从统计分析比较结果来看，融合液与细胞液体积比选择0.5或1.0较为合理，按照最佳效果最低浓度原则，选择0.5 倍融合液为最适加入量，此条件下聚合率达 $5 7 . 1 9 \\%$ ，多聚率为 $9 . 2 \\%$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "按照上述原生质体的制备、最适培养及融合条件，进行广藿香广藿香原生质体制备、培养及融合，得到了形态及生长发育良好的单细胞及双细胞融合原生质体（图版I)。融合产物经海藻酸钠包埋培育2个月，观察到愈伤组织再生。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/fb9766984885ebc45429a21a2d69b18205226aea1f1cfe91836709069db9183c.jpg",
+        "img_caption": [
+            "图版I广藿香原生质体融合过程形态"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Plate I Protoplast morphology of $P .$ cablin in fusion process ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "注：A.广藿香原生质体FDA荧光染色明场像；B．广藿香原生质体FDA荧光染色暗场像；C.原生质体在融合过程中的形态； D.融合产物洗涤后的形态；E.融合原生质体第一次分裂；F.融合原生质体第二次分裂   \nNote: A.BrightfieldimageofprotoplastfromP.cablinbyFDAfluorescentstaining; B.DarkfieldimageofprotoplastfromP.cablin byFDAfluorescentstaining; CProtoplast morphology infusionprocess;D.Morphologyoffused protoplasts afterwashig;E. The first division of fused protoplasts; F. The second division of fused protoplasts ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1原生质体培养 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本实验考察了多种培养方法对广藿香原生质体培养的影响，结果表明海藻酸钠包埋培养的方法最好。此方法属于固体培养，能避免液体培养原生质体不固定、不易跟踪观察的缺点；其次，作为一种高分子化合物，海藻酸钠质地柔软、均一，相对于琼脂糖，属于软包埋原生质体的培养方式，而且可以避免琼脂糖包埋时热激(heat shock)对原生质体的伤害（贾士荣等，1988)。实验中，虽然液体培养与固液双层培养的原生质体更早分裂，并有较高的分离频率和植板率，但最终都未形成愈伤组织，可能是随着原生质体分裂后数量增多，间距显著减小，代谢产物所产生的相互毒害作用愈加严重所致。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本实验中广藿香原生质体培养时的最佳细胞密度为 $2 . 0 { \\times } 1 0 ^ { 5 }$ 个 $\\bullet _ { \\mathrm { m L } ^ { - 1 } }$ ，文献（杨茹，2010）中认为细胞密度一般应控制在 $1 0 ^ { 4 } – 1 0 ^ { 5 }$ 个 $\\bullet _ { \\mathrm { m L } ^ { - 1 } }$ ，与本实验结果一致。原生质体生长受到细胞密度的影响往往是双向的，若密度过低，促进原生质体分裂的内源性物质浓度较低，将导致原生质体不能持续分裂（陈名红等，2007)；若密度过高，由于养分缺失或有害的细胞代谢物积累，又将会阻碍再生细胞正常生长。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "培养基组分中氮源的种类和浓度对原生质体培养有重要影响，普遍认为铵态氮对原生质体是有一定毒害作用的，应尽量减少以避免伤害。广泛应用于组织培养的MS 培养基中 $\\mathrm { N H _ { 4 } N O _ { 3 } }$ 含量为 $1 6 5 0 \\mathrm { m g ^ { \\bullet } L ^ { - 1 } }$ ，而常用于原生质体培养的 $\\mathrm { K M _ { 8 } P }$ 培养基 $\\mathrm { N H } _ { 4 } \\mathrm { N O } _ { 3 }$ 含量为 $6 0 0 \\mathrm { \\ m g ^ { \\bullet } L ^ { - 1 } }$ （Kai&Michayluk,1975)，以及NT培养基$\\mathrm { N H } _ { 4 } \\mathrm { N O } _ { 3 }$ 含量为 $8 2 5 ~ \\mathrm { m g ^ { \\bullet } L ^ { - 1 } }$ （Nagata＆Takebe,1971)，铵盐含量都有所调低；本实验在进行铵盐含量考察时，设置了不添加 $\\mathrm { N H } _ { 4 } \\mathrm { N O } _ { 3 }$ 的比较梯度，结果显示无铵态氮的培养基并不利于原生质体生长，说明铵态氮对于广藿香原生质体培养仍然是必不可少的，其浓度可能需要根据物种的不同进行相应调整；而当 $\\mathrm { N H } _ { 4 } \\mathrm { N O } _ { 3 }$ 浓度为 $8 2 5 \\mathrm { m g ^ { \\bullet } L ^ { - 1 } }$ ，广藿香原生质体生长较好，与NT培养基中铵态氮含量一致。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2原生质体融合",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本实验采用了PEG-高pH高钙法进行广藿香的原生质体融合，同时研究了细胞密度、融合时间及融合液加入量对融合的效果。PEG-高pH高钙法（Kao&Michayluk,1974)是已有的原生质体融合方法中应用较多的一种。Kao认为，含有醚键的PEG具有负极性，与水、蛋白质、糖等正极化基团形成氢键，链状的 PEG聚合物可充当相邻原生质体表面间的分子桥而使其粘连；植物原生质体表面电荷在-10 至 $- 3 0 ~ \\mathrm { m V }$ 之间，高pH 高浓度钙离子可以中和膜表面负电荷（李浚明，2005)；洗涤过程中，含有较高浓度 $\\mathrm { C a } ^ { 2 + }$ 的洗液可以使原生质体膜上具有负极性的PEG分子洗脱，原生质体表面电荷因而重新分配，促进了原生质体融合。PEG浓度、细胞密度、融合液加入量对原生质体融合有着相似的影响作用。实验发现，随着PEG浓度、融合时间、细胞密度和融合液加入量的增加，聚合率与多聚率都随之增加；推测一开始作用较弱时，原生质体融合不彻底，融合率低；各影响因素增强后，较多原生质体融合为三聚体、多聚体与树枝状结构，多聚率偏高。因此需要对影响原生质体融合的各因素进行筛选。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本实验以物理选择法进行了融合产物筛选，在测量中期细胞直径时，参考熊洋等（2013）的方法处理广藿香原生质体，未观察细胞分裂中期的细胞，可能是由于悬浮细胞全日光照培养，扰乱了细胞正常生长规律，细胞个体间分裂同步性差，从而使短暂的分裂中期时刻不易被大量捕获。为了得到单个广藿香悬浮细胞直径范围，最后选用了以测量NDC 细胞直径与验证公式相结合的方法来使中期细胞直径测量值在准确范围内。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CEHNMH,CHEXJ,etaleactosectingpntegenatiofroprotolastoftoacoJ]eed,6():4-6. [陈名红，陈学军，熊立，等.2007．烟草原生质体再生植株的影响因子[J]．种子，26(5):4-6.]   \nDURIEUP,OCHATSJ.20oo.Eficientintergeneric fusionofpea (PisumsativumL.)andgrasspea (LthyrussatiusL)protoplasts [J].JExp Bot, 51(348): 1237-42.   \nEECKHAUTT,AKSHMANAPS,ERYCKERED,etal.2013.Proges inplantprotoplastresearch[J].Panta,238(6):9-0.   \nHAO YJ,YOUCX,DENGXX.2002.Cellsze asamorphological marker tocalculate themitotic index andploidy levelofcitrus callus [J]. Plant Cell Reports,20(12):1123-1127.   \nHONGOHKI,SUGAK,SUBIGARAF.2003,Preparationofprotopasts fromchlorellvulgaris K-73122andcellwallregeration of protoplasts from C. vulgaris K-73122 and C-27 [J]. JFac Agri Kyus Univ, 47(2): 257-66.   \nJIA SR，LUO MZ，LINY.1988.Embryogenic suspension culture and plantregeneration from suspension-derived protoplasts of Cucumber(Cucumis sativus L.)Acta Botanica Sinica，30（5）：463-467.[贾士荣，罗美中，林云．黄瓜胚性细胞悬浮培养 及其原生质体的植株再生[J]．植物学报,1988,30(5):463-467.]   \nKAI KN,MICHAYLUKMR.1975.Nutritionalrequrements for growthof Viciaha jastanacelland protoplasts ataverylow population density in liquid media [J].Planta,126(2):105-110.   \nKAO KN,MCHAYUKMR.1974.Amethodforgh frequncyintergenericfusionofplntprotoplasts [J].Planta,15(4):35-367.   \nLI JM.2005.PlantTissueCulture Tutorial[M].Beijing: China Agricultural University Press:198-199.[李浚明.2005.植物组织培养 教程[M].北京：中国农业大学出版社,:198-199.]   \nLIANG W,LIL,HEMLetal.2016.TheoptimizationofisolationandpurificationofprotoplastsfromPogostemoncblinsspsion cels[J]J.JoumalofGuangdongPharmaceuticalUniversity,32(2):144-148.[梁威，李磊，何梦玲，等.2016.广藿香悬浮细胞原生 质体的分离与纯化研究[J].广东药学院学报，32(2):144-148.]   \nLIU JF,LIUJH,CHENG YQ,et al.2010.Acquiring homozygous tetraploid germplasm byPEG-mediated protoplastfusionof Rhodiola sachalinensis[J].China Joumal ofChinese Materia Medica,35(14):1783-1788.[刘剑锋，刘建华，程云清，等.2010. PEG介导高山红景天原生质体融合获同源四倍体研究[J]．中国中药杂志，35(14):1783-1788.]   \nLUOJP,FENGYF,HEB,etal.205.StudyinGeo-authenticofPogostemoncablin.JouralofChnese MedicinalMaterials8(): 1121-1125.[罗集鹏，冯毅凡，何冰，等.2005.广藿香的道地性研究[J]．中药材，28(12)：1121-1125.]   \nMACKWSKAK,JAROSZA,GRZEBELUSE.2014.Plantregenerationfromleaf-derived protoplasts within theDaucusgenus:Effect of different conditions in alginateembedding and phytosulfokine application[J].Plant Cel Tiss Org,117(2):241-52. MOXL,YANZ,WANGYSetal.2O04.StudyonbacteriostaticactivityofPatchoulientiaoiltopantpathogenicfungiJ].ua of Chinese Medicinal Materials,27(1):805-807.[莫小路，严振，王玉生，等.2004.广藿香精油对植物病原真菌的抑菌活 性研究[J]．中药材，27（11)：805-807.] MORID,OGITA S,FUJISE K,etal. 2014.Protoplastcoculture bioassay for alelopathy inleguminous plants,Leucaen leucocephalaand Mucunagigantea,containingallelochemicalaminoacids,mimosineandL-DOPA[J].Journal ofPlantStudies,   \n4(1):1-11. NAGATA T,TAKEBEI1971.Plating of solated tobacco mesophyll protoplasts onagar medium[J]. Planta,99(1):12-20. NationalPharmacopoeiaCommision2015People'sRepublicofChinaharmacopoeia215,VolBeijing:ChinaMedicalScience and Technology Press45.[国家药典委员会.2015.中华人民共和国药典:2015年版一部[M].北京：中国医药科技出版 社.45.] PENG XQ,TANGR,XIEXM.2015.Advancesonthe solationof protoplastinGramineous plants[J].Chinese Agriculture Science Bulletin,31(1):252-257.[彭小群，唐然，解新明.2015．禾本科植物原生质体分离研究进展[J].中国农学通报，31(1):   \n252-257.] WIDHOLMJM.1972.Theuseofluoresceindiacetateandphenosafraninefordeterminingviabilityofculturedplantcels[J].Stain Tech, 47(4):189-94. WUYG,WULH,HEJC.2010.ProgressinresearchofhereditarybasisandbiotechnologyofPogostemoncablin (Blanco)Bench.[J] JTrop Organ,1(3)：288-292.[吴友根，吴连花，何际婵.2010.广藿香遗传基础及生物技术研究进展[J].热带生物学报,1(3)   \n288-292.] XIONGY,HE ML,HEF,etal.20l3.Chromosome sectioning optimizationand chromosome counting of three cultivars of Pogostemon cablin[J].Guangdong Agricl Sci,40(24):121-123.[熊洋，何梦玲，何芳，等.2013.3个广藿香品种染色体制片 技术优化与计数[J].广东农业科学，40（24）：121-123.] YANGR.2010.Studies on the technique ofthe fusionand cultureofprotoplast in Allium sativumL.[D].Shandong Agricultural University．[杨茹.2010.大蒜原生质体融合与培养技术研究[D]．山东农业大学.] ZHUZQ.2003.Plant Cell Engineering[M].Beijing:Chemical Industry Pres:150-154.[朱至清．植物细胞工程[M]．北京：化 学工业出版社，2003:150-154.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

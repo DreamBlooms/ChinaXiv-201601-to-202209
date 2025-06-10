@@ -1,0 +1,203 @@
+# 耀变体亮温度与黑洞喷流能量的相关性讨论
+
+晏培琳,张皓晶，马凯旋,陆林
+
+（云南师范大学物理与电子信息学院，云南昆明650500）
+
+# 摘要
+
+耀变体的亮温度与其黑洞喷流能量和吸积率有重要联系。本文搜集和计算了53个耀变体源样本，包括22个BLLac天体和31个平谱射电类星体(FSRQs)。研究了该样本耀变体亮温度与黑洞喷流能量的分布，并对其子类中亮温度与黑洞喷流能量的相关性进行了讨论。研究结果表明：（1）BLLac与FSRQs的亮温度与黑洞喷流能量的分布存在明显差异，这可能与BLLac与FSRQs的内禀性质的区别有关，也可能与其有无发射线及发射线的强弱有关；（2）BLLac天体的亮温度与黑洞喷流能量之间的相关性较强，亮温度可以在一定程度上描述BL Lac天体的黑洞喷流能量，亮温度大的BLLac天体的喷流所携带的能量也较大；（3）FSRQs 的亮温度与黑洞喷流能量之间有弱相关性，FSRQs的亮温度不能清楚的描述黑洞喷流能量，其黑洞喷流能量受亮温度影响较小。FSRQs的黑洞喷流能量可能受到其他因素的影响。（4）耀变体的亮温度与黑洞吸积率之间有弱的相关性关键词：耀变体；亮温度；黑洞；喷流能量；黑洞吸积率中图分类号：P157 文献标识码： 文章编号：
+
+# 1.引言
+
+活动星系核(ActiveGalactic Nucleus，AGN)是非常特殊的一类河外高光度辐射、高偏振、超大质量中心黑洞的源，其寄主星系被称为活动星系[1。现普遍认为AGN的星系中心有一个超大质量黑洞，中心的黑洞通常会产生强劲的喷流[2-3]。AGN 中最为极端的一个子类是耀变体（Blazars），具有极端相对论速度的喷流、喷流视角很小、喷流方向正好或者几乎正好指向观测者4，有非常强的相对论聚束效应[5]，是研究黑洞吸积、电子加速机制、高能辐射过程非常理想的对象。
+
+耀变体通常被分为平谱射电类星体(Flat Spectrum Radio Quasars，FSRQs)和蝎虎天体(BLLacs)两个子类，平谱射电类星体和蝎虎天体之间的经典划分主要基于发射线的等值宽度(EquivalentWidth，EW)，等值宽度大于0.5nm的耀变体为平谱射电类星体，反之为蝎虎天体[5-9]。耀变体是活动星系核中数量极少但具有极端物理性质的一类天体，在光学波段具有大振幅和快速的光变，而且高偏振变化也非常明显.由于喷流而产生非热连续的平滑谱，且有变化的强射电辐射[712]。耀变体的喷流辐射由于相对论的集束效应而被大大增强，主导整个的辐射，喷流功率超过整个宿主星系的光度，并且喷流的速度有时超过光速，因此对于观测研究将会更好的揭示喷流的特征。耀变体还具有一些极端的观测特性，如：快速大幅光变、视超光速运动、强且变化的光度、高的偏振度、非热的辐射谱线、核主导等[8-13]，这些性质都与喷流效应有关[4]。
+
+一个处于热平衡状态的绝对黑体其热平衡辐射强度，仅仅由其温度决定，这也就是说，如果知道一个热平衡附近近似绝对黑体的辐射强度，那也可以得到其温度，这个温度就是亮温度（Brightness temperature,简称 $\mathrm { T _ { B } }$ ）[15,17]。在天体物理学中，很多情况下是非热辐射的（如同步辐射，逆康普顿散射，星际分子脉泽，切仑柯夫辐射等），他们不具备普朗克形式，且表现出更多的各向异性，但天体物理学家把这类非热辐射折算成热平衡辐射，则此时对应的温度就叫做这个非热辐射场的亮温度[1]。亮温度是射电天文学当中的常见术语，可以表示为一个非热射电源在某一频率处的强度[15]。Blazars 的亮温度是射电亮度的一个参考量,其展现了射电磁场与射电光子的某种平衡关系[16]。亮温度的问题在AGN 的成束效应的研究中十分重要，对研究喷流的性质也极其重要[17]。射电喷流的关键物理性质是存储在辐射粒子中的能量和存储在磁场中的能量之间的关系[18-20]。
+
+本文利用黑洞喷流能量的计算方法,应用红移和15GHz 能量密度的喷流能量计算公式，计算出黑洞喷流能量。搜集了已发表文献中的亮温度数据，来研究Blazars的亮温度与黑洞喷流能量之间所存在的关联，并对产生的关联情况进行分析与讨论。
+
+# 2.黑洞喷流能量及亮温度的计算
+
+2.1黑洞喷流能量的计算
+
+本文中喷流能量的计算方法与文[21相同。运用耀变体的射电流量密度观测数据估算喷流能量,耀变体中大部分的射电瓣能量存在于等离子体中。假设喷流能量转化为瓣能量所用的时间与射电瓣从黑洞中心区域分离的时间 $t _ { s e p }$ 相同，通过研究射电瓣的射电谱线曲率可以测定其中等离子体的寿命（分布在黑洞中心区域的等离子体可能在射电瓣形成之初就已存在），进而可推测射电瓣的寿命及演化速率。设截止频率为 $\nu _ { b }$ ，同步周期（以cgs为单位）可以表示为：
+
+依据高能粒子（可能是电子和正电子）的幂律分布，运用热洛伦兹因子γ将数据源设为一个体积为 $\mathrm { \Delta V }$ 的均匀光源，则频率在 $\nu _ { 1 } \leq \nu \leq \nu _ { 2 }$ 之间的同步辐射可表示为$N _ { r } = N _ { 0 } V \int _ { \gamma _ { 1 } } ^ { \gamma _ { 2 } } \gamma ^ { - n } d \gamma .$ (2)
+
+上述关系式中的最大和最小洛伦兹因子与同步辐射的上限截止频率 $\nu _ { 1 }$ 和下限截止率 $\nu _ { 2 }$ 有关：
+
+$$
+\gamma _ { \scriptscriptstyle 1 } = \left[ \frac { 2 \nu _ { \scriptscriptstyle 1 } y _ { \scriptscriptstyle 1 } \big ( n \big ) } { 3 \nu _ { \scriptscriptstyle B } } \right] ^ { 1 / 2 } , \gamma _ { \scriptscriptstyle 2 } = \left[ \frac { 2 \nu _ { \scriptscriptstyle 2 } y _ { \scriptscriptstyle 2 } \big ( n \big ) } { 3 \nu _ { \scriptscriptstyle B } } \right] ^ { 1 / 2 } .
+$$
+
+其中， $\nu _ { _ B } = e B / 2 \pi m _ { e } c$ 为粒子回旋加速频率;
+
+$$
+\begin{array} { c } { { y _ { 1 } } ( n ) = 2 . 2 , { y _ { 2 } } ( n ) = 0 . 1 0 , \big ( n = 2 . 5 \big ) } \\ { { y _ { 1 } } ( n ) = 2 . 7 , { y _ { 2 } } ( n ) = 0 . 1 8 , \big ( n = 3 . 0 \big ) } \end{array}
+$$
+
+同步辐射光度 $L ( \nu )$ 是一个与动量空间的粒子分布和磁场强度有关的函数。结合粒子分布下同步辐射功率的公式：
+
+$$
+U _ { e } \approx \frac { 2 \times 1 0 ^ { 1 1 } B ^ { - 3 / 2 } } { a ( n ) ( n - 2 ) } L ( \nu _ { 1 } ) \nu _ { 1 } ^ { 1 / 2 } \big [ y _ { 1 } ^ { } ( n ) \big ] ^ { ( n - 1 ) / 2 } \times \left\{ 1 - \left[ \frac { y _ { 2 } ^ { } \big ( n \big ) \nu _ { 1 } ^ { } } { y _ { 1 } ^ { } ( n ) \nu _ { 2 } ^ { } } \right] ^ { ( n - 1 ) / 2 } \right\} ,
+$$
+
+$$
+a { \big ( } n { \big ) } = { \frac { \left( 2 ^ { \left( n - 1 / 2 \right) } { \sqrt { 3 } } \right) \Gamma \left[ { \frac { 3 n - 1 } { 1 2 } } \right] \Gamma \left[ { \frac { 3 n + 1 9 } { 1 2 } } \right] \Gamma \left[ { \left( n + 5 \right) / 4 } \right] } { 8 { \sqrt { \pi } } { \big ( } n + 1 { \big ) } \Gamma \left[ { \left( n + 7 \right) / 4 } \right] } } .
+$$
+
+设 $t _ { _ { s e p } }$ 与同步辐射周期 $t _ { \scriptscriptstyle { s e p } }$ 相等，截止通量密度为 $F _ { \nu }$ 。靠近类星体的射电瓣等离子在射电瓣中经历同步加速的蜕变后，其瓣能量转化为同步辐射光度 $L ( \nu )$ 。结合(3)式的同步辐射周期 $t _ { s e p }$ 与同步辐射功率的表达式（5），得到如下关系式：
+
+$$
+U _ { e } \approx \frac { L \big ( \nu _ { 1 } \big ) \big ( \nu _ { 1 } \big ) 1 / 2 \big ( \nu _ { b } \big ) ^ { 1 / 2 } } { 7 . 9 \big ( n - 2 \big ) a \big ( n \big ) } \big [ y _ { 1 } \big ( n \big ) \big ] ^ { ( n - 1 ) / 2 } t _ { s y n } .
+$$
+
+将截止频率带入（6）式，由 $t _ { _ { s e p } } \approx t _ { _ { s e p } }$ 可得喷流能量表达式：
+
+$$
+Q \approx \frac { U _ { e } } { t _ { s e p } } + L \approx \frac { \left[ y _ { 1 } ( n ) \right] ^ { n - 1 } ( 1 5 . 1 ) ^ { \alpha } } { ( n - 2 ) a ( n ) } \times 1 0 ^ { 4 2 } \left( 1 + z \right) ^ { 1 + \alpha } Z ^ { 2 } F _ { 1 s } e r g s s ^ { - 1 } + L .
+$$
+
+其中。 $\alpha$ 为谱指数 $\big [ L \big ( \nu \big ) \sim \nu ^ { - \alpha } \big ] , \alpha = \big ( n - 1 \big ) / 2$ 。由于原子组成的射电瓣气体的存在及低频部分射电谱线的延伸使喷流能量的估算值偏大，所以为了使结果更加精准，需对公式的谱指数进行校正。经长期的观测与验证，得出谱指数 $\alpha \approx 1$ 为（7）式最佳的基准值[21]。
+
+$$
+\begin{array} { r } { Q _ { \mathrm { j e t } } \approx 5 . 7 \times 1 0 ^ { 4 4 } \left( 1 + z \right) ^ { 1 + \alpha } Z ^ { 2 } F _ { 1 5 } e r g s s ^ { - 1 } , \alpha \approx 1 . } \end{array}
+$$
+
+由此可得到基于红移和15GHz能量密度的喷流能量计算公式（8）。
+
+2.2亮温度 $\mathrm { { T _ { b } } }$ 的计算
+
+在天体物理学中，许多辐射不是热辐射，而是非热辐射，例如，同步辐射和逆康普顿散射等，但是通常也把这类辐射折算成一定温度下的热平衡辐射，以便于比较。如果某一方向 $\mathfrak { n }$ 上某一给定频率的非热辐射的强度 $I _ { \nu } \left( n \right) = I _ { \nu } ^ { e q }$ ，则该温度 $T _ { b }$ 就定义为这个辐射场的亮度，经典极限下， $h \nu = K T$ 亮温度由下式给出：
+
+$$
+k T _ { b } = c ^ { 2 } I _ { \nu } { \left( n \right) } / 2 \nu ^ { 2 }
+$$
+
+在射电天文学中，亮温度通常等效的表示一个非热射电源在某一频率位置处的强度。现在亮温度可以用光变时标来表示[22]：
+
+$$
+T _ { b } = \Big ( 4 . 5 { \times } 1 0 ^ { 1 0 } K \Big ) F \Bigg [ \frac { \lambda d } { t _ { o b s } \big ( 1 + z \big ) } \Bigg ] ^ { 2 }
+$$
+
+式中 $F$ 为流量密度， $\lambda$ 为波长, $d$ 为距离, $T _ { b }$ 为亮温度, $\mathbf { \chi } _ { t }$ 为时标,分别以$J y , c m , M p c$ 和天为单位。
+
+# 3.样本选择
+
+从文献中收集射电波段的53个耀变体源，包括 22个蝎虎天体（BLLac）和31个平谱射电类星体(FSRQ)。收集的耀变体样本数据包括（1）源名称；（2）类型；（3）红移；（4）15GHZ下的流量密度(单位为央斯基)，来源于 NED 网络数据库与欧文斯谷数据库（OVRO）；（5）亮温度T。（单位为K)；（6）黑洞喷流能量 $\mathsf { Q } _ { \mathrm { j e t } }$ ；（7）黑洞吸积率Rate。运用(8)式计算了黑洞喷流能量，计算黑洞喷流能量所需要的15GHz 流量密度F(以央斯基为单位)均来源于 NASA／IPAC 河外星系数据库(NED)与欧文斯谷数据库（OVRO）。以上数据均列于表1中。本文讨论了亮温度与黑洞喷流能量、黑洞吸积率Rate之间的相关性，数据按源IAU 名称由小到大排列。
+
+表1射电类星体黑洞喷流能量、红移、15GHZ流量密度及亮温度 Table 1 The red-shift, mass, accretion , jet power and brightness temperature of in this paper   
+
+<html><body><table><tr><td>Name (1）</td><td>Type</td><td>Z (3)</td><td>F15GHZ</td><td>logTb</td><td>Refs</td><td>logQjet</td><td>Rate</td><td>Refs</td></tr><tr><td>0003-066</td><td>(2） BL Lac</td><td>0.347</td><td>(4） 3.0295</td><td>(5） 12.23</td><td>23</td><td>(6) 44.5766</td><td>(7) 一</td><td></td></tr><tr><td>0016+731</td><td>FSRQ</td><td>1.781</td><td>1. 7671</td><td>14.23</td><td>25</td><td>46.3929</td><td>1</td><td></td></tr><tr><td>0048-097</td><td>BL Lac</td><td>0.2</td><td>0.7590</td><td>13.42</td><td>25</td><td>43.3965</td><td>一</td><td></td></tr><tr><td>0106+013</td><td>FSRQ</td><td>2.107</td><td>2.9747</td><td>13.45</td><td>23</td><td>46.8613</td><td>1</td><td></td></tr><tr><td>0133+476</td><td>FSRQ</td><td>0.859</td><td>3.0807</td><td>13.85</td><td>25</td><td>45.6511</td><td>一</td><td></td></tr><tr><td>0212+735</td><td>FSRQ</td><td>2.367</td><td>2.9614</td><td>14.29</td><td>22</td><td>47.0303</td><td>一</td><td></td></tr><tr><td>0215+015</td><td>BL Lac</td><td>1. 721</td><td>1. 2678</td><td>13.64</td><td>22</td><td>46.1999</td><td>1</td><td></td></tr><tr><td>0306+102</td><td>FSRQ</td><td>0.863</td><td>1. 1217</td><td>12.74</td><td>23</td><td>45.2182</td><td>1</td><td></td></tr><tr><td>0336-019</td><td>FSRQ</td><td>0.852</td><td>2.3912</td><td>13.70</td><td>23</td><td>45.5307</td><td>0.2188</td><td>26</td></tr><tr><td>0420-014</td><td>FSRQ</td><td>0.915</td><td>4. 1776</td><td>14.02</td><td>23</td><td>45.864</td><td>0.1234</td><td>26</td></tr><tr><td>0528+134</td><td>FSRQ</td><td>2.067</td><td>1. 6836</td><td>15.29</td><td>25</td><td>46.5862</td><td>0.1660</td><td>26</td></tr><tr><td>0605-085</td><td>FSRQ</td><td>0.872</td><td>2.8667</td><td>13.22</td><td>25</td><td>45.6389</td><td>1</td><td></td></tr><tr><td>0607-157</td><td>FSRQ</td><td>0.324</td><td>3.3807</td><td>13.67</td><td>23</td><td>44. 5497</td><td>0.4166</td><td></td></tr><tr><td>0735+178</td><td>BL Lac</td><td>0.424</td><td>0.7876</td><td>13.18</td><td>23</td><td>44.2139</td><td>0.0366</td><td>27</td></tr><tr><td>0754+100</td><td>BL Lac</td><td>0.66</td><td>1. 1821</td><td>13.99</td><td>24</td><td>44.9078</td><td>0.0262</td><td>27</td></tr><tr><td>0808+109</td><td>BL Lac</td><td>0.407</td><td>0.8539</td><td>13.59</td><td>24</td><td>44.2031</td><td>1</td><td></td></tr><tr><td>0814+425</td><td>BL Lac</td><td>0.245</td><td>1. 1474</td><td>12.10</td><td>24</td><td>43.7843</td><td>一</td><td></td></tr><tr><td>0829+046</td><td>BL Lac</td><td>0.23</td><td>0.8182</td><td>13.14</td><td>23</td><td>43.5720</td><td>1</td><td></td></tr><tr><td>0923+392</td><td>FSRQ</td><td>0.695</td><td>9.4072</td><td>12.73</td><td>25</td><td>45.8716</td><td>0.0955</td><td>28</td></tr><tr><td>0954+658</td><td>BL Lac</td><td>0.367</td><td>1.2200</td><td>13.72</td><td>24</td><td>44. 2431</td><td>1</td><td></td></tr><tr><td>1038+528</td><td>FSRQ</td><td>2.296</td><td>0.6249</td><td>13.20</td><td>24</td><td>46.3096</td><td>1</td><td></td></tr></table></body></html>
+
+表2不同样品的亮温度与喷流能量、黑洞吸积率Rate的相关分析结果  
+
+<html><body><table><tr><td>1055+018</td><td>FSRQ</td><td>0.888</td><td>5.2491</td><td>14.20</td><td>23</td><td>45.9248</td><td>一</td><td></td></tr><tr><td>1156+295</td><td>FSRQ</td><td>0.729</td><td>1.8618</td><td>14.35</td><td>24</td><td>45.2269</td><td>0.0843</td><td>27</td></tr><tr><td>1219+285</td><td>BL Lac</td><td>0.13</td><td>0. 4859</td><td>11.32</td><td>25</td><td>42.7765</td><td>0.0567</td><td>28</td></tr><tr><td>1226+023</td><td>FSRQ</td><td>0.158</td><td>24.0138</td><td>13.74</td><td>24</td><td>44.6611</td><td>0.0767</td><td>27</td></tr><tr><td>1253-055</td><td>FSRQ</td><td>0.536</td><td>18.1227</td><td>13.26</td><td>25</td><td>45. 8452</td><td>0.0932</td><td>26</td></tr><tr><td>1307+121</td><td>BL Lac</td><td>0.407</td><td>0.6275</td><td>11.66</td><td>23</td><td>44.0693</td><td></td><td></td></tr><tr><td>1308+326</td><td>BL Lac</td><td>0.996</td><td>2.0948</td><td>14.59</td><td>23</td><td>45.6739</td><td>0.0201</td><td>28</td></tr><tr><td>1335-127</td><td>FSRQ</td><td>0.539</td><td>4.8579</td><td>13.81</td><td>24</td><td>45.2800</td><td>1</td><td></td></tr><tr><td>1413+135</td><td>BL Lac</td><td>0.247</td><td>0. 7814</td><td>13.88</td><td>25</td><td>43.6259</td><td>一</td><td></td></tr><tr><td>1418+546</td><td>BL Lac</td><td>0.151</td><td>1. 2403</td><td>12. 74</td><td>25</td><td>43.3295</td><td>一</td><td></td></tr><tr><td>1504-166</td><td>FSRQ</td><td>0.876</td><td>0.9707</td><td>13.08</td><td>23</td><td>45. 1744</td><td>1</td><td></td></tr><tr><td>1538+149</td><td>BL Lac</td><td>0.605</td><td>0.9845</td><td>12.97</td><td>23</td><td>44.7236</td><td>0.0495</td><td>28</td></tr><tr><td>1606+106</td><td>FSRQ</td><td>1.23</td><td>0.8147</td><td>13.85</td><td>23</td><td>45.5433</td><td>1</td><td></td></tr><tr><td>1611+343</td><td>FSRQ</td><td>1. 401</td><td>3.7655</td><td>12.98</td><td>25</td><td>46.3854</td><td>0.2630</td><td>26</td></tr><tr><td>1633+382</td><td>FSRQ</td><td>1.814</td><td>3.2217</td><td>13.57</td><td>25</td><td>46.6799</td><td>0.1682</td><td>26</td></tr><tr><td>1637+574</td><td>FSRQ</td><td>0.751</td><td>1. 4626</td><td>13.99</td><td>24</td><td>45.1589</td><td>0.3162</td><td>26</td></tr><tr><td>1641+399</td><td>FSRQ</td><td>0.594</td><td>6.2609</td><td>14.03</td><td>24</td><td>45.5051</td><td>0.2951</td><td>27</td></tr><tr><td>1642+690</td><td>FSRQ</td><td>0.751</td><td>2.4122</td><td>12.94</td><td>23</td><td>45.3761</td><td>1. 0471</td><td>27</td></tr><tr><td>1717+178</td><td>BL Lac</td><td>0.407</td><td>0.7408</td><td>12.26</td><td>23</td><td>44. 1414</td><td></td><td></td></tr><tr><td>1730-130</td><td>FSRQ</td><td>0.9</td><td>4.5081</td><td>14.62</td><td>25</td><td>45.8759</td><td>一</td><td></td></tr><tr><td>1741-038</td><td>FSRQ</td><td>1. 054</td><td>4.2033</td><td>13.71</td><td>25</td><td>46.0503</td><td>1</td><td></td></tr><tr><td>1749+096</td><td>BL Lac</td><td>0.322</td><td>3.6843</td><td>14.39</td><td>24</td><td>44.5804</td><td>0.0291</td><td>28</td></tr><tr><td>1749+701</td><td>BL Lac</td><td>0.77</td><td>0.7018</td><td>13.12</td><td>25</td><td>44.871</td><td>一</td><td></td></tr><tr><td>1803+784</td><td>BL Lac</td><td>0.679</td><td>2.5305</td><td>13.41</td><td>25</td><td>45.2729</td><td>1</td><td></td></tr><tr><td>1823+568</td><td>BL Lac</td><td>0.664</td><td>1. 3653</td><td>12.59</td><td>23</td><td>44.9777</td><td>1</td><td></td></tr><tr><td>1928+738</td><td>FSRQ</td><td>0.36</td><td>4.3597</td><td>13.34</td><td>23</td><td>44.7750</td><td>0.5888</td><td>27</td></tr><tr><td>2007+777</td><td>BL Lac</td><td>0.342</td><td>0.9434</td><td>13.41</td><td>23</td><td>44.0541</td><td>1</td><td></td></tr><tr><td>2121+053</td><td>FSRQ</td><td>1. 025</td><td>1. 7700</td><td>13.95</td><td>24</td><td>45.6381</td><td>一</td><td></td></tr><tr><td>2131-021</td><td>BL Lac</td><td>1.285</td><td>2.2473</td><td>13.93</td><td>24</td><td>46.0431</td><td>一</td><td></td></tr><tr><td>2136+141</td><td>FSRQ</td><td>2.427</td><td>2.2760</td><td>12.90</td><td>24</td><td>46.9530</td><td>一</td><td></td></tr><tr><td>2145+067</td><td>FSRQ</td><td>0.99</td><td>4. 0139</td><td>13.31</td><td>25</td><td>45.9484</td><td>1</td><td></td></tr><tr><td>2155-152</td><td>FSRQ</td><td>0.672</td><td>3. 1429</td><td>12.49</td><td>23</td><td>45.3544</td><td>1.2023</td><td>26</td></tr></table></body></html>
+
+设 $\mathrm { \Delta X = \Delta T _ { b } ; \Delta ; Y = \Delta \log Q _ { j e t } }$ ： $\gamma { = } \tt A { + } \tt B X { : } \tt N$ 为样品数;R为相关系数;由表1数据做最小二乘法相关性分析[29],结果如表2所示.
+
+Tablel The related data for jet power and brightness temperature at the different condition   
+
+<html><body><table><tr><td rowspan="2">X</td><td rowspan="2">Y</td><td rowspan="2">Ｒ</td><td rowspan="2">prob>F</td><td>A</td><td>Error</td><td>B</td><td>Error</td><td>N</td></tr><tr><td>(Intercept）(Intercept)</td><td></td><td>(Slope)</td><td>(Slope)</td><td>Type</td></tr><tr><td>Tb</td><td>LogQjet</td><td>0.4577</td><td>0.1940</td><td>37. 042</td><td>2.225</td><td>0.608</td><td>0.165</td><td>5-</td></tr><tr><td>Tb</td><td>LogQjet 0.1814</td><td></td><td>0.0017</td><td>43.033</td><td>2.638</td><td>0.199</td><td>0. 194</td><td>31</td></tr><tr><td></td><td>Tb LogQjet 0. 5154</td><td></td><td>0.2270</td><td>37. 441</td><td>2.266</td><td>0.529</td><td>0.202</td><td>BL 2Lac</td></tr><tr><td>Tb</td><td>Rate</td><td>-0.2914 -0.0367</td><td></td><td>1. 763</td><td>1. 137</td><td>-0. 111</td><td>0.084</td><td>21 1</td></tr></table></body></html>
+
+注：表中“-”表示 BLLac,FSRQ 整体讨论的情况
+
+![](images/0d9e927e271bc57abfac8efc7ac0596dc760a8671c9717a44d29f64b3398cfae.jpg)  
+图1BL Lac 天体黑洞喷流能量的分布 Fig.1The distribution of the jet energy of BLLac
+
+![](images/038f7a9b8118e1fbe401fd1eb42fe291c9850fcf45750572952b571e80611262.jpg)  
+图2平谱射电类星体黑洞喷流能量的分布 Fig.2The distribution of the jet energy of FSRQS
+
+# 4.讨论
+
+由图1、图2可以看出,BLLac 和FSRQs的黑洞喷流能量的分布存在明显的差异。FSRQs 的黑洞喷流能量大部分集中 $1 0 ^ { 4 4 . 5 } – 1 0 ^ { 4 7 } \mathrm { e r g s / s }$ ，而 BL Lac 的黑洞喷流能量大部分集中在 $1 0 ^ { 4 2 } – 1 0 ^ { 4 5 }$ ergs/s.
+
+![](images/5dd4cadf27a6e6b8937c5b031b039cda5cf89a1b7536580f4b0a0d83bd672d40.jpg)  
+图3 BL Lac 天体亮温度的分布
+
+![](images/e0cabc5b182670b379e05a510a66ddfbefbabd53114358d4ddd1482094dc1463.jpg)  
+图4平谱射电类星体亮温度的分布
+
+Fig.3Thedistributionof the bright temperature ofBLLac
+
+Fig.4The distribution of the bright temperature of FSRQS
+
+由图3、图4可以看出BLLac和FSRQs的亮温度分布存在一定的差异，但大体趋势较为相似。BLLac 和FSRQs 的亮温度大部分集中在 $1 0 ^ { 1 3 } – 1 0 ^ { 1 4 } \mathrm { K }$ ，但BL Lac的亮温度在 $1 0 ^ { 1 1 } – 1 0 ^ { 1 3 } \mathrm { K }$ 的分布较为平均，FSRQs 的亮温度在 $1 0 ^ { 1 2 . 5 } – 1 0 ^ { 1 4 . 5 } \mathrm { K }$ 分布较为平均。出现这样的分布情况，可能是与BLLac、FSRQs 的内禀性质的区别有关。本文认为其内禀性质最明显的表现：其有无发射线及发射线的强弱，是造成上述分布的原因之一。
+
+本文将BLLac与FSRQs分开讨论。由图5看出，耀变体的亮温度与黑洞喷流能量具有较高的相关性（ $scriptstyle \mathrm { R = } 0 . 4 5 7 7$ · $\scriptstyle \mathrm { p = 0 . 1 9 4 0 } ,$ ，说明黑洞的喷流能量与亮温度之间存在联系，亮温度可以用来描述黑洞喷流能量。由图6看出,BLLac的亮温度与黑洞喷流能量之间有较强的相关性 $\left( \mathrm { R } = 0 . 5 1 5 4 , \mathrm { p } { = } 0 . 2 2 7 0 \right)$ ，说明 BL Lac 的亮温度与黑洞喷流能量之间存在联系，亮温度可以在一定程度上描述BLLac 的黑洞喷流能量，亮温度大的BLLac的喷流所携带的能量也较大，表现出亮温度越大其黑洞喷流能量越大的现象。
+
+而由图7则可以看出，FSRQs的亮温度与黑洞喷流能量之间的弱相关性（R$= 0 . 1 8 1 4 , \mathrm { p { = } 0 . 0 0 1 7 , }$ )，FSRQs 的亮温度与黑洞喷流能量之间存在弱相关，亮温度不能清楚的描述黑洞喷流能量。说明FSRQs的黑洞喷流能量受亮温度的影响较小，其黑洞喷流能量很可能受到其他因素的影响。
+
+由图8可以看出，耀变体的亮温度与黑洞吸积率存在反相关性( $\mathbf { \tilde { R } = - 0 . 2 9 1 4 }$ ，$\mathrm { p } { = } { - } 0 . 0 3 6 7$ ），这说明耀变体的亮温度也可以用来描述其黑洞吸积率，亮温度越大，其黑洞吸积率越小。由于搜集的 BL Lac 的黑洞吸积率的数据太少，本文没有分开讨论BLLac和FSRQs的亮温度与黑洞吸积率的相关性。
+
+由于本文收集的耀变体的数据较少，数据的弥散度很大，所以在图中的相关性并不是很明显。
+
+![](images/af0ac5ae2745dddc23c49a04462b968bf5744b1ac714f5a2c2195288941530f9.jpg)  
+图5 亮温度与黑洞喷流能量
+
+![](images/f732c288d5dc5b99fbce5a83a5e30dbdcddd0e6e230afd8f5445b785bc906982.jpg)  
+图6 亮温度与黑洞喷流能量(BL Lac)
+
+Fig.5Brightness temperature and jet energy of black hole
+
+Fig.6Brightness temperature and jet energy of black hole(BL Lac)
+
+![](images/35630b8ffe6bb5b1b93e12590df7209e2aa0e3f752bc876f4aa2bc7e5f545170.jpg)  
+图7 亮温度与黑洞喷流能量(FSRQ）
+
+![](images/8617e95d74cb3fefd56604c1bf5e9dc234685459aa2adf20d6f93be67a614f8d.jpg)  
+图8 亮温度与黑洞吸积率
+
+Fig.7Brightness temperature and jet energy of black hole（FSRQ）
+
+Fig.6Brightness temperature and Black hole accretion rate
+
+# 5.结论
+
+本文搜集的蝎虎座天体（BLLac）和平谱射电类星体（FSRQs），在一定程度上说明了亮温度与黑洞喷流能量之间存在相关性。虽然BLLac和FSRQs 整体亮温度与黑洞喷流能量存在一定的相关性，但是BLLac和FSRQs各自的亮温度与黑洞的喷流能量之间的相关性存在较大的差异：BLLac的亮温度与黑洞喷流能量之间的相关性较强，而FSRQs亮温度与黑洞喷流能量之间相关性却较低。我们猜测这可能是由于以下原因造成的：
+
+（1）BLLac与FSRQs的光度大小不同；
+
+（2）两类星体核的活动不同；
+
+（3）BLLac与FSRQs 的内禀性质的区别,其最明显的表现为BLLac 和FSRQs发射线的有无以及发射线的强弱；
+
+（4）整体的亮温度与黑洞喷流能量的相关性可能受到BLLac和FSRQs自身性质的影响;
+
+（5）耀变体的亮温度与黑洞吸积率之间存在弱的反相关的关系，但由于数据较少，不能说亮温度是影响黑洞吸积率的绝对因素.
+
+至此，我们可以推断BLLac 的黑洞喷流能量的大小可能由亮温度的大小，黑洞质量及其他因素共同决定的，这与文[27]的结论一致。同时，也可以推断亮温度是影响耀变体的黑洞吸积率的大小的一个重要因素。
+
+致谢：本文中应用于计算黑洞喷流能量的15GHz 流量密度均源于 NASA/IPAC 河外星系数据库(NED)和欧文斯谷射电天文台官网(http://www.astro.caltech.edu/ovroblazars/)在此我们非常感谢欧文斯谷射电天文台的数据支持以及由美国国家航天航空局、美国加州科技研究所、喷流推进实验室联合运营的河外星系数据库(NED)所提供的帮助.
+
+参考文献：   
+[1]黄克谅．类星体和活动星系核[M]．北京：中国科学出版社，2005.   
+[2] ALLEN S W，DUNN R JH， FABIAN A C， et al. The relation between accretion rate and jet power in X-ray luminous eliptical galaxies [J]. Monthly Notices of the Royal Astronomical Society，2006，372: 21-30.   
+[3]MIRABEL I F, RODRIGUEZ L F. Sources of relativistic jets in the galaxy [J]. Annual Review of Astronomy and Astrophysics，1999，37: 409-443.   
+[4] URRY, C.M., PADOVANI, P. Unified Schemes for Radio-Loud Active Galactic Nuclei [J]. PASP, 1995,107:803-845.   
+[5]陈永云．活动星系核黑洞质量、偏振及喷流特性研究[D].云南师范大学,2016.   
+[6] SCARPA R， FALOMO R． Are high polarization quasars and BL Lacertae objects really different? A study of the optical spectral properties [J]. Astronomy & Astrophysics，1997, $3 2 5 ( \mathrm { ~ 1 } ) : 1 0 9 - 1 2 3$ ：   
+[7]丁楠．耀变体喷流及光变的物理特性研究[D].云南师范大学,2017.   
+[8]王泽睿．耀变体喷流的辐射机制研究[D].云南师范大学,2018.   
+[9]XIONG DR， ZHANG X. Intrinsic $\gamma$ -ray luminosity，black hole mass， jet and accretion in Fermi blazars [J]. Monthly Notices of the Royal Astronomical Society， 2014， $4 4 1 ( 4 ) : 3 3 7 5 -$ 3395.   
+[10]MILLERJ S. 1998 BL Lac objects(springer-verlag,Berlin)p395   
+[11]BREGMANJN .1990 A&ARev.2 215   
+[12] STOCKE JOHN T,MORRIS SIMON L,GIOIA ISABELLA, et al .1990 ApJ 348 141 [13]FICHTEL C E, BERTSCHD L, CHIANG J,et al. The first energetic gamma-ray experiment telescope（EGRET) source catalog [J]. The Astrophysical Journal Supplement,1994, 94(2) : 551 -581.   
+[14] FAN JH, HUANG Y,HE TM,et al. Radio Variability and Relativistic Beaming Effect for Blazars [J]. Publications of the Astronomical Society of Japan, 2OO9,61(4): 639-643.   
+[15]尤俊汉．天体物理中的辖射机制［M」．北京：科学出版社（第二版），1998. [16] READHEAD A C S.The Radio Jet Velocities at High Resolution [J]. Astrophysical Journal, 1994,426(1): 51—59.   
+[17]肖胡兵．耀变体成束效应的研究[D].广州大学,2017.   
+[18] BURBIDGE G R. Estimates of the Total Energy in Particles and Magnetic Field in the Non-Thermal Radio Sources [J]. ApJ,1959, 129: 849-852 . [19] CROSTON JH, HARDCASTLE MJ, HARRIS D E, et al. An X-Ray Study of Magnetic Field Strengthsand Particle Content in the Lobes of FR II Radio Sources [J]. ApJ,2O05, 626: 733-747 .   
+[20] HOMAN D C, KOVALEV Y Y, LISTER M L, et al. Intrinsic Brightness Temperatures of AGN Jets [J]. ApJ,2006,642: 115 一 120.   
+[21]CHICONE C， MASHHOON B， PUNSLY B. Relativistic motion of spinning particles in a gravitational field [J]. Physics Letters A， 2005， $3 4 3 ( \ 1 ) : 1 - 7$ ：   
+[22] WAGNER S J, WITZEL A. Intraday Variability In Quasars and BL Lac Objects [J]. Annual Revicw of Astrenomy and strophysics,1995,33: 163—198.   
+[23]HOVATTA T, VALTAOJA E, TORNIKOSKI M,et al. Doppler factors, Lorentz factors and viewing angles for quasars, BL Lacertae objects and radio galaxies [J]. Astronomy & Astrophysics, 2009, 494(2):527-537.   
+[24] FAN JH,HUANG Y,HE TM, et al. Radio Variability and Relativistic Beaming Effect for Blazars [J]. Publications of the Astronomical Society of Japan, 2O09, 61(4):639-643.   
+[25] LAHTEENMAKI A, VALTAOJA E . Total Flux Density Variations in Extragalactic Radio Sources. II. Doppler Boosting Factors,Lorentz Factors,and Viewing Angles for Active Galactic Nuclei [J]. The Astrophysical Journal, 1999.   
+[26] CAO X W, JIANG D R. Correlation between radio and broad-line emission in radio-loud quasars [J]. Monthly Notices of the Royal Astronomical Society,1999,307(2): 802-811. [27]张旭,张雄.黑洞吸积率与喷流能量相关性讨论[J].天文研究与技术,2016,13(01):24-30. [28]XIE GUANGZHONG ，HAO PENGJIU ,LU RUWEI ， et al . Optical behaviour of four BL lacertae objects [J]. Chinese Astronomy and Astrophysics ，1988，12(3) : 197 - 204 .   
+[29] 张雄．物理实验设计与研究［M」．北京：科学出版社（第二版），2001:63-73. Discussion on the correlation between the brightness temperature of the blazars and the jet energy of the black hole
+
+YanPeilin,ZhangHaoJin†,MaKaiXuan，LuLin, (Collge of Physics and Electronics，Yunnan Normal University，Kunming，China，650500)
+
+Abstract: The brightness temperature of blazars is extremely important for studying the properties of its black hole jet. In this paper, 53 blazars source samples are collected and calculated, including 21 BL Lac objects and 32 flat-spectrum radio quasars .The distribution of brightness temperature and jet energy of the black hole in this sample was studied,and the correlation between the brightness temperature and jet energy of the black hole in each subclass was discussed. The results show that:(1） The brightness temperature of BL Lac and FSRQs is significantly different from the distribution of jet energy of black holes,which may be related to the difference in the intrinsic properties of BL Lac and FSRQs,(2) The correlation between the brightness temperature of the BL Lac object and the jet energy of the black hole is strong. The brightness temperature can describe the jet energy of the black hole of the BL Lac object to a certain extent, and the BL Lac with a large brightness temperature The energy carried by the jet is also greater.(3) The correlation between the brightness temperature of the FSRQs and the black hole jet energy is small,and the brightness temperature in FSRQs cannot clearly describe the (4)The correlation between the brightness temperature and the accretion rate of the black hole in t he blazer is strong Keywords: blazar; brightness temperature; black hole; jet energy; black hole accretion rate

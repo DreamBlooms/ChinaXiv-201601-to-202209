@@ -1,0 +1,217 @@
+# 基于RoachIl的数字频谱仪开发设计
+
+刘晔²，刘奇²，李健²，王玥1,2(1.中国科学院新疆天文台，新疆 乌鲁木齐 830011;2.新疆微波技术重点实验室，新疆 乌鲁木齐 830011)
+
+摘要：为实现宽频带电磁环境实时测量，基于RoachII开发平台，开发设计了数字频谱仪，实时带宽10MHz-2GHz，动态范围达到55dB。首先，分析了数字频谱仪开发设计理念和模块参数设置考虑，实现快速扫描模式、脉冲监测模式测试功能。其次，通过频率响应、动态范围、线性度等关键指标测量及分析，并与商用频谱仪测量结果对比，确定该数字频谱分析仪具有相对准确的测试精度，可应用于射电望远镜台站宽带实时频谱监测及瞬态信号分析。
+
+关键词：数字频谱仪; 开发设计；性能测试；信号监测中图分类号：xXXXX 文献标识码：x 文章编号：XXXXXXXXXXX
+
+# 0引言
+
+随着科学技术的不断发展，频率资源使用率越来越高，10MHz-2GHz频段被商用设备、通讯设备、广播电视、航空导航、公共安全等广泛应用，使该频段的电磁环境异常复杂。由于射电天文业务具有高灵敏度和较宽工作频率范围的特点，因此射频干扰对射电望远镜观测的影响越来越大，如宽带、瞬态信号，尤其是周期性瞬态信号，对脉冲星观测、快速射电暴(Fast Radio Burst,FRB)实时搜寻观测的影响较大；同样，宽带、瞬态干扰源对连续谱观测也有较大的影响，原因是宽带、瞬态干扰会导致带宽内总的积分功率相对较高。因此如何捕捉宽带、瞬态信号在射电天文观测中显得十分重要，原因是只有捕捉并消除这些宽带、瞬态信号才能保证射电天文的高效科学产出。
+
+为缓解射频干扰(Radio Frequency Interference,RFI)对天文观测造成较大影响，RFI工程师在无线电宁静区建设、电磁干扰监测、干扰信号捕捉、频谱分析等方面投入大量精力。美国 Green Bank $1 0 0 \mathrm { m }$ 射电望远镜(Green Bank Telescope,GBT)将两套RFI监测系统安装于台站内，其中馈源臂附近的RFI监测系统运用与接收机相同的本振信号进行降频处理，并使用 $2 \times 4 0 \mathrm { M H z }$ 宽带 FFT 频谱仪，测试速度快且灵敏度高，能够对台站RFI进行有效的监测[1]。荷兰 WSRT（Westerberg Synthesis Radio Telescope）观测站开发了频谱监测系统，频率范围为 $2 0 \mathrm { M H z } { - } 3 0 0 0 \mathrm { M H z }$ ，将控制和数据分析集成与一体，实现了数据存储、分析、搜寻、成图等非常方便的电波环境监测系统[2.3]。FAST 和上海天马65 米均建立了适合望远镜需求的电磁环境监测系统[4]。新疆天文台为确保新疆奇台110米全可动射电望远镜(QiTai RadioTelescope，QTT）建设阶段台址各类电磁干扰的有效监测，自主设计开发了自动化、高可靠性的电磁环境监测系统，监测频段为 $0 . 1 { - } 1 2 \mathrm { G H z }$ ，可实现台址各类电磁信号的有效监测[5]。
+
+但上述电磁环境监测系统对宽带、瞬态电磁干扰信号的捕捉具有一定的局限性，如系统中采用的商用频谱仪的实时带宽通常不超过 $\mathrm { 4 0 M H z }$ ，且采用扫频模式，频谱测量效率较低。所以，本文拟采用天文领域应用较为广泛的RoachII硬件开发平台，完成快速扫描模式和脉冲监测模式的数字频谱仪的开发与设计，为射电天文台址宽频带、实时电磁环境监测提供支持。
+
+# 1系统设计
+
+本文基于RoachII开发平台设计研制的数字频谱仪，采用奈奎斯特采样、多相数字滤波设计、快速傅里叶变换理论，通过改变通道数量设计和扫描时间实现快速扫描模式和脉冲监测模式。
+
+RoachⅡI开发平台作为当前天文领域应用较为广泛的硬件平台，具有可重构开放式计算机体系结构和独立的可编程功能，同时更多的模块化设计可满足不同性能指标设计的要求。Roach II开发平台的构造主要围绕Virtex-6系列FPGA芯片来构建，可运行Linux操作系统，带有两个Z-DOK接口，可接连很多种输入输出接口的板卡，如模数转换、数模转换和其他设备等，在数字频谱仪设计中主要用于接ADC 板卡，当前可用3GS/s-8bit、5GS/s-8bit、10GS/s-4bit 等多款ADC 卡以满足不同采样带宽需求[8]。
+
+![](images/492e7332ad711403a137e41d2f4f88cb16878cd93bbbb9757dee344eef1bea62.jpg)  
+图1.数字频谱仪设计流程  
+Fig.1 Design process of the digital spectrum analyzer
+
+如图1所示，ADC经过奈奎斯特采样将采样量化后的数字信号首先经过多相滤波器滤波处理并进行通道划分，然后将信号经过快速傅里叶变换来进行时域到频域的转换，得到的频域信号数据进行自相关，最后将数据进行矢量累加，经缓存整合后进行数据存储。
+
+# 1.1ADC采样及选型
+
+ADC 作为数字采样的重要组成部分，其性能指标和采样率的合理设置是整个数字频谱仪设计的重点。根据奈奎斯特采样定理，确定频段间隔的信号，为保证信号在采样后完整的还原信号，则采样频率必须大于等于该信号的最高频率的两倍，即
+
+$$
+f _ { \mathrm { s a m p l e } } \geq 2 f _ { m a x }
+$$
+
+式中fsample为采样频率， $f _ { m a x }$ 为信号的最高频率。
+
+按照奈奎斯特采样定理，设计2G带宽的数字频谱仪要求ADC的采样频率大于或等于4G，高采样频率会加大数据量，因此在对ADC 进行选型时，对其性能提出较高的要求。硬件平台中采用的是型号为EV8AQ160的ADC 板卡，板卡内部集成了1:1和1:2的数据多路分离器(DMUX)和LVDS 输出缓冲器，可降低输出数据率，方便与多种类型的高速 FPGA直接相连，实现高速率的数据存储和处理。同时EV8AQ160 板卡内集成了4路ADC，可以工作在3种模式下，分别为采样率为1.25Gsps 的四通道模式，采样率为2.5Gsps 的双通道模式及采样率为 5Gsps 的单通道模式[9]。数字频谱仪的开发采用的是采样率为 5Gsps 的单通道模式，输出数据宽度为8bit。另外，为了补偿由于器件参数离散和传输路径差异所造成的采样数据误差，该 ADC 板卡针对每路ADC 数据的积分非线性、增益、偏置、相位做了控制和校正。
+
+# 1.2多相数字滤波
+
+如何实现抽取前或内插后的数字滤波是采样率变换的一个十分重要的问题，为避免其在采样过程中出现混叠现象，数字滤波器的设计显得尤为重要[10]。
+
+假设 $x ( m )$ 为信号输入， $y ( m )$ 为信号输出，定义其δ函数为 $\delta ( \mathfrak { m } )$ ，则其表达式可表示为：
+
+$$
+\begin{array} { r } { \mathrm { y } ( \mathrm { m } ) = \sum _ { - \infty } ^ { + \infty } \delta ( k ) \cdot x ( \mathrm { m } - \mathrm { k } ) } \end{array}
+$$
+
+卷积形式：
+
+$$
+\mathrm { y ( m ) } = \delta ( m ) * x ( m )
+$$
+
+基于数字滤波器的原理，在数字频谱仪开发中运用多相数字滤波算法，其信道划分如图2所示。
+
+![](images/90fd588dc7d58882d0e3526e49239719da226595518c00cff47b1f2dc11bff14.jpg)  
+图2.多相数字滤波信道划分  
+Fig.2 Channel division of polyphaser-filter
+
+假设FIR的转移函数[11]为
+
+$$
+\begin{array} { r } { \mathrm { H } ( \mathrm { z } ) = \sum _ { m = 0 } ^ { N - 1 } \delta ( m ) z ^ { - m } } \end{array}
+$$
+
+式中 $\mathbf { N }$ 为滤波器的长度，如果将冲击响应δ (m)分为 $\mathrm { ~ D ~ }$ 组，且 $\mathbf { N }$ 为 $\mathrm { ~ D ~ }$ 的整数倍，即 ${ \mathrm { N } } / { \mathrm { D } } { = } { \mathrm { j } }$ 则转移函数的多相表示为：
+
+$$
+\begin{array} { l } { { \mathrm { H } ( \mathbf { z } ) = \delta ( 0 ) z ^ { 0 } + \delta ( D ) z ^ { - D } + \cdots + \delta [ ( j - 1 ) D ] z ^ { - ( j - 1 ) D } + \delta ( 1 ) z ^ { - 1 } + \delta ( D + 1 ) z ^ { - ( D + 1 ) } + \cdots } } \\ { { \qquad + \delta [ ( j - 1 ) D + 1 ] z ^ { - [ ( j - 1 ) D + 1 ] } + \delta ( 2 ) z ^ { - 2 } + \delta ( D + 2 ) z ^ { - ( D + 2 ) } + \cdots } } \\ { { \qquad + \delta [ ( j - 1 ) D + 2 ] z ^ { - [ ( j - 1 ) D + 2 ] } + \cdots + \delta ( D - 1 ) z ^ { - ( D - 1 ) } + \delta ( 2 D - 1 ) z ^ { - ( 2 D - 1 ) } } } \\ { { \qquad + \delta [ ( j - 1 ) D + D - 1 ] z ^ { - [ ( j - 1 ) D + D - 1 ] } } } \\ { { \qquad = \sum _ { m = 0 } ^ { j - 1 } \delta ( m D ) ( z ^ { D } ) ^ { - m } + z ^ { - 1 } \sum _ { m = 0 } ^ { j - 1 } \delta ( m D + D - 1 ) ( z ^ { D } ) ^ { - m } + \cdots + \ z ^ { - ( D - 1 ) } \sum _ { m = 0 } ^ { j - 1 } \delta ( m D + \underbrace { \delta ( m - 1 ) } _ { ( 5 ) } ) } } \\ { { \qquad \mathrm { D } - 1 ) ( z ^ { D } ) ^ { - m } } } \end{array}
+$$
+
+定义 $\mathrm { H } ( \mathbf { z } )$ 的多相分量为：
+
+$$
+\begin{array} { r } { E _ { k } ( z ^ { D } ) = \sum _ { m = 0 } ^ { j - 1 } \delta ( m D + k ) ( z ^ { D } ) ^ { - m } } \end{array}
+$$
+
+所以
+
+$$
+\begin{array} { r } { \mathrm { H } ( \mathbf { z } ) = \sum _ { k = 0 } ^ { D - 1 } { z ^ { - k } } E _ { k } ( z ^ { D } ) } \end{array}
+$$
+
+数字频谱仪开发设计中采用PFB 模块、有限脉冲响应滤波器、FFT 模块组成多相滤波器。其中PFB 模块设置通道数目，频率通道的数目对应的是FFT运算点数的一半，原因是只进行实数信号的FFT运算。即快速扫描模式PFB 模块设置为16384，得到8192个通道的滤波器组，脉冲监测模式PFB 模块设置为2048，得到1024个通道的滤波器组。多相数字滤波设计的优点主要表现为通过通道划分抑制邻通道干扰，降低数据计算量，为高效率实时信号的采集实现提供途径。
+
+# 1.3总体架构设计
+
+依据上述设计流程及理论基础，运用MATLAB/Simulink 和Casper Toolflow 库，采用模块化设计思想，分别实现快速扫描模式和脉冲监测模式两种测量模式的设计。快速扫描模式和脉冲监测模式的总体架构设计相同，就数字采样、多相数字滤波、FFT点数、矢量累加模块、Bram 模块等模块的参数做了相应的更改，以实现不同测量模式的需求和设计。
+
+1)参数设置：如图3所示，数字频谱仪总体架构设计主要由数字采样、多相数字滤波、快速傅里叶变化、自相关、Delay 模块（蓝色）、矢量累加设计、Bram 模块(黄色)等组成。
+
+[new_acc> z\~1q 图 0sim_lin_reg z^2q [a:b [cnt_rst] [cnt_rst] rst out_reg simout [acc_len]→acc_len 2 sim_lin_reg \~2q （cnt_len][sygn_gen →1 sync new_accnew_acc] en   
+MSSCE c1 \~2q <[cnt_len] [cnt_rst]→rst addi 1 Syneout→d z2qout 山 [ent_rst] 肉 out_reg sim_out 山 中 data_in datao sygn_gen] [new_acc) 肉 en → addr [new_acc>→dz-1qewaccdout data_in data_out→ re→dz-1q→din valid 2 we sync ab 中 →b PL 2 out14 poll_in3 poll_out3 in02 out01 b ab →addr   
+广 L sim_a out13 out12 P 2 outll ab out1o poll_in7 →b Outl→bus_in outs poll_in8 Noll_in9 poll poll_out9 im07 out04 国 t 国 data_in data_out→ 1 t ab 用 国 out07 国 →b a15 n16 Isb_out1 poll_inl6poll_out16 in015 of 山 → re→dz\~1q→din valid 2 国 bus_expand pfb_fir_real fft_wideband_real ab addr asiaa_adc5g ecs data_indata_out + re→dz1q→din 心 i
+
+·Delay 模块为一个移位寄存器，可以配置其延时时钟周期的整数倍，在数字频谱仪设计中采用Delay 模块将采样数据在时间上对齐。以快速扫描模式为例，2GHz的带宽，分为8192个通道，其分辨率带宽为 $2 4 4 \mathrm { K H z }$ ，通过设置Delay 模块的参数可使频率与通道一一对应，避免出现频偏现象，因此Delay 模块的设置是整个数字频谱仪设计中非常重要的环节。
+
+·矢量累加设计采用是Vacc 模块，其设计如图4所示，该模块主要是将数据进行矢量排序累加，另外可消除毛刺对频谱的影响。共有 new_acc 和 din 两个输入端口，其中 new_acc输入端口是接收一个新的累加开始的脉冲信号，即接收到新的脉冲信号，开始一次累加；din端口是数据的输入端口，对应一个输出端口dout，通过设置dout 端口的参数，可有效控制数据的长度和位数宽度，当完成一次完整的矢量累加，Valid端口输出布尔型1，并与Bram模块进行交互作用，其他时候则输出为0。
+
+![](images/6c26025c11c295e0d066633c27225846ae29b22b240cede63afa14cf2a249492.jpg)  
+图3.数字频谱仪图形化程序  
+Fig.3 Block-diagram representation of the program of digital spectrum analyzer   
+图4.矢量累加模块  
+Fig.4Ablock diagramshowing the vectoraddition
+
+Vacc 模块中有三个参数设定，其中vector length 设定的是输入或者输出的矢量的长度。就快速扫描模式而言，FFT设置是16384个点，输出8192个频率通道的数据，分为奇数通道和偶数通道各4路信号，因此累加的矢量长度设置为1024，对应的脉冲监测模式的矢量长度设置为128。需要注意的是累加是将信号重合的累加，没有做平均处理，所以会使得数据的位数快速增长，为了避免溢出，要控制累加的次数和时间；Numberof output bits 设置输出信号的位数；Binary point(output)设置二进制数的所有位数中有多少位的小数位。new_acc 主要是标定一个积分时间的开始，防止矢量数据错位。
+
+·Bram 模块为接口模块，主要用于实现存储功能，在FPGA内部以阵列形式呈现。共有3个输入端口和1个输出端口，如图5所示，数据流进入data_in端口，从data_out端口输出。数据流通过addr 地址线来控制存储在相应的位置，保持数据排列正确性。其有效存储地址的输入端口和数据流的输入端的同步性是由脉冲信号控制的。
+
+![](images/0ceea568cbd4f93ebbe6b1be2366bda1605b526e063d62eb675ef2686c81248b.jpg)  
+Fig.5 A block diagram showing the storage
+
+Bram 模块读取数据的时间设置应该与数据矢量累加的时间保持一致，这是因为如果读取时间间隔太短则会导致在一定时间段内或者在循环读取数据的过程中，相邻多次的读取结果相同，也就是说重复读取了存储器中没有更新的数据；读取时间间隔较长则会导致储存器更新了多次数据，而如果读取只进行一次，就会使得部分频谱数据遗漏。
+
+2)编译运行：
+
+![](images/1c5c68363322f30afe3fbc9cb9fe34ba8cdef2f3d2e8a9997a3acb30f9e06ba4.jpg)  
+图5.存储模块  
+图6.性能测试流程  
+Fig.6 Test process of the performance
+
+如图6所示，首先，在 simulink中完成总体架构设计，对各模块进行参数设置，确保数据流相同，点击运行后进行仿真，校验编译前无错误显示。其次在MATLAB中输入命令casper_xps 启动编译，编译生成二进制 bof文件。最后将编译生成的二进制bof文件拷贝到RoachII开发平台的相应目录下，并确保RoachⅡI开发平台与计算机之间采用千兆以太网连接，采用Python 语言在Linux 操作系统中编写数字频谱仪运行的控制脚本，基于Python 脚本在本地计算机上即可启动RoachⅡI开发平台，并进行相应的性能测试及频谱信号测试。
+
+# 2 性能测试
+
+Python 脚本控制RoachII开发平台的运行是实现数字频谱仪测试功能至关重要的一步。首先清除缓存区的各个变量，采用IP 连接RoachⅡI开发平台，连接完成后将要执行的bof文件载入RoachII开发平台，然后将累加长度、增益大小等软件寄存器的写入数值进行相关设置，并等待10s让不正确的频谱输出值过滤掉，读取8个BRAM模块中的数据并存储在数组中，将8个数组交错组合成一个数组，输出并存储。
+
+# 2.1动态范围测量
+
+数字频谱仪的动态范围是指频谱仪能测量到的输入端同时存在最大信号与最小信号的比值(dB)，并且对于较小信号允许以给定不确定度测量。因此动态范围的测量是开发设计数字频谱仪的重要指标。构建硬件测试系统，采样时钟由Valon 5008 提供，性能好，精度高，同时由信号发生器提供外部10MHz信号进行锁定，如图7所示。
+
+![](images/70db116ac82a981dbaaf28056366ff71c8a611cace483cf6ef40481911d38fdb.jpg)  
+图7.硬件测试系统
+
+![](images/8c36f3f862211450aca878e991ff7c5558ab8d6e78a1e44dd85e7a0e5aa6ad05.jpg)  
+Fig.7 Testsystemof the hardware   
+图8.动态范围测量  
+Fig.8Dynamic range measurement
+
+在 $1 0 \mathrm { M H z } { - } 2 \mathrm { G H z }$ 范围内选取 $2 0 0 \mathrm { M H z }$ 、600MHz、1400MHz、1800MHz四个频点，信号发生器输出固定功率，功率值从 $\ldots 3 \mathrm { d B m }$ 开始，每次改变 $- 3 \mathrm { d B m }$ ，测试数字频谱仪的动态范围，假设信号发生器输出的功率值为第 $\mathfrak { n }$ 个，其对应的数字频谱仪采集的无量纲数值为$y ( n )$ ，则如果满足公式(4),即可认为数字频谱仪采集的信号为不失真的有效信号。
+
+$$
+{ \mathrm { n } } < { \mathrm { n } } + 1 , { \mathrm { n } } > 1 ~ ; ~ y ( n + 1 ) \approx { \frac { 1 } { 2 } } ~ y ( n )
+$$
+
+测试结果如图8所示，可以看出快速扫描模式和脉冲监测模式在-9dBm至-64dBm功率值下满足公式(4)，因此数字频谱仪的动态范围达到 55dB，满足一般宽带、瞬态电磁干扰信
+
+号测量要求。
+
+# 2.2线性度测试
+
+线性度测试可有效的检测数字频谱仪在信号监测时其功率响应是否准确，是开发设计数字频谱仪的重要指标。信号发生器输出固定功率值，通过改变频率值可测得数字频谱仪的线性度，由于设计中采集的数据是无量纲的，可通过公式(9)对测得的数据进行量化处理，得到单位为dBm的功率值，以信号发生器输出-20dBm的测试结果为基准，分别量化数字频谱仪测得的其他功率值的测试结果，如图9所示。结果显示1000MHz为一个坏点，这是由于ADC 板卡自身的设计缺陷所导致的，其他频点的线性度良好，数字频谱仪设计基本符合要求。
+
+$$
+P _ { m } = 1 0 l o g 1 0 ( c ) + b
+$$
+
+其中 $P _ { m }$ 为量化后的功率值，单位为dBm， $\boldsymbol { c }$ 为数据采集的原始数据，无量纲， $b$ 为校准系数。
+
+![](images/a5ef450f1943d1f26be07a6f9819449f96a63f659be293af11573c5d628674aa.jpg)  
+图9.线性度测试
+
+# 2.3对比测试
+
+![](images/445bb0072672148fdf6b251997d92f387a490e72a919d078797b7df277996614.jpg)  
+Fig.9Linearitymeasurement   
+图10.对比测试链路图  
+Fig.10 Diagram of comparison test
+
+为验证开发的数字频谱仪准确性，搭建了基于数字频谱仪和商用频谱仪的测量平台，系统链路如图10所示。首先信号经过双极化对数周期天线XSLP9142后通过带通滤波器做滤波处理，可有效抑制高于 ${ 2 0 0 0 } \mathrm { M H z }$ 的信号、干扰及噪声；然后信号通过BBV9743前置放大器、衰减器、功分器连接开发的数字频谱仪和N9030A商用频谱仪；最后分别存储测试数据并成图。其中系统链路中的信号发生器主要为数字频谱仪提供10MHz参考信号。
+
+测试时设置数字频谱仪的积分时间为 $5 0 \mathrm { m s }$ ，设置 N9030A 频谱仪的 sweep 为 $5 0 \mathrm { m s }$ 测试频率 $1 0 { - } 2 0 0 0 \mathrm { M H z }$ 。另外，可通过对RoachII开发平台设置不同的阈值与N9030A频谱仪做匹配度对比。测试系统设备参数及技术指标如表1所示。
+
+表1.测试系统设备参数及技术指标  
+Tab.1 The parameter and technical index of the devices of the measurement system   
+
+<html><body><table><tr><td>Device</td><td>Model</td><td>Frequency</td><td>Technical index</td></tr><tr><td>Dual-polarized log-periodic antenna</td><td>9142</td><td>0.8-5GHz</td><td>MAXPower:50W，VSWR:<1.5:1,Gain:9dBi, Impedance:50ohm</td></tr><tr><td>Preamplifier</td><td>9743</td><td>10-6000MHz</td><td>Noise:2.5dB, Gain:+28dB,VSWR: <2:1, Amplitude flatness:<±3dB</td></tr><tr><td>Dual Synthesizer Module</td><td>5008</td><td>137.5-4400MHz</td><td>Amplitude flatness:<±2.5dB,Impedance: 50ohm,Phase noise: <-85dBc/Hz</td></tr></table></body></html>
+
+依据图10的测试链路，首先更换不同的滤波器与衰减器进行摸查测试，可有效抑制带外干扰对系统链路造成的影响；然后通过设置不同的阈值进行系统性能测试，寻找最佳临界阈值。图11分别为功率阈值-64dBm、-60dBm、-55dBm、-50dBm 的对比结果，其中滤波器为 500-3200MHz，选用15dB的衰减器。
+
+![](images/0b335b13c46a721144cd1b5638b12cbed3e15867a94ab4923a2d59a08f326c02.jpg)  
+图11.不同阈值的对比结果  
+Fig.11 The results of different thresholds
+
+测试结果如图11所示，数字频谱仪与商用频谱仪的测试结果整体上有较好的吻合度，但当阈值设置为为-64dBm 和-60dBm时，数字频谱仪可以采集到1406-1422MHz、1976-1984MHz的信号，N9030A商用频谱仪没有采集到该信号，因为该信号为数字频谱仪内部信号。通过升高阈值发现，-55dBm是最佳临界阈值，数字频谱仪与商用频谱仪的功率响应吻合度高，信号的频率响应与商用频谱仪一致。
+
+# 3结论
+
+本文基于RoachⅡI开发平台，开发设计了实时带宽10MHz-2GHz 的数字频谱仪，完成了快速扫描和脉冲监测两种不同观测模式开发设计与性能测试。测试结果显示，数字频谱仪的动态范围可达到55dB，且与商用频谱仪有较好的吻合度，具有相对准确的测量精度，可应用于宽带实时频谱监测、瞬态信号监测等领域，为射电天文台址的电磁干扰分析、频谱管理策略制定、接收机设计等提供支撑。
+
+# 参考文献
+
+[1] J.R.Fisher.RFIMeasurement and Monitoring Facilities [J].NRAO,P.O.Box2,Green Bank,WV.March,1997. [2] Willem A.Baan,Peter A.Fridman,Subashis Roy,Robert Millenaar.The RFI Mitigation System at WSRT[J]. PoS(RFI2010)024.March 29-31,2010.   
+[3]Hans Van der Marel,Peter Donker.RFI measurements at the WSRT[J].PoS(RFI2O10)028.March 29-31, 2010.   
+[4] Zhang Hai-yan.Protection Progresson Radio Astronomy Frequencies in China[J].Progress in Astronomy(张 海燕.中国射电天文频率保护进展.天文学进展),2017,35(4):473-480.   
+[5] Liu Q,Wang Y,Liu Y,etal.Automatic radio environment measurement system forQTT site (in Chinese).Sci Sin-Phys Mech Astron(刘奇,王玥,刘晔,等.QTT 台址自动化电波环境监测系统.中国科学：物理学 力学 天 文学),2019,49:099512.   
+[6] C.Rauscher,Fundamentals of Spectrum Analysis [R],Rohde&Schwarz,2001.   
+[7]R.Ambrosini,R.Beresford,A.J.Boonstra,S.Elingson,and K. Tapping,RFI Measurement Protocol for Candidate SKA Sites[R],May 23,2003.   
+[8] Pei Xin,Li Jian,Chen Maozheng,Nie Jun.ADesignofaDigital Correlatorfor Microwave Holography Based on the ROACH Platform[J].ASTRONOMICAL RESEARCH AND TECHNOLOCY(裴鑫，李健，陈卯蒸，聂俊. 基于ROACH的微波全息法相关机设计．天文研究与技术),2015,12(1):54-61.   
+[9] Homin Jiang,Howard Liu.A 5Giga samples per second 8-bit analog to digital printed circuit board for radio astronomy[J]. Astronomical Society of the Pacific,2014,126(942):761-768.   
+[10] BaiYong,Hu Zhu-hua. GNU Software Defined Radio [M].Beijing: Sciences Press白勇,胡祝华.GNU Radio 软件无线电技术.北京:科学出版社),2017.   
+[11]Fredric JHarris,Chris Dick,Michael Rice.Digital receiversand transmiters using polyphaser Filter banks for wireless communications[J]. Microwave Theroy and Techniques,2003,51(4):1395-1412.
+
+A design of a digital spectrum analyzer based on the
+
+# Roach Il Platform
+
+Ye Liu1.2, Qi Liu1.2, Jian Li1.2, Yue Wang1.2 (1. Xinjiang Astronomical Observatory, Chinese Academy of Sciences，Urumqi 83o011, China;
+
+2.KeyLaboratory of Microwave Technology,Xin Jiang, Urumqi 83oO11, China)
+
+Abstract: In order to archive the real-time measurement of the broadband electromagnetic environment, a digital spectrum analyzer was developed and designed based on the Roach II platform.It has a real-time bandwidth of $1 0 \mathrm { M H z } - 2 \mathrm { G H z }$ and a dynamic range of 55 dB.Firstly, by analyzing the development and setting concepts of the digital spectrum analyzer and by considering the module parameter setings,the fast scan mode and pulse monitoring mode of the digital spectrum analyzer were implemented. Secondly，by testing and analyzing of the key parameters such as frequency response， dynamic range and linearity，a comparison with commercial spectrum analyzers was made.The results show that the designed digital spectrum analyzer has archived relatively precise test accuracy and can be applied to the broadband real-time spectrum monitoring and transient signal analysis in the radio telescope stations.
+
+Key words: digital spectrum analyzer; development and design; performance test; signal monitoring

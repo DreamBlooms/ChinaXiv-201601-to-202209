@@ -1,0 +1,719 @@
+[
+    {
+        "type": "text",
+        "text": "孤独症儿童潜在早期识别标志",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "发声异常及原因探析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘敏 胡洋 刘巧云",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(华东师范大学教育学部康复科学系，上海 200062)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要孤独症谱系障碍(Autism Spectrum Disorder，ASD)儿童的早期识别及早期干预对其发育结果至关重要。发声是指儿童学会说话之前发出的声音。已有研究表明，非类言语和类言语发声异常是ASD儿童2岁前的潜在识别标志。ASD儿童发声异常的理论解释主要有动机导向、神经运动导向、感知觉导向和社会反馈导向理论。未来研究可考虑探讨发声异常作为ASD 儿童独特的早期识别标志的可能性，加强哭声在ASD儿童早期筛查中的研究，探索基于最具预测性声学参数集的自动学习分类模型，探究内在动机与社会动机对ASD儿童类言语发声的影响和进一步探究ASD儿童类言语发声异常的神经机制。从而为ASD儿童的早期识别及早期干预提供更加客观的理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词孤独症谱系障碍，潜在早期识别标志，发声异常，原因探析",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号R395",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孤独症谱系障碍(Autism Spectrum Disorders，ASD)是一种神经发育性疾病，有两个核心症状：一是，社会沟通和社会互动存在持续性的缺陷；二是，表现出受限的和重复的行为模式、兴趣或活动(American Psychiatric Association,2013)。ASD 有两种主要的发病模式：1岁前发病的早发型(early onset)和2岁左右发病的倒退型(regresson)(Boterberg et al.,2019)。倒退型 ASD 占比大约为 $30 \\%$ ，主要以已习得的语言或社交技能的倒退或丧失为标志(Tan et al.,2021)。最新的数据显示全球ASD发病率略低于 $1 \\%$ (Lord etal.,2020)，我国 ASD 发病率为1/142(Zhou et al.,2020)，美国 ASD 发病率为 1/54(Maenner et al.,2020)，由此可见 ASD 发病率较高。虽然目前没有治疗 ASD 核心症状的特效药(Goel etal.,2018)，但在早期尤其是2 岁以前若能及时发现和干预，能有效改善ASD个体的语言、社交沟通等能力的发展轨迹并影响长期结果(Estes et al.,2015; Frazier et al.,2021; Sigafoos & Waddington,2016; Wetherby et al.,2018)，甚至“预防”全面综合征的出现(Yirmiya&Charman,2010)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "发声(vocalization)是指儿童学会说话之前发出的声音(Schoen Simmons,2021)。发声包括非类言语发声(nonspeech-like vocalizations)和类言语发声(speech-like vocalizations)(Oller,2000)。非类言语发声是与生物功能有联系的发声，包括有固定信号作用的声音(fixed signals)和植物性声音(vegetative sounds)(Garrido et al.,2017; Nathani et al.,2006)；类言语发声是指类似言语的声音，包括不同的类型并沿着一个连续体发展，在1岁左右变得更像言语(Nathaniet al.,2006;Oller,2000)。ASD儿童的发声特征通常采用更具体的指标进行分析，其中非类言语发声常用分析指标为频率、比例、基频、停顿长度、持续时间等(e.g.,Esposito et al.,2013;Plumb& Wetherby,2013)，类言语发声常用分析指标为发声复杂性和沟通性发声(e.g.,Mcdanieletal.,2020;Yoder etal.,2016)。发声的具体类型及常用分析指标见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "发声是早期正常发展的一个关键成就。正常发展(TypicalDevelopment，TD)儿童的发声在0\\~1岁之间表现出哭声和咕咕声频率逐步下降，元音和规范音节频率逐步上升的趋势(Cychosz et al.,2021; Nathani et al.,2006)。发声的非典型性发展是发育异常的指标，对早期发声的深入理解使得神经发育性疾病的早期发现和鉴别成为可能(Marschik et al.,2017)。研究表明，ASD儿童的发声存在异常现象，与其核心的非典型沟通症状有关(Gabrielsen et al,2015)，对发声异常的早期识别可能有利于改善ASD儿童平均在5岁时才能被诊断的现状(van'tHof etal.,2021)。然而，关于ASD 发声特征已有研究存在分歧。例如，有研究支持 ASD儿童比TD儿童有更多非类言语沮丧声的结论(Plumb&Wetherby,2013)，也有研究发现两类儿童非类言语沮丧声无差异(Schoen etal.,2011)。有研究表明 ASD儿童比TD儿童的类言语发声更少(Patten etal.,2014),而另一研究却发现ASD儿童类言语发声过度(Werner&Dawson,2005)。那么，ASD儿童有哪些非典型的发声异常？这些发声异常作为早期识别标志的可能性如何？",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文将总结近年来ASD儿童早期发声的研究成果，概括ASD儿童发声异常的特征，分析ASD儿童发声异常作为早期识别标志的可能性，探析ASD儿童发声异常的原因，从而为ASD儿童的早期发现及早期干预提供一些新思路。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/454434d53143b53c393004269b80299e3ce8ec8c8298250c7836ed7943ba0fac.jpg",
+        "table_caption": [
+            "表1发声的类型、定义及常用分析指标"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">类型</td><td>定义</td><td>常用分析指标</td></tr><tr><td colspan=\"3\">愉悦声</td><td>非类言语发声的频次(非类言语发声的次</td></tr><tr><td colspan=\"2\">(pleasure/delight)</td><td></td><td>数)、频率(单位时间内非类言语发声的频</td></tr><tr><td colspan=\"2\">非典型发声</td><td>一种非典型的声音，主要包括高音调的</td><td>次)、比例(如沮丧声占总非类言语发声比</td></tr><tr><td colspan=\"2\">(atypical) 非类言</td><td>尖叫声、低音调的吼叫声和高强度的叫</td><td>例)等</td></tr><tr><td colspan=\"2\">语发声</td><td>喊声</td><td>基频(fundamental frequency,fo)是声带每</td></tr><tr><td colspan=\"2\">沮丧声(distress)</td><td>一种与消极情绪状态有关的发声，主要</td><td>秒振动的次数，反映了声音的音调</td></tr><tr><td colspan=\"2\"></td><td>包括强烈的哭声、哀嚎声</td><td>停顿长度(pause length)是哭声之间的停顿 时间</td></tr><tr><td colspan=\"2\"></td><td></td><td>持续时间(cry duration)是哭声的持续时间</td></tr><tr><td colspan=\"2\">准共振元音</td><td>一种微弱的、低音调的、有时伴有鼻音</td><td>发声复杂性(vocalcomplexity)是类言语发</td></tr><tr><td colspan=\"2\">(quasivowel)</td><td>的呼噜声，产生时喉咙闭合、呼吸支持</td><td>声的频次/频率、一致性和多样性。如非规</td></tr><tr><td colspan=\"2\">类言语</td><td>很少、声音很短(通常小于100ms)、</td><td>范音节频率或频次(准共振元音、单个元</td></tr><tr><td colspan=\"2\">发声</td><td>2000Hz以上部分能量不足，很难转录为</td><td>音、单个辅音、边缘音节)，规范音节比例</td></tr><tr><td colspan=\"2\"></td><td>成人元音</td><td>或频率，辅音类型等</td></tr><tr><td colspan=\"2\">元音(vowel)</td><td>产生时喉咙开放、有清晰的共振峰</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/d981efee71ffc10327cecfd9d0dddad24c55f7f50fedd0f17de915344342ae5c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>边缘音节(marginal</td><td>也称边缘呀呀语(marginal babbling)，是沟通性发声(vocal communication)是指通</td><td></td></tr><tr><td>syllable)</td><td>指缓慢的CV序列，C和V之间有较长</td><td>过眼神、手势指向他人的明显为了传递信</td></tr><tr><td></td><td>的转换时间(通常大于250ms)</td><td>息的发声。如发声中用于沟通的发声比</td></tr><tr><td>规范音节(canonical</td><td>主要包括单个的CV音节和由2个及以例，沟通性发声行为的数量</td><td></td></tr><tr><td>syllable)</td><td>上CV序列构成的规范呀呀语(canonical</td><td></td></tr><tr><td></td><td>babbling)。C和V之间具有快速的转换</td><td></td></tr><tr><td></td><td>(通常小于 250ms)。其中规范呀呀语包</td><td></td></tr><tr><td></td><td>括重叠音节(reduplicated syllable，具有</td><td></td></tr><tr><td></td><td>相同的CV组合序列)和非重叠音节</td><td></td></tr><tr><td></td><td>(nonreduplicated syllable，具有变化的不</td><td></td></tr><tr><td></td><td>同的CV组合序列)</td><td></td></tr><tr><td>复杂音节(complex</td><td>主要包括不同于CV 音节以外的 VC、</td><td></td></tr><tr><td>syllable)</td><td>CCV等单音节，VCV、VCVC 等复杂双</td><td></td></tr><tr><td></td><td>音节，VCVCV、VCVCCV 等有或无重</td><td></td></tr><tr><td></td><td>音及语调的多音节串</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "注：非类言语发声分为固定信号声音和植物性声音，其中植物性声音是反射性发声，如咳嗽、打嗝、打喷嚏等发声,在发声研究中一般不对植物性声音进行分析，故此处只包括固定信号声音;C：辅音,consonant;V:元音，vowel。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2发声异常与ASD早期识别",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1非类言语发声异常与ASD早期识别 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对ASD儿童非类言语发声特征的研究主要包括两个方面：一是，非类言语发声频次、频率或比例；二是，哭声的基频、停顿长度和持续时间。虽然，已有非类言语发声频率、比例等研究结果不一致(e.g.,Plumb&Wetherby,2013; Schoen et al.,2011)。然而，关于沮丧声中哭声声学异常特征的结论相对一致，即ASD儿童的哭声基频较高，停顿长度和持续时间较短(e.g., Bornstein et al., 2016; Esposito et al.,2014; Esposito et al., 2015)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1较高的哭声基频是ASD潜在早期识别标志",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基频作为最能说明哭声声学特征的参数(Lester&Gasse,2020)，在ASD儿童哭声的研究中被研究者广泛使用。研究中ASD儿童哭声基频样本主要来自两方面：一是，熟悉或陌生自然情境中的非疼痛哭声；二是，自然情境中的疼痛哭声。研究发现，ASD儿童哭声基频高于同龄TD儿童。对已确诊的ASD儿童早期哭声的早期家庭视频分析表明，5\\~18个月的ASD 婴儿非疼痛哭声基频高于 TD 婴儿(Bornstein et al.,2016;Esposito et al.,2012,2013;Esposito etal.,2015;Esposito&Venuti,2010a,2010b)。15个月的ASD 高风险婴儿和年龄稍大的 36\\~52 个月 ASD 幼儿陌生情境中较高的非疼痛哭声基频支持上述结果(Esposito et al,2014;Ozturk etal.,2018)。前瞻性研究发现，熟悉的自然情境中6个月的ASD 高风险婴儿疼痛哭声基频高于低风险婴儿，两组婴儿非疼痛哭声无显著差异，但后来被诊断为ASD 的婴儿的两类哭声基频均最高(Sheinkopf etal.,2012)。以上证据显示,较高的哭声基频可能是 ASD的早期识别标志，尤其较高的疼痛哭声基频可能是一个更敏感的指标。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.2较短的哭声停顿长度和持续时间是ASD潜在早期识别标志",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "哭声的停顿长度和持续时间反映了呼吸控制能力(LaGasse et al.,2005)，在ASD 婴儿哭声研究中探究较多。已有研究表明，ASD儿童哭声的停顿长度和持续时间短于同龄 TD儿童。研究表明，12\\~13 个月的 ASD 婴儿哭声的停顿长度明显短于 TD 婴儿(Esposito et al,2012,2013; Esposito et al.,2015; Esposito & Venuti,2009; Venuti et al.,2012)。前瞻性研究发现，ASD 高风险婴儿在12个月和15个月时哭声的持续时间短于TD婴儿，且在2岁或3岁被诊断为 ASD 的婴儿的哭声持续时间最短(Esposito et al.,2014; Unwin et al.,2017)。以上证据表明，较短的哭声停顿长度和持续时间可能是ASD的早期识别标志。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2类言语发声异常与ASD早期识别 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.1异常的发声复杂性是ASD潜在早期识别标志",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "有大量研究探讨了ASD儿童的发声复杂性，虽然有两项研究发现ASD儿童或ASD 高风险儿童的发声复杂性与 TD儿童无显著差异(Chericoni et al.,2016; Talbott et al.,2016)，但有更多的证据显示ASD儿童的类言语发声复杂性表现出异常现象，主要表现为类言语发声复杂性明显低于或高于同龄 TD儿童(e.g.,Garrido et al.,2017; Heymann et al.,2018;Wermer &Dawson, 2005)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "首先，多数研究证实ASD儿童类言语发声复杂性低于同龄TD儿童。前瞻性和回溯性研究表明，2岁前ASD婴儿的元音、边缘音节和规范音节等类言语发声频率或比例显著低于 TD婴儿且出现延迟现象(Garrido et al.,2017; Patten et al.,2014; Plumb & Wetherby,2013;Wetherby et al.,2004)，表现出更少的辅音类型(Schoen et al.,2011; Wetherby et al.,2007)。ASD高风险婴儿的元音、重叠音节、复杂音节等类言语发声频率或比例(Heymann etal.,2018;Paulet al.,2011; Winder et al.,2013)和辅音类型(Chenausky et al.,2017; Paul et al.,2011)均低于低风险婴儿。此外，研究显示类言语发声复杂性对 ASD 诊断具有良好的预测性。Patten 等人(2014)发现9\\~12个月时规范音节占总音节发声比率和音节发声频率对 ASD 诊断预测的准确率达$82 \\%$ 。Paul 等人(2011)发现9个月和12个月ASD 高风险婴儿的辅音类型能预测 24个月时ASD症状，准确率分别为 $7 7 \\%$ 和 $65 \\%$ 。以上证据表明，较低的类言语发声复杂性可能是ASD早期识别标志。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其次，少量倒退型ASD儿童类言语发声复杂性高于同龄TD儿童，出现过度发声现象。回溯性研究发现，15名12个月大的倒退型 ASD 婴儿复杂呀呀语频率显著高于TD 婴儿，而另外21名早发型ASD 婴儿复杂呀呀语频率低于TD 婴儿。进一步分析发现 $46 \\%$ 倒退型ASD 婴儿的复杂呀呀语频率高于TD 婴儿的平均值，只有 $6 \\%$ 早发型ASD 婴儿表现出这种现象(Wermer&Dawson,2005)。这项研究还发现，随着年龄的增长，倒退型 ASD儿童的复杂呀呀语逐步退化，在24个月时他们的复杂呀呀语与早发型ASD婴儿一样，都显著落后于TD 婴儿。最近一项前瞻性研究发现，9个月大ASD高风险婴儿比低风险婴儿有更多的类言语发声,这一结果主要体现在12 名 $( 3 1 \\% )$ ASD 高风险婴儿的过度发声(Swanson etal.,2018)。以上结果表明，较高的发声复杂性可能是倒退型ASD儿童的早期识别标志。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.2较少的沟通性发声是ASD潜在早期识别标志",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "沟通性发声能够评价 ASD儿童发声的社会性(Mcdaniel etal.,2020)。研究表明ASD儿童沟通性发声少于同龄TD儿童，2岁前ASD婴儿有意图的发声沟通行为明显少于TD 婴儿(Bacon et al.,2018; Dow et al.,2020; Dow et al.,2017; Plumb & Wetherby,2013; Shumway &Wetherby,2009)。ASD 高风险婴儿研究也支持上述结果，ASD 高风险婴儿产生更少的社交导向发声，随后被确诊的 ASD 婴儿的沟通性发声能力最低(Garrido et al.,2017; Sacrey et al,2021;Winder etal.,2013)，且过度发声的ASD高风险婴儿的社交呀呀语也低于低风险婴儿(Swansonetal.,2018)。研究还发现，相比较单独使用发声复杂性，在结合考虑沟通性发声和总发声率后更有可能预测 ASD 的诊断(Garrido etal.,2017)。以上证据表明，沟通性发声与沟通复杂性的相互作用可能是预测ASD的更有效标志。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3ASD儿童发声异常的原因探析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "综合已有研究结果，发现ASD儿童非类言语哭声基频较高，停顿长度和持续时间较短；类言语发声复杂性较低或较高，沟通性发声较少。这些发声异常不仅可能是ASD早期识别标志，也在一定程度上反映了ASD儿童社会沟通和社会互动方面的核心缺陷。以下结合动机导向、神经运动导向、感知觉导向和社会反馈导向等理论对现有结论进行分析与解释。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1动机导向理论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ASD 儿童对特殊兴趣的强内在动机在一定程度上解释了他们类言语发声复杂性异常的问题。内在动机(intrinsic motivation)是指个体自发的好奇心和兴趣、主动练习技能和学习知识的倾向，受多巴胺能系统的支持，与注意力控制和自我参照认知的神经网络相关(DiDomenico&Ryan,2017)。计算机建模研究证明，内在动机是婴儿类言语发声发展的一般机制(Acevedo-Valle et al.,2018;Moulin-Frier et al.,2014)，其关键思想是自我生成和目标选择。内在动机让婴儿自主构建自己的发声试验和制定自己的学习计划，解释了婴儿从最初忽略周围语音环境的自我探索发声到受成人语音影响的模仿发声的自动转变，使婴儿的发声从最初的非类言语发声过渡到不清晰的准元音再到清晰的复杂规范音节。内在动机对 TD 婴儿类言语发声的作用也在行为研究中得到了验证，TD婴儿的类言语发声大多是在独自探索的游戏中产生的(Oller et al.,2019)。当成人寻求与婴儿社会互动时，婴儿大多数发声(约 $60 \\%$ 似乎不是针对成人的；当成人与婴儿在一起但没有试图参与婴儿的活动时，这种探索性发声的优势更强(约 $80 \\%$ )(Long etal.,2020)。研究发现ASD个体比正常人群有更多刻板地从事特殊兴趣的内在动机(Grove et al.,2016)，且这一现象在1岁前的 ASD 婴儿中也很明显(Baconetal.,2018)。ASD婴儿可能更喜欢重复玩弄音节，而 TD婴儿更倾向于探索语音的细微差别(Long etal.,2021)。那么可以推测，ASD婴儿对特殊兴趣的强内在动机可能影响了他们类言语发声复杂性尤其是辅音多样性的习得，同时也可能导致倒退型 ASD儿童类言语发声复杂性过高。值得注意的是，目前较缺乏内在动机对ASD儿童类言语发声影响的实证研究。近期Long 等人(2021)尝试探究内在动机对 ASD 高风险和低风险婴儿规范音节发声的影响，结果并未显示内在动机对不同ASD 风险婴儿的规范音节产生影响。未来对已确诊的 ASD 婴儿进行探究，也许能够提供内在动机影响类言语发声的新证据。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "社会动机缺陷可能是ASD儿童沟通性发声较少的原因之一。社会动机(social motivation)是一套心理倾向和生物机制，偏向于个人优先适应社会世界，在社会互动中寻求和享受快乐，努力培养和维持社会纽带(Chevallier et al.,2012)。Chevallier 等人(2012)在总结已有证据基础上认为，社会动机机制的破坏可能构成了ASD的主要缺陷。ASD社会动机缺陷与社会性奖励脑区功能失调有关，主要涉及尾状核和前扣带回功能降低，中脑腹侧被盖区和伏隔核之间的结构与功能连接性降低(Clements etal.,2018; Supekar etal.,2018)。ASD 儿童对面孔关注减少，更少参与到亲子互动中和发起共同注意互动行为也为社会动机缺陷假说提供了有力证据(Adamson et al.,2019; Reid et al.,2017)。在社会动机缺陷模型下，ASD 儿童很少主动采用类言语发声的形式主动与他人沟通。此外，儿童的类言语发声发展涉及儿童与成人双主体的互动(Elmlinger etal.,2019; Oller etal.,2016)，ASD儿童的社会动机缺陷使得他们难以与成人形成良好的社会互动。那么，社会动机也可能影响ASD儿童类言语发声复杂性的发展。然而，目前关于社会动机对ASD儿童类言语发声发展影响的实证研究极其有限，未来还需要开展该领域的研究。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2神经运动导向理论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "类言语发声神经运动方面的不成熟或紊乱对ASD儿童类言语发声复杂性可能有特定影响。类言语发声神经运动机制可以从言语的神经运动方面进行分析，因为类言语发声或准言语(quasispeech)具备言语的语音结构但不带有言语的意义(Kent,2015)，且有大量研究采用无意义的元音或规范音节作为材料对言语产生的神经系统进行研究(Kumar etal.,2016)。位于额叶初级运动皮质中的喉运动皮质(LaryngealMotor Cortical,LMC)参与控制言语运动(Eichert etal.,2020)。对元音发声的功能核磁共振研究表明，初级运动皮质中喉部和下颌部肌肉控制区域有重叠，研究者认为这种皮质间的重叠可能支持了喉部发声和下颌振荡之间的耦合，从而产生音节结构(Brown etal.,2021)。此外，额叶皮质的认知功能也参与控制发声(Hage,2018)。然而，ASD儿童在2岁前前额叶和其它皮质过度生长(Bonnet-Brilhault et al,2018; Hazlett et al.,2017; Hazlett et al.,2011; Kaushik & Zarbalis,2016)，这可能会影响类言语发声运动的控制，从而导致类言语发声复杂性异常。不过，目前ASD儿童如何控制发声器官以协调产生类言语发声的神经运动机制尚不清晰，未来还需开展此方面的研究。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "坐姿发育延迟可能是ASD儿童类言语发声复杂性较低的一个重要原因。坐姿为下颌活动提供了生物力学的支持，儿童类言语发声是通过打开和闭合下颌实现的(Green etal.,2002)。有研究比较了6个月时能独立坐和不能独立坐婴儿的音节发声，结果表明他们的音节发声频率存在差异， $41 \\%$ 能独立坐的婴儿产生了音节发声，而只有 $9 \\%$ 未独立坐的婴儿产生了音节发声(Leezenbaum,2016)。回溯性研究发现，ASD儿童稳定坐立的平均年龄为9个月，延迟于 TD儿童的7.9个月(Ucuz&Cicek,2020)。前瞻性研究支持上述结论，ASD 高风险婴儿的坐姿与低风险婴儿不同(Kyvelidou etal.,2021)，6 个月时 ASD 高风险婴儿独立坐立的时间显著低于低风险婴儿(Leezenbaum&Iverson,2019)。这些研究表明,坐姿习得较慢限制了ASD儿童坐立时探索新发声可能性的机会，从而影响了规范音节的习得(Iverson,2018)",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "迷走神经复合体损伤与基频的非典型模式有关，也反映了呼吸调节和哭声时间的模式(LaGasse etal.,2005)。人类声音基频的改变主要是通过肌肉运动改变声带的物理特性，如声带的长度、单位长度的质量、紧张度和硬度而实现的，而控制声带运动的喉内肌群主要由迷走神经支配(Dankbaar&Pameijer,2014)。研究表明ASD儿童迷走神经表现出张力减弱的现象(Benevides&Lane,2015)，这可能会导致支配哭声的声带控制不良与呼吸肌群运动协调不良(Sheinkopf etal.,2016)，从而导致哭声基频较高、哭声停顿长度和持续时间较短等异常的哭声模式。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3感知觉导向理论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ASD儿童的听处理障碍和对言语声音刺激的非典型加工(Filipe etal.,2018;Soskey et al,2017;Vlaskamp et al.,2017; Yau et al.,2016)可能影响他们的类言语发声复杂性。言语诱发听觉脑干反应的研究表明，ASD 儿童脑干水平语音听觉加工发育不成熟(Chen etal.,2019)。ASD 儿童对儿向言语(Infant-Directed Speech,IDS)表现出非典型的听处理过程，IDS 未引起ASD 儿童神经增强反应(Chen et al.,2021)。ASD儿童对自己名字的弱回应也印证了ASD儿童较弱的言语声音刺激加工能力。研究表明，9个月ASD婴儿更不容易对自己名字产生反应，这一现象一直持续到 24个月(Miller et al.,2017)和36个月(Hatch et al.,2021)。ASD 高风险婴儿的研究也发现，6个月的ASD 高风险婴儿对言语声音刺激的回应也低于低风险婴儿(Paterson etal.,2019)。以上证据可推测，ASD婴儿较少受成人照顾者言语的影响，缺失了类言语发声学习的机会，进而影响他们类言语发声复杂性的发展。近期的研究表明，听觉皮层和言语运动皮层之间存在相互作用，言语听觉感知影响言语产生运动皮层的反应(Cheung etal.,2016)，言语运动也会影响言语感知皮层的反应(Daliri&Max,2016)。ASD儿童言语听觉皮层和类言语发声运动皮层之间的相互作用机制还需要进一步研究。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.4社会反馈导向理论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "社会反馈环路(social fedback loop)理论在一定程度上解释了ASD儿童类言语发声复杂性较低的现象。该理论强调社会环境中的成人回应对儿童类言语发声发展的作用，认为成人更有可能对儿童的类言语发声做出回应，在成人立即回应后儿童更有可能产生类言语发声(Warlaumont et al.,2014)。Warlaumont 等人(2014)使用一种有很好稳定性和效度的、主要针对0\\~4岁儿童与成人交互发声的语言环境分析(Language ENvironment Analysis，LENA)软件(Harbison et al.,2018; Jones et al.,2019; Richards et al.,2017; Woynaroski et al.,2017)，对自然环境中TD儿童与成人互动中的发声进行了微观分析并证实该观点。研究者将ASD儿童与TD儿童发声作对比，发现ASD儿童社会反馈环路的有效性降低。具体表现在两个方面：一是，ASD儿童发出较少的类言语发声；二是，成人对ASD儿童的回应取决于类言语发声的程度降低。那么随着时间的推移，社会反馈环路迭代次数减少，导致ASD儿童类言语发声进一步减少。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4研究展望",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.1探讨发声异常作为ASD儿童独特的早期识别标志的可能性",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "从上文的综述可知，与TD儿童相比，ASD儿童早期发声确实存在异常现象。然而，这些发声特征也可能是其他障碍儿童的特征。例如，研究发现9\\~12个月的脆性X综合征婴儿的规范音节少于同龄 TD 婴儿(Belardi etal.,2017)。此外，几项同时包含了ASD儿童和发育迟缓(DevelopmentalDelay,DD)儿童的研究结论不一致。有研究发现ASD儿童比DD儿童表现出更少的沟通性发声(Lee etal.,2018)，而另有研究却未发现两类儿童在沟通性发声方面存在显著差异(Dow et al.,2020;Wetherby et al.,2004)。关于非类言语发声中的非典型发声，Wetherby等人(2004)发现ASD儿童和DD儿童无差异，而Lee等人(2018)却发现ASD儿童比DD儿童表现出更多的非典型发声。因此，非常有必要开展大规模的、纳入其他障碍类型儿童的前瞻性研究，以探讨发声异常作为ASD儿童独特的早期识别标志的可能性。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.2加强哭声在ASD儿童早期筛查中的研究",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "如上文所述，非典型的哭声可能是ASD儿童的早期识别标志。然而，目前缺乏哭声在ASD儿童早期筛查研究中的实证数据。近期研究也发现，非典型的哭声可能影响ASD儿童的预后(Esposito et al.,2017)，因为照顾者对 ASD儿童非典型哭声难以理解会影响护理质量及长期结果(Bormstein etal.,2016)。此外，成人也能较好地区分ASD儿童和 TD儿童的哭声。例如，一项研究发现ASD婴儿和TD婴儿的父母均认为ASD婴儿的哭声更痛苦和更不典型(English etal.,2019)。因此，未来有必要也有可能开展哭声在ASD儿童早期筛查中的研究。在筛查研究中，可同时采用疼痛型和非疼痛型哭声样本。非疼痛型哭声样本可以参照以往的研究，在婴儿自然状态下收集(e.g.,Bornstein et al.,2016)。疼痛型哭声可能是早期更为敏感的指标，也更有可能在标准化的环境下获得。例如，可以收集婴儿接种疫苗时诱发出的疼痛型哭声。加强哭声在ASD儿童早期筛查中的研究，不仅有利于明确哭声在早期筛查中的价值，也有助于早期干预。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.3探索基于最具预测性声学参数集的自动学习分类模型",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "正如前文所综述的，发声常用的分析指标为类言语发声复杂性、类言语沟通性发声、非类言语哭声基频等。近期也有研究采用非类言语发声或类言语发声的声学参数集合对ASD儿童进行分类预测(e.g.,Khozaei et al.,2020; Pokorny et al.,2017,August)。交叉验证也显示，在区分ASD儿童和TD儿童时声学特征显示出良好的分类准确性(Pokormy etal.,2017,August;",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Santos et al.,2013,October)。然而，这些研究均没有报道最具有预测性的声学信息。例如，Santos 等人(2013)在前瞻性研究中对18个月ASD婴儿和 TD婴儿的呀呀语、哭声等发声的声学特征进行分析，并基于基频、共振峰、音强等 20 多种声学参数采用支持向量机(linearkernel support vector machines)和概率神经网络分类(probabilistic neural network classfiers)模型对儿童进行分类，分类准确率达 $9 7 \\%$ 。Pokormy 等人(2017)采用回溯性研究，对年龄更小的10个月ASD婴儿呀呀语的声学特征进行分析，采用了包括基频、振幅和频谱及它们内部更具体的 88个参数的标准声学参数集(Eyben et al.,2016)，并使用支持向量机和单层双向长短期记忆神经网络(1-layer bidirectional long short-term memory neural network)模型正确识别出了 $7 5 \\%$ 的 ASD 婴儿。可见，研究者探究了不同类型和数量的声学参数对ASD 的预测准确性，但最优预测声学参数尚不明晰。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "最近研究还发现，声学参数集合在性别上可能存在差异。Khozaei等人采用音色和音强相关声学参数对10名男性ASD儿童和10名男性TD儿童的哭声进行分类模型训练，形成子集实例(subset instance)自动学习分类模型；然后采用该模型再对 28\\~53个月语言能力处在12个月左右的ASD婴幼儿(21名)和18\\~51个月的TD婴幼儿进行了分类，结果发现对男性儿童分类的准确率比女性儿童高 $7 \\%$ (Khozaei etal.,2020)。此外，声学参数的元分析显示声学特征是ASD儿童非常有希望的早期识别标志，自动学习模型中多个声学参数比单个声学参数判别的准确率更高(Fusaroli etal.,2017)。因此，未来的研究可以构建具有最优预测效果的声学参数集合并建立自动学习分类模型，为ASD儿童的早期筛查提供智能的方法，从而使得早期识别的可能性更高。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.4深入探究动机对ASD儿童类言语发声的影响 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "上文综述指出，类言语发声是在内在动机驱动下，与成人社会互动过程中逐步发展的。虽然，近期有研究者开始尝试探究内在动机和社会动机对ASD高风险婴儿类言语发声发展的影响(Long etal.,2021)。但总体上来说，该领域的实证研究极其有限，尤其是缺乏已诊断ASD儿童的动机与类言语发声关系的实证数据。首先，未来可深入探究内在动机对ASD儿童类言语发声复杂性的作用机制。例如，ASD儿童对特殊兴趣的内在动机是如何影响他们的类言语发声复杂性的？计算机建模作为一种自动化且高效的方法在 TD 婴儿类言语发声发展中得到应用，未来可以尝试采用通过计算机建模探究内在动机对ASD儿童类言语发声复杂性的影响。其次，探究社会动机如何对ASD儿童类言语发声复杂性产生影响。社会动机使得儿童注意社会信号、得到社会回报进而维持社会关系(Chevallier etal.,2012)，从而使儿童在社会互动中习得更接近言语的发声。ASD儿童的社会动机缺陷以何种机制影响他们的类言语发声复杂性的呢？未来有必要继续开展相关研究。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.5进一步探究ASD儿童类言语发声异常的神经机制 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "如前文所述，神经运动系统不成熟及其与言语听觉感知皮层的相互影响，可能是 ASD儿童类言语发声复杂性异常的重要原因。然而，ASD儿童类言语发声的神经机制尚不清晰。未来ASD儿童类言语发声的神经机制可尝试从两个方面进行研究。一方面，可尝试从言语失用角度探究ASD儿童类言语发声异常的神经机制。失用症是一种影响言语所需动作协调能力的运动障碍(Akhtar et al.,2016)。研究表明言语失用(apraxia of speech)在 24\\~55 个月大ASD儿童中的患病率可能高达 $60 \\%$ (Tierney etal.,2015)。因此，最近有研究尝试将提示伴有言语失用的平均年龄为 56个月 ASD 儿童和年龄匹配的言语失用儿童神经系统进行比较。结果发现言语失用儿童的对言语产生起重要作用的大脑结构存在异常，主要表现为顶叶(缘上回)和额叶(中央旁、三角部)皮质体积增加，而 ASD儿童无这种现象(Conti etal.,2020)。但该研究中的ASD儿童具备了一定的口语能力，这可能会影响研究结果。未来可纳入无口语或口语较少的ASD儿童继续开展相关研究。另一方面，开展ASD儿童言语听觉皮层与类言语发声运动皮层之间相互作用的机制的研究。对TD婴儿的研究表明，类言语发声运动和听觉感知之间的映射在婴儿学会说话之前已存在，3个月婴儿的口部运动抑制对规范音节的听觉辨别有影响(Choi etal.,2021)。对 ASD儿童该领域的深入探究可能能提供支持他们类言语发声发展神经机制的新证据。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Acevedo-Vale,J.M.,Angulo, C.,& Moulin-Frier, C.(2O18).Autonomous discovery of motor constraints in an intrinsically motivated vocal learner. IEEE Transactions on Cognitive and Developmental Systems,10(2), 314-325.   \nAdamson,L.B.,Bakeman,R.,Suma,K.,&Robins,D.L. (2019).An expanded view of joint attention: Skil, engagement, and language in typical development and autism. Child Development, 90(1), el-e18.   \nAkhtar,N.,Jaswal,V.K.,Dinishak,J,& Stephan,C. (2o16).Onsocial feedback loops and cascading effects in autism: A commentary on Warlaumont, Richards, Gilkerson,and Oler (2014). Psychological Science, 27(11), 1528-1530.   \nAmerican Psychiatric Association. (2013). Diagnostic and statistical manual of mental disorders (DSM- ${ \\mathfrak { I } } { \\mathfrak { R } } ,$ (5th ed.). Washington, DC: American Psychiatric Publishing.   \nBacon,E.C.,Courchesne,E.,Barnes,C.C., Cha,D.,Pence,S.,Schreibman,L.,.,&Pierce,K. (2018).Rethinking the idea of late autism spectrum disorder onset. Development and Psychopathology,30(2),553-569.   \nBelardi,K., Watson,L.R.,Faldowski,R.A.,Hazlett,H.,Crais,E.,Baranek, G.T..,&Oller,D.K.(2017). A retrospective video analysis of canonical babbling and volubility in infants with fragile X syndrome at $9 -$ 12 months of age.Journal of Autism and Developmental Disorders, 47(4),1193-1206.   \nBenevides,T.W.,& Lane,S.J. (2O15). Areview of cardiac autonomic measures: Considerations for examination of physiological response in children with autism spectrum disorder. Journal of Autism and Developmental Disorders,45(2),560-575. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Bonnet-Brilhault,F.,Rajerison,T.A.,Pailet,C.,Guimard-Brunault,M.,Saby,A.,Ponson,L,.,&Roux,S.(2018) Autism is a prenatal disorder: Evidence from late gestation brain overgrowth.Autism Research,11(12), 1635-1642. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Bornstein,M.H.,Costlow, K.,Truzi,A.,& Esposito,G. (2016).Categorizing the cries ofinfants with ASD versus typically developing infants: A study of adult accuracy and reaction time. Research in Autism Spectrum Disorders,31,66-72. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Boterberg,S.,Charman,T.,Marschik,P.B.,Bolte,S.,&Roeyers,H. (2l9).Regressioninautismspectrumdisorder: Acritical overview of retrospective findings and recommendations for future research. Neuroscience and Biobehavioral Reviews,102,24-55 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Brown,S., Yuan,Y.,& Belyk,M. (2O21).Evolution of the speech-ready brain: The voice/jaw connection in the human motor cortex. Journal of Comparative Neurology,529(5),1018-1028. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Chen,F.,Zhang,H.,Ding,H., Wang,S.,Peng,G.,& Zhang,Y. (2O21).Neuralcoding offormant exaggerated speech and nonspeech in children with and without autism spectrum disorders.Autism Research,14(7),1357- 1374. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Chen,J.,Liang,C.,Wei,Z.,Cui,Z.,Kong,X.,Dong,C.J.,.,& Wan,G. (2019).Atypical longitudinaldevelopment of speech-evoked auditory brainstem response in preschool children with autism spectrum disorders. Autism Research,12(7),1022-1031. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Chenausky,K.,Nelson, C.,&Tager-Flusberg,H. (2O17).Vocalizationrate and consonant production intoddlersat high and low risk for autism. Journal of Speech, Language, and Hearing Research, 60(4),865-876. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Chericoni,N.,de Brito Wanderley,D.,Costanzo,V.,Diniz-Goncalves,A.,Leitgel Gile,M.,Parlato,E.，.,& Muratori,F.(2O16).Pre-linguistic vocal trajectories at 6-18 months of age as early markers of autism. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Cheung, C.,Hamilton,L.S.,Johnson,K.,& Chang,E.F.(2016).The auditory representation of speech sounds in human motor cortex. eLife Sciences, 5, Article e12577. https://doi.org/10.7554/eLife.12577 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Chevallier,C.,Kohls,G.,Troiani,V.,Brodkin,E.S.,&Schultz,R.T.(20l2).Thesocialmotivationtheoryofautism. Trends in Cognitive Sciences,16(4),231-239. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Choi,D.,Dehaene-Lambertz,G.，Pena,M.,&Werker,J.F.(2O21).Neural indicatorsof articulator-specific sensorimotor influences on infant speech perception. Proceedings of the National Academy of Sciences, 118(20), Article e2025043118. https://doi.0rg/10.1073/pnas.2025043118 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Clements, C.C., Zoltowski,A.R.,Yankowitz,L.D.,Yerys,B.E.,Schultz,R.T.,& Herrington,J.D.(2018). Evaluation of the social motivation hypothesis of autism: A systematic review and meta-analysis. Jama Psychiatry,75(8),797-808. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Conti,E.,Retico,A.,Palumbo,L.,Spera,G.,Bosco,P.,Biagi,L.,.,& Calderoni,S.(202).Autism spectrum disorder and childhood apraxia of speech: Early language-related hallmarks across structural MRI study. Journal of Personalized Medicine,10(4), Article 275. https://doi.org/10.1371/journal.pone.0250420 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Cychosz,M.,Cristia,A.,Bergelson,E.,Casilas,M.,Baudet,G.,Warlaumont,A.S.,.,&Seidl,A.(221).Vocal development in a large-scale crosslinguistic corpus. Developmental Science,24(5),Article el3090. https://doi.0rg/10.31234/osf.io/9vzs5 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Daliri,A.,& Max,L. (2O16).Modulation of auditory responses to speech vs.nonspeech stimuli during speech movement planning. Frontiers in Human Neuroscience, 10, Article 234. https://doi.0rg/10.3389/fnhum.2016.00234 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Dankbaar,J.W.,&Pameijer,F.A.(2014). Vocal cord paralysis: Anatomy,imagingand pathology. Insights into Imaging, 5(6), 743-751. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Di Domenico,S.I.,& Ryan,R.M.(20l7).The emerging neuroscience of intrinsic motivation: A new frontier in self-determination research. Frontiers in Human Neuroscience, 11, Article 145. https://doi.org/10.3389/fnhum.2017.00145 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Dow,D.,Day,T.N.,Kutt,T.J.,Nottke,C.,& Wetherby,A.. (202O).Screening forautismspectrum disorderin a naturalistic home setting using the systematic observation of red flags (SORF)at 18-24 months.Autism Research,13(1),122-133. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Dow,D.,Guthrie,W.， Stronach,S.T.,& Wetherby,A.M.(2017).Psychometric analysis of the systematic observation of red flags for autism spectrum disorder in toddlers.Autism,21(3),301-309. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Eichert,N.,Papp,D.,Mars,R.B.,& Watkins,K.E.(2020).Mapping human laryngeal motor cortex during vocalization. Cerebral Cortex,30(12),6254-6269. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Elmlinger,S.L.,Schwade,J.A.,& Goldstein,M.H.(2019).The ecologyof prelinguistic vocal learning:Parents simplify the structure of their speech in response to babbling. Journal of Child Language,46(5), 998- 1011. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "English,M.S.,Tenenbaum,E.J.,Levine,T.P.,Lester,B.M.,& Sheinkopf,S.J.(2019).Perception of cry characteristics in 1-month-old infants later diagnosed with autism spectrum disorder.Journal of Autism and Developmental Disorders,49(3),834-844. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Esposito,G.,delCarmenRostagno,M.,Venuti,P.,Haltigan,J.D.,&Mesinger,D.S. (2014).Briefreport:Atypical expression of distress during the separation phase of the strange situation procedure in infant siblings at high risk for ASD.Journal of Autism and Developmental Disorders,44(4), 975-980. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Esposito,G.,Hiroi,N.,&Scatoni,M.L.(2Ol7).Cry,baby,cry:Expressionofdistressasabiomarkerandmodulator in autism spectrum disorder. International Journal of Neuropsychopharmacology,20(6),498-503. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Esposito,G.,Nakazawa,J.,Venuti,P.,&Bornstein,M.H.(2Ol2).Perceptionsof distress inyoung children with autism compared to typically developing children: A cultural comparison between Japan and Italy. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Esposito,G.,Nakazawa,J.,Venuti,P.,&Bornstein,M.H.(2Ol3).Componential deconstructionofinfantdistress vocalizations via tree-based models: A study of cry in autism spectrum disorder and typical development. Research in Developmental Disabilities,34(9),2717-2724.   \nEsposito,G.,Valenzi,S.,Islam,T.,& Bornstein,M.H.(2Ol5).Threphysiological responses in fathersand nonfathers’to vocalizations of typically developing infants and infants with autism spectrum disorder. Research in Developmental Disabilities,43-44,43-50.   \nEsposito,G.,& Venuti,P. (20o9). Comparative analysis of crying in children with autism,developmental delays, and typical development. Focus on Autism and Other Developmental Disabilities,24(4),240-247.   \nEsposito,G.,& Venuti,P.(2OlOa). Developmental changes in the fundamental frequency(fO)of infants’cries: A study of children with autism spectrum disorder. Early Child Development and Care,180(8),1093-1102.   \nEsposito,G.,& Venuti,P.(201ob). Understanding earlycommunication signals inautism: A study of the perception of infants’cry.Journal of Intellectual Disability Research,54(3),216-223.   \nEstes,A., Munson,J,Rogers,S.J.,Greenson,J.,Winter,J.,& Dawson, G. (2o15).Long-term outcomes of early intervention in 6-year-old children with autism spectrum disorder. Journal of the American Academy of Child and Adolescent Psychiatry,54(7),580-587.   \nEyben,F.,Scherer,K.， Schuller,B.,Sundberg,J.,Andre,E.，Busso,C...,& Truong,K. (2016).The geneva minimalistic acoustic parameter set (GeMAPS） for voice research and affective computing. IEEE Transactions on Affective Computing, 7(2),190-202.   \nFilipe,M. G., Watson,L. Vicente,S.G.,&Frota,S.(2O18).Atypical preference for infant-directed speech as an early marker ofautism spectrum disorders? A literature review and directions for further research. Clinical Linguistics and Phonetics,32(3),213-231. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Frazier,T.W.,Klingemier,E.W.,Anderson,C.J.,Gengoux,G.W.,Youngstrom,E.A.,&Hardan,A.Y.(2021).A longitudinal study of language trajectories and treatment outcomes of early intensive behavioral intervention for autism.Journal of Autism and Developmental Disorders,Advance online publication. https://doi.0rg/10.1007/s10803-021-04900-5 ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Fusaroli,R.,Lambrechts,A,Bang,D.,Bowler,D.M.,& Gaigg,S.B. (2O17).Is voice a marker forautism spectrum disorder? A systematic review and meta-analysis. Autism Research,10(3),384-407.   \nGabrielsen,T.P.,Farley,M.,Speer,L.,Villalobos,M.,Baker,C.N.,&Miller,J. (25).Identifyingautisminabief observation.Pediatrics,135(2),e330-e338.   \nGarrido,D., Watson,L.R.,Carbalo, G., Garcia-Retamero,R.,& Crais,E.R. (2017).Infants at-risk forautism spectrum disorder: Patterns of vocalizations at 14 months.Autism Research,10(8),1372-1383.   \nGoel,R.,Hong,J.S.,Findling,R.L.,&Ji,N.Y.(2O18).An update on pharmacotherapy ofautism spectrumdisorder in children and adolescents. International Review of Psychiatry,30(1), 78-95.   \nGren,J.R.,Moore,C.A.,& Reilly,K.J. (2002).The sequential development of jaw and lip control for speech. Journal of Speech, Language, and Hearing Research, 45(1), 66-79.   \nGrove,R.,Roth,I.,& Hoekstra,R.A.(2Ol6).The motivation for special interests in individuals with autismand controls: Development and validation of the special interest motivation scale.Autism Research,9(6), 677- 688. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Hage,S.R. (2O18). Dual neural network model of speech and language evolution: New insights on flexibility of Vocal production systems and involvement offrontal cortex. Current Opinion in Behavioral Sciences,21, 80-87. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Harbison,A.L.,Woynaroski,T.G.,Tapp,J., Wade,J.W.,Warlaumont,A.S.,&Yoder,P.J. (2018).A new measure of child vocal reciprocity in children with autism spectrum disorder. Autism Research,11(6), 903-915. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Hatch,B.,Iosif,A.M.,Chuang,A.,de laPaz,L.,OzonoffS.,& Miler,M.(2021).Longitudinal diferences in response to name among infants developing ASD and risk for ADHD. Journal of Autism and Developmental Disorders,51(4),827-836. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Hazlet,H.C.,Gu,H.,Munsell,B.C.,Kim,S.H.,Styner,M.,Wolf,J.J..,& Piven,J. (2017).Earlybrain development in infants at high risk for autism spectrum disorder. Nature, 542(7641),348-351.   \nHazlet,H.C.,Poe,M.D.,Gerig,G.,Styner,M.,Chappell,C.,Smith,R.G..,& Piven,J. (2011). Early brain overgrowth in autism associated with an increase in cortical surface area before age 2 years.Archives of General Psychiatry, 68(5), 467-476.   \nHeymann,P.,Northrup,J.B., West,K.L.,Parlade,M.V.,Leezenbaum,N.B.,&Iverson,J.M.(2o18).Coordination is key: Joint atention and vocalisation in infant siblings of children with autism spectrum disorder. International Journal ofLanguage and Communication Disorders, 53(5),1oo7-1020.   \nIverson,J.M. (2018).Early motor and communicative development in infants with an older sibling with autism spectrum disorder. Journal of Speech, Language,and Hearing Research, 61(11),2673-2684.   \nJones,R.M.,Skwerer, D.P.,Pawar,R.,Hamo,A.,Carberry,C.,Ajodan,E.L.,.,& Tager-Flusberg,H. (2019). How effective is LENA in detecting speech vocalizations and language produced by children and adolescents with ASD in different contexts? Autism Research,12(4), 628-635.   \nKaushik, G.,& Zarbalis,K.S.(2O16).Prenatal neurogenesis inautism spectrum disorders.Frontiers in Chemistry, 4, Article 12. https://doi.org/10.3389/fchem.2016.00012   \nKent,R.D. (20l5). Nonspeech oral movements and oral motor disorders: A narrative review.American Journal of Speech-Language Pathology,24(4),763-789.   \nKhozaei,A.,Moradi,H.,Hosseini,R.,Pouretemad,H,&Eskandari,B.(2O2).Earlyscreeningof autismspectrum disorder using cry features. PLoS One, 15(12), Article e0241690.   \nKumar, V., Croxson,P.L.,& Simonyan, K. (2o16). Structural organization of the laryngeal motorcortical network and its implication for evolution of speech production. Journal of Neuroscience,36(15),4170-4181.   \nKyvelidou,A.,Kelsey,K.,Wickstrom,J.,Howard,N.,Fsher,w.w.,&Deveney,S.L. (2O21).Posturalcontrolmay drive the development of other domains in infancy. Clinical Biomechanics,82(5),Article 105273. https://doi.org/10.1016/j.clinbiomech.2021.105273   \nLaGase,L.L.,Neal,A.R.,&Lester,B.M. (20o5). Assessment of infant cry: Acoustic cry analysis and parental perception. Developmental Disabilities Research Reviews,1l(1), 83-93.   \nLee,K.S.,Shin,Y.J.,Yoo,H.J.,Lee,G.J.,Ryu,J.,Son,O.,& Cho,S.W.(2018). Vocalization of emotional and social expressions in korean-speaking toddlers with autism spectrum disorder and those with developmental delay. Yonsei Medical Journal,59(3),425-430.   \nLeezenbaum,N.B.(2O16).Posture development and vocalization productionin infants at heightenedriskforautism spectrum disorder (Unpublished doctoral dissertation). University of Pitsburgh.   \nLezenbaum,N.B.,& Iverson,J.M.(2019).Trajectories ofposture developmentin infants withand without familial risk for autism spectrum disorder. Journal of Autism and Developmental Disorders, 49(8), 3257-377.   \nLester,B.M.,& Gasse,L.L. (2020). Crying.InEncyclopedia ofinfant and earlychildhood development (2th ed., pp. 358-369). Oliver Walter.   \nLong,H.L.,Bowman, D.D., Yoo,H.,Burkhardt-Reed, M. M.,Bene,E.R.,& Oler,D.K.(2020).Social and endogenous infant vocalizations. PLoS One, 15(8), Article e0224956. https://doi.org/10.1371/journal.pone.0224956   \nLong,H.L.,Ramsay, G.,Bowman,D.D.,Burkhardt-Reed,M.M.,&Oler,D.K. (2021).Social and endogenous motivations in the emergence ofcanonical babbling in infants at low and high risk for autism (Manuscript ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "submitted for publication).University ofWisconsin-Madison. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Lord,C.,Brugha,T.S.,Charman,T.,Cusack,J.,Dumas,G.,Frazier,T.,.,& Veenstra-Vanderweele,J.(020). Autism spectrum disorder. Nature Reviews Disease Primers, 6(1), Article 5. https://doi.0rg/10.1038/s41572-019-0138-4 ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Maenner,M.J., Shaw, K.A.,Baio,J., Washington,A.,Patrick,M.,DiRienzo,M.,.,& Dietz,P.M.(2020). Prevalence of autism spectrum disorder among children aged 8 years — autism and developmental disabilities monitoring network,11 sites,United States,2016.MMWR Surveillance summaries,69(4),1- 12. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Marschik,P.B.,Pokorny,F.B.,Peharz,R.,Zhang,D.,O'Muircheartaigh,J.,Roeyers,H.,,&Kaufmann,W.E. (2017).A novel way to measure and predict development: A heuristic approach to facilitate the early detection of neurodevelopmental disorders. Current Neurology and Neuroscience Reports,17(5), 43. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Mcdaniel,J.,Yoder,P.,Estes,A.,&Rogers,S.J.(2O20).Validityofvocalcommunicationand vocal complexityin young children with autism spectrum disorder. Journal of Autism and Developmental Disorders,50(9), 224-237. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Miler,M.,Iosif,A.M.,Hill,M.,Young,G.S.,Schwichtenberg,A.J.,& Ozonoff,S.(2017).Response to name in infants developing autism spectrum disorder: A prospective study.Journal of Pediatrics,183,141-146. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Moulin-Frier, C.,Nguyen,S.M.,&Oudeyer,P.Y.(2O14).Self-organization of early vocal development in infants and machines:The role of intrinsic motivation.Frontiers in Psychology，4，Article 1006. https://doi.org/10.3389/fpsyg.2013.01006 ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Nathani,S.,Ertmer,D.J.,& Stark,R.E.(2o06).Assessng vocal development ininfantsand toddlers.Clinical Linguistics and Phonetics,20(5),351-369. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Oller,D.K.(2ooo). The emergence of the speech capacity.Mahwah,NJ: Erlbaum. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Oller,D.K.,Caskey,M.,Yoo,H.,Bene,E.R.,&Vohr,B. (2019).Pretermand fullterm infantvocalization and the origin of language. Scientific Reports, 9(1), Article 14734. https://doi.org/10.1038/s41598-019-51352-0 ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Oller,D. K., Griebel, U.,& Warlaumont, A. S. (2016). Vocal development as a guide to modeling the evolution of language. Topics in Cognitive Science, 8(2),382-392.   \nOzturk,Y.,Bizzego,A.,Esposito,G.,Furlanello,C.,& Venuti,P.(018).Physiologicalandself-reportresponsesof parents of children with autism spectrum disorder to children crying. Research in Developmental Disabilities,73,31-39.   \nPaterson,S.J.,Wol,J.J.,Elison,J.T.,Winder-Patel,B.,Zwaigenbaum,L.,Estes,A.,.,&iven,J. (29).he importance of temperament for understanding early manifestations of autism spectrum disorder in highrisk infants.Journal of Autism and Developmental Disorders,49(1),2849-2863.   \nPaten,E.,Belardi,K.,Baranek,G.T.,Watson,L.R.,Labban,J.D.,&Ollr,D.K. (2014).Vocalpaterns ininfants with autism spectrum disorder: Canonical babbling status and vocalization frequency. Journal of Autism and Developmental Disorders,44(10),2413-2428.   \nPaul,R.,Fuerst,Y.,Ramsay,G., Chawarska,K.,&Klin,A.(2O11). Out of the mouths ofbabes: Vocal production in infant siblings of children with ASD.Journal of Child Psychology and Psychiatry,52(5), 588-598.   \nPlumb,A. M.,& Wetherby,A. M. (2013). Vocalization development in toddlers with autism spectrum disorder. Journal of Speech, Language, and Hearing Research, 56(2), 721-734.   \nPokorny,F.B.,Schuler,B.W.,Marschik,P.B.,Brueckner,R.,Nystrom,P.,Cummins,N.,.,&Falck-Yter,T. (2017,August). Earlier identification of children with autism spectrum disorder: An automatic vocalisation-based approach.Paper presented at the meeting of the Interspeech, Stockholm, Sweden.   \nReid,V.M.,Dunn,K.,Young,R.J.,Amu,J.,Donovan,T.,&Reissand,N.(2l7).The humanfetus preferetially engages with face-like visual stimuli. Current Biology,27(12),1825-1828. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Richards,J.A.,Xu,D., Gilkerson,J.,Yapanel, U.,Gray,S.,&Paul,T.(2O17).Automated assessmentof child vocalization development using LENA. Journal of Speech, Language, and Hearing Research, 60(7), 2047-2063. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Sacrey,L.R.,Zwaigenbaum,L.,Bryson,S.,Brian,J.,Smith,I..,Roberts,W.,.,& Garon,N.(2021).Screening for behavioral signs of autism spectrum disorder in 9-month-old infant siblings. Journal of Autism and Developmental Disorders,51, 839-848.   \nSantos,J.F.,Brosh,N.,Falk,T.H.,Zwaigenbaum,L.,Bryson,S.E.,Roberts,W,.,&Brian,J.A. (2013,October). Very early detection of autism spectrum disorders based on acoustic analysis of pre-verbal vocalizations of 18-month old toddlers. Paper presented at the International Conference on Acoustics, Speech and Signal Processing, Vancouver, BC, Canada.   \nSchoen,E.,Paul,R.,& Chawarska,K. (2011). Phonology and vocal behavior in toddlers with autism spectrum disorders.Autism Research,4(3),177-188.   \nSchoen Simmons,E. (2021). Vocalization.In Encyclopedia of autism spectrum disorders (2th ed., pp.5150-5151). Springer International Publishing.   \nSheinkopf,S.J.,Iverson,J.M.,Rinaldi,M.L,&Lester,B.M.(2O12).Atypical cryacoustics in6-month-oldinfants at risk for autism spectrum disorder. Autism Research,5(5),331-339.   \nSheinkopf,S.J.,Righi,G.,Marsit, C.J,&Lester,B.M. (2016).Methylationof the glucocorticoidreceptor(NR3C1) in placenta is associated with infant cry acoustics.Frontiers in Behavioral Neuroscience,10,Article 100. https://doi.0rg/10.3389/fnbeh.2016.00100   \nShumway,S.,& Wetherby,A. M. (2009). Communicative acts of children with autism spectrum disorders in the second year of life. Journal of Speech, Language, and Hearing Research,52(5),1139-1156.   \nSigafoos,J.,& Waddington,H. (2o16).6 year folow-up supports early autism intervention. Lancet,388(10059), ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "2454-2455. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Soskey,L.N.,Allen,P.D.,& Bennett,L. (2017).Auditoryspatial attention tospeech and complex non-speech sounds in children with autism spectrum disorder.Autism Research,10(8),1405-1416. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Supekar,K.,Kochalka,J.,Schaer,M.,Wakeman,H.,Qin,S.,Padmanabhan,A.,&Menon,V.(2O18).Deficits in mesolimbic reward pathway underlie social interaction impairments in children with autism. Brain,141(9), 2795-2805. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Swanson,M.R.,Shen,M.D.,WolffJ.J.,Boyd,B.,Clements,M.,Rehg,J.,.,&Piven,J. (2018).Naturalistic language recordings reveal “hypervocal” infants at high familial risk for autism. Child Development, 89(2), e60-e73. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Talbott,M.R.,Nelson,C.A.,&Tager-Flusberg,H. (2016).Maternal vocal feedbackto 9-month-old infantsiblings of children with ASD.Autism Research, 9(4), 460-470. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Tan,C.,Frewer,V.,Cox,G.,Willims,K.,&Ure,A.(2O21).Prevalenceandage ofonsetofregression inchildren with autism spectrum disorder: A systematic review and meta-analytical update. Autism Research,14(3), 582-598. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Tierney,C.,Mayes,S.,Lohs,S.R.,Black,A.,Gisin,E.,& Veglia,M.(2015).Howvalid is the checklistforautism spectrum disorder when a child has apraxia of speech? Journal of Developmental and Behavioral Pediatrics,36(8),569-574. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Ucuz,I.,& Cicek,A. U. (2020).Artificial neural networks based-prediction ofautism spectrum disorder.Journal of Cognitive Systems,5(2),78-82. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Unwin,L.M.,Bruz,I.,Maybery,M.T.,Reynolds,V.,Ciccone,N.,Dissanayake,C.,.,& Whitehouse,A.J.O. (2017).Acoustic properties of cries in 12-month old infants at high-risk of autism spectrum disorder. Journal ofAutism and Developmental Disorders,47(7),2108-2119. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "van't Hof,M.,Tisseur,C.,Berckelear-Onnes,I.V.,Nieuwenhuyzen,A.V.,Daniels,A.M.,Deen,M.,,&Ester W.A. (2021).Age at autism spectrum disorder diagnosis: A systematic review and meta-analysis from 2012 to 2019. Autism, 25(4),857-861. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Venuti,P.,Caria,A.,Esposito,G.,De Pisapia,N.,Bornstein,M.H.,& de Falco,S.(2012).Diferential brain responses to cries of infants with autistic disorder and typical development: An fMRI study. Research in Developmental Disabilities,33(6),2255-2264.   \nVlaskamp, C.,，Oranje,B., Madsen, G.F.,Jepsen,J.R.M., Durston,S., Cantio, C.,.,& Bilenberg,N. (2017). Auditory processng in autism spectrum disorder: Mismatch negativity deficits. Autism Research,10(11), 1857-1865.   \nWarlaumont,A. S.,Richards,J.A., Gilkerson,J.,& Oller,D.K. (2014).A social feedback loop for speech development and its reduction in autism. Psychological Science,25(7),1314-1324.   \nWerner,E.,& Dawson, G. (20o5). Validation of the phenomenon of autistic regression using home videotapes. Archives of General Psychiatry, 62(8),889-895.   \nWetherby,A. M. Watt, N., Morgan,L.,& Shumway,S.(2007). Social communication profiles of children with autism spectrum disorders late in the second year oflife. Journal of Autism and Developmental Disorders, 37(5), 960-975.   \nWetherby,A.M.,Woods,J.,Allen,L.,Cleary,J.,Dickinson,H.,&Lord,C.(20o4).Early indicatorsof autism spectrum disorders in the second year oflife.Journal ofAutism and Developmental Disorders,34(5),473- 493.   \nWetherby,A.M., Woods,J.,Guthrie, W.,Delehanty,A.,Brown,J.A.,Morgan,L.,.,&Lord,C. (2018). Changing developmental trajectories of toddlers with autism spectrum disorder: Strategies for bridging research to community practice. Journal of Speech, Language,and Hearing Research, 61(11),2615-2628. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Winder,B.M.,Wozniak,R.H.,Parlade,M.V.,&Iverson,J.M. (20l3).Spontaneous initiation of communication in infants at low and heightened risk for autism spectrum disorders. Developmental Psychology,49(10), 1931-1942. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Woynaroski,T.,Oler,D.K.,Kecel-Kaysili,B.,Xu,D.,Richards,J.A.,Gilkerson,J.,.,&Yoder,P. (20).he stability and validity of automated vocal analysis in preverbal preschoolers with autism spectrum disorder. Autism Research,10(3),508-519. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Yau,S.H.,Brock,J.,& Mcarthur, G. (2O16).The relationship between spoken language and speech and nonspeech processing in children with autism: A magnetic event-related field study. Developmental Science,19(5), 834-852. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Yirmiya,N.,& Charman,T. (2Ol0).Theprodrome ofautism: Earlybehavioralandbiological signs,regression,periand post-natal development and genetics.Journal of Child Psychology and Psychiatry,51(4), 432-458. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Yoder,P.J.,Woynaroski,T.,Watson,L.,Gardner,E.,Newsom,C.R,&Keceli-Kaysili,B.(2O16).Earlypredictor of growth in diversity of key consonants used in communication in initially preverbal children with autism spectrum disorder.Journal ofAutism and Developmental Disorders,46(3),1013-1024. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Zhou,H., Xu,X.,Yan,W.,Zou,X.,Wu,L.,Luo,X.,.,& Wang,Y. (202O).Prevalence ofautism spectrumdisorder in china: A nationwide multi-center population-based study among children aged 6 to 12 years. Neuroscience Bulletin,36(9),961-971. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Potential early identification markers for children with autism spectrum disorder-Unusual vocalizations and theoretical ",
+        "text_level": 1,
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "explanations ",
+        "text_level": 1,
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "LIU Min, XU Yang, LIU Qiaoyun (Department of Rehabilitation Sciences,Faculty of Education,East China Normal University， Shanghai 200062, China) ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Early identification and early intervention of children with autism spectrum disorder (ASD)are critical to their developmental outcomes. Vocalizations are sounds produced by children before they learn to talk. Studies suggested that unusual nonspeech-like and speech-like Vocalizations are potential early identification makers for children with ASD before the age of 2 years.The theoretical explanations for unusual vocalizations mainly include the motivation orientation theories,the neuromotor orientation theories,the perceptual orientation theory,and the social feedback orientation theory. Future research may consider in (1) exploring the posibility of unusual vocalizations as unique early identification markers for children with ASD,(2) strengthening the study of crying in early screening of children with ASD,(3) constructing an automatic learning classification model based on the strongest predictive acoustic parameters, (4) analyzing the influence of intrinsic and social motivation on speech-like vocalizations in children with ASD,and (5) investigating the neural mechanisms of unusual speech-like vocalizations.These evidence may be helpful for early identification and intervention of children with ASD. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Keywords: autism spectrum disorder (ASD)，potential early identification markers, unusual vocalizations, theoretical explanations ",
+        "page_idx": 28
+    }
+]

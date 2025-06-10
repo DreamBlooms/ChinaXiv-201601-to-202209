@@ -1,0 +1,183 @@
+# 复合酶制剂对几种糟渣类原料养分利用率和代谢能的影响
+
+张旭1,2.3 黄璇² 李闯² 王向荣² 蒋桂韬²吴端钦」 戴求仲1,2.3\*（1.中国农业科学院麻类研究所，长沙 410205；2.湖南省畜牧兽医研究所，长沙 410131;
+
+3.湖南畜禽安全生产协同创新中心，长沙410128）
+
+摘要：本试验旨在研究临武鸭对几种糟渣类原料（白酒糟、啤酒糟、2种酱油渣、灵芝菌糠、柑橘渣和甘蔗糖渣）的养分利用率和代谢能，及添加复合酶制剂（蛋白酶、纤维素酶和木聚糖酶）对几种糟渣类原料养分利用率和代谢能的影响。试验选用48 只体重 $2 . 0 ~ \mathrm { k g }$ 左右的健康成年临武鸭公鸭，随机分为8组，每组6个重复，每重复1只鸭。采用绝食强饲-全收粪法进行代谢试验，将待测原料与无氮饲粮按1:2的重量比混合配成试验原料，每种原料均设对照组和添加复合酶制剂组（试验原料中添加 $2 5 0 ~ \mathrm { m g / k g }$ 的复合酶制剂)，对照组和添加复合酶制剂组的试验分2个批次进行，测定添加复合酶制剂对临武鸭几种糟渣类原料养分利用率和代谢能。结果表明：临武鸭对几种糟渣类原料的干物质（DM)、粗蛋白质（CP)、粗脂肪（EE）和粗纤维（CF）表观利用率分别为 $3 0 . 7 3 \% { \sim } 5 1 . 0 8 \%$ 、 $1 7 . 6 5 \% { \sim } 7 5 . 6 2 \%$ 、10.85%\~9 $1 . 1 9 \%$ 和 $1 0 . 8 4 \% { \sim } 6 7 . 0 5 \%$ ，表观代谢能（AME)和真代谢能（TME)分别为4.58\~15.20MJ/kg 和 $5 . 5 7 { \sim } 1 7 . 1 7 \mathrm { M J / k g } .$ 。添加复合酶制剂后临武鸭对几种糟渣类原料的DM、CP、EE 和CF 的有效营养改进值（ENIV）分别为 $6 . 4 6 { \sim } 4 1 . 3 7 ~ \mathrm { g / k g }$ 、0.33\~13.23 g/kg、0.09\~9.73 g/kg 和$0 . 7 0 { \sim } 7 . 8 4 ~ \mathrm { g / k g }$ ，TME 提高了 $0 . 1 3 { \sim } 1 . 6 8 ~ \mathrm { M J / k g }$ 。由此可见，添加复合酶制剂能够一定程度地提高临武鸭对糟渣类原料的养分利用率和代谢能。
+
+关键词：糟渣；复合酶制剂；养分利用率；代谢能；临武鸭
+
+中图分类号：S834
+
+农产品加工业的废弃物和食品工业的下脚料等称之为糟渣。我国糟渣类饲料资源丰富，来源广泛且数量巨大。我国白酒糟和啤酒糟的产量每年均有数千万吨，白酒糟是酿造白酒后剩余的固体残渣，粗蛋白质（CP）和粗纤维（CF）含量均较高；啤酒糟是啤酒生产中的副产物，CP 含量在 $2 5 \%$ 以上，CF含量也较高。酱油渣是酿造酱油后的固体残渣，刚生产出的酱油渣含水量约为 $70 \%$ ，为高盐稀态酱油，经过脱盐、干燥、压片后制成低盐固态酱油渣，经过抽油后的酱油渣粗脂肪（EE）含量约为 $8 \%$ ，未抽油的EE含量可达 $30 \%$ 。酱油渣中含有丰富的蛋白质，是很好的动物蛋白质饲料原料，同时还含有丰富的异黄酮，对畜禽具有一定的营养作用。菌糠、柑橘渣和甘蔗糖渣为食品加工业的副产品，EE 含量低，CF含量高，可以作为饲用粗饲料。饲料资源匮乏、饲料成本上涨是目前束缚养殖业发展的主要问题之一，将糟渣类饲料资源用于畜牧业生产，替代玉米、豆粕等常规饲料，可以降低饲养成本，缓解饲料供应不足，减少资源浪费，降低对环境的污染。一些糟渣类原料中的CF含量较高，家禽对其养分和能量的利用率不高，可以适量添加饲用酶制剂降解其中的纤维，提高家禽对糟渣类原料的利用率。王彦茹等[用啤酒糟配制麻鸭饲粮，结果表明，适宜啤酒糟添加水平可以促进麻鸭胃肠道发育。有研究者用柑橘渣配制鸡、猪和反刍动物饲粮，表明在适当添加范围内对动物无不良影响，且有助于维持反刍动物瘤胃内环境稳定，降低酸中毒的风险，对肉品质还有一定的改善作用[2]。由于甘蔗渣中木质素含量较高，甘蔗渣多用于配制反刍动物饲粮，在单胃动物饲粮上应用较少，但将甘蔗渣用微生物发酵处理后可以提高其营养价值[3]。
+
+本研究以临武鸭为试验动物，通过代谢试验的方法测定几种糟渣类原料的鸭代谢能及肉麻鸭对几种糟渣类原料养分的利用率，并研究由蛋白酶、纤维素酶和木聚糖酶组成的复合酶制剂对几种糟渣类原料养分利用率和代谢能的影响，旨在为几种糟渣类原料在肉鸭饲粮中的使用和配方制定提供参考和依据。
+
+1材料与方法
+
+# 1.1 试验材料
+
+# 1.1.1试验原料
+
+从湖南、山东、广西等地采集了7种原料，原料来源和描述见表1，将所采集的原料用固体粉碎机（60\~200目）粉碎，过40目筛（ $4 5 0 ~ \mu \mathrm { m } )$ ，保存于广口瓶和封口袋中备用。将$2 0 \mathrm { ~ g ~ }$ 原料和 $4 0 \textrm { g }$ 无氮饲粮混合制成对照组试验原料，在对照组试验原料中添加 $2 5 0 \mathrm { \ m g / k g }$ 的复合酶制成添加复合酶制剂组试验原料。无氮饲粮由 $4 8 \%$ 的玉米淀粉、 $4 8 \%$ 的蔗糖以及$4 \%$ 的磷酸氢钙、微量元素和维生素预混料组成。
+
+# 表1原料来源和描述
+
+Table 1 Sources and description of feed ingredients   
+
+<html><body><table><tr><td>原料名称</td><td>描述</td><td>产地</td></tr><tr><td>Ingredient name</td><td>Description</td><td>Product location</td></tr><tr><td>白酒糟 Distiller's grains</td><td>用高粱、玉米、大麦等谷物发酵酿酒后的副产物</td><td>湖南</td></tr><tr><td>啤酒糟 Brewer's grains</td><td>大麦酿造的副产品</td><td>广西</td></tr><tr><td>酱油渣1 Soy sauce residues 1</td><td>以豆粕和面粉为原料酿造酱油后的副产品</td><td>山东</td></tr><tr><td>酱油渣2 Soy sauce residues 2</td><td>以大豆为原料酿造酱油后的副产品</td><td>山东</td></tr><tr><td>灵芝菌糠 Ganoderma lucidum bran</td><td>将玉米芯、麦麸、花生苗、红薯藤等混合制成食用 菌培养基，生产灵芝后的剩余物。</td><td>湖南</td></tr><tr><td></td><td>将柑橘去皮榨汁后的剩余果肉渣部分，经过中和</td><td></td></tr><tr><td>柑橘渣 Citrus dregs</td><td>酸，烘干粉碎制成</td><td>山东</td></tr><tr><td>甘蔗糖渣 Sugar cane residues</td><td>甘蔗制糖后的副产品，经过发酵处理</td><td>广西</td></tr></table></body></html>
+
+# 1.1.2 复合酶制剂
+
+试验用复合酶制剂主要成分为蛋白酶（ $6 0 0 0 \mathrm { U / g }$ ，采用 SB/T10317—1999方法测定）、纤维素酶（ $1 \ 0 0 0 \ \mathrm { U / g }$ ，采用GB/T 23881—2009方法测定）和木聚糖酶（ $1 2 \ 0 0 0 \ \mathrm { U / g }$ ，采用GB/T23874—2009方法测定）。
+
+# 1.2 试验设计
+
+选用体重（ $2 . 0 { \pm } 0 . 2 \ \ \$ ）kg 左右、采食正常、无怪癖、强饲后无异常反应的健康成年临武鸭公鸭作为试验鸭，在代谢笼内个体饲养，共48只，随机分为8组，每组6个重复，每重复1只鸭。每种原料进行对照组和添加复合酶制剂组2组试验，代谢试验共进行了2个批次。每批次试验结束后试验鸭进入10\~14d的体况恢复期，期间饲喂全价料至体重恢复至（2.0±0.2）kg。进行添加复合酶制剂组试验前，在试验鸭的预饲饲料中添加与试验原料相同剂量的复合酶制剂进行预饲1周，使试验鸭适应复合酶制剂。试验在湖南省畜牧兽医研究所水禽试验场的家禽代谢实验室进行，自然光照，自由饮水。
+
+# 1.3测定指标与方法
+
+# 1.3.1 养分含量和总能的测定
+
+干物质（DM)、CP、EE、CF、中性洗涤纤维(NDF)、酸性洗涤纤维(ADF)、粗灰分(Ash)、钙(Ca)和总磷（TP）的含量采用文献[4]中方法进行测定。采用全自动氧弹式量热仪（湖南开元仪器有限公司）测定总能（GE）。
+
+# 1.3.2养分和能量利用率的测定
+
+采用全收粪法进行测定，试验分预试期、正试期（禁食排空、强饲、粪尿排泄物收集）2 个阶段进行。预试期1周，期间饲喂全价料，正试期开始前一顿饲喂试验原料，禁食 $^ { 4 8 \mathrm { { h } } }$ 期间自由饮水并通过饮水每只鸭每日补充葡萄糖 $5 0 \mathrm { g }$ ，禁食结束后进行强饲，以不呕吐为度，通过强饲器对试验鸭每只强饲 $6 0 ~ \mathrm { g }$ 试验原料，内源组强饲 $6 0 ~ \mathrm { g }$ 无氮饲粮。强饲后立即在代谢笼下方放上集粪盘，及时按个体记录强饲时间，收集排泄物 $^ { 4 8 \mathrm { { h } } }$ 。根据鲜粪重量和含水量酌情加入 $1 { \sim } 1 0 \mathrm { m L } 1 0 \mathrm { \ } \% \mathrm { \ } \mathrm { H }$ CI用于固氮和 $3 { \sim } 5$ 滴甲苯用于防腐，搅拌均匀，立即保存于4°℃冰箱。全部收集完成后转入 $6 0 { \sim } 6 5$ ℃烘箱中鼓风干燥至恒重，置室内回潮 $2 4 \mathrm { h }$ 后称重，粉碎过40 目筛制成风干样品保存于封口袋中备测。粪样的总能及DM、CP、EE、CF、Ash、Ca 和 TP含量的测定方法同1.3.1。养分和能量利用率，以及加酶后的营养改进值（ENIV）[5]计算公式如下。
+
+养分表观利用率 $( \% ) =$ [(养分摄入量一养分排泄量)/养分摄入量] $\times 1 0 0$   
+养分真利用率 $( \% ) =$ [(养分摄入量一养分排泄量 $+$ 内源养分量)/养分摄入量] $\times 1 0 0$ 表观（真）可利用养分 $( \mathrm { g / k g } ) =$ 养分表观（真）利用率 $\times$ 饲料中该养分含量 $\times 1 0 0 0$ $\scriptstyle \mathrm { E N I V } ( \mathrm { g } / \mathrm { k g } ) =$ 添加酶原料的真可利用养分一加酶前真可利用养分；  
+表观代谢能（AME，MJ/kg） $\mathbf { \sigma } = \mathbf { \sigma }$ （食入总能一排泄物总能）/食入风干物质量;真代谢能（TME，MJ/kg） $\mathbf { \sigma } = \mathbf { \sigma }$ （食入总能一排泄物总能 $^ +$ 内源能）/食入风干物质量;能量表观利用率 $( \% ) =$ （AME/原料总能） $\times 1 0 0$   
+能量真利用率（%） $\mathbf { \sigma } = \mathbf { \sigma }$ （TME/原料总能） $\times 1 0 0$   
+代谢能的ENIV（MJ/kg） $\mathbf { \Sigma } = \mathbf { \Sigma }$ 添加酶原料TME一不添加酶原料TME。
+
+# 1.4数据处理
+
+采用 Excel2003 软件对数据进行初步处理，采用 SPSS19.0统计软件作独立样本 $\mathbf { \Psi } _ { t }$ 检验，显著水平为 $P { < } 0 . 0 5$ 。试验结果以“平均值±标准差”表示。
+
+# 2结果与分析
+
+2.1几种糟渣类原料的养分含量和总能 几种糟渣类原料的养分含量和总能详见表1。
+
+# 表1几种糟渣类原料的养分含量和总能
+
+Table 1Nutrient contents and gross energy of several residue type ingredients   
+
+<html><body><table><tr><td colspan="10"></td></tr><tr><td>项目</td><td>干物</td><td>粗蛋</td><td>粗脂</td><td>粗纤</td><td>粗灰</td><td>中性洗</td><td>酸性洗</td><td>钙</td><td>总磷</td><td>总能</td></tr><tr><td>Items</td><td>质</td><td>白质</td><td>肪</td><td>维</td><td>分</td><td>涤纤维</td><td>涤纤维</td><td>Ca/%</td><td>TP/%</td><td>GE/</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>DM/%</td><td>CP/%</td><td>EE/%</td><td>CF/%</td><td>Ash/%</td><td>NDF/%</td><td>ADF/%</td><td></td><td></td><td>（MJ/kg）</td></tr><tr><td>白酒糟</td><td>89.64</td><td>15.55</td><td>2.17</td><td>23.73</td><td>8.60</td><td>45.28</td><td>36.69</td><td>0.36</td><td>0.49</td><td>17.02</td></tr><tr><td>Distiller's grains</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>啤酒糟 Brewer's</td><td>89.39</td><td>30.11</td><td>7.67</td><td>13.21</td><td>3.91</td><td>40.60</td><td>25.80</td><td>0.35</td><td>0.60</td><td>19.82</td></tr><tr><td>grains</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>酱油渣1 Soy</td><td>95.78</td><td>25.39</td><td>10.66</td><td>13.15</td><td>14.07</td><td>30.65</td><td>20.22</td><td>0.05</td><td>0.05</td><td>19.36</td></tr><tr><td>sauce residues 1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>酱油渣2 Soy</td><td>97.52</td><td>19.62</td><td>32.16</td><td>18.25</td><td>17.22</td><td>15.16</td><td>33.53</td><td>0.32</td><td>0.26</td><td>23.85</td></tr><tr><td>sauce residues 2</td><td>90.07</td><td>17.77</td><td>9.65</td><td>14.76</td><td>14.09</td><td>40.83</td><td>28.73</td><td>0.45</td><td>0.44</td><td>14.33</td></tr><tr><td>灵芝菌糠</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ganoderma</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>lucidum bran 柑橘渣 Citrus</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>dregs</td><td>93.86</td><td>6.33</td><td>2.12</td><td>40.60</td><td>18.00</td><td>63.69</td><td>47.27</td><td>0.10</td><td>0.10</td><td>14.32</td></tr><tr><td>甘蔗糖渣</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td> Sugar cane</td><td>85.04</td><td>10.62</td><td>1.50</td><td>18.12</td><td>12.82</td><td>31.58</td><td>27.77</td><td>0.22</td><td>0.10</td><td>13.84</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 2.2复合酶制剂对几种糟渣类原料的养分利用率的影响
+
+几种糟渣类原料中未添加复合酶制剂和添加复合酶制剂后的养分利用率详见表2。临武鸭对几种糟渣类原料的 DM、CP、EE 和CF 表观利用率分别为 $3 0 . 7 3 \% { \sim } 5 1 . 0 8 \%$ 、17.65%\~75.62%、 $1 0 . 8 5 \% { \sim } 9 1 . 1 9 \%$ 和 $1 0 . 8 4 \% { \sim } 6 7 . 0 5 \%$ ，AME 和 TME分别为 $4 . 5 8 { \sim } 1 5 . 2 0 \mathrm { M J / k g }$ 和5.57\~17.17MJ/kg。添加复合酶后，几种糟渣类原料的DM、CP、EE 和CF 的表观利用率和真利用率均有一定程度的提高。几种糟渣类原料的CP表观利用率提高了 $1 . 0 1 \% { \sim } 1 5 . 4 4 \%$ ，
+
+EE 表观利用率提高了 $0 . 6 4 \% { \sim } 1 5 . 4 4 \%$ ，CF表观利用率提高了 $2 . 3 3 \% \sim 3 4 . 1 7 \%$ 。临武鸭对几种糟渣类原料的DM、CP、EE 和CF的 ENIV 分别为 $6 . 4 6 { \sim } 4 1 . 3 7 ~ \mathrm { g } / \mathrm { k g } \cdot 0 . 3 3 \sim 1 3 . 2 3 ~ \mathrm { g } / \mathrm { k g } \cdot 0 . 0 9 { \sim } 9 . 7 3$ g/kg 和 $0 . 7 0 { \sim } 7 . 8 4 ~ \mathrm { g } / \mathrm { k g }$ 。
+
+# 表2复合酶制剂对几种糟渣类原料养分利用率的影响
+
+Table 2Effects of compound enzyme preparation on nutrient utilization rates of several residue   
+
+<html><body><table><tr><td colspan="8">type ingredients</td></tr><tr><td rowspan="2">项目 Items</td><td colspan="3">表观利用率 Apparent utilization rate/%</td><td colspan="3">真利用率 True utilization rate/%</td><td rowspan="2">有效营养改 进值 ENIV/(g/kg</td></tr><tr><td></td><td>+</td><td>P值</td><td></td><td>+</td><td>P值</td></tr><tr><td></td><td>干物</td><td></td><td>P-value</td><td></td><td></td><td>P-value</td><td></td></tr><tr><td></td><td>质</td><td>41.44±2.04 42.18±2.22</td><td>0.772</td><td>57.06±2.04</td><td>57.78±2.22</td><td>0.774</td><td>6.46</td></tr><tr><td></td><td>DM</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>粗蛋</td><td>46.42±2.14</td><td>47.30±0.78 0.470</td><td>59.25±2.14</td><td>60.51±0.78</td><td></td><td>1.96</td></tr><tr><td>白酒糟</td><td>白质</td><td></td><td></td><td></td><td></td><td>0.470</td><td></td></tr><tr><td>Distiller's</td><td>CP</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>grains</td><td>粗脂</td><td>10.85±1.24</td><td></td><td></td><td></td><td></td><td>0.09</td></tr><tr><td rowspan="4"></td><td>肪</td><td></td><td>11.28±3.00</td><td>0.751</td><td>31.25±1.24 31.68±3.00</td><td>0.752</td><td></td></tr><tr><td>EE</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗纤</td><td>16.81±2.22</td><td>18.97±3.76 0.253</td><td>35.73±2.22</td><td>37.89±3.76</td><td>0.253</td><td>5.13</td></tr><tr><td>维 CF</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>啤酒糟</td><td>干物</td><td>51.08±5.59</td><td>51.93±3.76</td><td>0.762</td><td>66.73±5.59 67.59±3.76</td><td>0.762</td><td>7.69</td></tr></table></body></html>
+
+<html><body><table><tr><td>DM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗蛋 白质</td><td>75.62±1.92</td><td>75.80±1.00</td><td>0.844</td><td>82.18±1.92</td><td>82.36±1.00</td><td>0.844</td><td>0.54</td></tr><tr><td>CP</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗脂</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>肪</td><td>50.54±10.84</td><td>56.36±10.94</td><td>0.376</td><td>56.31±10.84</td><td>62.14±10.94</td><td>0.376</td><td>4.47</td></tr><tr><td>EE</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗纤</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>维</td><td>10.84±1.62</td><td>11.48±3.22</td><td>0.808</td><td>22.40±1.63</td><td>23.04±3.22</td><td>0.808</td><td>0.85</td></tr><tr><td>CF</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>干物</td><td>37.75±3.32B</td><td>42.06±2.70A</td><td>0.002</td><td>45.05±3.32B</td><td>49.37±2.90A</td><td>0.002</td><td>41.37</td></tr><tr><td>质</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>DM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗蛋</td><td>67.50±8.87</td><td>72.71±1.87</td><td>0.061</td><td>70.65±8.87</td><td>75.86±1.87</td><td>0.061</td><td>13.23</td></tr><tr><td>白质 CP</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗脂</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>肪</td><td>72.82±4.07B</td><td>81.96±3.32A</td><td>0.008</td><td>72.83±4.07B</td><td>81.96±3.32A</td><td>0.008</td><td>9.73</td></tr><tr><td>EE</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗纤</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>维</td><td>19.29±4.02</td><td>19.82±4.16</td><td>0.871</td><td>20.07±4.03</td><td>20.60±4.15</td><td>0.871</td><td>0.70</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+酱油渣1 柑橘渣
+
+<html><body><table><tr><td colspan="7">干物</td></tr><tr><td>质</td><td colspan="4">0.569</td><td>0.569</td><td>13.84</td></tr><tr><td>DM</td><td>46.58±4.79</td><td>48.01±0.78</td><td></td><td>53.76±4.79</td><td>55.24±0.78</td><td></td></tr><tr><td>粗蛋</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>白质</td><td></td><td></td><td>0.152</td><td></td><td>0.152</td><td>4.98</td></tr><tr><td>CP</td><td>68.63±1.24</td><td>70.98±2.51</td><td>72.80±1.24</td><td>75.34±2.51</td><td></td><td></td></tr><tr><td>粗脂</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>肪</td><td></td><td></td><td>0.649</td><td></td><td>0.649</td><td>1.87</td></tr><tr><td>EE</td><td>91.19±2.05</td><td>91.77±1.17</td><td>91.88±2.05</td><td>92.46±1.17</td><td></td><td></td></tr><tr><td>粗纤</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>维</td><td></td><td></td><td>0.186</td><td></td><td>0.186</td><td>4.47</td></tr><tr><td>CF</td><td>24.18±2.44</td><td>26.62±2.18</td><td></td><td>24.74±2.44 27.19±.18</td><td></td><td></td></tr><tr><td>干物</td><td>34.67±3.18</td><td>36.58±5.54</td><td>0.496 42.34±3.18</td><td>44.25±5.54</td><td>0.496</td><td>17.31</td></tr><tr><td>质</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>DM</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗蛋 白质</td><td>35.39±2. 11</td><td>39.44±2.25</td><td>0.086</td><td>48.01±2.11 52.06±2.25</td><td>0.086</td><td>5.37</td></tr><tr><td>CP</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗脂</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>肪</td><td>87.96±1.44b</td><td>91.33±1.71a</td><td>0.016</td><td>95.23±1.44b 98.60±1.71a</td><td>0.016</td><td>3.25</td></tr><tr><td>EE</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗纤</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>维</td><td>54.80±9.86b</td><td>60.11±6.82a</td><td>0.028</td><td>58.37±9.86b 63.68±6.82a</td><td>0.028</td><td>7.84</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="7">CF</td></tr><tr><td>干物</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>质</td><td>49.07±2.41b</td><td>51.36±2.66a</td><td>0.043</td><td>56.52±5.18</td><td>58.82±2.66</td><td>21.49 0.167</td></tr><tr><td>DM 粗蛋</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>白质</td><td></td><td></td><td></td><td></td><td></td><td>0.33</td></tr><tr><td>CP</td><td>50.35±3.50</td><td>50.87±1.56</td><td>0.798 68.59±3.50</td><td>69.10±1.56</td><td>0.929</td><td></td></tr><tr><td>粗脂</td><td></td><td></td><td></td><td></td><td></td><td>0.26</td></tr><tr><td>肪</td><td></td><td></td><td></td><td>74.33±0.53</td><td></td><td></td></tr><tr><td>EE</td><td>62.65±4.33</td><td>63.89±0.53</td><td>0.592 73.09±4.33</td><td></td><td>0.592</td><td></td></tr><tr><td>粗纤</td><td></td><td></td><td></td><td></td><td></td><td>6.33</td></tr><tr><td>维</td><td>67.05±3.13</td><td>68.61±3.44</td><td>0.528 67.30±3.13</td><td>68.86±3.45</td><td>0.528</td><td></td></tr><tr><td>CF</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>干物</td><td>30.73±5.60</td><td>31.78±3.50</td><td>0.713 38.85±5.60</td><td>39.91±3.50</td><td>0.713</td><td>9.01</td></tr><tr><td>质 DM</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗蛋</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>白质</td><td>17.65±5.60</td><td>18.80±3.50</td><td>0.919 38.76±5.60</td><td>39.92±3.50</td><td>0.919</td><td>1.23</td></tr><tr><td>ne CP</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗脂</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>肪</td><td>56.72±2.26</td><td>60.31±6.76</td><td>0.244 69.40±2.26</td><td>74.40±6.76</td><td>0.244</td><td>0.75</td></tr><tr><td>EE</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗纤</td><td>36.72±2.19</td><td>38.31±1.64</td><td>0.663</td><td>42.40±2.19</td><td>44.04±1.64 0.663</td><td>2.97</td></tr></table></body></html>
+
+“一”表示不添加复合酶制剂， $^ { 6 6 } + \prime$ 表示添加复合酶制剂。同行同一指标数据肩标不同小写字母表示差异显著（ $\scriptstyle P < 0 . 0 5 ,$ ，不同大写字母表示差异极显著（ $\scriptstyle P < 0 . 0 1 { \mathrm { . } }$ 。下表同。
+
+“-” indicates no compound enzyme preparation addition,and “+” indicates compound enzyme preparation addition. In the same row, values in the same index with different small letter superscripts mean significant difference( $\scriptstyle P < 0 . 0 5$ )， and with different capital letter superscripts mean extremely significant difference（ $\scriptstyle \cdot < 0 . 0 1$ ). The same as below.
+
+# 2.3复合酶制剂对几种糟渣类原料AME 和 TME 的影响
+
+复合酶制剂对几种糟渣类原料AME 和TME 的影响详见表3，添加复合酶制剂后几种糟渣类原料的 AME 和 TME 均有所提高，TME 提高了 $0 . 1 3 { \sim } 1 . 6 8 \ \mathrm { M J / k g _ { \circ } }$
+
+# 表3复合酶对几种糟渣类原料AME和TME的影响
+
+Table 3Effects of compound enzyme preparation on AME and TME of several residue type   
+
+<html><body><table><tr><td colspan="7">ingredients</td></tr><tr><td>项目</td><td colspan="3">表观代谢能</td><td colspan="3">真代谢能 有效营养改</td></tr><tr><td>Items</td><td colspan="3">AME/(MJ/kg)</td><td colspan="3">TME/(MJ/kg) P值</td></tr><tr><td></td><td></td><td>+</td><td>P值 P-value</td><td></td><td>+</td><td>P-value</td></tr><tr><td>白酒糟 Distiller's grains</td><td>6.83±1.27</td><td>6.93±0.61</td><td>0.897</td><td>9.79±1.27</td><td>9.92±0.61 0.897</td><td>0.13</td></tr><tr><td>啤酒糟</td><td>10.20±0.80</td><td>10.38±1.20</td><td>0.817 13.86±0.80</td><td>14.00±1.20</td><td>0.817</td><td>0.14</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="7">酱油渣1</td></tr><tr><td>Soy sauce residues 1</td><td>8.78±0.70B</td><td>10.46±0.52A</td><td>0.008</td><td>10.75±0.70B</td><td>12.43±0.52A</td><td>0.008</td></tr><tr><td>酱油渣2</td><td>Soy sauce residues 15.20±0.87</td><td>15.37±0.39</td><td>0.856</td><td>17.17±0.87</td><td>17.34±0.39</td><td>0.856 0.17</td></tr><tr><td>2 灵芝菌糠</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ganoderma</td><td>4.58±0.50</td><td>4.78±0.95</td><td>0.692</td><td>5.57±0.50</td><td>5.76±0.95 0.692</td><td>0.19</td></tr><tr><td>lucidum bran 柑橘渣</td><td></td><td>8.71±0.44</td><td>0.284</td><td>10.23±0.63</td><td>0.281</td><td>0.45</td></tr><tr><td>Citrus dregs</td><td>8.26±0.63</td><td></td><td></td><td></td><td>10.68±0.44</td><td></td></tr><tr><td>甘蔗糖渣 Sugar cane</td><td>5.32±0.54</td><td>5.54±0.46</td><td>0.513</td><td>6.30±0.54</td><td>6.53±0.46</td><td>0.23</td></tr><tr><td>residues</td><td></td><td></td><td></td><td></td><td>0.512</td><td></td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1 糟渣类原料的饲用价值
+
+糟渣作为食品工业的加工副产品，来源广泛，价格低廉，便于饲养者就地取材，地方品种的麻鸭生长速度较慢，耐粗饲，可适当添加糟渣类原料作为粗饲料与精料搭配饲喂肉麻鸭。酒糟的营养成分含量因加工原料不同而变异较大。白酒糟中含有 $1 5 \%$ 的CP，可为鸭提供生长所需的蛋白质和氨基酸，在饲粮中添加一定比例的白酒糟可以降低饲料成本而不影响鸭的生产性能，何胜强等[6在饲粮中添加 $3 \%$ 的白酒糟，肉鸭增重成本最低；方圆等7在生长期三穗鸭饲粮中添加 $10 \%$ 的发酵白酒糟对生产性能无显著影响。啤酒糟的CP含量约是白酒糟的2倍，EE含量约是白酒糟的3倍，CF含量约为白酒糟的1/2，但NDF含量高于白酒糟。啤酒糟中含有 $30 \%$ 的CP， $7 \%$ 的EE，在麻鸭饲粮中啤酒糟的添加水平最高可达 $45 \%$ ，比较适宜的添加水平为 $1 5 . 0 0 \% \sim 1 8 . 9 4 \% ^ { [ 1 ] }$ 。饲粮CF 的含量对家禽羽毛生长有重要作用[8]，适量添加啤酒糟可以增加饲粮CF含量，对鸭羽毛生长和防止啄羽现象发生有一定益处[9]，还能够一定程度的促进家禽的胃肠道发育[0]，对肌胃、十二指肠、回肠和盲肠的促进作用较大[]。
+
+酱油渣是我国特有的一种糟渣类原料，其CP含量在 $20 \%$ 左右，由于酿造酱油的原料不同，酱油渣的营养成分变异较大，消化利用率差异也较大。通常以大豆为原料生产酱油的酱油渣EE含量较高，而以豆粕和面粉为原料生产的酱油渣EE 含量较低，本研究中的2个酱油渣原料EE含量差异很大，就是由于原料不同产生的，二者的养分利用率差异也较大。孙建钢等[用干酱油渣饲喂育肥猪，获得了较好的生长性能和经济效益。
+
+食用菌糠是栽培食用菌后的废弃培养基，由于食用菌的生物固氮作用，合成了有机氮和菌体蛋白，使菌糠中的蛋白质和氨基酸含量都有所增加[12]，本试验所采用的灵芝菌糠的CP含量较其他菌糠高，这和制作菌糠所用原料有关，也和菌糠中残留的菌丝、孢子等有关。另外，食用菌在生长过程中菌丝体会分泌大量的胞内酶和胞外酶，酶可以分解菌糠中的纤维素、半纤维素和木质素，从而使菌糠的CF含量降低，更利于消化吸收[13]。已有一些研究者将菌糠用来饲喂动物[14]，李进杰等[15]发现饲喂菌糠可以减少肉兔的腹泻率，提高抗病力。
+
+柑橘渣中含有丰富的铁、锰、锌等矿物质元素，及丰富的维生素和类黄酮等功能性成分[16-17]，柑橘渣的CF含量较高，在单胃动物饲粮中添加过多会降低家禽的采食量和生产性能。甘蔗渣的CP含量低，CF含量高[18]，本试验所用甘蔗渣经过了微生物发酵处理，CP含量大约是普通甘蔗渣的5倍，CF含量大幅下降，有利于动物的消化和利用。
+
+3.2复合酶制剂对糟渣类原料养分利用率和代谢能的影响
+
+几种糟渣类原料中啤酒糟和酱油渣的代谢能较高，啤酒糟的鸭代谢能与次粉接近，以豆粕和面粉为原料生产的酱油渣的鸭代谢能与菜籽粕接近，以大豆为原料生产的酱油渣的鸭代谢能略高于玉米、稻米和小麦，略低于玉米蛋白粉[19]。几种糟渣类原料中灵芝菌糠的代谢能最低，其次是甘蔗糖渣，此2种原料纤维类物质含量高，鸭较难消化利用。添加酶制剂后，几种糟渣类原料的代谢能都有一定提高，以豆粕和面粉为原料生产的酱油渣的提高幅度最大，其次是柑橘渣，其余几种原料代谢能的ENIV值较接近。
+
+几种糟渣类原料中以豆粕和面粉为原料生产的酱油渣1的CP的ENIV值最高，其次是灵芝菌糠和以大豆为原料生产的酱油渣2，另外几种原料的CP的ENIV 值均较低。可以推断复合酶制剂能够促进肉鸭对酱油渣和菌糠中CP的吸收和利用，而对白酒糟、啤酒糟和柑橘渣的CP利用作用甚微。
+
+酱油渣1的EE的ENIV 值最高，其次是啤酒糟、酱油渣2和灵芝菌糠，另外几种原料的EE 的ENIV值均较低。酱油渣、啤酒糟和灵芝菌糠的EE含量均在 $7 \%$ 以上，而其他几种原料的EE含量均低于 $3 \%$ ，可见，EE含量较高的原料，复合酶制剂对其EE利用的改善程度也较高，而复合酶制剂中没有脂肪酶，脂肪利用率得到改善的原因可能是由于非淀粉多糖酶作用于原料，使原料中多糖结构发生降解，原料黏度下降，脂类物质与消化液接触面积变大，乳化更充分，因而更易被动物吸收利用。灵芝菌糠的CF的ENIV 值最高，其次是柑橘渣和白酒糟，复合酶中的非淀粉多糖酶对菌糠的作用效果最明显，其原因可能与菌糠的加工工艺有关，食用菌培养基通常要经过高温高压蒸汽灭菌，这使得菌糠中的纤维类物质机构变得松散，更易于复合酶制剂发挥作用，因而使纤维的利用得到改善。
+
+# 4结论
+
+糟渣类原料CF含量较高，可适当添加用来配制肉麻鸭饲粮，添加复合酶制剂能够提高肉鸭对糟渣类原料的养分利用率和代谢能。
+
+# 参考文献：
+
+[1] 王彦茹,曾秋凤,张克英,等.啤酒糟对 31\~59 日龄建昌麻羽肉鸭生产性能、血液生化指标及胃肠道发育的影响[J].动物营养学报,2016,28(3):807-815.
+
+[2] CAPARRA P,FOTI F,SCERRA M,et al.Solar-dried citrus pulp as an alternative energy source in lamb diets:effects on growth and carcass and meat quality[J].Small Ruminant Research,2007,68(3):303-311.
+
+[3]吴兆鹏,谭文兴,蚁细苗,等.甘蔗渣的饲用价值及其作为饲料应用的研究进展[J].中国牛业科学,2016,42(5):41-45.
+
+[4]张丽英.饲料分析及饲料质量检测技术[M].3版.北京:中国农业大学出版社,2007.
+
+[5]冯定远,沈水宝.饲料酶制剂理论与实践的新理念- 加酶日粮ENIV系统的建立和应用[J].饲料工业,2005,26(18):1-7.
+
+[6]何胜强,李晶,宋代军.白酒糟对肉鸭饲喂价值的研究[J].饲料博览,2010(3):19-21.
+
+[7]方圆,夏先林,方福平,等.白酒糟饲喂三穗鸭的增重及饲料转化效果[J].贵州农业科学,2014,42(3):102-105.
+
+[8]VAN KRIMPEN M M,KWAKKEL R P,VAN DER PEET-SCHWERING C MC,et al.Effects of nutrient dilution and nonstarch polysaccharide concentration in rearing an laying diets on eating behaviorandfeatherdamageofrearingandlayinghens[J].Poultry Science,2009,88(4):759-773.
+
+[9]张拴峰.影响肉鸭羽毛生长的营养因素及其改善措施[J].中国家禽,2011,33(16):50-51,53.
+
+[10]DENSTADLI V,WESTERENG B,BINIYAM H G,et al.Effects of structure and xylanase treatment of brewers’ spent grain on performance and nutrient availability in broiler chickens[J].British Poultry Science,2010,51(3):419-426.
+
+[11]孙建钢,曹日亮,赵娟.酱油渣在猪育肥中的应用试验[J].畜牧与饲料科学,2009,30(1):83-84.
+
+[12]张彦.灰树花菌丝体与子实体的营养功能成分分析[J].食品科学,2002,23(1):137-139.  
+[13]黄毅.食用菌栽培[M].3版.北京:高等教育出版社,2008:166-167,195-196.
+
+[14]刘建昌,潘延国,苏水金,等.菌糠替代麸皮喂猪的饲养试验[J].中国畜牧杂志,1998,34(2):26-27.
+
+[15]李进杰,蒋明琴,刘燕.香菇菌糠代替部分麸皮饲喂生长期肉兔效果试验[J].畜牧与兽医,2014,46(3):47-49.
+
+[16]张石蕊,陈铁壁,金宏.柑橘加工副产品中饲料营养物质的测定[J].饲料研究,2004(1):28-29.
+
+[17]钟良琴,刘作华,王永才,等.柑橘渣的饲用价值研究[J].饲料研究,2010(1):74-77.
+
+[18]包健,盛永帅,蔡旋,等.鲜食大豆秸秆、茭白鞘叶和甘蔗渣营养成分和瘤胃降解率的研究[J].饲料研究,2015(15):33-38.
+
+[19]ADEOLAO.鸭用饲料能值的参考值.中国饲料数据库[J].中国饲料,2006,22:37.
+
+Effects of Compound Enzyme Preparation on Nutrient Utilization Rate and Metabolize Energy of Several Residue Type Ingredients
+
+ZHANG $\mathrm { X u } ^ { 1 , 2 , 3 }$ （204号 HUANG Xuan²LI Chuang² WANG Xiangrong2 JIANG Guitao² WU
+
+Duanqin1DAI Qiuzhong1,2.3\*
+
+(1. Institute of Bast Fiber Crops,Chinese Academy ofAgricultural Sciences, Changsha 410205, China; 2. Hunan Institute of Animal Science and Veterinary Medicine， Changsha 41O131, China; 3.Hunan Collaborative Innovation Center of Animal Production Safety, Changsha 410128,
+
+China)
+
+Abstract: The aim of this study was to determine nutrient utilization and metabolize energy of several residue type ingredients (distiller's grains, brewer's grains, 2 kinds of soy sauce residues, Ganoderma lucidum bran, citrus dregs and sugar cane residues) of Linwu ducks, and compound enzyme preparation (protease, cellulose and xylanase) addition on nutrient utilization and metabolize energy of several residue type ingredients.Forty-eight healthy adult male Linwu ducks with body weight about $2 . 0 \mathrm { k g }$ were randomly divided into 8 groups and 6 replicates in each group and 1 duck in each replicate. Metabolic tests were carried out by hunger strike-gavage method. The test diets were mixed by test ingredient and nitrogen-free diet according to the ratio of 1:2, two groups tests for each ingredient were divided into control group and supplemented with compound enzyme preparation group (supplemented with $2 5 0 ~ \mathrm { m g / k g }$ compound enzyme preparation in test ingredient).Two batch metabolic tests were carred out. The nutrient utilization rate and metabolic energy of seven residue type ingredients supplemented with compound enzyme preparation for Linwu ducks were determined. The results show that the apparent utilization rates of dry matter (DM),crude protein (CP), ether extract (EE) and crude fiber (CF) of several residue type ingredients were $3 0 . 7 3 \%$ to $5 1 . 0 8 \%$ ， $1 7 . 6 5 \%$ to $7 5 . 6 2 \%$ ， $1 0 . 8 5 \%$ to $9 1 . 1 9 \%$ and $1 0 . 8 4 \%$ to $67 . 0 5 \%$ for Linwu ducks, respectively, the apparent metabolic energy (AME) and true metabolic energy (TME) were 4.58 to $1 5 . 2 0 \mathrm { M J / k g }$ and 5.57 to 17.17MJ/kg, respectively. Adding with
+
+compound enzyme preparation, the effective nutrients improvement value (ENIV) of DM, CP, EE and CF were 6.46 to 41.37 g/kg, 0.33 to 13.23 g/kg, 0.09 to $9 . 7 3 ~ \mathrm { g / k g }$ and 0.70 to $7 . 8 4 ~ \mathrm { g / k g }$ respectively, and the TME improved by 0.13 to $1 . 6 8 \mathrm { M J / k g }$ . The results indicate that residue type ingredients supplemented with compound enzyme preparation can improve nutrient utilization rates and metabolize energy of Linwu ducks.   
+Key words: residues; compound enzyme preparation; nutrient utilization rate; metabolizable energy; Linwu ducks

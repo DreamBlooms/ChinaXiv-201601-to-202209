@@ -1,0 +1,314 @@
+[
+    {
+        "type": "text",
+        "text": "大型地铁车站火灾预警机制及疏散救援模式",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "彭磊¹　徐学军²　杨磊（1．中铁第一勘察设计院集团有限公司西安710043;2．广西公安消防总队南宁530000；3．南宁轨道交通集团有限责任公司南宁530029)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：地铁车站深埋于地下，结构复杂特殊，一旦发生火灾，往往会造成重大的人员伤亡和财产损失。如何有效预防和减少火灾情况下的人员伤亡，尤其是防止群死群伤等重大安全事故的发生，已成为当前国内外消防安全领域研究的热点和重点。为在车站发生火灾事故时能够采取及时、有效的措施，将火灾事故的影响范围减少到最小，损失降到最低，本文对大型地铁站火灾进行了特性分析，分类介绍了地铁站火灾预警系统及相关预警机制，并在此基础上针对地铁站内不同的火灾发生地点分析讨论了不同的人员疏散救援模式，对大型地铁车站火灾的消防安全研究具有重要意义，也为地铁站的设计和管理提供了相参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：地铁站；火灾预警；疏散救援；消防安全",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：TU47 文献标识码：A 文章编号：第一作者简介：彭磊（1971-），女，高级工程师，本科，从事建筑设计研究，E-mail：645480251@qq.com。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：南宁轨道交通集团有限责任公司委托课题(编号：NNGD-01-FW00-201702)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fire early warning mechanism and evacuation mode for large subway stations ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Peng Lei1，Xu Xuejun²，Yang lei³ (1 China Railway First Survey and Design Institute Group.,Ltd，Xian 710043; 2 Guangxi Public Security Fire Department,Nanning 530000; 3 Nanning Rail transit Co.,Ltd,Nanning530029) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Thesubwaystationisburieddeepunderground,anditsstructure iscomplexandspecial.Ifafirebreaksout,itwil causeheavycasualtiesand propertylosses.How toeffectivelypreventandreduce thecasualties inthecaseoffire,speciallto preventthe ourenceof majoraccidents such as groupdeath,has becomeahot spot and focus ofthe research inthe fieldof firecontrolsafetyinthe world.Inordertotaketimelyand efectivemeasures instationfireaccidents,reducetherangeof the impactof thefireaccidenttotheminimumand thelosstothelowest,tis paperanalyzesand classfications thefire warning systemand related early warning mechanismofthesubwaystation fire.Different fireoccurrence locations in therailway stationareanalyzed and discussed.Itisof great significancetoresearchthe firesafetyof large subwaystations,and italso provides a reference for the design and management of subway stations. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Subway station; fire warning; evacuation rescue; fire control safety ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着社会的发展和城市化进程的加快，地铁成为城市公共交通的一种重要交通方式，由于其大容量，集约用地，快捷舒适的特征已成为缓解城市交通压力的有效工具，而且地铁在全球范围内被认为具有污染少，低能耗的\"绿色交通”，对实现城市建设中的可持续发展具有十分重要的意义[-3]。但由于地下工程风险高，地铁安全管理复杂，将导致灾难事故的发生，一旦发生，将造成严重的人员伤亡和财产损失，这些灾难中的大部分都是由火灾造成的。在这方面，国内外都有悲剧性的教训。国际上，自",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1987年以来，已有6起地铁死亡事件造成10人死亡，1058人死亡。在中国，1969年11月11日，从万寿路站到北京地铁五棵松站，有8人死亡，300多人因机动车短路引起的火灾而中毒。两辆客车被完全摧毁，地面运输中断。火灾直接损失超过100万元。1999年7月29日，广州地铁1号线东山口站降压配电站因电气设备故障引发火灾。由于及时发现和妥善处置，未造成人员伤亡，但此火灾造成了约20.6万元的损失[4-5]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "如何有效地预防和减少地铁火灾事故中的人员伤亡，尤其是防止大规模伤亡事故的发生，已成为国内外公共安全工作的重要组成部分。为避免中国大型地铁车站发生火灾等紧急情况，有必要建立和完善地铁车站火灾专项消防安全工作预警机制，对可能发生的现场火灾情形进行安全疏散救援模式研究，以获得切实有效的安全疏散应急预案，并指导安全疏散指挥和管理方法的改进，为火灾后有效疏散乘客提供必要的理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2火灾预警机制",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 地铁火灾特点",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于地下空间相对封闭的构造特点，地铁站火灾的危险性主要表现为：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）地铁系统交通量大，人员集中，室内空间少，防火性能差。一旦发生火灾，很容易造成大量人员伤亡。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2)某些地铁车站的装饰材料燃烧时会产生有毒气体。且地下空间内供氧不足，燃烧不完全，烟雾大，发烟速度快。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（3）火场温度因封闭环境上升快，峰值高。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（4）浓烟积聚不散。因火灾通风装置受损，烟雾排放量有限，地下入口的“吸风\"效应使向外扩散的烟气回吸，容易使人室息。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（5）人员疏散难度大。人员疏散避难所要经过的上行过程要比下行耗费体力，且烟和热气流的流向与自下而上的疏散路线一致，对人员疏散速度的要求更高。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(6)救援难度大。由于地下空间限制及火灾影响，救援人员很难实时了解现场情况，且大型的灭火设备无法入场，使救人和救灾难度增大。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 火灾预警系统",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）地铁防灾报警系统（FAS）由火灾自动报警系统、气体灭火系统、隧道光纤温度监测系统组成；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2)火灾自动报警系统负责车站内除气体保护区外的全部区域的火灾探测、报警及消防联动控制，隧道区域的消火栓按钮及插孔电话；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（3）气体灭火系统负责通信设备室、信号设备室、环控电控室、高低压变、配电室等重点设备区的火灾探测、报警、灭火控制;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(4)隧道光纤温度监测系统负责隧道区间的火灾探测;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（5）地铁防灾报警系统（FAS）与设备监控系统（EMCS）结合，防火报警系统完成火灾探测、报警，将火灾模式信号发送给环境设备监控系统，由设备监控系统完成火灾工况下环控及通风排烟等设备的联动控制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3 设备监控系统",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）地铁设备监控系统称为EMCS，它主要对车站的环控、电扶梯、给排水、屏蔽门、照明及人防门等系统进行集中监控，分布在各个车站和OCC大楼。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2)监控工作站监控和记录车站各系统运行状态和报警，接受车站FAS系统的火灾报警信号，控制车站通风空调及相关防排烟设备转入灾害模式运行并反馈执行信息。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（3）对火灾报警，监控工作站具有三级报警、报警画面自动弹出、报警确认和处理等功能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（4)MCP是车站EMCS系统的后备监控装置，能够接收车站FAS系统的报警信息，发出声光报警，并在紧急情况下用来启动车站及隧道的火灾模式或阻塞模式",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(5)监控工作站监控和记录车站各系统运行状态和报警，接受车站FAS系统的火灾报警信号，控制车站通风空调及相关防排烟设备转入灾害模式运行并反馈执行信息。对火灾报警，监控工作站具有三级报警、报警画面自动弹出、报警确认和处理等功能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（7)MCP是车站EMCS系统的后备监控装置，能够接收车站FAS系统的报警信息，发出声光报警，并在紧急情况下用来启动车站及隧道的火灾模式或阻塞模式。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设备监控系统（EMCS）具体如图1所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7487fa4114c07fb6a2edc9216d9944a274b882f73620322a931d144db599ee38.jpg",
+        "img_caption": [
+            "图1设备监控系统（EMCS）构成图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4消防安全预警制度",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "预警机制按照火灾防控风险、紧急程度、发展态势和可能造成的危害程度分为一级、二级和三级，分别用红色、橙色、黄色标示,且一级为最高等级。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "预警阶段由综控室传输视频信息，设备信息等到EMCS平台，在由平台反馈信号给119指挥中心，119指挥中心掌握应急广播送风排烟、应急广播等固定消费设施开启情况，查明分区受伤乘客数量以及分布位置，实时通过平台与综控室互传递信息采取相应的措施。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3疏散救援模式",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当地铁站内发生火灾时，CO 等有毒气体、高温烘烤和火烧、缺氧室息，以及建筑物的倒塌会致使大量人员伤亡。而安全疏散的目的就是使人员在火灾对人构成危害以前从火场撤离。允许疏散的时间取决于火灾强度、烟雾浓度、和对人体的危害、建筑物的耐火能力及防排烟设施等因素。据相关研究报道[7-8]，在地铁事故中，6min 内如果人们不能迅速有效逃生，就基本没有可能性生还。所以在大型地铁站中，配置良好的应急处理设施和保证安全疏散通道畅通无阻是十分重要的。由不同的火灾发生地点，可分为车站内本身发生火灾，列车在车站发生火灾和列车在区间隧道发生火灾。地铁站消防应急机制如图2所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cbdfbf12773a036a32aa6652795043b5caf614a0dd2399a87985ede7c09ecf62.jpg",
+        "img_caption": [
+            "图1地铁站消防应急机制图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1车站内火灾的安全疏散",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "车站发生的火灾分为站厅火灾和站台火灾，都应采取应急措施，并通知乘客第一时间内安全撤离。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "与此同时，应当停止车站的空调水系统，地铁车站  \n的普通通风空调模式在火灾情况下转变为通风模  \n式。地铁车站的火灾情况与地下建筑的情况类似，  \n可以依此制定相应的防火措施和站台和站厅紧急疏  \n散方案，但由于地铁站是高度集中的地区，出入口  \n不多，因此疏散程序的制定应结合以下几个方面：（1)实施工作人员责任承担制，将火灾的预警  \n和疏散乘客措施的实施与工作人员的职责挂钩，以  \n明确责任，提高效率。(2)地铁站的值班站长应当在火灾现场担任事  \n故处理主任，发布火灾紧急疏散计划并报告至控制  \n中心。（3）关闭广告灯箱的电源，并启动火场通风系  \n统模式。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2列车在车站发生火灾的安全疏散",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "列车在车站发生火灾时，应立即执行消防应急疏散方案，阻止乘客及其他路线列车进入火场，并将乘客从楼梯和车站出入口撤离。具体的疏散程序基本上与车站内火灾的安全疏散相同。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3列车在区间隧道内发生火灾的安全疏散",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在列车运行过程中，当隧道的一段发生火灾时，建议尽可能进入前方车站，使用前方车站疏散乘客。如果列车不能进入前站并停止在隧道内，必须立即疏散乘客。当列车头部着火时，乘客必须从车尾快速走到后站；当列车中部着火时，乘客必须分别从两端走到前台和后站；当列车的尾部着火时，乘客必须快速从列车头部下车并快速撤离至前台。此时，隧道通风系统迅速启动，排散部分烟雾，为乘客提供必要的新鲜空气，形成一定的迎风风速，促使站内乘客安全疏散。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文通过对大型地铁站火灾的特性分析、地铁站火灾预警系统的阐述、地铁站所应采取的防范措施以及地铁火灾疏散问题的讨论，得出如下结论：（1）大型地铁车站因火灾起因情形复杂，配备性能良好且先进齐全的火灾预警设备，并提前做好消防安全预警规划显得尤为重要。（2）地铁火灾造成的烟雾、有毒气体、疏散通道的数量、障碍物以及缺乏合理和明显的疏散通道等是地铁大火造成重大人员伤亡的主要原因。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（3）除了安装防烟设施、必要的消防设施、合理的疏散路线，以及有效的应急预案外，选择合理的人员疏散救援模式也是十分必要的。当在列车运行时发生火灾，应尽量使列车向前方车站行驶，利用车站站台疏散乘客，并利用车站隧道烟气排放控制系统排烟。如果列车停在路段中间，需严格控制送风时间和送风强度，且隧道通风系统送风方向应与大多数乘客疏散方向相反的方向一致。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]ROHJS,RYOUHS,PARKWH,etal.CFD simulationand assessment of life safety in a subway train fire[J].Tunnelling and Underground Space Technology，2009,24(4) : 447-453.  \n[2] 杨立中，邹兰．地铁火灾研究综述[J]，工程建设与设计,2005(11).  \n[3]刘浩江．地铁火灾的成因、预防和处置[J]．现代城市轨道交通,2006(5).  \n[4]郭光玲．地铁火灾研究[J]．都市快轨交通,2004(17).  \n[5]张颖踪．地铁消防安全技术的研究[J].消防技术,2004(9).  \n[6]罗一新，谢卫君．关于地下铁道火灾防治措施的思考[J]．中国安全科学学报,2004(7).  \n[7]王驰．某地铁站火灾情况下人员安全疏散研究[D]．北京交通大学，2007.  \n[8]周荣义，黎忠文．地铁火灾的防范与疏散[J]，工业安全与环保,2005,31(11):58-60.",
+        "page_idx": 4
+    }
+]

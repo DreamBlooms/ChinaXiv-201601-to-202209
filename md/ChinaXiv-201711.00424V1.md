@@ -1,0 +1,122 @@
+高亚男1,2.3 王加启1,2.3 李松励1,2.3 张养东1,2.3 郑楠1,2,3\*
+
+(1.中国农业科学院北京畜牧兽医研究所，农业部奶产品质量安全风险评估实验室，北京100193；2.农业部奶及奶制品质量监督检验测试中心，北京100193；3.中国农业科学院北京畜牧兽医研究所，动物营养学国家重点实验室，北京100193)
+
+摘要：霉菌毒素是一类广泛存在于饲料原料和人类食品中，对动物和人类健康造成严重威胁的危害因子。作为机体抵御外来污染物的第1道屏障，肠道黏膜屏障主要由相互联系的机械屏障、化学屏障、免疫屏障和生物屏障构成。本文在国内外已有的研究基础上，对霉菌毒素对肠道黏膜屏障功能的影响及其作用机制进行综述。
+
+关键词：霉菌毒素；肠道黏膜；肠道屏障中图分类号：S839 文献标识码：A 文章编号：
+
+霉菌毒素是由曲霉菌、青霉菌以及镰刀菌等不同类型真菌产生的有毒次生代谢产物，广泛存在于饲料与食物中[1-3]，对动物以及人类健康造成严重威胁[4]。作为机体抵御外来污染物的第1道屏障[5-6]，肠道负责了机体 $70 \%$ 的免疫防御[5]。而霉菌毒素主要通过肠道吸收，因此，肠道上皮细胞首先与高浓度的霉菌毒素接触，造成肠道功能损伤[7。脱氧雪腐镰刀菌烯醇(deoxynivalenol,DON)、赭曲霉毒素 A(ochratoxin A,OTA)、T-2 毒素(T-2)等霉菌毒素具有强烈的肠道致病性，易引起胃肠道功能紊乱、腹泻、呕吐和营养不良等症状[8-9]。大量研究已经表明，霉菌毒素会破坏细胞间的紧密连接，诱导肠道病变，调节肠道免疫应答，改变肠道免疫屏障功能，破坏肠道微生物菌群稳定性，引起肠道炎症。本文就霉菌毒素对肠道黏膜屏障产生的影响及其作用机制进行综述，为今后在此领域开展更深入的研究提供理论基础。
+
+# 11霉菌毒素对肠道黏膜机械屏障功能的影响
+
+肠道黏膜机械屏障，又称为物理屏障，主要由肠上皮细胞和其间的紧密连接蛋白构成，能有效阻止肠腔内细菌、毒素、炎性介质等有害物质透过肠道黏膜进入血液，维持肠道黏膜上皮屏障功能的完整[10-11]。
+
+肠道上皮细胞具有快速增殖和再生能力，可维持肠道黏膜机械屏障功能[12]。Goossens等[13]发现，DON、T-2处理猪肠道上皮IPEC-J2细胞后，以剂量依赖方式使肠道上皮细胞存活率显著降低，但低浓度 DON 和 T-2 并未使肠道上皮细胞存活率发生显著变化。Ivanova等[14]研究表明，高浓度 $2 5 \ \mathrm { \mu m o l / L } )$ 恩镰孢菌素 B(enniatin B,ENB)使人结肠癌细胞 Caco-2细胞周期停滞在G2/M时期，细胞发生坏死。动物试验表明，与饲喂正常饲料的对照组相比，小鼠或仔猪口服 DON后，肠道上皮细胞区的绒毛高度显著降低[15-16]。Kolf-Clauw 等[17]离体试验表明，暴露于 $\mathsf { D O N 4 h }$ 后，4\~5 周龄和9\~13 周龄猪空肠外植体的绒毛长度显著减小，但低浓度 $( 0 . 3 \mathrm { \ m g / k g ) D O N }$ 对 4\~5 周龄猪空肠外植体的绒毛长度无显著影响。上述结果表明在短期饲养条件下，动物年龄是霉菌毒素影响机体的主要因素之一，且动物机体对低剂量霉菌毒素具有一定的耐受力。
+
+肠上皮细胞间的紧密连接具有维持肠道黏膜机械屏障完整性的功能。Diesing 等[18]表明，高浓度 $( 2 0 0 0 { \mathrm { n g / m L ) D } }$ ON 作用于猪肠道上皮 IPEC-1、IPEC-J2 细胞后，紧密连接蛋白 ZO-1表达量减少，肠道黏膜机械屏障完整性破坏；但低浓度 $( 2 0 0 \mathrm { n g / m L ) D O N }$ 不仅没有表现出毒性作用，反而促进细胞的增殖。结果提示，破坏肠道黏膜机械屏障完整性可能是霉菌毒素发挥毒性的途径之一，且不同剂量的霉菌毒素对肠道黏膜机械屏障有不同的作用机制。Pinton 等[9]发现，DON 作用于 IPEC-1细胞，抑制紧密连接蛋白claudin-4 的合成，破坏肠道黏膜机械屏障完整性的作用机制为激活丝裂原活化蛋白激酶(mitogen-activated proteinkinase,MAPK)信号通路中的细胞外调节蛋白激酶(extracellularregulated proteinkinases,ERK)。霉菌毒素对紧密连接蛋白的破坏作用在动物试验也得到证实。6\~7周龄B6C3Fi雄性小鼠口服DON后，肠道紧密连接蛋白claudinsmRNA表达量升高且在小肠远端的分布发生改变[15]；5周龄仔猪连续摄食低剂量 $( 3 ~ \mathrm { m g / k g ) D O N }$ 或低剂量 $( 6 ~ \mathrm { m g / k g } )$ 伏马菌素Bi(fumonisin $\mathbf { B } _ { 1 } , \mathbf { F B } _ { 1 } )$ 污染的饲粮5周后，小肠紧密连接蛋白occludin表达量显著降低[20]。以上研究表明，当肠道黏膜受到短期、低浓度霉菌毒素侵害时，可以依靠自身调节能力来维持肠道黏膜机械屏障的完整性；但当肠道黏膜机械屏障受到的损害超过自身调节能力时，肠上皮细胞发生病变，紧密连接蛋白表达量下降，肠道机械屏障受到损伤。值得注
+
+意的是，动物长期暴露于低剂量霉菌毒素也会对机体肠道产生不良影响。因此，在实际生产中设计动物饲粮的霉菌毒素最低检测量时，不仅要考虑毒素剂量的影响，还要考虑动物的饲养期。
+
+# 2霉菌毒素对肠道黏膜化学屏障功能的影响
+
+肠道黏膜上皮细胞分泌的黏液、消化液及肠腔内正常菌群产生的抑菌物质等化学物质也具有屏障功能，称之为化学屏障[]。黏液层位于上皮细胞腔的表面，主要由杯状细胞产生和分泌的糖基化黏蛋白(mucins,MUC)组成，对肠道黏膜屏障阻止外来污染物进入深层组织发挥了重要作用@。Bae 等[21研究表明，DON 可诱导人体组织淋巴癌细胞(U937细胞)和小鼠单核巨噬细胞(RAW264.7细胞)MUC等蛋白合成降低。Wan 等研究证明，DON、玉米赤酶烯酮(zearalenone,ZEA)、雪腐镰刀菌烯醇(nivalenol,NIV)、 $\mathrm { F B } _ { 1 }$ ，单独或混合作用于人肠道上皮细胞后，能够显著改变MUC5AC、MUC5BmRNA的表达量。基于MUC5AC、MUC5B基因对霉菌毒素作出的类似转录反应，霉菌毒素对 MUC5AC，MUC5B 可能存在一个共同的调节机制。Pinton 等[22]研究表明，MUC表达量的降低依赖于ERK以及MAPKp38的活化途径。
+
+哺乳动物肠道上皮细胞可产生大量的抗菌肽(antimicrobial peptides,AMPs)以应对肠道的复杂微生物环境，其中最多的是防御素[23]。Wan 等[24]体外试验研究发现，单独或混合作用的镰刀菌毒素(DON、NIV、ZEA、FBi)可显著提高猪肠道上皮IPEC-J2 细胞 $\beta$ -防御素1(pBD-1)β-防御素2（pBD-2）mRNA表达水平，但分泌蛋白丰度无显著变化。mRNA表达水平与蛋白丰度之间的差异可以解释为：1)可能受到防御素分子转录后或翻译后调控机制，以及蛋白质降解途径的影响[25]；2)应用于蛋白质定量试验技术的灵敏度没有转录水平测定mRNA 含量的灵敏度高[26]。动物试验证明，在添加 DON 的饲料中补充复合抗菌肽(compositeantimicrobial peptides,CAP)，可显著提高仔猪外周血淋巴细胞增殖，显著增加血小板数，提高血清过氧化氢酶含量，降低丙二醛含量，表明CAP可改善肠道形态，提高机体免疫功能和抗氧化功能，减轻器官损伤，从而修复DON 诱发的肠道损伤[27]。以上利用不同物种（鼠、猪、人）进行不同试验模型（细胞培养、体内试验）得出的结果表明，霉菌毒素可以激活机体肠道黏膜化学屏障，发挥防御机制，保护机体。然而，其确切的作用机制尚未清楚。今后应利用分子生物学等方法，将转录组学与蛋白质组学有机结合，进一步阐述霉菌毒素对肠道黏膜化学屏障功能的影响机制。
+
+# 3霉菌毒素对肠道黏膜免疫屏障功能的影响
+
+肠道黏膜选择性允许肠腔内容物中食物、药物等进入，而阻止细菌等外源危害物的进入，这不仅与肠道黏膜机械屏障有关，还与肠道黏膜免疫屏障有关[28]。目前，肠道黏膜免疫屏障已逐步成为研究的焦点。肠道黏膜免疫屏障主要由肠道相关淋巴组织(gut-associatedlymphatic tissue,GALT)、肠系膜淋巴结等肠道组织和肠道浆细胞分泌的分泌型免疫球蛋白A(secretory Immunoglobulin A,S-IgA)构成[29-30]。GALT 主要由派伊氏结(peyer'patch,PP)、肠系膜淋巴结和肠上皮中大量淋巴细胞组成[31]。S-IgA不仅具有中和内毒素、与细菌上的特异性抗原结合形成抗原抗体复合物、刺激肠道黏液分泌、加速黏液在黏液表面流动、抵御病原菌在黏膜上皮黏附等作用[32-34]，还具有免疫调节、免疫排斥、调节肠道微生物、促进抗菌因子生成等功能[35]。He 等[36]研究表明，与对照组相比，添加 $0 . 3 \mathrm { m g / k g }$ 黄曲霉毒素 $\mathbf { B } _ { 1 }$ (aflatoxinBi,AFBi)可降低雄性肉鸡肠道中免疫球蛋白A阳性（ $\mathrm { I g } \mathrm { A } ^ { + }$ ）细胞数量以及S-IgA、免疫球蛋白A（IgA）、免疫球蛋白G（IgG）、免疫球蛋白M（IgM）含量。S-IgA数量减少，增加了肠道细菌和内毒素与黏膜上皮细胞相互作用的机会，促进了细菌易位和内毒素吸收，这可能是肠道免疫功能下降的原因之一[37]。Li 等[38]研究发现，饲喂肉鸡含霉菌毒素的饲料可显著降低血清IgA 含量。肠道黏膜免疫是由IgA介导的，IgA 能使病毒等抗原在细胞内被中和，并可将其产物返回肠腔，防止上皮细胞因细胞裂解而受损。IgA含量的降低，可导致肠道黏膜免疫反应的缺失。研究证实，霉菌毒素可通过降低免疫球蛋白的表达，损伤肠道黏膜免疫屏障。Grenier 等[39]发现，DON 和 $\mathrm { F B } _ { 1 }$ 可降低仔猪血清中IgG 含量和淋巴细胞的增殖。IgG为炎症反应的第2道防线[40]，IgG 含量的降低，可导致肠道免疫反应的失衡，从而破坏肠道黏膜免疫屏障。但 Swamy 等[41研究表明，饲喂雄性肉鸡含高水平镰刀菌毒素 $( 8 . 2 ~ \mathrm { m g / k g }$ DON,0.56 mg/kg ZEA)的谷物 56d后，血清中免疫球蛋白含量并未发生显著变化。原因可能是霉菌毒素种类、浓度不同，暴露时间长短不同，试验动物的种类、年龄、性别不同，导致血清中免疫球蛋白对霉菌毒素的反应不同。
+
+淋巴细胞可分泌多种细胞因子及炎症介质，通过发挥抗感染体液免疫和细胞毒性细胞免疫，刺激与调控肠道免疫功能，以防止致病性抗原对肠道的伤害[11,29]。Mahmoodi 等[42]研究表明，在胃上皮AGS 细胞系和人结肠腺癌 SW742 细胞系中， $\mathrm { F B } _ { 1 }$ 以剂量依赖方式显著促进巨噬细胞趋化因子和促炎细胞因子的表达。Kadota等[43]在Caco-2细胞上的研究表明，DON可刺激白细胞介素-8(IL-8)的分泌。在 IPEC-1 细胞中，ZEA 可增加 IL-8 和白细胞介素-10（IL-10）的合成[44]。Taranu 等[45]发现，ZEA 单独作用于 IPEC-1 细胞，细胞因子的表达量并无显著变化，但当 ZEA与大肠杆菌混合作用后，干扰素-y(IFN-γ)、IL-10 和肿瘤坏死因子-α(TNF-α)的分泌量均显著增加。以上研究结果表明，霉菌毒素不仅对肠道具有直接促炎作用，而且可通过肠道功能的改变间接引起肠道炎症[46]。霉菌毒素使促炎性细胞因子分泌量增多，导致肠道紧密连接降低，肠道通透性增加，使肠腔内危害因子更容易通过肠道进入血液[47]。
+
+# 4霉菌毒素对肠道黏膜生物屏障功能的影响
+
+肠道菌群是肠道黏膜的重要生物屏障，以肠道专性厌氧菌为优势菌群，对病原体的入侵起屏障作用，具有抵抗其他致病菌黏附或定植的能力。如果肠道厌氧菌数量减少，微生物菌群稳定性遭到破坏，定植抵抗力下降，外源病原菌就会黏附于肠道黏膜，导致腹泻、肠炎等一系列肠道疾病[10.32]。Niderkorn 等[48]研究表明，胃肠道内发酵菌群可以与 ZEA、 $\mathrm { F B } _ { 1 }$ 结合，有效降低其毒性。Young 等[49]利用液相色谱-紫外质谱监测法研究表明，肠道菌群可通过脱乙酰方式降解单端孢霉菌毒素。Wachey 等[50]利用毛细管电泳单链构象多样性方法观察到，暴露于DON的动物肠道菌群发生动态变化。
+
+5小结
+
+肠道是机体抵御外来污染物入侵的第1道屏障，包括机械屏障、化学屏障、免疫屏障和生物屏障4部分，这4部分是一个相互联系的整体，任何一部分的损伤，均可导致肠道黏膜屏障功能的损伤。研究表明，霉菌毒素可破坏肠道上皮细胞屏障功能，诱导动物和人类肠道病变。为保护动物和人体健康，实际生产中应注意控制霉菌毒素的产生，做好防霉和脱毒工作。目前，有关霉菌毒素影响肠道黏膜屏障功能的研究主要集中在人和单胃动物，对反刍动物的研究较少。且有关霉菌毒素介导的肠道黏膜屏障损伤作用机制，如免疫屏障中免疫球蛋白的表达调控机制研究甚少。因此，在今后的研究中，我们可以结合分子生物学、毒理基因组学等技术方法，从分子水平上探究霉菌毒素对肠道黏膜屏障的损伤机理，形成一套完整的理论基础。
+
+# 参考文献：
+
+[1] JESTOI M,ROKKA M,YLI-MATTILA T,et al.Presence and concentrationsof the Fusarium-related mycotoxins beauvericin,enniatins and moniliformin in finnish grain samples[J].Food Additives and Contaminants,2004,21(8):794-802.
+
+[2] MECA G,RUIZ M J,SORIANO J M,et al.Isolation and purification of enniatins A,A1,B,B1,produced by Fusarium tricinctum in solid culture,and cytotoxicity effects on Caco-2 cells[J].Toxicon,2010,56(3):418-424.   
+[3] MALACHOVA A,DZUMAN Z,VEPRIKOVA Z,et al.Deoxynivalenol,deoxynivalenol-3-glucoside,and enniatins:the major mycotoxins found in cereal-based products on the Czech market[J].The Journal of Agricultural and Food Chemistry,2011,59(24):12990-12997.   
+[4] TATAY E,MECA G,FONT G,et al.Interactive effects of zearalenone and its metabolites on cytotoxicityandmetabolizationinovarianCHO-K1cells[J].Toxicologyin Vitro,2014,28(1):95-103.   
+[5] OSWALD I P,MARIN D E,BOUHET S,et al.Immunotoxicological risk of mycotoxins for domestic animals[J].Food Additives and Contaminants,2005,22(4):354-360.   
+[6] WAN L Y M,ALLEN K J,TURNER P C,et al.Modulation of mucin mRNA (MUC5AC and MUC5B) expression and protein production and secretion in Caco-2/HT29-MTX co-cultures following exposure to individual and combined Fusarium mycotoxins[J].Toxicological Sciences,2014,139(1):83-98.   
+[7] BOUHET S,OSWALD I P.The effects of mycotoxins,fungal food contaminants,on the intestinal epithelial cell-derived innate immune response[J].Veterinary Immunology and Immunopathology,2005,108(1/2):199-209.   
+[8] MARESCA M,YAHI N,YOUNES-SAKR L,et al.Both direct and indirect effects account for the pro-inflammatory activity of enteropathogenic mycotoxins on the human intestinal epithelium:stimulation of interleukin-8 secretion,potentiation of interleukin- $1 \beta$ effect and increase in the transepithelial passge of commensal bacteria[J].Toxicology and Applied Pharmacology,2008,228(1):84-92.   
+[9] 计成.霉菌毒素对家禽的危害及降解技术[J].中国家禽,2014,36(2):40-42.   
+[10] 朱翠,师子彪,蒋宗勇,等.乳酸杆菌在调节肠道屏障功能中的作用[J].中国畜牧兽 医,2012,39(9):118-122.   
+[11]胡红莲,高民.肠道屏障功能及其评价指标的研究进展[J].中国畜牧杂 志,2012,48(17):78-82.   
+[12] BOOTH C,POTTEN C S.Gut instincts:thoughts on intestinal epithelial stem cells[J].The Journal of Clinical Investigation,2000,105(11):1493-1499.   
+[13] GOOSSENS J,PASMANS F,VERBRUGGHE E,et al.Porcine intestinal epithelial barrier disruption by the Fusarium mycotoxins deoxynivalenol and T-2 toxin promotes transepithelialpassageofdoxycyclineandparomomycin[J].BMCVeterinary Research,2012,8(1):245.
+
+169 [14] IVANOVA L,EGGE-JACOBSEN W M,SOLHAUG A,et al.Lysosomes as a possible target of   
+170 enniatin B-induced toxicityinCaco-2cells[J].Chemical Research in   
+171 Toxicology,2012,25(8):1662-1674.   
+172 [15] AKBARI P,BRABER S,GREMMELS H,et al.Deoxynivalenol:a trigger for intestinal integrity   
+173 breakdown[J].The FASEB Journal,2014,28(6):2414-2429.   
+174 [16] PINTON P,TSYBULSKYY D,LUCIOLI J,et al.Toxicity of deoxynivalenol and its acetylated   
+175 derivatives on the intestine:differential effects on morphology,barrier function,tight junction   
+176 proteins,and mitogen-activated protein kinases[J].Toxicological   
+177 Sciences,2012,130(1):180-190.   
+178 [17] KOLF-CLAUW M,CASTELLOTE J,JOLY B.et al.Development of a pig jejunal explant   
+179 cultureforstudyingthegastrointestinaltoxicityofthemycotoxin   
+180 deoxynivalenol:histopathological analysis[J].Toxicology in Vitro,2009,23(8):1580-1584.   
+181 [18] DIESING A K,NOSSOL C,PANTHER P,et al.Mycotoxin deoxynivalenol (DON) mediates   
+182 biphasic celllar response in intestinal porcine epithelial cell linesIPEC-1and   
+183 IPEC-J2[J].ToxicologyLetters,2011,20(1/2):818.   
+184 [19] PINTON P,BRAICU C,NOUGAYREDE J P,et al.Deoxynivalenol impairs porcine intestinal   
+185 barrier function and decreasesthe protein expression of claudin-4 through a   
+186 mitogen-activatedproteinkinase-dependentmechanism[J].The Journal of   
+187 Nutrition,2010,140(11):1956-1962.   
+188 [20] BRACARENSE APFL,LUCIOLI J,GRENIER B,et al.Chronic ingestion of deoxynivalenol   
+189 and fumonisin,alone or in interaction,induces morphological and immunological changes in   
+190 the intestine of piglets[J].The British Journal of Nutrition,2012,107(12):1776-1786.   
+191 [21] BAE H K,PESTKA J J.Deoxynivalenol induces p38 interaction with the ribosome in   
+192 monocytes and macrophages[J].Toxicological Sciences,2008,105(1):59-66.   
+193 [22] PINTON P,GRAZIANI F,PUJOL A,et al.Deoxynivalenol inhibits the expression by goblet   
+194 cells of intestinal mucins through a PKR and MAP kinase dependent repression of the   
+195 resistin-like molecule β[J].Molecular Nutrition & Food Research,2015,59(6):1076-1087.   
+196 [23] 任曼.支链氨基酸调控仔猪肠道防御素表达和免疫屏障功能的研究[D].博士学位论文.北   
+197 京：中国农业大学,2014.   
+198 [24] WAN M L Y,WOO C S J,ALLEN K J,et al.Modulation of porcine $\beta$ -defensins 1 and 2 upon   
+199 individual and combined Fusarium toxin exposure in a swine jejunal epithelial cell   
+200 line[J].Applied and Environmental Microbiology,2013,79(7):2225-2232.   
+201 [25] GANZ T.Biosynthesis of defensins and other antimicrobial peptides[M]//MARSH J,GOODE   
+202 J A.Ciba foundation symposium 186-antimicrobial peptides.Ciba Foundation Symposium,   
+203 2007,186:62-71.   
+204 [26] GREENBAUM D,COLANGELO C,WILLIAMS K,et al.Comparing protein abundance and   
+205 mRNA expression levels on a genomic scale[J].Genome Biology,2003,4(9):117.
+
+:06 [27] XIAO H,WU M M,TAN B E,et al.Effects of composite antimicrobial peptides in weanling :07 piglets challenged with deoxynivalenol: I .Growth performance,immune function,and :08 antioxidation capacity[J].The Journal of Animal Science,2013,91(10):4772-4780.   
+:09 [28] 吴国豪.肠道屏障功能[J].肠外与肠内营养,2004,11(1):44-47.   
+!10 [29] 戈娜,袁慧.肠道免疫屏障功能损伤的研究进展[J].广东畜牧兽医科技,2008,33(1):9-11. !11 [30] 徐凯进,李兰娟.肠道正常菌群与肠道免疫[J].国外医学：流行病学传染病学分 !12 册,2005,32(3):181-183.   
+!13 [31]余锐萍,高齐瑜,王彩虹.肠相关性淋巴样组织研究概况[J].动物医学进 !14 展,2002,23(4):29-33.   
+!15 [32] 蔡元坤,秦新裕 $. D$ -乳酸与肠道屏障功能[J].国外医学：外科学分册,2004,31(6):331-335. !16 [33] CORTHESY B.Roundtrip ticket for secretory IgA:role in mucosal homeostasis?[J].The 117 Journal of Immunology,2007,178(1):27-32.   
+!18 [34] 于晓明,金宏,糜漫天.肠屏障功能的损伤与营养素防护[J].解放军预防医学杂 !19 志,2006,24(1):68-70.   
+!20 [35] WOOF J M,KERR M A.The function of immunoglobulin A in immunity[J].The Journal of ！21 Pathology,2006,208(2):270-282.   
+122 [36] HE Y,FANG J,PENG X,et al.Effects of sodium selenite on aflatoxin $\mathbf { B } _ { 1 }$ -induced decrease of :23 ileal $\mathrm { I g } \mathrm { A } ^ { + }$ cell numbers and immunoglobulin contents in broilers[J].Biological Trace Element :24 Research,2014,160(1):49-55.   
+!25 [37] 罗治彬,吴嘉惠,徐采朴.中毒剂量锌对大鼠小肠黏膜抗体产生的影响[J].世界华人消化杂 :26 志,2000,8(3):363-364.   
+！27 [38] LI Z,YANG Z B,YANG W R,et al.Effects of feed-borne Fusarium mycotoxins with or !28 without yeast cell wall adsorbent on organ weight,serum biochemistry,and immunological !29 parameters of broiler chickens[J].Poultry Science,2012,91(10):2487-2495.   
+!30 [39] GRENIER B,LOUREIRO-BRACARENSE A P,LUCIOLI J,et al.Individual and combined !31 effects of subclinical doses of deoxynivalenol and fumonisins in piglets[J].Molecular ！32 Nutrition & Food Research,2011,55(5):761-771.   
+!33 [40] CERUTTI A.IgA changes the rules of memory[J].Science,2010,328(5986):1646-1647. !34 [41] SWAMY H V L N,SMITH T K,COTTER P F,et al.Effects of feeding blends of grains ！35 naturally contaminated with Fusarium mycotoxins on production and metabolism in !36 broilers[J].Poultry Science,2002,81(7):966-975.   
+!37 [42] MAHMOODI M,ALIZADEH A M,SOHANAKI H,et al.Impact of fumonisin $\mathbf { B } _ { 1 }$ on the !38 production of inflammatory cytokines by gastric and colon cell lines[J].Iranian Journal of !39 Allergy,Asthma and Immunology,2012,11(2):165-173.   
+:40 [43]KADOTAT,FURUSAWAH,HIRANOS,etal.Comparativestudy of !41 deoxynivalenol,3-acetyldeoxynivalenol,and 15-acetyldeoxynivalenol on intestinal transport and IL-8 secretion in the human cell line Caco-2[J].Toxicology in Vitro,2013,27(6):1888-1895.   
+[44] MARIN D E,MOTIU M,TARANU I.Food contaminant zearalenone and its metabolites affect cytokine synthesis and intestinal epithelial integrity of porcine cells[J].Toxins,2015,7(6):1979-1988.   
+[45] TARANU 1,MARIN D E,PISTOL G C,et al.Induction of pro-inflammatory gene expression by Escherichia coli and mycotoxin zearalenone contamination and protection by a Lactobacillus mixture in porcine IPEC-1 cells[J].Toxicon,2015,97:53-63.   
+[46] 郭佳怡,陈洁,何润霞,等.呕吐毒素和其他B型单端孢霉烯族毒素对肠道影响研究进展[J]. 畜牧与兽医,2015,47(5):147-150.   
+[47] CANO P M,SEEBOTH J,MEURENS F,et al.Deoxynivalenol as a new factor in the persistence of intestinal inflammatory diseases:an emerging hypothesis through possible modulation of Th17-mediated response[J].PLoS One,2013,8(1):e53647.   
+[48] NIDERKORN V,BOUDRA H,MORGAVI D P,et al.Binding of Fusarium mycotoxins by fermentative bacteria in vitro[J].The Journal of Applied Microbiology,2006,101(4):849-856.   
+[49] YOUNG J C,ZHOU T,YU H,et al.Degradation of trichothecene mycotoxins by chicken intestinal microbes[J].Food and Chemical Toxicology,2007,45(1):136-143.   
+[50]WACHEY J,VALAT C,POSTOLLEC G,et al.Impact of deoxynivalenol on the intestinal microflora of pigs[J].International Journal of Molecular Sciences,20o9,1O(1):1-17. Effects of Mycotoxins on Intestinal Mucosal Barrier Function: A Review   
+GAO Yanan1.2.3WANG Jiaqi12.3LISongli1,23ZHANG Yangdong1,2.3ZHENG Nan1.2.3\*   
+(1. Ministry ofAgriculture-Milk Risk Assessment Laboratory, Institute of Animal Science, Chinese Academy of Agricultural Sciences, Beijing 100193, China; 2. Ministry of Agriculture-Milk and Dairy Product Inspection Center, Beijing 1O0193, China; 3. State Key Laboratory of Animal Nutrition, Institute of Animal Science, Chinese Academy of Agricultural Sciences, Beijing 100193, China)
+
+Abstract: Mycotoxins widely exist in feed ingredients and human food, posing a serious threat to animals and human health.As the first barrier between the body and external contaminants, intestinal barriers mucosal mainly constitute four interrelated functional barriers which are mechanical barrier,chemical barrier,immune barrieras well as biological barrier.This review summarized the efects of mycotoxins on intestinal mucosal barrier and its mechanisms based on the previous study.
+
+Key words: mycotoxins; intestinal mucosa; intestinal barrier

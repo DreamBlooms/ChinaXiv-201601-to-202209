@@ -1,0 +1,375 @@
+[
+    {
+        "type": "text",
+        "text": "铁蛋白的生物工程应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王玲1,2,3，吴洋1,2,3，张盛1,2,3，齐浩 $^ { 1 , 2 , 3 ^ { * * } }$ (1天津大学化工学院天津300072；2系统生物工程教育部重点实验室天津300072；3天津大学化工协同创新中心合成生物学平台天津30072）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要:铁蛋白是一种普遍存在于生物体内的储铁蛋白，具有铁离子代谢、抗氧化胁迫及消除其他过量金属离子毒害作用的功能。随着对铁蛋白结构和生化功能认识的深入，铁蛋白作为一个含有四氧化三铁核心的特殊蛋白复合体，被广泛应用于生物医学、纳米材料、生物分子成像等各种生物工程领域。该综述针对已知的主要铁蛋白分子，论述了铁蛋白的结构及酶活性机理，基于铁蛋白的多功能分子骨架应用，以及基于铁蛋白磁性的生物分子开关等热点研究，最后对铁蛋白生物工程、生物医学领域的应用和发展进行了展望。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：铁蛋白磁性颗粒 分子骨架中图分类号：Q71",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bioengineering Application of Ferritin ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Ling1.2.3, WU Yang1,2.3, ZHANG Sheng1,2.3, QI Hao1,2,3\\* ( ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "300072,China.) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Widelyconserved iron-storage protein playscrucial role in feric ion metabolism maintaining iron homeostasis, resisting oxidative stressand eliminating other toxic efects of excessive metal ions.With gaining the knowledge from structural and molecular studies,iron-storage protein complex in which iron cluster formed from absorbing free iron has ben successfullyapplied in fieldsof biomedical engineering,nanomaterial,and biomolecule imaging.Herein,theecent progresses in studying thecatalytic mechanism of iron cluster formationare briefly introduced.And the cuting-edge bioengieering aplications in which iron-storage protein were engineered as a versatile molecular scafold for presenting special chemicals,ornatural magnetic particle forconstructing remotecontrol molecular machine arereviewed,although related researches has arisen academic argument. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Ferritin,magnetic particle,molecular scaffold ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "铁蛋白（iron-storage protein）是一种广泛存在于植物、动物和微生物中的储铁蛋白,具有调节铁离子代谢、保护细胞组分的功能。19 世纪末，德国药物学家 Schmiedeberg 第一次在马的肝脏中发现铁蛋白，随后捷克生物学家Laufberger于1937年将铁蛋白从马的脾脏中纯化出来[1-2]。在细胞当中，铁蛋白能够精确的控制二价铁离子通过氧化反应转变成磁铁矿（ $\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ )，然后进一步发生氧化反应转变成磁赤铁矿（ $\\left( \\gamma \\mathrm { - F e } _ { 2 } \\mathrm { O } _ { 3 } \\right)$ ，最后形成磁性铁蛋白[3-5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "迄今为止发现的铁蛋白，根据其物理尺寸和亚基结构的差异，主要分为四种类型，分别为铁蛋白Ferritin，细菌铁蛋白（Bacterioferitin,BFR)，铁蛋白Dps 和铁蛋白 Encapsulins。如图1所示，不同铁蛋白具有不同的物理尺寸。在植物和微生物中Ferritin 的亚基具有相同的结构，但在哺乳动物细胞中，Ferritin 的亚基分为重链亚基（H-链亚基）和轻链亚基（L-链亚基)。L-链亚基不具有铁氧化酶活性，但L-链亚基的存在能够提高H-链亚基的铁氧化酶活性[6-7]。同时在低等脊椎动物中，还发现一种介于 H-链和L-链之间的第三种亚基链 M-链，M-链兼具铁氧化酶活性和三价铁离子成核位点[8]。Dps是在原核生物当中发现的最小的一种DNA-结合铁蛋白，它除了能够氧化并存储铁离子之外，还能够非特异性与DNA 结合，保护DNA 在极端生存条件下不受破坏[9]。Encapsulins 则是在细菌中发现的迄今为止最大的一种铁蛋白。值得注意的是，Encapsulins 是第一个能够装载其他功能酶的铁蛋白，它能借助装载 Ferritin 对铁离子进行氧化以及存储，这也就解释了为什么一些细菌的 Encapsulins 含有一些与铁存储无关的酶[10-11]。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6421803a66930fae209de58d47b947462fa6244fa84dc5aa3506ce990d8bb49b.jpg",
+        "img_caption": [
+            "图1铁蛋白及铁蛋白亚基结构示意图",
+            "Figure 1 the structure of ferritin family and ferritin subunit "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，在分子水平对铁蛋白结构以及酶活性的研究，不断加深了人们对其认知及控制能力。铁蛋白的结构及生化特性：中空的球状结构、表面修饰的灵活性和基于四氧化三铁核心的磁性等，使得铁蛋白分子作为一种多功能的分子骨架在生物工程领域具很大的应用潜力[12-19]。本文综述了近年来铁蛋白的生化活性机理及生物工程相关的最新科研进展，包括铁蛋白四氧化三铁内核形成的分子机理、基于铁蛋白的多功能分子骨架、磁性铁蛋白人工分子机器构建以及一些物理学家关于铁蛋白磁性现象的讨论等，希望能够为基于铁蛋白的生物医学工程应用的研究和发展提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2铁蛋白的功能及人工改造",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1铁蛋白铁氧化酶的生化机理模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "铁蛋白为了实现存储铁离子的功能，每个亚基都含有一个铁氧化酶中心来精确的控制铁离子的氧化过程，这种铁氧化酶中心存在于所有的铁蛋白家族中[20-22]。该铁氧化酶中心具有两个功能：第一，铁氧化酶中心能够迅速吸收、氧化并存储细胞中游离的铁离子，以保护细胞免于芬顿反应产生的羟基自由基对细胞组分（如DNA、脂质、蛋白）的毒害作用[9,23-25]；第二，铁氧粒子的形成使细胞能够精确控制铁离子的储存和动员，以维持难以通过化学手段控制的微量营养素的平衡[26-27]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "铁氧化酶中心的作用机制研究起始于1943 年[28-29]，并且Tatur等[30]第一次通过体外实验发现位于铁蛋白亚基的铁氧化酶中心作用位点。目前对于铁氧化酶中心的工作机制存在两种模型，如图2所示，模型一中铁氧化酶中心作为反应基质，两个二价铁离子结合到铁氧化酶中心作用位点，当它们被氧分子氧化后，Fe(III)-O(H)-Fe(III)作为整体同时离开中心位点，并为其余游离二价铁离子的氧化做准备[31]；模型二中，当两个二价铁离子被氧分子氧化之后，Fe(II)-O(H)-Fe(II)依旧停留在铁氧化酶中心的反应位点，作为一个修复组分（a prosthetic group）催化下一个反应的发生[32-33]。在铁氧化酶中心当中存在三个相关作用位点，位点A为高度保守序列，位点B和位点C在不同生物中存在差异[35-36]。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/55928effb49ff712de0d6f6c1753154d6ea7f2f4ecb8259169bab4c9c2d1807a.jpg",
+        "img_caption": [
+            "图2铁蛋白铁氧化酶活性中心作用机制示意图",
+            "Figure 2 the mechanism of ferritin ferroxidase center "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在植物、动物、微生物中，铁蛋白虽然具有高度保守的序列，但由于进化程度的不同，铁氧化酶中心反应机制在不同的生物中存在差异。Ebrahimi 等[36通过等温滴定量热法（Isothermal titrationcalorimetry，ITC）及电子自旋共振（electron paramagnetic resonance，RPR）等方法对人重链铁蛋白（H-Ferritin）和嗜热古生菌（Pyrococcus furiosus）铁蛋白及其变异体的铁氧化酶中心进行了分析，发现了与现有两种模型不同的作用机制。研究发现在铁氧化酶中心两个Fe(II)被氧化后，Fe(III)-O(H)-Fe(III)会一直稳定地存在于铁氧化酶中心，在氧分子存在的情况下，新进入的Fe(II)离子会与F(III)形成 Fe(II)-O(H)-Fe(II)，并驱动单个F(III)连续移位进入铁蛋白核心，但 Fe（III）从铁氧化酶中心移出后的路径仍有待确定。铁蛋白除了能氧化铁离子之外，对于其他的金属离子也具有一定的氧化存储能力。Maity等[37]对人L-链铁蛋白氧化金离子的过程进行了研究，发现在L-链铁蛋白中金离子结合位点为Cys126和Cys48，并且Cys126能够与His114 或者一个水分子共同作用将金离子传递至下一个作用位点。在L-链铁蛋白的金属离子积累中心，Cys48和Cys52能与金离子通过疏基形成一个单元结构，促使被氧化的金离子形成一个晶核。但对于不同的金属离子，L-链铁蛋白的作用位点也存在差异，铁蛋白的铁氧化酶中心作用机制仍然需要进行深入的研究。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2铁蛋白的人工改造",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "随着结构生物学对变异铁蛋白的研究，人们对于铁蛋白分子的整体了解不断加深，科学家开始利用一些基因工程的手段对铁蛋白进行人工改造。研究发现在Ferritin 的铁氧化酶中心，Glu17/Glu50/His53形成保守位点A，Glu94/Glu130 形成位点B，Glu126/Glu129/Glu49形成位点 $\\mathrm { C } ^ { [ 3 0 ] }$ 对这三个位点本身或者附近的氨基酸进行改造，会对铁蛋白的组装方式、稳定性或者与其他蛋白的作用方式产生很大影响。例如，大肠杆菌Dps 的R83和R133位点对其12倍体的正确组装极为重要，对应的变异体可导致细胞内合成的 $50 \\%$ 的亚基只能形成稳定的二倍体[38]。人源H-铁蛋白的R23A变异体能够改变铁蛋白与其他功能蛋白的相互作用方式[39]。双位点突变体D132W/N34W 会极大地降低大肠杆菌 BFR 铁蛋白的热稳定性[40]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过对铁氧化酶中心相关位点的变异，也能提高铁蛋白的物理磁性，使铁蛋白在生物工程方面的应用能力提高。Liu等[41]通过易错-PCR的方式构建了大肠杆菌Ferrtin的突变体库，并将其转入敲除铁蛋白基因的野生型大肠杆菌细胞中，在富含二价铁离子的培养基中培养，利用如图3B所示的方法，通过外加磁场的磁性分离柱筛选磁性强的细胞。分析发现变异体H34A和T64A的细胞比表达野生型铁蛋白的细胞对外加磁场的吸附活性分别高出 $30 \\%$ 和 $28 \\%$ ，携带双变异点H34A和T64A的铁蛋白细胞具有高出野生型 $70 \\%$ 的对外加磁场的吸附活性。这两个突变位点均位于铁蛋白亚基的B-型通道内，突变位点的产生会使铁离子通道入口的极性氨基酸减少，使离子更容易通过，从而使铁蛋白核心积累更多的磁性四氧化三铁。Matsumoto 等[42]在酵母细胞内对嗜热古生菌（Pyrococcus furiosus）铁蛋白进行了改造，如图3A所示，作者通过PCR 随机突变的方法构建了一个嗜热菌铁蛋白的突变体库，通过荧光蛋白报告基因反馈胞内游离铁离子浓度，进而筛选铁蛋白磁性高的酵母细胞。分析发现L55P变异铁蛋白中心空腔中铁离子的累积量大约比野生型提高了1.6倍，通过X-晶体射线图发现该突变位点位于铁蛋白亚基的螺旋链B与螺旋链D之间，该位置是被氧化的铁离子进入铁蛋白中心空腔的通道，因此突变位点可能会影响铁氧化酶中心的活性或者铁蛋白中心空腔的结构，造成铁离子氧化效率增加。依据铁蛋白的这一特点，铁蛋白还能够应用于细胞分离以及磁性操控细胞等方面。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/020837a6362857565d8faa631d02c58c3ed559606177a834af614022a98f3886.jpg",
+        "img_caption": [
+            "图3铁蛋白功能的人工改造示意图。A以酵母细胞为表达载体的铁蛋白突变菌株的筛选；B以大肠杆菌为表达载体的铁蛋白突变菌株的筛选。"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 the schematic diagram of artificial evolution of ferritin.A. selection of ferritin mutant strains with yeast cells as the expression vector; B. Screening of ferritin mutant strains with E. coli expression vector. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3铁蛋白的生物工程应用",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1多功能高精度的分子骨架",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "自1991年人铁蛋白的晶体结构被报道之后，人们就认识到它可以作为一种蛋白分子骨架来展示不同的功能性分子。Ferrtin 具有三个可进行修饰的界面:内表面、外表面、蛋白亚基之间的接触面[43]。外表面可用于连接某些具有特殊功能的配体，内表面以及中心空腔可作为纳米反应器，用于合成纳米复合材料，而亚基之间的接触面则可用于指导铁蛋白的解离与重新组装。基于其结构特点，可以利用如图4所示的化学修饰和基因工程修饰方法，在Ferritin上进行功能性分子展示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ad903b849b943253b195dd3ec1c52ae1c239e8bb6ea09db0edee5955b30a571b.jpg",
+        "img_caption": [
+            "图4铁蛋白的修饰方法",
+            "Figure 4 the methods of ferritin modification "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对铁蛋白进行化学修饰是将功能性分子与铁蛋白亚基的特定氨基酸侧链以化学键相连，能与各种功能性分子进行反应的氨基酸侧链主要包括：氨基、羧基、巯基。最早开发的化学修饰方法是利用戊二醛能非特异性地与氨基酸形成共价键的特点，将铁蛋白与抗体连接，铁蛋白标记的抗体能与相应的抗原相互作用形成稳定的结构，该结构可用于疾病治疗，或者以铁蛋白四氧化三铁核心作为电镜标记对抗原抗体结合部位进行成像[44]。Hainfeld 等[45]利用这种方法合成的铁蛋白-抗体共轭物，其免疫反应性高达 $92 \\%$ 。Tang 等[46]利用铁蛋白表面的赖氨酸氨基在铁蛋白表面修饰生物素，被修饰的铁蛋白能与亲和素修饰的人血浆铜蓝蛋白抗体相互作用形成二抗，以含有四氧化三铁的铁蛋白作为过氧化物酶，通过酶联免疫法可以实现对微量的人血浆铜蓝蛋白的检测。Vannucci 等[47]在人重链H-铁蛋白表面修饰聚乙二醇（PEG）分子，并利用基因工程手段将α-黑素细胞刺激素肽链融合到H-铁蛋白的N-末端，形成的稳定结构可用于黑色素瘤的靶向诊疗技术，通过小鼠的体内实验发现，该结构具有更高的肿瘤靶向特异性及更长的半衰期。此外，Matsumura 等[48]设计了PEG 修饰的铁蛋白为载体的纳米材料，通过金属蛋白酶MMP-2引发纳米颗粒的自组装，实现了对肿瘤的治疗。该结构中修饰铁蛋白的多肽链由三个部分组成：第一部分是由六个氨基酸(Pro-Leu-Gly-Leu-Ala-Gly)组成的 MMP-2基质感应片段，该片段在金属基质蛋白酶-2（MMP-2）的存在下会在甘氨酸和亮氨酸处发生断裂；第二部分是由三个基团组成的疏水片段，分别为与感应片段的C-末端相连的6-氨基己酸基团，与铁蛋白表面的半胱氨酸相连的疏水基团和琥珀酰亚胺基-[4-(N-马来酰亚胺甲基)]-环己烷-1-甲酸-(6-氨基已酸酯)基团；第三部分则是与感应片段的N-末端侧链赖氨酸相连的PEG。由于PEG 的存在，无癌细胞存在时，铁蛋白在溶液中可稳定分散，当出现癌细胞时，MMP-2 则会迅速将感应片段降解，使疏水片段暴露并引起铁蛋白的聚集，通过核磁共振以铁蛋白四氧化三铁核心为标记可以实现对癌细胞的检测。虽然可以通过化学修饰使铁蛋白展示各种功能性分子，但是化学修饰所需要的条件都比较苛刻，比如利用 PEG对铁蛋白进行修饰时，不同的反应温度、pH、反应时间的变化，都会引起修饰部位的变化。近年来随着人们对于铁蛋白结构和生化功能的深入了解以及分子生物技术的发展，基因工程技术对铁蛋白的改造表现出更大的应用优势。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "铁蛋白的生物修饰是利用基因工程的方法，将特定的结合序列加入到铁蛋白基因序列中，从而形成兼具多种功能的铁蛋白。Kim等[49]以人重链H-铁蛋白（每个亚基单链上删除了第五个多肽链）为载体，在其N-末端连接肿瘤靶向凋亡肽链CGKRK(KLAKLAK)2，C-末端连接绿色荧光蛋白GFP，形成一种双室纳米笼（double-chambered nanocages,DCNCs）铁蛋白。这种双室纳米笼结构可被用于肿瘤的治疗，同时荧光多肽链的插入还可以完成细胞内成像的功能。Zhen 等[50利用基因工程手段将铁蛋白和预先与 $\\mathrm { C u ( I I ) } )$ 络合的多肽 Cys-Asp-Cys-Arg-Gly-Asp-Cys-PheCys (RGD4C)连接，使铁蛋白对阿霉菌素的装载效率提高到 $7 3 . 4 9 \\mathrm { w t \\% }$ ，同时被装载的阿霉菌素表现出对肿瘤更高效的生长抑制作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "此外结合基因工程和铁蛋白的磁性，研究人员还设计了一种能够通过外加磁场控制的人工生物蛋白支架结构。Ducasse 等[51]近期研究显示，N-端融合了雷帕霉素结合蛋白 FRB 的嗜热古生菌(Pyrococcus furiosus）铁蛋白可以在雷帕霉素存在的情况下，与FKBP蛋白（能与雷帕霉素的另外一个结构域相结合）修饰的目标蛋白形成高密度蛋白网状结构，该结构如果应用于生物体内，能够通过化学诱导的方式，使目标蛋白与特定的细胞器产生强烈的靶标作用，同时也能利用铁蛋白的磁性特点对其实现操控。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2天然磁性纳米颗粒 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由于Feritin的独特生化特性，磁性四氧化三铁结晶完全包裹在自然形成的蛋白壳内，铁蛋白成为一种具有极高生物兼容性的磁性纳米颗粒。铁蛋白核心形成的磁性四氧化三铁颗粒能够在核磁共振成像中增强细胞成像的弛豫系数（ ${ \\bf R } _ { 2 }$ relaxation)，从而增加核磁共振成像的检测极限[52]。此外还可以通过基因工程改造融合蛋白，拓展铁蛋白的生化及物理活性。因此，与化学合成的无机纳米材料相比，磁性铁蛋白在细胞成像的应用中具有极大的优势。Radoul 等[52]将人重链铁蛋白H-Ferritin 的C-末端与趋磁细胞的磁小体蛋白Mms6连接，形成嵌合磁性铁蛋白。用该嵌合磁性铁蛋白转染小鼠胶质瘤C6 细胞并进行核磁共振成像，发现成像效果显著，对细胞中的铁元素含量进行测定，发现细胞中铁元素含量明显升高。Wang 等[53]将大肠杆菌铁蛋白C-末端与绿色荧光蛋白相连，N-末端与蛋白激酶调节因子CheY相连，将构建的蛋白复合体在大肠杆菌工程菌中进行表达，分别进行荧光显微镜成像和细胞切片的X-射线断层扫描成像，两种图像显示的CheY蛋白位置相同，均位于细胞的两极。可见作为一种天然磁性纳米粒子，铁蛋白被用作一种非侵入性的报告基因，实现了在体外监测细胞的传递和分化，扩展了铁蛋白在基因治疗上的应用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "当铁蛋白处于外加磁场（Magnetic fields）或射频电场（Radio-wave）时，铁蛋白可以将能量转化为分子间的物理作用力或热能[54]。借此，铁蛋白还被成功地用作一种磁性介导开关，调控特定蛋白的表达。如图5所示的方法，Stanley 等[55]将温度敏感型离子通道蛋白TRPV1与Ferritin 结合，构建了一种能够通过外加能量场控制胰岛素合成与释放的模型。当施加射频电场时，铁蛋白将来自于射频电场波的能量转化为热量，迫使TRPV1通道打开放入钙离子，钙离子敏感型启动子启动胰岛素的合成。但是铁蛋白与TRPV1的相对位置对胰岛素表达有很大的影响，细胞质中游离铁蛋白或固定在细胞内膜上的铁蛋白均不能高效地诱导胰岛素蛋白表达，只有直接连接在 TRPV1蛋白上的铁蛋白可以在外加能量场下显著地调控胰岛素的表达[56]。这是由于铁蛋白与TRPV1的直接连接能够更加高效的传递热量，或更高效的将外加磁场的能量转化为操控TRPV1通道打开的扭转力，促使胰岛素表达量升高。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Ca++ Ca++ A L B O D O . O . fields D gneticfields Radiowaves neticf m T 力 ferritin ferritin T 。 热量驱动 扭转力 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图5铁蛋白磁性控制开关。A射频电场（Radio waves）中，铁蛋白热量驱动开关；B外加磁场（Magnetic fields）中，铁蛋白扭转力驱动开关。Figure 5 ferritin magnetic control switch. A Radio waves, ferritin heat-driven switch; B Magneticfields, ferritin torque-actuated switch.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2016 年，北京大学谢灿等[57]在果蝇中发现了一种与Ferritin 等\"经典\"铁蛋白不同的蛋白复合体，这种蛋白复合体内部可以形成“非球型”的柱状Fe-S 晶核，并能够像物理磁针一样感受外加磁场。谢灿等指出正是由于该蛋白复合体的磁性，果蝇才能够感应磁场分辨方向。然而，以上这些关于铁蛋白复合体磁性的实验结果并没有得到所有领域学者的认同，其中来自加州理工大学的生物物理学家Cyranoski指出物理上观测到的可以感受外加磁场的最小磁体应至少包含一百万以上磁性金属原子[58]，而 Ferrtin 铁蛋白的铁原子容量大约在 4000 左右，谢灿等发现的蛋白复合体也仅能容纳 40 个左右磁性相关的金属原子。所以作者指出，这种基于铁蛋白磁性的物理机理应该不是生物学家所解释那样简单。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3铁蛋白复合体组装",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "以Ferritin为代表的一类铁蛋白，都具有依赖于pH或者溶液盐浓度的自组装特性。如图6所示，在极低 $\\mathsf { p H }$ 或极高的氯化钠浓度（大于100mmol/L）条件下,铁蛋白会解离形成铁蛋白单体的状态，将pH 调节到7左右或者降低溶液中氯化钠浓度时，铁蛋白单体会自组装形成完整的球状结构。依据铁蛋白的这一特性，可以将一些生物活性营养物质或者生物药物装载到铁蛋白中心空腔中,这种方法极大的提高了生物营养物质或者生物药物的作用效果，也是铁蛋白被研究应用的一大热点。Damiani 等[59]利用铁蛋白的这一特性，实现了Ferrtin 对阿霉素的装载。Mazzucchelli等[60]通过铁蛋白依赖 pH的组装特性和摄入金属离子的特性实现了Ferritin 对奥拉帕尼药物的装载，利用被装载在铁蛋白中的奥拉帕尼进行癌症治疗时，癌细胞的存活率明显下降 $40 \\%$ 。铁蛋白的自组装特性结合基因工程的手段，还可以构建新型的多功能杂合铁蛋白。Suci等[61通过基因工程的方法对李斯特菌的铁蛋白Dps 进行了两种不同修饰，首先将Dps第138位的丝氨酸突变成为半胱氨酸，通过半胱氨酸将一个金属螯合位点和一个红色荧光基团连接在Dps 的两个表面上，然后在Dps 的C-末端连接4个氨基酸残基（KLFC)。将两种不同修饰的Dps亚基按照不同比例进行混合，依赖 $\\mathsf { p H }$ 的调节，不同亚基会自组装形成同时具有金属鳌合能力和红色荧光的杂合Dps。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/fa4eb9e670de5c54f6e8f3e06f32af7a2c56d28ed9d1f9730e872ac5bc89ae35.jpg",
+        "img_caption": [
+            "图6铁蛋白解离与组装的条件转变",
+            "Figure 6 the conditions of ferritin disassembly and assembly "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "随着对铁蛋白组装特性研究的深入，铁蛋白自身组装方式的改造也成为现在研究的一个热点。Williams 等[62]就通过基因工程的方法，成功的将12 聚体的Dps 铁蛋白改造形成了24 聚体的铁蛋白。研究发现通过将Dps 铁蛋白的第47位苯丙氨酸突变为谷氨酸，可以使Dps 亚基间的组装形式发生变化，形成一个24聚体铁蛋白。但由于突变位点位于铁氧化酶中心，使新形成的24聚体Dps 的铁氧化能力下降。虽然这种构建24聚体铁蛋白的方法使得铁蛋白的铁氧化能力下降，但是该方法也为开发新功能铁蛋白提供了一种积极的思路。在未来的研究中，可以通过对氨基酸的改变实现对铁蛋白构型的变化，使不同种类的铁蛋白的功能得到最大程度的利用。同时结合铁蛋白的生理特征，相对于无机纳米材料，铁蛋白将在生物医学、生物材料等领域发挥重要的作用。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4结论与展望 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "自从人们第一次解析出 Ferritin 和Dps 等铁蛋白的结构以来，随着对其结构和功能研究的不断深入，其用途已经不单局限于存储金属离子，人们掌握了更多控制铁蛋白分子形态及生化活性的知识。Ferritin 和Dps 等铁蛋白亚基具有适中的分子量，可以自组装成为多聚体的球状分子，利用这一特性并结合对亚基的修饰，便可以在组装后的多聚体上得到特定功能分子的高密度展示，这一特性对于很多生物工程领域的应用都极为重要，也是近年来以Ferrtin铁蛋白为主的多功能分子骨架应用的主要方面。除了表面的分子展示功能，利用对铁蛋白自组装过程的控制，Ferritin、Dps 等还被改造为可以装载小分子的生物分子\"盒子”。这些工程应用都是基于铁蛋白分子结构的特性，如前面所述，通过改造亚基间的识别模式，Dps 可以聚合成比野生型大一倍的24倍体，极大地拓展了其作为分子骨架或生物分子“盒子\"的物理容量，然而24倍体的Feritin是否可以进行类似的改造还未有相关报道。作为一种成熟的分子工具，更大物理容量的Ferritin 将具有更多的生物工程应用。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "细胞内天然形成的磁性纳米颗粒，这是Ferrtin 等铁蛋白近年来生物工程应用的另一热点。具有四氧化三铁晶核的铁蛋白不但可以应用于核磁成像，还可以在哺乳动物细胞内通过外加磁场控制磁性铁蛋白与其他蛋白复合体之间的相对物理位置。改造铁蛋白Ferritin 等的铁氧化中心活性，可以驱使酵母和大肠杆菌等微生物在外加磁场中进行富集。虽然改造的Ferrtin 蛋白表现出了如此强大的磁性，但是体外Ferrtin蛋白在外加磁场驱使下的富集还没有相关报道，因此作者实验室正在尝试通过体外蛋白表达技术将铁蛋白所展示的物理磁性进行人工定向进化，并在此基础上对铁蛋白酶活机理进行研究。此外，物理学家也确实对Ferrtin及近年发现的容量更加小的MagR-Cry 复合体的物理磁性能力提出了置疑。因此，细胞内铁蛋白的磁性机理应该具有更加复杂的生物物理学机制，这一方面的研究需要物理学和分子生物学的深度交叉合作，相应的研究成果将会极大地拓展铁蛋白在生物医学、生物工程领域的应用。在结构生物学、合成生物学突飞猛进发展背景之下，可以期待这种升级版的具有更大容量、更强磁性的增强版铁蛋白的出现只是时间问题。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1] Laufberger V.Sur la cristallisation de la Ferritin. Soc Chim Biol,1937,19:1575-1582. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[2] Crichton RR.Structure and functionofFerritin.Angewandte Chemie International Edition,1973,12(1): 57-65. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[3]Meldrum FC,HeywoodBR,MannS.MagnetoFeritin:in vitrosynthesisof a novelmagnetic protein.Science,1992, 257(5069): 522-524.   \n[4] Wong K KW,Douglas T,Gider S,etal.Biomimeticsynthesisandcharacterizationof magnetic proteins (magnetoerritin). Chemistry of materials,1998,10(1): 279-285.   \n[5]Liu X,LopezPA,GiessenTW,etal.EngiengGeneticallncodedineralzatonnd MagnetismviaDirectedEolutio. Scientific reports, 2016, 6: 38019.   \n[6]TheilEC.Feritin:theprotein nanocageand ironbiomineral in healthandindisease.Inorganicchemistry20l3,52(21): 12223-12233.   \n[7]BernacchioniC,Ghini V,ozi C,etal.Looelectrostatics modulates theintersubunitinteractinsinFerrtinACSceical biology, 2014, 9(11): 2517-2525.   \n[8] Giorgi A,MignognaG,BellapadronaG,etal.Teuusualco-assemblyofH-and M-chains inthe ferrtinmolecule fromthe Antarctic teleosts TrematomusbernachiiandTrematomus newnesi.Archivesof biochemistryand biophysics,208,478(1): 69-74.   \n[9]MorisseyJ,owlerC.onutilzationinmarinecyanobacteriaandekaryoticalgae.Frontiersinmcrobiology,12,:43.   \n[10]Rahmanpour R,Bugg TD H.Assembly in vitroof Rhodococus jostiiRHAl encapsulin and peroxidase DypB to forma nanocompartment. The FEBS journal, 2013, 280(9): 2097-2104.   \n[1]Rahmanpour R,Bugg TDH. CharacterisationofDyp-type peroxidases from Pseudomonas fluorescens Pf-5: oxidationofMn (II) and polymeric lignin by Dyp1B. Archives of biochemistry and biophysics, 2015, 574: 93-98.   \n[12] Zeth K,Hoiczyk E,OkudaM.Ferroxidase-mediated ironoxide biomineralization:novel pathways to multifunctional nanoparticles. Trends in biochemical sciences, 2016, 41(2): 190-203.   \n[13]BradleyJM,Le BrunNE,MoreGR.Feritins:furnishingproteins withiron.JBICJournalofBiologicalInorganic Chemistry,2016,21(1): 13-28.   \n[14]GhirlandoR，MutskovaR，SchwartzC.EnrichmentandcharacterizationofFeritinfornanomaterialaplications Nanotechnology, 2015, 27(4): 045102.   \n[15]HeD,Marles-WrightJ.Feritinfamilyproteinsandtheiruseinbionanotechnology.Newbiotechnology,2015,32(6): 651-657.   \n[16] Arosio P,EliaL,Poli M.Feritin,cellular iron storage and regulation. IUBMB life, 2017, 69(6): 414-422.   \n[17]Jutz G,vanRijnP,Santos MrandaB,tal.Feritin:aversatilebuildingblockforbionanotechnology.Chemicalreviews, 2015,115(4): 1653-1701.   \n[18]HonarmandEbrahimiK,HagedoornPL,HagenWR.Unityinthebiochemistryoftheiron-storageproteinsFeitinand ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "bacterioFerritin.Chemical reviews,2014,115(1):295-326. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[19] 杨彩云，曹长乾，蔡，等．铁蛋白表面修饰及其应用．化学进展,2015,28(1):91-102.Yang C Y, Cao C Q, Cai Y, et al. Progress in Chemistry,2015,28(1): 91-102.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[20]McHughCA,FontanaJ,emecekDetal.Aviruscapsid-lienanocompartmentthatstoresironandprotectsbcteriafro oxidative stress. The EMBO journal, 2014, 33(17): 1896-1911. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[21]Theil EC.Feritin protein nanocagesuse ionchannels，catalyticsites,and nucleation channels tomanage iron/oxygen chemistry. Current opinion in chemical biology,2011,15(2): 304-311. [22]ZethK.Dpsbiomneralzing proteis: multifunctionalarchitectsofnature.BiochemicalJoual,012,445(3):9-1. [23]ArosioP,IngrassiaR,Cavadini P.Feritins: afamilyofmolecules forironstorage,antioxidationandmore.Biochimicaet Biophysica Acta (BBA)-General Subjects, 2009,1790(7): 589-599. [24]Park S,You X,ImlayJA.Substantial DNA damage from submicromolar intracelular hydrogen peroxide detected in Hpx-mutantsof Escherichiacoli.Proceedings ofthe NationalAcademyof Sciences of the United States of America,2005, 102(26): 9317-9322.   \n[25]ChianconeE,CeciP.The multifacetedcapacityofDps proteins tocombat bacterial stressconditions:detoxificationof iron and hydrogen peroxide and DNA binding.Bichimica et Biophysica Acta (BBA)-GeneralSubjects,2010,180(8):798-805.   \n[26]Burgess AW,JohansenM.Assult: patersofmergencyvisits.Joualofpschatric ursingandmentalhealthsices, 1976, 14(11): 32-36.   \n[27]Ullrich S,SchulerD.Cre-lox-based methodforgenerationoflargedeletions withinthegenomic magnetosomeislandof Magnetospirillum gryphiswaldense. Applied and environmental microbiology, 2010,76(8): 2439-2444.   \n[28]GranickS,MichaelisL.eritinI.ApoFeitinofhorsespleen.JouralofBiological Chemistry,94,147(1):91-97.   \n[29]BradleyJM,Le Brun NE,Moore GR.Feritins:furnishing proteinswithiron.JBIC JournalofBiological Inorganic Chemistry,2016,21(1): 13-28. [30]Tatur J,Hagen WR,Matias PM.Crystalstructureof theFeritinfromthehyperthermophilicarchaealanaerobePyrococus furiosus. JBIC Journal of Biological Inorganic Chemistry,2007,12(5): 615-630. [31]Treffy A, Zhao Z,QuailMA,etal.Howthe presenceofthreeironbinding sitesafects theironstorage functionof the Ferritin (EcFtnA) of Escherichia coli. FEBS leters,1998,432(3): 213-218. [32]Tatur J,Hagen WR.Thedinuclear iro-oxoferroxidasecenterofPyrococcus furiosus Ferrtiisastable prosthetic group with unexpectedly high reduction potentials. FEBS letters, 2005, 579(21): 4729-4732. [33]EbrahimiKH,HagedooPL,JongejanJA,etal.CatalysisofrocoreformationinPyrococcusfuriosuseitin.JBC Journal of Biological Inorganic Chemistry,2009,14(8): 1265. [34] StillmanTJ,HempsteadPD,Artymiuk PJ,etal.Thehigh-resolution X-raycrystalographicstructureoftheFerrin (EcFtnA) of Escherichia coli; comparison with human H Ferritin (HuHF) and the structures of the $\\mathrm { F e } ^ { 3 + }$ and $Z \\mathrm { n } ^ { 2 + }$ derivatives. Journal of molecular biology,2001,307(2): 587-603. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[35]YaoH,JepkorirG,ovellS,tal.TodistictFeritin-likemoleculesiPeudomoaseruginosa:teproductofebfr gene is a bacterial Feritin (FtnA) and not a bacterioFerritin (Bfr). Biochemistry,2011,50(23): 5236-5248. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[36]EbrahimiKH,BillE,HagedooPL,etal.ThecatalyticcenterofFeritinregulatesironstorageviaFe(I)Fe(I) displacement. Nature chemical biology, 2012, 8(11): 941-948. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[37]Maity B,Abe S,UenoT.Observationof goldsub-nanocluster nucleationwithin acrystaline proteincage.Nature Communications, 2017, 8: 14820. [38]Zhang Y,FuJ,CheSY,etal.Rationaldisruptionoftheoligomerizationofthemini-FeritinE.coliDPSthroughroteiprotein interface mutation. Protein Science, 2011, 20(11): 1907-1917. [39]GryzikM,SvastaA,LonghiG,etal.ExpreionandcaracterzationofteFeritinbdngdominofucareptor Coactivator-4 (NCOA4). Biochimica et Biophysica Acta (BBA)-General Subjects,2017,1861(11): 2710-2716.   \n[40] ZhangY,Zhou J,Ardejani MS,etal.DesignabilityofAromatic Interaction NetworksatE.coliBacteriFeitinB-ype Channels. Molecules, 2017,22(12): 2184.   \n[41]Liu X,Lopez PA,Giessen TW,etal.Engineering Genetically-Encoded Mineralizationand MagnetismviaDirected Evolution. Scientific reports,2016, 6: 38019.   \n[42]MatsumotoY,ChenR,AnikevaP,etal.Engineeringintracelularbiomineralizationandbiosensingbyamagnticprotein. Nature communications, 2015, 6: 8721.   \n[43]Uchida M,Kang S,Reichhardt C,etal.TheFeritinsuperfamily:Supramolecular templates formaterialssynthesis. Biochimica et Biophysica Acta (BBA)-General Subjects, 2010,1800(8): 834-845.   \n[44] Kishida Y,OlsenBR,Berg RA,etal.Twoimproved methods forpreparing Feritin-proteinconjugatesforelectron microscopy. The Journal of cell biology,1975, 64(2): 331-339.   \n[45]HainfeldJF. Uranium-loaded apoferitin with antibodies atached: molecular design for uranium neutron-capture therapy. Proceedings of the National Academy of Sciences,1992, 89(22): 11064-11068.   \n[46]Tang Z,WuH,ZhangY,etal.Enzyme-mimicactivityofferrc nancoreresiding ineritinaditsbosesingapplications. Analytical chemistry,2011, 83(22): 8611-8616.   \n[47] VannuciL,FalvoE,FornaraM,etal.Selectivetargetingof melanomabyPEG-masked protein-based multifunctional nanoparticles. International journal of nanomedicine, 2012, 7: 1489.   \n[48]Matsumura S,AokiI,Saga T,etal.Atumor-environment-responsive nanocaierthat evolves itssurface propertiesupon sensing matrix metalloproteinase-2 and initiates agglomeration to enhance $\\mathrm { T } _ { 2 }$ relaxivity for magnetic resonance imaging. Molecular pharmaceutics, 2011, 8(5): 1970-1974. [49] KimS,KimG S,SeoJ,etal.Double-chamberedFeritin platform:dual-function payloadsof cytotoxicpeptidesand fluorescent protein. Biomacromolecules, 2015,17(1): 12-19.   \n[50] Zhen Z,Tang WChen H,etal.RGD-modifiedapoFeritinnanoparticlesforefficientdrugdeliverytotumors.ACSnano 2013, 7(6): 4830-4837. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv台作期刊   \n[51]DucaeR,Wang WA,NavaroMGJ,etal.Programmed Self-AssemblyofaBiochemicaland Magnetic SafoldtoTger and Manipulate Microtubule Structures. Scientific reports, 2017,7: 11344.   \n[52]Radoul M,Lewin L,Cohen B,et al.Genetic manipulationof ironbiomineralizationenhances MRrelaxivity ina Ferritin-M6A chimeric complex. Scientific reports,2016, 6: 26550.   \n[53]Wang Q,MercoglianoCP,LoweJ.AFerrtin-basedlabel forcellularelectroncryotomographyStructure,2011,19(2): 147-154.   \n[54] Meister M. Physical limits to magnetogenetics. Elife, 2016,5: e17210.   \n[55]Stanley SA,GagnerJE,Damanpour S,et al.Radio-wave heatingofiron oxide nanoparticlescanregulate plasmaglucosein mice. Science,2012, 336(6081): 604-608.   \n[56] StanleySA,Sauer J,KaneR S,etal.Remoteregulationof glucose homeostasis in mice using geneticallyencoded nanoparticles. Nature medicine,2015,21(1): 92-98.   \n[57]Qin S, Yin H, Yang C, et al. A magnetic protein biocompass. Nature materials, 2016,15(2): 217.   \n[58] Cyranoski D. Compass protein atracts heap of criticism. Nature, 2017, 544(7648): 16.   \n[59]Damiani V,FalvoE,FracassG,etal.TherapeuticEficacyoftheNovel Stimuli-Sensitive Nano-FeritinsContaiing Doxorubicin in a Head and Neck Cancer Model. International journal of molecular sciences,2017,18(7): 1555.   \n[60]MazzucchelliS,TufiMBaccariiFetal.H-Feriti-anagedolaparib:aprosingchoieforotRC-utatedn sporadic triple negative breast cancer. Scientific Reports, 2017, 7(1): 7505.   \n[61] SuciPA,Kang S,Young M,et al.A streptavidin-proteincage janusparticlefor polarized targetingandmodular functionalization. Journal of the American Chemical Society,2009,131(26): 9164-9165.   \n[62] Williams SM,Chandran A V,Prakash S,etal.A MutationDirects the Structural SwitchofDNA Binding Proteinsunder Starvation to a Ferritin-like Protein Cage. Structure, 2017. ",
+        "page_idx": 13
+    }
+]

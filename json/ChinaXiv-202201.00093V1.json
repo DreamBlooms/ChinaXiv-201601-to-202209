@@ -1,0 +1,436 @@
+[
+    {
+        "type": "text",
+        "text": "基于3种机器学习方法的农业干旱监测比较",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王晓燕，李净，邢立亭(西北师范大学地理与环境科学学院，甘肃 兰州730070)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：频繁的旱灾对甘肃省经济、农业生产造成严重危害,因此利用先进方法建立准确可靠的农业干旱监测模型对该省防旱减灾十分重要。本文基于随机森林(RF）、BP神经网络和支持向量机(SVM)3种机器学习方法,利用甘肃省2002—2019年4—10月多源遥感数据得到的植被状态指数(VCI）、温度状态指数(TCI）、植被供水指数(VSWI）、降水状态指数(PCI)以及DEM、土壤有效含水量(AWC)和气候类型作为自变量,气象站点以3个月时间尺度的标准化降水蒸发指数(SPEI_3)为因变量,构建3种不同的农业干旱监测模型,分析比较出适用于监测甘肃省农业干旱的最佳模型，同时进一步探究了机器学习方法构建的模型在不同环境下的适用性。结果表明：构建的3种机器学习模型中,随机森林模型的 $R ^ { 2 }$ 平均值高(0.86)且误差小(RMSE为0.40,MAE为0.31),农业干旱的监测效果要优于BP神经网络和支持向量机模型;干燥和湿润两种环境下分别构建的3种机器学习模型在湿润环境中监测能力表现均更优异（ $\\scriptstyle \\left( R ^ { 2 } > 0 . 8 2 \\right)$ ,而随机森林模型在两种环境中监测干旱的表现比其他两种模型强。研究结果为甘肃省的农业干旱监测与评估提供了新的科学方法，对农业干旱研究具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：农业干旱；机器学习；SPEI；MODIS ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干旱是出现频率高、持续时间长、波及范围广的气象灾害之一[1]。农业干旱是由于低于正常降水或高于平均蒸发和蒸腾作用而导致的土壤水分亏缺[2]。频繁的农业干旱导致经济损失严重，因此准确且实时或接近实时的农业干旱监测是必不可少的。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干旱指数是监测和分析农业干旱的重要方法。近年来，学者们建立了各种干旱指数来量化干旱特征,特别是严重程度和空间范围[3]。根据数据源不同，通常分为基于气象站点数据监测的干旱指数和基于遥感数据监测的干旱指数两大类。常用的基于气象站点数据的干旱指数包括帕默尔旱度指数(PDSI)[4]、作物干旱识别指数[5]、综合指数(CI)[6]、K指数、标准化降水指数(SPI)和标准化降水蒸发指数(SPEI)[9-10]等。SPEI由于同时考虑了降水量和温度并且能够监测不同地区不同类型的干旱，被广泛应用。虽然基于气象站点数据的干旱指数能够准确且有效的监测气象站及其周边干旱的严重程度，但在可用气象站点有限的条件下，遥感数据覆盖面积广、空间分辨率高、时效性强等特点，基于遥感数据的干旱指数在大面积干旱时空模式的监测中更为可靠。当前基于遥感数据监测的干旱指数主要有归一化植被指数(NDVI)[]、植被状态指数(VCI)[12]、温度状态指数(TCI)[13]、归一化多波段干旱指数(NMDI)[14]、归一化差值水分指数(NDWI)[15]以及植被供水指数(VSWI)[16]等。最初多是单一因素的遥感指数被用于监测和分析干旱，如NDVI、VCI等，但农业干旱过程复杂多变，影响因素众多，单一因素的干旱指数往往难以反映干旱的多类型和多尺度特征[17]。因此利用先进方法集成多源数据构建综合的干旱监测模型或指数逐渐成为发展新趋势。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "综合多源数据的干旱监测模型或指数从构建方法角度介绍，有权重组合、多变量联合分布及机器学习方法。Zhang等[18]对土壤水分条件指数（SMCI）、TCI、PCI进行线性加权构建微波集成干旱指数(MIDI)，结果表明MIDI与实测值在空间分布上有很好的一致。杜瑞麒等9通过联合分布函数构建出反映土壤水分和降水信息的综合干旱指数，并较好的分析了吉林省的干旱时空特征。虽然权重组合与联合分布方法在干旱监测中均有较好的表现，但均存在一定程度的缺陷。权重组合方法建立的综合干旱指数需要先假设变量间的线性关系然后根据专家经验判断或相关分析等方法来确定多种单一干旱指标的权重，而农业干旱的复杂决定了影响因子间不一定都是线性关系，同时权重的分配也存在误差;利用联合分布方法构建的综合干旱指数虽然既保留了单一指标本身的边际分布，又描述了指标之间复杂的依存关系，但在单一指标数量较多的情况下，变量间的关系变得复杂时，会导致建模变得困难。近年机器学习方法逐渐成为干旱研究领域的新秀，因为其不仅能够处理干旱影响因子间复杂的非线性问题且能够简单明了的集成多源数据,科学高效的建立综合干旱监测模型，合理的解决了上述问题。但是不同机器学习方法构建的模型在农业干旱监测上具有区域差异性，而且甘肃省气候类型复杂，干旱频发。为了能在甘肃省建立更加全面精准的综合农业干旱监测模型,本文采用随机森林、BP神经网络、支持向量机3种机器学习法，考虑多种干旱因子，结合气象数据和多源遥感数据，比较分析构建的3种综合干旱监测模型在甘肃省的适用性，同时探究模型在不同环境下的表现并分析不同致旱因子的相对重要性，为农业干旱监测研究提供了新方法以及科学参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "甘肃省位于中国西北部，地理位置为 $3 2 ^ { \\circ } 1 1 { ^ \\prime } _ { \\sim }$ $4 2 ^ { \\circ } 5 7 ^ { \\prime } \\mathrm { N } , 9 2 ^ { \\circ } 1 3 ^ { \\prime } { \\sim } 1 0 8 ^ { \\circ } 4 6 ^ { \\prime } \\mathrm { E }$ 。甘肃是典型的温带大陆性气候，降水少蒸发大。在甘肃几乎每年都发生农业干旱，每年平均受灾面积达到 $8 2 . 6 8 \\times 1 0 ^ { 4 } { \\mathrm { k m } } ^ { 2 }$ ,并导致 $5 { \\times } 1 0 ^ { 8 } { \\sim } 1 0 { \\times } 1 0 ^ { 8 } \\mathrm { k g }$ 的粮食减产[20]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2数据处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文从气象、土壤、植被方面进行因子选择，选取PCI和TCI为气象因子，VSWI作为土壤因子，VCI是植被因子。考虑到研究区内不同地形水分、温度、植被覆盖度等因素在空间上存在差异性，土壤的生产力和抗旱性在空间上有高度变异性以及研究区内气候类型复杂等原因，选择数字高程模型DEM、土壤有效含水量以及中国气候区划为模型的辅助因子。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据选择的时间范围为2002—2019年，时间分辨率为月（4一10月），空间分辨率为 $1 ~ \\mathrm { k m }$ 。其中，MODIS数据有MOD11A2产品中的地表温度(LST)，时间分辨率为8d,空间分辨率为 $1 ~ \\mathrm { k m }$ ,月数据为4幅影像数据求平均；MOD13A2产品中的归一化植被指数和增强型植被指数(EVI)，时间分辨率为 $1 6 \\textup { d }$ 空间分辨率为 $1 ~ \\mathrm { k m }$ 。降雨数据选择TRMM3B43，时间分辨率为月，空间分辨率为 $0 . 2 5 ^ { \\circ }$ 。以上MODIS和TRMM数据均来自于NASA（https://ladsweb.modaps.eosdis.nasa.gov/），在数据处理过程中，对于TRMM数据首先将降水速率转换为月降水总量数据，然后统一对NDVI、LST、EVI以及TRMM数据进行裁剪、投影转换、采用最邻近法进行重采样使空间分辨率为 $1 ~ \\mathrm { k m }$ ,最后通过以上数据计算出VCI、TCI、PCI、VSWI指数,具体计算过程如表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DEM数字高程、中国气候区划和中国土壤砂、黏粒含量数据以及用于制图的土地覆盖类型数据均来源于中国科学院资源环境科学数据中心(https://www.resdc.cn/),空间分辨率均为 $1 ~ \\mathrm { k m }$ 。土壤有效含水量利用Gupta等[2提出的土壤砂、黏粒含量的经验线性拟合模型估算。对全国DEM、气候区划以及土壤有效含水量进行裁剪、投影转换后可直接使用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "气象数据来源于中国气象数据网(http://data$\\mathrm { \\ c m a . c n / }$ )，气象站点分布如图1所示，根据研究区气象数据的缺失和站点分布在耕地的情况，最终选择25个气象站点。站点数据主要包括1970一2019年的月平均气温和月降水量，用于计算1个月、3个月、6个月时间尺度的SPEI。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/b390a03ecbf062796b08e2818536500fea9d2a8c6d90286ca7c8208009907553.jpg",
+        "table_caption": [
+            "表1干旱指数计算方法",
+            "Tab.1 Remote sensing drought index calculation formula "
+        ],
+        "table_footnote": [
+            "注:i为第i月的NDVI、LST、TRMM值 $( i { = } 4 , 5 , 6 , \\cdots , 1 0 )$ ,max与 $\\operatorname* { m i n }$ 分别为2002—2019年第i月的最大值与最小值。"
+        ],
+        "table_body": "<html><body><table><tr><td>干旱指数</td><td>公式</td><td>文献来源</td></tr><tr><td>VCI植被状态指数</td><td>(NDVI -NDVImin)/(NDVImax-NDVImin)</td><td>[22]</td></tr><tr><td>TCI温度状态指数</td><td>(LSTmax -LST:)/(LSTmax -LSTmin)</td><td>[22]</td></tr><tr><td>PCI降水指数</td><td>(TRMM-TRMMmin)/(TRMMmax-TRMMmin)</td><td>[22]</td></tr><tr><td>VSWI植被供水指数</td><td>EVI/LST</td><td>[23]</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2dce07661e2573186d1f7616ba30179edbbb2c99e648a8a768045b7bc7fcfc6c.jpg",
+        "img_caption": [
+            "图1研究区概况",
+            "Fig.1 Overview of the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 随机森林随机森林的核心思想是回归和分类，是使用去相关树有效地减少预测变量方差的一种方法[24]。随机森林方法的具体步骤为：首先从训练数据中，通过随机提取训练数据集中的部分数据，比如 $20 \\%$ 的数据集，并据此形成决策树;然后将提取的 $20 \\%$ 的数据集放回训练集中，并再次随机提取 $20 \\%$ 的数据集，产生第二个决策树。不断重复第二步，建立多个决策树并以此组成随机森林;最终预测结果由所有决策树结果的平均值决定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2BP神经网络BP神经网络是一种由输入层、隐层和输出层组成，并由误差逆传播方法训练的多层前馈网络[25]。主要包括前向传播和误差的反向传播。前向传播指在计算误差输出时，输入信号通过隐含层作用于输出节点，经过非线性变换，产生输出信号，如果实际输出与期望输出不相符，则转入误差的反向传播过程。误差反向传播指输出误差的逆向逐层分摊和调节阈值使误差阶梯下降的过程。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.3支持向量机支持向量机是一种监督学习方法，通过非线性映射，采用结构风险最小化原则，将低维空间和线性不可分的数据映射到高维空间使其成为线性可分的，再将数据在高维空间进行分类和预测[26]。支持向量机的核心是核函数，可以提高算法的速度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1干旱因子分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "降水、土壤、植被干旱因子在不同时期对干旱的表现不同。提取2002—2019年甘肃4—10月所有气象站点的VCI、TCI、PCI和VSWI指数，按月依次对4种遥感指数和1个月、3个月、6个月时间尺度的SPEI（分别由SPEI_1,SPEI_3和SPEI_6表示）进行Pearson相关性分析，进而分析单个遥感干旱指数监测农业干旱的能力以及融合多源数据的必要性，结果如表2所示。3种时间尺度的SPEI除了植被状态指数VCI在植被生长初期和末期外，其他指数的相关性均通过了0.01或0.05显著性检验。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/923ec981de2db1425c1ba962cdaf563646e525123c193c0303f25b79933c0a53.jpg",
+        "table_caption": [
+            "表2遥感指数与不同时间尺度SPEI的相关性分析",
+            "Tab.2 Correlation analysis between remote sensing index and SPEI on different time scale! "
+        ],
+        "table_footnote": [
+            "注：\\*\\*表示在0.01水平上显著相关,\\*表示在0.05水平上显著相关。VCI表示植被状态指数,TCI表示温度状态指数,PCI表示降水状态指数，VSWI表示植被供水指数。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">月份</td><td colspan=\"4\">SPEI_1</td><td colspan=\"4\">SPEI_3</td><td colspan=\"4\">SPEI_6</td></tr><tr><td>VCI</td><td>TCI</td><td>PCI</td><td>VSWI</td><td>VCI</td><td>TCI</td><td>PCI</td><td>VSWI</td><td>VCI</td><td>TCI</td><td>PCI</td><td>VSWI</td></tr><tr><td>4</td><td>0.06</td><td>0.38**</td><td>0.54**</td><td>0.30°</td><td>0.09</td><td>0.23**</td><td>0.47**</td><td>0.34**</td><td>0.09</td><td>0.28**</td><td>0.56**</td><td>0.30**</td></tr><tr><td>5</td><td>0.09</td><td>0.28**</td><td>0.61**</td><td>0.29°</td><td>0.07</td><td>0.24**</td><td>0.60**</td><td>0.26**</td><td>0.08</td><td>0.29**</td><td>0.53**</td><td>0.21**</td></tr><tr><td>6</td><td>0.12**</td><td>0.35**</td><td>0.65**</td><td>0.34**</td><td>0.10**</td><td>0.34**</td><td>0.51**</td><td>0.30*</td><td>0.21</td><td>0.33**</td><td>0.53**</td><td>0.25*</td></tr><tr><td>7</td><td>0.15**</td><td>0.34**</td><td>0.76**</td><td>0.40°</td><td>0.28**</td><td>0.25**</td><td>0.68**</td><td>0.29**</td><td>0.19**</td><td>0.32**</td><td>0.78**</td><td>0.32*</td></tr><tr><td>8</td><td>0.16**</td><td>0.24**</td><td>0.78**</td><td>0.27**</td><td>0.17**</td><td>0.27**</td><td>0.65**</td><td>0.28**</td><td>0.20**</td><td>0.25**</td><td>0.62**</td><td>0.23**</td></tr><tr><td>9</td><td>-0.02</td><td>0.31**</td><td>0.49°</td><td>0.24**</td><td>0.04°</td><td>0.23**</td><td>0.45*</td><td>0.29*</td><td>0.02</td><td>0.26**</td><td>0.43*</td><td>0.26**</td></tr><tr><td>10</td><td>0.11*</td><td>0.32**</td><td>0.55**</td><td>0.37**</td><td>0.25°</td><td>0.27**</td><td>0.50**</td><td>0.41**</td><td>0.17**</td><td>0.30**</td><td>0.56**</td><td>0.32*</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于降水指数PCI，其相关性在3种时间尺度的SPEI中均为最高，且在7月达到最大值，说明以降水因子建立的干旱指数在降水充足的季节其监测结果更具有参考价值。温度十旱指数TCI在植被生长初期的相关系数要高于植被生长中后期，如TCI与不同时间尺度SPEI的相关性均在6月达到最大值。在4一10月，植被干旱指数VCI与不同时间尺度SPEI的相关性均呈现先增大后减小的过程，以SPEI_3为例，在4月和5月未通过显著性检验，到7月植被生长最佳时期，相关系数达到最大,8月开始，相关性又逐渐减弱。这表明以植被因子建立的干旱指数在植被覆盖度较好的区域监测干旱能力更可靠。在月时间尺度上土壤湿度指数VSWI其相关性表现为先增大后减小再增大的趋势。其变化趋势与植被指数VCI相同，说明土壤湿度指数更适合于植被茂盛区域的旱情监测。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以上分析表明，PCI、VCI、TCI以及VSWI单个遥感干旱指数在监测农业干旱中具有局限性，虽然PCI与SPEI的相关性高，但单一降水因素不能代表干旱。因此应用先进的机器学习方法来融合多种致旱因子，构建综合监测农业干旱的模型具有重要意义。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "不同时间尺度的标准化降水蒸发指数SPEI可以分析不同的干旱类型，1一6个月时间尺度的SPEI适用于气象和农业干旱，较长时间尺度的SPEI适用于水文干旱。大量研究表明3月或更长时间尺度的SPEI更能代表农业干旱，本文采用3个月时间尺度的SPEI分析农业干旱。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2模型构建及验证评价 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从2012—2019年甘肃气象站点中随机选取5组不同的5个站点作为模型的验证数据，其次，2002一2019年除每组被选出的5个验证站点外所有站点的SPEI_3和所在站点的VCI、TCI、PCI、VSWI、DEM、AWC和气候类型作为模型的训练数据。每组训练样本数据依次有461个、462个、465个、465个和465个。运用3种机器学习方法分别对4一10月的训练样本进行学习，每月包括5组不同的训练样本，共构建35组农业干旱监测模型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "模型构建中随机森林有两个重要参数，决策树个数 $n$ 和树节点预选变量个数 $m$ ；当 $n$ 太小则模型欠拟合，当 $n$ 足够大时模型逐渐趋于稳定。 $\\mathbf { \\Omega } _ { n }$ 应大于$1 0 0 , m$ 的取值公式为 $\\sqrt { P }$ ,其中 $P$ 为候选特征变量，$m$ 应小于特征变量。为了选取误差最小的 $m$ ，根据经验公式和不小于特征变量两个要求，逐一选择 $m$ 并构建不同的回归模型。以4月的5组模型为例，当 $n { = } 1 0 0 0 , m$ 依次取2、3、2、2、2时，随机森林模型的误差最小，同样方法得到其余30个模型的参数。支持向量机方法构建模型时选取误差较小、分类准确率较高的径向基函数RBF，两个重要参数为核参数$\\boldsymbol { g }$ 和惩罚系数 $C$ 。核参数 $g$ 影响训练和预测速度。惩罚系数 $C$ 越大，模型容易过拟合，过小容易欠拟合。经过反复试验，当支持向量机的 $\\boldsymbol { g }$ 为0.02、惩罚系数 $C$ 为10时模型是最稳定的。BP神经网络中梯度下降法是调整全局权重和阈值的关键，本文选择训练速度最快的trainlm函数，缺点是需要的内存大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过模型输出的模拟值与SPEI_3实测值之间的相关性分析，验证评价机器学习方法构建的农业干旱监测模型。图2为3种机器学习方法各月份第2组验证样本模拟值与实测值SPEI_3的散点图，图中随机森林、BP神经网络和支持向量机模型的模拟值分别用RF_nh、BP_nh和SVM_nh表示。由图2可以看出，4一10月份3种机器学方法模型的模拟值与SPEI_3实测值的相关系数都不小于0.89，说明3种机器学习方法构建的农业干旱监测模型都可应用于实际的旱情监测。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.33种机器学习方法监测结果对比",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用决定系数 $R ^ { 2 }$ 、均方根误差RMSE和平均绝对误差MAE来比较模型模拟结果进而分析适用于甘肃省构建模型的最佳机器学习方法。从3种机器学习方法对验证数据的预测结果统计可知（表3），在随机森林构建的35个监测模型中，随机森林模型模拟值与SPEI_3实测值的 $R ^ { 2 }$ 在 $0 . 7 8 { \\sim } 0 . 9 5 , 4 { \\ - } - 1 0$ 月的总平均值为0.86;BP神经网络模型的 $R ^ { 2 }$ 在 $0 . 7 0 \\sim$ 0.91,4—10月的总平均值为0.82；支持向量机模型的 $R ^ { 2 }$ 在0.73\\~0.91,4—10月的总平均值为0.84;同时也对每月5组模型的统计指标进行求平均值，发现随机森林模型的 $R ^ { 2 }$ 要高于BP神经网络和支持向量机，说明随机森林模型模拟的结果对干旱指数SPEI_3的解释程度更高。随机森林、BP神经网络和支持向量机3种方法构建的模型中，RMSE和MAE的最大值分别是0.79和0.66、1.00和0.79、0.81和0.66，说明与BP神经网络和支持向量机模型相比，随机森林模型的模拟值与SPEI_3实测值的差异更",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "mu 210 (a1)4月r=0.96 u 210 (a2)5月 =0.98 山 u 210 (a3)6月r=0.95 h 210 (4)7月 r=0.95   \n-1 123 小中 123 E -1 -3 -2-1012 -3-2-1012 -3-2-1012 -3-2-1012 SPEI_3 SPEI_3 SPEI_3 SPEI_3   \nqu Li 21 (a5)8月r=0.94 J qu 01 21 (a6)9月r=0.92 新 ur 101 2 (a7)10月r=0.95 4 23 -2 -3 -3-2-1012 -3-2-1012 -3-2-1012 SPEI_3 SPEI_3 SPEI_3   \nqudg 21 0 (b1)4月 $\\scriptstyle r = 0 . 9 3$ 文 （204 qudg 21 0 (b2)5月 r=0.95 qudg 10 2 (b3)6月r=0.93 t qudg 10 2 (b4)7月r=0.92   \n-1 -1 23 小 -1 23 F -1 茶 -3-2-1012 -3-2-1012 -3-2-1012 -3-2-1012 SPEI_3 SPEI_3 SPEI_3 SPEI_3 (b5)8月 ${ r } = 0 . 9 1$ (b6)9月 $r = 0 . 8 9$ (b7)10月 ${ r } = 0 . 9 1$   \n21 21 2   \n品 ！ Budg Li qudg 101 ： √ -2 -2 -3 -3 -3-2-1012 -3 -2-1012 -3-2-1012 SPEI_3 SPEI_3 SPEI_3   \n2 (c1)4月 r=0.91 2(c2)5月 r=0.95 2 ，(c3)6月 $r = 0 . 9 6$ （204号 2 (c4)7月 $\\scriptstyle r = 0 . 9 3$   \nQuWAS 10 山 V quWAS 10 quWAS 10 地 qu WAS 10   \n-1 -1 -1 小 -1   \n-2 、 ： -2   \n-3 -3 -3-2-1012 -3-2-1012 -3-2-1012 -3-2-1012 SPEI_3 SPEI_3 SPEI_3 SPEI_3 (c5)8月 r=0.90 (c6)9月r=0.90 (c7)10月 r=0.93   \nqu WAS 2 1 m quWAS 2 1 qu WAS 2 1 s   \n0 0 0   \n-1 A -1 -1 牛 123 -3-2-1012 -3-2-1012 -3-2-1012 SPEI_3 SPEI_3 SPEI_3 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "小，表现最好，而支持向量机模型的表现则要优于BP神经网络模型。通过上述分析表明，随机森林方法构建的模型在甘肃省的农业干旱监测中表现更佳。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4机器学习空间敏感性分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "甘肃气候类型复杂，随机森林、BP神经网络和支持向量机构建的3种模型受不同气候模式的影响，对干燥和潮湿地区干旱指数SPEI3的模拟可能不同，利用K均值聚类方法根据多年降水条件将气象站点划分为干燥和湿润两种类型(表4)。首先根据两个聚类将原始数据分为聚类1(干燥)与聚类2(湿润)的训练样本和验证样本，然后分别训练BP神经网络、随机森林和支持向量机模型，最后利用决定系数 $R ^ { 2 }$ 、均方根误差RMSE和平均绝对误差MAE来评估模型的性能(表5)。从表5可知，不管在那种环境下，随机森林模型的表现要优于其他两种模型，在干燥的环境下，BP神经网络模型的性能比支持向量机模型好，湿润环境下，与BP神经网络模型",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/e3fbdde36af9b59077d1560c58e01c52ea6e903dd8fe43230a8afb51ff1b7f9f.jpg",
+        "table_caption": [
+            "表33种机器学习方法对验证数据拟合结果统计",
+            "Tab.3Statistics of the fiting results of the three machine learning methods on the verification data "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">月份</td><td rowspan=\"2\">样本</td><td colspan=\"3\">随机森林</td><td colspan=\"3\">BP神经网路</td><td colspan=\"3\">支持向量机</td></tr><tr><td>R</td><td>RMSE</td><td>MAE</td><td></td><td>RMSE</td><td>MAE</td><td>R</td><td>RMSE</td><td>MAE</td></tr><tr><td rowspan=\"6\">4</td><td>1</td><td>0.78</td><td>0.79</td><td>0.66</td><td>0.70</td><td>1.00</td><td>0.79</td><td>0.73</td><td>0.81</td><td>0.66</td></tr><tr><td>2</td><td>0.91</td><td>0.43</td><td>0.29</td><td>0.86</td><td>0.45</td><td>0.32</td><td>0.83</td><td>0.50</td><td>0.37</td></tr><tr><td>3</td><td>0.84</td><td>0.50</td><td>0.39</td><td>0.80</td><td>0.58</td><td>0.42</td><td>0.85</td><td>0.49</td><td>0.39</td></tr><tr><td>4</td><td>0.86</td><td>0.56</td><td>0.42</td><td>0.82</td><td>0.53</td><td>0.39</td><td>0.85</td><td>0.49</td><td>0.39</td></tr><tr><td>5</td><td>0.90</td><td>0.36</td><td>0.31</td><td>0.87</td><td>0.40</td><td>0.32</td><td>0.87</td><td>0.37</td><td>0.31</td></tr><tr><td>平均值</td><td>0.86</td><td>0.53</td><td>0.41</td><td>0.81</td><td>0.59</td><td>0.45</td><td>0.82</td><td>0.53</td><td>0.42</td></tr><tr><td rowspan=\"6\">5</td><td>1</td><td>0.84</td><td>0.56</td><td>0.40</td><td>0.80</td><td>0.68</td><td>0.53</td><td>0.82</td><td>0.58</td><td>0.40</td></tr><tr><td>2</td><td>0.95</td><td>0.33</td><td>0.23</td><td>0.91</td><td>0.34</td><td>0.24</td><td>0.91</td><td>0.35</td><td>0.24</td></tr><tr><td>3</td><td>0.85</td><td>0.37</td><td>0.28</td><td>0.81</td><td>0.44</td><td>0.31</td><td>0.84</td><td>0.42</td><td>0.30</td></tr><tr><td>4</td><td>0.88</td><td>0.36</td><td>0.28</td><td>0.81</td><td>0.47</td><td>0.37</td><td>0.84</td><td>0.38</td><td>0.27</td></tr><tr><td>5</td><td>0.82</td><td>0.37</td><td>0.31</td><td>0.77</td><td>0.41</td><td>0.33</td><td>0.78</td><td>0.41</td><td>0.31</td></tr><tr><td>平均值</td><td>0.87</td><td>0.40</td><td>0.30</td><td>0.82</td><td>0.47</td><td>0.36</td><td>0.84</td><td>0.43</td><td>0.30</td></tr><tr><td rowspan=\"6\">6</td><td>1</td><td>0.80</td><td>0.38</td><td>0.29</td><td>0.77</td><td>0.39</td><td>0.30</td><td>0.76</td><td>0.40</td><td>0.32</td></tr><tr><td>2</td><td>0.91</td><td>0.24</td><td>0.18</td><td>0.87</td><td>0.29</td><td>0.22</td><td>0.91</td><td>0.25</td><td>0.19</td></tr><tr><td>3</td><td>0.87</td><td>0.23</td><td>0.18</td><td>0.85</td><td>0.35</td><td>0.28</td><td>0.85</td><td>0.27</td><td>0.22</td></tr><tr><td>4</td><td>0.85</td><td>0.31</td><td>0.26</td><td>0.82</td><td>0.29</td><td>0.23</td><td>0.82</td><td>0.38</td><td>0.32</td></tr><tr><td>5</td><td>0.82</td><td>0.36</td><td>0.29</td><td>0.82</td><td>0.35</td><td>0.27</td><td>0.79</td><td>0.35</td><td>0.28</td></tr><tr><td>平均值</td><td>0.85</td><td>0.30</td><td>0.24</td><td>0.83</td><td>0.33</td><td>0.26</td><td>0.83</td><td>0.33</td><td>0.26</td></tr><tr><td rowspan=\"6\">7</td><td>1</td><td>0.86</td><td>0.36</td><td>0.26</td><td>0.84</td><td>0.39</td><td>0.30</td><td>0.82</td><td>0.51</td><td>0.39</td></tr><tr><td>2</td><td>0.90</td><td>0.38</td><td>0.27</td><td>0.85</td><td>0.41</td><td>0.31</td><td>0.87</td><td>0.39</td><td>0.29</td></tr><tr><td>3</td><td>0.81</td><td>0.42</td><td>0.32</td><td>0.78</td><td>0.43</td><td>0.34</td><td>0.81</td><td>0.41</td><td>0.35</td></tr><tr><td>4</td><td>0.85</td><td>0.51</td><td>0.37</td><td>0.80</td><td>0.48</td><td>0.36</td><td>0.81</td><td>0.48</td><td>0.40</td></tr><tr><td>5</td><td>0.88</td><td>0.36</td><td>0.28</td><td>0.83</td><td>0.42</td><td>0.33</td><td>0.85</td><td>0.41</td><td>0.33</td></tr><tr><td>平均值</td><td>0.86</td><td>0.41</td><td>0.30</td><td>0.82</td><td>0.43</td><td>0.33</td><td>0.83</td><td>0.44</td><td>0.35</td></tr><tr><td rowspan=\"6\">8</td><td>1</td><td>0.85</td><td>0.49</td><td>0.39</td><td>0.81</td><td>0.52</td><td>0.40</td><td>0.83</td><td>0.50</td><td>0.45</td></tr><tr><td>2</td><td>0.88</td><td>0.40</td><td>0.29</td><td>0.80</td><td>0.47</td><td>0.35</td><td>0.81</td><td>0.48</td><td>0.38</td></tr><tr><td>3</td><td>0.90</td><td>0.34</td><td>0.29</td><td>0.87</td><td>0.38</td><td>0.31</td><td>0.88</td><td>0.36</td><td>0.29</td></tr><tr><td>4</td><td>0.87</td><td>0.40</td><td>0.36</td><td>0.85</td><td>0.45</td><td>0.36</td><td>0.83</td><td>0.50</td><td>0.41</td></tr><tr><td>5</td><td>0.89</td><td>0.39</td><td>0.29</td><td>0.82</td><td>0.48</td><td>0.39</td><td>0.86</td><td>0.43</td><td>0.29</td></tr><tr><td>平均值</td><td>0.88</td><td>0.40</td><td>0.32</td><td>0.83</td><td>0.46</td><td>0.36</td><td>0.84</td><td>0.45</td><td>0.36</td></tr><tr><td rowspan=\"6\">9</td><td>1</td><td>0.85</td><td>0.44</td><td>0.33</td><td>0.82</td><td></td><td></td><td></td><td>0.53</td><td>0.41</td></tr><tr><td>2</td><td>0.84</td><td>0.45</td><td>0.34</td><td>0.80</td><td>0.48 0.46</td><td>0.35 0.31</td><td>0.80 0.82</td><td>0.46</td><td>0.33</td></tr><tr><td>3</td><td>0.89</td><td>0.32</td><td>0.23</td><td>0.87</td><td>0.35</td><td>0.26</td><td>0.90</td><td>0.32</td><td>0.21</td></tr><tr><td>4</td><td>0.89</td><td>0.34</td><td>0.28</td><td>0.82</td><td>0.43</td><td>0.32</td><td>0.86</td><td>0.42</td><td>0.31</td></tr><tr><td>5</td><td>0.83</td><td>0.44</td><td>0.32</td><td>0.81</td><td>0.46</td><td>0.36</td><td>0.80</td><td>0.50</td><td>0.38</td></tr><tr><td>平均值</td><td>0.86</td><td>0.40</td><td>0.30</td><td>0.82</td><td>0.44</td><td>0.32</td><td>0.84</td><td>0.45</td><td>0.33</td></tr><tr><td rowspan=\"6\">10</td><td>1</td><td>0.84</td><td>0.44</td><td>0.32</td></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表4站点聚类结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/b9763586ad23c295b4f13ecd62a725b927b3545e7be107da3b428ac50c23f7a4.jpg",
+        "table_caption": [
+            "Tab.4 Site classification "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>分类</td><td>站点</td><td>年平均降水量/mm</td><td>平均温度/℃</td></tr><tr><td>聚类1</td><td>酒泉、张掖、武威、民勤、靖远、永昌、景泰、皋兰、高台、敦煌、瓜州、玉门镇、山丹</td><td>155.93</td><td>7.97</td></tr><tr><td>聚类2</td><td>崆峒、临夏、榆中、临洮、环县、西峰、岷县、武都、麦积、华家岭、会宁、天水</td><td>483.96</td><td>8.60</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/9a4bf17c2285ad5563b3015a09bf147629e9999f69e9f7d9c0a994fc00ba8a2a.jpg",
+        "table_caption": [
+            "表5不同空间模型性能评估",
+            "Tab.5Model performance evaluation in different spaces "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">分类</td><td colspan=\"3\">BP神经网络</td><td colspan=\"3\">随机森林</td><td colspan=\"3\">支持向量机</td></tr><tr><td>R</td><td>RMSE</td><td>MAE</td><td>R</td><td>RMSE</td><td>MAE</td><td>R</td><td>RMSE</td><td>MAE</td></tr><tr><td>聚类1(干燥)</td><td>0.81</td><td>0.38</td><td>0.29</td><td>0.83</td><td>0.37</td><td>0.27</td><td>0.78</td><td>0.43</td><td>0.34</td></tr><tr><td>聚类2(湿润)</td><td>0.82</td><td>0.48</td><td>0.38</td><td>0.88</td><td>0.45</td><td>0.34</td><td>0.85</td><td>0.45</td><td>0.36</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "相比支持向量机模型表现更佳。此外，3种机器学习方法构建的模型在湿润环境下监测农业干旱的能力优于干燥环境下。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了确定不同环境下模型在连续时间序列上对SPEI_3实测值模拟的性能。选择聚类1和聚类2两组验证样本中共12个站点，验证3种机器学习方法的时空差异性。图3为3种机器学习方法对2012—2019年7月的12个气象站点模拟值与实测SPEI_3的一致性分析，其中山丹、景泰、张掖、永昌、高台和皋兰为干燥环境中的站点，榆中、临洮、环县、临夏、武都和岷县为湿润环境中的站点。由图3可知，连续时间序列上RF模型在两个聚类中模拟SPEI_3实测值的表现最好。在干燥环境的站点中除张掖和高台站点外其他站点BP模型表现比支持向量机模型好，在湿润环境的站点中支持向量机模型略好，分析结果与表5相似，说明不同环境下构建的模型是可靠的。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "随机森林方法可以进行变量重要性排序，因此通过该法获取两个聚类干旱因子(VCI、TCI、PCI、VSWI、AWC、气候类型和DEM)的重要性排序（图4)。气象因子PCI与TCI在干燥和湿润环境中排名均为前两名，对整个模型的影响最大，这两个气象因子的总和分别占聚类1和聚类2相对重要性的$56 \\%$ 和 $5 5 \\%$ ，表明降水和温度因子是造成农业干旱的主要因素。在聚类2湿润环境中，土壤因子VSWI重要性为第3，植被因子VCI为第4。聚类1干燥环境中，植被为第3,土壤因子为第4。但受环境的影响，湿润环境下的植被长势比干燥环境下好。机器学习构建的模型在降水较多、植被覆盖度高的区域",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "监测能力更好。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "干旱是影响人类生活生产的自然灾害之一，精准实时的监测农业干旱是必须要解决的问题，故本文融合气象数据和遥感数据，利用随机森林、支持向量机和BP神经网络3种机器学习方法，构建了3种甘肃省综合农业干旱监测模型。已有研究表明[27],机器学习模型可以有效的提高监测干旱的准确性，这与本文的研究是一致的。本文对模型模拟的结果与实测值SPEI_3进行比较分析，两者有很好的一致性，同时对4种单因子干旱指数与3种不同时间尺度的SPEI进行了相关性分析，模型的相关性高于单因子相关性，表明融合多源遥感数据确实提高了遥感监测农业干旱的准确性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3种模型中，随机森林模型的模拟结果要优于支持向量机和BP神经网络模型， $R ^ { 2 }$ 更大，误差更小。这一结果与董婷等28的研究一致，随机森林模型在干旱监测中表现更优，更具有普适性。本研究中3种机器学习模型在湿润环境的表现更好，而在两种环境中随机森林模型的监测能力仍强于支持向量机和BP神经网络模型，这与Feng等[29]的研究结果是相似的，明确了本文研究的准确性和可靠性，同时也进一步表明了随机森林模型在农业干旱监测中更有潜力。但本文依然存在需要改进的地方，本文使用的降水遥感数据空间分辨率为 $0 . 2 5 ^ { \\circ }$ ，时间分辨率为月，都有待进一步提高。本文在干旱因子选择时没有考虑蒸发、人类活动等因素。未来需要针对这些不足进一步进行研究。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ed84337ea8447916ac06f16286dc90af5ec9e991e479de31d221a17a63c4589.jpg",
+        "img_caption": [
+            "注：al\\~f1为干燥环境中的气象站点，a2\\~f2为湿润环境中的气象站点。",
+            "图32012—2019年7月模型模拟值与实测SPEI3的变化趋势"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/894dfd6333e2bc0bbb786b59228d9e64e7eb460135a4386290c874bd1f744b8b.jpg",
+        "img_caption": [
+            "Fig.3 The change trend of model simulation value and measured SPEI_3 from 2Ol2 to July 2019 ",
+            "图4不同聚类因子重要性分析",
+            "Fig.4Analysis of the importance of different clustering factors "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "通过采用随机森林、支持向量机和BP神经网络3种机器学习方法，集成多源数据，构建了3种甘肃省综合农业干旱监测模型，并验证了3种机器学习模型的精度，比较了3种机器学习模型在甘肃省农业干旱监测的结果以及在不同环境下模型的表现。主要得出结论如下：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1)3种机器学习方法构建的综合农业干旱监测模型的模拟值与SPEI_3实测值的相关系数均在",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "0.89以上，表明构建的3种模型是有效的，均可应用于甘肃省的农业干旱监测。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2）利用 $R ^ { 2 }$ 、RMSE和MAE对3种模型模拟结果进行了比较，发现随机森林方法构建的模型统计指标要优于支持向量机模型和BP神经网络模型，说明RF模型能更全面可靠精准的对甘肃省的农业干旱进行监测。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（3）对比不同环境下分别构建的3种机器学习模型性能，随机森林模型在干燥和湿润环境中表现均要优于支持向量机和BP神经网络模型，说明该模型在农业干旱监测研究中更具有可靠性。结合因子相对重要性排序，发现机器学习构建的模型更适合于半干旱和植被覆盖度高的区域",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References):",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]方秀琴,郭晓萌,袁玲,等.随机森林算法在全球干旱评估中的 应用[J].地球信息科学学报,2021,23(6):1040-1049.[Fang Xiuqin, Guo Xiaomeng,Yuan Ling,et al.Application of random forest algorithm in global drought assessment[J]. Journal of Geo-Information Science,2021,23(6): 1040-1049.]   \n[2]陈少丹,张利平,汤柔馨,等.基于SPEI和TVDI的河南省干旱 时空变化分析[J].农业工程学报,2017,33(24):126-132.[Chen Shaodan, Zhang Liping, Tang Rouxin,et al.Analysis on temporal and spatial variation of drought in Henan province based on SPEI and TVDI[J].Transactions of the Chinese Society of Agricultural Engineering,2017,33(24): 126-132.]   \n[3]Tian L Y, Yuan S S,Quiring S M. Evaluation of six indices for monitoring agricultural drought in the south-central United States [J].Agricultural and Forest Meteorology,2018,249:107-119.   \n[4]陶然,张珂.基于PDSI的1982—2015年我国气象干旱特征及 时空变化分析[J].水资源保护,2020,36(5):50-56.[Tao Ran, Zhang Ke.PDSI-based analysis of characteristics and spatiotemporal changes of meteorological drought in China from 1982 to 2015 [J]. Water Resources Protection,2020,36(5): 50-56.]   \n[5]Wu X,Wang P,Huo Z,et al. Crop Drought Identification Index for winter wheat based on evapotranspiration in the Huang-Huai-Hai Plain,China[J]. Agriculture Ecosystems & Environment,2018, 263:18-30.   \n[6]张钢,滕济端,张立杰,等.综合干旱指数在崇左市的适用性分 析与改进[J].人民珠江,2020,41(3):23-29.[Zhang Gang,Teng Jiduan,Zhang Lijie,et al.Feasibility analysis and improvement of comprehensive meteorological drought index in Chongzuo[J]. Pearl River,2020,41(3): 23-29.]   \n[7]王劲松,郭江勇,倾继祖.一种K干旱指数在西北地区春旱分析 中的应用[J].自然资源学报,2007,22(5):709-717.[Wang Jinsong,Guo Jiangyong，Qing Jizu.Application of a kind of K drought index in the spring drought analysis in Northwest China [J].Journal of Natural Resources,2007,22(5): 709-717.]   \n[8]林慧,王景才,黄金柏,等.基于SPI和 SPEI的淮河中上游流域 气象干旱时空分布特征对比研究[J].水资源与水工程学报, 2019,30(6): 59-67.[Lin Hui, Wang Jingcai, Huang Jinbai,et al. Comparative study on spatial and temporal distribution characteristics of meteorological drought in the upper and middle reaches of Huai river basin based on SPI and SPEI[J].Journal of Water Resources and Water Engineering,2019,30(6): 59-67.]   \n[9]张璐,朱仲元,席小康,等.基于SPEI的锡林河流域干旱演化特 征分析[J].干旱区研究,2020,37(4):819-829.[Zhang Lu,Zhu Zhongyuan,Xi Xiaokang,et al.Analysis of drought evolution in the Xilin River basin based on standardized precipitation evapotranspiration index[J].Arid Zone Research,2020,37(4): 819- 829.]   \n[10] 徐一丹,任传友,马熙达,等.基于SPI/SPEI指数的东北地区多 时间尺度干旱变化特征对比分析[J].干旱区研究,2017,34(6): 1250-1262.[Xu Yidan,Ren Chuanyou,Ma Xida,et al. Change of drought at multiple temporal scales based on SPI/SPEI in Northeast China[J]. Arid Zone Research,2017,34(6): 1250-1262.]   \n[11] 史晓亮,尚雨,陈冲,等.淮河流域植被 NDVI与干旱条件的相 关性[J].西安科技大学学报,2019,39(6):1033-1040,1064.[Shi Xiaoliang,Shang Yu,Chen Chong,etal. Correlation of vegetation NDVI and drought conditions in Huaihe river basin[J]. Journal of Xi'an Universityof Science and Technology,2019,39(6):1033- 1040, 1064.]   \n[12] 李维娇,王云鹏.基于VCI的 2003—2017年广东省干旱时空变 化特征分析[J].华南师范大学学报(自然科学版),2020,52(3): 85-91.[Li Weijiao,Wang Yunpeng.An Analysis of the spatialtemporal characteristics of drought in Guangdong based on vegetation condition index from 2OO3 to 2O17[J].Journal of South China Normal University (Natural Science Edition),2020,52(3):85- 91.]   \n[13] 张静,魏伟,庞素菲,等.基于FY-3C和TRMM数据的西北干旱 区干旱监测与评估[J].生态学杂志,2020,39(2):690-702 [Zhang Jing,Wei Wei,Pang Sufei,etal.Monitoring and assess ment of drought in arid area in Northwest China based on FY-3C and TRMM data[J].ChineseJournalofEcology,2020,39(2): 690 702.]   \n[14] 张红卫,陈怀亮,周官辉,等.归一化多波段干旱指数在农田干 旱监测中的应用[J].科技导报,2009,27(11):23-26.[Zhang Hongwei, Chen Huailiang,Zhou Guanhui,et al.Application of normalized multiband drought index method in cropland drought monitoring[J]. Science & Technology Review,2009,27(11): 23-26.]   \n[15] 谷佳贺,薛华柱,董国涛,等.归一化水体指数用于河南省干旱 监测适用性分析[J].干旱地区农业研究,2020,38(6):209-217. [Gu Jiahe, Xue Huazhu,Dong Guotao,et al.Applicability analysis of NDWI for drought monitoring in Henan Province[J].Agricultural Research in Arid Areas,2020,38(6): 209-217.] [16] 王立丽,张安兵.基于温度供水干旱指数的京津冀春旱监测及 时空分布分析[J].测绘与空间地理信息,2021,44(4):72-75. [Wang Lili, Zhang Anbing. Spring drought monitoring in BeijingTianjin-Hebei based on temperature water supply drought index [J].Geomatics & Spatial Information Technology,2021,44(4): 72-   \n75.] [17]吴志勇,程丹丹,何海,等.综合干旱指数研究进展[J].水资源保 护,2021,37(1): 36-45.[Wu Zhiyong,Cheng Dandan,He Hai,et al.Research progress of composite drought index[J]. Water Resources Protection,2021,37(1): 36-45.] [18] Zhang A Z,Jia G S. Monitoring meteorological drought in semiarid regions using multi-sensor microwave remote sensing data[J]. Remote Sensing of Environment,2013,134: 12-23. [19] 杜瑞麒,张智韬,巨娟丽,等.基于波文比和降水的综合干旱指 数的构建及应用[J].节水灌溉,2020,45(8):63-74.[Du Ruiqi, Zhang Zhitao,Ju Juanli,et al. Construction and application of comprehensive drought index based on Bowen ratio and precipitation [J].Water Saving Irrigation,2020,45(8): 63-74.] [20] 韩兰英,张强,赵红岩,等.甘肃省农业干旱灾害损失特征及其 对气候变暖的响应[J].中国沙漠,2016,36(3):767-776.[Han Lanying, Zhang Qiang, Zhao Hongyan, et al. The characteristics of agricultural drought disaster loss and response to climate warming in Gansu, China[J]. Journal of Desert Research,2016,36(3): 767-   \n776.] [21] Gupta S C,Larson W E.Estimating soil water retention characteristics from particle size distribution,organic mat-ter percent,and bulk density[J]. Water Resources Research,1979,15(6):1633-   \n1635. [22] 胡鹏飞,李净,王丹,等.基于MODIS和TRMM数据的黄土高原 农业干旱监测[J].干旱区地理,2019,42(1):172-179.[Hu Pengfei,Li Jing,Wang Dan,et al.Monitoring agricultural drought in the Loess Plateau using MODIS and TRMM data[J].Arid Land Geography,2019,42(1): 172-179.] [231杨苏 基干植被供水指数的锡林浩特市干旱测分析苜原 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "与草业,2021,33(3):42-45.[Yang Sha.Drought monitoring analysis in Xilinhot City based on vegetation water supply index[J]. Grassland and Prataculture,2021,33(3): 42-45.]   \n[24] 刘冀,张特,魏榕,等.基于随机森林偏差校正的农业干旱遥感 监测模型研究[J].农业机械学报,2020,51(7):170-177.[Liu Ji, Zhang Te,Wei Rong,et al.Development of agricultural drought monitoring model using remote sensing based on bias-correcting random forest[J]. Transactions of the Chinese Society of Agricultural Machinery,2020,51(7): 170-177.]   \n[25] 李晓辉,杨勇,杨洪伟.基于BP神经网络与灰色模型的干旱预 测方法研究[J].沈阳农业大学学报,2014,45(2):253-256.[Li Xiaohui, Yang Yong,Yang Hongwei. Combining BP neural network with gray model to achieve drought predicting[J]. Journal of Shenyang Agricultural University,2014,45(2): 253-256.]   \n[26] 赵国羊,涂新军,王天,等.基于人工神经网络和支持向量回归 机的干旱预测[J].人民珠江,2021,42(4):1-9.[Zhao Guoyang, Tu Xinjun,Wang Tian,et al.Drought prediction based on artificial neural network and support vector regression machine[J]. Pearl River,2021,42(4): 1-9.]   \n[27] 沈润平,郭佳,张婧娴,等.基于随机森林的遥感干旱监测模型 的构建[J].地球信息科学学报,2017,19(1):125-133.[Shen Runping,Guo Jia, Zhang Jingxian,et al. Construction of a drought monitoring model using the random forest based remote sensing[J]. Journal of Geo-Information Science,2017,19(1):125-133.]   \n[28] 董婷,任东,邵攀,等.基于多源遥感数据和随机森林的综合旱 情指标构建[J].农业机械学报,2019,50(8):200-212.[Dong Ting,Ren Dong,Shao Pan,et al.Construction of integrated drought condition index based on multi-sensor remote sensing and random forest[J].Transactions of the Chinese Society of Agricultural Machinery,2019,50(8): 200-212.]   \n[29]FengPY,Wang B,Liu D L,et al. Machine learning-based integration of remotely-sensed drought factors can improve the estimation of agricultural drought in South-Eastern Australia[J].Agricultural Systems,2019,173:303-316. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Comparative agricultural drought monitoring based on three machine learning methods ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "WANG Xiaoyan， LI Jing， XING Liting(College of Geographyand Environmental Science,Northwest Normal University,Lanzhou 73O07o,Gansu,China)",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Frequent droughts have caused serious harm to the economy and agricultural production of Gansu Province.Therefore,it is very important for the province to use advanced methods to establish accurate and reliable agricultural drought monitoring models.Three machine learning methods (random forest, BP neural network,support vector machine)are used to construct an agricultural drought monitoring model using remote sensing factors and meteorological factors.Analysis of the best model for agricultural drought monitoring in Gansu Province.At the same time,the applicability of the model constructed by machine learning in different environments was further explored.The results show that among the models constructed by the three machine learning methods,the RF model has a high coeficient of determination (0.86) and small errors (RMSE 0.40, MAE 0.31).The monitoring efect of agricultural drought is better than the model constructed by BP and SVM; The three machine learning method models constructed in the two environments,respectively,performed better in the wet environment,while the model constructed by the random forest method performed beter than the other two models in monitoring drought in the two environments.The research results provide a new scientific method for agricultural drought monitoring and evaluation in Gansu Province,and are of great significance to agricultural drought research. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Keywords: agricultural drought; machine learning; SPEI; MODIS ",
+        "page_idx": 10
+    }
+]

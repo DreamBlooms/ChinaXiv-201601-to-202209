@@ -1,0 +1,368 @@
+[
+    {
+        "type": "text",
+        "text": "Preparation of solid silver nanoparticles for inkjet printed flexible electronics with high conductivity† ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wenfeng Shen, Xianpeng Zhang, Qijin Huang, Qingsong Xu and Weijie Song\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Silver nanoparticles (NPs) which could be keptin solid form and were easily stored without degeneration or Oxidationat room temperature fora long period of time were synthesized bya simple and environmentally friendly wet chemistry method inan aqueous phase.Highly stable dispersions of aqueous silver NP inks, sintered at room temperature,for printing highly conductive tracks $( \\sim 8 . 0 ~ \\mu \\Omega \\ \\mathrm { c m } )$ were prepared simply bydispersing the synthesized silver NP powder in water.These inksare stable,fairly homogeneous and suitable fora wide range of patterning techniques.The inks were successfully printed on paper and polyethylene terephthalate (PET) substrates using a common color printer.Upon annealing at $1 8 0 ^ { \\circ } \\mathsf C ,$ the resistivity of the printed silver patterns decreased to ${ 3 . 7 ~ \\mu \\Omega }$ cm,which is close to twice that of bulk silver.Various factors affecting the resistivity of the printed silver patterns,such asannealing temperature andthe number of printing cycles,were investigated.The resulting high conductivityof the printed silver patterns reached over $20 \\%$ of the bulk silver value under ambient conditions,which enabled the fabricationofflexible electronicdevices,as demonstrated bythe inkjet printingof conductive circuits of LED devices. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In recent years,increasing attention has been devoted to inkjet printing technology because of its use in various applications such as photovoltaic cells,1,2 light-emitting diodes (LEDs), organic thin film transistors,4 displays, radio-frequency identification devices (RFIDs), smart clothing7 and sensors. For these applications,the unique merit of inkjet technology is that itprovides a digital， non-contact and maskless additive patterning process that can be used to deposit and pattern a verywide range of materials.’Other advantages of this technology include low cost,material savings and scalability to large-area manufacturing.1° These features make the inkjet printing technique particularly suitable for printing conductive tracks and patterns onto various flexible substrates in the fabrication of electronic circuits or devices. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "One of the most important components in inkjet printing flexible electronics is the conductive material.Several candidate conductive materials have been studied, such as conductive poly mers,1,12 carbon,13-15 graphene,16,17 organo-metallic compounds,18 metal precursors19,2o and metal NPs.21 In the case of conductive polymers,carbon and graphene, the conductivity (typically 10 to $1 0 ^ { 2 } \\mathrm { ~ S ~ c m } ^ { - 1 } )$ is 2-4 orders of magnitude lower than that of metal (typically ${ 1 0 } ^ { 4 }$ to $1 0 ^ { 5 } ~ \\mathrm { ~ S ~ } \\mathrm { ~ c m ^ { - 1 } }$ 0.22The use of organo-metallic compounds or metal precursors requires an additional heat treatment $\\left( > 2 5 0 ~ ^ { \\circ } \\mathbf { C } \\right)$ to reduce the precursors to metallic species, which is not appropriate for printing on flexible substrates. Considering these limitations,metal NP suspensions are considered the most promising candidate inkjet printing material. Currently,most metal NP conductive inks are based on silver NPs because bulk silver exhibits the lowest resistivity of all metallic elements.Inaddition, silveris less expensive than gold,and unlike in the case of copper, careful control of the oxygen content in the processing atmosphere is not required.23 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It has been reported that silver NPs can exhibit good conductivity when they are sintered at approximately $2 0 0 -$ $3 5 0 ~ ^ { \\circ } \\mathrm { C } . ^ { 2 4 - 2 7 }$ However, even these temperatures render silver NP inks incompatible with many plastic and paper substrates used in flexible electronics and biomedical devices.Moreover,most silver NPs are required to disperse in hazardous organic solvents such as toluene,xylene and alkane.Recently,silver NPs that are synthesized using other methods,including coating with poly(acrylic acid) $( \\mathrm { P A A } ) ^ { 2 8 - 3 1 }$ or preparation by the reactive inkjet printing approach,32,33 can be sintered at low temperature and that exhibit good conductivity have also been reported. However，the preparation process of silver NPs and inks reported in these previous studies is rather complicated,and the collection of silver NPs requires high-speed centrifugation, which is inconvenient for mass production.Furthermore,the silver NPs that have been reported for use as printed conductive materialswere almost required to be maintained inadispersion for all the time,which is also inconvenient for storage and transportation.In addition,almost all the reported silver NP inks require a professional printer which is extremely expensive (more than tens of thousands of dollars).Hence,there isa need to develop stable,fairly homogeneous,and low cost silver inks that not only possess high conductivity under ambient conditions but can also be prepared simply and stored conveniently. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study,we demonstrated a simple,environmentally friendly and cost-effective method for preparing highly stable PAA-coated silver NPs.The reaction was carried out in an aqueous medium solution,and the silverNPs could be collected easilybydrying without centrifugation.Furthermore,the silver NPs could be kept in a solid form without degeneration or oxidation over a long period.For printing silver conductive patterns,silver NP inks with different solid contents could be prepared simply and quickly by dispersing different quantities of silver NP powder in a certain amount of deionized water. When silver inks with an appropriate surface tension and viscosity,adjusted by adding ethylene glycol (EG),were injected into an ink cartridge,they could be printed directly onto flexible substrates bya common color inkjet printer,whichis low cost (less than three hundred dollars) and convenient in operation. Furthermore,we demonstrated that highly conductive patterns printed on paper and PET under ambient conditions provide an efficient method for the fabrication of flexible electronics. Finally,the printing technique was demonstrated by printing conductive LED circuit patterns. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experimental ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materials ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All reagents-silver nitrate $\\left( { \\tt A g N O } _ { 3 } \\right)$ ,monoethanolamine (MEA), poly(acrylic acid) (PAA, $M _ { \\mathrm { w } } = 3 0 0 0$ ),ethanol and ethylene glycol (EG) -were of analytical grade and were purchased from Sinopharm Chemical Co.,Ltd.Deionized water wasused inall of the experiments. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SynthesisofPAA-coated silverNPs ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The fully aqueous mono-phase system contained silver nitrate as the silver source,monoethanolamine (MEA) as the reducing reagent, PAA as the capping molecule and deionized water as the medium.The scheme for the direct synthesis of PAA-coated silver NPs from silver nitrate in the aqueous phase is shown in Fig.1.MEA $( 2 5 ~ \\mathrm { g } )$ ,PAA $\\left( 3 \\ \\mathrm { g } \\right)$ and ${ \\bf A g N O } _ { 3 }$ (17g) were sequentially dissolved in $6 0 ~ \\mathrm { m l }$ deionized water,under vigorous magnetic stirringat room temperature for $^ \\mathrm { ~ 1 ~ h ~ }$ until a yellowish and transparent solution was obtained (Fig.1a).Subsequently, the mixture was heated to $6 5 ~ ^ { \\circ } \\mathbf { C }$ with continuous stirring for $^ \\mathrm { ~ 1 ~ h ~ }$ .The color of the mixture was observed to vary in the following sequence: yellowish (Fig.1a),brown (Fig.1b),orange (Fig.1c) and dark red (Fig. 1d). The pH value of the resulting mixture was approximately 10.7.After completion of the reaction，the mixture was precipitated by the addition of $3 0 0 ~ \\mathrm { m l }$ ethanol. PAA-coated silver NPs,which are formed as black precipitates,were collected through a glass funnel filter and then washed several times with ethanol to remove residual MEA and PAA.The black precipitates were then dispersed in $1 0 ~ \\mathrm { m l }$ deionized water again (Fig.1e).After the mixture was dried at $7 5 ~ ^ { \\circ } \\mathbf { C }$ for $2 4 \\mathrm { ~ h ~ }$ ，solid PAA-coated silver NPs were obtained (Fig.1f).It is worth noting that the black precipitates are so sticky that good dispersivity solid silver NPs could not be obtained by directly drying the black precipitates. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Preparation of silverNP inks ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Silver NP inks with different solid contents were prepared simply by adding various amounts of silver NP powder to a mixture of deionized water $\\left( 8 \\ { \\mathfrak { g } } \\right)$ and ethylene glycol (2 g). Ethylene glycol was used to adjust the inks' viscosity and surface tension.Afterultrasonic treatment for $2 0 \\mathrm { m i n }$ ,brown and highly stable dispersions of silver NPs were obtained (Fig.1i).If the amount of silver NP powder used was more than approximately ${ \\textbf { 4 } } _ { \\mathbf { g } }$ ，the powder could not be dispersed well in the $_ { 1 0 \\mathrm { ~ g ~ } }$ mixture solution.Hence,only silver NP inks with a silver concentration of $5 { \\mathrm { - } } 2 5 \\ \\mathrm { w t \\% }$ were prepared and used for printing conductive patterns in this study.The $\\mathbf { w t \\% }$ was calculated by dividing the mass of the silver NP powder by the total weight of each ink;thus,this $\\mathrm { w t \\% }$ includes the masses of the capping agent and silver content. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/58c7cb05f0c6379c9ad1f78a4effcec62a434b568699b4c6321c9b34653d7509.jpg",
+        "img_caption": [
+            "Fig.1Preparation process of the PAA-coated silver NPsand aqueous silver inks. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Inkjet printing and heat treatment of silver patterns ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The inkjet printing technique used in this study is similar to the technique used in our previous work.34 Silver conductive thin films and lines were printed using a common color printer (Epson Stylus Photo R23o),whose print head has 6 rows of orifices,with eachrow featuring 9o orificesmeasuringapproximately $2 8 ~ { \\mu \\mathrm { m } }$ in diameter,as shown in Fig. $\\mathbf { S 1 \\dag }$ (ESI).The silver NP inks were printed on two different flexible substrates,photo paper (Kodak) and polyethylene terephthalate (PET).For the PET substrate, precoating with poly(diallyldimethylammonium) chloride (PDAC) was required to make the printed silver conductive patterns spontaneously sinter at room temperature.The Kodak photo paper did not require pretreatment because it already contained PDAC-like molecules.2 The effect of PDAC on the resistance and morphology of the printed silver patterns sintered at room temperature is illustrated in Fig. $^ { S 2 \\dagger }$ (ESI).If an ink was printed ona substrate more than once, the sample was allowed to dry in air for 5 min between printing cycles.After all printing was complete, the samples were kept inair at room temperature.After $2 4 \\mathrm { ~ h ~ }$ ，thesamples were heat-treated at different temperatures within the range of $5 0 { - } 1 8 0 \\ { ^ { \\circ } } \\mathbf { C }$ in a drying oven for $1 5 \\mathrm { m i n }$ .Lastly, printed silver patterns were obtained，and their structural morphology and electric properties were investigated. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Characterizations ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Structural characterization of the PAA-coated silver NP powder was carried out using X-ray diffraction (XRD) ona Bruker AXS D8 Advance diffractometer with $\\mathrm { C u } \\ \\mathrm { K } \\alpha$ radiation $( \\lambda = 0 . 1 5 4 2 \\ \\mathrm { n m }$ 一 Thermogravimetric analysis (TGA) of the PAA-coated silver NP powder was performed using a Perkin-Elmer Pyris Diamond TG/DTA in air with a heating rate of $1 0 \\mathrm { K } \\mathrm { m i n } ^ { - 1 }$ . The particle size distribution and morphology of the silver NPs in the aqueous phase were measured using a Zetasizer Nano ZS granulometer and a Tecnai F2o transmission electron microscope (TEM). The viscosity of the silverNP inkswas measured using a Brookfield Viscometer $\\mathrm { \\Delta D V - I I + P r o }$ with a $\\mathbf { U L } / \\mathbf { Y }$ adapter at $2 5 ~ ^ { \\circ } \\mathbf { C }$ .The surface tension of the inks was measured by the drop-weight method. The morphology and dimensions of the printed silver patterns were measured by optical microscopy and field emission scanning electron microscopy (FESEM) (Hitachi S-480o). The electrical resistivity of the silver patterns was detected using a 4-point probe system (Lucas-Signatone Pro4-4ooo) and calculated using the geometric dimensions of the patterns. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results and discussion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PropertiesofthePAA-coatedsilverNPpowder ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "After being held in air at room temperature for 3 months,the graypowder (Fig.1h) that was obtained by grinding bulk solid silver NPs using an agate mortar (Fig.1g) was investigated by XRD，SEM and TG/DTA.The XRD pattern of the sample is shown in Fig.2a.The three strongest peaks can be observed at $3 8 . 2 ^ { \\circ }$ ， $4 4 . 4 ^ { \\circ }$ and $6 4 . 5 ^ { \\circ }$ ,which wereattributed to thediffraction of the (111),(2oo) and (220) crystalline planes of the facecentered structure of silver,respectively,according to the Silver Joint Committee on Powder Diffraction Standards Database (file no. 04-0783). These XRD results demonstrate that the gray powder was composed of well-crystallized silver NPs and that the PAA-coated silver NPs did not undergo degeneration or oxidation after being held at room temperature for 3 months. Using the Scherrer formula, the grain size of the silver NPs was estimated to be approximately $3 0 \\ \\mathrm { n m }$ .Fig.2b shows that the powder was composed of many silver NP agglomerates measuring larger than $1 ~ { \\mu \\mathrm { m } }$ .These silver NP agglomerates could be easily dispersed in water because water is a good solvent for the PAA-coated silver NPs.The thermal analysis results obtained for the PAA-coated silver NPs are presented in Fig.2c.The sample shows a continuous weight loss from room temperature to $3 0 0 ~ ^ { \\circ } \\mathrm { C }$ ,witha cumulative weightloss of $0 . 7 \\%$ which is attributed to the desorption of the organic constituents from the surface of the silver NPs.There is a strong exothermic peakatapproximately $2 4 5 ~ ^ { \\circ } \\mathrm { C }$ ，which may be attributed to the decomposition of PAA.Furthermore,a strong endothermic peak appears at approximately $9 5 5 ~ ^ { \\circ } \\mathbf { C }$ ，corresponding to the melting of bulk silver.There is a cumulative loss of $0 . 1 \\%$ from $9 5 5 ~ ^ { \\circ } \\mathrm { C }$ to $1 0 0 0 ~ ^ { \\circ } \\mathbf { C }$ ,which maybe attributed to the temperature disturbance.These results demonstrate that the solid silver NP powder contained more than $9 9 . 2 \\mathrm { w t \\% }$ silver. One advantage of preparing the PAA-coated silverNPs in solid form is that the NPs could be easily stored for a long time at room temperature without degeneration or oxidation.Moreover, the NPs could be prepared as printing material,simply by redispersing the NP powderin water. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2cb2cecb4d593c42d8a4b6faead5f35dc85bcb0daa06a2ce715cdcac7a0d6fa3.jpg",
+        "img_caption": [
+            "Fig.2(a) XRD pattern,(b) SEM micrograph and (c) TG/DTA of silver NP powder. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.3and the inset thereof show the particle size distribution anda TEMimageof PAA-coated silverNPswhichwas obtained bydispersing the graypowder (Fig.1h) in water,respectively. The particle size distribution analysis shows that all of the agglomerated particle sizes of the silver NPs are in the range of $2 0 { - } 2 3 0 ~ \\mathrm { n m }$ and have anarrow size distribution withamean size ranging from 30 to $5 0 \\mathrm { n m }$ .The TEMimage of the sample shows that the silver NP powder could be well dispersed in water and demonstrates a particle size in the range of $1 0 { - } 1 0 0 ~ \\mathrm { n m }$ ,with the majorityof theparticles measuring less than $4 0 ~ \\mathrm { { n m } }$ .Thisresult isin good agreement with the result obtained from the XRD pattern.It should be noted that the mean size of the particles determined by TEM is less than that determined by particle distribution analysis (PDA).This discrepancy may be attributed to the fact that the TEM sample was treated byultrasonication for a longer processing time than the PDA sample. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SilverNP ink properties ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Inkjet printing involves the production of small drops of liquid and their deposition in precise locations on a substrate.During this process,the two most important physical properties of an ink that dominate the behavior of the jets and drops are surface tension $( \\gamma )$ and viscosity $( \\eta )$ .Fig.4 shows the change in the surface tension and viscosity of the ink developed in this study asa function of the silver NP content $\\scriptstyle { \\left( { \\mathrm { w t \\% } } \\right) }$ .Increasing the content of silver NPs resulted in an increase in the ink's viscosity and surface tension,and the relationship between the content and viscosity was observed to be nearly linear.The viscosity of the silver NP ink was increased from $2 . 5 1 \\mathrm { { m P a } \\mathrm { { s } } }$ to $4 . 0 3 \\mathrm { \\ m P a \\ s }$ as the silver content was increased from $5 \\mathrm { w t \\% }$ to $2 5 ~ \\mathrm { w t \\% }$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/de16f19fe2030df7adaabad0f229ba35088af4fdb6a08b43c00c572842bf46d4.jpg",
+        "img_caption": [
+            "Fig.3Particle size distribution of silver NP ink and TEMimage thereof (inset). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Inaddition to surface tensionand viscosity,there are several otherphysical parameters that affect the inkjet printability of non-Newtonian fluid, such as jet velocity (v),characteristic length ( $[ d ,$ typically the radius of the orifice) and density $( \\rho )$ There are three important dimensionless numbers that can be used to characterize the relative importance of these parameters: the Reynolds (Re)，Weber (We) and Ohnesorge (Oh) numbers:35,36 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { R e } = \\frac { \\nu \\rho d } { \\eta }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { W e } = { \\frac { \\nu ^ { 2 } \\rho d } { \\gamma } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { O h } = \\frac { \\sqrt { \\mathrm { W e } } } { \\mathrm { R e } } = \\frac { \\eta } { \\left( \\gamma \\rho d \\right) ^ { 1 / 2 } } = \\frac { 1 } { Z }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Reynolds and Weber numbers determine the spreading behavior of an ink. The inverse (Z) of the Ohnesorge number, which reflects only the physical properties of an ink and the size scale of the printer orifice but is independent of the driving conditions,determines the printability.The range over which inks can be printed is often quoted as $1 0 > Z > 1$ .If the value of $Z$ is too high $\\left( Z > 1 0 \\right)$ ,the jetwill forma large number of satellite droplets,whereas if it is too low $( Z < 1 )$ ，viscous forces will prevent the separation of a drop. The $Z$ values and other physical parameters of inks with different silver contents were calculated in this study,and the resultsare shown in Table1.All of the inks showedadecrease in thevalue of $Z$ from 9.94 to 7.00 with increasing silver content,demonstrating that inks with silver contents ranging from 5 to $2 5 \\mathrm { w t \\% }$ were printable because their $Z$ values fell within the range of 1-10. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d14bea8377ab91bd274c2ae950e8e03eceb576bf93b28012e674cedb73f26679.jpg",
+        "img_caption": [
+            "Fig.4Viscosity and surface tension of silver NP inks with different silver contents. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/37065516945c4ca61ae96aa216a3cd670e6d3b1471868856846776dc63cdca09.jpg",
+        "table_caption": [
+            "Table1Physical parameters of the inks with different silver contents (wt%) $( d = 1 4 ~ \\mu \\mathsf { m } )$ （204号 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>AgNP ink</td><td>Surface tension γ (mN m-1)</td><td>Density p (× 10³kg m-3)</td><td>Viscosity n (mPa s)</td><td>Z (1/0h)</td></tr><tr><td>5 wt%</td><td>42.16</td><td>1.056</td><td>2.51</td><td>9.94</td></tr><tr><td>10 wt%</td><td>43.37</td><td>1.074</td><td>2.86</td><td>8.93</td></tr><tr><td>15 wt%</td><td>45.29</td><td>1.123</td><td>3.32</td><td>8.04</td></tr><tr><td>20 wt%</td><td>45.69</td><td>1.158</td><td>3.62</td><td>7.52</td></tr><tr><td>25 wt%</td><td>46.65</td><td>1.218</td><td>4.03</td><td>7.00</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Morphology of silver patterns printed on photo paper ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Because the inkjet printing process is digital, itis trivial to print almost any 2D pattern within the resolution constraints of a printer (as shown in Fig. S3, $\\mathbf { E S I \\dagger }$ ).In this study,the patterns to be printed were designed simply in Microsoft Offce Word; thus, the width of the silver conductive tracks could be directly set by the Word software.The thickness of the tracks could be controlled by changing the silver content of the ink or the number of printing cycles.For simplicity,all printed conductive patterns were prepared by printing $2 0 ~ \\mathrm { w t \\% }$ silver ink so their thicknesses could be controlled simply by changing the number of printing cycles. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.5a shows an optical image of silver tracks with different line-widths. The tracks were prepared on photo paper by printing the silver NP ink 10 times to create line-widths ranging from O pt to 1.5 pt and then heating the patterns at $5 0 ~ ^ { \\circ } \\mathbf { C }$ for ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$1 5 \\ \\mathrm { \\ m i n }$ .Although the printed line-width was set to 1.0 pt $( = 3 5 1 ~ \\mu \\mathrm { m } )$ ,the actual width of the printed track was approximately $5 2 7 ~ { \\mu \\mathrm { m } }$ due to printer location error and the ink spreading on the photo paper,as shown in Fig. 5b.A crosssectional SEMimage of the printed silver track is presented in Fig.5c.The figure shows that the thickness of the silver track printed 10 times on the photo paper was approximately $5 3 0 \\mathrm { n m }$ The relationship between the thickness and the number of printing cycles is presented in Fig.5d.The printed patterns' thicknesses measured by SEM increased nonlinearly with the number of printing cycles.As shown in Fig.5c,the silver NPs coalesced throughout the entire thickness of the printed track, which could have led to a decrease in the resistance of the printed silver track,although the printed silver track was sinteredatonly $5 0 ~ ^ { \\circ } \\mathbf { C }$ for $1 5 \\ \\mathrm { m i n }$ .Moreover the average size of the silver NPs increased significantly (larger than $1 5 0 ~ \\mathrm { n m }$ ） ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The silver patterns that were prepared by printing the ink 14 times on photo paper and then dried at room temperature for $2 4 \\mathrm { ~ h ~ }$ were examined by SEM to determine the microstructural features after different heat curing treatments.Fig. 6a shows that the coalescence of silverNPs also occurred on the surface of the printed pattern after being dried at room temperature, although the silver NPs on the surface were not in contact with the photo paper substrate.The heat would be generated and transferred to other silver NPs when the silver NPs come into contact with the photo paper,which would result in the coalescence of top silver NPs.These results indicate that the silver patterns printed on photo paper could be metallized at room temperature.At $5 0 ~ ^ { \\circ } \\mathbf { C }$ ,there are only slight changes compared to those observed in the silver patterns heated at $2 5 { \\mathrm { ~ } } ^ { \\circ } \\mathbf { C } ,$ as shown in Fig.6b.At $8 0 ~ ^ { \\circ } \\mathbf { C }$ ，more silver NPs were melted and fused into large agglomerates.It is worth mentioning that the whole printed silver pattern remained continuous,although some cracks and voids were formed within the printed pattern (as shown in Fig. 6c).After heating at $1 4 0 ^ { \\circ } \\mathrm { C }$ ,most boundaries between silver NPs disappeared and the surface of the printed silverpattern became smoother and morecontinuous (asshowninFig.6d),which reduced the electrical resistivity to lower values. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b6bd76b63d3676e06bc62754132a011b98615fd18359908976e63a68f49c0637.jpg",
+        "img_caption": [
+            "Fig.5(a)Opticalimagefilertracsithdiferentline-widtsprintednphotpaper.(b)Opticalimagefprintedsiertrackswipt printing width.(c) Cross-section of the printed silver track formed after heat-curing at $5 0 ~ ^ { \\circ } \\mathsf { C } .$ (d) Thickness of the printed silver pattern as a function of the number of printing cycles. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/32543650ae1d771c4928f925c03a818427247b68b2e39cafdce06f65f630fa65.jpg",
+        "img_caption": [
+            "Fig.6(a) Top-view SEM images of printed silver patterns dried at room temperature for $2 4 \\mathsf { h }$ and then heated in an oven for 15 min at (b) $5 0 ^ { \\circ } \\mathsf C ,$ (c) $8 0 ~ ^ { \\circ } C$ and (d) $1 4 0 ^ { \\circ } \\mathsf C ,$ respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Electrical properties of silver patterns printed on photo paper ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The electrical properties of the silver patterns printed on photo paper after heat treatment as a function of temperature and the number of printing cycles are presented inFig.7.Generally, the resistivity decreased with eitherincreasing heating temperature or the number of printing cycles.The resistivity of the silver pattern printed twice showed the greatest fluctuation from $1 3 9 . 4 ~ { \\mu \\Omega }$ cm to $1 0 . 8 ~ { \\mu \\Omega }$ cm when the heating temperature was increased from room temperature to $1 8 0 ~ ^ { \\circ } \\mathbf { C } .$ 、As the number of printing cycles increased to 3，the fluctuation decreased dramatically in the range between $4 0 . 1 \\mu \\Omega$ cm and $7 . 7 \\mu \\Omega$ cm. As the number of printing cycles was increased further, the effect on the resistivity of the printed patterns was reduced.Considering the relationship between the number of printing cycles and resistivity,the most suitable number of printing cycles should be greater than 6 to obtain highly conductive patterns at alow sintering temperature.The resistivity of the silver pattern printed 14 times and sintered at room temperature was similar to the value of the pattern sintered at $5 0 ~ ^ { \\circ } \\mathbf { C } .$ .This result could be explained by the fact that no significant change in the morphologies of the patterns occurred in this temperature region,as mentioned above.Furthermore,the resistivity of the pattern decreased from $8 . 0 ~ { \\mu \\Omega }$ cm (sintered at room temperature） to $3 . 7 ~ \\mu \\Omega$ cm (sintered at $1 8 0 ~ ^ { \\circ } \\mathbf { C } ]$ ，indicating that approximately $2 0 \\%$ of the bulk silver conductivity value could be obtained using this technology with sintering at mild temperature.The ability to create such highly conductive patterns at mild temperature is of great importance for the printed electronics industry at large,and in particular for the printing of plastic and paper devices. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/881647ccbe6e4b60d59d8e9b4a6bb8e178a8565b522cd20e833059680a21d26f.jpg",
+        "img_caption": [
+            "Fig.7Electrical resistivities of patterns after heating at different temperaturesand after various printing times. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To evaluate the applicability of such PAA-coated silver NP inks in printing flexible electronics,LED connected circuits were printed on photo paper and PET substrates,as demonstrated in Fig.8a and b,respectively.The pattern of the silver conductive circuits was prepared by printing the silver NP ink 8 times and then heating the pattern ata temperature of $8 0 ~ ^ { \\circ } \\mathbf { C }$ for $1 5 { \\mathrm { ~ m i n } }$ . The fabricated LED device showed good flexibility,as demonstrated in Fig. $\\boldsymbol { \\mathrm { \\ S 4 \\dagger } }$ (ESI). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7915e25e9df97f4aa426121e4668303f6dede137203e65d4e05f4cddd9f2eb4e.jpg",
+        "img_caption": [
+            "Fig.8 Working LED device fabricated by inkjet printing silver conductive circuits on flexible substrates: (a) photo paper and (b) PET. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In summary，we developed a simple and effective transmetalation approach for the synthesis of PAA-coated silver NPs, which could be kept in solid form without degeneration or oxidation at room temperature fora long period of time.The whole reaction was carried out in an aqueous medium solution that is low cost and environmentally friendly.Furthermore,the silver NPs could be conveniently collected by drying without centrifugation，which is appropriate for low-cost and mass production.Aqueous silver NP inks with different silver contents were prepared simplybydispersing different amounts of silverNP solid powder in water.These inks were successfully printed on paper and PET substrates using a common color printer.The lowest electrical resistivity of the printed silver patterns sintered at room temperature was approximately $8 . 0 ~ \\mu \\Omega$ cm;such patterns can be utilized in various flexible electronic devices.The resistivityof the printed silverpatterns could be decreased to $3 . 7 ~ \\mu \\Omega$ cm by increasing the sintering temperature to $1 8 0 ~ ^ { \\circ } \\mathrm { C }$ ，Highly conductive LED device circuits wereprepared byinkjetprinting technologyand sintered atlow temperature $\\left( < 1 0 0 ~ ^ { \\circ } \\mathbf { C } \\right)$ to demonstrate the potential application of the proposed method in printing flexible electronics with the advantages of low cost，short processing time and high conductivity. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Engineer Yongyuan Zhang is thanked for designing the pattern of the LED device. This work has been supported by the National Natural Science Foundation of China (Grant no. 21205127),the Zhejiang Provincial Natural Science Foundation of China (Grant no.LY12E020o9) and the Ningbo Innovative Research TeamPr0gram (2009B21005,2011B82005). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "9 M. Singh,H.M.Haverinen,P.Dhagat and G.E.Jabbour,Adv. Mater.,2010,22,673-685.   \n10 Z. P. Yin,Y. A. Huang,N.B. Bu, X. M. Wang and Y.L. Xiong, Chin. Sci. Bull, 2010,55,3383-3407.   \n11 Z. T. Xiong and C.Q. Liu, Org. Electron.,2012,13,1532-1540.   \n12 H. Nakashima, M. J. Higgins, C. O'Connell, K. Torimitsu and G. G.Wallace,Langmuir,2012, 28,804-811.   \n13 S. Glatzel, Z. Schnepp and C. Giordano, Angew. Chem. Int. Ed.,2013,52,2355-2358.   \n14 W.R. Small and M.I.H.Panhuis,Small,2007,3,1500- 1503.   \n15 G. C. Pidcock and M.I.H. Panhuis,Adv. Funct. Mater., 2012, 22,4790-4800.   \n16 E.B. Secor，P.L. Prabhumirashi，K. Puntambekar, M. L. Geier and M. C. Hersam,J. Phys. Chem. Lett, 2013, 4, 1347-1351.   \n17 L. Huang, Y. Huang, J. J. Liang, X. J. Wan and Y. S. Chen, Nano Res.,2011,4, 675-684.   \n18 L. X. Mo,D. Z. Liu, W. Li,L. H. Li,L. C. Wang and X. Q. Zhou, Appl. Surf. Sci., 2011, 257,5746-5753.   \n19 S. B. Walker and J. A. Lewis,J. Am. Chem. Soc., 2012, 134, 1419-1421.   \n20 Q.J. Huang, W. F. Shen and W. J. Song,Appl. Surf. Sci., 2012, 258, 7384-7388.   \n21 N. S. Kim and K. N. Han,Future direction of direct writing, J. Appl.Phys.,2010,108,102801.   \n22 1. Jung, Y. H. Jo, 1. Kim and H. M. Lee,J. Electron. Mater., 2012,41, 115-121.   \n23 P.J. Smith,D.Y. Shin,J.E. Stringer,B.Derby and N.Reis, J. Mater. Sci.,2006,41, 4153-4158.   \n24 B. Y. Ahn, E. B. Duoss, M. J. Motala, X. Y. Guo, S. I. Park, Y.J. Xiong,J. Yoon，R. G. Nuzzo，J. A. Rogers and J.A.Lewis, Science,2009,323,1590-1593.   \n25 1 K.Shim,Y.1. Lee,K.J.Le andJ. Joung, Mater. Chem. Phys., 2008,110,316-321.   \n26 A. Kosmala, Q. Zhang, R. Wright and P. Kirby, Mater. Chem. Phys.,2012,132, 788-795.   \n27 A.L. Dearden,P.J. Smith,D.Y. Shin,N. Reis,B.Derby and P. O'Brien, Macromol. Rapid Commun.,2005, 26,315-318.   \n28 S. Magdassi, M. Grouchko,O. Berezin and A. Kamyshny,ACS Nano,2010,4,1943-1948.   \n29 J. Perelaer,R. Jani, M. Grouchko,A. Kamyshny, S.Magdassi and U.S.Schubert,Adv.Mater.,2012,24,3993-3998.   \n30 M.Layani， M. Grouchko,S. Shemesh and S. Magdassi, J. Mater. Chem.,2012,22,14349-14352.   \n31 M.Grouchko,A. Kamyshny, C.F.Mihailescu,D.F.Anghel and S. Magdassi,ACS Nano,2011,5,3354-3359.   \n32 P.J. Smith and A. Morrin,J. Mater. Chem.,2012,22,10965- 10970.   \n33 A. J.Lennon,A.W.Y.Ho-Baillie and S.R.Wenham, Sol. Energy Mater.Sol. Cells,2009,93,1865-1874.   \n34 W.F.Shen,Y. Zhao and C.B. Zhang,Thin Solid Films,2005, 483,382-387.   \n35J.E.Fromm,IBMJ.Res.Dev.,1984,28,322-333.   \n36 B.Derby,Annu. Rev.Mater.Res.,2010,40,395-414.   \n37 N.Reis and B.Derby,Materials Development for Direct Write Technologies, 2000,vol. 624, pp. 65-70. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Notes and references ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1 Y.Galagan，E.W.C.Coenen，S.Sabik，H.H.Gorter, M.Barink,S.C.Veenstra,J.M.Kroon,R.Andriessen and P.W.M.Blom,Sol.Energy Mater. Sol.Cells,2012,104,32-38.   \n2J.Kim,S.I.Na andH.K.Kim,Sol.Energy Mater. Sol.Cells, 2012,98,424-432.   \n3H.M.Haverinen,R.A. Myllyla and G.E. Jabbour,Appl.Phys. Lett.,2009,94,073108.   \n4S.Y.Cho,J.M.Ko,J.Lim,J.Y.Lee and C.Lee,J.Mater.Chem. C,2013,1,914-923.   \n5B.Yoon,D.Y.Ham,O.Yarimaga,H.An,C.W.Lee and J.M.Kim,Adv. Mater.,2011,23,5492-5497.   \n6 B.K.C. Kjellander，W. T. T. Smaal,K. Myny,J.Genoe, W.Dehaene，P.Heremans and G.H.Gelinck，Org. Electron.,2013,14,768-774.   \n7M.Park,J.Im,M.Shin,Y.Min,J.Park,H.Cho,S.Park, M. B. Shim, S. Jeon, D.Y. Chung, J. Bae, J. Park, U. Jeong andK.Kim,Nat.Nanotechnol.,2012,7,803-809.   \n8 T.R.Le，V.Lakafosis，Z.Y.Lin，C.P.Wong and M.M.Tentzeris,2012 IEEE 62nd Electronic Components and Technology Conference (ECTC),2012,pp.1003-1008. ",
+        "page_idx": 6
+    }
+]

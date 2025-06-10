@@ -1,0 +1,646 @@
+[
+    {
+        "type": "text",
+        "text": "Spatial and temporal change patterns of net primary productivity and its response to climate change in the Qinghai-Tibet Plateau of China from 2ooO to 2015 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GUO Bing1,2,3,4,5, ZANG Wenqian6, YANG Fei, HAN Baomin1\\*, CHEN Shuting1, LIU Yuel, YANG Xiaol,HE Tianli', CHEN $\\mathrm { X i ^ { 1 } }$ ,LIU Chunting], GONG Rui1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 School of Civil Architectural Engineering,Shandong University of Technology, Zibo 255oo0,China;   \n2 Key Laboratory of Geomatics and Digital Technology of Shandong Province, Qingdao 266590, China;   \n3 State KeyLaboratoryofResources andEnvironmental Information System,Instituteof Geographic Sciences and Natural Resources Research,Chinese Academy of Sciences,Beijing loo101,China;   \n4 State KeyLaboratoryofInformation Enginering in Surveying,Mapping and Remote Sensing, Wuhan University,Wuhan 430079, China;   \n5KeyLaboratoryofGeographic InformationScience(MnistryofEducation),East China NormalUnversity,Shanghai2241 China;   \n6 Institute of Remote Sensing and Digital Earth,Chinese Academy of Sciences,Beijing 100101, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The vegetation ecosystem of the Qinghai-Tibet Plateau in China,considered to be the \"natural laboratory\"of climate change in the world,has undergone profound changes under the stress of global change.Herein，we analyzed and discussed the spatial-temporal change patterns and the driving mechanisms of net primary productivity (NPP) in the Qinghai-Tibet Plateau from 2000 to 2015 based on the gravity center and correlation coeficient models. Subsequently, we quantitatively distinguished the relative effects of climate change (such as precipitation, temperature and evapotranspiration) and human activities (such as grazing and ecological construction) on the NPP changes using scenario analysis and Miami model based on the MOD17A3 and meteorological data. The average annual NPP in the QinghaiTibet Plateau showed a decreasing trend from the southeast to the northwest during 200o-2015.With respect to the inter-annual changes, the average annual NPP exhibited a fluctuating upward trend from 2000 to 2015, with a steep increase observed in 2005 and a high fluctuation observed from 2005 to 2015. In the Qinghai-Tibet Plateau, the regions with the increase in NPP (change rate higher than $10 \\%$ ）were mainly concentrated in the Three-River Source Region,the northern Hengduan Mountains,the middle and lower reaches of the Yarlung Zangbo River,and the eastern parts of the North Tibet Plateau, whereas the regions with the decrease in NPP (change rate lower than $- 1 0 \\%$ ）were mainly concentrated in the upper reaches of the Yarlung Zangbo River and the Ali Plateau. The gravity center of NPP in the Qinghai-Tibet Plateau has moved southwestward during 20-2015,indicating that the increment and growth rate of NPP in the southwestern part is greater than those of NPP in the northeastern part. Further,a significant correlation was observed between NPP and climate factors in the Qinghai-Tibet Plateau. The regions exhibiting a significant correlation between NPP and precipitation were mainly located in the central and eastern Qinghai-Tibet Plateau,and the regions exhibiting a significant correlation between NPP and temperature were mainly located in the southern and eastern Qinghai-Tibet Plateau.Furthermore,the relative effects of climate change and human activities on the NPP changes in the Qinghai-Tibet Plateau exhibited significant spatial differences in three types of zones,i.e.,the climate change-dominant zone, the human activity-dominant zone,and the climate change and human activity interaction zone.These research results can provide theoretical and methodological supports to reveal the driving mechanisms of the regional ecosystems to the global change in the Qinghai-Tibet Plateau. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: NPP; gravity center model; driving mechanisms; global change; human activities; Qinghai-Tibet Plateau ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Citation: GUO Bing,ZANG Wenqian,YANGFei,HANBaomin,CHENShuting,LIUYue,YANG Xiao,HETianli,CHENXi, LIU Chunting,GONGRui.2020.Spatialand temporal change patterns of net primary productivityand its response to climate change inthe Qinghai-Tibet Plateau of China from 200o to 2015.Journal of Arid Land,12(1):1-17. https://doi.0rg/10.1007/s40333-019-0070-1 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Net primary productivity (NPP) denotes the total amount of organic dry matter accumulated by green plants with respect to the unit time and area (Bhaskar, 200o; Rachhpal et al., 2O07; Jiao et al.，2018). NPP is the residual part of the total amount of organic matter produced by photosynthesis after the elimination of autotrophic respiration. As the core content of the carbon budget and climate change research, NPP serves as an important indicator to determine the ecosystem health and sustainable development level (Alexander et al., 2Oo07; Zhang et al., 2014; Leandro et al., 2O19). Therefore, analyzing and discussing the spatial-temporal change pattrns and the driving mechanisms of NPP in a regional vegetation ecosystem not only are of significance to understand the response of this ecosystem to climate change, but also can provide a scientific basis for ecological environment protection， plant yield estimation, resource exploitation, effective management of natural resources,and formulation of the corresponding social and economic development strategies (Sun et al., 2014). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Currently， NPP research is conducted abroad using climate models (such asthe BIOME-BioGeoChemical Cycle (BIOME-BGC） model， Carnegie-Ames-Stanford Approach (CASA） model and Global Production Eficiency (GLO-PEM) model） and remote sensing technology, whereas domestic scholars have utilized foreign empirical models (such as the BallBerry model and Boreal Ecosystem Productivity Simulator (BEPS） model) to comprehensively study the NPP in different spatial scale zones of China, such as northwest region, northeast region and southwest region (Mao et al.,2015; Guo et al.,2017; Han et al.,2018; Jiao et al.,2018; Xu et al.,2019; Zhu et al., 2019). Furthermore,the driving mechanisms on the response of NPP to climate change differ because of the differences in data sources， research areas and spatial-temporal scales (Chandrasekaran and Swamy, 2002； Travis et al.， 2015). NPP globally increased from 1980 to 20o0; however, the reasons varied in different regions (Li et al.,2018; Ji et al.,2019). Under the background of global change, climate in China has undergone significant changes,and the NPP of terrestrial vegetation exhibited an increasing trend (Chirici et al., 2007; Gao et al.,2018; Wang and Li, 2018;Wang et al., 2018). Climate change weakens the stress of hydrothermal conditions on vegetation growth. However, the response of vegetation NPP in China to climate change shows obvious regional differences (Guo et al., 2O17; Li et al., 2017; Wang et al.,2017; Wang et al., 2018; Fatemeh et al., 2019). Therefore, further studies are required to investigate the driving mechanisms of NPP under the stress of global change in different regions (Edward et al., 2013). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The unique geographical location, altitude,climate and geomorphological conditions of the Qinghai-Tibet Plateau in China result in various climatic and ecosystem types. As a special geographic unit, the Qinghai-Tibet Plateau exhibits an important role in regulating and indicating global change; it is considered to be the \"natural laboratory\" for studies of climate change in the world (Haberl et al.,2004; Huang et al.,2008; Sun et al., 2014; Wang et al.,2016). Although some previous studies have used conventional analysis methods (such as the correlation analysis model) to investigate the NPP change paterns in the Qinghai-Tibet Plateau, the relationships between NPP and climate factors and the relative effects of climate change and human activities on the NPP changes remain unclear (Sun et al., 2O14; Huang et al., 2018; Jeremy et al., 2018; Sunil et al.,2O19).Further, the \"gravity center\" concept, which indicates the point at which the force of gravity present on each part of an object exerts a resultant force, is derived from physics (Liu et al., 2011). However, in geography, the \"gravity center\" concept has been extensively applied to population, economy, food,land use,ecological environment, regional development and other fields (Liu et al., 2O11). The spatial variation of the gravity center can beter reflect the variation degree and trend of geographical phenomena. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Therefore, in this study,a gravity center model was introduced to analyze the spatial and temporal change patterns and the driving mechanisms of NPP in the Qinghai-Tibet Plateau from 2000 to 2O15 in combination with the conventional analysis methods.Furthermore,the relative effects of climate change and human activities on the NPP changes were also quantitatively distinguished. This study provides data and theoretical support to reveal the evolution patterns of the ecosystems in the Qinghai-Tibet Plateau and the response mechanisms of the ecosystems to global change. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2Study area and data sources ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Qinghai-Tibet Plateau extends from the Pamir Plateau and Karakorum Mountains in the west to the Hengduan Mountains in the east and from the Himalaya Mountains in the south to the Kunlun Mountains,Altun Mountains and Qilian Mountains in the north $( 2 6 ^ { \\circ } 0 0 ^ { \\prime } 1 2 ^ { \\prime \\prime } - 3 9 ^ { \\circ } 4 6 ^ { \\prime } 5 0 ^ { \\prime \\prime } \\mathrm { N } _ { \\cdot }$ $7 3 ^ { \\circ } 1 8 ^ { \\prime } 5 2 ^ { \\prime \\prime } { - } 1 0 4 ^ { \\circ } 4 6 ^ { \\prime } 5 9 ^ { \\prime \\prime } \\mathrm { E } \\rangle$ . The plateau exhibits a total area of approximately $2 . 5 { \\times } 1 0 ^ { 7 } \\ \\mathrm { k m } ^ { 2 }$ and an average altitude of $4 0 0 0 \\mathrm { ~ m ~ }$ or more and is referred to as \"the third pole\". The annual mean temperature is lower than $0 ^ { \\circ } \\mathrm { C }$ in the hinterland of the plateau; furthermore,the temperature decreases with increasing altitude and latitude. The mean annual precipitation decreases from $2 0 0 0 \\mathrm { m m }$ in the southeast to $5 0 ~ \\mathrm { m m }$ in the hinterland of the plateau (Sun et al., 2014). In summer, abundant precipitation can be observed in most regions of the southeastern plateau because of the influence of the monsoon and humid airflow from the southwest Indian Ocean. In winter, strong winds (lasting for up to $2 0 0 \\mathrm { d }$ in some places) and scarce precipitation can be observed because of the influence of the dry westerlies in the plateau. Further, complex and diverse vegetation landscape types, including forests, meadows, grassands and deserts,appear successively in the horizontal belt spectrum of the Qinghai-Tibet Plateau, and the climate gradually changes from the marine wet type in the southeast to the continental arid type in the hinterland of the plateau (Yang et al., 2015). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Data sources ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The NPP during 2000-2015 obtained from the MOD17A3 dataset is available at https://lpdaac.usgs.gov/. The spatial and temporal resolutions were $1 ~ \\mathrm { k m }$ and 1 a, respectively. The data (including the daily precipitation and mean daily temperature) of 229 meteorological stations in the Qinghai-Tibet Plateau and its surrounding areas,were obtained from the China Meteorological Data Network (http://data.cma.cn/). The MOD17A3 data were mosaicked and reprojected using the MODIS Projection Tool. Further, the annual mean temperature and annual precipitation were interpolated into grids with a spatial resolution of $1 ~ \\mathrm { k m } { \\times } 1$ km using the Cokriging method in ArcGIS 10.3. Considering the uneven spatial distributions of the metrological stations in the western Qinghai-Tibet Plateau,we constructed the interpolated stations for the entire Qinghai-Tibet Plateau based on the China Meteorological Forcing Dataset (http://westdc.westgis.ac.cn)，especially in the central and western regions. Locations of the meteorological and interpolated stations in the Qinghai-Tibet Plateau and its surrounding areas are shown in Figure 1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 Methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 Change trend analysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Linear regression analysis can be used to eliminate the influence of extreme climate in specific years to some extent (Tian et al.,2O19). Therefore,this study adopted linear regresson analysis to analyze the time series change trend ofNPP,which can be calculated as follows: ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/cacbd4da322ca7db58f605d587aa71475f0af72d0e18c3d11ba6c9c4efa32336.jpg",
+        "img_caption": [
+            "Fig.1Spatial distributions of the average annual NDVI(during 2Ooo-2015) in the Qinghai-Tibet Plateau and locations of the meteorological stationsand interpolated stations in the Qinghai-Tibet Plateau and the surrounding areas "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta _ { \\mathrm { s l o p e } } = \\frac { n \\times \\displaystyle { \\sum _ { i = 1 } ^ { n } i \\times \\mathrm { N P P } _ { i } } - \\sum _ { i = 1 } ^ { n } i \\sum _ { i = 1 } ^ { n } \\mathrm { N P P } _ { i } } { n \\times \\displaystyle { \\sum _ { i = 1 } ^ { n } i ^ { 2 } } - \\left( \\sum _ { i = 1 } ^ { n } i \\right) ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\theta _ { \\mathrm { s l o p e } }$ denotes the gradient of change trend for vegetation NPP; $n$ is the number of years or the whole study period (16 a); $i$ is a variable of time and can be given as $i { = } 1 , 2 , 3 , . . . , 1 6 $ and $\\mathrm { N P P } _ { i }$ is the NPP in the $i ^ { \\mathrm { t h } }$ year. The change rate of NPP can be given as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { N P P } } _ { \\mathrm { c r } } { = } \\frac { \\theta _ { \\mathrm { s l o p e } } } { \\mathrm { N P P } _ { \\mathrm { m e a n } } } { \\times } n { \\times } 1 0 0 \\% ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathrm { \\Delta N P P _ { c r } }$ refers to the change rate of NPP in percentage $( \\% )$ ： $\\mathrm { N P P _ { m e a n } }$ is the average annual NPP during the period 2000-2015;and $n$ is the number of years. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 Correlation analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Correlation analysis is mainly used to indicate the correlation degree and direction between variables (Huang et al.,2008; Liu et al.,2011; Li and Zhao,2013;Wang et al., 2016). In this study,we analyzed the correlation and significance level between NPP and climate factors (temperature and precipitation） using the Pearson's correlation coeficient based on pixels at confidence levels of O.05 and 0.O1.The correlation coefficient, partial correlation coefficient and complex correlation coeficient were calculated as Equations 3-5, respectively: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr _ { x , y } = { \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } ( x _ { i } - { \\overline { { x } } } ) ( y _ { i } - { \\overline { { y } } } ) } { \\sqrt { \\displaystyle \\sum _ { i = 1 } ^ { n } ( x _ { i } - { \\overline { { x } } } ) ^ { 2 } \\sum _ { i = 1 } ^ { n } ( y _ { i } - { \\overline { { y } } } ) ^ { 2 } } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr _ { x y _ { 1 } , y _ { 2 } } = \\frac { r _ { x , y _ { 1 } } - r _ { x , y _ { 2 } } r _ { y _ { 1 } , y _ { 2 } } } { \\sqrt { 1 - r _ { x , y _ { 2 } } ^ { 2 } } \\sqrt { 1 - r _ { y _ { 1 } , y _ { 2 } } ^ { 2 } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { x , y _ { 1 } y _ { 2 } } = \\sqrt { 1 - ( 1 - r _ { x , y _ { 1 } } ^ { 2 } ) ( 1 - r _ { x y _ { 2 } , y _ { 1 } } ^ { 2 } ) } \\mathrm { ~ , ~ }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $r _ { x , y }$ is the correlation coefficient of variables $i$ and $j$ $x _ { i }$ and $y _ { i }$ denote the values of variables $x$ and $y$ in the $i ^ { \\mathrm { t h } }$ year, respectively; and $\\mathbf { \\Pi } _ { x } ^ { - }$ and $\\mathit { \\Pi } _ { \\overline { { y } } } ^ { - }$ denote the average values of variables $i$ and $j _ { : }$ respectively. The value of $r$ ranges from $^ { - 1 }$ to 1.A value greater than O indicates a positive correlation between variables $i$ and $y$ ，while a value lower than O indicates a negative correlation. In Equations 4 and 5, $r _ { x y 1 , y 2 }$ refers to the partial correlation coefficient of $x$ and $y _ { 1 }$ after fixing $y _ { 2 }$ ：， $r _ { x , y 1 }$ refers to the correlation coefficient of variables $x$ and $y _ { 1 }$ ：， $r _ { x , y 2 }$ refers to the correlation coefficient of variables $x$ and $y _ { 2 }$ ， $r _ { y 1 , y 2 }$ refers to the correlation coefficient of variables $y _ { 1 }$ and $y _ { 2 }$ $R _ { x , y 1 y 2 }$ refers to the complex correlation coefficient of variables $x , y _ { 1 }$ and $y _ { 2 }$ ;and $r _ { x y 2 , y 1 }$ refers to the partial correlation coefficient of variables $x$ and $y _ { 2 }$ after fixing $y _ { 1 }$ .In addition, the $T$ test and $F$ test were used to analyze the significance of the partial correlation coefficient and complex correlation coefficient. The formula can be given as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle T = \\frac { r _ { x y _ { 1 } , y _ { 2 } } } { \\sqrt { 1 - r _ { x y _ { 1 } , y _ { 2 } } } } \\times \\sqrt { n - m - 1 } \\mathrm { , } } \\\\ { \\displaystyle F = \\frac { R _ { ~ x , y _ { 1 } y _ { 2 } } ^ { 2 } } { 1 - R _ { ~ x , y _ { 1 } y _ { 2 } } ^ { 2 } } \\times \\frac { n - m - 1 } { m } \\mathrm { , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $n$ denotes the number of samples and $m$ denotes the number of variables. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3 Gravity center model ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In a gravity center model, $z _ { i }$ is considered as the attribute value of the number $i$ plane space unit (grid) (Liu et al., 2011). When the Cartesian coordinate is set as $( x _ { i } , y _ { i } )$ ,the spatial mean of the region comprising three plane space units (grids) is defined as a Cartesian coordinate point $( \\overline { { x } } , \\overline { { y } } )$ （204号 and can be expressed as: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle - \\sum _ { x = 1 } ^ { n } z _ { i } x _ { i } } } \\\\ { { \\displaystyle \\sum _ { i = 1 } ^ { n } z _ { i } } } \\\\ { { \\displaystyle - \\sum _ { j = 1 } ^ { n } z _ { i } y _ { i } } } \\\\ { { \\displaystyle \\sum _ { i = 1 } ^ { n } z _ { i } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "With respect to this spatial phenomenon, an unbalanced distribution or \"deviation of the gravity center\" can be observed when the regional gravity center of a spatial phenomenon significantly differs from the geometric center. The deviation direction of the gravity center is toward the \"high-density\" area of the spatial phenomenon,and the deviation distance of the gravity center can be used to describe the degree of unbalanced distribution.Further, the mitigation trajectory of the gravity center in different periods can reflect the evolution process of the spatial phenomenon distribution. The formulas for obtaining the mitigation direction and mitigation distance of the gravity center are given as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta = \\arctan ( \\frac { y _ { t + m } - y _ { t } } { x _ { t + m } - x _ { t } } ) t + m ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { m } = \\sqrt { \\left( x _ { t + m } - x _ { t } \\right) ^ { 2 } + \\left( y _ { t + m } - y _ { t } \\right) ^ { 2 } } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\theta$ and $d _ { m }$ refer to the mitigation direction and mitigation distance of the gravity center, respectively; $y _ { t + m }$ and $y _ { t }$ refer to the latitude coordinates of the gravity center in time $t { + } m$ and time $t _ { : }$ ,respectively;and $x _ { t + m }$ and $x _ { t }$ refer to the longitude coordinates of the gravity center in time $t { + } m$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and time $t$ ,respectively. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4 Miami model ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this study, the Miami model was adopted to estimate the potential vegetation NPP. This model based on Liebig's minimum method was the first NPP estimation model and has been widely adopted at home and abroad.It includes a function of the annual mean temperature and annual precipitation (Mao et al., 2015). ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { N P P } _ { \\mathrm { c i m a t e } } = \\operatorname* { m i n } \\Bigg \\{ ( 1 + \\frac { 3 0 0 0 } { \\exp ( 1 . 3 1 5 - 0 . 1 1 9 T ) } ) , ( 3 0 0 0 [ 1 - \\exp ( - 0 . 0 0 0 6 6 4 P ) ] ) \\Bigg \\} ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathrm { N P P _ { c l i m a t e } }$ is the potential vegetation NPP; $T$ refers to the annual mean temperature ${ \\mathrm { ( } } ^ { \\circ } \\mathrm { C } { \\mathrm { ) } }$ and $P$ refers to the annual precipitation (mm). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.5Method for distinguishing the relative effects of climate change and human activities on the NPP changes ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Climate change and human activities are the main factors that affected the dynamic changes in vegetation NPP.According to the study of Mao et al. (2O15), the relative effects of climate change and human activities on the NPP changes could be quantitatively evaluated and distinguished. In this study,three types of NPP changes were identified and obtained.The first type (actual NPP $\\left( \\mathrm { N P P _ { a c t u a l } } \\right) ,$ ，derived from MOD17A3,was based on the combined effects of climate change and human activities; the second type (potential NPP $\\mathrm { ( N P P _ { c l i m a t e } ) } ,$ ，obtained from the Miami model,was based on the effects of climate change；and the third type (human activity-related NPP $\\left( \\mathrm { N P P _ { h u m a n } } \\right) _ { . } ^ { \\cdot }$ ） was the residual of the $\\mathrm { N P P _ { c l i m a t e } }$ and $\\mathrm { { N P P } _ { a c t u a l } }$ ，which can be mainly attributed to human activities such as grazing and ecological construction. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Further, we calculated the change trends of $\\mathrm { N P P _ { c l i m a t e } }$ and $\\mathrm { { N P P _ { h u m a n } } }$ （ $\\mathrm { K } _ { \\mathrm { c } }$ and $\\mathrm { K _ { h } }$ ,respectively）to assess and distinguish the relative efects of climate change and human activities on the NPP changes.When $\\mathrm { K _ { c } }$ is positive,climate change is conducive to vegetation restoration.In contrast, climate change exacerbates vegetation degradation when $\\mathrm { K _ { c } }$ is negative. Human activities exacerbate vegetation degradation when $\\mathtt { K } _ { \\mathtt { h } }$ is positive,whereas human activities are conducive to vegetation restoration when $\\mathrm { K _ { h } }$ is negative. The change trend of $\\mathrm { { N P P } _ { a c t u a l } }$ （ $\\left( \\mathrm { K } _ { \\mathrm { a } } \\right)$ could indicate either vegetation restoration or degradation. When $\\mathrm { K _ { a } }$ is positive,the vegetation is observed to undergo restoration, whereas the vegetation is observed to undergo a degradation process when $\\mathrm { K _ { a } }$ is negative.As shown in Table 1，six possible scenarios for the NPP changes have been defined (Sun et al., 2014; Wang et al.,2018). ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/59c074f7ad415dbf2af49dd9d967f0008a663f59e8dd9e555629b385c660fb87.jpg",
+        "table_caption": [
+            "Table 1 Relative effects of climate change and human activities on the NPP changes "
+        ],
+        "table_footnote": [
+            "Note: $\\mathrm { K _ { a } }$ refers to the change trend of actual NPP $\\mathrm { ( N P P _ { a c t u a l } ) }$ ; and $\\mathrm { K _ { c } }$ and $\\mathrm { K _ { h } }$ refer to the change trends of potential NPP $\\mathrm { N P P _ { c l i m a t e } ) }$ and human activity-related NPP $\\mathrm { \\cdot N P P _ { h u m a n } } )$ ,respectively. "
+        ],
+        "table_body": "<html><body><table><tr><td>Change trend of NPP</td><td>Scenario</td><td>K</td><td>Kh</td><td>Relative effects of climate change (%)</td><td>Relative effects of human activities (%)</td></tr><tr><td rowspan=\"3\">K>0 (vegetation restoration)</td><td>Scenario 1</td><td>>0</td><td>>0</td><td>100</td><td>0</td></tr><tr><td>Scenario 2</td><td><0</td><td><0</td><td>0</td><td>100</td></tr><tr><td>Scenario 3</td><td>>0</td><td><0</td><td>Combined effects</td><td>Combined effects</td></tr><tr><td rowspan=\"3\">Ka<0 (vegetation degradation)</td><td>Scenario 4</td><td>>0</td><td>>0</td><td>0</td><td>100</td></tr><tr><td>Scenario 5</td><td><0</td><td><0</td><td>100</td><td>0</td></tr><tr><td>Scenario 6</td><td><0</td><td>>0</td><td>Combined effects</td><td>Combined effects</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1Spatial variation characteristics of NPP ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1.1Spatial distribution patterns of average annual NPP during 2Oo0-2015 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 denotes that the spatial distribution of average annual NPP significantly differed in the Qinghai-Tibet Plateau during 2Ooo-2015. Generally, a decreasing trend can be observed from the southeast to the northwest; this was related to the spatial and temporal distributions of the regional hydrothermal and climate conditions. During the study period, the average annual NPP in the Qinghai-Tibet Plateau was $1 6 7 . 5 2 \\mathrm { g } \\mathrm { C } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { a } )$ .Further, the average annual NPP for majority of the study area,such as the North Tibet Plateau,the middle and upper reaches of the Yarlung Zangbo River,and the Ali Plateau，was lower than $4 0 0 . 0 0 \\mathrm { ~ g ~ C / ( m } ^ { 2 } { \\cdot } \\mathrm { a } )$ ，A high-value zone of average annual NPP can be observed in the southeastern part of the Qinghai-Tibet Plateau. The regions exhibiting an average annual NPP of greater than $6 0 0 . 0 0 \\textrm { g } \\textrm { C } / ( \\mathbf { m } ^ { 2 } \\mathbf { \\cdot } \\mathbf { a } )$ were mainly distributed in the southern part of the Hengduan Mountains. The regions with an average annual NPP of $2 0 0 . 0 0 { - } 4 0 0 . 0 0 \\ \\mathrm { ~ g ~ C / ( m ^ { 2 } { \\cdot } a ) }$ were mainly distributed in the West Sichuan Plateau. A decreasing trend for the average annual NPP was observed from the south to the north and from the west to the east in the Hengduan Mountains. The regions exhibiting high average annual NPP values in the Hengduan Mountains were mainly concentrated in the southern part, which can be attributed to the vegetation type, topography and climate in this region. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b67f2e30b97a1c40bb7a062f42b3e94c5723e2c2a47cc59377e9ed9a20a820f.jpg",
+        "img_caption": [
+            "Fig.2Spatial distributions of average annual NPP (net primary productivity） in the Qinghai-Tibet Plateau during 2000-2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1.2Spatial change patterns of average annual NPP ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The change rate of NPP in the Qinghai-Tibet Plateau from 2000 to 2015 was analyzed. During the study period, the regions exhibiting the change rate of NPP in the range of $10 \\% { - } 3 0 \\%$ in the Qinghai-Tibet Plateau were the largest, accounting for $45 . 5 5 \\%$ of the whole study area, followed by the regions exhibiting the change rate of NPP in the range from $- 1 0 \\%$ to $10 \\%$ , accounting for $3 3 . 3 9 \\%$ (Fig. 3). The regions with the change rate of NPP lower than $- 3 0 \\%$ were the smallest, only accounting for $0 . 9 1 \\%$ . These results denote an increasing trend with respect to the inter-annual changes of NPP in the Qinghai-Tibet Plateau from 200O to 2015, indicated by the stable ( $- 1 0 \\% <$ change rate of $N P { \\mathrm { e } } { \\mathrm { < } } 1 0 \\%$ ） and increasing (change rate of $N P \\mathrm { P > } 1 0 \\%$ ）regions, accounting for $9 4 . 2 0 \\%$ of the total study area. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 shows that the stable regions with the change rate of NPP in the range from $- 1 0 \\%$ to $10 \\%$ were mainly distributed in the eastern and southern parts of the Qinghai-Tibet Plateau, including the northern Hengduan Mountains and the southern Ali Plateau. The regions exhibiting the change rate of NPP greater than $30 \\%$ were mainly distributed in the eastern part of the North Tibet Plateau, the lower reaches of the Yarlung Zangbo River and the middle of the Hengduan Mountains. The regions exhibiting the change rate of NPP in the range of $10 \\% { - } 3 0 \\%$ were the most widely distributed and mainly concentrated in the Three-River Source Region, the northern Hengduan Mountains, the middle and lower reaches of the Yarlung Zangbo River,and the middle and eastern parts of the North Tibet Plateau. The regions with NPP reduction (change rate of NPP lower than $- 1 0 \\%$ ）were mainly distributed in the upper reaches of the Yarlung Zangbo River and the Ali Plateau. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/906f15406dd8ae9de655182a7277d3a98497b548538a995acbfcd70593557052.jpg",
+        "img_caption": [
+            "Fig.3Area percentages of regions with diferent grades in the change rate of NPP in the Qinghai-Tibet Plateau during 2000-2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/282bcbdae3539aad4820d7528a18361a750b65b222bc15c868ece4b0336316ab.jpg",
+        "img_caption": [
+            "Fig.4Spatial distributions of regions with different grades in the change rate of NPP in the Qinghai-Tibet Plateau during 2000-2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The gravity center could effectively denote the imbalance and bias of NPP changes with respect to the spatial distribution. In this study, the gravity centers of NPP for each year and average NPP of the total study period (16 a) were calculated (Fig. 5). It can be seen that the gravity centers of NPP were mainly concentrated in the southeastern part of the Qinghai-Tibet Plateau. This indicated that the total NPP in the southeastern part of the Qinghai-Tibet Plateau was larger when compared with that in the northwestern part. This result was consistent with the conclusion obtained from Figure 2 that the average annual NPP decreased from the southeast to the northwest in the Qinghai-Tibet Plateau. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In this study, we established the polar coordinate system by adopting the mean NPP gravity center (during 2Ooo-2015） in the study area as the origin (representing the average state） and using the migration distance and migration angle of the NPP gravity center to the origin as the polar radius and polar angle, respectively, to further analyze the spatial distribution patterns of the gravity centers for NPP in the Qinghai-Tibet Plateau. The number of the NPP gravity centers in different quadrants of the coordinate system and its percentage were estimated.The results shown in Figure 6 denoted that $3 7 . 5 0 \\%$ of the NPP gravity centers were located in the southwest quadrant, which were followed by those in the northeast quadrant with a proportion of $2 5 . 0 0 \\%$ This indicated that the increment and growth rate of NPP in the southwestern and northeastern parts of the Qinghai-Tibet Plateau were relatively large during the study period. In addition, the sum of the gravity center number in the two aforementioned quadrants accounted for $6 2 . 5 0 \\%$ of the total gravity center number. Further, the proportions of the NPP gravity centers in the northwest and southeast quadrants were relatively small at $1 8 . 7 5 \\%$ . Thus,we divided the study area into two parts based on the coordinate axis. The gravity center number of NPP in the northern half quadrant $( 4 3 . 7 5 \\% )$ was slightly smaller than that in the southern half quadrant $( 5 6 . 2 5 \\% )$ . This indicated that the increment and growth rate of NPP in the southern part of the Qinghai-Tibet Plateau were larger than those in the northern part during 2Ooo-2O15.Meanwhile, the gravity centers of NPP had larger migration distances when compared with the origin in 2002, 2003,2005 and 2014,which indicated a significant increment of NPP in the northeastern and southwestern parts of the Qinghai-Tibet Plateau. In 2006,2007 and 2008,the mitigation distances of the gravity center of NPP were smaller, implying that the changes in NPP in each parts of the Qinghai-Tibet Plateau were relatively consistent in these three years. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/f907961b3e4e55029049235afe9499a51986696505a240d06203e885f760ea2e.jpg",
+        "img_caption": [
+            "Fig.5Distributions of the gravity centers of NPP in the Qinghai-Tibet Plateau during 2000-2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Further, we analyzed the migration directions of the NPP gravity center at different temporal scales during 2O00-2015 to explore the spatial variations of the gravity center of NPP in the Qinghai-Tibet Plateau. Considering the influences of extreme climate and other factors on the annual change in vegetation NPP, we adopted three temporal scales (3,5 and 16 a) to analyze the migration directions of the gravity center of NPP in the Qinghai-Tibet Plateau. Figure 7 denotes that the gravity center of NPP moved eastward from 2000-2002 to 2003-2005,indicating that the increment and growth rate of NPP in the eastern part of the study area were higher than those in the western part. The gravity center of NPP during 2006-2008 moved toward the southwest direction when compared with that during 2003-2005,indicating that the growth rate of NPP in the southwestern part was greater than that in the northeastern part. Further, when compared with the gravity center of NPP during 2006-2008,the gravity centers during 2009-201l and 2012- 2015 moved westward, suggesting that the increment of NPP in the western part of the QinghaiTibet Plateau was larger than that in the eastern part during 2009-2O15. On a 5-a temporal scale, the gravity center of NPP in the Qinghai-Tibet Plateau initially moved to the southeast direction from 2000-2004 to 2005-2009 and subsequently moved to the west direction from 2005-2009 to ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2010-2015. Thus, in the Qinghai-Tibet Plateau, the increments of NPP in the southeastern part during 2005-2009 and in the western part during 2010-2015 were greater than those in the northwestern part during 2000-2004 and in the eastern part during 2005-2009,respectively. Generally, during the period 2000-2015,the gravity center of NPP in the Qinghai-Tibet Plateau moved southwestward, indicating that the increment and growth rate of NPP in the southwestern part were larger than those in the northeastern part. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/8809841fa99ebb0a32f8167b2cd5d8258981e83c27972d3023e905a86c27006c.jpg",
+        "img_caption": [
+            "Fig.6Polar coordinates of the gravity centers of NPP in the Qinghai-Tibet Plateau during 2Oo-2015.The green dots indicate the gravity centers. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/dd19326eb4010ab1de63a6cc917af164f8c2eb8f6a87e0711950c322bd2fdde5.jpg",
+        "img_caption": [
+            "Fig.7Migration trajectoryof the gravitycenters of NPP in the Qinghai-Tibet Plateau during 2Oo0-2015at different temporal scales (3-,5-and 16-a temporal scales) "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.2 Inter-annual variations of average annual NPP ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "From 2000 to 2O15, the average annual NPP in the Qinghai-Tibet Plateau showed an increasing trend with a slight fluctuation (Fig. 8). The fluctuation range was $0 . 0 0 { - } 3 2 . 8 8 \\ \\mathrm { g } \\ \\mathrm { C } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { a } )$ During the study period, the maximum NPP value was $1 8 2 . 9 5 \\ \\mathrm { g } \\ \\mathrm { C } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { a } )$ in 2013, followed by $1 8 0 . 8 8 \\mathrm { ~ g ~ }$ $\\mathbf { C } / ( \\mathbf { m } ^ { 2 } { \\cdot } \\mathbf { a } )$ in 2006,whereas the minimum value was $1 5 0 . 0 7 \\ \\mathrm { g } \\ \\mathrm { C } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { a } )$ in 2000.Before 2005, the average annual NPP in the Qinghai-Tibet Plateau was less than $1 6 0 . 0 0 \\textrm { g } \\textrm { C } / ( \\mathbf { m } ^ { 2 } \\mathbf { \\cdot } \\mathbf { a } )$ and the increase trend was minimal. After 2Oo5, however, the average annual NPP increased significantly, with the mean value of $1 7 0 . 0 0 \\mathrm { g } \\mathrm { C } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { a } )$ .In 2006 and 2O13, the average annual NPP values were 180.88 and $1 8 2 . 9 5 \\mathrm { ~ g ~ C ~ } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { a } ) .$ ,respectively. This increasing trend of average annual NPP mainly resulted from the implementation of the ecological projects of \"returning farmland to grassland\" and \"returning grazing land to grassland\". ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d8c86a81a8927453e0cec6b272caf01fcfa72fbb09e1aedb382b357ce0074ef.jpg",
+        "img_caption": [
+            "Fig.8Inter-annual variations of average annual NPP in the Qinghai-Tibet Plateau during 2000-2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.3 Correlation analyses of NPP with precipitation and temperature ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.3.1 Changes of climate factors during 2ooo-2015 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure 9, the annual precipitation of the Qinghai-Tibet Plateau during 2000-2015 ranged from 379.36 to $5 4 1 . 1 0 ~ \\mathrm { m m }$ . In addition, the average annual precipitation was $4 9 0 . 6 5 ~ \\mathrm { m m }$ during the study period, with the maximum value observed in 201O and the minimum value in 2007.During the study period, a slight decrease was observed in the annual precipitation in the Qinghai-Tibet Plateau; further, the average annual precipitation decreased from the southeast to the northwest with respect to the spatial distribution. During 2000-2015,the annual mean temperature significantly increased in the Qinghai-Tibet Plateau, ranging from $0 . 6 7 ^ { \\circ } \\mathrm { C }$ (2002) to $2 . 9 8 ^ { \\circ } \\mathrm { C }$ (2007). Meanwhile, the mean annual temperature during the study period was $1 . 4 8 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/a14787954d20af30c386d2ecddc88c0f63f34c2d5c59e94b3935c0efeddd2199.jpg",
+        "img_caption": [
+            "Fig.9Inter-annual variations of(a) annual precipitation and (b) annual mean temperature in the Qinghai-Tibet Plateau during 2000-2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.3.2 Correlation analyses of NPP with precipitation and temperature ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Because the influences of precipitation and temperature on the NPP are often intersectional and dependent, the partial correlation coefficient and complex correlation coefficient between NPP and precipitation and between NPP and temperature in the Qinghai-Tibet Plateau during 2000- 2015 were calculated pixel by pixel (Fig. 10). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure 1Oa， the partial correlation coefficient between NPP and annual precipitation ranged from $- 0 . 8 6$ to O.91. The regions exhibiting positive partial correlation coefficients between NPP and annual precipitation accounted for $5 4 . 5 7 \\%$ of the total study area and were mainly distributed in the central and northeastern of the Qinghai-Tibet Plateau. In contrast, the regions with negative partial correlation coefficients between NPP and annual precipitation were mainly concentrated in the southern part of the North Tibet Plateau, the upper reaches of the Yarlung Zangbo River Basin and the Ali Plateau. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/42ced5344aa69706acf876b5d204a60d296c4221941d81b544ff2efd4e6c8355.jpg",
+        "img_caption": [
+            "Fig.10Partial correlation coeffcient,multiple correlation coeficient and significant test results of NPP with precipitation and temperature in the Qinghai-Tibet Plateau. (a),partial correlation coeficients between NPP and precipitation;(b),significance of $T$ test for the partial correlation coefficients between NPP and precipitation; (c), partial correlation coeficients between NPP and temperature; (d),significance of $T$ test for the partial correlation coefficients between NPPand temperature; (e),complex correlation coefficients between NPP and climate factors (precipitation and temperature); (f),significance of $F$ test for the complex correlation coefficients between NPP and climate factors.Coeff.,correlation coeficient. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure 1Oc, the regions with positive partial correlation coefficients between NPP and temperature accounted for $4 7 . 1 3 \\%$ of the total study area and were mainly distributed in the eastern and southern parts of the Qinghai-Tibet Plateau. Meanwhile,the regions with negative partial correlation coeficients accounted for $5 2 . 8 7 \\%$ of the total study area and were mainly distributed in the western part of the Three-River Source Region, the upper reaches of the Yarlung Zangbo River Basin, the southern part of the Hengduan Mountains and its surrounding areas. In addition, the significances of partial correlation coefficients between NPP and precipitation and between NPP and temperature were evaluated using the $T$ tests. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The results shown in Figures.1Ob and d revealed that for the partial correlation coefficients between NPP and precipitation, $1 5 . 8 3 \\%$ of the total study area passed the $T$ test at $P { < } 0 . 0 5$ level, whereas $5 . 3 4 \\%$ of the whole area passed the $T$ test at $P { < } 0 . 0 1$ level. Thus, the regions exhibiting the extremely significant correlation between NPP and precipitation were mainly distributed in the western and eastern parts of the Three-River Source Region. For the partial correlation coefficients between NPP and temperature, approximately $12 . 6 5 \\%$ of the total study area passed the $T$ test at $P { < } 0 . 0 5$ level, whereas $6 . 1 3 \\%$ of the total area passed the $T$ test at $P { < } 0 . 0 1$ level. The regions with the extremely significant correlation between NPP and temperature were mainly distributed in the lower reaches of the Yarlung Zangbo River Basin. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "As depicted in Figure 1Oe, with respect to the complex correlation coefficients between NPP and climate factors (precipitation and temperature), the coefficient values ranged from O.0o to 0.94. In the significance of $F$ test for the complex correlation coefficients between NPP and climate factors (Fig.10f)，approximately $1 6 . 3 2 \\%$ of the total area passed the $F$ test at $P { < } 0 . 0 5$ level, whereas $5 . 8 9 \\%$ of the whole study area passed the $F$ test at $P { < } 0 . 0 1$ level. Therefore,the regions exhibiting extremely significant complex correlations between NPP and climate factors were mainly distributed in the middle and western parts of the Three-River Source Region, the upper and lower reaches of the Yarlung Zangbo River Basin,and the West Sichuan Plateau. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.4 Effects of climate change and human activities on the NPP changes ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure 11, the regions with vegetation restoration (increase of NPP) accounted for $8 4 . 5 4 \\%$ of the Qinghai-Tibet Plateau during 2OoO-2O15,whereas the regions with vegetation degradation (decrease of NPP） occupied $1 5 . 4 6 \\%$ of the whole study area. The regions with vegetation restoration caused by climate change accounted for $4 6 . 0 1 \\%$ of the total study area and were mainly distributed in the western and central parts of the North Tibet Plateau and the Three-River Source Region. The regions with vegetation restoration caused by human activities accounted for $3 4 . 3 3 \\%$ of the total study area and were mainly concentrated in the middle and lower reaches of the Yarlung Zangbo River Basin and the Hengduan Mountains. Furthermore, the combined effects of climate change and human activities resulted in a small area of vegetation restoration $( 3 . 8 1 \\%$ of the study area),which was mainly distributed in the southern part of the Three-River Source Region. Meanwhile, the regions with vegetation degradation caused by climate change accounted for $5 . 0 5 \\%$ of the total study area and were discontinuously distributed in the upper reaches of the Yarlung Zangbo River Basin and the northern part of the Hengduan Mountains. The regions with vegetation degradation caused by human activities accounted for $1 0 . 2 0 \\%$ of the study area and were mainly concentrated in the Ali Plateau. Moreover, the regions with vegetation degradation that can be atributed to climate change and human activities were mainly distributed in the northern margin of the Yarlung Zangbo River Basin. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Thus,as shown in Figure 11, climate change was considered to be the dominant influencing factor in the Al and A2 regions (climate change-dominant zone),the interaction zone (B） was considerably influenced by the combined effects of climate change and human activities,and the C1 and C2 regions (human activity-dominant zone) were dominated by human activities. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5 Discussion ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5.1Spatial and temporal distribution patterns of NPP ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The spatial distribution of NPP in the Qinghai-Tibet Plateau showed a decreasing trend from the southeast to the northwest during 20oo-2O15,which was mainly influenced by the spatial distribution patterns of precipitation and temperature.Because of the Pacific Monsoon， the Hengduan Mountains in the southeastern part of the Qinghai-Tibet Plateau exhibit abundant precipitation, diverse vegetation types,broad-leaved forests,coniferous forests and shrubs,and high vegetation NPP. The lower reaches of the Yarlung Zangbo River are afected by the warm and wet airflow in the Indian Ocean. The forest cover is high and the NPP is high in rainforests, monsoon forests and broad-leaved forests.The NPP in most areas of the northern Tibet Plateau is relatively low because of the high altitude, low temperature,low precipitation and numerous vegetation types, such as grasslands, alpine meadows and sparse shrubs (Sun et al., 2014). Deserts and desert grasslands with the lowest NPP are widespread in the Ali Plateau because of the scarcity of annual precipitation and low temperature. During 2Ooo-2O04, the average annual NPP in the Qinghai-Tibet Plateau has shown an upward trend. After 2O04, the average annual NPP has shown a steep increase. This increase can be attributed to the fact that the forest lands and grasslands have been considerably restored after the implementation of the projects of \"returning farmland to grassland\" and \"returning grazing land to grassland\". The average annual NPP in the Qinghai-Tibet Plateau presented a sharp increase in 20o5, with high fluctuations observed during 2005-2015. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/a58f8431af56d224049216db6c44d9302764e07cfa94e2b34e5f16528025a116.jpg",
+        "img_caption": [
+            "Fig.l1Distinction of the relative effects of climate change and human activities on the NPP changes (increase or decrease).Al and A2 refer to the regions mainly affected by climate change; Brefers to the region affected by the combined effects of climate change and human activities; Cl and C2 refer to the regions mainly afcted by human activities; L1,L2,L3 and L4 refer to the boundary lines for different regions. "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.2 Effects of climate factors on NPP ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Based on the comprehensive analyses of NPP, precipitation and temperature, we can infer that the correlation between NPP and climate factors is significant in different regions and may be related to the altitude, climate type and vegetation type. In the central, northeastern and western parts of the Qinghai-Tibet Plateau, NPP was positively correlated with precipitation because the altitude of these regions was higher than $4 0 0 0 \\mathrm { ~ m ~ }$ a.s.l.and the precipitation was low. Therefore, precipitation became the dominant factor that restricts the growth of vegetation. In addition, the grasslands and alpine meadows in these regions demonstrated a high sensitivity to precipitation (Yang et al.， 2O15). However， NPP was negatively correlated with precipitation in the southeastern part of the Hengduan Mountains, and the middle and lower reaches of the Yarlung Zangbo River Basin.Precipitation was abundant in these regions,so it was not the main factor that restricts the growth of vegetation. Because of the high levels of precipitation in these regions, the rainfall erosivity was high, the slope was steep and the soil erosion phenomena (freeze-thaw erosion and hydraulic erosion) were serious. In addition, the negative correlations between NPP and precipitation in some regions (especially in the Hengduan Mountains) were associated with lower solar radiation due to increased precipitation (Liu et al., 2Ol1). Thus, the regional vegetation ecosystem will be destroyed to a certain extent. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The regions with positive correlations between NPP and temperature were mainly distributed in the southern part of the Tibet Plateau and the northern part of the Hengduan Mountains. These regions exhibited high altitude,abundant precipitation and low temperature (restraining the growth of vegetation); therefore, the higher the temperature,the better the growth of vegetation (strong photosynthesis). The regions that exhibited negative correlations between NPP and temperature were mainly concentrated in the central and northern parts of the Qinghai-Tibet Plateau because of scarce precipitation in these regions. Although the increase in temperature was conducive to the plant photosynthesis, regional drought was exacerbated to a certain extent, inhibiting vegetation growth. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5.3Relative effects of climate change and human activities on the NPP changes ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Climate change and human activities were the main driving forces of the NPP changes in the Qinghai-Tibet Plateau. In this study, the $\\mathrm { { N P P } _ { a c t u a l } }$ (MOD17A3) and $\\mathrm { { N P P } _ { \\mathrm { c l i m a t e } } }$ (reversed by Miami model) were used to establish public indicators to unify the effects of climate change and human activities on the vegetation degradation or restoration to a comparable level. The results showed that the relative effects of climate change and human activities on the NPP changes in the Qinghai-Tibet Plateau exhibited significant spatial differences. The study area can be divided into three types of zones,i.e., the climate change-dominant zone,the human activity-dominant zone, and the climate change and human activity interaction zone.The climate change-dominant zone could be divided into two parts: A1 (a region with the increase in NPP induced by climate change) and A2 (a region with the decrease in NPP induced by climate change). Figure 12 shows the spatial distributions of change trend coefficients of precipitation and temperature in the QinghaiTibet Plateau during 20oo-2015. ",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/4b72a47483bdafe10ba4e2d5024ce2fcc9d5ecc276b95fa8d6efd6b481aaa2c6.jpg",
+        "img_caption": [
+            "Fig.12Spatial distributions of change trend coefficients of(a)precipitation and(b)temperature in the QinghaiTibet Plateau during 2000-2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In the Al region, precipitation and temperature exhibited a significant increasing trend (Fig. 12）and water resources were abundant, contributing to the photosynthesis of vegetation and considerably promoting the growth of vegetation (Huang et al.,2008). In the A2 region, however, a significant increase in temperature was observed due to the scarcity of precipitation, resulting in different degrees of drought and thus destroying the regional vegetation ecosystem. The human activity-dominant zone can also be divided into two parts: C1 (a region with the decrease in NPP induced by human activities) and C2 (a region with the increase in NPP induced by human activities). Grazing and farming were the main human activities in these regions. However, with the implementation of the ecological projects of \"returning farmland to grassland\" and \"returning grazing land to grassland\",the effects of human activities on the NPP changes in different regions showed different directions (inhibition or promotion). Overgrazing and reclamation played a leading role in the C1 region, whereas ecological protection policies played an essential role in the C2 region (Sun et al., 2014). In addition,in the Qinghai-Tibet Plateau, there existed an interaction zone (B) where the NPP changes were dominated by the combined effects of climate change and human activities.This region was a transitional zone in which human effects were gradually weakening while climate efects were gradually increasing. Thus, significant temporal and spatial differences can be observed in the relative effects of climate change and human activities on the NPP changes in the Qinghai-Tibet Plateau. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "6 Conclusions ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In this study, the spatial-temporal change paterns and the driving mechanism of NPP in the Qinghai-Tibet Plateau during 2000-2015 were discussed.From 2000 to 2015, the average annual NPP exhibited a decreasing trend from the southeast to the northwest over the whole QinghaiTibet Plateau. In terms of the inter-annual changes of NPP, a fluctuating upward trend was observed during the study period,with a steep rise observed in 2O05 and a high fluctuation observed during 2005-2015. During 2000-2015, the increment and growth rate of NPP in the southwestern part were greater than those in the northeastern part. The regions that exhibited significant correlations between NPP and precipitation were mainly located in the central and eastern parts of the Qinghai-Tibet Plateau, whereas the regions that exhibited significant correlations between NPP and temperature were mainly distributed in the southern and eastern parts.The relative effects of climate change and human activities on the NPP changes in the Qinghai-Tibet Plateau exhibited significant spatial differences.The study area can be divided into three types of zones,i.e., the climate change-dominant zone, the human activity-dominant zone, and the climate change and human activity interaction zone. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the Natural Science Foundation of Shandong Province (ZR2018BDo01),the Project of Shandong Province Higher Educational Science and Technology Program (J18KA181),the Key Research Program of Frontier Science of Chinese Academy of Sciences (QYZDY-SSW-DQC007),the Open Fund of Key Laboratory of Geographic Information Science (Ministryof Education),East China Normal University (KLGIS2017A02), the Open Fund of State Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing，Wuhan University (17I04),the Open Fund of Key Laboratory of Geomatics and Digital Technology of Shandong Province,and the National Key R&D Program of China (2017YFA0604804). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Alexander C,Gabriel J,Oz H,et al.2O17.Net primary productivity,biofuel production and $\\mathrm { C O } _ { 2 }$ emissions reduction potential of Ulvasp.(Chlorophyta)biomass inacoastalareaoftheEastern Mediterranean.Energy Conversionand Management,148: 1497-1507.   \nBhaskarJC.2o.Carbonuseeficiencyandnet primary productivityofterrestrialvegetation.Advances inSpaceResearch, 26(7): 1105-108.   \nChandrasekaran S,SwamyPS.2Oo2.Biomas,literfallandabovegroundnetprimary productivityofherbaceous communities in varied ecosystemsat Kodayar in the western ghatsof Tamil Nadu.Agriculture Ecosystemsand Environment,8(1):61- 71.   \nChirici G,BarbatiA,aseliFOo7.ModelingofItalianforestnetprimaryproductivitybyteintegrationofremotelysensed and GIS data.Forest Ecology and Management,246(2-3): 285-295.   \nEdward C,RobertRT,VictorHR.20l3.Allocationof biomassand net primary productivityof mangrove forestsalong environmental gradients in the Florida Coastal Everglades,USA.Forest Ecology and Management,307: 226-241.   \nFatemehH,RezaJ,HossinB,etal.2Ol9.Estimationof spatialandtemporalchangesinnet prmary productionbasedon Carnegie Ames Stanford Approach(CASA)model insemi-arid rangelandsof SemiromCountyIran.JournalofArid Land, 11(4): 477-494.   \nGaoJ,YinXJ,WangCHJ,etal.018.Spatial-temporaldistributionofNPPnditsclimaticdrivingfactorsinthenoe slope of Tianshan Mountain.Xinjiang Agricultural Sciences,55(2): 352-361.(in Chinese)   \nGuo LF,Lai Q,YiBL,etal.2O17.Spatiotemporalchangesofnetprimaryproductivityofriver wetlandnditsdriving factors in hulunbuir sandy land in 20o0-2014.Research of Soiland Water Conservation,24(6): 267-272.(in Chinese)   \nHaberl H,Wackeragel,KrausmanF,etal.o04.Ecologicalfootprintsand humanapropriationofnet primary production: a comparison.Land Use Policy,21(3): 279-288.   \nHan WY,Zhang CH,ZengY,etal.2O18.Spatio-temporalchangesanddriving factors inthe netprimary productivityofLhasa River Basin from 2000 to 2015.Acta Ecologica Sinica,38(24): 8787-8798.(in Chinese)   \nHuang M,JiJY,Peng LL.2o08.Theresponseofvegetation net primaryproductivitytoclimatechange during1981-2000 in the Tibetan plateau. Climatic and Environmental Research,13(5): 608-616.(in Chinese)   \nHuang XT,LuoGP,YeFP,et al.2O18.Effectsof grazingonnet primary productivity,evapotranspirationand wateruse efficiency in the grasslands of Xinjiang,China. Journal of Arid Land,10(4): 588-600.   \nJeremyLM,ThomasP,Steven U,etal.2018.Short termchanges inmoisturecontent drive strong changes in Normalized Diference Vegetation Index and grossprimary productivity in four Arctic moss communities.Remote Sensing of Environment, 212: 114-120.   \nJi P P,Gao M H,Yang XD.2O19.Analysis of NPPdriving force in an arid region of northwest China: Acase study in Yili valley and parts ofTianshan Mountains,Xinjiang,China.Acta Ecologica Sinica,39(8): 2995-3006.(in Chinese)   \nJiao W,ChenYN,LiWH,etal.2018.Estimationof net primaryproductivityanditsdriving factorsintheIiRiverValley China. Journal of Arid Land,10(5): 781-793.   \nLeandro SB,Divino VS,Helena SRC,etal.2019.Net primary productivityandseasonalityof temperature and precipitation are predictors of the species richness ofthe Damselflies in the Amazon.Basic and Applied Ecology,35:45-53.   \nLiX,YuanJG,MengD.2O18.Spati-temporaldistributionofvegetationprimaryproductivityanditsrelationshipwithclimate factors in HebeiProvince from 20o5 to2014.ResearchofSoilandWater Conservation,25(6):109-114,120.(in Chinese)   \nLi X R,Gao H,HanLP,etal.2017.Spatio-temporal variations invegetationNPPand the driving factors in Taihang Mountain Area. Chinese Journal of Eco-Agriculture,25(4): 498-508.(in Chinese)   \nLiuB T,Tao HP,Song CF,etal.20l1.Studyonannual variatioofrainfallerosivity in southwest Chinausing gravitycenter model.Transactions of the Chinese Society of Agricultural Engineering,28(21):113-120.(in Chinese)   \nMao DH,LuoL,Wang ZM,etal.2015.Variationsinnet primaryproductivityanditsrelationships with warming climate in the permafrost zone of the Tibetan Plateau. Journal of Geographical Sciences,25(8): 967-977.   \nRachpalSJ,TieboCKai M,etal.2Oo7.Components ofecosystemrespirationandanestimateofnet primaryproductivityof an intermediate-aged Douglas-fir stand.Agricultural and Forest Meteorology,144(1-2): 44-57.   \nSun YL,ZhouCP,ShiPL,etal.2014.Thevariabilityof grassand netprimaryproductionin Tbetanditsresponses tono grazing project. Chinese Journal of Grassland,36(4): 5-12.(in Chinese)   \nSunYX,WangSY,ChangQ,etal.2014.Studyonspatial-temporalvariationofnetprimaryproductivityfortheTibetan Plateau in recent 30 years. Guangdong Agricultural Sciences,41(13): 160-166. (in Chinese)   \nSunil K S,Kandasamy K.2019.Theage and species composition of mangrove forest directly influence the net primary productivity and carbon sequestration potential. Biocatalysis and Agricultural Biotechnology,2O:101-235.   \nTian ZH,ZhangDD,HeXH,etal.2019.Spatio-temporal variations invegetationnetprimaryproductivityandtheirdriving factor in Yellw River Basin from 2000to2015.Research ofSoil and Water Conservation,26(2):255-262.(in Chinese)   \nTravis JW,Mark EH,Kari BO.2015.Inter-annual variabilityand spatialcoherenceof net primary productivityacross a western Oregon Cascades landscape.Forest Ecology and Management,335: 60-70.   \nWangF,Wang Z,Zhang Y.2O18.Spatio-temporal variations in vegetationnetprimary productivityandtheirdriving factors in Anhui Province from 2000 to 2015.Acta Ecologica Sinica,38(8): 2754-2767.(in Chinese)   \nWang J,Dong JF,HeHJ.2016.Temporaland spatialvariationofvegetation netprimary productivityand its driving factorsin reforestation zone of northern Shaanxi. Chinese Agricultural Science Bulletin,32(18):114-120. (in Chinese)   \nWang Q,Zhang TB,YiGH,et al.2O17.Tempo-spatial variationsand driving factors analysis ofnet primary productivityin the Hengduan mountain area from 2004 to 2014.Acta Ecologica Sinica,37(9): 3084-3095.(in Chinese)   \nWang YB, ZhaoYH,Han L,et al.2018.Spatio-temporal variationof vegetationnet primaryproductivityanditsdriving factors from 2000 to2015 in Qinling-Daba Mountains,China. Chinese Journal of Applied Ecology,29(7):2373-2381. (in Chinese)   \nWang Z,LiDK.2O18.Spatial-temporaldistributionofvegetation net primaryproductivityanditsdriving factors from200 to 2015 in Shaanxi, China.Chinese Journal of Applied Ecology,29(6):1876-1884. (in Chinese)   \nXuFY,JiaoHB,DngXD,etal.19.Spatial-mporalhracteristicsofNinubropialevergeebroad-eavedfosts. Journal of Northwest Forestry University,34(2): 62-68.(in Chinese)   \nZhangYL,QiW,ZhouCP,etal.2O14.Spatialandtemporalvariabilityinthe net primaryproductionofalpine graslandon the Tibetan Plateau since 1982. Journal of Geographical Sciences,24(2): 269-287.   \nZhu YY,HanL,ZhaoYH,etal.2019.Simulationand spatio-temporalpaterofvegetation NPPinnorthwest China.Chinese Journal of Ecology,38(6): 1861-1871.(in Chinese) ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    }
+]

@@ -1,0 +1,141 @@
+临床研究
+
+# CD8+CD28+/CD8+CD28T细胞平衡预测炎症性肠病患者并发消 化道出血的价值
+
+戴世学²,顾红祥³，武钢²,钟涛²,菅洪健²，湛永乐4,张旻海²,高勇,徐俊²,陈东升²,廖广捷²,封艳玲，刘 洪波,邹 颖,迟宏罡8
+
+1南方医科大学中西医结合医院风湿病科,广东广州 510315;南方医科大学南方医院²急诊科，消化内科，4南方医科大学公共卫生学院，广东广州 510515;南方医科大学第五附属医院胸外科，广东广州 510900；南京医科大学附属淮安市第一人民医院消化内科,江苏淮安 223001;7山东中医药大学附属泰安市中医医院脾胃科,山东 泰安 271000;8广东医科大学第二临床医学院中医学教研室,广东 东莞 523808
+
+摘要：目的评价 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } / C D 8 ^ { + } C D 2 8 ^ { - } } ]$ T细胞平衡在预测炎症性肠病(IBD)患者并发消化道出血(GH)的作用与价值。方法收集IBD患者49例,其中溃疡性结肠炎(UC)30例,克罗恩病(CD)19例,使用流式细胞术检测外周血 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } }$ 及 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { - } T }$ 细胞T细胞的百分含量，对患者进行为期1年的随访，使用受试者工作特征(ROC）曲线法评价 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } / C D 8 ^ { + } C D 2 8 ^ { - } T }$ 细胞平衡（比值)在预测IBD患者出现GH的效能，并使用Kaplan-Meier生存分析法比较不同因素下的持续缓解时间(LTR)差异,并对相关指标进行相关性分析。结果(1)CD组的免疫抑制剂、激素及生物制剂(BA)使用率均显著高于UC组( $P { = } 0 . 0 0 3 , 0 . 0 4 3$ 及0.002);(2)UC组患者的 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } }$ T细胞显著高于CD组 $( t { = } 3 . 0 2 2 , P { = } 0 . 0 0 4 )$ ；(3）ROC结果显示 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } }$ T细胞、 $\mathrm { C D 8 ^ { + } }$ CD28T细胞及 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } / C D 8 ^ { + } C D 2 8 }$ 比值三者在预测GH方面均具有良好的效能(均为 $P { < } 0 . 0 1$ )，但以 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } / C D 8 ^ { + } }$ CD28最优[曲线下面积(AUC)为0.977， $\scriptstyle P = 0 . 0 0 0 .$ ,截值分析显示当 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } / C D 8 ^ { + } C D 2 8 ^ { - } }$ 比值取值为1.14时( $1 3 . 9 5 \% I$ $12 . 2 4 \%$ )，其对应的敏感度达 $9 3 . 3 \%$ ，特异度为 $9 1 . 2 \%$ ;(4)未使用BA及未行手术治疗的IBD患者算术及中位LTR均显著长于使用BA及已行手术的IBD患者(分别为) $c ^ { 2 } = 9 . 7 3 0 , P = 0 . 0 0 2 ; \chi ^ { 2 } = 1 5 . 9 8 1 , P = 0 . 0 0 0 ) ; ( 5 ,$ Spearman分析显示 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } / C D 8 ^ { + } C D 2 8 ^ { - } }$ 与BA及手术均成显著相关性 $P { = } 0 . 0 0 9 \mathrm { , } 0 . 0 3 8 \rangle$ 。结论外周血 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } }$ T细胞降低或 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { - } }$ T细胞升高与IBD患者出现GH密切相关， $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } / C D 8 ^ { + } C D 2 8 }$ 平衡预测GH的敏感度及特异度均高，尤其是在比值为1.14时;该平衡与生物制剂及手术存在显著相关性。
+
+关键词：炎症性肠病;活动期;消化道出血;CD8+CD28+/CD8+CD28平衡；预测
+
+# Immunological balance of $\mathbf { C D 8 ^ { + } C D 2 8 ^ { + } / C D 8 ^ { + } C D 2 8 ^ { - } }$ T lymphocytes can predict gastrointestinal hemorrhage in patients with inflammatory bowel disease
+
+DAI Shixue，GUHongxiang，WUGang，ZHONGTao,JIANHongjian,ZHANYongle,ZHANGMinhai²，GAOong，Jun, CHENDongsheng²,LIAO Guangjie²,FENG Yanling6,LIUHongbo,ZOu Ying\$,CHIHonggang& DepartmentofheumatologyCM-integratedHospitalofSuthernMedicalnersityGuangzhou0315，China;Departntf EmergencyMedicineepartmentofGstroenterologyanfangHospitalouthenedicalnersityuangzoua UndergraduateofGde3olofublicHealthouternMedicalUniesityGuangzou055,ina;epartmentfocic Surgeryfedsitalofutediletaunaepmnsoeeo FirstPeople'sitc fTraditoalneedicinadongesitydiioalinsedicieainaeparmenodil Chinese Medicine,Second Clinical Medical Collge,Guangdong Medical University,Dongguan53808,China
+
+Abstract: Objective To evaluate the sensitivity and specificityof CD8\*CD28+/CD8+CD28T lymphocyte balance in predicting the gastrointestinal hemorhage (GH) inpatients with inflammatory bowel disease (IBD).Methods Forty-nine IBDpatients, including 30 with ulcerous colitis (UC)and 19 with Crohn's disease (CD), were enrolled to test peripheral blood $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } }$ and $\mathrm { C D 8 ^ { + } }$ CD28: T cells using flow cytometry. All the patients were followed up for one year. The receiver-operating characteristic (ROC)curves were used to test the eficiencyof CD8\*CD28/CD8+CD28·Tlymphocyte balance to predict GH.The
+
+differences in lasting time of remission (LTR) under different factors were compared using Kaplan-Meier survival analysis,and the correlation between $\mathrm { C D 8 ^ { + } }$ T lymphocytes and the factorswere analyzed. Results The utilization rates of immunosuppressant, steroids,and biological agent (BA) were significantly higher in CD patients than in UC patients ${ \it P } { = } 0 . 0 0 3 ,$ 0.043 and 0.002,
+
+respectively). The frequencies of $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } T }$ cells were obviously higher in UC patients than those in CD patients ( $\scriptstyle \prime = 3 . 0 2 2 .$ $P =$ 0.004). $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } T }$ cells, $\mathrm { C D 8 ^ { + } C D 2 8 ^ { - } T }$ cells, and especially $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } / C D 8 ^ { + } C D 2 8 ^ { - } }$ ratio (area under curve of 0.977, $P { = } 0 . 0 0 0 .$ cut-off value of 1.14 $[ 1 3 . 9 5 \% / 1 2 . 2 4 \%$ ] with a sensitivity of $9 3 . 3 \%$ and a specificity of $9 1 . 2 \%$ ） showed good efficiencies in predicting GH $( P { < } 0 . 0 1 )$ . The mean and median of LTR of IBD patients who did not receive BA or surgical treatment were significantly longer $\scriptstyle \cdot \chi ^ { 2 } = 9 . 7 3 0$ $\scriptstyle P = 0 . 0 0 2$ $\chi ^ { 2 } { = } 1 5 . 9 8 1$ $P { = } 0 . 0 0 0 \rangle$ . $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } / C D 8 ^ { + } C D 2 8 ^ { - } }$ ratio was significantly related to both BA ( $P =$ 0.009) and surgery $_ { ( P = 0 . 0 3 8 ) }$ . Conclusion Both decreased $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } T }$ cells and elevated $\mathrm { C D 8 ^ { + } C D 2 8 ^ { - } T }$ cells are closely correlated withGH,andtheirratiocanpredict theoccurrenceofGHwithahighsensitivityand specificityandiorrelated with BA and surgery at the cut-off value of 1.14.
+
+Key words: inflammatory bowel disease; active stage; gastrointestinal hemorrhage; CD8+CD28+/CD8+CD28-Tlymphocytes
+
+炎症性肠病(inflammatorybowel disease,IBD)包括溃疡性结肠炎(ulcerativecolitis,UC)及克罗恩病(Crohn'sdisease,CD),IBD的发病率呈逐年增高趋势，且有年轻化趋势[1]。流行病学资料显示近10年上海地区0\~14岁儿童IBD发病率从0.5/100万上升到6.1/100万,增长12倍[2。香港于2013年统计IBD发病率为3/10万,较2001年增加3倍[3]。IBD按病情分期可分为缓解期及活动期，后者是病情恶化的过程，可出现消化道出血(gastrointestinal hemorrhage,GH)等症状,而GH又可加重IBD患者贫血及感染等程度，因此GH具有极大的危害性[4]。遗憾的是，目前尚缺少一种预测IBD患者并发GH的高敏感且特异的指标。此外，哪些因素可导致IBD患者进展为活动期，尚缺少相关研究。笔者在前期研究发现UC患者外周血 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } }$ T细胞较正常组降低，而 ${ \bf C D 8 ^ { + } C D } 2 8 ^ { - }$ T细胞升高，且两者所构成的平衡即 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } / C D 8 ^ { + } C D 2 8 }$ 比值同样显著降低[5，因此笔者推测该平衡可能有助于预测IBD患者的活动期尤其是 $\mathrm { G H _ { \circ } }$ 本研究以此为目的，观察了49例IBD患者上述两个T细胞亚群及其平衡的变化，发现三者均与GH显著相关，尤其以 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } / C D 8 ^ { + } C D 2 8 }$ 比值预测GH的敏感性及特异性最高，具有显著临床意义，过程如下。
+
+# 1资料和方法
+
+# 1.1 患者资料
+
+根据中华医学会消化病学分会炎症性肠病学组制订的《2012年中华医学会炎症性肠病诊断与治疗的共识意见》，选取2012年10月\~2013年10月期间南方医科大学南方医院急诊科及消化内科的IBD患者作为观察对象，人选标准：(1)经肠镜及病理活检等方法确诊为UC或CD；(2)UC患者的病变范围符合蒙特利尔分类的E1-E3类，病变严重程度符合Truelove和Witts分类的轻度及重度；(3)CD患者符合世界卫生组织推荐的CD诊断标准(含非连续性或阶段性改变-肛周病变共6个项目）,疾病严重程度在Harvey和Bradshow的简化CDAI计算法的4\~9分范围内；(4)患者具有良好的依从性，能够坚持随访。排除标准：合并以下情况之一者均予排除：其他类型慢性结肠炎(如放射性肠炎）肿瘤、结核、慢性感染、自身免疫性疾病、妊娠。共入选49例,其中
+
+UC30例,CD19例；男性31例，女性18例;年龄13\~69岁（204 $( 3 9 . 3 1 \pm 1 4 . 7 5 )$ 岁。缓解期14例,活动期35例。以上UC及CD组的性别、分期构成以及年龄均无统计学差异 $\scriptstyle { \mathit { \prime } } _ { P = 0 . 5 5 1 , 0 . 7 1 1 }$ 及0.481,表1)。
+
+# 1.2流式细胞术
+
+CD8-FITC及CD28-PE抗体均购自美国SantaCruzBiotechnology公司。清晨空腹抽取患者肘静脉血约5mL，肝素抗凝。使用Hank's液等体积稀释，随后用Ficoll进行密度梯度离心获取外周血单个核细胞,洗涤后将调整PBMCs浓度为 $2 { \times } 1 0 ^ { 9 } \mathrm { c e l l s } / \mathrm { L }$ ，随后加入CD8-FITC及$\mathrm { C D } 2 8  – \mathrm { P E } ^ { [ 7 ] }$ 。使用Beckman生产的多色流式细胞仪检测，以CD8及CD28进行设门，每管获取细胞数1000个，运用Beckman Coulter Epics XL软件计算 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } }$ 及 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { - } T }$ 细胞占所有淋巴细胞的百分比[5]
+
+# 1.3指标比较
+
+比较UC及CD组患者的家族史，5-氨基水杨酸类药物(5-ASA）、免疫抑制剂、激素、肠道微生态制剂(益生菌)及生物制剂(Biologicalagent,BA)的使用情况,以及随访期内手术率的差异[8]。
+
+# 1.4随访与观察
+
+对患者进行为期1年的随访，如果出现GH，则记录为阳性事件。比较UC及CD组患者缓解期维持时间(lasting timeofremission,LTR)的差异[9]；比较 $\mathrm { C D 8 ^ { + } }$ $\mathrm { C D 2 8 ^ { + } }$ T细胞、 $S _ { Ḋ } \mathrm { C D } 8 ^ { \ast } \mathrm { C D } 2 8 ^ { \cdot }$ T细胞及 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } / C D 8 ^ { + } }$ CD28比值在预测GH的效能差异；比较不同因素下UC及CD患者的LTR差异。
+
+# 1.5统计学处理
+
+定量资料采用均数 $\stackrel { \cdot } { \_ }$ 标准差差表示，计数资料采用$n$ 表示，采用两独立样本t检验比较两组间的差异，计数资料比较采用 $\chi ^ { 2 }$ 或秩和检验;预测GH的敏感度及特异度的评价采用受试者工作特征(ROC)曲线法;不同因素下的LTR长短比较采用Kaplan-Meier法[10]。相关性分析采用Spearmen法。使用统计软件包SPSS17.0分析数据，当 $P { < } 0 . 0 5$ 认为是差异有统计学意义。
+
+# 2结果
+
+# 2.1一般因素的比较
+
+UC与CD患者的家族史、5-ASA及益生菌服用情
+
+况、手术、LTR及GH共6个方面的差异均无统计学意义$( P { > } 0 . 0 5 )$ ，而CD组的免疫抑制剂、激素及BA使用率均
+
+显著高于UC组 $\scriptstyle ( P = 0 . 0 0 3 , 0 . 0 4 3$ 及0.002,表1)。
+
+表1UC与CD患者的因素比较 Tab.1 Comparison of the demographic and clinical data between UC and CD groups $( \chi ^ { 2 } / t )$   
+
+<html><body><table><tr><td>Factor</td><td>Classification</td><td>UC (n=30)</td><td>CD (n=19)</td><td>Statistics</td><td>P</td></tr><tr><td>Gender</td><td>Male</td><td>18 (36.7%)</td><td>13 (26.5%)</td><td>0.355</td><td>0.551</td></tr><tr><td></td><td>Female</td><td>12 (24.5%)</td><td>6 (12.2%)</td><td></td><td></td></tr><tr><td>Age (year)</td><td></td><td>40.3±13.7</td><td>37.2±16.4</td><td>0.711</td><td>0.481</td></tr><tr><td>Stage</td><td>Remission</td><td>8 (16.3%)</td><td>6 (12.2%)</td><td>0.138</td><td></td></tr><tr><td></td><td>Active</td><td>22 (44.9%))</td><td>13 (26.5%)</td><td></td><td>0.711</td></tr><tr><td>Family history</td><td>Yes</td><td>13 (26.5%)</td><td>9 (18.4%)</td><td>0.077</td><td></td></tr><tr><td></td><td>No</td><td>17 (34.7%)</td><td>10 (20.4%)</td><td></td><td>0.782</td></tr><tr><td></td><td>Yes</td><td>30 (61.2%)</td><td>17 (34.7%)</td><td></td><td></td></tr><tr><td>5-ASA</td><td>No</td><td>0 (0%)</td><td>2 (4.1%)</td><td>-1.796</td><td>0.073</td></tr><tr><td></td><td>Yes</td><td>19 (38.8%)</td><td>19 (38.8%)</td><td></td><td></td></tr><tr><td>Immunosuppressant</td><td>No</td><td>11 (22.4%)</td><td>0 (0%)</td><td>-2.966</td><td>0.003</td></tr><tr><td></td><td>Yes</td><td>15 (30.6%)</td><td>15 (30.6%)</td><td></td><td></td></tr><tr><td>Steroids</td><td>No</td><td>15 (30.6%)</td><td>4 (8.2%)</td><td>4.106</td><td>0.043</td></tr><tr><td></td><td>Yes</td><td>11 (22.4%)</td><td>12 (24.5%)</td><td></td><td></td></tr><tr><td>Probiotics</td><td>No</td><td>19 (38.8%)</td><td>7 (14.3%)</td><td>3.278</td><td>0.070</td></tr><tr><td></td><td>Yes</td><td>16 (32.7%)</td><td>18 (36.7%)</td><td></td><td></td></tr><tr><td>Biological agent</td><td>No</td><td>14(28.6%)</td><td>1 (2.0%)</td><td>9.388</td><td>0.002</td></tr><tr><td></td><td>Yes</td><td>7 (14.3%)</td><td>6 (12.2%)</td><td></td><td></td></tr><tr><td>Surgery</td><td>No</td><td>23 (46.9%)</td><td>13 (26.5%)</td><td>0.406</td><td>0.524</td></tr><tr><td>Lasting time of remission (week)</td><td></td><td>30.0±13.9</td><td>24.5±10.3</td><td>1.482</td><td>0.145</td></tr><tr><td></td><td>Yes</td><td>19 (38.8%)</td><td>15 (30.6%)</td><td></td><td></td></tr><tr><td>Gastrointestinal hemorrhage</td><td>No</td><td>11 (22.4%)</td><td>4 (8.2%)</td><td>1.335</td><td>0.248</td></tr></table></body></html>
+
+# 2.2UC与CD患者的 $\mathrm { C D 8 ^ { + } T }$ 细胞及其比值差异
+
+两组患者的 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } }$ 及 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { - } T }$ 细胞均呈一定程度的表达，此两个T细胞亚群含量均在 $10 \%$ 以上，以 $\mathbf { C D 8 ^ { + } C D 2 8 ^ { - } T }$ 细胞略高于 $\mathbf { C D 8 ^ { + } C D 2 8 ^ { + } } \cdot$ T细胞（图1A,B)。UC组患者的 $\mathbf { C D 8 ^ { + } C D 2 8 ^ { + } T }$ 细胞为 $( 1 4 . 3 2 \pm$ $6 . 1 7 ) \%$ 显著高于CD组的 $( 9 . 4 0 { \pm } 4 . 3 8 ) \%$ 0 $\scriptstyle t = 3 . 0 2 2 , P =$ 0.004；图2A），但 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { - } T }$ 细胞及 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } } /$ $\mathrm { C D 8 ^ { + } C D 2 8 ^ { - } }$ 比值无统计学差异( $_ { P = 0 . 9 8 5 }$ 及0.094，图2B,C)。
+
+# 2.3 ROC分析
+
+ROC结果显示 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } }$ T细胞、 $\mathrm { . C D 8 ^ { + } C D 2 8 ^ { - } }$ T细胞及 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } / C D 8 ^ { + } C D 2 8 }$ 比值三者在预测GH方面均具有良好的效能(均为 $P { < } 0 . 0 1$ ,表2),但曲线下面积(AUC)以 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } / C D 8 ^ { + } C D 2 8 }$ 最大，达0.977，其次为 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } }$ 细胞，为0.791(图3)。截值分析显示当 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } / C D 8 ^ { + } C D 2 8 }$ 比值取值为1.14时( $1 3 . 9 5 \% I$ $1 2 . 2 4 \%$ ),其对应的敏感度达 $9 3 . 3 \%$ ,特异度为 $9 1 . 2 \%$ 。
+
+# 2.4 生存分析
+
+以上49例患者均无失访或删失。Kaplan-Meier分析显示未使用生物制剂(BA)及未行手术治疗的IBD患者算术及中位LTR均显著长于使用BA及已行手术的IBD患者(分别为 $\jmath \chi ^ { 2 } = 9 . 7 3 0 , P = 0 . 0 0 2 ; \chi ^ { 2 } = 1 5 . 9 8 1 , P = 0 . 0 0 0$ 表3,图4)。
+
+# 2.5相关性分析
+
+Spearman分析显示 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } / C D 8 ^ { + } C D 2 8 }$ 与BA及手术均成显著相关性（分别为 $\scriptstyle P = 0 . 0 0 9$ 及0.038），
+
+![](images/baeb335389276995cc0317a22a5ce82be51465c9fe0530482d06438cb6dbf5cf.jpg)  
+图1UC及CD患者的 $\mathrm { C D 8 ^ { + } }$ T细胞流式细胞图 Fig.1Flowcytometry for $\mathrm { C D 8 ^ { + } }$ T cells in UC and CD groups.The upper right quadrant represents the frequencies of $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } }$ T cells,while the lower right one the CD8\*CD28 T cells.
+
+![](images/2c6c95da2ebc729f1364a2109c18478e9da6129f71ce59eadf4dab72e7dbb11a.jpg)  
+图2UC与CD患者的 $\mathrm { C D 8 ^ { + } }$ T细胞及其比值的柱状图 Fig.2 Bar charts for comparison of CD8+Tcels and their ratio between patients with UC and CD.
+
+表2 $\mathrm { C D 8 ^ { + } }$ T细胞及其比值预测GH的AUC及可信区间$9 5 \%$ $\mathrm { C D 8 ^ { + } \hat { \ } }$   
+Tab.2 Area under the curve and confidence interval for T cells and their ratio in predicting GH   
+
+<html><body><table><tr><td rowspan="2">Test result variable (s)</td><td rowspan="2">Area</td><td rowspan="2">Std. Error (a)</td><td rowspan="2">Asymptotic Sig.(b)</td><td colspan="2">Asymptotic 95% confidence interval</td></tr><tr><td>Lower Bound</td><td>Upper Bound</td></tr><tr><td>CD8+CD28+ T cells</td><td>0.791</td><td>0.069</td><td>0.001</td><td>0.656</td><td>0.925</td></tr><tr><td>CD8+CD28Tcells</td><td>0.051</td><td>0.026</td><td>0.000</td><td>-0.009</td><td>0.093</td></tr><tr><td>CD8+CD28+/CD8+CD28</td><td>0.977</td><td>0.017</td><td>0.000</td><td>0.943</td><td>1.010</td></tr></table></body></html>
+
+$\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } }$ T细胞仅与BA呈相关性 $\scriptstyle \left( P = 0 . 0 0 1 \right)$ ，而${ \bf C D 8 ^ { + } C D } 2 8 ^ { - }$ T细胞与BA及手术均无显著相关性(分别为 ${ \cal P } { = } 0 . 3 0 7$ 及0.058，表4)。
+
+# 3讨论
+
+探索由缓解期进展为活动期的相关危险因素，具有显著的临床价值，因为活动期是IBD患者病情每况愈下、黏膜进行性破坏的直接原因。影响IBD患者病情转归的因素众多，可大体分为患者自身因素及外界干预因素两大类,后者以治疗因素为主[。治疗因素又可分为药物及非药物因素，后者主要指手术及消化内镜治疗，近年兴起的经内镜粪菌移植治疗(FMT)[12]也可以归入非药物治疗。按此思路，笔者人选了性别、年龄、家族史作为患者的自身因素，将5-ASA、免疫抑制剂、激素、益生菌及生物制剂作为药物干预因素，将肠道切除手术作为非药物干预因素。以IBD的类型即UC及CD作为分组依据，发现UC与CD患者的家族史、5-ASA及益生菌服用情况、手术、LTR及GH共6个方面的差异均无统计学意义，说明遗传因素在UC与CD的差异不明显，且两组患者的手术率及预后，即LTR及GH均无明显差别。在用药构成方面，UC与CD在是否使用5-ASA及微生态制剂同样无明显差别；而CD组的免疫抑制剂、激素及BA使用率均显著高于UC组，其原因如下：CD患者由于病灶分布广泛、多呈跳跃性，因此其药物强度及配伍率均较高3，在这种情况下，免疫抑制剂及激素往往作为一线药物，在此类一线药物不敏感的情况，只能使用BA,故CD患者免疫抑制剂、激素及BA三者的使用率高于UC。
+
+![](images/73160ecb07875f228e8f017ad645c0543b6bf29e36cd6ce61af4ec47d94485de.jpg)  
+图3 $\mathrm { C D 8 ^ { + } }$ T细胞及其比值预测GH的ROC曲线(对角线为 诊断参考线） Fig.3 ROC curves of $\mathrm { C D 8 ^ { + } }$ T cells and their ratio in predicting GH (the diagonal was the diagnostic reference line).
+
+表3BA与手术对LTR算数均数及中位数的影响 Tab.3 Mean and median LTR of IBD patients who did or did not receive BAand surgical treatment   
+
+<html><body><table><tr><td rowspan="3">Group</td><td rowspan="3">Classification</td><td colspan="4">Mean</td><td colspan="4">Median</td><td rowspan="3"></td><td rowspan="3">P</td></tr><tr><td rowspan="2">Estimate</td><td rowspan="2">Std. Error</td><td colspan="2">95% confidence interval</td><td rowspan="2">Estimate</td><td rowspan="2">Std. Error</td><td colspan="2">95% confidence interval</td></tr><tr><td>Lower Bound</td><td>Upper Bound</td><td>Lower Bound</td><td>Upper Bound</td></tr><tr><td rowspan="3">BA</td><td>Yes</td><td>25.258</td><td>2.017</td><td>21.306</td><td>29.211</td><td>25.600</td><td>2.248</td><td>21.194</td><td>30.006</td><td></td><td></td></tr><tr><td>No</td><td>42.713</td><td>4.179</td><td>34.521</td><td>50.904</td><td>40.282</td><td>3.925</td><td>32.172.</td><td>47.993</td><td>9.730</td><td>0.002</td></tr><tr><td>Overall</td><td>31.752</td><td>2.425</td><td>26.999</td><td>36.504</td><td>30.900</td><td>3.240</td><td>24.550</td><td>37.250</td><td></td><td></td></tr><tr><td rowspan="3">Surgery</td><td>Yes</td><td>18.668</td><td>2.664</td><td>13.447</td><td>23.889</td><td>17.400</td><td>3.974</td><td>9.612</td><td>25.188</td><td></td><td></td></tr><tr><td>No</td><td>36.280</td><td>2.755</td><td>30.880</td><td>41.680</td><td>32.800</td><td>2.113</td><td>28.659</td><td>36.941</td><td>15.981</td><td>0.000</td></tr><tr><td>Overall</td><td>31.752</td><td>2.425</td><td>26.999</td><td>36.504</td><td>30.900</td><td>3.240</td><td>24.550</td><td>37.250</td><td></td><td></td></tr></table></body></html>
+
+然而,临床上大量IBD患者坚持使用上述的免疫抑制剂、激素及BA，但此类患者为何仍由缓解期进展为活动期？这当中涉及到其他因素，尤其是免疫因素，后者是IBD发病的核心环节。结合笔者既往研究基础，本研究观察了 $\mathrm { C D 8 ^ { + } T }$ 免疫细胞及其比值在预测GH(活动期的直接临床表现)的价值。 $\mathrm { C D 8 ^ { + } }$ T细胞属于杀伤性T细胞亚群，而CD28分子为共刺激分子：表达于 $\mathrm { C D 8 ^ { + } }$ T细胞则成为 $\mathbf { C D 8 ^ { + } C D 2 8 ^ { + } } ^ { \prime }$ T细胞，具有杀伤、吞噬功能[14]；而不表达CD28则成为 $\mathbf { C D 8 ^ { + } C D 2 8 ^ { - } }$ T细胞，具有免疫抑制及双向调节功能,属于调节性T细胞(Treg)亚群之—[15]。组间比较结果显示UC组患者的 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } }$ T细胞显著高于CD组，而 $\mathbf { C D 8 ^ { + } C D 2 8 ^ { - } }$ T细胞及 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } } /$ $\mathbf { C D 8 ^ { + } C D 2 8 }$ 比值无统计学差异，但这并不能说明 $\mathrm { C D 8 ^ { + } }$ $\mathrm { C D 2 8 ^ { + } }$ T细胞预测GH的价值优于 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { - } T }$ 细胞及$\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } / C D 8 ^ { + } C D 2 8 }$ 平衡，而有待进一步的ROC分析证实；后者显示 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } / C D 8 ^ { + } C D 2 8 ^ { - } }$ 比值对应的AUC最大，其次才为 ${ \bf C D 8 ^ { + } C D 2 8 ^ { + } }$ 细胞。截值分析显示当 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } / C D 8 ^ { + } C D 2 8 }$ 比值取值为1.14时（即 $\mathrm { C D 8 ^ { + } }$ $\mathbf { C D 2 8 ^ { + } }$ T细胞取值 $1 3 . 9 5 \%$ ， $\mathrm { C D 8 ^ { + } C D 2 8 ^ { - } }$ T细胞取值$1 2 . 2 4 \%$ ),其对应的敏感度及特异度均已超过 $90 \%$ ，属于理想的诊断指标，这具有重要临床意义。以上印证了$\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } / C D 8 ^ { + } C D 2 8 ^ { - } }$ 比值的预测效能优势。
+
+![](images/d4a2145ce8e45e713dc9c774d5076b80316187fba7b3978f78ced1bfabf5c56e.jpg)  
+图4BA与手术对缓解期持续时间(LTR)的生存曲线 ig.4 Survival plots of BA and surgery on the lasting time of remisson (LTR) in the IBD patients
+
+表4 $\mathrm { C D 8 ^ { + } }$ T细胞与BA及手术的相关性分析表 Tab.4 Correlation analysis of CD8\*Tcells with BA treatment and surgery   
+
+<html><body><table><tr><td rowspan="3">Factor</td><td colspan="2">CD8+CD28+ Tcells</td><td colspan="2">CD8+CD28 T cells</td><td colspan="2">CD8+CD28+/CD8+CD28</td></tr><tr><td>r</td><td>P</td><td>1</td><td>P</td><td>r</td><td>P</td></tr><tr><td>Biological agent</td><td>0.460</td><td>0.001</td><td>-0.149</td><td>0.307</td><td>0.368</td><td>0.009</td></tr><tr><td>Surgery</td><td>0.263</td><td>0.068</td><td>-0.273</td><td>0.058</td><td>0.297</td><td>0.038</td></tr></table></body></html>
+
+尽管UC与CD组患者的LTR无统计学差异 $( 3 0 . 0 \pm$ 13.9 vs $2 4 . 5 { \pm } 1 0 . 3 \$ 周),但此类单纯的t检验并不能反映在不同的因素作用下的LTR是否存在差异。故笔者采用了Kaplan-Meier生存分析法比较不同因素对IBD患者LTR长短的影响，发现未使用BA及未行手术治疗的IBD患者算术及中位LTR均显著长于使用BA及已行手术的IBD患者,这与Papp等[16报道的一致。出现该现象的原因是：CD患者由于病灶分布广、侵袭性强，且由于症状不典型造成诊断延误[17],往往导致了病情恶化较UC明显，因此常需使用BA;此外，由于瘘管及穿孔率较UC高,CD患者往往需要接受手术治疗[18]
+
+相关性分析显示 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } / C D 8 ^ { + } C D 2 8 ^ { - } }$ 与BA及手术均成显著相关性，而 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } }$ T细胞仅与BA呈相关性，但 ${ \bf C D 8 ^ { + } C D } 2 8 ^ { - }$ T细胞与BA及手术均无显著相关性，这说明 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } / C D 8 ^ { + } C D 2 8 ^ { - } }$ 与IBD的干预方式的相关度最高，而后者与病情转归直接相关。综合上述结果，笔者认为外周血 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } }$ T细胞降低或$\mathrm { C D 8 ^ { + } C D 2 8 ^ { - } T }$ 细胞升高均与IBD患者并发GH密切相关。 $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } / C D 8 ^ { + } C D 2 8 }$ 平衡预测GH的效能理想，且当该比值低于1.14时，临床上需密切注意进展为活动期的可能，此时应嘱咐患者加强随访，这对于临床指导具有重要价值。本研究还存在不足，主要是例数较少，未进行长周期的观察随访，将在后续的研究中加以改进。
+
+致谢 ：衷心感谢南方医科大学南方医院消化内科陈烨教授及感染科李旭教授对本课题设计的指导！
+
+# 参考文献：
+
+[1] $\mathrm { N g ~ S C }$ ,Leung WK,Shi Y,et al.Epidemiology of inflammatory bowel disease from 1981 to 2O14:results from a Territory-Wide Population-Based registry in Hong Kong[J].Inflamm Bowel Dis, 2016,22(8): 1954-60.   
+[2]Wang XQ, Zhang Y,Xu CD,et al. Inflammatory bowel disease in Chinese children:a multicenter analysis over a decade from Shanghai[J].Inflamm Bowel Dis,2013,19(2): 423-8.   
+[3]Ng SC,Tang W,Ching JY,et al. Incidence and phenotype of inflammatory bowel disease based on results from the Asia-pacific Crohn's and colitis epidemiology study[J].Gastroenterology,2013, 145(1): 158-165.e2.   
+[4]NguyenL,Limketkai B,Medici V,etal.Nutritional strategies in the management of adult patients with inflammatory bowel disease: dietary considerations from active disease to disease remission[J]. Curr Gastroenterol Rep,2016,18(10): 55.   
+[5]Dai X,Wu G, Zou Y,et al.Balance of $\mathrm { C D 8 ^ { + } C D 2 8 ^ { + } / C D 8 ^ { + } C D 2 8 ^ { - } }$ T lymphocytes is vital for patients with ulcerative colitis[J].Dig Dis Sci,2013,58(1): 88-96.   
+[6]中华医学会消化病学分会炎症性肠病学组.炎症性肠病诊断与治疗 的共识意见(2012年·广州)[J].胃肠病学,2012,17(12):763-81.   
+[7]Tom MR，Li J,Ueno A，et al.Novel CD8+T-Cell subsets demonstrating plasticity in patients with inflammatory bowel disease[J].Inflamm Bowel Dis,2016,22(7):1596-608.   
+[8]Hansen J, Sartor B.Therapeutic manipulation of the microbiome in IBD:current results and future approaches[J].Curr Treat Options Gastroenterol,2015,13(1): 105-20.   
+[9]Landy J,Wahed M,Peake ST,et al. Oral tacrolimus as maintenance therapy for refractory ulcerative colitis--an analysis of outcomes in two London tertiary centres [J].J Crohns Colitis,2O13,7(11): e516-21.   
+[10]Carbonnel F,Colombel JF,Filippi J,et al.Methotrexate is not superior toplacebo for inducing Steroid-Free remission，but induces Steroid-Free clinical remission in a larger proportion of patients with ulcerative colitis [J].Gastroenterology,2016,150(2): 380-8.   
+[11]Kerman H. Endoscopic delivery of fecal biotherapy in inflammatory bowel disease[J].Gastrointest Endosc Clin N Am,2016,26(4): 707-17.   
+[12]Fischer M,Kao D,Kelly C,et al.Fecal microbiota transplantation issafe and efficacious for recurrent or refractory clostridium difficile infection in patients with inflammatory bowel disease[J]. Inflamm Bowel Dis,2016,22(10): 2402-9.   
+[13]Taleban S,Stewart O,Li K,etal. Clinical activity and quality of life indices are valid across ulcerative colitis but not crohn's disease phenotypes[J].Dig Dis Sci,2016,61(9): 2627-35.   
+[14]Rabinowitz KM,Wang Y,Chen EY,et al. Transforming growth factor $\beta$ signaling controls activities of human intestinal $\mathrm { C D 8 ( + ) T }$ suppressor cells[J].Gastroenterology,2013,144(3): 601-612.e1.   
+[15] Shen P, Yue R, Tang J,et al. Preferential Tim-3 expression on Treg and $\mathrm { C D 8 ( + ) }$ T cells,supported by tumor-associated macrophages,is associated with worse prognosis in gastric cancer[J].Am J Transl Res,2016,8(8):3419-28.   
+[16]Papp M, Sipeki N,Tornai T,et al.Rediscovery of the AntiPancreatic antibodies and evaluation of their prognostic value in a prospective clinical cohort of crohn's patients: the importance of specific target antigens [GP2 and CUZD1][J].J crohns colitis, 2015,9(8): 659-68.   
+[17] Zaharie R,Tantau A,Zaharie F,et al.Diagnostic delay in romanian patients with inflammatory bowel disease:risk factors and impact on the disease course and need for surgery[J].J Crohns Colitis, 2016,10(3): 306-14.   
+[18] $\mathrm { N g }$ SC，Zeng Z,Niewiadomski O,et al． Early course of inflammatory bowel disease in a Population-Based inception cohort study from 8 countries in Asia and Australia[J].Gastroenterology, 2016,150(1): 86-95.e3;quiz e13-4.
+
+（编辑：吴锦雅）

@@ -1,0 +1,335 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "米诺环素抑制大鼠脊髓背角胶状质神经元的超极化激活电流",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "朱梦叶}，刘娜娜²，彭斯聪²,李凌超'，张达颖'，柳 涛²  \n南昌大学第一附属医院1疼痛科，²儿科,江西 南昌 330006",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的研究米诺环素对大鼠脊髓背角胶状质(SG)神经元超极化激活电流 $\\left( I _ { \\mathrm { h } } \\right)$ 的影响。方法 选取3\\~5周龄雄性SD大鼠，制作离体脊髓横切片，应用全细胞膜片钳技术记录SG神经元 $I _ { \\mathrm { h } }$ ,灌流不同浓度米诺环素 $( 1 { \\sim } 3 0 0 \\ \\mu \\mathrm { m o l / L } )$ 并观察其对 $I _ { \\mathrm { h } }$ 的影响。结果记录的SG神经元中约 $5 0 \\%$ 可记录到 $I _ { \\mathrm { h } }$ ，该电流被 $I _ { \\mathrm { h } }$ 阻断剂CsCl和ZD7288阻断。米诺环素可减低 $I _ { \\mathrm { h } }$ 幅值、减小 $I _ { \\mathrm { h } }$ 电流密度,此效应呈可逆性及剂量依赖性,半数有效抑制浓度 $\\left( \\mathrm { I C } _ { 5 0 } \\right)$ 为 $3 4 \\mu \\mathrm { m o l } / \\mathrm { L }$ 。结论 米诺环素具有抑制脊髓背角SG神经元 $I _ { \\mathrm { h } }$ 的作用,从而降低SG神经元兴奋性,对疼痛的调控具有重要的意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：米诺环素；超极化激活电流；脊髓背角胶状质神经元",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Minocycline reduces hyperpolarization-activated current in rat substantia gelatinosa neurons ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHUMengye,LIUNana’,PENGSicong²,LIingchao’,ZHANGDaying',LIao² DepartmentfinnicDepartmentofedatricsFistfilatedHospitalfcangesitycangin ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective To investigate the efect of minocycline on hyperpolarization-activated current $\\left( I _ { \\mathrm { h } } \\right)$ in the substantia gelatinosa (SG) neurons inrat spinal dorsal horn.Methods Invitro spinal cord transverse slices were prepared from 3-5-week-old male Sprague-Dawley rats. Using whole-cell patch clamp technique, $I _ { \\mathrm { h } }$ currents were recorded before and after bath application of minocycline $( 1 { - } 3 0 0 ~ \\mu \\mathrm { m o l / L } )$ to the SG neurons. Results $I _ { \\mathrm { h } }$ currents were observed in nearly $5 0 \\%$ of the recorded neurons,and were blocked by $I _ { \\mathrm { h } }$ blocker CsCl and ZD7288. Minocycline rapidly and reversibly reduced the amplitude of $I _ { \\mathrm { h } }$ and decreased the current density in a concentration-dependent manner with an $\\mathrm { I C } _ { 5 0 }$ of $3 4 \\ \\mathrm { \\mu m o l / L }$ . Conclusion Minocycline suppresss the excitability of SG neurons through inhibiting the amplitude and current density of $I _ { \\mathrm { h } }$ and thereby contributes to pain modulation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: minocycline; hyperpolarization-activated current; substantia gelatinosa ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "来诺环素是二代半合成四环素类抗生素，以往临床主要利用其抗菌作用而用于痤疮等疾病的治疗。近年来研究发现，除抗菌作用外，该药作为中枢神经系统小胶质细胞抑制剂，在缺血及外伤后脑损伤、脊髓损伤、以及阿尔兹海默症等脑退行性病变等疾病中发挥良好神经保护作用[1。此外,米诺环素在多种炎性痛及神经病理性痛模型中表现出良好的镇痛作用，主要机制可能与抑制小胶质细胞活化、减少炎性介质的释放和抑制胞内信号通路有关[2-4]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "脊髓背角分布有介导 $I _ { \\mathrm { h } }$ 的超极化激活环核苷酸门控阳离子(HCN)通道[5]。 $I _ { \\mathrm { h } }$ 具有稳定细胞膜静息电位、参与细胞动作电位编码等功能，对调控神经元兴奋性具有重要作用。脊髓背角Ⅱ层又称胶状质区(SG区），是伤害性信息向中枢传递的初级门户，主要由兴奋性中间神经元组成[，对疼痛的传入与整合具有重要调控作用。动物模型表明，腹腔或鞘内注射I抑制剂ZD7288可减轻部分坐骨神经结扎所致神经病理性痛及福尔马林所致炎性痛，并减少SG神经元自发性兴奋性突触后电流(sESPC)的发放频率，提示抑制突触前 $I _ { \\mathrm { h } }$ 可产生良好镇痛作用。在SG区，米诺环素可抑制低电压诱发EPSCs振幅，表明米诺环素通过突触前机制降低SG神经元兴奋性[8]。但是米诺环素对SG神经元突触后机制尤其是作用于HCN通道从而调节其兴奋性尚无报道。因此，我们采用全细胞膜片钳技术，研究米诺环素对大鼠SG神经元I的作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 溶液解剖液 s-ACSF(mmol/L:24O sucrose, $2 5 \\mathrm { N a H C O _ { 3 } }$ 2.5 KCl,1.25 NaHPO4· $2 \\mathrm { H } _ { 2 } \\mathrm { O }$ ，（ $) . 5 \\mathrm { \\ C a C l _ { 2 } } \\cdot 2 \\mathrm { H _ { 2 } O }$ ，3.5$\\mathrm { M g C l _ { 2 } \\cdot 6 H _ { 2 } O , }$ 0.4 ascorbic acid,2 pyruvate, $\\mathrm { p H } { = } 7 . 4$ $3 1 0 { \\mathrm { ~ m O s m } } ,$ ）；细胞外液ACSF(mmol/L:117NaCl,3.6KCl, 1. $\\mathrm { 2 \\ N a H _ { 2 } P O _ { 4 } { \\cdot } 2 H _ { 2 } O , 2 . 5 \\ C a C l _ { 2 } { \\cdot } 2 H _ { 2 } O , 1 . 2 \\ M g C l _ { 2 } { \\cdot } }$ $6 \\mathrm { H } _ { 2 } \\mathrm { O }$ ，25 ${ \\mathrm { N a H C O } } _ { 3 }$ ，11 glucose，O.4 ascorbic acid，2pyruvate, $\\mathrm { p H } { = } 7 . 4 , 3 1 0 \\ \\mathrm { m O s m } )$ ；电极内液(mmol/L：130K-gluconate,5KCl,0.5EGTA,10HEPES, $4 \\ : \\mathrm { M g }$ -ATP,0.3 Li-GTP,10 phosphocreatine, $\\mathrm { p H } { = } 7 . 2 , 3 0 0 \\ \\mathrm { m O s m } )$ ；米诺环素、ZD7288分别用去离子水配置成 $2 0 \\mathrm { m m o l } / \\mathrm { L }$ $1 0 \\ \\mathrm { m m o l / L }$ 的母液，分装后 $- 2 0 \\ ^ { \\circ } \\mathbf { C }$ 保存，实验当天用ACSF配置成终浓度;neurobiotin488用电极内液配置，其终浓度为 $0 . 1 \\%$ ;ZD7288 购自 Tocris,K-gluconate 购自Wako,neurobiotin488购自VECTOR,余试剂均购自Sigmao",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2脊髓标本的制备 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选取3\\~5周龄雄性SD大鼠（由江西中医药大学动物中心提供，证书编号2004-0009)，腹腔注射乌拉坦中 $( 1 . 2 ~ \\mathrm { g / k g } )$ 麻醉，用预先充氧（ $9 5 \\% 0 _ { 2 } + 5 \\% ($ CO的 $0 \\sim$ $4 \\mathrm { { ^ circ C } }$ S-ACSF行心脏灌流，灌流同时迅速分离脊柱旁肌肉、离断两侧肋骨，取出脊柱并完全浸入s-ACSF中；以腹侧入路切除椎板，以腰骶膨大部为中心取出脊髓(腰1-骶3)，剥离脊髓表面的硬脊膜、软脊膜及附着神经根，放置于琼脂块。以胶水将琼脂块及脊髓固定于载物台上，用振动切片机(VT1000S,Leica)切取 $3 0 0 ~ { \\mu \\mathrm { m } }$ 厚的脊髓横/纵切片(纵切片用于形态学研究)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3记录前准备 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将脊髓片置于 $3 2 \\mathrm { ^ \\circ C }$ 充氧的ACSF液体中孵育 $3 0 \\mathrm { m i n }$ 后，将其移入记录槽(体积约为 $0 . 5 ~ \\mathrm { m L }$ )，以ACSF液体持续灌流，速度约为 $3 { \\sim } 5 \\ \\mathrm { m L / m i n }$ O",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4全细胞膜片钳记录",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验在室温下( $2 2 { \\sim } 2 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ )进行。用电极拉制仪(P-97,Sutter)将玻璃微电极(TW150F-4,WPI)拉制成充灌电极内液后阻抗为 $3 { - } 6  { \\mathrm { M } } \\Omega$ 的微电极，在电压钳模式下进行全细胞膜片钳(EPC-10膜片钳放大器及Patchmaster记录软件)记录封接，封接成功后电极阻抗可上升至 $2 { \\sim } 5 \\mathrm { G } \\Omega$ ,此过程中进行快、慢电容补偿;破膜后电阻降至 $2 0 0 { \\sim } 5 0 0 \\mathrm { M } \\Omega$ ，对 $70 \\%$ 的串联电阻进行补偿。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "全细胞记录状态稳定约 $5 \\mathrm { m i n }$ 后可记录SG神经元$I _ { \\mathrm { h } }$ ：电压钳模式下将细胞钳制在 ${ \\cdot } 5 0 \\mathrm { m V }$ ,给予细胞一系列刺激时程 $1 0 0 0 ~ \\mathrm { { m s } }$ 间隔 $4 0 0 ~ \\mathrm { { m s } }$ 的超极化电压刺激（从 ${ \\cal - } 6 0 \\mathrm { \\sim } 1 3 0 \\mathrm { m V }$ ，阶跃为- $1 0 \\mathrm { m V }$ 以激活 $I _ { \\mathrm { h } }$ ,比较米诺环素给药 $\\left( 3 \\mathrm { m i n } \\right)$ 前后 $I _ { \\mathrm { h } }$ 的变化情况； $I _ { \\mathrm { h } }$ 幅值为电流到达稳态水平的稳态电流 $( I _ { \\mathrm { s s } } )$ 与电流激活起始时的瞬间电流$\\left( I _ { \\mathrm { i n s } } \\right)$ 之差;注入超极化电压刺激 $1 5 { \\sim } 2 0 ~ \\mathrm { m s }$ 后测量 $I _ { \\mathrm { i n s } }$ 以避免漏电流的影响9。电流钳模式下给予细胞一系列刺激时程 $1 0 0 0 \\mathrm { { m s } }$ 的超极化电流刺激（从 $\\mathrm { ( - 3 0 { \\sim } \\mathrm { - } 3 0 0 \\ p A }$ 阶跃为 ${ \\cdot 3 0 } \\mathrm { p A }$ )可记录到去极化\"sag”。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在 $ { . 1 3 0 \\mathrm { m V } }$ 电压下，以 $I _ { \\mathrm { h } }$ 起始后 $5 0 0 \\mathrm { m s }$ 的电流变化情况分析其激活时间常数，采用单指数方程拟合： $I _ { \\mathrm { h } } ( t ) \\mathrm { = }$ $A ^ { * } \\mathrm { e x p } ( - t / \\tau ) + C$ ，式中 $I _ { \\mathrm { h } } ( t )$ 为 $t$ 时的电流幅值，A为 $I _ { \\mathrm { h } }$ 幅值， $\\tau$ 为时间常数， $C$ 为 $I _ { \\mathrm { s s } } ^ { [ 9 ] }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5SG神经元形态学实验 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "部分细胞电极内液中加入 $0 . 1 \\%$ neurobiotin 488进行全细胞膜片钳记录至少 $1 0 ~ \\mathrm { m i n }$ ，并通过Meta-Fluo成像系统对所记录神经元进行图像采集。电生理记录完成后，将脊髓切片移入 $4 \\%$ 多聚甲醛中 $4 ^ { \\circ } \\mathrm { C }$ 固定1晚，以$0 . 0 1 \\mathrm { m o l / L }$ 的PBS（含 $0 . 0 2 \\% \\mathrm { N a N } _ { 3 }$ 清洗3次后封片，于激光共聚焦显微镜(LSM700，Zeiss)下观察神经元形态并进行分类[12-13]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.6统计学分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "所有数据均以均数+标准差表示，给药前后差异显著性采用t检验进行分析，以 $P { < } 0 . 0 5$ 为差异有统计学意义，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1大鼠脊髓SG神经元I的电生理学特点",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "低倍显微镜(BX51WI,Olympus)下脊髓背角Ⅱ层为半透明区（图1Aa)；高倍红外微分干涉相差镜(IR-1000,Dage-MIT)下观察该区神经元形态，选择轮廓清晰光滑、立体感好、有相对完好突起的健康神经元进行全细胞膜片钳记录，电极尖端轻触细胞时可在神经元表面形成小凹(图1Ab)。与以往研究类似，在电流钳下，给予一系列超极化电流刺激后，可记录到去极化sag(图1B);当给同一细胞予电压钳时，可记录到一系列随电压脉冲变化的 $I _ { \\mathrm { h } }$ 电流(图1C)。本实验中，约 $5 0 \\%$ (113/210)的SG神经元可记录到 $I _ { \\mathrm { h } }$ ，我们选取表达 $I _ { \\mathrm { h } }$ 的细胞进行下一步实验。为确定该内向电流是否为 $I _ { \\mathrm { h } }$ 我们在灌流液中加入HCN通道非特异阻滞剂 $\\mathbf { C s C l }$ 0 $\\mathrm { 1 ~ m m o l / L } , 3 \\mathrm { ~ m i n } ,$ 或特异性阻滞剂 $\\mathrm { Z D 7 2 8 8 } ( 1 0 ~ \\mathrm { \\mu m o l / L }$ $6 \\mathrm { m i n }$ )，发现该电流可显著被阻断， $\\mathbf { C } \\mathbf { s } \\mathbf { C } \\mathbf { l }$ 的阻断作用迅速且可逆，而ZD7288对 $I _ { \\mathrm { h } }$ 的阻断作用缓慢持久(图2)。为排除我们记录的 $I _ { \\mathrm { h } }$ 中是否混有其它如钙或钾通道电流，我们在灌流液中分别加入钙及钾通道阻滞剂 $\\mathrm { N i C l } _ { 2 }$ (0.1mmol/L)、4-AP(1mmol/L)、TEA(20mmol/L)及$\\mathrm { B a C l } _ { 2 } ( 1 \\ \\mathrm { m m o l } / \\mathrm { L } )$ ，结果发现以上4种药物对 $I _ { \\mathrm { h } }$ 无显著影响(表1)，表明我们记录的 $I _ { \\mathrm { h } }$ 为HCN通道介导。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2米诺环素对SG神经元 $I _ { \\mathrm { h } }$ 具有可逆性抑制作用",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "全细胞封接、破膜完成后，给予神经元上述超极化电压刺激，将ACSF灌流时所得 $I _ { \\mathrm { h } }$ 记为对照组。以 $4 0 \\mu \\mathrm { m o l } \\mathrm { L }$ 的米诺环素灌流 $3 \\mathrm { m i n }$ 后 $I _ { \\mathrm { h } }$ 幅值逐渐减小，在灌流后 $1 \\sim$ $3 \\mathrm { m i n }$ 达到作用峰值，其幅值降至用药前 $( 7 1 \\pm 2 . 4 ) \\% ( n =$ 11 $1 1 , P { < } 0 . 0 0 1 \\rangle$ ，洗脱后完全恢复 $( 9 7 \\pm 1 . 8 ) \\%$ （图3)。同时，米诺环素可显著减小钳制电位为 ${ \\cdot 1 3 0 { \\sim } { \\mathrm { - } } 1 0 0 \\ \\mathrm { m V } }$ 时的 $I _ { \\mathrm { h } }$ 电流密度(图3D)。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/220cc29608fec6bcfb35ce122fa92a96635586e8e8697e783c8315ade23ce32b.jpg",
+        "img_caption": [
+            "图1大鼠脊髓背角SG神经元显微镜下形态及神经元 $I _ { \\mathrm { h } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Morphologic features and representative $I _ { \\mathrm { h } } / \\mathrm { s a g }$ in SG neurons of rat spinal cord.A: IR-DIC and Meta-Fluo images showingtheSGand the positionof the recording electrodeonaSG neuron inaspinaltransverse slice.Acis the same cel revealed by intracellular dialysis with neurobiotin 48810 minafter whole-cellconfiguration.B:Voltage sag of SG neuron evoked by a series of hyperpolarizing current steps under current-clamp mode.C: $I _ { \\mathrm { h } }$ currents activated by $1 0 0 0 ~ \\mathrm { { m s } }$ hyperpolarizing voltage steps from $^ { - 6 0 }$ to $- 1 3 0 \\mathrm { m V }$ in $- 1 0 \\mathrm { m V }$ increment. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f3db4253cd2cd0a75feef3e65da4821233bc39bfe3b1498f42f0cb1b2b0b0aa3.jpg",
+        "img_caption": [
+            "图2CsCI及ZD788显著抑制SG神经元 $I _ { \\mathrm { h } }$ ",
+            "Fig.2 CsCl and ZD7288 inhibited $I _ { \\mathrm { h } }$ in SG neurons. $A$ ：Representative current traces of $I _ { \\mathrm { h } }$ measured in ACSF (left),in the presence (middle) and washout (right) of $1 0 \\ \\mathrm { \\textmu m o l / L }$ ZD7288 for the time indicated.B: Bar graphs showing the effect of ZD7288 on $I _ { \\mathrm { h } }$ inhibition $( n { = } 5 )$ . C:Representative current traces of $I _ { \\mathrm { h } }$ measured in ACSF (left), $3 \\mathrm { m i n }$ after addition of 1 mmol/ L CsCl (middle),or after washout of $\\boldsymbol { \\mathrm { C s C l } }$ (right). D: Bar graphs showing the effect of $\\boldsymbol { \\mathrm { C s C l } }$ on $I _ { \\mathrm { h } }$ inhibition $( n { = } 5 )$ . In this and subsequent figures,vertical lines accompanied by bars indicate SEM; $^ { * } P { < } 0 . 0 5 ,$ $^ { * * } P { < } 0 . 0 1$ ： ${ } ^ { * * * } P { < } 0 . 0 0 1$ ；n.s.: No significant difference. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3米诺环素对SG神经元 $I _ { \\mathrm { h } }$ 呈剂量依赖性抑制同一神经元在不同米诺环素浓度 $( 1 { \\sim } 3 0 0 \\ \\mu \\mathrm { m o l / L } )$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "灌流后给予重复超极化刺激，记录所得电流。米诺环素$4 0 . 1 0 0 \\ \\mathrm { \\textmu m o l / L }$ 可分别使钳制电压为- $1 3 0 ~ \\mathrm { m V }$ 时的 $I _ { \\mathrm { h } }$ 幅值降至用药前 $( 7 1 { \\pm } 0 . 0 2 ) \\% ( n { = } 1 1 )$ 、 $( 6 4 { \\pm } 0 . 2 4 ) \\% ( n { = } 1 4 )$ 用Hill方程进行拟合，得到米诺环素对 $I _ { \\mathrm { h } }$ 抑制作用的$\\mathrm { I C } _ { 5 0 }$ 约为 $3 4 \\mathrm { \\mu m o l / L }$ ,Hill相关系数为1.921(图4)。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e994624166c527452d3dce834cf6cbb08b7927a94887a61e8b7386f1337eaad4.jpg",
+        "table_caption": [
+            "表1 $\\mathrm { N i C l } _ { 2 \\setminus 4 }$ -AP、TEA及 $\\mathbf { B a C l } _ { 2 } .$ 对I的作用Tab.1 Effect of $\\mathrm { N i C l _ { 2 } } ,$ 4-AP, TEA and $\\mathrm { B a C l } _ { 2 }$ on $I _ { \\mathrm { h } }$ amplitude(Mean±SE)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>n</td><td>Pre-application(pA)</td><td>Post-application(pA)</td></tr><tr><td>NiCl2</td><td>5</td><td>31.43±6.97</td><td>30.63±6.79</td></tr><tr><td>4-AP</td><td>4</td><td>39.16±7.19</td><td>38.86±7.70</td></tr><tr><td>TEA</td><td>3</td><td>34.13±6.46</td><td>34.81±7.28</td></tr><tr><td>BaCl2</td><td>3</td><td>55.45±21.05</td><td>55.83±20.76</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4大鼠SG神经元形态分类及各类神经元 $I _ { \\mathrm { h } }$ 特性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "介导 $I _ { \\mathrm { h } }$ 电流的HCN通道有4种亚型(HCN1-4)，为进一步明确SG表现出 $I _ { \\mathrm { h } }$ 的神经元类型及HCN通道亚型，我们对神经元形态及 $I _ { \\mathrm { h } }$ 的激活时间常数进行了分",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/99701b8dd9f2cfee88168eed7a9899bf987f6349b13a8af8dcb84348c9aa48e4.jpg",
+        "img_caption": [
+            "图3米诺环素 $4 0 \\mu \\mathrm { m o l } / \\mathrm { L }$ 显著抑制SG神经元 $I _ { \\mathrm { h } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c8548234c62dbe682a3b541b1d769f0de364d2d954685138961fba85db621c85.jpg",
+        "img_caption": [
+            "Fig.3 Minocycline $( 4 0 ~ \\mu \\mathrm { m o l / L } )$ significantly inhibited $I _ { \\mathrm { h } }$ in SG neurons.A: Representative superimposed $I _ { \\mathrm { h } }$ tracesat $- 1 3 0 ~ \\mathrm { m V }$ in the absence (red),presence (purple),and washout (green) of minocycline $( 4 0 \\ \\mu \\mathrm { m o l / L } ,$ $3 \\mathrm { m i n }$ )showing thatminocycline-induced $I _ { \\mathrm { h } }$ inhibition was reversible. $B$ ：Time course of the effect of minocycline on $I _ { \\mathrm { h } }$ amplitude. C: Summary of $I _ { \\mathrm { h } }$ amplitude before, during and after exposure to minocycline ( $\\scriptstyle \\overbrace { n { = } 1 } 1 .$ $P { < } 0 . 0 0 1$ ） $D$ ：Plotof $I _ { \\mathrm { h } }$ current density versus membrane potential; the current density (at $- 1 3 0 \\mathrm { m V } ,$ （204号 $- 1 2 0 \\mathrm { m V } ,$ $- 1 1 0 \\mathrm { m V }$ and $- 1 0 0 \\mathrm { m V }$ )was significantly decreased compared with the control (n=11). ",
+            "图4米诺环素对SG神经元 $I _ { \\mathrm { h } }$ 的抑制呈剂量依赖关系",
+            "Fig.4 Minocycline inhibited $I _ { \\mathrm { h } }$ of SG neurons in a concentration-dependent manner.A: Superimposed $I _ { \\mathrm { h } }$ traces at $- 1 3 0 ~ \\mathrm { m V }$ before (red) and after application of minocycline at different concentrations (blue: 40 $\\mu \\mathrm { m o l } / \\mathrm { L } ;$ green: $1 0 0 \\ \\mathrm { \\textmu m o l / L }$ ,and washout (gray).B:Dose-response curve for the effects of minocycline on $I _ { \\mathrm { h } }$ .The curve was fitted by Hill equation $( \\mathrm { I C _ { 5 0 } } { = } 3 4 ~ \\mu \\mathrm { m o l / L } )$ ： $y { = } I _ { \\mathrm { m a x } } / ( 1 { + } \\mathrm { I C } _ { 5 0 } / x ) ,$ .where $x$ is minocycline concentration ( $\\mathrm { i n \\mu m o l / L }$ ).Each point represents the average of 3 to 14 cells. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "析。本实验中,参照Yasaka等的分类方法[12-13],SG神经元根据胞体大小、树突分布及轴突走形等特征分为islet、vertical、central、radial和unclassified五大类（图",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5A)，各类神经元均不同比例地表达I(图5B)。另外，不同形态SG神经元 $I _ { \\mathrm { h } }$ 激活时间常数主要集中于40\\~400（ $2 1 7 . 2 { \\pm } 3 3 . 2 \\rangle$ ms(图5C)。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6acf2cd0649c9df6579a40619df46bb5e00711a060b9e5f8d223d1999a0e3ac3.jpg",
+        "img_caption": [
+            "图5大鼠SG神经元形态分类及各类神经元I特性",
+            "Fig.5 Morphology of rat SG neurons and properties of $I _ { \\mathrm { h } }$ in 5 types of SG neurons.A: Representative confocal images showing the morphology of SG neurons which were classified as: islet,vertical,central,radial,and unclassified. ${ \\mathrm { B a r } } { = } 5 0 ~ { \\mu \\mathrm { m } }$ ： $B$ ：Histogram showing numbers of neurons showing $I _ { \\mathrm { h } }$ or not with respect to cell morphological classification. C:Histogram showing $\\tau$ values (obtained at $- 1 3 0 \\mathrm { m V }$ )in the 5 types of rat SG neurons.Dashed inset in C showed representative $I _ { \\mathrm { h } }$ currents with different $\\tau$ values. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本实验以离体大鼠脊髓背角SG神经元为标本，研究了米诺环素对 $I _ { \\mathrm { h } }$ 的作用。主要结果有：(1)大鼠脊髓背角SG神经元 $I _ { \\mathrm { h } }$ 基本特征与背根神经节(DRG)等其他神经元一致，即能被 $\\mathrm { C s C l } \\sqrt { \\mathrm { , } Z _ { \\mathrm { Ḋ } } 7 2 8 8 }$ 所阻断而不为 $\\mathrm { N i C l } _ { 2 }$ 、4-AP、TEA、 $\\mathrm { . B a C l _ { 2 } }$ 等影响;(2)米诺环素对大鼠SG神经元 $I _ { \\mathrm { h } }$ 的抑制作用呈可逆性及剂量依赖性；(3)大鼠SG不同形态的神经元均不同比例地表达 $I _ { \\mathrm { h o } }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "脊髓背角SG区接收、整合并向中枢高级部位投射由外周不同传入神经(主要为C纤维及A8纤维)介导的伤害性信息，同时汇聚着来自脑干和大脑皮质的下行抑制性投射神经纤维;其作为“闸门控制理论\"的核心组成部分在慢性疼痛的起病与维持过程中发挥至关重要的作用[14]。近年随着方法学的改进、神经科学领域的发展，关于SG神经元的形态、神经递质、功能及细胞间相互联系等的研究不断深人，经典的\"闸门控制理论\"在受到质疑的同时也被不断补充完善[13.15-17];但直至今日，SG区在疼痛传递及调制中的重要意义依旧毫无争议。Santos等研究表明，SG神经元中 $8 5 \\%$ 为兴奋性中间神经元，因此，降低SG神经元的兴奋性，对疼痛治疗具有重大的意义。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$I _ { \\mathrm { h } }$ 是由HCN通道介导的超极化电压激活的内向电流，通过负反馈调节机制发挥稳定细胞膜静息电位、整合突触信息等功能，并参与中脑导水管周围灰质、DRG等痛觉传导区域神经元兴奋性的调控； $I _ { \\mathrm { h } }$ 振幅、频率及激活动力学特性的改变可能是病理痛外周及中枢敏化的机制之—[18-19]。Yasaka及Tadros等[13.20]的电生理研究对SG区 $I _ { \\mathrm { h } }$ 的比例进行了报道，尽管他们的研究结果存在差异，但都提示该区域 $I _ { \\mathrm { h } }$ 的表达与部分神经元功能活动调节密切相关。本研究中，SG区表现 $I _ { \\mathrm { h } }$ 的神经元比例约占 $5 0 \\%$ 左右，且五种不同形态类型的SG神经元均存在 $I _ { \\mathrm { h o } }$ 以往研究指出，SG区islet、radial神经元分别为抑制性和兴奋性中间神经元，vertical神经元则以兴奋性为多(约 $80 \\%$ ),而central及unclassified中两种类型神经元比例相近[13]。因此,我们认为，虽 $I _ { \\mathrm { h } }$ 在各类神经元中均有表达，但参照以往的文献，本研究中表达I的SG神经元仍以兴奋性神经元为主。疼痛状态下I参与调节SG神经元兴奋性的改变，鞘内或静脉注射ZD7288可有效缓解神经病理性痛或炎性痛小鼠的机械及热痛敏，体外灌流ZD7288可减少SG神经元兴奋性突触后电流频率7。由此推测,抑制SG神经元I进而改变动作电位发放可能会发挥良好的中枢镇痛作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "近年研究发现，小胶质细胞的激活是神经病理性痛发生发展的必要条件，其抑制剂米诺环素在多种疼痛动物模型中的良好镇痛效应已得到验证2。同时，米诺环素的临床镇痛疗效在最新一项对坐骨神经痛患者进行的临床试验中亦已证实[21]。大量研究通过应用免疫组化、Western、PCR等技术方法指出，米诺环素可通过抑制脊髓背角小胶质细胞活化[2]、减少TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 、IL-1β及脑源性神经营养因子等多种炎性介质的表达及释放[3.22]、抑制p38MAPK、JNK等多条胞内信号通路[4.23]而产生镇痛作用。除作用于胶质细胞外,近年有学者发现米诺环素可直接作用于神经元并调节其兴奋性。鞘内注射米诺环素可通过降低炎性痛大鼠SG神经元EPSCs频率而抑制动物热痛敏反应[24]。我们的前期研究显示，米诺环素可阻断炎性介质IL-1β对兴奋性神经递质AMPA诱发电流的增强作用、降低NMDA诱导电流峰值振幅[25]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本实验中，米诺环素可减低 $I _ { \\mathrm { h } }$ 幅值、减小 $I _ { \\mathrm { h } }$ 电流密度，且该作用呈剂量依赖性， $\\mathrm { I C } _ { 5 0 }$ 约为 $3 4 \\mu \\mathrm { m o l / L }$ ;我们推测对SG区HCN通道的抑制可能是其镇痛的作用机制之一。由于米诺环素抑制 $I _ { \\mathrm { h } }$ 作用迅速且呈可逆性，我们认为与以往报道的米诺环素对胶质细胞的抑制作用无关。近年免疫组化实验证实，HCN通道的四种亚型在脊髓背角均有分布，其中SG区又以HCN2为主[5.26]。Santoro等应用PCR分析脊髓背角HCN各亚型的mRNA表达情况后发现，该区HCN2表达量最多，其次为 $\\mathrm { H C N } 1 ^ { [ 2 7 ] }$ 。而不同通道介导的 $I _ { \\mathrm { h } }$ 激活时间常数存在明显差异,HCN1激活时间常数最快、HCN4最慢[28]。本研究中，约 $4 0 \\%$ I的激活时间常数较为迅速，为HCN1介导。 $5 0 \\%$ 相对缓慢，可能由HCN2介导。因此，我们初步推测米诺环素可作用于SG神经元HCN1、HCN2通道,从而对疼痛进行调控，但其对HCN通道作用的确切亚型及具体胞内、胞外位点有待进一步研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究首次阐明了米诺环素对脊髓背角SG神经元 $I _ { \\mathrm { h } }$ 的抑制作用，不仅有助于进一步了解米诺环素镇痛的脊髓机制，而且为其临床应用提供新的理论依据。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：   \n[1]Garrido-Mesa N, Zarzuelo A, Galvez J. Minocycline: far beyond an antibiotic[J].BrJPharmacol,2013,169(2): 337-52.   \n[2]Ikeda H,Kiritoshi T,Murase K.Contribution of microglia and astrocytes to the central sensitization,inflammatory and neuropathic pain in the juvenile rat[J].Mol Pain,2012,8: 43.   \n[3] Amin B,Hajhashemi V, Hosseinzadeh H,et al. Antinociceptive evaluationofceftriaxoneandminocyclinealoneandin combination in a neuropathic pain model in rat[J].Neuroscience, 2012,224: 15-25.   \n[4]Chang YW,Waxman SG. Minocycline attenuates mechanical alldynia and central sensitization following peripheral seconddegree burn injury[J].JPain,2010,11(11): 1146-54.   \n[5]Papp I, Szucs P, Holl6 K,et al.Hyperpolarization-activated and cyclic nucleotide-gated cation Channel subunit 2 ion channels modulate synaptic transmission from nociceptive primary afferents containing substance P to secondary sensory neurons in laminae I-IIo of the rodent spinal dorsal Horn[J].Eur JNeurosci,2006,24 (5): 1341-52.   \n[6]Santos SF,Rebelo S,Derkach VA,et al.Excitatory interneurons dominate sensory processing in the spinal substantia gelatinosa of rat[J]. JPhysiol,2007,581(Pt 1): 241-54.   \n[7]Takasu K, Ono H, Tanabe M. Spinal hyperpolarization-activated cyclicnucleotide-gated cation channelsat primary afferent terminals contribute to chronic pain[J].Pain,2010,151(1):87-96.   \n[8]Cho IH,Chung YM,Park CK,et al. Systemic administration of minocycline inhibits formalin-induced inflammatory pain in rat[J]. Brain Res,2006,1072(1): 208-14.   \n[9]Gao LL,Mcmullan S,Djouhri L,et al.Expression and properties of hyperpolarization-activated current in rat dorsal root ganglion neurons with known sensory function[J].JPhysiol,2012,590(19): 4691-705.   \n[10]Liu Z,Bunney EB,Appel SB,et al. Serotonin reduces the hyperpolarization-activated current (h） in ventral tegmental area dopamine neurons:involvement of 5-HT2 receptors and protein kinase C[J]. JNeurophysiol,2003,90(5): 3201-12.   \n[11]Kwak J. Capsaicin blocks the Hyperpolarization-Activated inward currents via TRPV1 in the rat dorsal root ganglion neurons[J].Exp Neurobiol,2012,21(2): 75-82.   \n[12]YasakaT, KatoG,Furue H, et al. Cel-type-specificexcitatoryd inhibitory circuits involving primary afferents in the substantia gelatinosa of the rat spinal dorsal Horn in vitro[J].JPhysiol,2007, 581(2): 603-18.   \n[13] Yasaka T,Tiong SY,Hughes DI,etal.Populations of inhibitory and excitatory interneurons in lamina II of the adult rat spinal dorsal Horn revealed by a combined electrophysiological and anatomical approach[J].Pain,2010,151(2): 475-88.   \n[14]王群,吕 岩.疼痛特异性学说与闸门控制学说:争论还在持续[J].中 国疼痛医学杂志,2014,9(9): 609-13.   \n[15] Todd AJ. Neuronal circuitry for pain processing in the dorsal Horn [J].Nat Rev Neurosci,2010,11(12): 823-36.   \n[16]Lu Y,Dong H,Gao Y, et al. Afeed-forward spinal cord glycinergic neural circuit gates mechanical allodynia[J].J Clin Invest,2013,   \n[17]Braz J,Solorzano C,Wang X,et al. Transmitting pain and itch messages:a contemporary view of the spinal cord circuits that generate gate control[J].Neuron,2014,82(3): 522-36.   \n[18]Du L,Wang SJ,Cui J,et al. The role of HCN channels within the periaqueductal gray in neuropathic pain[J].Brain Res,2O13,1500: 36-44.   \n[19]Emery EC,Young GT,Berrocoso EM,et al.HCN2 ion channels playa central role in inflammatory and neuropathic pain [J]. Science,2011,333(648):1462-6.   \n[20]Tadros MA,Harris BM,Anderson WB,et al.Are all spinal segments equal: intrinsic membrane properties of superficial dorsal Horn neurons in the developing and mature mouse spinal cord[J]. J Physiol,2012,590(Pt10): 2409-25.   \n[21] Sumracki NM,Hutchinson MR,Gentgall M,et al. The effects of pregabalin and the glial attenuator minocycline on the response to intradermal capsaicin in patients with unilateral sciatica[J].PLoS One,2012,7(6): e38525.   \n[22] Zhang X,Xu YM,Wang J,et al.The effect of intrathecal administration of glial activation inhibitors on dorsal Horn BDNF overexpression and hind paw mechanical allodynia in spinal nerve ligated rats[J].JNeural Transm,2012,119(3): 329-36.   \n[23] Zhuang ZY,Wen YR, Zhang DR,et al.A peptide c-Jun N-terminal kinase (JNK） inhibitor blocks mechanical allodynia after spinal nerve ligation: respective roles of JNK activation in primary sensory neuronsand spinal astrocytes for neuropathic pain development and maintenance [J].J Neurosci,2Oo6，26(13): 3551-60.   \n[24]Huang CY,Chen YL,Li AH,et al. Minocycline,a microglial inhibitor,blocks spinal CCL2-induced heat hyperalgesiaand augmentation of glutamatergic transmission in substantia gelatinosa neurons[J].JNeuroinflammation,2O14,11:7.   \n[25]Liu T,Jiang CY,Fujita T,et al. Enhancement by interleukin- $1 \\beta$ of AMPA and NMDA receptor-mediated currents in adult rat spinal superficial dorsal Horn neurons[J].Mol Pain,2O13,9:16.   \n[26]Antal M,Papp I,Bahaerguli N,et al．Expressionof hyperpolarization-activated and cyclic nucleotide-gated cation Channel subunit 2 in axon terminals of peptidergic nociceptive primary sensory neurons in the superficial spinal dorsal Horn of rats [J].Eur J Neurosci,2004,19(5):1336-42.   \n[27] Santoro B,Chen S,Luthi A,et al．Molecular and functional heterogeneity of hyperpolarization-activated pacemaker channels in the mouse CNS[J].JNeurosci, 2000,20(14): 5264-75.   \n[28]Jiang YQ,Sun Q,Tu HY,et al. Characteristics of HCN channels and their participation in neuropathic pain[J].Neurochem Res, 2008,33(10):1979-89. (编辑：吴锦雅） ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

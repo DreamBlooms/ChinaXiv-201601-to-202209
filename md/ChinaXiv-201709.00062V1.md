@@ -1,0 +1,157 @@
+# A Model for Neutrino Warm Dark Matter and Neutrino Oscillations
+
+Chun Liu $\mathbf { \omega } ^ { a }$ and Jeonghyeon Song $b$ （204号 $a$ Institute of Theoretical Physics, Chinese Academy of Sciences, P.O. Box 2735, Beijing 100080, China $b$ Korea Institute for Aduanced Study, 207-43 Cheongryangri-dong, Dongdaemun-gu, Seoul 130-012, Korea
+
+# Abstract
+
+The muon- and tau-neutrinos with the mass in the keV range,which are allowed in a low reheating temperature cosmology, can compose the warm dark matter of the universe. A model of four light neutrinos including the keV scale $\nu _ { \mu }$ and $\nu _ { \tau }$ is studied,which combines the seesaw mechanism and the Abelian flavor symmetry. The atmospheric neutrino anomaly is due to the $\nu _ { \mu } - \nu _ { \tau }$ oscillation.The solar neutrino problem is answered by the oscillation into the light sterile neutrino, where the SMA, LMA,and LOW-QVO solutions can be accommodated in our scenario.   
+PACS numbers: 14.60.Pq,11.30Hv, 95.35+d, 14.60.St.
+
+Cosmological studies show increasing evidences that the dark matter is in fact warm, neither cold nor hot, so as to explain the observed structure and behavior of the expanding universe [1]. In particle physics, as the candidates of the warm dark matter (WDM), gravitinos or sterile neutrinos with masses in the keV range have been proposed. In this paper, we consider the possibility that the ordinary active neutrinos are the WDM.
+
+Experiments have provided various constraints on the neutrino mass spectrum. From the direct experimental search，we have $m _ { \nu _ { 1 } } \lesssim 2 . 5 \ \mathrm { e V }$ ， $m _ { \nu _ { 2 } } \lesssim 1 7 0 \mathrm { ~ k ~ }$ eV and $m _ { \nu _ { 3 } } \lesssim 1 5 . 5$ （20 MeV [2]. More information comes from the neutrino oscillation experiments. The SuperKamiokande (Super-K) data for the atmospheric neutrino anomaly suggest that the $\nu _ { \mu }$ is maximally mixed with $\nu _ { x }$ ( $x \neq e$ ）with $\Delta m _ { \mu x } ^ { 2 } \simeq 2 . 2 \times 1 0 ^ { - 3 } ~ \mathrm { e V ^ { 2 } }$ [3]． And the $x = \tau$ case is strongly favored [4]. The solar neutrino deficit [5] may imply the oscillation of $\nu _ { e }$ into $\nu _ { y }$ There are several alowed parameter regions. For example, if the $\nu _ { y }$ is a sterile neutrino, the currently favored solution is the small mixing angle (SMA) with $\Delta m _ { e y } ^ { 2 } \simeq 5 \times 1 0 ^ { - 6 } ~ \mathrm { e V ^ { 2 } }$ （204号 and $\tan ^ { 2 } \theta _ { e y } \simeq 1 0 ^ { - 3 }$ . If one experiment among Super-K, Ga and Cl is removed from the data analysis, the large mixing angle (LMA) solution with $\Delta m ^ { 2 } \simeq 1 0 ^ { - 5 } - 1 0 ^ { - 4 } ~ \mathrm { e V ^ { 2 } }$ and the low-mass and quasi-vacuum oscillation (LOW-QVO) solution with $\Delta m ^ { 2 } \simeq 1 0 ^ { - 1 0 } - 1 0 ^ { - 7 } ~ \mathrm { e V ^ { 2 } }$ （204号 are also allowed. The LSND experiment has reported positive appearance results of $\bar { \nu } _ { \mu } \to \bar { \nu } _ { e }$ oscillations, which implies $\Delta m _ { e \mu } ^ { 2 } \simeq 1 ~ \mathrm { e V ^ { 2 } }$ and $\sin ^ { 2 } ( 2 \theta _ { e \mu } ) \simeq 1 0 ^ { - 2 }$ [6]. However, a large part of its parameter space is excluded by the null results of the KARMEN data [7].
+
+One of the most stringent constraints on the neutrino mass comes from the cosmological consideration to avoid over-closing the universe. In the standard cosmology [8],the stable neutrinos should be no heavier than 2O eV. Recently it has been shown that if the reheating temperature $T _ { R H }$ is low, the densities of neutrinos can become much less than usually assumed [9,10]. The cosmological constraint is very much relaxed. Indeed, for 1 MeV $\lesssim { ^ { T } R H } \lesssim 3$ MeV, the abundance of tau- and muon-neutrinos is [11]
+
+$$
+\Omega _ { \nu _ { \tau } } h ^ { 2 } = \Omega _ { \nu _ { \mu } } h ^ { 2 } = \left( \frac { m _ { \nu } } { 4 \mathrm { \ k e V } } \right) \left( \frac { T _ { R H } } { 1 \mathrm { \ M e V } } \right) ^ { 3 } .
+$$
+
+This leads to Ref. [11] taking $\nu _ { \mu }$ and $\nu _ { \tau }$ as the WDM.
+
+The above WDM consideration makes the neutrino mass pattern quite unique. First the Super-K results constrain the mass of both $\nu _ { \mu }$ and $\nu _ { \tau }$ around keV scale [4]. Their mass-squared difference of order $1 0 ^ { - 3 }$ （ $\mathrm { e V ^ { 2 } }$ implies that the masses of $\nu _ { \mu }$ and $\nu _ { \tau }$ are highly degenerate. In this case, the solar neutrino problem can only be understood by introducing a light sterile neutrino, $\nu _ { s }$ . The $\nu _ { e }$ (and in the large mixing case the $\nu _ { s }$ ）should be lighter than eV order, for the consistence with the laboratory experiments of $m _ { \nu _ { e } }$ . The LSND result, however,cannot be compatible with the presence of keV scale muon-neutrinos. Instead the mixing between the $\nu _ { \mu }$ and $\nu _ { e }$ should be very small, as expected from the keV scale mass of （20 $\nu _ { \mu }$ and the sub-eV scale mass of $\nu _ { e }$
+
+In this paper, a four light neutrino model is built to give the above-mentioned neutrino mass pattern. How to construct the mass spectrum of four light neutrinos with hierarchies is a theoretically challenging problem. We extend a method proposed in Ref. [12]. It simply incorporates the seesaw mechanism [13] with flavor symmetry [14]. Introducing three righthanded neutrinos and assuming singularity in both the Dirac and Majorana mass matrices, the neutrino mass matrix has approximately the following form:
+
+$$
+\begin{array} { r } { { \mathcal M } = \left( \begin{array} { l l l l l l } { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\ { 0 } & { 0 } & { 0 } & { 0 } & { m _ { 2 2 } } & { m _ { 2 3 } } \\ { 0 } & { 0 } & { 0 } & { 0 } & { m _ { 3 2 } } & { m _ { 3 3 } } \\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\ { 0 } & { m _ { 2 2 } } & { m _ { 3 2 } } & { 0 } & { M _ { 2 2 } } & { M _ { 2 3 } } \\ { 0 } & { m _ { 2 3 } } & { m _ { 3 3 } } & { 0 } & { M _ { 2 3 } } & { M _ { 3 3 } } \end{array} \right) . } \end{array}
+$$
+
+In this mass spectrum, there are two heavy neutrinos of masses $\sim M$ ， two light neutrinos of masses $\sim \ m ^ { 2 } / M$ ， and two massless neutrinos； three mass scales, $M$ ， $m ^ { 2 } / M$ ，and 0, characterizes this model. Thus the four light neutrinos are naturally divided into two pairs with a mass gap of $\sim m ^ { 2 } / M$ , and each pair consists of two degenerate mass eigenstates.
+
+Abelian flavor symmetry [14] can be used to generate such a neutrino mass matrix. Furthermore this symmetry should also provide the maximal mixing for the atmosphere neutrino anomaly which is not guaranteed in the form of $\mathcal { M }$ in Eq. (2). A softly breaking of the symmetry is necessary to generate small masses for two massless neutrinos and to lift the degeneracy in each pair. In the following discussion, supersymmetry is implied. The flavor symmetry is spontaneously broken by a vacuum expectation value (VEV) of an electroweak singlet field $X$ . As long as the favor charges balance under the symmetry, the follwing interactions are allowed:
+
+$$
+L _ { \alpha } H N _ { \beta } \left( \frac { \langle X \rangle _ { \mathrm { V E V } } } { \Lambda } \right) ^ { m _ { \alpha \beta } } , \quad M N _ { \alpha } N _ { \beta } \left( \frac { \langle X \rangle _ { \mathrm { V E V } } } { \Lambda } \right) ^ { n _ { \alpha \beta } } ,
+$$
+
+where $L _ { \alpha }$ ( $\alpha = e , \mu , \tau ,$ ), $H$ and $N _ { \alpha }$ denote the lepton doublets,a Higgs field,and the righthanded neutrino fields, respectively. The $\Lambda$ is the flavor symmetry breaking scale,and the （20 $m _ { \alpha \beta }$ and $n _ { \alpha \beta }$ are non-negative integers, required for the holomorphy of the superpotential. The order parameter for this new symmetry is defined by
+
+$$
+\lambda \equiv \frac { \langle X \rangle _ { \mathrm { V E V } } } { \Lambda } \ll 1 ,
+$$
+
+which is a typical order of Cabbibo angle $\sim 0 . 1$
+
+The assignment of the Abelian flavor charges relevant to Eq. (2) and to maximal $\nu _ { \mu } - \nu _ { \tau }$ mixing is assumed to be
+
+$$
+\begin{array} { l } { { L _ { e } ( z + 1 / 2 ) , L _ { \mu } ( a ) , L _ { \tau } ( - a ) , } } \\ { { { } } } \\ { { E _ { e } ^ { c } ( - z + 9 / 2 ) , E _ { \mu } ^ { c } ( - a + 3 ) , E _ { \tau } ^ { c } ( a + 2 ) , } } \\ { { { } } } \\ { { N _ { e } ( x - 1 / 2 ) , N _ { \mu } ( - a ) , N _ { \tau } ( a ) , X ( - 1 ) , } } \end{array}
+$$
+
+with the positive integers $a$ and $x ( > a > 1 )$ . The sign of the integer $z$ is to be set later The $E _ { \alpha } ^ { \mathrm { r } c }$ 's in Eq. (5) are the anti-particle fields of the SU(2) singlet charged leptons. In order to obtain the physical mixing angles of neutrinos, the charged lepton mass matrix should be simultaneously taken into account. The gauge and Higgs bosons possess vanishing flavor charges. Note that the favor charges for the first generation are half-integers while those for the second and third generations are integers expressed by a single parameter $a$ . Compared to analogous analysis for three light neutrino scenario, the choice of the flavor charges here is more limited. One tricky point is that one of the right-handed neutrino masses is made to be vanishingly small $( \ll m ^ { 2 } / M$ ）
+
+The flavor charge assignment in Eq. (5) produces the Dirac and Majorana mass matrices of neutrinos as
+
+$$
+\mathcal { M } _ { D } = m \left( \begin{array} { c c c } { { Y _ { 1 1 } \lambda ^ { x + z } ~ 0 } } & { { 0 } } \\ { { 0 } } & { { 1 ~ Y _ { 2 3 } \lambda ^ { 2 a } } } \\ { { 0 } } & { { 0 } } & { { 1 } } \end{array} \right) ~ , ~ \mathcal { M } _ { M } = M \left( \begin{array} { c c c } { { \zeta _ { 1 } \lambda ^ { 2 x - 1 } ~ 0 } } & { { 0 } } & { { 0 } } \\ { { 0 } } & { { 0 } } & { { 1 } } \\ { { 0 } } & { { 1 ~ \zeta _ { 4 } \lambda ^ { 2 a } } } \end{array} \right) ~ ,
+$$
+
+and the mass matrix of charged leptons as
+
+$$
+\mathcal M _ { l } = m \left( \begin{array} { c c c } { { \eta _ { 1 1 } \lambda ^ { 5 } } } & { { 0 } } & { { 0 } } \\ { { 0 } } & { { \eta _ { 2 2 } \lambda ^ { 3 } } } & { { \eta _ { 2 3 } \lambda ^ { 2 a + 2 } } } \\ { { 0 } } & { { 0 } } & { { \eta _ { 3 3 } \lambda ^ { 2 } } } \end{array} \right) ,
+$$
+
+where $Y$ 's, $\zeta$ 's and $\eta$ 's are order one coefficients. The $\mathcal { M } _ { l }$ and $\mathcal { M } _ { D }$ are almost diagonal, while the $\mathcal { M } _ { M }$ is mainly off-diagonal. Therefore to leading order, the mass matrix of four light neutrinos in the $( \nu _ { s } , \nu _ { e } , \nu _ { \mu } , \nu _ { \tau } )$ basis is obtained as,
+
+$$
+\mathcal { M } _ { \nu } ^ { ( 0 ) } \simeq \frac { m ^ { 2 } } { M } \left( \begin{array} { c c c } { { 0 ~ 0 } } & { { 0 } } & { { 0 } } \\ { { 0 ~ 0 } } & { { 0 } } & { { 0 } } \\ { { 0 ~ 0 } } & { { 0 } } & { { - 1 } } \\ { { 0 ~ 0 } } & { { - 1 } } & { { 0 } } \end{array} \right) ~ .
+$$
+
+The neutrino mass spectrum due to $\mathcal { M } _ { \nu } ^ { ( 0 ) }$ is
+
+$$
+m _ { \nu _ { s } } = m _ { \nu _ { e } } = 0 , \quad m _ { \nu _ { \mu } } = m _ { \nu _ { \tau } } = \frac { m ^ { 2 } } { M } , \quad \sin \theta _ { \mu \tau } = \frac { 1 } { \sqrt { 2 } } .
+$$
+
+It is to be noted that the maximal mixing between the $\nu _ { \mu }$ and $\nu _ { \tau }$ results from the flavor symmetry. The requirement of keV scale $\nu _ { \mu }$ and $\nu _ { \tau }$ ,i.e.,
+
+$$
+{ \frac { m ^ { 2 } } { M } } \sim 1 \mathrm { k e V } ,
+$$
+
+is achieved via the seesaw mechanism with $m \simeq 3 0 0$ GeV and $M \simeq 1 0 ^ { 1 1 }$ GeV.The $\epsilon$ , defined by the ratio $m / M$ , is then of order $1 0 ^ { - 8 . 5 }$
+
+First let us examine the mass spectrum in the charged lepton sector. The eigenvalues of the $\mathcal { M } _ { l }$ are of order $\lambda ^ { 5 } m$ ， $\lambda ^ { 3 } m$ ，and $\lambda ^ { 2 } m$ ， which yields appropriate mass scales of the charged leptons. The $\mathcal { M } _ { l }$ is diagonalized by
+
+$$
+R _ { l } ^ { L } { \mathcal { M } } _ { l } R _ { l } ^ { R \dagger } = \mathrm { D i a g } \left( m _ { e } , m _ { \mu } , m _ { \tau } \right) ,
+$$
+
+where the $R _ { l } ^ { L }$ diagonalizes the hermitian mass-squared matrix $\mathcal { M } _ { l } \mathcal { M } _ { l } ^ { \dagger }$
+
+In the neutrino sector the mass matrix of four light neutrinos can be obtained by the method described in Ref. [15]. We finally have the following symmetric mass matrix of four light neutrinos in the $( \nu _ { s } , \nu _ { e } , \nu _ { \mu } , \nu _ { \tau } )$ basis with $\lambda ^ { x } / \epsilon \equiv \lambda ^ { \beta }$
+
+$$
+\mathcal { M } _ { \nu } = \frac { m ^ { 2 } } { M } \left( \begin{array} { c c c c } { { \lambda ^ { 2 \beta - 1 } \lambda ^ { \beta + z } 0 0 0 } } \\ { { \lambda ^ { \beta + z } 0 0 0 0 } } \\ { { 0 0 \lambda ^ { 2 a } - 1 } } \\ { { 0 0 - 1 } } \end{array} \right) ,
+$$
+
+where the charged lepton mixing effects are incorporated so that the charged lepton fields have been rotated into mass eigenstates. In Eq. (12) the combinations of order one parameters such as $Y _ { i j }$ ， $\eta _ { i }$ ，and $\zeta _ { i }$ are omitted, for simplicity.
+
+In our scenario, there is no mixing between the two pairs due to our assignment of half-integer charges for the first generation,and integer charges for the second and third generations. The absence of the $\nu _ { e } \mathrm { ~ - ~ } \nu _ { \mu }$ mixing is compatible with the KARMEN data, predicts null results in future laboratory searching for the $\nu _ { e } - \nu _ { \mu }$ or $\nu _ { e } - \nu _ { \tau }$ mixing, and has no influence on astrophysical processes [16]. Then the $\mathcal { M } _ { \nu }$ is automatically factorized out into $M _ { \nu _ { s } - \nu _ { e } }$ and $M _ { \nu _ { \mu } - \nu _ { \tau } }$
+
+The requirement of Super-K data determines the value of $a$ as
+
+$$
+\Delta ^ { 2 } m _ { 2 3 } \simeq \lambda ^ { 2 a } \left( \frac { m ^ { 2 } } { M } \right) ^ { 2 } \simeq 3 \times 1 0 ^ { - 3 } \mathrm { e V } ^ { 2 } , \quad \mathrm { f o r ~ } a = 4 .
+$$
+
+The effective mass matrix of $\nu _ { e }$ and $\nu _ { s }$ in the unit of eV can be written by
+
+$$
+M _ { \nu _ { s } - \nu _ { e } } \simeq \mathrm { e V } \left( \begin{array} { c c } { { \lambda ^ { 2 \beta - 4 } } } & { { \lambda ^ { \beta + z - 3 } } } \\ { { \lambda ^ { \beta + z - 3 } } } & { { 0 } } \end{array} \right) .
+$$
+
+The case of $\beta - 1 < z$ ( $\beta - 1 > z )$ corresponds to the smal (large) mixing angle solution for the solar neutrino problem. Some possible solutions are listed in the following table. Note that in the SMA case, the $m _ { \nu _ { e } }$ is the smaller mass since the $M _ { \nu _ { s } - \nu _ { e } }$ in Eq.(14) is in the （204号 $( \nu _ { s } , \nu _ { e } )$ basis.
+
+<html><body><table><tr><td>Solution</td><td></td><td>β (x)</td><td>mve (ev)</td><td>△m² (ev2)</td><td>sin2 200</td></tr><tr><td>SMA LMA</td><td>4</td><td>3.5 (12)</td><td>10-6</td><td>10-6</td><td>10-3</td></tr><tr><td rowspan="3">LOW-QVO</td><td>1 1</td><td>3.5 (12) 4.5 (13)</td><td>3 ×10-2 3 × 10-3</td><td>3×10-8 3 ×10-5</td><td>1 1</td></tr><tr><td>2</td><td>4.5 (13)</td><td>3×10-4</td><td>3 ×10-9</td><td>1</td></tr><tr><td>3</td><td>4.5 (13)</td><td>3 ×10-5</td><td>3 × 10-10</td><td>1</td></tr><tr><td rowspan="3"></td><td>0</td><td>5.5 (14)</td><td>3 × 10-3</td><td>3 ×10-10</td><td>1</td></tr><tr><td>-1</td><td>5.5 (14)</td><td>3×10-2</td><td>3 ×10-9</td><td>1</td></tr><tr><td>-2</td><td>5.5 (14)</td><td>0.3</td><td>3×10-8</td><td>1</td></tr></table></body></html>
+
+It is to be checked in the SNO [17] and KamLAND experiments. For one of the LOWQVO solution, the mass of the electron neutrino is just an order of magnitude lower than the current experiment limit. It is possible to probe this value in future experiments directly. In addition, it may have observable effect in the cosmic microwave background anisotropies. The $\nu _ { e }$ and $\nu _ { s }$ compose a Dirac neutrino which does not result in any observable neutrinoless double $\beta$ decay of relevant next generation experiments.
+
+In summary, it would be simple if the muon- and tau-neutrinos are just the WDM. We have presented a neutrino model which generates keV scale $\nu _ { \mu }$ and $\nu _ { \tau }$ and meanwhile provides the neutrino oscillation solutions for the solar and atmospheric neutrino experiments. It combines the seesaw mechanism and the Frogatt-Nielsen mechanism. The key point is that the neutrino mass matrix has a singular form. A light sterile neutrino is obtained due to the flavor symmetry.
+
+Finally some remarks should be mentioned.
+
+· Compared to the model in Ref. [12], the light neutrino spectrum is similar to the ordinary $2 + 2$ light neutrino scheme [18]. But the two neutrino pairs are more widely separated (by keV). For the solar neutrino problem, the SMA, LMA or LOW-QVO oscillation solutions into light sterile neutrinos can be accommodated in our scenario. This is achieved by taking the U(1） flavor charges to be half-integers for the first generation and to be integers for the second and third generations. Of course, the LSND results cannot be relevant in this model. But our results are compatible with the KARMEN data.
+
+· The LMA and LOW-QVO solutions have been obtained in fact due to the singular seesaw mechanism. The singular seesaw mechanism was applied to the atmospheric neutrino anomaly in Ref. [15]. However, the current Super-K data do not favor the （204号 $\nu _ { \mu } - \nu _ { s }$ oscillation. What we have done in Ref. [12] and in this paper for LMA and LOW-QVO scenarios are to obtain a singular seesaw mechanism for the solar neutrinos.
+
+· It seems a drawback to introduce both the seesaw and the Frogatt-Nielsen mechanism to make neutrinos light. However the seesaw mechanism itself cannot predict the neutrino flavor structure, especially the maximal $\nu _ { \mu } - \nu _ { \tau }$ mixing. Another underlying motivation is to make the four light neutrino scenario easier to be understood in the framework of grand unification theories, which will be studied further.
+
+· Other interesting aspects of keV neutrinos were discussed before. Such neutrinos may be responsible for the large velocity of pulsars [19]. Because the neutrino densities in the early universe are much smaller than that assumed in the standard cosmology, the cosmological constraints for neutrinos from the big bang nucleosynthesis is different from that in the standard one [20]. This needs more detailed study. In addition to the keV active neutrinos, certain amount of some other keV sterile neutrinos [21] may also contribute to the WDM.
+
+# ACKNOWLEDGMENTS
+
+C.L. was supported in part by the National Natural Science Foundation of China with grant no. 10047005.
+
+#
+
+REFERENCES [1] P. Bode, J.P. Ostriker and N.Turok, astro-ph/0010389.   
+[2] Particle Data Group, D.E. Groom et al., Eur. Phys. J. C15 (2000)1. [3] Super-Kamiokande Collaboration, Y. Fukuda et al., Phys. Rev. Lett.81 (1998)1562. [4] Super-Kamiokande Collaboration, S. Fukuda et al., Phys. Rev. Lett. 85 (2000) 3999.   
+[5] J.N. Bahcall P.I. Krastev, and A. Yu. Smirnov, Phys. Rev. D 58 (1998) 096016; M.C. Gonzalez-Garcia and C. Pena-Garay, hep-ph/O009041. [6] LSND Collaboration, C. Athanassopoulos et al., Phys. Rev. Lett. 75 (1995) 2650.   
+[7] KARMEN Collboration, B. Bodmann et al., Nucl. Phys. A 553 (1993) 831C; KARMEN Collaboration, J. Kleinfeller et al., Nucl. Phys. Proc. Suppl. 48 (1996) 207.   
+[8] For a review, see E. W. Kolb and M. S. Turner, The Early Universe (Addison-Wesley, Reading, 1990).   
+[9] G.F. Giudice, E.W. Kolb and A. Riotto, hep-ph/0005123.   
+[10] M. Kawasaki, K. Kohri and N. Sugiyama, Phys. Rev. D 62 (200O) 023056.   
+[11] G.F. Giudice, E.W. Kolb,A. Riotto, D.V. Semikoz and I.I. Tkachev, hep-ph/0012317.   
+[12] C. Liu and J. Song, Phys. Rev. D 60 (1999) 036002.   
+[13] M. Gell-Mann, P. Ramond and R. Slansky, in Sanibel talk, CALT-68-709 (Feb.1979); T. Yanagida, in Proc. of the Workshop on Unified Theory and Baryon Number of the Universe (KEK, Tsukuba, 1979); R. N. Mohapatra and G. Senjanovic, Phys. Rev. Lett. 44 (1980) 912.   
+[14] C.D. Frogatt and H.B. Nielsen, Nucl. Phys. B147 (1979) 277; M. Leurer, Y. Nir and N. Seiberg, Nucl. Phys. B398 (1993) 319.   
+[15] E.J. Chun, C.W. Kim and U.W. Lee, Phys. Rev. D 58 (1998) 093003; Y. Chikira, N. Haba and Y. Mimura, hep-ph/9808254.   
+[16] For reviews, see E.K. Akhmedov, hep-ph/O011353; P. Langacker, hep-ph/0101244.   
+[17] SNO Collaboration, J. Boger et al., Nucl. Instrum. Methods Phys. Res. A 449 (2000) 172.   
+[18] D.O. Caldwell and R.N. Mohapatra, Phys. Rev. D 48 (1993) 3259; J.T. Peltoniemi and J.W.F. Valle, Nucl. Phys. B406 (1993) 409; S.M. Bilenky, C. Giunti and W. Grimus, Eur. Phys. J. C1(1998) 247; V. Barger, Y.-B. Dai, K. Whisnant and B.-L. Young, Phys. Rev. D 59 (1999) 113010.   
+[19] A. Kusenko and G. Segre,Phys. Lett. B396 (1997) 197.   
+[20] For reviews, see K.A. Olive, astro-ph/9901231; D. Kirilova and M. Chizhov, Nucl. Phys. Proc. Suppl.100（2001） 360.   
+[21] S. Dodelson and L.M. Widrow, Phys. Rev. Lett. 72 (1994) 17; A.D. Dolgov and S.H. Hansen,hep-ph/0009083.

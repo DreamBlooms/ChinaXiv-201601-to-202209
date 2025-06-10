@@ -1,0 +1,1012 @@
+[
+    {
+        "type": "text",
+        "text": "The Variable Volatility Elasticity Model from Commodity Markets\\* ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fuzhou Gongt,t Ting Wangt,t ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this paper,we propose and study a novel continuous-time model, based on the well-known constant elasticity of variance (CEV） model, to describe the asset price process. The basic idea is that the volatility elasticity of the CEV model can not be treated as a constant from the perspective of stochastic analysis. To address this issue,we deduce the price process of assets from the perspective of volatility elasticity,propose the constant volatility elasticity (CVE) model, and further derive a more general variable volatility elasticity(VVE) model.Moreover,our model can describe the positive correlation between volatility and asset prices existing in the commodity markets，while CEV model can only describe the negative correlation. Through the empirical research on the financial market，many assets,especially commodities,often show this positive correlation phenomenon in some time periods,which shows that our model has strong practical application value.Finally,we provide the explicit pricing formula of European options based on our model.This formula has an elegant form convenient to calculate,which is similarly to the renowned Black-Scholes formula and of great significance to the research of derivatives market. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:volatility elasticity, commodity market,pricing. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The continuous-time model is a fundamental and powerful tool in the theoretical research of financial markets, where stochastic techniques play a prominent part. For example,in option pricing, hedging and portfolio research, stochastic analysis techniques are usually employed to derive explicit solutions or closed-form expressions, which have a strong guiding significance for the practical applications. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "As early as 1965, Samuelson proposed to describe the change process of stock price by geometric Brownian motion [Samuelson,1965]，which established the classic continuous time financial model so far. In l973,Black and Sholes used the Ito formula in stochastic analysis to deduce an explicit European option pricing formula based on this model,that is,the classical Black-Scholes formula [Black and Scholes,1973]. This work made a breakthrough in the development of option pricing theory. However,empirical data shows that “volatility smile” or skew often appears in most of stock markets [Hagan et al., 2002]. Therefore,a large number of researches are devoted to proposing more complex continuous time financial models to correct the volatility bias,such as constant elasticity of variance (CEV）model [Cox and Ross,1976], stochastic volatility model [Hull and White,1987], V.G. model [Madan and Seneta,1990],GARCH model [Bollerslev, 1986], and so on. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Recently, the classical CEV model has attracted a lot of attentions due to its wide applications in financial markets.In this model,the volatility is negatively correlated with the price.Thus,it can describe the derivatives and volatility of stocks with this reverse phenomenon [Beckers,1980].In addition, many extensions based on the CEV model are proposed,such as [Carr and Linetsky, 2006, Emanuel and MacBeth,1982,Heath and Platen,2002]. However,we fnd that there is a problem with the argument of constant elasticity in the CEV model. Before discussing related issues in details, we first introduce the concepts of volatility and elasticity. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 Volatility and Elasticity ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The volatility ofinancial assts is a key measure for the uncertainty of its return rate, which represents the risk level of financial assets.Mathematically, it is defined as the conditional standard deviation of the return rate,which can be expressed as follows. ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nv _ { t } = \\sqrt { \\mathrm { V a r } \\left( r _ { t + 1 } \\mid \\mathcal { F } _ { t } \\right) } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Here, $r _ { t }$ represents the rate of return at time $t$ ,and the filtration ( $\\mathcal { F } _ { t }$ ） covers all the information in the market before time $t$ . In this paper，we assume that the market is efficient, that is, the asset price completely reflects allthe information in the market.The volatility plays an important role in many economic decisions of financial markets, such as risk management,derivatives pricing,and portfolio decision-making. In addition,derivatives based on the volatility index are becoming more and more active in the market,which can provide investors with a variety of investment and hedging tools,help to avoid risks and reduce the irrational volatility of the market [Black,2006]. In developed financial markets,a variety of volatility indices and their derivatives are widely traded,such as futures, options and ETFs based on CBOE Volatility Index (VIX). Therefore,the study of volatility is of great significance in both practice and theory. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The concept of elasticity, first introduced by Marshall [Marshall,2Ol3],has been widely used in economics. It is an important measure of how sensitive an economic factor is to another, for example, changes in supply or demand to the change in price,or changes in demand to changes in income. Moreover,the elasticity can help us monitor the risk exposed in the stock markets.In this paper, we focus on the elasticity of the volatility for an asset with respect to its price,which is called volatility elasticity and denoted by $\\lambda _ { t }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "According to the definition of elasticity, $\\lambda _ { t }$ measures the sensitivity of volatility to a change in the asset price,which can be expressed as follows. ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { t } = \\left. \\frac { \\triangle v _ { t } } { v _ { t } } \\right/ \\frac { \\triangle S _ { t } } { S _ { t } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In essence,the asset price and its volatility vary according to the market conditions.More specificaly, with the passage of time,various event information in the market continues to occur,making asset prices fluctuate constantly. Therefore, the common driving force of these two stochastic processes is the time scale $t$ . As $\\triangle t  0$ , the continuous formula of volatility elasticity becomes the following form. ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { t } = \\left. \\frac { d v _ { t } } { v _ { t } } \\right/ \\frac { d S _ { t } } { S _ { t } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $d { \\boldsymbol { v } } _ { t }$ and $d S _ { t }$ denote the stochastic differential of ${ \\boldsymbol { v } } _ { t }$ and $S _ { t }$ ,respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 Existing Problems in the CEV Model ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Let $S _ { t }$ denote the price of the risk asset. In the CEV model [Cox and Ross,1976],the price process satisfies the following stochastic differential equation (SDE). ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd S _ { t } = S _ { t } \\left[ \\mu d t + \\sigma S _ { t } ^ { \\beta / 2 - 1 } d B _ { t } \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\mu$ and $\\sigma$ are two constants, $\\beta \\in ( 0 , 2 ]$ is called the elastic factor,and $B _ { t }$ represents the Brown motion.IthasbenshoinCoxandRoss976]thatthevolatilityftheassetpriceisUt= and the volatility elasticity is equal to a constant $\\beta / 2 - 1$ . We note that these results are derived in the deterministic sense,that is, $v _ { t }$ and $S _ { t }$ are assumed to be deterministic variables and the derivative of $v _ { t }$ with respect to $S _ { t }$ is computed straightforwardly. However,according to the definition of elasticity in economics, $v _ { t }$ and $S _ { t }$ here are random processes intrinsically in the real markets. We should use stochastic diffrential to deal with the volatility elasticity,which can not be simply regarded as a constant.Consequently,the main goal of this paper is to devise a new model based on the stochastic analysis to describe the real markets. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 Contribution ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we design two SDE models to describe the asset price by employing stochastic diffrential tools.The first model is based on the assumption that the volatility elasticity is constant,which is called constant volatility elasticity (CVE) model.And we deduce the second model, which is called variable volatility elasticity (VVE) model, by assuming that the elasticity is related to price.Through the analysis of the actual market data,our models describe the price process of some special assets well especially the commodities, which provide great help for forecasting or guiding economic decisionmaking tasks in these markets. Finall, we provide an explicit option pricing formula based on the proposed models,which is of great value to the practical application of the derivatives markets. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 Organization ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The rest of this paper is organized as follws.In Section 2，we deduce the stochastic diffrential equation model of asset price processfor the case that the volatility elasticity is constant.Then this model is extended to the generic case when the volatility elasticity is time-varying in Section 3. The potential of our proposed models is verified from empirical research of actual market data in Section 4. In addition,an explicit pricing formula of European options is presented in Section 5. Finally, we give the conclusion of this paper in the last section. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Constant Volatility Elasticity (CVE) Model ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this paper,we consider the scenario that the stock market is composed of two kinds of assets: risk and risk-free. Without loss of generality, we assume that the price process of assets in the market is a time-homogeneous Markov process and the assets do not pay dividends. Suppose the price process of the risk-free asset satisfies ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { d \\beta _ { t } = r \\beta _ { t } d t , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $r$ is the risk-free rate. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the financial market,the stock volatility is time-varying and often presents volatility clustering and thick tail of logarithmic price return distribution [Cont,20o7].And according to the efficient market hypothesis and assumption of time-homogeneous Markov property of price process,the volatility can be expressed as a function of price by its definition. Let $S _ { t }$ denote the price of the risk asset.Then we assume that $S _ { t }$ satisfies the following stochastic process. ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd S _ { t } = S _ { t } \\left[ \\mu d t + \\theta ( S _ { t } ) d B _ { t } \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $S _ { 0 } > 0$ and $\\mu > 0$ is the instantaneous expected rate of return. We assume that $\\theta ( S _ { t } )$ satisfies some appropriate conditions to guarantee the existence of solutions. It can be readily verified that （204号 $\\theta ( S _ { t } )$ is exactly the volatility function of $S _ { t }$ . Moreover, the instantaneous rate of return of risk assets is simply assumed to be constant for the sake of convenience. In fact,our conclusion can easily be extended to general cases,which will be discussed in Remark 1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Now,based on the assumption that the volatility elasticity is constant,it can be derived that $\\theta ( S _ { t } )$ admits a closed-form solution. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Theorem 2.1. Suppose the price of a risk asset satisfies the SDE (2.2)， $\\theta ( x )$ is twice continuously differentiable，and the volatility elasticity is constant.Then it holds that ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta ( S _ { t } ) = C S _ { t } ^ { \\alpha } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\alpha \\in \\{ 0 , 1 \\}$ is the value of volatility elasticity,and $C$ is a positive constant. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Proof. Since the price satisfes the SDE (2.2)，we know that $\\theta ( S _ { t } )$ is the volatility of $S _ { t }$ ．Then we apply the Ito's rule to $\\theta ( S _ { t } )$ and obtain that ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd v _ { t } = d \\theta ( S _ { t } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle = \\theta ^ { \\prime } ( S _ { t } ) d S _ { t } + \\frac { 1 } { 2 } \\theta ^ { \\prime \\prime } ( S _ { t } ) d \\left. S \\right. _ { t } } \\\\ { \\displaystyle = \\theta ^ { \\prime } ( S _ { t } ) S _ { t } \\left[ \\mu d t + \\theta ( S _ { t } ) d B _ { t } \\right] + \\frac { 1 } { 2 } \\theta ^ { \\prime \\prime } ( S _ { t } ) [ S _ { t } \\theta ( S _ { t } ) ] ^ { 2 } d t } \\\\ { \\displaystyle = \\theta ( S _ { t } ) \\left[ \\left( \\frac { \\theta ^ { \\prime } ( S _ { t } ) } { \\theta ( S _ { t } ) } S _ { t } \\mu + \\frac { 1 } { 2 } \\theta ^ { \\prime \\prime } ( S _ { t } ) S _ { t } ^ { 2 } \\theta ( S _ { t } ) \\right) d t + \\theta ^ { \\prime } ( S _ { t } ) S _ { t } d B _ { t } \\right] , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "which yieldsthat ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { d v _ { t } } { v _ { t } } = \\left( \\frac { \\theta ^ { \\prime } ( S _ { t } ) } { \\theta ( S _ { t } ) } S _ { t } \\mu + \\frac { 1 } { 2 } \\theta ^ { \\prime \\prime } ( S _ { t } ) S _ { t } ^ { 2 } \\theta ( S _ { t } ) \\right) d t + \\theta ^ { \\prime } ( S _ { t } ) S _ { t } d B _ { t } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We assume that the volatility elasticity is a constant $\\alpha$ .According to the definition of elasticity, it follows that ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { d v _ { t } } { v _ { t } } = \\alpha \\frac { d S _ { t } } { S _ { t } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "which further implies that ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\frac { \\theta ^ { \\prime } ( S _ { t } ) } { \\theta ( S _ { t } ) } S _ { t } \\mu + \\frac { 1 } { 2 } \\theta ^ { \\prime \\prime } ( S _ { t } ) S _ { t } ^ { 2 } \\theta ( S _ { t } ) \\right) d t + \\theta ^ { \\prime } ( S _ { t } ) S _ { t } d B _ { t } = \\alpha \\left[ \\mu d t + \\theta ( S _ { t } ) d B _ { t } \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Therefore,we can deduce that ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta ^ { \\prime } ( S _ { t } ) S _ { t } = \\alpha \\theta ( S _ { t } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { \\theta ^ { \\prime } ( S _ { t } ) } { \\theta ( S _ { t } ) } } S _ { t } \\mu + { \\frac { 1 } { 2 } } \\theta ^ { \\prime \\prime } ( S _ { t } ) S _ { t } ^ { 2 } \\theta ( S _ { t } ) = \\alpha \\mu .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Clearly,(2.7) is an ordinary differential equation (ODE),and its solution is ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta ( S _ { t } ) = C S _ { t } ^ { \\alpha } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $C$ is a positive constant.Substituting (2.9) to (2.8),we have ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 } { 2 } \\alpha ( \\alpha - 1 ) C ^ { 2 } S _ { t } ^ { 2 \\alpha } = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Since $S _ { t }$ is not identically equal to $0$ ,we can conclude that ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha = 0 , { \\mathrm { ~ o r ~ } } \\alpha = 1 , { \\mathrm { ~ o r ~ } } C = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "If $C = 0$ ，the SDE(2.2） becomes $d S _ { t } = S _ { t } \\mu d t$ . This means that $S _ { t }$ is the price of a risk-free asset, which contradicts the assumption.Therefore,we can acquire that ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta ( S _ { t } ) = C S _ { t } ^ { \\alpha } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\alpha \\in \\{ 0 , 1 \\}$ ,and $C$ is a positive constant. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Theorem 3.1 shows that when the volatility elasticity is constant, this value can only be $0$ or 1. And the price of the risk asset can be expressed as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd S _ { t } = S _ { t } \\left[ \\mu d t + C d B _ { t } \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "or ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd S _ { t } = S _ { t } \\left[ \\mu d t + C S _ { t } d B _ { t } \\right] .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The first model (2.12) is nothing but the classical Black-Scholes model. In this case,the volatility of asset is a constant $\\sigma$ and the volatility elasticity is obviously O. We will not discuss more details about this trivial case in this paper. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The second model (2.13) is similar to the CEV model in form,which corresponds to the case that （204号 $\\beta = 4$ . However, it should be noted that $\\beta$ lies in $( 0 , 2 ]$ in the CEV model [Cox,1996]． Therefore, our model is not a special case of it. Since the volatility elasticity is assumed to be constant,(2.13) is called Constant Volatility Elasticity(CVE）model. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Remark 1. In the proof of Theorem 2.1, the constant $\\mu$ can be replaced by an adaptive process $\\mu ( t )$ and the conclusion will not change. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Variable Volatility Elasticity（VVE） Model",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the financial market,the return series of risk asset prices usuall have the phenomenon of excessive volatility and volatility clustering [Cont,2007].A large number of models tries to capture this phenomenon,such as stochastic volatility model [Hull and White,1987], GARCH [Bollerslev,1986],and EGARCH [Nelson,1991]. In the real market,the characteristics of volatility series are often complex and elusive.Therefore,it is too trivial to assume that the elasticity of volatility with respect to price is a constant. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this section, we willdiscuss the stochastic diferential equation model when the volatility elasticity changes with market information.Recall that the market is assumed to be effcient,that is,the market information fow is generated by the asset price. Therefore,we naturally assume that the volatility elasticity depends on the asset price. Then,the following theorem derives the resulting model. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Theorem 3.1. Suppose the price of a risk asset satisfies the SDE (2.2)， $\\theta ( x )$ is twice continuously differentiable,and the volatility elasticity depends on the price.Then it holds that ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd S _ { t } = S _ { t } \\left[ \\mu d t + ( \\sigma + C _ { 1 } S _ { t } ) d B _ { t } \\right] .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\sigma$ and $C _ { 1 }$ are two positive constants. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Proof. According to the proof of Theorem 2.1,we can obtain that the volatility of $S _ { t }$ is $\\theta ( S _ { t } )$ and ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { d v _ { t } } { v _ { t } } = \\left( \\frac { \\theta ^ { \\prime } ( S _ { t } ) } { \\theta ( S _ { t } ) } S _ { t } \\mu + \\frac { 1 } { 2 } \\theta ^ { \\prime \\prime } ( S _ { t } ) S _ { t } ^ { 2 } \\theta ( S _ { t } ) \\right) d t + \\theta ^ { \\prime } ( S _ { t } ) S _ { t } d B _ { t } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Suppose the volatility elasticity is $\\alpha ( S _ { t } )$ , namely, ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { d v _ { t } } { v _ { t } } = \\alpha ( S _ { t } ) \\frac { d S _ { t } } { S _ { t } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "whichinfersthat ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\frac { \\theta ^ { \\prime } ( S _ { t } ) } { \\theta ( S _ { t } ) } S _ { t } \\mu + \\frac { 1 } { 2 } \\theta ^ { \\prime \\prime } ( S _ { t } ) S _ { t } ^ { 2 } \\theta ( S _ { t } ) \\right) d t + \\theta ^ { \\prime } ( S _ { t } ) S _ { t } d B _ { t } = \\alpha ( S _ { t } ) \\left[ \\mu d t + \\theta ( S _ { t } ) d B _ { t } \\right] .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Therefore,we can deduce that ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta ^ { \\prime } ( S _ { t } ) S _ { t } = \\alpha ( S _ { t } ) \\theta ( S _ { t } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { \\theta ^ { \\prime } ( S _ { t } ) } { \\theta ( S _ { t } ) } } S _ { t } \\mu + { \\frac { 1 } { 2 } } \\theta ^ { \\prime \\prime } ( S _ { t } ) S _ { t } ^ { 2 } \\theta ( S _ { t } ) = \\alpha ( S _ { t } ) \\mu .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "By solving the ODE (3.5),we can obtain that ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta ( S _ { t } ) = C _ { 2 } \\exp \\left\\{ \\int _ { 0 } ^ { S _ { t } } \\frac { \\alpha ( z ) } { z } d z \\right\\} ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $C _ { 2 }$ is a positive constant.Now it is straightforward to verify that ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta ^ { \\prime } ( S _ { t } ) = C _ { 2 } \\exp \\left\\{ \\int _ { 0 } ^ { S _ { t } } \\frac { \\alpha ( z ) } { z } d z \\right\\} \\cdot \\frac { \\alpha ( S _ { t } ) } { S _ { t } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta ^ { \\prime \\prime } ( S _ { t } ) = C _ { 2 } \\exp \\left\\{ \\int _ { 0 } ^ { S _ { t } } \\frac { \\alpha ( z ) } { z } d z \\right\\} \\cdot \\frac { \\alpha ^ { 2 } ( S _ { t } ) + \\alpha ^ { \\prime } ( S _ { t } ) S _ { t } - \\alpha ( S _ { t } ) } { S _ { t } ^ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Substituting the above three relationships into (3.6) yields that ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { 1 } { 2 } } \\theta ^ { 2 } ( S _ { t } ) \\left[ \\alpha ^ { 2 } ( S _ { t } ) + \\alpha ^ { \\prime } ( S _ { t } ) S _ { t } - \\alpha ( S _ { t } ) \\right] = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "which combining the fact that $\\theta ( S _ { t } ) > 0$ implies that ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha ^ { 2 } ( S _ { t } ) + \\alpha ^ { \\prime } ( S _ { t } ) S _ { t } - \\alpha ( S _ { t } ) = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "By solving the above ODE,we can obtain that ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha ( S _ { t } ) = \\frac { C _ { 3 } S _ { t } } { 1 + C _ { 3 } S _ { t } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $C _ { 3 }$ is a positive constant.Therefore,we can further conclude that ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c l l } { \\displaystyle \\theta ( S _ { t } ) = C _ { 2 } \\exp \\left\\{ \\int _ { 0 } ^ { S _ { t } } \\frac { \\alpha ( z ) } { z } d z \\right\\} } \\\\ { \\displaystyle = C _ { 2 } ( 1 + C _ { 3 } S _ { t } ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The proof is completed by setting $C _ { 1 } = C _ { 2 } C _ { 3 }$ and $\\sigma = C _ { 2 }$ = ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Theorem 3.1 establishes the model for the case that the volatility elasticity is not a constant and depends on the price. Therefore,(3.1） is calld Variable Volatility Elasticity (VVE）model. It is obvious that (2.13) is a special case of(3.1) for $\\sigma = 0$ . Therefore, in the sequel, we will focus on the VVE model. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1 Existence of Solutions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Now,we verify the existence of solutions to the SDE (3.1) in the follwing lemma, which proves that the proposed model is well-defined. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Lemma 3.2. There exists a solution to the SDE (3.1)，which can be expressed as: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { t } = \\frac { \\sigma S _ { 0 } e ^ { \\gamma t + \\sigma B _ { t } } } { \\left( \\frac { \\mu } { \\gamma } - 1 \\right) C _ { 1 } S _ { 0 } e ^ { \\gamma t + \\sigma B _ { t } } - \\frac { \\mu } { \\gamma } C _ { 1 } S _ { 0 } e ^ { \\sigma B _ { t } } + \\sigma + C _ { 1 } S _ { 0 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $\\begin{array} { r } { \\gamma = \\mu - \\frac { \\sigma ^ { 2 } } { 2 } } \\end{array}$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Proof. We use the nonlinear transformation method to solve the SDE (3.1). Suppose $Y _ { t } = F ( S _ { t } )$ and $F ( x )$ is a twice continuously differentiable function. Then it can be readily checked that ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle d Y _ { t } = F ^ { \\prime } ( S _ { t } ) d S _ { t } + \\frac { 1 } { 2 } F ^ { \\prime \\prime } ( S _ { t } ) d \\left. S \\right. _ { t } } \\\\ { \\displaystyle \\quad = F ^ { \\prime } ( S _ { t } ) \\left[ \\mu S _ { t } d t + S _ { t } ( \\sigma + C _ { 1 } S _ { t } ) d B _ { t } \\right] + \\frac { 1 } { 2 } F ^ { \\prime \\prime } ( S _ { t } ) S _ { t } ^ { 2 } ( \\sigma + C _ { 1 } S _ { t } ) ^ { 2 } d t } \\\\ { \\displaystyle \\quad = \\left[ \\mu F ^ { \\prime } ( S _ { t } ) S _ { t } + \\frac { 1 } { 2 } F ^ { \\prime \\prime } ( S _ { t } ) S _ { t } ^ { 2 } ( \\sigma + C _ { 1 } S _ { t } ) ^ { 2 } \\right] d t + F ^ { \\prime } ( S _ { t } ) S _ { t } ( \\sigma + C _ { 1 } S _ { t } ) d B _ { t } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Upon taking ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF ^ { \\prime } ( x ) x ( \\sigma + C _ { 1 } x ) = \\sigma F ( x ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "we can obtain that ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF ^ { \\prime } ( S _ { t } ) S _ { t } ( \\sigma + C _ { 1 } S _ { t } ) d B _ { t } = \\sigma F ( S _ { t } ) d B _ { t } = \\sigma Y _ { t } d B _ { t } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "And the solution to the ODE (3.12) can be represented as: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF ( x ) = \\frac { A x } { \\sigma + C _ { 1 } x } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $A$ is a constant.Without loss of generality,we fix $A = 1$ . Then we have ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { t } = \\frac { S _ { t } } { \\sigma + C _ { 1 } S _ { t } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { t } = \\frac { \\sigma Y _ { t } } { 1 - C _ { 1 } Y _ { t } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "And it is straightforward to verify that ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF ^ { \\prime } ( x ) = { \\frac { \\sigma } { x ( \\sigma + C _ { 1 } x ) } } F ( x ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { \\cal F } ^ { \\prime \\prime } ( x ) = { \\displaystyle \\frac { \\sigma } { x ( \\sigma + C _ { 1 } x ) } } { \\cal F } ^ { \\prime } ( x ) - { \\displaystyle \\frac { \\sigma ( \\sigma + 2 C _ { 1 } x ) } { x ^ { 2 } ( \\sigma + C _ { 1 } x ) ^ { 2 } } } { \\cal F } ( x ) } } \\\\ { { ~ = { \\displaystyle \\frac { \\sigma ^ { 2 } } { x ^ { 2 } ( \\sigma + C _ { 1 } x ) ^ { 2 } } } { \\cal F } ( x ) - { \\displaystyle \\frac { \\sigma ^ { 2 } + 2 C _ { 1 } \\sigma x } { x ^ { 2 } ( \\sigma + C _ { 1 } x ) ^ { 2 } } } { \\cal F } ( x ) } } \\\\ { { ~ = { \\displaystyle \\frac { - 2 C _ { 1 } \\sigma x } { x ^ { 2 } ( \\sigma + C _ { 1 } x ) ^ { 2 } } } { \\cal F } ( x ) , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "which further implies that ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu F ^ { \\prime } ( S _ { t } ) S _ { t } = \\mu \\frac { \\sigma } { ( \\sigma + C _ { 1 } S _ { t } ) } F ( S _ { t } ) = \\frac { \\mu \\sigma } { ( \\sigma + C _ { 1 } S _ { t } ) } Y _ { t } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 } { 2 } F ^ { \\prime \\prime } ( S _ { t } ) S _ { t } ^ { 2 } ( \\sigma + C _ { 1 } S _ { t } ) ^ { 2 } = - F ( S _ { t } ) C _ { 1 } \\sigma S _ { t } = - \\sigma C _ { 1 } S _ { t } Y _ { t } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Thus,we can obtain that ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { d Y _ { t } = Y _ { t } \\left[ \\left( \\frac { \\mu \\sigma } { \\sigma + C _ { 1 } S _ { t } } - \\sigma C _ { 1 } S _ { t } \\right) d t + \\sigma d B _ { t } \\right] } \\\\ { = Y _ { t } \\left[ \\left( \\frac { \\mu \\sigma } { \\sigma + C _ { 1 } \\sigma Y _ { t } / \\left( 1 - C _ { 1 } Y _ { t } \\right) } - \\sigma C _ { 1 } \\frac { \\sigma Y _ { t } } { 1 - C _ { 1 } Y _ { t } } \\right) d t + \\sigma d B _ { t } \\right] } \\\\ { = Y _ { t } \\left[ \\left( \\mu ( 1 - C _ { 1 } Y _ { t } ) - \\frac { \\sigma ^ { 2 } C _ { 1 } Y _ { t } } { 1 - C _ { 1 } Y _ { t } } \\right) d t + \\sigma d B _ { t } \\right] } \\\\ { = Y _ { t } \\left[ \\frac { \\mu - \\left( 2 \\mu + \\sigma ^ { 2 } \\right) C _ { 1 } Y _ { t } + \\mu C _ { 1 } ^ { 2 } Y _ { t } ^ { 2 } } { 1 - C _ { 1 } Y _ { t } } d t + \\sigma d B _ { t } \\right] . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Next we solve the following SDE. ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\displaystyle d Y _ { t } = \\frac { \\mu - ( 2 \\mu + \\sigma ^ { 2 } ) C _ { 1 } Y _ { t } + \\mu C _ { 1 } ^ { 2 } Y _ { t } ^ { 2 } } { 1 - C _ { 1 } Y _ { t } } Y _ { t } d t + \\sigma Y _ { t } d B _ { t } , } \\\\ { \\displaystyle Y _ { 0 } = \\frac { S _ { 0 } } { \\sigma + C _ { 1 } S _ { 0 } } . } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Let $\\hat { \\sigma } ( Y _ { t } ) = \\sigma Y _ { t }$ and ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nb ( Y _ { t } ) = \\frac { \\mu - ( 2 \\mu + \\sigma ^ { 2 } ) C _ { 1 } Y _ { t } + \\mu C _ { 1 } ^ { 2 } Y _ { t } ^ { 2 } } { 1 - C _ { 1 } Y _ { t } } Y _ { t } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We first solve the following ODE. ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\displaystyle \\frac { d y } { d \\omega } = \\hat { \\sigma } ( y ( \\omega ) ) = \\sigma y ( \\omega ) , } \\\\ { Y _ { 0 } = \\xi . } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "And the solution is $y ( \\omega ) = \\xi e ^ { \\sigma \\omega }$ .Let $\\Phi ( \\omega , \\xi ) = y ( \\omega ) = \\xi e ^ { \\sigma \\omega }$ . Then we solve the following ODE with the parameter $\\omega$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\displaystyle \\frac { d \\xi _ { t } } { d t } = \\exp \\left\\{ - \\int _ { 0 } ^ { B _ { t } ( \\omega ) } \\sigma d s \\right\\} \\left( b \\left( \\Phi ( B _ { t } ( \\omega ) , \\xi _ { t } ) \\right) - \\frac 1 2 \\hat { \\sigma } \\left( \\Phi ( B _ { t } ( \\omega ) , \\xi _ { t } ) \\right) \\cdot \\hat { \\sigma } ^ { \\prime } \\left( \\Phi ( B _ { t } ( \\omega ) , \\xi _ { t } ) \\right) \\right) , } \\\\ { \\displaystyle \\xi _ { 0 } = Y _ { 0 } . } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In fact,the above ODE can be simplified as follows. ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\displaystyle \\frac { 2 } { 2 r - \\sigma ^ { 2 } } \\left( \\frac { 1 } { \\xi _ { t } } - \\frac { 1 } { \\xi _ { t } - ( 2 r - \\sigma ^ { 2 } ) / ( 2 r C _ { 1 } e ^ { \\sigma B _ { t } ( \\omega ) } ) } \\right) d \\xi _ { t } = d t , } \\\\ { \\displaystyle \\xi _ { 0 } = Y _ { 0 } . } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "It is straightforward to verify that the solution is ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\xi _ { t } = \\frac { Y _ { 0 } e ^ { \\left( \\mu - \\frac { \\sigma ^ { 2 } } { 2 } \\right) t } } { \\frac { 2 \\mu C _ { 1 } Y _ { 0 } } { 2 \\mu - \\sigma ^ { 2 } } \\left( e ^ { \\left( \\mu - \\frac { \\sigma ^ { 2 } } { 2 } \\right) t } - 1 \\right) e ^ { \\sigma B _ { t } ( \\omega ) } + 1 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Thus,we can obtain that ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { t } ( \\omega ) = \\Phi ( B _ { t } ( \\omega ) , \\xi _ { t } ( \\omega ) ) = \\frac { Y _ { 0 } e ^ { \\left( \\mu - \\frac { \\sigma ^ { 2 } } { 2 } \\right) t + \\sigma B _ { t } \\left( \\textit { o m e g a } \\right) } } { \\frac { \\mu C _ { 1 } Y _ { 0 } } { \\mu - \\frac { \\sigma ^ { 2 } } { 2 } } \\left( e ^ { \\left( \\mu - \\frac { \\sigma ^ { 2 } } { 2 } \\right) t + \\sigma B _ { t } ( \\omega ) } - e ^ { \\sigma B _ { t } ( \\omega ) } \\right) + 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "is a solution to the SDE (3.15).Finally, it follows from the relationship (3.14) that ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { t } = \\frac { \\sigma S _ { 0 } e ^ { \\gamma t + \\sigma B _ { t } } } { \\left( \\frac { \\mu } { \\gamma } - 1 \\right) C _ { 1 } S _ { 0 } e ^ { \\gamma t + \\sigma B _ { t } } - \\frac { \\mu } { \\gamma } C _ { 1 } S _ { 0 } e ^ { \\sigma B _ { t } } + \\sigma + C _ { 1 } S _ { 0 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $\\begin{array} { r } { \\gamma = \\mu - \\frac { \\sigma ^ { 2 } } { 2 } } \\end{array}$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We complete the proof. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In Lemma 3.2,we skilfully make nonlinear reductions to the SDE (3.7),then directly solve the transformed SDE,and then reversely transform the solution obtained to that of the original model. Lemma 3.2 not only proves the existence of solutions, but also presents a closed-form expression, which is very helpful for us to price derivatives based on our model. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2 Qualitative Analysis ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In this subsection, we make a qualitative analysis of our model from an economic perspective to show its effectiveness and significance. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Volatility. The volatility of our VVE model is $v _ { t } = \\sigma + C _ { 1 } S _ { t }$ ，where $\\sigma$ and $C _ { 1 }$ are two positive constants. It can describe the stock market with positive correlation between volatility and stock price, which is different from the CEV model. This positive correlation has already been investigated in the literature.For instance,Emanuel and Macbeth [Emanuel and MacBeth,1982] verifed its existence based on the real market data. They analyzed the closing price data of Avon products,Eastman Kodak, international business machines and Xerox from 1976 to l978. Through the estimation of parameters in the CEV model, it was concluded that there was a positive correlation between the volatility and price in 1978.Different from financial securities,commodity market possesses its intrinsic physical attributes.Thus,the price fluctuations of commodities usually show their own distinguishing features. More importantly, Geman points out that,for the great majority of commodities, the volatility is positively related to its price [Geman,2009]，which willbe described in detail in the next section. Therefore,our model will be of great use in the pricing and hedging of commodity derivatives. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Pricing of contingent claims. The derivatives play an important role in the financial feld. If measured by the underlying assets,the scale of derivatives market is far larger than the stock market. At present,the total value of the underlying assets of derivatives that have not been closed is many times of the world's total economic output value [Hull, 2003]. Derivative pricing theory is one of the most important research topics in the feld of derivatives.Under this model, we can derive the explicit pricing formula of European options (given in Section 5). It is worth mentioning that this formula has a similar form to Black-Scholes pricing formula,which can be easily calculated in practice. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4 Empirical Analysis of Commodity Markets ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In the financial investment market,bulk commodities refer to the commodities that are homogeneous, tradable,and widely used as basic industrial raw materials,such as crude oil, non-ferrous metals, steel, agricultural products,iron ore,coal,etc.It includes three categories:agriculturals, metals and energies. Commodities constitute the only spot market in human history, which is closely related to the national economy and the people's livelihood.Since most commodities are the basis of industrial production,the changes offutures and spot prices reflecting their supply and demand willdirectly affect the whole economic system.As an important part of the financial market,the research on commodity and their derivatives is of great significance. Commodities have both capital and goods attribute, which leads to the great diffrence between commodities and securities in the price characteristics. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In the commodity market,the theory of storage is often used to explain the spot price volatility, since the supply-demand relationship caused by the physical properties of commodities is the main reason affecting their price changes [Geman, 2009]. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The most important result of storage theory is that there is a negative correlation between the inventory level and the commodity volatility. Furthermore,according to the theory of supply-demand, the commodity price is negatively correlated with inventory. Therefore,there is a positive correlation between the commodity price and the volatility,which is distinguished from the negative correlation commonly existing in the stock market. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The production capacity and inventory level are two key factors in predicting the commodity prices.Fama and French [Fama and French,1987] make statistical analysis on the data of 21 kinds of commodities (including wood,animal, metals and agricultural products)，and conclude that the variance of commodity prices decreases with the increase of inventory level. Geman and Nguyen [Geman and Leonardi, 2Oo5] use the soybean data of the United States,Brazil and Argentina to reconstruct a monthly，quarterly and annual global soybean database,and show that the commodity price volatility is an increasing linear function of the inverse inventory. Geman [Geman, 2O09] points out that it has the same nature in the energy market.When the estimated oil reserves in the United States or other regions decline,the volatility of oil price willincrease sharply,and the price will also rise enormously. Deaton and Laroque [Deaton and Laroque,1992] analyze and simulate the annual data of 13 commodities,and find that the conditional variance of price is a non-decreasing function of the price.To sum up,a series of literatures show that there is a positive correlation between the price and the volatility in commodity markets. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/acbef24468ac396702a04c88132450292343eec4bf5700b2ec74b55c638b35c6.jpg",
+        "img_caption": [
+            "Figure 1: Close price and volatility of soybean meal and aluminum. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Next, we perform an empirical study on China's commodity markets, which demonstrates that the linear positive correlation between the volatility and the commodity price does exist in many time intervals. Specifically，we select the market data of soybean meal and aluminum for analysis. For soybean meal, we select the closing price data of 263 trading days (2020/01/02-2021/01/29). And for aluminum, we select the closing price data of 164 trading days (2017/08/01-2018/04/02). All the data are collected from Wind database. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In Figure 1, the daily frequency closing price data and historical volatility (calculated by using the ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/e73830b892d37906aaa1f6487d4d6536468352a0273fca10771e8332eb07bc98.jpg",
+        "table_caption": [
+            "Table 1: Linear regression results of closing price and volatility data for soybean meal and aluminum "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Commodity</td><td> Soybean Meal (SM)</td><td>Aluminum (AL)</td></tr><tr><td>Slope</td><td>1.53e-04</td><td>4.61e-05</td></tr><tr><td>P-value of Slope</td><td><2e-16</td><td><2e-16</td></tr><tr><td>Intercept</td><td>-0.346</td><td>-0.528</td></tr><tr><td>P-value of Intercept</td><td><2e-16</td><td><2e-16</td></tr><tr><td>R-squared</td><td>0.7471</td><td>0.8207</td></tr><tr><td>Correlation Coefficient</td><td>0.8643</td><td>0.9059</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "30 day price data and recorded as HV30) of the two commodities are depicted respectively. Obviously, the trends of two lines show a positive correlation.Furthermore, we analyze the correlation between closing price and volatility data,and conduct linear fitting using R software.The results are shown in Table 1. We have the following observations.Firstly, the correlation coeffcients of thees two groups of data are very close to 1. Secondly,the values of R-squared for these two linear fittings is 0.7471 and 0.8207,respectively. Thirdly, the P-values of slope and intercept are alless than O.01. Thus, in this time interval,the price and the volatility of these two commodities show a linear positive correlation, which is consistent with the VVE model. We can conclude that the VVE model can be used as an approximate continuous-time model of commodity prices,which is helpful to the study of commodities and commodity derivatives markets. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5 Option Pricing ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In this section，we consider the option pricing under the VVE model (3.1). The folowing theorem provides an explicit pricing formula of European call options. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Theorem 5.1. Suppose the market is complete and there is a unique equivalent martingale measure. Let $\\xi = ( S _ { T } - K ) ^ { + }$ be a reproducible European contingent claim, where $K$ is the exercise price. Then its price process is $V _ { t } = C ( t , S _ { t } )$ ，where ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC ( t , x ) = \\sigma S _ { 0 } e ^ { - r ( T - t ) } E [ g ( Z ) \\mathbb { 1 } _ { ( d , + \\infty ) } ] - K e ^ { - r ( T - t ) } ( 1 - N ( d ) ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "uhere δ=r,d=f²（K)-f²(）， ，g(z） (--e）C++C）e(+（）)，f( gSoe-r(T-t)$\\begin{array} { r } { \\frac { 1 } { \\sigma } \\ln \\left[ \\left( \\left( \\frac { r } { r - \\sigma ^ { 2 } / 2 } - 1 \\right) e ^ { ( r - \\sigma ^ { 2 } / 2 ) t } - \\frac { r } { r - \\sigma ^ { 2 } / 2 } \\right) \\frac { C _ { 1 } x } { \\sigma } \\right] - \\frac { 1 } { \\sigma } ( r - \\frac { \\sigma ^ { 2 } } { 2 } ) t } \\end{array}$ . In addition, $Z$ obeys standard normaldistribution,and $N ( d )$ denotes standard normal distribution function.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Proof. Since we assume that the market is complete, the discounted price process $\\left( e ^ { - r t } S _ { t } \\right)$ isa martingale under the risk neutral probability measure $P ^ { * }$ . In fact, $P ^ { * }$ can be defined as follows. ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { d P ^ { * } } { d P } | _ { \\mathcal { F } _ { T } } = \\exp \\left\\{ - \\int _ { 0 } ^ { t } \\frac { \\mu - r } { \\sigma + C _ { 1 } S _ { u } } d u - \\frac { 1 } { 2 } \\int _ { 0 } ^ { t } ( \\frac { \\mu - r } { \\sigma + C _ { 1 } S _ { u } } ) ^ { 2 } d u \\right\\} .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "According to Girsanov theorem,we can get that ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB _ { t } ^ { * } = B _ { t } + \\int _ { 0 } ^ { t } \\frac { \\mu - r } { \\sigma + C _ { 1 } S _ { u } } d u\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "is a Brownian motion under $P ^ { * }$ ，and the SDE(3.1） becomes ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd S _ { t } = S _ { t } \\left[ r d t + ( \\sigma + C _ { 1 } S _ { t } ) d B _ { t } ^ { * } \\right] .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "It follows from Lemma 3.2 that the solution of (5.3) is ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { S _ { t } = \\frac { \\sigma Y _ { 0 } e ^ { \\left( r - \\frac { \\sigma ^ { 2 } } { 2 } \\right) t + \\sigma B _ { t } ^ { * } } } { \\left( \\frac { r } { r - \\frac { \\sigma ^ { 2 } } { 2 } } - 1 \\right) C _ { 1 } Y _ { 0 } e ^ { \\left( r - \\frac { \\sigma ^ { 2 } } { 2 } \\right) t + \\sigma B _ { t } ^ { * } } - \\frac { r } { r - \\frac { \\sigma ^ { 2 } } { 2 } } C _ { 1 } Y _ { 0 } e ^ { \\sigma B _ { t } ^ { * } } + 1 } } \\\\ & { = : f _ { t } ( B _ { t } ^ { * } ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "According to the risk neutral pricing formula, we can obtain that the price of reproducible European contingent claim $\\xi$ in time $t$ is ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { t } = E ^ { * } \\left[ e ^ { - r ( T - t ) } ( S _ { T } - K ) ^ { + } | \\mathcal { F } _ { t } \\right] .\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "By the Markov property of the diffusion process ( $S _ { t }$ ),we have ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { t } = E ^ { * } \\left[ e ^ { - r ( T - t ) } ( S _ { T } - K ) ^ { + } | S _ { t } \\right] .\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Thus,we can denote $V _ { t } = C ( t , S _ { t } )$ . Then ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\quad _ { \\mathrm { S Y } } = \\frac { \\lambda _ { \\mathrm { R } } ^ { 2 } } { \\mu _ { 0 } ^ { 2 } } \\mathrm { S y } = \\frac { \\lambda _ { \\mathrm { R } } ^ { 2 } } { \\mu _ { 0 } ^ { 2 } } \\mathrm { S y } = \\frac { \\lambda _ { \\mathrm { R } } ^ { 2 } } { \\mu _ { 0 } ^ { 2 } } - \\frac { \\lambda _ { \\mathrm { R } } ^ { 2 } } { \\mu _ { 0 } ^ { 2 } } - \\frac { \\lambda _ { \\mathrm { R } } ^ { 2 } } { \\mu _ { 0 } ^ { 2 } } } \\\\ & { = \\sqrt { \\mu _ { 0 } ^ { 2 } + \\mu _ { 0 } ^ { 2 } } \\sqrt { \\mu _ { 0 } ^ { 2 } \\mu _ { 0 } ^ { 2 } } \\left( \\mathrm { S y } - \\mathrm { S y } \\right) \\cdot \\mu _ { 0 } ^ { 2 } \\mathrm { S y } \\left( \\mathrm { S y } - \\mathrm { S y } \\right) } \\\\ & { \\quad _ { \\mathrm { S y } } = \\frac { \\lambda _ { \\mathrm { R } } ^ { 2 } } { \\mu _ { 0 } ^ { 2 } } \\frac { \\lambda _ { \\mathrm { R } } ^ { 2 } } { \\mu _ { 0 } ^ { 2 } } } \\\\ & { = \\sqrt { \\mu _ { 0 } ^ { 2 } + \\mu _ { 0 } ^ { 2 } } \\frac { \\lambda _ { \\mathrm { R } } ^ { 2 } } { \\mu _ { 0 } ^ { 2 } } \\frac { \\lambda _ { \\mathrm { R } } ^ { 2 } } { \\mu _ { 0 } ^ { 2 } } \\frac { \\lambda _ { \\mathrm { R } } ^ { 2 } } { \\mu _ { 0 } ^ { 2 } + \\mu _ { 0 } ^ { 2 } } } \\\\ & { \\quad _ { \\mathrm { S y } } = \\frac { \\lambda _ { \\mathrm { R } } ^ { 2 } } { \\mu _ { 0 } ^ { 2 } } \\frac { \\lambda _ { \\mathrm { R } } ^ { 2 } } { \\mu _ { 0 } ^ { 2 } } \\frac { \\lambda _ { \\mathrm { R } } ^ { 2 } } { \\mu _ { 0 } ^ { 2 } } \\frac { \\lambda _ { \\mathrm { R } } ^ { 2 } } { \\mu _ { 0 } ^ { 2 } + \\mu _ { 0 } ^ { 2 } } } \\\\ &  \\quad _ { \\mathrm { R } } + \\frac { \\lambda _ { \\mathrm { R } } ^ { 2 } } { \\mu _ { 0 } ^ { 2 } } \\frac { \\lambda _ { \\mathrm { R } } ^ { 2 } } { \\mu _ { 0 } ^ { 2 } } \\frac { \\lambda _ { \\mathrm { R } } ^ { 2 } } \\\\ &  \\quad _ { \\mathrm { R } } + \\frac { \\lambda _ { \\mathrm { R } } ^ { 2 } } { \\mu _ { 0 } ^ { 2 } } \\frac { \\lambda _ { \\mathrm { R } } ^ { 2 } } { \\mu _ { 0 } ^ { 2 } } \\frac { \\lambda _ { \\mathrm { R } } ^ { 2 } } { \\mu _ { 0 } ^ { 2 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "whereδ=r=z,d=f²(K)-f¹(）， (5--e）S(+)e(-+f(）),f $f _ { t } ^ { - 1 } ( x ) =$ ${ \\begin{array} { r l } & { { \\frac { 1 } { \\sigma } } \\ln \\left[ \\left( \\left( { \\frac { r } { r - \\sigma ^ { 2 } / 2 } } - 1 \\right) e ^ { \\left( r - \\sigma ^ { 2 } / 2 \\right) t } - { \\frac { r } { r - \\sigma ^ { 2 } / 2 } } \\right) { \\frac { C _ { 1 } x } { \\sigma } } \\right] - { \\frac { 1 } { \\sigma } } { \\big ( } r - { \\frac { \\sigma ^ { 2 } } { 2 } } { \\big ) } t } \\end{array} }$ r/)]()tIditio,Nddeoteddldistribution function,and $Z$ obeys standard normal distribution. □",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "6 Conclusion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we find that the volatility elasticity of the CEV model can not be simply treated as a constant.To address this issue,we use stochastic analysis tools to deduce the stochastic diffrential equation model when the volatility elasticity is a constant.Since the volatility elasticity for most of risk assets is not unchanged, we then extend this model to the generic case when the volatility elasticity is time-varying.Our model can describe the positive correlation between the volatility and the asset price,which often occurs in the commodity markets. In contrast,the CEV model can only describe the negative correlation. These theoretical findings are validated by actual market data. Furthermore, we derive the explicit pricing formula of European options based on our model, which has the similar form with Black-Scholes formula and is easy to calculate. This formula has an important guiding significance in the applications of derivatives pricing in the actual commodity markets. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[Beckers,1980] Beckers,S.(1980).The constant elasticity of variance model and its implications for option pricing. the Journal of Finance, 35(3):661-673.   \n[Black and Scholes,1973] Black, F.and Scholes,M.(1973). The pricing of options and corporate liabilities. Journal of Political Economy,81(3).   \n[Black,2006] Black,K.H. (2006). Improving hedge fund risk exposures by hedging equity market volatility,or how the vix ate my kurtosis. The Journal of Trading,1(2):6-15.   \n[Bolerslev,1986] Bollerslev，T. (1986)．Generalized autoregressive conditional heteroskedasticity. Journal of econometrics, 31(3):307-327.   \n[Carr and Linetsky, 2006] Car, P.and Linetsky, V. (2006). A jump to default extended cev model: an application of bessel processes.Finance and Stochastics,1O(3):303-330.   \n[Cont, 2007] Cont,R. (2007). Volatility clustering in financial markets: empirical facts and agent-based models. In Long memory in economics, pages 289-309. Springer.   \n[Cox,1996] Cox, J. C. (1996). The constant elasticity of variance option pricing model. Journal of Portfolio Management, page 15.   \n[Cox and Ross1976] Cox, J. C. and Ross,S.A. (1976). The valuation of options for alternative stochastic processes. Journal of financial economics, 3(1-2):145-166.   \n[Deaton and Laroque,1992] Deaton,A.and Laroque,G. (1992)． On the behaviour of commodity prices. The review of economic studies, 59(1):1-23.   \n[Emanuel and MacBeth,1982] Emanuel, D.C.and MacBeth, J.D.(1982).Further results on the constant elasticity of variance call option pricing model. Journal of Financial and Quantitative Analysis, 17(4):533-554.   \n[Fama and French,1987] Fama,E.F.and French,K.R.(1987). Commodity futures prices: Some evidence on forecast power, premiums, and the theory of storage. Journal of Business, pages 55-73.   \n[Geman, 2009] Geman, H. (2009). Commodities and commodity derivatives: modeling and pricing for agriculturals,metals and energy. John Wiley & Sons.   \n[Geman and Leonardi, 2005] Geman, H. and Leonardi，M.-P. (2005). Alternative approaches to weather derivatives pricing. Managerial Finance.   \n[Hagan et al., 2002] Hagan, P. S., Kumar, D., Lesniewski,A. S.,and Woodward, D.E. (2002). Managing smile risk. The Best of Wilmott, 1:249-296.   \n[Heath and Platen,2002] Heath， D.and Platen， E. (2002). Consistent pricing and hedging for a modified constant elasticity of variance model. Quantitative Finance, 2(6):459.   \n[Hull and White,1987] Hul, J.and White,A. (1987). The pricing of options on assets with stochastic volatilities. The journal of finance, 42(2):281-300.   \n[Hull,2003] Hull, J.C. (2003). Options futures and other derivatives. Pearson Education India.   \n[Madan and Seneta,1990] Madan, D.B.and Seneta, E. (1990). The variance gamma (vg) model for share market returns. Journal of business,pages 511-524.   \n[Marshall, 2013] Marshall,A. (2013). The elasticity of wants. In Principles of economics, pages 86-97. Springer.   \n[Nelson,1991] Nelson, D.B.(1991). Conditional heteroskedasticity in asset returns: A new approach. Econometrica: Journal of the Econometric Society, pages 347-370.   \n[Samuelson,l965] Samuelson,P.A. (1965). Rational theory of warrant pricing. Industrial Management Review, 6(2):13. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

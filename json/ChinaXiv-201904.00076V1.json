@@ -1,0 +1,501 @@
+[
+    {
+        "type": "text",
+        "text": "绿色消费情境下消费者为什么会言行不一？\\* ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "戚海峰于 辉 向伟林 孙韵益 徐昌皓（华东理工大学商学院上海200237）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 绿色消费情境下的态度--行为差异表现为个体对绿色产品所持态度与实际购买行为之间的不一致性。在可持续发展成为消费趋势之一的今天对该问题的研究具有重要意义。研究梳理了绿色消费行为中态度一行为差异的基本解释机制，在此基础上系统总结了自2010年以来个体心理层面的实证研究，并将营销与社会规范方面的相关研究成果与其进行整合。结合国内的研究现状，未来的研究需要在测量方法、动机性因素、学习与信任机制、跨文化研究等方面做进一步深入探讨。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词态度一行为差异；绿色消费行为；亲社会性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "现有研究表明消费者对环境保护会持有积极的认可态度(Liu,Wang,Shishime,&Fujitsuka,2012)，而且也表达出对绿色产品的需求(Schmeltz,2012)。但是并没有充分证据证明以往购买绿色产品的人数在显著地持续增加，绿色产品的市场份额仍然只限于整个市场的 $\\cdot$ (Bray,Johns,&Kilburn,2011)。上述现象意味着尽管消费者愿意通过购买绿色产品来防止或减少环境损害，但其对绿色产品的积极态度并不总是会转化为行动。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "就上述现象的产生而言，已有的研究尚未给予充分、系统的解释，也没有一个研究对导致上述现象的各种因素以及它们如何影响保护环境的购买行为做出全面的调查。虽然研究者从各个方面对绿色消费都开展过实证研究，但仍缺乏关于绿色消费情境下消费者态度--行为差异方面的综述性研究。国内学者曾采用质化与实证研究方法对绿色消费中的态度一行为差异的影响因素做出了初步归纳(陈凯，彭茜,2014)，但从文献的时效性、影响因素的全面性等方面来看，已经无法满足当前研究与管理的需求。鉴于目前广泛存在的态度--行为差异现象以及对此问题缺乏适当的解释，这些问题的客观存在都为开展更加系统、深入的理论回顾和评论提出了学术上的要求。此外，环境保护部门和企业对可持续产品经营与发展的日益重视，也为本研究提供了管理实践层面上的推动力。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本文主要围绕 2010年至目前绿色消费情境下消费者态度--行为差异的国内外相关研究进行了详细梳理，并就现有研究的理论贡献与不足提出相应的评价。在此基础上，就其研究的理论与管理价值以及未来的研究方向提出了一些观点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.绿色消费情境下个体为什么会产生态度一行为差异？",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "态度一行为差异实际上属于态度与行为之间关系的研究范畴，这是社会心理学领域中一个受到广泛关注的话题，主要目的在于解答态度对行为的预测性。到目前为止，研究者已经认识到态度与行为之间的关系涉及到诸多其他因素的影响，并不能简单地通过态度来预测未来的行为。随着研究的不断深化，关于态度与行为之间一般关系的认识主要集中在三方面：首先是态度自身因素，包括态度强度(Brannon,Tagler,& Eagly,2007;Petrocelli &Tormala,2007)、态度易得性(Glasman,2006)与态度的二元矛盾性(Armitage,2000;黄敏学,冯小亮，谢亭亭,2010)，其中高强度态度与易获得的态度对态度一行为关系的积极影响已经得到证实，而态度矛盾性对态度与行为之间关系的影响尚未达成共识；其次是个体因素，例如积极情绪(Seitz＆ Lord,2007)、个体的评价需求(Huskinson＆ Haddock,2004)、自我监控的人格特征(Ziegler,von Schwichow,&Diehl,2005)等等；第三是个体的主观体验与情境产生的交互影响(Hampson,Andrews,Barckley,& Severson, 2006)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以往的研究成果说明在特定的情境与因素影响下，个体的态度与行为之间会产生差异。随着时间的推进，后续研究所表现出的特点之一是关注点不断细化并聚焦于特定类型的群体及其行为，其中购买绿色产品的消费者及其态度与行为的关系就是一个典型的代表。在以往关于绿色消费的态度和行为意向的研究中，研究者认为消费者的态度、意向和绿色产品的实际购买行为遵循了计划行为理论（Theory of Reasoned Action,TRA）(Smith& Paladino,2010)，即消费者的行为是经过深思熟虑的计划的结果。这体现出消费者绿色消费行为中的理性层面。但是，计划行为理论往往并不能有效解释特定情境下某些包含道德要素的消费行为。而且，在解释消费者不同类型消费习惯之间的转变行为方面，计划行为理论也会显得束手无策。正如有些研究者指出的，计划行为理论忽略了环境和情境因素对消费者购买行为带来的外部影响(Carrington,Neville,&Whitwell,2010)。这些外部环境与情境因素客观上扮演了消费者态度转化为实际购买行为的边界条件，而这些边界条件的存在往往是导致绿色消费情境下出现消费者态度一行为差异现象的重要原因。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于发现单纯依赖态度对绿色消费行为产生的解释力较低，研究者开始将情境因素(Guagnano,Sterm,&Dietz,1995)纳入了研究范围。近来，一些学者通过引入社会认知理论（SocialCognitiveTheory,SCT）来解释可持续的消费者行为，希望基于过去行为的价值来判断未来可持续行为的发生(Phipps,Ozanne,&Luchs,2013)。该模型表明诸如态度之类的个人因素以及过去的可持续行为和社会文化环境会影响未来的可持续行为。情境因素的加入意味着存在多种内外部因素可以改变态度--行为之间关系的性质或者加强/削弱其关系强度。但是，研究者往往难以发现各个情境因素之间的联系。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在意识到基于情境因素来分析消费者态度一行为差异存在的问题后，一些研究者重新将分析的重心转移至个体的内心层面。有研究者认为消费者之所以对有机产品会产生积极态度与购买行为之间的不一致性，主要是因为其消费者导向观念与知识之间存在认知上的冲突(Hidalgo-Baz,Martos-Partal,& Gonzalez-Benito,2017)。这种基于认知失调理论（CognitiveDissonance Theory,CDT）对态度一行为差异的解释只反映了个体意识中不同观点之间的冲突，但并未解释这些观点产生冲突的过程。为了回答这一问题，行为经济学理论中的双重行动模型（DualAction Model,DAM）成为了新的理论依据，即态度一行为差异的形成是消费者的决策受到个体意识中两条不同类型的心理系统的影响所致(Terlau&Hirsch,2015)。其中心理系统1属于边缘路线，主要针对快速、自发的与潜意识的决策，此类消费决策多属于低卷入度的个体日常决策。与其相反，心理系统2则针对缓慢的、逻辑性强的、有意识的决策，其卷入度明显高于前者。根据该模型，在可持续消费情境下，消费者对此类消费所表达的态度或持有的观点反映的是来自于心理系统2的有意识的观点与欲望，而实际购买行为则强烈地受到心理系统1的影响。这种认知上的偏差是导致消费者产生态度一行为差距的内在原因。根据上述理论模型的内容，消费者强烈的绿色意识的产生需要克服已存在的（不可持续性的）消费习惯来促进行为的改变，从而为绿色消费行为做准备。Terlau 和Hirsch 的观点一定程度上弥补了认知失调视角下观点的缺陷，两种解释模式的结合能够更好地从心理冲突的角度理解态度一行为差异的形成。综合以上研究可以看出，绿色消费情境中消费者态度一行为差异的发生是消费者的态度在情境因素干扰的情况下，内心产生矛盾、冲突的外在表现。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.绿色消费情境下态度一行为差异的相关实证研究",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "绿色消费情境下的态度一行为差异现象自从得到各个领域学者的关注，研究的角度从微观到宏观已经涵养了不同的层面。从目前研究的内容来看，围绕个体需求、心理认知等内在因素的研究是最为丰富的，企业营销活动、社会规范等相关研究次之。根据这一状况，本部分将主要从个体角度对绿色消费情境下的态度一行为差异的实证研究做出回顾与梳理，在此基础上，将态度一行为差异形成的营销、社会规范等外部条件的相关研究与其整合。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1消费者对绿色产品的需求形成与变化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "绿色产品的利益涉及到消费者不同的生活目标，有可能产生需求上的冲突，进而引发态度与行为上的差异和冲突。以往研究认为，消费者对生态环境持有的情感会积极影响绿色购买意向(Kanchanapibul,Lacka,Wang,& Kai,2014)。研究进一步发现，环境关注与责任对生态知识、购买意愿和实际购买行为具有正向而直接的影响(Wang,Liu,&Qi,2014；Zhao,Gao,Wu,Wang,& Zhu,2014)。消费者对环境除了持有积极情感以外，还会通过消极情感对绿色消费行为产生影响，例如消费者的内疚(Young,Hwang,McDonald,& Oates,2010)和代际关怀(Paco,Alves,Shiel,&Filho,2013)对促进消费者绿色购买行为具有显著的积极影响。因此，可以说消费者的情感需求，特别是在环境面前表现出的敬畏之心，对消费者的绿色购买意向和行为具有积极和直接的影响。但是，以往研究只是围绕单一情感要素进行了分析，就消费者对环境、绿色产品持有不同甚至矛盾的情感时是否会产生态度--行为差异而言，目前尚未见到相关研究。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "除此以外，研究还发现多样化寻求和自我放纵也会影响对于有机食品的购买(Chen&Lobo,2012)。与Chen 和Lobo 提出的个体自我放纵的观点相对应，有些学者则认为在一些个体身上表现出的环境态度--行为差异是他们缺乏自我控制从而维持生活领域中的一致性的一种表现(Redondo&Puelles,2017)。研究认为有关环境的态度--行为差异现象不会孤立地出现，而是和其他与个体相关的不一致性相互关联，具体包括四种个体不一致现象（涉及快餐、酒精饮料、熟食和减肥产品）。这一观点对于解释环境态度--行为差异具有重要贡献，揭示了个人和环境卫生之间的显著联系。由此可见，绿色消费不仅仅是满足消费者的功能性需求，同样也具有满足心理性、象征性需求的作用，但对不同消费者而言，这些需求之间重要性的差异可以通过态度一行为差异表现出来。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "但是，消费者对绿色产品的需求在态度与行为层面上的表现可能会受到外界因素的影响而产生差异。这是因为消费者对绿色产品产生的需求与企业营销活动的着力推动也是分不开的。当企业借助营销活动展示产品的有限可得性时，有可能会对消费者绿色购买意向和行为带来负面影响(Young et al.,2010)。在这种情况下，消费者对绿色产品的积极态度与其行为之间就会产生一定程度的差异。大多数研究都发现，在绿色产品获得方面的有限可得性和困难程度将会成为购买环保产品的主要障碍(Young et al.,2010)。这种有限可得性部分是由于生产条件有限所致，但也有相当部分是企业为追求高额利润而通过营销活动营造出的。消费者一般并不喜欢花费大量时间去寻找绿色产品；他们更喜欢容易获得的产品(Young et al,2010)。由于产品的可得性与获取的便利性涉及到交易成本的高低，这可能构成了消费者购买绿色产品的障碍，从而扩大了消费者对购买绿色产品的积极态度和实际行为之间的差异。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "与有限可得性产生的负面影响相比，绿色产品的属性及其利益客观上有助于消费者对绿色产品形成积极评价进而缩小态度一行为差异。大多数研究者都认为产品属性对绿色产品购买行为具有积极影响(Chen＆Lobo,2012; Young et al.,2010)。同时，消费者对产品功能属性（满足个人的需要和欲望）的偏好程度则超过其伦理属性的重要性(Chen&Lobo,2012)。产品的品味、质量和健康都被认为是消费者购买绿色食品过程中的重要属性(Cerjak,Mesic,Kopic,Kovacic,&Markovina,2010)。在这些因素中，质量是受关注较多的对象，无论是客观的质量还是消费者的主观质量感知。例如，产品质量显著影响着消费者绿色购买意向和行为(Smith& Paladino,2010)。绿色产品的高质量感知会产生积极的影响(Aertsens,2011)，而绿色产品的低质量感知会对消费者绿色购买意向和行为产生负面影响(Smith&Paladino,2010)。从目前来看，仅有一项研究报告发现产品属性与绿色购买行为无关(Chan&Wong,2012)。当消费者因绿色产品的属性和利益而激发了需求和购买倾向时，却有可能因企业的可得性操控策略而产生退却。这对消费者的福利和企业利润的增长都有可能产生不利影响，但从目前来看，这种负面影响尚未在研究中得到关注。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "目前绿色产品的品牌化经营已经属于普遍现象，因此在研究态度一行为差异时除了需要考虑产品属性，也不能忽视品牌属性的存在。但品牌属性毕竟是一个与产品属性既有联系又有区别的概念，它对消费者态度一行为差异的形成与变化是否具有与产品属性相异的影响力，目前尚未有研究予以证实。尽管如此，通过一些文献还是能够获得一些间接的支持。例如，研究者发现消费者对绿色品牌的信任会积极地影响他们购买绿色产品的行为(Rahbar& Wahid,2011；Alshura & Zabadi,2016；Ranjan& Kushwaha,2017)。另外，品牌的知名度、品牌感知价值对消费者购买绿色产品的意向也具有显著的积极影响(Alshura＆ Zabadi,2016)。与之类似，研究者证实绿色品牌的知名度与消费者购买绿色产品的行为及相应的满意度之间存在同样的关系(Tariq,2014)。总之，生态品牌化的产品之所以能够取得商业上的成功，主要依赖于它们在消费者心目中建立起来的积极的公共形象(Ranjan＆Kushwaha,2017)。从上述研究中可以推断，优质的品牌属性有利于通过提升购买积极性来减少甚至消除消费者的态度一行为差异。由于品牌的本质是企业向消费者做出的有关自身提供的产品/服务利益的承诺与保障，在企业与消费者之间存在着信息不对称现象的情境下，需要品牌发挥必要的承诺、保障作用，以此消除行动上的犹豫。此时消费者对品牌承诺的信赖程度将一定程度上决定其态度一行为差异的水平。由此可以进一步推断，消费者对品牌化水平更高的绿色产品更不易产生态度一行为差异。但这些观点仍有待通过后续研究加以证实。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如前文所述，消费者与企业之间存在的信息不对称现象将导致消费者对企业提供的产品概念的可靠性持有不同程度的怀疑，从而阻碍其需求的满足。在这种情境下，除品牌的影响力以外，营销传播的有效性对于消费者的态度一行为差异的变化通常具有直接影响。与其他营销传播手段相比，绿色产品的包装、标签通常是消费者更加关注的重要对象，这是因为生态标签或生态认证向消费者提供了有关产品绿色特征的信息，并促使他们购买绿色产品(Young etal.,2010)。但是，从传播有效性的角度来看，如果关于产品的信息在内容、形式、传播渠道等方面设计不当的话，将会导致传播活动对目标消费者的说服效果达不到预期，甚至出现相反的结果。研究普遍承认消费者对于绿色主张和绿色产品特性缺乏信任与自信是购买绿色产品的一个重要障碍(Tung,Shih,Wei,& Chen,2012)。对于那些掌握一定绿色产品知识的消费者来说，他们会对企业提出的环境主张持怀疑态度，尤其是各种产品的制造、标签和认证程序，需要基于更多的绿色产品的信息进行评估后才会付诸行动(Nittala,2014)。因此产品生态标签、环境广告等营销传播活动只有通过友好方式提供清晰、客观、详细的有关企业绿色特征方面的信息，才能基于消费者的信任减少态度一行为差异。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2消费者绿色需求实现过程中的行为转变",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "绿色产品的使用意味着消费者通过对绿色产品知识、绿色消费模式与观念的学习，逐渐塑造出新的消费态度与行为模式。但是受内外因素及学习方式的影响，消费者态度、行为层面的变化往往并不会保持一致或同步，尤其是新旧行为模式之间的转换成本、理念冲突往往会阻碍消费模式的转变。例如，青少年时期是个体学习消费习惯和偏好的重要阶段，此时所形成的消费习惯将会对成年阶段消费行为的可持续性产生重要的影响。目前关于儿童环境教育与意识的相关研究在北美、欧洲、澳大利亚和南美已经具有相当规模(Larsson,Andersson,&Osbeck,2010)。研究也表明儿童通过学习关于环境、个人福利和社会可持续性各方面内容将会对这些话题产生关注(Francis&Davis,2015)。这意味着学习如何承担一个消费者的责任是几童重要的社会化内容，通过学习可以帮助他们建立对可持续性问题的积极关注，但是对于儿童来说，成本、便利性、同伴压力、享乐偏好等因素是导致他们不发生可持续性消费的主要因素(Francis&Davis,2015)，态度一行为差异现象同样也会发生在他们身上。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Grauerholz等在研究中让学生参与一个“不购买”的体验式练习项目，希望大学生能通过体验式学习使自己的消费习惯发生行为上的转变，抑制自己购买不必要商品的倾向，从而增强学生的社会责任感，提升消费的可持续性(Grauerholz,Bubriski-McKenzie,& Jacques,2015)。研究者发现，学生的消费习惯发生了预期的转变，这项活动激发了学生减少消费的动机。更重要的是，相比传统的环保知识的学习方式，体验式学习在教育理念方面体现出积极拓展性与贴近实际的特点，更有利于大学生将自己的生活与社会责任相联系。当前国内公益广告传播普遍存在诉求单一、说教倾向明显的特点(戚海峰，费鸿萍，郑玉香,2018)，导致社会公众绿色消费教育过程中的学习参与度偏低、体验性不足，从而为态度一行为差异的形成提供了条件。Francis 和Davis以及Grauerholz等的研究体现出学习和学习方式的科学性在个体良好消费习惯培养过程中的重要意义，为解决消费者态度一行为差异问题提供了一个重要途径。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从行为决策的理论角度来看，在消费者决定是否改变原有习惯的决策过程中，安于现状偏差、参照点效应等因素往往会影响消费者最终的行为表现(李鹏娜，王延伸，杨金花，孙彦,2017)，从而决定态度一行为差异的形成。例如，有研究者在调查住户的节能用电行为时发现，即使对用电智能设备的节能特点有所了解，但也有相当比重的住户完全没有使用或没有继续使用该设备，而是选择维持现状(Murtagh,Gatersleben,&Uzzell,2014)。之所以产生这种现象，与消费者评估决策方案时选择以现状为参照基准（即参照点）是分不开的，因为安于现状偏差通常透射出消费者通过现状参照来规避更换设备可能带来生活不便的心理，而忽略了使用该设备带来的潜在成本节约。因此，从理论上讲通过改变消费者的参照点可以减轻甚至消除用户因安于现状所导致的态度一行为差异。这一点一定程度上得到了研究的证实，例如，企业通过电子邮件告知用户自身和邻居的用电量可以有效减少能源消费(Allcott,2010)。与之类似，通过及时告知参与家庭与其他家庭的用电量也可以有效地促使家庭用电量的减少(Schwartz,Fischhoff,Krishnamurti,& Sowell,2013)。可以看出，消费者的家庭用电消费发生变化与参照点由自身现状向其他家庭的转移是分不开的。因此，参照点的合理选择有助于推动消费者在行为上做出有利的调整，从而减少态度一行为差异。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在改变自身对新事物的态度与自身行为模式的学习过程中，消费者需要获取相关知识与信息。因此许多有关消费者环保知识的研究都承认知识对消费者绿色产品的购买意向和实际购买行为具有积极影响(Eze&Ndubisi,2013)。就知识如何影响态度-行为差异而言，有研究认为在绿色消费情境下知识可以和消费者导向通过交互作用对态度一行为差异现象产生缓和作用(Hidalgo-Baz,Martos-Partal,& Gonzalez-Benito,2017)。另外，从感知的角度来看,绿色感知（例如对绿色产品、绿色行为的感官接触）对态度一行为差异也具有一定的影响，消费者持有的一些不利的绿色感知会导致其不愿意参与绿色消费活动(Johnstone& Tan,2015)。感知环节是与消费者学习活动密切相关的重要的获取相关信息的过程，个体感知的内容及形式将直接影响后续的学习效果。目前大众媒体对绿色消费的宣传多数都属于传统的一般化或大众化信息(General Information),而不是定制化或个性化信息(Tailored Information,Customized Information)(Iwata, Katayama,& Arimura,2015)。虽然政府宣传的关于节能消费的信息政策一定程度上会影响受众的知识、态度、意识和价值观念,却往往不能显著地、实质性转变家庭能源消费行为模式(王建明,2016)。研究也证明传统信息呈现的需求侧响应并不完全奏效(Prothero et al.,2011；Frederiks,Stenner,& Hobman,2015)。上述研究表明，绿色消费的营销传播活动不仅受到信息内容的影响，也会因信息形式的框架效应而导致消费者产生态度一行为差异。因此，在有关绿色消费的营销传播活动中，信息的权威性、准确性、直观性、体验性等特征之间的协调决定了信息说服效果的好坏，影响消费者对绿色产品相关知识的学习、评价与印象形成。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "除了通过自身的认知活动来了解绿色产品以外，消费者也会通过社会学习的方式来观察周围的绿色消费行为，从而对自己的态度、行为产生影响。在这一过程中，相关的社会规范、参照群体通常会起到重要的示范作用。许多研究都证明，主观或社会规范和参照群体对绿色产品购买意向和实际购买行为具有正向影响(Eze＆Ndubisi,2013；Liu etal.,2012)，但也有研究认为社会规范与购买意向和实际购买行为之间存在负相关关系（Connell,2010;Lee,2010)。研究结果进一步表明，社会参照群体，特别是同辈和其他与消费者关系亲密的人对其绿色购买行为的决策过程具有更强的影响(Lee,2010; Salazar, Oerlemans,& Van Stroe-Biezen,2013; Tsarenko,Ferraro,Sands,&McLeod,2013)。在影响力的大小方面，Moser 基于计划行为理论，在对德国消费者绿色购买行为的研究中发现，个人规范对消费者绿色产品购买行为的实际发生具有显著的积极影响，另外，与价格联系密切的支付意愿也具有类似的作用，而态度的影响则不显著(Moser,2015)。Moser 的研究说明了在绿色消费情境下，态度往往仅能表达个体对绿色产品的一种偏好，至于这种偏好是否能够实现，还要受制于价格、外部规范等各种因素，从而导致个体对购买绿色产品产生态度一行为差异。总之，无论主观/社会规范和参照群体对消费者绿色购买行为产生的影响是积极的还是消极的，作为消费者学习内容的来源之一，它会对个体态度产生促进或制约的作用，从而导致消费者态度与行为之间的关系形成分离或进一步加强。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "总而言之，消费者绿色购买行为的转变与对绿色产品与消费的相关知识的学习是分不开的，个人因素、学习的类型、传统消费习惯、学习情境等因素都会一定程度上影响学习行为对以往消费习惯的影响效果，从而产生关于绿色产品的态度--行为差异。但在这一过程中态度--行为差异的形成是如何受到上述因素影响的，目前尚未得到具有说服力的统一解释，有待进一步的研究。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3消费者的心理认识活动对态度一行为差异的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "如前文所述，现实中存在着各种因素会影响消费者绿色消费学习的效果，这些因素的存在会促使消费者产生纠结、怀疑等矛盾心理，从而导致其态度与行为之间存在差异。例如，感知消费者效能反映了个体就自身消费对整个问题影响程度的评价。这种评价一定程度上代表了消费者对自身解决问题、影响环境的能力的一种自信和肯定。研究者发现感知消费者效能和绿色产品的购买意愿/采纳行为之间呈正相关关系(Gleim,Smith,Andrews,&Cronin,2013)，而且该因素还会间接地影响消费者的购买意向，因为它显著地影响了消费者的态度、主观规范和感知的行为控制，进而决定消费者的购买意向(Kang,Liu,& Kim,2013)。但是在特定情境下，这种自信会受到外部因素的影响而下降。由于消费者改变环境的能力与承担绿色产品支出的收入水平、财富拥有量等直接相关，因此绿色产品的高价会因为增加消费者的支出而影响消费者对改变环境的能力的感知，从而导致消费者对产品价值的关注程度超过对伦理因素的考虑从而扩大绿色产品购买情境下态度和行为之间的差距(Connell,2010;Gleim et al.,2013)。当消费者缺乏经济资源时，价格的这种负面影响会进一步扩大，从而形成绿色产品购买行为的主要障碍(Connell,2010)。对那些价格敏感度更高的消费者而言，高价格更容易对绿色购买行为产生负面影响(Ma,Littrell,& Niehm,2012)。但也有研究发现，价格的这种影响在个体生命周期不同阶段的表现存在差异，年轻消费者认为价格的影响是暂时的，他们会将有机食品的购买延迟到生命周期中较晚的阶段(Aschemann-Witzel&Niebuhr Aagaard,2014)，这应该与不同阶段个体的经济资源拥有量具有直接联系。与价格能够削弱消费者改变环境的能力相类似，不利的零售环境也会成为环境可持续购买行为的制约因素(Connell,2010)，这应该与渠道决定消费者获得产品的便利性、交易成本的高低等方面存在一定的联系。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "与感知消费者效能类似，感知行为控制作为一种对实际控制的主观感受，对于绿色产品的购买意向和实际购买行为也具有显著的积极影响(Ma,Littrell,& Niehm,2012；Wang etal.,2014)。可以说，虽然有一些证据表明感知行为控制对绿色购买行为有积极影响，但由于该领域的研究有限，因此有必要进行进一步的实证研究。除以上认知因素以外，研究者还发现，对绿色购买行为后果的感知和反应效能也会影响绿色购买行为的发生(Wang et al,2014)，从而形成与态度之间的差异。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "尽管消费者在面对绿色产品选择时会产生心理冲突，但是以往相关文献证明消费者的环境、社会和伦理价值观与他们的绿色产品购买行为之间存在正相关性(Chen&Lobo,2012;Eze & Ndubisi,2013;Wang et al.,2014; Young et al.,2010)。进一步讲，健康与安全之类的个人主义价值观、在饮食方面追求快乐之类的享乐价值观会积极影响绿色产品的购买行为，尤其是绿色食品的购买(Cerjak etal.,2010)。因此，消费者的价值导向（例如环保、健康、享乐)能够减轻消费过程中产生的认知失调现象，从而促使积极的态度转变为实际购买行为(Hidalgo-Baz et al.,2017)。由此可见，发达国家的消费者之所以在绿色消费方面要比发展中国家消费者体现得更加主动与积极，与其持有的更强烈的环境价值观具有直接联系。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "但是，这并不意味着价值观、伦理道德能够帮助消费者完全解决此类心理冲突问题。伦理消费(Ethicalconsumption,EC)是与绿色消费类似的行为，也强调消费者在获取、使用或处置产品时其个人行为对社会、环境或动物的影响,要求消费者尽量做到最小化消极影响、最大化社会利益(吴波，李东进,2014)。在伦理消费中，人们尽管会向特定对象表达出自身的关心，但研究结果表明，人们关心的表达并不一定导致关心的给予(Shaw,McMaster,&Newholm,2016)。这种现象会具体化到特定的关系情境中，例如在母亲与孩子的关系情境中，母亲的关心对消费决策中的伦理困境就会产生显著的影响，这种困境可以表现为在消费决策方面的态度—行为差异(Heath,O'Malley, Heath,& Story,2016)。这表明有时候个体的价值观、道德规范因素也不能有效帮助消费者处理个人利益与社会利益之间的矛盾，从而产生诸如绿色消费情境下的态度一行为差异现象。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从总体而言，个人价值观、道德规范的确对于购买意愿和实际购买行为具有显著影响(Gleim etal.,2013)，它们可以一定程度上坚定消费者购买绿色产品的决心。但是，这种促进作用往往会受到现实环境中多种情境因素的影响，从而导致其积极性下降。例如消费者对利他与自利、公开与私下场合的感知会影响道德产品消费的动机并进而产生不同类型的态度一行为差异(Antoneti& Maklan,2015)。因此，在从道德、伦理角度研究态度—行为差异时，需要结合其他情境因素，才能更好地解释该现象的形成。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.4小结 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "通过以上的文献整理，可以看出，质量、生活品质等方面的需求是激发消费者购买绿色产品的内在驱动力，健康、环保之类的价值观则进一步强化了消费者的这种偏好。消费者在了解并被绿色产品吸引的过程中，产品的高价格、低可得性和消费者对绿色产品信任的不足却阻碍了这种需求向行为的转化，降低了消费者保护环境的主动性。上述因素相互作用，力量的此消彼涨是导致消费者态度一行为差异形成的基本过程。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "在绿色消费情境下消费者态度一行为差异的研究中，像品牌属性、特定的情绪（包括内疚、代际关怀）、商店相关的属性和广告的影响等变量，在目前的研究中所受的关注仍然较少，未来的研究应该加大对这些因素研究的投入程度。此外，大多数关于绿色消费的实证文章都依赖于消费者自我报告的态度和行为;几乎没有发现某一研究是基于对现实中消费者行为的观察。未来的研究应当通过观察消费者的实际行为或者采取其他形式的数据挖掘手段抓取相关数据更加客观地了解消费者在现实中的表现。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.研究展望",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "以上文献回顾与评价反映出国外学者在绿色消费情境下消费者态度一行为差异问题的研究上已经积累了相当丰富的学术资源。尽管许多观点之间仍然存在一定的冲突性，但并不妨碍围绕该问题形成了一定规模的研究体系。与国外相比，国内研究在系统性与深入性上都存在明显的不足(王财玉,雷雳,吴波,2017；陈凯，赵占波,2015；陈凯，彭茜,2014)，研究模式体现出以参照国外研究成果为主，例如选择卷入度、感知可获得性、消费者感知效力、社会规范、价格、信任等典型影响因素做出一定的探索研究(万松钱，鞠芳辉,2012;王万竹，王京安，金晔,2012;王楠，何娇,2016)，尽管有学者也尝试提出一些新的研究设想，例如从调节聚焦的角度来解释可持续消费活动中的态度一行为差异现象的形成（王万竹，金晔，姚山季,2012)，但需要经过实证研究的检验。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "从总体来看，国内学界在绿色消费情境下的态度一行为差异研究方面与国外存在明显的差距，研究内容以描述性分析居多，实证研究相对较少。而且迄今为止也未见到有文章围绕相关研究成果进行回顾与评论，这不利于对以往研究的反思和未来研究方向的探索。在目前政府、企业与消费者对可持续发展问题给予高度重视的情况下，尤其是对于中国这种因经济迅速发展而带来大量环境问题的国家，态度一行为差异问题研究具有的经济与社会意义以及学术价值是毋庸置疑的。由于影响态度一行为差异的因素大体上可以归结于个体性、情境性与方法性等方面，因此未来的研究方向可以在这个基本方向的基础上做进一步完善。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.1行为主体范畴的拓展及相关研究",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "首先，过去态度一行为差异问题研究中所关注的行为主体多数都是个体，很少有从群体/组织的角度进行研究。就个体性主体而言，尽管当前研究已经形成了比较丰富的成果，但是仍然具有一定的研究空间。例如以往关于态度一行为差异研究中涉及的态度多为一元性质的，但是绿色消费涉及到多重动机，而且受到各种个体、情境因素的影响，消费者对绿色产品产生矛盾态度的可能性很大。虽然有研究者认为矛盾态度对个体的态度一行为差异具有影响(Jiang,Liang,Wang,& Sun,2016)，但也有观点认为由于矛盾态度会导致行为的不确定性，从而降低了态度与行为之间的关系(Povey,Wellens,& Conner,2001;Conner et al.,2002)。因此在绿色消费情境下矛盾态度究竟会如何影响消费者的态度一行为差异，目前尚无法做出明确定论，也未见到相关文献，有待今后的研究予以验证。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "如前文所述，消费者对绿色产品的信任有赖于适当的学习行为，推动新旧消费习惯之间的转换。但是这种学习行为发生的过程及其影响学习效果的因素有哪些，现有文献还未做出系统的研究。因此，企业通过了解消费者的学习行为与信任机制，掌握其态度/行为变化与营销活动之间的关系，引导其学习行为，提升消费者对自身产品的信任水平，是在制度信任水平难以产生质的改变的情况下所能诉诸的有效手段。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "以往绿色产品信任研究的基本背景多数立足于西方成熟的市场经济体制，社会信任机制总体处于稳定有效的状态下。但是由于信息不对称的原因，仍然会出现消费者对绿色产品相关信息持怀疑态度的现象。由此可见，如何增强消费者对绿色产品的信任仍是未来研究的一个重要课题。对于制度型信任机制发展水平较低的中国而言，这一研究的重要意义更加突出。从社会信任的角度来看，虽然政府机构与企业属于不同类型的组织，但是两者在社会信任的发展过程中都能够发挥重要作用，前者通过信任制度、规范的建立与推广从交易制度的层面推动普遍性的社会信任机制的形成与完善，后者则在信任机制的约束下，结合交易过程与交易对象的具体特征让消费者产生直接的信任感，两者是相辅相成的关系。因此，微观与宏观层面的信任机制如何相互作用，对消费者的态度一行为差异将产生何种影响，这些问题的研究无论是对树立企业的绿色品牌形象还是推动社会信任机制的发展均具有重要意义。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "就群体/组织性主体而言，目前的研究很少。但并不妨碍将其纳入研究范畴。而且有个别研究已经从企业组织的层面证实了关于食品安全问题的态度一行为差异现象(Moreaux,Adongo,Mensah,&Amuquandoh,2018)。由于在绿色消费情境中，企业是提供绿色产品的主体，企业自身对绿色产品发展的态度与行为的关系很大程度上决定了消费者对相关产业的信心。在这一点上，国产奶粉产业发展遇到的困境值得反省和借鉴。由此可见，如何了解企业对绿色产品及消费的态度一行为差异现象、形成机制以及对企业的经营策略会产生何种影响，无论是对于提升企业绿色产品经营的规范性、增强品牌价值，还是从行业健康发展、社会信任机制的建立来说，均具有重要的意义。但是，鉴于群体/组织类型的多样性，尤其是组织行为的复杂性与资料获取的难度，了解发生在此类主体上的态度一行为差异现象具有一定的挑战性。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.2情境研究中意义重要性的凸显",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "目前关于情境因素与态度一行为差异关系的研究偏重于强调消费者行为中的理性因素，而态度一行为差异的形成并不完全是个体理性判断的产物，研究也已经证明情绪对态度—行为的一致性具有情境性的调节作用(Elen,D'Heer,Geuens,& Vermeir,2013)。这意味着态度一行为差异的非理性研究路线具有一定的理论支持。更重要的是过于强调态度一行为差异现象背后的理性因素，会导致社会一文化因素与此类现象之间关系的割裂，从而弱化、消解了消费者行为所固有的传递具有特定概念/意义的功能。因此，在今后的研究中，首先需要强调此类现象与特定的社会一文化情境之间的关系，突出现象背后的象征性表达、信号传递等功能。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "如果关注社会一文化因素在态度一行为差异现象中的价值的话，跨文化研究将是一个无法回避的话题。研究者发现，绿色消费情境中的态度一行为差异现象在许多国家都得到证实(Eckhardt,Belk,&Devinney,2010)。这一方面说明此类现象的普遍性，但同时也提出了一个问题，该现象在不同国度产生的原因与机制是否完全一样。例如，在发达国家，产品的功能性受到的关注相对更多，反映出消费选择的成熟性。而在国内所谓的炫耀性绿色消费反映出消费者在绿色产品购买与消费方面的一种非理性(周培勤,2012)，也意味着一种不成熟性。研究也证实中国消费者的绿色消费行为中象征性需要占据重要地位(祝希，孙习祥，2015)。另外，不同文化区域间消费者的环境价值观、思维模式也存在显著差异，例如西方消费者在以自我为中心的思维模式的主导下，具有明显的支配、控制环境的价值导向。东亚地区的消费者则体现出与环境相协调的价值取向，中国消费者的思维模式具有更加突出的情境导向的特点。相比之下，包括中国消费者在内的东亚地区的个体依环境而定的思维和价值观可能更容易导致态度的多变，从而与行为产生差异，这同样是未来值得关注的问题。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "另外，不确定性在以往的情境因素研究中所受的关注相对较少，尤其对于欠发达国家而言，经济、社会发展及环境变化的加速导致消费者对未来的可预测性明显下降，不确定性感知水平明显提升。尽管有研究者对不确定性与态度一行为之间的关系进行了研究（Smith,Hogg,Martin,&Terry,2007），但是所研究的不确定性的内涵聚焦于个体自我与他人之间的观点一致性，其代表性相对有限，而且个体决策行为也未涉及消费类情境。有研究者认为当远期未来的时间观点更加显著时，会增加个体对未来导向行为的态度一行为/意向的一致性(Rabinovich,Morton,&Postmes,2010)。在绿色消费情境下个体会对自身的当前付出、远期未来回报水平做出衡量，两者之间时间跨度的存在会导致消费者产生一定的不确定性感知，个体差异、其他情境因素则会进一步影响这种不确定性感知，从而通过态度一行为差异水平的变化予以表现。因此在今后的研究中，时间、人际等因素导致的不确定性因素也可以成为情境研究的另一个重要的拓展方向。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.3测量方法的综合化趋势",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "从方法论的角度来说，目前关于态度--行为差异测量的科学性及结果的客观性方面存在的争议一定程度上也影响了研究结论被其他领域研究者使用的可能性。从目前来看，研究者在获得消费者购买绿色产品的实际数据方面存在困难，需要借助各种调研工具了解消费者关于绿色产品的态度、行为意向等范畴，因此有学者认为态度一行为差异的构成可能部分是由于所采用的调研工具导致的(Auger,2006)。这一观点具有一定的合理性，同时也体现出更加客观、真实地测量消费者的态度一行为差异在该领域研究中的重要性。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "目前许多绿色消费情境中态度一行为差异量表中的测量内容是消费者的未来意向，并没有询问与实际行为相关的问题(Andorfer&Liebe,2012)。这导致调查对象可能会隐瞒、夸大或错误地记忆自己的实际行为，而那些聚焦于意向与态度的调查对象则由于社会期许的原因而倾向于过高估计自己的购买可能性(Liebe,Andorfer,Gwartney,& Meyerhoff,2014)。基于这一原因，研究者认为在进行相关量表的设计时，强调情境创造的重要性，即特定问题要紧密贴近消费者决策时的情境，这样做的好处是可以减少一些以往调查中的内在问题(Auger, 2006)。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "另一方面，态度测量在今后的态度一行为差异的研究中仍然不可或缺，如何降低自陈式数据收集方法的缺陷给研究带来的负面影响就是未来研究需要面对的问题。个体对某对象的态度通常包括外显与内隐两个层面。而当内隐态度与外显态度有冲突的时候，很多行为都是内隐态度引起的(张红涛，王二平,2007)。有研究者针对吸烟者和素食者/杂食者关于污名化行为（即吸烟行为）的态度一行为关系，使用外显与内隐态度测试手段进行了测试(Swanson,Rudman,&Greenwald,2001)。结果表明，相比内隐态度层面，吸烟者只是在外显态度层面上对吸烟行为表现出更强的态度一行为一致性，他们内心则更倾向于对吸烟行为的认同。相反，素食者/杂食者在外显与内隐态度层面上都表现出态度一行为一致性。可以进一步判断，内隐态度测试的有效性很大程度上取决于是否能够把握个体内心深处对测试对象所持有的根深蒂固的观念或想法，例如对特定事物的刻板印象与偏见。因此，对于绿色消费情境下态度一行为差异的研究中如果结合内隐态度测试的话，在测试设计中选择那些消费者持有一定刻板印象或偏见的态度对象作为研究对象，应当有助于产生更加理想的测试效果。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "综上所述，在今后的研究中，测量科学性这一问题的解决可以考虑采用更加综合化的测量手段，包括态度测量与行为测量、外显态度与内隐态度测量等方法的结合。通过不同手段的综合运用，利用各自的优势弥补其他方法的缺陷，从而获得更加科学、真实的测量结果。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "陈凯，彭茜.(2014).绿色消费态度-行为差距分析及其干预.科技管理研究,(20),236-241.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "陈凯，赵占波.(2015).绿色消费态度-行为差距的二阶段分析及研究展望.经济与管理,29(1),19-",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "24. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "黄敏学;冯小亮;谢亭亭.(2010).消费者态度的新认知：二元化的矛盾态度.心理科学进展,18(6),987-996.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "李鹏娜，王延伸，杨金花，孙彦.(2017).行为决策理论在能源节约管理中的应用.心理科学,40(3),760-765.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "戚海峰，费鸿萍，郑玉香.(2018).利己/利他公益广告诉求对亲社会性消费行为的影响研究.财经论丛,231(3),86-96.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "王财玉，雷雳，吴波.(2017).时间参照对绿色创新消费“不作为惰性”的影响.心理科学进展，25(1), 1-11.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "王建明.(2016).消费碳减排政策影响实验研究.科学出版社.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "王楠，何娇.(2016).有机食品购买行为发生机制研究--以北京市消费者为例.消费经济,32(1),73-78.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "万松钱，鞠芳辉.(2012).绿色消费中的“态度一行为意向”差距及其政策含义.东 北大 学学报（社会科学版），14(3),212-224.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "王万竹，王京安，金晔.(2012).可持续消费态度和行为差异成因探讨.生态经济,5,12-16.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "王万竹，金晔，姚山季.(2012).可持续消费态度行为差异：基于调节聚焦视角的研究.生态经济,9(257),55-60.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "吴波，李东进.(2014).伦理消费研究述评与展望.外国经济与管理,36(3),20-29.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "张红涛，王二平.(2007).态度与行为关系研究现状及发展趋势.心理科学进展,15(1),163-168周培勤.(2012).透视“炫耀性绿色消费”.环境保护，20-23.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "祝希，孙习祥.(2015).中国消费者绿色消费动机来源分析--功能性需要还是象征性需要.企业经济,8(424),68-75.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Aertsens,J. (2O11). Organic food as an emerging market: Personal determinants of consumption, supply governance and retail strategies.doctorial theis, Ghent University,Ghent(Belgium) ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Allcott,H. (20o9). Social norms and energy conservation. Journal of Public Economics, 95(9),1082- 1095. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Alshura, M.S.,& Zabadi,A.M.(2O16). Impact of Green Brand Trust, Green Brand Awareness, Green Brand Image,and Green Perceived Value on Consumer's Intention to Use Green Products: an Empirical ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Study of Jordanian Consumers.International Journal ofAdvanced Research,4(2),1423-1433. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Andorfer, V.A.,& Liebe, U. (2012). Research on Fair Trade Consumption-A Review. Journal of   \nBusiness Ethics,106(4),415-435. Antoneti,P.,& Maklan, S. (2015). How categorisation shapes the attitude-behaviour gap in   \nresponsible consumption. International Journal of Market Research, 57(1), 51. Armitage C J, C. M. (20oo). Atitudal Ambivalence:A test of three key hypotheses. Personality and   \nSocial Psychology Bulletin,26(11),1421-1432. Aschemann-Witzel,J.,& Niebuhr Aagaard,E. M. (2014).Elaborating on the atitude-behaviour gap   \nregarding organic products: Young Danish consumers and in-store food choice. International Journal of   \nConsumer Studies,38(5), 550-558. Auger,P.,Devinney,T.M.,&Louviere, J.J. (2oo7).To what extent do consumer ethical beliefs difer   \nacross countries? a cross-country investigation using best-worst scaling methodology. Journal of Business   \nEthics,3(70),299-326. Brannon, L.A., Tagler, M. J.,& Eagly, A. H. (2007). The moderating role of atitude strength in   \nselective exposure to information. Journal of Experimental Social Psychology, 43(4), 611-617. Bray, J., Johns,N.,& Kilburn,D. (2011).An Exploratory Study into the Factors Impeding Ethical   \nConsumption. Journal of Business Ethics,98(4), 597-608. Carrington, M.J.,Neville, B.A.,& Whitwell, G. J. (2010). Why ethical consumers don't walk their   \ntalk: Towards a framework for understanding the gap between the ethical purchase intentions and actual   \nbuying behaviour of ethically minded consumers.Journal of Business Ethics,97(1),139-158. Cerjak,M., Mesic, Z., Kopic, M., Kovacic,D.,& Markovina, J. (2010). What motivates consumers to   \nbuy organic food: Comparison of Croatia, Bosnia Herzegovina, and Slovenia. Journal of Food Products   \nMarketing,16(3),278-292. Chan, T. yan,& Wong, C. W. Y. (2012). The consumption side of sustainable fashion supply chain:   \nUnderstanding fashion consumer eco-fashion consumption decision. Journal of Fashion Marketing and   \nManagement, 16(2),193-215. Chen, J.,& Lobo,A. (20l2). Organic food products in China: determinants of consumers' purchase   \nintentions. International Review of Retail, Distribution and Consumer Research,22(3),293-314. Connell, K. Y.H. (2o1O). Internal and external barriers to eco-conscious apparel acquisition.   \nInternational Journal of Consumer Studies,34(3),279-286. Conner, M.,Sparks,P.,Povey,R., James,R.,Shepherd,R.,& Armitage,C.J. (2002). Moderator effects ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "of attitudinal ambivalence on atttude-behaviour relationships. European Journal of Social Psychology, 32(5), 705-718. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Eckhardt, G. M., Belk, R.,& Devinney, T. M. (2010). Why don't consumers consume ethically?   \nJournal of Consumer Behaviour, 9(6), 426-436. Elen,M.,D'Heer,E.,Geuens,M.,& Vermeir,I. (20l3).The influence of mood on attitude-behavior   \nconsistency. Journal of Business Research, 66(7), 917-923. Eze,U.C.,& Ndubisi, N.O.(2013). Green Buyer Behavior: Evidence from Asia Consumers.Journal   \nof Asian and African Studies, 48(4), 413-426. Francis,J. E.,& Davis,T. (2o15).Adolescents'sustainability concerns and reasons for not consuming   \nsustainably. International Journal of Consumer Studies,39(1), 43-50. Frederiks,E.R., Stenner, K.,& Hobman,E.V. (2015). Household energy use: Applying behavioural   \neconomics to understand consumer decision-making and behaviour. Renewable and Sustainable Energy   \nReviews,41,1385-1394. Glasman L R,A. D. (2006). Forming Atitudes That Predict Future Behavior A Meta-Analysis of the   \nAttitude-Behavior Relation. Psychological Bulletin, 8(5),778-822. Gleim,M.R., Smith, J. S.,Andrews,D.,& Cronin,J. J. (2013). Against the Green: A Multi-method   \nExamination of the Barriers to Green Consumption. Journal of Retailing, 89(1), 44-61. Grauerholz,L., Bubriski-McKenzie, A., & Jacques, J. R. (2015). Teaching about Consumption and   \nSustainability. Transformative Dialogues: Teaching & Learning Journal, 8(2), 1. Guagnano, G. A., Stern, P. C.,& Dietz, T. (1995). Influences on Atitude-Behavior Relationships: A   \nNatural Experiment with Curbside Recycling. Environment and Behavior, 27(5), 699-718. Hampson, S.E.,Andrews, J.A., Barckley, M.,& Severson, H. H. (20o6).Personality predictors of the   \ndevelopment of elementary school children's intentions to drink alcohol: The mediating effects of attudes   \nand subjective norms. Psychology of Addictive Behaviors,20(3), 288-297. Heath,T., O'Malley, L., Heath, M.,& Story, V. (2016). Caring and Conflicted: Mothers' Ethical   \nJudgments about Consumption. Journal of Business Ethics,136(2),237-250. Hidalgo-Baz,M., Martos-Partal, M.,& Gonzalez-Benito, O. (2017).Atitudes vs.purchasebehaviors   \nas experienced dissonance: The roles of knowledge and consumer orientations in organic market.Frontiers   \nin Psychology, 8(FEB), 1-8. Huskinson,T.L.H.,& Haddock, G. (2oo4). Individual differences in attitude structure: Variance in the   \nchronic reliance on afective and cognitive information.Journal of Experimental Social Psychology, 40(1), ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "82-90. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Iwata,K., Katayama,H.,& Arimura,T. H. (20l5). Do households misperceive the benefits of energysaving actions?Evidence from a Japanese household survey. Energy for Sustainable Development,25,27- 33. Jiang,H.,Liang, J., Wang, H.,& Sun, P. (2o16). The interplay of emotions, elaboration, and ambivalence on atitude-behavior consistency. Journal of Consumer Behaviour, 15(2),126-135. Johnstone, M.L.,& Tan,L.P. (2015). Exploring the Gap Between Consumers’ Green Rhetoric and Purchasing Behaviour. Journal of Business Ethics,132(2),311-328. Kanchanapibul, M.,Lacka,E., Wang, X., & Kai, H. (2014). An empirical investigation of green purchase behaviour among the young generation. Journal of Cleaner, 66, 528-536. Kang, J.,Liu,C.,& Kim, S. H. (2013). Environmentally sustainable textile and apparel consumption: The role of consumer knowledge, perceived consumer effectiveness and perceived personal relevance. International Journal of Consumer Studies,37(4), 442-452. Larsson, B.,Andersson, M.,& Osbeck, C.(2010). Bringing environmentalism home: Children's influence on family consumption in the nordic countries and beyond. Childhood,17(1),129-147. Lee,K. (2011). The green purchase behavior of hong kong young consumers: The role of peer influence,local environmental involvement, and concrete environmental knowledge. Journal of International Consumer Marketing,23(1),21-44. Liebe,U.,Andorfer, V. A., Gwartney, P.A.,& Meyerhoff,J. (2014). Ethical Consumption and Social C ontext?: Experimental Evidence from Germany and the United States. University of Bern Social Sciences $W$ orking Paper No. 7, 41(7), 1-48. Liu, X., Wang, C.,Shishime,T.,& Fujitsuka,T. (20l2). Sustainable consumption: Green purchasing behaviours of urban residents in China. Sustainable Development, 20(4),293-308. Ma,Y. J.,Litrell, M.A.,& Niehm,L. (20l2). Young female consumers' intentions toward fair trade consumption. International Journal of Retail and Distribution Management, 40(1),41-63. Moreaux, S. O.,Adongo, C.A.,Mensah,1.,& Amuquandoh,F.E. (2018). There is information in the tails: Outliers in the food safety attitude-behaviour gap. Food Control,87,161-168. Moser, A. K. (2015). Thinking green, buying green? Drivers of pro - Environmental purchasing behavior. Journal ofConsumer Marketing,32(3),167-175. Murtagh,N.,Gatersleben,B.,& Uzzel,D. (2014). A qualitative study ofperspectives on household and societal impacts of demand response. Technology Analysis and Strategic Management,26(10), 1131- ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "1143. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Nittala, R. (2014). Green Consumer Behavior of the Educated Segment in India. Journal of International Consumer Marketing,26(2),138-152. Paco,A., Alves, H., Shiel, C.,& Filho, W. (2013). Development of a green consumer behaviour model. International Journal of Consumer Studies,37(4),414-421. Petrocelli JV,Tormala Z L, R. D.D. (2007). Unpacking atitude certainty:Attitude clarity and attitude correctness. Journal of Personality and Social Psychology,92(1),30-41. Phipps,M.,Ozanne,L. K., Luchs,M. G., Subrahmanyan, S.,Kapitan,S., Catlin,J. R.,... Weaver, T. (2013). Understanding the inherent complexity of sustainable consumption: A social cognitive framework. Journal ofBusiness Research, 66(8),1227-1234. Povey,R., Wellens,B.,& Conner, M. (2oo1).Atitudes towards following meat, vegetarian and vegan diets: An examination of the role of ambivalence. Appetite,37(1),15-26. Prothero,A., Dobscha, S.,Freund,J.,Kilbourne, W.E.,Luchs,M.G.,Ozanne,L.K.,& Thogersen, J. (2011). Sustainable consumption: Opportunities for consumer research and public policy. Journal of Public Policy and Marketing, 30(1),31-38. Rabinovich,A., Morton,T.,& Postmes,T. (2010). Time perspective and atitude-behaviour consistency in future-oriented behaviours. British Journal ofSocial Psychology,49(1), 69-89. Rahbar,E.,& Wahid, N.A. (2011). Investigation of green marketing tools' effect on consumers' purchase behavior. Business Strategy Series,12(2),73-83. Ranjan， Kushwaha. (2017). Impact of Green Marketing on Consumer Purchase Intention. Review of Management, 7(3-4), 9-22. Redondo, I., & Puelles,M. (20l7). The connection between environmental attitude-behavior gap and other individual inconsistencies: a call for strengthening self-control. International Research in Geographical and Environmental Education,26(2),107-120. Salazar, H.A., Oerlemans,L.,& Van Stroe-Biezen, S.(2O13). Social influence on sustainable consumption: Evidence from a behavioural experiment. International Journal of Consumer Studies,37(2), 172-180. Schmeltz,L. (2012). Consumer-oriented CSR communication: Focusing on ability or morality? Corporate Communications, 17(1), 29-49. Schwartz,D.,Fischhof,B.,Krishnamurti,T.,& Sowel,F.(O13).The Hawthorne efectandenergy awareness. Proceeding of the National Academy of Sciences,110(38),15242-15246. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Seitz S J,Lord C G,T. C.A. (2oo7). Beyond pleasure:Emotion activity affects the relationship between   \nattitudes and behavior.Personality and Social Psychology Bulletin,33(7),937-947. Shaw, D., McMaster, R., & Newholm,T. (2016). Care and Commitment in Ethical Consumption: An   \nExploration of the \"Atitude-Behaviour Gap\". Journal of Business Ethics, 136(2),251-265. Smith J, Hogg M, Martin R,Terry D.(2oo7). Uncertainty and the influence of group norms in the   \nattitude-behaviour relationship.British Journal of Social Psychology, 46(4),769-792. Smith, S., & Paladino,A. (2O1O). Eating clean and green? Investigating consumer motivations towards   \nthe purchase of organic food. Australasian Marketing Journal, 18(2),93-104. Swanson, J.E., Rudman, L.A.,& Greenwald,A. G. (2oo1). Using the implicit association test to   \ninvestigate attitude-behaviour consistency for stigmatised behaviour. Cognition and Emotion,15(2),207-   \n230. Tariq, M. Z. (2014). Impact of Green Advertisement and Green Brand Awareness on Green Satisfaction   \nwith Mediating Efect ofBuying Behavior. Journal of Managerial Sciences, 8(2),274-289. Terlau, W., & Hirsch, D. (2015). Sustainable Consumption and the Atitude-Behaviour-Gap   \nPhenomenon - Causes and Measurements towards a Sustainable Development. International on Food   \nSystem Food System Dynamics, 6(3),199-214. Tsarenko, Y.,Ferraro, C., Sands, S.,& McLeod, C. (2o13). Environmentallyconscious consumption:   \nThe role of retailers and peers as external influences. Journal ofRetailing and Consumer Services, 20(3),   \n302-310. Tung,S. J., Shih, C. C., Wei, S.,& Chen, Y.H. (2012).Atitudinal inconsistency toward organic food   \nin relation to purchasing intention and behavior: An ilustration of Taiwan consumers.British Food Journal,   \n114(7), 997-1015. Wang,P.,Liu, Q.,& Qi, Y. (2014).Factors influencing sustainable consumption behaviors: A survey of   \nthe rural residents in China. Journal of Cleaner Production, 63,152-165. Young, W., Hwang,K., McDonald, S., & Oates, C. J. (2010). Sustainable consumption: Green   \nconsumer behaviour when purchasing products. Sustainable Development,18(1),20-31. Zhao,H., Gao, Q., Wu, Y., Wang,Y.,& Zhu, X. (2014). What affects green consumer behavior in   \nChina?A case study from Qingdao.Journal of Cleaner Production,63,143-151. Ziegler, R., von Schwichow,A.,& Diehl, M. (2oo5). Matching the message source to attitude   \nfunctions: Implications for biased processing. Journal ofExperimental Social Psychology,41(6),645-653. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Discussion of Current Theories and Future Research on Attitude-Behavior Gap in Green Consumption ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "QI Haifeng; YU Hui; XIANG Weiling; SUN Yunyi; XU Changhao (School of Business,East China University of Science & Technology, Shanghai 200237 China) ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Attitude-Behavior gap in green consumption has been well documented in the marketing literature. Some research has been done to investigate why consumers often fail to engage in actual green consumption even though they have previously indicated their intention to do so.It is important to gain greater understanding of such atitude-behavior gap in green consumption, as sustainable development becomes the critical social and economic trend.This article 1) summarizes the empirical findings and theories from the literature in the past decade; 2) discusses what have not been studied in the literature; and 3)finallysuggests possible directions for future research in the field, such as measurement scale development, motivational factors, learning and trust mechanism,and cross culture issues. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Key words: attitude-behavior gap; green consumption; pro-sociality ",
+        "page_idx": 21
+    }
+]

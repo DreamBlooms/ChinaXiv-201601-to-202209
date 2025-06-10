@@ -1,0 +1,176 @@
+# 非限制性核酸内切酶Sma的表达纯化工艺及性能研究
+
+徐一帆，刘明秋\*
+
+（复旦大学生命科学学院上海200438）
+
+# 摘要:
+
+[目的」大量表达非限制性核酸内切酶 Sma并获得高纯度目的蛋白，并对其酶活进行鉴定。[方法]PCR 获得 Sma 基因片段，构建 pET28a-ompA-Sma 表达载体，转入E.coli BL21(DE3)中，筛选出不同培养基下，目的蛋白可溶表达量最高的条件。通过渗透休克方法提取目的蛋白，并经离子交换纯化。检测不同的温度条件下 $S _ { \mathrm { m a } }$ 的酶活，并与商品化产品进行比较。[结果]经PCR和测序证明重组蛋白表达质粒构建正确。可溶蛋白产量为 $7 \mathrm { m g / L }$ ，每L培养基获得7300KU的Sma,纯化后纯度 $5 9 5 \%$ ，活性达 $2 7 3 \mathrm { U / \mu l } .$ （商品化产品为 $2 5 0 \mathrm { U / \mu l } )$ 。[结论]成功地表达了可溶性非限制性核酸内切酶 $S _ { \mathrm { m a } }$ ，纯度高，活性好，各项条件下活性皆不低于商品化产品。
+
+关键词：Serratia marcescens非特异性核酸内切酶 分泌表达 无机盐培养基 酶活
+
+# 前言
+
+Sma 的典型代表是来源于 Serratia marcescens[]的非特异性核酸内切酶[2]。它能够降解各种形式DNA和RNA，对单链、双链、线状、环状和超螺旋形式的DNA和RNA的磷酸二酯键均具有很高的活性，产生5'-磷酸核苷酸或5'-磷酸寡核苷酸，且对核酸没有序列要求。无论是在实验研究，还是工业用途，Sma 都是目前唯一同时有效去除DNA 和RNA的酶。
+
+它的优点是能够降解各种形式的DNA和RNA却不会降解蛋白。可以应用于 $\textcircled{1}$ 降低细菌裂解时核酸释放产生的粘度，并且适用于任何裂解方式包括溶菌酶，冻融，高压；蛋白纯化。 $\textcircled{2}$ 在大规模的层析纯化时，避免由于大量的核酸吸附在层析介质上降低蛋白的有效载量从而降低纯化得率。 $\textcircled{3}$ 在ELISA，二维电泳和免疫印迹分析中，提高分辨率和回收率。 $\textcircled{4}$ 消除重组蛋白、疫苗等生物制品的外源性核酸残留：美国FDA制定的治疗用重组生物制品生产准则规定，成品的外源性核酸残留量应不超过 $1 0 0 \mathrm { p g / }$ 剂。因此 Sma 具有广阔的应用前景。
+
+此类酶在市场中的商品化产品名为Benzonase。目前，该酶主要是在大肠杆菌中表达的，由于该酶具有信号肽，生成的核酸酶一般有少量被分泌到胞外，还有一些在周质和以无活性的包涵体形式存在于胞内。有些工艺采用将包涵体增溶和复性，虽然得到了具有活性的酶，但是比活不高。考虑到该酶的产量低，工艺繁琐，价格昂贵，限制了其应用范围，需要开发新的工艺来提高其产量及性能。本文主要从提高目的蛋白表达量，提高目的蛋白表达纯度两方面入手。并在改变工艺的同时保证该酶的活性不受影响。
+
+# 1．材料与方法
+
+# 1.1材料
+
+表达载体pET28a-ompA为本实验室构建保存，为在pET28a 载体融合了信号肽ompA；大肠杆菌（E.coli）BL21(DE3)、DH5α和K12 菌株均为本实验室保存。PCR 扩增引物由 Invitrogen 公司合成。Taq 酶、限制性内切核酸酶、DNA连接试剂盒、DNAMarker均购自宝生物工程（大连）有限公司；PCR产物纯化试剂盒，质粒DNA小量抽提试剂盒购自上海 Sangon 公司；Bradford蛋白浓度测定试剂盒购自ThermoFisher Scientific 公司；离子交换层析柱购自GE healthcare公司。其他生化试剂：琼脂糖，丙烯酰胺，甲叉丙烯酰胺，十二烷基磺酸钠，过硫酸铵，四甲基乙二胺，卡那霉素，鱼精DNA等均为Amresco 进口分装。高氯酸，乙醇，乙酸购自上海国药集团。
+
+# 1.2方法
+
+1.2.1.重组质粒ompA-Sma 的构建
+
+根据 Sma 的编码基因序列，由Invitrogen 公司合成两条引物Sma-Fp:5'GGCGCATATGGCTAGCGCTGATAC3’（划线处为NdeI酶切位点）
+
+;ma-Rp: 5'GGCTAAGCTTAACGGTCTACTACAAG $_ { 3 } ,$ （划线处为Hi
+
+HindIII酶切
+
+# 位点）
+
+PCR反应条件为： $9 5 ^ { \circ } \mathrm { C }$ 预变性 $5 \mathrm { m i n }$ 、 $9 5 ^ { \circ } \mathrm { C }$ 变性30s、 $5 8 ^ { \circ } \mathrm { C }$ 退火30s、 $7 2 ^ { \circ } \mathrm { C }$ 延伸1min、30个循环后 $7 2 ^ { \circ } \mathrm { C }$ 延伸 $1 0 \mathrm { { m i n } }$ 。将从大肠杆菌K12中扩增出的 $S _ { \mathrm { m a } }$ 基因的PCR产物经 $2 \%$ 琼脂糖凝胶电泳回收。按照PCR产物纯化试剂盒说明手册对PCR产物进行纯化后，用内切酶NdeI和HindII对pET28a-ompA质粒和纯化产物进行双酶切，酶切反应体系置于 $3 7 ^ { \circ } \mathrm { C }$ 恒温水浴中反应4h。酶切产物用 $2 \%$ 琼脂糖凝胶电泳，切胶回收pET28a-ompA和 $S _ { \mathrm { m a } }$ 的目的片段，T4 连接酶于 $2 0 ^ { \circ } \mathrm { C }$ 恒温反应4h。将连接产物转化至已制备好的 $\mathrm { D H } 5 \mathrm { a }$ 感受态细胞中，然后将菌液涂于含Kan（终浓度 $5 0 \mu \mathrm { g / m l }$ ）的LB平板上， $3 7 ^ { \circ } \mathrm { C }$ 恒温箱内倒置培养 $1 2 \mathord { \sim } 1 6 \mathrm { h }$ 。挑取单个菌落至含Kan 的LB 培养基试管中， $3 7 ^ { \circ } \mathrm { C }$ ， $1 8 0 \mathrm { r p m / m i n }$ 过夜培养。按照前述PCR条件对菌液进行鉴定，并将鉴定为阳性的重组质粒送Invitrogen 公司测序鉴定。
+
+# 1.2.2．Sma的表达条件筛选
+
+构建成功的质粒pET28a-ompA-Sma 转化至大肠杆菌BL21（DE3）感受态细胞中，然后将菌液涂于含Kan（终浓度 $5 0 \mu \mathrm { g / m l }$ ）的LB平板上， $3 7 ^ { \circ } \mathrm { C }$ 恒温箱内倒置培养 $1 2 \mathord { \sim } 1 6 \mathrm { h }$ 。挑取单个菌落至含Kan 的 ${ 5 } \mathrm { m l } \mathrm { L B }$ 培养基试管中， $3 7 ^ { \circ } \mathrm { C }$ 180rpm/min过夜活化。次日按比例将菌液转接到 $1 0 0 \mathrm { m l }$ 含Kan 的LB 培养液锥形瓶中， $3 7 ^ { \mathrm { { o } } } \mathrm { { C } , 1 8 0 r p m / \mathrm { { m i n } } }$ 培养至 ${ \mathrm { O D } } _ { 6 0 0 } { \approx } 0 . 4$ 时，降低温度至 $2 5 ^ { \circ } \mathrm { C }$ 后加入IPTG（终浓度 $0 . 1 \mathrm { m M }$ ）进行诱导。继续培养4h后离心收集菌体，菌体称重记录。同时，另取一管过夜培养的活化菌液 $5 \mathrm { m l }$ ， $3 0 0 0 \mathrm { r p m }$ 离心5min后弃上清。菌体用$5 \mathrm { m l } \mathrm { M } 9$ 培养液轻柔混悬清洗后， $3 0 0 0 \mathrm { r p m }$ 离心5min 后弃上清。按比例将清洗后菌液转接到 $1 0 0 \mathrm { m l }$ 含Kan的M9培养液锥形瓶中。同上述LB培养液条件培养诱导，最后收集菌体并称重。
+
+# 1.2.3．Sma 的提取
+
+将LB 和M9 培养后的菌体分别在 $2 5 \mathrm { m M }$ Tris-HCl， $5 0 0 \mathrm { m M }$ sucrose，1mMEDTA，pH8.0 的缓冲液重悬至 ${ \mathrm { O D } } _ { 6 0 0 } { \approx } 5$ ，冰浴 $3 0 \mathrm { m i n }$ ，14000rpm 离心 5min。沉淀用同体积的 $2 5 \mathrm { m M }$ Tris-HCl，1mMEDTA， $\mathrm { p H } 8 . 0$ 的缓冲液重悬，冰浴 $3 0 \mathrm { { m i n } }$ 18000rpm离心 $1 0 \mathrm { { m i n } }$ 。上清即为含目的蛋白粗提物的溶液。取不同培养基表达前后菌体及提取后上清样品跑SDS-PAGE 电泳，比较诱导表达量及可溶提取量。
+
+# 1.2.4.Sma粗提蛋白的活性定义
+
+将待测底物鱼精DNA 溶解于 $5 0 \mathrm { m M }$ Tris, 2mM MgCl, 0.1mg/ml BSA, pH8.0的缓冲液，鱼精 DNA 终浓度为 $1 \mu \mathrm { g / \mu l }$ 。反应总体系为： $S _ { \mathrm { m a } }$ 粗提蛋白溶液 $1 2 . 5 \mu \up$ （204号含鱼精DNA( $1 \mu \mathrm { g / \mu l } )$ 的缓冲液 $2 5 0 \mu \mathrm { l }$ 。空白体系为： $2 5 \mathrm { m M }$ Tris-Hcl, 1mMEDTA,$\mathrm { p H } 8 . 0$ 的缓冲液 $1 2 . 5 \mu \up$ ，含鱼精DNA（ $1 \mu \mathrm { g } / \mu \mathrm { l }$ ）的缓冲液 $2 5 0 \mu \mathrm { l }$ 。将反应管和空白管在37度中水浴，分别间隔 $1 5 \mathrm { m i n }$ ， $3 0 \mathrm { m i n }$ ， $4 5 \mathrm { m i n }$ ， $6 0 \mathrm { { m i n } }$ 取样 $5 0 \mu \mu$ 并加入$5 0 \mu \mu$ 高氯酸 $( 4 \% )$ 。将此样品在冰中放置 $3 0 \mathrm { m i n }$ 后 $1 4 0 0 0 \mathrm { r p m }$ 离心 $6 \mathrm { { m i n } }$ 。取离心后上清测 $\mathbf { A } _ { 2 6 0 }$ 。代入公式 $\mathrm { U / \mu l } { = } \triangle \mathrm { A } _ { 2 6 0 } { \times } 3 9 3 7 5 / \mathrm { t }$ 计算。将4次计算后的值取平均，即为 Sma粗提蛋白的活性（ $\mathrm { [ U / \mu l ) }$ ）
+
+# 1.2.5.Sma蛋白的纯化和保存
+
+通过表达，可溶及活性的综合比较，挑选较佳培养基条件下的蛋白粗提物在25mM Tris,20mMNaCl， $\mathrm { p H 8 . 0 }$ 的缓冲液中透析过夜。将HiTrapDEAEFF柱与HiTrapCMFF柱串联，用 $2 5 \mathrm { m M }$ Tris, $2 0 \mathrm { m M N a C l }$ ，pH8.0缓冲液平衡层析柱。缓慢上样后，再用平衡缓冲液洗柱至平衡。之后，用 $2 5 \mathrm { m M }$ Tris，1M NaCl，pH8.0缓冲液洗柱至平衡。用 $2 0 \mathrm { m M }$ 醋酸钠， $2 0 \mathrm { m M N a C l }$ ，pH5.6 缓冲液平衡ResourceS 柱。将上一步过柱后流穿液用醋酸调至 $\mathrm { p H } 5 . 6$ 后上Resource S柱。上样后用平衡缓冲液洗柱。含 $2 0 \mathrm { m M N a C l }$ 至 $1 0 0 \mathrm { m M N a C l }$ 的 $2 0 \mathrm { m M }$ 醋酸钠， $\mathrm { p H } 5 . 6$ 的缓冲液线性梯度洗脱。最后用 $2 0 \mathrm { m M }$ 醋酸钠， ${ 5 0 0 } \mathrm { m M N a C l }$ ， $\mathrm { p H } 5 . 6$ 缓冲液洗脱。取各上样及洗脱组分制电泳样，SDS-PAGE电泳分析结果及纯度。
+
+收集纯度大于 $9 5 \%$ 的目的蛋白洗脱组分在 $1 0 0 \mathrm { m M }$ Tris,40mMNaCl，4mM$\mathrm { M g C l } _ { 2 }$ ， $\mathrm { p H } 8 . 0$ 缓冲液中透析过夜。超滤浓缩蛋白至 $0 . 6 \mathrm { m g / m l }$ ，加入等体积 $100 \%$
+
+甘油混合均匀，至 ${ } - 2 0 { } ^ { \circ } \mathrm { C }$ 保存。
+
+1.2.6.成品Sma蛋白的活性定义和活性检测
+
+取 $1 . 6 \mu \ S \mathrm { m a }$ 用 $5 0 \mathrm { m M }$ Tris, $2 \mathrm { m M M g C l } _ { 2 }$ ， $0 . 1 \mathrm { m g / m l }$ BSA,pH8.0 缓冲液稀释至 $1 0 \mathrm { m l }$ 。再取 $2 0 0 \mu \mathrm { l }$ 稀释后 $S _ { \mathrm { m a } }$ 用上述缓冲液稀释至 $\mathrm { 1 m l }$ 。其余操作同前“Sma粗提蛋白的活性定义”。
+
+将待测底物pUC19 用 $5 0 \mathrm { m M }$ Tris， $2 \mathrm { m M M g C l } _ { 2 }$ ， $0 . 1 \mathrm { m g / m l }$ BSA， $\mathrm { p H } 8 . 0$ 的缓冲液稀释到 $1 0 0 \mathrm { n g / \mu l }$ 。将上述定义活性后的 $S _ { \mathrm { m a } }$ 粗提蛋白稀释至 $\mathrm { 1 U / \mu l } , 0 . 1 \mathrm { U / \mu l } ,$ $0 . 0 1 \mathrm { U / \mu l }$ ， $0 . 0 0 1 \mathrm { U / \mu l }$ ；采用同样的方法稀释商品化酶至 $1 \mathrm { U / \mu l }$ 。将 $3 \mu \mu$ 酶溶液与$1 5 0 \mu \mathrm { l }$ pUC19 混合，37度水浴反应。分别间隔5min，15min，30min 取样 $1 0 \mu \mathrm { l }$ 加入6μlloadingbuffer终止反应。跑 $2 \%$ 琼脂糖凝胶电泳，比较底物消化的量。
+
+# 1.2.7.Sma酶活性能测试反应
+
+缓冲液：50mMTris， $2 \mathrm { m M M g C l } _ { 2 }$ ， $0 . 1 \mathrm { m g / m l }$ BSA， $\mathrm { p H } 8 . 0$ 。待测底物鱼精DNA 溶解于反应缓冲液中，终浓度 $1 \mu \mathrm { g } / \mu \mathrm { l } \circ S \mathrm { m a }$ 用反应缓冲液稀释31250倍（稀释方法同上述活性定义)。每个反应体系加入 $2 5 0 \mu \mathrm { l }$ 鱼精DNA 和 $1 2 . 5 \mu \mathrm { l } \ S \mathrm { m a }$ ，阴性对照中以反应缓冲液替代 $S _ { \mathrm { m a } }$ 。阳性对照中以商品化酶替代 $S _ { \mathrm { m a } }$ 。将三组反应管和空白管分别在4度，25度，37度中水浴反应 $6 0 \mathrm { { m i n } }$ 取样 $5 0 \mu \mathrm { l }$ 并加入 $5 0 \mu \mu$ 高氯酸 $( 4 \% )$ 。将此样品在冰中放置 $3 0 \mathrm { { m i n } }$ 后 $1 4 0 0 0 \mathrm { r p m }$ 离心6min。取离心后上清测 $\mathbf { A } _ { 2 6 0 }$ 。检测温度对 $S _ { \mathrm { m a } }$ 酶活影响并比较商品化酶与 $S _ { \mathrm { m a } }$ 在同等温度条件下性能优劣。
+
+# 2．结果
+
+# 2.1．重组质粒ompA-Sma的构建鉴定
+
+构建的重组质粒pET28a-ompA-Sma经PCR鉴定，大小一致，约810bp。将筛选的阳性质粒送上海英骏测序，证实插入序列的正确。
+
+# 2.2．Sma的表达条件筛选
+
+重组质粒pET28a-ompA-Sma经IPTG诱导后及渗透休克提取总蛋白质。SDS-PAGE结果显示，M9培养基与LB培养基（图1）诱导后在27KDa左右皆出现明显条带，与预计的蛋白条带大小一致。仅从诱导后的目的蛋白条带对比，Sma蛋白表达量差异不大。但从总蛋白量条带对比来看，LB培养基诱导后杂蛋白量相比于M9培养基诱导后多。从渗透休克提取后的上清和沉淀来看，LB培养基中目的蛋白在上清和沉淀中分布较均匀，M9培养基中目的蛋白主要在上清中。综上所述，M9培养基表达的Sma蛋白相比于LB培养基可溶性更好且纯度更高。
+
+![](images/e7028fdb261ed3e667c973151a1b03b165c1b6661f8050e6fd60b20b76e72089.jpg)  
+图1Sma在不同培养基中表达及裂解后总蛋白质SDS-PAGE检测
+
+Fig.1 SDS-PAGE analysis of Sma total protein expressed and lysised from different medias
+
+1: Sma在LB培养基中诱导前;2:Sma在LB培养基中诱导后;3:LB培养裂解后蛋白   
+沉淀;4:LB培养裂解后蛋白上清;M:分子量标准;5:Sma在M9培养基中诱导前;   
+6:Sma在M9培养基中诱导后;7:M9培养裂解后蛋白沉淀;8:M9培养裂解后蛋白   
+上清   
+1: Sma before induced in LB; 2: Sma after induced in LB; 3: Pellet after osmotic   
+shock in LB; 4: Supernatant after osmotic shock in LB; M: Marker; 5: Sma before   
+induced in M9; 6: Sma after induced in M9; 7: Pellet after osmotic shock in M9; 8:   
+Supernatant after osmotic shock in M9
+
+# 2.3．Sma粗提蛋白的活性定义
+
+根据1.2.4中公式 ${ \mathrm { U } } / { \mu } { \mathrm { l } } { = } \triangle \mathrm { A } _ { 2 6 0 } { \times } 3 9 3 7 5 / { \mathrm { t } }$ ，检测经LB培养得到的Sma粗提蛋白活性为 $6 3 \mathrm { U / \mu l }$ ，经M9培养得到的 $S _ { \mathrm { m a } }$ 粗提蛋白活性为 $1 1 8 \mathrm { U / \mu l }$ 。表明，经M9培养得到的 $S _ { \mathrm { m a } }$ 粗提蛋白活性更高。综合2.2及2.3结果，挑选M9培养基条件下的蛋白粗提物进行下一步纯化。
+
+# 2.4. Sma蛋白的纯化
+
+各层析柱纯化的蛋白样品及洗脱组分经SDS-PAGE电泳分析结果显示，第一次HiTrap DEAEFF柱与HiTrapCMFF柱串联纯化后，大量杂蛋白被层析柱吸附，
+
+Sma蛋白存在于流穿液中。流穿液经第二次ResourceS柱纯化后，Sma蛋白在NaCI浓度 $2 0 \mathrm { m M }$ 至 $1 0 0 \mathrm { m M }$ 线性梯度中洗脱，Bradford法测浓度后计算蛋白产量为$7 \mathrm { m g / L }$ ，纯度大于 $9 5 \%$ （图2）。
+
+![](images/a33859d0abebbc7badb9d8096c6af6022062090c2e7ca9988b24187b15dc6866.jpg)  
+图2Sma离子交换柱纯化后蛋白质SDS-PAGE检测
+
+Fig.2 SDS-PAGE analysis of Sma purified by ion-exchange column M:分子量标准;1:离子交换纯化后Sma M: marker; 1: Sma purified by ion-exchange column
+
+# 2.5．成品Sma蛋白的活性定义和活性检测
+
+根据1.2.4中公式 ${ \mathrm { U } } / { \mu } { \mathrm { l } } { = } \triangle \mathrm { A } _ { 2 6 0 } { \times } 3 9 3 7 5 / { \mathrm { t } }$ ，得到的Sma蛋白活性为 $2 7 3 \mathrm { U / \mu l }$ ，高于商品化产品的 $2 5 0 \mathrm { U / \mu l }$
+
+根据1.2.8中检测方法检测成品 $S _ { \mathrm { m a } }$ 蛋白活性， $2 \%$ 琼脂糖凝胶电泳分析结果显示，3U的 $S _ { \mathrm { m a } }$ 可在5分钟内将 $1 5 \mu \mathrm { g } ,$ 底物消化完全（图3）。0.3U的 $S _ { \mathrm { m a } }$ 可在15分钟内将 $1 5 \mu \mathrm { g } ,$ 底物消化完全（图4)。Sma的活性不低于商品化产品。
+
+![](images/14740b540c53288680b80e32bb568b2b70933defcff8ae5dfe4b3ff1c9ed5c41.jpg)
+
+图3不同单位活性Sma在37度下与 $1 5 \mu \mathrm { g }$ 底物反应5分钟后琼脂糖凝胶检测   
+Fig.3 Agarose analysis of different units Sma digest with $1 5 \mu \mathrm { g }$ substrate for 5 minutes   
+M:1Kb DNA 分子量标准;1:阴性对照; 2: 3U Sma; 3: 0.3U Sma; 4: 0.03U Sma 5: 0.003U Sma; 6: 3U Benzonase   
+M : 1Kb DNA ladder; 1:Negative control; 2: 3U Sma; 3: 0.3U Sma; 4: 0.03U Sma 5: 0.003U Sma; 6: 3U Benzonase 图4不同单位活性Sma在37度下与 $1 5 \mu \mathrm { g }$ 底物反应15分钟后琼脂糖凝胶检测 Fig.4 Agarose analysis of different units Sma digest with $1 5 \mu \mathrm { g }$ substrate for 15 minutes   
+M:1Kb DNA 分子量标准;1:阴性对照; 2:3U Sma; 3: 0.3U Sma; 4: 0.03U Sma 5: 0.003U Sma; 6: 0.3U Benzonase   
+M:1Kb DNA ladder;1:Negative control; 2: 3USma; 3: 0.3U Sma; 4: 0.03U Sma 5: 0.003U Sma; 6: 0.3U Benzonase
+
+![](images/df44cf26e3beb864bb4d86f6277340a7788cb343aaef5cad0db41d19534b32c1.jpg)
+
+# 2.6.Sma酶活性能测试
+
+根据1.2.9Sma酶活性能测试，收集不同温度条件下酶活反应终止后 $\mathbf { A } _ { 2 6 0 }$ 数据（图5）显示，酶在4度时，几乎没有活性，随着温度的升高，酶的活性逐渐上升。相同温度条件下，Sma的活性高于Benzonase。
+
+![](images/0abba8a24dad0e6acfb6ed05b028107683e6d38ae56301092ad4cbc594391d2c.jpg)  
+图5不同温度下Sma酶活性能  
+Fig.5 Change of temperature on Sma activity
+
+# 3．讨论与分析
+
+本研究拟解决的主要问题是提高目的蛋白表达量，提高目的蛋白纯度。同时在改变工艺的同时保证该酶的活性不受影响。
+
+第一，周质空间的蛋白[3含量低,蛋白酶活性要比胞质中低,使所表达的蛋白能避免胞内降解从而稳定地存在，有利于目标蛋白的浓缩。对周质分泌型菌体采用定向释放技术，使细胞外膜破损而不损害细胞内膜，定向释放周质空间的蛋白质4，从而使下游纯化简单有效，使来自宿主菌的污染减小到最低。将信号肽ompA与目的蛋白融合构建至表达载体[5]，大肠杆菌有内膜和外膜组成的双层膜结构,在内膜和外膜之间的区域即所谓的周质（periplasmic space）[6]。利用大肠杆菌系统，在外源基因的N端融合一段细菌蛋白的疏水信号肽，可将目的蛋白运送到周质空间，经信号肽酶将信号肽切除后，即可获得与天然蛋白一致的构象(不含N端多余的甲硫氨酸)[]。E.coli 的细胞周质中含有一系列的酶，并提供了一个氧化的环境，这些都有利于二硫键的正确形成8，促进蛋白的正确折叠，使有活性蛋白的产量得到提高。
+
+第二，采用极限培养基[9-10]即仅含碳水化合物（提供碳源和能量）和提供氮，磷，微量元素的无机盐培养基进行蛋白表达，一方面由于表达时提供的养分有限，蛋白缓慢表达不易形成包涵体，提高了蛋白的可溶性；另一方面，用此类培养基表达的蛋白中的杂蛋白含量更少。
+
+本研究从这两方面提高了蛋白的纯度，配合有效的纯化方案，获得了 $59 5 \%$ 纯度的目的蛋白。
+
+# 参考文献
+
+[1]Barbara Yannelli, R N, Paul E S, Burke A C, et al. Serratia marcescens. Clinical   
+Microbiology Newsletter, 1987, 9 (20): 157-160   
+[2] Dake E, Hofmann T J, Mcintire S, et al. Purification and properties of the major   
+nuclease from mitochondria of Saccharomyces cerevisiae. Journal of Biological   
+Chemistry, 1988, 263(16): 7691-7702   
+[3] Klint JK, Senff S, Saez N J, et al. Production of recombinant disulfide-rich   
+venom peptides for structural and functional analysis via expression in the periplasm   
+of E. coli. PLoS ONE, 2013 8(5): e63865   
+[4] Rastgar JF, Karkhane A A, Yakhchali B, et al. A simplified purification   
+procedure for recombinant human granulocyte macrophage-colony stimulating factor from periplasmic space of Escherichia coli. Journal of Chromatograph B, 2007, 856(1): 214-221   
+[5] Cole S T, Sonntag I, Henning U, et al. Cloning and expression in Escherichia coli K-12 of the genes for major outer membrane protein OmpA from Shigella   
+dysenteriae, Enterobacter aerogenes,and Serratia marcescens. Journal of   
+Bacteriology, 1982,149 (1): 145-150   
+[6] Takayama Y, Akutsu H. Expression in periplasmic space of Shewanella   
+oneidensis. Protein Expression and Purification, 2007, 56(1): 80-84   
+[7] Smith S, Mahon V,Lambert M, et al. A molecular Swiss army knife: OmpA structure, function and expression. Fems Microbiology Letters, 2010, 273(1): 1-11 [8] 李振国，徐明波,牛罡，等。在大肠杆菌周质表达重组蛋白的研究进展。药 物生物技术，2011,18(1):73-76   
+Li Z G, Xu M B, Niu G. et al. Progress of recombinant protein expressed in E.coli periplasmic space. Pharmaceutical Biotechnology, 2011, 18(1): 73-76 [9] GAO D W, WEN X H, et al . Comparative study on using carbon or nitrogen limited medium to culture white rot fungi for reactive brilliant red dye K-2BP decolotization under non-sterile conditions. Science in China Series B: Chemistry, 2007,50 (5) :718-724   
+[10]GAO D W, WEN X H, Qian Y, et al. Effect of nitrogen concentration in culture mediums on growth and enzyme production of Phanerochaete chrysosporium. Journal of Environmental Sciences, 2005, 17 (2): 190-193
+
+# Expression and Purification Procedure of Nonspecific Endonuclease Sma and Its Performance Study
+
+Xu Yi-fan, Liu Ming-qiu\*
+
+(Schooloflife sciences,FudanUniversity，Shanghai2oo438,China)
+
+# Abstract
+
+[Objective] To express nonspecific endonuclease Serratia marcescens (Sma), gain the high purity expressed product, and determine its activity.[Methods] Sma fragment was produced by PCR.The constructed recombinant plasmid pET28a-ompA-Sma was transformed into $E$ coli BL21(DE3) to express soluble and high-yielding Sma by optimizing different medium. Target protein was extracted by osmotic shock, purified by ion exchange. Compared Sma with commercial product by activity test of different temperature. [Results] PCR and sequencing proved that recombinant plasmid was constructed correctly. The recombinants Sma at an expression level of $7 \mathrm { m g / L }$ , gained 73ooKU Sma per liter media, super-reached a purity of $9 5 \%$ and a specific activity of $2 7 3 \mathrm { U / \mu l }$ (commercial product is $2 5 0 \mathrm { U / \mu l }$ ）after purification. [Conclusion] Sma was successfully expressed. The purified Sma showed a high purity and activity. Under various conditions, the activity is not lower than that of commercial products.
+
+Key words: Serratia marcescens; nonspecific endonuclease; secretory expression; minimal medium; activity

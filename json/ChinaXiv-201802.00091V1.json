@@ -1,0 +1,253 @@
+[
+    {
+        "type": "text",
+        "text": "多孔微热沉大功率LED阵列散热数值分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王永翔¹，万忠民²1\\*,常华伟¹,万军华²，黄重庆²，舒水明1(1．华中科技大学能源与动力工程学院武汉4300742．湖南理工学院信息学院 岳阳414006)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：对采用多孔微热沉的大功率LED阵列主动散热方案进行散热分析，系统采用一个微泵驱动，依靠封闭多孔微热沉系统实现大功率LED阵列的高效散热。数值分析表明：在没有采用多孔微热沉而仅依靠冷却工质散热的情况下，芯片最高温度为87℃，采用上述冷却方案后，芯片温度大幅度降低，系统散热效果明显改善。并且孔隙率和工质入口流速都对系统换热有很大的影响。研究结果表明多孔微热沉系统可以有效解决大功率LED阵列散热问题，提高LED芯片的寿命和性能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键字：大功率LED阵列；多孔微热沉；散热；数值分析中图分类号：TN312.8 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Numerical Analysis on Porous Micro Heat Sink for High Power LED Array ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wang Yong-Xiang1, Wan Zhong-Min.2.1\\*, Chang Hua-Wei1, Wan Jun-Hua2, Huang Chong-Qing2， Shu Shui-Ming1 (1.School of Energy and Power Enginering,Huazhong Universityof Science and Technology,Wuhan 430074; 2.School of Information Engineering, Hunan Institute of Science and Technology, Yueyang 414006) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: An active cooling system that uses the porous micro heat sink is presented for thermal management of high power LED (light emiting diode)arry, which is driven by a micro-pump.According to the analysis results, the maximum temperature of the chip would raise highly to $8 7 \\mathrm { ~ \\ ^ ~ { ~ \\circ ~ } C ~ }$ ,without the micro-porous heat sink. With the help of the cooling system,the chip temperature is sharply reduced,and the cooling effect of this system is significantly improved.In addition,the diferent porosity and the fluid inlet velocitycanaffct the performance on thermal management of system. It can be drawn that the porous micro heat sink system can efectively solve the problem of heat transfer in high power LED array,and improve the performance and life of the LED chip. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: High power LED array; Porous micro heat sink; Heat dissipation; Numerical Analysis ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0前言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LED(LightEmittingDiode)照明技术相对于普通照明技术有发光效率高、单色性好、使用寿命长、节能与环保等特性，使其成为近年来研究的热点[1]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LED作为光电器件，其工作过程中仅有 $10 \\%$ \\~$20 \\%$ 的电能转换成光能，其余的电能几乎都转换成热能[2]，若芯片上累积的热量若不能及时有效的散出，将导致LED芯片的结温过高（为了保证器件的寿命，一般要求结温在 $1 1 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 以下）。过高的结温将引起发光强度降低，同时加速器件老化等问题[4]。所以，大功率LED散热问题是制约大功率LED发展的瓶颈之一。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为了解决LED的散热问题，不少国内外学者开展了相关研究。Ma 等[4]利用蜂巢结构结合烟囱效应，设计出一种重量仅为 $7 5 \\sim 1 2 5 \\mathrm { g }$ 的蜂巢散热片，能够通过自然对流方式散热，且几乎不影响散热效能。Kim 等[5将微通道内的两相流传热技术应用在大功率LED的散热上,取得了很好的效果。Y.Lai 等[在设计LED 车灯时将循环冷却水管和鳍片散热器结合起来使用,研究发现LED 散热性能有很大改善。Arik 等设计了一种液体浸没冷却系统，发现使用HFE7200 流体材料时，改善了传热效果并提高其照明亮度。Deng 等[8对液态金属制冷性能进行理论分析和实验研究，并与水冷结果进行对比，发现液态金属制冷具有更高的制冷能力而且很节能。马璐等9提出一种新型侧面送风冷却封装的新方式，仿真结果表明40W的大功率LED灯具在 $2 7 ^ { \\circ } \\mathrm { C }$ 条件下温升仅为 $1 5 \\mathrm { ^ \\circ C }$ 。梁雪艳等[10]将3种改进流道结构的液冷基板用于LED模块散热，发现中间入口的S型流道相对于其他两种具有最佳的流动和换热综合性能。王志斌等[提出了一种基于螺旋扁管的LED阵列水冷散热结构，结果表明优化后的螺旋扁管水冷结构具有很好的散热能力，并且180W的LED照明系统芯片最高温度为仅为$5 7 . 5 7 \\mathrm { ^ { \\circ } C }$ 。邓阿强等[12]研究了板式脉动热管在 LED散热上的应用，实验结果表明板式脉动热管对各功率LED都会产生非常显著的冷却效果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文采用一种主动冷却方案，该方案采用多孔芯作为热沉进行换热，整个系统是封闭的，有一个微泵驱动冷却工质在系统内部管道循环。依靠多孔介质传热能力强的特点，将LED散出的热量带入冷却系统传递给外界而实现换热。对该方案进行了数值分析，结果表明该方案具有较好的换热能力，能较好的解决大功率LED阵列的散热问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1多孔微热沉系统的工作原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图1所示为本文研究的多孔微热沉系统的工作原理图。该系统主要由微泵、多孔微热沉、冷却器组成。工作原理：当微泵通电后，推动冷却工质从下端进口进入多孔热沉，LED芯片阵列内产生的热量通过多孔介质传递给冷却工质，冷却工质吸收热量后进入冷却器与外界换热，将LED芯片内产生的热量传递给外界，然后又重新进入微泵进行新一轮的循环。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6980e49eab56a6c517a2aa91988ee1485bae787f946e978e56a045eb0e5be5fa.jpg",
+        "img_caption": [
+            "图1系统原理图",
+            "Fig.1 Schematic diagram of a porous micro heat sink system "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "多孔微热沉运用于大功率LED散热具有以下两个优势： $\\textcircled{1}$ 多孔介质采用网状金属丝网或烧结的金属毛细芯组成，孔隙半径非常小，有效半径小，具有非常大的散热面积/体积比，局部对流换热系数大，传热能力强； $\\textcircled{2}$ 冷却系统有弯曲的液体管道，所以冷凝器位置可以任意布置，其对位置的要求不苛刻，可以解决受限空间内电子器件散热。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2多孔微热沉的数值模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图2所示为LED芯片及基板尺寸示意图，LED芯片阵列为 $5 { \\times } 5$ ，每个芯片的输入功率为 $5 \\mathrm { ~ W ~ }$ 。多孔芯由封闭的铜腔体包裹，铜腔体厚度为 $\\cdot 0 . 5 \\mathrm { m m }$ ，腔体外尺寸为 $2 5 \\ \\mathrm { \\ m m } { \\times } 2 5 \\ \\mathrm { \\ m m } { \\times } 4 \\ \\mathrm { \\ m m }$ ，多孔芯的尺寸是24$\\mathrm { m } \\mathrm { m } { \\times } 2 4 \\ \\mathrm { m } \\mathrm { m } { \\times } 3 \\ \\mathrm { m } \\mathrm { m }$ ，孔隙率 $\\scriptstyle \\varepsilon = 0 . 5$ ，有两个入口及两个出口，出入口尺寸的直径为 $2 \\mathrm { m m }$ ，入口流速为0.3$\\mathrm { m / s }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e3247d1438a881932061d69ca02136a53fdbfb7294e6458bbfa8563d4255ecea.jpg",
+        "img_caption": [
+            "图2芯片及基板尺寸图",
+            "Fig.2 The schematic view of the LED array "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在模拟中作如下假设： $\\textcircled{1}$ LED芯片是平面均匀热源； $\\textcircled{2}$ 冷却工质为水，入口流速均匀； $\\textcircled{3}$ 忽略热辐射的影响； $\\textcircled{4}$ 环境温度为 $2 7 \\mathrm { ~ \\textdegree C }$ ，水的温度也为$2 7 \\mathrm { ~ \\textdegree C }$ ； $\\textcircled{5}$ 铜腔体与环境的换热系数是 $8 \\mathrm { ~ W / ( m } ^ { 2 } { \\cdot } \\mathrm { K } )$ 但芯片基板与外界是绝热的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3计算结果与讨论",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1多孔芯对系统换热的影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图3(a)是未放入多孔芯，仅用水来冷却空心的铜腔体的加热面。从图中可以看出，芯片的最高温度为 $8 7 ^ { \\circ } \\mathrm { C }$ ，虽然未到达芯片的允许临界值，但如此高的温度已经严重影响了芯片的工作性能。并且越靠近出口处芯片的温度越高。这是因为入口处的水温度较低，经过在铜腔体内流动吸收了LED散发出的热量后水温升高，继而影响了下游的换热效果。图3(b)是放入孔隙率为0.5的多孔芯的加热面的温度。加入多孔芯以后，芯片的最高温度仅为 $5 1 ^ { \\circ } \\mathrm { C }$ ，整个系统的温度大幅度下降，并且整个加热面的温度更为均匀，可以提高LED的寿命和可靠性。因为在允许的温度水平范围内，散热表面温度越均匀，对提高电子元器件的寿命和可靠性是非常有利的，反之，则容易降低器件的可靠性，导致器件失效[12]。结果表明多孔微热沉主动冷却系统能有效解决大功率LED的散热问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/162772c2c550891d92ea74dcb20489b036cd52e9161acf868b9c77fd4f67ddcb.jpg",
+        "img_caption": [
+            "图3LED基板的温度分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2孔隙率对系统散热的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图4是液体入口流速 $\\mathrm { \\ u } { = } 0 . 3 ~ \\mathrm { m / s }$ 时，不同孔隙率情况下芯片及基板的温度分布。模拟结果表明，随着孔隙率的减小，LED基板的温度水平也随之降低，使整个系统的散热效果更好。但由于孔隙率的减小，流体流过多孔芯的阻力增大，增加了泵的功耗。图 5反映了流体流过不同孔隙率时的流动阻力，从图中可以得出，随着孔隙率的减小，流动阻力突然激增。但孔隙率也不能太大，因为孔隙率过大，LED基板的温度分布不够均匀，会影响LED的寿命和可靠性。所以，应该根据实际情况选择孔隙率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "翻 BTuTH M 312 31 309   \n(a)ε=0.2 (b) ε=0.3 mperstere A 319 3 318 317 316 315 314 312 311 309 307 1   \n(c)ε=0.4 (d) $\\scriptstyle \\varepsilon = 0 . 5$ Cerahun 326 316 皖科 C CT 06   \n(e) $\\scriptstyle { \\varepsilon = 0 . 6 }$ (f) $\\scriptstyle \\varepsilon = 0 . 7$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.5 The fluid flow resistance with different porosity ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3流速对散热的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/97517beae8d87d1a0ea3bfa07589bbb9edbe2dcdf4b0afffe0f1caae5e4f53e8.jpg",
+        "img_caption": [
+            "图5不同孔隙率时的流动阻力"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "多孔微热沉入口的流速对于多孔微热沉的散热性能影响较大。流速与芯片的平均温度的关系如图6。从图中得出，随着流速的增加，芯片的平均温度快速下降，使得系统的散热效果稳步提升，但是流动阻力也随之增加，这也会导致泵的压力增大，增加整个系统的损耗，因此流速不能无限增加，必须控制在一定的范围之内。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/65211a18123dba6ecc3bd616132e2ed6b9116bfb502e83e85c63fbd7cfc4cc2f.jpg",
+        "img_caption": [
+            "Fig.3 Temperature fields in the substrate ",
+            "图4不同孔隙率时LED基板的温度场（ $\\mathrm { \\Delta } _ { u = 0 . 3 } \\mathrm { m / s }$ ）Fig.4 Temperature fields with different porosity $( u { = } 0 . 5 \\mathrm { m / s } )$ （20",
+            "图6温度、阻力与入口流速的关系",
+            "Fig.6 The relationship between max temperature, flow resistance and velocity "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)散热问题是大功率LED阵列技术面临的主要问题，本文对多孔微热沉的主动冷却模型进行了数值研究，结果表明将多孔微热沉主动冷却技术应用于大功率LED上，可以有效改善LED散热问题和提高寿命。在不加入多孔芯的仅仅采用水冷却基板的情况下，芯片的最高温度为87℃，采用多孔微热沉后，芯片最高表面温度下降为51 $\\mathrm { { } ^ { \\circ } C }$ 左右。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)多孔微热沉的孔隙率越小，系统的散热效果越好，但是孔隙率小到某一个值后，系统的散热效果将稳定在某一个水平上。并且由于孔隙率的减小，流体流过多孔芯的流动阻力增大，将会增加泵的损耗。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)多孔微热沉入口处的流速越大，系统散热效果越好。但流速增加到一定程度后，芯片的平均温度也趋于平衡。并且由于流速的增加，流动阻力也随之增大，增大了泵的输入功率，增加了运行成本。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Hyun-Wook Ra, Kwang S S,Chi-won O,et al. Heat transfer behavior of high-powerlight-emiting diode packages[J].Korean Journal of Chemical Engineering,2007, 24(2):197-203.   \n[2]Arik M, Weaver S. Chip scale thermal management of high brightness LED packages[C]//Proc. SPIE 4th Int .Conf. Solid State Light,Denver, CO,2004,55:214-223.   \n[3] CHEN J H,LIU C K,CHAO Y L，et al. Cooling performance of silicon-based thermoelectric device on highpower LED[C]//Proc.24th Int. Conf. Thermoelectrics, Clemson, SC,2005: 53-56.   \n[4]Ma,H.K., Chen B.R., et al. Study of an LED device with ahoneycombheatsink[J].SemiconductorThermal Measurement and Management Symposium ， 2010: 289-298.   \n[5]Kim D W,Rahim E,Bar- Cohen A, et al. Direct submount coolingofhigh-powerLEDs[J]. Transactionson Components and Packaging Technologies,2010,3( 4) : 698-712.   \n[6]LAI Y, CORDERO N, BARTHEL F,et al. Liquid cooling of bright LEDs for automotive applications [J]．Applied Thermal Eng ineering,2009,29(5) :1239-1244.   \n[7]Arik M，Utturkar Y，Weaver S.Immersion Cooling of LightEmittingDiodes[C]//12thIEEEIntersociety ConferenceonThermal andThermomechanical Phenomena in Electronic Systems,Las Vegas,NV,United states,2010:1-8.   \n[8]Deng Y G，Liu J.A liquid metal cooling system for the thermal management of high power LEDs[J], International Communications in Heat and Mass Transfer, 2010,37(7) : 788-791.   \n[9]马璐,刘静．侧面送风冷却LED 的热封装方法及其三维 数值仿真研究[J]．照明工程学报.2011,22(3):30-36 MALu, LIU Jing. Side air cooling heat LED package and itsthree-dimensional numerical simulation study[J]. Journal of Illuminating Engineering.2011,22(3):30-36   \n[10] 梁雪艳 孙志坚 黄秋月.LED 模块用液冷基板的流道 和换热性能研究[J]．中国照明电器,2012,1(1):6-10. LIANG Xueyan, SUN Zhijian, HUANG Qiuyue. Study on the channel and heat transfer performance of liquid cold plat used for module [J]. Chian Light&Lighting, 2012,1(1):6-10.   \n[11] 王志斌,张健,刘丽君,等．大功率LED 螺旋扁管水冷散 热技术[J]．光子学报,2013,42(11):1350-1354. WANG Zhibin, ZHANG Jian,LIU Lijun, et al. Water Cooling Technology on High Power LED with the Twisted Tube [J]. Acta Photonica Sinica,2013, 42(11):1350-1354.   \n[12]邓阿强,贾力,许文云．板式脉动热管用于LED散热研 究[J].工程热物理学报,2012,33(9):1567-1570 Deng Aqiang, JIA Li, XU Wenyun.Plate pulsating heat pipe forLED heat[J]. JournalofEngineering Thermophysics,2012,33(9):1567-1570 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    }
+]

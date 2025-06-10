@@ -1,0 +1,408 @@
+[
+    {
+        "type": "text",
+        "text": "饲粮代谢能水平对笼养蛋鸭产蛋性能、蛋品质和血清生化指标的影响！",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄璇1,2,3李闯1,2.3熊华丽4蒋桂韬1,2.3张旭1,2.3王向荣1,2.3胡艳」戴求仲",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1,2,3\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.湖南省畜牧兽医研究所动物营养与饲养技术研究室，长沙 410131；2.中国农业科学院麻类研究所，长沙 410205；3.湖南畜禽安全生产协同创新中心，长沙 410128，4.菱角塘镇农",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "林水服务中心，永州425199)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在研究饲粮代谢能（ME）水平对产蛋高峰期笼养蛋鸭产蛋性能、蛋品质和血清生化指标的影响。选择 250只体重相近且健康的29周龄临武鸭，随机分为5个组，每组5个重复，每个重复10 只鸭。采用单因子试验设计，设5个饲粮ME 水平：10.09、10.59、11.09、11.59 和 $1 2 . 0 9 \\mathrm { M J / k g }$ ，饲粮粗蛋白质水平均为 $1 8 \\%$ 。预试期为7d，正试期为 $6 3 { \\mathrm { ~ d } } .$ 0结果表明：1）随饲粮ME水平升高，平均日采食量呈显著线性降低（ $\\scriptstyle P < 0 . 0 5 .$ )。饲粮ME水平 $1 2 . 0 9 \\mathrm { M J / k g }$ 组产蛋率和日产蛋重显著低于其他各组（ $_ { . } { \\cal P } { < } 0 . 0 5 )$ 。料蛋比以饲粮ME水平 $1 0 . 0 9 \\mathrm { M J / k g }$ 组最高，显著高于其他各组（ $\\cdot P { < } 0 . 0 5$ )。2）饲粮ME水平对笼养蛋鸭蛋品质各指标均无显著影响（ $P { > } 0 . 0 5$ )。3）随饲粮ME水平增加，血清胆固醇和低密度脂蛋白含量呈显著线性提高 $( P { < } 0 . 0 5 )$ ，而血清尿素氮含量呈显著线性降低（ $. P { < } 0 . 0 5 ^ { \\cdot }$ )。饲粮 ME 水平 $1 2 . 0 9 ~ \\mathrm { M J / k g }$ 组血清葡萄糖含量显著高于饲粮 ME 水平 $1 0 . 0 9 ~ \\mathrm { M J / k g }$ 组（ $\\scriptstyle P < 0 . 0 5 { \\mathrm { : } }$ )。回归分析显示，以高产蛋率、高日产蛋重和低料蛋比为衡量指标，推荐29\\~38周龄临武鸭饲粮 ME 水平为 $1 0 . 7 3 { \\sim } 1 1 . 2 9 \\mathrm { M J / k g }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：笼养蛋鸭；代谢能；产蛋性能；蛋品质；血清生化指标 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S834",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "饲粮代谢能（ME）水平是影响家禽生产力发挥的关键因素。在饲粮粗蛋白质水平保持一致的情况下，能量摄入过多，蛋禽容易囤积腹脂，产蛋性能下降[1l；但饲粮代谢能水平过低，不能满足蛋禽生长发育和生产需要[2]。罗欢等[3]报道，在笼养条件下，产蛋中期（23\\~37周龄）三穗鸭代谢能需要量为10.89 MJ/kg。戴贤君等[4]研究表明，饲粮粗蛋白质水平为 $1 8 \\%$ ，代谢能水平为11.70 MJ/kg时，16\\~50 周龄绍兴鸭可获得最佳生产性能。另外，张巍等[5]在对笼养青壳系蛋鸭上的研究发现，产蛋后期发挥蛋鸭最佳产蛋性能的饲粮代谢能水平为 $1 0 . 6 7 \\mathrm { M J / k g }$ 。我国《肉鸭饲养标准》（NY/T20122-2012）中给出的蛋鸭饲粮适宜水平代谢能分别如下：北京鸭种鸭产蛋中期（27\\~45 周龄）为11.51MJ/kg；番鸭和半番鸭产蛋期（27\\~65周龄）为11.30MJ/kg；肉蛋兼用型种鸭产蛋中期（23\\~45 周龄）为11.30 MJ/kg;蛋用型鸭产蛋期（24\\~70 周龄）为10.87MJ/kg[]。临武鸭作为我国优良的肉蛋兼用型麻鸭品种，近年来在湘南地区推广养殖面积较大。但目前，有关临武鸭关键营养素需要量的研究较少，临武鸭产蛋高峰期代谢能需要量尚未见报道。因此，本试验旨在通过研究饲粮代谢能水平对 30\\~38周龄临武鸭产蛋性能、蛋品质和血清生化指标的影响，为确定产蛋高峰期临武鸭饲粮中适宜代谢能水平提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验设计与饲粮",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将 250 只遗传背景一致、体重相近、健康状况良好的29 周龄临武鸭，随机分为5组，每组5个重复，每个重复10只鸭。预试期7d后，进行为期63d的饲养试验。试验饲粮中粗蛋白质、氨基酸和钙、磷等营养参数均参照《临武鸭营养需要》（DB43/T898-2014）[7设定，试验饲粮组成及营养水平见表1。试验饲粮代谢能水平分别为10.09、10.59、11.09、11.59和 $1 2 . 0 9 \\mathrm { M J / k g }$ ，粗蛋白质水平均为 $1 8 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1试验饲粮组成及营养水平(风干基础)",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e37a5d7b3097678c57d0af4f3192130ac0903b49bd9e253ffd975f644e88586f.jpg",
+        "table_caption": [
+            "Table 1Composition and nutrient levels of experimental diets (air-dry basis）% "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td colspan=\"5\">饲粮代谢能水平 Dietary ME level/（MJ/kg)</td></tr><tr><td></td><td>10.09</td><td>10.59</td><td>11.09</td><td>11.59</td><td>12.09</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>玉米Corm</td><td>39.80</td><td>45.81</td><td>45.68</td><td>45.58</td><td>44.00</td></tr><tr><td>豆粕 Soybean meal</td><td>22.14</td><td>23.35</td><td>24.80</td><td>24.81</td><td>22.38</td></tr><tr><td>菜籽粕 Rapeseed meal</td><td>5.00</td><td>5.00</td><td>4.00</td><td></td><td></td></tr><tr><td>次粉 Wheat middling</td><td>13.57</td><td>13.00</td><td>12.50</td><td>13.00</td><td>13.00</td></tr><tr><td>麦麸 Wheat bran</td><td>8.00</td><td>1.35</td><td></td><td></td><td></td></tr><tr><td>玉米蛋白粉 Corn gluten meal</td><td></td><td></td><td></td><td>2.50</td><td>4.50</td></tr><tr><td>石粉 Limestone</td><td>8.90</td><td>8.90</td><td>8.90</td><td>8.90</td><td>8.90</td></tr><tr><td>豆油 Soybean oil</td><td>0.00</td><td>0.00</td><td>1.54</td><td>2.62</td><td>4.60</td></tr><tr><td>L-赖氨酸盐酸盐 L-Lys·HCl(78.5%)</td><td>0.14</td><td>0.14</td><td>0.13</td><td>0.14</td><td>0.17</td></tr><tr><td>DL-蛋氨酸 DL-Met (98.5%)</td><td>0.15</td><td>0.15</td><td>0.15</td><td>0.15</td><td>0.15</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>食盐NaCl</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td></tr><tr><td>预混料 Premix1)</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>代谢能 ME/(MJ/kg)</td><td>10.09</td><td>10.59</td><td>11.09</td><td>11.59</td><td>12.09</td></tr><tr><td>粗蛋白质 CP</td><td>18.00</td><td>18.00</td><td>18.00</td><td>18.00</td><td>18.00</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/7fcb80f13cd7927c877c89c385f740db4be3dfb7774235005ddf4c26b3030eb0.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>赖氨酸Lys</td><td>0.90</td><td>0.90</td><td>0.90</td><td>0.90</td><td>0.90</td></tr><tr><td>蛋氨酸Met</td><td>0.42</td><td>0.42</td><td>0.43</td><td>0.43</td><td>0.42</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.78</td><td>0.78</td><td>0.79</td><td>0.79</td><td>0.78</td></tr><tr><td>钙Ca</td><td>3.50</td><td>3.50</td><td>3.50</td><td>3.50</td><td>3.50</td></tr><tr><td>总磷TP</td><td>0.65</td><td>0.65</td><td>0.66</td><td>0.66</td><td>0.65</td></tr><tr><td>有效磷AP</td><td>0.34</td><td>0.34</td><td>0.35</td><td>0.35</td><td>0.34</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1)预混料为每千克饲粮提供 The premix provided the following per $\\mathrm { k g }$ of diets: VA 5 000 IU, $\\mathrm { V B } _ { 1 } 2 \\mathrm { m g }$ $\\mathrm { V B } _ { 2 } \\ 1 5 \\ \\mathrm { m g }$ ， $\\mathrm { V B } _ { 6 } 4 \\log$ ， $\\mathrm { V B } _ { 1 2 } 0 . 0 2 \\ : \\mathrm { m g }$ ， $\\mathrm { V D } _ { 3 } 8 0 0 \\mathrm { I U }$ ，VE 20IU, $\\mathrm { V K } _ { 3 } 0 . 5 \\ : \\mathrm { m g }$ ，生物素biotin $0 . 2 \\mathrm { m g }$ ，叶酸folic acid $0 . 6 \\mathrm { m g }$ ， $D$ 泛酸 $D$ -pantothenic acid $6 0 \\mathrm { m g }$ ，烟酸nicotinic acid $6 0 ~ \\mathrm { m g }$ ，胆碱 choline $1 5 0 0 \\mathrm { m g }$ ，抗氧化剂 antioxidant $1 0 0 ~ \\mathrm { { m g } }$ , Cu (as copper sulfate) $8 ~ \\mathrm { m g }$ ,Fe (as ferrous sulfate) $8 0 ~ \\mathrm { m g }$ , Mn (as manganese sulfate) $5 0 \\mathrm { m g }$ ， Zn (as zinc sulfate) $6 0 ~ \\mathrm { m g }$ ， I(as potassium iodide) $0 . 4 0 \\mathrm { m g }$ ， Se (as sodium selenite) $0 . 2 0 \\mathrm { m g }$ 。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2)营养水平为计算值。Nutrient levels were calculated values. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2 饲养管理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "饲养试验在湖南省畜牧兽医研究所水禽试验鸭场进行，采用封闭式鸭舍双层包塑金属笼立体笼养，试验鸭单笼饲养。各组试验鸭分别饲喂相应饲粮，每天人工饲喂2次，试验全期自由饮水，按正常饲养程序进行饲养管理和免疫。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 测定指标与方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 产蛋性能",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验期间每天08:00 和16:00 各饲喂1次，准确记录每个重复采食量、总蛋重、产蛋量和不合格蛋数（包括软壳蛋、破壳蛋、畸形蛋、沙壳蛋)。以组为单位统计平均蛋重、日产蛋重、产蛋率、合格蛋率、平均日采食量和料蛋比。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.2蛋品质 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在试验第9周末每组抽取接近平均蛋重的鸭蛋15枚（每重复3枚)，在 $2 4 \\mathrm { h }$ 之内测定蛋重、蛋黄重、蛋壳重、蛋壳厚度（蛋壳厚度测定仪测量）、蛋横径与蛋纵径（游标卡尺测量）、蛋黄颜色（蛋黄比色卡测量）及蛋白高度（蛋白高度测定仪测量)，并计算蛋黄比例、壳重比例、蛋形指数和哈氏单位：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "蛋黄比例 $\\ c =$ 蛋黄重/蛋重;  \n壳重比例 $\\ c =$ 蛋壳重/蛋重;  \n蛋形指数 $\\varprojlim 2$ 蛋纵径/蛋横径；  \n哈氏单位 $\\scriptstyle = 1 0 0 \\times \\log$ $( H { - } 1 . 7 W ^ { 0 . 3 7 } { + } 7 . 5 7 )$ 。  \n式中： $H$ 为蛋白高度（ $\\mathrm { i m m }$ ； $W$ 为蛋重（g）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.3 血清生化指标",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试验结束后，从每组随机抽取接近平均体重的鸭10只（每个重复2只)，共50只，在晨饲前，从翅下静脉采血 ${ \\mathfrak { s } } _ { \\mathrm { m L } }$ ，斜置静放 $1 { \\sim } 2 \\mathrm { h }$ 后， $3 \\ : 0 0 0 \\ : \\mathrm { r / m i n }$ 离心 $1 5 \\mathrm { m i n }$ ，分离血清待测总蛋白、白蛋白、尿素氮、尿酸、葡萄糖、总胆固醇、甘油三酯、高密度脂蛋白和低密度脂蛋白含量以及谷丙转氨酶、谷草转氨酶和碱性磷酸酶活性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4数据处理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用SPSS18.0软件进行单因素方差分析（one-way ANOVA）和回归分析（regressionanalysis)，结果用平均值和均值标准误（SEM）表示， $P { < } 0 . 0 5$ 为差异显著，差异显著者再进行Duncan氏法多重比较。最后对差异显著的指标用线性和二次曲线模型进行回归分析，以确定其饲粮代谢能适宜水平。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1饲粮代谢能水平对笼养蛋鸭产蛋性能的影响由表2可知，饲粮代谢能水平对笼养蛋鸭平均蛋重和合格蛋率均无显著影响（ $\\cdot P { > } 0 . 0 5 )$ ）",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "随饲粮代谢能水平升高，平均日采食量呈显著线性下降（ $\\scriptstyle P < 0 . 0 5 .$ )。饲粮代谢能水平12.09MJ/kg组产蛋率和日产蛋重显著低于其他各组（ $P { < } 0 . 0 5 )$ 。料蛋比以饲粮代谢能水平10.09$\\mathbf { M J } / \\mathbf { k g }$ 组最高，显著高于其他各组（ $_ { \\cdot } P { < } 0 . 0 5 )$ ）°",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d9183d6b5207f655e0500aa338983fdb3cd3aa9c0ca957be72ded0b07905b764.jpg",
+        "table_caption": [
+            "表2饲粮代谢能水平对笼养蛋鸭产蛋性能的影响",
+            "Table 2Effects of dietary ME level on laying performance of cage-rearing laying ducks "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"6\">饲粮代谢能水平 Dietary ME level/(MJ/kg)</td><td colspan=\"3\">P值 P-value</td></tr><tr><td>10.09</td><td>10.59</td><td>11.09</td><td>11.59</td><td>12.09</td><td>SEM</td><td>组间 Group</td><td>线性 Linear</td><td>二次曲线</td></tr><tr><td>平均日采食量</td><td>154.93a</td><td>152.26b</td><td>149.94c</td><td>149.09c</td><td>146.12d</td><td>0.65</td><td>0.000</td><td>0.000</td><td>Quadratic 0.681</td></tr><tr><td>ADFI/(g/d) 产蛋率 Laying</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>rate/%</td><td>80.41a</td><td>80.50a</td><td>80.57a</td><td>80.19a</td><td>77.35b</td><td>0.37</td><td>0.012</td><td>0.060</td><td>0.020</td></tr><tr><td>平均蛋重 Average egg weight/g</td><td>71.32</td><td>71.47</td><td>71.67</td><td>71.00</td><td>71.59</td><td>0.18</td><td>0.833</td><td>0.961</td><td>1.000</td></tr><tr><td>日产蛋重Daily egg</td><td>57.34a</td><td>57.53a</td><td>57.73a</td><td>56.94a</td><td>55.37b</td><td>0.24</td><td>0.005</td><td>0.003</td><td>0.009</td></tr><tr><td>yield/(g/d) 料蛋比 Feed/egg</td><td>2.70a</td><td>2.65b</td><td>2.60b</td><td>2.62b</td><td>2.64b</td><td>0.01</td><td>0.006</td><td>0.012</td><td>0.003</td></tr><tr><td>合格蛋率Qualified</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>egg rate/%</td><td>97.95</td><td>96.32</td><td>97.22</td><td>97.80</td><td>96.86</td><td>0.29</td><td>0.403</td><td>0.748</td><td>0.669</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "同行数据肩标不同小写字母表示差异显著（ $_ { . P < 0 . 0 5 ) }$ ，相同或无字母表示差异不显著（ $_ { \\cdot P > 0 . 0 5 ) }$ 。下表同。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the same row,values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，while ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ .The same as below. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2饲粮代谢能水平对笼养蛋鸭蛋品质的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，饲粮代谢能水平对笼养蛋鸭蛋品质各指标均无显著影响（ $P { > } 0 . 0 5 )$ 0",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表3饲粮代谢能水平对笼养蛋鸭蛋品质的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/c2dd1d68b138462d9f1db7c4e0ebc0012e427240f0d7cc913af046e3f0393276.jpg",
+        "table_caption": [
+            "Table 3Effects of dietary ME level on egg quality of cage-rearing laying ducks "
+        ],
+        "table_footnote": [
+            "2.3饲粮代谢能水平对笼养蛋鸭血清生化指标的影响 "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"5\">饲粮代谢能水平Dietary ME</td><td rowspan=\"2\"></td><td colspan=\"2\">组间P值P-value</td></tr><tr><td></td><td></td><td>level/(MJ/kg) 11.09</td><td>11.59</td><td>12.09</td><td>SEM</td><td>in groups</td></tr><tr><td>蛋形指数 Egg shape index</td><td>10.09 1.32</td><td>10.59 1.31</td><td>1.35</td><td></td><td>1.30</td><td>1.33</td><td><0.01</td><td>0.416</td></tr><tr><td>蛋壳厚度 Eggshell thickness/mm</td><td>0.410</td><td>0.407</td><td>0.405</td><td>0.411</td><td>0.413</td><td><0.01</td><td>0.707</td><td></td></tr><tr><td>蛋黄颜色 Yolk color</td><td>8.60</td><td>9.00</td><td>8.20</td><td>8.80</td><td>8.40</td><td>0.14</td><td>0.405</td><td></td></tr><tr><td>蛋白高度 Albumen height/mm</td><td>8.24</td><td>8.30</td><td>7.98</td><td>7.97</td><td>7.92</td><td>0.12</td><td>0.818</td><td></td></tr><tr><td>蛋黄比例 Percentage of yolk/%</td><td>32.17</td><td>30.49</td><td>31.55</td><td>32.14</td><td>32.04</td><td>0.25</td><td>0.179</td><td></td></tr><tr><td>壳重比例 Percentage of eggshell/%</td><td>11.72</td><td>11.88</td><td>11.14</td><td>11.93</td><td>11.92</td><td></td><td>0.12</td><td>0.163</td></tr><tr><td>哈氏单位 Haugh unit</td><td>87.85</td><td>87.21</td><td>85.90</td><td>86.19</td><td>84.85</td><td>0.74</td><td></td><td>0.772</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，随着饲粮代谢能水平增加，血清胆固醇和低密度脂蛋白含量显著线性提高（ $\\scriptstyle P < 0 . 0 5 .$ )，其中饲粮代谢能水平11.59 和 $1 2 . 0 9 \\mathrm { M J / k g }$ 组血清胆固醇含量显著高于饲粮代谢能水平 $1 0 . 0 9 \\mathrm { M J / k g }$ 组（ $\\cdot P { < } 0 . 0 5 )$ )；与饲粮代谢能水平10.09和 $1 0 . 5 9 \\mathrm { M J / k g }$ 组相比，饲粮代谢能水平 $1 2 . 0 9 \\mathrm { M J / k g }$ 组血清低密度脂蛋白含量显著提高( $. P { < } 0 . 0 5$ )。饲粮代谢能水平10.09$\\mathbf { M J } / \\mathbf { k g }$ 组血清尿素氮含量显著高于其他4组（ $\\scriptstyle \\cdot P < 0 . 0 5 .$ )。饲粮代谢能水平 $1 2 . 0 9 \\mathrm { M J / k g }$ 组血清葡萄糖含量显著高于饲粮代谢能水平 $1 0 . 0 9 \\mathrm { M J / k g }$ 组（ $_ { . } { \\cal P } { < } 0 . 0 5 )$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表4饲粮代谢能水平对笼养蛋鸭血清生化指标的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/63f3d31dbf89c214c796d01881b5098536c7bffca7665547dfd672c1ee7f6b75.jpg",
+        "table_caption": [
+            "Table 4Effects of dietary ME level on serum biochemical indices of cage-rearing laying ducks "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>饲粮代谢能水平Dietary ME</td><td>SEM</td></tr><tr><td></td><td></td><td>P值P-value</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/d5995759b909f72bb2a23e250142d57d012236535475b3de0e14b5dae623d802.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"16\">level/(MJ/kg)</td></tr><tr><td></td><td colspan=\"7\">10.09 10.59 11.09 11.59 12.09</td><td colspan=\"4\">组间</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>Grou</td><td>线性</td><td>二次曲</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>p</td><td></td><td>Linea</td><td>线</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>r</td><td>Quadrati</td></tr><tr><td>总蛋白 TP/(g/L)</td><td>62.00</td><td>66.20</td><td>62.20</td><td>58.80</td><td>59.00</td><td></td><td>1.28</td><td>0.374</td><td>0.152</td><td>C 0.495</td></tr><tr><td>白蛋白 ALB/(g/L)</td><td>26.08</td><td>27.28</td><td>26.22</td><td>25.54</td><td>25.28</td><td></td><td>0.43</td><td>0.657</td><td>0.297</td><td>0.499</td></tr><tr><td></td><td>9.38b</td><td>9.96ab</td><td>10.14a</td><td>9.95ab</td><td>10.49a</td><td></td><td>0.14</td><td>0.047</td><td>0.092</td><td>0.250</td></tr><tr><td>葡萄糖 GLU/(mmol/L)</td><td></td><td></td><td>b</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>胆固醇 TC/(mmol/L)</td><td>3.39b</td><td>3.91ab</td><td>3.96ab</td><td>4.39a</td><td>4.66a</td><td></td><td>0.15</td><td>0.049</td><td>0.005</td><td>0.914</td></tr><tr><td>甘油三酯 TG/(mmol/L)</td><td>13.59</td><td>13.51</td><td>14.60</td><td></td><td>16.37</td><td>17.02</td><td>0.76</td><td>0.494</td><td>0.088</td><td>0.741</td></tr><tr><td>高密度脂蛋白</td><td>1.54</td><td>1.80</td><td>1.40</td><td>1.55</td><td>1.72</td><td></td><td>0.10</td><td>0.774</td><td>0.876</td><td>0.694</td></tr><tr><td>HDL/(mmol/L)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>低密度脂蛋白</td><td>0.58b</td><td>0.60b</td><td>0.63ab</td><td></td><td>0.72ab</td><td>0.85a</td><td>0.04</td><td>0.033</td><td>0.038</td><td>0.423</td></tr><tr><td>LDL/(mmol/L)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>谷丙转氨酶 ALT/(U/L)</td><td>26.40</td><td>32.60</td><td>33.80</td><td>31.20</td><td></td><td>29.80</td><td>1.30</td><td>0.450</td><td>0.525</td><td>0.097</td></tr><tr><td>谷草转氨酶 AST/(U/L)</td><td>15.00</td><td>13.20</td><td>25.60</td><td>27.20</td><td>13.80</td><td></td><td>3.44</td><td>0.208</td><td>0.482</td><td>0.102</td></tr><tr><td>碱性磷酸酶 ALP/(U/L)</td><td>215.6</td><td>162.2</td><td>154.0</td><td>247.8</td><td>192.4</td><td>24.8</td><td></td><td>0.779</td><td>0.834</td><td>0.658</td></tr><tr><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>3</td><td></td><td></td><td></td><td></td></tr><tr><td>尿素氮 UN/(mmol/L)</td><td>0.51a</td><td>0.32b</td><td>0.39b</td><td>0.37b</td><td>0.28b</td><td>0.02</td><td></td><td>0.010</td><td>0.005</td><td>0.455</td></tr><tr><td>尿酸 UA/(μmol/L)</td><td>326.8</td><td>423.6</td><td>426.7</td><td>306.6</td><td>345.0</td><td>33.2</td><td></td><td>0.723</td><td>0.746</td><td>0.418</td></tr><tr><td></td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>9</td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4临武鸭产蛋高峰期代谢能的需要量",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表2和表4中P值可知，平均日采食量及血清中胆固醇、低密度脂蛋白和尿素氮含量与饲粮代谢能水平只存在线性变化趋势（ $_ { . P < 0 . 0 5 }$ ）。表5回归分析表明，随饲粮代谢能水平的提高，试验鸭产蛋率、日产蛋重和料蛋比均表现出二次曲线变化趋势，分别对其进行求导可得二次曲线对应极点的饲粮代谢能水平分别为10.73、10.74和11.29MJ/kg，即用该模型估测饲粮代谢能水平分别为10.73、10.74和11.29 MJ/kg时，试验鸭产蛋率和日产蛋重最高，料蛋比最低。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表5临武鸭产蛋高峰期代谢能的需要量",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/facfbe1181fa8cf2fa29dc12a9616b3b68eee26090d833e32ba6aa89907edbeb.jpg",
+        "table_caption": [
+            "Table 5The ME requirement of Linwu laying ducks in peaking laying period "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td rowspan=\"2\">回归公式</td><td rowspan=\"2\">相关</td><td>P值</td><td rowspan=\"2\">饲粮代谢能需要量 Dietary ME requirement/(MJ/kg)</td></tr><tr><td>系数 P-value</td></tr><tr><td>平均日采食量 ADFI/(g/d)</td><td>y=-4.158x+196.5</td><td>0.977</td><td>0.000</td><td></td></tr><tr><td></td><td></td><td>0</td><td></td><td></td></tr><tr><td>产蛋率 Laying rate/%</td><td>y=-1.802</td><td>0.919</td><td>0.020</td><td>10.73</td></tr><tr><td></td><td>9x²+38.701x-126.76</td><td>7</td><td></td><td></td></tr><tr><td>日产蛋重 Daily egg yield/(g/d)</td><td>y=-1.286</td><td>0.976</td><td>0.009</td><td>10.74</td></tr><tr><td></td><td>6x2+27.675x-90.805</td><td>8</td><td></td><td></td></tr><tr><td>料蛋比 Feed/egg</td><td>y=0.068 6x²-1.548</td><td>0.937</td><td>0.003</td><td>11.29</td></tr><tr><td></td><td>9x+11.348</td><td>4</td><td></td><td></td></tr><tr><td>胆固醇 TC/(mmol/L)</td><td>y=0.604x-2.636</td><td>0.959</td><td>0.005</td><td></td></tr><tr><td></td><td></td><td>0</td><td></td><td></td></tr><tr><td>低密度脂蛋白 LDL/(mmol/L)</td><td>y=0.132x-0.787</td><td>0.883</td><td>0.038</td><td></td></tr><tr><td></td><td></td><td>0</td><td></td><td></td></tr><tr><td>尿素氮 UN/(mmol/L)</td><td>y=-0.082x+1.283</td><td>0.550</td><td>0.005</td><td></td></tr><tr><td></td><td></td><td>0</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1饲粮代谢能水平对笼养蛋鸭产蛋性能和蛋品质的影响",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "家禽有着“为能而食”的本能，为维持生长发育和生产需要，代谢能摄入量相对稳定[8]。饲粮代谢能水平决定蛋禽采食量，进而影响平均蛋重[9]、产蛋率[5]等生产性能发挥。Grobas等[10]认为，增加饲粮代谢能水平可显著提高蛋鸡养分利用率和蛋重。有研究表明，饲粮代谢能水平从11.21MJ/kg增加到11.76MJ/kg，蛋鸡采食量将下降 $5 \\%$ ，但产蛋性能未受到影响[11]。张巍等[5报道，随饲粮代谢能水平增加，笼养蛋鸭产蛋后期产蛋率和日产蛋重升高，料蛋比下降。尹兆正等[12]和米玉玲等[13]研究表明，饲粮代谢能水平分别为11.08和11.05MJ/kg时，绍兴鸭和金定鸭产蛋率最高。戴贤君等[4报道，随饲粮能量水平上升，16\\~50周龄绍兴蛋鸭蛋重明显增加。本试验结果表明，随着饲粮代谢能水平的增加，平均日采食量逐渐下降。饲粮代谢能水平达到 $1 2 . 0 9 \\mathrm { M J / k g }$ 时，产蛋率和日产蛋重较之前显著下降，但饲粮代谢能水平过低（ $1 0 . 0 9 \\mathrm { M J / k g } \\dot { }$ ，料蛋比将上升。这表明饲粮代谢能水平过高，腹部脂肪囤积过多，会影响产蛋率，从而降低日产蛋重；饲粮代谢能水平过低，会提高其采食量，从而增加料蛋比。因此，试验鸭具有根据代谢能水平调节采食量的能力，饲粮代谢能水平在10.59\\~11.59 MJ/kg时蛋鸭可获得较佳的产蛋性能。本试验中，饲粮代谢能水平在10.09\\~12.09 MJ/kg时，各组蛋品质各指标均无显著差异，这一结果与Grobas等[14]、Junqueira等[15]和谭树义[16]的研究结果一致，但与王爽等[17]的研究结果大相径庭，具体原因可能是在饲粮粗蛋白质水平一致情况下，调节饲粮代谢能水平方法、饲粮组成等存在差异。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2饲粮代谢能水平对笼养蛋鸭血清生化指标的影响 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "血清生化指标变化反映动物机体健康状况和代谢情况。葡萄糖是动物生命活动的直接供能物质，其与摄入能量高低有关，高能饲粮可以显著提高血清葡萄糖含量[18]。血清总胆固醇和低密度脂蛋白含量均可反映机体脂类代谢情况，尿素氮和尿酸作为蛋白质代谢终产物，其含量可反映机体蛋白质代谢情况[18]。米玉玲[19]报道，在低温和适温下提高饲粮代谢能水平，血清中游离脂肪酸和葡萄糖含量呈上升趋势，而血清中尿酸含量呈下降趋势。李琴等[20]研究表明，随饲粮代谢能水平升高，1\\~3周龄四川白鹅血清总胆固醇、低密度脂蛋白含量呈先升高后降低再升高再降低趋势。本试验结果表明，饲粮代谢能水平对试验鸭血清中胆固醇、低密度脂蛋白和葡萄糖含量有显著影响，三者随饲粮代谢能水平增加而显著升高，表明通过添加大豆油来提高饲粮代谢能水平，有利于试验鸭对能量的利用，其机体内储能物质有所增加。随饲粮代谢能水平增加血清尿素氮含量显著降低，这也进一步验证了饲粮代谢能水平增加试验鸭采食量下降，进而影响到粗蛋白质和其他营养物质摄入量减少，最终血清中尿素氮含量降低，具体机理还有待进一步研究。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3临武鸭产蛋高峰期代谢能的需要量",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "目前，蛋禽代谢能需要量研究主要集中在蛋鸡上，在蛋鸭方面研究较少，尤其是不同阶段蛋鸭饲粮适宜代谢能水平缺乏系统研究。魏立民等[21]推荐海南地区笼养蛋鸭产蛋期适宜代谢能水平为11.30MJ/kg。以上研究结果均是在笼养条件下。本试验研究结果表明，饲粮代谢能水平在10.59\\~11.59 MJ/kg时笼养蛋鸭产蛋高峰期可获得较佳产蛋性能；以产蛋率、日产蛋重和料蛋比为敏感指标，通过二次曲线模型估算得出30\\~38周龄临武鸭代谢能需要量为10.73\\~11.29MJ/kg。这一结果与《肉鸭饲养标准》（NY/T2122-2012）中肉蛋兼用型种鸭推荐量（ $1 1 . 3 0 \\mathrm { M J / k g }$ ）和王爽等[17]对绍兴鸭的研究结果（ $1 1 . 3 0 \\mathrm { M J / k g }$ ）较接近，但高于张巍等[5]的研究结果 $( 1 0 . 6 7 \\mathrm { M J / k g } )$ ，略低于戴贤君等[4]（11.70MJ/kg)和米玉玲等[13]（11.51MJ/kg）的推荐量。不同研究中蛋鸭饲粮适宜代谢能水平存在差异原因可能与衡量指标、生产阶段、饲养管理方式以及鸭品种等有关。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "在本试验条件下，以高产蛋率、高日产蛋重和低料蛋比为衡量指标，推荐29\\~38周龄临武鸭饲粮代谢能水平为 $1 0 . 7 3 { \\sim } 1 1 . 2 9 \\mathrm { M J / k g }  { \\mathrm { \\Omega } }$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献：  \n[1]刘佳.产蛋高峰期蛋鸡代谢能需要量研究[D].硕士学位论文.杨凌:西北农林科技大学,2012.[2]刘作兰,黄勇,李静,等.日粮能量对家禽卵泡发育的影响及其机制[J].中国家禽,2016,38(11):49-54.  \n[3] 罗欢,陈胜昌,杨胜林,等.三穗鸭产蛋中期 $2 3 \\sim 3 7$ 周龄)能量、粗蛋白及钙需要的研究[J]饲料工业,2016,37(19):28-31.  \n[4]戴贤君,刘建新,方德罗,等.不同能量水平对产蛋绍鸭生产性能的影响[J].浙江农业学报,1999,11(2):88-91.  \n[5] 张巍,赵娜,陈芳,等.饲粮代谢能和粗蛋白质水平对笼养蛋鸭产蛋后期产蛋性能及蛋品质的影响[J].中国家禽,2017,39(3):26-30.  \n[6] 中华人民共和国农业部.NY/T2122-2012 肉鸭饲养标准[S].北京:中国农业出版社,2012.[7] 湖南省质量技术监督局.DB43/T898-2014 临武鸭营养需要[S].[S.1.]:[s.n.],2014.  \n[8] WU G,BRYANT M M,VOITLE R A,et al.Effect of dietary energy on performance and eggcomposition of BovansWhite and Dekalb White hens during phaseI [J].PoultryScience,2005,84(10):1610-1615.  \n[9] 李美玲,段国香,张建云,等.日粮代谢能对\"京红1号\"蛋鸡产蛋后期生产性能和蛋品质的影响[J].中国畜牧杂志,2017,53(11):66-69,100.  \n[10]GROBAS S,MENDEZ J,DE BLAS C.et al.Influence of dietary energy,supplemental fatand lioleic acid concentration on performance of laying hens at two ages[J].British Poultry Science,1999,40(5):681-687.  \n[11]JALAL M A,SCHEIDELER S E,MARX D.Effect of bird cage space and dietarymetabolizable energy level on production parameters in layinghens[J].Poultry",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Science,2006,85(2):306-311. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[12]尹兆正,余东游,祝春雷.绍鸭产蛋期适宜日粮能量水平的研究[J].浙江大学学报（农业与生命科学版）,2000,26(4):451-454.  \n[13]米玉玲,王安.不同能量水平饲粮对笼养蛋鸭产蛋初期生产性能影响的研究[J].饲料工业,2001,22(2):16-18.  \n[14]GROBAS S,MENDEZ J,DE BLAS C,et al.Laying hen productivity as affected byenergy,supplementalfat,andlinoleic acid concentrationofthediet[J].PoultryScience,1999,78(11):1542-1551.  \n[15]JUNQUEIRA O M,DE LAURENTIZ A C,DA SILVA FILARDI R,et al.Effects of energy andprotein levels on egg quality and performance of laying hens at early second productioncycle[J].The Journal of Applied Poultry Research,2006,15(1):110-115.  \n[16]谭树义.不同代谢能水平对高温季节蛋鸡生产性能及蛋品质影响[J].家禽科学,2016(8):8-10.  \n[17]王爽,马维英,陈伟,等.饲粮代谢能及粗蛋白质水平对绍兴鸭产蛋性能、蛋品质及血浆生化指标的影响[J].动物营养学报,2016,28(12):3803-3810.  \n[18]殷中琼,贾仁勇,刘世贵.不同个体和日龄新罗曼蛋鸡血液生化指标变化的研究[J].畜禽业,2002(6):4-5.  \n[19]米玉玲.寒冷应激高能饲粮对笼养蛋鸭生化指标及生产性能影响的研究[D].硕士学位论文.哈尔滨:东北农业大学,2002.  \n[20]李琴,赵献芝,刘万红,等.饲粮代谢能水平对 $_ { 1 \\sim 3 }$ 周龄四川白鹅生长性能和血清生化指标的影响[J].动物营养学报,2016,28(10):3076-3083.  \n[21]魏立民,孙瑞萍,林哲敏,等.日粮能量和蛋白质水平对蛋鸭生产性能的影响[J].中国畜牧兽",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "医,2013,40(12):81-84.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Effects of Dietary Metabolizable Energy Level on Laying Performance, Egg Quality and ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Serum Biochemical Indices of Cage-Rearing Laying Ducksi ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "HUANG Xuan1,2.3LI Chuang1,2.3XIONG Huali4JIANG Guitao1,2,3ZHANG $\\mathrm { X u } ^ { 1 , 2 , 3 }$ （204   \nWANG Xiangrong1,2.3HU Yan1DAI Qiuzhong1,2.3\\*   \n(1. Department of Animal Nutrition and Feeding Technology, Hunan Institute of Animal Science   \nand Veterinary Medicine,Changsha 410131, China; 2. Institute of Bast Fiber Crops, Chinese   \nAcademy of Agricultural Sciences, Changsha 410205, China; 3. Hunan Collaborative Innovation   \nCenter of Animal Production Safety, Changsha 410128, China; 4. Agriculture, Forestry and   \nFisheries Service Center of Lingjiaotang Town, Yongzhou 425199, China) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This experiment was conducted to study the effects of dietary metabolizable energy (ME) level on laying performance, egg quality and serum biochemical indices of cage-rearing laying ducks during peak laying period. Two hundred and fifty 29-week-old healthy Linwu ducks with a similar body weight were randomly assigned to 5 groups with 5 replicates in each group and 10 ducks in each replicate. Using in a single factorial design trial, the ducks were fed the diets with ME levels of 10.09,10.59,11.09,11.59 and $1 2 . 0 9 \\ \\mathrm { M J / k g }$ ,respectively, and dietary crude protein level was $1 8 \\%$ in every group’ diet. The adaptation period lasted for 7 days and the formal period lasted for 63 days.The results showed as follows: 1） the average daily feed intake was linear significantly decreased with dietary ME level increased $( P { < } 0 . 0 5 )$ . The laying rate and daily egg yield of dietary ME level $1 2 . 0 9 \\ \\mathrm { M J / k g }$ group were significantly lower than those of other groups $( P { < } 0 . 0 5 )$ . The feed to egg ratio of dietary ME level $1 0 . 0 9 \\ \\mathrm { M J / k g }$ group was the highest, and significantly higher than that of other groups $( P { < } 0 . 0 5 )$ .2）Dietary ME level had no significant ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "effects on egg quality indices of cage-rearing laying ducks $( P { > } 0 . 0 5 )$ ．3）The contents of cholesterol and low density lipoprotein in serum were linear significantly increased with dietary ME level increasing $( P { < } 0 . 0 5 )$ ，while the serum urea nitrogen content was linear significantly decreased with dietary ME level increasing $( P { < } 0 . 0 5 )$ . The serum glucose content of dietary ME level $1 2 . 0 9 \\mathrm { M J / k g }$ group was significantly higher than that of dietary ME level $1 0 . 0 9 \\mathrm { M J / k g }$ group （20 $( P { < } 0 . 0 5 )$ . In conclusion, the regression analysis shows that selected high laying rate, high daily egg yield and low feed to egg ratio as indicators,the recommended dietary ME level of Linwu ducks aged form 29 to 38 weeks is 10.73 to $1 1 . 2 9 \\mathrm { M J / k g }$   \nKey words: cage-rearing laying ducks; metabolizable energy; laying performance; egg quality; serum biochemical indices ",
+        "page_idx": 14
+    }
+]

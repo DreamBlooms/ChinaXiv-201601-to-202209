@@ -1,0 +1,383 @@
+[
+    {
+        "type": "text",
+        "text": "模式变换脉冲星PSR， $\\mathbf { J 0 6 1 4 + } 2 2 2 9$ 的多波段辐射区的研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张颜荣」，陈建玲²，王洪光’，黄秀健3",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1．广州大学，广东 广州 510006；2.运城学院，山西 运城 044000；3.华中师范大学，湖北 武汉 430079）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：年轻脉冲星PSR $\\mathbf { J 0 6 1 4 + } 2 2 2 9$ 是少数模式变换时发生相位偏移的脉冲星之一。本文利用Parkes射电天文台的 $1 0 \\mathrm { c m }$ 、 $2 0 \\mathrm { c m }$ 和 $5 0 \\mathrm { c m }$ 三个波段上的偏振观测数据，对每个波段爆发模式和正常模式的线偏振位置角用旋转矢量模型进行拟合，确定了其最大斜率点的相位差。进而利用广泛使用的确定辐射高度的相对论性方法，首次得到了模式变换时辐射高度的变化，发现正常模式的辐射位置高于爆发模式，其高度差随着频率增加而扩大。根据两个模式累积脉冲窗口中心的相位差，可以推断两个模式的辐射区并不都关于磁轴-自转轴所在子午面对称。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：脉冲星；射电辐射；PSR $\\mathbf { J 0 6 1 4 + } 2 2 2 9$ ；模式变换；偏振中图文分类号：P161.3 文献标志码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PSR $\\mathbf { J 0 6 1 4 + } 2 2 2 9$ （即 $\\mathbf { B } 0 6 1 1 + 2 2$ ）的自转周期为0.335s，特征年龄只有9万年，非常年轻，是一颗特殊的模式变换脉冲星。除了像其它一些模式变换脉冲星那样有爆发（Burst，以下简称B模式）和正常（Normal，以下简称N模式）两种不同的辐射状态之外，其脉冲相位也存在着同步的偏移，并且其模式变换呈现准周期性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "自 Davies 等人[1]于1972 年发现这颗星以来，其模式变换行为已被多个团队研究过。1980年,Ferguson 和 Boriakoff [2]最早通过单脉冲观测注意到其辐射存在时标为几分钟的变化，在 $4 3 0 ~ \\mathrm { M H z }$ 上，他们发现当这颗星的脉冲较强时，其相位常常偏后一些，脉冲轮廓的相位偏移量可达 $2 ^ { \\circ }$ 左右。1992年Nowakowski通过在相同波段研究，确定它为模式变换脉冲星，模式特征时标为几百秒。两种模式下的脉冲轮廓都为高斯形，但宽度、强度和相位均有差别。2000 年 $\\kappa \\mathrm { e r n } ^ { \\mathcal { \\left( 2 \\right) } }$ 发现这颗星的偏振位置角（PPA）的最大斜率处在脉冲轮廓的尾部边界，由此认为其辐射主要来自脉冲星极冠区（PolarCap）前部区域，而不是充满极冠区的；并提出B模式脉冲轮廓更宽是由于存在暂现锥成分的猜测。2014年 Seymour等人[3」通过 $3 2 7 \\mathrm { M H z }$ 和 $1 4 0 0 ~ \\mathrm { M H z }$ 两个波段上在同一天进行的单脉冲观测发现，在 $3 2 7 \\mathrm { M H z }$ 上相位较后的模式明显强于相位较前的模式，而在1400 MHz上两种模式的强度差别不大。此外，他们还通过谱分析试图寻找子脉冲漂移特征，但两种模式都没有发现子脉冲漂移的证据。2016年，Rajwade 等人[4] 利用在 $1 5 0 ~ \\mathrm { M H z }$ 和 327 MHz上的同时观测，以及在 $3 2 7 ~ \\mathrm { M H z }$ 和820 MHz上的同时观测，发现在 $1 5 0 ~ \\mathrm { M H z }$ 和 $3 2 7 ~ \\mathrm { M H z }$ 上的B模式的相位都靠后些，而在820 MHz上则相反，N模式反而更靠后，认为Kem提出的暂现锥成分假说尽管可以解释B模式脉冲宽度的增加，但无法解释在不同频率上B模式相对N模式的相位变化。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以上研究发现了这颗脉冲星复杂的模式变换行为，但对其模式变换时辐射区域如何变化还没给出很好的解释，这很大程度上是由于过去缺乏多波段同时偏振观测。已有的偏振观测表明,该星的PPA是一条光滑的S形曲线[5-6],可以用经典旋转矢量模型(RVMrotating vectormodel）[7-8]或相对论性 RVM模型（RRVM）[9-11l很好地描述，并以此估计出了辐射高度[9]。但是文献中尚无对不同模式的偏振位置角和辐射高度进行研究的工作，这正是本文研究的重点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文通过分析Parkes天文台64米射电望远镜获得的 $1 0 \\mathrm { c m }$ 和 $5 0 \\mathrm { c m }$ 波段同时观测数据以及 $2 0 \\mathrm { c m }$ 波段的观测数据[12-13],从多个波段考察其模式变换时的偏振特征的变化，并基于RVM模型对PSR $\\mathbf { J 0 6 1 4 + } 2 2 2 9$ 辐射区域的分布和随频率的变化给出新的结果。本文第1部分介绍了数据来源和处理流程，第2部分研究了两种模式的辐射高度的差异及其随频率变化的关系，第3部分为总结和讨论。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1．观测与数据处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文使用了 Parkes 天文台释放出来的64 米射电望远镜的历史观测数据[12-13].②。 $1 0 \\ \\mathrm { c m }$ 、$2 0 \\mathrm { c m }$ 和 $5 0 \\mathrm { c m }$ 三个波段的中心频率分别为 ${ 6 8 6 } \\mathrm { M H z }$ 、1369MHz和 $3 1 0 0 \\mathrm { M H z }$ ，所用后端均为WBCORR，采用1024采样数和 $1 \\mathrm { m i n }$ 子积分时长。在 ${ 6 8 6 } \\mathrm { M H z }$ 和 $3 1 0 0 \\mathrm { M H z }$ 通过5010CM接收机在MJD53658.80926同时观测，观测时长为 $5 1 \\mathrm { m i n }$ ，有效带宽分别为 ${ 6 4 } \\mathrm { M H z }$ 和1024MHz，单个通道带宽分别为 $0 . 1 2 5 ~ \\mathrm { M H z }$ 和 $1 ~ \\mathrm { M H z }$ 。在 $1 3 6 9 ~ \\mathrm { M H z }$ 通过H-OH接收机在MJD53667.80810进行观测观测时长为 $1 8 ~ \\mathrm { m i n }$ ,有效带宽为256MHz,单通道带宽为 $0 . 1 2 5 \\mathrm { M H z }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "脉冲星的原始观测数据为 PSRFITS[13]文件，本文使用了脉冲星数据处理专用软件包PSRCHIVE[13].④ 来处理。首先要把频域两边信噪比很低的通道用paz模块切掉，并对数据进行自动去噪，用 pazi 模块手动消掉频域和时域的射电干扰（RFI)；第二步是利用射电参考源Hydra 和噪声二极管的信号对数据用pac 模块进行流量定标、偏振校准和 pcm 定标。最后再对处理后的偏振数据进行PPA的拟合等分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.不同模式辐射高度的计算",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1计算辐射高度的方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "计算辐射高度的方法有多种[14]，其中Blaskiewicz等人[9]1991年（以下简称BCW91)提出的相对论性方法是两种常用的方法之一，它用RVM模型来拟合PPA数据，确定最佳拟合曲线的最大斜率点（SGP，steepest gradient point）的相位 $\\scriptstyle \\cdot \\Phi _ { 0 }$ ，并计算它与脉冲窗口中心相位 $\\Phi _ { \\mathrm { c } }$ 之间的差值，用如下近似关系来计算辐射高度 $\\mathbf { r }$ ：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\Phi _ { \\mathrm { B C W } } = \\Phi _ { 0 } - \\Phi _ { \\mathrm { c } } \\approx \\frac { 4 \\mathrm { r } } { \\mathrm { R _ { \\mathrm { l c } } } } ~ \\mathrm { ~ , ~ }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $R _ { \\mathrm { l c } }$ 为脉冲星的光速圆柱半径。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "上述相位差来源于磁层共转所引起的相对论性效应——光行差效应（aberration）和辐射高度与方向不同所引起的光程差效应 (retardation)。相比之下，另一种常用方法——通过脉冲宽度和辐射几何关系计算高度的方法没有考虑这些因素，因此相对论性方法比纯几何的方法更加接近物理实际。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "该方法适用于r ${ < < R _ { \\mathrm { l c } } }$ 的情形，优点是计算公式简单，且不像辐射几何方法那样需要得到较为精确的磁倾角 $\\alpha$ （磁轴和自转轴夹角）和碰撞角 $\\beta$ （视线和磁轴夹角）。而这两个参数对辐射几何方法是必须的，虽然它们可以通过对PPA数据进行RVM模型进行拟合得到，但对于像PSR $\\mathbf { J 0 6 1 4 + } 2 2 2 9$ 这样轮廓较窄的脉冲星，所得到的 $\\alpha$ 的误差较大（如BCW91拟合的结果为 $\\alpha _ { \\mathrm { B C W 9 1 } } = 3 0 ^ { \\circ } \\pm 1 0 0 ^ { \\circ }$ )，因此用辐射几何方法得到的高度误差较大。而相对论性方法对磁倾角的误差不敏感，所以本文选用这种方法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于该方法（即（1）式）,BCW91计算了PSR $\\mathbf { J 0 6 1 4 + } 2 2 2 9$ 在 $1 . 4 \\mathrm { G H z }$ 上的辐射高度，结果为 $r _ { \\mathrm { B C W 9 1 } } = 4 9 0 \\pm 1 4 0 \\ \\mathrm { k m } ^ { \\odot }$ （对应于相位差 $\\Delta \\phi _ { \\mathrm { B C W 9 1 } } = 7 \\pm 2 ^ { \\circ } ~ \\rangle _ { \\circ }$ 不过这一结果是针对总积分轮廓的，不能回答不同模式时辐射高度的变化。本文已经分别得到了三个频率上B模式和N模式的偏振轮廓，原则上可以利用该方法计算各自的辐射高度，从而检验是否发生了高度变化，以及随频率的变化情况。但是该方法有一个前提假设，即要求辐射区域关于磁轴和自转轴所在平面（以下简称磁轴子午面)对称。经过对比两个模式脉冲窗口中心相位以及PPA曲线SGP的相对移动，可以推断至少有一个模式不满足这一前提假设（详见下一节），因此不能简单的用公式（1）来求解。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "我们注意到 2008年Dyks[10] 对 BCW91的方法做了深入研究，并对公式（1）中的相位差给出了更为直观的理解。在 $\\mathrm { r } < 0 . 1 R _ { \\mathrm { l c } }$ 且极冠区满足Gouldreich-Julian 电流密度[15的情况下，作者将BCW91的RRVM模型改写为对惯性观测者参照系（IOF）更加友好的形式：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tan \\Big ( \\Psi _ { \\mathrm { r } } - \\Psi _ { \\Omega } \\Big ) \\approx \\frac { \\sin \\alpha \\sin \\big ( \\phi _ { \\mathrm { o b s } } - \\phi _ { \\mathrm { f } } + \\Delta \\phi _ { \\mathrm { r } } \\big ) } { \\cos \\zeta \\sin \\alpha \\cos \\big ( \\phi _ { \\mathrm { o b s } } - \\phi _ { \\mathrm { f } } + \\Delta \\phi _ { \\mathrm { r } } \\big ) - \\sin \\zeta \\cos \\alpha } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中视线与自转轴夹角 $\\zeta = \\alpha + \\beta$ ， $\\Phi _ { \\mathrm { o b s } }$ 为IOF参照系中观测到的脉冲相位， $\\Phi _ { \\mathrm { f } }$ 为磁轴子午面中辐射高度为0处的脉冲相位（作为参考相位）， $\\Delta \\phi _ { \\mathrm { r } }$ 是高度为 $\\mathbf { r }$ 处的辐射相对0高度处辐射的相位差（等价于轮廓窗口中心相位相对参考相位 $\\Phi _ { \\mathrm { f } }$ 的偏移量） $\\mathbf { \\Psi } , \\Psi _ { \\mathrm { r } }$ 为该处辐射的PPA，$\\Psi _ { \\Omega }$ 为自转轴在垂直视线的平面中的投影角。由于光行差和光程差效应的联合贡献，导致脉冲窗口中心 $\\cdot \\Phi _ { \\mathrm { c } }$ 相对参考相位 $\\Phi _ { \\mathrm { f } }$ 移动了如下相位差：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\ \\Phi _ { \\mathrm { r } } = \\Phi _ { \\mathrm { c } } - \\Phi _ { \\mathrm { f } } \\approx - \\frac { 2 { \\mathrm { r } } } { R _ { \\mathrm { l c } } } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中负号表示窗口中心前移了。要保证公式（1）成立，则要求 SGP的相位 $\\Phi _ { 0 }$ 相对于 $\\Phi _ { \\mathrm { f } }$ 后移了如下的值：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\Phi _ { 0 } = \\Phi _ { 0 } - \\Phi _ { \\mathrm { f } } \\approx { \\frac { 2 \\mathrm { r } } { R _ { \\mathrm { l c } } } } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "也就是说,公式(1)中的相位差可以理解为脉冲窗口中心前移和 SGP后移共同贡献的结果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "上面两个相位差中， $\\Delta \\phi _ { \\mathrm { r } }$ 依赖于辐射区关于磁轴子午面对称的假设，而 $\\Delta \\phi _ { 0 }$ 不依赖。设想一个简单的对比，一种情况是辐射区在磁轴子午面两侧对称分布，另一种情况是辐射区只在磁轴子午面前面一侧（是前者的一半），二者辐射高度都相同，那么后者的PPA曲线就是前者PPA曲线的一半。既然PPA形状重合，那么二者的 SGP就都一样。不过后者轮廓的窗口中心显然比前者更加靠前了。由此可见，SGP的相位与参考相位的变化量能准确的反映辐射高度，对辐射区不对称的情况也适用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文的主要任务是研究模式变换是辐射区高度是否发生变化。由于参考相位是共同的，所以就可以利用两种模式下SGP的相位差来计算辐射高度之差，再结合脉冲窗口中心相位的差别来评估辐射区域偏离对称的情况。采用的工作步骤如下。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2PPA的RVM拟合",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "原则上拟合PPA数据应该使用RRVM模型，不过在 $\\mathrm { r } < 0 . 1 R _ { \\mathrm { l c } }$ 的情况下RRVM模型和经典RVM模型所给出的PPA曲线形状一致，这可以通过对比公式（2）和如下经典RVM模型[7-8]函数关系看出：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tan ( \\Psi - \\Psi _ { 0 } ) = \\frac { \\sin \\alpha \\sin ( \\phi _ { \\mathrm { 0 b s } } - \\phi _ { 0 } ) } { \\sin \\zeta \\cos \\alpha - \\cos \\zeta \\sin \\alpha \\cos ( \\phi _ { \\mathrm { 0 b s } } - \\phi _ { 0 } ) } \\mathrm { ~ , ~ }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\Phi _ { 0 }$ 和 $\\Psi _ { 0 }$ 是磁轴子午面中磁力线上出来的辐射相位与PPA， $\\Phi _ { 0 }$ 与公式（2）中的 $\\Phi _ { \\mathrm { f } }$ 是等价的，同时它也是PPA曲线上最大斜率点（SGP）的相位，有：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( { \\frac { \\mathrm { d } \\Psi } { \\mathrm { d } \\Phi } } \\right) _ { \\mathrm { m a x } } = \\left( { \\frac { \\mathrm { d } \\Psi } { \\mathrm { d } \\Phi } } \\right) _ { \\phi _ { 0 } } = { \\frac { \\sin \\alpha } { \\sin \\beta } } ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "因此，为简便起见，本文仍采用经典RVM模型拟合PPA数据。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "另一个需要处理的技术问题是上式中的四个参量 $\\Phi _ { 0 }$ 、 $\\Psi _ { 0 }$ 、 $\\alpha$ 和β的拟合结果依赖于数据质量。数据质量越高，拟合结果不确定度越小。此外，对于同一颗星的多频辐射和各辐射模式，尽管 $\\Phi _ { 0 }$ 和 $\\Psi _ { 0 }$ 可能有变化，但α和β的值应该保持不变。基于这两点考虑，应该选择数据质量最高的偏振轮廓来拟合得到 $\\alpha$ 和 $\\beta$ ，并将其固定，用于各模式的 PPA数据的拟合，来得到 $\\Phi _ { 0 }$ 和 $\\Psi _ { 0 }$ 。拟合采用了PSRCHIVE中的 psrmodel模块。它是是在IAU 协定[16]下编写的基于经典RVM模型拟合四个参数的模块，程序允许同时拟合四个参数，也允许限定部分参数来拟合其它参数。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "三个波段的数据中 $1 0 \\mathrm { c m }$ 和 $5 0 \\mathrm { c m }$ 的观测时间最长，均为一小时，但脉冲星在 $5 0 \\mathrm { c m }$ 的辐射要强得多，因而 $5 0 \\mathrm { c m }$ 数据的信噪比（SNR）在三个波段中最高，其PPA 的误差最小、相位范围最大，这对于得到更可靠的 $\\alpha$ 和 $\\beta$ 值至关重要。因此，我们首先选取了 ${ 6 8 6 } \\mathrm { M H z }$ 总积分轮廓的PPA数据来拟合。得到的结果如图1所示，具体参数为： $\\alpha = 8 3 . 8 ^ { \\circ } \\pm 7 8 . 9 ^ { \\circ }$ 和 $\\beta = - 6 . 0 ^ { \\circ } \\pm 2 . 2 ^ { \\circ }$ ，和 BCW91在 $1 . 4 \\mathrm { G H z }$ 的结果在IAU协定下[16] $, \\alpha _ { \\mathrm { B C W } 9 1 } = 3 0 ^ { \\circ } \\pm 1 0 0 ^ { \\circ }$ 和 $\\beta _ { \\mathrm { B C W 9 1 } } = - 6 ^ { \\circ } \\pm 1 5 ^ { \\circ } \\ .$ ）在误差范围内相吻合。从图1可以看出最佳拟合RVM曲线和PPA 数据符合得很好。本文得到的PPA的 SGP大约在轮廓的最右侧边界处，这和 Kern的结果一致。接下来就可以将上面得到的 $\\alpha$ 和β值用来拟合三个波段不同模式下的 $\\Phi _ { 0 }$ 和中",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e810ced3ba95dc07a661128813dda02dc1144a65aeeacf2b4229e450d9835e0e.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图 $1 : 6 8 6 ~ \\mathrm { M H z }$ 上PPA的RVM拟合。顶部图框中实线为RVM的最佳拟合曲线，虚线交叉 处为 SGP $( \\Phi _ { 0 } , \\Psi _ { 0 } )$ 。底部图框分别用实线、短划线以及点划线给出了总轮廓I、线偏振L和 圆偏振 $\\mathrm { \\Delta V }$ ，同时用虚线标出了总积分轮廓的窗口中心所在相位和 $10 \\%$ 峰值流量水平。 Fig.1: RVM fit of the PPA data at $6 8 6 ~ \\mathrm { M H z }$ . The top panel shows the best-fit RVM curve,with the SGP $( \\boldsymbol { \\Phi } _ { 0 } , \\ \\boldsymbol { \\Psi } _ { 0 } )$ being denoted by the cross section of the vertical and horizontal dotted lines. The botom panel shows the total intensity (I, solid), linear polarization (L,dashed),circular polarization (V,dash-dotted),the central phase of the profile's window determined at the $10 \\%$ level of the pulse peak(vertical dotted line） and the $10 \\%$ level of the peak intensity (horizontal dotted line) of the averaged pulse profile. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3两种模式的辐射高度",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "我们通过肉眼辩别剔除各波段数据中可能包含两种模式的子积分（通常是在从一个模式的序列变到另一个模式的序列时过渡的子积分），并将剩余的两个模式的数据分开并叠加得到各自的总轮廓，然后对两个模式的PPA进行拟合，结果如图2所示，其中 SGP相位分别用蓝色（B模式）和红色（N模式）的虚线代表。从图中可以看出，从B模式变换为N 模式时脉冲轮廓和 PPA的 SGP 相位都发生了明显的向右偏移，并且SGP 相位的偏移量呈现出随频率逐步增大的特征。当把N模式PPA的 SGP 和B模式的对齐后（黄色和绿色），两者的 PPA数据和最佳拟合曲线都吻合得非常好，这说明磁场的几何位形没有改变。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/31aa67b446bb65510d980715af02281d42e6e9e03edf5e5254d946cd1006edb5.jpg",
+        "img_caption": [
+            "图2：两种模式线偏振位置角的RVM拟合。顶部图框：蓝色和红色分别代表 SGP对齐之前"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "的B 模式和N模式数据，绿色和橙色的点分别代表 SGP对齐后的B和N模式数据。底部图框：以峰值强度 $10 \\%$ 水平确定的两种模式的轮廓窗口中心。各类点和线型的意义与图1相同。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig. 2: The RVM fit for the PPAs of the two modes.Top panel: the blue and red curves show the best-fit RVM curves of the B and N modes without aligning the SGPs, while the green and orange points and curves represent the those with the SGP alignment. Bottom panel: the centers of averaged pulse profiles' window determined at the $10 \\%$ level of the pulse peak. The meanings of the data points and the line types are the same as those in Fig. 1. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表1给出了每个波段上两个模式 $\\scriptstyle \\cdot \\Phi _ { 0 }$ 和 $\\Psi _ { 0 }$ 的最佳拟合值、它们之间的相位差 $\\delta \\Phi _ { 0 } = \\Phi _ { 0 , \\mathrm { B } } -$ $\\Phi _ { 0 , \\mathrm { N } } = \\mathrm { } \\Delta \\Phi _ { 0 , \\mathrm { B } } - \\mathrm { } \\Delta \\Phi _ { 0 , \\mathrm { N } }$ 和高度差 $\\delta \\mathrm { r } = \\mathrm { r } _ { \\mathrm { B } } - \\mathrm { r } _ { \\mathrm { N } }$ （二者的关系遵从公式（4）)，以及轮廓窗口中心的相位 $\\cdot \\Phi _ { \\mathrm { c } }$ 和两个模式之间的窗口中心相位差 $\\delta \\Phi _ { \\mathrm { c } } = \\Phi _ { \\mathrm { c , B } } - \\Phi _ { \\mathrm { c , N } } =  { ~ \\Delta ~ } \\Phi _ { \\mathrm { r , B } } -  { ~ \\Delta ~ } \\Phi _ { \\mathrm { r , N } }$ ，其中下标B和N分别代表对应的模式。轮廓窗口中心相位测量的方法是通过取每个轮廓两侧强度等于轮廓峰值强度 $10 \\%$ 所在相位（如图2所示）为脉冲窗口的边界③，记为 $\\mathrm { L } _ { 1 0 }$ 和 $\\mathsf { R } _ { 1 0 }$ ，脉冲窗口的中间相位为 $\\Phi _ { \\mathrm { c } } = ( \\mathrm { L } _ { 1 0 } + \\mathrm { R } _ { 1 0 } ) / 2$ ；单侧相位的误差可以用公式 $\\sigma ( \\Phi _ { \\mathrm { e d g e } } ) \\approx$ $\\sigma ( \\mathrm { I } _ { \\mathrm { o f f } } ) / | \\mathrm { d I } / \\mathrm { d } \\phi | _ { \\mathrm { e d g e } }$ 得到，其中 $\\sigma ( \\mathrm { I } _ { \\mathrm { o f f } } )$ 代表噪声区域强度的标准方差，导出量的误差通过误差传递公式计算。计算中用到了脉冲星的光速圆柱半径 $R _ { \\mathrm { l c } } = 1 . 6 \\times 1 0 ^ { 4 } ~ \\mathrm { k m }$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表1：两种模式的相位差与高度差",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/b1f7e6bcf510337d5a3ae6ddd3d759a4f1ce45cb138803b1861b309495dea3d5.jpg",
+        "table_caption": [
+            "Table 1: The phase offset and the difference in altitude between the two modes. "
+        ],
+        "table_footnote": [
+            "注：括号中为参数末位的误差值。 Note: The values in the brackets stand for the errors in last digits. "
+        ],
+        "table_body": "<html><body><table><tr><td>v/MHz</td><td>Mode</td><td>Φ0/°</td><td>4o/°</td><td>So/°</td><td>Sr/km</td><td>°</td><td>Sc°</td></tr><tr><td rowspan=\"2\">686</td><td>B</td><td>90.7(2)</td><td>39.3(9)</td><td>-0.5(3)</td><td>-70(40)</td><td>83.3(3)</td><td>-0.6(4)</td></tr><tr><td>N</td><td>91.2(2)</td><td>41.7(9)</td><td></td><td></td><td>83.9(2)</td><td></td></tr><tr><td rowspan=\"2\">1369</td><td>B N</td><td>284.1(2) 284.9(5)</td><td>-30.8(9) -28(2)</td><td>-0.8(5)</td><td>-110(70)</td><td>276.8(3) 277.7(5)</td><td>-0.9(6)</td></tr><tr><td>B</td><td>299.1(5)</td><td>57(2)</td><td></td><td></td><td>293.8(4)</td><td></td></tr><tr><td>3100</td><td>N</td><td>301(1)</td><td>64(6)</td><td>-2(1)</td><td>-270(150)</td><td>294.6(4)</td><td>-0.8(6)</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表中负的 $\\delta \\phi _ { 0 }$ 值表示N模式的 SGP相位比B模式的更靠后，对应于负的&r值，表示 N模式辐射高度比B模式的高。若两个模式的辐射区都对称，由于公式（3）和（4）反号，则 $\\delta \\phi _ { \\mathrm { c } }$ 应该为正值，这就要求B模式的轮廓窗口中心要比N模式的滞后，但观测结果恰好相反，这说明(3)式成立的前提—辐射区关于磁轴子午面对称不可能对两个模式同时成立。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "为了解释观测N 模式轮廓窗口中心滞后的现象，理论上存在三种可能的组合，（1）如果B 模式的辐射区是对称的，那么N模式的辐射区就不对称，且位于磁轴子午面后侧的部分要比前侧更宽一点；（2)如果N模式的辐射区是对称的，那么B模式的辐射区就不对称，且在磁轴子午面前侧的部分比位于后侧的部分更宽；(3)两种模式的辐射区都不对称，但是要求B模式的辐射区要比N模式更靠前。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "第一种和第二种情况下至少有一个模式的辐射区被假设为对称的，这可以方便地计算高度。对第一种情况，我们测量了三个波段下B 模式的 SGP 和轮廓窗口中心的相位差$\\Delta \\Phi _ { \\mathrm { B C W , B } } = \\Phi _ { \\mathrm { 0 , B } } - \\Phi _ { \\mathrm { c , B } }$ （等式右边的两个相位值见表1），并用公式（1）计算了辐射高度，然后利用表1中的高度差计算了N模式的辐射高度。用同样的办法也计算了第二种情况下的两种模式的高度。结果如表2所示。综合表1和表2的结果，可以看出两个模式之间的高度差随频率递增，但是具体到每个模式的高度随频率的变化关系，却存在不确定性：在假设B模式的辐射区是对称的情况下，B模式的辐射高度随频率递减，而N模式却是微弱递增；若假设N模式的辐射区是对称的，则两种模式的辐射高度都随频率递减。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "最后，为了方便对比，我们也仿照BCW91计算了各频率下累积脉冲总轮廓（两种模式混合)的偏振位置角曲线SGP和轮廓窗口中心相位差累积脉冲轮廓 $\\Delta \\Phi _ { \\mathrm { B C W , T } }$ 和辐射高度r(如表2所示）。从结果看，总积分轮廓得到的辐射高度随频率呈现递减的趋势，高度值更接近被假设为辐射区对称的那种模式（第一种情况的B模式或第二种情况下的N模式）",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "表2：脉冲星PSR $\\mathbf { J 0 6 1 4 + } 2 2 2 9$ 不同模式的辐射高度，",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/abd51f3066d4eb9cc74dadb54bd90746967e4140ee3b9eeaf155c8374db738e7.jpg",
+        "table_caption": [
+            "Table 2:The emission heights of PSR $\\mathbf { J 0 6 1 4 + } 2 2 2 9$ for different modes. "
+        ],
+        "table_footnote": [
+            "注：括号中为参数末位的误差值。 Note: The values in the brackets stand for the errors in last digits. "
+        ],
+        "table_body": "<html><body><table><tr><td>v/MHz</td><td>△ΦBCw,B/°</td><td>rB,1/ km</td><td>rN,1/ km</td><td>AΦBCwN/°</td><td>rN,2/ km</td><td>rB,2/ km</td><td>4ΦBCW,T/°</td><td>rT/ km</td></tr><tr><td>686</td><td>7.4(4)</td><td>520(30)</td><td>590(50)</td><td>7.3(3)</td><td>510(20)</td><td>440(50)</td><td>7.5(1.0)</td><td>520(70)</td></tr><tr><td>1369</td><td>7.3(4)</td><td>510(30)</td><td>620(80)</td><td>7.2(7)</td><td>500(50)</td><td>390(90)</td><td>7.4(2)</td><td>520(20)</td></tr><tr><td>3100</td><td>5.3(6)</td><td>370(40)</td><td>640(160)</td><td>6.4(1.1)</td><td>450(80)</td><td>180(170)</td><td>5.6(5)</td><td>390(30)</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.结论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本文利用2005年Parkes天文台在 $1 0 \\mathrm { c m }$ 、 $2 0 \\mathrm { c m }$ 和 $5 0 \\mathrm { c m }$ 三个波段的偏振观测数据，对年轻脉冲星PSR $\\boldsymbol { \\mathrm { 1 0 6 1 4 + 2 2 2 9 } }$ 模式变换时的辐射区磁场结构和辐射高度可能的变化进行了研究。通过使用RVM模型对B模式和N模式的偏振位置角数据进行拟合，发现两种模式的PPA数据和最佳拟合模型曲线都很好的吻合，表明在模式变换时脉冲星磁场结构保持不变。根据确定辐射高度的相对论性方法以及三个波段上N模式PPA曲线的 SGP相位相对于B 模式的滞后量，计算出了两种模式高度之差在 $7 0 { \\pm } 4 0 \\ \\mathrm { k m }$ 到 $2 7 0 { \\pm } 1 5 0 \\ \\mathrm { k m }$ 之间，且随着频率增加而递增。在相对论性RVM模型框架下，测量得到的两种模式脉冲窗口的中心相位之差并不能与它们的 SGP相位差相自洽，因此可以推断这两个模式的辐射区并不都关于磁轴子午面对称分布。但受限于数据的信噪比，本文没有对脉冲窗口变化对应的辐射区经度范围的变化进行讨论，有待进一步的偏振观测获得更高质量的多频（或超宽带）观测数据。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1]Davies JG,Lyne A G, Seiradakis JH, et al. Pulsar Associated with the Supernova Remnant IC 443[J]. Nature,1972, 240(5378): 229-230.   \n[2]Ferguson D C, Boriakoff V. Short time scale integrated pulse shape variations in PSR $0 6 1 1 + 2 2$ [J]. The Astrophysical Journal, 1980,239(1):310-315.   \n[3]Seymour AD,Lorimer D R, Ridley JP. Bursting emission from PSR B0611+ 22[J]. Monthly Notices of the Royal Astronomical Society, 2014, 439(4): 3951-3961.   \n[4]Rajwade K, Seymour A, Lorimer D R,et al. Simultaneous radio and X-ray observations of PSR $\\mathbf { B } 0 6 1 1 + 2 2$ [J].Monthly Notices of the Royal Astronomical Society， 2016, 462(3): 2518-2526.   \n[5]Gould D M,Lyne A G. Multifrequency polarimetry of 3O0 radio pulsars[J]. Monthly Notices of the Royal Astronomical Society, 1998, 301(1): 235-260.   \n[6] Weisberg J M, Cordes J M, Lundgren S C, et al. Arecibo 1418 MHZ Polarimetry of 98 Pulsars: Full Stokes Profiles and Morphological Classifications[J]. The Astrophysical Journal Supplement Series,1999,121(1):171.   \n[7]Radhakrishnan V,Cooke D J. Magnetic Poles and the Polarization Structure of Pulsar Radiation[J]. Astrophysical Letters,1969,3: 225.   \n[8]Hinata S.A possible mechanism for the pulsar radio emission[J]. Astrophysics and Space Science, 1977,51(2): 303-318.   \n[9]Blaskiewicz M, Cordes J M, Wasserman I. A relativistic model of pulsar polarization[J]. The Astrophysical Journal, 1991, 370: 643-669.   \n[10] Dyks J. Altitude-dependent polarization in radio pulsars[J]. Monthly Notices of the Royal Astronomical Society, 2008, 391(2): 859-868.   \n[11] Hibschman J A，Arons J. Polarization sweeps in rotation-powered pulsars[J]. The Astrophysical Journal, 2001, 546(1): 382.   \n[12] Hobbs G，Millera D，Manchester R N. The Parkes observatory pulsar data archive[J]. Publications of the Astronomical Society of Australia, 2011, 28(3): 202 -214.   \n[13] Hotan A W, Van Straten W,Manchester R N.PSRCHIVE and PSRFITS: an open approach to radio pulsar data storage and analysis[J]. Publications of the Astronomical Society of Australia, 2004, 21(3): 302-309.   \n[14]徐守喜，王洪光，陈建玲,等．脉冲星辐射区结构研究[J]．天文学进展，2007, 25(4):323-337.   \n[15] Goldreich P, Julian W H. Pulsar electrodynamics[J]. The Astrophysical Journal,1969,157: 869.   \n[16] Everett JE, Weisberg JM. Emission beam geometry of selected pulsars derived from average pulse polarization data[J]. The Astrophysical Journal, 2OO1, 553(1): 341. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "On the Multi-frequency Emission Regions of the Mode Switching Pulsar PSR J0614+2229 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Zhang Yanrong', Chen Jianling²,Wang Hongguang', Huang Xiujian³ (1. Guangzhou University, Guangzhou 51ooo6, China, Email: hgwang@ gzhu.edu.cn; 2. Yuncheng University,Yuncheng O440o0, China; 3.Central China Normal University,Wuhan 430079,China.) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The young pulsar PSR $\\mathbf { J 0 6 1 4 + } 2 2 2 9$ is one of a few known pulsars with phase offset during mode switching. With the polarimetry data at $1 0 \\ \\mathrm { c m }$ ， $2 0 \\ \\mathrm { c m }$ and $5 0 \\mathrm { { c m } }$ archived at Parkes Observatory, we employed the Rotating Vector Model to fit the linear polarization position angle data for the burst and normal modes at each frequency and obtained the phases offsets between the steepest slope-rate points of best-fit curve.Using the relativistic method that is widely used to determine the emission altitude, we firstly calculated the difference between the emission altitudes of the two modes.It was found that the emission altitude of the normal mode is higher than that of the burst mode,and the difference increases with frequency. On the basis of the phase offset between the centers of the averaged pulse windows of the two modes,it was inferred that the emission regions of the two modes should not be symmetric, in the same time,about the meridian plane that contains the rotation and magnetic axes of the pulsar. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Key words: Pulsar; Radio emission; PSR $\\mathbf { J 0 6 1 4 + } 2 2 2 9$ ; Mode switch; Polarization ",
+        "page_idx": 12
+    }
+]

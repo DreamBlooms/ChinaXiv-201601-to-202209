@@ -1,0 +1,352 @@
+[
+    {
+        "type": "text",
+        "text": "BIM技术在滨湖润园装配式住宅中的应用（上）",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "沈诗琪1 阮运书²赵士笑³朱洪可³熊飞³",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.北京构力科技有限公司,北京100013；2.北京房建建筑股份有限公司，北京102445；3.中国建筑一局(集团)有限公司，北京100073)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】随着住宅产业化在国内的兴起，近年来，装配式建筑在国内迎来了新一轮高潮。在设计阶段如何提供高精度信息集成交付物是装配式建筑落地的重难点。作为目前全国最大的住宅产业化项目，滨湖润园项目结合PK-PM-BIM平台的专业类工具软件和协同模块,完成了精细化、标准化的装配式建筑协同设计,针对工程重点和难点提供了精细化的设计交付物。本文基于PKPM-BIM数据平台及预制构件部品的信息集成技术探索装配式协同设计流程，并提供了多专业信息集成的BIM模型优化方案。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词】装配式;BIM;PKPM-BIM平台；协同设计",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【中图分类号】TU17 【文献标识码】A 【文章编号】1674－7461(2017)03-0047-10   \n【DOI】10.16670/j.cnki.cn11 -5823/tu.2017.03.08 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着BIM在国内外的兴起与发展，BIM所能提供的协调性、模拟性，以及信息化对装配式发展起到了极大的推动的作用[1-2]。近年来,将BIIM 技术应用在装配式结构设计中的研究日益增多。这些研究对将BIM技术应用在装配式建筑进行了深刻的探讨，其前瞻性和应用性对装配式的发展的推动作用极大。然而现阶段,对于装配式建筑设计流程的探索仍旧缺乏[3-5]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文将依据工程实例，探讨如何进行基于 BIM的装配式建筑协同设计。对于装配式建筑在设计阶段如何多专业协同工作，如何实现各个专业间的信息互通，数据交流，最终形成一个信息高度集成的BIM模型，这个项目将利用PKPM-BIM系统对装配式协同设计流程进行讨论与探索。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作为全国目前最大的住宅产业化项目，滨湖润园的建成具有极其深远的意义，推动着合肥地区乃至全国的住宅产业化发展，相关技术在项目中的应用以及工程经验为住宅产业化开拓了更加广阔的市场。滨湖润园项目位于合肥市滨湖新区迎淮路与天津路交口，总建筑面积 $2 6 6 ~ 7 2 6 . 9 5 \\mathrm { m } ^ { 2 }$ 。项目涵盖高层住宅楼、商业楼、幼儿园等大型民生工程和重点工程。高层住宅楼 $2 0 \\# - 3 4 \\#$ 主要为装配整体式混凝土剪力墙结构，连接方式采用钢筋套筒灌浆连接技术。项目利用PKPM-BIM平台完成各专业方案设计以及构件深化工作。其建设成功不仅关系到人员技术培养与技术创优，同时也为之后合肥的建筑产业化发展奠定基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 工程难点分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. 1 工程量大，工期紧缩",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "依据总工期和节点工期的明确要求，滨湖润园项目的高层住宅楼工期紧张，因此，在设计阶段保证工程交付物质量的前提下，如何进行设计流程优化是设计方案初期的重点也是难点之一。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.2 工艺复杂，保障工艺图纸质量",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高层住宅采用装配整体式混凝土剪力墙结构，连接方式为钢筋套筒灌浆链接技术。单体建筑最高达33层。结构施工难度大。预制构件的生产与现场安装均依据工艺图进行，同时PC 构件要综合预埋水电的线管，盒，工艺设计过程是对施工图进行审查纠错的过程。复杂工艺以及对图纸的高要求，对设计阶段的交付物精度要求极高。设计模型面临着高度信息集成的需求与挑战。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3产业化施工难度大，管理人员缺乏相关经验 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "相比其他传统项目，此项目管理者大多是大型产业化项目的开拓者，相关施工经验匮乏，施工单位与设计单位协同工作，构建BIM项目信息枢纽，各专业间做到数据信息共享，保证图纸质量，避免错、漏、碰的情况发生。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3OPKPM-BIM协同装配式技术",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "TPKPM-BIM系统是由中国建筑科学研究院自主知识产权开发的专业化BIM系统。基于PKPM-BIM底层数据平台，搭载多专业设计平台（建筑、结构、机电、绿建、施工），协同设计模块以及项目综合管理模块(如图1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在此项目中，各个专业基于PKPM-BIM系统内的各个专业平台完成各专业的模型的创建。建筑、结构、机电以及施工专业将各自的模型信息集成到个BIM模型中。此外，此项目基于PKPM-BIM系统的装配式模块PKPM-PC完成装配式的深化设计,利用智能化拼装、参数化构件库、精确算量等技术完成装配式住宅设计。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "开发了基于BIM的装配式建筑多专业协同设计模式。PKPM-BIM平台采用通用数据库技术,基于装配式建筑模型数据单元的建立，通过数据单元的数据管理与显示技术，与现有设计、生产中的数据源间数据进行交换，与多个上层应用平台的数据无缝衔接。完成项目管理、人员角色及权限管理、数据版本管理、消息通知机制，并实现基于协同工作集的工作、冲突解决机制等。本项目各专业人员基于PKPM-BIM系统实现了专业间的数据流通，实现多专业全生命周期的协同工作。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1基于PKPM-BIM的装配式住宅设计工作流程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了能实现标准化、精细化设计，该项目采用基于BIM的装配式协同设计方式。在设计初期，进行各专业工作流程梳理，并建立与之配套的设计标准，如图2所示。采用集成项目模型方式，各专业不仅共享数据模型，也可以从不同专业角度参照、细化、提取数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2基于BIM平台专业间协同工作",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2. 1 协同平台创建",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "项目各专业团队成为高度协调的整体，在项目设计过程中，随时发现并及时解决专业内及专业间问题,确保模型数据协调一致。在项目初期，创建协同项目，并设置各专业参与人员及权限。各专业须协调配合，尽可能满足其他专业对本专业的协同要求。在工作过程中，各专业通过上传模型到服务器，从而实现专业间协同目的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 各专业模型创建",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "建筑专业在方案设计阶段，根据既定目标预计构件拆分原则进行方案设计及调整，避免方案不合理导致后期技术经济性不合理。依据初设方案，在建筑模块中进行建筑模型创建。在此期间，建筑师需确定项目轴网、楼层准确，外围结构布置尽量不变，以便其他专业高效工作。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c1a414118498e08d2a2686f76076c47e132effaf492c3c3554f68925e7a2f345.jpg",
+        "img_caption": [
+            "同时，PKPM-BIM系统利用其BIM数据研究并",
+            "图1 PKPM-BIM系统框架"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "结构专业依据建筑转结构，生成基本结构模型，并进行部分竖向构件完善，水平构件布置。模型接力结构计算，进行模型调整，以满足结构受力要求。在协同工作中，结构工程师可随时参考建筑变更，及时调整模型，并可反提资建筑专业，使得建筑工程师根据结构要求进行相关设计。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "暖通、给排水、电气专业可参照建筑、结构模型进行相关构件布置，形成机电全专业模型通过以上工作模式，完成全专业模型。如图3。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.3 装配式拆分设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在全专业施工图基本完成后，装配式设计专业获取全专业模型进行相关装配式设计。本项目装配式范围为6\\~33层，保温形式为夹心保温，采用预制构件为外墙、叠合板、预制楼梯、阳台，单体预制率为 $30 \\%$ 。在拆分过程中，依据BIM模型，利用软件自动拆分功能,在保证构件模数化基础上，提高构件标准化应用，从而降低模具数量，达到降低成本目标，如图4所示。同时对于标准构件，存储到构件库中，以便于其他项目复用。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0a5aeee7f6233621948745d1cc0db81c61dd9f16f9267bbf2c57e079bf97a08a.jpg",
+        "img_caption": [
+            "zrz1441541411:11141111 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6921a2e571be35a7c348697dbcb7afbe8aaabba7adef7f3020abe26203a233fe.jpg",
+        "img_caption": [
+            "图2协同工作流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/eecccc32beb1ae5877c8beec25e8c002236d373d10f9e0caa6e38907f61b3d9b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a959dc560c11b98cf17f312ccb0b935f5400b492a735e70db20fe6ec82165d5a.jpg",
+        "img_caption": [
+            "图3各专业模型展示"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a216cbfd14c662ec5881131372e9061f07bbf2609221ccde2edd7cb245bf5023.jpg",
+        "img_caption": [
+            "图4预制构拆分"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于BIM协同应用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "31 装配式进行设备洞口提资，设备预埋件检查",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在常规设计中，构件详图中机电管线预埋会由深化设计人员根据设备提资进行预留，经常导致构件布置位置不准确，出现问题后深化人员与机电设计师权责不明。基于BIM装配式设计，在模型中已经完成三维管线布置，通过PKPM-PC 管线预埋功能，可在构件中自动中生成设备孔洞预留和管线预埋，实现构件精细化设计，提高构件设计效率，避免构件现场设备安装不上问题。如图5所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.2装配式构件钢筋碰撞检查",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在现场安装构件过程中，常出现构件由于构件、钢筋碰撞问题导致构件无法正常安装。在设计阶段进行钢筋碰撞检查十分必要。基于BIM设计，设计阶段已形成钢筋实体排布，通过PKPM-PC 进行检查并调整，可大量减少现场钢筋碰撞问题。如图6所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e07955ffe1afc86b45f1f3614c17bcf9838d88bb27069190dfa966b6555ae03e.jpg",
+        "img_caption": [
+            "图5设备预留预埋",
+            "图6钢筋碰撞检查"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.3一键出图",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在模型深化设计完成后，可生成与模型对应的构件详图。如图7所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/004c59e4e0303417a8b1e7fc0f2498d67a474170d426f53be7e7c1340a268af0.jpg",
+        "img_caption": [
+            "图7构件详图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "BIM技术和装配式结合，将装配式设计流程优化，提前将设计过程中出现问你就集中反映并解决，同时辅助设计方案合理性及经济性，在提高设计效率的同时保证设计质量。专业间协同工作，可降低设计中出现的错漏，及时解决项目中出现问题。同时在设计阶段的钢筋碰撞检测，保证施工的准确性及高效性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1］郭学明，装配式混凝土结构建筑[M].  \n［2」许杰峰，鲍玲玲，马恩成，等.基于BIM的预制装配建筑体系应用技术［J].土木建筑工程信息技术，2016，8(4):17-20.  \n［3］刘康．预制装配式混凝土建筑在住宅产业化中的发展及前景[J].建筑技术开发，2015，42（1)：7-15.  \n[4」蓝亦睿．装配式被动房关键节点构造技术研究——以山东建筑大学装配式被动房项目为例[D].山东建筑大学，2016.  \n[5］李其廉，郝凯凯，张慧玲，等.BIM技术在装配式建筑中的应用分析[J].江西建材，2017（11)：64-64.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Application of PKPM-BIM in Prefabricated Construction Buildings in Binhurunyuan Residential Area (Part I) ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Shen Shiqi1，Ruan Yunshu²， Zhao Shixiao³， Zhu Hongke³，Xiong Fei³",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1.Beijing Glory PKPM Techenology Co.， Ltd.，Beijing 1OOO13，China ; 2.Beijing Fangjian Construction Co.，Ltd.，Beijing 1O2445，China ; 3.China Construction First Building(Group) Co.， Ltd.，Beijing 1OoO73，China) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Industrialization of construction industry initiate a new movement to PC(prefabricated construction） industry.How toprovide information integrated deliveryatthe design stage is thechallengeof currentPC industry.Regarding as the largest scale industrialized residential,Binhu Runyuan project combines the multiple discipline tool software and collaboration platform of PKPM-BIM system,which hasreached the refined,standardised PCcollaborativedesign,and alsoprovidethe information integrated delivery.This paper explores the workflow of PC collaborative design work which is based on PKPM-BIM database platform and information integrated technology of PC units,and provides the optimized BIM strategy for multiple discipline information integration. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Key Words:PC（Prefabricated Construction）；BIM(Building Information Modelling）；PKPM-BIM Platform; Collaborative Design ",
+        "page_idx": 4
+    }
+]

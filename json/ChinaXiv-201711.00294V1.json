@@ -1,0 +1,738 @@
+[
+    {
+        "type": "text",
+        "text": "河北省北部森林植被碳储量和固碳速率研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张滨1,2 张丽娜 刘秀萍」赵占轻1,2 曹建生 张万军1\\*\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.中国科学院遗传与发育生物学研究所农业资源研究中心/中国科学院农业水资源重点实验室/河北省节水农业重点实验室石家庄050022;2.中国科学院大学北京 100049;3．河北科技大学 石家庄 050018)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要为了了解河北省北部森林植被固碳能力，本文以该区域阔叶林、针叶林、混交林、经济林和灌丛为研究对象，基于政府间气候变化专门委员会(IPCC)推荐采用的加拿大林业碳收支模型(CBM-CFS3)，利用第7次全国森林资源连续清查数据和野外森林植被调查样地数据，拟合出研究区的蓄积-生物量转换参数和林木器官生物量比例参数，建立研究区内不同森林植被类型的蓄积生长方程、蓄积-干材生物量转换方程、生物量组分比例方程，采用这些方程评估了2010年河北省北部森林生态系统植被碳储量、碳密度和固碳速率。结果表明：拟合的不同森林植被蓄积生长方程的决定系数均大于0.7，蓄积-干材生物量转换方程的决定系数均大于0.8，生物量组分比例方程拟合效果较好，可用于评估该区域森林植被碳汇功能和潜力。2010年河北省北部森林植被碳储量为 $5 9 . 6 6 ~ \\mathrm { T g ( C ) }$ ，平均森林植被碳密度为 $2 5 . 0 5 ~ \\mathrm { \\ M g ( C ) { \\cdot } h m } ^ { - 2 }$ ，森林植被固碳速率为 $\\phantom { - } 0 . 0 7 \\sim$ $1 . 8 7 ~ \\mathrm { M g ( C ) \\cdot h m ^ { - 2 } { \\cdot } a ^ { - 1 } }$ ；其中阔叶林、针叶林、混交林、经济林碳储量和碳密度分别为 $3 0 . 9 7 \\mathrm { T g } ( \\mathrm { C } )$ 、 $1 2 . 3 6 \\mathrm { T g } ( \\mathrm { C } )$ 、$1 5 . 7 3 ~ \\mathrm { T g ( C ) }$ 、 $0 . 6 0 \\mathrm { T g } ( \\mathrm { C } )$ 和 $2 6 . 0 9 ~ \\mathrm { M g ( C ) } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、 $2 6 . 1 4 ~ \\mathrm { M g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、 $2 4 . 5 0 ~ \\mathrm { M g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、 $7 . 5 3 ~ \\mathrm { M g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。河北省北部森林植被碳密度与固碳速率均从西北到东南呈升高趋势。造林后森林面积增加 $6 ~ 4 0 0 ~ \\mathrm { k m } ^ { 2 }$ ，森林植被碳储量增加 $1 9 . 5 4 \\mathrm { T g } ( \\mathrm { C } )$ (不包括灌丛)；林龄结构以中幼龄林为主，未来森林固碳潜力巨大。说明造林在增加森林植被碳储量和提高森林的固碳速率中起到了重要作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词河北省北部 CBM-CFS3 模型森林植被碳储量 碳密度固碳速率中图分类号：S718.5 文献标识码：A 文章编号：1671-3990(2016)03-0392-11",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Vegetation carbon storage and carbon sequestration rates in northern Hebei Province ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Bin12, ZHANG Lina³, LIU Xiuping1, ZHAO Zhanqing1,2, CAO Jiansheng1, ZHANG Wanjunl\\*\\* (1.KeyLaboratoryofAgricultural WaterResources,Chinese AcademyofSciences Hebei KeyLaboratoryof Water-Saving/Center forAgriculturalesourcesResearch,Istituteofnetis&Developmentaliologyesecademfienes,ang 050022,China;2.UniversityofChinese Academyof Sciences,Beijing l0o049,China; 3.Hebei UniversityofScience and Technology, Shijiazhuang 050018, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractForestresourceisthelargestcarbonpoolinterestrial ecosystem,whichcontributescarbontothe globalcarbon cycle incomparably.The forest ecosystem in northern HebeiProvince plays an importantrole in soil and waterconservation, andcarbonsink increase.Inthisstudywetook broadleaved forest,coniferous forest,mixed forest,economic forestandshrub in northern Hebei Provinceas objects toresearch the amountofcarbon sequestration inthis areabyusing Carbon Budget Model of the Canadian Forest Sector (CBM-CFS3)which referencedbyIPCCas aplatform.The data was based on original dataofthe7thnationalforestcontinuous inventoryandforestvegetationsurveydataofthearea.Firstly,theliterature-volume growth curve equations were created by comparing several growth functions based on the7th national forest continuous inventoryofcontinuous sample surveydata for each forest type,as the driving forcefor modelto simulate forest carbon storage.Secondlyvolume-biomass transition equations,conversionparameters and forest biomasscomponents (stem,bark, branch,foliage）proportion parametersof diferent forest types were estimated usingthepower function model,and further plotted by colecting a large numberliterature data in each forest types.And then,forest vegetationcarbon storage,carbon density and carbon sequestration rate of different forest types in northern Hebei Province were calculated after the model running,debuggingand simulating.Theresultsshowed thatthe fitingcoeicients ofdiferentforest vegetation growthcurve equations were exceeded O.7.Theparameters oftingcoefficient correlationsof allvolume-biomasstransfer equations were exceededO.8,and there were significant diferencesamong most proportion equations forbiomass components (stem,bark, branch,foliage).By the comparison with estimated results byusing measured data,theresults offorest vegetationcarbon storage,averagecarbon densityand carbon sequestrationrate simulated by using CBM-CFS3 were more reasonable.It could providethe basis to evaluate forest vegetationcarbonsequestration potentialin this area.Thetotal forestvegetationcarbon storage and average carbon density in northern Hebei Province in 2O1O were $5 9 . 6 6 ~ \\mathrm { T g ( C ) }$ and $2 5 . 0 5 ~ \\mathrm { M g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ,respectively. The forest vegetation carbon sequestration rate ranged from $0 . 0 7 ~ \\mathrm { M g ( C ) \\cdot h m ^ { - 2 } { \\cdot } a ^ { - 1 } }$ to $1 . 8 7 ~ \\mathrm { M g ( C ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ .The carbon storages andaveragecarbon densitiesof broadleaved forest,coniferous forest,mixed forest，economic forest in norther Hebei Province were $3 0 . 9 7 \\mathrm { T g } ( \\mathrm { C } )$ ,12.36 Tg(C),15.73 Tg(C), $0 . 6 0 \\mathrm { T g } ( \\mathrm { C } )$ and $2 6 . 0 9 \\mathrm { M g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ $2 6 . 1 4 ~ \\mathrm { M g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ $2 4 . 5 0 \\mathrm { M g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ， $7 . 5 3 ~ \\mathrm { M g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ,respectively. The spatial distribution of forest vegetation carbon density and carbon sequestration rate in northernHebeiProvinceshowedanincreasetrendfromnorthwest tosoutheast.Aftertheforestationandaforestation,thearea of forest increased by $6 ~ 4 0 0 ~ \\mathrm { k m } ^ { 2 }$ , and forest vegetation carbon storage increased $1 9 . 5 4 ~ \\mathrm { T g } ( \\mathrm { C } )$ (not include shrub) in the study area.Thepotentialabilityofforestvegetationcarbonsequestrationinthisareawillincreasedquicklyinfuture,becauseofis young-middleage forest structure.Therefore,aforestation playedanimportantrole in increasing forest vegetationcarbon storage and carbon sequestration rate. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeywordsNorthern Hebei Province;Model CBM-CFS3；Forest vegetation; Carbon storage；Carbon density； Carbon sequestration rate ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "森林植被通过光合作用吸收二氧化碳，将其同化为生物量长期地固定在植物或土壤中，起到了“碳汇\"的作用[1]。森林生态系统面积约占陆地生态系统总面积的1/3，森林植被生物量约占陆地植被生物量的 $9 0 \\% ^ { [ 2 ] }$ ，地上植被碳储量相当于陆地生态系统地上植被碳储量的 $8 0 \\% ^ { [ 3 ] }$ ，是陆地生态系统的主要碳库。因此，采用先进的方法评估区域尺度森林生态系统固碳现状和固碳速率不仅是减缓全球气候变化的迫切需求[4]，同时为我国编制国家温室气体清单和参与全球气候变化的国际事务提供科技支撑[5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，对森林植被碳储量、碳密度及固碳速率和固碳潜力的研究较多，如方精云等[6-11]基于森林资源清查数据或野外调查数据对中国森林植被碳储量进行了估算，得到中国森林植被碳储量在 $3 . 8 5 \\sim$ $5 . 5 1 \\mathrm { \\ P g ( C ) }$ 之间；胡海清等[12-16]使用基于森林调查数据建立碳收支模型的方法对不同区域森林植被碳储量、碳密度进行了研究，发现不同区域森林植被碳密度差异巨大，但均在 $2 . 8 7 { \\sim } 2 5 4 . 6 3 ~ \\mathrm { M g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 之间；赵忠宝等[17研究发现河北省青龙满族自治县森林植被碳密度为 $1 0 . 7 3 ~ \\mathrm { \\ M g ( C ) { \\cdot } h m } ^ { - 2 }$ ；耿丽君[18]研究发现 $9 \\mathrm { a } , 1 8 \\mathrm { a } , 3 3 \\mathrm { a }$ 和 $4 3 \\mathrm { a }$ 生华北落叶松(Larix principis-rupprechtii)人工林森林植被碳密度依次为43.67$\\mathrm { M g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、 $6 7 . 7 0 ~ \\mathrm { M g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、 $1 1 0 . 3 8 ~ \\mathrm { M g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 和 $2 8 1 . 6 6 ~ \\mathrm { M g ( C ) } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。杜红梅等[19]采用林木蓄积与碳储量的拟合方程估算14\\~49a生华北落叶松林的碳密度为 $6 7 . 1 6 { \\sim } 4 4 4 . 1 9 ~ \\mathrm { t } \\mathrm { { \\cdot } h m } ^ { - 2 }$ ，平均 $2 0 6 . 0 2 \\ \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "分析和计算河北省北部森林植被的碳储量与固碳速率，有助于丰富我国陆地生态系统碳循环研究的成果，同时可以为未来工程管理决策提供理论和技术支持，也为我国编制国家温室气体清单提供数据支撑。但对于河北省的碳计量研究多还在使用IPCC 规定的第1和第2个层次方法[20]，推荐采用的第3层次计量方法还少有报道，对造林引起的森林植被碳储量变化也缺乏研究。因此有必要采用更先进的方法深入研究河北省森林植被的碳储量、碳密度和固碳速率，以便更好地了解其森林植被固碳能力和潜力。本文利用河北省第7次森林资源清查数据和野外森林植被调查样地数据，拟合得到林分生长参数、蓄积-干材生物量转换参数、生物量组分比例参数等参数，采用CBM-CFS3模型对河北省北部森林植被碳储量、碳密度及固碳速率进行研究。旨在充分利用森林资源清查数据，明确河北省北部森林植被碳储量和碳密度分布特征，以期揭示近年来以京津风沙源工程为主的造林工程对河北省北部森林植被碳储量的影响，并为下一步造林工程和科学经营管理提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究区位于河北省北部 $( 3 9 ^ { \\circ } 3 4 ^ { \\prime } 5 3 ^ { \\prime \\prime } { \\sim } 4 2 ^ { \\circ } 3 7 ^ { \\prime } 4 3 ^ { \\prime \\prime } \\mathrm { N } _ { \\cdot }$ $1 1 3 ^ { \\circ } 5 4 ^ { \\prime } 2 1 \" { \\sim } 1 1 9 ^ { \\circ } 1 4 ^ { \\prime } 0 5 \" \\mathrm { E } )$ ，包括承德和张家口两个地区，总面积为 $7 4 \\ 9 9 0 \\ \\mathrm { k m } ^ { 2 } ( \\not \\equiv 1 )$ 。研究区由坝上地区、接坝山地和冀北山地3部分组成。山地坡度大，地形雨较多，地表径流大，已造成水土流失。地势自西北向东南倾斜，属北温带半干旱和干湿润季风气候区，海拔 $1 2 9 { \\sim } 2 ~ 8 2 8 ~ \\mathrm { ~ m ~ }$ ，年均气温 $4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ，年均降水量$4 6 0 { \\sim } 5 9 5 \\ \\mathrm { \\ m m }$ ，其中 $6 5 \\%$ 的降水集中在6—9月[20]。年蒸发量 $1 6 0 0 { \\sim } 2 2 0 0 \\mathrm { m m } ^ { [ 2 1 ] }$ ，平均全年大风日数为 $3 6 . 2 \\mathrm { d } _ { \\circ }$ （204号土壤类型主要为石灰土、石质土、栗钙土、栗褐土。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4376d50e30abe06fa488c712a5b6212bc1f88471d3b6d5beeef3db29d848e64f.jpg",
+        "img_caption": [
+            "图1河北省北部高程与样地示意图"
+        ],
+        "img_footnote": [
+            "Fig.1Digital elevation and sample points of northern Hebei Province "
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据来源",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数据主要来源于研究区内第7次全国森林资源连续清查数据和野外森林植被调查数据。其中第 7次全国森林资源连续清查数据测定于2004—2008年，为研究区内1688632条小班数据，主要包括高程、地貌、立地类型、林龄、树高、胸径、小班面积、树种、起源、土壤类型、土层厚度等17项调查因子。将小班按照森林植被类型划分为阔叶林、针叶林、混交林、经济林、灌丛和非林地。野外森林植被调查的数据测定于2011—2014年，在研究区典型县根据森林植被类型和林龄设置样地，每个样地 $2 0 \\mathrm { ~ m } \\times$ $2 0 \\mathrm { ~ m ~ }$ ，共66个样地，每个样地内记录株数、树高、胸径，每木调查计算得到样地平均胸径、平均树高等平均值，然后选取基本符合此计算值的树木作为标准木。并对标准木进行解析，得到标准木生物量鲜重和干重。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 森林的空间分布",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于第7次全国森林资源连续清查数据，运用ARCMAP10.0统计得到研究区森林资源主要由山杨(Populus davidiana)、华北落叶松、油松(Pinustabulaeformis)、白桦(Betula platyphylla)、山杏(Armeniacasibirica)、蒙古栎(Quercus mongolica)等组成。其他树种还包括：榆树(Ulmus pumila)、苹果(Maluspumila)、核桃(Juglans regia)、云杉(Picea asperata)、刺槐(Robiniapseudoacacia)等。按照优势树种将其分为阔叶林(BF，broadleaved forest)、针叶林(CF,coniferousforest)、混交林(MF,mixedforest)、经济林(EF，economic forest)4 种森林植被类型。将荆条(Vitexnegundovar.heterophylla)、柠条锦鸡儿(Caraganakorshinskii)等归为灌木。由此得到研究区森林植被空间分布图(图2)，其中森林面积 $2 2 \\ 0 0 0 \\ \\mathrm { k m } ^ { 2 }$ ，灌丛面积 $2 5 \\ 0 0 0 \\mathrm { k m } ^ { 2 }$ ，分别占研究区总面积的 $2 9 \\%$ 和 $33 \\text{‰}$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f61042096a34e305feac781cc1154bfbaf38fc5fc07218749a6a23a1d63f7c64.jpg",
+        "img_caption": [
+            "图2河北省北部森林植被类型空间分布图",
+            "Fig.2Spatial distribution of forest vegetation types in northern Hebei Province BF:阔叶林;CF:针叶林;MF:混交林;EF:经济林;NF:非林地；下同。BF:broadleaved forest; CF:coniferous forest;MF: mixed forest;EF:economic forest;NF:non-forest.The same below. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 数据分类与整理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "按照林龄10a为一个龄级，对林龄进行分类。得到林龄为 $_ { 1 \\sim 1 0 \\textrm { a } }$ 、 $1 0 { \\sim } 2 0 \\mathrm { ~ a ~ }$ 、 $2 0 { \\sim } 3 0 \\mathrm { ~ a ~ }$ 、 $3 0 { \\sim } 4 0 \\mathrm { ~ a ~ }$ 和大于40a5个龄级。依据二元材积表22得到不同树高胸径树木的材积(胸径小于 $4 \\mathrm { c m }$ 舍去)，公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当 $D { > } 1 2 \\ \\mathrm { c m }$ 且 $2 ~ \\mathrm { m } { \\leqslant } L { \\leqslant } 1 0 ~ \\mathrm { m }$ 时：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { V = 0 . 7 8 5 4 L [ D + 0 . 5 L + 0 . 0 0 5 L ^ { 2 } + 0 . 0 0 0 1 2 5 L \\times } } \\\\ { { \\left( 1 4 - L \\right) ^ { 2 } \\left( D - 1 0 \\right) ] ^ { 2 } / 1 0 0 0 0 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当 $4 ~ { \\mathrm { c m } } { \\leqslant } D { \\leqslant } 1 2 ~ { \\mathrm { c m } }$ 且 $2 ~ \\mathrm { m } { \\leqslant } L { \\leqslant } 1 0 ~ \\mathrm { m }$ 时：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV { = } 0 . 7 8 5 4 L ( D + 0 . 4 5 L + 0 . 2 ) ^ { 2 } \\big / 1 0 0 0 0\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当 $D \\geqslant 4 ~ { \\mathrm { c m } }$ 且 $L { < } 2 \\mathrm { m }$ 或 $D \\geqslant 4 ~ { \\mathrm { c m } }$ 且 $L { > } 1 0 \\mathrm { m }$ 时：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV { = } 0 . 8 L ( D { + } 0 . 5 L ) ^ { 2 } \\big / 1 0 0 0 0\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $V$ 表示蓄积量，单位为 $\\mathrm { m } ^ { 3 }$ ： $L$ 表示树高，单位为 $\\mathbf { m } ; D$ 表示胸径，单位为 $\\mathrm { c m } _ { \\circ }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "再根据实测样地的树木株数等数据得到不同森林植被、不同林龄的蓄积密度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 CBM-CFS3模型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用CBM-CFS3模型进行模拟研究。该模型是加拿大国家林业工作者对于森林碳估算、碳模拟和报告系统的主要组成部分[23]。模型基于森林清查与调查数据，通过众多子模块来模拟碳在活有机体与死亡有机质(dead organic matter，DOM)碳库之间的转换以及不同森林管理、不同土地利用变化和不同干扰对森林蓄积与森林植被碳储量的影响。满足IPCC温室气体第3层次计量方法的要求，是IPCC推荐采用的碳计量模型[24]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4 CBM-CFS3模型参数调整 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CBM-CFS3结构灵活，对某一研究区域要采用默认参数时，该区域的空间单元须映射到合适的省份、地区或生态区，系统才会执行参数调用。如果使用用户自己的参数，可以通过图形用户界面对默认参数进行编辑，将参数修改为更适合该研究区域的参数。为适应本文研究区域修改的参数主要有年均温、年降水量、土壤、森林植被类型数据、林分生长参数和蓄积-干材生物量转换参数、生物量组分比例参数、周转参数和干扰类型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.1 林分生长参数估算 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "林分生长参数采用Richards方程结合连续清查数据与实测数据中的共83个样点数据拟合得到。方程基本形式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny { = } A ( 1 { - } B e ^ { { - } K t } ) ^ { ( 1 { - } m ) ^ { - 1 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $y$ 为林分蓄积量，单位为 $\\mathrm { m } ^ { 3 }$ · $\\mathbf { \\chi } _ { t }$ 为林龄，单位为a; $A$ 为林分蓄积生长的极限值，单位为 $\\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 }$ · $B$ 为$\\scriptstyle t = 0$ 时 $y$ 轴的截距，当 $B$ 为1时表示曲线通过原点; $K$ 值为蓄积生长速率， $\\mathbf { \\nabla } _ { m }$ 与同化速率有关，这两个参数决定曲线形状及拐点位置[25]。其中 $A$ 、 $B$ 、 $K$ 、 $\\mathbf { \\nabla } _ { m }$ 为输入模型的参数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 蓄积-干材生物量估算",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将森林资源清查数据的蓄积量转化为生物量的模型、方法的研究已有很多。本研究蓄积-干材生物量转换方程采用文献[26]中的方程，方程基本形式为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\scriptstyle { Y = { \\beta \\times X ^ { \\alpha } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中：Y为树木干生物量，单位为 $\\mathrm { M g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ $X$ 为立木蓄积量，单位为 $\\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ·， $\\scriptstyle a$ ， $\\beta$ 为回归系数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.3 各生物量组分所占比例估算",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "野外调查数据的各组分干生物量，结合多项对数回归模型分别估算树皮、树枝和树叶3个生物量组分占总生物量的比例。树干、树皮、树枝及树叶占总地上生物量的比例计算公式为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { \\mathrm { s } } = \\frac { 1 } { 1 + \\mathrm { e } ^ { a _ { 1 } + a _ { 2 } \\times V + a _ { 3 } \\times \\ln ( V + 5 ) } + \\mathrm { e } ^ { b _ { 1 } + b _ { 2 } \\times V + b _ { 3 } \\times \\ln ( V + 5 ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { \\mathrm { b a } } = \\frac { \\displaystyle { \\mathrm e } ^ { a _ { 1 } + a _ { 2 } \\times V + a _ { 3 } \\times \\ln ( V + 5 ) } } { 1 + \\displaystyle { \\mathrm e } ^ { a _ { 1 } + a _ { 2 } \\times V + a _ { 3 } \\times \\ln ( V + 5 ) } + \\displaystyle { \\mathrm e } ^ { b _ { 1 } + b _ { 2 } \\times V + b _ { 3 } \\times \\ln ( V + 5 ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { \\mathrm { b r } } = \\frac { \\displaystyle { \\mathrm { e } } ^ { b _ { 1 } + b _ { 2 } \\times V + b _ { 3 } \\times \\ln ( V + 5 ) } } { 1 + \\displaystyle { \\mathrm { e } } ^ { a _ { 1 } + a _ { 2 } \\times V + a _ { 3 } \\times \\ln ( V + 5 ) } + \\displaystyle { \\mathrm { e } } ^ { b _ { 1 } + b _ { 2 } \\times V + b _ { 3 } \\times \\ln ( V + 5 ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { P _ { \\mathrm { f } } = \\frac { \\mathrm { e } ^ { c _ { 1 } + c _ { 2 } \\times V + c _ { 3 } \\times \\ln ( V + 5 ) } } { 1 + \\mathrm { e } ^ { a _ { 1 } + a _ { 2 } \\times V + a _ { 3 } \\times \\ln ( V + 5 ) } + \\mathrm { e } ^ { b _ { 1 } + b _ { 2 } \\times V + b _ { 3 } \\times \\ln ( V + 5 ) } } } \\\\ { + \\mathrm { e } ^ { c _ { 1 } + c _ { 2 } \\times V + c _ { 3 } \\times \\ln ( V + 5 ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $P _ { \\mathrm { s } } , P _ { \\mathrm { b a } } , P _ { \\mathrm { b r } } , P _ { \\mathrm { f } }$ 分别表示树干、树皮、树枝、树叶占地上生物量的比例； $V$ 表示单位面积的蓄积，单位为 $\\begin{array} { r } {  { \\mathrm { m } } ^ { 3 } { \\cdot }  { \\mathrm { h } }  { \\mathrm { m } } ^ { - 2 } ; a _ { 1 } , ~ a _ { 2 } , ~ a _ { 3 } , ~ b _ { 1 } , ~ b _ { 2 } , ~ b _ { 3 } , ~ c _ { 1 } , ~ c _ { 2 } , ~ c _ { 3 } } \\end{array}$ 为模型参数。对4个方程进行联立，可拟合出适合本研究区域的参数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.4 周转阶段参数估算 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CBM-CFS3模型通过生物量碳库周转率估算粗木质残体碳库和枯落物碳库，通过周转及分解两个阶段来驱动各生物量碳库碳流向死亡有机质碳库或排放到大气中。模型默认为加拿大地区的参数，与本研究区有差异，故根据文献[26-27]中的参数对其他木碳库周转参数、叶库周转参数、细根周转参数和粗根周转参数等进行修改，使参数适合。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.5 干扰模拟设置 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CBM-CFS3 模型共设置 212 种默认干扰类型，包含自然干扰(如林火、自然演替、虫灾)及人为干扰(如皆伐、商业疏伐、择伐、造林和毁林等)。一些干扰类型具有不同的干扰强度设置，如商业疏伐和虫灾等，根据研究区具体情况对干扰后林分年龄、干扰矩阵、干扰后森林类型、历史干扰类型等进行了选择。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5 数据处理和分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "拟合与分析在 SPSS 17.0 中进行，采用回归分析拟合出不同森林植被林分生长方程。相关图表制作在Excel2010中完成。将温度、湿度、林地面积、蓄积量等参数输入CBM-CFS3模型得到森林植被碳储量数据。各年度森林植被碳密度分布图和森林植被固碳速率分布图在ARCGIS10.0中完成。森林植被固碳速率方程为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { V } { = } \\frac { C _ { d } { - } C _ { d } ^ { \\prime } } { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $C _ { V }$ 表示 $n$ 年间的森林植被固碳速率，单位为$\\mathbf { M g ( C ) \\cdot h m } ^ { - 2 } { \\boldsymbol { \\cdot } } \\mathbf { a } ^ { - 1 }$ ：， $n$ 表示年份差，单位为a; $C _ { d }$ 表示 $n$ 年后的森林植被碳密度，单位为 $\\mathrm { M g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ $\\boldsymbol { C } _ { d } ^ { \\prime }$ 表示 $n$ 年前的森林植被碳密度，单位为 $\\mathrm { M g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1 CBM-CFS3模型参数",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 蓄积生长方程",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以4参数的Richards方程[式(4)]为模型基本形式，共拟合出不同森林植被类型的蓄积生长方程4个。由于模型不能模拟灌丛的森林植被碳储量，故对于灌丛，采用文献[21]中的数据即：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny { = } 0 . 0 5 7 x ^ { 2 . 0 4 3 9 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $y$ 表示森林植被碳密度，单位为 $\\mathrm { M g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ $x$ 表示灌丛年龄，单位为 $\\mathrm { \\Delta a } _ { \\circ }$ 方程系数、决定系数 $( R ^ { 2 } )$ 及样本数 $( N )$ 如表1。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表1可知，参数 $A$ 为林分蓄积生长理论最大值。 $A$ 值最小为经济林，林分蓄积量极限值为$2 5 0 . 6 1 3 ~ \\mathrm { \\ m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ；最大为针叶林，蓄积上限高达$4 8 0 . 1 6 9 ~ \\mathrm { \\ m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，与前人研究结果[26]接近。参数 $B$ 均大于1，即林木生长到一定年龄才会有蓄积。所建各蓄积生长方程的决定系数最大为针叶林，高达0.960；最小为经济林，为0.727，拟合结果理想。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 蓄积-干材生物量转换参数",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CBM-CFS3模型中采用幂函数[26对干材生物量与林分材积进行拟合。其拟合参数与实测数据决定",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/dc5c24a7fde2c0b708c6984587f6b7737fb8d997f3c06997c55de49b8f2d233d.jpg",
+        "table_caption": [
+            "表1不同森林植被类型的林分蓄积生长拟合方程参数 Table 1Parameters of fittng Volume growth equation for four forest vegetation types in the "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">森林植被类型 Vegetation type</td><td colspan=\"4\">系数Parameter</td><td rowspan=\"2\">决定系数 Determintion)</td><td rowspan=\"2\">预估精度 precision (o%)</td><td rowspan=\"2\">显著水平 Significant</td><td rowspan=\"2\">样本数 numple</td></tr><tr><td>A (m³-hm-2)</td><td>B</td><td>K</td><td>m</td></tr><tr><td>阔叶林 Broadleaved forest (BF)</td><td>364.306</td><td>1.050</td><td>0.018</td><td>0.523</td><td>0.918</td><td>94.37</td><td>0.000 1</td><td>18</td></tr><tr><td>针叶林 Coniferous forest (CF)</td><td>480.169</td><td>1.030</td><td>0.012</td><td>0.318</td><td>0.960</td><td>97.88</td><td>0.0001</td><td>23</td></tr><tr><td>混交林 Mixed forest (MF)</td><td>404.290</td><td>1.021</td><td>0.010</td><td>0.428</td><td>0.795</td><td>83.24</td><td>0.000 4</td><td>21</td></tr><tr><td>经济林 Economic forest (EF)</td><td>250.613</td><td>1.019</td><td>0.031</td><td>0.112</td><td>0.727</td><td>87.79</td><td>0.0003</td><td>21</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "系数均大于0.8，说明此拟合参数具有较高的可信度，幂函数方程为：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\scriptstyle { Y = { \\beta \\times X ^ { \\alpha } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中： $Y$ 为树木干生物量，单位为 $\\mathrm { M g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ·， $X$ 为立木蓄积量，单位为 $\\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ： $\\boldsymbol { a }$ 、 $\\beta$ 为回归系数。参",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "数数据如表2。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1.3 生物量组分比例参数",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据方程(6)一方程(9)及野外调查数据对树皮、树枝、树叶组分生物量比例参数进行拟合，各组分拟合结果及各统计指标见表3、表4和表5。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/3b157b5487815bdffca949c565747a2a52b2840120d2fdcabe38c85d0bbd9bd8.jpg",
+        "table_caption": [
+            "表2不同森林植被类型的蓄积-干材生物量转换拟合方程参数 Table 2Parameters of fiting volume-biomasstransition equation for four forest vegetation types in the study area "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">森林植被类型 Vegetation type</td><td colspan=\"2\">系数Factor</td><td rowspan=\"2\">决定系数 Determination coefficient (R²)</td><td rowspan=\"2\">预估精度 Estimation precision (%)</td><td rowspan=\"2\">显著水平 Significant</td></tr><tr><td>a</td><td>B</td></tr><tr><td>阔叶林 Broadleaved forest (BF)</td><td>0.685</td><td>3.396</td><td>0.816</td><td>85.63</td><td>0.000 2</td></tr><tr><td>针叶林 Coniferous forest (CF)</td><td>0.739</td><td>3.069</td><td>0.860</td><td>89.38</td><td>0.000 3</td></tr><tr><td>混交林 Mixed forest (MF)</td><td>0.720</td><td>3.119</td><td>0.905</td><td>86.65</td><td>0.000 1</td></tr><tr><td>经济林 Economic forest (EF)</td><td>0.637</td><td>3.690</td><td>0.827</td><td>87.34</td><td>0.0003</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d76d08ac55143473403bd13d8af55b3404fd84abf9d9fa298425f7c4fffcc69c.jpg",
+        "table_caption": [
+            "表4不同森林植被类型的树枝生物量比例参数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">森林植被类型 Vegetation type</td><td colspan=\"3\">系数Factor</td><td rowspan=\"2\">决定系数 Detficintion)</td><td rowspan=\"2\">预估精度 Estimation precision</td><td rowspan=\"2\">显著水平 Significant</td></tr><tr><td></td><td>a2</td><td>a3</td></tr><tr><td>阔叶林 Broadleaved forest (BF)</td><td>-0.186 7</td><td>0.000 4</td><td>-0.3570</td><td>0.495</td><td>75.71</td><td>0.000 1</td></tr><tr><td>针叶林 Coniferous forest (CF)</td><td>-1.057 2</td><td>0.0007</td><td>-0.201 6</td><td>0.752</td><td>95.28</td><td>0.0038</td></tr><tr><td>混交林 Mixed forest (MF)</td><td>-1.781 7</td><td>-0.001 7</td><td>-0.023 0</td><td>0.510</td><td>85.74</td><td>0.004 4</td></tr><tr><td>经济林 Economic forest (EF)</td><td>0.316 7</td><td>0.0001</td><td>-0.032 2</td><td>0.716</td><td>97.71</td><td>0.000 1</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e055fbe53b0f140ba4a096bd6b6507111f2a339db1fbb71b234e71cf78ee399e.jpg",
+        "table_caption": [
+            "able 3Parameters of bark biomass proportion for four forest vegetation types in the study a ",
+            "Table 4Parameters of branch biomass proportion for four forest vegetation types in the study area "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">森林植被类型 Vegetation type</td><td colspan=\"3\">系数Factor</td><td rowspan=\"2\">决定系数 Determintion)</td><td rowspan=\"2\">预估精度 Estimation preision</td><td rowspan=\"2\">显著水平 Significant</td></tr><tr><td>b1</td><td>b2</td><td>b</td></tr><tr><td>阔叶林 Broadleaved forest (BF)</td><td>-0.108 2</td><td>0.001 3</td><td>-0.272 5</td><td>0.563</td><td>68.26</td><td>0.012 7</td></tr><tr><td>针叶林 Coniferous forest (CF)</td><td>-1.658 2</td><td>-0.002 9</td><td>0.149 1</td><td>0.850</td><td>80.72</td><td>0.000 7</td></tr><tr><td>混交林 Mixed forest (MF)</td><td>0.0151</td><td>0.002 4</td><td>-0.362 3</td><td>0.529</td><td>60.56</td><td>0.0085</td></tr><tr><td>经济林 Economic forest (EF)</td><td>0.5213</td><td>-0.0002</td><td>-0.475 3</td><td>0.562</td><td>70.13</td><td>0.0001</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/6fa83a591de16cb35556ee4aef20a403004849898546e09adbc2dd67ab27d6b9.jpg",
+        "table_caption": [
+            "表3不同森林植被类型的树皮生物量比例参数",
+            "表5不同森林植被类型的树叶生物量比例参数 'able 5Parameters of folia biomass proportion for four forest vegetation types in the study area "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">森林植被类型 Vegetation type</td><td colspan=\"3\">系数Factor</td><td rowspan=\"2\">决定系数 Determination coefficient (R²)</td><td rowspan=\"2\">预估精度 Estimation precision (%)</td><td rowspan=\"2\">显著水平 Significant</td></tr><tr><td>C1</td><td>C2</td><td>C3</td></tr><tr><td>阔叶林 Broadleaved forest (BF)</td><td>2.746 3</td><td>0.006 1</td><td>-1.254 5</td><td>0.524</td><td>65.01</td><td>0.004 2</td></tr><tr><td>针叶林 Coniferous forest (CF)</td><td>1.961 2</td><td>0.001 2</td><td>-0.859 1</td><td>0.568</td><td>65.50</td><td>0.012 3</td></tr><tr><td>混交林 Mixed forest (MF)</td><td>-0.492 4</td><td>0.002 7</td><td>-0.396 0</td><td>0.721</td><td>68.29</td><td>0.000 7</td></tr><tr><td>经济林 Economic forest (EF)</td><td>1.261 6</td><td>-0.0011</td><td>-0.567 2</td><td>0.716</td><td>64.65</td><td>0.0015</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从表3、表4和表5可知，所有方程的预估精度均在 $6 5 \\%$ 以上，决定系数 $\\boldsymbol { R } ^ { 2 }$ 除阔叶林树皮参数外均在0.5以上，除阔叶林、混交林树枝比例方程和针叶林树叶比例方程外所有Sig.值均小于0.005，说明均达到显著或极显著水平，不同森林植被类型树皮、树枝、树叶比例参数拟合效果较好。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1.4 周转阶段参数",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "CBM-CFS3模型周转阶段参数如表6所示，根据参数的定义结合文献数据[26-27]对主要周转参数进行改进。模型原有参数及采用参数、数据来源如下表所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/8e690adfa6345d5aa2d4601999198d26eb48983cad2910124748ce7ea7c86ed4.jpg",
+        "table_caption": [
+            "表6森林植被周转阶段默认参数及本研究区不同森林植被类型的采用参数able6Turnover phrase default parameters and modified parameters for four forest vegetation types in the study are"
+        ],
+        "table_footnote": [
+            "“—\"表示此参数不存在。“—”indicates that this parameter does not exist. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">参数 Parameter</td><td rowspan=\"2\">默认参数 Default parameter</td><td colspan=\"4\">本文参数 Modified parameter</td></tr><tr><td>BF</td><td>CF</td><td>MF</td><td>EF</td></tr><tr><td>其他木碳库周转参数 Other wood carbon turnover parameter</td><td>0.03~0.04</td><td>0.0278</td><td>0.018 9</td><td>0.028 9</td><td>0.0311</td></tr><tr><td>叶库周转参数(阔叶林)Leaves carbon turnover parameter</td><td>0.95</td><td>0.9513</td><td>1</td><td>0.352 4</td><td>0.613 4</td></tr><tr><td>叶库周转参数(针叶林)Leaves carbon turnover parameter</td><td>0.05~0.15</td><td>1</td><td>0.135 6</td><td></td><td>一</td></tr><tr><td>细根周转参数 Fine root turnover parameter</td><td>0.641</td><td>1.259</td><td>1.433</td><td>0.641</td><td>1.092</td></tr><tr><td>粗根周转参数 Thick root turnover parameter</td><td>0.02</td><td>0.0239</td><td>0.0181</td><td>0.024 1</td><td>0.033 6</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据文献[27]提供的中国森林常绿阔叶林(HW)、常绿针叶林(SW)的叶、其他木、根系碳周转时间，估算出本研究中对应的叶(foliage)、其他木(otherwood)、粗根(coarse root)和细根(fine root)碳库的每年碳周转比例。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1.5 干扰设置 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在干扰类型设置方面，模型中对于火灾设置与研究区域的实际情况较为不同。默认设置为虫灾及火灾导致所有林木死亡并进行林分演替，同时火灾为默认的林分演替干扰。但在研究区域内，由于多为人为管理的保护区，故火灾和虫灾并非最常见的、引起林分演替的干扰类型，同时虫灾和火灾也并非完全致死。因此在清单文件中将历史干扰类型设置为自然演替，最近一次干扰类型设置为自然演替(天然林)，同时为实现对林分不同死亡等级的模拟，采用模型中一系列死亡率 $( 5 \\% \\sim 9 5 \\% )$ 的通用死亡干扰(genericmortality)来模拟研究区域的火灾及虫灾干扰。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2 森林植被碳储量、碳密度与固碳速率的估算 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2.1不同森林植被类型森林植被碳储量与碳密度CBM-CFS3模型模拟得到2010年河北省北部森林植被碳储量总量为 $5 9 . 6 6 ~ \\mathrm { T g ( C ) }$ ，森林植被平均碳密度为 $2 5 . 0 5 ~ \\mathrm { M g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。由表7可以看出，4种森林植被类型中森林植被碳储量最大的为阔叶林，为$3 0 . 9 7 ~ \\mathrm { T g ( C ) }$ ，约占总森林植被碳储量的 $52 \\%$ ；混交林其次，为 $1 5 . 7 3 \\mathrm { T g ( C ) }$ ，约占 $2 6 \\%$ ；之后是针叶林，为 $1 2 . 3 6 \\mathrm { T g } ( \\mathrm { C } )$ ，约占 $21 \\%$ ；经济林最少，为 $0 . 6 0 \\mathrm { T g } ( \\mathrm { C } )$ 只占约总森林植被碳储量的 $1 \\text{‰}$ 森林植被碳密度从大到小排列分别为针叶林 $[ 2 6 . 1 3 \\mathrm { ~ M g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 } ] .$ 、阔叶林 $[ 2 6 . 0 9 \\mathrm { M g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 } ]$ 、混交林[ $2 4 . 5 0 ~ \\mathrm { M g ( C ) \\cdot h m ^ { - 2 \\cdot } }$ 和经济林 $[ 7 . 5 3 \\mathrm { ~ M g ( C ) } { \\cdot } \\mathrm { h m } ^ { - 2 } ] _ { \\circ }$ 模拟的河北省北部森林植被碳储量和平均森林植被碳密度与前人研究结果[26]处在同一水平上，但较前人研究结果偏小，分析是由于前人试验全部属于实测数据，因此选点一般位于立地条件较好的位置，没有考虑非林地与灌丛等森林植被类型，且样地均为人工林，这就造成估算结果存在一定差距。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 不同林龄森林植被碳密度与碳储量",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "所有森林植被类型的碳密度均随林龄的增大而增大(表8)，直至达过熟死亡，符合一般的生长规律。其中大于 40a 的针叶林森林植被碳密度最大,$_ { 1 \\sim 1 0 }$ a的经济林森林植被碳密度最小，其森林植被碳密度分别为 $3 8 . 7 6 ~ \\mathrm { M g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 和 $6 . 3 7 ~ \\mathrm { M g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 } ,$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/9affb247038f5e1be748f942505742220b8755d2f91f1d96b904de9fa2e4dc9a.jpg",
+        "table_caption": [
+            "表72010年河北省北部不同森林植被类型碳储量及碳密度 Table 7Carbon storages and carbon densities for four forest vegetation types in the study area in 2 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>森林植被类型 Vegetation type</td><td>碳储量 Carbon storage [Tg(C)]</td><td>碳密度 Carbon density [Mg(C)·hm-2]</td><td>碳储量百分比 Carbon storage rate (%)</td><td>森林面积 Forest area (km²)</td></tr><tr><td>阔叶林 Broadleaved forest (BF)</td><td>30.97</td><td>26.09</td><td>52</td><td>11 800</td></tr><tr><td>针叶林 Coniferous forest (CF)</td><td>12.36</td><td>26.13</td><td>21</td><td>4700</td></tr><tr><td>混交林 Mixed forest (MF)</td><td>15.73</td><td>24.50</td><td>26</td><td>4 800</td></tr><tr><td>经济林 Economic forest (EF)</td><td>0.60</td><td>7.53</td><td>1</td><td>700</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/203c8bac1301335925e1ede4c22f39c7bf67e4cdb89a695ed33f766d8d70f767.jpg",
+        "table_caption": [
+            "表8不同林龄森林植被碳密度、碳储量及固碳速率",
+            "lableCarbondensities,carbonstoragesandcarbonsequestrationratesoffourforestvegetationtypesindiferentstandageinthe studyarea "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">林龄 Stand age (a)</td><td colspan=\"4\">碳密度 Carbon density [Mg(C)·hm-2]</td><td colspan=\"4\">碳储量 Carbon storage [Tg(C)]</td><td colspan=\"4\">固碳速率 Carbon sequestration rate [Mg(C).hm-2.a-1]</td></tr><tr><td>BF</td><td>EF</td><td>CF</td><td>MF</td><td>BF</td><td>EF</td><td>CF</td><td>MF</td><td>BF</td><td>EF</td><td>CF</td><td>MF</td></tr><tr><td>1~10</td><td>18.72</td><td>6.37</td><td>10.09</td><td>14.74</td><td>6.51</td><td>0.32</td><td>0.71</td><td>2.54</td><td>1.87</td><td>0.64</td><td>1.01</td><td>1.47</td></tr><tr><td>10~20</td><td>25.86</td><td>8.61</td><td>21.98</td><td>23.52</td><td>6.02</td><td>0.13</td><td>2.62</td><td>3.88</td><td>0.71</td><td>0.22</td><td>1.19</td><td>0.88</td></tr><tr><td>20~30</td><td>29.17</td><td>10.31</td><td>29.22</td><td>29.36</td><td>9.79</td><td>0.08</td><td>4.92</td><td>5.52</td><td>0.33</td><td>0.17</td><td>0.72</td><td>0.59</td></tr><tr><td>30~40</td><td>31.64</td><td>11.47</td><td>34.92</td><td>32.02</td><td>6.36</td><td>0.04</td><td>3.24</td><td>2.58</td><td>0.24</td><td>0.12</td><td>0.57</td><td>0.27</td></tr><tr><td>40</td><td>32.72</td><td>12.16</td><td>38.76</td><td>33.41</td><td>2.29</td><td>0.03</td><td>0.87</td><td>1.21</td><td>0.11</td><td>0.07</td><td>0.38</td><td>0.14</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "除经济林外其余森林植被碳储量随林龄呈先升高后降低的趋势(表8)，且均在20\\~30a森林植被碳储量达最大。主要是因为 $2 0 { \\sim } 3 0$ a的森林面积最大,研究区森林多为幼龄林和中龄林，未来仍有较大固碳潜力。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2.3不同林龄各森林植被类型固碳速率",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "除针叶林在 $1 0 { \\sim } 2 0$ a森林植被固碳速率达最大值外，其余森林植被类型的植被固碳速率均在1\\~10 a达最大值，且各森林植被类型植被固碳速率最大值排序为：阔叶林 $[ 1 . 8 7 \\mathrm { \\ M g ( C ) } . \\mathrm { h m } ^ { - 2 } . \\mathrm { a } ^ { - 1 } ] { > }$ 混交林[1.47$\\mathrm { M g ( C ) \\cdot h m ^ { - 2 } { \\cdot } a ^ { - 1 } ] ^ { > } }$ 针叶林 $[ 1 . 1 9 \\mathrm { \\ M g ( C ) } . \\mathrm { h m } ^ { - 2 } . \\mathrm { a } ^ { - 1 } ] { > }$ 经济林 $[ 0 . 6 4 ~ \\mathrm { M g ( C ) } . \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 } ] _ { \\circ }$ 最小值为大于 $4 0 \\mathrm { ~ a ~ }$ 的经济林，值为 $0 . 0 7 \\ \\mathrm { \\ M g ( C ) \\cdot h m ^ { - 2 } \\cdot a ^ { - 1 } ( \\mp \\ell 8 ) } ,$ 。说明幼龄林和中龄林固碳潜力大，成熟林固碳潜力小。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3河北省北部森林植被碳密度和固碳速率分布图2.3.1 2010年河北省北部森林植被碳密度分布图",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在ARCGIS10.0中，将模型模拟数据结合清查数据，根据森林植被类型和林龄对结果进行归类，得到2010 年河北省北部森林植被碳密度空间分布图(图3)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由图3可知2010年研究区森林植被碳密度总体从西北向东南呈递增趋势。分析原因是由于东南地区海拔低，靠近沿海，森林植被覆盖度较西北高海拔地区高，故多为固碳能力强的阔叶林、针叶林和混交林；西北地区海拔高，降水少，导致森林不易成活，所以大多数为固碳能力较差的灌丛和经济林。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/883fad72a466111132519b02c151f25fad992910d94d4c0d559d62192b529b17.jpg",
+        "img_caption": [
+            "图32010年河北省北部森林植被碳密度空间分布Fig.3Spatial distribution of carbon densities of forest vegetations in 2010"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecoagri.ac.cn ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 2010年河北省北部森林植被固碳速率",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "森林植被固碳速率分布图与森林植被碳密度分布图基本保持一致，即从西北向东南呈递增趋势，张家口地区森林植被固碳速率基本小于$0 . 5 ~ \\mathrm { \\mathsf { M g } ( C ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ ，承德地区森林植被固碳速率基本大于 $0 . 5 ~ \\mathrm { \\ M g ( C ) { \\cdot } h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ ，尤其在宽城满族自治县和兴隆县，基本大于 $1 \\ \\mathrm { M g ( C ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ (图4)。这是由于大部分阔叶林、针叶林和混交林位于承德地区，而张家口地区的经济林和灌丛较多。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce87262d2524973c9483637b5175dd3b2ba2878c2b7ef72c3dc764dbb4f6eea1.jpg",
+        "img_caption": [
+            "图42010年河北省北部森林植被固碳速率空间分布",
+            "Fig.4Spatial distribution of carbon sequestration rates of forest vegetations in the study area in 2010 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3结论与讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究以第7次全国森林资源连续清查数据作为主要数据源，野外森林植被调查数据和文献数据作为补充数据源，拟合出蓄积-生物量转换参数及生物量各组分比例参数，估算各组分周转速率，模拟河北省北部森林植被的碳储量、碳密度和固碳速率的动态变化。研究表明:",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1)各参数拟合效果较好，采用Richards方程所建立的蓄积生长方程均达极显著水平并且参数稳定性好，相关系数均在0.7以上，其中阔叶林和针叶林的决定系数在0.9以上。这与前人[28-29]对我国森林生物量与林龄关系的研究结果接近。蓄积-干材生物量转换方程也均达极显著水平，决定系数均在0.8以上。CBM-CFS3模型在估算各生物量组分比例时所使用的相容性、多项对数回归方程在国内较少见，可作为对国内普遍使用相容性生物量研究的一种补充与参考。各森林植被类型的树皮、树枝和树叶3个生物量组分比例方程的预估精度均在 $60 \\%$ 以上，决定系数基本在0.5以上。除阔叶林、混交林树枝比例方程和针叶林树叶比例方程未达显著性水平以外，其余森林植被类型的组分拟合方程均达显著或极显著水平。森林植被类型间进行比较时可知，阔叶林拟合效果较差，这与阔叶林包含树种多，树皮、树叶、树枝等组分测定容易出现较大误差以及不同研究者采用的方法差异有关。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2)综合分析3个生物量组分拟合结果可知，树皮比例参数拟合效果最好，其次是树叶，树枝的综合拟合效果最差。其他模型需要的参数中，由于中国森林调查技术规定与加拿大有所不同，在林木分类及测定对象方面存在较大差异。根据我国学者的研究成果[26]和我国的干扰类型特点，对模型中的碳库进行了重新定义：(1)将商品材碳库定义改为森林所有林木的地上生物量； (2)将其他碳库定义为所有林木的树枝部分。并修改了CBM-CFS3模型默认的生物量周转速率参数和干扰类型。通过重新定义和修改，不仅可以消除模型定义及输入变量间的概念差异，还可以降低碳库生物量组分的异质性，对于确定生物量周转及死亡有机质的分解参数较有帮助。对河北省北部各森林植被类型参数修改前后总死亡有机质碳储量进行了差异性分析，结果表明，参数修改后研究区各森林植被类型死亡有机质碳密度与参数修改前具有显著差异，修改后死亡有机质碳库储量与野外调查实测数据接近，证明采用的参数可模拟出河北省北部森林不同森林植被类型的森林植被碳储量与碳密度，较为科学合理。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3)森林生态系统植被碳储量及碳密度对于评价森林生长状况、了解森林生产力具有重要意义。CBM-CFS3模型模拟得到2010年河北省北部森林生态系统森林植被碳储量为 $5 9 . 6 6 ~ \\mathrm { T g ( C ) }$ ，森林植被平均碳密度为 $2 5 . 0 5 ~ \\mathrm { \\ M g ( C ) { \\cdot } h m } ^ { - 2 }$ ，森林植被固碳速率在 $0 . 0 7 { \\sim } 1 . 8 7 \\ \\mathrm { M g ( C ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ 之间。由结果分析可知,森林生态系统植被碳密度与树种林龄结构、生长特性有关，森林生态系统植被碳储量又与森林面积有关系。所有森林类型中，针叶林森林植被碳密度最大，达 $2 6 . 1 4 \\mathrm { M g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，其次为阔叶林森林植被碳密度，为 $2 6 . 0 9 \\mathrm { M g } ( \\mathrm { C } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。但由于阔叶林森林面积明显大于针叶林森林面积，故阔叶林森林植被碳储量为 $3 0 . 9 7 ~ \\mathrm { T g ( C ) }$ 远大于针叶林森林植被的碳储量$1 2 . 3 6 ~ \\mathrm { T g ( C ) }$ 。不同森林植被类型森林植被固碳速率最大值分别为阔叶林 $1 . 8 7 ~ \\mathrm { { \\ M g ( C ) } { \\cdot } h m ^ { - 2 } { \\cdot } a ^ { - 1 } }$ 、混交林$1 . 4 7 ~ \\mathrm { M g ( C ) \\cdot h m ^ { - 2 } { \\cdot } a ^ { - 1 } }$ 、针叶林 $1 . 1 9 ~ \\mathrm { M g ( C ) \\cdot h m ^ { - 2 } { \\cdot } a ^ { - 1 } }$ 和经济林 $0 . 6 4 ~ \\mathrm { M g ( C ) \\cdot h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 } .$ 。这说明虽然阔叶林的森林植被固碳速率最大值大，但是降低的也快，而针叶林的森林植被固碳速率虽然没有阔叶林大，但固碳速率稳定且时间长。因此其森林植被碳密度比阔叶林大。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4)一般来讲，造林由于增加了森林面积，因此可以增加森林植被的碳储量。本研究发现，造林改变森林的林龄结构，森林植被固碳速率增加。林龄在40a之后森林的固碳能力越来越差，直至过熟死亡。因此新造林在其中幼龄林阶段能极大地增加森林植被固碳速率。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5)从空间分布来看，森林植被碳密度总体从西北向东南呈递增趋势，以阔叶林、针叶林和混交林为主的承德地区森林植被碳密度较高，且森林植被碳密度增长潜力大，以灌丛和经济林为主的张家口地区森林植被碳密度相对较低。由于张家口地区受到地形和气候的限制，树木不易存活，导致该地区森林覆盖度较低，虽近年的风沙源治理工程增加了灌丛面积，森林植被碳密度和固碳潜力仍较低;承德地区由于其海拔较低，更靠近沿海地区，因此比西北地区拥有更多的森林和更高的森林植被碳密度。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "6)将森林二调数据中的树种划分为4种森林植被类型，而实际的森林植被类型不止4种，将不同树种归为一种森林植被类型进行蓄积生长方程模拟，没有考虑土壤类型、立地条件等对结果的影响。同时只是模拟了森林和灌丛的植被碳密度，并没有对草本的植被碳密度和土壤碳密度进行估算。由于目前尚不能修改地下生物量估算参数，因此模型中参数会对河北省北部森林生态系统地下生物量估算造成不确定性。如今随着遥感技术、地理信息技术和模型的发展，对森林植被时空变化的研究已有很多，越来越多的空间性模型加入了气候变化和土地利用变化等因素，使模拟过程更接近现实情况、模型机理更完善、模拟结果的不确定性更少，最终能满足国际公约的监测和报告本国森林碳储量及其变化的要求。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献References",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]曹吉鑫，田赞，王小平，等．森林碳汇的估算方法及其发展 趋势[J].生态环境学报,2009,18(5):2001-2005 Cao JX,Tian Y,Wang X P,et al.Estimation methods of forest sequestration and their prospects[J]. Ecology and Environmental Sciences,2009,18(5):2001-2005   \n[2]王天博，陆静．国外生物量模型概述[J]．中国农学通报, 2012,28(16): 6-11 Wang T B,Lu J.The advance on foreign biomass model[J]. Chinese Agricultural Science Bulletin,2012,28(16): 6-11   \n[3]Dixon RK,Brown S,Houghton R A,et al.Carbon pools and flux of global forest ecosystems[J]. Science,1994,263(5144): 185-190   \n[4]方精云．北半球中高纬度的森林碳库可能远小于目前的估 算[J].植物生态学报,2000,24(5):635-638 Fang JY.Forest biomass carbon pool of middle and high latitudes in the north hemisphere is probably much smaller than present estimates[J].Acta Phytoecologica Sinica,2000, 24(5):635-638   \n[5]冯源．基于CBM 模型云南普洱地区森林生态系统碳收支 研究[D]．北京：中国林业科学研究院,2014 Feng Y.The research on carbon budget of forest ecosystem in Pu'er region of Yunnan Province based on CBM model[D]. Beijing:Chinese Academy ofForestry Sciences,2014   \n[6]方精云，刘国华，徐嵩龄．我国森林植被的生物量和净生 产量[J].生态学报,1996,16(5):497-508 Fang JY, Liu G H, $\\mathtt { X u \\ S \\ L }$ .Biomass and net production of forest vegetation in China[J].Acta Ecologica Sinica,1996, 16(5): 497-508   \n[7]周玉荣，于振良，赵士洞．我国主要森林生态系统碳贮量 和碳平衡[J]．植物生态学报,2000,24(5):518-522 Zhou Y R,Yu Z L, Zhao S D. Carbon storage and budget of major Chinese forest types[J]. Chinese Journal of Plant Ecology,2000,24(5): 518-522   \n[8]王效科，冯宗炜，欧阳志云．中国森林生态系统的植物碳 储量和碳密度研究[J]．应用生态学报,2001,12(1):13-16 Wang X K,Feng Z W, Ouyang Z Y. Vegetation carbon storage and density of forest ecosystems in China[J]. Chinese Journal of Applied Ecology,2001,12(1): 13-16   \n[9]王玉辉，周广胜，蒋延玲，等．基于森林资源清查资料的落 叶松林生物量和净生长量估算模式[J]．植物生态学报, 2001,25(4): 420-425 Wang Y H, Zhou G S, Jiang Y L,et al. Estimating biomass and NPP of Larix forests using forest inventory data (FID)[J]. Chinese Journal of Plant Ecology,2001,25(4): 420-425   \n[10]赵敏，周广胜．中国森林生态系统的植物碳贮量及其影响 因子分析[J]．地理科学,2004,24(1): 50-54 Zhao M,Zhou G S.Carbon storage of forest vegetation and its relationship with climatic factors[J].Scientia Geographica Sinica,2004,24(1): 50-54   \n[11］ 徐新良，曹明奎，李克让．中国森林生态系统植被碳储量 时空动态变化研究[J]．地理科学进展,2007,26(6):1-10 Xu XL,Cao M K,Li K R.Temporal-spatial dynamics of carbon storage of forest vegetation in China[J].Progress in Geography,2007,26(6): 1-10   \n[12]胡海清，罗碧珍，魏书精，等．小兴安岭7种典型林型林分 生物量碳密度与固碳能力[J]．植物生态学报，2015，39(2): 140-158 Hu H Q,Luo B Z,Wei S J,et al. Biomass carbon density and carbon sequestration capacity in seven typical forest types of The Xiaoxing'An Mountains,China[J]. Chinese Journal of Plant Ecology,2015,39(2): 140-158   \n[13]黄从德，张健，杨万勤，等．四川森林植被碳储量的时空变 化[J]．应用生态学报,2007,18(12):2687-2692 Huang C D，Zhang J,Yang W Q，et al.Spatiotemporal variation of carbon storage in forest vegetation in Sichuan Province[J]. Chinese Journal of Applied Ecology，2007, 18(12): 2687-2692   \n[14]邢艳秋，王立海．基于森林调查数据的长白山天然林森林 生物量相容性模型[J]．应用生态学报,2007,18(1):1-8 Xing Y Q,Wang L H. Compatible biomass estimation models of natural forests in Changbai Mountains Based on forest inventory[J]. Chinese Journal of Applied Ecology，2007, 18(1): 1-8   \n[15]赵俊芳，延晓冬，贾根锁．1981—2002 年中国东北地区森 林生态系统碳储量的模拟[J]．应用生态学报，2009，20(2): 241-249 Zhao JF, Yan X D,Jia G S. Simulation of carbon stocks of forest ecosystems in northeast China from l981 to 2002[J]. Chinese Journal of Applied Ecology,2009,20(2): 241-249   \n[16]甄伟，黄玫，翟印礼，等．辽宁省森林植被碳储量和固碳速 率变化[J]．应用生态学报,2014,25(5):1259-1265 Zhen W,Huang M,Zhai Y L,et al.Variation of forest vegetation carbon storage and carbon sequestration rate in Liaoning Province,Northeast China[J]. Chinese Journal of Applied Ecology,2014,25(5):1259-1265   \n[17]赵忠宝，耿世刚，何鑫，等．河北省青龙满族自治县 2005— density of carbon in forest vegetation in Qinglong Manchu Autonomous County of Hebei Province from 2005 to 2050[J]. Research of Soil and Water Conservation,2015,22(3): 264-268 [18]耿丽君．燕山北部山地华北落叶松人工林生物碳贮量研 究[D]．保定：河北农业大学,2010 Geng L J.Biological carbon storage of larch forests in North Region of Yanshan Mountain[D]. Baoding: Agricultural University of Hebei,2010 [19]杜红梅，王超，高红真．华北落叶松人工林碳汇功能的研 究[J].中国生态农业学报,2009,4:756-759 Du H M,Wang C,Gao H Z. Carbon-sink function of artificial Larix principis-rupprechtii plantation[J]. Chinese Journal of Eco-Agriculture,2009,4: 756-759 [20] 高尚玉，张春来，邹学勇，等．京津风沙源治理工程效益[M]. 北京：科学出版社,2008 Gao S Y, Zhang C L,Zou X Y,et al. Benefits of BeijingTianjin Sand Source Control Engineering[M]. Beijing: Science Press,2008 [21] Liu X P,Zhang W J,Cao J S,et al. Carbon storages in plantation ecosystems in sand source areas of north Beijing, China[J]. PLoS One,2013,12(8): e82208 [22] 张灏．新编木材材积手册[M]．北京：金盾出版社,2011 Zhang H. Handbook of Wood Volume[M]. Beijing: Jindun Publishing House, 2011 [23] Apps MJ, Kurz W A,Beukema S J,et al. Carbon budget of the Canadian forest product sector[J]. Environmental Science & Policy,1999,2(1): 25-41 [24] Kurz W A, Dymond C C, White T M, et al. CBM-CFS3: A model of carbon-dynamics in forestry and land-use change implementing IPCC standards[J]. Ecological Modelling,2009,   \n220(4): 480-504 [25]Liu Z G, LiF R.The generalized Chapman-Richards function and applications to tree and stand growth[J]. Journal of Forestry Research,2003,14(1):19-26 [26]罗云建，王效科，张小全，等．中国森林生态系统生物量及 其分配研究[M]．北京：中国林业出版社,2013 Luo Y J,Wang X K, Zhang X Q,et al.Biomass and Its Allocation of Forest Ecosystems in China[M]. Beijing: China Forestry Publishing House,2013 [27]周涛，史培军，贾根锁，等．中国森林生态系统碳周转 时间的空间格局[J]．中国科学：地球科学，2010，40(5):   \n632-644 Zhou T,ShiPJ,Jia G S,et al. Spatial patterns of ecosystem carbon residence time in Chinese forests[J]. Science China Earth Science,2010,40(5): 632-644 [28]段爱国，张建国，童书振.6种生长方程在杉木人工林林分 直径结构上的应用[J]．林业科学研究,2003,16(4):423-429 Duan A G, Zhang JG, Tong S Z. Application of six growth equations on stands diameter structure of Chinese fir plantations[J]. Forest Research,2003,16(4): 423-429 [29]范文义，张海玉，于颖，等．三种森林生物量估测模型的比 较分析[J]．植物生态学报,2011,35(4):402-410 Fan W Y, Zhang HY, Yu Y, et al. Comparison of three models of forest biomass estimation[J].Chinese Journal of Plant Ecology,2011,35(4): 402-410 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

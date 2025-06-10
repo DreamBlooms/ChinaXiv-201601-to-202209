@@ -1,0 +1,133 @@
+# 起垄沟播和常规平播下滴灌棉田土壤水盐的运移
+
+孙池涛},²，张俊鹏²，张谦³，冯棣’，冯国艺³，孙景生'，林永增（1．中国农业科学院农田灌溉研究所/农业部作物需水过程与调控重点实验室,河南 新乡453000;  
+2．山东农业大学水利土木工程学院,山东 泰安271018;  
+3．河北省农林科学院棉花研究所/农业部黄淮海半干旱区棉花生物学与遗传育种重点实验室,河北 石家庄 050051)
+
+摘要：为明确滴灌条件下植棉方式对土壤水盐运移的影响，采用田间调查与室内分析相结合的方法,在滨海重度盐碱地开展了起垄沟播和常规平播植棉方式下的水盐运移试验,调查了滴灌前后两种植棉方式不同点位及不同土壤深度的土壤水分、盐分和土壤溶液电导率等指标,分析不同植棉方式土壤水分、盐分和土壤溶液电导率的时空分布特征。结果表明：滴灌条件下起垄沟播的水分入渗深度和盐分淋洗深度均明显大于常规平播植棉方式,起垄沟播植棉膜下( $\mathrm { 0 } \sim 2 0 \ \mathrm { c m }$ )土壤溶液电导率明显低于常规平播植棉;滴灌对两种种植方式膜外土壤水分和盐分运移未产生明显影响。起垄沟播联合滴灌技术更有利于为棉花生长的水盐环境。研究结果可为盐碱地植棉提供理论参考和实践依据。
+
+关键词：栽培方式；盐碱地；滴灌；棉田；水盐运移；电导率；河北
+
+盐碱地作为重要的后备耕地资源，对保障我国国民经济的发展具有重要作用[1]。开展盐碱地水盐运移研究对缓解人口增长与耕地不足的矛盾具有重要意义[2]。冀东滨海平原因濒临渤海,受海水退化及浅层咸水蒸发等因素影响，土壤盐渍化现象十分严重[3]。受季风性气候因素影响,该区域4-6月份降雨稀少，地表返盐严重。土壤持续干旱加上盐分胁迫,严重影响了作物的出苗和成苗[4]。此外，该区域地下水资源严重匮乏，是中国当前最大的地下水超采漏斗区及地面沉降核心区域[5],土壤盐渍化及水资源不足严重限制了当地农业的发展。由于滴灌节水、补水效果好，在干旱缺水地区逐步被推广、应用[6-7]。以往有研究指出,高频、小流量滴灌系统可以使滴头附近范围土壤中的盐分浓度显著降低，形成淡化脱盐区，从而有利于减轻盐分胁迫对植物根系生长发育的影响[8-9];然而也有研究指出,滴灌不利于盐分向深层运移，长期持续滴灌后土壤存在次生盐渍化威胁(10-11]。可见,滴灌条件下土壤盐分运移的基本特征尚需进一步深入研究。
+
+覆膜平播(常规平播）和起垄沟播是常见的作物栽培方式,在世界各地均有广泛应用。而有关滨海地区这两种栽培方式下的土壤水盐运移规律目前尚不清晰。针对滨海地区春季土壤熵情差、地表积盐严重，棉花成苗和幼苗生长均较差的特征，本研究拟探讨起垄沟播和常规平播植棉方式下土壤水盐运移特征，旨在明确滴灌条件下不同植棉方式的水盐调控效果，为滨海盐碱地植棉提供理论依据和技术支撑。
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+试验于2014年6月在河北省国营海兴农场（ $( 3 7 ^ { \circ } 5 6 ^ { \prime } \mathrm { N } , 1 1 7 ^ { \circ } 5 0 ^ { \prime } \mathrm { E } )$ 进行，该农场位于渤海湾西部$4 0 ~ \mathrm { k m }$ 处,海拔 $6 \mathrm { ~ m ~ }$ 。属于暖温带季风性气候,年降雨量为 $5 8 2 ~ \mathrm { m m }$ ，约 $70 \%$ 的降雨集中在7—9月。试验区土壤为滨海重度盐渍土， $0 \sim 1 0 0 \ \mathrm { c m }$ 土层平均$E C _ { 1 : 5 }$ 为 $1 . 6 3 ~ \mathrm { d S } \cdot \mathrm { ~ m ~ } ^ { - 1 }$ ， $\mathrm { \ p H }$ 值为7.55(表1)。土壤质地为粉质壤土。
+
+# 1.2 试验设置
+
+本试验种植方式为起垄沟播和常规平播(图1）。
+
+表1土壤物理性质、初始土壤电导率 $( E C _ { 1 : 5 } )$ 和pH  
+Tab.1Physical properties of soil and its initial electrical conductivities $( E C _ { 1 : 5 } )$ and $\mathbf { p H }$ values   
+
+<html><body><table><tr><td rowspan="2">土壤深度</td><td colspan="3">土壤粒径组成/%</td><td rowspan="2">土壤质地</td><td rowspan="2">容重 /(g·cm-³)</td><td rowspan="2">田间持水率 /(g:g-1)</td><td rowspan="2">/(dS·m-1) EC1:5</td><td rowspan="2">pH</td></tr><tr><td>/cm</td><td>0.05~2.00 mm 0.002~0.05 mm</td><td><0.002 mm</td></tr><tr><td>0~40</td><td>30.30</td><td>51.88</td><td>17.83</td><td>粉质壤土</td><td>1.67</td><td>26.5</td><td>1.37</td><td>7.56</td></tr><tr><td>40~80</td><td>28.57</td><td>51.17</td><td>20.26</td><td>粉质壤土</td><td>1.56</td><td>26.5</td><td>1.89</td><td>7.54</td></tr></table></body></html>
+
+![](images/a41b7c01686a877848b5f5c5755e6456dca022e2386e8711152f1266dd8418ea.jpg)  
+图1种植方式及取样点分布示意图 Fig.1Schematic diagram of planting patterns and distribution of sampling sites
+
+压力为 $5 0 \ \mathrm { k P a }$ ,额定流量为 $2 . 4 \mathrm { ~ L ~ } \cdot \mathrm { ~ h ~ } ^ { - 1 }$ 。由于本试验年度内降雨密集，且降雨量较大( $3 0 5 ~ \mathrm { m m }$ ，图2），棉花生育期内共实施了3次滴灌，每次灌水量为15$\mathrm { m m } ( 1 5 0 ~ \mathrm { m } ^ { 3 } ~ \cdot ~ \mathrm { h m } ^ { - 2 } )$ ），灌水时间分别为4月21日（播种前）、6月13日（苗期）、7月10日（现蕾前期)。本研究于第2次灌溉过程中取样，于滴灌前$( 0 \mathrm { ~ h ~ } )$ 、滴灌后 $( 1 2 , 2 4 , 4 8 , 7 2 , 1 2 0 \mathrm { ~ h ~ } )$ 分别在每个试验小区的宽行中心(膜外）、滴灌带下方(播种行)和窄行中心(膜下)设置3个取样点，每 $1 0 \ \mathrm { c m }$ 一层取样，取样深度为 $6 0 ~ \mathrm { c m }$ ,每种植棉方式设3次重复。
+
+# 1.3 分析项目及方法
+
+1.3.1土壤理化性质棉花播种前于试验样地挖土壤剖面，用环刀法测定土壤容重;激光粒度分析仪测定土壤黏粒 $( \mathbf { \Omega } < 0 . 0 0 2 \ \mathrm { m m }$ 、粉粒 $( 0 . 0 0 2 \sim 0 . 0 5$ mm）和沙粒( $> 0 . 0 5 \ \mathrm { m m } ^ { \prime }$ )含量，按照美国农业部土壤质地分类标准确定土壤质地类型(表1）。
+
+起垄沟播沟底宽 $6 0 ~ \mathrm { c m }$ ,垄宽 $9 0 ~ \mathrm { c m }$ ,垄高 $2 0 \ \mathrm { c m }$ ；常规平播为宽窄行种植。两种植棉方式下行距均为$6 0 ~ \mathrm { c m } + 9 0 ~ \mathrm { c m }$ ,株距均为 $2 8 ~ \mathrm { c m }$ ;且在窄行覆膜，膜宽度为 $7 5 \ \mathrm { c m }$ ，厚 $0 . 6 ~ \mu \mathrm { m }$ 。每种植棉方式设置3个小区，小区规格为 $4 . 5 \ \mathrm { m } \times 5 . 4 \ \mathrm { m }$ 。棉花生育期内采用滴灌灌水，每行棉花铺设一条滴灌带，当滴头下方$0 \sim 6 0 ~ \mathrm { c m }$ 土层土壤含水率介于田间持水率的$6 0 \% \sim 7 5 \%$ 时启动滴灌。灌溉水源取自当地深层（ $3 0 0 \mathrm { ~ m ~ }$ 以下)淡水(矿化度 $1 \mathrm { ~ g ~ } \cdot \mathrm { ~ L ~ } ^ { - 1 }$ ),滴灌带直径$1 6 ~ \mathrm { m m }$ ,壁厚 $0 . 4 \ \mathrm { m m }$ ,滴头间距为 $2 8 ~ \mathrm { c m }$ ;工作额定
+
+1.3.2土壤水分和盐分土壤质量含水率由烘干法测定;土壤电导率表征土壤中全盐含量水平,在一定程度上可反映土壤盐渍化程度，电导率采用DDS-307A电导率仪测定土水比为1:5（质量比）土壤悬浊液 $E C _ { 1 : 5 }$ 。
+
+1.3.3土壤盐溶液电导率土壤溶液电导率是反映作物根系吸水强度的重要指标。就盐碱地的土壤而言，土壤溶液电导率不仅与土壤含水量相关，还与土壤含盐量相关。参考Corwin 等[12]研究结果,土壤溶液电导率 $E C _ { \mathrm { s w } }$ 与土壤含水率及电导率的关系为：
+
+![](images/1d5a4721f7a60dc3a35f02a947a6d3462ed8339fed23b2b6bc62aa193c93bc45.jpg)  
+图22014 年棉花生育期内降雨量分布  
+Fig.2Distribution of rainfall during cotton growth period in 2014
+
+$$
+E C _ { _ \mathrm { s w } } = E C _ { _ \mathrm { e } } \frac { \rho _ { \mathrm { s } } \cdot S P } { 1 0 0 \cdot \theta } = E C _ { \mathrm { e } } \frac { \theta _ { \mathrm { s } } } { \theta }
+$$
+
+式中： ${ \mathrm { \Omega } } : \rho _ { \mathrm { { s } } }$ 为土壤干容重 ${ \bf \zeta } ( \mathrm { \bf \underline { { { g } } } } \cdot \mathrm { c m } ^ { - 3 } ) .$ ; $S P$ 为土壤孔隙度 $( \% ) { : \theta _ { \mathrm { s } } }$ 为土壤饱和含水率 $( { \bf c m } ^ { 3 } \cdot { \bf c m } ^ { - 3 }$ ） $E C _ { \mathrm { s w } }$ 为土壤溶液电导率( $\mathrm { \mathrm { ~ [ ~ d S ~ \cdot ~ m ~ } ^ { - 1 } }$ ）； $E C _ { \mathrm { e } }$ 为饱和泥浆电导率 $\mathrm { ^ { \prime } d S } \cdot \mathrm { m } ^ { - 1 }$ )。根据已有试验结果[13],本区域 $E C _ { \mathrm { e } }$ 与 $E C _ { 1 : \mathfrak { s } }$ 关系为： $E C _ { \mathrm { { e } } } = 1 0 E C _ { 1 : 5 } + 0 . 3 7 8$ 。
+
+1.3.4数据分析与作图采用Excel-2016对试验数据进行统计和整理,基于Sigmaplot10.0作图。
+
+# 2 结果与分析
+
+# 2.1 土壤剖面水分分布
+
+图3给出了滴灌前后起垄沟播和常规平播植棉方式下不同位置处 $0 \sim 6 0 \ \mathrm { c m }$ 土层土壤质量含水率剖面分布情况。可以看出，滴灌前 $( 0 \mathrm { ~ h ~ } )$ 起垄沟播和常规平播两种植棉方式不同位置土壤质量含水率分布均是自表层向深层逐渐增加;滴灌后两种植棉方式的膜下和播种行位置 $0 \sim 6 0 ~ \mathrm { c m }$ 土壤剖面含水率均呈先急剧增加再缓慢降低的趋势，至滴灌 $1 2 0 \mathrm { ~ h ~ }$ .两种植棉方式膜下和播种行位置 $0 \sim 6 0 \ \mathrm { c m }$ 土层土壤含水率在土壤剖面内呈均匀分布。滴灌对起垄沟播与常规平播膜外土壤含水率无明显影响，表明覆膜条件下滴灌主要影响膜下和播种行位置处土壤水
+
+分分布。
+
+滴灌后 $1 2 \mathrm { ~ h ~ }$ ,起垄沟播植棉方式下水分最大入渗深度约为 $5 0 ~ \mathrm { c m }$ ,膜下和播种行位置 $0 \sim 6 0 \ \mathrm { c m }$ 土层土壤含水率比滴灌前平均增加了 $1 7 . 9 1 \%$ ；常规平播最大入渗深度约为 $3 0 \ \mathrm { c m }$ ,土壤含水率比滴灌前平均增加了 $9 . 4 9 \%$ 。滴灌后 $1 2 \sim 1 2 0 \mathrm { ~ h ~ }$ ,起垄沟播膜下和播种行位置处 $0 \sim 6 0 ~ \mathrm { c m }$ 土壤含水率分别介于 $2 2 . 3 5 \% \sim 2 4 . 6 0 \%$ 和 $2 1 . 2 8 \% \sim 2 3 . 2 5 \%$ ，比膜外平均提高了 $4 1 . 1 6 \%$ 和 $34 . 8 3 \%$ ;常规平播膜下和播种行位置处 $0 ~ \sim 6 0 ~ \mathrm { c m }$ 土壤含水率分别为$1 8 . 7 5 \% \sim 2 0 . 3 1 \%$ 和 $1 9 . 9 1 \% \sim 2 1 . 1 5 \%$ ,比膜外平均提高了 $7 . 5 3 \%$ 和 $1 3 . 6 0 \%$ 。两种植棉方式下，膜下和播种行位置处土壤含水率均高于膜外，且起垄沟播膜下和播种行位置处土壤含水率总体高于常规平播处理，表明起垄沟播比常规平播植棉方式膜下和播种行处保水效果好，原因可能是起垄沟播植棉方式的膜下地形低于膜外，在一定程度上影响了膜下土壤水分向膜外运移速率；同时，这也导致了起垄沟播滴灌入渗深度大于常规平播。
+
+# 2.2土壤剖面盐分分布
+
+就起垄沟播处理而言，滴灌前后，膜下（0～30cm）和播种行 $( 0 \sim 4 0 \ \mathrm { c m } )$ 的土壤电导率整体呈自表层向深层逐渐增加的趋势，呈脱盐状态；膜外则是表层（ $\mathrm { 0 \sim 1 0 ~ c m } ,$ 土壤盐分含量明显高于深层，呈地表积盐状态。滴灌后 $^ { 1 2 \mathrm { ~ h ~ } }$ ，起垄沟播膜下和播种行$0 \sim 2 0 ~ \mathrm { c m }$ 土壤电导率比滴灌前分别降低了 $3 2 . 0 3 \%$ 和 $5 5 . 0 4 \%$ 。滴灌后 $1 2 \sim 1 2 0 \mathrm { ~ h ~ }$ 内，起垄沟播种植膜下和播种行 $0 \sim 6 0 \ \mathrm { c m }$ 土壤电导率平均比膜外分别降低了 $3 5 . 0 2 \%$ 和 $3 1 . 4 9 \%$ 。起垄沟播与滴灌结合在一定程度上抑制了沟底盐分积聚，为根系生长创造了适宜的低盐环境。
+
+![](images/b5545ea0a2bd5d2d0268640ea5bfca55597479ab23a0bcb0da26debccaacce48.jpg)  
+图3土壤剖面含水率(质量)分布  
+Fig.3Distribution of soil moisture content along soil profiles
+
+![](images/8efdc9eb8e0ab3c451f57561995d3c75be5468f9c6b2e2775f98f11951e5c228.jpg)  
+图4土壤剖面电导率(盐分)分布  
+Fig.4Distribution of soil electrical conductivity（Salinity)
+
+常规平播条件下，滴灌淋盐效果主要体现在播种行(滴灌带） $0 \sim 2 0 ~ \mathrm { c m }$ 土层(图4）。滴灌后 $1 2 \mathrm { ~ h ~ }$ ，常规平播播种行 $0 \sim 2 0 ~ \mathrm { c m }$ 土壤电导率比滴灌前降低了 $6 9 . 6 8 \%$ ，而膜下仅降低了 $0 . 5 3 \%$ ；滴灌后 $1 2 \sim$ $1 2 0 \mathrm { ~ h ~ }$ 内,常规平播种植膜下和播种行 $0 \sim 6 0 ~ \mathrm { c m }$ 土壤电导率平均比膜外均有降低，分别降低了 $3 3 . 8 8 \%$ 和 $3 8 . 7 8 \%$ 。综上可以看出，滴灌后，起垄沟播处理土壤水分入渗深度和淋盐深度均大于常规平播处理,但滴灌对两种植棉方式下 $0 \sim 6 0 ~ \mathrm { c m }$ 土层盐分部面的差异分布无明显差异。此外，从图4还可以看出，滴灌对膜外盐分运移无明显影响。
+
+# 2.3土壤剖面溶液电导率分布
+
+土壤溶液电导率( $E C _ { \mathrm { s w } }$ )是反映土壤水分和盐分对作物生长影响的综合性指标。从图5可以看出，滴灌后，起垄沟播和常规平播膜下与播种行处表层 $E C _ { \mathrm { s w } }$ 值均是先迅速降低，之后再缓慢增加；滴灌前后，两个处理膜外土壤 $E C _ { \mathrm { s w } }$ 无明显差异。滴灌后$^ { 1 2 \mathrm { ~ h ~ } }$ ,起垄沟播膜下和播种行 $0 \sim 1 0 ~ \mathrm { c m }$ 土壤 $E C _ { \mathrm { s w } }$ 值比滴灌前分别降低了 $7 4 . 7 8 \%$ 和 $7 9 . 2 3 \%$ ，且比膜外分别降低了 $9 5 . 1 8 \%$ 和 $9 5 . 4 1 \%$ ;常规平播膜下和播种行 $0 \sim 1 0 \ \mathrm { c m }$ 土壤 $E C _ { \mathrm { s w } }$ 值比滴灌前分别降低了$1 3 . 2 3 \%$ 和 $9 3 . 8 5 \%$ ，比膜外分别降低了 $6 8 . 4 7 \%$ 和$9 6 . 2 4 \%$ ；滴灌后 $^ { 1 2 0 \mathrm { ~ h ~ } }$ ，起垄沟播膜下和播种行$0 \sim 1 0 ~ \mathrm { c m }$ 土壤 $E C _ { \mathrm { s w } }$ 值较滴灌前分别降低了 $5 6 . 4 5 \%$ 和 $3 5 . 3 3 \%$ ；常规平播较滴灌前分别降低了 $4 6 . 1 5 \%$ 和 $5 5 . 6 0 \%$ 。从图5还可以看出，起垄沟播处理膜下和播种行表层 $( 0 \sim 2 0 \ \mathrm { c m } ) \$ 土壤 $E C _ { \mathrm { s w } }$ 明显低于常规平播处理，平均降低了 $4 1 . 2 5 \% \sim 7 4 . 9 2 \%$ ,表明起垄沟播膜下和播种行位置比常规平播有利于根系吸水。综上可知，滴灌条件下起垄沟播植棉方式虽然未降低土壤中盐分含量，但在一定程度上比平播植棉降低了土壤 $E C _ { \mathrm { s w } }$ ，减少了盐分胁迫对根系发育的影响，为棉花生长创造了更有利的土壤环境，
+
+# 3讨论
+
+滴灌节水、控盐效果好，在许多地区广泛应用。开展滴灌条件下的水盐调控机理研究可为盐碱地改良和开发利用提供科学指导[14]。周和平等[15]研究指出，膜下滴灌可以实现土壤水盐在 $0 \sim 5 0 ~ \mathrm { c m }$ 微域范围内由膜中向膜边和膜外定向迁移，并揭示了膜下滴灌土壤水盐定向迁移机理。王增丽等[1研究表明，膜下滴灌条件下，土壤盐分以滴头为中心向滴灌带两侧迁移，且迁移距离受灌水定额和灌溉频率影响。高龙等[14]研究表明,滴灌条件下土壤含水率自靠近滴灌带的区域向外逐渐降低，土壤含盐率则呈相反的规律分布，灌溉期靠近滴灌带的土壤处于脱盐状态，远离滴灌带的土壤呈积盐状态。本研究结果表明，土壤水盐迁移还受栽培方式的影响，这与王增丽等[17]在西北地区的研究结论相一致。在灌水量一定的条件下，改变地表覆盖条件或者调整栽培方式，也可以达到降低土壤盐分胁迫，为作物生长创造有利环境的目的。李磊等[18]研究结果表明，全膜双垄沟播技术有助于优化耕层内水盐环境，提高作物出苗率和成苗率。关法春等[19]研究表明,起垄可以提高 $0 \sim 3 0 ~ \mathrm { c m }$ 土层内土壤含水率，垄沟内土壤电导率和 $\mathrm { \ p H }$ 值呈降低趋势,而垄台表面出现积盐情况。本研究结果表明，起垄沟播植棉方式优化了沟底的水盐分布，降低了王壤 $E C _ { \mathrm { s w } }$ 值，且相同灌水量条件下，起垄沟播水盐迁移深度明显大于常规平播处理,这与关法春等[19]研究结果一致。
+
+![](images/9c2faf5103c9b51d562c09f6acd4ade63d6afdb4264c5c5d2271446786830138.jpg)  
+图5土壤剖面土壤溶液电导率( $E C _ { \mathrm { s w } }$ )分布Fig.5Distribution of soil electrical solution( $\mathit { \Delta } ^ { \prime } E C _ { \mathrm { s w } }$ ）
+
+运移深度、盐分淋洗深度、土壤含水率均高于常规平播处理，而土壤溶液电导率浓度低于常规平播植棉方式，考虑土壤溶液浓度对根系生长的影响可知，重度盐碱地起垄沟播植棉联合膜下滴灌可为棉花根系吸水、吸肥创造更适宜的环境。
+
+# 参考文献（References）：
+
+[1］李振声，欧阳竹，刘小京,等.建设"渤海粮仓”的科学依据需 求、潜力和途径[J].中国科学院院刊，2011，26(4）：371-374. [Li Zhensheng,Ou Yangzhu,Liu Xiaojing,et al. Scientific basis for constructing the“Bohai Sea Granary”:Demands,potential and approaches[J].Bulletin of Chinese Academy of Sciences,2011,26 (4):371 -374.]   
+[2]李彬,王志春,孙志高,等.中国盐碱地资源与可持续利用研究 [J].干旱地区农业研究,2005,23（2）：154-158.[Li Bin, Wang Zhichun,Sun Zhigao,et al.Resources and sustainable resource exploitation of salinized land in China[J].Agricultural Research in the Arid Areas,2005,23(2）:154-158.]   
+[3]孙池涛，张俊鹏,冯棣，等.滨海盐碱棉田水盐及棉花生长动态 研究[J].灌溉排水学报,2015,34（1）:79-84.[Sun Chitao, Zhang Junpeng,Feng Di,et al.Dynamics of soil water,salt and cotton growth in coastal saline-alkaline land[J].Journal of Irrigation andDrainage,2015,34(1):79-84.]   
+[4]董合忠.滨海盐碱地棉花成苗的原理与技术[J].应用生态学 报,2012,23（2）:566-572.[Dong Hezhong.Underlying mechanisms and related techniques of stand establishment of cotton on
+
+# 4结论
+
+起垄沟播植棉条件下膜下和播种行处土壤水分
+
+coastal saline-alkali soil[J].Chinese Journal of Applied Ecology, 2012,23(2) :566 -572.]   
+[5］郭燕枝,王小虎,孙君茂.华北平原地下水漏斗区马铃薯替代 小麦种植及由此节省的水资源量估算[J].中国农业科技导 报,2014,16（6）:159-163.[Guo Yanzhi,Wang Xiaohu,Sun Junmao.The estimation of saving water resources because of substitute planting of potato instead winter wheat in the funnel area of the North China Plain[J].Journal of Agricultural Science and Technology,2014,16(6):159-163.]   
+[6]王振华,裴磊,郑旭荣,等.盐碱地滴灌春小麦光合特性与耐盐 指标研究[J].农业机械学报,2016,47（4）:65-72.[Wang Zhenhua,Pei Lei,Zheng Xurong,et al. Photosynthetic characteristics and salt tolerance indexes of spring wheat with drip irrigation in saline alkaline soils[J].Transactions of the Chinese Society of Agricultural Machinery,2016,47(4）:65-72.]   
+[7]李金刚,屈忠义,黄永平,等.微咸水膜下滴灌不同灌水下限对盐 碱地土壤水盐运移及玉米产量的影响[J].水土保持学报,2017， 31(1）:217-223.[Li Jingang,Qu Zhongyi,Huang Yongping,et al. Effects of control lower limit of saline water mulched drip irrigation on water salt movement and corn yield in saline soil[J].Journal of Soil and Water Conservation,2017,31(1) :217-223.]   
+[8]Yao W W,Mao X Y,Li J,et al. Simulation of point source wetting pattern of subsurface drip irrigation[J]. Irrigation Science,2011, 29(4):331-339.]   
+[9]孙杨,刘淑慧,赵辉.滴灌条件下不同种植方式水盐运移研究 [J].节水灌溉,2015（12）:52-54.[Sun Yang,Liu Shuhui,Zhao Hui.Research on soil water and salt transfer of diferent planting mode under drip irigation condition[J].Water Saving Irigation, 2015(12):52 -54.]   
+[10］窦超银,康跃虎,万书勤.地下水浅埋区重度盐碱地滴灌不同 开发年限土壤盐分分布特征[C]//全国微灌大会,2009.〔Dou Chaoyin,Kang Yuehu,Wan Shuqin. Characteristics of soil salinity distribution in saline-sodic soil with shallow water table under mulch-drip irrigation by saline water in different planting years [C]//Micro-Irrigation Conference,2009.]   
+[11］脱云飞,杨路华,杜新燕,等.新疆盐碱地棉花膜下滴灌的特性 分析[J].南水北调与水利科技,2005,3（2）：41-43.[Tuo Yunfei,Yang Luhua,Du Xinyan,etal.Characteristic analysis through drip irrigation under mulch of cotton in saline-alkali areas of Xinjiang[J].South-to-North Water Transfers and Water Science & Technology,2005,3（2）:41-43.]   
+[12]Corwin D L,Lesch S M. Application of soil electrical conductivity to precision agriculture[J].Agronomy Journal,2003,95（3）：
+
+455-471.
+
+[13]Sun C T,Feng D,Mi Z R,et al.Impacts of ridge-furrow planting on salt stress and cotton yield under drip irrigation[J].Water,2017,9 (1) :1-15.   
+[14」高龙，田富强,倪广恒,等.膜下滴灌棉田土壤水盐分布特征及 灌溉制度试验研究〔J].水利学报,2010,41（12）：1483- 1 490.[Gao Long,Tian Fuqiang,Ni Guangheng,et al. Experimental study on soil water-salt movement and irigation scheduling for cotton under mulched drip irrigation condition[J].Journal of Hydraulic Engineering,2010,41（12）:1 483-1 490.]   
+[15]周和平,王少丽,姚新华,等.膜下滴灌土壤水盐定向迁移分布 特征及排盐效应研究[J].水利学报,2013,44（11)：1380- 1 388.[Zhou Heping,Wang Shaoli,Yao Xinhua,et al. Research on distribution characteristics and salt-discharging effect of directional migration of water and salt in soil through drip irrigation under plastic $\mathrm { f i l m } \left[ \mathrm { J } \right]$ . Journal of Hydraulic Engineering,2013,44 (11):1 380 -1388.]   
+[16]王增丽,董平国,樊晓康,等.膜下滴灌不同灌溉定额对土壤水 盐分布和春玉米产量的影响[J].中国农业科学,2016,49 (12）:2 343-2 352.[Wang Zengli,Dong Pingguo,Fan Xiaokang,et al.Effects of irrigation quota on distribution of soil watersalt and yield of spring maize with drip irrigation under mulch[J]. Scientia Agricultra Sinica,2016,49(12）:2 343-2 352.]   
+[17]王增丽,朱兴平,温广贵,等.垄作沟灌条件下灌溉定额对土壤 水盐分布和制种玉米耗水的影响[J].干旱地区农业研究， 2016,34(1）:50-54.[Wang Zengli,Zhu Xingping,Wen Guanggui,et al.Effcts of irrigation quota on distribution characteristics of soil water-salt and water consumption during maize seed production under ridge and furrow farming[J].Agricultural Research in the Arid Areas,2016,34(1) :50-54.]   
+[18］李磊,张强,冯悦晨,等.全膜双垄沟播改善干旱冷凉区盐渍土 水盐状况提高玉米产量[J].农业工程学报,2016,32(5）：96- 103.[Li Lei,Zhang Qiang,Feng Yuechen,et al. Al-film doublefurrow sowing improving water and salt conditions and increasing maize yield in saline soil of cold and arid area[J].Transactions of the Chinese Society of Agricultural Engineering,2016,32（5）： 96 -103.]   
+[19］关法春,苗彦军,Tianfang Bernie Fang,等.起垄措施对重度盐 碱化草地土壤水盐和植被状况的影响[J].草地学报,2010,18 (6）:763-767.[Guan Fachun,Miao Yanjun,Tianfang Bernie Fang,et al.Efects of ridging on soil and above-ground biomass in heavy alkali-saline grasslands of west Songnen Plain,China[J]. Acta Agrestia Sinica,2010,18(6) :763-767.]
+
+# Soil Water and Salt Migration in Cotton Field in Ridge-Furrow Planting and Conventional Flat Planting under Drip Irrigation
+
+SUN Chi-tao1•²， ZHANG Jun-peng²， ZHANG Qian³，FENG Di1，FENG Guo-yi³, SUN Jing-sheng'， LIN Yong-zeng3 (1.Instituteof Farmland Irigation Research，Chinese Academyof Agricultural Sciences/KeyLaboratoryfor Crop Water Requirement and Regulation under Ministry of Agriculture， Xinxiang 453ooo，Henan， China ;   
+2.College of Water ConservancyandCvilEnginering，Shandong Agricultural University，Taian271018，Shandong，China;   
+3.InstituteofCoton Research，Hebei AcademyofAgriculturalandForestrySciences/KeyLaboratoryofBiologyand Genetic Improvement of Cottn in Huanghuaihai Semiarid Area，Shijiazhuang O5o051,Hebei，China)
+
+Abstract：In this study，two typicalcotton planting ways，i.e.the ridge-furrow planting and conventional flat planting，were selected inthecoastal area withsevere soil salinizationsoas to clarifytheeffctof diferent cotton transplanting ways on soil water and salt migration underdrip irigation.The soil moisture content，soil salinity and soil solutionconductivityat different sites and depths were investigated before andafterdrip irrigation.Spatial and temporal distribution characteristics of soil moisturecontent，soil salinityandsoil solution conductivity were analyzed.Theresult showed thatthe depth of soil water infiltration and salt leaching in ridge-furrow treatment was deper than that of conventional flat planting treatment，and the soil solution concentration in $0 - 2 0 ~ \mathrm { c m }$ soil layer in ridge-furow planting patermn was lower than that of conventional flat planting treatment.There was no significant difference in soil water and salt migration outsidethe plastic film mulch under the two treatments.Thecombined drip irigation technology in ridge-furrow planting was more conduciveto providing a suitable water and salt environmentforcotton growth.This study could provide both theoretical and practical references for cotton cultivation in saline soil.
+
+Key words:planting patern；saline-alkali soil；drip irigation；cotton field；water and salt migration；conductivity；Hebei Province

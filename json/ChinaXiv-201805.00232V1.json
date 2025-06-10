@@ -1,0 +1,802 @@
+[
+    {
+        "type": "text",
+        "text": "基于多目标进化算法的多距离聚类研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘丛，万秀华",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(上海理工大学 光电信息与计算机工程学院，上海 200093)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：传统的聚类算法通常基于单一的距离度量而设计，如何将多种距离度量有机融合在一起是当前面临的一个挑战。提出了一种基于多目标进化算法的多距离度量聚类框架(multiobjective evolutionary multiple distance measureclustering，MOMDC)，并使用欧氏距离和 Path 距离来设计实际框架。该框架首先将数据集分别用两种距离测度预聚类，而后将预聚类结果做合并，以降低问题的规模；其次分别计算子类间的两种距离关系；最后使用多目标进化算法在两种距离空间中并行聚类。在多目标进化算法设计中，使用实数-标签的编码方式来设计染色体，并且设计了基于两种距离测度的两个适应度函数对染色体进行评估。最终将MOMDC与其他几种经典算法在大量的数据集上进行实验对比。实验表明，该框架对不同分布的数据集均能取得良好的结果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：相似性度量；距离矩阵；多目标RMMEDA进化算法；标签-实数编码 中图分类号：TP301.6 doi: 10.3969/j.issn.1001-3695.2017.06.0658 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research on multiple distance clustering based on multi-objective evolutionary algorithm ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Liu Cong, Wan Xiuhua (SchoolofOptical-Electrical&ComputerEngineeing,UniversityofShanghaiforScience&Technologyhanghai200093, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Traditionalclusteringalgorithms often basedonasingledistance metric,and howto integrate multivariatemetrics is a keychalenge in clustering algorithms.This paper proposes a multiobjective Evolutionary Multiple Distance Measure Clustering(MOMDC)based onmulti-objective evolutionaryalgorithm.In this paper,using the Euclidean distance and Path distance todesigntheactual framework.Firstly,The frameworkuses thetwodistancemeasures topreprocesstheclaes,and thencombining theprepolymerizationresults toreduce thesizeoftheproblem.Secondlyusingthe multi-objectiveevolutionary algorithmtoclusterintwo distance spaces inparallel.In the designofmulti -objective evolutionaryalgorithm,chromosomes usingreal-tag coding,and two fitnessfunctions basedontwo distance measures are designed toevaluate thechromosomes. Finaly,MOMDCwillcomparetosveralotherclasicalgorithms inthedataset.Experimentssowthatthe frameworkcan achieve good results for different distributed data sets . ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: similarity measure; distance metric; multi-objective evolutionary algorithm; real- tag coding ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着信息技术和计算机技术的迅速发展，数据规模不断增大，数据类型呈现多样化发展。如何从海量数据中挖掘出隐含的、有价值的知识是研究者面对的主要问题。因此导致聚类分析、相关分析、回归分析以及方差分析等各种数据分析技术的发展，其中聚类分析应用最为广泛，其可将数据集根据相似性规则分成若干子类，使得同类中的数据具有较大的相似性，不同类中的数据具有较大的差异性[1]。作为一种数据处理算法，聚类分析广泛应用统计学、模式识别、机器学习、数据挖掘等各领域中[2]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "现有的聚类算法可划分为基于层次的聚类、基于划分的聚类、基于密度的聚类、基于网格的聚类以及基于模型的聚类。近年来随着研究的深入，基于遗传算法的聚类、基于模糊数学的聚类、基于谱分割的聚类等也被相继提出。基于划分的聚类在实际应用中尤为广泛，Kmeans算法和FCM算法为该类方法中最经典的两种算法。但该类算法的局限性在于：a)其对球形簇结构的数据聚类效果比较好，但是对于任意形状结构的数据效果不是很理想；b)两种算法在求解过程中容易陷入局部最优解。基于密度的算法使用数据的密度属性来寻找非球形结构的簇[3]。基于层次的算法使用最大类间距、最小类间距或其他距离度量来对数据进行合并或分裂来寻找非球形结构的簇。谱聚类使用核空间距离将数据描述成图的形式[4]，使用图割的思想对数据聚类。Path距离[5]、流形距离[6]，切比雪夫距离、核距离等将任意形状的数据映射到非欧氏距离中对数据聚类。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述，在针对任意形状簇的聚类算法中，大部分算法都是将数据点映射到可划分的距离空间中,或者使用新的距离函数来度量两个点之间的相似性。这说明相似性测度在聚类分析中占有非常大的作用。使用多距离聚类也越来越受到研究者的关注，近年来众多研究者提出了基于多距离度量相结合的聚类算法。文献[7]提出了一种同时考虑多个相异矩阵相结合，从而对对象进行划分的硬聚类算法。其中矩阵是由不同的变量集和相异函数生成。文献[8]中提出了基于多目标距离度量相结合的聚类方法。但是上述这些方法都是简单的把两种距离使用权重叠加在一起，而如何设置合适的权重非常困难。因此，如果能设置一种算法可以针对不同的数据结构自动选取不同的相似性测度是当前的一大挑战。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "聚类问题也可以看做一种优化问题，在求解问题的全局最优上，进化算法应用非常广泛[9]。进化算法有其他算法无可比拟的优势，它是一种群体智能优化算法，通过选择、交叉及变异来寻找全局最优解。近年来，研究者提出了许多基于进化算法的聚类方法。文献[10]针对K-modes聚类算法对初始聚类中心的选择敏感，存在容易陷入局部最优解的缺点，提出了基于差分进化计算的K-modes 聚类算法，取得了更好的聚类结果。文献[11]提出了一种基于差分进化的模糊C-均值聚类算法研究，思想就是将DE算法应用到FCM算法中,在一定程度上解决了FCM算法过分依赖于初值,对噪声数据敏感的问题。然而，这些算法多数是针对单一目标函数和单一相似性度量而设计的，由于单一目标函数的缺点，研究者们也提出了基于多目标进化算法的聚类方法。文献[12]提出的MOCK就是一种经典的多目标进化聚类算法，它将类内的紧凑型和邻居的连接性作为两个目标同时优化。文献[13]中提出的MODEFC算法使用的两个目标分别是FCM算法和XB指标。文献[14在经典差分进化的基础上，提出了一种基于空间距离的多目标差分进化算法(SD-MODE)。然而现有的多目标进化聚类算法通常基于单一距离空间而设计，以欧氏距离最为常见，对超球型数据效果比较好，但是对非超球型效果并不理想。因此设计一种基于多距离度量以及多目标进化算法聚类框架有非常重要的意义。针对上述两个问题,本文提出了一种基于多目标进化算法的多距离聚类算法,该算法使用多目标算法作为优化算法,可以极大地避免产生局部最优解。并将多种距离度量作为多个目标函数加入到算法框架中，使其能对多种数据结构并行聚类，既能处理超球型数据又能处理非超球型数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关工作",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1聚类 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "令 $X = \\{ x _ { 1 } , . . . , x _ { \\mathrm { n } } \\}$ 表示具有 $\\mathfrak { n }$ 个样本的数据集。其中$\\boldsymbol { x } _ { i } = \\{ x _ { i , 1 } , x _ { i , 2 } , . . . , x _ { i , d } \\}$ 是含有d维特征的样本向量。聚类将X划分",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "到 $C = \\{ C _ { 1 } , . . . , C _ { k } \\}$ 类中，满足",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { 1 } \\cup C _ { 2 } \\cup . . . , \\cup C _ { k } = X\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { i } \\cap C _ { j } = \\emptyset , i , j = 1 , . . . , k , i \\neq j\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { i } \\neq \\emptyset , i = 1 , . . . , k\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "K-means 算法是一种比较经典的聚类算法，其基本流程为：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)在 $\\boldsymbol { \\underline { X } }$ 中任意选择 $\\textbf { k }$ 个对象作为初始聚类中心c={cc}，k为聚类的数目；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)计算每个数据对象与聚类中心的距离，并根据最近距离将数据点分别划分到不同的类中 $c$ ：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c)重新计算每个聚类的类中心 $\\boldsymbol { c }$ ;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "d)循环b)c)直到每个类中心不再发生变化。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "该算法由于其简单易行已受到研究者的广泛使用，但其也具有一些局限性：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)由于本算法的初始聚类中心是随机选择的，不同的初始中心获得的聚类结果也有所不同常会使算法陷入局部最优。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)本算法使用欧氏距离作为数据样本间的距离度量，对超球型数据聚类效果较理想，对非超球型数据聚类并不好。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2多目标进化算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一个具有 $\\mathfrak { n }$ 个决策变量， $\\mathrm { ~ m ~ }$ 个目标的多目标进化算法问题可定义为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ { F ( x ) = ( f _ { 1 } ( x ) , \\Lambda , f _ { m } ( x ) ) ^ { T } \\nonumber } \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $x = \\{ x _ { 1 } , \\Lambda , x _ { n } \\} \\in \\Omega$ 表示 $\\mathfrak { n }$ 个决策变量，$f _ { i } : x \\to R ( i = 1 , \\Lambda \\ , m )$ 为第 $\\mathbf { i }$ 个目标函数。各个目标之间一般相互冲突，一个解对于一个目标可能是最好的，但是对于另外一个目标或许是最差的。一般情况下，多目标优化的解并不是一个解，而是被称为Pareto 最优解集的集合。在此给出几个重要定义：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义1可行解。满足某线性规划所有的约束条件（指全部前约束条件和后约束条件）的任意一组决策变量的取值，都称为该线性规划的一个可行解。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义2可行解集合。所有可行解构成的集合。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义3Pareto支配。假设 $x _ { a } , x _ { b } \\in \\Omega$ 是满足约束函数的两个解，称 $x _ { a }$ 支配 $x _ { b }$ 当且仅当 $\\forall _ { i } = 1 , 2 , \\Lambda$ 5 $m$ ，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义4Pareto 最优解。如果一个解 $x ^ { * }$ 被称之为Pareto 的最优解当且仅当x∈Ω,都有xx",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义5Pareto最优解集。Pareto 最优解集是Pareto 最优解的集合,Pareto 最优解X定义为$X = \\{ x ^ { * } \\in \\Omega \\vert \\lnot \\exists _ { x } \\in \\Omega , f ( x ^ { * } ) \\pi f ( x ) \\}$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义6Pareto 前沿面。Pareto 最优解集在函数空间上对应的曲面，即为Pareto最优解，简称 ${ \\boldsymbol { P } } { \\boldsymbol { F } } ^ { * }$ 。${ P F } ^ { ^ { * } } = \\{ f ( x ) = f _ { 1 } ( x ) , f _ { 2 } ( x ) , . . . . , f _ { m } ( x ) | x \\in X \\} \\ \\mathrm { ~ , ~ }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RMMEDA算法是一种经典的多目标优化算法。其基本思想为建立若干个 $\\mathrm { m } { - } 1$ 维流形分布的概率模型以逼近整个Pareto",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "集。其基本流程为：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)另进化代数 $\\scriptstyle \\mathbf { g } = 0$ ，随机生成初始种群Pop(g)并且计算每个个体的适应度函数F；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)建立 $\\mathrm { P ( g ) }$ 的概率分布模型，N表示N个解;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)根据概率模型产生新的解集R，计算R的适应度函数;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)从R和Pop(g)中选择NP个个体，使用非支配排序策略生成子代 $\\mathrm { P o p ( g ^ { + } l ) }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e)判断是否满足停止规则，如果满足转向 step6,否则 $\\scriptstyle \\mathbf { g } = \\mathbf { g } + 1$ 重复 ${ \\mathsf { b } } ) { \\mathsf { \\sim } } { \\mathsf { e } } _ { , } ^ { \\mathsf { \\backslash } }$ ）",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "f)返回 $\\mathrm { P o p ( g ) }$ 的非支配解集，形成PS前沿。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "具体算法可参考文献[15]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 算法模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "针对传统聚类算法在处理非超球簇时存在的不足，本文提出了一种基于多目标进化算法的多距离聚类框架。该框架可以将多种距离有机融合到一个算法框架中，使用该框架可获得含有两种距离的聚类结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1算法主要步骤",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MOMDC的算法流程图如图1所示。该算法主要包括三个部分，分别为数据预处理、进化算法聚类以及最终聚类结果显示。聚类预处理阶段将数据集进行预分类及合并，该步骤通过降低数据点的规模来降低算法时间复杂度；进化算法聚类为该算法的核心阶段，其通过染色体编码、进化算子迭代和目标函数评估来寻找最佳聚类；最终将最佳聚类结果挑选出。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9977bf635828ca45617a974c714c0e713adebccde38aa8952849f120b17fbe3d.jpg",
+        "img_caption": [
+            "图1MOMDC 算法流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 数据预处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本节主要将数据划分为多个小的子类来降低算法的时间复杂度，所以需要对数据进行预聚类。由于本文使用两种距离对数据聚类，所以也需要使用两种距离做预聚类。首先在两种距离空间中分别聚类，然后将同属一类的样本对放入同一子类中。在此使用的两种距离为欧氏距离和Path距离[4]，欧氏距离可以有效的发现数据中的超球簇，Path距离可以发掘某种不规则地",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分布。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1欧氏空间预聚类 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "首先使用欧氏距离中对数据预聚类。在此使用FCM作为聚类算法，如式(2)所示。由于预分类的类别数需要提前设定，为了体现本算法的自适应性，使用CS指标自动检测最佳聚类数目，CS 指标如式(3)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { { J _ { \\mathit { \\Pi } _ { f c m } } } = \\sum _ { i = 1 } ^ { m _ { 1 } } { \\sum _ { j = 1 } ^ { n } { { u _ { i j } } ^ { m } } d ( c _ { i } , x _ { j } ) ^ { 2 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { c s } = \\frac { \\displaystyle \\frac { 1 } { m _ { 1 } } \\sum _ { i = 1 } ^ { m _ { 1 } } \\{ \\frac { 1 } { | \\mathbf { C } _ { i } | } \\sum _ { \\boldsymbol { x } _ { j } \\in C _ { i } } \\operatorname* { m a x } _ { \\boldsymbol { x } _ { k } \\in C _ { i } } \\{ d ( \\boldsymbol { x } _ { j } , \\boldsymbol { x } _ { k } ) ^ { 2 } \\} \\} } { \\displaystyle \\frac { 1 } { m _ { 1 } } \\sum _ { i = 1 } ^ { m _ { 1 } } \\{ \\operatorname* { m i n } _ { j \\in m _ { 1 } } \\{ d ( \\boldsymbol { c } _ { i } , \\boldsymbol { c } _ { j } ) ^ { 2 } \\} \\} }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $m _ { 1 }$ 表示聚类数目， $n$ 表示样本点数目， $\\mathrm { , m }$ 表示一个隶属度的因子，一般取2， $C _ { i }$ 表示第 $i$ 类所有数据点， $c _ { i }$ 表示第 $i$ 类的中心， $\\textstyle d ( , )$ 为距离测度。该模块结束后可获得一组子类$C { = } \\{ C _ { r } , r { = } 1 , . . . , m _ { 1 } \\} _ { } ,$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2Path空间预聚类 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用Path距离对数据进行预分类。由于Path距离描述的是任意两个样本之间的关系，需要计算任意两点之间的Path 距离，形成一个距离矩阵，再使用NCUT算法[4]对Path 距离矩阵进行预分类。在此也需要自动确定预分类的分类数目，使用式(4)来检测最佳聚类数目。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ = { \\sum } _ { i = 1 } ^ { k } [ \\frac { L ( P _ { i } , P _ { i } ) } { L ( X , X ) } - ( \\frac { L ( P _ { i } , X ) } { L ( X , X ) } ) ^ { 2 } ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $P _ { i }$ 表示第 $i$ 类的包含的数据点， $X$ 表示所有数据， $L ( P _ { i } , P _ { i } )$ 表示同一类中，各元素之间的距离 ${ \\mathcal { , L } } ( X , X )$ 则表示所有元素之间的距离 $. L ( P _ { i } , X )$ 表示数据与在不同类中其他元素的距离，$L ( P _ { i } , P _ { i } ) / L ( X , X )$ 表示数据与同类中其他样本的相关性，而$L ( P _ { i } , X ) / L ( X , X )$ 表示某类中的各个点分别与其他所有的样本之间的相关性。该模块结束后可获得一组子类 $P { = } \\{ P _ { k } , k { = } 1 , { \\ldots } , m _ { 2 } \\}$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.3预聚类结果合并 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "该模块的主要工作为将两种相似性测度中获得的聚类结果进行合并。将两种预聚类时都属于同一类的样本对放在同一类中。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "合并的原理为如果两个数据点按FCM聚类的结果和谱聚类的结果都为同一类，则这两个数据点为同一类，反之，则为不同的类数。若预聚类数目为 $\\mathbf { m } _ { 1 }$ 和 $\\mathbf { m } _ { 2 }$ ，则合并后的聚类数目$r { < } { = } m _ { 1 } { ^ * } m _ { 2 }$ 类。合并之后会得出一个新的聚类中心集合$M = \\{ M _ { q } , q { = } 1 , . . . , r \\}$ 。合并的算法伪代码如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "输入： ${ \\mathsf { x } } , { \\mathsf { c } } , { \\mathsf { P } }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "输出: ${ \\bf M } { = } \\{ { \\bf M } _ { \\mathrm { q } } , { \\bf q } { = } 1 , { \\ldots } , { \\bf r } \\}$ 聚类合并结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "初始化：数据集 $X = \\{ x _ { i } , i = 1 , . . . n \\}$ ；欧氏距离预分类集合 $C = \\{ C _ { r } , r = 1 , . . . m _ { 1 } \\}$ ；Path距离预分类集合P={P,k=1,△,m}M={x}Q=M",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.for i=1 to n do ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. for j=i+1 to $\\mathfrak { n }$ do ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.if $x _ { i } \\notin Q \\Lambda x _ { j } \\notin Q$ then; ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "//如果 $\\mathbf { x } _ { \\mathrm { { i } } }$ 和 $\\mathbf { x } _ { \\mathrm { j } }$ 都不在Q集合中，说明这两个样本还未被遍历",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 ${ \\mathsf { q } } = { \\mathsf { q } } + 1 ; { \\mathsf { M } } _ { \\mathbb { q } } = \\{ { \\mathsf { x } } _ { \\mathrm { i } } \\}$ 先将 $\\mathbf { x } _ { \\mathrm { { i } } }$ 放入一个新的Mq 类中  \n5. if $( \\exists C _ { r } , s , t , x _ { i } , x _ { j } \\in C _ { r } ) \\Lambda ( \\exists P _ { k } , s , t , x _ { i } , x _ { j } \\in P _ { k } )$ then  \n//如果 $\\mathbf { x } _ { \\mathrm { { i } } }$ 和Xj既被欧氏距离预分类到一个子类中也被Path 距离预分类到一个子类中  \n6. M=MqY{xj};将xj放入xi所在的子类Mi中  \n7. Q=QYMi；设置Mi为已遍历样本  \n8. else $\\mathbf { i } \\mathsf { f } \\ ( x _ { i } \\in Q \\Lambda x _ { j } \\not \\in Q )$ then",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "//如果 $\\mathbf { x } _ { \\mathrm { { i } } }$ 在Q集合中并且 $\\mathbf { x } _ { \\mathrm { j } }$ 不在 $\\supseteq$ 集合中，说明 $\\mathbf { x } _ { \\mathrm { { i } } }$ 已被遍历， $\\mathbf { x } _ { \\mathrm { j } }$ 未被遍历",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "9. $\\mathbf { i } \\mathsf { f } \\ ( \\exists C _ { r } , s , t , x _ { i } , x _ { j } C _ { r } ) \\Lambda ( \\exists P _ { k } , s , t , x _ { i } , x _ { j } \\in P _ { k } )$ then//如果 $\\mathbf { x } _ { \\mathrm { { i } } }$ 和 $\\mathsf { x } _ { \\mathrm { j } }$ 既被欧氏距离预分类到一个子类中也被Path 距离预分类到一个子类中",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "10. find $M _ { { \\boldsymbol { p } } } { \\boldsymbol { s } } , t , x _ { i } \\in M _ { \\boldsymbol { p } }$ ；寻找 $\\mathbf { x } _ { \\mathrm { { i } } }$ 所在的子类Mp  \n11. M=MY{xj};将xj放入子类Mp中  \n12. else if( $x _ { i } \\notin Q \\Lambda x _ { j } \\in Q$ ）then",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "//如果 $\\mathsf { x } _ { \\mathrm { j } }$ 在Q集合中并且 $\\mathbf { x } _ { \\mathrm { i } }$ 不在 $\\textsf { Q }$ 集合中，说明 $\\mathsf { x } _ { \\mathrm { j } }$ 已被遍历，Xi未被遍历",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "13. （204 $\\mathbf { i } ^ { \\mathsf { f } } \\left( \\exists C _ { r } , s , t , x _ { i } \\in C _ { r } \\right) \\Lambda ( \\exists P _ { k } , s , t , x _ { i } \\in P _ { k } )$ then   \n14. find $M _ { { \\boldsymbol { p } } } , s , t , x _ { j } \\in M _ { { \\boldsymbol { p } } }$   \n15 $M _ { \\mathit { p } } = M _ { \\mathit { p } } \\cup \\{ x _ { i } \\}$   \n16 j=j+1   \n17 i=i+1   \n18. 返回最终合并子类集M={Mq,q=..,r} ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3多目标进化聚类算法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本模块主要通过多目标进化算法框架同时对欧氏距离和Path 距离中进行并行聚类。需要考虑染色体编码、目标函数设置、进化算子设置和挑选最佳Pareto点，其中前两者为主要考虑的部分。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.1染色体编码",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "预处理合并后，获得一组预聚类结果 $\\{ \\mathbf { M } _ { 1 } ^ { }$ ， $\\mathbf { M } _ { 2 } \\boldsymbol { \\Lambda } \\mathbf { M } _ { \\mathrm { r } } \\}$ ,接下来需要对该 $\\boldsymbol { r }$ 个子类划分成 $\\mathbf { k }$ 个类{MC,， $\\mathbf { M C } _ { 2 } \\boldsymbol { \\Lambda } \\mathbf { M C } _ { \\mathrm { k } } \\mathbf { ) }$ 中，在此使用实数对染色体编码，染色体可表示为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR = \\{ { \\bf R } _ { 1 } , ~ { \\bf R } _ { 2 } , \\Lambda ~ , { \\bf R } _ { \\mathrm { r } } \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $R _ { \\mathrm { i } } \\in ( 0 , 1 ] ,$ $\\mathrm { i } = 1 , 2 , \\Lambda$ ,r， $L ( M _ { i } ) = \\lceil R _ { i } ^ { * } k \\rceil$ 表示 $M _ { i }$ 所属的类标签。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.2目标函数设置 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "该模块主要定义两个适应度函数，第一个适应度函数fi是基于欧氏距离而设计，第二个适应度函数 $f _ { 2 }$ 基于Path 距离设计。对于fi，本文首先计算子类{M， $\\mathbf { M } _ { 2 } \\boldsymbol { \\Lambda } \\mathbf { M } _ { \\mathrm { r } } ^ { \\mathrm { ~ \\tiny ~ { ~ \\cdot ~ } ~ } }$ 的每个类中心$\\{ \\mathrm { m } _ { 1 } , \\mathrm { m } _ { 2 } , . . . , \\mathrm { m } _ { \\mathrm { r } } \\}$ ，如式(6)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { i } = { \\frac { 1 } { \\vert M _ { \\mathrm { i } } \\vert } } \\sum _ { x \\in M _ { \\mathrm { i } } } x\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "接下来主要对类中心操作，将类中心 $\\{ m _ { l } , m _ { 2 } , . . . , m _ { r } \\}$ 划分到 $\\mathbf { k }$ 个类中。每个类 $M C _ { \\lceil R _ { \\mathrm { i } } * _ { \\mathrm { k } } \\rceil }$ 可表示为如式(7)所示",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { M C _ { \\left| R _ { \\mathrm { i } } * \\mathbf { k } \\right| } = M C _ { \\left| R _ { \\mathrm { i } } * \\mathbf { k } \\right| } \\cup m _ { \\mathrm { q } } } } \\\\ { { i f \\ L ( M _ { q } ) = \\left| R _ { i } * k \\right| } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "解码后，每个类的类中心mci表示为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm c _ { i } = \\frac { 1 } { \\vert M C _ { \\mathrm { i } } \\vert } \\sum _ { x \\in M C _ { \\mathrm { i } } } x\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "则目标函数1为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { 1 } = f _ { E } = \\sum _ { j = 1 } ^ { k } \\sum _ { l ( M _ { i } ) = j } \\parallel m _ { i } - m c _ { j } \\parallel\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于目标函数2，使用Path距离计算两个子类之间的距离关系。由于Path距离属于路径连通性距离，所以使用两个子类之间的最短距离作为之间的距离，如图2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce966a1ff633b1810e8bd212341e89bfed252782d1dd3443ce4df014963d11ff.jpg",
+        "img_caption": [
+            "图2类间距离表示图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$d$ 为 $\\mathbf { M } _ { 1 }$ 类和 $\\mathbf { M } _ { 2 }$ 类所有点之间最短的距离，在此使用 $d$ 作为两类的类间距离。目标函数2f2如式(10)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { 2 } = f _ { P } = \\sum _ { i = 1 } ^ { \\mathrm { k } } L ( M C _ { i } , M C _ { i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于目标函数1fi是基于欧式距离的紧凑度而设计的，目标函数2f是基于Path距离的紧凑度而设计的。同时优化这两个目标函数既可考虑到欧式空间的聚集性，又可以考虑到Path空间的聚集性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.3进化算子",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文进化算子使用RMMEDA算法中的进化算子，在此不做详细介绍。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.4挑选最佳聚类结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "最后生成的Pareto集中，由于有多个解，如何选取出最好的解也是一个问题。对于在海量结果解的情况下，人工方式不能完成。但本实验最终的Pareto集中解并不多，因此，通过解码画图显示出其对应的聚类结果，再从所有的解集中人工找出分类结果最好的情况。虽然降低了效率，但也能成功解决问题。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 实验结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了描述提出算法的有效性，本节将提出的算法与现有的几种算法进行对比。对比算法包括Kmeans算法，FCM算法，基于欧氏距离的 NCUT 算法(NCUTE)[4]，基于 Path 距离的NCUT 算法(NCUTP)，以及基于密度的 DBSCAN 算法[3]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目标对聚类效果的评价指标有很多，如NMI指标、F-score指标以及Rand指标。本实验中聚类精度使用Rand指标进行评估，Rand值越高，说明聚类效果越好，当Rand $_ { , = 1 }$ 时表明所有的样本都划分到正确的类别中。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1算法参数设置 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "首先对算法使用的参数做简单说明，对于MOMDC，种群大小为600，迭代次数为2500。对于DBSCAN算法，扫描半径eps为0.9534，最小包含点数（minPts）为5。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2测试数据设置",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文使用6个测试数据对提出算法进行有效性测试。由于提出算法的优势在于既考虑了欧氏距离又考虑了Path距离，既能对球形簇聚类又能对不规则形状数据聚类。所以模拟的测试集既有球形簇数据（XOR）和(ARC)，又有非球形簇（LFF）和（LTS）。另外将两个UCI数据IRIS和WINE加入到测试数据中。部分测试数据如图3(a)\\~(d)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/22c0e01e9b34ca90f9da8c129cf23f4d483033fd312e027ba66968070a36d750.jpg",
+        "img_caption": [
+            "图3部分测试数据集"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "所有测试数据集的数据属性如表1所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c02e91c2dc94af71efd811f8b85e1db179d2515bd5402318dd37130a92707d84.jpg",
+        "table_caption": [
+            "表1测试数据集属性"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>DataSets</td><td>DimenN</td><td>DataN</td><td>ClusterN</td></tr><tr><td>XOR</td><td>2</td><td>240</td><td>4</td></tr><tr><td>ARC</td><td>2</td><td>240</td><td>2</td></tr><tr><td>LFF</td><td>2</td><td>618</td><td>2</td></tr><tr><td>LTS</td><td>2</td><td>160</td><td>2</td></tr><tr><td>WINE</td><td>13</td><td>178</td><td>3</td></tr><tr><td>IRIS</td><td>4</td><td>150</td><td>3</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中：DimenN表示维数，DataN表示样本点数目，ClusterN表示正确的聚类数目。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3 MOMDC聚类展示",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本节选取XOR、ARC和LTS数据集类展示Pareto集以及对应的聚类结果。其中每个Pareto图中的fi和f分别表示欧氏距离聚类和Path距离聚类。Gen表示迭代次数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "XOR对应的Pareto 图以及对应的聚类结果如图4所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b63a138c87c083e0f09f2a93812f725b7bdad020802f5f8ef39fceb854e58714.jpg",
+        "img_caption": [
+            "图4XOR对应的Pareto 解集及其聚类结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过图4可以得出，Pareto 图上的解集只有一个，这表明该数据集在两种距离空间中都可以获得比较好的结果。结果值如表2所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/7a17e675c620ab389c5628a6dee21d4e3ded9b91568fe9912ad4a23bb02dc60a.jpg",
+        "table_caption": [
+            "表2XOR的Pareto 集对应的聚类结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>f</td><td>f</td><td>Rand</td></tr><tr><td>1 0.08</td><td>9.99e-08</td><td>1.00</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ARC对应的Pareto图以及对应的聚类结果如图5所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef9672d8f20043a3b69b69a6ca20d30d73a804f1433bb0db8e342db6595eb926.jpg",
+        "img_caption": [
+            "图5ARC对应的Pareto 图以及聚类结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在图5(a)中，Pareto有4个点，此处选取两个具有代表性的点做分析。其中图5(b)是第1个点的聚类结果，图5(c)是第3个点对应的聚类结果。图5(b)聚类结果并不完全正确，只有$92 \\%$ 的点聚类结果正确，图5(c)聚类结果完全正确。结果值如表3所示。这表明提出的算法在超球型数据中可以获得良好的聚类效果。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/cf0f9008a993374acad0a7267d2ff3984d0c3002e1e6abbe4298fe9f56f93450.jpg",
+        "table_caption": [
+            "表3ARC 的Pareto 集对应的聚类结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>f</td><td>f</td><td>Rand</td></tr><tr><td>1 10.13e1</td><td>10.02e5</td><td>0.92</td></tr><tr><td>2</td><td>54.60e2</td><td>4.02e4 0.99</td></tr><tr><td>3 73.14e2</td><td>2.72e4</td><td>1.00</td></tr><tr><td>4 19.82e3</td><td>9.68e3</td><td>0.52</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "LTS对应的Pareto对应的结果如图6所示：",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/06258ce5d1ff2ee063379e965225a51435339e899d0183a3730786c8caab24fc.jpg",
+        "img_caption": [
+            "图6LTS 对应的Pareto 图以及聚类结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在图6(a)中，Pareto 图中有3个Pareto 点；图6(b)是第 2个点对应的聚类结果，所有的数据都分到同一类中，聚类正确率只有 $50 \\%$ ；图6(c)是第1个对应的聚类结果，聚类正确率为$50 . 5 \\%$ ；图6(d)是3个点对应的聚类结果。具体结果值如表4所示。通过该测试数据可以得出，MOMDC在非超球型数据中可",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以获得比较好的聚类效果。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/774b558532be29602fa553537d6ee50d42d609cdad41081301431dae4d8a7e64.jpg",
+        "table_caption": [
+            "表4LTS的Pareto 集对应的结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>f1</td><td>f</td><td>Rand</td></tr><tr><td>1</td><td>0.07e-01</td><td>6.21e-04</td><td>0.51</td></tr><tr><td>2</td><td>0.01</td><td>3.11e-04</td><td>0.50</td></tr><tr><td>3</td><td>0.06</td><td>5.74e-07</td><td>1.00</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4对比分析结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本节分别用表5中的Kmeans、FCM、NCUT、DBSCAN算法与本文提出来的算法对六个数据集测试进行比较，评判指标为Rand指标。测试结果如表5所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/181a772442af6be25c29f1651897b56499ffac68f54da5e0a45dc5203a350b5e.jpg",
+        "table_caption": [
+            "表56种聚类算法准确度比较 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>DataSets</td><td>Kmeans</td><td>FCM</td><td>NCUTE</td><td>NCUTP</td><td>DBSCAN</td><td>MOMDC</td></tr><tr><td>XOR</td><td>1.00</td><td>1.00</td><td>1.00</td><td>0.85</td><td>0.98</td><td>1.00</td></tr><tr><td>ARC</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>LFF</td><td>0.98</td><td>0.91</td><td>0.83</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>LTS</td><td>0.53</td><td>0.51</td><td>0.50</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>WINE</td><td>0.66</td><td>0.71</td><td>0.43</td><td>0.71</td><td>0.34</td><td>0.76</td></tr><tr><td>IRIS</td><td>0.71</td><td>0.88</td><td>0.35</td><td>0.82</td><td>0.78</td><td>0.90</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "实验结果表明Kmeans、FCM以及NCUTE三种基于欧氏空间的算法在XOR和ARC这两种球形簇的数据集，都能得到很好的聚类结果，但是对于LFF和LTS这两种非球形簇的数据集聚类结果却不理想。对两种UCI数据集聚类结果也不是很好，主要原因在于这三种算法都是基于欧氏距离设计的，所以对超球型数据效果比较好。反之NCUTP和DBSCAN对非超球型的数据集聚类结果理想，主要原因在于，这两种算法使用适合数据分布的距离度量，所以对非超球型数据可以获得好的聚类效果。MOMDC能对超球型和非超球型数据都有很好的聚类效果。尽管对UCI数据不能完全正确的聚类，但聚类结果精度比其他5 种聚类算法都好。其原因主要在于，(1)提出的算法将欧氏距离和Path距离融合在同一个聚类框架中，可根据不同的数据分布自动选择合适的距离度量；(2)提出的算法是一种群体优化算法，所以在寻找全局最优时，稳定性比较好。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文提出了一种基于多相似性多目标进化的聚类算法，主要难点在于如何充分利用欧氏距离和Path距离，并将其有机融合，本文先用FCM 算法和谱聚类算法分别在基于欧式距离和Path距离的基础上进行预分类，以便通过减少数据量来降低时间复杂度，融合得出最好的预分类数目；而后设计基于多目标进化算法的多距离融合框架，迭代获得最好的Pareto集。此方法弥补了大多数聚类算法容易陷入局部最优以及只能处理超球型数据或非超球型数据的缺陷。该算法既能处理球形簇数据集和非球形簇数据集。但该算法在提高聚类算法通用性的同时，",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "也增加了算法的时间复杂度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "该框架还处于研究的初步阶段，对该框架的研究还有较大的改进空间，主要包括：a)如何降低算法的时间复杂度；b)如何在获得的Pareto集中自动选择合适的聚类结果;c)如何自动确定聚类的类数目是接下来研究的重点。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]贺玲，吴玲达，蔡益朝．数据挖掘中的聚类算法综述[J].计算机应用 研究,2007,24 (1): 10-13.   \n[2]Mei JP, Chen L.Fuzzy clustering with weighted medoids for relational data [J].Patterm Recognition,2010,43 (5): 1964-1974.   \n[3]Syzhou Fud.FDBSCAN: a fast DBSCAN algorithm[J]. Journal of Software, 2000,11 (6): 735-744.   \n[4]Shi J, Malik J.Normalized cuts and image segmentation[J]. IEEE Trans on Pattern Analysis& Machine Intelligence,2002,22(8): 888-905.   \n[5]Fischer B,Buhmann JM.Path-based clustering for grouping of smooth curves and texture segmentation [J]. IEEE Trans on Pattern Analysis & Machine Intelligence,2003,25 (4): 513-518.   \n[6] 公茂果，王爽，马萌，等．复杂分布数据的二阶段聚类算法[J].软件 学报,2011,22 (11): 2760-2772.   \n[7]De Carvalho FDA T,Lechevaller Y,De Melo F M.Partitioning hard clustering algorithms based on multiple dissimilarity matrices [J].Pattern Recognition,2012,45 (1): 447-464.   \n[8]Rao A S, Ramakrishna S,Babu PC.MODC: multi-objective distance based optimal document clustering by GA[J]. Indian Journal of Science and Technology.2016,9 (28): 1-8   \n[9]Chung H S,Alonso J. Mutiobjective optimization using approximation model-based genetic algorithms [C]//Proc of the 10th AIAA//ISSMO Symposium on Multidisciplinary Analysis and Optimization. 2006: 3-4   \n[10]王洪波．基于差分进化计算的聚类算法研究[D].济南：山东师范大学, 2012.   \n[11]杨洋．基于差分进化的模糊C-均值聚类算法研究[D].成都：电子科技 大学,2015.   \n[12] Handl J,Knowles J.Exploiting the Trade-off: the benefits of multiple objectives in data clustering [C]//Lecture Notes in Computer Science.2005: 547-560.   \n[13] Saha I,Maulik U,Plewczynski D.A new multi-objective technique for diferential fuzzy clustering [J].Applied Soft Computing,2011,11 (2): 2765-2776.   \n[14]曾映兰，伍军，郑金华．基于空间距离的多目标差分进化算法[J].计 算机应用研究,2009,26(2):57-60.   \n[15] ZhangQ，Zhou A，Jin Y.RM-MEDA:a regularity model-based multiobjectiveesti-mation of distribution algorithm [J].IEEE Trans on Evolutionary Computations,2008,12(1):41-63. ",
+        "page_idx": 5
+    }
+]

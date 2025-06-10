@@ -1,0 +1,777 @@
+[
+    {
+        "type": "text",
+        "text": "带参数辨识功能的三电平变换器高效模型预测控制方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张永昌 蔡倩 彭玉宾 杨海涛（北方工业大学电力电子与电气传动北京市工程研究中心北京100144）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/090e3b4318108d64e9b16a749ebd3107264dd1d11baae9e004a1c746e3ab21af.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张永昌男 1982年生，博士，研究员，研究方向为电力电子与电机控制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：三电平PWM变换器在工业领域尤其是中高压大功率场合得到了广泛应用。在实际运行中，受现场环境及温度等因素的影响，系统的参数可能会发生改变，从而影响控制效果。模型预测控制具有优秀的多目标优化控制能力以及灵活的约束处理能力，在三电平变换器控制领域得到了广泛重视和研究。现有的三电平PWM变换器模型预测控制方法在获得最优电压矢量时需要大量的计算并且依赖于精确的电感参数，存在计算量大和鲁棒性差等问题。针对以上问题，本文首先提出了一种改进的模型预测控制方法，极大地减小了系统选取最优电压矢量时的计算量，进一步通过引入基于递推最小二乘法的电感在线辨识算法，提高了系统的参数鲁棒性。仿真和实验结果表明，本文提出的简化模型预测控制算法具有良好的动静态性能以及参数鲁棒性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：三电平PWM变换器模型预测控制电感参数辨识递推最小二乘法中图分类号：TM351",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/45911d813bb58dc346851c139f5a9251fcde05be18ddb9f7e7ac0ccd8b869171.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蔡倩女1993年生，硕士研究生，研究方向为三电平变换器控制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AnEfficient Model Predictive Control for Three-Level Converters With the Function of Parameter Identification ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhang Yongchang Cai QianPeng YubinYang Haitao (Power Electronics and Motor Drive Engineering Research Center of Beijing North China University of TechnologyBeijing100144China ） ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Three-level PWM converters have been widely used in the industrial field especially in the high voltage and high power applications. In practical applications, the parameters of the system may change due to the variation of working environment and temperature,which will deteriorate the control performance.Model predictive control (MPC) has the merits of multivariable control and flexibility to handle various constraints, which receives wide study and attention in the area of three-level converter control. The existing MPC for three-level PWM converters requires many calculations and accurate inductance value to select the optimal voltage vector, which has the problems of huge computation and poor robustness.To solve these problems,an efficient MPC method is proposed in the paper, which greatly reduces the computational burden when selecting the optimal voltage vector.By further introducing the online inductance identification technique,the system robustness is improved.Both simulation and experimental results confirm the effectiveness of the proposed methods in terms of steady-state performance, dynamic response and robustness against parameter variation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Three-level PWM converters,model predictive control, inductance parameters identification,recursive least-squares algorithm ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着电力电子技术的不断发展，三电平变换器在电力系统中的柔性直流输电、交流电动机的变频调速、电力牵引及可再生能源发电等工业领域得到了广泛的应用[1-3]。相比于传统的两电平变换器，三电平变换器由于增加了直流侧电平阶数，在高压大功率场合更有优势。在相同开关频率下可使网侧电流更加正弦，谐波含量更低，同时由于电平数目的增多，在直流母线电压相同的情况下，开关器件所受的电压应力降低，从而可以提高系统的效率[4]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于三电平PWM变换器，国内外学者提出了多种控制理论和方法。提出较早并广泛应用的是电网电压定向控制（VoltageOrientedControl,VOC）[5]，它通过旋转变换将网侧三相电流解耦成有功电流和无功电流分量，从而分别构成有功电流和无功电流的闭环控制。VOC可以获得良好的动态性能以及稳态性能，但是它对电流内环比例积分调节器（Proportional Integral，PI）参数有较强的依赖性[。随着瞬时功率理论的发展，1998年ToshihikoNoguchi提出了直接功率控制（DirectPower Control，DPC）[7]，引起了广泛关注。与VOC不同，DPC不需要电流的旋转变换，省去了内环PI调节器的设计，根据网侧电压的相位、有功及无功功率的误差信号，直接从离线的开关矢量表中选择一个合适的电压矢量对有功和无功进行直接控制，具有结构简单、动态响应速度快等优点[8]。但是，DPC有较高的功率脉动，谐波含量较大，开关频率并不固定。应用于三电平拓扑时由于中性点平衡及电压跳变等问题的限制，使得最优开关矢量表的设计比较困难[9]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着微处理器及数字信号处理技术的发展，模型预测控制理论(ModelPredictiveControl，MPC）逐渐在电力电子和电气传动领域得到越来越多的关注。MPC根据系统的历史信息和未来的输入去预测系统的未来输出，通过一个目标函数对不同的电压矢量进行枚举，选择使目标函数最小的电压矢量，并得到最优的开关序列[10]。相比DPC，模型预测控制不仅表现出类似的快速动态响应，而且在稳态性能上更加出色。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PWM变换器在工作过程中，受现场环境及温度等诸多因素的影响，系统的参数可能会发生改变。在模型预测控制算法中，最优电压矢量的确定对最终的控制性能至关重要，而电感参数直接影响着最优电压矢量的计算。如果不能及时跟踪电感参数的变化，则会对系统的控制效果产生较大影响[1-13]。因此，有必要在控制过程中加入电感参数辨识，以提高系统的参数鲁棒性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，国内外很多学者在离线参数辨识的基础上，结合现代控制理论以及系统辨识理论提出了各种在线参数辨识方法。通常可以采用递推最小二乘法、模型参考自适应法以及扩展卡尔曼滤波法等。最小二乘法最早是由KarlGauss为预测行星轨道而提出的，如今已成为一种广泛的参数辨识方法[14-15]。最小二乘法理论因其概念简单，计算量较小，具有一致性、有效性和无偏性等统计特性，在实际工程中得到了广泛的使用，很适用于PWM变换器电感参数的在线辨识[16]。相比于最小二乘法，模型参考自适应参数辨识方法利用系统的数学模型对网侧电流进行预测[17]，并根据采样到的实际电流值实时估算网侧电感值，具有动态响应快及鲁棒性强等特点，但是模型参数自适应方法的设计过程相对复杂[18]。扩展卡尔曼滤波法作为一种递推估算法[19]，实际迭代过程中需要大量的矩阵运算，其计算较为繁琐，对于PWM变换器电感参数辨识并不实用。除了上述辨识算法外，还有人工智能法，如神经元网络、遗传控制及模糊控制等算法[20-21]，但这类算法需要进行极为复杂的建模，不但会使控制系统变得复杂还会占用控制器大量的运算资源，在实际的电感参数辨识中并不适用，目前尚处于理论研究阶段。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "传统的三电平PWM变换器模型预测控制算法需要27次功率预测，计算量较大。本文提出一种改进的模型预测控制方法，基于无差拍控制原理首先计算得到消除功率误差的参考电压矢量，然后再得到离参考电压最近的电压矢量，相比传统的基于27次功率预测的枚举计算，大大减少了计算量。最后，为了提高系统的鲁棒性，进一步引入了基于递推最小二乘法的电感参数在线辨识算法，使得PWM变换器在初始电感参数不准确的情况下仍能获得良好的控制精度和动态性能。仿真和实验结果验证了本文所提方法的有效性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 模型预测控制原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1传统模型预测控制",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在各种模型预测控制方法中，有限控制集模型预测控制（FiniteControlSetModelPredictiveControl,FCS-MPC）凭借其无需调制策略、概念简单易于理解和可进行多目标协调控制等诸多优点得到了广泛的研究和应用。FCS-MPC用于三相PWM变换器时按照控制的变量可以分为模型预测功率控制(Finite Control Set ModelPredictive Power Control,FCS-MPPC）和模型预测电流控制（FiniteControlSetModelPredictive Current Control，FCS-MPCC）。FCS-MPPC的主要控制目标是使实际有功功率和无功功率能够准确跟踪参考值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如图1所示，对于三电平拓扑来说，还需要控制中性点电位平衡，尽可能保证最小的直流母线电容压差。为了可以同时实现这几个目标，可以在目标函数中包含这几项控制目标，然后根据系统的预测模型，对所有候选电压矢量进行枚举，从中选择出可以使目标函数值最小的电压矢量作为输出。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/25479810df1e7f0d9ff7f59ab0f298c135a673b703cde8c1040fbd953d5c68ff.jpg",
+        "img_caption": [
+            "图1三电平PWM变换器拓扑"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "三电平PWM变换器采用FCS-MPPC时的目标函数定义为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG = \\left| p _ { \\mathrm { r e f } } - p ^ { k + 1 } \\right| ^ { 2 } + \\left| q _ { \\mathrm { r e f } } - q ^ { k + 1 } \\right| ^ { 2 } + K _ { \\mathrm { r } } \\left| \\Delta U _ { \\mathrm { d c } } ^ { k + 1 } \\right|\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中，前两项为有功功率和无功功率的跟踪误差；$K _ { \\mathrm { r } }$ 为调节中性点电位平衡的权重系数； $\\Delta U _ { \\mathrm { d c } } ^ { k + 1 }$ 为直流侧上下两个母线电容的压差。中性点电位平衡控制的影响可通过权重系数 $K _ { \\mathrm { r } }$ 的大小进行增强或减弱。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在 $k + 1$ 时刻，直流母线电容的压差 $\\Delta U _ { \\mathrm { d c } } ^ { k + 1 }$ 可通过下式预测",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta U _ { \\mathrm { d c } } ^ { k + 1 } = \\frac { T } { C } \\Big [ \\Big | S _ { \\mathrm { a } } ^ { k } - 1 \\Big | \\quad \\Big | S _ { \\mathrm { b } } ^ { k } - 1 \\Big | \\quad \\Big | S _ { \\mathrm { c } } ^ { k } - 1 \\Big | \\Big ] \\left( \\begin{array} { l } { i _ { \\mathrm { a } } ^ { k } } \\\\ { i _ { \\mathrm { b } } ^ { k } } \\\\ { i _ { \\mathrm { c } } ^ { k } } \\end{array} \\right) + \\Delta U _ { \\mathrm { d c } } ^ { k }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $S _ { \\mathrm { a } } ^ { k }$ 、 $S _ { \\mathrm { b } } ^ { k }$ 和 $S _ { \\mathrm { c } } ^ { k }$ 为 $k$ 时刻的开关状态函数； $\\Delta U _ { \\mathrm { d c } } ^ { k } =$   \n$\\Delta U _ { \\mathrm { d c 1 } } ^ { k } - \\Delta U _ { \\mathrm { d c 2 } } ^ { k }$ 为 $k$ 时刻直流侧母线电容的压差； $C =$   \n$C _ { 1 } = C _ { 2 }$ 为直流母线电容。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$k + 1$ 时刻复功率 $s$ 的预测值可以表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS ^ { k + 1 } = S ^ { k } + \\frac { t _ { \\mathrm { s c } } } { L } \\Bigg [ \\frac { 3 } { 2 } \\Bigg ( \\left| e ^ { k } \\right| ^ { 2 } - \\nu ^ { * k } e ^ { k } \\Bigg ) - ( R - \\mathrm { j } \\omega L ) \\cdot S ^ { k } \\Bigg ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $t _ { \\mathrm { s c } }$ 代表控制周期；上标“\\*”代表复矢量的共轭。为了实现单位功率因数，无功功率参考值 $q _ { \\mathrm { r e f } }$ 设为零。因此，目标函数式（1）可简化为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG = \\left| p _ { \\mathrm { r e f } } - \\boldsymbol { p } ^ { k + 1 } \\right| ^ { 2 } + \\left| q ^ { k + 1 } \\right| ^ { 2 } + K _ { \\mathrm { r } } \\left| \\Delta U _ { \\mathrm { d c } } ^ { k + 1 } \\right|\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $p ^ { k ^ { + 1 } } = \\operatorname { R e } ( { \\boldsymbol { S } } ^ { k ^ { + 1 } } )$ ； $q ^ { k ^ { + 1 } } = \\operatorname { I m } ( \\mathbf { S } ^ { k ^ { + 1 } } )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于数字系统存在控制延时，所以需要在 $k \\sim$ $k + 1$ 时刻对有功功率和无功功率进行一拍延时补偿，预测得到 $k + 1$ 时刻的功率值。在 $k + 1 \\sim k + 2$ 时刻，预测27个电压矢量对应的目标函数值，并选取出可以使目标函数达到最小值所对应的电压矢量，使得有功功率和无功功率都尽可能地接近给定参考值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "考虑一拍延时补偿的目标函数为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG = \\left| p _ { \\mathrm { r e f } } - { p ^ { k + 2 } } \\right| ^ { 2 } + \\left| q ^ { k + 2 } \\right| ^ { 2 } + K _ { \\mathrm { r } } \\left| \\Delta U _ { \\mathrm { d c } } ^ { k + 2 } \\right|\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $p ^ { k ^ { + 2 } }$ 、 $q ^ { k + 2 }$ 分别为复功率 $S ^ { k + 2 }$ 的实部和虚部，且",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS ^ { k + 2 } = S ^ { k + 1 } + \\frac { t _ { \\mathrm { s c } } } { L } \\Bigg [ \\frac { 3 } { 2 } \\bigg ( \\left| e ^ { k + 1 } \\right| ^ { 2 } - \\nu ^ { * k + 1 } e ^ { k + 1 } \\bigg ) - ( R - \\mathrm { j } \\omega L ) \\cdot S ^ { k + 1 } \\Bigg ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "加入延迟补偿的传统FCS-MPPC的数学表达式为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\begin{array} { r } { \\left\\{ G _ { n } = \\Big | p _ { \\mathrm { r e f } } - p _ { n } ^ { k + 2 } \\Big | ^ { 2 } + \\Big | q _ { n } ^ { k + 2 } \\Big | ^ { 2 } + K _ { \\mathrm { r } } \\Big | \\Delta U _ { \\mathrm { d c } } ^ { k + 2 } \\Big | \\right. } \\\\ { \\left. \\nu _ { \\mathrm { o p t } } = \\operatorname* { m i n } \\{ G _ { n } \\} \\qquad n = 1 , 2 , \\cdots , 2 7 \\qquad \\right.} \\end{array}  } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\pmb { \\nu } _ { \\mathrm { o p t } }$ 为最优的电压矢量。相应的整个系统的控制框图如图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/65bee14a765784cc64f2cb800d55c09c1afaf3c3f2348646033ec8498d46a9cb.jpg",
+        "img_caption": [
+            "Fig.1Topology of a three-level PWMconverter ",
+            "图2传统FCS-MPPC 的控制框图",
+            "Fig.2Control diagram of traditional FCS-MPPC "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2改进的模型预测控制",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于三电平PWM变换器而言，传统的FCS-",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MPPC需要27次功率预测计算，其概念简洁直观、易于理解。然而，由于选择最优电压矢量时需要多次功率预测，控制程序计算量较大，这种算法的弊端在更高电平的拓扑结构中会更加突出。为了降低计算量，本文提出一种高效模型预测控制(EffcientMPPC，E-MPPC)，其特点是用参考电压矢量 $\\pmb { \\nu } _ { \\mathrm { r e f } }$ 代替功率跟踪误差进行最优电压矢量选取，从而省去了27次功率预测计算，大大降低了程序计算量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "E-MPPC中参考电压矢量 $\\nu _ { \\mathrm { r e f } }$ 的计算根据功率无差拍控制的方法得到。将式（6）中的 $\\boldsymbol { S } ^ { k + 2 }$ 用参考复功率 $S _ { \\mathrm { r e f } }$ 代替，重新整理式 (6)，可得参考电压矢量 $\\boldsymbol { \\nu } _ { \\mathrm { r e f } }$ 计算式为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { \\nu } _ { \\mathrm { r e f } } = \\pmb { e } ^ { k + 1 } - \\frac { 2 L } { 3 t _ { \\mathrm { s c } } } \\cdot \\frac { \\left( \\pmb { S } _ { \\mathrm { r e f } } - \\pmb { S } ^ { k + 1 } \\right) ^ { * } } { \\left( \\pmb { e } ^ { \\star } \\right) ^ { k + 1 } } - ( R + \\mathrm { j } \\omega L ) \\pmb { i } ^ { k + 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如果 $k + 2$ 时刻变换器侧的输出电压矢量等于$\\nu _ { \\mathrm { r e f } }$ ，那么复功率 $\\boldsymbol { S } ^ { k + 2 }$ 将完全跟踪到参考值 $S _ { \\mathrm { r e f } }$ ，即实现精确的无差拍控制。然而这种传统的无差拍控制方式难以考虑系统约束，也不易于实现其他控制目标。因此本文在获取 $\\boldsymbol { \\nu } _ { \\mathrm { r e f } }$ 后仍采用基于最小化目标函数的方式确定最优电压矢量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据式（8)，E-MPPC的目标函数可以定义为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG = \\left| \\pmb { \\nu } _ { \\mathrm { r e f } } - \\pmb { \\nu } ^ { k + 2 } \\right| ^ { 2 } + K _ { \\mathrm { r } } \\left| \\Delta U _ { \\mathrm { d c } } ^ { k + 2 } \\right|\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "E-MPPC选择最优电压矢量的数学表达式为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\{ \\begin{array} { l } { G _ { n } = | \\pmb { \\nu } _ { \\mathrm { r e f } } - \\pmb { \\nu } _ { n } ^ { k + 2 } | ^ { 2 } + K _ { \\mathrm { r } } | \\Delta U _ { \\mathrm { d c } } ^ { k + 2 } | } \\\\ { | \\pmb { \\nu } _ { \\mathrm { o p t } } = \\operatorname* { m i n } \\{ G _ { n } \\} \\qquad n = 1 , 2 , \\cdots , 2 7 } \\end{array}  } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将式（6）代入式（10）并重新整理，得 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left\\{ \\begin{array} { l l } { G _ { n } = K \\Bigg ( \\left| p _ { \\mathrm { r e f } } - p _ { n } ^ { k + 2 } \\right| ^ { 2 } + \\left| q _ { n } ^ { k + 2 } \\right| ^ { 2 } \\Bigg ) + K _ { \\mathrm { r } } \\left| \\Delta U _ { \\mathrm { d c } } ^ { k + 2 } \\right| } \\\\ { \\nu _ { \\mathrm { o p t } } = \\operatorname* { m i n } \\left\\{ G _ { n } \\right\\} \\quad \\quad \\quad \\quad n = 1 , 2 , \\cdots , 2 7 } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $K = \\left( \\frac { 2 L } { 3 t _ { \\mathrm { s c } } \\Big | e ^ { ( k + 1 ) } \\Big | } \\right) ^ { 2 }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对比式（7）和式（11)，可以发现改进的E-MPPC和传统的FCS-MPPC在形式上十分类似,二者区别在于改进方法多了一个正增益因子 $K$ 。然而，如果式（9）右侧第一项除以一个增益因子 $K$ 即，如果 $K _ { \\mathrm { r } } = K _ { \\mathrm { r } } / K$ ，那么最小化式（11）就等价于最小化式 (7)，也就是说两种方法最优电压矢量选择将完全一样，但是由式（7）可知改进方法省去了27次功率预测计算，具有较高的计算效率。此外，该方法可以进一步应用到两电平或更高电平拓扑结构中。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3电感参数辨识原理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1递推最小二乘法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "最小二乘法是系统辨识中最基本的方法，它需要将测试的所有数据一次性计算，存储的数据较多，所占用内存较大，适用于离线参数辨识。对于在线参数辨识而言，该方法由于程序计算量较大，并没有得到广泛的使用。为了解决这个问题，降低数据的存储内存，提出了递推最小二乘法。该方法的系统存储内存较小，适用于在线参数辨识，其基本原理为：根据采样到的测量值和上一时刻的辨识参数值，通过迭代公式进行修正并得到当前时刻的辨识参数值，使其计算复杂度大大降低，并成为一种实用的在线参数辨识方法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "一个单变量线性时不变系统，对应 $n$ 次输入变量和输出变量，其方程可表示为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY ( N ) = \\phi ( N ) \\eta ( N )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $Y ( N )$ 为系统输出序列； $\\phi ( N )$ 为输入输出序列； $\\eta ( N )$ 为待辨识参数序列。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "每采样一组新的数据，均对应一组新的输出数据，即",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l } { \\phi ( N + 1 ) = { \\binom { \\phi ( N ) } { \\phi ^ { \\mathrm { T } } ( N + 1 ) } } } \\\\ { { \\it \\Psi } ( N + 1 ) = { \\binom { \\phi ( N ) } { y ^ { \\mathrm { T } } ( n + N + 1 ) } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi ^ { \\mathrm { T } } ( N + 1 ) = \\left( _ { u ( n + N ) , \\cdots , u ( N + 1 ) } ^ { - y ( n + N ) , \\cdots , - y ( N + 1 ) , } \\right) \\circ\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "已知在基本最小二乘法中，待辨识的参数值为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { \\eta } ( N ) = \\Big ( \\phi ( N ) \\phi ^ { \\mathrm { T } } ( N ) \\Big ) ^ { - 1 } \\phi ^ { \\mathrm { T } } ( N ) Y ( N )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "此时辨识的参数值 $\\hat { \\eta }$ 可通过式（14）得到，即$\\hat { \\eta } ( N + 1 ) = \\left( \\phi ^ { \\mathrm { T } } ( N + 1 ) \\phi ( N + 1 ) \\right) ^ { - 1 } \\phi ^ { \\mathrm { T } } ( N + 1 ) Y ( N + 1 )$ (1:",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将式（13）代入式（15）中，可得 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\hat { \\eta } ( N + 1 ) = \\Big [ { \\phi } ^ { \\mathrm { T } } ( N ) \\phi ( N ) + \\phi ( N + 1 ) \\phi ^ { \\mathrm { T } } ( N + 1 ) \\Big ] ^ { - 1 } \\times } \\\\ { \\Big [ { \\phi } ^ { \\mathrm { T } } ( N ) Y ( N ) + \\phi ( N + 1 ) y ( n + N + 1 ) \\Big ] } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了便于分析，令",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL ( N ) = \\left( \\phi ^ { \\mathrm { T } } ( N ) \\phi ( N ) \\right) ^ { - 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "则 ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { L ( N + 1 ) = \\Big ( \\phi ^ { \\mathrm { T } } ( N + 1 ) \\phi ( N + 1 ) \\Big ) ^ { - 1 } } \\\\ & { \\qquad = \\Big [ L ^ { - 1 } ( N ) + \\phi ( N + 1 ) \\phi ^ { \\mathrm { T } } ( N + 1 ) \\Big ] ^ { - 1 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对上式进一步化简，得到",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL ( N + 1 ) { = } \\Big [ I { - } H ( N ) { \\phi } ^ { \\mathrm { { T } } } ( N { + } 1 ) \\Big ] L ( N )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对式（16）进一步化简，可得",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { \\eta } ( N + 1 ) = \\hat { \\eta } ( N ) + H ( N ) \\Big [ y ( n + N + 1 ) - \\phi ^ { \\mathrm { T } } ( N + 1 ) \\hat { \\eta } ( N ) \\Big ]\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\boldsymbol { \\mathit { I } }$ 为 $n$ 阶单位矩阵， $H ( N )$ 表示为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ( N ) { = } L ( N ) \\phi ( N { + } 1 ) \\Bigl [ I { + } \\phi ^ { \\top } ( N { + } 1 ) L ( N ) \\phi ( N { + } 1 ) \\Bigr ] ^ { - 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将采样得到的参数变量代入式(19）～式 (21)进行迭代运算，即可得到系统的辨识参数值。需要指出的是，在利用上述公式进行迭代之前需要知道$L ( N )$ 和 $\\hat { \\eta } ( N )$ 的初值，通常采取的方法是将二者的初值设为固定常数，即",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { L ( 0 ) = I } \\\\ { \\hat { \\eta } ( 0 ) = \\gamma } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\boldsymbol { \\mathit { I } }$ 为单位矩阵；γ为极小的正实数常量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用式（22）所设定的初值及迭代公式式（19）～式（21）进行迭代运算，就可以得到系统参数的辨识值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2三电平PWM变换器辨识模型的建立",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于上述分析，为了辨识三电平PWM变换器的网侧电感值，则需要将系统数学模型转换成最小二乘法的标准定义形式，见式(12)。在两相dq坐标系下，三电平PWM变换器的数学模型表示为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL \\left[ \\frac { \\mathrm { d } i _ { d } } { \\mathrm { d } t } \\right] = \\left( { e _ { d } } \\atop { e _ { q } } \\right) + \\left( \\begin{array} { c c } { { - R } } & { { \\omega L } } \\\\ { { - \\omega L } } & { { - R } } \\end{array} \\right) \\left( \\begin{array} { c } { { i _ { d } } } \\\\ { { i _ { q } } } \\end{array} \\right) - \\left( \\begin{array} { c } { { \\nu _ { d } } } \\\\ { { \\nu _ { q } } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在稳态条件下，上式的电流微分项为零，式（23）进一步表示为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\left( \\begin{array} { l } { e _ { d } ( k ) - \\nu _ { d } ( k ) } \\\\ { e _ { q } ( k ) - \\nu _ { q } ( k ) } \\end{array} \\right) } = { \\left( \\begin{array} { l l } { i _ { d } ( k ) } & { - i _ { q } ( k ) } \\\\ { i _ { q } ( k ) } & { i _ { d } ( k ) } \\end{array} \\right) } { \\left( \\begin{array} { l } { R } \\\\ { \\omega L } \\end{array} \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对比式 (12)，可知采样数据 $\\phi ( k )$ 、输出数据$y ( k )$ 及辨识数据 $\\pmb { \\eta } ( k )$ 分别为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi ( k ) = \\left( \\begin{array} { l l } { { i _ { d } ( k ) } } & { { - i _ { q } ( k ) } } \\\\ { { i _ { q } ( k ) } } & { { i _ { d } ( k ) } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { y ( k ) = \\left( \\begin{array} { l l } { e _ { d } ( k ) } & { - \\nu _ { q } ( k ) } \\\\ { e _ { q } ( k ) } & { - \\nu _ { d } ( k ) } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { \\eta } ( k ) = \\left( \\begin{array} { l } { R } \\\\ { \\omega L } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "进一步整理式 (19）～式 (21)，并结合式(25）～式（27)，可得",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left\\{ \\begin{array} { l } { H ( k ) = L ( k ) \\phi ( k + 1 ) \\Big [ I + \\phi ^ { \\operatorname { T } } ( k + 1 ) L ( k ) \\phi ( k + 1 ) \\Big ] ^ { - 1 } } \\\\ { L ( k + 1 ) = \\Big [ I - H ( k ) \\phi ^ { \\operatorname { T } } ( k + 1 ) \\Big ] L ( k ) } \\\\ { \\quad \\Big ( \\hat { \\eta } ( k + 1 ) = \\hat { \\eta } ( k ) + H ( k ) \\Big [ y ( n + k + 1 ) - \\phi ^ { \\operatorname { T } } ( k + 1 ) \\hat { \\eta } ( k ) \\Big ] } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， $L ( 0 ) = \\left( \\begin{array} { c c } { { 1 } } & { { 0 } } \\\\ { { 0 } } & { { 1 } } \\end{array} \\right) , \\quad \\hat { \\pmb { \\eta } } ( 0 ) = \\left( \\begin{array} { c } { { R } } \\\\ { { \\omega L _ { \\mathrm { e } } } } \\end{array} \\right)$ 其中 $L _ { \\mathrm { e } }$ 为待辨识电感的初始值。在辨识之前先赋予初值 $\\mathbf { \\delta } _ { L ( 0 ) }$ 及 $\\hat { \\pmb { \\eta } } ( 0 )$ ，并根据采样得到数据计算出 $\\pmb { H } ( k )$ 、 $\\pmb { L } ( k )$ 和$\\hat { \\pmb { \\eta } } ( k )$ ，然后将辨识后的参数值作为下一个采样时刻的初值，每个采样周期均进行重复迭代，并将辨识后的值进行输出。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "加入电感参数辨识的改进的E-MPPC的系统控制原理如图3所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "e@ R 1六本 U dc1 负0dc 载  \ne T 1C  \nea eb ia ib  \naePark SSS +Uder卤+Φ(k)、y(k)、n(k) Vn 选择的压 PI(n=1,,27) 矢量 V orr Udc计算得到y(k+1) VrefeI 凶参考电压 p  \n有功及无功功率计算 S+计算矢量vref =0",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 仿真结果 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文将基于递推最小二乘法的电感参数辨识加入到改进的模型预测控制中进行了仿真验证，仿真参数见下表。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表系统控制参数",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/526e4985f7ca5bf45d6907f8fce6dfa534399f6f709690a64ed462447186351a.jpg",
+        "table_caption": [
+            "Tab.System and control parameters "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数</td><td>数值</td></tr><tr><td>电感电阻R/Ω</td><td>0.3</td></tr><tr><td>电感L/mH</td><td>10</td></tr><tr><td>直流母线电容C/uF</td><td>470</td></tr><tr><td>负载R/Ω</td><td>97</td></tr><tr><td>线电压UN/V</td><td>150</td></tr><tr><td>电网频率f/Hz</td><td>50</td></tr><tr><td>采样频率fs/kHz</td><td>20</td></tr><tr><td>直流母线电压Udc/V</td><td>300</td></tr><tr><td>权重系数K</td><td>100</td></tr><tr><td>增益常数K</td><td>0.395 2</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图4a为基于递推最小二乘法电感辨识的仿真结果，从上到下的曲线依次为电感的给定值和辨识值、有功功率、无功功率、变换器侧线电压、直流侧中性点电位、电网相电压/相电流。电感的初始给定值为 $3 0 \\mathrm { m H }$ ，在0.075s之前没有投入电感辨识算法。从图中可以清晰地看出设定电感值较实际电感值偏大时，有功和无功功率存在较大脉动，网侧电流谐波含量增加，输出线电压波形也比较杂乱。在0.075s时投入参数辨识算法，可以看出最小二乘算法能够准确并快速地辨识出实际的电感值。同时，功率脉动和电流THD值均有较大的改善。图4b 为电感辨识波形的局部放大图，电感辨识误差约为$2 \\%$ ，动态响应约为1ms。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/272e8c84c7eefb8c5e8e53a93aacc8220c3e09d4e2bec8ac30c0c41356af768b.jpg",
+        "img_caption": [
+            "图4电感初始设定值为 $3 0 \\mathrm { m H }$ 的辨识仿真结果 Fig.4Simulated result with initial inductance value of $3 0 ~ \\mathrm { m H }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图5a为基于递推最小二乘法模型电感初始设定值为 $1 \\mathrm { m H }$ 的仿真波形图。在0.075s之前模型电感给定值为1mH且没有投入电感辨识算法，从图中可以清晰地看出有功/无功功率脉动较大，且没有准确跟踪参考值，网侧电流谐波含量较大，电压和电流不同相位。在0.075s时投入参数辨识算法，可见有功/无功功率能准确地跟踪参考值，网侧电压电流同相位，功率脉动和电流谐波含量均大幅降低，验证了参数辨识算法的有效性。电感辨识值的放大波形如图5b所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d088ce4d4fe0c155751121da9eb7e23e48bf3944fc65c6405d80b67df1eec9bb.jpg",
+        "img_caption": [
+            "图5电感初始设定值为 $1 \\mathrm { m H }$ 的辨识仿真结果",
+            "Fig.5Simulated result with initial inductance value of $1 ~ \\mathrm { m H }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 实验结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了验证改进E-MPPC的有效性，通过实验对传统FCS-MPC和改进E-MPPC二者的运行效果进行对比，实验参数见表1。实验波形中除电压和电流波形有探头可以直接测量外，其他内部变量均通过控制板上的DA得到，采用录波仪DL850记录数据，然后导出到Matlab进行画图和分析。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图6为带1kW负载稳态时的实验波形，从上到下依次为有功功率参考值、实际有功功率、实际无功功率、直流侧中性点电位和相电流。从图6可以看出，相比于传统的FCS-MPPC，改进的E-MPPC表现出了较低的功率脉动，同时，直流侧中性点电位的波动也较小。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/567a0ba606fddd7353349785cf8eae6cfcb8c30dde34ec4f52875e1423160247.jpg",
+        "img_caption": [
+            "图6稳态实验波形（ $P { = } 1 0 0 0 \\mathrm { W }$ ， $Q = 0 \\mathrm { v a r } .$ Fig.6Steady state response ( $P { = } 1 ~ 0 0 0 \\mathrm { W }$ $Q = 0 \\mathrm { v a r } )$ （204号 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "网侧THD和频谱分析如图7所示，可以看出，改进的E-MPPC的电流THD要略低于传统的FCS-MPPC。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/1970e958c6b0104e90d42ca35e1794efe7e189e68fdad1479480c393d7ccb647.jpg",
+        "img_caption": [
+            "图7网侧电流THD 和频谱实验波形"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图8是网侧相电压 $U _ { \\mathrm { a } }$ 、网侧相电流 $I _ { \\mathrm { a } }$ 和网侧线电压 $V _ { \\mathrm { a b } }$ 的实验波形。可以看出，两种方法均没有产生电压幅值过高跳变的问题，网侧电压和电流同相位，实现了网侧单位功率因数控制。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图9是由 $6 0 0 \\mathrm { W }$ 功率阶跃到 $1 \\ 0 0 0 \\mathrm { W }$ 的动态实验波形，可以看出两种方法表现出了极为相似的动态特性，有功功率均准确地跟踪了参考值。此外，改进的方法表现出了较低的功率脉动和较小的电流THD。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/50e4ad3740f869ee4f27fcbeceafa2b5cc0384c06697746c5d2904a373ad298a.jpg",
+        "img_caption": [
+            "Fig.7 Grid-side current THD and spectrum "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "需要指出的是，由于改进的E-MPPC用参考电压矢量 $\\nu _ { \\mathrm { r e f } }$ 代替功率跟踪误差进行最优电压矢量选取，省去了传统FCS-MPPC中繁复的多次功率预测计算，因此显著减小了系统的复杂度和计算量。实验中对两种方法的程序执行时间进行了测量，改进的E-MPPC程序运行时间为 $2 9 . 6 7 ~ \\mu \\mathrm { s }$ ，而传统的FCS-MPPC的程序运行时间为 $4 2 . 5 6 ~ \\mu \\mathrm { s }$ 。由此可见改进的E-MPPC在程序执行效率上更加高效。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/893a60d283842ddcd2ce489de03af220e6074a0fa6881db11e0c797148029ae3.jpg",
+        "img_caption": [
+            "图8变换器侧线电压实验波形"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/196e1a7e995f5728d1a36774215f62b5b444b2dfc9bb3107f447b1fcf62f9419.jpg",
+        "img_caption": [
+            "Fig.8Experimental result of converter-side line voltage ",
+            "图9动态实验波形（ $P = 1 0 0 0 \\mathrm { W }$ ， $Q = 0 \\mathrm { v a r } )$ （20 Fig.9Response to power increase ( $P { = } 1 ~ 0 0 0 \\mathrm { W }$ $Q = 0$ var) "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文还将系统参数辨识和改进的模型预测算法相结合，提高了系统对参数变化的鲁棒性。图10a为模型电感初始设定值为 $5 0 \\mathrm { m H }$ 时的实验波形。从上到下的曲线依次为辨识的电感值、初始设定的电感值、有功/无功、网侧相电压和相电流。大约0.05s之后加入参数辨识算法。可以看出，在没有加入参数辨识算法时，功率脉动和网侧电流谐波含量较大。在加入辨识算法之后，功率脉动和电流THD均有很好的改善，辨识的电感值接近模型的实际电感值。图10b为初始设定电感值为 $1 \\mathrm { m H }$ 的实验波形。可以看出，实验结果与仿真结果相似，在加入辨识算法之前系统有较大的功率脉动，加入辨识算法之后系统的控制性能得到了改善。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/935e2c1435750fc387ed36947dd7788422d92063deb2e9e8fd6a434408664177.jpg",
+        "img_caption": [
+            "图10电感辨识算法加入前后的实验结果 Fig.10Experimental result when enabling inductance identification "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6 结论 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文在分析三电平PWM变换器改进的模型预测控制和最小二乘法参数辨识原理的基础上，将递推最小二乘法应用于三电平PWM变换器的电感参数辨识上，并与以参考电压矢量进行最优电压矢量选择的改进的模型预测算法相结合，提高了控制方法的控制性能。实验结果表明，所辨识的电感参数值接近于实际电感值但是不完全相等，而且利用加入递推最小二乘法电感参数辨识之后的电感值进行系统控制，系统的功率脉动和电流THD均有明显降低。由此可见，加入了递推最小二乘法电感参数辨识的模型预测控制的可行性和有效性。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] 谭国强，吴轩钦，李浩．Back-to-back双三电平 励磁同步电机矢量控制系统[J]．电工技术学报, 2011，26(3):36-43. Tan Guojun,Wu Xuanqin,Li Hao.Vector control system of electrically excited synchronous motor fed by back-to-back dual three-level converte[J]. Transactions of China Electrotechnical Society, 2011, 26(3): 36-43.   \n[2] 王成元，夏加宽，孙宜标．现代电机控制技术[M]. 北京：机械工业出版社，2009.   \n[3] 刘隽，贺之渊，何维国．基于模块化多电平变流 器的柔性直流输电技术[J]．电力与能源，2011, 1(1): 33-38. Liu Quan,He Zhiyuan,He Weiguo.The introduction of technology of HVDC based on modular multilevel converter[J]. Power and Energy,2011,1(1): 33- 38.   \n[4] 刘永生．电网电压不平衡时PWM整流器控制策略 研究[D]．成都：西南交通大学，2011.   \n[5] 李永东．高性能大容量交流电机调速技术的现状 及展望[J]．电工技术学报，2005，20(2)：1-10. Li Yongdong.High performance and high power AC motor variable speed drives-status and trends[J]. Transactions of China Electrotechnical Society, 2005,20(2): 1-10.   \n[6] Blasko V, Kaura V.A new mathematical model and control of a three-phase AC-DC voltage source converter[J].IEEE Transactions on Power Electronics, 1997, 12(1): 116-123.   \n[7]Hang L, Liu S, Yan G, et al. An improved deadbeat scheme with fuzzy controller for the grid-side threephase PWM Boost rectifier[J]. IEEE Transactions on Power Electronics,2011,26(4): 1189-1191.   \n[8] Noguchi T, Tomiki H, Kondo S, et al. Directi power control of PWM converter without power-source voltage sensors[J]. IEEE Transactions on Industrial Applications, 1998, 34(3): 473-479.   \n[9] Zhang Y, Li Z, Zhang Y, et al. Performance improvement of direct power control of PWM rectifier with simple calculation[J]. IEEE Transactions on Power Electronics,2013,28(7): 3428-3437.   \n[10]Zhang Y,Long J, Zhang Y, et al. Table-based direct power control for three-level neutral point-clamped pulse-width modulated rectifier[J]. IET Power Electronics,2013, 6(8): 1555-1562.   \n[11]Roberts P D.A brief overview of model predictive control[J]. Computing & Control Engineering, 2000, 17(2): 1/1-1/3.   \n[12]Zhang Yongchang,Peng Yubin. Efficient model predictive power control for three-level AC/DC converters[C].2015 IEEE International Conference on Electrical Machines and Systems, 2015: 2127- 2133.   \n[13]Zhang Yongchang, Xie Wei, Li Zhengxi, et al. Lowcomplexity model predictive power control: doublevector-based approach[J]. IEEE Transactions on Industrial Electronics,2014, 61(11): 5871-5880.   \n[14]Zhang Yongchang, Xie Wei, Li Zhengxi, et al. Model predictive direct power control of a PWM rectifier with duty cycle optimization[J]. IEEE Transactions on Power Electronics,2013,28(11): 5343-5351.   \n[15]Wang Kaiyu, Chiasson J,Boddon M,et al. A nonlinear least-squares approach for identification of the induction motor parameters[J]. IEEE Transactions on Automatic Control, 2005, 50(10): 1622-1628.   \n[16]张虎，李正熙，童朝南．基于递推最小二乘算法 的感应电动机参数离线辨识[J]．中国电机工程学 报，2011，31(18):79-86. Zhang Hu, Li Zhengxi, Tong Chaonan. Off-line parameter identification of induction motor based on recursive least-squares algorithm[J]. Proceedings of the CSEE,2011,31(18): 79-86.   \n[17]Kwak S, Moon U C, Park JC. Predictive-controlbased direct power control with an adaptive parameter identification technique for improved AFE performance[J].IEEE Transactions on Power Electronics,2014,29(11): 6178-6187.   \n[18] 王萌，施艳艳，沈明辉，等．三相电压型PWM 整流器模型自校正预测控制[J]．电工技术学报, 2014，29(8): 151-157. Wang Mng,Shi Yanyan,Shen Minghui,et al. Predictive control of three-phase voltage source PWM rectifiers based on model self-correctin[J]. Transactions of China Electrotechnical Society, 2014,29(8): 151-157.   \n[19] 冬雷，李永东，王文森，等．矢量控制中感应电 动机转子电阻的自适应辨识[J]．电工技术学报, 2002，17(4):13-17. Dong Lei,Li Yongdong,Wang Wensen, el al.Rotor resistent adaptive identification for vector control of induction motors[J].Transactions of China Electrotechnical Society, 2002,17(4):13-17.   \n[20] 周熙炜．基于扩展卡尔曼滤波算法的异步电机参 数辨识[D]．西安：西安理工大学，2003.   \n[21] Barut M,Bogosyan S.Application of genetic algorithm with a novel adaptive scheme for the identification of induction machine parameters[J]. IEEE Transactions on Energy Conversion,2005, 20(2): 284-291.   \n[22] 汪镭，周国兴，吴启迪．基于Hopfield 神经网络 的线性系统参数辨识方案及在鼠笼式电机传动系 统参数辨识中的应用研究[J]．中国电机工程学报, 2001，21(1):9-17. Wang Lei,Zhou Guoxing，Wu Qidi.Hopfield neural network based linear system parameters’ identification scheme and its application in asynchronous motor drive system identification[J]. Proceedings of the CSEE,2001,21(1): 9-17.   \n[23] 彭玉宾．三电平变换器模型预测控制研究[D]．北 京：北方工业大学，2016.   \n[24] Rasmus K,Pierre V.Parameter identification of induction motors using differential evolution[J]. Evolution Computation,2003,2:8-12.   \n[25] Li Guoqi,Wen Changyun.Identification of wiener systems with clipped observations[J].IEEE Transactions on Siganl Processing,2012,60(7): 3845-3852.   \n[26] Ursem R K,Vadstrup P.Parameter identification of induction motors using differential evolution[C]. The 2003 Congress on Evolutionary Computation, CEC'03,2003,2: 790-796.   \n[27] Zhang Yongchang, Xie Wei. Low-complexity model predictive power control-single vectorbased approach[J].IEEE Transactions on Power Electronics,2014,29(11): 5532-5541. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

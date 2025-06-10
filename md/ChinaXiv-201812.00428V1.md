@@ -1,0 +1,199 @@
+饲粮全棉籽比例对荷斯坦公牛育肥性能、血清生化指标和养分表观消化率的影响 王勇胜」曹玉凤1\*李秋凤1\*李妍²高艳霞」李建国1
+
+3 （1.河北农业大学动物科技学院，保定071001；2.河北农业大学动物医学院，保定071001）  
+1 摘要：本试验旨在研究饲粮全棉籽比例的对荷斯坦公牛育肥性能、血清生化指标和养分表  
+5 观消化率的影响。选取44头体重[( $2 8 6 { \pm } 5 2$ ） $| \mathrm { k g } ]$ 相近、健康无疾病的荷斯坦公牛，随机分  
+5 为4组，每组11头，Ⅰ、 $\mathrm { I I }$ 、II和IV组分别饲喂含有0、 $5 \%$ 、 $10 \%$ 和 $1 5 \%$ 全棉籽的饲粮，  
+7 各组能量和粗蛋白质水平基本相同。预试期为7d，试验期为 $9 0 \mathrm { d }$ 。结果表明：1）IV组平均日增重最高，比Ⅰ组提高了 $9 . 8 0 \%$ （ $\scriptstyle \cdot { P < 0 . 0 5 }$ ）；IV组的干物质采食量最高，料重比最低，但各组间差异均不显著（ $\cdot P { > } 0 . 0 5$ ）。2）IⅢ和IV组的血清胰岛素样生长因子1含量分别比Ⅰ组高 $4 . 7 9 \%$ 和 $6 . 7 6 \%$ （ $_ { . { P < 0 . 0 5 } }$ ）；血清中谷丙转氨酶、谷草转氨酶活性及游离脂肪酸和生长激素含量随全棉籽比例提高而有所上升，但组间并没有显著差异（ $P { > } 0 . 0 5$ ）。3）随着全棉籽比例的增加，中性洗涤纤维、酸性洗涤纤维、钙的表观消化率均有所提高，但各组间无显著差异（ $\cdot P { > } 0 . 0 5$ ）。4）与I组相比，II、I和IV组每千克增重饲料成本分别减少了0.13、0.17和0.26元。综上，在本试验条件下，饲粮全棉籽比例为 $1 5 \%$ 时可有效地改善荷斯坦公牛育肥性能。
+
+关键词：育肥性能；血清生化指标；全棉籽；荷斯坦公牛
+
+中图分类号：S823
+
+我国是棉花生产大国，2016 年棉花总产量 534.3万t，折合成全棉籽产量约347.3万t。全棉籽（whole cotton seed,WCS）作为一种高能、高蛋白质、高纤维的饲料,其既能补充蛋白质、能量，又能提供纤维,其脂肪含量达 $1 9 . 3 \% ,$ 其中不饱和脂肪酸占 $70 \%$ 粗蛋白质（CP）含量为 $2 3 . 5 \% [ 1 ]$ 。全棉籽作为反刍动物一种重要的饲料资源，在肉牛生产中科学合理应用全棉籽，对于降低饲养成本、改善瘤胄代谢和提高养殖效益具有重要意义。全棉籽已经广泛应用于奶牛生产，而在肉牛中研究的较少。由于全棉籽中含有对动物有害的棉酚，限制了它在动物饲粮中的用量。实践表明，全棉籽在架子牛和育肥牛饲粮中的添加量不超过干物质采食量(DMI)的 $1 5 \%$ ，就不会影响生长性能。王平等[2]研究表明，肉牛饲粮中添加 $2 5 \%$ 全棉籽对饲粮的酸性洗涤纤维(ADF)和粗脂肪（EE）表观消化率有显著提高作用，其他养分表观消化率均低于添加 $13 \%$ 全棉籽的饲粮。而李坤等[3研究表明，添加的全棉籽占精料 $22 \%$ 时的平均日增重(ADG)显著高于低棉籽组。由此可见，国内外对于全棉籽在肉牛饲粮中适宜添加比例的报道不尽一致，还需做进一步研究。本试验旨在饲粮能量和粗蛋白质水平基本相同条件下，添加不同比例的全棉籽,研究其对荷斯坦公牛育肥性能、血清生化指标和养分表观消化率的影响,为全棉籽在荷斯坦公牛育肥生产中应用提供参考。
+
+1材料与方法
+
+1.1 试验时间与地点
+
+本试验于2016年12月至2017年3月在保定市满城宏达奶牛场进行试验。
+
+# 1.2 试验动物
+
+从河北省保定市满城宏达奶牛场选择44头健康、膘情正常、体重[（ $2 8 6 { \pm } 5 2$ ）kg]接近的荷斯坦公牛，预试期7d，预试期结束后，再进行1次空腹称重，适当调整试验牛，做到各组牛的平均体重差异不显著 $( P { > } 0 . 0 5 )$ ，并以此作为正式试验的起始重，正试期 $9 0 \mathrm { d }$ 。
+
+# 1.3试验设计及分组
+
+试验采用单因素完全随机区组设计，将44头荷斯坦公牛随机分为4组，每组11头，采用散栏饲养。I、ⅡI、II、IV组分别饲喂含有0、 $5 \%$ 、 $10 \%$ 和 $1 5 \%$ 的全棉籽饲粮，各组能量和粗蛋白质水平基本相同。试验饲粮组成及营养水平见表1。
+
+试验用全棉籽购于新疆维吾尔族自治区喀什市，其营养水平如下：粗蛋白质$2 3 . 3 9 \%$ ，粗脂肪 $1 6 . 4 \%$ ，中性洗涤纤维（NDF） $54 . 8 9 \%$ ，酸性洗涤纤维 $3 9 . 8 4 \%$ ，钙 $0 . 2 6 \%$ 和磷 $0 . 6 3 \%$ 。游离棉酚含量为 $0 . 0 4 \% { \sim } 0 . 0 5 \%$
+
+表1试验饲粮组成及营养水平(干物质基础)  
+Table 1Composition and nutrient levels of experimental diets (DM basis)   
+
+<html><body><table><tr><td rowspan="3">项目Items</td><td colspan="4">组别Groups</td></tr><tr><td>1</td><td></td><td>Ⅲ</td><td>IV</td></tr><tr><td colspan="5">原料Ingredients</td></tr><tr><td>玉米Corn</td><td>17.15</td><td>17.25</td><td>14.55</td><td>15.60</td></tr><tr><td>蒸汽压片玉米 Steam-flaked corn</td><td>19.30</td><td>16.70</td><td>16.50</td><td>13.75</td></tr><tr><td>棉籽粕 Cottonseed meal</td><td>10.70</td><td>8.60</td><td>6.70</td><td>5.60</td></tr><tr><td>全棉籽 Whole cottonseed</td><td></td><td>5.00</td><td>10.00</td><td>15.00</td></tr><tr><td>大豆粕 Soybean meal</td><td>1.47</td><td>1.47</td><td>1.47</td><td>1.57</td></tr><tr><td>玉米干酒糟及其可溶物 Corn DDGS</td><td>2.00</td><td>2.00</td><td>2.00</td><td></td></tr><tr><td>小苏打 NaHCO</td><td>0.83</td><td>0.83</td><td>0.83</td><td>0.83</td></tr><tr><td>预混料 Premixl)</td><td>3.15</td><td>3.15</td><td>3.15</td><td>3.15</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>全株玉米青贮 Whole corn silage</td><td>35.00</td><td>35.00</td><td>35.00</td><td>35.00</td></tr><tr><td>谷草 Millet straw</td><td>10.40</td><td>10.00</td><td>9.80</td><td>9.50</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2</td><td></td><td></td><td></td><td></td></tr><tr><td>综合净能 NEmf/（MJ/kg)</td><td>6.32</td><td>6.32</td><td>6.32</td><td>6.32</td></tr><tr><td>粗蛋白质 CP</td><td>12.54</td><td>12.53</td><td>12.57</td><td>12.56</td></tr><tr><td>中性洗涤纤维 NDF</td><td>33.16</td><td>34.61</td><td>36.05</td><td>37.33</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>17.95</td><td>19.30</td><td>20.70</td><td>22.07</td></tr><tr><td>钙Ca</td><td>0.74</td><td>0.74</td><td>0.74</td><td>0.75</td></tr><tr><td>磷P</td><td>0.41</td><td>0.42</td><td>0.42</td><td>0.42</td></tr></table></body></html>
+
+1’预混料为每千克饲粮提供 The premix provided the following per $\mathbf { k g }$ of diets:VA 3 400 IU，VD1 270 IU，VE 40 IU, $D /$ 生物素 $D$ -biotin $3 ~ \mathrm { m g }$ ，烟酰胺nicotinamide $6 0 0 ~ \mathrm { { m g } }$ ， ${ \mathfrak { \beta } }$ -胡萝卜素 $\beta$ -carotene $3 0 ~ \mathrm { m g }$ ，镁 $\mathbf { M g } \mathrm { ~ l ~ } 1 0 0 \mathrm { ~ m g }$ ， Cu 10 mg,Mn 40 mg,Zn 30 mg,Co 0.2 mg,I 0.5 mg,Se 0.3 mg。 2'综合净能根据我国《肉牛饲养标准》（NY/T815—2004)计算得出，其余为实测值。 $\mathrm { { N E } _ { \mathrm { { m f } } } }$ was calculated according to Chinese Feeding Standard of Beef Catte(NY/T 815—2004), while the other nutrient levels were measured values.
+
+# 1.4饲养管理
+
+采用全混合日粮(TMR)饲喂，按分组散栏饲养，试验期每日饲喂2次(07:00和18:00)，自由饮水。试验期间牛舍定期清扫和消毒，保持牛舍内外的干燥和卫生。
+
+1.5样品采集与指标测定
+
+1.5.1 育肥性能的测定
+
+正试期开始和结束时，试验牛连续2d晨饲前空腹称重，取其平均值。计算牛的ADG。在试验期间每星期连续3d测定各组牛采食量，再计算干物质采食量（DMI）。根据干物质采食量和ADG，计算料重比。
+
+1.5.2 血清的采集与测定
+
+每个试验组随机选取5头牛，早晨空腹颈静脉采血，每头牛采集 $2 5 ~ \mathrm { m L }$ ，分装于离心管中，于 $3 7 ^ { \circ } \mathrm { C }$ 水浴 $0 . 5 \mathrm { h }$ 后离心（ $\left. 3 0 0 0 \mathrm { r / m i n } \right.$ 离心 $1 5 \mathrm { m i n }$ ），制备血清，测定其生化指标。所有血清在测定前，均储存于 ${ \displaystyle - 2 0 ~ ^ { \circ } C }$ 冰箱中备用。谷丙转氨酶（ALT）、谷草转氨酶（AST）活性及葡萄糖（GLU）、尿素氮（UN）、总蛋白（TP）、甘油三酯（TG）、胆固醇（CHO）含量的测定均采用半自动生化仪（Microlab-300），按照中生北控生物公司所提供的试剂盒说明书进行操作。生长激素（GH）、胰岛素样生长因子1（IGF-1）和游离脂肪酸（FFA）含量采用酶联免疫试验（ELISA）在酶标仪（PowerWaveXS2）上测定。
+
+# 1.5.3 粪样的采集
+
+试验结束前收集粪样，每组随机挑选5头牛，连续3d收集粪样，每头牛每天收集600g，平均分成2份，其中一份样品按每 $1 0 0 ~ \mathrm { g }$ 新鲜粪便加入 $2 0 ~ \mathrm { m L }$ 浓度为 $4 . 5 \mathrm { m o l / L }$ 的 $\mathrm { H } _ { 2 } \mathrm { S O } _ { 4 }$ 进
+
+行处理，并于 ${ } _ { - 2 0 } { } ^ { \circ } \mathrm { C }$ 保存，以用于粗蛋白质含量的测定；另一份样品不进行任何预处理直接  
+装入自封样品袋用于其他养分含量的测定。  
+1.5.4养分表观消化率的测定粪样的粗脂肪、钙和磷的含量采用实验室常规分析方法，具体方法参见张丽英主编  
+的《饲料分析及饲料质量检测技术》（2版），中性洗涤纤维和酸性洗涤纤维含量的测定利  
+用全自动纤维仪（ANKOMA2000i)完成，粗蛋白质含量采用半自动凯氏定氮仪（FOSS 8400）  
+测定。消化代谢试验采用内源指示剂收粪法，以盐酸不溶灰分(AIA)作为指示剂，依据GB  
+/T 23742—2009《饲料中盐酸不溶灰分的测定》测定含量。某养分表观消化率 $( \% ) = [ 1 - ( b \times c ) / ( a \times d ) ] \times 1 0 0$ 9式中：a为饲粮中某养分含量； $b$ 为粪样中某养分含量； $\boldsymbol { c }$ 为饲粮中AIA含量； $d$ 为粪  
+样中AIA含量。  
+1.6统计处理试验数据采用 SPSS19.0 统计软件中ANOVA 程序进行方差分析,差异显著时用Duncan  
+氏法进行各组间多重比较。试验结果用"平均值 $\pm$ 标准差"表示。  
+2结果与分析  
+2.1育肥性能由表2可知，IV组的ADG 最高，为 $1 . 6 8 \mathrm { k g }$ ，显著高于I组（ $\cdot P { < } 0 . 0 5$ ）；随着全棉  
+籽比例的增加，干物质采食量有所提高，但变化不显著（ $P { > } 0 . 0 5 \$ ）；IV组的料重比最低，  
+比I组降低了 $56 \%$ （ $P { > } 0 . 0 5 \$ ）。
+
+表2饲粮全棉籽比例对荷斯坦公牛育肥性能的影响  
+Table 2Effects of dietary WCS ratio on fattening performance of Holstein bulls   
+
+<html><body><table><tr><td>项目Items</td><td colspan="4">组别Groups</td><td>SEM</td><td>P值 P-value</td></tr><tr><td></td><td>I</td><td>I</td><td>Ⅲ</td><td>IV</td><td></td><td></td></tr><tr><td>初重Initial weight/kg</td><td>286.64±52.96</td><td>286.18±49.87</td><td>286.45±51.51</td><td>286.36±49.73</td><td>21.76</td><td>1.00</td></tr><tr><td>末重Final weight/kg</td><td>424.55±66.35</td><td>427.78±51.46</td><td>432.05±52.42</td><td>437.75±50.77</td><td>23.72</td><td>0.76</td></tr><tr><td>平均日增重 ADG/kg</td><td>1.53±0.20a</td><td>1.57±0.85ab</td><td>1.62±0.16ab</td><td>1.68±0.12b</td><td>0.06</td><td>0.02</td></tr><tr><td>干物质采食量 DMI/kg</td><td>9.57±0.86</td><td>9.66±0.76</td><td>9.86±0.87</td><td>10.03±1.00</td><td>0.50</td><td>0.92</td></tr><tr><td>料重比F/G</td><td>6.35±0.90</td><td>6.15±0.30</td><td>6.14±0.60</td><td>5.99±0.43</td><td>0.26</td><td>0.20</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $\cdot < 0 . 0 5$ ），相同或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ 。下表同。In the same row, values with different small letter superscripts mean significant difference ( $\cdot P { < } 0 . 0 5$ ), whilewith the same or no letter superscripts mean no significant difference ( $P { > } 0 . 0 5$ ).The same as below.
+
+# 2.2 血清生化指标
+
+由表3可知,IⅢI、IV组血清中的胰岛素样生长因子1的含量显著高于I组 $( P { < } 0 . 0 5 )$ .分别比I组提高了 $4 . 7 9 \%$ 和 $6 . 7 6 \%$ ；各组间其他血清生化指标均没有显著差异（ $P { > } 0 . 0 5 \$ ），其中谷丙转氨酶、谷草转氨酶活性及游离脂肪酸和生长激素的含量随着全棉籽比例的增加有所提高。
+
+Table 3Effects of dietary WCS ratio on serum biochemical parameters of Holstein bulls   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">组别 Groups</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>I</td><td>Ⅱ</td><td>IⅢI</td><td>IV</td></tr><tr><td>丙转氨酶 ALT/ （UL）</td><td>35.05±4.00</td><td>37.16±2.35</td><td>37.73±4.03</td><td>39.41±5.34</td><td>2.57</td><td>0.28</td></tr><tr><td>2 谷草转氨酶 AST/（U/L）</td><td>76.24±5.54</td><td>77.70±7.74</td><td>84.31±7.02</td><td>85.29±6.26</td><td>4.23</td><td>0.78</td></tr><tr><td>8 葡萄糖 GLU/（mmol/L)</td><td>4.72±0.23</td><td>4.61±0.26</td><td>4.43±0.34</td><td>4.66±0.32</td><td>0.18</td><td>0.54</td></tr><tr><td>素氮UN/ (mo/L）</td><td>6.00±0.85</td><td>5.77±0.36</td><td>5.48±0.57</td><td>5.24±0.18</td><td>0.35</td><td>0.31</td></tr><tr><td>总蛋白 TP/（g/）</td><td>69.14±10.74</td><td>71.41±3.64</td><td>72.05±4.41</td><td>71.38±5.56</td><td>4.23</td><td>0.24</td></tr><tr><td>油三酯 TG/（mmol/L） n</td><td>0.14±0.04</td><td>0.13±0.03</td><td>0.13±0.07</td><td>0.12±0.06</td><td>0.03</td><td>0.21</td></tr><tr><td>胆固醇 CHO/（mmol/L）</td><td>3.16±0.38</td><td>3.00±0.69</td><td>3.00±0.30</td><td>2.96±0.40</td><td>0.30</td><td>0.25</td></tr><tr><td>C 游离脂肪酸FFA/（umol/L）</td><td>238.56±58.60</td><td>265.55.33±39.98</td><td>274.01±75.26</td><td>282.10±26.92</td><td>33.80</td><td>0.25</td></tr><tr><td>生长激素 GH/(μ g/L)</td><td>15.23±1.71</td><td>15.86±2.27</td><td>16.13±2.08</td><td>16.50±2.72</td><td>0.91</td><td>0.23</td></tr><tr><td>胰岛素样生长因子1IGF-1/(μg/L)</td><td>119.16±6.85c</td><td>121.51±2.62bc</td><td>124.87±3.76ab</td><td>127.22±5.07a</td><td>1.98</td><td><0.01</td></tr></table></body></html>
+
+# 106 2.3 养分表观消化率
+
+107 由表4可知，饲粮全棉籽比例对各养分表观消化率无显著影响（ $\cdot P { > } 0 . 0 5$ ），但随  
+108 着全棉籽比例的增加，中性洗涤纤维、酸性洗涤纤维及钙的表观消化率均有所上升。
+
+表3饲粮全棉籽比例对荷斯坦公牛血清生化指标的影响  
+表4饲粮全棉籽比例对荷斯坦公牛饲养养分表观消化率的影响  
+
+<html><body><table><tr><td>110</td><td>Table 4 Effects of dietary WCS ratio on nutrient apparent digestibility ofHolstein bulls</td><td>%</td><td></td></tr><tr><td>项目Items</td><td>组别Groups</td><td>SEM</td><td>P值</td></tr><tr><td></td><td></td><td></td><td>P-value</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>I</td><td>II</td><td>Ⅲ</td><td>IV</td><td></td><td></td></tr><tr><td>粗蛋白质 CP</td><td>80.86±1.81</td><td>81.24±1.34</td><td>82.16±3.16</td><td>80.90±3.75</td><td>1.91</td><td>0.14</td></tr><tr><td>粗脂肪 EE</td><td>90.43±1.74</td><td>90.38±2.54</td><td>91.81±0.71</td><td>90.02±2.02</td><td>1.31</td><td>0.05</td></tr><tr><td>中性洗涤纤维 NDF</td><td>51.30±6.00</td><td>52.28±3.69</td><td>53.91±4.74</td><td>54.81±6.64</td><td>3.81</td><td>0.76</td></tr><tr><td>酸性洗涤纤维ADF</td><td>35.49±5.01</td><td>36.62±5.74</td><td>38.56±5.31</td><td>40.19±6.41</td><td>3.99</td><td>0.96</td></tr><tr><td>钙Ca</td><td>70.65±6.18</td><td>71.08±7.77</td><td>71.63±5.84</td><td>75.91±7.83</td><td>4.92</td><td>0.93</td></tr><tr><td>磷P</td><td>80.66±5.41</td><td>77.53±3.83</td><td>78.23±7.88</td><td>77.25±3.68</td><td>3.87</td><td>0.44</td></tr></table></body></html>
+
+111 2.4 饲料成本分析
+
+112 根据试验期间购买饲料原料的价格，计算出每头牛每天的饲料成本，结果见表5。  
+113 饲喂全棉籽增加了饲料成本，但每千克增重饲料成本随着饲粮全棉籽比例的增加而降低，与  
+114 I组相比，II、和IV组每千克增重饲料成本分别减少了0.13、0.17和0.26元。
+
+# 表5饲料成本分析
+
+Table 5 Feed cost analysis   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">组别Groups</td></tr><tr><td>I</td><td>I</td><td>III</td><td>IV</td></tr><tr><td>饲料成本Feed cost/[元/(头·d）]</td><td>18.61</td><td>18.89</td><td>19.42</td><td>19.99</td></tr><tr><td>每千克增重饲料成本 Feed cost per kilogram of weight gain/元</td><td>12.16</td><td>12.03</td><td>11.99</td><td>11.90</td></tr></table></body></html>
+
+117 3讨论
+
+118 3.1饲粮全棉籽比例对荷斯坦公牛育肥性能的影响
+
+DMI是动物营养需要中一个重要参数。干物质供给不足会限制生长性能的发挥,过多则会增加饲料成本,造成不必要的浪费。赵正剑等[4]在试验中用全棉籽替换TMR 中部分精料，结果表明,试验组较对照组的荷斯坦奶牛和褐牛的DMI分别提高了 $6 . 3 5 \%$ 和 $4 . 1 9 \%$ ，这与本试验结果一致。其原因可能是由于全棉籽脂肪在瘤胃中释放速度较慢，且由于带有棉绒容易单独形成较小的食糜，不易于其他饲草混合，这样食糜在瘤胃中滞留时间缩短，加快了胃的排空速度，提高了DMI，进而提高了荷斯坦公牛每日养分的摄入量[5]。
+
+关于饲粮中添加全棉籽对ADG 的影响报道不一，或高或低[2-3]。王平等[2]报道，在饲粮中添加全棉籽可提高瘤胃液中丙酸含量,使丙酸进入糖异生途径合成葡萄糖,造成体脂肪沉积。脂肪是含能值较高的养分,是能量的有效利用形式,随全棉籽比例的增加，摄入脂肪量增加,能够最大限度地满足荷斯坦公牛生长需要,生长性能得以充分发挥，这与本试验结果一致。而李坤等[3研究显示，低全棉籽组和中全棉籽组的ADG 低于对照组，而高全棉籽组 ADG高于对照组，与本试验结果不完全一致。这些差异可能与饲粮组成、营养水平、精粗比或添加方式等不同有关。就添加量而言，是否有比本试验添加 $1 5 \%$ 全棉籽饲粮更好的育肥效果尚需进一步研究。
+
+3.2饲粮全棉籽比例对荷斯坦公牛血清生化指标的影响
+
+血清生化指标是反映动物营养代谢和生理健康的重要指标，与动物饲粮的营养水平和生长性能有密切关系[6]。
+
+谷丙转氨酶和谷草转氨酶在氨基酸代谢及蛋白质、脂肪、糖三者相互转化中起重要作用。其活性的高低体现了机体内蛋白质合成及降解情况[7-8]，从而间接地体现动物的生长速率和生长性能。在本试验中，II、I、IV组与I组血清谷丙转氨酶与谷草转氨酶活性之间差异不显著，但随着全棉籽比例的增加有升高的趋势，这表明全棉籽能促进氨基酸代谢和蛋白质、脂肪及糖的转化，从而促进肉牛生长[9]。
+
+葡萄糖是糖在体内的运输形式,体内各组织细胞活动所需的能量大部分来自葡萄糖，所以血液葡萄糖必须保持一定的水平才能维持体内各器官和组织的需要。从本试验结果来看，各组间血清葡萄糖含量差异不显著，说明添加全棉籽并不会影响荷斯坦公牛血液葡萄糖平衡[5]。
+
+尿素氮是蛋白质分解代谢的终产物，是衡量动物血液氨基酸合成蛋白质效率的指标[10]。当动物氨基酸平衡良好，氮利用率高时，血液中尿素氮含量较少，因此血液中的尿素氮含量与氮利用率呈负相关[1I-3]。本试验中，ⅡI、III、IV组血清中尿素氮含量皆低于Ⅰ组,说明在饲粮中添加全棉籽加速了蛋白质的合成或减缓蛋白质降解，提高了机体对蛋白质的利用率，有助于育肥牛的生长发育。
+
+总蛋白在一定程度上不仅代表了饲粮中蛋白质的营养水平，也代表了动物对蛋白质的消化吸收程度，当体内的蛋白质合成作用增强时，血液总蛋白含量较高[14-15]。Colin-Negrete等[1的试验表明，血清总蛋白含量随着试验期的延长有升高的趋势，但变化并不显著，这与本试验结果一致，说明全棉籽对蛋白质生物合成有促进作用。
+
+血液中的甘油三酯和胆固醇含量变化情况是反映机体脂类代谢是否正常的2个重要指标，研究表明，不饱和脂肪酸具有降低血液中甘油三酯和胆固醇含量的作用。Jump 等[17]认为血液中胆固醇与膳食中胆固醇摄入量没有关系，而是与饱和脂肪酸摄入量呈正比，与不饱和脂肪酸摄入量呈反比；钟荣珍等[5]等研究结果也证实，饲喂全棉籽降低牛血清胆固醇的含量，与本试验结果一致。这可能是全棉籽中富含多不饱和脂肪酸造成的，多不饱和脂肪酸可防止高胆固醇食物导致的血清胆固醇含量升高[18]。此外，脂肪和胆固醇形成的微粒体与棉绒包裹在一起，随着粪便一同排出体外，也阻止了小肠对它们的吸收，同时阻断了胆盐的肝肠循环，起到了降低胆固醇含量的作用。
+
+血液中的游离脂肪酸含量与脂代谢、糖代谢及内分泌功能有关，本试验中，IV组的血清游离脂肪酸含量最高，可能是由于添加整粒全棉籽对不饱和脂肪酸进行天然保护,降低了在瘤胃中的氢化作用,使进入血液中的游离脂肪酸含量增加。
+
+生长激素是调节动物生长中最主要的激素之一，可促进骨、软骨以及其它的组织细胞分裂增殖，也可促进脂肪的分解以及蛋白质的合成，可提高畜禽增重[19]。Vestergaard 等[20]研究发现，荷斯坦公牛生长速率和ADG与血液中生长激素含量呈正相关；Sarkar 等[21]研究发现，牦牛血清生长激素含量与ADG呈正相关，本试验研究也证实了这一点。
+
+胰岛素样生长因子1是生长激素的介质，它们之间相互之间存在协作作用，促进蛋白质合成维持氮平衡，本试验中IV组的血清胰岛素样生长因子1含量显著高于I、ⅡI组，说明随着全棉籽比例的增加，蛋白质合成作用加强，有利于提高育肥牛的生长性能。
+
+# 3.3饲粮全棉籽比例对荷斯坦奶公牛各养分表观消化率的影响
+
+本试验结果表明，全棉籽比例的提高对养分表观消化率均无显著影响。其中粗蛋白质表观消化率随全棉籽比例的增加呈先升高后降低的趋势,这与王金梅[22]等的研究结果一致，出现这种结果的原因可能与棉籽蛋白质由棉壳包被不易消化有关。
+
+随着饲粮中全棉籽比例的增加，中性洗涤纤维和酸性洗涤纤维表观消化率有所提高，这与 Bermard 等[23]报道结果一致。Palmquist等[24]的研究结果表明，饲粮添加棉籽后对奶牛酸性洗涤纤维表观消化率有显著促进作用，与本试验结果的趋势是一致的；然而，王平等[2]报道，添加棉籽粕降低了肉牛对饲粮酸性洗涤纤维的表观消化率，其原因可能是棉籽中的脂肪会抑制微生物的生长，从而导致酸性洗涤纤维的表观消化率受到影响。
+
+4结论
+
+$\textcircled{1}$ 饲喂全棉籽饲粮可提高荷斯坦公牛的ADG 和血清胰岛素样生长因子1含量，干物质采食量及中性洗涤纤维、酸性洗涤纤维和钙的表观消化率也有所提高。
+
+$\textcircled{2}$ 在本试验条件下，饲粮全棉籽比例为 $1 5 \%$ 时可有效地改善荷斯坦公牛的育肥性能。
+
+参考文献：
+
+[1]HARRISON J H,KINCAID R L,MCNAMARA J P,et al.Effect of whole cottonseeds andcalcium salts of long-chain fatty acids on performance of lactating dairy cows[J].Journal ofDairy Science,1995,79(11):181-193.  
+[2]王平,王加启,龚月生.日粮中不同棉籽水平对肉牛消化的影响[J].中国畜牧兽医,2003,30(4):9-13.  
+[3] 李坤,赵红波,宋恩亮,等.全棉籽对阉牛育肥性能、胴体性状及肉质的影响[J].畜牧兽医学报,2012,43(10):1582-1588.  
+[4] 赵正剑,张志军,刘志强,等.全棉籽替换TMR中部分精料对泌乳后期奶牛生产性能的影响[J].新疆农业科学,2010,47(12):2442-2446.  
+[5] 钟荣珍,高艳霞,曹玉凤,等.全棉籽对奶牛生产性能及血清生化指标的影响[J].动物营养学报,2012,24(8):1477-1483.  
+[6] 潘军,曹玉凤,吕超,等.菌糠对肉牛生长性能和血液生理生化指标的影响[J].西北农林科技
+
+199 大学学报（自然科学版）,2011,39(1):21-28.  
+200 [7] 薛丰,杜晋平,解祥学,等.玉米和玉米青贮日粮添加赖氨酸对肉牛生长性能及血液生化指  
+201 标的影响[J].中国畜牧杂志,2010,46(19):38-41.  
+202 [8] 刘爽.日粮能量、蛋白水平对架子牛生产性能和血液指标的影响[D].硕士学位论文.哈尔  
+203 滨:东北农业大学,2016.  
+204 [9] 王玲,吕永艳,程志伟,等.复合酵母培养物对奶牛产奶性能、氮排放及血液生化指标的影响  
+205 [J].草业学报,2015,24(12):121-130.  
+206 [10] 刘建雷,吕永艳,胡昌军,等.全棉籽对奶牛产奶性能及血液生化指标的影响[J].饲料研  
+207 究,2010,50(12):1-3,6.  
+208 [11]崔萌萌,李福昌,王雪鹏,等.饲粮赖氨酸水平对生长獭兔生长性能、氮代谢及血清免疫和生  
+209 化指标的影响[J].动物营养学报,2012,24(3):472-478.  
+210 [12]王文奇,余雄,葡宏凯,等.荷斯坦公犊牛生产小白牛肉的研究[J].草食家  
+211 畜,2006,16(1):43-46.  
+212 [13] 阿依努尔·托合提,郭同军,吐尔洪·阿木提,等.散栏与栓系两种不同饲养方式对西门塔尔  
+213 牛生产性能的影响[J].新疆农业科学,2014,51(11):2111-2116.  
+214 [14]张乃锋,刁其玉,李辉.植物蛋白对6—11日龄犊牛腹泻与血液指标的影响[J].中国农业科  
+215 学,2010,43(19):4094-4100.  
+216 [15]殷溪沙,李伟,赵鑫,等.乳酸菌素对犊牛血液指标影响的研究[J].黑龙江八一农垦大学学  
+217 报,2014,26(5):44-47.  
+218 [16] COLIN-NEGRETE J,KIESLING H E,ROSS T T,et al.Effect of whole cottonseed on serum  
+219 constituents,fragilityoferythrocytecelsandreproductionofgrowingHolstein  
+220 heifers[J].Journal of Dairy Science,1996,79(11):2016-2023.  
+221 [17] JUMP D B,CLARKE S D.Regulation of gene expression by dietary fat[J].Annual Review of  
+222 Nutrition,1999,19(1):63-90.  
+223 [18]李德发.猪的营养[M].2版.中国农业科学技术出版社,2003.  
+224 [19] 周顺伍,高文玉,尹德钟,等.国产重组猪生长激素对猪增重和胴体品质的影响[J].中国农业  
+225 大学学报,1993,2(2):93-97.  
+226 [20] VESTERGAARD M,PURUP S,HENCKEL P,et al.Effectsofgrowth hormoneand  
+227 ovariectomy on performance,serum hormones,insulin-like growth factor-binding proteins,and  
+228 musclefiberpropertiesofprepubertalFriesianheifers[J].JournalofAnimal  
+229 Science,1995,73(12):3574-3584.  
+230 [21] SARKAR M,NANDANKAR U A,DUTTABORAH B K,et al.Plasma growth hormone  
+231 concentrations in female yak (Poephagus grunniens L.) of diferent ages:relations with age  
+232 and body weight[J].Livestock Science,2008,115(2/3):313-318.  
+233 [22]王金梅.日粮添加全棉籽对4-6月龄肉羊生产性能、肉品质及血液指标的影响[D].硕士学
+
+位论文.河北农业大学,2007. [23] BERNARD J K,CALHOUN M C,MARTIN S A.Effect of coating whole cottonseed on performance of lactating dairy cows[J].Journal of Dairy Science,1999,82(6):1296-1304. [24] PALMQUIST D L,CONRAD H R.High fat rations for dairy cows.Tallow and hydrolyzed blended fat at two intakes[J].Journal of Dairy Science,1980,63(3):391-395. Effects of Dietary Whole Cottonseed Ratio on Fattening Performance, Serum Biochemical Parameters and Nutrient Apparent Digestibility of Holstein Bulls WANG Yongsheng1CAO Yufeng1\* LI Qiufengl\* Li Yan² GAO Yanxial LI Jianguo1 (1. College of Animal Science and Technology, Agricultural University of Hebei, Baoding 071001, China; 2. College of Veterinary Medicine, Hebei Agricultural University, Baoding O71001, China) Abstract: The purpose of this experiment was to study the effects of dietary whole cottonseed ratio on fattening performance, serum biochemical parameters and nutrient apparent digestibility of Holstein buls.Forty-four healthy Holstein bulls with similar body weight were randomly divided into 4 groups with 11 bulls in each group. Dietary whole cotton seed ratio was 0, $5 \%$ ， $10 \%$ and $1 5 \%$ for groups I, I, III and IV, respectively. The levels of energy and crude protein were basically identical in different groups. The pre-trial lasted for $^ \textrm { \scriptsize 7 d }$ ，and the trial lasted for $9 0 \mathrm { d }$ . The results showed as follows: 1) average daily gain of group IV was the highest, which was $9 . 8 0 \%$ higher than that of group I( $( P { < } 0 . 0 5 )$ ; dry matter intake of group IV was the highest, and of which the feed/gain was the lowest, but no significant differences were found among groups( $( P > 0 . 0 5 )$ . 2) serum content of insulin-like growth factor 1 in groups II and IV were $4 . 7 9 \%$ and $6 . 7 6 \%$ higher than that of group I $( P { < } 0 . 0 5 )$ ，respectively. With the increment of whole cottonseed ratio，the activities of alanine aminotransferase and aspartate aminotransferase,and the contents of free fatty acid and growth hormone in serum were increased, but no significant differences were found among groups ( $\mathrm { \langle } P { > } 0 . 0 5 )$ . 3)Apparent digestibility of neutral detergent fiber,acidic detergent fiber and calcium tended to increase with the increase of whole cottonseed ratio $( P { > } 0 . 0 5 )$ . 4) Compared with group I, feed cost per kilogram of weight gain of groups II， II and IV was reduced by 0.13,0.17 and 0.26 RMB,respectively. In conclusion，under the conditions of the present experiment, when dietary whole cottonseed ratio was $1 5 \%$ , fattening performance of Holstein bull can be improved.
+
+Key words: fattning performance; serum biochemical parameter; whole cottonseed; Holstein bulls

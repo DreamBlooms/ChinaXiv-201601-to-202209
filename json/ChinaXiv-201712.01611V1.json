@@ -1,0 +1,557 @@
+[
+    {
+        "type": "text",
+        "text": "基于多权值的 Slope One协同过滤算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "覃幸新王荣波黄孝喜谌志群(杭州电子科技大学认知与智能计算研究所杭州 310018)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：【目的】针对 SlopeOne算法未考虑项目相似性、项目属性和对目标用户已有评分同等考虑进而导致推荐准确度降低的问题进行改进。【方法】提出一种基于改进的项目相似性度量、改进的项目属性相似性度量和用户评分概率函数的多权值的Slope One协同过滤算法，在项目相似性度量方面将共同评价的两个项目的用户数量和Pearson 相关系数相融合，在项目属性相似性度量方面将修正的拉普拉斯平滑与Jaccard系数相结合，同时利用用户评分概率函数对用户已有评分进行有效区分【结果】实验结果表明，本文方法相比于原 SlopeOne 算法,MAE值下降了 $5 . 4 \\%$ ，能够获得更好的推荐准确度。【局限】只关注推荐系统中用户对项目产生的评分，并没有关注用户对项目给出的评论，在一定程度上影响了推荐效果。【结论】本文方法更能适应评分数据稀疏性，有效提高了推荐系统的推荐质量。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词:协同过滤Slope One多权值项目相似性项目属性分类号：TP391 G35",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着现代信息技术的迅猛发展，互联网信息充斥着人们的生活，人们从信息匮乏时代走向了信息过载时代。从海量的用户历史数据中提取出有价值的信息变成如今信息时代的难题，推荐系统正是旨在解决这一难题而逐渐成为一个热门的研究课题。协同过滤(CollaborativeFiltering，CF)算法是推荐系统中主流的算法之一[1-2]，其中基于内存的协同过滤算法分为基于用户的协同过滤算法(User-based Collborative Filtering,UCF)和基于项目的协同过滤算法(Item-basedCollaborativeFiltering,ICF)两种[3]。基于项目的协同过滤算法则是通过对项目进行相似性度量进而寻找最近邻，基于项目最近邻将类似的物品推荐给用户。本文研究的 SlopeOne 算法(Slope One Algorithm,SO)是Lemire 等[4提出的一种基于项目的协同过滤算法，但是和传统基于项目的协同过滤算法不同的是,SlopeOne 算法通过计算项目之间的平均评分偏差并结合目标用户已有评分进行评分预测。相比上述两种传统的协同过滤算法，具有运用简单快捷、对新用户和新项目适应性强和运行效率高等优点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文针对 Slope One 算法未考虑项目相似性、项目属性和对目标用户已有评分同等考虑进而导致推荐准确度降低的问题，提出一种基于改进的项目相似性度量、改进的项目属性相似性度量和用户评分概率函数的多权值的 Slope One 协同过滤算法，使得具有不同项目相似度的项目数据、不同的项目属性相似度和不同的目标用户评分概率以不同的权值参与到评分预测中，提高了推荐准确度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 相关工作",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.1 Slope One算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SlopeOne算法是一种简洁且高效的评分预测算法，其核心思想是采用线性回归方法进行评分预测，其线性回归公式表示为 $f ( x ) { = } x { + } b ^ { [ 4 ] }$ ，其中， $x$ 为在推荐系统中目标用户对项目产生过的历史评分， $b$ 为项目之间的平均评分偏差。对于评分矩阵中不同的项目 $i$ 和$j ,$ 它们的平均评分偏差 $d e { \\nu } _ { i j }$ 计算方法如公式(1)所示。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd e { \\nu _ { i j } } = \\frac { \\sum _ { \\boldsymbol { u \\in U _ { i j } } } ( r _ { u i } - r _ { u j } ) } { \\lvert U _ { i j } \\rvert }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中, $r _ { u i }$ 表示用户 $\\boldsymbol { u }$ 对项目 $i$ 的评分, $U _ { i j }$ 表示对项目 $i$ 与 $j$ 都产生了评分的用户集合， $| U _ { i j } |$ 表示集合 $U _ { i j }$ 中的用户个数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用公式(1)求得两个项目的平均评分偏差 $d e { \\nu } _ { i j }$ 后，用 $p r e _ { u i }$ 表示使用 Slope One算法进行评分预测得到的用户 $u$ 对项目 $i$ 的评分，其计算方法如公式(2)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\np r e _ { u i } = \\frac { \\sum _ { \\substack { j \\in I ( u ) } } ( r _ { u j } + d e \\nu _ { i j } ) } { \\lvert I ( u ) \\rvert }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中, $\\boldsymbol { I } ( \\boldsymbol { u } )$ 表示用户 $\\boldsymbol { u }$ 产生过评分，且满足 $( i \\neq j ,$ $| U _ { i j } | > 0 \\rangle$ 的项目集合。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 Weighted Slope One算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SlopeOne算法在计算项目 $i$ 相对于项目 $j$ 的平均评分偏差 $d e { \\nu } _ { i j }$ 时没有考虑到使用对两个项目都产生过评分的用户数量来调整 $d e { \\nu } _ { i j }$ 在评分预测中的权重。显而易见，对两个项目共同评分的用户数量不同导致$d e { \\nu } _ { i j }$ 的可靠度不同。假设有500个用户对项目 $i$ 和项目 $j$ 都产生过评分，而只有50个用户对项目 $i$ 和项目 $k$ 都产生过评分，那么显然 $d e { \\nu } _ { i j }$ 比 $d e { \\nu } _ { i k }$ 更可靠, $d e { \\nu } _ { i j }$ 应该以更高的权值参与到评分预测中。故文献[4]提出了加权 Slope One 算法(Weighted Slope One Algorithm,WSO)如公式(3)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\np r e _ { u i } = \\frac { \\sum _ { \\substack { j \\in I ( u ) } } ( r _ { u j } + d e \\nu _ { i j } ) \\cdot \\mid U _ { i j } \\mid } { \\sum _ { \\substack { j \\in I ( u ) } } \\mid U _ { i j } \\mid }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SlopeOne算法在计算两个项目的平均评分偏差进而进行评分预测时没有对不同用户和项目加以区分，导致推荐结果不够准确。盈艳等[5基于 Slope One算法预测评分矩阵中必要的未评分项，利用基于用户的协同过滤推荐算法实现推荐；Wang 等先将用户聚类处理，然后对聚类后的用户群使用SlopeOne 算法进行评分预测，提高了推荐质量；张玉连等使用Jaccard系数找出具有影响力的用户和使用Pearson方法找出当前项目的相似项目对 SlopeOne 算法进行加权；刘林静等[通过评定用户活跃度的方式筛选出活跃用户，将活跃用户度作为评分预测的权重进而改善推荐准确度。然而上述方法均没有对项目和用户进行综合考虑，且都尚未对参与到评分预测中的用户已有评分进行有效区分。故本文针对这些问题，提出基于改进的项目相似性度量、改进的项目属性相似性度量和用户评分概率函数的多权值的SlopeOne协同过滤算法，对项目和用户进行了综合考虑，对不同的项目和用户进行有效的区分，改善了推荐系统对评分数据稀疏性的适应性，提高了推荐的准确度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3基于多权值的 Slope One协同过滤推荐算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1基于改进的项目相似度度量的SlopeOne算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "WeightedSlopeOne算法仅是简单地选取同时对两个项目都产生过评分的用户数量作为权重，在进行评分预测时并没有考虑到项目之间的差异，导致相似性较低的项目对评分预测产生了干扰，而相似性较高的项目没能有效参与到评分预测中。协同过滤旨在排除海量数据中不利信息对推荐系统的干扰，而对有利信息加以充分利用。故在使用SlopeOne 算法产生推荐时，项目相似性较高的项目应该以更高的权值参与到评分预测中，相似性较低的项目应该以一个较低的权值参与到评分预测中，将项目相似性作为一个合理的权值参与到评分预测能够有效提高推荐效果。传统的相似性度量方法有余弦相似性、Pearson相关系数、改进的余弦相似性9]，其中用Pearson相关系数进行项目评分相似性度量如公式(4)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns i m _ { p } ^ { } ( i , j ) = \\frac { \\sum _ { u \\in U _ { i j } } ^ { } ( r _ { u i } - \\overline { { r _ { i } } } ) ( r _ { u j } - \\overline { { r _ { j } } } ) } { \\sqrt { \\sum _ { u \\in U _ { i j } } ^ { } ( r _ { u i } - \\overline { { r _ { i } } } ) ^ { 2 } } \\sqrt { \\sum _ { u \\in U _ { i j } } ^ { } ( r _ { u j } - \\overline { { r _ { j } } } ) ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\overline { { r _ { i } } }$ 和 $\\overline { { r _ { j } } }$ 分别为项目 $i$ 和项目 $j$ 的评分均值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "但是，在大多数推荐系统中，由于用户评分的项目往往不超过总项目数的 $1 \\% ^ { [ 1 0 ] }$ ，评分数据的稀疏不能准确地获取用户偏好，影响了协同过滤推荐算法的性能，是协同过滤推荐面临的一大挑战[11]。在用户评分数据较多的情况下，用上述Pearson相关系数度量项目评分相似性一般都能取得不错的度量效果，但是在评分数据稀疏的情况下用Pearson相关系数则不能准确地计算出项目之间的相似性，因为Pearson相关系数度量项目评分相似性将对两个项目都产生了评分的用户作为计算的集合，假设这个集合很小而且对两个项目都产生了评分的用户对两个项目的评分十分相近，所得的项目相似性会偏高，但实际上这是不可靠的。既然对两个项目都产生评分的用户数量较小，直接将由这些用户评分计算得到项目相似性作为评分预测的权重就会产生较大的误差，因为少量的用户评分具有较大的偶然性，不具备较强的说服力。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文针对 Slope One 算法的适用场景，将共同评价了两个项目的用户数量和Pearson相关系数度量方法相融合，提出一种改进的项目评分相似性度量方法，计算方法如公式(5)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns i m _ { r } ( i , j ) = s i m _ { p } ( i , j ) \\cdot \\frac { \\mid U _ { i j } \\mid ^ { 2 } } { \\mid U _ { i } \\mid \\cdot \\mid U _ { j } \\mid }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中, $U _ { i j }$ 表示对项目 $i$ 产生过评分的用户数, $| U _ { i j } |$ 表示同时对项目 $i$ 和项目 $j$ 产生过评分的用户数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将其作为 Slope One 算法的一个权值参与到评分预测，得到基于改进的项目相似度的 Slope One 算法(Improved Item Similarity based Slope One Algorithm,ISSO)的评分预测方法，如公式(6)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\np r e _ { u i } = \\frac { \\sum _ { \\substack { j \\in I ( u ) } } ( r _ { u j } + d e \\nu _ { i j } ) \\cdot s i m _ { r } ( i , j ) } { \\sum _ { \\substack { j \\in I ( u ) } } s i m _ { r } ( i , j ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "公式(5)考虑了共同评分项目数对项目相似度的影响，在共同评分项过少且评分较为接近的情况下，可以避免直接使用Pearson相关系数度量导致相似度过高的问题。因此将公式(5)中改进的项目相似性作为一个权值引入到 Slope One 算法中可以缓解评分数据稀疏情况下直接使用Pearson相关系数度量不够准确的问题，能够将项目相似性以一个更合理的权值参与到评分预测，使评分预测更为准确，有效提高推荐的准确度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2基于改进的项目属性度量的SlopeOne算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在推荐系统中，不管是电子商务系统或是社交网络所涉及到的项目往往都会有类别信息，一个项目往往同时属于几个类别，例如一部电影可以同属于爱情片和喜剧片。传统的基于项目评分的相似性度量忽略了项目之间往往存在的属性联系，很显然两个项目属性类别交集越多那么它们就越类似，将项目属性相似性作为一个权值引入到SlopeOne 算法中可以弥补项目评分相似性度量不够准确时给推荐系统带来的问题，提高推荐质量。传统的计算项目属性相似度的方法为Jaccard系数，即将项目属性的交集与并集的比作为项目的属性相似性。但是在实际应用中项目的属性往往较少，项目属性的交集也就更小甚至是没有交集，这就导致了直接使用Jaccard系数进行项目属性相似性度量时出现较多的零值，造成参与到评分预测中的项目属性相似性为零，这显然过于绝对，不能因为两个项目之间没有共同的属性就视项目属性相似性为零，这样会对评分预测产生较大的偏差。针对在度量项目属性相似性时直接使用Jaccard系数出现的零相似性问题，本文引入修正的拉普拉斯平滑(LaplaceSmoothing)，提出一种新的项目属性相似性度量方法如公式(7)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns i m _ { a } ( i , j ) = \\frac { \\mid A _ { i } \\bigcap A _ { j } \\mid + \\alpha } { \\mid A _ { i } \\bigcup A _ { j } \\mid + N \\cdot \\alpha }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\mid A _ { i } \\cap A _ { j } \\mid$ 和 $\\mid A _ { i } \\cup A _ { j } \\mid$ 分别表示两个项目属性的交集和并集， $N$ 的取值为两个项目交集的最大值， $\\alpha$ 为可调参数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "拉普拉斯平滑主要是为了解决概率统计中某些分量在样本中没有出现过而导致的零概率问题，常见的方式为分子直接加1，分母加上样本容量的大小。在概率统计中，假设样本很大，对统计结果的计数加1造成的概率变化可以忽略不计，然而推荐系统中两个项目属性交集较小，直接加1显然会带来较大的误差。所以针对推荐系统的适用场景，在原有Jaccard系数计算公式中设置一个可调参数 $\\alpha$ 0 $( 0 \\leqslant \\alpha \\leqslant 1 )$ ，通过选取合适的 $\\alpha$ 值计算项目属性相似性。则相应的基于项目属性的 Slope One 算法(Item Attributes based Slope OneAlgorithm，IASO)的评分预测方法如公式(8)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\np r e _ { u i } = \\frac { \\sum _ { \\substack { j \\in I ( u ) } } ( r _ { u j } + d e \\nu _ { i j } ) \\cdot s i m _ { \\alpha } ( i , j ) } { \\sum _ { \\substack { j \\in I ( u ) } } s i m _ { \\alpha } ( i , j ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3基于用户评分概率函数的SlopeOne算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在公式(3)中，对于每个目标用户已有的评分是不加区分的，即公式中每个 $r _ { u j }$ 的权值都是1，这就忽略了用户的评分习惯及尺度的问题，在一定程度上影响了推荐的质量。有些用户偏向于打高分，有些用户则偏向于打低分，偏向于打高分的用户评分中出现的较低分不应该代表用户在大多数情况下给出的评分，参与到评分预测中的权重应该适当减少，偏向于给低分的用户的情况也类似。对于多数情况，在用户所有历史评分中出现较多的评分应该以更大的权重参与到评分预测中，因为这部分评分代表了用户更倾向给出的评分，有较大的概率出现。所以对于目标用户的不同评分，在评分预测中应该有不同的权重。本文将用户 $u$ 对项目评分值为rate的概率表示为 $p _ { u } ^ { r a t e }$ ，则其计算方法如公式(9)所示，用户评分概率函数计算方法如公式(10)所示，则相应的基于用户评分概率函数的 Slope One算法(User Rating Probability Function based Slope OneAlgorithm,UPSO)的评分预测方法如公式(11)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\np _ { u } ^ { r a t e } = \\frac { \\mid r _ { u } ^ { r a t e } \\mid } { \\mid r _ { u } \\mid }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\mid r _ { u } ^ { r a t e }$ |表示用户 $\\boldsymbol { u }$ 评分中评分为rate 的个数， $\\mid r _ { u } \\mid$ 表示用户 $\\boldsymbol { u }$ 对所有项目产生的评分个数。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( p _ { u } ^ { r a t e } ) = ( p _ { u } ^ { r a t e } ) ^ { \\beta }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\np r e _ { u i } = \\frac { \\sum _ { \\substack { j \\in I ( u ) } } ( r _ { u j } + d e \\nu _ { i j } ) \\cdot f ( p _ { u } ^ { r _ { u j } } ) } { \\sum _ { \\substack { j \\in I ( u ) } } f ( p _ { u } ^ { r _ { u j } } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4基于多权值的 Slope One算法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "上述ISSO 算法可以在一定程度上缓解评分数据稀疏对推荐系统的影响，引入项目属性可以有效平衡项目相似性度量不够准确情况下带来的不利影响，最后引入用户评分概率函数从用户评分尺度和个人偏好的角度调整每个用户已有评分的权重，从用户和项目两方面综合考虑，可使评分预测更加趋于合理，提高推荐系统的稳定性和推荐质量。故将上述公式(5)、公式(7)、公式(10)和公式(2)组合可以得到基于多权值的Slope One 算 法 (Multi-Weights based Slope OneAlgorithm,MWSO)，其评分预测方法如公式(12)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\np r e _ { u i } = \\frac { \\sum _ { \\substack { j \\in I ( u ) } } ( r _ { u j } + d e \\nu _ { i j } ) \\cdot s i m _ { r } ( i , j ) \\cdot s i m _ { \\alpha } ( i , j ) \\cdot f ( p _ { u } ^ { r _ { u j } } ) } { \\sum _ { \\substack { j \\in I ( u ) } } s i m _ { r } ( i , j ) \\cdot s i m _ { \\alpha } ( i , j ) \\cdot f ( p _ { u } ^ { r _ { u j } } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4实验及分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "预测测试集中已有的评分。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2 评价指标",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在评判推荐算法的准确度方面，通常把平均绝对偏差(MeanAbsoluteError,MAE)[l2作为其指标。MAE通过计算从训练集预测得到的用户评分与测试集中用户的真实评分的平均绝对差值进行推荐算法的准确性衡量。假设预测得到的用户评分为 $\\{ s _ { 1 } , s _ { 2 } , \\cdots , s _ { i } \\}$ ，对应的用户真实评分为 $\\{ t _ { 1 } , \\ t _ { 2 } , \\cdots , t _ { i } \\ \\}$ ，则MAE的计算方法如公式(13)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文采用的数据集为MovieLens站点提供的来自不同时间段的用户对电影评分的 $\\mathrm { m l - } 1 0 0 \\mathrm { k }$ 数据集，该数据集记录了有过浏览行为的943个用户对1682部电影的历史评分信息，并且提供了电影名称、电影类型、上映时间等电影属性信息，其评分数据稀疏度为$9 3 . 7 \\%$ 。本文实验选取的项目属性为电影类型，电影类型有科幻、冒险、动作、喜剧等18种类型，一部电影可以有多个类型。本文将该站点提供的数据集按 $4 : 1$ 的比例分成训练集和测试集，通过训练集的评分数据",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1 数据集",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ M A E = \\frac { \\displaystyle \\sum _ { i = 1 } ^ { N } \\Bigl | s _ { i } - t _ { i } \\Bigr | } { N }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.3 结果及分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1)ISSO 算法与 SO 算法对比实验 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了验证ISSO 算法的推荐准确度，实验将评分数据按用户个数为100、200、、900分成9组，分别使用ISSO算法和SO算法在不同用户数下进行评分预测，各自计算其MAE值，所得的实验结果如图1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f0ebc78a56f945a1a0e819535013903cdf62afc9851a37967430a6af75652d63.jpg",
+        "img_caption": [
+            "图1 ISSO 算法与 SO 算法对比实验结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过对比实验的结果可以看出在不同用户数下ISSO算法的MAE值均明显低于SO算法，说明ISSO算法的预测准确度要高于SO 算法，能够获得好的推荐效果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2)IASO 算法与 SO 算法对比实验 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文提出的IASO 算法中 $\\alpha$ 1 $( 0 \\leqslant \\alpha \\leqslant 1 )$ 为可调节参数，针对推荐系统的适用场景，每次实验将参数 $\\alpha$ 递增0.1进行评分预测并计算MAE值进行比较。作为对比的SO算法不含参数 $\\alpha$ ，其MAE无变化趋势，所得的实验结果如图2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea98a44868b1dd754f71cf39d03f59d96832af405f5c3ceda5f14b3ecb5b828e.jpg",
+        "img_caption": [
+            "图2 IASO算法与 SO算法对比实验结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分析实验结果可知，当 $\\alpha$ 为0时，项目属性相似度的度量方式变为Jaccard系数度量，计算所得MAE值较大，所以 $\\alpha$ 为0不是最好的取值。当 $\\alpha$ 的取值从0到0.1时，MAE值呈下降趋势，推荐准确度有所提升。当 $\\alpha$ 从0.1逐渐增大,MAE值呈上升趋势，推荐质量下降。当 $\\alpha$ 为1时，项目属性相似度的度量方式变为引入没有修正的拉普拉斯平滑及加一平滑的项目相似性度量，其MAE值较高，推荐效果也不理想。可见$\\alpha$ 取值过小或者过大都不利于项目属性以合适的权重参与到评分预测中，当 $\\alpha$ 值为0.1时计算所得的MAE值最小，推荐准确度最高。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3)UPSO 算法与SO 算法对比实验",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "与实验(2)类似，将公式(9)中参数 $\\beta$ 的取值范围设为[0.1,0.9]，每次实验将参数 $\\beta$ 递增0.1进行评分预测并计算MAE值。同样将SO算法作为对比，所得的实验结果如图3所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7df91a1338911775f163794aff91c2e43bf5904300d6e0ce0507742f35395fbc.jpg",
+        "img_caption": [
+            "图3 UPSO 算法与 SO 算法对比实验结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从实验结果可知，当 $\\beta$ 取值为0.6左右时UPSO算法的MAE值最小，推荐准确度最高。结合用户评分概率函数以评分出现概率的形式区分用户的评分，使用户的评分以一个合理的权值参与到评分预测，使推荐更加准确。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(4)MWSO算法与SO算法及其改进算法对比实验 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "与实验(1)类似，将评分数据按用户个数为100、200、、900分成9组，分别设置参数 $\\alpha$ 和参数 $\\beta$ 为0.6和0.1，使用MWSO算法进行评分预测，并用SO算法、WSO 算法及文献[7]提出的融合用户相似度与项目相似度的加权 Slope One 算法中的 MSO2 算法进行对比，所得的实验结果如图4所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3369dc48a2092a4317b38de627a0d93b0842d5e8487261f668c9ef1d575b5b66.jpg",
+        "img_caption": [
+            "图4MWSO算法与SO算法及其改进算法对比实验结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从对比实验可以看出，在不同的用户数下MWSO算法相比SO 算法、WSO算法及MSO2 算法其MAE值下降明显，即MWSO 算法可以得到更好的推荐准确度。可见结合了项目相似性、项目属性和用户评分概率的MWSO算法可以综合用户和项目因素优势互补，且当其中一方度量不够准确时另一方可以对参与到评分预测中的权重进行平衡，使推荐系统在多种不确定因素面前保持性能的相对稳定，保证推荐质量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5结语 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文研究的SlopeOne 算法相比传统协同过滤算法具有运用简单快捷、对新用户和新项目适应性强和运行效率高等优点，但在计算过程中未考虑项目相似性、项目属性及未区分用户已有评分，造成推荐准确度缺失。针对这些问题，本文一共提出了4种方法，即基于改进的项目相似度度量的ISSO算法、基于改进的项目属性相似度度量的IASO 算法、基于用户评分概率函数的UPSO算法和将上述三种算法进行组合的基于多权值的MWSO算法。实验结果表明，上述从用户或者项目角度改进后的算法相较于原始SO算法均可得到更高的推荐准确度，综合了用户和项目因素的基于多权值的 MWSO 算法的实验效果最为突出，相比原始SO算法MAE下降了 $5 . 4 \\%$ ，有效改善了推荐系统对评分数据稀疏性的适应性，提高了推荐准确度。然而本文提出的算法中都只关注了用户对项目产生的评分，没有关注用户对项目给出的评论，造成一些关键性信息缺失。因此如何将用户的评分和评论更好地结合起来对用户产生推荐将是下一步的重要研究内容。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]王鹏，王晶晶，俞能海．基于核方法的 User-Based 协同过 滤推荐算法[J]．计算机研究与发展，2013，50(7)：1444- 1451.(Wang Peng,Wang Jingjing,Yu Nenghai.A Kernel and User-Based Collaborative Filtering Recommendation Algorithm [J].Journal of Computer Research and Development,2013, 50 (7): 1444-1451.)   \n[2]居斌，钱沄涛，叶敏超.基于结构投影非负矩阵分解的协同 过滤算法[J]．浙江大学学报：工学版，2015，49(7): 1319-1325.(Ju Bin,Qian Yuntao,Ye Minchao.Collaborative FilteringAlgorithm BasedonStructuredProjective Nonnegative Matrix Factorization[J]. Journal of Zhejiang University: Engineering Science,2015,49(7):1319-1325.)   \n[3]孙光明，王硕，邹静昭．多因素复合度量的协同过滤推荐 算法[J]．计算机应用研究，2015，32(10):2896-2900.(Sun Guangming， WangShuo， Zou Jingzhao. Collaborative FilteringRecommendationAlgorithmMeasuredby Compound Multiple Fators[J]. Application Research of Computers,2015,32(10):2896-2900.)   \n[4]Lemire D,Maclachlan A.Slope One Predictors for Online Rating-Based Collaborative Filtering[C]//Proceedings of the 2007 SIAM International Conference on Data Mining, Newport Beach,California,USA.2007.   \n[5]盈艳，曹妍，牟向伟.基于项目评分预测的混合式协同过 滤推荐[J].现代图书情报技术，2015(6):27-32.(Ying Yan, Cao Yan,Mou Xiangwei. A Hybrid Collaborative Filtering Recommender Based on Item Rating Prediction [J].New Technology of Library and Information Service,2015(6): 27-32.)   \n[6]Wang J，LinK,Li J.A CollaborativeFiltering Recommendation Algorithm Based on User Clustering and Slope One Scheme [C]//Proceeding of the 8th International Conference on Computer Science Education.2013.   \n[7]张玉连，郁思思，梁顺攀．融合用户相似度与项目相似度 的加权 Slope One 算法[J]．小型微型计算机系统，2016, 37(6):1174-1l78.(Zhang Yulian,Huan Sisi,Liang Shunpan. Integrating User Similarity and Item Similarity into Weighted Slope One Algorithm [J].Journal of Chinese Computer Systems,2016,37(6): 1174-1178.)   \n[8]刘林静，楼文高，冯国珍．基于用户相似性的加权 Slope One 算法[J].计算机应用研究,2016,33(9):2708-2711.(Liu Linjing,Lou Wengao,Feng Guozhen. New Weighted Slope One Algorithm Based on User Similarity[J]．Application Research of Computers,2016,33(9): 2708-2711.)   \n[9] Finkenzeller K. RFID Handbook: Fundamentalsand Applications in Contactless Smart Cards and Identification [M].Hoboken: John Wiley & Sons,2003.   \n[10] 邹永贵，望靖，刘兆宏，等．基于项目之间相似性的兴趣 点推荐方法[J]．计算机应用研究，2012，29(1)：116-118. (Zou Yonggui,Wang Jing,Liu Zhaohong,et al.Point of Interest Recommendation Method Based on Similarity Between Items[J].Application Research of Computers,2012, 29(1): 116-118.)   \n[11]胡勋，孟祥武，张玉洁，等．一种融合项目特征和移动用 户信任关系的推荐算法[J]．软件学报，2014，25(8)：1817- 1830.(Hu Xun，Meng Xiangwu，Zhang Yujie,et al. Recommendation Algorithm Combing Item Features and Trust Relationship of Mobile Users[J].Journal of Software, 2014,25(8): 1817-1830.)   \n[12]Herloker JL，Konstan JA,Terveen L G,et al. Evaluating CollaborativeFilteringRecommenderSystems[J]. ACM Transactions on Information System (TOIS),2004,22(1): 5-53. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "覃幸新：提出研究思路，采集分析数据;  \n覃幸新，王荣波：进行实验，起草及修改论文;  \n王荣波，黄孝喜，谌志群：修改论文。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "利益冲突声明：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "所有作者声明不存在利益冲突关系。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "支撑数据：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "支撑数据由作者自存储,E-mail:15957191408@163.com。[1]覃幸新.ml-10ok.u.data.实验数据集.http://pan.baidu.com/s/1nu8gB49.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "收稿日期:2017-04-26   \n收修改稿日期:2017-05-21 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Slope One Collaborative Filtering Algorithm Based on Multi-Weights ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Qin XingxinWang RongboHuang XiaoxiChen Zhiqun (Institute of Cognitive and Intelligent Computing, Hangzhou Dianzi University, Hangzhou 310018, China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract:[Objective] This paper aims to increase the recommendation acuracy with the help of modified Slope One algorithm.[Methods] We proposed a Slope One Colaboration Filtering Algorithm basedon multi-weights,which improved the items’similarity measure,atributes similarity measure and users’rating probability function.Then,we combined the items’similarity measure with the number of users and Pearson corelation coeficient,the items' attributes similaritymeasure with modifiedLaplacian smoothingand Jaccard coefficient.Wealso identified users' ratings with a new probability function. [Results] The proposed method reduced the MAE by $5 . 4 \\%$ ，which increased the recommendation accuracy.[Limitations]The new method did not examine the users’comments,which might pose some negative ffects to therecommendation accuracy.[Conclusions] The proposed algorithm could effectively improve the service of recommendation systems. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Collaborative Filtering Slope OneMulti-WeightsItem Similarity Item Attributes ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "DeltaThink和LibLynx合作简化开放获取数据分析工具的访问",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Delta Think 和LibLynx于近日宣布合作，进一步增强Delta Think 开创性的开放获取数据分析工具(Open Access DataAnalytics Tool,OADAT)的用户体验。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "OADAT将 DeltaThink的知识和专长与强大的数据分析和可视化功能相结合，为OA出版市场提供前所未有的见解。利用Delta Think汇总、组织、标记参照引用，并不断更新的对开放获取影响的评述，以及可执行细分切片和切割信息的交互式工具，组织可以深入了解与之直接相关的信息。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "LibLynx的身份和访问管理解决方案使得Delta Think的OADAT能够快速打包成为一个企业订阅服务。LibLynx 的基于Web 的管理工具使得通过一系列流行的机构身份验证方法设置和配置基于订阅的访问变得快速简单，简化了用户的访问。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Delta Think 的首席执行官 Ann Michael表示:“将 LibLynx访问管理部署到Delta Think OA数据分析工具，使发布商和机构的无缝访问成为现实。这种合作关系使我们的用户能够轻松地在其组织内分享洞察和数据分析，鼓励数据驱动的战略发展和对标比较文化。”",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(编译自:http://www.liblynx.com/liblynx-delta-think-partner-to-simplify-institutional-access-to-oadat/) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(本刊讯) ",
+        "page_idx": 6
+    }
+]

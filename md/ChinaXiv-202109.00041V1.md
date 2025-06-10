@@ -1,0 +1,231 @@
+# 阴山北麓荒漠草原干旱气象因子分析
+
+尉迟文思²，苗恒录²，王星天²，高天明¹²，邬佳宾1.2（1.中国水利水电科学研究院,内蒙古阴山北麓荒漠草原生态水文野外科学观测研究站,北京100038;2.水利部牧区水利科学研究所，内蒙古 呼和浩特010020)
+
+摘要：草原是西部生态环境建设的关键部分,其生态系统极易受到破坏。近年来荒漠草原干旱灾害频发，以内蒙古阴山北麓荒漠草原生态水文国家野外科学观测研究站为试验区,通过监测不同坡位的降水变化，分析气象因子与干旱指标 $P A$ 值之间的联系与作用,并构建了回归模型。结果表明：(1)阴山北麓荒漠草原不同坡位的降水量为：下坡 $>$ 中坡 $>$ 上坡,对应的干旱指数 $P A$ 值为：上坡 $_ { P A } >$ 中坡 $_ P A >$ 下坡 $_ { P A \circ } ( 2 )$ 从各时间尺度观测可知：月尺度分析发现各坡位均出现不同程度的干旱现象，干旱频率较高;季尺度分析发现只在冬季出现轻旱现象;年尺度分析发现近5a该区域未达到干旱阈值。说明该地区年均降水充足,未发生干旱灾害。（3）根据降水量、气温、风速等主要气象因子与干旱指数 $P A$ 值构建的多元回归模型为： $Y _ { P \mathrm { { A } } } = 7 8 . 7 9 9 + 0 . 2 5 5 x _ { 1 } - 3 . 3 9 5 x _ { 2 } - 1 . 8 3 1 x _ { 3 } , R ^ { 2 }$ 为0.994，模型的拟合程度高,可以较好的反应出该区域的干旱情况。为进一步研究多气象因子与各类干旱指标之间的关系，以及构建旱情评价体系提供理论依据。
+
+关键词：降水量；干旱指数；荒漠草原；阴山北麓；多元线性回归
+
+干旱作为常见的自然灾害之一广泛分布于世界各地，是指较长时间段降水不足引起水分的收支不平衡而形成的缺水现象[1-3]。其影响程度非常严重，威胁着社会进步与经济发展。在气候变暖的大背景下，干旱化趋势已经成为国内外学者关注的问题之一[4-5]。据统计发现，自然灾害中有 $7 0 \%$ 来源于气象灾害，而因干旱致灾约占气象灾害的 $5 0 \%$ ,其造成的经济损失也最为严重[6-8]。自20世纪中后期至今，一方面受气候变化的影响，另一方面由于人类不合理的开发利用土地导致全球气温明显增高，在近几年来持续高温频繁发生[9]
+
+草原生态系统不仅能够促进经济发展，还有利于维护陆地生态环境，拥有调节气候、滋养水源、减缓地表冲刷、防止水土流失、改善土壤条件、净化大气、绿化环境等诸多作用，是西部地区分布最广也最易受到破坏的生态系统，因而成为整个中国西部生态环境建设的关键部分[10-14]。要对中国西部的草原生态系统进行合理的开发和建设，需要明确草原的作用，探明草原生态环境的现实状况、现存问题及其诱因，进而响应国家可持续发展的号召，坚持恢复植被和保持水土,阻止土地进一步沙漠化[15-17]。同时，要注意发挥区域优势，因地制宜，发展特色产业和绿色产业，将生态保护与可持续经济发展并重，促进中国西部的整体发展。但是，草原生态系统目前存在许多问题，人们采用粗放式的草原开发利用模式,过于重视短期利益,造成自然环境恶化[18-20]面对草原生态系统正在逐步退化这一事实，本研究根据降水量与气象干旱之间的联系，分析该地区发生干旱的情况并建立预测模型，为后续试验及设计提供基础研究。
+
+# 1研究区概况与方法
+
+# 1.1 研究区概况
+
+研究区位于内蒙古包头市达茂旗希拉穆仁镇哈拉乌素嘎查,地理位置位于 $1 1 1 ^ { \circ } 1 2 ^ { \prime } 0 0 " { \sim } 1 1 1 ^ { \circ } 1 2 ^ { \prime } 5 0 " \mathrm { E }$
+
+$4 1 ^ { \circ } 2 0 ^ { \prime } 4 0 " { \sim } 4 1 ^ { \circ } 2 1 ^ { \prime } 3 0 " \mathrm { N }$ ，阴山山地向内蒙古高原的过渡带，平均海拔 $1 6 0 0 \mathrm { ~ m ~ }$ ,地势平坦。属中温带半干旱大陆性季风气候，寒暑变化强烈，昼夜温差大。多年平均降水量为 $2 8 4 ~ \mathrm { m m }$ ,主要集中在7—9月，多年平均蒸发量为 $2 3 0 5 ~ \mathrm { m m }$ 。年平均气温$2 . 5 ~ \mathrm { ^ { \circ } C }$ ,多年平均日照时数 $3 1 0 0 \mathrm { ~ h ~ }$ ,无霜期 $8 3 { \mathrm { ~ d ~ } }$ 。多年平均风速 $4 . 5 \ \mathrm { m \cdot s ^ { - 1 } }$ ,冬春以北风和西北风为主，年大风日数为63d,沙尘暴日数 $2 0 { \sim } 2 5 \mathrm { d }$ O
+
+该地区地带性土壤为栗钙土，质地粗糙，土层浅薄。建群种为克氏针茅（Stipakrylovii）,优势种有羊草(Leymus chinensis）冷蒿(Aritimisia frigida)等,其他植物还有糙隐子草（Cleistogenes squarrosa）、冰草(Agropyron cristatum)等140余种。
+
+# 1.2 研究方法
+
+1.2.1研究设计试验设置在内蒙古阴山北麓荒漠草原生态水文国家野外科学观测研究站，研究区内设置3个不同坡位，分别为上坡、中坡、下坡，分别以$5 ^ { \circ }$ 的差异作为划分等级。在选定的各坡位上安装风蚀监测仪UGT-FE，分别设有3组，每组仪器均带有气象单元可收集相关资料，每半小时监测并记录一次气象数据。本试验收集到各坡位近5a风速、风向及降雨量等逐日气象数据，结合气象干旱指标降水量距平百分率（Percentage of Precipitation Anomaly,PA)构建回归预测模型，分析近5a发生干旱的情况以及预测模型的可靠性检验。
+
+# 1.2.2数据分析
+
+# (1)干旱指标的选取
+
+降水量距平百分率( $P A$ 值)是指某时段的降水量与多年同期平均降水量的差值占多年同期平均降水量的百分比。其意义明确，计算简单,对平均值的依赖较大。本文中 $P A$ 值对应的干旱等级依据《气象干旱等级标准》进行划分[2I]，如表1所示。
+
+# 表1PA值降水量距平百分率对应的干旱等级划分标准
+
+Tab.1 Standard for classification of drought grades corresponding to average precipitation percentage   
+
+<html><body><table><tr><td rowspan="2">等级</td><td rowspan="2">类型</td><td colspan="3">降水量距平百分率/%</td></tr><tr><td>月尺度</td><td>季尺度</td><td>年尺度</td></tr><tr><td>1</td><td>无旱</td><td>-40<PA</td><td>-25<PA</td><td>-15<PA</td></tr><tr><td>2</td><td>轻旱</td><td>-60<PA≤-40</td><td>-50<PA≤-25</td><td>-30<PA≤-15</td></tr><tr><td>3</td><td>中旱</td><td>-80<PA≤-60</td><td>-70<PA≤-50</td><td>-40<PA≤-30</td></tr><tr><td>4</td><td>重旱</td><td>-95<PA≤-80</td><td>-80<PA≤-70</td><td>-45<PA≤-40</td></tr><tr><td>5</td><td>特旱</td><td>PA≤-95</td><td>PA≤-80</td><td>PA≤-45</td></tr></table></body></html>
+
+PA=某时段降水量-多年期降水量 $\times 1 0 0 \%$ (1)
+
+# (2)主成分分析
+
+主成分分析是用来判断某事物或现象的综合指标，并对综合指标进行合理解释，从而更严谨的揭示事物内在规律。其原理是将原来 $p$ 个指标线性组合，作为新的综合指标进行分析，主成分模型如下所示：
+
+$$
+F _ { 1 } = a _ { 1 1 } x _ { 1 1 } + a _ { 2 1 } x _ { 2 1 } + \cdots + a _ { p 1 } x _ { p }
+$$
+
+$$
+F _ { _ 2 } { } = a _ { 1 2 } x _ { 1 2 } + a _ { 2 2 } x _ { 2 2 } + \cdots + a _ { _ { p 2 } } x _ { _ p }
+$$
+
+$$
+F _ { _ { p } } = a _ { _ { 1 m } } x _ { _ { 1 1 } } + a _ { _ { 2 m } } x _ { _ { 2 2 } } + \cdots + a _ { _ { p m } } x _ { _ { p } }
+$$
+
+式中： $a _ { 1 i } , a _ { 2 i } , \cdots , a _ { p i } ( i { = } 1 , \cdots , m )$ 为 $x$ 的协差阵 $\Sigma _ { } ^ { }$ 的特征值多对应的特征向量， $x _ { 1 } , x _ { 2 } , \cdots , x _ { p }$ 是原始变量经过标准化处理的值。但在实际应用中，只是一种达到目的的过程，而不是最终结果，需结合其他统计方法综合考虑[22]
+
+(3)多元线性回归模型多元线性回归的数学模型表示为：
+
+$$
+y = \beta _ { 0 } + \beta _ { 1 } x _ { 1 } + \cdots + \beta _ { p } x _ { p } + \varepsilon
+$$
+
+式中：因变量 $y$ 是随机观察值， $\beta _ { 0 }$ 为常数项,$\beta _ { \imath }$ ，…， $\beta _ { { } _ { p } }$ 称为偏回归系数。 $\beta _ { i } ( i = 1 , 2 , \cdots , p )$ 表示在其他自变量固定不变的情况下，自变量 $x _ { i }$ 每改变一个单位时，其单独引起因变量 $y$ 的平均改变量。
+
+设自变量个数为 $p$ ,用向量形式表示为 $\left( { { x } _ { 1 } } \right.$ $x _ { 2 } , \ \cdots , x _ { p } )$ ,设观察对象个数为 $n$ ，第 $i$ 例 $( i = 1 , 2 , \cdots$ $n$ )的一组观察值为 $( y _ { i } , x _ { i 1 } , x _ { i 2 } , \cdots , x _ { i p } )$ ,假定因变量 $y$ 与自变量 $x _ { 1 } , x _ { 2 } , \ \cdots \ , x _ { p }$ 间存在如下线性关系：
+
+$$
+y _ { i } = Y _ { i } + \varepsilon _ { i } = b _ { 0 } + b _ { 1 } x _ { i 1 } + \dots + b _ { _ p } x _ { i p } + \varepsilon _ { i }
+$$
+
+式中： $\ \varepsilon _ { i }$ 为残差，是因变量实测值 $\boldsymbol { y } _ { i }$ 与其估计值 $Y _ { _ i }$ 之间的差值。残差不由自变量决定，服从 ${ \bf N } ( 0 , \delta ^ { 2 } )$ 分布，对于判断所建 $P A$ 值回归模型的拟合度以及其他气象因子之间的联系等问题有非常重要的意义[22]
+
+# 2结果与分析
+
+# 2.1不同坡位逐年降雨量的比较
+
+气象干旱指标降水量距平百分率( $P A$ 值)主要根据不同时间尺度的降水量计算，因此对阴山北麓荒漠草原不同坡位逐年的降水量进行分析，研究其变化规律。图1分别表示在2015—2019年研究区上坡、中坡及下坡的降水量变化规律，从图1中可
+
+(a)上坡 --2015年140-0-2016年120 --2017年100  
+/雪 80 2019年6040200 X-20 1 2 3 4 5 6 7 8 9 10 11 12月份(b)中坡120 □-2015年  
+10 201年 \*2019年20□80 。-20 1 2 3 4 5 6 7 8 9 10 11 12月份(c)下坡 --2015年160140 -0-2016年120 -2017年2019年6040 。20 白0 O-20L1 2 3 4 5 6 7 8 9 10 11 12月份
+
+知，阴山北麓荒漠草原不同坡位近5a的降水量变化趋势大致相同，均显示在7一9月的降水量较大。在2017年，各坡位的降水量均最少，在2019年8月，各坡位的降水量均达到峰值，降水量分别为：123.3$\mathrm { m m } \ 、 9 7 \ \mathrm { m m } \ 、 1 4 4 . 8 \ \mathrm { m m }$ 。各坡位的年平均降水量分别为： $2 3 7 . 3 ~ \mathrm { m m } , 2 4 9 . 7 4 ~ \mathrm { m m } , 2 9 0 . 4 ~ \mathrm { m m }$ 。由此可知，同一地区的降水量受坡度的影响较大，该地区降水量由多到少为：下坡 $>$ 中坡 $>$ 上坡。
+
+# 2.2不同时间尺度不同坡位 $P A$ 值的变化规律
+
+从2015—2019年阴山北麓荒漠草原上坡1—12月的 $P A$ 值变化规律可知(图2)，月尺度的干旱阈值为-40,2015年达到干旱阈值共有5次，占总次数的$2 1 . 7 4 \%$ ;2016年共出现4次，占总次数的 $1 7 . 3 9 \%$ ·2017年共出现5次，占总次数的 $2 1 . 7 4 \%$ ;2018年共出现6次，占总次数的 $2 6 . 0 9 \%$ ;2019年共出现3次，占总次数的 $1 3 . 0 4 \%$ 。2015—2019年达到干旱阈值共有23次，其中轻旱共出现7次，占总次数的$3 0 . 4 3 \%$ ，中旱共出现3次，占总次数的 $1 3 . 0 4 \%$ ,重旱共出现3次，占总次数的 $1 3 . 0 4 \%$ ，特旱共出现10次，主要集中1—4月以及11—12月，占总次数的$4 3 . 4 8 \%$ ,峰值出现在2016年12月，高达 $1 7 2 . 7 3 \%$ 。
+
+![](images/dcd1dcce4a3c1f6f7e9c0be4db8f58fda071c32e156f08aff1cd8efbccdeb886.jpg)  
+图12015—2019年阴山北麓荒漠草原不同坡位月均降水量变化规律  
+Fig.1Monthly precipitation change rules of different slopes at the northern foot of Yinshan Mountain from 2O15-2019   
+图2 2015—2019年阴山北麓荒漠草原上坡 $P A$ 值变化规律 Fig.2 Changes of $P A$ value on the slope of the northern foot ofYinshan Mountain from 2015-2019   
+图32015—2019年阴山北麓荒漠草原中坡 $P A$ 值变化规律 Fig.3 Change lawof $P A$ value of the middle slope of the northern foot of Yinshan Mountain from 2015 to 2019
+
+从2015—2019年阴山北麓荒漠草原中坡1—12月的 $P A$ 值变化规律可知(图3)，2015年达到干旱阈值共有6次，占总次数的 $2 6 . 0 9 \%$ ;2016年共出现3次，占总次数的 $1 3 . 0 4 \%$ ;2017年共出现5次，占总次数的 $2 1 . 7 4 \% ; 2 0 1 8$ 年共出现6次，占总次数的$2 6 . 0 9 \%$ ;2019年共出现3次，占总次数的 $1 3 . 0 4 \%$ 。2015—2019年达到干旱阈值共有23次，其中轻旱共出现7次，占总次数的 $3 0 . 4 3 \%$ ,中旱共出现3次，占总次数的 $1 3 . 0 4 \%$ ，重旱共出现2次，占总次数的$8 . 7 0 \%$ ,特旱共出现11次，主要集中1一4月以及11—12月，占总次数的 $4 7 . 8 3 \%$ ,峰值出现在2015年11月，高达 $2 2 1 . 9 9 \%$ O
+
+250 ——2015年 —0—2016年200 丨2017年2018年2019年 -月尺度干旱阈值  
+%150  
+值100  
+P 500?-50 2 4女 白-100  
+-150 1 2 3 4 5 6 7 8 9 10 11 12月份
+
+从2015—2019年阴山北麓荒漠草原下坡1—12月的 $P A$ 值变化规律可知(图4)，2015年达到干旱阈值共有3次，占总次数的 $1 6 . 6 7 \%$ ；2016年共出现3次，占总次数的 $1 6 . 6 7 \%$ ;2017年共出现5次，占总次数的 $2 7 . 7 7 \%$ ;2018年共出现6次，占总次数的$3 3 . 3 3 \%$ ;2019年共出现1次，占总次数的 $5 . 5 5 \%$ 02015—2019年达到干旱阈值共有18次，其中轻旱共出现4次，占总次数的 $2 2 . 2 2 \%$ ,中旱共出现4次，占总次数的 $2 2 . 2 2 \%$ ，重旱共出现1次，占总次数的$5 . 5 5 \%$ ,特旱共出现9次，主要集中1一4月以及11—12月，占总次数的 $5 0 \%$ ,峰值出现在2016年12月，高达 $2 3 5 . 0 8 \%$ 。
+
+![](images/c29ae9fecacc58417620c02e542f0ad251489ed3effd4a6b3f46b6d0b0446c29.jpg)  
+图42015—2019年阴山北麓荒漠草原下坡 $P A$ 值变化规律 Fig.4 Changes of $P A$ value under the slope of the northern foot of Yinshan Mountain from 2015-2019
+
+从总体来看，阴山北麓荒漠草原各坡位不同年份逐月 $P A$ 值变化规律大致相同。每年的1一4月和11—12月的 $P A$ 值变化差异较大，且各坡位不同年份的 $P A$ 值在该时段的变化趋势大致相同，各坡位的峰值均在11一12月，该时段出现特旱的频率较高。该地区的降雨主要集中在每年的4一10月，降雨量的变化可较明显的体现出 $P A$ 值的变化,故选用在每年的4一10月的降雨量数据进行不同坡位PA值的比较分析。在该时段内，上坡到达干旱阈值的次数共有12次，中坡到达干旱阈值的次数共有10次。下坡到达干旱阈值的次数共有7次。可以说明以月尺度为标准，干旱程度由高到低为：上坡 $>$ 中坡 $>$ 下坡。
+
+# 2.3不同坡位季尺度和年尺度干旱强度的比较
+
+从阴山北麓荒漠草原年均季尺度 $P A$ 值变化规律可以看出(图5)，不同坡位的 $P A$ 值差异较大，下坡的 $P A$ 值均为正数，说明其降水量均高于多年平均降水量，干旱程度最低；中坡的 $P A$ 值均大于上坡，但在冬季中坡的 $P A$ 值远低于上坡且超过了干旱阈值，为 $- 3 2 . 5 2 \%$ ，属于轻旱。上坡的峰值出现在夏季，为 $- 5 . 2 6 \%$ ;中坡的峰值出现在秋季，为 $- 0 . 0 3 \%$ ;下坡的峰值出现在冬季，为 $4 7 . 2 4 \%$ 。以季尺度为标准，从坡位分析可知，干旱程度由高到低为：上坡 $>$ 中坡$>$ 下坡；从季节分析可知夏季的干旱程度最低，干旱程度由高到低为：冬季 $\vdots >$ 春季 $\mathrm { > }$ 秋季 $>$ 夏季。
+
+![](images/9a4563fa888971fff47b3a6171b2e90e5aec3cce79cce723bff25e05ea855c95.jpg)  
+图5阴山北麓荒漠草原年均季尺度 $P A$ 值变化规律 Fig.5 Changes of annual seasonal scale $P A$ valueof the northernfootofYinshanMountain
+
+图6为阴山北麓荒漠草原年均年尺度 $P A$ 值变化规律，从图中可以看出，上坡 $P A$ 值的变化呈波动变化的趋势，中坡 $P A$ 值呈逐年降低的变化趋势，下坡 $P A$ 值的变化逐年升高。上坡的峰值出现在2016年，为-5.80，中坡的峰值出现在2015年，为0.42，下坡的峰值出现在2019年，为18.61。下坡的 $P A$ 值远高于上坡及中坡，而中坡的 $P A$ 值高于上坡，但在2019年中坡的 $P A$ 值低于上坡。从坡位分析可知，在年尺度上干旱程度由高到低为：上坡 $>$ 中坡 $>$ 下坡。总体分析，不同坡位各年份的年均 $P A$ 值均没有达到干旱阈值，说明仅从 $P A$ 值分析，阴山北麓荒漠草原2015—2019年没有达到干旱的程度。
+
+![](images/de306c3df47b67256fbc91989bc4e35e04242661012360926dd2b814995aed86.jpg)  
+图6阴山北麓荒漠草原年均 $P A$ 值变化规律 Fig.6 Changes of average annual $P A$ value of the northern foot of Yinshan
+
+# 2.4结合气象因子构建 $P A$ 值模型
+
+影响气象干旱的因子不仅包括降水量，还包括气温、风速，太阳辐射等相关气象因子，以2015—2019年实测气象数据的平均值进行主成分分析，各因子的描述统计量如表2所示。
+
+Tab.2 Descriptive Statistics of meteorological factors   
+
+<html><body><table><tr><td>气象因子</td><td>平均值</td><td>标准差</td></tr><tr><td>降水量/mm</td><td>249.74</td><td>20.26</td></tr><tr><td>气温/℃</td><td>4.12</td><td>0.70</td></tr><tr><td>风速/(m·s-1)</td><td>2.60</td><td>0.12</td></tr><tr><td>相对湿度/%</td><td>56.96</td><td>2.31</td></tr><tr><td>地温/C</td><td>6.86</td><td>0.80</td></tr><tr><td>土壤水分/mm</td><td>12.46</td><td>0.40</td></tr><tr><td>太阳辐射/(W·m-2)</td><td>200.92</td><td>4.06</td></tr></table></body></html>
+
+# 表3主成分分析结果
+
+Tab.3 Princi PA1 components analysis results   
+
+<html><body><table><tr><td>主成分</td><td>特征值</td><td>方差贡献率/%</td><td>累积方差贡献率/%</td></tr><tr><td>1</td><td>3.934</td><td>56.197</td><td>56.197</td></tr><tr><td>2</td><td>1.645</td><td>23.495</td><td>79.691</td></tr><tr><td>3</td><td>1.008</td><td>14.405</td><td>94.097</td></tr></table></body></html>
+
+表3是提取平方和后选出的主成分，可以看出前3个主成分的累积方差贡献率达到了 $9 4 . 0 9 7 \%$ ，说明这3个综合指标可以较完整的体现出上述7个气象因子的差异情况。
+
+从各气象因子所占的成分比例可以看出（表4)，降水量、气温以及相对湿度在主成分分析中占有较高比例，说明这3个气象因子可以反应荒漠草原的干旱现象。
+
+表2气象因子描述统计量  
+
+<html><body><table><tr><td>R</td><td>R</td><td>调整R</td><td>标准估计的误差</td></tr><tr><td>0.997</td><td>0.994</td><td>0.991</td><td>0.162</td></tr></table></body></html>
+
+表4气象因子的成分载荷矩阵  
+Tab.4 Componentload matrix of meteorological factors   
+Tab.6 Variance analysis and test of the fitting model of precipitation distance level percentage   
+
+<html><body><table><tr><td>气象因子</td><td>主成分1</td><td>主成分2</td><td>主成分3</td></tr><tr><td>降水量/mm</td><td>-0.947</td><td>0.905</td><td>0.843</td></tr><tr><td>气温/℃</td><td>0.911</td><td>0.372</td><td>0.353</td></tr><tr><td>风速/(m·s-1)</td><td>-0.587</td><td>0.206</td><td>-0.053</td></tr><tr><td>相对湿度/%</td><td>0.928</td><td>0.774</td><td>-0.214</td></tr><tr><td>地温/C</td><td>0.803</td><td>0.160</td><td>0.276</td></tr><tr><td>土壤水分/mm</td><td>-0.488</td><td>-0.117</td><td>0.142</td></tr><tr><td>太阳辐射/(W·m2)</td><td>0.346</td><td>0.079</td><td>-0.167</td></tr></table></body></html>
+
+通过上述分析，选取2015—2019年阴山北麓荒漠草原降水量、气温以及相对湿度3个气象因子及监测干旱的 $P A$ 值进行整理分析，建立多重线性回归模型。由表5所示 $P A$ 值拟合模型的相关指标可见，复相关系数 $R$ 为0.997，决定系数 $R ^ { 2 }$ 为0.994，调整的决定系数 $R ^ { 2 }$ 为0.991，说明该模型的回归贡献率较大。表6是对 $P A$ 值拟合模型进行ANOVA方差分析的检验结果，气象干旱拟合模型差异极显著( $\scriptstyle ( P <$
+
+# 表5PA值拟合模型决定系数的更改
+
+# 表6PA值拟合模型的方差分析检验
+
+Tab.5 Change of decision coefficient of fitting model of precipitation distance   
+
+<html><body><table><tr><td>模型</td><td>平方和</td><td>均方</td><td>F值</td><td>P值</td></tr><tr><td>回归</td><td>28.737</td><td>9.579</td><td>1350.735</td><td>0.000</td></tr><tr><td>残差</td><td>0.11</td><td>0.11</td><td></td><td></td></tr><tr><td>总计</td><td>28.748</td><td></td><td></td><td></td></tr></table></body></html>
+
+0.01)。通过表5和表6可以看出， $P A$ 值构建的回归模型拟合程度高且该模型对于描述阴山北麓荒漠草原干旱情况具有实际意义。
+
+综上所述，以监测干旱的 $P A$ 值为因变量，以降水量 $\left( { { x } _ { 1 } } \right)$ 、气温 $\left( { { x } _ { 2 } } \right)$ 、空气湿度 $\left( { { x } _ { 3 } } \right)$ 为自变量建立的回归方程为：
+
+$$
+Y _ { p _ { A } } = 7 8 . 7 9 9 + 0 . 2 5 5 x _ { 1 } - 3 . 3 9 5 x _ { 2 } - 1 . 8 3 1 x _ { 3 }
+$$
+
+# 3讨论
+
+从降水量分析可知，2015—2019年阴山北麓荒漠草原的降水量变化差异显著，主要集中在每年的7—9月，而降水量下坡 $>$ 中坡>上坡，在夏季、秋季较为明显，该时段的降水量较大而且易受其他气象因子影响，由于立地条件不同，在降水多发季节更易汇流至中坡及下坡，故上坡降水量相对较少。且年均相对湿度显著降低，整体暖干化趋势明显，少数年份出现暖湿现象，与近年来相关研究的结果一致[23-27]
+
+从干旱指标方面分析，由于干旱的成因复杂，受多种因素影响，很难找到一个普遍适用的干旱指数[28-30]。同一干旱指数对于不同地区或者不同干旱指数对于同一地区的监测结果存在差异，故各干旱指数有显著的区域性特征或时间尺度的要求。在引起干旱时，降水量是主要的影响因素，而降水量距平百分率 $( P A )$ 是影响干旱发生的单因子判别指标，是只考虑降水量单因素的干旱指标，且监测干旱时不易受时间尺度的影响，在冬季蒸发量及气温均较低的情况下也不会对 $P A$ 值有较大的影响，故在不同时间尺度中分析均较有意义。作为阴山北麓荒漠草原生态水文系统方面的基础研究， $P A$ 值计算简便，因变量数据易收集，批量处理速度快，计算结果直接准确，便于为荒漠草原生态水文的相关研究提供研究依据。
+
+通过 $P A$ 值计算出2015—2019年阴山北麓荒漠草原不同坡位1—3月和11—12月的 $P A$ 值变化差异较大，4—10月的 $P A$ 值在干旱阈值附近上下波动，由于降水量主要集中在每年的4一10月，该时段的$P A$ 值较为准确。从不同时间尺度比较分析，该地区月尺度的 $P A$ 值差异显著，出现不同程度的干旱情况，在每年1—3月和11一12月的降水量较少，出现特旱的频率较高。从季尺度的 $P A$ 值分析可知，在冬季中坡出现了轻旱现象，从年均变化分析，该地区没有达到干旱阈值。从坡位比较分析，阴山北麓荒漠草原近5a的降水量大小为：下坡 $>$ 中坡 $>$ 上坡，故各时间尺度下干旱程度由高到低均为：上坡 $>$ 中坡>下坡。仅从降水量单一因素考虑分析阴山北麓荒漠草原不同坡位以及年尺度下 $P A$ 值的变化规律可发现，该地区近5a没有达到干旱的程度，每年的降水量较为充足。
+
+从模型预测方面分析，首先阴山北麓荒漠草原近5a的气象数据进行主成分分析，判断出影响该区域气象干旱的因子除降雨之外还有气温和相对湿度，主成分的贡献率高达 $9 4 . 0 9 7 \%$ ，可以较好的判断该区域的干旱情况。结合影响干旱的主要气象因子与干旱指数 $P A$ 值构建多元回归模型，在建模的过程中以监测的原始数据为依托，不同时段的降水量与上一阶段的数据进行一次加权平均，提高了预测模型的精确度，决定系数 $R ^ { 2 }$ 为0.994，说明模型拟合程度高，但 $P A$ 值的预测模型主要受季节变化的影响较大，在冬季和春季时的 $P A$ 值变化幅度较大，且数据有效值较少，故在建模的过程中出现的误差相对较大。因此，对于气象干旱指标方面的预测分析还需要在不同指标以及分析方法上进一步研究。
+
+# 4结论
+
+(1)阴山北麓荒漠草原不同坡位的降水量为：下坡 $>$ 中坡 $>$ 上坡,对应的干旱指数 $P A$ 值为：上坡 $_ { P A } >$ 中坡 $_ P A >$ 下坡 $\mathbf { \Sigma } _ { P A }$ 。
+
+(2)从各时间尺度观测可见：月尺度分析发现各坡位均出现不同程度的干旱现象，干旱频率较高；季尺度分析发现只在冬季出现轻旱现象；年尺度分析发现近5a该区域未达到干旱阈值。说明该地区年均降水充足，未发生干旱灾害。
+
+(3)根据降水量、气温、风速等主要气象因子与干旱指数 $P A$ 值构建的多元回归模型为： $\scriptstyle Y _ { P A } = 7 8 . 7 9 9 +$ $0 . 2 5 5 x _ { 1 } - 3 . 3 9 5 x _ { 2 } - 1 . 8 3 1 x _ { 3 }$ $R ^ { 2 }$ 为0.994，模型的拟合程度高，可以较好的反应出该区域的干旱情况
+
+# 参考文献(References）：
+
+[1]叶金印,黄勇,张春莉,等.近50年淮河流域气候变化时空特征 分析[J].生态环境学报,2016,25(1):84-91.[Ye Jinyin,Huang Yong,Zhang Chunli,et al. Spatial-temporal variations of climate change of the Huaihe River basin during recent 5O years[J]. Ecology and Environmental Sciences,2016,25(1): 84-91.]   
+[2]张强,张良,崔显成,等.干旱监测与评价技术的发展及科学挑 战[J].地球科学进展,2011,26(7):763-778.[Zhang Qiang, Zhang Liang, Cui Xiancheng,et al. Progresses and challenges in drought assessment and monitoring[J].Advances in Earth Science, 2011,26(7): 763-778.]   
+[3]吴双,姜丽霞,李宇光,等.基于自然灾害风险理论的黑龙江省 玉米干旱风险评价[J].气象与环境学报,2019,35(6):139-144. [Wu Shuang, Jiang Lixia, Li Yuguang,et al. Risk assessment of maize drought in Heilongjiang Province based on natural disaster risk theory[J].Journal of Meteorologyand Environment,2019,35 (6): 139-144.]   
+[4]尹晓东,董思言,韩振宇,等.未来50a长江三角洲地区干旱和 洪涝灾害风险预估[J].气象与环境学报,2018,34(5):66-75. [Yin Xiaodong,Dong Siyan,Han Zhengyu,et al.Projected risk of drought and floodat Yangtze River Deltafor the next 5O years[J]. Journal of Meteorology and Environment,2018,34(5):66-75.]   
+[5]屈莹波,赵媛媛,丁国栋,等.气候变化和人类活动对锡林郭勒 草原植被覆盖度的影响[J].干旱区研究,2021,38(3):802-811. [Qu Yingbo,Zhao Yuanyuan,Ding Guodong,et al. Effects of climate and human activities on vegetation cover changes in Xilingol steppe[J]. Arid Zone Research,2021,38(3): 802-811.]   
+[6]谷金芝,宫兆宁.2001—2015年华北平原植被覆盖度时空变化 特征及影响因素分析[J].测绘与空间地理信息,2018,47(8): 47-51.[Gu Jingzhi, Gong Zhaoning.Temporal and spatial variation characteristics of vegetation coverage and its influencing factors in North China Plain in the past 15 years(2001-2015)[J]. Geomatics & Spatial Information Technology,2018,47(8): 47-51.]   
+[7]薛昌颖,马志红,胡程达.近40年黄淮海地区夏玉米生长季干 旱时空特征分析[J].自然灾害学报,2016,25(2):1-14.[Xue Changying,Ma Zhihong,Hu Chengda.Spatiotemporal characteristics of drought during summer maize growing season in HuangHuai-Hai area for recent 4O years[J]. Journal of Natural Disasters, 2016,25(2): 1-14.]   
+[8]商沙沙,廉丽姝,马婷,等.近54a中国西北地区气温和降水的 时空变化特征[J].干旱区研究,2018,35(1):68-76.[Shang Shasha,LianLishu,Ma Ting,et al.Spatiotemporal variation of temperature and precipitation in Northwest China inrecent54 years[J]. Arid Zone Research, 2018,35(1): 68-76.]   
+[9]张德来,蔡福,史奎桥,等.东北地区春玉米主要生理参数对拔 节至灌浆期干旱的响应[J].气象与环境学报,2018,34(4):134- 138.[Zhang Delai, Cai Fu, Shi Kuiqiao,etal.Responses of main physiological parameters to drought stress during the period from jointing to filling of spring maize in Northeast China[J].Journal of Meteorology and Environment, 2018,34(4): 134-138.]   
+[10] 江凌,肖燚,饶恩明,等.内蒙古土地利用变化对生态系统防风 固沙功能的影响[J].生态学报,2016,36(12):3734-3747.[Jiang Ling,Xiao Yi,Rao Enming,et al. Effects of land use and cover change (LUCC) on ecosystem sand fixing service in Inner Mongolia [J]. Acta Ecologica Sinica,2016,36(12): 3734-3747.]   
+[11]廖晗茹,Indree Tuvshintogtokh,郭通,等.围封对蒙古荒漠草原 和高山草原植物群落组成及稳定性的影响[J].北京大学学报 (自然科学版),2020,1(3): 471-478.[Liao Hanru, Indree Tuvshintogtokh, GuoTong,eal.Efectsof grag exclusinonthegeta tion community composition and the community stability of dry steppe and mountain steppe ecosystems in Mongolia[J]. Acta Scientiarum Naturalium Universitatis Pekinensis,2020,1(3): 471-478.]   
+[12] 李成阳,赖炽敏,彭飞,等.青藏高原北麓河流域不同退化程度 高寒草甸生产力和群落结构特征[J].草业科学,2019,36(4): 1044-1052.[Li Chengyang,Lai Chimin,Peng Fei,et al.Alpine meadows at diffrent stages of degradation in the Beiluhe Basin of the Qinghai-Tibet Plateau: Productivity and community structure characteristics[J]. Pratacultural Science,2019,36(4): 1044-1052.]   
+[13] 杨新国,宋乃平,李学斌,等.短期围栏封育对荒漠草原沙化灰 钙土有机碳组分及物理稳定性的影响[J].应用生态学报, 2012,23(12): 3325-3330. [Yang Xinguo,Song Naiping,Li Xuebin,et al.Effects of short-term fencing on organic carbon fractions and physical stabilityof sandysierozem in desert steppeof Northwest China[J]. Chinese Journal of Applied Ecology,2O12,23(12): 3325-3330.]   
+[14] 于双,陶利波,许冬梅,等.封育对荒漠草原土壤有机碳及其活 性组分的影响[J].草业学报,2019,28(2):190-196.[Yu Shuang, Tao Libo,Xu Dongmei, et al.Effcts of enclosure on the soil organic carbon and its active components in desert steppe[J].Acta Prataculturae Sinica,2019,28(2): 190-196.]   
+[15] 谢莉,宋乃平,孟晨,等.不同封育年限对宁夏荒漠草原土壤粒 径及碳氮储量的影响[J].草地学报,2020,29(2):1-10.[Xie Li, Song Naiping,Meng Chen,et al. Time course of changes in soil particle size and carbon and nitrogen reserves after fencing Ningxia desert steppe[J].Acta Prataculturae Sinica,2020,29(2): 1-10.]   
+[16] 李国旗,邵文山,赵盼盼,等.荒漠草原区4种植物群落土壤种 子库特征及其土壤理化性质[J].生态学报,2019,39(17):6282- 6292.[Li Guoqi,Shao Wenshan, Zhao Panpan, et al.Analysis of
+
+soil seed bank characteristics and soil physical and chemical prop
+
+erties of tour plant communities in a desert steppe region[JJ. Acta Ecologica Sinica,2019,39(17): 6282-6292.] [17]Yang Bo,Gong Jirui,Zhang Zihe,et al. Spatial variation of carbon turnover time and carbon uptake in a Chinese desert steppe ecosystem[J].Ecological Indicators,2020,30(6): 112-120. [18] 高君亮,罗凤敏,高永,等.农牧交错带不同土地利用类型土壤 碳氮磷生态化学计量特征[J].生态学报,2019,39(15):5594-   
+5602.[Gao Junliang,Luo Fengmin,Gao Yong,et al.Ecological soil C,N,and P stoichiometry of different land use patterns in the agriculture-pasture ecotone of Northern China[J].Acta Ecologica Sinica,2019,39(15): 5594-5602.] [19]张苏琼,阎万贵.中国西部草原生态环境问题及其控制措施[J]. 草业学报,2006,12(5): 11-18.[Zhang Suqiong,Yan Wangui. Problems of steppe ecosystems and their countermeasures in western China[J]. Acta Prataculturae Sinica, 2006,12(5):1118.] [20] 许兴萍,裴生权.浅谈乐都区草原生态保护补助奖励政策的实 施[J].青海草业,2019,28(2): 27-28.[Xu Xingping,Pei Shengquan. Discussion on the implementation of steppe ecological protection subsidy and reward policy in Ledu district[J]. Qinghai Prataculture,   
+2019,28(2): 27-28.] [21] 曹立国,刘普幸,张克新,等.锡林郭勒盟草地对气候变化的响 应及其空间差异分析[J].干旱区研究,2011,28(5):789-794. [Cao Liguo,Liu Puxing, Zhang Kexin,et al. Analysis on response of steppes to climate change and its spatial difference in Xilingol League[J]. Arid Zone Research,2011,28(5): 789-794.] [22]武松,潘发明.SPSS 统计分析大全[M].北京:清华大学出版社,   
+2016,334-341,217-228,408,416.[Wu Song,PanFaming. SPSS Statistical Analysis[M]. Beijing: Tsinghua University Press,2016,   
+334-341,217-228,408,416.] [23] 马柱国,符棕斌.1951—2004年中国北方干旱化的基本事实 [J].科学通报,2006,51(20): 2429-2439.[Ma Zhuguo,Fu Zongbin.Basic facts of drought in Northern China 1951-2004[J]. Chinese Science Bulletin,2006,51(20): 2429-2439.] [24] 张强,张存杰,白虎志,等.西北地区气候变化新动态及干旱环 境的影响[J].干旱气象,2010,28(1):1-7.[Zhang Qiang, Zhang Cunjie,Bai Huzhi, et al. New development of climate change in Northwest China and its impact on arid environment[J]. Journal of Arid Meteorology,2010,28(1): 1-7.] [25]王素平,段海霞,冯建英.2009—2010年冬季全国干旱状况及 其影响与成因[J].干旱气象,2010,28(1):107-112.[Wang Suping,Duan Haixia,Feng Jianying. National drought situation and its impact and causes in the winter 2OO9-2O1O[J]. Journal of Arid Meteorology,2010,28(1): 107-112.] [26] 柳媛善,白虎志,钱正安,等.近20年新疆中部明显增湿事实的 进一步分析[J].高原气象,2011,30(5):1195-1203.[Liu Yuanshan,Bai Huzhi, Qian Zheng'an,et al.Further analyses of obvious moistening in central Xinjiang in recent 2O years[J].Plateau Meteorology,2011,30(5): 1195-1203.]
+
+[27]徐新创,葛全胜,郑景云,等.区域农业干旱风险评估研究-以 中国西南地区为例[J].地理科学进展,2011,30(7):883-889. [Xu Xinchuang, Ge Quansheng, Zheng Jingyun, et al.Drought risk assessment on regional agriculture:A case in Southwest China[J]. Progress in Geography,2011,30(7): 883-889.]
+
+[28] 陈晓楠,段青春,刘昌明,等.基于两层土壤计算模式的农业干 旱风险评估模型[J].农业工程学报,2009,25(9):51-56.[Chen Xiaonan,Duan Qingchun,Liu Changming,et al.Model of risk assessment for agricultural drought based on two-layer soil computing model[J]. Transactions of the Chinese Society of Agricultural
+
+Engineering,2009,25(9): 51-56.]
+
+[29]Shi Peijun,Du Juan,Ji Mengxin et al.Urban risk assessment research of major natural disasters in China[J].Advances in Earth Science,2006,21(2): 170-177.
+
+[30] 张顺谦,卿清涛,侯美婷,等.基于温度植被干旱指数的四川伏 旱遥感监测与影响评估[J].农业工程学报，2004,23(9)：141- 146.[Zhang Shunqian,Qin Qingtao,Hou Meiting,et al.Remote sensing and impact estimation for Sichuan hot-drought based on temperature vegetation dryness index[J]. Transactions of the Chinese Society of Agricultural Engineering, 2004,23(9): 141-146.]
+
+# Analysis of meteorological factors affecting drought in a desert steppe of the northern foot of Yinshan Mountain
+
+YUCHI Wensi²，MIAO Henglu12，WANG Xingtian'²，GAO Tianming'2，WU Jiabin2 (1.Yinshanbeilu NationalField Research Stationof Desert Steppe Eco-Hydrological System,China Instituteof Water Resources and Hydropower Research,Beijing 1OO038,China；2.Institute of Water Resources for Pastoral Area, Ministry of Water Resources,Hohhot O1002O,Inner Mongolia, China)
+
+Abstract: Steppe is a key partof the ecological environment construction in the west region,and its ecosystem is very fragile.In recent years,desert steppe drought disasters occur frequently.Taking the Yinshanbeilu National Field Research Station of Desert Steppe Eco-Hydrological System in Inner Mongolia as the experimental area, the precipitation changes at different slope positions are monitored,therelationship and function between meteorological factors and drought index $P A$ value are analyzed, and a regression model is constructed. The results show that: (1)the precipitation at different slope positions of the desert steppe at the north foot of Yinshan Mountain is: downhill>middle slope>uphill, and the corresponding drought index $P A$ value is: $\mathrm { \ u p h i l l } _ { P A } >$ middle slope $_ { P A } >$ downhillp4 (2）From the observation of each time scale,monthly scale analysis shows that there are different degrees of drought at each slope position,and the drought frequency is high； Seasonal scale analysis shows that light drought occurred only in winter; The annual scale analysis found that the region did not reach the drought threshold in recent 5years. Overall,the average annual precipitation in this area is sufficient and there is no drought disaster. (3）The multiple regression model constructed according to the main meteorological factors such as precipitation, air temperature and wind speed and the drought index $P A$ value is: $Y _ { P A } { = } 7 8 . 7 9 9 + 0 . 2 5 5 x _ { 1 } { - }$ $3 . 3 9 5 x _ { 2 } - 1 . 8 3 1 x _ { 3 }$ $R ^ { 2 } { = } 0 . 9 9 4$ ,the fitting degree of the model is high,which can better reflect the drought situation in theregion.It provides a theoretical basis for further studying the relationship between multi meteorological factors and various drought indicators, as well as constructing drought evaluation system.
+
+Keywords: precipitation； drought index；desert steppe;the northern foot of Yinshan Mountain;multiple linear regression

@@ -1,0 +1,481 @@
+[
+    {
+        "type": "text",
+        "text": "Positively charged loose nanofiltration membrane grafted by diallyl dimethyl ammonium chloride (DADMAC) via UV for salt and dye removal ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fu Liu\\*, Bi-rong Ma, Dong Zhou, Li-Jing Zhu, Yin-Yi Fu, Li-xin Xue \\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "NingboInstiuteftialsoloeigedfc9ogodgo ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE INFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article history:   \nReceived23May 2014   \nReceived in revised form 20 August 2014   \nAccepted 1 September 2014   \nAvailable online 16 September 2014 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Positive charges Loose nanofiltration Salt rejection Dyeremoval ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A novel positively charged loose nanofiltration (NF) membrane was fabricated feasibly by UV-induced photografting polymerization of diallyl dimethyl ammonium chloride(DADMAC)on Polysulfone ultrafiltration membrane.A possible reaction mechanism was proposed that a linear chain structure and/or pyrrolelike five-membered nitrogen heterocycles structure on the side chain were grafted to form the active barrier layer.NF membrane demonstrated a looser average pore size of $8 . 6  { \\mathrm { n m } }$ and positive charges surface. Owing to the nanoscale ultrathin nanoscale barrer layer and the combination of Donnan exclusion and steric hindrance,NF membrane exhibited good hydrophilicity,a high pure flux of $6 0 \\mathrm { L } / \\mathrm { m } ^ { 2 } \\mathrm { h }$ $( 0 . 5 \\mathrm { M P a } )$ ,a good salt rejection to $\\mathsf { M g } ^ { 2 + } ( 9 0 . 8 \\% ) , \\mathsf { A l } ^ { 3 + } ( 9 4 . 0 \\% ) , \\mathsf { C a } ^ { 2 + } ( 9 1 . 5 \\% )$ ,and a high dye rejection to methylene blue $( 9 9 . 4 \\% )$ and congo red $( 1 0 0 . 0 \\% )$ respectively. The salts rejection of NF membrane to different salts followed the order of $\\mathsf { A l C l } _ { 3 } > \\mathsf { C a C l } _ { 2 } > \\mathsf { M g C l } _ { 2 } > \\mathsf { N a C l } > \\mathsf { L i C l } > \\mathsf { M g S O } _ { 4 } > \\mathsf { N a } _ { 2 } \\mathsf { S O } _ { 4 } .$ NF membrane showed certain fouling resistance to seawater and BSA solution.The grafting polymerization kinetics were comprehensively investigated including irradiation time,monomer concentration and irradiation intensity.X-ray Photoelectron Spectroscopy (XPS),scanning electron microscopy (SEM),atomic force microscopy (AFM) and contact angle measurement were employed to investigate membrane chemistry, morphologies,and hydrophilicity. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nanofiltration(NF) membrane established technical superiority over reverse osmosis and ultrafiltration especially in application areas of low energy cost seawater desalination,drinking water softening,food chemistry,petrochemistry,catalysis and pharmaceutical manufacturing etc.due to the following unique characteristics:the molecular weight cut-off for dissolved organic solutes is between 200 and $2 0 0 0 { \\mathrm { D a } }$ ，the operation pressure is relatively lower than reverse osmosis,the separation of different valence ions can be achieved owning to the selectivity of mono-and multi- ions, e.g. the rejection of divalent and multivalent ions is higher than $90 \\%$ ，while the rejection of monovalent ion is lower than $80 \\%$ It has been universallyacknowledged that the separation mechanism of NF membrane combined both steric hindrance and Donnan exclusion. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Upto date,NF membranes were mainly fabricated by two methods: one step phase separation [1-3] and multi step modification on base ultrafiltration membrane [4-7].The former direct phase separation method could be used to prepare integrally skinned asymmetric nanofiltration membranes of polyetherimide, polyacrylonitrile and polyethersulfone etc.The latter usually includes two steps,the base ultrafiltration membrane was first prepared by phase inversion [8-11],and then the functional active layerfor nanoscacle selective permeation was constructed on the base membrane via diverse approaches,which includes dipcoating[12,13]，interfacial polymerization [4,7,14,15]，surface cross-linking [16-18] and UV-induced grafting polymerization [6,19,2O] etc.A soluble poly(ether ether sulfone)(PEEK) ionomer with pendant quaternary ammonium groups (QAPEEK) was dipcoated on Polysulfone ultrafiltration membrane to form a positive charged nanofiltration membrane [12,13],however the van derWaals forces between compound and the base membrane cannot guarantee the long term stability of nanofiltration performances in the running process.In terms of interfacial polymerization and cross-linking,trimesoyl chloride(TMC) and aliphatic amines or triethanolamine are usually adapted to form the thin barrier film,and the reaction kinetics of the monomer type and concentration, the polymerization time and temperature are main factors to determine the performances of nanofiltration membrane.UV-induced grafting polymerization exhibited advantages of feasible operation and controllable reaction;UV irradiation initiated the formation of free radicals on Polysulfone ultrafiltration membranes and covalent bonding of vinyl monomers to form the firm selective barrier layer.Various monomers with positive charges,negative charges orhydrophilicity can endow the nanofiltration membrane with desired properties.The summary ofNF membranes performances mentioned above from previous studieswas listed in Table 1.Most NF membranes are either neutral or negative in aqueous environment due to the materials natural properties.However,positively charged membranesare highly demanded in current applications e.g. the multi valent cations removing from water,recovery of valuable cationic macromolecules in the bioprocess and pharmaceutical industries,heavy metal or dyes removing from effluents. To alleviate the fouling of NF membrane by ions or organic matters, it is necessary to endow the current membrane with certain hydrophilicity. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this paper,a novel positively charged loose nanofiltration with relatively low operating pressure and high water flux was feasibly prepared by UV-induced grafting polymerization.To the best of our knowledge,the comprehensive studies on the photopolymerization of diallyl dimethyl ammonium chloride (DADMAC) on Polysulfone membrane via UV were not reported before. DADMAC is a positively charged and hydrophilic monomer,which is in favor of the feasible polymerization and crosslinking layer on the nanofiltration membrane.It can be self-crosslinked and form the barrierlayerunder the irradiation ofUV.The UV-induced grafting polymerization kinetics including reaction time,monomer concentration and irradiation intensity was investigated.The surface chemical component,morphology,roughness,surface hydrophilicity,water flux and rejection to different ions and dyes e.g.methylene blue and congo red were analyzed and discussed in this paper. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Experimental section ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Materials ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Diallyl dimethyl ammonium chloride(DADMAC, $6 5 \\mathrm { w t } . \\%$ in water）was purchased from Shangdong Luyue Chemical Co.,Ltd, China.Lithium chloride (LiCl),Sodium chloride(NaCl),Sodium sulfate $( \\mathsf { N a } _ { 2 } \\mathsf { S O } _ { 4 } )$ ),magnesium sulfate $\\mathrm { ( M g S O _ { 4 } ) }$ ,magnesium chloride $( \\mathrm { M g C l } _ { 2 } )$ ,Calciumchloride $( \\mathsf { C a C l } _ { 2 } )$ and Aluminum chloride $\\left( \\mathsf { A l C l } _ { 3 } \\right)$ were purchased from Aladdin Chemistry Co.,Ltd, China to measure the NF membrane rejection properties.Bovine serum albumin (BSA）was purchased from Aladdin Chemistry Co.，Ltd,China. Seawaterwas collected from East China Sea. Polysulfone ultrafiltration(UF) membrane as the basic support was prepared in our lab by the traditional phase inversion method as described in our previous work [21], the base membrane has the molecular weight cut-off（MWCO）of $2 5 { - } 3 0 \\mathrm { k D a }$ and pure water flux(F) of $3 0 0 \\mathrm { L } / \\mathrm { m } ^ { 2 } \\mathrm { h }$ at $0 . 1 \\mathrm { M P a }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/25335e9936995a12bc2ae7a824d509ac91a01cd8612e60e2b4574de49d5dfb1e.jpg",
+        "table_caption": [
+            "Table 2 Preparation conditions of NF membranes. "
+        ],
+        "table_footnote": [
+            "a Irradiation distance is the vertical distance from UV lamp to the sample. "
+        ],
+        "table_body": "<html><body><table><tr><td>Membranes</td><td>Monomer concentration (wt.%)</td><td>Irradiation time (min)</td><td>Irradiation distancea(cm)</td></tr><tr><td>NF-1</td><td>50</td><td>1</td><td>22</td></tr><tr><td>NF-2</td><td>50</td><td>3</td><td>22</td></tr><tr><td>NF-3</td><td>50</td><td>5</td><td>22</td></tr><tr><td>NF-4</td><td>50</td><td>7</td><td>22</td></tr><tr><td>NF-5</td><td>50</td><td>9</td><td>22</td></tr><tr><td>NF-6</td><td>50</td><td>10</td><td>22</td></tr><tr><td>NF-7</td><td>50</td><td>15</td><td>22</td></tr><tr><td>NF-8</td><td>10</td><td>7</td><td>22</td></tr><tr><td>NF-9</td><td>30</td><td>7</td><td>22</td></tr><tr><td>NF-10</td><td>40</td><td>7</td><td>22</td></tr><tr><td>NF-11</td><td>45</td><td>7</td><td>22</td></tr><tr><td>NF-12</td><td>55</td><td>7</td><td>22</td></tr><tr><td>NF-13</td><td>65</td><td>7</td><td>22</td></tr><tr><td>NF-14</td><td>50</td><td>7</td><td>30</td></tr><tr><td>NF-15</td><td>50</td><td>7</td><td>26</td></tr><tr><td>NF-16</td><td>50</td><td>7</td><td>18</td></tr><tr><td>NF-17</td><td>50</td><td>7</td><td>10</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Fabrication of nanofiltrationmembrane ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Polysulfone ultrafiltration membrane was immersed in $3 0 0 \\mathrm { m l }$ of DADMAC aqueous solution at various concentrations（10,30, 40,45,50,55 and 65 wt $\\%$ respectively).The UV-induced grafting polymerization was initiated using 4Oo W UV lamp with the wavelength of $3 6 5 \\mathrm { n m }$ .The polymerization was carried out directly at room temperature and under air atmosphere.The reaction time was varied from1,3,5,7,9,10 to $1 5 \\mathrm { m i n }$ and the irradiation intensity was tuned by the vertical distance from the lamp to the sample (10,18,22,26 and $3 0 \\mathrm { c m }$ respectively).The detailed preparation conditions of NF membranes are summarized in Table 2.After the grafting polymerization,the NF membranes were washed by ethanol and deionized water sequentially for three times to remove residual monomers. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.Characterization of nanofiltration membrane ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The surface chemistry of nanofiltration membrane was characterized using an X-ray Photoelectron Spectroscopy (XPS,AXIS ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/5d60492fd649f10fdcd0beb6c2b80f822dba495d018474109bb46dc716aa0adb.jpg",
+        "table_caption": [
+            "Table 1 Summary of NF membranes performance from previous studies. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Reference</td><td rowspan=\"2\">Pressure (MPa)</td><td rowspan=\"2\">Flux (L/m² h)</td><td colspan=\"6\">Rejection (%)</td></tr><tr><td>PEG</td><td>Na2SO4</td><td>MgSO4</td><td>MgCl2</td><td>NaCl</td><td>MWCO</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>35</td><td></td></tr><tr><td></td><td>1.379</td><td>517</td><td>81</td><td></td><td>//</td><td>1//-</td><td></td><td>//</td></tr><tr><td>[3]</td><td>0.4</td><td>8</td><td>！</td><td>//万</td><td>42</td><td></td><td>17</td><td>1</td></tr><tr><td>[4]</td><td>0.6</td><td>27</td><td>92</td><td>94</td><td>93</td><td>75</td><td>35</td><td>600</td></tr><tr><td></td><td>1/0.6</td><td>60.3</td><td></td><td>30.5</td><td>86.4</td><td>94.5</td><td>38.7</td><td></td></tr><tr><td>[5]</td><td>0.8</td><td>60</td><td>//1</td><td>22</td><td>22.1</td><td>92.4</td><td>62.2</td><td>！</td></tr><tr><td>[6]</td><td></td><td></td><td>1</td><td>！</td><td>！</td><td>91.3</td><td>1</td><td>/ 800</td></tr><tr><td>[12]</td><td>0.4 0.4</td><td>62.5 50</td><td>！</td><td>！</td><td>！</td><td>94.9</td><td>58</td><td></td></tr><tr><td>[14]</td><td>0.6</td><td>20</td><td>！</td><td></td><td>！</td><td>94.3</td><td>60.7</td><td>300</td></tr><tr><td>[16]</td><td>0.8</td><td>25</td><td></td><td>1 >90</td><td>/</td><td>/</td><td>>40</td><td>/</td></tr><tr><td>[19]</td><td></td><td></td><td>//</td><td></td><td>25.3</td><td>91</td><td>47.6</td><td>/ 319</td></tr><tr><td>Our NF</td><td>0.5</td><td>60</td><td></td><td>12.5</td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f424a062cc1d58caba325b3ba7851bcbcd9b599add660ab803dede13dec9ac24.jpg",
+        "img_caption": [
+            "Figicr "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4adff1e9b283e69edfa934eb938f7630acdfb1e3232777f2e45273198c9644a3.jpg",
+        "img_caption": [
+            "Fig.2.Effect of reaction time on water flux and salt rejection $( \\mathrm { M g C l } _ { 2 } )$ (monomer concentration, $50 \\%$ ,irradiation distance $2 2 \\mathrm { c m }$ ) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b4ad41cc07406719960905b83c7cefde96f6e4337d3f005473e7c3ba94ba876f.jpg",
+        "img_caption": [
+            "Fig.3.Effect of monomer concentration on water flux and salt rejection $( \\mathrm { M g C l } _ { 2 }$ ） (irradiation time $7 \\mathrm { { m i n } }$ ,irradiation distance $2 2 \\mathrm { c m }$ ) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/417160c5c35ca46bead9840f1af2512f6352a05ad49cfdb595873687aa0afca6.jpg",
+        "img_caption": [
+            "Fig.4.Effect of irradiation distance on water flux and salt rejection $( \\mathrm { M g C l } _ { 2 } )$ (monomer concentration $50 \\%$ ,irradiation time $7 \\mathrm { m i n }$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/72907241a64d749981b42fddf0cae4204d7b05b02752a2e913be3701a5eff9ac.jpg",
+        "img_caption": [
+            "Fig.5.XPS spectra of PSF substrate membrane: UF and NF membrane: NF-4,NF-6, NF-7. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "UTLTRADLD, Japan).The take-off angle of the photoelectron wasset at $9 0 ^ { \\circ }$ ：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The morphology of the cross section and top surface of membranes were characterized using a scanning electron microscopy (SEM,S-48oo,Hitachi, Japan), the cross section samples were broken in liquid nitrogen,and all samples were coated with gold by sputtering for $2 \\mathrm { m i n }$ .AFM images of the top surfaces were also taken ona Dimension 31ooV SPM from Veeco,US.It was operated in tapping mode in a scan size of $2 \\mu \\mathrm { m } \\times 2 \\mu \\mathrm { m }$ to observe the roughness and morphology on a molecular size level. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Contact angle(CA) was measured to determine the hydrophilicity of the NF membrane bya contact angle system(OCA2o,Dataphysics,Germany).The contact angle change with the dropage was recorded. The average pore size and pore size distribution were determined bya liquid-liquid porometer(LLP-12ooA,Porous Materials Inc.US) [21,22]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ce03ba30aa6f70ac4e0a6bb96a1120b2fcf365c770d27eb9709d5e087fbab39a.jpg",
+        "table_caption": [
+            "Table 3 Mass concentration of N,Cl and S elements on UF and NF-4, NF-6,NF-7 membranes. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Membranes</td><td colspan=\"3\">Mass concentration (%)</td></tr><tr><td>N1s</td><td>Cl2p</td><td>S2p</td></tr><tr><td>UF</td><td>0.00</td><td>0.00</td><td>5.59</td></tr><tr><td>NF-4</td><td>4.10</td><td>0.50</td><td>4.12</td></tr><tr><td>NF-6</td><td>7.01</td><td>4.24</td><td>1.60</td></tr><tr><td>NF-7</td><td>7.18</td><td>6.61</td><td>1.19</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/18c4d22e0b26af2f6d2bd9cf9b2b58d9fcbcca8cb20c75238b013bf8a66a3826.jpg",
+        "img_caption": [
+            "Fig.6.FTIRanalysis of PSF membranesand NF-4 membrane. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The filtration performance of the membrane was measured by a cross flow filtration system(Saifei Company,China)(the effective area of membrane is $2 4 \\mathrm { c m } ^ { 2 }$ ).Pure water flux (F),seawater flux and BSA $( 1 \\ \\mathrm { g / L } )$ permeation flux was measured at $0 . 5 \\mathrm { M P a }$ after pre-compaction for $4 0 \\mathrm { m i n }$ at $0 . 6  { \\mathrm { M P a } }$ .Every sample was measured three times and the average value was reported.F was defined as formula (1). ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF = \\frac { V } { A \\times t }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $V$ is the permeate volume (L),A is the membrane effective area $( \\mathsf { m } ^ { 2 } )$ ,and $t$ is the operation time (h). The dye rejection of NF membrane was characterized with methylene blue $\\mathrm { { ' M n } } = 3 1 9 . 9 \\mathrm { { D a } }$ ） and congo red $\\mathrm { ( M n = 6 9 6 . 7 D a } ^ { \\cdot }$ ）aqueous solutions.Absorbance of feed and permeate solution of methylene blue( $\\mathrm { ? . m a x = 6 6 0 n m }$ and congo red $( \\lambda \\mathrm { m a x } = 5 1 0 \\mathrm { n m }$ ）were examined by UV-VIS-NIR spectrometer (Lambda 95o,Perkin Elmer,US).The rejection (R) was calculated as formula (2) ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR = \\left( 1 - \\frac { A _ { 1 } } { A _ { 0 } } \\right) \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $A _ { 1 }$ and $A _ { 0 }$ is the absorbance of permeate and feed solution, respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Salt rejection ratio $\\left( R _ { s } \\right)$ of membrane was characterized with $1 \\ \\mathrm { g / L }$ salt solution (including ${ \\tt N a } _ { 2 } { \\tt S O } _ { 4 }$ ， $ { \\mathbf { M } }  { \\mathbf { g } } _ { 2 }  { \\mathbf { S } }  { 0 _ { 4 } }$ ，LiCl,NaCl, $\\mathrm { { M g C l } } _ { 2 }$ $\\mathsf { C a C l } _ { 2 }$ and ${ \\mathsf { A l C l } } _ { 3 }$ ).Conductivity of feed and permeate solution was measured by a conductor (DDS-11A,shanghai leici instrument, China). $R _ { s }$ was governed by formula(3) ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { s } = \\left( 1 - \\frac { C _ { 1 } } { C _ { 0 } } \\right) \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $C _ { 1 }$ and $C _ { 0 }$ is the conductivity of permeate and feed solution, respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.Proposedmechanismof UV-induced graftingpolymerization ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The possible mechanism of nanofiltration membrane fabrication was proposed in Fig.1,which shows the molecular structures of monomer DADMAC with two double bonds(a) and Polysulfone (b).Fig.1(c) shows that the UV sensitive Polysulfone generated sulfone and benzene ring based radicals due to the cleavage of S-C bond,which subsequently initiated the polymerization of DADMAC to form either a linear chain structure or pyrrole like five-membered nitrogen heterocycles structure on the side chain. Therefore,the grafted chains bearing positive charges formed the active barrier layer on the nanofiltration membrane as shown in Fig.1(d),which will be further discussed in the following chemistryand morphologies. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.Reaction kinetics of UV-induced grafting polymerization ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To optimize the reaction conditions of NF membrane synthesis, reaction kinetics of UV-induced grafting polymerization was conducted to investigate the effects of reaction time,monomer concentration and irradiation intensity on both pure water flux and rejection to $\\mathrm { { M g C l } } _ { 2 }$ .As can be seen from Fig.2, the salt rejection significantlyincreased from $5 . 1 \\%$ to $8 2 . 6 \\%$ and pure water flux decreased from $5 2 0 \\mathrm { L } / \\mathrm { m } ^ { 2 }$ h to $1 0 5 \\mathrm { L } / \\mathrm { m } ^ { 2 }$ h with prolonging the irradiation time from 1 to 5 min.Further prolonging irradiation time from 7 to $1 5 \\mathrm { m i n }$ ，thesalt rejection slowly increased from $9 0 . 8 \\%$ to $9 9 . 1 \\%$ and pure water flux gradually decreased from $6 0 \\mathrm { L } / \\mathrm { m } ^ { 2 } \\mathrm { h }$ to $2 5 \\ : \\mathrm { L } / \\mathrm { m } ^ { 2 } \\ : \\mathrm { h }$ From Fig.3,It can be seen that the salt rejection obviously increased from $2 . 0 \\%$ to $8 4 . 8 \\%$ and pure water flux significantly decreased from $ 9 0 0 \\mathrm { L } / \\mathrm { m } ^ { 2 } \\mathrm { h }$ to $1 1 5 \\mathrm { L } / \\mathrm { m } ^ { 2 } \\mathrm { h }$ with increasing the monomer concentration from $10 \\%$ to $45 \\%$ .Further increasing the monomer concentration from $5 0 \\%$ to $65 \\%$ ,the salt rejection slowly increased to $9 7 . 6 \\%$ and pure water flux gradually decreased from $6 0 \\mathrm { L } / \\mathrm { m } ^ { 2 } \\mathrm { h }$ to $2 3 \\mathrm { L } / \\mathrm { m } ^ { 2 }$ h. From Fig.4,It can be seen that the salt rejection obviously increased from $5 8 . 9 \\%$ to $9 0 . 8 \\%$ and pure water flux decreased from $1 0 5 . 7 \\mathrm { L } / \\mathrm { m } ^ { 2 } \\mathrm { h }$ to $5 0 . 1 \\mathrm { L } / \\mathrm { m } ^ { 2 } \\mathrm { h }$ with decreasing the irradiation distance from 30 to $2 2 \\mathrm { c m }$ .Further decreasing the irradiation distance to $1 0 \\mathrm { c m }$ ，thesalt rejection slowly increased to $9 5 . 3 \\%$ and pure water flux gradually decreased to ${ \\bar { 3 } } 0 . 7 \\operatorname { L } / \\operatorname { m } ^ { 2 } { \\mathrm { h } } .$ As the surface UV-initiated reaction is a free radical polymerization,the grafting degree is closely related to the reaction time, monomer concentration and irradiation distance.From the analysis above,it can be seen that increasing reaction time,increasing monomer concentration,and decreasing irradiation distance generally leads to the decreasing flux and increasing rejection due to the increasing grafting degree.Meanwhile,there isan inevitable tradeoff phenomenon between flux and rejection.In this case, higher grafting degree caused the denser membrane possessing lower flux and higher rejection.In consideration of both relatively high salt rejection and pure water flux,NF-4,NF-6 and NF-7was chosen for further property and nanofiltration performance investigation after the optimization of reaction kinetics. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ed9a985c51e8f23dce5af8054eadb186f788f468ad1e9a1df690663542e7502c.jpg",
+        "img_caption": [
+            "Fig.7.Cross-section SEM images of Polysulfone UF and NF-4,NF-6,NF-7 membrane. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4087981986f4c55df51570f00bba73665cfda329e6b50944d54559cf622ccca5.jpg",
+        "img_caption": [
+            "Fig.8.Top surface SEM images of Polysulfone UF and NF-4,NF-6,NF-7 membrane. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/de357060efa748241d799f77d6c4f568cc3baf047c8c2723efa6e3e800f78a1c.jpg",
+        "img_caption": [
+            "Fig.9.AFM images of Polysulfone UF and NF-4,NF-6,NF-7 membrane. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.Surface chemistry of NF membranes ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "XPS was performed to analyze the surface chemical composition of NF membrane and confirm whether the DADMAC was successfully grafted on Polysulfone UF membrane.As shown in Fig.5, three new peaks appeared for NF-4,NF-6,NF-7 membrane compared with UF membrane.A peak at $3 9 9 . 5 \\mathrm { e V }$ was assigned to N1s,the peak at $2 6 7 . 1 \\ \\mathrm { e V }$ and $1 9 4 . 2 \\mathrm { e V }$ was assigned to Cl2s and Cl2p， respectively.Meanwhile，thepeak intensity atS2s $( 2 3 1 . 9 \\mathrm { e V } )$ and $\\mathtt { S 2 p }$ (164.8 eV)of Polysulfone UF membrane after grafting polymerization was decreased,which indicated that DADMAC was successfully grafted onto Polysulfone UF membrane.All XPS new peaks ascribed to DADMAC of NF membrane were also well supported by previous study from Professor Chung[23].Furthermore,it can be seen that the mass concentration of N and Cl related to DADMAC gradually increased from NF-4 to NF-6,NF-7 in Table 3.It indicated more monomers were grafted onto the UF membrane covalently with increasing irradiation time,which was in good agreement with Ref. [6] that degree of grafting increased with the irradiation time as well. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2936064e5381d471eb0637f72f0cba892b2ed2694e1cd87ba6fae43ec5b6e31.jpg",
+        "img_caption": [
+            "Fig.10. Contact angle of Polysulfone UF and NF-4,NF-6,NF-7 membrane. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/6802645ba7663417f1ecab3dc8caa2125ef61148e078b0a39da00e699b5c0b32.jpg",
+        "img_caption": [
+            "Fig.11.Pore size distribution of NF-4 membrane. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/d88bfa3280d543a98eeb37c98d413e2bc2120f40de3fc040a065b383f92d4d56.jpg",
+        "img_caption": [
+            "Fig.12.Rejection of different salts for NF-4 membrane. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To further confirm the successful immobilization of DADMAC on Polysulfone membrane,FTIR was conducted and shown in Fig.6.It can be seen that NF-4 membrane demonstrated unique absorbance at $9 5 0 \\mathrm { c m } ^ { - 1 }$ and $3 0 0 0 { - } 3 5 0 0 { \\mathrm { c m } } ^ { - 1 }$ ascribed to $C { \\mathrm { - } } \\mathsf { N }$ and $- \\mathsf { N R } _ { 4 } ^ { + }$ respectively related to DADMAC.Absorbance at 2969- $3 0 0 0 \\mathrm { c m } ^ { - 1 }$ ascribed to $- \\mathrm { c h } , 1 4 5 0 - 1 6 0 0 \\mathrm { c m } ^ { - 1 }$ ascribed to benzene ring, $1 3 0 0 { - } 1 3 5 0 \\mathrm { c m } ^ { - 1 }$ and $1 1 6 0 { - } 1 1 2 0 \\mathrm { c m } ^ { - 1 }$ ascribed to $- S = 0$ ,and $1 0 0 0 { - } 1 2 5 0 \\mathrm { c m } ^ { - 1 }$ ascribed to $- 0 -$ confirmed the structure of Polysulfone was almost kept unchanged.Therefore,combining both XPS and FITR results,it can be inferred that DADMAC has been successfully grafted on Polysulfone membrane. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4.Morphology of NF membranes ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "SEM images can be used to analyze the microstructure of NF membrane surface and cross-section.Figs.7 and 8 showed SEM images of the cross section and top surface of UF and NF membranes.There were no obvious differences in the whole cross section between UF membrane and NF membrane with $\\times 5 \\mathrm { K }$ magnification in Fig.7 (left),and the finger-like structure in the cross section was not influenced by the grafting polymerization. However,the thickness of denser active layer of NF membrane increased to 57,157, $2 1 4 \\mathrm { n m }$ for NF-4,NF-6,NF-7 respectivelyas shown in Fig.7(right） with $\\times 6 0 \\mathrm { k }$ magnification,providing the nanoscale water channel and selective rejection capability.The top surface of NF-4,NF-6,NF-7 became denser and more smooth due to the covalent immobilization and covering of active polymer layeras shown in Fig.8 with the magnification of $\\times 7 0 \\mathrm { k }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To further investigate the influences of the immobilization of active layer on the membrane surface,AFMwas conducted to monitor the morphological changes and roughness of NF membranes. As illustrated in Fig.9,UF membrane exhibited a typical nodulelike microstructure surface,which can be mutually verified by SEM in Fig.8.As for NF-4 and NF-6,more sharp peaks appeared with the vanishing of nodule-like microstructure,indicating the immobilization and covering of active barrier layer by grafting polymerization. However,with increasing the reaction time and resultant higher degree of grafting,more grafted polymer chains covered the original membrane surface,showing a complete Poly(DADMAC) layerwith the thickness of $2 1 4 \\mathrm { n m }$ as mentioned above.Therefore,the new surface displayed a feature microstructure combing roundish peaks and valleys.The average surface roughness（Ra）reflected the nanoscale morphological variation. Ra of NF-4 and NF-6 decreased to $2 . 4 3 \\mathrm { n m }$ and $1 . 8 1 \\ \\mathrm { n m }$ from $3 . 8 \\mathrm { n m }$ of the initial UF membrane,while Ra of NF-7 with higher degree of grafting increased to $4 . 1 4 \\mathrm { n m }$ correspondingly. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/d7252405efb3045555e3708a6d657e97d283820025891e183d5852f0524c7210.jpg",
+        "img_caption": [
+            "Fig.13.Pure water,seawater and BSA flux of NF-4 membrane. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a998a30db1d41f4ba349168f9e4091f4b70230b745554790220051b7ce1af777.jpg",
+        "img_caption": [
+            "Fig.14.De-colorization of NF-4 membrane to methylene blue and congo red. (For interpretation of the references to color in this figure legend,the reader is referred to the web version of this article.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.5.Surfacewettability ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Generally,hydrophilic membranes have low tendency towards fouling especially in treatment of water containing organic matters and dyes,the immobilization of Poly(DADMAC) layer will endow the membrane with certain hydrophilicity.Fig.1O depicts the time dependence of contact angle of UF and NF membrane.It can be seenthat the contact angle of NF membrane was lower than that ofUF membrane,and the initial contact angle of NF-7 to $4 1 . 8 ^ { \\circ }$ with prolonging the reaction time to $1 5 \\mathrm { m i n }$ ,theinitial contact angle of NF-7 decreased sharply in first $2 0 s$ and then declined to $1 5 ^ { \\circ }$ in 120 s,suggesting good hydrophilicity and wettability after grafting polymerization.It is generally thought that both hydrophilic polymerlayer and morphological roughness contributed to the rapid wetting on NF membrane surface,which is beneficial to improve the antifouling performance to organic matter and salts. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.6.Filtration performances of NF membranes ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Due to the relatively higher pure water flux and rejection to $\\mathsf { M g C l } _ { 2 }$ ,NF-4 was chosen for further rejection test.The pore size distribution was measured of NF-4 using liquid-liquid porometer as depicted in Fig.11,showing the average pore size is $8 . 6 \\mathrm { n m }$ bigger than most nanofiltration membranes.Therefore,NF-4 can be considered as a positively charged loose nanofiltration membrane. Fig.12 showed that the rejection of NF-4 membrane to seven commoninorganic salts.It can seen that rejection to different valence state salt was following the order of $\\mathsf { A l C l } _ { 3 } > \\mathsf { C a C l } _ { 2 } > \\mathsf { M g C l } _ { 2 } >$ $\\mathsf { N a C l } > \\mathrm { L i C l } > \\mathsf { M g S O } _ { 4 } > \\mathsf { N a } _ { 2 } \\mathsf { S O } _ { 4 }$ ，which was in accordance with the previous study [6,17].This order of rejection to different salt can be interpreted with Donnan exclusion effects [24].Rejection to divalentand multivalent cations wasall higher than $90 \\%$ e.g. ${ \\mathsf { A l C l } } _ { 3 }$ $( 9 4 . 0 \\% ) , \\mathsf { C a C l _ { 2 } } ( 9 1 . 5 \\% ) , \\mathsf { M g C l _ { 2 } } ( 9 0 . 8 \\% )$ ,owing to the strong electrostatic repulsion between higher valence cations and positive charge ammonium $\\mathsf { N } ^ { + }$ of NF membrane,while rejection to monovalent ion is lower,e.g. NaCl $( 4 7 . 6 \\% )$ ,LiCl $( 4 6 . 1 \\% )$ .However,electrostatic repulsion between the positive ions was comprised by the divalent anion $( \\mathsf { S O } _ { 4 } ^ { 2 - }$ in this case),which consequently caused the lower rejection to ${ \\tt N a } _ { 2 } { \\tt S O } _ { 4 }$ and $\\mathrm { M g } \\mathrm { S } 0 _ { 4 }$ .To evaluate the fouling resistance of NF-4 membrane to salts and organic matter,both seawater and BSA solution permeation test at O.5 MPa was conducted as depicted in Fig.13.It can be seen that NF-4 membrane showed a quite steady pure water flux of $6 0 \\mathrm { L } / \\mathrm { m } ^ { 2 } \\mathrm { h }$ 、and seawater flux decreased slightlyto $5 5 \\mathrm { L } / \\mathrm { m } ^ { 2 } \\mathrm { h }$ ,while the BSA permeation flux still obtained $2 5 \\mathrm { L } / \\mathrm { m } ^ { 2 } \\mathrm { h }$ evenafter $6 0 \\mathrm { { m i n } }$ .The excellent fouling resistance behavior to seawater and BSA could be elucidated by the positivelychargedand hydrophilic surface. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.14 showed the de-colorization and rejection rate of NF-4 membrane for methylene blue $\\mathrm { ' M n } = 3 1 9 . 9 \\mathrm { D a }$ ）and congo red $\\mathrm { ' M n } = 6 9 6 . 7 \\mathrm { D } i$ a),respectively.From Fig.14 It can be seen that the feed liquids of methylene blue and congo red were dark red and dark blue,respectively,while both filtrates showed clear and transparent. It was measured that the rejection to methylene blue and congo red of NF-4 membrane was $9 9 . 4 \\%$ and $1 0 0 . 0 \\%$ ,respectively. The high rejection to methylene blue and congo red of NF-4 membrane was mainly attributed to the smaller pore size $8 . 6 \\mathrm { n m }$ and positive charge ammonium $\\mathsf { N } ^ { + }$ ofDADMAC,obviously, the positive surface repel the dyes efficiently in the aqueous media due to the electrostatic repulsion.Therefore,NF-4 membrane achieved excellent dye rejection to methylene blue and congo red. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusions ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A positively charged loose NF membrane was fabricated by UV-induced grafting polymerization of DADMAC onto Polysulfone UF membrane. Reaction time,monomer concentration, irradiation intensity were key kinetics parameters to control the membrane water flux and rejection to salts.The optimized NF membrane wasachieved by grafting $5 0 \\mathrm { w t . } \\%$ DADMAC solution for $7 \\mathrm { m i n }$ at an irradiation distance of $2 2 \\mathrm { c m }$ .Surface chemistry occurrence of N and Cl,increasing thickness of dense barrier layer and roughness variationall verified the immobilization of Poly(DADMAC) layer on membrane surface.The optimized NF membrane showed good hydrophilicity and loose pore size of $8 . 6 \\mathrm { n m }$ .Therejection to different valence state followed the orderof ${ \\sf A l C l _ { 3 } } > { \\sf C a C l _ { 2 } } >$ $\\mathsf { M g C l } _ { 2 } > \\mathsf { N a C l } > \\mathsf { L i C l } > \\mathsf { M g S O } _ { 4 } > \\mathsf { N a } _ { 2 } S \\mathsf { O } _ { 4 } ,$ and the rejection to divalent and multivalent cations was all higher than $90 \\%$ Pure water,seawater flux of NF membrane reached up to $6 0 { \\mathrm { L } } / { \\mathrm { m } } ^ { 2 } { \\mathrm { h } } , 5 5 { \\mathrm { L } } / { \\mathrm { m } } ^ { 2 } { \\mathrm { h } } ,$ implying good fouling resistance to salts.The dye rejection to methylene blue and congo red is $9 9 . 4 \\%$ and $1 0 0 . 0 \\%$ respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We are grateful for the financial support from the National Natural Science Foundation of China (51273211,51473177),the National 863 Foundation of China (2012AA03A605)，and the international scientific and technological cooperation project (2012DFR50470). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]In-Chul Kim,Kew-Ho Lee,Tae-Moon Tak,J.Membr.Sci.183(2001) 235-247. [2] J. Wang, Z. Yue,J.S. Ince, J. Economy, J. Membr. Sci. 286 (2006) 333-341. [3]V.Vatanpour, S.S. Madaeni, R. Moradian, S. Zinadini, B. Astinchap, J. Membr. Sci. 375 (2011) 284-294. [4] Xiaofeng Lu, Xiaokai Bian, Liuqing Shi, J. Membr. Sci. 210 (2002) 3-11. [5] X.-L. Li, L.-P. Zhu, Y.-Y. Xu, Z. Yi, B.-K. Zhu, J. Membr. Sci. 374 (2011) 33-42. [6] H. Deng, Y. Xu, Q. Chen, X. Wei, B. Zhu,J. Membr. Sci.366 (2011) 363-372. [7] C.Wu, S. Zhang,D. Yang,X. Jian,J. Membr. Sci.326 (2009) 429-434. [8]A.L. Ahmad,M. Sarif, S. Ismail, Desalination179(2005) 257-263. [9]H. Susanto,M. Ulbricht,J.Membr.Sci.327(2009)125-135. [10] Jeong-Hoon Kim,Kew-Ho Lee, J. Membr. Sci.138(1998) 153-163. [11]Myeong-Jin Han, Suk-Tae Nam, J. Membr. Sci.202 (2002) 55-61. [12] J.Wang,J.H.Wang, H.F.Wang, S.B. Zhang,J. Appl. Polym. Sci.127 (2012) 1601- 1608. [13] C. Pan, Y.Wang, X.Li, T.He, Membr. Sci. Technol.32 (2012) 18-22. [14]H.Wang, Q. Zhang,S. Zhang, J.Membr. Sci. 378 (2011) 243-249. [15]M.N.A. Seman, M. Khayet, N. Hilal, J. Membr. Sci. 348 (2010) 109-116. [16] Y. Ji, Q. An, Q. Zhao,H. Chen, C. Gao, J. Membr. Sci.376 (2011) 254-265. [17]R.Huang，G.Chen，B.Yang，C. Gao，Sep.Purif. Technol．61 (2008) 424-429. [18] R. Huang, G. Chen, M. Sun, C. Gao, Carbohydr. Res.341 (2006) 2777-2784. [19] C. Qiu, F. Xu, Q. Nguyen, Z. Ping, J. Membr. Sci. 255 (2005)107-115. [20] M. Homayoonfal, A. Akbari, M.R. Mehrnia, Desalination 263 (2010) 217-225. [21] F. Liu, B.-R. Ma, D. Zhou, Y.-h. Xiang,L.-x. Xue, Microporous Mesoporous Mater. 186 (2014) 113-120. [22]H. Shi, F. Liu,L. Xue, J. Membr. Sci. 437 (2013) 205-215. [23] P.S. Zhong,N.Widjojo,T.-S. Chung,M. Weber, C.Maletzko,J. Membr. Sci. 417- 418 (2012) 52-60. [24]R.J. Petersen,J. Membr. Sci. 83(1993) 81-150. ",
+        "page_idx": 7
+    }
+]

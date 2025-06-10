@@ -1,0 +1,296 @@
+[
+    {
+        "type": "text",
+        "text": "基于BIM模型的结构分析方法研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "曾莎洁",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（上海建科工程咨询有限公司，上海200032）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】近年来,BIM技术正在建筑工程中得到了越来越广泛的应用,也极大地提高了建筑行业的效率，然而,现阶段BIM技术与结构分析工作仍未得到有效的集成。本文针对这一问题,利用BIM模型中的梁柱构件和墙板构件,通过几何清理与划分网格分别得到了梁单元与壳单元，实现了BIM模型和结构分析模型在表达体系与信息格式维度上的双重转换。案例分析表明，该方法可有效地实现BIM模型到结构分析的模型的转换,转换生成的模型可以满足精度要求，对BIM技术在结构分析中的应用有借鉴意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【天键词】BIM模型；有限元模型；集成万法；信息格式；结构分析【中图分类号】TU17【文献标识码】A【文章编号】1674-7461(2017)01-0082-04【DOI】10.16670/j.cnki.cn11 -5823/tu.2017.01.14",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，得益于计算机科学技术的发展，建筑工程领域出现了建筑信息模型（buildinginformation-model,BIM)这一新概念[1]。BIM 技术以集成的信息化平台为基础，具有协同化、信息化等特点，因此在建筑工程项目中得到了迅速地推广与应用，而这些应用也提高了建筑行业的工作效率[2]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "然而现阶段,BIM 技术在设计阶段,尤其是结构分析工作中并未得到有效地应用,结构分析前处理过程中仍然需要大量的二次建模工作[3]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "其中主要原因是BIM系统中的几何模型为三维实体结构，结构分析所用的有限元模型为线面结构，两者存在着表达体系上的区别，而且这两个体系的信息格式也有较大差异。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在未来，BIM技术将被广泛运用在建筑工程全寿命周期中，结构分析必将是其中的一个重要环节[4]。因此有必要对建筑信息模型和结构分析模型的表达体系与信息格式展开研究，以实现BIM系统与结构分析系统的集成。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2BIM模型与结构分析模型概述",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "结构分析中的有限元模型与BIM系统中的详细几何模型存在表达体系与信息格式方面区别，因此为实现BIM系统与结构分析系统的集成，需要进行表达体系与信息格式两个维度的转换。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在表达体系维度，由BIM系统向结构分析系统进行转换需进行两个步骤：1)由详细的几何模型经过几何抽取得到线面几何模型，其中梁由线表达，板由面表达；2)由线面几何模型经过划分网格得到有限元模型。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在信息格式维度，由于几何信息的来源，有限元软件选取不同，所以必然会涉及到多种数据格式，比如DXF、SAT、IGES、STEP、IFC、INP 等,需要对这些信息格式实现有效的读取、处理与转换。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "转换过程涉及到抽取中心线或中心面、切割线面、划分单元、合并几何元素等一系列操作，且需要实现多种格式之间的信息有效传递，现阶段，虽然有辅助工具帮助这一过程的实现，但仍然较为困难。本文即针对这一问题展开研究，提出了一个由",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BIM模型向有限元模型转换的前处理流程,该流程分别考虑不同形式的构件，结合各类信息格式的特点，选取恰当的格式实现表达体系与信息格式的转换，提高了结构分析前处理的效率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3基于BIM模型的结构分析前处理流程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据有限元模型中的单元类型的区别，可以将BIM模型构件向有限元模型构件的转换过程分为两类，一是实体的梁柱构件转换为杆单元，二是实体的墙板构件转为壳单元。进而可以根据两类转换的特点，选用不同的中介信息格式，梁柱构件的中介信息格式为DXF格式，墙板构件的中介信息格式为ACIS-SAT格式。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DXF是AutoCAD系统中的一种数据格式，由于的应用广泛性，该格式有着很广泛的应用，可以被很多程序处理。该格式简单明确，可以较为方便的实现实体单元向杆单元的转换以及基于该格式的网格划分[5],但DXF文件描述的几何模型是线框模型，没有实体与面域的定义，因此壳单元的生成不便于基于此格式完成。ACIS是由SpatialTech-nology公司推出的三维几何造型引擎，它可以在一个通用的数据结构中表达线框、曲面和实体造型，是实体造型领域应用最为广泛的数据格式。该系统中若存储模型文件的格式是 ASCII文本格式，则为SAT(SaveAsText)格式，该格式是开放的，支持多种语言的二次开发,为各类应用存取模型提供了途径[6] 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在转换过程中,首先由 BIM 模型经过几何清理，得到以DXF格式表达的梁柱构件和以SAT格式表达的墙板构件；其次通过抽取中线和抽取中面的操作将实体模型转化为线面模型；最后在线面模型的基础上划分网格，用纤维梁单元表达梁柱，用分层壳单元表达墙板，并集成组装得到有限元模型，详细转换流程如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4算例分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4.1 算例概述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文的验证案例选用2009年同济大学吕西林教授的内置钢板钢筋混凝土剪力墙抗震试验［7]，基本构件为带暗柱钢板剪力墙 SPRCW-8号构件，其中混凝土强度等级为C50,截面尺寸 $1 \\ 0 0 0 \\times 2 0 0 \\mathrm { m m }$ ，高度为 $2 \\mathrm { m }$ ，内置 $4 \\mathrm { m m }$ 厚钢板,两端设置槽钢暗柱，截面配筋形式见下图2。加载方式为竖向稳定荷载下施加水平往复荷载，其他具体信息见于文献[7]中。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a425c2ba17c95a24b4241d06b6bc9f2bda939dfd4f3c68faf530d44a44c28b05.jpg",
+        "img_caption": [
+            "图1BIM模型向有限元模型转换流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e7f812cc4625ccc5199060fad71d14803ce14835506314dddbfafab809924c19.jpg",
+        "img_caption": [
+            "图2钢板剪力墙结构截面配筋"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4.2 分析模型建立",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为验证本文提出的基于BIM模型的结构分析方法的有效性，首先建立带暗柱钢板剪力墙的BIM模型，如图3所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8ad4dece15b056a313c6d65d2992408c3aecc83170abd34e90cf0c828dd20e3c.jpg",
+        "img_caption": [
+            "图3带暗柱剪力墙BIM模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/541622105c1fbb3a1ad8e4bb37292a81d8d593e47d1b289def1cfb48c3f256ba.jpg",
+        "img_caption": [
+            "图4带暗柱剪力墙有限元模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将模型中的槽钢暗柱与剪力墙分开考虑，通过BIM系统中的构件过滤功能，拆分模型为槽钢暗柱模型与钢板剪力墙模型两部分。对于槽钢暗柱模型，通过DXF格式提取暗柱的几何信息，再抽取中心线并划分单元，得到纤维梁单元；对于钢板剪力墙模型，通过SAT格式提取其几何信息，再抽取中面并划分单元，得到分层壳单元。最后集成组装，将纤维梁单元与分层壳单元输入到有限元软件中，并通过共节点操作，维持两者的变形协调，得到的有限元分析模型如图4所示，其中加粗显示的节点即为纤维梁单元与分层壳单元的共用节点。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "有限元分析软件采用ABAQUS软件，混凝土材料性质采用损伤本构关系[8-9],钢材材料性质采用双折线模型，模型边界与墙角完全固结并约束平面外的位移，以保证墙体与试验一致，不发生失稳破坏,建立动力分析步进行数值计算。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.3数值结果与分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "0 载 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "计算得到的荷载－位移曲线与试验得到的荷位移曲线如图5所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/36b1481c7e567eb2c23ba871e20b48fbb3883243ed39ac1cfb1580afc58de7f0.jpg",
+        "img_caption": [
+            "图5试验与数值计算荷载-位移曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图可见，数值模拟的滞回曲线与试验所得的滞回曲线吻合良好，基于转换模型的分析结果满足精度要求，说明了该流程能够实现BIM模型到有限元模型的转换，可以为其他工程项目中的结构分析前处理提供借鉴。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文基于BIM模型与结构分析有限元模型的特点，提出了一种由BIM模型到结构分析有限元模型的转换流程。该流程将BIM实体模型中的构件分为梁柱和墙板两大类，对梁柱构件利用DXF格式抽取中心线，并划分网格得到纤维梁单元；对墙板构件利用SAT格式抽取中面，并划分网格得到分层壳单元，最终集成组装得到结构分析有限元模型。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "案例分析表明，该流程可以较为快速地实现BIM模型向有限元模型的转换，且误差较小,可以满足精度要求。同时，现阶段该流程只在部分步骤上实现了自动转换，如何加强自动转换的深度有待于进一步的研究。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "[1]Eastman.C,Fisher David,Lafue,Gilles and others.An Out-line of the Building Description System:Institute of Physi-cal Planning[R].Carnegie-Mellon University，1974.  \n[2]Chuck Eastman,Paul Teicholz,Rafael Sacks,Kathleen Li-ston.BIM handbook-a guide to building information mod-eling for owners,managers,designers,engineers,and con-tractors(second edition）［M].Wiley，2011.  \n[3］秦领，刘西拉.建筑物理模型与结构分析模型的数据映射研究［J].土木建筑工程信息技术，2010，02：28-36.  \n［4］刘照球，张吉.结构分析BIM模型框架和数据转换应用[J].工业建筑，2015，(2)：178-183.  \n[5］Taoye ZC SX Z. AutoCAD's DXF File Format and ItsTransforming Interface[J].Microcomputh Applications,2001,8:18.  \n[6］Corney J.3D Modeling using the ACIS Kernel and Toolkit[M].John Wiley& Sons,Inc.,1997.  \n［7］吕西林，干淳洁,王威.内置钢板钢筋混凝土剪力墙抗震性能研究[J].建筑结构学报，2009，（5）：89-96.  \n[8］Ju JW. On energy-based coupled elastoplastic damagetheories:constitutive modeling and computational aspects[J].International Journal of Solids Structures，1989，25(7):803-833.  \n[9]Ren XD,Zeng Sj and Li J.A rate-dependent stochasticdamage-plasticity model[J].Computational Mechanics,2015，55:267-285.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A Structural Analysis Method base on BIM Technology ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Zeng Shajie ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(Shanghai Jianke Engineering Consulting Co.,Ltd.，Shanghai 2OoO32，China) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Abstract:In recent years,BIM technology has been widely used in the building engineering,which improves theefficiencyof theconstruction industry greatly.However,structural analysis hasnot been integrated to the BIM technology efectively tillnow.Inorder to achieve the conversion between BIMmodeland structural analysis model both onthe expression system and the data format,this paper gives anintegrating method including geometry cleanup and meshing,by which we can getbeam elements and shell elements from BIM model.Case study showed that this method can be used to get precise finite element model for structural analysis from BIM model,which has a great value in terms of future application. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Key Words:BIM Model； Finite Element Model; Integrating Method;Data format； Structural Analysis",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "国家标准《建筑工程设计信息模型交付标准》送审稿通过审查",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "近日，在住房和城乡建设部的组织下，备受瞩目的工程建设国家标准《建筑工程设计信息模型交付标准》(简称《交付标准》)在北京召开了标准审查会。本次审查会邀请了12位行业知名专家组成审查专家组，专家组成员涵盖了审批、业主、设计、施工等工程参与方及其他BIM国家标准。以孟建民院士为组长，王丹为副组长的专家组对《交付标准》的编制思路表示了认可,同时也对标准尚存在的问题提出了质询和修改意见，这些意见高屋建瓴、专业合理、逻辑清晰，将会极大地提升标准的科学性，增强标准的可实施性。《交付标准》是第一批立项的有关建筑信息模型(BIM)国家标准之一，于2012年开始正式编制，由中国建筑标准设计研究院担任主编单位，其他47家参编参加单位来自于国内有影响力的业主单位、设计单位、施工总承包单位、科研院所和软件企业。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "五年来，编制组进行了广泛地调研，充分地学习，借鉴了国际标准，结合了中国工程实践，总结和提炼出了《交付标准》送审稿。《交付标准》送审稿梳理了设计业务特点，同时面向BIM信息的交付准备、交付过程、交付成果均做出了规定，提出了建筑信息模型工程设计的四级模型单元，并详细规定了各级模型单元的模型精细度，包括几何表达精度和信息深度等级;提出了建筑工程各参与方协同和应用的具体要求，也规定了信息模型、信息交换模板、工程制图、执行计划、工程量、碰撞检查等交付物的模式。《交付标准》是BIM国家标准重要组成部分，将与其他标准相互配合，共同作用，逐步形成BIM国家标准体系，为行业标准、团体标准、地方标准，乃至企业标准、项目标准均提供重要的框架支撑，同时为国际间BIM标准的协同和对接提供依据。其针对性和可操作性，也有利于推动建筑信息模型技术在工程实践过程中的应用。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e3a4e25001c7b86817065fc107e445acafde13ad02d6ef590d20e1d179f5f40b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    }
+]

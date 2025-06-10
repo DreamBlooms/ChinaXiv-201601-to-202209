@@ -1,0 +1,686 @@
+[
+    {
+        "type": "text",
+        "text": "酵母壁多糖对断奶仔猪外周血免疫和肠道免疫的影响 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "贺琴　王自蕊 游金明\\* 罗波文卢亚飞 李兰海 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（江西农业大学，江西省动物营养重点实验室，江西省营养饲料开发工程中心，南昌 330045）摘要：本试验旨在探讨饲粮中添加酵母壁多糖对断奶仔猪外周血免疫和肠道免疫的影响。采用单因素试验设计方法，选取21日龄遗传胎次相近、体重接近的断奶仔猪180头，随机分为4个组，每组5个重复，每个重复9头猪。4组分别饲喂饲粮中添加0（对照组）、 $0 . 1 5 \\%$ 、 $0 . 3 0 \\%$ 和$0 . 4 5 \\%$ 酵母壁多糖的试验饲粮。试验期 $2 1 \\mathrm { d }$ 。结果表明：1）与对照组相比，饲粮中添加 $0 . 1 5 \\%$ 、$0 . 3 0 \\%$ 和 $0 . 4 5 \\%$ 酵母壁多糖显著提高了断奶仔猪血清免疫球蛋白A（IgA）含量（ $. P { < } 0 . 0 5 \\ '$ ，饲粮中添加 $0 . 3 0 \\%$ 和 $0 . 4 5 \\%$ 酵母壁多糖显著提高了断奶仔猪血清免疫球蛋白 $\\mathbf { G } \\left( \\mathbf { \\mathrm { I g } } \\mathbf { \\mathrm { G } } \\right)$ 含量 $. P { < } 0 . 0 5 )$ 。2）与对照组相比，饲粮中添加 $0 . 1 5 \\%$ 、 $0 . 3 0 \\%$ 和 $0 . 4 5 \\%$ 酵母壁多糖显著降低了断奶仔猪血清干扰素 $\\cdot \\gamma$ （IFN-γ）含量（ $. P { < } 0 . 0 5$ ），饲粮中添加 $0 . 3 0 \\%$ 酵母壁多糖显著提高了断奶仔猪血清白细胞介素-10（IL-10）的含量（ $. P { < } 0 . 0 5$ ）。饲粮中添加酵母壁多糖对断奶仔猪血清白细胞介素-2（IL-2）、白细胞介素-6（IL-6）和肿瘤坏死因子 $\\mathbf { \\sigma } \\cdot \\mathbf { a }$ （TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ ）含量均无显著影响（ $P { > } 0 . 0 5$ ）。3）与对照组相比，饲粮中添加 $0 . 3 0 \\%$ 和 $0 . 4 5 \\%$ 酵母壁多糖显著提高了断奶仔猪回肠 $\\mathrm { C D 4 ^ { + } }$ 淋巴细胞含量1 $. P { < } 0 . 0 5 \\rangle$ ），饲粮中添加酵母壁多糖能一定程度提高断奶仔猪回肠 $\\mathrm { C D 8 ^ { + } }$ 和 $\\mathrm { C D } 2 0 ^ { + }$ 淋巴细胞含量，但差异不显著（ $. P { > } 0 . 0 5$ ）。由此可知，酵母壁多糖能一定程度提高断奶仔猪外周血免疫和肠道免疫，缓解断奶应激。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：酵母壁多糖；断奶仔猪；免疫球蛋白；淋巴细胞",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S828",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "断奶是仔猪生产过程中的关键阶段，仔猪断奶后面临着饮食和生存环境的改变，再加上消化道和免疫功能等机制发育不够完善，仔猪断奶后会出现生长性能降低、腹泻率提高、肠道绒毛萎缩、肠道菌群失衡等一系列问题[1-3]。此前，养殖户选择在饲粮中添加抗生素来解决断奶应激所引起的问题。但是，近年来抗生素所造成的细菌抗药性危害不容小，替代抗生素产品的开发利用迫在眉睫4]。益生元和益生菌在替代抗生素上获得了大量可观成果。选择酵母和酵母衍生物作为饲料添加剂有利于动物的健康生长，并能提高畜禽生长性能和肠道部分有益菌含量[5-7]。前期动物试验也发现，饲粮中添加 $0 . 1 5 \\%$ 以下酵母壁多糖效果不明显，且与对照组相比，饲粮中添加$0 . 1 5 \\%$ 、 $0 . 3 0 \\%$ 和 $0 . 4 5 \\%$ 酵母壁多糖能够显著提高断奶仔猪平均日增重和平均日采食量，并有降低仔猪料重比和腹泻率的趋势[8]。酵母壁多糖主要含有甘露寡糖和β -葡聚糖9]，其对畜禽具有一定的免疫调节作用。为了进一步了解酵母壁多糖对断奶仔猪免疫机制的影响，本试验通过研究酵母壁多糖对断奶仔猪血清免疫球蛋白、细胞因子和回肠淋巴细胞含量的影响，初步探讨酵母壁多糖对断奶仔猪外周血免疫和肠道免疫的影响机制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "酵母壁多糖为啤酒酵母细胞壁多糖，来源于拓普生物科技有限公司，其主要成分为甘露寡糖（ $2 3 . 4 5 \\%$ ）和 $\\beta$ -葡聚糖（ $3 9 . 2 4 \\%$ )，粗蛋白质含量为 $2 6 . 3 0 \\%$ ，粗灰分含量为 $3 . 3 0 \\%$ ，水分含量为$5 . 3 5 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验动物和分组设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用单因素试验设计方法，选取21日龄遗传胎次相近、体重接近的断奶仔猪180头，随机分为4个组，每组5个重复，每个重复9头仔猪。4组分别饲喂饲粮中添加0（对照组）、 $0 . 1 5 \\%$ 、$0 . 3 0 \\%$ 和 $0 . 4 5 \\%$ 酵母壁多糖的试验饲粮。试验期为21d。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3试验饲粮 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "仔猪饲喂玉米-豆粕型试验饲粮，不含抗生素。饲粮配方参照NRC（2012）和我国《猪饲养标准》（2004）配制，试验饲粮组成及营养水平见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/ba96beb63bdccb9ece32f6e37cfbaa714a26e5b17aef7c99f51be3a011505da4.jpg",
+        "table_caption": [
+            "表1试验饲粮组成及营养水平(风干基础)",
+            "Table1Composition and nutrient levels of experimental diets $\\%$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"4\">酵母壁多糖水平 Yeast cell wall polysaccharide level/%</td></tr><tr><td>0</td><td>0.15</td><td>0.30</td><td>0.45</td></tr><tr><td>原料Ingredients</td><td></td><td></td><td></td><td></td></tr><tr><td>膨化玉米 Expanded corn</td><td>33.70</td><td>33.55</td><td>33.40</td><td>33.25</td></tr><tr><td>碎米 Broken rice</td><td>10.00</td><td>10.00</td><td>10.00</td><td>10.00</td></tr><tr><td>面粉Flour</td><td>13.80</td><td>13.80</td><td>13.80</td><td>13.80</td></tr><tr><td>米糠Rice bran</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>膨化大豆 Expanded soybean</td><td>9.00</td><td>9.00</td><td>9.00</td><td>9.00</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/5328600e7d346487c59433d5689ae96e41828ce2b223d14598bd8e76ec0e6060.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>去皮豆粕 FSBM</td><td>3.50</td><td>3.50</td><td>3.50</td><td>3.50</td></tr><tr><td>进口鱼粉 Imported fish meal</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td></tr><tr><td>大豆浓缩蛋白 FSPC</td><td>2.50</td><td>2.50</td><td>2.50</td><td>2.50</td></tr><tr><td>白糖 White sugar</td><td>4.00</td><td>4.00</td><td>4.00</td><td>4.00</td></tr><tr><td>乳清粉Whey powder</td><td>10.00</td><td>10.00</td><td>10.00</td><td>10.00</td></tr><tr><td>椰子油粉 Coconut oil meal （50%)</td><td>2.40</td><td>2.40</td><td>2.40</td><td>2.40</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>0.80</td><td>0.80</td><td>0.80</td><td>0.80</td></tr><tr><td>石粉 Limestone</td><td>0.85</td><td>0.85</td><td>0.85</td><td>0.85</td></tr><tr><td>食盐 NaCl</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td></tr><tr><td>赖氨酸盐酸盐 Lysine·HCl</td><td>0.71</td><td>0.71</td><td>0.71</td><td>0.71</td></tr><tr><td>氯化胆碱 Choline chloride (50%)</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td></tr><tr><td>苏氨酸 Threonine</td><td>0.22</td><td>0.22</td><td>0.22</td><td>0.22</td></tr><tr><td>DL-蛋氨酸 DL-Methionine</td><td>0.22</td><td>0.22</td><td>0.22</td><td>0.22</td></tr><tr><td>酵母壁多糖 Yeast cell wall polysaccharide</td><td></td><td>0.15</td><td>0.30</td><td>0.45</td></tr><tr><td>预混料 Premix1)</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td><td></td></tr><tr><td>消化能 DE/(MJ/kg)</td><td>13.81</td><td>13.81</td><td>13.81</td><td>13.81</td></tr><tr><td>粗蛋白质 CP</td><td>18.15</td><td>18.16</td><td>18.17</td><td>18.19</td></tr><tr><td>钙Ca</td><td>0.83</td><td>0.83</td><td>0.83</td><td>0.83</td></tr><tr><td>总磷TP</td><td>0.66</td><td>0.66</td><td>0.66</td><td>0.66</td></tr><tr><td>有效磷 AP</td><td>0.42</td><td>0.42</td><td>0.42</td><td>0.42</td></tr><tr><td>赖氨酸Lys</td><td>1.42</td><td>1.42</td><td>1.42</td><td>1.42</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.78</td><td>0.78</td><td>0.78</td><td>0.78</td></tr><tr><td>苏氨酸 Thr</td><td>0.86</td><td>0.86</td><td>0.86</td><td>0.86</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2’营养水平为计算值。Nutrient levels were calculated values. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4 饲养管理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "仔猪于装有高床、漏缝地板、乳头式饮水器的保育舍中饲养。试验开始前对猪舍进行充分冲洗和消毒。试验过程中，每日饲喂仔猪4\\~5次。仔猪自由采食和饮水，其他饲养管理措施、免疫程序按猪场常规管理程序进行。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5样品采集及处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在试验第21天，从每个重复中随机选取1头接近平均体重的仔猪进行空腹前腔静脉采血。血液装于非抗凝采血管中，室温下静置一段时间后，于4℃、 $3 0 0 0 \\mathrm { r / m i n }$ 离心 $5 \\mathrm { m i n }$ ，移取分装上层血清。血清置于-20℃保存待测。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "肌注 $4 \\%$ 戊巴比妥钠溶液进行麻醉。待麻醉完全后，采用颈静脉放血的办法处死，打开腹腔，迅速取回肠肠段，浸入 $4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 预冷后的生理盐水中涮洗掉内容物后，放入 $4 \\%$ 多聚甲醛中固定 $2 4 \\mathrm { h }$ 以上。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6 测定指标",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6.1血清中免疫球蛋白和细胞因子含量测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用酶联接免疫吸附剂测定(ELISA)法，测定血清免疫球蛋白G(IgG)、免疫球蛋白M(IgM)、免疫球蛋白A（IgA）、白细胞介素-2（IL-2）、白细胞介素-6（IL-6)、白细胞介素-10（IL-10)、干扰素-γ（IFN-γ）和肿瘤坏死因子 $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ （TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ ）的含量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6.2 回肠中 $\\mathrm { C D 4 ^ { + } }$ 、 $\\mathrm { C D 8 ^ { + } }$ 、 $\\mathrm { C D } 2 0 ^ { + }$ 淋巴细胞石蜡免疫组化切片",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6.2.1 常规石蜡切片操作",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将 $4 \\%$ 多聚甲醛固定 $2 4 \\mathrm { h }$ 以上的回肠组织修为适当大小，常规脱水、透明、石蜡包埋后切片（ $( 4 ~ \\mu \\mathrm { m } )$ 、展片、用多聚赖氨酸防脱玻片贴片后，于烘片机上烘干后置于 $5 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 烘箱中 $2 0 ~ \\mathrm { { m i n } }$ 防止后期脱片。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6.2.2石蜡免疫组化步骤 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1）石蜡切片常规脱蜡至水后，加 $3 \\%$ 过氧化氢（ $\\mathbf { H } _ { 2 } \\mathbf { O } _ { 2 }$ ）去离子水覆盖整个切片组织，于湿盒中孵育 $1 0 \\mathrm { m i n }$ ，以消除内源性过氧化物酶的活性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2）磷酸盐缓冲液（PBS）（ $\\mathrm { p H } 7 . 4 \\$ ）冲洗3次，每次 $5 \\mathrm { m i n }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3）乙二胺四乙酸（EDTA）抗原修复， $9 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 水浴 $1 2 \\mathrm { m i n }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4）待液体降至室温，PBS（pH7.4）冲洗3次，每次 $5 \\mathrm { m i n }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5）甩去PBS，滴加封闭用正常山羊血清工作液覆盖整个切片组织，于湿盒中孵育 $1 0 { \\sim } 1 2 \\ \\mathrm { m i n }$ 倾去，勿洗。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6）滴加一抗，4℃过夜。一抗购于 Abcam 公司，分别为：Anti-CD4 antibody[EPR6855]ab133616、Anti-CD8 antibody ab4055 和 Anti-CD20 antibody[EP459Y] ab78237。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "7）PBS（pH7.4）冲洗3次，每次 $5 \\mathrm { m i n }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "8）甩去PBS，滴加生物素标记山羊抗兔IgG 覆盖整个切片组织，于湿盒中孵育 $1 0 { \\sim } 1 2 \\ \\mathrm { m i n }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "9）PBS（ $\\mathrm { p H } 7 . 4$ ）冲洗3次，每次 $5 \\mathrm { m i n }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "10）甩去 PBS，滴加辣根酶标记链霉卵白素工作液覆盖整个切片组织，于湿盒中孵育10\\~12min。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "11）PBS（ $\\mathrm { p H } 7 . 4$ ）冲洗3次，每次 $5 \\mathrm { m i n }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "12）甩去PBS 液，滴加二氨基联苯胺(DAB)工作液 $2 { \\sim } 5 \\ \\mathrm { m i n }$ ，过氧化物酶将使底物发生反应，反应部位显棕色。蒸馏水冲洗3次，每次 $5 \\mathrm { m i n }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "13）苏木素复染 $2 { \\sim } 3 \\ \\operatorname* { m i n }$ 。蒸馏水冲洗3次，每次 $5 \\mathrm { m i n }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "14）切片经梯度酒精脱水，二甲苯透明后，中性树胶封片。  \n每次试验均设阴性对照，以0.01mol/LPBS( $\\mathrm { p H } 7 . 4 )$ 代替一抗作阴性对照，其余步骤同上。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.6.2.3 肠道组织免疫相关细胞的观察",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "应用Image-pro plus 6.0 图像分析软件测定单位视野内阳性细胞总积分光密度（integratedoption density，IOD）和总目标分布区域面积(Area)，每张切片测 30个以上视野，计算平均光密度（IOD/Area)，以反映淋巴细胞含量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.7 数据处理与统计分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "所有数据用 Excel 2003 简单处理后，采用 SPSS17.0 软件中 one-way ANOVA 模型进行方差分析，各组数据以“平均值 $\\cdot \\pm ^ { \\cdot }$ 标准误”表示。以 $P { < } 0 . 0 5$ 为差异显著， $P { < } 0 . 0 5 { \\leqslant } P { < } 0 . 1 0$ 为有差异趋势。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1酵母壁多糖对断奶仔猪血清免疫球蛋白和细胞因子含量的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，与对照组相比，饲粮中添加 $0 . 1 5 \\%$ 、 $0 . 3 0 \\%$ 和 $0 . 4 5 \\%$ 酵母壁多糖组断奶仔猪血清IgA含量分别显著提高了 $1 5 . 0 4 \\%$ 、 $2 0 . 3 5 \\%$ 和 $1 3 . 2 7 \\%$ ( $_ { \\cdot \\cdot P < 0 . 0 5 }$ ），饲粮中添加 $0 . 3 0 \\%$ 和 $0 . 4 5 \\%$ 酵母壁多糖组显著提高了断奶仔猪血清 $\\mathrm { I g G }$ 含量（ $. P { < } 0 . 0 5$ ）。饲粮中添加酵母壁多糖对断奶仔猪血清IgM含量无显著影响（ $P { > } 0 . 0 5$ ）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "与对照组相比，饲粮中添加 $0 . 1 5 \\%$ 、 $0 . 3 0 \\%$ 和 $0 . 4 5 \\%$ 酵母壁多糖组断奶仔猪血清 $\\mathrm { I F N } { - } \\gamma$ 含量分别显著降低了 $34 . 9 4 \\%$ 、 $2 9 . 1 3 \\%$ 和 $2 9 . 2 2 \\%$ ( $P { < } 0 . 0 5$ ），饲粮中添加 $0 . 3 0 \\%$ 酵母壁多糖组显著提高了断奶仔猪血清IL-10含量（ $. P { < } 0 . 0 5$ ）。饲粮中添加酵母壁多糖对断奶仔猪血清IL-2、IL-6 和TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 含量无显著影响（ $. P { > } 0 . 0 5$ ），但有提高断奶仔猪血清IL-2含量的趋势（ $\\scriptstyle P = 0 . 0 7 1$ ）。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/bbd04a400c89d55f1696dc580edf2862bcdfeb20ef106212f6d1ec87c38efd2a.jpg",
+        "table_caption": [
+            "表2酵母壁多糖对断奶仔猪血清免疫球蛋白和细胞因子含量的影响",
+            "Table 2Efects of yeast cell wall polysaccharide on content of immunoglobulin and cytokine in serum of weaned piglets "
+        ],
+        "table_footnote": [
+            "同行数据肩标不同小写字母表示差异显著（ $\\scriptstyle P < 0 . 0 5 { \\mathrm { : } }$ )，相同或无字母表示差异不显著（ $_ { \\cdot \\cdot P > 0 . 0 5 } )$ ）°In the same row, values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,while with thesame or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ "
+        ],
+        "table_body": "<html><body><table><tr><td>项目</td><td colspan=\"4\">酵母壁多糖水平 Yeast cell wall polysaccharide level/%</td><td>P值</td></tr><tr><td>Items</td><td>0</td><td>0.15</td><td>0.3</td><td>0.45</td><td>P-value</td></tr><tr><td colspan=\"6\">免疫球蛋白 Immuneglobulin/(g/L)</td></tr><tr><td>免疫球蛋白AIgA</td><td>1.13±0.07b</td><td>1.30±0.02a</td><td>1.36±0.02a</td><td>1.28±0.03a</td><td>0.016</td></tr><tr><td>免疫球蛋白MIgM</td><td>2.35±0.06</td><td>2.43±0.01</td><td>2.47±0.02</td><td>2.45±0.01</td><td>0.105</td></tr><tr><td>免疫球蛋白GIgG</td><td>20.62±0.39c</td><td>21.13±0.17bc</td><td>22.28±0.34a</td><td>21.69±0.23ab</td><td>0.019</td></tr><tr><td colspan=\"6\">细胞因子 Cytokine/(pg/mL)</td></tr><tr><td>白细胞介素-2IL-2</td><td>32.23±0.85</td><td>40.77±3.63</td><td>39.28±0.84</td><td>38.35±1.28</td><td>0.071</td></tr><tr><td>白细胞介素-6IL-6</td><td>115.67±6.24</td><td>129.14±8.05</td><td>111.19±0.97</td><td>110.43±1.43</td><td>0.107</td></tr><tr><td>白细胞介素-10IL-10</td><td>21.09±1.23b</td><td>28.92±1.41b</td><td>38.76±3.42a</td><td>25.77±3.01b</td><td>0.006</td></tr><tr><td>干扰素-γ IFN-γ</td><td>75.56±3.37a</td><td>49.16±6.43b</td><td>53.55±6.82b</td><td>53.48±3.22b</td><td>0.028</td></tr><tr><td>肿瘤坏死因子-αTNF-α</td><td>50.60±1.12</td><td>54.17±2.78</td><td>56.06±1.09</td><td>54.13±0.93</td><td>0.187</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2酵母壁多糖对断奶仔猪回肠 $\\mathrm { C D 4 ^ { + } }$ 、 $\\mathrm { C D 8 ^ { + } }$ 和 $\\mathrm { C D } 2 0 ^ { + }$ 淋巴细胞含量的影响 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图1为断奶仔猪回肠固有层中 $\\mathrm { C D 4 ^ { + } }$ 淋巴细胞免疫组化切片图，其中呈棕色/红棕色的细胞为$\\mathrm { C D 4 ^ { + } }$ 淋巴细胞。图2为断奶仔猪回肠绒毛固有层中 $\\mathrm { C D 4 ^ { + } }$ 淋巴细胞免疫组化切片图，从图中可以发现，随着饲粮中酵母壁多糖添加水平的升高，断奶仔猪回肠绒毛固有层中辅助性T 淋巴细胞明显越来越多。为了进一步统计数据结果，利用 Image-pro plus 6.0 图像分析软件上测得单位面积阳性细胞的平均光密度值。由图3可以得知，与对照组相比，饲粮中添加 $0 . 3 0 \\%$ 和 $0 . 4 5 \\%$ 酵母壁多糖能显著提高断奶仔猪回肠CD4+淋巴细胞含量（ $\\scriptstyle P < 0 . 0 5 { \\mathrm { . } }$ ），且平均光密度值在正常范围中。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "棕色/红棕色为阳性细胞颜色(棕色/红棕色：DAB 显色)，苏木精-伊红（HE）复染。切片放大倍数均为400。A为对照组，B为 $0 . 1 5 \\%$ 酵母壁多糖组，C为 $0 . 3 0 \\%$ 酵母壁多糖组，D为 $0 . 4 5 \\%$ 酵母壁多糖组。下图同。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/3132a7d337cd6597dadfdb5cd1ae536089f8eab1734150906fa53c2a8535b693.jpg",
+        "img_caption": [
+            "图1回肠 $\\mathrm { C D 4 ^ { + } }$ 淋巴细胞石蜡免疫组化切片图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The membrane brown/reddish brown colors denote positive staining （brown/reddish brown: DAB chromogen， Specimens were counterstained with hematoxylin-eosin staining（HE）. Slice magnification was $4 0 0 \\times$ .A: control group, B: $0 . 1 5 \\%$ yeast wall polysaccharide group, C: $0 . 3 0 \\%$ yeast wall polysaccharide group, D: $0 . 4 5 \\%$ yeast wall polysaccharide group. The same as below. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Figure of ileum $\\mathrm { C D 4 ^ { + } }$ lymphocytes paraffin immunohistochemical数据柱标不同小写字母表示差异显著（ $_ { . } { \\cal P } { < } 0 . 0 5$ )，相同或无字母表示差异不显著（ $. P { > } 0 . 0 5$ )。下图同。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a4508a3a7bb06f4ff1806f97632c1cd85cb0b38c6333d859f9eec93acd96e6ee.jpg",
+        "img_caption": [
+            "图2回肠CD4+淋巴细胞石蜡免疫组化切片图（绒毛）"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6a70d7ecc9957732a5fd516cbb7ef19447f9b71ec5caefed909b774ab3b9db2.jpg",
+        "img_caption": [
+            "Fig.2Figure of ileum $\\mathrm { C D 4 ^ { + } }$ lymphocytes paraffin immunohistochemical（villus ）",
+            "图3回肠 $\\mathrm { C D 4 ^ { + } }$ 淋巴细胞平均光密度"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Value columns with different small letter superscripts mean significant difference ( $( P { < } 0 . 0 5 )$ ,while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 ) \\$ .The sameasbelow. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.3The mean optical density of ileum $\\mathrm { C D 4 ^ { + } }$ lymphocytes ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图4为断奶仔猪回肠固有层中集合淋巴小结中间 $\\mathrm { C D 8 ^ { + } }$ 淋巴细胞（细胞毒性T细胞）免疫组化切片图，从图中可以看出，随着饲粮酵母壁多糖添加水平的升高，细胞毒性T细胞含量在各组之间差异不大，且比CD4+淋巴细胞少。图5为断奶仔猪回肠绒毛中派伊尔淋巴小结 CD8+淋巴细胞。利用 Image-pro plus 6.0 图像分析软件上测的单位面积阳性细胞的平均光密度值，由图6可以得知，各组之间 $\\mathrm { C D 8 ^ { + } }$ 淋巴细胞含量无显著差异（ $P { < } 0 . 0 5$ ）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce59275fc5db061cd56314885b074c9e96354be1140823a83a3551a0798f3092.jpg",
+        "img_caption": [
+            "图4回肠 $\\mathrm { C D 8 ^ { + } }$ 淋巴细胞石蜡免疫组化切片图"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Figure of ileum $\\mathrm { C D 8 ^ { + } }$ lymphocytes paraffin immunohistochemical ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/2461131e4a28d36bd58f80972dfa15ca7ee57fe87e1479f547175a9a13158da4.jpg",
+        "img_caption": [
+            "图5回肠CD8+淋巴细胞石蜡免疫组化切片图（派伊尔淋巴小结）"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5076b2a68fb97545a13d008e4a8dbe0dacc26744f87fddd4c43d87bce18a2ab.jpg",
+        "img_caption": [
+            "Fig.5Figure of ileum $\\mathrm { C D 8 ^ { + } }$ lymphocytes paraffin immunohistochemical （Peyer’ s patches）",
+            "图6回肠 $\\mathrm { C D 8 ^ { + } }$ 淋巴细胞平均光密度",
+            "Fig.6The mean optical density of ileum $\\mathrm { C D 8 ^ { + } }$ lymphocytes "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "图7为断奶仔猪回肠派伊尔淋巴小结中 $\\mathrm { C D } 2 0 ^ { + } .$ 淋巴细胞石蜡免疫组化切片图，同样，切片中呈棕色/红棕色的细胞为 $\\mathrm { C D } 2 0 ^ { + }$ 淋巴细胞。从图中可以发现， $\\mathrm { C D } 2 0 ^ { + }$ 淋巴细胞有且仅存在于小肠派伊尔淋巴小结中，淋巴小结中也含有少量T淋巴细胞。利用Image-pro plus 6.0 图像分析软件上测得单位面积阳性细胞的平均光密度值，由图8可以得知，各组之间 $\\mathrm { C D } 2 0 ^ { + }$ 淋巴细胞含量无显著差异（ $. P { > } 0 . 0 5$ ）。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/b985baf744df56c9102743f503549c01a3b69c9437e7f16e196382b364461032.jpg",
+        "img_caption": [
+            "图7回肠 $\\mathrm { C D } 2 0 ^ { + }$ 淋巴细胞石蜡免疫组化切片图 (派伊尔淋巴小结)"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Fig.7Figure of ileum $\\mathrm { C D } 2 0 ^ { + }$ lymphocytes paraffin immunohistochemical （Peyer’s patches）",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/96adad12ff60a7b183e376fa907e14b56dfae78e17afb9fb2f5845b5aa7e8a42.jpg",
+        "img_caption": [
+            "图8回肠 $\\mathrm { C D } 2 0 ^ { + }$ 淋巴细胞平均光密度",
+            "Fig.8The mean optical density of ileum $\\mathrm { C D } 2 0 ^ { + }$ lymphocytes "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.1酵母壁多糖对断奶仔猪血清免疫球蛋白含量的影响",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "免疫球蛋白包括抗体和膜免疫球蛋白。膜免疫球蛋白是一种抗原受体，具有特异性识别抗原的作用。抗体主要存在于体液中，尤其是血清。血清免疫球蛋白含量一定程度上反映了机体体液免疫状况。血清中主要含有的免疫球蛋白包括IgA、IgM和IgG。IgM是初次免疫应答的主要抗体，IgG 是介导体液免疫的主要抗体，具有抗细菌、抗病毒等重要作用。由于母猪胎盘的特殊结构，大分子物质无法通过胎盘进入胎儿体内，新生仔猪免疫球蛋白几乎全来自于初乳，但小肠黏膜的肠封闭现象（仔猪出生 $2 4 { \\sim } 3 6 \\mathrm { h }$ 后）会阻断免疫球蛋白通过胞饮作用进入血液循环[10]。而且大量研究发现，仔猪早期断奶应激会使血清中免疫球蛋白含量下降，机体合成抗体的能力受到抑制[1]。仔猪饲粮中添加酵母培养物被发现能显著提高血清IgG 和IgM含量[12]。岳文斌等[13]研究发现，在断奶仔猪饲粮中添加甘露寡糖也能显著提高仔猪血清 IgG 含量。这与本试验研究结果相似，在断奶仔猪饲粮中添加 $0 . 3 0 \\%$ 和 $0 . 4 5 \\%$ 酵母壁多糖能显著提高断奶仔猪血清IgG 含量，但对血清IgM含量无显著影响。IgA主要是由位于肠道黏膜下层浆细胞合成分泌，后进入血液循环[14]。酵母壁多糖中甘露寡糖在提高血清 IgA 含量上有着重要的作用[14-15]。本研究发现，饲粮中添加酵母壁多糖能显著提高断奶仔猪血清IgA含量。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2酵母壁多糖对断奶仔猪血清细胞因子含量的影响 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "细胞因子是由免疫细胞和一些非免疫细胞合成和分泌的一类调节细胞功能的多肽或蛋白质分子，它在动物体内含量较低，但具有高效作用。细胞因子在细胞生长、分化、凋亡等生理过程和急慢性炎症等病理过程中发挥重要作用[16]。辅助性T细胞（Th）分为 Th1细胞和 Th2 细胞，IL-2、IFN- $\\cdot \\gamma$ 和TNF- $\\mathbf { \\alpha } _ { \\mathrm { ~ \\normalfont ~ a ~ } }$ 是由 Th1 细胞分泌的细胞因子，IL-6、IL-10 是由 Th2 细胞分泌的细胞因子。IL-2主要作用是促进B 细胞和自然杀伤（NK）细胞的分化和增殖，从而促进免疫球蛋白的产生。IL-10 能够一定程度抑制 IL-1、IL-6 和 TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 的产生，并具有提高B细胞增殖和抗体产生的作用。IL-6是调节急性反应的关键因子，还能促进B细胞和T细胞的分化，通过抑制IL-1和TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 的作用来抑制炎症反应[17]。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "现今，大部分试验研究表明酵母细胞壁成分与机体免疫机能存在不可分割的联系，早在1987年，Seljelid 等[8]就发现β-葡聚糖能够刺激小鼠的巨噬细胞活力。随后Djeraba 等[9]发现甘露寡糖能够激活鸡巨噬细胞活力。Shen 等[20]研究发现，添加酵母培养物能够提高肠道中 Th1 细胞因子 IFN-y的表达。然而，本研究发现，酵母壁多糖能降低断奶仔猪血清中 IFN-γ 含量，这可能是由于本试验与 Shen 等[20研究所用仔猪断奶日龄不同，28日龄断奶仔猪与21日龄断奶仔猪肠道发育情况不同，对产品的反应也会存在一定的区别。其次，2个试验中，产品种类和添加量也不一样。Shen 等[20]试验中使用的产品为酵母培养物，而本试验使用的为酵母壁多糖，其中甘露寡糖和葡聚糖的效价存在较大差异。本研究发现，饲粮中添加添加 $0 . 3 0 \\%$ 酵母壁多糖还能显著提高断奶仔猪血清 IL-10 含量。这与李玉欣[21l和 Kawashima 等[22]研究结果相似。此外，有研究发现添加β(1-3)(1-6)-D-葡聚糖能显著提高仔猪血清 IL-2 含量，并能下调受脂多糖（LPS）刺激后血清TNF- $\\mathbf { \\sigma } \\cdot \\mathbf { a }$ 含量[23]。但本研究发现，酵母壁多糖对断奶仔猪血清IL-2、IL-6 和 TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 含量均无显著影响，但有提高断奶仔猪血清 IL-2含量的趋势。综上，酵母壁多糖可能促进了T细胞由 Th1型向Th2 型细胞的转变。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.3酵母壁多糖对断奶仔猪回肠 $\\mathrm { C D 4 ^ { + } }$ 、 $\\mathrm { C D 8 ^ { + } }$ 、 $\\mathrm { C D } 2 0 ^ { + }$ 淋巴细胞含量的影响 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "机体的大部分淋巴细胞主要存在于胃肠道和肠道相关淋巴组织[24]。相比于大肠，小肠拥有更多的免疫细胞，尤其是回肠中存在派伊尔淋巴小结。 $\\mathrm { C D 4 ^ { + } }$ 淋巴细胞是一种重要的免疫细胞，主要表达于 Th 细胞。 $\\mathrm { C D 8 ^ { + } }$ 淋巴细胞是T淋巴细胞的另一个亚群，又称为细胞毒性T 细胞，在受到抗原刺激后，分化为效应细胞毒性T细胞和记忆细胞毒性T细胞。 $\\mathrm { C D 8 ^ { + } }$ 淋巴细胞还能够特异性杀伤带抗原的靶细胞。记忆毒性T细胞对抗原的靶细胞有记忆功能。 $\\mathrm { C D } 2 0 ^ { + }$ 淋巴细胞表达于除浆细胞外的各阶段B淋巴细胞。在受抗原刺激后，会分化出大量的浆细胞，后合成分泌抗体发挥体液免疫功能。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "此前，有研究发现，应激情况下肉鸡和火鸡，相比于饲喂基础饲粮的对照组，饲粮中添加酵母细胞壁产品能提高盲肠淋巴结 T 淋巴细胞含量[25-26]。仔猪受 LPS 刺激时，酵母培养物能显著提高血液 $\\mathrm { C D 4 ^ { + } }$ 淋巴细胞含量[27]。本试验研究发现，饲粮中添加 $0 . 3 0 \\%$ 和 $0 . 4 5 \\%$ 酵母壁多糖能显著提高断奶仔猪回肠 $\\mathrm { C D 4 ^ { + } }$ 淋巴细胞含量，对回肠 $\\mathrm { C D 8 ^ { + } }$ 和 $\\mathrm { C D } 2 0 ^ { + }$ 淋巴细胞含量有提高趋势但差异不显著。Sauerwein 等[14]研究发现，酵母细胞壁成分对育肥猪回肠上皮细胞 $\\mathrm { C D 4 ^ { + } }$ 和 $\\mathrm { C D 8 ^ { + } }$ 淋巴细胞均无显著影响。这可能是由于育肥猪已经形成了一个良好的机体防御系统。而仔猪在断奶后会受到一定的应激且其防御系统发育不够完善，酵母壁多糖可以提高肠道免疫功能。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "酵母壁多糖对机体外周血免疫和肠道免疫的作用机制可能通过以下方式。首先，改善肠道CD4+淋巴细胞含量，促进辅助性T细胞由Th1向Th2 型细胞的转变，抑制 $\\mathrm { I F N } { - } \\gamma$ 细胞因子产生，促进IL-10细胞因子的产生，避免机体出现过激的炎症反应。此外，血清IgG 和IgA含量的提高，使得机体的体液免疫提高。纵观前期动物试验与本试验研究结果，从断奶仔猪生长性能、肠道健康[28]和机体免疫性能等方面综合考虑，酵母壁多糖在断奶仔猪饲粮中适宜添加水平为 $0 . 3 0 \\%$ 。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 酵母壁多糖可调节仔猪血清免疫球蛋白含量。饲粮中添加 $0 . 3 0 \\%$ 和 $0 . 4 5 \\%$ 酵母壁多糖能显著提高断奶仔猪血清IgG 含量，饲粮中添加 $0 . 1 5 \\%$ 、 $0 . 3 0 \\%$ 和 $0 . 4 5 \\%$ 酵母壁多糖还能显著提高断奶仔猪血清IgA含量。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 酵母壁多糖能改善断奶仔猪血清细胞因子含量。饲粮中添加 $0 . 1 5 \\%$ 、 $0 . 3 0 \\%$ 和 $0 . 4 5 \\%$ 酵母壁 多糖能显著降低断奶仔猪血清IFN-γ含量，饲粮中添加 $0 . 3 0 \\%$ 酵母壁多糖还能显著提高断奶仔猪血 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "清IL-10含量。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{3}$ 酵母壁多糖对断奶仔猪回肠淋巴细胞有一定的调节作用。饲粮中添加 $0 . 3 0 \\%$ 和 $0 . 4 5 \\%$ 酵母壁多糖能显著提高断奶仔猪回肠CD4+淋巴细胞含量。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[1]YIN J,REN W,LIU G,et al.Birth oxidative stress and the development of an antioxidant system in newborn piglets[J].Free Radical Research,2013,47(12):1027-1035. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[2] YIN J,WU M M,XIAO H,et al.Development of an antioxidant system after early weaning in piglets[J].Journal of Animal Science,2014,92(2):612-619. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[3] BOUDRY G,PERON V,LE HUEROU-LURON I,et al.Weaning induces both transient and long-lasting modifications of absorptive,secretory,and barrier properties of piglet intestine[J].Journal of Nutrition,2004,134(9):2256-2262. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[4] GONG J,YIN F,HOU Y,et al.Review:Chinese herbs as alternatives to antibiotics in feed for swine and poultry production:potential and challenges in application[J].Canadian Journal of Animal Science,2014,94(2):223-241. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[5] GERRITSEN R,KLAASSEN GJ,SCHUTTERT G,et al.The effect of a mixture of dairy-based feed ingredients,vegetable fats,and yeast cell wals on performance and innate immunity of weaned piglets[J].Journal of Animal Science,2012,90 （Suppl 4） :269-271. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[6] SHEN Y B,CARROLL J A,YOON I,et al.Effects of supplementing Saccharomyces cerevisiae fermentation product in sow diets on performance of sows and nursing piglets[J].Journal of Animal Science,2011,89(8):2462-2471. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[7] ZHAO P Y,JUNG JH,KIM I H.Effect of mannan oligosaccharides and fructan on growth performance,nutrient digestibility,blood profile,and diarrhea score in weanling pigs[J].Journal of Animal Science,2012,90(3):833-839. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[8]贺琴,王自蕊,游金明,等.酵母壁多糖对断奶仔猪生长性能和小肠黏膜形态结构的影响[J].动物营养学报,2016(11):3536-3541.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[9] FREE S J.Fungal cell wall organization and biosynthesis[J].Advances in Genetics,2O13,81:33-82. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[10] JANG Y D,KANG K W,PIAO L G,et al.Effects of live yeast supplementation to gestation and lactation diets on reproductive performance,immunological parameters and milk composition in ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "sows[J].LivestockScience,2013,152(2/3):167-173. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[11] KELLY D,O'BRIEN J J,MCCRACKEN K J.Efect of creep feeding on the incidence,duration and severity of post-weaning diarrhoea in pigs[J].Research in Veterinary Science,1990,49(2):223-228. [12] XIONG X,YANG H S,LI B,et al.Dietary supplementation with yeast product improves intestinal function,and serum and ileal amino acid contents in weaned piglets[J].Livestock Science,2015,171:20-27. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[13]岳文斌,车向荣,臧建军,等.甘露寡糖对断奶仔猪肠道主要菌群和免疫机能的影响[J].山西农业大学学报:自然科学版,2002,22(2):97-101.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[14]SAUERWEIN H,SCHMITZ S,HISS S.Effects of a dietary application of a yeast cell wall extract on innate and acquired immunity,on oxidative status and growth performance in weanling piglets and onthe ileal epithelium in fatened pigs[J].Journal of Animal Physiology and Animal Nutrition,2007,91(9/10):369-380. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[15]SWANSON K S,GRIESHOP C M,FLICKINGER E A,et al.Supplemental fructooligosaccharides andmannanoligosaccharidesinfluenceimmunefunction,ilealandtotaltractnutrient digestibilities,microbial populations and concentrations of protein catabolites in the large bowel of dogs[J].The Journal of Nutrition,2002,132(5):980-989. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[16] 胡迎利,徐春兰,汪以真.动物黏膜免疫与细胞因子的研究进展[J].中国兽药杂志,2005,39(12):32-35.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[17]SLAVICH G M,IRWIN M R.From stress to inflammation and major depressive disorder:a social signal transduction theory of depression[J].Psychological Bulletin,2014,140(3):774-815. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[18] SELJELID R,RASMUSSEN L,LARM O,et al.The protective effect of $\\beta 1 { - } 3 D$ -glucan-derivatized plasticbeadsagainstEscherichiacoli infectioninmice[J].ScandinavianJournal of Immunology,1987,25(1):55-60. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[19]DJERABA A,QUERE P.In vivo macrophage activation in chickens with Acemannan,a complex carbohydrate extracted from Aloe vera[J].International Journal of Immunopharmacology,2000,22(5):365-372. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[20] SHEN Y B,PIAO X S,KIM S W,et al.Effects of yeast culture supplementation on growth performance,intestinalhealth,andimmuneresponseofnurserypigs[J].JournalofAnimal Science,2009,87(8):2614-2624. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[21] 李玉欣.毕赤酵母甘露寡糖对猪生产性能和免疫性能的影响[D].博士学位论文.北京:中国农业大学,2015.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[22] KAWASHIMA S,HIROSE K,IWATA A,et al $\\beta$ Glucan curdlan induces IL-1O-producing $\\mathrm { C D 4 ^ { + } }$ T cells and inhibits allergic airway inflammation[J].The Journal of Immunology,2012,189(12):5713-5721. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[23]VETVICKA V,OLIVEIRA C.β(1-3)(1-6)- $. D$ -glucans modulate immune status in pigs:potential importance for efficiency of commercial farming[J].Annals of Translational Medicine,2O14,2(2):16. [24] KAO J Y.Principles of mucosal immunology[J].Gastroenterology,2013,145(2):483. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[25] SHANMUGASUNDARAM R,SIFRI M,JEYABALAN R,et al.Efect of yeast cell product (CitriStim) supplementation on turkey performance and intestinal immune cell parameters during an experimental lipopolysaccharide injection[J].Poultry Science,2014,93(11):2763-2771. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[26]SHANMUGASUNDARAM R,SIFRI M,SELVARAJ R K.Effect ofyeast cell product supplementation on broiler cecal microflora species and immune responses during an experimental coccidial infection[J].Poultry Science,2013,92(5):1195-1201. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[27] VAN DER PEET-SCHWERING C M C,JANSMAN A J M,SMIDT H,et al.Effects of yeast culture on performance,gut integrity,and blood cel composition of weanling pigs[J].Journal of Animal Science,2007,85(11):3099-3109. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[28]贺琴,王自蕊,游金明,等.酵母壁多糖对断奶仔猪肠道挥发性脂肪酸和微生物菌群的影响[J] 动物营养学报,2017,29(1):177-183. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Effects of Yeast Cell Wall Polysaccharide on Peripheral Blood and Gut Immunity of Weaned Piglets HE Qin WANG Zirui YOU Jinming\\* LUO Bowen LU Yafei LI Lanhai (Nutrition Feed Development Engineering Center of Jiangxi Province, Key Laboratory of Animal Nutrition in Jiangxi Province, Jiangxi Agricultural University, Nanchang 33oO45, China) ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The experiment was conducted to determine the effects of yeast cell wall polysaccharide on peripheral blood and gut immunity of weaned piglets. The experiment was used a single factor experimental design method,a total of 18O piglets with the similar genetic background and health condition weaned at 21 days of age were randomly allotted to 4 groups with 5 replicates per group and ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "9 pigs per replicate. Pigs in the 4 groups were fed the experimental diets supplemented with O (control group), $0 . 1 5 \\%$ ， $0 . 3 0 \\%$ and $0 . 4 5 \\%$ yeast cell wall polysaccharide,respectively. The experiment lasted for 21 days.The results showed as folows: 1） compared with the control group, diets supplemented with $0 . 1 5 \\%$ ， $0 . 3 0 \\%$ and $0 . 4 5 \\%$ yeast cell wall polysaccharide significantly increased the serum immunoglobulin A content of weaned piglets $( P { < } 0 . 0 5 )$ ，diets supplemented with $0 . 3 0 \\%$ and $0 . 4 5 \\%$ yeast cell wall polysaccharide significantly increased the serum immunoglobulin G content of weaned piglets $( P { < } 0 . 0 5 )$ .2） Compared with the control group,diets supplemented with $0 . 1 5 \\%$ ， $0 . 3 0 \\%$ and $0 . 4 5 \\%$ yeast cell wall polysaccharide significantly decreased the serum interferon- $\\cdot \\gamma$ content of weaned piglets $( P { < } 0 . 0 5 )$ , diets supplemented with $0 . 3 0 \\%$ yeast cell wall polysaccharide significantly increased the serum interleukin-1O content of weaned piglets $( P { < } 0 . 0 5 )$ . Diets supplemented with yeast cell wall polysaccharide had no significant effects on the contents of interleukin-2,interleukin-6 and tumor necrosis factor- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ in serum of weaned piglets $( P { > } 0 . 0 5 )$ .3） Compared with the control group,diets supplemented with $0 . 3 0 \\%$ and $0 . 4 5 \\%$ yeast cell wall polysaccharide significantly increased the ileum $\\mathrm { C D 4 ^ { + } }$ lymphocytes content of weaned piglets $( P { < } 0 . 0 5 )$ ，diets supplemented with yeast cell wall polysaccharide could increased the ileum $\\mathrm { C D 8 ^ { + } }$ and $\\mathbf { C D 2 0 ^ { + } }$ lymphocytes contents of weaned piglets to a certain extent, but the difference was not significant $( P { > } 0 . 0 5 )$ . These findings indicate that yeast cell wall polysaccharide may enhance the peripheral blood and gut immunity in weaned piglets，relieve the weaning stress of the piglets. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Key words: yeast cell wal polysaccharide; weaned piglets; immunoglobulin; lymphocytes ",
+        "page_idx": 16
+    }
+]

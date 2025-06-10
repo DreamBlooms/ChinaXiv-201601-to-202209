@@ -1,0 +1,179 @@
+[
+    {
+        "type": "text",
+        "text": "植物模式标本数据整合新的机遇与挑战",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "谢丹1,2，刘慧圆1，覃海宁 1,2\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.中国科学院植物研究所系统与进化植物学国家重点实验室，北京100093;",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2．中国科学院大学生命科学学院，北京100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：命名模式是分类群的名称所永久依附的成分，在分类学研究中有不可替代的价值。由于中国复杂的植物采集历史以及对中国植物标本开展研究的单位各异，导致我国植物模式标本零散分布于全球各大标本馆，给分类工作的开展带来了极大的困难。标本数字化的开展为模式标本数据整合提供了新的机遇，同时也给我们带来了人名和地名标准化以及模式类型确认等方面的挑战。我国于2006年开始对模式标本数据进行收集和整理，迄今已完成国内外20余家标本馆9万余条标本数据的收集。模式考证和模式类型清理是我们下一步亟须开展的工作，同时我们应将地名变更资料、人名考证资料进行整合并建立相应的数据库以推动模式标本数据的标准化。这将在很大程度上帮助我们摸清中国模式标本的家底。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：模式标本，标本馆，采集人，地名变更，维管植物",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "New opportunities and challenges for data integration of ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "plant type specimens ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "XIE Dan1,2, LIU Huiyuan1, QIN Haining1,2\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1. State Key Laboratory of Systematic and Evolutionary Botany, Institute of Botany, Chinese Academy of Sciences,Beijing 10o093, China; 2. College ofLife Sciences, University of Chinese Academy of Sciences, Beijing 100049, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: A nomenclatural type is that element to which the name of a taxon is permanently attached and has irreplaceable value in taxonomic research. Types are scatered across herbarium worldwide,which has brought about great difficulties on the development of taxonomy, mainly due to the complex plant collection history and the involvement of different institutions on the exploration of Chinese plant specimens. The development of specimen digitization provides new opportunities for the data integration of plant type specimens and also brings some challenges including the standardization of collector and collction place,and the typification of a specimen. We have begun collecting and sorting the type specimen data since 2Oo6 and about 90 thousand type specimen data in about 2O herbaria worldwide have been collcted simultaneously. Type verification and the cleaning up of type status are urgent work that should be carried out next. Meanwhile,we should integrate the information of administrative region change and collector name that have been verified for promoting the standardization of type specimens. It will help us to update the information on the type specimens of China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: type specimen, herbarium, collector, place name change, vascular plant ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "植物模式标本是指一个分类群名称发表时所依据的标本，包括主模式（Holotype）、等模式（Isotype）、副模式（Paratype）、合模式（Syntype）、后选模式（Lectotype）、新模式（Neotype）和附加模式（Epitype）等，是物种存在的永久凭证，在保障命名体系稳定中有不可替代的作用，在植物分类学研究中有着不可替代的价值（杨永，2012；林祁等，2017;Turlandetal.,2018）。它与物种的原始描述均为分类学研究中不可或缺的资料。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中国是全球17个生物多样性大国之一（Biodiversity a-z,2014）。区系多样性居北半球首位（孙航等，2017）。丰富的植物多样性引起了国家和民众的高度重视。上个世纪六十年代，中国开始编撰《中国植物志》，历时半个世纪，全书全部出版（中国植物志编辑委员会，1959-2004）。随后，我国与密苏里植物园合作编撰了FloraofChina，该书在《中国植物志》的基础上进行增补和修订，并以英文的形式进行定稿（Wuetal.,1989-2013）。2013年《中国生物物种名录（植物卷）》的编研工作启动，并于2018年完成全书各卷册的出版，该书主要基于最新的植物分类系统对中国植物名称、分布和文献等信息进行整合并进行年度更新(Xie etal.,2021)。虽然大量植物多样性家底清查工作已经开展，但物种存在的凭证——模式标本的收集与整理工作仍进展缓慢。这与我国的国情有较大的关系。我国的植物分类学起步较晚（20世纪20年代），较LucaGhini发明腊叶标本制作晚了三个半世纪，林奈创立双名法晚了约一个半世纪（王文采，2011；杨永，2012）。同时，外国学者对我国植物认识和采集较早，外国人对中国植物的认识最早可追溯到13世纪后期，马可波罗、葡萄牙商人及一些早期的传教士虽未在中国采集植物标本，但记录了大量欧洲没有记载的植物种类，让西方植物学家对中国植物资源有了初步的印象，促使了之后外国植物学家在中国大规模的采集活动。他们在中国采集植物标本始于17世纪，从17世纪中叶到20 世纪中叶的300余年时间里采集植物标本多达121万余份。这一时期在中国进行植物采集且有记录的植物学家（传教士、外交官、商人和学者）约300 余位，如英国的 Emest HenryWilson,Henry Fletcher Hance、爱尔兰的Augustine Henry、法国的Pere Jean Marie Delavay以及奥地利的HeinrichHandel-Mazzetti等（王印政等，2004）。由于我国植物分类学起步及发展较晚导致大量模式标本保存于国外标本馆中。据不完全统计，我国约 $70 \\%$ 以上种类的模式标本由外国人采集并保存于世界各大标本馆中（王印政等，2004）。标本数字化工作的开展与网络共享为模式标本数据的整合提供了新的机遇。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "模式标本的数量是一个国家或地区分类学研究积累的重要反映，数量越多说明该地区的研究越深入，受关注度越高，对分类与区系研究越有利（周友兵等，2017）。但我国各地区模式标本的数量仍尚且不明。近年来已有一些研究者开始着手地区模式标本的收集与整理工作（如：谢丹等，2019；欧阳学军等，2019），这些工作的开展将有效的推动模式标本数据的整合与清理。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1模式标本数字化的兴起与发展",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数字仓储（Digital repositories)为我们获得大量标本信息提供了快捷、简便的方式（Soltis,2017）。上个世纪80年代，植物标本馆开始将标本信息整合到内部数据库中（in-housedatabases），最终这些数据可以通过万维网进行访问（Cantrill,2018）。澳大利亚是这项工作开展的先行者之一，70年代中期开始了标本馆的标本数字化工作（王利松等，2010）。同一时期，德国哥廷根大学（UniversityofGotingen,GOET）开始建立模式数据库，数据库包含模式标本信息8000 余份（Schmulletal.,2005）。这些工作为后期模式标本的网络共享打下了基础。2004 年非洲植物倡议（African Plants Initiative,API）的提出标志着全球模式标本数字化工作的开始，该项目旨在获取非洲高质量模式标本照片及相关采集信息。随着拉丁美洲植物倡议（Latin American Plants Initiative）的实施，倡议得到迅速发展，参加的标本馆数量不断扩增、涉及区域不断扩大，该项目于 2009 年演变为全球植物倡议（Global PlantsInitiative，GPI）。项目受到AndrewW.Mellon基金会的支持并通过JSTOR(https://plants.jstor.0rg/)将全球 300余家标本馆及200 余万份高分辨率的模式标本向科研工作者进行展示，极大的满足了分类学家对模式标本的需求（htps://www.kew.org/science/projects/global-plants- initiative-gpi; https://about.jstor.org/hats-in-jstor/primary-sources/global-plants/;Lughadha&Miller,2009）。我国于 2006 年启动植物标本数字化工作，同年开始对模式标本进行收集和整理，迄今已收集了国内10余家主要标本馆4万余条维管植物模式标本数据。同时我们也对国外标本馆已经数字化的中国模式标本数据进行收集，获得中国维管植物模式标本数据5万余条（详见表1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2国内外主要标本馆对中国植物模式标本的馆藏及数字化情况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "截止目前为止，大部分标本馆的模式标本数字化工作已基本完成，如英国爱丁堡皇家植物园标本馆（E)、法国国家自然历史博物馆（P）以及中国科学院植物研究所标本馆（PE）等。从目前已数字化的模式标本数量来看，中国科学院植物研究所标本馆以22000份居首位（林祁等，2017），其次为法国国家自然历史博物馆（10807）、英国爱丁堡皇家植物园标本馆（10 700）以及美国哈佛大学标本馆（A,GH,AMES,FH;10139）（详见表1）。英国皇家植物园邱园标本馆（K）和东京大学标本馆（TI）尚未数字化完全。虽然已数字化的模式标本数量达到了一定的量级，但仅极少部分标本馆对模式标本进行了整理。部分标本馆在馆藏的模式标本上附上了相应的原始文献信息，如：维也纳自然历史博物馆（W）、维也纳大学标本馆（WU）以及英国爱丁堡皇家植物园标本馆；也有部分标本馆对该馆的模式标本进行整理并出版了相应的名录或数据集，例如：Grabovskaya-Borodina(2010）出版了俄罗斯科学院科马洛夫植物研究所标本馆（LE）东亚维管植物模式标本名录，中国科学院植物研究所出版了中国科学院植物研究所（PE）模式标本集以及方鼎等（2012）出版了广西中医药研究院植物标本馆（GXMI）维管植物模式标本照片集等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3中国模式标本信息收集与整合新的机遇和挑战",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "标本数字化工作的快速开展和便捷的网络式访问为中国模式标本信息的收集与整合提供了新的机遇，有效的改变了模式标本信息难以获取的局面。上个世纪二三十年代，我国植物分类学刚刚起步，文献资料多存于国外，给相关工作的开展带来了很大的困难。一批植物分类学家借助在国外学习的机会拍摄模式标本照片。如：秦仁昌1930年在英国邱园标本馆利用晚上业余时间，历时11个月拍摄模式或有价值的标本照片18000余张；四川大学方文培于20 世纪40年代从美国哈佛大学标本馆拍回一大批模式，这些照片由中国科学院植物研究所编辑成一套《中国种子植物模式照片集》，成为《中国植物志》编研的重要参考资料（汪振儒等，1994）。虽然现在模式标本信息的获取较之以前更为方便，但同时也给数据的标准化工作带来了极大的挑战。首先就体现在采集地方面。外国植物学家在中国进行专业性的植物采集最早可追溯至18世纪，期间出现了较多的行政区划变革，同时在这段采集时间中方言罗马教会字、威玛氏音标等广泛用于人名、地名的注音，这些原因导致地名和人名的复杂多样化（邢福武，2014）。例如：广东罗浮山有 LohFau Mountain、Lofaushan、Luofu Shan等多种写法，Pakwan 和White Cloud Mountain 均指代白云山；Langkong 指浪穹县，最初由明朝设置，归邓川州管辖，清沿明制，1913年，邓川州改为邓川县，浪穹县改为洱源县。1958 年洱源县、邓川县与剑川县合并，称剑川县。1961年10月，恢复原剑川县，同时洱源、邓川两县合并为洱源县（htp://xzqh.org/html/show/yn/19707.html），故标本所记载 Langkong应为现在的洱源县。再如 Tchen-keou-tin，即城口厅，清道光二年（1822）年置，1913 年改为城口县。海南省的行政地名则显得更为复杂，早期对海南进行植物采集的大多为大陆人，听不懂海南话和黎话。因而导致所记录的采集地名多为误听海南话或黎话而来的“俗名”，或为与官方所用的地名音调相仿的“别名”，早期的一些植物采集地如：定安五指山、琼海黎母岭、儋县莺歌岭、定安同甲等与现今县域的范围相去甚远（邢福武，2014）。准确的地理信息在植物分类学研究过程中相当重要。然而年代久远，地名考证也显得尤为困难。汇集地名变更资料（如：Herberm,1988；邢福武等，2012），根据行政区域历史沿革建立新旧地名对应数据库将在很大程度上减少地名考证的压力；同时我们可以追踪每一位采集家当年的采集路线、从所采植物的生境等野外记录资料着手，结合当时该区行政区划与建制的具体情况，把当时的地图与现今的地图作比较分析，多番考证后确定其在现今建制中的准确位置（邢福武，2014）。我们应尽可能的将采集地以经纬度的方式进行表示以应对未来可能发生的行政区划变更。其次表现在采集人方面。以侯宽昭为例，采集记录中有F.C.How,How,Foon-Chew,Hou Kuan-zhao 等多种记录形式。Harry Smith 则被记录为 Smith,Karl AugustHarald (Harry),K.A.H.Smith,H.Smith等。此外，有时保存在不同标本馆中的同号标本采集人的记录也会表现出一定的差异：或记录为采集队，或对采集人进行分别组合。这些都给采集人的标准化带来了极大的困难。采集人的标准化则首先应统一采集人的记录方式：采集人最好记录为英文全称或中文拼音的形式，并统一为姓前名后，姓名之间以“,”进行分割，采集人多于3人则最好以采集队的形式进行表述；其次我们可以借助大数据优势，从同号标本中找出采集人的对应关系。近年来，一些人名对应数据库相继被建立，如哈佛大学标本馆“Index ofBotanists”以及中国数字植物标本馆“中国植物名称作者（命名人）数据库”，这些资料为人名的检索提供了极大的便利。我们面临的第三个较大的挑战就是模式类型的确定。林祁（2017)对国内外标本馆在模式标本数字化建设中存在的一些共性问题进行了总结，共归为八大类。其中类型5“标注为Typus，但并未指定为何种模式类型”和类型8“原始文献记录的标本信息与标本上的采集信息不一致”较为常见。针对这一问题，我们可以通过查阅物种发表的原始文献并结合法规定义对这些模式类型进行确认。易于查阅的原始文献和可供快速检索的模式标本是解决这一问题的基础。目前我们主要通过 Tropicos（http://www.tropicos.org）链 接BHL（htps://www.biodiversitylibrary.org）或 者Botanicus（http://www.botanicus.org）查阅物种原始文献。BHL收录的文献数量较之Botanicus 更为丰富，但网站的访问并不友好。通过 JSTOR (https://plants.jstor.org)查阅馆藏在海外的中国模式标本照片，然而我们同样无法获取高清大图，仅能看到缩略图。与此同时，国外网址访问较为困难，严重影响了分类学研究的开展和模式类型的确定。因此，我们需要建立一个完备的信息整合系统以快速获取物种的原始文献信息和模式标本数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.展望 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "随着标本数字化工作的持续推进，模式标本的数字化工作也取得了较大的进展，包括哈佛大学标本馆、英国爱丁堡皇家植物园、法国巴黎国家自然历史博物馆在内的多家大型标本馆已经基本完成了本馆的标本数字化工作并且通过网络进行了数据的共享。这些标本馆馆藏了较多早期西方植物学家在中国所采集植物标本，其中不乏模式，这为模式整合提供了一个良好的契机。目前，我们已经可以通过数字植物标本馆对美国纽约植物园（NY）、法国国家自然历史博物馆、英国爱丁堡皇家植物园标本馆和哈佛大学标本馆四家国外标本馆馆藏的中国模式进行访问，后续更多海外标本馆的中国模式标本数据也将陆续被上传。模式标本数据的收集工作已经达到了一定的量级，未来针对模式标本，我们应该着重于数据的清理。复杂的植物采集历史势必会给模式标本数据的标准化带来一定的困难，详实的地名、人名以及文献资料是实现该工作的关键。虽然中国数字植物标本馆也设立了“中国早期标本采集地名考”和“中国植物名称作者（命名人）数据库”分别对一些重要的地名和人名的对应关系进行了展示，但相关数据仍有较大的缺口。网站后台人员不仅需要自身对数据进行持续的补充和更新，同时应鼓励相关科研工作者将有价值的人名对应资料、地名变更资料以及分类学研究相关材料进行上传并推行“谁上传谁负责”的原则，在条件允许的情况下可对相关人员进行资金支持。群策群力，推动该项工作平稳、快速的进行。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0d90fc81887fa413ceb50c0546f58141de69f85cc07016e13c06b1a9501807e2.jpg",
+        "table_caption": [
+            "表1国内外标本馆对中国维管植物模式标本的数字化概况",
+            "Table 1 Digitalization of Chinese vascular plant specimens in herbariums worldwide "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>类别 Category</td><td>机构 Institution 法国巴黎国家自然历史博物馆</td><td>馆代码 Herbarium barcode</td><td>数量 Number</td><td>网址 Website</td></tr><tr><td colspan=\"3\">Muséum National d'Histoire Naturelle (51 018)</td><td>10 807</td><td>https://science.mnhn.fr/a 1l/search</td></tr><tr><td rowspan=\"6\"></td><td rowspan=\"2\">英国爱丁堡皇家植物园标本馆 Royal Botanic Garden Edinburgh</td><td>E</td><td>10 700</td><td rowspan=\"2\">https://www.rbge.org.uk</td></tr><tr><td>A</td><td>8093</td></tr><tr><td rowspan=\"2\">美国哈佛大学 Harvard University</td><td>GH</td><td>1712</td><td rowspan=\"2\">https://kiki.huh.harvard. edu/databases/</td></tr><tr><td>AMES</td><td>205</td></tr><tr><td rowspan=\"2\">美国史密森研究院标本馆</td><td>FH</td><td>129</td><td></td></tr><tr><td>US</td><td>3 588</td><td>https://naturalhistory.si.e du</td></tr><tr><td rowspan=\"4\">国外标本馆 Herbarium at abroad</td><td>Smithsonian Institution 美国纽约植物园 The New York Botanical Garden</td><td>NY</td><td>2 927</td><td>http://sweetgum.nybg.or g/science/</td></tr><tr><td>美国密苏里植物园标本馆 Missouri Botanical Garden</td><td>MO</td><td>2 415</td><td></td></tr><tr><td>英国皇家植物园邱园标本馆 Royal Botanic Gardens</td><td>K</td><td>1873</td><td>https://www.kew.org</td></tr><tr><td>俄罗斯科学院科马洛夫植物研究所标本馆 Komarov Botanical Institute of RAS</td><td>LE</td><td>1823</td><td>Grabovskaya-Borodina (2010)</td></tr><tr><td rowspan=\"6\">国内标本馆</td><td>维也纳大学标本馆 Universität Wien</td><td>WU</td><td>1820</td><td>https://herbarium.univie.</td></tr><tr><td>维也纳自然历史博物馆 Naturhistorisches Museum Wien</td><td>W</td><td>1 640</td><td>ac.at/index.htm</td></tr><tr><td>瑞典自然历史博物馆 Swedish Museum of Natural History</td><td>S</td><td>1576</td><td>http://herbarium.nrm.se</td></tr><tr><td>德国柏林一达勒姆植物园和植物博物馆 Botanischer Garten und Botanisches Museum Berlin-Dahlem,Zentraleinrichtung derFreien Universitat</td><td>B</td><td>866</td><td>https://www.bgbm.org</td></tr><tr><td>Berlin 东京大学标本馆 University of Tokyo</td><td>TI</td><td>844</td><td>http://umdb.um.u-tokyo. ac.jp/DShokubu/</td></tr><tr><td>中科院植物所标本馆 National Herbarium, Institute of Botany, the Chinese Academy of Sciences</td><td>PE</td><td>22 000</td><td></td></tr><tr><td>Herbarium at home (39 479)</td><td>华南植物园标本馆 South China Botanica Garden Herbarium</td><td>IBSC</td><td>7 677</td><td>http://www.cvh.ac.cn</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/7aa128e3f1077f5c6a5f063eae4d181ca71521c8250728c7cdbea88c951b4ec2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">广西植物研究所标本馆</td><td rowspan=\"2\">5 627</td></tr><tr><td>Guangxi Institute of Botany, Guangxi Zhuang Autonomous Region and Chinese Academy of</td><td>IBK</td></tr><tr><td>Sciences</td><td></td><td></td></tr><tr><td>江苏植物所标本馆</td><td>NAS</td><td>5 031</td></tr><tr><td>Institute ofBotany, Jiangsu Province and</td><td></td><td></td></tr><tr><td>Chinese Academy of Sciences 广西药用植物所</td><td></td><td></td></tr><tr><td>GuangxiInstitute of TraditionalMedical and</td><td>GXMI</td><td>1026</td></tr><tr><td>Pharmaceutical Sciences 台湾大学</td><td></td><td></td></tr><tr><td>National Taiwan University</td><td>TAI</td><td>1000</td></tr><tr><td>庐山植物园标本馆 Lushan Botanical Garden</td><td>LBG</td><td>436</td></tr><tr><td>中国科学院沈阳应用生态研究所东北生物标</td><td></td><td></td></tr><tr><td>本馆 Institute of Applied Ecology, Chinese</td><td>IFP</td><td>410</td></tr><tr><td></td><td></td><td></td></tr><tr><td>Academy ofSciences</td><td></td><td></td></tr><tr><td>中国科学院新疆生态与地理研究所标本馆</td><td></td><td></td></tr><tr><td>Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences</td><td>XJBI</td><td>99</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "BIODIVERSITY AZ, 2014. Megadiverse Countries definition. available from: http://www.biodiversity a-z.org/content/megadiverse-countries.  \nCANTRILL DJ,2O18. The Australasian Virtual Herbarium: Tracking data usage and benefits forbiological collections[J].Appl Plant Sci, 6(2): e01026.  \nFANG D,2017. The pictorial collction of type specimens of vascular plants in the herbarium ofGuangxi Institute of Chinese Medical & Medicine Sciences (GXMI)[M]. Nanning: GuangxiScience＆ Technology PublishingHouse.[方鼎，2012．广西中医药研究院植物标本馆(GXMI)维管植物模式标本照片集[M]．南宁：广西科学技术出版社]  \nFLORA REIPUBLICAE POPULARIS SINICAE EDITORIAL COMMITTEE,1959-2004.FloraReipublicae Popularis Sinicae[M].Beijing:Science Press.[中国植物志编辑委员会，1959-2004．中国植物志[M]．北京：科学出版社]  \nGRABOVSKAYA-BORODINA AE， 2010. Catalogue of the type specimens of East-Asianvascular plants in the herbarium of the V.L. Komarov Botanical Institute (LE)[M]. Moscow:KMK Scientific Press.  \nHERBER G,1988.Harry Smith in China—Routes of his botanical travels. Taxon, 37(2): 299-308.  \nLIN Q, YANG ZR, BAO BJ, et al.， 2017. The database of type specimens in vascular plant atChina National Herbarium (PE)[J].Front Data Comp,8(4): 63-76.[林祁，杨志荣，包伯坚,等，2017．植物模式标本的考证与数字化:以中国国家植物标本馆为例[J]．数据与计算发展前沿，8(4)：63-76.]  \nLUGHADHA EN, MILLER C, 2009.Accelerating global access to plant diversity information[J].Trends Plant Sci, 14(11): 622-628.  \nOUYANG XJ， SONG ZQ, FANG ZJ,et al.， 2019. Content analysis of holotype specimenscollected from Dinghushan National Nature Reserve of Guangdong[J]. J Trop Subtrop Bot,27(1):90-98.[欧阳学军，宋柱秋，范宗骥，等，2019．广东鼎湖山自然保护区生物主模式标本内容分析[J]．热带亚热带植物学报，27(1)：90-98.  \nSCHMULL M, HEINRICHS J, BAIER R, et al.， 2005. The type database at Göttingen (GOET)一a virtual herbarium online[J]. Taxon, 54(1): 251-254.  \nSOLTIS PS,2017. Digitization of herbaria enables novel research [J]. Am J Bot.104(9):1281-1284  \nSUN H, DENG T, CHEN YS, et al.， 2017. Current research and development trends in floristicgeography[J].Biodivers Sci,25(2):111-222.[孙航，邓涛，陈永生，等，2017．植物区系地理研究现状及发展趋势[J].生物多样性，25(2)：111-222.]  \nTURLAND NJ, WIERSEMA JH, BARRIE FR, et al.， 2018. International code of nomenclaturefor algae， fungi，and plants (Shenzhen Code): Adopted by the Nineteenth InternationalBotanical Congress Shenzhen, China, July 2017. Regnum Vegetabile 159. Glashutten: KoeltzBotanical Books.  \nWANG LS, Chen B, JI LQ, et al.，2010.Progress in biodiversity informatics[J]. Biodivers Sci,18(5):429-443.[王利松，陈彬，纪力强，等，2010.生物多样性信息学研究进展[J]．生物多样性，18(5):429-443.  \nWANG WT,2011. Significance of herbaria in plant taxonomy [J]. Life World, 263: 1.[王文采,2011．植物标本馆在植物分类学研究中的重要性[J].生命世界，263：1.]  \nWANG YZ, QIN HN, FU DZ, 2004. A brief history of Chinese plant collection [M]// WU ZY,CHEN XQ. Flora Reipublicae Popularis Sinicae, Tomus 1. Beijing: Sciences Press: 659-703.[王印政，覃海宁，傅德志,2004．中国植物采集简史[M]//．吴征镒，陈心启．中国植物志第一卷．北京：科学出版社：659-703.]  \nWANG ZR, LIANG JM, WANG ZX, et al, 1994. History of Chinese Botany[M]. Beijing: SciencePress:161-162.[汪振儒，梁家勉，王宗训，等，1994．中国植物学史[M]．北京：科学出版社：161-162.]  \nWU ZY,RAVEN PH,HONG DY. 1989-2013. Flora of China[M]. Beijing: Science Press； St.Louis: Missouri Botanical Garden Press.  \nXIE D,LIU B, ZHAO LN,et al, 2021.Diversity of higher plants in China[J]. J Syst Evol,Accepted Author Manuscript. https://doi.org/10.1111/jse.12758.  \nXIE D, WANG YQ, ZHANG XS, et al， 2019. A catalogue of plant type specimens and history ofplant collecting in Shennongjia National Park[J]. Biodivers Sci, 27(2),211-218.[谢丹，王玉琴，张小霜，等，2019．神农架国家公园植物采集史及模式标本名录[J]．生物多样性，27(2): 211-218.]  \nXING FW, 2014. Plant specimens recorded the change of Hainan geographical name[J]. HainanWeekly,B04:1.[邢福武,2014．植物标本记录海南地名变迁[J]．海南周刊，B04：1.]  \nXING FW, ZHOU JS, WANG FG, et al， 2012. Inventory of plant species diversity of Hainan[M].Wuhan: Huazhong University of Sciences and Technology Press: 8-18.[邢福武，周劲松，王发国，等，2012．海南植物物种多样性编目[M]．武汉：华中科技大学出版社：8-18.]  \nYANG Y, 2012. Holdings of type specimens of plants in herbaria of China[J]. Biodivers Sci,20(4):512-516.[杨永，2012.我国植物模式标本的馆藏量[J].生物多样性，20(4)：512-516.]  \nZHOU YB, YU XL, WU N, et al.， 2017. A catalogue of animal type specimens from theShennongjia World Natural Heritage Site, China[J]. Biodivers Sci, 25(5),513-517.[周友兵,余小林，吴楠，等，2017．神农架世界自然遗产地动物模式标本名录[J].生物多样性，",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "25(5): 513-517.] ",
+        "page_idx": 7
+    }
+]

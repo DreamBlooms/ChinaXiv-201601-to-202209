@@ -1,0 +1,814 @@
+[
+    {
+        "type": "text",
+        "text": "基于全局更新规则蚁群优化的决策实体配置问题求解方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈冠宇1，孙鹏1,2a，廖梦琛³，张杰勇1，武君胜 2b(1.空军工程大学 信息与导航学院，西安 710077；2.西北工业大学a.计算机学院；b.软件与微电子学院，西安710072;3．中国人民解放军 95445部队，云南 大理 672100)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为解决战场C2组织中平台资源的聚类问题，首先定义了决策实体配置过程中各个要素，然后以面向作战任务的形式从外部和内部两个方面定义了决策实体的工作负载，以工作负载的均方根（root mean square，RMS）为目标函数建立决策实体配置模型，将平台调度方案作为输入信息，采用基于全局更新规则的蚁群算法对问题模型进行求解，生成符合作战需求的决策实体配置方案。最后通过仿真算例对所提方法进行验证和分析，实验结果表明，该方法能够得到较好的平台聚类方案，在聚类结果和收敛速度两方面上与传统方法相比均具有优越性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：决策实体配置；面向作战任务；均方根；蚁群算法 中图分类号：TP391.9 doi:10.3969/j.issn.1001-3695.2018.03.0205 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Solving method for decision-makers configuration problem based on global update rule of ant colony algorithm ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chen Guanyu1, Sun Peng1, 2a, Liao Mengchen³, Zhang Jieyong1,Wu Junsheng2b, (1.CollegeofInformation&Navigation,AirForceEngineeringUniversityXi'an70,China;2.a.SchoolofComputer Science,b.Schoolofoftwareicroelectronics,NorthwesternPolyechnicalUniversity,Xian0China;3.Unit5445 ofPeople's Liberation Army,Dali Yunnan 6721oo,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:To solvetheproblemof clusteringof platformresources in C2organization,firstlyeach element in processof decision-making entityconfigurationis defined,thentheworkloadaredefinedbytwoaspectsas inside workloadandoutside workload.Therot mean square(RMS)of work load are established as theobjective function ofconfiguration model,and platform scheduling schemeis taken as the input information,global updating rule basedantcolony algorithm is apliedto solvethis problem.Finaly,the methodare verifiedandanalyzedbysimulation example,results showthatagreaterclustering schemeareobtained bythismethod,and ithasadvantagesovertraditional methods in termsofclusteringresultsand convergence speed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: decision-makers configuration; combat-task-oriented; root mean square; ant colony algorithm ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着信息化理论对军事战争的深入影响，如何建立战场环境下平台资源、作战任务、决策实体三者之间的关系，是指挥控制（command and control,C2）组织设计中的关键问题错误！未找到引用源。。通过设计作战平台与决策实体之间的指挥控制关系，使不同的平台在相应的决策实体控制下能更好更快地完成该平台所分配到的作战任务，提高任务执行效果和执行质量，就是平台资源的聚类问题，也称为C2组织设计中的决策实体配置问",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "题错误!未找到引用源。错误!未找到引用源。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "如何科学合理的对工作负载进行描述和测度，并建立相应的数学模型实现对平台的聚类问题，是C2组织决策实体配置过程中主要实现的内容错误!未找到引用源。。文献错误!未找到引用源。以最小化决策实体的最大工作负载为目标函数建立了数学模型，从平台、任务数量的角度衡量工作负载；文献错误！未找到引用源。以作战任务的执行时间对工作负载进行测度，建立了以工作负载的最小RMS值为目标函数的数学模型；文献错误！未找到引用源。中定义了指控复杂度的概念，从不同平台对作战任务的协作情况建立最小化工作负载的问题模型；文献错误！未找到引用源。针对传统层次聚类方法采用的贪心策略容易陷入局部最优的现象，提出备选解策略用于选出更加满足整体需求的最优解；针对多目标的优化问题，文献错误！未找到引用源。提出对多目标问题模型生成一系列前沿解，并通过一定的筛选方法得到符合要求的平台聚类结果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文在以上文献研究内容的基础上，进一步讨论针对作战任务外部工作负载和内部工作负载结合描述决策实体工作负载测度方法，建立以决策实体工作负载RMS值为目标函数的决策实体配置问题模型，利用基于全局更新规则的蚁群算法对问题模型进行求解，最后通过仿真算例对算法最佳参数设定进行讨论，并对算法的适用性与优越性进行验证与分析，实验结果表明选择合适的算法参数能够得到科学合理的决策实体配置方案，并相较于传统蚁群算法、自适应蚁群算法，该算法具有较快的收敛速度且能得到较好的聚类结果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 问题描述及建模",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1变量定义",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "战场环境中的所有实体主要被分为三类，分别为决策实体( $D M _ { { \\scriptscriptstyle m } }$ ）、平台（ $P _ { j }$ ）以及作战任务（ $T _ { i }$ )。平台聚类问题，即在任务与平台之间的分配关系产生的前提下，实现平台的聚类并将其分配给不同决策实体进行指挥控制的过程。针对本文问题，首先对相关变量作如下定义：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）平台与作战任务的匹配关系用矩阵$N { = } \\big ( \\omega _ { i j } \\big ) _ { N T \\times N P } ( i { = } 1 , 2 , . . . , N T ; j { = } 1 , 2 , . . . , N P )$ 表示。若 $\\omega _ { i j } = 1$ ，则表示任务 $T _ { i }$ 需要平台 $P _ { j }$ 执行，若 $\\omega _ { i j } { = } 0$ ，则表示任务 $T _ { i }$ 不需要平台 $P _ { j }$ 执行。该矩阵为模型输入已知信息。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）平台与决策实体的匹配关系用矩阵（204号 ${ \\cal M } { = } { \\left( m _ { n j } \\right) } _ { N D \\times N P } ( n { = } 1 , 2 , . . . , N D ; j { = } 1 , 2 , . . . , N P )$ 表示。若 $m _ { n j } = 1$ 则表示决策实体 $D M _ { { m } }$ 指挥控制平台 $P _ { j }$ ，若 $m _ { \\it { n j } } = 0$ 则表示决策实体$D M _ { { \\scriptscriptstyle m } }$ 不对平台 $P _ { j }$ 进行指挥控制。此矩阵即为模型最终输出信息。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c）任务与决策实体的关系用矩阵$x _ { n i } { = } 1 X = ( x _ { n i } ) _ { N D \\times N T } ( n { = } 1 , 2 , . . . , N D ; i { = } 1 , 2 , . . . , N T )$ 表示：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$x _ { n i } = { \\left\\{ \\begin{array} { l l } { 1 , } \\\\ { 0 , } \\end{array} \\right. }$ 表示决策实体DMn执行任务Ti表示决策实体DMn不执行任务 $\\boldsymbol { \\cdot } \\boldsymbol { \\pi }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$x _ { n i }$ 可由 $\\omega _ { i j }$ 和 $m _ { n j }$ 的关系推导得出，即若对于平台 $P _ { j }$ ，其中 $\\omega _ { i j } { = } 1$ 且 $m _ { n j } = 1$ ，则。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "d）决策实体之间的协作关系用向量 $y _ { m n i }$ 表示：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$y _ { m n i } = \\left\\{ \\begin{array} { l l } { { 1 , } } \\\\ { { 0 , } } \\end{array} \\right.$ 表示 ${ \\cdot } D M _ { { m } }$ 和 $\\boldsymbol { D M } _ { n }$ 在任务 $\\mathbf { \\nabla } \\cdot \\mathbf { \\nabla } T _ { i }$ 上存在协作表示 $D M _ { { m } }$ 和 $\\boldsymbol { D M } _ { n }$ 在任务 $\\cdot T _ { i \\cdot }$ 上不存在协作",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此，由以上描述可知：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ y _ { m n i } = x _ { m i } \\cdot x _ { n i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( m , n = 1 , 2 , . . . , N D , m \\neq n ; i = 1 , 2 , . . . , N T )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "e）在执行作战任务中，定义决策实体集合${ \\cal D } M = \\left\\{ { \\cal D } M _ { 1 } , { \\cal D } M _ { 2 } , . . . , { \\cal D } M _ { \\scriptscriptstyle { N D } } \\right\\}$ ，其中， $N D$ 为决策实体数量；定义所有的作战平台集合 $\\boldsymbol { S } ^ { P } = \\{ P _ { 1 } , P _ { 2 } , . . . , P _ { N P } \\}$ ， $N P$ 表示作战平台数量；定义所有的作战任务集合 $\\boldsymbol { S ^ { T } } = \\{ T _ { 1 } , T _ { 2 } , . . . , T _ { N T } \\}$ ，NT表示所有任务数量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 约束条件分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "兵力组织的结构可分为决策层、任务层和平台层，这三层中。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）决策实体和作战平台是一个一对多的关系。一个决策实体可以指挥控制多个作战平台，而一个作战平台只能隶属于一个决策实体。即",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { n = 1 } ^ { N D } m _ { n j } = 1 \\ \\left( \\begin{array} { c c c } { j = 1 , 2 , . . . , N P } \\right) \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)由变量描述可知，当且仅当 $x _ { m i } = 1$ 且 $x _ { n i } = 1$ 时， $y _ { m n i } = 1$ 。因此存在关系",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { m n i } \\leq x _ { m i }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( m = 1 , 2 , . . . , N D ; n = 1 , 2 , . . . , N D , m \\neq n \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "同理可得",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { m n i } \\leq x _ { n i }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\ m { = } 1 , 2 , . . . , N D ; n { = } 1 , 2 , . . . , N D , m { \\neq } n \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因为 $x _ { n i } = \\omega _ { i j } \\times m _ { m j }$ ，所以",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { m n i } \\le \\omega _ { i j } \\cdot m _ { m j }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\left( \\begin{array} { l }  m , n = 1 , 2 , . . . , N D , m \\neq n ; i = 1 , 2 , . . . , N T ; j = 1 , 2 , . . . , N P \\right) \\end{array}$ 同理可得：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { m n i } \\le \\omega _ { i j } \\cdot m _ { n j }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c)每一个决策实体必须参与指挥控制平台执行该平台相应分配到的作战任务，即每个决策实体指挥控制的平台数必须至少为1个：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { j = 1 } ^ { N P } m _ { n j } \\ge 1 \\quad \\left( n = 1 , 2 , . . . , N D \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3问题模型建立",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.1工作负载的定义",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "工作负载表明了每个决策实体所指挥控制的平台执行任务的情况。考虑到作战任务的完成时间有差异，并且对不同的决策实体带来的工作负载量不同，本文选择以任务执行时间作为工作负载测度错误!未找到引用源。，并从内部负载和外部负载两个方面进行描述。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1）内部负载 $I ( n )$ 定义及测度方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "决策实体内部负载 $I ( n )$ 表示决策实体指挥控制隶属于自己的作战平台完成作战任务所产生的负载。 $I ( n )$ 数值上等于决策实体控制的所有平台的执行作战任务的时间之和：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI ( n ) = \\sum _ { j = 1 } ^ { N P } m _ { n j } \\cdot S ( j )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $S ( j )$ 表示平台 $P _ { j }$ 执行任务的工作负载，定义为作战平台执行任务的时间之和：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS \\left( \\boldsymbol { j } \\right) = \\sum _ { i = 1 } ^ { N T } \\omega _ { i j } \\cdot \\boldsymbol { t } _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $t _ { i }$ 表示任务 $T _ { i }$ 的执行时间。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因此，综上式（10）（11）两式可知：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI ( n ) = \\sum _ { j = 1 } ^ { N P } \\left( m _ { n j } \\cdot \\sum _ { t = 1 } ^ { N T } \\omega _ { i j } \\cdot t _ { i } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2）外部负载 $E ( n )$ 定义及测度方法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "决策实体外部负载表示两个不同决策实体协作完成作战任务而产生的工作负载。 $E ( n )$ 数值上等于决策实体 ${ D M } _ { n }$ 与其他所有决策实体控制的平台协作执行任务的工作负载之和。类比决策实体内部负载的定义方法将 $E ( n )$ 定义为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE ( n ) = \\sum _ { m = 1 , m \\ne n } ^ { N D } \\sum _ { i = 1 } ^ { N T } y _ { n m i } \\cdot t _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3）决策实体 $D M _ { n }$ 总工作负载 $C W ( n )$ 测度方法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综合式（12）（13)，决策实体总工作负载 $C W ( n )$ 的定义为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC W ( n ) = a \\cdot I ( n ) + b \\cdot E ( n )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中：权重系数 $a$ 和 $b$ 分别为内部负载和外部负载对总工作负载的影响， $a + b = 1$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2目标函数构造",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于工作负载从内部负载和外部负载两个方面进行描述，不同的聚类方案中决策实体指挥和控制作战平台完成任务的工作负载的不同将对配置方案产生不同的结果。对于某一个给定的平台调度方案，无论聚类结果如何变化，所有决策实体的内部负载之和是保持不变的，但不同的聚类方案决策实体的外部负载之和却不同。因此可以通过选择合适的聚类方案使得所有决策实体的外部负载之和最小。本文选择用每一个决策实体平均工作负载最小、同时决策实体之间负载差异最小作为聚类模型的目标函数，其中，决策实体的平均工作负载表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu { = } \\frac { 1 } { D } { \\sum _ { m = 1 } ^ { D } } C W ( m )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "决策实体之间的差异由方差表示，即",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma ^ { 2 } = \\frac { 1 } { D } \\sum _ { m = 1 } ^ { D } [ C W ( m ) - \\mu ] ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因此，用均方根RMS值对决策实体的工作负载进行综合描述，即",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } {  { \\mathbb { R } \\mathrm { M S } \\sqrt { \\frac { 1 } { D } \\sum _ { \\substack { m \\leq i } } ^ { \\infty } C W ( m ) ^ { 2 } } = \\sqrt { \\frac { 1 } { D } \\sum _ { \\substack { m \\leq i } } ^ { \\infty } C W ( m ) ^ { 2 } + 2 \\mu ^ { i } - 2 \\mu ^ { i } } } } \\\\ & { } & { = \\sqrt { \\mu ^ { i + } + \\frac { 1 } { D } \\sum _ { \\substack { m \\leq i } } ^ { \\infty } C W ( m ) ^ { 2 } + \\frac { \\mu ^ { i } } { D } \\cdot D - 2 \\mu ^ { i } } \\cdot \\frac { 1 } { D \\times \\frac { \\rho } { D } } C W ( m ) }  \\\\ & { } & { = \\sqrt { \\mu ^ { i } + \\frac { 1 } { D } \\sum _ { \\substack { m \\leq i } } ^ { \\infty } C W ( m ) ^ { 2 } + \\frac { \\rho } { D + 1 } \\frac { \\mu ^ { i } } { D } - 2 \\mu \\cdot \\frac { 1 } { D \\cdot \\rho } C W ( m ) } } \\\\ & { } & { = \\sqrt { \\mu ^ { i } + \\frac { 1 } { D } \\sum _ { \\substack { m \\leq i } } ^ { \\infty } ( C W ( m ) ^ { 2 } + \\mu ^ { i } - 2 \\mu \\cdot C W ( m ) ) } } \\\\ & { } & { = \\sqrt { \\mu ^ { i } + \\frac { 1 } { D } \\sum _ { \\substack { m \\leq i } } ^ { \\infty } ( C W ( m ) - \\mu ) ^ { 2 } } } \\\\ & { } & { = \\sqrt { \\mu ^ { i } + \\frac { 1 } { D } \\sum _ { \\substack { m \\leq i } } ^ { \\infty } ( C W ( m ) - \\mu ) ^ { 2 } } } \\\\ & { } & { = \\sqrt { \\mu ^ { i } + \\phi ^ { i } } } \\\\ & { } & { = \\sqrt { \\mu ^ { i } + \\phi ^ { i } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.3数学模型建立",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由式(14)可知，决策实体的工作负载将通过均值和方差两方面进行描述，因此，在对问题模型的约束条件分析及目标函数构造的基础上，本文建立的决策实体配置问题数学模型表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } { \\mathrm { \\mathrm { ~ R M S } } } = { \\sqrt { { \\frac { 1 } { D } } { \\sum _ { m = 1 } ^ { D } C W ( m ) } ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { s . t . \\displaystyle \\sum _ { n = 1 } ^ { N D } m _ { n j } = 1 , ~ j = 1 , 2 , . . . , N P } \\\\ { \\displaystyle \\sum _ { n = 1 } ^ { N P } m _ { n j } \\geq 1 , ~ i = 1 , 2 , . . . , N T ; } \\\\ { y _ { m n i } \\leq \\omega _ { i j } \\cdot m _ { n j } , ~ m = 1 , 2 , . . . , N D ; ~ n = 1 , 2 , . . . , N D } \\\\ { y _ { m n i } \\leq \\omega _ { i j } \\cdot m _ { n j } , ~ m = 1 , 2 , . . . , N D ; ~ n = 1 , 2 , . . . , N D } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 基于全局更新规则蚁群算法的决策实体配置问题求解",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "决策实体配置就是实现平台聚类的过程，即把不同的平台分配给一定数量的决策实体，由决策实体控制各个平台执行既定的作战任务。在平台聚类过程中，要在满足问题约束条件的同时得到符合问题模型目标函数的最优解，因此平台聚类方案体现了所设计的平台与决策实体之间配置关系的合理性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "决策实体的配置问题本质上是组合优化问题，可以采用智能算法对问题进行求解。蚁群算法(ant colony optimizationACO)，作为一种具有搜索能力强、收敛速度快等特点的智能算法，已经被广泛应用于求解组合优化问题。在路径规划错误!未找到引用源。、流水车间调度错误！未找到引用源。、最优解搜寻错误！未找到引用源。、建筑选址错误！未找到引用源。和无人机作战目标分配错误！未找到引用源。等问题上有着较好的表现，因此蚁群算法可以作为解决平台聚类过程中寻求最优聚类方案的一种方法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "该算法按照启发式思想,使用正反馈和信息素挥发机制，利用蚂蚁在所通过的路径上释放的信息素的诱导作用，通过多次迭代逐步收敛到所求解问题的全局最优解。算法的核心思想可以简要描述为：所有蚂蚁都会在经过的路径上留下信息素，不同蚂蚁行走的路径对应不同的信息素轨迹。由于在最短路径上的蚂蚁会更早的到达目的地，从而增加其在该路径上来往的频率，因此该路径上信息素密度更大。其他蚂蚁在寻径的过程中会选择信息素强的路径进行移动，因此，此路径上的信息素强度会不断叠加。通过这种正反馈机制使蚂蚁最终能够找到蚁穴到食物源的最优路径。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "下面将针对决策实体的配置问题，结合文献错误！未找到引用源。，对蚁群算法在实现平台聚类过程中算法各个组成要素进行相应的描述。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a）构建图。蚂蚁将在构建矩阵 $c$ 上随机游走，来建立解的随机构建过程。其中， $L$ 完全连接集合 $c$ 中所有元素， $c$ 中包含所有平台和决策实体。一个可行解就表示一个由ND个决策实体和 $N P$ 个平台以 $\\left( m , j \\right)$ 的配对形式建立的矩阵，若 $\\left( m , j \\right)$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "等于1，则表示平台 $P _ { j }$ 分配给决策实体 $D M _ { { m } }$ 进行指挥控制。分配过程中，一个平台只能分配给一个决策实体，而一个决策实体可以指挥控制多个平台。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b）信息素。信息素 $\\tau _ { m j }$ 表明平台 $P _ { j }$ 到决策实体 $D M _ { { m } }$ 的期望度，它编码了有关蚂蚁进行路径搜索的过程，由蚂蚁对其进行更新。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c）信息素全局更新。为了避免冗余的信息素造成过量的信息堆积，每只蚂蚁完成对NP个平台的聚类后将淡化旧信息，强化新信息。因此，在 $t + n$ 时刻，平台与决策实体之间的配对$\\left( m , j \\right)$ 将按全局更新规则进行更新：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tau _ { m j } \\left( t + n \\right) = \\left( 1 - \\rho \\right) \\cdot \\tau _ { m j } \\left( t \\right) + \\Delta \\tau _ { m j } \\left( t , t + n \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中: $\\rho$ 为挥发系数，表示信息素随时间推移的衰减程度；$\\Delta \\tau _ { m j }$ 表示信息素增量。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\tau _ { m j } \\left( t , t + n \\right) = \\sum _ { k = 1 } ^ { M } \\Delta \\tau _ { m j } ^ { k } \\left( t , t + n \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\Delta \\tau _ { m j } ^ { k } \\left( t , t + n \\right)$ 表示第 $k$ 只蚂蚁在 $\\left( t , t + n \\right)$ 时刻留在路径$\\left( m , j \\right)$ 上的信息素量，具体数值根据蚂蚁的表现而定。计算公式为",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\Delta \\tau _ { m j } ^ { k } \\left( t , t + n \\right) = \\left\\{ \\begin{array} { l l } { \\displaystyle { \\frac { Q } { R M S _ { k } } } ; } \\\\ { \\displaystyle 0 , } \\end{array} \\right.$ 若第 $\\mathbf { \\dot { \\xi } } _ { k }$ 只蚂蚁经过路径 $\\left( m , j \\right)$ 其他",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\boldsymbol { \\mathcal { Q } }$ 表示控制常数， $R M S _ { k }$ 表示每只蚂蚁表示的分配方案的工作负载RMS值：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR M S = \\frac { 1 } { N D } { \\sum _ { N = 1 } ^ { N D } } C W ( n ) ^ { 2 } = \\sqrt { \\mu ^ { 2 } + \\sigma ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "d)结束规则。如果所有平台都已分配完毕，或者算法迭代次数超过某个迭代次数限制，则结束。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上所述，基于全局更新规则蚁群算法的决策实体配置过程步骤如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)初始化所有参数。设置蚂蚁数量为 $N$ ，最大循环次数为$N _ { \\mathrm { s t o p } }$ ，初始化每个配对 $\\left( m , j \\right)$ 的信息素 $\\tau _ { m j } ( 0 )$ ，令初始时刻$\\Delta \\tau _ { { \\scriptscriptstyle m j } } ( 0 ) = 0$ 。 $N$ 只蚂蚁随机产生决策实体与平台之间的配置方案 $c$ ，对方案的可行性进行验证，剔除不可行的配置方案；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b)计算不同的决策实体配置方案中决策实体的工作负载RMS值；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c)计算信息素增量 $\\Delta \\tau _ { m j } ^ { k } \\left( t , t + n \\right)$ ，求解信息素 $\\tau _ { m j } \\left( t + n \\right)$ ，并根据信息素计算下式的转移概率：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { m j } ^ { k } = \\frac { \\tau _ { m j } ^ { \\alpha } ( t ) \\eta _ { m j } ^ { \\beta } ( t ) } { \\displaystyle \\sum _ { s \\in a l l o w e d _ { k } } \\tau _ { m s } ^ { \\alpha } ( t ) \\eta _ { m s } ^ { \\beta } ( t ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "d)按照转移概率进行聚类方案选择，记录当前最优分配方案；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "e)判断循环次数是否小于最大循环次数，若小于则保存最优个体，返回执行步骤2，若大于则输出最后结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于蚁群算法的平台聚类过程如图1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3a9a274b62446e73bf2f6dd5dfa65d1aade49407ed7551703cc9e63dfbeb1fd6.jpg",
+        "img_caption": [
+            "图1基于全局更新规则蚁群算法的聚类过程"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 算例分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文以一个联合作战作战想定为仿真算例，对本文所提方法进行仿真验证分析。在该案例中，共有18个任务、20个平台，其中平台资源能力与任务资源需求的种类为8种，任务属性数据和平台属性数据参见文献错误！未找到引用源。。其中，任务-平台间的分配关系用平台调度方案甘特图进行表示，该分配关系为决策实体配置问题的已知输入信息，如图2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7919ebbb384ec62ccd6cf63836f70f72705e64b1a87082701db6eff8795c504.jpg",
+        "img_caption": [
+            "图2平台调度方案甘特图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "仿真实验1在基于全局更新规则的蚁群算法中，由于算法涉及到的参数较多，且不同参数设置的结果将对最终的平台聚类结果产生较大影响，因此首先针对不同算法参数对聚类结果的影响进行比较分析，确定解决该问题的最佳参数设置问题。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1）决策实体数量 $N D$ 对聚类结果的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "算法初始化参数设置如下：蚂蚁数量 $M = 2 5$ 、平台个数$N P = 2 0$ 、任务个数 $N T = 1 8$ 、最大循环次数 $N C _ { \\mathrm { m a x } } = 5 0$ ，信息素残留系数 $R h o = 0 . 8$ 、信息素总量 $Q = 1 0 0$ 、内部负载权重$a = 0 . 5$ 、外部负载权重 $b = 0 . 5$ 、信息启发式因子 $\\alpha = 0 . 8$ 、期望值启发式因子 $\\beta = 3$ 。令决策实体数量分别为 $N D = 2 , 3 , . . . , 1 0$ ，工作负载RMS值随ND变化情况如图3所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/607f6463380947b6e63f55cc83b103e8a6307b8c43da0e7e5284bd9c9e8e93ab.jpg",
+        "img_caption": [
+            "图3RMS值随ND个数变化曲线图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图3可知，决策实体数量将影响目标函数值的变化勤快，一般决策实体的个数越少，目标函数RMS 的值就越大，表明当决策实体数量少时，每个决策实体的负载越大。但是并不是决策实体的个数越多，聚类方案就越好。受到作战实际的约束，决策实体个数是有限的，在一次战役任务中，过多决策实体将造成决策实体成本增加。由曲线变化趋势可以看出，当决策实体在4-6个之间时，曲线的斜率变化最快，因此决策实体个数应该选择4-6个。综合考虑，选择决策实体数量 $N D = 5$ 作为后续聚类过程的参数值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2）信息素残留系数 $\\rho$ 对聚类结果的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "信息素挥发度是指蚂蚁在走过的路径上留下的信息素的挥发程度。在算法中以 $1 - \\rho$ 为信息素挥发系数，即以 $\\rho$ 为信息素残留系数。信息素挥发系数直接影响到蚁群算法的收敛速度和全局搜索能力。由于信息挥发系数的存在，蚂蚁没有走过的路径上的信息素会逐渐挥发直至减少到0。当信息素挥发系数$1 - \\rho$ 过大时，信息素挥发过快，一些蚂蚁未经过路径不会得到选择，降低了算法的全局搜索能力；而当信息素挥发系数 $1 - \\rho$ 过小时，虽然能提高算法的全局搜索能力，但是算法收敛速度会降低。信息素残留系数对算法性能的影响如表1所示",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/62531d46457bb184da821c21245fd2e41e25ddcf40d33b289f03d78c70600fe1.jpg",
+        "table_caption": [
+            "表1信息素残留系数对算法性能的影响"
+        ],
+        "table_footnote": [
+            "信息素残留系数 $\\rho$ 与算法输出RMS的之间关系如图4所示。"
+        ],
+        "table_body": "<html><body><table><tr><td>残留系数P</td><td>最优RMS值</td><td>收敛代数</td></tr><tr><td>0.1</td><td>288.6357</td><td>20</td></tr><tr><td>0.3</td><td>288.7796</td><td>15</td></tr><tr><td>0.5</td><td>288.2410</td><td>11</td></tr><tr><td>0.7</td><td>275.6084</td><td>15</td></tr><tr><td>0.8</td><td>276.3512</td><td>16</td></tr><tr><td>0.9</td><td>267.0019</td><td>21</td></tr><tr><td>1</td><td>270.2591</td><td>19</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a8d9b67e19889b12a572fa0cc9415bc15c15ba0f102c2ce9a51a93019afdefa.jpg",
+        "img_caption": [
+            "图4信息素挥发系数与输出解间的关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "信息素残留系数 $\\rho$ 与算法收敛迭代次数之间的关系如图5所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0b55b11170a23e7c65c8f02c0416d305d818c30ddadc6252ad8d30c3b436f244.jpg",
+        "img_caption": [
+            "图5信息素残留系数与算法收敛迭代次数之间的关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由曲线趋势可以看出，算法在 $\\rho = 0 . 7 - 0 . 9$ 间时，输出RMS最小。因此本设计综合其收敛速度和全局搜索能力等因素。综合考虑，选择信息素挥发系数 $1 - \\rho = 0 . 3$ ，即信息素残余系数$\\rho = 0 . 7$ 作为后续聚类过程的参数值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3）蚂蚁数量 $M$ 对聚类结果的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "蚁群算法中，蚂蚁的数量的多少直接影响着群体表现出的能力。对于单个蚂蚁而言完成一次分配即为一个有效解，所有蚂蚁完成一次分配可构成一个解集。显然，蚂蚁的数量越多，解集越大，算法的全局搜索能力就越强，但是算法的收敛速度就越慢。反之，蚂蚁的数量越少，解集越小，算法的全局搜索能力就越弱，但是算法的收敛速度就越快。当蚂蚁数量过小时，虽然提高了算法的收敛速度，但是却容易使算法陷入局部最优，全局搜索效能降低，容易使算法过早停滞现象。蚂蚁数量 $M$ 对对聚类结果及算法收敛情况的影响如表2所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/cf486e4292a0d09b5da4a3cc718419a687bd74c25be73c4ff22683cab508703b.jpg",
+        "table_caption": [
+            "表2蚂蚁数量M与RMS值、算法迭代次数关系表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>蚂蚁数量M</td><td>最优RMS值</td><td>算法收敛代数</td></tr><tr><td>20</td><td>269.6683</td><td>18</td></tr><tr><td>25</td><td>256.4048</td><td>20</td></tr><tr><td>30</td><td>278.9426</td><td>22</td></tr><tr><td>35</td><td>273.5055</td><td>25</td></tr><tr><td>40</td><td>278.3597</td><td>30</td></tr><tr><td>50</td><td>259.5824</td><td>34</td></tr><tr><td>80</td><td>272.2179</td><td>40</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，当蚂蚁数量过多时，收敛速度降低的同时会影响算法输出的聚类结果。由图可以看出选择蚂蚁只数 $M = 2 5$ 时，输出结果较小、迭代次数较少，因此设置参数 $M = 2 5$ 作为",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "后续聚类过程的参数值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4）启发因子 $\\alpha$ 、 $\\beta$ 的选择",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "信息启发式因子 $\\alpha$ 反映蚂蚁在运动过程中所积累的信息量在指导蚁群搜索中的相对重要程度,期望值启发式因子 $\\beta$ 反映蚂蚁在运动过程中启发信息在指导蚁群搜索中的相对重要程度。期望值启发式因子 $\\beta$ 的值越大,蚂蚁在某个局部点上选择局部最短路径的可能性越大，算法收敛速度得以加快,但蚁群在最优路径的搜索过程中随机性减弱,易于陷入局部最优；而信息启发式因子 $\\alpha$ 的大小则反映了蚁群在路径搜索中随机性因素作用的强度,其值越大,蚂蚁选择以前走过的路径的可能性越大,搜索的随机性减弱,当值过大也会使蚂蚁的搜索过早陷于局部最优。启发因子 $\\alpha$ 和 $\\beta$ 对输出结果及算法收敛性的影响如表3所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/b8231d6649dae31acbdc4149d0c1b93670dbbf1ca3debac02fd11373eb215fbb.jpg",
+        "table_caption": [
+            "表3启发因子 $\\alpha$ 和 $\\beta$ 对输出结果及算法收敛性的影响 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>信息启发因子α</td><td>期望值启发因子β</td><td>最优RMS值</td><td>算法收敛代数</td></tr><tr><td>0.1</td><td>0.1</td><td>281.5496</td><td>80</td></tr><tr><td>0.3</td><td>0.5</td><td>282.9456</td><td>40</td></tr><tr><td>0.5</td><td>1.5</td><td>266.1665</td><td>25</td></tr><tr><td>0.8</td><td>3</td><td>265.3575</td><td>18</td></tr><tr><td>1</td><td>5</td><td>266.4062</td><td>12</td></tr><tr><td>3</td><td>8</td><td>272.4683</td><td>12</td></tr><tr><td>5</td><td>10</td><td>296.6914</td><td>6</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表3可知当信息启发因子 $\\alpha = 0 . 5 - 3$ ，同时期望值启发因子 $\\beta = 3$ 左右时算法的输出结果较为优越，且算法收敛速度较快，因此设置参数 $\\alpha = 0 . 8$ 、 $\\beta = 3$ 作为后续聚类过程的参数值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "仿真实验2利用实验1中的结果，对算法中的参数进行初始化设置：蚂蚁数量 $M = 2 5$ 、决策实体数量 $N D = 5$ 、平台个数 $N P = 2 0$ 、任务个数 $N T = 1 8$ 、最大循环次数 $N C _ { \\mathrm { m a x } } = 5 0$ 、信息素残留系数 $R h o = 0 . 8$ 、信息素总量 $Q = 1 0 0$ 、内部负载权重 $a = 0 . 5$ 、外部负载权重 $b = 0 . 5$ 、信息启发式因子 $\\alpha = 0 . 8$ 、期望值启发式因子 $\\beta = 3$ 。利用基于全局更新规则的蚁群算法，生成以图1中所示的平台-任务分配关系为输入信息的平台聚类方案，其聚类结果如表4所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/3d3775fc0f3f8f038e67dc6f999c08b662436eded207846b7a09c9f78533b20e.jpg",
+        "table_caption": [
+            "表4基于全局更新规则蚁群算法的平台聚类结果"
+        ],
+        "table_footnote": [
+            "算法收敛曲线如图6所示。"
+        ],
+        "table_body": "<html><body><table><tr><td>决策实体</td><td>平台</td><td>DM工作负载</td><td>工作负载RMS 值</td><td>RMS方差</td></tr><tr><td>DM1</td><td>P1,P4,P5,P9,P20</td><td>260</td><td></td><td rowspan=\"4\"></td></tr><tr><td>DM2</td><td>P2,,P,P6,P8,P15,P16</td><td>350</td><td></td></tr><tr><td>DM3</td><td>P7,P13</td><td>130</td><td>256.2421 80.1873</td></tr><tr><td>DM4</td><td>P4,P11,P12,P14,P8</td><td>220</td><td></td></tr><tr><td>DM5</td><td>P10,P18,P19</td><td>270</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/792cf66dd238b3003e2d3d33b383571bb2252d6580367c163d943a76c31a58c3.jpg",
+        "img_caption": [
+            "图6蚁群算法收敛曲线与迭代次数图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由图6及表4可知，基于全局更新规则的蚁群算法在解决平台聚类问题时具有可行性。从算法输出结果可以看出，决策实体的工作负载平均值为246，工作负载RMS值为256.2421，决策实体工作负载方差为80.1873。从算法收敛曲线可以看出，算法在迭代至33代的时候收敛。因此，蚁群算法在解决解决平台聚类问题上具有较好的性能，验证了该方法的可行性和适用性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "仿真实验3为了进一步验证基于全局更新规则的蚁群算法的优越性，首先将本文所提算法与层次聚类算法、自适应蚁群算法进行对比分析。算法中的关键参数设置为：蚂蚁数量$M = 2 5$ 、决策实体数量 $N D = 5$ 、平台个数 $N P = 2 0$ 、任务个数$N T = 1 8$ 、最大循环次数 $N C _ { \\mathrm { m a x } } = 5 0$ 、信息素残留系数$R h o = 0 . 8$ 、信息素总量 $Q = 1 0 0$ 、内部负载权重 $a = 0 . 5$ 、外部负载权重 $b = 0 . 5$ 、信息启发式因子 $\\alpha = 0 . 8$ 、期望值启发式因子$\\beta = 3$ 。采用层次聚类法和自适应蚁群算法的输出平台聚类结果如表5、表6所示：",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/ac4ba5ebdc4860743d137147591877a8f5228d21818725fdff3a24a354059273.jpg",
+        "table_caption": [
+            "表5传统层次聚类法解决平台聚类问题的输出结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>决策实体</td><td>平台</td><td>DM工作负载</td><td>工作负载RMS值</td></tr><tr><td>DM1</td><td>P1,P5,P9,P13,P20</td><td>240</td><td rowspan=\"4\">258.1859</td></tr><tr><td>DM2</td><td>P2,,P6,P8,P16</td><td>280</td></tr><tr><td>DM3</td><td>P3,P7,P15</td><td>200</td></tr><tr><td>DM4</td><td>P4,P10,P18,P19</td><td>330</td></tr><tr><td>DM5</td><td>P11,P12,P14,P17</td><td>220</td><td></td></tr><tr><td>表6</td><td>自适应蚁群算法解决平台聚类问题的输出结果</td><td></td><td></td></tr><tr><td>决策实体</td><td>平台</td><td>DM工作负载工作负载RMS值</td><td></td></tr><tr><td>DM1</td><td>P,P,P15,P13,</td><td>200</td><td rowspan=\"4\">257.8759</td></tr><tr><td>DM2</td><td>P1,,P4,P5,P9,P20</td><td>260</td></tr><tr><td>DM3</td><td>P10,P11,P12.P17,P18,P19</td><td>360</td></tr><tr><td>DM4</td><td>P13,P14</td><td>130</td></tr><tr><td>DM5</td><td>P2,P6,P8,P16</td><td>280</td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表4\\~6对比结果可知，采用全局更新规则的蚁群算法得到的最终聚类目标函数值为 $\\mathrm { R M S } { = } 2 5 6 . 2 4 2 1$ ，层次聚类法聚类结果为 $\\mathrm { R M S } { = } 2 5 8 . 1 8 5 9$ ，自适应蚁群算法聚类结果为$\\operatorname { R M S } { = } 2 5 7 . 8 7 5 9$ 。就聚类结果而言，采用全局更新规则的蚁群算法得到的聚类方案RMS值最小，自适应蚁群算法次之，传统层次聚类法最大。因此蚁群算法在解决平台聚类问题上优于传统层次聚类法。而自适应蚁群算法在求解该问题时的效果不如采用全局更新规则的蚁群算法。进一步证实了蚁群算法在解决平台聚类问题上的可行性和优越性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对该问题分别采用全局更新规则的蚁群算法、自适应蚁群算法、普通蚁群算法和量子遗传算法(quantum genetic algorithm,QGA)进行求解，对算法收敛情况进行进一步比较分析，各算法收敛曲线如图7所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/11c5af9df5381636241beb19ca62e4b0c98bf27c8f3ddc1d1e181b8648d05368.jpg",
+        "img_caption": [
+            "图7不同算法收敛代数比较图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由图7中各算法收敛曲线趋势可以直观看出，采用全局更新策略的蚁群算法收敛效果与采用自适应蚁群算法的收敛效果类似，全局更新策略的蚁群算法的收敛效果和达到收敛的迭代数均优于量子遗传算法，因此，进一步验证了采用全局更新策略的蚁群算法在求解平台聚类模型时具有优越性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文主要解决了C2组织中的决策实体配置问题，亦平台聚类问题。首先以面向作战任务的形式从外部和内部两方面定义了决策实体的工作负载，并以工作负载的RMS值为目标函数建立了决策实体配置问题模型，采用基于全局更新规则的蚁群算法对该问题进行求解，最后通过仿真算例验证了算法的适用性与优越性。实验结果表明，合理的算法参数设置能够得到性能较好的聚类结果，并且该方法与传统层次聚类法能够得到更小的目标函数值，且从收敛速度来看该方法在解决平台聚类问题时优于传统蚁群算法和自适应蚁群算法，能够较好的解决决策实体配置问题。在下一步的工作中，将针对不确定环境下的决策实体配置方案优化调整问题进行研究。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Bui H,Han X,Mandal S,et al.Optimization-based decision support algorithm for a team-in-the-loop planning experiment [C]//Proc of IEEE international Conference on Systems,Man，and Cybernetics，2009: 4685-4689.   \n[2] 阳东升，张维明，刘忠，等．指控组织设计方法[M]．北京：国防工业 出版社,2010:161-189.   \n[3]Han X,Mandal S,Pattipati KR,et al.An optimization-based distributed planning algorithm:A blackboard-based collaborative Framework [J]. IEEE Trans on Systems，Man，and Cybernetics-Part A:Systems and Humans,2014,44(6):673-684.   \n[4]孙昱，姚佩阳，张杰勇.C2 组织信息结构效能测度及综合评估[J]．系 统工程与电子技术，2015，37(6):1313-1318.(Sun Yu,Yao Peiyang, Zhang Jieyong. Measurement and comprehensive evaluation of C2 organizational information structure efficiency [J]. Systems Engineering and Electronics,2015,37(6):1313-1318.)   \n[5]David S,Kevin S.On optimizing command and control structures [C]// Proc.of the 16th International Command and Control Research Symposium.2011:1-10.   \n[6] Levchuk G M,Levchuk Y N,Luo J，et al. Normative design of organizations——Part丨:mission planning [J]. IEEE Trans on Systems, Man,and Cybernetics-Part A: Systems and Humans，20O2,32 (3): 346-359.   \n[7]Levchuk G M,Levchuk Y N,Luo J，et al.Normative design of organizations—Part I ：organizational structure [J]. IEEE Trans.on Systems,Man,and Cybernetics-Part A: Systems and Humans,20O2,32 (3): 360-375.   \n[8]张杰勇，姚佩阳.C2 组织决策实体配置问题建模与求解方法[J]．系统 工程与电子技术,2012,34(4):737-742.(Zhang Jieyong，Yao Peiyang. Model and solving method for collocating problem of decision-makers in C2 organization [J]. Systems Engineering and Electronics,2012,34 (4): 737-742.)   \n[9]吴瑞杰，孙鹏，孙昱，等．自适应量子遗传算法在指挥控制结构设计中 的应用[J].计算机应用与研究,2016,33(7):113-119.(Wu Ruijie,Sun Peng,Sun Yu,et al. Self-adaption quantum genetic algorithm used in design of command and control structure [J]. Application Research of Computers,2016,33 (7): 113-119.)   \n[10]周翔翔，姚佩阳，尹忠海．指挥决策实体层次结构设计方法[J]．电光 与控制，2012，19(2):68-72.(Zhou Xiangxiang，Yao Peiyang，Yin Zhonghai.A method for design of command decision-making entity's ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "hiberarchy architecture [J].Electronics Optics & Control,2O12,19 (2): 68-72.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[11]孙昱，姚佩阳，吴吉祥等．兵力组织扁平化指挥控制结构设计方法[J]. 系统工程与电子技术，2016,38(8):1833-1839.(Sun Yu,Yao Peiyang, Wu Jixiang，et al. Design method of flattening command and control structure of army organization [J]. Systems Engineering and Electronics, 2016,38 (8): 1833-1839.)   \n[12] Naz-afarin M,Vahidreza G. Integration of efficient multi-objective ant-colony and a heuristic method to solve a novel multi-objective mixed load school bus routing model [J].Applied Soft Computing，2018,68: 92-109.   \n[13]王圣尧，王凌，许烨，等．求解混合流水车间调度问题的分布估计算法 [J]．自动化学报,2012,38(3): 437-443.(Wang Shengyao,Wang Ling, Xu Ye,et al.An estimation of distribution algorithm for solving hybrid flow-shop scheduling problem [J]. Acta Automatica Sinica,2012,38 (3): 437-443. )   \n[14] Soumya B,Abhishek P. Test Suite Minimization in Regression Testing Using Hybrid Approach of ACO and GA [J]. International Journal of Applied Metaheuristic Computing,2018,9(3): 88-104.   \n[15] Xin Ning,Jingyan Qi,Chunlin Wu,Wenjuan Wang.A tri-objective ant colony optimization based model for planning safe construction site layout [J].Automation in Construction,2018,89:1-12.   \n[16] Ziyang Zhen，Dongjing Xing，Chen Gao.Cooperative search-attack mission planning for multi-UAV based on intelligent self-organized algorithm [J].Aerospace Science and Technology,2018.   \n[17]张邦楚，彭琛，余新荣等．基于蚁群优化的多弹协同目标分配算法 [J]. 弹箭与制导学报,2012,32(4):69-73.(Zhang Bangchu,Peng Chen,Xu Rongxin,et al.Cooperative target assignment algorithm of multiple missiles based on ant colony optimization [J]. Journal of Projectiles, Rockets,Missiles and Guidance,2012,32(4): 69-73.) ",
+        "page_idx": 7
+    }
+]

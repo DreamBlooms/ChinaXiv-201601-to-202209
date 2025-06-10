@@ -1,0 +1,385 @@
+[
+    {
+        "type": "text",
+        "text": "Numerical Simulation of the Tip Aerodynamics and Acoustics Test ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "F Tejero ${ \\bf E } ^ { 1 }$ ,P Doerffer1, O Szulc1,JL Cross² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.The Szwalski InstituteofFluid-Flow Machinery,Polish AcademyofSciences.Fiszera14,0-231,Gdansk,Poland   \n2.NASA Ames Research Center (retired), Moffett Field, CA, USA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\copyright$ Science Press and Institute of Enginering Thermophysics, CAS and Springer-Verlag Berlin Heidelberg 2016 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The application of an efcient flow control system on helicopter rotor blades may lead to improved aerodynamic performance.Recently,our invention of Rod Vortex Generators (RVGs) has been analyzed for helicopter rotor bladesin hover with success.As astep forward,the study has been extended to forward flight conditions.For this reason,a validationof the numerical modelling for a reference helicopter rotor (without flow control) is needed. The article presents astudyof the flow-field of the AH-1G helicopter rotor inlow-,medium-and high-speed forward flight.The CFD code FLOWer from DLR has proven to be asuitable tool for the aerodynamic analysis of the two-bladed rotor without any artificial wake modeling.It solves the URANS equations with LEA (Linear Explicit Algebraic stress) k-ω model using the chimera overlapping grids technique.Validation of the numerical model uses comparison with the detailed flight test data gathered by Cross J.L.and Wats M.E.during the Tip Aerodynamics and Acoustics Test (TAAT) conducted at NASA in 1981. Satisfactory agreements for allspeed regimes and a presence of significant flow separation in high-speed forward flight suggest a possible benefit from the future implementation of RVGs.The numerical results based on the URANS approach are presented not only for a popular,low-speed case commonly used in rotorcraft community for CFD codes validation but preferably for medium- and high-speed test conditions that have not been published to date. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: AH-1G, TAAT, helicopter rotor, forward flight, chimera overlapping grid ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CFD simulation of a rotorcraft is very challenging mainly due to the unsteady phenomena occurring during a revolution (e.g.compressibility effects, shock waves, dynamic stall and blade-vortex interactions).Thus，an accurate simulation of the flow-field passing a helicopter rotor blade is essential for proper prediction of exerted airloads.The output of the Tip Aerodynamics and Acoustics Test（TAAT） conducted by Cross and Watts [1] in 1981 for the AH-1G helicopter is very popular within rotorcraft community for CFD codes validation.It combines an extended set of flight test data,such as overall thrust and torque coefficients,instantaneous values of normal force and pitching moment coefficients at several cross-sections as well as pressure distributions for selected span-wise locations and azimuthal positions of the blade.A literature survey of the published numerical results [2-8] for the TAAT AH-1G campaign reveals that the low-speed flight $\\mathrm { ( V _ { \\infty } = 1 5 0 ~ k m / h }$ )hasbeen simulated in the past by several researchers with success,in contrast to the higher speed flight test points where CFD calculations are very limited (i.e. medium- and highspeedflightswith forward velocities of $\\mathrm { V _ { \\infty } } = 2 1 0 ~ \\mathrm { k m / h }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nomenclature ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/a3b8a82c37467a646b7bd21cd8f43a04b021678c0a27e218eddf9f9fecb58ae8.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>AR</td><td>rotor aspect ratio [-]</td><td>V8</td><td>forward flight velocity [km/h]</td></tr><tr><td>CFL</td><td>Courant Friedrichs Lewy number [-]</td><td>X</td><td>chordwise location [m]</td></tr><tr><td>Cm</td><td>pitching moment coefficient [-]</td><td>X, Y, Z</td><td>Cartesian coordinates [m]</td></tr><tr><td>Cn</td><td>normal force coefficient [-]</td><td>Greek symbols</td><td></td></tr><tr><td>Cp</td><td>pressure coefficient [-]</td><td>β</td><td>flapping angle [°]</td></tr><tr><td>CT, Ca</td><td>thrust and torque coefficients [-]</td><td>β,βs</td><td>backward and sideway disk tilt [°]</td></tr><tr><td>C</td><td>blade chord [m]</td><td></td><td>coning [°]</td></tr><tr><td>Mt,Mo</td><td>tip and forward flight Mach number [-]</td><td>Y</td><td>specific heat ratio [-]</td></tr><tr><td>Pr</td><td>Prandtl number [-]</td><td>8</td><td>rotor pitch-flap coupling [°]</td></tr><tr><td>Ps</td><td>static pressure [Pa]</td><td>0</td><td>pitching angle [°]</td></tr><tr><td>P</td><td>atmospheric pressure [Pa]</td><td>0,0s</td><td>lateral and longitudinal cyclic coeff. [°]</td></tr><tr><td>R</td><td>rotor radius [m]</td><td>00,0.75</td><td>collective at blade root and r/R = .75 [°]</td></tr><tr><td>Rgas</td><td> gas constant [J/kg/K]</td><td>μ</td><td>advance ratio [-]</td></tr><tr><td>r</td><td>radial position [m]</td><td>0</td><td>rotor solidity [-]</td></tr><tr><td>ReT</td><td>tip Reynolds number [-]</td><td></td><td>blade azimuthal position []</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "and $2 9 0 ~ \\mathrm { { \\ k m / h } }$ respectively). Various numerical approaches/methods have been investigated over the last years concerning the low-speed case.Hernandez and Johnson [2] used the FPR-CAMRAD/JA code supplemented by a rotor wake model, while Ramachandran et al. [3] developed a method based upon the vorticity-embedding technique. Ahmad and Duque [4] applied the chimera method to account for the blade motion in their research. More recent CFD calculations can be found in [5-8]. Hernandez et. al. [2] and Tan et. al.[8] presented unique numerical results for the high-speed forward flight case based on an inviscid approach supplied with external wake model. In contrast, our method does not require any prior knowledge of the flow-field. It is sufficient to supply the flight conditions (i.e. angular and forward flight velocities and blade kinematics)as input.For this reason, the paper presents numerical results based on the URANS approach for the medium- and high-speed cases, which are unique in terms of the literature survey. As a first approximation the helicopter rotor blades are isolated and considered rigid.Still, the remaining task is computationally very demanding. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the past, the authors of the paper have been dealing with numerical simulations of helicopter rotor blades in hover and forward flight conditions for various rotors (for example Caradonna-Tung [9-1O] or PZL W-3A Falcon (Sokol) [11]).The initial results of the simulations of the AH-1G rotor have been previously published in [12]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Geometrical Model and Chimera set-up for an Isolated Rotor of the AH-1G Helicopter ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The AH-1G is a two person,single-engine helicopter that first flew in 1965 and has been out of service for 20 years.The AH-1G 2-bladed, teetering rotor with a 540 symmetrical airfoil section,which is a highly modified derivative of the NACA O012 (thickness ratio $\\mathbf { \\eta } = \\mathbf { \\epsilon } . 0 9 3 3 \\rangle$ ）， hasarectangularplanform witha chord $\\mathtt { c } = 0 . 6 8 6 \\mathrm { m }$ .The blades have a linear twist of - $\\cdot 1 0 ^ { \\circ }$ from the shaft to the tip (effective twist from blade root to tip is $- 8 . 4 8 ^ { \\circ } )$ with a radius $\\mathrm { R } = 6 . 7 1 \\mathrm { ~ m ~ }$ (aspect ratio $\\mathrm { A R } = 9 . 8 \\AA$ .During the TAAT test, the effective chord of the blade was increased to accommodate the instrumentation sleeve,reducing the effective aspect ratio to 9.2. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In forward flight, the blades not only rotate around the azimuth $\\psi$ (as for hover conditions), but also pitch $( \\theta ( \\psi ) )$ and flap $( \\beta ( \\psi ) )$ . The azimuthal angle of $0 ^ { \\circ }$ refers to the position of the first blade pointing in the direction opposite to the flight velocity (therefore $\\psi = 0 ^ { \\circ } - 1 8 0 ^ { \\circ }$ denotes the advancing side while $\\psi = 1 8 0 ^ { \\circ } - 3 6 0 ^ { \\circ }$ marks the retreating side).The recorded in-flight blade motion is described in a form of Fourier series using first harmonics which are tabulated in[1] and applied in the simulations: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta \\ = \\ \\theta _ { 0 } \\ + \\ \\theta _ { \\mathrm { c } } \\ \\cdot \\ \\cos \\ \\left( \\psi \\right) \\ + \\ \\theta _ { \\mathrm { s } } \\ \\cdot \\ \\sin \\ \\left( \\psi \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta = \\beta _ { 0 } + \\beta _ { \\mathrm { c } } \\cdot \\cos \\tau \\psi + \\beta _ { \\mathrm { s } } \\cdot \\sin \\tau \\psi\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The computational domain is formed by three chimera overlapping component grids.This technique allows for the easy generation of grids for complex configurations by decomposing them into simple，independent parts. Using this approach for our study, it is relatively easy to implement the blade motion without any grid deformation and to add chimera component grids designed for flow control devices (i.e. RVGs already analyzed for ho vering rotors in[1O]).The component overlapped meshes for the AH-1G helicopter rotor has been generated semiautomatically using a python based internal programming language embedded within the Interactive Grid Generator (IGG)- a commercial software from Numeca International.A component grid is created for a single rotor blade placed within the background mesh (the remaining blade is generated automatically). The Cartesian background component grid (Fig.1） is designed with dimensions of $1 6 . 4 \\mathrm { R } \\times 1 8 . 2 \\mathrm { R } \\times 1 8 . 2 \\mathrm { R }$ ,consequently the outer part of the domain is located at least $8 . 0 \\mathrm { R }$ away from the rotor disk in every direction.The vicinity of the rotor and itswake is solved with a cuboid structure with uniform volumes ( $( 0 . 1 \\mathrm { ~ c ~ } \\times 0 . 1 \\mathrm { ~ c ~ } \\times 0 . 1$ c) increasing the accuracy of interpolation between blade component and background grid,as well as support acoustic wave near-field propagation up to a frequency of approximately $1 \\ \\mathrm { k H z }$ Altogether, 32 computational blocks contain $9 . 4 \\times 1 0 ^ { 6 }$ control volumes. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The blade component grid (Fig. 2） is of C-type in streamwise and H-type in spanwise direction.It spans from the surface $1 . 2 \\mathrm { ~ c ~ }$ in all directions (normal and radial).Designated 4O computational blocks contain $3 . 9 ~ \\times \\$ ${ 1 0 } ^ { 6 }$ of volumes per blade. The non-dimensional distance of the first layer of cells from the solid surface of the blade is of the order of 1 which is sufficient for resolving the turbulent boundary layer using low-Re turbulence model of LEA k-ω down to the wall. Figure 3 presents a combined chimera overlapping grid topology for the AH-1G helicopter rotor. Overall, the whole chimera setup is formed by 3 component grids (background and two blades) with112 blocks and $1 7 . 2 \\times 1 0 ^ { 6 }$ volumes. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8abbacfc9ae95f4da74978186a72c73aa999ab91e71c59bf68f6d528e41a97e2.jpg",
+        "img_caption": [
+            "Fig.1 Background chimera component grid "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Three types of boundary conditions are applied in the numerical simulation: no-slip condition with zero heatflux(adiabatic) at the surface of the rotorblades,far-field condition at the exterior of the background grid and a special chimera condition at the outer edge of the blade component grid which is necessary for the interpolation of flow variables between meshes. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9be1f1694241db010ba52d30244611b6a5154a1e4fe02e2526260c95695c7bd1.jpg",
+        "img_caption": [
+            "Fig.2Blade chimera component grid "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c2ec719d58afa2f57b5ef289c6188d2942fa3d7576d53fb1f08c84faefc7e143.jpg",
+        "img_caption": [
+            "Fig.3AH-1G rotor chimera overlapping grid topology. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Physical and Numerical Modelling ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The present investigation was carried out with the FLOWer solver from DLR[13].It is a modern,parallel, block-structured,cell-centered，aviation oriented CFD code solving the Favre-averaged Navier-Stokes equations with various turbulence models. The two-equation, lowReynolds number,Linear Explicit Algebraic stress model (LEAk-@)was used for thenumerical investigation due to improved transonic flow predictions as well as lack of the wall distance calculation in the closure (computationally demanding for the proposed approach).For the equation of state,the perfect gas law is used with the specific heat ratio $\\gamma = 1 . 4$ ， gas constant $\\mathrm { R } _ { \\mathrm { g a s } } = 2 8 7 . 1$ and Prandtl number $\\mathrm { P r } = 0 . 7 2$ . The laminar viscosity is calculated accordingto the Sutherland's law. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The numerical algorithm is based on a semi-discrete approach with a finite-volume, central scheme of $2 ^ { \\mathrm { n d } }$ orderof accuracy for the spatial discretization.An explicit Runge-Kutta method $( \\mathrm { C F L } = 2 . 5 )$ ）of time integration was applied in the internal iterations of the time-accurate implicit dual-time-stepping scheme of $2 ^ { \\mathrm { n d } }$ order of accuracy. The scalar artificial dissipation model of Jameson is implemented to damp numerical oscillations.A time step equal to $0 . 2 5 ^ { \\circ }$ of azimuth (1440 time steps per revolution) and a drop of density residual by 3.O orders of magnitude proved to be sufficient to obtain an accurate,unsteady flow-field around the rotor. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TAATForwardFlight CasesSimulated ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "After the TAAT flight test campaign,one hover IGE (test point no.237O) and six forward flight cases (test points no.2152-2157） with increasing forward speeds (from $1 5 0 ~ \\mathrm { k m / h }$ to $2 9 0 ~ \\mathrm { k m / h } \\AA ,$ ）were documented in [1]. This article presents exemplary numerical results obtained for a subset of 3 test points (see Table 1).Test point no.2157 (low-speed case, $1 5 0 \\mathrm { k m / h } \\AA$ ）wascomputed and validated against flight test data and compared with other CFD results found in the literature [2-8]. Two higherspeed test cases investigated do not have similar citationsavailableintheliterature.Numericalresultsfortest point no.2152 (high-speed, $2 9 0 ~ \\mathrm { k m / h }$ ）aresatisfactory in terms of flight test data comparison revealing significant flow separation (shock-wave induced at the advancing side and due to dynamic stall at the retreating side).Mitigating the effect of this type of flow separation is a goal of our invention of Rod Vortex Generators (RVGs) [14]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Blade pitch is one of the key aircraft measurements needed to produce accurate CFD predictions.Given that the blade pitch angle varies due to the linear twist of the rotor blade of $- 1 0 ^ { \\circ }$ ，thelocation of the angle measurement is critical.During the TAAT,a sensor mounted between the fixed hub and the feathering bearing housing measured blade pitch. CFD predictions generally use blade pitch values at $0 . 7 5 \\mathrm { ~ R ~ }$ ，while the measured values from TAAT are relative to the blade root at $0 . 1 5 \\mathrm { ~ R ~ }$ (see Table 1). ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d5b31e23d6d0c64e8044d9d65ad506cc73c0d341033b3b88200bed9ebb7ffd53.jpg",
+        "table_caption": [
+            "Table1 TAAT flight test conditions [1] "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>low-speed point 2157</td><td>medium-speed point 2155</td><td>high-speed point 2152</td></tr><tr><td>V8</td><td>150 km/h</td><td>210 km/h</td><td>290 km/h</td></tr><tr><td>M</td><td>0.12</td><td>0.17</td><td>0.24</td></tr><tr><td>MT</td><td>0.65</td><td>0.65</td><td>0.64</td></tr><tr><td>ReT</td><td>9.72×106</td><td>9.78×106</td><td>10.22×106</td></tr><tr><td></td><td>0.19</td><td>0.26</td><td>0.38</td></tr><tr><td>00</td><td>11.7°</td><td>13.4°</td><td>18.0°</td></tr><tr><td>0.75</td><td>5.7°</td><td>7.4°</td><td>12.0°</td></tr><tr><td>0c</td><td>1.7°</td><td>2.1°</td><td>3.6°</td></tr><tr><td>0s</td><td>-5.5°</td><td>-7.9°</td><td>-11.8°</td></tr><tr><td>β</td><td>2.13°</td><td>2.38°</td><td>1.13°</td></tr><tr><td>βs</td><td>-0.15°</td><td>0.19°</td><td>1.11°</td></tr><tr><td>CT</td><td>0.00464</td><td>0.00464</td><td>0.00474</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Conversion of blade pitch from the root measurement to $0 . 7 5 \\mathrm { ~ R ~ }$ is obtained with the following equation: $\\theta _ { \\cdot 7 5 } =$ $\\Theta _ { 0 } - ( . 7 5 \\mathrm { ~ - . 1 5 ) }$ ·(blade twist per meter radius) $\\cdot \\mathrm { R }$ ，where blade twist per meter is 1.493.Therefore, the values of $\\theta _ { 0 }$ transferred to $0 . 7 5 \\mathrm { R }$ are equal to $5 . 7 ^ { \\circ }$ ， $7 . 4 ^ { \\circ }$ and $1 2 . 0 ^ { \\circ }$ for the low-,medium- and high-speed markers,respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the course of conducting this study, great effort was expended to ensure that the results are as accurate as feasible. The AH-1G rotor design includes a little known feature, called pitch-cone coupling,which reduces blade pitch as the rotor coning increases.This feature is not often discussed or included in analysis of this rotor. It was studied here to ascertain what impact this feature could have on blade pitch over these flight conditions. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Pitch-cone coupling plays a role in keeping the rotor from stalling out as the helicopter pulls high $\\mathbf { g } .$ -loads. This teetering hub hasa built in $2 . 7 5 ^ { \\circ }$ precone to minimize flexing of the hub during normal flight. The hub design incorporates a thin flat yoke,with low flapwise stiffness, just outboard of the flapping hinge located at the shaft. When the rotor experiences high loading (e.g. pulling g's ina maneuver),this region flexes,much asa rigid rotor flaps.Because this flex area is not in alignment with the pitch rods,a de facto $\\delta _ { 3 }$ angle (rotor pitchflap coupling) is created.It should be noted here that the AH-1G teetering hub has no pitch-flap coupling, which is the usual result of hubs that include $\\delta _ { 3 }$ .Forinelastic blade analysis,such as undertaken in our report, the published pitch-cone coupling ratio term for the AH-1G is equal to -0.682[15]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As the test conditions studied here are lightly loaded （204号 $( \\mathrm { C _ { T } } / \\sigma = 0 . 0 6 8 )$ , the rotor forces could reduce rotor coning from the built-in precone.Basic calculations show that an articulated rotor, at this $\\mathrm { C } _ { \\mathrm { T } } / \\sigma$ ，would cone in the range of $2 . 1 ^ { \\circ }$ .Due to the yoke stiffness in this teetering hub,deflections from the precone angle will be smaller than the predicted coning reduction of $0 . 6 5 ^ { \\circ }$ .Both elastic and inelastic rotor analysis of an AH-1G inlevel flight at 214 $\\mathrm { k m / h }$ ，were conducted in 1980 [16].The inelastic modeling predicted a blade pitch change of $0 . 0 3 ^ { \\circ }$ while the elastic modeling predicted $0 . 5 5 ^ { \\circ }$ due to pitch-cone coupling.In either case,higher speeds will result in coning closer to the precone $2 . 7 5 ^ { \\circ }$ ，resulting in reduced blade pitch deflections.Since the current study includes inelastic blade modeling, the limited elastic modeling coupling result was not used. Given that the inelastic coupling term produced such a minimal effect, pitch-cone coupling was not included in the study. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Due to relatively high uncertainty in collective reading based on the cabin lever position of the order of $\\pm \\ : 0 . 7 5 ^ { \\circ }$ an additional verification has been conducted to assure zero normal force (zero pitch） at certain experimental azimuthal and spanwise position along the blade.According to TAAT report(Table1) the collective $\\theta _ { 0 }$ correction was set to be $0 . 3 ^ { \\circ }$ for all cases under consideration being within bounds of the reading accuracy [1]. As a result, for the numerical simulations $\\theta _ { . 7 5 }$ was set to $6 . 0 ^ { \\circ }$ $7 . 7 ^ { \\circ }$ and $1 2 . 3 ^ { \\circ }$ for the cases studied. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Numerical Validation against the AH-1G Flight Test Data ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The thrust coefficient $\\mathrm { C _ { T } }$ is satisfactorily reproduced by the CFD techniques employed here,when the flow conditions and blade motion reported in TAAT are applied in the simulations.The thrust coefficient is only overpredicted by $2 \\%$ for the low-speed case $\\mathbf { \\mathrm { C } _ { \\mathrm { T } } } \\mathbf { \\mathrm { \\Omega } } =$ 0.00473).The thrust coefficient over-prediction increases to $9 \\%$ $( \\mathbf { C } _ { \\mathrm { T } } = 0 . 0 0 5 0 7 )$ ）for the medium-speed test point. Finally, for the high-speed case the numerical simulation of the complex flow around the rotor increases the deviation in thrust up to $20 \\%$ $( \\mathrm { C _ { T } } = 0 . 0 0 5 6 9 )$ [14].Similar behavior was identified with analogous modelling and comparable flow conditions for the 4-bladed rotor of the PZL W-3A“Sokol”(Falcon） helicopter [11]. Initial review suggests reasons for the growing over-prediction trend are two folds:lack of the blade flexibilityand rotor trimming in the modelling. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As an example,Figure 4(shown here using the European customary clockwise rotation） presents the rotor wake(Q-criterion colored by vorticity magnitude) for the high-speed forward flight case.Although the wake is dissipated far from the rotor, the refinement levels are sufficient for properly reproducing the blade loading.The tip vortices and trailing edge vortex sheets are shed from the blades interacting in a complex manner. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "KO ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figures 5-7 present exemplary numerical validation for all considered forward flight cases in terms of $C _ { \\mathfrak { n } }$ VS $\\psi$ and $C _ { \\mathrm { m } }$ VS $\\psi$ based on integration of pressure distributions only (no viscous forces) at three cross-sections of the blade $\\mathrm { ( r / R ~ = ~ 0 . 7 5 }$ ， 0.96 and O.99) which are representative of the flow-field inboards and outboards close to the tip.Figure 5 refers to the cross-section located at $\\mathbf { r } / \\mathbf { R } = 0 . 7 5$ ,the agreement with flight test data is satisfactory for the whole range of forward velocities analyzed. The maximum values of $C _ { \\mathfrak { n } }$ appearing at the retreating side are well predicted by CFD.Some detailed features of the flow presented in flight test data are well reproduced by computations (for example local maxima of $C _ { \\mathrm { n } }$ close to $\\Psi ^ { = 9 0 ^ { \\circ } }$ for the low-speed case). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 6 presents the variation in time of normal force $\\left( \\mathrm { C } _ { \\mathrm { n } } \\right)$ at span-wise station $\\mathbf { r } / \\mathbf { R } = 0 . 9 9$ close to the tip.As with the previous cross-section， the overall agreement with flight test data is acceptable taking into account the number of simplifications in the modelling. The maximum values of $C _ { \\mathfrak { n } }$ at the retreating side are well reproduced by CFD.Close to zero normal force $C _ { \\mathfrak { n } }$ (the blade is pitching down close to the tip) caused by lack of incidence is present in the results of the numerical simulations as well. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0033609613187daf179588706772ad9b3cc9f2a129560a2ee865e4985b825bcf.jpg",
+        "img_caption": [
+            "Fig.5Instantaneous normal force coefficient $C _ { \\mathrm { n } }$ at $\\mathbf { r } / \\mathbf { R } = 0 . 7 5$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f9c1c0fd0457aa3c1124bf28c75ccb021bfc522cf9c45e525b1f51a1002e38f4.jpg",
+        "img_caption": [
+            "Fig.6Instantaneous normal force coefficient Cn a $\\operatorname { t r } / \\operatorname { R } = 0 . 9 9$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a592c4bc6aae76964b874a83c2dbe25087464e1662d9bc86f683bde58f9b11c.jpg",
+        "img_caption": [
+            "Fig.4AH-1G helicopter rotor wake (high-speed flight) ",
+            "Fig.7Instantaneous pitching moment coeff. $\\mathrm { C _ { m } a t r } / \\mathrm { R } = 0 . 9 6$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Usually, prediction of distribution of the momentum coefficient $C _ { \\mathrm { m } }$ is difficult for CFD even in cases of 2D airfoils.For this reason,and despite the number of simplifications applied to the numerical simulation presented in the paper, the agreement with flight test data is acceptable for the entire speed sweep investigated at exemplary span-wise station $\\mathbf { r } / \\mathbf { R } = 0 . 9 6$ (Fig.7). The evolution of $C _ { \\mathrm { m } }$ is well reflected in the numerical simulations (the exception is the appearance of negative $C _ { \\mathrm { m } }$ close to $\\psi =$ $0 ^ { \\circ }$ for the high-speed case, not present in flight test data). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "It is worthy of mention that a correct prediction of integral parameters (like $C _ { \\mathfrak { n } }$ or $C _ { \\mathrm { m } , }$ ） do not ensure that all features of the flow-field have been well reproduced by the simulation (cancelation of errors),therefore during TAAT investigations,values of blade pressure coefficient $\\mathrm { C } _ { \\mathrm { p } }$ were presented and analyzed. Figure 8 demonstrates example $\\mathrm { C } _ { \\mathrm { p } }$ distributions (high-speed test point） for representative cross-sections and azimuthal positions. The shock wave existing at the suction side of the advancing blade $( \\Psi ^ { } = 9 0 ^ { \\circ } )$ at $\\mathrm { r / R } = 0 . 8 6$ is captured by the numerical simulation in terms of pressure drop and shock location. For the radial station of $\\mathbf { r } / \\mathbf { R } = 0 . 9 6$ , but at the retreating side $( \\psi = 2 7 0 ^ { \\circ } )$ ,thecomparison of $\\mathrm { C } _ { \\mathrm { p } }$ distributions is also satisfactory. Lastly, two shock waves pattern present at the advancing side $( \\Psi ^ { \\mathrm { ~ } } ) = 9 0 ^ { \\circ } )$ for the tip section $\\mathrm { ( r / R ~ = ~ }$ 0.99)is well reproduced by CFD.Both,flight test data and numerical results indicate non-lifting conditions due to the blade pitch down with a nearly zero incidence. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The acoustic part of TAAT campaign included readings of instantaneous value of static pressure at several locations in accordance with the position of the pressure taps designed for capturing $\\mathrm { C } _ { \\mathrm { p } }$ distributions.Figure 9 presents a variation of pressure $\\mathrm { ( P _ { s } / P _ { o } ) }$ at the blade suction side at radial section of $\\mathrm { r } / \\mathrm { R } = 0 . 8 6$ and chordwise location of $\\mathbf { \\Delta x } / \\mathbf { c } = 0 . 2 5$ .A sudden drop of pressure in highspeed flight at the advancing side is caused by the dynamic appearance of strong shock-wave also visible in previously described flight test dataand CFD results of Fig. 8.When the shock-wave is alleviated, the pressure is recovered reaching a maximum at the retreating side. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The disk loads in terms of normal $\\left( \\mathrm { C } _ { \\mathrm { n } } \\right)$ ， torque $\\mathrm { ( C _ { q } ) }$ and pitching moment $\\mathrm { ( C _ { m } ) }$ Mach scaled coefficients are presented in Figure 10. When increasing the forward flight velocity,more normal force is generated by fore and aft parts of the rotor disk decreasing contributions of the advancing and retreating sides.Advancing side negative $C _ { \\mathrm { n } }$ region due to nose-down pitch close to the tip and retreating side reverse flow area due to negative inflow velocity growwith forward flightvelocity.Higher translational velocity of the rotor results in more pronounced areas of positive torque coefficient $\\mathrm { ( C _ { q } ) }$ on the retreating side and negative $\\mathrm { C _ { q } }$ close to the tip on the advancing side.In case of pitching moment coefficient $\\mathrm { ( C _ { m } ) }$ ，the majority of the positive influence is located on the aft part of the rotor disk shifting to the advancing side.For the high-speed forward flight, the numerical results predict a negative value of $C _ { \\mathrm { m } }$ close to the tip at $\\Psi \\approx 0 ^ { \\circ }$ that is not present in flight test data. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/75825f4fa7c86a07acd2c729186d603c55dd4adef88cc6063bd972630935aeb9.jpg",
+        "img_caption": [
+            "Fig.8Pressure coefficient $C _ { \\mathfrak { p } }$ distributions at selected radial sections and azimuthal positions for the high-speed forward flight case "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/6336e6b63c38eeec41a3ffb630022edb0af1ce6c48f44202311e2055d698e4ee.jpg",
+        "img_caption": [
+            "Fig.9Instantaneous,suction side pressure variation $\\mathrm { P _ { s } / P _ { o } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The paper presents the results of the numerical simulation of the isolated main rotor of the AH-1G helicopter in forward flight conditions reported in TAAT. The FLOWer code from DLR has been validated proving its capability for reproducing the flow-field of the rotor blades.The URANS results for the medium- and highspeed cases are unique in terms of the literature survey showing an acceptable agreement with the test data.The predicted existence of flow separation for the high-speed case reveals the possibility of future implementation of flow control systems (e.g. vortex generators [12],wall perforations [17] or synthetic jets [18]) aiming at improvement of the aerodynamic performance. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b2f96ee099612f3ec1720a76c3251007e609a2debec84fe81cfa2799d3a28329.jpg",
+        "img_caption": [
+            "Fig.10Mach-scaled normal force $\\left( \\mathrm { C } _ { \\mathrm { n } } \\right)$ ,torque $\\mathrm { ( C _ { q } ) }$ and pitching moment $\\left( \\mathrm { C } _ { \\mathrm { m } } \\right)$ coefficients in low-,medium- and high-speed forward flight conditions (black lines indicate a value of O). "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the $7 ^ { \\mathrm { t h } }$ Framework Programme project IMESCON (PITN-GA-2010-264672) and in partby PL-Grid Infrastructure. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] Cross J.L. and Watts M.E.: Tip aerodynamics and acoustics test,NASAReferencePublication1179,1988   \n[2]Hernandez F.and Johnson W.: Correlation of airloads on atwo-bladed helicopter rotor,International Specialist Meeting on Rotorcraft Acoustics and Rotor Fluid Dynamics,1991,Philadelphia(United States)   \n[3]Ramachandran K.,Schlechtriem S., Caradonna F.X.and Steinhoff J.S.: Free-wake computation of helicopter rotor flowfield in forward flight,AIAAPaper 93-3079,Reno, NV,USA,1993   \n[4]Ahmad J.and Duque P.N.: Helicopter rotor blade computation in unsteady flows using moving overset grids, Journal of Aircraft, vol.33,no.1,1996,pp.54-60   \n[5] Jung M.S. and Kwon O.J.: Numerical simulation of unsteady rotor flow using an unstructured overset mesh flow solver; Int. Journal of Aeronautical & Space Sciences,vol.10,no.1,2009,pp.104-111   \n[6]Im D.K., Wie S.Y., Kim E., Kwon J.H., Lee D.J., Chung K.H.and Kim S.B.:Aerodynamic analysisof rotor blades using overset grid with parallel computation,Parallel Computational Fluid Dynamic 20o8,LNCS, Springer, vol. 74,2010,pp.101-110   \n[7]Tan J.and Wang H.:Panel/full-span free-wake coupled method for unsteady aerodynamics of helicopter rotor blade,Chinese Journal of Aeronautics,vol.26,no.3, 2013,pp.535-543   \n[8]Tan J.and Wang H.: Highly efficient unsteady panel time-marching free wake for aerodynamics of rotorcraft, Journal ofAircraft,vol. 51,no.1,2014,pp.54-61   \n[9]Doerffer P.， Szulc O.， Tejero F.E. and Martinez J.S.: Aerodynamic and aero-acoustic analysis of helicopter rotor blades in hover; Bubak M. (ed.),eScience on Distributed Computing Infrastructure. Achievements of PLRID Plus Domain Specific Services and Tools,LNCS, Springer, vol.8500,2014, pp. 429-444   \n[10]Tejero F.E., Doerffer P., Flaszynski P. and Szulc O.: Numerical investigation of rod vortex generators on hovering helicopter rotor blade,In Proc.of the $6 ^ { \\mathrm { t h } }$ European Conf.on Computational Fluid Dynamics, 2014, Barcelona (Spain)   \n[11]Szulc O., Doerffer P., Zoltak J. and Malecki, J.: Timeaccurate simulation of flow past PZL W-3A “Sokot\" (Falcon) helicoptermainrotor in forward flight,TASK Quarterly,vol.17,no.1,2013,pp.43-61   \n[12] Tejero F.E., Doerffer P. and Szulc O.: Aerodynamic analysis of potential use of flow control devices on helicopter rotor blades,Journal of Physics:Conference Series 503 012067,2014   \n[13]Kroll N.,Rossow C.，Schwamborn D.,Becker K.and Heller G.,MEGAFLOW- a numerical flow simulation tool for transport aircraft design, In Proc. of the $2 3 ^ { \\mathrm { r d } }$ （202 Congress of the Int. Council of the Aeronautical Sciences, 2002,Toronto (Canada), pp.105.1-105.20   \n[14]Tejero F.E.,Doerffer P. and Szulc O.: Application of a Passive Flow Control Device on Helicopter Rotor Blades, Journal of the American Helicopter Society, Vol. 61, No. 1,2016   \n[15]Dompka R.V. and Cronkhite J.D.: Summary of the AH-1G flight vibration data for validation of coupled rotorfuselage analyses,NASA CR-178160,1986   \n[16]Van Gaasbeek J.:Validation of therotorcraft flight simulation program (C81） using Operational Loads Survey Flight TestData,USAAVRADCOM-TR-80-D-4,July1980   \n[17] Doerffer P. and Bohning R.: Shock wave - boundary layerinteraction control by wall ventilation,Aerospace Science and Technology, vol.7,2003,pp.171-179   \n[18]Kim S.H. and Kim C.: Separation control on NACA23012 using synthetic jet, Aerospace Science and Technology, vol. 13,2009,pp.172-182 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,432 @@
+[
+    {
+        "type": "text",
+        "text": "库布齐沙漠沙枣防护林土壤养分及化学计量特征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "侍世玲'，任晓萌²，张晓伟³，蒙仲举'，王涛（1.内蒙古农业大学沙漠治理学院,内蒙古 呼和浩特010018；2.内蒙古气象科学研究所,内蒙古 呼和浩特010051；3.乌审旗毛乌素沙地生态发展有限公司,内蒙古 鄂尔多斯 017300)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为探究库布齐沙漠东北缘沙枣防护林土壤养分以及土壤化学计量特征,为荒漠防护林可持续利用提供理论依据，以不同林龄 $( 3 \\mathrm { ~ a ~ } , 9 \\mathrm { ~ a ~ } , 1 5 \\mathrm { ~ a ~ } )$ 沙枣防护林为研究对象，选取 $3 0 \\mathrm { m } \\times 3 0 \\mathrm { m }$ 代表性样地，在 $0 { \\sim } 5 0 ~ \\mathrm { c m }$ 土壤剖面分层取样,分析不同林龄沙枣林地土壤养分元素以及化学计量特征。结果表明：不同林龄沙枣防护林不同土层pH总体波动不大。沙枣林地养分元素受林龄和土层深度影响明显，表现为随林龄增加其养分含量显著提高，且沿土壤剖面垂直递减,呈现一定的表聚现象;其中,林龄对土壤速效钾、全磷、全钾影响较大,林龄为 $1 5 \\mathrm { ~ a ~ }$ 较裸沙地分别增加$1 5 2 . 2 \\% . 5 8 . 0 \\% . 6 9 . 5 \\%$ 。不同林龄沙枣防护林 $0 { \\sim } 5 0 ~ \\mathrm { c m }$ 土层的C:N、C:P和N:P分别为9.25\\~18.99、4.78\\~5.96和 $0 . 3 1 \\sim$ 0.63,且均受到林龄和土层深度的双重作用。综合化学计量特征分析可知,库布齐沙漠东北缘沙枣防护林对风沙土的改良效果显著，且林地土壤养分状况主要受C、N元素的影响，土壤N元素矿化能力稍弱，氮素贫乏，在后期经营管理中应适当施加氮肥。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：土壤养分；化学计量特征；沙枣防护林；林龄；库布齐沙漠",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "土壤在生态系统循环中起重要的驱动作用[],土壤养分元素以能量流动和生态循环为桥梁将土壤与植被形成持续生存和稳定发展的统一整体[2]。生态化学计量是以生态系统中能量平衡、元素平衡与生态系统相互作用影响为研究核心的一种理论架构3，侧重以C、N、P等元素含量及比值为主的化学计量，被广泛应用于种群动态、植物生长状况、土壤质量评价、限制元素指标及生态系统平衡与稳定等研究领域[4]。土壤中的C、N、P等营养元素的吸收是植物为维持自身正常生理活动而获取能量的主要途径，是保障生态系统平衡和发展的重要因子，是当前生态系统循环的研究热点之一[5]。人工营造防风固沙林是干旱荒漠区生态恢复的主要手段，也是我国荒漠化防治应用最广泛的措施之一。但自防护林工程实施以来，人工林地力衰退、养分循环利用率低、植被退化等一系列生态环境问题不断出现[,其对土壤养分的影响逐渐受到国内外学者的关注[]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "沙枣（Elaeagnus angustifolia）是我国的优良水土保持树种之一，属胡颓子科(Elaeagnaceae)的亚乔木。沙枣净光合速率较大，对干旱环境具有较好的适应性，可以有效降低风速、抵抗风沙，在沙化地、搁荒地以及盐碱地等退化土地的改良具有广泛应用。武海雯等的研究表明沙枣对贫瘠环境有极强的适应能力，耐盐碱的同时能够提高土壤N含量，具有突出的培肥效果;陈孔飞等[0]对不同盐渍化程度沙枣防护林土壤研究发现，随盐渍化水平变化，土壤养分状况差异显著;卢兴霞等\"对盐碱地沙枣林土壤化学特性的分析结果表明，随沙枣林生长期不同盐碱地土壤养分变化显著。综上所述，目前对于沙枣防护林对土壤养分影响的研究主要集中于盐碱地的改良[12-14],而对于其改良风沙土效果方面的研究相对欠缺。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于此，本文通过对库布齐沙漠东北缘不同林龄沙枣防护林土壤养分状况进行综合分析，旨在揭示不同营建年限沙枣防护林土壤养分分布及其土壤化学计量特征，以期为库布齐沙漠东北缘荒漠人工防护林的可持续利用提供科学理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "库布齐沙漠东北缘位于内蒙古鄂尔多斯杭锦旗境内，地理位置为 $3 7 ^ { \\circ } 2 0 ^ { \\prime } { \\sim } 3 9 ^ { \\circ } 5 0 ^ { \\prime } \\mathrm { N }$ ， $1 0 7 ^ { \\circ } 1 0 ^ { \\prime } \\sim$ 号$1 1 1 ^ { \\circ } 4 5 ^ { \\prime } \\mathrm { E }$ （图1)。研究区为中温带大陆性季风气候,降雨强度小,年均降雨量约 $2 6 0 ~ \\mathrm { m m }$ ,7—8月为降水高发期。昼夜温差大，年均气温 $5 { \\sim } 8 \\ \\mathrm { ^ \\circ C }$ 。3—5月为沙尘暴天气频发期,平均风速为 $3 . 2 ~ \\mathrm { m \\cdot s ^ { - 1 } }$ 。研究区以固定、半固定沙地、流沙地等地形为主，植被种类繁多，主要草本植物有沙蒿(Artemisiadeserto-rum）沙竹(Psammochloavillosa)和披碱草(Elymusdahuricus），乔灌木树种有沙枣、小叶锦鸡儿（Caraganamicrophylla)和樟子松(Pinussylvestris）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 样地调查于2020年8月初在库布齐沙漠东北缘，选择不同营建年限(2005年、2011年、2017年）的沙枣防护林为样地，分别调查样地内沙枣防护林的株高、冠幅、株行距等数据，统计并计算不同林龄沙枣林的平均株高、平均冠幅，以计算结果为参照选择一块有代表性的 $3 0 \\mathrm { m } { \\times } 3 0 \\mathrm { m }$ 的标准样地，实验共选取 $3 \\textrm { a } , 9 \\textrm { a } , 1 5 \\textrm { a }$ 树龄3块标准样地，选取裸沙地作为对照(CK)。研究样地基本情况如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 土样采集与测定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）土样采集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "于2020年8月中旬进行土壤样品采集，在选择的标准样地内按“品\"字状随机布置3个土壤取样点，每个样点挖取 $0 { \\sim } 5 0 ~ \\mathrm { c m }$ 深土壤垂直剖面，以间距$1 0 \\ \\mathrm { c m }$ (共5层)一层用环刀采集样品。土壤样品经实验室置于通风处干燥，刨去植物根系残留、碎石后分别过10目（ $2 ~ \\mathrm { m m }$ 孔径）、100目（ $( 0 . 1 5 ~ \\mathrm { m m }$ 孔径）土壤筛，备用于土壤速效及全效养分的测定。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2）土壤养分测定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "全氮(TN)采用凯氏定氮法测定;全磷(TP)采用氢氧化钠熔融-钼锑抗比色法测定;全钾(TK)采用氢氧化钠熔融-火焰光度法测定；碱解氮(AN)采用碱解扩散法测定；速效磷(AP)采用重铬酸钾加热法测定；速效钾(AK)采用醋酸铵浸提-火焰光度法测定[15];有机质(SOM)采用重铬酸钾-外加热法测定。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3数据处理分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用Excel2019筛选、整理试验数据并进行相应计算，后经SPSS23加以分析，通过单因素方差分析（One-wayANOVA)比较不同林龄沙枣林地土壤养分元素以及土壤化学计量比差异性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1不同林龄沙枣防护林土壤pH分布特征",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由图2可知，不同林龄沙枣防护林土壤 $\\mathrm { \\ p H }$ 值在7.90\\~8.97之间波动，土壤偏碱性。 $0 { \\sim } 4 0 ~ \\mathrm { c m }$ 各土层土壤 $\\mathrm { \\ p H }$ 随林龄增加总体呈上升趋势，且各林龄土壤pH存在显著差异( $\\left( P < 0 . 0 5 \\right)$ ；在 $4 0 { \\sim } 5 0 ~ \\mathrm { c m }$ 土层，当营建年限为9a、15a时，沙枣林地土壤 $\\mathrm { \\ p H }$ 显著高",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5c8b31c6441d7b5f29a0852e4f4b97305d17e8416db0e2d9928ee061470d4284.jpg",
+        "img_caption": [
+            "图1研究区位置示意图",
+            "Fig.1Study area location diagram "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1研究样地基本特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/9100fa41d9e052d67c100cb2a514e785bd3d048e667b67bca3846f3b9fb2d8a1.jpg",
+        "table_caption": [
+            "Tab.1 Basic characteristics of the study plots "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>树龄/a</td><td>林下植被盖度/%</td><td>株高/m</td><td>冠幅/m</td><td>株行距/m</td></tr><tr><td>3</td><td>25</td><td>4</td><td>3×2.5</td><td>2×5</td></tr><tr><td>9</td><td>30</td><td>5.7</td><td>4.3×2.5</td><td>2×5</td></tr><tr><td>15</td><td>30</td><td>6.5</td><td>4.5×2.9</td><td>2.5×5</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "注：不同大写字母表示同一土层不同林龄土壤各指标差异显著1 $P < 0 . 0 5$ )，不同小写字母表示同一林龄不同土层土壤各指标差异显著 $( P < 0 . 0 5 ) ,$ 。下同。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/edc1a35fc35a3c4781a5cc42e6317935719d49d7606308af119a4f8fc4fe1849.jpg",
+        "img_caption": [
+            "图2不同林龄沙枣防护林土壤pH的变化 Fig.2 Changes of soil pH in Elaeagnus angustifolia shelterbelts of different ages ",
+            "图3不同林龄沙枣防护林土壤全氮和碱解氮的变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "于3a和裸沙地(CK)。营建年限为3a时的土壤pH在 $2 0 { \\sim } 3 0 ~ \\mathrm { c m }$ 土层显著高于其他土层，15a林龄 $2 0 \\sim$ $5 0 \\mathrm { c m }$ 各土层土壤pH显著高于表层( $_ { ( 0 \\sim 1 0 \\mathrm { c m } ) }$ 土壤$\\left( P < 0 . 0 5 \\right)$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2不同林龄沙枣防护林土壤养分分布特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1土壤全氮(TN)和碱解氮(AN）由图3可知，不同林龄沙枣防护林土壤TN含量随着林龄增大整体呈上升趋势，沿土壤剖面自上而下呈现垂直递减的变化特征。营建年限为15a各土层TN含量远高于 $^ { 3 \\mathrm { ~ a ~ } , 9 }$ a和裸沙地（CK），且各林龄间差异显著中 $\\left( P < 0 . 0 5 \\right)$ 。其中， $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 土层随林龄增加波动幅度较大，林龄为 $9 \\textrm { a } , 1 5 \\textrm { a }$ 比裸沙地(CK)分别增加$6 2 . 4 \\% . 7 4 4 . 3 \\% ( P < 0 . 0 5 )$ 。相比于TN,各林龄土壤AN含量变化较稳定，沿土壤剖面下降趋势尤为明显，且各林龄 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 土层与 $3 0 { \\sim } 4 0 \\ \\mathrm { c m } \\ . 4 0 { \\sim } 5 0 \\ \\mathrm { c m }$ 土层差异显著。沙枣防护林地土壤AN含量显著高于对照（CK）（ $\\left( P < 0 . 0 5 \\right)$ ，且林龄为 $^ { 3 \\textrm { a } , 9 }$ a和15a在 $0 \\sim$ $1 0 \\ \\mathrm { c m } \\cdot 1 0 { \\sim } 2 0 \\ \\mathrm { c m }$ 土层内AN含量与对照而言增幅明显，3a较对照分别增加 $2 7 4 . 4 \\% . 7 7 . 8 \\% , 9$ a林龄较对照分别增加 $2 9 2 . 0 \\%$ 、 $1 4 4 . 4 \\%$ ;相较于对照，林龄为$1 5 \\mathrm { a }$ 在 $0 { \\sim } 1 0 \\ \\mathrm { c m } \\ . 1 0 { \\sim } 2 0 \\ \\mathrm { c m } \\ . 2 0 { \\sim } 3 0 \\ \\mathrm { c m } \\ . 3 0 { \\sim } 4 0 \\ \\mathrm { c m }$ 土层内AN含量各土层分别增加 $2 9 1 . 7 \\%$ 、 $2 2 2 . 2 \\%$ 、$2 2 0 . 7 \\% . 1 1 0 . 1 \\%$ ,综上可知，随林龄增大，各土层AN含量总体呈上升的趋势。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2土壤全磷(TP)和速效磷(AP） 由图4可知，随着林龄增大，各土层TP含量总体呈上升趋势，9a $, 1 5$ a林龄沙枣防护林在 $0 { \\sim } 1 0 \\ \\mathrm { c m } \\ , 1 0 { \\sim } 2 0 \\ \\mathrm { c m } \\ , 2 0 \\sim$ $3 0 \\ \\mathrm { c m } \\cdot 3 0 { \\sim } 4 0 \\ \\mathrm { c m }$ 土层TP含量显著高于3a和裸沙地(CK）（ $\\lceil P < 0 . 0 5 \\rceil$ 。各林龄沙枣林地TP含量沿土壤垂直剖面自上而下呈递减趋势。土壤AP含量随林龄和土层的分布规律与TP类似，在 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 土层,各林龄与裸沙地(CK)相比AP含量变化幅度较小，且不同林龄间无显著性差异 $( P > 0 . 0 5 )$ 。不同林龄AP含量在 $1 0 { \\sim } 3 0 ~ \\mathrm { c m }$ 各土层内均表现为 $1 5 ~ \\mathrm { a } > 9$ a $>$ 3a( $\\lceil P < 0 . 0 5 \\rceil$ )。随土层深度增加，不同林龄沙枣防护林土壤AP含量降低趋势较明显，表层土壤(0\\~10cm)显著高于其他土层",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.3土壤全钾(TK)和速效钾(AK） 通过图5可知，总体上随着林龄增大，各土层TK含量大幅上",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "0.8 (a)口0\\~10cm10\\~20cm20\\~30cm 20 (b）□0\\~10.cm □10\\~20 cm 20\\~30 cm ■30\\~40cm日40\\~50 cm Aa ■30\\~40 cm 日40\\~50cm （/ 0.6 （ Aa Aa Aa Aa 0.4 ABb Aab BCb 200 Ca_Cb Cd DaC Ba Bc Bd Ab Ad ACAe 碱 Bd TB CbDc Bb B . 自 0 CK 3a 9a 15a CK 3a 9a 15 a 林龄/a 林龄/a ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig. 3 Changes of soil total nitrogen and alkali-hydrolyzable nitrogen in $E .$ angustifolia shelterbelts of different ages ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "□0\\~10cm □10\\~20cm20\\~30 cm 0.6 @0\\~10cmm10-20cm20-30cm 12 (b) ■30\\~40cm日40\\~50 cm AaAab （0/ Aa (8x-8u）/ 9Aa 山 0.4 ABa 禹Ab AbAb ABb BCab Abc Ba Bb Bc abab b 6 BABd Bb Bab_Ab ABab AAC Ca Cab CbAb 0.2 BCc BCdCabCb Bb B 田 Cb 王 Ae 3 二 0 0 CK 3a 9a 15a CK 3a 9a 15a 林龄/a 林龄/a ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "120 (a）□0\\~10cm10\\~20cm20\\~30cm 300 (b)□0\\~10cm10\\~20cm20\\~30cm ■30\\~40cm日40\\~50 cm Aa ■30\\~40cm日40\\~50 cm Aa （8x-8/手 90 Ba Ac (8/ 2030 AAC Bb Cb CaBCa Bbc 中 Bb Ad 60Da 30 CBe Cd Cb CbBb Bc LBc 150 100 Ca Cc Cb_cd De Da Da Cb DbCc BaBc Bd Be 当 50 0 0 CK 3a 9a 15 a CK 3a 9a 15a 林龄/a 林龄/a ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/481ed457bfe74f4a6e64a5652b60931f23bbea1ea3283ad911cd0ccb2708aa22.jpg",
+        "img_caption": [
+            "图4不同林龄沙枣防护林土壤全磷和速效磷的变化",
+            "Fig. 4 Changes of soil total phosphorus and available phosphorus in $E .$ angustifolia shelterbelts of different ages ",
+            "图5不同林龄沙枣防护林土壤全钾和速效钾的变化",
+            "Fig. 5 Changes of soil total potassium and available potassium in $E$ . angustifolia shelterbelts of different age ",
+            "图6不同林龄沙枣防护林土壤有机质的变化 Fig.6 Changes of soil organic matter in $E$ angustifolia shelterbeltsofdifferent ages "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "升，且沿土壤垂直剖面TK含量自上而下呈递减趋势。15a林龄各土层TK含量显著高于 $3 \\mathrm { ~ a ~ . 9 ~ }$ a及对照，且相对于对照，15a林龄 $0 { \\sim } 5 0 ~ \\mathrm { c m }$ 各层TK含量分别增加 $7 8 . 3 \\% , 6 9 . 3 \\% , 6 0 . 3 \\% , 7 6 . 9 \\%$ 和 $6 1 . 4 \\% ( P <$ 0.05)。防护林营建年限为 $9 \\mathrm { ~ a ~ } , 1 5$ a时， $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 土层与其他土层间TK含量差异显著( $\\left( P < 0 . 0 5 \\right)$ 。AK含量随林龄和土层的波动规律与TK相仿，其中，9a $, 1 5 \\mathrm { ~ a ~ }$ 林龄各土层AK含量显著高于对照，且相同土层各林龄沙枣林地AK含量差异显著 $\\left( P < 0 . 0 5 \\right)$ 0",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.4土壤有机质(SOM)含量由图6可知，防护林营建年限为 $9 \\mathrm { a } _ { \\cdot } 1 5$ a时， $0 { \\sim } 1 0 \\mathrm { c m }$ 土壤SOM含量显著高于 $3 \\mathrm { ~ a ~ }$ 、裸沙地(CK），且与其他土层间差异显著中 $( P < 0 . 0 5 ) ,$ 。其中， $9 \\textrm { a } , 1 5 \\textrm { a }$ 林龄在 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 较裸沙地(CK)分别增加 $7 8 . 1 \\% . 4 9 1 . 1 \\%$ 。3a林龄在30\\~40$\\mathrm { c m } \\ 、 4 0 { \\sim } 5 0 \\ \\mathrm { c m }$ 土层显著高于对照，且分别较对照增加 $3 7 . 6 9 \\% . 7 1 . 9 8 \\%$ ○",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3不同林龄沙枣防护林土壤化学计量特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.1土壤C:N通过图7可知，不同林龄沙枣防护林 $0 { \\sim } 5 0 ~ \\mathrm { c m }$ 土层C:N均值为9.25\\~18.99，相同土层各林龄沙枣林地土壤C:N有显著性差异 $\\left( P < 0 . 0 5 \\right)$ O各土层C:N随林龄递增呈大幅下降的趋势，营建年限为3a沙枣林地各土层C:N显著大于9a和15a1 $\\cdot P < 0 . 0 5 ,$ ，且在 $4 0 { \\sim } 5 0 ~ \\mathrm { c m }$ 土层内C:N较9a、15a分别增加 $4 7 . 6 \\%$ 和 $1 3 1 . 0 \\%$ 。各林龄C:N随土层深度的增加总体呈上升的变化趋势。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8d82e9a8f31875b6b6f01bae39005163b14d42ace51810f4bdeab3c637f1bc5e.jpg",
+        "img_caption": [
+            "图7不同林龄沙枣防护林土壤C:N变化Fig.7 Changes of soil C:N in $E$ .angustifolia shelterbeltsofdifferent ages"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.2土壤C:P由图8可知,不同林龄沙枣防护林$0 { \\sim } 5 0 ~ \\mathrm { c m }$ 土层C:P均值为 $4 . 7 8 { \\sim } 5 . 9 6 , 0 { \\sim } 1 0 \\ \\mathrm { c m }$ 土层C:P随林龄增大呈上升趋势，15a林龄较 $3 \\mathrm { ~ a } , 9$ a沙枣防护林土壤C:P分别增加 $1 9 4 . 0 \\%$ 和 $1 2 3 . 3 \\%$ 。随着林龄增大, $1 0 { \\sim } 5 0 ~ \\mathrm { c m }$ 各土层C:P逐渐减小。营建年限为3a沙枣林地 $3 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层C:P显著高于 $0 \\sim$ $1 0 \\ \\mathrm { c m }$ 土层 $\\left( P < 0 . 0 5 \\right)$ ,林龄为15a土壤C:P沿土壤垂直剖面呈递减的变化特征。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/62e798393451904977d6225bddb6569459f8859d17698ba24140685a55a37be0.jpg",
+        "img_caption": [
+            "图8不同林龄沙枣防护林土壤C:P变化Fig.8 Changes of soil C:P in $E$ 、angustifolia shelterbeltsofdifferent ages"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.3土壤N:P由图9可知，不同林龄沙枣防护林$0 { \\sim } 5 0 ~ \\mathrm { c m }$ 土层N:P均值为 $0 . 3 1 { \\sim } 0 . 6 3 , 0 { \\sim } 2 0 \\ \\mathrm { c m }$ 各土层N:P随林龄增大其比值大幅上升，且不同林龄之间N:P有显著差异( $\\left. P < 0 . 0 5 \\right)$ ; $2 0 { \\sim } 5 0 ~ \\mathrm { c m }$ 各土层N:P随林龄变化有小幅度波动，呈现出先减后增的分布趋势，表明林龄对表层土壤N:P影响较大 $( P < 0 . 0 5 )$ 0营建年限为 $9 \\mathrm { ~ a ~ } , 1 5$ a随土层深度逐渐增加而大幅减小。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b88470ceb4ce571478d00589ae6463d773eb203c356e3b586918b00d90274d5.jpg",
+        "img_caption": [
+            "图9不同林龄沙枣防护林土壤N:P变化Fig.9Changes of soil N:P in $E$ 、angustifolia shelterbelts ofdifferent ages"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1不同林龄对沙枣防护林土壤pH及养分的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "沙枣作为中国北方的水土保持优良树种之一，对环境的耐受能力极强，其生长条件几乎不受碱性土壤限制9]。本研究中，各林龄沙枣防护林土壤pH值在7.90\\~8.97,土壤pH随林龄增大总体呈现缓慢上升趋势，可能是由于沙枣生长旺盛期需水量增大,引起土壤盐离子积累所致[9.11]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "土壤养分是植被建设、发展、演替过程积累的结果[,在微生物参与下，经腐殖化作用、矿化作用将枯枝落叶、动物残体等分解成有机物、速效养分等[17]。在库布齐沙漠东北缘建设沙枣防护林后,土壤TN、TP、TK、AN、AP、AK、SOM含量都显著增加，且同一土层不同林龄间土壤养分含量存在显著性差异。其中，各层土壤AN、AP、AK、TP、TK含量随林龄增加大幅提升，林龄为 $1 5 \\mathrm { ~ a ~ }$ 与裸沙地相比变化最为显著。库布齐沙漠东边缘水分条件较中西部优越，其主要以防止流沙南侵、北扩和东移为治理目标，本研究在库布齐沙漠东北缘建设沙枣防护林后，一方面随树龄增长、沙枣冠幅对风沙拦截作用加强，地表经枯落物覆盖，降低近地表风速，减轻地表风蚀，且植被残体具有涵养水源的作用，从而补充土壤水分的同时能够有效固定流沙；另一方面，幼龄沙枣防护林（林龄为 $3 \\mathrm { ~ a ~ }$ ），形态较小，养分需求量大，土壤中养分含量较低;但随树龄增大，拦截残落物作用加强，林下草本植物逐渐恢复，枯落物归还量大，生物小循环作用逐渐加强，促进了枯落物的转化、分解，为土壤养分积累创造了有利的环境条件，张珂等[8的研究结论也与此结果相吻合。各林龄土壤养分随土层加深总体上呈减少趋势，表层土壤 $( 0 { \\sim } 1 0 \\mathrm { c m } )$ 养分含量显著高于 $4 0 { \\sim } 5 0 ~ \\mathrm { c m }$ 土层,表现出明显的表聚现象，这与张珂等[18]、董生健等[19]研究结果相似。其中，随林龄增大，TN、SOM含量在$0 { \\sim } 1 0 ~ \\mathrm { c m }$ 土层内出现大幅度波动,但在 $1 0 { \\sim } 5 0 ~ \\mathrm { c m }$ 各土层内明显减缓。在荒漠干旱区，土壤养分积累受降雨量、土壤质地、地形、植被类型等因素的影响[20],沙枣林的建设，改变了局部生态环境，随林龄增加，林下表层枯落物富集，土壤微生物作用强烈，为有机质形成创造有利条件21，但微生物呼吸速率随深度降低，腐殖化作用仅局限于表层，而对深层土壤影响作用较小[22]。土壤C、N主要来源于有机质分解，而钾素的表聚性可能与土壤蒸发、根系结构等因素有关[23]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2不同林龄对沙枣防护林土壤化学计量特征的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "土壤C:N、C:P、N:P作为判定土壤质量状况的指标,在一定水平上可体现出土壤有机质分解速率和土壤氮素矿化速率,从而影响防护林的生长[24]。本研究中沙枣防护林土壤C:N均值(9.25\\~18.99)高于全国土壤平均水平(12.30)[25],林龄为3a沙枣防护林各土层C:N显著高于 $9 \\mathrm { ~ a ~ . ~ } 1 5 \\mathrm { ~ a ~ }$ ，这表明3a沙枣防护林土壤氮素缺乏，微生物生理活动受限,有机质转化过程变缓，氮素矿化能力不足，不利于植物吸收养分[26]。该结论与杨霞等[27]研究结果有所差异，推测是气候、土壤类型、植被等多方面要素综合作用的结果。土壤C:P可以作为判断土壤微生物吸附或释放P元素的指标，其土壤C:P比值越小，越益于微生物释放土壤中的 $\\mathrm { P } ^ { [ 2 8 ] }$ 。本研究土壤 $\\mathrm { C } { : } \\mathrm { P } \\left( 4 . 7 8 \\sim \\right.$ 5.96)远小于全国平均水平(52.64)[25],3a林龄在$1 0 { \\sim } 5 0 ~ \\mathrm { c m }$ 各土层C:P显著高于 $9 \\mathrm { a } , 1 5 \\mathrm { a }$ ,表明随林龄增加，研究区土壤微生物释放土壤中P素的能力较强,有利于土壤有效P的提高。相比于P元素，研究区沙枣林主要受C元素的限制[29]。土壤N:P作为判断植被养分元素限制的指标[30],当 $\\mathrm { N : P } < 1 0$ 时受N限制， $\\mathrm { N } { : } \\mathrm { P } > 2 0$ 时受P限制[31]。研究区沙枣林土壤N:P均值为0.31\\~0.63，结合较低的TN含量和N:P，表明研究区土壤N的限制作用远大于P,因为土壤P一方面来源于有机物质的分解，另一方面还可通过母岩分化得以补充[4]。综上分析表明，库布齐沙漠东北缘沙枣防护林生长主要受C、N元素限制。营建年限为9a、15a沙枣林地土壤C:P、N:P沿土壤剖面呈现垂直递减的趋势,由此可反映出土壤TP、TN、",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "SOM随土层深度变化呈现相似的变化特征[32]。据此，在一定程度上揭示出沙枣防护林能够有效促进风沙土土壤肥力恢复，后期对沙枣防护林抚育管理中，采用人工更新复壮技术的同时，应适当施加氮肥，补充土壤N元素。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究选取库布齐沙漠东北缘3个不同林龄$\\left( 3 \\mathrm { ~ a ~ } , 9 \\mathrm { ~ a ~ } , 1 5 \\mathrm { ~ a ~ } \\right)$ 沙枣防护林的土壤养分以及土壤化学计量特征进行分析，主要得出以下结论：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）不同林龄沙枣防护林土壤pH值为 $7 . 9 0 \\sim$ 8.97,土壤偏碱性，林龄对各层土壤 $\\mathrm { \\ p H }$ 的影响作用较小。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）不同林龄沙枣防护林土壤养分随林龄增大呈上升趋势，随土层深度逐层递减。其中，林龄对土壤AK、TP、TK的影响相对于其他养分指标显著，各林龄土壤SOM和TN主要集中在 $0 { \\sim } 1 0 \\mathrm { c m }$ 王层。随着沙枣防护林营建年限的延长，土壤环境显著改善。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3）林龄和土层深度对土壤C:N、C:P、N:P影响作用较明显，土壤C:N主要受N影响，土壤C:P、N:P主要受C、N影响。综上分析表明，C、N元素是库布齐东北缘沙枣防护林生长的主要限制因子，N素缺乏是影响沙枣防护林养分循环的关键因素，建议在进行沙枣林地管理时适当补充氮素含量，提高土壤肥力，为沙枣防护林的生长提供有利的土壤条件。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References):",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]傅洁.氮素和水分添加对油蒿群落土壤及植物养分状况的影响 [D].北京:北京林业大学,2019.[Fu Jie.Effects of Nitrogen and WaterAddition on Soil and Plant Nutrients of Artemisia ordosica Community[D]. Beijing: Beijing Forestry University,2019.]   \n[2] 李珊珊,耿增超,姜林,等.秦岭火地塘林区土壤剖面碳氮垂直 分布规律的研究[J].西北林学院学报,2011,26(4):1-6.[Li Shanshan,Geng Zengchao,Jiang Lin,et al.Vertical distribution of carbon and nitrogen at Huoditang forest region in the Qinling Mountains[J]. Journal of Northwest Forestry University,2O11,26 (4): 1-6.]   \n[3]Elser JJ, Sterner R W,Gorokhova E,et al.Biological stoichiometry from genes to ecosystems[J]. Ecology Letters,2010,3(6): 540-550.   \n[4] 董雪,辛智鸣,黄雅茹,等.乌兰布和沙漠典型灌木群落土壤化 学计量特征[J].生态学报,2019,39(17):6247-6256.[Dong Xue, Xin Zhiming,Huang Yaru,et al.Soil stoichiometry in typical shrub communities in the Ulan Buh Desert[J].Acta Ecologica Sinica,2019,39(17):6247-6256.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[5]庞圣江,张培,贾宏炎,等.桂西北不同森林类型土壤生态化学 计量特征[J].中国农学通报,2015,31(1):17-23.[Pang Shengjiang,Zhang Pei, Jia Hongyan,et al.Research on soil ecological stoichiometry under different forest types in Northwest Guangxi[J]. Chinese Agricultural Science Bulletin,2015,31(1):17-23.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[6]倪晓薇.喀斯特地区3种林分土壤养分分布特征研究[D].长沙: 中南林业科技大学,2017.[Ni Xiaowei. Soil Nutrients Status of Three Different Forest Types on Karst Area[D].Changsha: Central South University of Forestry and Technology,2017.]   \n[7]任悦.沙地樟子松人工林叶片-枯落物-土壤C、N、P化学计量 特征[D].北京:北京林业大学,2019.[Ren Yue.Carbon, Nitrogen and Phosphorus Stoichiometric in Leaf-Little-Soil of Pinus sylvestris var.mongolica in Sandy LandD]. Beijing: Beijing Forestry University,2019.]   \n[8]杨升,刘涛,张华新,等.盐胁迫下沙枣幼苗的生长表现和生理 特性[J].福建林学院学报,2014,34(1):64-70.[Yang Sheng,Liu Tao, Zhang Huaxin, et al. Growth and physiological characteristics of Elaeagnus angustifolisL.undersalt stress[J]. JournalofFujian College of Forestry,2014,34(1): 64-70.]   \n[9]武海雯,杨秀艳,王计平,等.沙枣改善盐碱土壤养分的研究进 展[J].生态学杂志,2019,38(11): 3527-3534.[Wu Haiwen,Yang Xiuyan,Wang Jiping,et al.A review on the improvement of saltaffected soil nutrients by Elaeagnus angustifolia L.[J]. Chinese Journal of Ecology,2019,38(11): 3527-3534.]   \n[10] 陈孔飞,张仁陟,蔡立群,等.盐渍化对沙枣林土壤养分和酶活 性的影响[J].国土与自然资源研究,2020,41(5):60-64.[Chen Kongfei, Zhang Renzhi, Cai Liqun, et al. Effects of salinization on soil nutrients and enzyme activities in Elaeagnus Angustifolia forest[J]. Territory and Natural Resources Study,2O20,41(5): 60-64.]   \n[11]卢兴霞,张超,刘婷,等.盐碱地沙枣林不同生长期表层土壤化 学性质[J].江苏农业科学,2015,43(4):324-326.[Lu Xingxia, Zhang Chao,Liu Ting,et al. Surface soil chemical properties of different growth periods of Elaeagnus angustifolia forest in saline land[J]. Jiangsu Agricultural Sciences,2015,43(4): 324-326.]   \n[12]刘正祥,张华新,杨秀艳,等.NaCl胁迫下沙枣幼苗生长和阳离 子吸收、运输与分配特性[J].生态学报,2014,34(2):326-336. [Liu Zhengxiang, Zhang Huaxin, Yang Xiuyan,et al. Growth,and cationic absorption,transportation and allocation of Elaeagnus angustifolia seedlings under NaCl stress[J]. Acta Ecologica Sinica, 2014,34(2): 326-336.]   \n[13] 魏琦,武海雯,刘正祥,等.盐胁迫下沙枣生物固氮能力及氮素 分配研究[J].林业科学研究,2017,30(6):985-992.[Wei Qi,Wu Haiwen,Liu Zhengxiang,etal. Biological nitrogen fixationability and nitrogen distribution of Elaeagnus angustifolia under salt stress[J]. Forest Research,2017,30(6): 985-992.]   \n[14] 王慧,解文斌,刘宁,等.基于栽植沙枣的晋北盐碱地土壤改良 处理组合研究[J].水土保持学报,2016,30(4):281-287.[Wang Hui,Xie Wenbin,Liu Ning,et al.Study on different treatment combinations of soil amendments based on Elaeagnus angustifolia seedings planting in saline-alkali area of northern Shanxi Province [J]. Journal of Soil and Water Conservation,2016,30(4): 281-287.]   \n[15]鲍士旦.土壤农化分析[M].第三版.北京:中国农业出版社, 2000.[Bao Shidan. Soil Agrochemical Analysis[M]. 3rd Ed.Beijing: China Agriculture Press, 2000.   \n[16] 宁虎森,罗青红,吉小敏,等.新疆甘家湖梭梭林林地土壤养分、 盐分的累积特征[J].东北林业大学学报,2014,42(9): 83-87. [Ning Husen,Luo Qinghong,Ji Xiaomin,et al. Characteristics of soil nutrient,salt accumulation of Ganjiahu Haloxylon ammodendron national nature reserve in Xinjiang[J].Journal of Northeast Forestry University,2014,42(9): 83-87.]   \n[17] 董正武,玉米提·哈力克,李生宇,等.古尔班通古特沙漠西南缘 怪柳沙包的土壤化学计量特征[J].生态学报,2020,40(20): 7389-7400.[Dong Zhengwu, Umut Halik,Li Shengyu,et al. Soil stoichiometric characteristics of Tamarisk cones in the Southwest margin of Gurbantunggut Desert[J].Acta Ecologica Sinica,2020, 40(20): 7389-7400.]   \n[18] 张珂,苏永中,王婷,等.荒漠绿洲区不同种植年限人工梭梭林 土壤化学计量特征[J].生态学报,2016,36(11):3235-3243. [Zhang Ke,Su Yongzhong,Wang Ting,et al. Soil stoichiometry characteristics of Haloxylon ammodendron with different plantation age in the desert-oasis ecotone,north China[J].Acta Ecologica Sinica,2016,36(11): 3235-3243.]   \n[19] 董生健,何小谦.黄土丘陵区不同林龄人工刺槐林下植被及土 壤系统演变特征[J].水土保持通报,2016,36(5):20-27.[Dong Shengjian, He Xiaoqian.Evolution of undergrowth vegetation and soil properties with development of artificial Robinia pseudoacacia in loess hilly region[J]. Bulletin of Soil and Water Conservation, 2016,36(5): 20-27.]   \n[20] 陶冶,张元明.古尔班通古特沙漠4种草本植物叶片与土壤的 化学计量特征[J].应用生态学报,2015,26(3):659-665.[Tao Ye,Zhang Yuanming.Leaf and soil stoichiometry of four herbs in the Gurbantunggut Desert, China[J]. Chinese Journal of Applied Ecology,2015,26(3): 659-665.]   \n[21] 黄雅茹,郝玉光,董礼隆,等.乌兰布和沙漠东北缘典型固沙林 土壤养分特征研究[J].西北林学院学报,2018,33(2):1-9. [Huang Yaru,Hao Yuguang,Dong Lilong,et al. Comparative study on soil chemical properties of typical sand-fixing forests in the Ulan Buh Desert[J].Journal of Northwest Forestry University, 2018,33(2): 1-9.]   \n[22] 朱凯,李玉灵,徐学华,等.不同林龄刺槐林对冀东铁尾矿客土 土壤养分含量的影响[J].河北农业大学学报,2016,39(1):69- 74.[Zhu Kai,Li Yuling,Xu Xuehua,etal.Effects of Robinia pseudoacacia forest with diffrent ages on nutrient content in Jidong iron tailings[J]. Journal of Hebei Agricultural University,2O16,39(1): 69-74.]   \n[23] Esteban G,Robert B.The distribution of soil nutrients with depth: Global pattrns and the imprint of plants[J].Biogeochemistry, 2001,53(1): 51-77.   \n[24] 洗伟光,周丽,唐洪辉,等.不同林龄针阔混交林土壤生态化学 计量特征[J].广东林业科技,2015,31(1):1-6.[Xian Weiguang, Zhou Li,Tang Honghui,et al.Soil ecologicalstoichiometry of conifer-broadleaved plantations of diffrent age in southern subtropical region[J]. Guangdong Forestry Science and Technology,2015, ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "31(1): 1-6.] ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[25]ZengQC,XinLI,Dong YH,et al.Ecological stoichiometry characteristics and physical-chemical properties of soils at different latitudes on the loess plateau[J]. Journal of Natural Resources, 2015,30(5): 870-879.   \n[26]朱秋莲.黄土丘陵区不同植被带立地条件对植物-枯落物-土 壤生态化学计量特征的影响[D].杨凌:西北农林科技大学, 2013.[Zhu Qiulian.The Effects of Slope Condition on Leaf-LittleSoil Stoichiometry on the Hilly-Gully Area of Loess Plateau[D]. Yangling: Northwest Agriculture and Forestry University,2013.]   \n[27]杨霞,陈丽华,郑学良.不同林龄油松人工林土壤碳、氮和磷生 态化学计量特征[J].中国水土保持科学,2021,19(2):108-116. [Yang Xia, Chen Lihua, Zheng Xueliang.Ecological stoichiometry characterization of soil carbon,nitrogen and phosphorus of Pinus tabuliformis plantations at different stand ages[J]. Science of Soil and Water Conservation,2021,19(2):108-116.]   \n[28]汪宗飞,郑粉莉.黄土高原子午岭地区人工油松林碳氮磷生态 化学计量特征[J].生态学报,2018,38(19):6870-6880.[Wang Zongfei, Zheng Fenli.C,N,and P stoichiometric characteristics of Pinustabulaeformis plantation in the Ziwuling Region of theLoess Plateau[J].Acta Ecologica Sinica,2018,38(19): 6870-6880.]   \n[29] 魏亚娟,党晓宏,汪季,等.不同演化阶段白刺灌丛沙堆土壤生 态化学计量特征[J].水土保持学报，2021,35(2):377-384.[Wei Yajuan,Dang Xiaohong,Wang Ji,etal. Characteristics of the soil ecological stoichiometry of Nitraria tangutorun nebkhas during different succession stages[J]. Journal of Soil and Water Conservation,2021,35(2): 377-384.]   \n[30]张光德,赵传燕,戎战磊,等.祁连山中部不同植被类型土壤生 态化学计量特征研究[J].兰州大学学报(自然科学版),2019,55 (4): 533-54O.[Zhang Guangde,Zhao Chuanyan,Rong Zhanlei, et al.Ecological stoichiometry of soils with different vegetation types in the middle part of the Qilian Mountains[J]. Journal of Lanzhou University (Natural Science),2019,55(4): 533-540.]   \n[31]Bui E N,Henderson BL.C:N:P stoichiometry in Australian soils with respect to vegetation and environmental factors[J].Plant and Soil,2013,373(1-2):553-568.   \n[32] 朱潮,武利玉,张崇庆,等.兰州市北山典型侧柏人工林分叶片 与土壤生态化学计量特征[J].水土保持学报,2021,35(4):361- 368.[Zhu Chao,Wu Liyu, Zhang Chongqing,et al. Ecological stoichiometry characteristics of leaves and soil in a typical Platycladus orientalis plantation in Beishan of Lanzhou city[J]. Journal of Soil and Water Conservation,2021,35(4): 361-368.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Soil nutrients and stoichiometric characteristics of the Elaeagnus angustifolia shelterbelt in the Hobq Desert ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "SHI Shiling'， REN Xiaomeng²， ZHANG Xiaowei’， MENG Zhongju'， WANG Tao (1.College of Desert Control Science and Enginering,Inner Mongolia Agricultural University,Hohhot 010018, Inner Mongolia,China;2.Inner Mongolia Meteorological Institute,HohhotOlOo51,Inner Mongolia,China;3.Uxin Banner Mu Us Sandy Land Ecological Development Co.,Ltd.,Ordos O173Oo,Inner Mongolia, China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract: To investigate the soil nutrients and stoichiometric characteristics of the Elaeagnus angustifolia shelterbelt in the northeastern margin of the Hobq Desert,andto oferatheoretical basis for the development of desert shelterbelt, we studied the $E$ 、angustifolia shelterbelt with different forest ages (3 a,9a,15 a） using $3 0 \\mathrm { m } \\times$ $3 0 ~ \\mathrm { m }$ representative sample plots. The soil nutrient content of these plots were measured by stratified sampling of the $0 { - } 5 0 ~ \\mathrm { c m }$ soil layer. The pH of different soil layers in the different forest ages had litle fluctuation; however, the nutrient elements were significantly affected by forest age andsoil depth.Nutrient content increased significantly with forest age,and decreased vertically along the soil profile,ilustrating a surface accumulation phenomenon. Among nutrients,forest age had a great influence onavailable K,total P,and total K;ataforest ageof $1 5 \\mathrm { ~ a ~ }$ ,these nutrients increased by $1 5 2 . 2 \\%$ ， $5 8 . 0 \\%$ ，and $69 . 5 \\%$ ,respectively, compared with bare sandy land. The C:N, C:P, and N:P of the $0 { - } 5 0 ~ \\mathrm { c m }$ soil layer across the different forest ages was 9.25-18.99,4.78-5.96,and 0.31-0.63, respectively,and was affcted by forest age and soil depth.The comprehensive stoichiometric analysis showed a remarkable improvement effect of the $E$ 、angustifolia shelterbelt on aeolian sandy soil in the northeastern margin of Hobq Desert, with the soil nutrient status mainly afected bythe Cand N.The mineralizationabilityof soil N was weak and nitrogen was poor.As such, nitrogen fertilizer should be appropriately applied in later management. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Keywords:soil nutrient；stoichiometriccharacteristics；Elaeagnus angustifoliashelterbelt；forestage；HobqDesert ",
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,127 @@
+# 杜鹃花属植物种间杂交向性的初步研究庄平
+
+（中国科学院植物研究所华西亚高山植物园四川都江堰市611830)
+
+摘要：为了探讨杜鹃花属植物种间杂交的向性特征,依据该属5亚属、3组、12亚组、32种、33对正反交组合与自交性质清楚的186个杂交组合,对有关向性问题进行了初步研究。结果表明：（1）杜鹃花属植物种间杂交由双向可育 $$ 单向不育 $$ 双向不育的比率变化与其亲本的系统位置由原始 $$ 进化以及双亲间的亲缘关系由密切 $$ 疏远同向，原始的常绿杜鹃亚属(subgen.Hymenanthes)内种间比较进化的杜鹃亚属(subgen.Rhododendron)内易于杂交，而该两亚属之间存在密切的亲缘关系,因此其亚属间杂交的可育比率也高于其他亚属间杂交；（2）在进化维度上，该属植物的种间杂交单向不育通常无固定的亲本搭配方向,但常绿杜鹃亚属内（Intra-subgen.Hymenanthes）、杜鹃亚属内（Intra-subgen.Rhododendron）和映山红亚属 $\times$ 羊躑躅亚属（subgen.Tsutsus $\times$ subgen.Pentanthera）间的杂交搭配,有一定的倾向性；（3）种间杂交可育性与自交特性不同的亲本搭配方式相关，可育性大小的总倾向是 $\mathrm { S C } { \times } \mathrm { S C } { > } \mathrm { S I } { \times } \mathrm { S C } { \geq } \mathrm { S C } { \times } \mathrm { S I } { > } \mathrm { S I } { \times } \mathrm { S I } ,$ ，其生殖进化方向是从自交亲和到自交不亲和，并伴随异交生殖隔离的加强；（4）细胞不育和多倍体是引起单向不育的两个重要原因，SI亲本的介入会大幅度地增加种间杂交的不育比率。
+
+关键词：杂交向性，正反交，亲和性，不育性，杜鹃花属
+
+DOl:10.11931/guihaia.gxzw201803003
+
+# Preliminary study on the direction of inter-specific cross of
+
+Rhododendron ZHUANG Ping (West China Sub-alpine Botanical Garden, Institute of Botany, Chinese Academy of Sciences. Dujiangyan, Sichuan 611830)
+
+Abstract:In order to discuss the direction feature of inter-specific cross of Rhododendron,based on the cross combinations of33 reciprocal pairs and 186 combinations of selfing nature to be clear,involving 5subgenera,3 sections,12 subsections and 32 species of Rhododendron,the direction feature about the genus was studied.The results showed that:(1) in inter-specific cross of Rhododendron,there was the same direction of numberrate change from bidirectional fertilitytounidirectional sterilityto bidirectional sterilitywith the parentaliance from origin $$ advance and the relationship from closeness to alienation.The inter-specific cross appear more easily in intra-subgen. Hymenanthes as the primitive group than in intra-subgen. Rhododendron as the more advance group, and as both of the above 2 subgenera have more relationship in evolution，the fertility rate of subgen. Hymenanthes× subgen.Rhododendron appeared higher than that of the other inter-subgeneric cross; (2) in the evolutionary dimension,theunidirectional sterilityin inter specific hybrid of the genus usually has no obvious fixed directionof parentcollocation,but inintra-subgen.Hymenanthes,intra-subgen.Rhododendronand subgen. TsutsusXsubgen.Pentanthera,thecolocation has a certain tendency;3）the fertility of inter-specific cross has obvious relevance with parental self character, the total tendency of fertility size shows $\mathrm { S C } { \times } \mathrm { S C } { \times } \mathrm { S I } { \times } \mathrm { S C } { \geq } \mathrm { S C } { \times } \mathrm { S I } { \geq }$ $\mathbf { S } \mathbf { I } { \times } \mathbf { S } \mathbf { I }$ ,the general direction of the reproductive behavior evolution of Rhododendron is from self compatibility to self incompatibility and accompany with increase of outcrossing reproductive isolation; 4) cytoplasmic sterility and polyploid intervention are two important causes which result in unidirectional incompatibility or sterility,and SI increases the rate of the hybrid sterility drastically.
+
+Key words:hybrid direction，reciprocal cross，compatibility，sterility，Rhododendron
+
+向性指杂交亲本的搭配方式或方向，即正交和反交对亲和性或可育性的响应（孟金陵，1997）。研究表明，在杜鹃花属植物类群间杂交中存在双向可育、单向不育和双向不育等3种情况（Williams et al,1990; Rouse et al,1993）。
+
+Tometal（2007）的研究结果显示，不同亚属间的正反交存在3种情况，一部分呈现双向可育，如映山红亚属（subgen.Tsutsusi）×杜鹃亚属（subgen.Rhododendron）；部分为单向不育，如映山红亚属×越桔杜鹃组（sect.Vireya）和映山红亚属×常绿杜鹃亚属（subgen.Hymenanthes）等；有些为双向不育，如羊)躅亚属（subgen.Pentanthera） $\times$ 映山红亚属等，尽管后者以羊躑躅亚属植物为母本所获得的种子能发芽，但不能产生绿色苗木。且上述亚属间杂交在前合子期（prezygotic）和后合子期（postzygotic）均会出现杂交障碍，但也可以获得有生活力或有胚拯救价值的杂交后代。Maetal（2010）的研究证实，常绿杜鹃亚属的蜜腺杜鹃亚组（subsect.Thomsonia）中的蓝果杜鹃（R.cyanocarpum）与同亚属但不同亚组的马缨花（R.delavayi）存在天然杂交现象，并能进行不对称的双向交配。Kenji et al（2000,2006）、Akihide et al（2004）和Kaori etal（2008)均注意到映山红亚属（如R.eriocarpum与羊躑躅亚属（如R.japonicum f.flavum）之间杂交的单向不育问题。Akihide etal（2004）研究了映山红亚属13个种与羊)躅亚属间杂交，结果表明受精前不亲和表现在花粉管生长受阻和不能进入胚珠；受精后不育表现在胚珠不发育、种子不发芽和幼苗死亡。在22个不亲和的组合中，合子前不亲和、合子后不亲和与发育障碍的数量分别为15、6和1，并认为杂交不亲和的变化在亚属间存在，而亲和的差异性个体超过了种类。刘晓青等（2010）则发现，杜鹃花品种间的正反交结实率也存在差异。庄平（2018a,2018d,2018c）分别在常绿杜鹃亚属内、杜鹃亚属内和亚属间杂交中均不同程度发现了单向不育现象。
+
+目前关于常绿杜鹃亚属、杜鹃亚属及马银花亚属（subgen.Azaleastrum）间杂交向性问题的研究较少，更缺乏有关杂交向性分布特征及其与类群和亲本自交性质关系方面的研究。本研究拟对常绿杜鹃亚属等5个亚属的杂交亲和性的分布特征进行分析。
+
+# 1材料与方法
+
+# 1.1材料
+
+在作者有关常绿杜鹃亚属内（2018a）、杜鹃亚属内（2018b）和杜鹃花属不同亚属异种间杂交（2018c）及其亲和性研究（2018d,2018e）的基础上，本文对其中的33组完整的正反交组合和自交性质清楚（2017b）的杜鹃花属种类组成的186个杂交组合开展向性研究，共涉及32种杜鹃花属植物种类，分属5个亚属、3组、12亚组。
+
+# 1.2方法
+
+杂交组合的可育性以相关组合的可育性综合评判结果为依据（2018a，2018b，2018c），并结合杜鹃花属植物分类系统（Chamberlain etal,1996）及其有关区系与演化（闵天绿和方瑞征,1990;方瑞征和闵天绿,1995）和细胞遗传学与生殖生物学研究结果为参照，开展以下3个方面的试验。
+
+1.2.1类群组合与杂交向性分布研究 对33组正反交组合的可育性分3种情况，即双向可育、单向不育和双向不育，分析所对应的亚属内或亚属间及亚组内或亚组间的向性分布规律。
+
+1.2.2单向不育类型分析尝试利用系统与遗传学有关知识，对上述完整的正、反交组合中具有单向不育的正反交组合进行归类分析，以探讨其分布规律和可能成因。1.2.3 自交亲和性组合与杂交可育性分布分析 利用32种自交亲和性（SC或 SI）的研究结果（庄平,2017b），并结合相关理论，探讨其在4种组合条件下，即 $\mathbf { \pi } _ { \mathbf { S } \mathbf { C } \times \mathbf { S } \mathbf { C } }$ 、 $\mathbf { S } { \mathbf { C } } { \times } { \mathbf { S } } { \mathbf { I } }$ 、 $\mathrm { S I } { \times } \mathrm { S C }$ 和 $\mathrm { S I } { \times } \mathrm { S I }$ 组合条件下的可育性差别及其变化规律。
+
+# 2结果与分析
+
+本研究主要涉及了常绿杜鹃亚属内、杜鹃亚属内和该两亚属间的种间杂交，并少量涉及到了上述两亚属、马银花亚属、映山红亚属和羊躑躅亚属之间的杂交向性研究。
+
+# 2.1类群组合与杂交向性
+
+33 组正反交组合数据显示，杜鹃花属植物亚属及亚组内及其类群间杂交的向性分布具有明显的规律（表1）。从双向可育 $$ 单向不育 $$ 双向不育的比重变化大致与常绿杜鹃亚属内杂交 $$ 杜鹃亚属内杂交 $$ 常绿杜鹃亚属×杜鹃亚属 $$ 其他亚属间杂交方向相对应。其中，常绿杜鹃亚属的双向可育组合比例最高，且无双向不育情况出现，云锦杜鹃亚组（subsect.Fortunea）内比该亚组 $\times$ 银叶杜鹃亚组（subsect.Argyrophylla）可能有更高的双向可交配能力；表中的“其他亚属间杂交”则没有双向可育组合分布，其中常绿杜鹃亚属分别与马银花亚属和映山红亚属杂交各有1对组合双向不育；杜鹃亚属内杂交和常绿杜鹃亚属 $\times$ 杜鹃亚属的杂交情况介乎上述两类杂交向性分布之间，且具备各种向性类型。
+
+表1类群组合与杂交向性分布  
+
+<html><body><table><tr><td colspan="5">Table1Group combination and distribution cross direction</td></tr><tr><td>杂交组合</td><td>组合对数</td><td>双向可育</td><td>单向不育</td><td>双向不育</td></tr><tr><td>Cross Combination</td><td>Reciprocal pair</td><td>Bidirectional fertile</td><td>Unidirectional</td><td>Bidirectional</td></tr><tr><td></td><td></td><td></td><td>sterile</td><td>sterile</td></tr><tr><td>常绿杜鹃亚属内杂交Intra-HY</td><td>10</td><td>8</td><td>2</td><td>-</td></tr><tr><td>云锦杜鹃亚组内杂交Intra-Ft</td><td>3</td><td>3</td><td></td><td></td></tr><tr><td>云锦亚组×银叶亚组Ft×Ar</td><td>6</td><td>5</td><td>1</td><td></td></tr><tr><td>杜鹃亚属内杂交Intra-RH</td><td>5</td><td>2</td><td>2</td><td>1</td></tr><tr><td>常绿杜鹃亚属×杜鹃亚属HY×RH</td><td>12</td><td>2</td><td>6</td><td>4</td></tr><tr><td>其他亚属间杂交Others1)</td><td>6</td><td></td><td>4</td><td>2</td></tr><tr><td>合计</td><td>33</td><td>12</td><td>14</td><td>7</td></tr></table></body></html>
+
+1）包括：常绿杜鹃亚属（Subgen.Hymenanthes）×长蕊杜鹃亚属（Subgen.Azaleastrum）（2组,2 sections）、常绿杜鹃亚属（Subgen.Hymenanthes）x映山红亚属（Subgen.Tsutsusi）（2组,2 sections）、杜鹃亚属（Subgen.Rhododendron）×映山红亚属（Subgen.Tsutsusi）（1组,1section）和映山红亚属（Subgen.Tsutsusi）×羊躑躅亚属（Subgen.Pentanthera）（1组,1 section）。
+
+# 2.2类群组合与单向不育
+
+有关杜鹃花属植物单向不育的零星研究表明，在系统进化上较原始的类群或种类作为母本与较进化的类群或种类作为父本交配，往往具表现为亲和或可育，而反交则不亲和或不育（Akihide et al,2006; Kenji et al,2006; Nobuo et al,2003; Rouse etal,1993; Williams et al,1990），但并未成为定论。通过具体考察上述14组单向不育杂交组合，可初步归纳为以下3种情形。
+
+2.2.1同亚属内不同类群及其种类间杂交表现为较原始种类作为母本的单向亲和。常绿杜鹃亚属中的山光杜鹃（R.oreodoxa） $\times$ 岷江杜鹃（R.hunnewellianum）和露珠杜鹃（R.irroratum）×马缨花（R.delavayi）等2例组合与杜鹃亚属中的多鳞杜鹃（R.polylepis) $| \times \rrangle$ 问客杜鹃（R.ambiguum）和基毛杜鹃（R.rigidum）×问客杜鹃等符合上述单向亲和特征，其中杜鹃亚属中的问客杜鹃为次生进化的多倍体植物。此外，映山红（R.simsii） $\times$ 羊躑躅（Rmolle）组合所涉及的2个亚属间也显示了上述正交可育而反交不育现象。
+
+2.2.2常绿杜鹃亚属×杜鹃亚属类群及其种类的正反交均具有单向不育现象，因此不完全符合原始类群作为母本的单向可育特征。其中符合相关特征的包括峨嵋银叶杜鹃（R.argyrophyllum subsp.omeiense) $\times$ 毛肋杜鹃（R.augustinii）、峨嵋银叶杜鹃 $\times$ 问客杜鹃和繁花杜鹃（R.floribundum） $\times$ 多鳞杜鹃等3组组合，岷江杜鹃 $\times$ 宝兴杜鹃（R.moupinense）和繁花杜鹃 $\times$ 百合花杜鹃（R.liliflorum）可能也可能属此例；不符合相关特征的则有多鳞杜鹃 $\times$ 腺果杜鹃（R.davidi）、百合花杜鹃 $\times$ 峨嵋银叶杜鹃和毛肋杜鹃x大王杜鹃（R.rex）等3组组合，而多鳞杜鹃 $\times$ 大王杜鹃、多鳞杜鹃 $\times$ 粘毛杜鹃（R.glischrum）和红棕杜鹃（R.rubiginosum） $\times$ 岷江杜鹃亦然。
+
+2.2.3 部分亲本的单向不育搭配具有一定倾向，但尚需进一步佐证。越峰杜鹃 $\times$ 映山红为常绿杜鹃亚属 $\times$ 映山红亚属间杂交，符合较原始种类作为母本的单向亲和或可育类型，而已有研究表明，此两亚属具有双向可育性（Tom etal,2007），另外，本研究尚缺乏反交试验佐证的大白杜鹃（R.decorum） $\times$ 羊躑躅的正交可育亦应属这类情形；而相反，长蕊杜鹃（R.stamineum) $\times$ 腺果杜鹃与映山红 $\times$ 百合花杜鹃则表现了进化类群作为母本的单向可育现象，映山红 $\times$ 毛肋杜鹃也应属此类情况。不过这些类群组合的杂交研究尚有待加强，方能做出相应判断。
+
+# 2.3自交特性与杂交可育性的关系
+
+已有研究表明，亲本的自交亲和性与其杂交的单向不亲和具有某种联系（孟金陵等，1997）。本次研究的5个杜鹃花亚属植物中，分别代表马银花杜鹃亚属、映山红亚属和羊躑躅亚属的长蕊杜鹃、映山红和羊躑躅均为自交不亲和种类（SI），而常绿杜鹃亚属及杜鹃亚属中的多数种类为自交亲和植物（SC）。
+
+通过186个杂交组合的可育性研究表明（表2），杜鹃花属植物种间杂交的可育组合比例由高到低的变化总趋势为 $\mathrm { S C } { \times } \mathrm { S C } { > } \mathrm { S I } { \times } \mathrm { S C } { \geq } \mathrm { S C } { \times } \mathrm { S I } { > } \mathrm { S I } { \times } \mathrm { S I } ,$ ，而常绿杜鹃亚属内不同种类间杂交的可育性却呈现 $\mathrm { S I } { \times } \mathrm { S C } { > } \mathrm { S C } { \times } \mathrm { S C } { \geq } \mathrm { S C } { \times } \mathrm { S I } { > } \mathrm { S I } { \times } \mathrm { S I }$ 的变化，另外在 $\mathsf { S C } \times \mathsf { S C }$ 型杂交情况下，常绿杜鹃亚属内不同种类间杂交的可育性高于该亚属 $\times$ 杜鹃亚属的亚属间的杂交，而在除了常绿杜鹃亚属内不同种类杂交的情况外，表中其他杜鹃花属植物间的杂交可育性则呈现 $\mathrm { S C } { \times } \mathrm { S I } { \vert } { \mathrm { > } } \mathrm { S I } { \times } \mathrm { S C } { \vert } { \mathrm { > } } \mathrm { S I } { \times } \mathrm { S I }$ 的趋势。由此可见，杜鹃花属植物种间杂交总的趋势是自交可育亲本间的杂交优于其与自交不育亲本间的杂交，而后者又优于自交不育亲本间的杂交；而常绿杜鹃亚属内 $\mathrm { S I } { \times } \mathrm { S C }$ 的组合可育性更高；在 $\mathbf { S C } { \times } \mathbf { S C }$ 型组合情况下，常绿杜鹃亚属内杂交优于其与杜鹃亚属种类间的杂交；而在表中的其他情形下，以自交亲和类型种类为母本的可育性则更高。
+
+试验还表明，14对单向不育正反交组合（表1）分布在 $\mathbf { S C } { \times } \mathbf { S C }$ （8组）、$\mathrm { S I } { \times } \mathrm { S C }$ （2）、 $\mathbf { S C } { \times } \mathbf { S I }$ （2）和 $\mathbf { S I } { \times } \mathbf { S I }$ （2）等所有组合型中，加之这些组合型均同时出现了不同程度的可育或不育情况（表2），因此笔者认为杜鹃花属植物类群间的杂交可育性，尤其是单向可育性现象及其成因比预想更加复杂。
+
+杜鹃花属植物的单向不亲和或不育，并不完全遵循“较古老的自交亲和种遵循 $\mathrm { S I } { \times } \mathrm { S C }$ 不亲和规则”（Lewis&Crowe,1958），尤其对于常绿杜鹃亚属内杂交而言；而是否有控制基因UI存在而决定 $\mathrm { S I } { \times } \mathrm { S C }$ 的正反交分别为不亲和与亲和的假设（刘定富等,1997）在解释这类正反交组合的育性现象中的作用也非常有限，仅有黄花杜鹃（SI型）可能未携带UI基因，因此与多鳞杜鹃（SC型）杂交表现为双向亲和；马缨花杜鹃可能携带了UI基因，因此作为母本在与露珠杜鹃的杂交中表现为单向亲和。而更加明显的情况是，映山红（SI型）作母本与百合花杜鹃（SC型）杂交亲和而与越峰杜鹃（SC 型）杂交不亲和，因此采用是否携带UI基因仍无法加以解释。
+
+表2自交类型与杂交可育性分布  
+
+<html><body><table><tr><td colspan="6">Table2 Selfing types and cross fertility</td></tr><tr><td>组合</td><td>组合数量</td><td>可育组合 Fertile comb.</td><td></td><td>败育组合 Sterile comb.</td><td></td></tr><tr><td>Combination</td><td>Number of comb.</td><td>N</td><td>%</td><td>N</td><td>%</td></tr><tr><td>SCxSC</td><td>91</td><td>56</td><td>61.5</td><td>35</td><td>38.5</td></tr><tr><td>常绿杜鹃亚属内 Intra-HY</td><td>37</td><td>33</td><td>89.1</td><td>4</td><td>10.9</td></tr><tr><td>常绿杜鹃亚属x杜鹃亚属HY×RH</td><td>54</td><td>23</td><td>42.6</td><td>31</td><td>57.4</td></tr><tr><td>SCxSI</td><td>33</td><td>10</td><td>30.3</td><td>23</td><td>69.7</td></tr><tr><td>常绿杜鹃亚属内Intra-HY</td><td>6</td><td>5</td><td>83.3</td><td>1</td><td>16.7</td></tr><tr><td>其他</td><td>27</td><td>5</td><td>18.5</td><td>22</td><td>81.5</td></tr><tr><td>SIxSC</td><td>39</td><td>13</td><td>33.3</td><td>26</td><td>76.7</td></tr><tr><td>常绿杜鹃亚属内Intra-HY</td><td>9</td><td>9</td><td>100</td><td></td><td></td></tr><tr><td>其他</td><td>30</td><td>4</td><td>13.3</td><td>26</td><td>86.7</td></tr><tr><td>SIxSI</td><td>23</td><td>4</td><td>17.3</td><td>19</td><td>82.7</td></tr><tr><td>常绿杜鹃亚属内Intra-HY</td><td>4</td><td>2</td><td>50.0</td><td>2</td><td>50.0</td></tr><tr><td>其他</td><td>19</td><td>2</td><td>10.5</td><td>17</td><td>89.5</td></tr><tr><td>合计</td><td>186</td><td>83</td><td>44.6</td><td>103</td><td>55.4</td></tr></table></body></html>
+
+# 3结论与讨论
+
+通过对有关杜鹃花属植物种间杂交向性问题的探讨，可初步形成以下认识：
+
+3.1杜鹃花属植物种间杂交由双向可育 $$ 单向不育 $\bf { \sigma } \to$ 双向不育的比率变化与其亲本所在的系统位置由原始 $$ 进化，以及双亲间的亲缘关系由密切 $$ 疏远同向
+
+研究表明，原始类群常绿杜鹃亚属（闵天绿和方瑞征,1990;方瑞征闵天绿,1995）内，尤其是云锦杜鹃亚组内的种间杂交具有较高的双向可育性比例，且高于较进化的杜鹃亚属的相应比例，从而进一步证实了原始的常绿杜鹃亚属内更易于种间杂交的特征（Williamset al,1990;Richard etal,2010;Milne et al,2003;庄平,2018a）；而常绿杜鹃亚属×杜鹃亚属间杂交双向和单向可育性比例又高于其他亚属间杂交相应比例的现象（庄平,2018b,2018c），则说明向性特征与双亲的亲缘关系的远近相关。
+
+# 3.2在进化维度上，种间杂交的单向不育就总体而言无明显固定的亲本搭配方向，但某些亚属内和亚属间杂交有例外情况
+
+除云锦杜鹃亚组内杂交未出现单向不育情况外，常绿杜鹃亚属内和所有的亚属间与由SC 和 SI亲本所构成的4类组合类型中，均不同程度地出现了单向不育情况（表2），因此从总体上来说单向不育不存在固定的亲本搭配方式；但在常绿杜鹃亚属内、杜鹃亚属内和映山红亚属 $\times$ 羊躑躅亚属间的杂交中，利用较原始种类作为母本的单向亲和特征比较明显；而同时，较进化的杜鹃亚属种类作为母本与某些较原始的常绿杜鹃亚属类群杂交为单向可育。而有关单向不育的假说（Lewis&Crowe,1958;孟金陵,1997）均不能圆满地解释杜鹃花属种间杂交的单向不育现象。
+
+# 3.3该属植物的种间杂交可育性与自交特性不同的亲本搭配方式相关，其生殖进化方向是从自交亲和到自交不亲和，并伴随异交生殖隔离的加强
+
+可育性大小的总趋势是 $\mathrm { S C } { \times } \mathrm { S C } { > } \mathrm { S I } { \times } \mathrm { S C } { \geq } \mathrm { S C } { \times } \mathrm { S I } { > } \mathrm { S I } { \times } \mathrm { S I } ,$ ，在亚属内和亚属间的种间杂交中，上述倾向有不同程度的波动。由于原始的杜鹃花类群多为SC型，进化的类群多为 SI型，因此这一倾向再次反映了原始类群内和不同系统进化程度类群间的异种杂交的向性演化与该属类群系统进化间的一致性关系，简言之， $\mathrm { { S I } \times \mathrm { { S C } } }$ 型的正反交比双亲为SC型的杂交可育性明显下降，而 $\mathrm { S I } { \times } \mathrm { S I }$ 杂交组合的可育性最低；由此并结合已有报道结果（Williams et al,1990;Rouse et al,1993; Ng & Corlett, 2000; Jose et al, 2002； Escaravage & Wagner, 2002;Nathanneletal,2006;张敬丽等,2007;Akira,2010）可以初步推断，杜鹃花属的生殖行为进化方向是从自交亲和到自交不亲和（庄平,2017b），并伴随类群及种类异交生殖隔离的加强(庄平,2018d,2018e)。
+
+# 3.4细胞不育和多倍体是引起单向不育的两个重要原因，SI亲本的介入会大幅度地增加种间杂交不育比率
+
+已有映山红亚属 $\times$ 羊躑躅亚属间的许多研究已证明其反交为胞质不育（Kenjietal,2000,2006;Akihide etal,2006;Nobuo etal,2008），本研究的映山红 $\times$ 羊躑躅的反交亦不育，其原因应相同；而本研究中多倍体的问客杜鹃作为母本，分别与多鳞杜鹃、基毛杜鹃、峨嵋银叶杜鹃杂交均表现了单向不育，而前者作父本则可育，由此判断多倍体杜鹃花种类作为母本是导致单向不育的另一重要原因（庄平,2018b,2018c）；SI亲本的介入会导致种间杂交不育率大幅度增加，尤其是双亲均为SI时其增幅可超过2倍（表2），但其遗传机制尚待进一步研究。
+
+致谢：本研究田间与室内试验和数据采集工作由李烨与唐桂英女士完成，英文摘要得到高贤明研究员的倾力帮助，峨眉山生物试验站为本研究给予了大力支持，在此一并致谢！
+
+# References
+
+AKIHIDE O, KENICHI S,2004. Cross incompatibility between Rhododendron seat. Tsutsusi species and Rhododendron japonicum (A.Gary) T. V. Suringar f. flavum Nakai ,J. Japan [J]. Soc.Hort. Sci, 73 (5): 453-459.   
+AKIRA SH,2010. Kinship between parents reduces offspring fitness in a natural population of Rhododendron brachycarpum [J],Ann Bot,105: 637-646   
+CHAMBERLAIN DF, HYAMR,ARGENT G et al, 1996. The genus Rhododendran, its classification and synonymy.Roy. Bot. Gard. Edinburgh, Edinburgh   
+ESCARAVAGE N，WAGNER J， 2004. Polination effectiveness and pollen dispersal in a Rhododendron ferrugineum (Ericaceae) population[J]. Plant Bio., 6: 606- 615   
+FANG RZ,MIN TL,1995.The floristic study on the genus Rhododendron [J],Acta Botanica Yunnanica,17(4):359-379.[方瑞征,闵天绿,1995.杜鹃属植物区系的研究[J],云南植物 研究,17 (4): 359-379]   
+JOSE AM, JUAN A, FERNANDO O, 2002. Reproductive ecology of Rhododendron ponticum (Ericaceae） in relict Mediterranean populations[J],Botanical Journal of the Lin. Soc., 140:297-311.   
+KAORI S, OZAKI Y, URESHINO K et al, 2008, Interploid crossing vercomes plastomenuclear genome incompatibility in intersubgeneric hybridization between evergreen and deciduous azaleas[J], Sci. Hort.,115: 268-274.   
+KENJI U, MIYOKO K and IKUO, 2000.Factors of intersectional unilateral cross compatibility between several evergreen azalea species and Rhododendron japonicum f. favum [J], Japan. Soc. Hort. Sci., 69(3): 261-265.   
+KENJI U, YOSHIKO T, YUKA T et al, 2006. Cross compatibility of intersubgeneric hybrids of azaleas on backcross with several evergreen species[J], Japan Soc Hort Sci, 75 (5): 403-409.   
+NATHANNEL TW, ERIN ED, JOSEPHB et al, 2006.Pollinator limitation, autogamy and minimal inbreeding depression in insect-pollinated plants on a boreal Island [J], Am Midl Nat,155:19-38   
+NG S-C，CORLETT RT， 2000. Comparative reproductive biology of the six species of Rhododendron (Ericaceae) in Hong Kong, South China [J]. Canadian JBot., 78: 221-229.   
+NOBUO K, DAIKI M, AKIRA N et al,2008. Attaining inter-subgeneric hybrids in fragrant azalea breeding and the inheritance of organelle DNA[J], Euphytica, 159:67-72   
+LEWIS D, Crowe LK,1958. Unilateral interspecific incompatibility in flowering plants [J], Heredity,12: 233-256   
+LIU DF, XUE YB,1997. Plant self-incompatibility[M] //Genetics of plant reproduction, Beijing: Science Press:214-277.[刘定富,薛永彪,1997植物自交不亲和性，见孟金陵等主编：植物 生殖遗传学[M],北京：科学出版社,214-277]   
+LIU XQ, SU JL,LI C et al, 2010. Study on the fruitfulness of hybridization, selfing and open pollination of rhododendron[J]. Acta Agric Shanghai , 26(4): 145-148 (in Chinese)[刘晓青,苏家乐,李畅,刘晓宏,2010.杜鹃花自交、杂交及开放授粉结实性 研究[J],上海农业学报,26(4):145-148]   
+MA YP, ZHANG CQ, ZHANG JL et al, 2010. Natural hybridization between Rhododendron delavayi and R. cyanocarpum (Ericaceae), from morphological, molecular and reproductive dvidence [J], J Integrative Plant Biol, 52 (9): 844-851.   
+MENG JL,1997. Genetics of plant reproduction [M], Beijing: Science Press: 296-357[孟金 陵等主编,1997,植物生殖遗传学[M],北京:科学出版社:296-357]   
+MILNE RI, TERZIOGLU S,ABBOTT RJ, 2003. A hybrid zone dominated by fertile F1s: maintenance of species barriers in Rhododendron [J], Mol Ecol,12: 2719-2729.   
+MIN T, FANG RZ,1990. The Phylogeny and evolution of genus Rhododendron [J], Acta Botanica Yunnanica,12(4):353-365 (in Chinese)[闵天绿,方瑞征，1990.杜鹃属的 系统发育与进化[J],云南植物研究,12(4):353-365]   
+NOBUO K, DAIKI M, AKIRA N et al, 2008.Attaining inter-subgeneric hybrids in fragrant azalea breeding and the inheritance of organelle DNA[J], Euphytica ,159: 67-72.   
+RICHARD IM, CHANTEL D, RUBY P et al, 2010. Phylogeny of Rhododendron subgenus Hymenanthes based on chloroplast DNA markers: between-lineage hybridization during adaptive radiation?[J], Plant Syst Evo, 285: 233-244.   
+ROUSE JL，KNOX RB and Williams EG, 1993. Inter-and intraspecific pollinations involving Rhododendron species[J], J. Am. Rhodo Sic, 47: 23-28.   
+TOM E, ELLEN DK, JOHAN VH et al, 2007.Application of embryo rescue after interspecific crosses in the genus Rhododendron [J], Plant Cell Tiss Organ Cult, 89:29-35   
+WILLIAMS EG,Rouse JL,Palser BF et al,1990. Reproductive biology of Rhododendron, [J],Hort Rev, 12: 1-67.   
+ZHANG JL, ZHANG CQ,WU ZQ et al, 2007. The potential roles of interspecific pollination
+
+in natural hybridization of Rhododendron species in Yunnan[J], China,Biodivers Sci,15:658- 665.[张敬丽,张长芹,吴之坤,乔琴.2007.探讨种间 传粉在杜鹃花属自然杂交物种形成中的作用[J],生物多样性,15:658-665.] ZHUANG P, 2017a. Natural pollination of 37 Rhododendron species under ex situ conservation[J],Guihaia,37:947-958.[庄平,2017.37种杜鹃花属植物 在迁地保育下的自然授粉研究[J],广西植物，37:947-958] ZHUANG P, 2017b. Self- fertilization of 32 Rhododendron species under ex situ onservation[J],Guihaia.[庄平,2017.32种杜鹃花属植物在迁地保育条件 下的自交研究[J],广西植物,37:959-968] ZHUANG P, 2018a. Cross fertility of intra-subgen. Hymenanthes of 23Rhododendron species [J],Guihaia，DOl:10.11931/guihaia.gxzw201706023．[庄平,2018a.23 种常绿杜鹃 亚属植物种间杂交的可育性研究[J]，广西植物，DOI:10.11931/guihaia.gxzw201706023.] ZHUANG P,2018b.Preliminary study on the cross fertility of intra-subgen. Rhododendron of 10 Rhododendron species [J], Guihaia.DOI:10.11931/guihaia. gxzw201708009．[庄平, 2018b.10杜鹃亚属植物种间杂交的可育性初步研究[J]，广西植物， DOI:10.11931/guihaia.gxzw201708009.] ZHUANG P,2018c. Study on the cross fertility of inter-subgenera of 32 Rhododendron species,[J] Guihaia，DOI:10.11931/guihaia.gxzw201709009.[庄平,2018c．32 种杜鹃花 属植物亚属间杂交的可育性研究[J]，广西植物，DOl:10.11931/guihaia.gxzw201709009.] ZHUANG P, 2018d. Study on the distribution of hybrid incompatibility and sterility of Rhododendron[J], Guihaia， DOI:10.11931/guihaia.gxzw 201710011.[庄平,2018d.杜鹃 花属植物杂交不亲和与败育分布研究[J]，广西植物, DOI:10.11931/guihaia.gxzw201710011.] ZHUANG P, 2018e. Study on distribution of crossability between species of Rhododendron [J],Guihaia，DOI:10.11931/guihaia.gxzw201803003.[庄平,2018e．杜鹃 花属植物种间可交配性分布研究[J]，广西植物，DOI:10.11931/guihaia.gxzw201803003.]

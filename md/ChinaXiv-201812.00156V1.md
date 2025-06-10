@@ -1,0 +1,208 @@
+苜蓿皂苷对蛋鸡生产性能、蛋品质及抗氧化能力的影响樊文娜」 王占彬」 李润林」 李 佳² 李栋栋² 王成章 2\*（1.河南科技大学动物科技学院，洛阳471003；2.河南农业大学牧医工程学院，郑州
+
+450002)
+
+摘要：本试验旨在研究苜蓿皂苷对蛋鸡生产性能、蛋品质及抗氧化能力的影响。选取150只190日龄的海蓝褐壳蛋鸡，随机分为5个组，每组5个重复，每个重复6只鸡。对照组饲喂基础饲粮， $\mathrm { ~ I ~ } { \sim } \mathrm { I V }$ 组分别在基础饲粮中添加60、120、240、 $4 8 0 ~ \mathrm { m g / k g }$ 的苜蓿皂苷。试验期77d。结果表明：1）Ⅱ组的平均日采食量和料蛋比显著低于对照组（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ ），I、IⅢ组的蛋重显著低于对照组（ $P { < } 0 . 0 5 \$ ），各组之间的产蛋率差异不显著（ $P { > } 0 . 0 5 \$ ）。2)第30天，IV组的蛋黄颜色显著低于对照组（ $P { < } 0 . 0 5$ ）；第45天，ⅡI、IⅢ组的蛋黄颜色显著低于对照组（ $P { < } 0 . 0 5$ ）；第60天，I、II、ⅢI和IⅣ组的蛋黄颜色显著低于对照组（ $\cdot P { < } 0 . 0 5$ ）。3）I、II、和IV组的肝脏、胸肌、腿肌谷胱甘肽过氧化物酶、超氧化物歧化酶活性和丙二醛含量与对照组无显著差异 $( P { > } 0 . 0 5 )$ 。综合分析各项指标，本试验条件下，饲粮中添加 $1 2 0 ~ \mathrm { m g / k g }$ 的苜蓿皂苷效果较好。
+
+关键词：苜蓿皂苷；蛋鸡；生产性能；蛋品质；抗氧化能力
+
+中图分类号：S831.5
+
+一直以来，皂苷因造成反刍动物瘤胃胀气而被认为是抗营养因子，但大量试验证明这种观点是片面的，适量的皂苷不仅可以提高单胃动物的生长性能[1-2]，且在减少氨气排放、改善畜舍环境卫生方面也有重要作用[3]，对单胃动物而言也是其活性成分。苜蓿皂苷是从苜蓿中提取的天然活性物质，具有强大的生物活性及功能，研究表明，皂苷具有抗肿瘤、提高免疫力、保护心血管及降低血糖、血脂和胆固醇等生物活性功能[49]。本文研究了饲粮不同苜蓿皂苷添加水平对产蛋鸡生产性能、蛋品质及抗氧化能力的影响，研究苜蓿皂苷在蛋鸡饲粮中的应用，旨在为蛋鸡饲粮中使用苜蓿皂苷提供理论依据。
+
+# 1材料与方法
+
+# 1.1 试验材料
+
+试验用苜蓿皂苷提取物购自河北沧州，经紫外分光光度计法测定其中苜蓿皂苷含量为$50 \%$ 。
+
+# 1.2试验设计
+
+试验采用单因素完全随机设计，选择健康、体重接近的190日龄海蓝褐壳蛋鸡150只，随机分成5个组，每个组5个重复，每个重复6只鸡。对照组饲喂基础饲粮，Ⅰ\~IV组分别在基础饲粮中添加60、120、240、 $4 8 0 \mathrm { m g / k g }$ 的苜蓿皂苷。试验期 $7 7 \mathrm { d }$ 。
+
+# 1.3基础饲粮及饲养管理
+
+蛋鸡基础饲粮营养水平参照NRC（1994）产蛋鸡营养需要标准，基础饲粮组成及营养水平见表1。采用3层阶梯式笼养，每天光照 $1 6 \mathrm { h }$ ，05:00至21:00，早晚辅助人工光照。自由采食与饮水。按常规程序对蛋鸡进行防疫与鸡舍消毒。每日06:00与15:00进行饲喂，18:00采收鸡蛋。
+
+表1基础饲粮组成及营养水平（风干基础）  
+  
+
+<html><body><table><tr><td colspan="3">Table1 Compositionand nutrient levelsof thebasaldiet (air-dry basis)</td><td>%</td></tr><tr><td colspan="3">原料Ingredients 含量Content</td><td>含量 Content</td></tr><tr><td>玉米Corn</td><td>69.80</td><td>粗蛋白质CP</td><td>16.00</td></tr><tr><td>豆粕 Soybean meal</td><td>14.45</td><td>钙Ca</td><td>3.44</td></tr><tr><td>石粉Limestone</td><td>8.50</td><td>磷TP</td><td>0.59</td></tr><tr><td>秘鲁鱼粉Peru fish</td><td>4.96</td><td>可利用磷AP</td><td>0.42</td></tr><tr><td>meal 磷酸氢钙CaHPO4</td><td>1.00</td><td></td><td>0.33</td></tr><tr><td>预混料Premix1)</td><td>1.00</td><td>食盐NaCl</td><td>0.83</td></tr><tr><td>食盐NaCl</td><td>0.20</td><td>赖氨酸Lys</td><td>0.38</td></tr><tr><td>蛋氨酸Met</td><td>0.09</td><td>蛋氨酸Met</td><td></td></tr><tr><td></td><td></td><td>蛋氨酸+半胱氨酸Met+Lys</td><td>0.63</td></tr><tr><td>合计Total</td><td>100.00</td><td>代谢能ME/（MJ/kg)</td><td>11.51</td></tr></table></body></html>
+
+1)预混料为每千克饲粮提高 Premix provided the following per kilogramof the diet:VA12 000IU， $\mathrm { V D } _ { 3 } \ominus 0 0 0 \mathrm { I U }$ ，VE 30 IU，VK $4 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } ~ 1 5 ~ \mu \mathrm { g }$ ， $\mathrm { V B } _ { 1 } 2 . 6 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 6 . 5 ~ \mathrm { m g }$ ， $\mathrm { V B } \varsigma 1 0 \$ mg， $\mathrm { V B } _ { 6 } 8 . 5 \mathrm { m g }$ ，生物素biotin $2 . 5 \mathrm { m g }$ ，叶酸 folic acid $3 ~ \mathrm { m g }$ ，烟酸niacin $3 5 ~ \mathrm { m g }$ ， $ { \mathrm { M n } } 2 6 . 2$ mg， $\mathrm { C u } 6 . 8 \mathrm { m g }$ ， $Z \mathrm { n } 2 5 . 9 \mathrm { m g }$ ，Fe $6 0 . 1 \mathrm { m g }$ ，S $\mathrm { \dot { \sec } 0 . 1 1 \bmod { \varepsilon } }$ 。
+
+2 营养水平为计算值。Nutrient levels were calculated values.
+
+# 1.4测定指标与方法
+
+每日以重复为单位记录产蛋数与蛋重，计算产蛋率。每7d统计1次采食量，计算平均日采食量。在第15、30、45、60天每个重复选取4枚鸡蛋，测定鸡蛋蛋品质。试验结束时每个重复随机选取2只蛋鸡取肝脏、腿肌、胸肌部分组织保存于 $- 2 0 \ \mathrm { { ^ \circ C } }$ 冰箱，用于测定抗氧化指标。
+
+# 1.4.1生产性能指标的测定
+
+平均日采食量 $\varXi$ 总采食量/试验天数；  
+料蛋比 $\ c =$ 采食量/蛋重；  
+产蛋率 $\underline { { \underline { { \mathbf { \Pi } } } } } =$ 实际产蛋数/鸡总只数。
+
+# 1.4.2蛋品质指标测定
+
+哈氏单位、蛋黄颜色通过多功能蛋品分析仪测定；采用蛋壳强度计测定蛋壳强度；采用蛋壳厚度计测定蛋壳厚度。
+
+蛋形指数 $\varprojlim .$ 鸡蛋纵径/鸡蛋横径。
+
+# 1.4.3抗氧化指标测定
+
+肝脏、腿肌、胸肌的丙二醛（MDA）含量及总超氧化物歧化酶（T-SOD）、谷胱甘肽过氧化物酶（GSH-PX）活性采用试剂盒测定，试剂盒由南京建成生物工程研究所提供。
+
+# 1.5数据统计分析
+
+采用SPSS13.0进行单因素方差分析（one-wayANOVA），结果以“平均值 $\pm$ 标准差"表示，并用Duncan氏多重比较法对各组数据进行处理。
+
+# 2结果
+
+# 2.1苜蓿皂苷对蛋鸡生产性能的影响
+
+由表2可以看出，I、II、IⅢ和IV组蛋鸡的平均日采食量较对照组都有降低的趋势，其中，ⅡI组蛋鸡的平均日采食量较对照组显著降低（ $P { < } 0 . 0 5$ ）；各组之间蛋鸡的产蛋率均差异不显著（ $P { > } 0 . 0 5 )$ ）；II、IⅢ组蛋鸡的蛋重显著低于对照组（ $P { < } 0 . 0 5 \$ ）；ⅡI组蛋鸡的料蛋比显著低于对照组（ $_ { . P < 0 . 0 5 }$ ），其余3组蛋鸡的料蛋比与对照组无显著差异（ $P { > } 0 . 0 5 \$ ）。
+
+# 表2苜蓿皂苷对蛋鸡生产性能的影响
+
+Table 2 Effects of alfalfa saponins on performance of laying hens   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">组别Groups</td></tr><tr><td>对照Control</td><td>I</td><td>II</td><td>IⅢI</td><td>IV</td></tr><tr><td>平均日采食量 ADFI/g</td><td>119.15±0.98a</td><td>114.06±6.5ab</td><td>106.56±6.76b</td><td>114.65±5.51ab</td><td>113.91±9.51ab</td></tr><tr><td>产蛋率</td><td>89.00±4.42</td><td>89.52±4.87</td><td>89.41±4.16</td><td>88.81±4.64</td><td>86.90±6.73</td></tr><tr><td>Laying rate/%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>蛋重</td><td>62.83±0.53b</td><td>62.51±0.73b</td><td>62.02±0.53c</td><td>61.09±0.39d</td><td>63.29±0.25a</td></tr><tr><td>Egg weight/g</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>料蛋比</td><td>2.10±0.18a</td><td>1.97±0.33 ab</td><td>1.88±0.02b</td><td>2.12±0.52a</td><td>2.07±0.33ab</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5$ ），相同或无字母表示差异不显著（ $P { > } 0 . 0 5$ D
+
+In the same row, values with different small leter superscripts mean significant difference $( P { < } 0 . 0 5 )$ , while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$
+
+# 2.2苜蓿皂苷对蛋鸡蛋品质的影响
+
+由表3可以看出，第30天，Ⅰ组蛋黄颜色显著高于对照组（ $\scriptstyle P < 0 . 0 5 .$ ），IV组蛋黄颜色显著低于对照组（ $\scriptstyle P < 0 . 0 5 .$ ），I组蛋黄比例显著低于对照组（ $P { < } 0 . 0 5$ ）；第45天，I、IⅢI组蛋黄颜色显著低于对照组（ $. P { < } 0 . 0 5$ ）；第60天，I、 $\mathrm { I I }$ 、IⅢI和IV组蛋黄颜色显著低于对照组（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ），IⅢ组蛋壳厚度显著高于对照组（ $_ { . } { \cdot } { \cdot } { \cdot } { \cdot } 0 . 0 5$ ）。
+
+表3苜蓿皂苷对鸡蛋蛋品质的影响
+
+Table 3 Effects of alfalfa saponins on egg quality of laying hens   
+
+<html><body><table><tr><td>时间</td><td>组别</td><td>哈氏单位</td><td>蛋黄颜色</td><td>蛋壳强度</td><td>蛋壳厚度</td><td>蛋黄比例</td><td>蛋形指数</td></tr><tr><td>Time</td><td>Groups</td><td>Haugh unit</td><td>Egg color</td><td>Eggshell strength</td><td>Eggshell thickness</td><td>Egg yolk ratio</td><td>Egg index</td></tr><tr><td>第15</td><td>对照Control</td><td>84.16±4.59</td><td>9.13±0.22</td><td>4.25±0.29</td><td>0.333±0.102ab</td><td>0.234±0.003</td><td>1.245±0.025</td></tr><tr><td>天</td><td>I</td><td>82.69±3.13</td><td>9.17±0.17</td><td>4.53±0.29</td><td>0.338±0.107a</td><td>0.238±0.010</td><td>1.236±0.008</td></tr><tr><td>The 15th</td><td>II</td><td>84.59±3.30</td><td>8.96±0.44</td><td>4.27±0.23</td><td>0.330±0.029ab</td><td>0.229±0.012</td><td>1.266±0.015</td></tr><tr><td>day</td><td>III</td><td>80.18±1.91</td><td>9.08±0.22</td><td>4.27±0.73</td><td>0.330±0.063ab</td><td>0.242±0.007</td><td>1.261±0.009</td></tr><tr><td></td><td>IV</td><td>81.35±2.19</td><td>9.30±0.10</td><td>4.40±0.38</td><td>0.322±0.069b</td><td>0.240±0.006</td><td>1.267±0.012</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>对照Control</td><td>73.51±4.47ab</td><td>8.93±0.08b</td><td>4.24±0.56</td><td>0.312±0.095</td><td>0.250±0.008a</td><td>1.262±0.012</td></tr><tr><td></td><td>I</td><td>69.78±3.23ab</td><td>9.26±0.15a</td><td>4.11±0.31</td><td>0.319±0.154</td><td>0.265±0.007a</td><td>0.240±0.009</td></tr><tr><td>第30 天</td><td>II</td><td>73.67±4.21ab</td><td>8.73±0.20b</td><td>4.06±0.48</td><td>0.315±0.169</td><td>0.233±0.005b</td><td>1.275±0.007</td></tr><tr><td>The 30th</td><td>IⅢI</td><td>76.61±4.29a</td><td>8.82±0.21b</td><td>4.17±0.28</td><td>0.323±0.099</td><td>0.242±0.004ab</td><td>1.275±0.018</td></tr><tr><td>day</td><td>IV</td><td>69.02±7.21b</td><td>8.47±0.16c</td><td>4.32±030</td><td>0.312±0.101</td><td>0.242±0.006ab</td><td>1.262±0.015</td></tr><tr><td></td><td>对照Control</td><td>70.57±3.71</td><td>9.16±0.39a</td><td>3.70±0.11</td><td>0.318±0.181</td><td>0.251±0.002</td><td>1.255±0.098</td></tr><tr><td>第45</td><td>I</td><td>75.03±3.36</td><td>9.11±0.34ab</td><td>3.99±0.95</td><td>0.328±0.002</td><td>0.249±0.003</td><td>1.255±0.037</td></tr><tr><td>天</td><td>II</td><td>74.85±8.06</td><td>8.87±0.33b</td><td>3.86±0.34</td><td>0.328±0.002</td><td>0.246±0.001</td><td>1.262±0.031</td></tr><tr><td>The 45th</td><td>IⅢI</td><td>77.46±5.63</td><td>8.89±0.28b</td><td>3.78±0.21</td><td>0.323±0.031</td><td>0.251±0.001</td><td>1.258±0.004</td></tr><tr><td>day</td><td>IV</td><td>70.49±4.16</td><td>9.07±0.44ab</td><td>4.02±0.75</td><td>0.321±0.026</td><td>0.249±0.001</td><td>1.253±0.006a</td></tr><tr><td></td><td>对照Control</td><td>77.21±4.43</td><td>9.48±0.33a</td><td>3.37±0.23</td><td>0.315±0.014b</td><td>0.239±0.013ab</td><td>1.265±0.031</td></tr><tr><td></td><td>I</td><td>79.82±7.76</td><td>9.07±0.33b</td><td>3.83±0.23</td><td>0.322±0.016ab</td><td>0.249±0.012a</td><td>1.262±0.003</td></tr><tr><td>第60 天</td><td>II</td><td>82.04±7.30</td><td>9.13±0.56b</td><td>3.52±0.72</td><td>0.323±0.016ab</td><td>0.235±0.020b</td><td>1.879±0.003</td></tr><tr><td>The</td><td>IⅢI</td><td>82.46±6.99</td><td>9.19±0.32b</td><td>3.93±0.14</td><td>0.329±0.018a</td><td>0.245±0.010ab</td><td>1.287±0.023</td></tr><tr><td>60th day</td><td>IV</td><td>79.83±3.94</td><td>9.07±0.37b</td><td>3.42±0.88</td><td>0.319±0.025ab</td><td>0.246±0.014ab</td><td>1.265±0.042</td></tr></table></body></html>
+
+同列数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5$ ），相同或无字母表示差异不显著（ ${ \cdot } P { > } 0 . 0 5$ ）。下表同。
+
+In the same column, values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ , while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ The same as below.
+
+# 2.3苜蓿皂苷对蛋鸡肝脏、肌肉抗氧化指标的影响
+
+由表4可以看出，GSH-Px活性依次为腿肌 $>$ 胸肌 $. >$ 肝脏，各组之间的肝脏、胸肌、腿肌GSH- $\mathbf { \cdot P x }$ 活性均差异不显著 $( P { > } 0 . 0 5 )$ 。各组之间的肝脏、胸肌、腿肌SOD活性均差异不显著 $( P { > } 0 . 0 5 )$ 。I、ⅡI、IⅢ和IV组的肝脏、胸肌MDA含量较对照组都有降低，但差异不显著$( P { > } 0 . 0 5 )$ ；I、ⅡI和II组的腿肌MDA含量较对照组都有降低，但差异不显著 $( P { > } 0 . 0 5 )$ 。饲粮添加 $1 2 0 ~ \mathrm { m g / k g }$ 苜蓿皂苷的II组的肝脏、胸肌和腿肌的GSH-Px、SOD活性均增加，MDA含量降低，但都没有达到显著水平 $( P { > } 0 . 0 5 )$ 。
+
+# 表4苜蓿皂苷对蛋鸡肝脏、肌肉抗氧化指标的影响
+
+Table 4 Effects of alfalfa saponins on liver and muscle antioxidant indices of laying hens
+
+<html><body><table><tr><td>项目</td><td>组别</td><td>谷胱甘肽过氧化物酶</td><td>超氧化物歧化酶</td><td>丙二醛</td></tr><tr><td>Items</td><td>Groups</td><td>GSH-Px/ (U/mg prot)</td><td>SOD/(U/mg prot)</td><td>MDA/(nmol/mg prot)</td></tr><tr><td rowspan="5">肝脏 Liver</td><td>对照Control</td><td>14.37±0.06</td><td>106.39±5.33</td><td>1.34±0.2ab</td></tr><tr><td>I</td><td>17.94±0.59</td><td>120.68±3.74</td><td>1.15±0.16b</td></tr><tr><td>II</td><td>16.60±1.74</td><td>115.00±3.71</td><td>1.27±0.11ab</td></tr><tr><td>III</td><td>16.08±2.44</td><td>119.16±4.74</td><td>1.12±0.05b</td></tr><tr><td>IV</td><td>13.99±0.49</td><td>104.00±1.85</td><td>1.56±0.39a</td></tr><tr><td></td><td>对照Control</td><td>112.82±23.06</td><td>30.81±6.72</td><td>0.77±0.16</td></tr><tr><td>胸肌 Breast</td><td>I</td><td>88.09±4.53</td><td>34.14±15.71</td><td>0.47±0.15</td></tr><tr><td>muscle</td><td>II</td><td>136.79±13.88</td><td>44.93±19.16</td><td>0.62±0.01</td></tr><tr><td rowspan="5">腿肌 Thigh muscle</td><td>III</td><td>141.71±17.39</td><td>39.49±13.05</td><td>0.52±0.24</td></tr><tr><td>IV</td><td>141.20±26.66</td><td>54.58±28.60</td><td>0.51±0.14</td></tr><tr><td>对照Control</td><td>505.38±30.91</td><td>108.85±28.37</td><td>1.33±0.19</td></tr><tr><td>I</td><td>802.21±82.85</td><td>92.83±21.77</td><td>1.08±0.08</td></tr><tr><td>II</td><td>829.98±63.07</td><td>109.14±61.35</td><td>1.27±0.63</td></tr><tr><td></td><td>IⅢI</td><td>1139.38±45.96</td><td>114.91±67.33</td><td>1.19±0.42</td></tr><tr><td></td><td>IV</td><td>429.17±27.83</td><td>164.86±87.79</td><td>1.46±0.68</td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1首蓿皂苷对蛋鸡生产性能的影响
+
+饲粮添加苜蓿皂苷组蛋鸡平均日采食量较对照组略有所降低，这可能是由于苜蓿皂苷的苦涩味以及对口腔与消化道的刺激作用造成了蛋鸡采食量下降。早在1959年Heywang等[10]就将苜蓿皂苷添加到蛋鸡饲粮中，结果表明蛋鸡饲粮中皂苷添加水平为 $0 . 2 6 \%$ 或$0 . 4 0 \%$ 时，鸡蛋产量和平均日采食量显著降低。侯永刚等[11研究发现，饲粮中添加30、60、 $9 0 ~ \mathrm { m g / k g }$ 苜蓿皂苷饲喂400日龄海蓝褐蛋鸡 $6 0 \mathrm { d }$ ，蛋鸡产蛋率、蛋品质与不添加苜蓿皂苷组相比均有所提高，料蛋比与对照组相比分别降低了 $1 . 8 \%$ ， $3 . 7 \%$ 和 $3 . 1 \%$ 。Dong 等[12]饲喂1日龄肉仔鸡苜蓿提取物，发现肉仔鸡的腹脂率降低，免疫力增强，而其生产性能并未受到影响。多数研究认为饲粮中添加苜蓿皂苷畜禽生产性能不会下降[1-14]，Anderson[15]发现，在饲粮中添加苜蓿皂苷可以提高蛋鸡的产蛋率。Guclu等[16]在鹑饲粮中添加苜蓿草粉后发现，饲粮添加 $9 \%$ 的首蓿草粉可以改善蛋壳质量而且对其生产性能无不良影响。张丽娜[17]指出，苜草素添加水平为500、 $\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 时，能显著提高蛋鸡的产蛋率和料蛋比。
+
+蛋鸡产蛋率受许多因素影响，其中血清极低密度脂蛋白（VLDL）与激素是影响产蛋率的2个重要指标。当血清VLDL含量低时，产蛋率就随之降低，而不是以减小卵黄体积来维持蛋鸡产蛋率[18]。卵泡刺激素（FSH）可在促黄体素（LH）协同作用下刺激卵泡成熟、排卵，抑制卵泡闭锁的发生，提高卵泡数量，增加蛋鸡产蛋率，蛋鸡后期产蛋率的下降就与血清中FSH与LH含量降低有关[19]。研究表明，饲粮添加苜蓿皂苷组的血清中VLDL含量较未添加的对照组都有降低[20]。本试验结果表明，饲粮添加苜蓿皂苷降低了蛋鸡的料蛋比，这与苜蓿皂苷组的采食量以及蛋重有关。
+
+# 3.2苜蓿皂苷对蛋鸡蛋品质的影响
+
+鸡蛋的品质不仅包括鸡蛋的外观质量，内部指标如哈氏单位、蛋黄颜色、蛋黄比例等也决定鸡蛋的好坏。哈氏单位是反映鸡蛋新鲜程度的重要指标，鸡蛋越新鲜，蛋白越浓稠且厚度越大，哈氏单位随之越大，一般新鲜鸡蛋哈氏单位的正常变化范围为 $7 5 \sim 8 5$ ，有的也可达 $9 0 ^ { [ 2 0 ] }$ 。蛋黄颜色一定程度上影响蛋禽的消费，消费者会认为蛋黄颜色深的鸡蛋品质越好，由于蛋鸡本身不能合成蛋黄色素沉积的物质——叶黄素，所以理想蛋黄颜色依赖于饲粮中叶黄素的质与量。本试验后期鸡蛋的哈氏单位大部分在正常范围内且苜蓿皂苷组的哈氏单位比对照组略大，说明苜蓿皂苷在一定程度有维持鸡蛋新鲜的作用。
+
+蛋壳厚度是最早用于评价蛋壳质量指标，也是一直作为评价蛋壳质量优劣的主要指标之一[21]。Deng等[22]在高产蛋鸡饲粮中添加苜蓿提取物后发现，鸡蛋蛋壳厚度得到改善。蛋壳厚度反映了蛋壳的致密程度，是反映蛋壳质量的重要指标，也是影响鸡蛋破损率的重要因素。Tyler[23]报道称，蛋壳厚度和蛋壳破损率之间存在显著的非线性关系。王修启等[24]认为，蛋壳的正常厚度为 $0 . 2 0 { \sim } 0 . 4 8 ~ \mathrm { m m }$ ，厚度微小的变化对蛋壳破损率有很大的影响。蛋鸡的周龄大，夏季高温及疫病感染等因素常会导致蛋壳厚度变薄，破蛋率升高。本试验蛋壳厚度都在正常值范围内，但苜蓿皂苷组整个试验期蛋壳强度有增加的趋势。
+
+蛋黄比例越大，鸡蛋的营养价值也就越高[25-26]。本试验结果表明，苜蓿皂苷对鸡蛋颜色无显著影响，苜蓿皂苷本身不含有叶黄素。但本试验后期（第60天）对照组的蛋黄颜色显著高于苜蓿皂苷组，蛋黄颜色随着苜蓿皂苷添加水平的增加而呈下降的趋势。
+
+蛋形指数关系到种蛋价值与破蛋率[27-30]。一般蛋形指数正常值在 $1 . 3 0 { \sim } 1 . 3 5$ 之间，大于1.35的细长形与小于1.30的球形都易在鸡蛋的运输与包装分级时破损。本试验的蛋形指数集中于 $1 . 2 5 \sim 1 . 2 7$ ，虽然较正常值偏小近似于球形蛋，说明苜蓿皂苷对鸡蛋的破损率无影响。
+
+3.3苜蓿皂苷对蛋鸡肝脏、肌肉抗氧化指标的影响
+
+体内脂质过氧化反应能引起冠心病与动脉粥样硬化等的发生与发展[3]。蛋鸡在笼养状态以及产蛋应激下，体内会有大量自由基产生，随着日龄的增长，蛋鸡清除自由基的能力也越来越弱，尤其是新陈代谢最旺盛的部位如卵巢、肝脏等最易受损。自由基是包含一个未成对电子的原子或原子团，它的性质很活泼，能与膜上的多价不饱和脂肪酸作用，发生脂质过氧化反应，导致细胞膜及亚微结构的损伤。内质网与高尔基体等肝细胞器的细胞膜发生脂质过氧化损伤，将会影响肝脏中VLDL的合成与转运，造成甘油三酯（TG）在肝脏堆积。卵巢损伤会使卵母细胞卵黄生成受体（OVR）及FSH、LH受体敏感性降低，造成脂肪代谢障碍。MDA是脂质过氧化反应的代谢产物，它的含量可反映体内脂质过氧化的程度。MDA还可氧化低密度脂蛋白（LDL）转为氧化低密度脂蛋白（OX-LDL），最后在血管形成血栓。SOD能清除超氧阴离子自由基（ $\mathrm { O } _ { 2 } .$ ）歧化为过氧化氢（ $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ ）和氧气C $\mathrm { O } _ { 2 }$ ），保护细胞免受损伤，它是动物体内对抗氧化平衡起着至关作用的蛋白质。如果体内缺乏SOD，体内细胞氧化代谢受到破坏导致细胞损伤。体内GSH-Px可清除线粒体、胞浆与脂类中的 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ ，将脂质过氧化产物转为较为稳定的羟基化合物（RHO），阻断脂质过氧化的自由基链式反应[32]，肝细胞可通过此途径使肝脏免受损伤。王成章等[33]报道，苜蓿皂苷降低了断奶仔猪血清MDA的含量。雒爱玲[34也发现，苜蓿皂苷能提高肉仔鸡腿肌与胸肌SOD活性，降低MDA含量。本研究结果同样发现，蛋鸡饲粮添加适量水平苜蓿皂苷有提高肝脏、胸肌和腿肌的GSH-Px、SOD活性且降低MDA含量的趋势。
+
+# 4结论
+
+$\textcircled{1}$ 蛋鸡饲粮中添加 $1 2 0 ~ \mathrm { m g / k g }$ 苜蓿皂苷降低了蛋鸡的平均日采食量和料蛋比，且蛋鸡的产蛋率没有下降，但蛋重有所降低。
+
+$\textcircled{2}$ 蛋鸡饲粮中添加苜蓿皂苷对蛋品质的影响没有明显规律，试验后期（第60天）饲粮添加苜蓿皂苷的 $\mathrm { ~ I ~ } { \sim } \mathrm { I V }$ 组蛋黄颜色显著降低。
+
+$\textcircled{3}$ 蛋鸡饲粮中添加 $1 2 0 ~ \mathrm { m g / k g }$ 苜蓿皂苷有提高肝脏、胸肌和腿肌的抗氧化指标的趋势。
+
+$\textcircled{4}$ 综合分析，蛋鸡饲粮中添加 $1 2 0 \mathrm { m g / k g }$ 的苜蓿皂苷效果较好。
+
+# 参考文献：
+
+[1] JOHNSTON N L,QUARLES C L,FAGERBERG D J,et al.Evaluation of yucca saponin on broiler performance and ammonia suppression[J].Poultry Science,1981,60(10):2289-2292.
+
+[2]王亚军,王秀利.人参茎叶皂苷对肉仔鸡生长性能和屠体品质的影响[J].中国家 禽,2007,29(10):38–40,41.
+
+[3]步长英.丝兰皂甙、芽孢杆菌对肉鸡生产性能、氮代谢和排泄物氨气散发量的影响[D].硕士学位论文.泰安：山东农业大学，2008:42-54.
+
+[4]章学东,汤丽萍,钱定海.苜蓿在养鸡生产中应用的研究进展[J].中国家禽,2007,29(23):36-39.
+
+[5] SEN S,MAKKAR H P,BECKER K.Alfalfa Saponins and Their Implication in Animal Nutrition[J].Journal of Agricultural and Food Chemistry,1998,46(1):131-140.
+
+[6] CHEEKE P R.Biological effects of feed and forage saponins and their impacts on animal production[J].Advances in Experimental Medicine & Biology,1996,405:377-385.
+
+[7] CHEEKE P R,PIACENTE S,OLESZEK W.Anti-inflammatory and anti-arthritic effects of yucca schidigera:a review[J].Journal of Inflammation,20o6,3(1):6.
+
+[8] MILGATE J,ROBERTS D C K.The nutritional & biological significance of saponins[J].Nutrition Research,1995,15(8):1223-1249.
+
+[9] RAO A V,GURFINKEL D M.The bioactivity of saponins:triterpenoid and steroidal glycosides[J].Drug Metabolism & Drug Interactions,2000,17(1/2/3/4):211-235.
+
+[10] HEYWANG B W,THOMPSON C R,KEMMERER A R.Effect of alfalfa saponin on laying chickens[J].Poultry Science,1959,38(4):968-971.
+
+[11]侯永刚,陈辉,黄仁录,等.苜蓿皂甙对蛋鸡生产性能、屠体指标、胆固醇及血清脂质的影响[J].中国畜牧杂志,2009,45(17):30-33.
+
+[12] DONG X F,GAO W W,TONG J M,et al.Effect of polysavone (alfalfa extract) on abdominal fat deposition and immunity in broiler chickens[J].Poultry Science,2007,86(9):1955-1959.
+
+[13]王长康,刘昊,邵良平.苜草素对蛋鸡生产性能和血液生化指标的影响[J].福建农业学 报,2006,21(3):215-218.
+
+[14]侯永刚.苜蓿皂甙对蛋鸡生产性能、胆固醇及肠道主要菌群的影响[D].硕士学位论文.保定：河北农业大学，2009:19-27.
+
+[15] ANDERSON J O.Effect of alfalfa saponin on the performance of chicks and laying hens[J].Poultry Science,1957,36(4):873-876.
+
+[16] GUCLU B K,iSCAN K M,UYANIK F,et al.Effect of alfalfa meal in diets of laying quails on performance,eggquality and some serum parameters[J].Archives of Animal Nutrition,2004,58(3):255-263.
+
+[17]张丽娜.苜草素对蛋鸡生产性能及其鸡蛋与组织脂质的影响[D].硕士学位论文.扬州：扬州大学,2010:16-19.
+
+[18] SHIVAPRASAD H L,JAAP R G.Egg and yolk production as influenced by liver weight,liver lipid andplasma lipid in three strainsofsmall bodied chickens[J].Poultry Science,1977,56(5):1384-1390
+
+[19] CICCONE N A,SHARP P J,WILSON P W,et al.Changes in reproductive neuroendocrine mRNAs with decreasing ovarian function in ageing hens[J].General and Comparative Endocrinology,2005,144(1):20-27.
+
+[20]李佳.苜蓿皂苷对蛋鸡胆固醇代谢影响[D].硕士学位论文.郑州:河南农业大学,2012:14-29. [21] KHATKAR M S,SANDHU J S,BRAH G S,et al.Estimation of egg shell breaking strength from egg characteristics in layer chickens[J].Indian Journal of Poultry Science,1997,32:111-113.
+
+[22] DENG W,DONG X F,TONG J M,et al.Effects of an aqueous alfalfa extract on production performance,egg quality and lipid metabolism of laying hens[J].Journal of Animal Physiology and Animal Nutrition,2012,96(1):85-94
+
+[23] TYLER C.Shell strength:its measurement and its relationship to other factors[J].British Poultry Science,1961,2(1/2/3):3-19.
+
+[24]王修启,郑海刚,安汝义,等.影响蛋壳质量的因素及改善措施[J].中国家禽,1999(7):39-40.
+
+[25]曲湘勇,中岛隆.天然着色剂提高蛋黄色泽度的比较研究[J].中国畜牧杂志,1999,35(2):29-31.
+
+[26]郭文凯,陈志峰,霍明东,等.籽鹅种蛋蛋重与蛋形指数对孵化效果影响的研究[J].中国畜牧兽医,2016,43(10):2710-2715.
+
+[27]张慧君,李福林.蛋形指数对孵化效果的影响[J].北方农业学报,2008(2):65-66.
+
+[28]姜小雨，张子元，吴勇，等.蛋形指数蛋重及种蛋贮放对孵化率的影响[J].四川畜牧兽 医,1991(2):16-17.
+
+[29]房兴堂,邹俊国.蛋型指数对孵化率的影响[J].中国畜牧杂志,1992,5(1):5-6.
+
+[30]吴华东，吴志青,舒邓群.鸿雁蛋重和蛋形指数对种蛋孵化率影响的研究[J].江西畜牧兽医杂志,2010(5):14-15.
+
+[31] KEANEY J F,Jr.,VITA J A.Atherosclerosis,oxidative stress,and antioxidant protection in endothelium-derived relaning factor action[J].Progress in Cardiovascular Diseases,1995,38(2):129-154.
+
+[32] CAMANDOLA S,POLI G,MATTSON M P.The lipid peroxidation product 4-hydroxy-2,3- nonenal increases ap-1-binding activity through caspase activation in neurons[J].Journal of Neurochemistry,2000,74(1):159-168.
+
+[33]王成章，王彦华,史莹华,等.苜蓿皂苷对断奶仔猪脂质代谢、抗氧化和免疫的影响[J].草业 学报,2011,20(4):210-218.
+
+[34]雒爱玲.苜蓿皂甙和大黄素对肉仔鸡生长性能、肉品质及胆固醇代谢影响研究[D].硕士学位论文.郑州：河南农业大学，2008：16-30.
+
+Effects of Alfalfa Saponins on Performance, Egg Quality and Antioxidant Capacity of Laying Hens
+
+FAN Wennal WANG Zhanbin1 LI Runlin1 LI Jia² LI Dongdong² WANG Chengzhang2\* (1.College ofAnimal Science and Technology,Henan University ofScience and Technology, Luoyang 471003, China; 2. College ofAnimal Science and Veterinary Medicine,Henan Agricultural University, Zhengzhou, 450002, China)
+
+Abstract: This experiment was conducted to investigate the effect of alfalfa saponins on performance, egg quality and antioxidant capacity of laying hens. A total of 150 Hy-Line brown laying hens at 190-day-old were randomly divided into 5 groups with 5 replicates per group and 6 birds per replicate. Hens in the control group were fed a basal diet, and the others in the groups I to $\mathrm { I V }$ were fed the basal diets supplemented with 60, 120, 240 and $4 8 0 ~ \mathrm { m g / k g }$ alfalfa saponins, respectively. The experiment lasted for 77 days. The results showed as folows: 1) the average daily feed intake and ratio of feed to egg of group II were significantly lower than that of control group ( $P { < } 0 . 0 5$ ） , the egg weight of groups II and II was significantly lower than that of control group ( $P { < } 0 . 0 5 ~ \cdot$ ）, there were no significant differences on laying rate among all groups （ $P { > } 0 . 0 5$ ）.2)At the $3 0 ^ { \mathrm { t h } }$ day, the egg yolk color of group $\mathrm { I V }$ was significantly lower than that of control group( $P { < } 0 . 0 5$ ）；at the $4 5 ^ { \mathrm { t h } }$ day, the egg yolk color of groups II and II was significantly lower than that of control group( $P { < } 0 . 0 5$ ）；at the $6 0 ^ { \mathrm { { t h } } }$ day, the egg yolk color of groups I， I, II and $\mathrm { I V }$ was significantly lower than that of control group( $P { < } 0 . 0 5$ ）.3) The glutathione peroxidase and superoxide dismutase activity and malondialdehyde content in liver, breast muscle and leg muscle of groups I， I, III and $\mathrm { I V }$ had no significant difference compared with the control group $( P { > } 0 . 0 5 )$ . Comprehensive analysis of all indices, under the condition of this experiment, dietary suitable alfalfa saponins supplemental level is $1 2 0 \mathrm { m g / k g }$
+
+Key words: alfalfa saponin, laying hens, performance, egg quality, antioxidant capacity

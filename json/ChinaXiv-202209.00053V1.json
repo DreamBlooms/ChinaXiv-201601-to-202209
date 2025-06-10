@@ -1,0 +1,505 @@
+[
+    {
+        "type": "text",
+        "text": "中国肠道传染病流行特征及空间聚集性分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "林小丹，毛秀华，姚卫光基金项目：广东省高校哲学社会科学重点实验室：公共卫生政策研究与评价资助项目（2015SWSYS0010）；广州公共卫生服务体系建设研究基地资助项目（2021-2023）510515广东省广州市，南方医科大学卫生管理学院\\*通信作者：姚卫光，教授，硕士生导师；E-mail：469342532@qq.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】目的 分析 2008—2018年中国肠道传染病的流行病学特点、空间分布及聚集性特征，为优化肠道传染病的防控策略提供依据。方法 采用描述性流行病学、空间自相关及时空聚集性分析方法对 2008—2018年中国肠道传染病的监测数据进行时空流行病学特征分析，确定疫情防控的季节和重点地区。结果 2008—2018 年中国肠道传染病累计报告3 220 480 例，年均发病率为 $7 . 2 5 / 1 0$ 万，发病率整体呈下降趋势。伤寒和副伤寒、痢疾发病高峰为5—10月，病毒性肝炎无明显季节性规律。肠道传染病呈明显的空间聚集性分布，西南地区为伤寒和副伤寒高发病率聚集区，西北内陆为病毒性肝炎高发病率聚集区，京津两地为痢疾高发病率聚集区。时空扫描统计结果显示，三类肠道传染病均呈较明显的时空聚集性。伤寒和副伤寒I类聚集区域在云南，时间为2009—2013年；病毒性肝炎Ⅰ类聚集区分布在以西藏为中心的9个地区，时间为2008—2011年；痢疾Ⅰ类聚集区域在北京和天津，时间为2008—2012年。结论 中国肠道传染病发病明显下降，防制效果显著，且存在明显的时空聚集性。建议以此为指导，确定重点防控区域，根据不同聚集模式制定防控策略。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】肠道传染病；时空分布特征；流行病学；空间自相关；时空扫描【中图分类号】R181【文献标志码】",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Analysis of the epidemiologicalcharacteristics and spatial aggregationof intestinal infectious diseases in China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIN Xiaodan， MAO Xiuhua， YAO Weiguang\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "School of Health Management，Southern Medical University，Guangzhou 510515，China \\*Corresponding author: YAo Weiguang， Professor， Master supervisor; $E$ mail: 469342532@qq.com 【Abstract】Objective To analyze the epidemiological characteristics,spatial distributionand aggregation featuresof intestinalinfectious diseases in China from 28 to2O18,and to provide areferencebasis foroptimizing the preventionand control strategiesof intestinal infectiousdiseases.MethodsDescriptiveepidemiologyspatialautocorelation,andspatial andtemporal aggregation analysis wereused toanalyze the spatio-temporal epidemiological characteristics of surveilance dataof intestinalinfectious diseases inChinafrom 2Oo8 to2O18,andtodeterminethe seasonsandkeyregions forepidemic preventionand control. ResultsAcumulative totalof3,220,480 cases of enteric infectious diseases were reported in China from2008 to2018,withanaverageannual incidencerateof7.25/10oO00andanoveralldecreasing trendin incidence. The peak incidence of typhoid and paratyphoid feverand dysenterywas from Mayto October,while viral hepatitis had no obvious seasonality..The spatial aggregation distributionof intestial infectious diseases was obvious,with high incidence of typhoidandparatyphoidinthesouthwest,highincidenceofviralhepatitis inthe inland northwest,andhighincidenceof dysentery in Beijingand Tianjin.Theresultsof the spatio-temporal scan statistics showedthat allthreetypes of enteric infectious diseases showed a more pronounced spatio-temporal aggregation.Typhoid and paratyphoid fever Iclusters were inYunnan from2009 to2O13;viralhepatitisIclustersweredistributed innineregions centeredinTibetfrom208 to 2011; dysenteryIclusters were in Beijingand Tianjin from 2O08 to20l2.Conclusion The incidence of intestinal infectious diseases in China has decreased significantlyand thepreventionand control efect is remarkable,andthere isobvious spatialand temporal aggregation.Iisrecommended tousethis asa guide to identify keyprevention andcontrolareas and to develop prevention and control strategies according to different aggregation patterns. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【Key words】Enteric infectious diseases；spatial and temporal distribution characteristics；epidemiology；spatial autocorrelation; spatial and temporal scan ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "肠道传染病是由多种细菌、病毒和寄生虫引起，以恶心、呕吐、腹痛、腹泻为主要症状的经消化道传播的疾病[1]。此类疾病对各年龄段人群普遍易感，具有传染性强，传播途径广泛而复杂，疾病负担重等特点[2-4]。随着经济社会的发展、生态环境和人类行为方式的变化、各项卫生防控措施的落实，肠道传染病的流行特征发生了较大的变化，但仍长期高居我国甲乙类法定报告传染病首位。中国疾病预防控制信息系统传染病监测系统显示，2018年全国（不含香港、澳门和台湾地区）报告肠道传染病发病162322例，发病率为11.69/10万，按传播途径位居甲乙类传染病首位5，可见肠道传染病疫情形势仍较严峻，是我国主要的公共卫生问题之一。因此，动态追踪我国肠道传染病的变化趋势和不同类型疾病的流行病学特征仍是迫切的需求。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "既往研究对肠道传染病病原学与流行特征进行了分析，包括不同类型肠道传染病时间序列分析及预测4；按不同性别、年龄和职业划分某类肠道传染病发病率的变化趋势和季节性规律8；通过空间统计方法，分析特定时间范围内某一空间尺度下肠道传染病分布的时空聚集性及空间分布模式研究[4,910]。以市（县）为空间尺度的研究[,8,10]居多，全国范围、长时间序列的时空聚集分析较少。基于此，本研究分析我国 2008—2018年肠道传染病（伤寒和副伤寒、病毒性肝炎、痢疾）流行病学特点，以较大的空间尺度和时间跨度，结合时空扫描与地理信息系统，分析我国肠道传染病的时空分布特征，探索时空聚集范围和时空聚集性的变化趋势，为肠道传染病的预防控制工作提供参考依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1资料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 资料来源",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "我国甲乙类法定报告肠道传染病包括霍乱、脊髓灰质炎、伤寒和副伤寒、病毒性肝炎（甲型、戊型和未分型肝炎）、痢疾5种类型3]，鉴于霍乱和脊髓灰质炎发病率极低，本研究仅对伤寒和副伤寒、病毒性肝炎、痢疾进行分析。数据来源于中国疾病预防控制中心发布的法定传染病报告[11]，以 2008年1月至 2018年12月中国31个省、自治区和直辖市（未包括港澳台地区）发生的共3220480例肠道传染病疫情和发病率作为研究数据。同期人口数据来源于《中国统计年鉴》（2009—2019）[12]。全国行政区矢量地图及经纬度坐标通过国家基础地理信息中心获取[13]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1描述性分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以发病数、发病率等为主要指标对肠道传染病的流行病学特征进行描述分析。采用x²趋势性检验进行发病率的趋势分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2空间自相关",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "空间自相关分析主要研究空间中要素单元是否与其相邻要素单元存在相关性，是度量要素单元聚集程度的方法  \n[14]，包括全局空间自相关分析和局部空间自相关分析。其中全局自相关反映肠道传染病发病在整个区域空间上的分  \n布特征，通过计算全局Moran's $\\boldsymbol { I }$ 值和 $P$ 值判断发病属于集聚、分散、随机三者中的何种分布状态。Moran's $\\boldsymbol { I }$ 值的取  \n值范围为[-1,1]，正值表示各地区发病呈空间正相关；负值则表示各地区发病呈空间负相关[15]。Moran's $I$ 值的大小  \n表示集聚趋势的强度。并对全局Moran's/值进行Z检验， $P$ 值 ${ > } 0 . 0 5$ 说明发病率空间分布状态为随机分布； $P$ 值 $< 0 . 0 5$   \n表示发病率空间分布为非随机分布。全局Moran's $I$ 值的计算公式如下[14]: $I = \\frac { \\displaystyle { \\sum _ { \\mathrm { i = 1 } } ^ { \\mathrm { n } } \\sum _ { \\mathrm { j = 1 } } ^ { \\mathrm { n } } W _ { \\mathrm { i j } } \\big ( { \\bf x } _ { \\mathrm { i } } - { \\overline { { \\bf x } } } \\big ) \\big ( { { { \\bf x } } _ { \\mathrm { j } } } - { \\overline { { \\bf x } } } \\big ) } } { \\displaystyle { \\sum _ { \\mathrm { i } } ^ { \\mathrm { n } } \\sum _ { \\mathrm { j } } ^ { \\mathrm { n } } W _ { \\mathrm { i i } } \\sum _ { \\mathrm { i = 1 } } ^ { \\mathrm { n } } \\big ( { { { \\bf x } } _ { \\mathrm { i } } } - { \\overline { { \\bf x } } } \\big ) ^ { 2 } } }$ ，其中， $\\mathfrak { n }$ （204号Moran's1=j",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为省级行政区的数量， $\\textsf { x }$ 为某一类型病种的发病率， $\\mathsf { W } _ { \\mathrm { i j } }$ 表示第i，j区域的空间权重矩阵。局部空间自相关可探究肠道传染病发病在局部区域上的空间分布特征，绘制空间关联局部指标（localindicators of spatial association,LISA）聚集性地图显示，分为4种模式，即“高一高聚集”、“低—低聚集”、“低一高聚集”和“高—低聚集”[16]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3时空扫描统计量",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "时空扫描统计[17用于识别疾病的高发地区和聚集时间。本研究基于离散型 Poisson 分布模型[18]，以圆柱高为时间，底部为地理区域构建动态圆柱形窗口，通过扫描窗口的移动对肠道传染病发病进行扫描统计，计算每个扫描窗□的预期发病例数，根据实际和预期发病例数计算对数似然比（Log Likelihood Ratio, $L L R$ ）和相对危险度（Relative Risk,RR）来判断不同时间和地理位置发病的聚集程度[17]。计算公式为： $L L R = \\log \\left\\{ ( { \\frac { C } { \\mathbf { n } } } ) ^ { c } \\left[ { \\frac { ( C - c ) } { ( C - n ) } } \\right] ^ { ( c - c ) } \\right\\}$ [(C-c)]-]。其中C为研究周期某一类型病种的总发病例数，c为扫描窗口内该病种的实际发病例数， $\\mathfrak { n }$ 为扫描窗口内该病种的预期发病例数。RR值是该聚集区内外发病风险之比。结合多数传染病研究与数据统计特征进行相关参数的设置，即设定 $2 5 \\%$ 的风险人口数作为 Kuldorff 圆形扫描统计量中最大空间扫描窗口的适宜尺度，运用蒙特卡罗模拟999 次进行统计学检验，选取LLR值最大且 ${ \\sf P } { < } 0 . 0 1$ 的扫描窗口为I类聚集区。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3统计分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Excel 2019 和SPSS 26.0软件用于描述性分析。选择 2008、2013、2018年3个时间节点，使用ArcGIS 10.8软件绘制发病率分级地图和 LISA集聚地图。时空扫描分析使用 SaTScan (v10.0.2)软件。检验水准 $\\scriptstyle \\mathtt { \\alpha } = 0 . 0 5$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1肠道传染病流行特征 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2008—2018年中国肠道传染病累计报告3220 480例，年均发病率为7.25/10万，整体呈下降趋势（ $_ { P < 0 . 0 1 }$ ）。其中，伤寒和副伤寒991336例，占 $3 0 . 7 8 \\%$ ，发病率由2008 年的1.18/10万下降至2018 年的0.78/10万，病毒性肝炎142490例，占 $4 . 4 2 \\%$ ，发病率由 2008 年的9.81/10 万下降至 2018 年的4.34/10万，痢疾2086 654例，占 $6 4 . 7 9 \\%$ ，发病率由2008 年的 $2 3 . 6 5 / 1 0$ 万下降至2018年的 $6 . 5 6 / 1 0$ 万。见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/cd2ca857427ffa2394aa797b724fcdfdfb66c65fd38ad3250a930f9f30d0d4d6.jpg",
+        "table_caption": [
+            "表12008—2018年中国肠道传染病的报告发病概况",
+            "Table 1 Overview of reported incidence of enteric infectious diseases in China, 2008-20 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">年份</td><td colspan=\"2\">伤寒和副伤寒</td><td colspan=\"2\">病毒性肝炎</td><td colspan=\"2\">痢疾</td></tr><tr><td>发病数</td><td>发病率(/10万)</td><td>发病数</td><td>发病率(/10万)</td><td>发病数</td><td>发病率(/10万)</td></tr><tr><td>2008</td><td>15 641</td><td>1. 18</td><td>129 649</td><td>9.81</td><td>312 522</td><td>23.65</td></tr><tr><td>2009</td><td>16 938</td><td>1. 28</td><td>113 564</td><td>8.55</td><td>271 551</td><td>20. 45</td></tr><tr><td>2010</td><td>14 041</td><td>1. 05</td><td>104 361</td><td>7.82</td><td>252 248</td><td>18.90</td></tr><tr><td>2011</td><td>11 798</td><td>0.88</td><td>105 137</td><td>7.84</td><td>237 930</td><td>17. 74</td></tr><tr><td>2012</td><td>11 998</td><td>0.89</td><td>92 092</td><td>6.84</td><td>207429</td><td>15.40</td></tr><tr><td>2013</td><td>14 136</td><td>1. 04</td><td>85 743</td><td>6.33</td><td>188 669</td><td>13.93</td></tr><tr><td>2014</td><td>13 768</td><td>1. 02</td><td>84 516</td><td>6.24</td><td>153 585</td><td>11. 33</td></tr><tr><td>2015</td><td>11 637</td><td>0.85</td><td>76 834</td><td>5.64</td><td>138 917</td><td>10.20</td></tr><tr><td>2016</td><td>10 899</td><td>0.80</td><td>71 968</td><td>5.25</td><td>123 283</td><td>8.99</td></tr><tr><td>2017</td><td>10 791</td><td>0.78</td><td>67173</td><td>4.87</td><td>109 368</td><td>7. 93</td></tr><tr><td>2018</td><td>10 843</td><td>0.78</td><td>60 299</td><td>4.34</td><td>91152</td><td>6.56</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2008—2018年肠道传染病每月均有病例报告，发病趋势呈现流行强度逐年减弱的特点。其中，伤寒和副伤寒、痢疾发病具有较强的季节性，历年发病呈单峰流行的特征，5一10月病例数分别占总病例数的 $6 3 . 4 6 \\%$ 、 $7 0 . 8 0 \\%$ ，其中6一9月达到发病高峰，病例数分别占总病例数的 $4 4 . 7 0 \\%$ 、 $5 2 . 6 3 \\%$ 。病毒性肝炎无明显季节性规律，1一6月为发病高峰，历年病例数占总病例数的 $5 3 . 0 4 \\%$ ，近几年出现发病高峰随时间后移的现象。见图1。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b7af9e0d277b4c43c8d0eb5d90b105d9979ff9f9577872e0df63ab53cdb4c5a9.jpg",
+        "img_caption": [
+            "图12008—2018年中国肠道传染病月发病率趋势图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 Monthly incidence trends of intestinal infectious diseases in China, 2008-201& ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2肠道传染病发病率的空间分布",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "肠道传染病呈散发流行，各地区均出现了不同程度的疫情，见图2。具体表现为：伤寒和副伤寒高发区域集中在西南地区，云南、贵州、广西的疫情较为严重，而黑龙江、吉林、山东等地的疫情持续保持低发水平。病毒性肝炎高发区域集中在西部地区，东、中部地区有少部分省市发病率较高，西藏、青海、湖北、新疆为高发病率地区，内蒙古、河北、河南等地为低发病率地区。痢疾高发病率地区主要集中在北京和天津，新疆、宁夏、西藏的疫情较为严重，广东、福建、海南等东部沿海地区的疫情持续保持低发水平。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c15a3294486650c9c5eff34565f33f26cb53cbf67f5876705e425d11355ded08.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "该图基于自然资源部标准地图服务网站下载的审图号为GS（2020）4619的标准地图制作，底图无修改",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 Spatial distribution of the incidence of intestinal infectious diseases in China,2008-2018 2.3 肠道传染病发病率的空间聚集性分析 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "全局空间自相关分析结果显示，2008—2018 年伤寒和副伤寒、病毒性肝炎、痢疾发病率的全局Moran's /值均为正值，介于0.06—0.24之间。经检验，除 2014年伤寒和副伤寒发病率、2016 年病毒性肝炎发病率以外，其余年份 $P$ 值 $< 0 . 0 5$ ，有统计学意义，表明肠道传染病发病率在全国范围内存在空间正相关关系，且具有较显著的空间聚集性，而非随机分布。由表2可看出，2008—2014年伤寒和副伤寒的Moran'sI值从0.15下降至0.06，随后出现大幅度上升，从0.06大幅度上升至0.22，表示伤寒和副伤寒在全国的空间聚集性由相对较弱转变为相对较强。相比之下，病毒性肝炎发病率的空间聚集性呈先下降后上升的趋势，Moran'sI值由2008年的0.24下降至2016年的0.07，又上升至2018年的0.19，总体来看空间聚集性有所减弱。痢疾发病率的空间聚集性较强，历年 Moran'sI值发展较为平稳，在0.17—0.24 之间波动。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/e13ed41811ab42078807ae65eef0a2b6d276cfb22eb25fccee13cdaee527ded7.jpg",
+        "table_caption": [
+            "表22008—2018年中国肠道传染病发病率全局空间自相关分析",
+            "Table 2 Global spatial autocorrelation analysis of the incidence of enteric infectious diseases in China,200: "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">年份</td><td colspan=\"2\">伤寒和副伤寒</td><td colspan=\"2\">病毒性肝炎</td><td colspan=\"2\">痢疾</td></tr><tr><td>Moran'sI值</td><td>P值</td><td>Moran'sI值</td><td>P值</td><td>Moran'sI值</td><td>P值</td></tr><tr><td>2008</td><td>0.15</td><td>0.003</td><td>0.24</td><td><0.001</td><td>0.20</td><td>0.001</td></tr><tr><td>2009</td><td>0.13</td><td>0.004</td><td>0.24</td><td><0.001</td><td>0.18</td><td>0.001</td></tr><tr><td>2010</td><td>0.11</td><td>0.009</td><td>0.17</td><td>0.004</td><td>0.19</td><td><0.001</td></tr><tr><td>2011</td><td>0.13</td><td>0.002</td><td>0.20</td><td>0.002</td><td>0.24</td><td><0.001</td></tr><tr><td>2012</td><td>0.11</td><td>0.002</td><td>0.19</td><td>0.002</td><td>0.24</td><td><0.001</td></tr><tr><td>2013</td><td>0.10</td><td>0.009</td><td>0.16</td><td>0.009</td><td>0.22</td><td><0.001</td></tr><tr><td>2014</td><td>0.06</td><td>0.055</td><td>0.09</td><td>0.046</td><td>0.24</td><td><0.001</td></tr><tr><td>2015</td><td>0.13</td><td>0.003</td><td>0.15</td><td>0.008</td><td>0.23</td><td><0.001</td></tr><tr><td>2016</td><td>0.18</td><td>0.001</td><td>0.07</td><td>0. 128</td><td>0.23</td><td><0.001</td></tr><tr><td>2017</td><td>0.19</td><td><0. 001</td><td>0.13</td><td>0.031</td><td>0.22</td><td><0.001</td></tr><tr><td>2018</td><td>0.22</td><td><0. 001</td><td>0.19</td><td>0.004</td><td>0.17</td><td>0.001</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "局部空间自相关分析结果显示，肠道传染病发病率呈较明显的空间演变特征。具体为，伤寒和副伤寒“高一高聚集区”集中分布在西南地区（贵州、云南），并向东部临近省份地区（广西、湖南）辐射，“低一低聚集区”的范围较大，主要分布在内蒙古和内蒙古周围省份，四川、海南呈现低高聚集特征，新疆、山西为2013 和2018 年的“高—低聚集区”。病毒性肝炎的“高一高聚集区”主要分布在西部内陆（西藏、青海、新疆），“低—低聚集区”主要分布在内蒙古、河北、北京等华北地区。辽宁、江苏、山西呈现高低聚集特征。痢疾方面，北京、天津在 2013年呈现高高聚集特征，随着时间变化，天津的高高聚集特征逐渐消失，“低—低聚集区”集中分布在东、中部地区（浙江、江西、湖南、福建），且范围有向南部临近省份（广东、广西、海南）逐渐扩大的趋势，“低一高聚集区”主要分布在内蒙古、山西、河北等华北地区。见图3。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/91b673006ebd4b05b179c22d8126689a2edacb39fa2b944e3f050aae48974003.jpg",
+        "img_caption": [
+            "该图基于自然资源部标准地图服务网站下载的审图号为GS（2020）4619 的标准地图制作，底图无修改",
+            "图32008一2018年中国肠道传染病发病率LISA聚集模式地图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 Map of the LISA aggregation pattern of the incidence of enteric infectious disease 2008-2018 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4时空扫描分析",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "按省市、以年为周期对 2008—2018年中国肠道传染病数据进行逐年时空扫描，数据结果显示，肠道传染病发病在时空上存在明显聚集性。伤寒和副伤寒发病的I类聚集区位于 2009—2013 年，主要分布在云南， $R R = 1 2 . 4 4$ 。病毒性肝炎的I类聚集区位于2008—2011年，主要分布在西部地区，覆盖9个省市（西藏、青海、四川、云南、甘肃、重庆、新疆、贵州、宁夏），最大扫描半径为1679.46km， $R R { = } 1 . 9 1$ 。痢疾的I类聚集区位于2008一2012年，主要分布在北京和天津，最大扫描半径为108.31km， $R R = 7 . 5 7$ 。见表3。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d6ae4d8b051918b19ff9d8e20913277f07b6a4c0e0c8a22097dbf43ea0faf2b7.jpg",
+        "table_caption": [
+            "表32008一2018年中国肠道传染病逐年时空扫描结果",
+            "ible 3 Results of year-by-year temporal scan of enteric infectious diseases in China， 2008-2l "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>疾病名称</td><td>聚集时间 （年）</td><td>聚集中心[扫描 半径（km）]</td><td>涉及省 （市）数</td><td>实际发 病数</td><td>理论发病 数</td><td>RR值</td><td>LLR值</td><td>P值</td></tr><tr><td>伤寒和副伤寒</td><td>2009- 2013</td><td>云南(0)</td><td>1</td><td>23 375</td><td>2 213.53</td><td>12.44</td><td>35 618.36</td><td><0.001</td></tr><tr><td>病毒性肝炎</td><td>2008- 2011</td><td>西藏（1679.46）</td><td>9</td><td>122 748</td><td>68 208.18</td><td>1.91</td><td>19 226.94</td><td><0.001</td></tr><tr><td>痢疾</td><td>2008- 2012</td><td>北京（108.31）</td><td>2</td><td>152 409</td><td>21 499.05</td><td>7.57</td><td>171 831.80</td><td><0.001</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究基于 2008－2018年中国肠道传染病的监测数据进行分析，总结三类肠道传染病的流行病学特征、明确疫情高发地区和时空聚集特征，为不同地区肠道传染病聚集风险研判、预警及防控策略的制定提供依据。研究发现，2008一2018 年中国肠道传染病年均发病率为 $7 . 2 5 / 1 0$ 万，发病率整体呈下降趋势，与朱斌等报道的甲乙类法定传染病变化趋势一致，表明肠道传染病预防控制取得了一定的成效[]。但整体防控形势依然严峻，其中痢疾累计报告病例数占肠道传染病累计报告病例总数的 $6 4 . 7 9 \\%$ ，在各年度肠道传染病中位居首位，提示痢疾是肠道传染病防治工作的重点。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "时间分布上，肠道传染病发病存在较明显的季节性，不同类型的肠道传染病高发季节略有差异。伤寒和副伤寒、痢疾流行于夏秋季，高发季节为5一10月，占总病例数的 $6 3 . 4 6 \\%$ 和 $7 0 . 8 0 \\%$ ，6一9月达到发病高峰，占总病例数的$4 4 . 7 0 \\%$ 和 $5 2 . 6 3 \\%$ 。发病季节变化趋势与孟银平[7]、史芸萍[1]等的研究结果类似，各地区发病高峰略有不同，但都集中在6—9月份。受我国自然环境、气候条件等因素的影响，每年3月份气温逐渐回升，病毒易存活及传播，伤寒和副伤寒、痢疾的发病数也开始上升。而夏秋季节多数地区相对比较湿热，高温持续时间长，降雨频率与雨量同步增长，使得肠道病原体活跃度升高[20]。此外，夏秋季节盛产蔬菜水果，食物在湿热环境下极易腐烂，滋生苍蝇和蟑螂[21]，增加了发病风险。病毒性肝炎周期性和季节性发病不明显，1一6 月为发病高峰，历年病例数占总病例数的$5 3 . 0 4 \\%$ ，发病高峰有随时间后移的现象。与沙小兰等的研究结果相近。可能原因是甲肝疫苗的推广使用，群体性免疫屏障的形成[22]，及各地区疫情防控的强化，促使大范围的病毒性肝炎暴发疫情得到控制。但各地区病毒性肝炎的季节性并不统一，且不同类型肝炎发病可能存在一定的周期性规律，如孙校金等[23的研究认为戊肝的3月份为戊肝的发病季节，而肖正斌等[24的研究认为上海市戊肝发病呈周期性波动。提示相关部门应结合肠道传染病的季节性流行趋势制定针对性的防控措施，进一步降低发病水平。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "肠道传染病发病率空间分布图显示，伤寒和副伤寒高发区域主要分布在西南地区，云南、贵州、广西的疫情较为严重；病毒性肝炎高发区域集中在西部地区，西藏、青海、湖北、新疆为高发病率地区；痢疾高发病率地区主要集中在北京和天津。为探究肠道传染病在空间上的相关性，进一步揭示空间聚集区域随时间变化的规律，本研究将空间自相关分析和时空扫描统计相结合对我国肠道传染病的时空分布进行分析。空间自相关分析结果显示，肠道传染病发病率呈现显著的空间聚集性。其中伤寒和副伤寒发病的热点区域集中在西南地区的云南、贵州，并随着时间变化逐渐向广西、湖南、广东辐射，病毒性肝炎发病的热点区域集中在西部内陆地区的西藏、青海、新疆，痢疾发病的热点区域在京津地区，与高发病率地区分布基本一致，可见肠道传染病呈现较为明显的区域化特征，故应重点关注疫情聚集区域的动态变化，加强对高发病聚集区的监测。但原云霄等人[25报道指出，中国传染病发病率呈现对角线分布，西北至东南地区发病率较高、东北至西南地区发病率较低，最低和最高发病率均位于对角线两端，推测可能与疾病的类型及环境因素差异等有关。西南地区处于中低纬度，地形复杂容易出极端气候，细菌、病毒发生变异的可能性大，另外云南当地居民喜食冷饮凉菜7]，南部沿海地区居民饮食偏好野味[25]、生鲜刺身、饮用生水，容易引起伤寒和副伤寒疫情的暴发和扩散。病毒性肝炎集中分布在西部内陆地区的原因可能与当地经济发展相对落后，医疗卫生机构传染病诊断不规范，疫苗接种覆盖率低，人们居住条件差，且存在不良的卫生习惯[2等有关。京津地区经济较为发达，传染病监测系统敏感性高，疾病确诊率增加，另外该地区人口密度大且流动频繁，城市负担和环境污染问题突出[27]，在一定程度上增加了痢疾的传播风险。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对肠道传染病进一步进行时空扫描统计，结果显示三类肠道传染病均呈较明显的时空聚集性。伤寒和副伤寒发病的I类聚集区位于2009—2013年，主要分布在云南；病毒性肝炎的I类聚集区位于2008—2011年，以西藏为中心，涉及9个省市数，覆盖范围比较大，主要分布在西部地区；痢疾的I类聚集区位于 2008—2012年，主要分布在北京和天津，与空间自相关分析研究结果一致。此外，云南是 2009—2011 年伤寒和副伤寒、病毒性肝炎的共同主要聚集区。可能与该省的文化和民族风俗习惯有关，应引起高度关注。综上，应根据不同聚集模式制定防控策略。首先应加大肠道传染病防治宣教力度，广泛发动群众开展环境卫生综合整治等行动，如改水改厕、粪便无害化处理、环境整治、生活垃圾集中无害化处理等，改善公众的居住和工作环境。其次，肠道传染病经水传播极易造成暴发或大规模流行[26]，故应重视热点区域的饮用水管网、污水系统建设，继续加强西南部地区医疗机构预检分诊及肠道门诊工作的指导督导，定期开展相关肠道病毒监测检测技术培训。另外，相关研究表明痢疾、伤寒和副伤寒高发于散居儿童、农民、中老年人等群体[10,26]，故应重点关注高发人群的疫情监测报告，多部门加强联防联控，尤其是卫生和教育部门，采取综合性的疾病预防和卫生整治措施，定期消杀病媒生物，加强食品安全、饮用水卫生的监督执法力度，更好地控制肠道传染病的流行。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究还存在一定局限性，首先肠道传染病的时空流行病学特征分析基于历史数据，且研究对象时间跨度有所限制，降低了对疾病预警的时效性；其次肠道传染病受自然、社会经济、各地区疾病的监测手段及诊断标准掌握情况等多种因素的影响，具体影响因素及其影响程度还需在今后的研究中进一步分析。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "作者贡献：林小丹、姚卫光负责文章的构思与设计、研究的实施与可行性分析；林小丹、毛秀华负责数据收集与整理、统计学处理；林小丹负责结果的分析与解释、论文撰写；林小丹、姚卫光负责论文的修订、文章的质量控制及审校；姚卫光对文章整体负责，监督管理。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文无利益冲突。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]MAO YING,ZHANG NING,ZHU BIN,et al.A descriptive analysisof the Spatio-temporal distribution of intestinal infectious diseases inChina[/OL].BMCinfectiousdiseases,2019,19(1):766.https:/doi.org/10.1186/s12879-019-4400-x. [2]WENKANG MA,AMR S.SOLIMAN,WAGIDA A.ANWAR,et al.Forecasted impacts of a sofosbuvir-based national hepatitis Ctreatment programme on Egypt's hepatocellar cancerepidemic:simulationof alternatives[J/OLJ.BMJ global ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "health,2018,3(2): e000572.https://doi.0rg/10.1136/bmjgh-2017-000572.   \n[3]肠道传染病[EB/OL].[2022-03-30]. https://www.chinacdc.cn/did1/crbzt/cdcrb/.   \nEnteric Infectious Diseases[EB/OL].[2022-03-30]. https://www.chinacdc.cn/did1/crbzt/cdcrb/. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "【题名由本研究团队翻译】",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[4] 张璟，刘伟，刘艳挪，等．济宁市2009-2016年肠道传染病流行状况及疾病负担分析[J]．中华疾病控制杂志,2019, 23(02): 217-222. D01:10.16462/j.cnki.zhjbkz.2019.02.019.   \nZHANGJ,LIUW,LUYN,etal.Analysisontheepidemicstatusandtheburdenofintestinalinfectious diseasesinJining city from 2009to 2016[J]. Chin JDis Control Prev,2019,23(2):216-221.DOl:10.16462/j.cnki.zhjbkz.2019.02.019.   \n[5]2018 年 全 国 法 定 传染病 疫 情概 况 [EB/OL]. [2022-03-21]. http://www.nhc.gov.cn/jkj/s3578/201904/050427ff32704a5db64f4ae1f6d57c6c.shtml.   \nNational epidemic profile of statutory infectious diseases in 2018[EB/OL].[2022-03-21]. http://www.nhc.gov.cn/jkj/s3578/201904/050427ff32704a5db64f4ae1f6d57c6c.shtml. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "【题名由本研究团队翻译】",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[6]李文豪，曾昱兴，李笑颜，等.SARIMA-GRNN 组合模型在伤寒与副伤寒逐月发病数预测中的应用[J]．中华疾病控 制杂志,2021,25(11): 1341-1346. DOl:10.16462/j.cnki.zhjbkz.2021.11.019.   \nLI W H,ZENGYX,LIXY,et al.Application of SARIMA-GRNN combined model in forecasting the monthlyincidenceof typhoidfeverand paratyphoidfever[J].Chin」DisControlPrev,2021，25(11):1341-1346. DOI:10.16462/j.cnki.zhjbkz.2021.11.019. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "【题名由本研究团队翻译】",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[7]孟银平，姜黎黎，周永明，等．云南省 2010-2020 年伤寒副伤寒流行特征分析[J]．现代预防医学，2021,48(15):$2 6 8 9 - 2 6 9 1 + 2 7 1 5$ 元  \nMENGYP,JANGLL,ZHOUYM,etal.Epidemiologicalanalysisof typhoidandparatyphoidfeverinunnan,20202[J].Mod Prev Med,2021, 48(15): 2689-2691+2715.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "【题名由本研究团队翻译】",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[8]沙小兰，李燕，蒋泽顺，等．2015-2019 年银川市乙类肠道传染病流行特征分析[J].现代预防医学，2020,47(19):3602-3606.  \nSHAXL，LIYJANGZS,etal.AnalysisofepidemiolgicalcharacteristicsofassBintestinalinectiousiseasesinYinchuan,2015-2019[J]. Mod Prev Med,2020,47(19): 3602-3606.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "【题名由本研究团队翻译】",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[9]朱斌，毛瑛．中国 2005－2015 年典型法定报告肠道传染病流行趋势及时空集聚分析[J]．中国公共卫生，2018,34(08): 1120-1124.  \nZHUB，MAO Y.Prevalenceandspatial-temporal clustering of typical notifiable intestinal infectiousdiseases inChina,2005-2015[J]. Chin JPlubic Health,2018,34(08):1120-1124.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "【题名由本研究团队翻译】",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[10]史芸萍，李刚，刘洋，等．2010-2019 年北京市法定报告肠道传染病流行病学特征分析[J]．首都公共卫生，2021,15(04): 192-196. DOl:10.16760/j.cnki.sdggws.2021.04.004.SHIYP,LGUetal.Eidemologicalracteristifotiibletetialeciouseaesie9[]Capital Journal of Public Health,2021,15(04): 192-196. DOl:10.16760/j.cnki.sdggws.2021.04.004.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "【题名由本研究团队翻译】",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[11]中国疾病预防控制中心[EB/OL].[2022-03-30].https://www.chinacdc.cn/. Chinese Center for Disease Control and Prevention[EB/OL].[2022-03-30].https://www.chinacdc.cn/ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "【题名由本研究团队翻译】[12]国家统计局．中国统计年鉴 2019[M]．北京：中国统计出版社,2019.National Bureau of Statistics.China statistical yearbook-2O19[M].Beijing: China Statistics Press,2019.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "【题名由本研究团队翻译】[13] 国家基础地理信息中心[EB/OL].[2022-03-30]. http://www.ngcc.cn/ngcc/html/1/index.html.National Centre for Basic Geographic Information[EB/OL].[2022-03-30]. http://www.ngcc.cn/ngcc/html/1/index.html.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "【题名由本研究团队翻译】 [14]LINA REN,KEN'ICHIMATSUMOTO.Efects of socioeconomicand natural factors onair polution in China:Aspatial ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "paneldataanalysis[J/OL].TheScience of the Total Environment, 2020, 740: 140155. https://doi.org/10.1016/j.scitotenv.2020.140155.   \n[15]杨静，段晓雨，黄甜，等．云南省 2014-2018年手足口病疫情时空流行特征[J]．中华疾病控制杂志,2020,24(03): 290-296. D01:1016462/j.cnki.zhjbkz.2020.03.009.   \nYANGJ,DUANXYHUANGT,etal.Aalysisepidemiologicalandspati-temporalcharacteristicsofhandfootaduth diseaseinYunnanProvincefrom2014to2018[J].Chin」DisControl Prev,2020,24(3):290-296. DOl:10.16462j.cnki.zhjbkz.2020.03.009.   \n[16] MAYRA PARRA-AMAYA,M.PUERTA,DIANA LIZARRALDE,etal.Early Detection for Dengue Using Local Indicatorof Spatial Association (LISA) Analysis[J/OL]. Diseases,2016,4:16.htps://doi.org/10.3390/diseases4020016.   \n[17]MARTIN KULLDORFF,LAN HUANG,LINDA PICKLE,et al.An eliptic spatial scan statistic[J/OL].Statistics in Medicine, 2006,25(22): 3929-3943. https://doi.0rg/10.1002/sim.2490.   \n[18]白尧，陈志军，陈保忠，等．2013-2017 年陕西省手足口病的时空流行特征[J].中华疾病控制杂志，2021,25(03): 329-334. D01:1016462 /j.cnki.zhjbkz.2021.03.015.   \nBAI YCHEN ZJ，CHENBZ，etal.The spatio-temporal characteristicsof hand-foot-mouth disease in Shaanxi Province,2013-2017[J].Chin JDis ControlPrev,2021,25(3):329-334.DOl:10.16462/j.cnki.zhjbkz.2021.03.015.   \n[19]健全传染病防控体系为人民健康保驾护航_解读_中国政府网[EB/OL]．[2022-03-30]. http://www.gov.cn/zhengce/2021-01/11/content_5578988.htm.   \nSound prevention and control system for infectious diseases to protect people's health_Interpretation_Chinese government website[EB/OL].[2022-03-30]. htp://www.gov.cn/zhengce/2021-01/11/content_5578988.htm. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "【题名由本研究团队翻译】",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[20]苏通，刘莹莹，赵文娜，等．河北省 2015一2020 年其他感染性腹泻流行特征及时空聚集性[J]．中华疾病控制杂志,2022,26(02): 175-181. DOl:10.16462/j.cnki.zhjbkz.2022.02.009.  \nSUT,LIUYY,ZHAOWN,etal.Epidemiologicalcharacteristicsandspatial-temporalclusteranaysisoftherinfectiousdiarrheainHebei Provincefrom2015to2020[J].Chin」DisControl Prev,2022,26(2):175-181.DOl:10.16462j.cnki.zhjbkz.2022.02.009.  \n[21]赖彩云，魏志胜，高剑基，等．北京市海淀区 2005-2016 年甲乙类肠道传染病疫情分析[].中国预防医学杂志，2018,19(12): 881-885. D0l:10.16506/j.1009-6639.2018.12.001.  \nLAI CYWEIZS,GAOJJetalEpidemiologicalfeaturesoftypeAandBintestinalinfectiousdiseasesinHidianistrictofBeijingfrom 2005 to 2016[J]. Chin Prev Med,2018,19(12): 881-885.DOl:10.16506/j.1009-6639.2018.12.001.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "【题名由本研究团队翻译】",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[22] 杨小兵，邹娇娇，陈邦华，等．2004-2017 年武汉市病毒性肝炎流行病学特征分析[J]．中国预防医学杂志，2019,20(01): 42-47. D0l:10.16506/j.1009-6639.2019.01.011.  \nYANG XB,ZOUJJ,CHENBH,etal.EpidemiologicaleaturesofviralhepatitisinWuhancityin2004-2017[J].ChinPrevMed,2019,20(01): 42-47. D0l:10.16506/j.1009-6639.2019.01.011.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "【题名由本研究团队翻译】",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[23]孙校金，张国民，郑徽，等．2004一2017 年中国戊型肝炎流行特征分析[J]．中华预防医学杂志，2019，53(04):382-387.  \nSUNXJ,ZHANGGM,ZHENGH,etal.AnalysisoftheepidemiologicalcharacteristicsofhepatitisEinChina,204-2017[J]Chin Jof Prev Med,2019,53(04): 382-387.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "【题名由本研究团队翻译】",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[24] 肖正斌，陈恺韵，任宏，等．2005－2019 年戊型肝炎季节性流行特征及时间序列分析[J]．上海预防医学，2021,33(10): 923-928. DOl:10.19428/j.cnki.sjpm.2021.20817.XIAO Z B,CHENKY,REN H,etal.Seasonalcharacteristicsandtimeseriesanalysisof hepatitisEinShanghaifrom205 to2019[J]. Shanghai Jof Prev Med,2021,33(10): 923-928. DOl:10.19428/j.cnki.sjpm.2021.20817.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "【题名由本研究团队翻译】",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[25] 原云霄，王丽宁，王宝海，等．中国传染病集聚与扩散的空间计量分析一一基于空间面板数据[J].数学的实践与 认识,2020,50(21):144-150. YUANYX,WANGLN,WANGB H,etal.Spatial econometricanalysisof theaglomerationanddifusionof infectious diseases in China--Basedonspatialpaneldata[J].Practiceand Understanding of Mathematics,2020,50(21):144-150. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[26] 单宝磊，宫献升，邓招红，等．2005-2012 年高密市乙类肠道传染病疫情分析[J].现代预防医学，2015，42(09):1687-1690.  \nSHANBL,GONGXS,DENGZH,etal.Prevalenceof group-BintestinalinfectiousdiseasesiGaomiCity20-22[].dPrev Med,2015,42(09): 1687-1690.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "【题名由本研究团队翻译】",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[27] 李媛媛，徐成东，肖革新，等．京津唐地区细菌性痢疾社会经济影响时空分析[J].地球信息科学学报，2016,18(12): 1615-1623.LIYYXUCD，XIAOG X. Spatial-temporal analysisof social-economic factors ofbacillry dysenteryinBeijing-Tianjin-Tangshan,China[J]. Journal of Geo-lnformation Science,2016,18(12):1615-1623.",
+        "page_idx": 9
+    }
+]

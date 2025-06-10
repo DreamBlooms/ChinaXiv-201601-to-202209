@@ -1,0 +1,149 @@
+·心健康·
+
+# 《中国心血管健康与疾病报告2021》关于中国高血压流行和防治现状
+
+马丽媛，王增武\*，樊静，胡盛寿\*
+
+【摘要】随着社会经济的发展和人口老龄化、城镇化进程的加速，中国高血压患病率呈不断上升趋势，特别是在农村地区。高血压的知晓率、治疗率和控制率虽有所提高，但仍处于较低水平。目前中国已有2.45亿的高血压患者，血压正常高值人群也在不断增加，给居民和社会带来的经济负担日渐加重，已成为重大的公共卫生问题。加强政府主导下的高血压防控工作刻不容缓。
+
+【关键词】高血压；流行病学；患病率；发病率；知晓率；治疗率；控制率【中图分类号】 R 544.1 【文献标识码】 C DOI:10.12114/j.issn.1007-9572.2022.0502
+
+马丽媛，王增武，樊静，等．《中国心血管健康与疾病报告 2021》关于中国高血压流行和防治现状［J］．中国全科医学，2O22.［Epub ahead of print]．［www.chinagp.net]
+
+MALY，WANG ZW，Fan J，et al.Epidemiology and Managementof Hypertension in China：Ananalysis using data fromthe Annual Reporton Cardiovascular Health and Diseases in China（2O21）[J].ChineseGeneral Practice，2O2.[Epub ahead of print ].
+
+Epidemiologyand Management of Hypertension in China:An Analysis Using Data from the Annual Report on Cardiovascular Health and Diseases in China（2021）MA Liyuan，WANG Zengwu”，FAN Jing，HU Shengshou
+
+National Centerfor CardiovascularDiseases，Fuwai Hospital，ChineseAcademyofMedical Sciences，Beijing10oo37，China \*Correspondence authors: WANG Zengwu， Chief physician，Profesor； E-mail: wangzenguu@foxmail.com HUShengshou，AcademicianofChineseAcademyofEngineering，Chiefphysician，Profesor；E-mail: hu@fuwaihospital.org
+
+【Abstract】With the development of societyand economy and the acceleration of population aging and urbanization, the prevalenceof hypertensionin China is gradualy increasing，and the growth is moreobvious inrural areas.The rates of awareness，treatment and control of hypertension in Chinese adults havenotreached a satisfactory status despite recent improvements.ThenumberofChinesepeoplesuferingfromhypertensionis245million，andthatof those withhigh normalblood presure keeps growing，imposing a growing financial burdenonresidents andsociety.Hypertension has become amajor public health problem，so it is urgent to strengthen the government-led prevention and control of hypertension.
+
+【Key Words】Hypertension；Epidemiology；Prevalence；Incidene；Awarenessrate；Treatment rate；Controlrate
+
+为响应“健康中国行动”，贯彻“以基层为重点，以预防为主”的国家方针，真正实现使心血管疾病（CVD）防治主战场由医院逐步向社区转移，国家心血管病中心将2005年以来每年组织全国相关领域专家编撰的《中国心血管病报告》改版为《中国心血管健康与疾病报告》。倡导心血管全生命周期的健康管理，提高居民的CVD风险意识，强调每个人是自己健康的第一责任人，注重不健康饮食和身体活动不足等上游危险因素控制，从源头上预防CVD。本文就《中国心血管健康与疾病报告2021》中的CVD危险因素高血压部分进行解读。
+
+中国目前正面临人口老龄化和代谢危险因素流行的双重压力，CVD的发病率和死亡率持续增加，成为中国人口死亡的首位原因。高血压作为CVD的主要危险因素，其患病率在不断升高。2015年中国18岁以上人群中，已有2.45亿的高血压患者[1]，2017年中国有254万人死于收缩压升高，伤残调整寿命年超过 $5 \% ^ { [ 2 ] }$ 。高血压已经成为中国面临的重要公共卫生问题。因此，必须及时、准确、全面地了解中国高血压的流行现状和趋势，为CVD防治和相关政策的制定提供科学依据。
+
+# 1高血压患病率
+
+1.1全国高血压患病率调查自1959年全国首次高血压抽样调查以来，截至2018年，中国共进行了7项较大规模的高血压患病率抽样调查。尽管各项研究在调查人群的年龄范围、规模大小、抽样方法、调查地区、血压测量工具、诊断标准等方面有所不同，无法对结果进行直接对比，但仍能反映出我国高血压患病率的上升态势（表1）。
+
+表1全国高血压患病率调查Table1National survey of hypertension prevalence in China，1959—2018  
+
+<html><body><table><tr><td>研究名称</td><td>调查年份 （年）</td><td>年龄 （岁）</td><td>抽样方法</td><td>样本量 （例）</td><td>患病率 (%）</td></tr><tr><td>中国医学科学院重点 项目—高血压研究</td><td>1959</td><td>≥15</td><td>非随机抽样</td><td>739 204</td><td>5.1</td></tr><tr><td>全国高血压抽样调查</td><td>1979—1980</td><td>≥15</td><td>随机抽样</td><td>4 012128</td><td>7.7</td></tr><tr><td>全国高血压抽样调查</td><td>1991</td><td>≥15</td><td>分层随机抽样</td><td>950 356</td><td>13.6</td></tr><tr><td>中国健康与营养调查 (CHNS)</td><td>2002</td><td>≥18</td><td>多阶段分层整 群随机抽样</td><td>272 023</td><td>18.8</td></tr><tr><td>中国居民营养与慢性 病状况调查</td><td>2012</td><td>≥18</td><td>多阶段分层随 机抽样</td><td></td><td>25.2</td></tr><tr><td>中国高血压调查 (CHS）</td><td>2012—2015</td><td>≥18</td><td>多阶段分层随 机抽样</td><td>451 755</td><td>27.9（加权 率23.2)</td></tr><tr><td>中国慢性病与危险因 素检测（CCDRFS）</td><td>2018</td><td>≥18</td><td>多阶段分层整 群随机抽样</td><td>179 873</td><td>27.5（加权 率）</td></tr></table></body></html>
+
+一项Meta分析探讨了中国1959—2018年高血压患病率的变化趋势，共纳入18项研究合计9191121名中国人，结果显示2004年以前中国高血压患病率的年增长率为 $0 . 2 9 \%$ ，2004年后升高为 $2 . 4 5 \%$ ，约是2004年以前年增长率的8倍[3]。
+
+高血压患病率随年龄的增加而升高。其中青年高血压问题应引起注意。中国健康与营养调查（CHNS）对72 452名20\~79岁成年人在1991—2015年共进行了9次横断面调查[4]，从中可以看出，1991—2015年，20\~39岁年轻人高血压的患病率升高最为显著，从1991年的 $4 . 5 \%$ 上升至2015年的 $1 1 . 0 \%$ ，相对变化率达 $1 4 4 . 4 \% _ { \circ } 2 0 1 2 - 2 0 1 5$ 年中国高血压调查（CHS）在全国31个省、自治区、直辖市对451755名成年人的调查结果显示，18\~24岁、25\~34岁、35\~44岁青年高血压患病率分别为4.0%、6.1%和15.0%[1]2018年中国慢性病及危险因素监测（CCDRFS）在全国31个省、自治区、直辖市的298个县（区）对179 873名 $\geqslant 1 8$ 岁常住居民的调查显示，青年高血压患病率18\~29岁为8.9%、30\~39岁为13.4%[5]。
+
+2015年 $\geqslant 4 5$ 岁人群的高血压患病率为 $3 4 . 3 8 \%$   
+60岁以上老年人群为 $5 4 . 9 2 \%$ ， $\geqslant 8 0$ 岁高龄老年人
+
+群为 56.5%[6-8] ○
+
+此外，高血压患病率男性高于女性、北方高于南方的特点仍然存在，华北地区〔 $3 3 . 3 \%$ ( $9 5 \% C I$ $3 1 . 5 \% { \sim } 3 5 . 2 \%$ ）］和东北地区[ $3 2 . 7 \%$ ( $9 5 \% C I$ ·$2 8 . 1 \% { \sim } 3 7 . 4 \%$ ）」高于其他地区，组间比较，差异均有统计学意义（ $P { < } 0 . 0 0 0 ~ 1$ ）[5]。需要引起警惕的是，农村高血压患病率增长趋势明显，CHNS研究显示，2015年农村地区年龄标化高血压患病率为 $2 7 . 4 \%$ ，较1991年的 $1 3 . 3 \%$ 显著升高，相对变化率为 $1 0 6 . 0 \%$ ：而同时期城市地区年龄标化高血压患病率为 $2 2 . 9 \%$ 和 $1 8 . 8 \%$ ，相对变化率为 $2 1 . 8 \%$ ；此调查中2015年农村高血压患病率已经超过城市[4]。2012—2015年CHS研究，农村与城市高血压患病率无差别，分别为 $2 3 . 1 \%$ 和 $2 3 . 4 \%$ [1]。2018年CCDRFS研究发现,我国农村居民高血压患病率已比城市居民高出 $3 . 7 \%$ ( $2 9 . 4 \%$ vs $2 5 . 7 \%$ ），且差异有统计学意义［5］。以上研究结果尽管不尽相同，但一致显示了农村高血压患病率的快速上升。这可能与中国经济的快速发展、城镇化进程的加速以及由此带来的不健康生活方式的流行有关，加之农村教育的普及性相对较差，疾病风险意识较低等。
+
+1.2儿童高血压患病率值得注意的是，中国约有$4 \%$ 的儿童血压水平处于持续升高状态，高血压已成为中国儿童常见的心血管代谢异常。
+
+2010年全国学生体质调研对190000名7\~17岁汉族学生的调查显示，中国学龄儿童青少年高血压患病率为 $1 4 . 5 \%$ ，男生高于女生（ $1 6 . 1 \%$ vs$1 2 . 9 \%$ ），且随年龄增长逐渐上升［9]。CHNS 1991—2015年9次横断面调查结果显示，监测地区学龄儿童高血压患病率从1991年的 $8 . 9 \%$ 上升到2015年的$2 0 . 5 \%$ [10]（图1）。
+
+![](images/734a01cb24a11e341daa3a58d84f52758197bf98b3fc0418a8f472effdc83798.jpg)  
+图11991—2015年中国7\~17岁儿童青少年高血压患病率变化趋势 Figure 1 Trend of hypertension prevalence in Chinese children and adolescents aged 7-17 years between 1991 and 2015
+
+# 中国全科医学
+
+肥胖是儿童高血压最常见的危险因素。对1995—2014年全国943128名汉族儿童分析发现，超重和肥胖对高血压患病风险的独立贡献「人群归因危险度百分比（ $\mathrm { P A R \% }$ ）」从1995年的 $6 . 3 \%$ 上升至2014年的 $1 9 . 2 \%$ ，对收缩期高血压的 $\mathrm { P A R } \%$ 从1995年的 $7 . 4 \%$ 上升至2014年的 $2 6 . 2 \%$ ，其增幅是同期对舒张期高血压 $\mathrm { P A R } \%$ 增幅的2倍，提示超重和肥胖儿童是高血压防治的重点人群［i]
+
+# 2中国人群高血压发病率
+
+与患病率相比，发病率能更准确地反映疾病的流行病学变化。然而，中国有关高血压发病率的研究相对较少。CHNS1991—2015年前瞻性队列研究纳入12952名年龄 $> 1 8$ 岁的中国人群，发现高血压发病率从1993年到2015年呈增长趋势，且存在地区差异[12]。高血压年龄标化发病率从1993一1997年的 $4 0 . 8 / 1 0 0 0$ 人年[ $9 5 \% C I$ （38.3，43.4）〕增长至2000—2009年的 $4 1 . 5 / 1 0 0 0$ 人年【 $9 5 \% C I$ （39.9，43.2）」，2011—2015年进一步增高至 $4 8 . 6 / 1 0 0 0$ 人年【 $9 5 \% C I$ (46.1,51.0）」；与西部地区相比，经济相对发达的东部、中部和东北部居民的高血压发病率显著增加；城市与农村高血压发病率未见明显差异；女性发病率显著低于男性；高血压发病率随年龄、体质指数（BMI）和饮酒量的增加而升高。
+
+# 3正常高值血压检出率
+
+正常高值血压是指收缩压为 $1 2 0 { \sim } 1 3 9 ~ \mathrm { m m } ~ \mathrm { H g }$ （ $1 \mathrm { { m m } \mathrm { { H g } = 0 . 1 3 3 \mathrm { { k P a } } } }$ ）和/或舒张压为 $8 0 { \sim } 8 9 \ \mathrm { m m H g }$ 且未服用降压类药物。很多高血压是由正常高值血压逐渐演变而来。如果对于正常高值血压不积极干预，多数人会形成高血压。有研究显示，国人正常高值血压检出率呈不断增高趋势，如CHNS1991—2011年在中国8个省（1997年增至9个省，2011年增至12个省）对 $\geqslant 1 8$ 岁成年人进行了8次横断面调查，结果显示，血压正常高值年龄标化检出率从1991年的 $2 3 . 9 \%$ 增加到2011年的 $3 3 . 6 \%$ ，2006年前呈明显上升趋势，2006—2011年变化无统计学差异［13」
+
+CHS研究结果显示，中国 $\geqslant 1 8$ 岁居民血压正常高值检出率为 $4 1 . 3 \%$ ，随着年龄的增加，血压正常高值检出率先升高后降低，不同年龄组检出率的差异具有统计学意义（图2）。血压正常高值检出率男性高于女性（ $4 7 . 8 \%$ VS $3 4 . 6 \%$ ， $P { < } 0 . 0 0 1$ ），而农村与城市（ $4 1 . 4 \%$ VS $4 1 . 1 \%$ ）、汉族与少数民族（ $4 1 . 3 \%$ VS$4 0 . 8 \%$ ）间的差异均无统计学意义。
+
+CCDRFS研究发现，2018年中国 $\geqslant 1 8$ 岁成年人正常高值血压检出率为 $5 0 . 9 \%$ ，也就是说中国成年居民中超过半数的成年人血压处于正常高值状态[5]]
+
+# 4高血压知晓率、治疗率、控制率
+
+高血压知晓率、治疗率和控制率（简称“三率”）是反映高血压防控水平的重要评价指标。中国高血压的“三率”水平虽不断增高（图3），但与发达国家相比，仍处于较低水平。2015年我国成年人高血压的知晓率、治疗率及控制率分别为 $4 6 . 9 \%$ 、$4 0 . 7 \%$ 及 $1 5 . 3 \% ^ { [ 1 ] }$ ；2018年成年人高血压“三率”水平分别为 $4 1 . 0 \%$ 、 $3 4 . 9 \%$ 和 $1 1 . 0 \% ^ { \left[ 5 \right] }$ ，较1991年的 $2 7 . 0 \%$ 、 $1 2 . 0 \%$ 和3.0有了明显提高。不同人口学特征比较，高血压“三率”水平呈现女性高于男性、城市高于农村、且随年龄增长而升高的特点。与北方地区相比，南方地区高血压患者的知晓率、治疗率和控制率较高。
+
+![](images/637b5bf8c1d75043f91c478420430d0815cd07c94d3b4dedfae9efdaf90af61c.jpg)  
+图2CHS研究中国 $\geqslant 1 8$ 岁居民血压正常高值检出粗率 Figure 2Prevalence of high normal blood pressure among Chinese adults aged $\geqslant 1 8$ years in the Cardiovascular Health Study
+
+![](images/a81c69aa929aa73d99ed9d0c55c9de9d43a6198bb1a4ccff6a53a3f202c40f3f.jpg)  
+图31991—2015年高血压知晓率、治疗率和控制率Figure 3Awareness，treatment and control rates of hypertension inChinese adults from 1991 to 2015
+
+CHNS研究提示，1991—2015年中国20\~79岁成年人高血压“三率”水平有所升高，但幅度有限，仍处于较低水平：知晓率从 $2 4 . 2 \%$ 升高至 $2 7 . 2 \%$ ，治疗率从 $1 5 . 1 \%$ 升高至 $2 3 . 6 \%$ ，控制率从 $3 . 6 \%$ 升高至$8 . 4 \%$ ；其中20\~39岁年轻人的高血压患病率升高最为显著，但其对高血压的知晓率、治疗率和控制率水平并没有提高，甚至有所降低[4] O
+
+# 5高血压预防
+
+预防高血压要注重控制其危险因素，如提倡健康的生活方式、保持愉快的精神状态、减重、增加身体活动、戒烟限酒等。《中国健康生活方式预防心血管代谢疾病指南》［14］针对中国 $\geqslant 2 0$ 岁成年人，在膳食与饮料、身体活动、吸烟、饮酒等方面提出建议，旨在促进居民采取健康的生活方式，预防心血管代谢疾病，推动健康中国行动的实施。
+
+近年来政府推行了诸如“中国防治慢性病中长期规划”、“国家基本公共卫生服务”、“国家慢性病综合防控示范区建设”及“全民健康生活方式行动”等多个项目，建设健康社区、健康单位、健康学校、健康餐厅、健康步道、健康主题公园等支持性环境，开发健康适宜技术与工具，例如控油壶、限盐勺、体质指数尺、计量酒杯等，并在各地实施过程中因地制宜探索行动新模式，包括健康厨房、吃动平衡、维持健康体重等专项活动[15]。2010—2016年，中国高血压规范管理人数成倍增加，由2010年的4215.9万人增长至2016年的9023万人，高血压患者规范管理率达到70.31%[16] ○
+
+# 6 高血压治疗
+
+治疗高血压的根本目的是降低高血压患者的心脑肾和血管并发症以及死亡的总危险发生率。改善生活方式是高血压治疗的基础，应贯穿整个治疗过程。《中国高血压指南2018年修订版》[17]对高血压治疗秉持更加积极的原则：一般高血压患者降至 ${ < } 1 4 0 / 9 0$ $\mathrm { m m \ H g }$ ；能耐受药物治疗和部分高危、极高危的患者可进一步降至 $< 1 3 0 / 8 0 \ \mathrm { m m \ H g }$ ；启动多种药物联合治疗的血压标准也有所降低，血压 $\geqslant 1 4 0 / 9 0 \ \mathrm { m m } \ \mathrm { H g }$ 的患者可起始小剂量联合治疗；强调早期达标，在4周内或12周内将血压降至目标水平。CHIEF研究表明，初始小剂量联合治疗对伴心血管危险因素的中国中老年高血压患者具有良好的降压作用，明显提高高血压控制率[18]。一项研究发现，强化高血压控制（血压目标值降至 $1 3 3 / 7 6 \mathrm { m m } \mathrm { H g }$ ）与标准高血压控制（血压目标值降至 $1 4 0 / 9 0 ~ \mathrm { m m ~ H g }$ ）相比，10年内可使中国高血压患者避免发生220.9万例冠心病事件、440.9万例脑卒中事件和7.51万例CVD死亡事件；与标准高血压控制相比，强化高血压控制可避免 $1 3 \%$ 的脑卒中事件，使男性和女性分别避免 $1 7 \%$ 和 $1 1 \%$ 的冠心病事件[19]
+
+现实情况是，中国高血压患者的治疗率并不高，规范治疗率较低。2012—2015年CHS研究中，仅有$4 0 . 7 \%$ 的高血压患者接受治疗，血压有效控制率为$1 5 . 3 \% ^ { [ 1 ] }$ ；2018年CCDRFS研究显示，中国高血压患者中仅有1/3接受了降压治疗，而血压得到有效控制者仅占 $1 1 \% ^ { \left[ 5 \right] }$ 。这与美国高血压患者超过 $5 0 \%$ 的治疗率和超过40%的控制率相比，差距显著[20]。知晓率低是导致我国高血压控制障碍的关键因素。患者如果对自己的疾病状况并不知晓，那就不可能主动寻求治疗。另外，治疗的不规范也是约束控制率的重要原因。大多数高血压患者需要接受2种或以上药物联合治疗才能有效控制血压[18]，但目前我国，特别是基层医疗卫生机构的高血压患者仍以单药治疗为主。定期测量血压、及时检出高血压是防治的第一步。CCDRFS研究显示，中国 $\geqslant 1 8$ 岁居民3个月内血压测量率为 $4 7 . 5 \%$ ，其中未诊断高血压的成年居民3个月内血压测量率为 $4 1 . 9 \%$ ，女性高于男性，城市高于农村，随年龄增长而上升，华东地区居民测量率高于其他地区，已明确诊断高血压的居民的血压测量率为 $8 9 . 0 \%$ ［ $9 5 \% C I$ ( $8 8 . 2 \%$ ， $8 9 . 8 \%$ ）][5]。《中国高血压防治指南2018年修订版》指出，如无条件进行人群筛查可建立“首诊测血压”机制及提供其他机会性测血压的条件；将高血压的管理融入到全科医生的日常医疗工作中；采用多种方式提高患者的防病知识和自我保健意识；在有条件的地方，正确推广使用家庭血压测量技术[17]。
+
+接受国家基本公共卫生服务可对高血压防控产生明显的效果。2017年发表的一项研究对2011—2013年CHARLS研究中确诊的4958例高血压患者进行分析后发现，截至2013年，该组人群有404例（ $8 . 1 \%$ ）患者接受了国家基本公共卫生服务，高血压控制率增长了 $7 . 9 \%$ ，高血压药物使用率增长了 $1 0 . 3 \%$ $P { < } 0 . 0 0 1$ )，血压检测率增加了 $1 0 . 5 \%$ （ $P { < } 0 . 0 0 1$ ）[21]
+
+# 7高血压控制策略成本－效益分析
+
+2013年，中国卫生总费用为31869亿元，其中高血压直接经济负担占 $6 . 6 \%$ 。研究估算，高血压社区规范化管理能降低高血压服药患者年均药物治疗费用和患者年人均住院费用约26元和245元，节约高血压患者年人均直接医疗费用约210元[22]。中国高血压社区健康管理年人均投入800元可产生正的净效益，即产出大于投入。
+
+根据2015一2025年中国心血管病政策模型预测，与维持现状相比，如果对已有CVD和尚无CVD的I期和Ⅱ期高血压患者进行治疗，每年将减少80.3万
+
+# 中国全科医学
+
+例CVD事件（脑卒中减少69.0万例，心肌梗死减少11.3万例），获得120万质量调整生命年（QALY）[23]。另一项研究表明，对于中国而言，如果采纳2017年美国心脏病学院/美国心脏协会（ACC/AHA）发布的成年人高血压诊断和治疗指南，并且达到目前的高血压治疗率，将使终生高血压药物治疗费用增加427亿美元，但CVD治疗费用减少37.7亿美元，同时防止141万因伤残而引起的生命年损失［24] C
+
+# 8高血压健康教育与管理
+
+根据《健康中国行动（2019—2030年）》［25]2022年和2030年中国心脑血管疾病死亡率需分别下降至209.7/10万及以下和190.7/10万及以下； $\geqslant 3 0$ 岁居民高血压知晓率分别不低于 $5 5 \%$ 和 $6 5 \%$ ；高血压患者规范管理率分别不低于 $6 0 \%$ 和 $70 \%$ 。《中国高血压健康管理规范（2019）》［26]强调初始预防和一级预防的理念，面向全人群，提供全生命周期、全方位的血压健康管理服务指导。防控目标的实现，必须依赖政府和社会的共同努力。从健康知识普及，危险因素干预，疾病风险意识提升，首诊血压测量制度落实，以及患者规范化管理和提高药物治疗的依从性等各个方面做出进一步的努力。
+
+# 9结语
+
+高血压是世界性的慢性非传染性疾病，是危害人类健康的主要疾病，是全球疾病负担的首要病因，也是中国面临的重要公共卫生问题。我国高血压患病率呈逐年增长趋势，从1959年的 $5 . 1 \%$ 增长到2015年的 $2 3 . 2 \%$ 和2018年的 $2 7 . 5 \%$ ，而且大量研究显示中国老年人群高血压患病率更高，随着老龄化社会的到来，高血压防治工作面临巨大的挑战。由于高血压防治知识的普及、社区规范化管理等大量工作的开展，我国高血压的知晓率、治疗率、控制率有了较大幅的增长，但还远远不够。特别需要引起注意的是农村高血压患病率的快速上升趋势，而知晓率、治疗率和控制率相对较低，基层已经成为高血压防治的主战场。另外，高血压的“后备力量”血压正常高值人群也已超过了 $5 0 \%$ 以及儿童青少年高血压患病率的不断上升，未来高血压的防控工作面临严峻考验。政府部门和医务工作人员应充分了解高血压的流行特征和趋势，为中国高血压的防控工作制定科学和切实可行的政策和行动。
+
+本文无利益冲突。
+
+# 参考文献
+
+[1]WANG ZW，CHEN Z，ZHANGLF，et al. Status of hypertension
+
+in China:results from the China hypertension survey，2012-2015［J].Circulation，2018，137（22）：2344-2356.DOI:10.1161/CIRCULATIONAHA.117.032380.  
+[2]GBD 2017 DALYs and HALE Collaborators.Global，regional，andnational disability-adjusted life-years （DALYs） for 359 diseasesand injuries and healthy life expectancy（HALE）for 195 countriesand territories，1990-2017：a systematic analysis for the GlobalBurden of Disease Study 2017［J].Lancet，2018，392（10159）：1859-1922.DOI:10.1016/S0140-6736（18） 32335-3.  
+[3］ BAO M Y，WANG L N. The longitudinal trend of hypertensionprevalence in Chinese adults from 1959 to 2018:a systematic reviewand meta-analysis［J].Ann Palliat Med，2020，9（5）：2485-2497.DOI:10.21037/apm-19-377.  
+[4]MA S J，YANG L，ZHAO M，et al. Trends in hypertensionprevalence，awareness， treatment and control rates among Chineseadults，1991-2015［J].JHypertens，2021，39（4）：740-748.DOI：10.1097/HJH.0000000000002698.  
+[5］张梅，吴静，张笑，等.2018年中国成年居民高血压患病与控制状况研究［J］.中华流行病学杂志，2021，42（10）：1780-1789.DOI：10.3760/cma.j.cn112338-20210508-00379.ZHANG M，WU J,ZHANG X，et al. Prevalence and control ofhypertension in adults in China，2O18［J].Chinese Journal ofEpidemiology，2021，42（10）：1780-1789.D0I：10.3760/cma.j.cn112338-20210508-00379.  
+［6］袁姣，武青松，雷枢，等.我国中老年人群高血压流行现状及影响因素研究［J］．中国全科医学，2020，23（34）：4337-4341. DOI: 10.12114/j.issn.1007-9572.2020.00.285.YUAN J，WU Q S,LEI S，et al. The prevalence of hypertensionand its influencing factors in middle-aged and elderly people inChina［J].Chinese General Practice，2020，23（34）：4337-4341.DOI:10.12114/j.issn.1007-9572.2020.00.285.  
+[7］李奇蒙，赵斌.我国老年人群高血压长期流行趋势分析［J］.中国药物与临床，2020，20（16）：2692-2693.D0I：10.11655/zgywylc2020.16.010.  
+［8］刘淼，王建华，王盛书，等.中国高龄老年人血压水平和高血压患病及其控制情况［J］.中华流行病学杂志，2019，40（3）：290-295.DOI: 10.3760/cma.j.issn.0254-6450.2019.03.007.LIU M，WANG JH，WANG S S，et al. Blood pressure level,hypertension prevalence and control status in oldest old inChina［J].Chinese Journal of Epidemiology，2019，40（3）：290-295.DOI: 10.3760/cma.j.issn.0254-6450.2019.03.007.  
+[9]DONG B，MA J，WANG HJ,et al. The association of overweightand obesity with blood pressure among Chinese children andadolescents[J].Biomed Environ Sci，2013，26（6）：437-444.DOI:10.3967/0895-3988.2013.06.004.  
+[10］马淑婧，羊柳，赵敏，等.1991—2015年中国儿童青少年血压水平及高血压检出率的变化趋势［J］.中华流行病学杂志，2020，41（2）：178-183.D0I：10.3760/cma.j.issn.0254-6450.2020.02.008.MA S J，YANG L,ZHAO M，et al. Changing trends in the levelsof blood pressure and prevalence of hypertension among Chinesechildren and adolescents from 1991 to 2015［J].Chinese Journalof Epidemiology，2020，41（2）：178-183.D0I:10.3760/cma.j.issn.0254-6450.2020.02.008.[11］DONG Y H，MA J,SONG Y，et al.Secular trends in bloodpressure and overweight and obesity in Chinese boys and girls aged 7to 17 years from 1995 to 2014[J].Hypertension，2018,72（2）：  
+298-305. DOI:10.1161/HYPERTENSIONAHA.118.11291.[12］LUO Y M,XIA F，YUX X，et al.Long-term trends and regionalvariations of hypertension incidence in China:a prospectivecohort study from the China Health and Nutrition Survey，1991-  
+2015［J].BMJOpen，2021，11（1）：e042053.DOI:  
+10.1136/bmjopen-2020-042053.[13］GUO J,ZHU Y C，CHEN YP，et al.The dynamics ofhypertension prevalence，awareness， treatment，control andassociated factors in Chinese adults:results from CHNS 1991-  
+2011［J].JHypertens，2015，33（8）：1688-1696.DOI:  
+10.1097/HJH.0000000000000594.［14］中华预防医学会，中华预防医学会心脏病预防与控制专业委员会，中华医学会糖尿病学分会，等.中国健康生活方式预防心血管代谢疾病指南［J].中华健康管理学杂志，2020，14（2）：  
+113-134. DOI: 10.3760/cma.j.cn115624-20200209-00045.Chinese Preventive Medicine Association，Branch of Heart DiseasePrevention and Control,Chinese Preventive Medicine Association,Chinese Diabetes Society，et al. Chinese guideline on healthylifestyle to prevent cardiometabolic diseases [J]. Chinese Journalof Health Management，2020，14（2）：113-134.DOI:  
+10.3760/cma.j.cn115624-20200209-00045.［15］王静雷，马吉祥，杨一兵，等.全民健康生活方式行动工作现况分析［J］.中国慢性病预防与控制，2019，27（10）：724-  
+727，731. DOI： 10.16386/j.cjpccd.issn.1004-6194.2019.10.002.WANGJL，MA JX，YANG YB，et al.Analysis on the currentwork status of China Healthy Lifestyle Action for All［J].ChineseJournal of Prevention and Control of Chronic Diseases，2019,  
+27（10）:724-727，731. D0I:10.16386/jcjpccd.issn.1004-  
+6194.2019.10.002.［16］刘子言，肖月，赵琨，等.国家基本公共卫生服务项目实施进展与成效［J].中国公共卫生，2019，35（6）：657-664.DOI:10.11847/zggws1121468.LIU Z Y， XIAO Y， ZHAO K,et al. Implementation progressand effect of national essential public health services program inChina［J].Chinese Journal of Public Health，2019，35（6）：  
+657-664. DOI: 10.11847/zgggws1121468.［17］中国高血压防治指南修订委员会，高血压联盟（中国），中华医学会心血管病学分会，等.中国高血压防治指南（2018 年修订版）［J］.中国心血管杂志，2019，24（1）：24-56.DOI：  
+10.3969/j.issn.1007-5410.2019.01.002.Writing Group of 2O18 Chinese Guidelines for the Management ofHypertension，Chinese Hypertension League，Chinese Society ofCardiology，et al. 2O18 Chinese guidelines for the management ofhypertension［J].Chinese Journal of Cardiovascular Medicine,  
+2019,24(1):24-56.DOI: 10.3969/j.issn.1007-5410.2019.01.002.[18］MAL Y，WANG W,ZHAO Y，et al. Combination of amlodipineplus angiotensin receptor blocker or diuretics in high-riskhypertensive patients:a 96-week efficacy and safety study [J].AmJCardiovasc Drugs，2012，12（2）：137-142.DOI:10.2165/11598110-000000000-00000.  
+[19]XIE X L，HE TH，KANG J，et al. Cost-effectiveness analysis ofintensive hypertension control in China［J].Prev Med，2018,111:110-114. DOI: 10.1016/j.ypmed.2018.02.033.  
+[20]FOTI K，WANG D，APPEL L J，et al. Hypertension awareness,treatment，and control in US adults:trends in the hypertensioncontrol cascade by population subgroup （national health andnutrition examination survey，1999-2016）［J].Am JEpidemiol，2019，188（12）：2165-2174.D0I：10.1093/aje/kwz177.  
+[21] ZHANG D L,PAN X,LI S K,et al. Impact of the nationalessential public health services policy on hypertension control inChina［J].AmJHypertens，2017，31（1）：115-123.DOI:10.1093/ajh/hpx139.  
+［22］梁小华，顾东风，张欢，等.社区高血压患者健康管理药物治疗和直接医疗费用分析[J].中华预防医学杂志,2011,45（8)：732-736.DOI: 10.3760/cma.j.issn.0253-9624.2011.08.013.LIANG X H,GU DF,ZHANG H,et al. The analysis of drugcost and direct medical expense in community health managementof hypertensive patients ［J].Chinese Journal of PreventiveMedicine，2011，45（8）：732-736.D0I：10.3760/cma.j.issn.0253-9624.2011.08.013.  
+[23]GU D F，HE J，COXSON PG，et al. The cost-effectiveness oflow-cost essential antihypertensive medicines for hypertensioncontrol in China; a modeling study[J].PLoS Med,2015,12（8):e1001860. DOI:10.1371/journal.pmed.1001860.  
+[24]WANG Z W，HAO G，WANG X，et al. Clinical outcomes andeconomic impact of the 2O17 ACC/AHA guidelines on hypertensionin China［J].JClin Hypertens（Greenwich），2019，21（8）：1212-1220. DOI: 10.1111/jch.13609.  
+[25］健康中国行动推进委员会．健康中国行动（2019—2030年）：总体要求、重大行动及主要指标［J］.中国循环杂志，2019,34（9）: 846-858.DOI：10.3969/j.issn.1000-3614.2019.09.003.  
+［26］国家卫生健康委员会疾病预防控制局，国家心血管病中心，中国医学科学院阜外医院，等.中国高血压健康管理规范（2019）［J］．中华心血管病杂志，2020，48（1）：10-46.DOI:10.3760/cma.j.issn.0253-3758.2020.01.005.Bureau of Disease Prevention and Control，National HealthCommission of People's Republic of China，National Center forCardiovascular Diseases，Chinese Academy of Medical Science& Peking Union Medical College，Fuwai Hospital，et al.Nationalguideline for hypertension management in China（2019）［J].Chinese Journal of Cardiology，2020，48（1）：10-46.DOI:10.3760/cma.j.issn.0253-3758.2020.01.005.（收稿日期：2022-06-28；修回日期：2022-07-05）（本文编辑：张小龙）

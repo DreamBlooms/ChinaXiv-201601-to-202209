@@ -1,0 +1,510 @@
+[
+    {
+        "type": "text",
+        "text": "Abrupt temperature change and a warming hiatus from 1951 to 2014 in Inner Mongolia, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MA Long\\*, LI Hongyu, LIU Tingxi, LIANG Longteng ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Water Conservancy and Civil Engineering College,Inner Mongolia Agricultural University,Hohhot O1oo18,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: An abrupt temperature change and a warming hiatus have strongly influenced the global climate. This study focused on these changes in Inner Mongolia, China.This study used the central clustering method, Mann-Kendall mutation test and other methods to explore the abrupt temperature change and warming hiatus in three different temperature zones of the study region based on average annual data series. Among the temperature metrics investigated, average minimum temperature $( \\mathrm { T _ { n a v } } )$ shifted the earliest, followed by average temperature $( \\mathrm { T _ { n v } } )$ and average maximum temperature $( \\mathrm { T _ { x a v } } )$ . The latest change was observed in summer (1990s), whereas the earliest was observed in winter (197Os). Before and after the abrupt temperature change, $\\mathrm { \\Delta T _ { n a v } }$ fluctuated considerably, whereas there was only a slight change in $\\mathrm { T _ { x a v } }$ ： Before and after the abrupt temperature change, the winter temperature changed more dramatically than the summer temperature. Before the abrupt temperature change, $\\mathrm { \\Delta T _ { n a v } }$ in the central region $( 0 . 3 2 2 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a } )$ （ and west region $( 0 . 4 8 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a } )$ contributed the most to the increasing temperatures. After the abrupt temperature change, $\\mathrm { \\Delta T _ { n a v } }$ in winter in the central region $( 0 . 5 1 9 ^ { \\circ } \\mathrm { C } / 1 0 a )$ and in autumn in the west region $( 0 . 7 2 9 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a } )$ contributed the most to the temperature increases. Overall,in the years in which temperature shifts occurred early, a warming hiatus also appeared early. The three temperature metrics in spring (1991) in the east region were the first to exhibit a warming hiatus.In the east region, $\\mathrm { T _ { x a v } }$ displayed the lowest rate of increase $( 0 . 4 1 2 ^ { \\circ } \\mathrm { C } / \\mathrm { a } )$ in the period after the abrupt temperature change and before the warming hiatus, and the highest rate of increase after the warming hiatus. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: temperature; abrupt temperature change; warming hiatus; cold and arid region; northern China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: MALong,LIHongyu,LIUTingxi,LIANGLongteng.2019.Abrupttemperaturechangeandawarming hiatus from 1951 to2014inInnerMongoliaChina.JouralofAridLand,1(2):192-207.htps:/doorg/10.1007/s40333-019-0100-z ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "According to the Fifth Assessment Report （AR5） of the Intergovernmental Panel on Climate Change (IPCC), the increase in the surface temperature per decade for the period 1980-2010 was higher than at any time since 1850 (Shen and Wang,2013),and this change has affected ecological systems,society,and economies.Measurements of climatic indicators recorded in ice cores,abyssal sediments,lake deposits,cave sediments, loess deposits,and pollen sediments provide strong evidence of abrupt climate changes (Cheng,2004). Brulebois et al. (2015) reported that a range of techniques,such as Mann-Kendall(M-K) tests (Zhou et al.,2015),Petit tests (Zarenistanak et al., 2014),and wavelet analysis (Ma and Li, 2Oo3),have been applied to analyze sudden changes in hydrographic and climatic factors globally (Cui and Kump,2015)，including the northern hemisphere (Ai and Lin,1995),Pacific Ocean (Leduc et al.,2009), Central Asia (Hu et al.,2016), northeast Asia (Dong et al., 2016),arid regions in Northwest China (Chen et al., 2009),and the North China Plain (Lin et al.,2O13).These studies show that in the past hundred years,the global climate has experienced three major abrupt temperature changes: one in the 192Os,one in the 1950s, and one from the late 1970s to early 1980s (Ai and Lin,1995).The temperature abruptly changed in western Europe in the late 1980s (Brulebois et al.,2015).An extreme temperature change in the arid region of Northwest China was detected in 1986 (Chen et al.,2014),and temperature changes on the Tibetan Plateau that displayed spatial unconformity occurred in both the 198Os and 1990s (Lv et al., 2010). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Scientists are particularly interested in whether the warming trend willcontinue after an abrupt temperature change in the global climate and whether a warming hiatus has actually occurred. Since peaking in 1998,no sign of an obvious increase in temperature has been detected, but rather a slight decrease in temperature has been recorded (Easterling and Wehner, 2Oo9). The deceleration of global warming is more obvious in winter than in summer (Trenberth et al.,2O14). Since 2000, global warming has slowed and even stopped (Easterling and Wehner, 2O09). In the northern hemisphere,this warming hiatus is more evident in winter than in summer. The regions that have exhibited apparent temperature drops are Eurasia (Li et al., 2O15), North America (Delworth et al., 2015),and the north Atlantic (Li et al.,2016). The rates at which the temperature is decreasing in the northern hemisphere are greater than those in the southern hemisphere,and the temperatures have decreased more rapidly in winter than in summer (Kosaka and Xie, 2013). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Previous studies have revealed the basic characteristics of the periodicity and shift in temperatures,which has enabled the preliminary identification of the years in which a warming hiatus occurred in some areas.Further research is needed, including detailed comparisons and analyses of various temperature metrics in different areas in typical arid and cold regions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This study focused on Inner Mongolia Autonomous Region (IMAR） using annual mean temperature,annual and quarterly average minimum and maximum temperature data collected from 70 weather stations between 195l and 2014. Based on the annual (quarterly） data of three temperature metrics, this research revealed the spatiotemporal variations of the timing of abrupt temperature changes and the warming hiatus, as well as the laws controling the spatial and temporal characteristics of the values in each period before and after the abrupt temperature change and the warming hiatus.This study provides a reference to the climate change researches. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "IMAR, covering an area of $1 . 1 8 \\times 1 0 ^ { 6 } ~ \\mathrm { k m } ^ { 2 }$ , extends for more than $2 4 0 0 ~ \\mathrm { k m }$ from east to west and more than $1 7 0 0 ~ \\mathrm { k m }$ from north to south in northern China (Fig. 1). IMAR is located in the transitional zone between the area with cold,arid and semi-arid climate and the southeast coastal regions with semi-humid and humid monsoon climate (Sun et al., 2O1O). The winter is long and cold whereas the summer is short and warm. This region is an ecologically sensitive zone (Xiao et al.,2016),and as the impacts of climate change have gradually intensified, the temperature, precipitation,and other climatic factors have undergone considerable changes in recent years. The changes have in turn altered the ecological environment, water resources and animal husbandry practices of the region. A detailed study of the temperature changes and warming hiatus in this area could reveal the regional characteristics of temperature change,the differences in these changes, and the warming hiatus trends in different temperature zones. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 Data ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We selected seventy weather stations within and around IMAR.The monthly data collected at these stations include average temperature $( \\mathrm { T _ { n v } } )$ ，average minimum temperature $( \\mathrm { T _ { n a v } } )$ ， and average maximum temperature $( \\mathrm { T _ { x a v } } )$ ,with records dating from the establishment of these stations to 2014 (http://data.cma.cn). The data are reliable and representative of regional climatic conditions. After interpolation, a unified annual (monthly) data series from 1951 to 2014 was generated, and $2 7 . 1 \\%$ of the site-specific data sequences relative to the uniform period from 1951 to 2014 were complete before interpolation. It was found that $70 \\%$ of the sites were missing data in 1951, 1952-1955, 1956-1960 and 1961-1970,and absent stations accounted for $67 . 1 \\%$ ， $3 5 . 7 \\%$ and $2 . 9 \\%$ of these data, respectively.Additionally, $1 . 4 \\%$ of sites were missing data in other years (e.g.,1991). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/86fbcd7c56f19b145f6aed990842549d38c97c9a44c571a00d0b4b53aeea8ad8.jpg",
+        "img_caption": [
+            "Fig.1Locations of the meteorological stations used in this study. IMAR,Inner Mongolia Autonomous Region. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 Methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The reliability of the data was tested. It was found that none of the temperature metrics monitored by these weather stations exhibited obvious or random changes,and the dataset was relatively uniform. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The missing data were interpolated by a regression analysis (sites with similar topographic and geomorphological conditions were identified and the strongest data correlations were selected),and a unified sequence (months) from 1951 to 2014 was generated.The formula for the determination of the correlation coefficient was as follows: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho _ { x y } = { \\frac { \\sum _ { j = 1 } ^ { n } \\bigl ( x _ { j } - { \\overline { { x } } } \\bigr ) \\bigl ( y _ { j } - { \\overline { { y } } } \\bigr ) } { \\sqrt { \\sum _ { j = 1 } ^ { n } \\bigl ( x _ { j } - { \\overline { { x } } } \\bigr ) ^ { 2 } \\sum _ { j = 1 } ^ { n } \\bigl ( y _ { j } - { \\overline { { y } } } \\bigr ) ^ { 2 } } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Where $\\rho _ { x y }$ is the correlation coefficient for variables $x$ and $y ; x _ { j }$ and $y _ { j }$ are the monthly values of meteorological elements in year $j ; \\ \\overline { { x } }$ and $\\overline { { y } }$ are the average values of the meteorological elements;and $n$ is the number of samples. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The distribution of climatic factors was obtained by adopting central clustering method to distinguish the climatic factors in the study region. First, a central station was selected.Then, the surrounding stations were analyzed,and a chi-squared distribution was applied to the results (Liu et al., 2012). The calculation was as follows: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\chi ^ { 2 } = 2 n \\sum _ { j \\neq k } { \\cal W } _ { k j } \\left( C _ { k j } - \\hat { C } \\right) ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { { \\scriptscriptstyle k j } } = \\big \\langle { \\big \\langle } 1 { - } r _ { { \\scriptscriptstyle k j } } ^ { \\mathrm { ~ ~ } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { k j } = \\sqrt { 1 - r _ { k j } } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { C } = \\sum _ { j \\neq k } W _ { k j } C _ { k j } \\Bigg / \\sum _ { j \\neq k } _ { W _ { k j } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $n$ is the data sequence length; $W _ { k j }$ is the cluster statistics; $C _ { k j }$ is the distance coefficient; $\\hat { C }$ is the maximum likelihood estimator of sample average; and $r _ { k j }$ is the correlation coefficient between the center point $( k )$ and variables $( j )$ . If $\\chi ^ { 2 } { < } \\chi _ { 0 . 9 5 } ^ { ~ 2 } ( P { - } 2 )$ , these sites were considered significant at the 0.05 significance level,and the sites could be divided into the same partition. Otherwise,the sites were refiltered or the area was expanded or shrunk until the test conditions were satisfied. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The ordinary Kriging method and spherical semi variogram model in ArcGIS were used for spatial interpolation to calculate the regional average sequences of the partitions and climatic factors in different parts of the region.First, the parameters were obtained by a data analysis of a known site. These parameters were set as defaults and applied to the subsequent spatial interpolation. Then, the regional mean sequence was calculated by applying a mask to different Environment for Visualizing Images (ENVI) regions. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A M-K non-parametric test was used to examine the temperature shift. The calculation was as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { d _ { k } = \\displaystyle \\sum _ { j = 1 } ^ { k } r _ { j } , ~ k = 2 , ~ 3 , ~ \\cdots , ~ n ; } } \\\\ { { r _ { j } = \\left\\{ \\begin{array} { l l } { { + 1 , i f \\ : x _ { i } > x _ { j } } } \\\\ { { 0 , i f \\ : x _ { i } \\leq x _ { j } } } \\end{array} , \\quad j = 1 , \\ : 2 , \\ : \\cdots , \\ : i \\right. } } \\end{array} ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { c } { E \\mathbf { d } _ { \\mathrm { k } } = k \\left( k - 1 \\right) / 4 } \\\\ { \\mathrm { v a r } \\left( \\mathbf { d } _ { \\mathrm { k } } \\right) = k \\left( k - 1 \\right) \\left( 2 k + 5 \\right) / 7 2 } \\end{array} , \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { U F } _ { \\scriptscriptstyle K } = \\sp \\left[ d _ { \\boldsymbol k } - E \\big ( d _ { \\boldsymbol k } \\big ) \\right] ^ { \\prime } \\sqrt { \\mathrm { v a r } \\big ( d _ { \\boldsymbol k } \\big ) } , \\quad \\boldsymbol k = 1 , 2 , \\cdots , n ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathrm { U F } _ { k }$ approximately obeys the standard normal distribution, $d _ { k }$ is the cumulative number when the value of moment $i$ is greater than moment $j$ $\\operatorname { E } ( d _ { k } )$ is the mean of the cumulative number, and var $( d _ { k } )$ is the variance in the cumulative number. The above calculation was performed using MATLAB software when the intersection of the forward sequence statistic UF and backward statistic UB was located within the reliability domain.When there was only one intersection, the intersection was the mutation year. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A least-squares criterion was adopted to determine the trends of all climatic factors and assess the saliency of the trends using an $F$ test. The $F$ test is an analysis of variance,and the formula for the correlation coefficient is as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF = \\sqrt [ 3 ] { \\int _ { \\ d { S } _ { 2 } ^ { 2 } } ^ { 2 } \\ d \\mathbf { s } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $S _ { 1 }$ and $S _ { 2 }$ are the variances of two sets of data, respectively.Based on the degrees of freedom of $S _ { 1 } ^ { 2 }$ and $S _ { 2 } ^ { 2 }$ , we examined the $F$ test table for $n$ data samples. If $F { > } F _ { 0 . 0 5 , \\mathrm { V } 1 , \\mathrm { V } 2 }$ , the two groups were not significantly different. If $F { \\le } F _ { 0 . 0 5 , \\mathrm { V } 1 , \\mathrm { V } 2 }$ , the groups were significantly different. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A five-year moving average method was used to further analyze the periodicity and variations of all temperature factors. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The coefficient of variation (CV) was determined to denote the severity of each climatic factor. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Temperature zones ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Because this study covered a broad area, there was a spatial variation in temperature.For convenience, the study area was divided into three zones based on $\\mathrm { T _ { n v } }$ ， $\\mathrm { T _ { n a v } }$ and $\\mathrm { T _ { x a v } }$ . The west region (West) comprised the area to the west of Mandula-Siziwang Banner-Hohhot. The central region corresponded to the area to the east of Mandula-Siziwang Banner-Hohhot and to the west of Arxan Mountain-Solun-Ulanhot.The east region (East) consisted of the area to the east of Arxan Mountain-Solun-Ulanhot. The divisions are depicted in Figure 2.The annual average (seasonal) temperature sequence was calculated for each region. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c6cd724e03dae7fcc3b2b58a0a511d63d56d309d3045d9d9e74f53b2e86b3f7.jpg",
+        "img_caption": [
+            "Fig.2Three temperature metrics (annual and seasonal) for the various regions within the study area. $\\mathrm { T _ { n v } }$ ,average temperature; $\\mathrm { T _ { n a v } }$ ,average minimum temperature; $\\mathrm { T _ { x a v } }$ ,average maximum temperature. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 Analyzing the abrupt temperature change ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the West, $\\mathrm { T _ { n v } }$ changed at the annual, spring, summer, autumn, and winter scales in 1989,1993, 1996,1991 and 1978, respectively (the sequence for continued warming and remarkable warming trends for the various years willbe listed as follows: year, spring, summer, autumn, and winter, not chronologically). Before the abrupt temperature change, the temperature fluctuated considerably, with continued warming beginning in 1972,1957,1987,1977 and 1972. Significant warming (confidence coefficient values exceeding $\\scriptstyle { \\mathfrak { a } } = 0 . 0 5$ according to the significance test； additional details are presented below) began in 2000,2001,2006,1999 and 1990. In the central area, $\\mathrm { T _ { n v } }$ changed abruptly in 1988,1985,1996,1992 and 1981.The $\\mathrm { T _ { n v } }$ values in the central area at the annual， spring,and autumn scales fluctuated slightly before the abrupt temperature change. However, the period of this fluctuation was comparatively short, and continued warming trends began in 1958,1960,1994,1957 and 1975. Significant warming started in 1997,1997,2007,1994 and 1996.In the East, $\\mathrm { T _ { n v } }$ changed abruptly in 1981,1973,1994,1992 and 1971.Continued warming trends began in 1957,1960,1973,1988 and 1956. In autumn and winter, although significant warming occurred later in the East than in the central area and West, it occurred earlier in other seasons and at the annual scale. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the West, $\\mathrm { T _ { n v } }$ in winter changed earlier than it did in the central area.Annual and seasonal temperature changes occurred first in the East, followed by the central area and West. Specifically, the abrupt temperature change in summer in the central area was in agreement with that in the West, whereas the change in autumn in the central area was inconsistent with that in the East.The continued warming trend began first in the East, except in spring and autumn; however, this change was detected earliest in the East in other years and seasons. Significant warming occurred earlier in the East, except in autumn and winter. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the study area, annual, spring,and winter temperature changes in the West, central area and East occurred increasingly earlier over time.The summer and autumn temperature change occurred earliest in the central area, followed by the East and West. The timing of the change in $\\mathrm { T _ { n a v } }$ in the East was concurrent with that in the West.In summer, $\\mathrm { T _ { n a v } }$ in the West fluctuated slightly before the abrupt temperature change,whereas in other years and seasons it fluctuated significantly. Continued warming began in 1958,1958,1981,1951 and 1972. Significant warming began in 1998, 1999,2002,1999 and 1998.The fluctuations in $\\mathrm { T _ { n a v } }$ in the central area and East before the abrupt temperature change were similar to those observed in the West. The continued warming in the central area started in 1958,1958,1952,1963 and 1957. Continued warming at the annual (1957) and winter (1956) scales in the East began earlier than in the central area. Warming in spring, summer, and autumn occurred later than in the central area, starting in 1959,1984 and 1982, respectively. Significant warming in the central area began in 1992,1991,1998,1987 and 1989.In autumn, $\\mathrm { T _ { n a v } }$ in the East displayed a significant warming trend between l994 and 1995 and a continued warming trend after 2O04. Significant warming in other years and seasons started in 1994. 1989,1999 and 1991. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The earliest change in annual and seasonal $\\mathrm { T _ { x a v } }$ values occurred in the East.In contrast, in the other two areas, the timings of the change in $\\mathrm { T _ { x a v } }$ in summer, autumn,and winter in the central area were late, with the changes in the annual and spring $\\mathrm { T _ { x a v } }$ values being the latest. The annual, spring, summer, and winter $\\mathrm { T _ { x a v } }$ values in the West fluctuated considerably during the 195Os and 1960s. The temperature in autumn before the abrupt temperature change generally fluctuated below zero degrees. Continued warming started in 1987,1997,1998,1988 and 1986, whereas remarkable warming began in 2004, 2006,2011,2002 and 1997. The $\\mathrm { T _ { x a v } }$ values in summer,autumn,and winter in the central area shifted slightly before the abrupt temperature change. Continued warming began in 1988,1961, 2000,1994 and 1987, whereas remarkable warming started in 2004,1999, 2007, 2007 and 1998.The $\\mathrm { T _ { x a v } }$ values in the four seasons varied substantially in the East before the abrupt temperature change.Remarkable warming began in 1959,1967,1968,1989 and 1971. Except in autumn (2O13), remarkable warming in other years and seasons in the East occurred earlier than in the central area and West, including 1996,1989 and 2006. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The timing of $\\mathrm { T _ { n v } }$ shifts was earlier than that of $\\mathrm { T _ { n a v } }$ shifts in the East. In the other areas, Tnav shifted the earliest,whereas $\\mathrm { T _ { x a v } }$ shifted the latest.Except for spring in the East, the $\\mathrm { T _ { x a v } }$ values in all four seasons in other areas shifted the latest. The $\\mathrm { T _ { n v } }$ $\\mathrm { T _ { n a v } }$ and $\\mathrm { T _ { x a v } }$ values in summer in the West, central area,and East shifted the latest, whereas the corresponding values in winter shifted the earliest. The gap between summer and winter was longest in the East, followed by the West and central area. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3Annual and quarterly temperatures before and after the abrupt temperature change ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The temperature shifts at annual and quarterly scales before and after the abrupt temperature change are shown in Figures 3-5. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figures 3-5 show that the three temperature metrics increased in all areas after the abrupt temperature change.The greatest mean increase occurred in $\\mathrm { T _ { n a v } }$ , followed by $\\mathrm { T _ { n v } }$ and $\\mathrm { T _ { x a v } }$ . The CV values before/after the temperature shift in the West, central area, and East were $0 . 0 7 8 / 0 . 0 6 9$ ， $0 . 1 8 4 / 0 . 1 2 3$ ,and 3.849/0.64, respectively. The values of $\\mathrm { T _ { n a v } }$ before/after the abrupt temperature change were 0.996/0.288 (West), 0.237/0.582 (central area),and 0.103/0.124 (East), while the $\\mathrm { T _ { x a v } }$ values before/after the abrupt temperature change were 0.038/0.038 (West), $0 . 0 6 9 / 0 . 0 6 8$ (central area),and 0.106/0.088 (East). Clearly, $\\mathrm { T _ { n a v } }$ in the central area and East shifted before the abrupt temperature change, and the same change occurred for $\\mathrm { T _ { x a v } }$ in the West. All temperature metrics gradually increased and exhibited remarkable periodic fluctuations before the abrupt temperature change. All thre temperature metrics exhibited upward trends prior to the abrupt temperature change.In the West, central area,and East, the shift in $\\mathrm { T _ { x a v } }$ failed to pass the significance test, whereas the other temperature metrics satisfied the $F$ test in all areas $( a = 5 \\% )$ . The trends of $\\mathrm { T _ { n v } }$ before the abrupt temperature change in the West, central area,and East were O.188/1Oa, 0.175/ /10a and O.231/1Oa, respectively, while after the change they were $0 . 3 3 5 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a }$ ， $0 . 2 5 3 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a }$ and $0 . 2 7 5 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a }$ ，respectively. The values of $\\mathrm { T _ { n a v } }$ before the abrupt temperature change were $0 . 2 3 2 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a }$ ， $0 . 3 2 2 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a }$ and $0 . 1 2 7 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a }$ ，whereas after the abrupt temperature change the values were $0 . 4 8 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a }$ ， $0 . 3 4 6 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a }$ and $0 . 1 7 5 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a }$ , respectively. Additionally, the values of $\\mathrm { T _ { x a v } }$ before the abrupt temperature change were O.088/1Oa (West), 0.116/1Oa (central area) and $0 . 1 2 3 / 1 0 \\mathrm { a }$ (East) and were $0 . 1 8 1 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a }$ (West), $0 . 1 5 2 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a }$ (central area) and $0 . 0 6 1 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a }$ (East) after the change. It was found that before and after the abrupt temperature change, $\\mathrm { T _ { n a v } }$ rapidly increased in all areas, with the fastest changes in the central area and West. Of the three metrics, $\\mathrm { T _ { x a v } }$ increased the slowest. There was a distinct increase in $\\mathrm { T _ { n v } }$ in the East, $\\mathrm { T _ { n a v } }$ in the central area, and $\\mathrm { T _ { x a v } }$ in the East before the abrupt temperature change.However, allthree temperature metrics exhibited similar trends in the West after the abrupt temperature change. The rate of increase of $\\mathrm { T _ { x a v } }$ before the abrupt temperature change in the East was greater than that afterwards.The opposite behavior was observed for the temperature metrics in the other areas. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "West Central East 16 (a) 13 (b) 10 (c)   \nB 2Ⅱ09 9876 12 8 5 1161 8561 9965 7161 6L6I 986L £665 2000 4007 4444 1115 8961 160 6L6I 101 2000 2007 4441 1115 8961 9961 0 9861 £661 2000 2007 4041 9 (d) 6.5 (e) 3.1 (f)   \n8 8 M 54535255 2.1   \n人 76 NV 0.1 -0.9 5 1.5 -1.9 8 10 9861 £661 1000 4401 18 100 9861 £665 2000 4007 4444 008 10％ 13 2000 4007 4041 4 (g) 0.5 (h) 4.2 (i)   \n（。) 32 wn -0.5 -5.2 -1.5   \nT 10 -2.5 -6.2 1 4.5 -8.2 1 1161 8565 102 986[ £665 2000 10 1161 1800 9861 £665 2000 00 Annual Legend Annualy (quarterly) value Mean value of the periods before and after the abrupt temperature change Five-year moving average Demarcation lines indicating when the abrupt temperature change occurred Demarcation lines indicating when the warming hiatus occurred Five-year moving average line before the abrupt temperature change Five-year moving average line after the abrupt temperature change - Trend lines before and after warming hiatus West Central East (a) 17(b) 13(c)   \n） A W 15 13 WAn 11 9 1V 11N 32 Y 000 1 9 9 5 6 1 5 11 11 (d） 10 (e) 5 (f)   \n8 At 816 3 AMAP W V M 44 1 YA 10 皖 19 9 G (g） 2 (h) 3 () DALA 0 MAAAAY AAAPT 0 W 2 AV d VEW 皖食 Spring 31i) 29(k) 28 ()   \n(5.) 30 A AN M MAA 2827 26 A   \nT 2827 4 26 W 24 美 WW 2002020 24(m) 24(n) 21 （0）   \n8 2322 WAA 22 AAA 2   \n工公 A 20 MN yyu →   \n14FV 164 18 (p) E4 A4 L 14A4AWV 17 (q) 15 16 A KAN AAA 15 (r) 13 11 M MWTV AA 13 VV 食 鑫窗食 9 Summer Legend Annualy (quarterly) value Mean value of the periods before and after the abrupt temperature change Five-year moving average Demarcation lines indicating when the abrupt temperature change occurred Demarcation lines indicating when the warming hiatus occurred Five-year moving average line before the abrupt temperature change Five-year moving average line after the abrupt temperature change --- Trend lines before and after warming hiatus West Central East (0) (a) WAAW 15[ (b) 43 12 10[ ) W AXL V 11 6 PFVV 10 9   \ng (e) 2.5[ ( 1 MANAW 5 0.5 小 FMWP 0.5 WY NW 5 0.7 (b) 2 (i)   \nS -0.3 4 W Ngm -2.34l N MW WA 6 W -3.3 7 5 Autumn 2 i 0[(k） 6[ (1)   \nC 0 M -2 -8 A -2 -4 A.mM G -6 4 MALhTV -12 -10A -14 -6 (m) -10[(n) -19 (0）   \n8 -10 -8 MML W -12 -14A -21 -23 N MA AbLAA   \nT-12 HV -16 -25 -11 (p) -14 (q) -22 (r)   \ng A MAAV 160820 242628 LNN Wp 2 -19 -22 -30 Winter Legend Annualy (quarterly) value Mean value of the periods before and after the abrupt temperature change Five-year moving average Demarcation lines indicating when the abrupt temperature change occurred Demarcation lines indicating when the warming hiatus occurred Five-year moving average line before the abrupt temperature change Five-year moving average line after the abrupt temperature change -- Trend lines before and after warming stagnation ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The results indicated shifts in $\\mathrm { T _ { n v } }$ and $\\mathrm { T _ { x a v } }$ in spring, summer and autumn all three temperature metrics in winter in the West were more intense before the abrupt temperature change than after it. In winter, the three temperature metrics changed dramatically in the central area, whereas $\\mathrm { T _ { n a v } }$ and $\\mathrm { T _ { x a v } }$ in spring, summer, and autumn changed less dramatically before the abrupt temperature change. In the East, $\\mathrm { T _ { n a v } }$ in spring and winter and $\\mathrm { T _ { x a v } }$ in summer shifted less substantially after the abrupt temperature change than before it.The three temperature metrics in autumn changed slightly before the abrupt temperature change. The above analysis shows that the temperature shifted more severely after the abrupt temperature change, which partly explains why the temperature changed more rapidly after the abrupt temperature change.The temperature changes in other areas exhibited the opposite trend in all seasons. Generally, $\\mathrm { T } _ { \\mathrm { n a v } }$ in spring, summer, and autumn changed the most, followed by $\\mathrm { T _ { n v } }$ , and $\\mathrm { T _ { x a v } }$ . In winter, the opposite trend was observed. In all areas,both before and after the abrupt temperature change, all temperature metrics in winter changed to a greater extent than in summer. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The mean values of all temperature metrics were greater after the abrupt temperature change than before it in the West, central area,and East. Before and after the abrupt temperature change, the metric that displayed the greatest difference in the four seasons was $\\mathrm { T _ { n a v } }$ ,followed by $\\mathrm { T _ { n v } }$ and $\\mathrm { T _ { x a v } }$ . In some areas, the opposite trend was observed. Before the abrupt temperature change, $\\mathrm { T _ { n v } }$ $( 0 . 8 2 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a } )$ and $\\mathrm { T _ { x a v } }$ $\\left( 0 . 6 2 8 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a } \\right)$ in spring in the East made the greatest contributions to the rising temperature. However, after the abrupt temperature change this role was attributed to the same metrics in autumn.In winter, $\\mathrm { T _ { n a v } }$ $( 0 . 5 1 9 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a } )$ in the central area contributed the most to the rising temperature before the abrupt temperature change, whereas afterwards the contribution from the same metric was greatest in autumn. Overall, $\\mathrm { T _ { n a v } }$ contributed the most to the rise in temperature in all seasons before and after the abrupt temperature change, followed by $\\mathrm { T _ { n v } }$ and $\\mathrm { T _ { x a v } }$ ： In all areas,the periodic fluctuation in temperature in all seasons was much smoother after the abrupt temperature change. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.4Warming hiatus after the abrupt temperature change ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "After the abrupt temperature change in the study area, a warming hiatus occurred between 1991 and 2008(Fig.3; Table $1 ; \\mathrm { T } _ { 1 }$ , the period before the abrupt temperature change; $\\mathrm { T } _ { 2 }$ , the period after the abrupt temperature change but before the warming hiatus; and ${ { \\mathrm { T } } _ { 3 } }$ , the period after the warming hiatus).The rates of temperature increase were all close to zero or slightly negative. On the interannual scale, $\\mathrm { T _ { n v } }$ and $\\mathrm { T _ { n a v } }$ in the West exhibited a warming hiatus after 2Ooo, whereas $\\mathrm { T _ { x a v } }$ exhibited a warming hiatus in 1999.Table 1 shows that $\\mathrm { T _ { x a v } }$ was highest and $\\mathrm { T _ { n a v } }$ was lowest in the West in $\\mathrm { T } _ { 2 }$ and ${ { \\mathrm { T } } _ { 3 } }$ . Thus, $\\mathrm { T _ { x a v } }$ reacted substantially to both the abrupt rise in the temperature and warming hiatus.Alltemperature metrics declined after the warming hiatus. The rates of decrease of the annual $\\mathrm { T _ { n v } }$ ， $\\mathrm { T _ { n a v } }$ ,and $\\mathrm { T _ { x a v } }$ values were lower than the rates of increase before the warming hiatus.The mean values in $\\mathrm { T } _ { 2 }$ and ${ { \\mathrm { T } } _ { 3 } }$ indicated that although the temperature declined after the abrupt temperature change, the mean temperature in ${ \\mathrm { T } } _ { 3 }$ was still higher than that in $\\mathrm { T } _ { 2 }$ . Of the three metrics,the difference in the value of $\\mathrm { T _ { x a v } }$ was smallest before and after the warming hiatus, followed by $\\mathrm { T _ { n v } }$ . The greatest difference was detected for $\\mathrm { T _ { n a v } }$ ： ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The three temperature metrics in the central area displayed a warming hiatus in 20o6. Of the three metrics,the trends in $\\mathrm { T _ { x a v } }$ were greatest before and after the warming hiatus,and had the greatest rate of decrease.The rates of decrease of the three temperature metrics in the central area in ${ { \\mathrm { T } } _ { 3 } }$ were higher than the rates of increase in $\\mathrm { T } _ { 2 }$ . Comparison of the values of the metrics before the warming hiatus and after the abrupt temperature shift revealed that $\\mathrm { T _ { x a v } }$ in the central area slightly decreased after the warming hiatus, whereas the other two temperature metrics increased. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In the East, $\\mathrm { T _ { n a v } }$ displayed a warming hiatus in 1992, while $\\mathrm { T _ { n v } }$ and $\\mathrm { T _ { x a v } }$ exhibited a warming hiatus in 2006. The rates of decrease of $\\mathrm { T _ { n v } }$ and $\\mathrm { T _ { x a v } }$ in ${ { \\mathrm { T } } _ { 3 } }$ were higher than the rates of increase in $\\mathrm { T } _ { 2 }$ The rate of increase of $\\mathrm { T _ { n a v } }$ $( 1 . 7 0 9 ^ { \\circ } \\mathrm { C } / \\mathrm { a } )$ in $\\mathrm { T } _ { 2 }$ was high before the hiatus,but it had the lowest rate of decrease $( - 0 . 1 4 3 ^ { \\circ } \\mathrm { C } / \\mathbf { a } )$ of all three metrics after the warming hiatus. Conversely, the rate of increase of the annual $\\mathrm { T _ { x a v } }$ value was lowest in $\\mathrm { T } _ { 2 }$ , and the rate of decrease was highest in ${ \\mathrm { T } } _ { 3 }$ . The annual $\\mathrm { T _ { n a v } }$ had the most obvious reaction to increasing temperature,while the annual $\\mathrm { T _ { x a v } }$ had the most obvious reaction to decreasing temperature. The mean values of annual $\\mathrm { T _ { n v } }$ and $\\mathrm { T _ { n a v } }$ after the warming hiatus were higher than those before the warming hiatus.For $\\mathrm { T _ { x a v } }$ , the opposite was true. A comprehensive evaluation of the three temperature metrics in the West, central area,and East revealed that the climate trends of annual $\\mathrm { T _ { n v } }$ in $\\mathrm { T } _ { 2 }$ were highest in the West, followed by the central area.The opposite pattern was observed for ${ \\mathrm { T } } _ { 3 }$ . The rate of increase of $\\mathrm { T _ { n a v } }$ was highest in the east in $\\mathrm { T } _ { 2 }$ ，while the rate of decrease was highest in the central area in ${ { \\mathrm { T } } _ { 3 } }$ The rise in $\\mathrm { T _ { x a v } }$ was most apparent in the East followed by the central area.The rate of decrease in the East was the highest in ${ { \\mathrm { T } } _ { 3 } }$ Overall, the rate of increase of $\\mathrm { T _ { x a v } }$ in $\\mathrm { T } _ { 2 }$ was highest in the west, while the lowest value was found in the East. The rate of decrease of $\\mathrm { T _ { x a v } }$ in ${ { \\mathrm { T } } _ { 3 } }$ was highest in the East, confirming that among the three temperature metrics in all areas, $\\mathrm { T _ { x a v } }$ reacted the most strongly to both the abrupt rise in temperature and the warming hiatus. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/9dbee5097c96ca19936180535fbfe73b6928245e1f756cec7a89ff17101b4162.jpg",
+        "table_caption": [
+            "Table 1 Trends of various temperature metrics in $\\mathrm { T } _ { 2 }$ and ${ \\mathrm { T } } _ { 3 }$ $\\left( ^ { \\circ } \\mathbf { C } / \\mathbf { a } \\right)$ "
+        ],
+        "table_footnote": [
+            "Note: -,no warming hiatus. $\\mathrm { T _ { n v } }$ ,average temperature; $\\mathrm { T _ { n a v } }$ ,average minimum temperature; $\\mathrm { T _ { x a v } }$ ,average maximum temperature; $\\mathrm { T _ { l } }$ ,the period before the abrupt temperature change; $\\mathrm { T } _ { 2 }$ ,the period after the abrupt temperature change but before the warming hiatus; and $\\mathrm { T } _ { 3 }$ the period after the warming hiatus. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Time</td><td rowspan=\"2\">Area</td><td colspan=\"2\">Tnv (C/a)</td><td colspan=\"2\">Tnav (C/a)</td><td colspan=\"2\">Txav (C/a)</td></tr><tr><td>T</td><td>T</td><td>T</td><td>T</td><td>T</td><td>T</td></tr><tr><td rowspan=\"3\">Annual</td><td>West</td><td>1.140</td><td>-0.144</td><td>0.780</td><td>-0.023</td><td>1.915</td><td>-0.162</td></tr><tr><td>Central</td><td>0.535</td><td>-1.589</td><td>0.574</td><td>-1.356</td><td>0.850</td><td>-2.375</td></tr><tr><td>East</td><td>0.526</td><td>-1.706</td><td>1.709</td><td>-0.143</td><td>0.412</td><td>-2.413</td></tr><tr><td rowspan=\"3\">Spring</td><td>West</td><td>2.634</td><td>-0.171</td><td>0.967</td><td>-1.636</td><td>1.164</td><td>-0.177</td></tr><tr><td>Central</td><td>1.132</td><td>-0.727</td><td>1.069</td><td>-0.670</td><td>1.443</td><td>-1.348</td></tr><tr><td>East</td><td>0.833</td><td>-0.203</td><td>1.364</td><td>-0.129</td><td>1.286</td><td>-0.339</td></tr><tr><td rowspan=\"3\">Summer</td><td>West</td><td></td><td>-</td><td></td><td>-</td><td>-</td><td>-</td></tr><tr><td>Central</td><td></td><td></td><td>-</td><td>-</td><td></td><td></td></tr><tr><td>East</td><td>0.777</td><td>-0.255</td><td>-</td><td></td><td>1.294</td><td>-0.712</td></tr><tr><td rowspan=\"3\">Autumn</td><td>West</td><td>0.848</td><td>-1.109</td><td>1.009</td><td>-1.148</td><td>0.010</td><td>-1.045</td></tr><tr><td>Central</td><td>0.855</td><td>-0.971</td><td>0.386</td><td>-0.660</td><td>1.985</td><td>-2.118</td></tr><tr><td>East</td><td>0.445</td><td>-0.092</td><td>0.013</td><td>-0.341</td><td>1.043</td><td>-0.358</td></tr><tr><td rowspan=\"3\">Winter</td><td>West</td><td>1.050</td><td>-0.693</td><td>1.340</td><td>-0.224</td><td>0.309</td><td>-1.263</td></tr><tr><td>Central</td><td>1.747</td><td>-0.268</td><td>1.240</td><td>-0.787</td><td>0.214</td><td>-0.964</td></tr><tr><td>East</td><td>1.180</td><td>-1.042</td><td>1.433</td><td>-1.096</td><td>1.345</td><td>-1.227</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In terms of the season, all temperature metrics in all areas experienced a warming hiatus or even a cooling in various years after the abrupt temperature change, except in summer in the West and central area.However, $\\mathrm { T _ { n a v } }$ in summer in the East did not exhibit this trend. Of the years that exhibited a warming hiatus in allthree temperature metrics,this phenomenon was observed earliest in spring in the East (1991), followed by the central area (20o0). The average summer temperature and average maximum summer temperature exhibited a warming hiatus in 2006. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The timing of the warming hiatus in terms of $\\mathrm { T _ { n a v } }$ in autumn was later in the West (20o8) than for all other temperature metrics in the other areas, where the warming hiatus began in 2006.A warming hiatus was detected for all three temperature metrics in all partitions in the 1990s, especially in 1997. The trends of all temperature metrics in $\\mathrm { T } _ { 2 }$ and ${ { \\mathrm { T } } _ { 3 } }$ are presented in Table 1. In comparison, the fastest rate of increase among the metrics was found for $\\mathrm { T _ { n v } }$ in spring in $\\mathrm { T } _ { 2 }$ in the West, with the next fastest rates of increase being found for $\\mathrm { T _ { x a v } }$ in autumn in the central area and $\\mathrm { T _ { n a v } }$ in winter in the East. The fastest rate of decrease among the metrics was found for $\\mathrm { T _ { x a v } }$ in autumn in the central area in ${ { \\mathrm { T } } _ { 3 } }$ $( - 2 . 1 1 8 ^ { \\circ } \\mathrm { C } / \\mathbf { a } )$ ， followed by $\\mathrm { T _ { n a v } }$ in spring in the west and $\\mathrm { T _ { n v } }$ in autumn in the West $( - 1 . 1 0 9 ^ { \\circ } \\mathrm { C } / \\mathrm { a } )$ . In $\\mathrm { T } _ { 2 }$ and ${ { \\mathrm { T } } _ { 3 } }$ , the mean values of each type of temperature ${ { \\mathrm { T } } _ { 3 } }$ period in spring was higher than that of $\\mathrm { T } _ { 2 }$ period. Additionally, the greatest mean difference $( 0 . 9 3 ^ { \\circ } \\mathrm { C } )$ in $\\mathrm { T _ { n a v } }$ was found in the East. Other than the mean temperature in autumn in the West and central area, which decreased after the warming hiatus and affected $\\mathrm { T _ { x a v } }$ , the mean values of all temperature metrics were higher in ${ { \\mathrm { T } } _ { 3 } }$ than in $\\mathrm { T } _ { 2 }$ . The highest mean value of $\\mathrm { T _ { n v } }$ was found in the central area $( 0 . 3 9 ^ { \\circ } \\mathrm { C } )$ . The mean values of $\\mathrm { T _ { x a v } }$ in winter in the West and $\\mathrm { T _ { n v } }$ in the central area and ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "East in ${ \\mathrm { T } } _ { 3 }$ were smaller than those in $\\mathrm { T } _ { 2 }$ . For all temperature metrics in the other areas, the opposite behavior was observed. The mean difference in $\\mathrm { T _ { n a v } }$ was the largest among the three metrics $( 0 . 6 5 ^ { \\circ } \\mathrm { C } )$ ： ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In summary,the three temperature metrics in spring in the east exhibited the warming hiatus first, and the phenomenon was detected later in other areas.In the East, $\\mathrm { T _ { n v } }$ and $\\mathrm { T _ { x a v } }$ in summer exhibited a warming hiatus in 2Oo6. In contrast, in the other areas,a warming hiatus was not observed and $\\mathrm { T _ { n v } }$ and $\\mathrm { T _ { x a v } }$ exhibited upward trends. Based on the trends in the study area, the temperatures in most areas reflected a warming hiatus. However, this phenomenon was not completely reflected in the mean values of all temperature metrics in all areas. The mean values of all temperature metrics in the West, central area,and East displayed both increases and decreases; however, the magnitudes of these variations were small. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Figure 6 presents the distribution of years in which the three temperature metrics in different areas exhibited a warming hiatus. The three temperature metrics increased at the spring, summer, autumn, winter,and annual scales.As shown in Figure 6,in years when the temperature changed early, the warming hiatus also occurred early. The abrupt temperature changes in the three temperature metrics mainly occurred between 1980 and 1995.The shifts in the three temperature metrics in winter in the West,central area and East were detected early (mostly between the 1970s and 1980s). In contrast, those corresponding to summer and autumn occurred later (mostly after the 1990s). The years with a warming hiatus mainly occurred after 1985 and were concentrated between 1997 and 2006.Trend lines of the three temperature metrics were plotted in a scatterplot of the abrupt temperature change and warming hiatus. The slope of $\\mathrm { T } _ { \\mathrm { n a v } }$ (1.794) was found to be the highest, followed by those of $\\mathrm { T _ { n v } }$ (0.954) and $\\mathrm { T _ { x a v } }$ (-0.774). Thus,when the temperature metrics shifted in uniform years, the warming hiatus affected $\\mathrm { T _ { n a v } }$ latest, and the effect on $\\mathrm { T _ { x a v } }$ was observed earliest. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/068a809ffbb0ec103f1cd4108e670f7331417f18a65df73961a8921aa6c1db36.jpg",
+        "img_caption": [
+            "Fig.6Distribution of years showing an abrupt temperature change and warming hiatus "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "A comprehensive analysis of the serial variations in $\\mathrm { T _ { n v } }$ ， $\\mathrm { T _ { n a v } }$ ,and $\\mathrm { T _ { x a v } }$ in the West, central area and ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "East of IMAR between 1951 and 2014 revealed that al temperature metrics tended to increase both before and after the abrupt temperature change,except for some $\\mathrm { T _ { x a v } }$ values in the West,which displayed a slight but non-significant downward trend. The results indicate that temperature variations in most areas were synchronized with global warming,although in some areas they were not. Central Asia experienced temperature changes in the 198Os (Hu et al.,2016). The winter change occurred earliest in the farming-pastoral ecotone of north China in 1978 (1978), while the summer (1991) change lagged behind (Lin et al.,2016). There was an abrupt change in $\\mathrm { T _ { n v } }$ in the four seasons in IMAR between 1953 and 2013.It has previously been reported that the winter temperature changed the earliest and the summer temperature changed the latest (Tian and Niu, 2016),which was in agreement with the results of this study. The three temperature metrics in winter in southern China changed in the 1990s (Zeng et al., 2016),while $\\mathrm { T _ { n v } }$ in northern China displayed a warming shift over the past 57 years.The temperature in northeastern China shifted in 1994,whereas temperatures in northern and eastern China shifted in 1997 (Wang et al., 2009). In arid and semi-arid regions of Northwest China, over the past 46 years, the temperature in autumn was reported to have shifted once between 1987 and 1988 (Chen et al.,2009).These findings differ from those found in this study.This difference may be attributable to the use of different numbers of stations,research methods,and/or time periods. After the abrupt temperature change,as the temperature rapidly increased, the weather primarily became dry and significantly affected the occurrence of drought (Ning et al., 2011). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Regarding the underlying causes of abrupt temperature changes， previous research has investigated natural and human factors. The Arctic Oscillation (AO) is thought to be the main natural cause of these variations and mainly occurs in high-latitude areas (Thompson and Wallace, 1998). Solar activity, ozone,and aerosols could also play a role in these changes (Ren et al., 2005). Human factors include the various greenhouse gases generated by human activities, such as $\\mathrm { C O } _ { 2 }$ ， which contribute to global warming (Kosaka and Xie, 20l3),as well as increases in the population, urban development, and economic and social improvements. These factors can create urban heat island effects and contribute to rises and shifts in temperature. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The temperatures in the study area continued to increase after the abrupt temperature change, but the overall rate of increase was close to zero or even negative between 1991 and 2008, indicating a warming hiatus. A global warming hiatus is the stagnation of remarkable rises in temperature or even a slight decrease in the temperature relative to the peak temperature, which was observed in 1998 (Easterling and Wehner, 2O09). One of the conclusions of this study was that in winter in some areas, the apparent cooling trend was in agreement with the findings of Chen et al. (2009), who reported that winter temperatures in tropical areas of the northern hemisphere exhibit a cooling trend.Furthermore,this analysis revealed that a warming hiatus occurred in autumn, spring, and summer in some areas. These findings are partly consistent with the conclusions of other researchers,who reported that $\\mathrm { T _ { n v } }$ has displayed a warming hiatus worldwide.Additionally, the regional warming hiatus observed in China is consistent with the larger global trend. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "There are two main causes of this warming hiatus.The first comprises the action of solar activity (Svensmark et al.， 2009)，volcanic aerosols (Solomon et al.， 2011)，anthropogenic aerosols (Kaufmann et al.,2011) and stratospheric water vapor (Solomon et al.,2010). The second is natural variability, which includes the Pacific Decadal Oscillation (PDO)(Balmaseda et al.,2013),Atlantic meridional overturning circulation (AMOC) (Meehl et al.,2013) and the absorption of energy by the deep ocean (Liu and Sui 2O14). The main cause is the influence exerted by the ocean. Guemas et al. (2013) first noted that increased absorption by the ocean contributed to a warming hiatus. Additionally,researchers have proposed that the warming hiatus is likely to be temporary and the cycle will not exceed 15 years (Kerr, 20o9). Based on this theory,the observed phenomenon is just a small fluctuation in the overall long-term climate change (Karl et al., 2015). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This study involved a detailed examination of warming hiatus and abrupt temperature change processes in IMAR. The number of stations and the periods for which data were available led to limitations in the analyses of long-term temperature trends and the causes of the overall warming hiatus.In the East, $\\mathrm { T _ { n v } }$ changed earlier than $\\mathrm { T _ { n a v } }$ at the annual (1981),spring(1973),and winter (1971） scales.In other areas, $\\mathrm { T } _ { \\mathrm { n a v } }$ changed the earliest， followed by $\\mathrm { T _ { n v } }$ and $\\mathrm { T _ { x a v } }$ . The three temperature metrics changed latest in summer (199Os), whereas the changes occurred earliest in winter (1970s). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Before and after the abrupt temperature change: ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(1) the average annual temperature in the East fluctuated dramatically. In the other areas, $\\mathrm { T _ { n a v } }$ shifted the most and $\\mathrm { T _ { x a v } }$ changed the least.At the seasonal scale, the winter temperature changed more dramatically than the summer temperature.Additionally, the mean values of all temperature metrics in all four seasons in the West, central area and East were greater after the abrupt temperature change than before it. The greatest average difference was found for $\\mathrm { T _ { n a v } }$ followed by $\\mathrm { T _ { n v } }$ and $\\mathrm { T _ { x a v } }$ . A few regions displayed the opposite trend. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(2) Before and after the abrupt temperature change, $\\mathrm { T _ { n a v } }$ increased the fastest of the three metrics at $0 . 3 2 2 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a }$ (central area) and $0 . 4 8 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a } ( \\mathrm { W e s t } )$ . Before the abrupt temperature change, $\\mathrm { T _ { n v } }$ and $\\mathrm { T _ { x a v } }$ made the greatest contributions to the increasing temperature in spring in the east, whereas after the abrupt temperature change, $\\mathrm { T _ { n v } }$ （ $0 . 5 0 4 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a }$ (central area)) and $\\mathrm { T _ { x a v } }$ 0 $0 . 5 0 8 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a }$ (East)) in autumn made the greatest contribution. The largest contributions to the temperature increase were from $\\mathrm { T _ { n a v } }$ in winter in the East( $( 0 . 5 1 9 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a } )$ and in autumn in the West $( 0 . 7 2 9 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a } )$ ： Additionally, periodic fluctuations became less intense after the abrupt temperature change. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In the years when early temperature changes were observed, the warming hiatus also occurred early. The three temperature metrics in spring in the east exhibited a warming hiatus first (1991). The warming hiatus in autumn in the study areas occurred late, generally after 2O06.In summer, $\\mathrm { T _ { n v } }$ and $\\mathrm { T _ { x a v } }$ in the East exhibited warming hiatus trends； however, this phenomenon was not observed in other regions. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In the East, $\\mathrm { T _ { x a v } }$ （ $( 0 . 4 1 2 ^ { \\circ } \\mathrm { C } / \\mathrm { a } )$ had the slowest rate of increase of the three metrics after the abrupt temperature change but before the warming hiatus, with a rapid decreasing trend after the abrupt temperature change $( - 2 . 4 1 3 ^ { \\circ } \\mathrm { C } / \\mathrm { a } )$ . Conversely, there was a rapid rate of increase in the average annual temperature $( 1 . 1 4 ^ { \\circ } \\mathrm { C } / \\mathrm { a } )$ after the abrupt temperature change but before the warming hiatus, which became slightly negative $( - 0 . 1 4 4 ^ { \\circ } \\mathrm { C } / \\mathbf { a } )$ after the abrupt temperature change.At the seasonal scale,the most rapid increase in the three temperature metrics was found for $\\mathrm { T _ { n v } }$ in spring $( 2 . 6 3 4 ^ { \\circ } \\mathrm { C } / \\mathrm { a } )$ in the West after the abrupt temperature change but before the warming hiatus. In contrast, the most rapid decrease was found for $\\mathrm { T _ { x a v } }$ （20 $( - 2 . 1 1 8 ^ { \\circ } \\mathrm { C } / \\mathbf { a } )$ in autumn in the central area. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The data used in the analysis were mean values determined for defined areas,and therefore regional heterogeneity could not be considered. These limitations certainly impacted the representativeness of the results.In future studies, the collection of additional meteorological station data,development of new theories and methods,and analysis of the features of abrupt climate change and the causes of warming hiatuses should enable sustainable development strategies to be designed and the future climate and environmental changes to be predicted. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "This research was supported by the Program for Young Talents of Science and Technology in Universities of the Inner Mongolia Autonomous Region,the National Key Research and Development Plan (2017YFC0404305),and the National Natural Science Foundation of China (51669016). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Ai W,Lin X.1995.Climaticabruptchange inthe northern hemisphere for192Osand1950s.JournalofMeteorological Research, 9(2): 190-198.   \nBalmasedaMA,TrenberthKE,KallenE.20l3.Distinctiveclimatesignalsinreanalysisof globaloceanheatcontentGeopyical Research Letters,40(9):1754-1759.   \nBruleboisE,CastelT,YvesR.2O15.Hydrologicalresponse toanabruptshiftinsurfaceairtemperatureoverFrancein98/88. Journal of Hydrology, 531: 892-901.   \nChen S,GuoJ,HanT,etal2o9.Climate warmingofautumnairtemperature inaridandsemiaridregions inNorthwest Chinaover the recent 46 years.Journal of Desert Research,29(3): 544-550. (in Chinese)   \nChen YN,DengHJ,LiBF,etal.2O14.Abruptchangeof tmperatureand precipitationextremes inthearidregioofNorthwest China. Quaternary International,336(26): 35-43.   \nCheng H.2004.Abrupt climate change: debate or action.Chinese Science Bulletin,49(18):1997-2002.   \nCui Y,KumpLR.2015.Global warmingandthe ed-Permianextinctionevent: proxyand modeling perspectives.Earth-cience Reviews,149: 5-22.   \nDelworthTL,ZengFR,Rosati A,etal.2O15.Alinkbetweenthe hiatus inglobal warmingandNorthAmerican drought.Journal of Climate,28(9): 3834-3845.   \nDong B W,Suton RT,Chen W,et al.2O16.Abrupt summer warming and changes in temperature extremes over Northeast Asia since the mid-1990s: drivers and physical processs.Advances in Atmospheric Sciences,33(9): 1005-1023.   \nEasterling DR, Wehner MF.2009.Is the climate warming or cooling? Geophysical Research Leters,36(8).   \nGuemas V,Doblas-ReyesFJAndreu-BurillIetal.2l3.Retrospectivepredictionoftheglobal warmingsowdointhepast decade. Nature Climate Change,3(7): 649-653.   \nHu ZY,LiQXChenXetal.16.Catecanges intperatureadprecipiatonxtres inaliegassadofCtral Asia. Theoretical and Applied Climatology,126(3-4): 519-531.   \nKarlTR,ArguezA,HuangB,etal.2015.Posibleartifactsofdatabasesintherecentglobalsurface warming hiatus.Science, 348(6242): 1469-1472.   \nKaufmann RK, Kauppi H,Mann ML,etal.2011. Reconciling anthropogenicclimatechange withobserved temperature 1998- 2008.Proceedings ofthe National Academy of Sciences of the United States of America,108(29):11790-11793.   \nKerr R A.20o9.Both of the world's ice sheets may be shrinking faster and faster. Science,326(5950): 217.   \nKosakaY,XieSP.20l3.Recentglobal-warming hiatus tiedtoequatorialPacificsurfacecoling.Nature,50l(7467): 403-40.   \nLeduc G,VidalL,TachkawaK,etal.O09.ICZratherthanENSOsgnaturefoabruptclimatechangesacrossthetropicalacific? Quaternary Research,72(1): 123-131.   \nLiC,Stevens B,MarotzkeJ.2015.Eurasian wintercooling inthe warming hiatus of1998-2012.Geophysical ResearchLetters, 42(19): 8131-8139.   \nLiFL,JoYH,YanXH,etll6.Clmatesigalsinthed-toig-ltitudeNorthAtnticfromtimeterobseratios.Joal of Climate,29(13): 4905-4925.   \nLin C C,WangK,Sun YM.2016.Studyonthechangeof temperature time series in medium sectionof agro-pastoral ecotoneof Northern China during the last 60 years.Act Agrestia Sinica,24(4):747-753.(in Chinese)   \nLin J,ChenL,Yang M,etal.2Ol3.Thre abruptclimatic eventssincetheLatePleistocene intheNorth Chinaplain.Jouralof Palaeogeography, 2(4): 422-434.   \nLiuP,Sui CH.2O4.Anobservationalanalysisoftheoceanicandatmosphericstructureofglobal-scale multi-decadalvariability Advances in Atmospheric Sciences,31(2): 316-330.   \nLiu Y,WeiZ,LiZ,etal.0l2.StudyondivisionofprecipitationinNorthernChina.Plateau Meteorology31(3):638-645.   \nLv S,LiD,WenJ,etal2010.Analysis onperiodic variationsandabruptchangeofair temperatureover Qinghai-Xizang plateau under global warming.Plateau Meteorology,29(6):1378-1385.(in Chinese)   \nMa X,LiD.2Oo3.Analysesonair temperatureanditsabrupt changeoverQinghai-Xizang plateau in modernage.Plateau Meteorology,22(5): 507-512.(in Chinese)   \nMeehlGA,HuA,ArblasterJM,etal.2O13.Exteallyforcedandinteallygenerateddecadalclimatevariabilityssocatedwith the interdecadal pacific oscilation.Journal of Climate,26(18): 7298-7310.   \nNing X,Dong J,YanJ.2O11The infuunceof temperatures mutations todroughtsandfloodsin Shanbeiregion.JournalofArid Land Resources and Environment, 25(12): 102-106.(in Chinese)   \nRen GY,ChuZY,ZhouYQ,etal.2oo5.Recent progresses instudiesofregional temperaturechanges inChina.Climaticand Environmental Research,10(4):701-716. (in Chinese)   \nSolomon S,RosenlofKH,ortmannRW,etal.2010.Contributionsofstratospheric watervaportodecadal changesintheateof global warming. Science,327(5970): 1219-1223.   \nSolomonS,DanielJS,elyRR,etall1.Tepersstentlyariable\"background\"stratosphericerosollayerandglobalclimate change.Science,333(6044):866-870.   \nSunY,GuoP,YanX,etal.2O0.Dynamicsofvgetationcoveranditselationshipwithclimatechangeadhumanactivitisin Inner Mongolia.Journal of Natural Resources,25(3): 407-414.(in Chinese)   \nSvensmark H,BondoT,vensmarkJ.2O09.Cosmicraydecreasesafectatmosphericaerosolsandclouds.GeophysicalResearch Letters,36(15): doi: 10.1029/2009GL038429.   \nThompsonDWJ,WallaceJM.998.TheArcticoscilltionsignature inthewintertimegeopotentialheightandtmperaturefields. Geophysical Research Letters,25(9):1297-1300.   \nTianH,Niu Z.2016.Theseasonalairtemperatureevolutionin InnerMongoliadurig1953-2O13.JouralofAridLandResources and Environment,30(1): 638-645.(in Chinese)   \nTrenberthKE,FasullJT,BranstatorG,etal.2014.Seasonalaspectsoftherecentpauseinsurface warming.NatureClimate Change,4(10): 911-916.   \nWangH,ZhangB,ZhaoC,etal.2Oo9.Thespatio-temporalcharacteristicsof temperaturechange inrecent57years inorther China. Progress in Geography, 28(4): 643-650.   \nXiaoY,OuyagZ,WangL,etal.16.SpatialpatesofecossteualityinnerMongoliaanditsdrivingforcesanalsis.Acta Ecologica Sinica,36(19):6019-6030.(in Chinese)   \nZarenistanakM,DhordeAG,KripalaniRH.2O14.Trendaalysisandchangepointdetectionofanualandseasonalprecipitation and temperature series over southwest Iran.Journal of Earth System Science,l23(2): 281-295.   \nZeng B,YanCX,YuL,etal.2016.Analysisof wintertemperature inSouth China during1960-2009.PlateauandMountain Meteorology Research,36(2):46-52.(in Chinese)   \nZhouJ,LiangZiuY,tal.l5.i-dcadetemporalchangeandeasoaldecomposiionofateariablesinkeichi watershed (China): stable trend or abrupt shift?Theoreticaland Applied Climatology,119(1-2):181-191. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    }
+]

@@ -1,0 +1,217 @@
+# 新疆北部草地典型灌木的碳氮特征
+
+张静 刘耘华 盛建东\* 柴　强李瑞霞 赵丹新疆农业大学草业与环境科学学院，新疆土壤与植物生态过程重点实验室，乌鲁木齐 830052摘要灌木在维持干旱半干旱区生态系统稳定性方面发挥着重要的作用。该研究调查了新疆北部草地典型灌木物种，并分析了这些灌木叶、枝、茎的碳(C)、氮(N)含量特征，可为新疆草地植被碳氮储量的准确估算以及碳氮循环过程提供基础数据。结果表明：北疆地区草地的典型灌木有白刺(Nitraria sp.)、刺旋花(Convolvulus ragacanthoides)、红砂(Reaumuria soongarica)、假木贼(Anabasis spp)、锦鸡儿(Caragana spp.)、麻黄(Ephedra sp.)）、沙拐枣(Callgonum mongolicum)、梭梭(Haloxylon spp)、金丝桃叶绣线菊(Spiraea hypericifolia)、驼绒藜(Krascheninikovia spp)、小蓬(Nanophyton erinaceum)、盐爪爪(Kalidium spp.)、猪毛菜(Salsola spp.)等，归属于蔷薇科、豆科、麻黄科、怪柳科、蒺藜科、蓼科、旋花科、藜科。北疆草地典型灌木各器官C含量为茎 $( 4 5 . 7 6 \pm 3 . 4 3 ) \% >$ 枝 $( 4 4 . 2 7 \pm 4 . 5 1 ) \% > 1$ 叶 $( 3 9 . 1 5 \pm 5 . 9 1 ) \%$ ，N含量为叶 $( 2 . 2 1 \pm 0 . 5 9 ) \% >$ 枝 $( 1 . 5 5 \pm 0 . 4 4 ) \% >$ 茎 $( 1 . 3 4 \pm$ $0 . 3 5 \%$ ,C:N为茎 $3 6 . 7 4 \pm 1 0 . 8 0 ) >$ 枝 $( 3 1 . 0 7 \pm 1 0 . 4 3 ) >$ 叶 $( 1 8 . 9 4 \pm 5 . 8 2 ) \$ 。灌木地上部分C含量为 $( 4 3 . 7 7 \pm 4 . 4 3 ) \%$ ，N含量为（ $1 . 5 6 \pm$ $0 . 4 5 \%$ ，C:N为 $( 3 1 . 7 8 \pm 1 0 . 1 2 ) \$ ;C含量变异程度较小，变异系数为 $10 \%$ ，N含量的变异系数为 $2 7 \%$ ，C:N的变异系数为 $32 \%$ 。灌木同一器官的C、N含量及C:N在不同科间有显著差异，蔷薇科各器官的C含量显著大于其他科 $( p < 0 . 0 5 )$ ；豆科叶和茎的N含量显著大于其他科 $( p < 0 . 0 5 )$ ，麻黄科枝的N含量显著大于其他科 $( p < 0 . 0 5 )$ ；旋花科叶和枝的C:N显著大于其他科 $( p < 0 . 0 5 )$ ，蔷薇科茎的C:N显著大于其他科 $( p < 0 . 0 5 )$ 。
+
+关键词碳含量；氮含量；典型灌木；新疆北部；草地
+
+引用格式：张静，刘耘华，盛建东，柴强，李瑞霞，赵丹(2016).新疆北部草地典型灌木的碳氮特征．植物生态学报，40,1-1.doi:10.17521/cjpe.2015.1086
+
+# Carbon and nitrogen traits of typical shrubs in grassland of northern Xinjiang
+
+ZHANG Jing, LIU Yun-Hua, SHENG Jian-Dong\*, CHAI Qiang, LI Rui-Xia, and ZHAO Dan XinjnKbf 830052,China
+
+# Abstract
+
+AimsShrub is an important vegetation type for maintaining ecosystem stability in arid and semiarid zones. We investigated typical shrub species in grassand of northern Xinjiang,and analyzed their carbon (C)and nitrogen (N) contents in leaves,branches and stems,in order to accurately estimate the Cand Npools in shrubland,and to obtain basic data for C and N cycling study.
+
+MethodsLeaf,branch and stem samples of 13 shrub species were collected in northern Xinjiang,and determined for C and $\mathrm { \Delta N }$ contents.
+
+Important findingsIn northern Xinjiang,the typical shrub species include Nitraria spp., Convolvulus tragacanthoides,Reaumuria songarica, Anabasis spp.，Caragana spp., Ephedra spp., Calligonum mongolicum, Haloxylon spp., Spiraea hypericifolia, Krascheninnikovia spp.,Nanophyton erinaceum, Kalidium spp.and Salsola spp.These shrubs belong to the familiesof Rosaceae,Leguminosae,Ephedraceae，Tamaricaceae,Zygophyllaceae,Polygonaceae, Convolvulaceae,and Chenopodiaceae,respectively.The Ccontents in diferent organs ranked in the orderof stems $( 4 5 . 7 6 \pm 3 . 4 3 ) \% >$ branches $( 4 4 . 2 7 \pm 4 . 5 1 ) \% >$ leaves $( 3 9 . 1 5 \pm 5 . 9 1 ) \%$ ,and the $\mathrm { \Delta N }$ contents ranked in the order of leaves $( 2 . 2 1 \pm 0 . 5 9 ) \% >$ branches $( 1 . 5 5 \pm 0 . 4 4 ) \% >$ stems $( 1 . 3 4 \pm 0 . 3 5 ) \%$ ; the C:N followed the order of stems $( 3 6 . 7 4 \pm 1 0 . 8 0 ) >$ branches $( 3 1 . 0 7 \pm 1 0 . 4 3 ) >$ leaves ( $1 8 . 9 4 \pm 5 . 8 2 )$ . The contents of C and $\mathrm { \Delta N }$ as well as C:N within organs were significantly different among shrub species of different families $( p < 0 . 0 5 )$ ; the C contents in different organs in the species of Rosaceae were significantly greater $( p < 0 . 0 5 )$ ； the $\mathsf { N }$ contents in leaves and stems in the species of Leguminosae were significantly greater $( p < 0 . 0 5 )$ ; the $\mathrm { \Delta N }$ content in branches in the species of Ephedraceae was significantly greater $( p < 0 . 0 5 )$ ; the values of C:N in leaves and branches in Convolvulus tragacanthoides were significantly greater $( p < 0 . 0 5 )$ ; the value of C:N in stems in the species of Rosaceae was significantly greater $( p < 0 . 0 5 )$ ,those in those of other families.The average values in the aboveground tissues across the shrub species studied was $( 4 3 . 7 7 \pm 4 . 4 3 ) \%$ for the C content, $( 1 . 5 6 \pm 0 . 4 5 ) \%$ for the $\mathrm { \Delta N }$ content, and $3 1 . 7 8 \pm 1 0 . 1 2$ for C:N.The degree of variation was low for the C content, with average coeffcient of variation of only $10 \%$ , in contrast to the average coefficient of variation of $2 7 \%$ for the $\mathrm { \Delta N }$ content and $32 \%$ for C:N.
+
+Key wordsC content; $\mathrm { \Delta N }$ content; typical shrubs; northern Xinjiang; grassland
+
+Citation: ZhangJ,LiuYH,ShengJD,ChaiQ,LiRX,ZhaoD(2O16).Carboand nitrogentraitsoftypicalshrubs ingrassadf northern Xinjiang. Chinese Journal of Plant Ecology,40,1-1. doi: 10.17521/cjpe.2015.1086
+
+灌木在维持荒漠生态系统稳定中发挥着重要的作用(侯学煜，1982)，它能扩大物种生产力来源，增强生态稳定性(李新荣,2000)，一般生长在干旱荒漠区、草原牧场地、盐碱地、森林区，在这些生境中，灌木的生长还存在着交叉和重叠(李清河等,2006)。生长在草地的灌木多样性丰富，且草地具有生态过渡的特殊性，已有很多研究报道了在干旱半干旱地区草地生态系统逐渐被灌木生态系统取代的现象(Barth & Klemmedson，1978；Woodell et al.，1986;Grover& Musick,1990;Archer et al.,1995;van Auken，2000)，这种现象主要是由全球气候变化和人为活动(过度放牧、火灾等)引起的(Knapp et al.,2008)。
+
+灌木能使草地生态系统的生物量及生物量分配、根系深度、调落物数量和质量等发生改变(Nepstad et al.,1994; Boutton et al.,1998; van Auken,2000;Jacksonetal.,2000)，从而引起生态系统碳氮循环及其储量的变化(Brantley & Young，2010)，有研究表明，灌木能使生物量和土壤碳氮储量增加(Goodale&Davidson，2002)，因此灌木具有碳增汇的作用(Eldridge et al.,2011)。以往在国家和区域尺度上计算草地固碳储量的研究中，忽视了灌木的固碳贡献(Ni,2002,2004)。而且，在对生物量碳库的研究中，大多以 $45 \%$ 作为植物的含碳量。但实际上，灌木的C、N含量在物种之间和同一物种的不同器官之间是有显著差异的(Northupetal.,2005)。因此，不同灌木及其不同器官的C、N含量是精确估算陆地生态系统碳和氮储量的基本参数。
+
+新疆是典型的干旱半干旱地区，是我国仅次于西藏和内蒙古的第三大草原省区，新疆可利用草地面积约为4800.68万 $\mathrm { h m } ^ { 2 }$ (许鹏等，1993)，占新疆总面积的 $2 1 . 4 \%$ ，是维系新疆生态环境稳定的重要生态系统。灌木在新疆草地中具有防风固沙、水土保持的作用。本研究以新疆北部(简称北疆)为研究区域，以主要的草地类型为基本单元，调查了不同草地类中典型灌木物种，并分析测定了每一物种不同器官(叶、枝和茎)的碳、氮含量以及碳氮比值，以期为新疆草地的碳库和氮库的准确估算及其碳氮循环提供参数。
+
+# 1材料和方法
+
+# 1.1 研究区域概况
+
+研究区位于新疆维吾尔自治区天山北部，包括准噶尔盆地、伊犁河谷、塔额盆地、阿勒泰山南麓及天山北坡等灌木分布区，地理坐标为 $8 0 . 7 3 ^ { \circ } -$ $9 1 . 1 2 ^ { \mathrm { o } } \mathrm { E }$ ， $4 2 . 8 5 ^ { \circ } - 4 8 . 4 8 ^ { \circ } \mathrm { N } _ { \cdot }$ ，海拔 $2 3 0 { - } 2 4 5 6 \mathrm { ~ m ~ }$ 。北疆属于温带大陆性干旱半干旱气候区，光照充足，无霜期短，年降水量较少，为 $1 5 0 { - } 2 0 0 \ \mathrm { \ m m }$ ，年蒸发量大，年平均气温- $4 { \ : - } 9 \mathrm { ~ \ : ~ } ^ { \circ } \mathrm { ~ C ~ }$ (许鹏等,1993)。
+
+草地类是具有相同水热大气候带特征和植被特征、具有独特地带性的草地，依据热量和水分条件，将草地划分为不同草地类(中华人民共和国农业部畜牧兽医司，全国畜牧兽医总站，1996)，北疆的草地类分别是低地草甸、山地草甸、温性草甸草原、温性草原化荒漠、温性草原、温性荒漠草原、温性荒漠，以草地类为基本单元在北疆设置102个具有灌木的样地进行实地调查。通过调查发现，北疆草地典型灌木有白刺(Nitraria spp.)、刺旋花(Convol-vulus tragacanthoides)、红砂(Reaumuria songarica)、假木贼(Anabasis spp.)、锦鸡儿(Caragana spp.)、麻黄(Ephedra spp.)、沙拐枣(Calligonum mongolicum)、梭梭(Haloxylonspp.)、金丝桃叶绣线菊(Spiraeahypericifolia)、驼绒藜(Krascheninnikovia spp.)、小蓬(Nanophyton erinaceum)、盐爪爪(Kalidium spp.)猪毛菜(Salsola spp.)。将梭梭的同化枝作为叶进行统计分析，麻黄的器官只有枝和茎。
+
+# 1.2 样地设置
+
+在每个样地选择 $1 0 0 \mathrm { ~ m ~ } \times \mathrm { ~ 1 0 0 ~ m ~ }$ 的区域进行取样调查，在其对角线上设置一条 $1 0 0 \mathrm { ~ m ~ }$ 样线，在样线旁设置5个面积为 $5 \mathrm { m } \times 5 \mathrm { m }$ 的灌木样方。
+
+# 1.3 样品采集和处理
+
+2011-2012年的8月(植物生长高峰期)进行调查采样，记录样地的经纬度、海拔、植物群落等基本信息，在灌木样方内，将每一个灌木物种用剪刀齐地面剪下，将每一株灌木的地上部分按叶、枝和茎分开，装入信封，并在信封上注明物种名称及器官类型，将植物清洗后及时放入105℃烘箱杀青30min后带回室内，放进65℃烘箱烘至恒质量，记录各器官烘干后的质量。
+
+将同一样地、同一样方、同一物种的植物叶、枝、茎混合后粉碎，然后取一定量粗粉植物碎屑，经冷冻混合球磨仪(Retsch MM400,RETSCH,Dussel-dorf，Germany)粉碎后，使用元素分析仪(EuroEA3000-Single,EuroVector,Milan,Italy)测定植物样品全碳和全氮含量。
+
+# 1.4 数据处理
+
+灌木地上部分碳(C)、氮(N)含量由生物量加权平均算出，计算公式为：
+
+C灌木地上部分 $( \% ) = ( m _ { \parallel } \times C _ { \parallel } + m _ { \parallel } \times C _ { \mathrm { t i } } + m _ {  } \times$ $C _ { \gtrless } ^ { \ast } \big ) / \left( m _ { \parallel \cdot } \mathrm { ~ + ~ } m _ { \ast \cdot } \mathrm { ~ + ~ } m _ { \ast \cdot } ^ { \ast } \right) ;$ N灌木地上部分 $( \% ) = ( \ m \mu \nu \times N \mu + \ m \mu \nu \times N \nmid \mu  \ m \nmid$ $N _ { \gtrless } ^ { \pm } ) / \left( m _ { \parallel } . + m _ { \parallel } . + \mathbf { m } _ { \Bumpeq } \right) \mathrm { { _ 0 } }$ （204号其中, $C$ 代表C含量 $( \% ) , N ^ { \prime }$ 代表 $_ \mathrm { N }$ 含量 $( \% ) , m$ 代表不同器官的质量 $\mathrm { ( g ) }$ 。
+
+数据使用SPSS20.0进行单因素方差分析，使用Origin8.0制作频数分布图。
+
+# 2结果
+
+# 2.1北疆典型灌木各器官碳氮含量特征
+
+将在北疆调查的灌木按照叶、枝、茎器官的碳氮含量统计结果可知(表1)，典型灌木各器官的C含量大小为茎 $( 4 5 . 8 1 \pm 3 . 1 8 ) \% >$ 枝 $( 4 4 . 2 7 \pm 4 . 5 1 ) \% >$ 叶0 $3 9 . 1 5 \ : \pm \ : 5 . 9 1 ) \%$ ；而N含量与C含量相反，即叶(2.21$\pm \ : 0 . 5 9 ) \% >$ 枝 $( 1 . 5 5 \pm 0 . 4 4 ) \% > \$ 茎 $( 1 . 3 4 \pm 0 . 3 5 ) \%$ ，进而导致C:N在各器官的大小顺序与C含量的分配相同，为茎 $( 3 6 . 7 7 ~ \pm ~ 1 0 . 7 8 ) ~ >$ 枝 $( 3 1 . 0 7 ~ \pm ~ 1 0 . 4 3 ) ~ >$ 叶0 $( 1 8 . 9 4 \pm 5 . 8 2 ) \$ 。C含量、N含量以及C:N在各器官之间的差异均极显著 $( p < 0 . 0 1 )$
+
+表1C、N在灌木叶、枝、茎器官中的含量(平均值 $\cdot _ { \pm }$ 标准偏差)Table1The C and N contents in leaves,branches and stems of shrubs(mean $\pm S D )$ 号  
+
+<html><body><table><tr><td>器官Organ</td><td>碳含量 C content (%)</td><td>氮含量 N content (%)</td><td>C:N</td></tr><tr><td>叶Leaves</td><td>39.15 ± 5.91</td><td>2.21± 0.59a</td><td>18.94 ± 5.82</td></tr><tr><td>枝 Branches</td><td>44.27 ± 4.51b</td><td>1.55 ± 0.44b</td><td>31.07 ± 10.43b</td></tr><tr><td>茎 Stems</td><td>45.81 ± 3.18a</td><td>1.34 ± 0.35</td><td>36.77 ± 10.78a</td></tr></table></body></html>
+
+不同小写字母表示平均值间差异显著 $( p < 0 . 0 1 )$ 。Different lowercase letters indicate significantly differences among meanvalues $( p < 0 . 0 1 )$ 1
+
+北疆草地典型灌木叶的C、N含量和C:N变化范围分别为 $2 1 . 2 1 \% - 5 1 . 0 0 \%$ 、 $0 . 9 2 \% - 3 . 7 5 \%$ 和8.41-40.91，平均值为 $3 9 . 1 5 \%$ 、 $2 . 2 1 \%$ 和18.94，变异系数为 $1 5 \%$ 、 $2 7 \%$ 和 $31 \%$ ，枝的C、N含量和C:N普遍比叶的高，其变化范围为 $2 1 . 2 5 \% - 5 7 . 2 5 \%$ 、 $0 . 5 8 \% - 3 . 3 5 \%$ 和12.44-79.98，平均值为 $4 4 . 2 7 \% , 1 . 5 5 \%$ 和31.07，变异系数为 $10 \%$ 、 $28 \%$ 和 $34 \%$ ；茎C、 $\mathrm { ~ N ~ }$ 含量和C:N与枝相似，其变化范围为 $3 1 . 8 8 \% { - } 6 2 . 2 4 \%$ 、 $0 . 5 3 \% - 3 . 1 3 \%$ 和13.16-91.67，平均值为 $4 5 . 8 1 \% . 1 . 3 4 \%$ 和36.77，变异系数为 $7 \%$ 、 $2 6 \%$ 和 $2 9 \%$ 。
+
+由频数分布图(图1)还可看出，灌木叶的C含量多集中在 $40 \%$ 以下(占叶总样本数的 $56 . 6 \%$ ，枝和茎的C含量多集中在 $45 \% - 5 0 \%$ 之间(分别占枝、茎总样本数的 $4 8 . 5 \%$ 和 $5 9 . 8 \%$ ；灌木叶的N含量多集中在$2 . 0 \%$ 以上(占叶总样本数的 $62 \%$ ，枝和茎的N含量多集中在 $1 . 0 \% - 1 . 5 \%$ 之间(分别占枝、茎总样本数的$40 . 1 \%$ 和 $5 7 . 2 \%$ ；叶的C:N多集中在20以下(占叶总样本数的 $64 \%$ ，枝和茎的C:N多集中在35以上(分别占枝、茎总样本数的 $4 4 . 1 \%$ 和 $4 9 . 4 \%$ ）
+
+# 2.2 不同物种(属)灌木碳氮特征
+
+从表2可看出，北疆草地13种典型灌木中，叶的C含量最高的是金丝桃叶绣线菊，为 $( 4 6 . 6 0 ~ \pm { }$ $2 . 8 6 \%$ ，最低的是小蓬，为 $( 3 1 . 9 7 ~ \pm ~ 5 . 3 7 ) \%$ ；叶的N含量最高的是锦鸡儿，为 $( 2 . 6 6 \pm 0 . 4 8 ) \%$ ，最低的是刺旋花，为 $( 1 . 5 7 \pm 0 . 4 8 ) \%$ ；叶的C:N最高的是刺旋花，为 $( 2 7 . 8 2 ~ \pm ~ 8 . 6 3 )$ ，最低的是红砂，为 $( 1 4 . 9 2 ~ \pm$ 3.24)。
+
+13种典型灌木中枝的C含量最高的是金丝桃叶绣线菊，为 $( 4 7 . 6 6 ~ \pm ~ 2 . 9 1 ) \%$ ，最低的是小蓬，为$( 3 5 . 0 0 \pm 7 . 4 0 ) \%$ ；枝的N含量最高的是麻黄，为(1.89$\pm \ 0 . 4 8 ) \%$ ，最低的是刺旋花，为 $( 1 . 1 4 ~ \pm ~ 0 . 3 0 ) \%$ ；枝的C:N最高的是驼绒藜，为 $4 1 . 4 8 \pm 1 4 . 5 6$ ，最低的是假木贼，为 $2 5 . 1 6 \pm 6 . 7 0$ 。
+
+doi:10.17521/cjpe.2015.1086
+
+![](images/6ec061f2ec88331d9258eab65ab373ac6910fe976d0b664755033f0220055f91.jpg)  
+图1叶、枝、茎中C、N含量及C:N的频数分布图。 Fig.1Frequency distributions of the C and $\mathrm { ~ N ~ }$ contents and C:N in leaves,branches and stem. $C V ,$ coefficient of variation; $S D$ standard deviation.
+
+13种典型灌木中茎的C含量最高的金丝桃叶绣线菊，为 $( 4 7 . 5 7 ~ \pm ~ 2 . 3 7 ) \%$ ，最低的是假木贼，为$( 4 0 . 1 5 ~ \pm ~ 2 . 7 0 ) \%$ ；茎的N含量最高的是锦鸡儿，为$( 1 . 6 2 \pm 0 . 2 9 ) \%$ ，最低的是驼绒藜，为 $( 1 . 1 0 \pm 0 . 3 7 ) \%$ 茎的C:N最高的是驼绒藜，为 $4 7 . 1 4 \pm 1 7 . 0 6$ ，最低的是假木贼，为 $2 7 . 5 0 \pm 6 . 1 9$ 。
+
+13种典型灌木中地上部分C含量最高的是金丝桃叶绣线菊，为 $( 4 7 . 4 3 \pm 2 . 3 1 ) \%$ ，最低的是小蓬，为号 $( 3 5 . 8 2 \ : \pm \ : 6 . 7 5 ) \%$ ；灌木地上部分N含量最高的锦鸡儿,为 $( 1 . 9 1 \pm 0 . 4 5 ) \%$ 。最低的是沙拐枣，为 $( 1 . 2 1 \pm 0 . 1 6 ) \%$ 灌木地上部分C:N最高的是驼绒藜，为 $( 4 1 . 1 1 ~ \pm$ $1 4 . 4 5 ) \%$ ，最低的是盐爪爪，为 $( 2 3 . 8 8 \pm 8 . 7 5 ) \%$ 。
+
+C含量的变异系数的平均值 $( 1 0 \% )$ 低于N含量的$( 2 7 \% )$ 。另外，同一属不同器官的N含量的变异系数均大于C含量的变异系数，不同属同一器官的C、N含量的变异系数也有一定差异。
+
+# 2.3 不同科灌木C、N含量特征
+
+对于不同科的植物，将具有确定植物功能特性的一系列植物进行归类组合(Smithetal.,1996)。与物种水平不同的是，不同科的植物可以将具有相同或相似的生理、形态、生活史等一些生物学特性的植物进行系统分类(孙国钧等,2003)，本研究将13种灌木归类为8个科进行统计分析。
+
+# 2.3.1 不同科灌木叶C、N含量特征
+
+北疆典型灌木物种(属)归类到不同科后，叶的C、N含量见表3。由表3可知，灌木叶的C、N含量及C:N在不同科间有显著差异 $( p < 0 . 0 5 )$ 。其中，蔷薇科C含量显著大于豆科、旋花科、蒺藜科、藜科、怪柳科 $( p < 0 . 0 5 )$ ；豆科的N含量显著大于蒺藜科、怪柳科、蔷薇科、藜科、旋花科 $( p < 0 . 0 5 )$ ；旋花科的
+
+表2北疆草地典型灌木叶、枝、茎C、N含量(平均值±标准偏差)Table2ThecontentsofCandNinleaves,branchesandstemsin typicalshrubsinthegrassandofnorther Xinjiang(mean $\pm S D$ ）  
+
+<html><body><table><tr><td>物种 Species</td><td>科Family</td><td>器官Organ</td><td>n 碳含量</td><td>CV</td><td>氮含量 N content (%)</td><td>CV</td><td>C:N</td><td>CV</td></tr><tr><td>白刺</td><td>蒺藜科</td><td>叶Leaves</td><td>12</td><td>C content (%) 38.40± 4.07 11</td><td>2.42 ± 0.47</td><td>20</td><td>16.40 ± 3.57</td><td>22</td></tr><tr><td>Nitraria spp.</td><td>Zygophyllaceae</td><td>枝 Branches</td><td>12</td><td>44.29 ± 2.97 7</td><td>1.56 ± 0.28</td><td>18</td><td>29.59 ± 7.34</td><td>25</td></tr><tr><td></td><td></td><td>茎 Stems</td><td>14</td><td>45.82 ± 2.07</td><td>5 1.36 ± 0.22</td><td>17</td><td>34.66 ± 6.29</td><td>18</td></tr><tr><td></td><td></td><td>灌木地上部分 Shrub aboveground</td><td></td><td>43.95 ± 3.49</td><td>8 1.57 ± 0.40</td><td>19</td><td>30.85 ± 7.86</td><td>22</td></tr><tr><td>刺旋花</td><td>旋花科</td><td>叶Leaves</td><td>11</td><td>40.48 ± 6.52</td><td>16 1.57 ± 0.48</td><td>30</td><td>27.82 ± 8.63</td><td>31</td></tr><tr><td>Convolvulus</td><td>Convolvulaceae</td><td>枝 Branches</td><td>9</td><td>43.22 ± 4.16 10</td><td>1.14 ± 0.30</td><td>26</td><td>39.99 ± 10.00</td><td>25</td></tr><tr><td>ragacanthoides</td><td></td><td>茎 Stems</td><td>13</td><td>44.10 ± 2.24 5</td><td>1.27 ± 0.17</td><td>14</td><td>35.31 ± 5.54</td><td>16</td></tr><tr><td></td><td></td><td>灌木地上部分 Shrub aboveground</td><td></td><td>42.18 ± 5.85 14</td><td>1.33 ± 0.31</td><td>23</td><td>33.55 ± 8.56</td><td>26</td></tr><tr><td>红砂</td><td>柽柳科</td><td>叶Leaves</td><td>79</td><td>34.67± 3.39 10</td><td>2.42 ± 0.52</td><td>22</td><td>14.92 ± 3.24</td><td>22</td></tr><tr><td>Reaumuria</td><td>Tamaricaceae</td><td>枝 Branches</td><td>79</td><td>44.61 ± 1.80 4</td><td>1.74 ± 0.36</td><td>20</td><td>26.90 ± 6.65</td><td>25</td></tr><tr><td>songarica</td><td></td><td>茎 Stems</td><td>76</td><td>45.76 ± 2.40 5</td><td>1.37± 0.20</td><td>15</td><td>34.35 ± 6.43</td><td>19</td></tr><tr><td rowspan="4">假木贼 Anabasis spp.</td><td rowspan="4">藜科</td><td></td><td></td><td>42.84 ± 2.97</td><td>1.73 ± 0.38</td><td>21</td><td>27.60 ± 6.48</td><td>23</td></tr><tr><td>灌木地上部分 Shrub aboveground 叶Leaves</td><td>15</td><td>35.57 ± 2.78</td><td>7 8 1.76 ± 0.33</td><td>19</td><td>20.76 ± 3.92</td><td>19</td></tr><tr><td>枝 Branches</td><td>37</td><td>38.08 ± 4.19 11</td><td>1.61 ± 0.42</td><td>26</td><td>25.16 ± 6.70</td><td>27</td></tr><tr><td>茎 Stems</td><td>25</td><td>40.15 ± 2.70</td><td>7 1.54 ± 0.42</td><td>27</td><td>27.50 ± 6.19</td><td>23</td></tr><tr><td></td><td></td><td>灌木地上部分 Shrub aboveground</td><td></td><td>38.05 ± 2.48 7</td><td>1.63 ± 0.39</td><td>24</td><td>24.72 ± 4.66</td><td>19</td></tr><tr><td rowspan="4">锦鸡儿 Caragana spp.</td><td rowspan="4">豆科 Leguminosae</td><td></td><td>70</td><td>44.34 ± 2.99 7</td><td>2.66± 0.48</td><td>18</td><td>17.24 ± 3.77</td><td>22</td></tr><tr><td>叶Leaves 枝 Branches</td><td>71</td><td>46.71 ± 2.64</td><td>6 1.80± 0.48</td><td>27</td><td>27.72 ± 7.17</td><td>26</td></tr><tr><td>茎 Stems</td><td>66</td><td>47.14 ± 2.48</td><td>5 1.62 ± 0.29</td><td>18</td><td>30.26 ± 6.58</td><td>22</td></tr><tr><td>灌木地上部分 Shrub aboveground</td><td></td><td>46.44 ± 2.63</td><td>6 1.91 ± 0.45</td><td>23</td><td>26.76 ± 6.96</td><td>26</td></tr><tr><td>麻黄</td><td>麻黄科</td><td>枝 Branches</td><td>29</td><td>45.68 ± 3.43</td><td>8 1.89 ± 0.48</td><td>25</td><td>25.81 ± 7.26</td><td>28</td></tr><tr><td>Ephedra spp.</td><td>Ephedraceae</td><td>茎 Stems</td><td>28</td><td>44.99 ± 4.33 10</td><td>1.52 ± 0.44</td><td>29</td><td>32.20 ± 9.40</td><td>29</td></tr><tr><td></td><td></td><td>灌木地上部分 Shrub aboveground</td><td></td><td>45.11 ± 2.94 7</td><td>1.75 ± 0.41</td><td>23</td><td>27.84 ± 7.16</td><td>26</td></tr><tr><td>沙拐枣</td><td>蓼科</td><td>枝 Branches</td><td>11</td><td>43.56 ± 4.53 10</td><td>1.34 ± 0.16</td><td>12</td><td>33.17 ± 6.79</td><td>20</td></tr><tr><td>Calligonum</td><td>Polygonaceae</td><td>茎 Stems</td><td>17</td><td>46.76 ± 2.60 6</td><td>1.18 ± 0.18</td><td>15</td><td>40.41 ± 5.28</td><td>13</td></tr><tr><td>mongolicum</td><td></td><td>灌木地上部分 Shrub aboveground</td><td></td><td>46.46 ± 2.75</td><td>6 1.21 ± 0.16</td><td>13</td><td>39.19 ± 4.38</td><td>17</td></tr><tr><td>梭梭</td><td>藜科</td><td>叶Leaves</td><td>63</td><td>35.73 ± 4.09 11</td><td>2.17± 0.50</td><td>23</td><td>17.66 ± 5.76</td><td>33</td></tr><tr><td rowspan="3">Haloxylon spp.</td><td rowspan="3">Chenopodiaceae</td><td>枝 Branches</td><td>95</td><td>42.80 ± 3.81 9</td><td>1.58 ± 0.43</td><td>27</td><td>29.52 ± 9.57</td><td>32</td></tr><tr><td>茎 Stems</td><td>95</td><td>45.57 ± 2.71</td><td>6 1.31 ± 0.36</td><td>27</td><td></td><td>36.96 ± 9.40 25</td></tr><tr><td>灌木地上部分 Shrub aboveground</td><td></td><td>42.95 ± 3.02 7</td><td>1.54 ± 0.40</td><td>26</td><td>28.05 ± 8.24</td><td>27</td></tr><tr><td>金丝桃叶绣线菊</td><td>蔷薇科</td><td>叶Leaves</td><td>58</td><td>46.60 ± 2.86</td><td>6 2.07 ± 0.40</td><td>19</td><td>23.24 ± 4.41</td><td>19</td></tr><tr><td>Spiraea</td><td>Rosaceae</td><td>枝 Branches</td><td>62</td><td>47.66 ± 2.91 6</td><td>1.25 ± 0.23</td><td>18</td><td>39.27 ± 6.52</td><td>17</td></tr><tr><td>hypericifolia</td><td></td><td>茎 Stems</td><td>62</td><td>47.57 ± 2.37 5</td><td>1.11 ± 0.19</td><td>17</td><td>43.56 ± 5.26</td><td>12</td></tr><tr><td rowspan="4">驼绒藜</td><td rowspan="4">藜科</td><td>灌木地上部分 Shrub aboveground</td><td></td><td>47.43 ± 2.31</td><td>5 1.21 ± 0.17</td><td>14</td><td>35.97 ± 4.48</td><td>15</td></tr><tr><td>叶Leaves</td><td>60</td><td>38.89 ± 2.93</td><td>8 1.97 ± 0.66</td><td>33</td><td>21.72 ± 6.70</td><td>31</td></tr><tr><td>枝 Branches</td><td>61</td><td>46.14 ± 2.17</td><td>5</td><td>1.24 ± 0.4</td><td>32</td><td>41.48 ± 14.56 35</td></tr><tr><td>茎 Stems</td><td>61</td><td>46.32 ± 4.50</td><td>10 1.10 ± 0.37</td><td>34</td><td>47.14 ± 17.06</td><td>36</td></tr><tr><td>小蓬</td><td></td><td>灌木地上部分 Shrub aboveground</td><td></td><td>45.55 ± 2.40 5</td><td>1.32 ± 0.49</td><td>37</td><td>41.11 ± 14.45</td><td>35</td></tr><tr><td></td><td>藜科</td><td>叶Leaves</td><td>19</td><td>31.97 ± 5.37 17</td><td>1.64 ± 0.41</td><td>25</td><td>20.12 ± 3.89</td><td>19</td></tr><tr><td>Nanophyton</td><td>Chenopodiaceae</td><td>枝 Branches</td><td>19</td><td>35.00 ± 7.40 21</td><td>1.40 ± 0.28</td><td>20</td><td>25.90 ± 8.40</td><td>32</td></tr><tr><td rowspan="3">erinaceum</td><td rowspan="3"></td><td>茎 Stems</td><td>20</td><td>43.09 ± 4.02</td><td>1.44 ± 0.30</td><td>21</td><td>31.77 ± 10.56</td><td>33</td></tr><tr><td>灌木地上部分 Shrub aboveground</td><td></td><td>35.82 ± 6.75</td><td>9 19 1.42 ± 0.30</td><td>21</td><td>27.14 ± 10.71</td><td>29</td></tr><tr><td>叶Leaves</td><td>7</td><td>33.36 ± 5.48 16</td><td>2.42 ± 0.78</td><td>32</td><td>15.46 ± 6.81</td><td>44</td></tr><tr><td rowspan="4">盐爪爪 Kalidium spp.</td><td rowspan="4">藜科 Chenopodiaceae 枝 Branches 茎 Stems</td><td></td><td>7</td><td>42.11 ± 4.10</td><td>10 1.58 ± 0.28</td></table></body></html>
+
+表2(续） Table 2(continued)  
+
+<html><body><table><tr><td>物种 Species</td><td>科Family</td><td>器官Organ</td><td>碳含量 C content (%)</td><td>CV</td><td>氮含量 N content (%)</td><td>CV</td><td>C:N</td><td>CV</td></tr><tr><td>平均值</td><td></td><td>叶Leaves</td><td>39.15± 5.91</td><td>15</td><td>2.21 ± 0.59</td><td>27</td><td>18.94 ± 5.82</td><td>31</td></tr><tr><td>Mean</td><td></td><td>枝 Branches</td><td>44.27 ± 4.51</td><td>10</td><td>1.55 ± 0.44</td><td>28</td><td>31.07 ± 10.43</td><td>34</td></tr><tr><td></td><td></td><td>茎 Stems</td><td>45.81± 3.43</td><td>7</td><td>1.34 ± 0.35</td><td>26</td><td>36.77± 10.78</td><td>29</td></tr><tr><td></td><td></td><td>灌木地上部分 Shrub aboveground</td><td>43.77± 4.43</td><td>10</td><td>1.56 ± 0.45</td><td>27</td><td>31.78 ± 10.12</td><td>32</td></tr></table></body></html>
+
+梭梭的叶为同化枝。 $C V$ ，变异系数;n，样本数。 Leaves of Haloxylon spp.are assimilation sticks. $C V ,$ coefficient of variation; $n$ ,number of samples.
+
+表3不同科灌木叶C、N含量(平均值 $\scriptstyle \pm$ 标准偏差)Table3Leaf Cand N contents in different shrub families (mean± SD)  
+
+<html><body><table><tr><td>科Family</td><td>n</td><td>碳含量 Ccontent (%)</td><td>CV</td><td>氮含量N content (%)</td><td>CV</td><td>C:N</td><td>CV</td></tr><tr><td>格柳科 Tamaricaceae</td><td>79</td><td>34.67± 3.39</td><td>10</td><td>2.42 ± 0.52b</td><td>22</td><td>14.92 ± 3.24d</td><td>22</td></tr><tr><td>豆科 Leguminosae</td><td>70</td><td>44.34 ± 2.99b</td><td>7</td><td>2.66± 0.48a</td><td>18</td><td>17.24 ± 3.77cd</td><td>22</td></tr><tr><td>蒺藜科 Zygophyllaceae</td><td>12</td><td>38.40 ± 4.07cd</td><td>11</td><td>2.42 ± 0.47b</td><td>20</td><td>16.40 ± 3.57d</td><td>22</td></tr><tr><td>藜科 Chenopodiaceae</td><td>173</td><td>36.56± 4.56d</td><td>12</td><td>2.01 ± 0.57</td><td>28</td><td>19.64 ± 6.02c</td><td>31</td></tr><tr><td>蔷薇科 Rosaceae</td><td>58</td><td>46.60 ± 2.86a</td><td>6</td><td>2.07±0.40</td><td>19</td><td>23.24 ± 4.41b</td><td>19</td></tr><tr><td>旋花科 Convolvulaceae</td><td>11</td><td>40.48 ± 6.52</td><td>16</td><td>1.57 ± 0.48d</td><td>30</td><td>27.82 ± 8.63a</td><td>31</td></tr><tr><td>平均值 Average</td><td></td><td>39.15 ± 5.91</td><td>15</td><td>2.21 ± 0.59</td><td>27</td><td>18.94 ± 5.82</td><td>31</td></tr></table></body></html>
+
+不同字母表示平均值间差异显著 $( p < 0 . 0 5 )$ 。 $C V ,$ 变异系数; $n ,$ 样本数。Means with different lettersare significantly different $( p < 0 . 0 5 )$ .CV,coefficient of variation; $n$ ，number of samples.
+
+表4不同科灌木枝C、N含量(平均值 $\cdot \pm$ 标准偏差)Table 4Branch C and Ncontents in different shrub families (mean $\pm S D )$ （204号  
+
+<html><body><table><tr><td>科Family</td><td>n</td><td>碳含量C content (%)</td><td>CV</td><td>氮含量 Ncontent (%)</td><td>CV</td><td>C:N</td><td>CV</td></tr><tr><td>怪柳科 Tamaricaceae</td><td>79</td><td>44.61 ± 1.80bed</td><td>4</td><td>1.74 ± 0.36ab</td><td>20</td><td>26.90 ± 6.65bc</td><td>25</td></tr><tr><td>豆科 Leguminosae</td><td>71</td><td>46.71 ± 2.64ab</td><td>6</td><td>1.80 ± 0.48ab</td><td>27</td><td>27.72 ± 7.17bc</td><td>26</td></tr><tr><td>蒺藜科 Zygophyllaceae</td><td>12</td><td>44.29 ± 2.97bed</td><td>7</td><td>1.56 ± 0.28bc</td><td>18</td><td>29.59 ± 7.34bc</td><td>25</td></tr><tr><td>藜科 Chenopodiaceae</td><td>228</td><td>42.37 ± 5.19d</td><td>12</td><td>1.48 ± 0.42cd</td><td>29</td><td>31.62 ± 12.13bc</td><td>38</td></tr><tr><td>蓼科Polygonaceae</td><td>11</td><td>43.56± 4.53d</td><td>10</td><td>1.34 ± 0.16ede</td><td>12</td><td>33.17 ± 6.79b</td><td>20</td></tr><tr><td>麻黄科 Ephedraceae</td><td>29</td><td>45.68 ± 3.43abc</td><td>8</td><td>1.89 ± 0.48a</td><td>25</td><td>25.81 ± 7.26c</td><td>28</td></tr><tr><td>蔷薇科 Rosaceae</td><td>62</td><td>47.66 ± 2.91a</td><td>6</td><td>1.25 ± 0.23de</td><td>18</td><td>39.27 ± 6.52a</td><td>17</td></tr><tr><td>旋花科 Convolvulaceae</td><td>9</td><td>43.22 ± 4.16d</td><td>10</td><td>1.14 ± 0.30e</td><td>26</td><td>39.99 ± 10.00a</td><td>25</td></tr><tr><td>平均值 Average</td><td></td><td>44.27 ± 4.51</td><td>10</td><td>1.34 ± 0.35</td><td>28</td><td>31.07 ± 10.43</td><td>34</td></tr></table></body></html>
+
+不同字母表示平均值间差异显著 $( p < 0 . 0 5 )$ 。 $C V ,$ 变异系数; $n$ ，样本数。Means with different letters are significantly different $( p < 0 . 0 5 )$ ： $C V ,$ coefficient of variation; $n$ ,number of samples.
+
+C:N显著大于蔷薇科、藜科科、蒺藜科、柽柳科 $( p <$ 0.05)。旋花科的C、N含量及C:N的变异系数较高，分别为 $1 6 \%$ 、 $30 \%$ 和 $31 \%$ 。
+
+# 2.3.2 不同科灌木枝C、N含量特征
+
+北疆典型灌木物种(属)归类到不同科后，枝的C、N含量见表4。由表4可知：灌木枝的C、N含量及C:N在不同科间有显著差异 $( p < 0 . 0 5 )$ ，其中，蔷薇科的C含量显著大于怪柳科、蒺藜科、蓼科、旋花科、藜科 $( p < 0 . 0 5 )$ ；麻黄科的N含量显著大于蒺藜科、藜科、蓼科、蔷薇科、旋花科 $( p < 0 . 0 5 )$ ；旋花科的C:N显著大于蓼科、藜科、蒺藜科、豆科、怪柳科、麻黄科 $( p < 0 . 0 5 )$ 。藜科的C含量、N含量及
+
+C:N的变异系数最高，分别为 $12 \%$ 、 $2 9 \%$ 和 $3 8 \%$ 。
+
+# 2.3.3 不同科灌木茎C、N含量特征
+
+北疆典型灌木物种(属)归类到不同科后，茎的C、N含量见表5。由表5可知：灌木茎的C、N含量及C:N在不同科间有显著差异 $( p < 0 . 0 5 )$ ，其中，蔷薇科的C含量显著大于柽柳科、麻黄科、藜科、旋花科 $( p < 0 . 0 5 )$ ；豆科的N含量显著大于怪柳科、蒺藜科、藜科、旋花科、蓼科、蔷薇科 $( p < 0 . 0 5 )$ ；蔷薇科的C:N显著大于旋花科、蒺藜科、柽柳科、麻黄科、豆科 $( p < 0 . 0 5 )$ 。麻黄科的C含量变异系数最高,为 $10 \%$ ，藜科N含量和C:N的变异系数最高，分别为$30 \%$ 和 $3 5 \%$ 。
+
+表5不同科灌木茎C、N含量(平均值 $_ { ; \pm }$ 标准偏差)Table 5Stem C and N contents in different shrub families (mean $\pm S D )$ （204号  
+
+<html><body><table><tr><td>科Family</td><td>n</td><td>碳含量 Ccontent (%)</td><td>CV</td><td>氮含量 N content (%)</td><td>CV</td><td>C:N</td><td>CV</td></tr><tr><td>怪柳科 Tamaricaceae</td><td>76</td><td>45.76 ± 2.4bcd</td><td>5</td><td>1.37± 0.2bc</td><td>15</td><td>34.35 ± 6.43cd</td><td>19</td></tr><tr><td>豆科 Leguminosae</td><td>66</td><td>47.14 ± 2.48ab</td><td>5</td><td>1.62 ± 0.29a</td><td>18</td><td>30.26±6.58d</td><td>22</td></tr><tr><td>蒺藜科 Zygophyllaceae</td><td>14</td><td>45.82 ± 2.07abcd</td><td>5</td><td>1.36 ± 0.22bed</td><td>17</td><td>34.66± 6.29bcd</td><td>18</td></tr><tr><td>藜科 Chenopodiaceae</td><td>212</td><td>44.91 ± 3.94cd</td><td>9</td><td>1.29 ± 0.38cde</td><td>30</td><td>38.13 ± 13.43abe</td><td>35</td></tr><tr><td>蓼科Polygonaceae</td><td>17</td><td>46.76 ± 2.60abec</td><td>6</td><td>1.18 ± 0.18de</td><td>15</td><td>40.41 ± 5.28ab</td><td>13</td></tr><tr><td>麻黄科 Ephedraceae</td><td>28</td><td>44.99 ± 4.33cd</td><td>10</td><td>1.52 ± 0.44ab</td><td>29</td><td>32.20 ±9.40d</td><td>29</td></tr><tr><td>蔷薇科 Rosaceae</td><td>62</td><td>47.57 ± 2.37a</td><td>5</td><td>1.11 ± 0.19e</td><td>17</td><td>43.56± 5.26a</td><td>12</td></tr><tr><td>旋花科Convolvulaceae</td><td>13</td><td>44.10 ± 2.24d</td><td>5</td><td>1.27 ± 0.17cde</td><td>14</td><td>35.31 ± 5.54bed</td><td>16</td></tr><tr><td>平均值 Average</td><td></td><td>45.81 ± 3.43</td><td>7</td><td>1.34 ± 0.35</td><td>26</td><td>36.77 ± 10.78</td><td>29</td></tr></table></body></html>
+
+不同字母表示平均值间差异显著 $( p < 0 . 0 5 )$ 。 $C V ,$ 变异系数; $n ,$ 样本数。Means with different letters are significantly different $( p < 0 . 0 5 )$ ： $C V ,$ coefficient of variation; $n$ ，number of samples.
+
+表6不同科灌木地上部分C、N含量(平均值±标准偏差)Table6Shrub aboveground C and N contents in different shrub families $( \mathrm { m e a n } \pm S D )$   
+
+<html><body><table><tr><td>科Family</td><td>n</td><td>碳含量 C content (%)</td><td>CV</td><td>氮含量Ncontent (%)</td><td>CV</td><td>C:N</td><td>CV</td></tr><tr><td>柽柳科 Tamaricaceae</td><td>76</td><td>42.84 ± 2.97d</td><td>7</td><td>1.73 ± 0.38ab</td><td>22</td><td>27.60 ± 6.48cd</td><td>23</td></tr><tr><td>豆科 Leguminosae</td><td>66</td><td>46.44 ± 2.63ab</td><td>6</td><td>1.91 ± 0.45a</td><td>23</td><td>26.76 ±6.96d</td><td>26</td></tr><tr><td>蒺藜科 Zygophyllaceae</td><td>14</td><td>43.95 ± 3.49cd</td><td>8</td><td>1.57 ± 0.40bc</td><td>25</td><td>30.85 ± 7.86bed</td><td>25</td></tr><tr><td>藜科 Chenopodiaceae</td><td>212</td><td>42.03 ± 4.80d</td><td>11</td><td>1.50 ± 0.44d</td><td>29</td><td>32.24 ± 11.71be</td><td>36</td></tr><tr><td>蓼科Polygonaceae</td><td>17</td><td>46.46 ± 2.75ab</td><td>6</td><td>1.21 ± 0.16e</td><td>13</td><td>39.19 ± 4.38a</td><td>11</td></tr><tr><td>麻黄科 Ephedraceae</td><td>28</td><td>45.11 ± 2.94bc</td><td>7</td><td>1.75 ± 0.41ab</td><td>23</td><td>27.84 ± 7.16d</td><td>26</td></tr><tr><td>蔷薇科 Rosaceae</td><td>62</td><td>47.43 ± 2.31a</td><td>5</td><td>1.21 ± 0.17</td><td>14</td><td>40.97 ± 4.48a</td><td>11</td></tr><tr><td>旋花科 Convolvulaceae</td><td>13</td><td>42.18 ± 5.85d</td><td>14</td><td>1.33 ± 0.31de</td><td>23</td><td>33.55 ± 8.56b</td><td>26</td></tr><tr><td>平均值 Average</td><td></td><td>43.77 ± 4.43</td><td>10</td><td>1.56 ± 0.45</td><td>27</td><td>31.78 ± 10.12</td><td>32</td></tr></table></body></html>
+
+不同字母表示平均值间差异显著 $( p < 0 . 0 5 )$ 。 $C V ,$ 变异系数; $n ,$ 样本数。Means with different letters are significantly different $( p < 0 . 0 5 )$ ： $C V ,$ coefficient of variation; $n$ ，number of samples.
+
+# 2.3.4不同科灌木地上部分C、N含量特征
+
+将北疆典型灌木物种(属)归类到不同科后，统计分析灌木地上部分C、N含量(表6)。由表6可知：灌木地上部分C、N含量及C:N在不同科间也有显著性差异 $( p < 0 . 0 5 )$ ，其中，蔷薇科的C含量显著大于麻黄科、蒺藜科、柽柳科、旋花科、藜科 $( p < 0 . 0 5 )$ ；豆科的N含量显著大于蒺藜科、藜科、旋花科、蔷薇科、蓼科 $( p < 0 . 0 5 )$ ；蔷薇科C:N显著大于旋花科、藜科、蒺藜科、麻黄科、柽柳科、豆科 $( p < 0 . 0 5 )$ ；旋花科的C含量变异系数较高，为 $14 \%$ ，藜科N含量和C:N的变异系数较高，分别为 $2 9 \%$ 和 $3 6 \%$ 。
+
+# 3 讨论
+
+本研究通过大量的野外调查采样与室内分析，获取了北疆13种典型灌木的C、N特征参数：叶的C含量为 $3 9 . 1 5 \%$ ，N含量为 $2 . 2 1 \%$ ，C:N为18.94；枝的C含量为 $4 4 . 2 7 \%$ ，N含量为 $1 . 5 5 \%$ ，C:N为31.07；茎的C含量为 $45 . 8 1 \%$ ， $\mathrm { \Delta N }$ 含量为 $1 . 3 4 \%$ ，C:N为36.77；灌木地上部分C含量为 $4 3 . 7 7 \%$ ，N含量为 $1 . 5 6 \%$ ，C:N为31.78。
+
+植物枝和茎的主要功能是起疏导作用，将根吸收的水分和无机盐及根合成的营养物质运输至生殖器官，同时将叶制造的营养物质运输至根，对于多年生植物来说，枝和茎有较强的储藏功能(许鸿川,2008)，研究区灌木各器官的C含量大小为茎 $: >$ 枝 $>$ 叶，灌木地上部分C含量比较接近器官中枝的C含量，且研究区中灌木多为多年生灌木，枝和茎具有较高的储C能力，前人也有相似的研究(马钦彦等，2002)。一般植物在干物质中C含量约占 $40 \%$ (许鸿川，2008)，然而本研究灌木叶的C含量集中在 $40 \%$ 以下(平均值为 $3 9 . 1 5 \%$ ，枝和茎的C含量大多集中在 $45 \% - 5 0 \%$ 之间(平均值分别为 $4 4 . 2 7 \%$ 和 $45 . 7 6 \%$ ）而且不同物种同一器官及同一物种不同器官之间的C、N含量之间都有差异，因此不能简单地用同一个参数来估算整株灌木的C、N含量。
+
+叶片进行光合作用的N来源于植物根系对N的吸收及茎向叶片的运输(Field&Mooney,1986),N素在叶中占很大的比重，其中在 $\mathrm { C } _ { 3 }$ 植物中，叶绿体中的N含量占整个叶N含量的 $7 5 \%$ (Chapin et al.,1987)，因此叶片的N含量远比其他器官的高(Trewavas，1985)，北疆草地典型灌木各器官N含量大小为叶 $\mathrm { > }$ 枝 $\ >$ 茎，灌木地上部分N含量比较接近枝的N含量，研究区灌木叶的N含量大多集中在 $2 \%$ 以上(平均值 $2 . 2 1 \%$ ，而枝和茎的N含量较低，集中在$1 . 0 \% - 1 . 5 \%$ （平均值分别为 $1 . 5 5 \%$ 和 $1 . 3 4 \%$ ，叶片N含量高于全球尺度内植物叶片N平均含量 $1 . 8 3 \%$ 和$1 . 7 7 \%$ ）(Elser et al.,2000a;Reich& Oleksyn,2004)和中国陆地植物叶片平均N含量 $( 1 . 8 6 \% )$ (He et al.,2008)，可能是因为研究区降水量低，可以被灌木吸收的N多为可溶性铵态氮，土壤淋溶过程中N水平升高，导致可供植物吸收的有效氮增加，故灌木叶N含量升高(Han et al.,2005)。
+
+C、N在植物个体水平上是相互影响和相互制约的(Tingey etal.,2003)，它们的相互作用及其与生境的关系影响着植物的生长发育和营养状况(贺金生和韩兴国，2010)。植物的C:N反映了植物生长速率(许振柱等，2004)，体现植物的营养利用效率，是植物生命活动的重要维持者和调节者，同时也是枯枝落叶分解速率的调节因素之一(Field& Mooney,1986)，植物C:N也代表植物吸收N时同化C的能力，反映了植物对C和N的相对协调能力(羊留冬等，2011)，也反映了N的利用效率和固C效率的高低,因此，植物C:N是C储存能力和积累速率与限制植物生长的N供应偶联的结果(Herbertet al.,2003)，北疆草地典型灌木各器官的C:N大小为茎 $\ >$ 枝 $>$ 叶，灌木地上部分C:N比较接近枝的C:N水平。叶片的C:N低于全球尺度植物叶片的C:N(22.50)(Elseretal.,2000b)；C:N高，说明土壤中微生物的同化量超过矿化作用时提供的有效氮量，植物会出现缺氮的现象；C:N低，说明土壤在进行矿化作用的时候植物能得到所需的有效氮量(Sabiketal.,2000)。研究区灌木的C、N含量及C:N在不同器官的分布差异极显著$( p < 0 . 0 1 )$ ，与秦岭亚高山草甸30种草本植物的研究结论趋势一致(何亚婷等,2008)，进一步说明植物不同器官的营养元素分配是有差异的。
+
+由于植物养分在各个器官的含量及分配不仅受生长环境养分有效性的制约，而且也与植物自身的生理特征及生长型有关(Aerts & Chapin，1999)，北疆灌木中蔷薇科叶、枝和茎的C含量均高于其他科灌木，说明蔷薇科灌木有较高的储C能力。豆科植物可与根瘤菌共生固氮，改良土壤的结构，提高土壤的肥力，干旱区的豆科植物更是生态系统中有效氮的存储中心(Glaseneretal.,2002)，因此豆科叶和茎的N含量高于其他科，枝的N含量最高的是麻黄科，是因为麻黄科的枝是进行光合作用的器官(许鸿川,2008)，叶和枝的C:N最高的是旋花科，最低的是豆科植物，有研究表明，种植豆科灌木对严重退化地恢复和重建有显著的效果(杨玉盛等,1999)。本研究区各科灌木C的变异系数较低，是因为C的主要来源是植物叶片进行光合作用将大气中的 $\mathrm { C O } _ { 2 }$ 转变为植物的有机碳，所以植物体内的C含量相对稳定(高伟，2010)，植物养分含量的变异大多可以通过物种的形成与发育来解释(Broadleyetal.,2004;He et al.,2008)，N的变异系数相对较高，研究区灌木各器官N含量的变异系数均大于C含量的，因此C:N的变异更多的来自于N含量的变异。
+
+# 4结论
+
+本研究以新疆北部草地13种典型灌木为对象进行调查研究，测定其C、N含量及确定其C:N，统计分析了本区灌木C、N特征，得出以下结论：
+
+(1)确定了北疆草地13种典型灌木不同器官及灌木地上部分C、N参数，可为不同尺度估算灌木碳氮储量提供基础数据;
+
+(2)叶是植物重要的生产器官，枝和茎是植物的疏导和储藏器官，各器官的C、N元素分配有差异，本区灌木C含量大小为茎 $\ \cdot >$ 枝 $>$ 叶，N含量大小为叶 $\mathrm { > }$ 枝 $>$ 茎，C:N大小为茎 $\ \cdot >$ 枝 $>$ 叶；组成灌木主要成分的N含量变异比C含量的变异强。
+
+(3)北疆草地典型灌木不同器官的C、N含量及C:N在不同科间有显著差异性 $( p < 0 . 0 5 )$ 。蔷薇科的C含量最高；豆科叶和茎的N含量最高，由于麻黄的光合器官是枝，因此麻黄科枝的N含量最高；旋花科叶和枝的C:N最高，蔷薇科枝和茎的C:N最高。
+
+基金项目中国科学院战略性先导科技专项(XDA05050400)和新疆维吾尔自治区土壤学重点学科资助项目。
+
+致谢感谢新疆农业大学草业与环境科学学院的张文太、武红旗、贾宏涛、孙宗玖、李志强等教师以及刘秋雨等同学在野外调查采样中付出的艰辛劳动。
+
+# 参考文献
+
+Aerts R, Chapin FS III(1999). The mineral nutrition of wild plants revisited: A re-evaluation of processes and patterns. Advances in Ecological Research, 30,1-67.   
+Archer S,Schimel DS,Holland EA (1995).Mechanisms of shrubland expansion: Land use, climate,or $\mathrm { C O } _ { 2 }$ . Climatic Change, 29(1), 91-99.   
+Barth RC, Klemmedson JO (1978). Shrub-induced spatial patterns of dry matter, nitrogen,and organic carbon. Soil Science Society of America Journal, 42, 804-809.   
+Boutton TW,Archer SR，Midwood AJ,Zitzer SF,Bol R (1998). $\delta ^ { 1 3 } \mathrm { C }$ values of soil organic carbon and their use in documenting vegetation change in a subtropical savanna ecosystem. Geoderma, 82, 5-41.   
+Brantley ST,Young DR (2010). Shrub expansion stimulates Soil C and N storage along a coastal soil chronosequence. Global Change Biology,16,2052-2061.   
+Broadley MR，Bowen HC，Cotterill HL，Hammond JP, Meacham MC,Mead A，White PJ (2004).Phylogenetic variation in the shoot mineral concentration of angiosperms.Journal of Experimental Botany,55,321-336.   
+Chapin FS III, Bloom AJ,Field CB,Waring RH (1987).Plant responses to multiple environmental factors. BioScience, 37, 49-57.   
+Department of Animal Husbandry and Veterinary, the General Station of Animal Husbandry and Veterinary, Ministry of Agriculture of the People's Republic of China (1996). Grassland Resources of China. Chinese Science and Technology Press,Beijing.(in Chinese)[中华人民共和国 农业部畜牧兽医司，全国畜牧兽医总站(1996).中国草 地资源．中国科学技术出版社，北京.]   
+Eldridge DJ, Bowker MA, Maestre FT,Roger E, Reynolds JF, Whitford WG (2011). Impacts of shrub encroachment on ecosystem structure and functioning: Towards a global synthesis.Ecology Letters,14,709-722.   
+Elser JJ, Fagan WF,Denno RF,Dobberfuhl DR,Folarin A, Huberty A, Interlandi S,Kilham SS,McCauley E, Schulz KL,Siemann EH, Sterner RW (2000a). Nutritional constraints in terrestrial land freshwater food webs.Nature, 408,578-580.   
+Elser JJ, Sterner RW,Gorokhova E, Fagan WF,Markow TA, Cotner JB,Harrison JF,Hobbie SE,Odell GM,Weider LW (2000b). Biological stoichiometry from genes to ecosystems. Ecology Letters,3,540-550.   
+Field C,Mooney HA (1986). The Photosynthesis-Nitrogen Relationship in Wild Plants.Cambridge University Press, New York. 341.   
+Gao W (2010). The Study of Carbon-Nitrogen Dynamics and the Ecological Effects of Nitrogen Addition for Degraded Grassland Ecosystem Carbon-Ecological Effects of Nitrogen and Nitrogen Added Variation. PhD dissertation, Inner Mongolia University，Hohhot. 5-26. (in Chinese with English abstract)[高伟 (2010)．退化草地生态系统 碳氮变化规律及氮添加的生态效应研究．博士学位论 文，内蒙古大学，呼和浩特.5-26.]   
+Glasener KM,Wagger MG, MacKown CT, Volk RJ (2002). Contributions of shoot and root nitrogen-15 labeled legume nitrogen sources to a sequence of three cereal crops. Soil Science Society ofAmerica Journal, 66,523-530.   
+Goodale CL,Davidson EA (2002). Carbon cycle: Uncertain sinks in the shrubs. Nature, 418,593-594.   
+Grover HD, Musick HB (1990). Shrubland encroachment in southern New Mexico, U.S.A.: An analysis of desertification processes in the American southwest. Climate Change,17,305-330.   
+Han WX, Fang JY,Guo DL, Zhang Y (2005). Leaf nitrogen and phosphorus stoichiometry across 753 terrestrial plant species in China. New Phytologist, 168,377-385.   
+He JS,Han XG (2010). Ecological stoichiometry: Searching for unifying principles from individuals to ecosystems. Chinese Journal of Plant Ecology, 34, 2-6. (in Chinese with English abstract）[贺金生，韩兴国(2010).生态化学计 量学：探索从个体到生态系统的统一化理论．植物生态 学报,34,2-6.]   
+He JS,Wang L,Flynn DFB,Wang X, Ma W, Fang J(2008). Leaf nitrogen: Phosphorus stoichiometry across Chinese grassland Biomes. Oecologia, 155,301-310.   
+He YT, Liu WZ, Dang GD, Zhang QF (2008). Study on content of C and $\mathrm { ~  ~ N ~ }$ contents of 30 plant species in subalpine meadow of Qinling Mountains. Pratacultural Science, 25(10),1-5.(in Chinese with English abstract)[何亚婷, 刘文治，党高弟，张全发 (2008).秦岭亚高山草甸30种 草本植物的碳、氮分布研究．草业科学,25(10),1-5.]   
+Herbert DA, Williams M, Rastetter EB (2003). A model analysis of N and P limitation on carbon accumulation in Amazonian secondary forest after alternate land-use abandonment.Biogeochemistry, 65(1),121-150.   
+Hou XY (1982). A Brief Description of Vegetation Maps People's Republic of China. Map Press, Beijing.1542-1548. (in Chinese）[侯学煜(1982)．中华人民共和国植被图 简要说明．地图出版社，北京.1542-1548.]   
+Jackson RB, Schenk HJ, Jobbagy EG, Canadell J, Colello GD, Dickinson RE,Field CB,Friedlingstein P,Heimann M, Hibbard K,Kicklighter DW,Kleidon A,Neilson RP,Parton WJ, Sala OE, Sykes MT (2000). Belowground consequences of vegetation change and their treatment in models. Ecological Applications,10,470-483.   
+Knapp AK,Briggs JM, Collins SL,Archer SR,Bret-Harte MS, Ewers BE,Peters DP,Young DR, Shaver GR,Pendall E, Cleary MB (2008). Shrub encroachment in North American grasslands: Shifts in growth form dominance rapidly alters control of ecosystem carbon inputs. Global Change Biology,14, 615-623.   
+Li QH, Jiang ZP, Zhang JB, Zhao YM (2006). The progress and perspective of research on the ecological characteristics and benefits of shrub.Journal of Arid Land Resources and Environment,20(2),159-164.(in Chinese with English abstract）[李清河，江泽平，张景波，赵英铭 (2006)．灌 木的生态特性与生态效能的研究与进展．干旱区资源 与环境,20(2),159-164.]   
+Li XR (2ooo).Discussion on the characteristics of shrubby diversity of Ordos Plateau. Resources Science，22(3), 54-59.(in Chinese with English abstract)[李新荣 (2000). 试论鄂尔多斯高原灌木多样性的若干特点．资源科学, 22(3), 54–59.]   
+Ma QY, Chen XL,Wang J,Lin C,Kang FF, Cao WQ,Ma ZB, Li WY (2002). Carbon content rate in constructive species of main forest types in Northern China. Journal of Beijing Forestry University， 24(5-6),96-100. (in Chinese with English abstract)[马钦彦，陈遐林，王娟，葡琛，康峰峰, 曹文强，马志波，李文宇 (2002).华北主要森林类型建 群种的含碳率分析．北京林业大学学报，24(5-6), 96-100.]   
+Nepstad DC,de Carvalho CR,Davidson EA, Jipp PH,Lefebvre PA,Negreiros GH, da Silva ED, Stone TA,Trumbore SE, Vieira S (1994). The role of deep roots in the hydrological and carbon cycles of Amazonian forests and pastures.Nature, 372,666-669.   
+Ni J (2002). Carbon storage in grassands of China. Journal of Arid Environments,50,205-218.   
+Ni J(2004). Forage yield-based carbon storage in grasslands of China. Climatic Change, 67,237-246.   
+Northup BK, Zitzer SF,Archer S,Mc Murtry CR,Boutton TW (2005).Above-ground biomass and carbon and nitrogen content of woody species in a subtropical thornscrub parkland. Journal of Arid Environments, 62, 23-43.   
+Reich PB, Oleksyn J(2004). Global patterns of plant leaf N and P in relation to temperature and latitude. Proceedings of the National Academy of Sciences of the United States of America,101,11001-11006.   
+Sabik H, Jeannot R, Rondeau B (2ooo).Multiresidue methods using solid-phase extraction techniques for monitoring priority pesticides,including triazines and degradation products, in ground and surface waters. Journal of Chromatography A, 885,217-236.   
+Smith TM,Woodward FI, Shugart HH(1996).Plant Function Types. Cambridge University Press,New York. 352-356.   
+Sun GJ, Zhang R, Zhou L (2Oo3). Trends and advances in researches on plant functional diversity and functional groups.Acta Ecologica Sinica,23,1430-1435.(in Chinese with Englishabstract）[孙国钧，张荣，周立(2003)．植 物功能多样性与功能群研究进展．生态学报，23,   
+1430-1435.] Tingey DT, Mckane RB, Olszyk DM, Johnson MG, Rygiewicz PT,Lee EH (2003). Elevated $\mathrm { C O } _ { 2 }$ and temperature alter nitrogen allocation in Douglas-fir. Global Change Biology,   
+9,1038-1050. Trewavas A (1985). A Pivotal Role for Nitrate and Leaf Growth inPlant Development. Cambridge University Press,New York. 159-162. van Auken OW (20oo). Shrub invasions of North American semiarid grasslands.Annual Review of Ecology and Systematics,31,197-215. Woodell SRJ, Evenari M, Noy-Meir I, GoodallDW (1986). Hot deserts and arid shrublands A. Journal of Ecology， 74,   
+1215. Xu HC (2008). Botany. 2nd edn. China Forestry Publishing House,Beijing.96-97.(in Chinese）[许鸿川 (2008).植 物学．第2版．中国林业出版社，北京.96-97.] Xu P,Alimujiang,Wang B (1993). Resources and Use of Grassland in Xinjiang. Xinjiang Science and Technology Health Press, Urümqi.1213-2151.(in Chinese)[许鹏，阿 里木江，王博 (1993)．新疆草地资源及其利用．新疆科 技卫生出版社，乌鲁木齐.1213-2151.] Xu ZZ, Zhou GS,Xiao CW,Wang YH (2004).Responses of two dominated desert shrubs to soil drought under doubled $\mathrm { C O } _ { 2 }$ condition. Acta Ecologica Sinica, 24,2186-2191. (in Chinese with English abstract)[许振柱，周广胜，肖春旺, 王玉辉 (2004). $\mathrm { C O } _ { 2 }$ 浓度倍增条件下土壤干旱对两种沙 生灌木碳氮含量及其适应性的影响．生态学报，24,   
+2186-2191.] Yang LD, Yang Y，Wang GX, Guo JY, Yang Y (2011). Short-term effects of warming on growth and stoichiometrical characteristics of Abies fabiri (Mast.) Craib seedling in Gongga Mountain. Acta Ecologica Sinica, 31,   
+36268-3676.(in Chinese with English abstract)[羊留冬, 杨燕，王根绪，郭剑英，杨阳 (2011).短期增温对贡嘎 山峨眉冷杉幼苗生长季及其CNP化学计量学特征的影 响．生态学报,31,36268-3676.] Yang YS,He ZM, Qiu RH,Luo XS (1999). Effects of different recover and restoration measures on plant diversity and soil fertility for serious degradation ecosystem. Acta Ecologica Sinica,19,490-494. (in Chinese with English abstract)[杨玉盛，何宗明，邱仁辉，罗学升 (1999)．严 重退化生态系统不同恢复和重建措施的植物多样性与 地力差异研究．生态学报,19,490-494.]
+
+责任编委：白永飞责任编辑：王葳

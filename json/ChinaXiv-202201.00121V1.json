@@ -1,0 +1,401 @@
+[
+    {
+        "type": "text",
+        "text": "1960—2018年黄土高原地区蒸发血蒸发时空变化特征及影响因素",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张耀宗¹²，张勃³，张多勇4，刘艳艳12（1.陇东学院历史与地理学院,甘肃 庆阳745000；2.庆阳市荒漠化防治研究中心,甘肃 庆阳745000;3.西北师范大学地理与环境科学学院，甘肃 兰州730070；4.北方民族大学鄂尔多斯盆地历史地理研究中心，宁夏银川750021)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：蒸发是水循环的重要过程,研究黄土高原地区的蒸发皿蒸发对区域水资源利用与保护意义重大。通过收集黄土高原地区61个气象站点的蒸发皿蒸发、气温、风速、降水、相对湿度、水汽压等数据,使用Mann-Kendall检验、累积距平、线性趋势法分析了1960—2018年黄土高原地区蒸发皿蒸发的时空变化特征，运用多元回归分析法探究了影响蒸发皿蒸发的主要气象因子。研究结果表明：(1）近59a黄土高原地区蒸发皿蒸发以 $- 6 ~ \\mathrm { { m m } \\cdot ( 1 0 a ) ^ { - 1 } }$ 的速率呈下降趋势,2000年以后呈增加趋势;该区域蒸发皿蒸发存在2次转折、3个阶段的变化,1960—1974年呈增加趋势,1975—1996年呈减少趋势,1997—2018年呈增加趋势,春、夏、秋呈减少趋势,冬季呈增加趋势。（2)空间上蒸发皿蒸发整体变化和局部变化不同步,陇东、陇中黄土高原、河套地区和鄂尔多斯高原呈增加趋势,关中平原、山西黄土高原呈减少趋势。（3）平均风速、日照时数、水汽压依次是影响黄土高原地区蒸发皿蒸发的主要气象因子，平均风速减小、日照时数减少、水汽压升高是蒸发皿蒸发减少的原因;各季节中,影响春、秋季的主要气象因子为风速、夏季为相对湿度、冬季为温度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：蒸发皿蒸发；时空变化；蒸发悖论；气象因素；黄土高原地区",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "水资源是人类生存和发展的命脉，其状态与变化特征对人类社会经济可持续发展有着明显的制约作用[]。蒸发是水循环的重要过程，其演变过程涉及能量平衡与水量平衡[2-4]。因此，进行蒸散发变化研究对深入了解气候变化、区域水平衡与水循环的影响具有十分重要的意义[5-6]。由于实际蒸发难以观测，但蒸发血蒸发与水面蒸发之间存在较高的相关关系，是气象站常规观测项目之一，同时该指标观测资料累积序列长、可比性好，因此实践时常作为水文与水资源研究、水利工程设计和气候区划的重要气象指标[1.7]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "众多学者的研究表明20世纪50年代以来全球各地的蒸发血蒸发呈减少趋势，风速、太阳辐射、气温、相对湿度对蒸发皿蒸发影响显著[8-9]。近几十年我国大部分地区年蒸发皿蒸发呈减少趋势[10-1],左洪超等[2]认为1961—2000年我国 $6 6 \\%$ 的气象台站蒸发皿蒸发呈减少趋势，蒸发皿蒸发与相对湿度的相关性最大。任国玉等[13]使用600多个气象站数据研究认为1956—2000年我国蒸发皿蒸发呈显著减少趋势，东部、南部和西北地区减少更多，日照时数、平均风速、气温日较差对水面蒸发影响显著。祁添垚等4发现我国南部、东部、中部以及西北部，蒸发皿蒸发以显著减少趋势为主；我国东北部至西南的狭长带，蒸发皿蒸发呈显著增加及无明显变化趋势,相对湿度是影响蒸发血蒸发的关键因子。Zhang等[15]指出黄土高原半干旱地区蒸发皿蒸发呈增加趋势，与全球其他区域不同，气温升高、低云量减少、相对湿度降低是蒸发皿蒸发增加的主要原因；杨司琪等[16发现夏季风影响过渡区蒸发皿蒸发量呈现增加趋势，夏季风区与非夏季风影响过渡区呈相反变化趋势；温度变化对夏季风影响过渡区蒸发血蒸发变率的贡献最大，低云量的变化对夏季风影响过渡区、夏季风和非夏季风影响区的贡献均在$2 0 \\%$ 以上[17]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "黄土高原地区是我国重要的生态治理区，作为黄河流域高质量发展和国家生态安全的关键区域，水资源是制约其植被恢复的主要因素，水资源变化将直接影响本区域的农业生产、生态环境建设及社会经济可持续发展，蒸发作为水循环的关键环节，是影响区域水热平衡的重要参数，研究蒸发皿蒸发变化可为黄土高原地区的水资源管理、干湿预警与生态恢复建设,提供重要的理论支撑。各气象站点中蒸发皿蒸发数据往往缺测过多，对研究的全面性和准确性有一定影响，本文将全面挖掘与整理1960一2018年该地区气象站的蒸发血蒸发量数据，及其他相关气象要素的观测资料，划分出6个子区域，分析蒸发皿蒸发变化特征及影响蒸发皿蒸发变化的气象要素。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1数据来源与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究中黄土高原地区边界范围北抵阴山，南达秦岭，东到太行山，西正青海日月山，面积 $6 . 4 \\times 1 0 ^ { 5 }$ $\\mathrm { k m } ^ { 2 }$ ，如图1所示，与中国科学院黄土高原地区考察范围一致[18]。按照黄土高原地区的地貌特征和自然地理特征将该区域划分为6个子区域进行研究，即陇中黄土高原（I）、陇东黄土高原（Ⅱ）、关中平原（Ⅲ）山西黄土高原(IV）、河套地区（V）、鄂尔多斯高原（VI)[19]",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/62b3ed7c9fcb260216b16f15ea428c8a9442003af9162bbd06e0d502f2bfe964.jpg",
+        "img_caption": [
+            "图1研究区气象站点分布",
+            "Fig.1 Distribution of meteorological station in Loess Plateau "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用黄土高原地区气象站蒸发皿蒸发 $( E _ { p a n } )$ 分析近59a黄土高原地区 $E _ { p a n }$ 变化特征，蒸发皿口径为 $2 0 \\mathrm { c m }$ ，并利用平均气温( $\\left( T _ { \\mathrm { m e a n } } \\right)$ 、最低气温（ $\\left( T _ { \\mathrm { m i x } } \\right)$ 、最高气温( $T _ { \\mathrm { m a x } } )$ 、降水 $\\left( P r e \\right)$ 、平均风速 $\\left( u _ { 2 } \\right)$ 、日照时数$( S d )$ 、水汽压 $\\left( e _ { s } \\right)$ 、相对湿度 $( R h )$ 等数据研究黄土高原地区蒸发血蒸发变化的主要气象因子，气象数据来源于中国气象科学数据共享服务网(http://data.cma.cn/)。蒸发皿蒸发数据缺测较多，为保证序列趋势的一致性，将时间序列连续小于45a的站点剔除，并通过元数据分析，对上述资料进行了严格的质量控制。经过剔除和质量控制，基于61个站点的蒸发血蒸发数据及相关气象数据(图1)，对该区域1960—2018年蒸发皿蒸发变化特征及影响因素进行研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.1线性变化趋势和Mann-Kendall法本文采用线性趋势法与Mann-Kendall非参数检验法分析黄土高原地区 $E _ { p a n }$ 的变化趋势，使用累积距平法和Mann-Kendall突变检验法分析 $E _ { p a n }$ 的突变点。线性趋势法的优点在于方法简单、物理意义清晰，并可以定量评估趋势值，通过相关系数检验其显著程度[20]Mann-Kendall非参数统计检验(M-K检验)是世界气象组织WMO推荐的应用于环境数据时间序列趋势分析的方法，是检验时间序列单调趋势的有效工具[2],该方法还可以检验时间序列是否发生了突变。以上方法在气候变化的研究中已经广泛使用[22-25],具体算法参照文献[20-21]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.2多元线性回归分析在多要素的地理系统中，多个要素之间存在着相互影响、相互关联的情况。因此，多元地理回归模型具有更普遍性的意义[21]。影响 $E _ { p a n }$ 的因素是多方面的,为更全面掌握影响 $E _ { p a n }$ 的气象因素，对数据进行标准化之后，使用了多元回归分析方法，研究了影响 $E _ { p a n }$ 的主要气象要素，使用 $F$ 检验确定各因素对蒸发皿蒸发的方差贡献，从而确定影响各区域 $E _ { p a n }$ 变化的主导气象因子[13]。计算方法如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设某一变量 $y$ 受 $k$ 个自变量 $x _ { 1 } , x _ { 2 } , \\cdots , x _ { k }$ 的影响,其 $n$ 组的观测值为 $( y _ { a } , x _ { 1 a } , x _ { 2 a } , \\cdots , x _ { k a } )$ ,其中, $a { = } 1$ ，$2 , \\cdots , n$ 。那么，多元线性回归模型的结构式为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { a } = \\beta _ { 0 } + \\beta _ { 1 } x _ { 1 a } + \\beta _ { 2 } x _ { 2 a } + \\cdots + \\beta _ { k } x _ { k a } + \\varepsilon _ { a }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中 $: \\beta _ { 0 } , \\beta _ { 1 } , \\beta _ { 2 } , \\cdots , \\beta _ { k }$ 为待定系数; $\\scriptstyle { \\varepsilon _ { a } }$ 为误差项。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如果 $b _ { 0 } , b _ { 1 } , b _ { 2 } , \\cdots , b _ { k }$ 分别为 $\\beta _ { 0 } , \\beta _ { 1 } , \\beta _ { 2 } , \\cdots , \\beta _ { k }$ 的拟",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "合值，则回归方程如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY = b _ { 0 } + b _ { 1 } x _ { 1 a } + b _ { 2 } x _ { 2 a } + \\cdots + b _ { k } x _ { k }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $b _ { 0 }$ 为常数： $\\boldsymbol { b } _ { 1 } , \\boldsymbol { b } _ { 2 } , \\cdots , \\boldsymbol { b } _ { k }$ 为偏回归系数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "偏回归系数 $b _ { i } ( i { = } 1 , 2 , \\cdots , k )$ 的含义是，当其他自变量 $x _ { j } ( j \\neq i )$ 都固定时，自变量 $x _ { i }$ 每变化一个单位而使因变量 $y$ 平均改变的数值。根据最小二乘法原理，得到回归系数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "多元线性回归模型建立后，需要进行显著性检验，线性回归的检验采用 $F$ 检验完成。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF = \\frac { U } { Q / ( n - 2 ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1蒸发血蒸发的时空变化特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 蒸发皿蒸发年际变化特征通过线性趋势法计算可知，1960—2018年黄土高原地区 $E _ { p a n }$ 整体呈减少趋势，气候倾向率为 $- 6 ~ \\mathrm { { m m } \\cdot ( 1 0 a ) ^ { - 1 } }$ (图2)，未通过显著性检验。研究区与全国[10.26-28]、黄河流域[7]的$E _ { p a n }$ 变化趋势基本一致，均呈减少趋势。1960—2000年黄土高原地区 $E _ { p a n }$ 呈明显减少趋势，气候倾向率为 $- 5 9 \\ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ ,通过了0.05的显著性检验，高于同期全国及其他大部分地区 $E _ { p a n }$ 减少的速率(表1)，2000年以来 $E _ { p a n }$ 呈增加趋势，气候倾向率为 $2 6 ~ \\mathrm { m m }$ ：$( 1 0 \\mathrm { a } ) ^ { - 1 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "黄土高原地区 $E _ { p a n }$ 春、夏、秋、冬四季的气候倾向率分别为： $- 1 4 \\mathrm { \\ m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 } \\cdot - 1 6 \\mathrm { \\ m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 } \\cdot - 9$ $\\mathrm { m } \\mathrm { m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ ） $1 6 \\mathrm { \\ m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ ,未通过显著性检验。黄土高原地区春季、夏季蒸发皿蒸发减少量较大，对年蒸发皿减少蒸发贡献大，冬季蒸发皿蒸发呈增加趋势，是2000年来蒸发皿蒸发速率减少的主要原因。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9d216156c1de0e7512ab4dd723012d2b659efc511fb6a791ce26b8375d89a13d.jpg",
+        "img_caption": [
+            "图21960—2018年黄土高原地区蒸发皿蒸发线性趋势Fig.2Liner trend of pan evaporation in Loess Plateau from1960 to 2018"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "黄土高原地区 $E _ { p a n }$ 变化在空间上一致性较差，局部和整体变化不同步。在空间上，减少与增加的站点同时存在(图3）， $5 4 \\%$ 的站点呈减少趋势，其中$5 4 \\%$ 的站点通过了0.05的显著性水平检验； $4 2 \\%$ 的站点呈增加趋势，其中 $5 8 \\%$ 的站点通过了0.05的显著性水平检验，呈增加趋势的站点主要分布在Ⅱ区和VI区； $4 \\%$ 的站点无明显变化趋势。研究表明 $E _ { p a n }$ 变化在全国及黄河流域均存在的空间差异性现象[-2.7]，黄土高原地区同全国及黄河流域变化特征较为一致，其内部变化存在明显差异。6个分区中，Ⅲ区、M区呈减小趋势,气候倾向率分别为 $- 2 2 \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ ，$- 8 ~ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ ，I区、Ⅱ区、 $\\mathrm { \\Delta V }$ 区、 $\\mathrm { ~ \\textmu ~ }$ 区呈微弱增加趋势，气候倾向率分别为 $1 7 \\ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ 、 $1 3 { \\mathrm { ~ m m } } \\cdot { \\mathrm { ~ } }$ $( 1 0 \\mathrm { a } ) ^ { - 1 } \\cdot 3 \\mathrm { m m } { \\cdot } ( 1 0 \\mathrm { a } ) ^ { - 1 } \\cdot 1 8 \\mathrm { m m } { \\cdot } ( 1 0 \\mathrm { a } ) ^ { - 1 }$ ,各区域中， $E _ { p a n }$ 减少的速率大于增加的速率。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/158e03057a8eb71681ca48f2aefd3f5f702b17b687b9e3ec53844852a058bef3.jpg",
+        "table_caption": [
+            "表1全国各地区 $E _ { p a n }$ 变化趋势分析",
+            "Tab.1 Nationwide summary of $E _ { p a n }$ trend "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>区域</td><td>时段</td><td>变化趋势/[mm·(10a)-]</td><td>文献来源</td></tr><tr><td>全国</td><td>1957—2001年</td><td>-34.12</td><td>[2]</td></tr><tr><td>全国</td><td>1961—2017年</td><td>-21.08</td><td>[26]</td></tr><tr><td>全国</td><td>1955—2001年</td><td>-29.3</td><td>[28]</td></tr><tr><td>黄河流域</td><td>1961—2010年</td><td>-23.5~-83.5</td><td>[7]</td></tr><tr><td>黄土高原</td><td>1956—1989年</td><td>-115.9</td><td>[29]</td></tr><tr><td>黄淮海流域</td><td>1956—2000年</td><td>-50</td><td>[30]</td></tr><tr><td>青藏高原</td><td>1970—2005年</td><td>-30.6</td><td>[31]</td></tr><tr><td>海河流域</td><td>1957—2001年</td><td>-49.1</td><td>[32]</td></tr><tr><td>东北地区</td><td>1960—2000年</td><td>-10.96</td><td>[33]</td></tr><tr><td>广东</td><td>1961—2008年</td><td>-54.67</td><td>[34]</td></tr><tr><td>三峡地区</td><td>1952—2013年</td><td>-20.1</td><td>[35]</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d01a6768ec7482ec6307f38cdb56298be9ca9c365986533d4783b9341c1f24bf.jpg",
+        "img_caption": [
+            "图31960—2018年黄土高原地区蒸发皿蒸发空间变化Fig.3Spatiotemporal variations of pan evaporation in LoessPlateau from 1960 to 2018"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 蒸发皿蒸发突变分析由黄土高原地区 $E _ { p a n }$ 的M-K突变检验分析可知（图 $\\mathrm { 4 a }$ ）， $E _ { p a n }$ 的 $U F$ 和 $U B$ 线无交点，表明通过M-K检验黄土高原地区 $E _ { p a n }$ 无突变点。I区、Ⅱ区与黄土高原地区M-K检验结果基本一致；Ⅲ区突变点为1970年，V区的突变点在1968年；V区、VI区M-K检验无突变点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过累积距平曲线可知(图4b)，累积距平曲线存在3个阶段的变化趋势，1960—1974年呈显著的增加趋势，1975年之后呈减少趋势，1997年之后呈增加趋势。I区、Ⅱ区、V区、V区、VI区与黄土高原地区累积距平曲线变化基本一致。Ⅲ区 $E _ { p a n }$ 累积距平曲线也存在3个阶段的变化趋势，1970年之前呈增加趋势，1970—1993年表现为减少趋势，但在1993年之后出现短暂的增加趋势，1997年之后又呈减少趋势。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上可知，黄土高原地区 $E _ { p a n }$ 有2次转折、3个阶段的变化趋势，转折年份分别是1974年和1996年，1960一1974年呈增加趋势，气候倾向率为 $1 1 \\ \\mathrm { m m }$ ：$( 1 0 \\mathrm { a } ) ^ { - 1 }$ ,1975一1996年呈减少趋势，气候倾向率为$- 6 0 ~ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ ,1997年之后呈增加趋势，增速为$3 0 \\ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ 。马海姣等29指出1974年是黄土高原地区 $E _ { p a n }$ 的主要转折年，杨司琪[26认为1960—2017年全国 $E _ { p a n }$ 的转折点在1996年，本文与以上研究结果具有一致性。因此,黄土高原地区与全国 $E _ { p \\mathrm { - } }$ 的转折时间一致性较好。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2蒸发血蒸发变化的气象因素分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "应用多元回归分析计算气象因子系数，使用 $F$ 检验确定各因素对蒸发皿蒸发的方差贡献，从而确定影响各区域 $E _ { p a n }$ 变化的主导气象因子[13,19],各区域影响 $E _ { p a n }$ 的主要气象要素排序见表2。分析可知，平均风速在黄土高原地区及各区域对 $E _ { p a n }$ 影响最显著，其次是日照时数和水汽压。平均风速、日照时数的影响因素为正影响作用，水汽压为负影响作用。各分区中，影响I、Ⅱ、Ⅲ区的首要气象因素为平均风速，V区的首要影响因素是日照时数，V、VI区的首要影响因素是温度，其他因素在各区域排序不一致(表2)，反映出各区域地理环境差异显著，不同地理单元影响 $E _ { p a n }$ 的气象因素差异较大。杨司琪等[16指出夏季风区、夏季风影响过渡区及非夏季风区 $E _ { p a n }$ 对各气象要素的敏感程度不同。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "各区域在不同季节影响蒸发皿蒸发的气象因子差异明显。春季，Ⅲ区、V区最显著的影响因素为平均最低气温、其他各区域以平均风速为主，日照时数、平均最高气温对各区域蒸发皿蒸发存在影响；夏季I区、V区的主要影响因子为相对湿度，Ⅱ区、V区、V区的主要影响因子为降水，风速和降水是Ⅲ区的主要气象因子；秋季各区域影响 $E _ { p a n }$ 的气象因子以平均风速为主，V区的主要气象因子是最低气温,其次是风速;冬季黄土高原地区、Ⅱ区的主要影响因子为平均最低气温、日照时数，N、V区平均风速是主要的气象因子，I区无明显的影响因子。综上分析，春季、秋季各区域以风速为主，温度、相对湿度在春季有显著的影响；夏、秋各区域的主要影响因子为相对湿度、水汽压、降水;在冬季温度、相对湿度、风速对 $E _ { p a n }$ 影响显著。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9c8dac31bd2378cba8a5ae7566db85ecac9614ae64bf3c80e5e9c7adaf705c48.jpg",
+        "img_caption": [
+            "图4黄土高原地区蒸发血蒸发M-K检验和累积距平",
+            "Fig.4Mann-Kendall test and cumulative anomaly map of pan evaporation in Loess Plateau "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/96a6e27cceb7045ae4b846e17437280b60f080a4ac227c89bac8add37c31f917.jpg",
+        "table_caption": [
+            "Tab.2 Main influential factors for $E _ { p a n }$ in theLoess Plateau "
+        ],
+        "table_footnote": [
+            "注： $T _ { \\mathrm { m e a n } }$ 表示平均气温， $T _ { \\mathrm { m i x } }$ 表示最低气温， $T _ { \\mathrm { m a x } }$ 表示最高气温， $P r e$ 表示降水， $u _ { 2 }$ 表示平均风速， ${ \\cal { S } } d$ 表示日照时数，e表示水汽压， $R h$ 表示相对湿度，LP表示黄土高原地区。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>春季</td><td>夏季</td><td>秋季</td><td>冬季</td><td>全年</td></tr><tr><td>LP</td><td>u2</td><td>Rh、es、Tmean</td><td>u2、Sd、es</td><td>Tmix、Rh、Tmax</td><td>u2、Sd、es</td></tr><tr><td>I</td><td>u2、Tmax</td><td>u2、u、Sd</td><td>u2、Tmix、Sd</td><td>1</td><td>u2、Rh、Tmix</td></tr><tr><td>Ⅱ</td><td>u2、Tmax、Tmix</td><td>Pre、Rh</td><td>u、Rh 、Sd</td><td>Tmix、Rh</td><td>u2、Tmix es、</td></tr><tr><td>Ⅲ</td><td>Tmix、Rh、Tmax</td><td>u2、Pre、</td><td>u2、Tmax</td><td>Rh 、Tmean 、Sd</td><td>u2、es、Tmix、</td></tr><tr><td>V</td><td>u2、Rh Pre</td><td>Pre、Rh</td><td>Rh、Tmean 、Tmax</td><td>u2</td><td>Rh、es、Tmix</td></tr><tr><td>V</td><td>Tmix、Tmax、Tmean</td><td>Rh、Tmix es</td><td>Tmix、u2、Tmean</td><td>e、Tmean、Tmix</td><td>Tmix、Tmx、 u2</td></tr><tr><td>VI</td><td>u2、e</td><td>Pre、Tmix、Rh</td><td>u2、Rh、Tmax</td><td>u2、Tmaxes</td><td>Tmean、Tmix、e</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，影响黄土高原地区蒸发皿蒸发的主要气象因子依次为平均风速、日照时数、水汽压，1960一2018年黄土高原地区的平均风速、日照时数均呈减小趋势，气候倾向率分别为 $- 0 . 0 6 \\ \\mathrm { m \\cdot s ^ { - 1 } }$ ：$\\left( 1 0 \\mathrm { a } \\right) ^ { - 1 }$ $- 4 2 \\mathrm { h } \\cdot \\left( 1 0 \\mathrm { a } \\right) ^ { - 1 }$ ;水汽压呈升高趋势，气候倾向率为 $0 . 0 4 \\mathrm { h P a } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ ,在3个主要气象因子的综合作用下，黄土高原地区 $E _ { p a n }$ 整体呈减少趋势。如图5所示，1960一1974年黄土高原地区的平均风速、日照时数呈增大、增加趋势，水汽压呈减小的变化趋势，致使黄土高原地区1974年之前 $E _ { p a n }$ 呈增加变化趋势。1975—1996年，该区域的平均风速虽呈增大变化趋势，但日照时数呈明显减少，导致该时间段黄土高原地区 $E _ { p a n }$ 呈减少变化特征。1997年之后，该区域的平均风速减小，同时在日照时数显著减少和水汽压显著增大的影响下 $E _ { p a n }$ 明显增加。影响 $E _ { p a n }$ 的气象因子较多， $E _ { p a n }$ 的变化是各种气象要素综合作用的结果[12],可以将其分为动力因子、热力因子及水分因子。其中，风速强弱变化影响蒸发过程中的水汽输送环节[12],是影响 $E _ { p a n }$ 的主要动力因子[14]；日照时数变化导致 $E _ { p a n }$ 的能量来源变化，是影响 $E _ { p a n }$ 热力因子的主要代表；水汽压一定程度上表示了大气中水汽含量的多少，能够表征影响 $E _ { p a n }$ 的水分因子。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/43d7381dcbcdf9cc0f24f82a7c8539e60aeb3dc1e0dd041f735e10add623a0ca.jpg",
+        "table_caption": [
+            "表2各区域影响 $E _ { p a n }$ 的主要气象要素",
+            "表3各区域影响 $E _ { p a n }$ 的主要气象要素变化趋势",
+            "Tab.3 Liner trend of main influential factors for $E _ { p a n }$ in the Loess Plateau "
+        ],
+        "table_footnote": [
+            "注：\\*\\*表示 $P { < } 0 . 0 1$ ，\\*表示 $\\scriptstyle P < 0 . 0 5 ,$ 0"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>LP</td><td>I</td><td>Ⅱ</td><td>Ⅲ</td><td>IV</td><td>V</td><td>VI</td></tr><tr><td>u2</td><td>年</td><td>-0.06**</td><td>-0.04</td><td>-0.05**</td><td>-0.01</td><td>-0.09**</td><td>-0.03</td><td>-0.17**</td></tr><tr><td></td><td>春</td><td>-0.08**</td><td>-0.08**</td><td>-0.08**</td><td>0</td><td>-0.1**</td><td>-0.07</td><td>-0.21**</td></tr><tr><td></td><td>夏</td><td>-0.04</td><td>-0.03</td><td>-0.04</td><td>-0.03</td><td>-0.05**</td><td>-0.01</td><td>-0.15**</td></tr><tr><td></td><td>秋</td><td>-0.04*</td><td>-0.03</td><td>-0.04</td><td>-0.03</td><td>-0.05°</td><td>-0.01</td><td>-0.15**</td></tr><tr><td></td><td>冬</td><td>-0.07*</td><td>-0.04</td><td>-0.05</td><td>-0.02</td><td>-0.11**</td><td>-0.04</td><td>-0.16**</td></tr><tr><td>Sd</td><td>年</td><td>-42**</td><td>-19</td><td>-13.1*</td><td>-51*</td><td>-81**</td><td>-35*</td><td>-40*</td></tr><tr><td></td><td>春</td><td>-13</td><td>-9</td><td>-7</td><td>-17</td><td>-22</td><td>-12</td><td>-13</td></tr><tr><td></td><td>夏</td><td>-17°</td><td>-8</td><td>-13</td><td>-21</td><td>-30**</td><td>-9.</td><td>-16</td></tr><tr><td></td><td>秋</td><td>-11</td><td>-5</td><td>-5</td><td>-14</td><td>-21**</td><td>-12</td><td>-11</td></tr><tr><td></td><td>冬</td><td>-15</td><td>-10</td><td>-6</td><td>-17</td><td>-24**</td><td>-16**</td><td>-13*</td></tr><tr><td>e</td><td>年</td><td>0.04</td><td>0.06</td><td>0.06</td><td>0.06</td><td>0.05</td><td>-0.03</td><td>0.08</td></tr><tr><td></td><td>春</td><td>0.98</td><td>0.87</td><td>0.96</td><td>1.47</td><td>1.12</td><td>0.69</td><td>0.71</td></tr><tr><td></td><td>夏</td><td>2.58*</td><td>2.17*</td><td>2.61*</td><td>3.16*</td><td>2.95°</td><td>2.16</td><td>2.3°</td></tr><tr><td></td><td>秋</td><td>1.42*</td><td>1.26*</td><td>1.43*</td><td>1.82*</td><td>1.57°</td><td>1.15</td><td>1.19*</td></tr><tr><td>Rh</td><td>冬</td><td>0.06</td><td>0.07*</td><td>0.06</td><td>0.05</td><td>0.06</td><td>0.06</td><td>0.05</td></tr><tr><td></td><td>年</td><td>-0.51</td><td>-0.24</td><td>-0.54</td><td>-0.54</td><td>-0.39</td><td>-1.18</td><td>-0.48</td></tr><tr><td></td><td>春</td><td>-1.27</td><td>-0.85</td><td>-1.47</td><td>-1.47</td><td>-1.17</td><td>-1.78°</td><td>-1.07</td></tr><tr><td></td><td>夏</td><td>-0.36</td><td>-0.38</td><td>-0.17</td><td>0.21</td><td>-0.21</td><td>-1.29*</td><td>-0.34</td></tr><tr><td></td><td>秋</td><td>-0.35</td><td>-0.06</td><td>-0.47</td><td>-0.58</td><td>-0.11</td><td>-1.1</td><td>-0.19</td></tr><tr><td></td><td>冬</td><td>-0.2</td><td>0.31</td><td>-0.29</td><td>-0.46</td><td>-0.16</td><td>-0.68</td><td>-0.62</td></tr><tr><td>Tmix</td><td>年</td><td>0.35**</td><td>0.29**</td><td>0.34**</td><td>0.31**</td><td>0.31**</td><td>0.54**</td><td>0.46**</td></tr><tr><td></td><td>春</td><td>0.35**</td><td>0.22**</td><td>0.33**</td><td>0.4**</td><td>0.35°</td><td>0.59**</td><td>0.43**</td></tr><tr><td></td><td>夏</td><td>0.3**</td><td>0.31**</td><td>0.32**</td><td>0.25**</td><td>0.19°</td><td>0.47**</td><td>0.42**</td></tr><tr><td></td><td>秋</td><td>0.28**</td><td>0.25**</td><td>0.28*</td><td>0.28**</td><td>0.23°</td><td>0.44**</td><td>0.4**</td></tr><tr><td></td><td>冬</td><td>0.49**</td><td>0.39**</td><td>0.47**</td><td>0.35**</td><td>0.48**</td><td>0.72**</td><td>0.61**</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d40183ced9b5935b166c5fbe7c2d1df13d58b91c2a104cfc4a477d1733949174.jpg",
+        "img_caption": [
+            "图5黄土高原地区风速、日照时数、水汽压累积距平Fig.5Cumulative departure curve of $u _ { 2 }$ $S d$ 0 $e _ { s }$ in LoessPlateau"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "黄土高原地区春、秋季 $E _ { p a n }$ 呈减少趋势，春、秋季的风速减小对 $E _ { p a n }$ 减少作用明显(表3);夏季 $E _ { p a n }$ 呈减少趋势，其首要影响因素为相对湿度，水汽压、降水也是影响夏季 $E _ { p a n }$ 的主要气象因子，可见水分因子是夏季蒸发血蒸发变化的主要因素；冬季蒸发皿蒸发呈增加趋势，其主要影响因素为最低气温，呈显著增加趋势，因此，热力因子对冬季 $E _ { p a n }$ 变化的影响显著。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$E _ { p a n }$ 变化是多个气象因子共同作用的结果，且是各种气象因子非线性共同作用的复杂过程,单一的环境因子不能解释 $E _ { p a n }$ 的变化[26,36-38]。1960—2018年黄土高原地区蒸发皿蒸发的动力因子、热力因子、水汽因子均发生了变化，且具有明显的阶段性变化特征，导致蒸发皿蒸发出现不同的变化特征。有关学者研究指出影响全国 $E _ { p a n }$ 的主要气象因子或者关键气象因子有风速、日照时数、气温日较差、相对湿度[2.13-4,27],Zhang等[15]、杨司琪等[1]指出低云量对 $E _ { p a n }$ 有重要的影响。由于在不同的研究中使用的气象因子个数有差异，因此，结论不完全一致，柳春等[认为黄河流域 $E _ { p a n }$ 减少是由风速减小所致，本文研究也得出风速是影响黄土高原地区 $E _ { p a n }$ 变化的主要气象因子，但各区域存在一定差异性，在不同区域,不能时间段，主导 $E _ { p a n }$ 的气象因子不同，四季中风速主要在春、秋季对 $E _ { p a n }$ 影响显著。Yang等[39]指出中国地表风速2014年以后出现了增强的趋势，但是区域差异明显，本文与之对应的华北西部、华北区域风速依然表现出减小趋势(表3），但 $E _ { p a n }$ 在2000年后呈增加的趋势，由此可见， $E _ { p a n }$ 的变化还受日照时数变化与水汽压等其他影响因子的控制。对于黄土高原地区这一气候过渡地带，其变化机制复杂，未来研究中除综合考虑本研究所列气象因子外，还应考虑太阳辐射、云量、下垫面性质等多因素对蒸发血蒸发的影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）近59a黄土高原地区 $E _ { p a n }$ 变化时空差异显著,1960—2018年黄土高原地区 $E _ { p a n }$ 呈减少趋势，气候倾向率为 $- 6 ~ \\mathrm { { m m } \\cdot ( 1 0 a ) ^ { - 1 } }$ ,与全国及黄河流域的 $E _ { p a n }$ 变化趋势一致，但减幅较大。黄土高原地区 $E _ { p a n }$ 存在",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1974和1996年前后2个转折点；有3个明显的变化阶段，1975年之前呈微弱增加趋势 $\\left[ 1 1 \\mathrm { m m } { \\cdot } ( 1 0 \\mathrm { a } ) ^ { - 1 } \\right]$ 1975—1996年呈减少趋势 $\\left[ - 6 0 \\mathrm { \\ m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 } \\right]$ ，1997年之后 p工H $E _ { p a n }$ 呈增加趋势 $\\left[ 3 0 \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 } \\right]$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2）空间上，1960—2018年黄土高原地区 $54 \\%$ 的站点呈减少趋势，陇东、陇中黄土高原、河套地区和鄂尔多斯高原呈微弱增加趋势，气候倾向率分别为 $\\mathrm { 1 7 ~ m m \\cdot ( 1 0 a ) ^ { - 1 } \\cdot 1 3 ~ m m \\cdot ( 1 0 a ) ^ { - 1 } \\cdot 3 ~ m m \\cdot ( 1 0 a ) ^ { - 1 } \\cdot 1 8 }$ $\\mathrm { m } \\mathrm { m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ ;关中平原、山西黄土高原呈减少趋势，气候倾向率分别为 $- 2 2 \\mathrm { \\ m m } { \\cdot } ( 1 0 \\mathrm { a } ) ^ { - 1 } \\mathrm { \\ 、 } - 8 \\mathrm { \\ m m } { \\cdot } ( 1 0 \\mathrm { a } ) ^ { - 1 }$ 。（3）风速、日照时数、水汽压是依次影响黄土高原地区 $E _ { p a n }$ 变化的主要气象因子。1960—2018年黄土高原地区平均风速减小 $\\left[ - 0 . 0 5 \\mathrm { \\ m \\cdot s ^ { - 1 } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 } } \\right]$ 、日照时数减少 $\\left[ - 4 1 \\mathrm { h } \\cdot \\left( 1 0 \\mathrm { a } \\right) ^ { - 1 } \\right] -$ 、水汽压升高 $\\left[ 0 . 0 4 \\mathrm { h P a } \\right.$ ：$( 1 0 \\mathrm { a } ) ^ { - 1 } \\ ]$ 是蒸发皿蒸发呈减少趋势的主要原因；春季、秋季 $E _ { p a n }$ 变化动力因子起主要作用，夏、冬季变化分别是水分因子、热力因子起主导作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References):",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]邱新法,刘昌明,曾燕.黄河流域近40a蒸发皿蒸发量的气候变 化特征[J].自然资源学报,2003,18(4):437-442.[Qiu Xinfa,Liu Changming, Zeng Yan. Changes of pan evaporation in the recent 4O years over the Yellow River Basin[J]. Journal of Natural Resource,2003,18(4): 437-442.]   \n[2]申双和,盛琼.45a来中国蒸发皿蒸发量的变化特征及其成因 [J].气象学报,2008,66(3):452-460.[Shen Shuanghe,Sheng Qiong.Changes in pan evaporation and its cause in China in the last 45 years[J]. Acta Meteorologica Sinica,2008,66(3): 452- 460.]   \n[3]丛振涛,倪广恒,杨大文,等.“蒸发悖论\"在中国的规律分析[J]. 水科学进展,2008,19(2):147-152.[Cong Zhentao,Ni Guangheng,Yang Dangwen, et al. Does evaporation paradox exist in China?[J].Advance in Water Science,2008,19(2): 147-152.]   \n[4] Brutsaert W,Parlange MB. Hydrologic cycle explains the evaporation paradox[J]. Nature,1998,396(6706): 30.   \n[5] Chen JL,Yang H,Lyu M Q,et al.Estimation of monthly pan evaporation using support vector machine in Three Gorges Reservoir Area,China[J].Theoretical & Applied Climatology,2019,138(4): 1095-1107.   \n[6] Gao Y,Zhao C,Ashiq M W,et al.Actual evapotranspiration of subalpine meadows in the Qilian Mountains,Northwest China[J]. Journal of Arid Land,2019,11(3): 371-384.   \n[7] 柳春,王守荣,梁有叶，等.1961—2010年黄河流域蒸发皿蒸发 量变化及影响因子分析[J].气候变化研究进展,2013,9(5): 327-334.[Liu Chun,Wang Shourong,Liang Youye,et al.Analysis of pan evaporation change and the influence factors in the Yel7 low River Basin in 1961-2010[J]. Climate Change Research,2013,9 (5): 327-334.]   \n[8]Roderick M L,Hobbins M T,Farquhar G D.Pan evaporation trends and the terrestrial water balance.I.energy balance and interpretation[J]. Geography Compass,2009,3(2): 746-760.   \n[9]Roderick M L,Hobbins M T,Farquhar G D.Pan evaporation trends and the terrestrial water balance.II .energy balance and interpretation[J]. Geography Compass,2009,3(2): 761-780.   \n[10] 第三次气候变化国家评估报告编写委员会.第三次气候变化国 家评估报告[M].北京:科学出版社,2015.[Write Committee of the Third National Assessment Report of Climate Change. The Third National Assessment Report of Climate Change[M]. Beijing: Science Press, 2015.]   \n[11]Su T,Feng TC,Feng GL.Evaporation variability under climate warming in five reanalysesand its association with pan evaporation over China[J]. Journal of Geophysical Research: Atmospheres, 2015,120: 8080-8098.   \n[12] 左洪超,鲍艳,张存杰,等.蒸发皿蒸发量的物理意义、近40 a变 化趋势的分析和数值试验研究[J].地球物理学报,2006,49(3): 680-688.[Zuo Hongchao,Bao Yan, Zhang Cunjie,et al.An analytic and numerical study on the physical meaning of pan evaporation and its trend in recent 4O years[J]. Chinese Journal of Geophysics,2006,49(3): 680-688.]   \n[13] 任国玉,郭军.中国水面蒸发量的变化[J].自然资源学报,2006, 21(1): 32-42.[Ren Guoyu,Guo Jun. Changes of pan evaporation in the recent 4O years over the Yellow River Basin[J]. Journal of Natural Resource,2006,21(1): 32-4.]   \n[14] 祁添垚,张强,王月,等.1960—2005年中国蒸发皿蒸发量变化 趋势及其影响因素分析[J].地理科学,2015,35(12):1599- 1606.[Qi Tianyao, Zhang Qiang,Wang Yue,et al. Spatiotemporal paterns of pan evaporation in 1960-2005 in China: Changing properties and possible causes [J]. Acta Geographica Sinica, 2015,35 (12): 1599-1606.]   \n[15] Zhang Q, Wang WY,Wang S,et al.Increasing trend of pan evaporation over the semiarid Loess Plateau under a warming climate[J]. Journal of Applied Meteorology and Climatology，2016,5(9): 2007-2020.   \n[16] 杨司琪,张强,奚小霞,等.夏季风影响过渡区与非夏季风影响 过渡区蒸发皿蒸发趋势的对比分析[J].高原气象,2018,37(4): 1017-1024.[Yang Siqi, Zhang Qiang,Xi Xiaoxia, et al. Comparative analysis of pan evaporation trends between the summer monSoon transition region and other regions of China[J]. Plateau Meteorology,2018,37(4): 1017-1024.]   \n[17] 杨司琪,张强,奚小霞,等.中国夏季风影响过渡区与其他地区 蒸发皿蒸发量趋势相反的原因[J].大气科学,2019,43(6): 1441-1450.[Yang Siqi,Zhang Qiang,Xi Xiaoxia,etal.Thereason of trends in pan evaporation in the summer monsoon transition region contrary to those of other regions in China[J]. Chinese Journal of Atmospheric Sciences,2019,43(6): 1441-1450.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[18]中国科学院黄土高原综合科学考察队.黄土高原地区自然环境",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "及其演变[M].北京:科学出版社,1991.[Comprehensive Scientific Investigation Team of Chinese Academy of Sciences on Loess Plateau.Natural Environment and its Evolution in Loess Plateau [M]. Beijing: Science Press,1991.]   \n[19] 张耀宗.1960—2013年黄土高原地区气候变化及对全球气候 变化的响应[D].兰州：西北师范大学,2016.[Zhang Yaozong. Study on Climate Change in the Loess Plateau of China and Its Response to Global Climate Change[D]. Lanzhou: Northwest Normal University,2016.]   \n[20] 魏凤英.现代气候统计诊断与预测技术[M].北京:气象出版社, 2007.[Wei Fengying.Climatological Statistical Diagnosis and Prediction Technology[M]. Beijing: Meteorological Press,2007.]   \n[21]徐建华.计量地理学[M].第二版.北京:高等教育出版社,2014: 208-101. [Xu Jianhua. Quantitative Geography[M].2nd Ed.Beijing: Higher Education Press,2014: 208-101.]   \n[22] 郑倩倩,代鹏超,张金燕,等.基于 SEBS 模型的精河流域蒸散 发研究[J].干旱区研究,2020,37(6):1378-1387.[Zheng Qianqian,Dai Pengchao, Zhang Jinyan,et al.Evapotranspiration in the Jinghe River Basin based on the surface energy balance system[J]. Arid Zone Research,2020,37(6): 1378-1387.]   \n[23] 申露婷,张方敏,黄进,等.1961—2018 年内蒙古生长季昼夜降 水气候特征[J].干旱区研究,2020,37(6):1519-1527.[Shen Luting,Zhang Fangmin, Huang Jin,et al. Climate characteristics of day and night precipitation during the growing season in Inner Mongolia from 1961 to 2018[J]. Arid Zone Research,2020,37(6): 1519-1527.]   \n[24]马爱华,岳大鹏,赵景波,等.近60a来内蒙古极端降水的时空 变化及其影响[J].干旱区研究,2020,37(1):74-85.[Ma Aihua, Yue Dapeng,Zhao Jingbo,et al. Spatiotemporal variationand effect of extreme precipitation in Inner Mongolia in recent 6O years [J]. Arid Zone Research,2020,37(1): 74-85.]   \n[25] 焦文慧,张勃,黄涛,等.近30a河东地区极端气温时空变化[J] 干旱区研究,2019,36(6):1466-1477.[Jiao Wenhui, Zhang Bo, Huang Tao,et al. Spatiotemporal change of extreme temperature in the Hedong Region in recent 3O years[J].Arid Zone Research, 2019,36(6): 1466-1477.]   \n[26] 杨司琪.中国蒸发皿蒸发量气候倾向率的时空变化及其与气候 因素的关系[D].兰州:兰州大学,2019.[Yang Siqi.Spatiotemporal Variationof Climatic TrendRateofPan Evaporation and its Relationship with Climatic Factors in China[D]. Lanzhou: Lanzhou University,2019.]   \n[27] 刘敏,沈彦俊,曾艳,等.近50a中国蒸发皿蒸发量变化趋势及 原因[J].地理学报,2009,64(3):259-269.[Liu Min,Shen Yanjun, Zeng Yan, et al.Changing trend of pan evaporation and its cause over the past 5O years in China[J]. Acta Geographica Sinica, 2009, 64(3): 259-269.]   \n[28] Liu B,Xu M, Henderson M,et al.A spatial analysis of pan evaporation trends in China,1955-2000[J]. Journal of Geophysical Research: Atmospheres,2004,109(15): 566-589.   \n[29] 马海姣,崔晨风,李宏斌,等.黄土高原34a蒸发皿蒸发量的变 化特征分析[J].安徽农业科学,2013,41(10):4506-4509.[Ma Haijiao,Cui Chengfeng,Li Hongbin,et al.Analysis on variation characteristics of pan evaporation in recent 34 years in the Loess Plateau[J]. Journal of Anhui Agricultural Sciences,2O13,41(10): 4506-4509.]   \n[30] 郭军,任国玉.黄淮海流域蒸发量的变化及其原因分析[J].水科 学进展,2005,16(5):666-672.[Guo Jun,Ren Guoyu.Recent change of pan evaporation and possible climate factors over the Huang-Huai-Hai watershed, China[J].Advance in Water Science, 2005,16(5): 666-672.]   \n[31]Liu X M, Zheng HX, Zhang MH, et al. Identification of dominant climate factor for pan evaporation trend in the Tibetan Plateau[J]. Journal of Geographical Sciences,2016,21(4): 594-608.   \n[32] Zheng H X, Liu X M,Liu C M. Assessing contributions to pan evaporation trends in Haihe River Basin[J]. Journal of Geophysical Research,2009,114: 1-12.   \n[33] 刘滨辉.东北地区气候变化特征及对林业相关气候指标的影响 [D].哈尔滨：东北林业大学,2011.[Liu Binhui.The Change Character of Climate and It's Influence on Forest Related Climate Variables[D]. Haerbin: Northeast Foresty University,2011.]   \n[34] 范伶俐,郭品文,张福颖,等.广东蒸发皿蒸发量的季节变化特 征及其影响因素的灰色关联分析[J].地理学报,2010,33(6): 703-710.[Fan Lingli,Guo Pinwen, Zhang Fuying,et al.Changes in pan evaporation and its cause over Guangdong[J].Acta Geographica Sinica,2010,33(6): 703-710.]   \n[35] 何恩佩.近60 a来三峡地区蒸发皿蒸发量时空格局分析[D].北 京：中国科学院大学,2017.[He Enpei. Spatial Distribution and Temporal Trend of Pan Evaporationin TGRA in Recent 6O Years [D]. Beijing: University of Chinese Academy of Sciences, 2017.]   \n[36] 马雪宁,张明军,王圣杰,等.“蒸发悖论\"在黄河流域的探讨[J]. 地理学报,2012,67(5): 645-656.[Ma Xuening, Zhang Mingjun, Wang Shengjie,etal.Evaporation paradox in the Yellow River Ba sin[J]. Acta Geographica Sinica,2012,67(5): 645-656.]   \n[37] 陈伯龙,左洪超,高晓清,等.蒸发皿蒸发及能量变化过程的微 气象观测研究[J].高原气象,2017,36(1):87-97.[Chen Bolong, Zuo Hongchao,Gao Xiaoqing,et al. Study on pan evaporation and energy change process by micro-meteorological method[J]. Plateau Meteorology,2017,36(1): 87-97.]   \n[38] Zuo HC,Li DL,Hu YQ,et al. Characteristics of climatic trends and correlation between pan- evaporation and environmental factors in the last 4O years over China[J]. Chinese Science Bulletin, 2005,50(12): 1235-1241.   \n[39]Yang Q,Li M, Zu Z,et al.Has the stilling of the surface wind speed ended in China?[J]. Science China Earth Sciences,2021, 64 (7): 1036-1049. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Spatio temporal patterns of pan evaporation from 1960 to 2018 over the Loess Plateau: Changing properties and possible causess ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Yaozong1²， ZHANG Bo²， ZHANG Duoyong4，LIU Yanyan12   \n(1. College of Geographyand History,Longdong University,Qingyang 745oo0,Gansu, China； 2.Qingyang Centre   \nforthe Management and Combat of Desertification,Qingyang 745Ooo,Gansu,China;3.Collegeof Geographyand   \nEnvironmental Science,Northwest Normal University,Lanzhou 73O07o,Gansu, China;4.Research Center for Historical Geography ofOrdos Basin,North Minzu University,Yinchuan75oO21,Ningxia,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The Loess Plateau is an important ecological conservation area, which is sensitive to climate change, located in China.It is alsoan important ecological governance area. Ecological restoration projects in the Loess Plateau are related to the sustainable development of the Yelow River Basin and national ecological security. Moisture is the main factor that restricts vegetation restoration in the Loess Plateau. Therefore,the variation of water resources has a direct impact on agricultural production，ecological construction,and sustainable development of the social economy in this region.In the study area water resources are relatively scarce,and evaporation is an important hydrological factor. It is necessry to study pan evaporation variationsand their influence factors to provide information for ecological construction，agricultural production，and water management in the Loess Plateau.In this study,pan evaporation, temperature,wind speed,precipitation,relative humidity,and water presure data colected from 61 weather stations were used to analyze the characteristics of pan evaporation variation and its influence factors in the Loess Plateau from 1960 to 2018,through the MannKendalltst,cumulative anomaly,and linear trend methods.At the same time,the related driving factors were evaluated with multiple regression analysis.The results indicate that annual evaporation in the Loess Plateau showed an obvious decreasing trend at a rate of $- 6 ~ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ in the last 59 years,but it increased after the year 2000.In the study area,two turning points and three stage changes were identified: Pan evaporation decreased between 1960 and 1974,and from 1975 to 1996,while it increased from 1997 to 2018.In adition,pan evaporation showed a decreasing trend in spring，summer,and autumn,and an increasing trend in winter. Spatially, the overall and local changes in pan evaporation were notsynchronized: regions I, I, V,and VIshowed an increasing trend,while the Guanzhong Plain and Shanxi Loess Plateau showed a decreasing trend.The decrease in average wind speed,sunshine hours,and the increase in water vapor pressure were important factors for the decrease in pan evaporation.The main factors responsible for this reduction were the decrease of wind speed and sunshine hours,and the increase of water vapor. In spring and autumn,the wind speed played a major role in the variation of pan evaporation,and the main influence factors in summer were precipitation, water vapor pressure,and in winter was temperature.In light of the future global warming scenarios,the variation of evaporation has become a common concern for global climate change，particularly as the decline in pan evaporation has now been reported in many regions of the world.Evaporation is an important component of the thermal balance and waterbudget on the Earth surface,and it is directly affected by both landuseand climate change.The research on evaporation variation willhelp us understand the dynamics of climate change and clarify the characteristics of the water cycle in the Loess Plateau. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Keywords: pan evaporation; spatial-temporal variations; evaporation paradox；meteorological factors；Loess Plateau ",
+        "page_idx": 8
+    }
+]

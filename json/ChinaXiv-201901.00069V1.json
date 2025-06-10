@@ -1,0 +1,255 @@
+[
+    {
+        "type": "text",
+        "text": "“一带一路”沿线国家图书情报领域研究现状及知识图谱分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "马丽丽",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（中国科学院武汉文献情报中心，湖北 武汉 430071)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本文从科学计量学和科学知识图谱的视角，对“一带一路”沿线72个国家在图书情报领域的研究论文数量、国家和地区分布、研究机构、研究方向等方面进行了分析，研究结果将为推动我国“一带一路”战略以及与沿线国家在图书情报领域的科技合作提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：“一带一路”；图书情报；沿线国家",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2013年，习主席在出访中亚和东南亚国家期间,先后提出共建“丝绸之路经济带”和“21世纪海上丝绸之路”的倡议，得到了国际社会的广泛关注[1，截止本文研究时已得到72个国家的积极加入。“一带一路”建设不仅是经贸往来纽带和道路，加强与沿线国家间的文化和科技合作也是推动我国“一带一路”战略的重要内容。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "图书情报学作为我国科学研究体系中的中坚力量[2]，通过与“一带一路”沿线各国图书馆等机构的合作，将充分发挥文化先行战略的软实力，有利于突破不同制度和文化差异，从而推动与沿线国家的经济合作。在“一带一路”沿线国家科技合作方面，吴建南[3、王友发[4]、王继民[5]等人从不同角度已对我国和“一带一路”国家科技合作的总体态势作了相应研究。在图书情报领域，孟艳丽分析了我国与东盟国家在数字图书馆领域的研究现状，刘源泓7对中国与阿拉伯国家图书馆的交流和合作情况进行了阐述。陈汝模[2等对我国图书情报领域关于“一带一路”的文献进行了发文量、机构、作者、关键词等的研究。张皓珏[8]等研究了“一带一路”国家图书馆联盟问题，阐述了“一带一路”战略下新型图书馆联盟体系建设的关键要素和借鉴思路。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "以上文献均是对“一带一路”相关文献或图书情报领域的某个角度展开的研究，目前仍没有对“一带一路”沿线72个国家在图书情报领域的研究现状、研究热点和科技合作情况的相关研究。沿线72个国家在图书情报领域的研究现状如何？在该领域的科技合作状况怎样？这些国家的图书情报领域研究方向有哪些？本文以“一带一路”沿线72个国家的图书情报领域发表的论文为研究对象，对发文年份、国家分布、合作网络和研究主题进行了分析，以期为“一带一路”战略下我国与沿线国家在图书情报领域的合作方案提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1数据来源和方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "使用Web of Science数据库中的SSCI索引，以INFORMATION SCIENCE&LIBRARYSCIENCE学科类别中收录的89个期刊的论文为数据来源。来源国家选择72个“一带一路”沿线国家，时间跨度为1900-2017，数据采集时间为2018年4月17日。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "采用美国汤森路透公司开发的文献计量工具ThomsonData Analyzer进行论文数据清洗和文献计量。科学知识图谱是建立在科学计量学理论基础之上，结合统计分析、社会网络分析和可视化技术发展而来的一种利用信息技术进行数据分析的方法。本文采用科学知识图谱分析工具Ucinet/NetDraw进行国家间合作分析和网络可视化，利用VOSViewer软件进行论文关键词聚类分析和共词图谱可视化。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1论文发表年份分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文共获到1904-2017年间“一带一路”沿线国家的图书情报学论文9,078篇，论文的年度分布情况如图1所示。“一带一路”沿线国家的图书情报学论文最早起始于1904年。1904-1977年间，相关论文数量增长缓慢，均在10篇以下。1978年-2000年之间，“一带一路”沿线国家的图书情报学论文数量呈缓慢增长趋势，平均论文量为58篇/年。2000年之后，相关论文量增长迅速，呈指数增长，平均增长速率为 $1 0 . 7 \\%$ 。2013-2017近5年间共发表相关论文3,822篇，总论文总量的 $4 2 . 1 \\%$ ，这表明近年来“一带一路”沿线国家的图书情报学研究领域呈发展趋势。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/bf190f67bc7f35bfcfb4f6e7eff757eb71dc88bd3d5cb537d80e9ad47e56223e.jpg",
+        "img_caption": [
+            "图11904-2017年间“一带一路”沿线国家的图书情报领域SCI论文的年度分布情况"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2研究国家分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "截止到本文研究时，加入我国“一带一路”倡议的72个沿线国家中有66个在图书情报领域发表过相关SCI论文，而基于本文研究数据没有发表图书情报领域相关SCI论文的“一带一路”沿线国家有乌兹别克斯坦、老挝、塔吉克斯坦、东帝汶、马达加斯加、土库曼斯坦（表1)。从表1中可知“一带一路”沿线国家中，图书情报学相关研究论文发表最多的国家依次有韩国、印度、新加坡、南非、以色列等，前10位国家的论文总量为6,358篇，占“一带一路”沿线72个国家图书情报领域论文总量的 $70 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从图2中可知图书情报学研究开始较早的主要有新西兰、奥地利、俄罗斯、格鲁吉亚、南非等国，但大多数沿线国家的图书情报研究主要开始于上世纪七十年代后。结合表1和图2，可知韩国、印度、新加坡、南非、马来西亚等在近5年的论文数量较多，巴基斯坦、捷克、罗马尼亚、塞尔维亚、沙特阿拉伯等近5年的论文量比例较高，这些国家是“一带一路”环境下我国在图书情报领域合作的重点关注对象。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从相关国家的区域分布情况看，图书情报领域的“一带一路”沿线国家分布五个洲，包括亚洲国家37个，欧洲国家23个，非洲国家4个，北美洲国家1个，大洋洲国家1个（表2)。其中来自东南亚地区的“一带一路”沿线国家图书情报领域论文量最多，其次是西亚、中东欧等地区。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b3049d4cd849ce79bb95615c08ef584a5c5f3dc03d7ab68ffc088c4f2589ba0e.jpg",
+        "table_caption": [
+            "表1“一带一路”沿线各国图书情报领域SCI论文总量和近5年发表论文量"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>国家</td><td>论文数量 （篇）</td><td>近5年及比例</td><td>国家</td><td>论文数量 （篇）</td><td>近5年及比例</td><td></td></tr><tr><td>韩国</td><td>1460</td><td>745, 51. 0%</td><td>印度尼西亚</td><td>27</td><td>18,</td><td>66. 7%</td></tr><tr><td>印度</td><td>851</td><td>333, 39. 1%</td><td>斯里兰卡</td><td>25</td><td>9,</td><td>36.0%</td></tr><tr><td>新加坡</td><td>846</td><td>316, 37. 4%</td><td>保加利亚</td><td>20</td><td>9,</td><td>45.0%</td></tr><tr><td>南非</td><td>680</td><td>308, 45. 3%</td><td>菲律宾</td><td>20</td><td>10,</td><td>50.0%</td></tr><tr><td>以色列</td><td>602</td><td>215, 35. 7%</td><td>埃塞俄比亚</td><td>19</td><td>6,</td><td>31. 6%</td></tr><tr><td>新西兰</td><td>475</td><td>136, 28. 6%</td><td>哈萨克斯坦</td><td>14</td><td>13,</td><td>92.9%</td></tr><tr><td>伊朗</td><td>469</td><td>218, 46. 5%</td><td>乌克兰</td><td>14</td><td>10,</td><td>71. 4%</td></tr><tr><td>马来西亚</td><td>440</td><td>277, 63.0%</td><td>摩洛哥</td><td>14</td><td>8,</td><td>57. 1%</td></tr><tr><td>匈牙利</td><td>356</td><td>121, 34. 0%</td><td>波黑</td><td>8</td><td>4,</td><td>50. 0%</td></tr><tr><td>土耳其</td><td>335</td><td>156, 46. 6%</td><td>巴林</td><td>8</td><td>3,</td><td>37.5%</td></tr><tr><td>奥地利</td><td>326</td><td>142, 43. 6%</td><td>尼泊尔</td><td>8</td><td>2,</td><td>25. 0%</td></tr><tr><td>波兰</td><td>231</td><td>113, 48.9%</td><td>拉脱维亚</td><td>7</td><td>3,</td><td>42.9%</td></tr><tr><td>斯洛文尼亚</td><td>215</td><td>89, 41. 4%</td><td>文莱</td><td>5</td><td>2,</td><td>40.0%</td></tr><tr><td>巴基斯坦</td><td>181</td><td>127, 70. 2%</td><td>蒙古</td><td>4</td><td>2,</td><td>50.0%</td></tr><tr><td>俄罗斯</td><td>157</td><td>52, 33. 1%</td><td>马其顿</td><td>4</td><td>4,</td><td>100%</td></tr><tr><td>沙特阿拉伯</td><td>144</td><td>85, 59. 0%</td><td>伊拉克</td><td>4</td><td>1,</td><td>25. 0%</td></tr><tr><td>泰国</td><td>117</td><td>57, 48. 7%</td><td>阿塞拜疆</td><td>4</td><td>2,</td><td>50.0%</td></tr><tr><td>克罗地亚</td><td>101</td><td>49, 48.5%</td><td>黑山</td><td>3</td><td>0</td><td></td></tr><tr><td>阿联酉</td><td>101</td><td>41, 40. 6%</td><td>格鲁吉亚</td><td>3</td><td>1,</td><td>33.3%</td></tr><tr><td>捷克</td><td>100</td><td>66, 66. 0%</td><td>叙利亚</td><td>3</td><td>0</td><td></td></tr><tr><td>科威特</td><td>93</td><td>44, 47.3%</td><td>不丹</td><td>3</td><td>1,</td><td>33.3%</td></tr><tr><td>塞尔维亚</td><td>87</td><td>53, 60. 9%</td><td>巴拿马</td><td>3</td><td>2,</td><td>66. 7%</td></tr><tr><td>埃及</td><td>78</td><td>32, 41. 0%</td><td>亚美尼亚</td><td>2</td><td>1,</td><td>50.0%</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/d2fdf3623f3f7b5b79726e6f5420c7f049370e50de178da3ace83bbad092f21e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>约旦</td><td>66</td><td>33, 50.0%</td><td></td><td>阿尔巴尼亚</td><td>2</td><td>1, 50.0%</td></tr><tr><td>罗马尼亚</td><td>52</td><td>33,</td><td>63.5%</td><td>也门</td><td>2</td><td>1, 50.0%</td></tr><tr><td>孟加拉国</td><td>52</td><td>20,</td><td>38.5%</td><td>阿富汗</td><td>2</td><td>1, 50.0%</td></tr><tr><td>斯洛伐克</td><td>47</td><td>16,</td><td>34. 0%</td><td>缅甸</td><td>2 1,</td><td>50.0%</td></tr><tr><td>卡塔尔</td><td>43</td><td>34,</td><td>79. 1%</td><td>柬埔寨</td><td>2</td><td>1, 50.0%</td></tr><tr><td>爱沙尼亚</td><td>34</td><td>22,</td><td>64. 7%</td><td>吉尔吉斯斯坦</td><td>1</td><td>0</td></tr><tr><td>黎巴嫩</td><td>33</td><td>13,</td><td>39. 4%</td><td>摩尔多瓦</td><td>1</td><td>1, 100%</td></tr><tr><td>越南</td><td>32</td><td>15,</td><td>46.9%</td><td>白俄罗斯</td><td>1</td><td>1, 100%</td></tr><tr><td>阿曼</td><td>29</td><td>17,</td><td>58.6%</td><td>巴勒斯坦</td><td>1</td><td>1, 100%</td></tr><tr><td>立陶宛</td><td>27</td><td>14,</td><td>51. 9%</td><td>马尔代夫</td><td>1</td><td>0</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b93a8e0f17cb2acec61e4d3d5131408c41ea89266c93a4255e2aeb3e3297dd2f.jpg",
+        "img_caption": [
+            "图2“一带一路”沿线66个国家图书情报领域SCI论文发表年份分布图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f5cce33703aea1c986794c654d5fd557035e5aa11aa93303bbc125c512cb4f44.jpg",
+        "table_caption": [
+            "表2“一带一路”沿线各国的区域分布及论文数量"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>地区</td><td>论文量 （篇）</td><td>包括国家</td></tr><tr><td>东南亚</td><td>2886</td><td>菲律宾;韩国;柬埔寨;马来西亚;缅甸;泰国;文莱;新加坡;印度尼西 亚；越南</td></tr><tr><td>南亚</td><td>1114</td><td>阿富汗;巴基斯坦;不丹;马尔代夫;孟加拉国;尼泊尔;斯里兰卡;印度</td></tr><tr><td>西亚</td><td>1907</td><td>阿联酋;阿曼;阿塞拜疆;巴勒斯坦;巴林;卡塔尔;科威特;黎巴嫩;沙特 阿拉伯;土耳其;叙利亚;也门;伊拉克;伊朗;以色列;约旦</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/642004cb67a8552796938cc8c733b1832b3a42ddfe899e7748bcf763d6c9e734.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>中东欧</td><td>1733</td><td>阿尔巴尼亚;爱沙尼亚;奥地利;白俄罗斯;保加利亚;波黑;波兰;俄罗 斯;格鲁吉亚;黑山;捷克;克罗地亚;拉脱维亚;立陶宛;罗马尼亚;马其 顿;摩尔多瓦;塞尔维亚;斯洛伐克;斯洛文尼亚;乌克兰;匈牙利;亚美 尼亚</td></tr><tr><td>中亚及蒙古</td><td>18</td><td>哈萨克斯坦;吉尔吉斯斯坦;蒙古</td></tr><tr><td>非洲</td><td>788</td><td>埃及;埃塞俄比亚;摩洛哥;南非</td></tr><tr><td>北美</td><td>3</td><td>巴拿马</td></tr><tr><td>大洋洲</td><td>475</td><td>新西兰</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3国家间合作现状",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图3中可以看出，韩国、印度、新西兰、马来西亚、南非、奥地利等国在合作网络中具有一定的中心性，他们与沿线其他国家的合作都较为突出，同时韩国与新加坡、新加坡与新西兰、沙特阿拉伯与巴基斯坦之间的合作较紧密。“一带一路”沿线国家很多是发展中国家和经济科技较落后地区，因此美国等发达国家的科技资源优势是这些国家选择合作伙伴时关注的要素之一。我们屏蔽了论文中“一带一路”沿线国家相互间的合作关系，图4显示了“一带一路”沿线国家与其他非沿线重要国家间的合作网络。可见美国、英国、中国、澳大利亚、加拿大、德国、法国等国在“一带一路”沿线国家图书情报领域中也发挥着重要作用。我国在图书情报研究领域，合作较多的沿线国家依次是新加坡、韩国、马来西亚、匈牙利、巴基斯坦、印度等。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a83ee080a41596500854e980471b9dd0ee643929db314ba9ba16bdfb41ac87fd.jpg",
+        "img_caption": [
+            "图3“一带一路沿线66个国家在图书情报领域的科技合作网络"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "伊拉克 阿尔巴尼亚缅甸阿塞尹叙利亚 ■不丹 ■拉脱维亚 立陶宛斯洛伐克 马其顿文莱 ■巴勒斯坦 ■摩尔多瓦 哈萨克斯坦威特 埃塞俄比亚 ■奥地利巴林。 ■阿曼 捷克 号 蒙古 瑞典 丹麦 尼日利亚 ■孟加拉国■乌克兰 摩洛哥 英国 西班牙 比利时 土耳其 ■约旦  \n亚美尼亚 ■黎巴嫩 ■沙特阿拉伯 加拿大 芬 匈牙利 ■俄罗斯  \n阿富汗 塞尔维亚 法国 荷兰 意大利 新西 二■斯里兰卡 越南 福 美国 德国 南非 罗马尼亚■伊朗巴拿马 ■保加利亚 卡塔尔 T 澳大利亚 波兰 韩国 马来西亚 印度 X 波黑新加坡 巴基斯坦 黑山\\*马尔代夫 爱 泰国 以色列中国 日本\"吉尔吉斯斯坦 克罗地亚 瑞士\"白俄罗斯 阿联酉 印度尼西亚斯洛文尼亚 挪威“柬埔寨 巴西格鲁吉亚 菲律宾尼泊尔",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4重要研究机构",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表3中可知，“一带一路”沿线国家中图书情报领域的前10个重要机构是新加坡南洋理工大学、新加坡国立大学、马来西亚马来亚大学、以色列巴伊兰大学、韩国延世大学、南非比勒陀利亚大学、斯洛文尼亚卢布尔雅那大学、新西兰惠灵顿维多利亚大学、匈牙利科学院、韩国首尔大学。另外，我国在图书情报领域与“一带一路”沿线国家有合作关系的前10个机构是香港城市大学、香港理工大学、南京大学、复旦大学、北京大学、华中科技大学、武汉大学、香港大学、北京航空航天大学、大连理工大学。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/8e3b50b942d43d33fe689b667a8dfe212a18516814cd4c07186a033ef31adfe6.jpg",
+        "table_caption": [
+            "表3“一带一路”沿线国家中图书情报领域的前10个研究机构以及与之有合作关系的中国前10个研究机构"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">“一带一路”沿线国家机构</td><td colspan=\"3\">中国研究机构</td></tr><tr><td>排名</td><td>机构</td><td>论文量 （篇）</td><td>排名</td><td>机构</td><td>论文量 （篇）</td></tr><tr><td>1</td><td>新加坡南洋理工大学</td><td>395</td><td>1</td><td>香港城市大学</td><td>41</td></tr><tr><td>2</td><td>新加坡国立大学</td><td>347</td><td>2</td><td>香港理工大学</td><td>19</td></tr><tr><td>3</td><td>马来西亚马来亚大学</td><td>225</td><td>3</td><td>南京大学</td><td>17</td></tr><tr><td>4</td><td>以色列巴伊兰大学</td><td>211</td><td>4</td><td>复旦大学</td><td>16</td></tr><tr><td>5</td><td>韩国延世大学</td><td>200</td><td>5</td><td>北京大学</td><td>13</td></tr><tr><td>6</td><td>南非比勒陀利亚大学</td><td>169</td><td>6</td><td>华中科技大学</td><td>12</td></tr><tr><td>7</td><td>斯洛文尼亚卢布尔雅那大学</td><td>158</td><td>7</td><td>武汉大学</td><td>11</td></tr><tr><td>8</td><td>新西兰惠灵顿维多利亚大学</td><td>145</td><td>8</td><td>香港大学</td><td>9</td></tr><tr><td>9</td><td>匈牙利科学院</td><td>137</td><td>9</td><td>北京航空航天大学</td><td>8</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5研究领域分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对“一带一路\"沿线国家图书情报领域相关论文中的关键词进行共现分析并可视化结果，如图5所示。通过整理可分别反映当前“一带一路”沿线国家在图书情报研究领域的主要研究方向：#1（绿色)：图书馆管理和用户服务，主要关键词有图书馆（libraries）、高校图书馆（academic libraries）、数字图书馆（digital libraries）、用户研究（user studies）、公共图书馆（public libraries）、图书馆员（librarians）、书目（bibliographics）、档案馆（archives）等；#2（黄色)：科学计量理论和技术，主要关键词有文献计量（bibliometrics）、引文分析（citationanalysis）、科学计量（scientometrics）、社会网络分析（social network analysis）、H指数（h-index）、研究评价（research evaluation）、指标（indicators）、专利分析（patent analysis）等。#3（红色)：知识管理和大数据技术，主要关键词有知识管理（knowledge management）、知识共享（knowledge sharing）、信息技术（information technology）、本体论（ontology）、数据挖掘（datamining）、大数据（big data）、云计算（cloud computing）、语义网（semantic web）等。#4（蓝色)：社交媒体和移动化信息服务，主要关键词有社交媒体（social media）、社交网络（socialnetworks）、Twitter、Facebook、web 2.0、Blogs、YouTube、移动应用（mobile applications）、电子书（e-books）等。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "smartcity marketing knowledge flows opendata . innovation smartphone openinnovationcollakorativefiltering structural equation modeling information research scientificcollaboration regulation developing countriespolicy qualitativeresearc citationimpact hybrid clustering information technology power knowledge managemen journalimpactfactor customization   \ninformationand cornumication -knowledge sharing collaboration Fregehenas citations trust ict bibliometrics digital divide accessibility sentimentanalysis e-commerce conon word-of-mouth attitacee standards south africa highereducation citationanalysis saudiarabia content analysis information seeking thailand malaysia singarore information retrieval polandormetrics peserch ealailn   \nfacebook twitter technology acceptance mocel impact factor visibility blogs social media digital libraries webofscience featureselection gis /public libraries information literacy social networks searchengines ccopus srilanka technologyacceptancemodel(t 加 nigeria australia websites user studies academic libraries informationbehavior kuwait information services libarymanagement youtube informationresearch libraries archivesmanagementelectronicjournals ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3结语 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "“一带一路”倡议是我国新时代全方位对外开放、推动沿线国家加强合作和共同发展的重大战略举措。本文对“一带一路”沿线国家图书情报领域的论文进行了分析，可知自上世纪70年代始，“一带一路”沿线国家在图书情报研究领域的论文量整体呈增长趋势，沿线66个国家在该领域已有相关论文，其中韩国、印度、新加坡、南非、以色列等国的论文量较多。沿线国家之间中存在广泛的合作，并且美国、英国、加拿大、德国等发达国家也在其中发挥着重要作用。我国与沿线国家也存在较多合作，且随着“一带一路”战略推进将更加促进我国与沿线国家在图书情报领域的科技合作。通过分析，“一带一路”沿线国家图书情报领域的研究主题主要有图书馆管理和用户服务、科学计量理论和技术、知识管理和大数据技术、社交媒体和移动化信息服务等。综上所述，研究结果将为推进“一带一路”战略和我国与沿线国家在图书情报领域的合作提供理论和数据参考。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]叶阳平，马文聪，张光宇．中国与“一带一路”沿线国家科技合作现状研究—一基于专利和论文的比较分析[J]．图书情报知识,2016,0(4):60-68.  \n[2]陈汝模,佘泽鑫,孟雪梅．我国图情档领域“一带一路”研究文献的可视化分析[J]．高校图书馆工作,2017,37(181):21-29.  \n[3]吴建南，杨若愚．中国与“一带一路”国家的科技合作态势研究[J]．科学学与科学技术管理,2016,37(1): 14-20.  \n[4]王友发，罗建强，周献中．近40年来中国与“一带一路”国家科技合作态势演变分析[J]．科技进步与对策,2016,33(24):1-8.  \n[5]王继民，王若佳，曾兰馨，等.1996-2015 年“一带一路”沿线国家科研合作网络的演化分析[J]．图书情报工作,2017,61(16): 76-83.  \n[6]孟艳丽．“一带一路”环境下中国与东盟国家数字图书馆主题共现可视化分析[]．图书馆工作与研究．2016(11):50-53.  \n[7] 刘源泓．“一带一路”发展战略下中国与阿拉伯国家图书馆交流和合作浅论[]．图书馆研究，2017(1): 1-4.  \n[8]张皓珏,严承希．“一带一面向“一带一路”战略的新型图书馆联盟体系ROST-U构建一知识图谱视角[J].图书馆论坛，2018.  \n作者姓名：马丽丽  \n单位：中国科学院武汉文献情报中心，学科情报中心  \n电话：13212768860  \n电子信箱：mall@mail.whlib.ac.cn  \n通讯地址：湖北省武汉市武昌区小洪山西25 号  \n邮编：430071",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

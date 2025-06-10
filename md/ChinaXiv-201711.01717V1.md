@@ -1,0 +1,180 @@
+# DMPP增强碳酸氢铵防控辣椒疫病的效果与机制
+
+曹　云」王光飞¹　郭德杰」马艳1\*\* 罗德旭² 孙玉东²　汪国莲²(1．江苏省农业科学院农业资源与环境研究所南京210014;2．淮安市农业科学院淮安 223001)
+
+摘要为增强氨杀灭土壤病原微生物、防控作物土传病害的效果，采用室内培养和盆栽试验的方法，研究了硝化抑制剂DMPP和(或)碳酸氢铵预处理潮王 $1 5 { \mathrm { ~ d ~ } }$ ，对土壤理化性质和土壤细菌、真菌、氨氧化菌、辣椒疫霉菌数量的影响以及对辣椒疫病的防效，并对辣椒疫病的发病率与土壤理化及微生物学性状进行相关性分析，为开发新的防控辣椒疫病的技术提供依据。结果表明，施加 DMPP 的土壤铵态氮含量显著高于对照，而土壤pH、硝态氮和亚硝态氮含量显著低于对照。碳酸氢铵和DMPP配合施用处理土壤 $1 5 \mathrm { ~ d ~ }$ ，土壤细菌amoA基因拷贝数和辣椒疫霉菌ITS基因拷贝数分别降低 $3 4 . 9 \% ( P { > } 0 . 0 5 )$ 和 $9 3 . 8 \% ( P { < } 0 . 0 5 )$ ；土壤16SrRNA基因拷贝数比未添加DMPP处理高出 $5 4 . 7 \% ( P { < } 0 . 0 5 )$ ;DMPP对土壤氨氧化古菌amoA基因拷贝数无显著影响。栽植辣椒28d后，DMPP和碳酸氢铵配合施用处理的辣椒疫霉菌ITS 基因拷贝数最低 $( 2 . 1 \times 1 0 ^ { 5 }$ copies $\mathbf { g } ^ { - 1 }$ )，其次为DMPP$( 1 5 . 4 \times 1 0 ^ { 5 }$ copies $\cdot \mathrm { g } ^ { - 1 }$ )；对照辣椒根际疫霉数量最高 $( 3 7 . 1 \times 1 0 ^ { 5 }$ copies $\cdot \mathrm { g } ^ { - 1 }$ )，分别比碳酸氢铵处理、DMPP处理和DMPP 和碳酸氢铵配合施用处理高0.4倍、1.4倍和16.8倍。碳酸氢铵或DMPP处理过的土壤栽植辣椒 28d后，对照辣椒疫病发病率最高 $( 9 5 . 0 0 \% )$ ，仅施用碳酸氢铵处理发病率次之 $( 8 5 . 0 0 \% )$ ，DMPP和碳酸氢铵配合施用处理的发病率最低 $( 3 2 . 2 0 \% )$ ，其防治效果达 $6 6 . 1 1 \%$ 。辣椒疫病的发生率与土壤电导率、硝态氮含量、疫霉菌数量正相关，与土壤 $\mathsf { p H }$ 、铵态氮含量、细菌及真菌数量负相关。综上，碳酸氢铵和DMPP配合施用降低潮土氨氧化细菌的数量，从而增加铵态氮而降低硝态氮含量，提高了土壤 $\mathsf { p H }$ ，进而降低土壤疫霉菌数量，因而能有效防控辣椒疫病。
+
+关键词 硝化抑制剂 3,4-二甲基吡唑磷酸 碳酸氢铵 辣椒 疫病 氨氧化菌中图分类号：S436.3 文献标识码：A 文章编号:1671-3990(2016)10-1382-09
+
+# DMPP-enhanced control efficacy of chili pepper Phytophthora blight using ammonium bicarbonate: Action effects and mechanisms
+
+CAO $\mathrm { Y u n } ^ { 1 }$ , WANG Guangfei', GUO Dejie1, MA Yan1\*\*, LUO Dexu², SUN Yudong², WANG Guolian² (1.InstituteofAgriculturalResourcesandEnvironment,JiangsuAcademyofAgriculturalSciences,Nanjing 210o14,China; 2. Huai'an Academy of Agricultural Sciences,Huai'an 223oo1, China)
+
+AbstractPhytophthora blightofchilipepper,caused byoomycetes ofPhytophthoracapsici,hasbeenreported to bea key limitingfactorofchili pepper production worldwide.Increased public interest in protecting the environment and human health has promptedresearch inagronomic strategies thatreduce theuseoffungicides.Alternativecontrol methods with highefficacy, lowcostand limitedenvironmental effectare high-priorityresearchareas for sustainableagriculture.Under thesame incubation conditions (soil moisture of $60 \%$ of field capacity,temperature of $2 5 \ \mathrm { ~ \textdegree C }$ and inoculation concentration of $P .$ capsici of $5 0 0 \ { \mathrm { C F U { \cdot g } ^ { - 1 } } }$ ,DMPP( $1 \%$ applied pure N) and ammonium bicarbonate (AB) $[ 1 0 0 \mathrm { \ m g ( N ) } { \cdot } \mathrm { k g } ^ { - 1 } ]$ were added tofluvo-aquic soil and incubated for $1 5 \mathrm { ~ d ~ }$ .Soil without any addition of DMPP and/or AB was set as the control.After incubation, DMPP or
+
+AB-treated soil was used to grow chili pepper in a pot experiment for $2 8 \mathrm { ~ d ~ }$ . The effect of DMPP and AB application on disease incidence ofPhytophthora blight ofchili pepper was thencompared.The soil physio-chemicaland microbialresponses (soil pH,electric conductivity,concentrations of different forms of nitrogen； numbers of total bacteria,fungi, $P .$ capsici and ammonia-oxidizing bacteria)tothe additionofDMPPand AB were determined.The relationship between Phytophthora blight diseaseicideneandsoil phyiso-chemicaland microbialcharacteristicswas evaluated.The aimofthe studywas toinvestigate thecontrol effectsof DMPP-enhancedammonium biocarbonateonPhytophthora blightofchili pepperand correlation with soil physio-chemicalproperties,andprovided technologicalsupportforcontrolof Phytophthora blightofchili pepperofgreenouse. The results suggested that compared with the control,the contents of soil ammonium nitrogen in DMPP and $\mathrm { D M P P + A B }$ treatments were higher,and thecontents of nitrateand nitrite nitrogen significantly lower.Theapplication of DMPP for $1 5 { \mathrm { ~ d ~ } }$ decreased copied gene numbers of bacterial amoA and $P .$ capsici ITS genes by $34 . 9 \%$ $( P > 0 . 0 5 )$ and $9 3 . 8 \%$ $( P < 0 . 0 5 )$ ， respectively. The copied 16S rRNA gene number increased by $54 . 7 \%$ $( P < 0 . 0 5 )$ ） compared with non-DMPP treatments. However,the copied numbers of fungal 18SrRNA gene and archaeal amoA gene were not significantly affcted by DMPP. After incubation for $1 5 { \mathrm { ~ d ~ } }$ ,soil from each treatment was put into pots and ten chili pepper plants grown in each pot for $2 8 \mathrm { ~ d ~ }$ . The $P .$ capsici density was lowest in AB+DMPP $( 2 . 1 \times 1 0 ^ { 5 }$ copies $\mathbf { g } ^ { - 1 }$ ）treatment,followed by DMPP( $1 5 . 4 \times 1 0 ^ { 5 }$ copies $\cdot \mathrm { g } ^ { - 1 }$ ).The control experiment had the highest number of pathogen $( 3 7 . 1 { \times } 1 0 ^ { 5 } \mathrm { c o p i e s { \cdot } g ^ { - 1 } } )$ ,which was O.4-fold,1.4-fold and 16.8-fold higher than thoseofAB,DMPPandAB+DMPP,respectively.Theresultsfrom thepot experiment showed thatthecontroltreatmenthad the highest disease incidence $( 9 5 . 0 0 \% )$ ,followedbyAB treatment $( 8 5 . 0 0 \% )$ ）and AB+DMPP treatment had the lowest disease incidence $( 3 2 . 2 0 \% )$ ).The efficacyofPhytophthora blight disease control by A $\scriptstyle \mathbf { \backslash B + D M P P }$ treatment was $6 6 . 1 1 \%$ .Disease incidence was positively correlated with soil electrical conductivity, nitrate content and $P .$ capsici population,but negatively correlated with soil $\mathfrak { p H }$ ,ammonium content and bacterial and fungal populations.The above results suggested thatthecontrol ofchili pepper Phytophthora blight bythecombined application of DMPPand ammonium bicarbonate decreased the number of ammoniaoxidizig bacteria,which, in turn,increased ammonium content, but also decreased soil nitrate content.Thus $P .$ capsici population reduced under high concentration of ammonium,which effectively controlled chili pepper Phytophthora blight.
+
+KeywordsNitrification inhibitor；3,4-dimethyl pyrazole phosphate (DMPP)；Ammonium bicarbonate；Chili pepper; Phytophthora blight; Ammonia-oxidizing bacteria
+
+辣椒疫病是由辣椒疫霉(Phytophthora capsici)引起的毁灭性土传病害，在世界范围內普遍发生。辣椒疫病在中国辣椒主产区发病面积占栽培面积的$20 \% { \sim } 3 0 \%$ ，死苗率达 $1 5 . 1 \%$ ，发生严重的可减产七成，甚至绝收[1]。目前，该病主要以抗病育种、化学防治、农业防治和生物防治为主[2]，但这些方法的防治效果仍然具有一定的局限性，不能有效控制该病害的蔓延。因此，预防与控制该病害的发生已经成为设施辣椒(Capsicumannuum)生产亟待解决的重大难题。
+
+氨在土壤中大量累积是高氮有机物料杀灭土壤病原微生物、防控作物土传病害的重要机制之一[3],其作用效果与土壤中铵态氮的浓度与土壤pH有关。孙莉等[4]研究认为，当培养基 pH介于 $6 . 5 { \sim } 7 . 5$ 的范围内，铵对尖孢镰刀菌(Fusarium oxysporum)的抑制效果随着pH的增加而增强。沈宗专等5利用碳酸氢铵产氨类物质特性，采用土壤熏蒸的方式有效降低了香蕉(Musa nana)园土壤中尖孢镰刀菌的数量，从而降低下茬香蕉枯萎病的发生。前期研究表明，当溶液中铵浓度增加到 $5 0 0 { \sim } 1 5 0 0 \ \mathrm { \ m g { \cdot } L ^ { - 1 } }$ 时，对辣椒疫霉菌游动孢子萌发的抑制率可达 $7 7 . 6 \% { \sim } 9 5 . 4 \% ^ { [ 6 ] }$ 。
+
+与之相反，土壤硝态氮的浓度与辣椒疫霉菌数量在一定程度上呈正比[7]。可见，在一定pH下，增加土壤中铵态氮浓度，降低硝态氮浓度可以有效抑制辣椒疫霉菌的生长，从而抑制辣椒疫病的发生。
+
+在通气良好的条件下，施入土壤中的铵态氮，除了部分发生氨挥发、生物吸收和土壤吸附等作用被消耗和滞留外，绝大部分在硝化微生物的作用下转化为硝态氮。研究证明，新型硝化抑制剂3,5-二甲基吡唑(DMPP)具有比目前国内外研究应用较为广泛的硝化抑制剂双氰胺(DCD)更为显著的硝化抑制效果[8-9]。DMPP 能有效抑制土壤的硝化作用，延长$\mathrm { N H } _ { 4 } ^ { + }$ -N 在土壤中的保留时间，降低土壤淋出物中$\mathrm { N O } _ { 3 } ^ { - }$ 的浓度，而土壤 ${ \bf N O } _ { 3 } ^ { - }$ 含量与辣椒疫病的发生率呈正相关。将碳酸氢铵和DMPP配合施用，对土壤中辣椒疫霉菌的杀灭效果如何，以及土壤中除辣椒疫霉菌外的其他微生物对DMPP的响应如何目前尚不十分清楚。本研究通过在潮土中添加碳酸氢铵和(或)DMPP进行15d的室内培养试验，并用培养后的土壤进行盆栽防效试验，评价不同处理对辣椒疫病的防控效果及其与土壤理化性状变化的相关性，为开发防控保护地辣椒疫病新技术提供依据。
+
+# 1材料与方法
+
+# 1.1 供试材料
+
+供试辣椒品种为‘苏椒5号’。供试土样采自江苏省淮安市青浦区蔬菜种植大棚 $0 { \sim } 2 0 \ \mathrm { c m }$ 耕层土壤，为潮土。土样经风干，剔除杂质并磨细后过 $2 \mathrm { m m }$ 筛备用。供试土壤的基本理化性质为： $\mathsf { p H } 8 . 5 4$ 、有机质$1 9 . 9 0 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，全氮 $0 . 9 4 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，硝态氮 $1 3 3 . 1 2 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ ，铵态氮 $5 . 0 6 ~ \mathrm { m g \cdot k g ^ { - 1 } }$ ，速效磷 $1 4 4 . 8 3 ~ \mathrm { \ m g ^ { . } k g ^ { - 1 } }$ ，速效钾 $1 4 1 . 1 2 ~ \mathrm { m g ^ { - } k g ^ { - 1 } }$ （204号
+
+供试碳酸氢铵和硝化抑制剂3，4-二甲基吡唑磷酸(DMPP)均为分析纯试剂。供试菌株辣椒疫霉菌(PhytophthoracapsiciL.)由江苏省农业科学院农业资源与环境研究所提供。
+
+# 1.2 试验设计
+
+在风干过筛后的土壤中接种辣椒疫霉游动孢子液，使土壤中辣椒疫霉菌接种浓度为 500 CFU $\cdot \mathbf { g } ^ { - 1 }$ 。设4个处理：1)土壤中不添加碳酸氢铵，也不添加DMPP，对照(CK)；2)±壤中加入 DMPP(DMPP);3)土壤中加入碳酸氢铵(AB)；4)土壤中加入碳酸氢铵和DMPP(AB $^ { + }$ DMPP)。DMPP和碳酸氢铵溶于水后均匀喷洒在土壤上，碳酸氢铵的加入量为$1 0 0 ~ \mathrm { { m g ( N ) } { \cdot } k g ^ { - 1 } ( \pm ) }$ ，DMPP的加入量为施入总氮量的$1 \%$ 。分别称取 $1 4 ~ \mathrm { k g }$ 充分混匀的土壤装于塑料桶（底径 $\times$ 口径 $\ : \times \ :$ 高 $\dot { \vert = 2 5 } ~ \mathrm { c m } { \times } 3 4 ~ \mathrm { c m } { \times } 3 0 ~ \mathrm { c m } )$ 中，调节土壤含水量为田间最大持水量(WHC)的 $60 \%$ ，风干土含水量按 $3 \%$ 计。每个处理2个重复(桶)。将土样放于$2 5 \mathrm { ~ \textdegree ~ }$ 培养箱中培养 $1 5 \mathrm { ~ d ~ }$ ，封口，扎孔保证通气。培养期间，每隔2d 通过称量法补足培养过程中损失的水分。培养结束后将桶中土壤倒出并充分混合均匀后，分装在10个盆钵中。每个盆钵种植6叶期辣椒苗1株，移栽28d(即共培养43d)后统计辣椒发病率和病情指数。培养0d、2d、4d、8d、15d后从桶中随机采取3 个土样，移栽后 28 d(培养的 43 d)采集辣椒根际土壤，测定土壤pH、电导率、含水量、硝态氮、亚硝态氮和铵态氮的含量，培养的15d和43d的土样同时测定细菌、真菌和辣椒疫霉菌、氨氧化细菌(AOB)、氨氧化古菌(AOA)的数量。
+
+# 1.3 病情调查方法
+
+辣椒幼苗移栽后，每天观察辣椒生长情况。移苗9d后发现病原菌对照处理开始萎蔫发病，之后每天调查记录各处理辣椒疫病发病情况，至试验结束时，计算发病率和病情指数。辣椒疫病病情分级标准参照易图永等[10]的方法，稍作调整，如下：0 级,健康；1级，茎基变黑，但植株不萎焉；2级，茎基变黑 $1 { \sim } 2 ~ \mathrm { c m }$ ,1/3以下叶片萎焉偶脱落;3级，茎基变黑$2 \mathrm { c m }$ 以上,2/3以上叶片明显萎焉;4级，植株全部枯死。
+
+# 1.4土壤总DNA的提取与荧光定量PCR分析
+
+将采集晾干的土样研碎并过筛 $( 1 ~ \mathrm { m m } )$ ，装入聚乙烯袋保存在 $- 7 0 \mathrm { ~ \textdegree C }$ 冰箱中用于 DNA 提取。土壤DNA 的提取采用 FastDNA?Spin soil kit （MPBiomedicals，Solon，OH)试剂盒，提取方法参照试剂盒说明书。
+
+土壤中细菌16SrDNA上游引物EUB338f（ $5 ^ { \prime }$ 1GCTGCCTCCCGTAGGAGT-3')、下游引物 $9 0 7 \mathrm { r }$ 0 $[ 5 ^ { \prime }$ 1CCGTCAATTCMTTTRAGTT-3'；真菌18SrDNA上游引物EUK309f（A ${ \boldsymbol { 5 } } ^ { \prime }$ -CCGGAGAGGGAGCCTG-$3 ^ { \prime }$ ）、下游引物EUK516r（ $5 ^ { \prime }$ -ACCAGACTTGCCCTCC-3')土壤中氨氧化细菌amoA基因上游引物amoA1F( $5 ^ { \prime }$ 1GGGGTTTCTACTGGTGGT-3'、下游引物amoA2R中 $5 ^ { \prime }$ -CCCCTCKGSAAAGCCTTCTTC- $\cdot 3 ^ { \prime }$ )；氨氧化古菌amoA基因上游引物为amoAF( $5 ^ { \prime }$ -STAATGGTCTGGCTTAGACG-3')、下游引物Arch-amoAR(GCGGCCATCCATCTGTATGT)[1]；辣椒疫霉菌ITS上游引物CAPFW $5 ^ { \prime }$ -TTTAGTTGGGGGTCTTGTACC-3'、下游引物CAPRV1( $5 ^ { \prime }$ -CCTCCACAACCAGCAACA-3')[12]。荧光定量PCR扩增体系为：1XSYBR $\textsuperscript { \textregistered }$ Premix ExTaqTM(2X)(Takara宝生物工程有限公司)混合液 $1 0 \mu \mathrm { L }$ 上、下游引物各 $0 . 5 ~ \mu \mathrm { L }$ ,DNA模板 $2 ~ \mu \mathrm { L }$ $\mathrm { \ d d H _ { 2 } O \ 7 \mu L _ { \circ } }$ （204号反应程序： $9 5 \mathrm { ~ \textdegree ~ }$ 预变性 $2 ~ \mathrm { m i n }$ ， $9 4 \mathrm { ~ \textdegree ~ }$ 变性30 s, $6 0 ~ \mathrm { { ^ { \circ } C } }$ 退火延伸34s，40个循环。每个样品设3个重复，以无菌水代替自标基因DNA为空白对照，定量PCR分析在ABI7500 Real-time PCR system 扩增仪上进行。
+
+# 1.5土壤常规理化性状的分析
+
+土壤的铵态氮、亚硝态氮和硝态氮的质量浓度，采用 $2 \ \mathrm { m o l { \cdot } L ^ { - 1 } K C l }$ 溶液浸提-流动分析仪法。用pH计测定土壤pH(水：士 $. = 2 . 5 : 1$ 浸提)，用电导率仪测定土壤电导率(水：土 $. = 2 . 5 : 1$ 浸提)[13]。
+
+# 1.6 数据分析
+
+# 病情指数计算公式为：
+
+∑各级病株数 $\times$ 各级代表值病情指数 $\circeq$ 1 $\times 1 0 0 \%$ 调查总株数 $\times$ 最高级代表值对照发病率-处理发病率 $\times 1 0 0 \%$ 防治效果=对照发病率
+
+采用SPSS16.0 软件进行单因素方差分析，用SigmaPlot10.0软件作图。
+
+# 2 结果与分析
+
+2.1不同处理对辣椒疫病的防治以及对辣椒疫霉菌的抑制效果从图1可以看出，发病率最高的处理为CK$( 9 5 . 0 0 \% )$ ，其次为碳酸氢铵(AB)处理 $( 8 5 . 0 0 \% )$ 和DMPP处理 $( 6 0 . 0 0 \% )$ · $\mathbf { A B } { + } \mathbf { D M P P }$ 处理的发病率最低$( 3 2 . 2 0 \% )$ ，防治效果 $6 6 . 1 1 \%$ 。各处理病情指数的变化趋势与发病率一致，CK处理平均病情指数最高，其次为AB，而AB+DMPP 处理病情指数最低(图1)。
+
+![](images/3c8ed74fc75b894afc919cf85555a08d79137ab96041c017d235b48108e61c92.jpg)  
+图1不同处理对辣椒疫病的发病率和病情指数的影响 Fig.1Effect of different treatments on chili pepper Phytophthora blight disease incidence and disease index
+
+CK表示不施肥也不施用DMPP的对照，DMPP表示仅施用 DMPP(施入总氮量的 $1 \%$ )，AB表示仅施用碳酸氢铵[加入量为 $1 0 0 \ \mathrm { \ m g ( N ) { \cdot k g } ^ { - 1 } ( \pm ) } ]$ ， $\mathbf { A B } { + } \mathbf { D M P P }$ 表示碳酸氢铵和DMPP同时施 入。不同小写、大写字母分别表示发病率、病情指数处理间差异 显著 $( P { < } 0 . 0 5 \ )$ )，下同。CK is the control without DMPP and nitrogen; AB is treatment of ammonium bicarbonate,application rate is $1 0 0 \ \mathrm { m g ( N ) { \cdot } k g ^ { - 1 } ( s o i l ) }$ ; DMPP is treatment of DMPP,application rate is $1 \%$ of applied pure N; $\mathbf { A B } { + } \mathbf { D M P P }$ is treatment of combined application of ammonium bicarbonate $[ 1 0 0 \mathrm { \ m g ( N ) } { \cdot } \mathbf { k g } ^ { - 1 } ( \mathrm { s o i l ) } ]$ and DMPP( $1 \%$ ofapplied pure N).Different lowercases and uppercases indicate significant difference in disease incidence and disease index among treatments at O.O5 level,respectively.The same below.
+
+荧光定量PCR对4个处理中辣椒疫霉定量结果(图2)表明，两个采样时期所有处理均能检测到荧光信号，土壤培养 15 d(15 DAT)各疫霉的数量介于$1 . 5 { \times } 1 0 ^ { 5 } – 2 4 . 3 { \times } 1 0 ^ { 5 }$ copies $\mathbf { g } ^ { - 1 } ( \pm )$ ,CK处理疫霉菌数量最多，其次为AB 处理， $\mathbf { A B + D M P P }$ 处理疫霉菌数量最少。辣椒移栽后28d(即土壤处理 $4 3 \mathrm { ~ d ~ }$ 后,43 DAT)各处理疫霉菌数量均有不同程度的上升，AB处理疫霉菌数量增加1.1倍，但各处理疫霉菌趋势与 15DAT相似；4个处理的病原菌数量与疫病发病率呈现较好的对应关系：发病率最低的AB+DMPP处理，其疫霉数量最少 $( 2 . 1 \times 1 0 ^ { 5 }$ copies $\cdot \mathbf { g } ^ { - 1 }$ )，显著低于其他各处理，其次为DMPP( $\phantom { + } 1 5 . 4 \times 1 0 ^ { 5 }$ copies $\cdot \mathrm { g } ^ { - 1 }$ )，发病率最高的CK处理，辣椒根际疫霉数量最高 $( 3 7 . 1 \times 1 0 ^ { 5 }$ copies $\cdot \mathbf { g } ^ { - 1 }$ )，分别比AB、DMPP和 $\mathbf { A B } { + } \mathbf { D M P P }$ 处理高0.4倍、1.4倍和16.8倍。
+
+2.2不同处理对土壤氨氧化细菌、氨氧化古菌和总细菌、总真菌数量的影响从图3可以看出，氨氧化细菌amoA基因拷贝数
+
+![](images/14e6de84ab5d791ab5d099d495b330515a94efe995585d469fcdc926e5c7a8d4.jpg)  
+图2不同处理对辣椒疫霉菌数量的影响 Fig.2Effect ofdifferent treatments on Phytophthora capsici population in soil
+
+不同大写字母表示土壤培养43d(43DAT)不同处理间差异 显著,不同小写字母表示土壤培养15 d(15DAT)不同处理间差异 显著 $( P { < } 0 . 0 5 )$ ，图3同。Different capital letters indicate significant difference among treatments at 43 days after treatment (43 DAT), and different lowercase letters indicate significant difference among treatments at15 daysafter treatment(15DAT)at O.05 level.The same as the figure 3.
+
+介于 $5 { \times } 1 0 ^ { 7 } { \sim } 1 6 . 1 { \times } 1 0 ^ { 8 }$ copies $\cdot \mathbf { g } ^ { - 1 }$ ，且两个采样时期相比差异不大。AB处理氨氧化细菌amoA基因拷贝数最高，其次是CK 和 $\mathbf { A B + D M P P }$ 处理。DMPP处理氨氧化细菌amoA基因拷贝数最低。DMPP显著降低了土壤氨氧化细菌amoA基因拷贝数，DMPP处理和$\mathbf { A B { + } D M P P }$ 处理氨氧化细菌amoA基因拷贝数分别比CK和AB低 $8 4 . 7 \% \small { \sim } 3 4 . 9 \% . 6 9 . 5 \% \small { \sim } 9 2 . 9 \%$ 古菌amoA基因拷贝数介于 $2 . 4 { \times } 1 0 ^ { 7 }{ \sim } 4 . 5 { \times } 1 0 ^ { 8 }$ copies $\mathbf { g } ^ { - 1 }$ 。DMPP对古菌amoA 基因拷贝数的影响没有明显规律。细菌16SrRNA 基因拷贝数介于 $1 . 0 9 \times 1 0 ^ { 1 1 } { \sim } 7 . 3 6 { \times } 1 0 ^ { 1 1 }$ copies $\cdot \mathrm { g } ^ { - 1 }$ ，除 $\mathbf { A B { + } D M P P }$ 处理外，栽植辣椒增加了土壤中 16S rRNA 基因拷贝数， $\mathbf { A B { + } D M P P }$ 处理和DMPP处理的土壤16SrRNA基因拷贝数平均值比未添加DMPP 处理的高出 $54 . 7 \text{‰}$ 真菌18SrRNA基因拷贝数介于 $1 . 2 6 { \times } 1 0 ^ { 7 } { \sim } 1 . 6 1 { \times } 1 0 ^ { 8 }$ copies $\mathbf { g } ^ { - 1 }$ 。除AB+DMPP处理外，栽植辣椒后真菌18SrRNA基因拷贝数增加了 $2 . 5 { \sim } 4 . 9$ 倍。DMPP处理土壤15d后，对真菌18SrRNA 基因拷贝数影响不显著，但栽植辣椒28d后，施加DMPP的处理真菌18SrRNA基因拷贝数比未施加的数量低 $5 5 . 6 \% { \sim } 7 2 . 3 \%$ (图3）。
+
+# 2.3 不同处理对土壤铵态氮、硝态氮、亚硝态氮含量的影响
+
+各处理的土壤铵态氮含量随硝化作用的进行逐渐降低(图 4)，但DMPP 处理的下降速率显著低于CK。在培养的第 $1 5 { \mathrm { ~ d ~ } }$ ,CK和AB的土壤铵态氮浓度下降了 $6 9 . 6 \%$ 和 $7 9 . 9 \%$ ，而DMPP处理和 $\mathbf { A B } { + } \mathbf { D M P P }$ 处理分别下降了 $4 7 . 2 \%$ 和 $3 8 . 7 \% _ { c }$ ，整个培养期间，添加DMPP处理铵态氮含量均保持较高水平。同培养时期相比，培养8d后添加DMPP处理铵态氮含量显著高于未添加DMPP处理。
+
+![](images/b8bbe91f2d8abe3cb9712bd51c0cb5ddcd79e4d32877d0a90bbb2e357c8168a4.jpg)  
+图3不同处理土壤氨氧化细菌、氨氧化古菌、细菌和真菌数量
+
+![](images/9b94ae0b5b5d355cb4ad878268d0d8f6e6128a3856dd3f4978950f5b368ad58d.jpg)  
+Fig.3Abundance of soil AOB,AOA,total bacteria and total fungi under different treatments   
+图4不同处理下土壤铵态氮、硝态氮、亚硝态氮含量变化的趋势 .4Change trends of ammonium,nitrate and nitrite contents in soil under diferent treatments
+
+所有处理土壤硝态氮量随培养时间的推移逐渐升高(图4)，但其土壤硝态氮含量在 AB 和CK中急速上升，而在DMPP和AB+DMPP处理中上升缓慢。盆栽试验结束时(培养的第 $4 3 \mathrm { ~ d } )$ ,CK、AB处理土壤中硝态氮含量达到峰值 $( 3 7 9 \ \mathrm { m g { \cdot k g } ^ { - 1 } }$ 、 $4 7 4 \ \mathrm { m g \cdot k g ^ { - 1 } } ,$ ，较初始值分别上升了 $2 7 9 \ \mathrm { \ m g { \cdot } k g ^ { - 1 } }$ 、 $3 6 4 ~ \mathrm { \ m g ^ { \cdot } k g ^ { - 1 } }$ ，DMPP、 $\mathbf { A B } { + } \mathbf { D M P P }$ 处理只分别增加了 $1 5 1 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ 、$2 2 5 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ 。整个培养期间，AB处理硝态氮含量始终最高，DMPP处理硝态氮含量始终最低。
+
+亚硝态氮是硝化过程的中间产物。试验表明，AB处理的土壤在培养的前4d出现了较高浓度的亚硝态氮(图4)，在第4d达到峰值为 $2 5 ~ \mathrm { m g ^ { \cdot } k g ^ { - 1 } }$ ，而施加DMPP的各处理均能够显著抑制土壤亚硝态氮的产生 $( P { < } 0 . 0 5 )$ ，培养7d后基本检测不到。
+
+# 2.4不同处理对土壤 $\mathsf { p H }$ 和电导率的影响
+
+由图5A可知,AB处理和DMPP处理pH在培养后第2d 上升至最高，分别为 8.78(AB)和 8.81(DMPP)，AB+DMPP 处理的 $\mathsf { p H }$ 峰值出现在第4 d(8.71)，而后各处理的 $\mathsf { p H }$ 都呈下降趋势(4\~15 d);与铵态氮的变化相似,AB处理下降幅度最大，DMPP和AB+DMPP处理 $\mathfrak { p H }$ 的下降幅度小于其他处理。整个培养过程中，DMPP和 $\mathbf { A B { + } D M P P }$ 处理土壤的$\mathfrak { p H }$ 始终保持在较高水平，但两处理间差异不显著。培养8d后,AB处理土壤pH最低。培养15d后(即棘椒移栽后)，各处理土壤 $\mathfrak { p H }$ 趋于稳定。
+
+图5B显示，随着培养时间的延长，土壤电导率呈增长趋势，其中AB处理电导率值最大。与土壤$\mathfrak { p H }$ 值相反，培养7d后，添加了DMPP的两个处理（204号 $\mathrm { ( P C + D M P P }$ 、 $\mathbf { A B } { + } \mathbf { D M P P }$ )土壤电导率始终低于未添加DMPP的处理。
+
+![](images/3823e6917edec78f557a8c70467f74684cca71d10478d62eddf572f820734e55.jpg)  
+图5不同处理的土壤 $\mathbf { p H } ( \mathbf { A } )$ 和电导率(B)变化趋势 Fig.5Change trends of pH(A) and EC (B) of soil under different treatments
+
+# 2.5土壤理化性质和微生物指标的主成分分析
+
+主成分分析结果显示(图6)，第1主成分、第2主成分分别解释了样本中 $6 8 . 2 \%$ 、 $1 5 . 7 \%$ 的变异。第1主成分将是否添加DMPP的处理区分开，添加DMPP的两个处理:DMPP和 $\mathbf { A B } { + } \mathbf { D M P P }$ 排在第1主成分的正轴，未添加DMPP的CK和AB处理排在第1主成分的负轴，说明DMPP对土壤肥力和微生物数量影响很大。第2主成分将是否添加碳酸氢铵的处理区分开，AB以及 $\mathbf { A B } { + } \mathbf { D M P P }$ 排在第2主成分的正轴,CK以及DMPP排在第2主成分的负轴。辣椒
+
+![](images/8e3cc65f172b86e9b8dfb073af016a443703762443cf240e32935711b7ea92e6.jpg)  
+图6各处理辣椒疫病发生率与土壤理化性状及微生物数量的主成分分析  
+Fig.6Principal component analysis (PCA) of the disease incidence of chili pepper hytophthora blight,populations of different microbia and soil chemical properties under different treatments at 15 days after treatment
+
+DI表示发病率,AOA、AOB分别表示氨氧化古菌、氨氧化细菌数量，F、B、PC分别表示总真菌、总细菌、辣椒疫霉菌数量， $\mathrm { N H _ { 4 } }$ ， $\mathbf { N O } _ { 2 }$ ， $\mathbf { N O } _ { 3 }$ 分别表示铵态氮、亚硝态氮、硝态氮含量。DIrepresents disease incidence;AOA and AOB represent abundancesof ammonia-oxidizing archaea and ammonia-oxidizing bacteria; FB and PC represent abundances of total fungi,total bacteria andPhytophthora capsici,respectively; $\mathrm { N H } _ { 4 }$ ， $\mathrm { N O } _ { 2 }$ and $\mathrm { N O } _ { 3 }$ representammonium,nitrite andnitrate concentrations.
+
+疫病的发生率DI与土壤pH、铵态氮浓度、氨氧化古菌、细菌和真菌数量负相关，与土壤EC、硝态氮及亚硝态氮含量、氨氧化细菌及疫霉菌数量正相关。土壤中疫霉菌的数量与铵态氮浓度呈负相关，与硝态氮及亚硝态氮浓度呈正相关。土壤肥力指标之间也有明显相关关系：如EC与铵态氮、硝态氮浓度之间， $\mathsf { p H }$ 与EC、铵态氮、硝态氮浓度之间相关性较高。
+
+# 3讨论
+
+近年来，由于不合理的耕作管理引起的土壤连作障碍问题逐渐受到人们的关注。土壤连作障碍表现为土壤养分供应比例失调(如硝态氮的累积)、土壤酸化、次生盐碱化、微生物量和微生物活性降低、有害生物(如病原菌)的增加等[14-15]。疫霉是一种普遍存在的重要土传病原菌，在世界范围内危害辣椒、番茄(Lycopersicon esculentum)、西葫芦(Cucurbitapepo)等多种作物，常给农作物生产带来毁灭性经济损失[1-2]。辣椒疫病的发病程度除受到植株健康状况、环境因子，如土壤温度、湿度、养分状况，耕作制度和栽培管理条件等影响外[16]，还取决于根际和土体土壤中的病原菌数量及遗传变异程度和土壤微生物区系[17-18]。在本试验中，施用 DMPP 后，辣椒疫病的发生率与土壤硝态氮含量、电导率、疫霉菌数量显著正相关，而与土壤pH、铵态氮含量、细菌及真菌数量显著负相关。采用碳酸氢铵结合DMPP处理土壤后15d，土壤中的铵态氮含量较高，硝态氮含量较低，疫霉菌数量显著减少，土壤中病原菌源菌基数越低，后期病害发生率就越低[19-21]。
+
+氨在土壤中大量累积是含氮有机物抑制土壤病原菌防控作物土传病害的重要机制之一[3]。Chun 和Lockwood[22]研究认为，士壤中 $P .$ cinnamomi 和 $P .$ （204号parasitica数量的下降与氨对土壤溶液中孢子囊的形成和萌发有关。病原菌与土壤溶液中的氨接触时间越长，孢子囊萌发率越低[3]。铵抑制病原微生物的机理在于：氨化作用促使土壤 $\mathsf { p H }$ 在短时间内升高,pH的升高使得土壤溶液中 $\mathrm { N H } _ { 3 }$ 的浓度迅速升高，因此能有效杀灭病原菌[3.22-23]。DMPP 对土壤硝化过程的抑制作用表现在土壤铵态氮浓度的升高和硝态氮浓度的降低，这种作用在此培养试验取样的4\~15d表现显著，这与薛妍等[24]、石美等[25]的研究结果一致。本试验中,DMPP处理土壤 $1 5 { \mathrm { ~ d ~ } }$ 对真菌数量影响不明显，但显著降低了土壤辣椒疫霉菌的数量，这与孙莉等[4的研究结果即硝化抑制剂对尖孢镰刀菌生长没有影响不一致，其原因可能是辣椒疫霉病菌属于卵菌，其细胞壁的主要成分是纤维素；而尖孢镰刀菌是真菌中进化程度较高一类，其细胞壁主要成分是几丁质，DMPP对辣椒疫霉菌的抑制效果可能与其的细胞壁成分有关，但确切的作用机理尚需进一步研究。
+
+土壤硝化作用是在硝化微生物参与下完成的生物化学反应。硝化抑制是通过选择性的对土壤硝化微生物直接快速且强烈地抑制，来实现其硝化抑制作用的。Di等[26]对新西兰高氮草地土壤的研究表明土壤中施加DMPP可显著抑制AOB的生长，改变其群落结构，但对 AOA 无显著影响。而 Zhang 等[27]得出AOA在强酸性土壤硝化作用中占据主导地位的结论。本研究结果表明，DMPP显著降低了土壤中AOB的数量，而对AOA数量影响不大，这可能与土壤中起主导作用的氨氧化微生物类群有关。细菌是土壤微生物中数量最多的一个类群，约占土壤微生物总量的 $70 \text{‰}$ 本研究中DMPP处理虽然降低了氨氧化细菌的数量，但增加了土壤细菌总量，可能是因为氨氧化菌是细菌群落中参与氮素转化生理菌群，在细菌群落中所占的比例很小，且生长增殖速度缓慢，对土壤细菌总量的贡献不大。此外，DMPP作为一种有机碳化合物，其本身及其在土壤中的降解产物可能为微生物提供了可利用的C源,从而促进了土壤微生物的增殖[28]；所以尽管本研究中DMPP处理土壤氨氧化菌数量显著降低，但土壤总细菌数量仍然比对照高。土壤真菌数量对DMPP响应不明显，这是因为与细菌相比，土壤真菌可能对低剂量DMPP 反应不敏感[28]。
+
+在整个培养期内，土壤的电导率与铵态氮含量负相关，而与硝态氮含量正相关，因为一部分铵态氮被吸附，另一部分还可进入黏土矿物的晶体中，成为固定态铵，而土壤胶体对硝态氮吸附能力较弱，因此硝态氮对土壤电导率的贡献较大[29]。各处理土壤 $\mathsf { p H }$ 和铵态氮的变化趋势相同，表现为先上升后下降，这主要与土壤中的氮素转化有关：碳酸氢铵施入土壤后，在适宜水分条件下会迅速水解转化使土壤 $\mathsf { p H }$ 上升，随后发生的硝化作用铵态氮氧化为硝态氮，此过程释放 $\boldsymbol { \mathrm { H } } ^ { + }$ 导致土壤 $\mathsf { p H }$ 下降。本研究中硝化抑制剂处理土壤 $\mathsf { p H }$ 显著高于不施用DMPP处理。这是由于硝化抑制剂施用后，土壤中较长时间保持较高的 $\mathrm { N H } _ { 4 } ^ { + } { - } \mathrm { N }$ 含量和较低的 $N O _ { 3 } ^ { - } { - } N$ 含量，造成土壤 $\mathsf { p H }$ 的升高[29]，这更加有利于土壤溶液中游离氨浓度的提高，增强杀菌效果。
+
+# 4结论
+
+在DMPP作用下，土壤氨氧化细菌(AOB)数量受到抑制，使得铵态氮浓度在较长时间内保持较高水平，而硝态氮含量显著下降，同时土壤pH上升，导致土壤中疫霉菌数量下降，辣椒疫病发生率显著下降。但由于铵对土壤病原微生物的杀灭作用受到土壤性质(质地、pH等)的影响，因此利用该方法防控土传病害的土壤适宜性，以及针对不同病害特征的处理方式还有待进一步的研究。
+
+# 参考文献References
+
+[1]易图永，谢丙炎，张宝玺，等．辣椒疫病防治研究进展[J] 中国蔬菜,2002(5):52-55 Yi TY,Xie B Y,Zhang B X,et al.Progress of studies on controlling Phytophthora capsici of pepper crop[J]. China Vegetables,2002(5):52-55   
+[2]王得元，常彩涛，王鸣，等．辣椒抗疫病的遗传与育种[J]. 中国蔬菜,1995(3):50-53 Wang D Y, Chang C T, Wang M, et al. Genetics and breeding of peper tolerant to Phytophthora capsici[J].China Vegetables, 1995(3):50-53   
+[3]Tenuta M,Lazarovits G.Ammonia and nitrous acid from nitrogenous amendments kill the microsclerotia of Verticillium dahliae[J].Phytopathology,2002,92(3): 255-264   
+[4]孙莉，宋松，邓旭辉，等．碳酸氢铵抑制尖孢镰刀菌生长机 制研究[J]．南京农业大学学报,2015,38(2):295-303 Sun L,Song S,Deng X H,et al. Inhibition mechanism of ammonium bicarbonate on Fusarium oxysporum[J].Journal of Nanjing Agricultural University,2015,38(2):295-303   
+[5]沈宗专，钟书堂，赵建树，等．氨水熏蒸对高发枯萎病蕉园 土壤微生物区系及发病率的影响[J]．生态学报,2015,35(9): 2946-2953 Shen Z Z,Zhong S T,Zhao J S,et al.Effects of ammonia fumigation on soil microflora and banana production in an orchard with serious Fusarium wilt disease[J].Acta Ecologica Sinica,2015,35(9): 2946-2953   
+[6]曹云，常志州，马艳，等．猪粪沼液防治辣椒疫病机理研究- 沼液中铵与腐殖酸的作用[J].中国生态农业学报，2013, 21(9):1119-1126 Cao Y,Chang Z Z,Ma Y,et al.Control mechanism of Phytophthora blight of chilli pepper by anaerobically digested pig slurry ：The roles of ammonium and humic acid in biogas slurry[J]. Chinese Journal of Eco-Agriculture,2013, 21(9): 1119-1126   
+[7] 马艳，常志州，朱万宝，等．土壤硝态氮含量对辣椒疫病的 影响及机理的初步研究[J].土壤肥料,2004(2):12-14 Ma Y,Chang Z Z,Zhu WB,et al. Studies on Phytophthora blight of chilli affected by $\mathrm { N O } _ { 3 }$ -N content in soil[J]. Soils and Fertilizers,2004(2):12-14   
+[8]茶正早，林钊沐，罗微．德国新型硝化抑制剂DMPP[J]．安 徽农学通报,2007,13(12):46-48 Cha Z Z,Lin Z M,Luo W.DMPP,a new nitrification inhibitor in German[J].Anhui Agricultural Science Bulletin, 2007,13(12): 46-48   
+[9] 石美，梁东丽，满楠，等．不同浓度 DMPP 和 DCD 对石灰 性土壤中氮素转化的影响[J].中国农业科学,2012,45(22): 4635-4642 Shi M,Liang D L,Man N,et al.Effects of different application rates of DMPP and DCD on nitrogen transformation in calcareous soil[J]. Scientia Agricultura Sinica,2012, 45(22): 4635-4642   
+[10]易图永，张宝玺，谢丙炎，等．辣椒疫病三种接种方法的比 较[J]．中国蔬菜,2003(2):16-18 Yi T Y,Zhang B X, Xie B Y,et al. Comparison of three inoculation methods for Phytophthora blight resistance[J]. China Vegetables,2003(2): 16-18   
+[11] Yamada T,Miyauchi K,Ueda H,et al. Composting cattle dung wastes by using a hyperthermophilic pre-treatment process: Characterization by physicochemical and molecular biological analysis[J].Journal of Bioscience andBioenginring, 2007,104(5): 408-415   
+[12] Silvar C,Duncan JM,Cooke D E L,et al. Development of specific PCR primers for identification and detection of Phytophthora capsici Leon[J]. European Journal of Plant Pathology,2005,112(1): 43-52   
+[13]鲍士旦．土壤农化分析[M].第3版．北京：中国农业出版 社,2000 Bao S D.Soil and Agricultural Chemistry Analysis[M].3rd ed.Beijing: China Agriculture Press, 2000   
+[14]吴凤芝，孟立君，王学征．设施蔬菜轮作和连作土壤酶活 性的研究[J]．植物营养与肥料学报,2006,12(4):554-558 Wu F Z,Meng L J,Wang X Z. Soil enzyme activities in vegetable rotation and continuous cropping system of under shed protection[J].Plant Nutrition and Fertilizer Science, 2006,12(4): 554-558   
+[15] Wu H S,Liu D Y,Ling N,et al. Influence of root exudates of watermelon on Fusarium oxysporum f. sp.niveum[J].Soil Science Society of America Journal, 2009,73(4): 1150-1156   
+[16]陈利锋，徐敬友．农业植物病理学[M]．北京：中国农业出 版社,2001 Chen L F, Xu JY.Plant Pathology in Agriculture[M]. Beijing: China Agriculture Press, 2001   
+[17]顾志光，马艳，安霞，等．麦秸淹水处理对连作土壤性状和 辣椒疫病田间防控效果的影响[J]．农业环境科学学报, 2014,33(9): 1762-1769 Iooaing on soll properues ana Pnytopntnora Dlignt control in continuous chili pepper cropping field[J]. Journal of AgroEnvironment Science,2014,33(9): 1762-1769   
+[18]马艳，胡安忆，杨豪，等．菜粕生物熏蒸防控辣椒疫病[J]. 中国农业科学,2013,46(22):4698-4706 Ma Y,Hu A Y,Yang H, et al. Effects of biofumigation with rapeseed meal on disease control of Phytophthora blight of chilli pepper[J]. Scientia Agricultura Sinica,2013,46(22): 4698-4706   
+[19]何欣，黄启为，杨兴明，等．香蕉枯萎病致病菌筛选及致病 菌浓度对香蕉枯萎病的影响[J]．中国农业科学，2010, 43(18): 3809-3816 He X,Huang Q W,Yang X M,et al. Screening and identification of pathogen causing banana Fusarium wilt and the relationship between spore suspension concentration and theincidence rate[J]. Scientia Agricultura Sinica,2010, 43(18): 3809-3816   
+[20]董怀玉，姜钰，徐秀德，等．玉米丝黑穗病接种浓度与发病 关系研究[J]．玉米科学,2007,15(5):139-141 Dong H Y,Jiang Y,Xu X D,et al．Relationship study between incidence of Sporisorium reilianum of maize and inoculums density in soil[J]. Journal of Maize Sciences,2007, 15(5): 139-141   
+[21] Hausbeck M K,Lamour K H. Phytophthora capsici on vegetable crops:Research progressandmanagement challenges[J]. Plant Disease,2004,88(12):1292-1303   
+[22] Chun D,Lockwood JL.Reductions of Pythiumultimum, Thielaviopsis basicola,and Macrophomina phaseolina populations in soil associated with ammonia generated from urea[J]. Plant Disease,1985,69(2): 154-158   
+[23] Sun L,Song S,Fu L,et al. Exploring a soil fumigation strategy based on ammonium bicarbonate to control Fusarium wilts of cucurbits[J].Crop Protection,2015,70:53-60   
+[24]薛妍，武志杰，张丽莉，等．土壤含水量、pH 及有机质对 DMPP 硝化抑制效果的影响[J]．应用生态学报，2012, 23(10): 2663-2669 Xue Y,Wu ZJ, Zhang L L, et al. Inhibitory effect of DMPP on soil nitrification as affected by soil moisture content,pH and organic matter[J]. Chinese Journal of Applied Ecology, 2012,23(10): 2663-2669   
+[25]石美，张妹婷，沈锋，等．石灰性土壤中不同硝化抑制剂的 抑制效果及其对亚硝态氮累积的影响[J].中国农业科学, 2011,44(3): 500-506 Shi M, Zhang M T,Shen F,et al. Effects of nitrification inhibitors on nitrification inhibition and nitrite accumulation in calcareous soil[J]. Scientia Agricultura Sinica, 2011,44(3): 500-506   
+[26] DiH J, Cameron K C,Shen JP,et al. Nitrification driven by bacteria and not archaea in nitrogen-rich grassland soils[J]. Nature Geoscience,2009,2(9): 621-624   
+[27] Zhang L M,Hu H W,Shen JP,et al. Ammonia-oxidizing archaea have more important role than ammonia-oxidizing bacteria in ammonia oxidation of strongly acidic soils[J]. The
+
+ISME Journal,2012,6(5):1032-1045 [28]史云峰，武志杰，陈利军，等．3,5-二甲基吡唑磷酸盐 (DMPZP)对土壤硝化作用的影响[J]．应用生态学报，2007, 18(5):1033-1037 Shi Y F,Wu Z J,Chen L J,et al. Effects of 3,5- dimethylpyrazole phosphate (DMPZP) on soil nitrification[J]. Chinese Journal of Applied Ecology,2007,18(5):1033-1037 [29]张妹婷，石美，梁东丽，等．不同硝化抑制剂对尿素转化的 影响[J]．西北农林科技大学学报：自然科学版,2011,39(2): 178-184 Zhang MT,Shi M,Liang DL,etal.Effects of different nitrification inhibitors on urea transformation[J].Journal of Northwest A&F University:Natural Science Edition,2011, 39(2):178-184
+
+# 责任传媒 深度调查 专业分析 权威发布贴心服务
+
+# 《中国果业信息》2017年征订启事
+
+《中国果业信息》由农业部主管，中国农业科学院柑桔研究所主办，全国惟一一份专注水果产前、产中及产后各环节的综合指导类国家级行业大刊，尽可能为您提供最权威、最真实、最有效的信息。一刊在手，掌握中国果业。特色栏目有：“记者调查”、“产业论坛”、“统计分析”、“资讯·国际动态”、“资讯·国内动态”、“资讯·产销行情”、“科技动态·技术”、“科技动态·品种”、“水果与健康"等，是各级政府职能部门、水果产业技术体系专家团队等发布相关信息的有效平台，是果品生产、加工、流通和销售企业、协会、基地等宣传展示品牌的理想窗口，是国内外人士获取中国及全球水果生产发展、科技成果、加工销售及进出口贸易动态等信息的权威渠道，是广大消费者科学消费、营养保健的重要参考。
+
+月刊，每月末出版。16开本,64页。部分彩色印刷。每期定价8元，全年96元。邮发代号78-10，全国各地邮局(所)均可订阅。全年均可随时汇款到编辑部邮购，每期加收快递费5元。
+
+编辑部电话:(023)68349199 E-mail: gyxx@cric.cn QQ:1056887528  
+广告部电话/传真：(023)68349198 广告专用E-mail: wsl@cric.cn  
+在线投稿网址:http://tsg.cric.cn 中国果业网:http://www.zhggy.com  
+通信地址：重庆市北碚区歇马镇柑桔研究所邮编:400712 收件人：中国果业信息  
+开户行：农行重庆北碚歇马支行  
+户名：中国农业科学院柑桔研究所  
+账号：31091201040002333  
+(汇款时务必写明用途和联系电话)
+
+http://www.ecoagri.ac.cn

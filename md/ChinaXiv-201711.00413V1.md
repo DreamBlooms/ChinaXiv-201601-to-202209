@@ -1,0 +1,185 @@
+1应用康奈尔净碳水化合物—蛋白质体系和NRC 模型比较料常用粗饲料和玉米纤维饲料的营养价值1
+
+郝小燕　高　红　张幸怡 王晓帆丁雪张永根\*（东北农业大学动物科技学院，哈尔滨150030)
+
+摘要：本试验旨在应用康奈尔净碳水化合物一蛋白质体系（CNCPS）和NRC 模型比较玉米纤维饲料（DCGF）与奶牛常用粗饲料（苜蓿、玉米青贮、羊草）营养价值，进而分析DCGF 作为奶牛纤维饲料资源的可行性。采集东北地区不同牧场的饲料样本，测定营养成分后利用CNCPS模型对各饲料蛋白质和碳水化合物进行剖分，并预测各饲料对奶牛的潜在营养物质供给量，同时利用NRC 模型对4种饲料的可消化养分和能值进行估测计算。结果表明：1）DCGF中粗蛋白质（CP）含量显著高于玉米青贮和羊草（ $\scriptstyle P < 0 . 0 5 .$ )，中性洗涤纤维（NDF）含量显著高于苜蓿（ $_ { \cdot P < 0 . 0 5 ) }$ ，且酸性洗涤纤维（ADF）、酸性洗涤木质素（ADL）含量显著低于其他3种粗饲料（ $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ )。2）DCGF快速降解真蛋白质（PB1）和中速降解真蛋白质（PB2）含量显著低于苜蓿（ $P { < } 0 . 0 5 )$ ；中速降解碳水化合物（CB1）和慢速降解碳水化合物（CB2）含量显著高于其他3种粗饲料（ $_ { \cdot P < 0 . 0 5 }$ )。3）首蓿的可代谢蛋白质（MP)含量最高，其次为DCGF。4）DCGF在维持水平下总可消化养分（TDNm）和净能均最高。结果提示，DCGF具有较高的营养价值，可以作为奶牛纤维类高蛋白质料替代奶牛饲粮中部分粗饲料，缓解我国优质粗饲料、蛋白质饲料资源紧缺的压力。
+
+关键词：玉米纤维饲料；粗饲料；营养价值；能值
+
+中图分类号：S816.5
+
+玉米是世界上最重要的粮食资源，且我国是玉米淀粉生产大国，玉米湿磨法生产淀粉时伴随有 $30 \%$ 的副产物产生，这些副产物主要包括玉米浆、玉米皮、玉米麸及少量玉米胚芽饼粕等。玉米纤维饲料（dry corn gluten feed,DCGF）是由玉米皮和玉米浸泡水浓缩形成的玉米浆以大约 $2 : 1$ 的比例混合而成的一种富含可消化纤维和可消化蛋白质的纤维性饲料。DCGF 的淀粉含量大约为玉米淀粉含量的1/6 甚至更少，反刍动物饲粮中添加一定比例的DCGF 有利于稳定瘤胃内环境，有效减少瘤胃酸中毒的发生[1]。DCGF 中除淀粉之外，各营养成分含量几乎是其原料中的3倍[2]。随着我国奶牛养殖业的发展，优质粗饲料资源短缺日渐严重，开发新型纤维饲料资源对奶牛养殖业意义重大。为科学、全面地评价DCGF 的营养价值，评估其是否可以作为奶牛的优质纤维饲料资源开发利用，本试验应用康奈尔净碳水化合物—蛋白质体系（Cormell net carbohydrate and protein system,CNCPS）和 NRC 模型比较研究了DCGF 与奶牛常用粗饲料苜蓿、玉米青贮、羊草的营养价值，旨在为DCGF 在奶牛生产中科学、合理应用提供科学依据。
+
+1材料与方法
+
+# 1.1 试验材料
+
+试验材料包括DCGF、苜蓿、玉米青贮和羊草，采集自东北地区的4个牧场和嘉吉生化有限公司，共11个饲料样本代表4种试验原料，其中DCGF的2个样本分别取自齐齐哈尔飞鹤原生态牧场和嘉吉生化有限公司，苜蓿、玉米青贮和羊草各3个样本分别取自山东屯荷斯坦奶牛繁育场、黑龙江九三荣军澳牛繁育中心和雀巢 DFI牧场。所有样本采用四分法采集，玉米青贮于 $6 5 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 烘干 $4 8 \mathrm { { h } }$ 后，粉碎过 $1 \mathrm { m m }$ 筛，放入自封袋中于4℃保存待测[3]。
+
+1.2 试验方法
+
+# 1.2.1 营养成分分析
+
+4 种饲料原料的干物质（dry matter,DM,AOAC 930.15）、粗灰分（ash,AOAC 942.05）、粗脂肪（ether extract,EE,AOAC 984.13）、粗蛋白质（crude protein,CP,AOAC 984.13）等常规营养成分含量分析参照AOAC[4]标准进行。淀粉含量参照张旭等[5]方法测定， $\mathfrak { a }$ -淀粉酶、葡萄糖淀粉酶、葡萄糖试剂盒均购自上海荣盛生物制药有限公司。中性洗涤纤维（neutraldetergent fiber,NDF）、酸性洗涤纤维（acid detergent fiber,ADF）、酸性洗涤木质素（aciddetergent lignin,ADL）、中性洗涤不溶粗蛋白质（neutral detergent insoluble crude protein,NDICP）和酸性洗涤不溶粗蛋白质(acid detergent insoluble crude protein,ADICP)的含量参照 Van Soest等的方法测定。可溶性粗蛋白质（solublecrude protein,SCP）、非蛋白氮（NPN）含量根据CNCPS 的测定方法进行[7]。碳水化合物（CHO）、非结构性碳水化合物（non-structurecarbohydrate,NSC)、纤维素和半纤维素含量通过相应的公式计算得出。每种饲料样本每个指标测定3个重复。
+
+# 1.2.2 CNCPS对饲料蛋白质组分的剖分
+
+CNCPS 体系评价饲料营养价值时充分考虑植物细胞成分及饲料在反刍动物体内的消化特点，使得分析结果更具有参考价值。在CNCPS蛋白质剖分体系中，饲料CP被剖分为非蛋白氮（PA）、真蛋白质（PB）和不可利用蛋白质（PC）3个部分；结合饲料瘤胃降解特性，PB 可进一步剖分为快速降解真蛋白质（PB1）、中速降解真蛋白质（PB2）和慢速降解真蛋白质（PB3）3个亚组分，计算公式如下[8];
+
+PA（% CP) $\ c =$ NPN（ $\%$ SCP） $\mathbf { \nabla } \times \mathbf { S C P }$ （ $\%$ CP） $\times 0 . 0 1$ PB1（% CP） $\scriptstyle = \mathbf { S } \mathbf { C P }$ （% CP）-PA（% CP);PC（% CP) $\begin{array} { r l } { \mathbf { \Psi } } & { { } = } \\ { \mathbf { \Psi } } & { { } \mathbf { \Psi } } \end{array}$ ADICP（%CP);PB3（% CP） $\circleddash$ NDICP（% CP）-ADICP（% CP);PB2（%CP） $\begin{array} { r } { { \bf \Pi } = \frac { \bf \Pi } { \bf \Pi } } \end{array}$ 1-PA（ $\%$ CP）-PB1（ $\%$ CP）-PB3（% CP）-PC（%CP)。
+
+# 1.2.3 CNCPS对CHO组分的剖分
+
+CNCPS 体系从饲料CHO 的降解速率角度将其剖分为4个部分，分别为快速降解碳水  
+化合物（CA，主要为糖类）、中速降解碳水化合物（CB1，主要由淀粉和果胶组成）、慢速  
+降解碳水化合物（CB2，主要为可消化纤维部分）和不可利用碳水化合物（CC，主要为植  
+物细胞壁部分)，计算公式如下[9]：CHO(% DM) $\vDash$ 1-CP(%DM)-EE( $\%$ DM)-ash(% DM);CC(% CHO)=100×[NDF(% DM)x0.01×ADL(% NDF) ${ \times } 2 . 4 \$ I/CHO(% DM);  
+CB2(% CHO)=100×[NDF(% DM)-NDICP(% CP)x0.01×CP(% DM)-NDF(% DM)x0.01×ADL(%NDF)×2.4/CH0(% DM)];NSC(% CHO)=1-CB2( $\%$ CHO)-CC(% CHO);CB1(% CHO)=[1-淀粉( $\%$ NSC)]×[1-CB2( $\%$ CHO)-CC(% CHO)]。
+
+# 1.2.4 CNCPS模型估测潜在营养价值供给量
+
+使用CNCPS 模型来估测4种试验原料的潜在营养价值供给量，包括瘤胃可降解蛋白质（rumen degraded protein,RDP）、瘤胃非降解蛋白质（rumen-undegraded protein,RUP）、菌体蛋白质（microbial protein,MCP）、小肠可吸收菌体蛋白质（absorbable microbial protein,AMCP）、小肠可吸收瘤胃非降解蛋白质（absorbable rumen-undegraded protein,ARUP）、小肠可吸收内源真蛋白质（absorbable endogenous true protein,AECP）、可代谢蛋白质（metabolizable
+
+protein,MP)。分别以4种试验原料为单一饲料饲粮，根据CNCPS 模型，瘤胃能氮供给量平  
+衡（rumen energy nitrogen balance,RENB）由瘤胃可降解蛋白质提供的菌体蛋白质（MCPRDP）  
+和维持水平总可消化养分（total digestible nutrients at maintenance level,TDNm）可提供的菌  
+体蛋白质（ $\mathsf { M C P } _ { \mathrm { T D N m } }$ ）的差值来估测，计算公式如下[10-11]:$\mathrm { R D P { = } } A { + } B { \times } [ K _ { \mathrm { d } } / ( K _ { \mathrm { d } } { + } K _ { \mathrm { p } } ) ] ;$ （号$\mathrm { R U P { = } } A { + } B { \times } [ K _ { \mathrm { p } } / ( K _ { \mathrm { d } } { + } K _ { \mathrm { p } } ) ] { + } C \circ$ 式中： $A$ 为快速降解粗蛋白质部分， $B$ 为可降解粗蛋白质部分， $C$ 为完全不降解的粗蛋  
+白质部分； $K _ { \mathrm { d } }$ 为 $B$ 的降解速率； $K _ { \mathfrak { p } }$ 为待测饲料瘤胃流通速率。$\mathrm { M C P ( g / k g D M ) } { = } 0 . 1 3 { \times } \mathrm { T D N m } { \times } e N D F a d j _ { \circ }$ 式中：当物理有效中性洗涤纤维 (peNDF)/NDF>20%时，eNDFadj $\mathrm { \dot { \mathbf { \rho } } } = 1 . 0$ ；当  
+peNDF/NDF $< 2 0 \%$ 时，eNDFadj=1.0-[(20-peNDF) $\times 0 . 0 2 5 ]$ 。$\mathrm { A M C P ( g / k g D M ) } { = } 0 . 8 0 { \times } 0 . 8 0 { \times } \mathrm { M C P } ,$ 式中：MCP中 $80 \%$ 为PB， $80 \%$ 可在小肠内吸收[NRC（2001）[12]。ARUP $\vDash$ RUP×0.85;$\mathrm { E C P ( g / k g D M ) } { = } 6 . 2 5 { \times } 1 . 9 { \times } \mathrm { D M } ;$ （$\mathrm { A E C P ( g / k g D M ) } { = } 0 . 5 0 { \times } 0 . 8 0 { \times } \mathrm { E C P } ,$ 。式中：ECP为内源PB， $50 \%$ 的 ECP 能到达十二指肠，且 $80 \%$ 为PB[NRC（2001）[12]。MP(g/kg DM) $\vDash$ ARUP $+$ AMCP $+$ AECP;RENB $$ MCPTDNm-MCPRDP。式中： $\mathrm { M C P } _ { \mathrm { T D N m } } { = } 0 . 1 3 { \times } \mathrm { T D N m }$ ，MCPRDP=0.9×RDP。
+
+1.2.5 NRC模型估测真可消化养分与能值
+
+使用 NRC（2001）[12]估测模型估测4种试验原料奶牛瘤胃真可消化非纤维性碳水化合物（truly digestible non-fiber carbohydrate,tdNFC）、真可消化粗蛋白质（truly digestible crudeprotein,tdCP）、真可消化中性洗涤纤维（truly digestible neutral detergent fiber,tdNDF）和真可消化脂肪酸（truly digestible fatty acids,tdFA）。进而估测出各饲料的 TDNm、生产水平（即采食量为维持水平的 3倍时）消化能（digestible energy at production level,DEp)、生产水平代谢能（metabolizable energy at production level,MEp）及生产水平泌乳净能（net energy forlactationat production level,NELp）。同时，采用肉牛估测模型公式预测各饲料的维持净能（netenergy for maintenance, $\mathrm { { N E _ { m } } }$ ）和增重净能（net energy for gain $\mathrm { , N E _ { g } }$ )，各预测公式如下[12-13]：
+
+tdNFC=0.98 $\mathbf { \nabla } _ { \times }$ {1-[(NDF-NDICP)+CP+EE+ash]}×PAF; tdCP $\scriptstyle \mathbf { \alpha = }$ CPxexp[-1.2×(ADICP/CP)]; tdFA $\ c =$ FA $\scriptstyle { \underline { { = } } }$ (EE-1); tdNDF=0.75×(NDF-NDICP-ADL) $| \times \rrangle$ {1-[ADL/(NDF-NDICP)],0.667。 式中：PAF 为加工校正因子（processing adjustment factor)；如果 $\mathrm { E E } { < } 1$ ，则 $\mathrm { F A } { = } 0$ 。 TDNm(%)=tdNFC+tdCP+(tdFA×2.25)+tdNDF-7; DE1x(MJ/kg)=(tdNFC×4.2+tdNDFx4.2+tdCPx5.6+tdFA×9.4-0.3)×4.18; 折扣系数 $\mathrm { : = } 4 . 1 8 \times$ {[TDNm-(0.18×TDNm-10.3)] $\times 2$ }/TDNm; $\mathrm { D E _ { P } ( M J / k g ) } { = } 4 . 1 8 { \times } \mathrm { D E _ { 1 X } } { \times }$ 折扣系数； MEP(MJ/kg)=4.18×(1.01×DEp-0.45); NELP(MJ/kg)=4.18×[(0.703×MEp)-0.19];   
+NEm(MJ/kg)=4.18×[1.37×(DE1x×0.82)-0.138×(DE1x×0.82)2+0.0 105×(DE1x×0.82)3-1.12];   
+NEg(MJ/kg)=4.18×[1.42×(DE1x×0.82)-0.174×(DE1x×0.82)2+0.0122×(DE1x×0.82)3-1.65]。 式中：如果 $\mathrm { T D N m } { < } 6 0 \%$ ，消化率的折扣忽略不计。
+
+# 1.3 数据统计分析
+
+所有数据采用Excel整理，并采用 SAS9.3中的Mixed模型进行统计分析。具体模型为:
+
+$$
+Y _ { i j } { = } \mu { + } F _ { i } { + } e _ { i j } \circ
+$$
+
+式中： $Y _ { i j }$ 是由变量 $i , j$ 所得的因变量， $\mu$ 是变量平均值， $F _ { i }$ 表示饲料来源的固定因素，$e _ { i j }$ 表示随机误差。
+
+2 结果与分析
+
+2.1DCGF 和3 种粗饲料的营养成分
+
+从表1可见，DCGF与奶牛常用粗饲料的营养成分含量有较大差异。DCGF的DM含量与苜蓿、羊草相近（ $. P { > } 0 . 0 5 )$ ，有机物含量显著高于苜蓿（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ )。羊草的 NDF、ADF含量最高，首蓿的 NDF 含量最低，而 DCGF 的 ADF、ADL 含量显著低于其他3 种粗饲料（ $_ { \cdot \cdot P < 0 . 0 5 } )$ )。DCGF的纤维素含量最低，但半纤维素含量（ $3 7 1 . 7 ~ \mathrm { g / k g }$ DM）最高。DCGF的淀粉含量与玉米青贮相当 （ $. P { > } 0 . 0 5 .$ )，显著高于苜蓿和羊草的淀粉（ $\scriptstyle \cdot - P < 0 . 0 5 .$ )。苜蓿的CP含量（ $2 1 3 . 4 ~ \mathrm { g / k g }$ DM）最高，DCGF（ $2 0 5 . 4 ~ \mathrm { g / k g }$ DM）次之，并且显著高于青贮玉米和羊草（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ )。4 种粗饲料的 SCP、NPN含量有很大差异，DCGF的NPN含量（SCP中）显著高于其他3 种粗饲料。DCGF的ADICP含量（ $1 5 . 2 \ \mathrm { g / k g \ C P } \$ ）显著低于其他饲料（ $_ { \cdot } P { < } 0 . 0 5 )$ ），羊草的 NDICP含量（386.2 g/kg CP）最高。
+
+表1DCGF和3种粗饲料的营养成分  
+Table 1Nutrient composition of DCGF and other three kinds of roughages   
+
+<html><body><table><tr><td>项目</td><td>玉米纤维饲料</td><td>苜蓿</td><td>玉米青贮</td><td>羊草</td><td>SEM</td></tr><tr><td>Items</td><td>DCGF 942.7a</td><td>Alfalfa hay 925.3a</td><td>Corn silage 276.0b</td><td>Wildrye 942.8a</td><td>5.8</td></tr><tr><td>干物质 DM/(g/kg) 粗灰分 Ash/(g/kg DM)</td><td>60.5b</td><td>115.3a</td><td>52.6</td><td>60.5b</td><td>1.2</td></tr><tr><td>有机物 OM/(g/kg DM)</td><td>939.5b</td><td>884.7c</td><td>947.4a</td><td>936.8b</td><td>1.2</td></tr><tr><td>粗脂肪EE/(g/kg DM)</td><td>28.0a</td><td>13.1b</td><td>26.1a</td><td>11.9b</td><td>0.8</td></tr><tr><td>中性洗涤纤维NDF/(g/kgDM)</td><td>517.6c</td><td>417.7d</td><td>656.9b</td><td>685.6a</td><td>2.9</td></tr><tr><td>酸性洗涤纤维 ADF/(g/kg DM)</td><td>145.9d</td><td>308.5c</td><td>360.3b</td><td>404.1a</td><td>1.9</td></tr><tr><td>酸性洗涤木质素 ADL/(g/kg DM)</td><td>23.9d</td><td>96.9c</td><td>114.7b</td><td>143.6a</td><td>2.0</td></tr><tr><td>纤维素 Cellulose/(g/kg DM)</td><td>122.1d</td><td>211.6c</td><td>245.5b</td><td>260.5a</td><td>3.0</td></tr><tr><td>半纤维素 Hemicellulose/(g/kg DM)</td><td>371.7a</td><td>109.2d</td><td>296.6b</td><td>281.5c</td><td>4.1</td></tr><tr><td>淀粉 Starch/(g/kg DM)</td><td>106.3a</td><td>17.3b</td><td>113.8a</td><td>11.8b</td><td>2.4</td></tr><tr><td>碳水化合物 CHO/(g/kg DM)</td><td>706.4c</td><td>659.3d</td><td>862.6a</td><td>852.7b</td><td>1.6</td></tr><tr><td>粗蛋白质 CP/(g/kg DM)</td><td>205.4b</td><td>213.4a</td><td>58.3d</td><td>75.0c</td><td>1.0</td></tr><tr><td>可溶性粗蛋白质 SCP/(g/kg CP)</td><td>643.8a</td><td>423.5c</td><td>551.8b</td><td>284.2d</td><td>3.2</td></tr><tr><td>非蛋白氮 NPN/(g/kg SCP)</td><td>930.7a</td><td>618.9c</td><td>896.2a</td><td>812.1b</td><td>13.7</td></tr><tr><td>酸性洗涤不溶粗蛋白质ADICP/(g/kg CP)</td><td>15.2d</td><td>37.5℃</td><td>135.1a</td><td>55.9b</td><td>3.1</td></tr><tr><td>中性洗涤不溶粗蛋白质 NDICP/(g/kg CP)</td><td>154.5c</td><td>118.7d</td><td>168.3b</td><td>386.2a</td><td>4.2</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>非结构性碳水化合物 NSC/(g/kg CHO)</td><td>312.2b</td><td>400.7a</td><td>249.8℃</td><td>225.1d</td><td>1.9</td></tr></table></body></html>
+
+同行数据不同字母肩标表示差异显著 $( P { < } 0 . 0 5 )$ ，相同或无字母肩标表示差异不显著 $\scriptstyle ( P > 0 . \ 0 5 )$ 。下表
+
+同。 In the same row，values with different letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ．The same as below.
+
+2.2CNCPS对DCGF 和3种粗饲料蛋白质和CHO 组分的剖分
+
+从表2可见，DCGF 和其他3种粗饲料蛋白质和CHO 组分存在显著差异（ $( P { < } 0 . 0 5 )$ 。用CNCPS 对4种饲料原料的蛋白质组分剖分后，DCGF具有较高的PA含量 $( 5 9 9 . 2 \ : \mathrm { g / k g } \ : \mathrm { C P } )$ ，而PB含量（ $3 8 8 . 6 ~ \mathrm { g / k g ~ C P }$ ）最低。苜蓿的PB1和PB2 显著高于其他3 种饲料（ $_ { . P < 0 . 0 5 ) }$ ，羊草的 PB3 含量最高，玉米青贮PB3 含量最低。DCGF 的 PC 含量（ $1 5 . 2 ~ \mathrm { g / k g }$ DM）最低,而玉米青贮PC 含量（ $1 3 5 . 1 \ \mathrm { g / k g }$ DM）最高。从CNCPS 对CHO 组分剖分结果可以看出，DCGF的CA含量最低，而CB1和CB2组分含量显著高于其他3种粗饲料 $( P { < } 0 . 0 5 )$ )。羊草的CC含量（ $\mathrm { 4 1 2 . 1 ~ g / k g }$ CHO）最高，苜蓿（ $3 4 8 . 6 ~ \mathrm { g / k g }$ CHO）次之，而DCGF 的CC 含量（81.4 g/kg CHO）最低。
+
+表2CNCPS对DCGF和3种粗饲料蛋白质和CHO组分的剖分  
+Table 2Partition ofsubfractions of protein and carbohydrate of DCGF and other three kinds ofroughages using   
+
+<html><body><table><tr><td>156 CNCPS</td><td colspan="4"></td></tr><tr><td>项目</td><td>玉米纤维饲料</td><td>苜蓿</td><td>玉米青贮</td><td>羊草</td><td>SEM</td></tr><tr><td>Items</td><td>DCGF</td><td>Alfalfa hay</td><td>Corn silage</td><td>Wildrye</td><td></td></tr><tr><td colspan="6">蛋白质组分 Protein composition/(g/kg CP)</td></tr><tr><td>非蛋白氮PA</td><td>599.2a</td><td>262.1℃</td><td>494.5b</td><td>233.4d</td><td>5.6</td></tr><tr><td>快速降解真蛋白质 PB1</td><td>44.6b</td><td>161.4a</td><td>57.3b</td><td>54.2b</td><td>5.4</td></tr><tr><td>中速降解真蛋白质 PB2</td><td>204.8d</td><td>457.8a</td><td>279.9c</td><td>332.9b</td><td>7.7</td></tr><tr><td>慢速降解真蛋白质 PB3</td><td>139.3b</td><td>81.2c</td><td>33.2d</td><td>323.6a</td><td>7.0</td></tr><tr><td>不可降解蛋白质 PC</td><td>15.2d</td><td>37.5c</td><td>135.1a</td><td>55.9b</td><td>3.4</td></tr><tr><td>真蛋白质 PB</td><td>388.6b</td><td>700.4a</td><td>370.4b</td><td>710.6a</td><td>5.7</td></tr><tr><td>碳水化合物组分 CHO composition/(g/kg CHO)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>快速降解碳水化合物CA</td><td>71.7d</td><td>233.0a</td><td>153.9c</td><td>217.8b</td><td>4.5</td></tr><tr><td>中速降解碳水化合物 CB1</td><td>239.5a</td><td>71.8c</td><td>99.3b</td><td>10.6d</td><td>0.6</td></tr></table></body></html>
+
+<html><body><table><tr><td>缓慢降解碳水化合物 CB2</td><td>607.4a</td><td>346.6c</td><td>437.6b</td><td>359.5c</td><td>6.2</td></tr><tr><td>不可利用碳水化合物CC</td><td>81.4d</td><td>348.6b</td><td>309.2c</td><td>412.1a</td><td>3.7</td></tr></table></body></html>
+
+# 157 2.3DCGF和3种粗饲料对奶牛潜在营养供应量的预测
+
+利用CNCPS模型对DCGF和3种奶牛常用粗饲料对奶牛的潜在营养供应量预测结果见表3。DCGF的RDP含量为 $1 5 9 . 6 ~ \mathrm { g / k g ~ D M }$ ，显著高于其他3种粗饲料（ $( P { < } 0 . 0 5 )$ ，而RUP含量 $( 4 1 . 6 ~ \mathrm { g / k g { D M } ) }$ 低于苜蓿，高于玉米青贮和羊草（ $_ { \cdot \cdot P < 0 . 0 5 } )$ )。DCGF的MCP含量预测值为 $8 9 . 4 ~ \mathrm { g / k g } \mathrm { D M }$ ，显著高于其他3种粗饲料（ $. P { < } 0 . 0 5 )$ )。DCGF的AMCP产量最高，苜蓿的ARUP含量最高，玉米青贮的ECP含量显著低于DCGF、苜蓿和羊草（ $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ )，而其他3种饲料差异不显著( ${ \cdot } P { > } 0 . 0 5 { : }$ 。苜蓿的MP含量 $( 1 0 6 . 7 ~ \mathrm { g / k g ~ D M } )$ 最高，DCGF( $9 6 . 8 ~ \mathrm { g / k g }$ DM)次之，二者显著高于玉米青贮和羊草( $\scriptstyle \cdot - P < 0 . 0 5 .$ )。按供给的能量和MCP含量结果表明，DCGF的 $\mathbf { M C P _ { R D P } }$ 和 $\mathrm { M C P _ { T D N m } }$ 含量最高，苜蓿次之，并均显著高于玉米青贮和羊草( $_ { \cdot P < 0 . 0 5 } )$ );DCGF和苜蓿的瘤胃能氮供给平衡分别为-54.5和 $6 1 . 5 \ : \mathrm { g / k g \ : D M }$ ，即 RDP供给过剩，而能量供给量不足。
+
+Table 3Prediction of the potential nutrient supply to dairycattle from DCGF and other three kinds of roughages
+
+表3DCGF和3种粗饲料对奶牛潜在营养供应量的预测  
+
+<html><body><table><tr><td>■ 项目</td><td>玉米纤维饲料</td><td>苜蓿</td><td>玉米青贮</td><td>羊草</td><td>SEM</td></tr><tr><td colspan="2">X Qtems DCGF</td><td>Alfalfa hay</td><td>Corn silage</td><td>Wildrye</td><td></td></tr><tr><td colspan="2">n 粗蛋白质的瘤胃降解特征 CP ruminal degradation characteristics</td><td></td><td></td><td></td><td></td></tr><tr><td>C 瘤胃可降解蛋白质RDP/（%CP)</td><td>77.4a</td><td>67.2℃</td><td>72.4b</td><td>59.7d</td><td>0.9</td></tr><tr><td>瘤胃可降解蛋白质 RDP/(g/kg DM)</td><td>159.6a</td><td>146.3b</td><td>41.2℃</td><td>44.2℃</td><td>0.9</td></tr><tr><td>瘤胃非降解蛋白质RUP/(% CP)</td><td>22.5d</td><td>32.8b</td><td>27.6</td><td>40.3a</td><td>1.1</td></tr><tr><td></td><td></td><td></td><td>16.5d</td><td></td><td></td></tr><tr><td>瘤胃非降解蛋白质 RUP/(g/kg DM)</td><td>41.6b</td><td>67.7a</td><td></td><td>30.7℃</td><td>0.77</td></tr><tr><td>估测可代谢蛋白质Predicted MP</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>菌体蛋白质 MCP/(g/kg DM)</td><td>89.4a</td><td>69.8b</td><td>64.1c</td><td>55.7d</td><td>0.5</td></tr><tr><td>可吸收菌体蛋白质AMCP/(g/kgDM)</td><td>56.8a</td><td>43.0b</td><td>41.8b</td><td>36.0℃</td><td>0.7</td></tr><tr><td>可吸收瘤胃非降解蛋白质 ARUP/(g/kg DM)</td><td>35.5b</td><td>57.6a</td><td>14.0d</td><td>26.1</td><td>0.6</td></tr><tr><td>内源蛋白质 ECP/(g/kg DM)</td><td>11.7a</td><td>11.5a</td><td>3.3b</td><td>10.8a</td><td>0.5</td></tr></table></body></html>
+
+<html><body><table><tr><td>可吸收内源真蛋白质AECP/(g/kg DM)</td><td>4.5a</td><td>4.2a</td><td>1.3b</td><td>5.1a</td><td>0.3</td></tr><tr><td>可代谢蛋白质 MP/(g/kgDM)</td><td>96.8b</td><td>106.7a</td><td>59.1d</td><td>66.7c</td><td>0.8</td></tr><tr><td>瘤胃能氮平衡特点 Ruminal energy and nitrogen balance characteristics</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>瘤胃可降解蛋白质提供的菌体蛋白质 MCPRDP/(g/kg DM)</td><td>143.5a</td><td>131.1b</td><td>37.6c</td><td>38.8c</td><td>0.9</td></tr><tr><td>维持水平总可消化养分可提供的菌体蛋白质 MCPTDNm/(g/kg DM)</td><td>88.9a</td><td>69.8b</td><td>64.7℃</td><td>56.4d</td><td>0.4</td></tr><tr><td>瘤胃能氮供给量平衡 RENB/(g/kg DM)</td><td>-54.5</td><td>-61.2</td><td>27.2</td><td>16.5</td><td>1.1</td></tr></table></body></html>
+
+L70 2.4NRC模型估测DCGF和3种粗饲料可消化养分含量和能值
+
+从表4可见，4种饲料的可消化养分含量和能值存在较大差异。苜蓿的tdNFC 含量最高（2 $( 2 5 8 . 9 \ : \mathrm { g / k g \ : D M } )$ ，DCGF 和玉米青贮tdNFC含量分别为212.4和 $2 1 1 . 2 \ : \mathrm { g / k g } \ : \mathrm { D M }$ ，显著高于羊草（ $P { < } 0 . 0 5 \$ )。DCGF 和苜蓿的tdCP含量显著高于玉米青贮和羊草（ $\scriptstyle P < 0 . 0 5 .$ )，而苜蓿的tdNDF 含量显著低于其他3种饲料（ $_ { . } { \cal P } { < } 0 . 0 5 )$ 。DCGF 的 TDNm 含量最高，苜蓿次之，并均显著高于玉米青贮和羊草（ $\scriptstyle P < 0 . 0 5 .$ )。4种饲料的 $\mathrm { D E _ { P } }$ 、 $\mathbf { M E _ { P } }$ 、 $\mathrm { N E } _ { \mathrm { L P } }$ 、 $\mathrm { N E _ { m } }$ 、 $\mathrm { N E _ { g } }$ 以DCGF最高，苜蓿次之，而羊草的各能值最低。
+
+表4NRC 模型估测DCGF和3种粗饲料可消化养分含量和能值   
+178 Table 4Prediction of digestible nutrient contents and energy values of DCGF and other three kinds ofroughages 179   
+
+<html><body><table><tr><td colspan="5">/9 usingNRCmodels</td></tr><tr><td>项目</td><td>玉米纤维饲料</td><td>苜蓿</td><td>玉米青贮</td><td>羊草</td></tr><tr><td>Items</td><td>DCGF</td><td>Alfalfa hay</td><td>Corn silage</td><td>SEM Wildrye</td></tr><tr><td>真可消化养分 tdN/(g/kg DM)</td><td></td><td></td><td></td><td></td></tr><tr><td>真可消化非纤维性碳水化合物tdNFC</td><td>212.4b</td><td>258.9a</td><td>211.2b</td><td>188.1c 1.7</td></tr><tr><td>真可消化粗蛋白质 tdCP</td><td>199.3a</td><td>204.0a</td><td>49.6 71.7b</td><td>1.9</td></tr><tr><td>真可消化中性洗涤纤维tdNDF</td><td>301.4a</td><td>137.7d</td><td>273.3b</td><td>242.2℃ 2.2</td></tr><tr><td>真可消化脂肪酸tdFA</td><td>42.4a</td><td>6.7℃</td><td>36.2b</td><td>4.0c 1.8</td></tr><tr><td>估测总可消化养分 Predicted TDN/(g/kg DM)</td><td></td><td></td><td></td><td></td></tr><tr><td>维持水平总可消化养分 TDNm</td><td>685.6a</td><td>537.4b</td><td>498.1c</td><td>435.5d 1.9</td></tr><tr><td>估测能值 Predicted energy values/(MJ/kg DM)</td><td></td><td></td><td></td><td></td></tr><tr><td>生产水平消化能 DEp</td><td>12.26a</td><td>10.52b</td><td>8.94c</td><td>8.06d 0.06</td></tr></table></body></html>
+
+<html><body><table><tr><td>生产水平代谢能 MEp</td><td>10.73a</td><td>8.06b</td><td>7.34c</td><td>6.09d</td><td>0.06</td></tr><tr><td>生产水平泌乳净能 NELP</td><td>6.65a</td><td>4.89b</td><td>4.37c</td><td>3.58d</td><td>0.09</td></tr><tr><td>维持净能 NEm</td><td>6.90a</td><td>4.82b</td><td>3.85c</td><td>3.03d</td><td>0.14</td></tr><tr><td>增重净能NEg</td><td>4.32a</td><td>2.73b</td><td>1.59c</td><td>0.79d</td><td>0.07</td></tr></table></body></html>
+
+3讨论
+
+3.1DCGF和3种粗饲料营养成分
+
+本试验较全面地比较分析了DCGF与奶牛常用粗饲料的营养成分差异，从常规营养成分可以看出，DCGF 含有较高的 NDF、CP、淀粉含量，具有作为奶牛良好的能量和蛋白质来源的潜力。Biricik 等[14]报道DCGF 含有高含量的可利用NDF,是可消化纤维的优质来源。DCGF 是玉米湿磨法生产淀粉所得的一种副产物，其细胞壁的木质化程度低于其他粗饲料，故ADF和ADL含量较低。3种粗饲料CP、NDF、ADF等含量差异很大，各指标含量与Coblentz等[15]报道的结果相近。本试验中DCGF 营养成分与潘春方等[16]报道的湿玉米纤维饲料（WCGF）相比，除DM、ADF、SCP、ADICP 含量略高外，其他成分含量基本相近。本试验中 DCGF 样本淀粉含量达 $1 0 6 . 3 ~ \mathrm { g / k g }$ DM，高于普通粗饲料，但是显著低于其原材料玉米（约 660 g/kg DM)，且有关DCGF 低淀粉、高果胶、高可发酵CHO 对保证奶牛、肉牛瘤胃健康的报道已有很多，主要是因为在饲粮中添加一定比例的 DCGF 可以一定程度上避免淀粉在瘤胃中的快速发酵而引起的瘤胃酸中毒[17]。DCGF 和苜蓿含有较高比例的CP，所以总CHO 含量比玉米青贮和羊草低。DCGF 在生产过程中添加一定比例的玉米浓缩浆，故 CP含量较高，且 SCP 和 NPN 含量较其他粗饲料显著提高[18]。根据 DCGF 的营养特点，其兼具蛋白质饲料和纤维饲料的双重优势，其供应不仅可以提高奶牛饲粮的营养水平，还可以在一定程度上缓解我国豆粕产品和优质粗饲料供应的紧张状况，有利于降低饲养成本，提高经济效益。
+
+# 3.2 DCGF和3种粗饲料蛋白质和CHO的CNCPS组分
+
+CNCPS 评价饲料营养价值时将饲料的营养成分、植物细胞壁成分以及饲料在瘤胃中的降解特点有机的结合起来，使得饲料营养价值评价结果更具有参考价值，同时也反映出动物营养学新的发展方向。本试验中结果显示苜蓿的 PB2 组分含量显著高于其他3种饲料，其蛋白质含量比其他饲料具有较高的优势。DCGF 的CP含量较高，但其中NPN 较多，PB含量低于苜蓿。DCGF是由玉米皮和玉米浆混合干燥制成，未喷浆的玉米皮CP含量大约为 $9 . 5 0 \%$ DM，而玉米浆CP 中 SCP 和 NPN 较多，因此二者混合后生产的 DCGF 含有高比例的 PA,PB 含量较低[10]。同时，DCGF 还有极低的 PC 含量，其蛋白质的可利用性较高。玉米青贮也有较高的PA含量，PB含量与DCGF 相近，与周荣等[19]的研究结果相符。但在玉米青贮和DCGF，PB2和PB3含量存在差异，可能与2种饲料蛋白质分子结构不同有关。
+
+利用CNCPS 体系对CHO 进行剖分，4种饲料CHO 各组分含量存在差异。本试验中3种粗饲料CHO 组分均与靳玲品等[20]的结果基本一致。DCGF 的CA含量较低，CB1和CB2含量较高，原因是DCGF 含有较高含量的淀粉、果胶及半纤维素等可溶性多糖和可降解结构性 CHO[2I]。苜蓿的 NSC 和CA 含量极显著高于其他3 种饲料，说明苜蓿 CHO 在瘤胃内降解速率较快;同时苜蓿因富含中性洗涤可溶性CHO 而使CB1含量高于禾本科的羊草[22]。羊草的CC 含量最高，说明其在瘤胃中降解速度较慢，利用率低，属于低质粗饲料；而DCGF的CC 含量极低，可降解纤维CB2含量较高，可以作为一种优质的纤维饲料资源。
+
+3.3利用CNCPS对DCGF和3种粗饲料对奶牛潜在营养供应量的预测
+
+4种试验饲料的CNCPS 潜在营养供给量存在较显著差异。DCGF 和玉米青贮CP中RDP含量比苜蓿和羊草高，其原因在于DCGF 和玉米青贮的 NPN含量较高，在瘤胃中迅速被微生物降解利用，而剩余的少部分RUP 进入真胃和小肠被分解利用。NRC（2001)[12]建议 RUP占奶牛饲粮的比例应达到 $3 3 \% { \sim } 4 0 \%$ ，故DCGF 和玉米青贮RDP和RUP供给不平衡。在CNCPS 预测模型中，MCP产量与饲料的TDNm含量呈正相关关系，本试验结果表明DCGF的 TDNm 含量最高,3 种粗饲料 TDNm 含量由高到低依次为苜蓿、青贮玉米、羊草,故 DCGF的 MCP含量估测值最高，而羊草最低。依据CNCPS，MCP中 $80 \%$ 为PB，其在小肠内的吸收率约为 $80 \%$ ；而 RUP 在小肠中吸收率约为 $8 5 \%$ 。瘤胃ECP（含 $8 0 \% \mathrm { { P B } }$ ）的产量与饲料DM含量正相关，且有 $50 \%$ 的ECP可到达十二指肠被吸收利用，故玉米青贮ECP和AECP显著低于其他3种饲料。MP 为小肠可吸收蛋白质的总和，以苜蓿的MP含量最高，其次为DCGF，说明苜蓿蛋白质的营养价值优于DCGF，且DCGF 优于玉米青贮和羊草。
+
+饲粮的能氮平衡RENB 评价是通过计算饲粮的MCPTDNm和MCPRDP之差来体现的，因此利用CNCPS 评价单一饲料 RENB 时则以该饲料作为单一饲粮来估测[7]。根据张丽君等[23]的理论，如果MCPTDNm与MCPRDP差值为0，说明能氮平衡良好；如果差值为负值，则说明能量供给不足；反之，RDP供给不足。本试验中DCGF 和苜蓿的RENB 为负值，说明2种饲料能量供给不足，而玉米青贮和羊草RDP供给不足。以上营养供给值均属于模型预测值，能否在动物代谢试验中的得到相同的验证结果还有待于进一步的研究。
+
+3.4DCGF和3种粗饲料可消化养分含量和能值
+
+美国 NRC 模型根据纤维分析方法将饲料中CHO 划分为两部分，即非纤维性碳水化合物（NFC）和纤维性碳水化合物（FC）[12]。DCGF 和苜蓿都含有较高含量的 tdNFC 和 tdCP,这与其NFC 和CP含量较高有关，且tdNFC 含量与饲料的加工调制有关，即计算tdNFC 时需考虑 PAF[24]。而饲料CP 对能量供应所做的贡献也依赖于 ADICP 占CP 比例的多少，根据NRC（2001）[12]，tdCP与ADICP占CP比例成指数关系。4 种饲料中苜蓿 NDF 含量最低，DCGF 的 NDICP、ADL含量最低，故 DCGF 的 tdNDF 含量最高，而苜蓿 tdNDF 含量最低，即 4 种饲料中 DCGF 的 NDF 对能量供应的贡献值最大。Biricik 等[14]和 Kelzer 等[21]也报道DCGF 的瘤胃 tdNDF 含量高，可发酵的纤维性碳水化合物比例较高。根据 NRC 模型，饲料TDNm 含量为各种真可消化养分之和减去粪中可代谢 TDNm（7%DM）[24]，因而4种饲料中 TDNm 含量由高到低依次为DCGF、苜蓿、玉米青贮和羊草，因而各能值也有相同的趋势。表明在提供能量方面，DCGF 具有最大的优势，其次为苜蓿，而羊草所能提供的能量较少。但是，试验原料的可消化养分及各能值是基于前人的预测模型所得，非体内代谢试验实测值。模型的使用中假定饲料特性限制了能量的利用。饲料的成分和 DM 采食量对消化率及其能值具有显著影响，对于不能维持瘤胃最佳发酵状态的饲料，其能值的估计值可能偏高。
+
+4结论
+
+$\textcircled{1}$ DCGF 具有高水平的可利用CP、可利用NDF，与其他3种粗饲料相比，DCGF 可以为反刍动物提供更多的MCP、MP、ME，但是可均为模型推算结果，还需要在动物试验中进一步验证。$\textcircled{2}$ 根据4种饲料可提供的营养物质结果可知，DCGF具有较高的营养价值，可以为奶牛提供较高水平的可代谢能量和蛋白质，可以作为纤维类蛋白质饲料替代奶牛饲粮中部分粗饲料，如苜蓿，缓解我国优质粗饲料资源紧缺的压力。
+
+参考文献：
+
+[1]LOE E R,BAUER M L,LARDY G P.Grain source and processing in diets containing varying concentrations of wet corn gluten feed for finishing cattle[J].Journal of Animal Science,2006,84(4):986-996.   
+[2]FIRKINS J L,EASTRIDGE M L,PALMQUIST D L.Replacement of corn silage with dry corn gluten feed and sodium bicarbonate for lactating dairy cows[J].Journal of Dairy Science,1991,74(6):1944-1952.   
+[3]NUEZ-ORTiN W G,YU P Q.Estimation of ruminal and intestinal digestion profiles,hourly effective degradation ratio and potential N to energy synchronization of co-products from bioethanol processing[J].Journal of the Science of Food and Agriculture,2010,90(12):2058- 2067.   
+[4]AOAC.Official methods of analysis[S].16th ed.Arlington,V.A.:Association of Offcial Analytical Chemists,1995.   
+[5]张旭,蒋桂韬,王向荣,等.酶法测定谷物副产品中淀粉含量[J].广东饲料,2013,22(10):33- 35.   
+[6]VAN SOEST P J,ROBERTSON JB,LEWIS B A.Methods for dietary fiber,neutral detergent fiber,and non-starch polysaccharides in relation to animal nutrition[J].Journal of Dairy Science,1991,74(10):3583-3597.   
+[7]SNIFFEN C J,O'CONNOR J D,VAN SOEST P J,et al.A net carbohydrate and protein system for evaluating catle diets: II.carbohydrate and protein availability[J].Journal of Animal Science,1992,70(11):3562-3577.   
+[8] CHALUPA W,SNIFFEN C J.Carbohydrate,protein and amino acid nutrition of lactating dairy catte[M]//GARNSWORTHY P L,COLE D J A.Recent Advances in Animal Nutrition.Nottingham:Nottingham University Press,1994.   
+[9]杜晋平,任丽萍,赵金石,等.利用 CNCPS 研究玉米和豆粕中碳水化合物不同组分的瘤胃 降解和小肠消化[J].畜牧与饲料科学,2008,29(6):126-129.   
+[10]林曦.甜菜渣青贮营养价值的评定及其在奶牛生产中应用的研究[D].硕士学位论文.哈 尔滨:东北农业大学,2010.   
+[11]FOX D G,TYLUTKI T P,TEDESCHI L O,et al.The net carbohydrate and protein system for evaluating herd nutrition and nutrient excretion[Z].Ithaca:Cornell University,2000.   
+[12]NRC.Nutrient requirements of dairy catle[S].7th ed.Washington,D.C.:National Academy Press,2001.   
+[13]NRC.Nutrient requirements of beef cattle[S].7th ed.Washington,D.C.:National Academy Press,1996.   
+[14]BIRICIK H,GENCOGLU H,BOZAN B,et al.The effect of dry corn gluten feed on chewing activities and rumen parameters in lactating dairy cows[J].Italian Journal of Animal Science,2007,6(1):61-70.   
+[15] COBLENTZ W K,ABDELGADIR I E O,COCHRAN R C,et al.Degradability of forage proteinsbyinsituandinvitroenzymaticmethods[J].Journal ofDairy Science,1999,82(2):343-354.   
+[16]潘春方.湿玉米纤维饲料在奶牛生产中的应用及其保存技术的研究[D].博士学位论文. 哈尔滨:东北农业大学,2014.   
+[17]SARWAR M,FIRKINS J L,EASTRIDGE M L.Efect of replacing neutral detergent fiber of forage with soy hulls and corn gluten feed for dairy heifers[J].Journal of Dairy Science,1991,74(3):1006-1017.   
+[18]林谦,戴求仲,蒋桂韬,等.玉米及其加工副产品的营养价值评定[J].中国饲料,2013(4):18- 21.   
+[19]周荣,王加启,潘发明,等.饲料蛋白组分对反刍家畜常用饲料小肠吸收蛋白质含量的影 响[J].华北农学报,2010,25(增刊):165-169.   
+[20] 靳玲品,李艳玲,屠焰,等.应用康奈尔净碳水化合物-蛋白质体系评定我国北方奶牛常用 粗饲料的营养价值[J].动物营养学报,2013,25(3):512-526.   
+[21]KELZER J M,KONONOFF P J,TEDESCHI L O,et al.Evaluation of protein fractionation and ruminal and intestinal digestibility of corn milling co-products[J].Journal of Dairy Science,2010,93(6):2803-2815.   
+[22]NIE Z,HAN J,LIU T,et al.Hot topic:application of support vector machine method in prediction of alfalfa protein fractions by near infrared reflectance spectroscopy[J].Journal of Dairy Science,2008,91(6):2361-2369.   
+[23]张丽君,金双勇.试用瘤胃能氮平衡原理评价奶牛日粮[J].中国乳业,2005(11):33-34.   
+[24] (美)国家科学研究委员会.奶牛营养需要[M].孟庆翔，译.北京:中国农业大学出版   
+社,2002.   
+Comparison of Nutrition Values of Dry Corn Gluten Feed and Commonly Used Roughages using Cornell Net Carbohydrate and Protein System and National Research Council Models ² HAO Xiaoyan GAO Hong ZHANG Xingyi WANG Xiaofan DING Xue ZHANG Yonggen\* (Collge of Animal Science and Technology， Northeast Agricultural University， Harbin 150030，China)   
+Abstract: The aim of this study was to compare the nutrition values of dry corn gluten feed   
+(DCGF) and commonly used roughages for dairy cattle (alfalfa hay, corn silage and wildrye) using   
+Cornell net carbohydrate and protein system (CNCPS) and National Research Council (NRC)   
+models, and to analyze the feasibility of DCGF as fiber source for dairy catte. Feed samples were   
+collcted from diffrent farms and then nutrient composition was determined. The protein and   
+carbohydrate fractions were partitioned using CNCPS. At the same time, NRC models were used   
+to predict the digestible nutrient contents and energy values of four kinds of feedstuffs. The results   
+showed as follows: 1) the content of crude protein (CP) of DCGF was significantly higher than   
+those of corn silage and wildrye $( P { < } 0 . 0 5 )$ , and the content of neutral detergent fiber (NDF） was   
+significantly higher than that of alfalfa hay $( P { < } 0 . 0 5 )$ , however, the contents of acid detergent fiber   
+(ADF) and acid detergent lignin (ADL) of DCGF were significantly lower than those of other   
+three kinds of roughages ( $( P { < } 0 . 0 5 )$ . 2) The contents of rapidly degraded true protein (PB1) and   
+intermediately degraded true protein (PB2) factions of DCGF were significantly lower than those   
+of alfalfa hay $( P { < } 0 . 0 5 )$ ，and the contents of intermediately degraded carbohydrate (CB1） and slowly degraded carbohydrate (CB2） of DCGF were significantly higher than those of other roughages $( P { < } 0 . 0 5 )$ . 3) The content of metabolizable protein (MP) of alfalfa hay was the highest, and DCGF was at second. 4) Compared with other three kinds of roughages, the truly digestible nutrients at maintenance level and energy values for DCGF were the highest. The results indicate that DCGF has relatively high nutrition values and can be used in dairy catle diet as fiber feed instead of parts of roughages to relieve the pressure of high quality roughage and protein feeds shortage.   
+Key words: dry corn gluten feed; roughage; nutrition value; energy value

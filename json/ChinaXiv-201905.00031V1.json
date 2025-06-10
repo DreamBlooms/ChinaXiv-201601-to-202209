@@ -1,0 +1,613 @@
+[
+    {
+        "type": "text",
+        "text": "利用自适应选择算子结合遗传算法的机器人路径规划方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "易欣¹，郭武士¹，赵丽² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．四川省装备制造业机器人应用技术工程实验室，四川 德阳 61800;2.山西大学 软件学院，太原 030013)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在二维复杂环境中，为了避免机器人运动规划中可能出现的局部陷阱和过早收敛问题，提出一种改进的元启发式算法—自适应遗传算法。首先，利用随机Dijkstra算法创建初始种群；然后，在遗传算法的每一代中，改进所创建的路径，并用自适应算子替代常规选择算子；最后，通过搜索过程中的反馈信息，可以令自适应选择算子在整个算法运行中恰当地控制选择压力。为了验证所提方法的有效性，在 MATLAB中进行了仿真实验，并将所提方法与另外两种典型方法进行了对比。实验结果表明，提出的方法可以有效避免路径规划中的局部收敛问题，且在复杂环境中也可以产生可行路径。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：移动机器人；运动规划；遗传算法；自适应选择算子 中图分类号：TP391 doi:10.19734/j.issn.1001-3695.2018.11.0874 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Robot motion planning based on adaptive selection operator combined with genetic algorithm ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yi Xinl, Guo Wushi1, Zhao Li² (1.Sichuan Equipment Manufacturing IndustryRobotApplicationTechnologyEngineeringLaboratory,DeyangSichuan 618000, China; 2. School of Software,Shanxi University, Taiyuan O3o013, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Inorder to avoid local-trap and premature convergence of robot motion planning in 2D complex environments, this paper proposes an improved metaheuristics-adaptive genetic algorithm (GA).Firstly,it adoptes therandom Dijkstra algorithm to create initial population;secondly,ineach generationoftheGA,improves thecreatedpaths,andreplaces the conventionalselectionoperator in GA withanadaptiveone; finall,byusingfedback informationofthe search proce,the adaptive selection operator can control the selective pressure appropriately throughout the algorithm.To validate the efectivenessof the proposed method,compares the algorithm with two other methods in MATLAB.The results show that the proposed method can avoid the localconvergence problem in motion planing,and can generate feasible path in complex environments. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:mobile robot; motion planning; genetic algorithm; adaptive selection operator ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "具有自主运动能力的机器人一直都是工程界和学术界的研究焦点。因此，机器人运动规划问题已经成为计算机、控制等领域的研究人员的关注热点[I。然而机器人运动规划却是一个相对复杂的问题，如真实三维环境中的平移和旋转。一般来说，机器人的运动由与其自由度（degrees of freedom，DOF）数量相对应的多个参数决定。由于机器人运动规划的理论复杂度是DOF数量的指数倍，所以在大多数文献中，需要借助一些限制于假设来简化问题的求解，如简化环境中存在的障碍物的形状、机器人运动的类型和机器人的形状等。在本文中假设机器人运动环境为一个二维（twodimension，2D）平面，并且对路径中障碍物的形状没有限制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在许多研究中，障碍物只能以凸边形的形状出现；然而在本文中，障碍物可以任何形状存在。因此，所提出的算法能够解决更多的运动规划问题。一般来说，存在两种机器人运动环境[2]：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a）静态环境。其中障碍物的位置固定，并且在机器人朝向目标移动时不改变。b）动态环境。机器人移动时障碍物的位置可能会改变。本文中假设环境是静态的，且机器人的运动仅限于平移运动。此外，将机器人只显示为一个点，即点机器人。如果机器人的形状是多边形，则仍将其显示为点，但是会扩大障碍物以提供安全的余量。考虑到关于机器人运动、形状和环境的所有简化，机器人运动规划仍然是一个NP问题[3]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为了快速搜寻起点至终点的最佳路径，国内外学者进行了大量的研究，得到了很多有价值的成果。Lozano-Perez等人针对机器人在多面体障碍物之间运动问题，提出了一种基于可见度图的路径规划算法，并通过空间配置对其进行了扩展[4]。为了最大限度地减少机器人与障碍物的碰撞，Khatib首先提出了人工潜在场方法，建立由目标点和障碍物产生的吸引力场和排斥力场，机器人利用势函数的负斜率向目标移动[5]。然而这种方法可能会使机器人陷入潜在局部最小值。为了降低路径的不平滑和非连续的问题给机器人带来的影响，文献[6]利用B样条技术来逼近机器人运动路径，进而实现机器人路径规划。除了以上方法，近些年相关学者还提出了Voronoi图[7]、动态规划[8]、快速搜索随机树[9]、元胞自动机[10]、神经网络[11]、混成通信顺序进程[12]、蚂蚁算法[13]、元启发式[14等算法，取得了很多有价值的成果。但是由于这些方法在计算复杂度、局部最优、鲁棒性等方面的劣势，所以需要对这些方法进行改进。为了解决局部陷阱问题，文献[15]中提出了一种用于2D 环境中机器人运动规划的遗传算法（geneticalgorithm，GA），研究了GA在机器人运动规划中的应用潜力。在此基础上，文献[16]分别提出了基于并行精英遗传算法的机器人最优路径搜索与规划方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了实现在机器人从起点运动到目标点的不同路径中寻找一个在移动过程中不与任何障碍物发生碰撞的可行路径，同时降低计算复杂度，减少运算时间，提高复杂环境适应度，本文在前人研究的基础上，提出一种复杂2D环境中的基于自适应遗传算法（adaptive genetic algorithm,AGA）的机器人运动规划方法。首先，利用随机Dijkstra算法创建初始种群；其次，在遗传算法的每一代中，改进所创建的路径，并用自适应算子替代常规选择算子；最后，通过搜索过程中的反馈信息，可以令自适应选择算子在整个算法运行中恰当地控制选择压力。值得注意的是，机器人运动规划问题是一个约束优化问题。为了解决这个问题，基于AGA方法创建初始种群，生成了一个在短时间内具有适当价值的多样化初始种群，同时提高算法执行效率，实现计算复杂度和最佳可行解之间的动态平衡。此外，所提方法通过在主体中应用新的自适应选择算子来克服局部陷阱问题，该算子可以通过使用来自搜索程序的反馈信息实现在线选择压力的自动调整，进而提高个体的多样性，有助于避免算法过早收敛和局部优化。通过使用交叉和变异算子，在每一代中创建多个恰当的后代以达到最佳可行解。为了验证所提方法的有效性，在MATLAB中建立了仿真模型，并将所提方法与另外两种经典方法进行了对比分析，实验结果表明所提方法在最优路径选择和计算复杂度方面具有非常明显的优势。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 机器人运动规划概述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本章简要介绍机器人运动规划问题[17]。假设机器人的运动环境为 $E$ ，包括障碍物和机器人运动环境。在 $\\boldsymbol { \\varepsilon }$ 中，定义所有障碍物的集合为 $o$ ：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nO { = } \\{ o _ { 1 } , o _ { 2 } , . . . , o _ { m } \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $o _ { i }$ 是机器人运动环境的第 $i$ 个障碍。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义机器人不能移动的禁止空间 $\\boldsymbol { S } _ { f o r b }$ 为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { f o r b } = \\bigcup _ { i = 1 } ^ { m } O _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\boldsymbol { S } _ { f o r b }$ 是 $\\boldsymbol { \\mathbf { \\mathit { E } } }$ 中所有障碍物的集合。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义机器人可以自由移动的空间 $S _ { f r e e }$ 为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { f r e e } = E \\backslash S _ { f o r b }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图1给出了机器人运动环境 $E$ 、禁止空间 $S _ { f o r b }$ 和自由移动空间 $S _ { f r e e }$ 的示意图。图中，虚线区域是 $S _ { f o r b }$ ，除 $S _ { f o r b }$ 之外的区域是 $S _ { f r e e }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于上述的定义和符号，给出机器人运动规划问题的数学描述为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT \\big ( p _ { s t a r t } , p _ { t a r g e t } \\big ) = \\underset { p \\in \\Gamma } { \\arg \\operatorname* { m i n } } d ( p )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $T \\big ( p _ { s t a r t } , p _ { t a r g e t } \\big )$ 是起始点 $p _ { s t a r t }$ 与目标点 $p _ { t a r g e t }$ 之间的最优路径；集合 $\\Gamma$ 表示 $S _ { f r e e }$ 中起始点和目标点之间所有的可行路径；$d ( p )$ 表示路径 $p$ 的长度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$d ( p )$ 的数学表达式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\displaystyle d \\big ( p \\big ) = \\sum _ { i = 2 } ^ { n } \\lVert p _ { i } - p _ { i - 1 } \\rVert } \\\\ { \\displaystyle \\lVert p _ { i } - p _ { i - 1 } \\rVert = \\sqrt { \\big ( x _ { i } - x _ { i - 1 } \\big ) ^ { 2 } + \\big ( y _ { i } - y _ { i - 1 } \\big ) ^ { 2 } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\| p _ { i } - p _ { i - 1 } \\|$ 是点 $p _ { i }$ 和点 $p _ { i - 1 }$ 之间的欧式距离； $\\left( x _ { i } , y _ { i } \\right)$ 是 $p _ { i }$ 的坐标。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在上述数学模型的基础上，本文通过将机器人运动规划",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "问题建模为一个优化问题并对其进行求解，即可实现机器人路径规划的最优设计。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d0f247962c9832c14f1bafac901e0e51ba3368379fcdf0b816b19c9627225b7.jpg",
+        "img_caption": [
+            "图1机器人运动空间示例Fig. 1 Example of robot motion space"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 二维环境中新型路径规划方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "遗传算法（genetic algorithm，GA）是一种通过模拟自然进化过程来搜索最优解的方法，已经在实际工程中得到了管饭应用[18,19]。为了解决机器人运动规划问题，提出了一种新的GA，通过Dijkstra算法和基于随机的方法的组合创建具有不同个体的适当的初始种群，从而提高初始种群的质量；为了调整选择压力并防止算法的过早收敛，设计了基于秩的选择算子，从而实现选择算子的自动调整。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1个体描述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "机器人移动的最佳路径是指，在表型空间中机器人在不与任何障碍物发生碰撞的前提下，顺利到达目标点的路径。为了将问题的解从表型空间映射到基因型空间，需要对个体进行适当描述。在所提出的方法中，问题表示为：为每个解/路径分配一个个体，每个基因代表机器人运动环境中的一个点/基因，坐标为 $( x , y )$ ，通过将所有基因进行有机排列来为机器人运动设计路径，从而构成了GA算法的个体结构。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2初始种群",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "初始种群的选择对于GA算法来说非常重要，提出一种基于新型离散算法的初始种群创建方法。在传统算法中，从机器人运动环境 $E$ 中随机选择多个点，并以随机顺序将这些点创建为个体，且这些创建的个体有机会成为可行的路径。然而机器人运动环境越复杂，包含的障碍物越多，对于个体而言可行的机会越少，所创建的初始种群的质量越差。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "考虑到传统方法创建的可行个体的概率较低，提出了一种新型的可行个体创建方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)机器人运动环境网格化表示。将机器人的运动环境 $E$ 分割为一些相等的网格，如果每个网格的中心像素位于任一障碍物上，则将它从该组点中移除，如图2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)构建路径图。将步骤a)中剩下的可用点视为顶点，每个点只连接到其四个相邻点，连接两个顶点的边的权重等于两个顶点之间的距离，从而构成一个加权图。在该图中，所有顶点都包含于 $S _ { f r e e }$ ，然而该图的部分边可能与障碍物发生碰撞，而且不能保证图的所有边都包含于 $\\boldsymbol { S } _ { f r e e }$ ，如图3所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c)将起点和目标点添加到道路图中，通过将最近的顶点连接到起点，类似地通过将最近的顶点连接到目标点，来构建本质上为加权有向图的路径图。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ololoolololoolololo Ol0ioioiololololololo ololololololololololo Ol0lojojojolojolojolo Oloololololololololo Ololoiololololololol0 ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6ed4419e7224601dbe9a944a2c6a6f8646146fc939e8384f28232db396ab9e1e.jpg",
+        "img_caption": [
+            "图2机器人运动环境网格示例",
+            "图3路径图结构示例",
+            "Fig. 3 Example of path diagram structure "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了在路径图中找到从顶点到目标定点的最短路径，采用文献[20]中提及的Dijkstra 算法。最短路径的顶点创建了一个合适的个体，其对应着长度相对较短的路径，同时该个体尽可能不与任何障碍物发生碰撞。借助建立的机器人运动环境网格，可以利用上述算法创建不同的个体。如果网格化机器人运动环境中每个矩阵单元的长度发生改变，则路径图的顶点数量和图形状也会改变，进而导致创建的个体也会发生改变。所提初始种群的选取方法的流程如图4所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "值得注意的是，Dijsktra算法可以用于找到加权有向图中两个顶点之间的最短路径。针对所使用的数据结构的不同，Dijsktra算法存在三种常见的实现类型。本文使用基于二进制堆数据结构的、运行时间为 $O ( ( E + V ) \\log V )$ 的 Dijsktra 算法,其中： $\\boldsymbol { V }$ 表示图形顶点的数量； $E$ 表示图形边缘的数量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3选择算子",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在GA算法中，为了选择用于交叉的亲本，同时为了实现收敛速度和种群多样性的平衡，设计一种可以在线调整选择压力的基于等级的选择算子。为了选择合适的交叉个体，定义如下非线性选择概率：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { i } = \\lambda ( 1 - \\lambda ) ^ { r _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $P _ { i }$ 是第 $i$ 个个体的选择概率； $\\lambda$ 用来控制选择压力； $r _ { i }$ 是第 $i$ 个个体的秩。最佳个体的秩应为零，而最差的个体秩应等于 $P S - 1$ ， $P S$ 表示初始种群的大小。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由式(7)可得最佳个体的选择概率为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { \\mathrm { b } } = \\lambda\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "类似地，最差个体的选择概率为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { \\mathrm { w } } = \\lambda \\left( 1 - \\lambda \\right) ^ { P S - 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由式(8)(9)可知， $\\lambda$ 越大，合适个体被选择的概率就越大，不合适个体被选择的概率越小。如果不对GA中的选择压力进行合理调整，那么种群的多样性可能会丧失，且种群很快就会收敛于局部最优解。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c66b66514c7e84f4abfb0012c1409ffa267226b69fffb951866d812ada8943f5.jpg",
+        "img_caption": [
+            "Fig. 2 Example of robot motion environment grid ",
+            "图4初始种群创建流程",
+            "Fig.4Flow chart of initial population creation "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了解决上述问题，提出一种选择压力自动调节方法，通过在搜索过程中对结果进行有效分析，可以实现选择压力的精确调整，从而有效地保持种群的多样性，同时防止寻优算法的过早收敛。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用个体适应度的标准偏差来计算表征种群多样性的标准。标准偏差是从平均值的计算中观测种群多样性的最重要的标准之一，因此选择个体适应度的标准偏差来调整 $\\lambda$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "个体适应度的标准偏差计为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi = \\sqrt { \\frac { 1 } { n } \\sum _ { i = 1 } ^ { n } \\bigl ( f _ { i } - \\overline { { f } } \\bigr ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\phi$ 是个体适应度的标准偏差； $n$ 是个体数量； $f _ { i }$ 是第 $i$ 个个体的适应度； $\\overline { { f } }$ 是适应度的平均值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于 $t$ 和 $\\phi$ 的 $\\lambda$ 自动调整公式为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda ( t ) = \\left\\{ \\begin{array} { l l } { \\lambda ( t - 1 ) - 0 . 0 1 , \\phi < h _ { 1 } } \\\\ { \\lambda ( t - 1 ) , \\quad h _ { 1 } \\leq \\phi \\leq h _ { 2 } } \\\\ { \\lambda ( t - 1 ) + 0 . 0 1 , \\phi > h _ { 2 } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\lambda ( t )$ 表示第 $t$ 代的 $\\lambda$ ，且 $0 < \\lambda < 1$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式(11)的含义为：如果 $\\phi$ 的值小于阈值 $h _ { 1 }$ ，则种群的多样性会减少，因此必须减小 $\\lambda$ 的值以保持种群的多样性；如果 $\\phi$ 的值在阈值 $h _ { 1 }$ 和 $h _ { 2 }$ 之间，那么 $\\lambda$ 是常数；如果 $\\phi$ 的值大于阈值 $h _ { 2 }$ ，则表示有一个可用的多样性种群，此时通过增加 $\\lambda$ 的值可以适当增加选择压力，从而提高合适个体被选择的机会。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了使用预定概率来选择个体，采用基于随机通用采样的个体选择算法，该类算法具有速度快（仅需要运行一次算法）和精度高的优点。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用于交叉的第 $i$ 个个体的期望拷贝数为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE ( n _ { i } ) = \\gamma \\times P _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中：／是用于交叉的个体数量； $P _ { i }$ 是第 $i$ 个个体的选择概率； $n _ { i }$ 是第 $i$ 个个体的数量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4交叉算子",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了创建新的后代，需要借助单点交叉算子。首先，在每个个体的路径上随机选择一个点；其次，将两个父代的路径在所选择的点处进行互换。换言之，第一个后代的路径的一半是由第一个父代构建的，而另一半是由第二个父代构建的；第二个后代的路径的一半也是由第二个父代构建的，而其另一半是由第一个父代构建的。通过交叉运算过程，可以创建两个新的后代。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5变异算子",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "变异算子的作用是在后代中创建随机微小的变化以提高后代的稳定性，从而避免算法陷入免局部最优的可能性。本文选取的算子（随机选择的基因）是机器人运动路径上的一个点，通过研究该典型点的所有8个可能的邻点来选择产生最小值的最佳可能点，然后用新选择的点代替前一个点。图5显示了典型点的8个相邻点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ololo O1010 ololo ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.6适应度函数",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "机器人运动规划问题的目标是找到起点与目标点之间的最佳的无碰撞路径。为了达到目标，所提出方法的适应度函数必须考虑路径的可行性和质量。在这个问题中，个体路径的可行性可视为一种约束，目前已有各种方法来解决进化算法中的约束问题。这些方法包括直接约束处理（即算法运行过程中进行处理）和间接约束处理（即将所有约束转换为优化目标)。在完成约束处理的基础上，进化算法利用适应度函数来处理目标。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用间接方法来处理路径的可行性约束，适应度函数为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf = \\left\\{ \\begin{array} { l l } { \\displaystyle { \\sum _ { i = 1 } ^ { n - 1 } d \\big ( p _ { i } , p _ { i + 1 } \\big ) } , \\qquad { \\overrightarrow { \\mathrm { H J } } } \\large { \\uparrow } { \\overrightarrow { \\mathrm { J } } } \\large { \\downarrow } { \\overrightarrow { \\mathrm { H } } } \\large { \\uparrow } { \\overrightarrow { \\mathrm { K } } } } \\\\ { \\displaystyle { \\sum _ { i = 1 } ^ { n - 1 } d \\big ( p _ { i } , p _ { i + 1 } \\big ) } + w ( t ) \\times p , { \\overleftrightarrow { \\mathrm { K } } } { / } { \\mathrm { H } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $d \\big ( p _ { i } , p _ { i + 1 } \\big )$ 是机器人运动路径上两个连续点之间的欧几里德距离； $w ( t )$ 为惩罚权重； $p$ 为惩罚系数，用来表示个体的可行性约束的违反率，可以用来表征机器人运动路径的碰撞速率。式(13)中，可行个体的适应度函数等于机器人运动路径的长度。如果机器人运动路径不可行，则需要对路径增加一些代价。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "第 $t$ 代中与惩罚相关的惩罚权重 $w \\big ( t \\big )$ 的表达式为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw ( t ) { = } A \\cdot \\theta ^ { t }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $w ( t )$ 表示在GA第 $t$ 代中与惩罚相关的权重； $A$ 与 $\\theta$ 均为常数，通常取 $A { = } 1 0 0$ ， $\\scriptstyle \\theta = 1 . 0 0 1$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式(14)表明，通过增加GA的代数，惩罚效应可以呈现指数级增加。由此可知，通过增加GA的代数，可以将不可行的个体从种群中移除，这是因为不可行的个体具有更高的惩罚值。当这些不可行个体被从种群中移除时，所提方法可以确保算法在可行路径上工作并尝试减少其惩罚。因此，如果GA运算符（如交叉运算符等）导致可行的个体变为不可行的个体，则必须向其分配高的惩罚值，从而将其从种群中移除。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.7生存选择 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了确保获得正确的解决方案，在算法运行过程中保持种群大小不变的同时，需要采用基于精英主义的生存选择方法，即在保留当代一半个体的同时，另一半个体被利用所提方法创建新个体替代。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.8终止条件",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了在得到最优解的同时终止所提算法，给出如下终止条件：代的数量达到200；算法的最大运行时间超过预定时间（本文取为 $5 \\mathrm { m i n }$ )；算法找到了全局最优解（即开始点和目标点之间的欧几里德距离最小)；在100个连续代中，最佳个体的适应度函数值保持不变。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 实验结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了验证所提方法的有效性，在MATLAB中进行了仿真分析，同时设计了6种环境用于模拟机器人在真实世界中的运动环境（图6)，实验结果如表1所示。计算机硬件仿真平台的参数如下：惠普690-078CCN，处理器i7-8700，主频$1 6 \\mathrm { { G H z } }$ ，机械硬盘1T,固态硬盘256GB，独显GTX10606G。由图6和表1可知，所提方法可以令机器人在不同环境下以最优路径实现从出发点到目标点的快速移动，且运行时间均小于5s,表明所提方法可以在2D环境中实现机器人的快速、高精度、无碰撞路径规划。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5. 店 (a)环境1 (b)环境2 (a)Environment 1 (b)Environment 2 经 牌5 (c)环境3 (d)环境4 (c)Environment 3 (d)Environment 4 仓 - (e)环境5 (f)环境6 (e) Environment 5 (f) Environment 6 ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/dd3550156d622b04e5f4ae5b71bb4e6963a6077a8505b45f609c0b4b59df6909.jpg",
+        "table_caption": [
+            "Table 1Experimental results of proposed method in six environment: "
+        ],
+        "table_footnote": [
+            "图7给出了随着迭代次数的增加，所提方法在六种环境中适应度函数的变化趋势。其中横轴代表迭代次数，纵轴代"
+        ],
+        "table_body": "<html><body><table><tr><td>环境</td><td>不可行解的数量</td><td>最佳适应度值</td><td>代的数量</td><td>运行时间/s</td></tr><tr><td>1</td><td>0</td><td>21.56</td><td>104</td><td>3.62</td></tr><tr><td>2</td><td>0</td><td>19.78</td><td>100</td><td>3.58</td></tr><tr><td>3</td><td>0</td><td>25.61</td><td>110</td><td>4.11</td></tr><tr><td>4</td><td>0</td><td>28.13</td><td>101</td><td>4.02</td></tr><tr><td>5</td><td>0</td><td>21.76</td><td>103</td><td>3.81</td></tr><tr><td>6</td><td>0</td><td>17.69</td><td>107</td><td>3.04</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表200次实验后适应度函数的平均值和最佳值。由结果可知，所提方法可以实现适应度函数值的快速收敛，同时保证适应度函数的平均值和最佳值趋于一致。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了展示所提遗传算法在解决机器人路径规划中的优势：将所提方法与文献[21 和[22]中的已有遗传算法进行了对比实验分析，实验结果如表2、3所示。由实验结果可知，所提方法可以实现机器人路径寻优，且由于所提方法具备算子自动调整功能，可以防止算法的过早收敛，所以不存在不可行解。虽然所提方法的代数较多，但在两种环境中的计算时间与文献[21]和[22]相比并无太大优势，但这样的计算速度是可以满足机器人运动对时效性的要求的。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d1d6b662d74716993f89186a8bc86f97776017ba21e73e2f09a4ccdc5aaf73a2.jpg",
+        "img_caption": [
+            "图7所提方法在六种不同环境中的性能",
+            "Fig.7Performance of proposed method in six different environments "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/9a972412b64fb2f28ef0a983b5a195a9d119d0e104fb31542cd8049a244a1a1a.jpg",
+        "table_caption": [
+            "表1所提方法在六种环境中的实验结果",
+            "表2机器人运动环境1中不同方法的实验结果"
+        ],
+        "table_footnote": [
+            "表3机器人运动环境2中不同方法的实验结果"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">environment 1</td></tr><tr><td>方法</td><td colspan=\"3\">不可行解的数量最佳适应度值代的数量计算时间</td></tr><tr><td>文献[21]中的方法</td><td>13 35.62</td><td>27</td><td>2.89s</td></tr><tr><td>文献[22]中的方法</td><td>9 33.91</td><td>21</td><td>3.04s</td></tr><tr><td>所提出的方法</td><td>0 26.59</td><td>115</td><td>3.25s</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/9801deb099380bca5741d812517892073b6d578c00e9e4aadfff97f873de8998.jpg",
+        "table_caption": [
+            "Table 2Experimental results of different methods in robot motior ",
+            "Table 3Experimental results of different methods in robot motior ",
+            "environment 2 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>方法</td><td colspan=\"4\">不可行解的数量最佳适应度值代的数量计算时间</td></tr><tr><td>文献[21]中的方法</td><td>46</td><td>31.25</td><td>58</td><td>3.17s</td></tr><tr><td>文献[22]中的方法</td><td>62</td><td>29.68</td><td>61</td><td>3.21s</td></tr><tr><td>所提出的方法</td><td>0</td><td>21.13</td><td>107</td><td>3.61s</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "针对2D环境中机器人运动规划问题，本文提出了一种基于新型遗传算法的路径规划方法：通过Dijkstra算法和随机生成方法创建了初始种群；在算法的每一代中，改进所创建的路径。在所提方法中，利用自适应算子替代现有遗传算法中的常规选择算子；同时通过使用搜索过程中的个体适应度值和标准偏，自适应地选择算子，从而在整个算法运行中合理地控制选择压力。此外，基于提出的自动调节方法可视实现选择算子的自动调整，从而防止算法的过早收敛，进而有效地保持个体的多样性。实验结果表明，与其他现有遗传方法相比，所提方法在可行路径搜寻中具有非常明显的优势。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]陈果，刘金根，韩世鹏.基于导管机器人的变论域模糊 PID 控制研 究[J]．计算机应用研究，2018，35(2):471-474.(ChenGuo,Liu Jingen,Han Shipeng.Variable universe fuzzy PID control based on catheter robot [J].Application Research of Computers,2018,35 (2):   \n471-474. ) [2]Ayusawa K,Yoshida E.Motion retargeting for humanoid robots based onsimultaneous morphing parameter identification and motion optimization [J].IEEE Trans on Robotics,2017,33 (6):1343-1357. [3]Alonso-Mora J，Beardsley P,Siegwart R.Cooperative collision avoidance for nonholonomic robots [J].IEEE Trans on Robotics,2018,   \n34(2):404-420. [4]吕春杉，翁文国，杨锐，等．基于运动模式和元胞自动机的火灾环境 下人员疏散模型[J].清华大学学报：自然科学版，2007,47(12): 2163-2167. (Lyu Chunshu, Weng Wenguo,Yang Rui, et al. Evacuation model in fire environment based on motion model and cellular automata [J].Journal of Tsinghua University :Natural Science Edition ,2007,47 (12): 2163-2167.)   \n[5]Castelletto V,Kirkham S,Hamley I W,et al.Self-assembly of the tol-like receptor agonist macrophage-activating lipopeptide MALP-2 and of its constituent peptide [J].Biomacromolecules,20l6,17 (2): 631.   \n[6]KaflePR,Sharma S,Robotham A SG,et al. Galactic googly: the rotation-metallicity bias in the inner stellar halo of the milky way [J]. Monthly Notices of the Royal Astronomical Society,20l7,470 (3): 2959-2971.   \n[7] Huang Jin,Hu Peng,Wu Kai,et al.Optimal time-jerk trajectory planning for industrial robots [J].Mechanism & Machine Theory,2018, 121 (5): 530-544.   \n[8]Gokeler A,Bisschop M,Myer G D,et al. Immersive virtual reality improves movement patterns in patients after ACL reconstruction: implications for enhanced criteria-based return-to-sport rehabilitation [J].Knee Surgery Sports Traumatology Arthroscopy， 2016,24（7): 2280-2286.   \n[9]樊晓平，李双艳．带滚动约束轮移式机器人动态规划的研究[J].控 制与决策，2005，20(7):786-788.(Fan Xiaoping，Li Shuangyan. Research on dynamic planning of roling constrained wheeled robot [J]. Control and Decision-making,2005,20(7): 786-788.）   \n[10]杨柯，葛彤，王旭阳．水下自重构机器人游动构形的稳定性分析[J]. 哈尔滨工程大学学报,2016,37(7):891-895.(Yang Ke,Ge Tong, Wang Xuyang. Stability analysis of swimming configuration of underwater self-reconfigurable robot [J]. Journal of Harbin Engineering University,2016,37(7): 891-895.)   \n[11]周亚丽，张奇志．基于脉冲推力的半被动双足机器人无模型神经网 络控制[J].计算机应用研究,2018,35(1):56-61.(Zhou Yali,Zhang Qizhi.Model-free neural network control of semi-passive biped robot based on impulse thrust [J].Application Research of Computers,2018, 35 (1): 56-61.)   \n[12]刘涛，王淑灵，詹乃军．多机器人路径规划的安全性验证[J].软件 学报,2017,28 (5):1118-1127.(Liu Tao,Wang Shuling, Zhan Naijun. Safety verification of multi-robot path planning[J].Journal of Software, 2017,28 (5): 1118-1127.)   \n[13]朱庆保．动态复杂环境下的机器人路径规划蚂蚁预测算法[J].计 算机学报，2005,28(11):1898-1906.(Zhu Qingbao.Ant prediction algorithms for robot path planning in dynamic and complex environment [J]. Journal of Computer Science,2005，28 (11): 1898-1906. )   \n[14] Savsani P, Jhala R L,Savsani V J.Comparative study of different metaheuristics for the trajectory planning of a robotic arm [J].IEEE Systems Journal,2016,10 (2): 697-708.   \n[15] Xiao Jiang,Michalewicz Z, Zhang Lei,et al.Adaptive evolutionary planner/navigator for mobile robots[J]. IEEE Trans on Evolutionary Computation,1997,1(1): 18-28.   \n[16] Hocaoglu C, Sanderson AC. Planning multiple paths with evolutionary speciation[J].IEEE Trans on Evolutionary Computation,20o1,5(3): 169-191.   \n[17]郑健，黄敏，张腾，等．求解指路标志指引路径规划问题的改进人工 蜂群算法 [J].计算机应用研究,2017,34(8):2355-2359.(Zheng Jian, Huang Min, Zhang Teng,et al. Improved artificial bee colony algorithm for solving path planning problem of guidance signs [J].Application Research of Computers,2017,34(8): 2355-2359.)   \n[18]王赞，樊向宇，邹雨果，等．一种基于遗传算法的多缺陷定位方法 [J]．软件学报,2016,27(4):879-900.(Wang Zan,Fan Xiangyu, Zou Hugo,et al.A multi-defect location method based on genetic algorithm [J].Journal of Software,2016,27(4): 879-900.)   \n[19] Gong Dong,Sun Jian,Miao Zheng.A set-based genetic algorithm for interval many-objective optimization problems [J]. IEEE Trans on Evolutionary Computation,2018,22 (1): 47-60.   \n[20] Adhwarjee D K.Finding the shortest path by adhwarjee's algorithm and comparison of this powerful method with Dijkstra's algorithm [J]. International Journal of Mathematics in Operational Research,2018,13 (2): 269-279.   \n[21] Refoufi S,Benmahammed K.Control of a manipulator robot by neuro-fuzzy subsets form approach control optimized by the genetic [J]. ISA Transactions,2018,77 (5): 133-145.   \n[22]王雷，李明，唐敦兵，等．基于改进遗传算法的机器人动态路径规划 [J]．南京航空航天大学学报，2016,48(6):841-846.(WangLei,Li Ming,Tang Dunbing,et al.Robot dynamic path planning based on improved genetic algorithm [J].Journal of Nanjing University of Aeronautics and Astronautics,2016,48 (6): 841-846.) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

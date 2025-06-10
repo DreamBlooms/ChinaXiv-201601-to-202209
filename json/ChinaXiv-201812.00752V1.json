@@ -1,0 +1,591 @@
+[
+    {
+        "type": "text",
+        "text": "不同锌添加水平饲粮中添加枯草芽孢杆菌对肉鹅生长性能、屠宰性能、肉品质和养分利用率的影响1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "柯昌娇 王宝维\\* 葛文华 张名爱岳　斌龙建华 刁翠萍 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（青岛农业大学优质水禽研究所，国家水禽产业技术体系营养与饲料功能研究室，青岛",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "266109) ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在研究不同锌添加水平饲粮中添加枯草芽孢杆菌对肉鹅生长性能、屠宰性能、肉品质和养分利用率的影响，旨在确定添加枯草芽孢杆菌条件下的饲粮锌适宜添加水平。选择体况相近的5周龄五龙鹅 360只，随机分为6组，每组6个重复，每个重复10只鹅。对照组在基础饲粮中添加 $8 0 \\mathrm { m g / k g }$ 锌，不添加枯草芽孢杆菌； $\\mathrm { \\Delta I \\sim V }$ 组为试验组，在基础饲粮中分别添加0、20、40、60、 $8 0 \\mathrm { m g / k g }$ 锌，枯草芽孢杆菌添加水平均为 $2 5 0 ~ \\mathrm { m g / k g }$ 。试验期11周。结果表明：1）IⅢ组肉鹅的体重和平均日增重显著高于Ⅰ、 $\\mathrm { \\Delta V }$ 组（ $\\textstyle P { \\ < } 0 . 0 5 .$ ），IV组肉鹅的料重比显著低于Ⅰ、 $\\mathrm { \\Delta V }$ 组（ $P { < } 0 . 0 5$ ）。饲粮中锌添加水平为 $4 7 . 5 \\mathrm { m g / k g }$ 时平均日增重最大，饲粮中锌添加水平为 $1 5 . 0 \\mathrm { m g / k g }$ 时料重比最低。2）III、 $\\mathrm { I V }$ 、V组肉鹅的屠宰率显著高于Ⅰ、 $\\mathrm { I I }$ 组（ $_ { . P < 0 . 0 5 }$ ）。3） $\\mathrm { I I }$ 、IⅢ组肉鹅的肌肉失水率显著低于 $\\mathrm { I V }$ 、 $\\mathrm { \\Delta V }$ 组（ $_ { . } { \\cdot } { \\cdot } { \\cdot } 0 . 0 5 \\rangle$ 。4）ⅡI、III、IV组肉鹅的粗蛋白质利用率显著高于I组（ $. P { < } 0 . 0 5$ ）；IV组肉鹅的粗脂肪利用率极显著高于Ⅱ组（ $\\scriptstyle \\cdot - 0 . 0 1$ ），显著高于 $\\mathrm { \\Delta V }$ 组（ $_ { . } { \\cal P } { < } 0 . 0 5 )$ ）；II、III、IV组肉鹅的粗纤维利用率显著高于Ⅰ、 $\\mathrm { \\Delta V }$ 组 $\\cdot P { < } 0 . 0 5$ ）；I、I、组肉鹅的锌利用率显著低于 $\\mathrm { I V }$ 、V组（ $_ { , P < 0 . 0 5 ) }$ 。5）II、III组肉鹅的排泄氮显著低于I组（P<0.05），IV、V组肉鹅的氮利用率显著高于Ⅰ、ⅡI、I组（ $\\scriptstyle P < 0 . 0 5 .$ ）。6）通过配对 $t$ 检验分析，与对照组（未添加枯草芽孢杆菌）相比，V组（添加枯草芽孢杆菌）肉鹅的体重、屠宰率、胸肌率、腹脂率、肌肉红度值以及粗蛋白质、中性洗涤纤维、氮利用率均显著增加（ $_ { . P < 0 . 0 5 }$ ）。由此可见，饲粮中添加枯草芽孢杆菌和锌均能够提高生长性能、屠宰性能及粗蛋白质、粗脂肪、粗纤维、锌利用率，减少锌和氮排放量。在饲粮中添加 $2 5 0 ~ \\mathrm { m g / k g }$ 枯草芽孢杆菌条件下,锌适宜添加水平为 $1 5 . 0 { \\sim } 4 7 . 5 ~ \\mathrm { m g / k g } \\circ$ （204关键词：枯草芽孢杆菌；锌；鹅；生长性能；屠宰性能；肉品质；养分利用率中图分类号：S835 文献标识码： 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "锌是动物生长过程中所必需的微量元素，对动物的生长发育和机体代谢具有重要的作用，因此被称为“生命元素”。枯草芽孢杆菌对二价金属离子具有吸附作用，可吸附肠道内的二价金属离子，使其与自身产生的氨基酸等化合物形成螯合物，从而被机体吸收或排出体外，对生物体的健康生长具有促进作用。随着我国养殖业的快速发展，养殖业带来的环境污染问题也日益严重。由于重金属污染产生积累性、不可逆性和长期性等后果，这一领域的研究一直是国内外环境科学、生态科学等领域的研究热点[1]。不能被机体吸收而被排放的锌是重金属污染中一个重要的污染物质。为此，开展低锌水平饲粮中添加枯草芽孢杆菌的研究具有重要的意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "大量研究发现，乳酸杆菌可产生一种抗细菌物质，可以抑制肠道内菌群的腐败产物，改善肠道环境，从而增进健康、延长寿命[2]。枯草芽孢杆菌作为微生态制剂的一种，可以有效地改善肠道菌群的组成，促进机体对营养物质的吸收。Lopez等[3研究指出，芽孢杆菌属菌株均有强大的吸附金属能力，这是因为金属离子能够与该菌细胞表面上的阴离子相互作用而被固定。Jayaraman 等[4]研究发现，枯草芽孢杆菌能够抑制由产气荚膜梭菌引起的肉仔鸡坏死性肠炎，提高肉仔鸡的肠道健康水平。锌是动物体内功能最多的微量元素之一，家禽的生长、初羽和骨骼发育都离不开锌，锌不仅参与动物体内三大物质、核酸、维生素以及微量元素等的代谢，而且六大酶系中近300 多种酶的活性都与锌有关[5，它是骨骼发育、生殖、免疫、凝血等生理功能所必需的。目前，关于锌和枯草芽孢杆菌单一功能的研究较多，但是关于锌与枯草芽孢杆菌协同作用的研究较少，尤其是枯草芽孢杆菌减少锌添加水平方面的报道还处于空白。因此，本试验以5\\~15周龄五龙鹅为动物模型，研究不同锌添加水平饲粮中添加枯草芽孢杆菌对其生长性能、屠宰性能、肉品质和养分利用率的影响，旨在确定添加枯草芽孢杆菌条件下的饲粮锌适宜添加水平，为微量元素减量化使用提供技术支撑。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验动物及设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选择5周龄体况相近的五龙鹅 360只，采用随机分配编号法，随机分为6组，每组6个重复，每个重复10只鹅（公母各占1/2）。试验设计如表1所示，对照组在基础饲粮中添加 $8 0 \\mathrm { m g / k g }$ 锌，不添加枯草芽孢杆菌； $\\mathrm { \\Delta I \\sim V }$ 组为试验组，在基础饲粮中分别添加0、20、40、60和 $8 0 \\mathrm { m g / k g }$ 锌，枯草芽孢杆菌添加水平均为 $2 5 0 ~ \\mathrm { m g / k g }$ 。试验期11周。试验鹅由青岛农业大学优质水禽研究所育种基地提供，试验用锌源为7个结晶水的硫酸锌，购自浙江新维普添加剂有限公司(有效成分 $9 8 \\%$ ，枯草芽孢杆菌购自江苏远方中汇生物科技有限公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/e230feefb333bdbfca22fb004491e7b708dcd1dde352dbf2232265fad0403600.jpg",
+        "table_caption": [
+            "Table1Experimental design mg/kg "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"6\">组别Groups</td></tr><tr><td>对照 Control</td><td>I</td><td>I</td><td>Ⅲ</td><td>IV</td><td>V</td></tr><tr><td>锌Zinc</td><td>80</td><td></td><td>20</td><td>40</td><td>60</td><td>80</td></tr><tr><td>枯草芽孢杆菌Bacillus subtilis</td><td></td><td>250</td><td>250</td><td>250</td><td>250</td><td>250</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验饲粮 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验用基础饲粮以玉米和豆粕为主要原料，参照 NRC(1994)家禽需要量中推荐的鹅饲粮营养水平设计配方，基础饲粮组成及营养水平见表2。采用等离子体发射光谱仪测得基础饲粮中锌含量为 $2 2 . 6 5 \\mathrm { m g / k g }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "% ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/3d5491115d04bb0f1bfcb369f991b8569cca0c0c5006c8028c789b4c930e37d3.jpg",
+        "table_caption": [
+            "表2基础饲粮组成及营养水平 (风干基础)",
+            "Table 2Composition and nutrient levels of the basal diet（air-dry basis）"
+        ],
+        "table_footnote": [
+            "1)多维和微量元素为每千克饲粮提供 Multivitamin and trace element provided the following per $\\mathbf { k g }$ of the diet:$\\mathrm { V D } _ { 3 } 2 0 0 \\mathrm { I U }$ ， $\\mathrm { V A } _ { 1 } 5 0 0 \\mathrm { m g }$ ， $\\mathrm { V E } _ { 1 } 2 . 5 \\mathrm { m g }$ ， $\\mathrm { V K } _ { 3 } 1 . 5 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 } 2 . 2 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 2 } 5 . 0 \\ : \\mathrm { m g }$ ，烟酸 nicotinic acid $6 5 ~ \\mathrm { m g }$ 泛酸 pantothenate $1 5 ~ \\mathrm { m g }$ ， $\\mathrm { V B } _ { 6 } 2 \\log$ ，生物素 biotin $0 . 2 ~ \\mathrm { m g }$ ，叶酸 folic acid $0 . 5 \\mathrm { m g }$ ，胆碱choline $1 0 0 0 \\mathrm { m g }$ Fe $8 5 ~ \\mathrm { m g }$ ， $ { \\mathrm { M n } } 8 0  { \\mathrm { m g } }$ ， $\\mathrm { C u } 2 0 \\mathrm { m g }$ ， $\\mathrm { ~ I ~ } 0 . 4 2 \\mathrm { ~ m g ~ }$ ， $\\mathrm { S e } 0 . 3 \\mathrm { m g }$ ， $\\mathrm { C o } 2 . 5 \\mathrm { m g }$ 。"
+        ],
+        "table_body": "<html><body><table><tr><td>项目Items 含量Content</td></tr><tr><td>原料 Ingredients</td></tr><tr><td>玉米 Corn 56.80</td></tr><tr><td>豆粕 Soybean meal 16.00</td></tr><tr><td>菜籽粕 Rapeseed meal 4.00</td></tr><tr><td>花生粕 Peanut meal 2.00</td></tr><tr><td>干酒糟及其可溶物 DDGS 5.00</td></tr><tr><td>玉米秸秆 Corn straw 15.00</td></tr><tr><td>磷酸氢钙 CaHPO4 1.00</td></tr><tr><td>石粉Limestone 2.00</td></tr><tr><td>食盐 NaCl 0.24</td></tr><tr><td>多维Multivitaminl) 0.30</td></tr><tr><td>微量元素 Trace elementl) 0.20</td></tr><tr><td>合计Total 100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td></tr><tr><td>代谢能ME/（MJ/kg) 3.06</td></tr><tr><td>粗蛋白质 CP 15.82</td></tr><tr><td>粗纤维CF 7.51</td></tr><tr><td>赖氨酸Lys 0.91</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys 0.68</td></tr><tr><td>钙Ca 1.08</td></tr><tr><td>有效磷P 0.33</td></tr><tr><td>锌 Zn/(mg/kg) 22.65</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2)锌为实测值，其他营养水平为计算值。Zn was a measured value,while other nutrient levels were calculated values. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 饲养管理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "饲养试验开始前对鹅舍及器具进行冲洗和烧碱水喷雾消毒，然后用福尔马林和高锰酸钾（每 $1 ~ \\mathrm { m } ^ { 3 }$ 加 $2 8 ~ \\mathrm { m L }$ 福尔马林， $1 4 { \\mathrm { g } }$ 高锰酸钾）熏蒸，密闭门窗24h。1周后开始试验。试验鹅采用网床饲养方式，全期自由采食，自由饮水。试验前鹅舍进行充分冲洗和严格消毒，试验期内每周消毒2次。用干湿球温度计测量鹅舍内温度和湿度，每天记录3次，分别为08:00、14:00 和 20:00。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4 测定指标及方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.1 生长性能指标的测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在第15 周龄末，以重复为单位分别进行空腹称重，计算5\\~15周龄的平均日增重(ADG);统计每日耗料量，计算平均日采食量（ADFI）；每天记录各组死淘情况，结合三者计算料重比（F/G）[6]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 屠宰性能指标的测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在第15 周龄末，从每组中分别抽取12只体重接近该组平均体重的鹅，每重复2只（公母各占1/2），共72只，禁食 $1 2 \\mathrm { h }$ 后记录活体重，颈静脉放血致死，按照《家禽生产性能名词术语和度量统计方法》(NY/T823-2004)用湿法拔毛冽干水分后记录屠体重，测定记录屠体重、半净膛重、全净膛重、腹脂重、胸肌重和腿肌重，并计算屠宰率、半净膛率、全净膛率、胸肌率、腿肌率和腹脂率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.3 肉品质指标的测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "选择15周龄末屠宰的试验鹅，用手术刀在鹅胸大肌中央部位采取肉样，放置在 $2 5 \\mathrm { ~ \\textdegree ~ }$ 条件下，发色 $3 0 \\mathrm { m i n }$ 后进行肌肉品质测定，用日本全自动色彩色差计测定胸肌肉色，用物性测试仪（TA-XTPLUS）测定剪切力，用便携式酸度计（HANHA-HI9025）测定pH，用压力计测定失水率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.4养分利用率的测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在第15周龄末，从各组随机抽取6只鹅（公母各占1/2）移入代谢笼（专利号：200720177297）进行饲养，预试期4d，禁食1d后正式试验，试验期3d，自由饮水，每天分别饲喂 $1 2 0 \\ \\mathrm { g }$ 的饲粮。在代谢笼下放置集粪盘，采用全收粪法，定时收集连续4d的排泄物，盐酸固氮，混合后取粪样。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "待测饲料粉碎至 $4 0 \\mathrm { m m }$ ，低温干燥保存。粪样在 $6 5 { \\sim } 7 5 ^ { \\circ } \\mathrm { C }$ 烘箱中烘干，然后用小型万能粉碎机将干粪样粉碎。代谢能（ME）采用氧弹法进行测定，粗蛋白质（CP）含量采用凯式半自动定氮分析仪进行测定，锌含量采用等离子体发射光谱仪（ICP)进行测定，粗纤维",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（CF）、中性洗涤纤维（NDF）、酸性洗涤纤维（ADF）含量采用ANKOM公司的ANKOM220Fiber Analyzer设备进行测定，粗脂肪（EE）含量采用乙醚浸提法进行测定。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5 数据处理与统计分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用 SPSS 22.0 软件的单因素方差分析(one-way ANOVA)方法，分析饲粮不同锌添加水平下添加枯草芽孢杆菌对各项指标的影响，对饲粮锌水平进行线性和二次关系分析。为了检验枯草芽孢杆菌的添加效果，对对照组和枯草芽孢杆菌组（V组）的结果进行配对 $t$ 检验（2组饲粮中锌添加水平均为 $8 0 \\mathrm { m g / k g }$ ，对照组不添加枯草芽孢杆菌，V组添加 $2 5 0 \\mathrm { m g / k g }$ 枯草芽孢杆菌）。将数据作为最小二乘法和标准误差（SEM)表示。 $P { < } 0 . 0 5$ 表示差异显著， $P { < } 0 . 0 1$ 表示差异极显著。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1不同锌添加水平饲粮中添加枯草芽孢杆菌对肉鹅生长性能的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，饲粮锌添加水平对肉鹅体重、平均日增重和料重比影响极显著（ $_ { \\cdot } P { < } 0 . 0 1 \\$ ）。IⅢ组肉鹅的体重和平均日增重最高，显著高于I、 $\\mathrm { \\Delta V }$ 组（ $\\cdot P { < } 0 . 0 5 \\rangle$ ）；IV组肉鹅的料重比最低，显著低于I、V组（ $\\cdot P { < } 0 . 0 5$ ）。各组间平均日采食量没有显著差异（ $\\scriptstyle P > 0 . 0 5 { \\mathrm { . } }$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3不同锌添加水平饲粮中添加枯草芽孢杆菌对肉鹅生长性能的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/46186088c4c70a912013dd033c037b54cf6d55e2ed50a8469506a644f80a25eb.jpg",
+        "table_caption": [
+            "Table 3Effects of Bacillus subtilis supplementation in different zinc supplemental level diets on growth performance of meat geese "
+        ],
+        "table_footnote": [
+            "同行数据肩标相同小写字母或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，相邻小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，相间小写字母表示差异极显著 $( P { < } 0 . 0 1 )$ 。下表同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">项目Items</td><td colspan=\"5\">组别Groups</td><td colspan=\"4\">P值P-value</td></tr><tr><td>I</td><td>Ⅱ</td><td>Ⅲ</td><td>IV</td><td>V</td><td>SEM</td><td>锌 Zinc Linear</td><td>线性</td><td>二次 Quadratic</td></tr><tr><td>体重BW/kg</td><td>3.92c</td><td>4.10abc</td><td>4.27a</td><td>4.12ab</td><td>3.93bc</td><td>0.04</td><td>0.008</td><td>0.786</td><td>0.001</td></tr><tr><td>平均日增重 ADG/g</td><td>30.83b</td><td>31.16b</td><td>32.70a</td><td>31.59ab</td><td>29.53c</td><td>0.36</td><td>0.003</td><td>0.116</td><td>0.002</td></tr><tr><td>平均日采食量 ADFI/g</td><td>212.29</td><td>203.51</td><td>207.64</td><td>205.58</td><td>221.78</td><td>3.07</td><td>0.363</td><td>0.339</td><td>0.099</td></tr><tr><td>料重比F/G</td><td>6.37a</td><td>5.90bc</td><td>5.85bc</td><td>5.63c</td><td>6.16ab</td><td>0.08</td><td>0.008</td><td>0.084</td><td>0.001</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the same row, values with the same small or no leter superscripts mean no significant diference $( P { > } 0 . 0 5 )$ while with adjacent small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,and with alternate small letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ .The same as below. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，通过配对 $t$ 检验分析，与对照组（未添加枯草芽孢杆菌）相比，V组（添加枯草芽孢杆菌）肉鹅的体重显著增加（ $\\cdot P { < } 0 . 0 5$ ），料重比降低（ $P { > } 0 . 0 5 \\$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表4枯草芽孢杆菌对肉鹅生长性能的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/7d89e00d96ba2ef9ef991865620248512c098d2538bbdd9de31b992b9bf9ddde.jpg",
+        "table_caption": [
+            "Table 4Effects of Bacillus subtilis on growth performance of meat geese "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"2\">组别Groups</td><td rowspan=\"2\">SEM</td><td rowspan=\"2\">P值 P-value</td></tr><tr><td>对照Control</td><td>V</td></tr><tr><td>体重 BW/kg</td><td>3.80b</td><td>3.93a</td><td>0.03</td><td>0.016</td></tr><tr><td>平均日增重 ADG/g</td><td>29.65</td><td>29.53</td><td>0.25</td><td>0.838</td></tr><tr><td>平均日采食量 ADFI/g</td><td>216.42</td><td>221.78</td><td>3.56</td><td>0.479</td></tr><tr><td>料重比F/G</td><td>6.48</td><td>6.16</td><td>0.10</td><td>0.110</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以上结果表明，在饲粮锌添加水平相同的情况下，添加枯草芽孢杆菌能有效促进肉鹅的生长性能。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "体重、平均日增重和料重比与锌添加水平之间呈二次型曲线回归关系（ $\\cdot P { < } 0 . 0 5 \\$ ），对添加枯草芽孢杆菌的 $\\mathbf { I } \\sim \\mathrm { V }$ 组平均日增重（ $Y _ { 1 }$ ）和料重比（ $\\cdot Y _ { 2 }$ ）分别与饲粮锌添加水平 $( \\boldsymbol { X } )$ 进行二次曲线拟合，建立回归方程如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { 1 } \\mathrm { = } \\mathrm { - } 0 . 0 0 1 X ^ { \\mathrm { 2 } } \\mathrm { + } 0 . 0 9 5 X \\mathrm { + } 3 0 . 5 3 7 \\ ( R ^ { \\mathrm { 2 } } \\mathrm { = } 0 . 6 3 6 , \\ P _ { \\mathrm { \\it Q } } \\mathrm { = } 0 . 0 0 0 ) \\mathrm { ; }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Y2=0.001X2-0.030X+6.387 $R ^ { 2 } { = } 0 . 6 3 0$ ， $P _ { \\it Q } \\mathrm { = } 0 . 0 0 0 )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由上述曲线回归方程得出，饲粮中锌添加水平为 $4 7 . 5 \\mathrm { m g / k g }$ 时平均日增重最大，饲粮中锌添加水平为 $1 5 . 0 \\mathrm { m g / k g }$ 时料重比最低。从综合效益角度分析，建议肉鹅饲粮中枯草芽孢杆菌添加水平为 $2 5 0 ~ \\mathrm { m g / k g }$ 条件下，饲粮锌适宜添加水平为 $1 5 . 0 { \\sim } 4 7 . 5 \\ \\mathrm { m g / k g } \\nonumber$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2不同锌添加水平饲粮中添加枯草芽孢杆菌对肉鹅屠宰性能的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表5可知，饲粮锌添加水平对肉鹅屠宰率影响极显著（ $\\cdot P { < } 0 . 0 1$ ）。IⅢ、 $\\mathrm { I V }$ 、V组肉鹅的屠宰率显著高于I、Ⅱ组（ $\\cdot P { < } 0 . 0 5 \\$ ），IV组肉鹅的屠宰率最高。各组间肉鹅的半净膛率、全净膛率、胸肌率、腿肌率和腹脂率差异不显著（ $. { \\cal P } { > } 0 . 0 5$ ），但I组均低于其他4个试验组。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d983c69cc9d5406b14855c5d057d480a7a707205d2a52dffbdccc3649e3e109c.jpg",
+        "table_caption": [
+            "表5不同锌添加水平饲粮中添加枯草芽孢杆菌对肉鹅屠宰性能的影响",
+            "Table 5Effects of Bacillus subtilis supplementation in different zinc supplemental level diets on "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">slaughter performance of meat geese</td><td colspan=\"4\">%</td></tr><tr><td rowspan=\"3\">项目Items</td><td colspan=\"6\">组别Groups</td><td colspan=\"3\">P值</td></tr><tr><td rowspan=\"2\">I</td><td rowspan=\"2\">Ⅱ</td><td rowspan=\"2\">ⅢI</td><td rowspan=\"2\">IV</td><td rowspan=\"2\">V</td><td rowspan=\"2\">SEM</td><td colspan=\"3\">P-value</td></tr><tr><td>锌 Zinc</td><td>线性 Linear</td><td>二次 Quadratic</td></tr><tr><td>屠宰率</td><td>77.19b</td><td>79.37b</td><td>84.70a</td><td>86.38a</td><td>84.50a</td><td>1.12</td><td>0.009</td><td>0.830</td><td>0.002</td></tr><tr><td>Dressed percentage</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>半净膛率 Percentage of</td><td>71.31</td><td>73.62</td><td>75.95</td><td>76.93</td><td>72.03</td><td>1.12</td><td>0.491</td><td>0.568</td><td>0.128</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/5b5c1bf057aadc585f309e42ba54e586982c249e9ce15d99c9c3867cab443f3f.jpg",
+        "table_caption": [
+            "表6枯草芽孢杆菌对肉鹅屠宰性能的影响"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>half-eviscerated</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>全净膛率 Percentage of</td><td>60.35</td><td>67.30</td><td>65.18</td><td>76.27</td><td>67.84</td><td>1.90</td><td>0.107</td><td>0.067</td><td>0.247</td></tr><tr><td>eviscerated</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>胸肌率</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Percentage of breast</td><td>10.55</td><td>11.00</td><td>11.17</td><td>12.01</td><td>11.99</td><td>0.30</td><td>0.467</td><td>0.114</td><td>0.655</td></tr><tr><td>muscle</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>腿肌率</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Percentage of leg</td><td>12.03</td><td>13.03</td><td>13.62</td><td>13.41</td><td>12.32</td><td>0.25</td><td>0.196</td><td>0.580</td><td>0.020</td></tr><tr><td>muscle</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>腹脂率</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>1.06</td><td>1.55</td><td>1.66</td><td>1.51</td><td>1.57</td><td>0.09</td><td>0.239</td><td>0.121</td><td>0.141</td></tr><tr><td>Percentage of abdominal fat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表6可知，通过配对t检验分析， $\\mathrm { \\Delta V }$ 组肉鹅的屠宰率、胸肌率、腹脂率显著高于对照组1 $\\cdot P { < } 0 . 0 5$ ），半净膛率、全净膛率高于对照组（ $\\mathrm { . } P { > } 0 . 0 5 \\mathrm { . }$ ）。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/f32672e4ebf61546bb1ddfbc60c1e21f600346c28365511bac4a6ea9861895ed.jpg",
+        "table_caption": [
+            "Table 6Effects of Bacillus subtilis on slaughter performance of meat geese % "
+        ],
+        "table_footnote": [
+            "以上结果表明，枯草芽孢杆菌与锌协同对肉鹅的屠宰性能有一定的促进作用。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"3\">组别 Groups</td><td rowspan=\"2\">P值P-value</td></tr><tr><td>对照 Control</td><td>V</td><td>SEM</td></tr><tr><td>屠宰率Dressed percentage</td><td>76.80b</td><td>84.50a</td><td>1.88</td><td>0.006</td></tr><tr><td>半净膛率 Percentage of half-eviscerated</td><td>69.98</td><td>72.03</td><td>1.85</td><td>0.636</td></tr><tr><td>全净膛率 Percentage of eviscerated</td><td>62.82</td><td>67.84</td><td>3.12</td><td>0.447</td></tr><tr><td>胸肌率 Percentage of breast muscle</td><td>10.01b</td><td>12.01a</td><td>0.49</td><td>0.035</td></tr><tr><td>腿肌率 Percentage of leg muscle</td><td>12.54</td><td>12.32</td><td>0.39</td><td>0.792</td></tr><tr><td>腹脂率Percentage of abdominal fat</td><td>1.11b</td><td>1.57a</td><td>0.12</td><td>0.044</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对 $_ \\mathrm { I \\sim V }$ 组屠宰率（ $Y _ { 3 }$ ）与饲粮中锌的添加水平 $( \\boldsymbol { X } )$ 进行二次曲线拟合，建立回归方程如下：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$Y _ { 3 } { = } 7 6 . 7 9 7 { + } 0 . 5 0 8 X { - } 0 . 0 0 6 X ^ { 2 }$ 0 $R ^ { 2 } { = } 0 . 6 1 8$ ， $P _ { \\it Q } \\mathrm { = } 0 . 0 0 0 )$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由上述曲线回归方程得出，饲粮锌添加水平为 $4 2 . 3 3 \\mathrm { m g / k g }$ 时屠宰率最大。从综合效益角度分析，建议枯草芽孢杆菌添加水平为 $2 5 0 ~ \\mathrm { m g / k g }$ 条件下，获得最佳屠宰率的饲粮锌添加水平为 $4 2 . 3 3 ~ \\mathrm { m g / k g }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3不同锌添加水平饲粮中添加枯草芽孢杆菌对肉鹅肉品质的影响由表7可知，饲粮锌添加水平对肉鹅肌肉失水率影响极显著（ $_ { \\scriptstyle P < 0 . 0 1 }$ ）。ⅡI、I组肉鹅的肌肉失水率显著低于 $\\mathrm { I V }$ 、V组（ $_ { \\cdot } P { < } 0 . 0 5$ ），I组肌肉失水率最低。各组间肉鹅的肉色、剪切力和 $\\mathfrak { p H }$ 差异不显著（ $. { \\cal P } { > } 0 . 0 5$ ）。以上结果表明，饲粮中锌添加水平超过 $4 0 \\mathrm { m g / k g }$ 对肉品质理化性质无显著影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/6f42416b54c48bbf611f188af2e3f36b624ec53b01ceb55a32be0a74543a883c.jpg",
+        "table_caption": [
+            "表7不同锌添加水平饲粮中添加枯草芽孢杆菌对肉鹅肉品质的影响"
+        ],
+        "table_footnote": [
+            "由表8可知，通过配对 $t$ 检验分析，V组肉鹅的肌肉红度值显著高于对照组！ $( P { < } 0 . 0 5 )$ ，肌肉亮度、黄度值及剪切力、pH、失水率与对照组没有显著差异（ $\\scriptstyle \\cdot P > 0 . 0 5 .$ ）。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"5\">组别 Groups</td><td colspan=\"5\">P值 P-value</td></tr><tr><td>I</td><td></td><td>Ⅱ</td><td>IⅢI</td><td>IV</td><td>V</td><td>SEM</td><td>锌 Zinc</td><td>线性 Linear</td><td>二次 Quadratic</td></tr><tr><td>肉色</td><td>亮度L*</td><td>50.33</td><td>62.90</td><td>55.73</td><td>55.40</td><td>52.47</td><td>1.53</td><td>0.066</td><td>0.712</td><td>0.038</td></tr><tr><td>Meat color</td><td>红度a*</td><td>12.89</td><td>12.95</td><td>13.85</td><td>12.75</td><td>13.33</td><td>0.19</td><td>0.389</td><td>0.614</td><td>0.548</td></tr><tr><td></td><td>黄度b*</td><td>2.37</td><td>2.47</td><td>2.74</td><td>2.80</td><td>2.31</td><td>0.09</td><td>0.364</td><td>0.733</td><td>0.087</td></tr><tr><td>剪切力 Shear force/kgf</td><td></td><td>9.15</td><td>6.18</td><td>6.14</td><td>7.66</td><td>9.86</td><td>0.53</td><td>0.066</td><td>0.398</td><td>0.006</td></tr><tr><td>pH</td><td></td><td>5.83</td><td>5.79</td><td>5.85</td><td>5.79</td><td>5.82</td><td>0.02</td><td>0.734</td><td>0.783</td><td>0.926</td></tr><tr><td>失水率 Water loss rate/%</td><td></td><td>30.72ab</td><td>29.16b</td><td>29.15b</td><td>30.88a</td><td>31.69a</td><td>0.29</td><td>0.009</td><td>0.042</td><td>0.004</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/75e9517e7ff817d05b119d5de35b6892ef607b2a5b2dbe8ce266ec184800566a.jpg",
+        "table_caption": [
+            "Table 7Efects of Bacillus subtilis supplementation in different zinc supplemental level diets on meat quality of meat geese. ",
+            "表8枯草芽孢杆菌对肉鹅肉品质的影响",
+            "Table 8Effects of Bacillus subtilis on meat quality of meat geese "
+        ],
+        "table_footnote": [
+            "2.4不同锌添加水平饲粮中添加枯草芽孢杆菌对肉鹅养分和能量利用率的影响"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">项目Items</td><td colspan=\"2\">组别Groups</td><td rowspan=\"2\">SEM</td><td rowspan=\"2\">P值 P-value</td></tr><tr><td></td><td>对照 Control</td><td>V</td></tr><tr><td rowspan=\"3\">肉色 Meat color</td><td>亮度L* 57.10</td><td>52.47</td><td>1.84</td><td>0.244</td></tr><tr><td>红度a*</td><td>12.21b 13.33a</td><td>0.88</td><td>0.018</td></tr><tr><td>黄度b* 2.64</td><td>2.31</td><td>0.20</td><td>0.452</td></tr><tr><td>剪切力 Shear force/kgf</td><td>9.17</td><td>9.86</td><td>0.88</td><td>0.714</td></tr><tr><td>pH</td><td>5.87</td><td>5.82</td><td>0.05</td><td>0.549</td></tr><tr><td>失水率 Water loss rate/%</td><td>31.71</td><td>31.69</td><td>0.59</td><td>0.984</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表9可知，饲粮锌添加水平对肉鹅的粗蛋白质、粗脂肪利用率影响显著（ $P { < } 0 . 0 5$ ），对肉鹅的粗纤维、锌利用率影响极显著（ $_ { \\cdot  { P } < 0 . 0 1 }$ ）。ⅡI、III、IⅣ组肉鹅的粗蛋白质利用率显著高于I组（ $. P { < } 0 . 0 5$ ）；IV组肉鹅的粗脂肪利用率极显著高于Ⅱ组（ $_ { \\cdot  { P } < 0 . 0 1 }$ ），显著高于V组（ $_ { \\cdot \\textcircled { P } < 0 . 0 5 }$ ）； $\\mathrm { I I }$ 、III、IV组肉鹅的粗纤维利用率显著高于Ⅰ、 $\\mathrm { \\Delta V }$ 组（ $\\scriptstyle \\cdot { \\cal P } { < } 0 . 0 5 .$ ）；I、Ⅱ、II组肉鹅的锌利用率显著低于 $\\mathrm { I V }$ 、 $\\mathrm { \\Delta V }$ 组（ $\\cdot P { < } 0 . 0 5$ ）；各组间肉鹅的中性洗涤纤维、酸性洗涤纤维利用率差异不显著（ ${ \\cdot } P { > } 0 . 0 5$ ）。IV组肉鹅的粗蛋白质、粗脂肪、粗纤维利用率均最高。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表9不同锌添加水平饲粮中添加枯草芽孢杆菌对肉鹅养分利用率的影响",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/d107823050121250def9361b1d83dda785eb9671c4d1d839c49ef79cc129964f.jpg",
+        "table_caption": [
+            "Table 9Effects of Bacillus subtilis supplementation in different zinc supplemental level diets on "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">nutrient utilization of meat geese</td><td colspan=\"5\">%</td></tr><tr><td rowspan=\"3\">项目Items</td><td colspan=\"5\">组别Groups</td><td colspan=\"5\">P值 P-value</td></tr><tr><td>I</td><td>I</td><td>IⅢI</td><td>IV</td><td>V</td><td>SEM</td><td>锌</td><td>线性</td><td></td><td>二次 Quadratic</td></tr><tr><td></td><td></td><td>67.11a</td><td>67.05a</td><td>68.08a</td><td>66.28ab</td><td>0.35</td><td>Zinc 0.029</td><td>Linear 0.070</td><td></td></tr><tr><td>粗蛋白质CP</td><td>64.94b</td><td>63.14c</td><td>67.66ab</td><td>68.35a</td><td>64.56bc</td><td>0.63</td><td>0.018</td><td>0.503</td><td></td><td>0.009 0.160</td></tr><tr><td>粗脂肪 EE</td><td>66.10abc</td><td>22.57a</td><td>22.87a</td><td>23.06a</td><td>19.40b</td><td>0.57</td><td>0.009</td><td></td><td></td><td></td></tr><tr><td>粗纤维CF</td><td>19.03b 57.85</td><td>57.28</td><td>55.27</td><td>56.60</td><td>59.15</td><td>0.52</td><td></td><td>0.184</td><td>0.636 0.572</td><td>0.001 0.034</td></tr><tr><td>中性洗涤纤维 NDF 酸性洗涤纤维 ADF</td><td>41.58</td><td>44.78</td><td>44.94</td><td>45.06</td><td>43.87</td><td>0.46</td><td></td><td>0.075</td><td>0.113</td><td>0.018</td></tr><tr><td>锌Zn</td><td>40.27b</td><td>42.06b</td><td>41.24b</td><td>45.65a</td><td>48.59a</td><td></td><td>0.93</td><td>0.002</td><td><0.001</td><td>0.098</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由表10可知，通过配对t检验分析，V组肉鹅的粗蛋白质、中性洗涤纤维利用率显著高于对照组（ $\\cdot P { < } 0 . 0 5$ ），而粗脂肪、粗纤维、酸性洗涤纤维和锌利用率与对照组没有显著差异1 $\\cdot P { > } 0 . 0 5 \\$ ）。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/9848037e004a7f6ac48f18e757a47a30eb490939094b595aac5e1a4514ecfc95.jpg",
+        "table_caption": [
+            "表10枯草芽孢杆菌对肉鹅养分利用率的影响",
+            "Table 10 Effects of Bacillus subtilis on nutrient utilization of meat geese $\\%$ "
+        ],
+        "table_footnote": [
+            "由表11可知，饲粮锌添加水平对肉鹅的排泄氮、氮利用率影响显著（ $\\cdot P { < } 0 . 0 5 ^ { \\cdot }$ ）。I、II"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"2\">组别Groups</td><td rowspan=\"2\">SEM</td><td rowspan=\"2\">P值P-value</td></tr><tr><td>对照Control</td><td>V</td></tr><tr><td>粗蛋白质CP</td><td>63.52b</td><td>66.28a</td><td>0.64</td><td>0.002</td></tr><tr><td>粗脂肪 EE</td><td>66.99</td><td>64.56</td><td>0.76</td><td>0.113</td></tr><tr><td>粗纤维CF</td><td>18.36</td><td>19.40</td><td>0.74</td><td>0.541</td></tr><tr><td>中性洗涤纤维 NDF</td><td>54.88b</td><td>59.15a</td><td>1.14</td><td>0.036</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>41.22</td><td>43.87</td><td>0.83</td><td>0.114</td></tr><tr><td>锌Zn</td><td>46.58</td><td>48.59</td><td>0.58</td><td>0.068</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "组肉鹅的排泄氮显著低于I组（ $. P { < } 0 . 0 5$ ），与 $\\mathrm { I V }$ 、 $\\mathrm { \\Delta V }$ 组无显著差异（ $. P { > } 0 . 0 5 \\$ ）；IV、V组肉鹅的氮利用率显著高于I、 $\\mathrm { I I }$ 、IⅢ组（ $P { < } 0 . 0 5$ ）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表11不同锌添加水平饲粮中添加枯草芽孢杆菌对肉鹅氮利用率的影响",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/652b67b37223fce7a7e67bb84d1b1d80cecac383a76d6435a4207f2c25560787.jpg",
+        "table_caption": [
+            "Table 11Effects of Bacillus subtilis supplementation in different zinc supplemental level diets "
+        ],
+        "table_footnote": [
+            "由表12可知，通过配对t检验分析，V组肉鹅的氮利用率显著高于对照组（ $\\scriptstyle P < 0 . 0 5 { \\mathrm { : } }$ ），食入氮、排泄氮和沉积氮与对照组没有显著差异（ $P { > } 0 . 0 5$ ）。"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">on nitrogen utilization of meat geese</td><td colspan=\"4\">%</td></tr><tr><td rowspan=\"2\">项目Items</td><td colspan=\"5\">组别 Groups</td><td rowspan=\"2\"></td><td colspan=\"3\">P值P-value</td></tr><tr><td>I</td><td>Ⅱ</td><td>ⅢI</td><td>IV</td><td>V</td><td>SEM 锌 Zinc</td><td>线性 Linear</td><td>二次 Quadratic</td></tr><tr><td>食入氮 Nitrogen intake/(g/d)</td><td>2.58</td><td>2.64</td><td>2.66</td><td>2.69</td><td>2.63</td><td>0.02</td><td>0.550</td><td>0.287</td><td>0.226</td></tr><tr><td>排泄氮 Nitrogen excretion/(g/d)</td><td>0.93a</td><td>0.84b</td><td>0.84b</td><td>0.88ab</td><td>0.90ab</td><td>0.01</td><td>0.037</td><td>0.399</td><td>0.012</td></tr><tr><td>沉积氮 Deposit nitrogen/(g/d)</td><td>1.72</td><td>1.74</td><td>1.76</td><td>1.88</td><td>1.77</td><td>0.02</td><td>0.127</td><td>0.089</td><td>0.275</td></tr><tr><td>氮利用率 Nitrogen utilization/%</td><td>65.99b</td><td>65.04b</td><td>67.02b</td><td>69.84a</td><td>69.51a</td><td>0.63</td><td>0.021</td><td>0.003</td><td>0.583</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/4c4c08ee49ecb8fc51af84cc985d743685fd59b7987b3b3a2dd66c981f56c608.jpg",
+        "table_caption": [
+            "表12枯草芽孢杆菌对肉鹅氮利用率的影响",
+            "Table 12Effects of Bacillus subtilis on nitrogen utilization of meat geese % ",
+            "Table 13Effects of Bacillus subtilis supplementation in different zinc supplemental level diets on energy utilization of meat geese "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"3\">组别Groups</td><td rowspan=\"2\">P值 P-value</td></tr><tr><td>对照 Control</td><td>V</td><td>SEM</td></tr><tr><td>食入氮Nitrogen intake/(g/d)</td><td>2.62</td><td>2.63</td><td>0.04</td><td>0.885</td></tr><tr><td>排泄氮 Nitrogen excretion/(g/d)</td><td>0.92</td><td>0.90</td><td>0.02</td><td>0.184</td></tr><tr><td>沉积氮Deposit nitrogen/(g/d)</td><td>1.62</td><td>1.77</td><td>0.05</td><td>0.126</td></tr><tr><td>氮利用率 Nitrogen utilization/%</td><td>63.36b</td><td>69.51a</td><td>1.44</td><td>0.003</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由表13和表14可以看出，各组间肉鹅的食入总能、粪便能、内源能、表观代谢能、真代谢能和能量利用率均无显著差异（ $. { \\cal P } { > } 0 . 0 5$ ）。通过配对 $t$ 检验分析，对照组与V组之间肉鹅的食入总能、粪便能、内源能、表观代谢能、真代谢能和能量利用率也无显著差异 $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表13不同锌添加水平饲粮中添加枯草芽孢杆菌对肉鹅能量利用率的影响",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/6b9cb5a705201e73fef4f510a0955e86aa6c1e24b2b46afc799a5a7f7db07974.jpg",
+        "table_caption": [
+            "表14枯草芽孢杆菌对肉鹅能量利用率的影响"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">I</td><td rowspan=\"2\">ⅡI</td><td rowspan=\"2\">Ⅲ</td><td rowspan=\"2\">IV</td><td rowspan=\"2\">V</td><td rowspan=\"2\"></td><td>锌</td><td>线性 Linear</td><td>二次</td></tr><tr><td>Zinc</td><td></td><td>Quadratic</td></tr><tr><td>食入总能</td><td>1 711.96</td><td>1 710.50</td><td>1 713.49</td><td>1 718.74</td><td>1 715.41</td><td>3.64</td><td>0.974</td><td>0.622</td><td>0.968</td></tr><tr><td>GE intake/(kJ/d) 粪便能</td><td>564.99</td><td>550.74</td><td>550.28</td><td>566.23</td><td>564.00</td><td>3.16</td><td>0.286</td><td>0.535</td><td>0.135</td></tr><tr><td>FE/(kJ/d) 内源能</td><td>1.56</td><td>1.68</td><td>1.61</td><td>1.61</td><td>1.59</td><td>0.02</td><td>0.350</td><td>0.917</td><td>0.206</td></tr><tr><td>EEf/(kJ/d) 表观代谢能</td><td>1</td><td>1 159.76</td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>AME/(kJ/d)</td><td>146.98</td><td></td><td>1 163.21</td><td>152.51</td><td>1 151.42</td><td>4.82</td><td>0.873</td><td>0.967</td><td>0.375</td></tr><tr><td>真代谢能 TME/(kJ/d)</td><td>1 148.54</td><td>1 161.45</td><td>1 164.82</td><td>1 154.12</td><td>1 153.02</td><td>4.82</td><td>0.871</td><td>0.967</td><td>0.373</td></tr><tr><td>能量利用率</td><td>67.00</td><td>67.80</td><td>67.89</td><td>67.05</td><td>67.12</td><td>0.20</td><td>0.468</td><td>0.722</td><td>0.179</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/f547cca397d0625733a35f2a30e4b2de2f3cb8ce81b080f35a483199677c4995.jpg",
+        "table_caption": [
+            "Table 14Effects of Bacillus subtilis on energy utilization of meat geese "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>组别Groups 对照Control</td><td>V</td><td>SEM</td><td>P值P-values</td></tr><tr><td>食入总能 GE intake/(kJ/d)</td><td>1 688.96</td><td>1 715.41</td><td>9.38</td><td>0.180</td></tr><tr><td>粪便能FE/(kJ/d)</td><td>567.61</td><td>564.00</td><td>5.09</td><td>0.763</td></tr><tr><td>内源能值 EEf/(kJ/d)</td><td>1.55</td><td>1.59</td><td>0.06</td><td>0.768</td></tr><tr><td>表观代谢能 AME/(kJ/d)</td><td>1 121.34</td><td>1 151.42</td><td>10.98</td><td>0.196</td></tr><tr><td>真代谢能 TME/(kJ/d)</td><td>1 122.89</td><td>1 153.02</td><td>10.96</td><td>0.194</td></tr><tr><td>能量利用率 Energy utilization/%</td><td>66.39</td><td>67.12</td><td>0.36</td><td>0.372</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.1不同锌添加水平饲粮中添加枯草芽孢杆菌对肉鹅生长性能的影响",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "动物的生长性能是反映动物生长发育的指标，幼龄动物是生长力最旺盛的时期，其生长性能高低将直接影响其进入育成期的生长发育好坏。枯草芽孢杆菌可促进动物对营养物质的吸收，提高饲料转换率，还可以预防疾病，促进动物的生长[7]。肉仔鸡饲粮中添加芽抱杆菌替代抗生素使用，可以达到促进生长发育、提高饲料效率的效果8]。马芳[研究报道，在肉仔鸡生长后期，饲粮中添加 $8 0 \\mathrm { m g / k g }$ 锌时，生长性能较好。苏丽娜等[10]研究了锌对蛋雏鸭生长性能的影响，发现饲粮锌水平的提高能促进蛋雏鸭生长性能，并确定蛋雏鸭适宜锌添加水平为 $5 1 . 8 \\mathrm { m g / k g }$ 。Hooge 等[il研究证实了枯草芽孢杆菌制剂对肉鸡、肉鹅的促生长作用。本试验结果表明，与对照组相比，饲粮锌添加水平相同的情况下，添加枯草芽孢杆菌提高了肉鹅的体重。不同锌添加水平饲粮中添加枯草芽孢杆菌的各组中，I组的生长性能低于其他各组，且鹅群普遍出现缺锌症状。另外，在饲粮中添加 $2 5 0 ~ \\mathrm { m g / k g }$ 枯草芽孢杆菌条件下，锌添加水平为 $1 5 . 0 \\mathrm { m g / k g }$ 时，料重比比对照组降低了 $1 3 . 1 7 \\%$ ；锌添加水平为 $4 7 . 5 ~ \\mathrm { m g / k g }$ ，平均日增重比对照组提高了 $10 . 3 0 \\%$ 。这表明，枯草芽孢杆菌与锌协同作用能够显著提高肉鹅的生长性能，并且有效的降低锌添加水平。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2不同锌添加水平饲粮中添加枯草芽孢杆菌对肉鹅屠宰性能的影响",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "屠宰性能是评价家禽品种优劣、饲养管理水平及屠宰加工效益的重要依据，它直观地反映出动物体组成及可食部分的比例。有研究表明，饲粮锌水平对屠宰性能并无显著影响[12];Tang等[13]研究表明，饲粮添加杆菌肽锌组北京鸭的生长性能和屠宰性能均显著高于β-葡聚糖组和对照组。饲粮中添加 $5 0 0 \\mathrm { m g / k g }$ 的枯草孢杆菌能显著提高35日龄肉仔鸡的屠宰率，对屠宰性能其他指标没有显著影响[14]；饲粮中添加 $1 \\%$ 的枯草芽孢杆菌能提高丝羽乌骨鸡的胸肌质量[15]。本试验结果表明，枯草芽孢杆菌组的屠宰率显著高于对照组。在饲粮中添加枯草芽孢杆菌条件下，不同锌添加水平有提高屠宰性能的趋势。这说明枯草芽孢杆菌与锌协同对肉鹅的屠宰性能有一定的促进作用，并且能有效地降低饲粮锌添加水平。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.3不同锌添加水平饲粮中添加枯草芽孢杆菌对肉鹅肉品质的影响",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "目前，对于枯草芽孢杆菌与家禽胴体品质的关系研究很少。刘泽辉[1研究了不同锌源对肉鸡肉品质的影响，结果表明肉鸡饲粮中添加锌可以促进肉鸡的生长，提高胴体性能，改善肉品质。任列娇等[17研究发现，肉鸡胸肌剪切力越低，肉品质越好。本试验结果表明，饲粮添加枯草芽孢杆菌对肉品质作用不显著，但饲粮锌添加水平对肉鹅肌肉失水率有显著影响。目前，关于锌和枯草芽孢杆菌对于肉鹅肉品质影响的研究还比较少，有关机理和功能还有待于继续研究。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.4不同锌添加水平饲粮中添加枯草芽孢杆菌对肉鹅养分和能量利用率的影响",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "动物生产过程中的排泄物是造成环境污染的重要因素之一，其中矿物元素尤其是微量元素大量排泄是环境污染的主要来源。微量元素排泄不仅与饲粮微量元素添加量密切相关[18],同时也与其生物有效性存在密切关系[19]。动物养分利用率直接反映动物的代谢速率和生长性能[20]。Neto 等[21研究发现，螯合锌能提高伊萨蛋鸡粮赖氨酸的利用效率。枯草芽孢杆菌具有很强的蛋白酶、脂肪酶、淀粉酶等活性，能产生抗菌素，在动物肠道内具有较强的生物夺氧能力，这些特性对促进动物的消化吸收、提高动物饲料转化率和促进生长起到重要作用[22-23]。饲粮中添 $2 5 0 \\mathrm { m g / k g }$ 的枯芽孢杆菌和 $8 ~ \\mathrm { m g / k g }$ 的铜，能显著提高鹅的粗蛋白质、粗纤维、铜和氮利用率，显著减少粪氮，极显著提高酸性洗涤纤维利用率[24]。本试验结果表明，在饲粮中添加 $2 5 0 ~ \\mathrm { m g / k g }$ 枯草芽孢杆菌的条件下，饲粮锌添加水平组对粗蛋白质、粗脂肪、粗纤维和锌利用率均有显著或极显著影响；枯草芽孢杆菌各组的氮利用率也显著高于对照组。这表明枯草芽孢杆菌的添加可促进锌在肉鹅体内的消化吸收，提高肉鹅养分利用率，提高锌的利用率，适当降低锌添加水平，可减少锌的排泄和氮的排放，有利于生态环境保护；另外，试验结果也说明枯草芽孢杆菌与锌具有协同作用。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "饲粮中添加枯草芽孢杆菌和锌均能够提高生长性能、屠宰性能及粗蛋白质、粗脂肪、粗纤维、锌利用率，减少锌和氮排放量。在饲粮中添加 $2 5 0 \\mathrm { m g / k g }$ 枯草芽孢杆菌条件下，锌适宜添加水平为 $1 5 . 0 { \\sim } 4 7 . 5 \\ \\mathrm { m g / k g } .$ （2",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[1] HEN H M,ZHENG C R,TU C.Heavy metal pollution in soils in China:status and countermeasure[J].Ambio: A Journal of the Human Environment,1999,28(2):130-134.   \n[2]李慧昕,李金龙.动物微生态制剂的研究进展[J].中国动物保健,2003(7):32-34.   \n[3]LOPEZ A,LAZARO N,MORALES S,et al.Nickel biosorption by free and immobilized cells ofPseudomonasfluorescens4F39:acomparativestudy[J].Water,AirandSoil Polluti0n,2002,135(1/2/3/4):157-172.   \n[4] JAYARAMAN S,THANGAVEL G,KURIAN H,et al.Bacillus subtilis PB6 improves intestinal health of broiler chickens challenged with Clostridium perfringens-induced necrotic enteritis[J].Poultry Science,2013,92(2):370-374.   \n[5]李聚才,张春珍,庞琪艳,等.动物微量元素锌营养研究进展[J].宁夏农林科 技,2007(6):30-32.   \n[6] 王璐,易路,王波,等.家禽料重比不同测定方法的比较研究[J].中国家 禽,2015,37(17):31-34.   \n[7]罗正,张得玉,孙业贵,等.益生菌替代肉鸡饲料中促生长抗生素的田间试验[J].饲料工 业,2014,35(13):22-24.   \n[8]张宏宇.枯草芽孢杆菌对肉鸡生长性能及肉品质的影响[C]//第五届(2016)中国白羽肉鸡 产业发展大会暨第四届全球肉鸡产业研讨会论文集.北京：中国畜牧业协会禽业分会,2016:7. [9]马芳.饲粮锌水平对肉仔鸡免疫力、生长性能和血清生化指标的影响[D].硕士学位论文. 兰州:甘肃农业大学,2008:45-46.   \n[10]苏丽娜,王安.锌对蛋雏鸭生长性能和血液生化指标的影响[J].中国饲料,2012(12):35-37, 42.   \n[11]HOOGE D M,ISHIMARU H,SIMS M D.Influence of dietary Bacillus subtilis C-3102 spores on live performance of broiler chickens in four controled pen trials[J].The Journal of Applied Poultry Research,2004,13(2):222-228.   \n[12]高惠林,王前光,田科雄,等.不同锌源及其水平对桃源鸡生产性能及屠宰性能的7影响[J]. 畜牧与兽医,2008,40(7):13-17.   \n[13]TANG X Y,GAO J S,YUAN F,et al.Effects of Sophy $\\beta$ glucan on growth performan ce,carcass traits,meat composition,and immunological responses of Peking ducks[J].Poultry S cience,2011,90(4):737-745.   \n[14]崔宇,刘文举,田颖,等.枯草芽孢杆菌对 AA+肉鸡生产性能、屠宰性能及经济效益的影响 [J].饲料研究,2014(23):5-8.   \n[15]张爱武,鞠贵春,薛军.饲用微生物菌种对丝羽乌骨鸡的影响[J].饲料研究,2012(1):27-29. [16]刘泽辉.饲粮添加不同锌源和锌水平对肉鸡肉品质的影响及其机理研究[D].博士学位论 文.雅安:四川农业大学,2011.   \n[17]任列娇,赵素梅,胡洪,等.肌纤维类型及其对猪肉品质影响的研究进展[J].云南农业大学 学报,2010,25(1):124-131.   \n[18]郭小权,胡国良,曹华斌,等.高锌日粮对断奶仔猪血清锌和粪便排泄锌含量的影响[J].江 西农业大学学报,2009,31(5):789-792.   \n[19]BURKETT JL,STALDER K J,SCHWAB C R,et al.Growth comparison and fecal mineral excretion of in-organic and organic trace mineral supplementation in swine[R].Animal Industry Report.Iowa:Iowa State University,2005.   \n[20]王瑞晓,郑诚.鹅、鸡对不同饲料养分利用率的比较测定[J].中国饲料,2001(19):8-9. [21]NETO M A T,PACHECO B H C,ALBUQUERQUE R,et al.Dietary efects of chelat ed zinc supplementation and lysine levels in ISA Brown laying hens on early and late per formance,and egg quality[J].Poultry Science,2011,90(12):2837-2844.   \n[22]周映华,吴胜莲,贺月林,等.饲用枯草芽孢杆菌发酵条件的优化[J].湖南农业科 学,2010(11):21-23.   \n[23]OHTA A M,OHTSUKI S,BABA S,et al.Calcium and magnesium absorption from th e colon and rectum are increased in rats fed fructooligosaccharides[J].The Journal of Nutrit ion,1995,125(9):2417-2424.   \n[24]张泽楠,王宝维,葛文华,等.枯草芽孢杆菌与铜协同作用对 $5 \\sim 1 6$ 周龄五龙鹅生长性能、 屠宰性能、营养物质利用率及肉品质的影响[J].动物营养学报,2016,28(9):2830-2838. Effects of Bacillus subtilis Supplementation in Different Zinc Supplemental Level Diets on Growth Performance, Slaughter Performance, Meat Quality and Nutrient Utilization of Meat Geese   \nKE Changjiao WANG Baowei\\*GE Wenhua ZHANG Ming' ai YUE Bin LONG Jianhua DIAO Cuiping (Institute of Quality Waterfowl, Qingdao Agricultural University, Research Laboratory of   \nNutrition and Feed Function,National Waterfowl Industry Technical System, Qingdao 266109, China) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This experiment was conducted to study the effects of Bacillus subtilis supplementation in different zinc supplemental level diets on growth performance, slaughter performance, meat quality and nutrient utilization of meat geese,and to determine the optimum supplemental level of zinc in the condition of adding Bacillus subtilis.A total of 360 five-week-old Wulong geese with similar body condition were randomly divided into 6 groups with 6 replicates in each group and 10 geese in each replicate. Geese in the control group were fed a basal diet supplemented with 80 $\\mathrm { m g / k g }$ Zinc, without Bacillus subtilis; and others in experimental groups (groups I to $\\mathrm { \\Delta V }$ ）were fed the basal diets supplemented with 0,20, 40, 60 and 80 zinc,respectively,and all supplemented with $2 5 0 ~ \\mathrm { m g / k g }$ Bacillus subtilis. The experiment lasted for 11 weeks. The results showed as follws: 1) the body weight and average daily gain of meat geese in group II were significantly higher than those in groups I and V $( P { < } 0 . 0 5 )$ , the ratio of feed to gain of meat geese in group （20 $\\mathrm { I V }$ was significantly lower than that in groupsIand $\\mathrm { \\Delta V }$ ? $_ { ( P < 0 . 0 5 ) }$ . The average daily gain got the highest when dietary zinc supplemental level was $4 7 . 5 ~ \\mathrm { m g / k g }$ , the ratio of feed to gain got the lowest when dietary zinc supplemental level was $1 5 . 0 \\ \\mathrm { m g / k g } . 2$ ）The dressed percentage of meat geese in groups III， IV and $\\mathrm { \\Delta V }$ was significantly higher than that in groupsIand I （ $( P { < } 0 . 0 5 )$ . 3）The meat water loss rate of meat geese in groups II and Il was significantly lower than that in groups $\\mathrm { I V }$ and $\\mathrm { \\Delta V }$ ? $_ { \\scriptstyle P < 0 . 0 5 }$ ). 4）The crude protein utilization of meat geese in groups II， III and $\\mathrm { I V }$ was significantly higher than that in groupI $( P { < } 0 . 0 5 )$ ; the ether extract utilization of meat geese in group $\\mathrm { I V }$ was significantly higher than that in group II $( P { < } 0 . 0 1 )$ ， and significantly higher than that in group $\\mathrm { \\Delta V }$ 1 $( P { < } 0 . 0 5 )$ ; the crude fiber utilization of meat geese in groups II, II and $\\mathrm { I V }$ was significantly higher than that in groupsI and $\\mathrm { \\Delta V }$ ? $( P { < } 0 . 0 5 )$ ; the zinc utilization of meat geese in groupsI， II and IIl was significantly lower than that in groups $\\mathrm { I V }$ and $\\mathrm { \\Delta V }$ ? $( P { < } 0 . 0 5 )$ . 5) The nitrogen excretion of meat geese in groups II and II was significantly lower than that in groupI $( P { < } 0 . 0 5 )$ ， the nitrogen utilization of meat geese in groups $\\mathrm { I V }$ and $\\mathrm { \\Delta V }$ was significantly higher than that in groups I， I and II $( P { < } 0 . 0 5 )$ .6 Analysis by paired $t$ test, compared with the control group (without Bacillus subtilis), the body weight， dressed percentage， percentage of breast muscle， percentage of abdominal fat, meat redness value and utilizations of crude protein, neutral detergent fiber and nitrogen of meat geese in group $\\mathrm { \\Delta V }$ (with Bacillus subtilis） were significantly increased $( P { < } 0 . 0 5 )$ . In conclusion, the addition of Bacillus subtilis and zinc in the diet can improve the growth performance, slaughter performance and utilizations of crude protein, ether extract, crude fiber and zinc,and reduce the emissions of zinc and nitrogen. Under the condition of dietary Bacillus subtilis supplemental level was $2 5 0 ~ \\mathrm { m g / k g }$ ,the suitable supplemental level of zinc is 15.0 to $4 7 . 5 \\mathrm { m g / k g }$ ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Key words: Bacillus subtilis ; zinc; geese; growth performance; slaughter performance; meat ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "quality;nutrientutilization. ",
+        "page_idx": 15
+    }
+]

@@ -1,0 +1,388 @@
+[
+    {
+        "type": "text",
+        "text": "杜仲叶提取物对产蛋后期蛋鸡生产性能、蛋品质、蛋黄胆固醇含量及血清抗氧化能力的影响1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘青翠1'² 彭 翔² 张俊平² 唐守营² 武书庚1\\*（1.中国农业科学院饲料研究所，农业部饲料生物技术重点开放实验室，生物饲料开发国家工程研究中心，北京100081；2.北京挑战牧业科技股份有限公司，北京100081)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要：本试验旨在研究杜仲叶提取物对产蛋后期蛋鸡生产性能、蛋品质、蛋黄胆固醇含量及血清抗氧化能力的影响。采用单因子试验设计，选择产蛋率和体重相近、健康状态良好的420日龄海兰褐蛋鸡1200只，随机分为4组，每组6个重复，每个重复50只。对照组饲喂基础饲粮，试验组分别在基础饲粮中添加100、200 和 $3 0 0 \\mathrm { g / t }$ 杜仲叶提取物。预试期1周，正试期8周。结果表明：1）与对照组相比，试验组的破软蛋率和死淘率均显著降低（ $P { < } 0 . 0 5$ ）。2）与对照组相比，试验第56天，试验组的蛋壳厚度、蛋壳强度均显著增加（ $( P { < } 0 . 0 5$ ），蛋黄胆固醇含量极显著减少（ $\\cdot { \\cal P } { < } 0 . 0 1$ ）。3）与对照组相比，试验组的血清超氧化物歧化酶和过氧化氢酶活性极显著升高 （ $\\cdot P { < } 0 . 0 1$ ），血清丙二醛含量极显著降低0 $\\cdot P { < } 0 . 0 1$ ）。综上，饲粮中添加杜仲叶提取物可降低死淘率和破软蛋率，增加蛋壳厚度、蛋壳强度，降低蛋黄胆固醇含量，改善机体抗氧化能力，其中 $3 0 0 \\ \\mathrm { g / t }$ 杜仲叶提取物组效果最好。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：杜仲叶提取物；产蛋后期蛋鸡；生产性能；蛋品质；抗氧化能力",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S831.5",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着我国经济的发展，居民生活水平的提高，人们对绿色、安全、无抗鸡蛋的需求日益增加。蛋鸡养殖中，常因饲养环境、饲养管理、营养水平差等导致蛋鸡生产潜能得不到充分发挥，养殖户往往忽视产蛋后期蛋鸡生产性能及蛋品质；随着蛋鸡周龄的增加以及营养、环境、疾病等因子影响的积累，导致蛋壳破损严重，蛋壳表面残留大量可见和不可见的粪污等，鸡蛋易被微生物污染，蛋鸡机体抗氧化能力及抗病力逐渐下降。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中草药制剂能调整器官功能，使机体保持良好的抗病力，且无耐药性。杜仲是一种天然草药，资源丰富，已列入饲料添加剂目录，其富含绿原酸、黄酮类化合物、多糖等，具有抑菌、抗应激、抗氧化、清除自由基、增加消化酶分泌、促进生长和改善肉质等功效。杜仲叶提取物具有天然、多功能、生物安全等特点。杜仲叶提取物中的绿原酸、京尼平苷可促进胆汁分泌；黄酮类化合物可促进成骨细胞增殖，加速成骨细胞分化和矿化[1-2]。杜仲叶中的皂苷、生物碱、多糖等可增强免疫细胞功能，活化免疫器官、免疫系统，促进抗体生成。研究发现，杜仲叶 $50 \\%$ 乙醇提取物显著增强了小白鼠淋巴细胞转化功能及巨噬细胞的吞噬能力，对正常小鼠脾脏抗体形成细胞无显著影响[3]。针对蛋鸡产蛋后期的生产性能下降和蛋品质差等问题，目前未见杜仲叶提取物的相关报道。因此，本试验旨在研究饲粮中添加杜仲叶提取物对产蛋后期蛋鸡生产性能、蛋品质、蛋黄胆固醇含量及血清抗氧化能力的影响，以期为产蛋后期蛋鸡健康和配制蛋品质改善型蛋鸡饲粮提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验材料",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "杜仲叶提取物购自山东龙昌动物保健品有限公司，含绿原酸 $7 . 0 \\%$ 、杜仲黄酮 $1 5 \\%$ 、杜仲多糖 $40 \\%$ 、水溶性杂质 $3 8 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2试验设计及饲粮",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选取产蛋率、体重相近，健康状态良好的420日龄海兰褐蛋鸡1200只，随机分为4组，每组6个重复，每个重复50只。对照组饲喂基础饲粮，试验组分别在基础饲粮中添加100、200和 $3 0 0 \\mathrm { g / t }$ 杜仲叶提取物。预试期1周，正试期8周。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "参照NRC（1994）、我国《鸡饲养标准》（NY/T33-2004）以及海兰褐蛋鸡饲养手册配制基础饲粮，不添加杜仲叶提取物。基础饲粮组成及营养水平见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/168bffbc671f8154b4c78d0580adc05a154d6ba07eb0a7ce02087e0078ffcd35.jpg",
+        "table_caption": [
+            "表1基础饲粮组成及营养水平 (风干基础)",
+            "Table 1 Composition and nutrient levels of the basal diet (air-dry basis） %"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>原料Ingredients</td><td>含量Content</td><td>营养水平 Nutrient levels2)</td><td>含量Content</td></tr><tr><td>玉米Corn</td><td>64.5</td><td>代谢能 ME/(MJ/kg)</td><td>11.40</td></tr><tr><td>豆粕 Soybean meal</td><td>24.0</td><td>粗蛋白质CP</td><td>15.62</td></tr><tr><td>豆油 Soybean oil</td><td>1.0</td><td>钙Ca</td><td>3.45</td></tr><tr><td>石粉 Limestone</td><td>8.0</td><td>总磷TP</td><td>0.48</td></tr><tr><td>磷酸氢钙CaHPO4</td><td>1.0</td><td>有效磷AP</td><td>0.32</td></tr><tr><td>食盐NaCl</td><td>0.3</td><td>赖氨酸Lys</td><td>0.81</td></tr><tr><td>DL-蛋氨酸DL-met</td><td>0.1</td><td>蛋氨酸Met</td><td>0.35</td></tr><tr><td>氯化胆碱Cholinechloride</td><td>0.1</td><td></td><td></td></tr><tr><td>预混料Permix1)</td><td>1.0</td><td></td><td></td></tr><tr><td>合计Total</td><td>100.0</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1)预混料为每千克饲粮提供 Premix provided the following per $\\mathbf { k g }$ of the diet: VA 10 000IU， $\\mathrm { V D } _ { 3 } 3 0 0 0 \\mathrm { I U }$ ， $\\mathrm { V E } 2 0 \\ : \\mathrm { I U }$ ， $\\mathrm { V K } _ { 3 } 2 \\mathrm { m g }$ ，硫胺素 thiamine $1 \\mathrm { m g }$ ，核黄素 riboflavin $8 ~ \\mathrm { m g }$ ，泛酸钙 calcium pantothenate $4 0 \\ \\mathrm { m g }$ ，烟酸niacin $3 2 . 5 \\mathrm { m g }$ ，吡哆醇 pyridoxine $8 \\ : \\mathrm { m g }$ ，生物素biotin $2 \\ : \\mathrm { m g }$ ，叶酸 folic acid $1 . 5 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 2 } 5 \\mathrm { m g }$ ，胆碱choline $5 0 0 ~ \\mathrm { m g }$ ， $\\mathrm { M n } 7 0 \\mathrm { m g }$ ， $\\mathrm { ~ I ~ l m g ~ }$ ，Fe$8 0 ~ \\mathrm { m g }$ ， $\\mathrm { C u } 8 \\mathrm { m g }$ ， $Z n 8 0 { \\mathrm { m g } }$ ， $\\mathrm { S e } 0 . 3 \\mathrm { m g }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2)代谢能为计算值，其余为实测值。ME was acalculated value,while the others were measured values. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3饲养管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验期内，试验鸡只每天06:30、14:30各饲喂1次干拌料，有窗鸡舍3层阶梯式笼养，上层和中层每窝位4只鸡，下层每窝位3只鸡，自由采食与饮水，每日恒定光照 $1 6 \\mathrm { h }$ ，饲养管理和免疫均按照试验场原有程序进行。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4指标测定及方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4.1生产性能",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "观察每组鸡只的健康状况，试验期以重复为单位，记录每天喂料量、产蛋数、蛋重、破软蛋数和死亡数，每7d统计饲料消耗量。分别于试验第28天和第56天，计算每重复产蛋率、平均蛋重、平均日采食量、料蛋比、破软蛋率和死淘率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.2蛋品质 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "收集试验第28天和第56天的鸡蛋，每重复5枚，用蛋形指数测定仪(EggIndex Reader,Fujihira Industry Co.,Ltd.)测量蛋形指数，用蛋壳厚度测定仪(Egg Shell Thickness Gauge,OrkaTechology Ltd.)测定蛋壳厚度，用SONOVA蛋品质自动分析仪(Egg AnalyzerTM,OrkaTechnologyLtd.)测定蛋黄颜色、哈氏单位。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.3蛋黄胆固醇含量",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "收集试验第28天和第56天的鸡蛋，每重复5枚蛋，混合5枚蛋黄，称取混合样品 $0 . 0 5 \\mathrm { \\ g }$ 经无水乙醇-氢氧化钾溶液皂化，石油醚和无水乙醚混合溶液提取，甲醇溶液定量，用高效液相色谱仪测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.4血清抗氧化能力",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验第56天早上，每重复随机选取1只鸡，空腹翅静脉采血， $3 ~ { 6 0 0 } ~ \\mathrm { r / m i n }$ 离心 $1 0 \\mathrm { m i n }$ 制备血清，分装， $- 2 0 \\ \\mathrm { ^ { \\circ } C }$ 保存，黄嘌呤氧化酶法测定血清超氧化物歧化酶（SOD）活性，硫代巴比妥酸法测定血清丙二醛（MDA）含量，比色法测定血清过氧化氢酶（CAT）活性。测定采用南京建成生物工程研究所试剂盒，按照试剂盒说明书操作。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5数据统计与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用Excel2010对原始数据进行初步处理，用SPSS19.0进行单因素方差分析（one-wayANOVA），多重比较用Duncan氏法，结果以平均值±标准误表示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1杜仲叶提取物对蛋鸡产蛋后期生产性能的影响",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，试验第28天、第56天，饲粮添加杜仲叶提取物组平均蛋重均略高于对照组，但各组间差异不显著（ $\\cdot P { > } 0 . 0 5 )$ ）， $3 0 0 \\ \\mathrm { g / t }$ 组平均蛋重均略高于其他各组。试验第28天、第56天，饲粮添加杜仲叶提取物组平均日采食量略高于对照组，但各组间差异不显著（20 $( P { > } 0 . 0 5 )$ ， $3 0 0 \\mathrm { g / t }$ 组平均日采食量略高于其他各组。试验第28天、第56天，饲粮添加杜仲叶提取物组产蛋率均略高于对照组，但各组间差异不显著（ $\\cdot P { > } 0 . 0 5 )$ ， $3 0 0 \\mathrm { g / t }$ 组产蛋率略高于其他各组。试验第28天、第56天，饲粮添加杜仲叶提取物组料蛋比均略低于对照组，但各组间差异不显著（ $P { > } 0 . 0 5 \\$ ），随着杜仲叶提取物添加水平增加，料蛋比有降低的趋势， $3 0 0 \\mathrm { g / t }$ 组料蛋比略低于其他各组。试验第28天、第56天， $3 0 0 \\ \\mathrm { g / t }$ 组破软蛋率显著低于对照组和 $1 0 0 \\ : \\mathrm { g / t }$ 组（ $\\scriptstyle P < 0 . 0 5 )$ ，100和 $2 0 0 \\ \\mathrm { g / t }$ 组破软蛋率显著低于对照组（ $P { < } 0 . 0 5 )$ ，100和 $2 0 0 \\ \\mathrm { g / t }$ 组之间破软蛋率差异不显著（ $\\vert P { > } 0 . 0 5 \\rangle$ ），在破软蛋率方面 $3 0 0 \\ \\mathrm { g / t }$ 组效果最好。试验第28天、第56天， $3 0 0 \\mathrm { g / t }$ 组死淘率显著低于对照组和100、 $2 0 0 \\ \\mathrm { g / t }$ 组（ $\\scriptstyle P < 0 . 0 5 )$ ， $2 0 0 \\ : \\mathrm { g / t }$ 组死淘率显著低于对照组和 $1 0 0 \\ \\mathrm { g / t }$ 组（ $P { < } 0 . 0 5 )$ ， $1 0 0 \\mathrm { g / t }$ 组死淘率显著低于对照组 （ $P <$ 0.05），在死淘率方面 $3 0 0 ~ \\mathrm { g / t }$ 组效果最好。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/7b121834ed5f5efe382adc94cdf064c1d300e56a52394a5c3846ac30f169ccec.jpg",
+        "table_caption": [
+            "表2杜仲叶提取物对产蛋后期蛋鸡生产性能的影响",
+            "Table 2 Effects of the Eucommia leaves extract on performance of laying hens during late period of laying "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\"></td><td rowspan=\"2\"></td><td rowspan=\"2\">P值ue</td></tr><tr><td>项目</td><td>时间</td><td>对照组</td><td>Eucommia提g/t</td></tr><tr><td>Items</td><td>Time</td><td>Control group</td><td>100</td><td>200</td><td>300</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/dd2a5731c7d3835ee445614722081a461b7c6b1a5f14bd40b3417763f6540f3b.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "同行数据肩标不同小写字母表示差异显著（ $\\scriptstyle \\cdot { \\cal P } { < } 0 . 0 5 .$ )，不同大写字母表示差异极显著（ $_ { \\scriptstyle P < 0 . 0 1 { \\dot { \\ } } }$ ，相同或无字母表示差异不显著（ $P { > } 0 . 0 5$ )。下表同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">平均蛋重 AEW/g</td><td rowspan=\"2\">第28 天The 28th days 第56</td><td rowspan=\"2\">62.13±3.96</td><td rowspan=\"2\">63.02±2.61</td><td rowspan=\"2\">64.67±4.80</td><td rowspan=\"2\">65.09±2.89</td><td rowspan=\"2\">0.705</td></tr><tr><td>64.67±1.60</td></tr><tr><td rowspan=\"2\">平均日采食量 ADFI/g</td><td>天The 56th days 第28 天The</td><td>64.64±1.25 123.36±0.88</td><td>124.61±0.47</td><td>65.75±1.65 125.84±1.97</td><td>65.86±2.46 126.94±1.73</td><td>0.991 0.727</td></tr><tr><td>28th days 第56 天The</td><td>128.49±1.62</td><td>128.53±1.47</td><td>130.03±1.97</td><td>131.30±1.73</td><td>0.784</td></tr><tr><td rowspan=\"2\">产蛋率 LR/%</td><td>56th days 第28 天The</td><td></td><td>87.50±2.23</td><td>87.26±2.09</td><td>89.10±2.71</td><td>0.417</td></tr><tr><td>28th days 第56 天The</td><td>86.96±2.14</td><td></td><td>86.51±1.99</td><td></td><td></td></tr><tr><td rowspan=\"2\">料蛋比 F/E</td><td>56th days 第28 天The</td><td>85.39±1.14</td><td>86.42±1.23</td><td></td><td>86.87±1.71</td><td>0.475</td></tr><tr><td>28th days 第56 天The</td><td>2.28±0.11</td><td>2.25±0.16</td><td>2.23±0.08</td><td>2.18±0.07</td><td>0.367</td></tr><tr><td rowspan=\"3\">破软蛋率 Unqualified egg rate/%</td><td>56th days 第28</td><td>2.32±0.13</td><td>2.30±0.11</td><td>2.29±0.14</td><td>2.28±0.09</td><td>0.372</td></tr><tr><td>天The</td><td>0.71±0.01a</td><td>0.59±0.01b</td><td>0.48±0.01bc</td><td>0.29±0.01c</td><td>0.032</td></tr><tr><td>天The 56th days 第28</td><td>1.03±0.01a</td><td>0.62±0.01b</td><td>0.58±0.00bc</td><td>0.31±0.01c</td><td>0.037</td></tr><tr><td rowspan=\"2\">死淘率 Mortality rate/%</td><td>天The 28th days 第56</td><td>0.76±0.15a</td><td>0.59±0.21b</td><td>0.51±0.14c</td><td>0.21±0.07d</td><td>0.028</td></tr><tr><td>天The 56th days</td><td>1.02±0.22a</td><td>0.96±0.09b</td><td>0.41±0.09c</td><td>0.24±0.03d</td><td>0.025</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the same row, values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,and with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ ),while with the same or no letter superscripts mean no significant difference ( $( P { > } 0 . 0 5 )$ .The same as below. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2杜仲叶提取物对产蛋后期蛋鸡蛋品质的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，试验第28天、第56天，100、200、 $3 0 0 ~ \\mathrm { g / t }$ 组蛋白高度、蛋黄颜色、蛋形指数、蛋壳比例、蛋黄比例、蛋白比例与对照组相比均差异不显著（ $P { > } 0 . 0 5 \\$ ）。试验第28天， $3 0 0 \\ \\mathrm { g / t }$ 组哈氏单位显著低于对照组（ $P { < } 0 . 0 5 )$ ），100、200、 $3 0 0 \\mathrm { g } / 1$ 组之间差异不显著（ $\\cdot P { > } 0 . 0 5 \\rangle$ ），100、 $2 0 0 \\ \\mathrm { g } / 1$ 组和对照组之间哈氏单位差异不显著（ $\\cdot P { > } 0 . 0 5 )$ ），在哈氏单位方面 $3 0 0 ~ \\mathrm { g / t }$ 组效果最好；试验第56天，各组哈氏单位差异不显著（ $\\cdot P { > } 0 . 0 5$ ）。试验第28天，各组间蛋壳厚度差异不显著（ $\\mathrm { \\Phi } \\cdot P { > } 0 . 0 5 \\mathrm { \\dot { \\Omega } }$ ）；试验第56天，100、200、 $3 0 0 \\ \\mathrm { g / t }$ 组蛋壳厚度显著高于对照组（ $P { < } 0 . 0 5 )$ ，100、200、 $3 0 0 \\mathrm { g } / 1$ 组之间差异不显著（ $\\mathrm { ( } P { > } 0 . 0 5 \\$ ），在蛋壳厚度方面 $3 0 0 ~ \\mathrm { g / t }$ 组最好。试验第28天，各组之间蛋壳强度差异不显著（ $\\vert P { > } 0 . 0 5 ) ,$ ）；试验第56天，200、 $3 0 0 \\ \\mathrm { g / t }$ 组蛋壳强度显著高于 $1 0 0 \\mathrm { g } / 1$ 组和对照组（ $\\cdot P { < } 0 . 0 5 \\$ ），200、 $3 0 0 \\mathrm { g } / 1$ 组之间差异不显著（ $P { > } 0 . 0 5 \\$ ）， $1 0 0 ~ \\mathrm { g / t }$ 组显著高于对照组（ $\\cdot P { < } 0 . 0 5 \\$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/29ad0927b0e000d8413248f9bfb147935c053b43ffef5bdc05720aa15bfca702.jpg",
+        "table_caption": [
+            "表3杜仲叶提取物对产蛋后期蛋鸡蛋品质的影响",
+            "Table 3 Effects of Eucommia leaves extract on egg quality of laying hens during late period of laying "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\"></td></tr><tr><td>项目</td><td>时间</td><td>对照组</td><td colspan=\"3\">杜仲叶提取物添加水平 Eucommia leaves extract supplemental level/(g/t)</td><td>P值</td></tr><tr><td rowspan=\"3\">Items</td><td>Time</td><td>Control group</td><td>100</td><td>200</td><td>300</td><td>P- value</td></tr><tr><td>第28天 The 28th</td><td>6.60±0.56</td><td>6.88±0.90</td><td>6.93±1.41</td><td>7.00±0.88</td><td>0.482</td></tr><tr><td>days 第56天 The 56th</td><td>6.40±1.13</td><td>6.58±0.80</td><td>6.62±0.71</td><td>6.62±0.62</td><td>0.910</td></tr><tr><td>蛋黄颜色 Yolk color</td><td>days 第28天 The 28th days</td><td>8.09±1.13</td><td>8.09±0.53</td><td>8.45±0.68</td><td>8.72±0.64</td><td>0.338</td></tr><tr><td rowspan=\"2\"></td><td>第56天 The 56th</td><td>8.27±1.19</td><td>8.81±0.40</td><td>8.72±0.46</td><td>8.81±0.58</td><td>0.222</td></tr><tr><td>days 第28天 The 28th</td><td>78.24±3.40b</td><td>81.37±5.67ab</td><td>82.48±4.62ab</td><td>84.50±5.48a</td><td>0.047</td></tr><tr><td>哈氏单位 Haugh unit</td><td>days 第56天 The 56th days</td><td>77.60±7.63</td><td>78.38±6.80</td><td>78.24±5.27</td><td>79.01±3.94</td><td>0.940</td></tr><tr><td>蛋壳厚度 Eggshell thickness/mm</td><td>第28天 The 28th days</td><td>0.44±0.03</td><td>0.44±0.03</td><td>0.43±0.02</td><td>0.45±0.03</td><td>0.240</td></tr><tr><td></td><td>第56天 The 56th days</td><td>0.41±2.09b</td><td>0.42±1.59a</td><td>0.42±2.20a</td><td>0.43±2.01a</td><td>0.045</td></tr><tr><td rowspan=\"2\">蛋壳强度 Eggshell strength/(N/m²)</td><td>第28天 The 28th days</td><td>37.1±5.38</td><td>37.49±4.21</td><td>37.44±5.03</td><td>39.09±5.38</td><td>0.754</td></tr><tr><td>第56天 The 56th days</td><td>32.55±3.27a</td><td>36.10±3.53b</td><td>37.75±3.47c</td><td>38.17±3.67cd</td><td>0.032</td></tr><tr><td>蛋形指数</td><td>第28天 The 28th days</td><td>1.40±0.04</td><td>1.39±0.04</td><td>1.40±0.05</td><td>1.42±0.04</td><td>0.418</td></tr><tr><td>Egg shape index</td><td>第56天</td><td>1.37±0.053</td><td>1.40±0.036</td><td>1.41±0.096</td><td>1.38±0.063</td><td>0.357</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/9993ea466c3eba4ffb257d0fd599ee164eb2c70f94e94752e3e990545ebb8589.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "2.3杜仲叶提取物对产蛋后期蛋鸡蛋黄胆固醇含量的影响"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">蛋壳比例 Egg shell percentage/% 第56天</td><td rowspan=\"2\">The 56th days 第28天 The 28th days</td><td colspan=\"5\"></td></tr><tr><td>11.38±1.06</td><td>11.63±0.82</td><td>11.61±0.93</td><td>11.59±1.18</td><td>0.925</td></tr><tr><td rowspan=\"4\">蛋黄比例 Yolk percentage/%</td><td>The 56th days 第28天</td><td>10.79±0.93</td><td>10.59±0.41</td><td>10.42±0.50</td><td>10.90±0.65</td><td>0.321</td></tr><tr><td>The 28th days 第56天</td><td>26.10±2.12</td><td>26.39±1.74</td><td>26.55±2.41</td><td>27.10±2.58</td><td>0.406</td></tr><tr><td>The 56th days</td><td>27.72±1.18</td><td>28.18±2.20</td><td>27.78±1.66</td><td>27.01±2.03</td><td>0.584</td></tr><tr><td>第28天 The 28th days</td><td>62.51±2.56</td><td>61.96±1.72</td><td>61.82±2.45</td><td>60.53±3.11</td><td>0.315</td></tr><tr><td>蛋白比例 Albumen percentage/%</td><td>第56天 The 56th days</td><td>61.48±1.40</td><td>61.22±2.04</td><td>61.79±1.77</td><td>62.09±2.22</td><td>0.785</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，试验第28天， $3 0 0 \\mathrm { g / }$ t组蛋黄胆固醇含量极显著低于100、 $2 0 0 \\ : \\mathrm { g / }$ t组和对照组（ $\\scriptstyle P < 0 . 0 1 )$ ， $2 0 0 \\mathrm { g / t }$ 组蛋黄胆固醇含量极显著低于 $1 0 0 \\ : \\mathrm { g / t }$ 组和对照组（ $\\cdot P { < } 0 . 0 1 \\$ ）， $1 0 0 \\ \\mathrm { g / t }$ 组蛋黄胆固醇含量极显著低于对照组（ $\\cdot P { < } 0 . 0 1$ ）。试验第56天， $3 0 0 \\mathrm { g / }$ t组蛋黄胆固醇含量极显著低于 $1 0 0 \\ : \\mathrm { g / t }$ 组和对照组 ( $\\scriptstyle \\left. P < 0 . 0 1 \\right)$ ， $2 0 0 \\mathrm { g / t }$ 组蛋黄胆固醇含量极显著低于对照组（ $P$ ${ < } 0 . 0 1 \\$ ）， $1 0 0 \\mathrm { g / t }$ 组蛋黄胆固醇含量极显著低于对照组（ $P { < } 0 . 0 1$ ）。由此可见，饲粮中添加杜仲叶提取物可极显著降低蛋黄的胆固醇的含量，试验第28天 $3 0 0 \\ \\mathrm { g / t }$ 组蛋黄胆固醇的含量最低。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/366e9cf89e06c6fa3b55dd18f0e0fbe7b504d2215fd6a419695cd00474508ab1.jpg",
+        "table_caption": [
+            "表4杜仲叶提取物对产蛋后期蛋鸡蛋黄胆固醇含量的影响",
+            "Table 4 Effects of Eucommia leaves extract on yolk cholesterol content of laying hens during late "
+        ],
+        "table_footnote": [
+            "2.4杜仲叶提取物对产蛋后期蛋鸡血清抗氧化能力的影响"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">period of laying</td><td colspan=\"3\">mg/g</td></tr><tr><td rowspan=\"3\">项目 Item</td><td>时间</td><td rowspan=\"3\">对照组 Control group</td><td colspan=\"3\">杜仲叶提取物添加水平</td><td rowspan=\"3\">P值 P-value</td></tr><tr><td>Time</td><td></td><td>Eucommia leaves extract supplemental level/(g/t)</td><td></td></tr><tr><td></td><td>100</td><td>200</td><td>300</td></tr><tr><td rowspan=\"3\">胆固醇 Cholesterol</td><td>第28天The 28th days</td><td>2.87±0.02A</td><td>2.57±0.01B</td><td>2.52±0.03C</td><td>2.29±0.03D</td><td><0.01</td></tr><tr><td>第56天The</td><td></td><td>2.71±0.01Bb</td><td>2.70±0.02BCbc</td><td>2.54±0.01Cc</td><td><0.01</td></tr><tr><td>56th days</td><td>3.01±0.03Aa</td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表5可知，与对照组相比，饲粮添加杜仲叶提取物可极显著提高血清 SOD活性，300$\\mathrm { \\bf g / t }$ 组极显著高于100、 $2 0 0 ~ \\mathrm { g / t }$ 组和对照组（ $\\scriptstyle P < 0 . 0 1 )$ ， $2 0 0 ~ \\mathrm { g / t }$ 组极显著高于 $1 0 0 \\ \\mathrm { g / t }$ 组和对照组 ( $P { < } 0 . 0 1 )$ ， $1 0 0 \\ : \\mathrm { g / t }$ 组极显著高于对照组（ $. P { < } 0 . 0 1 \\rangle$ ；在改善血清 SOD活性方面，300$\\mathrm { g / t }$ 组效果最好。与对照组相比，饲粮添加杜仲叶提取物可极显著降低血清 MDA含量，300$\\mathrm { g / t }$ 组极显著低于100、 $2 0 0 ~ \\mathrm { g / t }$ 组和对照组（ $\\cdot P { < } 0 . 0 1 \\rangle$ ， $2 0 0 ~ \\mathrm { g / t }$ 组极显著低于 $1 0 0 ~ \\mathrm { g / t }$ 组和对照组 ( $P { < } 0 . 0 1 )$ ， $1 0 0 ~ \\mathrm { g / t }$ 组极显著低于对照组（ $\\scriptstyle P < 0 . 0 1 \\$ )；在改善血清MDA含量方面，$3 0 0 \\ \\mathrm { g / t }$ 组效果最好。与对照组相比，饲粮添加杜仲叶提取物可极显著提高血清CAT活性，$3 0 0 \\ \\mathrm { g / t }$ 组极显著高于100、 $2 0 0 \\ \\mathrm { g / t }$ 组和对照组（ $\\scriptstyle P < 0 . 0 1 .$ ， $2 0 0 \\ \\mathrm { g / t }$ 组极显著高于 $1 0 0 \\ : \\mathrm { g / t }$ 组和对照组 （ $\\cdot P { < } 0 . 0 1 )$ ， $\\boldsymbol { 1 0 0 } \\ : \\mathrm { g / t }$ 组极显著高于对照组（ $\\scriptstyle P < 0 . 0 1 { \\mathrm { ~ . ~ } }$ )；在改善血清CAT活性方面，$3 0 0 \\mathrm { g / t }$ 组效果最好。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/8fa742cb111538c21ce9766987d52b3e36820001a5a4d8fd6bb995c1c271e212.jpg",
+        "table_caption": [
+            "表5杜仲叶提取物对产蛋后期蛋鸡血清抗氧化能力的影响",
+            "Table 5 Effects of Eucommia leaves extract on serum antioxidant capacity of laying hens during late period of laying "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目 Items</td><td rowspan=\"2\">对照组 Control group</td><td colspan=\"3\">杜仲叶提取物添加水平 Eucommia leaves extract supplemental level/(g/t)</td><td rowspan=\"2\">P值 P-value</td></tr><tr><td>100</td><td>200</td><td>300</td></tr><tr><td>超氧化物歧化酶 SOD/(U/mL)</td><td>169.84±0.24D</td><td>170.21±0.40C</td><td>180.81±0.64B</td><td>184.24±0.35A</td><td><0.01</td></tr><tr><td>丙二醛 MDA/(nmol/mL)</td><td>3.38±0.01A</td><td>3.34±0.02B</td><td>2.59±0.02C</td><td>2.38±0.02D</td><td><0.01</td></tr><tr><td>过氧化氢酶 CAT/(U/mL)</td><td>1.21±0.40D</td><td>1.26±0.21C</td><td>2.34±0.30B</td><td>2.52±0.15A</td><td><0.01</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1杜仲叶提取物对产蛋后期蛋鸡生产性能的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "影响蛋鸡生产性能的因素很多，包括个体差异、年龄、环境、活动量、繁殖阶段、饲粮能量水平等[4-6]。本研究表明，饲粮中添加100、200、 $3 0 0 \\ \\mathrm { g / t }$ 的杜仲叶提取物对试验期蛋鸡的平均蛋重、平均日采食量、产蛋率、料蛋比无显著影响，马得莹等[7的研究表明，中草药添加剂对蛋雏鸡的体重及增重无显著影响，这与本试验结果相似，杜仲叶提取物中的黄酮类化合物能够促进成骨细胞增殖，加速成骨细胞分化和矿化，并且能够刺激胃肠道，增加消化酶的分泌，促进血液循环，提高机体消化率和吸收率，提高动物生产性能。但也有研究表明，杜仲叶提取物作为饲料添加剂可增强动物免疫力，提高畜禽生长性能，改善畜产品质量[8]。蛋鸡产蛋后期机体氧化加速衰老，采食量增加，产蛋率下降，添加 $3 0 0 ~ \\mathrm { g / t }$ 的杜仲叶提取物有延缓蛋鸡产蛋率下降的趋势。本试验期为8周，杜仲叶提取物作用缓慢，试验期相对较短，可能未对蛋鸡的平均蛋重、平均日采食量、产蛋率、料蛋比产生影响。饲粮中添加 $3 0 0 ~ \\mathrm { g / t }$ 的杜仲叶提取物可显著改善破软蛋率和死淘率，可能是杜仲叶提取物中的绿原酸具有抗菌、止血及增加白血球数量的作用。Okada 等[研究表明，萜类化合物地芰普内酯是一种干扰T淋巴细胞的主要物质，具有免疫抑制活性，可以提高机体免疫力，可能与破软蛋率和蛋鸡死淘率下降有关。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2杜仲叶提取物对产蛋后期蛋鸡蛋品质的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "蛋鸡产蛋后期蛋体变大，蛋壳变薄，蛋壳颜色不均一。影响蛋品质的因素较多，除遗传因素外，还受饲粮、光照和鸡体健康状况影响。蛋形指数、蛋壳强度、蛋壳厚度是衡量蛋品质的重要指标，蛋壳主要是由 $9 4 \\% { \\sim } 9 7 \\%$ 的无机物和 $3 \\% { \\sim } 6 \\%$ 的有机物组成，无机物包括 $93 \\%$ 碳酸钙、 $1 \\%$ 碳酸镁和 $2 . 8 \\%$ 碳酸钙与碳酸镁混合物，还有铜、铁、锰、锌、硒等微量元素。本研究表明，饲粮中添加不同水平的杜仲叶提取物对蛋黄颜色、蛋形指数、蛋成分比例未产生显著影响，但可提高哈氏单位，哈氏单位越高说明蛋白质越黏稠，蛋品质越好，鸡蛋中含有许多活性蛋白质，如卵转铁蛋白、溶菌酶、卵球蛋白、卵黄磷脂蛋白、生物结合蛋白等，这些活性蛋白质具有多种生理作用，决定鸡蛋的新鲜度，徐贤柱等[10]研究表明，杜仲多糖可以有效提高小鼠的免疫机能，其作用机理可能是刺激了脾脏增加，使其对免疫应答的能力加强；刺激T细胞等分泌更多的免疫因子，使一些处于休眠状态的免疫细胞活化；增加免疫细胞的数量，提高机体免疫力，进一步提高活性蛋白质的活性，提高鸡蛋哈氏单位。俞路等[研究表明，蛋壳钙沉积过程与输卵管、子宫部钙结合蛋白（CaBP）表达量密切相关。第56天蛋壳厚度、蛋壳强度显著增强，分析其原因可能是蛋壳膜形成过程中因饲粮中添加杜仲叶提取物产生变化，杜仲叶提取物中矿物质及有机酸可溶性强，能显著增加血液中钙、磷的含量，蛋壳形成过程杜仲叶提取物影响蛋鸡输卵管和子宫中CaBP表达量，决定蛋壳钙沉积量，从而影响蛋壳质量。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3杜仲叶提取物对产蛋后期蛋鸡蛋黄胆固醇含量的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "家禽通过合成、转运、降解3种途径来维持体内胆固醇平衡，肝脏和卵巢是胆固醇的合成场所，胆固醇的合成通过类异戊二烯合成来实现，类异戊二烯以乙酰辅酶A（CoA）为原料，经过多种酶共同作用形成胆固醇，3-羟基-3-甲基戊二酸单酰辅酶A还原酶（HMGR）为体内胆固醇合成代谢的关键限速酶，胆固醇 $7 a$ 羟化酶（CYP7α1）为胆固醇分解为胆汁酸的关键酶，HMGR在胞液中经蛋白激酶催化磷酸化丧失活性，鸟苷酸环化酶(GC)等通过第二信使环磷酸腺苷（cAMP）影响蛋白激酶，加速HMGR磷酸化失活从而抑制 HMGR 活性，减少胆固醇的合成，温安详等[12]研究表明，在饲粮中添加 200、400$\\mathrm { m g / k g }$ 绿原酸能显著提高中华鳖裙边和肌肉胶原蛋白的含量，并显著降低肌肉胆固醇含量。本研究表明，饲粮中添加100、200和 $3 0 0 \\ \\mathrm { g / t }$ 杜仲叶提取物可极显著降低蛋黄中胆固醇的含量，但杜仲叶提取物降低胆固醇含量的机理尚未完全清楚，可能的原因是杜仲叶提取物中绿原酸降低血清HMGR活性，同时提高血清GC、CYP7α1等活性，通过提高血清GC 活性来抑制HMGR活性，以促进胆固醇向胆汁酸转化，降低体内胆固醇含量，进而降低蛋黄中胆固醇的含量，这与赖玲林等[13]的研究结果一致。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4杜仲叶提取物对产蛋后期蛋鸡血清抗氧化能力的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "蛋鸡产蛋后期机体氧化衰老速度加快，蛋鸡持续产蛋，旺盛的代谢会产生大量的活性氧自由基，随着蛋鸡日龄增大，体内抗氧化酶类活性下降，自由基积累引起脂质过氧化，损伤细胞功能。SOD和CAT是机体细胞内清除自由基的内源抗氧化酶，SOD广泛存在生物体的组织中，能够清除超氧自由基（ $\\cdot _ { \\mathrm { O } ^ { 2 - } } )$ ，脂质过氧化产物是MDA，因此SOD和MDA是衡量机体氧化和抗氧化的重要指标[16]。本研究表明，饲粮中添加杜仲叶提取物可极显著提高血清 SOD、CAT活性，极显著降低血清 MDA 活性，提高机体抗氧化能力。研究发现，用 $D .$ -半乳糖建立小鼠代谢紊乱试验性衰老模型，给予不同剂量的杜仲叶提取物，观察其对小鼠肺和细胞中 SOD、谷光甘肽过氧化物酶(GSH-Px)活性及血浆中MDA含量的影响，结果表明提杜仲叶取物组各项指标明显优于对照组和模型组，表明杜仲叶提取物对$D _ { \\mathbf { \\alpha } }$ -半乳糖导致的衰老小鼠氧化性损伤具有保护作用[14-15]，这与叶文峰[17]研究结果相似。向灿辉等[18]采用二苯代苦味肼基自由基（DPPH·）和铁离子还原/抗氧化能力（FRAP）测定法，研究了杜仲叶提取物的抗氧化活性，并同维生素C进行了比较，结果表明杜仲叶提取物具较强的抗氧化能力，抗氧化能力与总黄酮含量密切相关，在一定浓度范围内呈线性关系，对DPPH·有较强的清除作用。杜仲叶提取物提高蛋鸡血清抗氧化能力的原因可能是杜仲叶提取物中黄酮具有较强的抗氧化能力，其能够淬灭活性氧类，并能够抑制氧自由基活性，阻止活性氧游离自由基对正常细胞的侵害，提高集体抗氧化能力。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对于产蛋后期蛋鸡，饲粮中添加 $3 0 0 \\mathrm { g / t }$ 杜仲叶提取物的效果最好，可改善哈氏单位、蛋壳强度和蛋壳厚度，极显著降低蛋黄胆固醇含量，改善机体抗氧化能力。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]项丽玲,温亚娟,苗明三.杜仲叶的化学、药理及临床应用分析[J].中医学报,2017,32(1):99-102.  \n[2]王介庆,王洪斌,朱鉴生.杜仲活性成分提取液在家禽生产中的应用[J].中国家  \n禽,1999,21(6):29.  \n[3]薛程远,曲范仙,刘辉.杜仲叶乙醇提取物对小鼠免疫功能的影响[J].甘肃中医学院学报,1998,15(3):50-52.  \n[4] WANG M Q,DU Y J,YE S S,et al.Effects of Duzhong (Eucommia ulmoides Oliv.) on growthperformance and meat quality in broiler chicks[J].Journal of Animal and Veterinary  \nAduances,2012,11(9):1385-1389.  \n[5]张瑞仙.杜仲叶、金银花对蛋鸡生产性能、免疫力、胆固醇代谢及蛋品质的影响[D].硕士学位论文.重庆:西南大学,2012:5-7.  \n[6]章世元,俞路,王雅倩,等.蛋壳质量与元素组成、超微结构关系的研究[J].动物营养学报,2008,20(4):423-428.  \n[7] 马得莹,单安山,李群道.中草药添加剂对蛋雏鸡生长性能和免疫功能的影响[J].动物营养学报,2014,16(2):36-40.  \n[8] 陈玉敏,黄涛,宋小珍,等.饲粮中添加杜仲叶提取物对爱拔益加肉鸡生长性能及免疫功能的影响[J].动物营养学报,2015,27(7):2224-2230.  \n[9] OKADA N,SHIRATA K,NIWANO M,et al.Immunosuppressive activity of a monoterpene fromEucommia ulmoides[J].Phytochemistry,1994,37(1):281-282.  \n[10]徐贤柱,饶华,蔡险峰,等.杜仲叶多糖提取及对小鼠免疫功能影响的研究[J].时珍国医国药,2013,24(3):541-542.  \n[11]俞路,王雅倩,章世元,等.鸡蛋壳内部组成、构造及其质量的基因调控技术[J].动物营养学报,2008,20(3):366-370.  \n[12]温安详,舒辉,肖洋.绿原酸对中华鳖生产性能及抗氧化能力的影响[J].动物营养学报,2010,22(3):729-733.  \n[13]李文娜,韩宇东,刘银花,等.杜仲叶绿原酸提取物对脂代谢关键酶活性的影响[J].中药新药与临床药理,2012,23(1):30-33.  \n[14] SHIMODA H,SEKI E,AITANI M.Inhibitory effect of green coffee bean extract on fataccumulation and body weight gain in mice[J].BMC Complementary & Alternative  \nMedicine,2006,6:9.  \n[15] CHOI M S,JUNG U J,KIM H J,et al.Du-zhong (Eucommia ulmoides Oliver) leaf extractmediates hypolipidemic action in hamsters fed a high-fat diet[J].The American Journal ofChinese Medicine,2008,36(1):81-93.  \n[16]李凤龙,任爱军,蔡国鹤,等.发酵杜仲叶粉对蛋鸡生产性能、鸡蛋胆固醇和脂质代谢的影响[J].西北农业学报,2016,25(8):1137-1143.  \n[17]叶文峰.杜仲叶中化学成分、药理活性及应用研究进展[J].林产化工通讯,2004,38(5):40-44.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[18]向灿辉,靳洪莲,陈阳,等.杜仲叶绿原酸含量与抗氧化活性的相关性研究[J].食品工业,2013(12):149-152",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "fects of Eucommia Leaves Extract on Performance, Egg Quality, Yolk Cholesterol Content and Serum Antioxidant Capacity of Laying Hens during Late Period of Laying ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "LIU Qingcuil' ² PENG Xiang² ZHANG Junping² TANG Shouying² WU Shugeng1\\* ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1. Key Laboratry of Feed Biotechology of Ministry of Agricultural, National Engineering   \nResearch Center of Biological Feed, Feed Research Institute ,Chinese Academy of Agricultural   \nScience,Beijing 10o081, China; 2.Beijing Challenge Husbandry Science & Technology Co.,Ltd., Beijing 100081, China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This experiment was conducted to investigate the effect of Eucommia leaves extract on performance,egg quality, yolk cholesterol content and serum antioxidant capacity of laying hens during late period of laying. Based on a single factor experiment desine, a total of 1 20o laying hens (42O-day-old) with similar laying rate and body weight were randomly divided into 4 grours with 6 replications per group and 50 hens per replicate. Laying hens in the control group were fed a basal diet, and the others in the experimental groups were fed the basal diets supplemented with $1 0 0 , 2 0 0 , 3 0 0 ~ \\mathrm { g / t }$ Eucommia leaves extract, respectively. The adaptation period lasted for 1 week and the formal period lasted for 8 weeks. The results showed as follows: 1) compared with the control group， the unqualified egg rate and mortality rate of experimental groups were significantly decreased $P < 0 . 0 5 ) \\$ . 2） Compared with the control group,at the $5 6 ^ { \\mathrm { { t h } } }$ days, the eggshell thickness,eggshell strength of experimental groups were significantly increased $( P <$ 0.05), the yolk cholesterol content of experimental groups was significantly decreased $( P { < } 0 . 0 1 \\$ ） 3) Compared with the control group,the acticities of superoxide dismutase and catalase in serum of experimental groups were significantly increased ( $\\ k _ { P } < 0 . 0 1$ ),while the serum malondialdehyde content of experimental groups was significantly decreased ( $P < 0 . 0 1$ ). In conclusion，dietary supplemented with Eucommia leaves extract can reduce the unqualified egg rate and mortality rate, increase the eggshell thickness and eggshell strength,reduce the yolk cholesterol conten, improve the body antioxidant capacity. The best sepplemented level of Eucommia leaves extract in the basal diet was $3 0 0 \\mathrm { g / t }$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words: Eucommia leaves extract; laying hens during late period of laying; performance; egg quality; antioxidant capacity ",
+        "page_idx": 10
+    }
+]

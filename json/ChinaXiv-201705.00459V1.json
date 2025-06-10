@@ -1,0 +1,290 @@
+[
+    {
+        "type": "text",
+        "text": "Irradiation resistance properties studies on helium ions irradiated MAX phase $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ （204号 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Peng Songab, Jianrong Suna\\*, Zhiguang Wanga,\\*, Minghuan Cuia, Tielong Shena, Yuanfei Lia, Lilong Panga, Yabin Zhua, Qing HuangC, Jinjun Lud ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "aInstitute of Modern Physics, Chinese Academy of Sciences,Lanzhou 73oooo,China b University of Chinese Academy of Sciences,Beijing 10o049, China ‘Ningbo Institute of Materials Technology& Engineering,Chinese AcademyofSciences,Ningbo 315201,China dLanzhou Institute of Chemical Physics,Chinese Academy of Sciences,Lanzhou 73ooo,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE INFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nHe   \nMAX phase   \nIrradiation resistance   \nTi3AIC2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The study presents an investigation of irradiation resistance properties of $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ under $5 0 0 \\mathrm { k e V }$ He ions irradiation with the doses ranging from $5 . 0 \\times 1 0 ^ { 1 6 }$ to $1 . 0 \\times 1 0 ^ { 1 8 }$ ions $\\mathrm { c m } ^ { - 2 }$ at certain temperatures, like room temperature (RT),300 and $5 0 0 ^ { \\circ } { \\mathsf { C } } .$ X-ray difraction (XRD) and Transmission electron microscopy (TEM)are used to study the evolution of structural damage and the behaviorof deposited He ions respectively.XRD analysis reveals that for the highest dose irradiation ( ${ \\sim } 5 2$ dpa at peak),no amorphization occurs.And the structural recovery of $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ is more significant accompanied with the gradual disappearance of the irradiation-induced TiC phase as the temperature rises from RT to 3oO and to $5 0 0 ^ { \\circ } { \\mathsf C }$ with the same dose irradiation.TEM observations show that He bubbles appear in the shapes of sphere,string and platelet but no big bubbles are formed forallirradiations.Moreover,no large cracks form in the sample implanted with the highest helium concentration of ${ \\sim } 6 . 4 \\times 1 0 ^ { 5 }$ appm. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "As one of the typical MAX phases,where Mis an early transition metal,Ais an element from the IIIA or IVA groups,and Xis carbon or nitrogen, $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ ischaracterized by near close-packed Ti layers interleaved with Al layers,with the C atoms filling the octahedral sites between Ti atoms $\\left( \\mathrm { T i } _ { 6 } C \\right)$ [1].So $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ combines the properties of both metal and ceramic,such as high-temperature stability 0 $1 4 6 0 ^ { \\circ } \\mathsf C$ at least),good ductility,excellent thermal shock resistance and intrinsic damage tolerance[1-4].Therefore,it has been considered asa remarkable fuelcladding or structural material to beused in future fission and fusion reactors,such as the gas-cooled fast reactor (GFR)and international thermonuclear experimental reactor(ITER). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Several works concerning irradiation effect of $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ and similar MAX phase $\\mathrm { T i } _ { 3 } \\mathrm { S i C } _ { 2 }$ have been conducted in recent years and most of them are at low damage displacement with high energy ions irradiation. Flem et al.[5] and Whittle et al.[6] confirmed that $\\mathrm { T i } _ { 3 }$ (Si, Al) ${ { C } _ { 2 } }$ remained crystalline at 6.67 and ${ \\sim } 2 5$ dpa respectively except for some loss of its nanolamellar structure.It was also shown by Whittle group that $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ showed more tolerance to irradiation damage than $\\mathrm { T i } _ { 3 } \\mathrm { S i C } _ { 2 }$ .Liuetal. [7,8] have demonstrated an evident increase in hardness and the formation of $\\beta$ -Ti3Si0.90- $\\mathsf { A l } _ { 0 . 1 0 } \\mathsf C _ { 2 }$ after irradiation by 74MeVKrand 92MeVXe ionsas well asa complete recovery of propertiesathigh temperature especially at $8 0 0 ^ { \\circ } { \\mathsf C }$ 、However,the researches regarding the helium effect on $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ are rare though in $( \\boldsymbol { \\mathrm { n } } , \\boldsymbol { \\mathrm { \\mathfrak { a } } } )$ transmutation reactions [9] of nuclearmaterials plenty of heliumatoms are produced,which result in deleterious effects such as swelling,blistering and mechanical properties degradation of materials [1O].Wang et al.[11] found the transformation of He bubbles shape from sphere to string in $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ with $5 0 \\mathrm { k e V }$ He irradiation at room temperature.But there isno work studying the He behaviors in $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ athigh irradiation temperature.This work is carried out to develop an understanding of the irradiation resistance of $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ and the evolution of helium bubbles under different He ions irradiation conditions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.Experimental details ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The polycrystalline $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ was provided by Ningbo Institute of Materials Technology & Engineering, Chinese Academy of Sciences. To obtain the material,a mixture powder of Ti,Al and C with the stoichiometric proportion of 3:1.2:1.9 should be put into a cylindrical graphite mould with $5 \\mathrm { { m i n } }$ sinteringat $1 2 0 0 ^ { \\circ } \\mathsf C$ in the flowing argon gas with an applied pressure of $3 0 \\mathrm { M P a }$ by the spark plasma sintering technique.The specimens were cut into parallelepipeds of about $1 0 \\times 1 0 \\times 2 \\mathrm { m m } ^ { 3 } ,$ ,and one face was polished with diamond spray of particle size down to $1 \\mu \\mathrm { m }$ .Theparallelepipeds were cleaned by rinsing in ultrasonic baths of acetone and ethanol and subsequently irradiated on the polished surface. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Irradiation experiments of the $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ ceramic were performed at $3 2 0 \\mathrm { k e V }$ multi-discipline research platform for highly charged ions equipped with an ECR(electron cyclotron resonance）ion source in the Institute of Modern Physics,Chinese Academy of Sciences(IMP，CAS)，Lanzhou.The samplesareirradiated with $5 0 0  { \\mathrm { \\ k e V } }  { \\mathrm { \\ H e } } ^ { 2 + }$ ions and the mean flux was about $5 \\mu \\mathrm { A }$ $( 1 . 1 \\times 1 0 ^ { 1 3 }$ ions $\\mathrm { c m } ^ { - 2 } s ^ { - 1 } .$ ).The irradiation conditions are summarized in Table 1. The theoretical results of $5 0 0 \\mathrm { k e V }$ He irradiation with a dose of $1 . 0 \\times 1 0 ^ { 1 8 }$ ions $\\mathrm { c m } ^ { - 2 }$ ，i.e.penetration depth, displacement damage(dpa,displacement per atom) and He concentration are calculated by SRIM 2oo8[12] full damage cascade simulations (Fig.1).The threshold displacement energies are determined as $2 5 \\mathrm { e V }$ for Ti, $2 5 \\mathrm { e V }$ for Al and $2 8 \\mathrm { e V }$ for C. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Allsampleswerecharacterized by low-incidence X-raydiffraction(LI-XRD) usinga Philips X'pert diffractometer with $\\mathsf { C u K } \\mathsf {  { \\alpha } }$ radiation.The X-raydiffraction datawere collected between $2 0 ^ { \\circ }$ and $8 5 ^ { \\circ }$ in $2 \\theta$ scale under an incidence of $5 ^ { \\circ }$ with the corresponding maximum depth of about $1 . 5 \\mu \\mathrm { m }$ 、The data from the irradiated zonewas covered in XRD dataaccording to the SRIM calculation results.The irradiated specimens are prepared by the cross-sectional specimen technique and then thinned by $3 . 0 \\mathrm { k e V ~ A r ^ { + } }$ ion beam milling to form a wedge for suficient electronic transparency,so that damage level as a function of depth could be obtained directly.The TEM observation is performed with an FEI TECNAI $G ^ { 2 }$ F3O and all micrographs are taken at $3 0 0 { \\mathrm { k e V } } .$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1. XRD patterns ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "XRD diffraction patterns of the virgin sample and all irradiated samples are shown in Fig.2.With increasing doses of samples irradiatedat RT,an evident drop of peak intensityand rise of peak width are found,which reveals some loss of crystallinity.Both(1O2)and (112)peaks begin to shift remarkably to higher $2 \\theta$ and(105) peak to lower $2 \\theta$ with the similar trend when the irradiation dose reaches $5 . 0 \\times 1 0 ^ { 1 6 }$ ions $\\mathrm { c m } ^ { - 2 }$ .This phenomenon is principally caused by the presence of new TiC phase whose corresponding peaks are(111), (2 00)and(22O).It has been previously confirmed that the TiC phase is produced by nuclear shock in irradiated $\\mathrm { T i } _ { 3 } \\mathrm { S i C } _ { 2 }$ or $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ [11,13- 15].In addition,the relative intensities of(1O2) and(1O3) to(101) peaks become larger as the irradiation dose increases.It mightbe induced by the phase transformer from ${ \\mathsf { a } } { - } \\mathrm { T i } _ { 3 } { \\mathsf { A l C } } _ { 2 }$ to ${ \\beta } { - } \\mathrm { T i } _ { 3 } { \\sf A l C } _ { 2 }$ and the similartransformationhasbeen found in $\\mathrm { T i } _ { 3 } \\mathrm { S i C } _ { 2 }$ afterirradiation [8,14].Furthermore,Farber et al.have verified these polymorphic phase transformations in $\\mathrm { T i } _ { \\mathrm { n } + 1 } \\mathrm { A X } _ { \\mathrm { n } } \\left( n \\geqslant 2 \\right)$ ,such as $\\mathrm { T i } _ { 3 } \\mathrm { S i C } _ { 2 }$ $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ and $\\mathrm { T i } _ { 4 } \\mathrm { A l N } _ { 3 }$ through HRTEM[16]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/40270926ef761f790bbfc1cc9866a1e09d85bd106122f46dcffd78dc57b8e8f4.jpg",
+        "table_caption": [
+            "Table 1 The parameters of irradiation experimental condition. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Temperature</td><td>Room temperature</td><td>300℃</td><td>500℃</td></tr><tr><td>Irradiation dose (ions cm-²)</td><td>5.0×1016</td><td>3.0×1017</td><td>3.0× 1017</td></tr><tr><td></td><td>1.0 × 1017</td><td></td><td></td></tr><tr><td></td><td>3.0×1017</td><td></td><td></td></tr><tr><td></td><td>1.0×1018</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For the samples irradiated with the dose of $3 . 0 \\times 1 0 ^ { 1 7 }$ ions $\\mathrm { c m } ^ { - 2 }$ atvarious temperatures,the peak intensity,peak positionand peak width recovered progressively as the irradiation temperature increased.That phenomenon serves as proof of the beneficial effect oftemperature in reducing irradiation damage.Moreover,the new phases formed with irradiation at RT cannot be detected when the irradiation temperature increases to $5 0 0 ^ { \\circ } \\mathsf C$ Considering the noteworthy thermal stability of the new phase TiC up to $8 2 0 ^ { \\circ } \\mathsf C$ [14],we conclude that the possibility of TiC formation is eliminated by the recombination of irradiation effects during collision cascade formation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2.TEM results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The TEM analysis confirmed the presence of polycrystalline $\\mathrm { T i } _ { 3 }$ $\\mathsf { A l C } _ { 2 }$ witha grain size of ${ \\sim } 1 . 5 \\mu \\mathrm { m }$ (not shown).And an overview of the nanolamellar structure and damage area is shown in Fig.3. In the virgin sample,the periodic multilayer structures are evident (Fig. 3a).With the irradiation dose of $5 . 0 \\times 1 0 ^ { 1 6 }$ ions $\\mathrm { c m } ^ { - 2 }$ ${ \\cdot } { \\sim } 2 . 6 2$ dpa),itis detected obviously that the depth of the damaged area ranges from 1.134 to $1 . 3 5 4 \\mu \\mathrm { m }$ in accordance with the SRIM calculation results.And some isolated nanometer-scale spherical helium bubbles are spread at the damaged region with an average radius of ${ \\sim } 0 . 6 \\ \\mathrm { n m }$ around the maximum concentration $( 3 . 2 \\times 1 0 ^ { 4 }$ appm）depth of implanted He atoms (Fig.3b).The bubble radius presents a Gaussian-like distribution and the mean radius is determined by measuring the radius of a total of 80 bubbles [11].In addition, the damaged area contains clusters of interstitial atoms or dislocation loops.And it becomes wider in the direction of helium implantation and more distinct owing to more defects when the dose increases. With the dose rising to $3 . 0 \\times 1 0 ^ { 1 7 }$ ions $\\mathrm { c m } ^ { - 2 }$ ,some bubbles grow bigger resulting in the average bubble radius of ${ \\sim } 0 . 8 \\ \\mathrm { n m }$ by means of absorbing the injected He atoms and vacancies from continuous irradiation damage.Meanwhile,some spherical bubbles appear to coalesce into strings,leading toa reduction in interfacial energy[17]. Itis especiallyapparent at the maximum concentration depth of implanted helium (see Fig.3c).In addition,the orientation of string-like bubbles along the direction parallel to the surface irrespective of the crystallographic orientation of the polycrystalline grains can minimize their system free energy.The same case happens in other ceramics such as $\\mathrm { M g A l } _ { 2 } { \\sf O } _ { 4 }$ ${ \\sf A l } _ { 2 } { \\sf O } _ { 3 }$ and SiCwith He ions irradiation at room temperature [18]. As the dose reaches 1.0 × 1018 ions cm-2, the coalescence of bubbles tend to be more pronounced with small cracksappearing(circles in Fig.3d).The cracksare within ${ \\sim } 5 0 \\mathrm { n m }$ in length. Additionally, Ofan's experiments [17] confirmed that the bubble size and the average distance between bubbles exerted crucial influence on the formation of the string-shaped bubbles. When the average distance between bubbles is on the order of the bubble size,the bubbles interact strongly，coalescing into string.However,in the current work no large cracks are observed under this irradiation condition. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e1348512df4d8e15677e6a050f23233b59eaaf48d00fd990791fc64c4b9d3ec8.jpg",
+        "img_caption": [
+            "Fig.1.He concentration and number of displacements per atom induced by $5 0 0 \\mathrm { k e V }$ He irradiation at the dose of $1 . 0 \\times 1 0 ^ { 1 8 }$ ions $\\mathrm { c m } ^ { - 2 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/df5b6f2c262e093f3207628a107ccf4772d0b833d0da890a155ca62676f988a4.jpg",
+        "img_caption": [
+            "Fig.2.XRD patterns of $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ samples irradiated at various doses and temperatures. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As the irradiation temperature increases,the damaged region becomes narrower,and the boundary between the irradiated area and the virgin material is less visiblealongwith the weak contrast in TEM images as shown in Fig.4.They should be ascribed to fewer remaining defects caused by the increasing probability of recombination of Frenkel pairs at high temperatures.It is noticeable that the small cracks induced by bubbles coalescence disappear in Fig.4b,but the mean bubble radius $( \\sim 0 . 8 0 \\mathrm { n m } )$ remained constant (Fig.4a). It indicates that the lower bubble concentration for the maximum peak depth is at the irradiation temperature of $3 0 0 ^ { \\circ } \\mathsf C .$ （24号 With increasing temperature,the removal rate increases faster than helium absorption[19].So helium bubbles disperse into a larger zone.However, the temperature of $3 0 0 ^ { \\circ } \\mathsf C$ is not high enough for bubbles to grow eminently in $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ . In Fig. 4c, the plateletlike,string- and sphere-shaped bubbles in different sizes are distributed regularly with implantation depth.The distribution is closely related to the varying concentration of deposited He atoms with increasing depth.In zoneIof the damaged area, the spherical bubbles,generally more than $2 \\ : \\mathrm { n m }$ in diameter,exist for the major portion and a few string-shaped bubbles of up to $1 0 \\mathrm { n m }$ in length appear when the depth increases.In zone I,large platelet-like bubbles are oriented nearly in the direction of the multilayered structure with scattered spherical and string-shaped bubbles around them.Moreover,the orientation is not actually parallel to the irradiated surface but dependent on the specific crystallographic orientation of the polycrystalline grains to a certain extent. Although the orientations of platelet-like bubbles and the crystallographic orientation are not identified in the present study,the last phenomenon can be directly observed in some related high magnification TEM pictures (not presented here).So itis likely that platelet-like bubbles formation tends to be preferentially associated with the multilayered structure.Besides,the growth of bubbles should be explained by the Ostwald ripening process and void agglomeration [20-22]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3.Evolution of micro-srain ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Generally,the X-ray diffraction peak broadening consists of the instrumental broadening and the broadening which is due to crystallite size and micro-strain present in the material.According to Liu and Nappé's analysis [8,15], the crystallite size of more than $1 \\mu \\mathrm { m }$ (about $1 . 5 \\mu \\mathrm { m }$ in this work)is large enough not to induce the broadening of the $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ diffraction peaks. So the Williamson-Hall (W-H) equation [23] for the peak broadening induced bymicro-strain is given below: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\beta _ { \\mathrm { h k l } } \\right) ^ { s } = 4 \\varepsilon \\tan \\theta _ { \\mathrm { h k l } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\theta _ { \\mathrm { h k l } }$ is Bragg diffraction angle $( ^ { \\circ } )$ ,ε is the micro-strain and the experimental value of $( \\beta _ { \\mathrm { h k l } } ) ^ { s }$ is obtained following by eliminating the instrumental broadening.The analysis is carried out on the basis of the strong peaks of (101),(103), (104),(105),(110). And the micro-strain as the functions of dose and temperature is delineated in Fig. 5. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The irradiations at RT lead to a continuous increase in the micro-strain as the dose rises to $3 . 0 \\times 1 0 ^ { 1 7 }$ ions $\\mathrm { c m } ^ { - 2 }$ ,which is attributed to the more produced Frenkel pairs in materials.However, when the dose increases unceasingly,the micro-strain begins to decline due to the thermal effect [24,25].With the identical irradiation dose (e.g., $3 . 0 \\times 1 0 ^ { 1 7 }$ ions $\\mathsf { c m } ^ { - 2 }$ ),the higher temperature,the lower the micro-strain.It verifies that temperature plays a crucial role in releasing the micro-stress. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f5f9085a5b1a285daa62f4401ee53d511db521886a4dbd2fb27020f2f085e83.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.Discussion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Helium atoms in irradiated materials may exist in two forms: (i) helium-vacancy complexes for the low concentration of implanted helium atoms and (ii) helium bubbles or voids for the high concentration. Both may play a deleterious role for the structural properties[10,26] and physical properties of materials [27].However, $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ shows irradiation resistance and recovery when irradiated by $5 0 0 \\mathrm { k e V }$ helium ions under different conditions. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Similar to $\\mathrm { T i } _ { 3 } \\mathrm { S i C } _ { 2 }$ [15], $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ is sensitive to elastic collisions rather than electronic excitation (inelastic collisions). So many vacancies and self-interstitials are created in the collision cascade with $5 0 0 \\mathrm { k e V }$ Heions irradiation. Al atoms can easily escape from its position due to the weak bonding between Ti and Al [28]. Moreover,the theoretical calculations on helium incorporation in $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ demonstrate that helium atoms favor the interstitial and substitutional sites in aluminum layer [29].As a product of the decomposition of $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ ，the new phase TiC is formed even at the lowest damage level $( 2 . 6 { \\mathrm { ~ d p a } } ) ^ { \\prime }$ .ButTiCalmostdisappearsat the irradiation temperature of $5 0 0 ^ { \\circ } \\mathsf C$ ,in coincidence with the phenomenon that the interstitial Si atoms could easily hop back to low energy 2b original site in $\\mathrm { T i } _ { 3 } \\mathrm { S i C } _ { 2 }$ at high temperature(300, $5 0 0 ^ { \\circ } \\mathrm { C } )$ 号 [8].It is noteworthy that the occupation of Al sites by helium atoms does not influence the structural recovery of $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ Besides, $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ remains crystalline even at the maximum helium concentration of ${ \\sim } 6 . 4 \\times 1 0 ^ { 5 }$ appm and the corresponding damage level of $\\sim 5 2$ dpa $\\phantom { + } 1 . 0 \\times 1 0 ^ { 1 8 }$ ions $\\mathrm { c m } ^ { - 2 }$ ).Unlike it，SiC becomes amorphous above O.5 dpa [3O]. The direct reason for SiC going into the amorphous state should be due to the deposited energy produced by injected ions [27].However, for $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ ,high resistance to amorphization should be attributed to the recovery from damage on basis of the diversity chemical bonds especially its strongest bond Ti-C[31]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ede38f6a9a2c6e9a9e2c791ab38107d5da657fe4350435b5f0a081b106f8416.jpg",
+        "img_caption": [
+            "Fig.4.(a)-(c) Corresponding the cross-section bright-field TEM images of $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ samples irradiated with the dose of $3 . 0 \\times 1 0 ^ { 1 7 }$ ions $\\mathrm { c m } ^ { - 2 }$ at RT, $3 0 0 ^ { \\circ } C$ $5 0 0 ^ { \\circ } C$ respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/21a69021477c5a70c2a10601864d3bfb5a2589019410a04bc3db070f396b4201.jpg",
+        "img_caption": [
+            "Fig.3.(a）The bright-field TEM image of the virgin $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ and (b）to (d) corresponding to the samples irradiated at RT with doses of $5 . 0 \\times 1 0 ^ { 1 6 }$ ions $\\mathrm { c m } ^ { - 2 }$ （20 $3 . 0 \\times 1 0 ^ { 1 7 }$ ions $\\mathrm { c m } ^ { - 2 }$ $1 . 0 \\times 1 0 ^ { 1 8 }$ ions $\\mathrm { c m } ^ { - 2 }$ ,respectively. ",
+            "Fig.5.Variation of the micro-strain derived from XRD results as a function of irradiation dose and temperature. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Another important phenomenon is that no large cracks are observed at the highest fluence ( ${ \\cdot 1 . 0 \\times 1 0 ^ { 1 8 } }$ ions $\\mathrm { c m } ^ { - 2 }$ ), thisisa discrepancy as compared with the result in Wang et al.[11].The cause of the discrepancy should be the significant thermal effect on the He ions irradiation.The thermal effect becomes more significant as the irradiation dose reaches $1 . 0 \\times 1 0 ^ { 1 8 }$ ions $\\mathrm { c m } ^ { - 2 }$ ，which can bereflected by the tendency of micro-strain versus dose.And the sudden decline of micro-strain under this condition may be closely linked to the disappearance of large cracks.Besides,when the irradiation temperature rises up to $5 0 0 ^ { \\circ } \\mathsf C$ ,the concentration of defects and the micro-strain see a consistent declining tendency.Moreover,the bubbles remain in small size due to their limited growth relevant to the nanolamellar structure of $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ .Platelet-like bubbles form as a result of the anisotropic growth.The above outcomes demonstrate that $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ can stand the helium ions irradiation even at high temperature $( 5 0 0 ^ { \\circ } \\mathsf C )$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.Conclusion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The aim of this study was to evaluate the irradiation resistance of $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ with $5 0 0 \\mathrm { k e V }$ He ion irradiation. $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ exhibits excellent resistance against He ion irradiation.When the damage level increasesup to 52.2 dpa with the room temperature irradiations, neither amorphization happens nor large cracks appear.And the micro-stress in $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ getsreleased evidentlyat the highest dose. For the samples irradiated with the dose of $3 . 0 \\times 1 0 ^ { 1 7 }$ ions $\\mathrm { c m } ^ { - 2 }$ the produced new phase TiC disappears gradually,and the crystal structure(e.g.，unit cell parameter） recovers significantly with increasing irradiation temperature.Moreover,at the temperature of $5 0 0 ^ { \\circ } \\mathsf C$ ，helium bubbles don't agglomerate apparently because their growth is constrained by the nanolamellar structure of $\\mathrm { T i } _ { 3 } \\mathsf { A l C } _ { 2 }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This research project was supported by the Major State Basic Research Development Program of China(‘973'Program,Grant No.2O1oCB832902）and the National Natural Science Foundation of China (NSFC)(Grant Nos.91126011,11275005 and 11275238). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]M.W. Barsoum,M. Radovic, Annu. Rev. Mater.Res. 41(2011) 195. [2] M.W. Barsoum, H.I. Yoo, I.K. Polushina, V.Yu. Rud, Yu.V. Rud, T. El-Raghy, Phys. Rev.B 62 (2000)10194. [3] E.H. Kisi, J.A.A. Crossley,S.Myhra,M.W. Barsoum, J. Phys. Chem. Solids 59 (1998)1437. [4] X.H. Wang, Y.C. Zhou, Chem. Mater.15 (2003) 3716. [5] M.L. Flem, X. Liu, S. Doriot, T. Cozzika,I. Monnet, Int. J. Appl. Ceram. Technol. 7 (2010)766. [6] K.R.Whittle,M.G. Blackford,R.D. Aughterson, S. Moricca, G.R. Lumpkin,N.J. Zaluzec, Acta Mater. 58 (2010) 4362. [7] X.M. Liu, M.L. Flem,J.L. Béchade,I. Monnet, J. Nucl. Mater. 401 (2010) 149. [8] X. Liu, M.L. Flem, J.L. Béchade, F. Onimus,T. Cozzika, I. Monnet, Nucl. Instrum. Methods B 268 (2010) 506. [9] R.E. Stoller, J. Nucl. Mater.174(1990) 289. [10]H. Ullmaier,Radiat.Eff.78(1983)1. [11] C. Wang, T. Yang, S. Kong, J. Xiao, J. Xue, Q. Wang, C. Hu, Q. Huang, Y. Wang, J. Nucl. Mater. 440 (2013) 606. [12] www.srim.org. [13] C. Liu,L. Shi, Q. Qi,D.J. O'Connor, B.V. King, E.H. Kisi, X.B. Qing, B.Y. Wang, Nucl. Instrum. Methods B 307 (2013) 536. [14] L. Zhang, Q. Qi, L.Q. Shi, D.J. O'Connor, B.V. King, E.H. Kisi, D.K. Venkatachalam, Appl. Surf. Sci. 258 (2012) 6281. [15] J.C. Nappé, I. Monnet, Ph. Grosseau, F. Audubert, B. Guilhot, M. Beauvy,M. Benabdesselam,L. Thomé,J. Nucl. Mater. 409(2011) 53. [16] L. Farber, I. Levin,M.W. Barsoum,T. El-Raghy, T. Tzenov,J. Appl.Phys.86 (1999) 2540. [17] A. Ofan, L. Zhang, O. Gaathon, S. Bakhru,H. Bakhru,Y. Zhu,D. Welch,R.M. Osgood,Phys. Rev. B 82 (2010) 104113. [18] S.J. Zinkle, Nucl. Instrum. Methods B 286 (2012) 4. [19] J. Chen, P. Jung, H. Trinkaus, Phys. Rev. Lett. 82(1999) 2709. [20] W. Hua, S.D. Yao, N.D. Theodore, M. Martin,A. Aitkaliyeva, L. Shao, Radiat. Eff. Defects Solids 165 (2010) 388. [21] G.W. Greenwood, A. Boltax, J. Nucl. Mater. 5 (1962) 234. [22]H. Trinkaus, B.N. Singh, J. Nucl. Mater.323(2003) 229. [23] G.K.Williamson,W.H. Hall, Acta Metall.1(1953) 22. [24] J.R. Sun, Z.G. Wang, Y.Y. Wang, C.F. Yao,K.F. Wei,F.S. Li,Nucl. Instrum. Methods B 269 (2011) 873. [25] J.R. Sun, Z.G.Wang,Y.Y.Wang, Y.B. Zhu, L.L. Pang, T.L. Shen, F.S. Li,Nucl. Instrum. Methods B 286 (2012) 277. [26] G. Velisa, A. Debelle,L. Vincent, L. Thomé,A. Declémy,D. Pantelica, J. Nucl. Mater.402(2010)87. [27] C. Tromas,V. Audurier, S. Leclerc, J. Nucl. Mater. 373 (2008) 142. [28]H.Z. Zhang, S.Q. Wang, Acta Mater. 55 (2007) 4645. [29] J. Xiao, C. Wang, T. Yang,T. Yang, S. Kong, J. Xue, Y. Wang,Nucl. Instrum. Methods B 304 (2013) 27. [30] W.J. Weber, L.M. Wang, Nucl. Instrum. Methods B 106 (1995) 298. [31] L.F. Marion, I. Monnet, J. Nucl. Mater. 433 (2012) 534. ",
+        "page_idx": 4
+    }
+]

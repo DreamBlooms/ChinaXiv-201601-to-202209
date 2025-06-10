@@ -1,0 +1,455 @@
+[
+    {
+        "type": "text",
+        "text": "Review Article Metabolic regulation of triacylglycerol accumulation in the green algae: identification of potential targets for engineering to improve oil yield ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Elton C.Goncalves1，Ann C.Wilkie²,Matias Kirst² and Bala Rathinasabapathi1 \\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pt 2SoilandWaterSienceepartmentIstituteofoodandAgriculturalciences,UniversityofFloridaGanesvile,USA 3SchoolofForestry，UniversityofFlorida,Gainesvill,FLUSA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received 30 August 2015; revised13 November2015; accepted 25 November2015. \\*Correspondence (Tel 352-273-4847; fax 352-392-5653;email brath@ufl.edu) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:acyltransferases,algae, biofuel,fattyacids,lipid,lipid droplets, nutrient starvation,transcription factors,triacylglycerol. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The great need for more sustainable alternatives to fossil fuels has increased our research interests in algal biofuels.Microalgal cels,characterized by high photosynthetic efficiencyand rapid celldivision,are an excellent source of neutral lipids as potential fuel stocks.Various stress factors,especially nutrient-starvation conditions,induce an increased formation of lipid bodies filled with triacylglycerol in these cels. Here we review our knowledge base on glycerolipid synthesis in the green algae with an emphasis on recent studies on carbon flux,redistribution of lipids under nutrient-limiting conditions and its regulation.We discuss the contributions and limitations of classcal and novel approaches used to elucidate the algal triacylglycerol biosynthetic pathway and its regulatory network in green algae.Also discussed are gaps in knowledge and suggestions for much needed research both on the biology of triacylglycerol accumulation and possible avenues to engineer improved algal strains. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Asa consequence of world population growth reaching an estimated 11 billion by the end of the century (Gerland et al., 2014),global energy demand is expected to increase by $3 7 \\%$ by 2040 (EIA，2014). Such a challenge to modern society is aggravated by the finite nature of ubiquitously used fossil fuels, inwhich the reserves are reportedly diminishing and crude oil prices are constantly fluctuating (Hu et al.,2oo8;Moody et al., 2014).The use of fossil fuels,such as petroleum,coal and natural gas,accounts for $8 5 \\%$ of the global energy consumption and has raised major environmental concerns. Increasing amountsof greenhouse gas emissions are thought to significantly contribute to environmental damage，affecting global climate and ocean acidification (Greenwell et al.，2010；Solomon et al.，2009).In addition,climate change negatively affects agriculture,resulting in diminished yields due to droughts,heavy precipitation and high winds,and concomitant increase in food prices(Greenwell et al., 2010).Also,the uneven distribution of fossil fuels in the world, highlighted by the presence of $6 3 \\%$ of global petroleum reserves inthe Middle East， creates an economical unbalance and geopolitical concern (Demirbas and Demirbas,2011). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The resulting energy security and environmental concerns regarding the use of fossil fuels have led policymakers and researchers to focus their efforts on developing alternative, renewable energy feedstocks with lower environmental impact (Foley et al.，2011；Greenwell et al.，2010； Ho et al.，2014; Wijffels and Barbosa，201O).Currently，a mere $13 \\%$ of the world's energy consumption is renewable，and only $10 \\%$ is derived from biomass (i.e.biological raw materials) (Ho et al., 2014).While the development of multiple renewable energy sources,such as cellulosic ethanol,solar，wind and nuclear,is needed to meet the future world energy demand,extraction of high-energy compounds from algal biomassisa promising alternative needing scientific researchand development. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The potential of using algae as a biofuel feedstock ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Microalgae are autotrophic,single-cell photosynthetic organisms that can reach high lipid content (Chisti,2oo8;Hu et al.，2008; Markou and Nerantzis,2013;Medipally et al.,2015;Scott et al., 2010)that have long been explored as a biofuel feedstock. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the past decade,microalgae regained researchers'attention due to some species' ability to rapidly grow on open ponds or closed systems (photobioreactors)on land otherwise unsuitable for farming，thus not competing for arable land like oil-seed crops,their potential for year-round cultivation，growth in saline water，recycled municipal wastewater and landfill leachate, coproduction of high-value compounds along with biofuels, andmost importantly，their ability to accumulate impressive amounts of lipids under some conditions (Chen et al.，2011; Chisti,2007;Edmundson and Wilkie,2013;Farooq et al.,2015; Markou and Nerantzis,2013;Moody et al.,2014;Pittman et al., 2011;Wei et al.，2013).Several studies have shown that lipid contents of $2 0 \\mathrm { - } 5 0 \\%$ per cell dry weight (CDW) are commonly observed in microalgae (Chisti，2oo7;Demirbas and Demirbas, 2011;Griffiths and Harrison,2009;Mata et al.,2010;Powell and Hill,2009; Singh et al.,2011), reaching up to $80 \\%$ CDW in some species under certain stress conditions (Chisti,2o07,2008). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Early studies investigating the potential of different sources of feedstocks for replacing conventional transportationfuels showed that terrestrial oil crops，such as canola,soybean and corn,would require up to 1540M hectares to meet $50 \\%$ of the current U.S.transportation needs.Only 5.4M hectares dedicated for algal cultivation would be necessary to meet the same need (Chisti，2007，20o8).Most remarkably，theoretical calculations conducted in the same studies suggested that a highly superior oil productivity per hectare could be achieved with microalgae compared to terrestrial oil crops (Chisti,20o7).Part of this is due tothe exceptionally fast biomassdoubling time ofsome microalgae (asshort as $3 . 5 ~ \\mathsf { h }$ ）andtheir superior photosynthetic efficiency, converting up to $10 \\%$ of captured light into biomass, compared to $0 . 5 \\%$ inconventional terrestrial plants (Costa and De Morais,2011;Smith et al.,2010). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A reduction of up to $50 \\%$ in carbon dioxide emissions can be achieved in the burning of biodiesel compared to conventional petrol-based diesel (Brown and Zeiler，1993; Costa and De Morais,2011).In addition,roughly 183 tons of carbon dioxide are fixed during the production of 1oo tons of algal biomass (Chisti, 2008). Inan ideal scenario,in which biodiesel itself and methane produced from the anaerobic digestion of algal residues are used for powering the needs of the production process,photosynthesis-derived microalgal biodiesel could be considered carbon neutral (Chisti,2008;Merchant et al.,2012). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Despite the recent progress in microalgal research,technical, economic,storage,supply and political barriers still prevent the development and commercialization ofmicroalgal biodiesel (Demirbas and Demirbas，2011).Although recent technology evaluations have demonstrated the commercial potential for microalgal biofuels in the longer term (Stephens et al.，2010), cost-competitiveness with petroleum products have not been achieved to date (Reijnders et al.，2014).Specifically，most microalgae reach the highest lipid contentsunder unfavourable environmental or stress conditions,which are not conducive to high growth rate and biomass productivity (Hu et al.，2008; Markou and Nerantzis,2o13).Asa consequence,the organisms metabolic responses to different stress conditions need to be investigated，and the knowledge applied towards developing strategies to achieve higheralgal biomass and lipid productivity in large-scale production systems. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Oil accumulation in green algae ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Freshwater and marine algae from different taxa (e.g. Chlorophyceae，Trebouxiophyceae，Bacillariophyceae，Eustigmatophyceae) respondtostressconditionsby alteringtheir metabolism and accumulating high amounts of neutral lipids and other compounds，such as carbohydrates and secondary metabolites (Griffithsand Harrison，20o9；Griffithsetal.，2012; Markou and Nerantzis,2013;Merchant et al.,2012).To date, the algaloleaginous trait has been extensively studied primarily in the model greenalgae Chlamydomonasreinhardtii.Studiesin Nannochloropsis，Chlorella and diatom species have also been of great contribution for elucidating pathways，putative regulatory networksand genetic engineering approaches (Boyle et al.,2012; Guarnieri et al.，2011；Hockin et al.，2012；Li-Beisson et al., 2015；Liu and Benning,2013;Nguyen et al.，2011;Yu et al., ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2011). However,the signalling pathways by which nutrient stress triggers triacylglycerol (TAG)accumulation，the magnitude of nutrient deficiency required for induction,and the interactions between growth and lipid content under stress conditions are still poorly understood (Adams et al.，2013； Park et al.，2015; Schmollinger et al.，2014). Here we review the most recent research on networks of genes and proteins responsible for changes to carbon flux and redistribution of lipids under nutrientlimiting conditions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Nutrient starvation affects carbon partitioning ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Gene expression,lipid profiling，ultrastructural,and radiotracer studies have indicated that TAG accumulation in lipid droplets (LDs)under N starvation in green algae is due to (1) increased de novo synthesis of TAG from acyl-CoA，(2）recycling of acyl moieties from the degradation of membrane lipids into TAG and (3) increased carbon flux towards glycerol-3-phosphate and acylCoA for fattyacid synthesis (Fan et al.，2011，2012;Goncalves et al.,2013;Miller et al.,2010). Upon N starvation,a redirection in the flux of atmospheric carbon fixed through photosynthesis and organic carbon sources supplied to the medium，such as glucose，isexpected from the end products ofprimary metabolism (i.e.proteins,structural membrane lipids,starch)to TAGsynthesis in most green alga (Figure 1). In fact， the knockdown of a Chlamydomonas citrate synthase，which incorporates acetyl-CoA into the citric acid cycle hence competing withfattyacid synthesis,ledtoa major increase( $1 6 9 \\%$ in TAG levels (Deng et al.，2013)，providing strong evidence for the hypothesis of substrate competition for TAG synthesis in green algae.Because the extent to which the carbon flux is affected by nutrient deprivation varies in different species (Hu et al.,2008), weinfer that there is high genetic diversity for this trait in microalgae. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Starch turnover upon N starvation ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As TAG synthesis is directly affected by carbon partitioning,many studies have investigated the effect of blocking starch biosynthesis asa way to divert carbon flux and increase TAG synthesis. Indeed，multiple studiesin both Chlamydomonasand Chlorella species have shown that blocking starch biosynthesis results in increased lipid accumulation (Li et al.，2o1o；Ramazanov and Ramazanov,2006;Wang et al.,2009;Work et al.,2010).While a 30-fold increase in LD content after 48 h of N starvation in the presence of acetate has been reported in the Chlamydomonas wall-less mutant sta6 (impaired in ADP-glucose pyrophosphorylase),the induction in its wild-type counterpart was only 15-fold (Wang et al.，20o9).A subsequent transcriptome study in sta6 and its parental and complemented strains suggested an increased carbon flux towards hexose-phosphate in sta6，presumably due to an unexpected up-regulation of the glyoxylate and gluconeogenesis pathways (Blaby et al.，2013).In contrast, others have found that the inhibition of the glyoxylate cycle and gluconeogenesis during N starvation leads to increased availability of acetyl-CoA for fatty acid synthesis (Miller etal.，2010;Park et al.，2015)． Blaby et al. (2013)argue that sta6 acetate consumption might be a consequence of increased activity in acetyl-CoA synthetase and its product redirection towards TAG synthesis,as starch synthesis is blocked.In a recent time-course, system-level study in mixotrophic Chlamydomonas, the measurement of transcripts，proteins and metabolites indicated that starch is initially accumulated in the early stage $( 3 0 \\mathrm { \\ m i n } )$ of N starvation and degradation starts during the formation of LDs (4- 6 h of N starvation)(Park et al.,2015). Similarly,an ultrastructural study in mixotrophic Chlorella UTEX29 revealed the presence of both starch granules and LDs in the early stage of N starvation (3 h),but only LDs were observed upon prolonged N starvation (48 h)(Goncalves et al.，2013).In contrast,a study on multiple Chlamydomonas starch biosynthesis mutant strains (including sta6)revealed no TAG over-accumulation upon N starvation compared to its wild-type direct progenitors (Siaut et al.,2011). Although previous studies suggested starch carbon flux redirection to TAG as a promising strategy for increasing lipid productivity in green algae,substantial differences found in commonly used Chlamydomonas laboratory strains and the confounding conclusions resulting there from demonstrate the complexity of the control in carbon re-allocation in N-starved microalga (Blaby et al.,2013; Siaut et al., 2011). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e2674aae16914b265d04062a9d2cd58765bf272e8e13b9d7729b8f5743b3f70.jpg",
+        "img_caption": [
+            "Figure 1 Proposed carbon flux in mixotrophic green algae.Green arrows represent the carbon (C) flux under nitrogen (N)-replete conditions.Yellow arrows represent redirected C flux under N starvation.Dotted arrow represents a minor contribution to total C flux under N-replete conditions. The boxes contain the expected intermediate metabolites used for triacylglycerol (TAG) synthesis under N-starvation conditions. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The effect of supplying organic carbon to microalgae ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The supplementation of microalgae with organic carbon sources has been used not only as a way to increase lipid productivity in biofuel-relevant Chlorella species (Heredia-Arroyo et al.，2010; O'Grady and Morgan,2011;Wan et al.,2011),but also as an attempt to study the effects of N starvation in different algal species.A supply of unlimited carbon to the cells decreases the secondary responses triggered by changes in photosynthetic rate (Schmollinger et al.,2014). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Inmixotrophic (i.e.with ${ \\mathsf { C O } } _ { 2 }$ and organic carbon sources) Chlorella,a significant increase in lipid productivity was observed upon supply of glucose,acetate or glycerol,when compared to autotrophic and heterotrophic growth conditions (HerediaArroyo et al.，201O). In addition，another study in glucose-fed Chlorella revealed the induction of a heteromeric acetyl-CoA carboxylase (ACCase),the enzyme catalysing the first committed step in fatty acid synthesis,and repression of the large subunit of carbon-fixing enzyme ribulose-1,5-bisphosphate carboxylase/oxygenase(RUBISCO) during lipid accumulation， suggestinga reduced role of photosynthesis in mixotrophic conditions (Wan et al.，2011).These results suggest that mixotrophy is a promising strategy for large-scale algal cultivation.Although the price of raw materials such as glucose would make such a strategy costprohibitive and compete with food production, there is potential for the use of glycerol and acetate,by-products of biodiesel and biohydrogenproduction，respectively(Heredia-Arroyoet al., 2010). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In Chlamydomonas,independent studies revealed that adding acetate to the medium led to a boosting effect in lipid accumulation under N starvation conditions and,consequently, an‘obese' phenotype (Fan et al.，2012；Goodenough et al., 2014;Goodson et al.,2011).Moreover,Fan et al.(2012) showed that lipid accumulation under N starvation conditions in a wildtypestrain ishighly dependent upon acetate availability，as increased oil contents were observed when higher concentrations of acetate were available.In agreement with these observations, gene expression analysis of N-starved Chlamydomonas revealed the down-regulation of glyoxylate and gluconeogenesis pathways,indicating that the conversion of acetate to glucose was redirected into a more direct incorporation of acetate into fatty acids (Miller et al.,2010). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Carbon-nitrogen interconnection ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Nitrogen as an essential macronutrient is required for the synthesis of many algal biomolecules，such as amino acids, nucleic acids，and photosynthetic pigments (Hockin et al., 2012).The requirement of N-containing enzymes for C fixation suggests a close metabolic interconnection between the two macronutrients (Schmollinger et al.，2014). Several studies have shown that N depletion leads to a drastic reduction in the synthesis of photosynthetic proteins followed by reduction in carbon fixation,and eventually,a chlorotic phenotype (Msanne et al.，2012;Plumley and Schmidt,1989;Valledor et al.，2014). The reduction in photosynthetic rate and antennas has been considered as a mechanism to avoid oxidative cellular damages (Valledor et al.，2014)． One of the proposed underlying principles of this C/N nutrient relationship is that the excess carbon fixed from photosynthesis is channelled into storage molecules,such as TAG，when insufficient amounts of N are available for protein synthesis and cell growth (Scott et al., 2010).Transcriptomeanalysis ofthe marine green algae Nannochloropsis also points to a progressive redirection in the fluxof carbon precursors from protein and carbohydrate synthesis to glycerolipid synthesis during N starvation conditions (Li et al.，2014).In fact,the supply of excess carbon,either as ${ \\mathsf { C O } } _ { 2 }$ oras organic forms，induces rapid cell growth with concomitant elevated N consumption,resulting in increased C/N ratio (Reijnders，2013).After Chlorella sorokiniana cultures supplied with high doses of exogenous ${ \\mathsf { C O } } _ { 2 }$ were exposed to N starvation，enzymesin the Calvincycle， glycolysis(which converts the intermediate glycerol 3-phosphate from Calvin cycle into pyruvate) and putative transporters that direct pyruvate to the plastid (e.g. Bile acid:Na+ symporter) were induced compared to N-replete cultures.This suggested that an enhanced ${ \\mathsf { C O } } _ { 2 }$ assimilation rate could increase carbon flux towards fatty acid synthesis (Sun et al.，2015)． Therefore, manipulating the culture C/N ratio by increasing the C source without altering N might be a promising strategy for mimicking the processes of N starvation and boosting lipid production in microalgae. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Additional studies in Chlamydomonas under N starvation conditions indicated that chlorosis and protein degradation are results of N recycling mechanisms to cope with the decreased cellular C/N ratio,presumably protecting the cells from oxidative stress due to overreduction of the photosynthetic electron transport (Li et al.,2012b; Schmollinger et al.,2014). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Elucidating the algal pathway to glycerolipid synthesis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A great improvement in the elucidation of the glycerolipid biosynthetic pathway in greenalgae has beenachieved in recent years due to the increasing interest for its use as a biofuel feedstock (Khozin-Goldberg and Cohen，2011)．Although the evolutionarydiversityofgreen algaesuggeststhatlipid metabolism in different taxa should be diverse (Liu and Benning, 2013)，key lipid synthesis enzymes have been identified by comparative studies with well-characterized fungal and higher plant models (Li-Beisson etal.，2015；Merchant etal.，2012; Riekhof,2009；Riekhof et al.，2005).Moreover, the changes in transcriptome/proteome/metabolome profiles and ultrastructural, radiotracer and physiological studies in N-starved Chlamydomonas,Chlorella and Nannochloropsis species have been vital for the elucidation of the TAG biosynthesis and degradation pathways in green algae (Blaby et al.,2013;Boyle etal.,2012; Goncalves et al.，2013;Guarnieri et al.，2011;Li et al.，2012b; Miller et al.,2010; Park et al.，2015; Schmollinger et al.,2014; Yoon et al., 2012). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "De novo synthesis of TAG in green algae ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The first major step in the de novo synthesis of TAG in green algae starts in the chloroplast,where the conversion of acetylCoA into malonyl-CoA is catalysed by acetyl-CoA carboxylase (ACCase)，the rate-limiting enzyme in fatty acid biosynthesis (Reverdatto et al.，1999).Next,the conversion of malonyl-CoA intomalonyl-ACPis catalysedby malonyl-CoA transacylase Then,fatty acid synthase (FAS) catalyses the elongation of the acyl chains using malonyl-ACP and acetyl-CoA as substrates. The termination of the fatty acid chain elongation is catalysed bydifferent fatty-ACP thioesterases (FAT),which hydrolyse acylACP into free fattyacids (FFA).Fan etal. (2011)demonstrated that TAG synthesis in N-starved Chlamydomonas is dependent on the de novo synthesis of fatty acids in the chloroplast.In the study，cerulenin,a specific inhibitorof the type-2 fattyacid synthase，strongly inhibited N starvation-induced TAG accumulation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The fatty acids (in the form of acyl-ACP) can be directly used for the sequential acylation of glycerol-3-phosphate inthe chloroplast，which leads to the production of diacylglycerol (DAG).In the chloroplast,DAG mainly serves as a precursor for photosynthetic membrane lipids，such as galactoglycerolipids, which contribute to more than $50 \\%$ of the total glycerolipids in normal growth conditions (Li-Beisson et al.,2015). DAG can also serve asa precursor for chloroplastic TAG synthesis in Chlamydomonas (Fanet al.,2011;Goodson etal.,2011). In agreement to that,ultrastructural observations of plastoglobuli structures in the chloroplasts of two Chlorella species suggest that the chloroplastic TAG synthesispathway might be conserved between Chlorophyceae and Trebouxiophyceae clades (Goncalves et al.,2013;Orus and Martinez,1991).Alternatively,the FFAs can be exported into the cytosol,where a long-chain acylCoA synthetase (LACS) joins the FFA with a coenzyme A, producing acyl-CoA (Fan et al.，2011；Mashek et al.，2007). Subsequently,acyl-CoA can undergo elongation and desaturation steps in the endoplasmic reticulum (ER) (Huerlimann and Heimann，2013).Both soluble plastid-localized and ER membrane-bound fatty acid desaturases (FADs)are present in Chlamydomonas，oxidizing single bonds of carbon atoms into double bonds at specific locations of the acyl chain (Li-Beisson et al.,2015). Similar to higher plants,most Chlamydomonas fatty acidsare polyunsaturated，16 or 18 carbons-long (Li-Beisson et al.,2015). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Several studies have documented that TAG synthesis, through the action of different acyltransferase isoforms,takes placein both the ER-derived compartments and inthe chloroplasts of green microalga (Fan et al.，2011； Goodson etal.，2011；Li-Beisson et al.，2015). The presence of genes homologous to higher plants'acyltransferases in algae suggests that glycerolipid biosynthesis isa conserved pathway between higher and lower plants (Li-Beisson et al.，2015).Glycerol-3- phosphate (G3P)is the carbon‘backbone'substrate used for the three sequential acylation reactions that result in TAG formation.First， glycerol-3-phosphate acyltransferase (GPAT) catalyses the formation of lysophosphatidate (LPA) by acylation of G3P in the sn-1 position． Second， lysophosphatidate acyltransferase catalyses the addition ofa fattyacid (FA)into the sn-2 position， giving rise to phosphatidate (PA)．Third, phosphatidic acid phosphatase (PAP)catalyses the synthesis of DAG by removing the phosphate group in the sn-3 position of PA.Finally，diacylglycerol acyltransferase(DGAT） catalyses the acylation ofDAG in the sn-3position (Huerlimannand Heimann,2013),resulting in TAG formation.The TAG biosynthetic pathway as currently known in the green algae is shown in Figure 2. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Although algal lipid metabolism gene families are generally smaller than those of higher plants (Riekhof et al.，2Oo5)，six isoforms of DGAT have been identified in Chlamydomonas，in contrast to 2 isoforms in Arabidopsis (Ayme et al.，2014;Boyle et al.，2012；Riekhof et al.，2005)．Two independent studies have shown that both type-1 and type-2 diacylglycerol acyltransferases,DGAT1 and DGTT1,whose subcellular localizations are predicted to the chloroplast and secretory pathway respectively (Li-Beisson et al.，2015)，were induced by N starvation (Boyle etal.,2012;Miller et al.,2010) and also by starvation for sulphur, iron,phosphorus or zinc.All these stress factors trigger TAG accumulation，but to a lesser extent than N starvation (Boyle et al.，2012).This suggested that the overexpression of DGAT isoforms could be a way to improve TAG accumulation in algae.Subsequent studies revealed no significant increases in TAG content when three Chlamydomonas type-2 DGAT isoforms were presumably overexpressed in Chlamydomonas (La Russa et al.，2012).Only DGAT mRNA levels were measured in those lines.Thus， post-transcriptional and post-translational mechanisms that could have prevented the successful overexpression of DGAT cannot be ruled out. In fact, overexpression of a type-2 DGAT in the marine diatom Phaeodactylum tricornutum confirmed at the protein level by Western blotting,led to a $3 5 \\%$ increase in neutral lipid content without affecting culture growth (Niu et al.,2013).Further gene function studies in green algae，including the overexpression of type-1 DGAT isoforms, might be key to uncover precursor and enzymatic activity bottlenecks.In our efforts to engineer algal strains to increase fluxtoglycerolipids，amore globalgenetic engineering approach,such as the overexpression of putative transcription factors controlling multiple steps in TAG synthesis,could be a superior approach. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/972edf0c458bed7eaafb9de0bf0b52a25c9fecdabf25da9e12f5154583847df5.jpg",
+        "img_caption": [
+            "Figure2DenotriacylgerolAGosytesisienalgTeesarerepresetedinrageAADAalaamylasedomaiotaining protein;b; digalactosyldieAtetdefrFAfrp glycerol3-phspterasease;ACtheae;Aosptidd:osptidid MCMT:malony-CoAacylcarierproteinmaloyltransferase;MGD:monogalactosydiacyglycerolsynthase;P:phosphatidiccid;A: phospolipiddcyeseGsptidooosy;osati pospatidylepogsspdroct forlart 2015;Yoon et al.,2012). (Modified from Goncalves et al.,2015). "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Membrane recycling mechanisms and lipid dropletstabilization ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Studies conducted in Arabidopsis knockout mutants for phospholipid:diacylglycerol acyltransferase (PDAT)，which containsa catalytic lipase motif,suggested that increased TAG synthesis is a protection mechanism against free fatty acid-induced cell death in fast-growing tissues of plants (Dahlqvist et al.,2ooo; Fan et al., 2013).Moreover,the accumulation of TAG in Arabidopsis seeds depends on both PDAT and DGAT acyltransferases (AtPDAT and AtDGAT,respectively).While AtDGAT catalyses the direct acylation of DAG，AtPDAT is involved in the acyl-editing pathway, catalysing the transfer of an acyl group from the sn-2 position of phosphatidylcholine (PC） to the sn-3 position of DAG (Zhang et al.,2009). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "InChlamydomonas，a single PDAT protein (CrPDAT）was detected on purified lipid droplets through a proteomics study (Nguyen et al.,2011).The identification and cloning of CrPDAT's gene allowed for further in vitro studies that demonstrated the enzyme's broad substrate specificity，includingphospholipids, galactolipids,TAG and cholesteryl esters (Yoon et al.,2012).The increased expression of CrPDAT's transcript and increase in its corresponding protein levels under N-starvation conditions,with simultaneous reduction in the concentration of membrane lipids (monogalactosyldiacylglycerol (MGDG)，sulphoquinovosyl diacylglycerol (SQDG） andphosphatidylglycerol (PG))， suggested CrPDAT's role in the recycling of membrane lipids upon such stress condition (Boyle et al.,2012;Yoon et al.,2012). Furthermore,the fact that PDAT-deficient or null mutants are viable and contain a reduced,but not abolished TAG content points to a functional redundancy between PDAT and DGAT in Chlamydomonas (Boyle et al.,2012;Yoon et al.,2012). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "One of the first studies to demonstrate the contribution of recycling of membrane lipids into TAG during N starvationwas conducted by Fan et al. (2011).Using an elegant approach,in which the de novo synthesis of fatty acids was blocked using cerulenin，they tracked the changes in individual lipid classes during a time-course N-starvation experiment.A decrease in the membrane lipids such as MGDG and PG，mirrored by an increase in TAG content, suggested that as much as $30 \\%$ of the total TAG fatty acids have originated from membrane lipids in Nstarved Chlamydomonas (Fan et al.，2011). Conversely，a reduction of up to $80 \\%$ in plastidial membrane lipids has been reported in Chlamydomonas N-starved for $4 8 \\mathrm { ~ h ~ }$ (Siaut et al., 2011)．In another study，the Chlamydomonas mutant pgd1, defective in a galactoglycerolipid lipase，was isolatedina screening for reduced TAG accumulation under N deprivation (Li et al.，2012b).PGD1 was found to be responsible for the hydrolysis of MGDG，significantly contributing to the increased pools of fatty acids that are incorporated into TAG during N deprivation conditions in Chlorophyceae (Li et al.，2012b). Similarly，an ultrastructural and radiotracer studyin N-starved Chlorella UTEX29 also found membrane recycling to be a major contributor to N-starvation-induced TAG accumulation in this member of the Trebouxiophyceae clade (Goncalves etal.,2013). These results suggest that this lipid recycling response upon N deficiency is conserved between Chlorophyceae and Trebouxiophyceae species. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Putative lipases and esterases are also likely involved in the recycling of membrane lipids into TAG，contributing to its accumulation in LDs (Merchant et al.，2012)． It wouldbe expected that，in order for TAG to accumulate，TAG lipases would be repressed under N-starvation conditions. On the contrary，a transcriptome study found that $2 7 \\%$ of the 130 putative lipase-encoding genes identified were up-regulated following N deprivation (Miller et al.,201O).Surprisingly,another independent transcriptomics study revealed both increased and decreased expression ofputative TAG lipases followingN deprivation (Boyle etal.，2012).As the induction of TAG lipases during TAGaccumulation is counterintuitive and wasteful from a metabolism point of view,it is plausible to hypothesize that these lipases catalyse the turnover of membrane lipids rather than TAG (Boyleetal.，2012；Milleretal.，2010).Moreover，a Chlamydomonasgene encodinga lipase，CrLiP1，has been identified based on its ability to complement a lipase-deficient mutant in yeast (Li et al.，2O12a).Reducing CrLiP1's transcript abundance usingartificial miRNA led to a delay in TAG lipolysis after N resupply，which indicated that CrLIP1 indeed facilitates TAG turnover (Li etal.,2012a).Likewise, the Chlamydomonasmutant cht7 (compromised hydrolysisof triacylglycerols7)，aputative repressor of cellular quiescence，was also impaired in TAG turnover following N resupply (Tsai et al.,2014). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "AfterTAG is synthesized，its stabilization into LDs is possible due to a surface layer of polar phospholipids and oleosins,which are the most abundant proteins found in LDs of higher plants (Huang et al.，2013). In contrast,studies suggest that a major lipid droplet protein (MLDP)，the proposed equivalent of plant oleosins,is the main protein controlling LD biogenesis and size in Chlamydomonas (Huang etal.，2013;Moellering and Benning, 2010;Nguyen et al.，2011). In Chlamydomonas,MLDP was the mostabundant protein found in the lipid droplet fraction and its partial gene repression using RNA interference led to a significant increase in lipid droplet size without affecting TAG content (Moellering and Benning,2010). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Nitrogen-starvation sensing and transduction ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Nitrogen starvation is one of the most commonly used,efficient and reproducible ways to trigger lipid accumulation across different lineages of microalgae，especiallyin the membersof the Chlorophyta clade (Blaby et al.,2013;Dong et al.,2013;Liu and Benning，2013；Rodolfi et al.，2009；Schmollinger et al., 2014).An early study on 55 algal species under photoautotrophic laboratory conditions showed that increased lipid content in species belonging to Chlorophyta correlates well with nitrogen deprivation in the media (Griffiths and Harrison，2oo9). In contrast，the same study showed a greater variation in the response to N starvation in species from other taxa.Moreover, themetabolic response to N starvation isremarkably fast,with accumulation of LDs in Chlorella being observed as early as 3h of growth on N-free medium (Goncalves et al.,2013). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "InArabidopsis,there is evidence that two nitrate transporters (NRT1.1 and NRT2.1) might act as nitrate sensors in addition to their transport function (Gojon et al.，2O11).Therefore,despite little experimental evidence,it is plausible that similar transceptors (dual-function membrane proteins) also play a role in N signalling in microalgae.Astudy on Chlorella protothecoides,initially grown autotrophically and then transferred into a high C/N ratio medium asaway to trigger lipid production，revealed induction in the expression of the ammonium transporter CpAMT1 during lipid accumulation (Yan et al.,2013).While CpAMT1'sexpression was modulated by ammonium,glutamine and glutamic acid,it was not changed by nitrate availability.The correlation in expression between CpAMT1 and glutamine synthetase/glutamate synthetase suggested that CpAMT1 might be one of the N sensors in C.protothecoides (Yan et al.,2013).This is consistent with the observation that glutamine,the primary metabolite derived from nitrogen assimilation in plants,alongwith ATP and 2-oxoglutarate,controls the C/N sensing mechanism and homeostasis in cyanobacteria (Forchhammer,20o4).A phylogenetic study indicated that glutamine signalling,via a plastid-localized signalling protein，originated in cyanobacteria and is conserved in green algae (Chellamuthu et al.,2014). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In recent years,diverse omics approaches (i.e.transcriptomics, proteomics,lipodomics and metabolomics) have been used in an effort to better understand the mechanisms underlying Nstarvation-induced lipid accumulation in green algae (Blaby et al., 2013；Boyle et al.，2012；Gargouri et al.，2015；Guarnieri et al.，2011;Miller et al.,2010;Park et al.,2015;Schmollinger et al.，2O14).While these studies have significantly contributed to the elucidation of the algal TAG biosynthetic pathway and some of its underlying principles,very few putative regulators of this metabolic response have been identified.A major breakthrough was the identification of nitrogen response regulator 1 (NRR1),a putative transcription factor with a regulatory role in N assimilation and TAG accumulation in N-depleted Chlamydomonas (Boyle et al.，2012).NRR1's identification was possible due to its tightly coregulated expression with the acyltransferase DGTT1，and the ammonium transporter AMT1D following N deprivation.In addition，NRR1 expression was not modulated by other nutrient deficiencies,indicating that its regulatory role is exclusive to N(Boyle et al.,2012). Given the fact that mutating NRR1 led to a $50 \\%$ reduction in TAG accumulation rather than total inhibition during N deficiency, the presence of additional，yet to be uncovered，key regulators controlling lipid synthesis under N stress is possible. Our recent study has shown a likely novel role for the MYB-related transcription factor rhythm of Chloroplast 40 (ROC4O),which was previously implied in the control of circadian rhythmicity in Chlamydomonas (Matsuo et al.,2008). ROC40 protein was highly induced upon $3 h$ of N starvation in Chlorella UTEX29 and its gene disruptionin Chlamydomonas led to a significant reduction in total lipids upon $4 8 \\mathrm { ~ h ~ }$ of N starvation (Goncalves et al.，2015).Another study identified the triacylglycerol accumulation regulator 1 (TAR1)，a tyrosine phosphorylation-regulated kinase implicated inthe control of TAG accumulation upon both N and sulphur (S) deficiencies (Kajikawa et al.,2015).The mutant tar1 was isolated in a screen for low TAG accumulation upon S deficiency using TAG fluorescence measurements.While tar1 accumulated $50 \\%$ of the TAG content of its wild-type counterpart upon S deficiency, TAG content dropped to $10 \\%$ of the level of the wild type upon N deficiency. In contrast to NRR1，the mutation in TAR1 did not affect the expression of key enzymes in glycerolipid biosynthesis (e.g. DGAT，PDAT) and acetate assimilation (e.g. acetate kinases，acetyl-CoA synthetases)，despite the severe phenotype under N-starvation conditions (Kajikawaet al., 2015)．Moreover， the commonly observed degradationof chlorophylls and turnover of plastidial membrane lipids (MGDG and DGDG) upon prolonged N deficiency was significantly reduced in the mutant tar1 compared to the wild type,implying that TAR1 mediates the degradation of the photosynthetic apparatus upon stress condition.In addition,the arrest in cell division in N-starved tar1 suggests its function in regulating the cell cycle.Finally，it is possible that TAR1'spleiotropic effect in bothNand S deficiency (affecting TAG accumulation,cell division and photosynthesis)might be a result of its phosphorylation activity upon transcription factors controlling downstream reactions.However，the targets of TAR1 remain unknown to date (Kajikawa et al.,2015). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "More recently，technological advances in combined omics approaches (i.e.systems biology analysis) permitted in-depth investigations of the early regulatory networks responding to N deficiency in Chlamydomonas (Gargouri etal.,2015;Park et al., 2015).Transcript，protein and metabolite changes revealed a biphasic response in which N deficiency is sensed within 30 min, initially stimulating gluconeogenesis and starch synthesis.Within $4 { \\cdot } 6 \\ h$ of N deprivation,the cells transition to a glycolytic stage and lipid biosynthesis occurs concomitantly with reduction in chloroplast membranes and starch (Park et al.,2015),in agreement with previous studies (Blaby et al.，2013；Goodenough et al.，2014;Schmollinger et al.，2014).In addition，therapid metabolic repatterning observed suggests that such changes cannot be explained by modulation in intracellular N or C/N availability. Rather， that appears to be controlled by sensing mechanisms involving transcription factors (TFs) and transcriptional regulators (TRs) (Park et al.,2015).A follow-up analysis by thesame group of investigators revealed the transcript and protein modulation of over 40o TFs and TRs following N depletion (Gargouri et al.，2015).Major regulatory network hubs controlling lipid synthesis under N-starvation conditions were elucidated taking into consideration the early and late，up and downregulated TFsand TRs. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Despite the insights and resources provided by these studies in the transcriptional regulatory networks in Chlamydomonas,few studies have pinpointed the function of specific genes in TAG accumulation in green algae using multiple lines of evidence including biochemical pathway analyses in mutants and engineered strains (Table 1).Such additional studies are needed especially to validate TFsand TRs controlling glycerolipid synthetic pathways inalgae. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Other stress factors that induce lipid accumulation in algae ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "While othernutrient deficiencies (e.g.sulphur，iron，zinc, phosphorus)and abiotic stress conditions (different light intensities)have also been reported to trigger lipid accumulation in green algae (Boyle et al.,2012;Hu et al.,2008),quite contrastingresultsare observed in the literature，making nitrogen deficiency still the preferred stress condition to studythe mechanistic details of TAG accumulation in green algae.For example,phosphorus (P) starvation has led to both increases and decreases (Hu et al.,2008;Rodolfi et al.,2009) or no effect (Fan et al.，2011）in TAG content in different microalgal species. Principal component analysis of P- and N-starvation-modulated metabolites in Chlamydomonas indicates that the deficiency syndrome of each nutrient was quite different. In fact，Pstarvation effects take longer to be observed than N-starvation effects,presumably due to a quicker mobilization of internal phosphate reserves found in Chlamydomonas vacuoles (e.g. pyrophosphate and short-/long-chain polyphosphates)， temporarily alleviatinginternalPdeficiency (BollingandFiehn, 2005).The protein PSR1 (phosphorus-starvation response),which contains putative myb DNA binding domains,has been implicated in the regulation of phosphorus metabolism in Chlamydomonas through mutant analysis，but its connection to lipid accumulation has not been investigated (Wykoff et al.，1999). PSR1transcript levels increased 1O-fold under P-starvation conditions and its protein levels significantly increased in the nucleus,suggesting it might play a role regulating the expression of P metabolism genes,such as activating low affinity inorganic P transporters under P-starvation conditions (Wykoff et al.，1999). Asdiscussed earlier，the kinase TAR1 is implicated in the mediation of sulphur (S) and N deficiency responses in Chlamydomonas.TAR1 is expected to exclusively regulate lipid metabolism upon S starvation because the only phenotypic difference between the mutant tar1 and the wild-type strain was the TAG content,in contrast to previously mentioned multiple phenotypes oftar1 upon N deficiency.The mechanisms by which TAR1 regulates the responses to S starvation are unknown to date (Kajikawa et al.,2015). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The effects of various light intensities in modulating lipid production and fatty acid saturation have also been reported in many algal species (Hu et al.，2008;Lichtle，1980;Napolitano, 1994;Van Wagenen et al.,2012).An early ultrastructural study in the freshwater red alga Cryptomonas rufescens demonstrated that high light intensity leads to the accumulation of both intracellular starch and lipids and eventual cyst formation,while lipidsynthesis alone is induced by Ndeficiency in this species (Lichtle,198O).Similar to N starvation,high light intensity typically induces neutral lipid (TAG) accumulation in algae,while low light seems to induce the synthesis ofmembrane polar lipids. Moreover, low light has been shown to induce the formation of polyunsaturated fatty acids (PUFAs) while high light favours the synthesis of saturated and monounsaturated FAs (Fabregas et al., 2004;Hu et al.，2oo8).A recent study in glucose-fed Chlorella zofingiensis showed that,in the presence of light,lipid synthesis is attenuated while starch synthesis and cell proliferation are increased compared to cultures grown in the dark (Chen et al., 2015).Based on these observations and on the down-regulation of several fatty acid biosynthetic genes in cultures grown under light,the authors suggest that,although light stimulates cell proliferation and greater biomass yield,it might attenuate lipid synthesis by triggering a redirection of the carbon flux from lipids to starch (Chen et al.,2015). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Finally，the effect of silicon (Si) starvation is as critical for inducing lipid accumulation in diatoms as N starvation is in green algae (Griffiths and Harrison，2009;Hu etal.，2008).Diatoms require large amounts of Si for the biomineralization of their unique cell walls (frustule)，and also for cell division and DNA replication (Shrestha and Hildebrand,2o15).An early study has shown that Si starvation not only induces TAG synthesis but also modulates FA profile，with increasing proportions of saturated and monounsaturated fatty acids being observed under Sistarvation conditions (Roessler,1988).An average increase from 24 to $41 \\%$ and as high as $50 \\%$ CDW in lipid content was observed under Si-starvation conditions in a study on laboratorygrown algae (Griffiths and Harrison,2oo9).A recent study in wild type and silicic acid transport (SIT) mutant strains of the diatom Thalassiosira pseudonana investigated the changes in transcript, protein and lipid abundance upon Si-replete and Si-deplete conditions (Shrestha and Hildebrand,2015). Interestingly，RNA interference and antisense knockdowns in the SIT proteins promoted a faster lipid accumulation under Si-starvation conditions，suggesting SIT proteins' dual role as transporters and sensors (transceptors) of silicon in diatoms. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/c6088df32d3ea93b903c6b077b94d9a9c78c2e6c112907d5885fba4722a183cf.jpg",
+        "table_caption": [
+            "Table1 Genes with confirmed roles in TAG synthesis and accumulation in lipid droplets in green algae "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Gene</td><td>Description</td><td>Algal species</td><td>Functional validation</td><td>Effects (compared to parental strains/control conditions)</td><td></td><td></td></tr><tr><td>NRR1</td><td>Nitrogen response</td><td>Chlamydomonas reinhardtii</td><td>Insertional gene disruption</td><td>52% less TAG content</td><td>Role Putative transcription factor controlling</td><td>References Boyle et al. (2012)</td></tr><tr><td>DGTT1</td><td>regulator 1 Diacylglycerol acyltransferase 1</td><td>Chlamydomonas</td><td>Heterologous complementation of yeast quadruple</td><td>Rescue of oleic acid sensitivity;</td><td>N assimilation and TAG accumulation Catalyses the acyl-dependent acylation of DAG,contributing</td><td>Boyle et al.</td></tr><tr><td></td><td>Phospholipid: diacylglycerol</td><td>Chlamydomonas</td><td>mutant carrying deletions in 4 acyltransferases Insertional gene disruption Heterologous complementation</td><td>accumulation 25% less TAG Restoration of TAG accumulation</td><td>Mediates membrane lipid turnover. Catalyses the acyl-dependent and independent acylation of</td><td>Boyle et al.</td></tr><tr><td></td><td></td><td>Chlamydomonas</td><td>mutant carrying deletions in 4 acyltransferases RNAi gene expression knockdown</td><td>169% increase in</td><td>Indirect control of TAG synthesis. Acetyl-CoAflux is diverted to fatty</td><td></td></tr><tr><td></td><td>Lipase 1</td><td>Chlamydomonas</td><td>Gene overexpression Artificial micro-RNA gene expression knockdown Heterologous</td><td>45% decrease in TAG level Delay in TAG lipolysis upon N resupply Restoration of</td><td>acid synthesis rather than TCA cycle when CIS activity is disrupted Broad-specificity lipase that facilitates TAG turnover for rapid cell growth upon N resupply</td><td>Li et al.</td></tr><tr><td>PGD1</td><td>Plastid Galactoglycerolipid</td><td>Chlamydomonas reinhardtii</td><td>carrying deletions in 2 major TAG lipases Insertional gene disruption</td><td>Decreased fatty acid flux of plastid lipids to TAG upon -N. Reduction by 50% in the ratio of fatty acids</td><td>Hydrolyses MGDG,contributing to increased pools of fatty acids to TAG synthesis upon -N</td><td>Li et al.</td></tr><tr><td></td><td>Triacylglycerol</td><td>Chlamydomonas</td><td> Insertional gene</td><td>in lipid extract upon 3 days of -N Reduction by 90% in TAG</td><td>Tyrosine phosphorylation-regulated kinase implicated in the control of TAG accumulation upon both N and</td><td>Kajikawa et al.</td></tr><tr><td>PDAT1</td><td>Phospholipid: diacylglycerol acyltransferase 1</td><td>Chlamydomonas reinhardtii</td><td>Artificial micro- RNA gene expression knockdown</td><td>Up to 57% reduction in TAG content upon N-replete conditions and 28% reduction upon 24 h of -N</td><td>S deficiencies Mediates membrane lipid turnover. Catalyses the transacylation of DAG into TAG. Uses DAG and membrane lipids as substrates.Broad-specificity lipase activity</td><td>Yoon et al. (2012)</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/2707d7c6b54dc3a84a7613133cc826f4a12048be5f678535b53fd6bcce4f33c5.jpg",
+        "table_caption": [
+            "Table 1 Continued "
+        ],
+        "table_footnote": [
+            "TAG,triacylglycerol;DAG,diacylglycerol;TCA,tricarboxylic acid cycle. \\*Studies that used gene disruption,overexpresson,and mutant complementation approaches were selected. "
+        ],
+        "table_body": "<html><body><table><tr><td>Gene</td><td>Description</td><td>Algal species</td><td>Functional validation</td><td>Effects (compared to parental strains/control conditions)</td><td>Role</td><td>References</td></tr><tr><td>MLDP</td><td>Major lipid droplet protein</td><td>Chlamydomonas reinhardtii</td><td>RNA interference gene expression knockdown</td><td>Average 40% increase in lipid droplet diameter</td><td>Most abundant protein in lipid droplets. Controls lipid droplet size. Does not</td><td>Moellering and</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>affect TAG content</td><td>Benning (2010)</td></tr><tr><td>ROC40</td><td>Rhythm of</td><td>Chlamydomonas</td><td>Insertional gene</td><td>Attenuation of</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>MYB-related transcription factor</td><td>Goncalves</td></tr><tr><td></td><td></td><td></td><td>disruption</td><td></td><td></td><td></td></tr><tr><td></td><td>chloroplast 40</td><td>reinhardtii</td><td></td><td>N-starvation induced</td><td>implicated in the regulation</td><td>et al.</td></tr><tr><td></td><td></td><td></td><td></td><td>increase in</td><td>of -N-induced TAG accumulation and</td><td>(2015)*</td></tr><tr><td></td><td></td><td></td><td></td><td>triacylglycerol level</td><td>control of circadian clock</td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Biological role of TAG accumulation ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "One of the proposed interpretations for the drastic increase in TAG accumulation in N-starved green algae is that it is a cellular response for efficiently storing excess energy and assimilated carbon under suboptimal conditions (Greenwell et al.,2010;Hu et al.，2008;Solovchenko，2012；Valledor et al.，2014；Wan et al.，2012).Moreover，this metabolic rearrangement would prevent oxidative cellular damage，therefore maintaining the cell'svitality，as N starvation is known to negatively affect the light harvesting complexes and associated proteins controlling thephotosynthetic electron transport(Schmollinger et al., 2014).A recent system-level study in Chlamydomonas revealed that N starvation triggers the accumulation of most proteins related to oxidative phosphorylation (Valledor etal.,2014),such asNADH dehydrogenase，ATP synthases and cytochrome c oxidase.This response seems to be unique to N starvation,as it is not observed upon other nutrient stress conditions,such as sulphur deprivation (Gonzalez-Ballester et al.，201O)，which triggers starch accumulation rather than TAG (Zhang et al., 2002).In addition to the proposed 'efficient energy storage' hypothesis,others have proposed that TAG serves as a sink for free fatty acidsunder N-starvation conditions, preventing lipotoxicity in the cytoplasm (Greenwell et al.，2010; Kurat et al.，2006;Solovchenko,2012). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Another plausible biological role that has not been fully investigated to date is that TAG accumulation could confer a fitness advantage for the cells under suboptimal nutrient conditions.The altered buoyancy of the cells could facilitate its movement to regions of higher nutrient availability.We propose that studies on algal buoyancy under different nutrient-depletion modes and the ability of the cells to recover after nutrient resupply would be essential for testing this hypothesis.Furthermore，dietary studies on laboratory-reared Daphnia pulex，a predator of algae,showed that when the green algae Scenedesmusobliquus was N-deprived and contained high oil content, Daphnia growth rate,size and number of eggs produced were decreased compared to using algae under N-replete conditions (low oil content) as feed (Groeger et al.，1991)．Thus，N deprivation in green algae might also confera fitness advantage against predation either by supplying lower N or higher amount of lipids to the predator. Finally,as the number of available algal mutants in lipid biosynthesis rapidly increases (Liu and Benning, 2013),new opportunities are provided to compare the fitness of mutants and the corresponding wild-type strains under different environmental conditions. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Recoveryupon Navailability ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "When the environmental conditions are reversed to normal,N becomes available for the cells and photosynthesis is resumed. During this period, the degradation of TAG provides energy for the fast recovery of vegetative cell growth (Valledor et al.,2014). The polyunsaturated fatty acids contained in TAG molecules have been proposed to serve as reservoirs for the rapid synthesis of chloroplast membranes upon N recovery (Khozin-Goldberg and Cohen,2011). In algal strains in which starch is also accumulated during N deprivation,the resupply of N in the absence of light induces starch turnover within a few hours to support cell growth,followed by a later induction of TAG turnover (Siaut et al.，2O11).Several studies have documented the fast disappearance of lipid droplets with concomitant reappearance of plastidial membranes within hours after N resupply (Cagnon et al.,2013;Li et al.,2012a;Siaut et al.,2011). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The effects of N starvation can be easily reversed by adding N to the medium,which has been useful for investigating the algal recovery responses after N resupply in the oleaginous microalgae Nannochloropsis oceanica IMET1 (Dong et al.，2013).In this study,when nitrate was resupplied after long-term N starvation (31 days)，physiological parameters such as the photochemical energy conversion efficiency of photosystem 2 indicated that the photosynthetic capacity was reversed to normal within 4 days. Moreover， the measurement of protein expression during the recovery phase revealed the induction of proteins related to photosynthesis， glycolysis， tricarboxylic acid cycleandlipid degradation， supporting thephysiological observationsand suggesting a remobilization of the carbon flux from TAG accumulation to the normal routes of the algal primary metabolism (Dong et al.，2013). In Chlamydomonas,a mutant named as compromised hydrolysis of triacylglycerols 7 (CHT7) was isolated ina screen formutants impaired in the recoveryafter N resupply to N-deprived cultures (Tsai et al.，2014).However, CHT7's role as an N sensor was ruled out as the mutant's regrowth was also compromised following resupply of other nutrients after their deprivation.Rather， transcriptome data suggested that CHT7 is a repressor of cellular quiescence (halt of cellular division） controlling downstream transcriptional programs associated with nutrient deprivation (Tsai et al.,2014). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Regulon engineering for induced accumulation of TAG ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Despite major insights provided by recent gene function and systems biology studies,further research will be fundamental to identify the regulatory cascades controlling TAG accumulation under stress conditions in green algae.Recent improvements in genomic data,such as high-quality gene models,have been made because of the initial efforts put into sequencing the Chlamydomonas genome (Blaby et al.，2014)． In addition，major advancements have been made in the techniques available to interrogate gene function，including chemical and insertional mutagenesis, genome-editingapproaches, RNA interference, transformation markers and fluorescent proteins (Jinkerson and Jonikas，2015). These approaches，in combination with highquality reference genomes,will enable the conduction of much needed in-depth studies on the mechanistic details of transcriptional and translational control over glycerolipid synthesis and metabolism.This could lead us to new opportunities to engineer superior oil-accumulating strains.Specific transcription factors, suchas NRR1,ROC4O,TAR1 and several others recently revealed, also respond to nutrient limitation (Gargouri et al.，2015；Park etal.,2015).They could be expressed under induced promoters to test their significance in modulating TAG synthesis.While Chlamydomonas will be a great resource to solve scientific questions,efforts into technology transfer targeting robust oilproducing strains that can grow outdoors,in different environments，without being outcompeted by other algae，and resist predators,will be fundamental for the development of the algal biodiesel industry. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Adams，C.，Godfrey，V.，Wahlen，B.，Seefeldt,L.and Bugbee，B.(2013) Understanding precision nitrogen stress to optimize the growth and lipid content tradeoff in oleaginous green microalgae.Bioresour. Technol.131, 188-194.   \nAyme,L., Baud,S., Dubreucq,B.,Joffre,F.and Chardot,T.(2014) Function and localization of the Arabidopsis thaliana diacylglycerol acyltransferase DGAT2 expressed in yeast. PLoS ONE,9,e92237.   \nBlaby,I.K.,Glaesener, A.G.,Mettler,T., Fitz-Gibbon, S.T., Gallaher, S.D., Liu,B., Boyle,N.R.et al. (2013) Systems-level analysis of nitrogen starvation-induced modificationsofcarbon metabolisminaChlamydomonasreinhardtii starchless mutant.Plant Cell,25,4305-4323.   \nBlaby,I.K.，Blaby-Haas,C.E.，Tourasse,N.，Hom,E.F.，Lopez,D.，Aksoy，M., Grossman,A.et al. (2014) The Chlamydomonas genome project: a decade on.Trends Plant Sci. 19,672-680.   \nBoling，C．and Fiehn，O.(20o5)Metabolite profiling of Chlamydomonas reinhardtii under nutrient deprivation.Plant Physiol.139,1995-2005.   \nBoyle,N.R.,Page,M.D.,Liu,B.,Blaby, I.K.,Casero,D.,Kropat,J.,Cokus,S.J. et al.(2O12) Three acyltransferases and nitrogen-responsive regulator are implicated in nitrogen starvation-induced triacylglycerol accumulation in Chlamydomonas.J.Biol. Chem.287,15811-15825.   \nBrown,L.M.and Zeiler，K.G.(1993)Aquatic biomass and carbon dioxide trapping.Energy Convers.Manage.34，1005-1013.   \nCagnon,C.,Mirabella,B.,Nguyen,H.M.,Beyly-Adriano,A.,Bouvet,S.,Cuine, S.,Beisson,F.et al. (2013) Development of a forward genetic screen to isolateoil mutants in the green microalga Chlamydomonas reinhardtii. Biotechnol. Biofuels6, 178.   \nChellamuthu，V.R.， Ermilova，E.，Lapina，T.，Luddecke，J.，Minaeva，E., Herrmann,C.，Hartmann，M.D.et al. (2014)A widespread glutaminesensing mechanism in the plant kingdom.Ce//,159,1188-1199.   \nChen，C.-Y.，Yeh，K.-L.，Aisyah，R.，Lee，D.-J.and Chang,J.-S. (2011) Cultivation， photobioreactor design and harvesting of microalgaefor biodiesel production:a critical review. Bioresour.Technol.1o2,71-81.   \nChen,T.,Liu,J.,Guo,B.,Ma,X.,Sun,P., Liu,B.and Chen,F.(2O15) Light attenuates lipid accumulation while enhancing cell proliferation and starch synthesis in the glucose-fed oleaginous microalga Chlorella zofingiensis. Nat. Sci. Rep.5,14936.   \nChisti,Y.(2007) Biodiesel from microalgae. Biotechnol. Adv.25,294-306.   \nChisti,Y. (2oo8) Biodiesel from microalgae beats bioethanol.Trends Biotechnol. 26,126-131.   \nCosta,J.A.V.and De Morais,M.G. (2011) The role of biochemical engineering in the production of biofuels from microalgae. Bioresour.Technol.102,2-9   \nDahlqvist,A.,Stahl,U.,Lenman,M., Banas,A.,Lee,M.,Sandager, L.,Ronne,H. et al.(2ooo) Phospholipid: diacylglycerol acyltransferase:an enzyme that catalyzes theacyl-CoA-independentformationoftriacylglycerol inyeastand plants. Proc. Natl Acad.Sci. USA 97,6487-6492.   \nDemirbas,A.and Demirbas,M.F.(2011) Importance of algae oil as a source of   \nbiodiesel.Energy Convers.Manage.52,163-170.   \nDeng,X., Cai,J.and Fei, X.(2013) Effect of the expression and knockdown of citrate synthase gene on carbon flux during triacylglycerol biosynthesis by green algae Chlamydomonas reinhardtii.BMC Biochem.14,38.   \nDong,H.P.,Wiliams,E.,Wang, D.Z., Xie, Z.X., Hsia,R.C.,Jenck,A., Halden,R.   \netal.(2013） Responses of Nannochloropsis oceanica IMET1 to long-term nitrogen starvation and recovery.Plant Physiol.162,1110-1126.   \nEdmundson,S.J.and Wilkie,A.C. (2013) Landfill leachate-a water and nutrient resource for algae-based biofuels. Environ.Technol.34,1849-1857.   \nEIA,International Energy Outlook (2014) https://http://www.iea.org/Textbase/ npsum/WEO2014SUM.pdf (accessed May 17,2015).   \nFabregas，J.，Maseda，A.，Dominguez，A.and Otero，A.(20o4) The cell composition of Nannochloropsis sp.changes under different irradiances in semicontinuous culture.World J. Microbiol. Biotechnol.20,31-35.   \nFan,J.,Andre,C.and Xu,C.(2011)A chloroplast pathway for the de novo biosynthesis of triacylglycerol in Chlamydomonas reinhardtii.FEBS Lett.585, 1985-1991.   \nFan,J.,Yan,C.,Andre,C., Shanklin,J.,Schwender,J.and Xu,C.(2012) Oil accumulation is controlled by carbon precursor supply for fatty acid synthesis in Chlamydomonas reinhardtii.Plant Cell Physiol.53,1380-1390.   \nFan,J., Yan,C.and Xu,C.(2013) Phospholipid: diacylglycerol acyltransferasemediated triacylglycerol biosynthesisiscrucial for protection against fatty acid-induced cell death in growing tissues of Arabidopsis.Plant J.76, 930-942.   \nFarooq,W.,Suh,W.I.，Park,M.S.and Yang,J.W.(2015)Water use and its recycling in microalgae cultivation for biofuel application.Bioresour.Technol 184, 73-81.   \nFoley,P.M., Beach,E.S.and Zimmerman,J.B.(2011)Algae asasource of renewable chemicals: opportunities and challenges. Green Chem.13,1399-1405.   \nForchhammer，K. (2oo4） Global carbon/nitrogen control by Pll signal transduction in cyanobacteria:from signals to targets.FEMS Microbiol. Rev. 28,319-333.   \nGargouri,M.，Park,J.J.，Holguin,F.O.，Kim，M.J.， Wang，H.，Deshpande，R.R, Shachar-Hill,Y.et al. (2015)Identification of regulatory network hubs that control lipid metabolism in Chlamydomonas reinhardti.J.Exp. Bot.66,4551-4566.   \nGerland，P.，Raftery，A.E.，Sevcikova，H.，Li，N.，Gu,D.，Spoorenberg，T., Alkema,L.et al. (2014)World population stabilization unlikely this century. Science,346,234-237.   \nGojon，A.，Krouk，G.，Perrine-Walker，F．and Laugier，E.(2011）Nitrate transceptor(s) in plants.J.Exp. Bot.62,2299-2308.   \nGoncalves,E.C.,Johnson,J.V.and Rathinasabapathi,B.(2013) Conversion of membrane lipidacyl groups to triacylglycerol and formationof lipid bodies upon nitrogen starvation in biofuel green algae Chlorella UTEX29.Planta, 238,895-906.   \nGoncalves,E.C.(2015) Metabolic regulation of triacylglycerol accumulation in nitrogen-starved biofuel greenalgae.PhD dissertation.Universityof Florida Gainesville-FL.   \nGonzalez-Ballester,D.,Casero,D.,Cokus,S.,Pellegrini, M.,Merchant,S.S.and Grossman,A.R. (2010) RNA-seq analysis of sulfur-deprived Chlamydomonas cells reveals aspects of acclimation critical for cell survival.Plant Cell,22, 2058-2084.   \nGoodenough,U,Blaby,I,Casero,D,Gallaher,S.D,Goodson,C.,Johnson,., Lee,J.H.etal. (2O14) The path to triacylglyceride obesity in the sta6 strain of Chlamydomonas reinhardtii.Eukaryot.Cell13,591-613.   \nGoodson，C.Roth，R.，Wang，Z.T.and Goodenough,U.(2011） Structural correlatesofcytoplasmic and chloroplast lipid body synthesisin Chlamydomonas reinhardtii and stimulation of lipid body production with acetate boost. Eukaryot. Cell10,1592-1606.   \nGreenwell，H.C.，Laurens，L.ML.，Shields,R.J.，Lovitt，R.W.and Flynn,K.J. (2010)Placing microalgae on the biofuelspriority list:a review of the technological challenges.   \nGrifiths,M.and Harrison,S.(2oo9)Lipid productivityasa keycharacteristic for choosing algal species for biodiesel production.J.Appl.Phycol.21, 493-507.   \nGriffiths,M.,van Hille,R.and Harrison,S.L. (2O12) Lipid productivity,settling potential and fatty acid profile of 11 microalgal species grown under nitrogen replete and limited conditions.J.Appl.Phycol.24, 989-1001.   \nGroeger，A.W.，Schram，M.D.and Marzolf，G.R.(1991） Influence of food quality on growth and reproduction in Daphnia.Freshw. Biol.26,11-19.   \nGuarnieri,M.T.,Nag,A., Smolinski,S.L., Darzins,A.,Seibert,M.and Pienkos, P.T.(2011) Examination of triacylglycerol biosynthetic pathways via de novo transcriptomic and proteomic analyses in an unsequenced microalga. PLoS ONE,6,e25851.   \nHeredia-Arroyo，T.，Wei，W.and Hu，B.(2010) Oil accumulation via heterotrophic/mixotrophicChlorellaprotothecoides.Appl.Biochem. Biotechnol. 162, 1978-1995.   \nHo,D.P.,Ngo,H.H.and Guo,W.(2014)A mini review on renewable sources for biofuel. Bioresour.Technol.169,742-749.   \nHockin,N.L., Mock,T.，Mulholland,F.， Kopriva,S.and Malin,G.(2012)The response of diatom central carbon metabolism to nitrogen starvation is different from that of green algae and higher plants. Plant Physiol.158,299- 312.   \nHu,Q.,Sommerfeld,M.,Jarvis,E,Ghirardi, M.,Posewitz,M.,Seibert,M.and Darzins，A.(2o08)Microalgal triacylglycerolsas feedstocks for biofuel production: perspectives and advances.Plant J.54,621-639.   \nHuang,N.L.，Huang,M.D.，Chen,T.L.and Huang,A.H.(2013)Oleosin of subcellular lipid droplets evolved in green algae.Plant Physiol.161,1862- 1874.   \nHuerlimann，R.and Heimann，K. (2013) Comprehensive guide to acetylcarboxylases in algae. Crit. Rev. Biotechnol.33,49-65.   \nJinkerson，R.E.and Jonikas,M.C.(2015) Molecular techniques to interogate and edit the Chlamydomonas nuclear genome.Plant J.82,393-412.   \nKajikawa,M.，Sawaragi,Y.，Shinkawa,H.,Yamano,T.，Ando,A., Kato,M., Hirono，M.et al.(2015）Algal dual-specificity tyrosine-phosphorylationregulated kinase tar1 regulatesaccumulation of triacylglycerol in nitrogenOr sulfur-deficiency.Plant Physiol.168,752-764.   \nKhozin-Goldberg,I.and Cohen,Z. (2011) Unraveling algal lipid metabolism: recent advances in gene identification. Biochimie,93,91-100.   \nKurat,C.F.,Natter, K.,Petschnigg,J.,Wolinski,H.,Scheuringer,K.,Scholz,H., Zimmermann,R.et al. (2oo6) Obese yeast: triglyceride lipolysis is functionally conserved from mammals to yeast.J. Biol. Chem.281,491-500.   \nLa Russa,M.Bogen,C.,Uhmeyer,A.,oebbe,A.,iipone,E.Krusend Mussgnug, J.H. (2012) Functional analysis of three type-2 DGAT homologue genes for triacylglycerol production in the green microalga Chlamydomonas reinhardti.J.Biotechnol.162,13-20.   \nLi,Y., Han,D.,Hu,G.,Dauvillee,D.,Sommerfeld,M.,Ball,S.and Hu,Q.(2010) Chlamydomonasstarchlessmutantdefective ADP-glucose pyrophosphorylase hyper-accumulates triacylglycerol.Metab.Eng.12,387- 391.   \nLiX.，Benning，C.and Kuo,M.H.(2012a） Rapid triacylglycerol turnover in Chlamydomonas reinhardti requires a lipase with broad substrate specificity. Eukaryot. Cell 11, 1451-1462.   \nLi,X.,Moellering,E.R., Liu,B., Johnny, C., Fedewa,M., Sears, B.B., Kuo,M.H. etal.(012b)Agalactoglycerolipidlipaseisrequired for triacylglycerol accumulation and survival folowing nitrogen deprivation in Chlamydomonas reinhardtii.Plant Cell,24,4670-4686.   \nLi，J.，Han，D.，Wang，D.,Ning，K., Jia，J.，Wei，L., Jing，X.et al.(2014) Choreographyoftranscriptomesandlipidomesofnannochloropsis reveals the mechanisms of oil synthesis in microalgae.Plant Cell,26, 1645-1665.   \nLi-Beisson,Y.,Beisson,F.and Riekhof,W.(2015) Metabolism of acyl-lipids in Chlamydomonas reinhardtii Plant J.82, 504-522.   \nLichtle,C.(1980) Effects of nitrogen deficiency and light of high intensity on Cryptomonas rufescens (Cryptophyceae).Protoplasma,102,11-19   \nLiu,B.and Benning,C.(2013) Lipid metabolism in microalgae distinguishes itself.Curr. Opin. Biotechnol.24,300-309.   \nMarkou,G.and Nerantzis,E.(2013) Microalgae for high-value compounds and   \nbiofuels production:a review with focus on cultivation under stress conditions. Biotechnol. Adv.31,1532-1542.   \nMashek，D.G.，Li，L.O.and Coleman，R.A. (2007）Long-chain acyl-CoA synthetases and fatty acid channeling.Future lipidol.2,465-476.   \nMata,T.M.，Martins,A.A.and Caetano,N.S.(201O) Microalgae for biodiesel production and other applications: a review. Renew.Sustain. Energy Rev.14, 217-232.   \nMatsuo,T.,Okamoto,K., Onai, K.,Niwa,Y.,Shimogawara, K.and lshiura,M. (2008)A systematic forward genetic analysis identified components of the Chlamydomonas circadian system. Genes Dev.22, 918-930.   \nMedipally,S.R.,Yusoff,F.M.,Banerjee,S.and Shariff,M. (2015) Microalgae as sustainable renewable energy feedstock for biofuel production.Biomed. Res. Int. 2015,519513.   \nMerchant, S.S., Kropat,J.,Liu, B., Shaw,J.and Warakanont,J.(2012) TAG,You are it!Chlamydomonas as a reference organism for understanding algal triacylglycerol accumulation.Cur Opin. Biotechnol.23,352-363.   \nMiller，R.，Wu,G.Deshpande,R.R.Vieler,A.，Gartner，K.,Li,X.,Moellering, E.R.et al. (2010)Changes in transcript abundance in Chlamydomonas reinhardtii following nitrogen deprivation predict diversion of metabolism. Plant Physiol.154,1737-1752.   \nMoelering,E.R.and Benning,C.(2010) RNA interference silencing of a major lipid droplet protein affects lipid droplet size in Chlamydomonas reinhardtii. Eukaryot.Cell9,97-106.   \nMoody，J.W.，McGinty，C.M.and Quinn,J.C.(2014) Global evaluation of biofuel potential from microalgae.Proc. Natl Acad.Sci. USA 111,8691- 8696.   \nMsanne,J.,Xu,D.,Konda,A.R.,Casas-Mollano,J.A.,Awada,T.,Cahoon,E.B and Ceruti, H. (2012) Metabolic and gene expression changes triggered by nitrogendeprivationin thephotoautotrophically grown microalgae Chlamydomonas reinhardtii and Coccomyxa sp.C-169.Phytochemistry,75, 50-59.   \nNapolitano,G.E.(1994)The relationship of lipids with light and chlorophyll measurements in freshwater algae and periphyton.J. Phycol.30,943- 950.   \nNguyen，H.M.，Baudet，M.，Cuine，S.，Adriano,J.M.，Barthe,D.， Billon,E., Bruley，C.et al. (2011) Proteomic profiling of oil bodies isolated from the unicellular green microalga Chlamydomonas reinhardtii:with focuson proteins involved in lipid metabolism.Proteomics,11,4266-4273.   \nNiu,Y.-F., Zhang,M.-H.,Li,D.-W., Yang,W.-D.,Liu,J.-S.,Bai, W.-B.andLi, H.- Y.(2013） Improvement of neutral lipid and polyunsaturated fatty acid biosynthesis by overexpressing a Type 2 diacylglycerol acyltransferase in marine diatom Phaeodactylum tricornutum.Mar. Drugs 11,4558-4569.   \nO'Grady,J.and Morgan,J.A.(2011) Heterotrophic growth and lipid production of Chlorella protothecoides on glycerol. Bioprocess Biosyst. Eng.34，121- 125.   \nOrus,M.l. and Martinez,F.(1991) Chlorophyll a/b ratio and thylakoid stacking modification in response to glucose in chlorella vulgaris UAM 101. Biochem. Physiol. Pflanz.187,197-202.   \nPark,J.J.，Wang,H.,Gargouri，M.,Deshpande,R.R.,Skepper, J.N.，Holguin, F.O., Juergens,M.T.et al. (2015)The response of Chlamydomonas reinhardti to nitrogen deprivation:a systems biology analysis. Plant J.81,611-624.   \nPitman,J.K.,Dean,A.P.and Osundeko,O.(2011)The potential of sustainable algal biofuel production using wastewater resources. Bioresour.Technol. 102,17-25.   \nPlumley，F.G.and Schmidt，G.W.(1989) Nitrogen-dependent regulation of photosynthetic gene expression.Proc. Natl Acad. Sci. USA 86,2678-2682.   \nPowell，E.E．and Hill,G.A.(2oo9) Economic assessment of an integrated bioethanoliodieselmicrobalfuelcellaityutilingtd photosynthetic algae.Chem. Eng. Res.Des.87,1340-1348.   \nRamazanov,A.and Ramazanov,Z. (2oo6) Isolation and characterization of a starchless mutant of Chlorella pyrenoidosa STL-Pl with a high growth rate, and high protein and polyunsaturated fatty acid content. Phycol. Res. 54, 255-259.   \nReijnders,L.(2013) Lipid-based liquid biofuels from autotrophic microalgae: energetic and environmental performance.Wiley Interdiscip.Rev.Energy Environ. 2, 73-85.   \nReijnders,M.J.,van Heck,R.G.,Lam,C.M.,Scaife,M.A.，dos Santos,V.A., Smith，A.G．and Schaap，P.J. (2014) Green genes:bioinformatics and systems-biology innovations drive algal biotechnology.Trends Biotechnol.32, 617-626.   \nReverdatto,S.，Beilinson,V.and Nielsen,N.C.(1999)A multisubunit acetyl coenzyme A carboxylase from soybean.Plant Physiol.119,961-978.   \nRiekhof,W.B.C.(2oo9) Organnellar and metabolic processes.Chlamydomonas Sourcebook 2,2nd edition.   \nRiekhof,W.R., Sears,B.B.and Benning, C.(2oo5)Annotation of genes involved in glycerolipid biosynthesis in Chlamydomonas reinhardti: discovery of the betaine lipid synthase BTA1Cr. Eukaryot. Cell4,242-252.   \nRodolfi,L.,Chini Zittelli,G., Bassi,N.,Padovani,G., Biondi,N.， Bonini, G.and Tredici，M.R.(2oo9)Microalgae for oil: strain selection,induction of lipid synthesis and outdoor mass cultivation in a low-cost photobioreactor. Biotechnol. Bioeng.102,100-112.   \nRoessler，P.G.(1988) Effects of silicon deficiency on lipid composition and metabolism in the diatom cyclotela cryptica.J.Phycol.24,394-400.   \nSchmolinger,S.,Muhlhaus,T.,Boyle,N.R., Blaby,I.K.,Casero,D.,Mettler,T., Moseley, J.L.et al. (2014) Nitrogen-sparing mechanisms in Chlamydomonas affect the transcriptome,the proteome，and photosynthetic metabolism. Plant Cell,26,1410-1435.   \nScott,S.A.,Davey, M.P.,Dennis,J.S., Horst,I.,Howe, C.J., Lea-Smith,D.J.and Smith，A.G.(2010) Biodiesel from algae: challenges and prospects. Curr. Opin. Biotechnol. 21,277-286.   \nShrestha,R.P.and Hildebrand,M.(2015) Evidence for a regulatory role of diatom silicon transporters in cellular silicon responses. Eukaryot. Ce// 14,29- 40.   \nSiaut,M., Cuine,S., Cagnon,C.,Fessler,B.,Nguyen,M.,Carier,P.,Beyly,A. et al.(2011) Oil accumulation in the model green alga Chlamydomonas reinhardtii: characterization,variability between common laboratory strains and relationship with starch reserves. BMC Biotechnol.11,7.   \nSingh,A.,Nigam,P.S.and Murphy, J.D.(2011) Mechanism and challenges in commercialisation of algal biofuels. Bioresour.Technol.102,26-34.   \nSmith,V.H., Sturm,B.S.,Denoyelles,F.J.and Billings,S.A. (201O)The ecology of algal biodiesel production. Trends Ecol. Evol.25,301-309.   \nSolomon,S.,Plattner,G.-K.,Knutti,R.and Friedlingstein,P.(20o9) Irreversible climate change due to carbon dioxide emissons.Proc. Natl Acad.Sci. USA 106,1704-1709.   \nSolovchenko,A.E.(2012) Physiological role of neutral lipid accumulation in eukaryotic microalgae under stresses. Russ.J. Plant Physiol.59,167-176.   \nStephens,E.，Ross,I.L.，King，Z.，Mussgnug，J.H.，Kruse，O.，Posten，C., Borowitzka,M.A.et al. (2010) An economic and technical evaluation of microalgal biofuels. Nat. Biotech.28,126-128.   \nSun,Z., Chen,Y.-F.and Du,J. (2015) Elevated CO2 improves lipid accumulation by increasing carbon metabolism in Chlorella sorokiniana.Plant Biotechnol.J. doi:10.1111/pbi.12398.   \nTsai,C.H.，Warakanont,J.，Takeuchi,T.，Sears，B.B.，Moellering，E.R.and Benning, C.(2014) The protein compromised hydrolysis of triacylglycerols 7 (CHT7) acts as a repressor of cellular quiescence in Chlamydomonas.Proc Natl Acad Sci U SA 111,15833-15838.   \nValledor,L.,Furuhashi,T., Recuenco-Munoz,L.,Wienkoop,S.and Weckwerth, W.(2014) System-level network analysis of nitrogen starvation and recovery in Chlamydomonas reinhardti reveals potential new targets for increased lipid accumulation. Biotechnol. Biofuels7,171.   \nVan Wagenen,J.,Miller,T.W., Hobbs,S., Hook,P.,Crowe,B.and Huesemann, M.(2012） Effects of light and temperature on fatty acid production in Nannochloropsis salina.Energies,5,731.   \nWan,M.,Liu,P.,Xia,J.,Rosenberg,J.N.,Oyler,G.A., Betenbaugh,M.J.,Nie,Z. et al.(2011) The effect of mixotrophy on microalgal growth,lipid content, and expression levels of three pathway genes in Chlorella sorokiniana.Appl. Microbiol. Biotechnol. 91,835-844.   \nWan,L., Han,J.,Sang,M.,Li,A.,Wu,H., Yin,S.and Zhang,C. (2012) De novo transcriptomic analysis of an oleaginous microalga: pathway description and gene discovery for production of next-generation biofuels. PLoS ONE,7, e35142.   \nWang,Z.T., Ullich,N.,Joo,S.,Waffenschmidt,S.and Goodenough, U. (2009) Algallipid bodies:stressinduction，purification，andbiochemical characterization in wild-type and starchless Chlamydomonas reinhardti Eukaryot. Cell8,1856-1868.   \nWei,N.,Quarterman,J.and Jin,Y.S. (2O13) Marine macroalgae: an untapped resource for producing fuels and chemicals.Trends Biotechnol.31,70-77.   \nWijffels，R.H.and Barbosa，M.J.(2010)An outlook on microalgal biofuels. Science,329,796-799.   \nWork,V.H.,Radakovits,R., Jinkerson,R.E.,Meuser,J.E.,Elliott,L.G.,Vinyard, D.J.，Laurens，L.M.et al. (2010) Increased lipid accumulation in the Chlamydomonas reinhardtii sta7-10 starchless isoamylase mutant and increased carbohydrate synthesis in complemented strains. Eukaryot. Ce// 9, 1251-1261.   \nWykoff,D.D.,Grossman,A.R.,Weeks,D.P., Usuda,H.and Shimogawara,K. (1999)Psr1，a nuclear localized protein that regulatesphosphorus metabolism in Chlamydomonas.Proc.Natl Acad.Sci. USA 96,15336-15341.   \nYan，D.，Dai,J.and Wu,Q.(2013)Characterization of an ammonium transporter in the oleaginous alga Chlorella protothecoides.Appl.Microbiol. Biotechnol. 97, 919-928.   \nYoon,K.，Han,D.,Li,Y.，Sommerfeld,M.and Hu,Q.(2012) Phospholipid: diacylglycerolacyltransferaseisamultifunctional enzymeinvolvedin membrane lipid turnover and degradation while synthesizing triacylglycerol in the unicellular green microalgaz Chlamydomonas reinhardti.Plant Cell,24, 3708-3724.   \nYu,W.L.,Ansari,W.,Schoepp, N.G.,Hannon,M.J.,Mayfield,S.P.and Burkart, M.D.(2011） Modifications of the metabolic pathways of lipid and triacylglycerol production in microalgae.Microb.Cel Fact.10,91.   \nZhang，L.，Happe，T.and Melis，A.(20o2） Biochemical and morphological characterization of sulfur-deprived and H2-producing Chlamydomonas reinhardtii (green alga).Planta,214,552-561.   \nZhang,M.,Fan,J.,Taylor,D.C.and Ohlrogge,J.B.(2009) DGAT1 and PDAT1 acyltransferases have overlapping functions in Arabidopsis triacylglycerol biosynthesis and are essential for normal pollen and seed development. Plant Cell,21,3885-3901. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

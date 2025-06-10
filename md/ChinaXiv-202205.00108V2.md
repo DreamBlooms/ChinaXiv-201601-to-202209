@@ -1,0 +1,254 @@
+# 芽孢杆菌特性对养殖水体氮转化作用的影响
+
+黄海洪”"，李朝云²"，†，类延菊¹，邹万生¹4，杨品红¹5，武孟祥  
+（1．湖南文理学院，常德 415000；2.山东畜牧兽医职业学院，潍坊 261061；3．环洞庭湖水产健康养殖  
+及加工湖南省重点实验室，常德 415000；4．水产高效健康生产湖南省协同创新中心，常德 415000；5．动物学湖南省高校重点实验室，常德 415000；6．鼎城区气象局，常德 415000）
+
+# 摘要:
+
+[目的］研究养殖条件下菌株特性及水体环境对芽孢杆菌氮转化作用的影响。
+
+[方法］测定了2株芽孢杆菌NT9和YB3的水解酶活性、抑菌活性和生长能力等特性，并对模拟养殖过程中的氮转化作用进行了通径分析。
+
+[结果］结果显示，菌株NT9属于枯草芽孢杆菌（Bacullis subtilis），在低营养条件下也具有氨氮转化功能，去除率达 $8 9 . 3 \%$ ，与菌株YB3相比，具有较强的蛋白酶、淀粉酶活性以及抑菌活性，但是生长能力较差。在模拟养殖水体中，2株菌对硝酸氮、亚硝酸氮、溶解氧、pH、碱度等水质条件影响不大，均能够促进有机氮降解，但氨氮转化效果较差，导致水体氨氮显著积累（ $P < 0 . 0 5 ^ { \cdot }$ ）。通径分析显示，水体总菌量（cfu）是促进有机氮降解的主要因素，通径系数（直接作用）0.550（ $P < 0 . 0 1 \dot { , }$ ），菌株的纤维素酶活性（cel）和生长能力（gro）等都通过cfu对有机氮降解产生较大的间接作用；而微生物的生长增殖活动（总菌增量，dcfu）则是促进氨氮转化的主要因素，通径系数为-0.112（ $P < 0 . 0 1 )$ 。
+
+[结论]研究表明，2株芽孢杆菌在养殖条件下均能够促进饲料蛋白的降解，但是氨氮转化效果不明显，根据通径分析结果，可以通过促进芽孢杆菌生长，对同步转化氨氮进行研究。
+
+关键词：芽孢杆菌；养殖水体；氮转化；影响因素；通径分析
+
+分类号：S959
+
+# Effect of Bacillus properties on nitrogen conversion in aquaculture water body
+
+HUANG Haihong1, \$,LI Chaoyun 2,\$.†, LEI Yanju1,3, ZOU Wansheng1 4, YANG Pinhong1.5, Wu Mengxiang6
+
+1.Hunan Universityof Arts and Science, Changde 415ooo,China;2.Shandong Vocational Animal Science and Veterinary College, Weifang 261061, China; 3. Collaborative Innovation Center for Efficient and Health Production of Fisheries, Changde 415ooo, China; 4. Key Laboratory of Health Aquaculture and Product Processing in Dongting Lake Area, Changde 415000, China; 5. Zoology Key Laboratory of Hunan Higher Education, Changde 415000, China; Dingcheng District Meteorological Bureau, Changde 415000, China)
+
+# Abstract:
+
+[Objective] To research effects of strain characteristics and water conditions on nitrogen conversion of Bacillus in aquaculture.
+
+[Methods] Hydrolases activities,bacteriostatic activities and growth ability under oligotrophic condition of two Baculis strains NT9 and YB3 were determined. Thereafter,their nitrogen conversion efects in a simulating experiment for aquaculture were studied with path analysis method.
+
+[Results] Results showed that strain NT9 was a strain of Baculis subtilis with a ammonia-degrading rate of $89 . 3 \%$ under oligotrophic condition with $\mathrm { \Delta N H _ { 4 } C l }$ as unique nitrogen source, it had stronger protease-, amylase- and bacteriostatic-activities,but grew more slowly in the oligotrophic broth when compare to strain YB3. In the simulating aquaculture water bodies,both strain NT9 and YB3did not obviously affect the dissolved oxygen,pH, alkalinity，concentrations of nitrite and nitrate,but promoted degradation of organic nitrogen which led to significant accumulation of ammonia ( $\langle P < 0 . 0 5 \rangle$ . However, the ammonia was not converted efficiently by both strains.Results of path analysis showed that the count of bacteria $( c f i u )$ in water was the main factor for organic degradation,with a path coefficient (direct effect） of 0.550 $( P < 0 . 0 1 { \dot { } }$ ),beside which the indirect effects of cellulose $( c e l )$ and growth ability (gro) through cfu were also important. Meanwhile, the main factor for ammonia conversion was growth and proliferation of bacteria (count increment, dcfu) which path coeficient was -0.112 ( $P$ （204号 $< 0 . 0 1 \dot$ ）
+
+[Conclusions] In conclusion, in simulating aquaculture condition,both Bacillus strain NT9 and YB3 improved the degradation of organic nitrogen dramatically,but could not convert the ammonia eficiently.According to the results of path analysis,however, it could carry out a further research on synchronous conversion of ammonia by improving the growth ofI strain in aquaculture water.
+
+Key words: Bacullis; Aquaculture water body; Nitrogen conversion; Factors; Path analysis
+
+水产养殖过程中，只有约 $2 0 \mathrm { - } 3 0 \%$ 的饲料蛋白氮最终被水产动物吸收利用，其余部分流失到水环境中[1-2]。据估计，养殖水体中 $7 8 \%$ 的氮元素来自于饲料[3-4]，并且主要以有机氮的形式存在[5]。一方面导致氮元素的富集污染，另一方面这些有机氮降解为氨氮、亚硝酸氮和硝酸氮等无机氮，又对水产动物的健康产生负面影响[]。芽孢杆菌（Bacullis sp.）具有多种活性功能，如分泌蛋白酶、淀粉酶、纤维素酶等，能够加快养殖水体氮的转化，降低氮元素富营养化风险，并减少氨氮、亚硝酸盐等的积累[7-9]，能够有效解决上述问题，具有较大的应用价值[10]。
+
+但是，芽孢杆菌的氮转化效果受很多因素影响，如温度、pH、溶解氧、氮源、碳源等培养条件[1-14]，以及生长能力、水解酶活性和抑菌活性等菌株的本身特性[15]。尤其在养殖条件下，与微生物培养基（总氮含量约为 $1 0 0 0 \ \mathrm { m g ^ { \bullet } L ^ { - 1 } }$ ）相比，养殖水体营养水平较低（总氮含量约为29 mg·L1）[16]，芽孢杆菌可能由于缺乏营养而形成芽孢进入休眠状态，最终影响氮转化效果[]。因此，养殖水体中影响芽孢杆菌的氮转化效果的因素更加复杂。对此，单因素试验难以对各种因素的作用进行定量比较以及综合分析[11-13]。
+
+通径分析是一种多元统计技术，与其它多元分析方法相比，可以通过效应剖分，将自变量的总效应分解为标准化的直接作用和间接作用，从而直观比较各种因素的作用，为获得主要因素提供可靠依据，适合进行多因素的综合分析与比较，在水产育种和养殖领域得到了广泛应用[18-20]。但是，在芽孢杆菌氮转化方面，应用通径分析技术的研究尚未见报道。
+
+因此，本文应用通径分析方法，对2株芽孢杆菌NT9和YB3在模拟养殖过程中，菌株特性、水质条件等多种因素对水体氮转化的影响进行研究，分析影响芽孢杆菌氮转化效果的主要因素，探索促进氮转化作用的可能途径，以期为芽孢杆菌在养殖水体中的高效应用提供依据。
+
+# 1材料与方法
+
+# 1.1 菌种
+
+菌株NT9和菌株YB3均为"环洞庭湖水产健康养殖及加工"湖南省重点实验室保藏菌种，其中菌株NT9从传统发酵食品腊八豆中分离得到；菌株YB3为一株蜡样芽孢杆菌(B.cereus)，从养殖水体分离得到，具有降解有机氮和去除氨氮的功能[21]。爱德华氏菌（Edwardsiella sp.)XCP、嗜水气单胞菌（Aeromonas hydrophlia）HTS、荧光假单胞菌（Pesudomonas fluorescens）TLF、溶藻弧菌（Vibrio alginolyticus）HTL、大肠杆菌（E.coli）和金色葡萄球菌（Staphylococcusaureus）均为"动物学"湖南省高校重点实验室保藏菌种。
+
+# 1.2 培养基
+
+LB 培养基：大豆蛋白陈（总氮含量 $8 . 0 \%$ ） $\boldsymbol { 1 0 . 0 \mathrm { g } }$ ，酵母粉（总氮含量 $10 . 0 \%$ ） $5 . 0 \ \mathrm { g }$ ，葡萄糖 $1 0 . 0 \ \mathrm { g }$ ，NaCl5.0 g，水 $1 0 0 0 ~ \mathrm { { m L } }$ ， $\mathrm { p H } 7 . 0$ ，固体培养基添加琼脂粉 $ { 1 2 . 0 ~ \mathrm { g } }$ 。纤维素培养基：羧甲基纤维素钠 $5 . 0 \ \mathrm { g }$ 、大豆蛋白陈 $1 0 . 0 \ \mathrm { g }$ 、NaCl $5 . 0 \ \mathrm { g }$ 、 $\mathrm { K H _ { 2 } P O _ { 4 } 0 . 5 \ g }$ 、琼脂粉 $1 2 . 0 \ \mathrm { g }$ ，水1000
+
+mL， $\mathrm { p H } 7 . 0$ ，用于检测纤维素酶活性。酪蛋白琼脂培养基和淀粉培养基参照李木明[22]所述方法配制，分别用于检测蛋白酶活性和淀粉酶活性。
+
+# 1.3 菌株鉴定
+
+参照黄海洪等[21]所述方法，对菌株NT9进行培养形态研究，以及16SrRNA 基因的克隆测序及系统发育分析。
+
+# 1.4菌株低营养条件生长与氨氮转化功能研究
+
+参照黄海洪等[21]所述方法进行研究，稍作修改。以 $\mathrm { \Delta N H _ { 4 } C l }$ 为唯一氮源，配制浓度为 $0 . 0 1 \%$ $( \nu / \nu )$ 低氮源营养培养液，浓度 $0 . 1 \%$ （v/v）的葡萄糖为碳源。接种菌悬液，使起始 $O D _ { 6 0 0 }$ 为0.010， $3 0 \mathrm { ~ \textdegree C }$ ， $1 5 0 \mathrm { \ r m i n ^ { - 1 } }$ 振荡发酵，发酵液 $1 2 0 0 0 \ \mathrm { r { \cdot m i n ^ { - 1 } } }$ ， $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，离心 $2 0 \ \mathrm { m i n }$ ，沉淀用$0 . 6 \%$ 无菌生理盐水漂洗3次，等体积重悬、混匀， $6 0 0 \mathrm { n m }$ 测定吸光度。测定上清液氨氮、亚硝酸氮和硝酸氮浓度[23]，相关参数计算方法如下：
+
+氨氮转化率(ammonia conversion rate, $\begin{array} { r } { R _ { d } , \% ) = \frac { c _ { \mathrm { m } } - c _ { \mathrm { e } } } { c _ { \mathrm { m } } } \times 1 0 0 } \end{array}$ 氨氮转化速率(ammonia conversion speed, $\begin{array} { r } { S _ { d } , \mathrm { m g } / ( \mathrm { L } \cdot \mathrm { d } ) ) = \frac { c _ { \mathrm { m } } - c _ { \mathrm { e } } } { t _ { \mathrm { e } } - t _ { \mathrm { m } } } } \end{array}$
+
+式中， $c _ { \mathrm { m } }$ 表示培养液氨氮的最高浓度（ $\bf { \dot { m } g / L } )$ ； $c _ { \mathrm { e } }$ 为试验结束时的氨氮浓度（ $\mathrm { \ m g / L ) }$ ； $t _ { \mathrm { m } }$ 为氨氮浓度最高时的时间（d）； $t _ { \mathrm { e } }$ 为试验结束时间（d）。
+
+# 1.5菌株活性研究
+
+蛋白酶、淀粉酶和纤维素酶活性参照李木明[22所述方法检测，其相对活性计算公式如下：
+
+水解酶相对活性(hydrolaserelative activity, $H _ { \mathrm { r } } , \% = \frac { s _ { \mathrm { h } } } { s _ { \mathrm { c } } } \times 1 0 0 \$ $s _ { \mathrm { h } }$ 水解圈面积（ $\cdot \mathrm { m } \mathrm { m } ^ { 2 } .$ ）， $s _ { \mathrm { c } }$ 菌落面积（ $\mathrm { m m } ^ { 2 }$ ）。
+
+为测定抑菌活性，芽孢杆菌以及6株病原菌分别接种于LB液体培养基， $3 0 \ ^ { \circ } \mathrm { C } , 1 5 0 \ \mathrm { r / m i n }$ 培养 $2 4 \mathrm { ~ h ~ }$ ， $1 2 0 0 0 \ \mathrm { r / m i n }$ ， $4 ~ ^ { \circ } \mathrm { C }$ ，离心 $1 0 \ \mathrm { m i n }$ ，沉淀用 $0 . 6 \%$ 无菌生理盐水重悬、稀释，制备OD( $6 0 0 \mathrm { n m }$ ）为0.1的菌悬液。病原菌菌悬液各 $1 0 0 ~ \mu \mathrm { L }$ ，分别涂布于LB 固体培养基，室温静置 $3 0 \mathrm { m i n }$ ，然后滴加芽孢杆菌菌悬液 $5 0 ~ \mu \mathrm { L }$ ，室温静置 $3 0 \mathrm { m i n }$ ， $3 0 ~ ^ { \circ } \mathrm { C }$ 共同培养 $4 8 \mathrm { ~ h ~ }$ ，测量菌落与抑菌圈直径，计算相对抑菌活性：
+
+相对抑菌活性( ${ \mathrm { r e l a t i v e ~ b a c t e r i a l ~ i n h i b i t i o n ~ a c t i v i t y } } , I _ { \mathrm { r } } , \% ) = { \frac { s _ { i } } { s _ { c } } } \times 1 0 0$ $s _ { i }$ 抑菌圈面积（ $\cdot \mathbf { m } \mathbf { m } ^ { 2 } .$ ）， $s _ { c }$ 菌落面积（ $\mathrm { m m } ^ { 2 }$ ）。
+
+为比较菌株在低营养条件下的生长能力，将上述芽孢杆菌的菌悬液接种于1:99稀释度LB液体培养基中，使起始 $O D _ { 6 0 0 }$ 值为0.010， $3 0 ~ ^ { \circ } \mathrm { C }$ 培养 $9 6 \mathrm { h }$ ，连续测定 $O D _ { 6 0 0 }$ ，重复3次。
+
+# 1.6模拟养殖试验
+
+模拟养殖试验参考黄海洪等 (2019)所述方法进行，稍作修改。
+
+(1) 模拟养殖水体制备
+
+12个 $2 0 0 \mathrm { { L } }$ 高密度聚乙烯（HDPE）塑料桶分别装入 $1 0 0 \mathrm { { L } }$ 自来水（ $\mathrm { \bf { p H } } 7 . 2 0 \rangle$ ，用碳酸氢钠（分析纯，国药集团化学试剂有限公司）将 $\mathsf { p H }$ 调至8.00 左右，再以 $1 0 \mathrm { m g ^ { \cdot } L ^ { - 1 } }$ 二氧化氯消毒， $2 4 \mathrm { h }$ 后用维生素C $( 1 \mathrm { m g } \cdot \mathrm { L } ^ { - 1 } ,$ ）中和、解除毒性(Lara et al.,2017; Prata Gaona et al.,2017)。
+
+# （2）种子液制备和水体接种
+
+菌株接种于LB液体培养基， $3 0 { } ^ { \circ } \mathrm { C }$ ， $1 5 0 \mathrm { r m i n ^ { - 1 } }$ ，培养 $2 4 \mathrm { h }$ ，制备种子液。种子液按1:100的比例转接到新鲜的LB液体培养基， $3 0 ^ { \circ } \mathrm { C }$ ， $1 5 0 \mathrm { r m i n ^ { - 1 } }$ ，培养 $2 4 \mathrm { h }$ ，然后 $1 2 0 0 0 \mathrm { r } { \cdot } \mathrm { m i n } ^ { - 1 }$ ， $4 ^ { \circ } \mathrm { C }$ 离心 $1 0 \mathrm { m i n }$ ，沉淀用 $0 . 6 \%$ 无菌生理盐水洗涤，重悬，添加到6个模拟养殖水体中，使水体起始总菌量为 $1 . 0 \times 1 0 ^ { 6 }$ cfu $\mathrm { \ m L ^ { - 1 } }$ 。接种菌株NT9和YB3的水体分别称为NT9水体和YB3水体。
+
+# (3) 模拟养殖
+
+凡纳滨对虾人工配合饲料（粗蛋白质 $2 4 0 . 0 \%$ ，粗脂肪 $2 5 . 0 \%$ ，粗纤维 $2 5 . 0 \%$ ，粗灰分 $\leq 1 6 . 0 \%$ 水分 $\leq 1 2 . 0 \%$ ，澳华公司)粉碎，过100 目筛，投入上述水体，试验前3天的投喂量为 $2 . 0 \mathrm { g } { \cdot } \mathrm { d } ^ { - 1 }$ ，
+
+其他时间均为 $1 . 0 \mathrm { g } { \cdot } \mathrm { d } ^ { - 1 }$ ，第8d和 $2 0 \mathrm { d }$ 未投喂，试验周期为24d。试验期间不换水，使用气石不间断充气。
+
+# (4) 水质测定
+
+溶解氧、温度、 $\mathsf { p H }$ 使用YSI-550A多功能水质分析仪（YSI公司，美国）测定，于每天8:00 和18:00各进行一次。其它水质指标每4d测定一次，水体氨氮、亚硝酸氮、硝酸氮、碳酸盐碱度和钙镁硬度参照文献(国家环境保护总局,2002)进行。水体总菌量也每4d测定一次，采用平板计数法进行。参照黄海洪等[17]所述方法制备养殖水体进行模拟养殖试验，稍作修改。
+
+# 1.7数据分析
+
+除水体总菌量为样品混合后的单一数据外，其它数据均为重复测定数据，以平均值 $\pm$ 标准差（mean $\pm$ SD）的形式表示。应用 SPSS16.0 软件检验数据的正态性和方差齐性，菌株水解酶活性、抑菌活性以及生长能力的比较采用student检验（t检验），模拟养殖试验水质数据则进行单因素方差分析(One-WayANOVA)，若差异显著（ $\cdot P < 0 . 0 5$ ），则进行Tukey多重比较。百分数形式的数据进行平方根反正弦转换，总菌量进行 $\log _ { 1 0 }$ （lg）转换，再进行检验，对不服从方差齐性的数据则采用Kruskal-Wallis Test非参数检验。通径分析参照杜家菊and 陈志伟[24]所述方法进行，首先调用 SPSS 16.0 软件“Regression”程序、选择“Enter”方法进行多元回归分析，再进行效应剖分。
+
+# 2结果与分析
+
+# 2.1菌株NT9菌落特征与鉴定
+
+菌株NT9革兰氏染色阳性，能形成芽孢（图1a），LB培养基 $3 0 ~ ^ { \circ } \mathrm { C }$ 培养 $^ { 4 8 \mathrm { ~ h ~ } }$ ，菌落圆形，直径 $2 { \cdot } 5 \mathrm { m m }$ ，隆起，呈奶油状，黏稠，光滑，边缘整齐，灰白色，半透明，但内部常常包涵浑浊不透明的絮状条带（图1b）。BLAST比对结果表明其16S rRNA基因序列（GenBankAccession No.KX891556）与纳豆枯草芽孢杆菌（Bacillus subtilis subsp.nat）菌株 CGMCC2108（CP014471）和BEST195（AP011541）基因片段具有 $100 \%$ 的相似度，系统发育分析也显示该菌与B.subtilis类菌株聚为一类（图1c）。
+
+![](images/f02c39739ddd35a8199f42c1f3514bd3573b95eb9e6f631f87bac5ef181e67fb.jpg)  
+图1菌株NT9 的培养形态与16S rRNA基因序列分析
+
+a：芽孢形态（黑色箭头，革兰氏染色， $1 0 0 \mathrm { x }$ ）；b：菌落形态（LB 培养基，30℃，48h）；c：16SrRNA基因系统发育树
+
+Fig. 1 Culture morphology and 16S rRNA gene sequence analysis of strain NT9 a: spores (black arrows,gram stain, 10Ox); b: colony (LB plate, $3 0 ~ ^ { \circ } \mathrm { C } .$ $4 8 \mathrm { h }$ ; c: phylogenetic tree of 16S rRNA gene sequence
+
+# 2.2低氮源浓度条件下菌株NT9的生长与氨氮转化作用
+
+图2显示，在低浓度 $\mathrm { \Delta N H _ { 4 } C l }$ 培养基中，菌株NT9的 $O D _ { 6 0 0 }$ 在接种后1d之内有所下降，其后开始上升，并于6d达到峰值，为（ $\left( 0 . 0 3 7 \pm 0 . 0 0 6 \right)$ ，每天的平均生长速度为0.0062单位吸光度 氨氮浓度则持续降低，从开始的（ $2 7 . 6 6 \pm 2 . 4 3 \$ ） $\mathrm { m g / L }$ 下降至 $3 0 \mathrm { ~ d ~ }$ 的 $\left( 2 . 9 6 \pm 0 . 0 3 \right)$ ）$\mathrm { m g / L }$ ，氨氮转化率为 $89 . 3 \%$ ，转化速率为 $0 . 8 2 \ \mathrm { m g / ( L \cdot d ) }$ 。但未检测到亚硝酸氮和硝酸氮的产生。
+
+![](images/61fae438d43476bf2269984ec3d3cc00902b56803e4b8ed202fe8d94f9c81caf.jpg)  
+  
+图2低浓度 NH4C1培养基中菌株NT9 的生长与氨氮转化情况Fig. 2 The growth and ammonia conversion of strain NT9 in oligotrophic broth with $\mathrm { \Delta N H _ { 4 } C l }$ as uniquenitrogen source
+
+# 2.3菌株NT9和YB3的生物活性及生长特性
+
+菌株NT9和YB3的蛋白酶、淀粉酶和纤维素酶活性如表1所示，菌株NT9具有较强的蛋白酶和淀粉酶分泌能力，相对活性均显著高于菌株YB3（ $\cdot P < 0 . 0 5$ ），而菌株YB3则纤维素酶活性较强。
+
+表1菌株 NT9 和 YB3 的水解酶相对活性  
+
+<html><body><table><tr><td colspan="4">Table 1 Relative hydrolase activities of strain NT9 and YB3</td></tr><tr><td>水解酶</td><td>菌株</td><td>菌落直径/(mm)</td><td>水解圈直径/(mm) 相对活性/(%)</td></tr><tr><td>hydrolases</td><td>strains</td><td>colony diameter</td><td>hydrolytic zone diameter relativeactivity</td></tr><tr><td>蛋白酶</td><td>NT9</td><td>9.6 ± 0.3a 21.0 ± 0.5a</td><td>4.80±0.5h</td></tr><tr><td>protease</td><td>YB3</td><td>13.2 ± 1.0b 19.4 ± 0.7a</td><td>2.20 ± 0.25a</td></tr><tr><td>淀粉酶</td><td>NT9</td><td>8.6 ± 0.5a 17.5 ± 0.5b</td><td>4.15 ± 0.67 b</td></tr><tr><td>amylase</td><td>YB3</td><td>9.4 ± 0.3a 12.8 ± 1.3a mm</td><td>1.86 ± 0.26a</td></tr><tr><td>纤维素酶</td><td>NT9</td><td>7.5 ± 0.2a</td><td>nc</td></tr><tr><td>cellulase</td><td>YB3</td><td>7.4 ± 0.2a 19.2 ± 1.0</td><td>6.83 ± 1.17</td></tr></table></body></html>
+
+注： $\ S \ S$ 表示有水解圈，但不明显。nc表示未计算，下同Notes: $\ S \ S$ means unclear hydrolytic zone; nc, non-calculated, the same below
+
+菌株NT9对大肠杆菌、金色葡萄球菌、爱德华氏菌（XCP）和嗜水气单胞菌（HTS）等病原菌的抑制作用较明显，对荧光假单胞菌（TLF）的抑制不明显，对溶藻弧菌（HTL）则不具有抑制作用，菌株YB3的抑菌活性总体较弱，仅对TLF有微弱的抑制效果（表2）。
+
+表2菌株 NT9 和 YB3 的相对抑菌活性  
+
+<html><body><table><tr><td>Table 2 The relative bacterial</td><td colspan="4">inhibition activities of strain NT9 and YB3</td></tr><tr><td>病原菌 pathogens</td><td>菌株</td><td>菌落直径/(mm) colony diameter</td><td>抑菌圈直径/(mm) inhibition zone diameter</td><td>相对活性 relative activity</td></tr><tr><td>大肠杆菌</td><td>strain NT9</td><td>8.2 ± 0.8 a</td><td>10.1 ± 1.1</td><td>1.54 ± 0.02</td></tr><tr><td>E. coli</td><td>YB3</td><td>7.7 ± 0.7a</td><td>0</td><td>0</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>荧光假单胞菌TLF P. fluorescens TLF</td><td>NT9</td><td>6.3 ± 0.9 a</td><td>ss</td><td>nc</td></tr><tr><td></td><td>YB3</td><td>6.9 ± 1.0 a</td><td></td><td>nc</td></tr><tr><td>爱德华氏菌XCP Edwardsiella sp.XCP</td><td>NT9</td><td>6.9 ± 0.3 a</td><td>13.4 ± 0.7</td><td>3.82 ± 0.01</td></tr><tr><td></td><td>YB3</td><td>8.4 ± 0.5 a</td><td>0</td><td>0</td></tr><tr><td>溶藻弧菌HTL</td><td>NT9</td><td>7.3 ± 1.3 a</td><td>0</td><td>0</td></tr><tr><td>V. alginolyticus HTL</td><td>YB3</td><td>7.5 ± 0.3 a</td><td>0</td><td>0</td></tr><tr><td>嗜水气单胞菌HTS</td><td>NT9</td><td>7.3 ± 0.7 a</td><td>9.8 ± 0.9</td><td>1.79 ± 0.01</td></tr><tr><td>A.hydrophlia HTS</td><td>YB3</td><td>7.6 ± 0.5 a</td><td>0</td><td>0</td></tr><tr><td>金色葡萄球菌</td><td>NT9</td><td>7.7 ± 0.1a</td><td>20.3 ± 0.3</td><td>6.96 ± 0.42</td></tr><tr><td>S. aureus</td><td>YB3</td><td>8.3 ± 1.0 a</td><td>0</td><td>0</td></tr></table></body></html>
+
+图3显示了菌株NT9和YB3在1:99稀释度LB培养液中的生长情况。首先，2株菌均经历了一段静止期，持续时间分别为 $1 2 \mathrm { h }$ 和 $2 4 \mathrm { h }$ ，之后进入对数生长期， $O D _ { 6 0 0 }$ 均在 $4 8 \mathrm { ~ h ~ }$ 达到峰值，其中菌株NT9为（ $\left( 0 . 0 3 3 \pm 0 . 0 1 3 \right)$ ，增长速度为每小时0.0008单位吸光度，菌株YB3为（ $0 . 1 1 0 \pm 0 . 0 0 2 \rangle$ ），吸光度每小时增加0.0041单位。此后菌株YB3的 $O D _ { 6 0 0 }$ 值迅速衰减,而 NT9 则保持稳定。总体来看，在 $4 8 { - } 9 6 \mathrm { h }$ ，菌株YB3的 $O D _ { 6 0 0 }$ 显著高于（ $\cdot P < 0 . 0 5 ,$ ）。
+
+![](images/9ef17880f1df30def2e4ea3d74f0a2b5664403192d029c3914e9653cd7b92972.jpg)  
+图3菌株NT9 和YB3在1:99 稀释度LB 培养基中的生长同一时间点上的a和b表示菌株吸光值差异显著（ $\cdot P < 0 . 0 5 )$ Fig.3Growth of strain NT9 and YB3 in 1:99 diluted LB broth a and b at same time points mean significantabsorbance differences between strains ( $( P < 0 . 0 5 )$ （20
+
+# 2.4菌株对模拟养殖水体水质的影响
+
+表3显示，接种菌株YB3的水体（YB3水体）的氨氮浓度显著高于接种菌株NT9的水体（NT9水体）和对照水体（ $\cdot P < 0 . 0 5 )$ ，NT9水体也显著高于对照水体 $( P < 0 . 0 5 )$ ）。同时，YB3水体平均总菌量显著高于对照水体（ $\cdot P < 0 . 0 5 ,$ ），但是NT9水体与对照水体差异不显著（ $\cdot P > 0 . 0 5$ ，表3）。3种水体的亚硝酸氮浓度、硝酸氮浓度、温度、盐度、碱度和硬度差异均不显著 $( P > 0 . 0 5 )$ ，NT9 水体和YB3水体的溶解氧和pH均显著低于对照水体 ${ ' } P { < } 0 . 0 5 )$ ，但差值均不大（表3）。
+
+表33种模拟养殖水体的水质条件  
+Table 3Water quality indices of three different water bodie:   
+
+<html><body><table><tr><td>水质参数 water quality</td><td>对照水体 control</td><td>NT9 水体 water body with strain NT9</td><td>YB3水体 water body with strain YB3</td></tr><tr><td>氨氮浓度/(mg/L)ammonia concentration</td><td>5.20 ± 1.86 a</td><td>8.17 ± 2.33 b</td><td>11.69 ± 2.89 c</td></tr><tr><td>总菌量$/(×10 cfu/ml) total bacterial counts</td><td>1.91 ± 1.95 a</td><td>3.46± 2.39 a</td><td>25.43 ±8.84 b</td></tr><tr><td>亚硝酸氮浓度/(mg/L) nitrite concentration</td><td>0.04 ± 0.02</td><td>0.02 ± 0.03</td><td>0.02 ± 0.03</td></tr><tr><td>硝酸氮浓度/(mg/L) nitrate concentration</td><td>0.43 ± 0.13</td><td>0.27 ± 0.33</td><td>0.31 ± 0.45</td></tr><tr><td>温度/℃ temperature</td><td>27.4 ± 1.1</td><td>27.6 ± 1.1</td><td>27.5 ± 1.1</td></tr><tr><td>溶解氧/(mg/L) dissolved oxygen</td><td>5.63 ± 0.16 b</td><td>5.34 ± 0.20 a</td><td>5.34 ± 0.12 a</td></tr><tr><td>pH</td><td>8.13 ± 0.09 b</td><td>8.00 ± 0.11 a</td><td>8.05 ± 0.09 a</td></tr><tr><td>盐度/%o salinity</td><td>17.81 ± 0.35</td><td>17.94 ± 0.45</td><td>18.22 ± 0.59</td></tr><tr><td>碱度/(mg/L CaCO3) alkalinity</td><td>128.3 ± 18.9</td><td>122.8 ± 17.1</td><td>136.4 ± 29.7</td></tr><tr><td>硬度/(mg/L CaCO3) hardness</td><td>143.2 ± 15.0</td><td>137.7 ± 14.8</td><td>149.5 ± 28.3</td></tr></table></body></html>
+
+注：‘数据进行lg转换后采用Kruskal-WallisTest进行非参数检验 note: \$ means Kruskal-Wallis test of data after logarithmic transformatio
+
+# 2.5水体氮转化作用影响因素
+
+在所有模拟养殖水体中，氮转化作用均主要体现在氨氮浓度的升高（表3）。因此，以氨氮浓度（tan）作为因变量，以菌株的抑菌（大肠杆菌、爱德华氏菌、嗜水气单胞菌、金色葡萄球菌）活性、水解酶（蛋白酶、淀粉酶、纤维素酶）活性和生长能力，以及接种量，试验阶段，各试验阶段起始总菌量、总菌增量、氨氮增量、总氮含量、亚硝酸氮浓度、硝酸氮浓度、温度、溶解氧、pH、盐度、碱度和硬度等22个参数为自变量，进行通径分析，即多元回归分析和效应剖分。回归分析结果显示，模型达到极显著水平（ $R ^ { 2 } = 0 . 9 8 8$ ， $P < 0 . 0 0 1$ ），淀粉酶活性（amy）、纤维素酶活性（cel）、生长能力（gro）、起始总菌量（cfu）、试验阶段（time）、总菌增量（dcfu）和氨氮增量（dtan）等7个变量纳入模型（表4），其中amy、cel和gro的直接作用（标准化回归系数和通径系数）不显著（ $( P > 0 . 0 5 ) ,$ ），但是存在共线性现象（表4）[25]，间接作用较大（表6）。cfu、time和dtan具有极显著的正直接作用（ $( P < 0 . 0 1 )$ ，同时cel、gro、dcfu、dtan通过cfu的间接作用也较大。dcfu的直接作用为负（ $\cdot P < 0 . 0 1$ ），cfu、dcfu、dtan通过time的间接效应也为负（表4和表6）。
+
+# 3讨论
+
+# 3.1菌株NT9与菌株YB3活性比较
+
+芽孢杆菌具有多种生理功能，如分泌蛋白酶、淀粉酶、脂肪酶、纤维素酶等多种酶类，能够提高养殖动物的消化机能，促进其对营养物质的吸收，同时降解养殖水体中的有机物质，加快残饵的降解，减少富营养元素的积累，促进水环境生态良性循环，具有较大的应用价值[10]。菌株NT9 经鉴定属于枯草芽孢杆菌（图1），具有较强的蛋白酶、淀粉酶活性以及抑菌活性（表1和表2）。菌株YB3为蜡样芽孢杆菌[21]，但是蛋白酶和淀粉酶活性较弱，而纤维素酶活性较强（表1）。原始生活环境对菌株的生物特性影响非常大，不同的自然生态环境支持不同的优势菌种[26]。菌株NT9从腊八豆中分离得到，这种发酵食品含有丰富的大豆蛋白、淀粉等物质,有利于蛋白酶和淀粉酶活性强的菌株的生长[27-28],而菌株YB3分离自养殖水体，营养水平较低，酶的诱导分泌作用可能相对较弱。这可能使菌株NT9对新环境的适应速度较快，而对低营养环境的适应能力较差，例如在1:99 稀释度LB培养液中，较强的水解酶活性（表2）使菌株NT9在利用营养物质上占有优势，静止期持续的时间较短，但是生长较差（图3）。 $4 8 - 9 6 \mathrm { ~ h ~ }$ 期间菌株YB3的 $O D _ { 6 0 0 }$ 迅速下降（图3），可能是前期的迅速生长消耗了大量营养物质，导致后期营养严重不足，生长下降。在低浓度NH4C1培养液中也具有相似的生长结果，菌株NT9的 $O D _ { 6 0 0 }$ 峰值为0.037（图1)，明显低于菌株YB3在的0.100[21]。在这个过程中，培养液氨氮浓度持续下降，但未见亚硝酸氮和硝酸氮生成（图1），说明菌株NT9通过同化作用转化氨氮，而不具有硝化、亚硝化的功能[29]，这与菌株YB3 的情况一致[21]。
+
+Table 4Multiple regression analysis for nitrogen conversion   
+
+<html><body><table><tr><td>变量 variables</td><td>回归系数 regression coefficients</td><td>标准化回归系数 standardized coefficients</td><td>显著性 significance</td><td>共线性方差膨胀因子 variance inflation factor of collinearity</td></tr><tr><td>常数 Constant</td><td>-28.178</td><td></td><td><0.001</td><td></td></tr><tr><td>amy</td><td>0.192</td><td>0.048</td><td>0.481</td><td>7.203</td></tr><tr><td>cel</td><td>-0.030</td><td>-0.025</td><td>0.816</td><td>17.625</td></tr><tr><td>gro</td><td>-10.123</td><td>-0.087</td><td>0.367</td><td>14.459</td></tr><tr><td>cfu</td><td>4.868</td><td>0.550</td><td><0.001 < 0.001</td><td>6.792</td></tr><tr><td>time dcfu</td><td>0.556 -2.467</td><td>0.990 -0.112</td><td>0.001</td><td>1.239 1.372</td></tr><tr><td>dtan</td><td>0.483</td><td>0.161</td><td><0.001</td><td>1.119</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+注：amy，淀粉酶活性；cel，纤维素酶活性；gro，生长能力；cfu，起始总菌量；time，试验阶段；dcfu, 总菌增量；dtan，氨氮增量。下同 note: amy,amylase activity；cel,cellulase activity; gro,growth ability;cfu,initial total bacterial count; time, experimental stage；dcfu,increment oftotal bacterialcount; dtan,increment oftotal ammonia nitrogen.The same below
+
+表4氮转化多元回归分析  
+表5变量间相关系数  
+Table 5 Correlations among variables   
+
+<html><body><table><tr><td></td><td>tan</td><td>amy</td><td>cel</td><td>gro</td><td>cfu</td><td>time</td><td>dcfu</td></tr><tr><td>amy</td><td>-0.316*</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>cel</td><td>0.325*</td><td>-0.922**</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>gro</td><td>0.327*</td><td>-0.892**</td><td>0.960**</td><td></td><td></td><td></td><td></td></tr><tr><td>cfu</td><td>0.223</td><td>-0.859**</td><td>0.882**</td><td>0.889**</td><td></td><td></td><td></td></tr><tr><td>time</td><td>0.897**</td><td>0</td><td>0</td><td>0</td><td>-0.177</td><td></td><td></td></tr><tr><td>dcfu</td><td>-0.123</td><td>-0.349*</td><td>0.358*</td><td>0.361*</td><td>0.459*</td><td>-0.256*</td><td></td></tr><tr><td>dtan</td><td>0.092</td><td>-0.192</td><td>0.198</td><td>0.199</td><td>0.250</td><td>-0.145</td><td>0.291</td></tr></table></body></html>
+
+表6氮转化作用影响因子效应分析
+
+Table 6 Path analysis and effects division for nitrogen conversion   
+
+<html><body><table><tr><td rowspan="2">变量 variables</td><td rowspan="2">总效应a total effects</td><td rowspan="2">直接作用b direct effects</td><td colspan="8">间接作用 indirect effects</td></tr><tr><td>总计</td><td>amy</td><td>cel</td><td>gro</td><td>cfu</td><td>time</td><td>dcfu</td><td>dtan</td></tr><tr><td></td><td>-0.316*</td><td>0.048</td><td>total -0.364</td><td></td><td>0.023</td><td>0.078</td><td>-0.472</td><td>0</td><td>0.039</td><td>-0.031</td></tr><tr><td>amy cel</td><td>0.325*</td><td>-0.025</td><td>0.349</td><td>-0.044</td><td></td><td>-0.084</td><td>0.485</td><td>0</td><td>-0.040</td><td>0.032</td></tr><tr><td></td><td>0.327*</td><td>-0.087</td><td>0.414</td><td>-0.043</td><td>-0.024</td><td></td><td>0.489</td><td>0</td><td>-0.040</td><td>0.032</td></tr><tr><td>gro cfu</td><td>0.223</td><td>0.550**</td><td>-0.327</td><td>-0.041</td><td>-0.022</td><td>-0.077</td><td></td><td>-0.175</td><td>-0.051</td><td>0.040</td></tr><tr><td>time</td><td>0.897**</td><td>0.990**</td><td>-0.092</td><td>0</td><td>0</td><td>0</td><td>-0.097</td><td></td><td>0.029</td><td>-0.023</td></tr><tr><td>dcfu</td><td>-0.123</td><td>-0.112**</td><td>-0.011</td><td>-0.017</td><td>-0.009</td><td>-0.031</td><td>0.252</td><td>-0.253</td><td></td><td>0.047</td></tr><tr><td>dtan</td><td>0.092</td><td>0.161**</td><td>-0.070</td><td>-0.009</td><td>-0.005</td><td>-0.017</td><td>0.138</td><td>-0.144</td><td>-0.033</td><td></td></tr></table></body></html>
+
+注：‘亦即相关系数；b亦即标准化回归系数或通径系数 note:ä same as correlations;b same as standardized coefficients or path coefficents
+
+# 3.2 养殖条件下芽孢杆菌的有机氮降解作用及影响因素
+
+模拟养殖过程中，对照水体和2种试验水体的温度、溶解氧、 $\mathfrak { p H }$ 、盐度、亚硝酸氮、硝酸氮、碱度和硬度等（表3）均在凡纳滨对虾生长的适宜范围之内[30]。但是，3种水体均累积了非常高的氨氮。其中，NT9水体平均氨氮浓度显著高于对照水体（ $\cdot P < 0 . 0 5$ ，表3），由于养殖水体中的氨氮主要来自于残饵、粪便等有机氮的降解，即微生物的氨化作用[31]，上述结果表明菌株NT9能够加快养殖水体饲料蛋白等有机氮的降解。有机氮的降解与微生物分泌的酶具有一定的关系[15]，菌株NT9也具有较强的蛋白酶和淀粉酶活性（表1）。除此之外，芽孢杆菌的有机氮降解能力还与水体中微生物的生长活动有关，生长越好，降解效率越高[33]。例如，YB3水体累积的氨氮浓度显著高于NT9水体（ $( P < 0 . 0 5$ ，表3），意味着有机氮降解活动更强烈，虽然菌株YB3的水解酶活性较低（表1），但是生长能力较强。李木明[22]和闫法军等[32]均有类似的发现，有机氮降解率最高的芽孢杆菌，水解酶活力并不很高。通径分析结果也显示蛋白酶活性对氨氮的影响较小，未纳入分析模型，淀粉酶和纤维素酶活性的直接作用也都不显著 （ $\cdot P > 0 . 0 5$ ，表4和表6)，而水体总菌量（cfu）对水体氨氮浓度却具有极显著的正直接作用 $( P < 0 . 0 1$ ，表6)。本次研究模拟养殖生产过程，水体营养水平较低，而菌株YB3 适应能力更强（图3)，因而有机氮降解活动也更强烈，氨氮累积浓度较高（表3）。另外，总菌增量（dcfu）通过总菌量 $( c f u )$ 也对有机氮降解具有较大的促进作用（0.252，表6)，与黄海洪等[17]的前期研究结果一致，认为微生物数量对有机氮降解的作用可以剖分为基数效应和增量效应。此外，试验阶段（time）和氨氮增量（dtan）的直接作用也均极显著（ $\cdot P < 0 . 0 1$ ，表6)，表明氨氮转化作用较弱，因为两者所代表的都是氨氮的累积效应。菌株的纤维素酶活性（cel）和生长能力（gro）也有利于有机氮的降解，两者通过水体总菌量（cfu）的间接作用均比较大（表6)，可能与cfu极显著的正相关关系（ $\cdot P < 0 . 0 1$ ，表5）有关。另外，相关分析结果显示，菌株的抑菌活性与水体总菌量（cfu）具有负的相关关系！ $( r = - 0 . 8 9 9 \sim - 0 . 9 0 1$ ， $P$ $< 0 . 0 0 1$ ，数据未显示)，因此菌株NT9 的抑菌活性（表2）可能抑制变形菌、拟杆菌等其它有机物降解菌的生长活动[34-35]，进而影响有机氮的降解。
+
+# 3.3 养殖条件下影响芽孢杆菌氨氮转化作用的因素
+
+菌株NT9（图2）和菌株YB3[211均具有一定的氨氮转化能力，但是模拟养殖水体氨氮转化效果并不明显，仍然积累了较多的氨氮 $( 5 . 2 0 { - } 1 1 . 6 9 \mathrm { m g { \cdot } L ^ { - 1 } }$ ，表3)，远高于凡纳滨对虾的安全浓度（ $\cdot 2 . 4 4 \ \mathrm { m g { \cdot } L ^ { - 1 } }$ ）[]。通径分析显示，水体总菌增量（dcfu）对水体氨氮浓度具有极显著的负的直接作用（ $\cdot P < 0 . 0 1$ ，表6），表明微生物的生长增殖有助于水体氨氮的转化，这与前期研究结果一致。前期研究的回归模型中，总菌增量对水体氨氮并不具有转化作用[17]，可能是因为回归模型纳入的参数较少，总菌增量（dcfu）综合了其它因素的效应[25]。这也说明多元回归方法在多因素分析中可能还不够合理，而通径分析进行效应剖分，可以更合理地分析各因素的作用。水体C:N对微生物的生长影响非常大，当C:N达到15:1以上时，能够促进异养细菌的生长，进而促进氨氮的同化吸收，有效控制水体氨氮浓度[36-41]。在 $\mathrm { \Delta N H _ { 4 } C l }$ 培养基中,氯化铵和葡萄糖添加量分别为 $0 . 0 1 \% ( \nu / \nu )$ 和 $0 . 1 \% ( \nu / \nu )$ ,氮含量为 $2 6 . 2 \ \mathrm { m g { \cdot } L ^ { - 1 } }$ ，碳为 $4 0 0 \mathrm { { m g } { \cdot } \mathrm { { L } ^ { - 1 } } }$ $\mathrm { C : N = } 1 5 . 3 { : } 1$ ，因而菌株NT9能够有效转化氨氮，氨氮去除率达到 $89 . 3 \%$ （图2)。而在模拟养殖试验中，由于水体的碳源和氮源均主要来自于投入的饲料（粗蛋白 $40 \%$ ，粗脂肪 $5 . 0 \%$ ，粗纤维 $5 . 0 \%$ ，粗灰分 $1 5 \%$ ，水分 $12 \%$ ），C:N约为6:1[17]，碳源稍显不足，因而氨氮转化效果不明显。此外，菌株的纤维素酶活性 $( c e l )$ 和生长能力（gro）具有负直接作用，虽然不显著0 $\cdot P > 0 . 0 5$ ，表6），但也有助于氨氮的转化去除，主要是因为菌株的生长能力强，有利于微生物的生长适应，进而促进氨氮的同化吸收；纤维素酶可以提高纤维素的利用效率，而纤维素则能够作为益生元促进微生物的生长[42]，降低氨氮浓度[43]。另外，淀粉酶活性（amy）通过水体总菌量 $( c f u )$ 的间接作用也对氨氮浓度的升高具有较大的抑制效果（表6)，这与两者之间极显著的负相关关系（ $( P < 0 . 0 1$ ，表5）有关，但是两者负相关的原因还需要进一步研究。水体总菌量（cfu）和总菌增量（dcfu）通过试验阶段（time）对氨氮转化也具有较大的间接促进作用（表6），而两者的直接作用对氨氮的转化却是负的作用，表明养殖条件下微生物的氮转化作用比较复杂，并不是单一的促进或抑制作用。
+
+综上所述，芽孢杆菌 NT9 和 YB3均具有较强的有机氮降解功能和氨氮转化功能，但是在养殖水体中，仅能够促进有机氮的降解，而氨氮转化效果均不明显。通径分析显示，水体微生物的数量(cfu)有助于有机氮的降解（通径系数0.550, $\textstyle P < 0 . 0 0 1 { \dot { } }$ )，而微生物的增殖(dcfu)有利于氨氮的转化（通径系数-0.112， $P < 0 . 0 0 1 \$ )。因此，下一步需要根据这个特性，通过促进芽孢杆菌生长，对同步去除氨氮进行研究。
+
+# 参考文献：
+
+1」 Avmeiecn nOCHua M. iuation ItIUgel uplake aiu excIetiOll vy tllapia II vio IIoc taiks,uSiig $^ { 1 5 } \mathrm { N }$ tracing[J]． Aquaculture，2009,287(1):163-168.   
+[2]Piedrahita R H. Reducing the potential environmental impact of_tank aquaculture effluents through intensification and recirculation[J]. Aquaculture， 2003,226(1):35-44.   
+[3]Fungesmith S J， Mrp B. Nutrient budgets in intensive shrimp ponds:implications for sustainability[J]. Aquaculture，1998，164(1-4)：117-133.   
+[4]齐振雄，李德尚，张曼平，等．对虾养殖池塘氮磷收支的实验研究[J]．水产学报，1998，22(2)：124-128. Qi Z X,Li D S, Zhang MP,et al.Experimental studies on nitrogen and phosphorus budgets of shrimp culture pond[J]． Journal of Fisheries of China，1998,22(2):124-128 (in Chinese).   
+[5]Burford MA,Williams K C.The fate of nitrogenous waste from shrimp feeding[J].Aquaculture,2001，198(1): 79-93.   
+[6] Lin Y, Chen J. Acute toxicity of ammonia on Litopenaeus vannamei Boone juveniles at different salinity levels[J]． Journal of Experimental Marine Biology and Ecology，2001，259(1):109-119.   
+[7]FerreiraMGP,MeloFP,Lima JPV,etal. Bioremediation andbiocontrol of commercial probiotic in marine shrimp culture with biofloc[J]. Latin American Journal of Aquatic Research，2017,45(1):167-176.   
+[8]LuoG,Wang J,MaN，etal.Effectsof inoculated Bacillus subtilison geosminand 2-methylisoborneolremoval in suspended growth reactors using aquacultural waste for biofloc production[J]. Journal of Microbiology And Biotechnology，2016，26(8):1420-1427.   
+[9]Elsabagh M, Mohamed R,Moustafa E M,et al. Assessing the impact of Bacillus strains mixture probiotic on water quality，growth performance,blood profile and intestinal morphology of Nile tilapia,Oreochromis niloticus[J]． Aquaculture Nutrition，2018,24(6):1613-1622.   
+[10]Rafael Martinez-Cordova L， Martinez-Porchas M, Coelho Emerenciano M G，et al.From microbes to fish the next revolution in food production[J]． Critical Reviews in Biotechnology， 2017,37(3):287-295.   
+[11] Gao J,Gao D,Liu H,etal.Biopotentialityof high efficient aerobic denitrifier Bacillus megaterium S379 for intensive aquaculture water quality management[J]. Journal of Environmental Management,2018,222(9): 104-111.   
+[12]谢凤行，张峰峰，周可，等．一株解淀粉芽胞杆菌的分离鉴定及水质净化效果的研究［J]．环境科学学报，2012, 32(11): 2781-2788 (in Chinese). XieF X, ZhangFF,Zhou,K,et al. Identification of aBacillus amyloliquefaciens strain and its potential application in water purification[J]. Acta Scientiae Circumstantiae, 2012, 32(11): 2781-2788.   
+[13] Yang X P，Wang S M, Zhang DW，et al.Isolation and nitrogen removal characteristics of an aerobic heterotrophic nitrifying-denitrifying bacterium,Bacillus subtilisA1[J]. Bioresour Technol,2011,102(2): 854-862.   
+[14] Yu C H, Wang Y，Guo T，et al.Isolation and identificationof ammonia nitrogen degradation strains from industrial wastewater[J]. Engineering，2012，4: 790-793.   
+[15］周广静，张晓波，朱笔通，等．海洋着色菌 YL28 对含沉积物的海水养殖水体氮污染去除效应的研究［J]．生物资源， 2017(6): 441-447. Zhou GJ,Zhang X B, Zhu B T，et al. Effects of nitrogen removal in polluted mariculture water containing sediments by Marichramatium gracile YL28[J]. Biotic Resources， 2017(6):441-447 (in Chinese).   
+[16]邹万生，刘良国，张景来，等．固定化藻菌对去除珍珠蚌养殖废水氮磷的效果分析[J]．农业环境科学学报，2011, 30(4): 720-725. Zou W S,Liu LG, Zhang JL,et al. Analysis About Effect of Algae-bacteria Immobilized Treat Nitrogen and Phosphorus of Pearl Mussel Aquaculture Wastewater[J]. Journal of Agro-Environment Science，2011，30(4): 720-725 (in Chinese).   
+[17]黄海洪，陈倩，类延菊，等．低营养水体中芽孢杆菌降解有机氮的研究［J]．环境科学学报，2018, DOI:10.13671/j.hjkxxb.2018.0322. Huang HH,ChengQ,LeiY J，etal. Organic nitrogen removal of Bacillus strains in water body under low nutrition level[J].Acta Scientiae Circumstantiae，2018，DOI:10.13671/j.hjkxxb.2018.0322 (in Chinese).   
+[18] Kora H,Tsuchimoto M,Miyata K，etal.Estimationof body fat content from standard body length and body weight on cultured red sea bream[J].Fisheries Science，2000,66(2):365-371.   
+[19]薛宝宝，李浩，牛东红，等．不同月龄缢蛏新品种数量性状的相关与通径分析[J]．水产学报，2018，42(6)： AuC D D， UJ Sinonovacula constrictaat different months of age[J]. Journal ofFisheries of China,2018,42(6): 941-949 (in Chinese).   
+[20]黄建盛，陈刚，张健东，等．褐点石斑鱼不同月龄形态性状的主成分及通径分析[J]．水产学报，2017，41(07)： 1105-1115. Huang JS，Chen G, Zhang JD，et al. Principal component and path analysis of morphological traits of Epinephelus fuscoguttatus at different month ages[J]. Journal of Fisheries of China,2017,41(7):105-115 (in Chinese).   
+[21］黄海洪，贺莉，类延菊，等．一株芽孢杆菌在低氮源浓度培养基中的生长与氨氮去除特性［J]．环境科学学报，2018, 38(1): 183-192. Huang HH, He L,Lei Y J,etal. Characterization of growth and ammonia removal of a Bacillus strain under low nitrogen source condition[J]. Acta Scientiae Circumstantiae，2018,38(1):183-192 (in Chinese).   
+[22］ 李木明．降解有机质芽胞杆菌的筛选及其净化模拟污染水体的特性[D]．厦门：华侨大学，2016. Li MM. Screening of organic pollutant-degrading bacillus and its clean characterization[D]. Xiamen: Huaqiao University，2016 (in Chinese).   
+[23]国家环境保护总局．水和废水监测分析方法（第四版）[M]．北京：中国环境出版社，2002：258-285. Chinese NEPA，2012. Water and wastewater monitoring methods[M]． Beijing, Chinese Environmental Science Publishing House，2002: 258-285 (in Chinese).   
+[24]杜家菊，陈志伟．使用 SPSS 线性回归实现通径分析的方法[J]．生物学通报，2010，45(2)：4-6. Du J J and Chen Z W.Path analysis using linear regression in SPSS[J]. Bulletin of Biology， 2010,45(2): 4-6 (in Chinese).   
+[25]万崇华，罗家洪．高级医学统计学[M]．北京：科学出版社，2014：45-47. Wan C Hand Luo JH. Advanced medical statistics[M].Beijing: China Science Publishing，2014: 45-47 (in Chinese).   
+[26］康鹏亮，张海涵，黄廷林，等．湖库沉积物好氧反硝化菌群脱氮特性及种群结构[J]．环境科学，2018， $3 9 ( 5 ) : 1 \AA ^ { - 1 0 }$ Kang PL,Zhang HH, Huang TL，et al. Denitrification characteristics and community structure of aerobic denitrifiers from lake and reservoir sediments[J]. Environmental Science，2018, $9 ( 5 ) : 1 - 1 0$ (in Chinese).   
+[27] Anand P S S, Kohli MP S, Kumar S,etal. Effect of dietary supplementation of biofloc on growth performance and digestive enzyme activities in Penaeus monodon[J]． Aquaculture， 2014，418(1):108-115.   
+[28]CrabR, Chielens B,Wille M,etal. The effectof different carbon sources on the nutritional valueof bioflocs, a feed for Macrobrachium rosenbergii postlarvae[J]. Aquaculture Research， 2010，41(4):559-567.   
+[29]Ebeling JM, Timmons MB,Bisogni JJ.Engineering analysis of the stoichiometryof photoautotrophic, autotrophic,and heterotrophic removal of ammonia-nitrogen in aquaculture systems［J].Aquaculture,2006, 257(1-4): 346-358.   
+[30] VanWyk P,Davishodgkins M, Laramore R,et al.Farming marine shrimp in recirculating freshwater systems[M]. Tallahassee:Florida department of agriculture and consumer services，1999:1-220.   
+[31] Crab R,Avnimelech Y，Defoirdt T，et al. Nitrogen removal techniques in aquaculture for a sustainable production[J]． Aquaculture，2007，270(1)：1-14.   
+[32] 闫法军，田相利，董双林，等．刺参养殖池塘降解有机污染物常、低温芽孢杆菌的分离筛选[J]．中国海洋大学学报 （自然科学版)自然科学版，2013，43(6)：17-24. YanF J,Tian XL,Dong SL,etal.Isolation and selection of normal and low temperature bacillus degrading organic pollutants in sea cucumber culturing ponds[J].Periodical of Ocean Universityof China,2013,43(6): 17-24 (in Chinese).   
+[33]张庆华，封永辉，王娟，等．地衣芽孢杆菌对养殖水体氨氮、残饵降解特性研究[J]．水生生物学报，2011，35(3)： 498-503. Zhang Q H, FengYH, Wang J，et al. Study on the characteristics of the ammonia-nitrogen and residual feeds degradation in aquatic water by Bacillus licheniformis[J].Acta Hydrobiologica Sinica,2011,35(3):498-503 (in Chinese).   
+[34] Cardona E,Gueguen Y，Magre K，et al.Bacterial community characterization of water and intestine of the shrimpLitopenaeusstylirostrisina bioflocsystem[J].BMCMicrobiology，2016，16:D0I 10.1186/s12866-016-0770-z   
+[35］于永翔，姜燕，张正，等．添加外源益生菌对大菱鲆育苗生物饵料菌群结构的影响[J]．水产学报，2017，41(4)： 602-612. Yu Y X,Jiang Y, Zhang Z,et al. The microflora changes of rotifer and artemia with probiotics addition in Scophthalmus maximus larva breeding[J].Journal ofFisheries of China,2017,41(4):602-612(in Chinese).   
+[36] Avimelech Y. Carbon/nitrogen ratio as a control element in aquaculture systems[J]. Aquaculture，1999, 176(3): 227-235.   
+[37]卢炳国，王海英，谢骏，等．不同 C/N 水平对草鱼池生物絮团的形成及其水质的影响[J]．水产学报，2013(8)： 1220-1228. Lu B G,Wang HY,Xie J，et al. Effect ofC/N ratio on bioflocs formation and water quality in zero-water exchange grass crap tanks[J]． Journal of Fisheries of China, 2013(8):1220-1228 (in Chinese).   
+[38] Zheng X, Zhang D,Qin J，et al. The effect of $\mathrm { C } / \mathrm { N }$ ratio on bacterial community and water quality in a mussel - fish integrated system[J]. Aquaculture Research，2018,49(4):1699-1708.   
+[39] Wang G,Yu E, Xie J，et al. Effect of $\mathrm { C } / \mathrm { N }$ ratio on water quality in zero-water exchange tanks and the biofloc supplementation in feed on the growth performance of crucian carp, Carassius auratus[J].Aquaculture,2015, 443(6):98-104.   
+[40] Xu W J，Morris TC，Samocha TM.Effects of two commercial feeds for semi-intensiveand hyper-intensive cultureand four C/Nratios on water qualityand performanceof Litopenaeus vannamei juvenilesat high density in biofloc-based， zero-exchange outdoor tanks[J]. Aquaculture，2018(3)，490:194-202.   
+[41] Xu W J，Morris TC,Samocha T M. Effects of $\mathrm { C } / \mathrm { N }$ ratio on biofloc development，water quality，and performance of Litopenaeus vannamei juveniles inabiofloc-based,high-density，zero-exchange,outdoor tank system[J]. Aquaculture，2016，453(2)：169-175.   
+[42] Qin Y,Hou J, Deng M,etal.Bacterial abundanceanddiversity in pond water suppliedwithdifferent feds[J]. Scientific Reports，2016，6:35232.   
+[43]Deng M,Chen J，Hou J，etal.The effectof diferent carbon sources on water quality，microbial community and structure of biofloc systems[J]． Aquaculture，2018，482(1):103-110.
+
+(通讯作者：黄海洪E-mail:shinkanh@nwafu.euc.cn；李朝云 E-mail:cyzyli@163.com)
+
+# 作者贡献声明：
+
+黄海洪，李朝云：提出研究思路，设计研究方案，分析数据，论文起草；  
+类延菊，邹万生：实验，采样，测定；  
+杨品红：论文最终版本修订。

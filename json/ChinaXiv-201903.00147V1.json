@@ -1,0 +1,394 @@
+[
+    {
+        "type": "text",
+        "text": "格尔木河流域地下水生态功能及经济损益阈值解析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄金廷，崔旭东，王冬，刘文辉'， 刘向敏²，袁立，马日新4，魏超",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1中国地质调查局西安地质调查中心,陕西西安710054；2中国国土资源经济研究院,北京101149;3中陕核工业集团二一一大队有限公司,陕西 西安 710024；4 西安科技大学,陕西西安 710054)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为保护西北地区地下水资源和脆弱的生态环境，亟待开展地下水合理开发利用研究。在分析格尔木河流域水文地质条件、环境地质问题基础上，采用遥感解译、野外调查和地下水动态监测的方法，界定了地下水的生态功能及阈值，即维系植被生态地下水埋深为 $0 . 5 \\sim 1 0 \\mathrm { ~ m ~ } ,$ 减轻盐渍化程度的地下水埋深应大于 $3 \\mathrm { ~ m ~ }$ 、减轻城市内涝的地下库容应大于 $3 . 4 2 \\times 1 0 ^ { 8 } \\ \\mathrm { m } ^ { 3 }$ 、维系达布逊湖面积的入湖流量应大于 $2 . 8 2 \\times 1 0 ^ { 8 } \\ \\mathrm { m } ^ { 3 } \\cdot \\mathrm { a } ^ { - 1 }$ 。基于格尔木河流域生态系统服务价值构成，得到减轻城市内涝及减缓盐渍化程度的环境正效益值分别为 $8 ~ 0 0 0 \\times 1 0 ^ { 4 }$ 元· $\\mathrm { k m } ^ { - 2 }$ 和 $1 6 3 \\times 1 0 ^ { 4 }$ 元· $\\mathrm { k m } ^ { - 2 }$ ；地下水的不合理开发利用导致植被退化、河湖面积萎缩的环境负效益值分别为191元· $\\mathrm { k m } ^ { - 2 }$ 和1032元· $\\mathrm { k m } ^ { - 2 }$ 。研究成果可为流域内地下水资源开发利用和生态环境保护提供科学依据，同时也可为西北其他内陆河流域地下水合理开发利用提供借鉴依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键 词：地下水生态功能；环境损益；格尔木河流域文章编号： 1000 -6060(2019)02-0263-08(0263\\~0270)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "地下水是重要矿产资源，兼具资源、生态和社会属性。西北干旱内陆盆地地下水是区内人类生存、社会经济发展和维系生态功能的重要来源，有时甚至是唯一来源。西北内陆干旱盆地水资源的形成、演化和分布规律，甚至开发利用方式及其存在的生态环境地质问题都具有很大的相似性[1]。西北地区水资源开发利用有着悠久的历史，早在秦汉时代就已经修渠灌溉，新疆古老而且独特的坎儿井引用地下水，对人民生活和农业发展起了重要作用。1949年以来特别是20世纪70、80年代城市带供水发展迅速。农业大规模凿井开采地下水，并大力进行农田水利建设，80年代以后同时发展了农田灌溉节水措施，在80 年代新疆、甘肃、青海开采地下水$6 0 . 1 9 \\times 1 0 ^ { 8 } \\mathrm { ~ m } ^ { 3 }$ ,比 70 年代增长了 $7 6 . 4 \\%$ 。1999年开采地下水 $8 2 . 9 7 \\times 1 0 ^ { 8 } \\ \\mathrm { m } ^ { 3 }$ ,比80 年代增长了37.8$\\%$ ,其中青海增长最多,80 年代较70 年代增长了$1 7 6 . 8 \\%$ ,1999 年较80 年代增长了 $1 0 5 . 3 \\%$ [2]。随着人类工程活动日益加剧及不合理的水资源利用方式，如上游修建水库、引水灌溉河道硬化，中游灌区水资源效率利用低下，下游过度开发利用承压水，导致地下水水位持续下降、土壤次生盐渍化、绿洲萎缩、土地荒漠化等生态环境恶化问题凸显[」，破坏了地下水的生态环境功能，产生了环境风险。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "格尔木河流域地处我国西北柴达木盆地，流域面积约 $4 ~ 5 6 5 ~ \\mathrm { k m } ^ { 2 }$ ,是西北内陆河流域典型的大型冲洪积扇。流域内的达布逊盐湖蕴藏有丰富的 $\\mathrm { { N a C l } }$ 、$\\operatorname { K C l } , \\mathrm { M g C l } _ { 2 }$ 等无机盐,为中国矿业基地之一。同时，区内建设有国家级的经济循环区，对支撑青海省地方和国家经济发展具有十分重要地位。根据以往水文地质勘查研究表明，流域内多年平均地下水资源量 $1 8 2 . 7 6 \\times 1 0 ^ { 4 } ~ \\mathrm { m } ^ { 3 } \\cdot \\mathrm { d } ^ { - 1 }$ ,目前大型水源地开发利用量 $2 3 . 4 \\times 1 0 ^ { 4 } \\mathrm { m } ^ { 3 } \\cdot \\mathrm { d } ^ { - 1 }$ ,开发利用率为 $1 2 . 7 4 \\%$ 。随着社会经济发展，对水资源量的需求越来越大，据格尔木《格尔木市城市总体规划（2013—2030）》，到",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2020 年规划开采量 $4 1 \\times 1 0 ^ { 4 } ~ \\mathrm { m } ^ { 3 } ~ \\cdot ~ \\mathrm { d } ^ { - 1 }$ ,2030 年规划开采 $6 6 \\times 1 0 ^ { 4 } ~ \\mathrm { m } ^ { 3 } ~ \\cdot ~ \\mathrm { d } ^ { - 1 }$ 。水源地过度开采导致区域水位下降进而产生影响环境的风险，如植被死亡、河湖湿地生态功能退化、荒漠化等地下水生态功能退化。由此，从保护地下水和保护地下水生态功能角度，需要明晰流域的地下水生态功能并界定其阈值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为实现水源开采环境风险最小化，需要对水源地开发利用开展综合评价。以往对水源地的评价多侧重于水量水质是否满足用水对象需求，对地下水开发诱发的生态环境问题略有涉及但技术方法还不完善。同时，很少涉及以资源开发综合效益最大化为原则的经济评价。技术经济学于20世纪60年代引入中国，为建设项目可行性研究提供了理论基础。技术经济评价中的经济费用效益分析考虑到市场失灵的存在，按合理配置资源的原则，从项目对社会经济所作贡献以及项目的社会代价角度考察项目的经济合理性，常用经济净现值、经济内部收益率来体现项目产生的经济效果[4]。随着绿色经济发展理念的增强,从绿色经济角度审视项目开发的成本效益，成本结构由外部性向内部性转变，效益结构也由单一效益向整体效益转变[5],这与经济费用效益分析的思路相一致,更加重视环境损益的核算。当前矿山地质环境代价核算研究正在不断推进[，能为矿山环境治理恢复基金的制定提供参考依据，而对地下水源地开发引发的环境损益核算还鲜有研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此，开展地下水生态功能及经济损益研究，无论是在科学研究还是支撑国家经济发展、生态文明建设等诸多方面都具有重要的理论和现实意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1格尔木冲洪积扇水文地质及水源地 特征 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 含水层(介质)特征 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "格尔木冲洪积扇含水层从山前到平原区可划分为两大含水系统，一是山前冲洪积扇砂卵砾石潜水含水系统，分布于山前地带，富水性较好，水位埋藏较深，为单一潜水含水层，厚度较大，地下水交替强烈；二是平原区冲湖积细粒多层含水层系统，分布于扇前缘区一尾闾湖，富水性从上到下逐渐变弱，水位埋藏较浅，上部为浅层潜水含水层，下部为含水层和隔水层交替成层的多层承压含水层，地下水越往深部交替愈来愈弱。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 地下水循环特征",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从冲洪积扇后缘到尾闾湖，基于Toth区域地下水流系统理论，将地下水流系统划分为三个级次：局部地下水流循环系统、中间地下水流循环系统和区域地下水流循环系统[7]。局部地下水流循环系统主要分布在山前戈壁砾石带与细土平原之间，发育深度从几十米到几百米不等，地下水循环周期短，水力性质为潜水，循环量占总资源量的 $6 0 \\%$ 左右。中间地下水流循环系统从山前开始，至细土平原前端逐渐消亡，发育深度从 $1 0 0 \\sim 4 0 0 \\mathrm { ~ m ~ }$ 不等，地下水循环较前者要弱，水力性质多为半承压一承压水，循环量占总资源量的 $30 \\%$ 左右。区域地下水流循环系统在整个垂向二维的剖面最底层，发育深度从$1 0 0 \\mathrm { ~ m ~ }$ 左右直至沉积盆地底界,地下水循环极其微弱，水力性质为深层承压水，循环量仅占总资源量的$10 \\%$ 左右。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "西北内陆冲洪积扇地下水普遍在山前接受河水的大量渗漏补给，向扇前缘区一尾闾湖径流，在径流途中，浅埋区蒸发、人工开采和向河(湖)水溢出为其主要排泄方式。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 水化学特征",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在山前冲洪积扇，地下水交替强烈，水化学类型较为单一，普遍为重碳酸型,水质较好，为淡水，地下水年龄在50a左右;至细土平原的冲湖积、湖积区，地下水交替变缓，水化学类型复杂，从重碳酸氯化物硫酸型向氯化物硫酸型演化，地下水年龄在3000a以上，越往深部和排泄区前缘，地下水年龄愈长，最长可达上万年以上。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4水源地基本特征",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4.1冲洪积扇型水源地位置水源地基本集中分布在冲洪积扇前缘区。原因是冲洪积扇中前缘的地下水埋藏较浅、易于开发利用;含水层厚度大、含水介质颗粒粗、地下水资源丰富、水质优良。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4.2水源开发利用现状格尔木河流域地下水的开采多以管井井组集中开采方式(水源地)开采，井间距 $5 \\mathrm { ~ m ~ }$ 左右,井组间距 $1 5 0 \\sim 2 0 0 \\mathrm { ~ m ~ }$ ,管井直径$3 5 \\sim 4 0 ~ \\mathrm { c m }$ ,开采深度在 $8 0 \\sim 1 2 0 \\mathrm { ~ m ~ }$ 不等，供水方向为生活饮用和工业生产。另外，有少部分的人畜饮水工程、自备生活生产井和农灌井零星开采。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4.3生态环境地质问题在西北内陆冲洪积扇型水源地，因水源地开采引起水动力场和水化学场改变，诱发的环境地质问题主要有：地下水水质恶化和生态环境退化等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）水质恶化：水源地过度开采改变了原有的地下水动力场、化学场平衡，导致地下水中矿化度、总硬度、氯化物、硫酸盐含量升高，水质恶化。目前，格尔木市已建成5座集中供水水源地，均位于市区以南，处于地下水流向的上游方向;其中格尔木一期水源地、炼油厂水源地、燃气电站水源地位于格尔木河东岸，格尔木二期水源地、青钾水源地位于格尔木河西岸。目前，除格尔木一期水源地的水质发生了咸化，现主要用于工业用水，其余水源地的地下水水质均处于良好状态。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）下游地下水水位下降，植被退化，土地沙化：上游水源地和分散开采井的过度开采，导致向下游的排泄量大幅度减少，造成下游地下水水位下降（或者泉水流量减少乃至干涸、河道基流量锐减），地下水浅埋区依赖于地下水生存的植被发生退化，土地沙化，尾闾湖泊萎缩干涸。目前格尔木河流域地下水水源地开发利用程度较低，尚未引起明显的区域地下水水位下降、河道基流减少、植被退化等问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3）地下水水位上升，城市内涝：格尔木市2012年遭遇特大洪水，导致城市内涝，造成直接经济损失 $8 ~ 0 0 0 \\times 1 0 ^ { 4 }$ 元。利用2008—2012 年河水流量、监测孔动态数据，分析连丰年、特大洪水对地下水环境影响，发现特丰、连丰年引起水位升幅4.32m,地下水库容应大于 $3 . 4 2 \\times 1 0 ^ { 8 } \\ \\mathrm { m } ^ { 3 }$ 。由格尔木市区地下水位变化趋势曲线分析，格尔木市区临界水位为 $2 \\ 8 0 5 . 5 \\ \\mathrm { m }$ （图1）。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/126dd6234a2a3d2b4bd271c31bf3fd998180f4413ce37ba58c376aeba178a4ed.jpg",
+        "img_caption": [
+            "图1格尔木河2008—2012 洪水导致的水位上升幅度"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Groundwater level increased range caused by Golmud River flood from 2OO8 to 2012 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2地下水的生态功能",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "干旱半干旱地区地下水具有重要的生态价值，主要体现在维持河流基流量与湖泊的水域和湿地面积，提供地表植被生理需水，调节土壤含水量与含盐量，维持地质环境的稳定性等方面。根据干旱半干旱地下水循环规律以及与表生生态环境之间的关系，地下水的生态价值可定义为：地下水在参与自然界水循环过程中与周围的环境进行物质和能量交换，对生态系统生命周期及地质环境安全的维持能力和对生态环境修复与改善的支持力[8]。不合理的地下水开发活动会导致地下水生态功能的丧失，引发植被退化、生物多样性消失、荒漠化、盐渍化、河川基流衰减、河湖湿地萎缩甚至消亡等重大生态安全问题。由此,开展水源地的技术与经济综合评价，首要是查明地下水具有哪些生态功能，分析其形成的机理，进而确定生态安全阈值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1519f7d7667da8739690fcbb9e46d83521d9a1cc8020332390b4f3f2fa38b328.jpg",
+        "img_caption": [
+            "图2格尔木河流域土地类型图",
+            "Fig.2Land types map of the Golmud River Catchment "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1 维系植被生存 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "格尔木河流域土地类型包括盐池、河流湖泊、裸地、建筑用地、自然植被及耕地林地六类（图2），面积分别为 $3 8 0 . \\ 8 \\ \\mathrm { \\ k m } ^ { 2 } \\setminus 1 8 . \\ 5 \\ \\mathrm { \\ k m } ^ { 2 } \\setminus 3 \\ 6 3 8 . \\ 3 \\ \\mathrm { \\ k m } ^ { 2 } \\setminus$ $5 9 . 1 \\ \\mathrm { k m } ^ { 2 } \\ . 4 2 0 . 4 \\ \\mathrm { k m } ^ { 2 }$ 和 $4 7 . 6 \\ \\mathrm { k m } ^ { 2 }$ 。天然植被主要为荒漠植被，发育于研究区中南部，以条带状分布发育于格尔木市东西两侧，为依赖地下水植被区。统计依赖地下水的植被区发现，当地下水埋深小于10m时,植被指数（NDVI）与地下水埋深有关系。在$0 \\sim 1 0 \\mathrm { ~ m ~ }$ 范围内，NDVI与地下水埋深关系呈偏态分布。在 $0 \\sim 3 \\mathrm { ~ m ~ }$ 范围内，NDVI与地下水埋深关系呈正态分布。最适宜植被生长的地下水埋深介于$0 . 5 \\sim 3 . 0 \\mathrm { ~ m ~ }$ 之间,依赖地下水植被最大埋深为 $1 0 \\mathrm { ~ m ~ }$ （图3）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2维系河川基流流量",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "格尔木河流域地下水对河川生态基流的贡献主要表现为维系泉集河的流量。20世纪90年代前，格尔木河地下水开采量与盐湖矿区采卤量都较小，开采量占补给量的比例不足 $5 \\%$ ，人类工程活动对天然循环影响不大。据统计，1983一1988年期间各泉集河泉水溢出量为 $8 . 0 2 ~ \\mathrm { m } ^ { 3 } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,加上未形成水流流入湖泊的部分（泉水溢出形成的沼泽湿地所消耗的泉水）,总溢出量约为 $1 0 . 0 2 \\mathrm { ~ m } ^ { 3 } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 。泉积河最终注入达布逊湖，因此，地下水对维系河川基流以维系湖泊水域面积确定。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3维系湖泊水域面积",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "格尔木河流域的达布逊湖为终端尾闾湖。野外现场调查发现，大规模的抽卤，使湖周边地下水埋深低于湖面约 $1 \\mathrm { ~ m ~ }$ ，使得湖水回补浅部地下水。通过遥感解译分析1987—2015年影像数据，达布逊湖在2002 年面积最小，为 $1 7 8 . 0 \\ \\mathrm { k m } ^ { 2 }$ ,最大湖域面积在 2011年，为 $4 5 2 . 6 ~ \\mathrm { k m } ^ { 2 }$ （图4）。湖区年均降水量不足 $4 0 \\ \\mathrm { m m } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ ,对维系湖泊贡献甚微,湖泊主要通过入湖河流维系，即湖泊面积的变化由入湖流量和蒸发控制。通过水均衡计算，同时考虑咸水蒸发与自然水面蒸发的关系[9]，计算得到维系2002年达布逊湖最低面积的入湖流量至少为 $2 . 8 1 \\times 1 0 ^ { 8 } \\mathrm { ~ m } ^ { 3 } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ ,本次评价以此为入达布逊湖的流量阈值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4调节土壤的含盐量",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于格尔木河流域采集的73个土壤易溶盐和颗粒分析样品，参考新疆灌区土壤盐渍化程度分级指标进行评价[10]。结果表明,流域内盐土面积为 $2 \\ 6 8 0 \\ \\mathrm { k m } ^ { 2 }$ ,重度盐渍化面积为 $1 9 9 \\ { \\mathrm { k m } } ^ { 2 }$ ,中度盐渍化面积为 $1 8 5 ~ \\mathrm { k m } ^ { 2 }$ ,轻度盐渍化面积为 $5 7 ~ \\mathrm { k m } ^ { 2 }$ ，非盐渍化面积为 $1 \\ 4 1 3 \\ \\mathrm { k m } ^ { 2 }$ （图5）。可见，流域内盐渍化面积所占比例较大。盐渍土的包气带岩性以粉土为主，地下水埋深超过 $3 \\mathrm { ~ m ~ }$ 时（极限蒸发深度），盐渍化程度较轻，以此为土壤盐渍化的控制水位埋深。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2 1 0.8 06 0.4 0.2 0 地下水位埋深／m ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/10bbf4f52aea1cf31559643eb195c06a0cfb81357bf4cbae0aec756a17d9a7a4.jpg",
+        "img_caption": [
+            "图3格尔木河流域归一化植被指数与地下水埋深关系图 Fig.3Relationship between vegetation index and groundwater depth in the Golmud River Catchment ",
+            "图4达布逊湖湖泊面积与蒸发量",
+            "Fig.4Surface area and evaporation of Dabuxun Lake "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0814a38b6880e1f29a22395c9180150363681d31b2c76c099da0daf18cad9afb.jpg",
+        "img_caption": [
+            "图5格尔木河流域土壤盐渍化程度分区图",
+            "Fig.5Zoning map of soil salinization in the Golmud River Catchment "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 环境损益及阈值",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文按照生态系统类型分类计算各生态系统的生态服务价值。该分类主要借助谢高地等（2003）提出的“中国生态系统生态服务价值当量因子表”进行计算[\"],即根据与地下水有关的生态系统,计算各生态系统提供的功能，如供给功能主要有食物生产、原料生产、水资源供给;调节功能主要有气体调节、气候调节、水文调节、净化环境;支持功能主要有土壤保持、维持养分循环、生物多样性；文化功能主要有美学景观。该方法主要缺陷是对生态系统类型、质量状况的时空差异缺乏考虑，估算结果不足以反映生态服务功能在时间和空间上的动态变化，优点是计算方法相对简单、直观。具体计算操作参照李有斌等(2006)计算民勤荒漠绿洲植被的生态服务功能价值评价方法[12]。本文通过生物量等因子的校正来评估格尔木河流域生态系统服务功能价值。经计算分析，格尔木河流域生态系统生态服务价值功能如表1所示，作为环境损益的经济评价基础。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据地下水生态功能分析，结合生态服务价值的构成，确定出格尔木流域的地下水生态功能阈值及经济损益如表2所示。其中，地下水开发减轻城市内涝和减缓盐渍化为环境的正效益，但破坏植被生态系统及减小河湖面积为负效益。另外，由于地下水的生态功能阈值涉及地下库容、地下水埋深和流量3项指标，后续利用该阈值进行评价时，应在地下水数值模拟的基础上，确定合理的开发利用方案。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/05ed269c5d390e7ba370151a0541c3ca8f9efa5d83691bd42471c9140988075a.jpg",
+        "table_caption": [
+            "表1格尔木河流域生态系统服务价值构成 $\\mathbf { / \\nabla 1 0 ^ { 4 } }$ 元· $\\mathbf { k m } ^ { - 2 }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">功能</td><td colspan=\"5\">类型</td></tr><tr><td>林地</td><td>草地</td><td>农田</td><td>水域</td><td>荒漠</td></tr><tr><td>气体调节</td><td>79</td><td>18</td><td>11</td><td>0</td><td>0</td></tr><tr><td>气候调节</td><td>61</td><td>20</td><td>20</td><td>10</td><td>0</td></tr><tr><td>水源涵养</td><td>72</td><td>18</td><td>13</td><td>458</td><td>1</td></tr><tr><td>土壤形成与保护</td><td>88</td><td>44</td><td>33</td><td>0</td><td>0</td></tr><tr><td>废物处理</td><td>29</td><td>29</td><td>37</td><td>408</td><td>0</td></tr><tr><td>生物多样性保护</td><td>73</td><td>24</td><td>16</td><td>56</td><td>8</td></tr><tr><td>食物生产</td><td>2</td><td>7</td><td>22</td><td>2</td><td>0</td></tr><tr><td>原材料</td><td>58</td><td>1</td><td>2</td><td>0</td><td>0</td></tr><tr><td>娱乐文化</td><td>29</td><td>1</td><td>0</td><td>97</td><td>0</td></tr><tr><td>总计</td><td>491</td><td>163</td><td>55</td><td>1032</td><td>9</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表2格尔木河流域地下水生态功能及环境损益值",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/065a5ee4759387aaad841d2954770c2098e8da24f54f80883d4876c8c24c30b1.jpg",
+        "table_caption": [
+            "Tab.1 Ecologic servic value structure of Golmud River Catchment／1 ${ \\bf 0 } ^ { 4 } { \\bf \\ Y u a n } \\cdot { \\bf k m } ^ { - 2 }$ ",
+            "Tab.2Ecologic fuctions and environmental profit-loss values of groundwater of Golmud River Catchment "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>生态功能</td><td>位置</td><td>阈值</td><td>环境损益值</td></tr><tr><td>减轻城</td><td>山前隔壁</td><td>库容应大于</td><td>8 000 ×</td></tr><tr><td>市内涝</td><td>砾石带</td><td>3.42×10m</td><td>104元</td></tr><tr><td>维系植 被生存</td><td>平原区</td><td>地下水埋深 0.5~10m</td><td>191 ×104 元·km-²</td></tr><tr><td>减缓盐渍</td><td>平原区</td><td>地下水埋深大于3m</td><td>163 ×104</td></tr><tr><td>化程度 维系河</td><td></td><td></td><td>元·km-²</td></tr><tr><td>湖面积</td><td>达布逊湖</td><td>入湖流量大于 2.82×10m²·a-1</td><td>1 032 ×104 元·km-2</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "型水源地。平原区冲湖积细粒多层含水层系统，渗透性和水质较差，但植被发育，是地下水重要的生态功能区。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）格尔木河流域地下水具有减缓城市内涝、维系植被生理需水、维系河川生态基流流量、维持湖泊水域面积、调节土壤的含水量和含盐量的重要生态功能。为合理开发利用地下水资源，山前隔壁砾石带地下水库容应大于 $3 . 4 2 \\times 1 0 ^ { 8 } ~ \\mathrm { m } ^ { 3 }$ ,平原区地下水埋深应介于 $3 \\sim 1 0 \\mathrm { ~ m ~ }$ ,入湖流量应大于 $2 . 8 2 \\times 1 0 ^ { 8 }$ $\\mathbf { m } ^ { 3 } \\cdot \\mathbf { a } ^ { - 1 }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）格尔木河流域为典型的西北内陆河流域，地下水赋存于大型冲洪积扇体内。山前为粗颗粒的单一含水层，无论是渗透性还是水质都适合建设大",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）基于格尔木河流域生态系统服务价值构成和地下水生态功能，得到减轻城市内陆及减缓盐渍化程度的环境正效益值分别为 $8 \\ 0 0 0 \\times 1 0 ^ { 4 }$ 元和$1 6 3 \\times 1 0 ^ { 4 }$ 元· $\\mathrm { k m } ^ { - 2 }$ ;地下水不合理开发利用导致植被退化、河湖面积萎缩的环境负效益值分别为 $1 9 1 \\times$ $1 0 ^ { 4 }$ 元： $\\mathrm { k m } ^ { - 2 }$ 和 $1 \\ 0 3 2 \\times 1 0 ^ { 4 }$ 元· $\\mathrm { k m } ^ { - 2 }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "致谢：本文在撰写过程中得到了中国地质调查局郝爱兵教授级高级工程师、中国地质环境监测院李瑞敏教授级高级工程师的建议，在此表示衷心的感谢！",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1］聂振龙,张光辉,申建梅,等.西北内陆盆地地下水功能特征及地下水可持续利用[J].干旱区资源与环境，2012,26(1)：63-  \n99.［NIE Zhenlong,ZHANG Guanghui,SHEN Jianmei,et al.Characteristics of groundwater function distribution and its indica-tion for sustainable groundwater resource development in interiorbasins northwestern China[J].Journal of Arid Land Resources andEnvironment,2012,26(1):63-99.][2] 陈德华，王贵玲，陈玺，等.西北内陆盆地地下水资源可持续利用战略分析[J].南水北调与水利科技，2009，7（3)：71-73.[CHEN Dehua,WANG Guiling,CHEN Xi,etal.Strategic analysisof groundwater resources sustainable use in Northwest inland basin[J].South-to-North Water Transfers and Water Science & Tech-nology,2009，7(3):71-73.][3] 李亚民,郝爱兵,罗跃初,等.西北内流盆地地下水资源开发利用的问题及其对策研究[J].资源与产业，2009，11（6)：48-  \n54.[LI Yamin,HAO Aibing,LUO Yuechu,et al. Issues and ap-proaches to groundwater resources development in inland basins inNorthwest China[J].Resources & Industries,2009,11（6）:48-  \n54.][4] 王璞，吴卫红，张爱美，等.技术经济学[M].北京：机械工业出版社,2012.［WANGPu,WUWeihong,ZHANG Aimei,et al.Technological Economics［M].Beijing：China Machine Press,  \n2012.][5］杨茂林.关于绿色经济学的几个问题[J].经济问题,2012,(9）:4-14.[YANG Maolin.Some issues in green economics[J].",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "OnEconomic Problems,2012,（9）:4-14.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[6]余振国,冯春涛，郑娟儿，等.矿产资源开发环境代价核算与补偿赔偿制度研究[J].中国国土资源经济，2012，25（3）：31-34.［YU Zhenguo,FENG Chuntao,ZHENGJuan'er,et al.Re-search on environment cost accounting and compensation and repa-ration system of mineral resources exploitation[J].Natural Re-sourceEconomics of China,2012,25(3）:31-34.]  \n[7］王宇航.格尔木河流域地下水化学演化规律和水循环模式[D].西安：长安大学,2014.［WANG Yuhang.Geochemistry evo-lution and water cycle patterns of groundwater in Golmud River Ba-sin[D].Xi'an:Chang'an University,2014.]  \n[8] 王文科，杨泽元,程东会，等.面向生态的干旱半干旱地区区域地下水资源评价的方法体系[J].吉林大学学报，2011，41（1）：159-167.[WANG Wenke,YANG Zeyuan,CHENGDonghui,etal.Methods of ecology-oriented groundwater resource assessment inarid and semi-arid area[J].Journal of Jilin University,2011,41(1):159-167.]  \n[9］李健,王辉,黄勇,等.柴达木盆地格尔木河流域生态需水量初步估算探讨[J].水文地质工程地质,2008，（1)：71-75.［LIJian,WANG Hui,HUANG Yong,et al.Preliminary estimation onecological consumption of water of Gelmud River in Chaidamu Ba-sin[J].Hydrogeology&EngineeringGeology,20O8,（1）:71-75.  \n[10］乔木,周生斌,卢磊,等.新疆渭干河流域土壤盐渍化时空变化及成因分析[J].地理科学进展，2012，37（1）：904－910.[QIAO Mu,ZHOU Shengbin,LU Lei,et al.Causes and spatial-temporal changes of soil salinization in Weigan River Basin,Xin-jiang[J].Progressing in Geography,2012,37(1）:904-910.  \n[11］谢高地，张彩霞，张昌顺，等.中国生态系统服务的价值[J].资源科学,2015,37(9）:1740-1746.[XIE Gaodi,ZHANG Caixia,ZHANG Changsun,et al.The value of ecosystem services in China[J].Resources Science,2015,37(9):1740-1746.  \n[12］李有斌，王刚.民勤荒漠绿洲植被的生态服务功能价值化研究[J].兰州大学学报（自然科学版），2006，42（1）：44-49.［LIYoubin,WANG Gang.Ecological value of vegetation services inMinqin Desert Oasis[J]. Journal of Lanzhou University（NaturalScience）,2006,42(1):44-49.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Groundwater ecological function and economic profit and loss threshold in Golmud River Catchment ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "HUANG Jin-ting1， CUI Xu-dong'，WANG Dong1，LIU Wen-hui1，LIU Xiang-min², YUAN Li³，MA Ri-xin4， WEI Chao4 (1Xi'an Geological Survey,CGS,Xi'an710054,Shaanxi,China；2 Chinese AcademyofLand& Resource Economics, Beijing 101149,China；3211 Filiale,Sino Shaanxi Nuclear Industry Group,Xi'an 710054,Shaanxi,China; 4Xi'an University of Science and Technology,Xi'an 71oo54,Shaanxi,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Groundwater isan important water source for sustaining the survival of mankind,the ecological health and socio-economic development innorthwest inland,China.However,the local ecosystem is fragile in thoseregions.To protect groundwater resources and ecosystem,itneeds to study therational development and utilizationof groundwater.Base on the analysis of hydrogeological featureand environmental problems,the paper clarified the groundwater ecological function and its threshold using remote sensing technology,field survey and groundwater monitor approach in Golmud River catchment Qinghai Province,China.The results showed that the reasonable groundwater depth should be in the range from O.5 to $1 0 \\mathrm { ~ m ~ }$ for the survival of plants,and lager than $3 \\mathrm { ~ m ~ }$ for alleviation of salty soil.To prevent the city from waterlogging,the ground reservoir should larger than $3 . 4 2 \\times 1 0 ^ { 8 } \\ \\mathrm { m } ^ { 3 }$ . And it also needs more than $2 . 8 2 \\times 1 0 ^ { 8 } ~ \\mathrm { m } ^ { 3 }$ water volume flowing into the lake per year to maintain Dabuxu Lake area. According to the ecosystem services economic contributions,it found that the profit would be 8O million yuan and $1 . 6 3 ~ \\mathrm { m i l }$ ， lion yuan persquare kilometer for thecity waterloggng preventionand salty soil alleviation,respectively.On the contrary,the loss would be1.91 million yuan persquare kilometer and10.32 millon yuan per square kilometer because of vegetation degeneration and lake area shrinkage.The research results provided useful information to support groundwater sustainable use and ecosystem protection for Golmud River catchment.Meanwhile,it can be used as reference for groundwater utilization in other catchments in northern China. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words:groundwater ecological function；environment profit；Golmud River catchment ",
+        "page_idx": 7
+    }
+]

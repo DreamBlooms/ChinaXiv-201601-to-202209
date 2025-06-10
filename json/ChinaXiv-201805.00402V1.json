@@ -1,0 +1,895 @@
+[
+    {
+        "type": "text",
+        "text": "基于属性优化矩阵补全的抗托攻击推荐算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周宇轩ä，陈蕾ab，张涵峰ä ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(南京邮电大学a.计算机学院;b.江苏省无线传感网高技术研究重点实验室，南京 210003)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：托攻击是当前推荐系统面临的严峻挑战之一。由于推荐系统的开放性，恶意用户可轻易对其注入精心设计的评分从而影响推荐结果，降低用户体验。基于属性优化结构化噪声矩阵补全技术，提出一种鲁棒的抗托攻击个性化推荐（SATPR）算法，将攻击评分视为评分矩阵中的结构化行噪声并采用 $\\scriptstyle L _ { 2 , 1 }$ 范数进行噪声建模，同时引入用户与物品的属性特征以提高托攻击检测精度。实验表明，SATPR算法在托攻击下可取得比传统推荐算法更精确的个性化评分预测效果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：推荐系统；托攻击； $\\boldsymbol { L } _ { 2 , 1 }$ 范数正则化；属性特征 中图分类号：TP301.6 doi:10.3969/j.issn.1001-3695.2017.09.0906 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Shilling-attack-tolerant recommendation algorithm based on attribute facilitated matrix completion ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhou Yuxuana, Chen Leia, b, Zhang Hanfenga (a.SchoolofComputerScience,b.Jiangsu HighTechnologyResearchKeyLaboratoryfor WirelessSensorNetworks,Nanjing University ofPosts&Telecommunications,Nanjing 21ooo3,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Shillngatack is oneofserious challenges which recommender systems are facing.Malicious users caneasily insert well-esignedratings intorecommendersystems toafectrecommendationresultsanddecreaseuser experiencesbecauseofthe opennessofrecommendersystems.Thisarticle proposedarobustshilling-attack-tolerantpersonalizedrecommendation (SATPR) algorithmbasedonatributionfacilitatedmatrixcompletionwithstructuralnoise technology,regardedtheratingsofattackusers in the rating matrix as structural row noise and modeled them with $\\boldsymbol { L } _ { 2 , 1 }$ -norm.This article also introduced attributive characters ofusersanditems toimprove theaccuracyofdetectionofshiling-atack.ExperimentalresultsshowedthatSATPRalgorithm achieved more acurate resultsof personalized rating prediction than traditionalrecommendation algorithms under shiling attacks. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:recommendersystem;shillingattack; $L _ { 2 , 1 }$ -norm regularization;attributive characters ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "面对信息过载问题，推荐系统应运而生。推荐系统是一种软件系统，它通过收集用户信息，物品信息以及用户与物品的交互信息，了解用户的偏好，从而将用户可能感兴趣的物品推荐给用户，在一定程度上解决困扰用户的信息过载问题[1]。当前实现推荐系统的一种主流方法是协同过滤（collaborativefiltering）方法。它依赖于用户的历史行为，分析过去的用户-物品交互，建立新的用户-物品联系[2]。协同过滤推荐算法的推荐结果与所收集到的用户-物品交互历史记录息息相关，当收集到的用户-物品交互数据越能精确反映出用户偏好与物品本质，最终的推荐结果也将越精确。然而，用户-物品交互数据的产生者是所有用户，并没有设置准入门槛，这种数据来源的开放性导致了协同过滤推荐系统极易受到恶意用户的干扰，这种现象称为托攻击(shillingattack)。攻击者往往可以轻易伪装成普通用户，在与物品交互的过程中，有目的性地进行操作，从而干扰了正常的推荐结果，严重影响了用户体验。因此，抵御托攻击的干扰，增强推荐系统的鲁棒性，成为推荐系统的重要改进方向。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "通常情况下，试图区分精心伪装的托攻击用户与正常用户是很困难的。然而，从攻击意图，攻击过程等各方面分析，托攻击概貌与正常用户概貌间依然存在着细微差别。本文针对用户-物品评分矩阵中托攻击概貌所反映出的用户偏好不够自然，异于正常用户偏好这一性质，将评分矩阵中的托攻击概貌建模为影响评分矩阵低秩性的结构化行噪声，并采用矩阵 $\\cdot L _ { 2 , 1 }$ 范数对其进行解析。除了考虑用户概貌的差别，本文也将用户与物品属性信息纳入考虑之中，进一步提高了检测精度。当检测出托攻击用户之后，剔除相应攻击评分再进行评分预测，将显著增强评分预测的鲁棒性。基于以上工作，本文提出了一种基于属性优化矩阵补全的抗托攻击个性化推荐算法（SATPR)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关工作",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "托攻击是当前推荐系统遇到的严峻挑战之一。恶意商家或用户为了达成其特殊目的（往往是经济利益)，冒充正常用户，在与物品交互的过程中，向推荐系统注入精心设计的虚假用户概貌，从而干扰正常的推荐结果，实现其攻击意图。在一个攻击用户概貌中，所有物品的集合I可被分成四个子集：选择填充项（selected items） $I ^ { s }$ ，填充项（filler items） $I ^ { F }$ ，目标项（targetitems） $I ^ { T }$ 和未评分项（unrateditems） $I ^ { \\emptyset }$ 。选择填充项中的物品由攻击者刻意挑选，用以接近特定目标用户群体；填充项中的物品通常是随机挑选的，用以隐藏攻击者的身份；目标项即被攻击的目标物品；另外，由于实际用户不可能对所有物品进行评价，这些没有获得评分的物品构成未评分项。根据攻击意图，托攻击分为推攻击(push attack)与核攻击(nuke attack)[3]。一些攻击者致力于提升目标物品的知名度，从而使推荐系统将其作为推荐结果推送给用户，这种攻击称为推攻击；另一些攻击者则致力于降低目标物品的知名度，从而使该目标物品被推荐的可能性降低，这种攻击称为核攻击。而根据实施攻击的具体细节，托攻击可分为多种攻击类型，其中最常见的三种攻击模型分别是随机攻击（randomattack)，均值攻击（average attack）和流行攻击（bandwagonattack)，各攻击模型之间的区别主要在于攻击用户概貌所采用的构造规则不同。在随机攻击中，攻击概貌没有选择填充项；填充项随机选择物品，并根据全体物品平均分为其打分；对于目标项，根据推攻击或核攻击，分别为其打高分或低分。在均值攻击中，攻击概貌同样没有选择填充项;填充项随机选择物品，其分值不再根据全体物品平均分，而是根据对应物品各自平均分进行打分；对于目标项，根据推攻击或核攻击，分别为其打高分或低分。在流行攻击的推攻击中，选择填充项选择最流行的物品打高分；填充项随机选择物品，并根据全体物品平均分为其打分；对目标项进行推攻击打高分。流行攻击的核攻击形式也称为反流行攻击，其中选择填充项选择最不受欢迎的物品打低分，填充项同样随机选择物品，并根据全体物品平均分为其打分；对目标项进行核攻击打低分。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由此可见，托攻击用户概貌通常进行了精心设计与伪装，攻击概貌的注入将极大改变原本正常的推荐结果。因此，托攻击问题引起了推荐系统领域内许多研究者的关注。Zhang 等人[4]基于用户概貌偏离度，结合了用户可信度与物品可信度，以可信度加权提出了一种分类属性，称为信任加权的平均偏离度（trust-weighted deviation from mean agreement，TWDMA），用以区分攻击用户与正常用户；Bryan等人[5]利用Hv-score 度量对用户进行排序，由排序后的用户概貌确定攻击目标项，在获知攻击目标项的基础上以滑动窗的形式对用户概貌进行排查；Li等人[根据攻击概貌中物品的选择是基于人为制造的规则，有悖于自然状态下正常用户的内在偏好这一性质，通过挖掘用户概貌中的物品属性特征评判用户概貌；Deng等人[7提出了一种结合了主成分分析(PCA)与扰动的无监督检测方法，对用户概貌加入高斯噪声，在加入噪声前后各做一次PCA，结合两次的结果进行比较分析，确定托攻击用户。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "另外，由于推荐系统往往要针对用户-物品评分矩阵进行研究，因此，在矩阵补全领域对于异常元素的范数正则化技术同样值得借鉴。陈蕾等人[8对于低秩矩阵补全在现实应用中遇到的采样数据可能会受到结构化噪声污染的问题，提出了一种利用 $L _ { 2 , 1 }$ 范数解析结构化噪声的低秩矩阵补全算法；Xiao等人[9]在低秩矩阵补全问题中，对于采样过程中高斯噪声在矩阵补全问题中产生的干扰，使用了矩阵的Frobenius范数来解析高斯噪声，提高了算法的鲁棒性；Zhang 等人[10]在2D 图像特征提取时利用 $L _ { 2 , 1 }$ 范数有效缓解了算法对于噪声敏感的问题；汤镇宇等人[]在基于字典求取稀疏系数以进行人脸识别的过程中利用了 $L _ { 2 }$ 范数正则化，使算法在降低复杂度的同时保持了较高的识别精度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 基于属性优化结构化噪声矩阵补全的抗托攻击个性化推荐算法（SATPR）",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1属性优化结构化噪声矩阵补全模型 (AFMCSN)",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通常在推荐系统中， $\\mathbf { \\Sigma } _ { m }$ 名用户构成用户集合： $U =$ $\\{ u _ { 1 } , u _ { 2 } , \\cdots u _ { m } \\}$ ，同样的， $\\mid n$ 件物品构成物品集合： $I = \\{ i _ { 1 } , i _ { 2 } , \\cdots i _ { n } \\}$ ，用户-物品评分矩阵可表示为 $\\boldsymbol { R } \\in \\mathbb { R } ^ { m \\times n }$ ：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { R = \\left[ { \\begin{array} { c c c } { ? } & { ? } & { ? } \\\\ { * } & { r _ { i , j } } & { * } \\\\ { * } & { ? } & { ? } \\end{array} } \\right] } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：用户 $i$ 对物品 $j$ 的评分记作 $\\cdot r _ { i , j }$ ，“\\*”表示已知评分，“？”表示未知评分。由于每个用户只可能对有限的物品进行评分，而每件物品也仅可能收到有限用户的评分，故这个评分矩阵通常包含大量的空缺评分，是一个稀疏矩阵。推荐系统的目的就是预测用户对于未评分物品的偏好程度，从而将合适的物品推荐给相应用户。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在推荐系统中，大量的用户之间和大量的物品之间必然存在着偏好相近的用户和属性相近的物品，这种相近性质使得用户-物品评分矩阵往往具有近似低秩性[12],故推荐系统问题可利用低秩矩阵补全技术进行评分预测。用 $\\scriptstyle R$ 表示当前观察到的评分矩阵，则推荐系统问题可建模为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } _ { X \\in \\mathbb { R } ^ { m \\times n } } r a n k { \\big ( } X { \\big ) } s . t . P _ { \\Omega } { \\big ( } R { \\big ) } = P _ { \\Omega } { \\big ( } X { \\big ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\cdot \\varOmega$ 集合表示评分矩阵中已收到评分的元素下标集合， $\\varOmega \\subseteq$ $\\{ 1 , 2 \\cdots m \\} \\times \\{ 1 , 2 \\cdots n \\} _ { \\circ } \\mathrm { P } _ { \\Omega } ( \\cdot )$ 是投影算子，表示当元素下标 $( i , j ) \\in \\varOmega$ 时，得到对应位置采样元素：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ \\mathrm { P } _ { \\varOmega } ( \\pmb { R } ) ] _ { i , j } = \\left\\{ _ { 0 ( i , j ) \\not \\in \\varOmega } ^ { r _ { i , j } ( i , j ) \\in \\varOmega } \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "但是，秩函数 $\\operatorname { r a n k } ( X )$ 是非凸的，直接使用秩函数建模得到的是一个NP-Hard 问题，其计算代价会随着问题规模的扩大而急剧增大。因此，往往将秩函数松弛化为核范数来解决此问题[13]:",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } _ { X \\in \\mathbb { R } ^ { m \\times n } } \\| X \\| _ { * } \\mathrm { P } _ { \\varOmega } ( R ) = \\mathrm { P } _ { \\varOmega } ( X )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\begin{array} { r } { \\| \\pmb { X } \\| _ { * } = \\sum _ { i = 1 } ^ { \\operatorname* { m i n } ( m , n ) } \\sigma _ { i } } \\end{array}$ 为矩阵核范数， $\\sigma _ { i }$ 为矩阵 $\\mathbf { X }$ 的第i大奇异值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在实际应用中，推荐系统往往会遭受恶意用户的托攻击。面对托攻击干扰，标准矩阵补全模型的推荐精度将严重降低。因此，为了保证推荐的质量，有必要抵御这些攻击数据的影响。通过对托攻击特点进行分析可知，托攻击的目的是更改原来自然情况下的评分情况，假如在自然情况下的评分情况已经符合攻击者的意图，则没有进行攻击的必要，故托攻击用户的评分与自然状态下正常用户的评分存在不一致性。另外，托攻击用户的评分通常是机械填充的，这也会与基于兴趣偏好而形成的正常用户评分具有相异之处。基于以上分析，本文将用户-物品评分矩阵中的托攻击评分建模为结构化行噪声，这些结构化噪声与正常用户评分的潜在规律相违背，打破了评分矩阵的近似低秩性。对于评分矩阵中存在的结构化行噪声，可利用矩阵 $\\boldsymbol { \\cdot } \\boldsymbol { L } _ { 2 , 1 }$ 范数对其进行解析[14]。在剔除攻击评分之后，再进行评分预测，将有效提高推荐精度。此时，模型可改进为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } _ { X , Z \\in \\mathbb { R } ^ { m \\times n } } \\| X \\| _ { * } + \\lambda \\| Z \\| _ { 2 , 1 } \\quad \\mathrm { ~ s . t . P } _ { 2 } ( R ) = \\mathrm { P } _ { 2 } ( X + Z )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\begin{array} { r } { \\| \\pmb { Z } \\| _ { 2 , 1 } = \\sum _ { i = 1 } ^ { m } \\sqrt { \\sum _ { j = 1 } ^ { n } z _ { i , j } ^ { 2 } } } \\end{array}$ 为矩阵 $L _ { 2 , 1 }$ 范数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "此外，用户往往会出于情绪波动而打出不太精确的评分，为了平滑评分的这种细微波动，可引入矩阵的Frobenius 范数，将其改写成罚函数形式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\underset { { X , Z } \\in \\mathbb { R } ^ { m \\times n } } { \\operatorname* { m i n } } \\| { X } \\| _ { * } + \\lambda \\| { Z } \\| _ { 2 , 1 } + \\frac { \\beta } { 2 } \\| \\mathrm { P } _ { 2 } ( { X } + { Z } - R ) \\| _ { F } ^ { 2 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\begin{array} { r } { \\| \\pmb { X } \\| _ { F } = \\sqrt { \\sum _ { i = 1 } ^ { m } \\sum _ { j = 1 } ^ { n } \\left| x _ { i , j } \\right| ^ { 2 } } } \\end{array}$ 为矩阵的Frobenius 范数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "正如之前所叙述的，评分矩阵通常是稀疏矩阵，能够收到的评分数远小于评分矩阵元素个数。在MovieLens的 $\\mathrm { m l - } 2 0 \\mathrm { m }$ 数据集中，138493名用户对于27278部电影仅有20000263个评分；在EachMovie 数据集中，72916个用户对l628 部电影仅进行了2811983次评分。基于稀疏数据求取高维未知矩阵很难确保求解的准确性。为解决数据稀疏性问题[15]，本文考虑引入属性特征信息，将简单的评分矩阵 $\\pmb { R }$ 细化为三个矩阵的乘积 $\\pmb { R } =$ $\\pmb { A } ^ { T } \\pmb { X } \\pmb { B }$ ，其中， $\\mathbf { \\mathcal { A } }$ 和 $\\textbf {  { B } }$ 分别是用户特征矩阵和物品特征矩阵， $A \\in$ $\\mathbb { R } ^ { k \\times m }$ ， $\\pmb { { B } } \\in \\mathbb { R } ^ { k \\times n }$ ，矩阵列向量分别是用户特征向量和物品特征向量，即量化了的属性信息； $\\scriptstyle { \\frac { } { X } }$ 矩阵是低维未知矩阵， $\\pmb { X } \\in \\mathbb { R } ^ { k \\times k }$ 。此时，模型可改为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } _ { \\substack { X \\in \\mathbb { R } ^ { k \\times k } , Z \\in \\mathbb { R } ^ { m \\times n } } } \\| A ^ { T } X B \\| _ { * } + \\lambda \\| Z \\| _ { 2 , 1 } + \\frac { \\beta } { 2 } \\| \\mathrm { P } _ { 2 } ( A ^ { T } X B + Z - R ) \\| _ { F } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "然而，由于 $\\operatorname { r a n k } ( A ^ { T } X B ) \\leq \\operatorname* { m i n } \\{ \\operatorname { r a n k } ( A ) , \\ \\operatorname { r a n k } ( B ) \\}$ ，即只要特征矩阵 $\\mathbf { \\mathcal { A } }$ 与 $\\textbf {  { B } }$ 其中之一的秩足够小，比如 $\\mathbf { \\mathcal { A } }$ 或 $\\textbf {  { B } }$ 的维度过小，包含信息过少等，则无论 $\\boldsymbol { x }$ 矩阵取何值，乘积 $\\pmb { A } ^ { T } \\pmb { X } \\pmb { B }$ 的秩都必然会更小，将直接满足低秩条件。为避免这种解的任意性，本文仅对待求变量 $\\boldsymbol { x }$ 进行低秩约束。综上所述，属性优化结构化噪声矩阵补 全（Attribution Facilitated Matrix Completion withStructuralNoise，AFMCSN）模型可建模为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } _ { \\substack { X \\in \\mathbb { R } ^ { k \\times k } , Z \\in \\mathbb { R } ^ { m \\times n } } } \\| X \\| _ { * } + \\lambda \\| Z \\| _ { 2 , 1 } + \\frac { \\beta } { 2 } \\| \\mathrm { P } _ { 2 } ( A ^ { T } X B + Z - R ) \\| _ { F } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当求得行噪声矩阵 $z$ 之后，便可据此排除托攻击干扰，获得高精度的评分预测结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2AFMCSN模型的优化求解",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为求解AFMCSN 模型，可采用分块坐标下降算法[16]，通过对各个变量交替最小化得到最优解。为了进一步方便求解，本文引入变量 $c$ 并令 $\\pmb { C } = \\pmb { A } ^ { T } \\pmb { X } \\pmb { B }$ ，模型（8）转换为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } _ { \\substack { X \\in \\mathbb { R } ^ { k \\times k } , C , Z \\in \\mathbb { R } ^ { m \\times n } } } \\| X \\| _ { * } + \\lambda \\| Z \\| _ { 2 , 1 } + \\frac { \\beta } { 2 } \\| \\mathrm { P } _ { 2 } ( C + Z - R ) \\| _ { F } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { \\Psi } _ { S . } t . \\mathbf { \\Psi } _ { C } - A ^ { T } X B = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同上，利用Frobenius范数将其改写成罚函数形式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { \\underset { { \\pmb { X } } \\in \\mathbb { R } ^ { k \\times k } , C , { \\pmb { Z } } \\in \\mathbb { R } ^ { m \\times n } } { \\operatorname* { m i n } } \\| { \\pmb { X } } \\| _ { * } + \\lambda \\| { \\pmb { Z } } \\| _ { 2 , 1 } + } \\\\ { \\frac { \\beta } { 2 } \\| \\mathrm { P } _ { 2 } ( { \\pmb { C } } + { \\pmb { Z } } - { \\pmb { R } } ) \\| _ { F } ^ { 2 } + \\frac { \\rho } { 2 } \\| { \\pmb { C } } - { \\pmb { A } } ^ { T } { \\pmb { X } } { \\pmb { B } } \\| _ { F } ^ { 2 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "不妨令",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname { L } _ { \\rho } ( X , Z , C ) = \\left\\| X \\right\\| _ { * } + \\lambda \\| Z \\| _ { 2 , 1 } +\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\frac { \\beta } { 2 } \\| \\mathrm { P } _ { 2 } ( { \\pmb { C } } + { \\pmb { Z } } - { \\pmb { R } } ) \\| _ { F } ^ { 2 } + \\frac { \\rho } { 2 } \\| { \\pmb { C } } - { \\pmb { A } } ^ { T } { \\pmb { X } } { \\pmb { B } } \\| _ { F } ^ { 2 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对各个变量交替最小化，则各个变量的迭代更新公式为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { X ^ { k + 1 } = } & { \\mathrm { a r g ~ } \\underset { X \\in \\mathbb { R } ^ { k \\times k } } { \\mathrm { m i n } } ~ \\mathrm { L } _ { \\rho } ( X , \\mathbf { Z } ^ { k } , \\mathbf { C } ^ { k } ) } \\\\ { \\mathbf { Z } ^ { k + 1 } = } & { \\mathrm { a r g ~ } \\underset { Z \\in \\mathbb { R } ^ { m \\times n } } { \\mathrm { m i n } } ~ \\mathrm { L } _ { \\rho } ( X ^ { k + 1 } , \\mathbf { Z } , \\mathbf { C } ^ { k } ) } \\\\ { C ^ { k + 1 } = } & { \\mathrm { a r g ~ } \\underset { C \\in \\mathbb { R } ^ { m \\times n } } { \\mathrm { m i n } } ~ \\mathrm { L } _ { \\rho } ( X ^ { k + 1 } , \\mathbf { Z } ^ { k + 1 } , \\mathbf { C } ) } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "至此，原最优化问题变为三个子问题，分别对应 $x , z , c$ 的更新。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对子问题1，本文采用近邻前向后向分裂（proximalforwardbackwardsplitting,PFBS）[l7]技术对其进行优化求解，令：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left\\{ \\operatorname { F } _ { 1 } ( \\pmb { X } ) = \\| \\pmb { X } \\| _ { * } \\right. } \\\\ { \\left. \\operatorname { F } _ { 2 } ( \\pmb { X } ) = \\frac { \\rho } { 2 } \\| \\pmb { C } - \\pmb { A } ^ { T } \\pmb { X } \\pmb { B } \\| _ { F } ^ { 2 } \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中函数 $\\operatorname { F } _ { 2 } ( \\pmb { X } )$ 的导数为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nabla \\mathrm { F } _ { 2 } ( X ) = \\rho ( A A ^ { T } X B B ^ { T } - A C B ^ { T } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为简化公式，方便求解，引入一个新变量 $Y$ ，令",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { Y ^ { k + 1 } = X ^ { k } - \\delta _ { X } \\nabla \\mathrm { F } _ { 2 } ( X ^ { k } ) \\ = X ^ { k } - \\delta _ { X } \\rho ( A A ^ { T } X B B ^ { T } - A C ^ { k } B ^ { T } ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中，根据PFBS规则，引入参数 $\\delta _ { X }$ 用于对 $\\scriptstyle { \\frac { } { X } }$ 进行迭代更新。则",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { X } ^ { k + 1 } = \\mathrm { \\arg \\operatorname* { m i n } } _ { \\boldsymbol { X } \\in \\mathbb { R } ^ { k \\times k ^ { 2 } } } \\| \\boldsymbol { X } - \\boldsymbol { Y } ^ { k + 1 } \\| _ { F } ^ { 2 } + \\delta _ { \\boldsymbol { X } } \\| \\boldsymbol { X } \\| _ { * }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据文献[8]，对于矩阵 $\\pmb { Y } \\in \\mathbb { R } ^ { k \\times k }$ 和常数 $\\mathit { \\Pi } _ { \\overline { { \\tau } } } > 0$ ，有",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { D } _ { \\tau } ( \\pmb { Y } ) = \\ \\mathrm { a r g } \\ \\operatorname* { m i n } _ { \\pmb { X } \\in \\mathbb { R } ^ { k \\times k } } \\left\\{ \\frac { 1 } { 2 } \\| \\pmb { X } - \\pmb { Y } \\| _ { F } ^ { 2 } + \\tau \\| \\pmb { X } \\| _ { * } \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\mathsf { D } _ { \\tau } ( Y )$ 是奇异值阈值算子，若矩阵 $\\boldsymbol { \\mathsf { Y } }$ 的奇异值分解为 $\\pmb { Y } =$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\pmb { U } \\pmb { \\Sigma } \\pmb { V } ^ { T }$ ，则 $\\tau$ 所对应的奇异值阈值算子为 ${ } \\operatorname { I D } _ { \\tau } ( Y ) = U * \\operatorname { [ s i g n } ( Y ) \\ { \\mathrm { ~ c ~ } }$ $\\operatorname* { m a x } ( | Y | - \\tau , 0 ) ] * V ^ { T }$ ，其中符号“。”是Hadamard 积，表示两矩阵对应元素相乘。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因此， $\\boldsymbol { x }$ 的更新可按如下步骤迭代进行：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\left\\{ \\pmb { Y } ^ { k + 1 } = ( \\pmb { X } ^ { k } - \\delta _ { X } \\rho \\pmb { A } \\pmb { A } ^ { T } X \\pmb { B } \\pmb { B } ^ { T } - \\pmb { A } \\pmb { C } ^ { k } \\pmb { B } ^ { T } ) \\right. } \\\\ & { \\left. \\pmb { X } ^ { k + 1 } = \\mathbb { D } _ { \\delta _ { X } } ( \\pmb { Y } ^ { k + 1 } ) \\qquad \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在 PFBS 中，参数δ需满足0<δ<²。 通过计算， $L _ { f - } X =$ $\\sigma _ { \\operatorname* { m a x } } ( \\pmb { B } \\pmb { B } ^ { T } ) * \\sigma _ { \\operatorname* { m a x } } ( \\pmb { A } \\pmb { A } ^ { T } )$ ，故参数 $\\delta _ { X }$ 需满足 $0 < \\delta _ { X } <$ $\\frac { 2 } { \\sigma _ { \\mathrm { { m a x } } } ( B B ^ { T } ) * \\sigma _ { \\mathrm { { m a x } } } ( A A ^ { T } ) }$ ，在实验中，本文取 $\\delta _ { X } = \\frac { 1 } { \\sigma _ { \\operatorname* { m a x } } ( B B ^ { T } ) * \\sigma _ { \\operatorname* { m a x } } ( A A ^ { T } ) } \\mathrm { ~ c ~ }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于子问题2，类似于 $\\scriptstyle { \\boldsymbol { X } }$ 的更新过程，令",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { F } _ { 2 } ( \\pmb { Z } ) = \\frac { \\beta } { 2 } \\| \\mathrm { P } _ { 2 } ( \\pmb { C } + \\pmb { Z } - \\pmb { R } ) \\| _ { F } ^ { 2 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其导数为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nabla \\mathrm { F } _ { 2 } ( \\mathbf { Z } ) = \\beta \\mathrm { P } _ { \\varOmega } ( \\pmb { C } + \\pmb { Z } - \\pmb { R } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为简化公式，方便求解，引入一个新变量 $\\nu$ ，令",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { V } ^ { k + 1 } = \\pmb { Z } ^ { k } - \\delta _ { Z } \\nabla F _ { 2 } ( \\pmb { Z } ^ { k } ) = \\pmb { Z } ^ { k } - \\delta _ { Z } \\beta \\mathsf { P } _ { 2 } ( \\pmb { C } ^ { k } + \\pmb { Z } ^ { k } - \\pmb { R } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "则 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { Z } ^ { k + 1 } = \\mathrm { \\arg \\operatorname* { m i n } } _ { \\pmb { Z } \\in \\mathbb { R } ^ { m \\times n } } \\frac { 1 } { 2 } \\| \\pmb { Z } - \\pmb { V } ^ { k + 1 } \\| _ { F } ^ { 2 } + \\delta _ { Z } \\lambda \\| \\pmb { Z } \\| _ { 2 , 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由文献[8]，对于 $z$ 矩阵内每一行：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { ( \\mathbf { Z } ^ { k + 1 } ) ^ { ( i ) } = \\operatorname* { m a x } \\left\\{ 1 - \\frac { \\delta _ { Z } \\lambda } { \\left\\| \\left( V ^ { k + 1 } \\right) ^ { ( i ) } \\right\\| _ { 2 } } , 0 \\right\\} \\ast ( V ^ { k + 1 } ) ^ { ( i ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ni = 1 , 2 , \\cdots , m\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因此， $z$ 的更新可按照如下步骤迭代进行：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { V ^ { k + 1 } = Z ^ { k } - \\delta _ { Z } \\beta \\mathrm { P } _ { a } ( C ^ { k } + Z ^ { k } - R ) } \\\\ { ( Z ^ { k + 1 } ) ^ { ( i ) } = \\operatorname* { m a x } \\left\\{ 1 - \\frac { \\delta _ { Z } \\lambda } { \\big \\| ( V ^ { k + 1 } ) ^ { ( i ) } \\big \\| _ { 2 } } , 0 \\right\\} * ( V ^ { k + 1 } ) ^ { ( i ) } } & { i = 1 , 2 , \\cdots , m } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "类似地,通过计算, $L _ { f - } Z = \\beta$ ，故参数 $\\delta _ { Z }$ 需满足 $0 < \\delta _ { Z } < \\frac { 2 } { \\beta } \\textless$ 在实验中，取 $\\begin{array} { r } { \\delta _ { Z } = \\frac { 1 } { \\beta } \\mathrm { , } } \\end{array}$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于子问题3，令",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "即 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { F } ( C ) = \\frac { \\beta } { 2 } \\| \\mathrm { P } _ { 2 } ( C + Z - R ) \\| _ { F } ^ { 2 } + \\frac { \\rho } { 2 } \\| C - A ^ { T } X B \\| _ { F } ^ { 2 } } \\\\ { C ^ { k + 1 } = \\mathrm { \\arg \\operatorname* { m i n } } _ { C \\in \\mathbb { R } ^ { m \\times n } } \\mathrm { F } ( C ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "此时有",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nabla \\mathrm { F } ( { \\pmb C } ) = \\beta \\mathrm { P } _ { 2 } ( { \\pmb C } + { \\pmb Z } - { \\pmb R } ) + \\rho ( { \\pmb C } - { \\pmb A } ^ { T } { \\pmb X } { \\pmb B } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "令 $\\nabla F ( C ) = 0$ ，可求得 $c$ 的迭代更新公式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\pmb { C } } ^ { k + 1 } = \\ [ \\rho { \\pmb { A } } ^ { T } { \\pmb { X } } ^ { k + 1 } { \\pmb { B } } + \\beta \\mathrm { P } _ { 2 } ( { \\pmb { R } } - { \\pmb { Z } } ^ { k + 1 } ) ] / ( \\rho + \\beta )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "至此，可整理得到AFMCSN模型的求解步骤，如算法1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法1属性优化结构化噪声矩阵补全算法（AFMCSN)",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "输入：用户与物品特征矩阵 $A , B$ ，采样评分矩阵 $R$ ，采样下标集合 $\\varOmega$ ，参数 $\\beta , \\rho , \\lambda$ 以及选代次数Maxiter",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "输出：结构化行噪声矩阵 $z$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1 initialize $X ^ { 0 } = 0 , Z ^ { 0 } = 0 , C ^ { 0 } = 0 ;$   \n2 for $k { = } 0$ to Maxiter   \n3 根据式(18)更新 $\\scriptstyle { \\boldsymbol { X } }$   \n4 根据式(24)更新Z;   \n5 根据式(28)更新 $c$   \n6 end for   \n7 return Z; ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中，最主要的算法步骤集中在3\\~5步，即按照式(18)(24)(28)更新各个变量。在用户数为 $\\mathbf { \\nabla } _ { m }$ ，物品数为 $\\mathbf { \\Omega } _ { n }$ ，属性特征向量长度为 $k$ 的情况下，分别考虑式(18)(24)(28)的时间复杂度：式(18)包括中间变量 $\\textbf {  { Y } }$ 的更新以及 $\\scriptstyle { \\mathbf { \\boldsymbol { X } } }$ 的更新。在更新 $\\boldsymbol { { \\cal Y } }$ 的过程中，需要进行矩阵连续相乘的操作，其时间复杂度为$O ( m n k )$ ；对于 $\\scriptstyle { \\boldsymbol { X } }$ 的更新，需要对矩阵 $\\boldsymbol { { \\cal Y } }$ 进行奇异值分解，其时间复杂度为 $O ( k ^ { 3 } )$ ；式(24)包括中间变量 $\\nu$ 的更新以及 $z$ 的更新。在更新 $\\nu$ 的过程中，主要是矩阵加减操作，其时间复杂度为 $O ( m n )$ ；对于 $z$ 的更新，需要逐行更新，每一行需要进行 $n$ 次相乘，其时间复杂度为 $O ( m n )$ ；式(28)对应 $c$ 的更新，其中主要的计算步骤在于矩阵相乘部分，其时间复杂度为 $O ( m n k )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上，算法1的总时间复杂度为 $O ( M a x i t e r ^ { * } ( m n k + m n +$ $\\begin{array} { r } { k ^ { 3 } ) _ { \\binom { } { } } } \\end{array}$ )，其中计算代价较大的部分在于矩阵相乘操作与奇异值分解操作。对于矩阵相乘，当前学术界与产业界已经提出并实现了很多高效的优化算法，以本实验所采用的MATLAB平台为例，它在执行矩阵运算时可使用Intel的Mathkernellibrary库(https://software.intel.com/en-us/mkl)，从底层硬件角度进行了优化，运算速度可得到极大提高。而矩阵的奇异值分解可利用PROPACK 软件包(http://sun.stanford.edu/\\~rmunk/PROPACK/),首先估计矩阵的秩 $\\boldsymbol { r }$ ，计算过程中仅对前 $\\textit { r }$ 个最大奇异值以及对应奇异向量进行计算，即将时间复杂度从 $O ( k ^ { 3 } )$ 降为 $O ( r k ^ { 2 } )$ 能够在降低运算代价的同时保证运算精度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 SATPR 算法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于AFMCSN托攻击检测模型，本文可得到抗托攻击的SATPR算法。首先，SATPR算法需要引入代表用户与物品属性特征的 $\\mathbf { \\mathcal { A } }$ 矩阵和 $\\textbf {  { B } }$ 矩阵，如果数据集中已经提供了这两个属性特征矩阵，便可直接利用；但更常见的情形是，数据集中并未直接提供这两个特征矩阵。此时需要先计算用户间相似度与物品间相似度，再利用谱聚类算法分别构建用户与物品的属性特征矩阵[18]。在推荐系统领域，相似度是用来预测用户评分的常用工具，多种相似度算法均可应用于属性特征矩阵的构建。在此，引入Shi等人[19提出的HeteSim相似度,这是一个递归定义的相似度度量，基于对象的属性信息考虑了两个对象之间所有可能产生关联的元路径，以入度与出度数量衡量彼此之间的影响程度，可以细致地表现出对象之间的相似性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当获取了相似度信息，便可利用谱聚类算法，基于相似度计算属性特征矩阵。首先计算拉普拉斯矩阵的特征值和特征向量，取前 $k$ 个特征向量组成矩阵，每一行即可视为对应样本的属性特征向量，这些属性特征向量之间的相似关系可以恰当反映对应的对象之间的潜在相似程度。通过这种方法，同样可以获得代表属性特征的矩阵 $\\mathbf { \\mathcal { A } }$ 和 $\\textbf {  { B } }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "具备了必要条件后，便可利用AFMCSN模型求解结构化行噪声矩阵 $z$ ，然后根据 $z$ 矩阵剔除攻击项，再利用传统推荐算法进行评分预测。当前，针对无托攻击评分数据集已经有了很多行之有效的高精度推荐算法，但在托攻击数据集上，这些传统推荐算法往往会面临性能下降的问题。而将传统推荐算法结合本文所提出的AFMCSN托攻击检测模型，在托攻击污染的数据集上将同样可保证评分预测的鲁棒性。在此本文采用ShiChuan[20]等提出的SimMF算法进行评分预测，这种算法基于矩阵分解，同时又充分利用了相似度信息进行加权，取得了极高的预测精度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "至此，可整理得到SATPR算法步骤，如算法2所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "算法 2基于属性优化的抗托攻击个性化推荐算法(SATPR)",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "输入：用户与物品属性信息，采样评分矩阵R，采样下标集合 $\\cdot \\varOmega$ ，参数 $\\beta , \\rho , \\lambda$ 以及迭代次数Maxiter。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "输出：预测评分矩阵R。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1 基于用户与物品属性信息计算用户相似度与物品相似度；2 基于相似度，利用谱聚类算法分别构建用户与物品的属性特征矩阵A， $\\pmb { B }$ 3 基于属性特征矩阵 $A$ ， $\\textbf {  { B } }$ ，利用算法1求解结构化行噪声矩阵 $\\pmb { Z } ;$ 4 根据矩阵 $z$ 从采样评分矩阵剔除托攻击评分;5 利用传统推荐算法进行评分预测，求得预测评分矩阵R;",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 实验与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 数据集",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文实验所采用的数据集来自于真实的DoubanBook数据，包含了1000名用户对于2000本书的32460个评分。值得注意的是，在这个数据集中不仅有用户对于书籍的评分数据，还包括用户的属性信息以及书籍的属性信息。对于书籍来说，其属性信息包括四类：作者，书名，出版社，出版时间；对于用户来说，其属性信息包括三类：群组，位置，好友。由于属性个数相对过少，将通过谱聚类技术构建代表用户与书籍属性特征的 $\\mathbf { \\mathcal { A } }$ 矩阵和 $\\textbf {  { B } }$ 矩阵。实验假定数据集中原有的用户均为正常用户，在原评分矩阵中随机选取用户评分行，利用托攻击模型生成托攻击概貌对其进行替换，得到托攻击干扰下的评分数据作为实验数据集。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2评价指标",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从托攻击用户检测的角度来看，对于托攻击用户的判断可视为一种分类问题，对此，常用的度量标准有查准率（precision），查全率（recall）和F1度量。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { p r e c i s i o n } = { \\frac { T P } { T P + F P } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { r e c a l l } = { \\frac { T P } { T P + F N } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF 1 = \\frac { 2 \\times \\mathrm { p r e c i s i o n \\times r e c a l l } } { \\mathrm { p r e c i s i o n \\mathrm { + r e c a l l } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中：TP表示判断为攻击用户的集合中，真正的攻击用户数量；FP 表示判断为攻击用户的集合中，被误判的正常用户数量；FN表示判断为正常用户的集合中，隐藏的攻击用户数量。precision越高说明所找出的攻击用户确实是真正的攻击用户的可能性越大，recall越高说明真正的攻击用户被检测出的可能性越大。F1度量是一个更为平衡的选择，兼顾了precision与recall度量，F1度量越大，说明检测效果越精确。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于推荐系统问题可以视为对用户-物品评分矩阵的缺失评分预测问题，因此从矩阵补全的角度，可以选用平均绝对误差(mean absolute error，MAE)和均方根误差(root mean squareerror，RMSE)考察评分预测的精度：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { M A E } = \\frac { \\sum _ { ( i , j ) \\in T } \\left| \\widehat { r _ { { i , j } } } - r _ { i , j } \\right| } { | T | } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { R M S E } = \\sqrt { \\frac { \\sum _ { ( i , j ) \\in T } \\left( \\widehat { r _ { i , j } } - r _ { i , j } \\right) ^ { 2 } } { | T | } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $T$ 表示测试集元素下标集合， $\\widehat { r _ { \\imath , \\jmath } }$ 表示用户 $i$ 对物品 $j$ 的预测评分， $r _ { i , j }$ 表示用户 $i$ 对物品 $j$ 的实际评分。MAE与RMSE的值越小，则推荐算法对评分矩阵中缺失评分的预测精度越高。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3 实验设计与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本节将通过实验检验SATPR 算法在托攻击下的性能。实验中对评分矩阵分别施加随机攻击，均值攻击和流行攻击三种最常见的攻击方式，各自进行推攻击与核攻击，产生六种不同的攻击类型。在各攻击类型下分别施加填充率为 $10 \\%$ ， $20 \\%$ 攻击强度为 $5 \\%$ ， $10 \\%$ 的一系列托攻击，并在这些托攻击干扰后的评分矩阵上进行实验。这里的填充率和攻击强度是描述攻击规模常用的两个统计学指标[21]，填充率 ${ { p } ^ { f i l l } }$ 通常用于描述攻击概貌的结构，定义为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\np ^ { f i l l } = \\big | \\big \\{ \\ddag { \\nexists { \\vec { \\Xi } } ^ { \\prime } { \\vec { \\Sigma } } ^ { \\prime } { \\gg } ^ { \\prime } \\Delta \\ v { r } _ { \\perp \\perp } ^ { \\prime } } \\big \\} \\big | / n\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中：{填充物品}表示攻击概貌中除了攻击目标之外所填充的其余物品构成的集合， $n$ 表示物品总数。而攻击强度 $p ^ { a t t }$ 用于描述攻击用户存在的比重，定义为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\np ^ { a t t } = | \\{ \\mathfrak { X } \\mathfrak { X } \\} \\boxplus \\ngrave { \\Theta } | / | \\{ \\mathfrak { X } \\} | \\{ \\mathfrak { H } \\} | \\hat { \\Theta } \\} |\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中{攻击用户}表示托攻击用户构成的集合，{正常用户}表示正常用户构成的集合，|是集合的势，在此处表示集合中元素个数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在算法中所涉及的参数主要有 $\\beta , \\rho , \\lambda$ ，其取值可以通过在训练集上采用交叉验证的方式获得。本文设计了两组实验。第一组实验从托攻击用户查找的角度出发，检验 SATPR 算法在各种攻击下对于攻击用户的检测能力；第二组实验从评分预测的角度进行考虑，检验 SATPR 算法在各种攻击模式下的评分预测精度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验1 SATPR 算法检测实验 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在本实验中，将考察各种攻击下SATPR 算法对于托攻击用户的查准率，查全率以及F1度量。作为对比，本实验分别考虑了加入属性信息前与加入属性信息后，算法对于托攻击用户的检测性能。对于加入属性信息前的算法，将其记作SATPR_NoAttr。实验结果如表1\\~6所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/5d909896bb2a9c134c138b5d4116c0f94683031f5ae0e13682439edda3ae3666.jpg",
+        "table_caption": [
+            "表1随机攻击下SATPR_NoAttr算法的查准率,查全率和F1度量"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>patt</td><td>p</td><td>precision</td><td>recall</td><td>F1</td></tr><tr><td rowspan=\"4\">Push</td><td>10%</td><td>5%</td><td>0.7222</td><td>1.0000</td><td>0.8387</td></tr><tr><td>10%</td><td>10%</td><td>0.8667</td><td>1.0000</td><td>0.9286</td></tr><tr><td>20%</td><td>5%</td><td>0.7979</td><td>0.9222</td><td>0.8556</td></tr><tr><td>20%</td><td>10%</td><td>0.8107</td><td>1.0000</td><td>0.8954</td></tr><tr><td rowspan=\"4\">Nuke</td><td>10%</td><td>5%</td><td>0.6947</td><td>1.0000</td><td>0.8198</td></tr><tr><td>10%</td><td>10%</td><td>0.8750</td><td>1.0000</td><td>0.9333</td></tr><tr><td>20%</td><td>5%</td><td>0.7455</td><td>1.0000</td><td>0.8542</td></tr><tr><td>20%</td><td>10%</td><td>0.8068</td><td>1.0000</td><td>0.8930</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/17fd8e32bda87f62262ad3f17970a62cfc8880adae203293f7bcd9280cd20a83.jpg",
+        "table_caption": [
+            "表2随机攻击下SATPR算法的查准率,查全率和F1度量"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>patt</td><td>pfill</td><td>precision</td><td>recall</td><td>F1</td></tr><tr><td rowspan=\"4\">Push</td><td>10%</td><td>5%</td><td>0.7521</td><td>1.0000</td><td>0.8585</td></tr><tr><td>10%</td><td>10%</td><td>0.9891</td><td>1.0000</td><td>0.9945</td></tr><tr><td>20%</td><td>5%</td><td>0.8564</td><td>1.0000</td><td>0.9227</td></tr><tr><td>20%</td><td>10%</td><td>0.9824</td><td>1.0000</td><td>0.9911</td></tr><tr><td rowspan=\"4\">Nuke</td><td>10%</td><td>5%</td><td>0.7647</td><td>1.0000</td><td>0.8667</td></tr><tr><td>10%</td><td>10%</td><td>0.9785</td><td>1.0000</td><td>0.9891</td></tr><tr><td>20%</td><td>5%</td><td>0.8392</td><td>1.0000</td><td>0.9126</td></tr><tr><td>20%</td><td>10%</td><td>0.9824</td><td>1.0000</td><td>0.9911</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/67822bb4115e40f1da10d0d02b955482d3aa54d2fe89d190d1e84d2ff6f9a95d.jpg",
+        "table_caption": [
+            "表3均值攻击下SATPR_NoAttr算法的查准率,查全率和F1度量"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>patt</td><td>pfill</td><td>precision</td><td>recall</td><td>F1</td></tr><tr><td rowspan=\"4\">Push</td><td>10%</td><td>5%</td><td>0.7339</td><td>1.0000</td><td>0.8465</td></tr><tr><td>10%</td><td>10%</td><td>0.8750</td><td>1.0000</td><td>0.9333</td></tr><tr><td>20%</td><td>5%</td><td>0.7249</td><td>0.9940</td><td>0.8384</td></tr><tr><td>20%</td><td>10%</td><td>0.7915</td><td>1.0000</td><td>0.8836</td></tr><tr><td rowspan=\"4\">Nuke</td><td>10%</td><td>5%</td><td>0.6947</td><td>1.0000</td><td>0.8198</td></tr><tr><td>10%</td><td>10%</td><td>0.8667</td><td>1.0000</td><td>0.9286</td></tr><tr><td>20%</td><td>5%</td><td>0.7523</td><td>1.0000</td><td>0.8586</td></tr><tr><td>20%</td><td>10%</td><td>0.8146</td><td>1.0000</td><td>0.8978</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/399346b26d5a074b8a4cf3b5a6368d91573175a035402d0f4344c6f6df14488a.jpg",
+        "table_caption": [
+            "表4均值攻击下SATPR算法的查准率,查全率和F1度量"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>patt</td><td>pfill</td><td>precision</td><td>recall</td><td>F1</td></tr><tr><td rowspan=\"4\">Push</td><td>10%</td><td>5%</td><td>0.7398</td><td>1.0000</td><td>0.8505</td></tr><tr><td>10%</td><td>10%</td><td>0.9891</td><td>1.0000</td><td>0.9945</td></tr><tr><td>20%</td><td>5%</td><td>0.8608</td><td>1.0000</td><td>0.9252</td></tr><tr><td>20%</td><td>10%</td><td>0.9882</td><td>1.0000</td><td>0.9940</td></tr><tr><td rowspan=\"4\">Nuke</td><td>10%</td><td>5%</td><td>0.7109</td><td>1.0000</td><td>0.8311</td></tr><tr><td>10%</td><td>10%</td><td>0.9785</td><td>1.0000</td><td>0.9891</td></tr><tr><td>20%</td><td>5%</td><td>0.8564</td><td>1.0000</td><td>0.9227</td></tr><tr><td>20%</td><td>10%</td><td>0.9882</td><td>1.0000</td><td>0.9940</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/668ddaa6b7d4a171dfd533d4b231687227be4227e550a1edb79c324f5df08e19.jpg",
+        "table_caption": [
+            "表5流行攻击下SATPR_NoAttr算法的查准率,查全率和F1度量"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>patt</td><td>pfill</td><td>precision</td><td>recall</td><td>F1</td></tr><tr><td rowspan=\"4\">Push</td><td>10%</td><td>5%</td><td>0.7583</td><td>1.0000</td><td>0.8626</td></tr><tr><td>10%</td><td>10%</td><td>0.8585</td><td>1.0000</td><td>0.9239</td></tr><tr><td>20%</td><td>5%</td><td>0.7511</td><td>0.9940</td><td>0.8557</td></tr><tr><td>20%</td><td>10%</td><td>0.8029</td><td>1.0000</td><td>0.8907</td></tr><tr><td rowspan=\"4\">Nuke</td><td>10%</td><td>5%</td><td>0.8053</td><td>1.0000</td><td>0.8922</td></tr><tr><td>10%</td><td>10%</td><td>0.8750</td><td>1.0000</td><td>0.9333</td></tr><tr><td>20%</td><td>5%</td><td>0.7746</td><td>0.9880</td><td>0.8684</td></tr><tr><td>20%</td><td>10%</td><td>0.7877</td><td>1.0000</td><td>0.8813</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/03c6d50d4d5e05bd70afa7c3abe5fd5691fb934e84abf187c7e6395377ed71f1.jpg",
+        "table_caption": [
+            "表6流行攻击下SATPR算法的查准率,查全率和F1度量"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>patt</td><td>pfill</td><td>precision</td><td>recall</td><td>F1</td></tr><tr><td rowspan=\"4\">Push</td><td>10%</td><td>5%</td><td>0.8273</td><td>1.0000</td><td>0.9055</td></tr><tr><td>10%</td><td>10%</td><td>0.9891</td><td>1.0000</td><td>0.9945</td></tr><tr><td>20%</td><td>5%</td><td>0.8883</td><td>1.0000</td><td>0.9408</td></tr><tr><td>20%</td><td>10%</td><td>0.9940</td><td>1.0000</td><td>0.9970</td></tr><tr><td rowspan=\"4\">Nuke</td><td>10%</td><td>5%</td><td>0.8426</td><td>1.0000</td><td>0.9146</td></tr><tr><td>10%</td><td>10%</td><td>0.9891</td><td>1.0000</td><td>0.9945</td></tr><tr><td>20%</td><td>5%</td><td>0.9076</td><td>1.0000</td><td>0.9516</td></tr><tr><td>20%</td><td>10%</td><td>0.9940</td><td>1.0000</td><td>0.9970</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由实验结果可知，攻击强度与填充率越大，托攻击用户越易于检测，反之将会出现一定的误判。究其原因，由于托攻击通常是批量注入的，当攻击强度较高时，这种隐含的群体性特征通常会有助于连带找出其余的托攻击用户。从填充率来看，当填充率较高时，托攻击用户将会接近更多的正常用户，相比之下也越容易暴露出托攻击用户并非基于兴趣偏好打分而产生的不自然性；而填充率较低时，尚未能根据有限的评分表露出用户偏好，此时，正常用户与托攻击用户的评分概貌差别不大，因而往往会导致误判。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在查全率方面，SATPR_NoAttr算法在大部分攻击模式下基本达到了 $100 \\%$ ，而SATPR算法在各种攻击下的查全率均完全达到了 $100 \\%$ 。但在查准率方面，二者均未能达到 $100 \\%$ 。这说明两种算法基本上都可以将托攻击用户全部查找出来，但同时会将一些正常用户误判为托攻击用户。尽管如此，SATPR算法在各种攻击下的检测精度均优于SATPR_NoAttr算法。在F1度量方面，SATPR_NoAttr算法仅在 $90 \\%$ 左右，而SATPR算法在一些攻击模式下一度接近 $100 \\%$ ，这表示几乎没有遗漏也没有误判。实验结果验证了加入属性信息的有效性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "实验2SATPR 算法评分预测实验 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在本实验中，分别比较了三种推荐算法在托攻击干扰下的评分预测精度：第一种算法是常见的矩阵分解算法[2],记作MF;第二种算法是没有采取抗托攻击措施的SimMF算法；第三种算法是SATPR算法，这里在评分预测部分采用了SimMF算法，是AFMCSN托攻击检测模型与SimMF 算法的结合。实验结果",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如表7\\~12所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/56884116bde6304d7c761387c46c0f63e3081633f3c0a74322ec6c6558c0304f.jpg",
+        "table_caption": [
+            "表7随机攻击下的MAE值"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>patt</td><td>pfill</td><td>MF</td><td>SimMF</td><td>SATPR</td></tr><tr><td rowspan=\"4\">Push</td><td>10%</td><td>5%</td><td>0.6178</td><td>0.5829</td><td>0.4735</td></tr><tr><td>10%</td><td>10%</td><td>0.6050</td><td>0.5740</td><td>0.3139</td></tr><tr><td>20%</td><td>5%</td><td>0.6268</td><td>0.5840</td><td>0.4736</td></tr><tr><td>20%</td><td>10%</td><td>0.6067</td><td>0.5757</td><td>0.3347</td></tr><tr><td rowspan=\"4\">Nuke</td><td>10%</td><td>5%</td><td>0.6165</td><td>0.5751</td><td>0.4701</td></tr><tr><td>10%</td><td>10%</td><td>0.6001</td><td>0.5707</td><td>0.3362</td></tr><tr><td>20%</td><td>5%</td><td>0.6296</td><td>0.5864</td><td>0.4831</td></tr><tr><td>20%</td><td>10%</td><td>0.6045</td><td>0.5757</td><td>0.3301</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/c7c0393a9457dd68cd9d75083a173104d5f372bcfac462ab5d5b4e08a2a01f3b.jpg",
+        "table_caption": [
+            "表8随机攻击下的RMSE 值"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>patt</td><td>pfill</td><td>MF</td><td>SimMF</td><td>SATPR</td></tr><tr><td rowspan=\"4\">Push</td><td>10%</td><td>5%</td><td>0.7984</td><td>0.7276</td><td>0.6388</td></tr><tr><td>10%</td><td>10%</td><td>0.7862</td><td>0.7213</td><td>0.4240</td></tr><tr><td>20%</td><td>5%</td><td>0.8216</td><td>0.7349</td><td>0.6584</td></tr><tr><td>20%</td><td>10%</td><td>0.7871</td><td>0.7243</td><td>0.5412</td></tr><tr><td rowspan=\"4\">Nuke</td><td>10%</td><td>5%</td><td>0.8051</td><td>0.7293</td><td>0.6558</td></tr><tr><td>10%</td><td>10%</td><td>0.7826</td><td>0.7197</td><td>0.5084</td></tr><tr><td>20%</td><td>5%</td><td>0.8244</td><td>0.7398</td><td>0.6853</td></tr><tr><td>20%</td><td>10%</td><td>0.7919</td><td>0.7313</td><td>0.5154</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/5878bfa9a11c85f5558077a990746920aed64e4172183affc8e1e2d4b16e3fbf.jpg",
+        "table_caption": [
+            "表9均值攻击下的MAE值"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>patt</td><td>pfill</td><td>MF</td><td>SimMF</td><td>SATPR</td></tr><tr><td rowspan=\"4\">Push</td><td>10%</td><td>5%</td><td>0.6142</td><td>0.5810</td><td>0.3110</td></tr><tr><td>10%</td><td>10%</td><td>0.6050</td><td>0.5773</td><td>0.4565</td></tr><tr><td>20%</td><td>5%</td><td>0.6199</td><td>0.5862</td><td>0.4668</td></tr><tr><td>20%</td><td>10%</td><td>0.6171</td><td>0.5833</td><td>0.3102</td></tr><tr><td rowspan=\"4\">Nuke</td><td>10%</td><td>5%</td><td>0.6096</td><td>0.5760</td><td>0.4828</td></tr><tr><td>10%</td><td>10%</td><td>0.5967</td><td>0.5672</td><td>0.3148</td></tr><tr><td>20%</td><td>5%</td><td>0.6006</td><td>0.5715</td><td>0.4897</td></tr><tr><td>20%</td><td>10%</td><td>0.6150</td><td>0.5821</td><td>0.3397</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/d601ecd86f72b4d1f7f4487a453c625c74c764141bddb7d5bbc64623b2c193dc.jpg",
+        "table_caption": [
+            "表10均值攻击下的RMSE 值"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>patt</td><td>pfill</td><td>MF</td><td>SimMF</td><td>SATPR</td></tr><tr><td rowspan=\"4\">Push</td><td>10%</td><td>5%</td><td>0.8017</td><td>0.7313</td><td>0.4194</td></tr><tr><td>10%</td><td>10%</td><td>0.7837</td><td>0.7268</td><td>0.6063</td></tr><tr><td>20%</td><td>5%</td><td>0.8129</td><td>0.7427</td><td>0.6491</td></tr><tr><td>20%</td><td>10%</td><td>0.8067</td><td>0.7412</td><td>0.4387</td></tr><tr><td rowspan=\"4\">Nuke</td><td>10%</td><td>5%</td><td>0.7947</td><td>0.7268</td><td>0.6530</td></tr><tr><td>10%</td><td>10%</td><td>0.7807</td><td>0.7129</td><td>0.4268</td></tr><tr><td>20%</td><td>5%</td><td>0.7890</td><td>0.7283</td><td>0.7431</td></tr><tr><td>20%</td><td>10%</td><td>0.8033</td><td>0.7385</td><td>0.5209</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/7eeabc06ff77183d2775e2c9708894af327e6c664b69aa34b8fceb67a1eb4ba1.jpg",
+        "table_caption": [
+            "表11流行攻击下的MAE值"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>patt</td><td>pfill</td><td>MF</td><td>SimMF</td><td>SATPR</td></tr><tr><td rowspan=\"4\">Push</td><td>10%</td><td>5%</td><td>0.6038</td><td>0.5724</td><td>0.4370</td></tr><tr><td>10%</td><td>10%</td><td>0.6150</td><td>0.5892</td><td>0.3162</td></tr><tr><td>20%</td><td>5%</td><td>0.6206</td><td>0.5828</td><td>0.4366</td></tr><tr><td>20%</td><td>10%</td><td>0.6124</td><td>0.5841</td><td>0.2921</td></tr><tr><td rowspan=\"4\">Nuke</td><td>10%</td><td>5%</td><td>0.6009</td><td>0.5737</td><td>0.4359</td></tr><tr><td>10%</td><td>10%</td><td>0.6032</td><td>0.5780</td><td>0.3091</td></tr><tr><td>20%</td><td>5%</td><td>0.6247</td><td>0.5857</td><td>0.4517</td></tr><tr><td>20%</td><td>10%</td><td>0.6184</td><td>0.5881</td><td>0.2930</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/cd95adcab8fbaf068b7038eb1ca5d924b962c205fbd70812bcbcdf92866efd46.jpg",
+        "table_caption": [
+            "表12流行攻击下的RMSE 值"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>patt</td><td>pfill</td><td>MF</td><td>SimMF</td><td>SATPR</td></tr><tr><td rowspan=\"4\">Push</td><td>10%</td><td>5%</td><td>0.7898</td><td>0.7171</td><td>0.5865</td></tr><tr><td>10%</td><td>10%</td><td>0.8086</td><td>0.7430</td><td>0.4274</td></tr><tr><td>20%</td><td>5%</td><td>0.8178</td><td>0.7367</td><td>0.6428</td></tr><tr><td>20%</td><td>10%</td><td>0.7889</td><td>0.7274</td><td>0.4092</td></tr><tr><td rowspan=\"4\">Nuke</td><td>10%</td><td>5%</td><td>0.7803</td><td>0.7250</td><td>0.5917</td></tr><tr><td>10%</td><td>10%</td><td>0.7897</td><td>0.7352</td><td>0.4204</td></tr><tr><td>20%</td><td>5%</td><td>0.8188</td><td>0.7412</td><td>0.6779</td></tr><tr><td>20%</td><td>10%</td><td>0.8138</td><td>0.7455</td><td>0.4138</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由实验结果可知，注入攻击概貌后会降低推荐精度，在相同的填充率下，攻击强度增大会导致MAE与RMSE值变大。然而，在很多攻击模式下，相同的攻击强度，填充率越高，MAE与RMSE值反而会变小。由于填充项是攻击者为了伪装成正常用户而注入的，因此填充项是符合原始数据分布规律的，更多的填充项也意味着更多的正常数据，反而提升了数据集的鲁棒性。但对攻击者而言，若填充项过少，又很难影响到目标用户的推荐结果，从而无法达到攻击意图。为应对精心设计的托攻击注入模式，对应的抗托攻击策略也同样需要仔细分析。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在三种推荐算法中，SimMF算法的性能要优于基本的矩阵分解算法，可见SimMF算法充分利用了相似度进行加权，在一定程度上降低了推攻击的干扰。然而，SATPR算法取得了最优的性能，在各种攻击模式下，均得到了最小的MAE与RMSE值，这证明了SATPR算法在托攻击下的鲁棒性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文针对个性化推荐系统面临的托攻击问题，从结构化噪声矩阵补全角度出发，将托攻击用户评分建模为干扰了自然状态下评分矩阵近似低秩性的结构化行噪声，并利用 $L _ { 2 , 1 }$ 范数对这些托攻击评分进行解析。此外，本文在攻击检测过程中融入用户与物品的属性特征信息，提出了属性优化结构化噪声矩阵补全模型，提高了攻击检测精度。最后，本文基于所提出的AFMCSN托攻击检测模型，改进了传统的不具备抗托攻击能力的推荐算法，提出一种基于属性优化矩阵补全的抗托攻击个性化推荐算法。实验结果证明，在托攻击干扰下，SATPR算法依旧可以产生鲁棒的评分预测结果，在推荐系统的实际应用中具有现实意义。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]Martin F.J,Donaldson J,Ashenfelter A,et al.The big promise of recommender systems [J].AI Magazine.2011,32 (3):19-27.   \n[2]Koren Y,Bell R,and Volinsky C.Matrix factorization techniques for recommender systems [J].Computer.2009,42 (8): 30-37.   \n[3]Gunes I,Kaleli C,Bilge A,et al. Shilling atacks against recommender systems: a comprehensive survey[J]. Articial Intelligence Review. 2014,42 (4): 767-799.   \n[4]Zhang Qiang,Luo Yuan,Weng Chuliang,et al.A trust-based detecting mechanism against profile injection attacks in recommender systems [C]// Proc of the 3rd IEEE International Conference on Secure Software Integration And Reliability Improvement.20o9: 59-64.   \n[5]Bryan K,O'Mahony MP, Cunningham P. Unsupervised retrieval of attck profiles in collaborative recommender systems [C]//Proc of the 2nd ACM International Conference on Recommender System.20o8:155-162.   \n[6]Li Wentao,Gao Min,Li Hua,et al. Shilling atack detection in recommender systems via selecting patterns analysis [J]. IEICE Trans on Information & Systems,2016,E99-D (10): 2600-2611.   \n[7]Deng Zijun,Zhang Fei, Sandra P S,et al. Shilling attack detection in collaborative filtering recommender system by PCA detection and perturbation [C]//Proc of International Conference on Wavelet Analysis and Pattern Recognition.2016:213-218.   \n[8]陈蕾，杨庚，陈正宇，等．基于结构化噪声矩阵补全的Web服务QoS预 测[J].通信学报.2015,36(6):49-59.   \n[9]Xiao Fu, Sha Chaoheng,Chen Lei, et al.Noise-tolerant Localization From Incomplete Range Measurements for Wireless Sensor Networks [C]//Proc of INFOCOM.2015: 2794-2802.   \n[10] Zhang Zhao,Li Fanzhang,Zhao Mingbo,et al.Robust Neighborhood Preserving Projection by Nuclear//L2,1-Norm Regularization for Image Feature Extraction[J].IEEE Trans on Image Processing,2017,26(4):1607- 1622.   \n[11]汤镇宇，孟凡荣，王志晓．基于稀疏表示的快速L2-范数人脸识别方法 [J].计算机应用研究.2016,33(9):2831-2836.   \n[12] Srebroand N, Jaakkola T.Weighted low-rank approximations [C]//Proc of International Conference on Machine Learning,20o3:720-727.   \n[13] Candes E J, Recht B.Exact matrix completion via convex optimization [J]. Foundations of Computational Mathematics,2009,9(6): 717-772.   \n[14] Cai Xiao,Nie Feiping,Huang Heng,et al. Multi-Class L2,1-norm support vector machine [C]//Proc ofthe 11th IEEE InternationalConference on Data Mining. 2011: 91-100.   \n[15] Xu Miao,Jin Rong,Zhou Zhihua. Speedup matrix completion with side information: Application to multi-label learning [C]// Advances in Neural Information Processing Systems.2013:2301-2309.   \n[16] Beck A,Tetruashvili L.On the convergence of block coordinate descent methods [J]. SIAM Journal on Optimization,2013,23 (4): 2037-2060.   \n[17] Combettes PL,Wajs VR. Signal recovery by proximal forward-backward spliting[J].SIAM Journal on Multiscale Modeling & Simulation,2005,4 (4): 1168-1200.   \n[18] Ng AY,Jordan M I,Weiss Y.On spectral clustering:analysis and an algorithm [C]// Proc of International Conference on Neural Information Processing Systems: Natural and Synthetic. Cambridge: MIT Press,2001: 849-856.   \n[19] Shi Chuan,Huang Yue,Philip S.Yu,et al.HeteSim: A General Framework for Relevance Measure in Heterogeneous Networks [J]. IEEE Trans on Knowledge and Data Engineering.2014,26 (10): 2479-2492.   \n[20] Shi Chuan,Liu Jian,Zhuang Fuzhen,et al. Integrating Heterogeneous Information via Flexible Regularization Framework for Recommendation [J]. Knowledge and Information Systems.2016,49 (3): 835-859.   \n[21]李聪，骆志刚，石金龙．一种探测推荐系统托攻击的无监督算法[J]. 自动化学报,2011,37(2):160-167. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

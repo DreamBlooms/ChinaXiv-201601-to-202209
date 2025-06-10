@@ -1,0 +1,488 @@
+[
+    {
+        "type": "text",
+        "text": "Transformation among precipitation, surface water, groundwater, and mine water in the Hailiutu River Basin under mining activity ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Qian, MA Long\\*,LIU Tingxi Colegeof WaterConservancyandCivilEngineringColege,InnerMongoliaAgriculturalUniversity,HohhotOo018,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Coal mining has changed the hydrogeological conditions of river basins,and studying how the relationship among different types of water body has changed under the influence of coal mining is of great significance for understanding the regional hydrological cycle. We analyzed the temporal and spatial distribution of hydrochemical properties and environmental isotopes in the Hailiutu River Basin (HRB), China with a mixed model. The results showed that: (1) human activity (e.g.,coal mining and agricultural production) causes considerable changes in the hydrochemical properties of surface water in and around the mining areas,and leads to significant increases in the concentrations of ${ \\mathrm { N a ^ { + } } }$ and $\\mathrm { S O } _ { 4 } ^ { 2 - }$ ； (2) precipitation is the main source of water vapour in the HRB. The transformation between surface water and groundwater in the natural watershed is mainly affected by precipitation; and (3) in the mining areas, the average contribution rates of precipitation to the recharge of surface water and groundwater increased by $2 . 6 \\% - 7 . 9 \\%$ and $2 . 7 \\% - 9 . 9 \\%$ ，respectively. Groundwater in the Salawusu Formation constitutes up to $6 1 . 3 \\% - 7 2 . 4 \\%$ of mine water. Overall, this study is beneficial for quantifying the effects of coal mining on local hydrological cycles. The research results can provide a reference for local water resources management and ecological environment improvement. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: precipitation; mine Water; groundwater; surface water; transformation mode ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: LIQian,MALong,LIUTingxi.2O22.Transformationamong precipitation,surface water,groundwater,andmine waterintheHailiutuRiverBasin underminingactivity.JournalofArid Land,14(6):620-636. https://doi.0rg/10.1007/s40333-022-0020-1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The transformation among precipitation, surface water, and groundwater is important for understanding the hydrological cycle of arid or semi-arid regions. Coal mining in a river basin damages its aquifer structure， thereby complicating the transformation among precipitation, surface water, groundwater, and mine water,and obscures the characteristics, mode,and changes in these water transfers. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The transformation from river water to groundwater in a region constitutes a crucial step in its hydrological cycle.The spatial and temporal distribution and evolution of natural water bodies can be understood by identifying their hydrochemical components (Chen et al.,2O2O; Jampani et al., 2020; Lei et al., 2O21). The water vapour source,hydrochemical composition,and influencing factors of the basin are analyzed,and the temporal and spatial changes in hydrochemistry under the influence of different environments are analyzed (Sun and Chen, 2O18;Nofal et al.,2019; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wagh et al.,2O2O).The \"tracer\" effect of environmental isotopes can be used to further track the migration pathways of different water components，and interpret the transformation between surface water and groundwater (Hao et al., 2019; He et al., 2019; Du et al., 2021). Experts and scholars have conducted researches using hydrochemistry and isotope technology. A qualitative analysis of groundwater hydrochemical characteristics,polution levels,and human health risk assessment that used temporal and spatial variations in groundwater hydrochemistry was conducted in western India (Kadam et al.,2O21a,b). Hydrochemical and isotopic methods were used to study the mineralization processes of groundwater in the Walawe River Basin of Sri Lanka (Jayawardana, 2O2O).Mirzavand et al. (2O2O) analyzed the mechanism of groundwater salinization in the Kazan Basin of Iran with hydrochemical and isotopic methods.A study of groundwater in the Teboursouk Basin (Ayadi et al.,2O18) in northwestern Tunisia showed that the ion exchange process,rock dissolution,and precipitation infiltration are the main factors that influence groundwater mineralization and the spatial distribution of groundwater chemistry. Using hydrochemical and isotopic methods,Rezaei et al. (2O18) found that local precipitation is the main source of groundwater in the high-altitude area of Iran. Seasonal factors play a pivotal role in the transformation between surface water and groundwater in the arid and semi-arid regions of China (Wu et al., 2016; Chai et al., 2021; Song et al., 2021). Economic and social progress has recently heightened the impact of domestic and industrial activity on the transformation between surface water and groundwater. The aforementioned researches show that hydrochemistry and isotopes can be used to analyze both the changes in surface water and groundwater quality, and the supplement and discharge relationships among diferent types of water body. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Coal is a major source of energy that propels social advancement. However, extensive excavation of coal from mines increases regional hydrological cycle. Several researchers have examined the effects of coal mining on the transformation between groundwater and surface water (Wang et al., 2016; Qu et al.,2018; Hao et al.,2019). However, the temporal and spatial variations in the transformation among precipitation, surface water, groundwater, and mine water in mined and unmined areas of river basins are not yet understood.Research has shown that large-scale excavation destroys original topographical and rock structures (Batsaikhan et al., 2017; Svobodova et al.,2O19; Wang et al.,2O2O).For example,coal mining in eastern Donbas, Ukraine, has worsened surface settlement and rock deformation, resulting in a considerable decrease in the discharge of springs and surface water (Gavrishin, 2O18). In addition, mining activity in the East Singhbhum District of the Jharkhand state in eastern India has led to surface setlement and the formation of cracks in several surface areas，which has altered groundwater discharge and lowered water levels in the shallow aquifers of the surrounding areas (Singh et al., 2O18). Coal mining in the mining areas of northwestern China has brought about structural damage to the fractured and porous aquifers，and therefore caused a concentrated discharge of groundwater towards the goafs, resulting in increases in the recharge of groundwater by surface water(Guan et al., 2019; Guo et al., 2019; Han et al., 2020). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "By analyzing the spatial variation in hydrochemical properties and environmental isotopes, this study determines the changes of transformation among different types of water body and the influencing factors in natural watersheds and coal mining areas,and quantitatively identifies the amount of water transformed using the isotope mass balance equation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Study area and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Situated in the transitional zone between the Maowusu Desert and the Loess Plateau in northern Shaanxi，China, theHailiutu River Basin （HRB） $( 3 8 ^ { \\circ } 0 1 ^ { \\prime } 2 0 ^ { \\prime \\prime } - 3 8 ^ { \\circ } 5 0 ^ { \\prime } 4 2 ^ { \\prime \\prime } \\mathrm { N } _ { \\scriptscriptstyle \\mathrm { \\cdot } }$ $1 0 8 ^ { \\circ } 3 8 ^ { \\prime } 2 1 ^ { \\prime \\prime } { - } 1 0 9 ^ { \\circ } 2 4 ^ { \\prime } 1 9 ^ { \\prime \\prime } \\mathrm { E } )$ encompasses an area of $3 3 2 6 \\ \\mathrm { k m } ^ { 2 }$ ,and ranges in elevation from 1002 to $1 4 7 7 \\mathrm { ~ m ~ }$ a.s.l.,with high elevation in northwest and low in southeast. The terrain consists primarily of tidal flats and sandy lands,and its surface is covered mostly by aeolian sand, which is mainly composed of medium and fine grains,and is highly permeable,therefore favoring precipitation infiltration.Below the surface,the aquifer exists in the Salawusu Formation, which features a lithology mainly composed of medium and fine sand grains with a high water storage capacity. This aquifer serves as a major source of water for industrial and domestic activity within the region. Located within the semi-arid interior of northwestern China,the HRB has a temperate continental arid and semi-arid monsoonal climate characterized by high temperatures and precipitation in summer, and low temperatures and dry air in winter. Precipitation in this region considerably varies among seasons. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "According to the soil moisture characteristics, groundwater aquifers in the study area from top to botom are as folows: Quaternary Holocene eolian and alluvial aquifers,upper Pleistocene Salawusu Formation pore aquifer, pore fissure phreatic water and confined water aquifer of the Lower Cretaceous Luohe formation, Aquifuge of the Anding formation of the Middle Jurassic system,the Middle Jurassic Zhiluo Formation confined aquifer group,and the Middle Jurassic Yan'an formation confined aquifer group. The loose pore aquifer of the Salawusu Formation is shallowly buried,and is an important ecological water source and water supply source. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2Sampling and testing ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Hailiutu River Basin (HRB) is composed of the Hailiutu River (HR) and Yingdiliang River (YR; Fig.1). Based on hydrogeological and field surveys,and the geographic locations of coal mines in the area, we divided the study area into two parts: the natural watershed,and mining area and downstream of the HRB.The natural watershed is located in the upstream of the HR and YR, and its population is relatively small.The conversion between different types of water body is less affected by human activities and coal mining in this region. The mining areas and downstream of the HRB mainly include Yingpanhao (K1), Dahaize (K2),and Balasu (K3 and K4) coal mines. Figure 1 shows the sampling sites. A total of 118 water samples were collected during the normal water season (May), wet season (August),and dry season (October) of 2019.A total of 32 water samples were collected during normal water season (groundwater samples: H1-H5, H8, H12-H16, H18, Y1,and Y2; surface water samples: h1-h4, h6, h7,and y1-y3; mine water samples: K1-K4; and precipitation samples: JS1-JS4),and 86 water samples were collected during wet and dry seasons (groundwater samples: H1-H18, Y1,and Y2; surface water samples: h1-h11 and y1-y4; mine water samples: K1-K4; and precipitation samples: JS1-JS4). Each water sample collcted was placed in a $2 5 0 \\mathrm { - m L }$ brown polyethylene sampling bottle that had been previously cleaned. During this process, the sampling botle was rinsed three to five times. Each groundwater sample was bottled 1 to 3 min after extraction. Each sampling botte was completely filled with the corresponding water sample，and no bubbles existed for preventing from evaporation. The sampling bottles were sealed with Parafilm,and placed in an insulated box at $0 ^ { \\circ } \\mathrm { C } \\mathrm { - } 4 ^ { \\circ } \\mathrm { C }$ ，after which they were transported to the laboratory for testing. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e3b73884462e0b23d4e3ed83baff9607713da9fda9f96431ef57794256c4a447.jpg",
+        "img_caption": [
+            "Fig.1Location of the sampling sites in the Hailiutu River Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "An HI98129/HI98130 portable multiparameter water quality meter (HANNA instruments, Italy) was used to measure the $\\mathrm { \\ p H }$ ,degree of mineralization (i.e., content of total dissolved solids (TDS)), and electrical conductivity of the water samples. In addition， sampling site information was recorded. The concentrations of conventional ions ( $\\mathrm { K ^ { + } }$ ， $\\mathrm { C a ^ { 2 + } }$ ， $\\mathrm { \\Delta N a ^ { + } }$ ， $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ ， $\\mathrm { C l ^ { - } }$ ， $\\mathrm { N O } _ { 3 } ^ { - }$ ，and ${ \\mathrm { S O } } _ { 4 } ^ { 2 - }$ ） were measured using a Dionex Aquion Ion Chromatography (Thermo Fisher Scientific,USA). The concentration of $\\mathrm { H C O } _ { 3 } ^ { - }$ was measured through hydrochloric acid titration with methyl orange. The analytical accuracy of cations and anions was determined by the ion balance error (IBE). Ions were calculated with the unit of $\\mathrm { m g / L }$ ，and the error of IBE observations was $\\pm 5 \\%$ .The concentrations of heavy metal elements (Cu,Mn,Al,Ni,Pb,Cu,Ge,and $\\mathbf { A } \\mathbf { g } ^ { \\cdot }$ ）were determined using an inductively coupled plasma source mass spectrometer (Thermo Fisher Scientific, USA). Stable H and O isotopes (i.e., D and $^ { 1 8 } \\mathrm { O }$ ，respectively） were measured with an LGR IWA-45EP liquid-water isotope analyser (IWA-45EP, Los Gatos Research Inc., USA) with testing accuracies better than $\\pm 0 . 1 \\%$ and $\\pm 0 . 5 \\%$ for the isotopic ratio of $^ { 1 8 } \\mathrm { O }$ （ $( \\delta ^ { 1 8 } \\mathrm { O } )$ to D (δD),respectively. The isotopic results are expressed in thousands of deviations relative to V-SMOW (Vienna standard mean ocean water),and the isotope ratio δ is calculated as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta ( \\% _ { 0 } ) = \\frac { R _ { \\mathrm { s a m p l e } } - R _ { \\mathrm { V - S M O W } } } { R _ { \\mathrm { V - S M O W } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $R _ { \\mathrm { s a m p l e } }$ is the ratio of $\\mathrm { D / H }$ or $^ { 1 8 } \\mathrm { O } / ^ { 1 6 } \\mathrm { O }$ in the water sample; and $R _ { \\mathrm { V } }$ SMow is the ratio of $\\mathrm { D / H }$ or $^ { 1 8 } \\mathrm { O } / ^ { 1 6 } \\mathrm { O }$ of V-SMOW standard water sample. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Data analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The hydrochemical types of the water samples were analyzed using a Piper trilinear diagram and Schukarev classfication. A Piper trilinear diagram was drawn using AqQA software,and the Schukarev classification was calculated and analyzed in Excel 2013. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Gibbs diagram was used to analyze the factors that influenced the water hydrochemical types,and was drawn in Excel 2013. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We established a multivariate linear mixed model according to the mass and concentration balance equation to quantitatively analyze the rates of contribution of atmospheric precipitation, surface water, groundwater, and mine water, which were calculated using IsoSource software. The formulae for these calculations are as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\delta _ { \\mathrm { M } } ( ^ { 0 } \\% _ { 0 } ) = f _ { 1 } \\delta _ { 1 } + f _ { 2 } \\delta _ { 2 } + \\ldots + f _ { n } \\delta _ { n } , }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { 1 } + f _ { 2 } + \\ldots + f _ { n } = 1 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\delta _ { \\mathrm { M } }$ is the δD or $\\delta ^ { 1 8 } \\mathrm { O }$ of the mixed water; $\\delta _ { n }$ is the δD or $\\delta ^ { 1 8 } \\mathrm { O }$ of the $n ^ { \\mathrm { t h } }$ endmember; and $f _ { n }$ is the mixing ratio of the $n ^ { \\mathrm { t h } }$ endmember. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1Hydrochemical characteristics ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "According to the results of the main concentrations of surface water and groundwater in the HRB (Table 1),mean TDS values of surface water in the study area were 47O,367,and $4 0 3 ~ \\mathrm { { m g / L } }$ during the normal water, wet,and dry seasons,respectively,while the $\\mathrm { p H }$ values of surface water did not significantly vary seasonally, and were generally weakly. In each season, $\\mathrm { { N a ^ { + } } }$ and $\\mathrm { H C O } _ { 3 } ^ { - }$ were the dominant cation and anion in surface water, respectively. The maximum values of TDS and $S O _ { 2 - 4 }$ in each season were measured near the downstream of the Tuanjie Reservoir near the Yingpanhao mining area. This result indicated that drainage during coal mining period caused damage to the surface water quality of the HRB. The $\\mathrm { \\Delta N a ^ { + } }$ content of surface water was higher in the normal water season, because agricultural production activity occurred from May to July in northern China,and the concentration of $\\mathrm { { N a ^ { + } } }$ in surface water increased due to the impact of agricultural production activities. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/be0b7eec9e49d2ae4ea4c7d1f0ee08a61ed814e4779188212fa8783b83378f01.jpg",
+        "table_caption": [
+            "Table 1Major ions concentrations in surface water and groundwater of the Hailiutu River Basin "
+        ],
+        "table_footnote": [
+            "Note:Max,maxium;Min,minmum;SD,standarddeviation;CVcoeffcietofvariation.Tebbreviationsaretheaeinbles3 and 4. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Season</td><td colspan=\"10\">Statistic</td></tr><tr><td>index</td><td>(g/)</td><td>Mg</td><td>(mg/)</td><td>(mg/L)</td><td>(mg/)</td><td>g/)</td><td>HCO</td><td>Ng/L)</td><td>TD/S</td><td>pH</td></tr><tr><td rowspan=\"5\">Normal</td><td>Max</td><td>162.91</td><td>57.06</td><td>1762.11</td><td>14.15</td><td>318.44</td><td>2679.93</td><td>469.88</td><td>11.02</td><td>1258.00</td><td>9.07</td></tr><tr><td>Min</td><td>4.70</td><td>0.78</td><td>29.97</td><td>0.35</td><td>33.21</td><td>98.90</td><td>181.23</td><td>3.49</td><td>212.00</td><td>8.24</td></tr><tr><td>Average</td><td>46.74</td><td>19.25</td><td>788.37</td><td>5.70</td><td>133.14</td><td>907.40</td><td>274.81</td><td>7.44</td><td>576.00</td><td>8.43</td></tr><tr><td>SD</td><td>49.98</td><td>19.25</td><td>582.12</td><td>4.90</td><td>98.59</td><td>949.17</td><td>94.39</td><td>2.80</td><td>381.00</td><td>0.28</td></tr><tr><td>CV</td><td>1.07</td><td>1.00</td><td>0.74</td><td>0.86</td><td>0.74</td><td>1.05</td><td>0.34</td><td>0.38</td><td>0.66</td><td>0.03</td></tr><tr><td rowspan=\"5\">Wet</td><td>Max</td><td>150.43</td><td>70.24</td><td>464.34</td><td>6.71</td><td>69.52</td><td>609.52</td><td>276.42</td><td>12.25</td><td>997.00</td><td>9.04</td></tr><tr><td>Min</td><td>60.70</td><td>27.08</td><td>17.34</td><td>0.84</td><td>10.50</td><td>41.10</td><td>198.93</td><td>0.05</td><td>176.00</td><td>8.01</td></tr><tr><td>Average</td><td>99.37</td><td>41.57</td><td>134.58</td><td>2.65</td><td>31.13</td><td>171.53</td><td>245.69</td><td>4.25</td><td>422.00</td><td>8.37</td></tr><tr><td>SD</td><td>25.75</td><td>14.94</td><td>154.33</td><td>2.16</td><td>17.35</td><td>164.46</td><td>24.08</td><td>3.92</td><td>277.00</td><td>0.27</td></tr><tr><td>CV</td><td>0.26</td><td>0.36</td><td>1.15</td><td>0.82</td><td>0.56</td><td>0.96</td><td>0.10</td><td>0.92</td><td>0.66</td><td>0.03</td></tr><tr><td rowspan=\"5\">Dry</td><td>Max</td><td>262.82</td><td>76.73</td><td>1100.39</td><td>18.27</td><td>134.36</td><td>1810.76</td><td>338.05</td><td>33.18</td><td>1090.00</td><td>8.83</td></tr><tr><td>Min</td><td>62.85</td><td>4.41</td><td>54.22</td><td>1.76</td><td>17.01</td><td>48.87</td><td>228.83</td><td>1.81</td><td>191.00</td><td>8.20</td></tr><tr><td>Average</td><td>131.77</td><td>39.98</td><td>374.63</td><td>7.77</td><td>57.12</td><td>506.39</td><td>275.14</td><td>8.41</td><td>473.00</td><td>8.53</td></tr><tr><td>SD</td><td>56.25</td><td>28.59</td><td>338.33</td><td>4.94</td><td>36.01</td><td>570.91</td><td>29.65</td><td>8.81</td><td>291.00</td><td>0.15</td></tr><tr><td>CV</td><td>0.43</td><td>0.72</td><td>0.90</td><td>0.64</td><td>0.63</td><td>1.13</td><td>0.11</td><td>1.05</td><td>0.62</td><td>0.02</td></tr><tr><td colspan=\"10\">Groundwater</td></tr><tr><td rowspan=\"5\">Normal</td><td>Max</td><td>122.86</td><td>20.13</td><td>600.50</td><td>4.59</td><td>107.12</td><td>174.63</td><td>268.22</td><td>226.08</td><td>258.00</td><td>8.16</td></tr><tr><td>Min</td><td>2.86</td><td>0.47</td><td>10.25</td><td>0.34</td><td>14.26</td><td>19.55</td><td>144.98</td><td>1.61</td><td>93.00</td><td>7.55</td></tr><tr><td>Average</td><td>26.80</td><td>7.76</td><td>82.39</td><td>1.09</td><td>32.68</td><td>74.78</td><td>185.29</td><td>51.94</td><td>169.00</td><td>7.86</td></tr><tr><td>SD</td><td>32.19</td><td>6.49</td><td>158.93</td><td>1.08</td><td>24.92</td><td>43.10</td><td>34.09</td><td>61.61</td><td>42.40</td><td>0.17</td></tr><tr><td>CV</td><td>1.20</td><td>0.84</td><td>1.93</td><td>0.99</td><td>0.76</td><td>0.58</td><td>0.18</td><td>1.19</td><td>0.25</td><td>0.02</td></tr><tr><td rowspan=\"5\">Wet</td><td>Max</td><td>159.69</td><td>57.97</td><td>79.32</td><td>15.52</td><td>37.16</td><td>69.32</td><td>336.83</td><td>69.16</td><td>328.00</td><td>8.56</td></tr><tr><td>Min</td><td>2.00</td><td>4.91</td><td>6.35</td><td>0.03</td><td>3.53</td><td>12.52</td><td>124.48</td><td>0.00</td><td>109.00</td><td>7.71</td></tr><tr><td>Average</td><td>68.03</td><td>25.01</td><td>26.00</td><td>1.31</td><td>11.18</td><td>25.46</td><td>201.60</td><td>16.09</td><td>176.00</td><td>8.06</td></tr><tr><td>SD</td><td>35.22</td><td>14.35</td><td>19.68</td><td>3.46</td><td>9.07</td><td>14.16</td><td>49.99</td><td>17.92</td><td>59.04</td><td>0.20</td></tr><tr><td>CV</td><td>0.52</td><td>0.57</td><td>0.76</td><td>2.65</td><td>0.81</td><td>0.56</td><td>0.25</td><td>1.11</td><td>0.34</td><td>0.02</td></tr><tr><td rowspan=\"5\">Dry</td><td>Max</td><td>150.42</td><td>55.63</td><td>224.22</td><td>10.57</td><td>39.42</td><td>145.29</td><td>372.83</td><td>153.24</td><td>245.00</td><td>8.67</td></tr><tr><td>Min</td><td>21.39</td><td>2.78</td><td>18.85</td><td>0.21</td><td>5.58</td><td>10.32</td><td>155.60</td><td>0.16</td><td>103.00</td><td>7.67</td></tr><tr><td>Average</td><td>78.38</td><td>21.42</td><td>59.85</td><td>2.12</td><td>13.11</td><td>43.36</td><td>229.40</td><td>30.53</td><td>168.00</td><td>8.23</td></tr><tr><td>SD</td><td>32.77</td><td>15.85</td><td>50.91</td><td>2.69</td><td>8.43</td><td>35.53</td><td>58.16</td><td>44.45</td><td>47.28</td><td>0.26</td></tr><tr><td>CV</td><td>0.42</td><td>0.74</td><td>0.85</td><td>1.27</td><td>0.64</td><td>0.82</td><td>0.25</td><td>1.46</td><td>0.28</td><td>0.03</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "TDS contents of groundwater were 173,177,and $1 8 6 ~ \\mathrm { { m g / L } }$ in the normal water, wet,and dry seasons,respectively,while the $\\mathrm { p H }$ values varied within the weakly alkaline range.Evidently, the TDS content of groundwater was low, and did not significantly vary. $\\mathrm { { N a ^ { + } } }$ and $\\mathrm { C a } ^ { 2 + }$ were the dominant cations in groundwater, while $\\mathrm { H C O } _ { 3 } ^ { - }$ was the dominant anion. The average $\\mathrm { H C O } _ { 3 } ^ { - }$ concentration in groundwater was the largest, and the variation was relatively minor, which indicated that $\\mathrm { H C O } _ { 3 } ^ { - }$ concentration of groundwater in the HRB accounted for the largest proportion,and was stable. $\\mathrm { { N a ^ { + } } }$ $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ ， $\\mathrm { C l ^ { - } }$ ,and $\\mathrm { S O } _ { 4 } ^ { 2 - }$ varied widely in the basin,which showed that the ion concentrations in different areas greatly varied,and was vulnerable to natural and human activities. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2Hydrochemical composition characteristics ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A Piper trilinear diagram was ploted to classify the hydrochemical types of surface water, groundwater, and mine water. In the unmined area (Fig.2), ${ \\mathrm { H C O } } _ { 3 } – { \\mathrm { C a - M g } }$ was the dominant hydrochemical type of surface water,while ${ \\mathrm { H C O } } _ { 3 } – { \\mathrm { C a - M g } }$ were the main hydrochemical type of the groundwater. In comparison,in the mining areas and downstream of the TRB,the dominant hydrochemical types of surface water transitioned to $\\mathrm { H C O _ { 3 } } – \\mathrm { S O _ { 4 } } – \\mathrm { N a } – \\mathrm { C a }$ ，while $\\mathrm { H C O } _ { 3 } { \\mathrm { - } } \\mathrm { C a } { \\mathrm { - } } \\mathrm { M g }$ and $\\mathrm { H C O } _ { 3 } – \\mathrm { C a - M g }$ were the main hydrochemical types of groundwater. There were minor differences in the hydrochemical types of the mine water, with $\\mathrm { H C O } _ { 3 } – \\mathrm { S O } _ { 4 } .$ Ca as its primary hydrochemical type.Analysis of the Piper trilinear diagram revealed similar values in surface water and groundwater sampling sites in the mining areas and downstream of the TRB，which can be ascribed to the higher population density and the presence of a large number of mines within this ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "80% %08 T (a) Normal water season 80% > -SO4+Cl→ 60% %00 -Ca+Mg- SO4+Cl→ 60% %09 ←Ca+Mg40% Calcium %00 1 40% %0t 20% mixedpa-, %0 G H14 %0 KK Bicarbonate' Sodim MH3 h4 20% /mixedpa-\\, 20% %0 20%   \n-Mg→ 0 +CO3 0 0 SO4- -Mg→ 60% 安 K3 %0 %09 K ←HCO+CO3- 80% SO4- 60%   \n20 %08 ↓ 80% 80% 80% BK KJ 420% type K K 0 60% 0% 20% 驾%g de 60% 0 G 驾s ←Ca- Cl→ ←Ca- -Cl→ (b) Wet season 80% (c)Dry season 80% %08 T -SO4+Cl→ 60% %09 ←Ca+Mg- -SO4+C1> 60% oo h6 %04 o H1 20% J 20 o H18 K %0 11 h2 路 超 RK JHK6 ? K1jhtoj H4 HM HI6 K   \n-Mg→ 20% 40% 80% gyk 2 理 J 2 %0 %0 %09 -Na+K→ %08 K K H3 ←HCO+CO3- 80% 60% 40% 20% 品 2 80% 0 20% -Mg 20% 0% ? 80% HK4 H1783 K 1 %0 116 N 80% A K H4 K K ←HCO3+CO3- 80% 60% oo 20% h- H1 K 80% ? 20% SO4- K NKKgJ 60% o 0 碧 80% 0 20% ←Ca- -Cl→ ←Ca- -Cl→ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "area.Factors such as dewatering and drainage during mining as well as human activity lead to a stronger hydraulic connection between surface water and groundwater. The exchange between surface water and groundwater was more frequent during the wet season due to increased precipitation. As a consequence of dewatering and drainage operations during mining, $\\mathrm { S O } _ { 4 } ^ { 2 - }$ more strongly affected the hydrochemical property in the middle and upper reaches of the HRB,which were close to the Yingpanhao coal mine area. $\\mathrm { S O } _ { 4 }$ -Na were the hydrochemical type of surface water (h1-h3） in this area,which can be primarily atributed to the abnormal increase $S 0 _ { 4 } ^ { 2 - }$ content caused by the prolonged residence time of the gypsum contained in surface water of the reservoir under construction in this area. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3 Factors influencing hydrochemical composition ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The Gibbs diagram can facilitate analyses of the hydrochemical composition and mechanism of formation of natural watershed， and can directly reflect which of the principal factors—evaporation and concentration， rock weathering，or precipitation—governtheir hydrochemical composition.In the Gibbs diagram，the logarithm of TDS（ $y$ -axis）was plotted against the $\\mathrm { N a ^ { + } / ( N a ^ { + } { + } C a ^ { 2 + } ) }$ and $\\mathrm { C l ^ { - } / ( C l ^ { - } { + } H C O _ { 3 } ^ { - } ) }$ ）ratios( $x \\mathrm { . }$ -axis).Figure 3 showed the Gibbs diagram for different types of water body in the study area. In the study area, rock weathering as well as evaporation and concentration collctively govern the hydrochemical types of surface water,while rock weathering primarily affected the hydrochemical types of groundwater and mine water. Compared with the unmined area, more surface water sampling sites in the mining areas and downstream of the HRB fall outside the Gibbs diagram, which suggested that human activity significantly impacted the hydrochemical types of surface water in this area. A greater number of surface water and groundwater sampling sites were found to deviate from the Gibbs model during the normal water season than during the other two seasons, which may be attributed to the greater impact of agricultural production activity on the hydrochemical types due to its higher frequency during the normal water season. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/3877c07de2ea5a626766fb6e0c991557abab8888dd9404c3f248497c9caf482a.jpg",
+        "img_caption": [
+            "Fig.3Gibbs diagram for different types of water body. (al and a2),normal water season; (bl and b2)，wet season;(c1 and c2),dry season. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The Gibbs diagram cannot determine the hydrochemical source and formation process of water. Therefore，the relationships between diferent ions can be determined by using the ion concentration of water samples,and the main ion sources of surface water, groundwater, and mine water in the study area can be analyzed. When $\\left( \\mathbf { C } \\mathbf { a } ^ { 2 + } { + } \\mathbf { M } \\mathbf { g } ^ { 2 + } \\right) / ( \\mathbf { H } \\mathbf { C O } _ { 3 } ^ { - } { + } \\mathbf { S O } _ { 4 } ^ { 2 - } )$ was greater than 1, the $\\mathrm { C a } ^ { 2 + }$ and $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ in water were mainly derived from carbonate dissolution; when this value was less than 1,the $\\mathrm { C a } ^ { 2 + }$ and $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ in water were mainly derived from silicate dissolution.Most of the water samples in the ratio diagram between surface water and groundwater $( \\mathrm { C a ^ { 2 + } { + } M g ^ { 2 + } } ) / ( \\mathrm { H C O _ { 3 } ^ { - } } +$ $S O _ { 4 } ^ { 2 - } \\cdot$ ) in the natural watershed were distributed at the upper left of the 1:1 line,which showed that the main ions in waters of the HRB came from the dissolution of carbonate (Fig. 4).In the $\\mathrm { ( C a ^ { 2 + } { + } M g ^ { 2 + } ) / S O _ { 4 } ^ { 2 - } }$ diagram,most of surface water and groundwater samples were distributed on the upper left side of the 1:1 line. The surface and groundwater samples were distributed on both sides of the 1:1 line in the normal water season,which indicated that $\\mathrm { C a } ^ { 2 + } { + } \\mathrm { M g } ^ { 2 + }$ and $\\mathrm { S O } _ { 4 } ^ { 2 - }$ contents of the water in the normal water season were similar, while $\\mathrm { C a } ^ { 2 + } { + } \\mathrm { M g } ^ { 2 + }$ contents of the water in the wet and dry seasons were greater. In the $( \\mathbf { C a ^ { 2 + } { + } M g ^ { 2 + } } ) / \\mathbf { H C O } _ { 3 } ^ { - }$ diagram,most of surface water and groundwater samples fellto the upper left of the 1:1 line, which indicated that the dissolution of carbonate played a dominant role in the formation of hydrochemistry. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "201816141210° 20 20 (a) 18 (b) 2:1 1816 (c)   \n(+-+ 1:1 1:1 1:1 16 4:1 14 14 12 12 1:2 10 10 1:2   \n86 8 8 1:4 6 6 1:4   \n4 4 4   \n2 2 2   \n0 0 0   \n02468101214161820 024 68101214161820 02468101214161820 HCOj+SO4 (mmol/L) SO4 (mmol/L) HCO (mmol/L) Surface water · Normal water season Wet season Dry season ←Mine water Groundwater △ Normal water season Wet season Dry season ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4 Distribution of heavy metals ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Cu,Mn,Al, Ni, Pb, Cu,and Ge were detected in groundwater samples retrieved from the HRB. On average, Al was the most concentrated heavy metal in groundwater samples,followed by Zn, Cu,Mn, Ni, Ge,and Pb.Analysis revealed 2.50,1.73,and 2.45 times higher concentrations of $\\mathrm { C u }$ Mn,and Al,respectively,in the mining areas and downstream of the HRB,relative to their concentrations in the unmined area.We produced a composition diagram for heavy metals detected in groundwater based on the Class II water standard stipulated in Groundwater Quality Standards (GB/T14848-2017, 2017) (Fig. 5). All groundwater samples collcted from the study area were clearly within the upper limits defined in the Class II water standard, which suggested that groundwater in the study area posed a low risk to human health,and that domestic and industrial (e.g., mining) activity had litle impact on the heavy metal contents of groundwater. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.5 Isotopic composition characteristics ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.5.1 Precipitation ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "SD and $\\delta ^ { 1 8 } \\mathrm { O }$ values of water were relatively stable during the water cycle, with precipitation being a crucial step,and their variation in precipitation informed the evolution of the hydrological cycle. By calculating values of SD and $\\delta ^ { 1 8 } \\mathrm { O }$ in meteoric waters across the globe, Craig produced a global meteoric water line (GMWL） equation: $\\scriptstyle 8 \\mathrm { D } = 8 \\delta ^ { 1 8 } \\mathrm { O } + 1 0$ ： $\\delta ^ { 1 8 } \\mathrm { O }$ and SD analyses of the meteoric water in the HRB (Fig. 6) yielded the following local meteoric water line (LMWL) equation: $\\mathrm { \\delta _ { } 8 D = 7 . 6 0 \\delta ^ { 1 8 } O + 4 . 4 1 }$ . As shown in Table 2, the values of SD and $\\delta ^ { 1 8 } \\mathrm { O }$ ranged from $- 1 3 . 6 \\text{‰}$ to $- 6 . 6 7 \\text{‰}$ and from $- 1 0 1 . 4 4 \\text{‰}$ to $- 4 5 . 5 2 \\text{‰}$ , respectively. Both the slope and intercept of the LMWL derived from the measurements were smaller than those of the GMWL, which was a result of the evaporation of migrating water vapour that encountered the dry ambient environment in the northwestern interior of China,where the HRB is located. Values of SD and $\\delta ^ { 1 8 } \\mathrm { O }$ in precipitation varied with time to some extent. Specifically， these two isotopes were enriched during the wet season and relatively depleted during the normal water and dry seasons. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/85e5b2a041bcd140167f700f3db600bba41cbc11f8b12f3d898e245f2af55135.jpg",
+        "img_caption": [
+            "Fig.5Composition of heavy metals inthe groundwater.(a),Al; (b),Mn; (c),Ni; (d),Cu; (e),Zn; (f),Ge; (g),Pb. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/9682076254a6a288c2031e74248f56092b98fe6460f80920fc2eb2fbb25314d0.jpg",
+        "img_caption": [
+            "Fig.6Relationship between SD and $\\delta ^ { 1 8 } \\mathrm { O }$ in precipitation.LWML,local meteoric water line;GWML,global meteoricwaterline. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/d703a22e44dbc03f6816475f59bb47720ad09baa4c2612b9267f429754513013.jpg",
+        "table_caption": [
+            "Table 2δD and $\\delta ^ { 1 8 } \\mathrm { O }$ data of precipitation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Season</td><td colspan=\"3\">8180 (%0)</td><td colspan=\"3\">δD(%0)</td></tr><tr><td>Maximum</td><td>Minimum</td><td>Average</td><td>Maximum</td><td>Minimum</td><td>Average</td></tr><tr><td>Normal water</td><td>-8.46</td><td>-13.42</td><td>-10.67</td><td>-48.11</td><td>-75.89</td><td>-59.85</td></tr><tr><td>Wet</td><td>-6.67</td><td>-10.94</td><td>-8.71</td><td>-62.42</td><td>-97.07</td><td>-78.05</td></tr><tr><td>Dry</td><td>-9.77</td><td>-13.60</td><td>-11.93</td><td>-73.60</td><td>-101.44</td><td>-86.70</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.5.2 Surface water, groundwater, and mine water ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Considerable variation was observed in $\\delta ^ { 1 8 } \\mathrm { O }$ values of surface water and groundwater in the study area during the normal water, wet,and dry seasons, with larger variations found in surface water than in groundwater. $\\delta ^ { 1 8 } \\mathrm { O }$ values of surface water ranged from $- 6 . 2 1 \\text{‰}$ to $- 8 . 5 \\text{‰}$ (with an average of $- 7 . 4 5 \\text{‰}$ ,from $- 4 . 3 3 \\text{‰}$ to $- 9 . 2 3 \\text{‰}$ (with an average of $- 7 . 7 1 \\text{‰}$ ),and from $- 6 . 8 1 \\text{‰}$ to $- 9 . 0 1 \\text{‰}$ (with an average of $- 7 . 7 7 \\text{‰}$ ) during the normal water, wet,and dry seasons, respectively. $\\delta ^ { 1 8 } \\mathrm { O }$ values of groundwater varied from $- 1 1 . 0 2 \\text{‰}$ to $- 7 . 5 7 \\text{‰}$ (with an average of $- 8 . 9 1 \\text{‰}$ ,from $- 1 0 . 6 6 \\text{‰}$ to $- 7 . 2 3 \\text{‰}$ (with an average of $- 8 . 7 2 \\text{‰}$ ), and from $- 1 0 . 3 5 \\%$ to $- 7 . 5 \\text{‰}$ (with an average of $- 8 . 8 6 \\text{‰}$ ） during the normal water, wet, and dry seasons,respectively. $\\delta ^ { 1 8 } \\mathrm { O }$ value of both surface water and groundwater peaked during the wet season. $\\delta ^ { 1 8 } \\mathrm { { O } }$ values of surface water and groundwater at most sites fell within the range of $\\delta ^ { 1 8 } \\mathrm { O }$ in precipitation. This finding showed that atmospheric precipitation was the main source of surface water and groundwater. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "An analysis of the relationship between δD and $\\delta ^ { 1 8 } \\mathrm { O }$ in the unmined area (Fig. 7a) revealed a weak hydraulic connection between its surface water and groundwater. At most sites, SD and $\\delta ^ { 1 8 } \\mathrm { O }$ values were higher in surface water than in groundwater, which can be ascribed to pronounced isotopic enrichment of surface water due to heavy evaporation. The similar $\\delta ^ { 1 8 } \\mathrm { O }$ and δD values found in surface water and groundwater during the wet season suggested a relatively strong hydraulic connection between these values during this season. Figure 7b showed the relationship between $\\delta ^ { 1 8 } \\mathrm { O }$ and SD in different types of water body in the mining areas and downstream of the HRB.Compared with the unmined area, surface water and groundwater in the mining areas and downstream of the TRB were similar in isotopic composition，which suggested a stronger hydraulic connection, which may be atributed to an accelerated exchange between these types of water caused by human activity and coal mining. Even greater similarity in isotopic composition can be observed in surface water and groundwater during the wet season, reflected that frequent exchange between these types of water. Groundwater data for the dry season were closer to those from the LMWL,which was a consequence of intensified evaporation of shalow groundwater due to decreased precipitation. $\\delta ^ { 1 8 } \\mathrm { O }$ and δD values of the mine water did not significantly varied with sampling time. $\\delta ^ { 1 \\bar { 8 } } \\mathrm { O }$ and SD values of the mine water were more consistent with those in the groundwater than with those of surface water. This finding suggested that the aquifer in the study area was deep,and had a weak hydraulic exchange capacity, and groundwater was a more capable recharge source for the mine water. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/0dba60b787470ada284e2018d3e1c852e18b75b516948209d17bad34400a0681.jpg",
+        "img_caption": [
+            "Fig.7Relationship between SD and $\\delta ^ { 1 8 } \\mathrm { O }$ .(al and a2),normal water season;(b1 and b2),wet season;(c1 and c2),dry season. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/55dc96da79179fb918e9794f038fcb733f63d15a5a75979bfa0bdc1bde335f7d.jpg",
+        "table_caption": [
+            "Table 3δD and $\\delta ^ { 1 8 } \\mathrm { O }$ of different types of water body in the natural watershed "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">Season</td><td colspan=\"6\">Surface water</td><td rowspan=\"3\">Fitting equation</td></tr><tr><td colspan=\"3\">8180 (%o)</td><td colspan=\"3\">SD (%)</td></tr><tr><td>Maximum</td><td>Minimum</td><td>Average</td><td>Maximum</td><td>Minimum</td><td>Average</td></tr><tr><td>Normal water</td><td>-6.21</td><td>-7.36</td><td>-6.97</td><td>-50.98</td><td>-61.79</td><td>-56.51</td><td>8D=7.87818O-1.67</td></tr><tr><td>Wet</td><td>-6.61</td><td>-8.16</td><td>-7.39</td><td>-56.71</td><td>-64.38</td><td>-60.24</td><td>8D=4.718180-25.45</td></tr><tr><td>Dry</td><td>-6.81</td><td>-7.86</td><td>-7.23</td><td>-57.75</td><td>-59.74</td><td>-58.54</td><td>8D=1.138180-50.38</td></tr><tr><td colspan=\"8\">Groundwater</td></tr><tr><td>Normal water</td><td>-7.57</td><td>-11.02</td><td>-9.21</td><td>-57.55</td><td>-86.19</td><td>-69.44</td><td>SD=8.28818O+6.85</td></tr><tr><td>Wet</td><td>-7.99</td><td>-10.66</td><td>-9.06</td><td>-56.71</td><td>-86.08</td><td>-69.42</td><td>8D=10.368180+24.37</td></tr><tr><td>Dry</td><td>-7.90</td><td>-9.98</td><td>-7.23</td><td>-62.31</td><td>-76.60</td><td>-67.12</td><td>8D=6.418180-10.29</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/d4bf34ac52e990c904e6f1226fcdf361e69d696c1c828abcb9b33ab47a7ce045.jpg",
+        "table_caption": [
+            "Table 4δD and $\\delta ^ { 1 8 } \\mathrm { O }$ of different types of water body in the mining areas and downstream of the Hailiutu River Basin "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">Season</td><td colspan=\"6\">Surface water</td><td rowspan=\"3\">Fitting equation</td></tr><tr><td colspan=\"3\">8180 (%0)</td><td colspan=\"3\">SD (%o)</td></tr><tr><td>Maximum</td><td>Minimum</td><td>Average</td><td>Maximum</td><td>Minimum</td><td>Average</td></tr><tr><td>Normal water</td><td>-7.47</td><td>-8.50</td><td>-7.98</td><td>-58.40</td><td>-68.90</td><td>-64.47</td><td>8D=4.31818O-30.02</td></tr><tr><td>Wet</td><td>-4.31</td><td>-9.23</td><td>-8.01</td><td>-53.51</td><td>-70.01</td><td>-62.57</td><td>8D=2.538180-42.29</td></tr><tr><td>Dry</td><td>-7.28</td><td>-9.01</td><td>-8.30</td><td>-56.89</td><td>-73.30</td><td>-64.34</td><td>8D=6.258180-12.48</td></tr><tr><td colspan=\"8\">Groundwater</td></tr><tr><td>Normal water</td><td>-7.61</td><td>-9.80</td><td>-8.60</td><td>-58.53</td><td>-77.46</td><td>-65.01</td><td>8D=7.38818O-1.60</td></tr><tr><td>Wet</td><td>-7.23</td><td>-10.25</td><td>-8.37</td><td>-56.52</td><td>-80.95</td><td>-63.76</td><td>8D=6.808180-7.35</td></tr><tr><td>Dry</td><td>-8.05</td><td>-10.35</td><td>-8.85</td><td>-59.75</td><td>-78.58</td><td>-65.31</td><td>SD=7.21818O-1.51</td></tr><tr><td colspan=\"8\">Mine water</td></tr><tr><td>Normal water</td><td>-8.85</td><td>-9.96</td><td>-9.30</td><td>-69.14</td><td>-81.86</td><td>-74.91</td><td>8D=8.60818O+4.80</td></tr><tr><td>Wet</td><td>-8.24</td><td>-10.20</td><td>-9.09</td><td>-63.28</td><td>-73.30</td><td>-67.37</td><td>8D=4.708180-24.70</td></tr><tr><td>Dry</td><td>-9.19</td><td>-10.84</td><td>-9.90</td><td>-77.11</td><td>-85.03</td><td>-80.91</td><td>8D=4.808180-32.90</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.6Transformation among precipitation, surface water, groundwater, and mine water ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.6.1Transformation of different types of water body in the natural watershed ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We analyzed transformation between surface water and groundwater based on the changes in TDS and $\\delta ^ { 1 8 } \\mathrm { O }$ along the course of the HRB.Similar trends were observed in TDS and $\\delta ^ { 1 8 } \\mathrm { O }$ values in the surface water and groundwater during the normal water, wet, and dry seasons (Fig. 8a). Surface water in the HR was enriched in $^ { 1 8 } \\mathrm { O }$ ，while surface water in the YR and groundwater beneath it showed similar $\\delta ^ { 1 8 } \\mathrm { O }$ values. The enrichment of $^ { 1 8 } \\mathrm { O }$ can be attributed to the intense evaporation of surface water in the unmined area,which was located in the Maowusu Desert. $\\delta ^ { 1 8 } \\mathrm { O }$ values of the groundwater beneath the HR first decreased and then increased along its course, whereas TDS did not significantly vary, indicating that the groundwater received recharge from surface water enriched in $^ { 1 8 } \\mathrm { O }$ Overall, $\\delta ^ { 1 8 } \\mathrm { O }$ and TDS variations in surface water in the YR and groundwater beneath it along its course were not significant. $\\delta ^ { 1 8 } \\mathrm { O }$ values of surface water in the YR gradually decreased along its course, suggesting that the surface water received recharge from groundwater depleted in $^ { 1 8 } \\mathrm { O }$ . However, the gradual increase in $\\delta ^ { 1 8 } \\mathrm { O }$ in groundwater beneath the YR along its course indicated that the groundwater similarly received recharge from $^ { 1 8 } \\mathrm { O }$ -enriched surface water. Evidently, surface water in the YR and the groundwater beneath it intensively recharge one another. Multivariate linear mixed model was used to calculate the ratios of transformation among precipitation, surface water, and groundwater during the normal water, wet, and dry seasons (Fig. 8c). On average, precipitation contributed $1 5 . 6 \\%$ ， $1 8 . 7 \\%$ ，and $1 3 . 2 \\%$ of the recharge received by surface water and $7 . 3 \\%$ ， $9 . 8 \\%$ ，and $5 . 2 \\%$ of the recharge received by groundwater during the normal water,wet, and dry seasons,respectively. In addition, surface water was responsible on averages for $4 4 . 9 \\%$ ， $5 1 . 0 \\%$ ，and $2 4 . 6 \\%$ of the recharge received by groundwater and received $2 8 . 3 \\%$ ， $2 6 . 6 \\%$ ,and $3 3 . 5 \\%$ of its recharge from groundwater during the normal water, wet, and dry seasons,respectively. These data showed that the predominant mode of water transfer between the surface water and aquifers in the unmined area involved the recharge of groundwater by infiltrated surface water during the normal water and wet seasons, and the lateral recharge of surface water by groundwater during the dry season. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/b53a04360b7f0799ae9ed52a2542288a7001c22c6fadcd46824db1a30bc14aea.jpg",
+        "img_caption": [
+            "Fig.8(al and a2), $\\delta ^ { 1 8 } \\mathrm { O }$ and TDS variations in the surface water and groundwater in the unmined area along the course of the Hailiutu River Basin; (b),schematic diagram of water transfer between the surface and aquifers in the unmined area; (c),proportion of transfer between surface water and groundwater in the unmined area. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.6.2Transformation of different types of water body in the mining areas and downstream of the HRB ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Figure 9a showed the variations in $\\delta ^ { 1 8 } \\mathrm { O }$ and TDS values of surface water and groundwater in the mining areas and downstream of the TRB. The variations in $\\delta ^ { 1 8 } \\mathrm { O }$ values in the surface water and groundwater in and around the mining areas (K1-H13) were complex and displayed no distinct patterns. TDS content was high in surface water and varied over a broad range,and TDS content of surface water was higher than that of groundwater. The overall content of TDS in the groundwater was low but increased, which indicated that groundwater was recharged by water sources with a high TDS content. Therefore, we speculated that groundwater was recharged by surface water with a high TDS content. In the lower reaches of the HR (H14-h11),surface water was high in TDS and showed higher $\\delta ^ { 1 8 } \\mathrm { O }$ values than those of groundwater, in which $\\delta ^ { 1 8 } \\mathrm { O }$ and TDS values gradually increased along the course of the river, suggesting that the mode of transfer in this area involved the recharge of groundwater by surface water. The mine water was low in $\\delta ^ { 1 8 } \\mathrm { O }$ and high in TDS at allthe sites,which can be attributed to its great depth and the low flow rate of the aquifer. As seen in Figure 8a, surface water in the Yingpanhao mining area (K1, H5, h2, and h3),the Dahaize mining area (K2,H7,and h5),and the Balasu coal mine area (K3, K4,h6, h7, H10,H12,and H13） were generally high in TDS,indicating that dewatering and drainage operations significantly impacted surface water. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/ba4ffd896b007cbbe3e78e6aec21f24b2e9c229de723869979c18a8683545622.jpg",
+        "img_caption": [
+            "Fig.9 (al and a2), $\\delta ^ { 1 8 } \\mathrm { O }$ and TDS variation in the surface water, groundwater, and mine water in the mining area and downstream of the Hailiutu River Basin; (b),schematic diagram of water transfer between the surface and aquifers in the mining areas and downstream of the Hailiutu River Basin;(c),proportion of transfer between surface water and groundwater in the mining area and downstream of the Hailiutu River Basin. "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Multivariate linear mixed model was employed to calculate the ratios at which precipitation, surface water, and groundwater recharge each other. As shown in Figure 8c,precipitation was responsible for the averages of $2 0 . 7 \\%$ ， $2 6 . 6 \\%$ ，and $1 5 . 8 \\%$ of the recharge received by surface water, and $1 2 . 4 \\%$ ， $1 9 . 7 \\%$ ，and $7 . 9 \\%$ of the recharge received by groundwater during the normal water, wet, and dry seasons,respectively. Compared with the unmined area, in the mining areas and downstream of the HRB,precipitation greatly contributed to the recharge received by both surface water and groundwater, particularly during the wet season. Surface water contributed $4 7 . 8 \\%$ ， $6 1 . 1 \\%$ ，and $3 9 . 9 \\%$ of the recharge received by groundwater,and received $3 6 . 3 \\%$ ， $3 1 . 7 \\%$ and $3 8 . 7 \\%$ of its recharge from surface water during the normal water,wet, and dry seasons, respectively. Compared with those in the unmined area, the corresponding recharge proportions for the mining areas and downstream of the HRB were also high. Specifically, precipitation contributed $2 . 6 \\% - 7 . 9 \\%$ and $2 . 7 \\% - 9 . 9 \\%$ more to the recharge received by surface water and groundwater, respectively； surface water contributed $2 . 9 \\% 1 5 . 3 \\%$ more to the recharge received by the groundwater; and groundwater contributed $5 . 1 \\% - 8 . 0 4 \\%$ more to the recharge received by surface water. These results showed that factors such as coal mining and other types of human activity accelerated the transformation among precipitation, surface water, and groundwater. Mine water was composed primarily of the discharge resulting from drainage operations that occur during coal seam mining. Calculations revealed that precipitation, surface water, and groundwater contributed $4 . 1 \\%$ ， $1 5 . 3 \\%$ ，and $6 9 . 4 \\%$ of the recharge received by mine water during the wet season, respectively. The proportions were $5 . 2 \\%$ ， $1 7 . 9 \\%$ , and $7 2 . 4 \\%$ for the normal water season, and $2 . 9 \\%$ ， $1 0 . 2 \\%$ ，and $6 1 . 3 \\%$ for the dry season,respectively. Mine water was transferred into surface water and groundwater at proportions of $1 0 . 9 \\% { - 4 0 . 1 \\% }$ and $8 . 3 \\% - 3 0 . 2 1 \\%$ ,respectively. Compared with the unmined area, in the mining areas and downstream of the TRB,precipitation, surface water, and groundwater recharge each other at a higher proportion. In the mining areas and downstream of the TRB,mine water primarily received recharge from groundwater, while dewatering and drainage operations implemented during coal mining mainly had a significant impact on surface water. These findings were consistent with those derived from earlier hydrochemical analysis. Surface water and precipitation have minor impacts on mine water. The predominant mode of transfer in the mining area and downstream of the TRB involved the recharge of groundwater by surface water, which can be atributed to dewatering and drainage operations that occur during coal mining period. These actions lowered groundwater level in the mining areas,and accelerated the convergence of groundwater from the aquifer overlying the coal-bearing formation in the goafs,resulting in an increase in the infiltration of surface water into the ground. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Generally, due to the continuous influence of river water evaporation, TDS flowing to surface water along the river will increase (Li et al.,2O21), while the larger TDS values are concentrated in the middle and upper reaches of the HRB,and the changes in TDS and the main ions observed in the lower reaches were smaler, which may be due to the impact of coal mining in the middle and upper reaches of the HRB. Coal washing and drainage increase the contents of $\\mathrm { C a } ^ { 2 + }$ ， $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ and $\\mathrm { S O } _ { 4 } ^ { 2 - }$ in surface water. Except for the mining areas, TDS of the surface water increases along the river, but the overall variation is small, which shows that the impact of coal mining on the basin is mainly concentrated in the mining areas and has litle impact on the non-mining areas (Huang et al., 2O18). TDS of groundwater in the HRB changes only slightly from upstream to downstream, indicating that coal mining and human activities have litle impact on groundwater. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Precipitation in the HRB had $\\delta ^ { 1 8 } \\mathrm { O }$ values ranging from $- 1 3 . 6 \\text{‰}$ to $- 6 . 6 7 \\text{‰}$ ， and δD values ranging from $- 1 0 1 . 4 4 \\text{‰}$ to $- 4 5 . 5 2 \\text{‰}$ . The slope of the LMWL equation derived from the measurements was smaler than that of the GMWL,because the study area is located in the inland of Northwest China,and local precipitation is strongly afected by evaporation. The water vapour inthe atmosphere is affected by evaporation during movement， resulting in enhanced fractionation and dilution of hydrogen and oxygen isotopes in the remaining water vapour (Zeng et al.,2O21). The hydraulic connection between surface water and shallow groundwater varied between seasons. A relatively strong hydraulic connection was apparent between surface water and groundwater during the wet season because the increase in precipitation in the wet season enhanced the mutual recharge between surface water and groundwater (Sun et al., 2O21). Surface water and groundwater were more similar in isotopic composition in the mining areas and downstream of the HRB than in the unmined areas,suggesting that mining strengthens the hydraulic connection between surface water and groundwater. Due to the goafs caused by coal mining,the speed of seepage of surface water is accelerated (Jhariya et al., 2O16). The isotopic composition of mine water in the study area was more similar to that of groundwater, indicating that mining activity disturbs the aquifers overlying the coal-bearing formation,and accelerates the downward recharge of groundwater (Miao et al., 2O21). Based on multivariate linear mixed model, the results from mine water show that water discharged as a result of dewatering and drainage operations during coal mining is transferred to the surface at a higher ratio; however, there is a closer hydraulic linkage between mine water and groundwater. This result is possbly explained by the water drained from coal mine firstly discharging into the river, mixing with river water, and then seeping into the ground. In previous studies,the factors affecting the transformation among precipitation, surface water, and groundwater are complex, which mainly include climate change, topography，and human activities (Yang et al., 2O17; Bouzekri et al.，2O2O). In the HRB,the impact of coal mining on the transformation among precipitation, surface water, and groundwater is the most pronounced in the mining areas, while water transfers between these compartments in the unmined areas were affected primarily by changes in seasons and topographic factors. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In the HRB,rock weathering governs the hydrochemical types of groundwater and mine water, while that of surface water is controlld by evaporation. Human activity (e.g., coal mining and agricultural production) causes considerable changes in the hydrochemical types of surface water in and around the mining areas, and leads to the most significant increases in concentrations of $\\mathrm { { N a ^ { + } } }$ and $\\mathrm { S O } _ { 4 } ^ { 2 - }$ ： ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Precipitation is the main supply source of water resources in the HRB.In the unmined areas of the HRB,the primary mode of water transfer involves the recharge of groundwater by surface water during the normal water and wet seasons,and the recharge of surface water by groundwater during the dry season. In the mining areas and downstream of the HRB,year-round recharge of groundwater by surface water is the primary mode of water transfer. In the mining areas, precipitation contributed to the recharge received by surface water and groundwater by an average increases of $2 . 6 \\% - 7 . 9 \\%$ and $2 . 7 \\% - 9 . 9 \\%$ ,respectively. Groundwater in the Salawusu Formation constitutes up to $6 1 . 3 \\% - 7 2 . 4 \\%$ of mine water. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "This study revealed the transformation among different types of water body in the basin under the influences of natural watershed and coal mining qualitatively and quantitatively. However, the impact of coal mining on the transformation among different types of water body in the study area need to be analyzed with the long-term data. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "This research was supported by the National Key Research and Development Program of China (2O18YFC0406401) and the Inner Mongolia Autonomous Region \"Grassland Talents\"Project. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "References   \nAyadi Y, Mokadem N,Besser H,et al.2018.Hydrochemistry and stable isotopes ( $\\mathrm { 8 ^ { 1 8 } O }$ and $\\delta ^ { 2 } \\mathrm { H }$ ）tools applied to the study of Karstaquifers in southern Mediterranean basin(Teboursouk area,NW Tunisia).Journal of African Earth Sciences,137: 208-217.   \nBatsaikhanB,KwonJS,KimKH,etal.20l7Hydrochemical evaluationofthe influencesof miningactivitiesonriverwater chemistry in central northern Mongolia.Environmental Science and Polution Research,24(2): 2019-2034.   \nBouzekri S,FadiliH,Hachimi ML,etal.2O2O.Assssmentof trace metals contamination insedimentand surface waterof quarry lakes from the abandoned Pb mine Zaida,High Moulouya-Morocco.Environment,Developmentand Sustainability 22(7): 7013-7031.   \nChai Y, XiaoCLiM,etal.2O21.Conversionrelationship between groundwaterandsurface waterithe Taizi RiverBasinin China based on geochemical and isotopic characteristics.Environmental Science and Pollution Research，28(16): 20045-20057.   \nChen J,Qian H,GaoYY,etal.2O20.Insightsinto hydrologicalandhydrochemical processes inresponsetowater replenishment for lakes inarid regions.Journal of Hydrology,581: 124386,doi: 10.1016/j.jhydrol.2019.124386.   \nDu K,Zhang BY,LiK,tal.2O21.Characteristicsofhydrogenandoxygenisotopes indiferent waterbodies inthetypical loess hillyregion. Earth and Environment,49(3): 270-276. (in Chinese)   \nGavrishin AI 2018.Mine waters of the eastern Donbassandtheir effect on thechemistryof groundwaterand surface water in the region.Water Resources,45(5): 785-794.   \nGuan Z,JiaZ,ZhaoZ,etal.2O19.Identificationof inrush waterrechargesources using hydrochemistryand stableisotopes:A case studyof Mindong No.1coal mine in north-east Inner Mongolia,China.JournalofEarth System Science,128(7):1-12.   \nGuo Q,Yang Y,Han Y,etal.2O19.Assessmentof surface-groundwater interactionsusing hydrochemical and isotopic techniques in a coal mine watershed,NW China. Environmental Earth Sciences,78(3): 91.   \nHan JM,GaoJ,DuK,etal.2O20.Analysisof hydrochemical characteristicsand formation mechanism incoal mine underground reservoir. Coal Science and Technology,48(11): 223-231.(in Chinese)   \nHao S,LiF,LiY,etal.2O19.Stableisotope evidenceforidentifyingtherechargemechaismsofprecipitation,surfacewater, and groundwater in the Ebinur Lake basin. Science of the Total Environment,657: 1041-1050.   \nHao C,Huang Y,HeP,etal2019.Isotope driftcharacteristics inOrdovicianLimestone Karst watercausedbycoalminingin northern China.Mine Water and the Environment,38(3): 507-516.   \nHe X,Lucatero D,RidlerME,et al.2019Real-time simulationof surface waterand groundwater with dataasimilation. Advances in Water Resources,127: 13-25.   \nHuang X,Wang G, Liang X,et al.2018.Hydrochemical and stable isotope (δD and $\\delta ^ { 1 8 } \\mathrm { O }$ ）characteristics of groundwater and hydrogeochemical processes in the Ningtiaota Coalfield,Northwest China.Mine Waterand the Environment,37(1): 119-136.   \nJampani M,LiedlR,Hulsmann S,etal.2O2o.Hydrochemicalandmixing processes controlinggroundwaterchemistryina wastewater irrigatedagriculturalsystemof India.Chemosphere,239:124741,doi:10.1016/j.chemosphere.2019.124741.   \nJayawardanaJ.2O2o.Geochemicalandisotopeevidenceforgroundwater mineralizationinasemi-aridriverbasin,SriLanka. Applied Geochemistry,124(1-2): 104799,doi: 10.1016/j.apgeochem.2020.104799.   \nJhariya DC,KhanR,ThakurGS.2O16.Impactof mining activityon waterresource:Anoverview study.In: National Seminar on Recent Practices & Innovations in Mining Industry (RPIMI),Raipur: RPIMI, 271-277.   \nKadamA,Wagh V,PatilS,etal.2O2la.Seasonalvariationingroundwaterqualityandbeneficialusefordrinking,igatio, andindustrialpurposes from Deccan Basaltic Region,Western India.Environmental Science andPollution Research,28(20): 26082-26104.   \nKadam A,Wagh V,James J,etal.2021b.Integrated approachfor the evaluationof groundwaterqualitythrough hydro geochemistryand humanhealthrisk from Shivganga river basin,Pune,Maharashtra,India.Environmental Scienceand Pollution Research,29(2),4311-4333.   \nLeiYZ,Cao SK,CaoGC,etal.2O21.Hydrological processtracing studyofthealpine inlandbasinof the TibetanPlatea based onhydrogen and oxygen stable isotopes and hydrochemistry.Geographical Research,40(5):1239-1252.(in Chinese)   \nLi SJ,Han X,Wang WH,etal.2O22.Hydrochemicalcharacteristicsadcontrollngfactorsofsurfacewaterandgroudwater in Wuding River Basin. Environmental Science,43(1): 220-229.(in Chinese)   \nMiaoLT,XiaoCY,Duan ZH,etal.2O21.Couplingcharacteristicsand intelligent integration technologyofcoal-overlying rock-groundwater-ecological environment in Yu-Shen-Fu miningarea inthe middle reachesof theYellow River.Journalof China Coal Society, 46(5): 1521-1531.(in Chinese)   \nMirzavandM,GhasemiehH,JavadS,etal.2O2o.Delineatingthe sourceandmechanismof groundwatersalinizationincrucial decliningaquifer using multichemo-isotopes approaches.Journalof Hydrology,586:124877,doi:10.1016/j.jhydrol.2020. 124877.   \nNofal S,TraviYCognard-PlancqAL,etal.19.ImpactofinfilratingiigationndsurfacewateronaMditerananval aquiferinFranceusingstableisotopesand hydrochemistry,inthecontextofurbanizationandclimatechange.Hydrogeology Journal,27(6): 2211-2229.   \nQu S,Wang G, Shi Z, et al. 2018. Using stable isotopes (δD, $\\delta ^ { 1 8 } \\mathrm { O }$ ${ \\delta } ^ { 3 4 } \\mathrm { S }$ and $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ )to identify sources of water in abandoned mines in the Fengfeng coal mining district, northern China.Hydrogeology Journal,26(5): 1443-1453.   \nRezaeiA,Javadi H,Rezaeian M,etal.2O18.Heating mechanismofthe Abgarm-Avaj geothermal systemobservedwith hydrochemistrygeothermometry,andstableisotopesofthermalspringwaters,Iran.EnvironmentalEarthSiences,7(18): 1-16.   \nSingh UK,Ramanathan AL,Subramanian V.2O18.Groundwater chemistryand human health risk assessment in the mining region of East Singhbhum,Jharkhand, India.Chemosphere,2O4: 501-513.   \nSong HW,MengYC,JiangFT,etal.2O21.Isotopecharacteristicsofsurface waterand groundwaterinthemiddlereachesof Yarlung ZangboRiverand theiridicators.Journalof AridLand Resourcesand Environment,35(7):122-128.(in Chinese)   \nSun C,Chen W.2O18.Relationship betweengroundwater andsurface water based on environmental isotope and hydro-cemistry inupperstreamof the Haihe River Basin.Scientia Geographica Sinica,38(5):790-799.(in Chinese)   \nSunPF,Yi QT,XuG Q.2O14.Characteristicsof waterchemistryand their influencingfactors insubsidencewaters in the Huainan and Huaibei mining areas,Anhui Province.Journal ofChina Coal Society,39(7):1345-1353.(in Chinese)   \nSvobodova K,YellshettM,VojarJ.2019.Coalmining in Australia:Understanding stakeholder knowledgeof miningand mine rehabilitation.Energy Policy,126: 421-430.   \nWagh VM,MukateS,MuleyA,etal.2O2O.Studyof groundwatercontaminationand drinking suitabilityinbasalticterrainof Maharashtra,India through PIG and multivariate statistical techniques.Journal of Water Supply: Research and Technology, 69(4): 398-414.   \nWang H,Wu Q,Chen X,etal.2O20.Thechemicalcharacteristicsand hydrogenandoxygen isotopiccompositionsof the Zhonghu mining area in Huaibei.Arabian Journal of Geosciences,13(17):1967-1979.   \nWangL,Dong Y,XieY,etal.2O16.Distinctgroundwaterrechargesourcesandgeochemical evolutionof twoadjacent sub-basins in the lower Shule River Basin,Northwest China.Hydrogeology Journal,24(8):1-13.   \nWu XJ,LiHE,Dong Y.20l6.Quantitativerecognitionofcoal miningon waterresources influence:Acaseof Kuye Riverin northern Shaanxi.AridLand Geography,39(2):246-253.(in Chinese)   \nYang Z,ZhouY,WeningerJ,etal.Ol7.Groundwaterandsurface-water interactionsandimpactsofhumanactivities inthe Hailiutu catchment, northwest China.Hydrogeology Journal, 25(5): 1341-1355.   \nZeng D,WuJK,LiHY,etal.2O0.Hydrogenandoxygenisotopes inprecipitationinthearidregionsofNorthwestCina:A review. Arid Zone Research,37(4): 857-869.(in Chinese) ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    }
+]

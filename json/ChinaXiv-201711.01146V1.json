@@ -1,0 +1,425 @@
+[
+    {
+        "type": "text",
+        "text": "玉米赤霉烯酮对断奶小母猪卵巢指数及孕激素受体分布和表达的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨立杰 黄丽波 李思梦 刘法孝 姜淑贞\\*杨在宾\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（山东农业大学动物科技学院，山东省动物生物工程与疾病防治重点实验室，泰安，271018）摘要：本试验旨在研究不同水平玉米赤霉烯酮(ZEA)污染饲粮对断奶小母猪卵巢指数及孕激素受体的阳性分布和mRNA表达量的影响。选择40头25\\~28日龄健康三元杂交（杜 $\\times$ 长x大）断奶小母猪按平均体重[( $1 4 . 0 1 { \\scriptstyle \\pm 0 . 8 6 }$ ） $| { \\bf k g } ]$ 随机分为4个组，采用单笼饲养。对照组饲喂基础饲粮，试验组分别在基础饲粮中添加 $0 . 5 , \\ 1 . 0$ 和 $1 . 5 \\mathrm { m g / k g }$ 的 ZEA，4个组 ZEA的测定值分别为0、 $( 0 . 5 2 { \\pm } 0 . 0 7 ) \\$ 、（ $1 . 0 4 { \\pm } 0 . 0 3 \\$ ）和（ $1 . 5 1 { \\pm } 0 . 1 3 \\$ ）mg/kg。预饲 $1 0 \\mathrm { ~ d ~ }$ ，正试期$3 5 \\mathrm { d } .$ 结果表明：随着饲粮ZEA水平的升高，断奶小母猪卵巢指数呈一次线性升高( $( P { < } 0 . 0 1 )$ 1.0 mg/kg ZEA组的卵巢指数显著高于 $1 . 5 \\mathrm { m g / k g }$ ZEA组（ $\\scriptstyle \\cdot { \\cal P } { < } 0 . 0 5 .$ ）， $1 . 5 \\mathrm { m g / k g }$ ZEA 组的卵巢指数显著高于 $0 . 5 \\mathrm { \\ m g / k g }$ ZEA 组和对照组（ $P { < } 0 . 0 5$ ）。随着饲粮ZEA水平的升高，断奶小母猪卵巢孕激素受体累积光密度(IOD)和mRNA 相对表达量均呈一次线性升高( $_ { - P < 0 . 0 1 ) }$ ：$1 . 5 \\mathrm { \\ m g / k g }$ ZEA 组的孕激素受体 IOD 和 mRNA 相对表达量显著高于 $1 . 0 \\ \\mathrm { m g / k g }$ ZEA 组（ $P { < } 0 . 0 5$ ）， $1 . 0 ~ \\mathrm { { m g / k g } }$ ZEA 组又显著高于 $0 . 5 ~ \\mathrm { m g / k g ~ Z E A }$ 组和对照组 （ $. P { < } 0 . 0 5 ^ { \\cdot }$ ）。免疫组化结果显示断奶小母猪卵巢中孕激素受体免疫阳性物质主要分布于原始卵泡和生长卵泡的卵母细胞及颗粒细胞、卵泡膜细胞及血管壁细胞。随着饲粮 ZEA水平的升高和卵泡闭锁程度的增加，免疫阳性反应明显增强，但卵巢内孕激素受体免疫阳性物质的分布位置没有因ZEA 的水平发生明显改变。由此可见，ZEA（ $\\cdot 1 . 0 { \\sim } 1 . 5 ~ \\mathrm { m g / k g }$ ）可以通过调控断奶小母猪卵巢中孕激素受体的高水平表达，使孕激素受体的水平超出正向调节卵泡生长的限值，从而促使卵泡闭锁，降低卵巢指数，改变卵巢发育，进而影响断奶小母猪生殖系统的健康。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：玉米赤霉烯酮；断奶小母猪；卵巢；孕激素受体",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S828",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "玉米赤霉烯酮（zearalenone，ZEA），又名F-2毒素，主要是由禾谷镰刀菌产生的一种非类固醇类的、具有雌激素活性的真菌毒素[1。调查结果显示，ZEA是中国饲料原料及配合饲粮中检出水平最高的霉菌毒素之一[2]。饲料中 ZEA 的存在严重威胁着动物的健康，其中对猪最为敏感[Il。研究表明，ZEA 能够通过引起卵巢障碍导致母猪不孕[3-4]，其代谢产物 $\\mathfrak { a } \\mathrm { . }$ 玉米赤霉烯醇和 ${ \\mathfrak { \\beta } }$ -玉米赤霉烯醇对孕激素的合成具有刺激作用[5]。饲粮中一定水平的 ZEA能够引起母猪假发情、产仔数减少和流产等繁殖障碍。国内外对 ZEA 的研究，大多是在体外进行的，而对不同水平（ $\\mathrm { 0 . 5 { \\sim } 1 . 5 ~ \\ m g / k g }$ ）的 ZEA对断奶小母猪卵巢器官指数及孕激素受体阳性分布和表达量的影响尚未见报道。本试验旨在研究饲粮中不同水平 ZEA对断奶小母猪卵巢器官指数及孕激素受体分布及其mRNA相对表达量的影响，以期揭示ZEA通过调控断奶小母猪卵巢孕激素水平改变卵巢发育的分子机制，为ZEA的生殖毒性机制研究及养",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "猪生产中的繁殖障碍提供理论依据和思路。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法动物饲养试验于2016年4月25日—2016年6月8日在山东农业大学畜牧科技园进行。  \n1.1试验材料ZEA 购买于以色列Fermentek公司，色谱纯，纯度保证值为 $9 8 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计与饲粮",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 试验设计与饲养管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选择25\\~28日龄健康的三元（杜 $\\times$ 长 $\\times$ 大）杂交断奶雌性仔猪40头。在产床上继续饲养10d，然后转入试验笼（ $0 . 4 8 ~ \\mathrm { m } ^ { 2 }$ ）。根据日龄（35\\~38d）和平均体重[ $\\cdot 1 4 . 0 1 { \\pm } 0 . 8 6 \\mathrm { k g }$ ）]随机分成4个组，每组10头，组间初始体重差异不显著！ $( P { > } 0 . 0 5 \\$ ）。断奶小母猪基础饲粮参考NRC（2012）营养需要配制，基础饲粮组成及营养水平见表1。对照组饲喂基础饲粮，试验组分别在基础饲粮中添加0.5、1.0和 $1 . 5 \\mathrm { m g / k g }$ ZEA 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "单体笼使用塑料漏缝地板，安装有乳头饮水器和料槽，仔猪自由采食和饮水。试验开始前对猪舍进行全面清扫、消毒，试验期间每周进行1次猪舍消毒。舍内安装红外保温灯，第1周维持试验笼内温度在 $3 0 \\mathrm { ~ \\textdegree C }$ 左右，第2周将猪舍内环境温度维持在 $2 6 { \\sim } 2 8 \\ \\ \\mathrm { ~ \\textdegree C }$ 。猪舍相对湿度为 $6 5 \\%$ 。预饲 $1 0 \\mathrm { d }$ ，正试期 $3 5 { \\mathrm { d } } .$ 。仔猪管理和免疫按常规进行。试验结束后仔猪全部屠宰。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 ZEA污染饲粮的配制",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将色谱纯度（ $9 8 \\%$ ）晶体粉末状ZEA由乙酸乙酯溶解制成溶液，再将含有ZEA的乙酸乙酯溶液喷洒到一定量的滑石粉载体上，并放置过夜使乙酸乙酯挥发，制成 $1 0 0 0 \\mathrm { m g / k g }$ 的ZEA预混剂，然后用不含毒素的玉米粉进一步将 $1 0 0 0 \\mathrm { m g / k g }$ 的ZEA预混剂稀释成 $1 0 \\mathrm { m g / k g }$ 的ZEA预混剂，最后按照各组饲粮中ZEA的设计水平，用ZEA预混剂替代配方中的玉米和载体配制成试验饲粮。试验所需饲粮于试验正式开始前1周一次性配合完成，装袋后储存于干燥通风处。在试验前和试验结束分别取样后，立即进行饲粮中养分含量和毒素水平检测。取样方法按照GB/T14699.1—1993《饲料采样方法》。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 饲粮常规养分和毒素的测定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "饲粮常规养分测定参考AOAC（2012）的方法进行。粗蛋白质含量用凯氏定氮法测定；能量用HR-15 氧弹式热量计测定；钙含量根据高锰酸钾滴定法测定；磷含量根据钼黄比色法测定；食盐含量按照硫氰酸铵反滴定法测定；氮基酸含量用日立835-50 氮基酸自动分析仪进行测定。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "饲粮毒素测定：饲粮中 ZEA、呕吐毒素、黄曲霉毒素和烟曲霉毒素含量测定委托青岛出入境检测检疫局测定。采用免疫亲和柱层析净化，以液相色谱法荧光检测器测定 ZEA 和黄曲霉毒素的含量，外标法定量。采用免疫亲和层析净化高效液相色谱-串联质谱法，以液相色谱结合紫外检测器测定烟曲霉毒素和呕吐毒素的含量，外标法定量。黄曲霉毒素、ZEA、呕吐毒素和烟曲霉毒素的最低检测限分别为 $1 . 0 ~ { \\mu \\mathrm { g / k g } } , 0 . 1 ~ \\mathrm { m g / k g } , 0 . 1 ~ \\mathrm { m g / k g }$ 和 $0 . 2 5 \\mathrm { m g / k g }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4 组 ZEA含量的实际测定值分别为0、（ $( 0 . 5 2 { \\pm } 0 . 0 7 ) \\$ 、 $1 . 0 4 { \\pm } 0 . 0 3 \\$ 和（ $1 . 5 1 { \\pm } 0 . 1 3$ ）mg/kg,  \n2次均未检测到其他毒素或者低于检测限水平。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/70e1b2da2a47fbbd909f770bd0ed8ef24ec50e68b7f558bf96cff00d7279deb3.jpg",
+        "table_caption": [
+            "表1基础饲粮组成及营养水平 (风干基础)",
+            "Table1 Composition and nutrient levels of the basal diet (air-dry basis) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>原料Ingredients</td><td>含量Content</td><td>营养水平 Nutrients3</td><td>含量Content</td></tr><tr><td>玉米 Corn</td><td>64.5</td><td>消化能DE/(MJ/kg)</td><td>13.81</td></tr><tr><td>乳清粉Whey powder</td><td>5.0</td><td>粗蛋白质 CP</td><td>19.82</td></tr><tr><td>豆粕Soybean meal</td><td>23.0</td><td>钙Ca</td><td>0.70</td></tr><tr><td>鱼粉Fish meal</td><td>5.0</td><td>总磷TP</td><td>0.64</td></tr><tr><td>赖氨酸盐酸盐 Lysine·HCl</td><td>0.2</td><td>赖氨酸Lys</td><td>1.22</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>0.7</td><td>含硫氨基酸 Sulfur amino acid</td><td>0.65</td></tr><tr><td>石灰石粉 Pulverized limestone</td><td>0.3</td><td>苏氨酸 Thr</td><td>0.75</td></tr><tr><td>食盐 NaCl</td><td>0.3</td><td>色氨酸Trp</td><td>0.22</td></tr><tr><td>预混料 Premix1)</td><td>1.0</td><td></td><td></td></tr><tr><td>合计Total</td><td>100.0</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1)预混料为每千克饲粮提供 Premix provided the following per kg of the diet:VA 3 300 IU， $\\mathrm { V D } _ { 3 } 3 3 0 \\mathrm { I U }$ ，VE24 IU, $\\mathrm { V K } _ { 3 } 0 . 7 5 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 } ~ 1 . 5 0 ~ \\mathrm { m g }$ ， $\\mathrm { V B } _ { 2 } 5 . 2 5 ~ \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 2 } 0 . 0 2 6 \\ : \\mathrm { m g }$ ，泛酸 pantothenic acid $1 5 . 0 0 \\mathrm { m g }$ ，尼克酸niacin $2 2 . 5 0 ~ \\mathrm { m g }$ ，生物素 biotin $0 . 0 7 5 ~ \\mathrm { m g }$ ，叶酸 folic acid $0 . 4 5 ~ \\mathrm { m g }$ ， $\\mathbf { M n } 6 . 0 0 \\mathrm { m g }$ ，Fe $1 5 0 ~ \\mathrm { m g }$ ， $Z n ~ 1 5 0 ~ \\mathrm { m g }$ $\\mathrm { { C u 9 . 0 0 m g } }$ ， $\\mathrm { ~ I ~ } 0 . 2 1 ~ \\mathrm { m g }$ ， $\\mathrm { S e 0 . 4 5 m g }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2)消化能为消化代谢试验的计算值,其他营养水平为实测值。DE was a calculated value of the metabolic test, whiletheothernutrientlevelswerecalculatedvalue. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3样品采集与指标测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 卵巢器官指数的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验结束，将每个组的10头仔猪全部屠宰，观察记录卵巢发育状况并进行称重，计算卵巢器官指数。每头猪分别取2份卵巢样品，1份置于Bouin's液中固定，用于检测免疫组化指标；1份置于液氮中， $- 8 0 \\ \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 保存，用于孕激素受体mRNA相对表达量测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "卵巢器官指数（mg/kg） $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ 卵巢器官重量（mg）/猪活体重量（kg）",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 免疫组化（超敏二步法）",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将固定于Bouin's液中的组织块冲水至组织原色，乙醇逐级脱水并用二甲苯透明，采用BMJ23型包埋机进行包埋。1）切片机（LEICARM2135，德国）进行切片，常规脱蜡至水。2)柠檬酸缓冲液 $( 0 . 0 1 \\mathrm { m o l / L } , \\mathrm { p H } 6 . 0 )$ 进行抗原热修复，磷酸缓冲盐溶液（PBS）( $\\mathrm { \\cdot 0 . 0 1 ~ m o l / L }$ $\\mathrm { p H } 7 . 2$ ）洗3次， $5 \\mathrm { m i n } /$ 次（下同）。3） $1 0 \\ \\% \\ \\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 } \\ 3 7 ^ { \\circ }$ $\\mathrm { { } ^ { \\circ } C }$ 避光孵育 $^ { \\textrm { 1 h } }$ ，PBS洗3次。 $10 \\%$ 山羊血清37℃封闭孵育 $^ { \\textrm { 1 h } }$ 。加兔抗孕激素受体！ $( 1 : 5 0 )$ 多克隆抗体（Santa coad：sc-539,Lot：K0714），4℃孵育过夜。 $3 7 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 复温，PBS洗3次。二抗为抗兔超敏二步法免疫组化检测试剂盒（PV-9001，北京中杉金桥生物技术有限公司）。二氨基联苯胺（TIANGEN coad:PA110，Lot：P4819）显色，显微镜下观察显色程度，控制显色时间。苏木素复染，分色、脱水、透明，中性树胶封片，显微镜下明亮视野观察免疫阳性细胞分布规律。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.3 卵巢孕激素受体的累积光密度（IOD）测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用OLYMPUSBX41（DP25）双目显微镜观察卵巢组织切片。每头猪卵巢切片隔10 张切片取1张，共取5张。使用 Image Pro-Plus 6.0 软件统计分析卵巢切片横断面 IOD。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.4孕激素受体mRNA相对表达量的测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据Genebank已报道的猪的孕激素受体和磷酸甘油醛脱氢酶（GAPDH）基因序列，用Primer6.0设计相应特异性引物，引物由华大基因合成，引物序列见表2。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a971ba7d25c423a977974a0f4af3af60fd01135a558c9836ff9108e43b61b80b.jpg",
+        "table_caption": [
+            "表2引物序列",
+            "Table 2Primers sequences "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>目的基因</td><td>引物序列</td><td>产物大小</td><td>登录号</td></tr><tr><td>Target genes</td><td>Primer sequence (5'—3')</td><td>Product size/bp</td><td>Accession No.</td></tr><tr><td>磷酸甘油醛脱</td><td>F:ATGGTGAAGGTCGGAGTGAA</td><td>154</td><td>NM_001206359.1</td></tr><tr><td>氢酶GAPDH</td><td>R:CGTGGGTGGAATCATACTGG F:ATGAAAGCCAAGCCCTAAGC</td><td></td><td></td></tr><tr><td rowspan=\"2\">孕激素受体 PR</td><td>R:GGCAGTGACTTAGACCACGC</td><td>180</td><td rowspan=\"2\">NC_010451.3</td></tr><tr><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "取一 $8 0 ~ \\mathrm { { ^ circ C } }$ 冻存卵巢组织 $5 0 { \\sim } 7 0 ~ \\mathrm { m g }$ ，采用Trizol法进行总RNA提取，并用紫外分光光度计（Eppendorf,RS323C,德国）检测其浓度和纯度，吸光度（OD）值处于 $1 . 8 { \\sim } 2 . 0$ 可用于试验。按照PrimeScript TMRTMasterMix反转录试剂盒（RRO36A，大连，Takara）说明进行反转录，反应体系为 $2 0 \\mu \\mathrm { L }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实时荧光定量PCR(qRT-PCR)反应体系总体积为 $2 0 { \\mu \\mathrm { L } }$ ，按照 SYBR Premix Ex Taq（TliRNaseHPlus）（Takaracoad：RR420A，Lot：AK7502）试剂盒说明进行操作，每个样品设置3个重复。使用ABI7500Realtime荧光定量PCR仪进行扩增，反应条件为 $9 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 预变性$3 0 ~ \\mathrm { s }$ ，95 $\\mathrm { { } ^ { \\circ } C }$ 变性 $5 \\mathrm { ~ s ~ }$ ， $6 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 退火延伸 $3 4 ~ \\mathrm { s }$ ， $9 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ $1 5 \\mathrm { ~ s ~ }$ ， $6 0 ~ \\mathrm { ^ { \\circ } C }$ （ $6 0 ~ \\mathrm { s }$ ， $9 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ $1 5 \\mathrm { ~ s ~ }$ ，循环次数为43。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4 数据统计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用 $2 ^ { - \\Delta \\Delta \\mathrm { C t } }$ 对荧光定量PCR 检测结果进行数据处理，对孕激素受体基因mRNA在卵巢中的相对表达量进行分析。数据采用 SAS9.2统计软件进行单因子方差（one-way ANOVA）分析,采用正交多项式比较法对不同ZEA梯度的处理效应进行一次线性回归分析，用Duncan氏法进行多重比较， $P { < } 0 . 0 5$ 为差异显著， $P { < } 0 . 0 1$ 为差异极显著。采用IPP6.0图像分析软件，对卵巢孕激素受体的IOD进行统计分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1ZEA对断奶小母猪卵巢指数的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "饲粮中添加不同水平ZEA 对断奶小母猪卵巢指数的影响见图1。结果表明，随着饲粮中 ZEA水平的升高，断奶小母猪卵巢指数呈一次线性升高（ $_ { \\scriptstyle P < 0 . 0 1 }$ ）；与对照组相比，1.0和 $1 . 5 ~ \\mathrm { m g / k g }$ ZEA组的卵巢指数显著升高（ $\\scriptstyle \\cdot { \\cal P } { < } 0 . 0 5 )$ ）；3个ZEA组相比， $1 . 0 ~ \\mathrm { { m g / k g } }$ ZEA 组的卵巢指数显著高于 $1 . 5 ~ \\mathrm { m g / k g }$ ZEA组（ $P { < } 0 . 0 5$ ）， $1 . 5 ~ \\mathrm { { m g / k g } }$ ZEA 组的卵巢指数显著高于",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "0.5mg/kg ZEA组（ $P { < } 0 . 0 5 { \\mathrm { : } }$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Column diagrams with different letter superscripts mean significant difference （ $P { < } 0 . 0 5 \\$ ）,the sameasFig.3. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/86dea2e88778b35819f1eb33e320024331dba5b4327f926ec62b584bb30ae34b.jpg",
+        "img_caption": [
+            "图1ZEA对断奶小母猪卵巢指数的影响",
+            "Fig.1Effects of ZEA on ovarian index of weaned gilts $\\scriptstyle ( n = 1 0 )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2ZEA对断奶小母猪卵巢孕激素受体阳性分布的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "免疫组化结果显示断奶小母猪卵巢中孕激素受体免疫阳性反应呈棕黄色或淡黄色，试验观察结果显示孕激素受体免疫阳性物质主要分布于断奶小母猪卵巢中的原始卵泡和生长卵泡的卵母细胞及颗粒细胞，且呈深浅不一的棕黄色（图2）。对照组中，健康原始卵泡的卵母细胞偶见有孕激素受体免疫阳性物质分布（图2－A1，星号）；闭锁原始卵泡的卵母细胞中可见孕激素受体强阳性免疫反应物质分布，呈深棕色（图2－A1，箭头）；生长卵泡卵母细胞、颗粒细胞、卵泡膜细胞及血管壁细胞均可见孕激素受体免疫阳性物质分布(图2-A2、图2－A3和图2－A4）。随着饲粮中ZEA水平的升高，断奶小母猪原始卵泡、生长卵泡的卵母细胞及颗粒细胞中孕激素受体免疫阳性反应逐渐增强（图2－A1、图2-B1、图2-C1和图2-D1），且随着卵泡闭锁程度的增加，颗粒细胞中孕激素受体免疫阳性反应明显增强（图2-A3、图2-B3、图2-C3和图2-D3），卵巢内血管壁细胞孕激素受体免疫阳性反应也逐渐增强（图2－A4、图2-B4、图2-C4和图2-D4）。卵巢内孕激素受体免疫阳性物质的分布位置没有因ZEA的存在发生明显改变。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A、B、C、D分别表示对照组以及0.5、1.0和 $1 . 5 ~ \\mathrm { { m g / k g } }$ ZEA组。1:40、1:100 和1:400 分别表示组织样本在40、100及400倍下获得的视野。星号表示发育健康的原始卵泡，箭头表示发生闭锁的原始卵泡。SE：卵巢上皮；O：卵母细胞；GC：颗粒细胞；TC：卵泡膜细胞；V：血管壁细胞。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8168f7732442d92603d9d22dc634d0863f2a7384930dab9503eca0bc4964dd7e.jpg",
+        "img_caption": [
+            "图2孕激素受体免疫阳性物质在断奶小母猪卵巢中的分布情况"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A,B,C,D represented the control group,O.5,1.O and $1 . 5 ~ \\mathrm { { m g / k g } }$ ZEA groups,respectively.1:40,1:100 and 1:400 represented the visual field of tissue samples obtained at 40,100and 40O times,respectively.The stars showed the healthy primordial follicle,and the straight arrows showed the atretic primordial follcle.SE: surface epithelium; O: oocyte; GC: granulosa cell; TC: theca cell; V: vascular wall. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.2The distribution of progestrone receptor immune positive substance in ovary of weaned gilts ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，随着饲粮中 ZEA水平的升高，断奶小母猪卵巢孕激素受体的IOD呈一次线性升高（ ${ \\scriptstyle \\cdot } P { < } 0 . 0 1 .$ ）；与对照组相比，1.0 和 $1 . 5 ~ \\mathrm { { m g / k g } }$ ZEA 组的卵巢孕激素受体的IOD 显著升高( $_ { _ { P < 0 . 0 5 } }$ ）；3个ZEA组相比， $1 . 5 \\mathrm { m g / k g }$ ZEA 组的卵巢孕激素受体的IOD 显著高于$1 . 0 \\mathrm { m g / k g  Z E A }$ 组（ $\\scriptstyle \\cdot { P < 0 . 0 5 }$ ），而 $1 . 0 \\mathrm { m g / k g  Z E A }$ 组的卵巢孕激素受体的IOD又显著高于0.5mg/kgZEA组（ $_ { . } { \\cdot } { \\cdot } { \\cdot } { \\cdot } { \\cdot } { \\cdot } ^ { }$ ）。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/bfc50d493983c3ddeae6104e30b7f6e0fe52b946db2872d58c6f018885d52985.jpg",
+        "table_caption": [
+            "表3ZEA对断奶小母猪卵巢孕激素受体IOD的影响",
+            "Table 3Effect of ZEA on the progestrone receptor IOD in ovary of weaned gilts （204 $\\times 1 0 ^ { 3 }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目</td><td rowspan=\"2\">对照组</td><td rowspan=\"2\">试验1组Test</td><td rowspan=\"2\">试验2组Test</td><td rowspan=\"2\">试验3组Test</td><td colspan=\"2\">P值P-value</td></tr><tr><td>组间</td><td>线性</td></tr><tr><td>Item</td><td>Control group</td><td> group 1</td><td>group 2</td><td>group 3</td><td>Group</td><td>Linear</td></tr><tr><td>累积光密</td><td>46.326±1.332c</td><td>48.526±1.746c</td><td>52.037±1.721b</td><td>55.736±2.054a</td><td>0.038</td><td>0.006</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3 ZEA对断奶小母猪卵巢孕激素受体mRNA相对表达量的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "随着饲粮ZEA水平的升高，断奶小母猪卵巢孕激素受体的mRNA相对表达量呈一次线性升高（图3）（ $_ { \\scriptstyle P < 0 . 0 1 }$ ）。与对照组相比，1.0 和 $1 . 5 \\mathrm { \\ m g / k g }$ ZEA 组的卵巢孕激素受体的mRNA相对表达量显著升高（ $_ { . } { \\cdot } { \\cdot } { \\cdot } { \\cdot } { \\cdot } ^ { } \\ .$ ）；3个ZEA组相比， $1 . 5 \\mathrm { m g / k g  Z E A }$ 组的卵巢孕激素受体的 mRNA 相对表达量显著高于 $1 . 0 \\mathrm { m g / k g  Z E A }$ 组（ $_ { _ { P < 0 . 0 5 ) } }$ ）， $1 . 0 \\mathrm { m g / k g }$ ZEA 组的卵巢孕激素受体的 mRNA相对表达量又显著高于 $0 . 5 \\mathrm { m g / k g }$ ZEA组（ $P { < } 0 . 0 5$ ）。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/2800f9e9a11b4421b38f07d444edc52fd55d4194ca8eb8bc80e1205cac4d4fcf.jpg",
+        "img_caption": [
+            "图3ZEA对断奶小母猪卵巢孕激素受体mRNA相对表达量影响",
+            "Fig.3Effects of ZEA on mRNA relative expression of $P R$ in ovary of weaned gilts $( n { = } 1 0 )$ 3讨论 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "近期有关ZEA在动物上的研究，多是采用已知 ZEA含量的天然污染饲粮进行的[7-10],为了避免饲粮中其他毒素对研究结果产生不利影响，本研究选择高纯度 ZEA 毒素，在本课题组前期研究结果的基础上[7.9-1]，继续探索较低剂量 ZEA（ $0 . 5 { \\sim } 1 . 5 \\ \\mathrm { m g / k g }$ ）对断奶小母猪卵巢影响的分子机制。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1ZEA对断奶小母猪卵巢指数的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ZEA对断奶小母猪卵巢发育影响的研究结论并不一致。报道指出,母猪饲粮中 $1 0 0 \\mathrm { m g / k g }$ 的 ZEA 能够促进初级和次级卵泡的成熟[3]。另有报道表明，一定剂量（文献对 ZEA剂量未作说明）的ZEA能够抑制卵泡刺激素的分泌及释放，促进孕激素的合成，从而抑制排卵期前阶段卵巢卵泡的成熟，影响卵巢发育[4]。高水平 ZEA 能够诱发卵巢卵泡闭锁，抑制母猪颗粒细胞的增殖，诱导线粒体膜电位丢失和活性氧水平升高，颗粒细胞的凋亡和坏死与 ZEA水品呈剂量依赖性[12]。本研究结果显示，饲粮中添加 $0 { \\sim } 1 . 0 \\ \\mathrm { m g / k g }$ ZEA 使卵巢指数线性升高，ZEA水平达到 $1 . 5 ~ \\mathrm { { m g / k g } }$ 时，相比于 $1 . 0 \\mathrm { m g / k g }$ ZEA 组卵巢指数显著降低，可能是由于水平较高的 ZEA促进的卵巢中孕激素的高水平表达，使孕激素的水平超出了正向调节卵泡生长的限值，从而促使卵泡闭锁，降低卵巢指数。这提示饲粮中 $1 . 0 \\mathrm { m g / k g }$ ZEA 可能是促进卵巢发育的临界剂量。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2ZEA对断奶小母猪卵巢孕激素受体分布和表达的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "孕激素在动物机体内的成功表达，必须依赖于其相应的受体蛋白[13-15]。本研究通过测定卵巢内孕激素受体蛋白含量，拟初步判断 ZEA对断奶小母猪卵巢内孕激素表达的影响。近期研究表明，卵巢内孕激素水平能够影响卵泡大小和卵母细胞成熟度，卵泡直径与卵巢內孕激素水平呈正相关[16。另有报道指出，ZEA受体复合物通过与核内的雌激素敏感元素结合，促进相关基因的高水平表达，从而扮演着雌激素促进剂的角色[17-20]，动物体内孕激素既有协同又有拮抗雌激素的作用，孕期2种激素水平曲线基本平行[21-22]。前人对孕激素的研究，多集中于某种影响因素对其表达强度的影响[23-26],而对不同条件下其分布位置的报道相对较少[27]。本研究结果显示，孕激素受体免疫阳性物质主要分布于卵巢中健康原始卵泡和生长卵泡的卵母细胞及颗粒细胞、闭锁原始卵泡的卵母细胞和血管壁平滑肌细胞中，随着饲粮中ZEA水平的升高，孕激素受体免疫阳性物质明显增多，且随着饲粮中ZEA水平的增加，孕激素受体在断奶小母猪卵巢中免疫阳性IOD及其mRNA相对表达量线性增强，但孕激素受体免疫阳性物质分布规律并没有因 ZEA 的水平发生明显改变。提示 $0 . 5 { \\sim } 1 . 5 \\ \\mathrm { m g / k g }$ 的ZEA可以增强断奶小母猪卵巢内孕激素受体免疫阳性反应和mRNA的表达量，但不影响卵巢内孕激素受体的阳性分布规律。尽管我们发现 $1 . 5 \\mathrm { m g / k g }$ ZEA 组的卵巢指数显著低于 $1 . 0 \\mathrm { m g / k g }$ ZEA组，但是 $1 . 5 ~ \\mathrm { { m g / k g } }$ ZEA 组的孕激素受体的免疫阳性反应和mRNA的相对表达量却显著高于 $1 . 0 ~ \\mathrm { m g / k g }$ ZEA 组，暗示随着 ZEA水平的提高，卵巢内孕激素达到正向调节卵泡生长的限值，从而导致部分卵泡闭锁，卵巢指数开始呈现下降趋势。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本试验条件下，ZEA 显著提高断奶小母猪卵巢指数、卵巢中孕激素受体的免疫阳性反应及其mRNA的相对表达量，提示饲粮中 $1 . 0 { \\sim } 1 . 5 \\mathrm { m g / k g }$ 的 ZEA通过调控断奶小母猪卵巢中孕激素的表达，改变卵巢中卵泡的发育，进而影响断奶小母猪的生殖健康。  \n参考文献：  \n[1]姜淑贞,杨维仁,杨在宾.玉米赤霉烯酮的代谢、毒性及其预防措施[J].动物营养学报,2011,23(2):196-202.  \n[2]戎晓平,赵丽红,计成,等.我国部分地区饲料原料及配合饲料玉米赤霉烯酮污染情况调研[J].中国畜牧杂志,2015,51(22):20-24.  \n[3]黄丽娜,彭双清,刘宁.玉米赤霉烯酮生殖发育毒性的研究进展[J].中国地方病防治杂志,2014,29(3):181-184.  \n[4]MINERVINI F,DELL'AQUILA M E.Zearalenone and reproductive function in farmanimals[J].International Journal of Molecular Sciences,2008,9(12):2570-2584.  \n[5]ALM H,GREISING T,BRUSSOW K P,et al.The influence of the mycotoxins deoxynivalenoland zearalenol on in vitro maturation of pig oocytes and in vitro culture of pigzygotes[J].Toxicology in Vitro,2002,16(6):643-648.  \n[6]JIANG S Z,YANG Z B,YANG W R,et al.Effects of purified zearalenone on growthperformance,organ size,serum metabolites,and oxidative stress in postweaning gilts[J].Journal ofAnimal Science,2011,89(10):3008-3015.  \n[7]陈祥兴,杨维仁,张崇玉,等.镰刀菌毒素对断奶仔猪生长性能、小肠二糖酶活性和抗氧化能力的影响[J].动物营养学报,2015,27(6):1875-1882.  \n[8]DOLL S,GERICKE S,DANICKE S,et al.The eficacy of a modified aluminosilicate as adetoxifying agent in Fusarium toxin contaminated maize containing diets for piglets[J].Journal ofAnimal Physiology and Animal Nutrition,2005,89(9/10):342-358.  \n[9]杨立杰,牛群升,张崇玉,等.短期饲喂镰刀菌毒素饲粮诱导断奶仔猪阴户、血清代谢和氧化应激指标的改变[J].猪业科学,2016,33(3):85-88.  \n[10]牛群升,杨维仁,黄丽波,等.镰刀菌毒素对断奶小母猪阴户、生殖器官指数、子宫雌激素受体分布和表达的影响[J].动物营养学报,2016,28(5):1525-1533.  \n[11]DAI M,JIANG S,YUAN X,et al.Effects of zearalenone-diet on expression of ghrelin andPCNA genes in ovaries of post-weaning piglets[J].Animal Reproduction Science,2016,168:126-137.  \n[12] ZHU L,YUAN H,GUO C Z.et al.Zearalenone induces apoptosis and necrosis in porcinegranulosacellsviaacaspase-3-andcaspase-9-dependentmitochondrialsignalingpathway[J].Journal of Celular Physiology,2012,227(5):1814-1820.  \n[13] 李婉,孙丽美,刘禹池,等.激素受体与卵巢癌预后、发病机制及治疗的研究进展[J].现代肿瘤医学,2017,25(4):657-660.  \n[14]史宝,柳学周,徐涛,等.半滑舌鳎(Cynoglossus semilaevis)新型膜孕激素受体基因(mPRL)在卵母细胞成熟过程中的表达特征[J].渔业科学进展,2017,38(1):10-17.  \n[15] 刘晨,冯捷.雌孕激素受体基因及其相关基因在卵巢癌组织中的表达[J].中国妇产科临床杂志,2006,7(1):28-32.  \n[16]毕媛,高磊,田琳,等.卵泡液中雌孕激素水平及卵泡大小与卵母细胞成熟度的关系[J].现代妇产科进展,2011,20(12):948-951.  \n[17]周宏超,刘晓强,杨鸣琦,等.玉米赤霉烯酮对体外培养猪卵巢颗粒细胞的影响[J].中国兽医学报,2017,37(2):297-302.  \n[18]高爽,梁珍,邓俊良,等.玉米赤霉烯酮和脱氧血腐镰刀菌烯醇对雌性动物的生殖毒性及作用机制[J].动物营养学报,2016,28(4):1042-1049.  \n[19]伍宇超,杨维仁,杨在宾,等.低剂量玉米赤霉烯酮和吸附剂对育成期蛋鸡生长性能、血清生化指标和抗氧化指标的影响[J].动物营养学报,2016,28(4):1137-1144.  \n[20]朱碧波,张磊,杨伟丽,等.玉米赤霉烯酮对肉鸡血液生化指标、肝脏氧化损伤及毒素残留",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "的影响[J].畜牧与兽医,2016,48(6):10-14.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[21]DURLEJ M,TABAROWSKI Z,SLOMCZYNSKA M.Immunohistochemical studyon differential distribution of progesterone receptor A and progesterone receptor B within the porcine ovary[J].Animal Reproduction Science,2010,121(1/2):167-173. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[22]PERALTA L E,OLARTE M R,ARGANARAZ M,et al.Progesterone receptors:their localization,binding activity and expression in the pig oviduct during follicular and luteal phases[J].Domestic Animal Endocrinology,2005,28(1):74-84. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[23]乔宗惠,李道静,庞丽娥,等.人绒毛膜促性腺激素注射前血清孕激素升高的持续时间对体外受精-胚胎移植的影响[J].国际生殖健康/计划生育杂志,2017,36(1):9-13.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[24]华克勤,尧良清,曹琦,等.雌、孕激素通过激活磷酸化信号传导通路调控卵巢上皮性癌细胞 $\\mathrm { n m } 2 3 { \\mathrm { - } } \\mathrm { H } 1$ 蛋白的表达[J].中华妇产科杂志,2006,41(11):756-761.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[25]DAVIDSON B,KJERENG M L,FORSUNDM,et al.Progesterone receptor expression is an independent prognosticator in FIGO stage I uterine leiomyosarcoma[J].American Journal of Clinical Pathology,2016,145(4):449-458. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[26]MOHAMMED H,RUSSELL I A,STARK R,et al.Progesterone receptor modulates estrogen receptor-α action in breast cancer[J].Nature,2015,523(7560):313-317. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[27]田晓予,杨建华,李锋.卵巢恶性肿瘤雌、孕激素受体分布的免疫组化探讨[J].中国实用医刊,2001,28(3):40-41.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Effects of Zearalenone on Ovary Index,Distribution and Expression of Progesterone Receptors in Ovaries of Weaned Gilts ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "YANG Lijie HUANG Libo LI Simeng LIU Faxiao JIANG Shuzhen\\* YANG Zaibin\\* (College of Animal Science and Technology, Shandong Agricultural University, Shandong Provincial Key Laboratory of Animal Biotechnology and Disease Control and Prevention, Tai'an 271018, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The aims of the present study were to investigate the effects of zearalenone on ovary index,distribution and mRNA expression of progesterone receptors in ovaries of weaned gilts. Forty healthy weaned piglets (DurocxLandracexLarge White） aged of 25 to 28 days were allocated into 4 groups according to the average body weight [ $( 1 4 . 0 1 \\pm 0 . 8 6 ) \\mathrm { k g } ]$ . Animals were fed individually in a metabolic cage for 35 days after 1O days adaptation.Piglets in the control group were fed a basal diet, and in experimental groups were fed basal diets supplemented with 0.5, 1.0 and $1 . 5 \\mathrm { \\ m g / k g }$ ZEA,respectively. The analyzed ZEA levels in four groups were 0, 0 $( 0 . 5 2 { \\pm } 0 . 0 7 )$ ， $\\stackrel { . } { 1 } . 0 4 \\pm 0 . 0 3 \\$ ）and( $\\cdot 1 . 5 1 { \\pm } 0 . 1 3 \\$ ） $\\mathrm { m g / k g }$ . The results indicated that ovary index showed a linear increase $( P { < } 0 . 0 1 )$ ）with the ZEA level increasing in the diet of weaned gilts.The ovary index in $1 . 0 ~ \\mathrm { m g / k g }$ ZEA group was significantly higher than that in $1 . 5 ~ \\mathrm { m g / k g }$ ZEA group （ $( P { < } 0 . 0 5 )$ ，and the ovary index in $1 . 5 ~ \\mathrm { m g / k g }$ ZEA group was significantly higher than that in 0.5 $\\mathrm { m g / k g }$ ZEA group and the control group $( P { < } 0 . 0 5 )$ . The integrated optical density (IOD） and mRNA relative expression of progesterone receptors in ovaries of weaned gilts showed a linear increase $( P { < } 0 . 0 1 )$ with the ZEA level increasing in the diet of weaned gilts. The IOD and mRNA relative expression of progesterone receptors in $1 . 5 ~ \\mathrm { m g / k g }$ ZEA group was significantly higher than that in $1 . 0 ~ \\mathrm { m g / k g }$ ZEA group,and the IOD and mRNA relative expression of progesterone receptors in $1 . 0 \\mathrm { m g / k g }$ ZEA group was significantly higher than that in $0 . 5 ~ \\mathrm { { m g / k g } }$ ZEA group and the control group $( P { < } 0 . 0 5 )$ .The results of immunohistochemistry showed that the immunoreactive substance of progesterone receptors in ovaries was mainly distributed in oocytes and granulosa cells, theca cells and vascular wall cells of primordial follicles and growing follicles.With the increase of ZEA level and the degree of follicular atresia,immunoreactivity was significantly enhanced. There was no significant change in the distribution of immunoreactive substance of progesterone receptors in the ovary, due to the presence of ZEA. Thus it can be seen that ZEA (1.0 to $1 . 5 \\ \\mathrm { m g / k g } ,$ ） in feed changes the development of ovary by up-regulating the expression of progesterone receptors. The levels of progesterone receptors exceed the limit of positive regulation of follicular growth,thus promoting follicular atresia,reducing the ovary index,and then the healthy of reproductive system is affected. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words: zearalenone; weaned gilts; ovary; progesterone receptor ",
+        "page_idx": 10
+    }
+]

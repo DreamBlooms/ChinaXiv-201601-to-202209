@@ -1,0 +1,240 @@
+# 基于混合式注意力机制的语音识别研究\*
+
+李业良，张二华，唐振民(南京理工大学 计算机科学与工程学院，南京 210094)
+
+摘要：为了解决语音识别中基于卷积位置信息的混合式注意力机制无法提取长期有效位置信息的问题，提出了一种捕捉长期有效位置信息的新型混合式注意力机制。首先，对当前时刻生成的注意力得分作卷积来提取多通道特征图，并通过全局平均池化来得到恒定维度的特征向量；接着，引入长短期记忆网络(long short-term memory，LSTM)单元作为外部记忆模块，并以生成的特征向量作为输入，生成下一时刻的位置信息向量；最后，结合经典的LAS(listen，attendand spell)模型来验证提出方案的有效性。实验结果表明，提出方案能充分考虑过去多个时刻的注意力得分。相对于基于卷积位置信息的LAS 模型，提出方案在纯净和含噪语音数据集上取得的标签错误率分别减少了 $1 . 8 \%$ 和 $2 . 2 1 \%$ 0
+
+关键词：卷积；注意力机制；全局平均池化；LSTM；LAS模型中图分类号：TP391.4 doi:10.19734/j.issn.1001-3695.2018.06.0492
+
+# Research on speech recognition based on hybrid attention mechanism
+
+Li Yeliang, Zhang Erhua†, Tang Zhenmin (School ofComputer Science&Engineering,Nanjing UniversityofScience&Technology,Nanjing210094,China)
+
+Abstract:Inspeechrecognition,theconvolutionlocation-basedhybridttentionmechanismcannotextractlocationinformation that can be valid over long term.This paper proposed anew hybrid atention mechanismto solve this problem.Firstly it convolved withtheattentionscoregeneratedforthecurrent timetoextractmulti-channelfeatures,followedbyotainingthe featurevectorsofconstant dimensions via globalaverage poling.Then itintroducedaLSTM(LongShort-Term Memory)unit asthe exteral memory moduleandusedthegenerated featurevectors asiput to generatethelocationvectors forthenextime point.Finallythispaperused theclassicLAS(Listen,Atedand Spell model toverifytheeffectofte newhybridattention mechanism.Experimentresults showthat te newhybrid atention mechanismcantakefullconsiderationoftheatentionscores at many past time points.Comparedtotheconvolution location-based LAS model,the labelerrorrateofthe proposed scheme on pure and noisy speech datasets is reduced by $1 . 8 \%$ and $2 . 2 1 \%$ ,respectively.
+
+Key Words: convolution; attention mechanism; global average pooling; LSTM; LAS model
+
+# 0 引言
+
+近年来，深度神经网络(deep neural network,DNN)在图像、机器翻译、语音识别领域取得了广泛的应用[1]。过去的深度神经网络，作为一个组成单元通常与隐马尔可夫模型(hiddenMarkovmodel，HMM)结合组成DNN-HMM声学模型[2\~4]，但这些组成单元却是分别独立训练的，没有考虑单元之间的相互关系来进一步提高模型性能。最近，端到端的语音识别模型由于其架构简单、训练方便而受到了广泛关注。不同于DNN-HMM模型，其不需要输入数据和给定标签在时间上一一对齐，并且其本身作为一个整体架构来进行训练优化，故使得语音识别率得到很大的提升。目前主流端到端语音识别模型有两种：
+
+一种是CTC(connectionist temporal classification)[5]模型；另外一种是基于注意力机制[的编码器一解码器模型。基于注意力机制的编码器一解码器模型是目前语音识别领域的一个研究方向。一般来说，以LSTM[7]或GRU(gated recurrent unit)[8]这类递归神经网络作为编码器和解码器，用编码器来处理变长的特征序列生成隐含状态序列；在解码阶段，通过引入注意力机制，解码器每一时刻的输出直接利用编码器每一时刻的隐含状态信息，最终生成相应的标签。
+
+文献[9]给出了基于注意力机制的编码器一解码器模型在语音识别领域的第一个结果，它把逐帧提取的fMLLR(feature space maximum likelihood linear regression)特征序列作为编码器的输入，音素序列作为输出，最终在TIMIT数据库取得 $1 8 . 5 7 \%$ 的音素错误率。文献[10]给出了LAS框架，其采用具有启发式的金字塔BLSTM[7.11,12]结构作为编码器来对相邻时间帧的特征进行合并降维，减少注意力机制的计算量，加速网络的训练；同时在训练解码上，采用抽样前时刻的概率分布来取代传统的用前时刻真实标签作为下一时刻解码器输入[13]，这在一定程度上使得模型在推断中面对某时刻的错误输出能更加鲁棒地进行调整而不至于过度影响下一时刻的推断。
+
+文献[14提出了一种适用于语音识别任务的混合式注意力机制。与LAS模型中基于内容的注意力机制不同，通过引入对前一时刻的注意力得分的卷积结果作为该时刻的额外信息来调整注意力得分，使得模型对上下文信息的整合加进了对位置感知信息的考虑，最终取得性能上的提升。然而卷积层并没有提取长期依赖信息的能力，仅仅利用上一层提供的位置信息来对该时刻的注意力得分进行调整的做法仍有一定的偏差。
+
+本文给出了基于卷积提取位置信息的注意力机制的一个改进方案，对注意力得分进行卷积和全局平均池化[15]生成固定维度的特征向量，并引进一个LSTM单元来对其进行处理从而生成下一时刻的位置信息。LSTM单元的引入使得模型能充分考虑过去多个时刻的注意力得分，使得提供给下一时刻的位置信息更加合理和准确。
+
+# 1 基于注意力机制语音识别模型
+
+本章将介绍基于注意力机制的语音识别模型的基本架构及经典的混合式注意力机制。
+
+# 1.1 LAS 模型
+
+LAS是一个实现音频特征序列到字母序列转录的基于注意力机制的基本模型，其通过识别出的字母序列的拼接得到对应的文本。具体来说是从音频数据中提取梅尔滤波器特征序列$\pmb { x } = ( x _ { 1 } , x _ { 2 } , . . . , x _ { T } )$ 作为模型输入，以字符序列 $\pmb { y } = ( s o s , y _ { 1 } , . . . , y _ { S } , e o s )$ 作为模型的输出，其中 $y _ { i } \in \{ a , b , . . . , z , 0 , . . . , 9$ ,period,space,
+
+comma,apostrophe,unk}。在这里sos和eos分别作为句子起始和结束的记号，space和unk则分别指代空格和未知字符。模型训练的目标函数为使得输出序列关于输入序列的条件概率最大，按照概率链式法则公式表达如下：
+
+$$
+P ( y \mid x ) = \prod _ { i } { P ( y _ { i } \mid x , y _ { i - 1 } , . . . , y _ { 1 } ) }
+$$
+
+LAS模型由编码器和解码器两部分组成，文中分别称做Listener和Speller。如图1所示，通常以金字塔结构堆叠BLSTM组成Listener，从输入序列 $x$ 生成隐含状态序列 $\pmb { h }$ ·
+
+$$
+\pmb { h } = \mathrm { L i s t e n } ( \pmb { x } )
+$$
+
+$$
+h _ { i } ^ { j } = \mathrm { p B L S T M } ( [ h _ { 2 i } ^ { j - 1 } , h _ { 2 i + 1 } ^ { j - 1 } ] , h _ { i - 1 } ^ { j } )
+$$
+
+其中： $h _ { i } ^ { j }$ 指的是第 $j$ 层第 $i$ 个时刻的pBLSTM单元输出的隐含状态，其中把第 $j { - } 1$ 层相邻时刻的隐含状态拼接起来的向量和前一个时刻的pBLSTM单元的输出状态作为当前单元的输入便生成当前的输出状态，如式(3)所示。式(2)给出了Listener 的最终输出，即pBLSTM最后隐层输出的状态序列 $\textbf { \em h }$ 。
+
+Speller 是一个基于注意力的LSTM Transducer[6,14]。Transducer于每一步输出一个当前字符关于序列 $x$ 及在这之前所有字符的条件分布，即 $P ( y _ { i } | \mathbf { x } , y _ { i - 1 } , . . . , y _ { 1 } )$ 。该分布是一个关于解码器当前时刻输出状态 $s _ { i }$ 及上下文 $c _ { i }$ 的函数。解码器状态通过LSTM生成，而上下文 $\boldsymbol { c } _ { i }$ 则由注意力机制产生，具体公式表达如下：
+
+$$
+P ( y \mid x ) = { \mathrm { A t t e n d A n d S p e l l } } ( y , h )
+$$
+
+$$
+s _ { i } = \mathrm { L S T M } ( [ y _ { i - 1 } , c _ { i - 1 } ] , s _ { i - 1 } )
+$$
+
+$$
+c _ { i } = \mathrm { A t t e n t i o n C o n t e x t } ( s _ { i } , \pmb { h } )
+$$
+
+$$
+P ( y _ { i } \mid x , y _ { i - 1 } , . . . , y _ { 1 } ) =
+$$
+
+$$
+\mathbf { C h a r a c t e r D i s t r i b u t i o n } ( [ s _ { i } , c _ { i } ] )
+$$
+
+其中：CharacterDistribution是带有MLP的 softmax回归，其以$s _ { i }$ 和 $c _ { i }$ 的拼接向量作为输入。
+
+![](images/fe32ba01529941f048e6cf4dd97fe125e2b2eecf33889bfe303fdbcef960342c.jpg)  
+图1LAS模型框架  
+Fig.1LAS model framework
+
+# 1.2注意力机制
+
+注意力机制使得解码器每一时刻预测输出用到的上下文信息是与当前输出有关系的上下文，即通过对编码器每一时刻的输出状态打分，然后根据得分对输出状态加权求和得到上下文。文献[14]给出注意力机制的一般表达形式：
+
+$$
+\alpha _ { i } = \mathrm { A t t e n d } ( s _ { i - 1 } , \alpha _ { i - 1 } , \pmb { h } )
+$$
+
+$$
+c _ { i } = \sum _ { j = 1 } ^ { T _ { h } } \alpha _ { i j } h _ { j }
+$$
+
+由式(8)确定的注意力模型通常称为混合式注意力模型。将式(8)中的 $a _ { i - 1 }$ 忽略，就得到基于内容的注意力模型[16]。式(6)也是基于内容的注意力模型，但与式(8)不同， $a _ { i }$ 是由本时刻的输出状态 $s _ { i }$ 和编码器输出状态序列 $\pmb { h }$ 决定的，这种叫Luong注意力[7]。基于内容的注意力模型存在一个缺陷，由于一段音频中存在大量的重复帧，所以生成的注意力得分会因为内容相近而值相近，可能会导致某一时刻的解码输出过于依赖相同含义的帧。为了解决这个问题，文献[14]引入了前一时刻的注意力得分的卷积结果作为位置信息来对该时刻的注意力得分进行调整。具体方法是增加一个矩阵 $F$ ，并让它和前一时刻的得分做卷积：
+
+$$
+f _ { i } = F ^ { * } \alpha _ { i - 1 }
+$$
+
+然后再重新计算 $a _ { i }$ ：
+
+$$
+e _ { i j } = { w ^ { T } } \mathrm { t a n h } ( W s _ { i - 1 } + W h _ { j } + W f _ { i j } + b )
+$$
+
+$$
+\alpha _ { i j } = \frac { \exp ( e _ { i j } ) } { \displaystyle \sum _ { k = 1 } ^ { T _ { h } } \exp ( e _ { i k } ) }
+$$
+
+# 2 新型混合式注意力机制
+
+上述提到的基于卷积提取位置信息的混合式注意力机制使得模型性能得到一定程度的提高，但这样做的局限性是卷积不能综合过去多个时刻的注意力得分来得到更准确的位置信息。与文献[14]不同，本文通过引入LSTM来解决这一问题。LSTM是RNN的一种特殊类型，可以更好地学习长期依赖信息。LSTM通过特意的设计来避免梯度消失的问题，记忆长期信息是LSTM的默认行为，而非需要付出很大的代价才能获得的能力。图2给出了LSTM单元的构造图。原生的RNN随着时间的推移，后面的时间节点对前面时间节点的感知力下降，这会导致长期历史信息无法充分利用。而LSTM 通过引入“细胞”来更好地记住长期依赖的信息，同时引入“门”机制来对历史信息和当前输入信息进行筛选而产生更好的输出状态。文献[7]给出了常规的LSTM，具体公式如下：
+
+$$
+i _ { t } = \sigma ( \boldsymbol { W } _ { x i } \boldsymbol { x } _ { t } + \boldsymbol { W } _ { h i } h _ { t - 1 } + b _ { i } )
+$$
+
+$$
+f _ { t } = \sigma ( W _ { x f } x _ { t } + W _ { h f } h _ { t - 1 } + b _ { f } )
+$$
+
+$$
+c _ { t } = f _ { t } c _ { t - 1 } + i _ { t } \mathrm { t a n h } ( W _ { x c } x _ { t } + W _ { h c } h _ { t - 1 } + b _ { c } )
+$$
+
+$$
+o _ { t } = \sigma ( W _ { x o } x _ { t } + W _ { h o } h _ { t - 1 } + b _ { o } )
+$$
+
+$$
+h _ { _ t } = o _ { _ t } \mathrm { t a n h } ( c _ { _ t } )
+$$
+
+其中： $\sigma$ 指代sigmoid函数； $i _ { t } , f _ { t } , o _ { t }$ 分别指代输入门、遗忘门和输出门； $\ { } _ { c _ { t } }$ 和 $h _ { t }$ 别称为细胞状态和隐含状态，其中 $h _ { t }$ 作为LSTM在每一时刻的输出。
+
+新型的混合式注意力机制具体公式表达如下：
+
+$$
+\begin{array} { l } { { \displaystyle e _ { i j } = q ^ { \gamma } \mathrm { t a n h } ( W _ { \varepsilon , s _ { i } } + W _ { n } h _ { j } + W _ { n } m _ { i } + l ) } } \\ { { \displaystyle a _ { i j } = \frac { \mathrm { e x p } ( e _ { i j } ) } { \sum _ { k = 1 } ^ { n } \mathrm { e x p } ( e _ { k } ) } } } \\ { { \displaystyle c _ { i } = \sum _ { j = 1 } ^ { n } a _ { i j } h _ { j } } } \\ { { \displaystyle f _ { i } = F ^ { * } a _ { i } } } \\ { { \displaystyle p _ { i } = \mathrm { G l o b a l A v e r a g e P o o i n g } ( f _ { i } ) } } \\ { { \displaystyle m _ { i + 1 } = \mathrm { S T M l n h i t s } ( p _ { i } , m _ { i } ) } } \end{array}
+$$
+
+其中： $e _ { i j }$ 计算的是解码器输出 $s _ { i }$ 和编码器某一时刻的输出状态$h _ { j }$ 的相似度，与式(11)类似，本文还考虑了前一时刻提供的位置信息 $m _ { i } ,$ 。通过对 $e _ { i j }$ 进行 softmax正则化便可得到关于编码器第 $j$ 个时刻输出的注意力得分 $a _ { i j }$ ，最后利用该得分对编码器输出序列进行加权平均便可得到上下文 $c _ { i }$ 。式(21)\~(23)是本方案的创新点。由于编码器的输出状态序列长度是可变的，为了能从中提取有用的位置信息，本文采用卷积处理。多个大小为 5的卷积核进行卷积操作 $\pmb { F } ^ { * } \alpha _ { i }$ 提取多通道特征，再通过全局平均池化便可提取出固定维度的向量 $p _ { i }$ ，最后使用LSTMUnits函数(式(13)-(17))便可生成下一时刻位置感知信息 $m _ { i + 1 }$ 。
+
+![](images/3f64b5ccaabb45f7a4fe9cdf5120306853bcbb69cebc841b18c2be5ae5afbf51.jpg)  
+图2LSTM单元构造图  
+Fig.2Structure diagram ofLSTM unit
+
+# 3 解码和重新编码
+
+与文献[10]不同的是，在推断阶段，本文仅考虑声学模型，即在给定输入音频的基础上寻找概率最高的字符序列：
+
+$$
+\hat { y } = \mathrm { a r g m a x } \operatorname { \mathrm { , l n } } P ( y \mid x )
+$$
+
+传统的广度优先搜索策略能找到最优解码，但搜索空间非常大，容易造成内存溢出，本文采用 beam search[18] 算法进行解码。用记号sos作为解码器开始时刻的输入，并维持 $\beta$ 大小的局部假设路径集合beam。在每一个时刻，用词汇表中的每个单词扩大beam 中的每条局部假设路径，然后根据目前的局部假设路径对其剪枝并保留概率最高的 $\beta$ 条路径，直到某条路径以eos结尾，把它从beam中移出并加入完备假设集。
+
+# 4 实验及分析
+
+# 4.1实验方法
+
+本文分别在纯净和含噪的数据集进行两组对比实验来评估提出的方案。纯净语音数据来自于Voxforge[19]，抽取同一人的1138组语音样本作为数据集，并随机划分910组语音样本为训练集，剩余样本为测试集。在每一段语音数据中加入来自NOISEX-92[20]数据库的工厂噪声便能生成相应的含噪语音，其中纯净语音信号和噪声信号的平均信噪比约为7dB。本实验的对比模型分别是BLSTM-CTC模型[II]、基于卷积位置信息的编码器一解码器模型[14]、LAS 模型和基于卷积位置信息的LAS模型。其中基于卷积位置信息的LAS 模型是LAS 模型的一个改进，即在注意力机制提取上下文信息的过程中加入上一时刻提取的卷积位置信息，加强该时刻提取的上下文的合理性。该模型是本实验比较的重点。本实验以每 $2 5 \mathrm { m s }$ 作为一帧（ $1 0 \mathrm { m s }$ 帧移）提取40 维的对数梅尔滤波器特征作为模型Listener 的输入，并且对特征进行z-score 标准化加快模型训练速度。
+
+文本序列中所有的英文字母均转换为小写，解码部分考虑的符号为英文字母、数字、句号、逗号、空格、引号，其他符号用unk来表示。每段文本的开头和结尾分别添加记号sos 和eos。由于字母是一个离散值，所以采用独热编码将其映射到连
+
+续空间而作为 Speller 的输入。
+
+对于Listener，使用节点数为128的BLSTM从输入特征序列中提取隐含状态序列，再用节点数为256的pBLSTM对其进行时间维度上的降维。对于Speller，采用2层节点数为128的LSTM进行解码。模型参数以均匀分布 $u ( - 1 . 0 , 1 . 0 )$ 进行初始化。为了避免深度神经网络中出现 internal covariate shift[2I]，加速模型的收敛，对网络中每一层输入进行layernormalization[22]变换
+
+本文采用Adam[23]优化算法来进行模型的训练，其中超参数 $\beta _ { 1 }$ 和 $\beta _ { 2 }$ 均设为0.9，学习速率则设为0.003。采用指数衰减法来调节学习速率以使模型在训练后期更加稳定，其中衰减系数设为0.55，衰减步数为2000。
+
+在推断阶段，采用预测字母而不是真实字母作为下一时刻的输入。当输入的是一个错误的预测时，则可能会导致后续每个时刻都作出错误的预测，因为这可能是训练阶段没见过的状态分布。为了减缓这种影响，采用 Scheduled Sampling[13] 的训练方法，即在训练阶段以一定的采样概率使上一时刻的预测字母作为下一时刻的输入，在本实验中采样概率为 $2 5 \%$ 。为了使解码更加稳定，在测试集上采用beamsearch 解码。
+
+# 4.2各模型的标签错误率对比
+
+图3给出了不同集束宽度下的模型解码对比。可以看出，无论是纯净测试集还是噪声测试集，新的模型在每个beamwidth上都取得了最低的标签错误率(label error rate，LER)[5]。表1给出了所有实验的汇总结果。在纯净测试集上，新的模型取得了 $2 2 . 0 6 \%$ 的标签错误率，相比于基于卷积位置信息的的LAS模型减少了 $1 . 8 \%$ ；在噪声测试集上，新的模型取得了 $2 4 . 9 7 \%$ 的标签错误率，相比基于卷积位置信息的LAS模型减少了$2 . 2 1 \%$ 。噪声的加入使得相近发音更加难以区分，基于卷积位置信息的LAS模型对上下文的提炼仅能依赖于隐含状态内容及前一时刻注意力得分提供的位置信息，故在噪声测试集上的标签错误率急速上升。通过使用LSTM单元替换卷积来提炼位置信息，充分发挥了LSTM长期记忆的优势，提供的位置信息更加合理和准确。新的模型变得更加鲁棒，每一步的解码，不过分关注内容相近的隐含状态，故仍能维持较低的标签错误率。
+
+相对于基于卷积位置信息的编码器一解码器模型，LAS模型在纯净测试集上取得的标签错误率减少了 $1 . 5 \%$ ；而在噪声测试集上，则高出 $0 . 5 \%$ 。这表明金字塔BLSTM的编码器结构通过融合相邻帧的输出状态能够减少解码过程中需要注意的特征信息，在干净的语音训练数据上能取得更好的性能提升。但该结构鲁棒性相对较弱，由于在注意力机制提取上下文信息的过程中缺少位置信息，使得模型把多余的状态信息考虑进来。而噪声的存在使得这些多余的状态信息对上下文信息影响较大，故在噪声测试集上性能大幅度下降。因此，理想的情况是把这样的编码器结构和混合式注意力机制结合起来提高模型最终性能，正如新的模型和基于卷积位置信息的LAS模型所展示的那样。
+
+与原始的LAS 模型和基于卷积位置信息的编码器一解码器模型相比，BLSTM-CTC在纯净和噪声测试集上均取得更低标签错误率。与CTC框架不同，编码器一解码器框架每一步的解码不仅基于从语音信号中提取的上下文信息，还基于前一时刻的解码信息。若前一时刻的解码出现错误，将会影响该时刻的标签预测。编码器—解码器模型尽管采用 Scheduled Sampling的训练方式减缓了这样的影响，但却无法完全消除。特别是在含噪测试集上，标签错误率上的差距被进一步拉大，这从侧面反映了在注意力机制中加入位置信息对正确解码的必要性。
+
+![](images/daea0dc65f3bb7726c064db5b007e9a50b1e716189199e487c67204b93d6383a.jpg)  
+图3使用beamsearch在纯净和含噪测试集上获得的模型解码对比 Fig.3Model decoding comparison using beam search on pure and noisy test sets
+
+表1在纯净和含噪测试集上的标签错误率  
+Table 1Label error rate on pure and noisy test sets   
+
+<html><body><table><tr><td>model</td><td>Clean LER</td><td>Noisy LER</td></tr><tr><td>BLSTM-CTC</td><td>24.14%</td><td>28.56%</td></tr><tr><td>Encdec+Conv.Features</td><td>28.15%</td><td>33.06%</td></tr><tr><td>LAS</td><td>26.65%</td><td>33.56%</td></tr><tr><td>LAS+Conv.Features</td><td>23.86%</td><td>27.18%</td></tr><tr><td>new model</td><td>22.06%</td><td>24.97%</td></tr></table></body></html>
+
+# 4.3 可视化注意力得分
+
+图4分别给出了LAS模型，基于卷积位置信息的LAS模型和新的模型基于同一语音信号(图4(d))的注意力得分可视化对比。不难发现，对于字符的解码，LAS模型的注意力得分分布最稀疏(图(a)中的红圈所示)，这说明LAS模型的解码需要更多位置的内容信息的帮助，然而却没有考虑到位置的对齐，使得解码有点模棱两可。相对于LAS模型，其余两个模型的字符注意力得分分布则要更加集中，整体呈现出单调性，尤其是新的模型。这说明模型解码时不仅能找到相关内容信息，同时考虑了位置信息，这与前述的理论分析是一致的。
+
+# 5 结束语
+
+本文给出了基于卷积位置信息的混合式注意力机制的一个改进方案。具体做法是对当前时刻生成的注意力得分作卷积提取多通道的特征图（通道数是固定的），并再作全局平均池化来得到恒定维度的特征向量。引入一LSTM单元作为外部记忆模块，以生成的特征向量作为输入便能生成下一时刻的位置信息向量。本文结合经典的LAS模型来对新方法进行评估。实验结果表明，新的模型在纯净和含噪的语音测试集上均取得最低的标签错误率，充分反映了LSTM对长期位置信息的记忆能力。
+
+![](images/ad52eab2b0511931375a811ff253eefd4d58c1e1d7b6bc64bf3fe8aba2093d80.jpg)  
+(a)LAS模型的注意力得分分布图
+
+(a)Attention scores distribution produced byLAS model
+
+![](images/9fa6afa6ba58b2ff9ec603717ae1c494b5ccbf62ae8db2c8d083b53470dcf6ee.jpg)
+
+(b)基于卷积位置信息的LAS模型的注意力得分分布图 (b)Attention scores distribution produced by LAS model based on convolution location information
+
+![](images/3113b5d9c4bb716bdebbe291ff487abce66f7a9128b328612162d793868c6954.jpg)  
+(c)新的模型的注意力得分分布图
+
+![](images/3fe6a82e85f62780da2444bd955bcbb0ccf8629bd755fdb44cedcf413827b1f2.jpg)  
+(c)Attention scores distribution produced by my model   
+图4基于同一语音信号(图4(d))的各模型注意力得分分布对比 Fig.4Comparison of attention scores for each model based on the same speech signal(Fig.4d))
+
+BLSTM-CTC模型在纯净和含噪语音测试集上均取得比原始LAS模型和基于卷积位置信息的编码器一解码器模型更低的标签错误率，这是因为编码器一解码器模型在当前时刻的解码需要前一时刻的解码信息，当前一时刻的解码出现错误时将会影响当前及未来时刻的解码。寻找比 Scheduled Sampling 更好的训练方法来缓和该种影响，将是未来的研究工作。
+
+参考文献：   
+[1]Lecun Y,Bengio Y,Hinton G.Deep learming [J]. Nature,2015,521(7553): 436.   
+[2]Hinton G,Deng Li,Yu Dong,et al.Deep neural networks for acoustic modeling in speech recognition: the shared views offour research groups [J]. IEEE Signal Processing Magazine,2012,29(6): 82-97.   
+[3]Morgan N,Bourlard H. Continuous speech recognition using multilayer perceptrons with hidden Markov models[C]// Proc of International Conference on Acoustics,Speech,and Signal Processing.[S.1.] : IEEE Press,1990: 413-416.   
+[4]Dahl G E,Yu Dong,Deng Li,et al.Large vocabulary continuous speech recognition with context-dependent DBN-HMMs [C]// Proc of IEEE InternationalConferenceonAcousticsSpechandSigalProcesin: [S.1.] : IEEE Press,4688-4691.   
+[5]Graves A，Fernandez S,Gomez F,et al.Connectionist temporal classification: labeling unsegmented sequence data with recurrent neural networks [Cl//Proc of the 23rd International Conference on Machine Learning.[S.1.] :ACMPress,2006:369-376.   
+[6]Bahdanau D,Cho K,Bengio Y.Neural machine translation by jointly learning to align and translate [J].arXiv,2014,arXiv: 1409. 0473.   
+[7]Hochreiter S,Schmidhuber J.Long short-term memory [J].Neural Computation,1997,9(8): 1735-1780.   
+[8] Cho K，Van Merrienboer B,Gulcehre C，et al. Learning phrase representations using RNN encoder-decoder for statistical machine translation [C]// Proc of Conference on Empirical Methods in Natural Language Processing. 2014: 1724-1734.   
+[9] Chorowski J,Bahdanau D,Cho K,et al. End-to-end continuous speech recognition using attention-based recurrent nn: First results [C]// Proc of Workshop on Deep Learning. 2014.   
+[10] ChanW,JaitlyN,LeQ,et al. Listen,attend and spell aneural network for large vocabulary conversational speech recognition [C]// Proc of IEE International Conference on Acoustics,Speech and Signal Processing.[S. 1.]: IEEE Press,2016: 4960-4964.   
+[11] Graves A,Jaitly N. Towards end-to-end speech recognition with recurrent neural networks [C]// Proc of the 31st International Conference on International Conference on Machine Learning.2014: II-1764.   
+[12] Graves A,Jaitly N,Mohamed A. Hybrid speech recognition with deep bidirectional LSTM[C]// Proc of IEEE Workshop on Automatic Speech Recognition and Understanding.[S.1.]:IEEE Press,2013:273-278.   
+[13] Bengio S, Vinyals O,Jaitly N,et al. Scheduled sampling forsequence prediction with recurrent neural networks [C]// Advances in Neural Information Processing Systems.2015:1171-1179.   
+[14] ChorowskiJK,Bahdanau D,Serdyuk D,et al.Attention-based models for speech recognition [C]// Advances in Neural Information Processing Systems.2015: 577-585.   
+[15] Lin M, Chen Q,Yan S.Network in network[J].arXiv,2013,arXiv:1312. 4400.   
+[16] GravesA,Wayne G,DanihelkaI.Neural turing machines [J].arXiv, 2014, arXiv:1410.5401.   
+[17]Luong MT,Pham H,Manning CD.Effective approaches to attention-based neural machine translation [J].arXiv,2015,arXiv:1508.04025.   
+[18] Sutskever I,Vinyals O,Le QV. Sequence to sequence learning with neural networks [C]//Advances in neural information processing systems.2014: 3104-3112.   
+[19] Surhone LM, Timpledon MT,Marseken SF.Voxforge [M].2010.   
+[20] Varga A,Steeneken HJM.Assessment for automatic speech recognition: II. NOISEX-92:a database and an experiment to study the effect of additive noise on speech recognition systems [J]. Speech Communication,1993,12 (3): 247-251.   
+[21] Ioffe S, Szegedy C.Batch normalization: accelerating deep network training by reducing internal covariate shift [J].arXiv,2015,arXiv: 1502.03167.   
+[22]BaJL,KirosJR,Hinton GE.Layer normalization[J].arXiv,2016,arXiv: 1607. 06450.   
+[23]Kingma DP,Ba J.Adam:a method for stochastic optimization [J].arXiv, 2014,arXiv:1412.6980.

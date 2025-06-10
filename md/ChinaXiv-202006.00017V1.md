@@ -1,0 +1,289 @@
+# 2000一2018年塔里木河流域植被覆盖时空格局
+
+孙天瑶1,2,3 李雪梅1,2.3，许民4， 张萌生1,2,3
+
+（1兰州交通大学测绘与地理信息学院,甘肃兰州730070；2地理国情监测技术应用国家地方联合工程研究中心,甘肃兰州730070;3甘肃省地理国情监测工程实验室,甘肃兰州730070;4中国科学院西北生态环境资源研究院冰冻圈科学国家重点实验室,甘肃兰州730000)
+
+摘要：选取 2000—2018年 MODIS-NDVI数据,采用 Sen $^ +$ Mann-Kendall趋势分析、变异系数法、Hurst指数、偏相关分析及残差分析等方法，分析塔里木河流域植被覆盖时空格局及气候因子和人类活动对植被变化的影响。结果表明：（1）塔里木河流域植被覆盖总体呈明显增加趋势，以2008年为转折存在明显阶段变化。（2）植被分布存在明显地域差异，“北高南低，西高东低”，植被覆盖高区分布于山体多的地带、绿洲及绿洲荒漠交错带。（3）全区植被覆盖趋势以基本不变居多。山体等植被覆盖高区，植被活动响应显著。全区大部分区域将保持现有的稳定趋势。（4）气温和降水量对NDVI的综合影响从东北向西南逐渐增强，且降水量对NDVI的影响更为明显。人类活动对植被变化产生积极影响的区域主要分布于绿洲、绿洲荒漠过渡带以及塔里木河下游附近。
+
+关键词：植被覆盖；时空格局；气候因子；人类活动；塔里木河流域
+
+# 文章编号：
+
+植被作为陆地生态系统重要的主体之一，与大气圈、土壤圈、水圈的物质循环和能量流动紧密关联[1]。植被覆盖变化改变地表土壤下垫面属性,对水土保持、气候调节以及生态环境的稳定都起到关键作用，植被覆盖度同植被繁茂程度和植被进行光合作用的面积有明显的对应关系[2]。归一化植被指数（Normal DifferenceVegetation Index,NDVI)是目前常用的表征植被覆盖变化的指标，能够揭示区域环境状况的演化与变迁[3]。将 NDVI数据应用于监测植被变化特征，了解植被时空覆盖格局、过程，进而为探索提高区域生态环境质量的方法、路径，改善人们居住环境、促进地域社会经济发展提供参考。
+
+长期以来由于气候变化和不合理的开发利用，塔里木河下游河道断流，绿色走廊不断衰退，荒漠化加剧，严峻的生态环境问题严重制约了地域社会经济发展[4]。2001年起,塔里木河流域管理局先后实施输水工程、灌区节水、河道治理等一系列生态综合治理工程，旨在缓解塔里木河流域生态环境日趋恶化。利用遥感数据对塔里木河流域植被覆盖状况的研究已有许多成果：郭继凯等[5基于2001—2013年MODIS-NDVI数据和塔里木河流域气象数据，利用一元线性回归法、残差分析法等方法，分析了塔里木河流域植被覆盖变化趋势、气候变化以及人类活动对植被改善区和植被退化区的影响;罗敏等[基于2000—2013年 MODIS-NDVI数据和塔里木河流域同期气候数据，使用一元线性回归分析、偏相关分析以及残差分析等方法，研究了塔里木河流域生长季NDVI的时空变化特征及其影响因素分析；管文轲等[7基于 2007—2017 年 MODIS-EVI数据,运用线性回归和方差分析等方法，对塔里木河流域植被的变化规律进行动态监测及趋势分析;陈海燕等[8]基于1977—2014年近40a的5个不同时期的Landsat数据，采用NDVI计算模型、一元线性回归分析等方法，分析了塔里木河干流荒漠河岸林植被带的年际变化及空间格局态势;高庆等[基于1986—2017 年Landsat数据，利用波动分析、趋势分析等方法，研究了塔里木河下游区域植被时空变化特征，并对其影响因素进行分析;闫俊杰等[10]基于 2000—2014 年MODIS-NDVI数据,使用Sen $^ +$ Mann-Kendall趋势分析等方法，对塔里木河流域植被年际变化特征及空间趋势进行分析。
+
+上述研究成果主要在不考虑其他线性因素影响下，研究气温、降水量和人类活动对植被NDVI的影响，实际上，植被的生长变化受诸多因素综合影响，单一的某种因素往往不能解释植被复杂的变化过程。再者，很少研究者对塔里木河流域植被覆盖空间格局态势进行综合分析。鉴于上述情况，本文基于MODIS-NDVI数据，利用偏向关分析方法研究气温和降水量对塔里木河流域植被变化的综合影响，利用残差分析方法分析人类活动对植被变化的影响，进一步反映NDVI残差在人类活动相对较弱区域还受其他线性变化因素影响，结合Sen $^ +$ Mann-Ken-dall趋势分析、变异系数法、Hurst指数等方法分析塔里木河流域植被覆盖时空格局变化特征及趋势
+
+# 数据与方法
+
+# 1.1 研究区概况
+
+塔里木河流域位于新疆南部,环塔里木盆地与山地相接,北依天山，西临帕米尔高原,南靠昆仑山、阿尔金山，东至库鲁克塔格山，塔克拉玛干沙漠位于流域中部[1]。受水资源开发利用影响，目前逐渐形成流域的阿克苏河、和田河、叶尔羌河、开都河4条源流和塔里木河干流的格局，塔里木盆地边缘与流域之间形成冲积扇和冲击平原,并有大片绿洲分布[12]。塔里木河流域深居内陆,远离海洋、高山环绕,属于温带干旱大陆性气候，光热资源丰富，流域内干旱少雨，多年年均降水量不超过 $1 2 0 ~ \mathrm { m m }$ ，蒸发强烈，且年、日温差大，年均气温除高寒山区外多在3.2～11.5℃,四季气候悬殊[12]
+
+塔里木河流域特殊的地理区位使得水资源匮乏，植被极度稀疏且覆盖低，戈壁、沙漠裸地面积大，具备典型的干旱区生态环境特征[13]。塔里木河流域整体按行政区可划分为7大植被覆盖区：哈密地区、吐鲁番地区、巴音郭楞蒙古自治州（简称巴州）、阿克苏地区、克孜勒苏柯尔克孜自治州（简称克州）喀什地区、和田地区（图1）。
+
+# 1.2 研究数据
+
+本研究中遥感数据由美国地球观测系统数据和信息系统 EOSDIS（Earth Observing System Data andInformation System）提供的2000—2018年MODIS/MOD13Q1植被指数产品，16d最大值合成、 $2 5 0 \mathrm { ~ m ~ }$ 空间分辨率。利用 MRT 软件从 MOD13Q1产品中提取NDVI数据，经镶嵌、裁剪、MVC合成等预处理，得到研究区NDVI数据集。以8月作为研究时段，此时段区域NDVI达到一年中最大，且影像云污染较少，能够连续对研究区植被时空变化特征进行分析。气候数据来源于中国气象数据共享中心，包括研究区19个气象站点2000—2018年同期气温及降水数据。
+
+# 1.3 研究方法
+
+1.3.1Sen $^ +$ Mann-Kendall 趋势分析Sen $^ +$ Mann-Kendall方法是Sen趋势度与Mann-Kendall检验结合，以增强长时序趋势分析抗噪性，提高检验结果准确性[14]。Sen 趋势度计算公式为：
+
+$$
+\beta = \mathrm { m e d i a n } \left( { \frac { N D V I _ { j } - N D V I _ { i } } { j - i } } \right) \quad \forall j > i
+$$
+
+75°E 80°E 85°E 90°E 95°E 100°EN 吐鲁番鄯善 哈密人 河渭王库车轮阿克苏河 阿克苏河 库尔勒孔雀河 图例  
+40°N 克乌恰阿图件 坪 塔 里 木 河 ·站政区划 40°N甫河 城和田民 麦盖提田 什河 且末 ·若羌 N主要河流 高：0.990 低：0.0010 250 500km  
+35°N L J 35°N75°E 80°E 85°E 90°E 95°E 100°E
+
+式中： $N D W _ { j }$ 和 $N D V I _ { i }$ 为样本时序数据集合;median为中值函数; $1 < i < j < n , i , j$ 分别为集合不同时间长度， $n$ 为时序长度； $\forall$ 为任意符号。 $\beta$ 用以量化单调趋势，当 $\beta > 0$ 时，反映这一时间序列呈单调上升趋势，反之呈单调下降趋势。
+
+使用Mann-Kendall进行NDVI序列趋势检验，设检验统计量 $Z$ ,其计算公式为：
+
+$$
+\begin{array} { r l r } { \displaystyle \frac { S - 1 } { \sqrt { \mathrm { \scriptsize ~ v a r } ( S ) } } } & { { } } & { S > 0 } \\ { Z = } & { { } } & { 0 } \\ { \displaystyle \frac { S + 1 } { \sqrt { \mathrm { \scriptsize ~ v a r } ( S ) } } } & { { } } & { S < 0 } \end{array}
+$$
+
+$$
+S = \sum _ { i = 1 } ^ { n - 1 } \sum _ { j = i + 1 } ^ { n } \mathrm { s g n } \left( N D V I _ { k } - N D V I _ { i } \right)
+$$
+
+$$
+\operatorname { v a r } ( S ) = { \frac { n ( n - 1 ) ( 2 n + 5 ) } { 1 8 } }
+$$
+
+$$
+\begin{array} { r } { \mathrm { s g n } ( N D W _ { k } - N D W _ { i } ) = \left\{ \begin{array} { l l } { 1 } & { N D W _ { k } - N D W _ { i } > 0 } \\ { 0 } & { N D W _ { k } - N D W _ { i } = 0 } \\ { - 1 } & { N D W _ { k } - N D W _ { i } < 0 } \end{array} \right. } \end{array}
+$$
+
+式中： $N D V I _ { k }$ 和 $N D V I _ { i }$ 分别为样本时序数据集合;var为计算方差函数； $\mathrm { s g n }$ 为符号函数; $1 < i < k < n , i , k$ 分别为集合不同时间长度。根据时序长度 $n$ 值大小的不同，当显著性检验统计量 $s$ 近似服从标准正态分布时，使用 $Z$ 进行双边趋势检验。在给定显著性水平 $\alpha$ 下,在正太分布表中查临界值 $\scriptstyle { Z _ { 1 - \alpha / 2 } }$ ，当 $\mid Z \mid$ ${ < } Z _ { 1 - \alpha / 2 }$ 时,即趋势不显著;当 $\mid Z \mid > Z _ { 1 - \alpha / 2 }$ ，即认为趋势显著。
+
+1.3.2 Hurst 指数Hurst 指数用于定量描述长时序数据的可持续性，判断时间序列遵从随机游走还是存在持续性[15]。其计算原理如下：
+
+时间序列 $\{ N D V I ( t ) \}$ ， $t = 1 , 2 , \cdots , N$ ,对于任意正整数 $\tau { \geq } 1$ ，定义该序列均值序列：
+
+$$
+< N D V I > _ { \tau } = \frac { 1 } { \tau } \sum _ { i = 1 } ^ { \tau } N D V I ( t ) , \tau = 1 , 2 , \cdots , N
+$$
+
+累积离差：
+
+$$
+X ( t , \tau ) = \sum _ { u = 1 } ^ { t } ( N D V I ( u ) - < N D V I > _ { \tau } ) , 1 \leqslant t \leqslant \tau
+$$
+
+极差：
+
+$$
+R ( \tau ) = \operatorname* { m a x } _ { 1 \leqslant t \leqslant \tau } X ( t , \tau ) - \operatorname* { m i n } _ { 1 \leqslant t \leqslant \tau } X ( t , \tau )
+$$
+
+$$
+\tau = 1 , 2 , \cdots , N
+$$
+
+标准差：
+
+$$
+S ( \tau ) = \Bigl [ { \frac { 1 } { \tau } } { \sum _ { t = 1 } ^ { \tau } } ( N D V I ( t ) - < N D V I > _ { \tau } ) ^ { 2 } \Bigr ] ^ { \frac { 1 } { 2 } } ,
+$$
+
+$$
+\tau = 1 , 2 , \cdots , N
+$$
+
+若存在 $R ( \tau ) / S ( \tau ) \propto ( c \tau ) ^ { H } , c$ 为经验值, $H$ 即为Hurst指数。当 $0 . 0 0 < H < 0 . 5 0$ ，表示时间序列具有反持续性，即未来变量与过去变化趋势相反， $H$ 越小，反持续性越强；当 $H = 0 . 5 0$ 时，表示时间序列为相互独立的随机序列；当 $H > 0 . 5 0$ ,表示未来变量与过去变化趋势一致， $H$ 越大，持续性越强。
+
+1.3.3变异系数法变异系数能够衡量时间序列偏离常态的程度，用来反映植被覆盖波动变化。其值越大，表明数据波动性越大，越不稳定；反之数据分布较为集中,稳定性强[16]。其计算公式为：
+
+$$
+C V _ { \scriptscriptstyle { N D V I } } = \frac { \sigma _ { \scriptscriptstyle { N D V I } } } { N D V I }
+$$
+
+式中： $C V _ { \scriptscriptstyle { N D V I } }$ 表示时序NDVI的变异系数; $\sigma _ { \mathit { N D V I } }$ 表示时序NDVI标准差； $\overline { { N D W } }$ 表示均值。
+
+1.3.4偏相关分析偏相关分析是指在三个或多个变量的相互作用中，控制其他变量影响，研究其中两个变量的相关性程度的过程[17]。其计算公式为：
+
+$$
+r _ { x y ( z ) } = \frac { r _ { x y } - r _ { x z } r _ { y z } } { \sqrt { ( 1 - r _ { x z } ^ { 2 } ) \times ( 1 - r _ { y z } ^ { 2 } ) } }
+$$
+
+式中： $r _ { x y } \setminus r _ { x z } \setminus r _ { y z }$ 分别为变量 $x$ 和 $y$ 变量 $x$ 与 $z .$ 变量 $y$ 与 $z$ 间的相关系数。
+
+1.3.5残差分析法残差分析利用残差提供的信息，来考察模型假设的合理性及数据可靠性。根据气候要素与NDVI的相关关系分离出气候要素对NDVI变化的影响，残差变化趋势用来表示人类活动（放牧、农业、城市化等)和其他线性变化因素的影响[18]。其计算公式为：
+
+$$
+\varepsilon = y - y ^ { \prime }
+$$
+
+式中： $y$ 为 $N D W$ 实测值; $y ^ { \prime }$ 为 NDVI模型预测值; $\boldsymbol { \varepsilon }$   
+为残差。
+
+# 2结果与分析
+
+# 2.1塔里木河流域植被年际变化特征
+
+2000—2018年塔里木河流域植被覆盖存在一定的波动，总体呈现较为明显的增加趋势，NDVI值介于 $0 . 1 0 5 \sim 0 . 2 2 4$ ,年均增长率为 $4 . 7 8 \%$ （图2）。植被覆盖存在明显的阶段变化，2008年以前植被变化由增加趋势转向下降，之后迅速增长，但在2014年有一个较大的下降，不及2008年NDVI值最低。其中克州植被增加最为显著，年均增长率为 $9 . 4 2 \%$ ，其次是哈密地区 $7 . 1 2 \%$ ,巴州地区 $3 . 9 5 \%$ 。和田地区植被增长率缓慢，这与其毗邻昆仑山北坡属暖温带塔里木荒漠、植被基数较小有关，但年均增长率亦以 $2 . 0 1 \%$ 上升(表1)。
+
+表1塔里木河流域NDVI年际变化特征统计  
+Tab.1Statistical characteristics of annual variability of NDVI in the Tarim River Basin   
+
+<html><body><table><tr><td rowspan="2">区域</td><td colspan="2">NDVI年际变化</td><td rowspan="2">年均增长率 /%</td></tr><tr><td>2000年</td><td>2008年 2018年</td></tr><tr><td>哈密地区</td><td>0.17 0.27</td><td>0.40</td><td>7.12</td></tr><tr><td>吐鲁番地区</td><td>0.18</td><td>0.25 0.29</td><td>3.22</td></tr><tr><td>巴州</td><td>0.20 0.27</td><td>0.35</td><td>3.95</td></tr><tr><td>阿克苏地区</td><td>0.22 0.33</td><td>0.35</td><td>3.11</td></tr><tr><td>克州</td><td>0.19 0.33</td><td>0.53</td><td>9.42</td></tr><tr><td>喀什地区</td><td>0.21 0.29</td><td>0.37</td><td>4.01</td></tr><tr><td>和田地区</td><td>0.34</td><td>0.32 0.47</td><td>2.01</td></tr></table></body></html>
+
+# 2.2塔里木河流域空间格局变化
+
+2.2.1空间分布基本特征塔里木河流域植被覆盖增长显著(图3）。植被覆盖由流域外侧向流域中心一塔里木盆地腹部逐年扩大，低植被覆盖区逐渐减少;植被增加主要集中于库尔勒、焉耆、阿克苏、库车、喀什地区以及天山中部,库鲁克塔格山附近植被变化相对较小;全区植被状况相比2000年均有所提高，如同心年均增长率由2008 年 $2 . 1 1 \%$ 上升为$4 . 5 6 \%$ 。塔里木河流域植被覆盖受区域地貌格局影响较为明显，天山山脉、帕米尔高原以及昆仑山脉东部等附近形成明显的植被相对高区，塔里木盆地腹部、东部库鲁克塔格沙漠以及阿尔金山脉等附近植被覆盖相对较低；受水热条件限制，流域内植被覆盖北部高于南部，西部优于东部和东北部。
+
+![](images/48473b18370de8d7879e8fdaa04cde7eb421a48cc836ec35290a00087b1f720f.jpg)  
+图2塔里木河流域NDVI年际变化曲线 Fig.2Annual variation curve of NDVI in the Tarim River Basin   
+图32000—2018 年塔里木河流域植被覆盖空间分布  
+Fig.3Spatial distribution of vegetation coverage in the Tarim River Basin from 2OOO to 2018
+
+75°E 80°E 85°E 90°E 95°E1N (a)2000年吐鲁番善哈密A 阿克苏库车轮台 焉耆  
+No0 乌恰阿图代 件 库尔勒若芜 No0叶城 且末 ·站点和田于田民 NDVI0.00\~0.15  
+28 0 250 500km ■ 10.35-0.30 3.5NL L J 10.70\~1.0075°E 80°E 85°E 90°E 95E75°E 80°E 85°E 90°E 95°ENA (b)2008年 吐鲁香鄯善 哈密焉耆阿克苏库车  
+No0 乌恰阿图作 件 库尔勒若着 N0且末 ·站点和于田民 NDVI0.00\~0.15  
+200 0 250 500km 0.5-0.30 3.5NL 广 1 10.70\~1.0075°E 80°E 85°E 90°E 95E75°E 80°E 85°E 90°E 95EN (c)2018年 吐鲁番鄯善 哈密A 阿克苏库车 库尔勒 自  
+No0 乌恰阿图作 柯伴 T No0麦盖提 若羌且末 ·站点和田民丰 NDVI0.00\~0.15  
+200 0.15\~0.30 N0 250500km 10.50\~0.70 3L 10.70\~1.00175°E 80°E 85°E 90°E 95°E
+
+2.2.2空间格局超势及稳定性从空间分布上看，越靠近山体，或者山体越大的地方，植被覆盖增加趋势越明显。以塔里木河干流、开都河、阿克苏河、克孜勒苏河与和田河形成明显的植被绿化区。流域沿岸较流域中心植被改善显著，呈改善趋势区域主要分布于哈密、库尔勒、焉耆、阿克苏、库车、阿图什、乌恰、喀什地区以及天山南脉。植被呈退化趋势区域主要分布于天山中部的巴音布鲁克草原、帕米尔高原以及昆仑山东段等地区。阿克苏地区北部、昆仑山中段以及库鲁克塔格沙漠等附近也有少数区域出现植被覆盖减少的趋势，同时植被覆盖改善区域中也存在零星的退化区域。塔里木盆地腹部、库鲁克塔格沙漠以及阿尔金山等地区植被覆盖变化处于基本不变趋势
+
+75E 80°E 85°E 90°E 95E1 1N (a)空间趋势 吐鲁番鄯善哈密A 库车轮台 焉耆  
+N.OV 乌恰阿图代 柯邱阿克苏 库尔勒 NoOv在麦盖提 且末 若羌 站点和田于田民 蓝 明显改善  
+20 餐 3.5N0 250 500kmL 上 L 严董退花L75°E 80°E 85°E 90°E 95°E75E 80°E 85°E 90°E 95EN (b)稳定程度 鲁番部善哈密  
+No0v A 乌恰阿图伴 柯坪 阿克苏库车轮台 库尔勒 焉耆 N.Ov喀件麦盖提 若羌叶城 且末 . 站点和田 于田民丰 高波动相对高波动  
+200 中等波动 NZ0 250 500km 相对低波动 35L 1 L 低波动75E 80°E 85°E 90°E 95°E
+
+空间趋势及稳定程度
+
+# 表22000—2018年塔里木河流域NDVI Sen $^ +$ Mann-Kendall趋势分析统计
+
+Tab.2Statistical results of Sen $^ +$ Mann-Kendall of NDVI in the Tarim River Basin from 20o0 to 2018   
+
+<html><body><table><tr><td>NDVI变化趋势</td><td>程度</td><td>比重／%</td></tr><tr><td>β≥0.0005，IZ|≥1.96</td><td>明显改善</td><td>2.13</td></tr><tr><td>β≥0.0005，IZ|≤1.96</td><td>轻微改善</td><td>35.84</td></tr><tr><td>-0.0005≤β≤0.0005,IZ|≤1.96</td><td>基本不变</td><td>50.80</td></tr><tr><td>β≤0.0005，IZ|≤1.96</td><td>轻微退化</td><td>10.91</td></tr><tr><td>β≤0.0005,IZ|≥1.96</td><td>严重退化</td><td>0.33</td></tr></table></body></html>
+
+塔里木河流域植被覆盖趋势以基本不变区域居多 $5 0 . 8 0 \%$ ),植被覆盖呈改善趋势区域比重为$3 7 . 9 7 \%$ ,轻微和严重退化趋势区域比重为 $1 1 . 2 4 \%$ ，从总体上看，改善趋势区域主要集中于流域内附近水资源比较丰富的绿洲，退化趋势区域主要分布于巴音布鲁克草原和昆仑山东段等植被基数相对较大、植被生长变化响应显著的地区。
+
+塔里木河流域植被覆盖稳定性不同地域存在明显差异（图4b)，总体上处于“流域外侧高于内侧，高低波动并存，中度波动居多”的态势。波动程度高区域主要分布于帕米尔高原、天山南脉、昆仑山中东段及流域绿洲区一库尔勒绿洲、渭干河三角洲、阿克苏河冲击平原绿洲、喀什三角洲绿洲、叶尔羌河平原绿洲，和田绿洲等地区，与植被改善区基本吻合；中等波动变化区域多集中分布于绿洲与荒漠交错带;相对低波动变化以下区域主要分布于塔克拉玛干沙漠、库鲁克塔格沙漠等人口稀少、水资源稀少荒漠区。
+
+塔里木河流域植被波动程度高区域比重为$4 0 . 0 2 \%$ ，中等波动变化以下区域比重为 $5 9 . 9 8 \%$ ，综合可以发现，水分条件是控制流域内植被生长变化的主要因素：山区以及绿洲高波动区，多以林地覆盖，水分条件充足，气温趋于变暖，植被生长变化响应显著;绿洲荒漠交错带，受水热条件及荒漠气候限制,植被波动相对不高；人口稀少、水资源稀少的荒漠区，植被变化相对低，其大幅波动变化可能性较小。
+
+2.2.3植被覆盖可持续性分析研究区NDVI的Hurst指数均值为0.65，表明塔里木河流域植被变化将继续保持目前变化趋势。从2000—2018 年，反持续序列比重为 $3 0 . 8 3 \%$ ,主要分布于巴音布鲁克草原、帕米尔高原、昆仑山东段、塔里木河上中游附近，未来可能出现退化趋势，这可能由于山区和水系附近植被覆盖相对高，变化波动大，植被活动稳定性低。持续性序列比重为 $6 9 . 1 7 \%$ ，主要集中于流域绿洲地带一库尔勒绿洲、渭十河三角洲、阿克苏河冲击平原绿洲、喀什三角洲绿洲、叶尔羌河绿洲、和田绿洲，绿洲荒漠交错带以及荒漠区（图5）。
+
+塔里木河流域呈正向持续序列几乎覆盖了整个区域，加之2000—2018年植被呈退化趋势比重仅占$1 1 . 2 4 \%$ ，由此可预测塔里木河流域大部分区域植被将持续改善。弱持续性序列 $( 0 . 3 5 \sim 0 . 6 5$ ）比重为$6 3 . 1 7 \%$ ,几乎占一半，表明植被变化持续程度较弱。这种弱持续性进一步说明流域内植被覆盖情况是由自然条件和人类活动共同影响的，单纯自然或人类干预修复，其恢复序列应具有较强持续性，如自然维持的森林系统，人类维持的农田系统。
+
+# 2.3塔里木河流域气候因子对植被变化的影响
+
+对塔里木河流域19个气象站的气温与降水数据进行线性拟合（图6）。19a来，塔里木河流域降水量呈明显上升趋势，气温呈微弱上升趋势，气候环境正在逐步由暖干向暖湿化趋势转变。2000—2008年，塔里木河流域平均气温呈缓慢上升趋势,年降水量呈明显下降趋势;2009—2018 年，塔里木河流气温依旧呈上升趋势，降水量呈明显上升趋势。
+
+为了进一步分析气候因子对植被变化的影响，
+
+75°E 80°E 85°E 90°E 95°E 100°E 05°EN 吐鲁番鄯善哈密 站点A 柯坪阿克苏 库车轮台 库尔勒 焉耆 持续性 Hurst指数 -5强0.00≤H<0.2  
+40°N 乌恰阿图什 -3强 0.25≤H<0.35 40°N喀盖提 若羌 05且末和田 于田民 12较弱 0.55<H≤0.653强 0.65<H≤0.750 250 500km 14较强 0.75<H≤0.80  
+35°N 15很强 0.80<H≤1.00-35°N75°E 80°E 85°E 90°E 95°E 100°E 05°E
+
+![](images/2de3fc9e7bf7467ab5447a4582b2b8b34c4950d8cfc7d7daa98bd9d19fff2cc2.jpg)  
+图52000—2018 年塔里木河流域Hurst指数空间分布  
+Fig.5Spatial distribution of Hurst Index in the Tarim River Basin from 2OOO to 2018   
+图62000—2018 年塔里木河流域气温和降水量变化趋势  
+Fig.6Trend of temperature and precipitation in the Tarim River Basin from 200O to 2018   
+图72000—2018 年塔里木河流域 NDVI与气温、降水量相关分析  
+Fig.7Correlation analysis between NDVI and temperature and precipitation in the Tarim River Basin from 2000 to 2018
+
+采用相关分析法分析气温以及降水量因子对塔里木河流域 NDVI的影响。2000—2018年塔里木河流域气温与NDVI的相关系数，与降水量与NDVI的相关系数，区域差异明显（图7）。塔里木河流域NDVI在大部分区域( $7 2 . 9 2 \%$ )与气温呈明显的负相关关系，主要分布在吐鲁番地区、阿克苏地、克州、喀什地区以及塔里木盆地等地区，较为显著负相关关系的区域 $\big ( \mathrm { ~ - ~ } 1 . 0 0 \sim \mathrm { ~ - ~ } 0 . 5 0 \big )$ 主要分布在柯坪附近。塔里木河流域NDVI与气温呈正相关关系的区域占全区面积的 $2 7 . 0 8 \%$ ，主要集中在天山中部、昆仑山脉、阿尔金山等地区。适宜的气温可以通过光合、蒸腾、呼吸等代谢过程促进植被生长变化，当气温上升超过植被的适宜温度时，会对植被生长代谢过程产生抑制作用，从而NDVI与气温呈现负相关。塔里木河流域NDVI与气温呈正相关关系的区域主要分布于高山区，这可能由于高海拔地区气温相对较低,热量成为限制植被萌发生长的主要因素。
+
+塔里木河流域NDVI在大部分区域( $8 2 . 4 8 \%$ ）
+
+75E 80°E 85°E 90°E 95°E 1 1 N 吐鲁番鄯善哈密   
+NO 克库车轮 喀仕 叶城 麦盖提 库尔勒若芜 且末 ·站点 N0 和田于田民丰 相关系数   
+N8 -1.00\~-0.50 -0.50\~0.00 208 0 250 500km 10.00\~0.50 L J 二 10.50\~1.00 1 1 1 1 75°E 80°E 85°E 90°E 95°E 75°E 80°E 85°E 90°E 95°E 1 T T [ N 土鲁番鄯善哈密   
+NoOv A 乌恰阿图代 柯坪 阿克苏库车轮台 库尔勒 焉耆 No0 麦盖提 若羌 喀仕叶城 且末 ·站点 和田于田民丰 相关系数 -1.00\~-0.50   
+20 -0.50\~0.00 308 0 250 500km 10.00\~0.50 L L J 10.50\~1.00 1 1 75E 80°E 85°E 90°E 95°E
+
+与降水量呈正相关关系，几乎覆盖了整个区域，与降水量呈正相关关系较为显著的区域 $( 0 . 5 0 \sim 1 . 0 0 ) \$ 门主要分布在克州、喀什地区。塔里木河流域NDVI与降水量呈负相关关系的区域主要集中在天山中部、昆仑山脉、阿尔金山等山区，且相关性普遍较低。水在植被的养分传输，结构维持以及代谢过程中起着十分重要的作用，同时，降水增加土壤湿度，为植被提供充足水分，从而促进植被生长变化。对高山地区而言，这些地区降水量较高，对植被生长相对充足，温度相对较低，植被对降水量的响应不显著。
+
+75E 80°E 85°E 90°E 95°EN 鲁番鄯善哈密A 焉耆阿图件克东车作轮告  
+N.0V 喀什 叶城 麦盖提 且末 若羌 站点 NoOv和田于田民書 偏相关系数  
+298 0 250 500km -1.00\~0050 10.00\~0.50 290L 1 □ 10.50\~1.001 1 1 175E 80°E 85°E 90°E 95°E75°E 80°E 85°E 90°E 95°EN T T 1 1吐鲁番鄯善哈密A 柯阿克苏库车轮合 焉耆  
+N.0V 乌恰阿图伴 库尔勒若美 No0麦盖提喀仕叶城 且末 ·站点和田于田民丰 偏相关系数-1.00\~-0.50  
+290 -0.50\~0.00 880 250 500km 0.00\~0.50L 上 J 10.50\~1.00175°E 80°E 85°E 90°E 95°E75E 80°E 85E 90°E 95E1 1N 吐鲁番鄯善哈密A 阿克苏库车轮台  
+N.0v 乌恰阿图仕 柯坪 No0路麦盖提 叶城 且末 ·站点和田 于田民丰影响力  
+898 高：1.00 300 L 250 上 500km L 低：-1.00175°E 80°E 85°E 90°E 95°E75°E 80°E 85°E 90°E 95°E1 1 T TN 吐鲁番善哈密A 阿克苏库车轮台  
+N0 喀麦盖提 乌拾阿图件 叶城 且末 若羌 站点 No0v和田 于田民丰NDVI残差  
+300 高：1.00 200OL 250 500km 低：-1.00L75°E 80°E 85°E 90°E 95°E
+
+植被的变化受到诸多气候因子的综合影响，单一的气候因子往往不能解释植被复杂的变化过程,因此引入偏相关分析法来研究气温和降水量对植被的共同影响。2000—2018 年塔里木河流域NDVI和气温的偏相关系数，与NDVI和降水量的偏相关系数,绝大多数 $( 8 2 . 4 1 \%$ )在 $- 0 . 5 0 \sim 0 . 5 0$ 范围内,相关性普遍较低，且两者在 $- 0 . 5 0 \sim 0 . 5 0$ 之间的空间分布差异明显。2000—2018年塔里木河流域NDVI与气温和降水量的平均偏相关系数为-0.05，0.21。总体而言，2000—2018 年塔里木河流域 NDVI与降水量呈现正相关，与气温呈现负相关，且与降水量关系更密切。进一步说明，对干旱半干旱的塔里木河流域而言，水分在一定程度上是决定植被生长变化的主要因素。
+
+气温、降水量与植被NDVI的偏相关性的高低显示了气候因子对植被影响力的强弱，通过对偏相关系数求绝对值，来表示气候因子对植被的影响力的大小。2000—2018年塔里木河流域气温和降水量对NDVI的综合影响力从东北向西南逐渐增加（图9），气候因子对NDVI影响力在 $0 . 0 0 \sim 0 . 5 0$ 范围内居多，这表明气温和降水量对NDVI的影响相对较弱，塔里木河流植被的生长变化还应与其他相关因素紧密关联，如塔里木河流域复杂地质地貌、水系分布以及人类活动等。
+
+# 2.4塔里木河流域人类活动对植被变化的影响
+
+通过气候因子对植被变化的综合影响进行分离，得到2000—2018年塔里木河流域NDVI残差的空间分布（图9）。残差通常受几种因素影响，其中地形等固定空间因子不能导致残差趋势的定向改变，只有长期的人类活动和其他线性变化因素才可以造成残差的趋势性变化。
+
+2000—2018年塔里木河流域NDVI残差为正区域,主要分布于库尔勒绿洲、渭干河三角洲、阿克苏河冲击平原绿洲、喀什三角洲绿洲、叶尔羌河绿洲、和田绿洲、绿洲荒漠过渡带以及塔里木河下游附近。NDVI残差趋于正，表明这些区域人类活动等其他线性因素对植被变化产生了积极的影响。对于绿洲区、绿洲荒漠交错带，由于人口的增长，人类不断开垦土地，使得人工绿洲面积不断扩大，从而促进了植被覆盖变化。对塔里木河下游附近而言，自2001年起，塔里木河流域生态治理工程的有效实施，在一定程度上保障了下游来水，有效遏制了塔克拉玛干沙漠和库鲁克塔格沙漠合拢趋势，改善了下游植被生境，从而使得植被长势持续变好。
+
+2000—2018年塔里木河流域NDVI残差为负区域，主要分布于哈密地区、吐鲁番地区、库鲁克塔格沙漠、帕米尔高原、昆仑山脉、阿尔金山脉等地区，残差绝对值相对较小，这些区域人类活动影响相对较弱，除气温、降水量因子影响外，则可能由于其他持续变化的线性因子使得残差为负，从而对植被生长变化产生消极作用。对于人口稀少的荒漠地区而言，则可能由于气温持续变暖加剧地表蒸散过程，使得土壤干层发育，对植被生长变化产生抑制作用。对于高山区等山体多地带，则可能由于其气候条件、地质环境等因素（山区常年积雪、恶劣地质条件等），对植被生存、生长具有消极的影响。
+
+# 3结论
+
+本文基于MODIS-NDVI数据，利用 $\mathrm { S e n } + \mathrm { M a n n } \cdot$ Kendall趋势分析、变异系数法、Hurst指数、偏相关分析及残差分析等方法，对2000—2018年塔里木河流域植被覆盖时空变化特征、植被可持续性进行分析，结合同期气候数据，探究气候因子和人类活动等因素对塔里木河流域植被变化的影响，得到以下结论：
+
+（1）从时间上看，2000—2018年塔里木河流域植被覆盖总体呈现明显的增加趋势。植被NDVI以2008年为转折点，存在明显的阶段变化。从空间上看，塔里木河流域植被分布具有明显的地域差异。“北高南低，西高东低”，植被覆盖主要分布于天山山脉、帕米尔高原以及昆仑山脉东部、绿洲地区及绿洲荒漠交错带。另外，流域内植被沿河流沿岸分布，呈现出条带状。
+
+（2）从NDVI变化趋势上看，塔里木河流域大部分区域植被覆盖趋势基本不变，植被改善的区域占全区面积的 $3 7 . 9 7 \%$ ,退化区域占 $1 1 . 2 4 \%$ ，山区水资源丰富，加之气温变暖，山区植被活动响应显著。
+
+(3）从植被覆盖可持续性分析上看，塔里木河流域大部分植被覆盖趋势基本不变。反持续区域比重为 $3 0 . 8 3 \%$ ,主要分布在山区地带和水系附近;持续性区域比重为 $6 9 . 1 7 \%$ ,多分布在绿洲、绿洲荒漠交错带以及荒漠区。
+
+（4）塔里木河流域气温和降水量对NDVI的综合影响从东北向西南逐渐增强。总体上，NDVI与降水量呈正相关性，与气温呈负相关性，且与降水量的相关性更强，降水量对NDVI的影响更为明显。人类活动对植被变化产生积极影响的区域主要分布于绿洲、绿洲荒漠过渡带、塔里木河下游附近。荒漠以及山区地带等人类活动相对较弱的地区，其NDVI残差还受其他持续变化的线性因素影响。本文仅探讨气温、降水量气候因子以及人类活动对塔里木河流域NDVI的影响，由其残差分析结果可知，塔里木河流域NDVI的变化还受其他空间线性变化因素影响，如土壤湿度、水系径流、积雪覆盖等其他因素，后续将进一步研究塔里木河流域NDVI的其他影响因素。
+
+# 参考文献(References)
+
+[1]赵明伟,王妮,施慧慧,等.2001—2015 年间我国陆地植被覆盖度时空变化及驱动力分析[J].干旱区地理，2019，42（2）：324-331.[ZHAO Mingwei,WANG Ni,SHI Huihui,et al. Spatial-temporal variation and its driving forces of vegetation coverage inChina from 2001 to 2015[J].AridLand Geography,2019,42（2）：324 -331.]
+
+[2]ALY AA,AL-OMRANA M,SALLAMA S,et al.Vegetation cover change detection and assessment in arid environment using multitemporal remote sensing images and ecosystem management approach[J].Solid Earth,2016,7(2):713-725.
+
+[3]JULIEN Y,SOBRINO JA.The yearly land cover dynamics（YLCD) method:An analysis of global vegetation from NDVI and LST parameters[J].Remote Sensing of Environment,2009,113（2）： 329 -334.
+
+[4]陈亚宁,李卫红,陈亚鹏,等.新疆塔里木河下游断流河道输水与生态恢复［J].生态学报，2007，27（2）：538－545.［CHENYaning,LI Weihong,CHEN Yapeng,et al.Water conveyance indried-up riverway and ecological restoration in the lower reaches ofTarim River,China[J].Acta Ecologica Sinica,2007,27(2）:538-545.]
+
+[5]郭继凯,吴秀芹,董贵华,等.基于MODIS/NDVI的塔里木河流 域植被覆盖变化驱动因素相对作用分析［J].干旱区研究， 2017,34（3）:621-629.［GUO Jikai，WUXiuqin，DONG Guihua,et al.Vegetation coverage change and relative effects of driving factorsbased on MODIS/NDVI in the Tarim River Basin [J].Arid Zone Research,2017,34(3):621-629.]
+
+[6］罗敏,古丽·加帕尔,郭浩,等.2000—2013 年塔里木河流域生 长季NDVI时空变化特征及其影响因素分析［J].自然资源学 报,2017,32（1）:50-63.[LUOMin,GULIJiapaer,GUOHao,et al. Spatial-temporal variation of growing-season NDVI and its responses to hydrothermal condition in the Tarim River Basin from 2000 to 2013[J].Journal of Natural Resources,2017,32（1）:50 -63.]
+
+[7］管文轲,韦红,钟家骅,等.塔里木河流域植被覆盖变化的遥感 监测[J].水土保持通报,2018,38（5）：1-6.［GUANWenke， WEI Hong,ZHONG Jiahua,et al.Remote sensing monitoring of vegetation cover change in Tarim River Basin[J].Bulletin of Soil and Water Conservation,2018,38(5):1-6.]
+
+[8］陈海燕,陈亚宁.新疆塔里木河干流荒漠河岸林植被带变化 [J].生态学杂志,2015,34（11）:3166-3173.[CHENHaiyan, CHEN Yaning.Changes of desert riparian vegetation along the main stream of Tarim River,Xinjiang[J].Chinese Journal of Ecology,2015,34(11):3166-3173.]
+
+[9］高庆,艾里西尔·库尔班,肖昊.塔里木河下游区域植被时空 变化［J].自然资源学报,2019,34（3）:624-632.［GA0 Qing, KURBAN Alishir,XIAO Hao.Spatiotemporal variation of vegetationin the lowerreaches of TarimRiver[J].JournalofNaturalResources,2019,34(3):624-632.]
+
+[10］闫俊杰，吕光辉，徐海量，等.2000—2014年塔里木河干流的植 被覆盖与蒸散发时空变化及其关系[J].水土保持通报,2018， 38（3）:248-255.[YAN Junjie,LV Guanghui,XU Hailiang,et al.Spatial-temporal variations in vegetation cover and evapotranspiration and their relationship in Tarim River during 2OoO-2014 [J].Bulletin of Soil and Water Conservation,2018,38(3）:248- 255.]
+
+[11］朱长明,李均力，沈占锋，等.塔里木河下游生态环境变化时序 监测与对比分析[J].地球信息科学学报,2019,21（3)：437- 444.[ZHU Changming,LI Junli,SHEN Zhanfeng,et al. Time series monitoring and comparative analysison eco-environment changein thelowerreaches of the TarimRiver[J].Journal ofGeoinformation Science,2019,21（3）:437-444.]
+
+[12］周海鹰，沈明希，陈杰,等.塔里木河流域60a来天然径流变化 趋势分析[J].干旱区地理,2018，41（2）：221-229.［ZHOU Haiying,SHENMingxi,CHENJie,et al.Trendsof natural runoffs in the Tarim River Basin during the last 6O years[J].Arid Land
+
+Geography,2018,41(2):221 -229.][13］孙倩，张敏，曾永兵，等.艾比湖流域降水和风速对植被NDVI时空变化的影响[J].西南农业学报，2018，31（11）：2407-2412.[SUNQian,ZHANG Min,ZENGYongbing,et al.Effect ofprecipitation and wind speed on NDVI in AibiLake[J].SouthwestChina Journal of Agricultural Sciences,2018,31（11）:2407 -2412.]
+
+[14］王佃来，刘文萍，黄心渊.基于 Sen $^ +$ Mann-Kendall的北京植被 变化趋势分析[J].计算机工程与应用,2013,49（5)：13-17. [WANGDianlai,LIUWenping,HUANG Xinyuan.Trend analysis in vegetation cover in Beijing based on Sen $^ +$ Mann-Kendall method[J].Computer Engineering and Applications,2O13,49（5）:13 -17.]
+
+[15］李双双，延军平，万佳.近10a陕甘宁黄土高原区植被覆盖时空变化特征[J].地理学报，2012,67（7）：960-970.［LI Shuan-gshuang,YAN Junping,WAN Jia.The spatial-temporal changes ofvegetation restoration on Loess Plateau in Shaanxi-Gansu-Ningxiaregion[J].Acta Geographica Sinica,2012,67（7）:960-970.][16］邓兴耀,姚俊强,刘志辉.基于GIMMSNDVI的中亚干旱区植被覆盖时空变化［J].干旱区研究，2017，34（1）：10-19.[DENG Xingyao,YAO Junqiang，LIU Zhihui.Spatiotemporalchange of vegetation coverage in arid regions in Central Asia basedon GIMMS NDVI[J].Arid Zone Research,2017,34（1）:10-19.]
+
+[17］马守存，保广裕，郭广，等.1982—2013年黄河源区植被变化趋势及其对气候变化的响应[J」.干旱气象，2018，36(2)：226-233.［MA Shoucun,BAO Guangyu,GUO Guang,et al.Changetrend of vegetation and its responses to climate change in thesource region of the Yellow River[J].Journal of Arid Meteorologi-cal,2018,36(2):226-233.]
+
+[18］张照男,祁应军,张杨.基于残差趋势法的赤峰市植被变化的人为影响研究［J].生态经济，2018,34（9）：206－211.[ZHANG Zhaonan,QI Yingjun,ZHANG Yang.Study of human in-fluence on chifeng vegetation change based on residual trend meth-od[J].Ecological Economy,2018,34(9）:206-211.]
+
+# Spatial-temporal variations of vegetation coverage in the Tarim River Basin from 20oo to 2018
+
+SUN Tian-yao,2,3，LIXue-mei1,23，XUMin4，ZHANG Meng-sheng1,2 (1Faculty of Geomatics,Lanzhou Jiaotong University,Lanzhou 73oo7O,Gansu,China ;   
+2National-Local Joint Engineering Research Centerof Technologies and Applications for National Geographic State   
+Monitoring,Lanzhou7307o,Gansu,China；3Gansu Provincial EngineringLaboratoryforNationalGeographicState   
+Monitoring,Lanzhou73O7o,Gansu,China；4StateKeyLaboratoryofCryospheric Science,Northwest InstituteofEco Environment and Resources,Chinese Academy of Sciences,Lanzhou 73oooo,Gansu,China)
+
+Abstract：The ecology of the Tarim River Basin,Xinjiang,China is relatively fragile.During the past few decades,unreasonabledevelopment and utilization have resulted in serious damage to the vegetation coverage.Due to theimplementation of the ecological comprehensive management project in the Tarim River Basin and by recent climate change,the temporal and spatial distribution of vegetation in the basin has undergone certainchanges.Clarifyingthe relationship between vegetation coverage change and climatechange of the basin,as well as human activities,can providea scientific reference for ecological maintenance and management in the Tarim River Basin. Hence,based on MODIS-NDVI and using the Sen $^ +$ Mann-Kendall trend analysis,coefficient of variation method, Hurstindex,partialcorrelation analysis,and residual analysis,this study analyzed the temporal and spatial change characteristicsand sustainabilityof vegetation coverage inthe Tarim River Basin from 2OOO to 2018and investigated and distinguished the rangeand extent ofthe impacts of temperatureand precipitation climatic factors as well as human activities on vegetation coverage changes.The resultsare summarizedas folows:(1）The level of vegetation coverage inthe Tarim River Basin has increased significantly with clear stage changes.The vegetation changes varied froman increasing trend to a decline before 2O08 and then increased rapidly.The vegetation increase is mainly concentrated in Korla,Yanqi,Aksu,Kuqa,Kashi,and theregionof thecentral Tianshan Mountains.The vegetation variation near the Kuluktag Mountains is relatively small.（2）More strongly affected byregional geomorphologic paterns,the vegetation coverageof the Tarim River Basin in the north is greater than thatinthe south,and the vegetation coverage in the west is greater than in theeast.Thearea of relatively high vegetation coverage is distributed inthe mountainous areas,oasis areas,and the oasis-desert interlaced zone.Inaddition,the basin vegetation is distributed along the river,shaped as a strip.(3）The vegetation coverage trend in the Tarim River Basin is mostlyunchanged $( 5 0 . 8 0 \%$ ）and the improved trend area $( 3 7 . 9 7 \%$ ）is mainly concentrated in the oasis with abundant waterresources in thebasin.Thestabilityof vegetation coverage in the Tarim Basin is ina state that“the outer sideof the basin is higher than the inner sideand highand low fluctuationscoexist and the moderate fluctuation is mostly".Theresponse of vegetation activity is significant in areascovered with high vegetation amounts such as mountainous areas.Most regions inthe study area will maintain theexisting stable trend.The area of unsustainable vegetation coverage change $( 3 0 . 8 3 \%$ ） is mainly distributed in mountainous areas and water systems and the sustainable area $( 6 9 . 1 7 \%$ ） is mostly concentrated in oasis,oasis-desert interlaced zone,and desert area.（4） The $N D W$ in the Tarim River Basin has a significant negative correlation with temperature in most areas $( 7 2 . 9 2 \%$ ). The $N D W I$ is positively correlated with precipitation in most areas $( 8 2 . 4 8 \%$ ).The combined effects of temperature and precipitationonthe NDVI gradually increase from northeastto southwest and the impact of precipitation on the NDVI is more significant.The areas where human activities have positive efects on vegetation change are mainly distributed in he oasis,oasis-desert transition zone,and the lowerreachesof the Tarim River.Inareas with relativelylow human activity suchas desertsand mountainous areas,the NDVIresiduals arealso affcted byother linear factors of continuous change.
+
+Key words：vegetation coverage；spatial-temporal variations；climatic factor；human activity；the Tarim River Basin

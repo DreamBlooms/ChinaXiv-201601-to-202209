@@ -1,0 +1,550 @@
+[
+    {
+        "type": "text",
+        "text": "Substrate-bound structure of the E. coli multidrug resistance transporter MdfA ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "lie Heng'²,Yan Zhao',3,MingLiut,Yue Liu',Junping Fan', Xianping Wang', Yongfang Zhao', XuejunC Zhang ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "NationalLaboratoryofacromolecules,NationalCenterofProtein Science-Beijing,InstituteofBiophsics,ChneseAcademy ofSciencesdnin;Usityedefenesein;ol ofLifeSciencs,UniversityofiencedchologofinaHefeiAnioina;ollgeofotechologn Universityof Science and Technology,2913th Street,TEDA,Tianjin300457,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Multidrug resistance is a serious threat to public health.Proton motive force-driven antiporters from the major facilitator superfamily (MFS) constitute a major group of multidrug-resistance transporters.Currently,no reports on crystal structures of MFS antiporters in complex with their substrates exist.The E.coli MdfA transporter is a well-studied model system for biochemical analyses of multidrug-resistance MFS antiporters.Here,we report three crystal structures of MdfA-ligand complexes at resolutions up to $2 . 0 \\mathrm { ~ \\AA ~ }$ ，all in the inward-facing conformation. The substrate-binding site sits proximal to theconserved acidic residue,D34.Our mutagenesis studies supportthe structural observations of the substrate-binding mode and the notion thatD34 responds to substrate binding by adjusting its protonation status.Taken together,ourdata unveil the substrate-binding mode of MFS antiporters and suggest a mechanism of transport via this group of transporters. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:multidrug resistance; MFS transporter; antiporters Cell Research (2015) 25:1060-1073. doi:10.1038/cr.2015.94; published online 4 August 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Drug resistance has become one of the most serious threats to public health,with devastating consequences for the treatment of both infectious diseases and cancers [1-3].Both eukaryotic and prokaryotic cells have developed various evasion mechanisms to overcome the toxic effects of chemically distinct drugs. One simple and effective way is to employ multidrug-resistance transporters with broad substrate specificity to pump the drugs into the extracellular space [4]. Many of these multidrug-resistance transporters belong to the major facilitator superfamily (MFS)[5,6].As one of the largest secondary active transporter superfamily, MFS transporters are of broad biological importance,with some of them possessing poly-specific substrate-binding ability. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "They utilize a secondary electrochemical potential to transport substrates,often against the concentration gradient of the latter.MFS transporters are further classified as symporters,antiporters and uniporters.Bacterial MFS antiporters often utilize proton motive force (PMF), including a negative-inside $\\Delta \\mu _ { \\Psi }$ and an alkaline-inside $\\Delta \\mu _ { \\mathrm { p H } } .$ ，to drive the expulsion of hydrophobic antibiotics [7].In general, to enter the target cells,drugs usually carry positive charges, thus facilitating penetration of the cell membrane bearing a negative-inside membrane potential. More than often, these positive charge-carrying drugs can be expelled by cellular transporters that belong to the cation-proton antiporters.Therefore,understanding the mechanisms of MFS antiporters is of tremendous theoretical and practical importance. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MFS transporters contain a 12 transmembrane (TM)-helix core consisting of two pseudo-symmetrical,six-helix domains[8,9].A membrane-embedded central cavity is present between these two domains, thus forming the substrate-transport path.In previously reported crystal structures,two major conformations of MFS transporters have been observed, i.e., inward-facing （24号 $( \\mathbf { C } _ { \\mathrm { { I n } } } )$ and outward-facing $\\left( \\mathrm { C _ { o u t } } \\right)$ conformations [8-10]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Conformational changes from $\\mathrm { C _ { o u t } }$ to $\\mathrm { C } _ { \\mathrm { I n } }$ and from $\\mathrm { C } _ { \\mathrm { I n } }$ to $\\mathrm { C _ { o u t } }$ are thought to utilize a rocker-switch mechanism for substrate transport [8]. One of the fundamental questions about MFS transporters is the mechanism by which the electrochemical potential alteration is coupled with the conformational changes. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Being one of the best-characterized bacterial MFS antiporters biochemically, MdfA from $E$ coli (ecMdfA) is known to confer resistance to a variety of structurally distinct cationic and zwitterionic lipophilic compounds, as well as to a number of electroneutral antibiotics of clinical importance [11]. Overexpression of MdfA from plasmids has been observed in multidrug-resistance $E$ coli strains isolated from clinical patients [12].MdfA orthologs are found in several pathogenic bacterial species (Supplementary information,Figure S1A).Because of its broad substrate specificity,MdfA is predicted to have a large hydrophobic substrate-binding pocket,which is able to bind multiple substrates either individually or even simultaneously.In antiporters,substrate binding and protonation are often found to compete with each other [13],in contrast to symporters which exhibit a positive coupling between substrate binding and protonation [14, 15].However, fundamental questions remain regarding the structures of substrate-binding site(s) and protonation site(s),and the functional coupling between these two events. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Four motifs,A-D,have been identified in MFS antiporters [7] (Supplementary information,Figure S1).Two of them,motifs A and B,are common in antiporters as well as symporters.Motif-C is specific for antiporters including MdfA,and is therefore called the antiporter motif [16]. Motif-D is only found in some subgroups of MFS transporters,but is conserved in MdfA orthologs. The function of motif-A in stabilizing the $\\mathrm { C _ { o u t } }$ state has been elucidated in a recent study reporting the crystal structure of a putative antiporter, $E .$ coliYajR[17].Thus, motif-A is unlikely to contribute to substrate recognition. Motif-B was proposed to be involved in energy coupling[18] and substrate binding-induced conformational change [19],yet the precise mechanisms for its actions remain elusive.In MdfA,motif-D contains two acidic residues essential for transport activity[13,2O]. Currently, structural studies on PMF-driven MFS antiporters are limited. To date,no crystal structures have been reported for MFS antiporters in complex with their substrate(s). The antiporters with known crystal structures,EmrD and YajR[17,21], lack detailed biochemical characterization [22].Furthermore,the functional roles of motifs B,C and D in the energy coupling processes of multidrug-resistance MFS antiporters remain to be elucidated. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Here,we report the crystal structures of ecMdfA in complex with a known substrate chloramphenicol $\\mathrm { ( C m ) }$ as well as substrate analogs that are structurally distinct, i.e.,deoxycholate (Dxc) and n-dodecyl-N,N-dimethylamine-N-oxide (LDAO), all in the $\\mathrm { C } _ { \\mathrm { I n } }$ state.As an antibiotic,Cm binds to the 5oS subunit ofbacterial ribosome and inhibits peptide synthesis through interactions with nucleotides of the rRNA[23].All four motifs of MFS antiporters are illustrated in the three-dimensional (3D) structure of ecMdfA.Based on the structure,we verified the functional roles of motif-D, including the two conserved proton-titratable residues inside the central cavity, E26 and D34. Our analysis provides structural evidence that D34 is the acidic residue whose deprotonation in the $\\mathrm { C } _ { \\mathrm { I n } }$ state is more affected by both motif-B and substrate binding than E26.Potential functions of motif-B in regulating the deprotonation process and the competition between substrate binding and protonation are also discussed.Furthermore, isothermal titration calorimetry (ITC) methods were used to confirm the Cm binding mode. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Overall structure ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The $E .$ coli MdfA consists of 41O amino acid residues. Three crystal structures of MdfA were determined in complex with different ligands, i.e., $\\mathrm { C m } \\ ( 2 . 4 \\textup { \\AA } )$ ,Dxc $( 2 . 0 \\textup { \\AA } )$ ，andLDAO $( 2 . 2 \\textup { \\AA } )$ ,all of which exhibited MdfA in the $\\mathrm { C } _ { \\mathrm { I n } }$ state (Supplementary information, Table S1). Among these ligands observed,Dxc was originally used as an additive for successful crystallization,and LDAO was used as a component of a detergent mixture employed for protein purification and crystallization. The MdfA-Cm crystal was obtained by soaking the MdfA-Dxc crystal in a solution $\\mathrm { ( p H ~ } 5 . 8 ) \\$ supplemented with $5 ~ \\mathrm { m M } ~ \\mathrm { C m }$ .The MdfA-LDAO crystal was obtained when the $\\mathfrak { p H }$ of the crystallization conditions was raised from 5.8 to 8.5.In all three crystal structures, the final refined model contained the intact peptide chain of residues 9-4Oo.Except for the ligands,the three structures are nearly identical, with root mean square deviations ranging from 0.3 to $0 . 6 \\textup { \\AA }$ (for all available $\\mathrm { C a }$ atoms). We therefore focus on the structure of the MdfA-Cm complex as a representative of all structures,unless specified otherwise.Overall, the crystal structure of MdfA consists of $1 2 \\ \\mathrm { T M }$ helices (TMs 1-12),with TMs 1-6 in the N-terminal part and TMs 7-12 in the C-terminal part (hereinafter referred to as N-domain and C-domain, respectively),and a 12-residue,inter-domain,amphipathic helix( $( \\mathrm { a } _ { 6 - 7 }$ ；Figure 1).The MdfA structure consists of four pseudo-symmetrical, three-helix repeats,consistent with the typical structure of an MFS transporter. The first helix in each repeat(TMs 1,4,7 and 1O) contributes to the formation of the central cavity,and is thus referred here to as the cavity helix.The second helix in eachrepeat(TMs2,5,8 and11) islong and curved and is referred to here as the rocker helix.The third group of helices(TMs 3,6,9 and 12) are located at both ends of the longest dimension of the TM core, referred to here as support helices (Figure 1;a more detailed description of the overall structure can be found in the Supplementary information,Data S2).In order to specify the position of a given residue relative to the membrane, we divided the membrane-embedded part of each TMhelix (ca.2O residues or five helix turns) into five regions,and numbered them as 1-5,starting from the periplasmic side [24] (Supplementary information, Figure S2).For example,TM7.3 refers to the central region of TM7.Such a description is helpful for discussion of the interaction between a membrane protein and its membrane environment. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/339f802e98b12825ea9ba46b2720de8ed91e85bae1c78cdf4b94ef8936e73d59.jpg",
+        "img_caption": [
+            "Figure1Overal structureof MdfA-Cm.The backboneof MdfA is shown in tuberepresentation,with N-domain,C-domain and $\\lvert \\mathfrak { a } _ { 6 - 7 }$ in green,cyan and orange,respectively.The substrate Cm is shown as magenta stick model.Positions of E26 and D34are markedas red spheres,and R112asa blue sphere.The inward-facing cavityisshownas dot-surface representation.TMs are labelled in the right panel. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Titratable residuesinside the cavity ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "There are only two proton-titratable residues inside the central cavity of ecMdfA, ${ \\mathrm { E } } 2 6 ^ { { \\mathrm { T M } } 1 . 4 }$ and ${ \\bf D } 3 4 ^ { \\mathrm { T M } 1 . 2 }$ (Figure 2A),bothlocated in motif-D.Theyare the candidates of protonation sites and are known to play important roles in the transport activity of MdfA[13]. In the $\\mathrm { C } _ { \\mathrm { I n } }$ state, E26is located on the interior wall of the central cavity and is surrounded by ${ \\mathrm { Y } 3 0 } ^ { \\mathrm { T M } 1 . 3 }$ ， $\\mathrm { I } 1 2 2 ^ { \\mathrm { T M } 4 . 4 }$ ， $\\mathrm { M } 1 4 6 ^ { \\mathrm { T M } 5 . 4 }$ ${ \\mathrm { V } 1 4 9 } ^ { \\mathrm { T M } 5 . 3 }$ and $\\mathrm { A l } 5 0 ^ { \\mathrm { T M } 5 . 3 }$ ，and its solvent-accessible sur face (SAS) area is $5 \\mathrm { \\textrm { A } } ^ { 2 }$ (using a $1 . 4 \\mathrm { - } \\mathring { \\mathrm { A } }$ radius probe). D34 is located at the apex of the cavity, is surrounded by ${ \\mathrm { N } } 3 3 ^ { \\mathrm { T M } 1 . 2 } $ 5 $\\mathbf { M } 5 8 ^ { \\mathrm { T M } 2 . 1 }$ $\\mathrm { \\AA } 1 5 3 ^ { \\mathrm { T M } 5 . 3 }$ ， $\\mathrm { P l } 5 4 ^ { \\mathrm { T M } 5 . 2 }$ and ${ \\mathrm { I } } 2 3 9 ^ { \\mathrm { T M } 7 . 2 }$ and is about $1 0 \\textup { \\AA }$ (the shortest distance) away from E26. Its SAS area is $1 2 \\mathrm { ~ \\AA ~ } ^ { 2 }$ in the $\\mathrm { \\Delta C _ { \\mathrm { I n } } }$ state. In comparison, a completely solvent-exposed aspartate residue, e.g., D343,has an SAS of over $1 2 0 \\mathrm { \\AA } ^ { 2 }$ .Thus,these two acidic residues are buried mostly by hydrophobic residues from the N-domain.In addition, the putative $\\mathrm { \\bf C } _ { \\mathrm { o u t } }$ structure was modelled based on the $\\mathrm { C } _ { \\mathrm { I n } }$ structure of MdfA and the $\\mathrm { \\Delta C _ { o u t } }$ structure of YajR (PDB ID: 3WDO; Supplementary information, Figure S3). In the putative $\\mathrm { \\Delta C _ { o u t } }$ state model, the SAS area ofD34 increases to about $2 8 \\mathrm { ~ \\AA ~ } ^ { 2 }$ because of movement of I239 of the C-domain,while that of E26 remains the same as in the $\\mathrm { C } _ { \\mathrm { I n } }$ state. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Substrate binding andmotif $. D$ ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the structure of MdfA-Cm, Cm was found inside the central cavity which is ${ \\sim } 3 ~ 0 0 0 ~ \\mathrm { \\AA } ^ { 3 }$ in size (Figure 2B and Supplementary information, Figures S4A and S5). Twelve amino acid residues are involved in the binding to $\\mathrm { { C m } }$ (Supplementary information, Table S2).These surrounding residues come from both cavity helices(TMs 1,4 and 7) and rocker helices (TMs 2 and 5),with most ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A TM7 TM7 C M58 M58 TM2 TM2 N33 3.9 1239 N33 .3.9 1239 0.0]WT 0.0D34A D34 P154 D34 P154 co on-or O TM4 1122 Y30 T4 22Y30 0 xee . 0.5 0 10m20min0 40 0.5。 10me0m040 TM1 E26 TM5 TM1E26 TM5 -1.5 -1.5 S M146 M146 02 4 6 8 10 0 5 10 15 20   \nB 0.0 Y30A 0.0N33A TM11 M TM11 05 e M58 M58 D34 D34 t-ou 0.0 0.0 L268 L236N33 L268 L233 xee -10025 25 D L151 L62 L151 L62 -1.5 0.5。 10m0min040 -1.5 05。 10m20min040 TM5 E26 YCm 11 TM5 E26 W Y30 Cm L119 0 2 4 6 810 03 6 9 12 4 Molarratio Molar ratio TM1 A TM1 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "of them displaying some degree of conservation among MdfA orthologs (Supplementary information,Figure S1A). Among them, ${ \\bar { \\mathrm { Y } } } 3 0 ^ { { \\mathrm { T M } } 1 . 3 }$ ， $\\mathrm { \\dot { N } } 3 3 ^ { \\mathrm { T M } 1 . 2 }$ and $\\mathrm { D } 3 4 ^ { \\mathrm { \\bar { T } M } 1 . 2 }$ come from motif-D,and the rest are all with hydrophobic side chains.Three hydrogen (H) bonds are observed between $\\mathrm { C m }$ and the side chains of N33 and D34.In particular, the carboxyl side chain of D34 forms two H-bonds with O4 and O5 hydroxyl groups of $\\mathrm { { C m } }$ (Figure 2). Since a hydroxyl group can be either an H-bond donor or acceptor, both protonated and deprotonated forms ofD34 may maintain the H-bonds.In contrast, ${ \\mathrm { E } } 2 6 ^ { { \\mathrm { T M } } 1 . 4 }$ is not directly involved in Cm binding.In addition,the nitryl group of $\\mathrm { C m }$ points to the solvent space of the cavity. It may explain the observation that thiamphenicol,which has a substitution at this nitryl group,is also a substrate of MdfA [5] (Supplementary information, Figure S5). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Besides Cm,we also solved the crystal structures of two other MdfA-ligand complexes,MdfA-Dxc and MdfA-LDAO (Supplementary information, Figures S4B,S4C and S5). Dxc binding was shown to stabilize ecMdfA in an in vitro thermofluor assay (Supplementary information,Figure S6).As mentioned above,LDAO was found in the central cavity when the $\\mathfrak { p H }$ of the crystallization conditions was adjusted from 5.8 to 8.5. Deprotonation of D34 at higher pH may be responsible for the binding of the positively charged head group of LDAO.A substrate binding pattern similar to that of $\\mathrm { C m }$ was observed in the crystal structures of the Dxc and LDAO complexes (Supplementary information, Figure S4D and Table S2). In particular, residues Y30TM13, ${ \\mathrm { N } } 3 3 ^ { \\mathrm { T M } 1 . 2 } $ ${ \\bf D } 3 4 ^ { \\mathrm { T M } 1 . 2 }$ and ${ \\mathrm { L } } 2 3 6 ^ { { \\mathrm { T M } } 7 . 3 }$ are involved in ligand binding in all three crystal structures.The substrates sit between ${ \\bf D } 3 4 ^ { \\mathrm { T M } 1 . 2 }$ and ${ \\mathrm { L } } 2 3 6 ^ { \\mathrm { T M } 7 . 3 }$ ,and have more contacts with the N-domain than with the C-domain (Figure 2B). Reduction of the solvent-accessible volume of the cavity varies upon the binding of different ligands: Cm, ${ \\sim } 4 5 0$ $\\mathrm { \\AA } ^ { 3 }$ (equivalent to ca. 15 water molecules); Dxc, ${ \\sim } 7 0 0$ $\\mathrm { \\AA } ^ { 3 }$ 0 $2 3 \\ \\mathrm { H } _ { 2 } \\mathrm { O } )$ ; LDAO, ${ \\sim } 4 9 0 \\mathrm { ~ } \\mathring { \\mathrm { A } } ^ { 3 } \\left( 1 6 \\mathrm { ~ } \\mathrm { H } _ { 2 } \\mathrm { O } \\right)$ .The exclusion of solvent molecules from the central cavity would decrease the dielectric constant, enhance the electrostatic field inside the cavity, and affect the protonation status of titratable residue(s). In addition, in the LDAO complex, the positively charged group ofLDAO is located close to D34,while in the Dxc complex the potentially negatively charged group of Dxc is distal from D34.Therefore, our structural analyses of MdfA-ligand complexes suggest that MdfA may accommodate chemically distinct substrates. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We next used the ITC method to test the mutagenesis effects of Y30, N33 and D34 on $\\mathrm { C m }$ binding (Figure 2C). WT MdfA showed a $K _ { \\mathrm { d } }$ of $7 5 \\ ( \\pm \\ 8 ) \\ \\mu \\mathrm { M }$ for $\\mathrm { C m }$ ，while Y30A, N33A and D34A mutants lost most of the binding ability towards $\\mathrm { { C m } }$ .A previous report showed that D34X variants maintained $\\mathrm { T P P ^ { + } }$ binding ability while losing the transport activity[13].The binding mode of $\\mathrm { T P P ^ { + } }$ islikely to be different from that of $\\mathrm { { C m } }$ ,in which $\\mathrm { T P P ^ { + } }$ may not directly bind with D34.Moreover, $\\mathrm { T P P ^ { + } }$ stabilizes MdfA in its $\\mathrm { C _ { o u t } }$ state in the in vitro binding assays, distinct from the $\\mathrm { C } _ { \\mathrm { I n } }$ state observed in our crystal structures. Taken together, these binding analyses strongly support our structurally observed $\\mathrm { { C m } }$ -bindingmode. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Motif $B$ inthe $3 D$ structure ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Motif-B (i.e., $^ { \\mathrm { 6 6 } } \\mathrm { R } ^ { 1 1 2 } \\mathrm { x x } \\mathrm { Q G } ^ { \\mathrm { , , } }$ , where capital letters stand for highly conserved residues) and its surrounding residues in the 3D structure are conserved among MdfA orthologs (Figure 3 and Supplementary information,Figure S1A).In particular, the essential basic residue R112 participates in an H-bond network which includes C96TM3.2, $\\mathrm { Q } 1 1 5 ^ { \\mathrm { T M } 4 . 2 }$ ${ \\mathrm { R 1 1 2 } ^ { \\mathrm { T M 4 . 2 } } }$ ${ \\bf G } 3 2 ^ { { \\mathrm { T M } } 1 . 2 }$ (main chain), ${ \\tt N } 3 3 ^ { \\mathrm { T M } 1 . 2 }$ and awell-ordered water molecule.This H-bond network is further insulated by other hydrophobic residues, e.g., $\\mathrm { F } 1 7 4 ^ { \\mathrm { T M } 6 . 2 }$ (σ-orbit) and $\\mathrm { Y 6 1 } ^ { \\mathrm { T M } 2 . 2 }$ （ $\\pi$ -orbit). Moreover, the distance between R112 and D34 is $9 \\textup { \\AA }$ ，and that between R112 and E26 is $1 6 \\textup { \\AA }$ 、Thus,motif-B is likely to affect D34 more than E26.Together, the $\\mathrm { ^ { * } R ^ { 1 1 2 } x x Q G ^ { , * } }$ motif in TM4 and conserved surrounding residues will be referred to further on as ‘3D motif-B\".As will be discussed later, we postulate that this motif plays an essential role in coupling the protonation status with substrate binding in MdfA. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Drug resistance assays ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To examine the functional relevance of a number of MdfA mutations,we performed Cm-resistance assays. Bacterial cells expressing WT MdfA showed resistance to $\\mathrm { C m }$ 0 $2 . 5 ~ \\mu \\mathrm { g / m l } )$ in solid medium,while control cells containing the empty pET28a vector did not (Figure 4A). Expression levels of WT MdfA and all mutant variants were verified by immunoblotting(Supplementary information,Figure S7A).Mutations at the two titratable residues of motif-D,E26A/Qand D34A/N,abolished the resistance,as previously reported [25], and $\\mathrm { Y } 3 0 \\mathrm { A } / \\mathrm { F }$ mutants with mutations also in motif-D region partially lost the Cm resistance (Figure 4B and 4C). Together, these in vivo results support the structural observation that D34 and Y3O are directly involved in Cm binding. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, to verify the Cm-binding mode observed ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b8aa0fc44401933bd2d71680e0d3a87cea4d5ea170bdfbf8fb8cf41d1c1c5ca.jpg",
+        "img_caption": [
+            "Figure3 Stereo viewof motif-Binthe 3D structure.Residues of motif-Band surrounding conserved residues are shownas stick models.Selected Gly residues (Cαatoms,wheatcoloured)and water molecules (red)are shown in spheres.Backbones of the N- and C-domains are shown in tubes,coloured in wheat and red,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A.Control B.Motif-D Dilution (-log) Dilution (-log) 0123401234 01234 01234 vector 00000 E26A O 福 2 福 WT O0000 OO00· E26Q no drug chloramphenicol Y30F 福 O O (2.5 μg/ml) N33L O 福 O O O   \nc. Cm binding site N33D 。 O . O Dilution (-log) D34N 000·0 0123401234 no drug chloramphenicol Y30A OOO0O (2.5 μg/ml) N33A OO00O D.Motif-B D34A OO Dilution (-log) M58A 00000 0123401234 L62A 0000 . R112H …。 L119A OO000 R112Q A150L 0.QO Q115E L151A O0000 Q115N O L235A O000· Q115R L236A 00000 0·.· R112Q/Q115R 1239A ●●·· G32R/R112C L268A 00000 S57R/R112C ···· no drug chloramphenicol no drug chloramphenicol $( 2 . 5 \\mu \\mathrm { g } / \\mathrm { m l } )$ （204号 (2.5 μg/ml) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "in the crystal structure,we systematically mutated the 12 residues that are involved (Figure 2B and Supplementary information, Table S2).In particular, non-alanine residues were mutated to alanine,and A15O was mutated to leucine.Most of these point mutations resulted in a partial or complete loss of Cm resistance (Figure 4C), supporting the structurally observed Cm-binding mode. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In addition,we analyzed the effects of mutations in the 3D motif-B on Cm resistance.We first examined mutations at R112 and Q115,which form an H-bond in the MdfA-Cm structure.The point mutations R112Q and Q115E/N/R indeed resulted in loss of $\\mathrm { { C m } }$ resistance, whereas the R112H strain (which maintains the positive charge at position 1l2）was able to retain partial resistance (Figure 4D).Furthermore,the double mutation R112Q/Q115R,which switches the two interacting res idues ${ \\mathrm { R 1 1 2 } } ^ { \\mathrm { T M 4 . 2 } }$ and $\\mathrm { Q } 1 1 5 ^ { \\mathrm { T M } 4 . 3 }$ , did not bestow Cm-resistance.In addition, an extra mutation in close proximity to R112,either G32R or S57R,was introduced together with R112C to investigate whether the previously reported inactive mutation R112C could be rescued [26]. G32R/R112C indeed restored Cm resistance,while S57R/R112C failed, probably due to improper positioning of the critical positive charge. To analyze residues surrounding motif-B,mutations C96A/T/S were introduced.The result showed that C96S was functional, while C96A/T abolished Cm resistance (Supplementary information, Figure S7C). The conserved residues Y61, F108 and F174,proposed above as part of the 3D motif-B(Figure 3),were mutated.Among these mutants, Y61L,F108L/V and F174L lost Cm resistance,and only Y61F partially maintained the activity (Supplementary information, Figure S7C). N33,which is involved in Cm binding,islocated between the keyresidue of motif-B, ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "R112 and the proton-titratable residue D34.The N33L mutant exhibitedaloss of Cm resistance,whereas N33D maintained the activity (Figure 4B). Together, these results suggest that the function of MdfA requires maintaining the integrity of the 3D motif-B,including the presence of the essential positive charge (R112), the buried H-bond network,as well as the surrounding aromatic residues. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "More mutational analyses were also performed to investigate the functional roles of motifs A and C and to confirm our $\\mathrm { C _ { o u t } }$ model of MdfA (Supplementary information,Figure S3B).These results are shown in Supplementary information, Figure S7. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Conformational changes ofMdfA upon substrate binding ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In MFS antiporters,a proline cluster in TM5(i.e., motif-C of MdfA) is considered to be a signature motif [27]. In the $\\mathrm { C } _ { \\mathrm { I n } }$ crystal structure of MdfA,motif-C is found to belocatedinthe interface betweentheN-and C-domains (hereinafter referred to as the inter-domain interface) and close to the substrate binding site.To probe the confor mational changes upon substrate binding and to elucidate the role of motif-C in the alternating access mechanism of the $\\boldsymbol { \\mathrm { H } } ^ { + }$ -drug antiporter, we used the smFRET imaging method [28] to investigate conformational changes of MdfA as well as its motif-C mutants. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "First,we constructed a Cys-less derivative of MdfA (denoted as WT\\*) by mutating all four Cys residues in MdfA to either Ser or Ala,and confirmed the WT-like function of ${ \\mathrm { W T } } ^ { * }$ -MdfA in the Cm-resistance assay (Figure 5A).Then,multiple cysteine pairs were individually introduced into the $\\mathrm { N } -$ and C-domains as potential labelling sites of fluorescent dyes,and the Cm-resistance activities of these MdfA variants were verified. Among them,WT\\*-MdfA carrying the additional V167C/N374C Cys-pair mutations $\\sim 3 3 \\ – \\ 8$ apart) on the periplasmic side was chosen (denoted as $\\mathrm { W T ^ { * * } }$ ),due to itsbetter signal-to-noise ratio, to probe the conformational status of MdfA in response to $\\mathrm { { C m } }$ binding.In particular, the detergent-solubilized, dye-labelled $\\mathrm { W T ^ { * * } }$ -MdfA sample showed a higher population of the $\\mathrm { C } _ { \\mathrm { I n } }$ state than the $\\mathrm { \\bf C } _ { \\mathrm { o u t } }$ state at $\\mathrm { p H } ~ 8 . 0$ (Figure 5B,where a lower FRET signal indicates a longer distance between the paired probes). Furthermore,effects of drug binding on the conformational change were investigated. The result showed that $\\mathrm { C m }$ binding induced closure of the periplasmic side of MdfA.This result is in agreement with a previous report showing that, in the absence of electrochemical potential, binding of $\\mathrm { C m }$ and EtBr stabilizes the $\\mathrm { C } _ { \\mathrm { I n } }$ state while $\\mathrm { T P P ^ { + } }$ binding stabilizes the $\\mathrm { C _ { o u t } }$ state [29]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In addition, we investigated the effects of point mutations in motif-C on conformational populations. The results showed that both P154A and P158A variants were prone to an outside-open $\\left( \\mathrm { C } _ { \\mathrm { o u t } } \\right)$ conformation in the absence of $\\mathrm { C m }$ ，Similar to $\\mathrm { W T ^ { * * } }$ ,addition of $\\mathrm { C m }$ shifted the MdfA conformation to an outside-closed $\\left( \\mathrm { C } _ { \\mathrm { I n } } \\right)$ state (albeit to a less extent than $\\mathrm { W T ^ { * * } }$ ).Based on the $\\mathrm { C } _ { \\mathrm { I n } }$ crystal structure,we reasoned that these point mutations induced conformational changes in the inter-domain interface,thus destabilizing the $\\mathrm { C } _ { \\mathrm { I n } }$ state and favouring the $\\mathrm { C _ { o u t } }$ state. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Multidrug resistance ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "MdfA is a paradigm of multidrug-resistance MFS antiporters [11]. Our structural analysis at resolution range of $2 . 0 { - } 2 . 4 \\mathrm { ~ \\AA ~ }$ provides direct information on its substrate-binding mode in the $\\mathrm { C } _ { \\mathrm { I n } }$ state. Of about 30 residues that form the substrate-binding cavity in the $\\mathrm { C } _ { \\mathrm { I n } }$ state,over two-thirds are hydrophobic.This observation is consistent with the fact that most substrates of MdfA are hydrophobic in nature [11].Further, using their polar (or positively charged) groups,all three ligands shown in the crystal structures bind to the apex of the cavity, which is located close to the titratable residue D34 (Figure 2).Their hydrophobic parts pack against the hydrophobic cavity wall from the N-domain as well as the inter-domain interface between TMs 2 and 11 (Figure 1). Moreover, among these three ligands, Cm is a bona fide substrate of MdfA,and the other two share recognizable structural features with a number ofknown substrates of MdfA [5] (Supplementary information,Figure S5). Interestingly, it was found recently that Dxc is a substrate of another $E$ 、coli MFS transporter,MdtM[30],which shares $41 \\%$ sequence identity and $63 \\%$ similarity with MdfA(Supplementary information,Figure S1B).In our Dxc-MdfA crystal structure,we found that residues involved in Dxc binding are conserved between MdfA and MdtM. Thus,Dxc is a potential substrate of MdfA. The presence of these ligands in the complex crystal structures likely reflects the in vivo substrate preferences of MdfA. Moreover, ligand-binding modes of poly-specific multidrug-sensing proteins of the soluble TetR repressor family have been well studied, e.g.,in the CmTtgR complex crystal structure [31].Although detailed ligand-binding modes of TetR proteins and MdfA are different, a common feature of the ligand-binding cavities is that hydrophobic resides line up the side walls of the cavity. In the cases of the TetR family members, the common function of ligand binding is to induce a conformational change of the protein homodimer, thus triggering the disruption of these repressor dimers.Although we showed the detailed binding modes of MdfA with different ligands,we would like to argue that, for a multidrug-resistance antiporter, the change of the protonation status of the titratable residue (e.g.,D34 in MdfA) is more critical for the conformational change of the transporter(thus the transport activity） than the detailed substrate-binding modes.More specifically, the interaction between the protonation site and membrane potential plays an important role in determining whether the $\\mathrm { C } _ { \\mathrm { I n } }$ or $\\mathrm { \\bf C } _ { \\mathrm { o u t } }$ state is thermodynamically favoured [17]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/be688069715ddd0720641384e0266f5375326ffcb899c28e920901394d01cf70.jpg",
+        "img_caption": [
+            "Figure 5 smFRET data. (A) Cm resistance of $\\mathsf { W T ^ { \\star } }$ and ${ \\mathsf { W T } } ^ { \\star \\star }$ 元 C43 cells expressing the two MdfA variants,Cys-free background $( W ^ { \\star } )$ and V167C/N374C/WT\\* $( W ^ { \\star \\star } )$ ，showed similar level of drug resistance to $2 . 5 ~ \\mu \\ g / \\ m \\mu$ of Cm as the WT. (B) FRET histograms from single-molecule traces of $\\mathsf { W T } ^ { \\star \\star }$ ，P154A/WT\\*\\* and P158A/WT\\*\\*.Note that protein samples used in this experiment were incubated in DDM $( 0 . 0 5 \\% )$ ， $\\mathsf { p } \\mathsf { H } \\ 8 . 0$ .Datawere collected in the absence (left) and presence (right) of Cm(100 $\\mu \\mathsf { M } )$ .Results of two-peak,nonlinear Gaussian fit (with the software Origin)are shown as solid lines in cyan and red,representing the outside-open $( \\mathsf { C } _ { \\mathsf { o u t } } )$ and outside-close $( \\mathsf C _ { \\mathsf { I } \\mathsf { n } } )$ states, respectively.The black dotted line is for the summation of the two Gaussian distributions. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Competition between substrate binding and protonation is likely to be a universal mechanism for all PMF-driven antiporters,although it may vary in detailed implementation among different antiporter families [32,33]. In the central cavity of MdfA, there are only two proton-titratable amino acid residues,E26 and D34.Both of them have been shown to be essential for the transport activity [13].Our crystal structure of Cm-MdfA illustrates that D34 is directly involved in Cm binding,while E26 is over 8 A away from the substrate (Figure 2). Importantly, the protonation status of D34 may have little effect on Cm binding (Figure 2B),yet substrate binding may have strong influence on the protonation status (see below). Thus,D34 is likely to be the proton-titratable residue in MdfA that gets deprotonated upon substrate binding, in consistence with the previous finding [13]. Nevertheless,existence of acidic residues per se inside the central cavity, rather than their exact positions,has been shown to be essential for transport activity of MdfA [34]. For example,either_of the two single-point mutations ${ \\mathrm { T } } 2 9 { } ^ { \\mathrm { T M 1 . 3 } } { \\mathrm { E } }$ and $\\mathrm { A l } 5 0 ^ { \\mathrm { T M 5 . 3 } } \\mathrm { E }$ is able to rescue the function of the_inactive double-mutant variant E26T/D34M [25]. ${ \\mathrm { V } } 3 3 5 ^ { { \\mathrm { T M } } 1 0 . 5 } { \\mathrm { E } }$ is able to re-establish cationic drug resistance of the inactive mutant E26T [35]. Mutant variants $\\mathrm { L } 1 1 9 ^ { \\mathrm { T M 4 . 3 } } \\mathrm { E }$ ， ${ \\mathrm { V } } 2 3 1 { } ^ { \\mathrm { T M 7 . 4 } } { \\mathrm { E } }$ ， $\\mathrm { G } 3 5 4 ^ { \\mathrm { T M 1 1 . 4 } } \\mathrm { E }$ and $\\mathrm { M } 3 5 8 ^ { \\mathrm { T M 1 1 . 3 } } \\mathrm { E }$ are able to establish divalent cationic drug resistance in MdfA,which otherwise lacks such capability due to the exchange of only one proton per transport cycle [36]. In the $\\mathrm { C } _ { \\mathrm { I n } }$ structure of MdfA,all residues described above except for V231 face the central cavity. V231 is buried, but may interact with ${ \\mathrm { N } } 3 3 { \\mathrm { 1 } } ^ { \\mathrm { T M l } 0 . 5 }$ which faces the cavity (Supplementary information, Figure S8).All these residues are located at the cytosolic side of the positively charged motif-B,and the significance of this distribution will be discussed later. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Substrate specificity of an MFS transporter is achieved not only by the matching of shapes between binding site and substrate,but also by properly coupling the pro tonation/deprotonation process with substrate binding PMF-driven MFS antiporters appear to be able to mediate two types of transport,electrogenic and electroneutral transport.The transport of electroneutral substrates (e.g.,Cm) by MdfA is electrogenic,while the transport of mono-cationic substrates (e.g.,TPP+) by MdfA is electroneutral [37]. In the electrogenic transport, substrate binding-induced deprotonation,as suggested by our MdfA-Cm crystal structure,would disrupt charge-membrane potential balance, thus triggering the $\\mathrm { C } _ { \\mathrm { I n } }$ -to- $\\mathrm { C _ { \\mathrm { { o u t } } } }$ conformational change.In the cases of mono-cationic substrates (e.g., TPP+),substrate binding-induced deprotonation is equally (if not more) important for the $\\mathrm { C } _ { \\mathrm { I n } } \\mathrm { \\cdot }$ to- $\\cdot \\mathrm { C } _ { \\mathrm { o u t } }$ conformational change.Without deprotonation, export of the positively charged substrate would be against the negative-inside membrane potential, which is thermodynamically unfavourable.Nevertheless,because of the zero net-charge change during the transport cycle, membrane potential could not be the direct driving force,and other sources of energy are required to drive the conformational change. For example, $\\mathrm { T P P ^ { + } }$ binding has been shown to stabilize the $\\mathrm { \\Delta C _ { o u t } }$ state in addition to triggering the deprotonation of D34 [13]. Thus, the differential binding energy between the two states, $\\Delta G _ { \\mathrm { { D } } } ( { \\mathrm { s } } )$ $= \\mathrm { R T } l n ( \\mathrm { K } _ { \\mathrm { d , O u t } } ( \\mathrm { s } ) / \\mathrm { K } _ { \\mathrm { d , I n } } ( \\mathrm { s } ) )$ , is negative, thermodynamically favouring the $\\mathrm { C } _ { \\mathrm { I n } }$ -to- $\\mathrm { \\cdot C _ { o u t } }$ conformational change. Taken together,a common scheme of PMF-driven antiporters is that substrate binding induces deprotonation,while different types of substrates may employ distinct mechanisms coupling the driving force and the conformational changes. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/777e8bc9c416aa5dc624b9ce03adbdf1558c874e306dfa61b41190f25009d084.jpg",
+        "img_caption": [
+            "Figure 6 Schematic diagram of a mechanistic model depicting the transport cycle of MdfA. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Conserved motifs ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fourmotifs,A-D,havebeenidentifiedinMFS antiporters [7],and all of them are present in MdfA orthologs(Supplementary information,Figure S1A).Here, we focus on the functional relevance of motifs B,C and D. Since motif-A functions to stabilize the $\\mathrm { C _ { o u t } }$ conformation [17],motif-A is not in its functional state in our MdfA crystal structures,which are in the $\\mathrm { C } _ { \\mathrm { I n } }$ conformation.Discussion on motif-A can be found in the Supplementary information,Data S2. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Motif-B According to the PFAM database [38],motif-B （204号 $( ^ { 6 4 } \\mathrm { R } ^ { 1 1 2 } \\mathrm { x x Q G ^ { , 3 } } )$ in TM4 is the only high-frequency site that contains a membrane-embedded basic residue among ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "MFS members (Supplementary information, Figure S2). Since the whole 3D motif-B is embedded in the level-2 region of the N-domain (Figure 3), it is unlikely to be directly involved in inter-domain conformational changes. Previous mutagenesis analysis of MdfA revealed that, among mutants carrying point mutations at position 112, only the R112H mutant retained resistance to most substrate drugs,while R112K maintained some activity and R112M/Q/E lost resistance to all antibiotics tested [39]. The results of our Cm-resistance assays for mutations in the 3D motif-B region (Figure 4D and Supplementary information, Figure S7C) agree with the previous report. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In the putative $\\mathrm { \\bf C } _ { \\mathrm { o u t } }$ state,levels 1 and 2 of both cavity-helices (i.e., TMs1,4,7 and 10) and rocker-helices (i.e.,TMs 2,5,8 and11) are accessible to solvent from the periplasmic side(Supplementary information,Figure S3B), thus the positive electrostatic field of motif-B is attenuatedby the solvent which is characterized bya high dielectric constant.In the $\\mathrm { C } _ { \\mathrm { I n } }$ state,in contrast, levels 1 and 2 of the TM helices become buried by the inter-domain interface,and thus the positive electrostatic field becomes stronger relative to the $\\mathrm { C _ { o u t } }$ state.This enhanced electrostatic field is able to promote deprotonation in the central cavity, e.g., at ${ \\bf D } 3 4 ^ { \\mathrm { T M } 1 . 2 }$ of ecMdfA. Furthermore, in antiporters,loading of hydrophobic substrates from the cytosolic side (or directly from the lipid bilayer) may strengthen the electrostatic field by reducing the dielectric constant inside the cavity and/or by moving a positive charge into the cavity, thus promoting deprotonation (Figure 6). Our structural observations of the substrate complexes,particularly the binding of the substrate in the vicinity of D34 (Figure 2),are consistent with such a mechanism.Taken together, the positive electrostatic field generated by motif-B nearby titratable residues in the $\\mathrm { C } _ { \\mathrm { I n } }$ state seems essential for the transport activity of motif-B-containing antiporters. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Motif-C Motif-C in therocker-helix TM5（ ${ } ^ { \\cdot \\circ } \\mathrm { G X } _ { 6 } \\mathrm { G X } _ { 3 } \\mathrm { G } .$ $\\mathrm { P X } _ { 2 } \\mathrm { G P X } _ { 2 } \\mathrm { G } ^ { \\prime \\prime } )$ ）is also called the antiporter motif [27]. In MdfA orthologs,motif-C has evolved into the consensus sequence“itALM ANvaL i $\\mathrm { a P ^ { 1 5 4 } L l ~ G P ^ { 1 5 8 } L v G ^ { , } }$ (Supplementary information, Figure S1).The C-terminal (periplasmic) half of motif-C is more conserved than the N-terminal half (Supplementary information, Figure S1) and packs against a conserved region in TM1 (near P38- $\\mathrm { G } 3 9 ^ { \\mathrm { \\bar { T } M 1 . 1 } }$ of motif-).It $\\mathrm { C } _ { \\mathrm { I n } }$ crystal structureof ecMdfA,L151,P154,L155,P158,andL159of motif-C are directly involved in the inter-domain hydrophobic interaction between TM5 and TM8 (Supplementaryinformation,Figure S8).Thus,TM5,in particular motif-C,is surrounded by other TMhelices,a constellation that prevents proton leakage in the $\\mathrm { C } _ { \\mathrm { I n } }$ state. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In motif-C, $\\mathrm { P i } 5 8 ^ { \\mathrm { T M 5 . 1 } }$ is strictly conserved among MdfA orthologs(Supplementary information, Figure S1).In general,a proline residue in a TM helix introduces a break in the helix H-bond network,allowing the TM helix to form a kink in the membrane-embedded region. The presence of such a proline residue also generates a free carbonyl group from the peptide backbone of the previous helix turn,allowing the binding of the latter with either the side chains of other polar residues or embedded water molecules.For examples,in the ecMdfA crystal structures, the prolyl ring of the conserved $\\mathrm { P l } 5 4 ^ { \\mathrm { T M } 5 . \\dot { 2 } }$ is close to the critical acidic residue ${ \\bf D } 3 4 ^ { \\mathrm { T M } 1 . 2 }$ (Figure 2), and $\\mathrm { P } 3 8 ^ { \\mathrm { T M } 1 . 1 }$ ， $\\mathrm { P l } 5 8 ^ { \\mathrm { T M 5 . l } }$ and ${ \\mathrm { P } } 2 4 3 ^ { \\mathrm { T M } 7 . 1 }$ participate in the formation of a cage accommodating a cluster of four well-ordered water molecules in the inter-domain interface (Figure 3 and Supplementary information, Figure S8). In agreement with our structural observations, single-point mutants P154A and P158A displayed a complete loss of $\\mathrm { C m }$ resistance (Supplementary information, Figure S7D). Our smFRET experiment further indicated that these mutations shift the conformation population to the $\\mathrm { \\Delta C _ { o u t } }$ state (Figure 5B). Similar mutations in the TetL antiporter have been shown to cause ion leakage [40]. Since $\\mathrm { C } _ { \\mathrm { I n } }$ is the state in which an antiporter binds substrate,it can be argued that it is the default state,and thus it is reasonable to suggest that the stability of the $\\mathrm { C } _ { \\mathrm { I n } }$ state is more important than that of the $\\mathrm { C _ { o u t } }$ state for an antiporter. Taken together, we propose that motif-C has specifically evolved to stabilize the hydrophobic inter-domain interaction of MFS antiporters in the $\\mathrm { C } _ { \\mathrm { I n } }$ state. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Motif-D Among MdfA orthologs,motif-D in TM1 displays a clear pattern of $\\mathrm { ^ { * } E ^ { 2 6 } f x x Y ^ { 3 0 } i a n D ^ { 3 4 } m i q P ^ { 3 8 } g ^ { , 9 } }$ (numbering according to ecMdfA; Supplementary information,Figure S1A).Of the two acidic residues,D34 is absolutely conserved among MdfA transporters,and E26 is conservedas an acidic residue inabout $80 \\%$ ofknown sequences [13].Numerous point mutations in motif-D have been tested experimentally,showing that this motif isimportant forMdfA functions[13,20,25,35].It has been reported that only one proton is consumed per MdfA transport cycle,no matter whether an electroneutral or a mono-cationic substrate is transported [13]. However, both E26 and D34 appear to be (de)protonated at certain time point.The precise functional roles of these two acidic residues seem to be a key to understanding the MdfA transport cycle. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Based on the $\\mathrm { C } _ { \\mathrm { I n } }$ crystal structure of MdfA-Cm (Figure 2), together with the putative $\\mathrm { C _ { o u t } }$ state model (Supplementary information,Figure S3) and functional studies (Figure 4 and Supplementary information, Figure S7), we propose a mechanism in which a proton transfers between E26 and D34. Since only one proton is consumed per transport cycle,only one residue,either E26 or D34, can possibly get protonated at any given time. This suggests that a proton might be transferred between the two residues during the conformational change of MdfA, and that the direction of the transfer depends on changes of their $\\mathsf { p K } _ { \\mathrm { a } }$ values. In the $\\mathrm { C _ { o u t } }$ state, E26 is at the apex of the outward-facing cavity and is less accessible to the bulk solvent than D34 (Supplementary information, Figure S3B). Thus,E26 is more likely to get the proton in the $\\mathrm { \\Delta C _ { o u t } }$ state, although low-probability protonation at D34 may occur stochastically. By interacting with the negative-inside membrane potential $( \\Delta \\Psi )$ ，the protonated E26 would provide part of the energy for the $\\mathrm { \\Delta C _ { o u t } }$ -to$\\mathrm { C } _ { \\mathrm { I n } }$ conformational change.Loss-of-function mutations at E26 can be rescued by a number of point mutations in the inter-domain interface of the putative $\\mathbf { C } _ { \\mathrm { { o u t } } }$ state, presumably by decreasing the stability of the latter [29]. It suggests that,in WT MdfA,part of the electrostatic energy associated with protonated E26 in the presence of membrane potential is used to overcome the energy barrier in the transition state.In the $\\mathrm { C } _ { \\mathrm { I n } }$ state, D34 is located at the apex of the inward-facing cavity and becomes less accessible to the bulk solvent from the cytosol than E26 (Figure 2). Thus,in the $\\mathrm { C } _ { \\mathrm { I n } }$ state D34 becomes protonated in the absence of a substrate [13],while E26 becomes deprotonated because it becomes closer to the bulk solvent. The protonated D34 interacts with the electric field of the membrane potential, taking the role of E26 in maintaining the $\\mathrm { C } _ { \\mathrm { I n } }$ state,and waits for deprotonation triggered by substrate binding. Therefore,during the $\\mathrm { C _ { \\mathrm { { O u t } } } \\mathrm { - t o - C _ { \\mathrm { { I n } } } } }$ transition, there appears to be a proton transfer from E26 to D34; however, it remains unclear whether the transfer occurs in a direct or indirect fashion. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Such a hypothetical proton transfer is in agreement with the following observations:(i) Conserved Y30 is located between E26 and D34 (Figure 2). It is possible that Y30 serves as a proton-wire between these two acidic residues. Such a proton-wire could facilitate proton transfer in both directions.It might provide an explanation to the previous in vitro observation that E26 facilitates the deprotonation of D34 [13]. (ii) The point mutation $\\mathrm { V } 3 3 5 \\mathrm { E }$ rescues the loss-of-function mutation E26T [35]. Although ${ \\mathrm { V } } 3 3 5 ^ { { \\mathrm { T M } } 1 0 . 5 }$ is located in the C-domain (Supplementary information, Figure S8), it is positioned at the apex of the cavity in the putative $\\mathrm { \\bf C } _ { \\mathrm { o u t } }$ state and becomes solvent-exposed in the $\\mathrm { C } _ { \\mathrm { I n } }$ state,similar to E26 from the N-domain.(ii) The loss-of-function double mutation E26T/D34M can be rescued by an additional point mutation A150E, and ${ \\mathrm { A l } } 5 0 ^ { { \\mathrm { T M } } 5 . 3 }$ is located at a TM level between ${ \\bf E } 2 6 ^ { \\mathrm { T M 1 } . 4 }$ and ${ \\bf D } 3 4 ^ { \\mathrm { T M } 1 . 2 }$ (Figure 2A). In this case,one acidic residue at position l5O may play the roles of both E26 and D34,i.e.,accepting a proton in the $\\mathrm { \\Delta C _ { o u t } }$ state,thus driving the $\\mathrm { C _ { o u t } }$ -to- $C _ { \\mathrm { I n } }$ conformational change,as well as undergoing substrate binding-triggered deprotonation in the $\\mathrm { \\Delta C _ { \\mathrm { I n } } }$ state.Alternatively, the proton transfer may not require a proton wire. It is possible that the“active” proton moves from the apex of the outward-facing cavity (e.g., E26 in ecMdfA) to the apex of the inward-facing cavity (e.g., D34) simply by dropping a proton into and picking another one from the solvent pool inside the cavity. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "As another possibility, E26 may facilitate the deprotonation of D34 using the following mechanism.In the $\\mathrm { C } _ { \\mathrm { I n } }$ state,in the absence of a substrate,the electrostatic interaction between E26 and D34 is attenuated by the solvent inside the cavity.Upon the binding of a hydrophobic substrate,the dielectric constant inside the cavity is reduced,and the electrostatic interactions are enhanced.Under such a condition,E26 may cooperate with R112 and exert an electrostatic attraction from the cytosolic side to facilitate the deprotonation of D34. Nevertheless, the electronegativity of E26 in the $\\mathrm { C } _ { \\mathrm { I n } }$ state cannot be too strong;otherwise,E26 itself would become protonated by attracting a proton from the bulk solvent. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A putative transport mechanism forMdfA ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Based on available structural and functional informa tion for MdfA,we propose a mechanism for the transport cycle (Figure 6).First,in the $\\mathrm { C } _ { \\mathrm { I n } }$ state and before substrate loading, D34 remains protonated (i.e., $\\mathsf { p K } _ { \\mathrm { a ( D 3 4 ) } } ^ { \\mathrm { \\Lambda ~ I n } } > \\mathsf { p H } ^ { \\mathrm { I n } } )$ [13]. This $\\mathrm { C } _ { \\mathrm { I n } }$ state may be in thermodynamic equilibrium with the protonated, substrate-free, $\\mathbf { C } _ { \\mathrm { { o u t } } }$ state,with the $\\mathrm { C } _ { \\mathrm { I n } }$ state being strongly favoured (such a possible equilibrium could explain electroneutral transport via MdfA.) At the same time, the $\\mathrm { \\bf C _ { \\mathrm { I n } } }$ state is ready for substrate loading-triggered deprotonation.By reducing the dielectric constant inside the cavity, binding of a hydrophobic (electroneutral) substrate increases the positive electrostatic field generated by R112 of motif-B (Figure 6).The enhanced positive electrostatic field decreases $\\mathrm { p K } _ { \\mathrm { a ( D 3 4 ) } }$ In, triggering deprotonation of D34. Upon deprotonation, the electrostatic force of the proton- $\\cdot \\Delta \\Psi$ interaction disappears,the mechanical balance in the $\\mathrm { C } _ { \\mathrm { I n } }$ state is broken, and some “elastic” energy stored in the $\\mathrm { \\Delta C _ { \\mathrm { I n } } }$ state is released,which then drives the $\\mathrm { \\Delta C _ { \\mathrm { I n } } }$ -to- $\\mathrm { C _ { o u t } }$ conformational change.Second, in the $\\mathrm { C _ { o u t } }$ state,releasing of the substrate should promote protonation of E26 (Supplementary information, Figure S3B). The interaction between the protonation site(s) and the negative-inside $\\Delta \\Psi$ facilitates the conformational change of $\\mathrm { C _ { \\mathrm { { O u t } } } \\mathrm { - t o - C _ { \\mathrm { { I n } } } } }$ ,and part of this input energy is stored as the“elastic\"’ conformational energy to be used later [17]. Since protonation provides the driving force for the $\\mathrm { C _ { \\mathrm { { O u t } } } \\mathrm { - t o - C _ { \\mathrm { { I n } } } } }$ conformational change, substrate releasing is likely to be prior to the protonation in order to prevent undesirable backward transfer of the substrate.In short,a cycle of electrogenic transport is driven by the interaction between protonation and membrane potential. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Bibi and co-workers have previously proposed a model for MdfA-catalyzed substrate/proton transport based on biochemical analyses of proton and $\\mathrm { T P P ^ { + } }$ binding by MdfA[13].Although our structural observations are mostly consistent with their findings, our newly proposed model differs from the previous model[13] in several aspects:(i) The previous model considered D34 as the protonation site in the $\\mathrm { C _ { o u t } }$ state. Instead, we propose that E26 is the major protonation site in the $\\mathrm { C _ { o u t } }$ state, because E26 is likely to have a higher $\\mathfrak { p K } _ { \\mathrm { a } } ^ { \\mathrm { o u t } }$ than D34 according to our structural model of the $\\mathrm { C _ { o u t } }$ state.Our hypothesis is also consistent with the observation that D34 does not react with DCCD (a chemical that reacts with protonated carboxyls） in the $\\mathrm { C _ { o u t } }$ state (i.e., in the presence of TPP+)[13]. (ii) In the previous model, substrate loading occurs after deprotonation in the $\\mathrm { C } _ { \\mathrm { I n } }$ state.In contrast, we propose that substrate loading disturbs the micro-environment of D34 and induces its deprotonation.Since it is the deprotonation,but not the ligand binding per $s e$ ， that triggers the $\\mathrm { C } _ { \\mathrm { I n } }$ -to- $\\mathrm { C _ { o u t } }$ conformational change, deprotonation would unlikely occur before substrate loading. This notion is also supported by the observation that D34 reacts with DCCD in the absence of $\\mathrm { T P P ^ { + } }$ ，thus in the $\\mathrm { C } _ { \\mathrm { I n } }$ state[13] (for more discussion see Supplementaryinformation,Data S2). (ii) Most importantly, in our model,we explicitly consider the electrostatic interaction between the protonation site and the membrane potential as the major driving force for the conformational change of MdfA (and PMF-driven MFS transporters in general). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In summary, here we determined the 3D structure of the multidrug-resistance antiporter ecMdfA in complex with a known substrate or substrate analogues. The structural information combined with functional analyses improved our understanding of the mechanisms of multidrug expulsion by MFS antiporters,including substrate-binding modes,competition between substrate binding and protonation and functional roles of conserved motifs in the transport cycle as well as in energy-coupling in general. These new structural information may open new avenues to developing novel strategies of counteracting drug resistance. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Materialsand Methods ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Expression and purification of recombinant proteins ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The full-length MdfA gene was cloned from the genome of $E$ coli BL21(DE3) and was found to be highly expressed in a GFPbased high-throughput screen [41].An incidental point mutation, Q131R,was introduced during the cloning.Since it did not show effects in our drug-resistance assay,this mutant was considered as WT hereinafter and used in subsequent structural and functional studies.MdfA WT and mutant strains were subcloned into a pET28a vector (Novagen) using restriction endonucleases Ncol and Xhol.All variant sequences were confirmed by DNA sequencing. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Recombinant ${ \\mathrm { C } } { \\mathrm { - } } { \\mathrm { H i s } } _ { 6 }$ tag proteins were overexpressed in the E.coli C43 (DE3) strain and induced using $0 . 5 ~ \\mathrm { m M }$ isopropyl $\\beta$ -d-thiogalactoside (IPTG） at $\\mathrm { \\ O D } _ { 6 0 0 ~ \\mathrm { n m } }$ of 0.8. After growth at 16 $^ \\circ \\mathrm { C }$ for $1 8 \\mathrm { ~ h ~ }$ ,cells were harvested and resuspended in buffer A(20 $\\mathrm { m M }$ Tris-HCl, $\\mathrm { p H } 8 . 0$ + $3 0 0 ~ \\mathrm { { m M } ~ N a C l }$ + $10 \\%$ $\\left( \\mathbf { v } / \\mathbf { v } \\right)$ glycerol,and 5 mM $\\beta$ -mercaptoethanol) and subjected to two runs of homogenization at $1 0 ~ 0 0 0 { - } 1 5 ~ 0 0 0$ p.s.i.using a JN-R2C homogenizer (JNBio, China). Cell debris was removed by centrifugation at $1 7 \\ 0 0 0 \\times g$ for $1 5 ~ \\mathrm { m i n }$ ,and the supernatant was ultra-centrifuged at $1 0 0 ~ 0 0 0 \\times$ $g$ for $^ \\textrm { \\scriptsize 1 h }$ .The membrane fraction was solubilized in buffer A supplemented with $0 . 5 \\%$ $( \\mathbf { w } / \\mathbf { v } )$ 0 $n$ -decyl- $\\cdot \\{ \\beta$ -D-maltopyranoside (DM; Anatrace) for $2 \\mathrm { ~ h ~ }$ at $4 ~ { } ^ { \\circ } \\mathrm { C }$ ，After second ultra-centrifugation at 100 $0 0 0 \\times g$ for $3 0 ~ \\mathrm { m i n }$ ,the supernatant was loaded on $2 ~ \\mathrm { m l }$ of $\\mathrm { N i } ^ { 2 + }$ -nitrilotriacetate affinity resin (Ni-NTA;Qiagen) and washed with $3 0 ~ \\mathrm { m l }$ bufferA containing $2 0 ~ \\mathrm { m M }$ imidazole and $0 . 2 \\%$ $\\mathrm { ( w / v ) }$ DM. The protein sample was eluted with $1 5 ~ \\mathrm { m l }$ buffer A containing 350 $\\mathrm { m M }$ imidazole and $0 . 2 \\%$ $\\left( \\mathbf { w } / \\mathbf { v } \\right)$ DM,and concentrated to about 10- $1 5 ~ \\mathrm { m g / m l }$ .The concentrated sample was then loaded onto a Superdex-200 10/30 column (GE Healthcare) pre-equilibrated with bufferB( $2 0 ~ \\mathrm { m M }$ Tris-HCl, $\\mathrm { p H } 8 . 0$ ，100mMNaCl,5mM $\\beta$ -mercaptoethanol, $1 . 2 ~ \\mathrm { m M }$ sodium Dxc as well as mixed detergents of $0 . 2 \\%$ n-nonyl- $\\cdot \\beta$ -D-glucopyranoside (Anatrace) and $0 . 0 2 5 \\%$ LDAO (Anatrace)).Peak fractionswere collected,and the pooled protein sample was concentrated to $1 5 \\mathrm { m g / m l }$ before crystallization trials. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Crystallization ofMdfA ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Crystals of MdfA were grown at $1 6 ~ ^ { \\circ } \\mathrm { C }$ using the hanging-drop vapour-diffusion method( ${ \\mathrm { 1 ~ \\mu l + 1 ~ \\mu l } }$ over $2 0 0 ~ \\mu \\mathrm { l } _ { \\cdot }$ .Withareservoir solution ( $5 0 ~ \\mathrm { M }$ sodium acetate, $\\mathrm { p H } ~ 5 . 8$ ， $20 \\% - 2 4 \\%$ （ $\\left( \\mathbf { v } / \\mathbf { v } \\right)$ PEG 400, $1 0 ~ \\mathrm { m M }$ praseodymium acetate,and $5 0 ~ \\mathrm { m M }$ magnesium acetate),crystals grew typically to $2 0 \\times 2 0 \\times 5 0 ~ \\mathrm { { \\textmu m } } ^ { 3 }$ in about 3 days. Se-Met derivative crystals were grown under the same condition as the native ones.Cm-containing crystals were obtained by soaking the original crystals in the reservoir solution $\\mathrm { ( p H ~ } 5 . 8 ) \\$ supplemented with $5 . 0 \\ \\mathrm { m M } \\ \\mathrm { C m }$ .LDAO-complex crystals were obtained by soaking the original Dxc-containing crystal in the reservoir solution (substituting sodium acetate with Tris-HCl, $\\mathrm { p H } 8 . 5 \\mathrm { \\cdot }$ .Note that LDAO in the protein sample was at $0 . 0 2 5 \\%$ 1 $\\mathrm { \\langle \\sim 1 ~ m M \\rangle }$ concentration.Crystals were flash-cooled in liquid nitrogen for storage and data collection. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Datacollection and structure determination ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "X-ray diffraction data setswere collectedatKEK or SSRF and processed with the HKL2000 package [42].WT MdfA contains 18Met residues.Positions of sixteen of the seleno-substituted Met (SeMet) residues were identified in the initial anomalous difference Fourier map of the MdfA-Dxc complex crystal and were used in phase determination byusing the single-wavelength anomalous dispersion(SAD) methods implemented in the program HKL2MAP[43].The experimental SAD phases were of excellent quality so that ${ \\sim } 8 0 \\%$ of the structural model was built automatically by the computer program Phenix.autobuild. The space group of the crystal form is C2,and there is one MdfA molecule per crystallographic asymmetric unit. The model was further refined using the program Coot [44].Model validation was carried out using the web-based program Molprobity [45]. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Drug-resistance assays ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "E. coli C43 (DE3) [46] strain was transformed with the MdfA gene-containing pET28a plasmids,individually. Single clone was picked from LB plates to 48-wells plate containing $1 ~ \\mathrm { m l }$ Overnight Express Instant TB Medium (Novagen).After 5-h propagating at $3 7 ^ { \\circ } \\mathrm { C } .$ ,cultures were transferred to $1 6 ~ ^ { \\circ } \\mathrm { C }$ and grown further for 10 h.Cells were harvested,resuspended and adjusted to $\\mathrm { \\mathrm { O D } } _ { 6 0 0 }$ of 2.0, sequentially diluted as specified,and spotted overLB agar plates. The growth medium was supplemented with $3 0 ~ \\mathrm { \\mu g / m l }$ kanamycin (selection marker), $0 . 2 ~ \\mathrm { m M }$ IPTG and $2 . 5 ~ { \\mu \\mathrm { g / m l ~ C m } }$ (resistance marker).Theabilityof the $E$ .coli cells to form colonies was recorded by imaging of the plates after $3 7 ~ ^ { \\circ } \\mathrm { C }$ incubation for $3 6 \\mathrm { ~ h ~ }$ The remaining cells were sonicated for $3 ~ \\mathrm { m i n }$ and centrifuged at $1 7 \\ 0 0 0 \\times g$ for $1 0 ~ \\mathrm { m i n }$ .The supernatants $( 5 ~ \\mu \\mathrm { l } )$ ，which contained the membrane fraction,were subjected to $( 1 0 \\% )$ SDS-PAGE.Anti-glyceraldehyde 3-phosphate dehydrogenase mouse monoclonal antibody and anti-His mouse monoclonal antibody(Transgen Biotech) were used to detect the expression levels ofGAPDH(internal control) and MdfA variants. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "ITC assays ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The binding affinities between ligands and MdfA variants were measured with an ITC2oO micro-calorimeter (MicroCal).WT and mutatant variants of MdfA were prepared in a bufer containing $4 0 ~ \\mathrm { m M }$ HEPES $\\mathrm { ( p H ~ } 7 . 2 \\mathrm { ) }$ ， $1 0 0 ~ \\mathrm { m M }$ choline chloride, $0 . 0 1 \\%$ (w/ v） lauryl maltose neopentyl glycol and $0 . 0 0 2 \\%$ （ $\\mathrm { { ( w / v ) } }$ cholesteryl hemisuccinate Tris salt.Cm was dissolved in the same buffer.Protein concentration in the measurement cell was $5 0 ~ \\mu \\mathrm { M }$ ，while the ligand concentration in the titration procedure were adjusted to 2-5 mM.Titrations were performed at $2 5 ~ ^ { \\circ } \\mathrm { C } ,$ ,and data were fitted to the one-binding-site model using the software Origin 7.O (MicroCal). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "ProteinData Bank accessionnumber ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The diffraction data and refined coordinates of the crystal structures of MdfA are deposited into PDB.The accession codes are 4ZOW for the MdfA-Cm complex,4ZP0 for the MdfA-Dxc com",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "plex and 4ZP2 for the MdfA-LDAO complex ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "We thank the staff of the Protein Research Core Facility at the Institute of Biophysics,Chinese Academy of Sciences (CAS) for their excellent technical support.We are grateful to staff members of SSRF (China), SPring-8 (Japan) and KEK Photon Factory (Japan) synchrotron facilities for their assistance in crystal screening and data collection.We also thank Dr Zhenfeng Liu for the help with data collection,and Dr Juelich T for linguistic assistance during the preparation of this manuscript.This work was supported by the National Basic Research Program of China (973 Program; 2011CB910301 and 2014CB910104 to XCZ,and 2014CB910400 to YFZ),the Chinese Academy of Sciences (XDB08020301 to XCZ) and the National Natural Science Foundation of China (31470745 to XCZ,and 31200560 to XW). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "1 McKenna M.Antibiotic resistance:the last resort.Nature 2013;499:394-396.   \n2 Zhang Q,Lambert G,Liao D,et al.Acceleration of emergence of bacterial antibiotic resistance in connected microenvironments. Science 2011; 333:1764-1767.   \n3 Higgins CF. Multiple molecular mechanisms for multidrug resistance transporters.Nature 2007; 446:749-757.   \n4 Putman M, van Veen HW,Konings WN.Molecular properties of bacterial multidrug transporters.Microbiol Mol Biol Rev 2000;64:672-693.   \n5 Fluman N,Bibi E.Bacterial multidrug transport through the lens of the major facilitator superfamily. Biochim Biophys Acta 2009; 1794:738-747.   \n6 Pao SS,Paulsen IT, Saier MHJr. Major facilitator superfamily.Microbiol Mol Biol Rev 1998; 62:1-34.   \n7 Paulsen IT, Brown MH, Skurray RA.Proton-dependent multidrug efflux systems.Microbiol Rev 1996; 60:575-608.   \n8 Huang Y,Lemieux MJ, Song J,Auer M,Wang DN. Structure and mechanism of the glycerol-3-phosphate transporter from Escherichia coli. Science 2003;301:616-620.   \n9 Abramson J, Smirnova I,Kasho V,Verner G,Kaback HR, Iwata S. Structure and mechanism of the lactose permease of Escherichia coli. Science 2003; 301:610-615.   \n10Dang S,Sun L,Huang Y,et al. Structure of a fucose transporter in an outward-open conformation.Nature 2010; 467:734-738.   \n11Edgar R,Bibi E.MdfA,an Escherichia coli multidrug resistance protein with an extraordinarily broad spectrum of drug recognition.JBacteriol 1997;179:2274-2280.   \n12Wang D,Hu E, Chen J, Tao X,Gutierrez K, QiY. Characterization of novel ybjG and dacC variants in Escherichia coli.J Med Microbiol2013;62:1728-1734.   \n13Fluman N, Ryan CM,Whitelegge JP, Bibi E. Dissection of mechanistic principles of a secondary multidrug efflux protein. Mol Cell 2012; 47:777-787.   \n14Smirnova IN,Kasho V, Kaback HR.Protonation and sugar binding to LacY.Proc Natl Acad Sci USA 2008;105:8896- 8901.   \n15Zhao Y, Mao G,Liu M, Zhang L,Wang X, Zhang XC.Crystal structure of the $E$ ，coli peptide transporter YbgH. Structure 2014; 22:1-9.   \n16Varela MF, Sansom CE,Griffith JK. Mutational analysis and molecular modelling of an amino acid sequence motif conserved in antiporters but not symporters in a transporter superfamily.Mol Membr Biol 1995;12:313-319.   \n17Jiang D, Zhao Y, Wang X, et al. Structure of the YajR transporter suggests a transport mechanism based on the conserved motif A. Proc Natl Acad Sci USA 2013; 110:14664-14669.   \n18Paulsen IT, Skurray RA. Topology, structure and evolution of two families of proteins involved in antibiotic and antiseptic resistance in eukaryotes and prokaryotes — an analysis. Gene 1993; 124:1-11.   \n19Kimura T,Nakatani M,Kawabe T, Yamaguchi A.Roles of conserved arginine residues in the metal-tetracycline $\\mathrm { \\langle H + }$ antiporter of Escherichia coli. Biochemistry 1998; 37:5475-5480.   \n20 Edgar R, Bibi E. A single membrane-embedded negative charge is critical for recognizing positively charged drugs by the Escherichia coli multidrug resistance protein MdfA. EMBO J1999; 18:822-832.   \n21 Yin Y,He X, Szewczyk P, Nguyen T, Chang G. Structure of the multidrug transporter EmrD from Escherichia coli. Science 2006; 312:741-744.   \n22Steed PR, Zou P, Trone KE, McHaourab HS. Structure and pH-Induced structural rearrangements of the putative multidrug efflux pump EmrD in liposomes probed by site-directed spin labeling. Biochemistry 2013; 52:7964-7974.   \n23Dunkle JA, Xiong L, Mankin AS, Cate JH. Structures of the Escherichia coli ribosome with antibiotics bound near the peptidyl transferase center explain spectra of drug action. Proc Natl Acad Sci USA 2010;107:17152-17157.   \n24Ethayathulla AS, Yousef MS,Amin A, Leblanc G, Kaback HR, Guan L. Structure-based mechanism for $\\mathrm { { N a } } ( + ) / .$ melibiose symport by MelB.Nat Commun 2014; 5:3009.   \n25Sigal N,Fluman N, Siemion S,Bibi E. The secondary multidrug/proton antiporter MdfA tolerates displacements of an essential negatively charged side chain.J Biol Chem 2009; 284:6966-6971.   \n26Lewinson O,Padan E,Bibi E.Alkalitolerance:a biological function for a multidrug transporter in $\\mathsf { p H }$ homeostasis. Proc Natl Acad Sci USA 2004; 101:14073-14078.   \n27Pasrija R, Banerjee D,Prasad R. Structure and function analysis of CaMdrlp,a major facilitator superfamily antifungal efflux transporter protein of Candida albicans: identifcation ofamino acid residues critical for drug $\\mathrm { \\langle H + }$ transport.Eukaryotic Cell 2007; 6:443-453.   \n28Zhao Y, Terry D, Shi L,Weinstein H,Blanchard SC, Javitch JA. Single-molecule dynamics of gating in a neurotransmitter transporter homologue. Nature 2010; 465:188-193.   \n29Adler J,Bibi E.Determinants of substrate recognition by the Escherichia coli multidrug transporter MdfA identified on both sides of the membrane.J Biol Chem 2004; 279:8957- 8965.   \n30Paul S,Alegre KO,Holdsworth SR,et al.A single-component multidrug transporter of the major facilitator superfamily is part of a network that protects Escherichia coli from bile salt stress. Mol Microbiol2014; 92:872-884.   \n31Alguel Y, Meng C, Teran W,et al. Crystal structures of multidrug binding protein TtgR in complex with antibiotics and plant antimicrobials.JMol Biol 2007;369:829-840.   \n32Lu M,Radchenko M,SymerskyJ,Nie R,Guo Y.Structural insights into $\\mathrm { H + }$ coupled multidrug extrusion by a MATE transporter.Nat Struct Mol Biol 2013;20:1310-1317.   \n33 SeegerMA,SchiefnerA,EicherT,VerreyF,DiederichsK, Pos KM. Structural asymmetry of AcrB trimer suggests a peristaltic pump mechanism. Science 2006;313:1295-1298.   \n34 Sigal N,Molshanski-Mor S,Bibi E.No single irreplaceable acidic residues in the Escherichia coli secondary multidrug transporter MdfA.JBacteriol 2006;188:5635-5639.   \n35 Adler J,Bibi E.Promiscuity in the geometry of electrostatic interactions between the Escherichia coli multidrug resistance transporter MdfA and cationic substrates.JBiol Chem 2005; 280:2721-2729.   \n36 Tirosh O,Sigal N,Gelman A,et al.Manipulating the drug/ proton antiport stoichiometry of the secondary multidrug transporterMdfA.ProcNatl Acad SciUSA2012;109:12473- 12478.   \n37Lewinson O,AdlerJ,Poelarends GJ,MazurkiewiczP,Driessen AJ,Bibi E.The Escherichia coli multidrug transporter MdfAcatalyzes both electrogenic and electroneutral transport reactions.Proc Natl Acad Sci USA2003;100:1667-1672.   \n38 Schuster-BocklerB, Schultz J,Rahmann S.HMMLogos for visualizationofprotein families.BMCBioinformatics 2004; 5:7.   \n39 Sigal N,VardyE,Molshanski-Mor S,etal.3D modelof the Escherichia coli multidrug transporter MdfA reveals an essential membrane-embedded positive charge.Biochemistry 2005; 44:14870-14880.   \n40De Jesus M,Jin J,Guffanti AA,Krulwich TA.Importance of the GP dipeptide of the antiporter motif and other membrane-embedded proline and glycine residues in tetracycline efflux protein Tet(L).Biochemistry 2005;44:12896-12904.   \n41FanJ,HengJ,Dai S,et al.An efficient strategy for high throughput screening of recombinant integral membrane protein expression and stability.Protein Expr Purif 2011;78:6- 13.   \n42 Otwinowski Z,Minor W.Processing of X-ray diffraction data collected in oscillation mode.Macromol Crystallogr Pt A 1997;276:307-326.   \n43Pape T, Schneider TR.HKL2MAP:a graphical user interface for macromolecular phasing with SHELX programs.J Appl Crystallogr 2004; 37:843-844.   \n44Emsley P, Cowtan K.Coot: model-building tools for molecular graphics.Acta CrystallogrDBiol Crystallogr 2004; 60:2126-2132.   \n45Davis IW,MurrayLW,RichardsonJS,Richardson DC.MOLPROBITY: structure validation and all-atom contact analysis for nucleic acids and their complexes.Nucleic Acids Res 2004;32:W615-W619.   \n46Miroux B,Walker JE.Over-production of proteins in Escherichia coli: mutant hosts that allow synthesis of some membrane proteins and globular proteins at high levels.JMol Biol 1996; 260:289-298. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(Supplementary information is linked to the online version of the paperon the Cell Research website.) ",
+        "page_idx": 13
+    }
+]

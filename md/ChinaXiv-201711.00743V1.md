@@ -1,0 +1,205 @@
+1 不同水平柚叶饲粮对生长肉兔血清生化指标、消化和免疫功能的影响  
+2 田刚」谢文梅1\*余冰」陈　航」蔡景义」张凯²刘汉中²  
+3 （1.四川农业大学动物营养研究所，动物抗病营养教育部重点实验室，成都 611130；2.四川  
+4 省草原科学研究院草食家畜研究所，成都611333）
+
+5 摘要：本试验旨在研究不同水平柚叶饲粮对生长肉兔生理机能的影响，进一步评估柚叶作  
+6 为家兔饲料原料的可行性。选取120只遗传背景相同、健康的35日龄法国伊拉商品兔，适  
+7 应7d后，按体重[（ $1 1 7 9 . 2 5 { \scriptstyle \pm 5 3 . 7 4 } \rangle$ ）g]相近原则随机分为4组，每组10个重复，每个重  
+8 复（笼）3只。对照组饲喂不含柚叶的基础饲粮，试验组分别饲喂含 $6 \%$ （I组）、12%（II  
+9 组）和 $18 \%$ （III组）柚叶的试验饲粮，4种饲粮的能、氮和纤维含量基本相等。试验期 $2 8 \mathrm { d }$ 。  
+10 结果发现：1）除IⅢ组血清球蛋白含量显著高于对照组和Ⅱ组（ $P { < } 0 . 0 5$ ）以及IⅢ组白球比显著低于Ⅱ组（ $. P { < } 0 . 0 5$ ）外，其余血清生化指标各组间无显著差异（ $P { > } 0 . 0 5$ )。2）饲粮中添加柚叶对生长肉兔消化器官发育指标无显著影响（ $( P { > } 0 . 0 5 )$ )。除试验组后期丙酸比例及Ⅲ组中期盲肠内容物 $\mathsf { p H }$ 和氨态氮浓度显著低于对照组（P<0.05）以及ⅡI组中期 $\mathrm { \ p H }$ 显著高于III组（ $P { < } 0 . 0 5$ ）外，其余盲肠发酵参数各组间差异不显著（ $P { > } 0 . 0 5$ )。3）除II组血清免疫球蛋白A 水平显著低于对照组和I组（ $. P { < } 0 . 0 5$ ）以及I组血清免疫球蛋白A 水平显著高于对照组和Ⅱ组（ $P { < } 0 . 0 5$ ）外，其余免疫指标各组间均无显著差异（ $P { > } 0 . 0 5 \$ )。由此得出，生长肉兔自由采食含 $6 \% { \sim } 1 8 \%$ 柚叶的饲粮4周，不明显负面影响血清生化指标、消化及免疫功能，进一步提示柚叶可作为家兔的饲料原料使用。
+
+关键词：生长肉兔；柚叶；血清生化指标；消化功能；免疫功能中图分类号：S816 文献标志码：A 文章编号：
+
+我国柚叶年产量估计达百万吨[1-2]，但大部分被焚烧或任其自然腐烂，这既浪费了资源又污染了环境。研究发现，柚叶纤维组成合理，粗蛋白质含量与苜蓿草粉接近[3，且所含的柚皮苷等类黄酮化合物具有降血脂[4-5]和提高免疫力[4]等作用，是家兔的潜在饲料原料。研究表明，家兔的血液生理生化指标[6-7]、消化器官发育[7-12]与功能[7-9,1-17]及免疫功能[15,18-19]等均受饲粮组成影响。已有研究发现，含 $12 \%$ 柚叶的饲粮可提高生长肉兔的生长性能，平均日采食量（average daily feed intake,ADFI）、平均日增重（average daily gain,ADG）和饲料转化率分别较对照组提高了 $5 . 1 6 \%$ 、 $9 . 5 3 \%$ 和 $7 . 7 4 \%$ ，且生长肉兔饲喂含 $1 8 \%$ 以内柚叶的饲粮可不同程度地改善饲粮养分全肠表观消化率和屠宰性能（尤以 $12 \%$ 柚叶最佳）[20]，但含柚叶的饲粮是否会影响生长肉兔的生理机能目前尚未见报道。因此，本试验深入研究了不同水平柚叶饲粮对生长肉兔血清生化指标、消化和免疫功能的影响，为综合评估柚叶作为家兔饲料原料使用的可行性进一步积累资料。
+
+1材料与方法
+
+1.1 试验设计
+
+采用单因素试验设计，适应期（7d）后将120只遗传背景相同、健康的35日龄断奶法国伊拉商品兔按体重相近[平均体重为 （ $1 1 7 9 . 2 5 { \scriptstyle \pm 5 3 . 7 4 }$ ）g]的原则随机分为4组（每组10个重复，每个重复3只)，分别饲喂含0(对照组)、 $6 \% ( \mathrm { ~ I ~ }$ 组)、 $12 \%$ (II组)和 $1 8 \%$ (III组)柚叶的4 种消化能（分别为10.62、10.72、11.00 和 $1 1 . 2 1 \mathrm { \ M J / k g } \$ ）、粗蛋白质（分别为 $1 7 . 5 2 \%$ 、$1 6 . 7 7 \%$ 、 $1 6 . 9 3 \%$ 和 $1 7 . 0 4 \%$ )、粗纤维（分别为 $1 1 . 9 6 \%$ 、 $1 2 . 9 3 \%$ 、 $1 1 . 9 4 \%$ 和 $1 0 . 8 7 \%$ ）基本相等的试验饲粮 $2 8 \textup { d }$ 。柚叶来源及养分含量与试验饲粮组成及营养水平均参见文献[20]，饲粮均为直径为 $2 . 5 0 \mathrm { m m }$ 的颗粒料。
+
+# 1.2 饲养管理
+
+试兔饲养于四川农业大学动物营养研究所教学科研试验基地兔舍内的 $6 0 ~ \mathrm { c m } { \times } 6 0 ~ \mathrm { c m } { \times } 4 5$ cm 的金属网笼内，舍内温度（ $2 2 . 9 3 { \scriptstyle \pm 2 . 4 7 }$ ）℃，相对湿度（ $7 5 . 5 3 { \pm } 9 . 1 2 \$ ） $\%$ ，自然光照和通风。动物常规免疫接种和管理，日喂4次（08:00、12:00、16:00 和 20:00)，自由采食和饮水。
+
+# 1.3 检测指标与方法
+
+1.3.1 样品采集
+
+于试验第15天早晨（08:00）称重，然后从各组选取4只与本组平均体重相近的试兔，心脏采血 $5 \mathrm { m L }$ ， $3 0 0 0 \mathrm { r / m i n }$ 离心 $1 5 \mathrm { m i n }$ ，收集血清，分装于EP管中， ${ } - 2 0 { } ^ { \circ } \mathrm { C }$ 保存，用于测血清常规生化指标和部分免疫指标。动物采血后，耳缘静脉注射空气致死，解剖取样（胃、胃内容物、小肠、盲肠、盲肠内容物、肝脏、脾脏和胸腺）并称重，同时测盲肠内容物 $\mathrm { \ p H }$ 。试验第 29天早晨（08:00）各组另选4只动物采样（未采血)，操作同上。
+
+# 1.3.2 指标测定
+
+1.3.2.1 血清生化指标
+
+血清总蛋白（total protein,TP）、球蛋白（globulin,GLB）、白蛋白（albumin,ALB）、尿素氮（urea nitrogen,UN）、葡萄糖（glucose,GLU）、肌酐（creatinine,CR）、甘油三酯（triglyceride,TG）、总胆固醇（totalcholesterol,TC）、高密度脂蛋白（highdensitylipoprotein,HDL）、低密度脂蛋白（low density lipoprotein,LDL）和极低密度脂蛋白（very lowdensitylipoproteinVLDL）含量均采用比色法测定，血清谷丙转氨酶（aanineaminotransferase,ALT）、谷草转氨酶（aspartate transaminase,AST）和碱性磷酸酶（alkalinephosphatase,ALP）活性均采用酶比色法测定。上述指标委托四川省雅安市人民医院和四川农业大学动物医院采用罗氏P800 模块生化分析仪测定。
+
+# 1.3.2.2 消化器官发育指标
+
+消化器官比重 $( \% ) \mathop { = } 1 0 0 \times$ 器官重（g）/活体重（g)；  
+胃（盲肠）内容物比重 $( \% ) \ = 1 0 0 \times$ 胃（盲肠）内容物重（g）/活体重（g）。
+
+# 1.3.2.3 盲肠发酵参数
+
+盲肠内容物 $\mathsf { p H }$ 在其取出后立即用pH-3B 型酸度计测定[21]；总挥发性脂肪酸（total  
+volatilefattyacid,TVFA）含量在所测盲肠内容物经过前处理后用瓦里安CP-3800 型气相色谱  
+仪测定[22]；氨态氮（ $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ ）浓度采用比色法在波长 $7 0 0 \mathrm { n m }$ 条件下测定[23]。乙（丙、丁）酸比例（ $\% ) \ = 1 0 0 \times$ 乙（丙、丁）酸/（乙酸 $^ +$ 丙酸 $^ +$ 丁酸）。
+
+# 1.3.2.4 免疫指标
+
+血清免疫球蛋白A（immunoglobulin A,IgA）、免疫球蛋白G（immunoglobulin G,IgG）、免疫球蛋白M（immunoglobulin $\mathbf { M } , \mathbf { \mathrm { I g } } \mathbf { M } \dot { \mathbf { \Omega } }$ ）水平采用购自诺渊公司的酶联免疫分析试验试剂盒测定。
+
+胸腺（脾脏）指数 $( \% ) = 1 0 0 \times$ 胸腺（脾脏）重（g）/活体重（g）。
+
+# 1.4数据处理与统计分析
+
+数据用Excel2003处理，用SPSS19.0统计软件进行方差分析和Duncan氏法多重比较。结果以平均值 $\pm$ 标准差表示， $P { > } 0 . 0 5$ 表示差异不显著， $P { < } 0 . 0 5$ 表示差异显著。
+
+# 2结果与分析
+
+2.1不同水平柚叶饲粮对生长肉兔血清生化指标的影响
+
+由表1可知，除II组血清GLB 含量显著高于对照组和Ⅱ组（ $. P { < } 0 . 0 5$ )，ⅡI组血清A/G显著高于Ⅲ组（ $P { < } 0 . 0 5$ ）外，其他血清生化指标各组间无显著差异（ $( P { > } 0 . 0 5 )$ ，但从数值是看试验组血清 TG 和VLDL含量低于及TP、ALB 和HDL含量高于对照组。
+
+# 表1不同水平柚叶饲粮对生长肉兔血清生化指标的影响
+
+Table 1 Effects of diets containing different levels of pummelo leaves on serum biochemical indices of growing rabbits   
+
+<html><body><table><tr><td>项目</td><td>对照组</td><td>I组</td><td>I组</td><td>Ⅲ组</td></tr><tr><td>Items</td><td>Control group</td><td>GroupI</td><td>Group II</td><td>Group III</td></tr></table></body></html>
+
+<html><body><table><tr><td>总蛋白 TP/（g/L)</td><td>53.78±3.45</td><td>56.85±1.12</td><td>54.78±3.20</td><td>58.20±1.43</td></tr><tr><td>白蛋白 ALB/（g/L)</td><td>33.45±3.19</td><td>35.30±0.42</td><td>35.53±2.74</td><td>34.78±0.69</td></tr><tr><td>球蛋白 GLB/（g/L)</td><td>20.33 ±1.08ab</td><td>21.55±1.42bc</td><td>19.25±1.87a</td><td>23.43±0.85c</td></tr><tr><td>白球比 A/G</td><td>1.65±0.17ab</td><td>1.64±0.17ab</td><td>1.86±0.23b</td><td>1.49±0.04a</td></tr><tr><td>葡萄糖 GLU/（mmol/L)</td><td>7.26±0.26</td><td>7.71±0.79</td><td>6.93±0.46</td><td>7.68±0.79</td></tr><tr><td>尿素氮 UN/（μmol/L)</td><td>3.75±2.35</td><td>2.56±0.25</td><td>4.02±2.30</td><td>2.76±0.62</td></tr><tr><td>肌酐CR/（μmol/L）</td><td>63.25±7.14</td><td>62.75±10.24</td><td>59.75±6.08</td><td>66.00±2.94</td></tr><tr><td>总胆固醇 TC/（mmol/L）</td><td>1.81±0.56</td><td>1.94±0.24</td><td>1.86±0.51</td><td>1.71±0.22</td></tr><tr><td>甘油三酯 TG／(mmol/L)</td><td>1.46±1.08</td><td>1.05±0.15</td><td>1.11±0.46</td><td>0.91±0.24</td></tr><tr><td>高密度脂蛋白HDL/（mmol/L）</td><td>0.69±0.21</td><td>0.82±0.21</td><td>0.88±0.08</td><td>0.81±0.11</td></tr><tr><td>低密度脂蛋白LDL/（mmol/L）</td><td>0.91±0.64</td><td>1.04±0.28</td><td>0.84±0.53</td><td>0.86 ±0.21</td></tr><tr><td>极低密度脂蛋白VLDL/（mmol/L）</td><td>0.21±0.18</td><td>0.09±0.02</td><td>0.14±0.04</td><td>0.04±0.02</td></tr><tr><td>谷丙转氨酶 ALT/(U/L)</td><td>45.25±15.31</td><td>45.25±7.27</td><td>36.75±16.00</td><td>52.50±2.65</td></tr><tr><td>谷草转氨酶 AST/(U/L)</td><td>61.25±15.76</td><td>73.75±18.06</td><td>52.75±26.01</td><td>86.25±18.46</td></tr><tr><td>谷丙/谷草 AL/AS</td><td>0.80 ±0.41</td><td>0.64±0.17</td><td>0.77±0.24</td><td>0.63±0.15</td></tr><tr><td>碱性磷酸酶 ALP/（U/L)</td><td>150.50±59.78</td><td>195.00±51.94</td><td>159.75±58.23</td><td>117.75±73.92</td></tr></table></body></html>
+
+同行数据肩标无字母或相同字母表示差异不显著（ $P { > } 0 . 0 5$ )，不同小写字母表示差异显著（ $\scriptstyle P < 0 . 0 5 .$ ）°下表同。
+
+In the same row, values with no letter or the same letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ while with different small letter superscripts mean significant difference ( $_ { ( P < 0 . 0 5 ) }$ . The same as below.
+
+2.2不同水平柚叶饲粮对生长肉兔消化器官发育指标和盲肠发酵参数的影响
+
+由表2可知，整个试验期内，饲粮中添加柚叶对生长肉兔消化器官发育指标无显著影响中 $. P { > } 0 . 0 5 \$ )。由表3可知，试验组后期（即试验第 29 天）丙酸比例及I组中期（即试验第15天）盲肠内容物 $\mathsf { p H }$ 和 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度均显著低于对照组（ $P { < } 0 . 0 5 \rangle$ ，II组中期 $\mathsf { p H }$ 还显著低于Ⅱ组（ $. P { < } 0 . 0 5 )$ ，而其他盲肠发酵参数组间无显著差异（ $( P { > } 0 . 0 5 )$ 。
+
+# 表2不同水平柚叶饲粮对生长肉兔消化器官发育指标的影响
+
+Table 2Effects of diets containing different levels of pummelo leaves on development indices of digestive organs of growing rabbits   
+
+<html><body><table><tr><td>项目</td><td>时间</td><td>对照组</td><td>I组</td><td>Ⅱ组</td><td>Ⅲ组</td></tr><tr><td>Items</td><td>Time</td><td>Control group</td><td>GroupI</td><td>Group II</td><td>Group III</td></tr><tr><td>胃内容物比重</td><td>中期</td><td>2.92±0.72</td><td>3.83±0.79</td><td>2.96±0.15</td><td>3.09±0.14</td></tr><tr><td>Stomach contents ratio</td><td>后期</td><td>2.07±0.57</td><td>2.05±1.01</td><td>2.15±0.23</td><td>1.72±0.50</td></tr><tr><td>胃比重</td><td>中期</td><td>1.17±0.11</td><td>1.17±0.05</td><td>1.17±0.10</td><td>1.18±0.07</td></tr><tr><td>Stomach ratio</td><td>后期</td><td>0.86±0.13</td><td>0.97±0.12</td><td>0.79±0.28</td><td>1.02±0.07</td></tr><tr><td>盲肠内容物比重</td><td>中期</td><td>5.55±1.65</td><td>4.91±1.09</td><td>6.81±0.65</td><td>6.31±1.17</td></tr><tr><td>Caecal contents ratio</td><td>后期 中期</td><td>5.03±1.45</td><td>4.60±1.14 1.41±0.25</td><td>4.72±0.66</td><td>5.07±0.65</td></tr><tr><td>盲肠比重</td><td></td><td>1.56±0.57</td><td></td><td>1.56±0.21</td><td>1.98±0.24</td></tr><tr><td>Caecal ratio</td><td>后期</td><td>1.54±0.32</td><td>1.21±0.10</td><td>1.30±0.21</td><td>1.33±0.27</td></tr></table></body></html>
+
+<html><body><table><tr><td>小肠比重</td><td>中期</td><td>3.50±0.57</td><td>3.43±0.41</td><td>3.72±0.36</td><td>3.67±0.49</td></tr><tr><td>Small intestine ratio</td><td>后期</td><td>3.35±0.47</td><td>3.15±0.30</td><td>3.17±0.44</td><td>3.31±0.40</td></tr><tr><td>肝比重</td><td>中期</td><td>3.46±0.55</td><td>3.97±0.59</td><td>3.86±0.39</td><td>4.33±0.71</td></tr><tr><td>Liver ratio</td><td>后期</td><td>4.37±0.50</td><td>4.22±0.61</td><td>4.09±0.39</td><td>4.84±0.33</td></tr></table></body></html>
+
+表3不同水平柚叶饲粮对生长肉兔盲肠发酵参数的影响
+
+Table 3Effects of diets containing different levels of pummelo leaves on caecal fermentation   
+
+<html><body><table><tr><td colspan="6"></td></tr><tr><td>项目</td><td>时间</td><td>对照组</td><td>I组</td><td>Ⅱ组</td><td>Ⅲ组</td></tr><tr><td>Items</td><td>Time</td><td>Control group</td><td>Group I</td><td>Group II</td><td>Group III</td></tr><tr><td>pH</td><td>中期</td><td>5.74±0.03b</td><td>5.54±0.15ab</td><td>5.61±0.28b</td><td>5.32±0.13a</td></tr><tr><td></td><td>后期</td><td>6.49±0.11</td><td>6.38±0.15</td><td>6.33±0.14</td><td>6.43±0.12</td></tr><tr><td>氨态氮</td><td>中期</td><td>29.17±6.39b</td><td>24.28±1.50ab</td><td>24.71±5.10ab</td><td>20.58±3.90a</td></tr><tr><td>NH3-N/ (mmol/L)</td><td>后期</td><td>28.39±7.05</td><td>28.78±1.35</td><td>23.83±1.39</td><td>26.21±6.54</td></tr><tr><td>总挥发性脂肪酸</td><td>中期</td><td>42.53±3.26</td><td>55.91±6.56</td><td>43.58±18.62</td><td>58.52±14.85</td></tr><tr><td>TVFA/（mmol/L)</td><td>后期</td><td>45.95±2.59</td><td>45.20±10.97</td><td>48.14±7.27</td><td>46.80±10.82</td></tr><tr><td>乙酸比例</td><td>中期</td><td>80.94±3.25</td><td>80.83±1.78</td><td>82.54±5.28</td><td>80.48±2.93</td></tr><tr><td>Acetic acid ratio/%</td><td>后期</td><td>80.52±1.22</td><td>81.90±3.08</td><td>80.90±4.05</td><td>80.30±0.86</td></tr><tr><td>丙酸比例</td><td>中期</td><td>7.40±2.67</td><td>5.82±1.55</td><td>7.53±4.88</td><td>4.88±1.49</td></tr><tr><td>Propionic acid ratio/%</td><td>后期</td><td>8.97±1.25b</td><td>6.49±1.33a</td><td>6.24±0.30a</td><td>7.08±0.31a</td></tr><tr><td>丁酸比例</td><td>中期</td><td>11.66±3.93</td><td>13.35±3.03</td><td>9.93±2.41</td><td>14.64±2.09</td></tr><tr><td>Butyric acid ratio/%</td><td>后期</td><td>10.52±2.12</td><td>11.61±1.83</td><td>12.86±3.75</td><td>12.62±0.99</td></tr><tr><td>乙酸/ (丙酸+丁酸)</td><td>中期</td><td>4.38±1.04</td><td>4.05±0.47</td><td>5.06±1.47</td><td>4.21±0.73</td></tr><tr><td>Acetic acid/（propionic</td><td>后期</td><td>4.15±0.31</td><td>4.67±1.16</td><td>4.42±1.15</td><td>4.08±0.22</td></tr></table></body></html>
+
+2.3不同水平柚叶饲粮对生长肉兔免疫指标的影响
+
+由表4可知，除I组血清IgA水平显著低于对照组和I组（ $P { < } 0 . 0 5 )$ ，I组血清IgA水平显著高于对照组和ⅡI组（ $. P { < } 0 . 0 5$ ）外，其余免疫指标各组间无显著差异（ $P { > } 0 . 0 5 )$ ）。
+
+# 表4不同水平柚叶饲粮对生长肉兔免疫功能的影响
+
+Table 4Effects of diets containing different levels of pummelo leaves on the immune indices of growing rabbits   
+
+<html><body><table><tr><td>项目</td><td>对照组</td><td>I组 Group I</td><td>I组 Group II</td><td>IⅢ组</td></tr><tr><td>Items 胸腺指数</td><td>Control group 0.21±0.08</td><td>0.19±0.01</td><td>0.15±0.06</td><td>Group III 0.17±0.06</td></tr><tr><td>Thymus index 脾脏指数</td><td>0.07±0.01</td><td>0.08±0.01</td><td>0.07±0.01</td><td>0.08±0.01</td></tr><tr><td>Spleen index 免疫球蛋白A</td><td></td><td>90.12±15.45c</td><td></td><td></td></tr><tr><td>IgA/（μg/mL)</td><td>68.24±11.58b</td><td></td><td>51.56±16.63ab</td><td>41.30±9.67a</td></tr><tr><td>免疫球蛋白G</td><td>1 876.96±491.35</td><td>1 458.97±835.15</td><td>1 424.08±233.95</td><td>1 998.61±657.42</td></tr></table></body></html>
+
+<html><body><table><tr><td>IgG/ (μg/mL)</td><td></td><td></td><td></td><td></td></tr><tr><td>免疫球蛋白M</td><td>346.77±17.09</td><td>392.23±63.90</td><td>445.56±104.75</td><td>359.48±27.50</td></tr></table></body></html>
+
+3讨论
+
+3.1不同水平柚叶饲粮对生长肉兔血清生化指标的影响
+
+血液是动物机体内环境的重要组成部分，受饲粮组成等因素影响，其成分的变化可反映机体的代谢情况和健康状况[8.24]。本试验发现，各组间大部分血清生化指标无显著差异，但试验组血清TG 和VLDL含量低于对照组，而HDL含量高于对照组，这可能与柚叶中所含的柚皮苷有关。蓝松[25]通过研究发现柚叶中的柚皮苷含量约为 $1 \%$ ，且嫩叶中含量高于老叶。Seo 等[5报道，柚皮苷能够显著提高大鼠血清高密度脂蛋白胆固醇含量及其在 TC 中所占的比例，并降低 TG 含量；而杨颖等[26]和Chanet 等[27]报道，柚皮苷对高脂血症大鼠血脂含量无显著影响。本试验还发现，试验组血清ALB 和 TP 含量高于对照组，这与饲粮中添加苜蓿草粉的试验结果7类似。同时，本试验中 $1 8 \%$ 柚叶组血清GLB含量显著高于对照组和 $12 \%$ 柚叶组，而血清ALT、AST活性与对照组无显著差异，提示饲粮中添加高剂量（ $1 8 \%$ ）柚叶是否会影响生长肉兔肝功能仍有待进一步研究。本试验结果表明，饲粮中添加一定量的柚叶对生长肉兔血清生化指标无明显负面影响，甚至可促进蛋白质代谢，改善动物生长。
+
+3.2不同水平柚叶饲粮对生长肉兔消化器官发育与功能的影响
+
+消化器官及其内容物的相对比例是评估家兔消化器官发育的重要指标之一[8-9,28]。本试验发现，饲粮中添加柚叶对生长肉兔消化器官的发育并无明显不利影响，这与Maertens 等[29]关于饲粮中添加菊苣渣的报道类似。盲肠是家兔最重要的消化器官之一，其内环境状况对饲粮养分的消化利用和肠道健康均有重要影响[7-9,1-17]；盲肠内容物 pH、TVFA 含量和 $\mathrm { N H } _ { 3 }$ N浓度是评价盲肠发酵的重要指标，受家兔年龄、生理状态和饲粮组成等影响[7-9,1-17]。本试验发现，饲粮中添加 $6 \%$ 、 $12 \%$ 和 $1 8 \%$ 的柚叶都对盲肠发酵功能无明显不利影响，甚至有一定改善作用。其具体原因尚不清楚，可能与柚叶中所含的柚皮苷有关，有待进一步研究。本试验结果与Prasad等[14]和Volek等[12]关于饲粮中分别添加桑叶和菊苣根可提高肉兔盲肠TVFA含量并降低pH的报道相似。本试验结果表明，饲粮中添加一定量的柚叶对生长肉兔消化器官发育和功能无不良影响，不会影响动物生长潜力的发挥，与添加柚叶不显著影响生长肉兔平均日增重、饲料系数等的结果[20]相一致。
+
+# 3.3不同水平柚叶饲粮对生长肉兔免疫功能的影响
+
+免疫器官指数和血液免疫球蛋白水平是反映机体免疫状况的重要指标[30-32]。本试验发现，各组间免疫器官指数无显著差异，其原因尚不清楚，可能与各组饲粮所含纤维组分、活性成分等基本一致有关。陈继红7报道，肉兔脾脏和胸腺指数随饲粮中苜蓿草粉添加量增加而呈上升趋势；Chao 等[10]和陶志勇[15]报道，家兔胸腺和脾脏指数随饲粮中性洗涤纤维和酸性洗涤纤维水平提高呈递增趋势。本试验还发现， $6 \%$ 柚叶组血清 IgA 水平显著高于对照组,提示饲粮中添加适量柚叶对生长肉兔免疫功能有一定提高作用。这与已有的一些类似报道[33-34基本一致。刘可园等[33]报道，肉兔血清 IgA 和 IgG 水平随饲粮中大蒜茎秆添加量的增加呈升高趋势；Zhu 等[34报道，血清 IgG 含量随饲粮中纤维/淀粉比降低而减少。本试验结果表明，饲粮中添加一定量的柚叶对生长肉兔免疫功能无明显不良影响。
+
+141   
+142   
+143   
+144 4结论   
+145 综上所述，本试验条件下生长肉兔自由采食含 $6 \% { \sim } 1 8 \%$ 柚叶的饲粮4周，不明显负面影   
+146 响血清生化指标、消化器官发育与功能及免疫功能，甚至还有一定改善作用，结合前期生长   
+147 试验结果，进一步表明柚叶可作为家兔的饲料原料用于实际生产。   
+148 参考文献:   
+149 [1]沈兆敏.我国柑橘业在世界柑橘业中的优势和差距[J].果农之友,2015(7):3-5.   
+150 [2]佚名.叶儿粑热销:柚叶也成香悖悖[N].重庆日报,2014-10-18(06).   
+151 [3]KARABULUT A,CANBOLAT O,OZKAN C O,et al.Determination of nutritive value of   
+152 citrus tree leaves for sheep using in vitro gas production technique[J].Asian-Australasian   
+153 Journal of Animal Sciences,2007,20(4):529-535.   
+154 [4]陈辉,黄仁录,邸科前,等.类黄酮化合物在动物营养中的研究进展[J].饲料工   
+155 业,2006,27(6):9-11.   
+156 [5]SEO H J,JEONG K S,LEE M K,et al.Role of naringin supplement in regulation of lipid and   
+157 ethanol metabolism in rats[J].Life Sciences,2003,73(7):933-946.   
+158 [6]AHAMEFULE F O,EDUOK G O,USMAN A,et al.Blood biochemistry and haematology of   
+159 weaner rabbits fed sundried,ensiled and fermented cassava peel based diets[J].Pakistan   
+160 Journal of Nutrition,2006,5(3):248-253.   
+161 [7]陈继红.苜蓿草粉对肉兔生产性能、消化生理及肉品质的影响[D].硕士学位论文.郑州:河   
+162 南农业大学,2007.   
+163 [8]DE BLAS C,WISEMAN J.Nutrition of the rabbit[M].2nd ed.Wallingford:CABI,2010.   
+164 [9]DAVIES R R,DAVIES JA E R.Rabbit gastrointestinal physiology[J].Veterinary Clinics of   
+165 North America:Exotic Animal Practice,2003,6(1):139-153.   
+166 [10]CHAO H Y,LI F C.Effect of level of fibre on performance and digestion traits in growing   
+167 rabbits[J].Animal Feed Science and Technology,2008,144(3/4):279-291.   
+168 [11]OSO O A,SOBAYO R,JEGEDE V,et al.Effect of dietary inclusion of sorghum miling waste   
+169 on growth response,nutrient utilisation,gut characteristics and cecal microflora of weaner   
+170 rabbits[J].Animal Science Journal,2011,82(3):468-474.   
+171 [12]VOLEK Z,MAROUNEK M.Dried chicory root (Cichorium intybus L.) as a natural fructan   
+172 source in rabbit diet:effects on growth performance,digestion and caecal and carcass   
+173 traits[J].World Rabbit Science,2011,19(3):143-150.   
+174 [13]GARCIA J,GIDENNE T,FALCAO-E-CUNHA L,et al.Identification of the main factors that   
+175 influence caecal fermentation traits in growing rabbits[J].Animal   
+176 Research,2002,51(2):165-173.   
+177 [14]PRASAD R,MISRA A K,SANKHYAN S K,et al.Growth performance and caecal   
+178 fermentation in growing rabbits fed on diets containing graded levels of mulberry (Morus   
+179 alba) leaves[J].Asian-Australasian Journal of Animal Sciences,2003,16(9):1309-1314.   
+180 [15] 陶志勇.日粮 NDF 水平对生产肉兔生产性能、营养物质利用、免疫及盲肠发酵的影响   
+181 [D].硕士学位论文.泰安:山东农业大学,2004.   
+182 [16]MARTINEZ-VALLESPINB,MARTINEZ-PAREDESE,RODENASL,etal.Partial   
+183 replacement of starch with acid detergent fibre and/or neutral detergent soluble fibre at two   
+184 protein levels:effects on ileal apparent digestibility and caecal environment of growing   
+185 rabbits[J].Livestock Science,2013,154(1/2/3):123-130.   
+186 [17]ALAGON G,ARCE O N,MARTINEZ-PAREDES E,et al.Effect of inclusion of distillers   
+187 dried grains and solubles from barley,wheat and corn in isonutritive diets on the performance   
+188 and caecal environment of growing rabbits[J].World Rabbit Science,2014,22(3):195-205.   
+189 [18]FORTUN-LAMOTHE L,DROUET-VIARD FReview: I -diet and immunity:current state   
+190 ofknowledgeandresearchprospectsfortherabbit[J].WorldRabbit   
+191 Science,2010,10(1):25-39.   
+192 [19]曹礼华,沈赞明,江善祥.营养因素对动物免疫功能的影响[J].饲料研究,2010(8):27-31.   
+193 [20]田刚,谢文梅,余冰,等.饲粮中不同水平柚叶对生长肉兔生长性能、饲粮养分全肠表观消   
+194 化率和屠宰性能的影响[J].动物营养学报,2016,28(4):1145-1151.   
+195 [21]PADILHA M T S,LICOIS D,GIDENNE T,et al.Relationships_between microflora and   
+196 caecal fermentation in rabbitsbefore and after weaning[J].Reproduction Nutrition   
+197 Development,1995,35(4):375-386.   
+198 [22]SPILLER G A,CHERNOFF M C,HILL R A,et al.Effect of purified celllose,pectin,and a   
+199 low-residue diet on fecal volatile fatty acids,transit time,and fecal weight in humans[J].The   
+200 American Journal of Clinical Nutrtion,1980,33(4):754-759.   
+201 [23] WEATHERBURNMW.Phenol-hypochloritereactionfordeterminationof   
+202 ammonia[J].Analytical Chemistry,1967,39(8):971-974.   
+203 [24] BENAVENTE-GARCIA O,CASTILLO J,LORENTE J,et al.Antioxidant activity of   
+204 phenolics extracted from Olea europaea L. leaves[J].Food Chemistry,2000,68(4):457-462.   
+205 [25]蓝松.高效液相色谱法测定柚叶中柚皮苷的含量[J].安徽农业科学,2007,35(33):10581.   
+206 [26] 杨颖,李生茂,周春阳,等.柚皮苷和柚皮素对高脂血症大鼠同型半胱氨酸水平的影响[J].   
+207 医药导报,2013,32(8):1021-1024.   
+208 [27] CHANETA,MILENKOVIC D,DEVAL C,etal.Naringin,themajorgrapefruit
+
+209 flavonoid,specifically affects atherosclerosis development in diet-induced   
+210 hypercholesterolemia in mice[J].The Journal of Nutritional   
+211 Biochemistry,2012,23(5):469-477.   
+212 [28]李清宏,任克良,王保军,等.美系断奶獭兔消化器官发育规律的研究[J].畜牧兽医学   
+213 报,2009,40(4):515-521.   
+214 [29]MAERTENS L,GUERMAH H,TROCINO A.Dehydrated chicory pulp as an alternative   
+215 soluble fibre source in diets for growing rabbits[J].World Rabbit Science,2014,22(2):97-104.   
+216 [30]JEKLOVA E,LEVA L,KUDLACKOVA H,et al.Functional development of immune   
+217 response in rabbits[J].Veterinary Immunology and   
+218 Immunopathology,2007,118(3/4):221-228.   
+219 [31]杨锐,李金良,李旭廷,等.蒲公英粗多糖对断奶至3月龄生长肉兔生长性能及免疫功能的 影响[J].动物营养学报,2013,25(11):2770-2774. [32]唐姣玉,周东升,何理平.黄芪多糖对断奶仔兔生长性能及免疫功能的影响[J].饲料研 究,2014(1):1-3,31. [33]刘可园,刘郝佳,刘诚刚,等.大蒜茎秆对肉兔生产性能和免疫功能的影响[J].东北农业大 学学报,2012,43(6):41-45. [34]ZHU Y L,WANG C Y,WANG X P,et al.Effects of dietary fiber and starch levels on the non-specific immune response of growing rabbits[J].Livestock Science,2013,155(2/3):285-293. Effects of Diets Containing Different Levels of Pummelo Leaves on Serum Biochemical Indices, Digestion and Immune Functions of Growing Rabbits TIAN Gang1XIE Wenmei1\* YUBing1CHEN Hang1CAIJingyi1 ZHANG Kai²LIU Hanzhong2 (1. Key Laboratory for Animal Disease-Resistance Nutrition of Ministry of Education, Animal Nutrition Institute, Sichuan Agricultural University, Chengdu 611130, China; 2. Institute of Grass-Feeding Livestock, Sichuan Academy of Grassland Science, Chengdu 611333, China) Abstract: The aim of this study was to investigate the effects of diets containing different levels of pummelo leaves on physiological function of growing rabbits,and to evaluate the feasibility of pummelo leaves used as rabbit feed ingredient. One hundred and twenty healthy and 35-day-old French IRA rabbits had same genetic background were used in this study. After adaptation period (7 d),these rabbits were randomly divided into four groups based on similar body weight $( 1 1 7 9 . 2 5 { \scriptstyle \pm 5 3 . 7 4 } )$ g],ten replicates in each group and three rabbits in each replicate. Growing
+
+rabbits in four groups were fed diferent diets that had similar nitrogen, energy and fiber and the levels of pummelo leaves in the diets were O (control group), $6 \%$ (group I), $12 \%$ (group II) and $1 8 \%$ (group II),respectively. The experimental period lasted for $2 8 { \mathrm { ~ d ~ } }$ .The results showed as follow: 1） serum globulin content of growing rabbits in group II was significantly higher than that in control group and group I $( P { < } 0 . 0 5 )$ ，and serum albumin/globulin in group I was significantly lower than that in group I $( P { < } 0 . 0 5 )$ ，while the other serum biochemical indices did not have significant differences among four groups $( P { > } 0 . 0 5 )$ . 2）No significant differences were detected among four groups in the development indices of digestive organs of growing rabbits （204 $( P { > } 0 . 0 5 )$ . The propionic acid ratio of caecal contents in experimental groups was significantly higher than that in control group in the later stage ( $( P { < } 0 . 0 5 )$ ，the $\mathrm { p H }$ and ammoniacal nitrogen concentration of caecal contents in group II was significantly lower than those in control group in the mid-term $( P { < } 0 . 0 5 )$ ,and the $\mathrm { p H }$ of caecal contents in group II was significantly higher than that in group III in the mid-term $( P { < } 0 . 0 5 )$ ，while there were no significant differences in other caecal fermentation parameters among four groups $( P { > } 0 . 0 5 )$ . 3) Serum immunoglobulin A level of growing rabbits in group II was significantly lower than that in control group and groupI （204号 $( P { < } 0 . 0 5 )$ , and serum immunoglobulin A level in group I was significantly higher than that in control group and group II $_ { ( P < 0 . 0 5 ) }$ ,while there was no significant differences in other immune indices among four groups $( P { > } 0 . 0 5 )$ . In conclusion, growing rabbits are fed diets containing a certain amount of pummelo leaves for 4 weeks and there are no obvious adverse effects on serum biochemical indices, digestive and immune functions of them, pummelo leaves can be used as raw material in rabbit diets.
+
+Key words: growing rabbits； pummelo leaves； serum biochemical indices； digestive function;immune function

@@ -1,0 +1,617 @@
+[
+    {
+        "type": "text",
+        "text": "一个改进的强指定验证者签密方案\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李元晓1,²，周彦伟1,²，杨波1,2†",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.陕西师范大学 计算机科学学院，西安 710119;2.中国科学院信息工程研究所，信息安全国家重点实验室，北京100093)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：Sujata 等人在 2012年提出了一个基于离散对数的强指定验证者签密方案，然而分析可知 Sujata 等人的方案无法抵抗授权攻击，并且验证权具有可委托性。针对上述不足，给出一个改进的强指定验证者签密方案，仅有指定的验证者才能验证签密密文的有效性；此外，指定的验证者能够生成一个与原始签密密文不可区分的签密副本。安全分析表明，该方案不仅能够抵抗适应性选择明文攻击，而且在提供认证的同时可保证签密密文的不可伪造性。由于该方案的上述优越性能，在实际生活中具有广泛的应用前景，如区块链、电子投票、电子招标等场景。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：强指定验证者签密；授权攻击；不可伪造；不可区分 中图分类号：TP309.7 doi: 10.19734/j.issn.1001-3695.2018.07.0558 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Improved strong designated verifier signcryption scheme ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Li Yuanxiaol,2, Zhou Yanwei1,2, Yang Bo1, 2† (1.SchoolofComputerScience，Shaanxi Normal University,Xi’anl19,China;2.StateKeyLaboratoryofInformation Security,Instituteof Information Engineering,Chinese AcademyofSciences,Beijing 1Oo093,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In 2012,Sujata et al. proposed a strong designated verifier signcryption scheme based on discrete logarithm. However,itcannotresistthedelegableatack.Inthis paper,this paper proposedastrong designated verifiersigncryption scheme,in which,the designated verifiercanonly verifythe validityof the messge.At thesame time,the designated verifiercan generate a signedtranscript that is indistinguishable withtheoriginal signed ciphertext.Through the security analysis,proposed schemecanresisttheadaptive choice plaintext atacks.Inadition,itcan guarantee the non-forgeryof thesigned ciphertext while providing authentication.Due to theabove superior performance of the scheme,proposed solution can be applied to blockchain,electronic voting,tendering,and other realistic scenarios. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: strong designated verifier; delegable attack; unforgeable; indistinguishable ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "签密是1997年由Zheng[1首次提出的一种新的密码学原语，签密能够在一个合理的逻辑步骤内同时完成数字签名和公钥加密两项功能，而其计算量和通信成本都要低于传统的“先签名后加密”。在签密方案中，签密文本发送者通常用接收者的公钥生成一个实现两者之间对称加密的会话密钥，接收者用自己的私钥也可以产生一个相同的会话密钥，此会话密钥安全性是认证和加密的安全保障。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为增强签名者的隐私性，Jakobsson等人[2]首次提出强指定验证者签名（strong designated verifier signature,SDVS）的概念。只有指定验证者相信签名的有效性。然而，任何得到签名的人可以验证签名有效性，即可判断真正签名者是两者中的一个。为了解决这个问题，2003年Saeednia 等人[3提出了一个强指定验证者签名方案，这个方案中只有拥有指定验证者私钥的人才可以验证签名的有效性。与此同时，Saeednia等人[3]首次提出强指定验证者签密的概念，强指定验证者签密将签密和指定验证者结合起来，在实现可否认认证的同时，保证消息机密性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2005年Lipmaa等人[4提出一个针对指定验证者签名的攻击模型，命名为授权攻击。因此为指定验证者签名增加了一个新的安全属性（称之为非授权性），并证明已有几个指定验证者签名方案都不能抵抗授权攻击。授权攻击的基本思想是，签名者或者指定验证者可以在不泄露自身私钥的情况下，把签名权或者验证权授权给第三方，这是安全的指定验证者签名方案不希望具备的性质。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2012年，Sujata等人[5提出了一个基于离散对数的强指定验证者签密方案，然而分析可知Sujata等人的方案无法抵抗授权攻击，并且验证权具有可委托性，为此本文给出一个改进的强指定验证者签密方案。在此方案中签密文本只能被指定验证者验证，在实现相同功能的条件下计算效率远远高于文献[6,7]方案，并给出了安全性和效率分析。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 数学基础 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1离散对数问题",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "设 $p$ 是素数， $\\boldsymbol { a }$ 是 $p$ 的本原根，即 $a ^ { 1 } , a ^ { 2 } , . . . , a ^ { p - 1 }$ 在模 $p$ 下产生1到 $_ { p - 1 }$ 的所有值，所以对 $\\forall b \\in \\{ 1 , 2 , . . . , \\mathsf { p } ^ { - 1 } \\}$ ，有唯一的$i \\in \\{ 1 , 2 , . . . , p - 1 \\}$ 使得 $b = a ^ { i } { \\bmod { p } }$ ，称 $i$ 为模 $\\boldsymbol { p }$ 下以 $a$ 为底 $b$ 的离散对数，记为 $i \\equiv \\log _ { a } b { \\bmod { p } }$ 。当 $a$ 、 $p$ 、 $i$ 已知时，用快速指数算法可比较容易地求出 $b$ ，但当 $a$ 、 $b$ 和 $p$ 已知时，求 $i$ 则非常困难。目前已知的最快的求离散对数算法其时间复杂度为 $O ( \\exp ( \\ln \\mathbf { p } ) ^ { 1 / 3 } \\ln ( \\ln ) ^ { 2 / 3 } )$ ，所以当 $\\boldsymbol { p }$ 很大时，该算法也是不可行。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2安全模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1不可区分性",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如果对任何多项式时间敌手 $A$ ，存在一个可忽略的函数$\\varepsilon ( k )$ ， $k$ 为安全参数，使得 $A d \\nu _ { \\Pi , A } ^ { C P A } ( k ) \\leq \\varepsilon ( k )$ ，那么就称这个算法Ⅱ是语义安全的，或者称为在选择明文攻击下具有不可区分性，简称为IND-CPA安全。如图1所示，具体游戏描述如下[14]：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)挑战者运行密钥生成算法生成签密文本接收者的公私钥对 $( s k _ { b } , p k _ { b } )$ ，并将 $p k _ { b }$ 发送给敌手 $A$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)敌手在进行签密询问时，选择一个消息 $m \\in M$ 和接收者的公钥 $p k _ { b }$ 将其发送给挑战者。挑战者模拟签密预言机，对 $( m , s k _ { a } , p k _ { b } )$ 进行签密，然后返回相应的结果给敌手 $A$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c)敌手 $A$ 选择两个相同长度的消息 $m _ { 0 } , m _ { 1 } \\in M$ 和一个公钥$p k _ { b }$ 发送给挑战者，挑战者随机选择 $r \\in \\{ 0 , 1 \\}$ ，计算一个对于消息 $m _ { r }$ 、签密者的私钥 $s k _ { a } ^ { * }$ 、指定验证者的公钥 ${ p \\boldsymbol { k _ { b } } } ^ { * }$ 的签密文本 $\\delta ^ { \\prime } = S i g n c r y p t i o n ( m _ { r } , s k _ { a } ^ { \\ast } , p k _ { b } ^ { \\ast } )$ ，并将 $\\delta ^ { \\prime }$ 发送给敌手 $A$ 作为挑战密文。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "d)敌手输出 $\\boldsymbol { r ^ { \\prime } }$ 。如果 $\\boldsymbol { r } = \\boldsymbol { r } ^ { \\prime }$ 则敌手区分成功。敌手 $A$ 的优势可定义为参数为 $k$ 的函数： $A d \\nu _ { \\scriptscriptstyle \\mathrm { I . A } } ^ { \\scriptscriptstyle C P A } ( k ) = \\mid \\mathrm { P r } [ r ^ { \\prime } = r ] - 1 / 2 \\mid$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a837b009edd8152993b10f8238a1e957603c5307ff2018fa68acc17b27b62911.jpg",
+        "img_caption": [
+            "图1不可区分性游戏过程图",
+            "Fig.1The process of indistinguishable game "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2不可伪造性",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如果对任何多项式时间敌手 $A$ ，存在一个可忽略的函数negl，使其满足 $\\operatorname* { P r } [ \\mathrm { S i g - f o r g e } _ { \\mathrm { A , \\Pi } } ( \\mathfrak { n } ) = 1 ] \\le \\mathrm { n e g l ( \\mathfrak { n } ) }$ ，那么就称这个签名方案 $\\Pi { = } ( \\mathrm { G e n , S i g n , V r f y } )$ 在适应性选择消息攻击下是存在性不可伪造的，简称为EF-CMA安全。如图2所示，具体游戏描述如下[15];",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)挑战者运行密钥生成算法，生成签密文本接收者的公私钥对 $( s k _ { b } , p k _ { b } )$ ，并将 ${ p } k _ { b }$ 发送给敌手 $A$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)敌手在进行签密询问时，选择一个消息 $m \\in M$ 和接受者的公钥 $p k _ { b }$ 将其发送给挑战者。挑战者模拟签名预言机，对 $( m , s k _ { a } , p k _ { b } )$ 进行签名，并将结果返回给敌手 $A$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c)敌手 $A$ 选择一个相同长度的消息 $m ^ { \\prime } \\in M$ 和公钥 $p k _ { b }$ 发送给挑战者，计算一个对于消息 $m ^ { \\prime }$ 、签密者的私钥 ${ \\ s k } _ { a }$ 、指定验证者的公钥 $p k _ { b }$ 的签密文本 $\\delta ^ { \\prime }$ ，并将 $\\delta ^ { \\prime }$ 发送给敌手 $A$ 作为挑战密文。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "d)敌手输出 $( m ^ { \\prime } , \\delta ^ { \\prime } )$ 。如果 $\\mathrm { V r f y } _ { p k _ { b } } ( m ^ { \\prime } , \\delta ^ { \\prime } ) = 1$ 且 $m ^ { \\prime }$ 之前没有询问过，则敌手伪造成功。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9c98e5af542166f5582f45d1a60f870eea902890c16d7d5e02355fabc71591df.jpg",
+        "img_caption": [
+            "图2不可伪造性游戏过程图",
+            "Fig.2The process of unforgeable game "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Sujata强指定验证者签密方案",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1方案概述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "该方案首先生成用户的公开参数：两个安全素数 $p , q$ (q为 $p - 1$ 的素因子），生成元 $g \\in Z _ { p }$ 阶为 $q$ ，单向哈希函数 $H$ ，输出的值属于 $Z _ { p }$ 。签名者Alice拥有自己的密钥对 $( x _ { a } , y _ { a } )$ □Alice选择自己的私钥 $\\textstyle x _ { a } \\in Z _ { q }$ ，计算相对应的公钥$y _ { a } = g ^ { x _ { a } } \\mathrm { m o d } p$ ，同样，指定验证者Bob也有自己的密钥对$( x _ { b } , y _ { b } )$ 其中 $y _ { b } = g ^ { x _ { b } }$ mod $p$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1）签密的生成a）Alice 随机选择 $t \\in Z _ { q }$ ；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）Alice 计算 $K , r , s , C$ 如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { K = y _ { b } ^ { \\phantom { \\dagger } } \\mathrm { m o d } p } } \\\\ { { \\phantom { K } C = E _ { K } ( m ) } } \\\\ { { \\phantom { K } r = H ( K ) } } \\\\ { { \\phantom { K } s = t - r x _ { a } \\mathrm { m o d } q } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c）Alice 发送签密文本 $\\delta = ( r , s , C )$ 给指定接收者Bob;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2）解签密 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）Bob 收到签密文本 $\\delta = ( r , s , C )$ 后，用私钥 $x _ { b }$ 计算出 $K ^ { \\prime }$ ：$K ^ { \\prime } = ( g ^ { s } y _ { a } ^ { ~ r } ) ^ { x _ { b } } \\mathrm { m o d } p$   \nb）验证 $r = H ( K ^ { \\prime } )$ ：  \nc）计算 $m = D _ { K ^ { \\prime } } ( C )$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2方案分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "指定验证者签名的本意是指：Alice向Bob证明论断的正确性，通过证明\" $\\Theta$ 是正确的\"或\"她知道Bob的私钥\"来实现。但是此指定验证者签名方案设计时，变换成证明命题\"是正确的\"或\"她知道部分信息”，这个部分信息是关于Alice私钥（公钥）和Bob公钥（私钥）的单向函数，即已知这个单向函数是无法得到私钥的。在密码学中，除了私钥被严格保护之外，其他任何组成在各种各样的攻击下都是脆弱的，都有被攻破的可能性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "此方案具有可授权性的缺陷，具体描述如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "给定 $y _ { a b } = g ^ { x _ { a } x _ { b } } \\mathrm { m o d } p$ 的知识[8]，任何人在没有指定验证者私钥的情况下都可以验证 $r = H ( y _ { b } ^ { ~ s } y _ { a b } ^ { ~ r } \\bmod p ) = H ( K )$ 是否成立。因为任意第三方在得到 $\\delta = ( r , s , C )$ 后，计算$K = { y _ { b } } ^ { s } { y _ { a b } } ^ { r }$ mod $p = ( g ^ { s } y _ { a } ) ^ { x _ { b } r } { \\bmod { p } }$ ，即可在不知道指定验证者Bob的私钥的情况下，验证 $r = H ( y _ { b } ^ { \\ s } y _ { a b } ^ { \\ r } \\bmod p )$ 是否成立，因此违背了强指定验证者的定义。攻击者在消息未到达指定验证者之前提取出 $y _ { a b } = g ^ { x _ { a } x _ { b } } \\mathrm { m o d } p$ 的知识，解签密后一方面可对密文进行解密，另一方面可得知签密的真实来源，这对于强指定验证者签密来说是极不安全的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 本文方案的构造",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文给出了一个新的强指定验证者签名的签密方案，此方案可抵抗授权攻击，相对于Sujata的签密方案有一定的安全性提升。本方案基于Lee的强指定验证者签名方案[9]，将Schnorr签名[10]和Wang的可认证加密方案[1]结合，本文的方案使用安全的对称加密算法 $( E _ { K } ( \\cdot ) , D _ { K } ( \\cdot ) )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)系统初始化:两个安全素数P,q（ $q$ 为 $_ { p - 1 }$ 的素因子），生成元 $g \\in Z _ { p }$ 阶为 $q$ ，单向哈希函数 $H$ ，输出的值属于 $Z _ { p }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)密钥生成:Alice 选择自己的私钥 $\\textstyle x _ { a } \\in Z _ { q }$ ，计算相对应的公钥 $y _ { a } = g ^ { x _ { a } } \\bmod p$ ，同样，指定验证者Bob 也有密钥对 $( x _ { b } , y _ { b } )$ 其中 $y _ { b } = g ^ { x _ { b } } \\bmod p$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)签密的生成",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a)Alice 选择一个随机值 $k \\in Z _ { q }$ ;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(b)Alice以如下方式计算 $r , s$ 和 $t$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr = g ^ { k } { \\bmod { p } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns = k + x _ { a } r { \\bmod { q } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc = { y _ { b } } ^ { s } { \\bmod { p } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(c)Alice 将 $\\mid c \\mid$ 按位平均截成左右两半部分 $c _ { 1 } , c _ { 2 }$ （若 $\\mid c \\mid$ 长度为奇数，则左短右长），并计算：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt = H ( m , c _ { \\mathrm { l } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD = E n c _ { c _ { 2 } } ( m )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(d)Alice 生成的签密文本为 $\\delta = ( r , t , D )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d）解签密 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a)Bob收到签密文本 $\\delta = ( r , t , D )$ 后，用自己的私钥 $x _ { b }$ 计算出 $c ^ { \\prime }$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc ^ { \\prime } = ( r { y _ { a } } ^ { r } ) ^ { x _ { b } } \\mathrm { m o d } p\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(b)Bob以相同的方式将 $\\mid c \\mid$ 分成两部分，计算：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm = D e c _ { c _ { 2 } ^ { ' } } ( D )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt = H ( m , c _ { 1 } ^ { \\prime } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(c)如果(b）中等式成立则签密文本验证通过。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e）签密副本的生成",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "指定验证者签名的特性是只有被事先指定的验证者才能知道签名的真实来源，验证者无法让任意第三方相信签名的真实来源。任意第三方之所以不能知道签名的真实来源，是因为指定验证者也可以生成一个与签名者签名不可区分的签名副本。为了使第三方难以区分出传送的签密文本是Alice生成的还是Bob生成的，Bob验证通过后模拟生成签密副本$\\delta ^ { \\prime }$ ，具体过程如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a)Bob 选择一个随机值 $k ^ { \\prime } \\in Z _ { q }$ ：(b)Bob以如下方式计算出 $r ^ { \\prime } , t ^ { \\prime } , D ^ { \\prime }$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr ^ { \\prime } = g ^ { k ^ { \\prime } } { \\bmod { p } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc ^ { \\prime } = ( r ^ { \\prime } { y _ { a } } ^ { \\prime } ) ^ { x _ { b } } \\mathrm { m o d } p\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(c)以相同的方法将 $c ^ { \\prime }$ 分成两部分 ${ c _ { 1 } ^ { \\prime } , c _ { 2 } ^ { \\prime } }$ ，计算：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { t ^ { \\prime } = H ( m , c _ { 1 } ^ { \\prime } ) } } \\\\ { { \\nonumber } } \\\\ { { D ^ { \\prime } = E n c _ { c _ { 2 } ^ { \\prime } } ( m ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(d)Bob 生成的签密副本为 $\\delta ^ { \\prime } = \\left( { r ^ { \\prime } , t ^ { \\prime } , D ^ { \\prime } } \\right)$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4方案的安全性与效率分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于方案中 $c = ( { r { y _ { a } } ^ { r } } ) ^ { { x _ { b } } } { \\bmod { p } }$ ，仅掌握签密者和指定验证者的公钥以及 $y _ { a b }$ 的知识是不能够生成一个有效的签名以及验证签名的有效性，因为即使掌握了这些知识生成一个有效签名或者验证签名有效性，面对的问题仍然是求解离散对数问题。本文的方案具有不可伪造性、机密性、不可传递性以及不可授权性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.1正确性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "接收者 Bob 收到签密文本 $\\delta = ( r , t , D )$ 后可正确验证签名的有效性，原因如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a) $c ^ { \\prime } = ( { r y _ { a } } ^ { r } ) ^ { x _ { b } } = \\mathbf { g } ^ { ( k + x _ { a } r ) x _ { b } } = { y _ { b } } ^ { k + x _ { a } r } = { y _ { b } } ^ { s } = c$ 将 $\\mathbf { \\boldsymbol { c } } ^ { \\prime }$ 同样的方法分成两部分 $c _ { 1 } ^ { \\prime } , c _ { 2 } ^ { \\prime }$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)当 $c _ { 2 } ^ { \\prime } = c _ { 2 }$ 时， $m = D e c _ { c _ { 2 } ^ { ' } } ( D ) = D e c _ { c _ { 2 } } ( D )$ c)当 ${ c _ { 1 } ^ { \\prime } = c _ { 1 } }$ 时， $t = H ( m , c _ { 1 } ) = H ( m , c _ { 1 } ^ { \\prime } )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.2机密性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "除了指定接收者，其他任何人不能从签密文本中提取出任何关于消息 $m$ 的任何信息。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因为哈希函数的单向性，在恢复 $c ^ { \\prime } = ( r ^ { \\prime } { y _ { a } } ^ { r ^ { \\prime } } ) ^ { x _ { b } } { \\bmod { p } }$ 后，很难从 $t = H ( m , c _ { 1 } )$ 得到关于消息 $m$ 的任何信息。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因为 $( E n c _ { k } ( \\cdot ) , D e c ( \\cdot ) )$ 为安全的对称加密解密算法对。必须得到密钥才能进行解密，要想得到密钥，必须知道 $k$ 和 $x _ { a }$ ，又因为离散对数问题的困难性，所以很难从 $r = g ^ { k } { \\bmod { p } }$ 和$y _ { a } = g ^ { x _ { a } } \\bmod p$ 中得到 $k$ 和 $x _ { a }$ ，因此本方案是安全的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "引理1对于所有的概率多项式时间敌手 $A$ ，存在一个可忽略的函数 $n e g l$ ，满足 $\\mathrm { P r } [ \\mathrm { P r i v } { \\bf K } _ { A , \\Pi } ^ { c p a } ( n ) = 1 ] \\leq \\frac { 1 } { 2 } + n e g l ( n )$ ，则敌手$A$ 在选择明文攻击下是不可区分的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在方案中如果敌手 $A$ 成功区分出 $m _ { 0 } , m _ { 1 }$ ，即 $\\boldsymbol { r } = \\boldsymbol { r } ^ { \\prime }$ ，则意味着敌手攻破了安全的对称加密方案。因为对称加密的密文不可区分性，所以本文的方案是不可区分的。这里的对称加密可以用别的方式构造，且可证明安全，这里为了方案的工整性，不做详细描述。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.3不可伪造性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "方案使用Schnorr签名生成 $( r , s )$ ，根据[4]中 Schnorr签名的可证明安全性，任何适应性敌手，包括Bob不能伪造一个对消息 $m$ 的签密文本 $\\delta = ( r , t , D )$ ，满足： $m = D e c _ { c _ { c _ { 2 } } } ( D )$ ，$t = H ( m , c _ { 1 } )$ 其中 $r = g ^ { k } { \\bmod { p } }$ ， $s = k + x _ { a } r \\bmod q$ $c = { y _ { b } } ^ { s } { \\bmod { p } }$ 。否则敌手可以成功伪造一个合法的Schnorr签名。所以本方案是安全的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "引理2如果不存在任何概率多项式时间算法能以不可忽略的概率赢得以上游戏，则称方案在适应性选择消息攻击下是存在性不可伪造的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如果上述游戏中，敌手对挑战者进行一系列的询问之后，向挑战者返回一个合法的消息签密文本，那么将敌手伪造签密的能力规约到敌手攻破schnorr签名的问题上。因为schnorr签名是不可伪造的，所以本文的方案是不可伪造的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.4不可授权性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本方案中 $t = H ( m , ( r y _ { a } ^ { \\ r } ) ^ { x _ { b } } \\bmod p ) = H ( m , y _ { b } ^ { \\ k } y _ { a b } ^ { \\ r } )$ ，仅掌握签密者和指定验证者的公钥以及 $y _ { a b }$ 的知识是不能够生成一个有效的签名以及验证签名的有效性，该方案在验证过程中不存在可授权性的缺陷，只有掌握了指定验证者私钥的人才能验证签名的有效性，面临的问题是离散对数问题，这在现有的计算能力下是困难问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.5不可转移性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Bob生成的签密副本 $\\delta ^ { \\prime } = ( \\boldsymbol { r } ^ { \\prime } , t ^ { \\prime } , \\boldsymbol { D } ^ { \\prime } )$ 与Alice的签密$\\delta = ( r , t , D )$ 是不可区分的，从Alice 的有效签密文本里随机选的一个 $( \\overline { { r } } , \\overline { { t } } , \\bar { D } )$ ，因为 $( r , t )$ 都是由 $k \\in Z _ { _ q ^ { * } }$ 决定， $( \\boldsymbol { r } ^ { \\prime } , t ^ { \\prime } )$ 由 $k ^ { \\prime } \\in Z _ { q ^ { * } }$ 决定， $D ^ { \\prime }$ 和 $D$ 是不可区分的，所以",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P r } [ ( { \\bf r } , { \\bf t } , { \\bf D } ) = ( \\overline { { r } } , \\overline { { t } } , \\overline { { D } } ) ] = \\frac { 1 } { q - 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P r } [ ( r ^ { \\prime } , t ^ { \\prime } , D ^ { \\prime } ) = ( \\overline { { r } } , \\overline { { t } } , \\overline { { D } } ) ] = \\frac { 1 } { q - 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因此Bob 生成的签密副本 $\\delta ^ { \\prime } = ( \\boldsymbol { r } ^ { \\prime } , t ^ { \\prime } , D ^ { \\prime } )$ 与 Alice 的签密$\\delta = ( r , t , D )$ 的分布是相同的，因此是不可区分的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.6效率分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在本方案中，签密阶段的计算复杂度为 $2 T _ { \\scriptscriptstyle E } + 1 T _ { \\scriptscriptstyle H } + 1 T _ { \\scriptscriptstyle M }$ ，解签密文本的过程中的计算复杂度为 $2 T _ { \\scriptscriptstyle E } + 1 T _ { \\scriptscriptstyle H } + 1 T _ { \\scriptscriptstyle M }$ ：0 $\\mathrm { ~  ~ } T _ { E } , T _ { H } , T _ { M } , T _ { B }$ 分别代表模指数运算、哈希运算、模乘运算、双线性映射运算）。与文献[2]相比，实现可抵抗授权攻击的性质的同时不增加额外的开销。此外，本文分析等功能的签密方案计算效率，性能比较结果如表1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b0395d1ddd58492a3d3f65641f2e91dfe6cd69d384a26343c9730e44e8639ffb.jpg",
+        "table_caption": [
+            "Table 1The performance of the relevant scheme "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>相关方案</td><td>签密</td><td>解签密</td><td>总计算开销</td></tr><tr><td>文献[6]</td><td>3TE+3TB+Tm+2TH</td><td>4TE+4TB+3TH</td><td>7TE+7TB+Tm+5TH</td></tr><tr><td>文献[7]</td><td>4TE + 4TB +Tm + 3TH</td><td>4TE +4Tg +4TH</td><td>8TE +8TB +Tm +7TH</td></tr><tr><td>文献[2]</td><td>1TE + ITH + 1TM</td><td>3TE + ITH + 1TM</td><td>4TE + 2TH + 2Tm</td></tr><tr><td>本文方案</td><td>2TE +1TH + 1TM</td><td>2TE +1TH + 1TM</td><td>4TE +2TH + 2TM</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了展示本方案的实际计算开销和相对应的时间开销曲线图，本文对方案在集成开发环境Visual2012中用 $^ { C + + }$ 进行了代码实现，在代码实现过程中用到密码学库Crypto $^ { + + }$ 。实现环境主要参数如表2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f2aca4ab3f3e3507e2fdfbc2b8bb444fd8785b3c8f922766a2985b1fdd54152a.jpg",
+        "table_caption": [
+            "表1相关方案的性能比较结果表",
+            "表2实验环境主要参数",
+            "Table 2Main parameters of the experimental environment "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>参数</td></tr><tr><td>操作系统版本</td><td>Windows 7 旗舰版 Service Pack1</td></tr><tr><td>系统类型</td><td>64位操作系统</td></tr><tr><td>处理器</td><td>IntelR) CoreTM i5-4590S CPU @ 3.00 GHz</td></tr><tr><td>安装内存</td><td>4.00 GB</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当签密者和指定验证者的私钥确定（本实验中$\\vert x _ { a } \\vert = \\vert x _ { b } \\vert = 5 1 2$ ），当消息长度不同时，签密与解签密过程运行时间曲线图如图3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0bdb31e4f099510e1056fb642125466cba3d15f0b987ca96ad9b4e1c0f7c7a7f.jpg",
+        "img_caption": [
+            "",
+            "图3签密与解签密过程运行时间曲线图Fig.3The running time of signcryption and unsigncryption通过理论和实现分析，并得出结论：本方案高效且具有一定的实际应用价值。"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文对Sujata方案进行授权攻击，并提出了一个基于离散对数问题的强指定验证者的签密方案。本方案不需要安全的信道就可实现签密者和指定验证者之间的秘密传输[15]。本方案被证明在适应性选择明文攻击下是安全的。此外，本方案满足不可授权这一安全要求，并且可以防正签密传输过程中密文被窜改的情况[16，因此本文的方案有很多实际的应用，比如在区块链资产证明[17:18]、电子投票等领域。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Zheng Yuliang．Digital signcryption orhowto achieve Cos1 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(signature&encryption） <<cost (signature) $+ \\mathrm { c o s t }$ (encryption） [C]/. Advancesin Cryptology. Berlin: Springer,1997:165-179.   \n[2]Jakobsson M,Sako K, Impagliazzo R. Designated verifier proofs and their applications [C]// Advances in Cryptology.Berlin: Springer,1996: 143-154.   \n[3]Saeedina S,Kremer S,Markowitch O.An efficient strong designated verifier signature scheme [C]//Proc of International Conference on Information Security and Cryptology. Berlin: Springer, 2004: 40-54.   \n[4]Lipmaa H,Wang Guilin,Bao Feng.Designated verifier signature schemes: attacks,newsecurity notions and a new construction [C]//Proc of the 32nd International Collquium-ICALP2005.BerlinHeidelberg: Springer,2005: 459-471.   \n[5]Sujata Mohanty,Banshidhar Majhi.A Strong Designated Verifiable DL Based Signcryption Scheme [J]. Journal of Information Processing Systems,2012,8(4):567-574.   \n[6]Tan $\\mathrm { ~ C ~ H ~ }$ ，Analysis of improved signcryption scheme withkey privacy [J].Information Processing Letters,2006,99(4):135-138.   \n[7]Huang Qiong，Willy S,Wong D S.Non-delegatable Identity-based Designated Verifier Signature [R]. Cryptology ePrintArchive:Report 2009.   \n[8] Yang Xiaoyuan，Yu Qingfei. ECC-based new designatedverifier Signature scheme[J].Journal of PLA Universityof science and Technology,2007,35(8): 1432-1436.   \n[9]Lee J, Chang J. Comment on Saeednia et al.'s strong designated verifier signature scheme [J].Computer Standards&Interfaces,2009, 8(31): 258-260.   \n[10] Schnorr C P.Efficient signature generation for smart cards [J]. Journal of Cryptology,1991,4(3): 239-252.   \n[11] Wang Guilin,Bao Feng,Ma Changshe,et al.Efficient authenticated encrptionschemes with public verifiability[C]//Proc of the 60th IEEE Vehicular Technology Conference on Wireless Technologies for Global Security. Washington DC: IEEE Computer Society,2004: 3258-3261.   \n[12] Petersen H, Michels M. Cryptanalysis and improvement of signcryption schemes [J]. IEEE Computers and Digital Communications,1998,8(2): 149-151.   \n[13] Yang Guomin, Wong D S, Deng Xiaotie.Analysis and improvementof Petersen-Michels signcryption scheme with key privacy [C]/Proc of Information Security Conference.Singapore: Springer, 20o5: 218-232.   \n[14] Huang Qiong,Yang Guomin,Wong D S,et al. Identity-based strong designated verifier signature revisited [J].Journal of Systems and Software,2011,84(1): 120-129.   \n[15] Yang Bo，Sun Ying，Yu Yong，et al.A Strong designated verifier signature scheme with secure disavowability [C]//Proc of International Conferenceon Intellgent Networking&Collaborative Systems. Bucharest.Romania: IEEE SMC,2012: 286-291.   \n[16] Yang Bo,Yu Yong,Sun Ying.A novel construction of SDVS with securedisavowability [J]. Cluster Computing,2013,16(4): 807-815.   \n[17] Koochak S M, Ahmadian-Attari M, Aref M R. Provably secure strong designated verifier signature scheme based on coding theory [J]. International Journal of Communication Systems,2016,30 （7): 1099-1131.   \n[18] Wang Huaqun, He Debiao,Ji Yimu. Designated-verifier proof of assets forbitcoin exchange using eliptic curve cryptography [J].Future Generation Computer Systems,2017,84(1): 135-137. ",
+        "page_idx": 3
+    }
+]

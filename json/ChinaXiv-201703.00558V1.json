@@ -1,0 +1,215 @@
+[
+    {
+        "type": "text",
+        "text": "Study of defect types and room-temperature ferromagnetism in undoped rutile $\\mathbf { T i O } _ { 2 }$ single crystals ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Dong-Xiang(李东翔)a,b), QIN Xiu-Bo(秦秀波),ZHENGLi-Rong(郑黎荣)@,LI Yu-Xiao(李玉晓)b,CAO ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xing-Zhong(曹兴忠),LI Zhuo-Xin(李卓昕)a,YANG Jing(杨静),WANG Bao-Yi(王宝义)a)t ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a) Key Laboratory of Nuclear Analysis Techniques,Institute of High Energy Physics, Chinese Academy of Sciences, Beijing 100049, China   \nb) School of Physical Engineering, Zhengzhou University, Zhengzhou, 45ooO1, China c) Research Center for Application of Nuclear Technology, Institute of High Energy Physics, Chinese Academy of Sciences,Beijing, 10o049, China   \nd) Beijing Synchrotron Radiation Facility, Institute of High Energy Physics, Chinese Academy of Sciences, Beijing 1O0049, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(Received X XX XXXX; revised manuscript received X XX XXXX) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Room-temperature ferromagnetism has been experimentally observed in annealed rutile $\\mathrm { T i O } _ { 2 }$ single crystals when magnetic field is applied parallel to the sample plane. By combining X-ray absorption near edge structure spectrum and positron annihilation lifetime spectroscopy, $\\mathrm { T i } ^ { 3 + } { - } \\mathrm { V _ { 0 } }$ defect complexes (or clusters） have been identified in annealed crystals at high vacuum. We elucidate that the unpaired 3d electrons in $\\mathrm { T i } ^ { 3 + }$ ions provide the observed room-temperature ferromagnetism. Besides, excess oxygen ions in $\\mathrm { T i O } _ { 2 }$ lattice could induce a number of Ti vacancies which increase magnetic moments obviously. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: annealing, oxygen vacancies, $\\mathrm { T i } ^ { 3 + } { - } \\mathrm { V _ { 0 } }$ defect complexes, ferromagnetism PACS: 75.50.Pp, 71.55.-1, 75.20.Hr ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dilute magnetic semiconductors (DMSs） with magnetic and semiconducting properties are regarded as a new generation material due to their potential applications inspintronicdevices.2.34.5]Sincethefirstdiscoveryofroom-temperature ferromagnetism (RTFM) in Co-doped anatase $\\mathrm { T i O } _ { 2 }$ thin films,[] several studies have been performed on the magnetism of $\\mathrm { T i O } _ { 2 }$ doped with transitional metal (TM),such as Mn, V,Cr,Nb,FeandNi. Diferent research groups[78.9,10] learned about magnetic properties of TM-doped $\\mathrm { T i O } _ { 2 }$ samples using first principles method. But the origin of ferromagnetism in magnetic-transition-element-doped oxide semiconductors is still under debate as to whether ferromagnetism is intrinsic[1,12] or whether it comes from the precipitation of magnetic clusters.[13] Recently， Coey's group[14] reported about magnetism observed in HfO2 thin films on sapphire or silicon substrates. Hong et al.[15] and Yoon et al.[16] reported room-temperature ferromagnetism in pure $\\mathrm { T i O } _ { 2 }$ films. These are surprising results and have generated a lot of interest in this new phenomenon, also known as ${ \\bf d } ^ { 0 }$ magnetism.17] Its appearance can exclude the influence of magnetic elements (imported by doping transitional metal) from origin of ferromagnetism. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "First principle calculation indicated that the ferromagnetism of undoped rutile $\\mathrm { T i O } _ { 2 }$ largely originates from the d orbitals of low-charge-state Ti ions converted from $\\mathrm { T i } ^ { 4 + }$ ions induced by the surface oxygen vacancies.8] But there is litle experimental work about origin of room-temperature ferromagnetism in undoped $\\mathrm { T i O } _ { 2 }$ single crystals. In this study,the influence of annealing temperature in high vacuum on structure and magnetism has been observed. We try to answer two questions: (i) what is defect types of undoped $\\mathrm { T i O } _ { 2 }$ single crystals annealed in high vacuum. (ii) What is the origin of room-temperature ferromagnetism after high-temperature anneal. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Experiments ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Commercial rutile $\\mathrm { T i O } _ { 2 }$ single crystals were obtained from institute of Shanghai optics and fine mechanics, Chinese academy of sciences. The size of the samples was $5 { \\times } 5 { \\times } 0 . 5 ~ \\mathrm { m m } ^ { 3 }$ , corresponding to a mass of $5 3 . 2 5 ~ \\mathrm { m g }$ . Some samples were annealed in vacuum annealing furnace (vacuum: $1 0 ^ { - 4 } – 1 0 ^ { - 5 } \\mathrm { P a } )$ from $1 0 2 3 \\mathrm { K }$ to $1 2 7 3 \\mathrm { K }$ for $^ { \\textrm { 1 h } }$ .The structure and magnetism of $\\mathrm { T i O } _ { 2 }$ single crystals were characterized by X-ray diffraction (XRD)， X-ray absorption near edge structure (XANES） spectrum and superconducting quantum interference device (Quantum Design MPMS-XL5) at room temperature. The XANES analyses were performed on the beam lines 1W1B of the Beijing Synchrotron Radiation Facility (BSRF). Positron annihilation lifetime spectroscopy (PALS) was used to probe the vacancy-type defects of $\\mathrm { T i O } _ { 2 }$ single crystals with $^ { 2 2 } \\mathrm { { N a } }$ as positron source. Two of the same samples were tightly clamped on both sides of $^ { 2 2 } \\mathrm { { N a } }$ radioactive sources, forming a sandwich structure. The prompt time resolution of the system was 190 ps. Each spectrum contains total counts of $2 { \\times } 1 0 ^ { 6 }$ . The lifetime spectra were de-convoluted using the code LT 9.0 software. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The annealed samples in high vacuum changed from transparent to dark-blue, which most possibly relates to $\\mathrm { F ^ { + } }$ centers (the electrons in singly occupied oxygen vacancies)[19] XRD patterns of virgin and annealed $\\mathrm { T i O } _ { 2 }$ single crystals can be indexed to pure rutile phase. And no impurity phases are detected within the detection limit of instrument. A representative XRD spectrum with annealed $\\mathrm { T i O } _ { 2 }$ single crystal in high vacuum at $1 2 7 3 \\mathrm { K }$ is shown in Fig. 1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5bdd1bda471ca53ce231e63d1ec081253156974eb9f200fa976a277b02a82f37.jpg",
+        "img_caption": [
+            "Fig.1.XRD spectrum of the $\\mathrm { T i O } _ { 2 }$ single crystal annealed in high vacuum at $1 2 7 3 \\mathrm { K }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The pre-edge peaks of the XANES spectra of annealed samples in high vacuum contain three major features denoted as A1, A2,and A3,as are shown in Fig. 2(a). The three protrusions near $4 9 7 0 { \\mathrm { ~ e V } }$ are related to the 3d electrons of Ti.[20] The origin of the A2 and A3 features are atributed to $1 \\mathrm { s } {  } 3 \\mathrm { d }$ transitions and assigned to $1 \\mathrm { s }  {  } 2 \\mathrm { t } _ { 2 \\mathrm { g } }$ and ${ 1 \\mathrm { s } { \\to } 3 \\mathrm { e } _ { \\mathrm { g } } }$ transitions in an octahedral field, respectively.21] The origin of the A1 peak is less clear, but it is also believed to be associated with Ti 3d-4p hybridized states.21l The Ti pre-edge XANESsignalsallowustoobtaincomplementary information on the character of the Ti-O bonding by studying the variation of the ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b9259d5911bfa91d871df63a2c1f301a77b644f8804fbc847e2879c81daef79e.jpg",
+        "img_caption": [
+            "Fig.2.(Color online) Normalized XANES spectra at the Ti K-edge for annealed $\\mathrm { T i O } _ { 2 }$ single crystals in high vacuum: (a) pre-edge peak spectra.All spectraare plotedonthesame verticalscaleanddisplacedverticallyforclarity. (b)Normalized derivative spectra. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Normalized derivative spectra of annealed samples in high vacuum are shown in Figure 2(b). Dashed line gives the highest peak corresponding to the energy value. We obtained a value of $4 9 7 8 . 6 9 2 \\ \\mathrm { e V } \\ ( \\mathrm { E }$ $( \\mathrm { E } _ { 0 } )$ for the annealed $\\mathrm { T i O } _ { 2 }$ single crystals in high vacuum. This value is between $\\mathrm { T i } ^ { 4 + }$ absorption edge at $4 9 7 9 . 8 \\mathrm { e V }$ and $\\mathrm { T i } ^ { 3 . 4 + }$ absorption edge at $4 9 7 7 . 2 \\ \\mathrm { e V } .$ [22] The presence of a $\\mathrm { T i } ^ { 3 + }$ species is very likely after high temperature anneal. It is possibly associated with oxygen vacancies according to the following: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { 4 T i ^ { 4 + } + 0 ^ { 2 - }  4 T i ^ { 4 + } + 2 e ^ { - } + V + 0 . 5 0 _ { 2 }  2 T i ^ { 4 + } + 2 T i ^ { 3 + } + V + 0 . 5 0 _ { 2 } , }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Where $\\mathrm { \\Delta V }$ represents an empty position (anion-vacant site） originating from the removal of $0 ^ { 2 \\cdot }$ from the lattice, here represented as an oxygen ion vacancy. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/7c54864ade18fda58ce198d955923591e3d8009eda247a18f14541b43419c19f.jpg",
+        "table_caption": [
+            "Table 1. LT9.O fitting results of positron lifetime spectra about annealed samples "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Sample</td><td>T1 (ns)</td><td>T2(ns)</td><td>T3 (ns)</td><td>1(%)</td><td>1(%)</td><td>1 (%)</td></tr><tr><td>1023K ann.</td><td>0.1560</td><td>0.377</td><td>1.854</td><td>86.65</td><td>9.88</td><td>3.47</td></tr><tr><td>1073K ann.</td><td>0.1572</td><td>0.390</td><td>1.920</td><td>88.98</td><td>7.88</td><td>3.14</td></tr><tr><td>1173K ann.</td><td>0.1568</td><td>0.400</td><td>1.915</td><td>89.46</td><td>7.57</td><td>2.96</td></tr><tr><td>1273K ann.</td><td>0.1507</td><td>0.309</td><td>1.807</td><td>86.70</td><td>10.4</td><td>2.92</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fitting results of positron lifetime spectra for annealed samples in high vacuum are shown in Table 1. The positron annihilation lifetime spectroscopy of $\\mathrm { T i O } _ { 2 }$ single crystals yielded three distinct lifetime components: $\\tau _ { 1 } , \\ \\tau _ { 2 }$ ，and $\\tau _ { 3 }$ ，with relative intensities $\\mathrm { I } _ { 1 } , \\mathrm { I } _ { 2 }$ ，and $\\mathrm { I } _ { 3 }$ . The value of $\\tau _ { 2 }$ is as a major concern on reflecting size and types of defects (vacancies and/or complexes). And its relative intensity $\\left( \\mathrm { I } _ { 2 } \\right)$ gives more information on the distribution of these defects.It is well known that defects of efficient positron trap primarily include titanium vacancies, negatively charged and neutral vacancy-type defects in annealed TiO2 single crystals. In addition, He et al.[23] and Nowotny et al.24] had clarified that the annealed samples in vacuum existed a good deal of oxygen vacancies and few titanium vacancies. Titanium vacancies were not sensitive to positrons because of low densities. Then combining with test results of XANES and XRD could indicate that changes of $\\tau _ { 2 }$ and $\\mathrm { I } _ { 2 }$ are related to $\\mathrm { T i } ^ { 3 + } { - } \\mathrm { V _ { 0 } }$ defect complexes. With increase of the annealing temperature from $1 0 2 3 \\mathrm { ~ K ~ }$ to $1 1 7 3 \\mathrm { K }$ $\\tau _ { 2 }$ increases and $\\mathrm { I } _ { 2 }$ accordingly decreases owing to the generation of more $\\mathrm { { T i } ^ { 3 + } { - } \\mathrm { { V } _ { 0 } } }$ defect complexes and forming of defect clusters, respectively. However, $\\tau _ { 2 }$ decreases and $\\mathrm { I } _ { 2 }$ accordingly increases when annealing temperature rises to $1 2 7 3 \\mathrm { ~ K ~ }$ , indicating that the aggregated defect clusters decompose into smaller defects. It is also shown that aggregated defect clusters in small depth move to the surface. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7fcc9cd7e92440c6a6a86ed17e106e63c9a318c63e1f0712517b5e1a5297763f.jpg",
+        "img_caption": [
+            "Fig.3.(Color online)(a) Original $M - H$ curves of virgin and annealed $\\mathrm { T i O } _ { 2 }$ single crystals at $3 0 0 ~ \\mathrm { K }$ ,the latter are annealed from $1 0 2 3 \\mathrm { ~ K ~ }$ to $1 2 7 3 \\mathrm { ~ K ~ }$ in high vacuum.Inset: the low-field part of the loop for $1 2 7 3 \\mathrm { ~ K ~ }$ ann. (HV). (b) $M - H$ loop after deducting the substrate signal. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig. 3(a) shows the measured magnetic moments of $\\mathrm { T i O } _ { 2 }$ single crystals at $3 0 0 \\mathrm { ~ K ~ }$ before and after annealing from 1O23 K to $1 2 7 3 \\mathrm { ~ K ~ }$ in high vacuum. All substrates display diamagnetic behavior[25l that is different from that of Zhou et al. (paramagnetic).26] The inset shows the low-field part in an enlarged scale of $1 2 7 3 \\mathrm { ~ K ~ }$ （20 annealed sample. The diamagnetism and ferromagnetism are proportional to magnetic field. Fig. 3(b） shows the annealing-fluence-dependent magnetization of $\\mathrm { T i O } _ { 2 }$ single crystals after subtracting diamagnetic background. The saturated magnetization first decreases gradually with increasing annealing temperature, but for the fluence at 1273 K it increases dramatically. We still measured the hysteresis loops at $3 0 0 \\mathrm { ~ K ~ }$ demonstrating their room-temperature ferromagnetism.When O is removed, the excess electrons are unpaired.[27] They can occupy the nearby localized Ti 3d orbit and therefore convert $\\mathrm { T i } ^ { 4 + }$ ions to $\\mathrm { T i } ^ { 3 + }$ ions. The unpaired 3d electrons in $\\mathrm { T i } ^ { 3 + }$ ions provide vast spin magnetic moments which are decisively related with the observed ferromagnetism. The change of saturated magnetization possibly dependson aggregation and decomposition of $\\mathrm { T i } ^ { 3 + } { - } \\mathrm { V _ { 0 } }$ defect complexes (or cluster) by results of XRD,XANES and PALS. With increasing annealing temperature, $\\mathrm { T i } ^ { 3 + } { - } \\mathrm { V _ { 0 } }$ defect complexes gradually form clusters. Then these clusters decompose into smaller defects at 1273K. Change of defect size is very consistent with shifty trend of saturation magnetization. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a41211371718385698155c159af3086fac8de93b297d5271706e051a5082105a.jpg",
+        "img_caption": [
+            "Fig.4.(Color online) Magnetization versus magnetic field taken at $3 0 0 ~ \\mathrm { K }$ for $\\mathrm { T i O } _ { 2 }$ single crystals,annealed in $\\mathrm { O } _ { 2 }$ at $1 1 7 3 \\mathrm { ~ K ~ }$ for 2h,5hand8h.Theanomalous protrusions in thecurveare described byarows.(Notethatthesignalsofsubstrates were subtracted already.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In order to check if the magnetism in annealed samples at high vacuum is due to defects and/or oxygen vacancies,oxygen-annealing tests were done. Data of the oxygen annealed $\\mathrm { T i O } _ { 2 }$ single crystals at $1 1 7 3 \\mathrm { ~ K ~ }$ are shown in Fig. 4 along with the data of $1 2 7 3 \\mathrm { K }$ annealed sample (HV) in order to be able to compare directly. One can clearly see that annealing in oxygen atmosphere for $^ { 2 \\mathrm { ~ h ~ } }$ can reduce the magnetic moments of $1 2 7 3 \\mathrm { ~ K ~ }$ annealed sample (HV) enormously. However, when we increase the duration of annealing up to $5 { - } 8 \\mathrm { ~ h ~ }$ ， saturation magnetization slowly increases. Finally it is basically the same to $1 2 7 3 \\mathrm { ~ K ~ }$ annealed sample (HV). Besides，we observed obvious hysteresis loops and change of color from dark-blue to transparent. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "When the sample was second annealing under oxygen condition, oxygen exists as ions in $\\mathrm { T i O } _ { 2 }$ lattice. Therefore,Ti ions must provide corresponding electrons in order to maintain electrostatic balance，which makes Ti ions valence change. Ti ions valence may change from $\\mathrm { T i } ^ { 3 + }$ to $\\mathrm { T i } ^ { 4 + }$ when annealing time is $2 \\mathrm { ~ h ~ }$ Saturation magnetization decreases with unpaired 3d electrons reducing. After annealing time increases to $5 \\mathrm { h }$ and $8 \\mathrm { ~ h ~ }$ ,excess oxygen ions in $\\mathrm { T i O } _ { 2 }$ lattice could induce a number of Ti vacancies that make saturation magnetization become large gradually. This evidence has clearly proved that the magnetism of annealed $\\mathrm { T i O } _ { 2 }$ single crystals in high vacuum really originates from oxygen vacancies: filling up vacancies could make unpaired 3d electrons in $\\mathrm { T i O } _ { 2 }$ lattice become lesser, and could make saturation magnetization become weaker. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In summary, we have studied local atomic and electronic structures,defect types and magnetism in annealed rutile $\\mathrm { T i O } _ { 2 }$ single crystals by using XRD, XANES, PALS and SQUID. The following conclusion can be determined. (i） A lot of oxygen vacancies and especially $\\mathrm { T i } ^ { 3 + } { - } \\mathrm { V _ { 0 } }$ defect complexes (or clusters） are formed in high vacuum annealing samples. (ii) Second annealing in oxygen atmosphere can further demonstrate that room-temperature ferromagnetism of annealed samples in high vacuum is closely associated with oxygen vacancies. The unpaired 3d electrons in $\\mathrm { T i } ^ { 3 + }$ ions provide vast spin magnetic moments which are decisively related to the observed ferromagnetism. Besides,excess oxygen ions in $\\mathrm { T i O } _ { 2 }$ lattice also could induce a number of Ti vacancies which increase magnetic moments obviously. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] Dietl T, Ohno H, Matsukura F, Cibert J and Ferrand D 2OOO Science 2871019   \n[2] Pearton S J,Heo W H, Ivill M, Norton D P and Steiner T 2O04 Semicond. Sci. Technol.19 R59   \n[3] Li TJ,LIG P, Gao X X and Chen J S 2010 CHIN.PHYS.LETT. 27 087501   \n[4] Ouyang Q Z, Ye Z Q, Lei M S, Ouyang C Y, Xiong Z H and Liu G D 20O6 Chinese Physics B 15 1585   \n[5] Zhao Y H, Cheng L Z, He K Y, Zhao HH, Rong C B and Xu M 2OO2 Chinese Physics B 11 77 [6] Matsumoto Y, Murakami M, Shono T, Hasegawa T, Fukumura T, Kawasaki M, Ahmet P, Chikyow T, Koshihara S Y and Koinuma H 2OO1 Science 29 854   \n[7] Xu XG, Jiang Y, Yu G H,Liu Q L and Geng W T 2008 Physics Letters A 372 2098   \n[8] Janisch R and Spaldin NA 2006 Phys.Rev.B 73 035201   \n[9] Mallia G and Harrison N M 2007 Phys. Rev.B 75 165201   \n[10] Du X S,Li Q X, Su HB,and Yang JL 2006 Phys.Rev. B 74, 233201   \n[11] Griffin K A, Varela M,Pennycook S J, Pakhomov A B and Krishnan K M 2OO6 J. Appl. Phys. 99 08M114   \n[12] Bryan JD, Santangelo S A, Keveren S C and Gamelin D R 2O05 J. Am. Chem. Soc.127 15568   \n[13] Kim D H, Yang J S, Lee K W, Bu SD, Noh T W, Oh S J, Kim Y W, Chung J S, Tanaka H, Lee H Y and Kawai T 2002 Appl. Phys. Lett. 23 2421   \n[14] Venkatesan M, Fitzgerald C B and Coey J MD 2OO4 Nature 430 630   \n[15] Hong N H, Sakai J, Poirot N and Brize V 2006 Phys. Rev.B 73 132404   \n[16] Yoon S D, Chen Y, Yang A, Goodrich T L, Zuo X, Arena D A, Ziemer K, Vitoria C and Harris V G 2006 J.Phys.: Condens.Matter 18 L355   \n[17] Pammaraju C D and Sanvito S 2005 Phys. Rev. Lett. 94 217205   \n[18] Lu JB, Yang K S, Jin H, Dai Y and Huang BB 2O11 J Solid State Chem. 184 1148   \n[19] Singhal R K, Kumar S, Kumari P, Xing Y T and Saitovitch E 2O1l Appl. Phys. Lett. 98 092510   \n[20] Berry A J, Walker A M, Hermann J, O'Neill H St C,Foran G Jand Gale JD 2O07 Chem. Geol 242 176   \n[21] Chen L X,Rajh T,Wang Z Y and Thurnauer MC 1997 J.Phys.Chem.B 10110688   \n[22] Wagemaker M,Lutzenkirchen-Hecht D, Keil P, van Well A.A and Frahmb R 2O03 Physica B 336 118   \n[23] He J, Behera R K,Finnis M W,Li X, Dickey E C, Phillpot S R and Sinnott S B 2007 Acta Materialia 55 4325.   \n[24] Nowotny M K, Bak T, Nowotny Jand Sorrell C C 20O5 phys. stat. sol. 242 R88   \n[25] Liu C M, Xiang X, Zhang Y, Jiang Y and Zu X T 2011 CHIN. PHYS. LETT. 28 127201 [26] Zhou S Q, Cizmar E, Potzger K, Krause M, Talut G, Helm M, Fassbender J, Zvyagin S A, Wosnitza Jand Schmidt H 2009 PHYSICAL REVIEW B 79 113201   \n[27] Von Oertzen G U and Gerson AR 20O7 J.Phys. Chem. Solids 68 324 ",
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,286 @@
+[
+    {
+        "type": "text",
+        "text": "β-胡萝卜素的生物学作用及其机理",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李超1,2 贾炳玉1,2 高民2\\*宋利文² 胡红莲²（1.内蒙古农业大学动物科学学院，呼和浩特010018；2.内蒙古自治区农牧业科学院动物营养与饲料研究所，呼和浩特010031)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要: $\\beta -$ 胡萝卜素是哺乳动物体组织中含量最丰富的类胡萝卜素，是维生素A的重要前体物。β-胡萝卜素及其代谢产物是组织代谢中的关键调节信号因子，因而在哺乳动物（包括人）机体中发挥了许多有益作用。本文概述了β-胡萝卜素对动物生产性能、免疫功能和繁殖性能等方面的作用及其机理。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词： $\\beta -$ 胡萝卜素；生产性能；免疫功能；繁殖性能",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S811.5",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "β-胡萝卜素是人类饮食和组织中含量最丰富的维生素A原类胡萝卜素。β-胡萝卜素及其代谢产物是组织代谢中的关键调节信号因子，在包括人类在内的哺乳动物中发挥了许多有益功能。尽管 $\\beta -$ 胡萝卜素被认为是维生素A的一种安全形式，但由于其高度受控的肠吸收机制，至少在特定情况下其有害作用是由于摄入量不当引起的。本文概述了β-胡萝卜素的代谢情况，明确区分了其可能对动物健康产生的有益或有害影响，从而为不同动物的β-胡萝卜素可摄入的适宜剂量提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1β-胡萝卜素的结构和特性",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "自然界中类胡萝卜素（carotenoids）种类繁多，根据其化学结构的不同可分为胡萝卜素和叶黄素[]。胡萝卜素（如 $\\beta -$ 胡萝卜素、 $a -$ 胡萝卜素和 $\\beta -$ 隐黄质）是分子的一端或两端为线性或具有环状烃的非氧化类胡萝卜素，叶黄素（如玉米黄质、内消旋玉米黄质、虾青素和角黄素）是胡萝卜素的氧化衍生物[2]。在胡萝卜中发现了 $\\beta -$ 胡萝卜素，同时发现了其3种异构体 $( a , \\beta , \\gamma )$ ，其中 $\\beta -$ 胡萝卜素活性最强，且在自然界中普遍存在[3]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "β-胡萝卜素和维生素A之间的联系是由Von Euler等[4]确立，并进一步证明结晶胡萝卜素具有维生素A活性；Moorel5进一步研究表明β-胡萝卜素可在大鼠体内转化为维生素A。根据类胡萝卜素本身是否具有维生素A 前体作用，将其分为维生素A原和非维生素A原。维生素A原及其在酶切和非酶裂解后的代谢物(类维生素 A)能产生维生素A，β-胡萝卜素是自然界中含量最丰富的维生素A前体[。β-胡萝卜素是含有 40个碳原子、分子结构两端有15个共轭双键和2个β-紫罗兰酮环的短直链分子，这种结构特性使β-胡萝卜素本质上具有高疏水性和非极性。在动物体内，与非极性类胡萝卜素相比，极性类胡萝卜素似乎更容易被吸收[7]。总的来说，类胡萝卜素都具有高度疏水性特性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2β-胡萝卜素在动物体内的吸收、转运、代谢和沉积",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1β-胡萝卜素在动物肠道内的吸收 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "β-胡萝卜素在消化道内的动力学参数大多来源于非反刍动物的研究结果。由于动物体内的β-胡萝卜素是与脂质一起运输的，因此其在小肠中的转运和吸收受饲粮中油脂种类和含量的影响非常大。β-胡萝卜素的非极性特性决定了其在转运过程中位于消化道微粒核中，从乳状液中转移到乳糜微粒中的效率为12%\\~18%[8]。当 $\\beta -$ 胡萝卜素摄入量较高或者油脂摄入量较低时， $\\beta -$ 胡萝卜素在小肠中由乳状液转运到乳糜微粒的过程是限速的。小肠主要负责吸收脂质、脂溶性维生素及 $\\beta -$ 胡萝卜素，以及随后将其递送至外周组织。研究表明，即使人肠道大量表达的β-胡萝卜素-15,15'-加氧酶（CMOI、BCMO1、BCO1)，在肠道中也不会将摄入的β-胡萝卜素完全肠转化为维生素A，实际摄入的 $\\beta -$ 胡萝 $\\harpoonright$ 素中 $1 7 \\% { \\sim } 4 5 \\%$ 以完整的未切割形式释放到外周循环中[9]。研究显示，CMOI基因中多种多态性相关的CMOI可变酶可能是导致某些个体分解β-胡萝卜素效率较低的原因[10]。研究也表明，小鼠和其他啮齿类动物的肠道能更高效地摄取 $\\beta -$ 胡萝卜素，只有在超生理量摄入时，才可以在其循环中检测到该维生素A原类胡萝卜素[]。其他动物模型如蒙古沙鼠、家蚕和反刍动物小牛等也可吸收完整形式的β-胡萝卜素，并且维生素A前体物在血清和组织中的分布与人体类似。目前，对反刍动物吸收和转运β-胡萝卜素的机制还不是很清楚，但是反刍动物可作为研究类胡萝卜素转运的良好模型。由于反刍动物瘤胃微生物对脂肪在进入十二指肠前有修改和重新合成作用，因此比非反刍动物要复杂的多，叶黄素在瘤胃尚未发育的小牛血清中的出现要比β-胡萝卜素早[12]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2β-胡萝卜素在动物血清中的转运",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前已确定，由于β-胡萝卜素（包括其他类胡萝卜素）的高亲脂性和非极性，其转运与循环中的各种脂蛋白密切相关，其可能进入各种脂蛋白颗粒如乳糜微粒及其残留物[极低密度脂蛋白（VLDL）、中间密度脂蛋白（IDL）和低密度脂蛋白（LDL）]的疏水核心以及其他脂质如胆固醇酯和视黄酯中[13]，这些脂蛋白促进β-胡萝卜素从肠屏障转移到身体的各种组织以及其跨组织转运。不同动物转运β-胡萝卜素的脂蛋白种类不同，研究表明高密度脂蛋白（HDL）是牛血液循环中 $\\beta -$ 胡萝卜素的主要载体物质[14]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "总体而言，尽管不同脂蛋白转运不同维生素A原类胡萝卜素的顺序在物种上有显著差异，但β-胡萝卜素可以与循环中的各种脂蛋白结合运输。研究发现， $\\beta -$ 胡萝卜素可以不同程度地进入所有类型的脂蛋白中，其中 HDL 约占 $82 \\%$ ，LDL占 $12 \\%$ ，VLDL占 $0 . 3 \\% ^ { [ 1 5 ] }$ 。大鼠体内研究发现，血清中的 $\\beta -$ 胡萝卜素大多结合到体积较大的VLDL 和LDL[16]。裴凌鹏[17]研究发现，动物体内大部分类胡萝卜素如 $\\beta -$ 隐黄质主要分布于LDL 和 HDL；而大约 $53 \\%$ 的黄体素和玉米黄质与HDL 结合， $31 \\%$ 存在于LDL，约 $1 6 \\%$ 与 VLDL 结合， $\\beta -$ 胡萝卜素的去向和最终代谢在很大程度上取决于 $\\beta -$ 胡萝卜素和脂蛋白的亲和力。Gugger等[18]体外研究β-胡萝卜素在细胞内细胞器间的转运机制，发现 $\\beta -$ 胡萝卜素在细胞内的转运不受细胞质中转运蛋白的调控，而可能受囊泡转运或膜结合蛋白等的调控。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3β-胡萝卜素在动物体内的代谢",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "维生素A前体物分解后形成的视黄醛可以通过视黄醛脱氢酶的氧化作用生成全反式视黄酸，而全反式视黄酸为维生素A的生物活性形式。视黄酸不仅是转录调节因子，还可作为特定核受体、视黄酸受体（RAR）或类视黄醇X受体（RXR）的配体发挥作用，形成同源或异源二聚体以调节数百个靶基因的转录[19]。当组织中视黄酸的产量超过一定限度时，属于细胞色素 P450 家族的转录失活酶可对其进行氧化降解以产生更多极性化合物，如4-羟基或4-氧维甲酸[20]（图1)。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/abba80c22be81198b628b556099277a275cb78708e24fa18bcf17095fc3dee41.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CMOI : $\\beta -$ -胡萝卜素-15,15'-加氧酶 $\\beta$ -carotene- $^ { 1 5 , 1 5 ^ { \\prime } }$ -oxygenase； CMO II : $\\beta -$ 胡萝卜素-9',10'-加氧 酶 $\\beta$ -carotene-9',10'-oxygenase；ADH：醇脱氢酶 alcohol dehydrogenase；RDH：视黄醇脱氢酶 retinol ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "dehydrogenases；REH:视黄醇酯化酶retinol esterification；LRAT：视黄醇酰基转移酶 retinol acyltransferase;  \nALDH1：醛脱氢酶1 aldehyde dehydrogenase 1；RALDH：视黄醛脱氢酶 retinoic aldehyde dehydrogenase;  \nCyp26：细胞色素 P450 26 家族酶 cytochrome P450 26 family enzyme。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图1β-胡萝卜素的代谢",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图1所示，CMOI在β-胡萝卜素的15,15'双键上对称氧化裂解产生2个分子的视黄醛；视黄醛可以通过醛脱氢酶（ALDH1）或视黄醛脱氢酶（RALDH）氧化成视黄酸；通过细胞色素 P450 26 家族酶（Cyp26)进一步将视黄酸氧化为更具极性的化合物，包括被认为是转录失活的4-氧维甲酸。或者，来自中链脱氢酶/还原酶(MDR)家族的不同形式的醇脱氢酶(ADH）和来自短链脱氢酶/还原酶(SDR)家族的各种视黄醇脱氢酶（RDH）可将视黄醛还原为视黄醇，也可以通过视黄醇酰基转移酶(LRAT)将视黄醇进一步酯化成视黄酯。另外，阿朴胡萝卜素醛类可以由β-胡萝卜素产生；9',10'双键的切割由β-胡萝卜素-9',10'-加氧酶2（CMOII或 BCMO2 或 BCO2）催化并产生了 $\\beta$ -apo-10'-胡萝卜素醛和β-紫罗兰酮，在其他双键处的不对称切割可以非酶促发生或可以被酶催化。图1中列举了由β-胡萝卜素的不对称切割产生的一些潜在的阿朴胡萝卜素，虚线箭头表示阿朴胡萝卜素可最终转化为一个视黄醛分子，这种转换的机制尚未完全阐明。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在人和小鼠中，β-胡萝卜素裂解酶如CMOI和CMOII在各种成体组织中表达，包括肝和脂肪以及发育中的组织如胎盘、卵黄囊和胚胎等[21]。这些酶可以将β-胡萝卜素原位生物转化为维生素 A，这表明β-胡萝卜素可以作为体内各个部位的类维生素A的本地来源。CMOI是具有强底物特异性的胞质酶，仅与类胡萝卜素（具有至少1个未取代的β-紫罗兰酮环）相互作用，是在成体组织中切割β-胡萝卜素生成维生素 A的主要酶[22]。体外研究发现，通过CMOI裂解β-胡萝卜素形成的视黄醛和视黄酸可能通过调节过氧化物酶体增殖物激活受体（PPARγ）和视黄酸受体（RAR）信号通路影响脂肪细胞中的脂质代谢[23]。然而，CMOI是否以类似的方式影响各种组织中的脂质代谢，以及这种作用是否与其分解β-胡萝卜素的能力无关仍然不清楚。β-胡萝卜素也可以被CMOII不对称切割以产生β-紫罗兰酮环和阿朴胡萝卜素，最终转化为1个分子的视黄醛[2]，但转化的机制尚未完全阐明。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4 $\\beta$ -胡萝卜素在动物体内的沉积",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在动物体内， $\\beta -$ 胡萝卜素大多贮存于肝脏，少量沉积于脂肪组织、肾上腺和皮肤[16]。各种动物组织中$\\beta -$ 胡萝卜素的分布和贮存位置差异很大。Shapiro 等[24]给大鼠补饲β-胡萝卜素后，在肝脏中检测出β-胡萝卜素，脂肪组织中则没有检测出β-胡萝卜素，推断β-胡萝卜素并不是简单的储存于脂肪中，可能存在一种β-胡萝卜素结合蛋白，由于这种蛋白质的疏脂性降低了β-胡萝卜素在脂肪中的沉积。研究也发现，三黄鸡体内β-胡萝卜素主要沉积于小肠和肝脏[25]，但种母鸡腹脂中检测出的类胡萝卜素含量高于肝脏中含量，这可能是由于处于不同生长阶段的动物体内类胡萝卜素的分布不同。在生长发育期，类胡萝卜素主要分布于肝脏、脂肪组织、血液、皮肤及羽毛中，性成熟之后则逐渐转移到生殖器官中[26]。不同类胡萝卜素在不同种类动物体内的分布也显著不同， $\\beta \\cdot$ -胡萝卜素在绵羊和山羊肝脏中含量较高，而叶黄素则在脂肪组织和血清中含量较高；在牛血清和脂肪组织中β-胡萝卜素的含量占主导地位，而且其脂肪组织中叶黄素含量也较高，但β-胡萝卜素在肝脏中则含量较低[27]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3β-胡萝卜素的生物学功能",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 ${ \\mathfrak { \\beta } }$ -胡萝卜素对动物生产性能的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "研究发现，奶牛饲粮中添加 $\\beta -$ 胡萝卜素可以提高牛奶品质和产量。热应激奶牛每天补充 $4 0 0 \\mathrm { m g \\beta ^ { - } }$ 胡萝卜素牛奶产量增加了 $1 1 \\%$ ，补充 $3 0 0 { \\mathrm { ~ m g ~ } } \\beta -$ 胡萝卜素牛奶产量增加了 $6 . 4 \\%$ ，添加 $\\beta -$ 胡萝卜素对奶牛的产奶量和乳品质都有提高作用[28]。何文娟[29]在中国荷斯坦奶牛饲粮中添加 $\\beta -$ 胡萝卜素，结果发现在维生素A充足的情况下添加 $\\beta -$ 胡萝卜素对奶牛泌乳前期的产奶量、乳成分以及乳中体细胞数均无显著影响，但产后 3个月产奶量有不同程度提高。夏耘等[30]在澳洲荷斯坦奶牛饲粮中添加 $9 0 \\mathrm { m g / d \\beta - }$ 胡萝卜素，结果发现，添加后第 20 天产奶量比对照组显著提高了 $1 1 . 0 3 \\%$ ，第 40 天产奶量比对照组显著提高了 $1 3 . 8 3 \\%$ ，添加 $\\beta -$ 胡萝卜素组的乳脂含量显著提高。孙胜祥[31给每头奶牛饲粮中每天添加 $9 0 0 { \\mathrm { ~ m g ~ } } \\beta -$ -胡萝卜素，结果发现奶牛产奶量提高幅度最大，并能在一定时期内维持较高的泌乳水平，乳脂、乳蛋白、乳中干物质含量都有显著提高。武洪久等[32]发现，中国荷斯坦奶牛饲粮中添加不同浓度 $\\beta -$ 胡萝卜素后，产奶量、乳脂率、乳蛋白率显著高于对照组。Oliveira 等[33]给奶牛每天添加 $1 . 2 \\ : \\mathrm { g } \\ : \\beta -$ 胡萝卜素，结果发现乳蛋白含量从 $2 . 9 0 \\%$ 提高到 $2 . 9 6 \\%$ ，乳脂乳蛋白比大于1.5 的比率从 $2 2 . 6 \\%$ 降低到 $6 . 5 \\%$ 。马吉锋等[34]在奶牛基础饲粮中添加 $\\beta -$ 胡萝卜素后其产奶量比对照组分别提高了 $3 . 5 3 \\%$ 、 $9 . 0 6 \\%$ 和 $1 3 . 3 9 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "β-胡萝卜素的着色作用对肉牛的肉品质有影响。沉积于脂肪组织中的β-胡萝卜素易使体脂肪变黄而降低牛肉的等级，因此肉牛育肥后期应减少饲粮中 $\\beta -$ 胡萝卜素的用量[35]。研究也表明饲喂低剂量维生素A和胡萝卜素有利于牛肉大理石花纹的形成[12]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2β-胡萝卜素对动物免疫功能的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "β-胡萝卜素可提高动物机体的体液免疫、细胞免疫和非特异性免疫功能，增强抗病力，饲粮中添加β-胡萝卜素可使血清溶菌酶活性增加。Chew 等[36]发现β-胡萝卜素可刺激动物机体淋巴细胞的增殖，并增强细胞介导的体液免疫应答，对免疫反应起到了积极的影响。何文娟[29]在中国荷斯坦奶牛饲粮中添加β-胡萝卜素，发现降低了产后前3个月胎衣不下、子宫炎和乳房炎的发病率。Cucco 等[37研究发现，给禽类补充β-胡萝卜素能促进生长，提高机体免疫力。马思慧等[38]在小鼠饲粮中添加β-胡萝卜素，发现可缓解由环磷酰胺引起的免疫抑制作用，也可通过提高免疫抑制小鼠体内细胞因子和免疫球蛋白含量来增强小鼠的免疫功能。马吉峰等[34]研究表明，添加β-胡萝卜素组的牛奶中体细胞数均低于对照组，分别比对照组降低了 $1 8 . 5 4 \\%$ ，$3 5 . 2 7 \\%$ 和 $4 6 . 1 0 \\%$ 。Nishijima 等[39]给日本黑牛喂食干胡萝卜，发现可提高 $\\mathsf { \\beta - }$ 胡萝卜素缺乏牛初乳中IgA 和 IgG浓度。产犊前最后1周血清视黄醇浓度增加到 $1 0 0 ~ \\mathrm { { n g / m L } }$ 时，泌乳早期乳房炎发病率减少了 $6 0 \\% ^ { 6 0 }$ ，然而血清 $\\beta -$ 胡萝卜素浓度与胎衣不下或乳腺炎无关。大量的试验结果都证明添加 $\\beta -$ 胡萝卜素对动物免疫功能的发挥起积极作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3β-胡萝卜素对动物繁殖性能的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "饲粮β-胡萝卜素可能与繁殖性能有关，反刍动物卵巢尤其是黄体中β-胡萝卜素浓度较高。研究表明，缺乏β-胡萝卜素可能导致奶牛排卵延迟、黄体功能不全、卵巢囊肿的发病率增加[4I]。目前，国内外学者就调整奶牛饲粮营养以改善生育率进行了大量研究。奶牛饲粮中补充β-胡萝卜素对繁殖性能的益处可能与β-胡萝卜素转化为维生素A有关，特别是在子宫和卵巢中[42]。血清β-胡萝卜素浓度与黄体细胞分泌孕激素有关，产后第一波期排卵的母牛，产前3周血清β-胡萝卜素平均浓度高于不排卵牛；围产前期添加 $\\beta -$ 胡萝卜素(500或 $2 0 0 0 \\mathrm { { m g / d } ) }$ ，产后第一波期排卵牛数量显著增加[43]。产后120d热应激牛补充 $4 0 0 { \\mathrm { ~ m g ~ } } \\beta -$ 胡萝卜素超过 $9 0 \\mathrm { d }$ ，妊娠率有所提高[28]。美国和德国研究人员发现补充 $\\beta -$ 胡萝卜素可缩短初情日龄，提高怀孕率，促进子宫修复和排卵，降低卵巢囊肿发病率和早期胚胎死亡。 $\\beta -$ 胡萝卜素在繁殖上的重要作用在日本已被广泛研究，发现卵巢囊肿奶牛血清胡萝卜素浓度 $[ ( 1 1 \\pm 2 ) \\mu \\mathrm { g / d L } ]$ 比健康牛显著降低 $[ ( 3 3 \\pm 4 ) ~ \\mu \\mathrm { g / d L } ]$ ；血清 $\\beta -$ 胡萝卜素浓度与日本黑牛超数排卵的胚胎质量相关，当血清 $\\beta -$ 胡萝卜素浓度高于 $2 0 0 ~ \\mu \\varrho / \\mathrm { d L }$ 时，黄体和总可回收胚胎数量有增加趋势，并显著提高正常可移植胚胎的数量[44]。给其他动物添加 $\\beta -$ 胡萝卜素也可以提高繁殖力，研究发现，补充维生素 A(4000 IU)和 $\\beta -$ 胡萝卜素 $\\mathrm { 1 0 0 ~ m g / k g }$ ）可增加小母猪肾上腺和黄体中 $\\beta -$ 胡萝卜素含量[45]。 $\\beta -$ 胡萝卜素还可增强瘤胃功能，在体外条件下添加 $\\beta -$ 胡萝卜素，瘤胃细菌生长和纤维素消化能力显著提高[46]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4小结 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "研究表明， $\\beta -$ -胡萝卜素不仅以维生素A的前体物发挥作用，同时还作为抗氧化剂、抗癌剂等在机体中发挥作用，对动物的生产性能提高、繁殖性能增强、免疫功能提高都有不同程度的作用。同时关于动物β-胡萝卜素补充量的研究也逐年增多，但还不足以得出最佳的补充策略，仍需更多的研究来确定动物在不同生产阶段的β-胡萝卜素需要量。关于类胡萝卜素与维生素A之间的转化、转运、沉积和代谢也有了相对深入的研究，但对于β-胡萝卜素的抗氧化、抗癌等生物学作用还有待深入发掘。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：   \n[1]王绍霞,唐小华,周永红,等.辣椒红色素提取工艺的研究[J].食品工业科技,2008,29(8):196-199.   \n[2] VON LINTIG J,SIES H.Carotenoids[J].Archives of Biochemistry and Biophysics,2013,539(2):99-101. [3]严宏祥.β-胡萝卜素在山羊胃肠道内的消化吸收及其抗氧化作用研究[D].硕士学位论文.扬州:扬州大 学,2007.   \n[4]VON EULER H,KARRER P,KRAUSS E V,et al.Zur biochemie der tomatenfarbstoffe[J]. Helvetica Chimica Acta,1931,14(1):154-162.   \n[5]MOORE T.Vitamin A and carotene:the absence of the liver oil vitamin A from carotene. VI. The conversion of carotene to vitamin A in vivo[J]. Biochemical Journal,1930,24(3):692.   \n[6]KRINSKY N I,JOHNSON E J.Carotenoid actions and their relation to health and disease[J].Molecular Aspects of Medicine,2005,26(6):459-516.   \n[7]VAN HET HOF K H,BROUWER I A,WEST C E,et al.Bioavailability of lutein from vegetables is 5 times higher than that of $\\beta$ -carotene[J].The American Journal of Clinical Nutrition,1999,70(2):261-268.   \n[8]GARRETT D A,FAILLA M L,SARAMA R J.Development of an in vitro digestion method to assess carotenoid bioavailability from meals[J].Journal of Agricultural and Food Chemistry,1999,47(10):4301-4309. [9]VON LINTIG J.Colors with functions:elucidating the biochemical and molecular basis of carotenoid metabolism[J].Annual Review of Nutrition,2010,30(1):35-56.   \n[10]LIETZ G,OXLEY A,LEUNG W,et al.Single nucleotide polymorphisms upstream from the $\\beta$ -carotene 15,15'-monoxygenase gene influence provitamin A conversion eficiency in female volunteers[J].The Journal of Nutrition,2012,142(1):161S-165S.   \n[11]董宏伟,吴旻,赵艳丽,等 $\\beta -$ 胡萝卜素对小鼠肠黏膜上皮紧密连接蛋白的保护作用[J].中国畜牧杂 志,2016,52(23):52-55.   \n[12] 毕宇霖.不同水平β-胡萝卜素在肉牛体内的沉积规律及对肉牛生产性能、血液生化和代谢关键酶的研 究[D].硕士学位论文.泰安:山东农业大学,2014. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "13]魏巧丽.β-胡萝卜素对肉牛脂肪合成的影响研究[D].硕士学位论文.泰安:山东农业大学,2014.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[14]周利梅,周光宏.类胡萝卜素在动物营养中的研究进展[J].粮食与饲料工业,2001,1(2):39-41.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[15]宋建婷.日粮及肠道内环境部分因素对β-胡萝卜素-15,15'-加双氧酶活性影响的研究[D].硕士学位论文. 南京:南京农业大学,2003.   \n[16]朱旭东.利用同位素示踪技术对β-胡萝卜素在大鼠体内分布的研究[D].硕士学位论文.南京:南京农业大 学,2004.   \n[17]裴凌鹏.类胡萝卜素对成骨细胞代谢的调控研究[D].博士学位论文.北京:中国中医科学院,2008. [18]GUGGER E T,BIERER T L,HENZE T M,et al $\\beta$ carotene uptake and tissue distribution in ferrets (Mustela putorius furo)[J].The Journal of Nutrition,1992,122(1):115-119.   \n[19]TANOURY Z A,PISKUNOV A,ROCHETTE-EGLY C.Vitamin A and retinoid signaling:genomic and nongenomicefects:thematicreviewseries:fat-solublevitamins:vitaminA[J].JourmalofLipid Research,2013,54(7):1761-1775.   \n[20] ABU-ABED S,DOLLE P,METZGER D,et al.The retinoic acid-metabolizing enzyme,CYP26A1,is esential for normalhindbrainpaterning,vertebral identity,anddevelopmentofposteriorstructures[J].Genes& Development,2001,15(2):226-240.   \n[21] KIM Y K,WASSEF L,CHUNG S,et al $\\beta$ Carotene and its cleavage enzyme $\\beta$ carotene-15,15'-oxygenase (CMOI) affect retinoid metabolism in developing tissues[J].FASEB Journal,2011,25(5):1641-1652.   \n[22]TOURNIAIRE F,GOURANTON E,VON LINTIG J,et al. $\\beta$ -Carotene conversion products and their effects on adipose tissue[J].Genes & Nutrition,2009,4(3):179-187.   \n[23]AMENGUAL J,GOURANTON E,VAN HELDEN Y G,et al.Beta-carotene reduces body adiposity of mice via BCMO1[J].PLoS One,2011,6(6):e20644.   \n[24]SHAPIRO S S,MOTT D J,MACHLIN L T.Kinetic characteristics of $\\beta$ -carotene uptake and depletion in rat tissue[J].The Journal of Nutrition,1984,114(10):1924-1933.   \n[25]骆桂兰 $^ { 1 4 } \\mathrm { C }$ 示踪 $\\beta -$ 胡萝卜素与黄体素在三黄鸡体内分布[D].硕士学位论文.南京:南京农业大学,2006. [26]王芳,李明珍,田启友,等.类胡萝卜素与畜禽产品着色[J].山东畜牧兽医,2002,30(4):37-38.   \n[27]靳青,毕宇霖,成海建,等.β-胡萝卜素对肉牛屠宰性能和胴体品质的影响[J].家畜生态学 报,2016,37(5):26-31. [28]ARECHIGA C F,STAPLES C R,MCDOWELL L R,et al.Effects of timed insemination and supplemental （20 $\\beta$ caroteneon reproduction and milk yield of dairy cowsunder heat stress[J].Journal ofDairy Science,1998,81(2):390-402.   \n[29]何文娟.β-胡萝卜素对奶牛泌乳和免疫性能的影响及其瘤胃微生物体外降解与饲粮油脂饱和度的关系 [D].硕士学位论文.北京:中国农业大学,2006.   \n[30]夏耘,韩向敏,甘伯中.不同β-胡萝卜素水平对奶牛产奶量及乳品质的影响[J].中国牛业科 学,2007,33(4):29-32.   \n[31]孙胜祥.不同β-胡萝卜素水平对奶牛产奶性能的影响[J].青海畜牧兽医杂志,2010,40(6):9-11.   \n[32]武洪久,李洪秋.不同β-胡萝卜素水平对奶牛产奶量及乳品质的影响[J].当代畜牧,2013,33(14):18. [33]OLIVEIRA R C,GUERREIRO B M,JUNIOR N N M,et al.Supplementation of prepartum dairy cows with $\\beta$ carotene[J].Journal of Dairy Science,2015,98(9):6304-6314.   \n[34]马吉锋,常国新,王建东,等.β-胡萝卜素对奶牛泌乳及繁殖性能影响的研究[J].黑龙江畜牧兽 医,2015(1):86-88.   \n[35]张幸开.维生素A对肉牛肌内脂肪沉积及ACC/HSL、PPARy基因表达的影响[D].硕士学位论文.杨凌:西 北农林科技大学,2005.   \n[36] CHEW B P,PARK J S.Carotenoid action on the immuneresponse[J].The Journal of Nutrition,2004,134(1):257S-261S.   \n[37]CUCCO M,GUASCO B,MALACARNE G,et al.Efcts of $\\beta$ carotene supplementation on chick growth,immunestatusandbehaviourinthegreypartridge,Perdixperdix[J].Behavioural Processes,2006,73(3):325-332.   \n[38]马思慧,杨欢,吴天成,等. $\\beta -$ 胡萝卜素对免疫抑制小鼠免疫指标的影响[J].中国兽药杂 志,2014,48(7):10-14.   \n[39]NISHIJIMA Y,TANIGUCHI S,IKEDA S,et al.Effects of $\\beta$ carotene-enriched dry carrots on $\\beta$ carotene status andcolostralimmunoglobulinin $\\beta$ carotene-deficientJapaneseblackcows[J].AnimalScience Journal,2017,88(4):653-658.   \n[40]LEBLANC S J,HERDT TH,SEYMOUR W M,et al.Peripartum serum vitamin E,retinol,and beta-carotene in dairy catle and their associations with disease.[J].Journal of Dairy Science,2004,87(3):609-619. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[41]王波.β-胡萝卜素在奶牛饲养中的作用[J].现代畜牧科技,2015(1):34.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[42]SCHWEIGERT F J.Research Note:changes in the concentration of $\\beta$ -carotene, $\\mathfrak { a }$ -tocopherol and retinol in the bovine corpus luteum during the ovarian cycle[J].Archives of Animal Nutrition,2003,57(4):307-310. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[43]KAWASHIMA C, NAGASHIMA S, SAWADA K, et al. Effect of $\\beta$ -carotene supply during close-up dry period on the onset of first postpartum luteal activity in dairy cows[J].Reproduction in Domestic Animals,2010, 45(6):e282. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[44]INABA T,MEZAN M,SHIMIZU R,et al.Plasma concentrations of $\\beta$ -carotene and Vitamin A in cows with ovarian cyst[J].The Japanese Journal of Veterinary Science,1986,48(6):1275-1278. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[45] SCHWEIGERT F J，BUCHHOLZ I， SCHUHMACHER A，et al. Effect of dietary $\\beta$ -carotene on the accumulation of $\\beta$ -carotene and vitamin A in plasma and tissues of gilts[J]. Reproduction Nutrition Development, 2001, 41(1):47-55. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[46]严宏祥,匡伟,吴敏,等 $\\beta -$ 胡萝卜素对山羊瘤胃微生物体外发酵影响的研究[J].饲料工业,2006,27(22):36-38.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Biological Functions and Its Mechanisms of $\\beta$ -Carotene LI Chao1,2 JIA Bingyu1,2GAO Min2\\* SONG Liwen²HU Honglian²   \n(1. College ofAnimal Sciences, Inner Mongolia Agricultural University, Hohhot 0lo18,China; 2.Institute of   \nAnimal Nutrition and Feed, Inner Mongolia Academy ofAgricultural&Animal Husbandry Sciences, Hohhot 010031, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: $\\beta$ -Carotene is the most abundant carotenoid in mammalian tissues and an important precursor of vitamin A. $\\beta$ carotene and its metabolites are the key regulatory signaling factors in tissue metabolism,and therefore play a number of beneficial roles in mammals,including humans.This article summarized the mechanisms as well as its effects of $\\beta$ -carotene on animal performance, immune function and reproductive function Key words: $\\beta$ -carotene; performance; immune function; reproductive performance ",
+        "page_idx": 9
+    }
+]

@@ -1,0 +1,237 @@
+[
+    {
+        "type": "text",
+        "text": "Thermoelectric performance for SnSe hot-pressed at different temperature ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "D. Li\\*, J. C. Li, X. Y. Qin\\*, J. Zhang\\*, C. J. Song, L. Wang, H. X. Xin Key Laboratory of Materials Physics, Institute of Solid State Physics ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chinese Academy of Sciences, 230031 Hefei, P.R. China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*Corresponding author: lidi@issp.ac.cn, xyqin@issp.ac.cn, zhangjian@issp.ac.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Herein, nanoparticles SnSe are prepared by fusion method together with ball-milling technique and the effect of hot-pressing temperatures on the thermoelectric properties of the dense materials is explored. Due to the optimization of carrier concentration, the peak figure of merit $( Z T )$ value of the compacted material reaches O.73 for SnSe sample hot-pressed at $4 0 0 ^ { \\circ } \\mathrm { C }$ and $4 5 0 ^ { \\circ } \\mathrm { C }$ .The present investigation indicates that the thermoelectric performance of the SnSe compound can be significantly improved by sintering with suitable temperature. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Thermoelectric effects, inter-conversion between heat and electricity, serve as one of the most promising pollution-free ways to ease the growing energy and environmental crisis nowadays.1 However, it has found only limited applications due to the low conversion efficiency of current thermoelectric materials. The efficiency of thermoelectric materials is defined as the dimensionless figure of merit (ZT)，which derives from a combination of three physical properties: thermal conductivity $( \\kappa )$ ， electrical conductivity $( \\sigma )$ and Seebeck coefficient $( S )$ $Z T { = } S ^ { 2 } \\sigma T / \\kappa$ ， with temperature $T .$ A good thermoelectric material should have a high power factor $( P F { = } S ^ { 2 } \\sigma )$ combined with a low thermal conductivity. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Among the promising thermoelectric materials, SnSe compound has receivedconsiderableattentionaspotentialhighperformance thermoelectric material due to their non-toxicity， environmental friendliness, and abundance of their constituent elements in the earth's crust.2-3Very recently, the surprisingly high record $Z T { \\approx } 2 . 6$ and 2.3 at $9 2 3 \\mathrm { K }$ along the $b$ and $c$ -axis are reported by Zhao et al in $p$ -type SnSe single crystal,² arising from the intrinsically ultralow thermal conductivity due to strong anharmonicity of the chemical bonds. A record high average ZT of 1.34, with $Z T$ ranging from 0.7 to 2.0 at 300-773K, is realized in sodium doped SnSe single crystals.³ However, due to the long duration of synthesis and the poor mechanical properties for layered single crystalline SnSe， thermoelectric properties of polycrystalline SnSe materials are studied. As one of IV-VI compounds, SnSe with narrow band-gap with layered structure has orthorhombic Pnma space at room temperature. Around 773K, it undergoes a phase transition from Pnma space to Cmcm space group. Sassi et al.4 reported the thermoelectric properties of polycrystalline SnSe and obtained the maximum $Z T$ of 0.5 at $8 2 0 ~ \\mathrm { K }$ . The value was significantly lower than those measured in single crystal SnSe due to higher $\\kappa$ and lower $\\sigma .$ . ZT value for $p$ -type polycrystalline SnSe was enhanced to 1.0 benefiting from texture modulation.5 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We try to introduce nano-inclusions such as PbTe and carbon black into the matrix SnSe. However, due to the thermoelectric performance for matrix SnSe is not so high $( < 0 . 6 )$ ， $Z T$ for these nano-composite samples only reach 1.26. Hence, to obtain SnSe matrix with high $Z T$ is very important. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Herein， we prepare nano-powder SnSe by fusion method together with ball-milling technique. The obtained SnSe nanocrystals are hot-pressed into dense materials and the effect of hot-pressing temperatures on the thermoelectric properties of the dense materials is explored. The peak $Z T$ value of the compacted materials reaches O.73 for SnSe sample hotpressed at $4 0 0 ^ { \\circ } \\mathrm { C }$ and $4 5 0 ^ { \\circ } \\mathrm { C }$ ，which is $46 \\%$ larger than that reported by Sassi et al.4 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experimental procedure ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Elemental Sn $( 9 9 . 9 9 \\%$ ，Alfa Aesar) and Se $( 9 9 . 9 9 9 \\%$ ，Alfa Aesar) powders are weighed according to the formula of SnSe. The powder mixtures are loaded into quartz ampoule sealed under vacuum at $1 0 ^ { - 3 } \\ \\mathrm { { P a } }$ 9 and then heated to 1223K over $1 0 \\mathrm { { h } }$ ， soaking at that temperature for 24h, followed by furnace-cooling to room temperature. The obtained ingot is ground into powder. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Powders of SnSe are hot-pressed into dense pellets at a pressure of 600 MPa at $2 5 0 ^ { \\circ } \\mathrm { C }$ ， $3 0 0 ^ { \\circ } \\mathrm { C }$ ， $3 5 0 ^ { \\circ } \\mathrm { C }$ 。 $4 0 0 ^ { \\circ } \\mathrm { C }$ and $4 5 0 ~ ^ { \\circ } \\mathrm { C }$ for $^ \\textrm { \\scriptsize 1 h }$ . The sintering temperature and heating rate are $6 7 3 \\mathrm { K }$ and $7 \\mathrm { K / m i n }$ , respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The product is characterized by $\\mathrm { \\Delta X }$ -ray diffraction (XRD） using Philips X'Pert PRO X-ray diffractometer equipped with graphite monochromatic Cu $\\mathrm { K } _ { \\mathfrak { a } }$ radiation $( \\lambda { = } ~ 1 . 5 4 0 5 6 ~ \\mathrm { \\AA } )$ . The operation voltage and current are kept at $4 0 \\mathrm { k V }$ and $4 0 ~ \\mathrm { m A }$ ， respectively. The morphology is characterized by field emission scanning electron microscopy (FESEM; SU8020). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For the electrical resistivity and Seebeck coefficient measurements, bar samples of about $2 \\ \\mathrm { \\ m m } \\ \\times \\ 3 \\ \\mathrm { \\ m m } \\ \\times \\ 1 0 \\ \\mathrm { \\ m m }$ are measured using a commercial four-probe apparatus (ULVAC-RIKO ZEM-3). The thermal diffusion $\\lambda$ is obtained by a laser flash method (Netzsch LFA-457) performed on round disk samples with diameters of about $1 1 ~ \\mathrm { m m }$ and thicknesses of about $1 . 5 \\ \\mathrm { m m }$ . The specific heat, $C _ { p }$ ，is determined by differential scanning calorimetry (Netzsch DSC-404C). The thermal conductivity is calculated from $\\kappa = \\lambda C _ { p } d _ { ; }$ ，where $d$ is the density of the sample determined by Archimedes’ method. The uncertainty for the electrical resistivity is $3 \\%$ ，the Seebeck coefficient $5 \\%$ ， the thermal conductivity $7 \\%$ (comprising uncertaintiesof $4 \\%$ for the thermal diffusivity, $5 \\%$ for the specific heat, and $3 \\%$ for the density)，so the combined uncertainty for the power factor is $10 \\%$ and that for $Z T$ value is $12 \\%$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results and Discussion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "X-ray diffraction (XRD) patterns for SnSe sample hot-pressed at different temperature are shown in Fig. 1. The main diffraction peaks for bulk SnSe correspond to the standard SnSe phase (Joint Committee on Powder Diffraction Standard (JCPDS) No. 89-0233) with lattice constants $a { = } 1 1 . 5 1 7 2 \\mathrm { \\AA }$ ， $b { = } 4 . 1 6 6 6 \\mathrm { \\AA }$ ， $c { = } 4 . 4 4 0 2 \\mathrm { \\AA }$ ， no additional peaks are observed for bulk materials compacted from SnSe at hot pressing (HP) temperatures from $2 5 0 ~ ^ { \\circ } \\mathrm { C }$ to $4 5 0 ^ { \\circ } \\mathrm { C }$ ， indicating that the specimen has the same crystallographic structure as that of SnSe phase. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fractographs of SnSe bulk samples hot-pressed from $2 5 0 ^ { \\circ } \\mathrm { C }$ to $4 5 0 ^ { \\circ } \\mathrm { C }$ are shown in Fig. 2, one can see that there are many white spots with sizes of approximately $1 0 { - } 5 0 ~ \\mathrm { n m }$ distributed among the big gray grains as shown in Fig. 2(a-d). As increasing hot-pressing temperature the number of nano-grains reduces. When the hot-pressing temperature increases to $4 5 0 ^ { \\circ } \\mathrm { C }$ , no nanograins exist in the bulk. By careful inspection with energy dispersive X-ray spectroscopy (EDX) for bulk sample hot-pressed at $4 0 0 ^ { \\circ } \\mathrm { C }$ ， one finds that these areas contain the elements Sn and Se (Fig. 2(e)) with the ratio of Sn: $\\mathrm { S e } { = } 1 { : 0 . 9 5 }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Bar samples with dimensions of about $2 \\ \\mathrm { m m } \\times 3 \\ \\mathrm { m m } \\times 1 0 \\ \\mathrm { m m }$ were cut from the disk samples for measuring the electrical resistivity $( \\rho )$ and Seebeck coefficients. The electrical resistivity of SnSe nanostructured bulk materials is shown in Fig. 3(a). The temperature dependence of electrical resistivity for all the samples hot-pressed at the different temperature issimilar, i.e., $\\rho$ initially decreases as the temperature increases from 300 to 600K，then $\\rho$ keeps unchanged with further increasing temperature. As the hot-pressing temperature increases from $2 5 0 ^ { \\circ } \\mathrm { C }$ to $4 0 0 ^ { \\circ } \\mathrm { C }$ ， the electrical resistivity increases in the temperature range of 300-600K; however, $\\rho$ decreases as HP temperature increases from $4 0 0 ^ { \\circ } \\mathrm { C }$ to $4 5 0 ^ { \\circ } \\mathrm { C }$ Specially, $\\rho _ { \\mathrm { R T } }$ increases from $0 . 0 0 4 4 6 \\Omega { \\cdot } \\mathrm { m }$ to $0 . 0 1 9 1 8 \\ \\Omega { \\cdot } \\mathrm { m }$ with increasing HP temperature from $2 7 5 ^ { \\circ } \\mathrm { C }$ to $4 0 0 ^ { \\circ } \\mathrm { C }$ ； then decreases to $0 . 0 1 2 1 2 \\Omega { \\cdot } \\mathrm { m }$ with further increasing HP temperature to $4 5 0 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Room temperature carrier concentration $( c )$ for SnSe is $1 . 2 2 \\times 1 0 ^ { 1 7 } ~ \\mathrm { c m } ^ { - 3 }$ $8 . 6 8 { \\times } 1 0 ^ { 1 6 } ~ \\mathrm { ~ c m } ^ { - 3 }$ ， $6 . 2 4 \\times 1 0 ^ { 1 6 }$ cm-, $5 . 7 8 \\times 1 0 ^ { 1 6 }$ $\\mathrm { c m } ^ { - 3 }$ and $5 . 5 7 \\ \\times 1 0 ^ { 1 6 }$ cm-3 sintered at temperature of $2 5 0 ^ { \\circ } \\mathrm { C }$ ， $3 0 0 ^ { \\circ } \\mathrm { C }$ ， $3 5 0 ^ { \\circ } \\mathrm { C }$ ， $4 0 0 ^ { \\circ } \\mathrm { C }$ and $4 5 0 ^ { \\circ } \\mathrm { C }$ respectively. The corresponding carrier mobility is $1 1 4 . 9 \\mathrm { c m } ^ { 2 } \\mathrm { \\bf ~ V } ^ { - 1 } \\mathrm { \\bf ~ S } ^ { - 1 }$ ,65.8 $\\mathrm { c m } ^ { 2 } \\mathrm { V } ^ { 1 } \\mathrm { s } ^ { - 1 }$ ， $6 0 . 5 \\mathrm { c m } ^ { 2 } \\mathrm { V } ^ { - 1 } \\mathrm { s } ^ { - 1 }$ ， $5 6 . 3 \\mathrm { c m } ^ { 2 } \\mathrm { V } ^ { - 1 } \\mathrm { s } ^ { - 1 }$ and $9 2 . 6 \\thinspace \\mathrm { c m } ^ { 2 } \\mathrm { V } ^ { - 1 } \\mathrm { \\thinspace s } ^ { - 1 }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The increase in the electrical resistivity with increasing HP temperature may originate from the selenium vacancies in the compacted bulk materials, causing decrease in the carrier concentrations; subsequent decreased $\\rho$ for SnSe hot-pressed at $4 5 0 ^ { \\circ } \\mathrm { C }$ is mainly attributed to the decreased interface density and pores arising from the grain growth and densification. In addition, a good linear relationship between lnp and $l / T$ for SnSe hot-pressed at different HP temperature exists in the high temperature range of 600-775K,as shown in the inset of Fig. 3(a). By using a thermally activated expression in the corresponding temperature regime, written as: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $C , k _ { B }$ and $E _ { g }$ is a constant, Boltzmann constant and band gap, respectively. From the best fit of the experimental data with formula (1), one can obtain $E _ { g } { = } 0 . 9 0 \\mathrm { e V } , 0 . 8 9 \\mathrm { e V } , 0 . 9 5 \\mathrm { e V } , 0 . 9 4 \\mathrm { e V }$ and $0 . 9 6 \\mathrm { e V }$ for SnSe hot-pressed at $2 5 0 ^ { \\circ }$ ， $3 0 0 ^ { \\circ } \\mathrm { C }$ ， $3 5 0 ^ { \\circ } \\mathrm { C }$ ， $4 0 0 ^ { \\circ } \\mathrm { C }$ ， $4 5 0 ^ { \\circ } \\mathrm { C }$ ， respectively，which are almost equal to the energy gap $E _ { g } { = } 0 . 8 6 ~ \\mathrm { e V }$ for SnSe.² This indicates intrinsic excitation is occurred in the temperature range of 6oo-775K. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The positive values of the Seebeck coefficient for SnSe determined over the temperature ranging from $3 0 0 ~ \\mathrm { K }$ to $9 5 0 \\mathrm { ~ K ~ }$ ，as shown in Fig. 3(b), mean that the major charge carriers for all the samples are holes. The Seebeck coefficient for SnSe hot-pressed at different HP temperature shows a similar temperature behavior: with increasing temperature $S$ increases in the temperature ranges of 300-400K and 490-600K； it decreases in the temperature ranges 400-490K and 600-800K,and above 800K，S increases with increasing temperature. The decrease in the Seebeck coefficient in the temperature range of 6Oo-8ooK for the samples originates from the thermal excitation of the carriers.A pit is observed in the temperature range from 40O to 600K for SnSe， while this phenomenon is not found for single crystalline samples.² The pit may be due to the contribution of defect levels,which lie close to the edge of valence band, while there are no defect levels in a perfectly crystalized single crystal. The observed anomaly in the S-T curve above 800K is associated with a phase transition.² DSC analysis shown in Fig. 3(c) indicates that an endothermic peak $P$ is located in the temperature range 768-811K and the peak heat-flow temperature $T _ { \\mathrm { { s } } }$ is at around 795K. This result is quite consistent with the results reported by H.Wiedemeier6 where with increasing temperature, the structure of SnSe is observed to evolve continuously from a layered orthorhombic crystal structure (GeS structure type; space group Pnma) into a higher-symmetry variant (Tll structure type; space group Cmcm, No. 63), with a critical temperature of ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$8 0 7 ~ \\mathrm { K }$ ， indicating that the corresponding anomaly appeared in the $S { - } T$ plot is actually composed of two sub-transitions. In general, the trend of the Seebeck coefficient of materials is the same as the electrical resistivity, assuming that electrical properties are strongly correlated with carrier concentration.7 However, the Seebeck coefficient of SnSe nanostructured bulk materials disagrees with the general trend, implying that other factors such as density of states near the Fermi surface and potential barrier scattering might simultaneously affect the electrical properties along with the carrier concentrations. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Power factor (see Fig. 3(d)) for SnSe increases with increasing temperature from 300 to 800K.Above 800K, the samples preserve a high power factor. The maximum power factor for SnSe hot-pressed at different HP temperature is between $5 . 7 { - } 6 . 8  { \\mathrm { \\textrm { ‰} } }$ . The peak $P F$ reached $6 . 8 \\mu \\mathrm { W } \\mathrm { c m } ^ { - 1 } \\mathrm { K } ^ { - 2 }$ for the sample hot-pressed at $4 5 0 ~ ^ { \\circ } \\mathrm { C }$ for $^ \\mathrm { ~ 1 ~ h ~ }$ (observed at $8 0 0 \\mathrm { K }$ ） ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The heat capacity $( C _ { p } )$ is shown in Fig. 4(a). One can see that the heat capacity for SnSe is nearly unchanged with temperature from 3O0K to 700K, then it increases rapidly with increasing temperature and decreases suddenly, leaving a peak at about 795K， then with further increasing temperature it rises. The value of $C _ { p }$ for our polycrystalline SnSe is between $0 . 2 3 { \\scriptstyle - 0 . 4 6 ~ } \\mathrm { J } / ( \\mathrm { g } \\mathrm { K } )$ ， which is comparable to the value reported by Sassi et al.4 The difference is no any abnormality observed around at 500K in our sample but existed for polycrystalline SnSe reported by Sassi et al. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Considering the anisotropic structure of SnSe, the thermal conductivity of SnSe bulk materials are measured in the same direction as that of electrical properties. The total thermal conductivity $\\kappa$ as a function of temperature for SnSe is given in Fig. 4(b). One can see that $\\kappa$ for SnSe first decreases, then rapidly increases and further decreases with increasing temperature. The difference of $\\kappa$ for SnSe hot-pressed at differenttemperatureissmall. Subtractingthecarrierthermal conductivity $( \\kappa _ { C } )$ ，expressed as $\\kappa _ { C } { = } L _ { 0 } T \\sigma$ (here $L _ { \\theta }$ is the Lorenz number （2 $( 1 . 5 { \\times } 1 0 ^ { - 8 } \\mathrm { V } ^ { 2 } \\mathrm { K } ^ { - 2 } )$ , from K, $\\kappa { - } L T / \\rho$ can be obtained as shown in Fig. 4(c). It can be seen that $\\kappa { - } L T / \\rho$ for SnSe first decreases with increasing temperature because of the phonon-phonon Umklapp scattering (Uscattering). For semiconductors with U-scattering as the dominant phonon scattering mechanism，it is expected that above the Debye temperature $( \\Theta _ { \\mathrm { D } } { \\approx } 2 2 0 ~ \\mathrm { K }$ for SnSe) $\\kappa _ { L }$ should change with $1 / T _ { \\cdot } ^ { 8 }$ However, $\\kappa { - } L T / \\rho$ then quickly increases from about 77OK. The portion of the plot around 77OK that deviates from this temperature dependence as shown in the inset of Fig. 4(c) can be described as the region where the bipolar diffusion contribution’ to the conductivity by thermally generated electrons and holes in polycrystalline SnSe material. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig. 4(d) shows $Z T$ for all SnSe samples. $Z T$ for SnSe hot-pressed at $2 5 0 ^ { \\circ } \\mathrm { C }$ reaches a maximum of O.59 at 818K,which is larger than that $\\scriptstyle \\sum T _ { \\mathrm { m a x } } = 0 . 5 )$ of polycrystalline SnSe reported by S. Sassi.4 With increasing hot-pressing temperature, peak ZT increases. For example,peak $Z T$ is 0.60, 0.68, O.73 and 0.73 for sample hot-pressed at $3 0 0 ^ { \\circ } \\mathrm { C }$ 0 $3 5 0 ^ { \\circ } \\mathrm { C }$ 0 $4 0 0 ^ { \\circ } \\mathrm { C }$ and $4 5 0 ^ { \\circ } \\mathrm { C }$ ，respectively. The high $Z T$ for SnSe can be attributed to optimizing the carrier concentration by appropriatecontrolof stoichiometric composition. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Nanoparticles SnSe are prepared by using melting and ball-milling technique， and the effect of hot-pressing temperatureson the thermoelectric properties of the dense materials is explored. Due to the optimization of the carrier concentration by appropriate control of stoichiometric composition and the reduction in thermal conductivity, peak ZT value of the compacted material reaches O.73 for SnSe sample hot-pressed both at $4 0 0 ^ { \\circ } \\mathrm { C }$ and $4 5 0 ^ { \\circ } \\mathrm { C }$ ，which is $46 \\%$ larger than that reported by Sassi et al. The present investigation indicates that the thermoelectric performance of the SnSe compound can be significantly improved by sintering with suitable temperature. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We acknowledge the funding support from the Natural Science Foundation of China under grant No. 51672278, 11674322 and 113743O6, AnHuiProvincialNaturalScienceFoundation(No. 1608085MA17 and 1408085QB45) and Institute of Solid State Physics (2016DFS01, 2016DFS02 and 2016DFS02). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Reference ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] F. J. Fan, Y. X. Wang, X. J. Liu, L. Wu, and S. H. Yu, Adv. Mater. 24, 6158 (2012)   \n[2] L. D. Zhao, S. H. Lo, Y. S. Zhang, H. Sun, G. J. Tan, C. Uher, C. Wolverton, V. P. Dravid & M. G. Kanatzidis, Nature 508, 373 (2014) [3] L. D. Zhao, G. J. Tan, S. Q. Hao, J. Q. He, Y. L. Pei, H. Chi, H. Wang, S. K. Gong, H. B. Xu, V. P. Dravid, C. Uher, G. J. Snyder, C. Wolverton, M. G.Kanatzidis, Science 351, 141 (2016)   \n[4] S. Sassi, C. Candolfi, J. B. Vaney, V. Ohorodniichuk, P. Masschelein,   \nA.Dauscher and B.Lenoir, Appl. Phys. Lett. 104,212105 (2014)   \n[5] Y. J. Fu, J. T. Xu, G. Q. Liu, J. K. Yang, X. J. Tan, Z. Liu, H. M. Qin,   \nH. Z. Shao, H. C. Jiang, B. Liang and J. Jiang, J. Mater. Chem. C 4, 1201   \n(2016)   \n[6] H.Wiedemeier and H.G. von Schnering, Z. Phys. Chem. 148,295   \n(1978)   \n[7] G. J. Snyder and E. S. Toberer, Nat. Mater 7, 105 (2008)   \n[8] D. Li and X. Y. Qin, J. Appl. Phys. 100, 023713 (2006)   \n[9] Z. Xiong, X. H. Chen, X. Y. Huang, S. Q. Bai, L. D. Chen, Acta   \nMater. 58,3995 (2010) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure Caption ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 Bulk XRD patterns for SnSe hot-pressed at different temperature ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 SEM images of the fractured surface of the bulk sample for SnSe hot-pressed at $4 0 0 ^ { \\circ } \\mathrm { C }$ (a-b) and EDS spectrum of SnSe(c) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 Temperature dependence of (a） electrical resistivity $\\rho$ ，(b) Seebeck coefficient $S$ and (d) power factor $P F$ for SnSe hot-pressed at different temperature; (c) DSC curves for SnSe ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 Heat capacity curve for SnSe (a); temperature dependent (b) thermal conductivity $\\kappa .$ (c） $\\kappa { - } L T / \\rho$ ， and (d) figure of merit $Z T$ for SnSe hot-pressed at different temperature ",
+        "page_idx": 6
+    }
+]

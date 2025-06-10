@@ -1,0 +1,353 @@
+[
+    {
+        "type": "text",
+        "text": "Dual-doping to suppress cracking in spinel $\\pm \\vert \\sin _ { 2 } \\circ _ { 4 }$ :a joint theoretical and experimental study ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhifeng Zhang,a Zhenlian Chen,\\*a Guangjin Wang,ab Heng Ren,ä Mu Pan,b Lingli Xiao,° Kuicheng $\\mathsf { W u } , ^ { \\mathrm { c } }$ Liutao Zhao,° Jianqing Yang, Qingguo Wu,° Jie Shu,d Dongjie Wang,d Hongli Zhang,e Ni Huof and Jun Li\\*a ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Electrochemical cycling stabilities were compared for undoped and Al/Co dual-doped spinel $L i M n _ { 2 } O _ { 4 }$ synthesized by solid state reactions.We observed the suppression of particle fracture in ${ \\sf A l / C o }$ dualdoped $\\mathsf { L i M n } _ { 2 } \\mathsf { O } _ { 4 }$ during charge/discharge cycling and its distinguishable particle morphology with respect to the undoped material. Systematic first-principles calculations were performed on undoped,Al or Co single-doped,and ${ \\sf A l / C o }$ dual-doped $\\mathsf { L i } M \\mathsf { n } _ { 2 } \\mathsf { O } _ { 4 }$ toinvestigate their structural differences at the atomistic level.We reveal that while Jahn-Teller distortion associated with the $M n ^ { 3 + } 0 _ { 6 }$ octahedron is the origin of the latice strain,the networking一i.e. the distribution of mixed valence Mn ions一 is much more important to release the latice strain,and thus to alleviating particle cracking.The calculations showed that the lattice mismatching between ${ \\mathsf { L i } } ^ { + }$ intercalation and deintercalation of $\\mathsf { L i M n } _ { 2 } \\mathsf { O } _ { 4 }$ can be significantly reduced by dual-doping,and therefore also the volumetric shrinkage during delithiation.This may account for the near disappearance of cracks on the surface of $\\mathsf { A l / C o - L i M n _ { 2 } O _ { 4 } }$ after 350 cycles,while some obvious cracks have developed in undoped $\\mathsf { L i } M \\mathsf { n } _ { 2 } \\mathsf { O } _ { 4 }$ at similar particle size even after 50 cycles. Correspondingly,Al/Co dual-doped $\\mathsf { L i } M \\mathsf { n } _ { 2 } \\mathsf { O } _ { 4 }$ showed a good cycling stability with a capacity retention of $84 . 1 \\%$ after 350 cyclesata rate of 1C, $8 \\%$ higher than the undoped phase. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pulverization in cathode oranode materials is a majormaterial deficiency that strongly impacts the electrochemical performance of lithium-ion batteries (LIBs).Cracks may develop on particle surfaces during cycling,leading to battery degradation in cellphones or laptops,and hindering LIB applications in electric transportation and power grid storage.1-3 They occur not only in large particles of micron size but also in materials on the nanoscale.Teki and Pu et al.have observed cracks in Si and Sn particles in anodes,of about $1 5 0 ~ \\mathrm { { n m } }$ 4,5 Deyu Wang and Haifeng Wang et al.have found that in $\\mathrm { L i F e P O _ { 4 } }$ and $\\mathbf { L i C o O } _ { 2 }$ cathodes, particles of $5 0 0 ~ \\mathrm { { n m } }$ could generate cracks within 5O cycles.It iswidely believed that cracking is much more inclined to occur in large particles of microns scale.Spinel $\\mathrm { L i M n } _ { 2 } \\mathrm { O } _ { 4 }$ may suffer particle fracture even in the first delithiation process when particle sizes are about $3 ~ { \\mu \\mathrm { m } }$ .8 The cracking mechanism has been generally attributed to the large lattice strain when a particle changes volume significantly during charge and discharge cycling.However，the physical connection between lattice distortion and the local bonding characteristics has rarely been addressed in literature.It is often material dependent, therefore it is difficult to decipher a common physical root of lattice strains,and this hinders the development of efficient solutions to stall or inhibit particle cracking in electrochemical cycling. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lithium spinel $\\mathrm { L i M n } _ { 2 } \\mathrm { O } _ { 4 }$ (LMO) has found application in all-electric vehicles due to its safety, low cost,non-toxicity and the abundance of Mn in the earth's crust.Extensive studies have been executed to improve its long-term cycling performance by optimizing its crystal structure.Conventionally,cubic $F d \\bar { 3 } m$ symmetry is assigned to LMO with Li ions occupying tetrahedral 8a sites,and Mn ions on 16d octahedral sites.However,structure transition was observed around room temperature,9-12 and neutron diffraction spectra at low temperature suggested a very complicated supercell relating to the charge ordering，i.e., a distribution pattern of mixed valences $ { \\mathbf { M } }  { \\mathrm { n } } ^ { 3 + }$ and $ { \\mathbf { M } }  { \\mathrm { n } } ^ { 4 + }$ 13 Tri-valant Mn is a typical ion relating to Jahn-Teller distortion and plays a key role in the lithium chemistry of LMO as the active redox centre,determining the reversible capacity of LMO. Although the previous experiments have attributed the structure transition with lattice distortion to the Jahn-Teller distortion of the $\\mathbf { M n } ^ { 3 + } \\mathbf { O } _ { 6 }$ octahedron,9-12 the details on the topology of the $\\bf { M n } { - } \\bf { O }$ sublattices and their association with lattice strains are still poorly understood regarding the electrochemical cycling performance ofLMO. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Doping has beenakey techniqueused to improve the application properties of LMO.Shi et al. reported calculated intercalation voltages increasing along with the content of cationic dopants.14,15 Singh et al. pointed out the charge transfer from dopants to nearby oxygen and manganese ions in chromium and magnesium doped LMO.1 Lee et al. found that the degree of structural disorder around manganese ions in $\\mathrm { L i A l _ { 0 . 1 5 } M n _ { 1 . 8 5 } O _ { 4 } }$ is lower than that of pristine LMO.17 Capsoni et al. found low ratio Al-doped LMO can decrease the transition temperature from the cubic to the orthorhombic phase,18 and Yu et al. observed that Al-doping can improve cycling stability while reducing the capacity of LMO in the first several cycles.19 Shen et al. suggested that a cobalt dopant may help increase the average valence state of manganese ions,reducing the concentration of trivalent manganese ions,and therefore suppress the Jahn-Teller distortion in cobalt-doped $\\mathrm { L i M n } _ { 2 } \\mathrm { O } _ { 4 }$ .11 H. Sahan et al. and K. M. Shaju studied a wide range of doping schemes including cobalt-doping and CoM $\\mathbf { \\dot { M } = N i }$ , Zn,Cu,Al) dual-doping in order to improve Li diffusion and cycling stability of LMO.20,21 However,to the best of our knowledge,previous experimental exploration and theoretical calculation of doping schemes have paid little attention to their effects on cracking，and have ignored their connection to lattice strain. It remains unclear how local bonding characteristics impact on the integrity of the overall lattice and what modification schemes may suppress the lattice strain introduced by Jahn-Teller distortion. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this work,we combine first-principles calculations with experiments to reveal the correlation between alleviation of cracking and relieving of lattice distortion in LMO.Firstly, we present the distinct cycling behaviours between undoped and Al/Co dual-doped LMO.This gives the first experimental evidence of the suppressing effect of Al/Co dual-doping on cracking in LMO particles.We employ first-principles calculations to compare LMO models with different doping schemes. First-principles calculated lattice changes and atomistic conformations are assigned to the synthesized materials and their characterizations.The calculations finds that the networking of the ionic — i.e.the distribution of mixed valences $ { \\mathbf { M } }  { \\mathrm { n } } ^ { 3 + }$ and $\\bf { M n } ^ { 4 + }$ - plays a key role in the strain building and relieving among the Mn-O sublattices;Al/Co dual-dopingis correlated to a lattice with well-relieved strain,in contrast to the undoped and other singly cationic doped materials,in which lattice distortion cannot be well compensated between the $\\mathbf { M } \\mathbf { n } ^ { 3 + } \\mathbf { O }$ and $\\mathrm { { \\bf { M } n ^ { 4 + } O } }$ sublattices. This study may offer not only new insights on cationic doping in spinel LMO，but also new synergistic approach to prevent the formation of cracks for other electrode materials in general. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Experimental procedures ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Samples of cationic doped $\\mathbf { L i M n } _ { 2 } \\mathbf { O } _ { 4 }$ were prepared by a solid state reaction technique.The raw materials were $\\mathrm { L i } _ { 2 } \\mathrm { C O } _ { 3 }$ (Tianqi, $9 9 \\%$ ， $\\mathbf { M n O } _ { 2 }$ (Aldrich, $9 9 \\%$ ）and the corresponding dopants $\\mathbf { A l } _ { 2 } \\mathbf { O } _ { 3 }$ (Aldrich, $9 9 . 9 9 9 \\%$ ，and $\\mathbf { C o } _ { 3 } \\mathbf { O } _ { 4 }$ (Aldrich, $9 9 . 9 9 9 \\%$ ).The materials were ball milled for $^ { 2 \\mathrm { ~ h ~ } }$ and dried in vacuum at $9 0 ~ ^ { \\circ } \\mathbf { C }$ for $^ \\textrm { \\scriptsize 6 h }$ . Then,the dried mixture was ground and sintered at $3 5 0 ~ ^ { \\circ } \\mathrm { C }$ for $^ { 1 \\mathrm { ~ h ~ } }$ ， $5 0 0 ~ ^ { \\circ } \\mathrm { C }$ for $^ { 2 \\mathrm { ~ h ~ } }$ and $6 6 0 ~ ^ { \\circ } \\mathrm { C }$ for $^ 3 \\mathrm { ~ h ~ }$ ，successively. Finally, the mixture was ground again and sintered at $8 6 0 ~ ^ { \\circ } \\mathrm { C }$ for $^ { 1 5 \\mathrm { h } }$ .Details of materials synthesis may be published elsewhere. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The crystal structure of the prepared samples was evaluated by X-ray diffraction (XRD,XRD-61oo,Shimadzu) using $\\mathbf { C u - K } \\alpha$ radiation $( \\lambda = 1 . 5 4 1 8 \\ \\mathring \\mathrm { A } )$ . The morphology of the materials was studied by scanning electron microscopy (SEM,FEI,QUANTA 250 FEG). The elemental composition and distribution were examined by energy dispersive X-ray spectroscopy (EDs). The valence state of each element was analysed by X-ray photoelectron spectroscopy (XPs,PHI 3056) with $\\mathbf { M g } \\operatorname { K } \\alpha$ radiation at a constant power of 100 W( $\\mathrm { ~ \\bar { ~ } { 1 5 } ~ k V }$ and $6 . 6 7 ~ \\mathrm { m A }$ ！ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The working electrodes were fabricated by mixing $8 5 : 1 0 : 5$ $\\big ( \\mathrm { w / w / w } \\big )$ ratio of active material, superPcarbonand polyvinylidene fluoride (PVDF),respectively,using $N \\mathrm { \\Omega }$ methyl-pyrrolidone (NMP) as the solvent. The mix slurry was coated on an aluminium foil current collector and dried under vacuum at $1 2 0 ~ ^ { \\circ } \\mathrm { C }$ for $^ { 1 2 \\mathrm { ~ h ~ } }$ The electrode foils were subsequently pressed and punched into circular discs.CR2o32 coin cells were assembled with prepared electrodes as the cathode,lithium foil as the anode, a micro-porous membrane (Celgard 255o) as the separator and a fewdropsof electrolyte ${ \\bf \\langle 1  M L i P F _ { 6 } }$ dissolved in EC/DMC with a volume ratio of1:1).The assembly of coin cells was completed in an Ar-filled M-Braun glove box.The electrochemical performances of the cells were tested on a Land 2oo1A battery tester (Wuhan, China) in the voltage range of $3 . 0 { - } 4 . 3 \\mathrm { ~ V ~ }$ (vs. $\\mathbf { L i } ^ { + } / \\mathbf { L i }$ ata rate of 1C $\\mathrm { ( 1 4 8 \\ m A \\ h \\ g ^ { - 1 } ) }$ at $2 5 ~ ^ { \\circ } \\mathrm { C }$ ， ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 Computational details ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All first-principles calculations in the present work were carried outin the generalized gradient approximation (GGA) suggested by Perdew,Burke and Ernzerhof (PBE) within density functional theory (DFT),as implemented in the Vienna Ab-initio Simulation Package (VAsP).22-24 The Hubbard parameter correction $( \\mathbf { G } \\mathbf { G } \\mathbf { A } \\mathbf { + } \\pmb { U } )$ （204号 was adopted to address the strong onsite Coulomb interaction for manganese ions and the Hubbard correlation parameter was set as $U = 4 . 8 4 \\ \\mathrm { e V }$ ,following Xu et al.25 According to the study of Wang et al.,the Hubbard correction was not applied for cobalt ions.26 The ion-electron interaction is described by the projector augmented wave method (PAW).27,28 One-, six-, four-, seven- and ninevalence electrons are considered explicitly for Li $\\left( 2 \\mathbf { s } ^ { 1 } \\right)$ ，0 $( 2 \\mathrm { s } ^ { 2 } 2 \\mathrm { p } ^ { 4 } )$ Al $( 3 \\mathsf { s } ^ { 2 } 3 \\mathsf { p } ^ { 1 } )$ ,Mn $\\mathrm { ( 3 d ^ { 5 } 4 s ^ { 2 } ) }$ and Co $\\big ( 3 \\mathrm { d } ^ { 7 } 4 \\mathrm { s } ^ { 2 } \\big ) _ { \\mathrm { i } }$ ,respectively. Integrations over Brillouin zone were carried out using a Monkhorst-Pack special $k$ point mesh of $4 \\times 4 \\times 4$ for undoped and cationic doped LMO.29 A cutoff energy of $5 0 0 ~ \\mathrm { e V }$ was used for the plane wave expansion of wave functions. Structural relaxations were performed with the total energy converged to ${ { 1 0 } ^ { - 4 } }$ eV.All forces acting on ions were smaller than O.01 eV $\\mathring { \\mathbf { A } } ^ { - 1 }$ . The ferromagnetic configurations were employed to calculate undoped and cationic dopedLMO. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Spinel LMO crystallizes in $F d \\bar { 3 } m$ cubic structure with oxygen ions on 32e sites forming a close packed FCC lattice,in which manganese and lithium ions occupy 16d octahedral sites and 8a tetrahedral sites, respectively.3 In the single doping scheme, all 16d sites are equivalent for either one aluminium or one cobalt occupation in the LMO unit cells.Two representative non-equivalent configurations,i.e. the shortest and longest distance between the two different dopants,aluminium and cobalt atoms,were investigated to gain atomistic understanding of the electrochemical performances.Through total energy calculation, it was found that the two dopants prefer to separate as far as possible,indicating that the dopants tend to be disperse in the LMO lattice. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4 Results and discussion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.1Experiment analysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The EDS measurement presented in Fig.1(a) and (b) and Table 1 suggests the chemical formula is $\\mathrm { L i M n _ { 1 . 9 2 7 } A l _ { 0 . 0 5 6 } C O _ { 0 . 0 1 7 } O _ { 4 } }$ ，which is close to the designed mole ratio of Mn:Al:Co as $1 : 0 . 0 2 : 0 . 0 0 8$ Due to the presence of conductive tapes, the content of carbon and oxygen is not accurate.The powder XRD patterns of LMO and LMO-Al/Co are compared in Fig.2(a),indicating both diffraction peaks can be indexed on the basis of a cubic lattice with a space group Fd3m (JCPDS No. 35-0782),and both compounds are in a single phase with good crystallinity. The peaks of LMO-Al/Co are sharper than the undoped LMO,indicating better crystallinity with alarger particle size for LMO-Al/Co.The influence of cationic doping in the lattice can be compared from the relative shifts of the peaks.As shown in Fig.2(b),with respect to undoped LMO (at $4 3 . 9 6 ^ { \\circ } )$ ，the peaks of (4 O O） shift slightly but observably to $4 3 . 9 8 ^ { \\circ }$ ， $4 4 . 0 0 ^ { \\circ }$ and $4 4 . 0 2 ^ { \\circ }$ for Al, Co and Al/Co doped LMO, respectively,indicating that the cations are doped in the lattice. Lattice parameters obtainedbyRietveld refinement showed the $a$ value of $\\scriptstyle { \\mathrm { L M O - A l / C o } }$ is slightly decreased to 8.2182 A from 8.2303 of LMO, correlating to a small cell volume shrinking from 557.5 to $5 5 5 . 0 \\mathring { \\mathbf { A } } ^ { 3 }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/35cb65498ae297d31014226bf17bc344e887f0f494b0ee18c2de0bdc85268301.jpg",
+        "img_caption": [
+            "Fig.1The SEM images for EDS of LMO (a) and LMO-Al/Co (b).The area inside the purple box was analyzed by EDS.The SEM images of LMO (c) and LMO-Al/Co (d) with larger magnification. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f86336bc1d67dbcd6d620e2a8c5867a88a273d96c9f2d0d1e10b712304d5c843.jpg",
+        "table_caption": [
+            "Table1 The EDS analysis of LMO and $L M O - A l / C O$ at room temperature "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"2\">LMO-Al/Co</td><td colspan=\"2\">LMO</td></tr><tr><td>Element</td><td>Weight%</td><td>Atomic%</td><td>Weight%</td><td>Atomic%</td></tr><tr><td>CK</td><td>0.12</td><td>0.24</td><td>0.15</td><td>0.33</td></tr><tr><td>OK</td><td>50.21</td><td>77.21</td><td>44.98</td><td>73.54</td></tr><tr><td>Al K</td><td>0.69</td><td>0.63</td><td></td><td></td></tr><tr><td>Mn K</td><td>48.54</td><td>21.74</td><td>54.87</td><td>26.13</td></tr><tr><td>CoK</td><td>0.45</td><td>0.19</td><td></td><td></td></tr><tr><td>Total</td><td>100.00</td><td></td><td>100.00</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f55d716a21d6cbaed2f5c40ea29cdbdda58f92357bc44fece6809eefc5ff1c73.jpg",
+        "img_caption": [
+            "Fig.2 The powder XRD patterns of LMO and $L M O - A l / C O$ at room temperature (a).And the XRD spectra around p peak (4 O O) for undoped and different cationic doped LMOs (b). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The difference between undoped LMO and LMO-Al/Co is distinguishable easily in terms of particle size and morphology. Fig.1(c) and 1(d) compare the average size of pristine LMO and LMO-Al/Co particles, $2 0 0 \\ \\mathrm { n m } \\ \\nu s$ ： $2 . 5 ~ { \\mu \\mathrm { m } }$ ,respectively.Particles around $2 . 5 { - } 3 ~ \\mu \\mathrm { m }$ can also be observed in undoped LMO. Fig.1(c) and (d) indicate that most LMO particles have irregular shapes，in contrast to the smooth surface and clear edges exhibited almost in all of the particles of LMO-Al/Co,which is consistent with the typical shape of a symmetrical cubic lattice formed by octahedral metal oxide units $\\left( \\mathrm { T O } _ { 6 } \\right)$ .It has been suggested that a regular octahedral $\\mathrm { T O } _ { 6 }$ structure may significantly improve the electrochemical performanceof LMO.31 Therefore，Al/Co dual-doping may be an effective means to control the particle morphology,being a favourable factor to improve the performance ofLMO. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The electrochemical performance of LMO and LMO-Al/Co are compared in Fig.3.Fig.3(a) shows the initial charge and discharge curves of LMO and LMO-Al/Co at a current rate of 1C at room temperature. The shape of the two curves is very similar，indicating Al/Co dual-doping does not change the electrochemical characters regarding lithium ion occupation inand deintercalation from the lattice of LMO.The initial charge/discharge capacities of LMO and LMO-Al/Co are $1 2 3 . 1 / \\$ 110.3 and $1 1 9 . 7 / 1 0 7 . 3 \\mathrm { \\ m A }$ h $\\mathrm { g } ^ { - 1 }$ ，respectively. The Columbic efficiencies are almost the same at $8 9 . 6 \\%$ .Thesmaller stoichio metric ratio of Mn ions in LMO-Al/Co is the cause of slightly lower capacity in the first cycle. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9afecdb60bd497a6eb9db3cd601091f1cfb12d2c54c8dc2bcec49d42e9f2f030.jpg",
+        "img_caption": [
+            "Fig.3The initial charge/discharge curves of LMO and $L M O - A l / C O$ at 1C at room temperature (a) and the long-term cycling performances of LMO and LMO-Al/Co at 1C,2C and 5C (b). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The cycling performances of LMO and LMO-Al/Co at different ratesare evaluated in the voltagewindowbetween $3 . 0 \\mathrm { V }$ and $4 . 3 \\mathrm { V }$ in Fig. 3(b).LMO shows a rapid decrease in discharging capacities from $1 1 0 . 3 \\mathrm { \\ m A } \\mathrm { h g } ^ { - 1 }$ to $8 4 ~ \\mathrm { m A } \\mathrm { h } ~ \\mathrm { g } ^ { - 1 }$ at 1C, $1 0 6 . 8 \\mathrm { \\ m A } \\mathrm { h g } ^ { - 1 }$ to $7 8 . 3 \\mathrm { \\ m A } \\mathrm { h g } ^ { - 1 }$ at 2C and $1 0 3 . 2 \\mathrm { m A h g } ^ { - 1 }$ to $6 6 . 2 \\ : \\mathrm { m A } \\mathrm { h g } ^ { - 1 }$ at 5C after 35o cycles,giving capacity retention rates of $7 6 . 2 \\%$ 5 $7 3 . 3 \\%$ and $6 4 . 1 \\%$ ，respectively，in contrast to the retention rates of $8 4 . 1 \\%$ ， $8 2 . 9 \\%$ and $7 5 . 1 \\%$ of $\\scriptstyle { \\mathrm { L M O - A l / C o } }$ from $1 0 7 . 3 ~ \\mathrm { \\ m A }$ h $\\mathrm { g } ^ { - 1 }$ to $9 0 . 2 \\ \\mathrm { m A } \\ \\mathrm { h } \\ \\mathrm { g } ^ { - 1 }$ at 1C, $1 0 5 . 4 ~ \\mathrm { { m A } }$ h ${ \\mathrm { g } } ^ { - 1 }$ to 87.4 mA h ${ \\mathrm { g } } ^ { - 1 }$ at 2C and $9 8 . 6 \\ \\mathrm { m A } \\mathrm { h } \\ \\mathrm { g } ^ { - 1 }$ to $7 4 \\mathrm { \\ m A } \\mathrm { h } \\mathrm { g } ^ { - 1 }$ at 5C after 350 cycles,respectively. The difference in retention rates increases with discharging rates. This result confirms that Al/Co dual-doping indeed improves the long-term cycling stability of LMO,especially at higher dischargerates. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The cycling performance of LMO and LMO-Al/Co at $5 5 ~ ^ { \\circ } \\mathrm { C }$ is also comparedinFig.4.It shows thatLMO has larger polarization between charging and discharging than LMO-Al/Co. The difference of discharge capacity retention becomes very obvious after 50 cycles.The discharge capacity of undoped LMO decays from $1 0 9 . 6 \\mathrm { \\ m A } \\mathrm { h g } ^ { - 1 }$ to $6 0 . 2 \\ \\mathrm { m A } \\mathrm { h } \\ \\mathrm { g } ^ { - 1 }$ after 180 cycles at 2C and from $1 0 0 . 2 \\mathrm { \\ m A }$ h $\\mathrm { g } ^ { - 1 }$ to $5 4 . 9 \\mathrm { \\ m A }$ h $\\mathrm { g } ^ { - 1 }$ at 5C.LMO-Al/Co demonstrates $2 2 \\%$ and $9 \\%$ higher retention rates than LMO at 2C and 5C,respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "More interesting observations come from the comparison of particle morphology after cycling.Fig.5 compares the surface morphology of LMO and LMO-Al/Co after 50 cycles at 2C. Fig.5(a1)-(a4) are the large particle selected randomly from Fig. 5(a) and (b1)-(b4) are the large particle selected randomly from Fig. 5(b).Fig. 5(a1)-(a4) and (b1)-(b4) demonstrate very distinct differences.Obvious cracks have appeared on LMO large particle surface ${ \\left( \\sim 2 . 5 ~ \\mu \\mathrm { m } \\right) }$ but only very few cracks are present on the LMO-Al/Co particle surface at the same size,and even on the larger particle of about $4 \\mu \\mathrm { m }$ .The difference in cracking behaviour becomes much more obvious after 35o cycles.After examining the electrodes carefully,we found there are no LMO particles bigger than $4 ~ { \\mu \\mathrm { m } }$ and almost all particles around $3 ~ { \\mu \\mathrm { m } }$ have fractures,while large Al/Co LMO particles of $4 ~ { \\mu \\mathrm { m } }$ are still clean after long-term cycling and the trace cracking on the large particle of LMO-Al/Co remains tiny, $c f .$ ，Fig. $6 ( \\mathrm { a } )$ and (b). This is against the opinion on the general relation between cracking tendency and particle size,which would predict the larger $\\mathbf { A l } / \\mathbf { C o }$ LMO to be much easier to pulverize than the undoped LMO on cycling. From the point of battery application，the cracking inhibition isa highly preferred material property,which assures the intact electronic and ionic channels of the electrodes during longtermbatteryuse. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/97098609adaa7054623304b67cb199e5064cd703adb138ba81ef22b31e91f79b.jpg",
+        "img_caption": [
+            "Fig.4The initial charge/discharge curves of LMO and $L M O - A l / C O$ at 2Cat $5 5 ^ { \\mathrm { ~ \\circ ~ } } C$ (a)and the long-term cycling performances of LMO and $L M O - A l / C O$ at 2C and 5C (b). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/be6c34cabab44ab0e1572c3cbcb6a14bac9dd1e37d797d49030f4c5e8d0ac61c.jpg",
+        "img_caption": [
+            "Fig.5The SEM images of LMO (a) and LMO-Al/Co (b) after 5O cycles at 2C;(al-a4) are the enlarged views of selected particles in (a) and (b1-b4) are the enlarged views of selected particles in (b). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2 Theoretical analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Our experimental findings indicate that particle size is not the sole factor determining the particle cracking. The same charging/discharging character shown in Fig.3a allows us to use the same first-principles approach to compare the local bonding characteristics in undoped and doped materials,from lithiated to delithiated phases,model by model at the same level of accuracy. The distinct tendencies for cracking between undoped and Al/Co dual-doped LMO are attributed to the different lattice strain mechanism between ${ \\mathrm { L i } } ^ { + }$ intercalation and deintercalation in LMO (MO) and LMO-Al/Co (MO-Al/Co). Table 2 gives the first clear comparison of the calculated lattices among undoped,single (Al or Co)-doped,dual (Al/Co)-doped LMO,MO and MO-Al/Co.While experimental XRD reports a cubic lattice with the length of $8 . 2 4 8 \\mathrm { ~ \\AA ~ }$ for spinel LMO,² our first-principles calculations at $\\mathbf { G } \\mathbf { G } \\mathbf { A } \\mathbf { + } U$ level indicate that the lattice is distorted from cubic to orthogonal for LMO,agreeing with the trend reported by Ouyang et al. and Gao et al.33,34 When one Mn ion is substituted by Al or Co in the cubic lattice, it is found the axes variation is weakened in both Al and Co single doping.When one Al and Co ions simultaneously substitute two Mn ions in the cube lattice,there are two representative, non-equivalent cation doping configurations.The major difference between these two configurations is the separation distance between Al and Co,which are $5 . 8 5 \\mathring { \\mathrm { A } }$ and $2 . 9 2 \\mathring { \\mathbf { A } }$ ,respectively. The total energy of the former one is about $0 . 1 \\ \\mathrm { e V }$ per pair lower than the other one,indicating that Al and Co ions prefer a scattered distribution on doping sites.The lattice of this model is given in Table 2 and is takenas the model for the dual $( \\mathbf { A l } / \\mathbf { C o } ) \\cdot$ doped LMO. It is worth noting that this model has the smallest axis distortion $\\Delta L ( \\% )$ among all our first-principles models.It is close to a cubic lattice,and this may account for the big,symmetric growth of LMO-Al/Co materials. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5227508255a9a69df79faebc27b3db28badf21452019de3867160255b325cc9e.jpg",
+        "img_caption": [
+            "Fig.6The $\\mathsf { S E M }$ images of LMO (a) and LMO-Al/Co (b) after 350 cycles at 2C;(a1-a4) are the enlarged views of selected particles in (a) and (b1-b4) are the enlarged view of selected particles in (b). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Bothlatticesof thedelithiated phase ofLMO andLMO-Al/Co are close to cubic.However, the lithiated phase of the formeris tetragonal with the $b$ axis about $6 . 4 8 \\%$ longer than the $a$ axis, while the latteris close to cubic.This indicates that undoped and $\\mathbf { \\Delta } \\mathbf { A l } / \\mathbf { C o }$ doped materials undergo very different lattice changes by delithiation.After delithiation,besides the obvious lattice transformation from tetragonal to cubic for undoped LMO,seen in Table2,only one lattice axis shrinksby about $5 . 7 \\%$ ，while the other two expanda little (by less than $0 . 4 \\%$ ),and thecell volume shrinks along the direction of the long axis by about $5 \\%$ In dualdoped $\\mathbf { \\delta A l / C o }$ ,the shrinkages of the lattice axes are almost uniform and not larger than $1 . 4 \\%$ ，and the shrinkage of the cell volume is almost symmetrical and reduces by $3 . 1 \\%$ .The smaller and much more symmetrical shrinkage may reduce mismatch in the grain boundary between the lithiated phase and the delithiated phase of Al/Co dual-doped LMO.This may be a physical reason for why undoped and dual-doped particles behave so differently in terms of surface cracking after longterm cycling.This is beneficial to the diffusion of Li and decreases the buildup of Li on the two phase transition,5 as well as reducing the strain in turn.The features of the calculated lattices in Table 2 also support the argument of the partial suppression of two-phase formation which can be attributed to the improvement of the ${ \\mathrm { L i } } ^ { + }$ diffusion rate reported for Al/Co dual-doped LMO.21 Therefore,the relieving of lattice mismatch in delithiation may be the physical root of the improved cycling stability with high retention rates at higher discharge rates, and account for the disappearance of cracks on the surface of LMO-Al/Co particles after long-term cycling. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Detailed analysis on atomistic models relates the relieving of lattice stains to the network of octahedral metal oxide building blocks $\\left( \\mathrm { T O } _ { 6 } \\right)$ .Al, Co and valence alternating Mn present different ionic bonding characteristics on the topology of Mn-O sublattices. Jahn-Teller distortion of the $ { \\mathbf { M } }  { \\mathrm { n } } ^ { 3 + }  { \\mathbf { O } } _ { 6 }$ octahedron is the well-known mechanism to generate lattice deviation from cubic LMO.For undoped LMO，the short bond length between trivalent manganese and oxygen ions is about $1 . 9 7 5 \\mathrm { ~ \\AA ~ }$ ，and the long one is $2 . 2 1 0 \\mathring { \\mathbf { A } }$ ,consistent with those calculated by Nakayama.36 In dual-doped Al/Co,the long and short bonds length of $ { \\mathbf { M } }  { \\mathrm { n } } ^ { 3  { + } }  { - }  { \\mathbf { O } }$ have changed to about 2.171 A and 1.956 $\\mathring { \\mathbf { A } }$ ，respectively. The difference between the two kinds of bonds remains large. Fig.7 compares the overall atomistic conformation between undoped and dual-doped LMO.It can be seen that each $ { \\mathbf { M } }  { \\mathrm { n } } ^ { 3 + }  { - }  { \\mathbf { O } } _ { 6 }$ octahedron in LMO is a distorted polyhedron，as shown in the inset in Fig. 7(a). In LMO-Al/Co,shown in Fig. $\\boldsymbol { 7 } ( \\boldsymbol { \\mathrm { b } } )$ ，the $\\bf { M n } { - } \\bf { O }$ bonds,especially the $ { \\mathbf { M } }  { \\mathbf { n } } ^ { 3 + }  { - }  { \\mathbf { O } }$ bonds,have also distorted obviously with parts of the bonds in a wider angle,resulting in the asymmetry of each $ { \\mathbf { M } }  { \\mathrm { n } } ^ { 3 + }  { - }  { \\mathbf { O } } _ { 6 }$ octahedron. This indicates that the distortion of the $ { \\mathbf { M } }  { \\mathrm { n } } ^ { 3 + }  { \\mathbf { O } } _ { 6 }$ octahedron in LMO-Al/Co is even larger than that in undoped LMO.Thus,the Jahn-Teller distortion exists in spinel LMOs with or without doping. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d8135fd5805a344d7869ba8acd6b85a14a565b1a9e5a642421ebfaeea40cdf67.jpg",
+        "img_caption": [
+            "Fig.7Schematic illustration of LMO (a) and $L M O - A l / C O$ (b).The insets are the bonding characteristics of the $M n ^ { 3 + } { - } O _ { 6 }$ building blocks.Purple, greenand red balls represent $M _ { \\mathsf { n } }$ Liand $\\bigcirc$ atoms respectively.The blue and sapphire polyhedra represent $C o \\mathrm { - } O _ { 6 }$ and $A l { \\mathrm { - } } O _ { 6 }$ polyhedra. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/dad97973327fe5d37349a5ab36b4bbac95c0ef43406f131186fd26c20d694719.jpg",
+        "table_caption": [
+            "Table2Thecalculated lattice parameters forundopedLMO,single Al-,Co-doped，dual Al/Co-doped LMO,MO and $M O - A l / C O$ The label $\\Delta V$ epresents volume shrinkage,△a,△b,△c are axis shrinkages by delithiation,and $\\Delta L$ is discrepancy between the longest and shortest axis lengths "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Materials</td><td>a (A) (△a)</td><td>b (A) (△b)</td><td>c (A) (△c)</td><td>V (A3) (△V)</td><td>△L (%)</td></tr><tr><td>LiMn2O4</td><td>8.234</td><td>8.768</td><td>8.234</td><td>594.11</td><td>6.48</td></tr><tr><td>Mn2O4 (MO)</td><td>8.265 (-0.4%)</td><td>8.266 (5.7%)</td><td>8.265 (-0.4%)</td><td>564.67 (5.2%)</td><td>一</td></tr><tr><td>LiAl0.125C00.125Mn1.75O4</td><td>8.373</td><td>8.350</td><td>8.307</td><td>580.68</td><td>0.79</td></tr><tr><td>Al0.125C00.125Mn1.75O4 (MO-Al/Co)</td><td>8.253 (1.4%)</td><td>8.251 (1.4%)</td><td>8.261 (0.6%)</td><td>562.57 (3.2%)</td><td></td></tr><tr><td>LiAl0.125Mn1.875O4</td><td>8.288</td><td>8.575</td><td>8.258</td><td>586.85</td><td>3.84</td></tr><tr><td>LiC00.125Mn1.875O4</td><td>8.683</td><td>8.221</td><td>8.228</td><td>587.29</td><td>5.62</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Our first-principles models indicate that while the distortion of the $\\mathbf { M n O } _ { 6 }$ building blocks is the origin of lattice strains,the superposition of different distortions in the network,i.e.the spatial distribution of $ { \\mathbf { M } }  { \\mathrm { n } } ^ { 3 + }$ -O long bonds,is the key factor to determine the lattice shape.Fig.8 shows the spatial arrangement of $ { \\mathbf { M } }  { \\mathrm { n } } ^ { 3 + }$ $ { \\mathbf { M } }  { \\mathrm { n } } ^ { 4 + }$ ,Al and Co ions in the lattices. It can be seen from Fig. 8(a) that the arrangement of $ { \\mathbf { M } }  { \\mathrm { n } } ^ { 3 + }$ and $ { \\mathbf { M } }  { \\mathrm { n } } ^ { 4 + }$ ions in undoped LMO are well ordered in clear layers of each kind of ion.Fig. 8(c) plots all of the long bond orientation again in undoped LMO, which are nearly parallel to the same orientation along the $b$ axis; these result in the buildup of high lattice strains as shown in the biggest axis variation（ $\\cdot \\boldsymbol { f } .$ Table 2). On the other hand,in LMO-Al/ Co,Fig.8(b) shows that the $ { \\mathbf { M } }  { \\mathrm { n } } ^ { 3 + }$ ions neighbouring Co have exchanged with the $ { \\mathbf { M } }  { \\mathrm { n } } ^ { 4 + }$ ions of the adjacent layer. Fig. 8(d) presents a $9 0 ^ { \\circ }$ rotation for the long bond orientation of the exchanged $ { \\mathbf { M } }  { \\mathbf { n } } ^ { 3 + }  { - }  { \\mathbf { O } } _ { 6 }$ and the one between the doped ${ \\bf C o - O _ { 6 } }$ As a result of the random orientation of the $ { \\mathbf { M } }  { \\mathbf { n } } ^ { 3 + }  { - }  { \\mathbf { O } } _ { 6 }$ long bonds, theaxis variation has been significantlyand effectively suppressed in LMO-Al/Co,and the lattice shape becomes almost cubic. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b916f9ae8c3b9c7494686bbae612ee2b20668f33dcdc892ab669f7f3f4bb3b05.jpg",
+        "img_caption": [
+            "Fig.8Schematic illustration of the spatial arrangement of the $M _ { \\mathsf { n } }$ ions for LMO (a) and LMO-Al/Co (b).The spatial arrangement of the long $M n ^ { 3 + } { - } O$ bonds for LMO (c) and $L M O - A l / C O$ (d).The bonding characteristic of the longest $M n ^ { 3 + } { - } O$ bonds for LMO-Co (e) and LMO-Al (f).The red,green, blue and sapphire balls represent $M n ^ { 4 + }$ $M n ^ { 3 + }$ ,Co and Al atoms respectively, the purple lines represent the long ${ M n ^ { 3 + } } { - } 0$ bonds. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This may be the local bonding characteristic leading to the big difference in particle size,morphology,and tendency for cracking between LMO and LMO-Al/Co. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The non-parallel orientation of the Jahn-Teller distorted $ { \\mathbf { M } }  { \\mathbf { n } } ^ { 3 + }  { - }  { \\mathbf { O } } _ { 6 }$ is a synergetic effect of Al/Co dual doping. As shown in Table 2,single Al or Co doped LMO have different axis variations.Their bonding characteristics around manganese ions are sketched in Fig.8(d) and (e). It can be seen that while the distortion is only partially suppressed after aluminium or cobalt doping,their long bond orientation is very different.The latter one is the main factor to remove the buildup of lattice strains in the $\\bf { M n } { - } \\bf { O }$ sublattices.Fig. 8(d) shows that only Co doping cannot alter the orientation of the long $ { \\mathbf { M } }  { \\mathrm { n } } ^ { 3 + } .$ -O bonds, but shrink the shorter Co-O bond.Fig. 8(e) indicates Al doping will alter the orientation of the long $ { \\mathbf { M } }  { \\mathrm { n } } ^ { 3 + }  { - }  { \\mathbf { O } }$ bonds to a different direction.Therefore,both single cationic doping can compensate the distortion to some degree,in agreement with previous experimental results reported byHe et al.and Shen et al.37,38 However, the Al/Co dual-doping combines advantage of both cationic influences，giving an effective relieving of lattice strains from Jahn-Teller distorted $ { \\mathbf { M } }  { \\mathbf { n } } ^ { 3 + }  { - }  { \\mathbf { O } } _ { 6 }$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Electronic structures have not been affected by the dualdoping，indicating a good rate capability for doped LMO. The projected electron DOS of manganese ions in LMO and LMO-Al/Co are shown in Fig.9.They are consistent with the XPS results shown in Fig. 9(c).According to the previous reports,39,40 the Mn $2 { \\tt p } _ { 3 / 2 }$ binding energies (BE) of $ { \\mathbf { M } }  { \\mathrm { n } } ^ { 3 + }$ and $ { \\mathbf { M } }  { \\mathrm { n } } ^ { 4 + }$ are observed at 641.9 and $6 4 3 . 2 \\ \\mathrm { e V }$ Fig.9(c) indicates the average oxidation state of Mn ions among LMO and LMO-Al/ Co,of which the peak positions are $6 4 2 . 4 \\ \\mathrm { \\ e V }$ and $6 4 2 . 6 \\ \\mathrm { \\ e V } ;$ respectively,are the same.Nadine Treuil et al.reported that the valence state of Mn can be described as the composition of $+ 3$ and $+ 4$ from XPS fitting.41 In LMO-Al/Co,there is no obvious change in binding energies of the Mn ion,indicating no change in the valence state of the Mn ion.The increase of $0 . 2 \\ : \\mathrm { e V }$ should be ascribed to the change of the ratio of $\\mathbf { M } \\mathbf { n } ^ { 4 + } / \\mathbf { M } \\mathbf { n } ^ { 3 + }$ 41 The result corresponds to the decrease of capacity in LMO-Al/Co in the first cycle.These confirm again the distortion of $ { \\mathbf { M } }  { \\mathrm { n } } ^ { 3 + }  { - }  { \\mathbf { O } }$ bonds induced by Jahn-Teller distortion is still present in the structure of LMO-Al/Co,which is compensated for but not completely suppressed by the dual doping. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/39ea4ba4b629c984487b1635b0acf95e076a8344586f8f6e90e8ff5a88f634d6.jpg",
+        "img_caption": [
+            "Fig.9Projected electron density of state (DOS)of $M n 3 0$ electrons in LMO (a),LMO-Al/Co (b) and the XPS pattern of the $\\mathsf { M } \\mathsf { n }$ ion of LMO and LMO-Al/Co (c). "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Compared to undoped $\\mathrm { L i M n } _ { 2 } \\mathrm { O } _ { 4 }$ ， Al/Co dual-doped $\\mathrm { L i M n } _ { 2 } \\mathrm { O } _ { 4 }$ while bigger in average particle size,exhibits even better longtermcycling stability with a capacity retention rate $8 4 . 1 \\%$ after 350 cycles, $8 \\%$ higher than the undoped phase.The suppression of particle fracture byAl/Co dual-doping has been observed.This highly preferred material property has been attributed to the reduced boundary strain rooted in the lattice mismatch between the lithiated and delithiated phases.It is worth noting that the dual-doping does not suppress the Jahn-Teller distortion of thebuildingblock $\\mathbf { M n O } _ { 6 }$ ，Instead,it changes the distribution network of mixing valence Mn ions.The latter one isa much more important factor to release the lattice strain,thus alleviating cracking on particle surfaces.The random distribution of the $ { \\mathbf { M } }  { \\mathrm { n } } ^ { 3 + }$ -O long bond orientation is a synergetic action of Al and Co.The symmetrical and small volumetric shrinkage resulting from delithiation may account for the disappearance of cracks on the surface of $\\mathbf { A l / C o - L i M n _ { 2 } O _ { 4 } }$ after 350 cycles,while some obvious cracks have developed in undoped $\\mathrm { L i M n } _ { 2 } \\mathrm { O } _ { 4 }$ at a similar particle size.That in turn improves the electrochemical cycling stabilities of $\\mathrm { L i M n _ { 2 } O _ { 4 } \\mathrm { - } A l / C o }$ .One may expect that while bonding characteristics,which are the root of strain buildup at the lattice boundary, is material dependent, there may exist a strategy to remove such strains by modifying the network of valence mixing elements using different bonding characteristics,such as in the case of Al/Co dualdoping.We are expecting that this kind of mechanism may be applicable to other electrode materials,both cathode and anode, in general. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "7 Y.-I. J. Haifeng Wang, B. Huang, D. R. Sadoway and Y.-M. Chiang, J. Power Sources,1999,81-82, 594-598.   \n8 X.Hao,X. Lin,W.Lu and B.M.Bartlett,ACS Appl. Mater. Interfaces,2014,6,10849-10857.   \n9 D. Capsoni, M. Bini, G. Chiodell, P. Mustarell,V. Massarotti, C.B.Azzoni, M. C. Mozzati and A.L. Linati,J. Phys. Chem.B, 2002,106,7432-7438.   \n10 N. P. Raju, A. S. Wills and J. E. Greedan, Chem. Mater.,1999, 11,1510-1518.   \n11 C.-H. Shen，R.Gundakaram，R.-S.Liu and H.-S.Sheu, J.Chem.Soc.，Dalton Trans.，2001，37-40，DOI: 10.1039/ b007120j.   \n12 P.Piszora, W. Paszkowicz, C. Baehtz and E. Wolska,J. Alloys Compd.,2004,382,119-122.   \n13G.R. J. Rodriguez-Carvajal, C.Masquelier and M.Hervieu, Phys. Rev. Lett., 1998,81,21.   \n14 S. Shi, C. Ouyang, D.-s. Wang, L. Chen and X. Huang, Solid State Commun.,2003,126,531-534.   \n15 S.Shi, D.-S. Wang, S. Meng,L. Chen and X. Huang, Phys. Rev.B: Condens.Matter Mater.Phys.,2003,67,115130.   \n16 G. Singh, S. L. Gupta, R. Prasad, S. Auluck, R. Gupta and A. Sil,J.Phys. Chem. Solids,2009,70,1200-1206.   \n17 J.F. Lee, Y. W. Tsai, R. Santhanam, B.J. Hwang, M. H Yang and D.G.Liu,J.Power Sources,2003,119,721-726.   \n18 D.Capsoni, M. Bini, G. Chiodell, V. Massarotti,P.Mustarelli, L. Linati, M. C. Mozzati and C.B. Azzoni, Solid State Commun., 2003,126,169-174.   \n19 F.-D. Yu, Z.-B. Wang,F. Chen, J. Wu, X.-G. Zhang and D.-M.Gu,J. Power Sources,2014,262,104-111.   \n20 H. Sahan, H. Goktepe and S. Patat, Inorg. Mater., 2011, 44, 420-425.   \n21 K. M. Shaju,G.V. Subba Rao and B.V.R. Chowdari,J. Mater. Chem.,2003,13,106-113.   \n22 G.Kresse and J.Hafner,Phys.Rev.B: Condens. Matter Mater. Phys.,1994,49,14251-14269.   \n23 G. Kresse and J. Furthmuller, Comput. Mater. Sci.,1996, 6, 15-50.   \n24 G.Kresse and J. Furthmuller, Phys.Rev.B: Condens.Matter Mater. Phys.,1996,54,11169.   \n25 B. Xu and S. Meng,J. Power Sources,2010,195,4971-4976.   \n26 J. M. Wang, J. P. Hu, C. Y. Ouyang, S. Q. Shi and M. S. Lei, Solid State Commun., 2011,151, 234-237.   \n27 P.E. Blochl, Phys. Rev. B: Condens. Mater Mater. Phys.,1994, 50, 17953-17979.   \n28 G.Kresse and D. Joubert, Phys. Rev. B: Condens. Matter Mater.Phys.,1999,59,1758-1775.   \n29H.J.Monkhorst and J.D.Pack,Phys.Rev.B: Condens.Matter Mater.Phys.,1976,13,5188-5192.   \n30 N. Ishizawa and K. Tateishi,J. Ceram. Soc. Jpn., 2009,117, 6-14.   \n31 G. Jin,H. Qiao,H. Xie,H. Wang, K. He,P.Liu,J Chen,Y.Tang, S. Liu and C. Huang, Electrochim. Acta,2014,150,1-7.   \n32 J. Akimoto,Y. Takahashi, Y. Gotoh and S. Mizuta, Chem. Mater.,2000,12,3246-3248.   \n33 C.Y. Ouyang, S. Q. Shi and M. S.Lei,J. Allys Compd.,2009, 474,370-374. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The authors acknowledge programs supported by the National Research program of China (2013AA050901),Public projects of Zhejiang Province (2015C31122)，Zhejiang Natural Science Foundation (LY16Bo3ooo7),Ningbo Natural Science Foundation (2015A610240)，Zhejiang Province Key Science and Technology Innovation Team (2o13PT16)，and the National Young scholar Natural Science Foundation of China (201303235),the National Natural Science Foundation of China (11174301). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1 L.Lu, X.Han,J.Li,J.Hua and M. Ouyang,J.Power Sources, 2013,226,272-288.   \n2 M.S.Islam and C.A.Fisher,Chem. Soc. Rev.，2014，43, 185-204.   \n3 M.M. Thackeray,C.Wolverton and E. D. Isaacs,Energy Environ. Sci.,2012,7854,DOI:10.1039/c2ee21892e.   \n4 R.Teki,M.K.Datta,R.Krishnan,T.C.Parker,T.M.Lu, P.N.Kumta andN.Koratkar,Small,2009,5,2236-2242.   \n5W.Pu,X.He,J.Ren,C.Wan and C. Jiang,Electrochim. Acta, 2005,50,4140-4145.   \n6 D.Wang,X. Wu, Z. Wang and L. Chen,J. Power Sources, 2005,140,125-128.   \n34 G.Tan-Hua,Acta Phys. Sin.,2012,61,187306.   \n35M.Y.Song,D.S.Ahn and H.R.Park,J.Power Sources,1999, 83,57-60.   \n36M.Nakayama andM.Nogami,Solid State Commun.,2010, 150, 1329-1333.   \n37B.L.He,W. J. Zhou,Y.Y.Liang,S.J.Bao and H.L. Li, J. Colloid Interface Sci.,2006,300,633-639.   \n38C.Shen,R.Liu,R.Gundakaram,J.Chen, S.Huang,J.Chen and C.Wang,J.Power Sources,2001,102,21-28.   \n39T.Qiu,J.Wang,Y.Lu and W.Yang,Electrochim.Acta,2014, 147,626-635.   \n40 A.Bocquet，T.Mizokawa，T.Saitoh，H.Namatame and A.Fujimori， Phys. Rev.B: Condens.Matter Mater. Phys., 1992,46,3771-3784.   \n41 N. Treuil，C.Labruge‘re，M.Menetrier，J.Portier, G.Campet,A.Deshayes,J.-C.Frison,S.-J.Hwang,S.-W. Song and J.-H.Choy，J.Phys.Chem.B，1999，103, 2100-2106. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

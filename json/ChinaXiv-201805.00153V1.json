@@ -1,0 +1,334 @@
+[
+    {
+        "type": "text",
+        "text": "利用端部效应改善的最小二乘外推模型进行UT1-UTC预报",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "雷 雨1，²，赵丹宁1，2,3，蔡宏兵1，²(1．中国科学院国家授时中心，陕西 西安710600；2．中国科学院时间频率基准重点实验室，陕西西安710600；3．中国科学院大学，北京100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：现有UT1-UTC预报模式在进行周期项与残差项拟合分离时，通常没有考虑最小二乘拟合序列的端部畸变现象（数据处理中称为端部效应），预报精度难以取得较大改善。针对最小二乘拟合存在的端部畸变现象，首先采用时序分析方法在UT1-UTC序列两端进行数据延拓，形成一个新序列，然后用新序列求解最小二乘外推模型系数，最后再合最小二乘外推模型及神经网络对UT1-UTC序列进行预测。结果表明，在UT1-UTC序列端部增加延拓数据，可以有效地抑制最小二乘拟合序列的端部畸变；相对于常规最小二乘外推模型，基于端部效应改善的最小二乘（edge-effect corrected least squares，ECLS）外推模型的UT1-UTC中长期预报精度改善明显。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：UT1-UTC预报；预报模型；最小二乘；端部效应；端部延拓中图分类号：P228 文献标识码：A文章编号：1672-7673(2018)03",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "地球自转运动可以用地球定向参数(Earth Orientation Parameters，EOP)表征。地球定向参数包括岁差、章动、UT1-UTC 及极移的两个分量 $x _ { p }$ 和 $y _ { p }$ 。地球定向参数是实现地球参考坐标系与天球参考坐标系相互转换的必需参数，在天文地球动力学研究、深空探测及卫星导航等领域有重要应用。甚长干涉基线测量(Very Long Baseline Interferometry，VLBI)、多普勒卫星定轨和无线电定位（Doppler Orbitographyand Radiopositioning Integrated bySatellite，DORIS）和全球卫星导航系统(Global Navigation Satelite System，GNSS)等空间测地技术是测量地球定向参数的主要手段，其中UT1-UTC 和极移的测量精度可以分别达到$1 0 \\mu \\mathrm { s }$ 和 $1 0 0 \\mu \\mathbf { a s } ^ { [ 1 ] }$ ，但复杂的资料处理过程致使地球定向参数的获取存在一定的延迟。由于深空探测等领域对地球定向参数实时测量值有重要需求，而卫星自主导航又对地球定向参数中长期预报值有重要需求，因此对地球定向参数进行高精度的短期与中长期预报是非常必要的。在地球定向参数的几个分量中，UT1-UTC 是变化最快、最难预报的一个分量。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前有多种UT1-UTC预报方法，其中多数方法结合最小二乘(least squares，LS)外推和其它模型进行UT1-UTC预报 $[ 2 - 4 ]$ ，这些方法的思路为，首先采用最小二乘外推模型提取UT1-UTC序列中的周期性成分，并对其进行外推，然后利用神经网络(NeuralNetwork,NN)或者自回归(Auto Regressve，AR)模型等对最小二乘拟合残差进行建模、预报，最后再将周期项和残差项的外推值相加得到UT1-UTC预报值。在实际应用中发现，在利用最小二乘外推模型对UT1-UTC观测资料进行拟合时，在拟合序列的两端存在发散畸变现象，这种现象在数据处理中称为端部效应[5-7]。端部效应使残差项与周期项的预报值出现偏差，最终导致UT1-UTC预报值不准确。本文针对UT1-UTC预报中最小二乘拟合出现的端部畸变现象，在采用最小二乘外推模型对UT1-UTC序列进行拟合之前，先利用端部延拓方法对UT1-UTC观测资料进行数据延拓，即在UT1-UTC序列的两端增加应用时序分析方法延拓出的若干数据点，形成一个新序列，然后用新序列求解最小二乘外推模型系数，最后再基于最小二乘外推模型对UT1-UTC序列中的周期项进行外推。数值分析表明，通过在UT1-UTC观测序列端部增加统计延拓数据，可以有效地抑制端部效应，从而改进UT1-UTC预报效果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1预报方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1数据预处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文UT1-UTC观测资料来源于国际地球自转与参考系服务（International EarthRotationand Reference Systems Service，IERS）发布的EOP-08-C04序列，其中UT1-UTC数据的采样间隔为1d。UT1-UTC观测资料中含有闰秒（Leap Second）及多种周期项、准周期项，其中，对于周期为 $5 \\mathrm { d } \\sim 1 8 . 6 \\mathrm { a }$ 的62个固体地球带谐潮汐项应用IERS协议（IERSConventions）给出的经验公式予以扣除[8]，扣除62个固体地球带谐潮汐项后的UT1-UTC称作UT1R-UTC，然后再去掉UT1R-UTC序列中闰秒，获得UT1R-TAI序列。本文对UT1-UTC的预测实质上是针对UT1R-TAI的预测。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2最小二乘外推模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "UT1-UTC序列扣除62个固体地球带谐潮汐项后，还含有长期趋势项、周年项、半周年项等周期性变化成分，长期趋势项与周年项、半周年项利用如下模型进行拟合、外推：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { \\mathrm { U T l R - T A I } } = a + b t + \\mathrel { \\mathop { \\sum } _ { i = 1 } ^ { 2 } } \\left[ c _ { i } \\cos ( 2 \\pi t / T _ { i } ) + d _ { i } \\sin ( 2 \\pi t / T _ { i } ) \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $T _ { 1 }$ ， $T _ { 2 }$ 分别表示半周年项和周年项的振荡周期，取 $T _ { 1 } = 1 8 2 . 6 2 \\mathrm { d }$ 、 $T _ { \\mathrm { 2 } } = 3 6 5 . 2 4 \\mathrm { d }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "[2]； $a$ ， $b$ 代表趋势项参数； $c _ { 1 }$ ， $d _ { \\mathrm { { 1 } } }$ 代表半周年项参数； $c _ { 2 }$ ， $d _ { 2 }$ 代表周年项参数。这些未知参数可以根据最小二乘法求解。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3神经网络模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "反向传播（Back Propagation，BP）神经网络是当前应用较为广泛的神经网络算法之一，但这种算法存在收敛速度慢、过拟合及泛化能力弱等不足。鉴于此，本文选用近年来发展起来的极限学习机（extreme learming machine，ELM）神经网络算法对最小二乘拟合残差序列进行建模、预报。与反向传播神经网络算法相比，极限学习机算法训练速度非常快，不需要人为设置网络参数，且具有很强的泛化能力9，极限学习机神经网络在地球定向参数预报中已经取得成功应用[10]，其原理如下所述。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "给定 $N$ 个训练样本 $( \\pmb { x } _ { i } , \\pmb { y } _ { i } )$ ，其中输入向量 $\\pmb { x } _ { i } = [ x _ { i 1 } , x _ { i 2 } , \\cdots , x _ { i m } ] ^ { \\mathrm { T } } \\quad \\mathrm { F }$ $\\mathrm { ~ \\mathsf ~ { ~ R ~ } ~ } ^ { m }$ ，输出向量$\\mathbf { y } _ { i } = [ y _ { i 1 } , y _ { i 2 } , \\cdots , y _ { i n } \\ ] ^ { \\mathrm { T } } \\quad \\mathrm { R } ^ { n } , m , n$ 分别表示输入向量维数与输出向量维数，则具有 $h$ （202个隐含层节点的单隐层前馈神经网络能够以零误差逼近这 $N$ 个样本，即有下式成立：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny \\beta \\ast \\mathrm { ~  ~ { ~ \\cal ~ x ~ } ~ } _ { j = 1 } ^ { h } \\mathrm { ~  ~ { ~ \\cal ~ \\xi ~ } ~ } _ { j } \\mathrm { ~  ~ { ~ \\cal ~ y ~ } ~ } _ { j } ) , \\qquad i = 1 , 2 , \\cdots , N \\\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\pmb { w } _ { j } = \\big [ w _ { j 1 } , w _ { j 2 } , \\cdots , w _ { j m } \\big ] ^ { \\mathrm { T } }$ 表示第 $j$ 个隐含层节点和输入节点之间的连接权值，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\pmb { \\beta } _ { j } = [ \\beta _ { _ { j 1 } } , \\beta _ { _ { j 2 } } , \\cdots , \\beta _ { _ { j n } } ] ^ { \\mathrm { T } }$ 表示第 $j$ 个隐含层节点和输出节点之间的连接权值， $b _ { j }$ 表示第 $j$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "个隐含层节点的偏置， $g ( \\pmb { x } )$ 表示激活函数。（2）式可以表示为矩阵相乘的形式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { Y } = \\boldsymbol { H } \\boldsymbol { \\beta } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\pmb { H }$ 为隐含层输出矩阵：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\frac { \\ddag \\hphantom { x } _ { 1 } ^ { \\ddag } \\hphantom { x } _ { 2 } ^ { \\ddag } ( w _ { 1 } \\bigotimes _ { 1 } \\bigotimes _ { 1 } ) } { \\ddag \\hphantom { x } _ { 1 } ^ { \\ddag } } \\cdots \\begin{array} { c c c c } { g ( w _ { h } \\textbf { \\em x } _ { 1 } \\textbf { \\em b } _ { h } ) } & { } & { } & { } \\\\ { \\cdots } & { \\vdots } & { } & { } \\\\ { \\vdots \\boxed { \\boxplus _ { 1 } } } & { \\ddots } & { } & { } \\\\ { \\vdots \\boxed { \\boxplus _ { N } } } ( w _ { 1 } \\bigotimes _ { N } \\bigoplus _ { N } b _ { 1 } ) } & { \\cdots } & { g ( w _ { h } \\textbf { \\em x } _ { N } \\textbf { \\em b } _ { h } ) } & { } & { } \\end{array}  _ { N }  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Z T 辖 福 扁 T 蝙蝙 1 精编编麓 Y ， T T hn N Nn ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "极限学习机神经网络的训练步骤如下：（1）随机选取输入层权值 ${ \\pmb w } _ { j }$ 、偏置 $b _ { _ j }$ ，$j = 1 , 2 , \\cdots , h$ ；（2）计算隐含层输出矩阵 ${ \\pmb H }$ ；（3）计算输出层权值 $\\beta H Y ^ { \\dagger }$ ，其中$\\pmb { H } ^ { \\dagger }$ 为矩阵 $\\pmb { H }$ 的Moore-Penrose广义逆。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4预报过程",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于最小二乘外推和神经网络组合模型（ $\\mathrm { L S ^ { + N N } }$ ）不仅具有较高的预报精度，还具有较好的长期预测稳定性，故基于 $\\mathrm { L S ^ { + N N } }$ 模型的UT1-UTC 短期预测值精度较高，可以很好地反映UT1-UTC 的变化规律[1,3]。作者曾将端部数据延拓的思想和方法应用于日长变化资料分析中，在改善最小二乘拟合的端部效应方面进行了研究，取得了较为明显的效果[6-7]。本文尝试将端部数据延拓的思想和方法应用于UT1-UTC预报，以限制UT1-UTC 资料拟合中最小二乘拟合出现的端部畸变现象。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "考虑最小二乘拟合端部效应的UT1-UTC预测方法和常规方法的差别之处在于，该方法在对UT1-UTC观测序列建立趋势项及周期项最小二乘外推模型之前，先应用统计学方法在UTIR-TAI序列首部和尾部进行数据延拓，以抑制最小二乘拟合端部畸变，预报过程如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）首先通过（1）式对UT1R-TAI序列作最小二乘拟合，建立周期项及趋势项外推模型，然后利用神经网络模型对最小二乘拟合残差序列进行建模、预报，最后联合最小二乘外推模型和神经网络模型（ $\\mathrm { L S ^ { + N N } }$ ）在UT1R-TAI序列首部和尾部分别外推若干数据点，这样UT1R-TAI序列加上首部和尾部外推的若干数据点就构成了一个新序列。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（2）利用新序列求解最小二乘外推模型系数，即用新序列重新建立趋势项及周期项最小二乘外推模型，然后再结合最小二乘外推模型和神经网络模型对UT1R-TAI序列作预报。（3）将周期为 $5 \\mathrm { d } \\sim 1 8 . 6 \\mathrm { a }$ 的62个固体地球带谐潮汐项及闰秒恢复到UT1R-TAI序列的预测值中即可得到UT1-UTC预测值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2数值分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "选取 $2 0 0 1 . 1 . 1 { \\sim } 2 0 1 6 . 9 . 2 0$ 期间的UT1-UTC 观测序列进行数值分析，其中2010.1.1${ \\sim } 2 0 1 6 . 9 . 2 0$ 为预测期，建模数据长度为10年，每隔7d预报1次，总共进行了300 次预测。图1(a)、 (b)分别给出了 $2 0 0 1 . 1 . 1 { \\sim } 2 0 1 6 . 9 . 2 0$ 时段的UT1-UTC 测量序列及其扣除闰秒和62个固体地球带谐潮汐项的UT1R-TAI序列。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了验证端部延拓方法对最小二乘拟合端部效应的改善效果，首先比较端部延拓前后最小二乘拟合效果。图2绘出了2001年 $1$ 月1日至2010年12月31日时段UT1R-TAI序列及其端部数据延拓点，其中，端部延拓数据点数为360，即在首尾两端各延拓180个数据点。从图2可以看到，UT1R-TAI端部延拓数据点与原始序列符合的较好，可以很好地反映原始UT1R-TAI序列的变化规律。图3绘出了端部数据延拓前后 2001年1月1日至2010 年12月 31日时段UT1R-TAI序列的最小二乘拟合序列，基于端部效应改善的最小二乘（Edge-effect CorrectedLeast Squares，ECLS）表示端部效应修正的最小二乘拟合序列。为了更加直观、清楚地展示端部数据延拓方法对最小二乘拟合端部畸变的改善效果，对图3作局部放大处理，图4(a)绘出了端部数据延拓前后最小二乘拟合序列首部前180 个历元的最小二乘拟合残差数据点，图4(b)绘出了端部数据延拓前后最小二乘拟合序列尾部最后180个历元的最小二乘拟合残差数据点。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图3和图4可以发现，与直接对原始UT1R-TAI序列进行拟合相比，端部数据延拓后最小二乘拟合残差序列在首部和尾部更加接近于0，换言之，端点延拓后最小二乘拟合的UT1R-TAI序列在首部、尾部和原始序列吻合的更好，这说明端点延拓方法能够有效地抑制最小二乘拟合出现的端部畸变现象。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/73c4da8674afc28a117faaf0c47d037f588626c759978d888fbb98d9ca0fb4bb.jpg",
+        "img_caption": [
+            "图1UT1-UTC观测序列及其UT1R-TAI序列",
+            "Fig.1 Original UT1-UTC time-series and UT1R-TAI time-series "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ca38729e9966416a1b01367f816bf83fd393f03a4b31d9182faccaf5cf3c54e1.jpg",
+        "img_caption": [
+            "图2UT1R-TAI序列及其端部数据延拓点"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c77a365ad5ca0663685a313dcb6b1cf696b62ffa1ddefead2e4b52cbbe008f8f.jpg",
+        "img_caption": [
+            "Fig.2 Original and extended UT1R-TAI time-series "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/589c688cb17149933826bba2dc237481ef0f33edfc6a570f14f6d6d592289fe8.jpg",
+        "img_caption": [
+            "图3UT1R-TAI的最小二乘与基于端部效应改善的最小二乘拟合序列",
+            "Fig.3LS and ECLS fitting time-seriesofUT1R-TAI ",
+            "图4UT1R-TAI的最小二乘与基于端部效应改善的最小二乘拟合的首尾两端残差序列",
+            "Fig.4 LS and ECLS fitting residuals of UT1R-TAI at boundaries "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了检验端部效应改善的最小二乘外推模型对UT1-UTC预报的改善效果，分别利用$\\mathrm { L S ^ { + N N } }$ 模型和 $\\mathrm { E C L S + N N }$ 模型对UT1-UTC作 $1 \\mathrm { \\sim } 3 6 0 \\mathrm { d }$ 时长预报，采用平均绝对误差(MeanAbsolute Error，MAE)作为预测性能评价指标，其计算公式可以写为",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { M A E } _ { i } = \\frac { 1 } { M } _ { \\ j = 1 } ^ { M } \\left| { P ^ { i } } _ { j } - { O ^ { i } } _ { j } \\right| \\quad ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "其中， $P _ { j }$ ， $O _ { j }$ 分别为 $j$ 点的UT1-UTC 预测值及观测值； $i$ 为预报长度； $M$ 为预报期数，本文总共作了300期的预测，即 $M = 3 0 0$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图5给出了 $\\mathrm { L S + N N }$ 模型和 $_ \\mathrm { E C L S + N N }$ 的UT1-UTC预测平均绝对误差对比图，表1给出了 $\\mathrm { L S + N N }$ 模型和 $_ \\mathrm { E C L S + N N }$ 模型在不同预报长度下的平均绝对误差统计结果。从图5及表1可以发现，对于 $1 \\mathrm { \\sim } 3 0 \\mathrm { d }$ 的短期预报， $_ \\mathrm { E C L S + N N }$ 模型的预报精度相对于常规 $\\mathrm { L S + N N }$ 模型的预报精度并无改善，但从第30d开始， $_ \\mathrm { E C L S + N N }$ 模型的预报精度明显优于常规$\\mathrm { L S ^ { + N N } }$ 模型，预报精度最大提高了 $2 7 \\%$ ，且一直保持在 $1 0 \\%$ 以上，这说明与常规最小二乘外推模型相比较而言，端部效应改善的最小二乘外推模型对于UT1-UTC 中长期预报具有更明显的优势，同时也从侧面反映出最小二乘拟合的端部畸变现象对UT1-UTC中长期预报的影响更大。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ad319e7359f522ad24bd03ef9f3a370bdc614e013f66a2bcee24f3ac2975f48f.jpg",
+        "img_caption": [
+            "图5 $\\mathrm { L S ^ { + N N } }$ 模型与 $_ \\mathrm { E C L S + N N }$ 模型的UT1-UTC预报MAE对比 Fig.5MAE Comparison between the $\\mathrm { L S ^ { + N N } }$ andECLS $+ \\mathsf { N N }$ models forUT1-UTC prediction "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/b5ccc2ced59ca569889f496b634dc4cc3b00bd8386d6c3f04fdc8050dc961e8e.jpg",
+        "table_caption": [
+            "表 $1 \\ \\mathrm { L S ^ { + N N } }$ 模型与 $_ \\mathrm { E C L S + N N }$ 模型的UT1-UTC预报MAE统计（单位：ms） 'able1 MAE statisticsof UT1-UTC prediction obtained by the $\\mathrm { L S ^ { + N N } }$ and $_ \\mathrm { E C L S + N N }$ models (unit: 1 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>预报时长/d</td><td>LS+NN</td><td>ECLS+NN</td><td>精度改善百分比</td></tr><tr><td>1</td><td>0.04</td><td>0.04</td><td>0%</td></tr><tr><td>10</td><td>0.88</td><td>0.87</td><td>1%</td></tr><tr><td>20</td><td>2.18</td><td>2.16</td><td>1%</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/5de2cc6319ec3f748ac19408ef54aa3057f4c143771f0cb92f878cf1c600569e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>30</td><td>3.51</td><td>3.44</td><td>2%</td></tr><tr><td>60</td><td>7. 44</td><td>6.49</td><td>15%</td></tr><tr><td>90</td><td>12.46</td><td>10.59</td><td>18%</td></tr><tr><td>180</td><td>26.64</td><td>22. 77</td><td>15%</td></tr><tr><td>240</td><td>37.39</td><td>27.28</td><td>27%</td></tr><tr><td>300</td><td>50.88</td><td>38.85</td><td>24%</td></tr><tr><td>360</td><td>56.78</td><td>50.40</td><td>11%</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文提出了一种顾及最小二乘拟合端部效应的UT1-UTC预报方法，这种方法与基于常规最小二乘外推模型的UT1-UTC预报方法区别在于，该方法在进行最小二乘拟合之前，首先在原始序列两端增加统计延拓数据，然后再对数据延拓后的新序列进行最小二乘拟合，其目的为将最小二乘拟合存在的端部畸变搬移到新序列的两端，从而抑制最小二乘拟合序列的端部畸变。数值分析表明，最小二乘拟合的端部效应主要影响UT1-UTC 中长期预报结果,通过在观测资料的两端增加用统计学方法延拓的外推数据点，然后再进行最小二乘拟合，能够有效地改善最小二乘拟合出现的端部畸变现象；与常规最小二乘外推模型相比，基于端部效应改善的最小二乘外推模型的UT1-UTC中长期预报精度提升明显。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1 Kalarus M,Schuh H,Kosek W,et al.Achievements of the Earth orientation parameters prediction comparison campaign[J].Journal of Geodesy,2010,84(10): 587-596.   \n2 Tomasz N, Kosek W. Prediction of UT1-UTC,LOD and AAM $\\mathscr { X } _ { 3 }$ by combination of least-squares and multivariate stochastic methods[J].Journal of Geodesy,20o8,82(2):83-92.   \n3Liao DC,WangQJ,ZhouYH,etal.Long-term predictionoftheEarthorientation parameters bytheartificial neural network technique[J]. Journal of Geodynamics,2012,62(8): 87-925.   \n4Xu XQ,Zhou YH.EOP prediction using least square fiting and autoregressive filter over optimized data intervals[J]. Advances in Space Research,2015,56(10): 2248-2253.   \n5刘建，王琪洁，张昊.利用端部效应改正的 $\\mathrm { L S + A R }$ 模型进行日长变化预报[J].武汉大学学报：信息科学版， 2013，38（8）：916-919. Liu Jian,Wang Qijie,Zhang Hao.PredictionofLODchange basedontheLSandAR modelwith edge effctcorrcted[J]. Geomatics and Information Science of Wuhan University,2013,38(8): 916-919.   \n6雷雨，蔡宏兵.顾及最小二乘拟合端点效应的日长变化预报[J].天文研究与技术，2016，13（4）：441-445. Lei Yu,Cai Hongbing.Enhancing the prediction accuracyof the length ofdaychange by eliminating the edge-efectof least squares fitting[J].Astronomical Research & Technology,2016,13(4): 441-445.   \n7雷雨，蔡宏兵.应用端部效应改善的 $\\mathrm { L S + N N }$ 模型进行日长变化预报[J].飞行器测控学报，2016，35（3）：222-226. Lei Yu,Cai Hongbing.Prediction of length-of-day change based on $\\mathrm { L S ^ { + N N } }$ model with reduced edge effect[J].Journal of SpacecraftTT& Technology,2016,35(3):222-226.   \n8Gerard P,Brain L.IERSconventions (2Olo)[S].Germany:Verlag des Bundesamts fuir Kartographieund Geodasie,2011: 123-131.   \n9Huang GB,ZhuQY,Siew CK.Extremelearning machine:theoryand applications [J].Neurocomputing,2006,70(1-3): 489-501.   \n10雷雨，蔡宏兵，赵丹宁.样本输入方式对极端学习机预报日长变化的影响[J].天文研究与技术，2015，12（3）：299- 305. LeiYu,Cai Hongbing,Zhao Danning.Efectsof training paterns onpredictions of variationsof length of day using an extreme learning machine neural network[J].Astronomical Research & Technology,2015,12(3):299-305. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A least squares extrapolation model for UT1-UTC prediction method with consideration of the edge",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "effect ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Lei $\\mathrm { Y u } ^ { 1 , 2 }$ , Zhao Danning1,2,3, Cai Hongbing1,2   \n(1. National Time Service Center, Chinese Academy of Sceinces, Xi'an 710600, China; 2.Key Laboratory of   \nTime and Frequency Primary Standards, Chinese Academy of Sciences,Xi'an 7106o0, China; 3. University of Chinese Academy of Sciences,Beijing 10o049,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The prediction accuracy of UT1-UTC can be easily affected by the edge distortion of least squares (LS) fitting time-series, referred to as edge-effect in the data-processing domain, when periodic oscillations and residuals are separated by LS fitting. In order to alleviate the edgeeffect, the original UT1-UTC time-series is first extended on both boundaries by using a timeseries analysis model in this paper.A LS extrapolation model is then set up using the extended time-series. Finally UT1-UTC predictions are obtained by employing the combination of the edgeeffect correlated least squares (ECLS） model and a stochastic predication technology such as neural network (NN). The numerical experiments demonstrate that the edge-effect can be noticeably alleviated with the developed method. In addition, the accuracy of the UT1-UTC shortterm predictions is comparable with that by the conventional LS extrapolation-based prediction algorithm. However, the medium- and long-term predictions are significantly more accurate than those obtained by the proposed ECLS extrapolation-based prediction solution. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key Words: UT1-UTC prediction; Prediction model; Least squares (LS); Edge-effect; Edge extension ",
+        "page_idx": 8
+    }
+]

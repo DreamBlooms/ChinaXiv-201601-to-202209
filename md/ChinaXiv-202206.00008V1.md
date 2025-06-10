@@ -1,0 +1,155 @@
+# 河套灌区西部土壤盐渍化分异特征及其主控因素
+
+苏春利¹²，纪倩楠}²，陶彦臻1²，谢先军¹²，潘洪捷³(1.中国地质大学(武汉)环境学院,湖北武汉430074；2.国家环境保护水污染源与管控重点实验室，湖北 武汉430074；3.内蒙古自治区地质调查院,内蒙古 呼和浩特010020)
+
+摘要：由于长期引黄灌溉,河套灌区土壤广泛次生盐渍化,严重影响了区域经济和生态良性发展。通过对河套灌区西部临河区土壤盐渍化现状进行系统调查分析,查明了研究区内土壤盐渍化程度、类型及其分布特征，讨论了区域土壤盐渍化的主要影响因素和成因。结果表明：(1)研究区内 $5 0 \%$ 以上的土壤发生了不同程度次生盐渍化，呈斑块状分布,北部及东南部土壤盐渍化较严重,尤其是总干渠和黄济渠两侧的洼地;土壤主要盐分类型为 $\mathrm { { S O _ { 4 } } \mathrm { { - N a } } }$ 和$\mathrm { S O } _ { 4 }$ ·Cl-Na型。(2）研究区浅层地下水的总溶解固体(TDS)含量平均值为 $2 . 1 3 \ \mathrm { g \cdot L ^ { - 1 } }$ ，属于微咸水，平均水位埋深为$4 . 6 5 \mathrm { ~ m ~ }$ $6 5 \%$ 的调查点埋深小于 $3 \mathrm { m } _ { \mathrm { o } } ( 3 )$ 长期地表漫灌和冬季压盐引起的地下水位抬升和强烈的蒸发浓缩作用是形成高TDS地下水的直接原因,而较高的地下水盐度、浅层地下水位抬升和强烈的潜水蒸发引起的盐分上升是冲积平原土壤盐渍化的主要控制因素。
+
+关键词：土壤盐渍化；地下水位；含盐量；成因机理；灌溉；河套灌区
+
+土壤盐渍化作为一个普遍存在的环境问题，是引起土地生产力下降、农田退化和耕地流失，导致全球粮食短缺危机的重要因素[1-4]。据估计,到2050年，全球 $5 0 \%$ 以上的耕地可能发生盐碱化，其中大部分分布在干旱半干旱地区[5-8]。河套灌区是我国干旱半干旱地区的典型代表，也是内蒙古自治区乃至全国重要的商品粮、油、糖生产基地。但是由于降雨稀少，蒸发强烈，土壤母质含盐及地下水TDS含量高,导致灌区土壤次生盐渍化危害尤为突出[9-10],严重影响该地区农业生产和经济发展。
+
+表层土壤的盐分状况及其盐渍化程度是旱季条件下表层土壤盐分累积、迁移运动的最终反映[，也是土壤系统与水流之间的重要界面，包含大量的盐离子螯合和水运动信息[12]。在天然条件下，地下水位和地下水TDS被认为是水平地形土壤盐渍化的关键决定因素[13-14]。地下水是盐的运移、积累和排泄的主要地质动因。而土壤次生盐渍化，则是由于人类活动(如灌溉)的额外水分输入引起土壤剖面中盐分迁移积累的结果[15]。通过对河套灌区西部土壤盐渍化现状调查,查明了研究区内土壤盐渍化程度、成因类型及其分布特征，讨论了影响土壤盐渍化的主要控制因素，构建了河套地区土壤盐渍化成因模型，为干旱-半干旱地区土壤盐渍化防治提供参考。
+
+# 1研究区概况
+
+研究区位于内蒙古自治区巴彦淖尔市中部，居河套平原腹地，地处 $4 0 ^ { \circ } 3 3 ^ { \prime } 1 6 ^ { \prime \prime } { \sim } 4 1 ^ { \circ } 1 6 ^ { \prime } 3 1 ^ { \prime \prime } \mathrm { N }$ $1 0 7 ^ { \circ } 0 6 ^ { \prime } 1 3 ^ { \prime \prime } { \sim } 1 0 7 ^ { \circ } 4 3 ^ { \prime } 4 0 ^ { \prime \prime } \mathrm { E }$ ，坐落在黄河“几"字形弯曲上方，涵盖河套灌区三排干、黄济渠、四排干和永济渠周边地带，南与鄂尔多斯高原隔河相望，北靠阴山，总面积约 $2 2 1 2 \mathrm { k m } ^ { 2 }$ (图1)。河套灌区地属大陆性干旱、半干旱气候带，降水稀少，蒸发强烈，冬季严寒，夏季炎热，春季干燥多风，日温差大，多年平均降水量 $1 0 0 { \sim } 4 0 0 \ \mathrm { m m }$ ，年蒸发量2000\~2400$\mathbf { m } \mathbf { m }$ 。巴彦淖尔市现有耕地 $7 1 5 2 0 0 ~ \mathrm { h m } ^ { 2 }$ ,其中约$3 2 2 6 6 7 ~ \mathrm { h m } ^ { 2 }$ 耕地不同程度盐渍化，占耕地总面积的$4 5 . 1 \%$ 。现有轻中度盐碱地以种植向日葵等耐盐碱经济作物为主，重度盐碱地仅能生长稀疏碱草，无任何经济效益。
+
+1070'E 10730'E 1080'E 10830'E  
+10I4 乌拉特后 汗 四排 干 干 五排 县 10.I4杭绵后旗干 千 干排九排 临河 排干 工 黄河 鸟拉特前旗  
+40000 总干 K 乌梁素海 之 43000® 县级城市 □研究区 0 16 km1070'E 10730'E 1080'E 10830'E
+
+研究区海拔 $1 0 2 1 { \sim } 1 0 4 6 \mathrm { ~ m }$ ,地势西南高、东北低，坡降从 $0 . 0 1 2 5 \%$ 到 $0 . 0 2 5 \%$ ,从而导致地表径流不畅，地下径流滞缓。黄河从灌区南缘通过，处于灌区地势较高的位置，地下水流向与地面坡降基本一致。灌区长期大量引入黄河水灌溉,受黄河水补给的影响，部分低洼的地段地下水位埋深浅、蒸发作用强烈、土壤积盐量高[16]。研究区土壤质地为壤质到黏壤质，毛细管发达[17]，由于气候干旱，蒸发强烈，水盐通过毛细作用向地表迁移，导致灌区土壤盐渍化问题突出。
+
+# 2 样品采集与测试
+
+为了查明研究区土壤盐渍化主要类型及成因，于2018年9月在研究区均匀采集130组表层(0\~20cm耕作层)土壤样品和105件地下水样品。土壤盐分采样点包括荒地和耕地，同时考虑覆盖不同程度盐渍化的地块，采样点位置见图2。土壤样品由5点取样混合，并用四分法留取样品，采样时记录土样状态、岩性、采样点坐标、周边环境条件，样品保存应防止交叉污染。
+
+所有采集的土样风干，研磨，过 $2 \mathrm { m m }$ 筛后备用，然后以1：5的土水比浸提抽滤后进行土壤盐分测定。其中，土壤 $\mathrm { \ p H }$ 采用 $\mathrm { H A C H ~ H Q \cdot 4 0 - d }$ 便携式多功能参数仪测定，全盐量采用电导法和重量法相结合的测定方法。对采集的地下水现场测定水温、pH、ORP、EC以及碱度。水温、 $\mathrm { \ p H }$ 、ORP、EC通过已校正好的 $\mathrm { H A C H ~ H Q \cdot 4 0 - d }$ 便携式多功能参数仪测定，用滴定法测定碱度。用 $0 . 4 5 ~ { \mu \mathrm { m } }$ 混合纤维脂微孔水系滤膜过滤水样，用于主要阴、阳离子分析。其中，用于阳离子分析的水样用优级纯浓硝酸酸化至 $\mathrm { p H } { < } 2$ 。 $\mathrm { C l } ^ { - }$ 、 $\mathrm { S O } _ { 4 } ^ { 2 - }$ 、 $\mathrm { N O } _ { 3 } ^ { - }$ 等阴离子采用瑞士万通761CompactIC进行测定， $\mathrm { C a ^ { 2 + } , M g ^ { 2 + } , N a ^ { + } , K ^ { + } }$ 等阳离子采用ICP-OES测定。以上样品的分析均在中国地质
+
+1070'0"E 107°10'0"E 107°20'0"E 10730'0"E10740'0"E   
+10.01I0 11.11I0 渠   
+Y0.00 蛮会镇 百脑包镇·狼山镇 1 N,0.00 沙河镇· 南渠乡光荣乡 排 菜   
+10.00.00 杭锦后旗 四 济 40.0000 干召庙镇 乡 水 。。 地级城市 ： 临河 Y 乡镇 ： 河   
+10.0000 水采样点 . 双河 1,0.0000 水样采样点 总 0 4 km 1070'0"E 10710'0"E10720'0"E 10730'0"E10740'0"E
+
+大学(武汉)生物地质与环境地质国家重点实验室和环境学院实验中心完成。
+
+# 3结果与分析
+
+# 3.1土壤盐渍化程度和类型
+
+研究区土壤浸提液的 $\mathrm { \ p H }$ 、EC以及含盐量分析结果(表1)显示，土壤样品的 $\mathrm { \ p H }$ 变化范围为 $6 . 6 1 \sim$ $1 0 . 6 7 , 9 0 \%$ 以上的土样 $\mathrm { \ p H }$ 大于8.00(图3a)，表明研究区表层土壤碱性较大。研究区土壤盐渍化程度变化较大,含盐量在 $0 . 0 2 \% { \sim } 4 . 2 7 \%$ 。根据土壤盐化状况划分等级（表2）， $5 0 \%$ 以上的土壤发生了盐渍化(图3b)。其中，轻度盐渍化土壤占比 $2 1 . 7 \%$ ,中度盐渍化土壤占比 $8 . 5 3 \%$ ，重度盐渍化土壤占比$1 0 . 0 8 \%$ ,盐土或碱土占比 $1 2 . 4 \%$ 。
+
+为进一步确定研究区盐渍化土壤类型，选取具有代表性的26件土壤样品进行了主要阴阳离子分析。结果显示，研究区各阴离子在表层土壤中的平均含量为： $\mathrm { S O _ { 4 } ^ { 2 - } > C l ^ { - } > H C O _ { 3 } ^ { - } }$ ,各阳离子在表层土壤
+
+表1 土壤浸提液 $\mathbf { p H }$ 、EC和含盐量统计  
+Tab.1 Statistics of pH,EC and salt content of soil extract   
+
+<html><body><table><tr><td>项目</td><td>样本数</td><td>极小值</td><td>极大值</td><td>均值</td><td>标准差</td><td>变异系数</td></tr><tr><td>pH</td><td>130</td><td>6.61</td><td>10.67</td><td>8.82</td><td>0.68</td><td>0.077</td></tr><tr><td>EC/(mS·cm-1)</td><td>130</td><td>0.04</td><td>9.88</td><td>1.19</td><td>1.93</td><td>1.622</td></tr><tr><td>全盐量/%</td><td>130</td><td>0.02</td><td>4.27</td><td>0.51</td><td>0.84</td><td>1.623</td></tr></table></body></html>
+
+![](images/a7cc07da92d887a404eb42ca82454b5d60951c67fae70e7cb0701ed8f3ebf533.jpg)  
+图3土壤样品pH(a)和全盐量(b)频率   
+Fig.3 Frequency histogram of pH(a) and total salt content (b) of soil samples in study area
+
+# 表2土壤盐渍化分级标准
+
+Tab.2 Classification standardof soil salinization   
+
+<html><body><table><tr><td colspan="2">按盐分含量划分</td><td colspan="2">按Cl/SO划分</td></tr><tr><td>土壤含盐总量(干土重%)</td><td>土壤盐渍化程度</td><td>CI-/ SO-</td><td>土壤盐渍化类型</td></tr><tr><td><0.3</td><td>非盐渍土</td><td><0.2</td><td>硫酸盐</td></tr><tr><td>0.3~0.5</td><td>弱盐渍土</td><td>0.2~1.0</td><td>氯化-硫酸盐</td></tr><tr><td>0.5~1.0</td><td>中盐渍土</td><td>1.0-2.0</td><td>硫酸-氯化盐</td></tr><tr><td>1.0~2.0</td><td>强盐渍土</td><td>>2</td><td>氯盐</td></tr><tr><td>>2.0</td><td>盐土</td><td></td><td></td></tr></table></body></html>
+
+中的平均含量为： $\mathrm { N a ^ { + } { > } C a ^ { 2 + } { > } M g ^ { 2 + } { > } K ^ { + } }$ (表3)。其中$\mathrm { N O } _ { 3 } ^ { - }$ 离子百分比较大，说明除了农业灌溉之外，化肥施用影响也较大。土壤钠吸附比SAR平均值为3.13，说明土壤碱化程度较低。可溶性钠百分比(SSP)和钠钙镁比(SDR)均值分别为 $5 6 . 2 8 \%$ 和11.86，说明土壤中的阳离子以 $\mathrm { N a } ^ { + }$ 为优势离子，且土壤的钠质化程度较高。
+
+根据中国土壤科学学会土壤盐渍化等级标准[],按总盐浓度分为无盐土、微盐土、中盐土、强盐土和盐土(表2)。根据CI/ $\mathrm { S O } _ { 4 } ^ { 2 - }$ 的等效比，盐土类型包括氯化物、硫酸盐-氯化物、氯化物-硫酸盐和硫酸盐型。研究区土壤CI/ $\mathrm { S O } _ { 4 } ^ { 2 - }$ 平均比值为0.72,结合离子组成可知, $\mathrm { { S O _ { 4 } } \mathrm { { - N a } } }$ 和 $\mathrm { S O _ { 4 } \cdot C l \mathrm { - N a } }$ 是研究区主要的盐分类型[18]
+
+# 3.2土壤盐分空间分布特征
+
+借助ArcGIS软件中的地统计工具对临河区表层土壤含盐量进行插值，绘制了临河区土壤含盐量的空间分布图。由图4可知，重盐渍土及盐土主要分布在总干渠和黄济渠两侧地形较低的地区，洼地积盐较重，坡地积盐较轻，呈“大处在洼、小处在高”的斑状分布，与刘梅等["对杭锦后旗盐碱地现状研究结果一致。从整体情况来看，研究区北部及东南部土壤盐渍化较重，蛮会镇、白脑包镇北部、杭锦后旗东南部和双河镇是盐土及重盐化土的主要分布
+
+表3研究区表层土壤盐分含量及组成  
+Tab.3 Salt content and composition of in the study area   
+
+<html><body><table><tr><td>变量</td><td>pH</td><td>表层（0~</td><td>Ca</td><td>K%</td><td>Mg</td><td></td><td></td><td></td><td></td><td>HCO</td><td>SAR</td><td>SSP</td><td>SDR</td><td>Cl-/SO-</td></tr><tr><td>最小值</td><td>6.61</td><td>0.02</td><td>0.00</td><td>0.01</td><td>0.00</td><td>0.06</td><td>0.03</td><td>0.03</td><td>0.00</td><td>0.11</td><td>0.20</td><td>17.55</td><td>0.21</td><td>0.12</td></tr><tr><td>最大值</td><td>10.67</td><td>4.27</td><td>6.27</td><td>0.74</td><td>1.84</td><td>4.66</td><td>8.65</td><td>9.27</td><td>0.44</td><td>0.42</td><td>22.87</td><td>99.44</td><td>176.5</td><td>2.20</td></tr><tr><td>平均值</td><td>8.82</td><td>0.53</td><td>0.52</td><td>0.16</td><td>0.26</td><td>1.11</td><td>1.49</td><td>1.91</td><td>0.05</td><td>0.22</td><td>3.13</td><td>56.28</td><td>11.86</td><td>0.72</td></tr><tr><td>标准差</td><td>0.69</td><td>0.84</td><td>1.34</td><td>0.24</td><td>0.48</td><td>1.16</td><td>2.31</td><td>2.33</td><td>0.10</td><td>0.07</td><td>5.66</td><td>24.61</td><td>37.40</td><td>0.41</td></tr><tr><td>变异系数</td><td>0.08</td><td>1.58</td><td>2.59</td><td>1.53</td><td>1.84</td><td>1.04</td><td>1.55</td><td>1.22</td><td>2.02</td><td>0.33</td><td>1.81</td><td>0.44</td><td>3.15</td><td>0.58</td></tr><tr><td>偏度</td><td>0.25</td><td>2.65</td><td>3.72</td><td>1.65</td><td>2.85</td><td>1.67</td><td>2.41</td><td>1.98</td><td>3.11</td><td>1.24</td><td>3.13</td><td>0.09</td><td>4.00</td><td>1.84</td></tr><tr><td>峰度</td><td>0.73</td><td>6.87</td><td>14.71</td><td>1.30</td><td>7.58</td><td>2.64</td><td>5.58</td><td>3.84</td><td>10.55</td><td>2.22</td><td>9.08</td><td>-0.99</td><td>16.48</td><td>5.52</td></tr></table></body></html>
+
+1070'0"E10710'0"E107°20'0"E10730'0"E10740'0"E   
+11000 11.00I0 渠 蛮会镇 百脑包镇狼山镇   
+10.00 干 10.000 ·沙河镇 济 南渠乡 光荣乡 排 集   
+10.0000 。 杭锦后旗 添 44.0000 五里乡 四 水 八 一乡 土壤含盐量/% 干召庙镇   
+10.0000 0.32105 <0.3 城代关镇 O 临河 双河镇 X 河 >2 40.0000 0 4 km E 107°0'0"E10710'0"E107°20'0"E10730'0"E10740'0"E
+
+区；而四排干渠上游两侧、八一乡与八岱乡北部、南渠乡和干召庙镇附近的土壤含盐量在 $0 . 3 \%$ 以下，土壤盐渍化程度较轻。
+
+# 3.3土壤盐渍化的影响因素
+
+区域土壤盐渍化的主要影响因素包括地下水位、地下水含盐量、灌溉方式和潜水蒸发等。除此之外，其他次要因素，如植物蒸腾作用、水循环强度、水-岩相互作用以及灌溉水入渗导致的非饱和带盐分溶解[3]也可对土壤盐渍化产生影响。
+
+3.3.1地下水位及地下水含盐量研究区地下水位埋深普遍较浅(图5a)，变化范围为 $0 . 6 5 { \sim } 6 . 2 1 \mathrm { ~ m }$ ，平均水位埋深为 $4 . 6 5 \mathrm { ~ m ~ }$ ,平原内 $6 4 . 9 \%$ 采样点的地下水位埋深小于 $3 \mathrm { ~ m ~ }$ 。水位埋深超过 $5 \mathrm { m }$ 的地下水样占 $2 3 . 4 \%$ ,且主要分布在狼山山前地带，大多在 $1 0 \sim$ $2 0 ~ \mathrm { m }$ 。地下水作为盐分运移的主要载体，土壤盐分受地下水位影响显著。当地下水位小于临界深度（指不引起土壤严重积盐、且不危害作物生长的最小地下水埋深时)时，地下水中的盐分会随毛细水不断向上迁移到耕作层和地表。据报道，河套灌区一般砂性土地下水临界深度为 $3 \mathrm { ~ m ~ }$ 左右，黏性土为$5 \mathrm { m }$ 左右[20]。对比图3与图5a,中度至重度土壤盐渍化地区对应的地下水埋深较浅，水位埋深普遍小于$5 \mathrm { m }$ 。区域干旱-半干旱气候条件下，强烈的蒸发作用使得土壤盐分随地下水蒸发而向上迁移，蒸发后盐分留在土壤中，造成土壤盐渍化
+
+采集的105件地下水样的TDS含量分析结果显示， $8 0 \%$ 地下水为微咸水 $\left( 1 { \sim } 2 4 \ \mathrm { g } \cdot \mathrm { L } ^ { - 1 } \right) ,$ ， $2 0 \%$ 为淡水（204号 $( < 1 \mathrm { g } \bullet \mathrm { L } ^ { - 1 } )$ 。地下水TDS平均值为 $2 . 1 3 \ \mathrm { g \cdot L ^ { - 1 } }$ ,属于微咸水。电导率变化范围在 $0 . 6 9 { \sim } 1 0 . 8 9 \ \mathrm { m S ^ { \cdot } c m ^ { - 1 } }$ ,平均值为 $2 . 9 4 ~ \mathrm { m S } \cdot \mathrm { c m } ^ { - 1 }$ 。 $\mathrm { \ p H }$ 变化范围为7.23\~8.45,平均值为7.75,呈弱碱性。 $\mathrm { T D S } { < } 1 \ \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ 的水样主要为$\mathrm { { C l } \cdot \mathrm { { H C O } _ { 3 } - N a } }$ 型、 $\mathrm { . C l \cdot S O _ { 4 } \cdot H C O _ { 3 } \mathrm { - N a \cdot C a \cdot M g } }$ 型以及（ ${ \mathrm { C l } } \cdot { \mathrm { H C O } } _ { 3 } { - } { \mathrm { N a } } \cdot { \mathrm { M g } }$ 型水； $1 \ \mathrm { g \cdot L ^ { - 1 } } { \leqslant } \mathrm { T D S } { \leqslant } 4 \ \mathrm { g \cdot L ^ { - 1 } }$ 的水样主要为 $\mathrm { { C l } { \cdot } \mathrm { { H C O } _ { 3 } { - } N a } }$ 型水； $\mathrm { T D S } { > } 4 \ \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ 的水样主要为Cl-Na型水。对比图3与图5b,高TDS地下水主要分布在蛮会镇、双河镇等地区，与盐土及重盐化土的主要分布区基本一致。
+
+1,0.01I0 10700E 107°20'0"E 140.111I0 10700 渠 107°20'0"E   
+N,0.014 蛮会镇 百脑包镇狼山镇 干 N0.0It N,0.00 蛮会镇 百脑包镇·狼山镇 干 N0.010 沙河镇 沙河镇 聚 . 南 · 非瓜 菜 雅瓜 菜   
+10.0000 济 40.00.00 N,0.0100 济 10.0000 干召庙镇八一乡渠 地下水 城 干召庙镇 八一乡渠   
+1.0.0000 PO 河 40.0000 1:0.0000 . T 河 40.00000   
+1070'0"E 107°20'0"E 107°40'0"E 1070'0"E 107°20'0"E 107°40'0"E
+
+研究区浅层地下水位埋深与TDS之间的关系(图6)表明,TDS含量大于 $1 . 0 \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ 的地下水采样点，其地下水位埋深普遍小于 $3 \mathrm { m }$ ，证明蒸发作用对地下水TDS具有显著影响。部分地区地下水位埋深较大的地下水TDS含量也较高，可能是与浅层地下水之间存在水力联系，发生越流补给造成的。以土壤表层盐分含量为参考序列，对地下水位和TDS与土壤表层盐分含量进行灰色关联分析表明，两者与表层土壤盐分含量灰色关联度分别为0.85和为0.88，指示了地下水位和TDS对土壤盐渍化的重要影响。
+
+![](images/af1638802add9c3f197b40074c7035bd8cfc52ce00078ea11a5ec1ae7d76bfba.jpg)  
+图6研究区地下水位埋深与TDS含量的关系 Fig.6 Relationship between buried depth of groundwater level and groundwater TDS in the study area
+
+3.3.2农业灌溉和蒸发灌溉对土壤盐渍化的影响有两面性。一方面，在灌溉过程中，表层土壤累积的盐分会随灌溉水进到深层土壤或含水层21；另一方面，大规模地表漫灌会抬高地下水位，导致更多的潜水蒸发和盐分向上运动[22]。河套灌区长期采用大水漫灌方式，以引黄河水灌溉为主，每年灌水7次，包括6次作物生育期灌水和1次压盐保为目的的秋浇。据报道,河套灌区年引水量 $5 0 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ ，近年来由于指令性节水及水利和灌溉设施的兴建，引水量减少 $20 \%$ 以上，年引水量约 $4 0 { \times } 1 0 ^ { 8 } \mathrm { m } ^ { 3 [ 2 3 ] }$ 。大量灌溉回水入渗水使地下水位逐年抬高，但由于侧向径流不畅，导致地下水排泄缓慢，排水不充分。
+
+研究区域位于半干旱地区，年平均蒸发量高达$2 0 0 0 { \sim } 2 4 0 0 ~ \mathrm { m m }$ 。在强烈蒸发作用下，地下水和地下非饱和带中的盐分会向上运移，水走盐留，盐分在土壤表层积累，逐渐引起次生盐渍化。河套灌区年引入灌区盐量约 $2 . 8 0 \times 1 0 ^ { 6 } { \mathrm { t } }$ ,排出 $8 . 0 { \times } 1 0 ^ { 5 } { \sim } 1 . 3 0 { \times } 1 0 ^ { 6 } \mathrm { t } ^ { [ 1 4 ] }$ 每年积盐达 $1 . 2 0 { \times } 1 0 ^ { 6 } { \sim } 1 . 5 0 { \times } 1 0 ^ { 6 } \mathrm { t } ^ { [ 2 3 ] }$ 。潜水蒸发是加速土壤次生盐渍化的自然力，在强烈蒸发作用下，不仅地下水TDS含量升高，浅埋的地下水位也促使地下水中的盐分不断向表土的运移，诱发土壤次生盐渍化[24]。笔者所在团队前期对浅层地下水水化学和氢氧同位素分析25发现，区内地下水样氢氧同位素线性拟合蒸发线斜率为 $4 . 8 ( \delta \mathrm { D } { = } 4 . 8 \delta ^ { 1 8 } \mathrm { O } { - } 2 8 . 2 )$ ，小于当地大气降水线（包头气象站数据， $\mathrm { L M W L } { \cdot } \delta \mathrm { D } { = }$ $6 . 4 \delta ^ { 1 8 } \mathrm { O } \mathrm { - } 4 . 0 7 ^ { [ 2 5 ] }$ )斜率，说明区域内地下水受蒸发浓缩作用影响较大。区内地势低洼且水位埋深较浅地区，浅层地下水不断向汇集，并通过蒸发作用排泄，导致局部地区地下水不断浓缩，形成极高TDS含量的地下水。通过建立 $\mathrm { K } ^ { + } , \delta ^ { 1 8 } \mathrm { O }$ 和TDS关系对探讨作物水分汲取对于区域地下水的影响表明，植物汲取的水分通过蒸腾作用进人大气，这也是农耕区域浅层地下水排泄的一个重要途径[25]
+
+# 3.4土壤盐渍化成因机理
+
+河套平原是以黄河水为主要灌溉水源的农业区，在引黄灌溉过程中，大量灌溉回水入渗，且每年冬季大规模灌水压盐。一方面淋溶非饱和带盐分进入地下水，增加了灌区地下水的含盐量;另一方面提高了区域地下水位，增大了水力梯度，从而加剧了地下水循环。土壤盐渍化成因概念模型如图7所示。自然因素方面，研究区温差大，降水稀少，蒸发作用强烈，加之区内潜水埋深普遍小于 $5 \mathrm { ~ m ~ }$ （图5),形成了巨大的蒸发场。长年累月的强烈蒸发作用使得深层土壤和浅层地下水中的盐分随毛细作用上升积聚于土壤表层，导致土壤盐渍化。人为因素方面，研究区长期采用大量地表漫灌进行农作物灌溉和冬季压盐，淋滤和补给共同作用下，灌区地下水含盐量和水位逐渐升高。尤其是黄河河岸带，地下水头较高，向北径流进入冲积平原过程中，可进一步促进地下水系统中的水-岩相互作用程度，从而使得平原前缘地带地下水的盐度提高。另外，由于狼山山前侧向补给和总排干水的渗入，山前冲积扇上部地下水位也随之升高，向南部平原区径流。因此，从地质构造和气候特征，决定了灌区内的水循环过程为灌溉(降雨)-下渗-潜水蒸发型。在强烈的潜水蒸发和植物蒸腾(蒸散)作用下，随着灌区地下水位的逐渐升高，地下水中的盐分向地表迁移，在地表集聚，发生土壤次生盐渍化。
+
+综上所述，TDS含量大于 $1 \ \mathrm { m g \cdot L ^ { - 1 } }$ 的地下水样，其地下水位埋深普遍小于 $3 \mathrm { ~ m ~ }$ (图5)。作物生育期内潜水埋深为 $1 . 0 { \sim } 1 . 5 \ \mathrm { m }$ ,秋浇期埋深近 $0 . 5 \mathrm { ~ m ~ }$ ，潜水蒸发严重，盐分表聚现象明显[14.26]。在总排干渠附近，地下水位相对埋深较大，地下水TDS含量和土壤盐渍化程度仍较高。这是由于排干水含盐量高，下渗后蒸发返盐造成。总体而言，河套灌区土壤盐渍化具有天然和人为双重因素，冬季灌溉洗盐和灌溉回水淋溶，在一定时期一定程度上可以缓解盐渍化。但是，长期引水灌溉和强烈的蒸发作用，使得次生盐渍化逐年严重。采取有效措施将地下水埋深降低，控制在 $1 . 8 { \sim } 2 . 2 \ \mathrm { m }$ ,既有利于作物生长，又能一定程度缓解土壤次生盐渍化加重[25]
+
+![](images/b8bb4091f3a386657db802206627fac33d9884cffa71c0897dcf38ba584cb8da.jpg)  
+图7土壤盐渍化成因概念模型  
+Fig.7 Conceptual model of soil salinization in the Hetao Irrigation Area
+
+# 4结论
+
+(1）研究区土壤盐渍化程度变化较大，土壤含盐量在 $0 . 0 2 \% { \sim } 4 . 2 7 \%$ 之间，主要的盐分类型为 $\mathrm { S O } _ { 4 } -$ Na和 $\mathrm { S O _ { 4 } \cdot C l { - N a } }$ 。轻度盐渍化土壤占比 $2 1 . 7 \%$ ，中度盐渍化土壤占比 $8 . 5 3 \%$ ，重度盐渍化土壤占比$1 0 . 0 8 \%$ ,盐土或碱土占比 $1 2 . 4 \%$ ○
+
+(2）重盐渍土及盐土主要分布在总干渠和黄济渠两侧地形较低的地区及其中下游地带，洼地积盐较重，坡地积盐较轻，呈“大处在洼、小处在高"的斑状分布。研究区北部及东南部土壤盐渍化较重，蛮会镇、百脑包镇北部、杭锦后旗东南部和双河镇是盐土及重盐化土的主要分布区。
+
+（3）研究区浅层地下水TDS平均值为 $2 . 1 3 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 属于微咸水，呈弱碱性，主要水化学类型为Cl·$\mathrm { H C O _ { 3 } } { - } \mathrm { N a }$ 和 $\mathrm { { C l - N a } }$ 型。平均水位埋深为 $4 . 6 5 \mathrm { ~ m ~ }$ $6 5 \%$ 调查点埋深小于 $3 \mathrm { m }$ ○
+
+(4）长期漫灌和洗盐引起的地下水位抬升和强烈蒸发浓缩是形高TDS地下水的直接原因，而高盐地下水、地下水位埋深浅和强烈的潜水蒸发是影响冲积平原土壤盐渍化的主要因素。大量灌溉回水入渗，淋溶非饱和带盐分进人地下水，不仅增加了灌区地下水的含盐量，而且提高了地下水位，增大了水力梯度，加剧了地下水循环。河岸带高盐地下水向北进人冲积平原，不仅提高了前缘地带的地下水盐度，而且促进含水层中的水岩相互作用。狼山山前大量侧向补给和灌溉水的渗人导致冲积平原地下水位进一步升高，在强烈的地下水蒸发和植物蒸腾(蒸散)作用下，土壤发生次生盐渍化
+
+# 参考文献(References):
+
+[1]Tefera B, Sterk G. Land management, erosion problems and soil and water conservation in Fincha'a watershed,western Ethiopia [J].Land Use Policy,2010,27(4): 1027-1037.   
+[2]Shrivastava P,Kumar R. Soil salinity: A serious environmental issue and plant growth promoting bacteria as one of the tools for its alleviation[J]. Saudi Journal of Biological Sciences,2015,22(2): 123-131.   
+[3]Wu J,LiP,QianH,et al.Assessment of soilsalinizationbasedon a low-cost method and its influencing factors in a semi-arid agricultural area,Northwest China[J]. Environmental Earth Sciences, 2014, 71(8): 3465-3475.   
+[4]Pitman MG,André Luchli. Global Impact of Salinity and AgriculturalEcosystems[M].Salinity: Environment-Plants-Molecules,Springer Netherlands,2004.   
+[5]江贵荣,刘延锋,杨霄翼,等.干旱区剖面土壤盐分空间变异特 征及随机模拟[J].地质科技情报,2013,32(2):147-152.[Jiang Guirong,Liu Yanfeng,Yang Xiaoyi,et al. Spatial variability and stochastic simulation of soil salinity in the vertical profiles[J.Geological Science and Technology Information, 2013,32(2): 147-152.]   
+[6]王佳丽,黄贤金,钟太洋,等.盐碱地可持续利用研究综述[J].地 理学报,2011,66(5): 673-684.[Wang Jiali,Huang Xianjin, Zhong Taiyang,et al.Review on sustainable utilization of salt-affected land [J].Acta Geographica Sinica,2011,66(5): 673-684.]   
+[7] Vinocur B,Altman A.Recent advances in engineering plant tolerance to abiotic stress:Achievements and limitations[J]. Current Opinion in Biotechnology,2005,16(2): 123-132.   
+[8] Wang Y,Li Y,Xiao D.Catchment scale spatial variability of soil salt content in agricultural oasis,Northwest China[J]. Environmental Geology,2008,56(2): 439-446.   
+[9]窦旭,史海滨,苗庆丰,等.盐渍化灌区土壤水盐时空变异特征 分析及地下水埋深对盐分的影响[J].水土保持学报,2019,33 (3):246-253.[Dou Xu, Shi Haibin,Miao Qingfeng,et al. Temporal and spatial variability analysis of soil water and salt and the influence of groundwater depth on salt in saline irigation area[J]. Journal of Soil and Water Conservation,2019,33(3): 246-253.]   
+[10] 管孝艳,王少丽,高占义,等.盐渍化灌区土壤盐分的时空变异 特征及其与地下水埋深的关系[J].生态学报,2012,32(4): 1202-1210.[Guan Xiaoyan,Wang Shaoli, Gao Zhanyi, et al. Spatio-temporal variabilily of soil salinily and its relationship with the depth lo groundwater in salinization irigation district[J].Acta Ecologica Sinica,2012,32(4): 1202-1210.]   
+[11] 周在明,赵淑惠.华北半干旱平原区表层土壤盐分累积的影响 因素分析[J].干旱区地理,2015,38(5):976-984.[Zhou Zaiming, Zhao Shuhui, Influencing factors on surface soil salt accumulation in the semi-arid North China Plain[J].Arid Land Geography,2015, 38(5): 976-984.]   
+[12]Liu H, Chen W,Dong X, et al. Sustainable agricultural paradigm of mountain-oasis-ecotone-desert system in inland Manasi River Basin,Xinjiang Province,northwest China[C]//International Conference on Computer and Computing Technologies in Agriculture. Springer,Boston,MA,2008: 197-207.   
+[13]Fan X,Pedroli B,Liu G,et al.Soil salinity development in the Yellow River Delta in relation to groundwater dynamics[J].Land Degradation & Development,2012,23(2): 175-189.   
+[14]杜军,杨培岭,李云开,等.河套灌区年内地下水埋深与矿化度 的时空变化[J].农业工程学报,2010,26(7):26-31.[Du Jun, Yang Peiling,Li Yunkai,et al.Analysis of spatial and temporal variations of groundwater level and its salinity in Hetao Irrigation District[J]. Transactions of the CSAE,2010,26(7): 26-31.]   
+[15]Yu R,Liu T, Xu Y,et al.Analysis of salinization dynamics by remote sensing in Hetao Irigation District of North China[J].Agricultural Water Management,2010,97(12): 1952-1960.   
+[16] 景宇鹏,段玉,妥德宝,等.河套平原弃耕地土壤盐碱化特征[J]. 土壤学报,2016,53(6):1410-1420.[Jing Yupeng,Duan Yu,Tuo Debao,et al.Characteristics of salinization of deserted farmland in Hetao[J]. PlainActa Pedologica Sinica, 2016,53(6): 1410-1420.]   
+[17] 周利颖,李瑞平,苗庆丰,等.内蒙古河套灌区紧邻排干沟土壤 盐渍化与肥力特征分析[J].干旱区研究,2021,38(1):114-122. [Zhou Liying,Li Ruiping,Miao Qingfeng,et al. Characteristics of salinization and fertility of saline-alkali soil adjacent to drainage ditch in Hetao irrigation area of Inner Mongolia[J].Arid Zone Research,2021,38(1):114-122.]   
+[18]Wang J,Liu Y,Wang S,et al.Spatial distribution of soil salinity and potential implications for soil management in the Manas River watershed,China[J]. Soil Use and Management,2020,36(1): 93-103. [19] 刘梅,于东洋,刘宇杰,等.杭锦后旗盐碱地现状及改良措施[J]. 内蒙古农业科技,2017,45(3): 58-61.[Liu Mei,Yu Dongyang, Liu Yujie,et al. Saline alkali soil status and improvement measures of Hanggin Rear Banner[J]. Journal of Northern Agriculture,   
+2017, 45(3): 58-61.] [20] 崔亚莉,邵景力,韩双平.西北地区地下水的地质生态环境调节 作用研究[J].地学前缘,2001,8(1):192-197.[Cui Yali, Shao Jingli,Han Shuangping. Ecological environment adjustment by groundwater in Northwest China[J]. Earth Science Frontiers,2001,   
+8(1): 192-197.] [21]Tarchouna L G,MerdyP,Raynaud M,et al.Effects of long-term irrigation with treated wastewater.Part I: Evolution of soil physico-chemical properties[J].Applied Geochemistry,2010,25(11): 1703-710. [22] 王葆芳,杨晓晖,江泽平.引黄灌区水资源利用与土壤盐渍化防 治[J].干旱区研究,2004,21(2):139-143.[Wang Baofang,Yang Xiaohui,Jiang Zeping. Utilization of water resources and soil salinization control in the Dengkou Irrigated Area Inner Mongolia[J]. Arid Zone Research,2004,21(2): 139-143.] [23] 史海滨,杨树青,李瑞平,等.内蒙古河套灌区水盐运动与盐渍 化防治研究展望[J].灌溉排水学报,2020,39(8):1-17.[Shi Haibin,Yang Shuqing,Li Ruiping,et al.Soil water and salt movement and soil salinization control in Hetao Irrigation District: Current state and future prospect[J]. Journal of Irrigation and Drainage,2020,39(8): 1-17.] [24] 刘君,郭华良,刘福亮,等.包头地区大气降水&D和 $| \delta ^ { \mathrm { 1 8 } } \mathrm { O }$ 变化特 征浅析[J].干旱区资源与环境,2013,27(5):157-162.[Liu Jun, Guo Hualiang,Liu Fuliang,et al. The variations of stable isotopes (δD and $\delta ^ { 1 8 } 0$ ) in the precipitation in Baotou area[J]. Journal of Arid Land Resources and Environment, 2013,27(5): 157-162.] [25] 曾邯斌,苏春利,谢先军,等.河套灌区西部浅层地下水咸化机 制[J].地球科学,2021,46(6): 2267-2277.[Zeng Hanbin,Su Chunli,Xie Xianjun,et al. Mechanism of salinization of shallow groundwater in western Hetao Irrigation Area[J]. Earth Science,2021,46 (6): 2267-2277.] [26]马贵仁,屈忠义,王丽萍,等.基于ArcGIS空间插值的河套灌区 土壤水盐运移规律与地下水动态研究[J].水土保持学报,   
+2021,35(4): 208-215.[Ma Guiren,Qu Zhongyi,Wang Liping, et al.Research on soil water and salt movement and groundwater dynamics in Hetao Irrigation District based on ArcGIS spatial interpolation[J]. Journal of Soil and Water Conservation,2O21,35(4):   
+208-215.]
+
+# Differentiation characteristics and main influencing factors of soil salinization in the West of Hetao Irrigation Area
+
+SU Chunli¹²， JI Qiannan'²， TAO Yanzhen1²，XIE Xianjun'²，PAN Hongjie² (1.School of Environmental Studies,China University of Geosciences,Wuhan 43oO74,Hubei,China; 2.National Key Laboratory of WaterPollution Traceabilityand Control,Wuhan 43Oo74,Hubei, China; 3.Geological Survey Institute of Inner Mongolia,Hohhot O1Oo2o,Inner Mongolia,China)
+
+Abstract:As aresultof long-term irigation from the Yellow River, the Hetao Irrigation Area has experienced extensive soil secondary salinization, which seriously afects the development ofthe regional economy and ecology. The degree,type,and distribution characteristics of soil salinization in the western Hetao Irrigation Area,and he main factors affecting soil salinization are investigated.Results show that more than $50 \%$ of the soil samples in the study area were salinized to varying degres,which is distributed in patches and blocks.The degreeof soil salinization inthe north and southeast was serious than thatof other parts ofthe study area,especially in the depressions along the Main canal and Huangji canal. The main types of soil salinity were $\mathrm { S O } _ { 4 }$ -Na and $\mathrm { S O _ { 4 } \cdot C l - N a }$ The average total dissolved solids (TDS) of groundwater in the study area was $2 . 1 3 \ \mathrm { g \cdot L ^ { - 1 } }$ ,which is classified as brackish water. The average buried depth of groundwater level is $4 . 6 5 \mathrm { ~ m ~ }$ ,and $65 \%$ of the sampled wells were less than 3 m.High TDS groundwater,which is resulted from long-term flood irrigation and strong evaporation,is the direct cause ofsoil salinization.The main factors affcting soil salinization in alluvial plains include the elevated salinity of groundwater,shallow groundwater levels caused by agricultural irrigation,and strong evaporation of phreatic water.
+
+Keywords: soil salinization；groundwater level;salt content; formation mechanism； flood irrgation;Hetao Irrigation Area

@@ -1,0 +1,447 @@
+[
+    {
+        "type": "text",
+        "text": "黄河流域降水稳定同位素的云下二次蒸发效应",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "车存伟'，张明军}，王圣杰}²，杜勤勤，邱雪，马荣（1西北师范大学地理与环境科学学院,甘肃兰州730070;2陕西省河流湿地生态与环境重点实验室,陕西渭南714099)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：雨滴从云底降落到地面过程的云下二次蒸发现象会影响雨滴中的同位素比率，明确降水过程中稳定同位素的变化对研究流域水循环具有重要意义。基于全球降水同位素网络(GNIP)、相关文献同位素数据以及气象数据，首先建立局地大气水线(LMWL)定性分析了黄河流域云下二次蒸发与各气象要素间的关系，其次运用改进的 Stewart模型定量计算了蒸发剩余比 $( f )$ 和云底降水与地面降水的D-excess 之差 $( \\Delta d )$ 。结果表明：（1）黄河流域LMWL方程为： $\\delta ^ { 2 } \\mathrm { H } = 7 . 0 1 \\delta ^ { 1 8 } \\mathrm { O } + 1 . 2 5 ( n$ $= 2 9 3 , R ^ { 2 } = 0 . 9 2 )$ ,斜率和截距相比GMWL均较小，说明雨滴在下落过程中受到云下二次蒸发的影响。其中 $0 \\sim 1 0 \\ \\mathrm { m m }$ 的降雨事件对云下二次蒸发影响显著；气温越高，或者水汽压、相对湿度越小，云下二次蒸发越强烈。（2）季节变化上，从春季到冬季， $f$ 和 $\\Delta d$ 逐渐增大，云下二次蒸发逐渐减小。空间变化上，蒙甘区、蒙中区、晋陕甘区和渭河区的西安，年际间云下二次蒸发变化较大，而青南区、祁连－青海湖区、渭河区的平凉、长武、华山和鲁淮区年际差异较小。（3）降水中 $\\Delta d$ 和 $f$ 之间的线性关系在不同气象要素范围内有不同的数值，由于不同区域各气象条件存在差异，因此在应用经验公式时需考虑研究区的具体气象条件。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键 词：稳定氢氧同位素；云下二次蒸发；降水；黄河流域文章编号： 1000 -6060(2019)04 -0790-09(0790\\~0798)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "降水作为流域地表水体的主要补给来源，时刻参与着整个流域的物质循环与能量流动[1-2]。水体中的稳定氢氧同位素( $\\mathrm { \\Omega ^ { 2 } H }$ 和 $^ { 1 8 } 0$ )作为水分子的组成部分，已被广泛应用于水文和气候等领域的研究中[3-4]。空气中的水汽在一定条件下凝结成雨滴,雨滴在降落过程中发生的蒸发现象，即为云下二次蒸发[5-6]。特别是在干旱地区,云下二次蒸发更加显著[7]。自 DANSGAARD 提出 Rayleigh 分馏模式以来[8],该模式也被应用到区域水循环的研究中[9]。Rayleigh分馏模式有以下两个假设：首先气团运移过程中不受其他水汽的补给，其次雨滴降落过程中同位素值不发生变化。但已有研究表明，雨滴从云底降落到地面，在不同气象条件下会发生不同程度的云下二次蒸发[10-1]。Rayleigh 分馏模式未考虑雨滴下落过程中的二次蒸发，而此过程会使降水中同位素值发生变化，从而引起局地大气水线（Local Meteoric Water Line,简称LMWL）斜率和截距的变化[12-13] 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "STEWART利用实验方法计算了不同气象条件下蒸发对雨滴中稳定同位素的影响[14]；FROEHLI-CH 等[5]分析了云下二次蒸发对阿尔卑斯山降水中D-excess(D-excess $= \\delta ^ { 2 } \\mathrm { H } - 8 \\delta ^ { 1 8 } \\mathrm { O } \\stackrel { , } { }$ )的影响，得出降水中D-excess与雨滴蒸发比例存在约 $1 \\text{‰}$ 的线性关系，即雨滴蒸发量每增加 $1 \\%$ ,D-excess 降低约$1 \\text{‰}$ ;之后PENG等将线性关系进行反推，确定了中国台湾地区降水中D-excess与雨滴蒸发比例的关系[15]；CHEN等[16]、靳晓刚等[17]也利用PENG等[15]简化的公式计算了当地的云下二次蒸发程度。而后来研究发现通过简化的公式计算云下二次蒸发可能存在一定的误差[10-11],因此有必要将 Stewart模型进行改进，使计算结果更加准确。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄河是中国的第二长河，一直是同位素水文学关注的热点区域。苏小四等[18]利用黄河河水同位素分析了 $\\delta ^ { 1 8 } 0$ 和 $\\delta ^ { 2 } \\mathrm { H }$ 沿着径流方向的变化，得出蒸发是影响黄河水同位素变化的主要因素之一；李小飞等[19]利用GNIP数据研究指出黄河流域降水过程中存在云下二次蒸发现象，且二次蒸发的强弱与水汽压相关，但未进行定量计算。鉴于此，本文利用GNIP监测数据、相关文献数据以及气象数据，首先通过LMWL的斜率和截距定性探讨了黄河流域云下二次蒸发与各气象要素间的关系，其次将流域按照气候区进行划分，运用WANG等[10]改进的 Stew-art雨滴蒸发模型定量计算了蒸发剩余比 $( f )$ 和云底降水与地面降水的D-excess之差 $( \\Delta d )$ 的变化,有助于深入理解流域内部降水同位素云下二次蒸发的时空变化规律及其成因，为利用同位素手段研究流域水循环模式提供科学参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "黄河流域介于 $9 5 ^ { \\circ } 5 3 ^ { \\prime } \\sim 1 1 9 ^ { \\circ } 0 5 ^ { \\prime } \\mathrm { E } , 3 2 ^ { \\circ } 1 0 ^ { \\prime } \\sim$ $4 1 ^ { \\circ } 5 0 ^ { \\prime } \\mathrm { ~ N ~ }$ ,干流全长 $5 ~ 4 6 4 ~ \\mathrm { k m }$ ,流域面积 $7 . 9 3 \\times 1 0 ^ { 5 }$ $ { \\mathrm { k m } } ^ { 2 }$ ,地势西部高,东部低,呈阶梯状分布（图1）。由北向南气候分别为干旱、半干旱及湿润、半湿润气候,多年平均降水量为 $4 5 1 ~ \\mathrm { m m } ^ { [ 1 9 - 2 0 ] }$ 。由于降水的多少和气候区密切相关，因此根据中国气候区划[21],可将黄河流域分为7个二级气候区（分别为青南区、祁连一青海湖区、蒙中区、蒙甘区、渭河区、晋陕甘区和鲁淮区）。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b7f51945186dc962354449c79aab47efabb4aec5265f151b139b6d2fa1373a6c.jpg",
+        "img_caption": [
+            "图1黄河流域降水稳定同位素站点分布",
+            "Fig.1Distribution of sampling sites of precipitation stable isotopes in the Yellow River Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/77da96851b65a015e8c8c7d968620ed2ca8ad4ecca5b6e55ef40c71a63fb66a8.jpg",
+        "table_caption": [
+            "表1黄河流域降水同位素站点基本信息",
+            "Tab.1Basic information of sampling sites of precipitation isotopes in the Yellow River Basin "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>站点</td><td>纬度／N</td><td>经度/E</td><td>海拔／m</td><td>样品数</td><td>研究时段/年</td><td>数据来源</td></tr><tr><td>玛多</td><td>34.92</td><td>98.26</td><td>4300</td><td>11</td><td>2009—2010</td><td>文献[24]</td></tr><tr><td>西宁</td><td>36.62</td><td>101.77</td><td>2 261</td><td>1</td><td>1985—1987;1996—1999</td><td>文献［22]</td></tr><tr><td>兰州</td><td>36.05</td><td>103.88</td><td>1 517</td><td>41</td><td>1985—1987;1996—1999</td><td>GNIP</td></tr><tr><td>银川</td><td>38.48</td><td>106.21</td><td>1 112</td><td>33</td><td>1988—1992;1999—2000</td><td>GNIP</td></tr><tr><td>包头</td><td>40.67</td><td>109.85</td><td>1067</td><td>60</td><td>1986—1993</td><td>GNIP</td></tr><tr><td>太原</td><td>37.78</td><td>112.55</td><td>778</td><td>20</td><td>1986-1988</td><td>GNIP</td></tr><tr><td>延安</td><td>36.60</td><td>109.47</td><td>1020</td><td>12</td><td>1986-1987</td><td>文献[25]</td></tr><tr><td>平凉</td><td>35.53</td><td>106.70</td><td>1 570</td><td>9</td><td>2003—2004</td><td>GNIP</td></tr><tr><td>西安</td><td>34.30</td><td>108.93</td><td>397</td><td>60</td><td>1985—1993</td><td>GNIP</td></tr><tr><td>长武</td><td>35.20</td><td>107.67</td><td>1 200</td><td>18</td><td>2005—2006</td><td>文献[23]</td></tr><tr><td>华山</td><td>34.48</td><td>110.08</td><td>2 065</td><td>11</td><td>1986—1987</td><td>文献［25]</td></tr><tr><td>郑州</td><td>34.72</td><td>113.65</td><td>110</td><td>57</td><td>1985—1992</td><td>GNIP</td></tr><tr><td>封丘</td><td>35.00</td><td>114.53</td><td>68</td><td>13</td><td>2005—2006</td><td>文献[23]</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据来源",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用的降水同位素数据分为两部分：一部分来自于全球大气降水同位素网络（https：//nucleus.iaea.org/wiser/gnip.php）,共选用位于黄河流域的7个站点，分别为兰州、银川、包头、平凉、西安、太原和郑州。另一部分来自于相关文献[22-25],包括玛多、长武、封丘、西宁、延安和华山6个站点(表1）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文月平均气温、降水量和水汽压等气象数据来自于中国气象数据网（http：//data.cma.cn），中国气候区划数据来源于中国科学院资源环境科学数据中心（http://www.resdc.cn），黄河流域 $1 ~ \\mathrm { k m }$ 分辨率的DEM数据来自于地理空间数据云（http：//www.gscloud.cn）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "需要说明的是，计算LMWL时采用的同位素数据时间覆盖不完全一致，但不影响LMWL斜率和截距等内容的分析;而Stewart模型需输入气温、水汽压、相对湿度等气象数据而无需降水同位素数据，为使本研究更有时效性和代表性，统一按照1985—2015 年计算。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3局地大气水线的计算",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用最小二乘法回归（Ordinary least squares re-gression,简称OLSR)计算LMWL。其中LMWL的斜率、截距等主要参数通过澳大利亚核科学技术组织(ANSTO)研发的LocalMeteoricWaterLine Freeware软件（http://openscience.ansto.gov.au/collection/879)进行计算。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 改进的Stewart雨滴蒸发模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设云底降水与周边水汽达到同位素平衡状态,则云底降水与地面降水的D-excess之差$( \\Delta d ) ^ { [ 5 , 1 4 ] }$ 可通过如下公式计算：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta d = \\left( 1 - { \\frac { { } ^ { i } \\gamma } { 2 } } \\right) \\left( f ^ { i \\beta } - 1 \\right) - 8 \\left( 1 - { \\frac { { } ^ { i } \\gamma } { 1 8 } } \\right) \\left( f ^ { i \\beta } - 1 \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $i$ 为2和 $i$ 为18时分别表示氢同位素( $\\mathrm { \\Omega } ^ { 2 } \\mathrm { H } )$ 和氧同位素( ${ \\bf \\Phi } ^ { \\prime 1 8 } ( 0 )$ ， ${ ^ { 2 } \\gamma } _ { \\cdot } { ^ { 1 8 } \\gamma } _ { \\cdot } { ^ { 2 } \\beta }$ 和 $^ { 1 8 } \\beta$ 均由 STEWART[14]定义； $f$ 为雨滴经过下落过程后剩余质量占初始质量的比例， $^ { 2 } \\alpha$ 和 $^ { 1 8 } \\alpha$ 为氢氧同位素在水一气间的平衡分馏系数[26-28] ○",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "蒸发剩余比 $( f )$ ,WANG等[10]采用了如下算法：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf { = } \\frac { m _ { \\mathrm { e n d } } } { m _ { \\mathrm { e n d } } + m _ { \\mathrm { e v } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $m _ { \\mathrm { e n d } }$ 是雨滴落地时的质量 ${ \\bf \\Pi } ( \\ \\mathbf { g } ) \\ , m _ { \\mathrm { e v } }$ 是雨滴在降落过程中由于蒸发损失的质量 $\\mathbf { \\tau } ( \\mathbf { \\_ g } )$ ，可通过雨滴蒸发速率 $\\boldsymbol { r } _ { \\mathrm { e v } }$ 和雨滴的降落时间 $\\mathbf { \\chi } _ { t }$ 的乘积来表示。其中，雨滴落地时间可采用雨滴降落时的高度 $( \\Delta H )$ 和下落的末速度来计算[1,29-30]。而雨滴落地时的质量可通过雨滴半径和水的密度得到。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据 KINZER[31],参数 $\\boldsymbol { r } _ { \\mathrm { e v } }$ 可表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr _ { \\mathrm { e v } } = Q _ { 1 } Q _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $Q _ { 1 }$ 和 $Q _ { 2 }$ 分别表示气温 $( T )$ 与雨滴直径 $( D )$ 和相对湿度 $( R H )$ 的函数[1],参考WANG等[10]提出的双线性插值法得到不同气象条件下的 $Q _ { 1 }$ 和 $Q _ { 2 }$ 。在应用雨滴直径时,钱允祺等[32]得到黄土高原短阵型降雨雨滴直径在 $1 . 0 \\ \\mathrm { m m } \\sim 4 . 0 \\ \\mathrm { m m }$ 之间波动，而普通型降雨雨滴直径在 $0 . 8 \\ \\mathrm { m m } \\sim 3 . 3 \\ \\mathrm { m m }$ 之间波动，本文将不同雨型和雨强的雨滴直径进行平均，取 $D$ 为 $2 . 4 9 \\ \\mathrm { m m }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "雨滴从云底降落到地面的高度，即云高 $( \\Delta H )$ ，这里采用拉普拉斯压高公式[29]进行计算：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta H = 1 8 ~ 4 0 0 \\left( 1 - \\frac { \\mathrm { t } } { 2 7 3 } \\right) \\log \\frac { P } { P _ { _ { L C L } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mathbf { \\Psi } _ { t } \\mathbf { \\Psi } _ { \\mathbf { \\Psi } }$ 为气温， $P$ 为观测点的气压， $P _ { \\mathrm { { L C L } } }$ 是冷凝高度的气压 $\\left( \\mathrm { { h P a } } \\right) ^ { [ 3 3 ] }$ 。露点温度先用 Magnus Teten 公式求出初值,再用逐渐逼近的方法求出终值[34]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1大气降水同位素 $\\delta ^ { 2 } \\mathbf { H }$ 与 ${ \\delta } ^ { 1 8 } { \\bf { O } }$ 的相关关系",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CRAIG通过收集全球400多个样品（包括雨水、雪水、河水等)建立了全球大气水线方程(GlobalMeteoricWaterLine,简称GMWL），即 $\\delta ^ { 2 } \\mathrm { H } = 8 \\delta ^ { 1 8 } \\mathrm { O } +$ $1 0 ^ { [ 3 5 ] }$ ,不同地区 LMWL 的斜率和截距通常会偏离GMWL,LMWL斜率和截距的大小，可定性解释云下二次蒸发的强弱[12]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文依据位于黄河流域的GNIP站点数据以及相关文献数据共收集降水样本293份，因降雪样本对二次蒸发影响很小，基本可以忽略不计，因此这里主要研究降雨样本。并根据降雨量的不同，将样品分成4组，通过计算的斜率和截距判断不同降雨量条件下二次蒸发的强弱（表2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/4f4b8e1429e21c3dde233417afbf3d4491fe3d212db71f2854d6a8ad3dc044d4.jpg",
+        "table_caption": [
+            "表2黄河流域不同降雨量的大气水线方程",
+            "Tab.2Meteoric water line equations for different "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">precipitation amounts in the Yellow River Basin</td></tr><tr><td>降水量</td><td>样品数</td><td>降水量总 和／mm</td><td>斜率 截距／%</td><td>R²</td></tr><tr><td>范围／mm 全部降水</td><td>293</td><td>14 272.3</td><td>7.01</td><td>1.25 0.92</td></tr><tr><td>0~5mm</td><td>25</td><td>71.60</td><td>6.64 -2.85</td><td>0.96</td></tr><tr><td>5~10mm</td><td>22</td><td>165</td><td>6.75 -2.25</td><td>0.94</td></tr><tr><td>10~50mm</td><td>141</td><td>4080.1</td><td>6.80 0.43</td><td>0.88</td></tr><tr><td>>50mm</td><td>105</td><td>9 955.6</td><td>7.46</td><td>4.26 0.90</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表2可知黄河流域降雨样品LMWL方程为：$\\delta ^ { 2 } \\mathrm { H } = 7 . 0 1 \\delta ^ { 1 8 } \\mathrm { O } + 1 . 2 5$ （ $n = 2 9 3$ ， $R ^ { 2 } = 0 . 9 2$ ），斜率和截距相比GMWL均较小，说明雨滴在下落过程中受到云下二次蒸发的影响[12]。其次比较不同降雨量的LMWL方程，由表2可知随着流域降雨量的减少，方程的斜率和截距均呈现出规律性的递减，斜率由7.46 降至6.64,截距由 $4 . 2 6 \\text{‰}$ 降至 $- 2 . 8 5 \\% o$ 。斜率和截距越小，表明云卜二次蒸发越强烈，由此可推测由强烈的二次蒸发引起的同位素动力分馏主要出现在小降雨事件中，此结果也与前人研究相一致[12-13]。由表2可知 $> 1 0 \\ \\mathrm { m m }$ 样本的LMWL 斜率和截距平均分别为7.13和 $2 . 3 4 \\% o$ ，而 $0 \\sim 1 0 ~ \\mathrm { m m }$ 样本斜率和截距平均分别6.82和 $- 2 . 5 5 \\% o$ ,相比 $> 1 0$ $\\mathbf { m } \\mathbf { m }$ 样本云下二次蒸发更加强烈；因此下文对 $0 \\sim 1 0$ $\\mathbf { m } \\mathbf { m }$ 降雨样本的LMWL做重点探讨。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2气象要素对云下二次蒸发的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为判断云下二次蒸发与各气象要素间的关系，本文根据不同的气象要素变化范围，分别计算 $0 \\sim$ $1 0 \\ \\mathrm { m m }$ 降雨样本的LMWL斜率和截距（表3）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，随着气温的升高， $\\delta ^ { 1 8 } 0$ 和 $\\delta ^ { 2 } \\mathrm { H }$ 明显增大,在气温 $1 0 \\sim 2 0 ~ \\mathrm { ^ { \\circ } C }$ 范围内 $\\delta ^ { 1 8 } 0$ 和 $\\delta ^ { 2 } \\mathrm { H }$ 平均值分",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3黄河流域不同气温、水汽压和相对湿度的降水同位素和大气水线方程",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5e3eb0b3eec7a11966111b4f484ea225c6c1387829f55e2925e4f6d629477a70.jpg",
+        "table_caption": [
+            "Tab.3Precipitation isotope and meteoric water line equations for different air temperature，vapor pressure andrelative humidityin the YellowRiver Basin "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>气象</td><td>变化</td><td>样数</td><td>平</td><td>斜率 截距</td><td>R²</td></tr><tr><td rowspan=\"4\">气温/℃</td><td><0</td><td>14</td><td>-86.87 -12.70</td><td>6.43 -5.73</td><td>0.97</td></tr><tr><td>0~5</td><td>14</td><td>-58.97 -8.57 6.82</td><td>-0.40</td><td>0.93</td></tr><tr><td>5~10</td><td>8</td><td>-70.33 -9.79 6.45</td><td>-7.13</td><td>0.97</td></tr><tr><td>10~20</td><td>11</td><td>-26.60 -3.81 5.97</td><td>-3.81</td><td>0.57</td></tr><tr><td rowspan=\"4\">水汽压 /hPa</td><td>3</td><td>11</td><td>-84.81 -12.28</td><td>6.39</td><td>-7.40</td><td>0.98</td></tr><tr><td>3~6</td><td>24</td><td>-64.57 -9.33</td><td>6.72</td><td>-1.78</td><td>0.95</td></tr><tr><td>≥6</td><td>12</td><td>-34.52</td><td>-4.95 6.47</td><td>-2.41</td><td>0.86</td></tr><tr><td>50</td><td>9</td><td>- 77.94</td><td>- 11.08 6.93</td><td>-1.05</td><td>0.98</td></tr><tr><td rowspan=\"4\">度/%</td><td>50~60</td><td>17</td><td>-62.98</td><td>-9.17 6.29</td><td>-5.26</td><td>0.97</td></tr><tr><td>60~70</td><td>15</td><td>-45.59</td><td>-7.18 6.94</td><td>-0.48</td><td>0.90</td></tr><tr><td></td><td></td><td></td><td>-10.04 6.90</td><td>-13.80</td><td>0.85</td></tr><tr><td>70~80</td><td>6</td><td>-73.50</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "别为 $- 3 . 8 1 \\text{‰}$ 和 $- 2 6 . 6 \\text{‰}$ 。LMWL斜率降至5.97，表明气温越高，云下二次蒸发越强烈；其次比较不同水汽压 $( \\ d _ { V P } )$ 对二次蒸发的影响，可知随着 $\\boldsymbol { V P }$ 的增大， $\\delta ^ { 1 8 } 0$ 和 $\\delta ^ { 2 } \\mathrm { H }$ 明显增大。在 $V P < 3 \\mathrm { \\ h P a }$ 时LMWL斜率和截距均小于 $3 \\ \\mathrm { \\ h P a } \\ < \\ V P \\ < 6 \\ \\mathrm { \\ h P a }$ 和 ${ V P > 6 }$ $\\mathrm { { h P a } }$ ，由此推测水汽压越小，云下二次蒸发越强烈；相对湿度( $( R H )$ 对LMWL的影响中，当RH在 $5 0 \\% <$ $R H < 6 0 \\%$ 时，斜率和截距分别为6.29和 $- 5 . 2 6 \\text{‰}$ ，在此区间范围内云下二次蒸发最强烈。而当RH在其他区间时斜率平均6.92，对二次蒸发影响较小，主要原因是随着RH的增大使空气中水汽逐渐饱和, $\\boldsymbol { V P }$ 变大,由此造成二次蒸发逐渐减弱[12,36];综上所述，气温越高，或者水汽压和相对湿度越小，云下二次蒸发越强烈。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 云下二次蒸发的Stewart模型研究",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 黄河流域降水同位素云下二次蒸发的时间变化黄河流域蒸发剩余比 $( f )$ 的各月变化如图2所示，1月最高，中值超过 $9 6 . 0 4 \\%$ ，自1月\\~5月 $f$ 逐渐减小，二次蒸发逐渐增强，至5月达到峰值，中值降至 $8 6 . 2 3 \\%$ ,5月之后 $\\mathcal { I }$ 又逐渐增大，二次蒸发逐渐减小，11月 $\\sim$ 翌年1月，二次蒸发较小。季节尺度上，春季和夏季二次蒸发最为强烈、秋季次之，冬季最小。冬季降水多为固态形式，加之气温较低，因此云下二次蒸发较弱。而春夏季气温回升，降水形式由固态转化为液态，因此云下二次蒸发相比秋冬季较强。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6dc4fb4993221508943df07f1b612abb17521fefba4f78363baf0af11ad77753.jpg",
+        "img_caption": [
+            "2.3.2黄河流域降水同位素云下二次蒸发的空间变化图3显示了黄河流域1985年1月～2015年",
+            "图21985年1月 $\\sim 2 0 1 5$ 年12月黄河流域蒸发剩余比 $( f )$ 月变化",
+            "Fig.2Monthlyvariation of $f$ in the Yellow River Basin from January 1985 to December 2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8dab70b726231f6ce7b399cef4c1e098e91a4f09e1910390b0faa28be090cf3e.jpg",
+        "img_caption": [
+            "图31985年1月 $\\sim 2 0 1 5$ 年12月黄河流域蒸发剩余比 $( f )$ 空间变化",
+            "Fig.3Spatial variation of $f$ in the Yellow River Basin from January 1985 to December 2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "12月蒸发剩余比 $( f )$ 的空间变化。由图3a可知，春季以包头为代表的蒙中区北部 $f$ 最小( $4 \\%$ ），云下二次蒸发最为强烈，而蒙甘区、普陕甘区、渭河区的西安和以兰州为代表的蒙中区南部 $f$ 在 $80 \\%$ \\~$8 5 \\%$ 之间，以西宁为代表的祁连一青海湖区、渭河区的平凉和鲁淮区的郑州， $f$ 在 $8 5 \\% \\sim 9 0 \\%$ 之间，而以玛多为代表的青南区、渭河区的长武和华山、鲁淮区的封丘， $f$ 在 $9 0 \\% \\sim 9 5 \\%$ 之间，云下二次蒸发较微弱；夏季蒙中区北部的包头 $f$ 在 $8 0 \\% \\sim 8 5 \\%$ 之间，蒙甘区、蒙中区南部的兰州和晋陕甘区的延安， $f$ 在$8 5 \\% \\sim 9 0 \\%$ 之间，而祁连一青海湖区、渭河区、鲁淮区和晋陕甘区的太原, $f$ 均在 $9 0 \\% \\sim 9 5 \\%$ 之间;青南区 $f { > } 9 5 \\%$ ，云下二次蒸发最弱。秋季渭河区西部的平凉和长武 $f { > } 9 5 \\%$ ,云下二次蒸发较弱，其余区域 $f$ 均在 $9 0 \\% \\sim 9 5 \\%$ 之间；冬季渭河区、蒙甘区、和蒙中区北部， $f$ 均 $> 9 5 \\%$ ,覆盖面积在秋季的基础上有所增加，其余区域 $f$ 均在 $9 0 \\% \\sim 9 5 \\%$ 之间；从全年来看，黄河流域蒙甘区和蒙中区 $f$ 在 $8 5 \\% \\sim 9 0 \\%$ 之间，其余区域均在 $9 0 \\% \\sim 9 5 \\%$ 之间。综上可知，黄河流域云下二次蒸发秋冬季最弱，春夏季较强。空间分布上，蒙甘区、蒙中区、晋陕甘区和渭河区的西安，年际间二次蒸发变化较大，其余区域年际变化较小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图4为降水中 $\\Delta d$ 的空间变化特征。如图4a和4b 所示，蒙中区北部春夏季 $\\Delta d$ 均 $\\leqslant - 2 0 \\% o$ ，云下二次蒸发较强烈，蒙甘区由春季的 $\\leq - 2 0 \\text{‰}$ 升至夏季的 $- 2 0 \\% c \\sim - 1 5 \\%$ ,晋陕甘区和渭河区的西安， $\\Delta d$ 由春季的 $\\mathrm { ~ - ~ } 2 0 \\% o \\mathrm { ~ \\sim ~ } - 1 5 \\% o$ 升至夏季的 $- 1 5 \\text{‰}$ \\~$- 1 0 \\text{‰}$ ,青南区由春季的 $- 1 0 \\% o \\sim - 5 \\% o$ 升至夏季的$\\text{‰}$ ,祁连-青海湖区、渭河区西部和鲁淮区的东部, $\\Delta d$ 由春季的 $\\mathrm { ~ - ~ } 1 5 \\% o \\mathrm { ~ \\sim ~ - ~ } 1 0 \\% o$ 升至夏季的$- 1 0 \\% o \\sim - 5 \\% o$ ,而蒙中区南部、渭河区的长武、封丘和鲁淮区的西部，春夏季 $\\Delta d$ 均未发生变化;秋冬季相比春夏季 $\\Delta d$ 变化较弱，其中蒙甘区、蒙中区北部和渭河区的东部, $\\Delta d$ 均由秋季的 $\\mathrm { ~ - ~ } 1 0 \\% o \\sim \\mathrm { ~ - ~ } 5 \\% o$ 升至冬季的 $\\text{‰}$ ，云下二次蒸发变弱，渭河区西部的长武 $\\Delta d$ 秋冬季未发生变化，而平凉由秋季的$\\text{‰}$ 降至冬季的 $- 1 0 \\% o \\sim - 5 \\%$ ,原因可能与局地气候条件相关，其余区域均未发生变化；全年来看，蒙甘区、蒙中区、晋陕甘区和渭河区的华山， $\\Delta d$ 均在 $- 1 5 \\% o \\sim - 1 0 \\% o$ 之间,其余区域均介于 $- 1 0 \\text{‰}$ $\\sim - 5 \\text{‰}$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e879870b23d6e3aafe13963190b315050b63ff7bcda9c63faadfe58cf45bacb7.jpg",
+        "img_caption": [
+            "图41985年1月 $\\sim 2 0 1 5$ 年12月黄河流域降水中 $\\Delta d$ 空间变化",
+            "Fig.4Spatial variation of $\\Delta d$ in the Yellow River Basin from January 1985 to December 201: "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.3不同气象要素对过量气变化量与蒸发剩余比间关系的影响PENG等在分析中国台湾地区降水中D-excess的变化量 $( \\Delta d )$ 与蒸发剩余比$( f )$ 的关系时，发现二者存在约 $1 . 1 \\text{‰}$ 的关系，即蒸发量每增加 $1 . 1 \\%$ ,则降水中D-excess 减小约$1 . 1 \\text{‰}$ ,并提出相应的经验公式[15]。也有学者运用此结论,对其他区域做了相关研究[16-17]。为了量化黄河流域 $\\Delta d$ 与 $f$ 间经验公式在不同气象要素的适用范围，根据气温、降水量、相对湿度和水汽压的不同将各气象要素进行分类（图5）：由图可知，随着气温的升高、降水量和水汽压的减小， $\\Delta d$ 与 $f$ 间线性关系系数逐渐增大，从降水量 $5 \\sim 1 0 \\ \\mathrm { m m }$ 的$1 . 2 4 \\% o \\text{‰}$ 减小到气温 $0 \\sim 5 \\mathrm { ~ } \\mathrm { ~ \\textdegree C }$ 间的 $1 . 1 2 \\% o \\text{‰}$ ；在不同相对湿度范围内变化较大，其中 $5 0 \\% \\sim 6 0 \\%$ 区间内线性关系系数达到 $1 . 70 \\% o \\text{‰}$ ， $< 5 0 \\%$ 范围内线性关系为 $1 . 2 7 \\% o \\%$ ， $< 5 0 \\%$ 范围内线性关系较强的原因是由于 $R H$ 较低,大气相对干燥,雨滴在下降过程中受到强烈的蒸发[12-13],由此产生的同位素动力分馏使得 $\\Delta d$ 与 $f$ 关系较强，而 $5 0 \\% \\sim 6 0 \\%$ 区间内线性关系达到峰值 $( 1 . 7 0 \\% o / \\%$ )，表3中 $R H$ 在此区间内LMWL斜率为6.29，而在其他区间平均为6.92，出现明显的峰值，原因不仅与 $R H$ 较低有关，还可能受到降水量大小的影响。 $R H$ 在其余区间内线性关系平均为 $1 . 1 2 \\% o \\text{‰}$ 。由图5可知云下二次蒸发经验公式在不同气象条件下有不同的适用范围。一般地，气温越高，或者降水量、相对湿度和水汽压越小，云下二次蒸发越强烈，而不同区域各气象条件存在差异，因此在应用经验公式时需考虑研究区具体气象条件。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文利用GNIP数据、相关文献数据以及气象数据，对黄河流域降水同位素的云卜二次蒸发做了详细的探讨。相比前人研究云下二次蒸发的方法，文本利用改进的Stewart模型定量计算了雨滴从云底降落到地面的质量变化过程 $f$ 和降落时的高度$\\Delta H$ ，使计算结果更加准确，并且根据中国气候区划将黄河流域分为不同气候区进行研究，明确了黄河流域云下二次蒸发的空间分布格局。通过本文研究，得到以下结论：",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/5c129f86d46d98651fbc6555b43daf083217f525aead6512a919070d857e2c04.jpg",
+        "img_caption": [
+            "图51985年1月 $\\sim 2 0 1 5$ 年12月黄河流域不同气象条件下降水中 $\\Delta d$ 与蒸发剩余比 $( f )$ 间的关系Fig.5Relationship between $\\Delta d$ and $f$ at different meteorological conditionsin the Yellow River Basin fromJanuary 1985 to December 2015"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）根据降雨样品得出黄河流域LMWL方程为： ${ \\delta ^ { 2 } \\mathrm { H } } = 7 . 0 1 { \\delta ^ { 1 8 } } 0 + 1 . 2 5 \\left( { n = 2 9 3 , R ^ { 2 } = 0 . 9 2 } \\right)$ ，斜率和截距相比GMWL均较小，说明雨滴在下落过程中受到云下二次蒸发的影响。其中 $0 \\sim 1 0 \\ \\mathrm { m m }$ 的降雨事件对二次蒸发影响最为显著；气温越高，水汽压、相对湿度越小，云下二次蒸发越强烈。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）黄河流域云下二次蒸发在时间变化上存在明显的季节效应，春夏季较为强烈，秋冬季较弱，冬季降水多固态形式，气温较低，云下二次蒸发较小，春夏季气温回升，云下二次蒸发较强;空间变化上，蒙甘区、蒙中区、晋陕甘区和渭河区的西安，二次蒸发的年际变化较大，而青南区、祁连一青海湖区、渭河区的平凉、长武、华山和鲁淮区年际差异较小。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）降水中D-excess 的变化量 $( \\Delta d )$ 与蒸发剩余比 $( f )$ 具有较强的相关性，但不同气象条件下 $\\Delta d$ 与 $f$ 具有不同的线性关系。一般地，气温越高，或者降水量、相对湿度和水汽压越小，云下二次蒸发越强烈，而不同区域各气象条件存在差异，因此在应用经验公式时需考虑研究区的具体气象条件。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]ZHUGF,GUO HW,QIN D H,et al.Contribution of recycled moisture to precipitation in the monsoon marginal zone:Estimate based on stable isotope data[J].Journal of Hydrology,2O19,569：   \n423 -435. [2] SPRENGER M,LEISTERTH,GIMBEL K,etal.Iluminating hydrological processes at the soil-vegetation-atmosphere interface with water stable isotopes[J].Reviews of Geophysics,2016,54（3）：   \n674 -704.   \n[3] ZHANG MJ,WANG S J.Precipitation isotopes in the Tianshan Mountains as a key to water cycle in arid Central Asia[J].Sciences in Cold and Arid Regions,2018,10(1） :27 -37.   \n[4]LIU JT,GAO Z J,WANG M,et al. Stable isotope characteristics of different water bodies in the Lhasa River Basin[J].Environmental Earth Sciences,2019,78(3） :71.   \n[5]FROEHLICH K,KRALIK M,PAPESCH W,et al. Deuterium excess in precipitation of Alpine regions-moisture recycling[J]. Isotopes in Environmental and Health Studies,2008,44(1）:61-70.   \n[6］刘洁遥,张福平,冯起,等.西北地区降水稳定同位素的云下二 次蒸发效应[J].应用生态学报,2018,29（5）:109-118.［LIU Jieyao,ZHANG Fuping,FENG Qi,et al. Influence of below-cloud secondary evaporation on stable isotope composition in precipitation in northwest China[J].Chinese Journal of Applied Ecology,2018, 29(5):109 -118.]   \n[7］周盼盼.乌鲁木齐河流域云下二次蒸发效应对降水稳定氢氧 同位素的影响[D].兰州：西北师范大学,2017.［ZHOU Panpan.Effects of below-cloud secondary evaporation for stable hydrogen and oxygen isotopes in Urumqi River Basin[D]. Lanzhou: Northwest Normal University,2017.]   \n[8]DANSGAARD W.Stable isotope in precipitation[J]. Tellus,1964, 14(4) :436 -468.   \n[9]DRUHAN JL,MAHER K.The influence of mixing on stable isotope ratios in porous media;A revised Rayleigh model[J].Water Resources Research,2017,53(2）:1101-1124.   \n[10]WANG S J,ZHANG M J,CHE Y J,et al. Influence of below-cloud evaporation on deuterium excess in precipitation of arid Central Asiaand its meteorological controls[J]. Journal of Hydrometeorology,2016,17(7) :1973-1984.   \n[11］潘素敏,张明军,王圣杰.新疆夏季云下二次蒸发对雨滴稳定 同位素影响的定量研究[J].干旱区地理,2018,41（3）：56- 66.[PAN Sumin,ZHANG Mingjun, WANG Shengjie. Quantitative study of sub-cloud secondary evaporation effect on stable isotopes in raindrops during summer in Xinjiang[J].Arid Land Geography, 2018,41(3) :56 -66. ]   \n[12］孟玉川,刘国东.长江流域降水稳定同位素的云下二次蒸发效 应[J].水科学进展,2010,21（3）:327-334.[MENG Yuchuan, LIU Guodong.Effect of below-cloud secondary evaporation thestable isotopes inprecipitation over theYangtze RiverBasinJ].Advances in Water Science,2010,21(3）:327-334.]   \n[13］赵诗坤,庞朔光,文蓉,等.海河流域降水稳定同位素的云底二 次蒸发效应［J].地理科学进展,2015,34（8）：1031－1038. [ZHAO Shikun,PANG Shuoguang,WEN Rong,et al. Influence of below-cloud secondary evaporation on stable isotope composition in precipitation in the Haihe River Basin,China[J].Progress in Geography,2015,34（8）:1031-1038.]   \n[14]STEWART M K. Stable isotope fractionation due to evaporation and isotopic exchange of falling water drops:Applications to atmospheric processes and evaporation of lakes[J]. Journal of Geophysical Research,1975,80(9):1133-1146.   \n[15]PENG TR,WANG C H,HUANG C H,et al.Stable isotopic characteristic of Taiwan's precipitation:A case study of western Pacific monsoon region[J].Earth and Planetary Science Lettrs,2010, 289(3) :357 -366.   \n[16]CHEN FL,ZHANG M J,WANG S J,et al. Relationship between sub-cloud secondary evaporation and stable isotope in precipitation of Lanzhou and surrounding area[J]. Quaternary International, 2015,380(4) :68 -74.   \n[17］靳晓刚,张明军,王圣杰,等.基于氢氧稳定同位素的黄土高原 云下二次蒸发效应[J].环境科学,2015,36(4）:1241-1248. [JIN Xiaogang,ZHANG Mingjun,WANG Shengjie,et al.Efectof below-cloud secondary evaporation in precipitations over the Loess Plateau based on the stable isotopes of hydrogen and oxygen[J]. Environmental Science,2015,36(4）:1241-1248.]   \n[18］苏小四,林学钰,廖资生,等.黄河水 $\\delta ^ { 1 8 } 0 \\lrcorner \\delta \\mathrm { D }$ 和 $^ 3 \\mathrm { H }$ 的沿程变 化特征及其影响因素研究[J].地球化学,2003,32（4）:349- 357.[SU Xiaosi,LIN Xueyu,LIAO Zisheng,et al.Variation of isotopes in the Yellow River along the flow path and its affecting factors[J].Geochimica,2003,32(4）:349-357.]   \n[19］李小飞,张明军,王圣杰,等.黄河流域大气降水氢、氧稳定同 位素时空分布特征及其环境意义［J].地质学报,2013,87（2）： 269 -277.[LI Xiaofei,ZHANG Mingjun,WANG Shengjie,et al. Spatialandtemporalvariationof hydrogenandoxygenisotopesin precipitation inthe Yellow River Basin and its environmental significance[J].Acta Geologica Sinica,2013,87(2）:269-275.]   \n[20］赵兰兰,刘志雨,王金星.气候变化下的黄河流域极端水文现 象特征分析[J].水文,2015,35（5）:78-81.[ZHA0 Lanlan, LIU Zhiyu,WANG Jinxing.Analysis of extreme hydrological events characteristics of Yellow River Basin under climate change[J]. Journal of China Hydrology,2015,35(5）:78-81.]   \n[21］朱炳海.中国气候[M].北京;科学出版社,1962.［ZHU Binghai. Chinese climate[M].Beijing:Science Press,1962.]   \n[22］章新平,刘晶淼,田立德,等.亚洲降水中 $\\delta ^ { 1 8 } 0$ 沿不同水汽输 送路径的变化[J].地理学报,2004,59（5）：699－ 708. [ZHANG Xinping,LIU Jinmiao,TIAN Lide,et al.Variations of （20 $\\delta ^ { 1 8 } 0$ in precipitation along vapor transport pathsover Asia[J]. Journal of Geographical Sciences,2004,59(5）:699 -708.]   \n[23]LIU JR,SONG XF,YUAN G F,et al. Characteristics of $\\delta ^ { 1 8 } 0$ in precipitation over Eastern Monsoon China and the water vapor sources[J].Chinese Science Bulletin,2010,55(2）:200-211.   \n[24]REN W,YAO T D,YANG X X,et al. Implications of variations in （20 $\\delta ^ { 1 8 } 0$ and δD in precipitation at Madoi in the eastern Tibetan Plateau[J].Quaternary International,2013,313-314:56 -61.   \n[25］张生春.陕西省现代大气降水氢氧稳定同位素组成特征研究 [J].陕西地质,1989,7(2）:57-66.[ZHANG Shengchun.Characteristics of hydrogen-oxygen isotope compositions of contemporarily atmospheric sedimentation in Shaanxi Province[J]. Geology of Shaanxi,1989,7(2):57 -66.]   \n[26]FRIEDMAN I,O'NEIL JR. Data of geochemistry: Compilation of stable sotope fractionation factors of geochemical interest[R].US Government Printing Office,1997.   \n[27]CRISS RE.Principlesof stable isotope distribution[M].New York,USA:Oxford University,1999.   \n[28］MERLIVAT L. Quantitative aspects of the study of water balances in lakes using the deuterium and oxygen-18 concentrations in the water[C]//Proceedings of a Symposium on Use of Isotopes in Hydrology.1970:89 -107.   \n[29]BERBERAN-SANTOS M N,BODUNOV E N,POGLIANI L.On the barometric formula[J].American Journal of Physics,1997,65 (5) :404 -412.   \n[30]BEST A C.Empirical formulae for the terminal velocity of water drops faling through the atmosphere[J]. Quarterly Journal of the RoyalMeteorological Society,1950,76(329） :302-311.   \n[31]KINZERGD,GUNNR.The evaporation,temperature and thermal relaxation-time of freely falling waterdrops[J].Journal of Meteorology,1951,8(2):71-83.   \n[32］钱允祺，陶士珩.黄土高原降雨雨滴最终速度的分布律[J].西 北农业大学学报，1998,26（5）：20-24.［QIANYunqi，TAO Shiheng.Distribution of raindrop's terminal velocity in the Loess Plateau［J].Acta University Agricultural Boreali-occidentalis, 1998,26(5):20-24.]   \n[33］BARNES SL.An empirical shortcut to the calculation of temperature and pressure at the lifted condensation level[J].Journal of AppliedMeteorology,1968,7(3）:511.   \n[34］MURRAY F W.On the computation of saturation vapor pressure [J].Journal of Applied Meteorology,1967,6（1）:203-204.   \n[35]CRAIG H. Isotopic variation in meteoric waters[J].Science,1961, 133(3465):1702-1703.   \n[36］陈粉丽.基于大气降水稳定同位素的兰州市水循环研究[D]. 兰州：西北师范大学,2016.［CHENFenli.Watercycle research in Lanzhou City based on stable isotope in precipitation［D]. Lanzhou:Northwest Normal University,2016.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Influence of sub-cloud secondary evaporation on stable isotope composition in precipitation in the Yellow River Basin ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CHE Cun-wei’， ZHANG Ming-jun'， WANG Sheng-jie1²，DU Qin-qin', QIU Xue'， MA Rong1 (1Collegeof Geographyand Environmental Science,Northwest Normal University,Lanzhou73o7O,Gansu,China; 2KeyLaboratoryfor Ecologyand Environmentof River Wetlands in Shaanxi Province,Weinan714099,ShaanxiChina) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The sub-cloud secondary evaporation of raindrops which happens during their faling processfrom the cloud base to the ground affects the stable isotopicratios intheraindrops.Itisof great significance to understand thechanges of the stable isotopes in precipitation in the study of water cycle in a watershed.In this paper,the isotope data in precipitation were acquired from the Global Network of Isotopes in Precipitation(GNIP)and therelated literatures across the Yellow River Basin.The relationship between sub-cloud secondary evaporation and meteorological elements was analyzed using local meteoric water line(LMWL).Based on an improved Stewart model,the change of the evaporation remaining ratios of raindrops $( f )$ and the difference of D-excess from sub-cloud to ground （204号 $( \\Delta d )$ were quantitatively calculated.In this model,the heights offalling raindrops were estimated as lifting condensation level(LCL)using the in-situ meteorological measurements.The stations cover the main climate zones across the Yellw River Basin,which can represent an integrated patern of sub-secondary evaporation in the study region. The results showed that the LMWL of the Yellow River Basin is $\\delta ^ { 2 } \\mathrm { H } = 7 . 0 1 \\delta ^ { 1 8 } \\mathrm { O } + 1 . 2 5$ （ $n = 2 9 3$ ， $R ^ { 2 } = 0 . 9 2$ ）,and both the slope and the intercept of LMWL are smaller than that of the global meteoric water line(GMWL）,which indicates that precipitation isotopes are affcted by the sub-cloud secondary evaporation.The precipitation of $0 \\sim 1 0$ （204号 mm per month indicates a significant sub-cloud evaporation effct.Andthe higher air temperature（or the lower vapor pressure and relative humidity）may result in the greater sub-cloud secondary evaporation.There was an obvious seasonality of evaporation remaining ratio and D-excess changes in the basin.From spring to winter, $f$ and $\\Delta d$ were gradually increased,and sub-cloud secondary evaporation was graduall decreased.According to the climate zoning in China,the larger inter-annual variability in sub-cloud evaporation was exhibited in the sub-regions ofInner Mongolia-Gansu,Central Inner Mongolia,Shanxi-Shaanxi-Gansuand part of Weihe River（especially Xi'an）.In contrast,smaller inter-annual trend was seen in the sub-regions of northern Qinghai,Qilian Mountains-Qinghai Lake, part of Weihe River（Pingliang,Changwu and Huashan）,and Shandong-Huaie River.The linear relationship between $\\Delta d$ and $f$ was different under various meteorological conditions as well as geographic locations,and the regression coefficient in the empirical formula should be treated according to local meteorological backgrounds. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:stable isotopes of hydrogen and oxygen；sub-cloud secondary evaporation；precipitation；the Yellow River Basin ",
+        "page_idx": 8
+    }
+]

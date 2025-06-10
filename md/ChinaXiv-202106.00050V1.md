@@ -1,0 +1,253 @@
+# 宁夏降水资源格局演变特征
+
+王素艳¹2，李欣³，王璠³，马阳³，张雯，黄莹³，高睿娜³(1.中国气象局旱区特色农业气象灾害监测预警与风险管理重点实验室,宁夏 银川750002；2.宁夏气象防灾减灾重点实验室,宁夏 银川 750002；3.宁夏回族自治区气候中心，宁夏 银川 750002)
+
+摘要：利用1961—2019年宁夏20个气象站逐日气象资料以及农业用水量和耗水量等资料,采用数理统计方法，从降水量的时空差异、潜在蒸散量和降水量差值、持续"湿"和"干"过程时长、关键等雨量线、不同等级降水日数和降水强度及其对降水量的贡献、农业用水量和耗水量等方面，从1961—1982年、1983—2010年、2011—2019年3个时段分析了宁夏降水资源在西北暖湿化背景下的演变特征。结果表明：(1)年降水量总体呈减少趋势,阶段性特征明显、区域性和季节性差异大,各地、各季节在2011年以来降水量增多,且超过1961—1982年和1983—2010年。(2）区域间降水量增加幅度差异增大及年际间的不同步,尤其中雨量和大雨量的变化差异使得区域间降水之差越来越大,南北“暖湿"和"暖干"现象同时出现的几率增大;(3）潜在蒸散量增加,降水量减少,两者之差增加,中北部春季、南部山区秋季增加最多;(4)引黄灌区持续"干"时长增长,春、夏旱或春夏连旱仍然频繁发生,农业耗水量占用水量比例仍然较大，中南部持续"干"时长缩短,持续"湿"时长增长；(5）总体上， $2 0 0 ~ \mathrm { m m }$ 等雨量线有南移趋势，$4 0 0 \mathrm { m m }$ 等雨量线的西侧有南移趋势,2010年以来随着降水量增加有所北移；(6)降水总日数减少,降水强度增强;小雨日数均为减少趋势,大部分量级降水强度呈增强趋势;春季中雨量和大雨量、夏季大雨量和暴雨量、秋季小雨量和中雨量的变化对总雨量的变化作用突出。总体上,2011年以来降水增多有利于生态环境恢复，然而也会使得极端降水及无雨日数增加,增加了城市内涝、山洪泥石流等次生灾害的风险,同时,南北差异增大,增加了防灾减灾难度。
+
+关键词：宁夏；降水量；降水格局；演变特征；西北暖湿化
+
+在全球气候变暖的大背景下，气候变化问题一直受到关注。“暖”和“湿”是最重要的两种气候属性，“变暖变湿"意味着气温升高、降水增加。西北地区与全球一样，自工业革命以来的100多年气温一直在波动上升，上升幅度比全球和全国上升更大[1],尤其从20世纪80年代开始升温显著加速，所以西北地区正在变暖的趋势是确定无疑的。但西北地区位于青藏高原北侧，地域辽阔、地形复杂，是气候变化敏感区，就降水而言，区域间差异很大，80年代中期开始，西北地区以黄河为界，以西区域降水逐渐增加，我国西北地区从暖干向暖湿转型；施雅风等[3将西北地区气候变化分为显著转型区、轻度转型区和未转型区，而甘肃中东部地区、宁夏、陕西和青海东部地区为未转型区，其西部为轻度转型区和显著转型区；张强等4研究得出：西北地区整体暖干化趋势明显，局部出现暖湿现象，尤其西北地区东部暖干化趋势明显，且雨量线不断南撤，半干旱区逐渐南扩。21世纪初，西北地区东部也出现了降水波动增加的趋势[5]；以夏季风北边缘线为界，东部与西部其年际、年代际和总体趋势变化均表现出显著的晓晓板现象[5-7]。长期极端缺水的西北地区，由于近些年降水量的增加，“变暖变湿”成为焦点，尤其宁夏近些年降水持续增加，且南部山区2019年首次出现单站降水量超过 $1 0 0 0 ~ \mathrm { { m m } }$ ，加之当前黄河流域生态保护和高质量发展的需求，对“暖湿化"现象的关注度更高。
+
+宁夏位于西北地区东部，三面环沙，干旱少雨，是唯一全境属于黄河流域的省份，也是典型的生态脆弱区，作为西北地区重要的生态安全屏障，承担着维护西北乃至全国生态安全的重要使命[8]。虽然面积不大，南北相距仅 $4 5 6 ~ \mathrm { k m }$ ,然而由于独特的地理地貌特征，南北气候差异大：南部山区年降水量在 $4 0 0 \mathrm { m m }$ 以上，生态环境脆弱，是国家14个集中连片特困地区之一，也是北方重要的分水岭(半湿润与半干旱区分界线）；北部引黄灌区年降水量200$\mathbf { m } \mathbf { m }$ 以下，是季风气候和非季风气候的分界线以及中国干旱区与半干旱区分界线;介于北部和南部之间的是中部干旱带，年降水量 $2 0 0 { \sim } 4 0 0 ~ \mathrm { m m }$ （图1）。降水是制约宁夏尤其中南部地区生态环境、农牧业发展的主要因素；引黄灌区虽然有黄河灌溉，但受黄河水量调度限制，供用水矛盾突出，同时，湖泊湿地面积达 $2 . 2 \times 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ ,补水主要依靠黄河水和地下水，但年补水量仅能维持基本需水，自然降水和蒸发量之间的不平衡仍然是影响其水量平衡的因素之一[9]。随着气候变暖,热量资源更加充沛,然而蒸散也会随之增大，极端降水事件增多，降水格局的演变将带来更大的影响。
+
+![](images/4dfad50f820dd039dc9a2366b1629fd92194c97026fe04d5076b3ea6ffafe7b5.jpg)  
+图1宁夏分区图  
+Fig.1Regions in Ningxia
+
+对于宁夏降水资源的变化研究，在2004年前基于年降水量和季节降水量的变化特征研究成果较多[10-12],近年来又陆续有一些关于西北地区降水总体及强度变化的研究成果，总体降水量有减少趋势,降水日数减少,强度增强[5-7.13-17],夏季极端降水日数呈微弱减少趋势[18]。近年来宁夏气候时空差异显著，对当地生态环境及经济发展具有不同的影响，上述研究大多将宁夏全区平均降水量(日数)或将西北地区东部平均降水量(日数)作为研究对象，且以总体变化趋势研究居多；目前气温仍在持续升高，降水总体有增多趋势，在这种背景下，与生态环境发展息息相关的降水时间、空间、强度、极端降水、关键等雨量线、降水量和蒸散量差、降水量对农业耗水量的影响等格局到底发生了怎样的变化？是否有新的特征？本文将从这些方面分析，揭示在西北暖湿化背景下宁夏降水资源总体及阶段性格局演变的新特征，为科学看待西北地区气候暖湿化现象、为建设黄河流域生态保护和高质量发展先行区提供科学依据。
+
+# 1资料和方法
+
+# 1.1资料
+
+气象资料采用来自中国气象局国家气象信息中心提供的宁夏20个气象观测站1961—2019年逐日降水量、平均气温、最高气温、最低气温、风速、气压、水汽压、日照时数、相对湿度等，资料均经过质量控制,缺测率低于 $0 . 0 1 \%$ ,缺测数据采用同一气候区、地理地貌相同且相关系数通过0.001显著性检验的参考站资料进行插补订正。其中引黄灌区11个，中部干旱带5个，南部山区4个(图1)。副热带高压强度指数和印度洋海盆模指数来源于国家气候中心业务内网http://cmdp.ncc-cma.net/cn/monitor-ing.htm#basic。所用引黄灌区灌溉供水量和耗水量来自宁夏回族自治区2001—2016年水资源公报。
+
+# 1.2时间序列分析方法
+
+计算序列的气候趋势系数以描述其上升或下降的幅度，气候趋势系数采用最小二乘法计算；利用t检验法对气象要素的变化显著性进行检验，以0.05的显著性水平作为检验显著性的标准；采用M-K方法进行要素突变检验；采用EOF方法进行空间分布特征分析，具体方法见文献[19」。
+
+# 1.3潜在蒸散量及其与降水量差
+
+根据世界粮农组织(FAO)推荐的FAO(1998)推荐的Penman-monteith 公式[20]：
+
+$$
+E T _ { \mathrm { 0 } } = \frac { 0 . 4 0 8 \Delta \big ( R _ { \mathrm { n } } - G \big ) + \gamma \frac { 9 0 0 } { T + 2 7 3 } U _ { \mathrm { 2 } } ( e _ { \mathrm { s } } - e _ { \mathrm { a } } ) } { \Delta + \gamma ( 1 + 0 . 3 4 U _ { \mathrm { 2 } } ) }
+$$
+
+式中： $E T _ { 0 }$ 为潜在蒸散量 $( \mathrm { m m \cdot d ^ { - 1 } } ) ; R _ { \mathrm { n } }$ 为地表净辐射$( \mathrm { M J } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 } )$ · $\Delta$ 为饱和水汽压曲线斜率( $\mathrm { { k P a } \cdot \mathrm { { ^ { \circ } C ^ { - 1 } } } } ,$ ; $G$ 为土壤热通量 $( \mathrm { M J } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 } )$ ; $\gamma$ 为干湿常数 $( \mathrm { { k P a } } \cdot \mathrm { { ^ { c - 1 } ) } }$ $T$ 为地面平均气温 $( \mathrm { ^ { \circ } C } )$ $U _ { 2 }$ 为 $2 \mathrm { m }$ 高风速 $\left( \mathbf { m } { \cdot } \mathbf { s } ^ { - 1 } \right)$ ，由气象站 $1 0 \mathrm { m }$ 处的平均风速根据FAO推荐公式转换;
+
+$e _ { \mathrm { a } }$ 为实际水汽压 $\left( \mathrm { { k P a } } \right)$ ； $e _ { \mathrm { s } }$ 为平均饱和水汽压 $\left( \mathrm { { k P a } } \right)$ 0
+
+降水量与潜在蒸散量的差 $W D$ ，用如下公式表示：
+
+$$
+W D = E T _ { \mathrm { 0 } } - R
+$$
+
+式中： $R$ 为降水量。
+
+1.4不同量级降水量对总降水量贡献率的变化
+
+$$
+C _ { { P } } = \frac { P _ { \mathrm { { d } 2 } } } { P _ { { t } 2 } } \times 1 0 0 - \frac { P _ { \mathrm { { d } 1 } } } { P _ { { t } 1 } } \times 1 0 0 \
+$$
+
+式中： $C _ { p }$ 为某量级降水量贡献率的变化； $P _ { \mathrm { d } 2 }$ 为下一时段某量级降水量; $P _ { t 2 }$ 为下一时段总降水量; $P _ { \mathrm { d 1 } }$ 为上一时段某量级降水量； $\boldsymbol { P } _ { t { 1 } }$ 为上一时段总降水量。
+
+本文气候值取1981—2010年平均值。
+
+# 2 结果分析
+
+# 2.1降水时空变化特征
+
+2.1.1降水阶段性变化特征首先从宁夏全区平均年降水量总体变化趋势来看，为减少趋势，减少幅度 $0 . 9 \ \mathrm { m m \cdot ( 1 0 a ) ^ { - 1 } \big [ \left( 0 . 3 \% \cdot ( 1 0 a ) ^ { - 1 } \right) \big ] }$ ；在20世纪80年代中期宁夏降水并未有明显增加趋势，其中1983年之前为极速减少趋势，之后虽略有增加，但总体上在2010年之前呈减少趋势，每10a减少 $1 0 ~ \mathrm { m m }$ ,期间降水偏多频率 $4 8 \%$ ，甚至在2004—2010年7a间有6a偏少，是1961年以来偏少频率最高时段，此期间出现了罕见的2004—2006年、2008年、2010年严重干旱;2011年以来持续9a偏多，也是降水偏多持续最长时段，平均值超过1983年之前平均值(图2);各区域年降水量变化趋势基本相同，中部干旱带减少幅度最大，引黄灌区最小。
+
+从季节降水量总体变化趋势来看，仅有冬季各区域降水量均为增加趋势，增加幅度 $9 . 5 \% { \sim } 1 0 . 6 \%$ ·$( 1 0 \mathrm { a } ) ^ { - 1 }$ ,引黄灌区最大，南部山区最小;其他3个季节各区域趋势表现不一致，且均不显著：春季引黄灌区和南部山区为增加趋势，中部干旱带减少；夏季引黄灌区减少，中南部增加；秋季与夏季相反。从阶段性变化特征来看，各季节差异大，但同一季节内各区域较为一致：只有春季降水量在1983年开始有增多趋势，降水偏多频率由之前的 $1 8 \% { \sim } 4 5 \%$ 增加到 $4 8 \% { \sim } 5 7 \%$ ，但降水偏多时段主要出现在1983—1993年、2010—2019年；夏季在1997年之前以偏多为主，偏多频率在 $5 0 \% { \sim } 6 0 \%$ ，1997—2011年经历了偏少时段，偏少频率达到 $6 0 \% { \sim } 7 3 \%$ ,2012年开始再次进入偏多时段；秋季在2000年之前有明显减少趋势，且1979—2000年期间偏少频率达到 $70 \% { \sim } 8 0 \%$ ，进人21世纪，降水明显增多，偏多频率达到 $6 0 \%$ 2$8 0 \%$ ；冬季虽然具有增加趋势，但在1996—2013年期间中北部也曾经历了长达18a的偏少时段，偏少频率达到 $70 \% { \sim } 8 0 \%$ ,而南部山区则持续增多。也正是由于这样的阶段性特征，使得各区域春、夏、秋季节总体趋势变化并不显著。
+
+通过M-K突变检验表明，1961年以来宁夏年降水无突变点（图略），本文以1983年、2011年为时间界限，从1961—1982年、1983—2010年、2011—2019年3个时段分析在西北暖湿化背景下宁夏降水资源时空格局演变特征。
+
+由表1和图3可知，在1961—1982年、1983—2010年和2011年以来，3个时段平均降水量差异较大，但总体上2011年以来各区域四季降水量均较前2个时段增加。1983—2010年降水量与之前相比,春季、冬季增加,其中春季引黄灌区增加达 $2 3 . 3 \%$ ，
+
+![](images/a8fd10bcb9038c5a8ab0fa4fd2fb7e99082e12aa133e7c3ede2573f6e99a931a.jpg)  
+图2宁夏全区平均年降水变化  
+Fig.2Precipitation change in Ningxia
+
+表1西北地区暖湿化以来宁夏降水变化  
+Tab.1 Precipitation change in Ningxia since the warm-humid in Northwest China   
+1%
+
+1983—2010年较1961—1982年变化 2011—2019年较1983—2010年变化 2011—2019年较1961—1982年变化  
+时间引黄灌区 中部干旱带 南部山区 引黄灌区 中部干旱带 南部山区 引黄灌区 中部干旱带 南部山区  
+春 23.3 3.9 1.7 -3.7 5.1 26.0 15.2 8.9 27.7  
+夏 -3.7 3.7 -3.4 5.4 6.3 14.6 1.5 9.9 11.1  
+秋 -14.2 -24.9 -21.8 45.4 48.6 29.0 28.8 15.5 1.1  
+冬 46.4 21.4 37.8 10.2 35.2 23.9 41.9 52.8 51.3  
+年 -1.4 -3.5 -6.8 12.0 15.5 20.1 10.6 11.9 12.8(a)P1983—2010-P1961-1982 (b)P2011-2019-P1983—2010 (C) P2011-2019-P1961-1982201000230450 春夏秋冬 8 春夏秋冬 春夏秋冬引黄灌区 中部干旱带 南部山区 引黄灌区 中部干旱带 南部山区 引黄灌区 中部干旱带 南部山区注：P1961-1982、P1983-2010 $\cdot \mathrm { P } _ { 2 0 1 1 - 2 0 1 9 }$ 分别为1961—1982年、1983—2010年、2011—2019年的平均降水量。下同。
+
+冬季各区域增加 $2 1 . 4 \%$ 以上，夏季变化幅度较小，且仅有中部干旱带略增加，秋季各区域减少幅度在$1 4 . 2 \%$ 以上；从变化量来看，引黄灌区春秋季、中部干旱带和南部山区均为秋季降水量的变化对其年总降水量的变化贡献大。2011年以来，中北部秋季降水量较前2个时段增加最多，为 $1 5 . 5 \%$ 以上，对全年降水量的增加贡献突出；南部山区降水量与1983一2010年平均降水量相比较，春、夏、秋季增加均较明显，最小的夏季也达到 $1 4 . 6 \%$ ，贡献都较大，与1961—1982年平均降水量相比较，则春季和夏季增加明显，贡献较大，为 $1 1 . 1 \%$ 以上。
+
+2.1.2降水空间差异演变特征宁夏降水量阶段性特征、区域性和季节性差异较大；各区域年际间变化也不同步，使得区域间差异增大，且以南部山区和引黄灌区之间的差异最大。由南部山区和引黄灌区降水距平百分率的滑动相关表明，两者之间的相关系数2005年以来发生突变，造成南部山区和引黄灌区降水差异在2005年前后显著增大(图4)，距平百分率符号相反率在2011年以来尤其突出；因此，采用EOF方法进一步分析空间格局演变特征。结果表明，春季和秋季前三个模态特征值的累积方差贡献达到 $8 5 \%$ ,夏季仅为 $7 8 . 2 \%$ ,其中第一模态为全区一致型，特征值的方差贡献春季最大，为$7 2 . 1 \%$ ，夏季和秋季分别为 $5 7 . 1 \%$ 和 $6 0 . 0 \%$ ;第二模态为引黄灌区和中南部相反型，秋季特征值的方差贡献最大，达到 $1 9 . 6 \%$ ,其次为夏季 $1 2 . 7 \%$ ，春季为$1 0 . 6 \%$ ;第三模态为南北一致、中部相反型，特征值的方差贡献在 $10 \%$ 以内(图5)。本文重点分析前两个模态时间系数的变化特征。
+
+在1983年前，宁夏春季降水存在两种主要空间分布，一种为全区一致偏少，频率为 $5 0 \%$ ，且大部分年份引黄灌区偏少幅度大于中南部，一种为引黄灌区偏少中南部偏多，频率为 $3 1 . 8 \%$ ;在西北地区变暖湿以来的1983—2004年，以全区一致偏少为主；2005年以来，第二模态再次占主导，尤其在降水明显增多的2011年以来，南部山区连续8a偏多，且偏多幅度基本都在 $2 0 \%$ 以上，中部干旱带也有6a偏多，而引黄灌区只有1a偏多在 $2 0 \%$ 以上，其他年份接近常年或偏少 $20 \%$ 以上。
+
+与春季空间分布不同，夏季虽然第一模态特征值的方差贡献不大，但结合历年降水距平百分率，发现在2005年之前全区一致频率高达 $8 0 \%$ ,但北部异常幅度大于中南部；2005年以来空间一致的分布状态减弱，取而代之的是第二模态，频率达到 $6 0 \%$ ，且以北多中南少占优势，其中2011年以来有5a为第二模态。
+
+秋季降水在1978年之前以全区一致偏多和北少中南部偏多两种空间分布所占频率高;1979—2000年间以全区一致偏少及北多中南部偏少两种空间分布多，频率高达 $8 1 . 8 \%$ ,其他年份为北少中南
+
+![](images/10e779eb2bf736bdb7e69f49e2b6dd03e10af470c78eb1f518727e8153dabecc.jpg)  
+图4夏季南部山区和引黄灌区降水距平百分率滑动相关系数变化  
+Fig.4Sliding correlation coefficient variation between the precipitation anomaly percentage in South mountainous area and irrigation area of the Yellow River in summer   
+图5宁夏夏季降水前三个模态的特征向量分布  
+Fig.5Eigenvector distribution of the first three patterns of summer precipitation in Ningxia
+
+N004 ()第06 107E No04 No00 (b)第楼06E 107E 1第06E 107E N00   
+N6 大武 N6 乐 乐   
+N088 青 青银 N88 H 也 也 甘   
+NL 寸 NL 麻黄山 黄出 N 海原 原   
+N9 西吉固 西 N90 图例 图例   
+355 图0.1\~0.2 0.2\~0.3 经 3 0 0\~0.1 82-83 0.3\~0.4 2.02.0 0\~0.1 =0.1-0 0.3\~0.4 220 105E 106E 107E 105E 106E 107E 105E 106E 107E
+
+部多；2001年以来，虽然降水都有增加趋势，但由于引黄灌区降水增加幅度更大，使得宁夏降水再次除了全区一致偏多频率增加外，北多中南部少的空间分布也随之增多，两者共 $1 5 \mathrm { ~ a ~ }$ ,频率达到 $7 9 \%$ ,其中6a北多中南部少的空间分布中有5a发生在2011年以来，其他4a中仅有1a全区偏少，3a北少中南部多。
+
+三个季节各年代降水距平百分率呈第二模态分布的频率分析表明，各季节2011—2019年的频率均高于其他年代。
+
+由此可见，在西北地区变暖湿的背景下，宁夏南北不但增加幅度差异大，且年际间不同步，导致区域间降水之差越来越大，区域上南部山区和引黄灌区差异更大，时间上则春季差异更大(图6)。从降水量的变化分析其原因，春季差异大，主要是引黄灌区增加不显著、南部山区增加明显所致；夏季和秋季主要是两者之间的年际间不同步更加显著，也就是说，当引黄灌区降水偏多时南部山区则偏少，反之亦然，“暖湿"和“暖干"两极分化在同一年中明显。海温是影响全球气候异常的主要外强迫信号，通过分析海温对宁夏降水的影响，发现引黄灌区和中南部对其响应不完全相同，如中部型厄尔尼诺次年，宁夏春季降水量以南多北少为主；印度洋海盆模指数近年来也发生了明显的年代际变化（图7),其对宁夏南部春季降水的影响更加显著[22]；另外，宁夏处于东亚夏季风北部边缘，一般夏季风强时对应副热带高压偏强，脊线位置偏北，总体上有利于宁夏降水偏多，然而副热带高压的强度和脊线位置进退对宁夏南北降水的影响差异大；在气候变暖的背景下，夏季副热带高压强度明显增强，尤其2009年以来增强显著，这也可能是造成宁夏夏季降水差异的主要原因之一，如2016年8月，副热带高压偏北偏强，宁夏南部山区长期受副热带高压控制，而引黄灌区位于副高边缘，从而使得南部山区降水明显偏少，引黄灌区明显偏多；而2017年、2019年与此相反，南部山区降水异常偏多，引黄灌区却偏少(图7)。一个地区气候异常是多个影响因素协同作用的结果，而大气环流是最直接的影响因子，众所周知，随着气候变暖海冰显著减少，海温也有明显的阶段性特征，海冰放大效应及其与海温、积雪等外强迫因子协同影响大气环流进而影响宁夏气候区域间差异的机理研究并不多。
+
+![](images/58340d8d90d836c654864ab386ec59e06fb1b1e7552fa28bc5911ea6dda56fc9.jpg)  
+图6宁夏南部山区和引黄灌区降水量差值率 Fig.6Difference rateof precipitationbetween southernmountainous area and irrigation areaofYellowRiverinNingxia
+
+# 2.2潜在蒸散量 $E T _ { 0 }$ 和降水量差值 $W D$ 的时空演变 特征
+
+多年平均 $E T _ { 0 }$ 由北到南分别为 $1 1 0 8 . 4 ~ \mathrm { m m }$ 、$1 1 2 1 . 6 \ \mathrm { m m } . 8 5 4 . 4 \ \mathrm { m m }$ ;1961年以来，均呈增加趋势，增加幅度由北到南分别为 $1 2 \ \mathrm { m m } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 } \cdot 5 \ \mathrm { m m } \cdot$ （20$\left( 1 0 \mathrm { a } \right) ^ { - 1 }$ 及 $1 0 \mathrm { m m } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ ,引黄灌区和南部山区通过显著性检验。由于 $E T _ { 0 }$ 增加、降水量减少，使得 $W D$ 增加,增加趋势 $4 \sim 1 2 ~ \mathrm { m m } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ ,中部干旱带最小,引黄灌区最大(图8）。
+
+各区域 $E T _ { 0 }$ 均为夏季最多，秋季最少，春季在$2 6 6 . 5 { \sim } 3 4 9 . 0 ~ \mathrm { m m }$ ,夏季在 $3 4 4 . 5 { \sim } 4 6 2 . 3 ~ \mathrm { m m }$ ，秋季在$1 5 8 . 1 { \sim } 2 0 7 . 5 ~ \mathrm { m m }$ 。除中部干旱带夏季 $E T _ { 0 }$ 呈弱的减小趋势，减小速率 $1 \mathrm { m m } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ ,中部干旱带春、秋季节以及引黄灌区和南部山区各季节 $E T _ { 0 }$ 均为增加趋势，增加幅度春季 $>$ 夏季 $>$ 秋季，但仅有引黄灌区和南部山区的春季通过0.05的显著性检验，增加幅度分别为 $6 \mathrm { m m } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ 和 $4 ~ \mathrm { { m m } \cdot ( 1 0 a ) ^ { - 1 } }$ 。各季节中，除中部干旱带夏季 $W D$ 呈减小趋势外，其春、秋季及引黄灌区和南部山区各季节 $W D$ 均呈增加趋势，中北部春季增加趋势最大，分别为 $6 \mathrm { m m } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ 和 $5 \mathrm { m m }$ $( 1 0 \mathrm { a } ) ^ { - 1 }$ ,南部山区则秋季最大，为 $7 \mathrm { m m } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ 。但各季节 $E T _ { 0 }$ 都分别在1980年前后至1998年前后出现过趋势上的变化，即在此时段之前(第一时段)为减小趋势，此期间(第二时段)为增加趋势，之后(第三时段)再次为减小趋势，尤其以第二时段增加趋势和第三时段减少趋势明显;其中在第二时段，引黄灌区各季节增加趋势为 $3 8 { \sim } 6 6 ~ \mathrm { m m } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ ,中部干旱带为 $7 { \sim } 2 4 \ \mathrm { m m } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ ,南部山区为 $8 { \sim } 5 5 \ \mathrm { m m } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ 均为春季最大;在第三时段,减小幅度明显小于第二时段的增加幅度，引黄灌区减小趋势为 $9 { \sim } 2 1 ~ \mathrm { m m }$ $( 1 0 \mathrm { a } ) ^ { - 1 }$ ,中部干旱带为 $1 { \sim } 1 6 \ \mathrm { m m } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ ,南部山区为$1 1 { \sim } 1 3 \ \mathrm { m m } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ ，中北部夏季减小趋势最大，春季最小，南部山区则相反。因此，由表2可见，在西北暖湿化以来的两个时段（1983—2010年、2011—2019年）的 $W D$ 平均值与1983年之前的平均值相比较，中北部春季递增，中部干旱带夏季递减，引黄灌区夏、秋季和中部干旱带秋季、南部山区各季节均为“先增加后减少”，中北部秋季及南部山区各季节2011—2019年平均 $W D$ 小于或等于之前两个时段，尤其南部山区秋季降水量接近 $E T _ { 0 }$ 。春夏季为宁夏农业生产关键期，夏季虽然WD有所减少，但减少幅度并不显著，因此，春、夏季降水量供需矛盾仍然较大。
+
+![](images/b77602b5e3e51c13e2bcddd34210c94476c973b07530e6bedaff1d5b7e904723.jpg)  
+图7印度洋海盆模指数和副热带高压强度指数变化  
+Fig.7Index of Indian Ocean basin mode and subtropical high
+
+![](images/6d7c54fe89f15ffe14cb6cbe511b47216f9d2b7b2bedea22dc26d816a4103f56.jpg)  
+图8宁夏各区域年WD变化Fig.8WD variation in Ningxia
+
+# 2.3持续"湿”、“干"时长变化特征
+
+月尺度降水距平百分率 $\leq - 4 0 \%$ 时为干旱[23],结合宁夏冬季降水少的特点，以持续2个月以上的干旱过程(如果该过程仅出现在冬季3个月内，则不计入其中)的最长持续月份表示持续“干"时长，其中至少有1个月降水偏少 $4 0 \%$ 以上；同时，以持续降水偏多的月份表示持续“湿"时长。结果表明，引黄灌区持续“干"时长总体上有弱的缩短趋势，1983年之前，除1981—1982年持续17个月降水偏少，其他年份大部分在3\~7个月，平均5个月，大部分为春、夏旱或春夏连旱；1983年以来，尤其1983—2003年期间大部分年份在3\~5个月，平均4个月，全年都有发生，但2004年以来持续时间增长，平均4.1个月，且变率增大，6\~7个月的年份频率达到 $3 7 \%$ ,较1961—2003年高 $12 \%$ ,较1982年之前还略高，在降水增多明显的2011年以来仍然有3a持续6\~7个月，又恢复为春、夏旱或春夏连旱。然而，在持续“干"时长有所缩短的情况下，持续“湿"时长总体上并没有呈增加趋势，1983年之前持续3个月以上频率达到$5 0 \%$ ,最多年有6个月，1983年以来持续2个月和未出现过持续"湿"的年份增多，其中1983—2010年期间年平均2.1个月，较之前减少0.2个月，值得关注的是，2011年以来都在2\~4个月，较1983—2010年间增加0.9个月，达到显著增加水平。
+
+表2宁夏不同时段WD  
+Tab.2 WD in each period in Ningxia /mm   
+
+<html><body><table><tr><td></td><td>时段/年</td><td>春季</td><td>夏季</td><td>秋季</td><td>年</td></tr><tr><td>引黄灌区</td><td>1961—1982</td><td>314.0</td><td>338.8</td><td>143.9</td><td>880.7</td></tr><tr><td rowspan="4">中部干旱带</td><td>1983—2010</td><td>322.4</td><td>353.7</td><td>163.7</td><td>927.7</td></tr><tr><td>2011—2019</td><td>324.6</td><td>341.5</td><td>133.2</td><td>882.3</td></tr><tr><td>1961—1982</td><td>292.9</td><td>300.4</td><td>115.9</td><td>806.2</td></tr><tr><td>1983—2010</td><td>294.7</td><td>285.8</td><td>147.4</td><td>824.1</td></tr><tr><td rowspan="4">南部山区</td><td>2011—2019</td><td>296.6</td><td>269.4</td><td>99.9</td><td>757.2</td></tr><tr><td>1961—1982</td><td>175.2</td><td>58.2</td><td>5.4</td><td>316.4</td></tr><tr><td>1983—2010</td><td>182.0</td><td>69.4</td><td>49.2</td><td>373.2</td></tr><tr><td>2011—2019</td><td>161.5</td><td>33.7</td><td>5.4</td><td>268.8</td></tr></table></body></html>
+
+中南部持续"干"时长有缩短趋势，与之相反的是，持续"湿"时长延长：中部干旱带1983年以来，于1986—1987年、2004—2005年、2008—2009年发生了罕见的长期持续干旱，其他大部分年份持续2\~5个月，其中1983—2010年平均4.1个月，较之前减少0.8个月，2011年以来减少更加显著，平均只有1.9个月；持续"湿"时长1983—2010年平均2.6个月，较之前增加0.5个月，2011年以来平均达到4.1个月，主要出现在春、夏季。南部山区持续“干"时长缩短更加明显，通过0.05的显著性检验，1983—2010年期间由之前平均4.0个月缩短到3.2个月，其中有7a未出现，2011年以来缩短为平均1.6个月，有4a未出现；持续"湿"时长增加趋势并不如持续“干"时长减小趋势显著，但2011年以来随着降水增多，持续“湿"时长增长，平均达到4.6个月，较前面2个时段都偏多(图9)。
+
+由此可见，对于引黄灌区，虽然降水量总体增加，但是降水时间分布不均，缺水仍然是其不可忽视的主要气象事件，中南部持续干旱时长缩短，持续多雨时长增长，对其靠自然降水的农业和生态环境恢复及其有利。
+
+![](images/1a2cc3921018f767fd5f89f913ad0e9c164c36f0ea4f8934827c6dec3405dc38.jpg)  
+图9南部山区持续"干"和持续"湿"时长变化 Fig.9 Duration variation of continuous“dry"and “wet” in southern mountainous area
+
+# 2.4 $2 0 0 \mathrm { m m }$ 和 $\mathbf { 4 0 0 \ m m }$ 等雨量线的变化
+
+$2 0 0 ~ \mathrm { m m }$ 等降雨量线是干旱区与半干旱区的分界线， $4 0 0 \mathrm { m m }$ 等降雨量线是半湿润和半干旱区的分界线，同时也是海绵城市建设对年降雨量的要求。世界气象组织规定，每隔30a的平均值为标准气候值。为了分析宁夏段 $2 0 0 \mathrm { m m }$ 和 $4 0 0 \mathrm { m m }$ 等雨量线的变化特征，本文从1961年开始对各地年降水量进行30a滑动平均，结果表明： $2 0 0 ~ \mathrm { m m }$ 和 $4 0 0 \ \mathrm { m m }$ 等雨量线滑动平均值均具有先减少后增加的趋势：其中第一个30a(1961—1990年)期间， $2 0 0 ~ \mathrm { { m m } }$ 等雨量线在灵武和中宁一带，其中灵武仅为 $2 0 3 . 8 ~ \mathrm { m m }$ ，中宁为$2 1 4 . 9 ~ \mathrm { m m }$ $4 0 0 ~ \mathrm { { m m } }$ 等雨量线在固原和西吉一带；在2010年之前，随着降水量的减少，中宁和灵武两地30a滑动平均降水量也呈明显减少趋势，其中灵武1968—1997年开始持续低于 $2 0 0 \ \mathrm { m m }$ ，中宁于1977—2006年开始持续低于 $2 0 0 \ \mathrm { m m } ; 2 0 1 0$ 年以来降水量有所增加，两地30a滑动平均降水量也有增加趋势，但也仅在1988—2017年段后分别有2个时段接近 $2 0 0 ~ \mathrm { m m }$ ，尤其中宁还未达到1977—2006年之前的最低值。 $4 0 0 ~ \mathrm { { m m } }$ 等雨量线增加的转折点出现在2011年，固原所有时段均高于 $4 0 0 ~ \mathrm { { m m } }$ ，西侧的西吉在1968—1997年开始至1979—2008年30a滑动平均值在 $4 0 0 ~ \mathrm { { m m } }$ 左右，之后大部分时段低于$4 0 0 ~ \mathrm { m m }$ ,最近2个时段略高于 $4 0 0 ~ \mathrm { m m }$ ,但也仅接近1967—1996年之前的最低值（图10），31a中仅有14a超过 $4 0 0 \mathrm { m m }$ 。
+
+由此可见，宁夏段 $2 0 0 \mathrm { m m }$ 雨量线有南移趋势，十旱区面积扩大，而 $4 0 0 \mathrm { m m }$ 雨量线的西侧有南移趋势，半湿润区面积缩小；由于2010年以来降水量增加，使得 $2 0 0 \mathrm { m m }$ 雨量线和 $4 0 0 \mathrm { m m }$ 雨量线西侧有所北移。
+
+# 2.5降水日数和降水强度的变化及其对降水量的 贡献时空演变特征
+
+采用日降水量等级划分标准(表3），分析各区域春季、夏季、秋季不同等级降水日数、强度的变化及其对总雨量变化的影响。
+
+1961年以来，各区域各季节总降水日数减少、强度增加。其中小雨日数均为减少趋势，且中南部夏季小雨日数减小趋势更为显著，通过0.05显著性检验;中雨日数变化各区域各季节不同；大部分大雨日数增加；夏季暴雨日数减少；大部分降水强度为增强趋势，其中引黄灌区春季大雨强度、秋季小雨和大雨强度增强趋势通过0.05的显著性检验(表4)。
+
+由表5和图11可知，春季和秋季，小、中雨量对不同时段总降水量的贡献率接近，其中小雨量贡献率在 $4 8 \% \sim 7 2 \%$ ,中雨量贡献率在 $2 6 \% { \sim } 4 5 \%$ ,秋季大雨量贡献率大于春季大雨量贡献率；夏季小、中雨量对各区域不同时段总降水量的贡献差别不大，在$2 5 \% { \sim } 4 3 \%$ ,大雨量贡献率在 $1 5 \% { \sim } 3 0 \%$ ,暴雨量贡献率在 $5 \% \mathrm { \sim } 1 0 \%$ 。从阶段性变化来看：
+
+![](images/cdb5d52e895b62be3dac459d6e62d7fb9b7f00e949b01f5c57e9e07eaf377f6b.jpg)  
+图10宁夏 $2 0 0 \mathrm { m m }$ 和 $4 0 0 \mathrm { m m }$ 等雨量线北界降水量30a滑动平均变化  
+Fig.1O Variation of 3O a moving average precipitation in the northern boundary of $2 0 0 \mathrm { m m }$ and $4 0 0 \mathrm { m m }$ isohyets in Ningxia
+
+Tab.3 Classification standard of precipitation magnitude   
+
+<html><body><table><tr><td>量级</td><td>降水量标准/mm</td></tr><tr><td>小雨</td><td>0.1~9.9</td></tr><tr><td>中雨</td><td>10.0~24.9</td></tr><tr><td>大雨</td><td>25.0~49.9</td></tr><tr><td>暴雨</td><td>≥50.0</td></tr></table></body></html>
+
+（1）1983—2010年，春季各区域不同量级雨量的贡献率变化不同，但变化幅度都在 $7 \%$ 以内，且总体上引黄灌区 $>$ 中部干旱带 $>$ 南部山区，其中引黄灌区小雨量的贡献率减少明显，由 $7 1 . 9 \%$ 减少至$6 5 . 3 \%$ ，而同期中雨量和大雨量的贡献率增加；中部干旱带则是中雨量的贡献率减少幅度最大 $\left( - 5 . 7 \% \right)$ ，小雨量和大雨量有所增加；南部山区变化幅度都很小。2011年以来，各区域不同量级降水量变化趋势相同，引黄灌区变化幅度较小，且接近于1983—2010年的变化幅度，其中中雨量贡献率增加 $3 . 8 \%$ ，其次大雨量减少 $2 . 1 \%$ ;中南部小雨量-大雨量变化幅度均大于1983—2010年的变化幅度，尤其中雨量增加明显( $1 5 \%$ 左右)，其次为小雨量的减少幅度，分别为 $- 9 . 2 \%$ 和 $- 1 3 . 8 \%$ ，两地中雨量及南部山区小雨量的变化均通过0.05显著性检验。从不同量级雨量和总雨量的变化看，总体上中雨量和大雨量的变化对总雨量的变化作用突出，如1983—2010年引黄灌区总雨量增加了 $6 . 6 ~ \mathrm { m m }$ ，其中中雨量就增加4.5$\mathbf { m } \mathbf { m }$ ,中部干旱带总雨量增加了 $2 . 1 \ \mathrm { m m }$ ,其大雨量增加了 $2 . 4 ~ \mathrm { m m }$ ;2011年以来，南部山区总雨量增加了$2 2 . 5 ~ \mathrm { m m }$ ,其中雨量就增加了 $2 2 . 1 ~ \mathrm { m m }$ （通过0.05显著性检验）(表6)。
+
+（2）夏季各区域2个时段不同量级雨量的贡献率变化幅度均在 $7 \%$ 以内。1983—2010年，引黄灌区和南部山区不同量级雨量的贡献率变化特征相同，小雨量和暴雨量均减小，中雨量和大雨量增加，但引黄灌区变化幅度大于南部山区，其中引黄灌区中雨量变化幅度最大，为 $5 . 1 \%$ ,其次为暴雨量 $- 4 . 4 \%$ ，而南部山区正好相反，暴雨量最大为 $- 2 . 1 \%$ ，中雨量$1 . 6 \%$ ;中部干旱带小、大雨量变化幅度分别为 $- 4 . 1 \%$ 和 $3 . 5 \%$ ，中、暴雨量变化不大。2011年以来，引黄灌区不同量级降水量贡献率变化幅度在 $3 \%$ 左右，其中小、暴雨量贡献率增加，中、大雨量贡献率减小;中南部大雨量贡献率持续增加，小雨量贡献率持续减少，其中中部干旱带大雨量增加 $6 . 5 \%$ ，南部山区增加 $5 . 4 \%$ ，同时，南部山区暴雨量也增加了 $2 . 9 \%$ 。从不同量级雨量和总雨量的变化来看，暴雨对引黄灌区2个时段总降水量的变化影响大，中部干旱带大雨影响大，而南部山区在1983—2010年影响大的是暴雨，在2011年以来则为大雨和暴雨(表6)。
+
+（3）秋季各区域不同时段不同量级降水量贡献率变化不尽相同，变化幅度均在 $5 \%$ 以内。1983—2010年，暴雨量贡献率变化幅度很小，小雨量和大雨量较大，其中引黄灌区小雨量和大雨量分别为 $- 4 . 7 \%$ 和 $3 . 7 \%$ ,南部山区符号相反，分别为 $3 . 9 \%$ 和 $- 3 . 0 \%$ ，2个区域中雨量几乎无变化；中部干旱带大雨量变化幅度最大，为 $2 . 6 \%$ 。2011年以来，引黄灌区小雨量贡献率持续减少，减少 $2 . 8 \%$ ,但其暴雨量明显增
+
+表3降水量级划分标准  
+表41961—2019年宁夏各区域不同量级降水日数和强度的变化趋势  
+Tab.4Trendofrainydaysand its intensity with different magnitude precipitation inNingxia from1961 to 2019   
+
+<html><body><table><tr><td rowspan="3" colspan="2"></td><td colspan="4">日数/[d·(10a)-1]</td><td colspan="4">强度[mm·(d·10a)1]</td></tr><tr><td>小雨</td><td>中雨</td><td>大雨</td><td>暴雨</td><td>小雨</td><td>中雨</td><td>大雨</td><td>暴雨</td></tr><tr><td>春季</td><td>引黄灌区</td><td>-0.11</td><td>0.22</td><td>0.00</td><td></td><td>0.01</td><td>0.04</td><td>1.25°</td><td></td></tr><tr><td></td><td>中部干旱带</td><td>-0.55</td><td>-0.09</td><td>-0.06</td><td></td><td>0.04</td><td>-0.01</td><td>0.92</td><td></td></tr><tr><td></td><td>南部山区</td><td>-0.55</td><td>0.53</td><td>0.05</td><td></td><td>-0.02</td><td>0.00</td><td>0.39</td><td></td></tr><tr><td>夏季</td><td>引黄灌区</td><td>-0.35</td><td>-0.19</td><td>0.04</td><td>-0.14°</td><td>0.04</td><td>0.03</td><td>0.31</td><td>-1.98</td></tr><tr><td></td><td>中部干旱带</td><td>-0.66*</td><td>-0.18</td><td>0.36</td><td>-0.06</td><td>0.03</td><td>0.09</td><td>0.09</td><td>-1.34</td></tr><tr><td></td><td>南部山区</td><td>-0.69*</td><td>0.11</td><td>0.29</td><td>-0.04</td><td>0.01</td><td>0.02</td><td>0.06</td><td>0.09</td></tr><tr><td>秋季</td><td>引黄灌区</td><td>-0.41</td><td>0.17</td><td>0.08</td><td></td><td>0.07*</td><td>0.26</td><td>0.59°</td><td></td></tr><tr><td></td><td>中部干旱带</td><td>-0.58</td><td>-0.50</td><td>-0.02</td><td></td><td>0.01</td><td>0.20</td><td>0.39</td><td></td></tr><tr><td></td><td>南部山区</td><td>-0.84</td><td>-0.40</td><td>-0.26</td><td></td><td>0.02</td><td>0.09</td><td>-0.05</td><td></td></tr></table></body></html>
+
+注：\*表示通过0.05显著性检验。下同。
+
+表5宁夏各区域不同时段不同量级雨量的贡献率  
+Tab.5 Contribution rate of different magnitude precipitation in Ningxia   
+
+<html><body><table><tr><td rowspan="2">季节</td><td rowspan="2">区域</td><td rowspan="2">时段/年</td><td colspan="4">雨量级别</td></tr><tr><td>小雨量</td><td>中雨量</td><td>大雨量</td><td>暴雨量</td></tr><tr><td>春季</td><td>引黄灌区</td><td>1961—1982</td><td>71.9</td><td>26.8</td><td>1.3</td><td>0.0</td></tr><tr><td rowspan="9"></td><td rowspan="3"></td><td>1983—2010</td><td>65.3</td><td>30.6</td><td>4.0</td><td>0.2</td></tr><tr><td>2011—2019</td><td>63.9</td><td>34.3</td><td>1.8</td><td>0.0</td></tr><tr><td>1961—1982</td><td>61.9</td><td>31.7</td><td>6.4</td><td>0.0</td></tr><tr><td rowspan="3">中部干旱带</td><td>1983—2010</td><td>65.0</td><td>26.0</td><td>8.7</td><td>0.3</td></tr><tr><td>2011—2019</td><td>55.9</td><td>40.4</td><td>3.8</td><td>0.0</td></tr><tr><td>1961—1982</td><td>64.1</td><td>29.5</td><td>6.0</td><td>0.4</td></tr><tr><td rowspan="3">南部山区</td><td>1983—2010</td><td>64.1</td><td>28.5</td><td>7.4</td><td>0.0</td></tr><tr><td>2011—2019</td><td>50.2</td><td>45.2</td><td>4.6</td><td>0.0</td></tr><tr><td>1961—1982</td><td>42.9</td><td>32.5</td><td>15.6</td><td>9.0</td></tr><tr><td rowspan="9">中部干旱带</td><td rowspan="3"></td><td>1983—2010</td><td>39.9</td><td>37.6</td><td>18.0</td><td>4.6</td></tr><tr><td>2011—2019</td><td>42.0</td><td>35.0</td><td>16.1</td><td>6.9</td></tr><tr><td>1961—1982</td><td>38.6</td><td>36.6</td><td>18.0</td><td>6.8</td></tr><tr><td rowspan="3"></td><td>1983—2010</td><td>34.5</td><td>36.5</td><td>21.5</td><td>7.4</td></tr><tr><td>2011—2019</td><td>31.4</td><td>33.7</td><td>28.0</td><td>6.9</td></tr><tr><td>1961—1982</td><td>31.2</td><td>36.8</td><td>22.9</td><td>9.2</td></tr><tr><td rowspan="3">南部山区</td><td>1983—2010</td><td>30.4</td><td>38.4</td><td>24.1</td><td>7.1</td></tr><tr><td>2011—2019</td><td>25.4</td><td>35.1</td><td>29.5</td><td>10.0</td></tr><tr><td>1961—1982</td><td>68.4</td><td>28.2</td><td>3.0</td><td>0.3</td></tr><tr><td rowspan="8">秋季</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>1983—2010</td><td>63.5</td><td>29.9</td><td>6.7</td><td>0.0</td></tr><tr><td>中部干旱带</td><td>2011—2019 1961—1982</td><td>60.7 59.5</td><td>31.3 34.5</td><td>5.1</td><td>2.9</td></tr><tr><td rowspan="3"></td><td>1983—2010</td><td>58.2</td><td>33.2</td><td>6.0 8.6</td><td>0.0</td></tr><tr><td></td><td>56.6</td><td>33.8</td><td>8.7</td><td>0.0</td></tr><tr><td>2011—2019 1961—1982</td><td>48.1</td><td>36.6</td><td>13.6</td><td>0.8 1.7</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="2"></td><td>1983—2010</td><td>52.0</td><td>36.4</td><td>10.6</td><td>1.0</td></tr><tr><td>2011—2019</td><td>48.8</td><td>36.9</td><td>11.8</td><td>2.5</td></tr></table></body></html>
+
+![](images/bf9c2a9e245c97284cd41f3ca4d6960e56b11a3b5b4597939db5ca9490a332f5.jpg)  
+图11宁夏各区域不同时段不同量级雨量贡献率的变化  
+Fig.11 Contribution rate change of different magnitude precipitation in diferent periods in Ningxia
+
+# 表6宁夏各区域不同时段不同量级雨量的变化
+
+Tab.6 Rainfall variation with different magnitude precipitation in Ningxia   
+
+<html><body><table><tr><td rowspan="2">季节</td><td rowspan="2">区域</td><td rowspan="2">降水量变化</td><td colspan="4">雨量级别</td><td rowspan="2">总雨量</td></tr><tr><td>小雨量</td><td>中雨量</td><td>大雨量</td><td>暴雨量</td></tr><tr><td>春季</td><td>引黄灌区</td><td>P1983-2010-P1961-182</td><td>0.9</td><td>4.5</td><td>1.1</td><td>0.2</td><td>6.6</td></tr><tr><td></td><td></td><td>P2011-2019-P1983-2010</td><td>0.9</td><td>-1.2</td><td>-1.3</td><td>-0.2</td><td>-1.8</td></tr><tr><td></td><td>中部干旱带</td><td>P1983-2010-P1961-1982</td><td>-1.1</td><td>0.4</td><td>2.4</td><td>0.4</td><td>2.1</td></tr><tr><td></td><td></td><td>P2011-2019-P1983-2010</td><td>3.0</td><td>5.1</td><td>-4.8</td><td>-0.4</td><td>2.9</td></tr><tr><td></td><td>南部山区</td><td>P1983-2010-P1961-1982</td><td>-1.0</td><td>0.6</td><td>2.4</td><td>-0.7</td><td>1.3</td></tr><tr><td></td><td></td><td>P2011-2019-P1983-2010</td><td>2.9</td><td>22.1*</td><td>-2.5</td><td>0.0</td><td>22.5</td></tr><tr><td>夏季</td><td>引黄灌区</td><td>P1983-2010-P1961-182</td><td>1.0</td><td>3.8</td><td>-1.1</td><td>-7.7°</td><td>-3.9</td></tr><tr><td></td><td></td><td>P201-2019-1983-2010</td><td>2.3</td><td>-0.5</td><td>1.0</td><td>4.6</td><td>7.4</td></tr><tr><td></td><td>中部干旱带</td><td>P1983-2010-P1961-1982</td><td>-0.9</td><td>2.4</td><td>4.6</td><td>-0.1</td><td>6.1</td></tr><tr><td></td><td></td><td>P201-2019-1983-2010</td><td>-2.2</td><td>-0.2</td><td>12.6</td><td>-1.5</td><td>8.6</td></tr><tr><td></td><td>南部山区</td><td>P1983-2010-P1961-1982</td><td>-1.2</td><td>2.0</td><td>-1.5</td><td>-9.1</td><td>-9.8</td></tr><tr><td></td><td></td><td>P201-2019-1983-2010</td><td>-9.4°</td><td>4.6</td><td>26.6</td><td>17.7</td><td>39.5</td></tr><tr><td>秋季</td><td>引黄灌区</td><td>P1983-2010-P1961-1982</td><td>-5.5°</td><td>-2.1</td><td>1.5</td><td>-0.2</td><td>-6.3</td></tr><tr><td></td><td></td><td>P201-2019-1983-2010</td><td>9.6°</td><td>6.2</td><td>0.0</td><td>1.4</td><td>17.2</td></tr><tr><td></td><td>中部干旱带</td><td>P1983-2010-P1961-1982</td><td>-13.3°</td><td>-7.6</td><td>0.2</td><td>0.0</td><td>-20.7*</td></tr><tr><td></td><td></td><td>P2011-2019-P1983-2010</td><td>18.4°</td><td>8.3</td><td>2.6</td><td>1.1</td><td>30.4*</td></tr><tr><td></td><td>南部山区</td><td>P19832010-P1961-1982</td><td>-9.7</td><td>-11.4</td><td>-8.7</td><td>-1.7</td><td>-31.5*</td></tr><tr><td></td><td></td><td>P2011-2019P1983-2010</td><td>10.2</td><td>12.5</td><td>5.9</td><td>3.4</td><td>32.2</td></tr></table></body></html>
+
+加，增加 $2 . 9 \%$ ;中南部小雨量贡献率均为减小且幅度最大，其他3个量级均为增加，其中中部干旱带小雨量贡献率减少 $1 . 6 \%$ ,南部山区减少 $3 . 2 \%$ ,同时其暴雨和大雨贡献率分别增加 $1 . 5 \%$ 和 $1 . 2 \%$ 。从不同量级雨量和总雨量的变化看，中北部小雨量和中雨量对2个时段总雨量的变化影响比较大，尤其小雨量变化幅度通过0.05显著性检验，而南部山区小雨-暴雨量的变化都有较大影响，影响从大到小为中雨量 $>$ 小雨量 $\mathrm { > }$ 大雨量 $>$ 暴雨量。另外，2011年以来各地暴雨都有所增加，占总雨量增加的 $4 \% \sim 1 1 \%$ ○
+
+由此可见，2011年以来，春季第二模态频率增大主要是由中雨量的反位相变化所致；夏季主要是由于中雨量的反位相变化以及大雨量和暴雨量增加幅度的差异所致；秋季则主要是由大雨量的不同变化所致。
+
+# 2.6引黄灌区用水量和耗水量变化特征
+
+受黄河水量调度限制及农业结构调整，宁夏引黄灌区农业用水量(包括湖泊补水量)呈明显减少趋势，最多年2001年 $7 5 . 1 8 9 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ ,最少年2016年仅为 $5 6 . 2 5 5 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ ;同时，农业总耗水量也明显减少，最多年2005年为 $3 7 . 7 9 2 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ ,最少年2016年为 $2 7 . 8 8 4 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ ,且与降水量变化呈显著负相关关系，相关系数-0.62，通过0.05显著性检验，与文献[4]研究结论一致；但耗水量减少幅度小于用水量减少幅度，使得两者之比并没有显著减少趋势，与降水量变化负相关系数为-0.48，尤其在2003—2009年引黄灌区降水量偏少集中时段，耗水量较多，而降水量明显偏多的2002年和2012年明显偏小（图12);虽然近期引黄灌区降水量有所增加，但耗水量占用水量之比增加，究其可能的原因，一是气温升高，土壤全盐含量增加，灌溉需水量增加[24]；二是气温升高，湿度下降，使得蒸腾蒸发量增加，降水增加能缓解其导致的作物缺水，但不能完全解决作物缺水[25]；三是，由前文分析可知，虽然降水量增加，但由于降水日数减少，强度增加，降水时间分配上并不均匀,季节差异大,持续干旱时长并未明显缩短，多雨时长也未增加，从而使得耗水量仍然较大，如2014年和2015年，虽然年降水量偏多，但2014年春季关键农事期3月、5月降水异常偏少达8成以上，2015年5一8月持续偏少，尤其汛期降水量达1961年以来第3低值。可见，由于宁夏降水基数较低，近期增加的降水量仍然无法满足温度增加引起的蒸发的消耗，干旱区的本质依然无法改变[26]。
+
+![](images/7905eeefb28793a8337340fc45ce0ee303efdd938bf2f19f0346b20899f8f769.jpg)  
+图12引黄灌区水量收支变化  
+Fig.12 Change of water budget in irrigation area ofYellow RiverDiversion
+
+# 3结论
+
+本文从降水量、潜在蒸散量和降水量的差值、持续"湿”“干"时长、宁夏段 $2 0 0 \mathrm { m m }$ 和 $4 0 0 \mathrm { m m }$ 关键等雨量线、不同等级降水日数和降水强度及其对降水量的贡献、降水和用、耗水量之间的关系等方面，以1983年、2011年为时间界限，分析了宁夏降水资源在西北暖湿化背景下的格局演变特征。
+
+（1）宁夏各区域年降水变化趋势一致，总体上呈减少趋势，阶段性特征、区域性和季节性差异较大。仅有冬季各区域均为弱增加趋势，只有春季在西北暖湿化前后(1983年)有增多趋势，各区域、各季节2011年以来降水量均增多，且超过1961—1982年和1983—2010年。
+
+(2）在西北地区变暖湿的背景下，宁夏区域间不但降水量增加幅度差异大，且年际间不同步，尤其中雨量和大雨量的差异使得区域间降水之差越来越大，区域上南部山区和引黄灌区差异更大，时间上是则春季差异更大，南北“暖湿"和“暖干"现象同时出现的几率增大，增加了防灾减灾难度。
+
+（3）由于潜在蒸散量增加，降水量减少，两者之差增加，中北部春季、南部山区秋季增加最多；近期虽然降水量明显增加，但春夏季降水量供需矛盾仍然较大。
+
+（4）引黄灌区降水时间分布不均，持续“干"时长增长，但持续"湿"时长并无增加趋势，春、夏旱或春夏连旱仍然频繁发生；近期增加的降水量仍然无法满足温度增加引起的蒸发的消耗，农业耗水量占用水量比例仍然较大；中南部持续“干"时长缩短，持续“湿"时长增长。
+
+（5）总体上， $2 0 0 ~ \mathrm { m m }$ 等雨量线有南移趋势，而$4 0 0 \mathrm { m m }$ 等雨量线的西侧有南移趋势，干旱区面积扩大，半湿润区面积缩小，由于2010年来降水量增加，使得 $2 0 0 \mathrm { m m }$ 雨量线和 $4 0 0 \mathrm { m m }$ 雨量线西侧有所北移。(6)降水总日数减少，降水强度增强。小雨日数均为减少趋势，大部分降水强度呈增强趋势。总体上，春季小雨量和中雨量、夏季四个量级雨量、秋季小雨量和大雨量贡献率变化幅度较大;对于总雨量的变化，春季中雨量和大雨量、夏季大雨量和暴雨量、秋季小雨量和中雨量的变化作用突出，由此会使得极端降水及无雨日数增加，对农业生产有不利影响，也增加了城市内涝、山洪泥石流等次生灾害的风险。
+
+# 参考文献(References):
+
+[1]陈晓光.西北区域气候变化评估报告[M].北京:中国科学技术 出版社,2013:1-10.[Chen Xiaoguang.Northwest Regional Climate Change Assessment Report[M]. Beijing: China Science and Technology Press,2013:1-10.] [2]施雅风,沈永平,胡汝骥.西北气候由暖干向暖湿转型的信号、 影响和前景初步探讨[J].冰川冻土，2002,24(3):219-226.[Shi Yafeng,Shen Yongping,Hu Ruji.Preliminary study on signal, impact and foreground of climatic shift from warm-dry to warm-humid in northwest China[J]. Journal of Glaciology and Geocryology,   
+2002,24(3): 219-226.] [3]施雅风,沈永平,李栋梁,等.中国西北气候由暖干向暖湿转型 的特征和趋势探讨[J].第四纪研究,2003,23(2):152-164.[Shi yafeng,Shen Yongping,Li Dongliang,et al. Discussion on the present climate change from warm-dry to warm-wet in northwest China[J]. Quaternary Sciences,2003,23(2): 152-164.] [4] 张强,张存杰,白虎志,等.西北地区气候变化新动态及对干旱 环境的影响—总体暖干化,局部出现暖湿迹象[J].干旱气 象,2010,28(1): 1-7.[Zhang Qiang, Zhang Cunjie,Bai Huzhi,et al.New development of climate change in northwest China and its impact on arid environment[J].Journal of Arid Meteorology,2010,   
+28(1): 1-7.] [5]张强.科学看待西北地区气候暖湿化现象[EB/OL].https://www. ncc-cma.net/Website/index.php?NewsID=11231,2020-01-16.[Zhang Qiang.Scientific view on the phenomenon of climate warm-humid innorthwest China[EB/OL].https://www.ncc-cma.net/Website/index. php?NewsID=11231,2020-01-16.]   
+[6]刘维成,张强,傅朝.近55年来中国西北地区降水变化特征及 影响因素分析[J].高原气象,2017,36(6):1533-1542.[Liu Weicheng,Zhang Qiang,Fu Zhao.Variation characteristics of precipitationand its affecting factors in northwest China over the past 55 years[J].Plateau Meteorology,2017,36(6): 1533-1545.]   
+[7]张强,林婧婧,刘维成,等.西北地区东部与西部汛期降水跷晓 板变化现象及其形成机制[J].中国科学(地球科学),2019,49 (12): 2064-2078. [Zhang Qiang,Lin Jingjing,Liu Weicheng, et al. Precipitation sesaw phenomenon and its formation mechanism in the eastern and western parts of northwest China during flood season [J]. Science China (Earth Sciences),2019,49(12): 2064-2078.]   
+[8]耿国彪.三北工程40年宁夏中卫用"草方格"护卫着"塞上江 南"[J].绿色中国,2018(20): 70-73.[Geng Guobiao.40 Years of Sanbei project Zhongwei in Ningxia uses the grasssquare to protect the south of the river[J]. Green China,2018(2O): 70-73.]   
+[9]田巍.宁夏引黄灌区重点湖泊生态需水量测算及再生水补水方 案研究[J].中国农村水利水电,2018(12):45-48.[Tian Wei.Ecological water demand and reclaimed water recharge scheme of key lakes in the Yellow River Irrigation Area of Ningxia[J]. China Rural Water and Hydropower,2018(12): 45-48.]   
+[10] 李艳春,李艳芳.宁夏近百年来的气候变化及突变分析[J].高原 气象,2001,20(1):100-104.[Li Yanchun,Li Yanfang.Period and jump analyses of climatic variation in Ningxia in recent hundred years[J]. Plateau Meteorology,2001,20(1): 100-104.]   
+[11] 陈晓光,苏占胜,郑广芬,等.宁夏气候变化的事实分析[J].干旱 区资源与环境,2005,19(6): 43-47.[Chen Xiaoguang,Su Zhansh eng, Zheng Guangfen, et al.Analysis on climatic changes in Ningxia[J]. Journal of Arid Land Resources and Environment, 2005,19 (6): 43-47.]   
+[12] 郑广芬,陈晓光,孙银川,等.宁夏气温、降水、蒸发的变化及其 对气候变暖的响应[J].气象科学,2006,26(4):412-421.[Zheng Guangfen, Chen Xiaoguang,Sun Yinchuan,et al. The changes of temperature,precipitation, evaporation and their response to the climate warming[J]. Scientia Meteorological Sinica,2006,26(4): 412-421.]   
+[13] 于淑秋,林学椿,徐祥德.我国西北地区近50年降水和温度的 变化[J].气候与环境研究,2003,8(1):10-19.[Yu Shuqiu,Lin Xuechun,Xu Xiangde.The climatic change in northwest China in recent 5O years[J]. Climatic and Environmental Research,2003,8 (1): 10-19.]   
+[14] 王剑林,陈建军,高龙龙.宁夏气候时空变化特征分析[J].河南 农业,2017,32(11):35-36.[Wang Jianlin, Chen Jianjun,Gao Longlong.Analysis on the characteristics of climate change in Ningxia[J]. Agriculture of Henan,2017,32(11): 37-38.]   
+[15]王晖,隆霄,马旭林,等.近50a中国西北地区东部降水特征[J]. 干旱区研究,2013,30(4):712-718.[Wang Hui,Long Xiao,Ma Xulin,et al.Precipitation in the eastern part of northwest China in recent 50 years[J].Arid Zone Research,2013,30(4): 712-718.]   
+[16] 商沙沙,廉丽姝,马婷,等.近54a中国西北地区气温和降水的 时空变化特征[J].干旱区研究,2018,35(1):68-75.[Shang Shasha, Lian Lishu,Ma Ting,et al. Spatiotemporal variation of temperature and precipitation in northwest China in recent 54 years [J].Arid Zone Research,2018,35(1): 68-75.] [17]陈冬冬,戴永久.近五十年我国西北地区降水强度变化特征[J]. 大气科学,2009,33(5):35-47.[Chen Dongdong,Dai Yongjiu. CharacteristcsoforwestCinarinfallintesitnecent5Oyars]. Chinese Journalof Atmospheric Sciences,2009,33(5): 35-47.] [18] 张冰,刘宣飞,郑广芬,等.宁夏夏季极端降水日数的变化规律 及其成因[J].大气科学学报,2018,41(2):176-185.[Zhang Bing, Liu Xuanfei, Zheng Guangfen,et al. Variation of the days of extreme precipitation in Ningxia in summer and its causes[J].Journal of Atmospheric Science,2018,41(2): 176-185.] [19]魏凤英.现代气候统计诊断与预测技术[M].北京:气象出版社,   
+1999.[Wei Fengying. Modern Climate Statistical Diagnosis and Prediction Technology[M]. Beijing: China Meteorological Press,1999.] [20]Allen R G,Pereira L S,Raes D,et al. Crop evapotranspirationguidelines for computing crop water requirements-FAO irrigation and drainage paper 56.Fao,Rome,1998,300,D05109. [21] 李欣,王素艳,郑广芬,等.不同分布型ElNino事件次年宁夏春 季降水的差异[J].干旱气象,2016,34(2):290-296.[Li Xin, Wang Suyan, Zheng Guangfen,et al.Impacts of different types El Nino events on the next spring precipitation in Ningxia[J]. Journal of Arid Meteorology,2016,34(2): 290-296.] [22] 杨建玲,李艳春,穆建华,等.热带印度洋海温与西北地区东部 降水关系研究[J].高原气象,2015,34(3):690-699.[Yang Jianling,Li Yanchun,Mu Jianhua,et al. Analysis of relationship between sea surface temperature in tropical Indian Ocean and precipitation ineastof Northwest China[J].Plateau Meteorology,   
+2015,34(3): 690-699.] [23] 中华人民共和国国家质量监督检验检疫总局,中国国家标准化 管理委员会.GB20481-2017.中华人民共和国国家标准:气象 干旱等级[S].北京:中国标准出版社,2017.[General Administration of Quality Supervision,Inspection and Quarantine of the People's Republic of China,National Standardization Administration of China.GB20481-2017.National Standard of the People's Republic of China: Gradesof metrorological drought[S]. Beijing: Standards Press of China,2017.] [24] 肖国举,张强,李裕,等.气候变暖对宁夏引黄灌区土壤盐分及 其灌水量的影响[J].农业工程学报,2010,26(6):7-13.[Xiao Guoju, Zhang Qiang,Li Yu,et al. Impact of climatic warming on soil salinity and irrigation amount of Yellow River irrigation areas in Ningxia Hui Autonomous Region[J]. Transactions of the CSAE,   
+2010, 26(6): 7-13.] [25]冯克鹏,田军仓.宁夏地区气候变化及其对农业灌溉用水量的 影响研究[J].灌溉排水学报,2014,3(4):218-223.[Feng Kepeng, Tian Juncang. Climate change and its impact on agricultural irigation water requirement in Ningxia[J].Journal of Irrigation and Drainage,2014,33(4): 218-223.] [26] 姚俊强,杨青,毛炜峰,等.西北干旱区大气水分循环要素变化 研究进展[J].干旱区研究,2018,35(2):269-276.[Yao Junqiang,Yang Qing,Mao Weiyi, et al. Progressof study on variation of atmospheric water cycle factors over arid region in Northwest China[J]. Arid Zone Research,2018,35(2): 269-276.]
+
+# Evolution characteristics of precipitation resources pattern in Ningxia
+
+WANG Suyan1,23, LI Xin³， WANG Fan³， MA Yang³， ZHANG Wen³,HUANG Ying²， GAO Ruina³
+
+(1.Key Laboratory for Meteorological Disaster Monitoring and Early Warning and Risk Management of Characteristic Agriculture in Arid Regions,Yinchuan 75OoO2,Ningxia,China; 2.Key Laboratory of Meteorological Disaster Preventing and Reducing in Ningxia, Yinchuan 75OoO2, Ningxia,China; 3.Ningxia Climate Center,Yinchuan 75OoO2,Ningxia, China)
+
+Abstract: Ningxia is in the east of Northwest China,and although it is only more than 4OO kilometers from north to south，its climate is quite diferent.In this paper，the characteristics of the precipitation resources pattern evolution in Ningxiaunder thebackground of warm-humid innorthwest are analyzed,including the precipitation, the difference between potential evapotranspiration and precipitation,the length of continuous “wet” and“dry” processes, the key isohyets of $2 0 0 ~ \mathrm { { m m } }$ and $4 0 0 ~ \mathrm { { m m } }$ ,and precipitation intensity and days of different grades and their contribution to precipitation,the relationship between precipitation and water consumption.The results show that: (1) The annual precipitation decreased on the whole,but the stages characteristicsand theregional and seasonal diference were higher. Only the precipitation in spring increased around the year of warm-humid in northwest (1983),but which in allregions and seasons increased since 20ll and was more than that of 1961- 1982 and1983-2010.(2) The higher regional difference of precipitation increasing-range and the regional annual unsynchronism，especially the variation diference between medium and large rainfall made the difference of precipitation between regions more and more big and the probability of“warm-wet” and“warm-dry” phenomenon occur at the same time between the north and the South increases. (3)The potential evapotranspiration increasing and the precipitation decreasing made the difference between evapotranspiration and precipitation increase, which in spring and in autumn separately in the Middle North region and in southern mountains Was the most. (4) In the Yellow River Diversion Irigation Area，the continuous drought process increased，but there was no increase trend of the continuous rainy month,and drought in spring,summer or even in spring and summer was stillfrequent,so the proportion of agricultural water consumption was still large.While the continuous drought process was shortened and the continuous rainy months increased in the south central part.(5） The $2 0 0 ~ \mathrm { { m m } }$ （20 isoline had a southward trend,and the west side of the $4 0 0 \ \mathrm { m m }$ isoline had a southward trend, and which moved northward with the increase of precipitation.(6) The total days of precipitation decreased and the intensity of precipitation increased.The number of light rainy days in all regions and seasons decreased,and most of the precipitation intensity increased.The contribution rate changed remarkablyof moderate and heavy rainfall in spring,allof the four magnitudes rainfallin summer and light and heavy rainfall in autumn. Then the changes of moderate and heavy rainfall in spring,heavy and rainstorm rainfall in summer,light and moderate rainfall in autumn played an important role in the change of total rainfall. The precipitation resources pattrn evolution in Ningxia had both advantages and disadvantages，and on the whole，the precipitation increase since 201l was conducive to the restoration of ecological environment,but it would also increase the extreme precipitation and rainless days also,and the risk of urban waterlogging，mountain flood and debris flow.At the same time,the precipitation difference increasing between the north and the South made the difficultyof disaster prevention and mitigation increase.
+
+Keywords: Ningxia; precipitation;patern of precipitation; evolution characteristics; warm-humid in northwest

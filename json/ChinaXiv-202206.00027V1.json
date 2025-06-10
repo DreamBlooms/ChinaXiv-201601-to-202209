@@ -1,0 +1,567 @@
+[
+    {
+        "type": "text",
+        "text": "降水梯度对青海湖河源湿地温室气体排放日变化的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨紫唯1.2.3，车子涵23，刘芙梅1,2.3，陈克龙2.3(1.青海师范大学地理科学学院，青海 西宁810008；2.青海省自然地理与环境过程重点实验室,青海西宁810008；3.青海师范大学青藏高原地表过程与生态保育教育部重点实验室,青海 西宁810008)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：水分是影响高寒生态系统生长发育的主要限制因素,为探明不同水分条件对湿地温室气体排放特征的影响,选取青海湖流域瓦颜山河源湿地为研究对象,利用不同的水分特征湿地,通过静态箱-气相色谱法，监测了湿地$2 4 \\mathrm { h }$ 温室气体排放特征，探究了2020年和2021年8月(生长旺季)的CK(对照处理) $+ 2 5 \\%$ (增雨 $2 5 \\%$ 处理） $- 2 5 \\%$ （减雨 $2 5 \\%$ 处理） $+ 7 5 \\%$ (增雨 $7 5 \\%$ 处理） $. - 7 5 \\%$ （减雨 $7 5 \\%$ 处理)条件下，对二氧化碳( $\\mathrm { C O } _ { 2 } \\mathrm { , }$ 、甲烷（ $\\mathrm { C H } _ { 4 }$ 、氧化亚氮（ $\\mathrm { \\bf ~ N } _ { 2 } 0 ^ { \\mathrm { \\bf ~ \\cdot ~ } }$ )日变化趋势。结果表明：(1) $\\mathrm { C O } _ { 2 }$ 排放范围为 $4 7 . 5 2 { \\sim } 1 2 3 . 7 1 \\ \\mathrm { m g } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { h } ^ { - 1 }$ $\\mathrm { C H _ { 4 } }$ 通量范围为 $- 8 . 5 0 { \\sim } 6 . 7 4 ~ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 }$ ，${ \\bf N } _ { 2 } { \\bf O }$ 通量范围为 $- 1 5 . 8 2 \\mathrm { \\sim } 6 . 9 0 ~ { \\mu \\mathrm { g } } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 } \\circ \\left( 2 \\right) \\mathrm { C K } _ { \\mathrm { \\cdot } } + 2 5 \\% _ { \\mathrm { \\cdot } } + 7 5 ^ { \\circ }$ 处理下 $\\mathrm { C O } _ { 2 } , \\mathrm { C H } _ { 4 } , \\mathrm { N } _ { 2 } \\mathrm { O }$ 日变化表现为排放状态; $- 2 5 \\%$ 处理下 $\\mathrm { C O } _ { 2 }$ 日变化表现为排放状态， $\\mathrm { C H } _ { 4 } , \\mathrm { N } _ { 2 } \\mathrm { O }$ 表现为吸收状态； $- 7 5 \\%$ 处理下 $\\mathrm { C O } _ { 2 } , \\mathrm { N } _ { 2 } \\mathrm { O }$ 日变化表现为排放状态， $\\mathrm { C H } _ { 4 }$ 表现为吸收状态，不同降水处理之间存在显著差异 $\\left( P { < } 0 . 0 5 \\right) _ { \\circ } ( 3 ) \\mathrm { C O } _ { 2 }$ 与 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 土壤温度呈显著正相关( $\\scriptstyle \\left. P < 0 . 0 5 \\right.$ ，与土壤水分呈显著负相关( $\\scriptstyle \\cdot - 0 . 0 5 .$ ; $\\mathrm { C H } _ { 4 }$ 与土壤温度呈显著负相关( $\\scriptstyle \\cdot { P < 0 . 0 5 } )$ ,与土壤水分呈显著负相关( $_ { \\scriptstyle P < 0 . 0 5 }$ ） ${ \\mathrm { N } } _ { 2 } { \\mathrm { O } }$ 与土壤温度呈正相关 $( P { < } 0 . 0 5 )$ ，而CK处理与土壤水分呈负相关，减雨处理呈正相关( $_ { ( P < 0 . 0 5 ) }$ ,但无明显规律。(4)不同水分处理下植物群落发生小幅度演替情况。土壤水分、温度的平衡对该区的温室气体排放通量影响较为显著，应避免失调导致温室气体排放量升高。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：温室气体；静态箱-气相色谱法；源汇效应；土壤水分；降水模拟；青海湖流域 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "温室气体主要的源和汇来自陆地生态系统[]。湿地生态系统敏感脆弱，由于受气候变化和降水量变化影响，湿地生物群落、湿地蒸散发速率、水文地质、水文化学和生物区系均发生了变化[2-3],从而进一步影响湿地生态系统碳、氮循环过程[4-6]。湿地在长期水淹的厌氧情况下导致有机质积累，成为重要的碳汇[7]。在人类活动和气候变化的影响下湿地的碳汇功能有所减弱。 $\\mathrm { C H } _ { 4 } , \\mathrm { N } _ { 2 } \\mathrm { O }$ 在有机质加速分解影响下，湿地逐渐成为温室气体的排放源[8]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "湿地生态系统因水分限制而促进 $\\mathrm { C O } _ { 2 }$ 聚集形成碳库,只有 $1 5 \\%$ 的碳原子被释放到大气中[9]。且天然湿地每年约向大气中排放 $1 1 0 \\mathrm { T g }$ 的 $\\mathrm { C H } _ { 4 } ^ { [ 1 0 ] }$ ,占全球 $\\mathrm { C H } _ { 4 }$ 排放总量的 $2 0 \\%$ 。天然湿地 ${ \\bf N } _ { 2 } { \\bf O }$ 排放量相对较低，对全球变暖贡献率仅为 $7 \\% ^ { [ 1 1 ] }$ ,但其增温效应",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为 $\\mathrm { C O } _ { 2 }$ 的296\\~310倍。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "温度和水分是影响湿地生态系统呼吸的主要环境因子，但地上、地下生物量、土壤理化特性对碳排放也有一定的影响。土壤理化性质的差异是通过降水量调节土壤含水量而产生的，进而对土壤中碳氮转化产生影响[12]。而土壤水分是降水量变化的主要表现，土壤水分是限制青藏高原高寒草甸生态系统生产和土壤养分循环的重要环境因子，土壤水分主要来源于自然降水，当土壤水分低于最适土壤含水量时，土壤供氮量随着土壤含水量的增加而增加[13]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "不同水分对陆地生态系统 $\\mathrm { C O } _ { 2 }$ 通量的影响存在较大差异。高振岭等[14]认为，随着土壤水分的增加，土壤有机碳分解具有先增加后降低的趋势，含水量为 $6 0 \\% \\mathrm { { W H C } }$ (最大持水量)时，有机碳分解 $\\mathrm { C O } _ { 2 }$ 的排放率和排放量最大。Reth等[15]发现草甸土有机碳分解受土壤含水量影响。董星丰等[1]认为,当土壤含水量达到一定程度后，土壤通气性则成为限制 $\\mathrm { C O } _ { 2 }$ 排放主要原因。陈全胜等[16]对锡林河流域典型草原退化群落土壤呼吸的研究结果表明：土壤呼吸排放 $\\mathrm { C O } _ { 2 }$ 的速率与土壤含水量呈显著的线性关系。土壤中甲烷菌的活性及有机物质厌氧分解程度取决于土壤的厌氧情况，而土壤含水量决定了王壤的厌氧条件[7]。牟长城等[8]认为，高水位地带$\\mathrm { C H } _ { 4 }$ 排放量高于低水位地带，由于高水位地带土壤厌氧空间层增大,产甲烷菌活性的增强导致 $\\mathrm { C H } _ { 4 }$ 的生成量较大。董星丰等2认为，土壤含水量在田间持水量的 $6 0 \\% \\sim 9 0 \\%$ 之间， $\\mathrm { C H } _ { 4 }$ 排放速率呈增加趋势,且随水分增加,其排放量增大,高寒草甸表现为$\\mathrm { C H } _ { 4 }$ 的源。李丽等[19]发现,高寒湿地系统中，土壤$\\mathrm { C H } _ { 4 }$ 排放通量表现出随含水量增加而增加的趋势。${ \\mathrm { N } } _ { 2 } { \\mathrm { O } }$ 主要是通过硝化作用和反硝化作用而产生的，在不同的土壤含水量条件下 ${ \\mathrm { N } } _ { 2 } { \\mathrm { O } }$ 排放通量差异很大。曹莹芳等[20]认为，生长季期间，高寒草甸生态系统降水充沛，微生物活动增强，促进 ${ \\mathrm { N } } _ { 2 } { \\mathrm { O } }$ 排放;非生长季寒冷的温度导致微生物活性降低，且部分${ \\mathrm { N } } _ { 2 } { \\mathrm { O } }$ 冻结在土壤中难以释放到外界，抑制 ${ \\mathrm { N } } _ { 2 } { \\mathrm { O } }$ 排放。Davidson等[2]认为，WFPS(孔隙含水量)达到$6 0 \\%$ 是反硝化过程大量产生 ${ \\mathrm { N } } _ { 2 } { \\mathrm { O } }$ 的临界值，WFPS大于 $6 0 \\%$ 时，硝化速率逐渐减弱，反硝化速率逐渐增加并开始排放大量 ${ \\mathrm { N } } _ { 2 } { \\mathrm { O } }$ ;若水分含量继续增加， ${ \\mathrm { N } } _ { 2 } { \\mathrm { O } }$ 逐渐还原为 $\\mathrm { N } _ { 2 } , \\mathrm { N } _ { 2 } \\mathrm { O }$ 排放量也随之降低。由于青藏高原的特殊性，关于降水模拟下温室气体响应研究较少，生态系统对气候变化十分敏感，是研究气候变化对土壤温室气体变化的理想场所。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于青藏高原内部降水具有较大差异，据冯晓莉等[22]对青藏高原1961—2017年降水量空间分布分析，高原整体表现出从东南向西北递减的变化规律。西北部降水呈波动增加趋势，东南部降水呈波动减小趋势。青藏高原东南部为暖湿季节降水总量的高值区，降水总量在 $3 0 0 { \\sim } 7 6 4 ~ \\mathrm { m m }$ 之间， $5 0 0 \\mathrm { m m }$ 以上降水量主要出现在藏东川西地区，而柴达木盆地以及西藏西部降水总量不足 $1 0 0 \\mathrm { m m }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此，本研究在青海湖流域伊克乌兰瓦颜站河源湿地进行，降水模拟装置选择 $\\pm 2 5 \\% . \\pm 7 5 \\%$ 梯度，在2020年、2021年生长旺季8月进行 $2 4 \\mathrm { h }$ 野外原位监测，以评估降水模拟对河源湿地 $\\mathrm { C O } _ { 2 } , \\mathrm { C H } _ { 4 } , \\mathrm { N } _ { 2 } \\mathrm { O }$ 气体日通量的影响，以期为高寒地区生态系统温室气体排放规律及其影响因子对同类型湿地温室气体通量变化提供参考依据",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "青海湖流域处于四面环山的盆地中，流域北部是大通山，南部是青海南山，东部是日月山，西部是天峻山。流域内海拔均在 $3 0 0 0 \\mathrm { m }$ 以上，是青藏高原东北部主要的生态安全屏障，是青藏高原典型的冻融侵蚀发生区[23],其生态环境的变化一直是国内外学者关注的重点之一[24]。在流域内,湿地总面积占到了24%[25]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "野外试验观测点设在青海湖流域瓦颜山湿地布设的综合观测站，地理坐标为 $3 7 ^ { \\circ } 4 4 ^ { \\prime } 3 4 ^ { \\prime \\prime } \\mathrm { N } , 1 0 0 ^ { \\circ } 5 ^ { \\prime } 4 1 ^ { \\prime \\prime } \\mathrm { E }$ 海拔 $3 7 2 0 { \\sim } 3 8 5 0 \\ \\mathrm { m }$ ，瓦颜山高寒湿地生态监测站北部是祁连山，南部靠近青海湖，距离刚察县西北52$\\mathrm { k m }$ ,是沙柳河上游支流瓦颜曲的河源湿地[26],该站点年平均气温为 $- 3 . 3 \\mathrm { ~ \\textdegree C }$ ，日平均气温最大值为$1 1 . 9 ^ { \\circ } \\mathrm { C }$ ,最小值为 $- 1 9 . 7 \\mathrm { ~ \\textdegree C }$ ,属于典型的高原大陆性气候[27]。瓦颜山生态试验观测站区域内，植被较为单一，建群优势植物物种主要为藏嵩草(Kobresiahu-milis）,苔草(Carextristachya）火绒草(Lobulariama-ritima）鹅绒委陵菜(Potentillaanserina)为伴生种，植被覆盖度达到 $9 0 \\%$ 以上，地表秃斑占 $4 \\%$ 以上。样地土壤主要为沼泽土和草甸土，土壤厚度约为1.2$\\mathrm { ~ m ~ }$ ,表层土壤下为洪积堆积物[28]。瓦颜山高寒沼泽湿地土壤表层约 $1 . 7 \\mathrm { m }$ ,为季节性冻土，深层是永久性冻土。常年气象观测表明地表 $5 \\mathrm { c m }$ 土壤在11月中旬左右开始冻结,次年4月初开始消融,冻结期达145d左右[29-30]。空气温度变化与地表 $5 \\mathrm { c m }$ 土壤温度变化具有较好的一致性，8月达到最大，1月达到最小。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验观测站内年降水量为 $5 8 7 . 5 \\mathrm { m m }$ ,且集中在5—9月的植物生长季，5个月内的降水量占全年降水量的 $9 0 \\%$ 以上[31]。测定日选取降雨后1d开始，采集 $2 4 \\mathrm { h }$ 样品。样地内水分处理于2018年开始实施，利用降水模拟装置(图1)实现降水量增多或减少对湿地土壤以及植物种类的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "注：1为雨水导流槽,2为汇流槽,3为卧箱,4为喷淋装置,41为喷淋管,411为喷淋孔,5为支撑框架,51为第1纵杆,52为第2纵杆，53为第3纵杆,54为第4纵杆,55为固定底盘,56为第1钢管,57为第2钢管,58为承接管,59为横杆,510为斜向支杆。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/98378c13680282fc1893c8200f768363ffe940a6c8ee4ee4d719adfcc4994364.jpg",
+        "img_caption": [
+            "图1降水模拟装置",
+            "Fig.1Precipitation simulator "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1降水量梯度选择模拟 $+ 2 5 \\%$ 梯度降水量约为 $5 2 5 \\ \\mathrm { m m } _ { \\setminus } - 2 5 \\%$ 梯度降水量约为 $3 1 5 \\ \\mathrm { m m } _ { \\cdot } + 7 5 \\%$ 梯度降水量约为 $7 3 5 \\ \\mathrm { m m } _ { \\setminus } - 7 5 \\%$ 梯度降水量约为105$\\mathbf { m } \\mathbf { m }$ 。其目的是模拟该类型湿地的降水极端增多和减少对植被、土壤及微生物等的影响，从而进一步得出对生态系统温室气体的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2温室气体通量观测选取2020年、2021年8月生长旺季进行 $2 4 \\mathrm { ~ h ~ }$ 样品采集，选取增减降水$2 5 \\% . 7 5 \\%$ 处理和对照组(CK)进行观测。本研究采用静态箱暗箱原理测定陆地-大气界面 $\\mathrm { C O } _ { 2 } , \\mathrm { C H } _ { 4 }$ 和${ \\mathrm { N } } _ { 2 } { \\mathrm { O } }$ 交换通量，观测频率为 $4 \\mathrm { ~ h ~ } 1$ 次，共3组重复，通量观测期间，凹槽内注水起密封作用，将暗箱扣至地面凹槽之上。第1管样品 $0 \\mathrm { m i n }$ 空气，之后每间隔$1 5 \\mathrm { m i n }$ 采集1次气体样品，共采集3次，每管样品50$\\mathrm { m L }$ 。样品采集完毕后，运回实验室进行室内试验。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "气相色谱仪(Agilent7890B)分析方法测定样品中$\\mathrm { C O } _ { 2 } , \\mathrm { C H } _ { 4 }$ ） ${ \\mathrm { N } } _ { 2 } { \\mathrm { O } }$ 浓度，经公式(1)[32]计算气体交换通量。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF = \\rho \\times { \\frac { V } { A } } \\times { \\frac { P } { P _ { 0 } } } \\times { \\frac { T _ { 0 } } { T } } \\times { \\frac { \\mathrm { d } C _ { t } } { \\mathrm { d } t } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $F$ 为温室气体排放通量 $( \\mathrm { m g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 } ) ; \\rho$ 为标准状态下被测气体密度 $( \\mathrm { g } \\cdot \\mathrm { L } ^ { - 1 } ) ; V$ 为静态箱体积 $\\left( \\mathbf { m } ^ { 3 } \\right)$ $A$ 为静态箱覆盖面积 $\\left( \\mathrm { m } ^ { 2 } \\right) ; P$ 为采样点气压 $\\left( \\mathrm { { h P a } } \\right) ; P _ { 0 }$ 为标准状态下的大气压( $\\mathrm { { h P a } , }$ ; $T _ { 0 }$ 为标准状态下空气绝对温度(K)； $T$ 为采样时箱内绝对温度(K)； $\\mathrm { d } C _ { t } / \\mathrm { d } t$ 为采样箱内被测气体的浓度随时间的变化率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3模拟降水装置模拟降水的自动导水装置(图1)包括支撑框架、雨水导流槽、汇流槽、卧箱、喷淋装置。支撑框架是由横向支杆、纵向支杆组成的框架结构；雨水导流槽包括第一挡板、第二挡板、槽体，雨水导流槽的纵截面呈Y形形状;汇流槽呈顶部开口的槽状结构，汇流槽设置有若干个接口，通过接口与若干个卧箱连接;喷淋装置包含有若干组并联的喷淋管，喷淋管等间距设置有喷淋孔。利用倾斜设置的雨水导流槽收集雨水与汇流槽，再收集在卧箱中，经过喷淋装置进行喷淋作业，其中雨水导流槽、汇流槽、卧箱、喷淋装置的高度依次降低，即利用雨水自身的重力达到雨水收集和喷淋的效果，实现了自动导水，无需额外消耗电能或其他燃料[33]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.4土壤理化性质采样期间同时采用精度为$0 . 0 1 ~ \\mathrm { ^ { \\circ } C }$ 土壤温度计(TZS-2X)和精度为 $0 . 1 \\%$ 土壤水分仪（JK-100F)测定 $1 0 \\mathrm { c m }$ 土壤温度和土壤含水量，采集不同降水处理下地上(选取 $2 5 \\ \\mathrm { c m } { \\times } 2 5 \\ \\mathrm { c m }$ 地上植物进行烘干后称重）地下生物量(直径为 $5 \\mathrm { c m }$ 土钻钻取 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 土壤样品，去除土壤后烘干),处理后分析其动态变化。随机采集样方内3处土样，分为 $0 { \\sim } 1 0 \\ \\mathrm { c m } \\setminus 1 0 { \\sim } 2 0 \\ \\mathrm { c m }$ 土壤样品，测定土壤全碳(TC）、全氮(TN） $\\mathrm {  ~ \\cdot \\mathrm {  ~ } } \\mathrm {  ~ \\ p H ~ }$ 、电导率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.5数据统计与分析采用SPSS21.0对温室气体通量和土壤水分、温度进行相关性分析，不同降水处理间温室气体通量采用显著性差异分析，不同土壤理化性质采用多重比较分析处理;最后采用Origin2018软件作图。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1不同降水处理下温室气体通量变化规律",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 $\\mathrm { C O } _ { 2 }$ 日变化规律由图2可知，5种不同水分处理下 $\\mathrm { C O } _ { 2 }$ 通量日变化规律呈峰型，日变化通量表现为排放源。不同水分处理下2020年 $\\mathrm { C O } _ { 2 }$ 通量范围为 $4 7 . 5 2 { \\sim } 1 2 3 . 7 1 \\ \\mathrm { m g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 }$ $+ 2 5 \\%$ ） $+ 7 5 \\%$ ） $- 7 5 \\%$ 处理都呈双峰型，且3个处理下 $\\mathrm { C O } _ { 2 }$ 通量于11:00进入排放高峰期,最高值为 $+ 2 5 \\%$ 处理 $( 2 9 2 . 9 9 \\mathrm { m g } \\cdot \\mathrm { m } ^ { - 2 }$ .$\\ln ^ { - 1 }$ ）。 $- 2 5 \\%$ 处理则呈现单峰型变化趋势。 $+ 2 5 \\%$ /$- 2 5 \\%$ ） $- 7 5 \\%$ 处理下 $\\mathrm { C O } _ { 2 }$ 通量于03：00进入排放低谷期,最低值为 $- 7 5 \\%$ 处理 $\\left( - 6 . 4 6 ~ \\mathrm { m g \\cdot m ^ { - 2 } \\cdot h ^ { - 1 } } \\right)$ 。不同水分处理下2021年 $\\mathrm { C O } _ { 2 }$ 通量范围为25.30\\~74.53$\\mathrm { m g \\cdot m ^ { - 2 } \\cdot h ^ { - 1 } }$ ,比较与2020年的排放情况,2021年排放高峰期各处理均推迟到15:00—19:00，可能是气温较高所导致。综合分析2a $\\mathrm { C O } _ { 2 }$ 日排放，峰值均出现在中午，谷值出现在凌晨时段，说明温度显著影响$\\mathrm { C O } _ { 2 }$ 排放速率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 $\\mathrm { C H } _ { 4 }$ 日变化规律由图3可知，5种不同水分处理下， $\\mathrm { C H } _ { 4 }$ 通量日变化规律基本一致，日变化通量表现为CK、 $+ 2 5 \\%$ 和 $+ 7 5 \\%$ 为排放源， $- 2 5 \\%$ 和 $- 7 5 \\%$ 为吸收汇。不同水分处理下2020年 $\\mathrm { C H } _ { 4 }$ 通量范围为$- 8 . 5 0 { \\sim } 6 . 7 4 \\ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 }$ ,2021年 $\\mathrm { C H } _ { 4 }$ 通量范围为$- 5 . 4 2 { \\sim } 5 . 9 0 ~ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 }$ 。不同于 $\\mathrm { C O } _ { 2 }$ 通量， $\\mathrm { C H } _ { 4 }$ 通量各处理均在夜间或凌晨温度较低时段出现最大值。2.1.3 ${ \\bf N } _ { 2 } { \\bf O }$ 日变化规律由图4可知，5种不同水分处理下 ${ \\mathrm { N } } _ { 2 } { \\mathrm { O } }$ 通量日变化规律有差异，规律不明显（图4)，除 $- 2 5 \\%$ 处理呈吸收状态，其余4个处理均呈排放状态。不同水分处理下，2020年 ${ \\mathrm { N } } _ { 2 } { \\mathrm { O } }$ 通量范围为 $- 1 5 . 8 2 { \\sim } 6 . 9 0 \\ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 }$ $+ 2 5 \\% ( 0 . 8 9 \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 } ) \\updownarrow +$ $7 5 \\% ( 6 . 9 0 \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 } )$ ） $- 7 5 \\% ( 1 . 5 4 \\ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 } )$ 处理下 ${ \\mathrm { N } } _ { 2 } { \\mathrm { O } }$ 通量都呈现排放状态， $- 2 5 \\% ( - 1 5 . 8 2 ~ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 }$ .$\\ln ^ { - 1 }$ )处理呈现吸收状态。不同水分处理下，2021年${ \\mathrm { N } } _ { 2 } { \\mathrm { O } }$ 通量范围为 $- 1 . 3 1 { \\sim } 1 . 1 1 \\ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 }$ ，除 $- 7 5 \\%$ （204号 $( 1 . 1 1 \\ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 } )$ 处理表现为排放状态，其余处理均表现为吸收状态。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.43种温室气体日均变化由图5a可知，2020年 $\\mathrm { C O } _ { 2 }$ 日变化均呈现排放状态,日均值为 $7 8 . 2 4 ~ \\mathrm { m g }$ $\\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 }$ 。减雨处理下 $\\mathrm { C H _ { 4 } }$ 日变化呈吸收状态，增雨",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/14cf8e0b4dbcede1f93597f45865fca1c5d57cfa588117bd142dd0ff7ff8fbb7.jpg",
+        "img_caption": [
+            "图2瓦颜山河源湿地不同降水处理下 $\\mathrm { C O } _ { 2 }$ 通量日变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Diurnal variation of $\\mathrm { C O } _ { 2 }$ flux under different precipitation treatments in the source wetland of Wayan Mountain处理下和对照处理下呈排放状态，吸收值均值为$- 6 . 7 2 ~ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 }$ ,排放值均值为 $3 . 0 7 ~ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 } .$ 0${ \\mathrm { N } } _ { 2 } { \\mathrm { O } }$ 日变化除 $- 2 5 \\%$ 为吸收状态其余均为排放状态，吸收均值为 $- 1 5 . 8 2 ~ { \\mu \\mathrm { g } } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 }$ ,排放均值为 $2 . 6 6 ~ \\mu \\mathrm { g }$ $\\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { h } ^ { - 1 }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e2d04e42b70e5eb4b4fe16e83bdc12c0ed826055496b07cff57a4e3b922e8583.jpg",
+        "img_caption": [
+            "Fig.3Diurnal variation of $\\mathrm { C H } _ { 4 }$ flux under different precipitation treatments in the source wetland of Wayan Mountain "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/686c5050f65f4fa651021f1aad336a548e85bc7b2c25bdd0db9a7e1b44e98c8d.jpg",
+        "img_caption": [
+            "图3瓦颜山河源湿地不同降水处理下 $\\mathrm { C H } _ { 4 }$ 通量日变化",
+            "图4瓦颜山河源湿地不同降水处理下 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 通量日变化",
+            "Fig.4Diurnal variation of $\\mathrm { N } _ { 2 } \\mathrm { O }$ flux under different precipitation treatments in the source wetland of Wayan Mount ",
+            "图5瓦颜山河源湿地不同降水处理下3种温室气体通量日均变化",
+            "Fig.5Daily average change of three greenhouse gas fluxes under different precipitation treatments in the source wetland of Wayan Mountain "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图5b可知,2021年 $\\mathrm { C O } _ { 2 }$ 日均值为 $4 6 . 4 8 ~ \\mathrm { m g }$ $\\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { h } ^ { - 1 }$ ,均呈排放状态。除 $- 2 5 \\%$ 处理下， $\\mathrm { C H } _ { 4 }$ 通量为吸收状态，其余处理均呈排放状态，吸收均值为$- 5 . 4 2 ~ { \\mu \\mathrm { g } } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 }$ ,排放均值为 $2 . 0 2 ~ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "${ \\mathrm { N } } _ { 2 } { \\mathrm { O } }$ 日变化除 $- 7 5 \\%$ 处理为排放状态其余均为吸收状态，吸收均值为 $1 . 0 2 ~ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 }$ ,排放均值为1.11$\\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2不同降水处理下土壤水分、土壤温度与温室气体通量相关变化特征",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2020年、2021年5个处理的土壤水分变化趋势大致相同(图6）， $0 7 : 0 0 { \\ - } \\{ 0 3 :  0 0$ 均处于上升状态。$\\mathrm { C O } _ { 2 }$ 通量与土壤水分在CK和 $+ 7 5 \\%$ 处理下呈负相关$( P { < } 0 . 0 5 )$ ， $+ 2 5 \\%$ 处理下呈极显著负相关 $( P { < } 0 . 0 1 )$ ;",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "180 (a)2020年 CO2 + CH4 20 (--r)/ 120 (b)2021年 CO2 CH4 15 (--/  \n(----/ 10040 -NO 15 (--1)/ 100 NO 1010  \n120 5 80 5  \n100 0 60 0  \n860 -5 40 5-10  \n40 -15 20 -10  \n20 -20 0  \nCK 25% -25% 75% -75% CK $+ 2 5 \\%$ -25% $+ 7 5 \\%$ （20 -75%处理 处理",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9b6df5e3471d02b47394da5cbb5ab5c3b04017f0f354cd013bef5e65764d6834.jpg",
+        "img_caption": [
+            "图6瓦颜山河源湿地不同降水处理土壤水分日变化",
+            "Fig.6Diurnal variationofsoil moisture withdifferent precipitation treatments in the source wetlandof Wayan Mountain "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { C H } _ { 4 }$ 通量与土壤水分在CK处理下呈正相关( $P <$ 0.05）， $+ 2 5 \\%$ 处理下呈极显著负相关( $\\scriptstyle { \\overrightarrow { P } } < 0 . 0 1 $ ）； ${ \\mathrm { N } } _ { 2 } { \\mathrm { O } }$ 通量与土壤水分在CK处理下呈负相关 $\\left( P { < } 0 . 0 5 \\right)$ ，$- 7 5 \\%$ 处理下呈正相关( $_ { ( P < 0 . 0 5 ) }$ (表1)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图7可知，5个处理的土壤温度变化趋势基本一致，均在15:00—19:00出现了峰值。 $\\mathrm { C O } _ { 2 }$ 通量与土壤温度在CK、 $+ 2 5 \\%$ 和 $+ 7 5 \\%$ 处理下呈正相关( $P <$ 0.05); $\\mathrm { C H } _ { 4 }$ 通量与土壤温度在 $+ 2 5 \\%$ 处理下呈负相关$( P { < } 0 . 0 5 )$ ； ${ \\mathrm { N } } _ { 2 } { \\mathrm { O } }$ 通量与土壤温度在CK处理下呈正相关 $( P { < } 0 . 0 5 )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表1、表2可知，不同时间点不同降水处理下土壤温度差异显著，15：00各处理达到峰值，03：00最低，增雨处理相较减雨处理低(2020年 $0 . 2 9 ~ \\mathrm { ^ { \\circ } C }$ ，",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2021年 $0 . 5 8 ~ \\mathrm { ^ { \\circ } C } ~ ,$ )，说明降水增多降低了土壤温度。不同降水处理下土壤水分差异显著(表1),在同1d的6个实验点中，水分峰值出现在19：00、23：00和3:00,水分值与温度值呈显著负相关， $+ 2 5 \\%$ 处理较$- 2 5 \\%$ 处理高 $3 . 7 9 \\% , + 7 5 \\%$ 处理较 $- 7 5 \\%$ 处理高$1 . 9 3 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3不同降水处理下土壤全氮全碳变化特征",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从图8中可以看出，随着土壤水分升高 $0 { \\sim } 1 0 \\ \\mathrm { c m }$ 土壤全氮全碳含量也逐渐升高(图8),其中 $0 { \\sim } 1 0 \\ \\mathrm { c m }$ 土壤全氮含量 $+ 7 5 \\%$ 处理最高，为 $1 4 . 6 4 ~ \\mathrm { g } \\cdot \\mathrm { k g } ^ { - 1 }$ ， $+ 2 5 \\%$ 处理最低,为 $1 1 . 5 7 ~ \\mathrm { g \\cdot k g ^ { - 1 } }$ $1 0 { \\sim } 2 0 \\ \\mathrm { c m } - 2 5 \\%$ 处理含量最高，为 $1 6 . 7 4 ~ \\mathrm { g \\cdot k g ^ { - 1 } }$ ， $+ 2 5 \\%$ 处理最低，为 $1 5 . 0 9 \\ \\mathrm { g }$ .$\\mathbf { k g } ^ { - 1 }$ 。 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 土壤全碳含量 $+ 7 5 \\%$ 处理最高，为",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/58aacc1823ac6378bc4b8c9da495ffb80a36ef5ecb1c2a5410f3344a8e0a4ebb.jpg",
+        "img_caption": [
+            "图7瓦颜山河源湿地不同降水处理土壤温度日变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.7Diurnalvariationofsoiltmperature in thesource wetlandof Wayan Mountain with different precipitation treatments ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/4bf89c9284ad746ad2bacab728f105765e7beeced245c5bc1ea3cecfe9e324d5.jpg",
+        "table_caption": [
+            "表12020年瓦颜山河源湿地土壤不同降水处理下温湿度多重比较",
+            "Tab.1Multiple comparisons of temperature and humidity in the wetland of the Wayan Mountain River source under different precipitation treatments in 2020 "
+        ],
+        "table_footnote": [
+            "注：数值为平均值 $_ { . \\pm }$ 标准差；不同小写字母表示同一时间不同处理间各指标差异达到0.05显著水平。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>处理</td><td>7:00</td><td>11:00</td><td>15:00</td><td>19:00</td><td>23:00</td><td>3:00</td></tr><tr><td>土壤 温度/℃</td><td>CK</td><td>3.06±0.49b</td><td>5.10±0.36b</td><td>8.73±1.02a</td><td>8.23±0.60a</td><td>7.56±0.30c</td><td>6.26±0.37d</td></tr><tr><td></td><td>+25%</td><td>3.13±0.34b</td><td>4.53±0.11b</td><td>8.43±0.11a</td><td>8.13±1.04a</td><td>6.96±0.34c</td><td>6.30±0.43d</td></tr><tr><td rowspan=\"7\">土壤 水分1%</td><td>-25%</td><td>2.60±1.40c</td><td>5.40±0.72b</td><td>9.33±1.15a</td><td>9.23±0.45a</td><td>7.23±0.32cd</td><td>6.46±0.32d</td></tr><tr><td>+75%</td><td>2.43±1.10bc</td><td>5.66±0.85b</td><td>8.63±2.03a</td><td>8.46±0.76a</td><td>7.06±0.55cd</td><td>6.16±0.15d</td></tr><tr><td>-75%</td><td>3.03±0.76b</td><td>6.56±0.20b</td><td>9.23±1.01a</td><td>8.73±0.40a</td><td>6.93±0.85c</td><td>6.66±0.77c</td></tr><tr><td>CK</td><td>35.63±1.09c</td><td>33.36±1.09d</td><td>34.00±1.58d</td><td>34.73±0.50c</td><td>48.56±0.37b</td><td>55.66±2.50a</td></tr><tr><td>+25%</td><td>37.40±0.65b</td><td>33.16±0.32c</td><td>35.63±2.74bc</td><td>34.43±0.58bc</td><td>56.70±2.52a</td><td>56.06±3.85a</td></tr><tr><td>-25%</td><td>36.53±0.83c</td><td>31.10±0.95d</td><td>33.63±1.20cd</td><td>32.60±1.25d</td><td>42.80±2.04b</td><td>54.00±3.00a</td></tr><tr><td>+75%</td><td>36.23±0.80bc</td><td>32.13±1.95c</td><td>37.50±3.67b</td><td>34.13±0.30bc</td><td>55.50±1.45a</td><td>54.90±5.16a</td></tr><tr><td></td><td>-75%</td><td>35.53±0.89b</td><td>30.86±0.98b</td><td>32.73±0.55b</td><td>31.83±2.05b</td><td>54.73±3.78a</td><td>53.13±7.10a</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/f6ba3d29342f60543b983f83e48b347efd571e91763159af7f4e03655f33da89.jpg",
+        "table_caption": [
+            "表22021年瓦颜山河源湿地土壤不同降水处理下温湿度多重比较",
+            "Tab.2Multiple comparisons of temperature and humidity in the wetland of the Wayan Mountain River sourceunderdifferent precipitation treatmentin 2021 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>处理</td><td>7:00</td><td>11:00</td><td>15:00</td><td>19:00</td><td>23:00</td><td>3:00</td></tr><tr><td rowspan=\"4\">土壤温 度/℃</td><td>CK</td><td>2.43±0.08e</td><td>4.53±0.14d</td><td>8.96±0.27a</td><td>7.23±0.24b</td><td>7.40±0.05b</td><td>5.90±0.05c</td></tr><tr><td>+25%</td><td>2.20±0.15c</td><td>5.96±0.27b</td><td>7.93±0.38a</td><td>5.43±0.34b</td><td>5.53±0.18b</td><td>4.96±0.17b</td></tr><tr><td>-25%</td><td>2.83±0.08d</td><td>6.20±0.15b</td><td>8.63±0.26a</td><td>6.56±0.31b</td><td>6.80±0.11b</td><td>5.43±0.06c</td></tr><tr><td>+75%</td><td>2.10±0.15c</td><td>5.43±0.80b</td><td>8.10±0.52a</td><td>6.30±0.81b</td><td>6.10±0.35b</td><td>5.33±0.20b</td></tr><tr><td rowspan=\"6\">土壤 水分1%</td><td>-75%</td><td>2.26±0.08d</td><td>5.46±0.82c</td><td>8.53±0.12a</td><td>7.40±0.30ab</td><td>6.86±0.12b</td><td>5.43±0.23c</td></tr><tr><td>CK</td><td>56.90±1.03b</td><td>56.50±0.49b</td><td>56.56±0.84b</td><td>63.10±1.31a</td><td>58.20±0.55b</td><td>65.10±0.91a</td></tr><tr><td>+25%</td><td>57.00±1.49a</td><td>56.76±1.03a</td><td>57.30±1.27a</td><td>62.13±0.82a</td><td>62.13±1.06a</td><td>61.16±2.68a</td></tr><tr><td>-25%</td><td>52.06±0.67c</td><td>55.23±1.31bc</td><td>56.36±1.04bc</td><td>59.63±0.90ab</td><td>61.83±1.34a</td><td>60.40±1.85ab</td></tr><tr><td>+75%</td><td>55.10±0.72b</td><td>57.73±1.38b</td><td>59.8±2.65b</td><td>65.13±1.27ab</td><td>65.26±2.19a</td><td>64.53±0.89a</td></tr><tr><td>-75%</td><td>53.33±0.06a</td><td>55.76±1.06a</td><td>58.10±0.32a</td><td>59.03±0.78a</td><td>57.53±1.21a</td><td>59.83±4.52a</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/897010625c8d604c46670a09c18c33e78a9cb3ec10c17328981dbfc560bcf63c.jpg",
+        "img_caption": [
+            "图82020年瓦颜山河源湿地不同降水处理土壤全氮全碳含量变化",
+            "Fig.8 Changes of soil total nitrogen and total carbon content in different rainfall treatments in the source wetland of Wayan Mountain in 2020 ",
+            "图92020年不同水分处理下地上、地下生物量特征Fig.9Aboveground and underground biomasscharacteristics under different soil moisture treatments in 2020"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$1 5 9 . 6 9 \\ \\mathrm { g \\cdot k g ^ { - 1 } }$ $+ 2 5 \\%$ 处理最低，为 $1 2 8 . 7 4 ~ \\mathrm { g } \\cdot \\mathrm { k g } ^ { - 1 }$ 。 $1 0 \\sim$ $2 0 \\mathrm { c m }$ 减雨处理稍高于增雨处理， $- 2 5 \\%$ 处理最高，为$1 9 2 . 1 0 \\ \\mathrm { g \\cdot k g ^ { - 1 } }$ $+ 2 5 \\%$ 处理最低，为 $1 7 2 . 3 4 \\ \\mathrm { g \\cdot k g ^ { - 1 } }$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4不同降水处理对土壤地上、地下生物量及 $\\mathbf { p H }$ EC的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从图9可以看出，经过增雨处理后地上、地下生物量明显高于减雨处理，地上生物量增雨处理均值为 $2 3 6 . 4 3 ~ \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 }$ ,减雨处理均值为 $1 3 8 . 1 0 \\mathrm { ~ g } \\cdot \\mathrm { m } ^ { - 2 }$ 。地下生物量增雨处理均值为 $5 0 5 0 . 0 5 ~ \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 }$ ,减雨处理均值为 $3 6 3 3 . 3 5 \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 }$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表3可以看出，随着土壤含水量的增加0\\~10cm土壤 $\\mathrm { \\ p H }$ 有下降趋势，土壤EC呈升高趋势，且随着土壤EC升高 $\\mathrm { \\ p H }$ 随之降低。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "■CK+25%-25% +75%-75%500「(a)地上生物量 6000 (b)地下生物量(z8)/ 400 （z08/ 5000400030030002002000100 1000中 15 -15处理 处理",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1不同降水梯度对河源湿地 $\\mathbf { C O } _ { 2 }$ 通量的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "通过2a生长旺季 $2 4 \\mathrm { h }$ 观测来看，5个处理均为$\\mathrm { C O } _ { 2 }$ 排放源,其中增雨 $2 5 \\%$ 排放量最高并与 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 土壤水分呈显著负相关，与 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 土壤温度呈正相关(表1)。由图2可以看出，在瓦颜山河源湿地$+ 2 5 \\%$ 处理是促进 $\\mathrm { C O } _ { 2 }$ 通量排放最大贡献梯度。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在湿地生态系统中，水分影响着植物的生产力和凋落物的分解[34]。温度一定时，在有氧状况即水分不高时，水分会促进碳的分解；厌氧状况下，会抑制碳分解，虽然部分碳会被还原为 $\\mathrm { C H } _ { 4 }$ 排放到大气中,但含量很少[35]。土壤的氧化反应空间会随着土壤水分的升高而减少，随之有机物分解速率减小，进而影响 $\\mathrm { C O } _ { 2 }$ 排放量的减少。湿地植物根系主要分",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表3土壤pH和EC值",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/93a6e045e996df76483c0b23b936486aada7138ab18874ea3c73f8c6a790b89c.jpg",
+        "table_caption": [
+            "Tab.3 Soil pH value and EC value "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理</td><td colspan=\"2\">pH</td><td colspan=\"2\">EC</td></tr><tr><td>0~10 cm</td><td>10~20 cm</td><td>0~10cm</td><td>10~20 cm</td></tr><tr><td>CK</td><td>6.700±0.070</td><td>6.673±0.078</td><td>178.300±2.400</td><td>143.600±3.300</td></tr><tr><td>+25%</td><td>6.233±0.503</td><td>6.883±0.513</td><td>252.997±3.105</td><td>89.200±1.600</td></tr><tr><td>-25%</td><td>6.267±0.481</td><td>5.950±0.563</td><td>208.000±2.100</td><td>134.733±2.964</td></tr><tr><td>+75%</td><td>6.050±1.020</td><td>6.550±0.910</td><td>383.000±1.960</td><td>150.500±3.160</td></tr><tr><td>-75%</td><td>6.300±0.510</td><td>7.000±0.630</td><td>334.000±2.150</td><td>90.800±1.960</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/c42e6a2eb44c8fe6eb0b528cdd5124793c2022c8537399c2d22d0702a77ff01e.jpg",
+        "table_caption": [
+            "表42020年和2021年8月瓦颜山不同降水处理下植物群落调查",
+            "Tab.4Investigationofplantcommunitiesunderdiffrentrainfalltreatments inWayanMountain inAugust2O2Oand 2021 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>时间</td><td>处理</td><td>植被优势种</td><td>植被盖度/%</td><td>植被高度/cm</td><td>植被表层厚度/cm</td></tr><tr><td>2020年8月</td><td>CK</td><td>藏嵩草、草、火绒草</td><td>84</td><td>5.4~12.6</td><td>0.21</td></tr><tr><td rowspan=\"6\"></td><td>+25%</td><td>藏嵩草、草、鹅绒委陵菜、火绒草</td><td>92</td><td>6.3~17.4</td><td>0.16</td></tr><tr><td>-25%</td><td>藏嵩草、草、平车前</td><td>82</td><td>4.9~15.3</td><td>0.28</td></tr><tr><td>+75%</td><td>藏嵩草、草、火绒草、乳白香青</td><td>90</td><td>7.1~17.8</td><td>0.37</td></tr><tr><td>-75%</td><td>藏嵩草、草、鹅绒委陵菜、蓝石草</td><td>80</td><td>0.9~13.7</td><td>0.23</td></tr><tr><td>CK</td><td>藏嵩草、草、火绒草</td><td>85</td><td>5.6~11.8</td><td>0.23</td></tr><tr><td>+25%</td><td>藏嵩草、草、鹅绒委陵菜、火绒草</td><td>93</td><td>7.4~17.5</td><td>0.31</td></tr><tr><td></td><td>-25%</td><td>藏嵩草、草、平车前</td><td>81</td><td>5.2~13.6</td><td>0.25</td></tr><tr><td></td><td>+75%</td><td>藏嵩草、草、火绒草、乳白香青</td><td>87</td><td>8.2~16.8</td><td>0.28</td></tr><tr><td></td><td>-75%</td><td>藏嵩草、草、鹅绒委陵菜、蓝石草、伏毛山莓草</td><td>80</td><td>2.6~10.6</td><td>0.19</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "布在土壤上层( $< 3 0 \\ \\mathrm { c m } ,$ ，相对较高的温度会影响微生物的分解和根系呼吸[18],结果使湿地 $\\mathrm { C O } _ { 2 }$ 排放与土壤温度存在显著相关性。吴祥文等[3研究发现，$\\mathrm { C O } _ { 2 }$ 通量与温度呈正相关，当温度升高时，自养呼吸、异养呼吸作用逐渐增强， $\\mathrm { C O } _ { 2 }$ 通量随之升高，与本试验研究结果一致。观测日土壤温度于11：00开始升温，19：00后开始降温，良好的水热组合能促进根系呼吸及微生物分解活动[36]，使 $\\mathrm { C O } _ { 2 }$ 通量在此时段达到排放高峰期。从5个处理来看，当湿地土壤含水量为 $45 \\%$ 时，土壤有机碳分解 $\\mathrm { C O } _ { 2 }$ 的排放率和排放量最大（图2)，在15：00土壤温度最高时， $\\mathrm { C O } _ { 2 }$ 排放通量达到最大值(图2)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2不同降水梯度对河源湿地 $\\mathbf { C H _ { 4 } }$ 通量的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "与以往研究一致， $\\mathrm { C H } _ { 4 }$ 通量呈现吸收和排放2种状态(图3)。土壤水分决定了土壤厌氧情况，从而影响甲烷菌活性以及有机质厌氧分解程度，当降水量升高时 $\\mathrm { C H } _ { 4 }$ 排放量也随之升高[37]。胡启武等[38]认为，随着土壤水分含量的增加，高寒土壤 $\\mathrm { C H } _ { 4 }$ 释放由吸收转为排放，与研究结果一致。湿地甲烷排放的传输过程主要是通过植物的通气组织以及植物细胞间空隙进行[38],瓦颜山河源湿地不同处理下植物丰度和高度增雨处理明显高于减雨处理，与 $\\mathrm { C H } _ { 4 }$ 通量呈正比(表1)。甲烷菌活动适宜温度为 $3 0 \\ \\mathrm { ^ { c } }$ 瓦颜山河源湿地土温变化范围为 $5 . 8 { \\sim } 1 5 . 4 ~ \\mathrm { ^ { \\circ } C }$ ，远远小于最适温度，因此,研究区 $\\mathrm { C H } _ { 4 }$ 通量远小于热带森林、田地等生态系统[39]。湿地 $\\mathrm { C H } _ { 4 }$ 排放的每个过程都受到温度与降水的影响，增雨处理下 $\\mathrm { C H } _ { 4 }$ 通量与土壤水分呈显著正相关(表1)，5个处理除增雨 $2 5 \\%$ 以外，与土壤温度均不存在显著相关。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3不同降水梯度对河源湿地 $\\mathbf { N _ { 2 } O }$ 通量的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "降水通过改变土壤孔隙含氧量来影响产生 ${ \\mathrm { N } } _ { 2 } { \\mathrm { O } }$ 的生物学过程[35]。 ${ \\bf N } _ { 2 } { \\bf O }$ 通量排放规律存在较大变异性，土壤碳氮是土壤硝化与反硝化过程的底物，土壤碳氮库的变化对 ${ \\mathrm { N } } _ { 2 } { \\mathrm { O } }$ 排放通量具有重要影响。降水和温度之间存在交互作用，降水使温度降低，而温度影响水分蒸散发，降水与蒸发共同影响土壤水分值,进而影响硝化、反硝化作用[40]。土壤水分升高更易造成厌氧情况，随着硝化速率的减弱，反硝化速率增加使得 ${ \\mathrm { N } } _ { 2 } { \\mathrm { O } }$ 通量升高，从5个处理来看增雨处理下 ${ \\mathrm { N } } _ { 2 } { \\mathrm { O } }$ 排放通量均高于减雨处理 ${ \\mathrm { N } } _ { 2 } { \\mathrm { O } }$ ,这与众多研究结果基本一致[18.41-42] C",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.4不同水分处理下植物种类演替",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "瓦颜山河源湿地降水模拟装置于2018年建成，在连续3a监测植被种类演替，选取2020年和2021年8月生长旺季植被调查数据(表4)，瓦颜山河源湿地植物类型较单一，主要以藏嵩草和臺草为主，每种水分处理下均以这2种植物为主。发现在水分减少时主要以藏嵩草和臺草为优势种，当水分减少$2 5 \\%$ 时，平车前覆盖度明显增加，可能是此处理下水分符合该植物生长所需。当水分增加时，喜潮湿植被鹅绒委陵菜数量明显增加，且植被高度均 ${ > } 1 0$ $\\mathrm { c m }$ 。其中， $+ 2 5 \\%$ 处理植被盖度、高度明显高于其他处理，说明在瓦颜山河源湿地将降水量控制在增加$2 5 \\%$ 时，更适合植被生长。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（1）青海湖流域瓦颜山河源湿地在极端降水处理下，增雨 $2 5 \\% \\mathrm { C O } _ { 2 } \\ 、 \\mathrm { C H } _ { 4 } \\ 、 \\mathrm { N } _ { 2 } \\mathrm { O }$ 处于排放状态。减雨$2 5 \\%$ CO处于排放状态， $\\mathrm { C H } _ { 4 } , \\mathrm { N } _ { 2 } \\mathrm { O }$ 处于吸收状态。增雨 $7 5 \\% \\mathrm { C O } _ { 2 } \\ 、 \\mathrm { C H } _ { 4 } \\ 、 \\mathrm { N } _ { 2 } \\mathrm { O }$ 处于排放状态，减雨 $7 5 \\%$ $\\mathrm { C O } _ { 2 } , \\mathrm { N } _ { 2 } \\mathrm { O }$ 处于排放状态， $\\mathrm { C H } _ { 4 }$ 处于吸收状态。不同水分处理下，3种温室气体通量具有显著差异，就4种降水梯度来看， $+ 2 5 \\%$ 对瓦颜山河源湿地温室气体的贡献率占比较大，显著促进了该区域温室气体的排放。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2）通过对瓦颜山河源湿地连续2a日动态监测发现，土壤水分、温度对不同处理下 $\\mathrm { C O } _ { 2 } , \\mathrm { C H } _ { 4 } , \\mathrm { N } _ { 2 } \\mathrm { O }$ 气体通量影响显著，对土壤 $\\mathrm { p H } \\mathrm { , E C }$ 值略有影响。不同处理下 $0 { \\sim } 1 0 \\ \\mathrm { c m } \\setminus 1 0 { \\sim } 2 0 \\ \\mathrm { c m }$ 土壤全氮全碳有规律变化，地上、地下生物量随降水梯度变化而变化。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（3） $\\mathrm { C O } _ { 2 }$ 通量在自然处理、增雨处理、减雨处理下都呈现随着温度的升高而升高的趋势，但与土壤水分呈负相关。 $\\mathrm { C H } _ { 4 }$ 通量在自然处理、减雨处理下呈现随着温度的升高而升高的趋势，与土壤水分大体呈现负相关。 ${ \\bf N } _ { 2 } { \\bf O }$ 通量在自然处理下也呈现随温度升高而升高的趋势，增雨处理下变化并不明显，减雨处理下呈负相关，与土壤水分大体都呈现正相关。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(4）湿地生态系统温室气体同样也受到植物呼吸影响，不同水分处理下喜湿植物和耐旱植物分布有一定的规律。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在全球变化大背景下，在减雨处理下3种气体排放通量明显小于增雨处理下3种温室气体排放通量，从而可以看出，降雨量的增加使瓦颜山河源湿地温室效应相应增加，从而影响该区域碳氮收支平衡。青藏高原高寒湿地的生长旺季 $2 4 \\mathrm { h }$ 的通量研究虽不足以说明“源汇\"问题，但生长旺季的日通量测定能对该区或相同类型湿地提供理论性参考，今后对该区域的研究将延长时间尺度，并结合微生物分析视角，探究湿地的碳氮循环机理。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References):",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]Ciais P,Sabine C,Bala G,et al. Carbon and other biogeochemical cycles[C]/Stocker TF,Qin D,Plattner G-K,et al. Climate Change 2013:The Physical Science Basis.Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change.Cambridge,United Kingdom and New York, USA: Cambridge University Press,2013.   \n[2]Semeniuk C A, Semeniuk V.The response of basin wetlands to climate changes:A review of case studies from the Swan Coastal Plain,south-western Australia[J]. Hydrobiologia,2013,708(1): 45- 67.   \n[3]Barros D,Albernaz A.Possble impacts of climate change on wetlands and its biota in the Brazilian Amazon[J]. Brazilian Journal of Biology,2014,74: 810-820.   \n[4]Gorham E.Northern Peatlands:Role in the carbon cycle and probable responses to climatic warming[J]. Ecological Applications, 1991, 11(2): 182-195.   \n[5]Meng L,Roulet N, Zhuang Q,et al.Focus on the impact of climate change on wetland ecosystems and carbon dynamics[J]. Environmental Research Leters,2016,11(10): 100201.   \n[6]Weedon JT, Kowalchuck G A,Aerts R,et al. Summer warming accelerates subartic peatland nitrogen cycling without changing enzyme pools or microbial community structure[J]. Global Change Biology,2012,1818:138-150.   \n[7]Mitsch W J,Bernal B,Nahlik A M,et al. Wetlands,carbon, and climate change[J].Landscape Ecology,2013,28: 583-597.   \n[8]Matthews E,Fung I. Methane emission from natural wetlands-global distribution,area and environmental characteristics of sources [J]. Global Biogeochemical Cycles,1987,1(1): 61- 86.   \n[9]Brix H. Gas exchange through the soil-atmosphere on terphase and through dead culms of Phragmites australis in aconstructed reed bed receiving domestic sewage[J]. Water Research,1990,24: 259- 266.   \n[10]Mathews E,Fung I.Methane emission from Natural Wetlands: Global distribution,area and environmental characteristics of sources[J]. Global Biogeochemical Cycles,1987,1: 61-86.   \n[11]翟盘茂,余荣,周佰钰,等. $1 . 5 \\mathrm { { ^ { \\circ } C } }$ 增暖对全球和区域影响的研究 进展[J].气候变化研究进展,2017,13(5):465-472.[Zhai Panmao, Yu Rong, Zhou Baiquan, et al. Research progress on global and regional impacts of $1 . 5 \\mathrm { ~ \\textdegree C }$ warming[J].Advances in Climate Change Research,2017,13(5): 465-472.]   \n[12] 董星丰,陈强,李浩,等.全球气候变化对我国高寒地区冻土温 室气体通量的影响[J].土壤与作物,2019,8(2):178-185.[Dong Xingfeng,Chen Qiang,Li Hao,etal. The impact of global climate change on the greenhouse gas fluxes of permafrost in my country's alpine regions [J]. Soil and Crops,2019,8(2): 178-185.]   \n[13] 宗宁,石培礼.模拟增温对西藏高原高寒草甸土壤供氮潜力的 影响[J].生态学报,2019,39(12):4356-4365.[Zong Ning,Shi Peili.Effects ofsmulated warming onsoil nitrogen suloten tial of alpine meadows on the Qinghai-Tibet Plateau[J].Acta Ecologica Sinica,2019,39(12): 4356-4365.]   \n[14] 高振岭,张猛,王磊,等.水分对大兴安岭不连续多年冻土区湿 地泥炭分解排放二氧化碳的影响[J].科技信息,2011(24):417- 419.[Gao Zhenling,Zhang Meng,Wang Lei,et al. The effect of moisture on the carbon dioxide emissions from the decomposition of wetland peat in the discontinuous permafrost region of the Greater Xing'an Mountains[J]. Science and Technology Information, 2011(24): 417-419.]   \n[15]Reth S,Reichstein M,Falge E,et al. The effect of soil water content,soil temperature,soil pH-value and the root mass on soil CO2 efflux-A modified model[J].Plant and Soil,20o5,268: 21- 23.   \n[16] 陈全胜,李凌浩,韩兴国,等.水分对土壤呼吸的影响及机理 [J].生态学报,2003,23(5): 972-978.Chen Quansheng,Li Linghao,Han Xingguo,et al. The effect and mechanism of water on soil respiration[J]. Acta Ecologica Sinica,2003,23(5): 972-978.]   \n[17]Jauhiainen J, Takahashi H, Heikkinen J,et al. Carbon fluxes from a tropical peat swamp forest floor[J]. Global Change Biology,2005, 11: 1788-1797.   \n[18] 牟长城,刘霞,孙晓新,等.小兴安岭阔叶林沼泽土壤 $\\mathrm { C O } _ { 2 }$ 、CH4 和 ${ \\bf N } _ { 2 } { \\bf O }$ 排放规律及其影响因子[J].生态学报,2010,30(17): 4598-4608.[Mu Changcheng, Liu Xia, Sun Xiaoxin, et al. $\\mathrm { C O } _ { 2 } .$ （204号 $\\mathrm { C H } _ { 4 }$ ,and N2O emissins fromsoilsof broad-leavedforest swamps in Xiaoxing'an Mountains and their influencing factors[J].Acta Ecologica Sinica, 2010,30(17): 4598-4608.]   \n[19] 李丽,雷光春,高俊琴,等.地下水位和土壤含水量对若尔盖木 里苔草沼泽甲烷排放通量的影响[J].湿地科学,2011,9(2): 173-178.[Li Li,Lei Guangchun,Gao Junqin,et al. The influence of groundwater level and soil water content on methane emission fluxes from Carex marsh Ruoergai[J]. Wetland Science,2011,9 (2): 173-178. ]   \n[20] 曹莹芳,郭小伟,周庚,等.青藏高原高寒草甸NO排放速率及 其对降水和气温的响应特征[J].草原与草坪,2017,37(4):20- 25.[Cao Yingfang, Guo Xiaowei, Zhou Geng,et al. ${ \\bf N } _ { 2 } { \\bf O }$ emission rate of alpine meadow on the Qinghai- Tibet Plateau and its response characteristics to precipitation and temperature[J]. Grassland and Turf,2017,37(4): 20- 25.]   \n[21]Davidson EA.Fluxes of nitrous oxide and nitric oxide from terrestrial ecosystems[C]//Roger JE,Whitman W B.Microbial Production and Consumption of Greenhouse Gases:Methane,Nitrogen Oxide,and Halo-Methane.American Society of Microbiology,Washington DC,1991: 219-235.   \n[22] 冯晓莉,申红艳,李万志,等.1961—2017年青藏高原暖湿季节 极端降水时空变化特征[J].高原气象,2020,39(4):694-705. [Feng Xiaoli,Shen Hongyan,Li Wanzhi,etal.Temporal and spatialvariation characteristicsof extreme precipitation in warm and humid seasons over the Qinghai-Tibet Plateau from 1961 to 2017 [J].Plateau Meteorology,2020,39(4): 694-705.]   \n[23] 张乐乐,高黎明,陈克龙.青海湖流域瓦颜山湿地辐射平衡和地 表反照率变化特征[J].冰川冻土,2018,40(6):1216-1222. [Zhang Lele,Gao Liming, Chen Kelong.Variation characteristics of radiation balance and surface albedo of Wayan Mountain wetland in Qinghai Lake Basin[J]. Journal of Glaciology and Geocryology,2018,40(6): 1216-1222.]   \n[24]张金龙,陈英,葛劲松,等.1977—2010年青海湖环湖区土地利 用/覆盖变化与土地资源管理[J].中国沙漠,2013,33(4):1256- 1266.[Zhang Jinlong, Chen Ying, Ge Jinsong,et al. Land use/cover change and land resource management in the area around the Qinghai Lake from 1977 to 2010[J]. Journal of Desert Research, 2013,33(4): 1256-1266.]   \n[25]祁永发.20年来青海湖流域湿地变化研究[D].西宁:青海师范 大学,2012.[Qi Yongfa.Research on Wetland Changes in QinghaiLake Basin in the Past2O Years[D]. Xining: Qinghai Normal University,2012.]   \n[26] 杨羽帆.基于氢氧稳定同位素技术的青海湖沙柳河流域降水径 流过程研究[D].西宁:青海师范大学,2019.[Yang Yufan. Study on the Precipitation Runoff Process in the Shaliu River Basin of Qinghai Lake Based on Hydrogen and Oxygen Stable Isotope Technology[D]. Xining: Qinghai Normal University,2019.]   \n[27] 黄晓宇,陈克龙,吴成永.青藏高原高寒草甸生长季土壤呼吸的 昼夜变化及其季节动态[J].云南地理环境研究,2016,28(3): 66-71.[Huang Xiaoyu, Chen Kelong,Wu Chengyong. Diurnal changes and seasonal dynamics of soil respiration in the growing season of alpine meadows on the Qinghai-Tibet Plateau[J]. Yunnan Geographical Environment Research, 2016,28(3): 66-71.]   \n[28]丁俊霞,陈克龙,崔航,等.高原鼠兔对高寒沼泽草甸土壤呼吸 的干扰[J].生态科学,2019,38(6):1-7.[Ding Junxia,Chen Kelong,Cui Hang,et al. Interference of plateau pika on soil respiration in alpine swamp meadow[J]. Ecological Science,2019,38 (6): 1-7.]   \n[29] 吴方涛,曹生奎,曹广超,等.青海湖2种高寒嵩草湿草甸湿地 生态系统水热通量比较[J.水土保持学报,2017,31(5):176- 182.[Wu Fangtao, Cao Shengkui, Cao Guangchao,et al. Comparison of water and heat fluxes of two alpine Kobresia wetland wetland ecosystems in Qinghai Lake[J]. Journal of Soil and Water Conservation,2017,31(5):176-182.]   \n[30] 丁俊霞.青藏高原高寒沼泽草甸冻融侵蚀区中的土壤呼吸研究 [D].西宁:青海师范大学,2020.[Ding Junxia.Research on Soil Respiration in the Freeze-thaw Erosion Zone of Alpine Swamp Meadow in Qinghai-Tibet Plateau[D]. Xining: Qinghai Normal University,2020.]   \n[31] 刘英,曹生奎,曹广超,等.青海湖2种高寒湿地土壤碳氮化学 计量特征研究[J].西南农业学报,2019,32(11):2630-2637. [Liu Ying,Cao Shengkui, Cao Guangchao,et al. Study on soil carbon and nitrogen stoichiometric characteristics of two alpine wetlands in Qinghai Lake[J]. Journal of Southwest Agriculture,2019, 32(11): 2630-2637.]   \n[32]Cao G,Xu X,Long R,et al. Methane emissions by alpine plant communities in the Qinghai-Tibet Plateau[J]. Biology Letters,2008, 4(6): 681-684.   \n[33] 陈治荣,蒋莉莉,杨紫唯,等.一种模拟降水的自动导水装置 [P].青海:CN212866149U,2021-04-02.[Chen Zhirong,Jiang Lili,Yang Ziwei,et al.An Automatic Water Guiding Device for Simulating Precipitation[P]. Qinghai: CN212866149U,2021-04-02.]   \n[34]宋长春.湿地生态系统碳循环研究进展[J].地理科学,2003,23 (5): 622-628.[Song Changchun. Research progress in wetland ecosystem carbon cycle[J]. Geographical Sciences,2003,23(5): 622- 628.]   \n[35] 高振岭,张猛,王磊,等.水分对大兴安岭不连续多年冻土区湿 地泥炭分解排放二氧化碳的影响[J].科技信息,2011(24):417- 419.[Gao Zhenling,Zhang Meng,Wang Lei,et al.The influence of moisture on the carbon dioxide emissions from the decomposition of peat in the discontinuous permafrost zone of the Greater Xing'an Mountains[J]. Science and Technology Information,2011 (24): 417-419.]   \n[36] 吴祥文,臧淑英,马大龙,等.大兴安岭多年冻土区森林土壤温 室气体通量[J].地理学报,2020,75(11):2319-2331.[Wu Xiangwen,Zang Shuying,Ma Dalong,et al. Greenhouse gas fluxes from forest soils in permafrost regions of Daxing'anling [J].Acta Geographica Sinica,2020,75(11): 2319-2331.]   \n[37] 牟长城,程伟,孙晓新,等.小兴安岭落叶松沼泽林土壤 $\\mathrm { C O } _ { 2 }$ 、 ${ \\bf N } _ { 2 } 0$ 和 $\\mathrm { C H } _ { 4 }$ 的排放规律[J].林业科学,2010,46(7):7-15.[Mu Changcheng, Cheng Wei, Sun Xiaoxin,et al. Seasonal variation of emission fluxes of $\\mathrm { C O } _ { 2 }$ N2O and $\\mathrm { C H } _ { 4 }$ from Larix gmelinii swamps soils in Xiaoxing'an Mountains of China[J].Scientia Silvae Sinicae,2010,46(7): 7-15.]   \n[38] 胡启武,吴琴,李东,等.不同土壤水分含量下高寒草地 $\\mathrm { C H } _ { 4 }$ 释 放的比较研究[J].生态学杂志,2005,24(2):118-122.[Hu Qiwu,Wu Qing,Li Dong,et al.A comparative study on $\\mathrm { C H } _ { 4 }$ emissions from alpine grasslands under different soil moisture contents [J]. Journal of Ecology,2005,24(2): 118-122.]   \n[39] 沈壬兴,上官行健,王明星,等.广州地区稻田甲烷排放及中国 稻田甲烷排放的空间变化[J].地球科学进展,1995,10(4):387- 392.[Shen Renxing, Shangguan Xingjian,Wang Mingxing,et al. Methane emission from rice paddies in Guangzhou and its spatial variation in China[J].Advances in Earth Sciences,1995,10(4): 387-392.]   \n[40]Minkkinen K,Laine J. Vegetation heterogeneity and ditches create spatial variability in methane fluxes from peatlands drained for forestry[J].Plant Soil,2006,285: 289-304.   \n[41]Li HL, Han Y,Cai Z C. Nitrogen mineralization in paddy soils of the Taihu region of China under anaerobic conditions:Dynamics and model fitting[J].Geoderma,2003,115(3/4):161-175.   \n[42] 李平,魏玮,郎漫.不同水分对半干旱地区砂壤土温室气体排放 的短期影响[J].农业环境科学学报,2021,40(5):1124-1132. [LiPing,Wei Wei,Lang Man.Short-term effects of different moisture on greenhouse gas emission from sandy loam soil in semi-arid region[J]. Journal of Agricultural Environmental Sciences,2021, 40(5): 1124-1132.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Precipitation gradient influence on daily greenhouse gas emission fluxes from a Qinghai Lake wetland ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "YANG Ziwei1,2.3, CHE Zihan2，LIU Fumei1,2.3, CHEN Kelong2,3 (1. School of Geographical Sciences,Qinghai Normal University, Xining 810o08,Qinghai,China;2.KeyLaboratory of Natural Geography and Environmental Processs of Qinghai Province, Xining 810o08, Qinghai, China; 3. Key LaboratoryofQinghai-TibetPlateauSurfaceProcessandEcological Conservation,MinistryofEducation,Qinghai Normal University,Xining 81OoO8,Qinghai, China) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Moisture is the main limiting factor affecting the growth and development of alpine ecosystems.To explore effects of diffrent water conditions on characteristics of greenhouse gas emissions from wetlands, wetlands at the source of the Wayan Mountain in Qinghai Lake Basin were selected. Box-gas chromatography monitored 24-hour greenhouse gas emisson characteristics of wetlands and explored effects of control treatment (CK), $+ 2 5 \\%$ (precipitation increase $2 5 \\%$ treatment), $- 2 5 \\%$ (reduction in the daily change trend of carbon dioxide （20 $\\left( \\mathbf { C O } _ { 2 } \\right)$ ，methane $\\mathrm { ( C H _ { 4 } ) }$ ，and nitrous oxide $( \\mathrm { N } _ { 2 } \\mathrm { O } )$ ）under conditions of $2 5 \\%$ rain treatment), $+ 7 5 \\%$ (precipitation increaseo of $7 5 \\%$ treatment), and $- 7 5 \\%$ (precipitation reduction of $7 5 \\%$ treatment). The results showed that: (1) $\\mathrm { C O } _ { 2 }$ emission ranged from 47.52 to $1 2 3 . 7 1 ~ \\mathrm { m g \\cdot m ^ { - 2 } \\cdot h ^ { - 1 } }$ $\\mathrm { C H } _ { 4 }$ flux ranged from $- 8 . 5 0$ to $6 . 7 4 ~ { \\mu \\mathrm { g } } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 }$ and $\\mathrm { N } _ { 2 } \\mathrm { O }$ flux ranged from $- 1 5 . 8 2$ to $6 . 9 0 ~ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { h } ^ { - 1 }$ .(2) The diurnal variation of $\\mathrm { C O } _ { 2 }$ ， $\\mathrm { C H } _ { 4 }$ and ${ \\bf N } _ { 2 } { \\bf O }$ in CK, $+ 2 5 \\%$ and $+ 7 5 \\%$ treatments showed emission status,and the diurnal variation of $\\mathrm { C O } _ { 2 }$ in $- 2 5 \\%$ treatment showed emission status,while $\\mathrm { C H } _ { 4 }$ and $\\mathrm { N } _ { 2 } \\mathrm { O }$ showed absorption status; The diurnal changes of $\\mathrm { C O } _ { 2 }$ and $\\mathrm { N } _ { 2 } \\mathrm { O }$ under $- 7 5 \\%$ treatment were emission state,while $\\mathrm { C H } _ { 4 }$ was absorption state,and there were significant differences among different precipitation treatments $( P { < } 0 . 0 5 )$ . (3) $\\mathrm { C O } _ { 2 }$ had a significant positive correlation with soil temperature $( P { < } 0 . 0 5 )$ （ and a significant negative correlation with soil moisture $( P { < } 0 . 0 5 )$ ； There was a significant negative correlation between $\\mathrm { C H } _ { 4 }$ and soil temperature ( $( P { < } 0 . 0 5 )$ and between $\\mathrm { C H } _ { 4 }$ and soil moisture $( P { < } 0 . 0 5 )$ ; There was a positive correlation between $\\mathrm { N } _ { 2 } \\mathrm { O }$ and soil temperature $( P { < } 0 . 0 5 )$ ,while there was a negative correlation between $\\mathrm { N } _ { 2 } \\mathrm { O }$ and soil moisture in CK treatment and a positive correlation in rain reduction treatment $( P { < } 0 . 0 5 )$ ,and there was no obvious regularity.(4) Small succession of plant communities occurred under different water treatments. The balance of soil moisture and temperature has a significant impact on the greenhouse gas emission flux in this area,and the imbalance should be avoided to lead to the increase of greenhouse gas emissions. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Keywords: greenhouse gas； static chamber-gas chromatography； source-sink effect； soil moisture； precipita-tion simulation; Qinghai Lake",
+        "page_idx": 12
+    }
+]

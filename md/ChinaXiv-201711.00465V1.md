@@ -1,0 +1,193 @@
+1 饲粮中铜添加量对断奶至2月龄长毛兔生产性能和血清指标的影响张永翠」程光民 $^ 1$ 伏桂华」刘公言²姜八一 $^ 1$ 谭兴智刘建胜 1\*（1.山东畜牧兽医职业学院，潍坊 261061；2.山东农业大学动物科技学院，泰安 271018;
+
+3.烟台开发区农业与海洋渔业局，烟台264006)
+
+5 摘要：本研究旨在探讨饲粮中铜添加量对断奶至2月龄长毛兔生产性能、血清生化指标及  
+6 血清中酶活性的影响。选用蒙阴细毛型长毛兔180只，随机分为6组，每组30只，试兔单  
+7 笼饲养。6组试兔分别饲喂在基础饲粮中添加0、10、20、40、80 和 $1 6 0 \mathrm { m g / k g }$ 铜（添加形  
+8 式为五水硫酸铜)的试验饲粮，试验饲粮中铜含量的实测值分别为3.25、13.13、23.40、43.56、  
+9號 83.58及 $1 6 3 . 8 7 \mathrm { m g / k g }$ 。预试期为7d，正试期 $2 3 { \mathrm { d } }$ 。结果表明：饲粮中铜添加量对长毛兔平  
+10 均日增重（ADG）、料重比（F/G）的影响极显著（ $_ { - P < 0 . 0 1 }$ ），当铜添加量为 $8 0 \mathrm { m g / k g }$ 时，  
+11 ADG 最高，F/G 最低。饲粮中铜添加量对长毛兔胎毛产量、毛直径及皮张面积的影响不显  
+12 著（ $P { > } 0 . 0 5$ ）。饲粮中铜添加量对长毛兔血清中总蛋白（TP）、白蛋白（ALB）、球蛋白  
+13 （GLB）、尿素氮（UN）含量及白球比（A/G）均有显著影响（ $. P { < } 0 . 0 5$ ）。血清中UN含量  
+14 随饲粮中铜添加量的升高呈现先下降后升高的趋势，当铜的添加量为 $8 0 ~ \mathrm { m g / k g }$ 时，血清中  
+15 UN 的含量最低。饲粮中铜添加量对长毛兔血清中铜锌超氧化物歧化酶（ $\mathrm { C u - Z n } \thinspace \mathrm { S O D }$ ）活性  
+16 的影响不显著（ $P { > } 0 . 0 5$ ），但对血清中铜兰蛋白（CP）活性的影响显著（ $P { < } 0 . 0 5$ ）。随着  
+17 饲粮中铜添加量的升高，血清中铜兰蛋白活性先升高后降低，在铜添加量为 $8 0 \ \mathrm { m g / k g }$ 时有  
+18 最高值。饲粮中铜添加量对长毛兔肝脏指数有显著影响（ $\scriptstyle \cdot { P < 0 . 0 5 }$ ），而对其他内脏器官指数  
+19 无显著影响（ $. P { > } 0 . 0 5$ ）。当铜添加量为 $2 0 \mathrm { m g / k g }$ 时，肝脏指数最高。综合本试验测定指标，  
+20 推荐断奶至2月龄长毛兔饲粮适宜的铜添加量为 $2 0 { \sim } 8 0 ~ \mathrm { m g / k g }$ 。
+
+关键词：铜；长毛兔；生产性能；血清指标中图分类号：S816 文献标识码：A 文章编号：
+
+铜作为动物体必需的微量元素之一，参与六大养分的代谢，在动物的机体造血、新陈代谢、生长繁殖、维持动物的生长性能、增强机体抵抗力及生物膜的稳定性等生理功能中起着
+
+收稿日期：2017-05-22  
+基金项目：山东省现代农业产业技术体系毛皮动物产业创新团队（SDAIT-18-011-03）作者简介：张永翠（1982-），女，山东济南人，讲师，硕士，从事动物营养与饲料研究。E-mail: 1-zyc $@$ 163.com
+
+极其重要的作用[]。早在1955 年，Bowler 等[2]就发现在猪饲粮中添加 $2 5 0 ~ \mathrm { m g / k g }$ 铜可以促进生长育肥猪的生长。马德磊等[3研究表明，饲粮中铜含量对断奶至2月龄生长肉兔的平均日增重（ADG）有极显著的影响，随着铜含量的升高，生长肉兔的ADG 随之增加。同时，韩爱云等[4]也指出，在饲粮中添加 $7 5 { \sim } 1 5 0 \ \mathrm { m g / k g }$ 的铜可以促进兔的生长。李道林[5]曾报道过，在饲粮中添加高剂量的铜对獭兔的生长有促进作用。也有学者认为铜对兔的生长没有促进作用[6。铜在肉用动物生长发育方面的研究已经相当广泛，然而对于长毛兔铜需要量的研究较少。本试验旨在研究不同添加量的铜对长毛兔生长性能、产毛性能、血清指标、内脏器官发育的影响，探讨饲粮中添加铜对长毛兔是否具有促生长作用，同时为我国长毛兔饲养标准的制订提供理论依据。
+
+1材料与方法
+
+# 1.1试验动物及饲养管理
+
+试验选用体重相近、健康状况良好的35日龄断奶蒙阴细毛型长毛兔180只，随机分为6 组，每组30只。试验兔单笼饲养，自然通风、采光，于每天06:00、18:00 饲喂，自由采食，自由饮水。按养殖厂的常规程序进行免疫和消毒。预试期7d，正试期 $2 3 { \mathrm { ~ d ~ } }$ 。
+
+# 1.2 试验饲粮
+
+试验用基础饲粮参照中华人民共和国专业标准（审定稿1994）《安哥拉毛兔饲养标准》配制（表1）。在基础饲粮中分别添加0、10、20、40、80及 $1 6 0 \mathrm { m g / k g }$ 铜配制6种试验饲粮，铜的添加形式为五水硫酸铜 $\mathrm { ( C u S O _ { 4 } \cdot 5 H _ { 2 } O ) }$ ，试验饲粮中铜含量的实测值分别为3.25、13.13、23.40、43.56、83.58 及 $1 6 3 . 8 7 ~ \mathrm { m g / k g }$ 。各饲粮按照配方将原料混合均匀后用制粒机将压成直径为 $4 \mathrm { m m }$ 的颗粒饲粮，通风避光处备用。
+
+Table1Composition and nutrient levels of the basal diet (air-dry basis) %   
+
+<html><body><table><tr><td>原料Ingredients</td><td>含量Content</td><td>营养水平 Nutrient levels2)</td><td>含量Content</td></tr></table></body></html>
+
+<html><body><table><tr><td>玉米 Corn</td><td>17.0</td><td>消化能 DE/（MJ/kg）</td><td>10.42</td></tr><tr><td>豆粕 Soybean meal</td><td>18.5</td><td>粗蛋白质 CP</td><td>16.98</td></tr><tr><td>小麦麸 Wheat bean</td><td>19.5</td><td>粗纤维CF</td><td>16.56</td></tr><tr><td>花生秧 Peanut vine</td><td>25.5</td><td>粗脂肪 EE</td><td>2.44</td></tr><tr><td>苜蓿草粉 Alfalfa meal</td><td>15.0</td><td>赖氨酸Lys</td><td>1.16</td></tr><tr><td>豆油 Soybean oil</td><td>0.5</td><td>蛋氨酸Met</td><td>0.48</td></tr><tr><td>预混料Premix</td><td>4.0</td><td>钙Ca</td><td>0.94</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>合计 Total</td><td>100.0</td><td>磷P</td><td>0.39</td></tr></table></body></html>
+
+1预混料为每千克饲粮提供 The premix provided the following per kilogram of the diet: VA 10000 IU， $\mathrm { V D } _ { 3 } \textrm { l } 0 0 0 \mathrm { I U }$ ，VE $1 0 0 \mathrm { m g }$ ， $\mathrm { V K } _ { 3 } 2 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } ~ 1 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 3 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 1 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } \ : 0 . 0 1$ mg，烟酸 nicotinic acid $3 0 \mathrm { m g }$ ，泛酸 pantothenic acid $8 . 0 \mathrm { m g }$ ，叶酸 folic acid $0 . 5 \mathrm { m g }$ ， $Z \mathrm { n } 5 0$ mg，Fe $6 0 ~ \mathrm { m g }$ ， $\mathrm { M n \ 1 0 \ m g }$ ， $\mathrm { M g \ 1 5 0 \ m g }$ ， $\mathrm { 1 0 . 5 m g }$ ， $\mathrm { S e 0 . l ~ m g }$ ，食盐 $\mathsf { N a C l 5 g }$ ，胆碱choline$1 . 5 \ : \mathrm { g }$ ，赖氨酸Lys $3 . 0 \ \mathrm { g }$ ，蛋氨酸Met $2 . 9 \ \mathrm { g }$ 。
+
+2)消化能为计算值,其余为实测值。DE was a calculated value,while the other nutrient levels were measured values.
+
+1.3 样品的采集与制备
+
+试验结束后，将试验兔空腹称重记为宰前活重。称重后剪毛，称兔毛重量，即为胎毛产量。每组选取6只试验兔，心脏采血 $5 \mathrm { m L }$ ，室温避光静置 $1 5 \mathrm { m i n }$ ，用低速离心机以 $3 0 0 0 \mathrm { r / m i n }$ 的转速离心 $1 0 \mathrm { m i n }$ ，分离所得血清分装于离心管中，置于 ${ \boldsymbol { - 2 0 } } \ { \boldsymbol { \circ } } { \boldsymbol { \mathrm { C } } }$ 下冷冻保存，用于血清指标检测。将试验兔用颈椎错位法致死、屠宰，剥离内脏器官并称重；剥离皮张，用于测定皮张面积。
+
+1.4测定指标与方法
+
+1.4.1 生长性能
+
+称量并记录试验止式开始时试验兔体重和试验结束时试验兔的体重，统计试验期间（不包括预试期）的喂料量，计算平均日采食量（ADFI）、ADG 和料重比（F/G）。
+
+# 1.4.2产毛性能
+
+记录每只长毛兔实际剪毛的重量，即每只长毛兔的胎毛产量。
+
+毛直径采用光学纤维直径分析仪和纤维投影仪进行测定。
+
+剥离皮张，量取肩部、腰部、臀部长度，取平均值为皮张宽度，并量取颈部中间至尾根
+
+长度，为皮张长度，计算皮张面积。
+
+1.4.3血清生化指标
+
+血清中总蛋白(total protein，TP)、白蛋白(al-bumin，ALB)、球蛋白(globulin，GLB)、白球比(al-bumin/globulin ration，A/G)、尿素氮(urea nitrogen，UN)含量的测定采用日本和光纯药工业株式会社提供的试剂盒，按说明书操作，在日立7020型全自动分析仪上进行测定。
+
+1.4.4血清酶活性
+
+血清铜锌超氧化物歧化酶（copperzine-superoxide dismutase，Cu-Zn SOD）和铜蓝蛋白（ceruloplasmin，CP）活性的测定采用由南京建成生物工程研究所生产的试剂盒，按说明书操作，用UV762 型紫外分光光度计测定吸光度值。
+
+1.4.5内脏器官发育
+
+试验结束后，空腹称量试验兔体重，为宰前活重；剥离肝脏、心脏、肾脏、脾脏并称重，并据以下公式计算内脏器官指数：
+
+肝脏指数 $\varXi$ 肝脏重量（g）/宰前活重（kg）；  
+心脏指数 $\varXi$ 肝脏重量（g）/宰前活重（kg）；  
+肾脏指数 $\varXi$ 肾脏重量（g）/宰前活重（kg）；  
+脾脏指数 $\varXi$ 脾脏重量（g）/宰前活重（kg）。
+
+# 1.5数据处理
+
+试验数据用平均值 $\pm$ 标准误表示，采用SPSS13.0软件进行方差分析，差异显著性用Duncan氏法进行单因素多重比较检验， $P { < } 0 . 0 5$ 和 $P { < } 0 . 0 1$ 分别为差异显著和极显著水平。
+
+2结果与分析
+
+2.1饲粮中铜添加量对断奶至2月龄长毛兔生长性能的影响
+
+由表2可知，在初始体重无显著差异（ $( P { > } 0 . 0 5 \$ ）的情况下，饲粮中铜添加量对长毛兔的ADG 和F/G有显著影响（ $P { < } 0 . 0 5$ ），对ADFI无显著影响（ $. P { > } 0 . 0 5$ ）。随着铜添加量的升高，ADG 先增加后降低，F/G 先降低后增加，当铜添加量为 $8 0 \ \mathrm { m g / k g }$ 时，ADG 最高，为$2 0 . 2 8 ~ \mathrm { g / d }$ ，并且F/G最低。
+
+# 表2饲粮中铜添加量对断奶至2月龄长毛兔生长性能的影响
+
+# Table 2Effects of dietary copper addition on growth performance of long hairy rabbits
+
+<html><body><table><tr><td>Items</td><td>0</td><td>10</td><td>20</td><td>40</td><td>80</td><td>160</td></tr><tr><td>初始体重 IBW/g</td><td>952.42±0.05</td><td>952.77±0.02</td><td>931.26±0.03</td><td>943.23±0.15</td><td>987.22±0.122</td><td>936.38±0.16</td></tr><tr><td>平均日增重 ADG/g</td><td>16.99±0.91ABa b</td><td>19.91±0.76Aa</td><td>19.70±0.87Aa</td><td>19.56±0.86ABab</td><td>20.28±1.12Aa</td><td>16.45±0.80Bb</td></tr><tr><td>平均日采食量 ADFI/g</td><td>76.12±0.36</td><td>66.90±0.41</td><td>66.59±0.12</td><td>81.17±0.24</td><td>64.69±0.15</td><td>72.71±0.46</td></tr><tr><td>料重比F/G</td><td>4.48±0.25Aa</td><td>3.36±0.35ABab</td><td>3.38±0.16ABab</td><td>4.15±0.54ABab</td><td>3.19±0.10Bb</td><td>4.42±0.31Aa</td></tr></table></body></html>
+
+同行数据肩标相同字母表示差异不显著（ $P { > } 0 . 0 5$ ），不同小写字母表示差异显著（ $P { < } 0 . 0 5$ ），不同大写字母表示差异极显著（ ${ \sf P } { < } 0 . 0 1$ ）。下表同。
+
+In the same row,values with the same letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ,while with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,and with different capital letter superscripts mean significant difference ( $( P { < } 0 . 0 1 )$ ). The same as below.
+
+2.2饲粮中铜添加量对断奶至2月龄长毛兔产毛性能的影响
+
+由表3可知，饲粮中铜添加量对断奶至2月龄长毛兔胎产毛量、毛直径和皮张面积均无显著影响 ( $. P { > } 0 . 0 5$ ）。当铜添加量为 $4 0 ~ \mathrm { m g / k g }$ 时，胎毛产量最高，为 $3 4 . 5 5 \ \mathrm { g }$ ；当铜添加量为 $2 0 \mathrm { m g / k g }$ 时，毛直径最大，为 $1 3 . 0 9 \mu \mathrm { m }$ ；皮张面积最大时，铜的添加量为 $8 0 \mathrm { m g / k g }$ 。
+
+# 表3饲粮铜添加水平对断奶至2月龄长毛兔产毛性能的影响
+
+Table 3Effects of dietary copper addition on wool performance of long hairy rabbits   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="6">饲粮中铜添加量 Dietary copper addition/(mg/kg)</td></tr><tr><td>0</td><td>10</td><td>20</td><td>40</td><td>80</td><td>160</td></tr><tr><td>胎产毛量 Lanugo production/g</td><td>29.07±2.91</td><td>32.78±3.41</td><td>34.29±2.69</td><td>34.55±1.99</td><td>33.89±3.21</td><td>31.39±1.92</td></tr><tr><td>毛直径 Wool diameter/um</td><td>11.03±0.90</td><td>12.29±0.44</td><td>13.09±0.27</td><td>12.16±1.32</td><td>12.25±0.25</td><td>11.19±1.36</td></tr><tr><td>皮张面积 Fur area/cm²</td><td>592.33±5.85</td><td>640.50±8.03</td><td>665.61±2.46</td><td>668.50±2.02</td><td>738.00±8.49</td><td>696.83±6.16</td></tr></table></body></html>
+
+2.3饲粮中铜添加量对断奶至2月龄长毛兔血清生化指标的影响
+
+由表4可知，饲粮中铜添加量对血清中TP、ALB、GLB、UN含量以及白球比（A/G)均有显著影响 ( $. P { < } 0 . 0 5$ ）。当铜添加量为 $1 6 0 \mathrm { m g / k g }$ 时，血清中TP含量最高，为 $5 4 . 8 0 \ \mathrm { g / L }$ 与 $2 0 , 4 0 \mathrm { m g / k g }$ 铜添加量组差异显著（ $. P { < } 0 . 0 5 \$ ）；当铜添加量为 $1 6 0 \mathrm { m g / k g }$ 时，血清中ALB含量最高，为 $3 8 . 2 5 ~ \mathrm { g / L }$ ，与20、 $4 0 ~ \mathrm { m g / k g }$ 铜添加量组差异显著（ $. P { < } 0 . 0 5$ ）；当铜添加量为
+
+$2 0 \mathrm { m g / k g }$ 时，血清中GLB 含量最高，与其他各组差异显著( $_ { . } P { < } 0 . 0 5 )$ ；当铜添加量为 $2 0 \mathrm { m g / k g }$ 时，血清中白球比最高，与10 $\cdot \ 4 0 \ \mathrm { m g / k g }$ 铜添加量组差异显著（ $. P { < } 0 . 0 5$ ）；当铜添加量为$8 0 \mathrm { m g / k g }$ 时，血清中UN含量最低，为 $3 . 3 5 \mathrm { m m o l / L }$ ，与0和 $1 0 \mathrm { m g / k g }$ 铜添加量组差异显著（ $. P { < } 0 . 0 5 )$ ）。
+
+Table 4Effects of dietary copper addition on serum biochemical indices of long hairy rabbits   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="6">饲粮中铜添加量 Dietary copper addition/(mg/kg)</td></tr><tr><td>0</td><td>10</td><td>20</td><td>40</td><td>80</td><td>160</td></tr><tr><td>总蛋白 TP/（g/L)</td><td>52.76±1.01ab</td><td>51.15±0.14ab</td><td>47.85±0.49c</td><td>53.40±1.78b</td><td>53.10±0.17ab</td><td>54.80±0.64a</td></tr><tr><td>白蛋白 ALB/（g/L)</td><td>36.65±1.01ab</td><td>36.45±1.53ab</td><td>35.35±0.32b</td><td>34.85±0.14b</td><td>38.05±0.32a</td><td>38.25±0.95a</td></tr><tr><td>球蛋白 GLB/（g/L）</td><td>12.50±0.81c</td><td>16.20±2.02b</td><td>20.5±0.98a</td><td>16.30±0.29b</td><td>15.05±0.49bc</td><td>16.55±1.58b</td></tr><tr><td>白球比 A/G</td><td>2.39±0.36abc</td><td>1.78±0.11c</td><td>2.86±0.21a</td><td>2.14±0.05bc</td><td>2.54±0.10ab</td><td>2.39±0.29abc</td></tr><tr><td>尿素氮UN/（mmol/L）</td><td>5.80±0.69a</td><td>5.45±0.38ab</td><td>4.40±0.40bc</td><td>3.85±0.08c</td><td>3.35±0.43c</td><td>4.10±0.23c</td></tr></table></body></html>
+
+119 2.4饲粮中铜添加量对断奶至2月龄长毛兔血清酶活性的影响
+
+120 由表5可知，饲粮中铜添加量显著影响血清中铜兰蛋白活性（ $P { < } 0 . 0 5 \$ ），随着铜添加量  
+121 的升高，血清中铜兰蛋白活性先升高后降低，在铜添加量为 $8 0 \mathrm { m g / k g }$ 时有最高值，为74.48  
+122 U/L。饲粮中铜添加量对血清中Cu-Zn SOD 活性的影响不显著（ $. P { < } 0 . 0 5$ ）。
+
+表4饲粮中铜添加量对断奶至2月龄长毛兔血清生化指标的影响  
+表5饲粮中铜添加量对断奶至2月龄长毛兔血清酶活性的影响  
+Table 5Effects of dietary copper addition on serum enzyme activities of long hairy rabbits   
+
+<html><body><table><tr><td rowspan="2">5项目 Items</td><td colspan="6">饲粮中铜添加量 Dietary copper addition/(mg/kg)</td></tr><tr><td>0</td><td>10</td><td>20</td><td>40</td><td>80</td><td>160</td></tr><tr><td>铜锌超氧化物歧化酶 Cu-Zn SOD/</td><td>60.38±0.59</td><td>61.27±2.86</td><td>64.33±3.01</td><td>70.44±3.16</td><td>68.15±4.54</td><td>69.04±0.15</td></tr><tr><td>(U/mL)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>铜兰蛋白 CP/（U/L)</td><td>43.53±0.74c</td><td>57.39±1.72bc</td><td>57.87±0.46ac</td><td>61.42±0.95a</td><td>74.48±4.46a</td><td>53.52±3.90bc</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+2.5饲粮中铜添加量对断奶至2月龄长毛兔内脏器官发育的影响
+
+由表6可知，饲粮中铜添加量对肝脏指数有显著影响 $( P { < } 0 . 0 5 )$ ，当铜添加量为 $2 0 \mathrm { m g / k g }$ 时，肝脏指数最高，为3.31，与0、 $8 0 \mathrm { m g / k g }$ 铜添加量组差异显著（ $. P { < } 0 . 0 5$ ）。饲粮中铜添加量对肾脏指数、心脏指数、脾脏指数均无显著影响（ $P { < } 0 . 0 5$ ）。
+
+131 Table 6Effects of dietary copper addition on visceral organ development of long hairy rabbits 132 g/kg   
+
+<html><body><table><tr><td rowspan="2">项目</td><td colspan="6">饲粮中铜添加量 Dietary copper addition/(mg/kg)</td></tr><tr><td>0</td><td>10</td><td>20</td><td>40</td><td>80</td><td>160</td></tr><tr><td>肝脏指数Liver index</td><td>2.49±0.24b</td><td>2.95±0.26ab</td><td>3.31±0.38a</td><td>3.10±0.54a</td><td>2.49±0.36b</td><td>2.85±0.07ab</td></tr><tr><td>肾脏指数Kidney index</td><td>0.98±0.21</td><td>0.77±0.15</td><td>0.76±0.14</td><td>0.75±0.11</td><td>0.67±0.04</td><td>0.70±0.07</td></tr><tr><td>心脏指数Heart index</td><td>2.47±0.03</td><td>2.30±0.01</td><td>2.12±0.05</td><td>2.45±0.03</td><td>2.25±0.02</td><td>2.39±0.01</td></tr><tr><td>脾脏指数 Spleen index</td><td>0.09±0.02</td><td>0.09±0.05</td><td>0.05±0.03</td><td>0.06±0.01</td><td>0.05±0.01</td><td>0.06±0.02</td></tr></table></body></html>
+
+133 3讨论
+
+3.1饲粮中铜添加量对断奶至2月龄长毛兔生长性能的影响
+
+铜元素作为动物必需的微量元素之一，在促进动物生长、增强动物免疫、促进血红蛋白的合成等方面有着重要的作用。研究表明，饲粮添加高铜对幼龄动物有明显的促生长和降低饲料消耗的作用[7]。Patten 等[8]向每千克饲粮中加入 $4 0 ~ \mathrm { m g }$ 铜后，发现兔的生长速度及饲料利用率得到明显改善。甘伯中[9报道，饲粮中添加10 或 $2 0 \mathrm { m g / k g }$ 铜能显著提高兔的 ADG,兔的 ADG 随饲粮铜添加量的升高而增加。在本试验中，在初始体重无显著差异的情况下，当饲粮中铜添加量为 $8 0 \mathrm { m g / k g }$ 时，ADG 最高，为 $2 0 . 2 8 ~ \mathrm { g / d }$ ，当铜添加量达到 $1 6 0 \mathrm { m g / k g }$ 时，ADG 则急剧下降；而在铜添加量为 $8 0 ~ \mathrm { m g / k g }$ 时，F/G最低，为3.19，饲粮转化效率最高。这与以上研究结果相似。
+
+3.2饲粮中铜添加量对断奶至2月龄长毛兔产毛性能的影响
+
+铜元素与动物毛发的生长有着密切的关系，可促进角质化蛋白的生成，可以间接弥补体内含硫氨基酸的不足，提高毛皮动物的产毛量，铜缺乏会导致毛皮动物生长不良、被毛凌乱[10]。李振[研究表明，饲粮中铜添加量为 $5 0 ~ \mathrm { m g / k g }$ 时对兔毛生长具有显著的促进作用。李宏等对饲粮铜添加量对安哥拉毛兔产毛性能影响的研究表明，兔毛长度随饲粮铜添加量升高而增长，但是对兔毛产量的影响不显著。本试验中，饲粮中铜添加量对蒙阴细毛型长毛兔的产毛性能并没有产生显著影响，其原因可能是试验时间较短，添加铜的剂量效应还没有完全表现出来，并且长毛兔的产毛质量受年龄因素影响较大，一般来讲，长毛兔的胎毛产量低而且毛质较差，这几方面导致添加铜对蒙阴细毛型长毛兔的产毛性能未产生显著的促进作用。
+
+3.3饲粮中铜添加量对断奶至2月龄长毛兔血清生化指标的影响
+
+血清中TP、ALB、UN含量是反映动物体内蛋白质和氨基酸代谢以及肝肾功能正常与否的指标，在一定程度上代表了动物对蛋白质的消化吸收程度及机体对蛋白质的合成代谢状况。张苏江[12]研究了铜对60头军牧1号生长猪血清生化指标的影响，结果发现添加铜组血清中 TP 和 ALB 含量均比对照组高，其中 20 和 $2 5 0 ~ \mathrm { m g / k g }$ 添加铜组有显著提高。本试验结果显示饲粮中添加适量的铜能显著提高血清中 TP、ALB 和GLB 含量，说明铜能通过提高血清中 ALB 含量而提高机体免疫力，从而提高机体生产性能。本试验中，当饲粮中铜添加量为 $1 6 0 ~ \mathrm { m g / k g }$ 时，血清中TP、ALB 的含量最高，这说明高铜可加速蛋白质的合成。血清UN 是动物体蛋白质代谢的主要产物，血清中UN含量可反映蛋白质的代谢状况，含量越低，说明体内氮的排出量越少，体内蛋白质的合成效率越高[13]。本试验中，血清中UN 含量随铜添加量的升高呈现先下降后升高的趋势，当铜添加量为 $8 0 \ \mathrm { m g / k g }$ 时，血清中UN的含量最低，这在一定程度上说明，铜的添加量为 $8 0 ~ \mathrm { m g / k g }$ 时，长毛兔对饲粮中蛋白质的利用率最高。
+
+# 3.4饲粮中铜添加量对断奶至2月龄长毛兔血清酶活性的影响
+
+动物体内至少有14种含铜酶，饲粮铜含量的变化可导致含铜酶活性的变化。资料表明，饲粮中添加铜可以影响血清中CuZn-SOD、铜蓝蛋白的活性[14]。李道林[5]研究表明，当饲粮中以硫酸铜为铜源、铜的含量为 $8 0 \mathrm { m g / k g }$ 时，獭兔血清中 CuZn-SOD 的活性与0、10 mg/kg铜组相比差异极显著。而甘伯中[9用90 日龄的安哥拉毛兔进行试验，结果表明，饲粮中添加铜对红细胞和肝脏 SOD 和血清铜蓝蛋白活性均没有产生显著影响，但随着饲粮中铜添加量的升高，上述酶活性都有增加的趋势。本试验中，以五水硫酸铜为铜源，铜添加量为 40mg/kg 时，血清中CuZn-SOD 的活性最高，与其他组相比无显著差异，但随着饲粮中铜添加量的升高出现先升高后降低的趋势。铜兰蛋白又称为铜氧化酶，具有抗氧化的作用，血液中的铜蓝蛋白可以阻止脂肪组织中氧化物和自由基的生成。本试验中，当铜添加量为 $8 0 \mathrm { m g / k g }$ 时，血清中铜蓝蛋白的活性最高，铜添加量由 $8 0 ~ \mathrm { m g / k g }$ 升高到 $1 6 0 ~ \mathrm { m g / k g }$ 时，血清中铜蓝蛋白的活性显著降低。
+
+# 3.5饲粮中铜添加量对断奶至2月龄长毛兔内脏器官发育的影响
+
+内脏器官是动物机体生命活动的基础“设施”，是其生理功能发挥的重要物质基础。脏器指数一定程度上能够反映动物的内脏功能，一般认为动物的脏器指数越大，动物的内脏功能越强。目前，多数学者认为微量元素铜及由它组成的酶，构成机体防御系统，起到增强机体免疫机能的作用。肝脏和脾脏是重要的免疫器官，其重量和相关指数可在一定程度上反映机体免疫功能的强弱。赵德明等[15]对肉鸡进行试验时发现用低铜饲粮饲喂的肉鸡经过 7周以后体内主要淋巴组织器官中的淋巴数量会减少，免疫器官受到了严重的影响。对于此类的研究，吴建设等[1报道，铜缺乏或过量都会导致免疫器官萎缩。但是，过量微量元素饲料的长期使用会导致家兔轻微中毒，导致内脏器官病理性增大。本试验结果表明，饲粮中铜添加量对蒙阴细毛型长毛兔的肝脏器官发育有一定影响，但具体作用机理有待于进一步研究。
+
+4结论
+
+综合本试验的测定指标来看，高铜饲粮（饲粮中铜添加量为 $1 6 0 \mathrm { m g / k g }$ ，铜含量的实测值为 $1 6 3 . 8 7 ~ \mathrm { m g / k g } \rangle$ ）对断奶至2月龄长毛兔并没有显著的促生长作用。根据本试验结果，推荐断奶至2月龄长毛兔饲粮适宜的铜添加量为 $2 0 { \sim } 8 0 \ \mathrm { m g / k g }$ （饲粮中铜含量的实测值为23.40\~83.58 mg/kg）。
+
+参考文献：  
+[1] 钱剑,王哲,刘国文.铜在动物体内代谢的研究进展[J].动物医学进展,2003,24(2):55-57.[2] BOWLER R J， BRAUDE R,CAMPBELL R C,et al.High copper mineral mixture forfattening pigs[J].British Journal of Nutrition,1955,9(4):358-362.  
+[3]马德磊,李福昌.饲粮铜水平对断奶至2月龄生长肉兔生产性能及血清指标的影响[J].动物营养学报,2009,21(4):493-498.  
+[4] 韩爱云,谷子林,黄仁录.家兔微量元素—铜的研究进展[J].中国养兔杂志,2005(4):28-30.[5]李道林.铜源和铜添加水平对生长獭兔的生长性能、毛皮品质及理化指标的影响[D].硕士学位论文.长春:中国人民解放军军需大学,2002:21  
+[6] 李宏,程胜利,甘伯中,等.日粮铜添加水平对安哥拉兔生产性能的影响[J].中国草食动物,2000,2(3):16-17.  
+[7]刘彦慈,赵国先,吴建设,等.微量元素-铜的营养[J].饲料博览,2004(5):26-28.  
+[8] PATTEN N M,HARRY D J,GROBNER M A,et al.The effect of dietary copper sulfate onenteritis in fryer rabbits[J].Journal of Applied Rabbit Research ,1982,5:72-78.  
+[9] 甘伯中.不同铜添加水平对毛兔生产性能、消化代谢、组织器官和血液成分的影响[D].硕士学位论文.宁夏:甘肃农业大学,2000:7-19.  
+[10] 郑军,许梓荣,沈文祥.毛用兔日粮蛋白质、含硫氨基酸和能量最适水平的探讨[J].中国农业科学,1985,18(3):72-75.  
+[11]李振.几种提高长毛兔产毛量的添加剂的应用[J].中国养兔,2006(2):15-16.[12] 张苏江.日粮铜水平对生长猪生长性能及生化指标影响的研究[D].硕士学位论文.长 春:中国人民解放军军需大学,2001:13-20.  
+[13] 程忠刚,许梓荣,林映才,等.高剂量铜对仔猪生长性能及血液生化指标的影响[J].动物营养学报,2004,16(4):44-46.  
+[14] 刘华忠,陈小云,罗萍.微量元素铜的研究进展[J].国外畜牧学·猪与禽,2000(1):21-24.[15] 赵德明,方文军,张日俊,等.铜缺乏对肉鸡淋巴组织器官发育的影响[J].中国兽医科技,1996,26(6):13-14.  
+[16] 吴建设,呙于明,杨汉春,等.日粮铜水平对肉仔鸡生长性能和免疫功能影响的研究[J].畜牧兽医学报,1999,30(5):414-420.
+
+Effects of Dietary Copper Addition on Performance and Serum Indices of Weaning to 2-Month-Old Long Hairy Rabbits
+
+ZHANG Yongcui1CHENG Guangmin1FU Guihua1LIU Gongyan²JIANG Bayi1TAN Xingzhi³LIU Jiansheng1\*   
+(1.Shandong Vocational Animal Science and Veterinary College, Weifang 261061, China; 2. College of Animal Science and Technology, Shandong Agricultural University, Tai'an 271018, China; 3.Agriculture and Marine Fisheries Bureau of Yantai Economic and Technological Development Area, Yantai 264006, China)
+
+Abstract: This experiment was conducted to study the effects of dietary copper addition on performance， serum biochemical indices and serum enzymatic activities of weaning to 2-month-old long hairy rabbits. One hundred and eighty weaning Mengyin fine wool type long hairy rabbits were randomly assgned to 6 groups with 3O rabbits in each group,and the rabbits were feed separately. Rabbits in 6 groups were fed experimental diets which supplemented with 0, 10, 20, 40, 80 and $1 6 0 ~ \mathrm { m g / k g }$ copper (the form was $\mathrm { C u S O _ { 4 } } { \cdot } 5 \mathrm { H _ { 2 } O }$ ）based on a basal diet,and the measured values of the copper in them were 3.25,13.13, 23.40, 43.56, 83.58 and $1 6 3 . 8 7 ~ \mathrm { m g / k g }$ respectively. The trail lasted for 7 days for adaption,and 23 days for test. The results showed as follows: dietary copper addition had extremely significant efects on average daily gain (ADG) and feed/gain (F/G)( $( P { < } 0 . 0 1 )$ ,and the highest value of ADG and lowest value of F/G were found when copper addition was $8 0 ~ \mathrm { m g / k g }$ . Dietary copper addition had no significant effects on lanugo production,wool diameter and fur area $( P { > } 0 . 0 5 )$ . Dietary copper addition had significant effects on the contents of total protein (TP), albumin (ALB)， globulin (GLB） and urea nitrogen (UN), albumin/globulin (A/G) in serum $( P { < } 0 . 0 5 )$ . The serum UN content was firstly decreased and then increased with dietary copper addition increasing, and its lowest value was found when copper addition was $8 0 ~ \mathrm { m g / k g }$ . Dietary copper addition had no significant effect on serum copper-zinc superoxide dismutase (Cu-Zn SOD） activity（ $P { > } 0 . 0 5 )$ ，but it had significant effect on serum ceruloplasmin activity $( P { < } 0 . 0 5 )$ . The serum ceruloplasmin activity was firstly increased and then decreased with dietary copper addition increasing, and its highest value was found when copper addition was $8 0 ~ \mathrm { m g / k g }$ . Dietary copper addition had significant effect on liver index ( $( P { < } 0 . 0 5 )$ ,but it had no significant effects on other organ indices ( $( P { > } 0 . 0 5 )$ . When copper addition was $8 0 \mathrm { m g / k g }$ the liver index had the highest value. Considering allindices of this experiment, the appropriate copper addition is 20 to $8 0 \mathrm { m g / k g }$ for weaning to 2-month-old long hairy rabbits. Key words: copper; long hairy rabbits; performance; serum indices

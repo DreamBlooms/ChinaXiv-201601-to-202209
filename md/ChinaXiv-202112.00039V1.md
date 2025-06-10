@@ -1,0 +1,289 @@
+# 急性应激与风险倾向：兴奋易感性的调节作用 （工程心理学专栏）
+
+王霈珊¹²，古若雷¹²，张亮 1,2,\*
+
+1中国科学院行为科学重点实验室（中国科学院心理研究所)，北京100101
+
+2中国科学院大学心理学系，北京100049
+
+# 摘要
+
+为探索应激对决策的作用机理及其个体差异，减少工程作业中因应激导致的决策失误，本研究采用特里尔社会应激测试和气球模拟风险任务考察应激反应与应激下风险倾向的关系，并探索兴奋易感性在其中的调节作用。研究结果表明，应激下个体的皮质醇反应越大，行为越冒险。且这一作用受到兴奋易感性的调节：兴奋易感性较高的个体，应激下皮质醇反应越大，行为越冒险；而兴奋易感性较低的个体，其皮质醇变化不能预测风险倾向。该发现提示了兴奋易感性在应激影响中的重要作用，也为高压岗位的人员选拔提供了科学启示。关键词：急性应激，风险倾向，兴奋易感性，皮质醇，心率
+
+# 1引言
+
+无论是在航空航天、交通管制、核电控制等高风险领域，还是常规的工厂工作中，作业者都不可避免地会遇到时间压力、高工作负荷或突发状况等应激事件。以往研究发现，应激是导致作业中人因失误(Human Error)的一个最常见原因(Svenson & Benson,1993)。因为应激会引起人们情绪和认知功能的变化，包括注意、记忆和执行功能等(Lin et al.,2020;Luo et al.,2017; Zhang et al.,2015)，并最终导致行为上的改变，如不安全行为的增加(Ramsey etal.,1983)。但应激影响作业安全的心理机制还没有得到研究者的广泛关注，其中一个被忽视的方面就是与风险相关的态度和行为，而这种风险行为将直接决定实际作业
+
+收稿日期2021/5/31基金资助:
+
+1）国家重点研发计划"研究假释、暂予监外执行人员行为与心理特征监测评估技术”（2018YFC0831101)  
+2）中国科学院部署项目 (KGFZD-145-21-09)  
+通讯作者：张亮 zhangl@psych.ac.cn
+
+操作的安全性。大量心理学和人因分析表明，人因失误是工业事故的主要源头(Heinrich,1931），而在人因失误中占比最高的失误之一就是决策(Orasanu etal.,2001)。如何让作业者在应激情境下选择最为安全有效的作业方式，避免与应激相关的安全事故和人员伤亡，是应激领域的工程心理学家最为关心的问题之一。研究应激下风险行为相关的心理机制，可以帮助我们发现更多的干预机会，对降低人误、保障作业安全具有重要的现实意义。
+
+研究表明，在应激状态下，有机体会产生一系列生理反应(Dickerson& Kemeny,2004;Kudielka & Kirschbaum,2007)：快反应系统(Sympathetic Nervous System,SNS)被迅速激活，其关键测量指标—一心率会快速升高，并在应激源撤出后迅速恢复至基线状态；而慢反应系统，即下丘脑-垂体-肾上腺轴(Hypotha-Lamus-Pituitary-Adrenal-Axis,HPA-axis)，反应较慢，作为应激最典型的神经内分泌反应系统的指标—一皮质醇在应激源呈现后缓慢升高。以往研究中，关于应激下心率变化与风险倾向关系的研究相对较少，仅在Wemm 和Wulfert (2017)的一项研究中发现，男性的风险倾向与应激下心率的升高正相关。而关于皮质醇的研究则相对较多，前人研究发现，应激状态下皮质醇的变化量与风险倾向显著相关。在这些研究中，研究者采用模拟社会演讲等方式诱发个体的急性应激反应，结果发现，皮质醇水平升高得越多，在风险决策任务中就表现得越冒险。在几项经典的决策任务，包括爱荷华赌博任务(Iowa Gambling Task,IGT)、投骰子博弈任务(Game of Dice Task,GDT)和证券选择任务(lottery decision-making task)中，都发现了类似的结果(Buckert et al.,2014; van den Bos et al.,2009; Starcke et al.,2008)。此外，也有一些研究采用直接注射或口服的方法来提高皮质醇水平。例如Kluen 等人(2017)发现，在气球模拟风险任务(BalloonAnalogue Risk Task,BART)中，注射皮质醇的男性比控制组表现得更冒险，体现为他们的打气次数和打爆的气球数均显著增加。这些研究均表明，皮质醇的增长与风险倾向呈正相关。
+
+然而，也有部分研究得出了不同的结论。例如，有研究发现皮质醇浓度的快速增加对风险倾向没有显著影响(Kandasamya et al.,2014)。在另一项同样是采用气球模拟风险任务的研究中，研究者发现应激下个体打气次数更少，且风险行为与性别及冲动性等个人特质存在复杂的交互作用(Wise etal.,2014)，这说明造成以上矛盾结果的重要原因，可能是未考虑到应激影响的个体差异性。
+
+事实上，人们对应激的感受和反应都表现出极大的个体差异。以往研究发现，年龄、性别、教育水平和过往经历等因素都会对个体的应激反应及随后的认知和行为起到调节作[在此处键入]
+
+用(Kudielka etal.,2009)。找到这些个体差异因素，不仅有利于我们更好地理解应激的作用机理，也有助于高危作业人员的选拔和针对性训练。
+
+兴奋易感性(ease of excitation)是一项与应激和决策都密切相关的个体特质，它是指个体对外部刺激和内部变化的敏感程度。Smolewska 等人(2006)指出，高兴奋易感性的个体由于对外部刺激和内部变化的高度敏感，在出现内外部环境变化的时候，会产生一种被内外部需求所淹没甚至击垮的感觉，如感到紧张、心慌、忐忑不安、负性情绪、无法发挥正常水平等。他们更容易察觉到自身躯体化的症状和环境的变化，受到咖啡因、饥饿、疼痛、强感觉输入和他人情绪等的影响(Aron&Aron,1997)。例如研究发现，高兴奋易感性的牙科医生因为更能感受到患者的恐惧和痛苦，往往会产生更高的工作倦怠和更低的工作满意度(Meyerson et al.,2020)。高兴奋易感者在遭遇内外部环境变化时会表现出更大的心率升高量(Kagan& Snidman,2004)，在一些特殊人群中还会表现出皮质醇的升高(Elis et al.,2006;McLean etal.,2020)。所以，兴奋易感性高的个体更可能受到应激下内外部变化的影响。Evers 等人(2008)考察了人们在工作中感受到的应激程度，发现兴奋易感性与工作应激高度相关，即兴奋易感性越高，在工作中感受到的应激程度越强，对工作更加不满且更不容易从中恢复。Vander Elst 等(2019)也发现，相比低兴奋易感性，高兴奋易感性的个体在面临较高工作需求时，往往伴随更高程度的情绪耗竭。研究者还发现兴奋易感性与个体的焦虑程度、抑郁程度/倾向、幸福感也显著相关，高兴奋易感性的个体更容易感到焦虑、抑郁，或伴有低幸福感和心理健康水平(Ahadi& Basharpoor, 2010;Liss et al.,2008; Takahashi et al.,2020;Wu etal.,2021; Yano&Oishi,2018)。综上所述，个体的兴奋易感性高低与其应激反应高度相关。
+
+更重要的是，兴奋易感性与决策行为也关系密切。根据强化敏感性理论(ReinforcementSensitivity Theory,RST)，个体遭遇环境变化和新异刺激时，会因为对环境和刺激信息的加工方式不同，而做出不同的策略选择（如趋近或回避行为)。兴奋易感性不同的个体，对环境变化和新异刺激的敏感性不同，因而对这些变化和刺激的加工方式也不同，所以在这种情况下，不同兴奋易感性的个体可能做出不同的策略选择，表现出不同的决策行为。Smolewska等(2006)通过问卷调研了个体的兴奋易感性与决策中策略选择风格的关系，结果发现，高兴奋易感性的个体可能为了避免负性结果和不悦情绪，表现出更保守的行为倾向。进一步研究发现这种行为倾向与前额叶皮层的激活和杏仁核活动的相对减弱有关(Rizzo-Sierra,2012)。这些初步研究结果表明，兴奋易感性作为个体对内外变化敏感性的衡[在此处键入]
+
+量指标，不仅与个体的应激反应有关，还有可能影响个体的风险决策行为。
+
+决策领域的一个经典理论一—躯体标记假说(Somatic Marker Hypothesis)(Damasio &Tranel,1991)认为，个体的决策行为会被“躯体标记信号”（如情绪和感觉）所引导，且这些与个体生理调节过程相关的躯体信号可能与当前的决策情境无关(Bechara,2004;Naqvi etal.,2006)。所以，尽管应激所引发的生理和情绪反应与风险决策任务本身无关，决策者的风险倾向依然会受到应激反应的影响，且个体对应激反应的敏感程度可能在此过程中起到调节作用。但迄今为止，关于兴奋易感性不同的个体在应激状态下，风险倾向会表现出怎样的差异，还缺少系统的实验证据。
+
+基于此，本研究采用特里尔社会应激测试(Trier Social Stress Test,TSST)诱发急性应激反应，通过气球模拟风险任务测量个体在风险决策中的行为倾向，探讨应激的生理反应，特别是皮质醇和心率变化对风险倾向的影响，并以高度敏感者量表(Aron&Aron,1997)衡量个体的兴奋易感性，探索兴奋易感性在应激与决策中的调节作用。在前人研究的基础上，本研究提出两点假设：1）急性心理应激下的皮质醇和心率反应与风险倾向相关；2）兴奋易感性在应激反应和风险倾向的关系中起调节作用，高兴奋易感性者的风险倾向更容易受到应激反应的影响，而低兴奋易感者不易受到应激反应的影响。
+
+# 2方法
+
+# 2.1被试
+
+为确定研究所需样本量，实验前通过G\*Power3.1.9.2软件进行功效分析(Faul et al.,2007)。结果表明，在线性多元回归分析中，回归系数达到0.8的统计效力 $\left( \mathsf { a } = 0 . 0 5 , f ^ { 2 } = \right.$ 0.25)需要至少34名被试。因此，本研究共招募43名健康的男性大学生被试参与实验，年龄范围为19\~27岁（平均数22.26岁，标准差2.06岁）。鉴于女性的皮质醇水平受生理周期、药物摄入（如口服避孕药）等的影响波动很大，女性被试未纳入本研究(Kudielka et al.,2009)。
+
+实验遵循以下筛选标准，以避免潜在因素的干扰：1）未做过唾液采集的相关实验（作为间接了解被试是否参与过应激诱发实验的筛查方法)；2）无内分泌紊乱，如甲状腺疾病、肾上腺疾病等，且最近1个月没有服用任何跟内分泌疾病相关的药物，如激素类药[在此处键入]
+
+物；3）无精神和神经系统疾病；4）无牙周炎，口腔内无伤口（包括口腔溃疡)；5）最近2周内没有感冒、过敏或处于慢性疾病的急性发作期，未服用任何药物；6）无酗酒（每天超过二两)、无吸烟过度（一天吸烟超过5支)；7）无长期焦虑、抑郁、失眠等症状，无长期昼夜作息颠倒；8）身体质量指数处于正常水平；9）视力或矫正视力正常。
+
+在实验后问询阶段，我们发现有一名被试错误理解实验规则。另外四名被试因为唾液量过少，即有三支及以上的唾液样本未达到最少检测量而导致数据缺失。因此，以上五名被试的数据被剔除，其余共计38名被试的数据参与后续分析。
+
+# 2.2实验流程
+
+被试被通知在到达实验室前2个小时内不可以进食除白开水之外的其他食物，同时要避免剧烈运动，保证睡眠充足。考虑到皮质醇的昼夜节律(Dickerson&Kemeny,2004)，实验均在下午13：30至18：00间进行。总实验流程如图1所示。被试到达实验室后，需要再次确认满足筛查条件，并签订知情同意书。填写完成高度敏感者等量表后，休息半小时，在放松状态下采集皮质醇和心率的数据，并完成负性情绪量表，作为应激指标的基线（S1)。在主试讲解完气球模拟风险任务的规则后，被试开始练习，之后进行特里尔社会应激测试任务。应激测试结束后，立刻采集第二次生理指标及情绪量表（S2，0分钟)，并在应激测试后15 分钟（S3）、30分钟（S4）时采集第三、四次生理指标。
+
+![](images/32a5343e78465b7aea7867339341f7111bf41c0074e8bafc9e1911b53d64b72a.jpg)  
+图1实验总流程
+
+注：TSST表示特里尔社会应激测试；BART表示气球模拟风险任务；S1/S2/S3/S4为应激测试前后皮质醇、心率和负性情绪的四次采集点
+
+# 2.3应激流程
+
+特里尔社会应激测试包含社会评价性威胁及不可控因素，与高压岗位所面临的职场评价压力及复杂多变的作业环境相类似，且众多研究指出，该测试可以诱发稳健的皮质醇反应并保持较长时间(Dickerson&Kemeny,2004)，有利于研究皮质醇对应激下风险倾向的影[在此处键入]
+
+响。与此同时，经研究比较(Buchanan et al.,2012)，改良的特里尔社会应激测试(Buchananet al.,2012;Buchanan etal.,2014)与原始版本相比可以更有效地诱发应激反应，且在以中国群体为被试的急性应激研究中具有广泛的应用(Jiang et al.,2017;Wu et al.,2017)，因此本研究采用该版本进行测试。该测试共包含三个阶段：准备期、演讲期和计算期，每个阶段各5分钟，共计15分钟。在后两个阶段中，摄像机将记录被试的表现。
+
+首先，主试在准备室中向被试介绍测试任务，任务情境为请被试假设自己在超市购物期间被超市保安认为偷窃，需要准备一段演讲在超市管理者面前为自己辩护，在准备期间可以做笔记，但任务中需要脱稿演讲。准备结束后，被试被引导至另一房间完成演讲和心算任务。该房间里坐着3名“超市经理”（1男2女)，且被试之前从未见过。经理们身穿白大褂，在整个任务阶段中保持严肃的表情。测试开始后，被试需要立刻开始限时演讲，陈述辩护词以证明自己是无辜的。演讲结束后，被试需要从1022开始，进行连续减数字13 的心算。一旦心算错误，则必须从头开始。
+
+# 2.4气球模拟风险任务
+
+我们采用气球模拟风险任务(Lejuez etal.,2002)作为风险倾向的测量范式。该任务作为一个经典的自然冒险范式，在任务过程中风险随着气球的增大稳定上升，对风险水平的定义更加直接、自然，与许多自然场景冒险中逐渐增强的紧张感相类似，被前人证明具有较高的信度和生态效度(White et al.,2008)。本实验中的任务参数参考 Fein 和Chang(2008)，刺激材料与古若雷等人(2018)的研究相同（见图2)。被试距离屏幕 $1 0 0 \mathrm { c m }$ 。正式实验前有四个练习试次以帮助被试了解任务规则，同时为了控制练习中爆炸点的差异对正式实验的影响，练习试次的爆炸点设置为伪随机。
+
+每个试次中，屏幕中央会先呈现 $1 0 0 0 \mathrm { { m s } }$ 的红色注视点，然后出现一个红色的气球（初始气球的视角为 $3 ^ { \circ } { \times } 3 . 5 ^ { \circ } \mathrm { . }$ )，气球下方显示打气次数和本轮积分数。气球中心显示“请选择”，表示此时等待被试的选择，决策时间不限时。被试可以通过按“F”或“J”键给气球打气，或者停止打气、选择收钱。打气和收钱的按键在被试间平衡。选择打气后，气球上的文字消失 $1 0 0 0 { \sim } 1 2 0 0 ~ \mathrm { m s }$ 后，屏幕上反馈打气结果。有两种可能的结果：一是气球膨胀为原面积的 $5 \%$ ，积分数增加；另一种是气球爆炸，屏幕上呈现一张气球爆炸状态的图片，本次积分清零。反馈呈现的时间均为 $1 2 0 0 \mathrm { m s }$ 。
+
+程序预设的爆炸点在 2\~12次之间随机分布 (Fein& Chang,2008;Kiat et al.,2016)。第[在此处键入]
+
+一次打气不会爆炸，第二个气球爆炸的概率为1/11，第三次为1/10，第四次为1/9，依次类推，直到第十二次，气球一定会爆炸(Lejuez etal.,2002)。这些参数均不告知被试。每次成功打气加2分，即第一次打气加2分，第二次加4分，第三次加6分，以此类推(Fein&Chang, 2008; Kessler et al., 2017)。
+
+根据预实验结果，完成60个试次需要约20分钟左右。考虑到唾液皮质醇水平在应激源呈现后约15分钟达到峰值(Dickerson&Kemeny,2004)，为了采集皮质醇反应的峰值数据，该决策任务分两部分进行，各30个试次。在两部分中间设置3分钟休息，采集唾液皮质醇、心率和情绪量表。
+
+该任务的主要行为指标为平均打气次数，即在未爆炸试次中，打气次数的平均数。平均打气次数越多，表明行为越冒险，风险倾向越高(Lejuezetal.,2002)。
+
+![](images/d495b8f2c1f21008857c822f1642e718c46a2200e1149a42911a62ed91ee39f1.jpg)  
+图2气球模拟风险实验的流程与界面示意图
+
+# 2.5应激指标
+
+# 2.5.1皮质醇反应
+
+我们使用国际通用的一次性唾液收集管(Sarstedt,Rommelsdorf,Germany)采集唾液样本。被试需口含收集管中的一小段无菌棉条约1\~2分钟，直至棉条完全浸湿。采集完毕后，储存于 $- 2 2 ^ { \circ } \mathrm { C }$ 的冰柜中。用二代罗氏皮质醇检验试剂盒(CortisolII,Roche Diagnostics,Numbrecht,Germany)检测唾液样本中的皮质醇含量，试剂敏感度为 $1 . 5 \mathrm { n m o l / L }$ ，允许检测范围为 $1 . 5 { \sim } 1 7 5 0 \ \mathrm { n m o l / L }$ ，允许的批间和批内误差各小于 $12 . 7 \%$ 和 $7 . 1 \%$ 。以皮质醇峰值变化率，即皮质醇峰值减去基线的差值除以基线，作为应激下皮质醇变化的指标(Drexler&Wolf, 2017; Hucklebridge et al., 2000)。
+
+# 2.5.2心率反应
+
+作为交感神经系统激活的生理指标，我们通过Polar (RS800CX,Polar Electro,Finland)采集和存储实时心率数据，该设备包括一个佩戴在胸前的感应表带和一个佩戴在手腕上的手表。使用Polar Pro Trainer 软件导出数据，分析基线（采集5分钟）、演讲和心算期间（连续采集10分钟）及应激测试后的第0分钟、15分钟、30分钟（应激测试后每次采集3 分钟)，共五个阶段内的心率均值。与皮质醇变化的计算方法相同，以心率峰值变化率，即心率峰值减去基线的差值除以基线，作为应激下心率变化的指标。
+
+# 2.5.3情绪反应
+
+我们使用正负性情绪量表(Positive and Negative Affect Schedule,PANAS)(Watson &Clark,1988)测量被试在应激测试前后的情绪变化。该量表包括正性情绪（如“备受鼓舞的”、“热情的”）和负性情绪（如“心烦的”、“敌意的"）两个维度，每个维度各10道题目，被试从“几乎没有”到“极其多”进行五点评分。根据前人文献，特里尔社会应激测试会引起负性情绪的增加，因此我们以被试在负性情绪维度的得分，作为应激诱发有效性的心理指标(Feldman et al.,1999)。
+
+# 2.6数据分析
+
+采用 SPSS22.0对数据进行统计分析，数据分析的显著性水平 $\alpha$ 限定为0.05（双尾）。首先，为了验证本实验是否有效诱发了被试的应激反应，我们以测量时间点为自变量，分别对皮质醇、心率、负性情绪得分进行单因素重复测量方差分析。其次，为考察各变量间的关系，通过皮尔逊相关对数据进行相关分析。最后，为检验兴奋易感性的调节作用，我们采用分层回归的方法，分别建立皮质醇和心率的两个回归模型：首先对皮质醇峰值变化率、兴奋易感性进行中心化；其次计算中心化后的皮质醇峰值变化率和兴奋易感性的乘积，构建模型的交互项；最后将中心化后的皮质醇峰值变化率和兴奋易感性依次放入模型第一层，交互项放入模型第二层。之后采用同样的方法建立心率峰值变化率的回归模型。
+
+# 3结果
+
+# 3.1应激反应
+
+结果表明，对于皮质醇、心率、负性情绪三个应激指标，测量时间的主效应均显著（皮质醇： $F ( 3 , 1 1 1 ) = 3 6 . 5 6 , p < 0 . 0 0 1$ $\eta ^ { 2 } { \tt p } = 0 . 5 0$ ；心率： $F ( 4 , 1 4 8 ) = 8 1 . 8 0 , p < 0 . 0 0 1 , \eta \mathrm { ^ 2 p } =$ 0.69；负性情绪： $F ( 3 , 1 1 1 ) = 1 4 . 3 9 , p < 0 . 0 0 1 , \eta ^ { 2 } { \mathrm { p } } = 0 . 2 9 )$ 。各变量的变化曲线如图3所示。唾液皮质醇含量在应激测试结束后各阶段（依次为 $6 . 9 4 \pm 3 . 3 7 ~ \mathrm { n m o l / L } ; 9 . 9 6 \pm 5 . 2 6 ~ \mathrm { n m o l / L } ;$ $7 . 6 0 { \pm } 3 . 9 2 \mathrm { n m o l / L }$ ）均显著高于基线（ $\langle 3 . 9 3 \pm 1 . 7 3 \mathrm { n m o l / L } \rangle$ ， $( p s < 0 . 0 0 1 )$ ，在应激测试结束后第15 分钟达到峰值，且该阶段显著高于应激测试后其他阶段 $( p s < 0 . 0 0 1 )$ )。心率在应激测试期间达到峰值（ $9 2 . 8 9 \pm 1 2 . 5 4 \mathrm { b p m } )$ ，该阶段的平均心率显著高于基线（ $7 7 . 5 5 \pm 8 . 4 2$ bpm）及应激测试后各时间段内的心率（依次为76.74±10.94bpm; $7 7 . 2 1 \pm 8 . 4 5$ bpm; 76.82$\pm 7 . 8 9$ bpm, $p s < 0 . 0 0 1 \$ )，除应激测试期间，其余各阶段的平均心率之间差异不显著 $\langle p s \geq$ 0.44)。负性情绪在应激测试结束后第0分钟达到峰值（ $\left( 2 . 1 0 \pm 0 . 6 4 \right)$ ，该阶段的负性情绪得分显著高于基线（ $1 . 6 5 \pm 0 . 4 8 ^ { \cdot }$ ）和应激测试后其他阶段（依次为 $1 . 7 1 \pm 0 . 5 1 ; 1 . 6 1 \pm 0 . 5 0 )$ $( p s < 0 . 0 0 1 )$ ，应激测试后第15分钟显著高于第30分钟（ $\stackrel { \cdot } { p } = 0 . 0 1$ )，其余各阶段的差异均不显著 $( p s \geq 0 . 4 4 )$ 。
+
+![](images/3dd2d319092e40952ebab0cff23ad57b1350a1ee2a3dca576916bc1c82797b76.jpg)  
+图3应激测试前后的生理和情绪变化：A）唾液皮质醇含量；B）心率；C）负性情绪
+
+注：\*表示 $p < 0 . 0 5$ ; $\ast \ast \ast$ 表示 $p < 0 . 0 0 1$ ；bpm 表示心率分钟跳动次数；误差线表示均值标准误
+
+# 3.2相关分析
+
+皮质醇峰值变化率与平均打气次数边缘相关（ $r = 0 . 3 1 , p = 0 . 0 6 )$ ，即应激下被试的皮质醇变化越大，平均打气次数越多；心率峰值变化率与打气次数不相关（ $\scriptstyle { \dot { } } _ { r } = - 0 . 0 1 , p =$ 0.95)，但与兴奋易感性显著相关（ $\dot { \mathbf { \Omega } } _ { r } = 0 . 3 4 , p = 0 . 0 4 )$ ，即兴奋易感性越高，应激下心率变化越大。其他变量间的相关均不显著 $( p s \ge 0 . 2 9 )$ 。
+
+表1各变量的描述性统计及相关结果  
+
+<html><body><table><tr><td></td><td>M</td><td>SD</td><td colspan="2">皮质醇峰值变化率</td><td colspan="2">心率峰值变化率</td><td colspan="2">平均打气次数</td></tr><tr><td></td><td></td><td></td><td>r</td><td>95% CI</td><td>r</td><td>95% CI</td><td>r</td><td>95% CI</td></tr><tr><td>皮质醇峰值变化率</td><td>2.07</td><td>1.44</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>心率峰值变化率</td><td>0.20</td><td>0.13</td><td>-0.18</td><td>[-0.42,0.16]</td><td></td><td></td><td></td><td></td></tr><tr><td>平均打气次数</td><td>5.98</td><td>1.03</td><td>0.31</td><td>[-0.06,0.56]</td><td>-0.01</td><td>[-0.33,0.42]</td><td></td><td></td></tr><tr><td>兴奋易感性</td><td>46.47</td><td>9.85</td><td>-0.18</td><td>[-0.47, 0.09]</td><td>0.34*</td><td>[0.05,0.59]</td><td>-0.14</td><td>[-0.42,0.18]</td></tr></table></body></html>
+
+注：\*表示 $p < 0 . 0 5$
+
+# 3.3调节作用
+
+皮质醇的分层回归的结果如表2所示，兴奋易感性对应激下皮质醇变化与风险倾向间的关系有显著的调节作用（ $B = 0 . 0 4$ $\beta = 0 . 3 9$ $p = 0 . 0 3$ $9 5 \%$ CI: [0.01,0.07])。进一步的简单斜率检验表明（图4)，当兴奋易感性低于均值一个标准差时，皮质醇峰值变化率不能显著预测应激下的平均打气次数 $( \beta = - 0 . 1 8 , p = 0 . 4 9 , 9 5 \% C I ; [ - 0 . 5 0 , 0 . 2 4 ] )$ ，但是当兴奋易感性高于均值一个标准差时，皮质醇峰值变化率对平均打气次数有显著的正向预测作用（ $\beta =$ 0.86, $p = 0 . 0 1$ ， $9 5 \%$ CI:[0.20,1.03])。但是兴奋易感性对应激下心率变化与风险倾向间的关[在此处键入]
+
+系不存在调节作用（ $B = 0 . 0 6$ $\beta = 1 . 0 6$ $p = 0 . 6 8$ $9 5 \%$ CI: [-0.23, 0.35])。
+
+表2皮质醇预测平均打气次数的分层回归分析  
+
+<html><body><table><tr><td></td><td></td><td colspan="8">平均打气次数</td></tr><tr><td></td><td>变量</td><td>B</td><td>SE</td><td>β</td><td>t</td><td>B</td><td>SE</td><td>β</td><td>t</td></tr><tr><td>第一步</td><td>皮质醇峰值变化率</td><td>0.21</td><td>0.12</td><td>0.29</td><td>1.80</td><td>0.24</td><td>0.11</td><td>0.34</td><td>2.20</td></tr><tr><td></td><td>兴奋易感性</td><td>-0.01</td><td>0.02</td><td>-0.09</td><td>-0.54</td><td>0.01</td><td>0.018</td><td>0.08</td><td>0.46</td></tr><tr><td>第二步</td><td>皮质醇峰值变化率</td><td></td><td></td><td></td><td></td><td>0.04</td><td>0.02</td><td>0.39</td><td>2.34*</td></tr><tr><td>R²</td><td>× 兴奋易感性</td><td colspan="4">0.10</td><td colspan="4">0.23</td></tr><tr><td>4R2</td><td></td><td colspan="4"></td><td colspan="4">0.13</td></tr><tr><td>模型F</td><td></td><td colspan="4">F(2,35)= 2.00</td><td colspan="4">F(3,34)= 3.33*</td></tr></table></body></html>
+
+注：\*表示 $p < 0 . 0 5$
+
+![](images/dd9c9a933beda82c5154c227676ce46867362ad53f1b8c4db6d32f849afb0054.jpg)  
+图4在不同兴奋易感性水平上，应激下的皮质醇变化率与平均打气次数的关系示意图
+
+注：EOE为兴奋易感性；EOE $M { - } 1 S D$ 表示兴奋易感性小于均值一个标准差；EOE $M \mathrm { + } 1 S D$ 表示兴奋易感性高于均值一个标准差
+
+# 4讨论
+
+在本研究中，我们考察了急性应激下皮质醇反应与风险倾向间的关系，以及兴奋易感性在其中的调节作用。结果显示，被试的皮质醇、心率和负性情绪在应激任务后较基线显著增高，并在实验结束后逐渐恢复至基线水平，说明本研究采用的特里尔社会应激任务有效诱发了被试的急性应激反应。相关分析表明，应激状态下被试的打气次数与心率变化与无关，但与皮质醇变化相关，即皮质醇变化率越大，被试的打气次数越多，行为越冒险。更重要的是，兴奋易感性在应激下皮质醇与风险倾向的关系中起到显著的调节作用，即低兴奋易感者，其皮质醇变化无法预测风险倾向，但高兴奋易感者，其应激下皮质醇变化率越高越冒险。
+
+本研究发现，应激下皮质醇变化率与风险倾向正相关。在同样通过特里尔社会应激测试诱发应激的实验中，数据结果显示皮质醇反应越强的被试在爱荷华赌博任务中表现越差，即行为表现越冒险(van den Bos et al.,2009)。Buckert 等人(2014)采用团体特里尔社会应激任务，发现在应激组中，皮质醇变化量在 $2 . 5 \mathrm { n m o l / L }$ 以上的被试，比皮质醇变化低的被试更冒险。Starcke 等人(2008)的结果表明，应激组的皮质醇水平越高，在投骰子博弈任务中得分越低，且越频繁地选择最冒险的选项。同样，在通过直接注射或口服皮质醇的方法来增加皮质醇水平的研究中，也呈现出与诱发应激实验中相似的结果(Kluen et al.,2017;Putman etal.,2010)。以上研究结论均佐证了本研究中皮质醇水平与风险行为正相关的结果。
+
+尽管我们没有重复出应激下心率变化与风险倾向正相关的结果，但是可以理解的。因为关于心率变化与风险决策的研究相对较少，虽然Wemm 和Wulfert (2017)发现应激测试后男性的心率升高量越大，在决策任务中越冒险，但在他们的研究中，最终参与数据分析的应激组男性被试仅有11名，样本量的不足会导致实验结果存在偏差。实际上，心率作为应激快反应系统的主要生理指标，在应激测试后约5分钟内即恢复至基线状态(如，Singeret al.,2017;Wu et al.,2017)，因此在风险决策任务期间，快反应系统并没有处于激活状态。相反，皮质醇反应会在应激测试后约10\~20 分钟达到峰值(Petrowski et al.,2010;Rimmele etal.,2009)，因此决策任务正是发生在皮质醇反应的高峰时段。所以相比于心率，皮质醇与决策任务在时间上的联系也更密切。
+
+进一步分层回归分析的结果显示，高兴奋易感性的个体更容易受到应激下皮质醇变化[在此处键入]
+
+对风险倾向的影响。可能的原因是对于高兴奋易感性的个体，他们对刺激和环境更加警觉，相对更容易被内外部刺激所激活或唤醒(Liss et al.,2008;Smolewska et al.,2006)。所以当应激状态下体内释放大量皮质醇激素时，高兴奋易感性的个体可能会更强烈地感受到躯体生理水平的变化，并在皮质醇的唤醒下表现出更强的冒险倾向。根据强化敏感性理论，行为抑制和行为趋近系统的相互平衡在决策行为中起到重要作用。在正常状态下，行为抑制系统占据相对优势，决策者在不确定情况下会表现出相对保守的行为倾向，即“停，看，听，并为反应做好准备”(Gray,1991,p.110)，但是在高生理唤醒的情况下，对于兴奋敏感性较高的个体，他们的行为抑制系统功能降低，抑制效果减弱(Smolewska et al.,2006)，进而导致他们在皮质醇的作用下对及时奖赏的偏好增强，从而变得更冒险(Starcke& Brand,2016)。相反，低兴奋易感性的个体不易受到内外界刺激的影响，他们对躯体生理状态的变化相对不敏感，相应的，其心理功能变化也较小，因而即便在皮质醇的作用下也更有可能维持往常的风险倾向。
+
+与此同时，该结果在一定程度上得到了躯体标记假说 (Damasio& Tranel,1991)的支撑。即虽然在本研究中，应激测试是一个与决策任务本身无关的程序，但是高兴奋易感者的决策行为依然显著受到应激激素的影响。一个可能的原因是，高兴奋易感性的个体由于对外部刺激和内部变化的高度敏感，可以更敏锐地察觉到自身躯体信号的变化，因而在决策任务中更容易错将皮质醇水平的变化作为“躯体标记信号”来引导决策行为。
+
+就应激程度而言，本研究中被试在应激测试后的皮质醇峰值变化率，与前人研究中设置的一些更为自然的高压场景，如消防员救火任务中的皮质醇变化率相当(Rosalky et al.2017)，说明本研究所诱发应激的水平，达到了类似于真实工作场景中的“高压”情况，因而，我们的研究发现对实际作业场景的应用具有可推广性。其次，本研究不仅在理论上揭示了个体差异对应激下风险倾向的影响，从应用意义考虑，还可以为实际的高压工程作业提供科学指导。在工程心理学领域已有研究发现应激会影响风险行为(Chang et al.,2017)，但却鲜有研究考察这种影响的个体差异。而本文的结果表明，高兴奋易感性的人群更容易在高压环境（如，紧急时刻）表现出与低压环境不同的行为。这揭示了不同人群发生决策失误等行为差异背后的原因，即兴奋易感性高的个体在遇到紧急事件时，更容易受到应激的影响，表现出比其他人更冒险的行为。这也提示我们，在针对高压岗位的人员选拔中，除了基本的人口学变量，应将兴奋易感性等敏感性特质相关的测量纳入考察范围，这有助于筛选出更符合高压岗位需求的特殊人才。
+
+[在此处键入]
+
+本研究也存在一定的局限性。首先，可能由于样本量的限制，皮质醇变化率和风险倾向的相关结果仅达到边缘显著，未来研究可以进一步扩大样本或者系列研究的方式，比如采用其他经典风险决策范式对我们的实验结果进一步验证。其次，由于女性的皮质醇水平波动较大(Kirschbaum et al.,1999; Kudielka& Kirschbaum,2005)，很多皮质醇研究中都未纳入女性被试(Pabst et al.,2013; Putman et al.,2010; Yamakawa et al.,2016)，所以本研究结论可能无法推广到女性群体。未来研究可以进一步扩大样本，同时通过控制生理周期及药物摄入等方法严格筛选女性被试，验证在女性群体中皮质醇与风险倾向的关系。
+
+总的来说，本研究发现急性应激状态下，皮质醇的变化与风险倾向的关系会受到兴奋易感性的调节作用。兴奋易感性高的个体，皮质醇升高得越多，其风险倾向升高得也越多。这可能与高兴奋易感性者对内外部刺激的高度敏感且易被唤醒有关。该发现在以往应激研究的基础上，进一步强调了个体差异因素，尤其是兴奋易感性这一个体特质的重要意义，使我们对与应激相关的决策失误及其背后的作用机理有了更深入的认识，为减低应激情景中的决策风险，增强高压岗位人员选拔的科学性等提供了启示。
+
+# 参考文献
+
+Ahadi,B.,& Basharpoor, S. (2ol0). Relationship between sensory processng sensitivity,personality dimensions and mental health.Journal of Applied Sciences,10(7),570-574. doi: 10.3923/jas.2010.570.574   
+Aron,E.N.,& Aron,A.(1997).Sensory-processing sensitivity and its relation to introversion and emotionality. Journal of Personality and Social Psychology,73(2),345-368.doi: 10.1037/0022-3514.73.2.345   
+Bechara,A. (2o04).The role ofemotion in decision-making: evidence from neurological patients with orbitofrontal damage. Brain and Cognition,55(1),30-40. doi:10.1016/j.bandc.2003.04.001   
+Buchanan,T.W.,Bagley,S.L.,Stansfield,R.B.,&Preston,S.D. (2012).The empathic,physiological resonanceof stress. Social Neuroscience,7(2),191-201. doi: 10.1080/17470919.2011.588723   
+Buchanan,T.W.,Laures-Gore,J. S.,& Duff, M. C.(2014). Acute stress reduces speech fluency.Biological Psychology, 97, 60-66.doi: 10.1016/j.biopsycho.2014.02.005   
+Buckert,M.,Schwieren, C.,Kudielka,B.M.,Christian J.,&Fiebach,C.J. (2014).Acute stress affects risk taking but not ambiguity aversion.Frontiers in Neuroscience,8,1-11.doi: 10.3389/fnins.2014.00082   
+Chang,C.H.,Bernard,T.E.,&Logan,J. (2O17).Eectsofheat stressonrisk perceptions andrisktaking.Applied   
+[在此处键入]
+
+Ergonomics, 62,150-157. doi:10.1016/j.apergo.2017.02.018
+
+Damasio,A.R.,& Tranel,D.(1991).Somatic markers and the guidance of behavior: theoryand preliminary testing. In H. S.Levin, H.M. Eisenberg,& A.L.Benton (Eds.),Frontal lobe function and dysfunction (pp.217- 229). Oxford University Press
+
+Dickerson, S.S.& Kemeny, M. E. (2o04). Acute stressors and cortisol responses: a theoretical integration and synthesis of laboratory research. Psychological Bulletin，130(3)，355-391．doi: 10.1037/0033-   
+2909.130.3.355 Drexler,S.M.，& Wolf, O.T.(2017). Stress disrupts the reconsolidation of fear memories in men. Psychoneuroendocrinology,77, 95-104.doi: 10.1016/j.psyneuen.2016.11.027 Elis,B., Jackson,J.，& Boyce,W. (206).The stress response systems: universalityand adaptive individual differences. Developmental Review, 26(2),175-212. doi: 10.1016/j.dr.2006.02.004 Evers,A.,Rasche,J.,& Schabracq,M.J. (2o08). High sensory-processing sensitivityat work.InternationalJournal of Stress Management, 15(2),189-198.doi: 10.1037/1072-5245.15.2.189 Faul, F., Erdfelder,E.,Lang,A. G.,& Buchner,A. (2007). $\mathbf { G } ^ { * }$ Power 3: A flexible statistical power analysis program for the social, behavioral, and biomedical sciences.Behavior Research Methods,39(2),175-191. doi:   
+10.3758/BF03193146 Fein, G.,& Chang, M. (20o8). Smaller feedback ERN amplitudes during the BART are associated with a greater family history density of alcohol problems in treatment-naive alcoholics. Drug Alcohol Depend, 92(1-3),   
+141-148. doi: 10.1016/j.drugalcdep.2007.07.017 Feldman,P.J., Cohen, S., Lepore,S.J.,& Marsland,A.L. (1999). Negative emotions and acute physiological responses to stress.Annals of Behavioral Medicine,21(3),216-222.doi: 10.1007/BF02884836 Gray, J.A. (1991). The neuropsychology of temperament. In J. Strelau & A. Angleitner (Eds.)，Explorations in temperament: International perspectives on theory and measurement (pp.105-128). New York: Plenum Press. Gu,R.,Zhang,D.,Luo,Y.,Wang,H.,& Broster,L.S.(2018).Predicting risk decisions in a modifiedballon analogue risk task: conventional and single-trial ERP analyses. Cognitive Affctive & Behavioral Neuroscience, 18(1), 99-116. doi: 10.3758/s13415-017-0555-3 Heinrich, H.W. (1931). Industrial accident prevention. New'York: McGraw Hill. Hucklebridge,F., Clow,A.,Rahman, H.，& Evans,P.(2ooo).The cortisol response to normal and nocturnal [在此处键入]
+
+awakening.Journal of Psychophysiology,14(1),24-28.doi: 10.1027//0269-8803.14.1.24
+
+Jiang,C.,Buchanan,T.W., Yao,Z., Zhang,K., Wu,J.,& Zhang,L.(2017).Acute psychological stress disrupts attentional biasto threat-related stimuli.Scientific Reports,7(1),14607.doi:10.1038/s41598-017-14138- W
+
+Kagan J, Snidman N.The long shadow of temperament. Washington DC: U.S. Library of Congress; 2004
+
+Kandasamya,N.,Hardyb,B.,Pagec,.,chaffnerc,M.,Graggabera,J.,Powlsona,A.S.,Coatesb,J.(214).Cortisol shifts financial risk preferences.PNAS,111(9),3608-3613.doi:10.1073/pnas.1317908111
+
+Kesler,L.,Hewig,J.，Weichold, K., Silbereisen,R.K.,& Miltner,W.H.R.(2017).Feedback negativity and decision-making behavior in the Balloon Analogue Risk Task (BART) in adolescents is modulated by peer presence. Psychophysiology, 54(2),260-269.doi: 10.1111/psyp.12783
+
+Kiat,J.,StraleyE.,&Cheadle,J.E.(2O16).Escalatingriskandthe moderatingefectofresistance topeerinfluence on the P200and feedback-related negativity.Social Cognitive and Affctive Neuroscience,l1(3),377-386. doi:10.1093/scan/nsv121
+
+Kirschbaum, C.,Kudielka, B.M., Gaab,J., Schommer, N. C.,& Hellhammer,D. H. (199). Impact of gender, menstrual cycle phase,and oral contraceptives on the activity of the hypothalamus-pituitary-adrenal axis. Psychos0matic Medicine, 61(2),154-162.doi: 10.1097/00006842-199903000-00006
+
+Kluen,L.M.,Agorastos,A.,Wiedemann,K.,&Schwabe,L.(20l7).Cortisolboosts riskydecision-making behavior in men but not in women.Psychoneuroendocrinology, 84,181-189.doi: 10.1016/j.psyneuen.2017.07.240
+
+Kudielka,B.M.,& Kirschbaum,C. (2007).Biological bases of the stressresponse.M.AlAbsi (Ed.) Stress and Addiction:Biological andPsychological Mechanisms,3-19.
+
+Kudielka,B.M.,& Kirschbaum, C.(2oo5).Sex diffrences in HPA axis responses to stres: Areview.Biological Psychology, 69(1),113-132.doi: 10.1016/j.biopsycho.2004.11.009
+
+Kudielka,B.M.,Hellhammer,D.H.,&Wüst,S.(20o9).Whydo we respond sodifferently?Reviewing determinants of human salivary cortisol responses to chalenge.Psychoneuroendocrinology，34(1)，2-18.doi: 10.1016/j.psyneuen.2008.10.004
+
+Lejuez,C.W.,Read,J.P.,Kahler, C.W.,Richards,J.B.,Ramsey,S.E.,Stuart,G.L.,Brown,R.A.(2002). Evaluation of a behavioral measure of risk taking: the Ballon Analogue Risk Task (BART). Journal of Experimental Psychology: Applied, 8(2),75-84.doi: 10.1037/1076-898x.8.2.75
+
+Lin,L.,Leung,A.W.S.,Wu,J.,& Zhang,L.(202O). Individual diffrences under acute stres: highercortisol [在此处键入]
+
+responders performs beter on N-back task in young men. International Journal ofPsychophysiology,150,
+
+20-28. doi: 10.1016/j.ijpsycho.2020.01.006   
+Liss,M.,Mailloux,J.,&Erchull,M.J.(oo8).Therelationships betweensensoryprocessingsensitivityalexithymia, autism，depression，and anxiety. Personality and Individual Differences， 45(3)，255-259.doi: 10.1016/j.paid.2008.04.009   
+Luo,Y.,Gao,P.,Zhao,S.,& Zhang,Y.(2O17). Howacute stress affectsatentional engagement and attentional disengagement towards threat: a neural mechanism study. Advances in Psychological Science,25(3),381. doi: 10.3724/sp.j.1042.2017.00381   
+McLean,M.A.,Niknafs,N.,Scoten,O.C.,Chau,C.M.Y.,MacKay,M., Weinberg,J., Grunau,R.E. (2020).Sensory processing and cortisol at age 4 years: procedural pain-related stress in children born very preterm. Developmental Psychobiology. doi:10.1002/dev.22079   
+Meyerson,J.,Gelkopf,M.,Eli,I.,&Uziel,N. (202).Burnoutandprofessionalqualityoflifeamong Isaelidetists: the role of sensory processing sensitivity. Int Dent J,70(1),29-37.doi:10.11/idj.12523   
+Naqvi,N. Shiv,B.,& Bechara,A. (2o06). The role of emotion in decision making: a cognitive neuroscience perspective. Current Directions in Psychological Science,15(5),260-264.   
+Orasanu,J.,Martin,L.,&Davidson,J.(2ool).Cognitive andcontextualfactors inaviationaccidents: decisioerrors.   
+Pabst,S.,Brand, M.,& Wolf, O.T. (2013). Stress and decision making: a few minutes make all the diference. Behavioural Brain Reserach,250,39-45.doi: 10.1016/j.bbr.2013.04.046   
+Petrowski, K.,Herold,U., Joraschky,P.,Witchen, H. U.,& Kirschbaum, C.(2o1). A striking paternofcortisol non-responsiveness to psychosocial stress in patients with panic disorder with concurrent normal cortisol awakening responses. Psychoneuroendocrinology, 35(3), 414-421. doi:10.1016/j.psyneuen.2009.08.003   
+Putman,P.,Antypa, N.， Crysovergi, P.,& van der Does,W.A. (2010).Exogenous cortisol acutely influences motivated decision making in healthy young men. Psychopharmacology， 208(2)， 257-263. doi: 10.1007/s00213-009-1725-y   
+Ramsey,J.D.，Burford,C.L.，Beshir,M.Y.,&Jensen,R.C. (1983).Effects of workplace thermal conditions on safe work behavior. Journal of Safety Research,14(3),105-114. doi: 10.1016/j.jsr.2013.07.001   
+Rimmele,U.,Seiler,R.,Marti,B.,Wirtz,P.H.,Ehlert,U.,&Heinrichs,M.(20o9).The levelofphysical activity affects adrenal and cardiovascular reactivity to psychosocial stress. Psychoneuroendocrinology, 34(2), 190-198. doi: 10.1016/jpsyneuen.2008.08.023
+
+[在此处键入]
+
+Rizzo-Sierra, C.V. (2012). The human sensory processing sensitivity: biological implications for introversion, submission and creativity.
+
+Rosalky,D.S.,Hostler,D.,& Webb, H.E.(2Ol7).Work duration does not affect cortisol output in experienced firefighters performing live burn drills. Applied ergonomics,58, 583-591. doi: 10.1016/j.apergo.2016.04.008
+
+Singer,N.,Sommer,M.,Dohnel,K.,Zankert,S.,Wust,S.,&Kudielka,B.M.(Ol7).cute psychosocialstresand everyday moral decision-making in young healthy men: the impact of cortisol. Hormones and Behavior, 93,72-81.doi:10.1016/j.yhbeh.2017.05.002
+
+Smolewska,K.A.,McCabe,S.B.,& Woody,E.Z. (206).Apsychometric evaluationofthe HighlySensitivePerson Scale: the components of sensory-processing sensitivity and their relation to the BIS/BAS and “Big Five". Personality and Individual Differences,40(6),1269-1279. doi:10.1016/j.paid.2005.09.022
+
+Starcke,K.,& Brand,M.(2O16).Effects of stress on decisions under uncertainty: ameta-analysis.Psychological Bulletin,142(9),909-933.doi: 10.1037/bul0000060
+
+Starcke,K.,Wolf,O.T.,Markowitsch,H.J.,& Brand,M.. (2oo8).Anticipatory stress influences decision making under explicit risk conditions.Behavioral Neuroscience,122(6),1352-1360.
+
+Svenson,O.,& Benson,L. (1993).Time pressure and stress in human judgment and decision making.Springer US
+
+Takahashi,T.,Kawashima,I.,Nita,Y.,&Kumano,H.(2O20).Dispositional mindfulness mediates the relationship between sensory-processing sensitivity and trait anxiety， well-being, and psychosomatic symptoms. Psychological Rep0rts,123(4),1083-1098.doi:10.1177/0033294119841848
+
+van den Bos,R.,Harteveld,M.,& Stoop,H.(2oo9).Stress and decision-making inhumans: performance is related to cortisol reactivity,albeit differently inmen and women.Psychoneuroendocrinology,34(10),1449-1458. doi:10.1016/j.psyneuen.2009.04.016
+
+Vander Elst,T.,Sercu,M.,Van den Broeck,A.,Van Hoof,E.,Bailien,E.,&Godderis,L.(2019).Who is more susceptible to job stressors and resources? Sensory-processing sensitivity as a personal resource and vulnerability factor.PLoS One,14(11),e0225103.doi:10.1371/journal.pone.0225103
+
+Watson,D.,& Clark,L.A. (1988). Development and validation of brief measures of positive and negative affect: the PANAS scales.Journal of Personality and Social Psychology, 54(6),1063-1070. doi: 10.1037/0022- 3514.54.6.1063
+
+Wemm,S.E.,& Wulfert,E.(2017).Efects of acute stress on decision making.Applied Psychophysiology and [在此处键入]
+
+Biofeedback, 42(1), 1-12. doi:10.1007/s10484-016-9347-8
+
+White,T.L.,Lejuez,C.W.,&de Wit,H. (2O08).Test-retest characteristics of the Ballon Analogue Risk Task (BART).Experimental & Clinical Psychopharmacology,16(6),565-570.doi: 10.1037/a0014083
+
+Wise,R.J.,Phung,A.L.,Labuschagne,I.,& Stout,J.C.(2014).Differential effects of social stressonlaboratorybased decision-making are related to both impulsive personality traits and gender. Cognition and Emotion, 29(8),1475-1485. doi: 10.1080/02699931.2014.989815
+
+Wu,J.,Sun, X., Wang,L.,Zhang,L.,Fernandez, G.,& Yao,Z. (2017).Err consciousness predicts physiological response to an acute psychosocial stressor in men. Psychoneuroendocrinology，83，84-90.doi: 10.1016/j.psyneuen.2017.05.029
+
+Wu,X.,Zhang,R.,Li,X.,Feng,T.,& Yan,N.(2O21).The moderating role of sensory processng sensitivity inthe linkbetween stress anddepression: a VBM study.Neuropsychologia,150.doi: 10.1016/j.neuropsychologia.2020.107704
+
+Yamakawa, K.,Ohira,H.,Matsunaga,M.,& Isowa,T. (2016).Prolonged effcts of acute stress on decision-making under risk: a human psychophysiological study. Frontiers in Human Neuroscience, 10(82), 444. doi: 10.3389/fnhum.2016.00444
+
+Yano,K.,& Oishi,K.(018).The relationshipsamongdailyexercise,sensory-processing sensitivity,anddepressive tendency in Japanese university students. Personality and Individual Diferences，127，49-53. doi:10.1016/j.paid.2018.01.047
+
+Zhang,L.,Duan,H., Qin,S.,Yuan,Y.,Buchanan,T.W., Zhang,K.,& Wu,J. (2015). High cortisol awakening response is associated with impaired error monitoring and decreased post-error adjustment. Stress,18(5), 561-568. doi: 10.3109/10253890.2015.1058356
+
+# The Relationship Between Acute Stress and Risk Taking:
+
+# The Moderating Effect ofEase of Excitation
+
+Peishan Wang1,2, Ruolei $\mathbf { G u } ^ { 1 , 2 }$ ,Liang Zhang1,2,\*
+
+1 CAS Key Laboratory of Behavioral Science,Institute of Psychology,Beijing 100101, China   
+2Department of Psychology, University of Chinese Academy of Sciences,Beijing 1Ooo49,China
+
+# Abstract
+
+Operators willinevitably encounter stressful events such as time pressure,high workload, or emergencies in high-risk and even routine factory work. Numerous psychological and post-accident analyses showed that decision-making error under stress is one of the most common causes of industrial accidents.Previous studies have found that individual factors play an essential role in how we feel and react to stress, moderating stress responses and affecting subsequent decision-making. However,as one of these factors that is closely associated with stress and decision-making, ease of excitation (EOE) has rarely been explored.Therefore, we conducted the present study to investigate the influencing mechanism of stress on risk taking and the moderating effect of ease of excitation. We supposed that stress level (indexed by salivary cortisol and heart rate) was correlated with risktaking behavior, and ease of excitation played a moderating role in this relationship. Individuals with a high level of ease of excitation might be more susceptible to stress responses.
+
+Forty-thre male participants were recruited in the study. We adopted the Trier Social Stress Test (TSST) to induce acute psychological stress and collected participants' salivary cortisol, heart rate and subjective emotional states during the experiment to evaluate their stress responses. The Balloon Analogue Risk Task (BART) was applied to measure their risk-taking behavior under stress. The mean adjusted number of pumps across trials was taken as the primary behavioral index. We used the Highly Sensitive Person Scale (SPS) to evaluate ease of excitation before the stress task to test the moderating effect on the relationship between stress response and risk-taking behavior.
+
+Repeated measures ANOVA revealed that salivary cortisol, heart rate, and negative mood increased significantly from baseline after the stress task and gradually returned to baseline, confirming that the stress manipulation was eficient. Correlation analysis showed that cortisol response was positively correlated with the mean adjusted number of pumps, while heart rate was unrelated.Furthermore, hierarchical multiple regression found that ease of excitation moderated the relationship between the salivary cortisol level and the mean adjusted number of pumps.To interpret the significant moderator effect of ease of excitation, we conducted a simple slope test. Analysis observed that when ease of excitation was one standard deviation below the mean value, the salivary cortisol level could not predict the mean adjusted number of pumps. However, when ease of excitation was one standard deviation above the mean value, the salivary cortisol level could significantly predict the number of pumps. The more salivary cortisol increased, the more did participants pumped. However, ease of excitation did not moderate the relationship between the heart rate and the mean adjusted number of pumps.
+
+Taken together, the current study demonstrates that increased cortisol level under stress positively associates with risk-taking behavior, and ease of excitation moderates the relationship. For individuals with a high level of ease of excitation, the more cortisol they increase,the riskier they are.It may owe to their hyper-sensitivity to internal and external stimuli. Altogether, the research highlights the importance of individual differences in understanding the mechanism of stress and provides scientific implications for selecting and training operators in high-pressure positions.
+
+Keywords: Acute stress,Risk taking, Ease of excitation, Cortisol, Heart rate

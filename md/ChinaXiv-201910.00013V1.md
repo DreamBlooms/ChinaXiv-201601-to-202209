@@ -1,0 +1,158 @@
+# 封育对荒漠草原枯落物蓄积量的影响
+
+陈晓莹，宋乃平，李敏岚，吴婷，陈娟（宁夏大学西北退化生态系统恢复与重建教育部重点实验室/西北土地退化与生态恢复省部共建国家重点实验室培育基地,宁夏 银川 750021)
+
+摘要：为了深入研究围栏封育和围栏放牧两种利用方式对荒漠草原植物向土壤养分归还的影响,以宁夏盐池县3个成对封育围栏和放牧围栏（放牧率分别为 $0 . 5 8 \ 、 0 . 6 5 、 0 . 8 0$ 只羊· $\mathbf { h } \mathbf { m } ^ { - 2 }$ )为研究对象,利用样线调查法、方差分析法对两种利用方式在灰钙土和风沙土土壤基质下枯落物的蓄积量、不同生活型植物的枯落物含量及影响因子的研究，探讨了枯落物蓄积量对草原利用方式与土壤基质的响应。结果表明： $\textcircled{1}$ 围封对枯落物蓄积量具显著影响。荒漠草原封育围栏枯落物蓄积量在 $5 3 . 2 \sim 1 4 1 . 9 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,是其放牧围栏的2.82倍。 $\textcircled{2}$ 灰钙土上封育围栏枯落物蓄积量是放牧围栏的3.86倍，但两种围栏在风沙土上的枯落物蓄积量却没有显著差别。 $\textcircled{3}$ 与地上生物量相比，草本植物在枯落物蓄积量结构中的下降以及灌木在蓄积量中的增加,可能是分解转化难易程度导致的。
+
+关键词：荒漠草原；封育；枯落物；蓄积量；盐池县
+
+枯落物是生态系统主要组分之一，是连接群落地上结构与土壤养分的重要枢纽[1。作为重要的地被物，枯落物在涵养水源、减少地表径流、防止地表水分蒸发、减少地面辐射、促进群落生态系统的物质循环和养分转化以及光降解等方面具有重要意义[2]。枯落物研究主要发端和发展于森林生态系统的凋落物[3]及其生物化学循环过程[4-5]。20 世纪80年代,开始关注草地枯落物，对东北松嫩羊草草地和内蒙古典型草原草地的枯落物进行了研究，发现群落的自然更新和代谢与典型草原枯落物的物种组成以及蓄积量有关[8]。随着群落年龄的增加，枯落物蓄积量增加但枯落物周转率却降低，周转时间也增大。对典型草原不同封育围栏的枯落物蓄积量研究发现，围封4a的枯落物蓄积达到最大值。荒漠草原一直被认为养分过程微弱，因而研究很少。近年来开展了典型植物群落枯落物的分解[]与生态水文过程的研究,也开展了封育禁牧下的生物多样性和枯落物动态研究(11-12]。但荒漠草原因其面积广大，在全国生态格局、生态恢复和碳汇中具有重要意义[13]。如何评价不同保护和利用方式对荒漠草原枯落物蓄积乃至养分转化的影响，目前仍然缺乏背景条件一致、且对比有效的成果。本研究以灰钙土和风沙土背景下成对封育围栏与放牧围栏两种利用方式为研究对象，通过对荒漠草原枯落物与枯落物结构的研究，揭示不同利用方式对荒漠草原枯落物特征的影响机理，为选择科学的荒漠草原利用方式提供理论依据。
+
+# 1材料与方法
+
+# 1.1 研究区自然概况
+
+在宁夏东部的盐池县荒漠草原区 $( 3 7 ^ { \circ } 5 7 ^ { \prime } 2 3 ^ { \prime \prime } \simright.$ $^ { \circ } 8 3 ^ { \prime } 4 7 ^ { \prime \prime } \mathrm { N } , 1 0 6 ^ { \circ } 7 7 ^ { \prime } 9 9 ^ { \prime \prime } \sim 1 0 7 ^ { \circ } 5 0 ^ { \prime } 7 0 ^ { \prime \prime } \mathrm { E } )$ 的皖记沟村、四墩子村和马儿庄村，选择土壤基质相同、植被类型连续的3个成对封育围栏和放牧围栏，对应的封育围栏的封育年限分别为 $6 、 1 0 、 1 5 \mathrm { ~ a ~ }$ 。研究区属典型的中温带大陆性气候，年均气温 $8 . 1 ~ \mathrm { { ^ { 8 } C } }$ ，无霜期 $1 5 0 \mathrm { ~ d ~ }$ ，多年平均降水量 $2 8 0 ~ \mathrm { m m }$ ,主要集中在7—9月（占全年降水量的 $6 0 \%$ 以上），且年际变率大,年平均蒸发量 $2 \ 7 1 0 \ \mathrm { m m }$ 。土壤类型以风沙土和灰钙土为主。研究区主要植物种类有短花针茅（Stipabreviflora）糙隐子草（Cleistogenessquarrosa）牛枝子(Lespedeza potaninii）猪毛蒿（Artemisia scoparia）猫头刺（Oxytropisaciphylla）苦豆子（Sophoraalopecu-roides）老瓜头（Cynanchumkomarovii）草木樨状黄耆（Astragalusmelilo-toides）、砂珍棘豆（Oxytropisracemosa），伴生种有糙隐子草、牛枝子、猪毛菜（Sal-solacollina）猪毛蒿、披针叶黄华（Thermopsislanceo-lata）、绵蓬（Corispermumhyssopifolium）、银灰旋花(Convolvulus ammannii）等。
+
+# 1.2 试验方法
+
+1.2.1样线设置在围封6a、10a、15a的封育围栏与放牧围栏交界处选择3\~4条 $1 0 0 \mathrm { ~ m ~ }$ 长的样线（表1），每条样线具有相同的土壤基质，6a围栏间选择3条灰钙土样线；10a围栏间选择3条样线，其中1条为风沙土样线，2条为灰钙土样线;15a围栏间选择4条样线，其中2条为风沙土样线，2条为灰钙土样线。每隔 $1 0 \mathrm { ~ m ~ }$ 设置一个 $1 \mathrm { ~ m ~ } \times \mathrm { ~ 1 ~ m ~ }$ 的样方，每条样线设置10个，共取样100个样方。
+
+表1研究区样地的基本状况  
+Tab.1 Basic situation of the sample plots in the study area   
+
+<html><body><table><tr><td>样地</td><td>围封 年限/a</td><td>放牧率/ （只羊·hm−²）</td><td>样线 条数</td><td>土壤类型</td></tr><tr><td>马儿庄</td><td>10</td><td>0.65</td><td>3</td><td>灰钙土</td></tr><tr><td>皖记沟</td><td>15</td><td>0.80</td><td>4</td><td>风沙土+灰钙土</td></tr><tr><td>四墩子</td><td>6</td><td>0.58</td><td>3</td><td>风沙土+灰钙土</td></tr></table></body></html>
+
+1.2.2枯落物收集调查不同围封年限下的植物群落枯落物的蓄积量，将立枯、枯落物和半分解物全部收集装入信封中，将采集的样品带回实验室烘干后称重,计算其单位面积枯落物蓄积量(10]。荒漠草原植物比较稀疏，容易采集立枯，立枯尽可能按照原有状态获取完整的组分。
+
+1.2.3枯落物组分区分2018年8月中旬对地面枯落物进行收集,带回实验室按照生活型[14]将枯落物划分为4种功能群：灌木、小半灌木、草本及半分解物（荒漠草原植物种类较少,每种植物的茎、枝、柄、叶等的粗细、长短、形状、结构、木质部和纤维韧性等，都有各自的特点，易于区分）。枯落物过0.05mm的土筛，过筛所得枯落物与筛内手工分拣的已经辨认不清种类的植物残体作为半分解物[15]。用信封将不同物种的立枯分装。
+
+# 1.3 数据分析
+
+数据分析统计过程在SPSS22.0中进行。对植物群落、枯落物蓄积量、功能群枯落物蓄积量进行数据整理，并进行成对 $T$ 样本检验以及方差显著性分析。分析结果以Excel作图。
+
+# 2结果
+
+# 2.1 枯落物蓄积量
+
+不同围封年限枯落物蓄积量的统计结果显示：6a的封育围栏和放牧围栏的枯落物蓄积量最小，前者在 $1 9 . 9 6 \sim 1 3 6 . 1 6 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,平均为 $5 3 . 2 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ;后者在 $2 . 1 8 \sim 1 4 . 7 6 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,平均值为 $\boldsymbol { 1 1 . 2 1 \mathrm { ~ g ~ } } \cdot$ （20$\mathrm { ~ m ~ } ^ { - 2 }$ 。10 a 的封育围栏枯落物蓄积量在 $2 0 . 5 3 \sim$ （204号$1 2 4 . 0 0 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,平均为 $6 4 . 0 7 \textrm { g } \cdot \textrm { m } ^ { - 2 }$ ;放牧围栏枯落物蓄积量在 $4 . \ 2 8 \sim 4 1 . \ 2 7 \mathrm { ~  ~ { ~ g ~ } ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,平均值为$1 8 . 8 0 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ 。 $1 5 \mathrm { ~ a ~ }$ 的封育围栏和放牧围栏的枯落物蓄积量最大,前者在 $1 5 . 0 1 \sim 3 3 2 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,平均为$1 4 1 . 9 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,后者在 $5 . 5 2 \sim 5 9 . 0 2 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,平均值为 $5 3 . 1 7 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ 。不同围封年限封育围栏的枯落物蓄积量分布在 $5 3 . 2 \sim 1 4 1 . 9 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ 。不同围封年限放牧围栏的枯落物蓄积量在 $1 8 . 8 \sim 5 3 . 2 \mathrm { ~ g ~ } \cdot$ （204号$\mathrm { ~ m ~ } ^ { - 2 }$ 。封育围栏枯落物蓄积量均高于放牧围栏蓄积量，二者之间存在显著性差异，且在3个样地表现一致(图1)。
+
+![](images/3790dff4a4776b018e92a63e9319125b2d03b98f8d35d4995036a3ebc0043690.jpg)
+
+注：大写字母表示不同年限封育围栏与放牧围栏之间的枯落物差异显著性，小写字母表示各个年限的封育围栏与放牧围栏之间的枯落物差异显著性( $\textstyle P < 0 . 0 5 ,$ 。下同。
+
+图1不同围封年限封育围栏与放牧围栏枯落物总蓄积量 Fig.1Total litter amounts in the enclosure plot and fenced grazingplot fenced for different years
+
+# 2.2枯落物功能群蓄积量
+
+2.2.1不同生活型植物枯落物蓄积量为了区分枯落物转化对土壤养分的影响以及不同物种枯落物分解转化的难易程度，将枯落物按照其对应植物的生活型分为：灌木、小半灌木、草本，并对收集的枯落物进行筛分分拣，分别分析。结果发现,枯落物主要以草本为主，其次是小半灌木，灌木仅占不到 $10 \%$ 的量。灌木枯落物蓄积量在15a的封育围栏和放牧围栏差异不大，但在10a围栏之间的差异显著。
+
+![](images/17eb6e6995684533741df0b168f6424b806aa407b4da32bf6c23b4609c35029e.jpg)  
+图2不同围封年限封育围栏和放牧围栏的植物枯落物蓄积量
+
+草本植物和小半灌木枯落物蓄积量在3个不同围封年限的封育围栏和放牧围栏之间均有显著差异
+
+由图2可以看出，草本植物枯落物蓄积量在封育围栏和放牧围栏均呈现随围封年限增加而增加的趋势，封育围栏更加显著，主导着枯落物的总体趋势。小半灌木枯落物也基本呈现出随封育年限增加而增加的趋势，但是不很明显。半分解物质随封育年限的增加而增加，但是15a时反而下降，可能是分解能力增加导致的。
+
+2.2.2不同生活型枯落物群落组成从图3可以看出，根据生活型划分的封育围栏和放牧围栏的枯落物结构与植物活体群落结构一致。不同围封年限下枯落物生活型蓄积量并没有显著差异，即草本 $>$ 小半灌木 $>$ 灌木。在群落中,封育围栏的草本、小半灌木和灌木的地上生物量分别占地上总生物量的$70 \%$ （ $2 8 \%$ 和 $2 \%$ ,放牧围栏则为 $69 \%$ （ $31 \%$ 和0。在枯落物中，封育围栏的草本、小半灌木和灌木的枯落物蓄积量分别占总蓄积量的 $6 1 \%$ （2 $, 3 0 \%$ 和 $9 \%$ ，放牧围栏为 $6 2 \%$ $. 2 4 \%$ 和 $14 \%$ ;地上生物量与枯落物蓄积量均为：草本 $>$ 小半灌木 $>$ 灌木。荒漠草原枯落物经过风蚀、淋溶以及动物扰动等分解后，其结构发生了变化，无论是封育围栏还是放牧围栏，易于分解的草本植物的枯落物蓄积量比重下降，而难于分解的灌木枯落物蓄积量比重增加。但总体上，剩余的枯落物蓄积量仍能反映群落的功能群结构。
+
+![](images/a5ae27a281a59654550d7fbdf5191ff9a01c28031541ea1d3e957fb686ad9e8c.jpg)  
+Fig.2Plant liter amounts in the enclosure plot and fenced grazing plot fenced for different year   
+图3封育围栏和放牧围栏地上群落、枯落物生活型蓄积量 Fig.3Accumulations of the aboveground community and litter plant life form amount in the enclosure plot and fenced grazing plot
+
+# 2.3不同土壤基质枯落物蓄积量
+
+2.3.1不同土壤基质枯落物总蓄积量在风沙土上，10a的封育围栏枯落物蓄积量平均值为47.34$\mathbf { g } \cdot \mathbf { m } ^ { - 2 }$ ,放牧围栏为 $6 4 . 7 0 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,二者没有显著差异;15a的封育围栏枯落物蓄积量平均值为（204号 $1 2 5 . 1 9 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,放牧围栏为 $3 5 . 2 7 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,二者具显著差异。风沙土封育围栏枯落物蓄积量在$4 7 . 3 4 \sim 1 2 5 . 7 9 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,平均值为 $8 6 . 5 6 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,放
+
+![](images/8ae9656b599519614406a42ca29b3684cca5f055a2f94153f605dac14ad430b7.jpg)  
+图4不同围封年限两种土壤基质封育围栏与放牧围栏枯落物总蓄积量
+
+Fig.4Total literamountsovertwosoil matrixesintheenclosure plotandfenced grazing plotfencedfordifferent years牧围栏枯落物蓄积量在 $3 5 . 2 7 \sim 6 4 . 7 0 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ，平均值为 $4 9 . 9 8 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ 。灰钙土上,6a封育围栏枯落物蓄积量平均值为 $5 3 . 1 7 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,放牧围栏为$1 1 . 2 1 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ；10a的封育围栏枯落物蓄积量平均值为 $7 2 . 4 3 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,放牧围栏为 $1 8 . 5 8 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ；围封15a的封育围栏枯落物蓄积量平均值为157.07$\mathbf { g } \cdot \mathbf { m } ^ { - 2 }$ ,放牧围栏平均值为 $4 3 . 4 6 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ 。灰钙土封育围栏枯落物含量分布在 $5 3 . 1 7 \sim 1 5 7 . 0 1 \mathrm { ~ g ~ } ^ { . }$ ，$\mathrm { ~ m ~ } ^ { - 2 }$ ,平均值为 $9 4 . 2 2 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ;放牧围栏枯落物含量分布在 $1 1 . 2 1 \sim 4 3 . 2 6 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,平均值为 $2 4 . 4 0 \ \mathrm { \ g \ } \cdot$ $\mathrm { ~ m ~ } ^ { - 2 }$ ,对比风沙土与灰钙土封育围栏与放牧围栏的枯落物蓄积量可以看出：风沙土上二者没有显著差异,而灰钙土上二者具有显著差异（图4）。
+
+![](images/3b432a0ea3177031e1a8a875b95cf9b223103567d0ee438ba7e07b708772170d.jpg)  
+Fig.5Total litter amounts over different soil matrixes in the enclosure plot and fenced grazing plc
+
+![](images/66cf3d14d88ce7c526877300ec66481e5148218f900686f6263cceeefef84234.jpg)  
+图5不同土壤基质封育围栏与放牧围栏植物生活型总蓄积量  
+图6不同土壤基质生活型总蓄积量 Fig.6Total plant litter amounts over different soil matrixes in the enclosure plot and fenced grazing plot
+
+2.3.2不同基质生活型枯落物蓄积量封育围栏与放牧围栏在风沙土上灌木枯落物蓄积量差异显著，小半灌木与草本的枯落物蓄积量，以及半分解物均没有显著差异。而灰钙土上封育围栏与放牧围栏的草本枯落物蓄积量有显著差异，但灌木枯落物蓄积量、小半灌木枯落物蓄积量和半分解物均没有显著差异（图5）。
+
+不同生活型枯落物的蓄积量在灰钙土上均高于风沙土。灰钙土上灌木、小半灌木、草本枯落物及半分解物的蓄积量分别是风沙土的1.66倍、2.04倍、0.96倍和1.72倍（图6）。从枯落物的总蓄积量来说,灰钙土上枯落物的蓄积量显著高于风沙土。对比风沙土与灰钙土植物群落结构可以发现（图7）：围封后,风沙土上枯落物小半灌木的比例显著增加，但灰钙土群落结构差异不大。草本所占比例的提高，更多易分解的植物进入草原生态系统的物质转换与养分循环。对比枯落物功能群结构可发现，在灰钙土上草本分布更多，枯落物的积蓄与转化也增加，而风沙土上小半灌木占绝对优势枯落物的转化速率显著低于灰钙土。
+
+![](images/b7d17e5679b45885cf2c0e811e94a67758af90cc1db53b1c6f2347002279df02.jpg)  
+图7不同土壤基质封育围栏与放牧围栏植物群落生活型占比  
+Fig.7Proportions of life form in the plant communities over the different soil matrixes in the enclosure plot and fenced grazing plot
+
+# 3讨论
+
+# 3.1封育围栏与放牧围栏的枯落物蓄积量
+
+枯落物的蓄积量受到枯落物的输人量、枯落物自身的分解难易程度、积累年限、水热条件以及土壤微生物种类和动物的采食等综合因素的影响(16]本次调查结果显著低于内蒙古典型草原[围封10 a 群落的枯落物蓄积量 $( 2 ~ 2 5 . 5 ~ \mathrm { g } \cdot \mathrm { m } ^ { - 2 }$ )，也低于黄土高原区[9枯落物蓄积量( $( 2 6 9 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ )。程积民等9 对宁夏的云雾山枯落物进行定位观察时就得出，本氏针茅等禾本科植物分解速率显著高于其他物种。本研究区的封育围栏主要以禾本科、豆科植物为优势种和建群种，而放牧围栏则为猪毛蒿等菊科植物。由于家畜等草食性动物的采食，放牧围栏的优质牧草在整个生长周期都积累甚微；地表平均覆盖度仅达到 $3 8 \%$ ，风蚀导致的地表枯落物积累过少，地表枯落物形成后无法有效转化归还给土壤。仅剩下猪毛蒿、老瓜头等适口性差、纤维含量高的不易分解的半灌木植物在群落中积累。由此可见，荒漠草原枯落物蓄积量总体较少，在封育禁牧情况下，尚有一定的枯落物蓄积量，有可能形成对土壤的养分归还。放牧围栏的枯落物蓄积量很小，依靠枯落
+
+物养分归还微弱。
+
+# 3.2不同生活型枯落物蓄积量及组成结构
+
+植物功能型是研究不同时空尺度上植被与全球变化之间关系的方法[15]。封育围栏的草地去除了放牧、刘割等外界扰动，促进了围封前被抑制和削弱的植物生长以及草地群落地上生产力[18],封育围栏的灌木枯落物、小半灌木枯落物、草本枯落物以及半分解物蓄积量分别是放牧围栏的2.45倍、4.89倍、3.95倍和2.87倍。围封后，水热环境的改变导致群落中一些植物不适应改变后的环境导致物种的改变，植物密集生长并具有拓展空间，群落生产力提高，地上植物不同生活型个体的积累与枯落物蓄积量变化趋势一致。
+
+封育围栏草本枯落物所占比例明显高于放牧围栏，封育围栏都是以多年生的禾本科植物为主，而放牧围栏多以一、二年生的草本和半灌木为主，这与初晓辉等[19]的研究结果一致。放牧扰动对群落的影响已经超过群落自我演替与更新的阈值，导致放牧围栏群落结构趋向单一化。放牧围栏灌木和小半灌木的枯落物蓄积量所占比例均大于封育围栏，封育围栏半分解物占枯落物总蓄积量为 $2 1 . 3 9 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ，而放牧围栏却为 $7 . 4 4 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ 。魏文俊等[20]发现,枯落物半分解层越厚，分解能力越强，土壤及生态系统功能更完善。从枯落物的群落组成结构来看，放牧围栏的群落向着灌丛化方向发展，灌木和小半灌木的功能群增加，群落物质循环与自我更新能力下降。
+
+# 3.3不同土壤基质枯落物的蓄积量
+
+对比风沙土与灰钙土，不同土壤基质封育围栏的枯落物蓄积量均显著高于放牧围栏。封育围栏具备了植物群落正常生长的物质条件和空间，通过自然力使退化草地的植被与土壤得到恢复。风沙土上主要分布的是以猪毛蒿、猪毛菜等一、二年生的适口性差，木质素和纤维素含量高的草本或半灌木植物，放牧扰动作用小;而灰钙土上则分布的是以针茅、苦豆子等易于转化、适口性好的豆科与禾本科植物，家畜对牧草的选择性采食影响了放牧围栏灰钙土上枯落物的积累。放牧围栏风沙土上草本枯落物蓄积量是灰钙土上的1.22倍。灰钙土上封育围栏草本枯落物蓄积量较放牧围栏增加了 $5 5 . 8 2 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,而风沙土上草本枯落物也增加了 $5 1 . 4 8 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ 。二者非常接近。草本比例的增加，会使更多易分解的草本枯落物参与物质转换与养分循环，给群落演替提供了原动力。这与都乐等[2运用遥感手段从景观
+
+尺度得到的结论相同。
+
+而对于土壤基质一致的封育围栏与放牧围栏枯落物蓄积量，风沙土上不同生活型枯落物蓄积量并未显出显著差异,特别是在未分解物的蓄积量上；而灰钙土上不同生活型枯落物蓄积量除灌木以外，均具有显著性差异。陈浩[22]发现,土壤对不同放牧强度下群落结构特征具有显著影响。风沙土上家畜采食频率较低，围封对沙地草地生态系统的食物链和食物网影响不大。但在灰钙土上，主要分布着禾本科等适口性好的植物，动物的选择性采食、践踏对群落结构产生逆行性演替的作用，削弱和降低了群落中物种的补偿性生长，导致地上生物量大大减少。因此，围封后对灰钙土上不同生活型枯落物积蓄作用显著高于风沙土。
+
+# 4结论
+
+围栏封育对于荒漠草原枯落物总体和各组成部分的积累都非常显著。灌木、小半灌木和草本植物的地上生物量结构与对应的枯落物蓄积量结构有较好的关联。与地上生物量相比，草本植物在枯落物蓄积量结构中的减少以及灌木在蓄积量中的增加，可能是由分解转化难易程度导致的。
+
+在完全封育和长期围栏后，群落的半分解物在风沙土与灰钙土上蓄积量均显著增加。完全围封对荒漠草原灰钙土上枯落物蓄积量及功能型群落结构的影响大于沙土。长期封育、灰钙土都会导致草本植物在群落中的增加,这是荒漠草原枯落物蓄积量增加的主要原因，也将是枯落物转化的有利条件。
+
+# 参考文献(References）：
+
+[1]施爽,郭继勋.松嫩草原三种主要植物群落枯落物层生态水文功能［J].应用生态学报，2007，18（8)：1722-1726.［ShiShuang,Guo Jixun.Ecohydrological functions of litter in three mainplant communities on Songnen grassland[J].Chinese Journal ofApplied Ecology,2007,18（8):1 722-1 726.]  
+[2]侯东杰,乔鲜果,高趁光,等.内蒙古典型草原枯落物的生态水文效应[J].草地学报,2018,26（3）：559-565.[Hou Dongjie,Qiao Xianguo,Gao Chenguang,et al.Hydro-ecological effects of lit-ter in typical steppe of Inner Mongolia[J].Acta Prataculturae Sini-ca,2018,26(3) :559-565.]  
+[3]Jean F P.Humus forms in terrestrial ecosystems:A framework tobiodiversity[J].Soil Biology and Biochemistry,2003,35（7） :935-945.
+
+[4] Pierre A,JeanFP,AndréF,etal.Diversity and dynamics of eco-units in the biological reserves of the Fontainebleau Forest (rrance）:Contribuuon ol soll Dloiogy toa Iuncuonal approacn [J].European Journal of Soil Biology,1998,34(4）:935-945.
+
+[5]Andrine Salmon,Jérome Mantel,Lorenzo Frizzera,et al. Changes in humus forms and soil animal communities in two developmental phases of norway spruce on an acidic substrate[J].Forest Ecology and Management,2006,237(1）:47-56.   
+[6］郭继勋,祝廷成.羊草草原生态系统的分解者与枯枝落叶分解 的研究[J].草业学报,1994,3（1）：13－17.［Guo Jixun,Zhu Tingcheng.Study on liter decomposition and decomposer of Leymus chinensis ecosystem[J].Acta Prataculturae Sinica,1994,3（1）:13 -17.]   
+[7]尹承军,黄德华,陈佐忠.内蒙古典型草原4 种植物凋落物分 解速率与气候因子之间的定量关系[J].生态学报,1994,14 (2）:149-154.[Yin Chengjun,Huang Dehua,Chen Zuozhong. Quantitative relationship between litter decomposition rate and climatic factors of four plant species in typical steppe of Inner Mongolia[J].Acta Ecologica Sinica,1994,14(2）:149-154.]   
+[8]Jean T,Fabrice B,Alain Bet.Does moder development along a pure beech（Fagus sylvatica L.）chronosequence result from changes in liter production or in decomposition rates[J].Soil Biology and Biochemistry,2011,43(7):1 490-1 497.   
+[9]程积民,邹厚远.封育刈割放牧对草地植被的影响[J].水土保 持研究,1998,5（1）:36-54.[Cheng Jimin,Zou Houyuan.Effect of projective cutting and grazing on the vegetation of grassland[J]. Research of Soil and Water Conservation,1998,5(1）:36 -54.]   
+[10］李学斌,陈林,吴秀玲,等.荒漠草原4种典型植物群落枯落物 分解速率及影响因素[J].生态学报,2015,35（12）:4105- 4 114.[Li Xuebin,Chen Lin,Wu Xiuling,etal.Litter decomposition rates and influencing factors of four typical plant communities in desert steppe[J].Acta Ecologica Sinica,2015,35(12）:4105 -4 114. ]   
+[11］刘秀梅,李小锋.围栏封育对新疆山地退化草原植物群落特征 的影响[J].干旱区研究,2017,34（5）：1077-1082.[Liu Xiumei,Li Xiaofeng. Effects of enclosure on plant community characters of degenerated steppe in Xinjiang[J].Arid Zone Research, 2017,34(5) :1 077 -1 082.]   
+[12]王悦,王立红,王德凯,等.放牧对矮锦鸡儿种子生产的影响 [J].干旱区研究,2018,35（3）:648-652.[Wang Yue,Wang Lihong,Wang Dekai,etal.Effects of grazing on the seed production of Caragana pygmaea[J].Arid Zone Research,2018,35(3）: 648 -652.]   
+[13］李凌浩,王堃,斯琴毕力格.新时期我国草地环境科学发展战 略的思考[J].草地学报,2012,20（2）：199-206.［LiLinghao， Wang Kun,Si Qinbilige.Perspectives on the new-era strategies for advancing grassland ecology $\&$ environmental studies in China[J]. Acta Agrestia Sinica,2012,20(2):199-206.]   
+[14]孙慧珍，国庆喜,周晓峰.植物功能型分类标准及方法[J].东 北林业大学学报,2004,32（2）：81-83.[SunHuizhen，Guo
+
+Qingxi,Zhou Xiaofeng. Classification attribute and approach of plant functional types[J]. Journal of Northeast Forestry University, 2004,32(2):81 -83.]
+
+[15]李燕燕，樊后保，刘文飞，等.模拟N沉降对杉木人工林枯落物养分的影响[J].南昌工程学院学报，2013,32(6)：21-24.［LiYanyan,Fan Houbao,Liu Wenfei,etal.Effectsof nitrogen deposi-tion onlitternutrientin Chinese firplantations[J].Journal of Nan-changInstitute of Technology,2013,32(6） :21-24.]
+
+[16]张晓曦，刘增文，邴塬皓，等.黄土丘陵区针叶纯林养分循环和枯落物分解导致土壤极化风险分析[J].西北农林科技大学学报（自然科学版），2014，42（9）：48-54，62.[ZhangXiaoxi，LiuZengwen,Bing Yuanhao,etal.Risk analysisof soil polarization dueto nutrient cycling and litter decay in pure coniferous forests in theLoessHilly Area[J].Journal of NorthwestA&FUniversity（Nat-ural Science Edition）,2014,42(9）:48-54,62.]
+
+[17]于雯超，赵建宁，李刚,等.内蒙古贝加尔针茅草原3种主要植物凋落物分解特征[J].草地学报，2014，22（3）：502-510[YuWenchao,Zhao Jianning,Li Gang,et al.Litter decompositiosofthree dominant plantin the Stipa baicalensis grassland of InnerMongolia[J].Acta Agrestia sinica,2014,22(3）:502-510.]
+
+[18]闫玉春，唐海萍,常瑞英，等.典型草原群落不同围封时间下植 被、土壤差异研究[J].干旱区资源与环境，2008，22(2)：145- 151.[Yan Yuchun,Tang Haiping,Chang Ruiying,etal. The study on vegetation and soil differences of typical grassland communities under different enclosure time[J].Journal of Arid Land Resources and Environment,2008,22(2）:145-151.]
+
+[19]初晓辉,谢勇，单贵莲,等.放牧和封育对青藏高原南缘亚高山 草甸群落结构及物种多样性的影响[J.草地学报，2017，25 (5)：939-945.[Chu Xiaohui,Xie Yong,Shan Guilian,et al. Effect of management patterns on community structure and species diversity of subalpine meadow of the Southern Margin of Tibetan Plateau[J].Acta Agrestia Sinica,2017,25(5):939-945.]
+
+[20]魏文俊，尤文忠，赵刚，等.退化柞蚕林封育对枯落物和表层土 壤持水效能的影响[J].生态学报，2016，36（3）：721-728. [WeiWenjun,You Wenzhong,Zhao Gang,etal.Effects of enclosureand recovery for degraded tussah-feeding oak forestson litter and surface soil water holding capacity characteristics[J].Acta Ecologica Sinica,2016,36(3）:721-728.]
+
+[21]都乐,张真，阿立.围封禁牧对草场植被群落恢复作用分析 [J].环境与发展,2017,29(4）:211-213.[DuLe,Zhang Zhen, ALi.Enclosed grazing prohibition preliminary analysis of the pasture vegetation recovery effect[J].Environment and Development, 2017,29(4):211-213.]
+
+[22]陈浩.放牧对青藏高原草地植被群落特征及土壤理化特性的 影响[D].杨凌：西北农林科技大学，2012.［ChenHao.Effects ofGrazing on Grassland Vegetation Community Characteristics and SoilPhysical and Chemical Properties in the Qinghai-Tibet Plateau[D].Yangling:NorthwestA&FUniversity,2012.]
+
+# Effects of Closing Grazing on the Litter Amount in Desert Steppe
+
+CHEN Xiao-ying， SONG Nai-ping， LI Min-lan， WU Ting， CHEN Juan (KeyLaboratory for Restoration and Reconstructionof Degenerated Ecosystem in Northwest China under Ministryof Education/Breding Basefor StateKeyLaboratoryofLand DegradationandEcological RestorationinNorthwest China, Ningxia University,Yinchuan 750021,Ningxia,China)
+
+Abstract：In this study,the line intercept methodand variance analysis were used to analyze the effects of closing grazing and fenced grazing onthe soil nutrient content in desert steppe.The liter amount overtwo soil matrixes （aeolian sad soil and sierozem）inthree-paired enclosure plotsand fenced grazing plots fenced for diferent years in Yanchi County,Ningxia Hui Autonomous Region were studied,where the grazing rates were $0 . 5 8 , 0 . 6 5$ and 0.80 sheep · $\mathrm { h m } ^ { - 2 }$ . respectively.The response of liter accumulation to grassand utilization and soil matrix was discussed.The results showed that: $\textcircled{1}$ There was a significant effect of enclosure on the litter amount in the community.The liter amount in the enclosure plots in desert steppe varied in a range of $5 3 . 2 \textrm { -- } 1 4 1 . 9 \textrm { g } \cdot \textrm { m } ^ { - 2 }$ ,and it was 2.82 times of that in the fenced grazing plots; $\textcircled{2}$ There was no significant difference in litter amount between the two kinds of plots on the aeolian sandy soil；on sierozem,however,the liter amount inthe enclosure plot was 3.86 times of that in the fenced grazing plot; $\textcircled{3}$ Compared with the above-ground biomass,the reduction of litter amount ofherbaceous plants and the increaseof literamount of shrub plants may be caused bythe difference of decomposition and transformation.
+
+Key words:desert steppe； fenced; enclosure plot； litter amount； Yanchi County

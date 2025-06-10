@@ -1,0 +1,255 @@
+[
+    {
+        "type": "text",
+        "text": "基于构件的质量验收管理研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨铭沈翔",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（中国中铁四局集团管理研究院，合肥230023）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】长期以来建筑行业传统的质量管理工作主要分为质量保证体系建设、现场质量验收和成品质量缺陷管理三个部分,这种模式下的质量管理工作多以施工任务形式开展,没有严格意义上针对工程结构本身的质量过程管理。随着BIM在建筑行业应用程度的不断加深,建筑工业化的进程不断推进，通过“构件化结构物、标准化构件生产工序、精细化匹配工序与验收项目\"等方式,让基于构件的质量验收管理探索成为可能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】建筑工业化；构件化；生产工序；质量验收【中图分类号】TU756；TU712.3 【文献标识码】A【DOI】10.16670/j.cnki.cn11-5823/tu.2017.05.20【文章编号】1674-7461(2017)05-0110-03",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "厂基础设施行业中的交通运输、机场、港口、桥梁、通讯、水利等无形产品或固定资产，大部分以钢筋混凝土为主要构筑材料，虽有部分（尤其是在房建领域)采用\"工厂预制、现场安装”工艺施工,但是主体仍是采用“现场浇筑”工艺施工。如何用预制装配化的质量验收管理方法提高现浇浇筑工艺生产的结构物的质量，具有极大的现实意义和深远价值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基础设施行业的工业化进程如火如茶,信息技术（尤其是BIM技术)的发展日新月异，正不断改变着基础设施行业质量验收管理的模式。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2基础设施建设的工业化与构件化",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "建筑业向工业化过渡的基本途径是建筑标准化，构配件生产工厂化，施工机械化和组织管理科学化。在BIM技术飞速发展和应用的今天，必将进一步推进和加快建筑业向工业化过渡的进程[1]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "构配件又称为元素，是工程主体的组成部分，或独立、或与其他部分结合，来完成至少一项工程主体的主要功能。构配件的应用以确定项目的物理特征、运营特征和美学特征，构配件按功能特征定义，不考虑它的技术实现方案、施工方法和材料组成[2]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/8074e177e5da9e3bc5bfc0180dea62a780e648e20719b211edf93db964ac6b53.jpg",
+        "img_caption": [
+            "图1BIM助力建筑工业化进程"
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基础设施行业的建筑物受环境因素影响，结构设计难以做到完全标准化，结构生产的工厂化更需要一个设计、施工不断配合提升的过程。随着目前BIM技术的不断兴起，建筑物模型化、构件化的趋势已然形成，借助建筑工业化的理念，将基础设施行业建筑物构件化之后按照工厂化的模式进行质量管理，是基础设施行业建筑工业化进程的必经之路，也是目前BIM技术向质量管理延伸的客观要求。[3]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于构件的质量管理，将传统任务分配式的施工生产活动，转变为典型产品（构件)的生产管理活动，同时将构件质量管理过程中相关的信息与构件进行关联，实现真正意义上的建筑信息模型，提高了现场质量管理的针对性和目的性，具有极大的现实意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3生产工序标准化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当把建筑物进行构件化之后，针对每一类构件,在施工生产时其总是具有一定的生产工序流程,按照工业化的理念,每一道生产工序又具有一定的前置条件（或叫做准备工作）、工序完成后会记录工序过程数据，形成质量证明资料。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将一类构件的生产工序按照企业施工生产组织模式、国家质量验收标准要求进行行为分析和组织角色分析，便可得到标准化的施工工序模块.将这些工序按照一定的逻辑关系串联起来，便形成了标准化的构配件生产工序模块。生产工序标准化不仅让构配件施工生产可以按规范工序进行，还可明确每道工序相关的质量验收要求，使构配件质量验收管理有的放矢，而且做到真正意义上的质量过程控制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以桥梁墩台为例,墩台结构物可划分为钢筋、冷却水管、混凝土三大类构配件，针对混凝土构配件，其施工生产又可划分为“浇筑准备、混凝土浇筑、拆模后养护”三个主要工序。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "工序验收精细化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一将生产工序标准化成为模块之后，每一道生产工序的完成必然会产生工序过程数据，按照质量验收标准的要求，将这些过程数据及时、准确、完整的记录下来，形成检验批资料，是基于构配件质量验收的核心内容，也是国家质量验收标准的要求。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "按照质量验收标准的要求，将每一项验收标准按照构配件生产工序进行分解，并对应匹配到相应的生产工序上。精细化匹配验收项目之后，在构配件生产时，每一道工序过程数据均能及时准确的记录并保存。对于每一个构配件的生产过程，一道工序经质量验收合格之后，才能进行下一道工序，而且这些验收数据又会作为下一道工序施工的前提条件。质量验收数据通过工序模块一直延伸至分项工程建筑物施工结束。基于构件的质量验收管理，施工过程质量管理和验收的内容不再是单一的、静态的数据，而是多维度、动态的管理体现。以墩台混凝土为例，施工工序精细化的匹配验收项目后流程如下。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5质量管理流程动态化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "单个分部工程建筑产品一般包含多个构配件，因此其生产流程由多个标准化的构配件工序模块组成。随着施工生产的开展，这些标准化的工序模块按照一定的逻辑和时间顺序依次进行，形成一条连续的质量验收管理流程，这就是基于构件的质量管理流。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "每一道工序的完成，不论是工序本身，还是与工序相关的前后置数据，总是涉及建筑产品生产组织中的多个人员角色。根据企业生产组织模式，可以动态调整构配件生产标准化工序模块的顺序，就形成了一个个基于建筑产品的动态质量验收流程。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/46e9a661024c827ea5859989bf57d8bc2d002de6ab1d264e52aa6023c01f07c5.jpg",
+        "img_caption": [
+            "图3 $\\mathbf { G I S } + \\mathbf { B I M }$ 技术融合应用图例"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f5d7c0eaab399fef8e6d3f03d61d7a959294def41a71562d3fd4876198db536.jpg",
+        "img_caption": [
+            "图2工序与验收项目精细化匹配范例"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "这种动态的建筑产品质量验收流程，可以很好的适应构配件生产工厂化的要求，同时又可以将各个构配件之间的数据统一进行传递和管理，与BIM的全生命周期管理理念契合。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6与 $\\mathbf { G I S } + \\mathbf { B I M }$ 技术融合",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "BIM技术在基础设施行业应用日益广泛， ${ \\mathrm { G I S ~ } } +$ BIM技术越来越多的应用到质量管理方面，为基于构件的质量验收管理提供了数据载体和管理对象。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过将目前先进的前端感知技术：激光测绘技术、RFID射频识别技术、智能测量与传输、数码摄像探头、增强现实等，对现场施工作业进行追踪、记录、分析，能够第一时间掌握现场的施工动作，及时发现潜在的不确定性因素，避免不良后果的出现，监控施工质量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 这些追踪、记录、分析的数据和内容被及时的记，录在相应的模型上，通过时间维度与相应的工序相关联,这样就构建了一个完整的时间和空间质量体系。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过将目前广泛应用的人员、机械全天候在线监测系统,可以实时读取人员和设备的地理位置系统，在GIS系统中可以直观的展示当前工序现场施作业的资源情况,方便与施工技术方案进行对比，保证专项施工技术在实施过程中细节上的可靠性，施工技术信息的传递不会出现偏差，避免实际做法和计划做法不一样的情况出现，减少不可预见情况的质量问题发生。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "7总结 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于构件的质量验收管理，通过建筑工业化的理念，结合GIS、BIM等先进的施工质量管理技术，打破了传统的结果质量管理模式。通过建筑物构件化、生产工序标准化以及精细化匹配质量验收项目，严格落实了过程质量控制。利用先进的前端感知技术，可以有效追踪建筑物各构配件在施工工序中的质量情况以及参与人员的行为，一定程度上实现了质量管理的可追溯性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在基于构件质量验收管理模式下,通过模型上关联的信息以及构件生产时间，还可以将原本分散的施工质量、进度、成本管理，以构件为载体、时间为唯一驱动要素，建立起各业务之间的数据关系，打破目前数据孤岛，建立健全建筑物施工阶段信息模型,推动BIM技术在施工质量管理上的应用。[4]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "［1］石光胜.基于BIM和精益建造的施工项目质量控制研究［D].西南交通大学，2015.  \n［2］铁路工程信息模型分类和编码标准(1.0版）[J].铁路技术创新，2015.  \n［3］沈祖炎，李元齐.建筑工业化建造的本质和内涵［JOL].建筑钢结构进展，2015，17（05）：1-4.  \n[4］何关培.BIM总论［M].北京：中国建筑工业出版社，2011.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Study on Quality Acceptance Management based Component ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Yang Ming， Shen Xiang ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(China Tiesiju Civil Engineering Group Co.， Ltd.，Management Research Institute,HeiFei 23OO23，China) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Foralong time,the traditional qualitymanagement in theconstruction industry is divided into three parts,qualityassurance system construction,on-site qualityacceptanceand qualitydefects managementof finished products.Thequality management of this model iscarried out in the form of construction tasks,in the strict sense, the quality process management of the engineering structure itself is notcariedout.With the increasing application of BIm in the construction industry,the processof building industrialization continues to advance.By means of structural components，standardized components，production processes,fine matching procedures and acceptance items.So that it is possble to explore the management of quality acceptance based on component. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Key Words:Building Industrialization； Component； Production Process； Quality Acceptance",
+        "page_idx": 2
+    }
+]

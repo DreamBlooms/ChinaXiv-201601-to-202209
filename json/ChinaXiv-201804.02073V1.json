@@ -1,0 +1,430 @@
+[
+    {
+        "type": "text",
+        "text": "基于反向选择的地震预测方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吴晶晶，梁意文，谭成予，周雯(武汉大学 计算机学院，武汉 430072)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对大地震历史数据缺乏导致的大地震预测准确率低问题，提出一种基于反向选择的地震预测方法。采用可变实值反向选择算法生成成熟检测器，用于预测地震是否发生。由于反向选择在训练过程中无须非我数据，可减小大地震数据缺乏对训练效果的影响。实验采用四川省历史地震数据，对一个月内是否发生5.0级及以上地震进行预测。与传统机器学习算法进行对比，结果表明反向选择算法具有更好的预测效果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：反向选择；地震预测；地震活动性指标；神经网络中图分类号：TP311 doi:10.3969/j.issn.1001-3695.2017.10.0783",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Method of earthquake prediction based on negative selection ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wu Jingjing, Liang Yiwen, Tan Chengyu, Zhou Wen (SchoolofComputer,Wuhan University,Wuhan430072,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: For the low acuracyof earthquake prediction causedbythe lackoflarge earthquake data,this paper proposed an earthquakepredictionmethodbasedonnegativeselection.Inthismethod,itusedthevariablerealvaluednegativeselection algorithm to generate maturedetectors which used to predict whether an earthquake occured.Dueto the absence of non-self datasets inthenegativeselection training,itcouldbereducedtheimpactoflackinglargeearthquakedataonthetrainingeffect. Itusedthehistorical earthquakedataof Sichuanprovincetopredict whether the magnitude5.Oandaboveearthquakesocurred in Sichuan withinone month.Compared with the traditional machine learning algorithm,theresults showthatthe negative selection has better prediction effect. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: negative selection; earthquake prediction; seismicity indicator; neural network ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "地震预测是对未来地震事件发生的具体地点、震级和时间进行准确预测的过程[1]。通过专家们长期观测研究和经验积累发现，地震三要素（地震发生时间、震级、震中位置）与特征指标之间存在着内在联系[2]，利用地震特征指标的变化预测是一种常用的地震预测方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着人工智能机器学习的发展，国内外研究学者尝试将相关算法应用在地震预测中，并取得了较好的预测效果。然而，由于大地震的发生是一种小概率事件，发生时间间隔较长，利用现代观测设备观测以来发生的大地震数量相对较少，可用于研究的数据缺乏，影响通过历史地震数据进行的大地震预测准确率[I]。而神经网络、支持向量机等机器学习方法需要大量训练数据集，现有地震预测方法在对大地震的预测上存在准确度不高问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "计算机免疫学的反向选择算法[3]模拟了生物免疫系统中自我一非我（self-nonself)识别原理。该算法借鉴生物体内的未成熟T淋巴细胞在成熟过程中会进行反向选择的过程。首先确定自我集合；然后随机产生检测器，通过删除识别到自我的检测器，而保留识别非我的检测器。其特点是不需要先验知识，只需使用有限数量的自我数据作为训练集，就可以生成大量非我检测器，用于检测非我[3]。由于反向选择能识别自我和非我，其常被用于二分类问题。本文预测5.0及以上地震是否发生，本质上可看做二分类问题[4]，可使用反向选择算法识别地震发生（非我）和地震不发生（自我)。由于反向选择训练过程中无须非我数据集（5.0及以上地震发生），可减小传统机器学习方法缺少大地震数据导致的预测准确度不高问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文引入计算机免疫学的反向选择算法建立地震预测模型利用反向选择的自我一非我识别原理，将预定义阈值及以上震级的地震未发生作为自我，预定义阈值及以上震级的地震发生作为非我。由于只使用了自我数据作为训练集，减小了大地震数据缺乏对训练效果的影响，达到提高大地震预测准确度的目的。本文实验部分以5.0级震级作为阈值。以下描述中均以5.0级作为预测阈值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关工作",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "地震的发生被认为是一种随机的、高度非线性的现象，现有条件下很难完全准确地预测地震发生的时间、位置和震级。1939年，Ishimoto 和Iida首次进行了地震参数预测，提出震级与地震数量之间的关联关系[5]。1999年，Sykes等人[认为对于非常活跃的地震指标变化，大地震预测是可能的。随着计算机相关方法在地震预测中的应用，地震预测研究取得了进步。常用于地震预测的计算机方法主要是基于人工智能的方法，采用机器学习中的监督式学习和非监督式学习方法进行地震预测[7].",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "监督式学习方法包括人工神经网络[8\\~13]、支持向量机[7,14]、贝叶斯网络[]、决策树[7等。其中人工神经网络是地震预测中使用最多的机器学习算法。2002年，Negarestani等人[8]使用反向传播神经网络来检测地震引起的氢浓度的异常行为。2004 年，Liu 等人[15]通过使用径向基函数神经网络预测了中国地区地震。2007年，Panakkat等人[9引入了一种新的地震预测方法，采用从历史地震事件中通过数学计算的八个地震指标，使用三种不同的神经网络方法预测地震。2015年，Asencio-Cortés等人[7]分别使用四种机器学习算法（KNN、支持向量机、贝叶斯网络、决策树算法）预测了东京地震，实验结果表明神经网络具有更好的预测效果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "非监督式学习算法包括关联规则[16,17]、K-means 算法[18]等。2011年，Martinezálvarez等人[6]使用计算智能技术用于预测地震，通过提取定量关联规则和回归技术，用于建立地震时间数据的行为模型。2014年，Florido 等人[18]使用K-means 算法，通过对智利地震时间序列分析，预测了智利大于4.4 级地震发生的概率。2015年，Ikram 等人[17]开发了一个基于关联规则和谓词逻辑的专家系统用于地震预测，使用历史地震数据，通过关联规则挖掘地震数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "现有用于地震预测的机器学习算法大多需要大量训练数据集，而大地震数据缺乏，用于预测的大地震样本数据较少，导致预测准确率不高。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1994年，Forrest等人[3]受生物免疫系统T细胞成熟过程中的反向选择原理启发，提出了反向选择算法。随后，Zhou和Dasgupta[19,20]等人对该模型进行了扩展。该算法模拟了免疫系统中T细胞成熟的反向选择过程中识别自我和非我的免疫耐受过程。由于反向选择的自我一非我识别能力，其被成功应用于故障检测、异常检测、分类等问题。本文预测的是5.0级及以上地震发生或不发生，可看做是一个二分类问题。可将反向选择应用于地震预测，将5.0级及以上地震不发生作为自我，5.0级及以上地震发生作为非我。反向选择算法在训练过程中只需使用自我数据，即5.0级及以上地震不发生作为训练数据集，因此可减少大地震数据缺乏对训练效果的影响，从而提高预测准确度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述，地震预测模型的选取对预测效果至关重要。本文提出一种新的地震预测方法，选取文献[9]使用的八个指标作为特征向量，使用反向选择建立地震预测模型。由于反向选择算法的检测器生成过程只需使用自我数据集，可用来减小神经网络等方法缺乏大地震数据导致的预测准确度不高问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 地震预测方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1地震活动性指标",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[9]提出使用八个通过数学定义的地震参数即地震活动性指标来评估一个地区的地震发生潜能，为使用计算机方法预测地震提供了新途径。文献[7\\~21]均使用了这八个地震活动性指标。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文使用上述八个地震活动性指标，每余个指标使用 $n$ （如100）个历史地震数据通过数学计算得出。指标描述及计算公式如表1所示。其中指标b、、 $\\Delta M$ 基于Gutenberg-Richter 逆幂律，指标 $\\mu$ 、 $\\mid c \\mid$ 基于特征地震震级分布，指标 $T$ 、 $M _ { m e a n }$ 、 $d E ^ { 1 / 2 }$ （204号来源于地震预测研究经验得出的结论。特征地震事件表示 $n$ 个地震事件中5.0级及以上震级的地震事件。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/73a9c0125ce0647d95239e7813579f04755287f9404c722261f85af6786e3b37.jpg",
+        "table_caption": [
+            "表1地震活动性指标描述"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>地震活动 性指标</td><td>描述</td><td>计算公式</td></tr><tr><td>T</td><td>n个地震事件时间间隔</td><td>T=tn-t1</td></tr><tr><td>M mean</td><td>n 个地震时间的平均震级</td><td>Mmean =∑E² /T</td></tr><tr><td>dE1/2</td><td>E为地震释放的能量; dE表示地震能量释放的 平方根率</td><td>dE² =∑E² /T</td></tr><tr><td>b</td><td>地震频率的对数与震级曲 b 线的斜率</td><td>(n∑(M,lgN;)-∑M∑lgN) (∑M)²-n∑m²)</td></tr><tr><td>n</td><td>均方偏差，基于Gutenberg -Richter逆幂律的回归线的 均方差总和，反映震级与</td><td>a=∑(log0N, +bM)/ n ∑(ogi0N;-(a-bM))² (n-1)</td></tr><tr><td>△M</td><td>频率之间的关系 观察到的最大震级与预期</td><td>M maxexpete = a / b</td></tr><tr><td>μ</td><td>的最大震级之间的差异 特征事件之间的平均时间</td><td>△M=MmaxobseveMmxeeed</td></tr><tr><td>C</td><td>间隔 特征事件之间的平均时间 的变异系数</td><td>c=观测到的时间的标准偏差／μ</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 反向选择算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "反向选择的目的是产生对于自我细胞的耐受能力，使得免疫系统具备检测未知抗原并且不与自我细胞发生反应的能力[3]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文采用可变实值反向选择算法[19,22]，算法输入为 self 集合，每个self由一个n维向量表示，算法生成的检测器（抗体)覆盖nonself空间。主要是使用一个n维向量定义检测器，用实值描述检测器的识别检测半径。一个检测器可被认为是超球体。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "检测器是否检测抗原取决于检测器与抗原之间的距离（使用欧几里得距离公式计算)和检测器半径。如果距离小于self半径，说明两个超球体相交，即表明检测器能识别self，则该检测器被淘汰；反之，则将检测器与self之间的距离作为半径。成熟检测器半径不同，则对于大范围nonself空间可以用很少的识别器覆盖，同时对于self周围较少的nonself空间，可用半径较小的检测器覆盖。成熟检测器生成算法流程如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.初始化检测器数num、self 半径rs  \n2.初始化检测器集合D//D 为空  \n3.输入训练集S//自我抗原集合  \n4.初始化最大距离distance  \n5.do{  \n6．随机生成n维向量的随机检测器d  \n7．for 训练集S中每个自我抗原s  \n8.{  \n9. 计算随机检测器d与自我的欧几里得距离dis  \n10. If(dis<distance）distance $\\mathbf { \\tau } = \\mathbf { \\tau }$ dis;  \n11. 广  \n12. if(rs<distance)  \n13. {  \n14. rd $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ distance-rs//检测器半径  \n15. 将向量<d,rd>加入检成熟检测器集合D 中  \n16．}  \n17.}while(D的数量达到num)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3基于反向选择的地震预测方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文采用通过历史数据计算得出的八个地震活动性指标作为单个样本数据。将样本数据根据5.0级及以上地震不发生和发生分为self和nonself集合。其中5.0级及以上地震发生标记为1，5.0级及以上地震不发生标记为0。使用反向选择算法作为预测模型。主要步骤如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)数据预处理。获取历史地震数据，根据3.1节的数学公式计算地震活动性指标，形成8维实数向量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)定义self集。5.0级及以上地震不发生；定义nonself集：5.0级及以上地震发生。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义ALL表示所有可能的预测结果分类集合。由于预测的是5.0级及以上地震是否发生，所以预测结果分类可以分为两类：预测5.0级及以上地震发生；预测5.0级及以上地震不发生。因此，可将自我集合SELF定义为5.0级及以上地震不发生，非我集合NONSELF定义为5.0级及以上地震发生。三者之间满足以下关系：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS E L F \\bigcup N O N S E L F = A L L\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS E L F \\cap N O N S E L F = \\emptyset\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c）检测器生成。通过可变实值反向选择算法生成 $\\mathfrak { n }$ 个成熟检测器。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)地震预测。使用成熟检测器集合匹配输入的抗原向量。检测抗原为自我表示5.0级及以上地震不发生，输出0；检测抗原为非我表示5.0级及以上地震发生，输出1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "地震预测模型可表示为三元组： $\\begin{array} { r } { \\sum _ { A D S } = ( \\mathrm { { I N } } _ { A D S } , 0 \\mathrm { { U T } } _ { A D S } , \\mathrm { { F } } _ { A D S } ) } \\end{array}$ 。其中： $I N _ { A D S }$ 表示预测模型输入，有 $I N _ { \\scriptscriptstyle A D S } \\in A L L$ ； $O U T _ { A D S }$ 表示预测模型输出，输出分为两种预测结果，分别用0和1表示； $F _ { A D S }$ 表示输入与输出的函数关系，满足如下关系：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nO U T _ { A D S } = F _ { A D S } ( I N _ { A D S } ) = \\left\\{ \\begin{array} { l l } { { 1 , i f } } & { { I N _ { A D S } \\in S E L F } } \\\\ { { 0 , i f } } & { { I N _ { A D S } \\in N O N - S E L F } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "模型分为检测器生成阶段和地震预测阶段，如图1、2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a3ac5964681a23010b7961a3c8070b279fb9494b4268a87759457e63682c2f2c.jpg",
+        "img_caption": [
+            "图1检测器生成阶段"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/69b5f1df6cfdec11590bbb0218fb937eb450feab67f5edd52cfcc2f97d681e44.jpg",
+        "img_caption": [
+            "图2地震预测阶段"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 实验与结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文设计了基于反向选择的地震预测实验，预测四川省一个月内是否会发生预定义阈值及以上震级的地震。本文实验将预测震级阈值设置为5.0级。实验目的在于验证反向选择算法对于地震预测的有效性和准确性，对比实验采用两种机器学习算法：神经网络、支持向量机算法。实验分为数据预处理、地震预测、准确度评估三部分。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1数据预处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数据采用四川省1990年1月到2016年12月的历史地震数据（包括日期、时间、经度、纬度、深度、震级)，数据的来源为\"中国地震台网”。参考文献[9]等地震预测文献研究成果，本文只使用4.0级及以上历史地震数据。历史地震数据共928条，共预测1991年10月到2016年12月共305个月的地震。表2为1991年4.0级及以上历史地震记录。预测时间为一个月，使用预测月份之前的100条地震数据计算出接下来一个月的八个地震指标，得出305组数据集。将前204组地震指标中的198组自我数据集挑选出来作为训练集，后101组地震指标作为测试集。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/cdb7e65dd4b6de8a64b78d5f1848d175ebb175cda070c05c6486096f852a8c78.jpg",
+        "table_caption": [
+            "表21991年4.0级及以上原始数据"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>时间</td><td>纬度</td><td>经度</td><td>深度</td><td>震级</td></tr><tr><td>1991/2/18 9:06:22</td><td>31.66</td><td>102.53</td><td>20</td><td>5.1</td></tr><tr><td>1991/4/11 20:32:18</td><td>27.23</td><td>101.13</td><td>8</td><td>4.7</td></tr><tr><td>1991/10/28 18:43:24</td><td>31.64</td><td>102.48</td><td>8</td><td>4</td></tr><tr><td>1991/11/3 0:02:26</td><td>28.31</td><td>104.03</td><td>33</td><td>4.4</td></tr><tr><td>1991/12/26 13:24:17</td><td>30.97</td><td>99.62</td><td>18</td><td>4.4</td></tr><tr><td>1991/12/31 21:14:15</td><td>30.78</td><td>99.6</td><td>11</td><td>4.3</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "针对实验中采用的样本数据集，由于用于代表自我一非我的数据样本是八个地震指标组成的8维向量，由预测月之前100条地震数据计算得出，并非未经处理的历史地震数据，所以尽管计算地震指标的100条数据只包含了4.0级及以上震级地震，不包含4.0 级以下及未发生地震的历史数据，缺少的数据不属于本文定义的自我非我，对本文数据样本是否能代表自我非我空间不产生影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2评估指标",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文参考文献[9]提到的评估标准评估方法性能，地震预测结果与实际观察结果矩阵如表3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f58903994c6b926a02c75c948564693a208d3893fb7171dd281c0a53fdf4bc7e.jpg",
+        "table_caption": [
+            "表3地震预测结果与实际观察结果矩阵"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">观测到地震发生</td><td>观测到地震未发生</td></tr><tr><td>预测地震发生</td><td>Npc</td><td>Nni</td></tr><tr><td>预测地震不发生</td><td>Npi</td><td>Nnc</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据 $N _ { p c }$ 、 $N _ { n i }$ 、 $\\boldsymbol { N } _ { p i }$ ，分别计算 $P O D$ 、 $F A R$ 和 $R$ 技能得分，具体如下所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a）检测概率（ $P O D$ ）。 $P O D$ 越高，表示预测正确率越高。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { \\Delta } P O D = { \\frac { N _ { p c } } { N _ { p c } + N _ { p i } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b）误报率（ $F A R \\ .$ 。 $F A R$ 越高，表示预测的误报率越大。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF A R = \\frac { N _ { n i } } { N _ { n i } + N _ { n c } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c） $R$ 技能得分。 $\\scriptstyle { R = 1 }$ 表示全部预测到， $\\scriptstyle { R = 0 }$ 表示全部没预测到，即 $R$ 得分越大，预测效果越好。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR = P O D - F A R = \\frac { N _ { p c } } { N _ { p c } + N _ { p i } } - \\frac { N _ { n i } } { N _ { n i } + N _ { n c } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3 实验结果分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验分为三组进行，使用本文提出的基于反向选择的地震预测方法和两种机器学习方法（神经网络、支持向量机）作对比。分别对101组测试集进行预测，预测输出两种分类：0（预测地震不发生）1（预测地震发生)。根据预测结果统计出 $N _ { _ { p c } }$ 、$N _ { n i }$ 、 $N _ { p i }$ 、 $N _ { n c }$ ，并分别计算出检测概率POD、误报率FAR 和R技能得分这三个评估指标。实验结果如表4所示。其中R值由$\\mathrm { X u } ^ { [ 2 4 ] }$ 提出，用于表示地震预测能力评分。 $R$ 值为成功率减去误报率，值为1时，表示完全预测正确；值为0时，表明预测无任何意义；值为负值时，表示完全预测错误。因此,当R值大于0 时，表示所作的预测成功率高于误报率，即预测是起到一定作用的，R值越大，则地震预测效果越好。因此使用 $R$ 来评估预测模型预测效果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a232648899c4a36e6badb0b32373568c3b3d04c66c751b3f9fa754040060c02f.jpg",
+        "table_caption": [
+            "表4实验结果对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>评估指标</td><td>反向选择</td><td>神经网络</td><td>支持向量机</td></tr><tr><td>Npc</td><td>12</td><td>10</td><td>3</td></tr><tr><td>Nm</td><td>7</td><td>9</td><td>16</td></tr><tr><td>Npi</td><td>4</td><td>6</td><td>13</td></tr><tr><td>Nnc</td><td>78</td><td>74</td><td>69</td></tr><tr><td>POD</td><td>0.7500</td><td>0.6250</td><td>0.1875</td></tr><tr><td>FAR</td><td>0.0824</td><td>0.1084</td><td>0.1882</td></tr><tr><td>R</td><td>0.6676</td><td>0.5166</td><td>-0.0007</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于神经网络、支持向量机在训练过程中需要大量训练数据集，而用于预测的大地震数据较少，会对训练结果产生影响，降低预测准确率。反向选择算法在训练过程中无须非我数据集，可减小大地震数据缺乏对训练效果的影响，从而提高预测准确度。从实验结果可以看出，支持向量机 $R$ 值为负，预测效果较差。反向选择算法相对于神经网络R值提高 $1 5 . 1 \\%$ ，误报率降低 $2 . 6 \\%$ 。以上分析结果证明，反向选择算法在地震预测上相比传统机器学习算法（神经网络和支持向量机）具有更好的预测能力，能减小大地震数据缺乏对训练效果的影响，提高预测准确率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文提出基于反向选择的地震预测方法，对四川省地区地震进行预测。实验表明，反向选择算法较其他两种机器学习算法在地震预测方面具有更好的效果。尽管如此，反向选择算法在地震预测的准确度仍然不够理想，无法达到准确预测的目的。下一步将继续完善预测模型。本文预测的是5.0级及以上震级地震是否发生，未预测出具体震级，下一步将考虑如何对具体震级进行预测。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]陈运泰．地震预测：回顾与展望[J].中国科学：地球科学D辑：地球 科学,2009,39(12):1633-1658.   \n[2]Panakkat A,Adeli H. Recurrent neural network for approximate earthquake time and location prediction using multiple seismicity indicators [J]. Computer-Aided Civil and Infrastructure Engineering,2009,24 (4): 280- 292.   \n[3]Forrest S,Perelson A S,Allen L,et al. Self-nonself discrimination in a computer [C]//Proc of IEEE Computer Society Symposium on Research in Security and Privacy.1994: 202-212.   \n[4] Fernandez-Gomez M,Asencio-Cortes G，Troncoso A，et al.Large earthquake magnitude prediction in chile with imbalanced classifiers and ensemble learning [J].Applied Sciences,2017,7(6): 625.   \n[5]Panakkat A,Adeli H.Recent efforts in earthquake prediction (1990-2007) [J].Natural Hazards Review,2008,9(2):70-80.   \n[6]Sykes LR,Shaw B E, Scholz C H. Rethinking earthquake prediction [J]. Pure and Applied Geophysics,1999,155 (2): 207-232.   \n[7]Asencio-Cortés G,Martinez-Alvarez F,Troncoso A,et al. Medium-large earthquake magnitude prediction in Tokyo with artificial neural networks [J]. Neural Computing & Applications,2017,28 (5):1043-1055.   \n[8]Negarestani A, Setayeshi S,Ghannadimaragheh M,et al.Layered neural networks based analysis of radon concentration and environmental parameters in earthquake prediction [J]. Journal of Environmental Radioactivity,2002,62 (3): 225.   \n[9]Panakkat A,Adeli H. Neural network models for earthquake magnitude prediction using multiple seismicity indicators [J]. International Journal of Neural Systems,2007,17(1):13-33.   \n[10] Adeli H,Panakkat A.A probabilistic neural network for earthquake magnitude prediction [J]. Neural Networks the Official Journal of the International Neural Network Society,2009,22(7): 1018-1024.   \n[11] Panakkat A,Adeli H. Recurrent neural network for approximate earthquake time and location prediction using multiple seismicity indicators [J]. Computer-Aided Civil and Infrastructure Engineering,20o9,24(4): 280- 292.   \n[12] Asim K M,Martinez-Alvarez F,Basit A,et al.Earthquake magnitude prediction in Hindukush region using machine learning techniques [J]. Natural Hazards,2017,85 (1): 1-16.   \n[13] Reyes J,Morales-Esteban A,Martinez-Alvarez F.Neural networks to predict earthquakes in Chile [J].Applied Soft Computing,2013,13 (2): 1314-1328.   \n[14] Asencio-Cortés G,Scitovski S,Scitovski R,et al.Temporal analysis of croatian seismogenic zones to improve earthquake magnitude prediction [J]. Earth Science Informatics,2017,10 (3):303-320.   \n[15] Liu Yue,Wang Yuan,Li Yuan,et al. Earthquake prediction by RBF neural network ensemble [C]// Proc of International Symposium on Neural Networks.2004: 962-969.   \n[16] Martinezalvarez F,Troncoso A,Moralesesteban A,et al. Computational intelligence techniques for predicting earthquakes [C]// Lecture Notes in Computer Science.2011: 287-294.   \n[17] Ikram A, Qamar U. Developing an expert system based on association rules and predicate logic for earthquake prediction [J].Knowledge-Based Systems,2015,75 (C): 87-103.   \n[18]Florido E,Martinez-Alvarez F,Aznarte JL,et al. Discovering patterns preceding earthquakes in Chilen time series [C]// Proc of International Work-Conference on Time.2014.   \n[19] Zhou J,Dasgupta D.Real-valued negative selection algorithm with variablesized detectors [C]//Lecture Notes in Computer Science.2004: 287-298.   \n[20] Dasgupta D,Krishnakumar K,Wong D,et al. Negative selection algoritm for aircraft fault detection [C]/ Proc of the 3rd International Conference Artificial Immune Systems.2004:1-13.   \n[21] Asenciocortés G, Martinezalvarez F, Moralesesteban A,et al. Improving earthquake prediction with principal component analysis:application to chiles [C]// Lecture Notes in Computer Science. 2015.   \n[22] Alizadeh E, Meskin N, Khorasani K.A negative selection immune system inspired methodology for fault diagnosis of wind turbines [J].IEEE Trans on Cybernetics,2017,47(11): 3799-3813.   \n[23] Asim K M, Martinez-Alvarez F, Basit A,et al. Earthquake magnitude prediction in Hindukush region using machine learning techniques [J]. Natural Hazards,2017,85(1): 1-16.   \n[24] Xu Shaoxie.Method of prediction of earthquake by using seismisity [J]. Acta Seismologica Sinica,1993,6 (2): 517-533. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

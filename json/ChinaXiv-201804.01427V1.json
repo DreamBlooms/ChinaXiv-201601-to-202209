@@ -1,0 +1,607 @@
+[
+    {
+        "type": "text",
+        "text": "基于分布式图计算的学术论文推荐算法\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "潘峰，怀丽波，崔荣一",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(延边大学 工学院 计算机科学与技术学科 智能信息处理研究室，吉林 延吉 133002)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对海量论文数据导致的应用效率低下问题，提出一个基于层次混合模型的推荐算法 ${ \\mathrm { W S V D + + } }$ 。该模型根据学术论文良好的结构特征，构建一个加权的论文二部图模型。首先对论文进行特征提取，按不同特征的权重构建论文的复合关系图；其次对关系图采用一种改进的PPR算法，计算每篇论文的重要程度，依此来对用户一论文关系进行加权；然后在构建好的加权二部图模型上混合SVD $^ { + + }$ 图算法进行推荐。实验结果表明，改善了推荐算法学术论文的推荐效果，并且基于分布式图计算框架GraphX，扩展性好，适合大数据处理。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：混合模型推荐；协同过滤； ${ \\mathrm { S V D + + } }$ ；分布式图计算；GraphX 中图分类号：TP301.6 doi:10.3969/j.issn.1001-3695.2018.01.0003 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Academic paper recommendation based on distributed graph ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pan Feng,Huai Libo†, Cui Rongyi (IntelligentInformationProcessingLab,Dept.ofComputerScience&Technology,YanbianUnversityYanjiJin002, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Aiming at the low eficiency caused by massive academic paper data,this paper proposed a recommendation algorithm method based on the hierarchical mixed model named WSVD $^ { + + }$ . According to the structural features of academic papers,the model constructs a weighted bipartite graph model.Firstly,this method extracted the features of each paperand constructs thecompositerelationgaphaccordingtotheratioofdiferentfeatures.Secondly,itusesanimprovedPRalgorithm on the graph tocalculatetheimportance weightofeach paper,and then weighs therelationbetween theuser and the paper. Finally, it recommend on the weighted bipartite graph by using ${ \\mathrm { S V D } } \\mathrm { + + }$ graph algorithm. The result shows that the proposed algorithm improves the recommended accuracy.The whole processimplemented in distributed graph calculation system,that means the method has good expansibility and is suitable for big data processing. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:hybrid model; collaborative filtering; ${ \\mathrm { S V D } } + +$ ；distributed graph computation;GraphX ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "学术论文作为学术思想传播的载体，在信息爆炸的时代中同样存在数据指数增长的问题。据DBLP[1统计，自2010年以来每年平均有超过32.7万篇论文发表，平均每年环比增长$5 . 5 6 \\%$ ，每年在期刊和会议发表的论文数量相当庞大。近年来检索系统性能的提升，减轻了科研工作者查找学术论文的工作。但是面对会议和期刊每年产生的海量数据，论文检索系统已经不能满足科研工作者的需求。对此，学术论文推荐系统可以解决这个问题[2]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在推荐算法领域，受到Netflix和KDDCup 等竞赛的推动，协同过滤等推荐算法得到了人们的普遍关注并取得了很大的进展。而学术推荐应用领域，仅在CiteULike，ResearchGate等文献管理网站中有所涉及。论文推荐属于一类协同过滤问题",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（OCCF）[3]，对于传统推荐技术很难直接应用。文献[4]通过引入权威作者等论文信息来深化用户的兴趣模型从而推荐高质量论文。文献[5]利用主题关系提取用户和论文的主题模型从而缓解冷启动问题。论文的数据结构不同于一般推荐的项目，通常为非结构化或半结构化的数据，因此采用图模型的结构可以对丰富的信息进行建模[，从而更好的表达论文关系。文献[7]通过共引分析提出基于DBSCAN的密度聚类算法来找到相近论文。文献[8]通过对比不同算法应用到图模型中的表现，引入论文的引文和内容信息提出了一种异构图推荐方法。面对海量增长的数据，大规模的图计算的任务处理是至关重要的9，对于海量增长论文推荐同样亟待解决的问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在本文中，对于论文的结构特征和OCCF导致的推荐算法难以直接应用的问题，提出一种基于分布式图计算的论文推荐方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 相关算法介绍 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1基于内容的协同过滤",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "论文推荐常采用基于内容的协同过滤算法[10]。给定论文集合 $I$ ，通过用户 $u$ 已经操作的论文 $i \\in I$ 来确定带有共同特点的候选论文 $\\hat { r } _ { u i }$ 。首先计算论文 $i$ 中每个词项 $t$ 的加权词频逆文档频率（wf-idf,），如式（1）所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw f - i d f _ { t } = \\left( 1 + \\log { t f _ { t } } \\right) \\cdot \\log { \\frac { | I | } { N \\left( t \\right) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中: $t f _ { t }$ 表示 $t$ 在论文中的频率， $N \\big ( t \\big )$ 表示 $t$ 在 $I$ 中出现的次数。  \n然后通过论文之间的相似度关系来计算 $\\hat { r } _ { u i }$ 。如式(2)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { r } _ { u i } = \\sum _ { \\mathrm { j } \\in R ( u ) \\cap S ( i , K ) } w _ { i j } r _ { u j }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中: $\\boldsymbol { R } \\big ( \\boldsymbol { u } \\big )$ 表示包含用户 $u$ 评分的所有物品集合， $S { \\left( i , K \\right) }$ 表示和论文 $i$ 最接近的K个论文的集合， $w _ { i j }$ 表示论文 $i$ 和论文 $j$ 的余弦相似度，如下所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { i j } = { \\frac { \\left| i \\cdot j \\right| } { \\sqrt { \\left| i \\right| \\cdot \\left| j \\right| } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2基于模型的协同过滤 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于模型的协同过滤是构建隐语义模型（LFM）[II]，将用户和论文映射到一个维数为 $f$ 的低维联合语义空间中。在LFM中，用户特征向量和论文特征向量的内积来反映用户的兴趣程度，即 $\\hat { r } _ { u i } = q _ { i } ^ { T } p _ { u }$ 。其中 $p _ { u } \\in R ^ { f }$ 和 $q _ { i } \\in R ^ { f }$ 分别表示用户和论文的隐因子向量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过基准预测和隐式反馈信息可以增加预测准确度，即在LFM 模型中加入偏置项 $\\mathbf { b } _ { \\mathrm { u i } } = \\mu + b _ { \\mathrm { } _ { u } } + b _ { \\mathrm { } _ { i } }$ 和带隐式反馈的用户因子向量 $p _ { u } + \\left| R \\bigl ( u \\bigr ) \\right| ^ { - \\frac { 1 } { 2 } } \\sum _ { i \\in R \\left( u \\right) } y _ { i }$ 。这种方法称为 $\\mathrm { S V D + + }$ 模型[12]，如式（3）所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { r } _ { u i } = \\mu + b _ { u } + b _ { i } + q _ { i } ^ { T } \\left( \\mathfrak { p } _ { \\mathfrak { u } } + \\left| R \\left( u \\right) \\right| ^ { - \\frac { 1 } { 2 } } \\sum _ { j \\in R \\left( u \\right) } \\mathfrak { y } _ { j } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\mu$ 为总体平均分， $b _ { { } _ { u } }$ 和 $b _ { i }$ 分别表示用户 $u$ 和论文 $i$ 与 $\\mu$ 的偏差。 $y _ { i } \\in R ^ { f }$ 表示论文 $i$ 的偏置向量，表示论文 $i$ 与其他论文的误差。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3基于图模型的推荐 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图模型以几何方式展现数据关系，不仅可以通过信息传递计算直接连接的顶点关系，也可以计算非直接连接的顶点间的影响[13]。对于直接连接的顶点，边的权重越大，顶点的关系越密切。基于图模型的推荐是通过数据建立图模型，然后在图上驱动推荐算法产生候选推荐。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.1论文关系图构建",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "论文图模型推荐考虑两种直接关系来计算间接关系[14]。一种是用户和论文的直接关系，将用户论文关系数据表示为一个二部图 $G \\big ( V , E \\big )$ ，其中 $V = V _ { u } \\cup V _ { i }$ ，由用户顶点集合 $V _ { u }$ 和论文顶点集合组成 $V _ { i }$ 。 $E = \\left( V _ { u } , V _ { i } , R \\right)$ ，表示用户 $u$ 对论文 $i$ 的评分 $r$ ，每条边 $e$ 都对应用户行为数据中的三元组 $\\left( u , i , r \\right)$ 。另一种是用户间或论文间的直接关系。如论文间的引用关系是一种类似于网页链接关系的有价值信息。若论文存在引用关系，则它们之间的紧密程度会强于其他论文。对于追本溯源的用户，引用关系可以体现特定领域在不同阶段的研究状况。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.2基于图模型的PPR算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PersonalPageRank（PPR）算法是PageRank算法应用到推荐的一种改进算法，以目标用户为出发点，在论文顶点和用户顶点之间随机游走[15]。游走过程会按概率 $d$ 跳到下一步，并在多次游走后收敛。最终，候选推荐的论文通过权重扩散来计算：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP R \\left( i \\right) = d \\cdot r + \\left( 1 - d \\right) \\cdot \\sum _ { i ^ { \\prime } \\in C \\left( i \\right) } \\frac { P R \\left( i ^ { \\prime } \\right) } { d e g \\left( i ^ { \\prime } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中: $C ( i )$ 表示与顶点 $i$ 连接的顶点集合， $d e g \\left( i ^ { \\prime } \\right)$ 表示顶点 $i ^ { \\prime }$ 的出度（degree）。 $\\boldsymbol { r }$ 表示偏好向量取0或1，当顶点 $i$ 为用户顶点$\\mathbf { v } _ { \\mathrm { ~ u ~ } }$ 时 $\\boldsymbol { r }$ 为1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4分布式图计算",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着图结构数据的规模和分布式图计算的重要性不断增加，出现了一系列图形分布式系统，如Pregel、GraphLab 和GraphX等。分布式图计算是由一个稀疏图 $G \\big ( V , E \\big )$ 和一个在每个顶点$\\nu \\in V$ 上并行执行的顶点程序Q组成，每个顶点v同时被实例化为Q(V)并且可以通过消息（Pregel)或共享状态(GraphLab，GraphX）与相邻的顶点程序交互[16]。分布式图计算系统抽象地约束了顶点程序与图形结构的交互，从而实现了数据布局和通信的优化。顶点程序 $Q ( \\nu )$ 可以读取和修改顶点v的属性以及相邻边e上的属性，甚至在某些情况下可以修改邻接顶点上的属性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 基于图模型的论文推荐算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文提出一种基于分布式图模型的学术论文推荐算法。基本思想如下：a）首先构建论文两层关系图。对论文内容进行特征提取，包括题目、摘要、引用关系，分别构建三个论文属性关系图；根据特征按不同权值比例合并图，并在合并的论文关系图中计算论文的重要程度；b）构建用户-论文两层图。用户层和论文层之间边的初始权值为用户对论文的操作记录，但由于用户的行为数据只有操作和未操作两种情况，很难表达用户对论文的偏好，因此利用论文内容属性信息，根据论文的重要程度对用户和论文的关系进行加强；c）得到融合内容和操作信息的二部图模型，利用图模型进行论文推荐。以上图模型的构建和计算均采用分布式的图操作。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 图操作定义",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图操作包括图的构建（makeG）、图顶点和边的属性更改（mapVertices和mapEdges）、图和图的合并（mergeG)，外部信息融合（JoinVertices）以及图上消息传递（aggregateMsgs）。根据GraphX 框架，这里针对本算法给出几种重要的操作函数定义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义1makeG。输入三元组数据建立不可变的图的索引结构Graph[V,E]。其中V是Vertex[Vid，Vattr]的缩写，由顶点索引id 和顶点属性构成；E是Edge[Vid,Vid,Eattr]的缩写，由源顶点id、目标顶点id以及边属性构成。Graph 结构可以表示成EdgeTriplet[V,E]的三元组形式，即((srcId,srcAttr),(dstId,dstAttr), Eattr)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1748bfccc876860c528ebc17b2a1de01a71c0e04b90cd010e4b7792ea5ffc75a.jpg",
+        "img_caption": [
+            "图1图模型的索引结构"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义2mapVertices 和mapEdges。两个函数分别可以对应的修改Graph 中的Vattr 和 Eattr，并返回一个修改后的Graph。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义3mergeG 和外部信息融合JoinVertices。mergeG 函数要求输入两个Graph 和权值，将两个Graph中对应的 Eattr 按权值合并，顶点间无连接的边Eattr ${ \\bf \\Phi } = { \\bf 0 }$ ，最后返回合并的Graph。JoinVertices可以使当前图接入外部Vertex信息，首先按照Vid进行连接，然后将两个被连接顶点的Vattr进行mapVertices 操作，最后将连接后的V、未连接V以及E构成的图作为返回。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义4aggregateMsgs 函数。该函数接受 sendMsg，mergeMsg两个函数作为参数。其中 sendMsg以边为输入，对于图中每条边，可以选择向源顶点（toSrc）或目标顶点（toDst）发送一个“消息\"(Message)。mergeMsg函数将每个顶点接收到的“消息”进行聚集，并将结果mapVertices到相应的顶点Vattr上，最后返回顶点集合V。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2论文关系图",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从原始数据中分别提取题目、摘要和引用关系三个论文的内容特征，并对题目和摘要进行tf-idf加权处理。然后分别计算三个特征下论文之间的余弦相似度，并用makeG 构建三个论文关系图abGraph、tiGrap 和ciGraph。图中顶点为论文，边的权值用余弦相似度表示。之后用mergeG按权值合并构建加权的论文关系图 tacGraph。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4a3e4c860e4afd00c773ea068249cc55a61a12e734c4ea0a4726e49367cf0d05.jpg",
+        "img_caption": [
+            "图2构建论文关系图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3加权的用户-论文关系图",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于论文层中论文以相似度来表示关系程度，本文对PPR算法进行改进，加入论文相似度来计算论文重要程度。根据式（4）给定概率 $d$ 作为抑制因子，对于顶点i的重要程度计算公",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW \\left( \\mathrm { i } \\right) = d \\cdot r + \\left( 1 - d \\right) \\cdot \\sum _ { i ^ { \\prime } \\in C \\left( i \\right) } w _ { i i ^ { \\prime } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { i i ^ { \\prime } } = \\frac { e _ { i i } ^ { } } { \\left| d e g \\left( i ^ { \\prime } \\right) \\right| } \\cdot W \\left( i ^ { \\prime } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\boldsymbol { e } _ { i i ^ { \\prime } }$ 表示顶点 $i$ 与 $i ^ { \\prime }$ 关系的权值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据式（5)，在论文关系图中可以找到比较重要的论文，即W(i)值较高的论文。该图算法如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Algorithm1：论文图重要程度计算",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Input：tacGraph，IterMax，d   \n1 $\\boldsymbol { \\mathsf { w } } ( \\mathtt { i } ) \\ = \\ \\boldsymbol { \\mathsf { d } }$ （204号   \n2While $\\textit { i } <$ IterMax VerticesWithw $$ tacGraph aggregateMsgs（ sendMsg:toDst( $w _ { i i ^ { \\prime } }$ ） mergeMsg: MsgSum $\\mathbf { \\mu } = \\sum _ { i ^ { \\prime } \\in C \\left( i \\right) } w _ { i i ^ { \\prime } }$ )//according Equation 6 newtacGraph $$ tacGraph JoinVertices(VerticesWithW) newtacGraph mapVertices $\\langle \\boldsymbol { \\mathsf { W } } ( \\boldsymbol { \\mathsf { d } } \\boldsymbol { \\mathsf { s t } } )$ ）//according Equation ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Output：newtacGraph ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用用户对论文的行为数据转换为用户-论文关系图uiGraph，与 tac。并根据Algorithml得到新的论文关系图newtacGraph。然后用newtacGraph图中论文顶点的重要程度W(i)替换uiGraph图中论文顶点的Vattr。最后对uiGraph 图中的边Eattr 进行加强处理，即进行 mapEdges（ $\\mathrm { E a t t r }  \\mathrm { W } \\mathrm { ( i ) }$ ）操作，得到新的二部图WGraph。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d3b6224e8fa9fd8a7aa39a4700127896432515ddfca030828972f9f20b9b6896.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a)融合论文特征的用户-论文两层图 (b)确定论文节点权值的二部图",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f21f32f8456f9bffbf34f139cde1b7e82dfff93ce8315c39a69e6883d0721a1.jpg",
+        "img_caption": [
+            "图3图模型的构建过程"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4基于分布式图模型的 $\\mathsf { S V D + + }$ 算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式（3）中的参数是通过采用随机梯度下降法（SGD）进行优化，损失函数用最小化相关联的正则化平方函数（SSE)，如",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式(6)所示。其中， $e _ { u i } = r _ { u i } - \\hat { r } _ { u i }$ ，常量 $\\lambda _ { 1 }$ ， $\\lambda _ { 2 }$ 控制正则化程度。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\mathrm { S S E } = \\frac { 1 } { 2 } \\sum _ { u , i } e _ { u i } ^ { 2 } - \\frac { 1 } { 2 } \\lambda _ { 1 } \\big ( { b _ { u } } ^ { 2 } + { b _ { i } } ^ { 2 } \\big ) + } } \\\\ { { \\displaystyle \\phantom { \\frac { 1 } { 2 } \\lambda _ { 2 } } \\frac { 1 } { 2 } \\Big ( \\big | p _ { u } \\big | ^ { 2 } + \\big | q _ { i } \\big | ^ { 2 } + \\sum _ { j \\in R ( u ) } \\big | y _ { j } \\big | ^ { 2 } \\Big ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "迭代过程每步更新如下。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { c } { u p d a t e B u = \\gamma \\cdot \\left( e _ { u i } - \\lambda _ { 1 } \\cdot b _ { u } \\right) } \\\\ { u p d a t e B i = \\gamma \\cdot \\left( e _ { u i } - \\lambda _ { 1 } \\cdot b _ { i } \\right) } \\\\ { u p d a t e Q = \\gamma \\cdot \\left( e _ { u i } \\left( p _ { u } + \\left| R \\left( u \\right) \\right| ^ { \\frac { 1 } { 2 } } \\displaystyle \\sum _ { j \\in R \\left( u \\right) } y _ { j } \\right) - \\lambda _ { 2 } \\cdot q _ { i } \\right) } \\\\ { u p d a t e P = \\gamma \\left( e _ { u i } \\cdot q _ { i } - \\lambda _ { 2 } \\cdot p _ { u } \\right) } \\\\ { u p d a t e Y = \\gamma \\cdot \\left( e _ { u i } \\cdot \\left| R \\left( u \\right) \\right| ^ { - \\frac { 1 } { 2 } } \\cdot q _ { i } - \\lambda _ { 2 } \\cdot y _ { j } \\right) , \\forall j \\in R \\left( u \\right) } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中，／为步长。本文设置参数值为 $\\gamma = 0 . 0 0 7$ ， $\\lambda _ { 1 } = 0 . 0 0 5$ ，$\\lambda _ { 2 } = 0 . 0 1 5 ^ { [ 1 2 ] }$ 。并且迭代过程设置衰减因子 $\\textbf {  { a } } ^ { [ 1 7 ] }$ ，使每一次迭代的步长减少，在30次后收敛。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Algorithm 2： $\\mathsf { S V D + + }$ 图法   \nInput:WGraph， $f$ ，IterMax   \n1 $\\gamma = 0 . 0 0 7$ ， $\\lambda _ { \\mathrm { 1 } } = 0 . 0 0 5$ ， $\\lambda _ { 2 } = 0 . 0 1 5$ //Initialize   \n2 svdGraph mapVertices $\\mathrm { : } \\ \\nu a t t r = \\left\\{ k _ { 1 } , k _ { 2 } , b = 0 , y = 0 \\vert k _ { 1 } , k _ { 2 } \\in R ^ { f } \\right\\} \\ )$   \n//Initialize Vattr   \n3 Calculate mean //the average of Vattr   \n4While $\\textit { i } <$ IterMax Sumy $$ WGraph aggregateMsgs（ sendMsg: toSrc $\\begin{array} { r l } { ( M s g = } & { { } d s t . k _ { 2 } } \\end{array}$ ）， mergeMsg :MsgSum $\\begin{array} { r l } { \\mathbf { \\Sigma } = } & { { } \\sum M s g } \\end{array}$ ） svdGraph JoinVertices(Sumy) svdGraph mapVertices( $\\left\\{ k _ { 1 } , k _ { 2 } = M s g S u m , b , y \\right\\} :$   \n//Initialize $\\mathrm { \\Delta y _ { i } }$ update $$ svdGraph aggregateMsgs( Calculate $\\hat { r } _ { u i }$ updateP， updateQ， updateY   \nupdateBu，updateBi //according Equation 3，8 sendMsg: toSrc   \n（号 $\\ ( \\ \\big \\{ M s g 1 = u p d a t e P , M s g 2 = u p d a t e Y , M s g 3 = u p d a t e B u \\big \\} \\ )$ toDst   \n（204号 $\\ ( \\ \\big \\{ M s g 1 = u p d a t e Q , M s g 2 = u p d a t e Y , M s g 3 = u p d a t e B i \\big \\} \\ )$ （204号 mergeMsg:   \n$\\ ( \\ \\{ M s g 1 s u m = \\Sigma M s g 1 , M s g 2 s u m { = } \\Sigma M s g 2 , M s g 3 s u m = \\Sigma M s g 3 ) \\}$ ） svdGraph JoinVertices(update) svdGraph   \nmapVertices( $\\left\\{ k _ { 1 } + M s g 1 s u m , k _ { 2 } + M s g 2 s u m , b + M s g 3 s u m , y \\right\\} )$   \n5 $\\gamma = \\mathbf { a } \\cdot \\boldsymbol { \\gamma }$ （204号   \nOutput:svdGraph ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 实验结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1实验数据与环境",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文使用CiteULike网站开源的数据集，原始数据包括5551名用户、16980 篇文章和204986条行为数据。本文选取其中稠密部分，并在数据集中抹掉 $20 \\%$ 的用户的一半操作记录，以此作为训练集，抹掉的数据为测试集，如表1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b8670d11cd6eb0978f5490154a083fb605ccf175be15763a07a30a184346e7be.jpg",
+        "table_caption": [
+            "表1训练集和测试集"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>用户数</td><td>论文数</td><td>记录数</td></tr><tr><td>训练集</td><td>848</td><td>1921</td><td>36215</td></tr><tr><td>测试集</td><td>173</td><td>1921</td><td>2596</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验环境选择小型Spark集群，该集群包括4个节点。每个节点CPU型号为E3-1230v5，内存为6GB。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2评价标准",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于论文推荐属于OCCF，本文选取准确率（Precision）、召回率（Recall）、F值和覆盖率（Coverage）对混合模型进行评估。在测试集中，计算模型推荐的候选论文集合与用户实际操作的论文集合的交集作为正确的候选论文。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "推荐列表长度为M的准确率和召回率定义为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P r e c i s i o n } @ \\mathbf { M } = \\frac { \\left| p r e s e t \\cap t e s t s e t \\right| } { \\left| t e s t s e t \\right| }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname { R e c a l l } @ \\mathbf { M } = { \\frac { \\left| p r e s e t \\cap t e s t s e t \\right| } { \\left| p r e s e t \\right| } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "F值又称为F-score，是IR（信息检索）中常用的一个评价标准，计算如下，通常取 ${ \\mathfrak { a } } = 1$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF = \\frac { \\Big ( 1 + \\alpha ^ { 2 } \\Big ) P r e c i s i o n \\times R e c a l l } { \\alpha ^ { 2 } \\times P r e c i s i o n + R e c a l l }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "覆盖率测量的是推荐系统推荐给所有用户的物品数占总物品数的比例，如公式所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { C o v e r a g e } = \\frac { \\left| \\mathbf { U } _ { \\mathrm { u e N ( U ) } } \\mathbf { R } \\left( \\mathbf { u } \\right) \\right| } { \\left| \\mathbf { I } \\right| }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3 实验结果分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于摘要、题目和参考文献的权重 $( \\mathbf { \\Delta w } _ { 1 } \\textbf { . } \\ \\mathbf { w } _ { 2 } \\textbf { . } \\ \\mathbf { w } _ { 3 } )$ ，调节不同的分配会影响推荐的结果，如图4所示。其中，将非分配权重情况下（既1:1:1）作为对比参考。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图中可以看出，论文数据的摘要和引用关系特征对推荐结果的影响较为明显，都高于非分配权重情况。因此，根据调节的曲线，本文实验选择摘要、题目和引用关系的权值为0.3、0.2和0.5。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于式(5)，使用不同的抑制因子对于结果会有不同的影响。文献[13]给出一般的d取0.85。为了实验找出较合理的抑制因子，设置固定隐因子个数位5，测试不同抑制因子下产生推荐结果，计算召回率和F值。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3cb368f48010fcff866f67e0251042bb9d877695ed9c527e7ca9f09f68c369b8.jpg",
+        "img_caption": [
+            "图4题目、摘要和参考文献不同权重下的召回率"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/293d6419e0b0b65c9853a1150348edf538a365597c6663d9d77de59d92c3037f.jpg",
+        "img_caption": [
+            "图5不同抑制因子d下混合推荐的召回率"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图可知，d在选取0.1、0.5、0.8、0.9时召回率和F1值明显高于其他情况，这是由于在推荐领域用户个体主观兴趣不同所致。对于倾向经典的有价值的论文的用户，在论文关系中约趋于中心的论文越有价值，即该论文关联许多其他论文，因此选取区间[0.8,0.9]更合适；对于倾向冷门的新颖观点的论文，由于论文关联程度低，因此需要设置更高的跳转概率，即选取0.1附近更合适；而对于不确定的用户可以选取0.5。本文其他实验抑制因子选取0.9。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了评估本文提出混合模型（ ${ \\mathrm { W S V D + + } }$ )，对比实验选取基于内容（CB-CF）、基于引文（cite-PR）、基于PPR 和基于 ${ \\mathrm { S V D } } + +$ 的图模型算法。其中， ${ \\mathrm { S V D } } + +$ 隐因子维度为10，WSVD $^ { + + }$ 隐因子维度分别选取10和20，迭代过程设置衰减因子 $\\mathbf { \\boldsymbol { a } } = 0 . 9$ ，使迭代在30次后收敛。结果如表2所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/de6c0d01224adca23b6c6008af046a66315fefa98dee8d6ab0a960331dc342c7.jpg",
+        "table_caption": [
+            "表2实验结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Approach</td><td>Recall@30</td><td>F</td><td>Coverage</td></tr><tr><td>CB-CF</td><td>18.73%</td><td>12.14%</td><td>49.55%</td></tr><tr><td>cite-PR</td><td>12.38%</td><td>6.86%</td><td>28.68%</td></tr><tr><td>PPR</td><td>7.45%</td><td>3.46%</td><td>22.44%</td></tr><tr><td>SVD++@10</td><td>11.02%</td><td>5.10%</td><td>25.40%</td></tr><tr><td>WSVD++@10</td><td>22.48%</td><td>17.03%</td><td>62.10%</td></tr><tr><td>WSVD++@20</td><td>23.16%</td><td>21.37%</td><td>63.87%</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表中可以看出，本文提出的混合模型推荐结果的召回率为 $2 3 . 1 6 \\%$ ，F为 $2 1 . 3 7 \\%$ ，优于基于内容的协同过滤算法(CB-CF)、基于引文的图算法（cite-PR）、其他基于图模型的推荐算法(PPR和 $\\begin{array} { r } { \\mathbf { S V D + + } } \\end{array}$ 。这说明用户操作记录结合了论文重要程度的权值，能够突出用户对重要论文的操作行为，从而建立的隐因子模型更贴近用户的个性化兴趣。并且，选取更长的隐因子也会对推荐结果有一定的提升。从覆盖率的角度考虑，混合模型结合了论文重要程度和隐因子，提供的候选论文比其他算法更具有多样性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0a07c73c703d143ce49a59563f5bed67f359828ca65dc7a89cb7bf10ccf649b5.jpg",
+        "img_caption": [
+            "图6不同候选推荐数量对推荐结果的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于用户历史数据数量，设置动态的候选推荐数量会对推荐结果产生影响。如图5所示，横坐标表示测试集中根据用户不同操作数量设置的候选推荐数量。实验过程设置混合模型的参数 $d = 0 . 9$ 、 $f = 2 0$ ，候选推荐数量为用户操作的行为数据（超过100则设置为100)。可以看出根据用户的操作数量选择候选推荐数量，不同数量的候选推荐对推荐性能的影响。用户的行为数据越多，越能找到用户的可能喜欢的论文。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文提出一种分布式图计算的学术论文推荐算法。针对大数据时代提高个性化推荐方法的精度与效率的问题。首先用图模型来表示用户和论文间的关系，在论文关系中计算论文重要程度，并利用论文重要程度对用户论文关系进行加权处理。然后将基于图模型的 ${ \\mathrm { S V D } } + +$ 算法应用到用户-论文图模型中产生推荐。并且为了提高算法的可扩展的性，提出了图计算算法的分布式的实现。最后，实验结果验证了本文提出的混合算法模型有效性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]DBLP. Statistics new records per year [DB/OL].2017. http://dblp.uni-trier. de/statistics/newrecordsperyear.   \n[2]BeelJ,Langer S,Genzmehr M,et al.Research paper recommender system evaluation:a quantitative literature survey [C]//Proc of International Workshop on Reproducibility and Replication in Recommender Systems Evaluation. 2013:15-22.   \n[3]Li G,Zhang Z,Wang L,et al. One-class collaborative filtering based on rating prediction and ranking prediction [J].Knowledge-Based Systems, 2017,124:46-54.   \n[4]高洁．高质量学术资源推荐方法的研究与实现[D].北京：北京邮电大 学,2014.   \n[5]Amami M,Pasi G, Stella F,et al.An LDA-Based approach to scientific paper recommendation [C]// Procof International Conferenceon Applications ofNatural Language to Information Systems.[S.1.] :Springer International Publishing,2016:200-210.   \n[6]Pan L,Dai X,Huang S,et al.Academic paper recommendation based on heterogeneous graph [J]. Chinese Computational Linguistics and Natural Language Processing Based on Naturally Annotated Big Data.2O15,9427: 381-392.   \n[7]Habib R,Afzal M T.Paper recommendation using citation proximity in bibliographic coupling[J].Turkish Journal of Electrical Engineering & Computer Sciences,2017,25:2708-2718.   \n[8]Amami M,Faiz R,StellaF,et al.A graph based approach to scientific paper recommendation [C]//Proc of International Conference.2017:777-782.   \n[9]Gonzalez JE,Low Y,Gu H,et al.PowerGraph: distributed graph-parallel computation on natural graphs [C]// Proc of Usenix Conference on Operating Systems Design and Implementation.[S.1] : USENIX Association, 2012:17-30.   \n[10] Sugiyama K,Kan M Y. Towards higher relevance and serendipity in ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "scholarly paper recommendation [J].ACM SIGWEB Newsletter, 2015 (4): ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1-16.   \n[11]张玉连，袁伟．隐语义模型下的科技论文推荐[J].计算机应用与软件， 2015 (2): 37-40.   \n[12]刘剑波，杨健．基于 SVD+与行为分析的社交推荐[J].计算机应用, 2013,33(1):82-86.   \n[13]谢玮，沈一，马永征．基于图计算的论文审稿自动推荐系统[J].计算 机应用研究,2016,33(3):798-801.   \n[14] Sugiyama K,Kan M Y.A comprehensive evaluation of scholarly paper recommendation using potential citation papers [J]. International Journal on Digital Libraries,2015,16 (2): 91-109.   \n[15] Shams B,Haratizadeh S.Graph-based collaborative ranking [M].[S.1.]; Pergamon Press,Inc.2017.   \n[16] Gonzalez JE,Xin R S,Dave A,et al.GraphX:graph processing in a distributed dataflow framework [C]// Proc of USENIX Conference on Operating Systems Design and Implementation.[S.1.]:USENIX Association,2014: 599-613.   \n[17]何海洋．基于矩阵分解及其图模型的协同过滤推荐算法研究[D]．西 安：西安电子科技大学,2015. ",
+        "page_idx": 5
+    }
+]

@@ -1,0 +1,203 @@
+# 晋西黄土区不同退耕年限油松林草本多样性与土壤养分的关系
+
+刘俊廷'，张建军1,²，王恒星'，李丹璐’，李卓然（1．北京林业大学水土保持学院,北京10083；2．山西吉县森林生态系统国家野外科学观测研究站,山西 吉县 042200）
+
+摘要：本文以晋西黄土丘陵沟壑区不同退耕年限(11a、17a、22a、26 a)的油松林为对象,测定不同土层深度1 $\mathrm { 0 \sim 6 0 \ c m }$ )的土壤养分因子,采用冗余分析(RDA）、回归分析研究了林下草本植物多样性和土壤养分的变化及相互关系。结果表明： $\textcircled{1}$ 不同退耕年限油松人工林下共出现8种植物,隶属于6科,8属;随着退耕年限的增加，草本层的物种多样性指数（Margalef、Patrick 指数）、丰富度指数(Simpson、Shannon 指数）、均匀度指数（Pielou 指数)均有所减小,林下草本以万年蒿(Artemisia gmelinii)出现频率最大,其重要值为27； $\textcircled { 2 } 0 \sim 6 0 \ \mathrm { c m }$ 土层的平均土壤有机质和全氮随退耕年限的增加有增加的趋势，具有表聚效应，土壤氨氮 $\mathrm { \nabla \cdot \ p H }$ 、全磷随退耕年限的增加而减小,速效钾随着退耕年限的增加呈先减小后增加的趋势,速效磷变化与速效钾相反；有机质、全氮 $\mathrm { \nabla \cdot \mathrm { \ p H } }$ 、速效钾随着土层深度增加而减小； $\textcircled{3}$ 冗余分析表明,林下草本多样性除了受土壤养分影响外,还受其他环境因素影响，土壤养分因子仅能解释$4 1 . 4 2 \%$ 的草本多样性变化;油松人工林下草本层的丰富度指数、多样性指数以及均匀度指数与有机质、全氮均呈负相关，与 $\mathrm { \Delta p H }$ 、氨氮、全磷均为正相关; $\textcircled{4}$ 回归分析表明，Patrick指数与有机质、 $\mathrm { \Phi _ { \cdot } \mathrm { p H } }$ 、氨氮呈显著乘幂关系( $R ^ { 2 }$ 为$0 . 7 4 3 \ : . 0 . 7 0 8 , P < 0 . 0 1 )$ ,Margalef指数与有机质、全氮呈线性关系（ $R ^ { 2 }$ 为0.651、0.719）;Shannon指数与 $\mathrm { \ p H }$ 氨氮均为线性关系( $R ^ { 2 }$ 为0.539、0.790）;Simpson指数与有机质为线性关系（ $R ^ { 2 }$ 为0.672);Pilou指数与有机质、pH、全氮均表现为指数关系( $R ^ { 2 }$ 为 $0 . 6 3 1 , 0 . 5 1 5 , 0 . 5 5 0 )$ 。因此可以看出土壤养分在一定程度上对草本多样性指数有一定的影响。
+
+关键词：油松；草本多样性；土壤养分；冗余分析；回归分析；山西
+
+森林生态系统中林下植物作为森林的重要组成部分，在提高物种多样性、促进森林演替、保持林地生产力、防治水土流失和保持生态功能稳定性等方面具有重要的作用[1-2]。土壤是陆地生态系统的支撑，决定着植被的类型和生长状况，土壤理化性质是土壤质量的重要体现,决定着林地生产力的高低，是植物群落更新演替过程中的研究热点[3-6]。因此,探求林下草本物种多样性变化过程与土壤养分的关系具有重要科学意义和实践意义。
+
+位于晋西黄土区的蔡家川流域从1990 年开始营造大面积的水土保持林，油松（Pinustabulaefor-mis）因其耐干旱瘠薄以及较强适应性和抗逆性，同时具有涵养水源、保持水土及改良土壤的作用，是蔡家川流域区水土保持植被的主要造林树种之一。目前，油松林已经是黄土高原地区人工植被的重要组成部分。近年来，有关油松的研究相对较多，但主要集中在油松林的林下植被多样性调查与分析[8-10]、不同密度油松林理化性质差异[11-12]、油松林生态碳汇的研究[13-14]、油松林的水文效应[15]等。虽然前人对油松林研究成果较多，但对不同退耕年限油松林下草本多样性与土壤养分之间关系的研究相对较少。鉴于此，为更好了解油松林地的生态服务功能，需进一步讨论油松林地的群落类型，建立草本植被－土壤养分因子的响应关系。本文通过对晋西黄土区不同林龄人工油松林地(11a、17a、22 a、26a)的调查，获取植被群落特征、分布状况以及环境数据，通过冗余分析(RDA)和Spearman秩相关分析，探究土壤养分因子对林下草本物种丰富度的影响，以期为黄土高原油松造林及植被恢复提供理论依据，为油松林林下生物多样性的保护和管理提供参考。
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+研究区选择在山西吉县森林生态系统国家野外科学观测研究站所在地的蔡家川流域，地理坐标为$1 1 0 ^ { \circ } 4 5 ^ { \prime } \sim 1 1 0 ^ { \circ } 4 8 ^ { \prime } \mathrm { E } \mathrm { ~ } . 3 6 ^ { \circ } 1 4 ^ { \prime } \sim 3 6 ^ { \circ } 1 8 ^ { \prime } \mathrm { N }$ ,海拔 $9 0 4 \sim$ $1 5 9 2 \mathrm { ~ m ~ }$ ,属于半干旱大陆性季风气候。森林植被类型属半旱生落叶阔叶林带，年平均降水量575.9$_ { \mathrm { m m } , 6 - 9 }$ 月降水量占 $70 \%$ 左右，年平均蒸发量$1 ~ 7 2 3 . 9 ~ \mathrm { m m }$ 。年平均气温 $1 0 \ \%$ ,无霜期 $1 7 2 \mathrm { ~ d ~ }$ 。该地区属于典型的黄土璨状丘陵沟壑区，地形破碎，黄土母质，土层深厚。蔡家川流域上游主要以辽东栎（Quercus wutaishanica）、山 杨（Populus davidiana）白桦（Betulaplatyphylla）杜梨(Pyrus betulifolia）、胡颓子（Elaeagnus pungens）、黄刺玫（Rosa xanthina）、虎榛子（Ostryopsis davidiana）胡枝子（Lespedeza bi-color)等物种组成的次生林为主，流域中游是20世纪90年代初期在退耕地上营造的以油松（Pinustabulaeformis）、刺槐（Robiniapseudoacacia）、侧柏(Platycladusorientalis）为主的人工林。
+
+# 1.2 研究方法
+
+1.2.1样地调查本研究于2017年6—10月开展,选取蔡家川不同退耕年限 $( 1 1 ~ \mathrm { ~ a ~ } , 1 7 ~ \mathrm { ~ a ~ } , 2 2 ~ \mathrm { ~ a ~ } , 2 6 \$ a)的油松人工林，且退耕前均为耕地。在不同林龄的林分中分别布设3块样地，样地面积为 $2 0 \mathrm { ~ m ~ } \times 2 0$ m,共计12块样地(表1）。对调查样地进行每木检尺,记载每株树的胸径、树高。在每个乔木样方中随
+
+# 表1样地基本信息
+
+Tab.1Basic information of the research sites   
+
+<html><body><table><tr><td>树龄 /a</td><td>郁闭度 /%</td><td>海拔 /m</td><td>坡度 /)</td><td>坡向 平均胸径 /（) /cm</td><td>平均树 高/m</td></tr><tr><td>11</td><td>40</td><td>1 124</td><td>20 N130</td><td>10.76</td><td>5.45</td></tr><tr><td>11</td><td>45</td><td>1 120</td><td>18 N125</td><td>10.26</td><td>5.46</td></tr><tr><td>11</td><td>45</td><td>1120</td><td>15</td><td>N140 9.89</td><td>5.23</td></tr><tr><td>17</td><td>50</td><td>1 107</td><td>20</td><td>N100 11.93</td><td>6.59</td></tr><tr><td>17</td><td>55</td><td>1 111</td><td>19</td><td>N100 12.35</td><td>6.89</td></tr><tr><td>17</td><td>60</td><td>1118</td><td>19</td><td>N92 12.12</td><td>6.85</td></tr><tr><td>22</td><td>55</td><td>1300</td><td>15</td><td>N156 7.94</td><td>6.15</td></tr><tr><td>22</td><td>65</td><td>1 288</td><td>18 N162</td><td>8.09</td><td>6.26</td></tr><tr><td>22</td><td>60</td><td>1 260</td><td>17 N165</td><td>8.25</td><td>6.21</td></tr><tr><td>26</td><td>70</td><td>1 274</td><td>21 N102</td><td>9.26</td><td>9.31</td></tr><tr><td>26</td><td>80</td><td>1 250</td><td>20 N111</td><td>9.36</td><td>9.68</td></tr><tr><td>26</td><td>70</td><td>1 265</td><td>22 N98</td><td>9.86</td><td>10.26</td></tr></table></body></html>
+
+机设置3个 $1 \mathrm { ~ m ~ } { \times } 1 \mathrm { ~ m ~ }$ 草本小样方，调查内容包括种类、盖度、多度及高度，同时记载每个样地在研究区内的位置、海拔、坡向、坡位、坡度和林木郁闭度。1.2.2物种多样性计算方法本文用到的重要值、物种多样性指数计算方法参照文献[16-17]。
+
+重要值：
+
+$$
+I V = \frac { \frac { 1 } { 4 } \textcircled { \times } \frac { 1 } { 2 } \frac { \frac { 2 } { 5 } } { \operatorname { m i x } } \frac { \frac { 3 } { 2 } } { x } + \frac { 1 } { 6 } \textcircled { \times } \frac { 1 } { 2 } \frac { \frac { 3 } { \times } } { x } + \frac { 1 } { 6 } \textcircled { \times } \frac { 1 } { 2 } \frac { 3 } { x } } { 3 }
+$$
+
+丰富度指数：
+
+多样性指数：
+
+均匀度指数：Pielou指数 $J _ { \mathrm { s w } } = H ^ { \prime } / \mathrm { l n } S$ 式中：S为物种数目； $\boldsymbol { P } _ { i }$ 为第 $\mathbf { \chi } _ { i }$ 种的相对个体数，即$N _ { i } / N$ ,其中 $N$ 为样方内全部种的个体总数， $N _ { i }$ 为第 $i$ 种的个体数。
+
+1.2.3土壤取样及测定方法在样地的对角线上均匀布设3个土壤剖面调查点，挖土壤剖面，在 $0 \sim$ $6 0 ~ \mathrm { c m }$ 土层分别取样,将土样带回实验室,待土样完全风干后，先剔除较大的植物残渣和石头，再过2$\mathbf { m } \mathbf { m }$ 孔径土壤筛，用四分法取部分土壤，分别收取1$\mathbf { m m }$ 和 $0 . 2 5 \ \mathrm { m m }$ 土样，装袋密封待测。
+
+测量指标包括有机质、 $\mathrm { \Phi _ { \cdot } \mathrm { p H } }$ 、全氮、全磷、氨氮、硝氮、速效磷、速效钾，分别采用重铬酸钾容量法、水浸提-酸度计法、半微量凯氏法、硫酸-混合加速剂消煮-蒸馏法、碱解扩散法、氢氧化钠熔融-钼锑抗比色法、碱解扩散法、 $\mathrm { N H _ { 4 } F - H C l }$ 浸提－钼锑抗比色法 $\mathrm { \bullet N H _ { 4 } O A c }$ 浸提－火焰光度法。具体方法参考《土壤理化分析》[18] C
+
+1.2.4数据分析利用Excel2010进行数据整理，用Origin2017制图，用SPSS22.0进行单因素方差分析（ANOVA）中秩和检验的Kruskal-Wallis法，检验不同退耕年限物种多样性和土壤养分的差异及不同土层深度土壤化学性质差异;采用Canoco4.5软件进行冗余分析（RDA），探究不同退耕年限的刺槐林物种多样性与土壤养分的关系，利用Spearman 秩相关分析检验筛选出对林下草本多样性有显著影响的环境因子（条件解释量， $P < 0 . 0 1$ );将和多样性指数呈极显著相关的土壤养分因子分别与多样性指数
+
+做回归分析。
+
+# 2结果与分析
+
+# 2.1退耕年限对油松林下草本组成的影响
+
+物种多样性是森林生态平衡的重要体现。通过调查发现，不同退耕年限油松林下共有草本植物8种,隶属6科,8属(表2）。其中样地间出现频度较大的有细裂莲蒿（Artemisiagmelinii）、二柱臺草（Carexlithophila）鬼针草（Bidenspilosa）,其中以铁杆蒿的重要值最大，为27.00。
+
+不同退耕年限的油松林地草本物种多样性指数见表3。随着退耕年限的增加，油松林下草本植物的丰富度指数（Patrick、Margalef指数）、多样性指数（Simpson、Shannon-wiener指数）、均匀度指数(Pielou指数)有逐渐减小的趋势。方差分析显示，不同退耕年限林地的Margalef指数、Shannon-wiener指数和Simpson 指数均差异不显著( $\ P > 0 . 0 5 )$ ；而退耕11a的Patrick、Pielou指数与26a均差异显著中 $\left( P < 0 . 0 5 \right)$ ；而与17a $\phantom { + } \cdot 2 2$ a 均差异不显著。
+
+# 2.2 退耕年限对土壤养分的影响
+
+2.2.1土壤有机质与 pH图1是土壤有机质、pH变化情况，其中柱状图表示不同退耕年限土壤有机质 $\mathrm { \Phi _ { \cdot } p H }$ 在不同土层深度变化的情况;折线图表示在$0 \sim 6 0 ~ \mathrm { c m }$ 平均有机质、 $\mathrm { \ p H }$ 随退耕年限的变化情况。从图1a可见， $. 0 \sim 6 0 ~ \mathrm { c m }$ 土层有机质随退耕年限的增加有增加的趋势,退耕26a与退耕11a的林地相比土壤有机质增加了 $5 0 . 1 1 \%$ 。方差分析显示退耕11a的 $0 \sim 6 0 ~ \mathrm { c m }$ 土层有机质与 $2 2 \mathrm { ~ a ~ } . 2 6 \mathrm { ~ : ~ }$ 均有显著差异 $\left( P < 0 . 0 5 \right)$ 。退耕 $1 7 \mathrm { ~ a ~ } , 2 2 \mathrm { ~ a ~ } , 2 6$ a的林地 $0 \sim$ $2 0 \ \mathrm { c m }$ 土层有机质均显著高于 $3 0 \sim 6 0 \ \mathrm { c m }$ 土层。土壤有机质含量随土层深度的增加有减小的趋势，退耕 $1 7 \mathrm { ~ a ~ } , 2 2 \mathrm { ~ a ~ } , 2 6$ a林地 $0 \sim 1 0 ~ \mathrm { c m }$ 土层的有机质含量与 $5 0 \sim 6 0 \$ cm土层相比分别增加了 $6 1 . 9 9 \%$ ！$6 5 . 8 5 \%$ 和 $3 6 . 6 7 \%$ ,这说明土壤有机质具有一定的表聚效应。
+
+$0 \sim 6 0 ~ \mathrm { c m }$ 土壤平均 $\mathrm { \ p H }$ 随退耕年限的增加而减小。方差分析显示，退耕11a的林地pH与退耕22a $\phantom { + } \cdot 2 6$ a的林地 $\mathrm { \ p H }$ 均差异显著，而与退耕17a林地无显著差异。 $\mathrm { \ p H }$ 随土层深度的增加有减小的趋势。 $0 \sim 1 0 ~ \mathrm { c m }$ 土层的 $\mathrm { \ p H }$ 与 $4 0 \sim 6 0 \ \mathrm { c m }$ 土层的pH差异显著。
+
+2.2.2土壤全氮和全磷从图2a可见， $0 \sim 2 0 ~ \mathrm { c m }$ 土层的全氮随退耕年限的增加而增加， $2 0 \sim 6 0$ cm土层的全氮随退耕年限的变化不明显；总体而言
+
+Tab.2Species composition and important values of herbaceous layer   
+表3草本层物种多样性指数数量特征  
+
+<html><body><table><tr><td rowspan="2">科名</td><td rowspan="2">属名</td><td rowspan="2">种名</td><td colspan="4">退耕年限/a</td></tr><tr><td>11</td><td>17</td><td>22</td><td>26</td></tr><tr><td>菊科</td><td>蒿属</td><td>细裂莲蒿 Artemisia gmelinii</td><td>30.17</td><td>47.82</td><td>17.67</td><td>12.33</td></tr><tr><td></td><td>鬼针草属</td><td>鬼针草Bidens pilosa</td><td>12.56</td><td>14.23</td><td></td><td></td></tr><tr><td></td><td>风毛菊属</td><td>风毛菊 Saussurea japonica</td><td>3.86</td><td></td><td></td><td></td></tr><tr><td>豆科</td><td>甘草属</td><td>甘草 Glycyrrhiza uralensis</td><td>4.86</td><td>9.13</td><td></td><td></td></tr><tr><td>莎草科</td><td>草属</td><td>二柱臺草 Carex lithophila</td><td></td><td></td><td>44.33</td><td>30.25</td></tr><tr><td>禾本科</td><td>芦苇属</td><td>芦苇Phragmites australis</td><td>4.36</td><td>10. 14</td><td></td><td></td></tr><tr><td>败酱科</td><td>败酱属</td><td>败酱Patrinia scabiosifolia</td><td></td><td></td><td>11. 67</td><td></td></tr><tr><td>蔷薇科</td><td>委陵菜属</td><td>委陵菜Potentilla chinensis</td><td>20.21</td><td></td><td></td><td></td></tr></table></body></html>
+
+表2草本层主要物种及重要值  
+Tab.3Quantitative characteristics of the diversity indecies of herbaceous layer   
+
+<html><body><table><tr><td rowspan="2">退耕年限</td><td colspan="5">多样性指数</td></tr><tr><td>Patrick 指数</td><td>Margalef 指数</td><td>Simpson 指数</td><td>Pielou 指数</td><td>Shannon-wiener 指数</td></tr><tr><td>11</td><td>5±1a</td><td>1.074 ±0.2a</td><td>4.618 ±0.69a</td><td>0.337 ±0.02a</td><td>1.243 ±0.0.04a</td></tr><tr><td>17</td><td>3±1a</td><td>0.765 ±0.13a</td><td>2.85 ±0.45a</td><td>0.304 ±0.03a</td><td>0.9174 ±0.05a</td></tr><tr><td>22</td><td>2±1a</td><td>0.343 ±0.11a</td><td>1.197 ±0.15a</td><td>0.129 ±0.04a</td><td>0.379 ±0.0.03a</td></tr><tr><td>26</td><td>1 ±1b</td><td>0.109 ±0.05a</td><td>0.472 ±0.06a</td><td>0.071 ±0.02b</td><td>0.202 ±0.04a</td></tr></table></body></html>
+
+注：不同小写字母表示各物种指数随退耕年限的差异显著性。
+
+![](images/ccc240b76a102b57f8da9f4ac7ee4d19dbf6fe30e140318691e39ba8d666f25a.jpg)  
+注：不同小写字母表示在不同土层深度差异显著;不同大写字母表示在不同退耕年限差异显著情况( $\lceil P < 0 . 0 5$ )。下同。  
+图1土壤有机质和pH变化  
+Fig.1Variation of soil organic matter and pH   
+图2土壤全氮和全磷变化  
+Fig.2Variation of soil total nitrogen and total phosphorus
+
+退耕年限/a 退耕年限/a 26 22 17 11 26 22 17 11 (a)全氮 A 0.10 1 C (b)全磷 0.3 B BI B B 18.8/ I A -.8/ I 0.14 0.4 22 aa 0.16 锅a b bbed b 全 bba bcb bc C cd ddcdc d d 全 T a Iaa 西 C a a 0.5 0.6 0.1 A 0.20 0.2 0.0 0.22 0.0 0.7 0\~10 10\~2020\~3030\~40 40\~50 50\~60 0\~10 10\~2020\~3030\~40 40\~50 50\~60 土层深度/cm 土层深度/cm
+
+$0 \sim 6 0 ~ \mathrm { c m }$ 平均土壤全氮随退耕年限的增加而增加，退耕26a林地土壤全氮相比退耕11a增加了$1 7 . 3 3 \%$ 。方差分析显示， $0 \sim 6 0 \ \mathrm { c m }$ 王层平均土壤全氮在11a与 $1 7 \mathrm { ~ a ~ } , 2 2 \mathrm { ~ a ~ } , 2 6$ a 均有显著差异( $P <$ 0.05)。土壤全氮随土层深度的增加有减小的趋势，不同退耕年限 $0 \sim 1 0 ~ \mathrm { c m }$ 土层的全氮均显著高于$4 0 \sim 6 0 \ \mathrm { c m }$ 层。退耕11a $\cdot ^ { 1 7 }$ a $^ { , 2 2 \mathrm { ~ a ~ } , 2 6 }$ a 林地表层$0 \sim 1 0 \ \mathrm { c m }$ 的全氮相比于 $5 0 \sim 6 0 ~ \mathrm { ~ c m }$ 分别增加了$2 9 . 6 6 \% . 3 2 . 3 2 \% . 4 5 . 2 1 \%$ 和 $4 2 . 5 3 \%$ ，说明全氮均有一定表聚效应。
+
+从图2b可见，随着退耕年限的增加， $0 \sim 6 0 \mathrm { c m }$ 土层平均全磷有逐渐减小的趋势。方差分析显示退耕11a林地 $0 \sim 6 0 \ \mathrm { c m }$ 土层平均全磷与退耕 $^ { 1 7 \mathrm { ~ a ~ } , }$ （204号$2 2 \mathrm { ~ a ~ } . 2 6$ a 的均存在差异显著( $P < 0 . 0 5 )$ 。土壤全磷随着土层深度的变化不明显，呈现波动性变化。2.2.3土壤氨氮和硝氮图3a是土壤氨氮变化情况，可见， $. 0 \sim 6 0 ~ \mathrm { c m }$ 土层的氨氮随退耕年限的增加而逐渐减小，退耕26a林地的氨氮相比于11a减小了 $5 7 . 8 8 \%$ 。方差分析显示，不同退耕年限林地的土壤氨氮均有显著差异( $\ P < 0 . 0 5 )$ ，说明退耕年限对氨氮影响较大。不同退耕年限土壤氨氮随土层深度的变化无明显变化规律。不同退耕年限 $0 \sim 1 0$ cm土层的氨氮与 $2 0 \sim 4 0 ~ \mathrm { ~ c m }$ 土层的均差异显著（204号 $\left( P < 0 . 0 5 \right)$ 。
+
+$0 \sim 6 0 ~ \mathrm { c m }$ 土层的硝氮表现为随着退耕年限的增加呈现先减小后增加的趋势（图3b）。方差分析显示，不同退耕年限 $0 \sim 6 0 ~ \mathrm { c m }$ 土层平均硝氮均存在显著差异，说明硝氮受退耕年限影响较大，硝氮随土层深度的增加呈现波动性变化。退耕 $2 2 \mathrm { ~ a ~ } , 2 6$ a的林地 $0 \sim 1 0 \ \mathrm { c m }$ 土层的氨氮与 $3 0 \sim 5 0 \ \mathrm { c m }$ 土层的存在显著差异 ( $\scriptstyle P < 0 . 0 5 )$ 。退耕 $^ { 1 1 \mathrm { ~ a ~ } , 1 7 }$ a林地 $0 \sim 1 0$ cm土层的氨氮与 $3 0 \sim 5 0 ~ \mathrm { c m }$ 土层之间差异显著。2.2.4土壤速效磷和速效钾 从图 $\mathrm { 4 a }$ 可见， $0 \sim 6 0$ cm土层平均速效磷随退耕年限的增加呈现先增加
+
+退耕年限/a 退耕年限/a26 22 17 11 26 22 17 1124 AI1 B (a)氨氮 4 24 CI (b)硝氮 8工 D  
+（-8.8/g 20 C 8 (-8y.8 2 H B A （3y.3）16 DI C28 茶 ab b肉 丙C C ac aba 聚a 12 D 舌 W a a b雨 a bdbc b 面 b bbcb yC A bd b  
+氨b b b 164 + 40 0 200\~10 10\~20 20\~3030\~40 40\~50 50\~60 0\~10 10\~20 20\~30 30\~40 40\~50 50\~60土层深度/cm 土层深度/cm
+
+退耕年限/a 退耕年限/a 26 22 17 11 26 22 17 11 1.5 6.0 C (a)速效磷 A 360 (b)速效钾 / 45 30 aac 中 IaI B cdb 雨 m b 202530 （8.8/ a DHIa图 家 b b肉 a C b B重C 家 C Ca 302010 8.8/ 1.5 H 才 3.5 速 参 a 200 60 0.0 4.0 0 240 0\~10 10\~20 20\~3030\~40 40\~50 50\~60 0\~10 10\~20 20\~3030\~40 40\~50 50\~60 土层深度/cm 土层深度/cm
+
+![](images/80f091a417cf943fe52dc4044be270bd1e848a33f7b053a5637f94e340f57e1e.jpg)  
+图3土壤氨氮、硝氮变化  
+Fig.3Variation of soil ammonia nitrogen and nitrate nitrogen   
+图4土壤速磷、速钾变化  
+Fig.4Variation of soil available phosphorus and available kalium
+
+后减少的趋势。方差分析显示，退耕11a林地的速效磷与退耕 $1 7 \mathrm { ~ a ~ } , 2 2 \mathrm { ~ a ~ } , 2 6$ a的速效磷有显著差异0 $\cdot P < 0 . 0 5 )$ 。速效磷随土层深度的增加无明显变化规律；退耕 $^ { 1 1 \mathrm { ~ a ~ } , 1 7 }$ a时 $0 \sim 2 0 \ \mathrm { c m }$ 王层速效磷与$3 0 \sim 4 0 \ \mathrm { c m }$ 差异显著。
+
+图4b是土壤速效钾变化情况。 $0 \sim 6 0 ~ \mathrm { c m }$ 平均速效钾随退耕年限的增加呈先减小后增加的趋势。方差分析显示，不同退耕年限间速效钾均差异显著（ $\ P < 0 . 0 5 ,$ ），且随着土层深度的增加有减小的趋势。退耕11a $\cdot ^ { 1 7 }$ a $\phantom { + } \cdot 2 2$ a $\phantom { + } \cdot 2 6$ a林地表层 $0 \sim 1 0 \ \mathrm { c m }$ 土层的速效钾与 $5 0 \ \sim 6 0 ~ \ \mathrm { c m }$ 土层相比分别增加了$2 5 . 1 0 \% . 4 . 7 6 \% . 2 3 . 1 6 \%$ 和 $4 4 . 1 0 \%$ ，说明速效钾具有一定的表聚效应。
+
+# 2.3油松林下植被多样性与土壤养分因子的相关性
+
+图5是应用冗余分析（RDA）分析得到的林下草本多样性与 $0 \sim 6 0 \ \mathrm { c m }$ 土壤养分的双序图。分析表明，土壤养分因子能够解释 $4 1 . 4 2 \%$ 的草本多样性变化，说明草本多样性还受其他因素影响。RDA注：OC：有机质;SP：速效磷;SK：速效钾;NH：铵态氮;NO：硝态氮；TN：全氮；TP：全磷;S-W：Shannon指数;Pt:Patrick丰富度指数;P:Pielou均匀度指数;M;Margalef丰富度指数;S;Simpson多样性指数.图5草本层物种多样性与环境因子的冗余分析二维排序Fig.5RDA ordination diagram of species diversity andenvironmental factors in herbaceous layer
+
+# 表4草本层RDA前两轴与土壤化学性质相关性
+
+Tab.4Intra-set correlation of the soil chemical properties with the first two axes of RDA in herbaceous layer   
+
+<html><body><table><tr><td rowspan="2">环境因子 第一排序轴</td><td rowspan="2">第二排序轴</td><td colspan="2">蒙特卡洛检验结果</td></tr><tr><td>F值</td><td>P值</td></tr><tr><td>有机质</td><td>-0.8608</td><td>0.089 0</td><td>25.445 0.002 **</td></tr><tr><td>pH</td><td>0.8319</td><td>-0.184 5</td><td>20.395 0.006 **</td></tr><tr><td>硝氮</td><td>0.629 5</td><td>0.2845</td><td>6.281 0.028 *</td></tr><tr><td>氨氮</td><td>0.8857</td><td>0.090 6</td><td>31.633 0.002 **</td></tr><tr><td>速效磷</td><td>-0.103 3</td><td>-0.2468</td><td>0.13 0.752</td></tr><tr><td>速效钾</td><td>0.4861</td><td>0.403 2</td><td>3.04 0.11</td></tr><tr><td>全氮</td><td>-0.8128</td><td>-0.187 1</td><td>17.823 0.004 **</td></tr><tr><td>全磷</td><td>0.829 3</td><td>-0.0249</td><td>19.933 0.002 **</td></tr></table></body></html>
+
+注：\*\*表示 $P < 0 . 0 1$ ： $*$ 表示 $P < 0 . 0 5$ □
+
+前2个排序轴的物种与环境相关性较高，共解释物种和环境关系总方差的 $9 9 . 4 \%$ ,排序结果科学。在土壤养分因子与草本多样性分析中（表4)，第一排序轴主要反映了有机质、pH、氨氮、硝氮、全氮、全磷的变化趋势，其与排序轴相关系数分别为-0.8608、$0 . 8 3 1 \ 9 \ , 0 . 6 2 9 \ 5 \ , 0 . 8 8 5 \ 7 \ _ { \cdot } - 0 . 8 1 2 \ 8 \ , 0 . 8 2 9 \ 3$ ；第二排序轴主要反映了速效钾的变化趋势，其与排序轴相关系数0.4032。蒙特卡洛分析（MonteCarlpermutationtest)表明，有机质、 $\mathrm { \Delta \cdot \ p H }$ 、氨氮、全氮、全磷对多样性指数均达到极显著影响( $\left( P < 0 . 0 1 \right)$ 。
+
+在排序图中箭头表示环境因子，箭头长度反映的是土壤养分因子与多样性指数变化的关系强弱，箭头连线和排序轴夹角表示某一土壤养分因子与排序轴的相关性，夹角越小相关性越高；环境因子之间夹角表示相关性，夹角小于 $9 0 ^ { \circ }$ 表示正相关，夹角大于 $9 0 ^ { \circ }$ 表示负相关,夹角越小相关性越高[19]。由图5可知，丰富度指数（Margalef、Patrick）、多样性指数（Simpson、Shannon）以及均匀度指数（Pielou）与有机质、全氮均呈负相关，与pH、氨氮、全磷均为正相关。沿冗余分析第一主轴从左到右，丰富度指数、多样性指数、均匀度指数随着有机质、全氮的增加而增加随着pH、氨氮、全磷的增加而减小。沿第二主轴从上到下，随着速效钾的增加丰富度指数、多样性指数、均匀度指数均增加。
+
+将草本多样性指数与土壤养分因子进行spearman相关分析，得到表5。并将与多样性指数呈极显著相关的土壤养分因子与多样性指数做回归分析(表6），其结果表明Patrick指数与有机质、 $\mathrm { \ p H }$ 氨氮呈乘幂关系（ $R ^ { 2 }$ 为 $0 . 6 2 7 . 0 . 5 6 7 . 0 . 7 2 2$ ， $P <$ 0.01），而与全氮、全磷呈线性关系（ $R ^ { 2 }$ 为0.743、0.708, $P < 0 . 0 1 \$ ）;Margalef指数与有机质、全氮呈线性关系( $R ^ { 2 }$ 为0.651、0.719， $P < 0 . 0 1$ ）;Shannon指数与 $\mathrm { \ p H }$ 、氨氮均表现为线性关系（ $R ^ { 2 }$ 为0.539、
+
+Tab.5Correlation of herbaceous layer between diversity indices and soil nutrient factors   
+
+<html><body><table><tr><td rowspan="2">多样性指数</td><td colspan="8">土壤养分因子</td></tr><tr><td>有机质</td><td>pH</td><td>氨氮</td><td>硝氮</td><td>速效磷</td><td>速效钾</td><td>全氮</td><td>全磷</td></tr><tr><td>Patrick 指数</td><td>-0.737 **</td><td>0.868 **</td><td>0.845 **</td><td>0.324</td><td>-0.335</td><td>0.491</td><td>0.879 **</td><td>0.797 **</td></tr><tr><td>Margalef 指数</td><td>-0.775 **</td><td>0.690 *</td><td>0.624 *</td><td>0.570</td><td>-0.085</td><td>0.232</td><td>-0.723 **</td><td>0.627 *</td></tr><tr><td>Shannon-wiener 指数</td><td>-0.620 *</td><td>0.754 **</td><td>0.723 **</td><td>0.563</td><td>-0.106</td><td>0.239</td><td>-0.698 *</td><td>0.592 *</td></tr><tr><td>Simpson 指数</td><td>-0.730 **</td><td>0.559</td><td>0.446</td><td>0.271</td><td>0.448</td><td>-0.295</td><td>-0.396</td><td>0.367</td></tr><tr><td>Pielou指数</td><td>-0.761**</td><td>0.859 **</td><td>0.899 **</td><td>0.301</td><td>-0.289</td><td>0.5</td><td>-0.882 **</td><td>0.405</td></tr></table></body></html>
+
+注： $* *$ 表示 $P < 0 . 0 1$ ： $*$ 表示 $P < 0 . 0 5$ □
+
+表5多样性指数与土壤养分因子相关系数  
+表6多样性指数与土壤养分因子回归分析  
+Tab.6Regression analysis of diversity indices and soil nutrient factors   
+
+<html><body><table><tr><td>多样性指数</td><td>土壤养分因子</td><td>回归方程</td><td>R²</td><td>多样性指数</td><td>土壤养分因子</td><td>回归方程</td><td>R²</td></tr><tr><td rowspan="5">Patrick 指数</td><td>有机质</td><td>y = -0.433x14.024</td><td>0.627</td><td>Shannon-wiener 指数</td><td>pH</td><td>y =0.561x +7.649</td><td>0.539</td></tr><tr><td>pH</td><td>y = 0. 056x7.627</td><td>0.567</td><td></td><td>氨氮</td><td>y =5.021x +4.085</td><td>0.790</td></tr><tr><td>氨氮</td><td>y = 0. 509x4.451</td><td>0.722</td><td>Simpson 指数</td><td>有机质</td><td>y = -1.509x +13.292</td><td>0.672</td></tr><tr><td>全氮</td><td>y = -0.05x +0.155</td><td>0.743</td><td>Pielou 指数</td><td>有机质</td><td>y = 14.301e -20.317x</td><td>0.647</td></tr><tr><td>全磷</td><td>y=0.028x +0.292</td><td>0.708</td><td></td><td>pH</td><td>y = 7.626e0.243x</td><td>0.515</td></tr><tr><td rowspan="2">Margalef 指数</td><td>有机质</td><td>y= -6.654x +13.835</td><td>0.651</td><td></td><td>全氮</td><td>y =0.151e -0.401x</td><td>0.550</td></tr><tr><td>全氮</td><td>y= -0.02x+0.15</td><td>0.719</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+0.790, $P < 0 . 0 1$ );Simpson指数与有机质表现为线性关系( $R ^ { 2 }$ 为0.672, $P < 0 . \ 0 1$ );Pilou指数与有机质、 $\mathrm { \ p H }$ 、全氮均表现为指数关系（ $R _ { 2 }$ 为0.631、0.515、0.550, $P < 0 . 0 1$ ）。
+
+# 3讨论
+
+# 3.1油松林退耕过程中草本多样性
+
+物种多样性是反映森林生态系统平衡的重要指标，而林下植被多样性受立地条件、环境因子、林分密度等因素的影响[14]。本文通过对晋西黄土区不同退耕年限油松林下草本植被多样性调查中发现,随着退耕年限的增加，草本植物的丰富度指数、多样性指数、均匀度指数有减小的趋势，其原因可能是林分郁闭度随着林龄的增加而有所增加，加大种间竞争压力，限制林下草本的发展。汪超等[20]对不同林龄油松林下植被研究中表明，林分郁闭阶段（ $1 7 \sim$ 28a)各物种多样性指数明显下降，与本研究相同。李玉婷等[21]对不同林龄油松林下草本多样性研究表明，草本群落生物多样性随林龄的增加，呈现出非线性增长趋势。这些与本研究的结果并不相同，其原因可能是随着林龄的增加，土壤养分逐渐改善，影响植物的生长和种类组成,进而影响物种的多样性指数；而当林龄增加到一定程度后，林分郁闭度逐渐增加,林内透光性变差，林内种间竞争压力增大，使得林下植被又出现稀疏现象。可见，油松林下草本多样性随着恢复年限的增加，具有波动性和差异性，原因在于多样性除了受土壤养分影响外，可能还与海拔、坡度、坡向等地理环境因子以及林木的树高、胸径、郁闭度等群落结构有关。
+
+# 3.2油松林退耕过程中土壤养分变化
+
+通过研究发现，土壤养分条件随着退耕年限的增加有一定的改善，全氮、有机质、速效钾均具有表聚效应，这与魏强等2研究结果一致。其原因可能是由于凋落物的分解，有机质、N素首先在土壤表层密集，然后再随水或其他介质向下层迁移扩散，从而使土壤有机质、氮素浓度从表层到底层越来越低[22],而有机质又可以吸附一定量的钾离子,使得表层钾离子偏高。本文研究得到，随着退耕年限的增加土壤有机质、全氮均增加，而速效钾的含量有所降低，其他养分因子均呈现波动性变化，这与党鹏等[23]研究结论相似。土壤有机质是影响可持续土壤肥力和生产力的重要因素，对土壤理化性质影响较大[24]。随着林龄增加,林下植被发生改变,进而影响土壤营养供应与植物生长需求之间的平衡，同时向土壤输入植物残体和根系分泌物，对土壤性质产生根本性的影响[5]。土壤养分随退耕年限的变化是一个连续动态的，还需要大量野外实验来进行探究。
+
+# 3.3林下草本与土壤养分相关性分析
+
+物种多样性与生物量及其环境因子的关系是生态学和环境科学领域的热点问题[25-26]。土壤结构与养分状况对植物的生长有重要作用，直接影响植物群落的组成与生理活力，决定着生态系统的结构、功能和生产力水平，是度量退化生态系统生态功能恢复与维持的关键指标之一[27]。吕刚等[28]研究表明，土壤容重、田间持水量、有机质、全磷与植物多样性具有显著的相关性。邢献予等[29]研究得到 Simp-son多样性指数、Shannon-Wiener多样性指数、Pielou均匀度指数与土壤全氮量、有效磷含量呈正相关,与pH呈负相关，油松纯林对土壤性质的改良相比于杨树等较差。而本研究通过冗余分析得到，丰富度指数、多样性指数以及均匀度指数与有机质、全氮均呈负相关,与pH、氨氮、硝氮、全磷均为正相关。其原因可能是氨氮和硝氮是植物能直接吸收的，对植物的生长有直接影响。也有研究表明，除土壤养分因子外的其他环境因子也可影响草本植被多样性。尤业明等[30]通过冗余分析得到,胸高断面积、坡度和海拔对草本层物种组成影响较大，微环境和植物之间的相互作用是影响林下植物群落物种变异的最主要因素。而本研究中土壤养分因子只解释了$4 1 . 4 2 \%$ 的物种多样性变化格局，还有 $5 8 . 5 8 \%$ 的变化部分未能得到相应的解释，说明还有一些未知的环境因子或其他因素在植物生长过程中起了重要的作用。黄土高原地区的空间异质性高，林下草本植被和土壤之间的关系较为复杂，在今后开展不同林龄林下草本植被和土壤关系的研究需要更多的研究样地，同时纳入更多的因子，如土壤微生物因子，以及海拔、坡度、坡向等地理环境因子、林木的树高、胸径、郁闭度等生物因子，以期深刻揭示黄土高原林下植被与土壤养分因子的关系，为黄土高原生态系统的恢复与重建提供依据。
+
+# 4结论
+
+（1）退耕还林后油松林下共出现草本植物8种，隶属6科，8属，其中以铁杆蒿的重要值最大，为27.00；随着退耕年限的增加，草本层的物种多样性指数、丰富度指数、均匀度指数均有所减小。
+
+(2）土壤有机质和全氮均随着退耕年限的增加而增加，退耕 $2 6 \mathrm { ~ a ~ }$ 相比于11a土壤有机质、全氮分别增加了 $5 0 . 1 1 \% . 1 7 . 3 3 \%$ ，土壤氨氮、 $\mathrm { \ p H }$ 、全磷随退耕年限的增加而减小,退耕26a相比于11a氨氮、全磷分别减小了 $5 7 . 8 8 \% . 3 1 . 1 0 \%$ 。
+
+(3）林下草本多样性与土壤有机质、全氮均呈负相关，与 $\mathrm { \ p H }$ 、氨氮、硝氮、全磷均为正相关,林下草本物种多样性在一定程度上可以改变土壤养分特征，土壤养分因子只能解释 $4 1 . 4 2 \%$ 的物种多样性变化格局。
+
+# 参考文献（References）：
+
+[1]陈民生，赵京岚,刘杰,等.人工林林下植被研究进展[J].山东 农业大学学报（自然科学版）,2008,39（2）：321-325.［Chen Minsheng,Zhao Jinglan,Liu Jie,et al.Review on research of understory of plantation[J]. Journal of Shandong Agricultural University（Natural Science Edition）,2008,39(2）:321-325.]   
+[2]Kong W,Xia H,Zhang Y.Minimum sampling area for the monitoring of herb diversity in riparian zone of temperate rivers,China [J].Ecological Research,2016,31(4）:547 -555.   
+[3］刘举,常庆瑞,张俊华,等.黄土高原不同林地植被对土壤肥力 的影响[J].西北农林科技大学学报（自然科学版)，2004,32 （增刊）:111-115.[Liu Ju,Chang Qingrui,Zhang Junhua,et al. Effect of vegetation on soil fertility in diferent woodlands on Loess Plateau[J].Journal of Northwest A&F University（Natural Science Edition）,2004,32（Suppl.）:111-115.]   
+[4] 赵伟红,康峰峰,韩海荣,等.冀北辽河源地区不同林龄油松天 然次生林土壤理化特征的研究.西北林学院学报,2014,29 (3）:1-8.[Zhao Weihong,Kang Fengfeng,Han Hairong,et al. Physicochemical properties of the soils of Pinus tabulaeformi natural secondary stands with different ages in Liaoheyuan area of Northern Hebei[J].Journal of Northwest Forestry University, 2014,29(3):1-8.]   
+[5]Peri PL,Gargaglione V,Pastur G M.Dynamics of above-and below-ground biomass and nutrient accumulation in an age sequence of Nothofagus antarctica forest of Southern Patagonia[J].Forest Ecology and Management,2006,233（1）:85-99.   
+[6]Marzaioli R,D'Ascoli R,De Pascale R A,et al. Soil quality in a Mediterranean area of Southern Italy as related to different land use types[J].Applied Soil Ecology,2010,44(3）：205-212.   
+[7]Chen Y,Wu Q,Liu X,et al. Related analysis between the growth of Chinese Pine and climatic factors in Loess hilly region[J].Bulletin of Soil and Water Conservation,1996,16(2):38-42.
+
+[8］邓娟，上官周平.黄土丘陵区人工和天然油松林物种多样性比 较[J].西北农业学报,2008,17（2）：126-131.［Deng Juan, Shangguan Zhouping.Comparison of the species diversity of natural and artificial Pinus tabulaeformis in hilly loess regions[J].Acta Agriculturae Boreali-Occidentalis Sinica,2008,17(2）:126-131.]
+
+[9]王铁梅，陈云明,张学伍,等.黄土丘陵区人工油松林下植物多 样性和更新调查[J].水土保持通报，2012，32（6)：66－70. [Wang Tiemei,Chen Yunming,Zhang Xuewu,et al. Biodiversity andregenerationof Pinus tabulaeformis forest in loesshillyegion [J].Bulletin of Soil and Water Conservation,2012,32(6）:66 - 70.]   
+[10］王梅,张文辉.不同坡向人工油松林生长状况与林下物种多样 性分析[J].西北植物学报,2009,29（8）:1678-1683.[Wang Mei,ZhangWenhui.Growth and species diversity of Pinus tabulaeformis artificial forest on different slope aspects[J].Acta Botanica Boreali-Occidentalia Sinica,2009,29（8）:1678-1683.]   
+[11］赵小婵.不同林分密度对林地土壤物理性质的影响——以华 北土石山区油松人工林为例［J].安徽农业科学,2015,503 (34）:211-214.[Zhao Xiaochan.Soil physical properties of pine forest under diferent forest management in Rocky Mountain area of northern China[J]. Journal of Anhui Agricultural Sciences,503 (34):211 -214.]   
+[12］陈莉莉,王得祥,张宋智,等.不同密度油松人工林土壤特性及 水源涵养功能研究［J].西北农林科技大学学报（自然科学 版）,2013,41（7）:141-149.[Chen Lili,Wang Dexiang,Zhang Songzhi,et al. Soil properties and water conservation function of $P i$ nus tabulaeformis plantation with different stand densities[J]. Journal of Northwest A&F University（Natural Science Edition）, 2013,41(7) :141 -149.]   
+[13］王晓芳,张景群,王蕾,等.黄土高原油松人工林幼林生态系统 碳汇研究[J].西北林学院学报,2010,25（5）:29-32.[Wang Xiaofang,Zhang Jingqun,Wang Lei,et al. Analysis of carbon sink in artificial forest ecosystem of young Pinus tabulaeformis plantation in Loess Plateau[J].Journalof NorthwestForestry University, 2010,25(5) :29 -32.]   
+[14］贺亮,苏印泉,季志平,等.黄土高原沟壑区刺槐、油松人工林 的碳储量及其分布特征研究［J].西北林学院学报,2007,22 (4）:49-53.[He Liang,Su Yinquan,Ji Zhiping,et al. Study on the carbon storage and distributive character of Robinia and Pinus in Loess Plateau gully area[J]. Journal of Northwest Forestry University,2007,22(4) :49-53.]   
+[15］李民义,张建军,郭宝妮,等.晋西黄土区不同密度油松人工林 林下植物多样性及水文效应[J].生态学杂志,2013,32（5）： 1083-109o.[Li Mingyi,Zhang Jianjun,Guo Baoni,et al.Understory plant species diversity and hydrological effect of Pinus tabulaeformis plantations with different stand densities inLoess Plateau of western Shanxi,China[J].Chinese Journal of Ecology,2013,32 (5):1083 -1090.]   
+[16］马克平,黄建辉.北京东灵山地区植物群落多样性的研究：Ⅱ 丰富度,均匀度和物种多样性[J].生态学报,1995,18（3）;268 -277.[Ma Keping,Huang Jianhui.Plant community diversity in Dongling Mountain,BeiJing,China species richness,evenness and species diversity[J].Acta Ecologica Sinica,1995,18（3）:268-   
+277.] [17]Curtis JT,Mcintosh R P.An upland forest continuum in the prairie-forest border region of Wisconsin[J].Ecology,1951,32（3）：   
+476 -496. [18］中国科学院南京土壤研究所.土壤理化分析［M].上海：上海 科学技术出版社,1978.［Institute of Soil Science Chinese Academy of Sciences.Soil Physicochemical Analysis[M].Shanghai; Shanghai Science and Technology Press,1978.] [19］张金屯.数量生态学［M].北京:科学出版社.2004.［Zhang Jintun.Quantitative Ecology[M].Beijing:Science Press,2004.] [20］汪超,王孝安,王玲,等.不同种植年代油松林植物多样性及土 壤养分变化［J].生态学杂志,2007,26（8）：1182－1186. [Wang Chao,Wang Xiao'an,Wang Ling,etal.Plant species diversity of diferent age Pinus tabulaeform is plantations and its relations with soil fertility[J].Chinese Journal of Ecology,2007,26 (8):1182 -1186.] [21］李玉婷,张建军,赵廷宁,等.不同林龄油松和白扦林地植物多 样性分析[J].中国水土保持科学,2015,13（3):97－103.［Li Yuting,Zhang Jianjun,Zhao Tingning,et al.Plant diversity of $P i$ nus tabulaeformis and Picea meyeri at different stand ages[J].Science of Soil and Water Conservation,2015,13(3）:97-103.] [22］魏强,凌雷,柴春山,等.甘肃兴隆山森林演替过程中的土壤理 化性质［J].生态学报,2012,32（15）：4700－4713.［Wei Qiang,Ling Lei,Chai Chunshan,et al. Soil physical and chemical properties in forest succession process in Xinglong Mountain of Gansu[J].Acta Eclolgica Sinica,2012,32(15）:4700-4713.] [23］党鹏,王乃江,王娟婷,等.黄土高原子午岭不同发育阶段油松 人工林土壤理化性质的变化［J].西北农林科技大学学报（自 然科学版）,2014,42（6）：115-121.［Dang Peng,Wang Naijiang，Wang Juanting，et al.Changesof soil physical-chemical properties of Pinus tabuliformis plantation at different developmental stages in Ziwuling region of LoessPlateau[J].Journal of Northwest A&F University（Natural Science Edition）,2014,42（6）：   
+15-121. ] [24]Hossain M S,Hossain A,Sarkar MA R,et al.Productivity and soil
+
+fertility of the rice-wheat system in the High Ganges River Floodplain of Bangladesh is influenced by the inclusion of legumes and manure[J].Agriculture Ecosystems & Environment,2016,218:40 -52.
+
+[25］陈生云,刘文杰,叶柏生,等.疏勒河上游地区植被物种多样性 和生物量及其与环境因子的关系[J].草业学报,2011,20（3)： 70-83.[Chen Yunsheng,Liu Wenjie,Ye Baisheng,et al.Species diversity of vegetation in relation to biomass and environmental factors in the upper area of the Shule River[J].Acta Prataculturae Sinica,2011,20(3）:70-83.]   
+[26]Van Couwenberghe R,Colet C,Lacombe E,et al. Gap partitioning among temperate tree species across a regional soil gradient in windstorm-disturbed forests[J].Forest Ecologyand Management, 2010,260(1) : 146 -154.   
+[27]Tilman D,Wedin D,Knops J.Productivity and sustainability influenced by biodiversity in grassland ecosystems[J].Nature,2010, 379(6567) :718-720.   
+[28］吕刚,王婷,李叶鑫，等.樟子松固沙林更新迹地草本植物多样 性及其对土壤理化性质的影响[J].生态学报,2017,37（24)： 8294-83O3.［Lyu Gang,Wang Ting,Li Yexin,etal.Herbaceous plant diversity and soil physicochemical properties on the regeneration slash of Pinus sylvestris var.mongolica[J].Acta Eclolgica Sinica,2017,37(24) :8294-8303.]   
+[29］邢献予,刘平,魏忠平,等.渤海沙质海岸不同防护林下土壤理 化性质及草本植物多样性变化[J].沈阳农业大学学报,2016, 47(6）:673-680.[Xing Xianju,Liu Ping,Wei Zongping,et al. The changes of soil physical and chemical properties and herb diversity under different shelter forests in the Bohai Sandy Coast[J]. Journal of Shenyang Aricultural University,2016,47（6）:673- 680.]   
+[30］尤业明,徐佳玉,蔡道雄,等.广西凭祥不同年龄红椎林下植物 物种多样性及其环境解释[J].生态学报,2016,36(1)：164- 172.[You Yeming,Xu Jiayu,Cai Daoxiong,et al.Acta environmental factors affecting plant species diversity of understory plant communities in a Castanopsis hystrix plantation chronosequence in Pingxiang,Guangxi,China[J].Acta Ecologica Sinica,2016,36 (1):164-172.]
+
+# Relationship between species diversity at the herbaceous stratum and soil nutrients in Pinus tabulaeformis plantations of various ages on the Loess Plateau of western Shanxi Province, China
+
+LIU Jun-ting'，ZHANG Jian-jun1,²，WANG Heng-xing¹， LI Dan-lu’，LI Zhuo-rant (1．School of Soil and Water Conservation,Beijing Forestry University,Beijing 1Ooo83,China; 2．National Field Research Station ofForest,Jixian O422Oo,Shanxi,China)
+
+Abstract:In Pinus tabulaeformis plantations of various ages (11,17,22,and26 years）,we assessedchanges in nutrient contents at various soil layers （ $0 - 6 0 \ \mathrm { c m }$ ）and explored the relationship between species diversity at the herbaceous stratum and soil nutrients using redundancy and regresion analyses.The results are as folows.Eight understory species belonging to eight genera of six families were recorded.With increasing plantation age,species diversity（Margalef and Patrick indices）,richness（Simpsonand Shannon indices）,and evenness（Pielou'sindex） atthe herbaceous stratum decreased.Artemisia gmelinii showed the highest frequencyof occurrnceat the herbaceous stratum,with an importance value of 27.Moreover,average soil organic matterand total nitrogen contents increased with increasing rehabilitation time,with obvious surface efects.Conversely,ammonia nitrogenand total phosphorus contents and $\mathrm { \ p H }$ decreased with increasing rehabilitation time.With increasing plantation age,potassium available in the soildecreased at first and then increased,whereas phosphorus available inthe soil showed theopposite trend. Organic matter,total nitrogen,and available potassum contents as well as $\mathrm { \ p H }$ decreased with increasing soil depth.According toredundancyanalysis,species diversitywasaffcted bysoil nutrientsandalsobyother environmental factors,explaining $4 1 . 4 2 \%$ of variation. Species richness,diversity,and evenness indices were negatively correlated with organic mattrand total nitrogen contentsand positively corelated with ammonia nitrogenand total phosphorus contents and $\mathrm { \ p H }$ .Regression analysis indicated that the Patrick index showed a significant power function relationship with organic matter content, $\mathrm { \ p H }$ ,and ammonia nitrogen content ( $\mathit { \Delta } R ^ { 2 } = 0 . 7 4 3 , 0 . 7 0 8 ; P < 0 . 0 1 )$ ： The Shannon index was linearly correlated with $\mathrm { \ p H }$ and ammonia nitrogen content ( $R ^ { 2 } = 0 . 5 3 9$ and 0.790,respectively）.The Simpson index was linearly correlated with organic matter content （ $R ^ { 2 } = 0 . 6 7 2$ ）;The Palau’s index was exponentially correlated to $\mathrm { p H }$ and total nitrogen and organic matter contents ( $R ^ { 2 } = 0 . 6 3 1 , 0 . 5 1 5$ ,and 0.550, respectively).In conclusion,soil nutrients affect species diversity at the herbaceous stratum.
+
+Key words:Pinus tabulaeformis；herbaceous diversity；soil nutrients；RDA；regresion analysis；Shanxi Province

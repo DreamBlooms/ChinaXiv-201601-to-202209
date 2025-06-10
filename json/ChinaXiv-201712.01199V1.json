@@ -1,0 +1,281 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "丙戊酸钠增强阿霉素的体外抗乳腺癌作用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "童旭辉,郑超，蒋国君，董淑英蚌埠医学院药学系药理学教研室,安徽 蚌埠 233030摘要：目的观察丙戊酸钠对阿霉素体外抗乳腺癌Hs578T细胞作用的影响。方法Westemblot检测缝隙连接蛋白 $\\mathrm { C x } 4 3$ 的表达;MTT法检测阿霉素的细胞毒性;AmmexinV/PI双染法观察阿霉素对细胞早期凋亡的影响;Hochest33258荧光染色法检测阿霉素对细胞晚期凋亡的影响。结果Westernblot结果显示丙戊酸钠可以显著增强缝隙连接蛋白 $\\mathrm { C x } 4 3$ 的表达( $P { < } 0 . 0 1$ ;MTT结果表明在细胞间缝隙连接功能形成的条件下,丙戊酸钠联用阿霉素组的细胞存活率显著低于阿霉素组 $( P { < } 0 . 0 1 )$ ; Annexin V/PI双染法显示丙戊酸钠联用阿霉素组的细胞早期凋亡率显著高于阿霉素组 ${ \\scriptstyle \\cdot } { \\cal P } { \\scriptstyle < } 0 . 0 1 .$ )；Hochest33258荧光染色结果显示丙戊酸钠联用阿霉素组的细胞晚期凋亡率显著高于单用阿霉素组 $( P { < } 0 . 0 1 )$ 。结论 丙戊酸钠可显著增强阿霉素的细胞毒性及其诱导的细胞凋亡作用，其机制可能与增强缝隙连接通讯功能有关。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：乳腺癌;丙戊酸钠;阿霉素；凋亡",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sodium valproate enhances doxorubicin cytotoxicity in breast cancer cells in vitro ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TONG Xuhui, ZHENG Chao, JIANG Guojun, DONG Shuying Departmentofharmacology,Facultyofharmacy,BengbuedicalCollege,Bengbu33o3o,ina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ObjectiveTo investigate the effectof sodium valproate,a histonedeacetylase inhibitor，on the cytotoxicity of doxorubicin in breast cancer cells. Methods Western blotting was used to assess $C x 4 3$ protein expression in breast cancer Hs578Tcelsexposed todoxorubicinand sodiumvalproate.MTTassaywas used todetermine thecytotoxicityof doxorubicin; annexin V/PI doublestainingand Hochest 33258 fluorescence staining were employed to detect doxorubicin-induced early and late apoptosis, respectively. Results Western bloting showed that sodium valproate significantly increased $C { \\bf x } 4 3$ protein expression in Hs578T cells $( P { < } 0 . 0 1 )$ . The cells exposed to both sodium valproate and doxorubicin showed significantly lowered cell viability compared with the cells exposed to doxorubicin alone $_ { ( P < 0 . 0 1 ) }$ . Exposure to both sodium valproate and doxorubicinresulted insignificantly increasedearlyandlatecellapoptosis ratecompared with doxorubicin treatment alone $( P { < } 0 . 0 1 )$ .Conclusion sodium valproate can significantly enhance the cytotoxicity of doxorubicin and increase doxorubicin-induced apoptosis in breast cancer cels in vitro possbly by enhancing the gap junction function. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: breast cancer; sodium valproate; doxorubicin; apoptosi: ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "乳腺癌是女性最常见的恶性肿瘤，且发病的年龄趋向年轻化。目前乳腺癌的治疗以包括手术治疗、化学药物治疗和放射治疗在内的综合治疗为主。在综合治疗中，化学药物疗法在接受手术及不能接受手术的乳腺癌患者中均有着极其重要的地位[1-2]。蒽环类抗生素阿霉素是目前乳腺癌化疗方案中的一线药物，但其心脏毒性、骨髓抑制等不良反应及耐药性的产生，均限制了其临床应用[3-4]。因此寻找增强乳腺癌对阿霉素敏感性的方法对减少阿霉素耐药、提高其疗效和扩大其临床应用范围具有重要的指导意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "缝隙连接(GJ)由连接蛋白组成，6个连接蛋白环绕在一起组成一个“半通道”，位于不同细胞膜上的\"半通道\"对接在一起形成一个GJ,GJ是细胞之间进行物质交流的主要连接通道。研究结果表明，缝隙连接蛋白是目前公认的一种抑癌因素，上调缝隙连接蛋白通讯(gap junction intercellular communication,GJIC)功能可使包括乳腺癌在内的肿瘤细胞对抗肿瘤药物及放射治疗的敏感性显著增强[5-8],并且组蛋白去乙酰化酶抑制剂可显著上调GJIC功能[9]。因此，本研究旨在探讨丙戊酸钠作为组蛋白去乙酰化酶抑制剂对阿霉素细胞毒性及其诱导细胞凋亡的影响，并且初步研究其可能机制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 材料和方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1.1细胞株人乳腺癌细胞株Hs578T购于中科院上海细胞库1.1.2试剂丙戊酸钠、阿霉素;SDS;MTT;二甲基亚砜(DMSO) ; $\\mathrm { C x } 4 3$ 一抗购自Sigma-Aldrich公司;DMEM培养基、胰蛋白酶、HEPES、新生牛血清购自Gibco公司；BCA蛋白浓度测定试剂盒购自Bio-Rad公司。其它常用试剂均为国产分析纯级",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1细胞培养 使用含 $10 \\%$ 新生牛血清的DMEM培养液，在温度 $3 7 \\ \\mathrm { { ^ { \\circ } C } }$ 、体积分数 $5 \\%$ （204号 $\\mathrm { C O } _ { 2 }$ 的细胞培养箱中培养乳腺癌细胞 $\\mathrm { H s } 5 7 8 \\mathrm { T } _ { \\mathrm { ( } }$ □",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2MTT法检测细胞存活率取对数生长期的Hs578T细胞，用 $0 . 2 5 \\%$ 胰酶消化后，分别按高低密度接种细胞，以获得有或无缝隙连接形成的细胞。高密度接种细胞（有GJ形成的细胞）：按 $5 { \\times } 1 0 ^ { 4 }$ cells/ml的密度将Hs578T细胞用DMEM高糖培养基接种到96孔板， $2 4 \\mathrm { h }$ 细胞生长融合后加人相应的药物预处理。低密度接种细胞(无GJ形成的细胞）：按 $1 0 0 0 \\ \\mathrm { m l }$ 的体积将 $\\mathrm { H s } 5 7 8 \\mathrm { T }$ 用DMEM培养基接种到96孔板，24h后镜下观察，细胞间无直接接触，再加入相应的药物预处理。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "细胞接种 $2 4 \\mathrm { h }$ 后加入丙戊酸钠预处理。然后加入$8      \\ \\mathrm { \\textmu m o l / L }$ 阿霉素作用 $2 4 ~ \\mathrm { h } _ { \\odot }$ 。检测时每孔加入 $5 ~ \\mathrm { m g / m l }$ MTT,继续孵育 $4  { \\mathrm { ~ h ~ } _ { \\circ } } \\ 4  { \\mathrm { ~ h ~ } }$ 后小心缓慢地吸去孔内培养液，每孔加入DMSO,轻轻震荡 $1 0 \\mathrm { m i n }$ 。以空白对照组比色调零，在酶联免疫检测仪上测定各孔的吸光度值，波长设为 $5 7 0 \\mathrm { n m }$ 。根据公式计算细胞的存活率：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "D药物处理组-D 校正组细胞存活率= $\\times 1 0 0 \\%$ D对照组-D校正组",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3AnnexinV-FITC/PI双染法检测细胞的早期调亡药物处理方法同 $1 . 2 . 2 _ { \\scriptscriptstyle \\mathrm { 0 } }$ 将 $1 \\ \\mu \\mathrm { m o l / L }$ 阿霉素作用8h后细胞离心( $2 0 0 0 \\mathrm { r / m i n }$ 离心 $5 \\mathrm { m i n } ,$ 收集;贴壁细胞用胰酶消化收集；用PBS洗涤细胞2次 ${ \\mathrm { 2 0 0 0 ~ r / m } }$ 离心 $5 \\mathrm { m i n }$ 收集$( 1 { \\sim } 5 ) \\times 1 0 ^ { 5 }$ cells;加入 $5 0 0 ~ \\mu \\mathrm { l }$ 的BindingBuffer悬浮细胞;加入 ${ 5 \\mu \\mathrm { l } }$ AnnexinV混匀后，加入 ${ 5 } \\mu \\mathrm { l } \\mathrm { P I }$ 混匀;室温、避光、反应 $5 { \\sim } 1 5 \\ \\mathrm { m i n }$ ；在 $^ { \\textrm { 1 h } }$ 内进行流式细胞仪检测。早期凋亡细胞处于左下象限，即Annexin $\\mathrm { \\Delta V ( + ) , P I ( - ) }$ O",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.4Hochest33258荧光染色法检测细胞的晚期调亡药物处理方法同1.2.2。将 $1 \\ \\mu \\mathrm { m o l / L }$ 阿霉素作用 $2 4 \\mathrm { h }$ 后细胞使用PBS冲洗3次； $4 \\%$ 多聚甲醛固定 $1 0 \\mathrm { m i n }$ 吸掉培养液;PBS冲洗 $5 \\mathrm { m i n } /$ 次，共1次。每孔加入浓度为 $1 0 ~ \\mathrm { \\mu g / m l }$ 的Hochest 33258染色液 $0 . 5 ~ \\mathrm { m l }$ ，避光染色$2 0 ~ \\mathrm { m i n }$ 。PBS冲洗 $5 \\mathrm { m i n } / \\mathrm { \\mathit { l } }$ ，共3次;荧光显微镜激发滤片选用UV激发滤片，阻断滤片为 $4 0 0 { \\sim } 5 0 0 \\mathrm { n m }$ 。凋亡细胞的核呈亮蓝色，或呈分叶、碎片状、边集。随机视野下在100个细胞中计数凋亡细胞数，计算凋亡率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.5Western blot检测细胞内 $\\mathrm { C x } 4 3$ 蛋白的表达 使用丙戊酸钠分别处理细胞 $6 、 1 2 、 2 4 \\mathrm { ~ h ~ }$ ，提取蛋白，上样，电泳、转膜。抗体稀释比例为一抗 $( 1 : 2 0 0 ) { : 2 0 0 } \\mu \\mathrm { l }$ 一抗稀释液 $+ 1 \\mu \\mathrm { l } \\mathrm { c } \\mathrm { x } 4 3$ 抗体;FITC-羊抗小鼠 $\\operatorname { I g G } ( 1 : 2 0 0 )$ ：200μl $5 \\%$ 正 $3 \\mathrm { S A } { + } 1 \\mu \\mathrm { l }$ 二抗;显影、曝光; $\\beta \\cdot$ -actin蛋白检测抗体",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "稀释比例为 $1 { : } 4 0 0 0 _ { \\circ }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3统计学处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "结果使用SPSS13.0软件进行分析，数据资料以均数 $\\stackrel { \\cdot } { \\pm }$ 标准差表示,采用单因素方差分析，两两比较采用 $q$ 检验。统计图表采用SigmaPlot10.0绘制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1丙戊酸钠对缝隙连接蛋白 $\\mathrm { C x } 4 3$ 表达的影响",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验中首先检测了丙戊酸钠对 $\\mathrm { C x } 4 3$ 表达的影响。我们此前已报导，丙戊酸钠在 $0 { \\sim } 1 0 \\ \\mathrm { m m o l / L }$ 浓度范围内对乳腺癌细胞生长几无影响8，实验中采用的丙戊酸钠浓度处于该范围内。结果(图1)显示，5mmol/L丙戊酸钠处理 $\\mathrm { H s } 5 7 8 \\mathrm { T }$ 细胞的时间分别为6、12、24h时，均可增强 $\\mathrm { C x } 4 3$ 的表达，其中以 $2 4 \\mathrm { h }$ 作用最显著。与对照组相比，丙戊酸钠预处理后 $6 、 1 2 、 2 4 \\mathrm { h }$ 细胞缝隙连接蛋白表达分别增加了（ $6 5 . 2 6 { \\pm } 4 . 9 0 ) \\%$ 、 $( 8 5 . 6 7 \\pm 2 . 3 2 ) \\%$ 和（204号 $( 9 2 . 8 9 { \\pm } 5 . 7 1 ) \\% ( P { < } 0 . 0 1 )$ O",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c149e090a536b9fa9aca02568983afd812ed24be68ca958c24a3a7340e463201.jpg",
+        "img_caption": [
+            "图1丙戊酸钠对乳腺癌Hs578T细胞 $\\mathrm { C x } 4 3$ 蛋白表达的影响 Fig.1 Effect of sodium valproate on the expression of $C x 4 3$ in Hs578T cells. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 丙戊酸钠对阿霉素细胞毒性的影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验采用MTT法测定丙戊酸钠对阿霉素细胞毒性的影响,以细胞存活率(surviving fraction,SF)的高低作为阿霉素细胞毒性指标。如图2所示，在Hs578T细胞中高密度接种(有GJ形成)条件下， $8 ~ \\mu \\mathrm { m o l / L }$ 阿霉素单用组的细胞存活率为 $( 4 6 . 8 0 { \\pm } 3 . 4 1 ) \\%$ ，采用 $5 \\mathrm { m m o l / L }$ 丙戊酸钠作用 $2 4 \\mathrm { h }$ 增强GJ功能后，阿霉素作用下的细胞存活率[ $( 2 1 . 4 2 { \\pm } 2 . 4 5 ) \\% , P { < } 0 . 0 1 \\$ 显著低于阿霉素单用组；而在低密度接种(无GJ形成)条件下，使用 $5 \\mathrm { m m o l } / \\mathrm { L }$ 丙戊酸钠作用 $2 4 \\mathrm { ~ h ~ }$ 再使用阿霉素后细胞存活率$[ ( 7 2 . 0 1 \\pm 5 . 1 3 ) \\% ]$ 与阿霉素单用组[ $( 7 6 . 1 2 { \\pm } 4 . 5 1 ) \\%$ 相比无显著差别 $( P { > } 0 . 0 5 )$ 。该结果表明只有在GJ功能形成下，丙戊酸钠才能增强阿霉素的细胞毒性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3丙戊酸钠对阿霉素诱导细胞凋亡的影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为进一步证实GJ存在下丙戊酸钠对阿霉素抗肿瘤作用的影响，实验采用AnnexinV/PI双染法和Hochest33258荧光染色法分别检测在有GJ形成的条件下，丙戊酸钠对阿霉素诱导的细胞早、晚期凋亡的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/95646eb6bb2a0350225934d578cf372f05eb4fa1d466da672ecddecc0a5cea15.jpg",
+        "img_caption": [
+            "图2丙戊酸钠对阿霉素作用后乳腺癌Hs578T细胞生存率的影响",
+            "Fig.2Effect of sodium valproate on the surviving fraction of Hs578T cells treated with doxorubicin. $* * P { < } 0 . 0 1$ . ADM: Doxorubicin; VPA: Sodium valproate. ",
+            "图3丙戊酸钠对阿霉素作用后乳腺癌Hs578T细胞早期凋亡率的影响 Fig.3Efect of sodium valproate on early apoptosis rate of Hs578Tcels treated with doxorubicin. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 丙戊酸钠增强阿霉素诱导的细胞早期凋亡使用 $5 \\mathrm { m m o l } / \\mathrm { L }$ 丙戊酸钠预处理 $\\mathrm { H s } 5 7 8 \\mathrm { T }$ 细胞 $2 4 \\mathrm { h }$ ，再用$1 \\ \\mu \\mathrm { m o l / L }$ 阿霉素处理细胞 $8 \\mathrm { ~ h ~ }$ ,阿霉素诱导的细胞早期凋亡率结果见图3。可见 $1 \\ \\mu \\mathrm { m o l / L }$ 阿霉素单用组的细胞早期凋亡率为 $( 9 . 1 3 { \\pm } 0 . 8 6 ) \\%$ ,5mmol/L丙戊酸钠处理 $2 4 \\mathrm { ~ h ~ }$ 后， $1 \\ \\mathrm { \\mu m o l / L }$ 阿霉素诱导的细胞早期凋亡率为中 $( 1 7 . 2 0 { \\pm } 0 . 4 4 ) \\%$ ，显著高于阿霉素单用组 $( P { < } 0 . 0 1 )$ 02.3.2 丙戊酸钠增强阿霉素诱导的细胞晚期凋亡使用 $5 \\mathrm { m m o l } / \\mathrm { L }$ 丙戊酸钠预处理Hs578T细胞 $2 4 \\mathrm { h }$ ,再用$1 \\ \\mu \\mathrm { m o l / L }$ 阿霉素处理细胞 $2 4 \\mathrm { h }$ ，阿霉素诱导的细胞晚期凋亡率结果见图4。可见 $1 \\ \\mu \\mathrm { m o l / L }$ 阿霉素单用组的细胞晚期凋亡率为 $( 6 . 6 7 { \\pm } 0 . 3 6 ) \\%$ ,5mmol/L丙戊酸钠处理 $2 4 \\mathrm { ~ h ~ }$ 后， $1 \\ \\mu \\mathrm { m o l / L }$ 阿霉素诱导的细胞早期凋亡率为中 $( 1 2 . 0 0 { \\pm } 0 . 6 7 ) \\%$ ，显著高于阿霉素单用组 $( P { < } 0 . 0 1 )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究结果首先表明丙戊酸钠作为一种组蛋白去乙酰化酶抑制剂可显著增强缝隙连接蛋白 $\\mathrm { C x } 4 3$ 的表达，在此基础上实验中采用MTT法和AnnexinV/PI双染法和Hochest33258染色法分别观察丙戊酸钠对阿霉素细胞毒性及诱导细胞早期、晚期凋亡的影响。结果表明只有在高密度接种细胞下(GJ形成)丙戊酸钠可以显著增强阿霉素对乳腺癌Hs578T细胞的生长抑制作用；而在低密度接种(无GJ形成)下，丙戊酸钠对阿霉素的生长",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Control VPA ADM VPA+ADM Q1-UR T1 Q1-UR O1 Q1-UR Q1-UL Q1-UR 0.7% 1.7% 3.1% 17.1% 90I 90I 国 mT 副 0I OI 10 10 PI 8 美 mr TTHI TmII 10²104 10 106 107.2 10²1104 10 106 107.2 10104 10 106 107.2 10104 10 106 107.2 FL1-A FL1-A FL1-A FL1-A ? Annexin V ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "抑制无影响。该结果表明丙戊酸钠对阿霉素作用的影响可能与GJ功能增强有关。此外，在GJ形成时，丙戊酸钠亦使阿霉素诱导的早期、晚期凋亡率亦显著增高。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在肿瘤的化学药物治疗中，连接蛋白及由其形成的GJIC功能可能会通过“旁观者效应\"增强抗肿瘤药物的作用[10-13]。旁观者效应是在基因治疗肿瘤中发现的现象，即被转染有自杀基因的肿瘤细胞对周围未导入自杀基因的肿瘤细胞也有抑制生长的效应。阿霉素属于细胞周期非特异性药物，该药可嵌合于DNA碱基对之间并紧密结合到DNA上，因此可抑制DNA以及DNA依赖性RNA的合成。因此我们推测，阿霉素在引起乳腺癌细胞死亡/调亡的同时，可能诱导细胞产生了某种可以通过GJ传递的“死亡信号”，这种死亡信号通过丙戊酸钠增强的GJIC传递到周围的细胞，从而增强了阿霉素抑制细胞生长及诱导凋亡作用。至于通过GJ传递的“死亡信号”，Decrock等[14]认为通过连接蛋白形成的通道，影响凋亡信号的可能分子中，三磷酸肌醇是关键因素。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5049a5512ebf6dfcf95b92ec384d107cf1c71ee88db21a31b0fd158494521d54.jpg",
+        "img_caption": [
+            "图4丙戊酸钠对阿霉素作用后乳腺癌Hs578T细胞晚期凋亡率的影响 Fig.4EffectofsodiumvalproateolateapoptosisrateofHs578celstreatedwithdoxorubicin(Hchest33258stainingoriginal magnification: $\\times 2 0 0$ ). A: Control group; B: VPA group; C: ADM group; D: VPA $. + .$ ADM group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目前认为药物主要通过两种机制影响细胞GJIC功能：影响缝隙连接通道的通透性以及改变连接蛋白的结构、数量及分布。DNA的甲基化和组蛋白去乙酰化是基因转录抑制的两种重要途径，组蛋白去乙酰化酶可使组蛋白去乙酰化，从而抑制基因转录。丙戊酸钠作为一种组蛋白去乙酰化酶抑制剂，可能会通过抑制组蛋白去乙酰化酶活性，增强连接蛋白 $\\mathrm { C x } 4 3$ 蛋白表达，从而增强GJIC功能[15]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本实验首次证实丙戊酸钠增强阿霉素的抗肿瘤作用，并且该作用可能与增强 $\\mathrm { C x } 4 3$ 蛋白的表达有关，这为临床乳腺癌化疗中提高抗肿瘤药物的细胞毒性、降低其耐药性的发生提供了新的治疗策略。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Kuschel B,Lux MP,Goecke TO,et al. Prevention and therapy for BRCA1/2 mutation carriers and women at high risk for breast and ovarian cancer[J].Eur JCancer Prev,20oo,9(3): 139-50.   \n[2]Edlich RF,Winters KL,Lin KY.Breast cancer and ovarian cancer genetics[J].JLong Term Eff Med Implants,2005,15(5): 533-45.   \n[3]Jones SE,Collea R，Paul D,et al．Adjuvant docetaxel and cyclophosphamide plus trastuzumab in patients with HER2- amplified early stage breast cancer:a single-group,open-label, phase 2 study[J].Lancet Oncol,2013,14(11): 1121-8.   \n[4]Liu ZW,Niu XL,Chen KL,et al. Selenium attenuates adriamycininducedcardiacdysfunctionviarestoringexpressionof ATP-sensitive Potassium channels in rats[J].Biol Trace Elem Res, 2013,153(1/3):220-8.   \n[5]Salameh A,Blanke K,Dhein S.Mind the gap!Connexins and pannexins in physiology，pharmacology and disease [J].Front Pharmacol,2013,4:144.   \n[6]Chang WW,Lai CH,Chen MC,et al.Salmonella enhance chemosensitivity in tumor through connexin 43 upregulation[J].Int JCancer,2013,133(8):1926-35.   \n[7］蒋国君,童旭辉,祝晓光,等.在Hs578T乳腺癌细胞由 $\\mathrm { C x } 4 3$ 组成的细 胞缝隙连接对阿霉素细胞毒性的影响[J].中国药理学通报，2012,28 (5): 641-7.   \n[8］郑 超,董淑英,童旭辉,等.丙戊酸钠对乳腺癌细胞缝隙连接功能的增 强作用及其机制[J].南方医科大学学报,2013,33(1):66-9.   \n[9]Asdklund T,Appelskog IB，Amemerpohl O，et al.Histone deacetylase inhibitor 4-phenyl-butyratemodulatesglial fibrillary acidicproteinandconnexin43expression，andenhances gap-junction Communication,in human glioblastoma cells[J].Eur J Cancer,2004,40(7): 1073-81.   \n[10] Teleki I, Krenacs T, Szasz MA,et al. The potential prognostic value of connexin 26 and 46 expression in neoadjuvant-treated breast cancer[J].BMC Cancer,2013,13:50.   \n[11]Ablasser A,Schmid-Burgk JL,Hemmerling I,et al. Cell intrinsic immunity spreads to bystander cels via the intercellular transfer of cGAMP[J].Nature,2013,503(7477): 530-4.   \n[12] Xiao J,Zhang G,Qiu P,et al. Tanshinone IA increases the bystander effect of herpes simplex virus thymidine kinase/ ganciclovir gene therapy via enhanced gap junctional intercellular communication[J].PLoS One,2013,8(7): e67662.   \n[13] Colombo BM,Benedetti S,Otolenghi S,et al. The \"bystander effect\":association of U-87 cell death with ganciclovir-mediated apoptosis of nearby cells and lack of effect in athymic mice[J]. Hum Gene Ther,1995,6(6): 763-72.   \n[14]Decrock E, Krysko DV, Vinken M,et al. Transfer of IPthrough gap junctions is critical, but not sufficient,for the spread of apoptosis [J].Cell Death Differ,2012,19(6): 947-57.   \n[15] Selokar NL, St John L,Revay T, etal.Effect of histone deacetylase inhibitorvalproicacidtreatmentondonorcellgrowth characteristics,cell cycle arrest,apoptosis,and handmade cloned bovine embryo production eficiency[J].Cell Reprogram,2013,15 (6): 531-42. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（编辑：黄开颜）",
+        "page_idx": 3
+    }
+]

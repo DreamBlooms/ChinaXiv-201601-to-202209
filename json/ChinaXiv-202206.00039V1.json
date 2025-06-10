@@ -1,0 +1,498 @@
+[
+    {
+        "type": "text",
+        "text": "南疆盆地亏缺灌溉和覆膜对油莎豆生物量及产量的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "丁雅1,234，杨建明5，李利2.34，张志浩2.34，曾凡江1.2.3.4  \n(1.新疆大学资源与环境科学学院,新疆乌鲁木齐830046；2.中国科学院新疆生态与地理研究所新疆荒漠植物  \n根系生态与植被修复重点实验室,新疆乌鲁木齐830011；3.中国科学院新疆生态与地理研究所荒漠与绿洲生态国家重点实验室,新疆乌鲁木齐830011；4.新疆策勒荒漠草地生态系统国家野外科学观测研究站，新疆 策勒848300；5.新疆维吾尔自治区林业和草原局生态保护修复处,新疆 乌鲁木齐830011)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：研究南疆盆地油莎豆(Cyperus esculentus)滴灌覆膜的效果和最适宜的灌溉制度,为构建南疆盆地油莎豆节水高产管理栽培模式提供参考。通过1a的试验,在覆膜(M)和不覆膜(NM)条件下,设置3种水分处理水平，即：CK处理(对照，以当地常用灌溉量 $5 3 1 6 . 4 5 ~ \\mathrm { m } ^ { 3 } \\cdot \\mathrm { h m } ^ { - 2 }$ ） $\\phantom { + } \\cdot  { \\mathrm { T 1 } }$ 处理（灌溉量为 $3 4 3 1 . 4 0 ~ \\mathrm { m } ^ { 3 } \\cdot \\mathrm { h m } ^ { - 2 } ,$ )和T2处理（灌溉量为$4 1 3 3 . 8 5 ~ \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 } .$ ),灌溉频率为6\\~10d,研究覆膜和水分控制对油莎豆生长、品质、产量和水分利用效率的影响。结果表明：(1）油莎豆的密度受水处理的影响显著( $\\cdot P < 0 . 0 5$ )，而根冠比受水处理影响不显著( $\\mathrm { \\Delta } P > 0 . 0 5$ )。(2）覆膜处理的草粗脂肪、可溶性淀粉、可溶性糖含量比未覆膜平均提高 $5 8 . 8 2 \\% . 3 . 3 5 \\%$ 和 $1 7 . 2 0 \\%$ ,覆膜处理块茎的粗脂肪含量、可溶性淀粉、可溶性糖含量均高于未覆膜的，分别增加了 $7 . 4 8 \\% . 2 . 5 6 \\%$ 和 $2 . 5 5 \\%$ ,且水处理间差异不显著( $\\cdot P > 0 . 0 5 ,$ ），但是均在T2处理达到最大。（3）产量和水分利用效率随灌溉量增加呈先增加后降低的趋势,其中覆膜条件下,T2处理的草和块茎的产量最大，分别为 $3 9 7 4 . 5 5 \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ 和 $5 2 5 3 . 8 5 ~ \\mathrm { k g \\cdot h m ^ { - 2 } }$ ,较CK处理分别显著增加 $6 . 4 5 \\%$ 和 $3 6 . 9 5 \\%$ 中 $\\cdot P < 0 . 0 5 ,$ ,较未覆膜条件下，T2和CK平均产量显著增加 $2 9 . 4 1 \\%$ 和 $3 4 . 7 6 \\% ( P < 0 . 0 5 )$ ，水分利用效率也在T2处理达到最大值,其中覆膜处理下,草和块茎在T2处理的水分利用效率较CK显著提高 $3 8 . 6 3 \\%$ 和 $3 4 . 3 3 \\% ( P < 0 . 0 5 )$ ；与T2(覆膜)处理相比，未覆膜条件下CK、T2处理的草和块茎的水分利用效率分别显著提高 $3 8 . 9 1 \\%$ 和 $3 4 . 3 3 \\% ( P < 0 . 0 5 )$ ，覆膜处理对草的水分利用效率差异不显著( $\\cdot P { > } 0 . 0 5$ ),但是对块茎的水分利用效率差异显著（ $\\cdot P < 0 . 0 5$ )。因此，在覆膜条件下，灌溉定额为 $4 1 3 3 . 8 5 ~ \\mathrm { m } ^ { 3 } \\cdot \\mathrm { h m } ^ { - 2 } ( \\mathrm { T } 2 )$ 时，不仅提高了油莎豆的品质和产量，也提高了水分利用效率，节约水资源。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：油莎豆；灌溉量；品质；产量；水分利用效率；南疆盆地",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "水分是植物生长最重要的限制因素[1-2],在农业生产的过程中，一贯高投入、高产出的思路致使作物生长发育中灌水过量的现象严重。我国是农业大国,2019年农业灌溉用水占总用水量的 $6 1 . 1 5 \\% ^ { [ 3 ] }$ ，水资源的过度损耗制约了农业的发展。尤其是干旱区农业生产过程中，水资源极度匮乏，实现节水灌溉显得尤为重要。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在水资源匮乏的干旱区，一般会采用滴灌和覆膜相结合的模式保持土壤湿度，提高作物对水分的利用效率。滴灌作为一种新型灌溉方式，因其显著提高灌溉效率、减少土壤蒸发量、提高农作物的产量和品质等特性,在农业生产中得到广泛应用[4-9]。覆膜在农田应用中起到了增温、增湿、保水、保的重要作用，能够明显增加作物的产量，提高水分利用效率，在西北干旱区应用较为广泛[0]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "油莎豆(Cyperusesculentus)属莎草科莎草属一年生草本植物，原产于非洲埃及以及尼罗河沿岸地区。1960年我国从保加利亚引进[1],并在北京、内蒙古、河南、新疆等地栽培。油莎豆具有强大的分蘖能力，茎分化成叶，地上茎叶高度达到 $1 . 0 \\sim$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$1 . 5 \\mathrm { ~ m } ^ { [ 1 2 ] }$ ,富含纤维素、粗蛋白等物质,可供食草动物食用;其地下块茎富含油脂、淀粉、糖、蛋白质等物质，含油率约 $20 \\% { \\sim } 3 2 \\%$ ,在榨油后还可以生产淀粉、制糖、酿酒[13-15]。因此,油莎豆是一种具有优质、高产、利用价值高等特点，且集粮、油、牧于一体的新型经济作物[]。油莎豆抗逆性强、耐贫瘠、根系发达，在沙质土、盐碱地、壤土等地中均可种植，但是在沙质土中种植效果最佳[17]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "南疆地区水资源匮乏，滴灌已成为高效的区域农业生产灌溉方式，但针对油莎豆覆膜及亏缺灌溉条件下实现高产和高效水分利用的研究较少，尤其是不同情境下油莎豆最佳亏缺灌溉管理模式理论、实践经验均很匮乏。因此，笔者通过研究亏缺灌溉的田间管理方式对油莎豆产量、品质以及水分利用效率的影响，以期获得南疆盆地最佳的灌溉高产管理模式，为实现油莎豆在生产中的节水和高产提供参考依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验区位于新疆库尔勒市西南部哈拉玉宫乡$( 4 1 ^ { \\circ } 3 6 ^ { \\prime } \\mathrm { N } , 8 6 ^ { \\circ } 3 ^ { \\prime } \\mathrm { E } )$ ，地处孔雀河冲积扇上部,地势东北高，西南低，平均海拔 $9 0 4 \\mathrm { ~ m ~ }$ 。属温带大陆性气候，无霜期长，年平均无霜期180d,最长达 $1 9 0 \\mathrm { d }$ 最短为 $1 7 0 \\mathrm { d }$ ;昼夜温差大，1月平均气温 $- 9 \\operatorname { \\mathcal { C } } , 7$ 月平均气温 $2 6 . 5 0 ~ \\mathrm { ^ { \\circ } C }$ ,平均气温年较差 $3 5 . 5 ~ \\mathrm { ^ { \\circ } C }$ ；日照充足，年平均日照时数 $3 0 4 5 \\mathrm { h }$ ;夏季干旱少雨,年平均降水量 $5 7 ~ \\mathrm { m m }$ ,年最大蒸发量为 $2 7 8 8 . 2 \\ \\mathrm { m m }$ ，降雨集中在每年5一10月，其中6月最多。试验地土壤质地为砂壤土, $0 { \\sim } 4 0 \\ \\mathrm { c m }$ 土壤理化性质：田间持水量为$1 8 \\%$ ,土壤容重为 $1 . 5 8 \\ \\mathrm { g } \\cdot \\mathrm { c m } ^ { - 3 }$ ,有机质含量为",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$4 5 8 8 . 5 5 ~ \\mathrm { m g \\cdot k g ^ { - 1 } }$ ,水解氮含量为 $2 8 . 4 1 ~ \\mathrm { m g \\cdot k g ^ { - 1 } }$ ，有效磷含量为 $9 . 8 9 ~ \\mathrm { m g \\cdot k g ^ { - 1 } }$ ,速效钾含量为 $7 3 . 7 8 3 ~ \\mathrm { m g }$ ：$\\mathbf { k g } ^ { - 1 }$ $\\mathrm { \\ p H }$ 为7.6;试验区地处沙漠前缘区，植被稀少，在自然状况下，种子繁殖困难。库尔勒境内季节性河流均属于降雨、积雪融水和冰川融水综合补给性河流。本区地下水埋深 $1 4 ~ \\mathrm { m }$ 左右，因此夏季降水是自然植被所需水分的主要来源[18]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2数据来源与处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1试验材料供试油莎豆品种为\"丰产2号”,于2020年5月10日种植，9月20日收获，全生育期$1 3 0 \\mathrm { d }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2试验设计试验区由孔雀河冲积土形成，土质肥沃，因此播种前不用施底肥，播种后进行追肥。播种时间在5月10日，采用油莎豆穴播机播种,播种量为 $7 5 ~ \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ ,株距 $1 2 . 5 ~ \\mathrm { c m }$ ,行距 $3 0 ~ \\mathrm { c m }$ 。滴灌带铺设为一机二管，1条滴灌带灌溉2行油莎豆的种植模式，油莎豆行距 $3 0 \\ \\mathrm { c m }$ ,毛管间距 $6 0 ~ \\mathrm { c m }$ ，生育期共滴水7次，每小区单独滴水，由水表控制滴水量。出苗后期追肥，施肥方式为水肥一体化，每次灌水时将所需肥量准确称量后，溶于水中，通过滴灌管路直接送达油莎豆根系附近,其中尿素 $7 5 \\mathrm { k g }$ $\\mathrm { h m } ^ { - 2 }$ ，菌肥 $1 0 5 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。试验设置覆膜和水分控制2个处理，其中覆膜包括含覆膜(M)和不覆膜(NM)处理，水分控制包含3个处理，分别为：CK为当地常用的滴灌灌溉制度，灌溉量为 $5 3 1 6 . 4 5 ~ \\mathrm { m } ^ { 3 } \\cdot \\mathrm { h m } ^ { - 2 }$ ，T1处理的灌溉量为 $3 4 3 1 . 4 0 ~ \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ,T2处理的灌溉量为$4 1 3 3 . 8 5 \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。在整个生育期的灌水量见表1。1.2.3生物量的测定根据油莎豆生长周期和试验的目标，在油莎豆生长末期(9月)进行采样。对各处理小区内生物量进行相关指标测定。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）种植密度：采用计数方法，统计每个样方内",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/2037e7151e9cf6d258f5fd19a8a94e11164b74068895914b93006b4b5c55e10d.jpg",
+        "table_caption": [
+            "表1油莎豆不同处理灌溉制度设置",
+            "Tab.1 Different treatments in irrigation system of Cyperus esculentus "
+        ],
+        "table_footnote": [
+            "注：W0和W分别为灌水定额和灌溉定额。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\" colspan=\"2\">处理</td><td colspan=\"7\">W0/(m·hm-2)</td><td rowspan=\"2\">W/(m·hm-2)</td></tr><tr><td>6.22</td><td>6.28</td><td>7.7</td><td>7.14</td><td>7.21</td><td>8.3</td><td>8.15</td></tr><tr><td>覆膜</td><td>T1M</td><td>490.2</td><td>490.2</td><td>490.2</td><td>490.2</td><td>490.2</td><td>490.2</td><td>490.2</td><td>3431.4</td></tr><tr><td rowspan=\"5\"></td><td>T2M</td><td>590.55</td><td>590.55</td><td>590.55</td><td>590.55</td><td>590.55</td><td>590.55</td><td>590.55</td><td>4133.85</td></tr><tr><td>CKM</td><td>759.45</td><td>759.45</td><td>759.45</td><td>759.45</td><td>759.45</td><td>759.45</td><td>759.45</td><td>5316.45</td></tr><tr><td>T1NM</td><td>490.2</td><td>490.2</td><td>490.2</td><td>490.2</td><td>490.2</td><td>490.2</td><td>490.2</td><td>3431.4</td></tr><tr><td>T2NM</td><td>590.55</td><td>590.55</td><td>590.55</td><td>590.55</td><td>590.55</td><td>590.55</td><td>590.55</td><td>4133.85</td></tr><tr><td>CKNM</td><td>759.45</td><td>759.45</td><td>759.45</td><td>759.45</td><td>759.45</td><td>759.45</td><td>759.45</td><td>5316.45</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "的单丛数量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）草、根、块茎干物质量：在生长末期(9月)进行采样，因油莎豆属于克隆植物，分蘖数量大，以样方内油莎豆单丛群体作为单个样本进行生物量相关指标测定。通过挖取样方中所有植株，将草、根、块茎分离并分别装袋，放人烘箱烘至恒重后称量，干重作为草、根、块茎的生物量",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3）地上/地下生物量：地上生物量为地上部分所有干物质量；地下生物量为地下部分所有干物质量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(4）根冠比：根系生物量根冠比 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ × 100%块茎、草生物量总和",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(5）产量：产量按样方统计，计算草、块茎样方产量，根据样方产量换算成公顷产量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(6）生育期耗水量 $( E T , \\mathbf { m } ^ { 3 } )$ 测定，采用水分平衡公式计算[19]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE T = P + M + S W 1 - S W 2 - D\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $P$ 为时段内降雨量( $\\bf \\Pi _ { \\mathrm { m m } } ^ { \\prime }$ )，本试验地降雨稀少，大多为阵雨，又因蒸发极强，阵雨不能有效被油莎豆吸收，因此本试验忽略降雨量; $M$ 为生育期灌溉量$( \\mathrm { m m } )$ ,油莎豆的灌溉为滴灌；SW1为播前土壤贮水量 $( \\mathrm { m m } ) ; S W 2$ 为收获期土壤贮水量 $( \\operatorname* { m m } )$ ; $D$ 为时段内的地下水补给量( $\\mathbf { \\dot { m } } \\mathbf { m } )$ ，本试验地下水埋深在14m以下,无地下水补给[18],故本试验忽略地下水补给量 $\\left( \\mathrm { m m } \\right)$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（7）水分利用效率：由油莎豆产量和耗水量计算所得。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW U E = Y / E T\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：Y为干草/块茎产量 $\\left( \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 } \\right) .$ ； $E T$ 为生育期耗",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "水量 $( \\mathbf { m } ^ { 3 } )$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.4品质的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）粗脂肪及粗蛋白：粗脂肪采用GB/T6433-2006食品中粗脂肪的测定；粗蛋白采用GB/T6432-2018食品中蛋白质的测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）可溶性糖及可溶性淀粉：采用葱酮法测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3数据处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用SPSS22.0软件进行数据处理和分析，对不同处理之间进行单因素方差分析和Duncan多重比较， $P < 0 . 0 5$ 为差异显著， $P > 0 . 0 5$ 为差异不显著，利用Excel进行绘图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1不同处理对油莎豆种植密度及根冠比的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图1可知，油莎豆种植密度随着灌溉量增加呈下降趋势，且覆膜条件下的种植密度均高于未覆膜条件下的。其中，覆膜条件下，T2处理的种植密度均显著低于其他处理（ $( P < 0 . 0 5 )$ ，较T1和CK分别降低了 $3 5 . 1 4 \\%$ 和 $1 7 . 2 4 \\%$ ;未覆膜处理下，T2处理种植密度同覆膜处理下变化一致，均低于T1和CK，分别显著下降 $3 5 . 4 8 \\%$ 和 $3 . 5 9 \\% ( P < 0 . 0 5 )$ ;根冠比的变化趋势同种植密度相反，随着灌溉量增加呈增加趋势，同时也表现为覆膜处理下根冠比的变化高于未覆膜处理。在覆膜和未覆膜处理下，不同水处理间均无显著差异 $( P > 0 . 0 5 )$ ,其中覆膜处理下,CK处理较T1、T2处理根冠比增加 $2 2 . 4 1 \\%$ 和 $1 2 . 6 8 \\%$ ,未覆膜处理下，CK处理较T1、T2处理根冠比增加 $1 7 . 8 0 \\%$ 和 $1 2 . 3 6 \\%$ ,增加的幅度较覆膜处理较少。由此可知，覆膜对种植密度和根冠比的影响比水处理大。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d059cf7edb19aa298c2511fc7520f375b298d04b1f8f5a974b62b406eaa5987b.jpg",
+        "img_caption": [
+            "注：不同小写字母表示各处理间在0.05水平差异显著( $\\left. P < 0 . 0 5 \\right)$ ；差异不显著（ $\\vert P > 0 . 0 5$ ）。",
+            "图1不同处理对油莎豆种植密度和根冠比影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Effects of diferent treatments on planting density and root shoot ratio of Cyperus esculentus ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2不同处理对油莎豆干物质量的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，覆膜处理下油莎豆单丛总物质量、草干重、块茎干重和块茎比随灌溉量的增加呈先增加后降低的趋势，T2M处理的总物质量比其他处理显著提高了 $4 . 9 0 \\% { \\sim } 1 3 . 2 5 \\% ( P < 0 . 0 5 )$ ；T2M处理的块茎干物质量较T1M和CKM分别提高了 $1 5 . 6 2 \\%$ 和$3 6 . 9 5 \\%$ （ $P < 0 . 0 5 )$ ;T2M处理的块茎比T1M显著提高 $1 5 . 8 3 \\% ( P < 0 . 0 5 )$ ，与CKM处理差异不显著( $\\mathbf { \\nabla } \\cdot P >$ 0.05)；不同水处理间的草干物质量差异不明显( $\\mathbf { \\nabla } \\cdot \\mathbf { P } >$ 0.05)。油莎豆草比和根比随着灌溉量增加呈现先降低后增加的趋势；根干物质量随灌溉量增加则呈现增加趋势，不同水处理间的草比、根比和根干物质量差异未达到显著水平 $\\mathrm { \\langle } P > 0 . 0 5 \\mathrm { \\rangle }$ ）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "未覆膜油莎豆的单丛总干物质量、草干重、块茎干重和块茎比变化趋势同覆膜一致，随灌溉量增加呈增加-降低趋势，其中T2M处理的总干物质量较CKM处理显著提高 $1 6 . 9 8 \\% ( P < 0 . 0 5 )$ ;T2M处理的块茎干物质量和块茎比T1M分别显著提高了$1 9 . 2 7 \\%$ 和 $4 2 . 9 5 \\% ( P < 0 . 0 5 )$ ；T2M处理的草干物质量较CKM和T1M分别提高了 $2 1 . 6 3 \\%$ 和 $2 5 . 6 3 \\%$ ，不同水处理间差异不显著 $\\left( P > 0 . 0 5 \\right)$ 0",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "覆膜滴灌油莎豆总干物质量、块茎干物质量和块茎比分别比未覆膜处理平均高 $2 4 . 0 7 \\% . 2 0 . 9 0 \\%$ 和$3 . 1 9 \\%$ ，在T1和T2处理的差异达到显著水平( $\\scriptstyle ( P <$ 0.05);覆膜处理油莎豆草干物质量和根干物质量比未覆膜处理下平均增加 $2 0 . 0 2 \\% { \\sim } 2 4 . 2 7 \\%$ ;相比未覆膜处理，覆膜的油莎豆草比和根比分别平均降低$4 . 8 1 \\%$ 和 $1 0 . 4 6 \\%$ ,二者差异不显著( $\\cdot P { > } 0 . 0 5$ ）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3不同处理对油莎豆品质的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，覆膜处理油莎豆草的粗脂肪、粗蛋白、可溶性淀粉、可溶性糖含量随灌水量增加呈先增加再降低的趋势，而且不同水处理间差异不显著$( P > 0 . 0 5 )$ ，其中T2M处理的草粗脂肪较其他处理分别增加 $3 6 . 1 1 \\%$ 和 $2 7 . 7 8 \\%$ ;与T2M处理相比，T1M和CKM处理的草粗蛋白分别降低 $2 0 . 2 1 \\%$ 和 $1 1 . 5 4 \\%$ ：可溶性淀粉和可溶性糖表现一致，均在T2M处理下最大。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/cd7d1eefea4f2096d886edd00b007a0db1f2d633bbe8297ceeceee9509084011.jpg",
+        "table_caption": [
+            "Tab.2 Effects of different treatments on the dry matter of Cyperus esculentus population "
+        ],
+        "table_footnote": [
+            "注：数据为平均值 $\\cdot \\pm { }$ 标准差，同列不同小写字母表示各处理间在0.05水平差异显著( $\\cdot P < 0 . 0 5 ,$ ；差异不显著（ $\\cdot P > 0 . 0 5$ )。\\*表示 $\\scriptstyle \\alpha = 0 . 0 5$ 水平差异显著;\\*\\*表示 $\\scriptstyle \\alpha = 0 . 0 1$ 水平差异显著;NS表示差异不显著(LSD)。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\" colspan=\"2\">处理</td><td rowspan=\"2\">总干物质/g</td><td rowspan=\"2\">草/g</td><td rowspan=\"2\">根/g</td><td rowspan=\"2\">块茎/g</td><td colspan=\"3\">比例/%</td></tr><tr><td>草</td><td>根</td><td>块茎</td></tr><tr><td rowspan=\"4\">覆膜</td><td>T1M</td><td>861.48±28.36bc</td><td>371.83±36.7ab</td><td>216.16±11.90ab</td><td>331.27±22.05c</td><td>36.45a</td><td>25.09a</td><td>38.45bc</td></tr><tr><td>T2M</td><td>1150.23±78.38a</td><td>397.45±56.76a</td><td>227.40±47.73ab</td><td>525.38±8.28a</td><td>34.55a</td><td>19.77a</td><td>45.68a</td></tr><tr><td>CKM</td><td>1007.21±59.41ab</td><td>313.52±28.35ab</td><td>250.40±64.13a</td><td>443.29±21.22b</td><td>31.13a</td><td>24.86a</td><td>44.01ab</td></tr><tr><td>T1NM</td><td>676.42±20.45d</td><td>257.12±36.45b</td><td>176.11±24.80b</td><td>243.19±3.83d</td><td>38.01a</td><td>26.04a</td><td>35.95c</td></tr><tr><td rowspan=\"2\"></td><td>T2NM</td><td>957.18±38.3bc</td><td>345.8±38.62ab</td><td>185.12±7.99ab</td><td>426.25±1.27b</td><td>36.13a</td><td>19.34a</td><td>44.53ab</td></tr><tr><td>CKNM</td><td>823.67±34.64c</td><td>270.99±27.08b</td><td>193.82±31.03ab</td><td>358.85±35.08c</td><td>32.9a</td><td>31.63a</td><td>43.57ab</td></tr><tr><td colspan=\"2\">F水分处理</td><td>**</td><td>NS</td><td>NS</td><td>**</td><td>NS</td><td>NS</td><td>**</td></tr><tr><td colspan=\"2\">F覆膜处理</td><td>**</td><td>NS</td><td>*</td><td>**</td><td>NS</td><td>NS</td><td>NS</td></tr><tr><td colspan=\"2\">F水分处理×F覆膜处理</td><td>NS</td><td>NS</td><td>NS</td><td>NS</td><td>NS</td><td>NS</td><td>NS</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a911949d7e3828637af61b124b0a3a8d61e10fff81bb050a57b1ea2b64138198.jpg",
+        "table_caption": [
+            "表2不同处理对油莎豆群体干物质量的影响",
+            "表3不同处理对油莎豆草品质的影响",
+            "Tab.3 Effects of different treatments on the quality of Cyperus esculentus grass "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">处理</td><td>粗脂肪/%</td><td>粗蛋白/(g·kg-1)</td><td>可溶性淀粉/(g·kg-1)</td><td>可溶性糖/(g·kg-1)</td></tr><tr><td rowspan=\"3\">覆膜</td><td>T1M</td><td>0.023±0.011a</td><td>43.85±2.60ab</td><td>16.08±2.28a</td><td>13.81±2.16a</td></tr><tr><td>T2M</td><td>0.036±0.025a</td><td>54.96±1.75a</td><td>18.04±3.13a</td><td>24.53±4.32a</td></tr><tr><td>CKM</td><td>0.026±0.011a</td><td>48.62±1.30ab</td><td>12.73±2.63a</td><td>17.76±4.31a</td></tr><tr><td rowspan=\"3\">未覆膜</td><td>T1NM</td><td>0.012±0.001a</td><td>41.19±6.42b</td><td>14.10±0.56a</td><td>11.85±1.95a</td></tr><tr><td>T2NM</td><td>0.013±0.001a</td><td>52.22±5.53ab</td><td>15.88±4.73a</td><td>19.47±3.76a</td></tr><tr><td>CKNM</td><td>0.010±0.002a</td><td>45.77±1.6ab</td><td>15.30±0.40a</td><td>15.13±1.51a</td></tr><tr><td colspan=\"2\">F水分处理</td><td>NS</td><td>*</td><td>NS</td><td>*</td></tr><tr><td colspan=\"2\">F覆膜处理</td><td>NS</td><td>NS</td><td>NS</td><td>NS</td></tr><tr><td colspan=\"2\">F水分处理×F覆膜处理</td><td>NS</td><td>NS</td><td>NS</td><td>NS</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "未覆膜处理油莎豆草的粗脂肪、粗蛋白、可溶性物质与覆膜处理变化趋势一致。T2NM处理的粗脂肪、粗蛋白、可溶性物质含量均高于其他处理，且不同水处理之间差异不显著 $( P > 0 . 0 5 )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "与未覆膜处理相比，覆膜处理油莎豆草的粗脂肪、粗蛋白、可溶性淀粉和可溶性糖含量较高，且随灌溉量的增加，呈先增加后降低趋势。覆膜的草粗脂肪、可溶性淀粉、可溶性糖含量比未覆膜平均提高 $5 8 . 8 2 \\%$ ） $3 . 3 5 \\%$ 和 $1 7 . 2 0 \\%$ ，二者之间差异不显著1 $\\left( P > 0 . 0 5 \\right)$ ;覆膜的草平均粗蛋白含量比不覆膜处理增加了 $5 . 5 9 \\%$ ， $\\mathrm { T } 2$ 和T1处理的差异达到显著水平$( P < 0 . 0 5 )$ 。相同水处理下，覆膜处理的草品质均高于未覆膜的。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，覆膜处理的油莎豆块茎的粗脂肪、粗蛋白、可溶性淀粉、可溶性糖含量随灌溉量的增加呈增加-降低趋势。其中，块茎的粗蛋白含量在T2M处理下显著高于CKM $\\left( P < 0 . 0 5 \\right)$ ，增加 $3 4 . 5 8 \\%$ ，粗脂肪、可溶性淀粉、可溶性糖含量在T2M处理下最大，高于其他处理，但是水处理间差异未达到显著水平 $\\left( P > 0 . 0 5 \\right)$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "未覆膜处理的油莎豆块茎的粗脂肪、粗蛋白、可溶性淀粉、可溶性糖含量随灌溉量增加先增加后降低，且水处理间差异不显著 $( P > 0 . 0 5 )$ 。T2M处理的块茎粗脂肪含量较T1M和CKM处理分别增加$1 . 0 6 \\%$ 和 $1 5 . 9 6 \\%$ ;与T2M处理相比，T1M和CKM处理的块茎粗蛋白含量分别降低 $0 . 8 2 \\% { \\sim } 1 2 . 8 9 \\%$ ;T2M处理的块茎可溶性淀粉含量较其他处理增加$1 . 7 8 \\% { \\sim } 7 . 3 6 \\%$ ，而可溶性糖含量较其他处理增加$1 3 . 2 2 \\%$ 和 $4 . 5 8 \\%$ ○",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "覆膜和未覆膜处理的块茎品质指标变化趋势一致，均随灌溉量的增加呈先增加后降低的趋势。其中覆膜处理块茎的粗脂肪含量和可溶性淀粉、可溶性糖含量均高于未覆膜的，分别平均增加了$7 . 4 8 \\%$ 、 $2 . 5 6 \\%$ 和 $2 . 5 5 \\%$ ，且水处理间差异不显著（ $P > 0 . 0 5$ )。与未覆膜相比，覆膜块茎的粗蛋白平均降低 $2 . 5 5 \\%$ ，不同水处理间的差异未达到显著水平$( P > 0 . 0 5 )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "整体来看，油莎豆草和块茎的品质指标覆膜/未覆膜处理下，变化趋势基本保持一致，均随灌溉量的增加呈先增加后降低趋势;在覆膜处理下，块茎的粗脂肪、可溶性淀粉和可溶性糖含量最高，比草的平均增加 $8 5 . 2 1 \\%$ ） $6 9 . 7 7 \\%$ 和 $7 2 . 8 9 \\%$ ；未覆膜处理的块茎平均可溶性淀粉和可溶性糖含量比草的平均增加 $7 0 . 7 8 \\%$ 和 $7 2 . 1 8 \\%$ ,增加的幅度较大，说明在生长后期，地上部分光合作用产生的物质可能被运输到地下，促进地下生物量的生长；覆膜/未覆膜处理下，草和块茎的粗蛋白含量的变化没有明显的区别，水处理间无明显差异，说明地上-地下粗蛋白含量相对比较稳定，受农业措施影响较小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4不同处理对油莎豆产量和水分利用效率的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表5可知，耗水量随灌溉量的增加呈递增趋势，这与郭彬等2对番茄的研究一致，CK显著高于T1和T2处理 $\\left( P < 0 . 0 5 \\right)$ 。在相同水分控制下，覆膜处理的田间耗水量低于未覆膜处理，且两者差异不明显 $\\cdot P > 0 . 0 5$ )。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f20f6884bc28e8f248b047fc20b6098318b41e87c83e11a979d2aa494b82e2ad.jpg",
+        "table_caption": [
+            "表4不同处理对油莎豆块茎品质的影响",
+            "Tab.4Effects of different treatments on the quality of Cyperus esculentus tuber "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">处理</td><td>粗脂肪/%</td><td>粗蛋白/(g·kg-1)</td><td>可溶性淀粉/(g·kg-1)</td><td>可溶性糖/(g·kg-1)</td></tr><tr><td rowspan=\"3\">覆膜</td><td>T1M</td><td>0.176±0.010ab</td><td>47.13±1.23a</td><td>56.19±2.89a</td><td>50.97±5.33a</td></tr><tr><td>T2M</td><td>0.207±0.003a</td><td>49.36±1.32a</td><td>57.21±2.24a</td><td>65.71±8.19a</td></tr><tr><td>CKM</td><td>0.192±0.019ab</td><td>32.29±1.99b</td><td>53.00±3.69a</td><td>54.68±3.94a</td></tr><tr><td rowspan=\"3\">未覆膜</td><td>T1NM</td><td>0.186±0.006ab</td><td>45.75±3.16a</td><td>45.97±4.94a</td><td>51.35±7.38a</td></tr><tr><td>T2NM</td><td>0.188±0.010ab</td><td>46.13±2.97a</td><td>54.93±7.04a</td><td>59.17±1.96a</td></tr><tr><td>CKNM</td><td>0.158±0.014b</td><td>40.18±4.84ab</td><td>54.10±1.45a</td><td>56.46±2.55a</td></tr><tr><td colspan=\"2\">F水分处理</td><td>NS</td><td>**</td><td>NS</td><td>NS</td></tr><tr><td colspan=\"2\">F覆膜处理</td><td>NS</td><td>NS</td><td>NS</td><td>NS</td></tr><tr><td colspan=\"2\">F水分处理×F覆膜处理</td><td>NS</td><td>NS</td><td>NS</td><td>NS</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/9770531a7b8751d86bb31cc1183c935b7f429791bfb3e25a29047f3d4f993bf4.jpg",
+        "table_caption": [
+            "表5不同处理对产量和水分利用效率的影响",
+            "Tab.5Effects of different treatments on the yield and water use efficiency of Cyperus esculentus "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\" colspan=\"2\">处理</td><td rowspan=\"2\">灌水量</td><td rowspan=\"2\">田间耗水量</td><td colspan=\"2\">草产量(/kgm）块基</td><td colspan=\"2\">水分利用率/(kgm茎</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">覆膜</td><td>T1M</td><td>3431.4</td><td>5149.99±3.16c</td><td>3140.55±115.22a</td><td>3312.75±381.96c</td><td>0.61±0.22a</td><td>0.63±0.07bc</td></tr><tr><td>T2M</td><td>4133.85</td><td>6202.36±1.5b</td><td>3974.55±983.2a</td><td>5253.85±143.37a</td><td>0.64±0.16a</td><td>0.84±0.03a</td></tr><tr><td rowspan=\"4\">未覆膜</td><td>CKM</td><td>5301.45</td><td>7953.6±1.29a</td><td>3135.25±491.01a</td><td>4432.9±367.49b</td><td>0.39±0.06bc</td><td>0.55±0.05c</td></tr><tr><td>T1NM</td><td>3431.4</td><td>5155.59±9.13c</td><td>2571.3±631.33a</td><td>2431.9±66.28b</td><td>0.49±0.11abc</td><td>0.46±0.02d</td></tr><tr><td>T2NM</td><td>4133.85</td><td>6203.66±2.98b</td><td>3458.1±668.93a</td><td>4262.5±22.04a</td><td>0.55±0.11ab</td><td>0.68±0.01b</td></tr><tr><td>CKNM</td><td>5301.45</td><td>7954±1.62a</td><td>2709.9±468.92a</td><td>3588.55±607.69a</td><td>0.34±0.06c</td><td>0.45±0.11d</td></tr><tr><td colspan=\"2\">F水分处理</td><td></td><td>**</td><td>NS</td><td>**</td><td>**</td><td>**</td></tr><tr><td colspan=\"2\">F覆膜处理</td><td></td><td>NS</td><td>NS</td><td>**</td><td>NS</td><td>**</td></tr><tr><td colspan=\"2\">F水分处理×F覆膜处理</td><td></td><td>NS</td><td>NS</td><td>NS</td><td>NS</td><td>NS</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "油莎豆草产量随灌溉量增加呈增加-降低的趋势，与不覆膜的相比，覆膜处理油莎豆草产量平均提高 $1 9 . 2 9 \\%$ 。覆膜处理草T2M处理的产量最高，较T1M和CKM分别增加 $6 . 4 5 \\%$ 和 $2 1 . 1 2 \\%$ ，但差异不显著 $\\left( P > 0 . 0 5 \\right)$ ；未覆膜处理草产量在T2NM处理最高，较T1NM和CKNM处理分别增加了 $2 5 . 6 4 \\%$ 和$2 1 . 6 3 \\%$ ,不同处理下未达到显著水平 $( P > 0 . 0 5 ) ,$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "油莎豆块茎产量同草产量变化趋势一致，随灌溉量增加呈先增加后降低的趋势，覆膜处理的油莎豆块茎平均产量较未覆膜处理增加了 $2 0 . 9 0 \\%$ 。覆膜块茎产量在T2M处理下最高，较其他处理显著增加 $3 6 . 9 5 \\%$ 和 $1 5 . 6 3 \\% ( P < 0 . 0 5 )$ ;未覆膜块茎产量在T2NM处理最高，比T1NM和CKNM处理提高$4 2 . 9 5 \\%$ 和 $1 5 . 8 1 \\%$ ，处理间差异显著( $\\stackrel { \\prime } { P } < 0 . 0 5 ,$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "水分利用效率指的是作物消耗单位水量所产生的干物质量。由表5可知，草和块茎的水分利用效率受水分控制影响显著( $\\cdot P < 0 . 0 5 ,$ )，其随着灌水量的增加呈先增加后降低趋势。与CKM处理相比，T2M处理的草和块茎的水分利用效率分别显著增加了 $3 8 . 6 3 \\%$ 和 $3 4 . 3 3 \\% ( P < 0 . 0 5 )$ ;T2NM处理的草和块茎的水分利用效率分别为 $0 . 5 5 \\mathrm { k g } \\cdot \\mathrm { m } ^ { - 3 }$ 和 $0 . 6 8 ~ \\mathrm { k g }$ $\\mathrm { m } ^ { - 3 }$ ,与CKNM处理相比,T2NM处理的草和块茎的水分利用效率分别显著提高 $3 8 . 9 1 \\%$ 和 $3 4 . 3 3 \\% ( P <$ 0.05)。与未覆膜处理相比，覆膜处理的草和块茎的水分利用效率最高，其中覆膜处理和不覆膜处理的草的水分利用效率差异不显著( $( P > 0 . 0 5 )$ ，而在T1M、T2M和CKM处理的块茎水分利用效率较T1NM、T2NM、CKNM处理分别显著提高 $2 7 . 7 1 \\%$ 、$1 9 . 1 2 \\% . 1 9 . 1 3 \\% ( P < 0 . 0 5 )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上可知，灌溉量和田间耗水量的变化规律基本保持一致，但是草、块茎产量和水分利用效率均随灌溉量的增加呈先增加后降低的趋势，由此可见灌水量及耗水量大的情况下，油莎豆的产量和水分利用效率不一定大。在同一灌溉量条件下，覆膜处理下草、块茎的产量及水分利用效率高于未覆膜处理，且在T2处理最大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "地膜覆盖与裸地相比可以提高土壤中的温度，促进土壤微生物的活动，减少土壤中水分的蒸发，保持土壤的湿度,提高土壤中的水分利用效率[21-27],而且覆膜条件下的作物生长势及干物质积累优于裸地。在干旱少雨地区，覆膜种植是大田种植的普遍方式。相关研究表明，覆膜处理能提高光合速率，促进干物质积累，提高单位面积以及作物水分利用率[28-29]。本研究也表明,覆膜较未覆膜种植密度、根冠比、平均草、块茎产量以及平均水分利用效率都有一定程度的增加。其中，与未覆膜相比，覆膜处理的种植密度和根冠比平均增加 $1 9 . 8 3 \\%$ 和$1 . 7 4 \\%$ ，平均草、块茎产量分别增加 $1 9 . 2 9 \\%$ 和$2 0 . 9 0 \\%$ ，平均水分利用效率分别提高 $1 4 . 9 8 \\%$ 和$1 8 . 0 1 \\%$ ，且均在T2处理下达到最大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "植物的生长受到水分的调控。水分过多、过少促使植物长期处于不利的生长环境，从而限制了根系的活性，降低根系的面积,影响地上、地下生物量的分配[30-32]。对西蓝花的研究表明,干物质量和产量随水量的增加呈先增加后降低趋势[33],小麦、甜椒也表现出一致规律[34-35],但是对4种牧草的研究则表明，地上部分随水量增加呈持续增加趋势，而地下生物量则呈下降趋势[36]。在覆膜/无膜条件下,草、块茎干物质量及产量随着灌水量(T1\\~CK)增加呈先增加后降低趋势，与上述研究相似。T2M、T1NM、T2NM处理下的干物质量及草、块茎产量差异显著( $\\left( P < 0 . 0 5 \\right)$ ,在T2M、T2NM处理下平均总干物质量、总产量(草、块茎合计)最大( $( 2 1 0 7 . 1 8 \\mathrm { ~ g ~ }$ ，$1 1 7 4 . 9 9 ~ \\mathrm { k g } { \\cdot }$ ），较T1M、T1NM分别增加了 $2 7 . 0 2 \\%$ 和$2 8 . 9 9 \\%$ ,较CKM、CKNM增加 $1 3 . 1 2 \\%$ 和 $1 8 . 1 9 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "作物的品质不仅受自身遗传特性的影响，水分、土壤以及外界环境因子也是其影响因素，其中水分是影响品质的重要因素，水分过多或者过少，均影响养分的积累。马薇等[37研究发现，随着灌溉定额的增加,马铃薯品质含量逐渐增加。温鹏飞等[38]研究赤霞珠果实品质的结果也证明适宜的水分促进果实品质的提高。高彦婷等[39]对葡萄的研究表明轻度水分胁迫有助于果实中有效糖分的积累，促进品质的增加。而朱峻岭等[40]在对油莎豆的研究结果表明，随着灌水量的增加，油莎豆块茎中粗蛋白、总糖、淀粉、粗脂肪呈先增加后降低的趋势，本研究中油莎豆草和块茎的品质指标随灌溉量的增加呈先增加后降低的趋势，与上述研究结果呈现一致规律。这是因为在一定范围内，适宜的亏水灌溉有利于增加番茄中蔗糖合成酶和蔗糖磷酸合成酶的活性，降低相关转化酶的活性，抑制糖分的分解增加其可溶性物质合成的含量[20.41]。因此,在本研究中T2M处理的油莎豆草和块茎的可溶性糖和可溶性淀粉含量最大。控制灌溉量的油莎豆草和块茎的可溶性物质比当地常用灌溉量有所提高。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "诸多研究表明，适当减少灌溉量可以提高水分利用效率,实现增产目标[42-44]。本试验发现,在不同处理下，对应的油莎草、块茎及水分利用效率间有差异，且T2处理的油莎豆草、块茎总产量及水分利用效率均为最高值，其中草总产量及水分利用率分别为 $3 9 7 4 . 5 5 \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ 和 $0 . 6 4 ~ \\mathrm { k g } \\cdot \\mathrm { m } ^ { - 3 }$ ,块茎总产量和水分利用率为 $5 2 5 3 . 8 5 \\mathrm { k g \\cdot h m } ^ { - 2 }$ 和 $0 . 8 4 \\mathrm { k g } \\cdot \\mathrm { m } ^ { - 3 }$ 。块茎的产量和水分利用率普遍高于草的。而且在灌溉量一致的情况下，地下部分对水分利用的效率高于地上部分，这是由于地上部分的蒸腾和蒸散作用导致水分散失过多。由此可见，灌水量及耗水量大的油莎豆其产量和水分利用效率不一定大，反而导致水分流失或者蒸发，造成滴灌效率降低，浪费水资源。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究以油莎豆为研究对象，分别对亏缺灌溉和覆膜处理下油莎豆成熟期形态特征、品质以及产量等特征进行分析，结论如下：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1）覆膜处理的均高于未覆膜处理，覆膜后油莎豆草和块茎的产量及水分利用效率显著提高，产量和水分利用效率均在T2处理达到最大，同一水平处理下，覆膜高于未覆膜。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2）灌水量过高和过低影响油莎豆草、块茎养分和品质的分配，减少灌水量可以改善油莎豆草、块茎的品质，覆膜处理油莎豆草和块茎的粗脂肪、可溶性淀粉和可溶性糖含量均高于未覆膜条件下，其中在T2处理下油莎豆的各项品质指标均达到最大。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3）对于南疆盆地油莎豆的种植，综合考虑水分利用效率，产量以及品质指标，T2覆膜(4133.85$\\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 } ,$ )不仅提高了油莎豆的品质和产量，而且提高了水分利用效率，也节约水资源，因此，本研究中，在覆膜条件下，灌溉定额为 $4 1 3 3 . 8 5 \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 的灌溉模式具有明显的经济和节水效益",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References):",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]吴程,胡顺军,赵成义.塔里木灌区膜下滴灌棉田土壤水分动态 与耗水特性[J].节水灌溉,2016(2):14-17.[Wu Cheng,Hu Shunjun,Zhao Chengyi. Dynamic change of soil moisture and water consumption of cotton under drip igation patterns in tarim irrigation area[J].Water Saving Irrigation,2016(2): 14-17.]   \n[2] 万素梅,胡守林,翟云龙.膜下滴灌棉花土壤水分动态变化研究 [J].水土保持研究,2007(1):90-91.[Wan Sumei,Hu Shoulin, Zhai Yunlong. Studies on the dynamic change of soil water of cottonwith drip irrigation[J].Research of Soil and Water Conservation,2007(1): 90-91.]   \n[3]中华人民共和国水利部.2020年全国水利发展统计公报[R].北 京：中华人民共和国水利部,2020:14.[Ministryof Water Resource of the People's Republic of China.2O2O Statistic Bulletin on China Water Activities[R].Beijing:Ministry of Water Resource of the People's Republic of China,202O:14.]   \n[4]刘天鹏,何继红,董孔军.敦煌绿洲区覆膜补灌对谷子光合特性 农艺性状及产量的影响[J].干旱地区农业研究,2017,35(2): 68-73.[Liu Tianpeng,He Jihong,Dong Kongjun,et al.Effect of supplemental irrigation on photosynthetic characteristics,agronomic traits and yield of foxtail millet under condition of film mulching in Dunhuang oasis[J].Agricultural Research in the Arid Areas,2017,35(2): 68-73.]   \n[5]高亮,张维宏,杜雄,等.覆膜和补灌对杂交谷子产量形成与水 分利用效率的影响[J].作物学报,2017,43(1):122-132.[Gao Liang,Zhang Weihong,Du Xiong,etal.Effects of plastic film mulching and supplementary irrigation on yield formation and water use effciency of hybrid milet[J].Acta Agronomica Sinica,2017,43 (1): 122-132.]   \n[6]任冬雪,张立峰,刘玉华,等.覆膜和补水灌溉对旱作马铃薯田 水分利用的影响[J].节水灌溉,2020(4):21-26.[Ren Dongxue, Zhang Lifeng,Liu Yuhua,et al.Efects of plastic film mulching and supplementary irrigation on water use in arid potato field[J]. Water Saving Irrigation, 2020(4): 21-26.]   \n[7]王凯瑜,李援农,方恒.覆膜集雨补灌对冬小麦产量和水分利用 效率的影响[J].排灌机械工程学报,2019,37(8):718-723. [Wang Kaiyu,Li Yuannong,Fang Heng,et al.Effects of plasticfilm mulching and supplementary irrigation on yield and water use efficiency of winter wheat[J]. Journal of Drainage andIrrigation Machinery Engineering,2019,37(8): 718-723.]   \n[8]王卫杰,张彦群,祁鸣笛,等.滴灌灌水量对玉米耗水及生长的 影响[J].排灌机械工程学报,2020,38(10):1063-1068.[Wang Weijie,Zhang Yanqun,Qi Mingdi,etal.Effectsof drip irigation amount on water consumption and growth of maize[J]. Journal of Drainage and Irrigation Machinery Engineering,2O2O,38(1O):1063- 1068.]   \n[9]Wei X,ZhangY,LiuJ,etal. Responsefsoil $\\mathrm { C O } _ { 2 }$ efflux to precipitation manipulation in a semiarid grassland grassand[J]. Journal of Environmental Sciences,2016,45(7): 207-214.   \n[10] 柴守玺,杨长刚,张淑芳,等.不同覆膜方式对旱地冬小麦土壤 水分和产量的影响[J].作物学报,2015,41(5):787-796.[Chai Shouxi, Yang Changgang, Zhang Shufang, et al. Effects of plastic mulching modes on soil moisture and grain yield in dryland winter wheat[J].Acta Agronomica Sinica,2015,41(5): 787-796.]   \n[11] 王瑞元,王晓松,相海.一种多用途的新兴油料作物——油莎豆 [J].中国油脂,2019,4(1):1-4.[Wang Ruiyuan,Wang Xiaosong, Xiang Hai. A multi-purpose novel oil crop Cyperus esculent L.[J]. China Oils and Fats,2019,44(1): 1-4.]   \n[12]阳振乐.油莎豆的特性及其研究进展[J].北方园艺,2017(17): 192-201.[Yang Zhenle. Characteristics and research progress of Cyperus esculent L.[J].Northern Horticulture,2017(17): 192-201.]   \n[13] 瞿萍梅,程治英,龙春林,等.油莎豆资源的综合开发利用[J].中 国油脂,2007,32(9):61-63.[Qu Pingmei, Cheng Zhiying,Long Chunlin,et al. Comprehensive development of chufa(Cyperus esculentus L.)[J].China Oils and Fats,2007,32(9): 61-63.]   \n[14]Johnson W C,Mullinix B G.Yellow nutsedge (Cyperus esculentus L.） control with metham sodium in transplanted cantaloupe (uumis melo)[J]. Crop Protection,2007,26(6): 867-871.   \n[15] 陈星,陈滴,刘蕾.油莎豆全成分分析[J].食品科技,2009,34(3): 165-168.[Cheng Xing,Chen Di,Liu Lei. Cyperus esculentus L. whole component analysis[J]. Food Science and Technology,2009, 34(3): 165-168.]   \n[16] 刘玉兰,田瑜,王璐阳,等.不同制油工艺对油莎豆油品质影响 的研究[J].中国油脂,2016,41(7):1-5.[Liu Yulan,Tian Yu, Wang Luyang,et al.Effects of different extraction processes on quality of Cyperus esculentus L.oil[J], China Oilsand Fats,2016, 41(7): 1-5. ]   \n[17]段俊喜,马杰.油莎豆栽培[M].北京:科学普及出版社,1983. [Duan Junxi, Ma Jie.The Cultivation of Cyperus esculentus L. [M]. Beijing: Popular Science Press,1983.]   \n[18] 魏兴,周金龙,曾妍妍,等.高开采强度下库尔勒市地下水位埋 深动态与影响因素浅析[J].长江科学院院报,2019,36(9):46- 50.[Wei Xing, Zhou Jinlong, Zeng Yanyan. Dynamics and influence factors of groundwater depth in Korla with intensive exploitation[J].Journal of Yangtze River Scientific Research Institute, 2019,36(9): 46-50.]   \n[19] Chai Q,Gan Y T, Turner N C,et al. Water-saving innovations in Chinese agriculture[J].Advances in Agronomy,2014,126: 149- 202.   \n[20] 郭彬,莫彦,吴忠东,等.覆膜与水分控制对宁夏设施滴灌番茄 产量与品质的影响[J].灌溉排水学报,2021,40(3):48-55.[Gu0 Bin,Mo Yan,Wu Zhongdong,et al.Combined effects of film mulching and water-controlled drip irigation on yield and quality of facility-cultivated tomato in Ningxia[J].Journal of Irigation and Drainage,2021,40(3): 48-55.]   \n[21] 姜净卫,董宝娣,司福艳,等.地膜覆盖对杂交谷子光合特性、产 量及水分利用效率的影响[J].干旱地区农业研究,2014,32(6): 154-158.[Jiang Jingwei,Dong Baodi,Si Fuyan,et al.Effect of different plastic mulching paterns on photosynthetic characteristics, yield,and water use eficiency of hybrid millet[J].Agricultural Research in the Arid Areas,2014,32(6): 154-158.]   \n[22] Niu JY,Gan Y T, Zhang JW,et al.Postanthesis dry matter accumulation and redistribution in spring wheat mulched with plastic film[J]. Crop Science,1998,38(6): 1562-1568.   \n[23]Qin SH,Zhang JL,Dai HL,etal.Efectof ridge-furrow and plstic-mulching planting patterns on yield formation and water movement of potato in a semi-arid area[J].Agricultural Water Management, 2014,131: 87-94.   \n[24]LiR, Hou X,Jia Z K,et al.Effects on soil temperature,moisture, and maize yield of cultivation with ridge and furrow mulching in the rainfed area of the Loess Plateau, China[J].Agricultural Water Management,2013,116: 101-109.   \n[25] Zhou L M,LiF M,JinSL,et al. How two ridges and the furrow mulched with plastic film afct soil water,soil temperature and yield of maize on the semiarid Loess Plateau of China[J].Field Crops Research,2009,113(1): 41-47.   \n[26] Zhu L,Liu JL, Luo S S,et al. Soil mulching can mitigate soil water deficiency impacts on rainfed maize production in semiarid environments[J]. Journal of Integrative Agriculture,2O15,14(1): 58-66.   \n[27] 杨丽,王宗胜,刘杰.地膜覆盖类型对胡麻生理生长的影响[J]. 安徽农业科学,2021,49(4): 37-42.[Yang Li, Wang Zongsheng, Liu Jie,et al.Effects of mulching cultivation with diferent films on the growth and physiological characteristics of flax[J]. Journal of Anhui Agricultural Sciences,2021,49(4): 37-42.] [28] 王罕博,龚道枝,梅旭荣,等.覆膜和露地旱作春玉米生长与蒸 散动态比较[J].农业工程学报,2012,28(22):88-94.[Wang Hanbo,Gong Daozhi,Mei Xurong,et al. Dynamics comparison of rainfed spring maize growth and evapotranspiration in plastic mulching and unmulching fields[J]. Transactions of the Chinese Society of Agricultural Engineering,2012,28(22): 88-94.] [29] 刘伟,田德龙,侯晨丽,等.膜下滴灌对春小麦水热条件及产量 品质的影响[J].灌溉排水学报,2020,39(11):29-37.[Liu Wei, Tian Delong,Hou Chenli,et al.The dynamics of soil moisture and temperature under film mulched drip irrigation and its impact on yield and quality of spring wheat[J]. Journal of Irigation and Drainage,2020,39(11): 29-37.] [30] 闫曼曼,郑剑超,张巨松,等.调亏灌溉对海岛棉光合物质生产 与分配的影响[J].干旱区研究,2016,33(6):1351-1357.[Yang Manman, Zheng Jianchao, Zhang Jusong,et al. Effects of regulated deficit irrigation on production and distribution of photosynthetic matter in Gossypium barbadense L.[J].Arid Zone Research,   \n2016,33(6): 1351-1357.] [31] 杨司睿,范井伟,孙永强,等.罗布泊腹地人工植被梭梭的光学 特性及其对干旱胁迫的响应[J].干旱区研究,2018,35(2):379-   \n386.[Yang Sirui,Fan Jingwei, Sun Yongqiang,etal.Photosynthetic characteristics and response of Haloxylon ammodendron to drought stress in hinterland of the Lop Nur[J].Arid Zone Research,2018,35(2): 379-386.] [32] 王凯,赵成姣,林婷婷,等.水分处理对榆树幼苗不同器官非结 构性碳水化合物的影响[J].干旱区研究,2019,36(1):113-121. [Wang Kai,Zhao Chengjiao,Lin Tingting,etal.Effectsof different water reatments on non- structural carbohydrates in diferent organs of Ulmus pumila seedlings in the Horqin Sandy Land[J].Arid Zone Research,2019,36(1): 113-121.] [33] 车旭升,吕剑,冯致,等.不同灌水下限及氮素形态配比对西兰 花干物质分配、产量及品质的影响[J].华北农学报,2020,35 (5):149-158.[Che Xusheng,Lyu Jian,Feng Zhi,et al.Effects of different irrigation lower limit and nitrogen form ratio on dry matter distribution,yield and cquality of broccoli[J].Acta Agriculturae Boreali Sinica,2020,35(5): 149-158.] [34]薛良震.滴灌水氮调控对小麦植株干物质积累特性的影响[J]. 农村实用技术,2019(10): 24-25.[Xue Liangzhen.Efect of drip irrigation water and nitrogen regulation on dry matter accumulation characteristics of wheat plants[J].Applicable Technologies for Rural Areas,2019(10): 24-25.] [35]马俊峰.不同灌溉上限对日光温室甜椒幼苗生长与干物质积累 的影响[J].北方园艺,2020(17):54-60.[Ma Junfeng.Effects of different irrigation maximum on growth dynamics and dry matter accumulation of sweet peper seedling in greenhouse[J]. Northern Horticulture,2020(17): 54-60.]   \n[36] 张静鸽,田福平,苗海涛,等.水分胁迫及复水过程4种牧草形 态及其生理特征表达[J].干旱区研究,2020,37(1):193-201. [Zhang Jingge,Tian Fuping,Miao Haitao,et al. Expressions of morphological and physiological features of 4 forage species under water stress and re-watering process[J]. Arid Zone Research, 2020, 37(1): 193-201.]   \n[37] 马微,尹娟.不同灌水处理对马铃薯块茎品质及产量的影响[J]. 宁夏工程技术,2011,10(3):232-235.[Ma Wei,Yin Juan.Effect of different treatment of drip irigation on quality and yield of potato[J].Ningxia Engineering Technology,2011,10(3): 232-235.]   \n[38] 温鹏飞,袁晨茜,杨刘燕,等.轻度土壤干旱对赤霞珠果实品质 的影响[J].山西农业科学,2013,41(3): 238-242.[Wen Pengfei, Yuan Chenxi,Yang Liuyan,etal.Effectof lightsoil droughton the qualities of grape berry[J]. Journal of Shanxi Agricultural Sciences, 2013,41(3): 238-242.]   \n[39] 高彦婷,张芮,李红霞,等.水分胁迫对葡萄糖分及其蔗糖代谢 酶活性的影响[J].干旱区研究,2021,38(6):1713-1721.[GaoYanting,Zhang Rui,Li Hongxia, et al.Effect of water stress on sugar accumulation and sucrose metabolism enzyme activities of greenhouse grape fruit[J].Arid ZoneResearch,2O21,38(6):1713- 1721.]   \n[40] 朱俊岭,师茜,王小红,等.不同水分处理条件对油莎豆叶片生 理指标及块茎品质的影响[J].西南农业学报,2016,29(6): 1276-1280.[Zhu Junling,Shi Qian, Wang Xiaohong,etal.Effects of different moisture on leaf physiological regulation substances content and quality of Cyperus esculentus L.[J]. Southwest China Journal of Agricultural Sciences,2016,29(6): 1276-1280.]   \n[41]周继莹,成自勇,王峰,等.覆膜沟灌条件下不同水氮处理对番 茄产量与品质的影响[J].干旱地区农业研究,2013,31(4):43- 49.[Zhou Jiying,Cheng Ziyong,Wang Feng,etal.Efects of water and nitrogen on yield and fruit quality of tomato under furrow irrigation and plastic film mulching cultivation[J].Agricultural Research in the Arid Areas,2013,31(4): 43-49.]   \n[42] 周宣,王若水,李超楠,等.水分调控对苹果-大豆间作生理特 性及水分利用的影响[J].排灌机械工程学报,2021,39(4):410- 418.[Zhou Xuan,Wang Ruoshui,Li Chaonan,et al.Effects of water egulation on physiologicalcharacteristicsand water useof apple-soybean intercropping system[J]. Journal of Drainage and rrigation Machinery Engineering,2021,39(4): 410-418.]   \n[43] 李莎,李援农.种植模式和灌溉对冬小麦生长、产量及品质的影 响[J].节水灌溉,2012(3): 6-9.[Li Sha,Li Yuannong.Effects of different planting patternsand irigation on growth,yieldand quality of winter wheat[J]. Water Saving Irrigation,2012(3): 6-9.]   \n[44] 刘军,齐广平,康燕霞,等.土壤水分胁迫对紫花苜蓿光合特性 及其生物量的影响[J].干旱区研究,2019,36(4):893-900.[Liu Jun,Qi Guangping,Kang Yanxia,etal.Effects ofsoil waterstress on photosynthetic characteristics and biomass of Medicago sativa [J]. Arid Zone Research,2019,36(4): 893-900.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Effects of deficit irrigation and film mulching on biomass and production of Cyperus esculentus in the southern Xinjiang Basin ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "DING Yal234，YANG Jianming²，LI Li234，ZHANG Zhihao234，ZENG Fanjiangt23.4 (1. College of Resources and Environmental Science,Xinjiang University,Urumqi 830046,Xinjiang, China; 2.Xinjiang Desert PlantRoots Ecology and Vegetation Restoration Laboratory,Xinjiang Institute of Ecologyand Geography,Chinese Academy of Sciences,Urumqi 8300l1,Xinjiang,China;3.State Key Laboratoryof Desertand Oasis Ecology, Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences, Urumqi 830011, Xinjiang, China; 4. Cele National Station of Observation and Research for Desert-Grassand Ecosystem, Cele 848300,Xinjiang, China;5.Departmentof Ecological Protectionand Restoration,Forestryand Grassand Bureau of Xinjiang Uygur Autonomous Region,Urumqi 83OO11, Xinjiang, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The effect of drip irrigation and film mulching of Yousha beans in the southern Xinjiang basin and the optimal irrigation system were explored to provide a reference for constructing a water-saving and high-yield management and cultivation mode.A 1-year experiment was conducted under conditions of film mulching (M) and no film mulching (NM). Addtionally,three water control levels were set, the irrigation frequency was $6 - 1 0$ days,irrigation amounts of T1 and T2 were $3 4 3 1 . 4 0 \\ \\mathrm { m } ^ { 3 } \\cdot \\mathrm { h m } ^ { - 2 }$ and $4 1 3 3 . 8 5 ~ \\mathrm { m } ^ { 3 } \\cdot \\mathrm { h m } ^ { - 2 }$ ,respectively,and a local common irrigation amount was used as the control (CK, $5 3 1 6 . 4 5 ~ \\mathrm { m } ^ { 3 } \\cdot \\mathrm { h m } ^ { - 2 } )$ yield and water use efficiency.Results showed that the density of Cyperus esculentus. was significantly affected by water treatment ( $_ { ( P < 0 . 0 5 ) }$ ,but the root: shoot ratio was not significantly affected by water treatment ( $( P { > } 0 . 0 5 )$ . Contents of crude fat, soluble starch, and soluble sugar of grass covered with a plastic film increased by $5 8 . 8 2 \\%$ ， $3 . 3 5 \\%$ ,and $1 7 . 2 0 \\%$ , respectively, on average compared with those without plastic film. Contents of crude fat, soluble starch,and soluble sugar of tubers covered with plastic film were higher than those without plastic film and increased by $7 . 4 8 \\%$ ， $2 . 5 6 \\%$ and $2 . 5 5 \\%$ , respectively. Furthermore, there was no significant difference between water treatments $( P { > } 0 . 0 5 )$ but they reached the maximum in the T2 treatment.The yield and water use eficiency increased first and then decreased with an increased irigation amount. Under film mulching conditions,the yield of grass and tubers under the T2 treatment were the largest and were $3 9 7 4 . 5 5 \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ and $5 2 5 3 . 8 5 \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ and significantly increased by $6 . 4 5 \\%$ and $3 6 . 9 5 \\%$ ，respectively,compared with the CK treatment $( P { < } 0 . 0 5 )$ . Compared with a condition of no film mulching, the average yield of T2 and CK significantly increased by $2 9 . 4 1 \\%$ and $34 . 7 6 \\%$ ,respectively $( P { < } 0 . 0 5 )$ The water use effciency of grass and tubers in the T2 treatment was significantly higher than the CK by $3 8 . 6 3 \\%$ and $34 . 3 3 \\%$ $( P { < } 0 . 0 5 )$ ,respectively. Compared with T2 (film mulching), the water use eficiency of grass and tubers treated with the CK and T2 under no film mulching conditions was significantly increased by $3 8 . 9 1 \\%$ and $34 . 3 3 \\%$ ,respectively $( P { < } 0 . 0 5 )$ . There was no significant difference in the water use efficiency of grass $( P { > } 0 . 0 5 )$ ， but there was a significant difference in the water use efficiency of tubers $( P { < } 0 . 0 5 )$ .Therefore,under film mulching conditions, the irrigation quota was $4 1 3 3 . 8 5 ~ \\mathrm { m } ^ { 3 } \\cdot \\mathrm { h m } ^ { - 2 }$ ，which improved not only the quality and yield of Cyperus esculentus but also the water use efficiency and saved water resources,that is,under conditions of film mulching, the irrigation mode with an irrigation quota of $4 1 3 3 . 8 5 ~ \\mathrm { m } ^ { 3 } \\cdot \\mathrm { h m } ^ { - 2 }$ showed economic and water- saving benefits. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Cyperus esculentus; irrigation; quality; production; water use efficiency； southern Xinjiang Basin ",
+        "page_idx": 9
+    }
+]

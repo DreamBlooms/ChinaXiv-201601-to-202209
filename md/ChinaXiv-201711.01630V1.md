@@ -1,0 +1,162 @@
+大豆甙元对生长期锦江黄牛生产性能、抗氧化能力及免疫性能的影响周　珊」　赵向辉」杨食堂² 陈作栋」　瞿明仁1\*（1.江西农业大学，江西省动物营养重点实验室，饲料工程研究中心，南昌330045；2.高安裕丰农牧有限公司，高安330800)
+
+5摘要：本试验旨在研究大豆甙元对生长期锦江黄牛生产性能、抗氧化能力及免疫性能的影响。选取20头健康状况良好、体重为（ $1 4 0 { \pm } 5$ ）kg 的生长期锦江黄牛，随机分为4组，每组5 头牛。对照组饲喂基础饲粮（精粗比为4:6)，试验组分别饲喂在基础饲粮中添加了100、200和 $4 0 0 \mathrm { m g / k g }$ 大豆甙元的试验饲粮。限饲各组的干物质采食量均为 $3 . 9 8 \mathrm { k g / d }$ 。预试期为10 d,正试期为 $6 0 \mathrm { d } .$ 结果表明：1)各试验组平均日增重显著高于对照组( $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ ）, 400 mg/kg组较对照组高126.6g/d。2）各试验组粗蛋白质表观消化率均显著高于对照组（ $P { < } 0 . 0 5$ 。3)与对照组相比，各试验组血清总超氧化物歧化酶(T-SOD)活性均显著升高（ $. P { < } 0 . 0 5 )$ ；各试验组血清谷胱甘肽过氧化物酶(GSH $\mathbf { \cdot P x }$ )活性相比于对照组均有升高的趋势（ $0 . 0 5 { \le } P { \le } 0 . 1 0 )$ ；各试验组血清丙二醛(MDA)含量均低于对照组，但差异不显著（ $P { > } 0 . 0 5$ )。4）各试验组血清免疫球蛋白（Ig）M含量均显著高于对照组（ $. P { < } 0 . 0 5 \$ ），同时 $4 0 0 \mathrm { m g / k g }$ 组显著高于 $1 0 0 \mathrm { m g / k g }$ 组（ $. P { < } 0 . 0 5 )$ ；各试验组的血清IgG 含量相比于对照组均有一定程度的升高，但差异均不显著（ $( P { > } 0 . 0 5 )$ )。由上述结果可见，饲粮中添加适量的大豆甙元可以提高生长期锦江黄牛养分消化率，促进犊牛的生长，同时提高免疫及抗氧化性能。
+
+关键词：肉牛；大豆甙元；生产性能；免疫性能；抗氧化性能
+
+中图分类号：S823；S816.7
+
+随着我国经济不断发展，人们的生活水平不断提高，民众的膳食结构在不断地发生改变，而牛肉因其脂肪含量低、富含蛋白质的特点受到人们的喜爱。从肉牛养殖实践可知，犊牛的培育是肉牛养殖的关键环节，因为这一阶段是牛只损失的危险期；并且，犊牛发育的好坏严重影响到后续的生产性能。因此，在特牛饲养阶段，不仅要确保特牛能够获取生长所必需的各种营养，还要提高特牛的免疫力，保证特牛的健康成长，从而在保证养殖户的经济收益同时，也为广大消费者提供安全、优质的牛肉。大豆甙元（daidzein，DA)，别名大豆黄酮、大豆素，又名葛根黄豆苷元Ⅲ，是大豆异黄酮类化合物中主要的游离甙元之一。大豆甙元的分子式及相对分子质量分别为 $\mathrm { { C _ { 1 5 } H _ { 1 0 } O _ { 4 } } }$ 和 254.24。一般情况下，大豆甙元呈白色粉末状，无味、无毒，不溶于水，但易溶解于醇和酮类溶剂，极易溶于二甲基亚矾。大豆甙元首次于1931年从大豆中分离提取。大豆甙元的结构与哺乳动物雌激素的结构相似[2]，从而促使其具有弱雌激素活性的生物学效应[3]。此外，Kaldas 等[4]的研究表明，大豆甙元还具有抗雌激素样的作用。大豆甙元是一种雌激素样的天然活性物质，它能够调节机体的神经内分泌，影响机体的激素分泌水平，从而提高肉公鸡以及去势仔公猪饲料利用率[5-6]，增强肉公鸡、去势仔公猪以及东北细毛羊的日增重效果[5-8]，但对肉母鸡生长性能无显著影响[5]，甚至对雌性去势仔母猪的生长起到抑制的效果[5-7],提高断奶仔猪饲粮的养分消化率[9]。研究表明，大豆黄酮具有显著的抗氧化能力[0]。畜牧生产实践证明，饲粮中添加大豆黄酮可以显著提高小尾寒羊、老龄蛋鸡、肥育猪、奶牛的抗氧化能力[1-14]。以往的研究表明，大豆黄酮可显著提高新生仔猪的血清中母源抗体水平和T 淋巴细胞 $\mathrm { C D ^ { 8 + } }$ 、 $\mathrm { C D ^ { 4 + } }$ 亚群比例，提高母猪乳腺局部及整体的体液免疫功能[13.15]，提高奶牛血浆中的乳及血清中免疫球蛋白（Ig）A、IgG 含量[16-17]，增强雏公鸡淋巴细胞对植物血凝素的反应性，显著增加其免疫器官的相对重量[18]。大豆甙元在畜牧生产中的应用主要集中在蛋鸡、奶牛、猪肉鸡等动物，研究在动物不同生长时期饲粮中添加大豆甙元对其性能和生理生化指标的影响，以期为降低畜牧业生产成本和提高生产效率提供依据。前人大量研究表明，通过在动物饲粮中添加大豆甙元可以提高动物抗氧化能力及免疫性能，从而促进动物的生长。因此，本试验拟通过在生长期锦江黄牛饲粮中添加大豆甙元，研究其对生产性能、抗氧化能力、免疫性能的影响，为大豆甙元在肉牛生产中的应用提供依据。
+
+# 1材料与方法
+
+1.1试验材料、试验时间与地点大豆甙元(陕西慈缘生物技术有限公司)纯度 $> 9 8 \%$ 。本试验于2015年4月25日至2015  
+年7月3日在江西高安裕丰农牧有限公司牛场进行。预试期为 $1 0 \mathrm { d }$ ，正试期为 $6 0 \mathrm { d }$ ，试验为  
+期 $7 0 \mathrm { d }$ 。
+
+# 1.2 试验设计及饲粮
+
+选取20头健康状况良好、体重为（ $1 4 0 { \pm } 5$ ）kg的6月龄锦江黄牛公特，随机分为4组，每组5 头牛。对照组饲喂基础饲粮，试验组分别饲喂在基础饲粮中添加了100、200 和 400mg/kg 大豆甙元（风干基础）的试验饲粮。基础饲粮精粗比为4:6，由于限饲各组的干物质（DM）采食量均为 $3 . 9 8 \mathrm { k g / d }$ 。正试期生长期锦江黄牛饲粮营养水平按照我国《肉牛饲养标准》（NY/T815-2004）要求进行配制。精料由玉米、豆粕、小苏打、食盐、预混料组成，粗料为稻草。基础饲粮组成及营养水平见表1。
+
+# 表1基础饲粮组成及营养水平 (风干基础)
+
+# Table 1 Composition and nutrient levels of the basal diet (air-dry basis) %
+
+项目Items 含量Content  
+原料Ingredients  
+玉米Corn 25.2  
+豆粕 Soybean meal 12.0  
+食盐 NaCl 0.4  
+小苏打 NaHCO3 0.8  
+预混料 Premix1) 1.6  
+稻草 Rice straw 60.0  
+合计 Total 100.0  
+营养水平 Nutrient levels2)  
+综合净能 $\mathrm { N E } _ { \mathrm { m f } } / ( \mathrm { M J } / \mathrm { k g } )$ 4.49  
+干物质 DM 89.39  
+粗蛋白质 CP 9.69  
+中性洗涤纤维 NDF 41.39  
+酸性洗涤纤维 ADF 22.60  
+粗灰分 Ash 8.21  
+钙Ca 0.34  
+磷P 0.24
+
+1)每千克预混料含 One kg of premix contained the following:VA 150 000 IU,VD3 20 00 IU,VE 3 000 IU, Fe $3 2 0 0 \mathrm { m g }$ ，Mn 1 500 mg， $\mathrm { Z n } 2 0 0 0 \mathrm { m g }$ ， $\mathrm { C u } 6 5 0 \mathrm { m g }$ ， $\mathrm { ~ I ~ } 3 5 \mathrm { ~ m g ~ }$ ，Se $1 0 \mathrm { m g }$ ，Co $1 0 \mathrm { m g }$ ，Ca $1 3 0 \mathrm { g }$ ， $\mathrm { ~ P ~ } 3 0 \mathrm { ~ g ~ }$ 。 2)综合净能、钙和磷为计算值，其余为实测值。 $\mathrm { N E } _ { \mathrm { m f } }$ Ca and $\mathrm { \bf ~ P }$ were calculated values, while others were measured values.
+
+# 1.3 指标测定及方法
+
+# 1.3.1 生长性能测定
+
+在正试期第1天和第60天的08:30，对犊牛进行空腹称重，以记录每头牛试验初始重和末重，计算各组特牛试验期的平均日增重。
+
+平均日增重(g/d) $\mathbf { \sigma } = \mathbf { \sigma }$ （末重-始重）/试验天数。
+
+1.3.2 粪样采集、常规营养成分测定及消化率计算
+
+消化试验采用内源指示剂法，试验结束前3天进行消化试验，每组选取体重相近的 3头牛，每天定时随机抽取新鲜粪样，每天收集3次并于18:00 将每组收集的粪样进行混匀并称重。采用四分法称取2份 $5 0 0 \mathrm { g }$ 的新鲜粪样作为分析样品，其中一份加入 $2 0 \mathrm { m L } 1 0 \%$ 的稀硫酸，以防止氨氮的损失， $4 ^ { \circ } \mathrm { C }$ 冷藏保存。试验结束后将每个重复连续3d的样品进行混匀，置于 $6 5 ^ { \circ } \mathrm { C }$ 烘箱中烘干。烘干后用密封式样品粉碎机进行粉碎，粉碎后样品过40目筛，保存于自封袋中备用。加稀硫酸的粪样用于分析粪中含氮量，另一份用于测定营养物质含量。饲粮及粪样的营养物质含量测定：干物质、粗蛋白质（CP）、有机物（OM)、中性洗涤纤维（NDF）、酸性洗涤纤维（ADF）含量的测定参照《饲料分析及饲料质量检测技术》[19]进行。饲粮及粪便中的酸不溶灰分（AIA）含量根据4mol/L-HCI不溶灰分法测定。养分表观消化率 $( \% ) \ = 1 . { b c } / { a d } .$ 0式中： $\mathbf { \Delta } _ { a }$ 为饲粮样中某养分的含量 $( \% )$ ； $b$ 为粪样中该养分的含量 $( \% )$ ； $\boldsymbol { \mathbf { \mathit { c } } }$ 为饲粮样中指示剂酸不溶灰分含量 $( \%$ ； $d$ 为粪样中指示剂酸不溶灰分的含量 $( \% )$ 。
+
+# 1.3.3抗氧化能力及免疫性能测定
+
+在正试期的第60天的08:30，用真空采血管对每头特牛进行颈静脉采血。用无抗凝采血管采集 $1 5 ~ \mathrm { m L }$ 血液，倾斜静置 $3 0 \mathrm { m i n }$ 后，以 $3 5 0 0 \mathrm { r / m i n }$ 转速离心 $1 0 \mathrm { m i n }$ ，吸取离心后的上清液，制备血清，放置于 ${ } _ { - 2 0 \mathrm { ~ \textdegree C } }$ 冷冻保存。血清丙二醛（MDA）含量及谷胱甘肽过氧化物酶（GSH-Px）、总超氧化物歧化酶（T-SOD）活性的测定参照试剂盒说明书的步骤进行，试剂盒均购自南京建成生物工程研究所。采用免疫比浊法对血清样品中IgA、IgM、IgG 进行测定。
+
+# 1.4 数据处理及分析
+
+采用 Excel2003 对所有试验数据进行初步整理，使用 SPSS17.0中的单因素方差分析（one-wayANOVA）进行差异显著性分析，当存在显著差异时用Duncan 氏法进行对照组和各试验组之间的多重比较。 $P { < } 0 . 0 5$ 表示差异显著； $0 . 0 5 { \le } P { \le } 0 . 1 0$ 表示存在差异显著的趋势。
+
+932结果
+
+2.1饲粮中添加大豆甙元对生长期锦江黄牛生长性能的影响由表2可知，各试验组平均日增重与对照组相比均差异显著（ $\scriptstyle \cdot < 0 . 0 5$ ），与对照组相比，100、200、 $4 0 0 \mathrm { m g / k g }$ 组的平均日增重分别提高了 $1 9 . 0 5 \%$ 、 $2 1 . 0 5 \%$ 和 $2 9 . 1 9 \%$ ， $4 0 0 \mathrm { m g / k g }$ 组显著高于 $1 0 0 \mathrm { m g / k g }$ 组 $( P { < } 0 . 0 5 )$ ，而 $2 0 0 \mathrm { m g / k g }$ 组与其他试验组之间差异不显著（ $( P { > } 0 . 0 5 )$ ）。
+
+Table 2 Effects of dietary supplementation of daidzein on average daily gain of growing Jinjiang cattle g/d 项目Item 大豆甙元添加水平 Daidzein supplemental levels/（ $\mathrm { m g / k g } \mathrm { \cdot }$ ） SEM $P$ 值   
+
+<html><body><table><tr><td></td><td>0</td><td>100</td><td>200</td><td>400</td><td></td><td>P-vaide</td></tr><tr><td>平均日增重 ADG</td><td>433.7℃</td><td>516.3b</td><td>525.0ab</td><td>560.3a</td><td>12.6</td><td><0.001</td></tr></table></body></html>
+
+100 同行数据肩标相同或无字母表示差异不显著 $( P > 0 . 0 5 )$ ，不同字母表示差异显著（ $P < 0 . 0 5 ^ { \cdot }$ )。下表同。  
+101 In the same row,values with the same or no letter superscripts mean no significant difference ( $\cdot P { > } 0 . 0 5 \$ ）  
+102 while with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ . The same as below.  
+103 2.2 饲粮中添加大豆甙元对生长期锦江黄牛养分消化率的影响  
+104 由表3可知，与对照组相比，饲粮中添加大豆甙元显著提高生长期锦江黄牛对饲粮中  
+105 粗蛋白质的表观消化率（ $. P { < } 0 . 0 5 )$ ， $1 0 0 ~ \mathrm { { m g / k g } }$ 组与对照组相比提高了 $4 . 7 9 \%$ ， $2 0 0 ~ \mathrm { m g / k g }$ 组  
+106 与对照组相比提高了 $5 . 5 2 \%$ ， $4 0 0 ~ \mathrm { m g / k g }$ 组与对照组相比提高了 $5 . 1 1 \%$ ，但各试验组间的粗  
+107 蛋白质表观消化率无显著性差异（ $. P { > } 0 . 0 5 )$ 。各试验组的有机物、中性洗涤纤维、酸性洗涤  
+108 纤维表观消化率与对照组相比，均差异不显著（ $P { > } 0 . 0 5 )$ 。
+
+表2饲粮中添加大豆甙元对生长期锦江黄牛平均日增重的影响  
+表3饲粮中添加大豆甙元对生长期锦江黄牛养分表观消化率的影响  
+Table 3 Effects of dietary supplementation of on apparent digestibility of nutrients of growing Jinjiang   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="2">cattle</td><td colspan="3">%</td><td rowspan="2"></td></tr><tr><td></td><td></td><td>大豆甙元添加水平 Daidzein supplemental levels/（mg/kg）</td><td></td><td>SEM P值</td></tr><tr><td></td><td>0</td><td>100</td><td>200</td><td>400</td><td></td><td>P-value</td></tr><tr><td>有机物OM</td><td>71.72</td><td>70.69</td><td>71.91</td><td>73.40</td><td>0.55</td><td>0.414</td></tr><tr><td>粗蛋白质 CP</td><td>65.78b</td><td>68.93a</td><td>69.41a</td><td>69.14a</td><td>0.55</td><td>0.029</td></tr><tr><td>中性洗涤纤维NDF</td><td>74.05</td><td>70.21</td><td>73.97</td><td>74.61</td><td>0.72</td><td>0.094</td></tr><tr><td>酸性洗涤纤维ADF</td><td>73.62</td><td>71.19</td><td>73.76</td><td>72.42</td><td>0.60</td><td>0.452</td></tr></table></body></html>
+
+112 2.3饲粮中添加大豆甙元对生长期锦江黄牛血清抗氧化指标的影响
+
+由表4可知，试验组锦江黄牛的血清 MDA含量相比于对照组有一定的程度的降低，但不存在显著性差异（ $. P { > } 0 . 0 5$ )。随着饲粮中大豆甙元添加水平的增加，生长期锦江黄牛血清中T-SOD活性也在持续的升高，且各试验组均显著高于对照组( $\scriptstyle \cdot < 0 . 0 5 )$ ,其中以 $4 0 0 \mathrm { m g / k g }$ 组活性最高。各试验组血清GSH $\mathbf { \cdot P x }$ 活性相比于对照组均有升高的趋势（ $0 . 0 5 { \le } P { \le } 0 . 1 0 )$ 。
+
+表4饲粮中添加大豆甙元对生长期锦江黄牛血清抗氧化指标的的影响  
+
+<html><body><table><tr><td colspan="7">Table 4 Effects of dietary supplementation of daidzein on serum antioxidant indices of growing Jinjiang cattle</td></tr><tr><td>项目</td><td>大豆甙元添加水平 Daidzein supplementallevels/（mg/kg）</td><td></td><td></td><td></td><td>SEM</td><td>P值</td></tr><tr><td>Items</td><td>0</td><td>100</td><td>200</td><td>400</td><td></td><td>P-value</td></tr><tr><td>丙二醛</td><td>4.71</td><td>4.64</td><td>4.12</td><td>4.35</td><td>0.25</td><td>0.847</td></tr><tr><td>MDA/（nmol/mL)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总超氧化物歧化酶</td><td>146.01b</td><td>167.75a</td><td>168.51a</td><td>178.99a</td><td>3.49</td><td>0.001</td></tr><tr><td>T-SOD/ (U/mL)</td><td>91.58</td><td>102.97</td><td>100.80</td><td>104.74</td><td>1.93</td><td>0.058</td></tr><tr><td>谷胱甘肽过氧化物酶 GSH-Px/(U/mL)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+2.4饲粮中添加大豆甙元对生长期锦江黄牛血清免疫指标的影响
+
+由表5可知，与对照组相比，100、200、 $4 0 0 ~ \mathrm { m g / k g }$ 组生长期锦江黄牛血清IgG 含量分别升高了 $8 . 6 0 \%$ 、 $6 . 3 8 \%$ 和 $1 6 . 4 3 \%$ ，但各组间均无显著性差异（ $. P { > } 0 . 0 5 .$ 。200和 $4 0 0 \mathrm { m g / k g }$ 组生长期锦江黄牛血清 $\mathrm { I g } \mathrm { M }$ 含量分别为2.67和 $2 . 8 2 ~ \mathrm { g / L }$ ，均显著高于对照组（ $_ { _ { P < 0 . 0 5 ) } }$ ，但这2组之间无显著差异（ $( P { > } 0 . 0 5 )$ ； $1 0 0 \mathrm { m g / k g }$ 组生长期锦江黄牛血清 $\mathrm { I g } \mathrm { M }$ 含量高于对照组，但差异不显著（ $( P { > } 0 . 0 5 )$ 。各试验组生长期锦江黄牛血清IgA 含量与对照组相比无显著性差异（ $. P { > } 0 . 0 5 )$ 。
+
+Table 5Effects of dietary supplementation of daidzein on serum immunological indexes of growing Jinjiang
+
+表5饲粮中添加大豆甙元对生长期锦江黄牛血清免疫指标的影响  
+
+<html><body><table><tr><td colspan="4">cattle g/L</td><td colspan="3"></td></tr><tr><td>项目</td><td></td><td>大豆甙元添加水平 Daidzein supplemental levels/（mg/kg）</td><td></td><td></td><td>SEM</td><td>P值</td></tr><tr><td>Items</td><td>0</td><td>100</td><td>200</td><td>400</td><td></td><td>P-value</td></tr><tr><td>免疫球蛋白GIgG</td><td>10.35</td><td>11.24</td><td>11.01</td><td>12.05</td><td>0.29</td><td>0.241</td></tr><tr><td>免疫球蛋白MIgM</td><td>2.41c</td><td>2.55bc</td><td>2.67ab</td><td>2.82a</td><td>0.05</td><td>0.002</td></tr><tr><td>免疫球蛋白AIgA</td><td>0.94</td><td>1.04</td><td>0.94</td><td>0.91</td><td>0.02</td><td>0.196</td></tr></table></body></html>
+
+129 3讨论
+
+3.1饲粮中添加大豆甙元对生长期锦江黄牛生长性能的影响
+
+大量试验研究表明，大豆甙元能促进雄性动物的生长，但对雌性动物和去势动物的促生长效果不一致。郭晓红等[5]在1日龄艾维茵肉鸡基础饲粮中分别添加 5、10 和 $1 5 \mathrm { \ m g / k g }$ 大豆黄酮，研究对公、母鸡的生长性能的影响，结果表明饲粮中添加大豆黄酮可显著增加肉公鸡的平均体增重、饲料利用率及平均日采食量，而对肉母鸡生产性能无显著影响。郭慧君等[用添加有 $5 \ \mathrm { m g / k g }$ 大豆黄酮基础饲粮饲喂断奶仔猪（公、母均去势)，连续饲喂 $3 0 \mathrm { ~ d ~ }$ 结果显示，与对照组相比，试验组的增重存在明显性别差异，雄性去势仔猪增重提高 $5 9 . 1 5 \%$ 但雌性去势仔猪低 $2 6 . 3 9 \%$ 。本试验研究结果与前人基本一致，在饲粮中添加大豆甙元各试验组犊公牛的平均日增重均显著提高。有关大豆甙元促进雄性动物生长的作用机理韩正庚[20]做了系统的研究，大豆甙元具有弱的雌激素活性能与下丘脑、垂体等雌二醇受体结合，影响动物神经内分泌的性腺轴及生长轴，从而促进雄性动物睾酮的分泌，同时使垂体的生长激素生成和释放增加，刺激肝脏生长激素受体发育和胰岛素样生长因子-I生成，从而促进动物的生长发育。
+
+# 3.2饲粮中添加大豆甙元对生长期锦江黄牛养分表观消化率的影响
+
+李方方等[9在大白断奶仔猪饲粮中分别添加0（对照）、5、10 和 $1 5 \mathrm { m g / k g }$ 大豆异黄酮，研究其对仔猪养分表观消化率影响，结果得出，各试验组的粗蛋白质表观消化率均高于对照组，且 $1 0 \ \mathrm { m g / k g }$ 组与对照组差异显著。本试验得出基本一致的结果，在生长期锦江黄牛基础饲粮中添加大豆甙元可以显著提高粗蛋白质表观消化率。有研究报道，大豆异黄酮具有提高动物血清胰岛素含量、降低血清葡萄糖含量的作用，因此促进了机体对饲料中的营养物质进行分解，为机体提供了所需能量，从而提高了饲粮蛋白质和脂肪利用率[19]。
+
+刘春龙等[21]发现，在奶牛的基础饲粮中添加 $2 0 0 ~ \mathrm { m g / d }$ 大豆黄酮，可以显著提高奶牛瘤胃内木聚糖酶、羧甲基纤维素酶、水杨苷酶和微晶纤维素酶的活性，由此表明大豆黄酮在适宜添加水平下有促进饲料纤维性物质降解的作用。而本试验研究结果与其不一致， $1 0 0 \mathrm { m g / k g }$ 组中性洗涤纤维表观消化率相比于对照组有降低的趋势，因此作者推测可能是该添加水平下瘤胃相关纤维降解菌的丰度降低，导致了中性洗涤纤维表观消化率的降低。
+
+3.3饲粮中添加大豆甙元对生长期锦江黄牛抗氧化能力的影响
+
+正常生理状态下的动物机体，体内自由基的产生与清除保持着动态平衡，从而使自由基的含量处于较适宜的水平[22]。该防御体系主要由酶促和非酶促2个系统组成。酶促反应系统由超氧化物歧化酶（SOD）、GSH-Px 和过氧化氢酶（CAT）等抗氧化酶组成；维生素E、维生素C、β-胡萝卜素、金属蛋白和半胱氨酸等组成非酶促反应系统。一般认为，机体内高的CAT、SOD、GSH-Px活性，以及低的MDA含量暗示机体具备良好的抗氧化能力[23]。谢棒祥等[24报道大豆产品具有抗氧化、清除过氧化氢和超氧离子的作用，并认为是大豆黄酮在起作用。刘德义等[在奶牛基础饲粮中添加大豆黄酮，结果显示，与对照组相比，试验组奶牛的血清 CAT、SOD 及GSH-Px 活性均显著增加，血清 MDA 含量显著的降低。程忠刚等[13]发现，大豆黄酮可以显著降低肥育猪血清 MDA 含量，显著提高血清 SOD、GSH-Px的活性。本试验研究结果得出，在生长期锦江黄牛饲粮中添加大豆甙元可以显著升高血清T-SOD活性，同时各试验组的GSH- $\mathbf { \cdot P x }$ 活性相比于对照组有升高的趋势，且各试验组的血清MDA 含量均低于对照组。说明在畜禽饲粮中添加一定水平的大豆甙元可以在一定程度上提高机体的抗氧化能力。
+
+3.4饲粮中添加大豆甙元对生长期锦江黄牛免疫性能的影响
+
+大豆甙元属于植物源免疫调节剂，可以作用于靶组织或者靶细胞上的雌激素受体，因此往往通过神经一内分泌途径调节免疫器官或细胞上的雌激素受体进而发挥免疫调节作用[25-26]。在动物饲粮中添加适量的大豆甙元可以促淋巴细胞的增殖，从而提高机体的免疫能力;但过量的添加会抑制淋巴细胞的增殖，进而抑制机体的免疫功能[27]。郑立等[16]、杨建英等[17]发现，大豆黄酮能提高奶牛血浆及乳中 IgG、IgA 含量。Liu 等[28]研究表明，在热应激奶牛的泌乳后期饲粮中添加300、 $4 0 0 \mathrm { m g / d }$ 的大豆黄酮，奶牛血液中IgG 含量极显著高于对照组及 $2 0 0 \mathrm { \ m g / d }$ 组。本试验结果显示，饲粮中添加大豆甙元显著提高生长期锦江黄牛血清IgM含量，同时各试验组的血清IgG 含量有一定程度的升高，但对血清IgA 含量无显著影响。由此我们可以得出，大豆甙元具有提高特牛免疫性能的作用。
+
+4结论
+
+$\textcircled{1}$ 饲粮中添加大豆甙元可以显著提高生长期锦江黄牛平均日增重，其中以饲粮中添加$4 0 0 \mathrm { m g / k g }$ 促增长效果最佳。$\textcircled{2}$ 饲粮中添加大豆甙元可以显著提高生长期锦江黄牛粗蛋白质表观消化率。$\textcircled{3}$ 饲粮中添加大豆甙元可以改善生长期锦江黄牛血清抗氧化能力。$\textcircled{4}$ 饲粮中添加大豆甙元可以提高生长期锦江黄牛免疫性能，当添加水平为 200 和 400mg/kg时，犊牛血清IgM含量显著升高。
+
+参考文献:
+
+[1]方起程,林茂,孙庆民,等.葛根黄酮的研究[J].中华医学杂志,1974,54(5):271-274.
+
+）[2] SETCHELL K D R,ADLERCREUTZ H.The excretion of two new phenolic compounds (compound 180/442 and compound 180/410) during the human menstrual cycle and in pregnancy[J].Journal of Steroid Biochemistry,1979,11(5/6):xv-xvi. [3]MIKSICEKRJ.Estrogenicflavonoids:structuralrequirementsforbiological activity[J].Experimental Biology and Medicine,1995,208(1):44-50. [4] KALDAS R S,HUGHES C L Jr.Reproductive and general metabolic effects of phytoestrogens in mammals[J].Reproductive Toxicology,1989,3(2):81-89. [5] 郭晓红,赵恒寿.大豆黄酮对肉仔鸡生产性能的影响[J].兽药与饲料添加剂,2004,9(1):1-3. [6] 郭慧君,韩正康,王国杰.日粮添加大豆黄酮对去势仔猪生长性能及有关内分泌的影响[J]. 中国畜牧杂志,2002,38(2):17-18. [7] 王国杰,韩正康,陈杰,等.大豆黄酮对肉鸡生长的影响及其作用机制研究[J].广东畜牧兽医 科技,1994,19(3):4-6,23. [8] 任道平.半胱胺和大豆黄酮对东北细毛羊生产性能及IGF-I mRNA 表达量的研究[D].硕 士学位论文.大庆:黑龙江八一农垦大学,2009. [9] 李方方,朱涛涛,朱宇旌,等.大豆异黄酮对断奶仔猪生长性能、免疫性能、养分消化率和粪 中微生物菌群的影响[J].养猪,2015(5):25-29. [10] MI Y,ZHANG C Q,ZENG W D,et al.The isoflavonoid daidzein attenuates the oxidative damage induced by polychlorinated biphenyls on cultured chicken testicular cells[J].Poultry Science,2007,86(9):2008-2012. [11] 刘德义,顾有方,陈会良,等.大豆黄酮对奶牛血清钙、磷及葡萄糖水平的影响[J].中国饲 料,2005(4):20-21,24. [12]朱新建,韩正康,王国杰.日粮中添加大豆黄酮对蛋鸡抗氧化能力的影响[J].畜牧与兽 医,2004,36(9):6-7. [13] 程忠刚,林映才,周桂莲,等.大豆黄酮对仔猪生产性能及血液生化指标的影响[J].河南科技 大学学报:农学版,2003,23(4):44-48.   
+）[14] 任皓威,刘皙洁.日粮中添加不同剂量大豆黄酮对小尾寒羊血清中 SOD和MDA的影响[J].
+
+东北农业大学学报,2007,38(2):202-205.
+
+[15] 张荣庆,韩正康,陈杰,等.大豆黄酮的对母猪免疫功能和血清及初乳中GH、PRL、SS 水平的影响[J].动物学报,1995,41(2):201-206.
+
+[16] 郑立,邓红雨,李晓翠,等.大豆黄酮对犊牛生长性能及免疫机能的影响[J].中国奶牛,2011(14):50-51.  
+[17] 杨建英,王艳玲,郭永国,等.大豆黄酮对奶牛免疫功能和血清及乳中激素水平的影响[J].中国畜牧杂志,2006,42(7):15-17.  
+[18] 高峰,周光宏,韩正康.大豆黄酮对雏公鸡生产性能和机体免疫的影响[J].中国家禽,2000,22(10):8-9.  
+[19] 张丽英.饲料分析及饲料质量检测技术[M].2版.北京:中国农业大学出版,2003:45-100.  
+[20] 韩正庚待补  
+[20] 刘春龙,李忠秋,张帆,等.大豆黄酮和染料木素对奶牛瘤胃液内主要养分相关酶活性的影响[J].中国畜牧杂志,2009,45(5):39-41.  
+[21] RHEE S $\mathrm { { G } } \mathrm { { H } } _ { 2 } { \mathrm { { O } } } _ { 2 }$ ,a necessary evil for cellsignaling[J].Science,2006,312(5782):1882-1883.  
+[22] 范石军.热应激对产蛋鸡体组织的过氧化损伤及抗氧化微营养素的协同保护效应[D].博士学位论文.哈尔滨:东北农业大学,1998.  
+[23]谢棒祥,张敏红.生物类黄酮的生理功能及其应用研究进展[J]).动物营养学报,2003,15(2):11-15.  
+[24] KELLEY K W.Cross-talk between the immune and endocrine systems[J].Journal of AnimalScience,1988,66(8):2095-2108.  
+[25]GROSSMAN C J.Interactionsbetween the gonadal steroidsand the immunesystem[J].Science,1985,227(4684):257-261.  
+[26] 周振雷,候加法,陶庆树,等.大豆黄酮对产蛋后期蛋鸡内分泌及骨代谢的影响[J].中国兽医学报,2007,27(3):363-365.  
+[27] LIU D Y,HE S J,LIU S Q,et al.Daidzein enhances immune function in late lactation cows  
+under heat stress[J].Animal Science Journal,2O14,85(1):85-89.Effects of Daidzein on Performance, Antioxidant Capacity and Immune Function of Growing
+
+ZHOU Shan1ZHAO Xianghui1 YANG Shitang² CHEN Zuodong1 QU Mingren1\* (1. Jiangxi Province Key Laboratory of Animal Nutrition, Engineering Research Center of Feed Development, Jiangxi Agricultural University, Nanchang 33OO45, China; 2. Gao'an Yufeng Agriculturul and Livestock Co.， Ltd., Gao'an 330800, China)
+
+Abstract: This experiment aimed at studying the effects of daidzein on performance,antioxidant capacity and immune function of growing Jinjiang cattle. Twenty healthy 6-month old Jinjiang cattle weighted( $1 4 0 { \pm } 5$ ）kg were randomly divided into four groups with 5 cattle per group. Control group was fed a basal diet (concentrate to forage ratio was 4:6),and 3 experimental groups were fed the basal diet supplemented with 1O0, 200 and $4 0 0 ~ \mathrm { { m g / k g } }$ daidzein, respectively. Dry matter intake of all groups was $3 . 9 8 ~ \mathrm { k g / d }$ due to limited feding. Pre-test period was 10 days, and formal test period was 6O days. The results showed as follows: 1） average daily gain in experimental groups was significantly higher than that in control group $_ { _ { P < 0 . 0 5 ) } }$ ,and $4 0 0 \mathrm { m g / k g }$ group was $1 2 6 . 6 \ \mathrm { g / d }$ higher than control group. 2） Apparent digestibility of crude protein in experimental group was significantly higher than that in control group $( P { < } 0 . 0 5 )$ .3） Compared with control group, serum total superoxide dismutase (T-SOD） activity in experimental groups was significantly higher $( P { < } 0 . 0 5 )$ ; meanwhile, serum glutathione peroxidase (GSH $\mathbf { \nabla } \cdot \mathrm { P x }$ ）activity in experimental group tended to be increased ( $( 0 . 0 5 { \le } P { \le } 0 . 1 0 )$ ；serum malondialdehyde (MDA) content in experimental group was decreased, but the difference was not significant $( P { > } 0 . 0 5 )$ . 4) Serum immunoglobulin （Ig）M content in experimental groups was significantly higher than that in control group $( P { < } 0 . 0 5 )$ ，and $4 0 0 ~ \mathrm { m g / k g }$ group was significantly higher than $1 0 0 ~ \mathrm { { m g / k g } }$ group （ $( P { < } 0 . 0 5 )$ ; serum IgG content in experimental groups had the trend of increase compared with that in control group $( P { > } 0 . 0 5 )$ . The results suggest that dietary supplementation of appropriate level of daidzein can improve nutrient digestibility of growing Jinjiang cattle，promote growth，and improve antioxidant capacity and immune function.
+
+Key words: beef cattle; daidzein; performance; antioxidant capacity;immune function

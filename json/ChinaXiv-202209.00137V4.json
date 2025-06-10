@@ -1,0 +1,425 @@
+[
+    {
+        "type": "text",
+        "text": "Law governing the intrinsic high frequency permeability of magnetic composites: Uncertainty Principle ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mangui Han ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "School of Materials and Energy,University of Electronic Science and Technology of China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Author contribution statements: ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "√HAN has proposed the research ideas, designed the simulation details,analyzed the data, and prepared the whole manuscript. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*Correspondence: ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mangui HAN（韩满贵） (magnet@uestc.edu.cn), corresponding author. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The intrinsic high frequency permeability spectra of ferromagnetic composites containing different volume fractions of iron and cobalt have been simulated. A law (called Mghan's law) is proposed to explain the simulated results by assuming that there are plenty of LLG (Landau-Lifshitz-Gilbert) type natural resonances contributing to the intrinsic permeability spectra. The results clearly show that the spectra strongly depend on the distribution of local effective magnetic field, the interaction between the magnetic particles, the inhomogeneous damping constant of LLG precession， and the initial equilibrium states. Especially, the effect of particles shape distribution in each sampling on the local effective magnetic field.In view of this fact: it is absolutely impossible to have the same effect from these factors when someone prepares several measurement samples,an uncertainty principle is believed to hold for measuring the intrinsic permeability of an electromagnetic (EM) composite. Therefore, this law tells us that it should be cautious when comparing or evaluating the EM properties of composites (for instance, EM wave absorbing composites). Memory effect can be used to restore the intrinsic high frequency permeability for a specific defunct composite sample. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: permeability； micromagnetics simulation; damping constant; natural resonance; permeability memory effect; Mghan's law ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Uuucisianunguie agucuy ucaviity al lgll HvqucHcy is viuvai ivl uu vuiupilg magnetic devices or magnetic materials working at high frequencies. Electromagnetic atenuation requires larger magnetic imaginary parts $( \\pmb { \\mu } ^ { \\prime \\prime } )$ of complex permeability for dissipating the electromagnetic energy via large magnetic losses [1]. The planar magnetic inductors or magnetic microwave devices demandu” to be smaller for lower power losses [2]. It was also proposed that the imaginary parts of permeability can be negative $( \\pmb { \\mu } ^ { \\prime \\prime } < 0 )$ under the effect of spin transfer torque [3]. There are two well-known laws governing the relationships between permeability and ferromagnetic resonance frequency. One is “Snoek's law”which describes the inverse relationship between the initial permeability and the loss peak of permeability spectrum [4]. The other one is the Acher's law [5]: a revised Snoek's law in an integral form of the product of $( \\mu ^ { \\prime \\prime } \\times \\mathrm { f } )$ , which states that the integration of a magnetic loss spectrum must be smaller or equal to a constant ( $4 \\pi \\mathrm { M s }$ ，Ms: saturation magnetization). However, both laws do not tell us the relationship between the frequency dependence of intrinsic permeability and microstructures (also includes magnetic domain structures) of magnetic materials, and the underlying physics governing the intrinsic permeability of magnetic composites. Especially,for an electromagnetic composite,it contains many ferromagnetic particles (or ferrite particles)which are in the unsaturated states, with many irregular shapes and are randomly distributed. These two laws are not applicable for explaining the variation of intrinsic permeability dispersion. Furthermore, in many published journal papers,a lot of electromagnet composites were claimed to have excellent electromagnetic properties，for instance， the electromagnetic wave absorbing properties. Can these “excellent” properties be reproduced experimentally by others? Or in other words,how much chances are there to reproduce their results? Both the Snoek's law and Acher's law also cannot answer these questions.In this paper,we will delve into these issues. In addition, it is frequently observed in practices that the spectrum of permeability $( \\mu ^ { \\prime \\prime } ( f ) )$ has a broad peak, especially for a magnetic composite with inhomogeneous magnetic structures and material microstructures [6,7]. For magnetic composites, there are many proposed efective medium laws to retrieve the intrinsic permeability spectra from the data of composites made of magnetic particles (flakes commonly seen) and non magnetic matrix (for instance,polymers）[6]. Usually,a broad intrinsic permeability spectrum can be obtained. Here, the“intrinsic” permeability means that the permeability wholy atributed to magnetic materials excluding the dilution influences from non magnetic matrix,and the eddy current effect. More questions on this intrinsic permeability are required to be answered. What factors determine the dispersion behaviors of permeability,in other words,why the permeability values significantly vary with frequency? What factors determine the shape of the spectrum? How the interactions between the magnetic particles strongly impact on the obtained the intrinsic permeability? We believe that the intrinsic permeability of magnetic components significantly impacts on the measured effective permeability of composites. Therefore，understanding the frequency dependence of intrinsic permeability will be critical and helpful for developing the high frequency magnetic devices or composites.To answer these interesting questions, in this paper, we are going to employ a micromagnetics simulation tool widely used in magnetism society to study the intrinsic high frequency permeability of a system with two magnetic phases. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2. Simulation backgrounds and details ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Micromagnetics is a continuum theory to study the static behaviors of magnetization (hysteresis, magnetic domains) or dynamic responses of magnetization. Micromagnetics describe magnetization on a significant length scale which is large enough to replace atomic magnetic moments by a continuous function of position and small enough to reveal the transitions between magnetic domains. The micromagnetics simulations are performed using a three-dimensional object-oriented micromagnetics framework (OOMMF)by solving the Landau-Lifshitz-Gilbert (LLG) equation as a function of time [8-9] ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\frac { d \\vec { M } } { d t } = - \\gamma \\big ( \\vec { M } \\times \\vec { H } _ { e f f } \\big ) + \\frac { \\alpha } { M _ { s } } \\Big ( \\vec { M } \\times \\frac { d \\vec { M } } { d t } \\Big ) \\quad \\dots ( 1 ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "，where $M _ { s }$ is the saturation magnetization and $\\pmb { H _ { e f f } }$ is the effective field taking into account the exchange,demagnetization field,anisotropy and applied field terms. $\\gamma$ is the Gilbert gyromagnetic ratio $( 2 . 2 1 \\times 1 0 ^ { 5 } \\mathrm { m } / \\mathrm { A } . \\mathrm { S } )$ ,and $\\pmb { \\alpha }$ is the damping constant for magnetization precession. In this work, the frequency dependence of permeability of a ferromagnetic plate $( 4 0 0 \\ : \\mathrm { n m } \\times 2 0 0 \\ : \\mathrm { n m } \\times 2 0 \\ : \\mathrm { n m }$ ,i.e. Length $( \\mathbf { L } ) \\times$ Width $( \\mathrm { w } ) \\times \\$ Thickness(T)）are simulated by following these procedures.Firstly，the equilibrium configuration of magnetization is acquired in the absence of external applied magnetic field. Secondly,a weak pulse magnetic field with a form of $h ( t ) = 1 0 0 e x p ( - 1 0 ^ { 9 } t )$ 0 $t$ in s,h in $\\mathrm { A / m } \\mathrm { \\Omega }$ is applied along the $^ { 6 6 } z ^ { 3 3 }$ axis (see Fig. 2), and $h ( t )$ is weak and is unable to drive magnetic domain walls to move. The temporal response of magnetization can be expressed as: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta \\overrightarrow { M } ( r _ { i } , t ) = \\overrightarrow { M } ( r _ { i } , t ) - \\overrightarrow { M _ { 0 } } ( r _ { i } , t ) = \\chi ( r _ { i } , t ) \\delta \\vec { h } ( t )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The dynamic response of magnetization over the whole volume of sample is recorded.Both the pulse field and excited magnetization are then processed by a fast Fourier transform (FFT) approach,after which the relative permeability spectrum is calculated as below. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mu ^ { \\prime } ( f ) - j \\mu \" ( f ) = 1 + \\frac { m ( f ) } { h ( f ) } = 1 + \\chi ^ { \\prime } ( f ) - j \\chi \" ( f ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu ^ { \\prime } ( f ) = 1 + \\chi ^ { \\prime } ( f )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu ^ { \\prime \\prime } ( \\mathrm { f } ) = \\chi ^ { \\prime \\prime } ( f )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "，where $f$ is the frequency, $\\mathbf { m } ( f )$ and ${ \\bf h } ( f )$ are the expressions in frequency domain for $M$ and pulse field $( h )$ after FFT treatment, respectively; $\\chi$ 'refers to the real parts of susceptibility and $\\chi ^ { \\prime \\prime }$ denotes the imaginary parts of susceptibility. The default parameters in OOMMF for $\\mathrm { C o }$ phase are used in our simulations: saturation magnetization $( M \\mathbf { s _ { \\alpha } } )$ is $1 4 { \\times } 1 0 ^ { 5 } \\ \\mathrm { A / m }$ ，exchange stiffness constant $( A )$ is $3 0 { \\times } 1 0 ^ { - 1 2 } \\mathrm { J / m }$ ,anisotropy constant $( K _ { I } )$ is $5 . 2 { \\times } 1 0 ^ { 5 } \\mathrm { J } / \\mathrm { m } ^ { 3 }$ . For Fe phase, $M _ { s }$ is $1 7 \\times 1 0 ^ { 5 } \\mathrm { A } / \\mathrm { m } . A$ is $2 1 \\times 1 0 ^ { - }$ 12. $K _ { I }$ is $4 . 7 { \\times } 1 0 ^ { 4 } \\ \\mathrm { J } / \\mathrm { m } ^ { 3 }$ .For all the simulation. The simulation object is discretized into many tetrahedrons with a cell size of $2 . 5 \\ \\mathrm { n m } \\times 2 . 5 \\ \\mathrm { n m } \\times 2 . 5 \\ \\mathrm { n m }$ . The analytic solutions of $\\mu ^ { \\prime } ( \\mathrm { f } )$ and $\\mu ^ { \\prime \\prime } ( \\mathrm { f } )$ of natural resonance from the above LLG equation can be expressed as follows [10], in which “ $\\omega ^ { \\prime }$ is the angular frequency $\\scriptstyle ( \\omega = 2 \\pi f ,$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mu ^ { \\prime } = 1 + \\frac { 1 } { D } [ M \\gamma ^ { 2 } H _ { 0 } ( \\gamma ^ { 2 } H _ { 0 } ^ { 2 } - \\omega ^ { 2 } ) + 2 \\omega ^ { 2 } \\frac { \\alpha ^ { 2 } } { \\chi _ { 0 } } ] \\ . . . } \\\\ { \\mu \" = \\frac { 1 } { D } \\alpha \\omega ( \\gamma ^ { 2 } H _ { 0 } ^ { 2 } + \\omega ^ { 2 } ) \\ . . . } \\\\ { D = ( \\gamma ^ { 2 } H _ { 0 } ^ { 2 } - \\omega ^ { 2 } ) ^ { 2 } + 4 \\omega ^ { 2 } \\frac { \\alpha ^ { 2 } } { \\chi _ { 0 } ^ { 2 } } \\ . . . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In these equations, $\\mathrm { { H _ { 0 } } }$ can be expressed as follows,which approximately equals to $\\pmb { H } _ { \\mathrm { e f f } }$ since $\\mathfrak { a }$ (0.5 used in this paper） is greatly smaller than $( \\varkappa \\pmb { M } ) . f _ { r }$ is the resonance frequency of one LLG natural resonance. ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { 0 } = \\ L ^ { 2 \\pi f _ { r } } / \\ L _ { \\gamma } = H _ { e f f } ( 1 + \\frac { \\alpha ^ { 2 } \\ L } { \\gamma ^ { 2 } M ^ { 2 } } ) ^ { 1 / 2 } \\approx H _ { e f f } ~ \\ L ^ { -- } (\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussions ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1. intrinsic high frequency permeability of two magnetic phases ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In our simulations, a nanostructured magnetic system is set up with two magnetic phases with different volume fractions using the method called “Voronoi diagram”[11]. As shown in Fig.1. The Fe and Co nanoparticles inside a ferromagnetic plate (simulation object) are randomly oriented and in irregular shapes, which is alike in the microstructures of actual magnetic composites,for instance, thin films prepared by a co-deposition technique. The volume fraction of iron phase is $90 . 3 7 \\%$ and $6 2 . 4 9 \\%$ respectively in Fig. 1 a, b. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/83af910cf2938cd2ca1567da7719fbd4783e6885494d943f3c92019f9423aaa2.jpg",
+        "img_caption": [
+            "Figure 1.Microstructures of composites (a) F $\\mathrm { ~ e ~ } 9 0 . 3 7 \\% + \\mathrm { C o } 9 . 6 3 \\%$ ；(b)Fe $6 2 . 4 9 \\% + \\mathrm { C o } 3 7 . 5 1 \\%$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The initial spontaneously magnetized states forthe case with both phases coexisting and for the case with only one Fe phase (or only $\\mathbf { C o }$ phase) are compared,as shown in Figs. 2,3 and 5.In Fig. 2, the magnetization distributions in each composite sample are inhomogeneous,which are clearly shown by the colors and directions of arrows.The equilibrium direction of a magnetization vector depends on the local effective magnetic field $( H _ { e f f } )$ . It is indicated that the $\\pmb { H _ { e f f } }$ values within the sample are different and have a wide distribution. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f6baa9c814e7f741db5cb8393a4793b056dd8657c9e789a77a3511ea7d125fb.jpg",
+        "img_caption": [
+            "Figure2. (a) Fe $9 0 . 3 7 \\% + \\mathrm { C o } 9 . 6 3 \\%$ ；(b)Fe $6 2 . 4 9 \\% + \\mathbf { C o } 3 7 . 5 1 \\%$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "It is believed that it will influence the frequency dependence of relative permeability (calld “permeability dispersion” in this work). For some applications (e.g., planar magnetic inductors) [12], the magnetic materials were magnetized to saturation so as to make almost all the magnetization pointing to the same direction. In this case, the permeability dispersion spectrum showed a sharp shape with high $\\mu ^ { \\prime }$ values (real parts of complex permeability). Especially,the low $\\mu ^ { \\prime \\prime }$ values (ac magnetic losses） were obtained which was one of technically essential requirements. The narrow magnetic losses spectra $\\mu ^ { \\prime \\prime } ( \\mathbf { f } )$ with the loss peaks being away from the working frequency are necessary for many electromagnetic devices. On the other hand, some applications require large high frequency magnetic losses,such as electromagnetic noises suppressors [13,14]. In these applications, magnetic composites contain plenty of magnetic particles which are usually not magnetized to saturation,or just in their spontaneously magnetized states, which is similar to conditions shown in Fig.2.The fact that the local magnetizations are randomly oriented means there is a wide distribution of local effective fields,and results in the high-frequency permeability spectra spreading out, which will be shown soon. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Mx/Ms(a) +1.0-+0.5-0.0-0.51.0可物共 K+ ， N#T",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "vol. $9 0 . 3 7 \\%$ ; (b)Fe,vol. $6 2 . 4 9 \\%$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In order to show the law governing the intrinsic high frequency permeability of magnetic materials, especially with two ferromagnetic phases and with many particles in irregular shapes, we decompose the two phases of the composite plate into two parts without changing their original positions of particles in the following separate simulations. These two parts resemble jigsaw puzzles, which are important to eliminate the effects of altered particle position and particle size distribution.It is critical that if this prerequisite is not abided by,then the composite will not be the same,and the discussions will be meaningless.The equilibrium $M$ configuration of only Fe phase in composites with different volume fractions are illustrated in Fig. 3, where the empty zones are the cobalt particles are originally located (where Co phase: $\\mathbf { A } = 0$ $\\mathbf { M } \\mathbf { s } = 0$ ${ \\sf K } = 0$ ). Subsequently, the permeability spectra of each phase are simulated separately for composites with different volume fractions,as shown in Fig. 4 (only for Fe phase) and Fig.6(only for $\\mathbf { \\mathrm { C o } }$ phase). In both cases, the permeability spectra have a feature of spreading out. For most of electromagnetic applications (including this work)， the microwave magnetic field is so weak and unable to drive the domain wall (DW) to move.There is no contribution from DW resonance mechanism (usually with $f _ { r \\_ D W }$ in MHz) to the permeability spectra. Natural resonance mechanism is the only one,as shown in LLG equation (1). However, the LLG equation tells us the behavior of natural resonance of only one magnetization vector. LLG natural resonance also works for the magnetic materials in a magnetized saturation state (single domain): we can treat the saturated magnetization as one “macrospin”[12]. However, the electromagnetic composites containing a lot of magnetic fillers which are not in the saturated state. Generally, their permeability dispersion spectra are very similar to the ones shown in Fig. 4 [7]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/5943a1a55fedfb172337b200b8288962aa7f22780c02ec1f7647beaaac542f78.jpg",
+        "img_caption": [
+            "Figure 4. Spectra of composites only considering Fe phase with different volume fractions.(a) Fe, vol. $9 0 . 3 7 \\%$ . (b) Fe, vol. $6 2 . 4 9 \\%$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Here,it is assumed that the observed broad spectra are resulted from the coexistence of many LLG natural resonances. For one of initial equilibrium magnetized states (1,2,3...), a generalized law (called Mghan's law) is proposed that summing up the permeability dispersion spectrum of each LLG resonance will result in the observed spectra. Suppose the magnetic material is in one magnetic equilibrium state “s\": ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "at \"s\" state: $\\begin{array} { r } { \\mu ( f ) = ( \\sum _ { i = 1 } ^ { n } w _ { i } \\times \\mu ( f _ { r } , \\alpha ) _ { i } ) + \\varepsilon \\ \\dots } \\end{array}$ (10) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": ",where: ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$f _ { r ( i ) } = \\frac { \\gamma H _ { e ( i ) } } { 2 \\pi } \\mathrm { ~ . ~ }$ ---(11) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\begin{array} { r } { \\vec { H } _ { e ( i ) } = \\vec { H } _ { k ( i ) } + \\vec { H } _ { s ( i ) } \\ \\cdots } \\end{array}$ (12) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\begin{array} { r } { H _ { s ( i ) } = \\frac { 2 K _ { s ( i ) } } { \\mu _ { 0 } M _ { s } } } \\end{array}$ 2Ks(i) ---(13) ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal K } _ { s ( i ) } = { \\textstyle { \\frac { 1 } { 2 } } } \\mu _ { 0 } \\times \\Delta { \\cal N } _ { i } \\times { \\cal M } _ { s } ^ { 2 } ~ . -\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "，where $\\boldsymbol { w } _ { i }$ is the weight of one LLG natural resonance (i) in the entire resonances $( n ) . \\ \\Delta \\mathrm { N }$ is the demagnetization factor difference between the hard axis and the easy axis. For each one LLG resonance, it has a specific dispersion of permeability $< \\mu ( \\mathbf { f } , \\alpha ) _ { \\mathrm { i } } >$ , which has a resonance frequency $f _ { r } ( \\mathrm { i } )$ and a specific damping constant $\\alpha _ { i } . H _ { e ( i ) }$ is the local effective anisotropic field.As we know, there are a lot of irregular particles (such as flakes） in a composite, $\\Delta \\Nu$ obeys the lognormal distribution therefore, so do the $H _ { e ( i ) }$ and $f _ { r ( i ) }$ values according the above equations. $\\pmb \\varepsilon$ is an error term due to the interactions between magnetic phases and nonuniform damping constants, which willbe shown soon. From the perspective of engineering practices with initial spontaneously magnetized states,the distribution of $\\pmb { H _ { \\mathrm { k } } }$ and $H _ { \\mathrm { s } }$ should be paid more attentions. $\\pmb { H _ { k } }$ strongly depends on the selection of materials (i.e., compositions). ${ \\cal { H } } _ { s }$ strongly depends on the fabrication techniques (such as ball milling, thin film deposition, microwires drawing). The distribution of ${ \\cal { H } } _ { s }$ (thus $\\mu ( f )$ spectra) can be controlled by generally using a sieve to control the lognormal distribution parameters (such as“mode”,“median”,“mean”,or “standard deviation\"） of $\\Delta \\Nu$ for a pile of magnetic powder. If attempting to control the permeability spectra by controling the remanence states (it willbe discussed soon), the distribution of $H _ { e x }$ also plays an important role and should be included into Eq. (12). The mathematical expression for the distribution of $\\mathrm { H } _ { \\mathrm { e x } }$ is very complicate, but it can be mapped by FFT technique, evidences were given in our published paper [15]. As per one LLG natural resonance, the resonance frequency $( f _ { r } )$ of Fe phase is calculated to be $1 . 5 8 \\ \\mathrm { G H z }$ if only the magnetocrystalline anisotropic field $( H _ { k } )$ is considered $\\scriptstyle ( \\mathrm { H } _ { \\mathrm { k } } = 2 \\mathrm { k } / ( \\mu _ { 0 } \\mathrm { M s } ) )$ . Taking into account the aspect ratio $( \\mathrm { L } / \\mathrm { T } )$ of the Fe particles, the shape anisotropic constant $( K _ { s } )$ can be expressed as: $\\pmb { K _ { s } } = 0 . 5 { \\times } \\mu _ { 0 } { \\times } \\Delta \\mathbf { N } { \\times } \\mathbf { M _ { s } } ^ { 2 }$ ： $\\Delta \\Nu$ is roughly to be O.5 for Fe particles in the composites. The $f _ { r }$ value is found to be $3 1 . 0 ~ \\mathrm { G H z }$ if simultaneously considering the magnetocrystalline and shape anisotropic field $\\mathrm { ( H _ { s } ) }$ $( H _ { e } = H _ { k } + H _ { s } )$ ） $f _ { r } \\left( 3 1 . 0 \\mathrm { G H z } \\right)$ is around the peak frequencies simulated and shown in Fig. 4. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a) c14 (b) V ? + 快 碧 产 幽J ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Next, let us see the results if the composites only containing cobalt particles are simulated. The equilibrium states of magnetization of $\\mathbf { \\mathrm { C o } }$ phase are illustrated in Fig.5,where the empty areas (set Fe phase: $\\mathbf { A } = 0$ $\\mathbf { M } \\mathbf { s } = 0$ ${ \\bf K } = 0$ ） represent the Fe particles located in the original nanocomposites in Fig. 2. Similar inhomogeneous distribution of magnetization vectors indicates the inhomogeneous distribution of local effective magnetic field. The permeability spectra are also expected to spread out, which are simulated and shown in Fig.6.We also can explain the shape of permeability spectra using the proposed Mghan's law shown in Equations 10-14. If only $\\pmb { H _ { k } }$ is considered, a typical LLG natural resonance is to have the $f _ { r }$ value as $2 0 . 8 ~ \\mathrm { G H z }$ . If both ${ \\pmb { H } } _ { k }$ and ${ \\cal { H } } _ { s }$ are taken into account, $f _ { r }$ should be $4 5 . 4 \\mathrm { G H z }$ ,which can not be found in Fig. 6a.According to Mghan's law, it is believed that both $H _ { s }$ and $H _ { e x }$ have a wide distribution that result in a wide distribution of $f _ { r }$ values [15].When there are no Fe particles interacting on the $\\mathrm { C o }$ particles in Fig. 5,the initial magnetized states of $\\mathrm { C o }$ particles significantly change. The distributions of $H _ { \\mathrm { s } }$ and $H _ { \\mathrm { e x } }$ values therefore are greatly affected, which are critical for what the spectra will look like. A simulated spectrum of intrinsic permeability in this work is a result of weighted average of many LLG type natural resonances. In addition, by controlling the remanence states or particle shape distribution (△N),we can easily control the distribution of $H _ { \\mathrm { e } }$ ,therefore control the permeability spectra [15]. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/45373f87d0da17e9c32067051789a736cbc8303b9efa7b4a782ec40c8719e6f8.jpg",
+        "img_caption": [
+            "Figure 6. Spectra of composites only considering Co phase with different volume fractions (a) Co, vol $9 . 6 3 \\%$ . (b) Co, vol. $3 7 . 5 1 \\%$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "When both Co and Fe nanoparticles coexist (see Fig.2),and are simulated for their microwave permeability spectra,which are shown in Fig.7 and marked as $( \\mu ^ { \\prime } ( \\mathrm { A B } ) , \\mu ^ { \\prime \\prime } ( \\mathrm { A B } ) )$ Furthermore, the spectra with the mark “ $\\mathbf { \\nabla } \\left( \\mathbf { A } { + } \\mathbf { B } \\right) ^ { , , }$ indicate that we simply add up the permeability spectra of Fe phase and $\\mathbf { \\mathrm { C o } }$ phase,as shown Fig.4 and Fig.6.It is found that when the volume fraction of $\\mathrm { C o }$ is much smaller, the difference between the “(AB)’ spectra and the $^ { \\mathfrak { s } } ( \\mathrm { A } ^ { + } \\mathrm { B } ) ^ { \\mathfrak { , } }$ spectra is not significant. When the difference in volume fractions of Fe and Co is not large, the discrepancy of the“(AB)” and 4 $\\scriptstyle ( \\mathbf { A } + \\mathbf { B } ) ^ { \\prime }$ ” spectra is then obvious,as shown in Fig.7b.It is believed this is because the interaction among Fe particles and Co particles in Fig.1b gets stronger. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/2442f6bdd5f4e2729319234b9cea57c7087759e61d77a96a1e8f739494c2015e.jpg",
+        "img_caption": [
+            "Figure7. (a) Fe: $9 0 . 3 7 \\% + \\mathrm { C o } \\colon 9 . 6 3 \\%$ ; (b) Fe: $6 2 . 4 9 \\% + \\mathbf { C o } \\colon 3 7 . 5 1 \\%$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Such interaction scenario among particles universally exists in electromagnetic composites, which can strongly affect the static magnetic parameters, such as coercivity,remanence. In our previous work on the permeability spectra of Fe nanowire array,it was showed that when the spacing between nanowires is small enough.Localized nanowires showed different coercive fields indicating the strong interactions between the nano entities [16]. What is more we can learn from this finding? Let us suppose that we have an unchanged particle distribution (exactly same particles） and a fixed volume fraction for either Fe or Co particles in their spontaneously magnetized states (i. e. unsaturated). At each time,we just mix these same particles differently together and measure the permeability spectra of the composites. Since it is absolutely impossible to ensure the surroundings of each particle in these composites unchanged, so do the interactions of magnetic particles.Let alone the variable particle distribution of each sampling from a pile of particles powder, it will lead to unexpected spectra shapes. Therefore, we can claim that it is impossble to experimentally reproduce the permeability spectra.A typical application of electromagnetic materials is to develop electromagnetic wave absorbing composites containing randomly oriented particles. For this application， the absorbing properties are critically dependent on the permeability spectra. As discussed above on the unexpected permeability spectra, it is therefore reasonable to believe that the measured performances of electromagnetic wave absorbing composites are uncertain. We prefer to name it as an“Uncertainty Principle\". It should be noticed that when we evaluate whether a specific magnetic material is good for absorbing electromagnetic wave, we cannot make judgements based on several measurements. On the contrary, we need to make a lot of measurements (i.e., statistically sampling） to get information about what is the probability to obtain the “good” properties. Furthermore,if we also take account of the variation of particle distribution in different measurement samples containing the same magnetic filings. Even though these fillings were prepared under an exact same preparation condition (typically,ball milling). The above viewpoint about the uncertainty of permeability spectra is more reasonable. Although there are many mixing laws to study the permeability spectra of composite, they ignore the fact that the “uncertainty” shown in this paper exist from sample to sample, such as the statistical distributions of particle shapes (average, standard deviation, median, mode), particle agglomeration and initial magnetization configuration patterns. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2. Effect of damping constants ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "For single LLG natural resonance, the damping constant $\\mathbf { \\Psi } ( \\mathbf { a } )$ decides how fast the magnetization (M) comes back to its equilibrium position during precession,and is positively related to the magnitude of high frequency magnetic loss. Actually，when there are plenty of LLG natural resonances in a material, the term of “damping constant’ is misleading. The intrinsic origins of $\\pmb { \\alpha }$ include the spin-orbit coupling and the scattering by the magnetic impurities.The intrinsic $\\mathfrak { a }$ is NOT constant and space-dependent and strongly related to the nonuniform precessions (as shown in this work)[17-2O]. Besides,the inhomogeneity of microstructure gives rise to the distribution of damping constant (known as the extrinsic $\\mathfrak { a }$ ） [21-23]. However, there is only one damping constant used in LLG equation, which does not agree with the reality. Here, simulations are to show the impact of different damping constants on the high frequency permeability spectra,see Fig.8.Firstly,the composite with two phases (Fe: volume fraction $= 9 0 . 3 7 \\ \\%$ and $\\mathrm { C o }$ phase: volume fraction $= 9 . 6 3 \\mathrm { ~ \\% ~ }$ ） is assumed to have a homogenous damping constant ( $\\scriptstyle ( { \\mathtt { a } } = 0 . 5 )$ . The spectra of composite are simulated and marked with \"(AB)\". Secondly, the spectrum of each phase is separately simulated with different damping constants (for example, Fe: $\\scriptstyle { \\mathfrak { a } } = 0 . 3$ ; Co: $\\scriptstyle { \\mathtt { a } } = 0 . 7$ ) and added up to get the permeability spectra of composite (marked with $\\mathbf { \\omega } ^ { \\mathsf { s c } } \\mathbf { A } { + } \\mathbf { B } ^ { \\prime \\prime }$ ). The “AB” spectra and‘ $\\bf \\cdot A \\mathrm { + B ^ { \\prime } }$ spectra agree badly, which means that the inhomogeneous damping constant matters. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/953afc2c1806c543791878c66058cb7745165416c295e74150b0702ce1c0b6ed.jpg",
+        "img_caption": [
+            "Figure 8. Spectra of composites if two phases having different damping constants (Fe: $\\scriptstyle { \\mathfrak { a } } = 0 . 3$ ; Co $\\scriptstyle \\mathtt { a } = 0 . 7$ ),and two phases having same damping constant ( $\\scriptstyle ( a = 0 . 5$ , see spectra marked “AB\"). "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In addition,with the advances of modern magnetism, especially spintronics, it is found that the damping behaviors of LLG natural resonance can be aected by the spin transfer torque (STT). We have reported that the imaginary parts of permeability can be negative $( \\mu ^ { \\prime \\prime } < 0 )$ under the impact of STT effect [3].Besides, the microwave magnetic losses can be suppressed or enhanced by STT effect by affecting the effective damping constant. Accordingly,the permeability spectra also can be actively controlled by the STT effect [24]. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.3. Effect of the remanent states (Memory Effect) ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In practice, the high frequency properties of electromagnetic composites containing magnetic fillings are often deteriorated due to the decay of their magnetic properties.The equilibrium magnetized states (such as the ones discussed above) are easily affected by the external magnetic field,or fluctuant temperature.Accordingly,the permeability spectra will be unstable. Can we recover the permeability spectra? Technically,it is feasible as long as we magnetize the materials again to establish the original remanent state.Here,we demonstrate the dependence of permeability spectra on the remanent states.Firstly, we start to magnetize the composite (Fe: vol. $6 2 . 4 9 \\%$ ; Co: vol. $3 7 . 5 1 \\%$ along the“x” axis with different maximum magnetic fields (see A,B and C point where $A$ $= 5 0 m T$ $B = 8 0 m T$ and $C = 2 0 m T$ ）from the initial fully demagnetization state ( $\" o \"$ point in Fig. 9a); Secondly,the magnetizing field is slowly reduced to zero,and the sample will be in different remanent states, see $A$ ， $B$ 'points.The composite is the exactly same as the one in Fig. 2b but with a slightly different initial magnetization state. The dynamic permeability spectra are simulated as before.It is found that same remanent states will have the same permeability spectra.For instant, different maximum magnetizing fields (A and C) have same remanent state $( \\mathbf { A } ^ { \\prime } )$ which accordingly have same dynamic permeability spectra. We call this phenomenon: “Memory Effct”. The word “memory” means that if the remanent state is restablished, the permeability spectra willreappear just like from the “memory” of the magnetic material. The magnetization vectorial distributions of these remanent states are obviously different, see Fig. 9(b,c,d). Different remanent states (O, $\\mathbf { A } ^ { \\prime }$ and $\\mathbf { B ^ { \\prime } }$ ） give rise to different permeability spectra,see Fig.10.Since the difference of remanent state “O\" and A’ is not sharp, their permeability spectra are similar.But, the spectra of the state $\\mathbf { B } ^ { \\prime }$ and the state O are distinct. It can be inferred from these results that any factors strongly influencing the remanent state of sample wil give rise to different dynamic magnetic response. Hence, when we compare the results of an exactly same material from different groups, we should bear in mind that their remanent states might be different. Also,it should be noticed that the abscissa axis (frequency） adopts the logarithm scale in Figs.10.The differences in permeability spectra between Fig.1Oa and Fig.7b (see spectra labelled “AB\") are due to their differently initial magnetization configurations although they are the exactly same composites. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/b7b1fe54ca800e4c1369884954e98a063c7d0292f9eea5db61e30fe4d2781ce4.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/8ca419f8efa87f3aa694a8ff92436b9092daf6971c9d1db4facd9602343f148e.jpg",
+        "img_caption": [
+            "Figure 9.Magnetizing curves and different remanent states "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/07de5c7f2a1cc9796d7c0a5ae97b403c0147e3923abeb39fbc1794630653365d.jpg",
+        "img_caption": [
+            "Figure 10.dynamic permeability spectra for different remanent states. "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In addition, it is interesting to find that the well-known Snoek's law does not hold in Fig.10 a and 10.c. Snoek's law tells that the loss peak frequency $( f _ { r } )$ is inverse to the initial permeability $( \\mu _ { i } )$ which means that we can increase the loss peak frequency at the expense of permeability,and vice versa.By controlling the remanent states, the distributions of components of $\\mathbf { H } _ { e }$ (i. e., $\\mathbf { H _ { d } }$ $\\mathbf { H } _ { \\mathbf { e x } _ { \\perp } } .$ can be changed [15]. Accordingly, the permeability spectra can be significantly changed. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusions ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "For composites containing different volume fractions of Fe and Co particles,their intrinsic high frequency permeability spectra have been simulated. A law (calld “Mghan's law\") is proposed to explain the spreading out of permeability spectra. It is believed that the local effective magnetic field, interaction of magnetic particles, inhomogeneous damping constants and the initial remanent states strongly impact on the spectra. The plenty of LLG natural resonances are due to the inhomogeneous and local magnetic fields.An uncertainty principle is believed to hold for the electromagnetic properties (such as EM wave absorption properties) of composites, which use the magnetic particles as the working fillings.Memory effect of permeability is also reported. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments: This work is supported by National Science Foundation of China (NSFC, Grant No. 61271039),and the jointed Academic Exchange Program of NSFC-Russian Foundation of Basic Research (NSFC: No. 5191101553; RFBR: No. 20-52-53020). ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[1] Man-Gui Han, Electromagnetic Materials and Devices, published by Intech Open, United Kingdom, 2020. https://doi.org/10.5772/intechopen.79786   \n[2] Yu-Ming Kuo, Jenq-Gong Duh,Application of nanocrystalline FeHfN soft magnetic films to power inductors，J.Magn. Magn. Mater. Vol. 324 (2012)1084-1087. https://doi.org/10.1016/j.jmmm.2011.10.029   \n[3] Mangui Han, Wu Zhou, Unusual negative permeability of single magnetic nanowire excited by thespintransfertorqueeffect，J.Magn.Magn.Mater:457(2018)52-56. https://doi.0rg/10.1016/j.jmmm.2020.167704   \n[4] J.L. Snoek, Dispersion and absorption in magnetic ferrites at frequencies above one $\\mathrm { M c / s }$ Physica, Vol. 14 (1948) 207-217. https://doi.0rg/10.1016/0031-8914(48)90038-X   \n[5] O.Acher, S.Dubourg, Generalization of Snoek's law to ferromagnetic films and composites, Phys. Rev. B, 77 (2008) 1044401-10444011. https://doi.0rg/10.1103/PhysRevB.77.104440   \n[6] S.N. Starostenko, K. N. Rozanov, A. N. Lagarkov, Electrical and Magnetic Properties of the BinaryHeterogeneousMixtureModel. Phys.MetalsMetallgr: 122(2021)323-344. https://doi.0rg/10.1134/S0031918X21040104 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[7] K. N. Rozanov, Z. W. Li, L. F. Chen, M. Y. Koledintseva, Microwave permeability of $\\mathrm { C o } _ { 2 } \\mathrm { Z }$ composites, J. Appl. Phys. 97(2005)013905. https://doi.0rg/10.1063/1.1827911 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[8] T. L. Gilbert, A phenomenological theory of damping in ferromagnetic materials, IEEE Trans. Magn. 40 (2002) 3443-9. https://doi.0rg/10.1109/TMAG.2004.836740   \n[9] OOMMF User's Guide, Version 1.0, M.J. Donahue and D.G. Porter, Interagency Report NISTIR 6376，National Institute of Standards and Technology，Gaithersburg，MD (Sept 1999). http://math.nist.gov/oommf   \n[10] Yi-Cheng Guo,Ferromagnetism, Beijing,Peking University Press, 2014.   \n[11] D. G. Porter, E. Glavinas, P. Dhagat, J. A. O'Sullivan, R. S. Indeck,and M. W. Muler, Irregular grainstructureinmicromagneticsimulation,J.Appl.Phys.79(1996)4695; https://doi.0rg/10.1063/1.361708   \n[12] S. Yabukami, R. Ojima, M. Yamaguchi, K. I. Arai, S. Kikuchi, Highly sensitive permeability measurements obtained by electrical impedance, J. Magn. Magn. Mater.， Vol. 254-255 (2003) 111- 114. https://doi.0rg/10.1016/S0304-8853(02)00799-0   \n[13] S.Rajakumar, B. Nam, S.K. Lee, K. H. Kim, Effects of aspect ratio on permeability and power loss of the magnetic nanoparticle composites，Thin Solid Films， 519 (2011） 8391-8393. https://doi.0rg/10.1016/j.tsf.2011.03.102   \n[14] B. Nam, Y. -H. Choa, S. -T. Oh, S. K. Lee and K. H. Kim, Broadband RF Noise Suppression by Magnetic Nanowire-Filled Composite Films, IEEE Trans. Magn.，Vol. 45 (2009)2777-2780. https://doi.0rg/10.1109/TMAG.2009.2020558   \n[15] Mangui Han, Yutong Jiang, Micromagnetics simulation on the terahertz permeability of rareearth-free permanent magnet MnAl nanostrips, ChinaXiv, (2022). http://www.chinaxiv.0rg/abs/202212.00069   \n[16] Deqi Deng and Mangui Han， Discussing the high frequency intrinsic permeability of nanostructures using first order reversal curves， Nanotechnology， 29 (2018） 445705. https://doi.0rg/10.1088/1361-6528/aad9c2   \n[17] Nobuyuki Umetsu, Daisuke Miura, and Akimasa Sakuma, Theoretical Study on Gilbert Damping of Nonuniform Magnetization Precession in Ferromagnetic Metals, J. Phys. Soc. Jpn., 81 (2012)114716. https://doi.0rg/10.1143/JPSJ.81.114716   \n[18] Arne Brataas, Yaroslav Tserkovnyak,and Gerit E. W. Bauer, Magnetization dissipation in ferromagnets from scattering theory, Phys. Rev. B,84(2011) 054416.   \nhttp://dx.doi.0rg/10.1103/PhysRevB.84.054416   \n[19] Yawen Zhao, Yi Liu, Huimin Tang, Hanhui Jiang, Zhe Yuan,and Ke Xia , Gilbert damping in FeCo alloy: From weak to strong spin disorder， Phys. Rev. B， 98 (2018)174412. https://doi.org/10.1103/PhysRevB.98.174412   \n[20] Shufeng Zhang and Steven S.-L. Zhang, Generalization of the Landau-Lifshitz-Gilbert equation for Conducting Ferromagnets, Phys. Rev. Lett. 102 (2009)086601. https://doi.org/10.1103/PhysRevLett.102.086601   \n[21] Y. P. Wu, Yong Yang, Z. H. Yang, Fusheng Ma, B. Y. Zong, and Jun Ding, Tuning microwave magnetic properties of FeCoN thin films by controlling dc deposition power, J. Appl. Phys. 116, 093905 (2014). https://doi.0rg/10.1063/1.4894512   \n[22] S. Mizukami, Y. Ando,and T. Miyazaki, Efect of spin diffusion on Gilbert damping for a very thin permalloy layer in Cu/permalloy/Cu/Pt films, Phys. Rev. B, 66(2002)104413.   \nhttps://doi.0rg/10.1103/PhysRevB.66.104413   \n[23] Zengtai Zhu, Hongmei Feng, Xiaohong Cheng, Hongkang Xie, Qingfang Liu and Jianbo Wang, Static and dynamic magnetic properties of stripe-patterned $\\mathrm { F e } _ { 2 0 } \\mathrm { N i } _ { 8 0 }$ soft magnetic films, J. Phys. D: Appl. Phys. 51(2018) 045004. https://doi.0rg/10.1088/1361-6463/aa9dfa   \n[24] Mangui Han, Suppress or enhance microwave magnetic losses by spin transfer torque effect, ChinaXiv, (2022). http://dx.doi.0rg/10.12074/202206.00194V2 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    }
+]

@@ -1,0 +1,443 @@
+[
+    {
+        "type": "text",
+        "text": "半蒴苣苔复合群的多样性、地理分布和物种界限",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李佳慧，黄章平²，卢永彬²，覃信梅²，黄俞淞²，李惠敏¹，张强²\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.广西师范大学珍稀濒危动植物生态与环境保护教育部重点实验室，广西师范大学生命科学学院，广西 桂林 541006；2.广西喀斯特植物保育与恢复生态学重点实验室，广西壮族自治区中国科学院广西植",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "物研究所，广西桂林541006）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：半蒴苣苔（Hemiboea subcapitata）为苦苣苔科半蒴苣苔属多年生草本植物。该种形态变异幅度大，曾包括多个变种；分布范围广，在多种类型的生境基质上皆有分布。本研究包括典型半蒴苣苔和与之近缘，且曾被归为其变种的翅茎半蒴苣苔(H.pterocaulis)，以及我们新发现的与两者形态上分别最相近的另两种变异类型，对其关键形态、微形态的多样性进行了描述和比较；结合查阅标本、文献资料以及长期的野外追踪调查，统计分析了半蒴苣苔不同类型间的地理和生境分布；此外，通过DNA证据，初步重建各物种及变异类型间的系统发育和单倍型进化关系。研究结果表明：(1)通过茎、叶、花和开花物候等多性状组合能够区分半蒴苣苔复合群各类型。(2)半蒴苣苔复合群四类型间在叶表皮细胞形状和气孔分布等方面无甚区别；而在表皮毛的有无、复表皮层数、维管束数量和排布存上存在差别，或有助于分类。(3)典型半蒴苣苔广泛分布于我国中部至南部，向南延伸至越南北部，在石灰岩、丹霞等生境基质上皆有分布；翅茎半蒴苣苔仅分布于广西桂林市小部分区域的喀斯特山石灰岩基质上；而另两种变异类型则分布更为狭域，仅分布于桂林市永福县一个或相邻的数个喀斯特山石灰岩基质上。(4)DNA 单倍型网络图分析表明，半蒴苣苔复合群四类型各自独享单倍型；但重建分子系统发育关系则表明，金钟山居群与翅茎半蒴苣苔聚为一支，两者亲缘关系最近但相互之间不成单系，金钟山居群是否为独立物种还需更多证据加以检验，而半蒴苣苔则与永福半蒴苣苔两者间互为单系，支持两者为独立物种。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：半蒴苣苔复合群，分类，系统发育，形态，地理分布中图分类号：Q944 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Diversity, geographical distribution and species boundary of the Hemiboea subcapitata complex ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Jiahui', HUANG Zhangping²,LU Yongbin², QIN Xinmei², HUANG Yusong²,LI Huimin', ZHANG Qiang2\\* (1. Key Laboratory of Ecology of Rare and Endangered Species and Environmental Protection(Guangxi Normal ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：国家自然科学基金（31560114）；中央引导地方科技发展专项资金（桂科ZY1949013）；桂林市科学研究和技术开发计划项目（20180107-6）；广西重点实验室建设项目计划任务书（19-050-6）；2019年广西岩溶生态建设与植物资源持续利用人才小高地资助[Supported by the National Natural ScienceFoundation of China(31560114); Special Funds for Local Science and Technology Development Guided by theCentral Commitee (ZY1949013); Guilin Scientific Research and TechnologyDevelopment Program(20180107-6)；Guangxi KeyLaboratory ofPlant ConservationandRestoration EcologyinKarstTerrain(19-O50-6)；Elevation of Talent Program of Guangxi karst ecological construction and sustainableutilization of plant resources in 2019]。  \n作者简介：李佳慧(1992-)，女，吉林省吉林人，硕士研究生，主要从事分子系统学研究，（E-mail)kislly $@$ foxmail.com。  \n\\*通信作者：张强，博士，研究员，主要从事分子系统学研究，（E-mail）qiangzhang04 $@$ 126.com。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "University）,MinistryofEducation,CollegeofLife Sciences,Guangxi Normal UniversityGuilin541oo6,Guangxi, China. 2.Guangxi Key Laboratory of Plant Conservation and Restoration Ecology in Karst Terrain, Guangxi Institute of Botany, Guangxi Zhuang Autonomous Region and Chinese Academy ofSciences, Guilin 541006, ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Guangxi, China) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Hemiboea subcapitata is a group of perennial herbs in Gesneriaceae,which has great morphological variations and large distributional range，growing on various edaphic substrates in different habitats.In this study,focusing on Hemiboea subcapitata,H. pterocaulis,and two other related variations，we investigated and described the diversities of the morphology and micromorphology； outlined the geographic distributions and habitats by consulting specimens and literature,and long-term field surveys; in addition,the phylogenetic relationship and haplotype network among all types were inferred based on DNA data of the nuclear ITS sequences.The results are as follows: (1) Diferent variations of the Hemiboea subcapitata complex can be distinguished through the combination of multiple traits from stems,leaves,flowers and phenology. (2) The leaf cross-section anatomical micromorphologies are highly similar in terms of basic tissue compositions,epidermal cell shape and stomatal distribution, while there are differences in presence versus absence of the epidermal hair，number of the vascular bundles and arrangement， which are seemingly helpful for the classification.(3） Typical $H .$ subcapitata is widely distributed in central and southern China and extends to northern Vietnam, growing on different types of rocks,e.g. limestone and sandstone in the limestone region and/or Danxia landform etc.,and $H .$ pterocaulis possesses a narrow range in Guilin, Guangxi and is endemic to limestone,while other two types are only distributed in one or a few adjacent limestone hills in Yongfu County, Guilin and restricted to limestone substrates as wel.(4) The haplotype network show that each type of $H .$ ， subcapitata complex has its own unique and unshared haplotypes； the molecular phylogenetic relationships indicate that Hemiboea sp. and $H .$ pterocaulis group together, but the monophyletic lineage consisting of all indivuduals of the former type (i.e. Hemiboea sp. from Jinzhongshan） is nested within the latter; $H .$ subcapitata and $H .$ yongfuensis are reciprocally monophyletic， supporting both of them as independent species. In conclusion,at least three indenpendent species can be indentified for the $H$ ，subcapitata complex. The sympatric distribution of all the four variations in South China,and even the coexistence of the three of them at the same sites in the same limestone hills do not necessarily mean sympatric speciation, though they likely diverged sympatrically via key trait change(s) such as phenological transition of differential flowering times that could have resulted in reproductive isolation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Hemiboea subcapitata complex, geographical distribution, morphology, phylogeny, species delimitation ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "苦苣苔科（Gesneriaceae）半蒴苣苔属HemiboeaC.B.Clarke（1888）半蒴苣苔（ $H .$ subcapitataC.B.Clarke）主要生长在我国华中、华南和越南北部海拔 $1 0 0 { \\sim } 2 ~ 1 0 0 ~ \\mathrm { m }$ 的山谷、丘陵和山脉中的岩石裂缝或石灰岩、砾岩、花岗岩或砂岩岩石表面的腐殖质中(Wang et al,1998；韦毅刚等，2010)。根据《中国植物志》（Wang etal.，1990）以及《中国苦苣苔科植物》（Li&Wang，2005）记载，半蒴苣苔为多年生草本；茎直立，散生紫褐色斑点，不分枝；叶对生连基抱茎，稍肉质，全缘或中部以上具浅钝齿，顶端急尖或渐尖，基部常不相等，具叶柄，合生后呈船形，叶片表面、维管束及叶肉周围散生蠕虫状石细胞；聚伞花序腋生或假顶生；总苞球形，顶端具突尖，无毛，开裂后呈船形；萼片5，离生；花冠筒外疏生腺状短柔毛，内面基部上方有一毛环，口部上唇2浅裂，下唇3浅裂，裂片均为半圆形；花药顶端相连，退化雄蕊3，中央1个，侧面2个，顶端小头状，分离；花盘环状；子房线形，柱头钝，略宽于花柱；蒴果线状披针形；花期9一10月，果期10一12月。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "该种分布范围广，形态变异幅度大，其物种及种下分类几经变动。《Flora ofChina》中，早期发表的7个种或变种 H.henryi Clarke（Clarke，1888）、H. henryi Clarke var.major Diels（Diels，190O）、H. subcapitata Clarke var. intermedia Pamp.（Pampanini & Silvestri，1910）、H. marmorata Lévl. （Léveillé，1911）、Didymocarpus hwaianus S. Y.Hu（Hu，1980）、H.subcapitata Clarke var. denticulata W.T.Wang ex Z.Y.Li（李振宇，1983）和 H.subcapitataClarke var.sordidopuberula Z.Y.Li（李振宇,1987)都被归并为半蒴苣苔（Wang et al.,1998）。随后，李振宇（2004）在广西桂林发现一类与半蒴苣苔形态较为相似，但茎具翅且花期完全不同的群体,将其作为半蒴苣苔的变种,即翅茎半蒴苣苔H.subcapitata var.pterocaulis Z.Y.Li。在之后系列论著中，半蒴苣苔被认为只包括半蒴苣苔原变种（H.subcapitatavar.subcapitata）、广东半蒴苣苔变种（H.subcapitata var.guangdongensis）以及翅茎半蒴苣苔变种（Li&Wang，2005；韦毅刚等，2010）。最近，基于形态、物候和分子系统发育证据，翅茎半蒴苣苔变种提升为独立物种H.pterocaulis(Z.Y.Li)J.Huang,X.G Xiang&Q.Zhang（Huang etal.，2017）。此外系统发育研究表明，广东半蒴苣苔变种与半蒴苣苔、翅茎半蒴苣苔系统关系较远，而与短茎半蒴苣苔（H.subacaulis Hand.-Mazz.）最为近缘，也为独立物种（H. guangdongensis (Z.Y.Li) X.Q.Li& X.G. Xiang；Li et al.， 2019）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对半蒴苣苔及其近缘物种的野外多样性调查中，我们先后发现分别与典型半蒴苣苔和翅茎半蒴苣苔在形态上较为相似的未见报道的新类型。两种新类型皆发现于广西桂林金钟山，且与典型半蒴苣苔混生在同一喀斯特山头石灰岩基质上。其中一类分布于金钟山附近多个毗邻的喀斯特山石灰岩基质上，与翅茎半蒴苣苔的花、果在形态和物候期都几无差别，但在茎的形状、粗壮程度和植株大小上有较明显的差别(暂称之为金钟山居群Hemiboea sp.图1:D)。另一类则只发现于一个喀斯特山石灰岩基质上，在形态上与典型半蒴苣苔最相似，但在茎形态和花色上有所不同（称之为永福半蒴苣苔 Hemiboea yongfuensis 图1:B）（Huang，2020）。本研究中将半蒴苣苔、翅茎半蒴苣苔、金钟山居群与永福半蒴苣苔统称为半蒴苣苔复合群。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "形态高度相似近缘物种间的物种划分一直是分类学基本难题之一。喀斯特生境复杂多样，植物物种丰富且特有狭域分布物种众多（Houetal.，2010；韦毅刚等，2010；于胜祥等，2017）。近年来，针对我国南部喀斯特地区苦苣苔科植物的系统发育研究也表明，依据形态建立的分类单元特别是属，通常为非单系类群（Wang etal.，2011；Weber etal.，201la，b）。复杂的形态趋同演化、平行演化和快速形态演变可能是导致传统分类不自然的关键原因（卢永彬等，2017）。半蒴苣苔及其变种在分类上的反复变动也表明仅依据形态特征难以对其正确地分类划分（Huang etal.，2017；Lietal.，2019）。因此，本研究详细对比半蒴苣苔复合群的形态、微形态多样性及地理分布；通过居群取样，利用核核糖体ITS序列初步重建半蒴苣苔复合群内的系统发育关系并构建单倍型网络图（haplotype network）；在此基础上探索其物种界限。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对我国浙江、贵州、湖南、湖北、广西等半蒴苣苔分布地进行了野外实地考察，并分别引种了典型半蒴苣苔、永福半蒴苣苔、翅茎半蒴苣苔和金钟山居群各50、30、25、25 株于广西壮族自治区中国科学院广西植物研究所苗圃，用于物候追踪。对中国数字植物标本馆（CVH;http://www.cvh.ac.cn/）上611 份半蒴苣苔标本信息进行了统计，利用XGeocodingV2（http://www.gpsspg.com/xgeocoding/）将地理名称转换为地理坐标，并用ArcGis10.2(https://www.arcgis.com/features/index.html,ESRI,Inc.,Redlands,CA, USA)绘制出半蒴苣苔复合群的分布图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2形态测量和统计方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "应用ImageJ（htp://imagej.nih.gov/ij/index.html）测量来自不同采集地的4种类型植物（半蒴苣苔49株、永福半蒴苣苔39株、翅茎半蒴苣苔36株、金钟山山居群38株）的茎宽及叶长、宽，确定这些数量性状的变化范围以及平均值。用Graphpad Prism(htps://www.graphpad.com/scientificsoftware/prism/）绘制对应的箱式图。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3叶片显微结构测量方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 材料分别选取半蒴苣苔6株、永福半蒴苣苔6株、翅茎半蒴苣苔5株、金钟山山居群 6株的成熟叶片进行显微结构测量。  \n1.3.2 叶片横切的处理方法叶片沿中脉横切为 $5 \\ \\mathrm { m m } \\times 5 \\ \\mathrm { m m }$ ，用 $1 \\%$ 的番红溶液染色，制片，光学显微镜观察并拍照。  \n1.3.3 叶表皮的处理方法取完整成熟叶片，洗净，连同中脉（便于判断上、下表皮）剪叶片成$1 . 5 ~ \\mathrm { c m } { \\times } 1 . 5 ~ \\mathrm { c m }$ 左右的小块；加适量KOH，用沸水煮泡数分钟后（时间因材料而定），将材料投入冷水浸泡数分钟；倒去冷水，放入 $30 \\%$ 的NaCIO溶液中浸泡至叶片发白后取出，蒸馏水冲洗后，撕取叶片的上下表皮，用毛笔去掉叶肉组织；用 $1 \\%$ 的番红溶液染色，制成装片，光学显微镜观察并拍照。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4基于ITS序列的系统发育关系重建和单倍型网络图构建",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分别采集不同地点的半蒴苣苔、永福半蒴苣苔、翅茎半蒴苣苔和金钟山居群各9、5、5、5份叶片利用硅胶干燥保存（具体材料来源见表1）。采用CTAB法（Doyle＆Doyle，1987）提取总 DNA。ITS 引物的选择、PCR 扩增等参考Huang et al.（2017）的实验流程。本研究获得的原始序列在软件 SEQMAN（Swindell&Plasterer，1997）中进行剪切拼接和校正，总共获得 ITS序列 24条。把这些新获得序列加入最新已发表的半蒴苣苔ITS矩阵中（Lietal.，2019），最终矩阵包括半蒴苣苔属已知 22物种及2种新类型序列共 57条。选取小石蝴蝶Petrocosmea minor、小叶吊石苣苔 Lysionotus microphyllus、大苞苣苔 Anna submontana 为外类群（Li et al.，2019）。利用 MUSCLE 3.8.31（Edgar，2004）进行比对，并在BioEdit（Hall，1999）中检查和人工校正。用jModelTest2.1.7（Posada，2008）计算并选择最优模型 ${ \\mathrm { G T R } } { + } { \\mathrm { G } }$ ，选择最大似然法构建系统发育树，使用RAxML7.2.6（Stamatakis，2006）软件设置1000 次重复的自展分析（bootstrap;BS）评估各节点的可靠性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "选择适用于单倍型分析的半蒴苣苔复合群ITS 矩阵（半蒴苣苔18条，永福半蒴苣苔5条，翅茎半蒴苣苔6条，金钟山居群5条）共34条序列，利用DnaSPv5（Librado＆Rozas，2009）软件分析半蒴苣苔复合群的单倍型，计算半蒴苣苔复合群的单倍型多样性（haplotype diversity）和核苷酸多样性（nucleotide diversity），最后通过 Popart（Leigh&David，2015）构建获得单倍型网络图。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d6a75e80c5c7b949a5999c702729362d673b6192e2e363dbd45301f6d6c3c1fe.jpg",
+        "table_caption": [
+            "表1用于ITS序列扩增的植物材料及其来源",
+            "Table 1 Plant materials and sources used for the amplifications of the ITS sequences "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>物种 Species</td><td>采集地 Collection place</td></tr><tr><td>半蒴苣苔 Hemiboea subcapitata</td><td>江西上饶 Shangrao,Jiangxi</td></tr><tr><td>半蒴苣苔H.subcapitata</td><td>浙江杭州 Hangzhou, Zhejiang</td></tr><tr><td>半蒴苣苔H.subcapitata</td><td>浙江临安 Linan,Zhejiang</td></tr><tr><td>半蒴苣苔 H. subcapitata</td><td>湖南长德 Changde,Hunan</td></tr><tr><td>半蒴苣苔H.subcapitata</td><td>湖南长德 Changde,Hunan</td></tr><tr><td>半蒴苣苔H.subcapitata</td><td>湖北神农架 Shennongjia,Hubei</td></tr><tr><td>半蒴苣苔H.subcapitata</td><td>湖北宜昌 Yichang,Hubei</td></tr><tr><td>半蒴苣苔 H.subcapitata</td><td>广西桂林 Guilin,Guangxi</td></tr><tr><td>半蒴苣苔H.subcapitata</td><td>广西桂林 Guilin,Guangxi</td></tr><tr><td>永福半蒴苣苔H.yongfuensis</td><td>广西桂林 Guilin,Guangxi</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f5d54ee625bb156e129212c539b7cf34c1139b157f2fca0766bdce7e2a6050f6.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>永福半蒴苣苔H.yongfuensis</td><td>广西桂林 Guilin,Guangxi</td></tr><tr><td>永福半蒴苣苔H.yongfuensis</td><td>广西桂林 Guilin,Guangxi</td></tr><tr><td>永福半蒴苣苔 H.yongfuensis</td><td>广西桂林 Guilin,Guangxi</td></tr><tr><td>永福半蒴苣苔H.yongfuensis</td><td>广西桂林 Guilin,Guangxi</td></tr><tr><td>翅茎半蒴苣苔H.pterocaulis</td><td>广西桂林 Guilin,Guangxi</td></tr><tr><td>翅茎半蒴苣苔H.pterocaulis</td><td>广西桂林 Guilin,Guangxi</td></tr><tr><td>翅茎半蒴苣苔H.pterocaulis</td><td>广西桂林 Guilin,Guangxi</td></tr><tr><td>翅茎半蒴苣苔H.pterocaulis</td><td>广西桂林 Guilin,Guangxi</td></tr><tr><td>翅茎半蒴苣苔H.pterocaulis</td><td>广西桂林 Guilin,Guangxi</td></tr><tr><td>金钟山居群 Hemiboea sp.</td><td>广西桂林 Guilin,Guangxi</td></tr><tr><td>金钟山居群 Hemiboea sp.</td><td>广西桂林 Guilin,Guangxi</td></tr><tr><td>金钟山居群 Hemiboea sp.</td><td>广西桂林 Guilin,Guangxi</td></tr><tr><td>金钟山居群 Hemiboea sp.</td><td>广西桂林 Guilin,Guangxi</td></tr><tr><td>金钟山居群 Hemiboea sp.</td><td>广西桂林 Guilin,Guangxi</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1半蒴苣苔复合群的形态差异",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "半蒴苣苔复合群内各物种和变异类型间主要在茎横切形状及是否具翅、总苞颜色、萼片颜色及着生方式、花冠外表面颜色等方面具有差异（图1）。半蒴苣苔茎少斑点，无翅，横切面圆形；叶对生连基抱茎（亦或不抱茎）；总苞绿色；白色萼片5裂至基部；花冠外表面白色。永福半蒴苣苔则茎具密布紫斑，无翅，横切面四边形；叶柄不抱茎；总苞褐色；粉色萼片5裂至基部；花冠外表面粉色。翅茎半蒴苣苔茎具翅，茎横切面为多边形；叶柄不抱茎；总苞绿色；淡绿色萼片5裂至中部（基部合生）；花冠外表面白色。金钟山居群植株茎纤细且具小翅，横切面为多边形；叶柄不抱茎；总苞绿色散生紫色斑点；淡绿色萼片5裂至中部（基部合生）；花冠外表面白色且带紫色斑点。更多详细形态比较见表2。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "我们发现半蒴苣苔复合群内各物种和变异类型间的花果期也有所不同：半蒴苣苔花期9-10月，果期10－12月；永福半蒴苣苔花果期略晚，花期为10－11月，果期12月至次年1月；翅茎半蒴苣苔和金钟山居群花果期一致，花期4-5月，果期6一7月，与前两者完全不同。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A．半蒴苣苔；B.永福半蒴苣苔；C.翅茎半蒴苣苔；D.金钟山居群。  \nA.Hemiboea subcapitata; B.H. yongfuensis； C.H. pterocaulis； D. Hemiboea sp.",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/134b430b738f05294c99c239c549bde610dd31d4bd3978209715ebc387dd6da1.jpg",
+        "img_caption": [
+            "图1半蒴苣苔复合群形态多样性",
+            "Fig.1 Morphological diversity of the Hemiboea subcapitata complex "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/3874b537f6eb2236fef05a997e2f54db03aa41b34a54d28f29f1d531c08c6441.jpg",
+        "table_caption": [
+            "表2半蒴苣苔复合群不同变异类型间的形态比较"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">Table 2 Morphological comparisons among the variations of the Hemiboea subcapitata complex</td></tr><tr><td>性状</td><td>半蒴苣苔</td><td>永福半蒴苣苔</td><td>翅茎半蒴苣苔</td><td>金钟山居群</td></tr><tr><td>Character</td><td>Hemiboea subcapitata</td><td>H. yongfuensis</td><td>H. pterocaulis</td><td>Hemiboea sp.</td></tr><tr><td>茎横切形状</td><td>圆形</td><td>方形</td><td>多边形</td><td>多边形</td></tr><tr><td> Stem crosscut</td><td>Circular</td><td>Quadrate</td><td>Polygonous</td><td>Polygonous</td></tr><tr><td>shape 茎是否具翅</td><td>不具翅</td><td>不具翅</td><td>具翅</td><td>具小翅</td></tr><tr><td>Whether the</td><td>Without wings</td><td>Without wings</td><td>With wings</td><td>With slight wings</td></tr><tr><td> stem has wings</td><td></td><td></td><td></td><td></td></tr><tr><td>茎上紫色斑点</td><td>稀疏</td><td>密集</td><td>稀疏</td><td>一般</td></tr><tr><td>情况 Purple spots on</td><td>Sparse</td><td>Dense</td><td>Sparse</td><td>Intermediate</td></tr><tr><td>the stem</td><td></td><td></td><td></td><td></td></tr><tr><td>叶片长度</td><td>3~ 22 cm</td><td>4~ 18 cm</td><td>8~16cm</td><td>3~ 13 cm</td></tr><tr><td>Blade length</td><td></td><td></td><td></td><td></td></tr><tr><td>叶片宽度</td><td>1.4 ~ 8 cm</td><td>4~10cm</td><td>3.5~7 cm</td><td>1.3 ~ 4.7 cm</td></tr><tr><td>Blade width</td><td></td><td></td><td></td><td></td></tr><tr><td>叶片正面毛被</td><td>散生短柔毛或近无毛</td><td>散生短柔毛</td><td>无毛</td><td>无毛</td></tr><tr><td>Indumentum on the adaxial side</td><td>Sparsely pubescent or subglabrous</td><td>Sparsely pubescent</td><td>Glabrous</td><td>Glabrous</td></tr><tr><td>of the blade</td><td></td><td></td><td></td><td></td></tr><tr><td>叶片正面颜色</td><td>深绿色</td><td>灰绿色</td><td>深绿色</td><td>褐绿色</td></tr><tr><td>Color of the</td><td>Bottle green</td><td>Greyish-green</td><td>Bottle green</td><td>Brown green</td></tr><tr><td>adaxial side of</td><td></td><td></td><td></td><td></td></tr><tr><td>the blade</td><td>淡绿色或紫红色</td><td></td><td></td><td></td></tr><tr><td>叶片背面颜色</td><td></td><td>淡绿色</td><td>淡绿色或紫红色</td><td>淡绿色或紫红色</td></tr><tr><td>Color of the abaxial side of</td><td>Pale green or fuchsia</td><td>Pale green</td><td>Pale green or</td><td>Pale green or</td></tr><tr><td>the blade</td><td></td><td></td><td>fuchsia</td><td>fuchsia</td></tr><tr><td>叶边缘</td><td>全缘或中部以上具浅</td><td>全缘</td><td>边缘钝具小齿</td><td>边缘具钝小齿</td></tr><tr><td>Blade margin</td><td>钝齿</td><td>Entire</td><td>With obtuse small</td><td>With obtuse small</td></tr><tr><td></td><td>Entire or with shallow</td><td></td><td>teeth</td><td>teeth</td></tr><tr><td></td><td>obtuse teeth on the terminal half</td><td></td><td></td><td></td></tr><tr><td>叶柄基部 Petiole base</td><td>抱茎或不抱茎</td><td>不抱茎</td><td>不抱茎</td><td>不抱茎</td></tr><tr><td></td><td>Connate-perfoliate or not</td><td>Non-amplexicaul</td><td>Non-amplexicaul</td><td>Non-amplexicaul</td></tr><tr><td>花序着生方式</td><td>腋生或假顶生</td><td>腋生或假顶生</td><td>假顶生</td><td>腋生或假顶生</td></tr><tr><td>Inflorescence</td><td>Axillary or</td><td>Axillary or</td><td>Pseudoterminal</td><td>Axillary or</td></tr><tr><td> arrangement</td><td>pseudoterminal</td><td>pseudoterminal</td><td></td><td>pseudoterminal</td></tr><tr><td>总苞</td><td>绿色、无毛</td><td>褐色、无毛</td><td>绿色、无毛</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>绿色散生紫色斑</td></tr><tr><td>Involucre</td><td>Green; Glabrous</td><td>Brown; Glabrous</td><td>Green; Glabrous</td><td>点、无毛</td></tr><tr><td></td><td></td><td></td><td></td><td>Green with scatteree</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "purple spots; Glabrous 花萼 5裂至基部 5裂至基部 5裂至中部 5裂至中部 Calyx 5-lobed from the base 5-lobed from the 5-lobed from near 5-lobed from near base the middle the middle   \n花冠外表面颜 白色 粉色 白色 白色带紫色斑点 色 White Pink White White with purple   \nColor of the spots   \ncorolla outer surface ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2茎和叶的形态数量统计分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对半蒴苣苔复合群植株形态观测发现，茎和叶形态在物种和变异类型间存在差异（图2）。半蒴苣苔复合群内各物种和变异类型间茎宽大多在 $2 { \\sim } 1 2 \\ \\mathrm { m m }$ 之间。翅茎半蒴苣苔的茎宽在复合群内变异幅度最大且均值（ $1 0 \\mathrm { m m }$ ）高于其他物种和类型；半蒴苣苔的茎宽变异幅度次之（均值$5 \\ \\mathrm { m m }$ ）；永福半蒴苣苔的的茎宽变异幅度比前两者小但是略高于金钟山居群（金钟山居群均值约 $3 \\mathrm { m m }$ ）（图2:II）。叶长和叶宽在物种和变异类型内部变化幅度大，物种和变异类型间有明显重叠。叶长和宽均值在半蒴苣苔、永福半蒴苣苔、翅茎半蒴苣苔和金钟山居群呈现递减趋势（图2:III，IV）；叶片长/宽比则相反（图2:V）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "金钟山居群多数个体在茎宽度、叶片长度和宽度上与其他三类有较为明显差别。但其他类型在这些性状上的变异幅度大，且在类型之间重叠，因此不宜用这些性状来区分这些类型和作为分类依据。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "20- I 400 Ⅱ350-(u)yp wts 15100 自 e 3020205 皇 工 150-1 H500 T T T T 0 T T T TA B C D A B C D类型Type 类型Type200 ⅢI [itee 5.0 4.0- IV100- 3.5- 2.5- 中宁百 2.0-1.5-50- 皇 teee 1.00 T T T T 0.0 T T T TA B C D A B C D类型Type 类型Type",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "I.茎宽度；II.叶长度；ⅢI.叶宽度；IV.叶片长/宽值。A.半蒴苣苔；B.永福半蒴苣苔；C.翅茎半蒴苣苔；D.金钟山居群。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "I.Stem width；II.Leaf length；II.Leaf width；IV.Leaf length/width ratio.A.Hemiboea subcapitata；B.H.  \nyongfuensis； C.H. pterocaulis； D.Hemiboea sp.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Boxplot diagram of the measured values of the length, width and length/width ratio of the stems and leaves of Hemiboea subcapitata complex ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.3半蒴苣苔复合群的显微结构观察",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对半蒴苣苔复合群的植株叶片横切解剖发现叶片均由表皮、叶肉细胞和叶脉三部分组成（图3）。物种和类型间在叶脉维管束数量以及排列方式上存在差异：半蒴苣苔的多个维管束分散排列成三角形（图3:A）；永福半蒴苣苔的多个维管束紧密排列成三角形（图3:B）；翅茎半蒴苣苔的多个维管束紧密排列成近圆形（图3:C)；金钟山居群的多个维管束紧密排列成不规则形（图3:D）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "半蒴苣苔复合群植株叶表皮微形态结构大体一致。叶片上表皮细胞均为多边形，垂周壁平直，不具气孔器；叶片下表皮细胞均为多边形，垂周壁平直，气孔器为不规则型（图4）。类型间也存在一定差异：永福半蒴苣苔的叶片上表皮具有由3\\~5个单细胞堆成“关节”状的细胞毛（图4:B1）；半蒴苣苔的上表皮具有少量的多细胞毛（图4:A1）；翅茎半蒴苣苔和金钟山居群则表面光滑，无毛状等附属结构(C1,D1)。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/1441b0b8f52bfe00f9f9893ec2a0fd1fb58618d907f039d4725a6599ea65df1b.jpg",
+        "img_caption": [
+            "图3光学显微镜下半蒴苣苔复合群叶横切解剖图"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A．半蒴苣苔；B.永福半蒴苣苔；C.翅茎半蒴苣苔；D.金钟山居群。  \nA.Hemiboea subcapitata；B.H. yongfuensis；C.H. pterocaulis；D.Hemiboea sp.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 Cross-section anatomy of the leaves of the Hemiboea subcapitata complex under light microscope ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "I．叶上表皮微形态；II．下表皮微形态。A1,A2.半蒴苣苔；B1,B2.永福半蒴苣苔；C1,C2.翅茎半蒴苣苔；D1,D2.金钟山居群。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/14bf6ea5a0cdcacd1b20f50ead35d2c8dc8c9270871a519c48be27002f6dec68.jpg",
+        "img_caption": [
+            "图4半蒴苣苔复合群叶表皮微形态"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "I.Micromorphology of the leaf upper epidermis； II.Micromorphology of the leaf lower epidermis. A1,A2.  \nHemiboea subcapitata； B1,B2.H. yongfuensis； C1,C2.H. pterocaulis； D1,D2. Hemiboea sp.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 Micromorphology of the leaf epidermis of the Hemiboea subcapitata complex ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.4半蒴苣苔复合群的地理分布",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "根据文献资料和CVH上半蒴苣苔的标本记录以及我们长期野外调查，绘制出半蒴苣苔复合群的分布图（图5）。典型半蒴苣苔主要分布于我国中部和南部的16个省、市以及越南北部，生长在喀斯特、丹霞等多种生境下的花岗岩、砂岩、石灰岩等不同性质岩石石缝中或岩石表面腐殖质上；翅茎半蒴苣苔目前仅发现分布于广西桂林市市区和阳朔县的喀斯特山石灰岩上；而永福半蒴苣苔和金钟山居群仅分布于桂林市永福县一个或相邻的数个喀斯特山石灰岩上。",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/ee38659d2901040a7511c99efb2f55991b01af9610dfed7940cd1c30526c1277.jpg",
+        "img_caption": [
+            "图5半蒴苣苔复合群地理分布图"
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Fig.5 Geographical distribution of the Hemiboea subcapitata complex ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2.5半蒴苣苔复合群的系统发育关系以及单倍型间的演化关系",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "根据ITS 重建的系统发育关系，半蒴苣苔属为单系（ $\\mathrm { B S } = 1 0 0 \\%$ ）。半蒴苣苔复合群、宽萼半蒴苣苔（ $H .$ latisepalaH.W.Li）以及由广东半蒴苣苔、短茎半蒴苣苔（ $H .$ subcaulis）、腺毛半蒴苣苔（ $H .$ strigosa Chun exW.T.Wang）组成的一支（ $\\mathrm { B S } = 9 7 \\%$ ）就间关系最近（ ${ \\mathrm { B S } } = 9 8 \\%$ ），它们之间形成六歧分支的并系。半蒴苣苔复合群则包括其中的四个分支：金钟山居群所有个体形成一个较低支持率的单系（ $\\mathrm { B S } = 5 6 \\%$ ）嵌入翅茎半蒴苣苔内，两者组成一支（ $\\mathbf { B S } = 9 9 \\%$ ）；除一个个体的半蒴苣苔单独一支外，其余所有半蒴苣苔个体聚为一支（ $B S = 8 4 \\%$ ）；永福半蒴苣苔所有个体形成一个独立的单系分支（ $\\mathrm { B S } = 9 4 \\%$ ）。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "单倍型分析发现半蒴苣苔复合群已有数据包括18个单倍型（其中，半蒴苣苔12个单倍型，永福半蒴苣苔3个单倍型，翅茎半蒴苣苔2个单倍型，金钟山居群1个单倍型），四类型各自独享单倍型。半蒴苣苔复合群的单倍型多样性指数为0.9376，核苷酸多样性指数为0.02206。除少数几个单倍型以较少的突变步数直接相连外，大多数单倍型通过众多的“隐单倍型”（未检测出的单倍型或是已绝灭的古单倍型）相连。这些表明现存的单倍型间具有相对较长的演化历史，在过去相当长历史时期内，类型间无基因交流或仅有有限基因交流。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "94 Petrocosmeaminor Annasubmontana Lysionotusmicrophyllus Hemiboeafangii 94 59 H.suiyangensis H.purpurea 100 H.omeiensis 98 H.rubribracteata 90 H.crystallina H.crystallina 90 76 Htmoess 85 64 H.longzhouensis 76 H.cavaleriei var.paucinervis 65 98 H.mdipoeracscea 83 100 H.purpureotincta 58 H.flaccida H.albiflora H.latisepala Hemiboeasp. 56 ★Hemiboeasp. 59 Hemiboea sp. Hemiboea sp. H.pterocaulis 63 H.pterocaulis 99 74 Ao 64 H.pterocaulis H.pterocaulis 64 H.subcaulis 97 H.guangdongensis H.strigosa H.subcapitata H.subcapitata 98 H.subcapitata 98 H.subcapitata H.subcapitata H.subcapitata H.subcapitata 62 79 62 H.subcapitata H.subcapitata H.subcapitata 97 OH.subcapitata 84 63 H.subcapitata 半蒴苣苔 H.subcapitata Hemiboeasubcapitata H.subcapitata H.subcapitata 永福半蒴苣苔 H.subcapitata H.yongfuensis H.subcapitata H.subcapitata 翅茎半蒴苣苔 86 88 H.yongfuensis H.pterocaulis 94 H.yongfuensis 金钟山居群 H.vongfuensis Hemiboea sp. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "黑色粗体显示的为本研究新获得的半蒴苣苔复合群植株个体的序列。   \nThe newly accquired sequences of the Hemiboea subcapitata complex are highlighted in bold 图6基于ITS序列构建的最大似然（maximumlikelihood）树 Fig.6ML phylogenetic tree based on the ITS sequences ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/21396e189ffc7374960f86a0aeb3e0dd26c9dc28b0ef6785bd0384149747eadc.jpg",
+        "img_caption": [
+            "图7基于ITS序列构建的半蒴苣苔复合群的单倍型进化图"
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Fig.7 Haplotype network of the Hemiboea subcapitata complex based on the ITS sequences ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "复合群物种的界限和自然物种分类是在各大类生物多样性研究中普遍存在的难题。一些近缘物种或群体独立进化历史较短，可能在形态上变化较小，甚或一些经历了较长时间独立演化的物种可能因为形态保守性（morphostasis）或同塑性演化（homoplasy），从形态上同样难以区分，形成隐存物种（cryptic species）。有的隐存物种可以通过 DNA 或综合利用DNA 与生态位（ecological niche）等的分化加以区分鉴别（Liu etal.，2013；Zhang&Li，2014）。在昆虫分类研究中，例如美洲蝴蝶等（Hebert etal.，2004），就时常有隐存物种被发现；在植物研究中，同样有大量的隐存物种被发现和报道（Luetal.，2010；Yuetal.，2018）。本研究中的永福半蒴苣苔虽与其形态上最相似的近缘物种半蒴苣苔（亦可能是系统发育上最近缘物种）及另一类近缘的新变异类型金钟山居群分布在同一山头且三者交互混生，但它与另两者间并不共享任何单倍型，表明与另两者间有天然的遗传隔离；永福半蒴苣苔产生并固定了自身独有的单倍型，预示经历较长时间的独立演化。所以，即便永福半蒴苣苔与半蒴苣苔在形态上高度相似，仅在茎形状、花、花萼和叶颜色上略有差别，但DNA证据表明永福半蒴苣苔在系统发育上形成单系类群，符合系统发育物种的标准（Taylor etal.，2000），两者间应为独立物种。而新发现的另一变异类型金钟山居群在形态、物候上与翅茎半蒴苣苔最接近，DNA证据也表明两者间最为近缘且金钟山居群形成单系类群。然而，金钟山居群形成的单系类群聚集在翅茎半蒴苣苔内部，故其独立物种地位未获系统发育的支持。但是，已有研究指出，不完全谱系分选（incomplete lineage sorting）和基因渐渗（introgression）在近缘物种间易于发生，而此两者可能会导致近缘物种在基因树上（genetree）并不互为单系（Seehausen，2004)。所以，金钟山居群是否也为独立物种还需更多证据才能准确判断，例如，基于多群体多个体的多位点或基因组层面的物种树重建或物种界定等相关分析，以及类型之间杂交亲和育性检测等实验。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "物种起源、形成过程和机制往往复杂多样，这或许亦是造成物种分类困难的关键原因。在植物中，异域隔离成种（allopatric speciation）被认为起到主要作用。随着研究深入，邻域成种（parapatric speciation）和同域成种（sympatric speciation）的现象被不断发现和报道，其机制如生态位分化（ecological niche diversification）和自然选择（natural selection）、多倍化（polyploidization）、关键成种基因（speciation gene）突变等也越来越多地被揭示（Rieseberg&Willis，2007；Rundle&Nosil，2005；Ting etal.，2000）。半蒴苣苔复合群中，永福半蒴苣苔和翅茎半蒴苣苔（及金钟山居群）皆为狭域分布，且包含在典型半蒴苣苔分布区之内。对于该复合群物种形成和现今地理分布格局成因，我们推测有两种可能：1）永福半蒴苣苔和翅茎半蒴苣苔由广布的祖先种甚或直接由半蒴苣苔祖先群体在广阔分布区内的局域就地分化成新物种（即同域成种）；2）亦或三者间由分布在不同地域的群体隔离分化（vicariance）形成，之后因典型半蒴苣苔分布区扩张或其余两种分布区变化进而形成现今的重叠分布。基于各物种群体水平取样的谱系地理研究将有助于检验和分辨半蒴苣苔复合群的物种形成过程和现今地理分布格局的成因。如果永福半蒴苣苔和（或）翅茎半蒴苣苔与典型半蒴苣苔间为同域成种，因前两者由少部分典型半蒴苣苔群体和个体就地分化形成或广布的典型半蒴苣苔继承了多数祖先遗传多样性，那么基于更广泛取样和更多基因位点序列构建的系统发育关系则会表现为典型半蒴苣苔相对于翅茎半蒴苣苔或永福半蒴苣苔形成并系（paraphyletic group）。此种模式在一些其他类群中有所报道（Luebertetal.，2014）。反过来，如果进一步分子系统发育分析表明，三者间为单系类群，且重叠区的典型半蒴苣苔来源于其他地区（系统树上嵌入到其他地区群体内部），那么则更支持异域成种。典型半蒴苣苔、永福半蒴苣苔和翅茎半蒴苣苔三者间花期上的差异（花期不重叠或仅略有重叠）使得三者间无法或仅能有限的基因交流，为同域成种提供了可能，但花期改变是成种的原因亦或是成种后各自演化形成同样需要进一步深入研究。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "本研究通过对半蒴苣苔复合群形态、微形态、地理分布和分子系统发育等多方面的初步研究，表明半蒴苣苔复合群具有较高的形态多样性和遗传多样性；该复合群至少可以分为三个独立物种：半蒴苣苔、翅茎半蒴苣苔和永福半蒴苣苔，而金钟山居群为独立物种还是与翅茎半蒴苣苔为同一物种仍需更多充分证据才能断定。单一类型证据难以正确划分形态高度相似的近缘复合群间的物种界限。复合群的同域分布尤其相互混生的群体（如本研究中半蒴苣苔与永福半蒴苣苔）为利用 DNA 证据评估不同形态变异类型间的基因交流或遗传隔离程度，进而为自然划分物种提供了契机。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "CLARKE CB,1888. Gesneriaceae Hemiboea henryi C.B. Clark [M]. In: Hooker's Icones Plantarum 18: sub 1.1798.   \nDIELS FL,1900. Die Flora von Central-China [J]. Bot Jahrb Syst,29: 576.   \nDOYLE JJ, DOYLE JL,1987.A rapid DNA isolation procedure for smallquantities of fresh leaf tissue [J].Phytochem Bull, 19:11-15.   \nEDGAR RC,2004. MUSCLE: multiple sequence alignment with high accuracy and high throughput [J]. Nucl Acid Res,32(5): 1792-1797.   \nHU SY,1980. The Metasequoia flora and its phytogeographic significance [J]. J Arnold Arboretum, 61: 88.   \nHUANG J, XIANG XG,LU YB et al., 2017. Hemiboea pterocaulis comb. et stat. nov. (Gesneriaceae), a new critically endangered species segregated from H. subcapitata [J]. Nord JBot, 36(1/2): 1-10.   \nHUANG ZP,LI JH,PAN B,et al.， 202O. Hemiboea yongfuensis (Gesneriaceae): A cryptic and critically endangered new species from North Guangxi， China[J]. Nord J Bot,38 (3):1-8. doi:10.1111/njb.02435.   \nHOU MF,PUJOL LJ,QIN HN,et al.，2O10. Distribution patern and conservation priorities for vascular plants in Southern China: Guangxi Province as a case study [J]. Bot Stud,51(3): 377-386.   \nHALL TA,1999. BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT [J]. Nucl Acids Symp Ser, 41: 95-98.   \nHEBERT PDN, PENTON EH, BURN JM, et al.，2O04. Ten species in one: DNA barcoding reveals cryptic species in the neotropical skipper butterfly Astraptes fulgerator [J]. Proc Natl Acad Sci USA, 101(41): 14812-14817.   \nLI ZY,WANG YZ,2OO5. Plants of Gesneriaceae in China [M]. Zhengzhou: Henan Science and Technology Publishing House:122-153.[李振宇，王印政，2005．中国苦苣苔科植物[M]．郑州： 河南科学技术出版社:122-153.]   \nLEVEILLE H, 1911. Decades plantarum novarum [J]. Repert Spec Nov Regni Veg, 9: 454.   \nLI ZY,1983. Taxa nova Hemiboea (Gesneriaceae)[J]. Acta Phytotax Sin, 21: 194-203.   \nLI ZY,1987.A study of the genus Hemiboea (Gesnericeae)[J]. Acta Phytotax Sin, 25: 220-230.[李振 宇，1987．半蒴苣苔属的研究［J]．植物分类学报，25：220-230.]   \nLI ZY, 2O04. Hemiboea subcapitata var. pterocaulis (Gesneriaceae), a new variety from Guangxi, China[J].Acta Phytotax Sin,42(3):261-262.[李振宇，2004．广西半蒴苣苔属(苦苣苔科)一新变 种——翅茎半蒴苣苔[J]．植物分类学报，42(3)：261-262.]   \nLI XQ, GUO ZY,LI Y, et al., 2019. Hemiboea guangdongensis comb.& stat. nov. a cryptic species segregated from H. subcapitata (Gesneriaceae) based on morphological and molecular data [J]. Nord JBot, 37(12): 1-9.   \nLU YB, HUANG YS, XU WB, et al., 2O17. Floral evolutionary trend of Petrocodon (Gesneriaceae) and its significance in classification [J].Guihaia,37(10):1227-1239.[卢永彬，黄俞淞，许为斌, 等,2017.石山苣苔属(苦苣苔科)花形态演化及分类学意义[J].广西植物,37(10):1227-1239.]   \nLIBRADO P，ROZAS J，2009.DnaSP v5: a software for comprehensive analysis of DNA polymorphism data [J]. Proteins,25(11): 1451-1452.   \nLEIGH JW, BRYANT D, 2O15. Popart: full-feature software for haplotype network construction [J]. Methods Ecol Evol, 6: 1110-1116.   \nLIU J,MOLLER M, PROVAN J,et al.， 2013. Geological and ecological factors drive cryptic speciation of yews in a biodiversity hotspot [J]. New Phytol, 199: 1093-1108.   \nLU L,FRITSCH PW, CRUZ BC,et al., 2010. Reticulate evolution, cryptic species,and character convergence in the core East Asian clade of Gaultheria (Ericaceae)[J]. Mol Phylogenets Evol, 57: 364-379.   \nLUEBERT F,JACOBS P, HILGER HH, et al.， 2014. Evidence for nonalopatric speciation among closely related sympatric Heliotropium species in the Atacama Desert [J]. Ecol Evol, 4(3): 266-275.   \nPAMPANINI R, SILVESTRI C,1910. Le piante vascolari raccolte dal Rev. P.C. Silvestri nel' Hu-peh durante gli anni 1904-1907 [M]. Nuovo Giorn Bot Ital, ser.17: 716.   \nPOSADA D,2008. jModelTest: phylogenetic model averaging [J]. Mol Biol Evol, 25: 1253-1256.   \nRUNDLE HD, NOSIL P, 2005. Ecological speciation [J]. Ecol Lett, 8(3): 336-352.   \nRIESEBERG LH, WILLIS JH, 20O7. Plant speciation [J]. Science,317: 910-914.   \nSWINDELL SR, PLASTERER TN, 1997. SEQMAN: Contig assembly [J]. Meth Mol B, 70: 75-89.   \nSTAMATAKIS A, 2006. RAxML-VI-HPC: maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models [J]. Bioinformatics,22(21): 2688-2690.   \nSEEHAUSEN O,2O04. Hybridization and adaptive radiation [J]. Trend Ecol Evolut,19: 198-207.   \nTAYLOR JW, JACOBSON DJ， KROKEN S, et al.， 2000. Phylogenetic species recognition and species concepts in fungi [J]. Fungal Genet Biol, 31(1): 1-32.   \nTING CT,TSAUR SC,WU CL,2OO0. The phylogeny of closely related species as revealed by the genealogy of a speciation gene, Odysseus[J]. Proc Natl Acad Sci USA, 97(10): 5313-5316.   \nWANG WT, PAN KY,LI ZY, et al.,1998. Gesneriaceae [M]//WU ZY,RAVEN PH. Flora of China. Beijing: Science Press; St. Louis; Missouri Botanical Garden Press,18: 298.   \nWEI YG, WEN F, MOLLER M, et al.,2010. Gesneriaceae of South China [M]. Nanning: Guangxi Science and Technology Press:180-197.[韦毅刚，温放，MICHAEL MOLLER 等，2010．华南 苦苣苔科植物[M]．南宁：广西科学技术出社：180-197.]   \nWANG WT,1990.Flora Reipublicae Popularis Sinicae [M]. Beijing: Science Press,69: 279-282.[王 文采，1990．中国植物志：苦苣苔科[M]．北京：科学出版社，69：279-282.]   \nWANG YZ, MAO RB,LIU Y,et al.， 2011. Phylogenetic reconstruction of Chirita and allies (Gesneriaceae) with taxonomic treatments [J]. J Syst Evol, 49(1): 50-64.   \nWEBER A, MIDDLETON DJ,FORREST A, et al., 2011a. Molecular systematics and remodelling of Chirita and associated genera (Gesneriaceae) [J]. Taxon, 6O(3): 767-790.   \nWEBER A，WEI YG， SONTAG S，et al.，2011b. Inclusion of Metabriggsia into Hemiboea (Gesneriaceae) [J].Phytotaxa, 23(1): 37-48.   \nYU SX, XU WB, WU JY,et al., 2O17. Spermatophytae of karst area in Guangxi, Yunnan and Guizhou —achecklist [M].Beijing:China Environmental Science Press.[于胜祥，许为斌，武建勇，等， 2017．滇黔桂喀斯特地区种子植物名录[M]．北京：中国环境出版社.]   \nYU WB,RANDLE CP,LUL, et al.,2018. The hemiparasitic plant Phtheirospermum (Orobanchaceae) is polyphyletic and contains cryptic species in the Hengduan Mountains of Southwest China [J]. Front Plant Sci, 9: 142.   \nZHANG Y,LI S, 2O14. A spider species complex revealed high cryptic diversity in South China caves [J].Mol Phylogenet Evol, 79: 353-358. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    }
+]

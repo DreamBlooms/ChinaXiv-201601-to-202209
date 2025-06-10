@@ -1,0 +1,124 @@
+# 台湾早熟蜜桃优良芽变新种质‘五月红’ 的鉴定
+
+潘介春」，龙蔷宇¹，丁峰2\*，徐石兰1，黄幸1，黄思婕1，杨亚涵1，李峰1，张树伟²（1.广西大学农学院，南宁530004；2.广西壮族自治区农业科学院园艺研究所，
+
+南宁 530007)
+
+摘要：桃是我国重要的果树种类，分布十分广泛，在水果生产中排第四位，然而适合南方栽培的品种稀少。通过资源调查在广西大学标本园内的一棵台湾早熟蜜桃大枝上发现一个芽变新种质，命名为‘五月红’，进一步对其主要生物学特性、植物学性状以及果实经济性状等进行观测分析，同时通过 SRAP分子标记检测与母株台湾早熟蜜桃的差异性。结果表明：‘五月红’芽变新种质成熟期比台湾早熟蜜桃提前20天左右，5月上中旬成熟，果变大，核变小，可食率提高，并且颜色均匀，可溶性固形物含量显著提高，保持了台湾早熟蜜桃需冷量低、品质优良和风味极佳的优点，属于特早熟优质种质资源；通过琼脂糖电泳检测 SRAP扩增组合引物 me9/em5 在‘五月红’DNA 样品中能够扩增到1200 bp 大小的特异性条带，表明‘五月红’在DNA遗传水平上与母株台湾早熟蜜桃发生了变异，属于新的特早熟种质资源。‘五月红’芽变新种质的发现将为适合南方栽培的特早熟桃品种的选育提供重要材料，有助于优化不同熟期品种的栽培结构，进而促进南方桃种植产业经济效益的提高。
+
+关键词：桃，芽变，早熟，种质资源，育种中图分类号： 文献标识码： 文章编号：
+
+# Identification of a new bud sport germplasm‘May Red' from Taiwan precocious peach
+
+PAN Jiechun], LONG Qiangyu1,DING Feng2\*, XU Shilan1, HUANG Xing1, HUANG Sijiel, YANG Yahanl,LI Feng1, ZHANG Shuwei²
+
+(1. Agricultural College of Guangxi University, Nanning 53oo04, China; 2. Horticultural Research Institute, Guangxi Academy of Agricultural Sciences, Nanning 53oo07, China)
+
+Abstract: Peach is an important fruit tree species in China, which is widely distributed and ranks fourth in fruit production. However, there are few varieties suitable for southern cultivation. Through resource surveys in specimen garden of Guangxi University, a new bud sport germplasm was found on a branch of Taiwan precocious peach tree, named‘May Red'. Its main biological characteristics,botanical traits,fruit economic traits and so on were observed and analyzed.At the same time, SRAP molecular markers were used to detect the difference between ‘May Red’ and Taiwan precocious peach. The results showed that the maturity of‘May Red' was about 20 days earlier than that of Taiwan precocious peach, matured in mid-May with large fruit, smaller nucleus and higher edible rate.Moreover,the color is uniform,the soluble solids content is significantly - increased, and it maintains the advantages of low cold requirement, excellent quality and excellnt flavor of Taiwan precocious peach. It belongs to especially early maturing and high quality germplasm resources.The specific bands of 1 200 bp in ‘May Red' DNA samples were amplified by SRAP primers me9/em5 by agarose electrophoresis，which indicated that ‘May Red’ are mutated at the DNA genetic level and belongs to a new especially early maturing germplasm resource. The discovery of 'May red' will provide important materials for the breeding of especially early maturing peach varieties. It will help to optimize the cultivation structure of different mature varieties and promote the economic benefit of southern peach planting industry.
+
+Key words: peach, bud sport, early maturity, germplasm resources, breeding
+
+桃（Amygdalus persicaL.）属于蔷薇科(Rasaceae)桃属(Prunus)，起源于我国的最古老果树之一，栽培历史悠久，分布十分广泛，是我国重要的果树种类，在水果生产中排第四位。目前全世界现共有品种 5000余个，我国约有1000个品种（陈临等，2007）。我国桃主要经济栽培地区在中田华北、华东各省，较为集中的地区有北京、山东、河南、河北、陕西、甘肃、四川、辽宁等。南方也有少量地区种植，例如台湾、广西、广东、浙江、江苏等地区。但随着我国桃产业的快速发展，南方产区在桃品种栽培结构优化上起着关键的作用，特别是在早、中熟品种生产上，逐渐成为实施桃发展的重点区域，然而也面临着诸多问题：一是，南方桃产区在我国桃市场中不占优势，而且南方桃一般果个较小，品质较差，肉质软，只能就近销售，而特早熟品种所占比例甚小；二是桃采后保鲜困难，桃成熟上市期大量集中在6-7月，常造成价格低廉，严重制约着南方桃产业经济效益的提高。造成以上问题的一个主要原因在于目前缺乏适合南方生产的特早熟优质桃品种。
+
+我国南方桃产区由于需冷量的限制，更适合发展早、中熟品种。因此，我们应该利用自身自然环境优势，培育更早熟的品种，来延长鲜果供应期，抢占早熟市场，可以有效调节南方桃的产期，提高桃的生产效益。前期课题组通过资源调查，在一棵台湾早熟蜜桃上发现一个芽变突变体，命名为‘五月红’。台湾早熟蜜桃本身就具有适应性广、速生、丰产、早熟等优点，果实观色艳丽，品质极优，果实硬熟时肉质细脆清甜爽，无酸味，果实完全成熟后肉质变软汁液增多，味香气浓郁，是一种高产、优质、高效又适宜在南方地区推广栽培的优良鲜食水蜜桃品种（黄德发和韩少燕，2002）。‘五月红’保留台湾早熟蜜桃优良性状的同时，成熟期提早20天左右，5月上中旬成熟，属特早熟优质种质资源。‘五月红’的发现将为特早熟桃品种的选育提供重要材料，对今后桃品种结构的优化，提早桃的上市时间，有效的延长鲜桃产品的供应期有很好的帮助，进而促进桃经济效益的提高。
+
+# 1材料和方法
+
+# 1.1材料
+
+供试材料为台湾早熟蜜桃和其芽变新种质‘五月红’，样品采自广西大学农学院果树标本园（3年生嫁接苗），选取健康植株上的老熟叶片，采摘洗净放入液氮再放入 ${ \bf - } 2 0 ~ \mathrm { { ^ \circ C } }$ 冰箱中保存（注：分别采集‘五月红’和台湾早熟蜜桃不同株系的两个平行重复样品）。EXTaq DNA聚合酶、dNTP购自TIANGEN公司，DL2000 DNAMarker、植物DNA 提取试剂盒等购自上海生工生物工程技术服务有限公司，同时相关引物也由上海生工生物工程技术服务有限公司合成。
+
+# 1.2样品采集与处理
+
+试验树的果实在果实成熟期进行采集，采用完全随机采样，台湾早熟蜜桃和其芽变新种质‘五月红’各随机选择5棵涨势相当的植株进行采集，时间为2018年5月14日。在每棵果树中上部东、南、西、北四个方位选择大小均匀、色泽一致、无病虫、无损伤的健康果实进行采集，每个方位采集4个果实，共16个，用密封袋封好带回实验室处理。
+
+# 1.3方法
+
+# 1.3.1选育过程
+
+2014年在广西南宁市西乡塘区大学东路100 号广西大学标本园内的一棵台湾早熟蜜桃果树侧枝上发现一早熟优良芽变新种质资源，暂定名‘五月红’。2015年从‘五月红’突变枝条采集接穗进行嫁接进一步观察（砧木为2年生台湾早熟蜜桃），开展了该优良芽变种质资源的选育研究。‘五月红’嫁接苗于第二年开始正常开花结果，2016年至2018年连续三年对其生物学特征、植物学性状、果实的经济性状、遗传稳定性等进行观察和评价，具体指标按照《桃种质资源描述规范和数据标准》描述和评价（王力荣等，2005），同时开展分子生物学SRAP分子标记检测。
+
+# 1.3.2果实品质的测定
+
+从采集的果实样品中随机取出10个果实测定经济性状，包括果实横纵径、果核横纵径、果实可溶性固形物、果实单果重等，然后取平均值并做显著性差异性分析。具体测定方法如下：果实横纵径测定采用游标卡尺直接测量；果实可溶性固形物测定采用PAL-1数显糖度计（日本）测定；果实单果重测定用电子天平称重，取均值；果实可食率根据测定的单果重均值和果肉单果重均值计算所得。
+
+# 1.3.3‘五月红’和台湾早熟蜜桃基因组DNA的提取
+
+从冰箱中分别取出提前采集好的‘五月红’和台湾早熟蜜桃老熟叶片材料，参考桃叶片总DNA的提取方法（张南南等，2018），提取样品的总DNA，最终将DNA稀释到50$\mathrm { n g / \mu l }$ ，放入 ${ \bf - } 2 0 \ \mathrm { ~ \textdegree ~ }$ 冰箱备用。（注：分别提取‘五月红’和台湾早熟蜜桃不同株系的两个生物学重复DNA 样品）
+
+# 1.3.4 SRAP分析
+
+根据郭瑞等（2009）和史红丽等（2009）已发表的24对 SRAP引物组合进行扩增，分别为 mel/eml、me2/em2、me3/em3、me4/em4、me5/em5、mel/ em5、me3/em6、me3/em11、 me4/em10、 $\mathrm { m e 4 / e m l l }$ 、me6/em5、me6/em6、 me7/em4、 me7/em6、me7/eml0、me7/eml1、me9/em5、me9/em6、me9/em8、me9/eml1、me10/em2、me10/em5、 $\mathrm { m e l 0 / e m 7 }$ 、 $\mathrm { m e l } 0 / \mathrm { e m } 9$ ，引物序列见表2。PCR扩增反应在MasterCyclerGradi-ent 梯度 PCR仪(Eppendorf)上完成。采用 EXTaq DNA 聚合酶（TaKaRa）进行 PCR扩增，反应体系为 $2 0 ~ \mu \mathrm { L }$ ，各组分含量按照酶试剂说明书进行（注：DNA模板分别为‘五月红’和台湾早熟蜜桃不同株系的两个生物学重复DNA样品）。扩增程序为： $9 4 ~ \mathrm { ^ { \circ } C }$ 预变性$5 \mathrm { m i n }$ ；前5个循环： $9 4 ~ \mathrm { ^ { \circ } C }$ 变性 $1 \mathrm { m i n }$ ， $3 5 \ \mathrm { ^ \circ C }$ 复性 $1 \mathrm { m i n }$ ， $7 2 \ \mathrm { { ^ \circ C } }$ 延伸 $1 \mathrm { m i n }$ ；后35个循环：$9 4 ~ \mathrm { ^ { \circ } C }$ 变性 $1 \mathrm { m i n }$ ， $5 0 \ \mathrm { ^ \circ C }$ 复性 $1 \mathrm { m i n }$ ， $7 2 \ \mathrm { { ^ \circ C } }$ 延伸 $1 ~ \mathrm { m i n }$ ；循环结束后 $7 2 \ \mathrm { { ^ \circ C } }$ 延伸 $1 0 \mathrm { m i n }$ ，扩增产物用 $1 . 5 \%$ 非变性聚丙烯酰胺凝胶电泳分离检测。
+
+# 2.结果与分析
+
+# 2.1生物学特性
+
+台湾早熟蜜桃和‘五月红’在广西南宁市的花期相同，均在2月10日左右开花，两者坐果时间在3月16日左右，然而果实转色期有明显差别，‘五月红’在4月中旬左右进入转色期，而台湾早熟蜜桃转色期在4月下旬左右。‘五月红’成熟期在5月7日左右，而台湾早熟蜜桃的成熟期则在5月28日左右，两者相差20d左右。‘五月红’开花时间和台湾早熟蜜桃一样，但是果实成熟时间提早，表明造成‘五月红’果实早熟的主要原因是其果实发育的速度比台湾早熟蜜桃快。
+
+# 2.2植物学性状
+
+‘五月红’芽变植株生长势强，树姿开张。树干表面也为灰褐色，树干表面粗糙，有裂缝。一年生枝条颜色向阳面为红褐色，阴面为绿色，具有大量小皮孔。叶长椭圆披针形，长 $\times$ 宽约为 $1 4 \ \mathrm { c m } { \times } 4 \ \mathrm { c m }$ ，叶基楔形，叶片侧脉末端交叉，叶腺肾形，数量2\~3个，叶尖渐尖，叶缘钝锯齿状，叶面无毛绿色，叶被浅绿色。花单生，先于叶开花，呈蔷薇型单瓣，花瓣长圆状椭圆形至宽倒卵形，粉红色。花梗极短，萼筒钟形，被短绒毛。萼片卵形，顶端圆钝，外被短绒毛。雄蕊深粉色，花药橙黄色，花粉多。花柱比雄蕊长，子房被短柔毛。
+
+# 2.3主要果实经济性状
+
+‘五月红’果实和台湾早熟蜜桃果实的主要经济性状和生物学性状分别如表1和表 2所示。在果型、缝合线深浅、果实对称性、茸毛密度、梗洼深度、梗洼宽度、果皮底色、盖色深浅、着色程度以及着色类型上两者没有差异。同时在果皮剥离度、果肉颜色、红色素含量、裂果率、核粘离性、鲜核颜色、汁液多少、裂核率、风味、纤维含量等性状上也表现出一致性。然而，‘五月红’果实和台湾早熟蜜桃相比最明显的差异在于：一是‘五月红’的成熟期比台湾早熟蜜桃的成熟期早。在广西南宁，台湾早熟蜜桃的成熟期一般在5月下旬，而‘五月红’果实的成熟期在5月上旬，两者成熟期相差20d左右。二是‘五月红’的果实比台湾早熟蜜桃大（图1），前者单果重、纵径、横径、侧径平均值分别为$5 5 . 7 8 \mathrm { g }$ 、 $5 2 . 0 0 \mathrm { m m }$ 、 $4 6 . 9 8 ~ \mathrm { m m }$ 、 $4 7 . 9 0 \mathrm { m m }$ ，后者单果重、纵径、横径、侧径平均值分别为$4 3 . 4 3 \ \mathrm { g }$ 、 $5 0 . 0 8 ~ \mathrm { m m }$ 、 $4 3 . 9 6 \mathrm { m m }$ 、 $4 4 . 6 4 \ : \mathrm { m m }$ 。‘五月红’的平均单果重比台湾早熟蜜桃重，而且核又比台湾早熟蜜桃的核小（图2），前者鲜核重、核长、核宽、核厚平均值分别为$2 . 9 6 ~ \mathrm { g }$ 、 $2 7 . 2 4 ~ \mathrm { m m }$ 、 $1 5 . 6 9 \ \mathrm { m m }$ 、 $1 3 . 5 8 ~ \mathrm { m m }$ ，后者鲜核重、核长、核宽、核厚平均值分别为$3 . 3 3 ~ \mathrm { g }$ 、 $3 0 . 0 8 ~ \mathrm { m m }$ 、 $1 7 . 9 8 ~ \mathrm { m m }$ 、 $1 3 . 8 0 \ \mathrm { m m }$ ，因此‘五月红’果实可食率比台湾早熟蜜桃果实可食率高，达到 $9 4 . 6 9 \%$ ，而台湾早熟蜜桃的可食率只有 $9 2 . 3 3 \%$ ；三是‘五月红’的果实品质比台湾早熟蜜桃好，‘五月红’的可溶性固形物含量比台湾早熟蜜桃高，达到了$1 6 . 8 3 \%$ ，而台湾早熟蜜桃的可溶性固形物含量只有 $12 . 4 \%$ 。以上结果表明‘五月红’保持了台湾早熟蜜桃品质优良和风味极佳的优点外，果实变大，种核变小，可食率提高，且可溶性固形物含量增高香气变浓，属于特早熟优质种质资源。
+
+![](images/89c9a7f78f4c2acd0fcbeb5b18909db537445f4414da3b6eb5c7dcf2bbdbc9b0.jpg)  
+图1台湾早熟蜜桃（左）果实和‘五月红’（右）果实大小比较 1 Comparison of fruit size between Taiwan precocious peach (left) and ‘May red’ (right)
+
+![](images/ac6173de5a3bc4f0444a47b53082276e35035e71d9f05b0f7600d8c5055ad3d7.jpg)  
+图2台湾早熟蜜桃（左）和‘五月红’（右）果核大小比较 Fig. 2 Comparison of fruit core size between Taiwan precocious peach (left) and ‘May red' (right)
+
+表1‘五月红’果实和台湾早熟蜜桃果实主要经济性状比较 Table 1 Comparison of main economic characteristics of ‘May red’ and Taiwan precocious peach   
+
+<html><body><table><tr><td>品种 Cultivar</td><td>‘五月红' ‘May red'</td><td>台湾早熟蜜桃 Taiwan precocious peach</td></tr><tr><td>单果重 Single fruit weight（g)</td><td>62.66±2.85 a</td><td>42.73±0.87 b</td></tr><tr><td>纵径Longitudinal diameter（mm）</td><td>52.63±1.31 a</td><td>47.57±0.50 b</td></tr><tr><td>横径Transverse diameter（mm）</td><td>47.37±0.49 a</td><td>40.97±0.85 b</td></tr><tr><td>侧径Side diameter（mm）</td><td>47.84±1.08 a</td><td>41.58±0.64 b</td></tr><tr><td>鲜核重 Fresh kernel weight（g）</td><td>2.93±0.25 ab</td><td>3.32±0.08 ab</td></tr><tr><td>核长Nuclear length（mm）</td><td>30.12±1.32 ab</td><td>27.33±0.88 ab</td></tr><tr><td>核宽Nuclear width（mm）</td><td>17.91±0.13 a</td><td>15.69±0.14 b</td></tr><tr><td>核厚Nuclear thickness（mm）</td><td>13.80±0.01 a</td><td>13.58±0.04 b</td></tr><tr><td>核尖长 Nuclear tip length（mm）</td><td>4.93±1.07 ab</td><td>4.30±0.49ab</td></tr><tr><td>可溶性固形物含量 Soluble solids content（%）</td><td>15.18±1.09 a</td><td>12.40±0.25 b</td></tr><tr><td>可食率 Edible rate（%)</td><td>94.69</td><td>92.33</td></tr></table></body></html>
+
+表2‘五月红’果实和台湾早熟蜜桃果实主要生物学性状比较  
+Table 2 Comparison of main biological characteristics of‘May red’ and Taiwan precocious peach   
+
+<html><body><table><tr><td>果实主要生物性状 Main biological characteristics</td><td>‘五月红' ‘May red'</td><td>台湾早熟蜜桃 Taiwan precocious peach</td></tr><tr><td>成熟期 maturation period</td><td>5月上旬Early May</td><td>5月下旬Late May</td></tr><tr><td>果形 Fruit shape</td><td>卵圆Ovoid in shape</td><td>卵圆 Ovoid in shape</td></tr><tr><td>果顶形状 Fruit top shape</td><td>圆凸Circular convex</td><td>圆凸 Circular convex</td></tr><tr><td>缝合线深浅 Suture depth</td><td>深Deep</td><td>深Deep</td></tr><tr><td>果实对称性 Fruit symmetry</td><td>不对称 Asymmetric</td><td>不对称 Asymmetric</td></tr><tr><td>茸毛Fuzz</td><td>有Existent</td><td>有Existent</td></tr><tr><td>茸毛密度 density of pubescent</td><td>密Close</td><td>密Close</td></tr><tr><td>梗洼深度 Stalk cavity depth</td><td>深 Deep</td><td>深Deep</td></tr><tr><td>梗洼宽度 Stalk cavity width</td><td>狭 Angusty</td><td>狭 Angusty</td></tr><tr><td>果皮底色 Pericarp background color</td><td>绿 Green</td><td>绿Green</td></tr><tr><td>盖色深浅 Shade depth</td><td>深红Cardinal</td><td>深红 Cardinal</td></tr><tr><td>着色程度 Coloring degree</td><td>多Multi</td><td>多Multi</td></tr><tr><td>着色类型Coloring type</td><td>晕Areolar</td><td>晕 Areolar</td></tr><tr><td>成熟度一致性 Maturity consistency</td><td>不一致 Inconsistent</td><td>不一致Inconsistent</td></tr><tr><td>果皮剥离度 Peel peeling degree</td><td>难Difficult</td><td>难Difficult</td></tr><tr><td>果肉颜色Flesh color</td><td>红Red</td><td></td></tr><tr><td></td><td></td><td>红Red</td></tr><tr><td>红色素 Red pigment</td><td>多Multi</td><td>多Multi</td></tr></table></body></html>
+
+<html><body><table><tr><td>近核处红色素 Near nucleus red pigment</td><td>无 Nary</td><td>无Nary</td></tr><tr><td>裂果率Dehiscence rate</td><td>0</td><td>0</td></tr><tr><td>核粘离性 Nuclear viscosityc</td><td>粘 Accretive</td><td>粘 Accretive</td></tr><tr><td>鲜核颜色Fresh core color</td><td>浅棕Light brown</td><td>棕 Light brown</td></tr><tr><td>核形Nuclear character</td><td>椭圆 Elliptic</td><td>椭圆Elliptic</td></tr><tr><td>核面光滑度 Nuclear surface smoothness</td><td>较粗糙Rougher</td><td>较粗糙Rougher</td></tr><tr><td>核纹 Nuclear stripec</td><td>少Less</td><td>中 Medium</td></tr><tr><td>裂核率 Cleavage nucleusc rate</td><td>0</td><td>0</td></tr><tr><td>肉质 Sarcocarp</td><td>软溶质 Soft solute</td><td>软溶质 Soft solute</td></tr><tr><td>风味 Special flavour</td><td>甜Melliferous</td><td>甜 Melliferous</td></tr><tr><td>汁液多少Juice content</td><td>中 Medium</td><td>中 Medium</td></tr><tr><td>纤维含量 Fiber content</td><td>中 Medium</td><td>中 Medium</td></tr><tr><td>香气 Aroma</td><td>浓 Rortis</td><td>中 Medium</td></tr></table></body></html>
+
+# 2.4SRAP分子标记鉴定
+
+参考从桃子中筛选出的24对SRAP引物进行PCR扩增，发现引物me9/em5能够区分台湾早熟蜜桃和其芽变种质资源‘五月红’。从图3中可以看出，两个生物学重复‘五月红’样品在1200bp 处都有一特异条带，而两个生物学重复台湾早熟蜜桃样品没有。以上结果表明，‘五月红’在DNA水平上发生了突变，是一个新的特早熟优良种质资源。
+
+表2SRAP引物碱基序列  
+Table 2 SRAP primer sequences   
+
+<html><body><table><tr><td>引物名称</td><td>引物序列</td></tr><tr><td>Primer name</td><td>Primer sequence</td></tr><tr><td>me1</td><td>5'-TGAGTCCAAACCGGATA-3'</td></tr><tr><td>me2</td><td>5'-TGAGTCCAAACCGGAGC-3'</td></tr><tr><td>me3</td><td>5'-TGAGTCCAAACCGGAAT-3'</td></tr><tr><td>me4</td><td>5'-TGAGTCCAAACCGGACC-3'</td></tr><tr><td>me5</td><td>5'-TGAGTCCAAACCGGAAG-3'</td></tr><tr><td>me6</td><td>5'-TGAGTCCAAACCGGTAA-3'</td></tr><tr><td>me7</td><td>5'-TGAGTCCAAACCGGTCC-3'</td></tr><tr><td>me9</td><td>5'-TGAGTCCAAACCGGTAG-3'</td></tr><tr><td>me10</td><td>5'-TGAGTCCAAACCGGTCT-3'</td></tr><tr><td>em1</td><td>5'-GACTGCGTACGAATTAAT-3'</td></tr><tr><td>em2</td><td>5'-GACTGCGTACGAATTTGC-3'</td></tr><tr><td>em3</td><td>5'-GACTGCGTACGAATTGAC-3'</td></tr><tr><td>em4</td><td>5'-TGAGTCCAAACCGGAGA-3'</td></tr><tr><td>em5</td><td>5'-GACTGCGTACGAATTAAC-3'</td></tr><tr><td>em6</td><td>5'-GACTGCGTACGAATTGCA-3'</td></tr><tr><td>em7</td><td>5'-GACTGCGTACGAATTCAA-3'</td></tr><tr><td>em8</td><td>5'-GACTGCGTACGAATTCTG-3'</td></tr><tr><td>em9</td><td>5'-GACTGCGTACGAATTCGA-3'</td></tr><tr><td>em10</td><td>5'-GACTGCGTACGAATTCAG-3'</td></tr><tr><td>em11</td><td>5'-GACTGCGTACGAATTCCA-3'</td></tr></table></body></html>
+
+![](images/33999b27ad645ce72ad4df90d49e6f53d9e1b0066a01f54fee2d8a4611863920.jpg)
+
+注：M为DL2000 DNA Marker；1,2.台湾早熟蜜桃两个生物学重复DNA样品;
+
+3,4.‘五月红’两个生物学重复DNA样品。
+
+Note: M is DL2000 DNA Marker; 1, 2. Two biological duplicates DNA samples of Taiwan precocious peach;3, 4. Two biological duplicates DNA samples of‘May red'.
+
+图3‘五月红’和台湾早熟蜜桃 SRAP(me9/em5)分子标记鉴定。 Fig. 3 Identification of ‘May red' and Taiwan precocious peach by SRAP molecular marker (me9/em5).
+
+# 3.结论与讨论
+
+我国是桃的主要生产国，已成为农民脱贫致富奔小康的重要经济来源，然而在生产中早、中、晚熟品种结构不合理，中熟品种较多，特早熟和特晚熟品种较少，大多集中在6-7月成熟，又因为桃采后不易贮藏，导致上市期过于集中，常造成价格偏低，果农损失严重，丰产年而不丰收。因此选育特早和特晚熟优质桃品种，拉长鲜果供应期成为解决产期过于集中的一个重要途径。
+
+芽变是园艺类植物品种选育的一个重要途径，通常指芽的分生组织细胞自然发生的遗传物质的突变，进而导致植物遗传性状的改变，包括抗逆性、植物学性状、经济学性状等各个方面，其中经济学性状包括果实形状、大小、香气、颜色、营养成分、甜度、可食率、种子大小等。前期通过田间考察发现了台湾早熟蜜桃芽变突变体‘五月红’，后期对其生物学特性、植物学性状以及主要果实经济性状的观察，发现其保留了台湾早熟蜜桃丰产、速生、果实艳丽、果肉香甜等优点外，也存在显著有益的突变，成熟期进一步提前、果实变大、种核变小、可溶性固形物含量增高、果实香气变浓等主要经济性状的变化。为进一步证明‘五月红’在DNA遗传物质上发生了突变，我们通过 SRAP分子标记对‘五月红’和台湾早熟蜜桃进行遗传多样性鉴定，发现两者存在差异。以上结果表明‘五月红是一个新的特早熟优良种质资源。
+
+物候期观察发现‘五月红’和台湾早熟蜜桃花期和坐果期相同，最终因转色期的不同造成两者成熟期存在显著差异。绝大多数桃品种果实成熟时的一个主要标志是果皮着色而呈现鲜艳的红色，桃果皮转色是一个花色素苷合成积累的过程，最终果皮呈现出鲜艳的红色。现研究表明花色素苷的生物合成是通过类黄酮代谢途径完成的，参与的结构基因主要有：花色素合成酶（anthocyanidin synthase，ANS）、类黄酮糖基转移酶（UDP-glucose：flavonoid 3-O-glucosyltransferase，UFGT）、黄烷酮 3-羟化酶（flavanone 3-hydroxylase，F3H）、查尔酮异构酶（chalcone isomerase，CHI）、查尔酮合成酶（chalcone synthase，CHS）等（Winkel-shirley,2001；Springob etal,2003）。最近研究表明，主要有MYB、bHLH（basic helix-loop-helix）以及WD40蛋白三大类转录因子相互作用形成复合体 MBW（MYB-bHLH-WD40）通过调控以上结构基因的表达进而调控花色素苷的生物合成（Zimmermann etal,2004；Xu et al,2015）。‘五月红’转色期提前可能是花色素苷合成基因或其它调控转录因子如MYB等发生突变造成。‘五月红’果实变大而可溶性固形物增高是另一显著突变性状。果实变大可能是由于在果实发育膨大期细胞分裂速度和细胞体积增大速度比台湾早熟蜜桃快造成的。可溶性固形物主要是指可溶性的糖类，包括单糖、双糖以及多糖等，‘五月红’果实变大而可溶性固形物增高可能是由于一些糖代谢路径相关基因发生突变导致可溶性糖类合成加速或代谢、转运受阻造成。今后将基于高通量测序的生物信息学分析手段以及分子生物学技术从分子水平上研究‘五月红’主要果实经济性状发生突变的机理。
+
+‘五月红’成花需冷量少且早熟，其平均单果重明显大于台湾早熟蜜桃，成熟期比台湾早熟蜜桃提早20天左右，果实品质也明显优于台湾早熟蜜桃。受需冷量的限制，我国桃的主要产区不在南方，然而可以利用南方地理环境和气候的优势，发展需冷量低的特早熟品种，是桃栽培结构优化的一个重要途径。目前适合南方栽培需低冷量的优良品种稀少，‘五月红’的发现为我国南方特早熟桃的发展提供了重要的育种材料。
+
+# 参考文献
+
+CHEN L, CHEN MJ, SONG LJ, et al, 2007. Advances in genetic linkage map of peach and its application in molecular assisted breeding[C]. Establishment of Peach Branch of Chinese Horticulture Society and academic Seminar.［陈临，陈妙金，宋丽娟，等，2007.桃遗传连 锁图谱研究进展及其在分子辅助育种中应用展望[C].中国园艺学会桃分会成立大会暨学 术讨论会论文集.]   
+GUO R,LI XY,WANG LR, et al, 2009.Peach SRAP system optimization and SSR peach varieties in the comparative identification[J].Acta Agric Boreal-Sin, 24(4): 102-105.[郭瑞, 李晓燕，王力荣，等，2009.桃 SRAP 体系的优化及与 SSR 在桃品种鉴定上的比较［J].华 北农学报，24（4)：102-105.]   
+HUANG DF, HAN SY, 2002. Cultivation techniques of early ripening and high quality Taiwan Precocious Peach[J].SE Hortic,119:51-52．[黄德发，韩少燕，2002.台湾早熟优质水蜜桃 栽培技术［J].福建果树，119：51-52.]   
+SHI HL,HAN MY, ZHAO CP,2009. Genetic diversity analysis of Prunus persica using SRAP and SSR markers[J].Acta Agric Boreal-Sin,24(6): 187-192.[史红丽，韩明玉，赵彩平, 2009.桃遗传多样性的 SRAP 和 SSR 标记分析［J].华北农学报，24（6)：187-192.]   
+SPRINGOB K, NAKAJIMA J, YAMAZAKI M, et al, 2003. Recent advances in the biosynthesis and accumulation of anthocyanins[J]. Nat Prod Rep,20(3): 288-303.   
+WANG LR, ZHU GR,FANG WC, et al, 2005. Specification and data standard for description of peach germplasm resources[M].Beijing: China Agricultural Publishing House.[王力荣，朱更 瑞，方伟超，等，2005.桃种质资源描述规范和数据标准[M].北京：中国农业出版社.]   
+WINKEL-SHIRLEY B,2001.Flavonoid biosynthesis.A colorful model for genetics, biochemistry, cell biology, and biotechnology[J]. Plant Physiol, 126(2): 485-493.   
+XU W, DUBOS C,LEPINIEC L,2015. Transcriptional control of flavonoid biosynthesis by MYB-bHLH-WDR complexes[J]. Trends Plant Sci, 20(3):176-185.   
+ZHANG NN, NIU L,CUI GC, et al, 2018. Establishment and application of a high-throughout protocol for peach (Prunus persica) DNA extraction[J]. Sci Agric Sin, 51(13): 2614-2621. [张 南南，牛良，崔国朝，等，2018.一种高通量提取桃 DNA方法的建立与应用［J].中国农业 科学，51（13)：2614-2621.]   
+ZIMMERMANN IM, HEIM MA, WEISSHAAR B,et al, 2004. Comprehensive identification of Arabidopsis thaliana MYB transcription factors interacting with R/B-like BHLH proteins[J]. Plant J, 40(1):22-34.

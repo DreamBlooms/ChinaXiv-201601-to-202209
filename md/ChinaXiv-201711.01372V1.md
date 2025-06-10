@@ -1,0 +1,206 @@
+# 应激和饲粮能量水平对肉仔鸡肝脏脂肪合成能力的影响
+
+蔡元丽」林海 2\*
+
+（1.齐鲁师范学院生命科学学院，济南 250013;2.山东农业大学动物科技学院，泰安 271018）
+
+摘要：本研究旨在探讨应激和饲粮能量水平对肉仔鸡肝脏脂肪酸合成酶（fatty acidsynthase,FAS）活性以及腺苷一磷酸激活的蛋白激酶（AMP-activated protein kinase，AMPK)和固醇调节元件结合蛋白-1（sterol-regulatory element binding proteins-1,SREBP-1）基因mRNA 表达量的影响，从而阐明应激造成肉仔鸡脂肪肝的原因，并寻找缓解应激的方法。本研究共有4个试验。前2个试验分别针对3\~9 日龄和 28\~34 日龄的肉仔鸡，分别给予皮质酮和高、低能量水平饲粮的处理，试验结束后取肝脏，测定FAS 活性。第3个试验选取7日龄体重相近的爱拔益加雄性肉鸡108只，随机分为3组：应激组（注射地塞米松）、对照组（注射生理盐水）和配对组（注射生理盐水，采食量与应激组前1d的相同)。连续注射7d。14日龄取肝脏，测定肝脏中甘油三酯的含量以及AMPK 和 SREBP-1mRNA 的表达量。最后1个试验给予3\~9日龄肉仔鸡皮质酮和葡萄糖饮水处理，试验结束测定肝脏FAS 活性。结果发现：1)皮质酮处理极显著提高了3\~9日龄肉仔鸡肝脏FAS 的活性( $( P { < } 0 . 0 1 )$ ，对28\~34日龄肉仔鸡的影响也有相似的趋势 （ $\scriptstyle P = 0 . 0 5 1 \ 2 ) \circ \ 2$ ）与配对组相比，地塞米松处理显著增加了肝脏中甘油三酯的含量( $( P { < } 0 . 0 5 )$ ，显著提高了肝脏中AMPKmRNA的表达量( $_ { . P < 0 . 0 5 ) }$ ·且地塞米松处理使得肝脏中 SREBP-1mRNA的表达量显著高于对照组和配对组（ $_ { . } { \cal P } { < } 0 . 0 5 )$ 。3）给应激组的肉仔鸡饮水中添加葡萄糖能显著降低肝脏FAS 活性（ $P { < } 0 . 0 5 \$ )。结果表明：皮质酮处理会提高肉仔鸡肝脏FAS的活性,地塞米松处理则可显著提高肝脏 SREBP-1mRNA的表达量，且能激活AMPK，而葡萄糖具有缓解应激的作用。
+
+关键词：肉仔鸡；应激；脂肪沉积；FAS；AMPK；SREBP-1  
+中图分类号：S831
+
+在目前集约化的饲养方式下，肉鸡面临各种应激，如高温、拥挤、免疫接种、运输等，这导致肉鸡生产性能下降、抗病力下降、繁殖性能降低及肉品质变差。有许多应激源用于研究动物的应激反应，包括外源性促肾上腺皮质激素直接处理导致的肾上腺分泌的调节，也包括外源性类固醇激素（皮质酮、可的松、皮质醇和地塞米松）的处理。除此之外，各种环境条件包括冷、热应激也可用于研究应激反应。
+
+外源性糖皮质激素能促进大鼠肠系膜区的脂肪沉积[Il，这样能量储存就以朝着向内部沉积的方式进行重新分配[2-3]。皮质酮处理的肉仔鸡骨骼肌生长受阻，而脂肪沉积增加，这表明应激能使能量储存朝着有利于肉仔鸡脂肪沉积的方向发生重新分配[4-6]。笔者以前的试验也表明，地塞米松处理的肉仔鸡肝脏和脂肪组织的脂肪沉积增加[]。而在小鼠上的研究证实，采食高碳水化合物和高能量水平饲粮不仅能促进机体对能量的摄入，而且还能够提高肝脏甘油三酯的含量[8]。以上的研究表明，应激和高能量水平饲粮都能促进体内脂肪的沉积，但并没有阐述具体的机制。因此，本试验分别用皮质酮、地塞米松、高或低能量水平饲粮来处理肉仔鸡，并从肝脏脂肪酸合成酶（fatty acid synthase,FAS）活性以及腺苷一磷酸激活的蛋白激酶（AMP-activated protein kinase，AMPK）和固醇调节元件结合蛋白-1（sterol-regulatoryelement bindingproteins-1,SREBP-1）基因 mRNA表达量这些指标进行分析，旨在探讨应激和高能量水平饲粮引起肉仔鸡脂肪沉积的原因，最后通过在饮水中添加葡萄糖来探讨葡萄糖是否具有缓解应激的作用。
+
+# 1材料与方法
+
+# 1.1 试验设计
+
+1.1.1试验1：饲粮能量水平和皮质酮处理对3\~9日龄肉仔鸡肝脏FAS 活性的影响
+
+选择体重相近的1日龄爱拔益加（AA）肉仔公鸡144只，分为正常组和应激组，各组下设2个饲粮处理（高能饲粮和低能饲粮)，每个处理3个重复，每个重复12只鸡，共12栏。肉鸡 $3 { \sim } 9$ 日龄，应激组在饲粮中添加 $3 0 \mathrm { m g / k g }$ 皮质酮（购自 Sigma公司，皮质酮含量$292 \%$ ，下同)。试验期间自由采食和饮水。鸡舍内温度、湿度、光照和卫生学指标符合《实验动物环境及设施》（GB14925—1994)。试验前2d饲喂商品饲粮，其中粗蛋白质为 $21 . 5 \%$ 、代谢能为 $1 2 . 6 \mathrm { M J / k g }$ 。试验1试验饲粮组成及营养水平见表1，其中除能量外饲粮营养水平及维生素、微量元素均满足NRC（1994）推荐肉鸡营养标准。
+
+样品采集：于肉鸡10日龄08：00，每个重复各取4只鸡，称重后屠宰取肝脏，用液氮速冻后于冰箱内冷冻保存。
+
+表1试验1试验饲粮组成及营养水平(风干基础)  
+Table 1Composition and nutrient levels of experimental diets in the $1 ^ { \mathrm { s t } }$ experiment（air-dry basis） $\%$   
+
+<html><body><table><tr><td>项目Items</td><td>低能饲粮Low energy diet</td><td>高能饲粮 High energy diet</td></tr><tr><td>原料Ingredients</td><td></td><td></td></tr><tr><td>玉米Corn</td><td>43.70</td><td>49.39</td></tr><tr><td>麸皮Wheat bran</td><td>15.00</td><td></td></tr><tr><td>豆油 Soybean oil</td><td>2.00</td><td>12.80</td></tr><tr><td>豆粕 Soybean meal</td><td>27.31</td><td>31.61</td></tr><tr><td>鱼粉 Fish meal</td><td>3.00</td><td>3.00</td></tr><tr><td>食盐 NaCl</td><td>0.21</td><td>0.21</td></tr><tr><td>麦饭石Medical stone</td><td>6.08</td><td></td></tr><tr><td>石粉 Limestone</td><td>1.35</td><td>1.50</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>0.70</td><td>0.85</td></tr></table></body></html>
+
+<html><body><table><tr><td>氯化胆碱 Choline chloride</td><td>0.26</td><td>0.26</td></tr><tr><td>L-赖氨酸 L-Lys</td><td>0.03</td><td></td></tr><tr><td>蛋氨酸 Met</td><td>0.14</td><td>0.16</td></tr><tr><td>维生素预混料 Vitamin premixl)</td><td>0.02</td><td>0.02</td></tr><tr><td>微量元素预混料 Trace mineral premix1)</td><td>0.20</td><td>0.20</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td></tr><tr><td>代谢能ME/(MJ/kg)</td><td>10.96</td><td>15.16</td></tr><tr><td>粗蛋白质 CP</td><td>20.00</td><td>20.00</td></tr><tr><td>钙Ca</td><td>1.00</td><td>0.90</td></tr><tr><td>有效磷 AP</td><td>0.35</td><td>0.35</td></tr><tr><td>食盐 NaCl</td><td>0.30</td><td>0.30</td></tr><tr><td>可消化赖氨酸Digestible Lys</td><td>0.95</td><td>0.97</td></tr><tr><td>可消化蛋氨酸Digestible Met</td><td>0.43</td><td>0.42</td></tr><tr><td>可消化蛋氨酸+可消化半胱氨酸 Digestible</td><td></td><td></td></tr><tr><td>Met+digestible Cys</td><td>0.68</td><td>0.68</td></tr></table></body></html>
+
+1 预混料为每千克饲粮提供 The premix provided the following per $\mathrm { k g }$ of diets: VA 8 000 IU, $\mathrm { V B } _ { 1 } 4 \mathrm { m g }$ $\mathrm { V B } _ { 2 } 3 . 6 \mathrm { ~ m g }$ ， $\mathrm { V B } _ { 5 } 4 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 4 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 2 \ : \mathrm { m g }$ ， $\mathrm { V D } _ { 3 } 3 0 0 0 \mathrm { I U }$ ，VE 20 IU，VK32 mg，生物素 biotin 0.15 mg，叶酸folic acid $1 . 0 \mathrm { m g }$ $D$ -泛酸 $D$ -pantothenic acid $1 1 ~ \mathrm { m g }$ ，烟酸nicotinic acid $1 0 \mathrm { m g }$ ，抗氧化剂antioxidant $1 0 0 \mathrm { m g }$ ， $\mathtt { C u }$ (as copper sulfate) $1 0 \mathrm { m g }$ ，Fe (as ferrous sulfate) $8 0 ~ \mathrm { m g }$ ，Mn (as manganese sulfate) $8 0 ~ \mathrm { m g }$ ，Zn (as zinc sulfate) $7 5 ~ \mathrm { m g }$ ， I (as potassium iodide) $0 . 4 0 \mathrm { m g }$ ，Se (as sodium selenite) $0 . 3 0 \mathrm { m g }$ 。表2同 The same as Table   
+2。   
+2’代谢能为计算值，其余为实测值。ME was a calculated value,while the others were measured values. 表2 同。The same as Table 2.
+
+1.1.2试验2：饲粮能量水平和皮质酮处理对28\~34日龄肉仔鸡肝脏FAS 活性的影响
+
+选择体重相近的1日龄AA肉仔公鸡144只，分为正常组和应激组，各组下设2个饲粮处理（高能饲粮和低能饲粮)，每个处理3个重复，每个重复12只鸡，共12栏。试验期为$2 8 { \sim } 3 4$ 日龄。试鸡 $_ { 1 \sim 2 1 }$ 日龄和 $2 2 { \sim } 2 7$ 日龄分别饲喂商品饲粮（粗蛋白质分别为 $21 . 5 \%$ 和$2 0 . 0 \%$ ，代谢能分别为12.6和 $1 2 . 8 \mathrm { M J / k g } \rangle$ 。试验鸡 $2 8 { \sim } 3 4$ 日龄饲喂试验2试验饲粮，其中，应激组在饲粮中添加 $3 0 \mathrm { m g / k g }$ 皮质酮。试验期间自由采食和饮水。鸡舍内温度、湿度、光照和卫生学指标符合《实验动物环境及设施》（GB14925—1994)。试验2试验饲粮组成及营养水平见表2，其中除能量外饲粮营养水平及维生素、微量元素均满足NRC（1994）推荐肉鸡营养标准。
+
+样品采集：于肉鸡35日龄08：00，每个重复各取4只鸡，称重后屠宰取肝脏，用液氮速冻后于冰箱内冷冻保存。
+
+Table 2Composition and nutrient levels of experimental diets in the $2 ^ { \mathrm { n d } }$ experiment（air-dry basis） %   
+
+<html><body><table><tr><td>项目Items</td><td>低能饲粮Low energy diet</td><td>高能饲粮 High energy diet</td></tr><tr><td>原料 Ingredients</td><td></td><td></td></tr><tr><td>玉米 Corn</td><td>46.73</td><td>50.27</td></tr><tr><td>麸皮 Wheat bran</td><td>15.00</td><td></td></tr><tr><td>豆油 Soybean oil</td><td>2.00</td><td>12.88</td></tr><tr><td>豆粕 Soybean meal</td><td>27.31</td><td>33.30</td></tr><tr><td>食盐 NaCl</td><td>0.21</td><td>0.31</td></tr><tr><td>麦饭石 Medical stone</td><td>6.08</td><td></td></tr><tr><td>石粉 Limestone</td><td>1.35</td><td>1.39</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>0.70</td><td>1.44</td></tr><tr><td>氯化胆碱 Choline chloride</td><td>0.26</td><td>0.06</td></tr><tr><td>蛋氨酸Met</td><td>0.14</td><td>0.13</td></tr><tr><td>维生素预混料 Vitamin premix</td><td>0.02</td><td>0.02</td></tr><tr><td>微量元素预混料 Trace mineral premix</td><td>0.20</td><td>0.20</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels</td><td></td><td></td></tr><tr><td>代谢能ME/(MJ/kg)</td><td>11.76</td><td>15.12</td></tr><tr><td>粗蛋白质 CP</td><td>19.33</td><td>19.00</td></tr><tr><td>钙Ca</td><td>0.95</td><td>0.90</td></tr><tr><td>有效磷 AP</td><td>0.41</td><td>0.41</td></tr><tr><td>食盐 NaCl</td><td>0.30</td><td>0.30</td></tr><tr><td>可消化赖氨酸 Digestible Lys</td><td>0.88</td><td>0.91</td></tr><tr><td>可消化蛋氨酸 Digestible Met</td><td>0.36</td><td>0.36</td></tr><tr><td>可消化蛋氨酸十可消化半胱氨酸</td><td>0.62</td><td>0.62</td></tr><tr><td colspan="3">Digestible Met+digestible Cys</td></tr></table></body></html>
+
+1.1.3试验3：地塞米松处理对肉仔鸡肝脏AMPK和SREBP-1mRNA表达量的影响
+
+选取1日龄体重相近的AA肉仔公鸡108只，随机分为3组(应激组、对照组和配对组)，每组3个重复，每个重复12只鸡，自由采食和饮水至7日龄08：00开始试验。应激组每天08：00 腹部皮下注射地塞米松( $\mathrm { { ( 1 m g / m L ) } }$ ，剂量为 $2 . 0 \mathrm { m g / k g \ B W }$ ，自由采食和饮水；对照组注射与应激组相同体积的生理盐水，自由采食和饮水；配对组注射与应激组相同体积的生理盐水，同时按照应激组前1d的采食量饲喂。连续注射 $\mathrm { ~ 7 ~ d ~ } .$ 。每天称重并统计采食量。
+
+样品采集：于14日龄每组取8只鸡，08：00取样，取样前试鸡空腹 $1 2 \mathrm { h }$ 但不限制饮水。取肝脏放入液氮中速冻，用于分析甘油三酯和AMPK、SREBP-1mRNA的表达量。
+
+1.1.4试验4：皮质酮处理和葡萄糖饮水对肉仔鸡肝脏FAS活性的影响
+
+选取试验鸡共96只，分为正常组和应激组，各设2个处理，葡萄糖饮水和糖精饮水对照，每个处理3个重复，每个重复8只鸡。肉鸡 $3 { \sim } 9$ 日龄，应激组在饲粮中添加 $3 0 \mathrm { m g / k g }$ 皮质酮。葡萄糖饮水的浓度为 $8 0 ~ \mathrm { g / L }$ ，以糖精作为葡萄糖的空白对照。为使糖精与葡萄糖甜
+
+度一致，糖精浓度为 $2 \mathrm { g } / \mathrm { L }$ 样品采集：同试验1。
+
+# 1.2 指标测定
+
+1.2.1 肝脏中FAS活性的测定
+
+肝脏中FAS活性参照Halestrap 等[9]的方法测定。
+
+酶液的制备：肝脏在冰冷的匀浆缓冲液中匀浆（组织和匀浆缓冲液的比例是 $1 : 2 \rangle$ ，然后在 $1 0 0 0 0 0 \times g 4 ^ { \circ } \mathrm { C }$ 下离心 $^ { \textrm { 1 h } }$ ，取上清液用于分析FAS活性。
+
+用 $0 . 1 \mathrm { m o l } / \mathrm { L }$ 磷酸缓冲液 ( $\mathrm { p H } 6 . 5 \$ ）配制反应液，反应液包含 $0 . 1 \ \mathrm { m m o l / L }$ 还原型烟酰胺腺嘌呤二核苷酸磷酸和 $2 5 \mathrm { \mu m o l / L }$ 乙酰辅酶A。
+
+取 $1 0 0 0 \mu \mathrm { L }$ 上述反应液，在 $3 7 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 水浴中预温 $4 \mathrm { m i n }$ ，加入上清酶液 $1 0 0 \mu \mathrm { L }$ ，最后迅速加入 $1 . 3 8 ~ \mathrm { m m o l / L }$ 的丙二酰辅酶 ${ 5 0 \mu \mathrm { L } }$ 。在 $0 . 5 \mathrm { c m }$ 光径的石英比色皿中，在 $3 4 0 \mathrm { n m }$ 波长下，测定 $1 \mathrm { m i n }$ 内吸光度的变化。
+
+# 1.2.2 肝脏中甘油三酯含量的测定
+
+取 $_ { \textrm { 1 g } }$ 肝脏溶于 $1 0 ~ \mathrm { m L }$ 异丙醇中，提取肝脏中的甘油三酯，采用酶法、用南京建成生物工程研究所的试剂盒测定肝脏中甘油三酯含量。
+
+# 1.2.3 肝脏中总RNA的提取与分析
+
+1.2.3.1 肝脏中总RNA的提取
+
+肝脏中总RNA的提取采用Trizol法。
+
+# 1.2.3.2 反转录
+
+根据 TaKaRaRNAPCRKit(AMV)Ver.3.0 Code:DRR019A 试剂盒说明操作，采取 $1 0 ~ \mu \mathrm { L }$ 体系将总RNA反转录为cDNA。
+
+反转录条件： $4 2 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 、 $2 0 \operatorname* { m i n } {  } 9 9$ $\mathrm { { } ^ { \circ } C }$ 、 $5 \operatorname* { m i n } {  { 5 } }$ ℃、 $5 \mathrm { m i n }$ ，1个循环。
+
+# 1.2.3.3 实时荧光定量PCR
+
+实时荧光相对定量PCR采用 SYBRGreenI染料法，采用 TaKaRa（大连)公司的 SYBRPremix Ex TaqTM（Perfect Real Time）TaKaRa Code：DRR041A试剂盒方法进行。反应在美国 ABI7500 荧光定量PCR仪上进行。反应体系 $2 0 \mu \mathrm { L }$ 。引物均由上海生工生物工程公司合成，上、下游引物序列见表3。
+
+荧光定量PCR的反应采用两步法，条件为： $9 5 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 预变性 $1 0 \mathrm { ~ s ~ }$ ，接下来是40个循环，条件是 $9 5 \ ^ { \circ } \mathrm { C } \ 5 \ \mathrm { s } {  } 6 0 \ ^ { \circ } \mathrm { C } \ 3 4 \ \mathrm { s } _ { \mathrm { c } }$ （204号
+
+表3引物序列  
+Table 3Primer sequences   
+
+<html><body><table><tr><td>基因</td><td>Genbank 登录号</td><td>引物序列</td><td>产物大小</td></tr><tr><td>Genes</td><td>Genbank accession</td><td>Primer sequences (5'-3')</td><td>Product</td></tr><tr><td></td><td>number</td><td></td><td>size/bp</td></tr><tr><td>磷酸甘油醛脱氢酶GAPDH</td><td>NM_204305</td><td>F:CTACACACGGACACTTCAAG</td><td>244</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td colspan="2">R:ACAAACATGGGGGCATCAG</td></tr><tr><td>固醇调节元件结合蛋白-1</td><td>AY029244</td><td>F:GCCCTCTGTGCCTTTGTCTTC</td></tr><tr><td>SREBP-1</td><td></td><td>R:ACTCAGCCATGATGCTTCTTCC</td></tr><tr><td>腺苷一磷酸激活的蛋白激酶</td><td>DQ302133</td><td>F:CATCTGTCTCGCCCTCATCC</td></tr></table></body></html>
+
+# 1.3 数据分析
+
+试验数据用平均值 $\pm$ 标准误（ $\boldsymbol { x } _ { \mathrm { \pm S E } } )$ ）表示，数据统计采用SAS8.0统计软件ANOVA程序进行方差分析，其中试验1、试验2和试验4采用双因子模型分析，试验3采用单因子模型分析。 $P { < } 0 . 0 5$ 为差异显著， $P { < } 0 . 0 1$ 为差异极显著。
+
+# 2结果与分析
+
+2.1饲粮能量水平和皮质酮处理对3\~9 日龄肉仔鸡肝脏FAS 活性的影响
+
+由表4可见，无论是在高能还是低能的饲粮条件下，皮质酮处理都极显著提高了3\~9日龄肉仔鸡肝脏中FAS的活性（ $( P { < } 0 . 0 1 )$ ；而饲粮能量水平并未对肝脏FAS的活性造成显著的影响（ $P { > } 0 . 0 5 )$ ；且皮质酮处理和饲粮能量水平也没有显著的交互作用（ $( P { > } 0 . 0 5 )$ 。
+
+表4饲粮能量水平和皮质酮处理对3-9日龄肉仔鸡肝脏FAS 活性的影响
+
+Table 4Effects of dietary energy level and corticosterone treatment on FAS activity in liver of chickens aged   
+
+<html><body><table><tr><td colspan="4">from 3 to 9 days</td><td colspan="3">nmol/mg prot</td></tr><tr><td>组别 Groups</td><td>高能饲粮 High energy</td><td>低能饲粮 Low energy</td><td>平均值 Average</td><td colspan="3">P值 P-value 饲粮能量水平</td></tr><tr><td></td><td>diet</td><td>diet</td><td></td><td>皮质酮 Corticosterone</td><td>Dietary energy level</td><td>交互作用 Interaction effect</td></tr><tr><td>Control group</td><td>41.94±7.87B</td><td>34.16±1.90B</td><td>39.72B</td><td></td><td></td><td></td></tr><tr><td>应激组 Stress</td><td>79.47±18.55A</td><td>78.99±6.62A</td><td>79.23A</td><td>0.0071</td><td>0.783 7</td><td>0.778 7</td></tr><tr><td>group</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均值</td><td>58.62</td><td>64.05</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+同列数据肩标不同大写字母表示差异极显著（ $P { < } 0 . 0 1 )$ ，。
+
+Values in the same column with different capital letter superscripts mean significantly different $( P { < } 0 . 0 1 )$
+
+2.2饲粮能量水平和皮质酮处理对28\~34日龄肉仔鸡肝脏FAS 活性的影响由表5可见，皮质酮处理有提高了28\~34日龄肉仔鸡肝脏中FAS 的活性的趋势( $_ { \cdot } P { = } 0 . 0 5 1$ 2)；而饲粮能量水平并未对肝脏FAS的活性造成显著的影响（ $\scriptstyle \cdot { \cal P } > 0 . 0 5 )$ ；且皮质酮处理和饲粮能量水平也没有显著的交互作用（ $( P { > } 0 . 0 5 )$ 。
+
+表4饲粮能量水平和皮质酮处理对28\~34日龄肉仔鸡肝脏FAS活性的影响 le 4Effects of dietary energy level and corticosterone treatment on FAS activity in liver of chickens agei
+
+<html><body><table><tr><td colspan="7">Hon2ot5+days Hol/nngprot</td></tr><tr><td rowspan="3">组别 Groups</td><td rowspan="3">高能饲粮 High energy diet</td><td rowspan="3">低能饲粮 Low energy diet</td><td rowspan="3">平均值 Average</td><td colspan="3">P值</td></tr><tr><td>皮质酮</td><td>P-value 饲粮能量水平</td><td>交互作用</td></tr><tr><td>Corticosterone</td><td>Dietary energy level</td><td>Interaction effect</td></tr><tr><td>对照组 Control</td><td>84.93±20.68</td><td>27.28±6.62</td><td>56.10</td><td></td><td></td><td></td></tr><tr><td>group</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>应激组</td><td></td><td></td><td></td><td>0.0512</td><td>0.112 7</td><td>0.346 3</td></tr><tr><td>Stress</td><td>110.31±23.70</td><td>94.65±28.31</td><td>102.48</td><td></td><td></td><td></td></tr><tr><td>group</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均值</td><td>97.62</td><td>60.97</td><td></td><td></td><td></td><td></td></tr><tr><td>Average</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+2.3地塞米松处理对肉仔鸡肝脏中甘油三酯含量以及AMPK、SREBP-1mRNA表达量的影响
+
+由表6可见，与配对组相比，地塞米松处理显著增加了肝脏中甘油三酯的含量( $_ { ( P < 0 . 0 5 ) }$ ，但与对照组相比没有显著差异（ $. P { > } 0 . 0 5 )$ 。这表明肝脏甘油三酯含量的增加是由地塞米松处理引起的，而不是较高采食量引起的。
+
+由表7可见，与配对组相比，地塞米松处理显著提高了肝脏中AMPKmRNA表达量中 $( P { < } 0 . 0 5 )$ ；地塞米松处理使得肝脏中 SREBP-1mRNA的表达量显著高于对照组和配对组（ $. P { < } 0 . 0 5 )$ 。
+
+Table 6Effects of dexamethasone treatment on triglyceride content in liver of chickens mmol/   
+
+<html><body><table><tr><td>项目Item</td><td>应激组 Stress group</td><td>对照组 Control group</td><td>配对组</td><td>P值</td></tr><tr><td>甘油三酯</td><td></td><td></td><td>Pair-fed group</td><td>P-value</td></tr><tr><td>Triglyceride</td><td>1.87±0.02a</td><td>1.60±0.19ab</td><td>1.28±0.10b</td><td>0.080</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ 。表7同。
+
+Values in the same line with different small letter superscripts mean significantly different $( P { < } 0 . 0 5 )$ . The same as Table 7.
+
+表6地塞米松处理对肉仔鸡肝脏中甘油三酯含量的影响  
+表7地塞米松处理对肉仔鸡肝脏AMPK和SREBP-1mRNA表达量的影响  
+Table7Effects of dexamethasone treatment on mRNA expressions of AMPK and SREBP-1 in liver of chickens   
+
+<html><body><table><tr><td>项目</td><td>应激组</td><td>对照组</td><td>配对组</td><td>P值</td></tr><tr><td>Items</td><td>Stress group</td><td>Control group</td><td>Pair-fed group</td><td>P-value</td></tr><tr><td>腺苷一磷酸激 活的蛋白激酶</td><td>0.045±0.007a</td><td>0.034±0.004ab</td><td>0.023±0.003b</td><td>0.020</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="5">AMPK</td></tr><tr><td colspan="5">固醇调节元件</td></tr><tr><td>结合蛋白-1</td><td>0.003 0±0.000 7a</td><td>0.001 0±0.000 3b</td><td>0.000 9±0.000 5b</td><td>0.038</td></tr><tr><td>SREBP-1</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+2.4皮质酮处理和葡萄糖饮水对肉仔鸡肝脏FAS活性的影响
+
+由表8可见，皮质酮处理和葡萄糖饮水都没有对肉仔鸡肝脏FAS的活性造成显著的影响（ $( P { > } 0 . 0 5 )$ ，但皮质酮处理和葡萄糖饮水之间存在显著交互作用（ $_ { . P < 0 . 0 5 ) }$ ，这表明应激所导致的脂肪酸合成的增加，可通过葡萄糖饮水而得到缓解。
+
+表8皮质酮处理和葡萄糖饮水对肉仔鸡肝脏FAS活性的影响  
+Table 8Effects of corticosterone treatment and glucose supplementation in drinking water onFAS activity in liver of chickens   
+
+<html><body><table><tr><td rowspan="2">组别 Groups</td><td rowspan="2">葡萄糖 Glucose</td><td rowspan="2">糖精 Saccharin</td><td rowspan="2">平均值 Average</td><td colspan="3">P值</td></tr><tr><td>皮质酮 Corticosterone</td><td>P-value 葡萄糖 Glucose</td><td>交互作用 Interaction</td></tr><tr><td>对照组</td><td>721.8±23.0</td><td>507.5±92.8</td><td>627.48</td><td></td><td></td><td>effect</td></tr><tr><td>Control group</td><td></td><td></td><td>663.36</td><td></td><td></td><td></td></tr><tr><td>应激组 Stress group</td><td>604.9±80.9</td><td>727.5±33.9</td><td></td><td>0.569 5</td><td>0.4913</td><td>0.013 8</td></tr><tr><td>平均值</td><td>666.21</td><td>624.38</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 3讨论
+
+应激反应是机体生理平衡的破坏与恢复的过程。这一过程依赖于交感神经系统与下丘脑—垂体—肾上腺轴的激活，其中肾上腺皮质释放的糖皮质激素对维持体内环境稳定是必不可少的，而对于家禽主要的糖皮质激素为皮质酮。地塞米松是一种人工合成的糖皮质激素，对糖皮质激素受体的亲和力较高，因在血浆中清除较慢，因而能增加在组织中的作用时间[10]。在以前的试验中，皮质酮和地塞米松处理显著降低了肉仔鸡平均日增重和饲料转化率，而提高了血浆尿酸和血糖水平，这表明皮质酮和地塞米松诱导了肉仔鸡的应激反应[4,7]。本试验正是在此基础上进行的。
+
+肝脏在动物的脂肪代谢中发挥至关重要的作用。对于禽类，肝脏是脂肪酸合成的主要部位。当肝脏内脂肪代谢失衡，即脂肪的吸收和从头合成的量超过其氧化和重新酯化的量时，多余的脂肪堆积在肝细胞内，产生脂肪肝，并伴随全身的代谢紊乱。本试验中，皮质酮处理显著提高了3\~9 日龄肉仔鸡肝脏FAS 的活性，有提高28\~34日龄肉仔鸡肝脏FAS 活性的趋势。许多试验都表明糖皮质激素处理能显著增加肉仔鸡腹脂、颈脂和腿脂占体重的比例[5-6]。而 FAS 是肝脏内合成脂肪酸的关键酶，该酶活性的提高表明皮质酮处理可促进肝脏脂肪酸的从头合成，从而使体内脂肪沉积增加。本研究发现，地塞米松处理能显著增加肝脏的甘油三酯含量，这一结果也与以前的研究一致[11-14]。肝脏中甘油三酯含量增加也正是由 FAS 活性提高引起的。本研究中饲粮的能量水平并未对肉仔鸡肝脏中FAS 的活性造成显著的影响。但Jiang 等[5]的研究表明，高能饲粮能提高肉仔鸡的脂肪沉积，其原因可能是血浆中甘油三酯和极低密度脂蛋白的增加增强了体内脂肪沉积。
+
+给应激肉仔鸡的饮水中添加葡萄糖，能显著降低肉仔鸡肝脏FAS的活性，这表明葡萄糖具有缓解肉仔鸡应激的作用。研究表明，葡萄糖处理对肉仔鸡日增重和体重影响不显著，而显著降低了肉仔鸡的日采食量和料重比[，这表明葡萄糖处理在一定程度上能提高肉仔鸡的生产性能。这可能归因于葡萄糖作为能源物质，摄入体内后能够更有利于补充机体对能量的需求，从而在一定程度上减缓应激的危害。
+
+为了从更深层次探讨应激造成肉仔鸡脂肪沉积增加的原因，我们还研究了应激对调节脂肪合成相关酶的上游因子的影响。肝脏脂肪酸合成受到一些核转录因子的调控，固醇调节元件结合蛋白(SREBPs)是核转录因子的一员，它通过调控胆固醇、脂肪酸、甘油三酯和磷脂合成时所需的一系列酶而调节脂类代谢。SREBPs 家族有3 个成员，分别是 SREBP-1a、SREBP-1c以及SREBP-2。小鼠肝脏过量表达 $S R E B P  – 1 c$ 能促进脂肪合成基因的表达，而对胆固醇合成相关基因没有影响[15]。Foretz 等[16]的研究发现，在分离的肝细胞中过量表达SREBP-1c不仅能促进脂肪酸合成基因的表达而且能促进葡萄糖激酶的表达[16]。本研究发现，地塞米松处理能显著提高肝脏中SREBP-1mRNA的表达。相关试验也表明，地塞米松处理能显著提高肉仔鸡肝脏脂肪酸合成有关基因的表达量7。由此推断，应激导致的脂肪酸合成增加是通过 SREBP-1来调控的，即 SREBP-1通过直接或间接地调控脂肪酸从头合成基因的表达，从而促进了脂肪酸的合成，最终使肝脏的甘油三酯含量显著增加。
+
+AMPK是一个由 $\alpha \setminus \beta$ 和 $\boldsymbol { \gamma }$ 亚基形成的异源三聚体。AMPK激活能抑制能量消耗的通路，如蛋白质和脂肪酸和合成，同时能激活生成能量的通路，如糖酵解和脂肪酸的 β-氧化[17]。AMPK 激活能抑制脂肪酸合成的限速酶乙酰辅酶A羧化酶（ACC）的活性，从而使脂肪酸合成受阻。而地塞米松处理能增加肝脏 ACC 的活性以及其mRNA 的表达量[7]。但本研究发现地塞米松处理激活了AMPK的表达，如果脂肪的合成只通过AMPK来调控，那么脂肪沉积该减少，但本研究却发现脂肪沉积增加了。其原因可能是，还有其他的因子调节 ACC、FAS 等脂肪酸合成酶的活性和表达量，如 SREBP-1，而这些因子对 ACC、FAS 等影响的幅度更大，最终使机体朝着脂肪酸合成的方向发展。通过在培养基中加入活性氧如 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 或NO而引起的氧化应激能激活 AMPK[18]。本试验也表明，地塞米松处理可提高AMPK的表达量。这也与体外培养的肝细胞热应激60和120 min AMPK的活性增加相一致[19]。应激所引起的AMPK的激活，能将能量用于更重要的细胞和组织，从而减轻应激所带来的危害。
+
+4结论
+
+$\textcircled{1}$ 饲粮能量水平未对肉仔鸡肝脏的FAS 活性产生显著影响；而糖皮质激素可提高肉仔鸡肝脏中FAS的活性，从而促进甘油三酯在肝脏中的沉积。
+
+$\textcircled{2}$ FAS 活性的增加受到核转录因子SREBP-1的调控。应激所导致的AMPK的激活可将能量用于更重要的细胞和组织，从而减轻应激所带来的危害。  
+$\textcircled{3}$ 在饮水中添加葡萄糖能显著降低应激中肉仔鸡肝脏FAS 的活性，表明葡萄糖具有缓解应激的作用。
+
+# 参考文献：
+
+[1] REBUFFE-SCRIVE M,WALSH U A,MCEWEN B,et al.Effect of chronic stress and exogenous glucocorticoids on regional fat distribution and metabolism[J].Physiology & Behavior,1992,52(3):583-590.   
+[2] STRACK A M,BRADBURY M J,DALLMAN M F.Corticosterone decreases nonshivering thermogenesis and increases lipid storage in brown adipose tissue[J].The America Journal of Physiology,1995,268(1 Pt 2):R183-R191.   
+[3] BELLM E,BHATNAGARS,LIANG J,etal.Voluntarysucroseingestion,like corticosterone replacement,prevents the metabolic deficits of adrenalectomy[J].Journal of Neuroendocrinology,2000,12(5):461-470.   
+[4] DONG H,LIN H,JIAO H C,et al.Altered development and protein metabolism in skeletal muscles of broiler chickens (Gallus gallus domesticus） by corticosterone[J].Comparative Biochemistry and Physiology Part A:Molecular & Integrative Physiology,2007,147(1):189-195.   
+[5] JIANG K J,JIAO H C,SONG Z G,et al.Corticosterone administration and dietary glucose supplementationenhancefataccumulationinbroilerchickens[J].BritishPoultry Science,2008,49(5):625-631.   
+[6] YUAN L,LIN H,JIANG K J,et al.Corticosterone administration and high-energy feed results in enhanced fat accumulation and insulin resistance in broiler chickens[J].British Poultry Science,2008,49(4):487-495.   
+[7] CAI Y L,SONG Z G,ZHANG X H,et al.Increased de novo lipogenesis in liver contributes to the augmented fat deposition in dexamethasone exposed broiler chickens (Gallus gallus domesticus)[J].ComparativeBiochemistryandPhysiologyPartC:Toxicology& Pharmacology,2009,150(2):164-169.   
+[8] MANTHA L,PALACIOS E,DESHAIES Y.Modulation of triglyceride metabolism by glucocorticoids in diet-induced obesity[J].The American Journal of Physiology,1999,277(2 Pt 2):R455-R464.   
+[9] HALESTRAP A P,DENTON R M.Insulin and the regulation of adipose tissue acetyl-coenzyme A carboxylase[J].The Biochemical Journal,1973,132(3):509-517.   
+[10]FOUCAUD L,NIOT I,KANDA T,et al.Indirect dexamethasone down-regulation of the liver fatty acid-binding protein expression in rat liver[J].Biochimica et Biophysica Acta (BBA): Lipids and Lipid Metabolism,1998,1391(2):204-212.
+
+[11]PUVADOLPIROD S,THAXTON J P.Model of physiological stress in chickens 1.Response parameters[J].Poultry Science,2000,79(3):363-369.
+
+[12] PUVADOLPIROD S,THAXTON J P.Model ofphysiological stressin chickens 2.Dosimetry of adrenocorticotropin[J].Poultry Science,20o0,79(3):370-376.   
+[13] MALHEIROS R D,MORAES V M,COLLIN A,et al.Free diet selection by broilers as influenced by dietary macronutrient ratio and corticosterone supplementation.1.Diet selection,organ weights,and plasma metabolites[J].Poultry Science,20o3,82(1):123-131.   
+[14]LIN H,SUI S J,JIAO H C,et al.Impaired development of broiler chickens by stress mimicked by corticosterone exposure[J].Comparative Biochemistry and Physiology Part A:Molecular & Integrative Physiology,2006,143(3):400-405.   
+[15] SHIMANO H,HORTON JD,SHIMOMURA I,et al.Isoform 1c of sterol regulatory element binding protein is less active than isoform la in livers of transgenic mice and in cultured cells[J].The Journal of Clinical Investigation,1997,99(5):846-854.   
+[16]FORETZ M,GUICHARD C,FERRE P,et al.Sterol regulatory element binding protein-1c is a major mediator of insulin action on the hepatic expression of glucokinase and lipogenesis-related genes[J].Proceedings of National Academy of Sciences of the United States of America,1999,96(22):12737-12742   
+[17] KOHAN A B,TALUKDAR I,WALSH C M,et al.A role for AMPK in the inhibition of glucose-6-phosphate dehydrogenase by polyunsaturated fatty acids[J].Biochemical and Biophysical Research Communications,2009,388(1):117-121.   
+[18] CARDACI S,FILOMENI G,CIRIOLO MR.Redox implications of AMPK-mediated signal transduction beyond energetic clues[J].Journal of Cell Science,2012,125(Pt 9):2115-2125.   
+[19] 郑萍,陈代文,张克英,等.热应激对体外仔猪肝细胞AMPK 活性及脂质代谢产物的影响 [J].营养学报,2007,29(1):23-26,30.
+
+Effects of Stress and Dietary Energy Level on Fatty Synthesis in Liver of Broiler Chickens CAI YuanlilLIN Hai²\*i
+
+(1. College ofLife Sciences, Qilu Normal University, Jinan 250013, China; 2. Department of Animal Science,Shandong Agricultural University, Taian 271O18, China)
+
+Abstract: The objective of this study was to explore fatty acid synthase (FAS)activity, expressions of AMP-activated protein kinase (AMPK） and sterol-regulatory element binding proteins-1 (SREBP-1) mRNA in liver of broiler chickens treated by glucocorticoid or dietary energy level in order to explain why stress can raise the hepatic triglyceride and look for ways to relieve stress. There were four trials in this study.In the first and the second trials,broiler chickens fed high and low different energy level of diets were challenged with corticosterone from 3 to 9 days of age and 28 to 34 days of age,respectively. At the end of the two trials,livers were removed for measuring FAS activity.In the third trial,1O8 male Arbor Acres chickens with 7 days of age were divided into 3 groups injected with dexamethasone (stress group)， saline (control group) and saline (a pair-fed group,with the same feed intake compared to stress group) for $^ { 7 \mathrm { d } }$ ,respectively. At the 14 days of age,the liver was removed to determine the triglyceride content and expressions of AMPK and SREBP-1 mRNA. In the last trial, chickens aged from 3 to 9 days were treated with corticosterone and drinking water supplemented with glucose,and FAS activity was measured in the end. The results showed as follows: 1） FAS activity was significantly increased by corticosterone treatment in chickens of 3 to 9 days old $( P { < } 0 . 0 5 )$ ,and had the increasing trend in chickens of 28 to 34 days old ( $_ { \it P = 0 . 0 5 1 }$ 2).2) Compared with the pair-fed group, dexamethasone administration resulted in enhanced triglyceride content in liver $( P { < } 0 . 0 5 )$ ,and the AMPK mRNA expression level in liver was significantly up-regulated ( $( P { < } 0 . 0 5 )$ .The SREBP-1 mRNA expression level in liver of chickens treated with dexamethasone were significantly higher than those of control and pair-fed groups $( P { < } 0 . 0 5 )$ . 3) Glucose supplementation could significantly decrease the FAS activity in liver of chickens during stress $( P { < } 0 . 0 5 )$ . In conclusion, corticosterone treatment can increase the FAS activity in liver of broiler chickens,dexamethasone administration can increase SREBP-1 mRNA expression level in liver and activate AMPK,and glucose can relieve the harm of stress.
+
+Key words: broiler chickens; stress; lipid deposition; FAS; AMPK; SREBP-1

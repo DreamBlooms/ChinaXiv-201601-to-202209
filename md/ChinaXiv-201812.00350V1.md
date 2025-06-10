@@ -1,0 +1,204 @@
+酵母水解物对大口黑鲈生长性能、血浆生化指标以及肝脏组织健康的影响时　博」　郁欢欢」　梁晓芳」　陈　沛」　陈雪松4　卢存仁4　郑银桦」　吴秀峰」　梁旭方3薛敏1,2\*
+
+（1.中国农业科学院饲料研究所国家水产饲料安全评价基地，北京100081；2.农业部饲料生物技术重点开放实验室，北京 100081；3.华中农业大学水产学院，武汉 430070；4.珠海天香苑生物科技发展股份有限公司，珠海519000）
+
+摘要：本试验旨在研究饲料中添加酵母水解物对大口黑鲈生长性能、血浆生化指标以及肝脏组织健康的影响。试验将160尾初始体重为（ $2 8 . 5 0 { \scriptstyle \pm 0 . 0 1 }$ ） $\mathrm { \bf { g } }$ 的大口黑鲈随机分为2组，分别饲喂在基础饲料中添加0（YH0 组，作为对照组）和 $5 ~ \mathrm { g / k g }$ （YH5 组）酵母水解物的饲料。每组设置4个重复，每个重复20尾鱼，养殖周期为10周。结果显示：饲料中添加 $5 \mathrm { g / k g }$ 的酵母水解物能显著提高大口黑鲈的蛋白质沉积率（ $_ { \cdot } P { < } 0 . 0 5 )$ ，但对其他生长性能指标没有产生显著影响 ( $\scriptstyle \cdot P > 0 . 0 5 .$ )。YH5 组血浆中碱性磷酸酶（AKP)活性显著高于YH0 组（ $_ { , P < 0 . 0 5 ) }$ ，饲料中添加 $5 ~ \mathrm { g / k g }$ 的酵母水解物对其他血浆生化指标未产生显著影响（ $_ { . P > 0 . 0 5 ) }$ 。针对大口黑鲈肝脏炎症和凋亡因子相关基因相对表达量的分析表明，YH5 组肝脏中转化生长因子 ${ \bf \nabla \cdot } \beta 1 \$ （TGF-β1）基因的相对表达量较YH0组有下调的趋势（ $_ { . P > 0 . 0 5 ) }$ ，肝脏中 $\mathfrak { a }$ 平滑肌肌动蛋白1 $\ _ { ( a - S M A ) }$ 、肿瘤坏死因子 $\mathbf { \sigma } \cdot \mathbf { a }$ （TNF- $\cdot a$ ）和半胱天冬酶(caspase)家族基因的相对表达量各组间没有显著差异（ $_ { ( P > 0 . 0 5 ) }$ 。在YH0组鱼体肝脏组织发现脂肪浸润以及纤维化表型，在纤维化组织中显示较多的激活态半胱天冬酶3信号，说明该表型下细胞凋亡严重程度高于脂肪肝和正常肝脏，YH5 组鱼体肝脏组织未见纤维化表型。由此表明，饲料中添加 $5 \mathrm { g / k g }$ 的酵母水解物可促进大口黑鲈鱼体蛋白质沉积，降低肝脏细胞纤维化的风险。
+
+关键词：大口黑鲈；酵母水解物；生长；肝病；凋亡中图分类号：S963 文献标识码： 文章编号：
+
+大口黑鲈（Micropterus salmoides)，又名加州鲈，隶属鲈形目（Perciforme)，太阳鱼科（Ceutrarchidac)，黑鲈属（Micropterus）。由于其具有生长快、病害少、耐低温、味道鲜美、营养丰富等优点，已成为我国养殖业中主要淡水鱼品种之一[1]。投喂人工配合饲料常引起大口黑鲈出现不同程度的肝脏疾病和厌食，从而导致生长性能的降低，目前大口黑鲈养殖中仍依赖冰鲜小杂鱼[2]。大口黑鲈的肝脏疾病已经成为限制其投喂人工配合饲料的重要因素之一，诱发大口黑鲈肝脏疾病的主要原因可能是氧化应激[3]、饲料中高水平的可消化碳水化合物（ $51 \%$ ）[4]和霉菌毒素等[5]。由于鱼类对糖的利用率较低，高糖饲料会引起肝糖原储积过剩和持久的高血糖[6]。已有研究表明高糖会引起鱼体肝脏的病变[7]。
+
+酵母水解物（Yeasthydrolysate，YH）是以新鲜啤酒酵母为原料，采用现代生物工程技术，经除杂、自溶、酶解、喷雾干燥等工艺精制而成的，其富含核酸、小肽、细胞壁多糖（免疫多糖）、游离氨基酸及丰富的B族维生素。氨基酸和小肽易于消化吸收，在动物蛋白质营养中优势显著，因此酵母水解物是一种理想的功能性蛋白质源[8]。本试验通过在基础饲料中添加 $5 ~ \mathrm { g / k g }$ 酵母水解物，以生长性能、蛋白质沉积率、血浆生化指标、肝脏组织学病理及相关基因表达量的分析为依据，研究酵母水解物对大口黑鲈肝脏组织健康的影响。
+
+# 1材料与方法
+
+# 1.1试验鱼
+
+试验用水产靶动物为大口黑鲈，于2016年5月购自佛山市三水白金水产种苗有限公司。试验正式开始前，试验鱼在养殖系统中暂养1周，暂养期间投喂暂养饲料。
+
+# 1.2 试验饲料
+
+采用低鱼粉基础饲料（目前商用大口黑鲈饲料中鱼粉使用量超过 $40 \%$ ）作为对照，在此基础上添加 $5 \mathrm { g / k g }$ 的酵母水解物（由珠海天香苑生物科技发展股份有限公司提供）配制试验饲料，将2种饲料分别命名为YH0和YH5。物料经超微粉碎，均匀混合后，使用双螺杆挤压膨化机（洋工机械TSE65）挤压膨化，制成颗粒饲料，自然晾干后于 $- 2 0 \mathrm { ~ \textdegree ~ }$ 储存备用。试验饲料组成及营养水平见表1。
+
+表1试验饲料组成水平及营养水平  
+Table 1Composition and nutrient levels of experimental diets   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td>饲料Diets</td></tr><tr><td>YH0 YH5</td></tr><tr><td>原料(风干基础)Ingredients（air-dry basis）</td><td></td></tr><tr><td>鱼粉Fish meal</td><td>25.3 25.3</td></tr><tr><td>大豆浓缩蛋白 Soybean protein concentrated</td><td>23.0 23.0</td></tr><tr><td>木薯淀粉 Tapioca flour</td><td>2.0 2.0</td></tr><tr><td>豆粕Soybean meal</td><td>14.0 14.0</td></tr><tr><td>面粉Wheat flour</td><td>15.0 15.0</td></tr><tr><td>谷朊粉 Wheatgluten</td><td>5.0 5.0</td></tr><tr><td>微晶纤维素 Microcrystalline cellulose</td><td>3.6 3.1</td></tr><tr><td>预混料 Premix1)</td><td>1.0 1.0</td></tr><tr><td>磷酸二氢钙 Ca(HPO4)2</td><td>1.6 1.6</td></tr><tr><td>蛋氨酸Met</td><td>0.1 0.1</td></tr></table></body></html>
+
+<html><body><table><tr><td>氯化胆碱 Choline chloride (50%)</td><td>0.4</td><td>0.4</td></tr><tr><td>酵母水解物 Yeast hydrolysate2)</td><td></td><td>0.5</td></tr><tr><td>磷脂油 Phospholipid</td><td>2.0</td><td>2.0</td></tr><tr><td>鱼油Fish oil</td><td>7.0</td><td>7.0</td></tr><tr><td>合计 Total</td><td>100.0</td><td>100.0</td></tr><tr><td>营养水平 Nutrient levels3)</td><td></td><td></td></tr><tr><td>干物质 Dry matter</td><td>91.3</td><td>90.9</td></tr><tr><td>粗蛋白质 Crude protein</td><td>46.1</td><td>46.5</td></tr><tr><td>总能 Gross energy/(MJ/kg)</td><td>20.5</td><td>20.6</td></tr><tr><td>粗脂肪 Crude lipid</td><td>12.1</td><td>11.9</td></tr><tr><td>粗灰分 Ash</td><td>8.15</td><td>8.32</td></tr></table></body></html>
+
+1)预混料为每千克饲料提供 Vitamin premix provided the folowing per kg of diets:VA 20 mg,VBi10 mg, $\mathrm { V B } _ { 2 }$ 15mg， $\mathrm { V B } _ { 6 } \ 1 5 \ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 8 \mathrm { m g }$ ，VE $4 0 0 \mathrm { { m g } }$ ， $\mathrm { V K } _ { 3 } 2 0 \mathrm { m g }$ ， $\mathrm { V D } _ { 3 } ~ 1 0 ~ \mathrm { m g }$ ，烟酸胺niacinaminde $1 0 0 ~ \mathrm { { m g } }$ ，维生素C 磷酸酯钙 VC phosphate calcium（ $3 5 \%$ ） $1 0 0 0 \mathrm { m g }$ ，肌醇 inositol $2 0 0 ~ \mathrm { { m g } }$ ，泛酸钙 calcium pantothenate 40mg，生物素 biotin $2 \ : \mathrm { m g }$ ，叶酸 folic acid $1 0 \mathrm { m g }$ ，玉米蛋白粉 corm gluten meal $1 5 0 ~ \mathrm { m g }$ ， $\mathrm { C u S O _ { 4 } { \cdot } 5 H _ { 2 } O \ 1 0 \ m g }$ ，（204 $\mathrm { F e S O _ { 4 } { \cdot } H _ { 2 } O ~ 3 0 0 ~ m g }$ ， $Z _ { \mathrm { n S O } _ { 4 } \cdot \mathrm { H } _ { 2 } \mathrm { O } ~ 2 0 0 ~ \mathrm { m g } }$ ， $\mathrm { M n S O _ { 4 } { \cdot } H _ { 2 } O \ 1 0 0 \ m g }$ ， $\mathrm { K I O } _ { 3 } 8 0 \mathrm { m g }$ ， $\mathrm { N a _ { 2 } S e O _ { 3 } } 1 0 \mathrm { m g }$ ， $\mathrm { C o C l } _ { 2 } { \cdot } 6 \mathrm { H } _ { 2 } \mathrm { O }$ 5mg， $\mathrm { N a C l 1 0 0 m g }$ ，沸石粉 zeolite $6 9 5 \mathrm { m g }$ 。
+
+2酵母水解物主要营养成分如下 The main nutrients of yeast hydrolysate as follows：粗蛋白质 crude protein$4 6 . 8 \%$ ，氨基酸amino acids (16种 16 kinds) $40 . 6 \%$ ， $\beta \cdot$ -葡聚糖 $\beta$ -glucan $1 7 . 8 \%$ ，甘露聚糖 mannan $10 . 5 \%$ ，核酸nucleic acid $2 . 0 1 \%$ （数据来源于中国广州分析测试中心Data from China National Analytical Center,Guangzhou）。
+
+3）营养水平均为测定值，除干物质为风干基础外，其他均为干物质基础。Nutrent levels were measured values, and drymatter based inair-dry,while the otherbased ondrymatter.
+
+# 1.3分组及饲养管理
+
+试验在国家水产饲料安全评价基地（北京，南口）室内循环流水养殖系统中进行。随机挑选体质健康、个体均匀的大口黑鲈[平均初始体重为（ $2 8 . 5 0 { \scriptstyle \pm 0 . 0 1 }$ ）g]，分配到容积为0.26$\mathbf { m } ^ { 3 }$ 的圆锥形养殖桶中。本试验设计2个组，分别投喂饲料YH0 和 YH5,每组包含4个桶（重复），每桶养殖20尾鱼。试验周期10周。每天表观饱食投喂2次，投喂时间分别为08:00和16:00。定期检测水质，水质条件保持在溶氧（DO）浓度 ${ > } 7 . 0 ~ \mathrm { m g / L }$ ，总氨氮（ $\mathrm { \Delta N H _ { 4 } ^ { + } { - } N }$ ）浓度 ${ < } 0 . 3 ~ \mathrm { m g / L }$ ， $\mathrm { p H } { = } 7 . 5 { \sim } 8 . 5$ ，水温（ $2 3 { \pm } 1$ ）℃。
+
+10 周生长试验结束后，禁食 $2 4 \mathrm { h }$ ，然后分别对各桶鱼称重并统计摄食量、存活数，用于计算生长指标。每桶随机取4尾鱼，测量体长、体重、内脏重、肝脏重，用于计算形体指标。每桶随机取6尾鱼，三氯叔丁醇麻醉后尾静脉取血，采用氟化钠草酸钾抗凝剂，在 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 、$4 0 0 0 \mathrm { r / m i n }$ 的条件下离心 $1 0 \mathrm { m i n }$ ，取上层血浆保存于-80℃冰箱中待测。
+
+# 1.4 指标测定
+
+1.4.1生长指标石孙い异△：
+
+存活率（survival rate， $\mathrm { S R } , \% ) = 1 0 0 { \times } { N _ { \mathrm { t } } } / { N _ { 0 } }$   
+增重率（weight gain rate， $\mathrm { W G R , \% } = 1 0 0 \times ( W _ { \mathrm { t } } \mathrm { - } W _ { 0 } \mathrm { + } W _ { \mathrm { d } } ) / W _ { 0 }$   
+特定生长率(specific growth rate， $\mathrm { S G R } , \% ( { \mathsf { d } } ) { \mathsf { = } } 1 0 0 { \mathsf { \times } } ( \ln W _ { 0 } { \mathsf { - } } \ln W _ { \mathrm { t } } ) / t$   
+饲料系数（feed conversion ratio，FCR） $= C / \mid ( W _ { \mathrm { t } } + W _ { \mathrm { d } } - W _ { 0 } )$ ：  
+摄食率（feeding rate， $\mathrm { F R } , \% ) \ = 1 0 0 \times C / \{ [ \ ( W _ { 0 } + W _ { \mathrm { t } } + W _ { \mathrm { d } } ) \ / 2 ] / t \} ;$   
+蛋白质沉积率(protein deposition rate， $\mathrm { P D R } , \% = 1 0 0 \times ( W _ { \mathrm { t } } \times W _ { \mathrm { t p } } { - } W _ { 0 } { \times } W _ { 0 p } ) / ( W _ { \mathrm { f } } { \times } W _ { \mathrm { f p } } ) \circ$ （204号
+
+式中： $N _ { 0 }$ 为初始鱼数量（尾)； $N _ { \mathrm { t } }$ 为终末鱼数量（尾)； $W _ { 0 }$ 为初始鱼体总重 $\mathbf { \tau } ( \mathbf { g } )$ ; $\boldsymbol { W _ { \mathrm { t } } }$ 为终末鱼体总重 $\mathbf { \tau } ( \mathbf { g } )$ ; $W _ { \mathrm { d } }$ 为死亡鱼体总重 ${ \bf \Pi } ( { \bf g } )$ ; $C$ 为摄食量 ${ \bf \Pi } ( { \bf g } )$ ; $W _ { \mathrm { t p } }$ 为终末全鱼粗蛋白质含量 $( \% )$ $W _ { 0 \mathrm { p } }$ 为初始全鱼粗蛋白质含量 $( \% )$ ；Wf为饲料投喂量 $\mathbf { \tau } ( \mathbf { g } )$ ； $W _ { \mathrm { f p } }$ 为饲料粗蛋白质含量 $( \% )$ ; $\mathbf { \chi } _ { t }$ 为试验天数(d)。
+
+# 1.4.2形体指标
+
+各指标计算公式如下：肥满度（condition factor，CF， $\mathrm { g } / \mathrm { c m } ^ { 3 }$ ） $\scriptstyle =$ 平均体重/平均体长;肝体比（hepatosomatic index，HSI， $\%$ ） $= 1 0 0 \times$ 肝脏重/体重；脏体比（viscerasomatic index，VSI， $\%$ ） $= 1 0 0 \times$ 内脏重/体重。
+
+1.4.3常规营养成分
+
+饲料中的水分、粗灰分、粗蛋白质、粗脂肪和总能分别采用105℃常压干燥法（GB/T6435-2006）、550℃灼烧法（GB/T6438-2007）、凯氏定氮法（GB/T6432-1994）、全脂肪测定法（GB/T6433-2006）和氧弹仪燃烧法测定。
+
+1.4.4血浆生化指标
+
+血浆中总胆固醇（totalcholesterol，TC）、甘油三酯（triglyceride，TG）、葡萄糖（glucose,GLU）、总胆汁酸（totalbile acid，TBA）、丙二醛（malondiadehyde，MDA）含量及碱性磷酸酶（alkaline phosphatase，AKP）、谷丙转氨酶（alanine transaminase，ALT）、谷草转氨酶（aspartate transaminase，AST）活性均按照试剂盒说明书测定，所用试剂盒均购自南京建成生物工程研究所。
+
+1.4.5肝脏组织切片
+
+每个组随机取16尾鱼，解剖取 $0 . 5 \ : \mathrm { c m } { \times } 0 . 5 \ : \mathrm { c m } { \times } 0 . 5 \ : \mathrm { c m }$ 大小的肝脏组织，放入 $4 \%$ 多聚甲醛溶液中固定 $2 4 \mathrm { h }$ 。经脱水、透明后，石蜡包埋组织，切片厚度 $7 ~ \mathrm { ~ \textmu ~ m ~ }$ 。之后，肝脏组织切片采取3种染色方式进行染色，包括苏木精-伊红染色、天狼星红胶原纤维特异性染色及激活态半胱天冬酶免疫荧光染色，绿色荧光（AlexaFlour 488，山羊抗兔）显示凋亡细胞，核染色采用DAPI荧光染料。以共焦显微镜（LeicaDM2500，Leica）进行观察拍照。
+
+1.4.6肝脏炎症和凋亡因子相关基因mRNA提取、反转录和表达量的分析
+
+用miRNasyMiniKit试剂盒(TaKaRa)提取肝脏的总RNA。取 $1 ~ \mu \mathrm { L }$ RNA，采用超微量蛋白分析仪（Nanodrop2000,Thermo）检测光密度（OD）值，确保OD260/OD280 在 $1 . 9 \sim 2 . 1$ 之间并记录 RNA 浓度。反转录采用 Prime Script RTReagent Kit（Bio-Rad）试剂盒，于冰上操作。
+
+荧光定量PCR反应程序： $9 5 \ ^ { \circ } \mathrm { C } \ 3 0 \ { \mathrm { s } } ; \ 9 5 \ ^ { \circ } \mathrm { C } \ 5 \ { \mathrm { s } }$ ，退火温度(TM)（每个引物退火温度如表2所示） $2 0 ~ \mathrm { s }$ ，72℃ 40 s，35个循环（CFX96TMReal-Time System，Bio-Rad)。荧光定量PCR反应体系如下：SYBR?Premix Ex TaqTM II $1 2 . 5 ~ \mu \mathrm { L }$ 、PCR Forward Primer（10μmol/L) $1 . 0 ~ \mu \mathrm { L }$ 、PCR Reverse Primer（ $1 0 \mathrm { \ : \mu m o l / L }$ ） $1 . 0 ~ \mu \mathrm { L }$ 、RT反应液（cDNA溶液） $2 . 0 ~ \mu \mathrm { L }$ 加灭菌蒸馏水（ $\mathrm { \ d H } _ { 2 } \mathrm { O }$ ）至 $2 5 ~ \mu \mathrm { L }$ 。
+
+将待测cDNA样品进行4倍梯度稀释。采用 $2 ^ { - \triangle \triangle } \mathrm { C t }$ 法计算目标基因的相对表达量。
+
+表2大口黑鲈肝脏炎症和凋亡因子相关基因的荧光定量PCR引物  
+Table 2Primer sequences for real-time quantitative PCR of inflammatory and apoptosis factor related genes in liver of largemouth bass   
+
+<html><body><table><tr><td>基因</td><td>引物序列</td><td>目的片段</td><td>E值 E-value/%</td><td>退火温度</td></tr><tr><td>Genes</td><td>Primer sequence (5’ -3') F:TGCTGCTGGTGTTGGTGAGTT</td><td>Target size/bp</td><td></td><td>TM/℃</td></tr><tr><td>延长因子 1-αEF1-α</td><td>R:TTCTGGCTGTAAGGGGGCTC</td><td>147</td><td>103</td><td>60.4</td></tr><tr><td>肿瘤坏死</td><td>F:CTTCGTCTACAGCCAGGCATCG</td><td></td><td></td><td></td></tr><tr><td>因子-α</td><td>R:TTTGGCACACCGACCTCACC</td><td>161</td><td>106</td><td>63.0</td></tr><tr><td>TNF-α 转化生长</td><td>F:GCTCAAAGAGAGCGAGGATG</td><td></td><td></td><td></td></tr><tr><td>因子-β1 TGF-β1</td><td>R:TCCTCTACCATTCGCAATCC</td><td>118</td><td>104</td><td>59.0</td></tr><tr><td>α-平滑肌</td><td>F:ACGTGTGACTCGGTGTCGTA</td><td>122</td><td>103</td><td>59.6</td></tr><tr><td>肌动蛋白 α-SMA</td><td>R:AACCCGGCCTTACACAGAC</td><td></td><td></td><td></td></tr><tr><td>半胱天冬 酶3</td><td>F:GCTTCATTCGTCTGTGTTC</td><td>98.0</td><td>94.5</td><td>54.0</td></tr><tr><td>Caspase 3</td><td>R:CGAAAAAGTGATGTGAGGTA</td><td></td><td></td><td></td></tr><tr><td>半胱天冬 酶8</td><td>F:GAGACAGACAGCAGACAACCA</td><td>195</td><td>103</td><td>56.0</td></tr><tr><td>Caspase 8</td><td>R:TTCCATTTCAGCAAACACATC</td><td></td><td></td><td></td></tr><tr><td>半胱天冬 酶9</td><td>F:CTGGAATGCCTTCAGGAGACGGG</td><td>125</td><td>102</td><td>66.0</td></tr><tr><td>Caspase 9</td><td>R:GGGAGGGGCAAGACAACAGGGTG</td><td></td><td></td><td></td></tr><tr><td>半胱天冬</td><td>F:CAAACCACTCACAGCGTCTACAT</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>酶10</td><td></td><td>146</td><td>100</td><td></td></tr><tr><td>Caspase 10</td><td>R:TGGTTGGTTGAGGACAGAGAGGG</td><td></td><td></td><td>56.0</td></tr></table></body></html>
+
+.5 数据统计分析所有试验数据以平均值 $\cdot \pm$ 标准误（mean±SE）的形式呈现，数据分析使用软件SPSS20.0
+
+进行独立样本t检验（independent-sample $t$ test)，以 $P { < } 0 . 0 5$ 为差异显著性判断标准。
+
+2结果
+
+2.1酵母水解物对大口黑鲈生长性能的影响
+
+酵母水解物对大口黑鲈生长性能的影响见表3。结果显示，除YH5 组的蛋白质沉积率显著高于YHO组（ $P { < } 0 . 0 5$ ）外，大口黑鲈的其他生长性各组之间均无显著差异（ $_ { . P > 0 . 0 5 ) }$ 。
+
+# 表3酵母水解物对大口黑鲈生长性能的影响
+
+Table 3Effects of yeast hydrolysate on growth performance of largemouth bass   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="2">组别 Groups</td></tr><tr><td>YH0</td><td>YH5</td></tr><tr><td>存活率 SR/%</td><td>98.80±1.25</td><td>100.00±0.00</td></tr><tr><td>增重率 WGR/%</td><td>171.00±11.60</td><td>161.00±7.45</td></tr><tr><td>特定生长率 SGR/(%/d)</td><td>1.43±0.06</td><td>1.37±0.04</td></tr><tr><td>饲料系数FCR</td><td>0.83±0.01</td><td>0.80±0.01</td></tr><tr><td>摄食率 FR/%</td><td>1.07±0.05</td><td>1.02±0.02</td></tr><tr><td>蛋白质沉积率 PDR/%</td><td>48.0±0.22a</td><td>54.3±2.16b</td></tr><tr><td>肥满度CF/(g/cm)</td><td>1.58±0.03</td><td>1.54±0.04</td></tr><tr><td>脏体比 VSI/%</td><td>6.75±0.13</td><td>6.45±0.18</td></tr><tr><td>肝体比 HSI/%</td><td>1.93±0.11</td><td>1.62±0.18</td></tr></table></body></html>
+
+同行数据肩标无字母或相同字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同字母表示差异显著 $( P { < } 0 . 0 5 )$ 。下表同。 In the same row, values with no or the same letter superscripts mean no significant difference ( $( P { > } 0 . 0 5 )$ ， while with different letter superscripts mean significant difference ( $\scriptstyle \overbrace { P } < 0 . 0 5 )$ ).The sameasbelow.
+
+2.2酵母水解物对大口黑鲈血浆生化指标的影响
+
+酵母水解物对大口黑鲈血浆生化指标的影响见表4。结果显示，血浆中TG、TC、GLU、MDA、TBA含量，AST和ALT活性各组之间均无显著差异（ $\cdot P { > } 0 . 0 5 )$ 。YH5组血浆中AKP活性显著高于YHO组（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ )。
+
+# 表4酵母水解物对大口黑鲈血浆生化指标的影响
+
+Table 4Effects of yeast hydrolysate on plasma biochemical indices of largemouth bass   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="2">组别Groups</td><td>参考范围</td></tr><tr><td>YH0</td><td>YH5</td><td>Reference</td></tr><tr><td colspan="2">脂肪代谢指标Lipid metabolism indices</td><td></td><td>range [9-12]</td></tr></table></body></html>
+
+<html><body><table><tr><td>甘油</td><td>三</td><td>酯</td><td></td><td></td><td>2.02~4.14</td></tr><tr><td>TG/(mmol/L)</td><td></td><td></td><td>4.03±0.56</td><td>3.08±0.62</td><td></td></tr><tr><td>总 胆</td><td>固</td><td>醇</td><td>4.10±0.23</td><td>4.03±0.33</td><td>1.64~5.81</td></tr><tr><td>TC/(mmol/L)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>糖代谢指标 Glucose metabolism index</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>葡萄糖 GLU/(mmol/L)</td><td></td><td></td><td>2.11±0.30</td><td>2.20±0.30</td><td>2.06~3.59</td></tr><tr><td>抗氧化指标Antioxidant index</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>丙</td><td>二</td><td>醛</td><td></td><td></td><td></td></tr><tr><td>MDA/(nmol/mL)</td><td></td><td>17.1±0.9</td><td></td><td>19.3±0.8</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>胆汁淤积生物性标志物 Cholestasis biomarkers</td><td></td><td></td></tr><tr><td>总胆汁酸</td><td>TBA/(μ</td><td>13.8±1.23</td><td></td><td>16.6±1.05</td><td></td></tr><tr><td>mol/L)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>碱性磷酸酶</td><td></td><td>349.0±13.4a</td><td>406.0±18.5b</td><td></td></tr><tr><td>AKP/(U/L)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>肝功能指标Liver function indices</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>谷丙转氨酶 ALT/(U/L)</td><td></td><td>1.60±0.37</td><td></td><td>2.49±0.69</td><td>0~14.7</td></tr><tr><td>谷草转氨酶</td><td></td><td></td><td></td><td></td><td>0~13.3</td></tr><tr><td></td><td></td><td></td><td></td><td>7.09±3.30</td><td></td></tr><tr><td>AST/(U/L)</td><td></td><td></td><td>9.45±2.35</td><td></td><td></td></tr></table></body></html>
+
+2.3酵母水解物对大口黑鲈肝脏组织结构及炎症和凋亡因子相关基因表达的影响
+
+肝脏组织切片表型统计结果见表5。每组有16个样本量，各组肝脏均出现不同程度的损伤，主要表型为正常肝脏、脂肪肝（空泡化细胞）和纤维化肝脏。统计结果显示，YH0组有1尾显示严重纤维化、7尾具有脂肪肝表型、正常样本8尾。YH5组未见纤维化样本，7尾显示脂肪肝，其余9尾均正常。
+
+3 组肝脏大口黑鲈肝脏组织切片见图1。HE 染色结果可见纤维化肝脏中大面积组织坏死，脂肪肝样品表现大量空泡化细胞，核消失或移位。天狼星红胶原纤维特异性染色结果在纤维化样本中可见大量红色的胶原信号，说明均为纤维化组织。正常和脂肪肝样本中胶原信号较低。在纤维化组织中显示较高的激活态半胱天冬酶3(caspase 3)信号，说明该表型下细胞凋亡严重高于脂肪肝和正常肝脏。大口黑鲈肝脏炎症和凋亡因子相关基因相对表达量结果（图2）显示，与YH0 组相比，YH5 组肝脏中转化生长因子-β1（TGF-β1）基因的相对表达量有下调的趋势（ $. P { > } 0 . 0 5 )$ ，肝脏中 $\mathfrak { a } \mathrm { . }$ 平滑肌肌动蛋白（ $\cdot \alpha { - } S M A$ 、肿瘤坏死因子 $\mathbf { \nabla } \cdot \mathbf { a }$ (TNF-α)和半胱天冬酶(caspase)家族基因的相对表达量各组间没有显著差异 （ $_ { \mathrm { P > 0 . 0 5 } ) }$ ）°
+
+# 表5大口黑鲈肝脏组织切片表型统计
+
+Table 5Phenotypic statistics of histological sections of liver for largemouth bass   
+
+<html><body><table><tr><td rowspan="2">表型Phenotype</td><td colspan="2">组别Groups</td></tr><tr><td>YH0</td><td>YH5</td></tr><tr><td>纤维化肝脏 Hepatic fibrosis（I）</td><td>1</td><td>0</td></tr><tr><td>脂肪肝Fatty liver（II)</td><td>7</td><td>7</td></tr><tr><td>正常肝脏 Normal liver (III)</td><td>8</td><td>9</td></tr></table></body></html>
+
+3讨论
+
+3.1酵母水解物对大口黑鲈生长性能的影响
+
+本研究显示，在饲料中添加 $5 ~ \mathrm { g / k g }$ 的酵母水解物对大口黑鲈的成活率和增重率的影响无显著影响，但会显著提高鱼体的蛋白质沉积率。Oliva-Teles 等[l3]研究了啤酒酵母水解物在幼鲈（Dicentrarchus labrax）饲料中部分替代鱼粉对鱼体生长的影响，结果表明，用 $30 \%$ 的啤酒酵母水解物替代鱼粉可以提高饲料效率及鱼体蛋白质沉积率，用 $50 \%$ 的啤酒酵母水解物替代鱼粉对幼鲈的生长没有负面影响。Rumsey 等[14]在虹（Oncorhynchus mykiss）上的研究发现，随着酵母提取物添加量的增加，鱼体氮沉积率也随之增加。这表明，添加一定量的酵母水解物有提高鱼体蛋白质沉积的作用。这可能是由于酵母水解物富含氨基酸和小肽，一些研究表明添加小肽之后会显著提高鱼体蛋白质保留效率[15-16]。鱼类饲料中的蛋白质不仅为氮沉积和利用提供氨基酸的来源，而且蛋白质中所含的小肽可以在消化道中随着消化过程而释放，其中具有生物活性的小肽可影响鱼类消化吸收和血液循环，从而影响机体对氨基酸的吸收与利用[17]。本试验所用的酵母水解物含有较高水平的氨基酸（ $4 0 . 6 \%$ ）、 ${ \mathfrak { \beta } }$ -葡聚糖（ $1 7 . 8 \%$ ）和甘露聚糖（ $1 0 . 5 \%$ )，有研究表明在饲料中补充氨基酸可以提高大口黑鲈全鱼蛋白质含量[18]。葡聚糖、甘露聚糖和核苷酸均可以通过改善肠道微生物组成和组织结构，促进营养素吸收，提高鱼体免疫能力及生长性能[19-20]，从而影响鱼体对蛋白质的代谢。不同酵母水解物所含的有效成分有一定差别，除必需氨基酸外，酵母水解物的功能性物质主要为甘露聚糖、葡聚糖和核苷酸等益生物质。 $\mathrm { Y u }$ 等[19]确定花鲈饲料中酵母细胞壁最适添加量为 500$\mathrm { m g / k g }$ ，其主要功能性成分葡聚糖和甘露聚糖的有效含量分别为140 和 $1 2 0 \mathrm { m g / k g }$ 。本试验中， $5 ~ \mathrm { g / k g }$ 的酵母水解物中主要功能性成分 $\mathbf { \cdot } \mathbf { \{ \beta \} }$ -葡聚糖和甘露聚糖含量达到 890 和 $5 2 5 ~ \mathrm { m g / k g }$ 因此酵母类产品在鱼类饲料中应用的过程中有效成分的含量是指导合理使用的前提。
+
+# 3.2酵母水解物对大口黑鲈血浆生化指标的影响
+
+血液生化指标的检测为鱼类营养水平、机体代谢及疾病诊断提供重要信息，是衡量鱼类健康状况的重要参考依据[21]。本研究显示，各组大口黑鲈血浆中TG、TC、GLU 含量和AST活性均没有显著差异，且均在参考范围内。TC 和TG是血液脂肪的组成成分，反映体内胆固醇以及饲料中脂类在动物体中吸收与代谢状况。本试验结果表明，血浆中TC、TG 和GLU含量均无显著差异，表明饲料中添加 $5 ~ \mathrm { g / k g }$ 的酵母水解物对大口黑鲈脂肪代谢和糖代谢均没有产生显著影响。MDA作为脂类物质氧化应激的最终产物，可以衡量机体内活性氧的水平和氧化应激的程度[22]，已有研究用 MDA来反映机体受氧化损伤的程度[23-24]。本研究结果显示，血浆中MDA含量各组之间没有显著差异，表明在饲料中添加 $5 ~ \mathrm { g / k g }$ 的酵母水解物对大□黑鲈并没有造成氧化性损伤。
+
+血浆中TBA含量和AKP 活性共同升高是胆汁淤积的重要指标，本研究中各组血浆中TBA 含量没有显著差异，血浆中AKP 活性单独升高可能与梗阻性黄疸有关[25]。正常生理条件下血浆中ALT和AST活性很低，当动物肝细胞受损时其活性会显著升高，升高程度与肝细胞受损程度相一致[26]，血浆中 ALT 和AST 活性的升高可以作为肝损害和慢性肝炎的指标[26-27]。本研究显示，血浆中 TBA 含量以及 ALT和AST 活性各组之间均没有显著差异，YH5组血浆中AKP 活性虽然显著高于对照组，但并未见其他胆汁酸代谢障碍的指标异常，饲料中添加 $5 ~ \mathrm { g / k g }$ 酵母水解物是否会引起胆汁淤积症尚需进一步研究。
+
+# 3.3酵母水解物对大口黑鲈肝脏组织结构的影响
+
+本研究针对大口黑鲈肝脏进行了病理学分析，从大口黑鲈的肝脏组织切片可以看出，各组的肝脏均出现了不同程度的损伤，对照组出现1尾肝脏纤维化。各组肝脏均出现损伤的原因可能与饲料中含有相对较高水平的碳水化合物有关。徐祥泰等[28报道，饲料中淀粉含量高于 $10 \%$ 即有可能导致大口黑鲈肝脏病变。谭肖英等[29]报道，大口黑鲈饲料中含有 $1 5 \% { \sim } 2 3 \%$ 的碳水化合物主要影响大口黑鲈内脏器官的相对质量及肝脏的营养成分组成。
+
+通常认为组织的纤维化是由于正常伤口愈合失败所导致的[30]。组织受损后，需要形成新的结缔组织，在此过程中需要成纤维细胞的活化、增殖并迁移到伤口处[31]。处于损伤处的成纤维细胞是由特定的肌成纤维细胞形成的，而肌成纤维细胞在 $\mathfrak { a }$ -SMA中高表达，成纤维细胞可以使损伤处愈合，肌成纤维细胞存在于纤维化病变过程中，会导致组织的纤维化[30]。此外，组织的损伤愈合是在一系列促纤维化细胞因子与抗纤维化细胞因子相互作用下完成的，主要包括转化生长因子-β(TGF-β)和 TNF- $\mathbf { \alpha } \cdot \mathbf { a }$ 等[32]。在组织损伤愈合的过程中促炎因子TNF- $\cdot a$ 在巨噬细胞中表达[33]。肝癌患者的肝组织中TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 阳性细胞数量增加，预示着TNF $\mathbf { \alpha } \cdot \mathbf { a }$ 可能会促进肝脏的纤维化[34]。肝脏的纤维化是由一系列刺激引起的慢性炎症反应的结果，包括持续性感染、自身免疫反应、化学损伤、组织损伤和氧化应激，其中氧化应激会提高线粒体通透性并促进肝细胞损伤和肝脏纤维化[35]。此外，TNF- $\mathbf { \alpha } \cdot \mathbf { a }$ 可以导致肝细胞凋亡并引起肝细胞损伤或肝脏癌症[36]。TGF-β1可以抑制多种类型细胞的生长与分化，调节免疫和炎症反应，调节伤口愈合[37]。TGF- $_ { \cdot \beta 1 }$ 抑制促炎反应，被认为是一种抗炎因子[38]。有研究表明 TGF-β1的下调抑制肝脏干细胞的活化和肝脏纤维化的发展[39]。
+
+caspase 家族是通过调节细胞凋亡和炎症反应来维持体内平衡的重要基因家族，其中调亡通路通常分为外在途径和内在途径的细胞凋亡。外在细胞凋亡途径的激活是通过将配体绑定在死亡结构域上，例如 TNF- $\mathfrak { a }$ 超家族及其受体，从而激活半胱蛋白酶8（caspase8）和半胱蛋白酶10（caspase 10)，通过启动caspase 3启动细胞凋亡[40]。内在细胞凋亡途径被称为线粒体凋亡。首先，有利于线粒体通透性的氧化应激诱导线粒体功能障碍[41]。线粒体功能障碍在凋亡信号通路中发挥着重要作用，伴随着凋亡信号通路ROS 的增强，导致脂质过氧化物的积累和细胞色素C释放到细胞质中[42]。然后，通过各种细胞应激反应激活半胱氨酸蛋白酶9（caspase9)，线粒体细胞凋亡途径被激活。最后，活化的caspase9通过激活启动肝细胞凋亡和纤维化，切割和激活caspase $3 ^ { [ 4 0 ] }$ 。本研究中，因只有1个样本存在明显的凋亡信号，2组大口黑鲈脂肪肝样本发生几率一致，且尚未观察到大量的凋亡细胞，这可能是2组间在炎症和凋亡通路相关基因表达方面没有显著差异的主要原因。YH5组肝脏中TGF-β1的相对表达量较对照组有下调的趋势，可能是该组未见纤维化样本的原因之一。
+
+4结论
+
+在大口黑鲈饲料中添加 $5 \mathrm { g / k g }$ 的酵母水解物可促进大口黑鲈鱼体蛋白质沉积，并有降低肝细胞纤维化风险的趋势。
+
+# 参考文献:
+
+[1]丁庆秋,陈宇航,曹双俊,等.大口黑鲈的营养需求研究进展[J].养殖与饲料,2013(11):38-43.
+
+[2] YANG G,TIAN X L,DONG S L,et al.Effects of dietary rhubarb,Bacillus cereus,yeast polysaccharide,and florfenicolsupplementationongrowth,intestinalmorphology,and immuneresponsesofseacucumber(Apostichopusjaponicus)[J].Aquaculture International,2016,24(2):675-690.   
+[3] CHEN Y J,LIU Y J,YANG H J,et al.Effect of dietary oxidized fish oil on growth performance,body composition,antioxidant defence mechanism and liver histology of juvenile largemouth bass Micropterus salmoides[J].Aquaculture Nutrition,2012,18(3):321-331.   
+[4] GOODWIN A E,LOCHMANN R T,TIEMAN D M,et al.Massive hepatic necrosis and nodular regeneration in largemouth bass fed diets high in available carbohydrate[J].Journal of the World Aquaculture Society,2010,33(4):466-477.   
+[5] EL-SAYED Y S,KHALIL R H,SAAD T T.Acute toxicity of ochratoxin-a in marine water-reared sea bass (Dicentrarchus labrax L.)[J].Chemosphere,2009,75(7):878-882.   
+[6]蔡春芳,陈立侨.鱼类对糖的利用评述[J].水生生物学报,2006,30(5):608-613.   
+[7] 蒋利和,吴宏玉,黄凯,等.饲料糖水平对吉富罗非鱼幼鱼生长和肝代谢功能的影响[J].水产 学报,2013,37(2):245-255.   
+[8] 曾本和,向枭,杨文娇,等.酵母水解物对草鱼生长性能和体成分的影响[J].饲料工 业,2015,36(16):16-19.   
+[9] 于利莉,薛敏,王嘉,等.大口黑鲈对饲料中丁基羟基茴香醚的耐受性评价[J.动物营养学 报,2016,28(3):747-758.   
+[10]袁瑞敏,刘永坚,王贵平,等.氧化鱼油饲料中添加维生素C对大口黑鲈幼鱼生长及抗氧化 能力的影响[J].广东农业科学,2016,43(1):136-144.   
+[11] 张露露.胆汁酸在大口黑鲈饲料中有效性及耐受性评价[D].硕士学位论文.泰安:山东农 业大学,2015.   
+[12]郑银桦,彭聪,吴秀峰,等.酵母酶解物对大口黑鲈生长性能、脂类代谢及肠道组织结构的 影响[J].动物营养学报,2015,27(5):1605-1612.   
+[13] OLIVA-TELES A,GONCALVES P.Partial replacement of fishmeal by brewers yeast (Saccharomycescerevisae)indietsfor sea bass (Dicentrarchuslabrax) juveniles[J].Aquaculture,2001,202(3/4):269-278.   
+[14] RUMSEY G L,WINFREE R A,HUGHES S G.Nutritional value of dietary nucleic acids and purine bases to rainbow trout (Oncorhynchus mykiss)[J].Aquaculture,1992,108(1/2):97-110.   
+[15]冯健,刘栋辉.草鱼日粮中小肽对幼龄草鱼生长性能的影响[J].水生生物学 报,2005,29(1):20-25.   
+[16]冯健,贾刚,杨长平.鱼粉水解物中小肽对幼龄草鱼生长性能的影响[J].水产学 报,2005,29(2):222-226.   
+[17] ERBA D,CIAPPELLANO S,TESTOLIN G.Effect of caseinphosphopeptides on inhibition of calcium intestinal absorption due to phosphate[J].Nutrition Research,2001,21(4):649-656.   
+[18] 梁勤朗.饲料蛋白质水平与必需氨基酸补充对大口黑鲈生长、体组成和免疫力的影响[D]. 硕士学位论文.上海:上海海洋大学,2012.   
+[19] YU H H,HAN F,XUE M,et al.Efficacy and tolerance of yeast cell wall as an immunostimulantin the dietof Japanese seabass(Lateolabrax japonicus)[J].Aquaculture,2014,432:217-224.   
+[20] 唐德约.饲料中添加核苷酸对草鱼生长性能及肠道的影响[D].硕士学位论文.长沙:湖南 农业大学,2014.   
+[21]SILVEIRA-COFFIGNY R,PRIE-TOTRUJILLO A,ASCENCIO-VALLE F.Effectsof differentstressorsin haematological variablesincultured Oreochromisaureus S.[J].ComparativeBiochemistry andPhysiology PartC:Toxicology & Pharmacology,2004,139(4):245-250.   
+[22] 孔祥会,王桂忠,李少菁.低温驯化锯缘青蟹鳃抗氧化防护、ATPase 及膜脂肪酸组成变化 [J].水生生物学报,2007,31(1):59-66.   
+[23]武阳,常青,杨旭.不同浓度甲醛致大鼠肝细胞DNA氧化损伤作用[J].环境科学学 报,2009,29(11):2415-2419.   
+[24] 宋志明,刘鉴毅,庄平,等.低温胁迫对点篮子鱼幼鱼肝脏抗氧化酶活性及丙二醛含量的影 响[J].海洋渔业,2015,37(2):142-150.   
+[25] 陈卓鹏.血清碱性磷酸酶对判断肝硬化病情及预后的临床价值[J].临床医药实践.2005.14
+
+(5):344-345.
+
+[26] NYBLOM H,BERGGREN U,BALLDIN J,et al.High AST/ALT ratio may indicate advanced alcoholic liver disease rather than heavy drinking[J].Alcohol and Alcoholism,2004,39(4):336-339.   
+[27] GIANNINI E,RISSO D,TESTA R.Transportability and reproducibility of the AST/ALT ratio in chronic hepatitis C patients[J].The American Journal of Gastroenterology,2001,96(3):918-919.   
+[28] 徐祥泰,陈乃松,刘子科,等.饲料中不同淀粉源及水平对大口黑鲈肝脏组织学的影响[J].上 海海洋大学学报,2016,25(1):61-70.   
+[29] 谭肖英,刘永坚,田丽霞,等.饲料中碳水化合物水平对大口黑鲈 Micropterus salmoides 生 长、鱼体营养成分组成的影响[J].中山大学学报（自然科学版）,2005,44(增刊1):258-263.   
+[30] GABBIANI G.The myofibroblast in wound healing and fibrocontractive diseases[J].The Journal of Pathology,2003,200(4):500-503.   
+[31] BEDOSSA P,PARADIS V.Liver extracellular matrix in health and disease[J].Journal of Pathology,2003,200(4):504-515.   
+[32]LEASK A,ABRAHAM D J.TGF- $\cdot \beta$ signaling and the fibrotic response[J].FASEB Journal,2004,18(7):816-827.   
+[33] ABRAHAM D J,XU S W,BLACK C M,et al.Tumor necrosis factor $\mathfrak { a }$ suppresses the induction of connective tissue growth factor by transforming growth factor-beta in normal and scleroderma fibroblasts[J].Journal of Biological Chemistry,2000,275(20):15220-15225.   
+[34] MCILWAIN D R,BERGER T,MAK T W.Caspase functions in cell death and disease[J].Cold Spring Harbor Perspectives in Biology,2013,5(4):a008656.   
+[35] FRANK T.Functional role of intrahepatic monocyte subsets for the progression of liver inflammation and liver fibrosis in vivo[J].Fibrogenesis & Tissue Repair,2012,5(Suppl.1):S27.   
+[36] TALAAT R M,ADEL S,SALEM T A,et al.Correlation between angiogenic/inflammatory mediators in Wister rat model of liver dysplasia[J].Journal of Immunoassay and Immunochemistry,2016,37(5):472-484.   
+[37] BORDER W A,NOBLE N A.Transforming growth factor beta in tissue fibrosis[J].NeW England Journal of Medicine,1994,331(19):1286-1292.   
+[38] HUYNH M L N,FADOK V A,HENSON P M.Phosphatidylserine-dependent ingestion of apoptotic cells promotes TGF- $_ { \cdot \beta 1 }$ secretion and the resolution of inflammation[J].Journal of Clinical Investigation,2001,109(1):41-50.   
+[39] YU L L,YU H H,LIANG X F,et al.Dietary butylated hydroxytoluene improves lipid metabolism,antioxidant and anti-apoptotic response of largemouth bass (Micropterus salmoides)[J].Fish & Shellfish Immunology,2018,72:220-229.   
+[40] MCILWAIN D R,BERGER T,MAK T W.Caspase functions in cell death and disease[J].Cold Spring Harbor Perspectives in Biology,2013,5(4):a008656.   
+[41] CHOI JH,SUN W J,KIM H G,et al.Platycodi Radix attenuates dimethylnitrosamine-induced liver fibrosis in rats by inducing Nrf2-mediated antioxidant enzymes[J].Food and Chemical Toxicology,2013,56:231-239.   
+[42] BROWNING J D,HORTON J D.Molecular mediators of hepatic steatosis and liver injury[J].Journal of Clinical Investigation,2004,114(2):147-152.
+
+![](images/be5eb5f27bbc4bebae19e467bddb49a8de0993af776f7186b1d3957d268a286a.jpg)  
+图1.A：苏木精-伊红染色；B：天狼星红胶原纤维染色；C：免疫荧光法对激活态半胱氨酸蛋白酶-3染色。大口黑鲈肝脏组织纤维化和大范围信号凋亡（表型I，图1B中用绿色箭头标记和图1IC中用黄色箭头标记），肝脂肪浸润（表型II，图1A中用红色箭头标记的强烈空泡化）和正常组织（表型II）。D:YH0和YH5组大口黑鲈肝脏组织TGF-β1、$\mathfrak { a }$ -SMA和TNF-α相对表达量分析（ $\mathrm { n } { = } 1 4$ ）。E：YH0和YH5组大口黑鲈肝脏组织caspase家族相对表达量分析 $\scriptstyle ( \mathbf { n } = 1 4$ ）。ot(phenotypeI,tsecoleskedwitdosing)ndoalssote).eticesF $_ { \cdot \beta 1 , \alpha }$ -SMAand TNF-αoflargemouth bass inYH0 and YH5 groups(D) $( \mathrm { n } { = } 1 4 )$ ).Thehepatic mRNA levelsofcaspasefamily genesoflargemouth bassinYHOand YH5 groups $\mathrm { ( E ) ( n { = } 1 4 ) }$ 一
+
+Effects of Yeast Hydrolysate on Growth Performance,Plasma Biochemical Indexes and Hepatic Tissue Health of Largemouth Bass (Micropterus salmoides) SHI BolYU Huanhuan1 LIANG Xiaofang1CHEN Peil CHEN Xuesong4LU Cunren4 ZHENG YinhualWU XiufenglLIANG Xuefang³XUE Min1,2\* (1.National Aquafeed Safety Assessment Station,Feed Research Institute, Chinese Academy of Agricultural Sciences, Beijing 10oo81, China; 2. Key Laboratory of Feed Biotechnology of Ministry of Agriculture, Feed Research Institute, Chinese Academy ofAgricultural Sciences, Beijing 10o081, China; 3. College ofFisheries, Huazhong Agricultural University, Wuhan 430070, China; 4. Zhuhai Tianxiangyuan Biotech Holding Co.,Ltd., Zhuhai 519000, China) Abstract: A 10-week growth trial was conducted to evaluate the efects of yeast hydrolysate on growth performance, plasma biochemical indexes and hepatic tissue health of largemouth bass (Micropterus salmoides).A total of 16O largemouth bass with the initial body weight of （204号 $( 2 8 . 5 0 { \scriptstyle \pm 0 . 0 1 } )$ g were randomly divided into two groups,and largemouth bass in the two group were fed diets supplemented with O (YHO group, as control group) and $5 ~ \mathrm { g / k g }$ (YH5 group) yeast hydrolysate based on a basal diet. Each group had 4 replicates with 2O largemouth bass in each replicate. The results showed that supplementation of $5 ~ \mathrm { g / k g }$ yeast hydrolysate can significantly increase the protein deposition rate $( P { < } 0 . 0 5 )$ ,but had no significant difference on the other growth performance indices $( P { > } 0 . 0 5 )$ . The plasma alkaline phosphatase (AKP) activity in YH5 group was significantly higher than that in YHO group $( P { < } 0 . 0 5 )$ ,while no significant difference was found in other plasma biochemical indexes among two groups $( P { > } 0 . 0 5 )$ . Analysis of liver inflammatory and apoptosis factor gene relative expression levels of largemouth bass showed that the relative expression level of liver transforming growth factor- $_ { \cdot \beta 1 }$ $( T G F  – \beta 1 )$ gene in YH5 group had a down-regulated trend $( P { > } 0 . 0 5 )$ ,and the relative expression levels of liver $\mathfrak { a }$ -smooth muscle actin （204号 $( a { - } S M A )$ , tumor necrosis factor- $\mathbf { \nabla } \cdot \mathbf { a }$ $( T N F  – \alpha )$ and caspase family genes had no significant differences compared with YHO group $( P { > } 0 . 0 5 )$ . Fatty infiltration and fibrosis phenotype in liver tissues were observed YHO group,and more activated caspase3 signals were observed in liver tissues with fibrosis symptom, which showed the apoptosis degree in fibrosis liver was much higher than that in fatty liver or normal liver tissues. There were no hepatic fibrosis phenotype observed in YH5 group. Accordingly, diet supplemented with $5 ~ \mathrm { g / k g }$ yeast hydrolysate can promote the protein deposition and reduce the risk of hepatic fibrosis for largemouth bass.
+
+Key words: largemouth bass (Micropterus salmoides); yeast hydrolysate; growth; hepatosis; apoptosis

@@ -1,0 +1,182 @@
+1 青贮饲料有害微生物及其抑制措施
+
+2 张适;常杰;胡宗福;王思珍;牛化欣
+
+3 (内蒙古民族大学动物科学技术学院,通辽 028000)
+
+4 摘;要：青贮饲料在发酵和贮藏过程中易受有害微生物及其代谢毒素的污染，降低青贮品质  
+5 和反刍动物生产性能，严重危害动物和人类的健康。本文综述了青贮有害微生物的种类及其  
+6 代谢产物对青贮营养品质、有氧稳定性影响的作用机理，以及在青贮饲料发酵过程中抑制有  
+7 害微生物的措施和方法，对研发优质的青贮添加剂、优化发酵环境、抑制有害微生物的生长、  
+8 提高青贮饲料营养品质提供参考。
+
+关键词：青贮饲料;腐败微生物;致病微生物;抑制措施中图分类号：S816.3
+
+为确保全株玉米、苜蓿等牧草不受生长季节性的影响，利用青贮微生物厌氧发酵技术将其转化为优质的饲料，以供反刍动物一年四季均可使用[1-2]。青贮最常用的原料是玉米和紫花苜蓿，它们具有较高的营养价值和高纤维含量，已成为奶牛养殖最为广泛使用的饲粮组成成分，特别是在欧美发达国家，约 $6 0 \% \sim 8 0 \%$ 的奶牛使用青贮玉米饲料[3-4]。全球范围内，1头奶牛每天消耗大约 $2 6 \mathrm { k g }$ 干物质(DM)，其中玉米青贮饲料占饲粮组成的 $5 0 \% \sim 7 5 \% ^ { [ 5 ] }$ 。但是，青贮饲料在发酵和贮藏过程中容易受到有害微生物的污染，继而导致有害微生物有毒代谢物的积累，损坏动物机体和人类的健康[]。近年来，诸多国外研究已不断发现青贮有害微生物的种类如真菌[曲霉菌属（Aspergillus）、镰刀菌属(Fusarium)、青霉菌属(Penicillium)、木霉菌属(Trichoderma)等]、细菌（丁酸细菌、肉毒杆菌、李斯特菌（Listeria）、大肠杆菌等）及其青贮饲料发酵前后有毒有害代谢产物的变化[7]。而国内就青贮有害微生物方面的研究报道较少。
+
+由于世界各地的青贮饲料使用量不断增加，特别是发展中国家[8]，因此，降低动物饲料有害微生物污染风险，确保青贮饲料优良品质，减少动物受到有害微生物直接威胁，保证最终肉、奶产品安全，维护人类健康是我们关注的热点和重点。本文将近年关于青贮饲料有害微生物种类及其代谢毒素危害，通过添加青贮添加剂来抑制好氧酸败和致病微生物，减少青贮饲料营养物质的损失，改善动物生产性能和健康的进展进行综述，为研究青贮有害微生物及其代谢产物的特性、研发优质的青贮添加剂抑制有害微生物的繁殖生长以及减少其代谢毒素的生成、提高青贮饲料营养品质和动物的健康提供科学依据。
+
+青贮过程中饲料理化和微生物菌群的理论变化如图19所示。
+
+![](images/5f72067382147f43a1a101b9a3b32379c75081d625fbf8d8262998ba775d620c.jpg)  
+图1;青贮发酵过程氧气含量、 $\mathsf { p H }$ 和不同微生物菌群理论变化
+
+Fig.1;Theorical changes in oxygen content, pHand diferent microbial populations during silage fermentation processing[9]
+
+一般来说,生长作物附生菌群主要包括假单胞菌（Pseudomonas）、放线菌(Actinomycetes）、李斯特菌和产乳酸菌（lactic acid bacteria,LAB）等(表1)[ol，由于不同地区的青贮原料和气候不同，玉米和牧草附生菌的种类和数量可能有所差异。但是，这些青贮原料一旦被切碎、压实、密封到青贮窖中，在发酵和贮藏过程中就会发生理生化化和微生物菌群的变化。诸多研究表明，制作良好的青贮饲料，LAB 为主导发酵菌，快速降低 pH，有助于青贮的保存，青贮典型的LAB包括乳杆菌属（Lactobacilus）、乳球菌属（Lactococcus）、小球菌属（Pediococcus）、肠球菌属(Leuconostoc）、明串珠菌属（Enterococcus）和韦氏菌属（Weissella)[1]，若青贮中掺入了土壤、长期处于好氧阶段或缓慢酸化等意外情况下，青贮饲料中的微生物群落将以梭菌、酵母菌、霉菌和意外引入的致病微生物(如李斯特菌)为主。在青贮饲料开窖饲喂动物时，空气进入压实程度低的青贮中，会导致青贮发酵初期被抑制的好氧微生物复活并生长繁殖，pH升高，这些青贮有害微生物及其代谢产物对青贮饲料品质和动物的生产造成严重的威胁。
+
+Table 1;Typical microbial composition on crops before ensiling（fresh weight basis） $[ 1 0 ] _ { ; ; ; ; ; ; \mathrm { C F U / g } }$
+
+表1;青贮前农作物典型的微生物菌群组成(鲜重基础)  
+
+<html><body><table><tr><td>菌群 Microbe</td><td>数量Population</td><td>菌群 Microbe</td><td>数量 Population</td></tr><tr><td>总需氧菌 Total aerobic bacteria</td><td>>10 000 000</td><td>梭菌Clostridia</td><td>100～1000</td></tr><tr><td>产乳酸菌LAB</td><td>10～1000 000</td><td>芽孢杆菌Bacilli</td><td>100～1000</td></tr><tr><td>肠杆菌 Enterobacteria</td><td>1000～1000 000</td><td>乙酸菌 Acetic acid bacteria</td><td>100～1000</td></tr></table></body></html>
+
+2;青贮有害微生物及其代谢产物
+
+青贮制作和使用过程中，不免携带和产生一些不良和有害的微生物，危害青贮的长期保存和动物的生产，从而影响动物和人类的健康。
+
+# 2.1;酵母菌和霉菌
+
+酵母菌是一些兼性厌氧真核生物，在青贮初始或开窖有氧阶段，参与青贮有氧腐败，所以是青贮饲料中不良微生物最主要的群体[12]。Courtin 等[13]对牧草和全株玉米青贮饲料中酵母菌导致需氧腐败的数学模型的进行了检测和验证。酵母菌可在青贮发酵过程中耐酸，当开窖有氧时，青贮中的琥珀酸、柠檬酸、乳酸等有机酸进行有氧代谢，使 $\mathsf { p H }$ 升高，减缓了耐酸微生物的生长。青贮原料附生酵母菌能使可溶性碳水化合物(WSC)转化为二氧化碳( $\mathrm { C O } _ { 2 }$ ）和醇类，影响青贮饲料品质，损伤动物的肝脏，导致采食量下降。陶雅等[14]籽粒苋附着微生物中数量最多的是好氧细菌，其次是大肠杆菌和酵母菌，之后是乳酸菌，霉菌数量最少，混入全株玉米进行青贮，可提高乳酸菌的数量，当玉米添加比例超过 $5 0 \%$ 时，青贮品质良好。
+
+霉菌是严格的好氧微生物，只有在青贮刚开始或开窖有氧环境中才能被发现。Orsi 等[15]从巴西玉米青贮中抽取了195 份样本，检测和分析了霉菌的种类，镰刀霉菌属(Fusarium sp.)是最常见的、其他依次为青霉菌属、曲霉菌属、毛孢子菌属（Trichosporon sp.）和分子孢子菌属（Cladosporium sp.）。霉菌在青贮过程中可以产生许多次生代谢产物，包括霉菌毒素，即使在青贮发酵过程中霉菌消失，但其分泌的霉菌毒素在青贮饲料中依然保持着毒性，不会消失。Roigé 等[16]报道，玉米青贮饲料中最常见的霉菌毒素有青霉菌素 $( 7 0 \% )$ 、镰刀菌素 $(47 \% )$ 和曲霉菌素 $( 3 4 \% )$ 。Niderkorn 等[17]研究表明，镰刀菌属能产生 20 多种霉菌毒素，主要是二噁英、玉米赤霉烯酮和伏马菌素。Cavallarin 等[18]首次考察了玉米青贮7d 有氧暴露黄曲霉毒素积累的变化，通过添加布氏乳酸杆菌或覆盖塑料薄膜阻止氧气进入可抑制黄曲霉毒素的产生。青贮饲料开窖后，对动物进行长时间饲喂的过程中或多或少会暴露空气，可能会产生低剂量的霉菌毒素。摄食含低剂量霉菌毒素的青贮饲料后，就会导致动物免疫系统功能下降、荷尔蒙失调等非特异性症状。Myllykoski 等[19]对肉牛饲喂添加 3 种霉菌(镰刀菌属、青霉菌属和曲霉菌属)污染的饲料后，肉牛会出现空肠出血性综合征。
+
+通过乳制品和肉类，将毒素传递给人，是一种潜在的风险和危害。相对其他动物，反刍动物瘤胃微生物具有一定的霉菌毒素生物转化能力和抵抗能力。Mobashar 等[20]赭曲霉属产生的赭曲霉毒素A和青霉素对许多动物的肾脏有损害，而反刍动物可将其降解，使毒性减小。反刍动物瘤胃微生物也可降解部分玉米赤霉烯酮和单端孢霉烯毒素，但伏马菌素 $\mathbf { B } _ { 1 }$ 在瘤胃中代谢降解能力弱。然而，反刍动物在长期摄食以高比例青贮饲料为基础的饲粮中，瘤胃内环境酸化可能会增加动物对霉菌毒素的敏感性，可能降低微生物的解毒能力。酵母菌和霉菌可污染和降解青贮饲料，以及对动物和人类健康产生潜在的负面影响，因此，研究青贮过程中酵母菌、霉菌的抑制策略及其毒素的降解，在反刍动物饲料和营养领域中也不可忽视。
+
+# 2.2;细菌
+
+目前，从青贮饲料中发现的有害细菌与动物短期内发生疾病关系较大，而对青贮饲料的降解影响较小。人类或动物疾病的发病可能是由于细菌和宿主之间的直接作用(如生李斯特菌)或产生的有毒化合物(毒素或生物胺)。
+
+# 2.2.1;丁酸细菌
+
+青贮饲料中发现的丁酸菌是来自于青贮原料收集时将土壤细菌带入青贮窖，可在相对较低的pH环境中能够将乳酸转化为丁酸、氢和 $\mathrm { C O } _ { 2 }$ 。因此，丁酸菌广泛的生长可以诱导 pH的增加，促使不耐酸的腐败微生物生长。牧草和玉米青贮饲料是丁酸菌感染动物最重要的传播媒介。青贮饲料主要的丁酸菌属于梭菌属，尤其是2种丁酸梭菌（C.tyrobutyricum 和 $C .$ （204号butyricum）和芽孢杆菌（Bacilli），尤其是蜡样芽胞杆菌，这些菌种是青贮饲料中主要的腐败微生物[21]。
+
+# 2.2.2；肉毒杆菌
+
+众所周知，肉毒杆菌（Clostridiumbotulinum）能产生极其致病的毒素，可导致动物和人类的死亡。Lindstrom 等[22]报道投喂含有肉毒杆菌及毒素的不良青贮饲料，奶牛肠胃中会出现肉毒杆菌的繁殖生长和毒素的产生。因此，在青贮饲料中抑制肉毒杆菌的生长及其毒素的降解还有待进一步研究。
+
+# 2.2.3;李斯特菌
+
+李斯特菌在水、牧草、青贮饲料、有机质、土壤、粪便等环境中广泛存在。反刍动物感染该菌的主要来源是变质的青贮饲料，在青贮饲料或粪便中存在的李斯特菌，会增加其在牛奶中存在的风险，继而传播给人类。在牧草和玉米青贮饲料中发现了单核细胞增生李斯特菌（L.monocytogenes），当pH超过4.5时，会进一步增加李斯特菌存在的风险，全年饲喂青贮饲料的农场比不饲喂青贮饲料的农场，感染单核细胞增生李斯特菌几率高 3\~7 倍。Schocken-Iturrino 等[23]在巴西的一项研究中发现，开窖的青贮饲料中有 $6 5 . 6 \%$ 含有李斯特菌，其中 $10 \%$ 是单核细胞增生李斯特菌。青贮饲料中李斯特菌存活、生长和丰度取决于青贮的pH和厌氧程度。
+
+# 2.2.4;大肠杆菌
+
+反刍动物被认为是产志贺毒素大肠杆菌(STEC)的主要携带者，STEC 被公认为食源性致病菌，人类通过摄入受污染的食物或水，或通过直接接触受污染的动物或环境而感染。青贮饲料是反刍动物传播致病性大肠杆菌的载体，Cermicchiaro 等[24]报道在饲喂牛的玉米青贮中发现了患病率较高的大肠杆菌O157和大肠杆菌O157:H7。STEC 能在不良的青贮饲料的低 pH 和发酵环境中生存。在腐败的青贮饲料中检测出大量大肠杆菌，青贮厌氧时间不足可推迟乳酸发酵，延缓 pH 的降低，增加致病性大肠杆菌的存活。Duniere 等[25]研究发现，玉米青贮有氧曝气后，检测出 $1 0 ^ { 3 } \mathrm { C F U / g }$ STEC 和大肠杆菌O26。因此，青贮开窖时易受到STEC 的污染，应做好抑制措施。
+
+# 2.2.5;其他有害菌
+
+Reilly 等[26]表明，饲喂青贮玉米、青贮牧草饲料或糖蜜的牛更容易发生结核病(bTB)，bTB是由牛分枝杆菌（Mycobacterium bovis）引起的一种传染性疾病。Grant等[27]在发酵超过20个月的青贮饲料中检测到鼠疫耶尔森氏菌(Yersinia enterocolitica)，在 46 个青贮饲料中 $6 . 5 \%$ 呈阳性，病原体的存在与青贮的高pH等指标相关。Nam 等[28]研究发现，青贮饲料中偶尔会出现弯曲杆菌（Campylobacter sp.），也是一个重要的食源性病原体。沙门氏菌（Salmonella）是一种引起严重腹泻的病原菌，也是饲料中通常监测的卫生指标，但在青贮饲料中还没有相关报道。
+
+# 2.3;生物胺
+
+青贮饲料中的主要生物胺(BA)是腐胺、尸胺、酪胺，分别来自精氨酸、赖氨酸、酪氨酸，还含有少量的色胺、组胺、亚精胺和精胺。BA 是游离氨基酸或小肽等在微生物产生的氨基酸脱羧酶作用而形成的，氨基酸脱羧酶是由某些LAB，如乳杆菌属、明串珠菌属、肠球菌属和片球菌属和青贮饲料中出现的许多菌属，如梭菌属、芽孢杆菌属、克雷伯氏菌、大肠杆菌和铜绿假单胞菌所产生的酶。Steidlova等[29]调查和测定了 51个玉米青贮饲料中的BA，酪胺、腐胺、尸胺、亚精胺、组胺、精胺和色胺分别为145.0、136.0、96.2、37.9、3.0、2.8 和 $2 . 5 \mathrm { m g / k g }$ 。由于细菌蛋白水解的作用，青贮饲料BA与青贮饲料蛋白质的降解和营养价值的降低相关联。BA可导致反刍动物瘤胃代谢障碍、瘤胃酸中毒等健康问题。青贮饲料BA 的形成可能受到温度、青贮初期 pH的下降速度和氧气等因素的影响，但是这些因素对青贮饲料BA含量和组成的影响机
+
+制还有待进一步研究。
+
+3;抑制青贮有害微生物的策略
+
+至今，国内外没有办法来处理和改善变质后的青贮饲料，只能丢弃停止饲喂。青贮饲料发酵过程中存在的主要问题是使用质量差或不成熟的青绿饲料为原料，不能快速建立厌氧环境使青贮酸化，同时携带污染病原菌和腐败微生物。为了延长青贮饲料保质期、改善其营养价值和品质，在青贮饲料发酵过程中研究抑制有害微生物的策略和方法是非常有必要的。整个青贮过程从准备到开窖的有氧阶段，不同时期采取不同的预防性策略、防止病原体产生和青贮变质是可能的。
+
+# 3.1;减少收获时牧草病原体
+
+为了避免青贮降解，尽可能地防止病原体进入青贮饲料生态系统。Johansson 等[30]施肥4周后，收获牧草、收割距土壤适宜的高度避免土壤混入等措施，可减少青贮饲料中丁酸菌、李斯特菌、梭状芽孢杆菌和大肠杆菌。青贮原料的生长条件和收获期的选择也很重要，选择收获较晚，较高DM含量 $( > 5 0 \% )$ 的原料进行青贮，更易受自身产热的影响和真菌毒素的感染。另外，还应避免所使用的原料收割、青贮窖和工具机械等携带的病原体掺入青贮饲料。
+
+# 3.2;快速建立青贮厌氧环境
+
+快速建立厌氧环境，防止青贮产生污水，促进LAB的迅速生长和 $\mathsf { p H }$ 快速降低。青贮污水主要来自植物呼吸作用和有氧微生物的活动。污水的量取决于DM的含量、青贮窖的类型、原料紧实度、原料切碎长度和青贮添加剂的使用，污水会引起 DM、碳水化合物的损失，同时稀释青贮添加剂。因此，选择适宜DM含量 $( 3 0 \% \sim 4 0 \% )$ ，切碎长度 $( 2 \sim 6 \mathrm { c m } )$ ，紧实度 $( 6 0 0 ~ \mathrm { k g } / \mathrm { m } ^ { 3 } )$ )等的青贮原料，在青贮窖中快速建立厌氧环境制作青贮饲料，是避免产生青贮污水和保证青贮饲料营养品质的必要措施。
+
+# 3.3;建立酸化环境的措施
+
+酸化是青贮保存的主要作用，取决于厌氧促进LAB 发酵、缓冲能力和原料DM 含  
+量。青贮中掺入土壤会增加其缓冲能力，如果缓冲能力高，青贮开始时的好氧微生物  
+会较长时间存活，减少己糖和戊糖的含量，限制LAB 进一步发酵，进而出现梭状芽胞  
+杆菌的二次发酵，乳酸转化为丁酸，pH升高并进一步腐败。多年来，已有在青贮中添  
+加化学试剂、糖类和酶制剂等措施，来促进青贮饲料酸化，限制病原微生物的生长[31]。除了化学和酶制剂，微生物接种剂越来越多的应用于青贮保存，其添加的目的是  
+促进青贮期间有机酸的快速积累，从而减少发酵和DM的损失。附生LAB 或青贮添
+
+加剂产生的主要有机酸为乳酸，对 $\mathsf { p H }$ 下降有一定的促进作用。商品应用的微生物接种剂大多数是同型发酵乳酸菌剂，因为它们生产乳酸的效率高。最常见的是植物乳杆菌发酵菌剂。一般认为， $1 { \times } 1 0 ^ { 6 } \mathrm { C F U / g }$ 微生物接种剂足以压倒附生LAB成为青贮饲料的优势菌，其他常用的还有乳杆菌、片球菌、肠球菌。还有一类是异型发酵乳酸菌，其典型代表是布氏乳杆菌，它能产生高浓度的乙酸抑制青贮饲料中的真菌，使青贮饲料暴露于空气中时不易损坏，近年来逐渐被广泛应用。
+
+3.4;防止空气的进入，改善好氧稳定性
+
+为了获得良好品质的青贮饲料，从青贮窖原料的填充到贮藏期的密封保存，都必须避免污染源与空气进入到青贮饲料。目前，为了长时间密封贮藏，一般使用聚乙烯薄膜和两面黑白复合阻氧薄膜 $( 1 2 5 \mu \mathrm { m } )$ ，后者已被证明可以抑制青贮饲料腐败，减少DM损失。与聚乙烯薄膜相比，在青贮有氧暴露时，可延迟酵母菌和霉菌生长，也能抵抗鸟类和啮齿类动物的损伤和紫外线的照射。青贮过程是好氧和厌氧之间的竞争，当青贮发酵后开窖时，空气进入可使青贮饲料营养物质降解。因此，青贮窖的容量应根据动物的养殖规模和饲养需要来确定大小，确保每天的用量达到足够的深度，以尽量减少青贮饲料在空气中暴露，整齐的切割也可以限制空气渗透和有害菌的腐败。
+
+通过添加甲酸及其化合物和微生物接种剂可以增强有氧稳定性，而微生物接种剂被广泛用于开放式青贮窖来保持有氧稳定性。同型发酵接种剂被认为是青贮饲料的有效接种剂，但有些研究者认为，乳酸可作为乳酸同化酵母的基质，在厌氧生活不足时可导致青贮饲料腐败变质。异型质乳酸发酵是提高出窖时青贮饲料有氧稳定性的优选。许多研究表明，异型发酵接种剂—一布氏乳杆菌已被证明能增加有氧稳定性，减少的青贮发酵损失，其防腐作用是由于乙酸、丙酸浓度增加使青贮pH下降，以及正丙醇、乙酸丙酯和异丁醇等抗菌物质的增加，抑制或减少了酵母和霉菌的生长和生存[32]。
+
+# 3.5;直接抑制有害微生物
+
+为了保证青贮饲料的品质，通常向青贮饲料中添加抑制有害微生物的添加剂。亚硝酸钠和六亚甲基四胺混合，可有效地阻止梭状芽胞杆菌的生长，苯甲酸钠可限制酵母的生长。在青贮玉米中添加甲酸钙、苯甲酸钠和亚硝酸钠，可使玉米赤霉烯酮、脱氧雪腐镰刀菌烯醇、赭曲霉毒素、伏马菌素等浓度明显降低。
+
+微生物接种剂对青贮病原菌的生长具有一定的抑制作用。除了有机酸，青贮有益菌也生产其他具有抗菌潜力的物质，如过氧化氢 $\mathrm { ( H } _ { 2 } \mathrm { O } _ { 2 } )$ 、乙醇、酮、胞外多糖和抗菌肽。玉米还含有阿魏酸和香豆酸等酚类化合物，是植物存在的天然抗菌成分。更确切地说，酚类化合物已被明确证明抑制大肠杆菌O157:H7和大肠杆菌O111、李斯特菌、沙门氏菌和耶尔森氏鼠疫杆菌的生长。产阿魏酸酯酶的LAB代表了第3代青贮接种剂，主要是用来改善瘤胃纤维消化，还可以通过控制阿魏酸活性影响青贮饲料中抗菌效果[33。然而，目前青贮接种剂抗菌机制还未得到充分的关注和研究，乳酸菌属、乳球菌属、丙酸菌属和肠球菌等菌种都具有产酯酶的基因，对青贮病原菌可能有潜在的抗菌作用，其作用机制有待进一步研究。
+
+# 4;小结与展望
+
+近几年来，我国奶牛、肉牛、肉羊等大宗反刍动物生产的突飞猛进，均需要优质青贮饲料作为物质保障，然而，腐败微生物对青贮饲料具有严重的负面影响，可造成青贮饲料的腐败变质和经济的重大损失，制约了青贮饲料在反刍动物养殖中的广泛应用。我国对青贮饲料的研究起步较晚，特别是对青贮有害微生物控制的研究关注不够。为杜绝有害微生物通过青贮饲料载体和食物链传递给动物和人类，威胁动物和人类的健康，必须加强对青贮饲料中抑制有害微生物的发生，消除或减少其代谢毒素等方面的研究。我们需采用日益更新的生物技术，不断发掘青贮饲料资源中的新菌种，分离获得具有抑菌的优良微生物接种剂，为进一步改善青贮饲料品质和提高反刍动物的生产性能提供理论参考。
+
+# 参考文献：
+
+[1] GOLLOP N,ZAKIN V,WEINBERG Z G.Antibacterial activity of lactic acidbacteria included in inoculants for silage and in silages treated with these inoculants[J].Journal of Applied Microbiol0gy,2005,98(3):662-666.
+
+[2] FRIEDMAN N,SHRIKER E,GOLD B,et al.Diet-induced changes of redoxpotential underlie compositional shifts in the rumen archaeal community[J].Environmental Microbiology,2017,19(1):174-184.
+
+[3] STORM I ML D,KRISTENSEN N B,RAUN B M L,et al.Dynamics in the microbiology of maize silage during whole-season storage[J].Journal of Applied Microbiol0gy,2010,109(3):1017-1026.
+
+[4] POWELL JM,BARROS T,DANES M,et al.Nitrogen use eficiencies to grow,feed,and recycle manure from the major diet components fed to dairy cows in the USA[J].Agriculture Ecosystems & Environment,2017,239:274-282.
+
+[5] DRACKLEY J K,DONKIN S S,REYNOLDS C K.Major advances in fundamental dairy cattle nutrition[J].Journal of Dairy Science,2006,89(4):1324-1336.
+
+[6] OGUNADE I M,JIANG Y,KIM D H,et al.Fate of Escherichia coli O157:H7 andbacterial diversity in corn silage contaminated with the pathogen and treated withchemical or microbial additives[J].Journal of Dairy Science,2017,100(3):1780-1794.
+
+[7] WAMBACQ E,VANHOUTTEI,AUDENAERTK,etal.Occurrence,preventionand remediation of toxigenic fungi and mycotoxins in silage:a review[J].Journal Science Food Agriculture,2016,96(7):2284-2302.
+
+[8] WESTREICHER-KRISTEN E,BLANK R,SCHULZ F,et al.Replacing maize silage with red clover silage in total mixed rations for dairy cows:in vitro ruminal fermentation characteristics and associative effects[J].Animal Feed Science and Technol0gy,2017,227:131-141.
+
+[9] DUNIERE L,SINDOU J,CHAUCHEYRAS-DURAND F,et al.Silage processing and strategies toprevent persistence of undesirable microorganisms[J].Animal Feed Science and Technol0gy,2013,182(1/2/3/4):1-15.
+
+[10] JOZALA A F.Fermentation processes[M]//SILVA T C,SILVA L D,SANTOS E M,et al.Importance of the fermentation to produce high-quality silage.[S.1.]:InTech,2O17:31-94.
+
+[11] BAO W C,MI Z H,XU H Y,et al.Assessing quality of Medicago sativa silage by monitoring bacterial composition with single molecule,real-time sequencing technology and various physiological parameters[J].Scientific Reports,2016,6:28358.
+
+[12] DRIEHUIS F,OUDE ELFERINK S JW H.The impact of the quality of silage on animal health and food safety:a review[J].Veterinary Quarterly,20o0,22(4):212-216.
+
+[13] COURTIN M G,SPOELSTRA S F.A simulation model of the microbiological and chemical changes accompanying the initial stage of aerobic deterioration of silage[J].Grass and Forage Science,1990,45(2):153-165.
+
+[14] 陶雅,李峰,高凤芹,等.籽粒苋与青贮玉米混贮品质及微生物特性研究[J].草业学报，2016,25(12):119-129.
+
+15] ORSI R B,CORREA B,POSSI C R,et al.Mycoflora and occurrence of fumonisins in freshly harvested and stored hybrid maize[J].Journal of Stored Products Research,2OOo,36(1):75-87.
+
+[16] ROIGE M B,ARANGUREN S M,RICCIO M B,et al.Mycobiota and mycotoxins in fermented feed,wheatgrainsandcorngrainsinSoutheastern BuenosAires
+
+Province,Argentina[J].Revista Iberoamericana De Micologia,2009,26(4):233-237.
+
+[17] NIDERKORN V,MORGAVI D P,PUJOS E,et al.Screening of fermentative bacteria for their ability to bind and biotransformdeoxynivalenol,zearalenone and fumonisins in an in vitro simulated corn silage model[J].Food Additives and Contaminants,2007,24(4):406-415.
+
+[18] CAVALLARIN L,TABACCO E,ANTONIAZZI S,et al.Aflatoxin accumulation in whole crop maize silage as a result of aerobic exposure[J].Journal of the Science of Food and Agriculture,2011,91(13):2419-2425.   
+[19] MYLLYKOSKI J,LINDSTROM M,KETO-TIMONEN R.et al.Type C bovine botulism outbreakduetocarcasscontaminatednon-acidifiedsilage[J].Epidemiologyand Infection,2009,137(2):284-293.   
+[20] MOBASHAR M,HUMMEL J,BLANK R,et al.Ochratoxin A in ruminants-a review on its degradation by gut microbes and effects on animals[J].Toxins,2010,2(4):809-839.   
+[21] VISSERS M M M,TE GIFFEL M C,DRIEHUIS F,et al.Minimizing the level of Bacillus cereus spores in farm tank milk[J].Journal of Dairy Science,2007,90(7):3286-3293.   
+[22] LINDSTROM M,MYLLYKOSKI J,SIVELA S,et al.Clostridium botulinum in catte and dairy products[J].Critical Reviews in Food Science and Nutrition,2010,50(4):281-304.   
+[23] SCHOCKEN-ITURRINO R,REIS R,COAN R,et al.Chemical and microbiological changes of Tifton 85 grass silage after opening of the silos[J].Brazilian Journal of Veterinary Research and Animal Science,2005,38(2):464-471.   
+[24] CERNICCHIARO N,PEARL D L,GHIMIRE S,et al.Risk factors associated with Escherichia coliO157:H7inOntariobeefcow-calfoperations[J].PreventiveVeterinary Medicine,2009,92(1/2):106-115.   
+[25] DUNIERE L,GLEIZAL A,CHAUCHEYRAS-DURAND F,et al.Fate of Escherichia coli O26 in corn silage experimentally contaminated at ensiling,at opening or after aerobic exposure and protective effect of various bacterial inoculants[J].Applied and Environmental Microbiology,2011,77(24):8696-8704.   
+[26]REILLY L A,COURTENAY O.Husbandry practices,badger sett density and habitat composition as risk factors for transient and persistent bovine tuberculosis on UK cattle farms[J].Preventive Veterinary Medicine,2007,80(2/3):129-142.
+
+[27] GRANT M A,EKLUND C A,SHIELDS S C.Monitoring dairy silage for five bacterial groups with potential for human pathogenesis[J].Journal of Food Protection,1995,58(8):879-883.
+
+[28] NAM H M,SRINIVASAN V,MURINDA S E,et al.Detection of Campylobacter jejuni in dairy farmenvironmentalsamplesusingSYBR Greenreal-timepolymerase chain reaction[J].Foodborne Pathogens and Disease,2005,2(2):160-168.
+
+[29] STEIDLOVA S,KALAC P.Levels of biogenic amines in maize silages[J].Animal Feed Science and Technology,2003,102(1/2/3/4):197-205.
+
+[30] JOHANSSON M,EMMOTH E,SALOMONSSON A C,et al.Potential risks when spreading anaerobic digestion residues on grasssilage crops-survival of bacteria,mouldsand viruses[J].Grass and Forage Science,2005,60(2):175-185.
+
+31]王玉荣,陶莲,马涛,等.不同酶及组合处理对青贮水稻秸秆微观结构的影响[J].动物营养学报,2017,29(4):1401-1408.
+
+[32] GANDRA JR,OLIVEIRA E R,GANDRA E R,et al.Inoculation of Lactobacillus buchneri alone or with Bacillus subtilis and total losses,aerobic stability,and microbiological quality of sunflower silage[J].Journal of Applied Animal Research,2017,45(1):609-614.
+
+[33] LI D X,NI K K,PANG H L,et al.Identification and antimicrobial activity detection of lactic acid bacteria isolated from corn Stover silage[J].Asian-Australasian Journal of Animal Sciences,2015,28(5):620-631.
+
+Harmful Microorganisms in Silage and Their Suppression Measures ZHANG Shi;CHANG Jie;HU Zongfu;WANG Sizhen;NIU Huaxin\* (College of Animal Science and Technology, Inner Mongolia University for the Nationalities, Tongliao 028000, China)
+
+Abstract: In the fermentation and storage processes of silage,it is easy to be contaminated by harmful microorganisms and their metabolic toxins, which can reduce the quality of silage and the production performance of ruminants,and seriously endanger the health of animals and humans. This paper reviewed the types of harmful microorganisms in silage and the action mechanism of its metabolites aected the nutritive quality and oxygen stability of silage,and measures and methods for inhibiting harmful microbes during fermentation of silage，which was to provide theoretical basis for development of high quality additive,optimization of fermentation environment, inhabitation of growth of harmful microorganisms and improve the nutritional
+
+316 quality of silage.   
+317 Key words: silage; spoilage microorganism; pathogenic microorganism; suppression measure

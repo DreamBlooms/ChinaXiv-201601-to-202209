@@ -1,0 +1,506 @@
+[
+    {
+        "type": "text",
+        "text": "基于事务映射区间求交的高效频繁模式挖掘算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吴磊a，程良伦ä，王涛ʰ(广东工业大学a.计算机学院;b．自动化学院，广州510006)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：关联规则挖掘是数据挖掘重要研究课题，大数据处理对关联规则挖掘算法效率提出了更高要求，而关联规则挖掘的最耗时的步骤是频繁模式挖掘。针对当前频繁模式挖掘算法效率不高的问题，结合Apriori算法和FP-growth 算法，提出一种基于事务映射区间求交的频繁模式挖掘算法 IITM（interval interaction and transaction mapping），只需扫描数据集两次来生成FP树，然后扫描FP树将每个项的ID映射到区间中，通过区间求交来进行模式增长。该算法解决了Apriori算法需要多次扫描数据集，FP-growth 算法需要迭代地生成条件FP 树来进行模式增长而带来的效率下降的问题。在真实数据集上的实验显示，在不同的支持度下 IITM算法都要要优于 Apriori、FP-growth 以及PIETM算法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：数据挖掘；频繁模式；事务映射；区间求交中图分类号：TP301",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Efficient frequent pattern mining algorithm based on interval interaction and transaction mapping ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wu Leia, Cheng Liangluna, Wang Taob (a.Faculty ofComputer,b.FacultyofAutomation Guangdong Universityof Technology,Guangzhou 5106,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Association rules mining is an important research topic in data mining.Big data processng puts forward higher requirements fortheefficiencyofassociation rules mining algorithm,wherethe most timeconsuming step is frequentpatterm mining.Fortheproblemthatthestateofartfrequentpattrn miningalgorithmis notefficient,afrequentpaterminingalgorithm based on interval interactionand transaction mapping (IITM) is proposed,whichcombines Apriori algorithmandFP-growth algorithm.This algorithmjust needs toscanthe dataset twice to generatetheFPtree,and then scan theFPtreetomapthe IDof eachtransactiontotheinterval.It growthsthe frequent paternbyinterval interactionandsolves the problemthatthe Apriori algorithmneeds toscanthedatasetmultipletimes,theFP-growthalgorithmneeds toiterate togenerate theconditionalFPtree, whichreducethe eficiencyofthfrequentpattr mining.Experiments onrealdatasetshowthattheIITMalgorithmissuperior to Apriori,FP-growth,and PIETMalgorithms at different support. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: data mining; frequent pattern; interval interaction; transaction mapping ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关联规则挖掘是数据挖掘的一个重要的部分，它旨在从大规模数据当中挖掘出隐藏的关系并提供决策支持。关联规则挖掘最早是Agrawal在文献[1]中提出的，它使用关联规则挖掘来在商场购物篮数据当中提取出有用的信息，决策者根据这些信息来制定商场的销售策略。如今关联规则挖掘已经被应用到了各个领域如网站数据[2]、硬件系统监测[3]、车辆和通信数据[4]等。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着应用的逐渐扩展，关联规则挖掘面对的数据量越来越大，这就对关联规则挖掘算法的效率提出的更高的要求。影响关联规则挖掘效率的一个最重要的步骤是频繁模式挖掘，它的目的是发现数据当中多次出现在同一条记录当中的数据项。目前国内外已经有了很多关于频繁模式挖掘算法的研究，其中以Apriori 算法[1]和FP-Growth[5]算法最具代表性，其他的算法大多数是基于这两个算法改进的。其中Apriori算法通过频繁n-1项集来生成候选n项集，对于每个候选n项集，它都需要扫描整个数据集来获取它的支持度，从而判断该候选项集是否需要被剪枝，当数据量非常大的时候多次扫描数据集就导致该算法的效率低下。FP-Growth 算法则只需要扫描两次数据集来生成频繁模式树，然后通过迭代地生成条件模式树来生成频繁项集，当频繁模式树非常大的时候迭代生成条件模式树的开销会非常大。文献[6]提出了PIETM算法，它首先生成FP树，然后将FP树当中的各项投影到区间当中，使用类似Apriori算法的方法，用频繁n-1项集合并生成候选n项集，并且使用生成该n项集的两个n-1项集所对应的区间进行求并来生成n项集的区间集，接着使用容斥原理来获取候选项集的支持度。但是使用容斥原理需要获取候选项的所有的真子集，然后在支持度表当中获取它们的支持度。当候选项较长，频繁项的数量较多的时候该算法的消耗还是非常大。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文在PIETM算法的基础之上提出IITM（intervalinteractionand transactionmapping）算法，IITM算法参考PIETM算法的事务映射思想将 FP 树当中的项映射到区间当中，与PIETM算法不同的是IITM算法采用频繁n-1项集和频繁1项集结合的方式来生成候选n项集，并且使用求交而不是求并的方式来生成候选n项集的区间集，IITM算法能够直接从生成的候选项集的区间当中获取其支持度而不用通过容斥原理来获取。本文还根据IITM算法的特点设计了一种快速定位项集对应的区间集的存储结构，以及一种高效的区间求交的方法。本文在四个真实数据集上对 IITM,PIETM,FP-growth,Apriori 算法进行比较，IITM算法在不同的支持度下都要优于其他算法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关工作",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "国内外已经提出的很多频繁模式挖掘算法。Apriori算法首先扫描一次数据集来生成超过最小支持度的频繁1-项集。然后通过频繁1项集合并生成候选2-项集，为了验证候选2-项集的支持度是否超过最小支持度需要再次扫描数据集。Apriori的优点是实现简单，但是需要多次扫描数据集，因此有很多方法被提出来，来优化该算法。比如文献[7]当中提出的DHP算法来通过一个哈希表结构来加速候选项集的生成。但没能解决影响Apriori算法性能的根本问题，需要进行多次的数据集扫描。在文献[8]当中提出了一种Inter-Apriori算法，该算法对数据集当中的所有的事务进行编号，只需扫描一次数据集来得到各项频繁项集出现的事务的编号，此后无须再扫描数据集。由频繁n1-项集生成频繁n项集时只需合并对应的频繁n-1-项集的事务编号集合即可。但当数据集非常大的时候采用这种算法需要存储的编号过多，对内存的消耗特别大。在文献[9,10]在MapReduce 框架当中实现了Apriori的并行化算法，在处理海量数据时有一定优势，但仍然没有触动Apriori 算法的本质缺陷。文献[11]中提出了UT-Miner 算法，该算法主要针对稀疏数据，使用一种单元三元组的数组结构来存储数据集当中的项和事务的关系以提高挖掘效率。同时Apriori也扩展到了其他的场景如不确定数据集中的加权频繁模式挖掘[12]等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FP-Growth算法只需扫描两次数据集，第一次扫描获取频繁1-项集，第二次将每条事务中的非频繁项去掉，将剩下的项按支持度递减排序然后插入FP树当中。然后采用自底向上方式生成条件模式树来生成频繁项集，但是当数据集较大的时候，生成频繁模式树的消耗会非常大。因此有很多算法被提出来改进该算法，在文献[13]当中提出了IFP-Growth 算法,IFP-Growth提出一种新的树结构FP-tree+在FP-tree 上加上地址信息来降低生成的条件模式树的数量，从而加快了挖掘的率，但是该算法和FP-Growth算法相比需要存储更多的信息，因此需要消耗更多的内存。在文献[14]中提出了FP-Growth\\*算法，在该算法当中使用 FP 数组来存储模式信息来有效地消除非频繁模式从而提高挖掘效率，同样该算法在提高了效率的同时会加大内存的消耗。同时FP-Grwoth也被用于在其他的应用场景如最大频繁模式挖掘[15],增量频繁模式挖掘[16],最近加权频繁模式挖掘[17],不确定数据集上的频繁模式挖掘文献[18],Spark环境下的频繁模式挖掘[19]。上述基于Apriori 的改进算法大多继承了Apriori 算法需要多次扫描数据集的缺点，基于FP-Growth的改进算法大多需要在原始的 FP-tree 的基础上加上额外的存储信息需要消耗大量的内存。本文针对以上问题提出IITM算法，该算法只需扫描两次数据集来生成FP-tree,然后扫描FP-tree将事务的id映射到高度压缩的区间当中。接下来使用这些区间来生成候选项集的区间来获取支持度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 基本概念",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1问题定义",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "首先，对问题进行定义，频繁模式挖掘的定义如下：设$\\mathrm { I } { = } \\{ \\mathrm { i } _ { 1 } , \\mathrm { i } _ { 2 } , \\mathrm { i } _ { 3 } , . . . , \\mathrm { i } _ { \\mathrm { n } } \\}$ 代表项的集合，T为I中的项组成的集合，称T为一条事务。一个数据集D由一系列的事务组成，I的一个子集 $\\mathrm { { X } \\subseteq \\mathrm { { T } } }$ 称为一个项集，如果X当中包含k个项，那么称X为$\\mathbf { k } .$ -项集。一个项集的支持度表示为sup(X),它代表包含X的事务的数量占总事务数的百分比。用户指定一个最低的支持度minSup,频繁模式挖掘的目的是找出所有的 sup(X)≥minSup 的X。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 FP树 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FP 树是一种用来存储事务信息的紧凑的树型数据结构。构造FP树时首先需要扫描一次数据集来获取所有的1项集的支持度。接着第二次扫描数据集，将每条事务当中的非频繁项去掉，将剩下的项按支持度递减排序后插入FP树当中。初始时FP 树结构当中只有一个根节点root，将排序好的各事务依次插入到根节点下。设排序好的事务为T[p,P],其中p为事务当中的第一个项，P为余下的项,nodeP为存储项p的节点。插入函数为insert(T,Node),其中T为要插入的事务，node 为事务T要插入的节点。如果节点node有子节点nodeP则将nodeP的计数加1，如果Node 没有子节点nodeP则为node 新建一个子节点nodeP,将其计数信息设为1.如果P不为空则递归调用insert(P,p)如果P为空则FP树生成结束。使用表1当中的示例数据生成FP 树如图1。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/c8e79544d814f53198b3ce0d7c95b015f4c774db2dd0655691caf1e507cc83cd.jpg",
+        "table_caption": [
+            "表1示例数据"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>原始事 务</td><td>各项的支持度</td><td>去掉非频繁项按计数递减排 序</td></tr><tr><td>A,D,B</td><td></td><td>D,A,B</td></tr><tr><td>B,C,E</td><td></td><td>E,B</td></tr><tr><td>A,B,D</td><td>D:5E:4A:4B:3 C:2</td><td>D,A,B</td></tr><tr><td>A,C,D,E</td><td>G:1</td><td>D,A,E</td></tr><tr><td>A,D,E</td><td></td><td>D,A,E</td></tr><tr><td>D,E,G</td><td></td><td>D,E</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a990a5694130475c519b85296282d5e7098958bdee0547579cf863a804a66639.jpg",
+        "img_caption": [
+            "图1FP树的构造过程"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 IITM算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文提出新的IITM算法，该算法参考PIETM算法[中的事务映射技术，改进候选项集的生成、候选项集的支持度的获取的方式以及区间的存储结构。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1事务映射 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "IITM算法[使用事务映射技术，并对其结构进行改进以适应IITM算法的模式增长过程。事务映射将FP树当中的各个节点所在事务编号映射到区间当中，这样在进行模式增长时就不需要迭代生成条件模式树，而是直接使用对应的区间就能够获取候选项集的支持度信息。在FP树构造完成之后，遍历一次FP 树来生成区间信息，区间是一个存储整形数据的线性表结构，区间的结构为 $[ s , e ]$ 其中 $s$ 代表区间的开始编号， $e$ 代表区间的结束编号。每个节点的区间和节点的计数 $x$ 相联系,满足关系$\\scriptstyle x = s + e - 1$ 。IITM算法采用深度优先遍历FP树的方式来为每个节点生成区间，区间的生成过程满足以下条件：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)若节点为其父节点的第一个子节点，如果其父节点为根节点，那么该节点 $s { = } 1$ ，如果不为根节点，那么该节点 $s =$ father.s;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)若节点不是其父节点的第一个子节点，那么该节点$s { = }$ prevBrother.e $+ 1$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)对所有的节点 $\\scriptstyle \\mathtt { e = s + c o u n t - l }$ d)father.s $\\leqslant \\mathbf { s } \\leqslant \\mathbf { e } \\leqslant$ father.e; ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中:count代表节点的支持度计数，father代表当前节点的父节点，prevBroteher代表当前节点的上一个兄弟节点。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "名称相同的节点的区间储存到同一个区间列表当中，区间列表的结构为 $\\{ \\mathrm { s u p p o r t ; s _ { 1 } , e _ { 1 } ; s _ { 2 } , e _ { 2 } ; \\ldots ; s _ { n } , e _ { n } } \\}$ 其中 support 代表该区间列表集合对应的项集的支持度，其值满足 suppo $\\scriptstyle { \\mathrm { r t } } = { \\mathrm { e } } _ { 1 } - { \\mathrm { s } } _ { 1 } + 1 + { \\mathrm { e } } _ { 2 } -$ $\\mathbf { s } _ { 2 } { + } 1 { + } \\mathbf { . . . } { + } \\mathbf { e } _ { \\mathrm { n } } { - } \\mathbf { S } _ { \\mathrm { n } } { + } 1$ 。根据图1当中的FP树为每个节点生成的区间",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "及区间列表如图2、表2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "IITM算法需要多次查询已生成的频繁项集以及其对应的区间列表信息，因此将频繁项集和其对应的区间采用键值对<key,value>的形式来进行储存。其中key储存频繁项集，value储存其对应的区间。为了提高查询的效率，引入hash表结构（本文称该表为项集哈希索引表），根据频繁项集的hash值将这些键值对的结构存入项集哈希索引表索引的项集区间储存表当中，当需要查询某个频繁项集对应的区间列表的时候，首先根据频繁项集计算hash值，然后根据hash值去项集哈希索引表当中查询区间表的位置，最后去项集哈希索引表上找到相应的区间列表。又由于IITM算法使用频繁n-1项集和频繁1项集结合来生成候选n集，因此算法当中需要多次查询候选n-1项集，为了加快查询的速度将不同长度的候选项集及其对应的区间放入不同的hash 表当中，然后在一个线性表当中储存这些 hash表的引用。储存结构如图3所示，当数据集当中的频繁模式较多的时候，采用这种储存结构能够极大地加快搜索已经挖掘出的频繁模式的以及其对应的区间列表效率。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b424e7c0a2790b5d1a70ab4d5969fb714763294a588e0c24c817f135e9a245d9.jpg",
+        "img_caption": [
+            "图2FP树当中构造的区间的示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/2fade7d9a3e808af39f572d23294bc5dbad63bafb638742e52cc7f93cef591e8.jpg",
+        "table_caption": [
+            "表2根据图1中的FP树构造的区间列表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项名</td><td>区间计数</td><td>区间</td></tr><tr><td>D</td><td>5</td><td>[1,5]</td></tr><tr><td>E</td><td>4</td><td>[3,4][5,5],[6,6]</td></tr><tr><td>A</td><td>4</td><td>[1,4]</td></tr><tr><td>B</td><td>3</td><td>[1,2],[6,6]</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当生成频繁1项集的区间列表的时候，首先初始化频繁1项集的项集哈希索引表，然后在项集长度索引表当中的编号为1的位置生成对频繁1项集的项集哈希索引表的引用，接着扫描 FP树为每个节点生成区间，每生成一个区间，计算该节点对应项的hash值，根据该hash值查找到对应的区间储存表，查看表当中是否存在该项的区间记录，如果不存在，则为该项在区间索引表当中生成区间列表，并将该项的区间插入到区间表当中。如果存在则将该项的区间插入到已有的区间列表当中，因为采用的是深度优先遍历，所以后生成的同名项的区间 $_ { s , e }$ 的值总是要大于先生成的区间的 $^ { s , e }$ 值，因此插入时按下列的方式：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设已有的区间列表为{support;si,ei;S2,e2;;；Si-1,ei-1},待插入的区间为[si,ei],根据区间的生成规则可知 ${ \\bf s } _ { \\mathrm { i } } \\geqslant { \\bf e } _ { \\mathrm { i } - 1 }$ ，如果 $\\scriptstyle \\mathbf { s } _ { \\mathrm { i } } = \\mathbf { e } _ { \\mathrm { i - } 1 }$ 则插入后的区间列表为{support+ei-si+1;s1,e1；S2,e2;.;Si-1,ei},若$\\mathrm { \\bf s } _ { \\mathrm { i } } \\mathrm { > } \\mathrm { \\bf e } _ { \\mathrm { i - } 1 }$ 则插入后的区间列表为{support+ei $\\mathbf { \\sigma } \\cdot \\mathbf { s } _ { \\mathrm { i } } { + 1 }$ ;S1,e1;S2, e2；;.. ; Si-1,$| \\mathrm { e } _ { \\mathrm { i } - 1 } ; \\mathrm { s } _ { \\mathrm { i } } \\mathrm { e } _ { \\mathrm { i } } \\rangle$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据FP树生成区间的算法的伪代码如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "输入：FP树根节点root，区间初始值s，起始时传入的s值为1   \n输出：项集长度索引表ILIT   \ngenerateIntervals(root,s)   \nif root $\\scriptstyle = =$ null return ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "if ILIT $\\scriptstyle = =$ null ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "new ILIT//项集长度索引表不存在，新建一个  \nchilds $\\mathbf { \\tau } = \\mathbf { \\tau }$ root.childs;//获取root节点的子节点  \nfor node in childs//遍历所有孩子节点interval=(s, $^ { s + }$ node.count-1)//生成节点的区间save intervalinto ILIT//将区间保存到ILIT索引的指定的位置  \n的当中generateIntervals(node，s);//递归为子节点生成区间$\\textbf { \\textsf { S } } = \\textbf { \\textsf { S } } +$ node.count;//更新区间初始值",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/102c7e8880583592b948744ee8ff9c9006a692d694632bf21ae659e0175b3ad7.jpg",
+        "img_caption": [
+            "图3区间列表的存储结构图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 候选项集的生成",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "IITM算法采用区间来储存项集在数据集当中的分布信息，因此IITM 算法只能采用Apriori 类算法的方式来获取候选项集。Apriori 类算法获取候选项集的方式有大致两种，一种是使用两个频繁n-1-项集来生成候选n-项集，更具体地使用只有最后一项不相同的两个频繁n-1-项集来生成候选n项集。例如有频繁2-项集ab,ac,bc,ad;生成候选项集时使用ab和ac,ab和ad，ac和ad来生成，生成的候选3项集为abc.abd,acd;另一种是使用频繁n-1-项集和频繁1-项集合并来生成候选n项集，其中频繁1项集按照支持度递减的顺序排列，合并时使用频繁n-1-项集和支持度小于其最后一项的频繁1项集来生成候选 $\\mathbf { n }$ 项集，例如频繁1-项集为a,b,c,d频繁2-项集为ab,ac,bc,那么生成的候选3-项集为abc,abd,acd,bdc;前一种方法生成的候选项集的数量要少于后一种，但是大多数情况下频繁n-1-项集（ $\\mathrm { i n } \\geqslant 3$ ）要比频繁1-项集大得多，在频繁n-1-项集当中搜索出只有最后一项不相同的两个项集也是不小的一笔开销。对于一般的Apriori类算法，减少一个候选项集就意味着减少一次对整个数据集的扫描，当数据集相当大的时候候选项集生成带来的消耗也就微不足道了，因此前一种算法会更优。但是对于IITM算法，减少一个候选项只是意味着少做一个区间集的求交，这时候当频繁n-1-项集非常大的时候后一种方法的效率反而会更高。因此在",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "IITM算法当中使用后一种方法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3 区间求交 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "与PIETM算法不同IITM算法采用区间求交的方式来生成候选项集的区间。从3.1节中描述的区间的构造过程可以得知，区间存储的其实是包含其对应项集的事务的所有的编号的集合，在该集合当中连续的编号被压缩存储在区间结构当中。需要求取的项集的支持度即是该区间集当中的事务编号的个数，所以一旦获取到区间集就能够获取到其对应的项集的支持度。在IITM算法通过频繁n-1项集和频繁1项集来生成候选n-项集（ $\\mathrm { i } \\mathbf { \\cdot } \\mathbf { \\geqslant } 2$ ）。设有频繁n-1-项集A,频繁1-项集B，它们合并生成的候选 $\\mathbf { n }$ -项集为C。C对应的区间即同时包含A中所有的项和B 中所有的项的事务编号的集合，即A对应的区间和B对应的区间的交集。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "设 $\\{ \\mathrm { A } \\} = \\left\\{ \\begin{array} { r l } \\end{array} \\right.$ (supportA,[a1-start,a1-end],[a2-start,a2-end].. [an-start,an-end]}为A对应的区间集, $\\{ { \\bf B } \\} =$ {supportB,[b1-start,b1-end][b2-start,b-。 $\\scriptstyle \\mathrm { n d } \\ ] \\ldots [ { \\mathsf { b } } _ { \\mathrm { m - s t a r t } } , { \\mathsf { b } } _ { \\mathrm { m - e n d } } ] \\}$ 为B对应的区间集通过分析发现区间求交的过程中当对区间集 $\\{ \\mathrm { A } \\} , \\{ \\mathrm { B } \\}$ 求交时，没有必要将{A}当中每个区间都去和{B}当中每个区间都去求交，因为{A},{B}当中的区间都是递增的，当满足一定条件时其实就可以判断{B}当中的剩余的区间中没有和该{A}区间有交集的区间,就可以避免很多次没有必要的求交操作。当使用{A}当中的一个区间 $\\mathbf { A } _ { \\mathrm { i } } { = } [ \\mathbf { a } _ { \\mathrm { i - s t a r t } } , \\mathbf { a } _ { \\mathrm { i } } .$ （20end]去和 $\\{ { \\mathrm { B } } \\}$ 当中的一个区间 $\\mathtt { B _ { j } = [ b _ { j - s t a r t } , b _ { j - e n d } ] }$ 求交时的方法如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "若 $_ \\mathrm { a _ { i - s t a r t } > b _ { j - e n d } , A _ { i } } .$ Bj没有交集，使用 $\\mathbf { A } _ { \\mathrm { i } }$ 去和 $\\mathbf { B } _ { \\mathrm { j } }$ 的下一个区间 $\\mathbf { B } \\mathrm { j } { + } 1$ 进行求交,并记录 $\\{ \\mathrm { A } \\}$ 的下一个区间和{B}进行求交的起始位置next=j $+ 1$ 。若 $\\mathbf { a } _ { \\mathrm { i - e n d } } { < } \\mathbf { b } _ { \\mathrm { j - s t a r t } }$ ， $\\{ { \\mathrm { B } } \\}$ 中剩下的区间都比 $\\mathbf { a } _ { \\mathrm { i - e n d } }$ 大，$\\mathbf { A } _ { \\mathrm { i } }$ 的求交过程完成，使用 $\\{ \\mathrm { A } \\}$ 当中的下一个区间 $\\mathrm { \\bf A } _ { \\mathrm { i + l } } = [ \\mathrm { \\bf a } _ { ( \\mathrm { i + l } ) } .$ （204$\\mathrm { s t a r t } , \\mathbf { a } ( \\mathrm { i } { + } 1 ) { \\mathrm { - } } \\mathrm { e n d } \\mathbf { } ]$ 来和{B}求交,并且可以跳过{B}当中的前面的区间，直接从 $\\mathtt { B } _ { \\mathtt { n e x t } = [ \\mathtt { b } _ { \\mathtt { n e x t - s t a r t } } , \\mathtt { b } _ { \\mathtt { n e x t - e n d } } ] }$ 这个区间开始求交，因为 $\\mathrm { \\mathbf { a } _ { i - s t a r t } { > } \\mathbf { b } _ { j } . }$ （2end,a(i+1)-start>ai-end≥ai-start,所以 $\\mathrm { \\sf a _ { ( i + 1 ) - s t a r t } > b _ { j - e n d } } .$ 因为 $\\{ { \\mathrm { B } } \\}$ 当中区间是递增的所以 $\\mathbf { B } _ { \\mathrm { j } }$ 区间以及其前面的区间都小于 $\\mathbf { a } _ { ( \\mathrm { i + l } ) \\cdot \\mathrm { s t a r t } } .$ 因此不可能和区间 $\\mathbf { A } _ { \\mathrm { i + 1 } }$ 有交集，则可以直接从 $\\scriptstyle \\mathbf { B } _ { \\mathrm { j + 1 } } = [ \\mathbf { b } _ { ( \\mathrm { j + 1 } ) \\cdot \\mathrm { s t a r t } } , \\mathbf { b } _ { ( \\mathrm { j + 1 } ) \\cdot \\mathrm { e n d } } ]$ 即$\\mathbf { B } _ { \\mathrm { n e x t } }$ 开始求交。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "区间集生成之后查找4.1当中介绍的项集长度索引表判断该长度的项集的项集哈希索引表是否已经生成，如果没有生成则为该长度的项集生成项集哈希索引表，并且将生成的区间集插入到哈希索引表指定的项集区间储存表当中，如果存在则直接插入。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "区间求交的核心思想伪代码如下：  \n输入：待求交的两个区间集a,b  \n输出：两个区间求交得到的区间  \nmerageIntervals（a,b)mergeList $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ {support $\\scriptstyle = \\theta$ ;}//初始化合并结果区间列表next $^ { = 1 }$ ,i=1fora[i] $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ （ $\\mathsf { a } _ { \\mathrm { i } }$ -start,ai-end）ina//从第一个区间开始遍历a 的每  \n个区间for b[j=next] $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ （ ${ \\mathsf { b } } _ { \\mathrm { j } }$ -start, ${ \\mathsf { b } } _ { \\mathrm { j } }$ -end）inb//从第next个区间开始  \n遍历b的每个区间$\\scriptstyle \\mathbf { i } + ( \\mathsf { a } _ { \\mathrm { i } - s \\tan } ) > \\mathsf { b } _ { \\mathrm { j } - \\mathsf { e n d } } )$ next $\\mathit { \\Theta } = \\left. \\mathrm { j } { + } 1 / \\mathit { I } \\right. $ 更新next值continue;else if( $a _ { \\mathrm { i - e n d } } < b _ { \\mathrm { j } }$ -start)break;//使用a 当中的下一个区间和b直接从第b 中的第  \nnext个区间开始求交intersection a[i] and b[j] save into mergList//将区  \n间a[i]和b[j]求交并将结果保存的mergList当中update support in mergList //更新支持度计数outputmergeList//输出区间集求交结果",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "集，对每个频繁2-项集每个项，将它分别与频繁1-项集中排在该2-项集的最后一个项后面的项相结合来生成候选3-项集。使用同样的方法来使用频繁 $\\mathbf { k }$ -项集来生成频繁 $k { + } 1$ -项集直到不再能产生频繁项为止。使用表2当中的频繁1项集生成的候选2-项集如表3所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4IITM算法的总结 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/51f67ddee5c3cc99ce81df38ab444ee1f76ad0885c9e9fe929fb000f2e572fe5.jpg",
+        "img_caption": [
+            "图4IITM算法的流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "IITM算法流程如图4所示，首先使用2.2节中的方法生成FP 树，然后使用3.1节中的方法将FP树当中的各个项映射到区间当中。接着使用生成FP树时得到的频繁1项集来进行模式增长。首先对频繁1-项集按支持度递减排序,然后遍历频繁1-项集，使用每个项和排在它后面的项进行结合生成候选2-项集，接着使用这两个项对应的区间进行求交生成候选2-项集的区间并且得到候选2-项集的支持度来判断该候选2-项集是否需要被剪枝。频繁2-项集生成后，使用频繁2-项集和频繁1-项集合并来生成频繁3-项集，与生成频繁2-项集时类似，遍历频繁2-项",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/ba7a5553b90b99668cb092cf22aa496d910cd65d9d57754d300b0411545760ca.jpg",
+        "table_caption": [
+            "表3根据表2当中的频繁1项集生成的候选2-项集及区间"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项名</td><td>支持度</td><td>区间</td></tr><tr><td>DE</td><td>3</td><td>[3,5]</td></tr><tr><td>DA</td><td>4</td><td>[1,4]</td></tr><tr><td>DB</td><td>2</td><td>[1,2]</td></tr><tr><td>EA</td><td>2</td><td>[3,4]</td></tr><tr><td>EB</td><td>1</td><td>[6,6]</td></tr><tr><td>AB</td><td>2</td><td>[1,2]</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 实验以及结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1实验数据集",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文采用四个真实数据集来进行实验，实验数据集的基本信息如表4所示",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/97af0bdf57313857c75fe73b58c4bb5b0936995ee14cfafaf6df819f25e19c95.jpg",
+        "table_caption": [
+            "表4实验数据集信息"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>数据集名称</td><td>事务数量</td><td>事务长度</td><td>密集程度</td></tr><tr><td>Mushroom</td><td>8124</td><td>22</td><td>较密集</td></tr><tr><td>Connect</td><td>67557</td><td>42</td><td>稀疏</td></tr><tr><td>Chess</td><td>3196</td><td>37</td><td>密集</td></tr><tr><td>Retail</td><td>88162</td><td>非定长</td><td>稀疏</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Mushroom 数据集能够从UCI机器学习仓库当中获得（http://archive.ics.uci.edu/ml/），Mushroom数据集当中不同属性的值在数据集当中显示的标示可能是一样的，因此本文在开始实验之前本文为数据集当中的每个项加上它对应的属性标号。例如对于一条数据：p,x,s,n,t,p,f,c,n,k,e,e,s,s,w,w,p,W,o,p,k,s,u本文为它加上属性编号之后为 $^ { 1 \\mathrm { p } , 2 \\mathrm { x } , 3 \\mathrm { s } , 4 \\mathrm { n } }$ ，5t，6p,7f,8c,9n,10k,11e,12e,13s,14s,15w,16w,17p,18w,19o,20p,21k,22s,23u.Connect,Chess,Retail数据集可以从（http://fimi.ua.ac.be/data/）中获取,直接使用数据来进行实验。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2实验环境",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "实验当中的算法都使用Java 在eclipse 当中实验。实验的硬件环境为2.4GHzCPU,4GB 运行内存。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3实验结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文实现了Apriori,FP-Growth,PIETM,以及IITM算法。在Mushroom数据集上在支持度为 $10 \\%$ ， $1 5 \\%$ ， $20 \\%$ ， $2 5 \\%$ ， $30 \\%$ $3 5 \\%$ ， $40 \\%$ 时获取PIETM和IITM算法的运行时间，其中因为Apriori算法在支持度较低的情况下执行效率较低，因此仅仅在$2 5 \\%$ 到 $40 \\%$ 的支持度进行了实验。由于算法的执行时间随支持度变化较大,因此将执行时间采用对数坐标。实验结果如图5所示，从实验结果当中可以看出FP-Growth、PIETM和IITM算法要明显优于Aproiri 算法。当支持度小于 $2 5 \\%$ 的时候从图中可以看出IITM 算法的执行时间要明显优于PIETM 和 FP-Growth。支持度较高时两种算法差别不明显，因此补充了在较高支持度下Mushroom数据集上两种算法的比较。实验的支持度范围在 $30 \\% { \\sim } 4 0 \\%$ ，每隔 $2 \\%$ 设置一个实验点。在支持度较高时算法的运行时间较短容易受偶然因素的影响，因此本文每个点的实验共进行5次，然后5次实验得到的结果取平均值来作为该点的实验结果。各点的实验结果如图6所示，从图中可以看出，当支持度较高时，IITM算法也会优于PIETM算法以及FP-Growth 算法。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于Connect数据集的数据量较大，本文只做了支持度较高环境下的实验。因为Aproiri算法的效率过低，只用PIETM和IITM以及FP-Growth算法来来进行比较，本文获取了支持度为 $80 \\%$ 、 $8 5 \\%$ 、 $90 \\%$ 、 $9 5 \\%$ 时这两个算法运行时间。具体的实验结果如图7所示，从图中可以看出IITM的运行时间要优于PIETM 和 FP-growth。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Chess 数据集数据分布密集，本文只在较高支持度上对PIETM和IITM以及FP-Growth算法进行了实验对比，Retail数据集是高度稀疏的数据集，本文在低支持度下对三种算法进行了实验对比，实验结果表明在两个数据集上，不同支持度下IITM 算法都要优于另外两个算法。具体实验结果分别如图8、9所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文提出了频繁模式挖掘算法IITM,该算法是在PIETM算法的基础之上进行改进的。该算法参考PIETM算法的事务映射思想将FP树当中的各个项映射到区间当中，并提出一种新的区间集存储结构来提高区间集的查找效率，同时该算法提出了一种新的候选项集的区间集以及其支持度的获取方式：通过求交获取候选项集的区间集，从区间集直接获取候选项支持度。该方式要比PIETM算法当中的通过求并获取候选项集的区间集而后通过容斥原理获取其支持度的效率要高。IITM算法还提出了一种快速的区间集求交方法来减少区间集求交过程当中的冗余操作，进一步提高了效率。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文在多个数据集上对Apriori、FP-Growth、PIETM、IITM四个算法进行了比较，实验结果表明在不同的支持度下IITM算法的效率都要高于Apriori、FP-Growth以及PIETM算法。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "下一步的工作包括研究该算法的并行化实现，扩展到Hadoop、Spark 等大数据处理平台中。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/acedce13a678beb2c18212696bf77316baff89083c5485d56a679ea803311284.jpg",
+        "img_caption": [
+            "图5Mushroom数据集上的实验结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/28354ab40c5216ed27eb10a4f849df69ee9b14759186ac0b2e72c4af40ff95f2.jpg",
+        "img_caption": [
+            "图6Mushroom数据集上高支持度的实验结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/178e4290ef1d277214216eb288390e4cf7d0c4d28983a3e552e78a122ed5f129.jpg",
+        "img_caption": [
+            "图7Connect数据集上的实验结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a1bcfd17e4b452826d7e300fdb5257d8f61170094f05abae8639c2ff627bafd8.jpg",
+        "img_caption": [
+            "图8Chess 数据集上的实验结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/71948e5c37b42529dd676a56582a34d755b7470e2dbea57416fb08d4d157ad0a.jpg",
+        "img_caption": [
+            "图9Retail数据集上的实验结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Agrawal R, Imielinski T, Swami A.Mining association rules between sets of items in large databases [C]//Proc of ACM SIGMOD International Conference on Management of Data.New York:ACMPress,1993:207-216.   \n[2]Lee G, Yun U,Ryu KH. Sliding window based weighted maximal frequent pattern mining over data streams [J].Expert Systems with Applications, 2014,41(2):694-708.   \n[3] Zou J,Xiao J,Hou R,et al.Frequent instruction sequential pattern mining in hardware sample data [C]//Proc of IEEE International Conference on Data Mining.2010:1205-1210.   \n[4]Chen YC,Peng WC,Lee S Y.CEMiner: an efficient algorithm for mining closed patterns from time interval-based data [C]//Proc of International Conference on Data Mining.Washington DC:IEEE Computer Society,2011: 121-130.   \n[5]Han J,Jian P,Yin Y,et al.Mining frequent patterns without candidate generation: a frequent-pattern tree approach [J]. Data Mining & Knowledge Discovery,2004,8(1): 53-87.   \n[6]Lin K C,Liao IE,Chang TP,et al.A frequent itemset mining algorithm based on the principle of inclusion-exclusion and transaction mapping [J]. Information Sciences,2014,276 (C): 278-289.   \n[7]Park JS,Chen M S, Yu P S. Using a hash-based method with transaction trimming for mining association rules [J]. IEEE Trans on Knowledge & Data Engineering,1997,9 (5): 813-825.   \n[8] 刘步中．基于频繁项集挖掘算法的改进与研究[J].计算机应用研究, 2012,29 (2): 475-477.   \n[9]LiN, Zeng L,He Q,etal.Parallel implementation ofapriori algorithm based onMapReduce [C]//Proc of International Conference on Software Engineering,Artificial Intelligence,Networkingand Parallel&Distributed Computing. 2012: 236-241.   \n[10]Rathee S,Kaul M,Kashyap A.R-Apriori: an efficient apriori based algorithm on Spark [Cl// Proc of Ph.d.Workshop in Information and Knowledge Management. 2015: 27-34.   \n[11] Ye FY,Wang JD,Shao BL.New algorithm for mining frequent itemsets in sparse database [C]//Proc of International Conference on Machine Learning and Cybermetics. 2005: 1554-1558.   \n[12]Lin C W, Gan W,Fournier-Viger P, et al. Weighted frequent itemset mining over uncertain databases [J].Applied Intelligence,2016,44(1):1-19.   \n[13] Lin K C,Liao IE, Chen Z S.An improved frequent pattern growth method for mining association rules [J]. Expert Systems with Applications,2011,38 (5): 5154-5161.   \n[14] Grahne G, Zhu J.Fast algorithms for frequent itemset mining using FP-trees [J]. IEEE Trans on Knowledge & Data Enginering,2005,17(10): 1347- 1362.   \n[15]杨鹏坤，彭慧，周晓锋，等．改进的基于频繁模式树的最大频繁项集挖 掘算法 FP-MFIA[J].计算机应用,2015,35(3):775-778.   \n[16] Song YG,Cui HM,Feng XB.Parallel incremental frequent itemset mining for large data[J].JournalofComputer Science & Technology,2Ol7,32 (2): 368-385   \n[17]Lin C W,Gan W,Fournier-Viger P,et al.Eficientalgorithms for mining recent weighted frequent itemsets in temporal transactional databases [Cl]/ Proc of ACM Symposium on Applied Computing.2016: 861-866.   \n[18]Lin C W,Gan W,Fournier-Viger P,et al.Efficient Mining of Weighted Frequent Itemsets in Uncertain Databases [M]// Machine Learning and Data Mining in Pattern Recognition.[S.1.] $\\because$ Springer InternationalPublishing, 2016.   \n[19]曹博，倪建成，李淋淋，等．基于 Spark 的并行频繁模式挖掘算法[J]. 计算机工程与应用,2016,52(20):86-91. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

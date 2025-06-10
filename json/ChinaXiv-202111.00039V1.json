@@ -1,0 +1,245 @@
+[
+    {
+        "type": "text",
+        "text": "基于粒子群算法的大口径高精度射电望远镜旋转编码器快速校准方法研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "侯晓拯¹，许谦\\*1,2.3，梁娟1,4，易乐天¹，薛飞¹，王惠1(1．中国科学院新疆天文台，乌鲁木齐830011；2.中国科学院射电天文台重点实验室，乌鲁木齐 830011；3．新疆射电天体物理实验室，乌鲁木齐 830011；4．中国科学院大学，北京",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "100049) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为解决旋转编码器在大口径高精度射电望远镜使用中，对安装工艺要求极高，需要专用设备校准，且安装后需要通过一段时间的运行，建立误差修正模型进一步提升编码器精度的问题，开展了编码器快速校准方法研究。提出了一种基于粒子群算法(PSO)的旋转编码器快速校准方法。根据伺服电机恒转速运行时，角位移变化率为常量的原理，通过编码器采样数据与伺服电机恒转速参考值对比后获得编码器安装误差。利用PSO算法快速拟合误差，从而校准编码器。通过构建编码器校准方法验证平台实测，此方法可将有较高安装误差的高分辨率旋转编码器实际测量准确度恢复3\\~4位，为大口径射电望远镜编码器定期精度监测与修正提供一种简易方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：射电望远镜，编码器，校准，粒子群算法 (PSO)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：P111.44 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "大口径射电望远镜在高频天文观测中，对天线盲指精度与跟踪精度要求极高，一般而言射电望远镜指向精度要求为最高观测频率半功率宽度(Half Power Beam Width,HPBW)的 $1 0 \\% ^ { [ 1 ] }$ 。以美国国立射电天文台的GBT(Green Bank Telescope)天线为例，其指向精度最高可达到 $3 ^ { \\prime \\prime }$ ，跟踪精度最高可达 $1 . 3 { ^ { \\prime \\prime } }$ [2]。我国即将建设的新疆 $1 1 0 \\mathrm { ~ m ~ }$ 口径全可动射电望远镜(QiTai RadioTelescope,QTT)[3，其最高观测频率为 $1 1 5 \\ \\mathrm { { G H z } } .$ ，预期最高设计指向精度优于 $2 . 5 ^ { \\prime \\prime }$ ，跟踪精度优于 $1 . 5 ^ { \\prime \\prime }$ 。旋转编码器结构简单，精度高，体积小，重量轻，抗干扰能力强，常作为天线伺服控制系统的主要传感器，被用作角位移的高精度测量[4-5]。然而在真实工况中，编码器在天线轴系中的最终使用精度，除了会受到编码器自身光机电部件的影响，还会受到天线传动轴在运行过程中的磨损、天线结构受环境影响自身变化、内外部扰动等影响，因此为了保障天线编码器的读数为真实角度信息，较为理想的是定期对编码器及其对应的轴系进行综合校准。在实际天文观测中，对于天线的观测误差，会使用基于标准源观测数据的整体校准[]，以短时提高观测精度。而针对长期观测精度的提高，则需要分析扰动与误差来源，从而进行校准与补偿。在大口径高精度射电望远镜天线实际使用中，编码器精度将显著影响伺服控制系统性能，进而影响天线指向精度[3]。一般而言，影响编码器测量精度的主要误差来源有码盘制造误差、细分误差、偏心误差、安装倾斜误差等[7-8]。为了减小编码器在天线上的实际使用误差，对编码器的连接方式，安装工艺都有很高的要求[9-10]。而针对编码器误差的校准，较高精度的校准方法有示波器校准、多面棱体校准、多齿分度台校准、高精度转台校、建模校准[11-2]，用更高精度的编码器校准等[13-14]。然而，对于高精度编码器的校准，大多需要额外配置校准设备。以大口径高精度射电望远镜为例，编码器的安装主要在望远镜的装调阶段，需要复杂的工装以及校准设备，且在望远镜运行初期还无法达到最优编码精度，需要在望远镜实际观测中，进一步建立环境载荷对编码器影响模型并进行修正，从而最终实现编码器精度。装调工作复杂易受环境影响，且需要一段时间的修正才能达到编码器最佳效果。在望远镜进入正式观测后除非编码器故障，否则并不能随时知道编码器的综合使用精度，尤其在进行高频段观测时，编码器微小的精度损失将导致天线指向发生偏差。考虑到望远镜指向性能是一个综合效果，影响其变化的因素较多，很难短时间判断编码器的影响。另外在一些对编码器的周期性校准有很高时效性的场合[15-16]，受制于服役望远镜的停机时长限制、现场条件、校准条件、成本、部署时效等问题，无法实施高标准的安装工艺，传统高精度校准方法的使用也将受到限制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对以上问题，本文提出一种利用伺服电机定速旋转，校准编码器安装误差的方法，无须额外配置校准设备即可获取编码器误差，该校准方法不是单纯针对编码器本身，而是结合编码器、天线轴系以及编码器的工作环境综合进行校准。使用粒子群算法，基于群体中个体之间的信息传递及信息共享快速寻找最优解[17]，快速拟合误差曲线进而修正编码器的安装误差。此方法在可在条件受限情况下降低编码器安装精度要求，在天线的长期运行中定期识别编码器的精度情况，为天线指向精度的提升以及编码器系统的定期维护提供一种简易可靠的方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 校准方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "旋转编码器作为一种角位移传感器，在理想状态下，与负载轴做刚性接，同轴、正交、同步旋转。当负载轴匀速旋转，理想编码器的采样值应斜率不变。而实际使用中，由于安装误差或内外部扰动等原因，理想状态无法实现。编码器的测量值将围绕匀速旋转的负载真实角位移波动，根据这一原理，可以校准编码器，消除安装误差。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当负载轴匀速旋转时，使用编码器持续采样。之后根据采样的首尾值，做斜率固定的匀速旋转参考线。将参考线与编码器采样值相减后，可获得重复出现的波动误差。受限于负载轴匀速旋转的稳定性，误差可能出现低频的慢变漂移，可通过去趋势算法消除慢变。最后，根据波动误差的周期性特点，选取多阶正弦函数拟合误差。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "拟合函数的参数，可通过粒子群算(PSO)法快速计算得出。该算法通过初始化一群随机粒子，迭代找到最优解。在每一次迭代中，粒子通过跟踪2个\"极值\"来更新，pbest为单个粒子本身找到的最优解，称为个体极值；gbest为整个种群找到的最优解，称为全局极值。粒子仅具有两个属性：速度和位置。每个粒子在搜索空间中单独的搜寻最优解，并将其记为当前个体极值，并将个体极值与整个粒子群里的其他粒子共享，找到最优个体极值作为整个粒子群的当前全局最优解，粒子群中的所有粒子根据当前个体极值和整个粒子群共享的当前全局最优解来调整自己的速度和位置。粒子群各粒子的迭代公式如式(1-2)所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { v _ { i + 1 } = v _ { i } + c _ { 1 } \\times \\varepsilon \\times ( p b e s t - x _ { i } ) + v _ { i } + c _ { 2 } \\times \\varepsilon \\times ( g b e s t - x _ { i } ) } \\\\ & { x _ { i + 1 } = x _ { i } + v _ { i } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\nu$ 是粒子速度， $\\varepsilon$ 是随机数， $x$ 是粒子位置， $\\boldsymbol { c }$ 是迭代率，pbest为个体极值，gbest为全局极值，以上变量中的“速度”，“位置”不具备实际量纲。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "校准后的编码器，将实际采样值作为输入，将采样值与拟合函数逐点相减后的校准值作为输出实现时时校准。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 校准平台",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了验证校准方法构建了编码器校准平台，如图1所示。该平台模拟真实天线的俯仰轴系统，由旋转编码器，波纹管联轴器，负载轴组成。负载轴一端连接编码器，另一端连接伺服电机。编码器为绝对式编码器，量程0\\~360度，精度为16位。编码器的安装仅通过目测与手动对齐，具有较大的安装误差，同轴度与正交度较差。编码器通过柔性波纹管与负载轴连结，确保其与负载轴同步旋转。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8ec741e022d4c31143fbdfec4a5e49dbecb54c145df10d4bf4437a59e76b2efc.jpg",
+        "img_caption": [
+            "图1编码器运行环境 Fig.1 Encoder operating environment "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 校准实验",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了验证校准方法的有效性设计了校准实验。控制编码器校准平台中的伺服电机匀速转动并通过旋转编码器采样。根据采样值，设置斜率相同的匀速参考曲线，以5rpm 的转速，旋转8圈，获得如图2所示参考曲线。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 MWWWW  \n2001  \n采样点（个）  \n编码器采样数据 匀速参考数据",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于编码器与负载轴实际存在安装误差，其采样必然出现周期性波动。将采样点与匀速参考点相减获得波动的编码器误差，并将其绘制在横轴为0\\~360度，纵轴为误差幅值的坐标系下，获得如图3的中蓝色离散点所示的误差。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/897e7d00a0be8541885bd10556da550b4bd602f667eac4c993c4a6b74a5de6ba.jpg",
+        "img_caption": [
+            "图2采样数据与参考曲线 Fig.2 Sampling and reference curves ",
+            "图3编码器误差Fig.3Encoder error"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "最后，根据误差特点，选择正弦函数对其拟合。通过观察误差分布曲线，可以得出该误差分布与正弦曲线类似，故选取二阶正弦曲线，结合粒子群算法进行拟合，如式(3)所示，",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { y } { = } \\mathrm { a } 1 ^ { * } \\mathrm { s i n } ( \\mathrm { a } 2 ^ { * } \\mathrm { x } { + } \\mathrm { a } 3 ) { + } \\mathrm { a } 4 ^ { * } \\mathrm { s i n } ( \\mathrm { a } 5 ^ { * } \\mathrm { x } { - } \\mathrm { a } 6 )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式(3)中，al\\~a6 为待拟合的变量，将变量带入公式(1)与公式(2)，迭代求解拟合值y与实际传感器差值的最小值。当gbest 迭代结果稳定后，拟合结果如(4)式所示，拟合后的编码器误差",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图3中黑色曲线所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { y } { = } 0 . 6 ^ { * } \\mathrm { s i n } ( 0 . 0 2 ^ { * } \\mathrm { x } { + } 0 . 2 4 ) { + } 0 . 1 2 ^ { * } \\mathrm { s i n } ( 0 . 0 3 6 ^ { * } \\mathrm { x } { - } 2 . 7 8 )$ $\\mathbf { x }$ 为编码器读数，y为校准值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用式(3)作为校准函数，对编码器进行实时校准采样，获得如图4所示曲线。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c7f8d1d70cb49d7900dc586178b2c7dc994f1f74cc61fed3cc364f1b9575d2d.jpg",
+        "img_caption": [
+            "图4校准后残差 Fig.4Residualaftercalibration "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图4中，蓝色曲线为编码器原始误差，红色曲线为校准后残差。根据此对比可知，本工况中的16位编码器的实际测量精度从初始状态的 $\\pm 0 . 8 5$ 度，约7\\~8位，经过校准，提高到 $^ { \\pm 0 . 0 8 }$ 度，约11\\~12位，精度提高超过10倍。与传统方法相比，如多面体棱台校准法，其典型校准精度约 $0 . 1 ^ { \\prime \\prime }$ ，可将低精度编码器精度校准至设备固有精度极值。但传统方法在校准时，均需在待校准的编码器或其传动轴上加装额外设备，且需要较长的校准时间，校准过程中不得有外部扰动。所以，传统的编码器校准方法虽然校准精度高，但若用于大口径射电望远镜实际运行工况，面对风扰动、热形变、结构振动、服役过程中天线结构的微小变化、测试设备安装环境受限、停机时长等问题，传统方法已经不是最优选择。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "旋转编码器定速旋转的校准方法，有效提高了编码器精度，校准过程仅需伺服电机带动编码器匀速旋转少量圈数，节省了校准时间。在如射电望远镜测这类拥有高分辨率旋转编码器的设备中，编码器在长时间的运行过程中，因振动、磨损等原因，测量状态\"精\"而不\"准”，且无法长时间停机维护。适合采用本方法，根据观测需求，灵活短时校准，快速提高望远镜观测精度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]LevyRctosfoaald [2]ConstantikesK.TeGBprecision telescopecontrolsystemIn:AstronomicalDataAnalysisSoftare&Systems.AstronomicalData Analysis Software and Systems (ADASS) XIII. Glasgow,2004   \n[3] 王娜．新疆奇台110米射电望远镜.中国科学：物理学 力学 天文学,2014,44:783-794.   \n[4] 刘丰文，邓文和.25 位绝对式编码器[J].光电工程,2000,27(6):66-68.   \nLiu feng-wen,deng wen-he.25-bit absolute encoder[J].Opto-electronic engineering,20oo,27(6):66-68.   \n[5]孙佳媛，刘芳芳，马建敏．角度编码器的校准和应用[J]．上海计量测试,2019,46(05):61-62.   \nSunJiayuanLUangfang,aJaminalibrationadaplicationofAngleecoder[J].ngaiMetrology&easurement,9,019, 46(05): 61-62.   \n[6] 吴亚军，刘庆会，李娟，等．上海天文台65 米射电望远镜谱线观测及数据校准[J].天文研究与技术,2017,14(1):1-7.   \nWuYajun,LQinguJuanSpectralibseationaddatalibatioofaghaiAstrooicalObeatory6madileoe [J]. Astronomical Research and Technology,2017,14(1):1-7.   \nWang Na.XinjiangQitai10meterRadioTelescope.ScienceInChina:Physics,MechanicsandAstronomy,2014,44:783-794.   \n[7]张宝玉，杨天豪，朱跃,等．高低温环境圆光栅角度编码器校准装置精度设计[J].中国测试,2019,45(10):96-100.   \nZhangBaoyu,Yang Tianhao,ZhuYue.PrecisionDesignofCalibrationDevicefor CirculargratingAngleEncoderin HighandLow Temperature Environment [J].China Measurement & Testing,2O19,45(1O):96-100.   \n[8] 张倩.绝对式编码器误差分析与补偿系统的研究[D].大连海事大学,2013.   \nZhang Qian.ResearchonEror Analysis andCompensation SystemofAbsolute Encoder [D].Dalian Maritime University2013.   \n[9] 孙建东．主轴编码器安装联接的几个问题[J].机械工艺师,2001,7(0):25-26.   \nSun Jiandong.Several Problemsof InstalltioncoectionofSpidleencoder[J].MechanicalTechnologist,20o1,7(O):5-26.   \n[10] 温立永．旋转编码器安装方法探讨[J].中国机械,2014,13(0):93-94.   \nWen Liyong.Discussion on Installation Method of Rotary Encoder. China Machinery,2014,13(O): 93-94.   \n[11] 郑向明，王武，冯和生. $1 . 2 \\mathrm { m }$ 地平式望远镜指向模型的研究—测角编码器小周期模型的建立[J].天文研究与技术，2004，1(1): 64-68.   \nZheng Xiangming,WANG Wu,FENG Hesheng.Research on pointing Model of $1 . 2 \\mathrm { m }$ Horizon telescope -- Establishment of Small period ModelofGoioetrcerJstrooicaleseachdcholog-ultioftheatioalstrooicalOservatrs) 64-68.   \n[12]张洪鑫，任齐民，王磊．基于时栅的磁电编码器标定及细分方法研究[J].仪器仪表学报,2018,39(12):18-29.   \nZhang Hong-xin,Ren Qi-min,Wang Lei.Chinese Journal of Scientific Instrument,2O18,39(12):18-29.   \n[13]李敏.编码器装校平台[D].长春理工大学,2013.   \nLi Min.Encoder Installation and calibration Platform[D]. Changchun Universityof Science and Technology,2013.   \n[14]王福全，王玉，谢志江，等．精密转台角分度误差补偿[J]．光学精密工程,2017,25(8):2165-2172.   \nWang Fuquan,Wang Jue,Xie Zhijiang,et al.Optics and Precision Engineering,2017,25(8):2165-2172.   \n[15]李文一，程增杰.基于阿贝误差补偿光路的水准标尺检定装置及不确定度分析[J].中国测试,2015,41(10):34-38.   \nLiWenyi,ChengZengjie.CalibratingDeviceand UncertaintyAnalysisbasedonAbbeErrorCompensation OpticalPath[J].China Measurement and Testing,2015,41(10): 34-38.   \n[16]GAO W,KISWEH,etal.easueenttechologiesforprecisionositiongJ].alsaufacturingcolog 2015,64(2): 773-796.   \n[17]KeedyJbartParticlewaoatioCEIntetioalCofereceoNeuraletworks，995.unisia:E9: 1942-1948. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Research on Fast Calibration of Rotary Encoder Based on Particle Swarm Optimization ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Hou Xiaozheng1, Xu Qian\\*1,2.3,Liang Juan1,4, Yi Letian1, Xue Fei1, Wang Hui1 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1.Xinjiang Astronomical Observatory,Chinese Academy of Sciences, Urumqi 83oo1, China;   \n2.Key Laboratory of Radio Astronomy,Chinese Academy of Sciences, Urumqi,83ool1, China;   \n3. KeyLaboratory of Xinjiang Radio Astrophysics,Urumqi, 83oo11, China;   \n4.University of Chinese Academy of Sciences,Beijing 1Ooo49, China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In order to solve the problem that rotary encoder has high installation technology requirement in the use of large aperture and high precision radio telescope,professional calibration equipment is required,and the encoder accuracy needs to be further improved by establishing error correction model after a period of work. The fast calibration method of encoder is studied in this paper. A fast calibration method of rotary encoder based on particle swarm optimization (PSO) is proposed. According to the principle that the angular displacement change rate is constant when the servo motor is running at a constant speed,the encoder installation error is obtained after the encoder sampling data is compared with the servo motor's constant speed reference value. Use the PSO algorithm to quickly fit the error and calibrate the encoder. A test platform is established, which used to verify the encoder calibration method,according to the test results it knows that the encoder calibration method could restore the actual measurement accuracy of a high-resolution encoder with a high installation error to 3 to 4 digits. It provides a simple method to monitor and correct the encoder of large aperture radio telescope periodically. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Key words: Radio telescope, Encoder, Calibration, PSO (Particle Swarm Optimization) ",
+        "page_idx": 6
+    }
+]

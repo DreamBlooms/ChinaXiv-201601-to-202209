@@ -1,0 +1,181 @@
+杜长大肥育猪大肠食糜养分分析及不同蛋白质水平对盲肠微生物体外发酵特性的影响
+
+孙巍巍 葛婷成艳芬 朱伟云\*
+
+（江苏省消化道营养与动物健康重点实验室，南京农业大学消化道微生物实验室，南京
+
+210095)
+
+摘要：本试验旨在用体外法研究不同蛋白质水平对杜长大肥育猪盲肠微生物发酵特性的影响。试验首先采集10 头杜长大肥育猪大肠不同区段食糜，测定其主要养分含量，以确定食糜碳水化合物与粗蛋白质添加比例；然后以3头猪盲肠食糜为接种物，酪蛋白水解物为发酵底物进行体外发酵试验。试验组蛋白质水平分别为1.00、1.75 和 $2 . 5 0 ~ \mathrm { \ m g / m L }$ ，每组4个重复， $3 7 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 体外发酵 $2 4 \mathrm { h }$ ，测定产气量、pH以及氨态氮、菌体蛋白质和短链脂肪酸含量。结果显示：1）猪盲肠食糜各养分含量在一定范围内变化，碳水化合物与粗蛋白质含量比范围为 $1 . 8 6 { \sim } 3 . 2 4$ ，平均值为2.66。2）随着蛋白质水平的升高，产气量显著增加（ $_ { _ { P < 0 . 0 5 } ) }$ ，氨态氮、总短链脂肪酸、支链脂肪酸、乙酸、丁酸、戊酸、异丁酸和异戊酸含量显著升高( $_ { . } P { < } 0 . 0 5 )$ 。因此，猪大肠碳水化合物与粗蛋白质比例在一定范围内变化，而盲肠微生物对蛋白质的发酵能力随底物蛋白质水平的升高而增强。
+
+关键词：猪大肠；蛋白质水平；盲肠微生物；发酵特性中图分类号：S811.6
+
+人和动物的肠道中存在着数量庞大、种类繁多的微生物，它们与宿主的营养代谢和健康密切相关。单胃动物小肠中虽然具有很高的微生物多样性，但是大肠中微生物的数量远远多于小肠，如生长育肥猪的盲肠、结肠和直肠是微生物聚集的主要区段[1I。猪等单胃动物摄取的食物大部分在小肠被消化吸收，然而仍有一部分会进入后肠，被微生物发酵利用[2]。一般认为，盲肠和结肠中微生物发酵碳水化合物产生的短链脂肪酸（short-chain fatty acid,SCFA)有益于宿主健康，而微生物发酵蛋白质主要产生氨、酚类、吲哚类等潜在有害物质[3。单胃动物后肠微生物的发酵速度和产物含量主要受后肠食糜蛋白质和碳水化合物水平的影响[4]。虽然有很多学者研究了进入后肠的蛋白质种类及水平在大肠发酵中的作用，然而鉴于肠道环境的复杂性，蛋白质水平对猪后肠发酵模式的影响并不清晰[5]。
+
+Morita等在以小鼠为模型研究发现，提高蛋白质水平可以促进 SCFA的产生；Htoo 等[7]研究显示，将蛋白质水平从 $24 \%$ 降低到 $20 \%$ 时，显著降低了盲肠中 SCFA的含量；然而Opapeju 等[8研究结果表明，降低蛋白质水平不影响猪后肠中 SCFA的含量。随着我国养猪业的快速发展，生猪养殖造成的环境氮污染日趋严重，其中 $6 6 \%$ 的氮污染来自养殖过程中粪尿等排泄物9。有研究发现，降低饲粮蛋白质水平同时补充晶体氨基酸，不影响生长性能，并且可以减少尿氮的排泄量[7。因此，研究蛋白质在猪后肠的转化机制，提高蛋白质饲料的利用率，是促进动物健康、减少氮污染的有效措施。本文首先测定了正常饲喂条件下杜长大肥育猪后肠不同区段食糜养分组成，然后在体外条件下研究了不同蛋白质水平对猪盲肠微生物发酵特性的影响，以期为研究猪后肠蛋白质代谢提供参考。
+
+# 1材料与方法
+
+# 1.1底物、培养基及接种物的制备
+
+底物及培养基：蛋白质底物为酪蛋白水解物（北京索来宝科技有限公司，C8210，总含氮量约为 $1 3 . 1 \%$ )；培养基参考Dai等[10]的方法配制。
+
+接种物的制备：试验选用体重 $6 0 \mathrm { k g }$ 左右的健康杜长大三元猪3头，饲喂基础饲粮，其组成及营养水平见表1，自由饮水。屠宰后分离盲肠，立刻带回实验室，称取等量新鲜食糜，用灭菌的磷酸盐缓冲液 （ $\cdot \mathrm { p H }$ 为7.4) $1 : 5$ （重量体积比）稀释，震荡混匀，用4层灭菌纱布过滤，将滤液装进血清瓶后密封，放进 $3 7 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 的水浴锅备用。全部操作过程通 $\mathrm { C O } _ { 2 }$ 保持厌氧环境。
+
+表1基础饲粮组成及营养水平 (风干基础)  
+Table 1Composition and nutrient levels of the basal diet（air-dry basis ) %   
+
+<html><body><table><tr><td>项目Items</td><td>含量Content</td></tr><tr><td>原料 Ingredients</td><td></td></tr><tr><td>玉米Corn</td><td>47.5</td></tr><tr><td>大麦Barley</td><td>15.0</td></tr><tr><td>面粉 Flour</td><td>5.0</td></tr><tr><td>豆粕 Soybean meal</td><td>19.0</td></tr><tr><td>米糠 Rice bran</td><td>8.0</td></tr><tr><td>豆油 Soybean oil</td><td>1.5</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>预混料 Premix1) 4.0</td></tr><tr><td>合计Total 100.0</td></tr><tr><td>营养水平 Nutrient levels2)</td></tr><tr><td>代谢能 ME/(MJ/kg) 12.97</td></tr><tr><td>粗蛋白质CP 15.41</td></tr><tr><td>赖氨酸Lys 0.92</td></tr><tr><td>钙Ca 0.78</td></tr><tr><td>总磷TP 0.62</td></tr><tr><td>食盐 NaCl 0.60</td></tr></table></body></html>
+
+1预混料为每千克饲粮提供 The premix provided the following per $\mathrm { k g }$ of diet:VA 8 000 IU,VB1 20 mg, $\mathrm { V B } _ { 2 }$ 100 mg,VB6 20 mg,VB $^ { 1 2 }$ 0.03 mg, $\mathrm { V D } _ { 3 }$ 5 000 IU,VE 250 mg,VK3 $2 0 ~ \mathrm { m g }$ ，生物素biotin $0 . 1 5 \mathrm { ~ m ~ }$ 叶酸folic acid $5 . 0 \ \mathrm { m g , } D \cdot$ 泛酸 $D$ -pantothenic acid $2 0 0 ~ \mathrm { { m g } , }$ 烟酸nicotinic acid $4 0 0 ~ \mathrm { m g , C u }$ (as copper sulfate) $1 2 5 0 ~ \mathrm { m g , F e }$ (as ferrous sulfate) $1 0 0 0 \ \mathrm { m g , M n }$ (as manganese sulfate) $5 0 0 \ \mathrm { m g , Z n }$ (as zinc sulfate) $\mathrm { 1 ~ 0 0 0 ~ m g , S e }$ (as sodium selenite) 5 mg。
+
+2）代谢能为计算值，其余为实测值。ME was a calculated value,while the others were measured values.
+
+# 1.2 试验设计
+
+首先采集10头杜长大肥猪盲肠、结肠前段和结肠后段食糜，测定其中水分、粗蛋白质、粗脂肪和灰分含量，利用以下公式推算食糜中碳水化合物（包括粗纤维和无氮浸出物）的含量。
+
+碳水化合物 $( \% ) = 1 0 0 ^ { - }$ [水分 $( \% ) +$ 粗蛋白质 $( \% ) +$ 粗灰分 $( \% ) +$ 粗脂肪 $( \% ) ]$ 。
+
+然后根据食糜养分测定结果进行体外发酵试验，分为试验组（基础培养基 $^ +$ 接种物 $^ +$ 底物)和负对照组(基础培养基 $^ +$ 接种物)，试验组蛋白质水平分别为1.00、1.75 和 $2 . 5 0 \ : \mathrm { m g / m L }$ ，每组4个重复。除负对照组外，试验组均以酪蛋白水解物作为唯一氮源。
+
+# 1.3体外发酵指标的测定
+
+产气量的测定参照 Theodorou 等[的方法；SCFA 含量测定参照秦为琳[12]的方法；菌体蛋白质(microbial protein,MCP)含量测定参照 Makkar 等[13]的方法；氨态氮含量测定参照梁剑光等[14]的方法。
+
+# 1.4数据处理
+
+试验数据经Excel2007初步统计处理后，采用SPSS17.0统计软件进行单因素方差分析，数据以平均值 $\pm$ 标准差表示， $P { < } 0 . 0 5$ 表示差异显著， $P { < } 0 . 0 1$ 表示差异极显著。
+
+2结果
+
+# 2.1 猪大肠食糜养分
+
+由表2可知，猪后肠食糜中各养分含量变异性较大。盲肠粗蛋白质含量变化范围为$1 . 4 0 \% \sim 3 . 2 4 \%$ ，平均含量为 $2 . 5 9 \%$ ；碳水化合物含量变化范围为 $3 . 4 9 \% \sim 8 . 4 9 \%$ ，平均含量为 $6 . 8 1 \%$ ；碳水化合物与粗蛋白质含量比为 $1 . 8 6 { \sim } 3 . 2 4$ 。结肠粗蛋白质含量相对于盲肠明显升高，结肠前段和结肠后段粗蛋白质平均含量分别为 $4 . 0 5 \%$ 和 $4 . 9 6 \%$ ；而碳水化合物与粗蛋白质含量比则与盲肠相似，平均值分别为2.57和 2.78。根据食糜养分分析结果，确定体外发酵碳水化合物与蛋白质质量（C/N）比1.60（小于1.86）为高蛋白质水平组； $\mathrm { C / N { = } } 4 . 0 0$ （大于3.24）为低蛋白质水平组， $\mathrm { C } / \mathrm { N } { = } 2 . 2 8$ （ $1 . 8 6 { \sim } 3 . 2 4 .$ ）为中蛋白质水平组。
+
+表2猪大肠不同区段食糜养分含量(鲜样基础）  
+Table 2The nutrient content of chyme in different extents of large intestine of pigs (fresh mater basis)   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="3">盲肠 Cecum</td><td colspan="3">结肠前段 Proximal colon</td><td colspan="3">结肠后段 Distal colon</td></tr><tr><td>平均值 Mean</td><td>最小值 Min</td><td>最大值</td><td>平均值</td><td>最小值</td><td>最大值</td><td>平均值</td><td>最小值</td><td>最大值</td></tr><tr><td>水分</td><td></td><td></td><td>Max</td><td>Mean</td><td>Min</td><td>Max</td><td>Mean</td><td>Min</td><td>Max</td></tr><tr><td>Moisture/%</td><td>86.32±0.81</td><td>83.76</td><td>89.88</td><td>78.83±1.36</td><td>71.77</td><td>83.16</td><td>74.34±1.49</td><td>67.66</td><td>81.64</td></tr><tr><td>粗蛋白质</td><td>2.59±0.22</td><td>1.40</td><td>3.24</td><td>4.05±0.23</td><td>3.39</td><td>5.23</td><td>4.96±0.35</td><td>3.10</td><td>6.28</td></tr><tr><td>Crude protein/% 粗脂肪</td><td>1.03±0.10</td><td>0.51</td><td>1.35</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ether extract/%</td><td></td><td></td><td></td><td>1.71±0.14</td><td>1.03</td><td>2.38</td><td>1.82±0.16</td><td>1.05</td><td>2.44</td></tr><tr><td>灰分 Ash/%</td><td>3.25±0.42</td><td>1.07</td><td>4.72</td><td>4.24±0.41</td><td>2.88</td><td>5.92</td><td>5.36±0.45</td><td>3.11</td><td>7.48</td></tr><tr><td>碳水化合物 Carbohydrate/%</td><td>6.81±0.58</td><td>3.49</td><td>8.49</td><td>10.28±0.45</td><td>8.17</td><td>12.46</td><td>13.51±0.59</td><td>16.13</td><td>12.23</td></tr><tr><td>碳水化合物/粗</td><td>2.66±0.16</td><td>1.86</td><td>3.24</td><td>2.57±0.12</td><td>2.18</td><td>3.14</td><td>2.78±0.13</td><td>3.58</td><td>2.45</td></tr></table></body></html>
+
+# 2.2不同蛋白质水平对体外发酵产气量的影响
+
+由图1可知，试验组产气量随时间延长呈逐渐上升趋势，前 $1 2 \mathrm { h }$ 发酵迅速，产气量在3和 $^ { 9 \mathrm { h } }$ 之间产气量呈线性（ $\scriptstyle \cdot R ^ { 2 } = 0 . 9 9 9$ ）增加， $2 4 \mathrm { h }$ 以后基本趋于稳定。3和6h3个试验组累计产气量差异不显著（ $. P { > } 0 . 0 5 \$ ；9、12、18和 $2 4 \mathrm { ~ h ~ }$ 低蛋白质水平组与中蛋白质水平组累计
+
+产气量差异不显著( $( P { > } 0 . 0 5 )$ ，高蛋白质水平组相对于其他2组的产气量显著增加( $( P { < } 0 . 0 5 )$ 。
+
+![](images/7f151e878296d6913b30dab43aaa9e0b276375af96c955085d320bbb3608d06b.jpg)  
+图1不同蛋白质水平体外发酵 $2 4 \mathrm { h }$ 产气量动态变化曲线
+
+\*表示在此时间点高蛋白质水平组与低蛋白质水平组和中蛋白质水平组差异显著！ $_ { ( P < 0 . 0 5 ) }$ 。
+
+\* indicated that the high protein level group was significantly diferent with low protein level group and middle protein level group $( P { < } 0 . 0 5 )$ ：
+
+Fig.1Dynamic change curves of gas production of different protein levels during $2 4 \mathrm { h }$ in vitro fermentation
+
+2.3不同蛋白质水平对体外发酵 $\mathsf { p H }$ 及氨态氮和MCP含量的影响
+
+由表3可知，氨态氮含量随着蛋白质水平的升高极显著增加（ $_ { | P < 0 . 0 1 \rangle }$ ，且呈线性变化（ $R ^ { 2 } { = } 0 . 9 9 8 \ '$ 。MCP含量随底物蛋白质水平的升高显著增加（ $( P { < } 0 . 0 5 )$ ，高蛋白质水平组MCP含量显著高于低蛋白质水平组 ( $_ { _ { P < 0 . 0 5 ) } }$ 。底物蛋白质水平对 $\mathsf { p H }$ 没有显著影响（ $P { > } 0 . 0 5 )$ 。
+
+表3不同蛋白质水平对体外发酵pH及氨态氮和MCP含量的影响
+
+Table 3Effects of different protein levels on $\mathrm { \ p H }$ ,contents of $\mathrm { N H } _ { 3 }$ -N and MCP in in vitro fermentation   
+
+<html><body><table><tr><td rowspan="3">项目Items</td><td>低蛋白质水平组</td><td>中蛋白质水平组</td><td>高蛋白质水平组</td><td>P值</td></tr><tr><td>Low protein level</td><td>Middle protein</td><td>High protein level</td><td>P-value</td></tr><tr><td>group</td><td>level group</td><td>group</td><td></td></tr><tr><td>pH</td><td>6.80±0.02</td><td>6.81±0.03</td><td>6.83±0.04</td><td>0.39</td></tr><tr><td>氨态氮 NH3-N/（mmol/L)</td><td>4.53±0.25a</td><td>10.75±0.19b</td><td>15.57±0.43c</td><td><0.01</td></tr><tr><td>菌体蛋白质 Microbial protein/（μg/mL）</td><td>236.68±4.82a</td><td>259.44±1.46ab</td><td>283.67±27.09b</td><td>0.03</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，肩标无字母或相同字母表示差异不显著 $( P { > } 0 . 0 5 )$ 。表4同。
+
+In the same row,values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，while
+
+with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ .The same as Table 4.
+
+# 2.4不同蛋白质水平对体外发酵SCFA含量的影响
+
+由表4可知，中蛋白质水平组和高蛋白质水平组总 SCFA 和乙酸含量显著高于低蛋白质水平组 （ $\scriptstyle \cdot { \cal P } \ll 0 . 0 5 .$ )。丁酸、戊酸、支链脂肪酸、异丁酸和异戊酸含量随蛋白质水平的提高逐渐增加，且各组间差异显著（ $. P { < } 0 . 0 5 )$ 。蛋白质水平对丙酸含量没有显著影响（ $P { > } 0 . 0 5 )$ 。
+
+表4不同蛋白质水平对体外发酵SCFA含量的影响  
+Table 4Effects of different protein levels on SCFA content in in vitro fermentation mmol/L   
+
+<html><body><table><tr><td rowspan="4">项目Items</td><td>低蛋白质水平组</td><td>中蛋白质水平组</td><td>高蛋白质水平组</td><td>P值</td></tr><tr><td>Low protein level</td><td>Middle protein level</td><td>High protein level</td><td></td></tr><tr><td>group</td><td>group</td><td>group</td><td>P-value</td></tr><tr><td>36.41±0.84a</td><td>42.94±0.71b</td><td>41.96±0.79b</td><td><0.01</td></tr><tr><td>总短链脂肪酸 TotalSCFA</td><td></td><td></td><td></td><td></td></tr><tr><td>乙酸 Acetate</td><td>14.84±0.27a</td><td>16.42±0.67b</td><td>16.32±0.47b</td><td>0.01</td></tr><tr><td>丙酸 Propionate</td><td>17.98±0.74</td><td>20.28±0.98</td><td>18.78±0.16</td><td>0.09</td></tr><tr><td>丁酸 Butyrate 戊酸Valerate</td><td>2.14±0.11a 0.68±0.06a</td><td>2.98±0.15b 0.95±0.07b</td><td>3.59±0.70c 1.08±0.04c</td><td><0.01</td></tr><tr><td>支链脂肪酸 Branched-chain fatty acid</td><td>1.43±0.07a</td><td>2.55±0.12b</td><td>3.42±0.04c</td><td><0.01</td></tr><tr><td></td><td>0.62±0.16a</td><td>0.86±0.08b</td><td>1.15±0.36c</td><td><0.01</td></tr><tr><td>异丁酸 Isobutyrate</td><td></td><td></td><td></td><td><0.01</td></tr><tr><td>异戊酸Isovalerate</td><td>0.86±0.05a</td><td>1.66±0.22b</td><td>2.26±0.72c</td><td><0.01</td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1不同蛋白质水平对体外发酵特性的影响
+
+pH 是反映底物发酵状况的综合指标之一，本试验中 pH 在 $6 . 8 0 { \sim } 6 . 8 3$ 内变化，适合猪盲肠微生物生长。产气量是反映微生物对底物利用和发酵特性的重要指标，产气的快慢反映了微生物对底物的利用速度。本试验发酵的前 $3  { \mathrm { h } }$ 产气缓慢，可能是因为微生物适应底物和降解需要时间，减缓了微生物的生长速度；之后产气量迅速增加，表明微生物生长迅速，可能是因为发酵中使用的酪蛋白水解物和葡萄糖都溶于水且易于被微生物降解利用。产气量随蛋白质水平升高而增加，说明提高蛋白质水平可促进微生物的发酵作用。产气来源于微生物发酵底物生成SCFA的过程，故发酵过程中产气速度和累计产气量在一定程度上反映了微生物的总体活力和 SCFA 的产生情况[15]。
+
+SCFA是单胃动物后肠微生物发酵的重要终产物，SCFA主要由碳水化合物发酵产生，但同时蛋白质也是产生SCFA的重要发酵底物[16], $90 \%$ 以上的 SCFA 可以被迅速吸收[17]，为宿主肠上皮细胞和机体其他组织提供能量。在本试验中观察到低蛋白质水平组SCFA含量显著低于高蛋白质水平组，可能是因为在碳源充足的条件下，氮源成为限制微生物生长的主要因素。Morita等在小鼠上的研究发现，以易消化的酪蛋白作为对照，增加饲粮抗消化蛋白质的水平，可以提高小鼠盲肠中总 SCFA 含量。Getachew 等[18]在体外试验中也发现，产气量和 SCFA含量随着氮源水平的升高而增加。这与本试验结果一致，说明氮源水平是影响微生物发酵的重要因素，提高氮源水平，可能会促进 SCFA的产生。Liu等[9]研究显示，提高饲粮蛋白质水平可以增加盲肠与结肠食糜中乙酸含量，本试验结果与之印证。乙酸可以作为脂肪合成的前提物质或者肌肉组织的能源物质，并具有促进糖生成的作用，乙酸含量增加可以为动物机体提供能量。支链脂肪酸只能由支链氨基酸发酵产生[16]，可以作为蛋白质发酵的标志性产物。本试验观察到，异丁酸和异戊酸含量随蛋白质水平升高而增加，说明随着蛋白质水平的提高，微生物对蛋白质的利用加强。丁酸是肠上皮细胞优先利用的能源物质，Walker 等[20]在一项以人的粪便为接种物的体外发酵试验中发现，提高蛋白质水平会升高丁酸含量，这与本试验结果相一致。说明以多肽作为氮源，在同等碳源条件下，提高氮源水平，可以显著增加丁酸含量。
+
+# 3.2不同蛋白质水平下盲肠微生物对含氮物的利用特性
+
+氮源是微生物生长所必须的营养元素，肠道微生物对蛋白质和多肽的利用是一个复杂的过程，多数微生物优先利用氨基酸和氨作为氮源，部分微生物可以利用蛋白质或多肽进行生长[5]。本试验以酪蛋白水解物作为氮源，氨态氮含量反映了微生物对蛋白质降解和对氨态氮摄取利用的综合能力。有研究显示，肠道食糜和粪样中氨态氮含量随蛋白质摄入量的增加而升高[3.21]，本试验结果与之相符，说明微生物对蛋白质的降解作用随蛋白质水平升高而加强。在动物肠道中，高浓度的氨影响肠上皮细胞正常的能量代谢，增加肠上皮细胞间的通透性和减弱肠黏膜的屏障功能[22]，这被认为是高蛋白质饲粮引起仔猪腹泻的主要原因。
+
+在瘤胃中微生物的生长活动受可发酵碳水化合物、氨基酸、核酸、肽、氨态氮、矿物质等多种因素的影响，其中碳水化合物和氮源是微生物生长所需的主要营养物质，体外发酵系统与瘤胃类似。Hristov 等[23]研究发现，体外条件下瘤胃菌体蛋白质的合成速率与氮源水平和蛋白质降解速率呈线性正相关，这与本试验结果一致。菌体蛋白质含量增加，说明提高蛋白质水平促进了微生物的生长和对氨的利用，而将氨态氮转化为菌体蛋白质有利于动物肠道健康，同时也降低了粪尿的氮，减少了氮污染。
+
+4结论
+
+$\textcircled{1}$ 杜长大肥育猪后肠中碳水化合物和粗蛋白质比例在一定范围内变化。
+
+$\textcircled{2}$ 体外条件下提高氮源水平，可以增加盲肠微生物发酵产生的SCFA。
+
+$\textcircled{3}$ 微生物对蛋白质的发酵作用会随底物蛋白质水平的升高而增强，但同时也会升高氨态氮含量。
+
+参考文献：
+
+[1]高巍,孟庆翔.生长育肥猪胃肠道正常厌氧菌群的数量和分区[J].中国农业大学学报,2000,5(5):88-93.
+
+[2] WILLIAMS B A,VERSTEGEN M W A,TAMMINGA S.Fermentation in the large intestine of single-stomached animals and its relationship to animal health[J].Nutrition Research Reviews,2001,14(2):207-228.
+
+[3] BIKKER P,DIRKZWAGER A,FLEDDERUS J,et al.The effect of dietary protein and fermentable carbohydrates levels on growth performance and intestinal characteristics in newly weaned piglets[J].Journal of Animal Science,2006,84(12):3337-3345.
+
+[4]PIEPER R,BOUDRY C,BINDELLE J,et al.Interaction between dietary protein content and the source of carbohydrates along the gastrointestinal tract of weaned piglets[J].Archives of Animal Nutrition,2014,68(4):263-280.
+
+[5] DAVILA A M,BLACHIER F,GOTTELAND M,et al.Intestinal luminal nitrogen metabolism:role of the gut microbiota and consequences for the host[J].Pharmacological Research,2013,68(1):95-107.
+
+[6] MORITA T,KASAOKA S,OH-HASHI A,et al.Resistant proteins alter cecal short-chain fatty acid profiles in rats fed high amylose cornstarch[J].The Journal of Nutrition,1998,128(7):1156-1164.
+
+[7] HTOO J K,ARAIZA B A,SAUER W C,et al.Effect of dietary protein content on ileal amino acid digestibility,growth performance,and formation of microbial metabolites in ileal and cecal digesta of early-weaned pigs[J].Journal of Animal Science,2007,85(12):3303-3312.
+
+[8]OPAPEJU F O,KRAUSE D O.PAYNE R L.et al.Effect of dietary protein level on growth performance,indicators of enteric health,and gastrointestinal microbial ecology of weaned pigs induced with postweaning colibacillosis[J].Journal of Animal Science,2009,87(8):2635-2643.
+
+[9]BAI Z H,MA L,QIN W,et al.Changes in pig production in China and their effects on nitrogen and phosphorus use and losses[J].Environmental Science & Technol0gy,2014,48(21):12742-12749.
+
+[10]DAI Z L,ZHANG J,WU G Y,et al.Utilization of amino acids by bacteria from the pig small intestine[J].Amino Acids,2010,39(5):1201-1215.
+
+[11] THEODOROU M K,WILLIAMS B A,DHANOA M S,et al.A simple gas production method using a pressure transducer to determine the fermentation kinetics of ruminant feeds[J].Animal Feed Science and Technology,1994,48(3/4):185-197.
+
+[12]秦为琳.应用气相色谱测定瘤胃挥发性脂肪酸方法的研究改进[J].南京农学院学报,1982(4):110-116
+
+[13]MAKKAR H P S,SHARMA O P,DAWRA R K,et al.Simple determination of microbial protein in rumen liquor[J].Journal of Dairy Science,1982,65(11):2170-2173.
+
+[14]梁剑光,朱玲,徐正军.靛酚蓝-分光光度法测定发酵液中氨态氮含量研究[J]).食品与发酵工业,2006,32(9):134-137.
+
+[15] WILLIAMS B A.Cumulative gas-production techniques for forage evaluation[M]//GIVENS D I,OWEN E,AXFORD R F E,et al.Forage evaluation in ruminant nutrition.New York:CABI Publication,2OOO:189-213.
+
+[16] RIST V T S,WEISS E,EKLUND M,et al.Impact of dietary protein on microbiota composition and activity in the gastrointestinal tract of piglets in relation to gut health:a review[J].Animal,2013,7(7):1067-1078.
+
+[17] ENGELHARDT W.Absorption ofshort-chain fattyacidsfromthelarge intestine[M]//JOHN H C,JOHN L R,TAKASHI S.Physiological and clinical aspects of short-chain fatty acids.Cambridge:Cambridge University Press,1995:149-170.
+
+[18] GETACHEW G,MAKKAR H P S,BECKER K.Tannins in tropical browses:effects on in vitro microbial fermentation and microbial protein synthesis in media containing different amounts of nitrogen[J].Journal of Agricultural and Food Chemistry,2000,48(8):3581-3588.
+
+[19] LIU X X,BLOUIN J M,SANTACRUZ A,et al.High-protein diet modifies colonic microbiota and luminal environment but not colonocyte metabolism in the rat model:the increased luminal bulk connection[J].American Journal of Physiology-Gastrointestinal and Liver Physiology,2014,307(4):G459-G470.
+
+[20]WALKER A W,DUNCAN S H,LEITCH E C M,et al.pH and peptide supply can radically alter bacterial populations and short-chain fatty acid ratios within microbial communities from the human colon[J].Applied and Environmental Microbiology,2005,71(7):3692-3700.
+
+[21]LUO Z,LI C B,CHENG Y F,et al.Effects of low dietary protein on the metabolites and microbial communitiesin the caecal digesta ofpiglets[J].Archivesof Animal Nutrition,2015,69(3):212-226.
+
+[22]HUGHES R,KURTHM J,MCGILLIGAN V,et al.Effect of colonic bacterial metabolites on Caco-2 cell paracellular permeability in vitro[J].Nutrition and Cancer,2O08,6O(2):259-266.
+
+[23] HRISTOV A,BRODERICK G A.In vitro determination of ruminal protein degradability using[ $^ { 1 5 } \mathrm { N } ]$ ammonia to correct for microbial nitrogen uptake[J].Journal of Animal Science,1994,72(5):1344-1354.
+
+Nutrient Analysis of Chyme in Large Intestine of DurocxLandracexYorkshire Finishing Pigs and Effects of Different Protein Levels on in vitro Fermentation Characteristics of Pig Caecal Microbiota
+
+SUN WeiweiGE TingCHENG YanfenZHU Weiyun\* (Laboratory of Gastrointestinal Microbiology， Jiangsu Key Laboratory of Gastrointestinal Nutrition and Animal Health， College of Animal Science and Technology， Nanjing Agricultural University， Nanjing 210095， China)
+
+Abstract: This study was conducted to estimate the effects of different protein levels on caecal microbial fermentation characteristics of DurocxLandracexYorkshire finishing pigs in vitro. We firstly analyzed the mainly nutrient content of chyme collected from different extents of large intestine of 1O pigs in order to confirm the adding ratio of carbohydrate to crude protein used in the following in vitro fermentation. Then in vitro fermentation experiment was carried out with cecum chyme of 3 pigs as inoculum and casein hydrolysate for fermentation substrates. The protein levels in experimental groups with 4 replicates each were 1.Oo,1.75 or $2 . 5 0 ~ \mathrm { \ m g / m L }$ respectively， for $2 4 \mathrm { ~ h ~ }$ fermentation at $3 7 \mathrm { ~ \textdegree C }$ . And gas production, $\mathsf { p H }$ and the contents of ammoniacal nitrogen, microbial protein and short-chain fatty acids were determined. The results showed as follows: 1） nutrient contents in cecum chyme of pigs were changed within a certain range,and the ratio of carbohydrate to crude protein content was 1.86 to 3.24 with an average value of 2.66. 2） With protein level increasing,the gas production was significantly increased （204号 $( P { < } 0 . 0 5 )$ ,and the contents of ammoniacal nitrogen, total short-chain fatty acids,branched-chain fatty acids,acetate,butyrate,valerate, isobutyrate and isovalerate were significantly significantly increased $( P { < } 0 . 0 5 )$ . The results indicate that the ratio of carbohydrate to crude protein in large intestine of pigs changes within a certain range, and the caecal microbial fermentative capability is promoted with substrate protein level increasing.
+
+Key words: large intestine of pigs; protein level; caecal microbiota; fermentation characteristics

@@ -1,0 +1,331 @@
+# 国产核用不锈钢辐照损伤研究
+
+邓平1,2 彭群家1.3 韩恩厚」柯 伟」孙 晨’夏海鸿 焦治杰4
+
+1中国科学院金属研究所核用材料与安全性评价重点实验室沈阳1100162中国科学技术大学材料科学与工程学院沈阳1100163国家电投集团科学技术研究院有限公司北京102209
+
+4 Department of Nuclear Engineering and Radiological Sciences, University of Michigan, Ann Arbor, MI 48109, U.S.A.
+
+摘要采用 $2 \mathrm { M e V }$ 质子束在 $3 6 0 ^ { \circ } \mathrm { C }$ 对国产核用304不锈钢试样进行了辐照实验，利用显微硬度仪，透射电子显微镜(TEM)和三维原子探针(3DAP)等研究了材料的辐照损伤，分析了辐照剂量对辐照损伤演化的影响规律。结果表明，304不锈钢辐照损伤微观结构以位错环和少量孔洞为主，位错环的数量密度为 $1 0 ^ { 2 2 } \mathrm { m } ^ { - 3 }$ 量级，平均尺寸小于 $1 0 \mathrm { n m }$ 。材料在晶界和位错环处发生元素偏析，其中Cr、Ni在晶界和位错环处偏析程度相近，而 Si在位错环处的偏析程度数倍于晶界。位错环平均尺寸和数量密度、晶界偏析程度以及辐照硬化程度均随辐照剂量增加而增加，并在 $3 . 0 { \sim } 5 . 0 \mathrm { d p a }$ 范围内趋于饱和。
+
+关键词核用不锈钢，质子辐照，位错环，辐照偏析，辐照硬化
+
+中图分类号 TG139.4文章编号 0412-1961(2017)00-0000-00
+
+# Study of Irradiation Damage in Domestically Fabricated Nuclear Grade Stainless Steel
+
+DENG Ping12,PENG Qunjia1.3, HAN En-Hou 1, KE Wei ¹, SUN Chen ³, XIA Haihong ³, JIAO
+
+Zhijie 4
+
+1 Key Laboratory of Nuclear Materials and Safety Assessment, Institute of Metal Research, Chinese Academy of Sciences, Shenyang 110016, China   
+2 School of Materials Science and Engineering， University of Science and Technology of China, Shenyang 110016, China   
+3 State Power Investment Corporation Research Institute, Beijing l02209, China   
+4 Department of Nuclear Engineering and Radiological Sciences, University of Michigan, Ann Arbor, MI 48109, U.S.A.   
+Correspondent: PENG Qunjia, professor, Tel: (O24)23841676, E-mail: pengqunjia $@$ yahoo.com Supported by InternationalScience & Technology Cooperation Program of China (No.2014DFA50800) and National Natural Science Foundation of China (No.51571204)
+
+Manuscript received 2017-04-06，in revised form 2017-06-21
+
+ABSTRACT The radiation-induced segregation (RIS） and microstructure evolution such as dislocation loops and cavities are major microstructural causes for the irradiation-assisted stress corrosion cracking (IASCC) of austenitic stainless steel (SS） core components.While a couple of studies have been reported on the irradiation induced damage in nuclear grade (NG) austenitic SS, the evolution of dislocation loop density and size and its correlation with the mechanical properties have still remained incompletely understood. In addition, the correlation between the segregation at the grain boundary and that at the dislocation loop has received limited atentions.In particular, there is still a lack of a systematic study of the irradiation damage in domestically fabricated NG austenitic SS.In this work, the proton-irradiation induced microstructural damage in domestically fabricated 3O4NG SS was characterized, in an effort to correlate the RIS and the dislocation loop density and size with the irradiation dose,as wellas the dislocation loop density and size with the radiation-induced hardening. The results revealed that the radiation-induced microstructure damage was mainly dislocation loops with a few micro-voids. The loop density was in the order of $1 0 ^ { 2 2 } \mathrm m ^ { - 3 }$ （204号 with an average size of $< 1 0 \ \mathrm { n m }$ . The square root of the product of loop density and size $( N d ) ^ { 0 . 5 }$ scaled linearly with the square root of irradiation dose with a factor of $( 6 . 8 \times 1 0 ^ { 3 } )$ 1 $\left( \mathrm { d p a } \right) ^ { - 0 . 5 } / \mathrm { m m }$ . The loops were believed to be mainly responsible for the hardening in 3O4NG SS,which also scaled linearly with $( N d ) ^ { 0 . 5 }$ with a factor of $( 1 . 1 6 \times 1 0 ^ { - 2 } )$ ） $\mathrm { k g / m m }$ . A comparative analysis about the segregation at the grain boundary and at the dislocation loop was conducted. While the depletion of $\mathrm { C r }$ and enrichment of $\mathrm { N i }$ at the dislocation loop and grain boundary showed no difference， the enrichment of Si at the dislocation loop could be of about 6 times of that at the grain boundary. In addition, the loop density and loop size,as well as RIS and radiation-induced hardening were all increased by a higher dose and tended to saturate by a dose of 3.O\~5.0 dpa.
+
+KEY WORDS nuclear grade stainless steel, proton irradiation, dislocation loop, radiation-induced segregation, radiation-induced hardening
+
+奥氏体不锈钢由于其优异的力学和耐腐蚀性能被广泛用作轻水反应堆堆芯结构材料。由于堆芯的强烈中子辐照与高温高压水腐蚀环境，在长期服役条件下不锈钢材料会发生辐照促进应力腐蚀开裂(IASCC)[-3]。如欧、美、日等国在役压水堆堆芯围板连接用不锈钢制螺栓已发生多起IASCC 失效事件[4-6]。堆芯不锈钢材料与部件以IASCC 为代表的辐照加速腐蚀失效已成为影响核电站安全高效运行的关键问题之一。
+
+研究[79表明，强中子辐照与不锈钢发生交互作用产生的辐照结构损伤、辐照偏析和辐照硬化等是IASCC 发生的关键因素。辐照后材料发生辐照硬化，屈服强度增加，易于发生局部非均匀变形，形成的狭窄位错通道可能诱发 $\mathrm { I A S C C ^ { [ 1 0 , 1 1 ] } }$ 。辐照偏析造成的晶界贫 $\mathrm { C r }$ 使得晶界的腐蚀抗力降低，也可能促进沿晶应力腐蚀开裂的发生[8.12]。因此，澄清辐照致材料微观结构、化学成分和力学性能的变化是评价和预测材料IASCC敏感性的关键步骤。
+
+在辐照结构损伤研究方面[13-15]，澄清了辐照结构损伤主要受辐照温度、合金化学成分和辐照剂量的影响。辐照温度超过 $3 0 0 ^ { \circ } \mathrm { C }$ ，奥氏体不锈钢辐照结构缺陷主要为位错环和孔洞。位错环等缺陷的尺寸和数量密度取决于合金化学成分和辐照剂量等，如 $3 6 0 ^ { \circ } \mathrm { C }$ 质子辐照后的高纯304不锈钢(HP304)中产生明显的位错环和孔洞，而相同条件辐照后的工业纯 304不锈钢(CP 304)中只出现了位错环，且其尺寸和数量密度与
+
+HP 304 相差一倍以上[13]。因此，针对不同的材料，辐照损伤结构以及位错环尺寸和数量密度的演化规律可能会存在较大差异。在辐照偏析研究方面[14,15]，明确了辐照偏析与辐照剂量在一定范围内存在正相关关系，并且受辐照剂量和材料因素(如合金成分、冷变形、热处理等)影响，但针对溶质原子在位错环处偏析的相关研究报道较少，其是否与在晶界处的偏析存在差异尚不明确。在辐照硬化研究方面[13\~17]，澄清了辐照硬化实质是辐照后产生的大量微观尺寸缺陷如位错环和孔洞等对位错的钉扎作用阻碍位错线的滑移，进而使材料发生硬化。辐照硬化与位错环等缺陷的尺寸和数量密度紧密相关，但其与材料力学性能的量化关系尚存在争议。如弥散障碍硬化模型[14]认为，辐照硬化值 $( \Delta H )$ 与位错环数量密度(N)和直径(d)乘积值的平方根$( N d ) ^ { 0 . 5 }$ 成正比，而Edwards 等[则认为 $\Delta H$ 与 $( N d ) ^ { 0 . 5 }$ 并没有直接关联。
+
+核电材料的国产化与核电技术的自主化是我国核电发展的基础和保障。目前，我国已实现了堆芯结构材料的国产化，但对辐照致材料损伤演化规律还缺乏研究，在材料设计、性能评估等方面大量采用国外数据。本工作选取国产核用304不锈钢为研究对象，采用质子辐照模拟中子辐照，系统分析了辐照对材料微观结构、元素偏析和力学性能的影响，定量揭示了辐照偏析、位错环尺寸、密度与辐照剂量的关系以及辐照硬化与位错环尺寸、密度的关系，为国产核电材料提供性能验证数据。
+
+# 1 实验方法
+
+实验材料为国内某核电材料企业生产的核用304不锈钢，其化学成分(质量分数， $\%$ )为：C0.04，Mn1.73，Si 0.27，S 0.002， $\mathrm { ~ P ~ } 0 . 0 2 1$ ，Ni 8.87，Cr19.51， $\mathrm { C o } 0 . 0 4$ ，Fe余量。尺寸为 $1 2 0 \mathrm { m m } \times 3 \mathrm { m m } \times 2 \mathrm { m m }$ 的待辐照试样经水砂纸依次打磨至3000号，然后用粒度为1.5和 $0 . 5 \mu \mathrm { m }$ 的金刚石研磨膏机械抛光，最后用粒度为 $4 0 \mathrm { n m }$ 的 $\mathrm { S i O } _ { 2 }$ 悬浮液手动抛光约 $2  { \mathrm { h } }$ ，以确保完全去除表面残余应变层。抛光后的试样用去离子水和酒精洗净烘干，保存。
+
+辐照实验在美国密歇根大学离子束实验室完成。在 $3 6 0 ^ { \circ } \mathrm { C }$ 下采用能量为 $2 \mathrm { M e V }$ ，直径为 $3 \mathrm { m m }$ 的质子束模拟中子辐照。质子束的损伤速率约为 $6 \times 1 0 ^ { - 6 } \mathrm { d p a / s }$ ，有效辐照区域为试样中间 $1 0 \mathrm { m m }$ 范围，如图1所示。在该辐照条件下试样表面的有效辐照穿透深度约为 $2 0 \mu \mathrm { m } .$ 。更多关于辐照过程的描述详见文献[19,20]。
+
+试样辐照后，首先在 $\mathrm { Q - l 0 A + }$ 显微硬度仪上进行硬度测量。采用 $2 5 \mathrm { ~ g ~ }$ 载荷以确保硬度计压头压入深度不超过有效辐照穿透深度，保压时间为 $1 0 \mathrm { ~ s ~ }$ 。对每个辐照剂量的样品至少获取30个有效测量数据，测量位置如图1中红线所示。样品辐照前后增加的硬度值即为 $\Delta H _ { \circ }$ （20
+
+硬度测试后的试样用于制备透射电镜(TEM)样品以观察辐照结构损伤变化。首先，将样品在 $5 \%$ （体积分数，下同)高氯酸和 $9 5 \%$ 甲醇的溶液中电解抛光 $5 \mathrm { ~ s ~ }$ ，以去除样品约 $3 ~ { \mu \mathrm { m } }$ 厚度的辐照面表层。电解抛光的电流为 $3 0 \mathrm { m A }$ ，温度为 $3 0 ~ ^ { \circ } \mathrm { C }$ 。然后将辐照面的相对表面(非辐照面)经水砂纸依次研磨至3000 号，并减薄至厚度小于 $6 0 \mu \mathrm { m }$ ，再冲孔出3个直径为 $3 \mathrm { m m }$ 的圆片，如图1所示。最后，在TenuPol-5减薄仪上将3$\mathbf { m } \mathbf { m }$ 圆片从非辐照面进行单面电解减薄至电子能够穿透。所用电解液为 $10 \%$ 高氯酸和 $90 \%$ 酒精溶液，温度为 $. 3 0 ~ ^ { \circ } \mathrm { C }$ ，电压为 $3 2 { \mathrm { ~ V ~ } }$ 。辐照损伤结构观察在JEM-2100场发射TEM上进行，操作电压 $2 0 0 ~ \mathrm { k V }$ 。联合采用明场(bright field,BF)和暗场(dark field,DF)观察位错环形貌，并在样品的不同位置以相近的放大倍数测量和统计位错环。拍摄形貌图像相应位置的 TEM 样品厚度通过电子能量损失谱(EELS)标记，位错环的平均数量密度等于单位面积内总的位错环除以相应标记的 TEM 样品的厚度[13.19]。孔洞在明场像稍微欠焦条件下观察和统计[19]。最后，采用扫描透射电镜X射线能谱仪(STEM/EDS)分析晶界处元素的偏析情况，所用EDS束斑大小为 $0 . 5 \mathrm { n m }$ ，打点时间为 $2 0 \mathrm { ~ s ~ }$ 以避免分析时束斑发生漂移。
+
+![](images/09167411cd3718da6a2bb3153fb4b961cccd74b0ca75bd8ff6cb1bc411ae1df4.jpg)  
+图1辐照试样、硬度测量位置以及TEM试样取样示意图
+
+Fig.1 Schematic of irradiation specimen bars geometry(The irradiated region, hardness measurement positions and $3 \mathrm { - m m }$ TEM disks are highlighted by shaded area,red lines and circles,respectively)
+
+![](images/369aad16d910fd253672b60fd80b4d7277d879a61ba1a9c10105c3f4312823eb.jpg)  
+图23DAP针尖制备过程  
+Fig.2 Procedure for making 3DAP tips
+
+(a) the region of interest protected by Pt deposition (b) trenches cut around the Pt deposition 4
+
+(c) a microtip coupon with a couple of microtip posts   
+(d) top view of the sample wedge siting on the top of the post   
+(e) Pt weld used to connect part of the sample wedge and the microtip post   
+(f) the sample attached to the microtip post   
+(g) side view of the sample post   
+(h) view of the sample after cutting all round off   
+(i) the final 3DAP tip
+
+晶内化学元素偏析和原子团簇分布采用三维原子探针(3DAP)进行表征。原子探针针尖的制备采用 FEIQUANTA 200 3D 聚焦离子束(FIB)系统，制备过程如图2所示。首先利用Ga离子束溅射切割出一个包含辐照区域的小长方体块，具体为：先在试样表面沉积一层约 $1 ~ { \mu \mathrm { m } }$ 厚 $\mathrm { \Phi _ { P t } }$ ，用来标记切割位置并保护试样表面。然后切割出 $\mathbf { P t }$ 覆盖的小长方体块(图 2b)，将试样台倾斜约 $3 0 ^ { \circ }$ ，用 $\mathrm { \sf P t }$ 将小长方体块固定在试样悬臂(Wwire)上，切断小长方体块与试样的连接，移动悬臂将小长方体块固定于3DAP针尖底座上(图 $2 \mathrm { c } { \sim } \mathrm { f } )$ 。用Ga离子束由上往下环形溅射去除表面沉积的 $\mathrm { \sf P t }$ 以及小长方体块的四周，最后用小电流 $\mathrm { ( 0 . 1 \ n A ) }$ 减薄直至得到曲率半径小于 $5 0 \mathrm { n m }$ 的原子探针针尖试样(图 $2 \mathrm { g } { \sim } \mathrm { i } )$ 。试样制备完成后，将其置于CAMECALEAP4000XHR系统中进行元素分析，采用激光脉冲模式，具体实验参数为：真空度 $7 \times 1 0 ^ { - 1 2 } \mathrm { P a }$ ，检测率 $1 \%$ ，脉冲率200$\mathrm { \ k H z }$ ，脉冲能量 $6 0 \mathrm { p J }$ 。
+
+# 2 实验结果
+
+# 2.1 辐照致结构损伤
+
+图3给出了未经辐照和经不同剂量辐照后国产核用304不锈钢试样中微观结构的明场像。可见，辐照致试样中出现了黑点、位错环等微观结构变化，并与试样所受辐照剂量密切相关。在较低的辐照剂量(0.5dpa)下黑点等点缺陷集群开始出现，并伴随出现少量小位错环(图3b)。辐照剂量增加到1.5至 $5 . 0 \mathrm { d p a }$ 时，黑点等点缺陷明显减少直至消失，微观结构变化以位错环为主(图 $3 \mathrm { c } { \sim } \mathrm { e } )$ 。位错环尺寸和数量随辐照剂量明显增加，且位错环没有相互重叠(图3f)。图 $4 \mathrm { a { \sim } e }$ 是 $\scriptstyle \mathbf { g } = 2 0 0$ (z[110])条件下位错环的暗场像，更加清晰地显示了位错环尺寸和密度随辐照剂量的变化。图4f是暗场像观察时对应的衍射花样。
+
+位错环尺寸分布结果如图5所示。可以看出，位错环的直径主要在 $2 { \sim } 1 5 ~ \mathrm { n m }$ 范围。低辐照剂量(0.5和$1 . 5 \mathrm { d p a } )$ 下位错环尺寸分布较为集中且小尺寸位错环所占比例高，一般都不超过 $2 0 \mathrm { n m }$ 。辐照剂量增加到3.0和 $5 . 0 \mathrm { d p a }$ 时，位错环尺寸呈不对称分布，最大尺寸增加到超过 $3 0 \mathrm { n m }$ 。对位错环的平均尺寸和数量密度进行了定量分析，如图6所示，随辐照剂量增加，位错环的尺寸和数量密度都相应增加。其中位错环尺寸随辐照剂量增加缓慢，在 $3 . 0 { \sim } 5 . 0 ~ \mathrm { d p a }$ 范围趋于稳定，而位错环密度则在 $0 { \sim } 1 . 5 \ \mathrm { d p a }$ 范围就快速趋于稳定，并保持在 $1 0 ^ { 2 2 } \mathrm { m } ^ { - 3 }$ 量级。辐照剂量为 $0 . 5 , \ 1 . 5 , \ 3 . 0$ 和 $5 . 0 \mathrm { d p a }$ 时，其对应的位错环尺寸分别为5.81、7.25、8.61和 $9 . 3 4 \mathrm { n m }$ ，而位错环密度则分别为 $0 . 3 6 4 \times 1 0 ^ { 2 2 }$ 、 $1 . 4 2 3 \times 1 0 ^ { 2 2 }$ 、 $1 . 8 0 4 \times 1 0 ^ { 2 2 }$ 和 $2 . 0 1 4 \times 1 0 ^ { 2 2 } \mathrm { m } ^ { - 3 }$ (表1)。
+
+在 TEM明场像欠焦模式下观察了辐照试样中孔洞的分布。如图7所示，0.5、1.5、3.0 和 $5 . 0 \mathrm { d p a }$ 辐照试样中孔洞数量都较少，其尺寸在 $1 { \sim } 5 ~ \mathrm { { n m } }$ 范围，并且随辐照剂量增加没有明显变化。
+
+![](images/186125b79acaa4f1219f1f5df51c98c39c17b211293753e73cadedc9774cb2de.jpg)  
+图3304不锈钢辐照前后的TEM明场像
+
+Fig.3 Bright-field TEM images of304 stainlessteel before (a)and after proton irrdiation toadoseof0.5dpa (b), 1.5 dpa (c), $3 . 0 \mathrm { d p a }$ (d) and 5.0 dpa (e) at $3 6 0 ^ { \circ } \mathrm { C }$ ,and the amplified image of a dislocation loop in Fig.3e (f)
+
+![](images/9efaf181a13d8421d1f5eada36f446083f1969b1430b97634333f65742992477.jpg)  
+图4304不锈钢辐照前后的TEM暗场像
+
+Fig.4 Dark-field TEM images using $\scriptstyle \mathbf { g } = 2 0 0$ (ZA [110]） showing dislocation components in 304 stainless steel before (a) and after proton irradiation to a dose of O.5 dpa (b),1.5 dpa (c), 3.O dpa (d) and $5 . 0 \mathrm { d p a }$ (e)at $3 6 0 ^ { \circ } \mathrm { C }$ and SAED pattern used for the dark-field TEM observation (f)
+
+![](images/e768e970cd5dc794e9987951e83ea4d87951f39dbcd9bc1c87be28103f324d77.jpg)  
+图5不同辐照剂量下304不锈钢中位错环的尺寸分布
+
+Fig.5 Loop size distributions in 3O4 stainless steel following proton irradiation at $3 6 0 ^ { \circ } \mathrm { C }$ to a dose of $0 . 5 \mathrm { d p a }$ (a)，, 1.5 dpa (b), 3.0 dpa (c) and 5.0 dpa (d)
+
+![](images/d80b6ed9767c104f468503e44274afad85b98fbcf817fc36737966073e7aafa8.jpg)  
+图6位错环平均尺寸和数量密度随辐照剂量的变化
+
+Fig.6 Measured changes in density and size of dislocation loops as a function of irradiation dose
+
+# 表1304不锈钢辐照损伤结构和辐照硬化值统计
+
+Table 1 Summary of microstructure and Vickers hardness measurements for 304 stainless steel following proton irradiation at $3 6 0 ^ { \circ } \mathrm { C }$   
+
+<html><body><table><tr><td>Dose / dpa</td><td>N /102² m³</td><td>d / nm</td><td>Microhardness / HV0.025</td><td>Irradiation hardening / HV0.025</td><td>4o / MPa</td></tr><tr><td>0</td><td>·</td><td></td><td>190.9±12.6</td><td>·</td><td></td></tr><tr><td>0.5</td><td>0.364</td><td>5.81</td><td>247.8±11.8</td><td>56.9</td><td>160.4</td></tr><tr><td>1.5</td><td>1.423</td><td>7.25</td><td>294.2±20.7</td><td>103.3</td><td>354.3</td></tr><tr><td>3.0</td><td>1.804</td><td>8.61</td><td>332.3±17.8</td><td>141.4</td><td>434.7</td></tr><tr><td>5.0</td><td>2. 014</td><td>9.34</td><td>362.1±15.2</td><td>171.2</td><td>478.4</td></tr></table></body></html>
+
+Note: N-loop density,d—loop size,,4o—increment of yield strength calculated using Eq.(8)
+
+![](images/5d82ef8b4c03fe8fc2d746cbcd0696a3ac4787072388fe5a62f2326969e18fbb.jpg)  
+图7不同辐照剂量下304不锈钢中孔洞的TEM明场像
+
+Fig.7 Bright field TEM images of voids in 3O4 stainless steel following proton irradiation at $3 6 0 ^ { \circ } \mathrm { C }$ to a dose of 0.5 dpa (a),1.5 dpa (b),3.0dpa (c)and 5.0 dpa (d) (The voids were observed in slightly under-focused condition and highlighted by black arrows)
+
+# 2.2辐照偏析
+
+2.2.1 晶界偏析
+
+图8a\~f给出了未经辐照和辐照后试样晶界处的TEM/EDS 分析结果。未经辐照的试样其晶界处未发生化学成分偏析，而辐照后的试样其晶界处发生了Ni、Si的富集和Cr 的贫化现象，晶界偏析区域约 $1 0 \mathrm { n m }$ 且越靠近晶界处成分偏析程度越大。图 $8 \mathrm { g }$ 给出了晶界处化学成分偏析程度随辐照剂量的变化。可见，在$0 { \sim } 3 . 0 \mathrm { d p a }$ 剂量范围辐照偏析程度与辐照剂量存在正相关关系，继续增加辐照剂量偏析程度则逐渐趋于饱和。在最大辐照剂量 $5 . 0 \mathrm { d p a }$ 时晶界处Cr的贫化与Ni的富集程度达到 $5 \%$ (原子分数)，而 Si在晶界处的富集程
+
+![](images/e55e2ca670d1c0e7926d9374c544d071e086b36a22d6667172a71b9c793568e4.jpg)
+
+Fig.8 Radiation-induced segregation at the grain boundaries in 3O4 stainless steel
+
+(a) Bright field TEM image of a grain boundary in the unirradiated steel showing locations of EDS point- and   
+line-scan analyses   
+(b)\~(f) variations in the composition at grain boundaries in the steel following proton irradiation at $3 6 0 ~ ^ { \circ } \mathrm { C }$ to a   
+dose of unirradiated (b), 0.5 dpa (c),1.5 dpa (d), 3.0 dpa (e) and 5.0 dpa (f)   
+(g) grain boundary composition variations with irradiation doses
+
+# 2.2.2 位错环处偏析
+
+图9给出了3.0 dpa辐照试样晶粒内化学成分分布的3DAP分析结果，显示晶内出现了明显富 Si的原子团簇。为更加直观表征晶内各元素偏析，对化学成分进行了等浓度面分析。由于辐照时 Si原子容易在位错环和晶界等缺陷处偏聚，因此可用 Si原子的偏聚显示位错环的位置[21]。图10a是 Si 的 $2 . 5 \%$ (原子分数，下同)等浓度面图。与图9相比，基体中的 Si都低于此浓度而未显示，清晰地显示了辐照产生的位错环的位置分布。因此，如果做出 Si、Ni、 $\mathrm { C r }$ 和 Mn的等浓度成分分布，通过比较Ni、Cr和Mn在富Si位置的成分分布就能判定位错环处化学元素的整体偏聚情况。图 $1 0 { \mathsf { b } } { \sim } { \mathsf { e } }$ 给出了 $2 . 5 \% \mathrm { { S i } }$ 、 $1 6 . 0 \% \mathrm { { N i } }$ 、 $1 2 . 0 \% \mathrm { C r }$ 和$0 . 6 \% \mathrm { M n }$ 的等浓度成分分布结果。可见，在位错环处都形成富 $\mathrm { \Delta N i }$ 、Si而贫 $\mathrm { C r }$ 和 $\mathbf { M } \mathbf { n }$ 的 Ni-Si原子团簇。从图10a选取单个位错环对偏析程度进行量化分析，图11a是位错环处元素分布结果，图11b是位错环处元素沿径向分布的二维统计结果(统计区域为 $4 \ \mathrm { n m } \times 4 \ \mathrm { n m } \times 4 0 \ \mathrm { n m } )$ 。可以看出，溶质原子在位错环四周发生不均匀偏聚，如位错环 A端(图11b)的 $\mathrm { { N i , S i , C r } }$ 和 $\mathbf { M } \mathbf { n }$ 的含量比B端分别高了约 $30 \%$ 、 $70 \%$ 、 $1 5 \%$ 和 $40 \%$ 。用偏析溶质原子等浓度面分析的方法找出团簇位置，然后加以选定，是计算原子团簇化学成分的简捷方法[223],本实验基于以 $0 . 8 \% \mathrm { S i }$ 等浓度标示出的所有Ni-Si团簇,计算出 Ni-Si团簇的平均化学成分为 $3 . 6 0 \% \mathrm { S i }$ 、$1 4 . 8 7 \% \mathrm { C r }$ 、 $1 2 . 1 8 \% \mathrm { N i }$ 和 $6 9 . 3 5 \%$ Fe。
+
+![](images/697148ed13729fec815fa8eafd9dcc573cb031300ade1f202305e54b4173a006.jpg)  
+图8辐照致304不锈钢中晶界偏析分析  
+图9304不锈钢经 $3 . 0 \mathrm { d p a }$ 辐照后晶内偏析的3DAP分析
+
+Fig.9 3DAP atom maps showing radiation-induced segregation in 3O4 stainless steel following protons rradiation at $3 6 0 ^ { \circ } \mathrm { C }$ to a dose of 3.O dpa (Enrichment of Si and depletion of Mn is evident. The dimension of the box is 69 $\mathrm { n m } \times 7 0 \mathrm { n m } \times 2 2 0 \mathrm { n m } )$ （204号
+
+![](images/d7a9395f1b0a262043fcbaad6ad08b21cc47e1ec89a79487acf6d98c770d5ce1.jpg)  
+图10304不锈钢经 $3 . 0 \mathrm { d p a }$ 辐照后晶内偏析的3DAP等浓度面分析
+
+Fig.10 3DAP atom isoconcentration surface plot of 304 stainless steel following irradiation to a dose of $3 . 0 \mathrm { d p a }$ at
+
+$3 6 0 ^ { \circ } \mathrm { C }$
+
+(a)Dislocation loops and Si-rich clusters are more “visible”using Si isoconcentration surface plot at $2 . 5 \%$   
+(b) overlap of isoconcentration surface plot of Si, Ni, Cr and Mn   
+(c) isoconcentration surface plot of $\mathrm { N i }$ at $16 \%$ (green) and Si $2 . 5 \%$ (gray） showing enrichment of Ni at dislocation   
+loops and Si-rich clusters   
+(d) isoconcentration surface plot of $\mathrm { C r }$ at $12 \%$ (gold) and Si $2 . 5 \%$ (gray） showing depletion of $\mathrm { C r }$ at dislocation   
+loops and Si-rich clusters   
+(e) isoconcentration surface plot of Mn at $0 . 6 \%$ (blue) and Si $2 . 5 \%$ (gray） showing depletion of Mn at dislocation   
+loops and Si-rich clusters
+
+![](images/78ab74c5825bd737a1b52fccb13dd93ce73c6364f0eaf1cd6236beba787591a3.jpg)
+
+![](images/f512e5dd06a8b6db03da62ceb2929b640d6ef1d2d391f3e96aa9dfffdb75c3a2.jpg)  
+图11位错环处成分偏析的3DAP分析结果
+
+Fig.ll 3DAP atom maps showing radiation-induced segregation at a dislocation loop highlighted by shaded area in Fig 1Oa in 3O4 stainless steel following irradiation to a dose of 3.O dpa at $3 6 0 ^ { \circ } \mathrm { C }$ (a) and composition profile across the dislocation loop along the rectangle with dimensions of $4 \ \mathrm { n m } \times 4 \ \mathrm { n m } \times 4 0 \ \mathrm { n m }$ in Fig.1la (b)(The arrows in Fig.11b show the approximate positions of the dislocation core)
+
+# 2.3 辐照硬化
+
+图12a给出了辐照试样表面显微硬度随辐照剂量的变化。可见，辐照后材料发生明显硬化，且硬度值随辐照剂量增加而增加。辐照剂量达到3.0和5.0 dpa后，硬度值增速趋缓。图12b显示辐照硬化值 $( \Delta H )$ 与辐照剂量的平方根成正比关系，比例系数为 $7 9 . 5 \ \mathrm { ( d p a ) } ^ { - 0 . 5 } \mathrm { k g / m m } ^ { 2 }$ 。在5.0 dpa辐照剂量下， $\Delta H$ 增加到171HV,与0.5dpa辐照剂量下相比增长了近3倍(表1)。
+
+![](images/652e4d8dce3bdfa3cf209de63dd58859508652004ab11bf2bbc9c00a032ffdb8.jpg)  
+图12显微硬度随辐照剂量变化和辐照硬化与辐照剂量的关系
+
+Fig.12 Variations of microhardness as a function of irradiation dose (a)and variations of radiation-induced hardening $( \Delta H )$ as a function of the square root of irradiation dose (b)
+
+# 3 分析讨论
+
+# 3.1辐照致材料结构损伤
+
+如图3所示，国产核用304不锈钢辐照损伤结构以位错环为主，并伴以少量孔洞，与文献[13.24的结果一致。Bruemmer 等[15]研究了300 系奥氏体不锈钢辐照结构损伤的影响因素，发现辐照结构损伤主要受辐照温度和辐照剂量的影响。辐照温度超过 $3 0 0 ^ { \circ } \mathrm { C }$ ，辐照致结构缺陷为位错环，其尺寸为 $5 { \sim } 2 0 ~ \mathrm { n m }$ 。空洞的形成则需要更高的温度，高温下间隙原子扩散能力的提高促进空位和气泡的形成，继而空位和气泡聚集形成三维空洞。
+
+位错环的数量密度与级联碰撞过程中间隙原子的偏聚有关[18.25]。质子辐照能导致304不锈钢内部产生级联碰撞，并在级联区域形成外围包裹着间隙原子的空位聚集区，空位通过崩塌形成位错环，这一过程也在氙或其它重离子辐照的奥氏体不锈钢中被证实[18]。增加辐照剂量会形成数量更多和尺寸更大的空位聚集区，因此位错环的尺寸和数量密度也相应增加。
+
+实验中观察到的位错环尺寸和数量密度随辐照剂量的演化规律与文献[15.25]结果基本一致，但位错环的平均尺寸和数量密度存在明显差异。如图6所示，实验中观察到位错环的数量密度随辐照剂量快速增加，并在1.5dpa时稳定于 $1 0 ^ { 2 2 } \mathrm { m } ^ { - 3 }$ 量级，比文献[25观察到的低约1个数量级。另一方面，位错环的尺寸随辐照剂量增加较缓，在 $3 . 0 { \sim } 5 . 0 \$ dpa时达到稳定，而文献[25]观察到的位错环尺寸在较低剂量(约1.0 dpa)时就趋于稳定。位错环尺寸和数量密度直接反映材料辐照后结构损伤变化，因此位错环尺寸和数量密度的数值大小可以表征材料受辐照损伤的程度。图13给出了文献25和基于本研究结果的位错环数量密度(N)和直径(d)乘积值的平方根 $( N d ) ^ { 0 . 5 }$ 随辐照剂量平方根的变化。国产核用304不锈钢辐照后的 $( N d ) ^ { 0 . 5 }$ 随辐照剂量平方根成正比，比例系数为 $( 6 . 8 \times 1 0 ^ { 3 } )$ ） $\left( \mathrm { { d p a } } \right) ^ { - 0 . 5 } / \mathrm { { m m } }$ ，约为文献[25]中数值的一半，其结构损伤程度明显小于文献[25]中同种材料。
+
+![](images/7033ed29ea91df41fe7195eabbde1a6c7bd27d981635febf8983ebfc19c86e6b.jpg)  
+图13位错环数量密度和直径乘积值的平方根 $( \mathrm { N d } ) ^ { 0 . 5 }$ 随辐照剂量的变化
+
+Fig.13 Variations of the square root of the product of dislocation loop density and size $( N d ) ^ { 0 . 5 }$ as a function of the square root of irradiation dose
+
+# 3.2 辐照致材料成分偏析
+
+图8和11所示材料在晶界和位错环处发生的成分偏析，是溶质原子与间隙原子、空位交换速率不对
+
+等的结果[14,26]。基于逆 Kirkendall 效应，研究者提出了Perks 模型[27,28]，能够较好解释辐照后材料中溶质原子的偏析：
+
+$$
+\begin{array} { r } { d _ { v m } ^ { x } = \lambda ^ { 2 } \omega _ { x , v } f _ { x , v } e x p \ : ( \frac { - E _ { v m } ^ { x } } { K T } ) } \end{array}
+$$
+
+$$
+\begin{array} { r } { d _ { i m } ^ { x } = \frac { 2 } { 3 } \lambda ^ { 2 } \omega _ { x , i } f _ { x , i } e x p ( \frac { - E _ { i m } ^ { x } } { K T } ) } \end{array}
+$$
+
+式中， $x$ 为Fe，Ni， $\mathrm { C r }$ 等溶质原子， $d _ { v m } ^ { x }$ 为溶质原子通过空位的扩散系数， $d _ { i m } ^ { x }$ 为溶质原子通过间隙原子的扩散系数， $\lambda$ 为迁移位移， $\omega _ { x , v }$ 为溶质原子与空位交换频率， $\omega _ { x , i }$ 为溶质原子与间隙原子交换频率， $f _ { x , v }$ 和$f _ { x , i }$ 为频率交换系数， $E _ { v m } ^ { x }$ 为空位迁移能， $E _ { i m } ^ { x }$ 为间隙原子形成能， $K$ 为 Boltzmann 常量， $T$ 为辐照温度。
+
+利用文献[29-32给出的计算参数，以Cr的扩散为例，可知dm/ /dr>10，即辐照后材料中溶质原子的偏析主要由 $d _ { v m } ^ { x }$ 决定。因此，以下只讨论 $d _ { v m } ^ { x }$ 对偏析的影响。
+
+溶质原子扩散速率 $D _ { x }$ 与空位浓度 $C _ { v }$ 存在以下关系[30]：
+
+$$
+D _ { x } = \ d _ { v m } ^ { x } \times \ C _ { v }
+$$
+
+$\mathrm { C r }$ $D _ { C r } / _ { D _ { N i } } = 2 . 5 5$ $D _ { F e } / _ { D _ { N i } } = 1 . 6 8$ ，即，
+
+$$
+^ { D _ { C r } } / _ { D _ { N i } } > ^ { D _ { F e } } / _ { D _ { N i } } > 1
+$$
+
+辐照偏析为溶质原子随着空位向晶界等处迁移(图14)，实质为原子通量，其偏析程度可表示为溶质原子浓度与扩散速率的函数。由于Fe、Ni、 $\mathrm { C r }$ 原子的偏析总和为 $100 \%$ ，对其归一化处理，得出贫 $\mathrm { C r }$ 程度由 $J _ { C r } / ( J _ { C r } + J _ { F e } )$ 的比值决定[30]：
+
+$$
+\begin{array} { r } { \frac { J _ { C r } } { J _ { C r } + J _ { F e } } = \frac { C _ { C r } D _ { C r } } { C _ { C r } D _ { C r } + C _ { F e } D _ { F e } } } \end{array}
+$$
+
+式中， $J _ { C r }$ 为 $\mathrm { C r }$ 原子通量， $J _ { F e }$ 为Fe 原子通量。可见，Fe、Ni和 $\mathrm { C r }$ 原子的扩散速率为 $\mathrm { D } _ { C r } { > } \mathrm { D } _ { F e } { > } \mathrm { D } _ { N i }$ ，即 $\mathrm { C r }$ 的扩散速率快于Ni，所以受辐照的304不锈钢试样在晶界出现富Ni而贫 $\mathrm { C r }$ 现象(图8)。贫 $\mathrm { C r }$ 富Ni程度不仅取决于 $\mathrm { C r }$ 和 $\mathrm { N i }$ 与点缺陷交互作用的强弱程度，还与合金化学成分有关。随着辐照剂量增加，辐照产生缺陷的尺寸和数量增加(式(3)中 $C _ { v }$ 值)，促使溶质原子的扩散速率增加，故观察到304不锈钢试样晶界偏析程度随辐照剂量增加而增加(图 $8 \mathrm { g }$ 。Fe原子在晶界的偏析取决于其和其它溶质原子的相对扩散系数及Cr和 Ni的相对含量。Allen 等[33观察到在多数奥氏体不锈钢中出现晶界贫Fe 现象，但当Ni和Cr的含量比值较低使得晶界处富Ni量少于贫Cr量时，也会出现富Fe现象。
+
+图15给出了 $3 . 0 \mathrm { d p a }$ 辐照后试样晶界和位错环处的成分偏析分析结果。整体来看，位错环处的偏析与晶界处类似，都是贫Fe、 $\mathrm { C r }$ 和富 Si、Ni，且Fe、Cr和Ni在位错环处的偏析程度与晶界处相近。另一方面，Si在位错环处的偏析程度则数倍于晶界处。Jiao等[21对加 Si304 不锈钢的研究也证实了此现象，其可能与 Si的扩散过程有关。偏聚过程中 Si与间隙原子作用发生上坡扩散,而Fe、Cr和Ni主要与空位作用[15]。从图10和11分析结果也可看出，位错环处发生不均匀的偏析，当成分偏析到一定程度满足形成相的成分条件时有可能形成新相。事实上，已有研究者[34,35在高剂量辐照不锈钢中发现位错环处析出了Y相，其 $\mathrm { S i / ( S i / + N i ) }$ 的含量约为 $2 5 . 0 \%$ ，高于Si-Ni团簇的 $2 2 . 8 \%$ 。因此，实验中观察到的富Si-Ni原子团簇可能是
+
+Y相的前驱物，随着辐照剂量继续增加，Si、Ni继续在位错环处偏析，最终可能形成γ相。
+
+![](images/4c88220114c77d44ba4e2a7544ffd23afc5183d515b47ffa567b24d11c02287e.jpg)  
+图14辐照致晶界偏析示意图
+
+Fig.14 Schematic showing vacancy and solute atom flows and composition changes for mechanisms of radiation-induced segregation
+
+![](images/b910d86540152bf8ea148682aad4c718adc030b443aefab9ed880a79f977abbc.jpg)  
+图15晶界和位错环处元素偏析含量及位错环处元素偏析量与晶界处偏析量比值
+
+Fig.15 Radiation induced segregation at the grain boundary and at the dislocation loop in 304 stainless steel following irradiation to 3.O dpa at $3 6 0 ~ ^ { \circ } \mathrm { C }$ (a) and ratio of the segregation at dislocation loop to that at grain boundary (b)
+
+# 3.3辐照致材料力学性能变化
+
+材料受辐照后产生大量微、纳观尺度的缺陷造成位错运动受阻是辐照硬化的原因[16.17,36.37]。弥散障碍
+
+硬化 $\mathbf { \langle D B H \rangle } ^ { [ 1 4 , 1 6 ] }$ 和源硬化[17等模型可较好地解释材料微观结构变化和辐照硬化之间的关系。在 DBH 模型中，辐照硬化值 $\Delta H$ 与位错环数量密度和直径乘积值的平方根成正比，即：
+
+$$
+\varDelta H \propto ( N d ) ^ { 0 . 5 }
+$$
+
+图16给出了基于本研究结果和文献2报道结果的 $\Delta H$ 与 $( N d ) ^ { 0 . 5 }$ 的拟合曲线，得出国产核用304不锈钢辐照硬化值 $\Delta H ( \mathrm { k g / m m } ^ { 2 } )$ 与位错环数量密度和直径乘积值的平方根 $( N d ) ^ { 0 . 5 } ( \mathrm { m m } ^ { - 1 } )$ 的比例系数，即
+
+$$
+\varDelta H = ( 1 . 1 6 \times 1 0 ^ { - 2 } ) \times ( N d ) ^ { 0 . 5 }
+$$
+
+由前面对位错环等微观缺陷的分析可知，位错环的尺寸和数量与辐照剂量呈正相关(图6)，因此AH也随辐照剂量增加而增加(图12)。研究[37.38表明，辐照形成的原子团簇和基体间模量不协调造成的模量失谐同样也会引起材料的硬化。
+
+250 solid shape, this study 200 unirradiated Slope=6.8x10-3 0.5 dpa □ 1.5 dpa 150 3.0 dpa zww//m / HV 5.0 dpa 100 Slope=11.6×10-3 hollow shape Ref. [25] □ 0.3 dpa □ 50 □ 1.0 dpa □ 3.0 dpa □ 0 □ 5.0 dpa 0 5 10 15 20 25 30 (No)0.5 / 10³/mm
+
+Fig.16 Variations of irradiation-induced hardening $( \Delta H )$ as a function of the square root of the product of dislocation loop density and size
+
+源硬化模型认为，屈服强度的增加可以用位错环的数量密度与尺寸等参数共同表征：
+
+$$
+\Delta \sigma = M \alpha \mu b ( N d ) ^ { 0 . 5 }
+$$
+
+式中， $\Delta \sigma$ 是屈服强度增量; $\scriptstyle M = 3 . 0 6$ ，是 fcc 结构对应的Taylor系数； $\scriptstyle a = 0 . 6$ ，是位错环强化因子； $\scriptstyle \mu = 7 6$ GPa,是切变模量； $b { = } 2 . 5 { \times } 1 0 ^ { - 8 } \mathrm { c m }$ ，是 Burgers 矢量的模。由式(7)和(8)，可以得出国产核用 304 不锈钢辐照后 $\Delta \sigma$ 与 $\Delta H$ 的关系：
+
+$$
+\Delta \sigma = 2 . 9 8 \times \Delta H
+$$
+
+Higgy等[39通过统计分析得出304不锈钢辐照后 $\Delta \sigma$ 和 $\Delta H$ 的经验关系：
+
+$$
+\Delta \sigma = 3 . 5 5 \times \Delta H
+$$
+
+可见，按式(9)和(10)计算的 $\Delta \sigma$ 有明显差异，用经验公式(10)来预测国产核用不锈钢材料辐照硬化会与实际情况产生偏差，其原因可能主要是材料因素的影响，经验公式(10)考虑了位错环、空位和空洞的作用，而本实验中很少观察到空洞，其数量密度与尺寸都很低。
+
+# 4结论
+
+(1)304不锈钢辐照损伤微观结构以位错环和少量孔洞为主，并发生辐照偏析和辐照硬化。位错环平均尺寸和数量密度、晶界偏析程度以及辐照硬化值等都随辐照剂量增加而增加，且在 $3 . 0 { \sim } 5 . 0 \mathrm { d p a }$ 范围趋于饱和。(2）辐照致304不锈钢中位错环的数量密度稳定于 $1 0 ^ { 2 2 } \mathrm { m } ^ { - 3 }$ 量级，平均尺寸小于 $1 0 \mathrm { n m }$ ，位错环数量密度和直径乘积值的平方根 $( N d ) ^ { 0 . 5 }$ 与辐照剂量平方根成正比，比例系数为 $( 6 . 8 \times 1 0 ^ { 3 } )$ ） $\mathrm { { ( d p a ) } ^ { - 0 . 5 } / m m }$ 。空洞尺寸一般小于 $5 \mathrm { n m }$ 且随辐照剂量变化不明显。(3)304不锈钢辐照致晶界和位错环处发生了Ni、Si的富集和 $\mathrm { C r }$ 、Fe 的贫化。Ni、 $\mathrm { C r }$ 和 Fe 在位错环和晶界处的偏析程度相近，而Si在位错环处的偏析程度则数倍于晶界。(4）304不锈钢辐照后 $\varDelta H$ 与辐照剂量的平方根成正比，比例系数为 $7 9 . 5 \ : \ : \mathrm { ( d p a ) } ^ { - 0 . 5 } \ : \mathrm { k g / m m } ^ { 2 }$ ，同时 $\varDelta H$ 与$( N d ) ^ { 0 . 5 }$ 成正比，比例系数为( $\phantom { + } 1 . 1 6 \times 1 0 ^ { - 2 }$ ） $\mathrm { k g / m m }$ 。(5)304 不锈钢辐照后位错环尺寸、数量密度与辐照剂量以及辐照硬化与位错环尺寸、数量密度的量化关系与文献报道结果存在不同， $( N d ) ^ { 0 . 5 }$ 与辐照剂量平方根比例系数约为文献值一半， $\varDelta H$ 与 $( N d ) ^ { 0 . 5 }$ 比例系数则为文献值的1.7倍。
+
+致谢：感谢上海大学分析测试中心以及中国科学院金属研究所程钊和熊婷博士的帮助。
+
+# 参考文献
+
+[1] Stephenson K J, Was G S. Crack initiation behavior of neutron irradiated model and commercial stainless steels in high temperature water [J]. J. Nucl. Mater., 2014, 444(1): 331   
+[2] Ioka I, Ishijima Y, Usami K, et al. Radiation hardening and IASCC susceptibility of extra high purity austenitic stainless steel [J]. J. Nucl. Mater., 2011, 417(1): 887   
+[3] Fukuya K, Nakano M, Fuji K, et al. IASCC susceptibility and slow tensile properties of highly-irradiated 316 stainless steels [J]. J. Nucl. Sci. Technol., 2O04, 41: 673   
+[4] Gerard R， Somville F. Situation of the baffle-former bolts in Belgian units [A]. 17th International Conference on Nuclear Engineering [C]. New York: American Society of Mechanical Engineers,2009: 521   
+[5] Andresen PL,Ford F P, Murphy $\textbf { \textrm { S M } }$ ，et al.State of knowledge of radiation effects on environmental cracking in light water reactor core materials [A]. Proceeding. 4th International Symposium on Environmental Degradation of Materials in Nuclear Power Systems - Water Reactors [C]. Houston: National Association of Corrosion Engineers, 1989: 83   
+[6] Nishioka H,Fukuya K,FujiiK, et al. IASCC initiation in highly irradiated stainless steels under uniaxial constant load conditions [J]. J. Nucl. Sci. Technol., 2OO8, 45: 1072   
+[7] Zhou R, West E A, Jiao Z, et al. Irradiation-assisted stress corrosion cracking of austenitic alloys in supercritical water [J]. J. Nucl. Mater., 2009, 395(1): 11   
+[8] Was G S, Bruemmer S M. Effects of irradiation on intergranular stress corrosion cracking [J]. J. Nucl. Mater., 1994, 216:326   
+[9] Stephenson K J,Was G S. Comparison of the microstructure, deformation and crack initiation behavior of austenitic stainless steel irradiated in-reactor or with protons [J]. J. Nucl. Mater.,2015, 456: 85   
+[10] Jiao Z, Was G S,Miura T, et al. Aspects of ion irradiations to study localized deformation in austenitic stainless steels [J]. J. Nucl. Mater., 2014, 452(1): 328   
+[11] Jiao Z, Was G S. Impact of localized deformation on IASCC in austenitic stainless steels [J]. J. Nucl. Mater., 2011, 408(3): 246   
+[12] Jiao Z, Was G S. Oxidation of a proton-irradiated 316 stainless steel in simulated BWR NWC environment [A]. Proceeding.15th International Symposium on Environmental Degradation of Materials in Nuclear Power Systems - Water Reactors [C]. Chichster: John Wiley & Sons,2011: 1329   
+[13] Gan J, Was G S. Microstructure evolution in austenitic Fe-Cr-Ni alloys irradiated with protons: comparison with neutron-irradiated microstructures [J]. J. Nucl. Mater., 2O01, 297(2): 161   
+[14] Was G S. Recent developments in understanding irradiation assisted stress corrosion cracking [A]. Proceeding 11th International Symposium on Environmental Degradation of Materials in Nuclear Power Systems - Water Reactors [C]. Washington: American Nuclear Society,2003: 965 [15] Bruemmer S M, Simonen E P, Scott P M, et al. Radiation-induced material changes and susceptibility to intergranular failure of light-water-reactor core internals [J]. J. Nucl. Mater.,1999, 274(3): 299   
+[16] Edwards D J, Simonen E P, Bruemmer S M. Evolution of fine-scale defects in stainless steels neutron-irradiated at $2 7 5 ^ { \circ } \mathrm { C }$ [J]. J. Nucl. Mater., 2003, 317(1): 13   
+[17] Singh B N, Foreman AJE,Trinkaus H. Radiation hardening revisited: role of intracascade clustering [J]. J. Nucl. Mater.,1997,249(2-3): 103   
+[18] Huang H F, Li J J, Liu R D,et al. Temperature effect of Xe ion irraidation to 316 austenitic stainless steel [J]. Acta Metall. Sin., 2014, 55: 1189   
+(黄鹤飞，李健健，刘仁多等．316 奥氏体不锈钢离子辐照损伤中的温度效应研究[J].金属学 报,2014, 55: 1189)   
+[19] Jiao Z, Was G S. The role of irradiated microstructure in the localized deformation of austenitic stainless steels [J]. J. Nucl. Mater., 2010, 407(1): 34   
+[20] Gupta G, Jiao Z, Ham A N, et al. Microstructural evolution of proton irradiated T91 [J]. J. Nucl. Mater., 2006,351(1): 162   
+[21] Jiao Z, Was G S. Novel features of radiation-induced segregation and radiation-induced precipitation in austenitic stainless steels [J]. Acta Mater., 2001, 59(3):1220   
+[22] Miller M K. Atom Probe Tomography: Analysis at the Atomic Level [M]. New York: Springer Science & Business Media, 2012   
+[23] Liu W Q, Liu Q D, Gu J F. Development and application of atom probe tomography [J]. Acta Metall. Sin., 2013, 49: 1025   
+(刘文庆，刘庆冬，顾剑锋．原子探针层析技术(APT)最新进展及应用 [J].金属学报，2013，49: 1025) [24] Sencer B H, Was G S, Sagisaka M, et al. Proton irradiation emulation of PWR neutron damage microstructures in solution annealed 304 and cold-worked 316 stainless steels [J]. J. Nucl. Mater., 2003, 323(1): 18   
+[25] Gan J,Edwards DJ, Simonen E P, et al. Microstructural evolution and hardening in 300-series stainless steels: comparison between neutron and proton irradiations [A]. Proceeding. 10th International Symposium on Environmental Degradation of Materials in Nuclear Power Systems - Water Reactors [C]. Houston: NACE international Publications, 2002   
+[26] Wiedersich H, Okamoto P R，Lam N Q. A theory of radiation-induced segregation in concentrated alloys [J]. J. Nucl. Mater., 1979, 83(1): 98   
+[27] Perks JM, Marwick A D, English C A.A Computer Code to Calculate Radiation-induced Segregation in Concentrated Ternary Alloys [M]. Harwel: AEA Technology， Atomic Energy Research Establishment, 1986   
+[28] Allen TR, Was G S. Modeling radiation-induced segregation in austenitic Fe-Cr-Ni alloys [J]. Acta Mater., 1998, 46: 3679   
+[29] Rothman S J, Nowicki LJ, Murch G E. Self-diffusion in austenitic Fe-Cr-Ni alloys [J]. J. Phys. F: Met.Phys., 1980, 10(3): 383   
+[30] Allen T R，Was G S,Kenik E A. The effect of alloy composition on radiation-induced segregation in Fe-Cr-Ni alloys [J]. J. Nucl. Mater., 1997,244(3): 278   
+[31] Siegel R W. Vacancy concentrations in metals [J]. J. Nucl. Mater., 1978, 69: 117   
+[32] Kiritani M,Takata H,Dynamic studies of defect mobility using high voltage electron microscopy [J]. J. Nucl. Mater.,1978, 69&70: 277   
+[33] Allen TR, Busby JT, Was G S,et al. On the mechanism of radiation-induced segregation in austenitic Fe-Cr-Ni alloys [J]. J. Nucl. Mater., 1998,255(1): 44   
+[34] Lee E H, Maziasz PJ, Rowcliffe AF, et al. Phase Stability during Irradiation [M]. Warrendale: TMS-AIME,1981   
+[35] Was G S, Busby JT. Use of proton irradiation to determine IASCC mechanisms in light water reactors: solute addition alloys [R]. Final Report, EPRI Project EP-P3038C,1434, 2003   
+[36] Wan Q M, Shu G G, Wang R S,et al. Study on the microstructure evolution of A508-3 steel under proton irradiation [J]. Acta Metall. Sin., 2012, 48: 929   
+(万强茂，束国刚，王荣山等．A508-3 钢质子辐照条件下微结构演变研究[J]．金属学报，2012, 44: 929)   
+[37] Li Z C, Chen L. Irradiation emerittlement mechanisums and relevant influence factors of nuclear reactor pressure vessel steels [J]. Acta Metall. Sin., 2014, 50: 1285   
+(李正操，陈良．核能系统压力容器辐照脆化机制及其影响因素 [J].金属学报,2014,50:1285) [38] Li Z C,Abe H, Sekimura N. Detection of point defects upon ion irradiation by means of precipitate coherency [J]. J. Nucl. Mater., 20O7; 362(1): 87   
+[39] Higgy H R,Hammad F H. Eect of fast-neutron irradiation on mechanical properties of stainless steels: AISI types 304, 316 and 347[J]. J. Nucl. Mater., 1975,55(2): 177

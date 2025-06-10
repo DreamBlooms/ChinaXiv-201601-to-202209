@@ -1,0 +1,171 @@
+1 阴外动脉灌注乳脂前体物对奶牛产奶量及乳腺内短链脂肪酸摄取规律的影响
+
+2 冯永辉 闫素梅\* 韩慧娜 生冉郭晓宇
+
+3 （内蒙古农业大学动物科学学院，呼和浩特 010018）  
+4 摘要：本试验研究了阴外动脉灌注乳脂前体物对奶牛产奶量及乳腺内短链脂肪酸摄取规律  
+5 的影响。选择8头健康荷斯坦奶牛分为2组，每组4头牛。采用 $2 { \times } 2$ 交叉试验设计，2组分  
+6 别饲喂2种不同粗饲料[苜蓿（MF组）、玉米秸秆（CS组）]的饲粮，饲粮的精粗比为 45:55。  
+7 试验分为2阶段，每阶段 $2 0 \mathrm { d }$ ，其中预试期14d，载体灌注期3d，乳脂前体物灌注期3d。  
+8 在载体灌注期，MF组与CS 组均接受载体灌注，分别命名为MFCi组和CSC 组；在乳脂前  
+9 体物灌注期，MF 组继续接受载体灌注（ $\mathbf { M F C } _ { 2 }$ 组），CS 组灌注乳脂前体物（CSF组）。测  
+10 定产奶量、干物质采食量及乳成分。采集尾动脉和乳静脉血浆测定短链脂肪酸浓度和脂肪酸  
+11 比例。结果表明：1）在灌注乳脂前体物前，CSC 组产奶量、 $4 \%$ 乳脂校正乳产量、乳脂产量、  
+12 乳蛋白产量和产乳脂效率显著低于 $\mathbf { M F C } _ { 1 }$ 组 $( P { < } 0 . 0 5 )$ ），CSC 组尾动脉血浆中短链脂肪酸浓  
+13 度及短链脂肪酸/长链脂肪酸有低于 $\mathbf { M F C } _ { 1 }$ 组的趋势 $( 0 . 0 5 { \leqslant } P { < } 0 . 1 0 )$ ）。2）灌注乳脂前体物后，  
+14 CSF 组产乳脂效率和乳蛋白率显著高于CSC 组（ $P { < } 0 . 0 5$ ），CSF 组产奶量、 $4 \%$ 乳脂校正乳  
+15 产量、乳脂率和乳蛋白率尽管在数值上仍然低于 $\mathbf { M F C } _ { 2 }$ 组，但组间差异不显著（ $P { > } 0 . 0 5 \ '$ ），  
+16 而 CSF 组产乳脂效率显著高于 $\mathbf { M F C } _ { 2 }$ 组（ $. P { < } 0 . 0 5$ ）。3）灌注乳脂前体物后，CSF组尾动脉  
+17 血浆中乙酸、丙酸以及短链脂肪酸浓度显著高于CSC 组（ $. P { < } 0 . 0 5$ ），且乙酸、丁酸及短链  
+18 脂肪酸浓度显著高于 $\mathbf { M F C } _ { 2 }$ 组 $( P { < } 0 . 0 5 ) \$ ，短链脂肪酸/长链脂肪酸有低于 $\mathbf { M F C } _ { 2 }$ 组的趋势（0.05  
+19 ≤P<0.10）。4）除CSF 组丁酸动静脉差有高于CSC 组的趋势（ $0 . 0 5 { \leqslant } P { \ < } 0 . 1 0$ ）外，CSC组  
+20 与 $\mathbf { M F C } _ { 1 }$ 组、CSC 组与CSF 组、CSF 组与 $\mathbf { M F C } _ { 2 }$ 组乳腺对乙酸、丙酸、丁酸、短链脂肪酸  
+21 的摄取量、摄取率和动静脉差均无显著差异（ $. P { > } 0 . 0 5$ ）。结果提示，以玉米秸秆为粗饲料奶  
+22 牛灌注乳脂前体物可显著增加奶牛的产奶量、乳脂率和乳脂产量，并达到与以苜蓿等为粗饲
+
+收稿日期：2016-10-13  
+基金项目：国家奶业“973计划”项目（2011CB1008003）  
+作者简介：冯永辉（1989-)，男，内蒙古通辽人，硕士研究生，从事反刍动物营养研究。E-mail:  
+fengyonghui0912@163.com  
+\*通信作者：闫素梅，教授，博士生导师，E-mail：yansmimau@163.com
+
+料相似的水平，且具有较高的产乳脂效率，但对乳腺内短链脂肪酸的摄取量和摄取率无显著的影响。
+
+关键词：乳腺;阴外动脉;乳脂前体物;短链脂肪酸
+
+中图分类号：S823
+
+- Εパ{·νzU  
+牛奶营养品质的改善是提高奶产品市场竞争力的有利保证[1]。乳脂是牛奶的主要成分，是衡量牛奶品质的重要指标。乳腺中约 $5 0 \%$ 的脂肪酸来源于乳脂前体物在乳腺内的重新合成，其中包括中短链 $( { \bf C } 4 { \sim } { \bf C } 1 4 )$ 脂肪酸以及 $5 0 \%$ 的C16 脂肪酸[2]；C18 脂肪酸和 $5 0 \%$ 的C16脂肪酸均来自饲粮[3]。我国是一个秸秆生产大国，每年玉米秸秆的产量高达 2.2亿t4]，而且一些地方还存在以玉米秸杆作为奶牛饲粮的主要粗饲料，由于其营养价值却远低于优质牧草，不利于奶牛产奶性能和乳品质的充分发挥。因此，在充分利用玉米秸秆资源为粗饲料的情况下，如何提高产奶量和改善乳品质是当前亟待解决的问题。灌注一定量的乳脂前体物对奶牛合成乳脂等乳成分有一定的促进作用的报道许多，但研究结果不尽一致。张福全[5]研究了奶牛阴外动脉灌注脂肪酸和氨基酸对乳腺脂肪酸代谢的影响，发现在低质粗饲料的饲粮条件下，灌注脂肪酸有增加乳脂率的趋势，并显著提高乳腺对 ${ \bf C } 1 8 { : } 2 { \mathrm { ~ n - 6 ~ } }$ 的摄取率；与载体灌注相比，脂肪酸灌注增加了乳腺对C16:0 的摄取及乳腺脂肪酸平衡。Maxin 等通过在瘤胃内灌注一定量的乙酸时发现，乳脂率提高了 $6 . 5 \%$ ，而对乳脂产量没有显著的影响。Purdie等[7的试验指出，奶牛阴外动脉灌注乙酸钠后，显著地提高了乳蛋白率，乳脂率也有增加的趋势，尽管血浆中乙酸的浓度相比增加了 $123 \%$ ，并且乳腺的摄取率相比增加了 $12 8 \%$ ，但是乳脂产量、乳腺对长链脂肪酸（LCFA）与 $\beta$ 羟丁酸（BHBA）的摄取量均没有产生显著的变化。作者曾以玉米秸秆与苜蓿为粗饲料进行比较饲养试验，发现单纯饲喂玉米秸秆可使奶牛乳腺内乳脂前体物供给不足而导致乳脂产量降低。因此推测，在玉米秸秆为粗饲料条件下，补充供给奶牛缺乏的乳脂前体物可以提高产奶量及乳腺对短链脂肪酸的摄取，但目前有关该领域的研究报道极少。鉴于此，本试验给饲喂玉米秸秆的奶牛阴外动脉中灌注乳脂前体物，通过测定动静脉血浆中短链脂肪酸的浓度与比例及乳腺的摄取量，来探讨灌注乳脂前体物对产奶量及乳腺内短链脂肪酸摄取规律的影响，为有效提高秸秆饲料资源的利用效率和提高乳品质奠定科学依据。
+
+1材料与方法
+
+# 1.1试验设计
+
+本试验采用 $2 { \times } 2$ 交叉试验设计，选择8头中国荷斯坦奶牛[经产、泌乳中期、健康无病、体况良好、产奶量为（ $2 0 . 1 7 { \scriptstyle \pm 1 . 2 8 }$ ） $\mathrm { k g / d } ]$ ，随机分为2组，每组4头牛，分别饲喂2 种不同粗饲料[苜蓿（MF组）、玉米秸秆（CS 组）]的饲粮。MF 组的饲粮粗饲料包括苜蓿、玉米青贮和羊草，CS 组的饲粮粗饲料仅有玉米秸秆。试验分为2阶段，每阶段20d，分别设置预试期14d，载体灌注期3d，乳脂前体物灌注期3d。在载体灌注期，MF 组奶牛接受载体灌注（MFCi组），玉米秸秆组奶牛也接受载体灌注（CSC 组）；在乳脂前体物灌注期，MF 组奶牛继续接受载体灌注（ $\mathbf { M F C } _ { 2 }$ 组），CS 组奶牛灌注乳脂前体物（CSF组）。各组采用相同的精饲料，精粗比均为45:55，采用全混合日粮（TMR）形式饲喂。基础饲粮组成及营养水平见表1。奶牛自由饮水和采食，保证每日的剩料量是投料量的 $5 \%$ 。每天挤2次奶，分别为06:00 和18:00。在灌注期前1周于奶牛的阴外动脉埋置血插管。
+
+表1基础饲粮组成及营养水平(干物质基础)   
+
+<html><body><table><tr><td>项目Items</td><td>CS组 CS group</td><td>MF组 MF group</td></tr><tr><td>原料Ingredients</td><td></td><td></td></tr><tr><td>玉米青贮 Corm silage</td><td></td><td>3.70</td></tr><tr><td>羊草 Chinese wildrye</td><td></td><td>26.70</td></tr><tr><td>进口苜蓿Imported alfalfal</td><td></td><td>23.40</td></tr><tr><td>玉米秸杆 Corm stover2</td><td>53.80</td><td></td></tr><tr><td>玉米 Corm</td><td>24.70</td><td>24.70</td></tr><tr><td>豆粕 Soybean meal</td><td>14.80</td><td>14.80</td></tr><tr><td>棉籽 Cottonseed</td><td>5.10</td><td>5.10</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>0.60</td><td>0.60</td></tr><tr><td>食盐 NaCl</td><td>0.50</td><td>0.50</td></tr><tr><td>预混料Premix3)</td><td>0.50</td><td>0.50</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels</td><td></td><td></td></tr><tr><td>粗蛋白质CP</td><td>13.61</td><td>18.14</td></tr><tr><td>淀粉 Starch</td><td>15.32</td><td>21.50</td></tr><tr><td>粗脂肪 EE</td><td>2.84</td><td>3.97</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>29.10</td><td>21.30</td></tr><tr><td>中性洗涤纤维 NDF</td><td>44.30</td><td>32.30</td></tr><tr><td>产奶净能 NE/（MJ/kg)</td><td>1.04</td><td>1.57</td></tr></table></body></html>
+
+1 进口苜蓿的营养水平（干物质基础）Imported alfalfa nutrient levels (DMbasis)：粗蛋白质 $C P 2 0 . 8 2 \%$ ，粗脂肪 EE $2 . 0 9 \%$ ，酸性洗涤纤维 ADF $3 3 . 4 0 \%$ ，中性洗涤纤维 NDF $4 5 . 8 0 \%$ 。
+
+3)每千克预混料含有 One $\mathbf { k g }$ of premix contained the following: VA 700 000 IU,VD3 120 000 IU,VE 2 100mg，Fe $1 7 5 0 \mathrm { m g }$ ，Cu $1 6 0 0 \mathrm { m g }$ ， $\mathrm { Z n 1 0 0 0 0 m g }$ ， $\mathrm { M n } \ : 3 \ : 5 0 0 \ : \mathrm { m g }$ ，Se $4 2 \mathrm { m g }$ ， $\mathrm { ~ I ~ } 8 4 \mathrm { ~ m g ~ }$ ，Co $4 2 \mathrm { m g }$ 。
+
+# 1.2 灌注液的组成与配制
+
+通过以下公式确定乳脂前体物的灌注量：
+
+乳脂前体物的灌注量 $\mathbf { \Psi } = \mathbf { \Psi }$ （MF组奶牛合成乳脂的过程中由血浆供给的脂肪酸的总量-CS组奶牛合成乳脂的过程中由血浆供给的脂肪酸的总量） $\times 1 0 \%$ 。
+
+本试验采用微量恒流泵对奶牛的阴外动脉进行血液灌注，每头每天乳脂前体物总灌注量约 $2 8 0 \ \mathrm { g }$ ，其中，长链脂肪酸约为 $2 0 0 \ \mathrm { g }$ ，短链脂肪酸约为 $8 0 ~ \mathrm { g }$ 。灌注液的总体积为 $2 \mathrm { L }$ ，每天持续灌注6h,灌注时间为早晨采食开始时。灌注的乳脂前体物由长链脂肪酸C16:0、C18:0、C18:1c9、C18:2c6、C18:3n3及短链脂肪酸乙酸组成，含量分别为 $6 . 5 0 \%$ 、 $3 . 3 4 \%$ 、 $7 . 7 4 \%$ 、$4 6 . 4 4 \%$ 、 $5 . 5 7 \%$ 和 $3 0 . 2 1 \%$ 。其中，长链脂肪酸的原料由亚麻油（主要提供 $\mathrm { C l } 8 { : } 3 \mathrm { n } 3$ ）、红花籽油（主要提供C16:0、C18:1c9 和 $C 1 8 { : } 2 c 6$ ）和硬脂酸甘油三酯（主要提供C18:0）组成，短链脂肪酸的原料为无水乙酸钠（主要提供乙酸）。载体灌注液的主要配制过程：准确称取6g大豆卵磷脂溶解到生理盐水中，加热搅拌均匀。待混合液降至室温时，定容至1L。高压均质。均质后的液体经4层纱布过滤，高压灭菌后分装封盖。乳脂前体物灌注液的配制参考 StameyLanier 等[8]和刘大川等的方法。将亚麻油（呼和浩特蒙月香植物油加工厂）、红花籽油（中粮塔原新疆食用红花籽油有限公司）、硬脂酸甘油三酯（上海达瑞精细化学品有限公司）和无水乙酸钠（永大化学试剂有限公司）混合后，加热并搅拌均匀。称大豆油卵磷脂大约 $1 5 \mathrm { g }$ ，放置于加有生理盐水的烧杯中，加热并搅拌均匀。将以上2种混合好的液体混合，用生理盐水定容到2L，用磁力搅拌器搅拌和均质机进行均质，将均质好的液体装瓶高压灭菌。尽量现配现用。
+
+1.3血浆样与乳样的采集与制备
+
+采集载体灌注期和乳脂前体物灌注期后2d的乳样，将早、晚乳样按照产量比例进行混合后，分装至 $5 0 ~ \mathrm { m L }$ 无菌离心管中，用于乳成分测定。
+
+在乳脂前体物灌注期的后2d采集血液。
+
+乳脂前体物灌注期在第2天上午灌注前（0h）与下午采食前 $( 0 \mathrm { h }$ ），分别采集乳静脉、尾动脉血液 $2 0 ~ \mathrm { m L }$ ，分离血浆；第3天分别在上午灌注后1h和下午采食后 $^ { 4 \mathrm { ~ h ~ } }$ ，采集乳静脉、尾动脉血液样品 $2 0 ~ \mathrm { m L }$ ，分离血浆， $- 2 0 \ \mathrm { { ^ \circ C } }$ 保存备用。待试验结束后，分别等量混合连续2d分离的4个时间点的乳静脉、尾动脉血浆样品， $- 2 0 \ { ^ { \circ } } \mathrm { C }$ 保存，用于测定脂肪酸浓度。
+
+1.4 测定指标与方法
+
+1.4.1 产奶性能
+
+灌注期每天记录产奶量和干物质采食量（DMI）。采集的乳样测定乳成分指标，主要包括乳脂率、乳脂产量、乳蛋白率、乳蛋白产量，采用自动乳成分分析仪（MilkoScanTMMinor-Type-78110，Denmark)测定。计算 $4 \%$ 乳脂校正乳（ $4 \%$ FCM）产量。
+
+产乳脂效率计算公式如下：
+
+产乳脂效率（%） $\ O =$ 乳脂产量/DMIx100。
+
+1.4.2尾动脉和乳静脉血浆中乙酸、丙酸、丁酸浓度
+
+采用内标法测定尾动脉和乳静脉血浆中乙酸、丙酸、丁酸浓度，内标物是巴豆酸，采用气相色谱仪（GC-2010，日本岛津）。
+
+尾动脉和乳静脉血浆中脂肪酸浓度采用气相色谱仪测定，采用 SPTM-2560 毛细血管柱和火焰离子检测器（FID），以C17:0作为内标，脂肪酸甲酯标准品为外标，使用二阶程序升温法分离检测。其中包括短链脂肪酸乙酸、丙酸和丁酸及长链脂肪酸C14:0、C16:0、C18:0、C18:1c9、C18:2c6 和 C18:3n3。
+
+短链脂肪酸/长链脂肪酸 $\varXi$ 短链脂肪酸浓度（mmol/L）/长链脂肪酸浓度（mmol/L）。
+
+1.4.3乳腺内血流量、短链脂肪酸的摄取率与摄取量
+
+血流量以 $\mathbf { C } 1 8 { : } 0 { + } \mathbf { C } 1 8 { : } 1 c 9$ 作为内源指示剂估算，参考Annison 等[10]的方法。乳腺的短链  
+脂肪酸摄取率与摄取量参照 Enjalbert等[的方法计算。相关计算公式如下：  
+血流量 $\mathbf { \bar { \rho } } = \mathbf { \rho }$ 乳中内标指示剂浓度 $\mathrm { ( m g / L ) / [ }$ 尾动脉血浆中内标指示剂浓度(mg/L)-乳静脉血浆中内标指示剂浓度 $\left( \mathrm { m g / L } \right) ]$ ：摄取率 $( \% ) = 1 0 0 \times$ 动静脉浓度差 $( \mathrm { m g / L } ) / \vec { \Sigma } \mathrm { j }$ 脉浓度 $( \mathrm { m g / L } )$ 摄取量 $\scriptstyle ( { \mathrm { g / L } } ) =$ 动静脉浓度差 $( \mathrm { m g / L } ) \times$ 血流量 $\times 1 0 0 0$ 。式中：摄取量的单位 $\mathrm { g / L }$ 代表每生成1L乳乳腺摄取乳脂前体物的质量。
+
+# 1.5数据处理
+
+采用SAS9.0软件中的MIXED 模型进行统计分析， $P { < } 0 . 0 5$ 表示组间差异显著， $0 . 0 5 \leqslant$ ${ P / } { < } 0 . 1 0$ 表示组间差异趋于显著。
+
+2结果
+
+2.1灌注乳脂前体物对产奶性能的影响
+
+由表2 可知，在灌注乳脂前体物前，CSC 组产奶量、 $4 \%$ FCM产量、乳脂产量和乳蛋白产量和产乳脂效率显著低于 $\mathbf { M F C } _ { 1 }$ 组（ $_ { . } P { < } 0 . 0 5$ ）；灌注乳脂前体物后，CSF组乳脂率有高于 CSC 组的趋势（ $0 . 0 5 { \leqslant } P { \ < } 0 . 1 0$ ），产乳脂效率和乳蛋白率显著高于CSC 组（ $P { < } 0 . 0 5$ ），CSF组产奶量、 $4 \%$ FCM产量和乳脂产量尽管在数值上仍然低于 $\mathbf { M F C } _ { 2 }$ 组，但组间差异不显著（ $. P { > } 0 . 0 5$ ），而CSF组产乳脂效率和高于 $\mathbf { M F C } _ { 2 }$ 组（ $. P { < } 0 . 0 5$ ），乳蛋白产量CSF 组有高于 $\mathbf { M F C } _ { 2 }$ 组的趋势（ $0 . 0 5 { \leqslant } P { \ < } 0 . 1 0$ ）。
+
+表2灌注乳脂前体物对奶牛产奶性能的影响  
+Table 2Effects of infusing milk fat precursors on performance of dairy cows   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">组别Groups</td><td rowspan="2">SEM</td><td colspan="3">P值 P-value</td></tr><tr><td>CSC</td><td>MFC1</td><td>CSF</td><td>MFC2</td><td>CSCxMFC1</td><td>CSCxCSF</td><td>CSFxMFC2</td></tr><tr><td>干物质采食量 DMI/(kg/d)</td><td>12.62</td><td>13.23</td><td>10.14</td><td>11.81</td><td>0.88</td><td>0.40</td><td>0.01</td><td>0.04</td></tr><tr><td>产 Milk yield/(kg/d)</td><td>14.34</td><td>17.96</td><td>13.45</td><td>14.68</td><td>1.23</td><td>0.03</td><td>0.56</td><td>0.49</td></tr><tr><td>4%乳脂校正乳产量 4% yield/(kg/d)</td><td>FCM 14.93</td><td>20.99</td><td>14.23</td><td>17.30</td><td>1.58</td><td>0.01</td><td>0.74</td><td>0.15</td></tr><tr><td>乳脂率Milk fat rate/%</td><td>4.17</td><td>4.46</td><td>4.82</td><td>4.95</td><td>0.28</td><td>0.38</td><td>0.05</td><td>0.70</td></tr><tr><td>乳脂产量 Milk fat yield/(kg/d)</td><td>0.60</td><td>0.79</td><td>0.68</td><td>0.76</td><td>0.07</td><td>0.02</td><td>0.32</td><td>0.20</td></tr><tr><td>产脂效率 Milk fat producing efficiency/%</td><td>4.83</td><td>5.84</td><td>6.89</td><td>6.46</td><td>0.05</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>乳蛋白率 Milk protein rate/%</td><td>3.13</td><td>3.30</td><td>3.48</td><td>3.63</td><td>0.12</td><td>0.19</td><td>0.01</td><td>0.12</td></tr><tr><td>乳蛋白产量 Milk protein yield/(kg/d)</td><td>0.44</td><td>0.59</td><td>0.46</td><td>0.61</td><td>0.06</td><td><0.01</td><td>0.78</td><td>0.09</td></tr></table></body></html>
+
+$P { < } 0 . 0 5$ 表示组间差异显著， $0 . 0 5 { \leqslant } P { \ < } 0 . 1 0$ 表示组间差异趋于显著。下表同。
+
+$P { < } 0 . 0 5$ mean significant difference between groups,and $0 . 0 5 { \leqslant } P { \ < } 0 . 1 0$ mean significant tendency between groups.The same as below.
+
+2.2灌注乳脂前体物对尾动脉和乳静脉血浆中短链脂肪酸浓度及脂肪酸比例的影响由表3和表4可知，在灌注乳脂前体物前，CSC组尾动脉血浆中短链脂肪酸浓度及短链脂肪酸/长链脂肪酸有低于MFCi组的趋势（ $. 0 . 0 5 { \leqslant } P { \ < } 0 . 1 0 { \stackrel { \cdot } { , } }$ ；在灌注乳脂前体物后，CSF组尾动脉血浆中乙酸、丙酸以及短链脂肪酸浓度显著高于CSC 组（ $( P { < } 0 . 0 5 )$ ，且CSF 组乙酸、丁酸及短链脂肪酸浓度显著高于 $\mathbf { M F C } _ { 2 }$ 组（ $P { < } 0 . 0 5$ )，但短链脂肪酸/长链脂肪酸仍然有低于$\mathbf { M F C } _ { 2 }$ 组的趋势（ $0 . 0 5 { \leqslant } P { \ < } 0 . 1 0$ )。各组乳静脉血浆中短链脂肪酸浓度和脂肪酸比例均无显著差异（ $P { > } 0 . 0 5 )$ 。
+
+Cable 3Effects of infusing milk fat precursors on short-chain fattyacid concentrations in plasma of caudal artery and internal mammary vein of dairy cows mmol/L   
+表4灌注乳脂前体物对尾动脉和乳静脉血浆中脂肪酸比例的影响  
+
+<html><body><table><tr><td rowspan="2">项目</td><td colspan="4">组别Groups</td><td rowspan="2">SEM</td><td colspan="3">P值 P-value</td></tr><tr><td>CSC</td><td>MFC1</td><td>CSF</td><td>MFC2</td><td>CSCxMFC1</td><td>CSCxCSF</td><td>CSFxMFC2</td></tr><tr><td>尾动脉血浆 Caudal artery plasma</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>乙酸 Acetic acid</td><td>4.13</td><td>5.09</td><td>6.95</td><td>4.77</td><td>0.69</td><td>0.34</td><td>0.01</td><td>0.03</td></tr><tr><td>丙酸 Propionic acid</td><td>4.23</td><td>4.74</td><td>5.65</td><td>5.30</td><td>0.35</td><td>0.37</td><td>0.02</td><td>0.51</td></tr><tr><td>丁酸 Butyric acid</td><td>1.79</td><td>1.81</td><td>2.21</td><td>1.64</td><td>0.21</td><td>0.94</td><td>0.19</td><td>0.03</td></tr><tr><td>短链脂肪酸 Short-chain fatty</td><td>10.15</td><td>11.64</td><td>14.81</td><td>11.71</td><td>0.98</td><td>0.06</td><td><0.01</td><td><0.01</td></tr><tr><td>乳静脉血浆 Intermal mammary</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>vein plasma 乙酸 Acetic acid</td><td>1.85</td><td>2.72</td><td>3.58</td><td>3.12</td><td>0.78</td><td>0.40</td><td>0.16</td><td>0.70</td></tr><tr><td>Propionic acid</td><td>4.97</td><td>5.73</td><td>5.32</td><td>5.31</td><td>0.45</td><td>0.20</td><td>0.61</td><td>0.99</td></tr><tr><td>Butyric acid</td><td>2.43</td><td>2.46</td><td>1.96</td><td>1.88</td><td>0.26</td><td>0.91</td><td>0.24</td><td>0.84</td></tr><tr><td>短链脂肪酸 Shor-chain faty acids</td><td>9.25</td><td>10.91</td><td>10.86</td><td>10.31</td><td>0.38</td><td>0.23</td><td>0.41</td><td>0.81</td></tr></table></body></html>
+
+表3灌注乳脂前体物对奶牛尾动脉和乳静脉血浆中短链脂肪酸浓度的影响  
+148 Table 4Effects of infusing milk fat precursors on fattyacid proportions in plasma of caudal arteryand internal 149 mammary vein of dairy cows   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">组别 Groups</td><td rowspan="2">SEM</td><td colspan="3">P值P-value</td></tr><tr><td>CsC</td><td>MFC1</td><td>CSF</td><td>MFC2</td><td>CSCxMFC1</td><td>CSCxCSF</td><td>CSFxMFC</td></tr><tr><td>尾动脉血浆 Caudal artery plasma</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>乙酸/丙酸 Acetic acid/propionic acid</td><td>0.78</td><td>0.86</td><td>1.04</td><td>0.75</td><td>0.15</td><td>0.71</td><td>0.22</td><td>0.13</td></tr><tr><td>（乙酸+丁酸)丙酸 (Aceticacid+butyric acid)/propionic acid</td><td>1.25</td><td>1.34</td><td>1.53</td><td>1.14</td><td>0.23</td><td>0.79</td><td>0.36</td><td>0.16</td></tr><tr><td>短链脂肪酸/长链脂肪酸 Short-chain fatty</td><td>0.41</td><td>0.67</td><td>0.67</td><td>0.78</td><td>0.08</td><td>0.07</td><td>0.27</td><td>0.09</td></tr><tr><td>acids/long-chain fatty acids 乳静脉血浆 Internal mammary vein plasma</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>乙酸/丙酸 Acetic acid/propionic acid</td><td>0.33</td><td>0.39</td><td>0.57</td><td>0.50</td><td>0.13</td><td>0.71</td><td>0.24</td><td>0.75</td></tr><tr><td>（乙酸+丁酸)丙酸 (Aceticacid+butyric</td><td>0.92</td><td>0.91</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>acid)/propionic acid</td><td></td><td></td><td>1.00</td><td>0.93</td><td>0.16</td><td>0.96</td><td>0.72</td><td>0.76</td></tr><tr><td>短链脂肪酸/长链脂肪酸 Short-chain fatty</td><td>0.48</td><td>0.78</td><td>0.72</td><td>0.81</td><td>0.12</td><td>0.07</td><td>0.09</td><td>0.43</td></tr></table></body></html>
+
+# 2.3灌注乳脂前体物对乳腺内短链脂肪酸摄取规律的影响
+
+由表5 可知，除CSF 组丁酸动静脉差有显著高于CSC 组的趋势（ $0 . 0 5 { \leqslant } P { \ < } 0 . 1 0$ ）外，CSC组与 $\mathbf { M F C } _ { 1 }$ 组、CSC与CSF组、CSF组与 $\mathbf { M F C } _ { 2 }$ 组的奶牛乳腺对乙酸、丙酸、丁酸、短链脂肪酸的摄取量、摄取率和动静脉差均无显著差异（ $P { > } 0 . 0 5$ ）。CSC 组血流量趋于显著地低于MFCi组（ $0 . 0 5 { \leqslant } P { \ < } 0 . 1 0$ ）。
+
+表5灌注乳脂前体物对奶牛乳腺内短链脂肪酸摄取规律的影响  
+Table 5Effects of infusing milk fat precursors on uptake rule of short-chain faty acids in mammary gland of dairy cows   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="4">组别Groups</td><td rowspan="2">SEM</td><td colspan="3">P值P-value</td></tr><tr><td>CSC</td><td>MFC1</td><td>CSF</td><td>MFC2</td><td>CSCxMFC1</td><td>CSCxCSF</td><td>CSFxMFC2</td></tr><tr><td>血流量 Blood flow/(L/L)</td><td>128.76</td><td>172.25</td><td>326.12</td><td>257.2</td><td>53.44</td><td>0.06</td><td>0.69</td><td>0.27</td></tr><tr><td>Z Acetic acid</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>动静脉差 Artery-vein difference/(mg/L)</td><td>70.79</td><td>120.1</td><td>130.67</td><td>112.8</td><td>81.9</td><td>0.65</td><td>0.57</td><td>0.88</td></tr><tr><td>摄取率 Uptake rate/%</td><td>33</td><td>34</td><td>25</td><td>27</td><td>0.22</td><td>0.95</td><td>0.78</td><td>0.94</td></tr><tr><td>摄取量 Uptake quantity/(g/L)</td><td>9.08</td><td>13.16</td><td>41.97</td><td>25.09</td><td>26.27</td><td>0.92</td><td>0.35</td><td>0.60</td></tr><tr><td>丙酸 Propionic acid</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>动静脉差 Artery-vein difference/(mg/L)</td><td>-0.27</td><td>-78.57</td><td>32.05</td><td>-4.53</td><td>42.31</td><td>0.20</td><td>0.60</td><td>0.55</td></tr><tr><td>摄取率 Uptake rate/%</td><td>-1</td><td>-24</td><td>4</td><td>-3</td><td>0.12</td><td>0.19</td><td>0.78</td><td>0.69</td></tr><tr><td>摄取量 Uptake quantity/(g/L)</td><td>3.33</td><td>-17.22</td><td>-0.08</td><td>-5.11</td><td>7.74</td><td>0.09</td><td>0.78</td><td>0.64</td></tr><tr><td>丁酸 Butyric acid</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>动静脉差 Artery-vein difference/(mg/L) a</td><td>-62.22</td><td>-68.96</td><td>30.73</td><td>15.27</td><td>30.4</td><td>0.87</td><td>0.05</td><td>0.28</td></tr><tr><td>摄取率 Uptake rate/%</td><td>-35</td><td>-53</td><td>12</td><td>-14</td><td>0.26</td><td>0.60</td><td>0.25</td><td>0.49</td></tr><tr><td>摄取量 Uptake quantity/(g/L)</td><td>-7.43</td><td>-9.39</td><td>7.72</td><td>-0.91</td><td>8.37</td><td>0.87</td><td>0.28</td><td>0.48</td></tr><tr><td>短链脂肪酸 Short-chain fatty acids</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>动静脉差 Artery-vein difference/(mg/L)</td><td>10.05</td><td>-83.72</td><td>201.75</td><td>2.84</td><td>101.5</td><td>0.50</td><td>0.14</td><td>0.16</td></tr><tr><td>摄取率Uptake rate/%</td><td>1</td><td>-13</td><td>19</td><td>-3</td><td>0.11</td><td>0.38</td><td>0.17</td><td>0.13</td></tr><tr><td>摄取量 Uptake quantity/(g/L)</td><td>2.32</td><td>-31.25</td><td>47.25</td><td>4.35</td><td>32.68</td><td>0.53</td><td>0.29</td><td>0.29</td></tr></table></body></html>
+
+3讨论
+
+乳脂率是衡量奶牛泌乳性能的重要指标。目前，通过奶牛阴外动脉灌注乳脂前体物对产奶性能的研究报道很少，且多数集中在奶牛饲粮添加乳脂前体物或瘤胃灌注乳脂前体物对乳脂率和产奶量的影响，关于不同粗饲料饲粮模式下灌注乳脂前体物的比较研究罕见。本试验的结果表明，2种不同的饲粮模式下的奶牛均在阴外动脉灌注载体，CSC 组产奶量、 $4 \%$ FCM产量、乳脂产量和乳蛋白产量显著低于 $\mathbf { M F C } _ { 1 }$ 组；在灌注乳脂前体物后，CSF 组产奶量、 $4 \%$ FCM产量、乳脂产量和乳脂率尽管在数值低于MFC2组，但差异不显著。DMI的研究结果显示，CSC 组奶牛在载体灌注期与MFCi组无显著差异，但灌注乳脂前体物后CSF 组显著低于CSC组与 $\mathbf { M F C } _ { 2 }$ 组。这些结果提示，饲喂玉米秸秆的奶牛灌注乳脂前体物后的产奶性能有明亚以晋，但DMI反Ⅲ亚者降低，这定亚者增加广孔脂双率的原囚之一。
+
+本课题组在前期的阶段性研究结果表明，采用3种不同饲粮模式饲喂的奶牛在产奶量、乳脂率和乳蛋白率方面均存在显著的差异，以玉米秸秆为主要粗饲料的低精料玉米秸秆组（精粗比约 $4 5 : 5 5 \ : \cdot$ ）和高精料玉米秸秆组（精粗比 $6 5 : 3 5$ ）模式的奶牛产奶量和乳蛋白率均显著低于苜蓿草 $\cdot +$ 玉米青贮 $^ +$ 羊草的混合粗饲料组（精粗比约45：55）；乳脂率以混合粗料组最高，低精料玉米秸秆组最低；在进一步研究不同饲粮模式对乳腺内乳脂前体物代谢规律时发现，进入乳腺阴外动脉中的乳脂前体物浓度及其比例、乳腺对乳脂前体物的摄取量及其比例也存在显著差异。由此推测，玉米秸秆饲粮条件下，乳品质低下可能与乳腺对乳脂前体物摄取规律发生改变有关，但目前相关的研究报道很少。Ling[12]研究证实，瘤胃后灌注一定量的脂肪酸会使奶牛的产奶量、乳脂率和乳脂产量得到一定的提高；在灌注不同的乳脂前体物时发现，灌注亚麻酸与其他长链脂肪酸相比对奶牛的产奶量和乳脂率提高的效果更为明显。Relling 等[13]给奶牛饲喂一定量的脂肪后，乳脂产量提高 $0 . 2 6 ~ \mathrm { k g / d }$ 。张玉斌等[14]的研究发现，在奶牛饲粮中添加一定量的保护性向日葵油后，提高了乳脂率。Zhang 等[15]发现，增加饲粮与血液中的脂肪酸供给量，奶牛的相应脂肪酸摄取率和转运效率降低，但乳中的相应脂肪酸的浓度和产量会增加。Maxin 等通过在瘤胃内灌注一定量的乙酸发现，乳脂率提高了 $6 . 5 \%$ ，而乳脂产量没有显著变化。为了进一步探讨饲喂玉米秸秆奶牛的产奶性能低于饲喂苜蓿奶牛的原因，本研究探讨了灌注前后尾动脉和乳静脉血浆中短链脂肪酸的摄取规律的变化。研究表明，在灌注乳脂前体物前，CSC 组尾动脉中的乙酸、丙酸和丁酸浓度、乙酸/丙酸、(乙酸 $^ +$ 丁酸)/丙酸在数值上均低于MFCi组，短链脂肪酸的浓度趋于显著地低于 $\mathbf { M F C } _ { 1 }$ 组；但在灌注乳脂前体物后，CSF 组尾动脉血浆中乙酸、丙酸和短链脂肪酸的浓度均显著高于CSC 组，乙酸、丁酸及短链脂肪酸的浓度显著高于MFC2组。这些结果提示，灌注乳脂前体物后，提高了饲喂玉米秸秆奶牛尾动脉血液中用于乳脂从头合成的乳脂前体物乙酸、丙酸、丁酸及短链脂肪酸的浓度，这部分地解释了秸秆组奶牛灌注乳脂前体物后可显著增加奶牛的产奶量、乳脂率和乳脂产量，并达到与苜蓿组相似的水平的原因，即与灌注乳脂前体物后尾动脉血浆中的乙酸、丙酸、丁酸及短链脂肪酸的浓度高有关。目前相关的研究很少，具体的原因需要进一步探讨。本试验结果也得出，在灌注乳脂前体物前，与MFCi组相比，CSC组乳蛋白产量显著降低，降低了 $2 5 . 4 2 \%$ ；在灌注乳脂前体物后，与 $\mathbf { M F C } _ { 2 }$ 组相比，CSF 组乳蛋白产量有降低的趋势，降低了 $2 4 . 5 9 \%$ ，提示饲喂玉米秸秆奶牛灌注乳脂前体物后不仅可增加乳脂的合成与产奶性能，而且可以增加乳蛋白的合成，减小与饲喂苜蓿奶牛在乳蛋白合成上的差距。本试验尚未研究单独灌注乙酸或长链脂肪酸、单独灌注某种氨基酸对乳腺内脂肪酸与氨基酸摄取规律的影响，下一步有必要对其进行深入研究，为更好地从乳脂前体物与乳蛋白前体物摄取规律的角度，探讨以玉米秸秆作为粗饲料的奶牛其产奶性能降低的原因，进而有效提高秸秆饲料资源的利用效率和提高乳品质奠定科学依据。
+
+4结论 以玉米秸秆为粗饲料奶牛灌注乳脂前体物可显著增加奶牛的产奶量、乳脂率和乳脂产   
+量，并达到与以苜蓿等为粗饲料相似的水平，且具有较高的产乳脂效率，但对乳腺内短链脂   
+肪酸的摄取量和摄取率无显著的影响。   
+参考文献：   
+[1] 南雪梅.奶山羊乳腺物质代谢研究[D].博士学位论文.哈尔滨:东北农业大学,2010:11-18.   
+[2]孙满吉,卢德勋,王丽芳,等.阴外动脉灌注乙酸钠对奶山羊乳腺营养物质摄取和利用的影 响[J].动物营养学报,2009,21(6):865-871.   
+[3]王加启.牛奶乳脂肪和乳蛋白的合成与调控机理[J].饲料与畜牧,2011(2):8-14.   
+[4] PANG Y Z,LIU Y P,LI X J,et al.Improving biodegradabilityand biogas production of corn stoverthroughsodiumhydroxidesolidstatepretreatment[J].Energy & Fuels,2008,22(4):2761-2766.   
+[5]张福全.泌乳奶牛阴外动脉灌注脂肪酸和氨基酸对乳腺脂肪酸代的影响[D].硕士学位论 文.呼和浩特:内蒙古农业大学,2015.   
+[6] MAXIN G,GlASSER F,HURTAUD C,et al.Combined effects of trans-10,cis-12 conjugated linoleic acid,propionate,and acetate on milk fat yield and composition in dairy cows[J].Journal of Dairy Science,2011,94(4):2051-2059.   
+[7] PURDIE N G,TROUT D R,POPPI D P,et al.Milk synthetic response of the bovine mammary gland to an increase in the local concentration of amino acids and acetate[J].Journal of Dairy
+
+[8] STAMEY LANIER J,SUAGEE J K,BECVAR O,et al.Mammary uptake of fatty acids supplied by intravenous triacylglycerol infusion to lactating dairy cows[J].Lipids,2013,48(5):469-479.
+
+[9]刘大川,刘丽,李江平,等.紫苏油乳剂制备工艺研究[J].中国油脂,2007,32(9):41-45.
+
+[10] ANNISON E F,LINZELL J L,NICHOLS B W.The oxidation and utilization of palmitate,stearate,oleate and acetate by the mammary gland of the fed goat in relation to their overall metabolism,and the role of plasma phospholipids and neutral lipids in milk-fat synthesis[J].Biochemical Journal,1967,102(3):637-647.
+
+[11] ENJALBERT F,NICOT M C,BAYOURTHE C,et al.Duodenal infusions of palmitic,stearic or oleic acids differently affect mammary gland metabolism of fatty acids in lactating dairy cows[J].The Journal of Nutrition,1998,128(9):1525-1532.
+
+[12] LING B B,ALCORN J.LPS-induced inflammation downregulates mammarygland glucose,fattyacid,and $L$ -carnitinetransporterexpressionatdifferentlactation stages[J].Research in Veterinary Scicnce,2010,89(2):200-202.
+
+[13] RELLING A E,REYNOLD C K.Feeding rumen-inert fats differing in their degree of saturation decreases intake and increases plasma concentrations of gut peptides in lactating dairy cows[J].Journal of Daily Science,2007,90(3):1506-1515.
+
+[14] 张玉斌,王强,吴建平.日粮添加油葵籽和亚麻籽对奶牛乳脂CLA和脂肪酸组成的影响[J].中国奶牛,2013(3):19-23.
+
+[15] ZHANG R H,MUSTAFA A F,ZHAO X.Blood metabolites and faty acid composition of milk and cheese from ewes fed oilseeds[J].CanadianJournalofAnimal Science,2006,86(4):547-556.
+
+Effects of Infusing Milk Fat Precursors to External Pudic Artery on Milk Yield and Uptake Rule of Short-Chain Fatty Acids in Mammary Gland of Dairy Cows FENG Yonghui YAN Sumei\* HAN Huina SHENG Ran GUO Xiaoyu
+
+Abstract: This experiment was conducted to investigate the effects of infusing milk fat precursors to external pudic artery on milk yield and uptake rule of short-chain fatty acids in mammary gland of dairy cows. Eight healthy Holstein cows were divided into two groups with four cows per group. A $2 \times 2$ cross-over experimental design was adopted. Cows in the two groups were fed diets with two kinds of roughages: corn stover（CS group） and alfalfa（MF group）,and the diet concentrate to roughage ratio was 45:55. The experiment was divided into two stages, and each stage lasted for 2O days, including 14 days of preliminary feeding period,3 days of carrier infusion phase and 3 days of milk fat precursors infusion phase.During carrier infusion period, MF group and CS group received carrier infusion, and were named $\mathbf { M F C } _ { 1 }$ group and CsC group, respectively; during milk fat precursors infusion period,MF group continued to accept carrier infusion $\mathrm { \bf { M F C } } _ { 2 }$ group), while CS group accepted milk fat precursors infusion (CSF group). Milk yield,dry mater intake and milk composition were determined. Plasma in caudal artery and internal mammary vein was collected to determine short-chain fatty acid concentrations and fatty acid proportions. The results showed as follows: 1) before milk fat precursors infusion, CSC group had significantly lower milk yield, $4 \%$ fat corrected milk (FCM) yield, milk fat yield, milk protein yield and milk fat producing efficiency than $\mathbf { M F C } _ { 1 }$ group $( P { < } 0 . 0 5 )$ ，and short-chain fatty acid concentration and short-chain fatty acid to long-chain fatty acid rate in plasma of caudal artery in CSC group tended to be higher than those in $\mathbf { M F C } _ { 1 }$ group( ${ 0 . 0 5 \leqslant P < 0 . 1 0 }$ ）. 2)After milk fat precursors infusion, milk fat producing efficiency and milk protein percentage in CSF group were significantly higher than those in CSC group $( P { < } 0 . 0 5 )$ , and CSF group still below in $\mathrm { { M F C } } _ { 2 }$ group in milk yield, $4 \%$ FCM yield, milk fat percentage and milk protein percentage, but no significant differences was found between groups( $( P { > } 0 . 0 5 )$ ; CSF group was significantly higher than $\mathbf { M F C } _ { 2 }$ （204号 group in milk fat producing efficiency $( P { < } 0 . 0 5 )$ .3）After milk fat precursors infusion，the concentrations of acetic acid, propionic acid and short-chain fatty acids in plasma of caudal artery in CSF group were significantly higher than those in CSC group $( P { < } 0 . 0 5 )$ ,and the concentrations of acetic acid, butyric acid and short-chain fatty acids in CSF group was significantly higher than those in $\mathbf { M F C } _ { 2 }$ group $( P { < } 0 . 0 5 )$ , but short-chain fatty acids to long-chain fatty acids rate in CSC group tended to be lower than that in $\mathbf { M F C } _ { 2 }$ group( $0 . 0 5 { \leqslant } P { \ < } 0 . 1 0$ ）.4）Except that artery-vein difference of butyric acid in CSF group tended to be higher than that in CSC group( $0 . 0 5 { \leqslant } P { < }$ （204号 0.10）,and there were no significant diferences in uptake quantity,uptake rate and artery-vein difference of acetic acid, propionic acid, butyric acid and short-chain fatty acids between CSC group and （204号 $\mathbf { M F C } _ { 1 }$ group, CSC group and CSF group, CSF group and $\mathbf { M F C } _ { 2 }$ group $( P { > } 0 . 0 5 )$ . The results indicate that dairy cows fed corn stover as roughage infused milk fat precursors can significantly increase the milk yield,milk fat percentage and milk fat yield,and closely achieves the levels in dairy cows fed alfalfa as roughage,especially has producing eficiency of milk fat, but has no significant effects on uptake quantity, uptake rate of short-chain fatty acids in mammary gland. Key words: mammary gland; external pubic artery; milk fat precursor; short-chain fatty acid

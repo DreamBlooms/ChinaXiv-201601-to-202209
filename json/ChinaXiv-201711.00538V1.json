@@ -1,0 +1,306 @@
+[
+    {
+        "type": "text",
+        "text": "李　维」　孙开济」孙玉丽」季　昀」周智旋」戴兆来」武振龙1\\* 伍国耀1.2（1.中国农业大学动物科技学院，北京100193；2.德克萨斯州农工大学动物科学院，卡城77843)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "5摘要:哺乳动物体内自由基产生增多或机体清除自由基能力下降会造成自由基在体内大量蓄积。过量的自由基破坏肠道组织中DNA、脂质、蛋白质等生物大分子，造成肠道氧化应激损伤，影响营养物质的吸收、利用和动物的生长发育。因此，通过营养调控措施减少氧化应激引起的肠道损伤，对于维持动物肠道及整体健康具有重要的意义。乳酸菌作为机体先天性免疫系统的重要组成部分，能维护肠黏膜屏障功能及肠道内微生态平衡，并增强机体免疫力，促进动物的生长，保持肠道及整体健康。本文从小肠黏膜屏障功能的角度，综述了乳酸菌对肠道氧化应激的缓解作用及其通过抗氧化功能发挥益生作用的可能机制，为乳酸菌抗氧化作用的深入认识和科学应用提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：乳酸菌；氧化应激；肠道屏障；抗氧化机制中图分类号：S852.2 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "乳酸菌（lactic acid bacteria，LAB）是一类以碳水化合物为底物，经发酵产生乳酸的一类细菌的总称。乳酸菌广泛分布在人及动物的肠道、食品及环境中，并具有特有的生物学功效，因而受到人们的广泛关注。研究表明，乳酸菌能够抑制胃肠道内致病菌的生长繁殖及其代谢产物的生成，维持肠道内的微生态平衡，降低内毒素和血清中胆固醇的含量，提高食物中营养成分的消化率，调节机体免疫反应，预防及减少腹泻等肠道疾病的发生，减少肠道的氧化应激（oxidative stress）损伤等。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1氧化应激",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "氧化应激是机体氧化与抗氧化作用失衡而引起自由基含量在体内升高，进而损害DNA、脂质、蛋白质等生物大分子的生物学反应过程[1-2]。生物体内的自由基包括超氧阴离子自由基（superoxide radical, $\\mathbf { O } _ { 2 } \\bar { \\cdot } .$ ）、过氧化氢（hydrogen peroxide， $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ ）、羟自由基（hydroxylradical，·OH）、单线态氧（singlet oxygen， ${ } ^ { 1 } { \\bf O } _ { 2 }$ ）、氢过氧基（hydroperoxyl radical，HOO·）、氢过氧化物（alkylhy droperoxide，ROOH）、烷过氧基（akjixylperoxyll raxical，ROO·）、烷氧基（alkoxyl radical，RO·）、次氯酸盐离子（hypochlorite ion，ClO-）、4 铁自由基离子（ferrylion，Fe4+O）、5铁自由基离子（periferryl ion， $\\mathrm { F e ^ { 5 + } O } \\mathrm { \\ : . }$ ）、一氧化氮（nitric oxide，NO）等。过量的自由基在体内可诱发肠炎、肠蠕动紊乱、肠黏膜通透性升高等多种肠道相关疾病的发生，从而影响机体的生长发育等[3-6]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1肠道内诱发氧化应激的因素",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "肠道是营养物质吸收的主要场所，也是体内重要的免疫和内分泌器官。肠道内环境的改变是影响肠道氧化应激的重要因素。已有数据表明，营养物质组成的改变(如高蛋白质饲粮)抗原、致病菌、霉菌毒素污染、重金属污染等均能引起肠道氧化应激。氧自由基（reactiveoxygen species，ROS）对肠道的损伤受体内自由基含量及机体抗氧化能力等的影响。在正常情况下，机体产生的活性氧迅速被机体抗氧化系统清除（图1)，从而维持机体的稳态，不会对机体造成氧化损伤。如果机体内ROS 生成过多或清除能力下降，体内氧化与抗氧化的动态平衡被打破，ROS 不能及时清除而在体内大量蓄积，导致肠道的氧化应激损伤。大量研究表明，细胞线粒体的呼吸代谢产物，脂质、蛋白质等大分子降解副产物，巨噬细胞吞噬病毒时产生的代谢产物以及细胞色素P450 系统等是肠道中ROS产生的主要来源[7-9]。这些研究表明，肠道内诱发氧化应激的因素很多，且会随着肠内容物的变化而改变。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d1baee8d91287d0e7cf574a52114bf0207e6103278706fef4dfa77344d6b6430.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "NADPH：还原型烟酰胺腺嘌呤二核苷酸磷酸 triphosphopyridine nucleotide；NADP+：烟酰胺腺嘌呤二核苷酸磷酸 nicotinamide adenine dinucleotide phosphate；Cyt C：细胞色素 Ccytochrome C；SOD：超氧化物歧化酶 superoxide dismutase；GSH:谷胱甘肽 glutathione;GSH-T:总谷胱甘肽 total glutathione；GSH-R:R-谷氨酰半胱氨酸 R-glutamyl cysteingl；GS-SG：氧化型谷胱甘肽 glutathione (oxidized)；GSNO：S-亚硝基谷胱甘肽 S-nitrosoglutathione； $\\mathrm { H b } { \\mathrm { O } } _ { 2 }$ ：氧合血红蛋白oxyhemoglobin。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 The diagram of partial free radical scavenging in mammalian cells ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 氧化应激与肠道损伤",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 肠道黏膜机械屏障损伤 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "肠道黏膜是机体与外环境接触的最大界面，容易受到病原微生物、促炎因子及抗原的攻击，肠道黏膜机械屏障能够阻止外源物质对小肠的损伤，降低肠道黏膜的通透性，从而保障肠道健康[10-11]。肠道黏膜的机械屏障主要由紧密连接蛋白及上皮细胞构成的单细胞层与黏液层组成。小肠内存在4种细胞，即吸收细胞、杯状细胞、肠内分泌细胞及潘氏细胞。吸收细胞占肠上皮细胞的 $9 0 \\%$ ，其主要功能是吸收营养物质。杯状细胞能分泌黏蛋白和小肽，对于肠道黏膜屏障的维持和修复具有重要作用。肠内分泌细胞属于弥散的神经内分泌系统，能协调肠道中营养物质的摄取、消化和吸收。潘氏细胞能够生成溶菌酶，可分解和消化肠内细菌、内毒素和抗原，保护肠道。肠上皮细胞间的连接有4种，即紧密连接、缝隙连接、黏附连接及桥粒连接。紧密连接将相邻的2个上皮细胞间的空隙封闭起来，防止肠腔内的物质通过细胞旁路进入内环境。肠道黏液层在肠道上皮表面形成一层保护膜，起着润滑和营养肠道上皮的作用；同时，它也能阻挡肠腔内消化酶、细菌、内毒素等对肠道上皮的直接侵袭和损伤。Carrasco[12]研究表明，肠上皮细胞间紧密连接蛋白的下降可导致肠道黏膜屏障通透性增大。Davies[13]从十二指肠溃疡病人肠黏膜中检测到 ROS。Shaikh 等[14]研究发现，自由基清除剂可促进肠道损伤的愈合。Barbadoro 等[15]研究表明，人的小肠黏膜损伤和肠道炎症反应过程中均伴有ROS 的增多，提示氧化应激可能参与了肠道的损伤及炎症反应。庾庆华[16]研究发现，氧化剂可以引起肠道黏膜屏障功能损伤，影响小肠的吸收功能。这些研究表明，过量的ROS 会破坏肠上皮细胞间的紧密连接蛋白的表达及肠道黏膜的屏障功能，甚至会影响到小肠的吸收功能及机体的整体代谢。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 肠道免疫屏障损伤 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "肠道的免疫系统能够防止各种病原微生物的侵袭，维持肠上皮细胞的免疫功能。在氧化应激状态下，自由基参与肠道的免疫反应，并导致肠道损伤。固有膜淋巴细胞是肠道内发生免疫应答和效应的主要场所，它能够促进分泌型免疫球蛋白A（secretory immunoglobulin A，S-IgA）的产生，进而发挥其免疫功能[17]。李超等[18]研究发现，S-IgA能够减缓肠道炎症反应，抑制 $\\gamma \\cdot$ -干扰素的产生，维护肠黏膜屏障功能。也有研究表明，肠道氧化应激状态下肠道内的免疫球蛋白A（immunoglobulin A，IgA）、免疫球蛋白G（immunoglobulinG，IgG）和免疫球蛋白M（immunoglobulinM，IgM）含量下降，T细胞数减少，细胞免疫出现异常[17]。可见，过量的ROS会促进肠道的炎症反应，破坏肠道的免疫屏障。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 肠道生物屏障损伤",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "肠道内寄居着 $1 0 ^ { 1 3 } { \\sim } 1 0 ^ { 1 4 }$ 个共生微生物，它们能分泌细菌毒素并能促进肠蠕动，构成一个复杂的生态系统。正常情况下肠道处于微生态平衡状态，肠道内的乳酸菌、双歧杆菌等有益菌黏附于肠上皮细胞，抑制致病菌的黏附、定植和入侵。肠道内ROS 升高时，微生态平衡受到破坏，大肠杆菌、粪链球菌、葡萄球菌及绿脓杆菌等致病菌通过肠上皮细胞间的缝隙进入内环境，引起炎症反应。同时炎症因子激活巨噬细胞在吞噬反应过程中产生ROS，抑制乳酸菌在肠上皮细胞上的定植与生物学功能的发挥，这就进一步加剧肠道生物屏障的损伤[18]。Hayashi 等[19]发现，5-氟尿嘧啶能够引起肠道菌群紊乱，改变肠道的通透性，破坏黏膜屏障功能。通过这些报道可以推测，ROS不仅影响微生物与肠上皮细胞的黏附定植，还可能影响肠道内微生物与宿主间营养物质的消化代谢，最终损坏肠道的生物屏障。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2乳酸菌对肠道健康的生物学功能",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1对肠道黏膜屏障功能的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "乳酸菌能通过调控动物肠道微生物区系平衡，促进肠道健康。正常情况下肠道中乳酸菌与其他菌群互相制约，互相依存，维持了肠道微生物区系的稳态。氧化应激时，这种稳态被打破，致病菌大量繁殖，肠道通透性增大，营养物质吸收受到影响。Yoda等[20]研究表明，乳酸菌能够抑制有害菌对肠道上皮细胞的侵害，改善肠道中挥发性脂肪酸的比例。王淑梅[2]发现，乳酸菌能够降低人结肠癌上皮细胞HT29 的氧化损伤。Smits 等[22]研究发现，乳酸菌能够抑制由4-硝基哇琳-1-氧化物诱导的细胞凋亡。Nuobariene 等[23]发现乳酸菌能够促进肠道蠕动，维持肠屏障功能。这说明乳酸菌有一定的抑菌活性，且能一定程度的抑制ROS 对肠上皮细胞的侵害，抑制细胞凋亡，维持肠黏膜屏障功能。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2对肠道免疫功能的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "肠道菌群可以影响肠黏膜免疫系统向着更加稳定的方向发展。有研究表明，无菌动物肠道内淋巴细胞数量减少、淋巴组织发育不全，提示肠道菌群能够促进肠道免疫系统的发育与成熟。此外，乳酸菌可诱导肠上皮细胞产生抗炎因子，降低炎症的发生，保护肠道免受损伤。徐义刚等[24]在初生仔猪上的研究表明，乳酸菌能增多肠道内T细胞数，提高肠黏膜的免疫。陈德龙等[25]报道，乳酸菌能促进杯状细胞分泌黏液，维持细胞间紧密连接蛋白的结构和功能，抑制病原菌对肠上皮细胞的破坏，保护动物肠道健康。所以，肠道内的乳酸菌对宿主肠道的免疫系统的发育有着极其重要的作用和意义，能够刺激免疫系统，增强机体的特异性和非特异性免疫反应，起到抗病作用，但其对免疫系统的刺激机制还在进一步研究中。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 对肠道菌群的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "动物肠道中的菌群（有益菌和致病菌）可以相互协调、制约，维持内环境的稳定。当有益菌数量占优势时，有利于动物机体健康，反之，则容易引起疾病的发生。乳酸菌是目前研究最为广泛的益生菌之一，一方面它能够产生短链脂肪酸降低肠道的pH，抑制致病菌的繁殖，另一方面，乳酸菌的代谢产物，能够杀灭或抑制多种革兰氏阳性菌的增殖，促进营养物质的吸收和利用，从而实现其抗氧化和维持肠道微生态的功能。乳酸菌是动物消化道中的优势菌群，能够阻止致病菌入侵，同时，它也能减少粪便中3-甲基吲哚（粪臭素）、吲哚、氨和甲酚的产生，减轻环境污染[3]。乳酸菌对肠道的保护作用与其能在肠上皮细胞定植与黏附密切相关[26]。陈丽园等[27]研究发现，唾液乳杆菌（L.salivanus）能够有效地降低雏鸡肠道中沙门氏菌在肠上皮细胞上的定植，从而减少肠道损伤。肖荣等[28]报道，嗜酸性乳杆菌（Lacidophilus）DHA能够黏附定植于猪回肠、结肠和盲肠上皮细胞，并且其黏附率高于保加利亚乳杆菌和嗜热链球菌。包维臣等[29]研究表明，植物乳杆菌能够抑制幽门螺杆菌对结肠细胞系Caco-2的黏附，防止氧化应激损伤。王婷等[30]研究发现，保加利亚乳杆菌能够显著抑致病菌大肠杆菌在鸡胚肠道黏膜上皮细胞的黏附，从而抑制了致病菌对黏膜上皮的破坏。可见，乳酸菌在改善胃肠道功能和维持肠道菌群的动态平衡中起着非常重要的作用。尽管已有大量文献表明抑制病原菌在肠上皮细胞上定植对维持肠道健康至关重要，但乳酸菌抑制致病菌定植的分子机理目前尚不清楚，需要进一步研究。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3乳酸菌抗氧化损伤的机制",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1活性氧和自由基清除系统",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "活性氧和自由基清除系统可阻止或消除自由基对细胞及机体的损害。Murtaza等[31研究表明，乳酸菌发酵豆奶能有效清除自由基。Xin 等[32]研究表明，乳酸菌能够降低肥胖小鼠非酒精性脂肪肝的发生，抑制炎症反应并缓解线粒体损伤。胡晓丽等[33研究表明，乳酸菌能够清除体内2价金属离子的氧化作用。陈卫等[34]从发酵食品中分离得到了2株乳酸菌，并对其抗氧化活性进行了检测，结果表明，乳酸菌能够提高机体清除氧自由基的能力，防止氧化损伤。这些研究表明，肠道内的乳酸菌能够参与到机体的抗氧化系统中清除部分ROS，从而降低机体的氧化损伤。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 氧化还原调控系统",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "乳酸菌中的氧化还原调控系统主要由硫氧还蛋白（thioredoxin）系统、烟酰胺腺嘌呤二核苷酸（NADH）氧化酶/NADH过氧化酶系统和谷胱甘肽（glutathione）还原系统3部分组成。在机体肠道中，乳酸菌会被部分裂解并释放出胞内物质，而大多数的乳酸菌胞内都含有超氧化物歧化酶（SOD）和谷胱甘肽过氧化物酶（GSH-Px)，这些物质释放到周围环境中，进而发挥其抗氧化作用。Ebel等[35]对从健康婴儿的肠道中分离得到的乳酸菌ME-3进行了抗氧化活性研究，结果显示该乳酸菌含有还原型谷胱甘肽和锰-超氧化物歧化酶（Mn-SOD)，能够消除羟自由基，说明该乳酸菌是一种有效的细胞抗氧化剂。Itoh 等[36研究表明，乳酸乳球菌具有 SOD 活性，能够减少氧自由基引起的细胞损害。刘晶等[2研究表明，双歧杆菌能够通过提高 SOD 的活性以及还原型谷胱甘肽的含量来清除自由基，并阻断活性氧自由基向羟自由基的转变。通过这些报道可知，乳酸菌在正常的代谢过程中产生的这些活性物质，相互协同的防止ROS 对细胞的损伤，且相互之间有一定的保护作用，若氧化还原调控系统中有某一成员减少，严重的将会导致不可逆的细胞损伤，进而产生各种疾病。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 氧化损伤修复系统",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "氧化损伤修复系统是对细胞中已造成损伤的部位进行直接性或间接性修复，主要是通过在DNA水平调控损伤修复相关蛋白的表达来实现。郭金玲等[37研究表明，益生菌的中间代谢产物或终产物可能具有抗氧化活性，这可能是益生菌发挥抗氧化作用的机制之一。付龙云[38]研究表明，在饮食中添加乳酸菌能够降低氧化应激对DNA 的损伤，从而起到预防癌症发生的目的。张娟[39研究表明，乳酸菌能够借助高浓度的锰离子和 SOD来处理氧自由基。田丰伟[40]研究表明，乳酸菌能够通过还原型谷胱甘肽来降低氧自由基和 $\\mathbf { H } _ { 2 } \\mathbf { O } _ { 2 }$ 的毒性。可见，乳酸菌有较强的抗氧化能力，但不同种属的菌株抗氧化能力之间存在差异。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4小结 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "肠道的正常功能依赖肠道黏膜上皮机械屏障、免疫屏障和生物屏障的完整性来维持。氧化应激会导致肠道的屏障功能受损，免疫能力下降，益生菌与致病菌间的动态平衡破坏等，进而造成肠道功能紊乱及继发性损伤。大量研究证实，乳酸菌具有不同的抗氧化活性，能够调节肠道特异性和非特异性免疫应答，这种作用与乳酸菌对肠道菌群的结构、上皮细胞的通透性及紧密连接有关，能够维持肠道健康及正常免疫功能。近年来，代谢组学、基因组学和蛋白质组学的快速发展，为从体内试验的角度探索乳酸菌中抗氧化物质在肠道内吸收及抗氧化的机制提供了新的认识和研究手段。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]杨郁红,白明.乳酸菌抗氧化机理的初步探讨[J].中国乳业,2011(7):68-73.   \n[2]刘晶,黄珊珊,赵征.乳酸菌抗氧化能力研究进展[J].中国乳品工业,2010(5):38-41.   \n[3]张扬,袁杰利.肠道益生菌对机体免疫功能的影响[J]).中国微生态学杂 志,2003,15(4):246-248.   \n[4] ZHANG W G W,SUN Z,SUN T,et al.PCR Screening and sequence analysis of iol clus   \nters in Lactobacillus casei strains isolated from koumiss[J].Folia Microbiologica,2010,55(6):   \n603-606.   \n[5] SUN Z H,LIU W J,ZHANG J C,et al.Identification and characterization of the domina nt lactic acid bacteria isolated from traditional fermented milk in Mongolia[J].Folia Mi crobiologica,2010,55(3):270-276.   \n[6] ZHANG Y,DU R T,WANG L F,et al.The antioxidative effects of probiotic Lactobacil lus casei Zhang on the hyperlipidemic rats[J].European Food Research and Technolog y,2010,231(1):151-158. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[7]LAFFLEUR F,PSENNER J,SUCHAOIN W.Permeation enhancement via Thiolation:in vitro and ex vivo Evaluation of hyaluronic acid-cysteine ethyl ester[J].Journal of Pharmaceutical Sciences,2015,104(7):2153-2160. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[8] 郑雪芳,刘波,蓝江林,等.微生物发酵床对猪舍大肠杆菌病原生物防治作用的研究[J].中国农业科学,2011,44(22):4728-4739.  \n[9]马爱国,COLLINS AR,DUTHIE SJ.不同细胞DNA氧化损伤及自身修复能力的分析[J].癌变·畸变·突变,1997,9(3):138-142.  \n[10]黄沧海,谯仕彦,李德发,等.益生乳酸杆菌抑制大肠杆菌的研究[J].中国畜牧杂志,2003,39(6):27-28.  \n[11] 陈璐,苏明星,刘波,等.动物饲用益生菌LPF-2对大肠杆菌抑制作用的培养条件优化[J].中国农学通报,2009,25(16):13-16.  \n[12] CARRASCO D.Utered from the heart:guilty rhetoric among the Aztecs[J].History ofReligions,1999,39(1):1-31.  \n[13]DAVIESNM.Anevenclearerportrait ofbiasin observationalstudies?[J].Epidemiology,2015,26(4):505-508.  \n[14] SHAIKH M,RAJAN K,FORSYTH C B,et al.Simultaneous gas-chromatographic urinarymeasurement of sugar probes to assess intestinal permeability:use of time course analysis tooptimize its use to assess regional gut permeability[J].Clinica Chimica Acta,2015,442:24-32.  \n[15] BARBADORO P,ANNINO I,PONZIO E,et al.Fish oil supplementation reduces cortisolbasal levels and perceived stres:a randomized,placebo-controlled trial in abstinentalcoholics[J].Molecular Nutrition & Food Research,2013,57(6):1110-1114.  \n[16] 庾庆华.肠上皮细胞紧密连接调节的研究[D].博士学位论文.南京:南京农业大学,2009:78-90.  \n[17]张七斤,孙天松,孟和毕力格,等.乳酸菌制剂对小鼠血清中IgG及肠道内SIgA影响的研究[J].黑龙江畜牧兽医,2006(9):7-9.  \n[18]李超,王春凤,杨桂连.乳酸菌胞外多糖肠道黏附及免疫调节作用研究进展[J].食品科学,2014,35(11):314-318.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[19] HAYASHI A,KIMURA M,NAKAMURA Y,et al.Anti-atopic dermatitis effects and the mechanism of lactic acid bacteria isolated from Mongolian fermented milk[J].Journal of Dairy Research,2009,76(2):158-164. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[20] YODA K,SUN X,KAWASE M,et al.A combination of probiotics and whey proteins enhances anti-obesity effects of calcium and dairy products during nutritional energy restriction in aP2-agouti transgenic mice[J].British Journal of Nutrition,2015,113(11):1689-1696. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[21]王淑梅.抗结肠癌功能益生菌筛选及其诱导HT-29细胞凋亡机制研究[D].博士学位论文.哈尔滨：哈尔滨工业大学，2014:90-110.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[22] SMITS H H,ENGERING A,VAN DER KLEIJ D,et al.Selective probiotic bacteria induce IL-10-producing regulatory T cells in vitro by modulating dendritic cell function through dendritic cell-specific intercellular adhesion molecule 3-grabbing nonintegrin[J].Journal of Allergy and Clinical Immunology,2005,115(6):1260-1267. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[23] NUOBARIENE L,CIZEIKIENE D,GRADZEVICIUTE E,et al.Phytase-active lactic acid bacteriafromsourdoughs:isolationandidentification[J].LWT-FoodScienceand Technol0gy,2015,63(1):766-772. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[24]徐义刚,崔丽春,葛俊伟,等.猪瘟病毒T细胞表位E290多肽与猪细小病毒VP2蛋白在干酪乳杆菌中的共表达及免疫小鼠特异性抗体的测定[J].微生物学报,2007,47(4):667-672.  \n[25]陈德龙,朱宏亮,许光勇,等.乳酸菌对IPEC-J2细胞黏着斑激酶磷酸化及紧密连接蛋白Occludin表达的影响[J].畜牧兽医学报,2013,44(2):283-288",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[26]李鹏成.嗜酸乳酸杆菌S-层蛋白拮抗肠道病原菌黏附或入侵宿主细胞机制的研究[D].博士学位论文.南京:南京农业大学,2011:89-100.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[27]陈丽园,石金舟,李闫,等.1株抗鸡白痢沙门氏菌的乳酸菌鉴定[J].安徽农业科学,2005,33(11):2072-2073.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[28]肖荣,王远亮,李宗军.益生性乳酸菌黏附性研究进展[J].食品与发酵工 业,2008,34(5):134-137. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[29]包维臣,陈霞,邵玉宇,等.保加利亚乳杆菌与嗜热链球菌共生机理的研究进展[J].中国乳品",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "工业,2011,39(12):20-23.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[30]王婷,王仁君,周晶,等.鸡肠道中抑制大肠杆菌的乳酸菌的分离与筛选[J].中国畜禽种 业,2012(1):121-124.   \n[31]MURTAZA N,BABOOTA R K,JAGTAP S,et al.Finger millet bran supplementation alleviates obesity-induced oxidative stress,inflammation and gut microbial derangements in high-fat diet-fed mice[J].British Journal of Nutrition,2014,112(9):1447-1458.   \n[32] XIN J G,ZENG D,WANG H S,et al.Preventing non-alcoholic fatty liver disease through Lactobacillus johnsonii BS15 by attenuating inflammation and mitochondrial injury and improvinggutenvironmentinobesemice[J].AppliedMicrobiologyand Biotechnology,2014,98(15):6817-6829.   \n[33]胡晓丽,孙进,乐国伟,等.抗氧化乳酸菌在体外结肠环境清除羟自由基的研究[J].中国微生 态学杂志,2009,21(6):488-492,496.   \n[34] 陈卫,田丰伟,赵鑫,等.乳酸菌干预氧化应激的研究进展[J].中国食品学报,2012,12(11):1-7.   \n[35] EBEL M E,AWE O,KAPLAN M H,et al.Diverse inflammatory cytokines induce selectin ligand expresson on murine CD4 T cells via p38 α MAPK[J].The Journal of Immunol0gy,2015,194(12):5781-5788.   \n[36] ITOH M,SASAKI H,FURUSE M,et al.Junctional adhesion molecule (JAM) bindsto PAR-3:a possible mechanism for the recruitment of PAR-3 to tight junctions[J].The Journal of Cell Biology,2001,154(3):491-498.   \n[37]郭金玲,郑秋红,刘香,等.乳酸菌及其培养物对鸡致病性大肠杆菌的抑菌试验[J].中国饲 料,2008(8):34-36.   \n[38]付龙云.乳酸菌抗氧胁迫及有氧生长的研究[D].博士学位论文.威海:山东大 学,2013:230-245.   \n[39]张娟.谷胱甘肽对乳酸菌胁迫抗性的调控机制研究[D].博士学位论文.无锡:江南大 学,2008:369-378.   \n[40]田丰伟.缓解氧化应激乳酸菌的筛选、表征和功能评价研究[D].博士学位论文.无锡:江南 大学,2012:456-469. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Research Progress in Relieve Effect of Lactobacillus in Intestinal Oxidative Stress1 LI Wei1SUN Kaiji1SUN Yuli1JIYun1ZHOU Zhixuan1DAI Zhaolai1WU Zhenlong1\\* WU Guoyao1,2 (1. State Key Laboratory of Animal Nutrition, China Agricultural University, Bei jing 100193, China; 2. Department of Animal Science, Texas A &M University, College Station TX77843, USA) Abstract: Free radicals production increase or scavenging capacity decrease can cause free radical accumulation in mammal body. Excess amount of free radicals can damage DNA, lipids, proteins and other biological macromolecules in intestinal tissue,resulting in intestinal oxidative stress, affecting the absorption and utilization of nutrients,and even animal growth and development. Therefore, to reduce the intestinal damage caused by oxidative stress through nutrition regulation to maintenance of the animal gut and overall health has important significance. Lactobacillus, the important part of body's innate immune system, can maintain intestinal mucosal barrier function and intestinal micro ecological balance, it can also enhance immunity, promoting animal growth, maintaining intestinal and overall health. From the perspective of intestinal barrier function, we reviewed the possible mechanism of Lactobacillus relieve intestinal oxidative stress and antioxidant function, in order to providing a depth understanding for Lactobacillus antioxidant function and scientific applications. Key words: Lactobacillus; oxidative stress; intestinal barrier; antioxidant mechanism ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

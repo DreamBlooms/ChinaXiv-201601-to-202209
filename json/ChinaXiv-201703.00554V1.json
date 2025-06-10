@@ -1,0 +1,216 @@
+[
+    {
+        "type": "text",
+        "text": "Oxygen vacancy induced ferromagnetism in un-doped ZnO thin films ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Peng Zhan,' Weipeng Wang,1 Can Liu,' Yang Hu,' Zhengcao Li,' and Zhengjun Zhangl   \n1 State Key laboratory of New Ceramics and Fine Processing, Department of Materials   \nScience and Engineering, Tsinghua University, Beijing 1Ooo84, P.R. China.   \nPeng Zhang,² Baoyi Wang,² and Xingzhong Cao²   \n² Key Laboratory of Nuclear Analysis Techniques, Institute of High Energy Physics,   \nChinese Academy of Science, Beijing 100049,P.R. China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZnO films became ferromagnetic when defects were introduced by thermal annealing in flowing argon. This ferromagnetism, as shown by the photoluminescence measurement and positron annihilation analysis, was induced by the singly occupied oxygen vacancy, with a saturated magnetization dependent positively on the amount of this vacancy. This study clarified the origin of the ferromagnetism of un-doped ZnO thin films,and provides possibly an alternative way to prepare ferromagnetic ZnO films. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers: 75.50.Pp, 71.55.Gs, 78.55.Et, 85.75.-d ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ferromagnetic semiconductors have special advantages for applications in the field of spintronics because of their easy integration into the semiconductor devices [1]. Previous studies have been mostly focused on dilute magnetic semiconductors (DMSs), in which the magnetic moments are introduced by doping with transition metal (TM) ions 2-4]. It is speculated, however, TM dopants may form magnetic clusters and/or secondary phases in the semiconductors,which are detrimental to the applications of DMSs [5-6]. One of the most intriguing discoveries in the quest for DMSs is observation of room temperature ferromagnetism (RTF) in non-TM doped or un-doped wide band-gap semiconductors, e.g.，HfO2 [7],ZnO [8-10],TiO2 [11],MgO [12],and $\\mathbf { S n O } _ { 2 }$ [13],etc.Among these candidates $z _ { \\mathrm { { n O } } }$ has drawn considerable attentions due to its outstanding properties and potential applications in diverse fields [14,15]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For un-doped ZnO thin films, various intrinsic and extrinsic defects have been declared exclusively to be origin of the RTF such as oxygen vacancy $\\mathrm { ( V _ { O } ) }$ [16], zinc vacancy $( \\mathrm { V } _ { \\mathrm { Z n } } )$ [9], zinc interstitial $( \\mathrm { Z n } _ { \\mathrm { i } } )$ [17],and chemisorbed oxygen [1O], etc.Therefore, it is of great importance to investigate the relationship between the ferromagnetism of un-doped ZnO thin films and the defects in them. This could help quite a lot to understand the ferromagnetism of un-doped $\\mathrm { { z n O } }$ ,and to devise new ways to prepare ZnO-based DMSs. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It is well known that ZnO is an ideal ultraviolet light emitter, and could emit visible lights when defects were introduced [18-2O]. Researchers have done great favor to reveal the relationship among defects in $z _ { \\mathrm { { n O } } }$ and the emissions in the visible light region [21, 22]. For example, the blue, blue-green, green-yellow and the red-near infrared emissions have been assigned to Zni [23], $\\mathrm { \\Delta V _ { Z n } }$ [24, 25], Vo [21, 26, 27], and oxygen interstitial (Oi) [28,29], respectively. Therefore,it should be quite helpful in understanding the origin of ferromagnetism of $z _ { \\mathrm { { n O } } }$ induced by defects,by study of the visible light emission of $Z _ { \\mathrm { { n O } } }$ induced by defects. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We report in this letter the RTF of $Z _ { \\mathrm { { n O } } }$ films induced by oxygen defects that are introduced by thermal annealing of $\\mathrm { z n O }$ films in flowing argon, and the investigation on the origin of this ferromagnetism. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ZnO films with a thickness of ${ \\sim } 1 0 0 ~ \\mathrm { n m }$ were deposited on quartz wafers by ablating a ZnO target with a purity of $9 9 . 9 9 ~ \\%$ ，using pulsed electron deposition (PED） system. After deposition the $z _ { \\mathrm { { n O } } }$ samples were put inside a quartz tube furnace, pumped down to 5 Pa with a mechanical pump and backfilled with argon flowing at 5Oo SCCM. Then the tube furnace was ramped to $1 5 0 ^ { \\circ } \\mathrm { C }$ $3 0 0 ^ { \\circ } \\mathrm { C }$ $4 5 0 ^ { \\circ } \\mathrm { C }$ $5 0 0 ^ { \\circ } \\mathrm { C }$ $5 5 0 ^ { \\circ } \\mathrm { C }$ $6 0 0 ^ { \\circ } \\mathrm { C }$ and $7 5 0 ^ { \\circ } \\mathrm { C }$ and held at these temperatures for 2 hours, respectively. The structure and composition of the films were characterized by X-ray diffraction (XRD)， transmission electron microscope(TEM)，energydispersiveX-rayspectrometer(EDS)， and induced-coupled-plasma (ICP） atomic emission spectrum analysis, respectively. The optical and magnetic properties of the ZnO films were evaluated by photoluminescence (PL） measurement and superconducting quantum interface device (SQUID). Positron annihilation analysis (PAS) was also carried out for the evaluation of defects. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 shows XRD patterns of the as-grown and annealed ZnO films on quartz substrate. All patterns exhibit an intense peak at \\~ $3 4 . 4 ^ { ^ { \\circ } }$ corresponding to the (O002) plane of $z _ { \\mathrm { { n O } } }$ of a wurzite structure, indicating that the ZnO films are highly c-axis oriented. It is noticed that the (Ooo2） peak became narrower at higher annealing temperatures, suggesting an increase in the size of the $z _ { \\mathrm { n O } }$ crystallites. It is also noticed in the sample annealed at $7 5 0 ~ ^ { \\circ } \\mathrm { C }$ that $\\mathrm { Z n } _ { 2 } \\mathrm { S i O } _ { 4 }$ (a secondary phase of a rhombohedral structure） was formed due to the interfacial reaction between the ZnO film and the $\\mathrm { S i O } _ { 2 }$ substrate. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The interface between the $z _ { \\mathrm { { n O } } }$ film and quartz substrate after thermal annealing was investigated by cross-section TEM analysis. Figure 2(a) shows a high-resolution TEM (HRTEM) image of the interface of the sample after annealing at $6 0 0 ^ { \\circ } \\mathrm { C }$ .Figures 2(b)-(e) show respectively a dark-field TEM image,and the compositional mapping of Si, O,and Zn near the interface by EDS. These images show that even after annealing at $6 0 0 ^ { \\circ } \\mathrm { C }$ ,the interface between the ZnO thin film and the quartz substrate is abrupt, with no observable interfacial reaction of the two.Similar interfacial structures were also observed for other samples annealed at temperatures below $6 0 0 ~ ^ { \\circ } \\mathrm { C }$ . Figure 2(f) shows a HRTEM image of the interface for the sample annealed at $7 5 0 ^ { \\circ } \\mathrm { C }$ . One sees that due to the reaction of ZnO film and the quartz substrate,an interfacial layer (embedded with rhombohedral $\\mathrm { Z n } _ { 2 } \\mathrm { S i O } _ { 4 }$ nanoparticles） of $\\sim 5 0 \\ \\mathrm { n m }$ thick was formed. Element mapping of Si, O,and Zn near the interface, see figures 2(g)-(j), showed clearly diffusion of Si, O,and Zn at the interfacial area. These results are in good agreement with the XRD analysis that interfacial reaction occurred at $7 5 0 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 3(a) shows the magnetization of as-grown and annealed ZnO films measured at $3 0 0 ~ \\mathrm { K }$ . It is observed that all samples exhibit a clear hysteresis loop indicating that these films are ferromagnetic and with a Curie temperature $>$ 300 K.Figure 3(b) plots the saturation magnetization $\\mathbf { \\left( M _ { s } \\right) }$ of the samples as a function of the annealing temperature. One sees that the $\\mathbf { M } _ { \\mathrm { s } }$ of the as-grown $z _ { \\mathrm { { n O } } }$ film is very small (though ferromagnetic), and that the $\\mathbf { M } _ { \\mathrm { s } }$ increases rapidly with the annealing temperature. It reached a maximum of $0 . 4 4 \\mathrm { e m u / g }$ in the sample annealed at $6 0 0 ^ { \\circ } \\mathrm { C }$ ，which is about one order higher than that of the as-grown ZnO film. One also noticed that the interfacial reaction ruined the ferromagnetic property of the sample annealed at $7 5 0 ^ { \\circ } \\mathrm { C }$ ,and its $\\mathbf { M } _ { \\mathrm { s } }$ dropped drastically. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Since $\\mathrm { Z n } _ { 2 } \\mathrm { S i O } _ { 4 }$ emits also visible light in the range that overlaps the defects emission in ZnO [30],we discuss only the ferromagnetism of $\\mathrm { z n O }$ films annealed at $\\leq 6 0 0 ^ { \\circ } \\mathrm { C }$ ，where interfacial reaction was not observable. Figure 4(a) shows room-temperature PL spectra of these ferromagnetic ZnO films, from which one observes emissions in the ultraviolet and the visible light regions. It has been well understood that the near-band-edge (NBE) ultraviolet emission is related to the exciton combination,and the deep level (DL) visible light emissions are due to various point defects [21, 22]. As seen from Fig. 4(a) and Fig. 4(b), both the NBE and DL emissions became stronger at higher annealing temperatures. The increase in the NBE emission may be caused by the improvement in the crystallinity of ZnO after annealing， see XRD patterns shown by figure 1. The increase in DL emissions is caused probably by the increase in the amount of defects got introduced in ZnO films by thermal annealing. Figure 4(c） shows the PL spectrum of the sample annealed at $6 0 0 ~ ^ { \\circ } \\mathrm { C }$ ,in the visible light region.It is seen that this spectrum can be well fitted by two Gaussian peaks centered at \\~ $5 2 5 ~ \\mathrm { n m }$ and\\~ $5 8 0 \\mathrm { n m }$ , respectively. We have done this fitting also for other annealed samples,and found that the position of the two peaks remained almost constant. Figure 4(d) plots the intensity of two emissions along the annealing temperature. It shows that the intensity of the two emissions got increased at higher annealing temperatures. These results suggest that similar defects were introduced in these samples annealed at $\\leq 6 0 0 ^ { \\circ } \\mathrm { C }$ ,and that their amount was increased at higher annealing temperatures. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In literature it has been suggested that $Z \\mathrm { n } _ { \\mathrm { i } }$ and $\\mathrm { v _ { o } }$ are predominant defect types [31-33], and that $\\mathrm { \\Delta V _ { Z n } }$ and $\\mathrm { \\Delta O _ { i } }$ ,though may be thermodynamically stable in $z _ { \\mathrm { { n O } } }$ crystal lattice, can be created only in high oxygen partial pressure environment [31]. $Z \\mathrm { n } _ { \\mathrm { i } }$ is a shallow level defect which emits blue light, but can only be predominant in Zn vapor rich environment [34]. As there is no observable blue light emission corresponding to $Z \\mathrm { n } _ { \\mathrm { i } }$ in the PL spectra, see Figs. 4(a) and 4(b), the $\\mathrm { { Z n } _ { \\mathrm { { i } } } }$ defects in the samples are negligible [23,34]. Since the annealing experiments were conducted in flowing argon, the $\\mathrm { \\Delta V _ { Z n } }$ and $\\mathrm { \\Delta O _ { i } }$ defects generated in the films should be also negligible.This is why the emission attributed to $\\mathrm { { O } _ { i } }$ (in the red and near-infrared regions) was not observed here [28, 29]. To get an estimation of the $\\mathrm { \\Delta V _ { Z n } }$ defects level, we conducted PAS analysis for samples annealed at ${ \\underline { { \\le 6 0 0 } } } \\ { } ^ { \\circ } \\mathbf { C }$ [35]. Figure 5(a) plots the Doppler broadening parameter (S) versus the energy of incident positrons, for the as-grown ZnO film,and films annealed at $3 0 0 ^ { \\circ } \\mathrm { C }$ and $6 0 0 ~ ^ { \\circ } \\mathrm { C }$ ，for comparison. It should be noted that the spectra at energy below $2 . 6 8 \\ \\mathrm { k e V }$ give information of the ZnO films,above which show information of the quartz substrate. The spectra show that there is not much difference in the S value of three samples at energies $\\leq 2 . 6 8 \\ \\mathrm { k e V } ,$ indicating that there is not much difference in the amount of $\\mathrm { \\Delta V _ { Z n } }$ defects in the ZnO films [9,35]. These suggest that the emissions centered at $\\sim 5 2 5 \\ \\mathrm { n m }$ and $\\sim 5 8 0 \\ \\mathrm { n m }$ of the PL spectra observed here are probably caused by $\\mathrm { v _ { o } }$ defects introduced in $z _ { \\mathrm { { n O } } }$ films by annealing in argon, rather than $\\mathrm { { O } _ { i } }$ ， $\\mathrm { { Z n } _ { \\mathrm { { i } } } }$ or $\\mathrm { \\Delta V _ { Z n } }$ which are negligible in these samples.Therefore, the $\\mathrm { v _ { o } }$ defects should be also responsible for the ferromagnetism of the ZnO films. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Vo has three different charge states in $z _ { \\mathrm { { n O } } }$ lattice, denoted respectively as $\\mathrm { F } ^ { 0 }$ (doubly occupied), $\\mathrm { F ^ { + } }$ (singly occupied) and $\\mathrm { F } ^ { 2 + }$ (unoccupied) [36]. The emission at $\\sim 5 8 0 \\ \\mathrm { n m }$ in the PL spectra is due to the presence of the $\\mathrm { F } ^ { 2 + }$ vacancy [27]. However, the $\\mathrm { F } ^ { 0 }$ and $\\mathrm { F } ^ { 2 + }$ （204号 vacancies have spin-zero ground states [37, 38], thus they do not induce ferromagnetism of $\\mathrm { { } } Z \\mathrm { { n O } }$ . The presence of $\\mathrm { F ^ { + } }$ vacancy in $z _ { \\mathrm { { n O } } }$ induces emissions in a range of $5 1 0 ~ \\mathrm { n m }$ to （204号 $5 3 5 ~ \\mathrm { n m }$ (i.e. centered at $\\sim 5 2 5 \\ \\mathrm { n m }$ ）[21,26]. Thus the emission peak at $\\sim 5 2 5 \\ \\mathrm { n m }$ in the PL spectra shown by figure 4(c) is due to the presence of the $\\mathrm { F ^ { + } }$ vacancy. It is known that the $\\mathrm { F ^ { + } }$ vacancy is paramagnetic and can activate bound magnetic polarons (BMPs） in DMS [37]. Direct exchange among these BMPs leads to the formation of ferromagnetic domains. As a consequence,it is the singly occupied oxygen vacancy (i.e. the $\\mathrm { F ^ { + } }$ vacancy) induced the ferromagnetism of the ZnO films annealed in argon. Figure 5(b) plots the $\\mathbf { M } _ { \\mathrm { s } }$ of these $z _ { \\mathrm { { n O } } }$ films versus the intensity of the $\\sim 5 2 5 \\ : \\mathrm { n m }$ emission. One sees that the $\\mathbf { M } _ { \\mathrm { s } }$ is positively related to the PL intensity and that,at annealing temperatures $> 3 0 0 ^ { \\circ } \\mathrm { C }$ the Ms is linearly related to the PL intensity. This confirms indirectly that the ferromagnetism is caused by the $\\mathrm { F ^ { + } }$ vacancy and suggests that, one may increase the $\\mathbf { M } _ { \\mathrm { s } }$ by introducing more $\\mathrm { F ^ { + } }$ vacancv in ZnO films. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In conclusion, ferromagnetism in un-doped ZnO thin films was achieved by thermal annealing these films in flowing argon, with a maximum saturated magnetization of 0.44 emu/g observed in the sample annealed at $6 0 0 ^ { \\circ } \\mathrm { C }$ .The PL measurement and PAS analysis suggested that this ferromagnetism was induced by the singly occupied oxygen vacancy (i.e. the $\\mathrm { F ^ { + } }$ vacancy),and a positive relationship to the amount of $\\mathrm { F ^ { + } }$ vacancy. This study clarified the origin of the ferromagnetism of un-doped $z _ { \\mathrm { { n O } } }$ and provides a way to further enhance its ferromagnetic property. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The authors are very grateful to the financial support by the Chinese National Natural Science Foundation (grant nos.51072094, 50931002). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Reterences: [1] S. A. Wolf et al., Science 294,1488 (2001). [2] H. Ohno, Science 281, 951 (1998). [3] T. Dietl et al., Science 287,1019 (2000). [4] T. Jungwirth et al., Rev. Mod. Phys. 78, 809 (2006). [5] A. Ney et al., Phys. Rev.Lett. 100,157201 (2008). [6] T. C. Kaspar et al., New J. Phys. 10, 055010 (2008). [7] M. Venkatesan et al., Nature (London) 430, 630 (2004). [8] H. Pan et al., Phys. Rev. Let 99,127201 (2007). [9]J. B. Yi et al., Phys. Rev. Lett.104,137201 (2010). [10] R. Podila et al., Nano Lett. 10, 1383 (2010). [11] N. H. Hong et al., Phys. Rev. B 73,132404 (2006) [12] A. Drogheti et al., Phys. Rev. B 81, 092403 (2010). [13] N. H. Hong et al.,Phys.Rev. B 77,033205 (2008). [14] Z. W. Pan et al., Science 291,1947 (2001). [15] Z. L. Wang, and J. Song, Science 312, 242 (2006). [16] G. Xing et al., Appl. Phys. Lett. 96, 112511 (2010). [17] X. Zhang et al., Phys. Rev. B 80, 174427 (2009). [18] M. H. Huang et al., Science 292, 1897 (2001). [19] W. S. Shi et al., J. Appl. Phys.91, 5640 (2002). [20] X. Su et al., Appl. Phys. Lett. 88, 061913 (2006). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[21] K. Vanheusden et al.,Appl. Phys.Lett. 68, 403 (1996).   \n[22] S.B. Zhang et al., Phys. Rev. B 63, 075205 (2001).   \n[23] H. Zeng et al.,Adv. Funct. Mater. 20, 561(2010).   \n[24] Y. W. Heo et al., J. Appl. Phys. 98, 073502 (2005).   \n[25] M. Trunk et al., Appl. Phys. Lett. 97,211901 (2010).   \n[26] K. Vanheusden et al., J. Appl. Phys. 79,7983 (1996).   \n[27] A. V. Dijken et al., J. Phys. Chem. B 104,1715 (2000).   \n[28]R.B. M. Cross et al., Nanotechnology 16,2188 (2005).   \n[29] W. M. Kwok et al.,Appl. Phys. Lett. 87, 093108 (2005).   \n[30] X. Wang et al.,Adv. Mater. 16, 1215 (2004).   \n[31] F. Tuomisto et al., Phys. Rev.Lett. 91, 205502 (2003).   \n[32] D. C.Look et al., Phys.Rev. Lett. 95,225502 (2005).   \n[33] J.P. Han et al., J. Eur. Ceram. Soc.22,49 (2002).   \n[34] L.E. Halliburton et al.,Appl. Phys.Lett. 87,172108 (2005).   \n[35] F.A. Selim et al., Phys. Rev. Lett. 99, 085502 (2007).   \n[36] D. Pan et al., Appl. Phys. Lett 89, 082510 (2006).   \n[37] J. M. D. Coey et al., Nat. Mater. 4, 173 (2005).   \n[38] C.H. Patterson,Phys. Rev.B 74, 144432 (2006). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Figure captions: ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "FIG. 1 XRD patterns of as-grown and annealed ZnO thin films depostied on quartz substrate. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "FIG.2 (a) and (f) show the HRTEM image of the interface of the $6 0 0 ~ ^ { \\circ } \\mathrm { C }$ and $7 5 0 ~ ^ { \\circ } \\mathrm { C }$ annealed $Z _ { \\mathrm { { n O } } }$ films.(b) and(g) reveal the dark-field image of the $\\mathrm { z n O }$ films annealed at （204号 $6 0 0 ^ { \\circ } \\mathrm { C }$ and $7 5 0 ~ ^ { \\circ } \\mathrm { C }$ ,respectively. (c, h), (d,i) and (e, j) show the EDS mapping analysis of Si, O and Zn elements. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "FIG. 3 (a) M-H loops of as-grown and annealed ZnO films taken at 30o K. (b) Room temperature $\\mathbf { M } _ { \\mathrm { s } }$ vs the corresponding annealing temperature. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "FIG. 4 (a) The PL spectra of the $Z _ { \\mathrm { { n O } } }$ films on quartz substrate annealed at $6 0 0 ~ ^ { \\circ } \\mathrm { C }$ and below. (b) The enlarged DL emission of annealed ZnO thin films (c) The DL emission of ZnO film annealed at $6 0 0 ~ ^ { \\circ } \\mathrm { C } .$ (d) The intensity of the two emissions vs the annealing temperature. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "FIG.5(a) The spectra of S parameter versus incident positron energy.(b） The room temperature $\\mathbf { M } _ { \\mathrm { s } }$ vs the intensity of $5 2 5 \\mathrm { n m }$ emission. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/1470f743b50cee1d0e18850dcef84397d0f39cd2860835aad50e6b4978a5f062.jpg",
+        "img_caption": [
+            "FIG. 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1e9325efb411f71ebda36406cbcfcd831df65299d2128a6d51abb22a0931c4f.jpg",
+        "img_caption": [
+            "FIG. 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/10b14e708711af9831aef119e553770fb5a1d9ed0b99ee97b6f9b3f601390a09.jpg",
+        "img_caption": [
+            "FIG.3 "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/6183873cff7a36f785babe9b29810d9503c89a74b5d3e85f4e603eb3d9b1cdab.jpg",
+        "img_caption": [
+            "FIG.4 "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/a371512a406c9f351fd070cfdbdd2b85ad6c7cdc82628d0898d8f8599dc3c575.jpg",
+        "img_caption": [
+            "FIG. 5 "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    }
+]

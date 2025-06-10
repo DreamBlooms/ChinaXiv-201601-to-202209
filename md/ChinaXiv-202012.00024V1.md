@@ -1,0 +1,220 @@
+# 催产素对学习和记忆的调节效应：来自动物与人类的研究证据
+
+周梦晗 张源高山 KeithM.Kendrick 姚树霞（电子科技大学生命科学与技术学院神经信息教育部重点实验室）
+
+摘 要作为一种神经肽，催产素对于个体社会认知和情绪加工有着非常重要的调节作用，其中就包括对在人们工作和生活中扮演着关键角色的学习和记忆活动的影响。采用不同模态技术的动物和人类研究一致表明了外源性催产素对于学习和记忆具有重要的调节作用，这一作用可能是外源性催产素通过与多巴胺奖赏通路、边缘系统等学习和记忆关键脑网络中广泛分布的催产素受体相结合，进而调整其功能状态实现的；但与此同时，催产素对学习和记忆的促进或抑制作用会因实验范式、刺激材料、给药时间、位置和剂量等因素的不同而存在差异。未来需要协同动物和人类研究的各自优势，采用规范化的实验任务设置和给药程序克服当前该领域的研究局限，并积极发掘催产素在干预相关精神疾病患者学习和记忆加工缺陷中的应用潜力。
+
+关键词 催产素，学习，记忆，神经机制
+
+# 1引言
+
+催产素(oxytocin)是在下丘脑室旁核和视上核大细胞中合成的一种神经肽(Swaab et al,1975;Vandesande&Dierickx,1975)。早期的研究发现它不仅在动物的繁殖过程中有着不可或缺的作用，而且还能有效地增强如护犊、舐犊等母性行为(Pedersen etal.,1979)。随着后来越来越多的研究表明催产素在调节人类社会行为和情绪加工方面扮演着十分重要的角色(Fehm-Wolfsdorf & Born,1991; Keverne & Curley,2004; Meyer-Lindenberg et al.,2011; Striepensetal.,2011)，它成为了近几十年来心理学和神经科学领域的研究热点之一。催产素的调节作用涉及提升个体的共情和社会识别能力(Domes et al.,2007;Marsh et al.,2010)以及缓解焦虑和压力反应(Heinrichs etal.,2003)等多个方面，其中也包括对个体学习和记忆方面的影响(Guastella et al., 20o8; Hurlemann et al., 2010)。
+
+学习是指个体在一定情境下由于经验而产生的行为或行为潜能的持久变化；记忆则是一种对事物识记、保持、再现或再认的基本心理过程(彭聘龄，2001)。学习和记忆是两种重要的认知活动，二者相辅相成关系十分密切，但其本质上又有所差异。学习活动的进行离不开记忆的参与，记忆是学习能够正常进行的基础和保障，学习效果的好坏往往也会基于相应形式的记忆测试加以评估。这两种认知加工不但对人们平时的工作、学习等活动起着至关重要的作用，还可以应用于临床治疗，例如基于记忆再巩固环节的抑制或促进效应来开发针对创伤后应激障碍和药物成瘾患者的治疗方案(Clark,2018)。很多认知方面的已有研究往往将学习和记忆结合起来进行探讨(Cohen et al.,2019; Goode＆ Maren,2017)，并且越来越多的脑成像研究也表明两者具有共同的大脑皮层和皮层下神经基础，例如额叶皮层和纹状体等(Poldrack etal.,2001;Rapp&Wiley,2019)。因此，在催产素对认知活动的影响研究中，学习和记忆也常常会被放在一起讨论。
+
+当前已经有许多研究发现催产素能够影响动物和人类的学习与记忆活动(Benelli et al.,1995;Evans et al., 2010; Kovacs et al., 1979; Guastella et al., 2008; Hurlemann et al., 2010;Tomizawa et al.,2003)。基于分子生物学的研究表明，催产素受体广泛分布在哺乳动物大脑的经典奖赏通路中，如多巴胺奖赏通路(Hollerman& Schultz,1998; Schultz,2006)，包括腹侧纹状体、伏隔核、腹侧被盖区等核心节点(Baskerville&Douglas,2010; Huber et al.,2005; Leeetal.,2009)；同时，在与联结学习、亲社会学习以及记忆紧密相关的杏仁核、前扣带回皮层、海马等区域(Li et al.,2011; Lin& Hsu,2018; Lockwood et al.,2016)也发现了催产素受体的存在(Boccia et al.,2013)。因此，催产素很有可能通过与奖赏和学习环路中的催产素受体相结合，以影响其功能状态，进而调节学习与记忆加工。虽然上述研究表明催产素可以影响动物和人类的学习和记忆活动，但催产素究竟在哪些条件下会对学习和记忆产生影响以及其神经基础是什么，迄今为止还没有研究者对此进行详细的总结。对这一领域的系统回顾，不仅可以拓展我们对催产素调节个体社会行为与情绪加工作用的认识，还能够加深我们对其影响学习和记忆作用机制的理解，为该领域的未来研究启发新的思路。
+
+基于上述背景，本文将分别回顾动物和人类研究中催产素对学习和记忆的具体调节作用及其潜在的神经机制，并在此基础上重点剖析实验设置、刺激材料、给药时间、剂量和位置等因素对催产素调节学习和记忆加工效应的影响(见图1)，最后对当前该领域的研究不足进行总结，对未来可能的研究方向进行了展望。
+
+![](images/234b0ba2910b7e33647b764bf287757378e8c97e97bddc5f86bac92648e53762.jpg)  
+图1催产素调节动物和人类学习和记忆效应示意图.Hippocampus:海马；Dorsal septal nucleus：背侧隔核；Hippocampal dentategyrus：海马齿状回；Dorsalraphe nucleus：中脑背侧中缝核；Nucleus basalis ofMeynert：迈内特基底核；Anterior cingulate cortex:前扣带回皮层；Caudate nucleus：尾状核；Thalamus：丘脑；Putamen：壳核；Prefrontal cortex：前额叶皮层；Amygdala：杏仁核
+
+# 2催产素对学习的调节作用及其神经机制
+
+# 2.1催产素对动物学习的调节作用
+
+动物模型研究作为生命科学领域研究的重要基础和支撑，由于其研究手段尺度的精细程度较高以及伦理限制较少等特点，在揭示特定认知加工过程及其作用机制方面有其独特优势，对于人类模型研究有着较大的启发意义和可转化价值。迄今为止以动物为研究对象所累积的催产素研究数量已经相当丰富，研究焦点也从早期主要探讨催产素对动物母性行为和亲密行为(Carter etal.,1992)等较为本能的社会依恋关系的影响，转移至更集中于探究催产素对诸如社会识别(Ferguson et al.,2000)、攻击性(Bales & Carter,2003)等社会认知与行为方面的作用。学习作为一种高级认知活动，是个体与环境交互的重要基础，对于动物在不断变化的自然界中更好地适应和生存起着重要作用，因此研究催产素对其的调节作用有着重要意义。
+
+早期探究催产素对学习活动影响的动物研究使用较广泛的范式是被动回避学习任务(见表1)，该任务是基于大鼠的喜暗避光偏好以及对厌恶刺激(如足部电击)的恐惧和记忆而开发出来的。实验中通常将大鼠放置于一个与黑箱子有通道相连的有光平台上，在第1、2基线阶段测量大鼠在光刺激下进入黑箱子的潜伏期(光刺激出现与进入黑箱子避光之间的时间间隔)；在第3阶段即正式学习阶段，当大鼠进入黑箱子时，给予足部电击，诱发其回避行为(Bohus,Urban,et al.,1978;Kovacs et al.,1979)。早在1978年，Bohus 等人在学习结束后通过脑室给药 $( 0 . 1 / 1 . 0 \mathrm { n g } )$ 的方式发现，注射催产素24小时后大鼠进入黑箱子的潜伏期显著降低，即大鼠没有对电击产生有效的回避学习，说明催产素可能干扰了大鼠对恐惧电击的记忆巩固进而抑制了其回避行为学习(Bohus,Urban,et al.,1978)，且这一效应并不受学习结束后注射催产素的间隔时间(0/3/6/23 小时)的调节(Bohus,Kovacs,&de Wied,1978)；而通过外周给药,催产素对大鼠的回避学习则没有显著的调节效应(Bohus,Urban,et al.,1978)。采用同样的实验范式，有研究进一步考察了特定脑区直接注射的方式对大鼠被动回避行为的影响，结果发现在背侧隔核(dorsal septal nucleus)注射催产素 $( 2 5 ~ \mathrm { p g } )$ 的大鼠进入黑箱子的潜伏期得到明显延长，表明催产素有效地促进了大鼠的回避行为学习；当注射在海马齿状回(hippocampaldentate gyrus) $( 2 5 \mathrm { p g } )$ 和中脑背侧中缝核(dorsal raphe nucleus) $( 5 0 \mathrm { p g } )$ 时，催产素却显著性地降低了大鼠进入黑箱子的潜伏期，即对回避行为的学习产生了抑制作用(Kovacs et al.,1979);而与外周给药类似(Bohus,Urban,et al.,1978)，注射到中央杏仁核区域 $( 2 5 ~ \mathrm { p g } )$ 则没有发现催产素对大鼠回避学习具有显著效应。可见，催产素对于回避学习的调节作用会因给药位置的不同而出现分离，研究者指出这些结果上的差异，一方面可能是由于催产素在不同脑区的代谢降解能力不同所致，另一方面也可能与不同脑区之间的功能差异有关(Kovacs etal.,1979)。
+
+催产素对于动物学习的调节作用在不同类型的学习内容中也有所不同。与前文脑室注射催产素能够抑制大鼠的被动回避学习不同(Bohus,Urban,etal.,1978)，脑室注射催产素(2 ng)却能显著提升无生育经历雌性小鼠在迷宫任务中的长时空间学习能力(Tomizawa et al.,2003)，这与繁殖期内源性催产素水平升高的雌性小鼠往往会表现出更强的空间学习和记忆能力的研究发现也是一致的(Dawood et al.,1979; Kinsley et al.,1999; Kumaresan et al.,1979)；而通过向生育期(怀孕后14 天至实验结束)已表现出较好空间学习能力的母鼠注射催产素拮抗剂则能够有效抑制其空间学习和记忆表现，进一步验证了催产素在调节空间学习中的关键作用(Tomizawa et al., 2003)。
+
+基于基底核(nucleus basalis of Meynert)与动物空间学习的密切关系(Gonzalez et al.,2004)，Wu 和Yu(2004)以该脑区为催产素注射目标脑区系统探讨了不同剂量的催产素 $( 0 . 2 / 2 / 1 0 \mathrm { n m o l } )$ （20对大鼠空间学习的影响。结果显示，在2nmol和10 nmol的注射剂量条件下大鼠在迷宫任务中所用的时间会显著长于注射 $0 . 2 \mathrm { n m o l }$ 剂量组和控制组 $( 2 ~ \mu \mu$ 盐水)，而如果在给大鼠注射2 nmol 催产素之前注射等量的催产素拮抗剂则可以抵消催产素对空间学习中的抑制作用(Wu&Yu,2004)，说明催产素对基于基底核功能的空间学习抑制具有必不可少的作用。虽然该研究没有探讨在 $1 0 \ \mathrm { n m o l }$ 条件下注射等量催产素拮抗剂是否同样会抵消催产素对空间学习的抑制作用，但 $0 . 2 \mathrm { n m o l }$ 与 $2 / 1 0 \mathrm { n m o l }$ 条件下催产素对空间学习不同的调节作用表明，催产素的这一作用可能需要足够的剂量才能发挥效应。
+
+上述研究向我们揭示了催产素对动物学习不同的调节效应：一方面催产素对动物学习具有抑制作用，主要表现在向脑室 $( 0 . 1 / 1 . 0 \mathrm { n g } )$ 、海马齿状回 $( 2 5 \ : \mathrm { p g } )$ 以及中脑背侧中缝核 $( 5 0 \mathrm { p g } )$ 注射催产素能够有效抑制动物的被动回避学习，向基底核注射催产素 $( 2 / 1 0 \mathrm { n m o l } )$ 能有效抑制其空间学习；另一方面则对学习具有促进作用，主要表现在背侧隔核注射催产素 $( 2 5 \mathrm { p g } )$ 能够促进动物的被动回避学习能力，而向脑室注射催产素 $( 2 { \mathrm { ~ n g } } )$ 能够促进其空间学习能力。值得注意的是，同样的给药方式(如脑室给药)，催产素对不同的学习类型(被动回避学习 vs.空间学习)表现出了相反的调节作用，而同样的学习类型(如被动回避学习)不同的给药方式(外周vs.脑室)和给药位置以及同样的注射位置(如基底核)不同的注射剂量，催产素的作用也会有所不同。虽然催产素的调节效应有其复杂性，但这些研究一致向我们揭示了催产素对于学习调节作用的不可或缺性，这些发现不仅对于未来的动物研究具有十分重要的借鉴意义，而且对于人类模型研究也具有较大的启发价值。
+
+表1.催产素对动物学习的影响研究  
+
+<html><body><table><tr><td>研究</td><td>被试</td><td>实验范式</td><td>给药位置</td><td>剂量</td><td>给药时间点</td><td>结论</td></tr><tr><td>Bohus 等人(1978)</td><td>大鼠</td><td>被动回避</td><td>脑室</td><td>0.1/1.0 ng</td><td>测试前 24小时</td><td>←</td></tr><tr><td>Bohus 等人(1978)</td><td>大鼠</td><td>被动回避</td><td>脑室</td><td>1μg</td><td>学习后0/3/6/23小时</td><td>←</td></tr><tr><td>Kovacs等人(1979)</td><td>大鼠</td><td>被动回避</td><td>背侧隔核/海马齿状回/中脑背侧中缝核</td><td>25/25/50 pg</td><td>测试前10天</td><td>↑//</td></tr><tr><td>Tomizawa 等人(2003)</td><td>小鼠</td><td>迷宫任务</td><td>脑室</td><td>2ng</td><td>测试前连续12天</td><td>→</td></tr><tr><td>Wu 等人(1978)</td><td>大鼠</td><td>记忆测试</td><td>迈内特基底核</td><td>0.2/2/10 nmol</td><td>测试前1小时</td><td>↓(2/10 nmol)</td></tr></table></body></html>
+
+注： $\mathrm { \Delta \mu g > n m o l > n g > p g > f g }$ ；↑或↓：催产素对动物学习产生促进或抑制效应。
+
+# 2.2催产素对人类学习的调节作用
+
+心理学与认知神经科学领域对人类学习行为的研究往往集中于联结学习上，行为主义学派的联结学习(刺激-反应)理论是该领域的主要理论基础。该理论主张学习是外界刺激与学习者的行为反应建立联结的过程，而强化是建立这种联结的主要手段之一。得益于动物研究模型在该领域的诸多研究发现，人类模型下催产素对学习调节作用的研究也取得了诸多进展。由于催产素对人类行为的调节作用具有很强的情境依赖性，脱离情境因素去描述其作用往往不得其要(Bartz et al.,2011; Kendrick et al.,2017)，因此我们将着重根据不同的学习类型来分别探讨催产素对人类学习的影响及其发挥作用的可能机制(见表2)。
+
+# 2.2.1社会性学习
+
+催产素在人类研究中以其亲社会性而被广为熟知(Striepens et al.,2011)，在对人类学习行为的调节方面，催产素对社会性学习也展现出了积极的调节效应。Hurlemann 等人(2010)采用被试间随机双盲控制组对照设计，使用数字分类任务对催产素调节社会性联结学习的作用进行了研究。任务中要求被试对数字串进行二选分类，并根据结果不断优化后续行为选择，结果发现鼻喷催产素选择性地提升了社会性反馈条件下被试对于数字分类的行为表现，而对非社会性图形反馈条件下的行为表现则没有显著调节效应。这一研究首次为催产素增强人类学习提供了证据。后续有研究者采用相同研究范式并结合功能核磁共振技术(fMRI)，进一步考察了社会性联结学习中的催产素效应的神经机制，行为水平上的发现与Hurlemann 等人的研究结果一致，催产素相较于安慰剂选择性地提升了社会性反馈条件下被试的学习表现；在神经反应上，fMRI结果表明催产素增强了社会性反馈条件下杏仁核、海马、丘脑等学习和情绪加工脑区的激活，并且增加了右侧杏仁核与左侧脑岛以及左侧尾状核之间的功能联结(Hu et al.,2015)。由于这些脑区尤其是杏仁核都分布有大量的催产素受体(Boccia et al.,2013;Gimpl& Fahrenholz,2001)，催产素可能是通过作用于这些和情绪调节、奖赏以及刺激突显性相关脑区内的催产素受体进而影响其功能状态来实现对学习行为的调节的(Hu etal.,2015)。Hurlemann 等人研究发现双侧杏仁核损伤的患者在社会性反馈条件下学习存在困难，而在非社会性反馈条件下学习表现正常，进一步证实了杏仁核在催产素影响社会性强化学习的机制中不可或缺的作用：催产素在增强杏仁核对社会性反馈信息进行编码的基础上，通过增强其与脑岛、尾状核之间的功能连接提高社会性反馈信息的突显性，以使社会性信息加工与强化学习过程协同发挥作用，最终促进社会性学习。这与催产素的社会凸显性假设也是一致的(Shamay-Tsoory & Abu-Akel, 2016)。
+
+新近一项事件相关电位研究采用更为复杂的概率学习任务，首次探究了催产素对积极(高兴面孔)和消极(生气面孔)社会反馈条件下的学习表现是否具有不同的调节效应，结果发现催产素在积极和消极反馈条件下均促进了被试的学习表现，这一效应伴随着神经层面上催产素组反馈相关负波(FRN)的降低，说明催产素使得积极和消极反馈信息的评估变得更为接近以促进学习。在没有反馈的测试阶段，催产素对行为表现的促进效应依然存在，表现在催产素提高了对与积极反馈相联结刺激的正确率，而在神经层面催产素则在减弱错误相关负波(ERN)的同时增强了晚期错误正波(Pe)的波幅，说明催产素虽然降低了实际错误和预期正确反应之间的早期冲突探测，但却促进了后期的错误觉知和纠错动机。这些结果表明催产素对复杂条件下概率联结学习的促进作用主要通过增强对积极反馈的加工以使其接近消极反馈的作用来实现，催产素能够降低冲突探测并增强错误觉知以最终促进学习(Zhuang et al,2020)。
+
+从临床角度考察催产素调节社会性学习的研究还比较少见。目前仅有一项采用概率强化学习任务的研究探讨了催产素对高功能自闭症患者分类学习的调节效应，结果发现催产素有效促进了高功能自闭症患者在社会目标-非社会反馈和非社会目标-社会反馈条件下的学习表现，即催产素的效应依赖于有无社会性信息的参与，这一行为效应同时伴随着fMRI层面催产素对与奖赏预期错误信号加工相关的伏隔核(nucleus accumbens)激活程度的增强，说明催产素能够通过影响相关奖赏脑区的功能状态进而促进高功能自闭症患者的社会学习能力，这对于临床应用具有十分积极的借鉴意义(Kruppa et al.,2018)。
+
+# 2.2.2金钱奖赏学习
+
+催产素受体在人类多巴胺奖赏环路中广泛存在(Schorscher-Petcu etal.,2009; Skuse &Gallagher,2009)，为催产素通过作用于奖赏环路中的这些受体进而调节奖赏相关的学习活动提供了支撑。在一项金钱奖赏联结学习任务中，将同一个体的两种不同表情面孔图片分别与高低概率金钱奖励相联结并配对呈现，要求被试要尽可能的根据反馈学习联结进而使奖赏最大化。强化学习模型分析显示，催产素对积极和消极情绪面孔条件下被试的学习效率并不存在调节效应，但当愤怒面孔为高概率奖赏刺激时催产素组则会更倾向于选择愤怒面孔，表明催产素有可能减弱了被试对愤怒面孔的厌恶感(Evans etal.,2010)。后续研究在该实验的基础上增加了中性面孔和惩罚学习条件(金钱损失)，并且要求被试对来自不同个体的两个相同情绪的面孔进行选择，结果发现催产素显著减弱了在高兴面孔条件下的奖赏学习表现，而在消极面孔和惩罚学习情境中则没有调节效应(Clark-Elford et al.,2014)。催产素可能增强了高兴面孔条件下情绪面孔对学习任务的干扰程度，进而阻碍了被试在该条件下的学习效率，这与催产素具有促进高兴情绪面孔识别和对积极社会刺激的趋近行为的作用也是一致的(Schulzeet al.,2011; Yao et al.,2018)。以上两个研究都将金钱奖赏和情绪面孔结合起来探讨催产素对金钱奖赏学习的影响作用，但由于实验设置不同，结果也具有较大差异。不过，两项研究一致的是，都没有发现催产素对广义奖赏学习的促进效应，其原因可能是催产素对纯粹的金钱奖赏不具有调节效应，还有可能是由于学习任务中情绪面孔与金钱奖赏进行联结，而催产素对于情绪面孔这种典型的社会性刺激的加工本身就具有调节效应(Clark-Elford et al.,2015;Domes etal.,2010)，它与要探测的效应混淆在一起从而难以解释清楚催产素对金钱奖赏学习不具有调节作用是否是由于该效应的干扰所致。
+
+催产素对精神疾病患者奖赏环路的功能状态具有调节作用。Nawijn 等人(2016)采用金钱激励延迟任务(monetary incentive delay task)研究了催产素对创伤后应激障碍患者奖赏学习的调节作用，fMRI结果显示催产素增强了该患者在奖赏和惩罚条件下壳核、脑岛、前扣带回皮层等与奖赏和不确定性评估相关环路的激活，首次揭示了催产素对金钱奖赏加工相关脑区的调节作用。有研究以自闭症患者为研究对象，在经典金钱激励延迟任务中额外增加了以情绪面孔为反馈刺激的社会性情境条件，fMRI结果显示催产素选择性地增强了非社会性即金钱奖励条件下与奖赏加工相关的中脑边缘系统的激活程度，而在社会性反馈条件下则没有显著效应(Greene et al.,2018)。尽管催产素受体分布和奖赏环路脑区的重叠为催产素调节奖赏加工提供了生理基础上的可能性(Skuse&Gallagher,2009)，并且上述临床水平的研究也证实了催产素对精神疾病患者奖赏学习相关的环路激活具有调节作用，但这两项研究均没有发现行为层面上催产素对金钱奖赏学习的促进作用，使得我们对当前神经层面的研究结果难以做出有效推论，这种行为表现与神经活动的分离到底是由于催产素对金钱奖赏学习确实不存在调节作用还是由于精神疾病患者本身所具有的认知功能缺陷(如由此造成的行为表现的地板效应)所致仍有待于未来研究进一步挖掘。
+
+# 2.2.3恐惧条件化与恐惧消退学习
+
+无论是人类还是自然界其它物种在面对危险时均会产生相应的恐惧与焦虑反应，这对于个体自我生存与更好的适应新环境具有重要意义。动物研究发现催产素能够有效调节恐惧和焦虑反应(McCarthy etal.,1996)，随后的人类研究也表明催产素可以通过调节与恐惧加工紧密相关的杏仁核的激活程度，从而减弱包括广泛性焦虑病人在内的个体对恐惧刺激的过度反应(Kanat etal.,2015;Kirsch et al.,2005)。此外，脑成像研究显示恐惧消退主要受内侧前额皮层与杏仁核之间的相互作用所调节(Milad& Quirk,2012; Vouimba&Maroun,2011)，而这些脑区均存在大量的催产素受体(Boccia etal.,2013)。上述发现为我们利用催产素调节恐惧条件化和恐惧消退学习提供了足够的启示。
+
+Eckstein 等人(2016)采用经典的恐惧条件化范式，率先研究了催产素对恐惧条件化学习的调节作用。鼻喷催产素或安慰剂 30 分钟后让被试对社会性刺激(中性面孔)或非社会性刺激(房屋)进行恐惧条件化学习，发现催产素组被试对两类条件刺激 $\mathrm { C S ^ { + } }$ 的反应均要显著快于对条件刺激CS-的反应，在恐惧条件学习后期(条件化接近完成时)对条件刺激 $\mathrm { C S ^ { + } }$ 皮肤电反应也要显著高于对CS-的反应，而在安慰剂组则不存在这些效应；fMRI结果发现催产素相较于安慰剂显著增强了与恐惧表征和学习紧密相关的前扣带回皮层对于条件刺激 $\mathrm { C S ^ { + } }$ 的激活。这些结果在行为、电生理以及神经反应层面一致表明了催产素对于恐惧条件化学习的促进作用，并且这一作用不受刺激社会性属性的影响。生物体对于威胁性刺激的快速探测甄别是物种进化过程中保留下来的核心功能之一，对于个体的生存和发展具有十分重要的意义，上述发现说明催产素系统(Oxytocinergic system)在这一过程中可能发挥着重要作用。
+
+Petrovic 等人(2008)同样采用恐惧条件化范式，在恐惧条件化完成后鼻喷催产素或安慰剂(32IU)，并在45分钟之后开始进行恐惧消退。实验要求被试在条件化学习前、学习后（给药前)、恐惧消退测试前 (给药后)以及恐惧消退测试后对面孔图片各进行一次同理性程度(喜爱程度)评分。结果显示催产素通过增加被试对条件刺激 $\mathrm { C S ^ { + } }$ 的同理性评分，消除了恐惧消退测试前和测试后其与CS-面孔之间的同理性评分差异，即催产素降低了对条件刺激 $\mathrm { C S ^ { + } }$ 的负性情绪反应；与此一致，在恐惧消退阶段，催产素一方面在行为层面消除了 $\mathrm { C S ^ { + } }$ 和CS-刺激之间的反应时差异，另一方面 fMRI结果发现催产素抑制了杏仁核和前扣带回等恐惧加工相关脑区对 $\mathrm { C S ^ { + } }$ 面孔刺激相较于CS-刺激的反应。有后续研究采用类似范式并增加了非社会性刺激(房屋)，发现催产素显著降低了恐惧消退阶段后期对于社会性与非社会性条件刺激$\mathrm { C S ^ { + } }$ 的皮肤电反应，同时催产素在恐惧消退学习前期和后期均抑制了杏仁核的激活程度(Eckstein etal.,2015)。虽然上述两项研究中前者更侧重于关注催产素对于条件性恐惧刺激的情绪性反应的调节作用，后者更关注催产素效应是否会受条件刺激社会性属性的影响，但二者采用类似范式一致揭示了催产素可以抑制恐惧加工脑网络特别是其核心节点杏仁核在编码恐惧性条件刺激时的激活程度。另外，前者将消退阶段作为整体进行分析，因此忽略了恐惧消退学习的动态变化过程，而后者通过将消退阶段分成前后两部分进一步揭示了恐惧消退学习过程中的动态变化。
+
+Acheson 等人(2013)在恐惧消退范式的基础上加入了恐惧增强惊跳(fear-potentiatedstartle)测量，并在恐惧条件化学习24小时后增加了一项消退再唤醒(fear extinction recall)测试，以进一步探讨催产素对于恐惧消退再唤醒的调节作用。与上述研究一致，在恐惧条件化学习之后给被试鼻喷催产素或安慰剂，并在45分钟后开始恐惧消退学习，结果发现恐惧消退阶段催产素对被试在行为水平上的焦虑评分与电生理水平上的惊跳波幅均没有显著调节作用；而24小时后的消退再唤醒测试则发现催产素显著降低了对于条件刺激 $\mathrm { C S ^ { + } }$ 的肌电反应，说明催产素对恐惧消退学习的记忆巩固具有促进作用。虽然由于该研究与上述两项研究的实验范式与采集的数据模态有所不同而无法对其结果进行直接比较，但该研究无疑在这些研究的基础上更进一步，揭示了催产素对于恐惧消退再唤醒即恐惧消退学习记忆巩固过程的促进作用,这对于加深我们对催产素干预调节恐惧加工的作用机制的理解具有十分积极的意义。
+
+对威胁性刺激的恐惧条件化与恐惧消退异常与焦虑症、抑郁症以及创伤后应激障碍等精神疾病也有密切关系，特别是恐惧习得后恐惧消退过程的异常是造成过度与持续恐惧反应的关键机制之一(Grisanzio et al.,2018;Marin et al.,2017)。现阶段干预治疗恐惧相关精神疾病的传统手段(如认知行为疗法和药物治疗)往往效果不佳或具有较强的副作用(Bradley et al.2005;Carpenter et al.,2018;Wang et al.,2017)，因而寻找能够促进恐惧消退学习的有效手段具有十分重要的临床意义。上述三项研究从不同侧面较为一致地表明了催产素对于恐惧消退学习以及消退学习记忆巩固过程的促进作用，为未来将催产素应用至恐惧相关精神疾病的干预治疗提供了可贵的前临床概念性验证证据支持。
+
+上述研究从行为、电生理、脑电以及fMRI等多个层面探讨了催产素对人类学习加工的调节作用，与动物模型下催产素对学习的调节作用类似，催产素对人类学习的调节作用同样具有一定的复杂性，表现在对社会性学习、恐惧条件化及消退学习等学习类型上具有促进作用，而对金钱奖赏学习则不具有显著效应。此外，催产素的作用即使在类似的学习类型中也会受到如学习材料的社会性属性(社会性vs.非社会性)和效价(积极vs.消极vs.中性)的影响，这与催产素在调节人类其它社会行为过程中的作用往往也会受到任务情境和个体差异调节的发现是一致的(Bartz et al.,2011; Kendrick et al.,2017)。总的来看，催产素确实展现出了调节人类学习的有效性，并且在临床精神疾病患者中也得到了初步但积极的实验证据支撑，但在未来可能的临床应用实践中，我们需要慎重考虑上述因素对催产素效应的可能影响以趋利避害。
+
+表2.催产素对人类学习的影响研究  
+
+<html><body><table><tr><td>研究</td><td>被试</td><td>实验范式</td><td>给药方式</td><td>剂量</td><td>给药时间点</td><td>刺激类型</td><td>神经基础</td><td>结论</td></tr><tr><td>Acheson 等人(2013)</td><td>21女/23男</td><td>恐惧条件范式</td><td>鼻喷</td><td>24 IU</td><td>恐惧消退训练 前45分钟</td><td>非社会性刺激</td><td></td><td>↑(消退再唤醒)</td></tr><tr><td>Clark-Elford 等人(2013)</td><td>27男</td><td>情感奖赏学习任务</td><td>鼻喷</td><td>24 IU</td><td>任务前45分钟</td><td>社会性刺激(中性/高兴/恐惧 面孔）</td><td>/</td><td>{(高兴面孔)</td></tr><tr><td>Eckstein 等人(2015)</td><td>62男</td><td>恐惧条件范式</td><td>鼻喷</td><td>24 IU</td><td>任务前30分钟</td><td>社会性(中性面孔)/非社会性 刺激</td><td>杏仁核</td><td></td></tr><tr><td>Eckstein 等人(2016)</td><td>97男</td><td>恐惧条件范式</td><td>鼻喷</td><td>24 IU</td><td>任务前30分钟</td><td>社会性(中性面孔)/非社会性 刺激</td><td>前扣带回</td><td>→</td></tr><tr><td>Evans 等人(2010)</td><td>18男</td><td>联结学习任务</td><td>鼻喷</td><td>24 IU</td><td>任务前50分钟</td><td>社会性刺激(高兴/愤怒/伤心 面孔）</td><td>/</td><td>/</td></tr><tr><td>Greene 等人(2018)</td><td>2 ASD 女/26 ASD 男</td><td>社会和非社会激励 延迟任务</td><td>鼻喷</td><td>24 IU</td><td>扫描前</td><td>社会性(高兴面孔)/非社会性 反馈</td><td>伏隔核/前扣带回 /眶额叶/额上回</td><td>(非社会性反馈)</td></tr><tr><td>Hu等人(2015)</td><td>73女/78男</td><td>强化联结学习</td><td>鼻喷</td><td>24 IU</td><td>任务前45分钟</td><td>社会性(中性/高兴/愤怒面 孔)/非社会性反馈</td><td>杏仁核/海马/丘</td><td>↑(社会性反馈)</td></tr><tr><td>Hurlemann 等人(2010)</td><td>18女/48男</td><td>强化联结学习</td><td>鼻喷</td><td>24 IU</td><td>任务前45分钟</td><td>社会性(中性/高兴/愤怒面</td><td>脑/尾状核 杏仁核</td><td>(社会性反馈)</td></tr><tr><td>Kruppa 等人(2018)</td><td>15 ASD 男/24 HC 男</td><td>概率强化学习</td><td>鼻喷</td><td>20 IU</td><td>任务前45分钟</td><td>孔)/非社会性反馈 社会性(中性/高兴面孔)/非 社会性刺激</td><td>伏隔核</td><td>↑(社会性刺激)</td></tr><tr><td>Nawijn 等人(2016)</td><td>35 PTSD(21 男)/37 HC(19 男)</td><td>金钱激励延迟任务</td><td>鼻喷</td><td>40 IU</td><td>任务前50分钟</td><td>非社会性反馈</td><td>纹状体/背侧前扣</td><td>↑</td></tr><tr><td>Petrovic 等人(2008)</td><td>27男</td><td>恐惧条件范式</td><td>鼻喷</td><td>32IU</td><td>任务前45分钟</td><td>社会性刺激(中性面孔)</td><td>带回/脑岛 前扣带回/杏仁核</td><td></td></tr><tr><td>Zhuang 等人(2021)</td><td>33男</td><td>概率学习</td><td>鼻喷</td><td>24IU</td><td>任务前45分钟</td><td>社会性反馈(高兴/生气面孔)</td><td></td><td>→ →</td></tr></table></body></html>
+
+注：ASD：自闭症谱系障碍；PTSD：创伤后应激障碍；HC：正常人；↑或↓：催产素对人类学习产生促进或抑制效应；/：没报告或无结果；IU：国际单位
+
+# 3催产素对记忆的调节作用及其神经机制
+
+# 3.1催产素对动物记忆的调节作用
+
+动物模型下催产素对记忆调节作用的研究主要集中于社会识别领域(见表3)。社会识别指的是动物去识别另一个陌生个体时一开始需要花费较长时间去熟悉，但随着出现次数的增加识别时间逐渐下降的过程(Love,2014)，该过程需要短时记忆和工作记忆的参与，因此常被用来研究记忆活动表现。社会识别任务中将大鼠放置于笼子里，并将3-5周的幼鼠放进笼子里与大鼠进行第一次接触，接触之后在大鼠脑室内注射催产素，间隔一段时间后将幼鼠再次放进大鼠的笼子中，当大鼠做出嗅、跟随等焦点集中于识别对象的行为时则表明大鼠识别了小鼠，这一过程所需要的时间即为社会识别时间。催产素的促进或减弱效应通过两次放回小鼠的间隔时间来定义：如果间隔为30分钟时大鼠社会识别失败，那属于抑制效应；而间隔120 分钟后仍然成功识别则属于促进作用。实验结果显示，当两次接触时间间隔 30 分钟时，相较于盐水控制组，注射催产素 $( 6 \mu \mathrm { g } / \mathrm { k g } )$ 的大鼠第二次识别幼鼠时间与第一次无明显差异，表明催产素对大鼠的社会识别过程中具有抑制效应(Dantzer et al.,1987)。
+
+注射剂量同样会影响催产素对社会识别的调节作用。相比于对照组，脑室注射低剂量$( 0 . 0 9 \ \mathrm { n g . \ k g ^ { - 1 } \mathrm { - } } \ 6 \ \mathrm { n g . \ k g ^ { - 1 } } )$ 的催产素能够促进成年大鼠的社会识别能力，而注射较高剂量(24ng. $\mathbf { k g } ^ { - 1 } \mathbf { \lambda } ,$ 的催产素则会对大鼠的社会识别行为起到阻碍作用(Popik&Vetulani,1991;Popik etal.,1992)。在该研究的基础上，Benelli 等人(1995)进一步扩大了催产素的注射剂量范围(1 fg-$1 0 \mathrm { n g } )$ ，结果依然发现低剂量的催产素能够促进大鼠的社会识别，其中以10 fg 和1ng 这两个剂量的促进效应最为显著；而在注射低剂量催产素(1ng)前5分钟注射相同剂量的催产素拮抗剂会消除催产素对社会识别的促进作用。通过在社会识别任务的再认阶段额外增加一只陌生小鼠，发现催产素组 $( 0 . 1 \mathrm { n g / k g ) }$ 的小鼠识别陌生小鼠所花费的时间远大于识别原有小鼠，这从另一个角度证实了低剂量催产素对社会识别的促进效应(Gard et al.,2012)。除了脑室注射，Ferguson 等人(2000)利用基因敲除技术，同样证明了催产素在社会识别中的重要作用：催产素基因被敲除掉的小鼠(Oxt $- / -$ )和野生小鼠(Oxt+/+)与母鼠接触的过程中，随着时间推移 Oxt--组小鼠相较于Oxt+/+组表现出较差的社会识别能力，而将催产素(1ng)注射到 Oxt/-组小鼠脑室内则会缓解这一缺陷，注射催产素拮抗剂到Oxt+/+组小鼠则使之出现社会识别能力衰退的现象，这些结果从基因角度说明了催产素在社会识别记忆过程中的不可或缺性。
+
+综上可见，虽然催产素调节动物模型下记忆的直接研究相较于学习研究数量较少，但该领域通过脑室注射、催产素拮抗剂以及基因敲除的方式向我们揭示了催产素在动物记忆活动中的重要作用。值得注意的是，催产素对动物记忆的调节作用主要受到注射剂量高低的影响，即低剂量往往表现出促进作用而高剂量则具有抑制作用，未来还需要更多动物模型研究去探究更精确的尺度下催产素影响记忆活动的作用机制。
+
+表3.催产素对动物记忆的影响研究  
+
+<html><body><table><tr><td>研究</td><td>被试</td><td>实验范式</td><td>给药位置</td><td>剂量</td><td>给药时间点</td><td>结论</td></tr><tr><td>Benelli 等人(1995)</td><td>大鼠</td><td>社会识别任务</td><td>脑室</td><td>1 fg-10 ng</td><td>首次接触后5分钟</td><td>→</td></tr><tr><td>Dantzer 等人(1987)</td><td>大鼠</td><td>社会识别任务</td><td>脑室</td><td>6 μg/kg</td><td>识别前30分钟</td><td>←</td></tr><tr><td>Ferguso 等人(2000)</td><td>小鼠</td><td>迷宫任务/基因敲除</td><td>脑室</td><td>1 ng</td><td>测试前</td><td>→</td></tr><tr><td>Gard 等人(2012)</td><td>大鼠</td><td>新事物识别</td><td>脑室</td><td>0.1 ng/kg</td><td>训练后</td><td>→</td></tr><tr><td>Popik 等人(1991)</td><td>大鼠</td><td>社会记忆范式</td><td>外周</td><td>12/24 μg/kg</td><td>首次接触后</td><td>↓(24 μg/kg)</td></tr><tr><td>Popik 等人(1992)</td><td>大鼠</td><td>社会识别任务</td><td>/</td><td>0.09 - 6 ng. kg-1</td><td>首次接触后</td><td>→</td></tr></table></body></html>
+
+注： $\mu \mathrm { g } > \mathrm { n m o l } > \mathrm { n g } > \mathrm { p g } > \mathrm { f } \updownarrow$ ；↑或」：催产素对动物记忆产生促进或抑制效应；/：没报告或无结果。
+
+# 3.2催产素对人类记忆的调节作用
+
+动物研究揭示了催产素对记忆的调节效应存在多样性，与此类似，催产素对人类记忆活动的调节作用也会因实验任务设置以及记忆材料的不同而不同(见表 4)。Bruins 等人(1992)最早采用口头呈现抽象词语和视觉呈现面孔图像(积极/消极)两种方式探究催产素对记忆的影响，被试学习完成后鼻喷催产素或安慰剂，一周之后的记忆测试结果显示催产素损害了被试对口头抽象词语的记忆能力而对视觉面孔刺激的记忆则没有影响。同样是学习完成后给药，后续有研究在学习(编码)阶段给男女被试呈现男性高兴、愤怒或中性情绪面孔，并在给药 30 分钟和 24小时后分别完成中性面孔身份再认测试，结果表明催产素在短时与长时间隔条件下均有效提升了对中性和愤怒情绪面孔的身份再认表现，并且这一效应不受被试性别的影响，而在高兴面孔的身份再认上没有效应(Savaskan et al.,2008)。
+
+与学习后给药作用于记忆巩固过程不同，学习前给药则更多作用于记忆编码过程，研究也更为丰富，但同样以面孔的记忆研究为主。在编码开始前 50分钟鼻喷催产素或安慰剂，Heinrichs 等人(2004)研究了催产素对与繁殖相关词汇或中性词汇内隐与外显记忆的调节作用，结果发现催产素显著降低了被试在外显记忆测试中对两类词汇的再认得分，但在内隐记忆任务测试中这一效应仅存在于与繁殖有关的词汇条件下。后续的研究则多为面孔记忆研究，Guastella等人(2008)采用面孔图片作为刺激，测试时要求被试做出“记得”、“熟悉”或者“新刺激”的判断，发现相较于愤怒和中性情绪面孔，鼻喷催产素组被试对之前出现过的高兴情绪面孔刺激会做出更多的“记得”或“熟悉”的判断，即选择性地提升了对高兴面孔的记忆能力。后续有研究在面孔刺激的基础上进一步加入了非社会性刺激 (如房屋、风景)，以探究催产素对记忆的影响是否仅局限于社会性刺激，结果发现催产素只选择性地提升了对社会性面孔刺激的熟悉度评分，并且这一效应在积极与消极面孔刺激中是一致的，而对非社会性刺激则没有显著的调节作用(Rimmele et al.,2009)。Herzmann 等人(2013)还进一步研究了催产素如何调节与个体相同或不同种族的面孔(高兴/中性)的记忆，发现催产素显著提升了测试阶段男性和女性被试对面孔刺激特别是高兴面孔的熟悉度评分，且这一效应不受刺激面孔种族的调节；同时，催产素增加了与记忆编码和提取相关脑电成分(FN400 和顶叶新旧效应-parietal old/new effect)的波幅，而对刺激早期感知觉加工相关的脑电成分则没有显著效应，说明催产素直接影响了记忆相关的神经编码活动而非感知觉加工；此外，与熟悉度结果相反，该研究还发现催产素阻碍了男性被试的记忆再认能力。而如果采用被试内设计并且只使用中性面孔作为社会性刺激，催产素对男性被试中性面孔刺激和非社会性刺激的记忆再认表现均具有阻碍作用，说明催产素对记忆加工的效应可能会受到实验刺激的情绪效价和实验设计的影响(Herzmann et al., 2012)。
+
+综合上述研究，催产素对人类记忆活动尤其是以情绪面孔为代表的社会性刺激的记忆加工具有显著的调节效应，但催产素的调节效应会因给药时间、记忆测试间隔时间和测试方式(再认vs.熟悉度评分)、刺激材料效价(积极vs.消极vs.中性)和类型(面孔vs.词汇)等因素的不同而有所差异，这也是值得未来研究去思考的地方。此外，催产素对人类记忆影响的研究较少采用脑成像技术，以后需要更多运用此类技术来揭示其神经机制。
+
+表4.催产素对人类记忆的影响研究  
+
+<html><body><table><tr><td>研究</td><td>被试</td><td>实验范式</td><td>给药方式</td><td>剂量</td><td>给药时间点</td><td>刺激类型</td><td>神经基础</td><td>结论</td></tr><tr><td>Bruins 等人(1992)</td><td>20女/23男</td><td>记忆测试</td><td>鼻喷</td><td>20IU</td><td>测试前10 分钟</td><td>抽象/社会性刺激(积极/消极面孔)</td><td>/</td><td>{(抽想词汇)</td></tr><tr><td>Guastella 等人(2008)</td><td>69男</td><td>记忆测试</td><td>鼻喷</td><td>24 IU</td><td>学习前45分钟</td><td>社会性刺激(中性/高兴/愤怒面孔)</td><td>/</td><td>↑(高兴面孔)</td></tr><tr><td>Heinrichs 等人(2004)</td><td>38男</td><td>外显/内隐测试</td><td>鼻喷</td><td>24 IU</td><td>学习前50分钟</td><td>词汇(与繁殖相关/中性)</td><td>/</td><td>{(内隐繁殖词汇/外显)</td></tr><tr><td>Herzmann 等人(2012)</td><td>28男</td><td>再认记忆测试</td><td>鼻喷</td><td>24 IU</td><td>学习前40分钟</td><td>社会性(中性面孔)/非社会性刺激</td><td>/</td><td>←</td></tr><tr><td>Herzmann 等人(2013)</td><td>26女/26男</td><td>再认记忆测试</td><td>鼻喷</td><td>24 IU</td><td>学习前40分钟</td><td>社会性刺激(中性/高兴面孔)</td><td>/</td><td>→</td></tr><tr><td>Rimmele等人(2009)</td><td>41男</td><td>再认记忆测试</td><td>鼻喷</td><td>24 IU</td><td>学习前40分钟</td><td>社会性刺激(中性/积极/消极面孔)</td><td>/</td><td>↑(社会性刺激)</td></tr><tr><td>Savaskan 等人(2008)</td><td>18女/18男</td><td>再认记忆测试</td><td>鼻喷</td><td>20IU</td><td>学习后</td><td>社会性刺激(中性/高兴/愤怒面孔)</td><td>/</td><td>1(中性/愤怒面孔)</td></tr></table></body></html>
+
+注：↑或」：催产素对人类记忆产生促进或抑制效应；/：没报告或无结果；IU：国际单位。
+
+# 4总结与展望
+
+综上所述，催产素对动物和人类的学习和记忆加工发挥着十分重要的调节作用，外源性催产素(注射或鼻喷)可能通过与多巴胺奖赏通路、边缘系统(特别是杏仁核和海马)等学习和记忆加工相关脑网络中广泛分布的催产素受体相结合，进而调整其功能状态以实现对学习和记忆的调节，但催产素的调节作用到底是促进还是抑制则会受到如任务设置、给药时间以及刺激材料特性等多种因素的影响。虽然这一领域已有研究利用不同模态技术大大加深了我们对于催产素影响学习和记忆作用机制的理解，但同时也存在一些问题以及继续拓展研究的空间，具体如下：
+
+(1)催产素对动物和人类学习和记忆加工的调节作用有其复杂性，动物研究中往往会因催产素给药方式、剂量以及位置的不同而表现出不同的作用，未来研究应该发挥动物模型研究的优势，利用更精细尺度的技术如光遗传、单细胞记录等，系统、深入地研究催产素调节记忆和学习的具体作用机制，而非仅仅止步于发现调节作用的存在及差异等表面效应。人类研究中，调节作用的不一致往往来源于具体任务设置、给药剂量、给药时间点、刺激材料等因素的不同。未来研究首先要采用规范化的任务设置和给药程序，系统地研究某特定学习和记忆类型下催产素的调节效应，以实现不同研究之间的可比性，进而明确在此特定学习和记忆类型下催产素到底是发挥着促进作用还是抑制作用以及这些作用背后的神经机制。其次，未来研究还要提高动物模型与人类模型研究之间的可转化性。动物模型研究受伦理道德等因素的制约较少，研究技术更为丰富，对神经机制尺度的描绘也更为细致，因而对于人类模型研究具有较大的启发价值；而人类模型研究中被试认知功能水平高，能够进行更为复杂的实验设计，揭示更为高级的对学习和记忆的作用模式，因而也可以反向启发动物模型研究。
+
+(2)虽然已有少量研究证实了催产素对于自闭症与创伤后应激障碍患者在社会性学习与金钱奖赏学习中的行为表现及其神经反应具有调节作用，但目前催产素对人类学习和记忆调节作用的研究主要还是以健康人为主，离真正的临床应用转化还有很长的路要走。但毋庸置疑的是，催产素对于干预精神疾病患者如自闭症患者基于社会性信息或人际反馈情境的学习与记忆以及恐惧相关精神疾病患者的恐惧消退学习颇具潜力，未来研究应当在揭示健康被试尤其是相关高特质个体中催产素对学习和记忆的调节效应及其神经机制的基础上评估其在精神疾病群体中的应用潜力，并不断探索催产素给药方式、剂量以及频次等对催产素效应的影响，以优化调节效应，促进临床应用转化。
+
+(3)目前已有的催产素对人类学习和记忆调节作用的研究多采用鼻喷方式给药，所用范式也较为单一。已有研究早已揭示过内源性催产素水平(血液/唾液浓度)与人类行为和情绪的关系(如 Chen et al.,2020; Engel et al.,2019; Han et al.,2020)，但目前尚未有研究探讨过内源性催产素与学习和记忆的关系；在研究范式上，学习研究多基于强化学习范式，记忆研究则以记忆再认为主，而对复杂情境下的学习和记忆的研究则相对欠缺。联结关系在真实情境中并不是一成不变的，很有可能随着客观条件的变化而产生改变，原本产生积极结果的刺激转而导致消极结果，这时就需要个体根据行为的结果反馈适时调整自己的决策，而目前对这类联结关系动态变化条件下催产素的调节作用还尚未有研究。
+
+# 参考文献
+
+彭聘龄.(主编).(2001)．普通心理学.北京：北京师范大学.   
+Acheson,D.,Feifel,D., Wilde, S.D., Mckinney,R.,Lohr,J., & Risbrough, V. (2013). The effect of intranasal oxytocin treatment on conditioned fear extinction and recall in a healthy human sample Psychopharmacology, 229(1),199-208.   
+Bales,K. L., & Carter, C. S. (2003). Sex differences and developmental effects of oxytocin on aggression and social behavior in prairie voles (Microtus ochrogaster). Hormones and Behavior; 44(3), 178-184.   
+Bartz,J. A., Zaki, J.， Bolger,N.,& Ochsner,K. N. (2011). Social effects of oxytocin in humans: Context and person matter. Trends in cognitive sciences， 15(7), 301-309.   
+Baskerville, T. A.，& Douglas,A. J. (2010). Dopamine and oxytocin interactions underlying behaviors: Potential contributions to behavioral disorders. CNS neuroscience & theraputics, 16(3), e92-123.   
+Beneli, A.,Bertolini, A.,Poggioli, R., Menozzi, B., Basaglia,R., & Arleti, R. (1995). Polymodal dose-response curve for oxytocin in the social recognition test. Neuropeptides, 28(4),251-255.   
+Boccia,M.L.,Petrusz,P., Suzuki,K., Marson,L.,& Pedersen, C.A. (2013). Immunohistochemical localization of oxytocin receptors in human brain. Neuroscience, 253,155-164.   
+Bohus, B., Kovacs, G.L., & de Wied, D. (1978). Oxytocin, vasopressin and memory opposite effects on consolidation and retrieval processes. Brain Research, 157(2),414-417.   
+Bohus,B., Urban,I., Greidanus, T. B.V. W.,& de Wied, D. (1978). Opposite effects of oxytocin and vasopressn on avoidance behaviour and hippocampal theta rhythm in the rat. Neuropharmacology, 17(4-5), 239-247.   
+Bradley, R., Greene, J., Russ,E., Dutra,L., & Westen,D. (20o5). A multidimensional meta-analysis of psychotherapy for PTSD. The American Journal of Psychiatry, 162(2),214-227.   
+Bruins,J.,Hijman, R., & Ree, J. M. V. (1992). Effect of a single dose of des-glycinamide-[arg8] vasopressin or oxytocin on cognitive processes in young healthy subjects. Peptides,13(3), 461- 468.   
+Carpenter, J. K., Andrews,L. A., Witcraft, S. M., Powers, M. B., Smits, J. A. J.,& Hofmann, S. G. (2018). Cognitive behavioral therapy for anxiety and related disorders: A meta-analysis of
+
+randomized placebo-controlled trials.Depress Anxiety, 35(6), 502-514.
+
+Carter, C.S., Willams,J.R., Wit,D.M.,& Insel,T.R. (1992). Oxytocin and social bonding. Annals New York Academy of Sciences, 652, 204-211.   
+Chen,Y S., Becker, B., Zhang, Y. Y., Cui, H., Du, J., Wernicke,J.,.. Yao, S. X. (202O). Oxytocin increases the pleasantness of affective touch and orbitofrontal cortex activity independent of valence. European Neuropsychopharmacology, 39, 99-110.   
+Clark-Elford, R., Nathan, P. J., Auyeung, B., Mogg, K., Bradley, B. P., Sule, A.,.. Baron-Cohen, S. (2015). Effects of oxytocin on attention to emotional faces in healthy volunteers and highly socially anxious males. International Journal of Neuropsychopharmacology, 18(2).   
+Clark-Elford, R., Nathan, P. J.,Auyeung, B., Voon, V., Sule,A.， Muller, U.,.. Baron-Cohen，S. (2014). The effects of oxytocin on social reward learning in humans. International Journal of Neuropsychopharmacology, 17(2),199-209.   
+Clark, R.E. (2018). A history and overview of the behavioral neuroscience oflearning and memory. Current Topics in Behavioral Neurosciences, 37,1-11.   
+Cohen,A. O., Matese, N. G.,Filimontseva, A., Shen, X., Shi, T. C., Livne, E., & Hartley, C.A. (2019). Aversive learning strengthens episodic memory in both adolescents and adults. Learning & Memory, 26(7), 272-279.   
+Dantzer, R., Bluthe,R. M., Koob, G.F.,& Moal, M. L. (1987). Modulation of social memory in male rats by neurohypophyseal peptides. Psychopharmacology, 91(3),363-368.   
+Dawood, M. Y., Lauersen, N. H., Trived,D., Ylikorkala,O., & Fuchs,F.(1979). Studies of oxytocin in the baboon during pregnancy and delivery. Acta Ensocrinologica, 91(4), 704-718.   
+Domes, G., Heinrichs, M., Michel, A., Berger, C., & Herpertz, S. C. (2007). Oxytocin improves "mind-reading" in humans. Biological Psychiatry, 61(6),731-733.   
+Domes, G.,Lischke,A., Berger, C., Grossmann,A., Hauenstein, K., Heinrichs, M.,& Herpertz, S. C.(2010). Effects of intranasal oxytocin on emotional face processing in women. Psychoneuroendocrinology, 35(1), 83-93.   
+Eckstein, M., Becker, B., Scheele,D., Scholz, C., Preckel, K., Schlaepfer, T.E.,...Hurlemann, R. (2015). Oxytocin facilitates the extinction of conditioned fear in humans. Biological Psychiatry, 78(3), 194-202.   
+Eckstein, M., Scheele,D.,Patin,A.,Preskel, K.,Becker, B., Walter,A.... Hurlemann,R. (2016). Oxytocin facilitates pavlovian fear learning in males. Neuropsychopharmacology, 41(4), 932- 939.   
+Engel, S.,Laufer, S., Knaevelsrud, C.,& Schumacher, S. (2019). The endogenous oxytocin system in depressive disorders: A systematic review and meta-analysis. Psychoneuroendocrinology, 101, 138-149.   
+Evans,S., Shergill, S. S.,& Averbeck, B.B. (2010). Oxytocin decreases aversion to angry faces in an associative learning task. Neuropsychopharmacology, 35(13),2502-2509.   
+Fehm-Wolfsdorf, G.,&Born,J.(1991).Behavioral effects of neurohypophyseal peptides in healthy volunteers 10 years of research. Peptides,12(6),1399-1406.   
+Ferguson,J. N., Young,L. J.,Hearn,E.F., Matzuk,M.M., Insel,T.R.,& Winslow,J. T. (200). Social amnesia in mice lacking the oxytocin gene. Nature Genetics, 25(3), 284-288.   
+Gard, P. R., Naylor, C., Ali, S.,& Partington, C. (2012). Blockade of pro-cognitive effects of angiotensin IV and physostigmine in mice by oxytocin antagonism. European Journal of Pharmacology, 683(1-3),155-160.   
+Gimpl,G.，& Fahrenholz, F. (2001). The oxytocin receptor system: Structure， function, and regulation. Physiological Reviews, 81(2), 629-683.   
+Gonzalez, C.L., Miranda, M.I., Gutierrez,H.,Ormsby,C.,& Bermudez-Ratoni,F.(2004). Differential participation of the NBM in the acquisition and retrieval of conditioned taste aversion and morris water maze. Behavioural Brain Research, 116(1), 89-98.   
+Goode,T.D., & Maren, S.(2017). Role ofthe bed nucleus of the stria terminalis in aversive learning and memory. Learning & Memory, 24(9), 480-491.   
+Greene, R. K., Spanos, M., Alderman, C., Walsh, E., Bizzel, J., Mosner, M. G.... Dichter, G. S. (2018). The effects of intranasal oxytocin on reward circuitry responses in children with autism spectrum disorder. Journal of Neurodevelopment Disordors, 10(1):12.   
+Grisanzio, K. A., Goldstein-Piekarski, A. N., Wang, M.Y.,Ahmed,A. P.R., Samara, .,& Williams, L. M. (2018). Transdiagnostic symptom clusters and associations with brain, behavior, and daily function in mood,anxiety,and trauma disorders. JAMA Psychiatry, 75(2),201-209.   
+Guastella, A. J., Mitchell, P.B., & Mathews,F. (2008). Oxytocin enhances the encoding of positive social memories in humans. Biological Psychiatry, 64(3),256-258.   
+Han, X. C., Gelfand,M. J., Wu, B., Zhang, T.,Li, W. X., Gao, T. Y.,...Han, S. H. (2020). A 24
+
+neurobiological association of revenge propensity during intergroup conflict. Elife, 9:e52014.   
+Heinrichs, M., Baumgartner, T.,Kirschbaum, C.,& Ehlert, U. (2003). Social support and oxytocin interact to suppresscortisol and subjective responses to psychosocial stress. Biological Psychiatry, 54(12), 1389-1398.   
+Heinrichs, M., Meinlschmidt, G., Wippich, W., Ehlert, U.,& Hellhammer, D.H. (2004). Selective amnesic effects of oxytocin on human memory. Physiology & Behavior; 83(1), 31-38.   
+Herzmann, G., Bird, C. W.,Freeman, M.,& Curran, T. (2013). Effects of oxytocin on behavioral and ERP measures of recognition memory for own-race and other-race faces in women and men. Psychoneuroendocrinology, 38(10),2140-2151.   
+Herzmann, G., Young, B., Bird, C. W., & Curran, T. (2012). Oxytocin can impair memory for social and non-social visual objects: A within-subject investigation of oxytocin's effects on human memory. Brain Research, 1451,65-73.   
+Hollrman, J.R., & Schultz, W. (1998). Dopamine neurons report an error in the temporal prediction of reward during learning. Nature Neuroscience, 1(4), 304-309.   
+Hu, J., Qi, S.， Becker,B., Luo,L., Gao,S., Gong, Q.，.. Kendrick, K. M. (2015). Oxytocin selectively facilitates learning with social feedback and increases activity and functional connectivity in emotional memory and reward processing regions. Human Brain Mapping, 36(6), 2132-2146.   
+Huber,D.， Veinante, P.，& Stoop, R. (2005). Vasopressin and oxytocin excite distinct neuronal populations in the central amygdala. Science, 308(5719),245-248.   
+Hurlemann, R., Patin,A., Onur, O.A., Cohen, M. X.,Baumgartner, T., Metzler, S.,.. Kendrick, K. M. (2010). Oxytocin enhances amygdala-dependent, socially reinforced learning and emotional empathy in humans. The Journal of Neuroscience, 30(14), 4999-5007.   
+Kanat,M., Heinrichs,M.,Mader,I.,Elst,L. T. V.,& Domes,G. (2015). Oxytocin modulates amygdala reactivity to masked fearful eyes. Neuropsychopharmacology, 40(11), 2632-2638.   
+Kendrick, K., M., Guastella, A.,J., & Becker, B. (2017). Overview of human oxytocin research. In R. Hurlemann, & V. Grinevich (Eds.), Behavioral pharmacology of neuropeptides: oxytocin (pp. 321-348). Berlin, Germany: Springer-Verlag.   
+Keverne, E. B., & Curley, J. P. (20o4). Vasopressin, oxytocin and social behaviour. Current Opinion in Neurobiology, 14(6),777-783.
+
+Kinsley, C.H., Madonia,L., Gifford, G. W., Tureski, K., Griffin, G.R.,Lowry, C.,.. Lambert, K. G. (1999). Motherhood improves learning and memory. Nature, 402(6758), 137-138.
+
+Kirsch,P.,Esslinger, C., Chen, Q., Mier,D.,Lis,S., Siddhanti,S.,.. Meyer-Lindenberg,A.(2005). Oxytocin modulates neural circuitry for social cognition and fear in humans. Journal of Neuroscience, 25(49),11489-11493.   
+Kovacs, G.L.,Bohus,B. Versteeg,D.H., de Kloet,E.R., & de Wied,D. (1979). Effect of oxytocin and vasopressin on memory consolidation sites of action and catecholaminergic correlates after local microinjection into limbic-midbrain structures. Brain Research,175(2), 303-314.   
+Kruppa, J. A., Gossen, A., WeilB E. O., Kohls, G., GroBheinrich, N., Cholemkery, H.,.. SchulteRither, M. (2018). Neural modulation of social reinforcement learning by intranasal oxytocin in male adultswith high-functioning autism spectrum disorder: A randomizedtrial. Neuropsychopharmacology, 44(4), 749-756.   
+Kumaresan， P.， Subramanian， M.， Anandarangam， P. B.， & Kumaresan， M. (1979). Radioimmunoassay of plasma and pituitary oxytocin in pregnant rats during various stages of pregnancy and parturition. Journal of Endocrinological Investigation, 2(1), 65-70.   
+Lee,H. J., Macbeth,A. H., Pagani, J. H., & Young WS. 3rd. (2009). Oxytocin: The great facilitator of life. Progress in Neurobiology, 88(2),127-151.   
+Li, J.,Schiller, D., Schoenbaum, G., Phelps,E.A.,& Daw, N.D.(2011).Differential roles of human striatum and amygdala in associative learning. Nature Neuroscience,14(10),1250-1252.   
+Lin, Y.T.,& Hsu,K. S. (2018). Oxytocin receptor signaling in the hippocampus: Role in regulating neuronal excitability， network oscillatory activity， synaptic plasticity and social memory. Progress Neurobiology, 171,1-14.   
+Lockwood, P.L., Apps, M. A., Valton, V. Viding, E., & Roiser, J. P. (2016). Neurocomputational mechanisms of prosocial learning and links to empathy. Proceedings of the National Academy of Sciences of the United States of America, 113(35), 9763-9768.   
+Love,T. M. (2014). Oxytocin, motivation and the role of dopamine. Pharmacology, Biochemistry, and Behavior; 119, 49-60.   
+Marin, M.F., Zsido, R. G., Song, H., Lasko, N. B., Killgore, W. D. S., Rauch, S.L.,.. Milad, M. R. (2017). Skin conductance responses and neural activations during fear conditioning and extinction recall across anxiety disorders. JAMA Psychiatry, 74(6), 622-631.   
+Marsh,A.A., Yu, H.H., Pine,D.S.,& Blair,R. J.R. (2010). Oxytocin improves specific recognition of positive facial expressions. Psychopharmacology, 209(3),225-232.   
+McCarthy, M. M., McDonald, C. H., Brooks, P.J.,& Goldman, D.(1996). An anxiolytic action of oxytocin is enhanced by estrogen in the mouse. Physiology & Behavior; 60(5),1209-1215.   
+Meyer-Lindenberg,A., Domes, G., Kirsch,P.,& Heinrichs, M. (2011). Oxytocin and vasopressin in the human brain: Social neuropeptides for translational medicine. Nature Reviews. Neuroscience 12(9), 524–538.   
+Milad,M. R.,& Quirk, G.J. (20l2). Fear extinction as a model for translational neuroscience: Ten years of progress. Annual Review of Psychology, 63, 129-151.   
+Nawijn,L., Zuiden, M. V.,Koch, S.B.J.,Frijling,J.L., Veltman, D.J., & Olff,M. (2016). Intranasal oxytocin enhances neural processing of monetary reward and loss in post-traumatic stress disorder and traumatized controls. Psychoneuroendocrinology, 66, 228-237.   
+Pedersen, C.A.,Arthur J.,& Prange,A. J.(1979). Induction of maternal behavior in virgin rats after intracerebroventricular administration of oxytocin. Proceedings of the National Academy of Sciences of the United States of America, 76(12),6661-6665.   
+Poldrack, R.A., Clark, J., Paré-Blagoev,E. J., Shohamy, D., Moyano, J. C., Myers, C., & Gluck,M. A. (2001). Interactive memory systems in the human brain. Nature, 414(6863), 546-550.   
+Popik,P.,& Vetulani, J. (1991). Opposite action of oxytocin and its peptide antagonists on social memory in rats. Neuropeptides, 18(1), 23-27.   
+Popik,P., Vetulani, J., & Ree, J. M. V.(1992). Low doses of oxytocin facilitate social recognition in rats. Psychopharmacology, 106(1), 71-74.   
+Petrovic,P., Kalisch,R., Singer,T.,&Dolan,R.J. (2oo8). Oxytocin attenuates afective evaluations of conditioned faces and amygdala activity. The Journal of Neuroscience, 28(26), 6607-6615.   
+Rapp，B.，& Wiley，R. W. (2019). Re-learning and remembering in the lesioned brain. Neuropsychologia, 132, 107-126.   
+Rimmele, U., Hediger, K., Heinrichs, M., & Klaver, P. (2009). Oxytocin makes a face in memory familiar. The Journal of Neuroscience, 29(1), 38-42.   
+Savaskan, E.， Ehrhardt， R.， Schulz， A.， Walter, M.，& Schachinger, H. (2008). Post-learning intranasal oxytocin modulates human memory for facial identity. Psychoneuroendocrinology, 33(3), 368-374.   
+Schorscher-Petcu, A., Dupré,A.,& Tribollet, E. (20o9). Distribution of vasopressin and oxytocin binding sites in the brain and upper spinal cord of the common marmoset. Neuroscience Letters, 461(3), 217-222.   
+Schultz, W. (2oo6). Behavioral theories and the neurophysiology of reward. Annual Review of Psychology, 57, 87-115.   
+Schulze,L.,Lischke,A., Greif, J., Herpertz, S. C., Heinrichs,M.,& Domes,G. (2011). Oxytocin increases recognition of masked emotional faces. Psychoneuroendocrinology, 36(9),1378-1382.   
+Shamay-Tsoory， S. G.,& Abu-Akel,A. (2016). The social salience hypothesis of oxytocin. Biological Psychiatry, 79(3),194-202.   
+Skuse,D. H.,& Gallagher,L. (0o9). Dopaminergic-neuropeptide interactions in the social brain. Trends in Cognitive Sciences, 13(1), 27-35.   
+Striepens, N., Kendrick, K. M., Maier, W., & Hurlemann, R. (2011). Prosocial effects of oxytocin and clinical evidence for its therapeutic potential. Frontiers in Neuroendocrinology, 32(4), 426- 450.   
+Swaab,D.F., Pool, C. W., & Nijveldt,F.(1975). Immunofluorescence of vasopresin and oxytocin in the rat hypothalamo-neurohypophypopseal system. Journal of neural transmission, 36(3-4), 195-215.   
+Tomizawa, K., Iga, N., Lu, Y. F., Moriwaki, A., Matsushita, M., Li, S.T.,...Matsui, H. (2003). Oxytocin improves long-lasting spatial memory during motherhood through MAP kinase cascade. Nature Neuroscience, 6(4), 384-390.   
+Vandesande, F.,& Dierickx, K. (1975). Identification of the vasopressin producing and of the oxytocin producing neurons in the hypothalamic magnocellular neurosecretory system of the rat. Cell and Tissue Research,164(2), 153-162.   
+Vouimba, R. M.,& Maroun, M. (2011). Learning-induced changes in mPFC-BLA connections after fear conditioning, extinction, and reinstatement of fear. Neuropsychopharmacology， 36(11), 2276-2285.   
+Wang, Z., Whiteside, S. P. H., Sim, L., Farah, W., Morrow, A. S., Alsawas, M.,.. Murad, M. H. (2017). Comparative effectivenessand safety of cognitive behavioral therapyand pharmacotherapy for childhood anxiety disorders: A systematic review and meta-analysis. JAMA Pediatrics,171(11),1049-1056.
+
+Wu, W.,& Yu, L. C. (2oo4). Roles of oxytocin in spatial learning and memory in the nucleus basalis of Meynert in rats. Regulatory Peptides, 120(1-3), 119-125. Yao, S. X., Zhao, W. H., Geng, Y. Y., Chen, Y. S., Zhao, Z.Y., Ma, X. L.,.. & Kendrick, K. M. (2018). Oxytocin facilitates approach behavior to positive social stimuli via decreasing anterior insula activity. International Journal of Neuropsychopharmacology,21(10), 918-925. Zhuang, Q. Zhu, S. Y., Yang, X., Zhou, X. Q., Xu, X. L., Chen, Z.,... Kendrick, K. M. (2021). Oxytocin-induced facilitation of learning in a probabilistic task is associated with reduced feedback-and error-related negativity potentials. Journal of Psychopharmacology, 35(1), 40-49.
+
+# The modulatory effects of oxytocin on learning and memory: evidence from animal and human studies
+
+ZHOU Menghan, ZHANG Yuan, GAO Shan, Keith M. Kendrick, YAO Shuxia (Key Laboratory ofNeuroinformation,Ministry of Education, School ofLife Science and Technology， University of Electronic Science and Technology of China)
+
+Abstract: The neuropeptide, oxytocin (OT） has been established to play an important role in modulating social behavior and emotional processing which are of fundamental importance in our everyday life. Animal and human studies using multi-modal approaches have provided converging evidence for an important modulatory effect of exogenously administered OT on learning and memory. This effect of exogenous OT may be mediated via its receptors which are extensively distributed in key learning and memory brain networks, notably the dopamine reward pathway and limbic system.Whether OT has a facilitatory or inhibitory modulatory effect on learning and memory can be influenced by experimental paradigms and stimulus materials as wellas where and when it is administered and at what dose. Future studies need to combine the respective advantages of animal models and human research and to employ standardized experimental protocols and treatment procedures to overcome current limitations in this field. Further research is also required to explore the therapeutic potential of OT for learning and memory dysfunction in psychiatric disorders.
+
+Key words: oxytocin, learning, memory, neural mechanism

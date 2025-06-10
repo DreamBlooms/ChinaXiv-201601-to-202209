@@ -1,0 +1,355 @@
+# 拉丁超立方抽样的自适应高斯小孔成像蝴蝶优化算法
+
+徐杰‘，鲁海燕a,b，赵金金ä，侯新宇‘，卢梦蝶ä(江南大学 a.理学院;b.无锡市生物计算工程技术研究中心，江苏 无锡 214122)
+
+摘要：针对蝴蝶优化算法存在种群多样性差、寻优精度低、收敛速度慢的不足，提出拉丁超立方抽样的自适应高斯小孔成像蝴蝶优化算法。首先利用拉丁超立方抽样种群初始化策略以提高种群的多样性，从而增强算法的全局搜索能力；然后引入在不同进化时期自动调节搜索范围的自适应最优引导策略，平衡算法的全局和局部搜索能力，从而提升算法的寻优精度；最后采用高斯小孔成像策略，对最优个体进行扰动，使得种群个体向最优个体靠近，以进一步提升算法的寻优精度并加快算法的收敛速度。通过对14个基准测试函数进行仿真实验以及WilcoXon秩和检验，结果表明改进算法的寻优精度、收敛速度、稳定性和可扩展性等性能均得到了较大提高。
+
+关键词：蝴蝶优化算法；拉丁超立方抽样；自适应惯性权重；高斯小孔成像；高维优化 中图分类号：TP301 doi: 10.19734/j.issn.1001-3695.2022.02.0054
+
+# Self-adaptive Gaussian keyhole imaging butterfly optimization algorithm based on Latin hypercube sampling
+
+Xu Jiea,Lu Haiyana,bt, Zhao Jinjina, Hou Xinyua,Lu Mengdiea (a.SchoolofScience,b.WuxiEngineeringTechnologyResearchCenterforBologicalComputing,Jiangnan UniversityWui Jiangsu 214122, China)
+
+Abstract:Aimingateshortcomings ofButterflyoptimizationalgorithm,suchaspoorpopulationdiversitylowoptimization accuracyandslowconvergence speed,this paper proposed aself-adaptive Gaussiankeyhole imaging buterfly optimization algorithmbasedonLatinhypercubesampling.Firstly,itusedaLatinhypercube samplingpopulation initializationstrategyto enhancethepopulationdiversityand therebyimprovetheoverallsearchabilityofthealgorithm.Then,ititroduced theselfadaptiveoptimal guidance strategy,whichcan dynamicalladjust tesearchrange indiferentevolutionary periods to balance the globaland local searchcapabilitiesand hence improve theoptimizationacuracyofthealgorithm.Finally,itadopteda Gaussiankeyhole imaging strategytodisturbthe optimalindividuals,making the individuals of thepopulation moving close totheoptimal individuals,soas to further improve the solutionaccuracyand speed uptheconvergence of the algorithm. Through simulation experiments and Wilcoxon rank sum tests using 14 benchmark functions,the results showed that the performanceof theimproved algorithm is greatly enhanced intermsofoptimization acuracy,convergence speed,stability and scalability.
+
+Keywords:buterflyoptimization algorithm;Latin hypercube sampling;self-adaptive inertia weight; Gaussian keyhole imaging; high dimensional optimization
+
+# 0 引言
+
+通过模拟自然现象的物理规律及自然界各类生物种群的生活习性和行为特点而构造的一类随机优化算法，被称之为智能优化算法。智能优化算法通常分为三类：群体智能算法，进化算法和基于自然现象的算法[1]。群体智能算法如粒子群算法[2]，海鸥优化算法[3]等；进化算法如遗传进化算法[4]，差分进化算法[5]等；闪电连接过程算法，模拟退火算法7等则是基于自然现象的优化算法。这些算法为解决大量存在于计算科学、工程科学、管理科学等领域的复杂问题提供了新的求解途径。
+
+蝴蝶优化算法(butterfly optimization algorithm，BOA)是2019年由Arora等人[8提出的一种新的智能优化算法。由于该算法因具有原理简单、参数较少、在求解函数最优值方面具有较好性能等优点，因此被广泛研究并用于粒子滤波器优化、特征选择、传感器节点部署、支持向量机参数优化、故障诊断等实际应用问题的研究中[9\~13]。但是和其他元启发式优化算法一样，蝴蝶优化算法自身也存在着一些不足，如算法的种群多样性差、寻优精度不高、收敛速度慢等，这在一定程度上限制了蝴蝶优化算法的理论发展和应用范围。为此，研究者提出了不同的改进策略。文献[14]采用信息交叉共享机制策略使算法跳出局部最优，提高算法的收敛速度。文献[15]提出新型模糊决策策略并且构建“虚拟蝴蝶”来提升算法的搜索能力。文献[16]通过在花蜜位置引入疯狂因子以增加种群多样性，获取更好的最优解，从而提高了算法的寻优精度。文献[17]采用动态调整转换概率策略以平衡全局和局部搜索，提高了算法的搜索效率。文献[18]通过引入正余弦算法作为局部算子来提升种群多样性，从而避免算法陷入局部最优。文献[19]将分段权重引入蝴蝶算法中，以此来平衡全局勘探和局部开发，提升了算法的寻优精度。文献[20]通过构建蝴蝶之间的反馈共享交流网络，提升了算法跳出局部最优的能力。文献[21]通过引入混合惯性权重策略来提高种群地多样性。文献[22]采用自适应余切惯性权重和逐维变异策略来增强算法的自适应性和种群多样性，从而提升算法的寻优精度和收敛速度。文献[23]通过在算法搜索阶段引入正弦和余弦因子来增强算法的全局搜索能力，从而提升了算法的寻优精度。上述方法尽管对BOA的寻优能力有所提升，但算法大多都需要大量的迭代次数，同时对蝴蝶优化算法在高维函数上性能的相关研究较少，而且从未将概率统计的相关知识应用到蝴蝶优化算法性能的研究中。
+
+针对以上问题，本文提出了拉丁超立方抽样的自适应高斯小孔成像蝴蝶优化算法。首先利用拉丁超立方抽样种群初始化策略以提高种群的多样性，从而增强算法的全局搜索能力；然后，为平衡算法的全局和局部搜索能力，提升算法的寻优精度，引入在不同进化时期自动调节搜索范围的自适应最优引导策略；最后采用高斯小孔成像策略，以进一步提升算法的寻优精度并加快算法的收敛速度。实验表明本文所提出的算法在迭代次数较少的情况下不仅提高了算法的寻优精度而且进一步提高了算法的收敛速度。
+
+# 1 蝴蝶优化算法
+
+通常情况下，自然界中蝴蝶通过嗅觉感知其他蝴蝶散发的香味强弱来调整自身的飞行方向，向着食物源移动，从而实现蝴蝶间的信息交互以此来达到蝴蝶个体自身位置的更新由于真实的蝴蝶觅食行为有很多不确定的因素，无法在算法中具体体现出来，因此Arora 等人[8]在两个理想化的条件下建立了蝴蝶优化算法：第一，假设每只蝴蝶都能产生不同程度的香味并且能嗅到来自不同方向的香味，使得蝴蝶个体之间能够相互吸引。这种香味的强度与蝴蝶个体的距离、自然的温度、风速等外界刺激强度的影响有关，其中刺激强度由适应度值决定。用于在蝴蝶迭代过程中分享自身的相关信息。第二，假设每只蝴蝶都有一定的概率嗅到来自最优蝴蝶个体的香味并朝向最优蝴蝶位置方向移动，否则若蝴蝶嗅不到来自最优蝴蝶个体的香味，蝴蝶个体将随机移动。蝴蝶个体向最优个体移动的阶段称为全局搜索阶段，随机移动的阶段则称为局部搜索阶段。全局搜索和局部搜索相互转换的概率称之为转换概率 $P$ ，取值为0.8。蝴蝶产生的芳香度的具体表示如下：
+
+$$
+f _ { i } ^ { t } = c _ { i } ^ { t } \times I _ { i } ^ { a }
+$$
+
+$$
+c _ { i } ^ { t + 1 } = c _ { i } ^ { t } + \frac { 0 . 0 2 5 } { c _ { i } ^ { t } \times \mathrm { M a x \_ i t e r } }
+$$
+
+式(1)中， $f _ { i } ^ { t }$ 是第 $i$ 个蝴蝶在 $t$ 代感知到的芳香度， $c _ { i } ^ { t }$ 是第$i$ 个蝴蝶在 $t$ 代的感知因子， $I$ 是刺激的强度， $\boldsymbol { a }$ 是与感知形态有关的幂指数，表示香味的吸收变化。其中刺激强度 $I$ 是由需要优化的函数的适应度值决定的， $a$ 与 $\mid c \mid$ 的取值范围为[0.1]。
+
+此外当 $r < P$ 时，蝴蝶处于全局搜索阶段即蝴蝶个体是向适应度最好的蝴蝶也即全局最优蝴蝶所在位置的方向移动，具体位置移动表达式如下：
+
+$$
+\boldsymbol { x } _ { i } ^ { t + 1 } = \boldsymbol { x } _ { i } ^ { t } + \big ( \boldsymbol { r } ^ { 2 } \times \boldsymbol { g } ^ { * } - \boldsymbol { x } _ { i } ^ { t } \big ) \times \boldsymbol { f } _ { i } ^ { t }
+$$
+
+其中， $x _ { i } ^ { t }$ 是第 $i$ 个蝴蝶在第 $t$ 代的位置； $g ^ { * }$ 是种群中最优蝴蝶的位置； $f _ { i } ^ { t }$ 是第 $i$ 个蝴蝶在第 $t$ 代感知到的芳香度； $\boldsymbol { r }$ 是[0,1]之间的随机数。
+
+当 $r \geq P$ 时，蝴蝶处于局部搜索阶段即蝴蝶个体的移动方向是随机的，具体位置移动表达式如下：
+
+$$
+{ x _ { i } ^ { t + 1 } = x _ { i } ^ { t } + \big ( r ^ { 2 } \times x _ { j } ^ { t } - x _ { k } ^ { t } \big ) \times f _ { i } ^ { t } }
+$$
+
+其中， $x _ { i } ^ { t }$ 是第 $i$ 个蝴蝶在第 $t$ 代的位置； $X _ { j } ^ { t }$ ， $\boldsymbol { x } _ { k } ^ { t }$ 是种群中第 $j$ 个蝴蝶，第 $k$ 个蝴蝶的位置； $f _ { i } ^ { t }$ 是第 $i$ 个蝴蝶在 $t$ 代感知到的芳香度； $\boldsymbol { r }$ 是[0,1]之间的随机数。
+
+# 2 拉丁超立方抽样的自适应高斯小孔成像蝴蝶优化算法
+
+本文对蝴蝶算法进行改进，提出了拉丁超立方抽样的自适应高斯小孔成像蝴蝶优化算法(self-adaptiveGaussiankeyhole imaging butterfly optimization algorithm based on Latinhypercubesampling,SGLBOA)，该算法首先引入拉丁超立方抽样初始化策略，从而提升算法的全局搜索能力；其次，引入在不同进化时期自动调节搜索范围的自适应最优引导策略以提高算法的寻优精度；最后利用高斯小孔成像策略对最优个体进行扰动，从而进一步提升算法的寻优精度并加快算法的收敛速度。
+
+# 2.1拉丁超立方抽样初始化策略
+
+拉丁超立方抽 样(Latin hypercube sampling，LHS)是Mckay等人[24]于1979年提出的一种从多元参数分布中近似随机抽样的方法。在抽样数不多的情况下，随机抽样不能很好地将样本分散到整个区间。与随机抽样不同，拉丁超立方抽样具有均匀分层的特性以及可以在较少抽样的情况下，得到尾部的样本值等优点[25]。
+
+算法的收敛速度和精度在一定程度上是受初始种群好坏的影响的，随机产生的初始种群无法保证搜索空间分布的合理性以及种群的多样性，而拉丁超立方抽样的均匀分层和等概率抽样的特点可以保证其产生的变量覆盖整个分布空间，所以将拉丁超立方抽样应用于算法的初始化可以使初始种群个体尽可能地覆盖整个搜索空间，以提高初始种群的多样性，从而提升算法的寻优性能[26\~28]。
+
+由于蝴蝶优化算法的初始种群是随机产生的，因此也难以保证搜索空间分布的合理性以及种群的多样性。为解决这一问题，本文提出的SGLBOA算法通过引入拉丁超立方抽样，将搜索空间均匀划分，使初始种群能够较好地覆盖整个搜索空间，从而提高种群的多样性，提升算法的整体搜索能力。SGLBOA算法种群初始化具体步骤如下：
+
+a）确定种群规模 $N$ 和维数 $D$ □
+
+b）设定变量 $\boldsymbol { \cal X }$ 区间为[b,ub]，其中Ib 和ub 分别是变量的上界和下界。c）将变量 $X$ 的区间[b,ub]划分为 $N$ 个相等的子区间。d)在每一维里各个子区间中随机抽取一个点。e）将抽取的每一维的点组合形成初始种群。
+
+为了直观地展示拉丁超立方抽样初始化策略的有效性，本文通过实验分别采用随机初始化方式和拉丁超立方抽样初始化方式对蝴蝶种群进行初始化，得到如图1所示的种群分布图。
+
+由图1(a)可以看出，采用原BOA算法中随机方式初始化种群时，种群分布较为集中，边缘区域蝴蝶个体分布较少，此时种群多样性较差；而使用拉丁超立方抽样初始化得到的种群在整个搜索空间的分布则较为均匀。这从直观上说明了拉丁超立方抽样初始化策略的有效性，本文实验部分也对拉丁超立方抽样初始化策略的有效性进行了验证。
+
+# 2.2自适应最优引导策略
+
+为了更好地平衡鸡群算法的全局和局部搜索能力，文献[29]引入了非线性递减的自适应惯性权重因子，其表达式如下：
+
+$$
+a \left( t \right) = t \times \frac { \ln w _ { \mathrm { m a x } } - \ln w _ { \mathrm { m i n } } } { t _ { \mathrm { m a x } } } - \ln w _ { \mathrm { m a x } }
+$$
+
+$$
+w ( t ) = e ^ { - ( a ( t ) ) }
+$$
+
+其中， $t _ { \mathrm { m a x } }$ 为总迭代次数； $w ( t )$ 为第次 $t$ 迭代的惯性权重因子；$w _ { \mathrm { m a x } }$ 和 $w _ { \mathrm { m i n } }$ 为惯性权重因子的最大值和最小值( $w _ { \mathrm { m a x } } = 0 . 9$ ，$w _ { \mathrm { m i n } } = 0 . 4$ ）。
+
+受文献[29]的启发，本文将上述自适应惯性权重因子进行改进后引入蝴蝶优化算法中以平衡算法的全局和局部搜索能力，改进后的自适应惯性权重因子为
+
+$$
+w _ { 1 } \left( t \right) = e ^ { - \left( a _ { 1 } \left( t \right) \right) }
+$$
+
+$$
+a _ { 1 } \left( t \right) = t \times \frac { \ln w _ { \mathrm { m a x } } } { \ln w _ { \mathrm { m i n } } } - \ln w _ { \mathrm { m a x } }
+$$
+
+其中： $w _ { \mathrm { m a x } } = 0 . 9$ ， $w _ { \mathrm { m i n } } = 0 . 4$ 。在算法迭代前期，权重因子较大，从而使蝴蝶个体有较大的搜索范围，不仅能扩大搜索区域，还能有利于跳出局部极值；而在算法后期搜索阶段权重因子较小，有利于提高蝴蝶群体的局部搜索能力，从而有利于找到全局最优值。
+
+![](images/1adcde03227789cfc5e353e36e67430419982104b0123ebf4322a16bf05f5c8e.jpg)  
+图1两种方式初始化种群分布图
+
+蝴蝶优化算法在全局搜索式(4)中引入最优蝴蝶个体 $g ^ { * }$ ，引导蝴蝶向最优个体方向移动。受此启发可知，要提高蝴蝶优化算法的收敛速度和收敛精度，需要充分发挥最优蝴蝶个体 $g ^ { * }$ 的作用，引导种群个体尽可能地向最优个体的方向移动。同时为了避免蝴蝶个体陷入局部最优，引入自适应惯性权重$w ( t )$ 加以平衡。从而改进后的蝴蝶优化算法的全局搜索公式为
+
+$$
+\begin{array} { r } { x _ { i } ^ { t + 1 } = w ( t ) \times g ^ { * } + \big ( r ^ { 2 } \times g ^ { * } - x _ { i } ^ { t } \big ) \times f _ { i } ^ { t } } \end{array}
+$$
+
+对于蝴蝶优化算法局部搜索阶段，为避免算法因较大的随机性而导致搜索效率较低和收敛速度较慢，因此在局部搜索阶段一方面引入最优蝴蝶对蝴蝶个体进行引导，另一方面采用定向变异策略，同时引入判定系数 $\eta$ ，经多次实验可知$\eta$ 取0.9时，收敛速度和收敛精度最好，故本文中取 $\eta = 0 . 9$ 。如果 $r > \eta$ ，则在局部搜索公式中引入扰动因子 $\theta$ 以避免因当前最优值的引入而导致算法在局部搜索阶段陷入局部极值；如果 $r \leq \eta$ ，则在局部搜索公式中引入自适应惯性权重因子$w ( t )$ 和黄金比例系数0.618，使蝴蝶个体自适应的朝着最优个体移动，加快收敛速度。局部搜索阶段的具体表达式为
+
+当 $r > \eta$ 时：
+
+$$
+x _ { i } ^ { t } = \theta \times g ^ { * } + \left( r ^ { 2 } \times x _ { j } ^ { t } - x _ { k } ^ { t } \right) \times f _ { i } ^ { t }
+$$
+
+$$
+\theta = 1 + \operatorname { t r n d } ( 1 ) \times \tan \left( \pi \times \left( r - { \frac { 1 } { 2 } } \right) \right)
+$$
+
+当 $r \leq \eta$ 时：
+
+$$
+{ x _ { i } ^ { t + 1 } = w ( t ) } { \times g ^ { * } } + 0 . 6 1 8 { \times \left( { { r ^ { 2 } } \times { x _ { j } ^ { t } } - { x _ { k } ^ { t } } } \right) } { \times f _ { i } ^ { t } }
+$$
+
+其中， $\operatorname { t r n d } ( 1 )$ 是柯西随机数，有助于增加扰动因子 $\theta$ 的灵活多样性； $\boldsymbol { r }$ 是[0.1]之间的随机数。
+
+# 2.3高斯小孔成像策略
+
+小孔成像是一种常见的物理光现象，光源通过小孔从板的一侧倾斜到另一侧，在屏幕上形成倒映像，通过调整小孔屏与物体之间的距离，接收屏上像的大小也会随之发生化[30]。
+
+为了使算法寻找到更广的反向位置，将小孔成像原理简化到反向学习策略中。假设某一空间中，有一个高度为 $h$ 的火焰 $p$ 在 $X$ 轴上的投影为全局最优位置 $g ^ { * }$ ，坐标轴的上下限为 $a$ ， $b$ (当前解空间的上下限)。在基点 $o$ 上放置一个有小孔的小孔屏，火焰通过小孔可以在接收屏上得到一个高度为$h ^ { \prime }$ 的倒映像 $p ^ { \prime }$ ，此时在 $\boldsymbol { \cal X }$ 轴得到通过小孔成像产生最优位置$g ^ { * }$ 的反向点 $g ^ { \prime * }$ ，如图2所示。根据相似三角形原理可得：
+
+$$
+\frac { ( a + b ) / 2 - g ^ { * } } { g ^ { \prime * } - ( a + b ) / 2 } = \frac { h } { h ^ { \prime } }
+$$
+
+今 ${ \frac { h } { h ^ { \prime } } } = n$ ，则 $g ^ { * }$ 的反向解为
+
+$$
+g ^ { \prime * } = { \frac { ( a + b ) } { 2 } } + { \frac { ( a + b ) } { 2 n } } - { \frac { g ^ { * } } { n } }
+$$
+
+将惯性权重 $w ( t )$ 以及均值为0，方差为1的高斯随机数normrnd(0,1)引入到 $g ^ { \prime \ast }$ 中，得到 $g ^ { * }$ 的最终反向解为
+
+$$
+g ^ { \prime \prime } = w ( t ) { \times } \frac { ( a + b ) } { 2 } { + } \frac { ( a + b ) } { 2 n } { - } \frac { \mathrm { n o r m r n d } ( 0 , 1 ) { \times } g ^ { * } } { n }
+$$
+
+其中， $n$ 为参数，经多次实验可知 $n$ 取2000时，收敛速度和收敛精度最好，故本文中取 $n = 2 0 0 0$ 。
+
+![](images/139e63acc53aa531e99734dcd73f87a11e359403c24b0ca8a4e6ca7121d36750.jpg)  
+图2小孔成像反向学习示意图  
+Fig.2Schematic diagram of keyhole imaging reverse learning
+
+对于蝴蝶优化算法，在搜索后期蝴蝶个体越来越多地聚集在最优蝴蝶的周围，因此BOA倾向于早熟收敛。而引入小孔成像反向学习策略可以增加种群的多样性，从而提升蝴蝶优化算法的全局搜索能力。
+
+# 2.4SGLBOA算法流程及时间复杂度分析
+
+# 2.4.1SGLBOA算法流程
+
+SGLBOA算法流程如图3所示。
+
+![](images/f28240b2e8222cf1cf01ce7b23d017b334b181d923121a08a1bd7bc7c967415e.jpg)  
+Fig.1Distribution of initialized population in two ways   
+图3SGLBOA算法流程图Fig.3Flow chart of SGLBOA
+
+# 2.4.2SGLBOA算法的时间复杂度分析
+
+由文献[31]可知蝴蝶优化算法在种群大小为 $N$ 、维数为$D$ 时的时间复杂度为
+
+$$
+T = O \left( D + f \left( D \right) \right)
+$$
+
+在 SGLBOA算法中，种群大小 $N$ 、维数 $D$ 、各参数设置的时间 $t _ { 1 }$ 、求解适应度值的时间 $f ( D )$ 、新，旧蝴蝶个体适应度值比较替换的时间 $t _ { 6 }$ 、计算香味浓度的时间复杂度 $T _ { 2 }$ 、记录最优解的时间复杂度 $T _ { 5 }$ 和更新感觉形态阶段的时间复杂度$T _ { 6 }$ 都与文献[31]相同。拉丁超立方抽样初始化阶段的时间复杂度为
+
+$$
+T _ { 0 } = { \cal O } ( N \times { \cal D } )
+$$
+
+因此迭代前期的总体的时间复杂度为
+
+$$
+\begin{array} { l } { T _ { 1 } ^ { \prime } = T _ { 0 } + O \left( t _ { 1 } + N f \left( D \right) \right) + \mathbf { M a x \_ i t e r } \times \left( T _ { 2 } + T _ { 5 } + T _ { 6 } \right) } \\ { = O \left( D + f \left( D \right) \right) } \end{array}
+$$
+
+在全局搜索阶段，SGLBOA算法在蝴蝶个体的全局位置更新公式中引入了自适应惯性权重 $w ( t )$ ，假设：有 $m ( 0 \leq m \leq N )$ 只蝴蝶进入全局搜索，由式(7)和(8)产生 $w ( t )$ 的时间为 $k _ { \mathrm { 1 } }$ ，根据式(9)进行位置的逐维更新的时间为 $k _ { 2 }$ ，则全局搜索阶段的时间复杂度为
+
+$$
+T _ { 2 } ^ { \prime } = O \left( k _ { 1 } + N D k _ { 2 } + N f \left( D \right) + t _ { 6 } \right) = O \left( D + f \left( D \right) \right)
+$$
+
+在局部搜索阶段，假设满足 $r > \eta$ 的蝴蝶有 $q$ 只$( 0 \leq q \leq N - m )$ ，则满足 $r \leq \eta$ 的蝴蝶个数为 $N - m - q$ 。假设由式(11)产生扰动因子 $\theta$ 的时间为 $k _ { 4 }$ ，按照式(10)进行位置更新的时间为 $k _ { 5 }$ ，则此时的时间复杂度为
+
+$$
+T _ { 3 } ^ { \prime } = O \left( k _ { 4 } + N D k _ { 5 } + N f \left( D \right) + t _ { 6 } \right) = O \left( D + f \left( D \right) \right)
+$$
+
+当满足 $r \leq \eta$ 时，假设由式(12)对蝴蝶个体进行逐维位置更新的时间为 $k _ { 6 }$ ，则此时的时间复杂度为
+
+$$
+T _ { 4 } ^ { \prime } = O ( N D k _ { 6 } ) = O ( D )
+$$
+
+此外，假设由式(14)和(15)产生 $g ^ { * }$ 的小孔成像反向解 $g ^ { \prime \prime \ast }$ 的时间为 $k _ { 7 }$ ，则
+
+$$
+{ \cal T } _ { 5 } ^ { \prime } = { \cal O } \left( k _ { 7 } \right)
+$$
+
+因此可得SGLBOA算法的时间复杂度为
+
+$$
+\begin{array} { l } { { T ^ { \prime } = T _ { 1 } ^ { \prime } + \mathrm { M a x \_ i t e r } \times \left( T _ { 2 } ^ { \prime } + T _ { 3 } ^ { \prime } + T _ { 4 } ^ { \prime } + T _ { 5 } ^ { \prime } + T _ { 6 } ^ { \prime } \right) } } \\ { { \nonumber } } \\ { { = O \left( D + f \left( D \right) \right) } } \end{array}
+$$
+
+基于以上分析可知，本文所提出的SGLBOA算法和BOA算法相比，时间复杂度并未增加。
+
+# 3 实验仿真及结果分析
+
+实验环境为windows10，算法基于Matlab2020b。为了测试SGLBOA算法的鲁棒性和有效性，引用14个基准测试函数进行测试分析，函数具体特征如表1所示。
+
+表1测试函数  
+Tab.1 Test functions   
+
+<html><body><table><tr><td>函数</td><td>搜索空间</td><td>特征</td><td>理论最优值</td></tr><tr><td>F1：Bentcigar</td><td>[-10,10]</td><td>单峰</td><td>0</td></tr><tr><td>F2：Sum of Different Power</td><td>[-100,100]</td><td>单峰</td><td>0</td></tr><tr><td>F3：zakharov</td><td>[-5,10]</td><td>单峰</td><td>0</td></tr><tr><td>F4：High ConditioneElliptic</td><td>[-100,100]</td><td>单峰</td><td>0</td></tr><tr><td>F5:Sphere</td><td>[-100,100]</td><td>单峰</td><td>0</td></tr><tr><td>F6: Matyas</td><td>[-10,10]</td><td>单峰</td><td>0</td></tr><tr><td>F7：Griewank</td><td>[-600,600]</td><td>多峰</td><td>0</td></tr><tr><td>F8:ackley</td><td>[-32,32]</td><td>多峰</td><td>0</td></tr><tr><td>F9：Powell</td><td>[-4,5]</td><td>多峰</td><td>0</td></tr><tr><td>F10：Rastrigin</td><td>[-5.12,5.12]</td><td>多峰</td><td>0</td></tr><tr><td>F11：SchaffersF7</td><td>[-100,100]</td><td>多峰</td><td>0</td></tr><tr><td>F12：Apline</td><td>[-10,10]</td><td>多峰</td><td>0</td></tr><tr><td>F13：Kowalik</td><td>[-5,5]</td><td>4维</td><td>3.08E-04</td></tr><tr><td>F14:Drop-Wave</td><td>[-5.12,5.12]</td><td>2维</td><td>-1</td></tr></table></body></html>
+
+# 3.1种群规模 $N$ 的选取
+
+在SGLBOA算法中，种群规模 $N$ 的不同取值将影响算法的寻优精度和收敛速度。为了在算法中设置合适的 $N$ 值，选取单峰函数F1和F5，多峰函数F9和F12对 $N$ 值进行敏感性实验。实验中分别取 $N = 2 0$ 、 $N = 3 0$ 、 $N = 4 0$ 、 $N = 5 0$ 和$D = 3 0$ 。实验结果如图4所示。
+
+![](images/572d63f08b04d588b5728a7dd4ff083735e2dbe00333b09c737a31bc46b951bf.jpg)  
+图4不同种群规模函数收敛图  
+Fig.4Convergence diagrams with different population sizes
+
+由图4可知，无论是对于单峰函数F1和F5还是对于多峰函数F9和F12，对于相同的迭代次数， $N = 3 0$ 时SGLBOA算法寻优精度最好；对于相同的寻优精度， $N = 3 0$ 时SGLBOA算法所需的迭代次数最少。综上所述，当种群规模 $N = 3 0$ 时，SGLBOA算法能达到较好的寻优精度和收敛速度，因此本文后续实验中取 $N = 3 0$ 0
+
+# 3.2三种改进策略的有效性分析
+
+为了验证拉丁超立方抽样初始化策略，自适应最优引导策略以及高斯小孔成像反向学习策略的有效性和可行性，本文利用上述12个函数对LBOA，LQBOA以及SGLBOA 进行测试。这里LBOA是在BOA中引入拉丁超立方抽样初始化策略，LQBOA是在LBOA中引入自适应最优引导策略，SGLBOA 是在LQBOA中引入高斯小孔成像反向学习策略。各策略对应的算法参数设置均与BOA相同，即转换率 $P { = } 0 . 8$ ，幂指数 $a = 0 . 1$ ，初始感知形态 $c _ { 0 } = 0 . 0 1$ 。在 $N = 3 0$ 、Max_iter $_ { \mathrm { = } 1 0 0 }$ 、$D = 3 0$ 的条件下，各算法均独立运行30次。实验结果如表2所示。
+
+由表2可知，LBOA在均值和标准差方面整体上优于BOA，这说明加入拉丁超立方抽样初始化策略提升了算法的收敛精度和稳定性，而LQBOA在均值和标准差方面比LBOA更好，整体达到了最优，这表明加入自适应最优引导策略进一步提升了算法的收敛精度和稳定性。对于函数F2、F4\~F5、F7、F9\~F10、F12和F14，SGLBOA的求解结果均为理论最优值0，同时标准差也为0，另外在时间方面，SGLBOA也优于LBOA和LQBOA，这表明高斯小孔成像策略进一步提升算法的寻优精度以及算法的稳定性并加快算法的收敛速度。
+
+# 3.3与其他群体智能算法对比分析
+
+为了更全面地验证SGLBOA的有效性，文中选取了最近两年新出现的新型群体智能算法麻雀算法(SSA)[32]和算术优化算法(AOA)[33]，在函数寻优方面性能较好的鲸鱼算法(WOA)[34]和灰狼算法(GWO)[35]以及经典群体智能算法即粒子群算法(PSO)[2]作为对比算法。对比算法参数设置与其对应文献一致。在 $N = 3 0$ 、Max_iter $= 1 0 0$ 、 $D = 3 0$ 的条件下，各算法均独立运行30次。实验结果如表3所示。
+
+由表3可知，对上述测试函数，除函数F8、F13和F14外，SGLBOA均能收敛到函数对应的理论最优值。对于函数F8，SGLBOA也收敛到了此函数常见的最优值8.88E-16。此外，对于函数F1\~F6和F8\~F10，SGLBOA收敛到理论最优值所用时间相比于其他对比算法而言都较短，并且除函数F8外，均值和标准差也都求解到理论最优值0。由此可知SGLBOA在寻优精度、寻优速度方面以及算法稳定性方面均有较好的效果。
+
+Tab.2Experimental results of different improving strategies   
+
+<html><body><table><tr><td rowspan="2">函数</td><td colspan="3">BOA</td><td colspan="3">LBOA</td><td colspan="3">LQBOA</td><td colspan="3">SGLBOA</td></tr><tr><td>均值</td><td>标准差</td><td>时间</td><td>均值</td><td>标准差</td><td>时间</td><td>均值</td><td>标准差</td><td>时间</td><td>均值</td><td>标准差</td><td>时间</td></tr><tr><td>F1</td><td>3.32E-05</td><td>4.42E-06</td><td>0.344</td><td>2.52E-05</td><td>2.52E-06</td><td>0.385</td><td>0.00E+00</td><td>0.00E+00</td><td>0.473</td><td>0.00E+00</td><td>0.00E+00</td><td>0.394</td></tr><tr><td>F2</td><td>3.17E+50</td><td>9.38E+50</td><td>0.855</td><td>5.36E-08</td><td>3.85E-08</td><td>0.8831</td><td>0.00E+00</td><td>0.00E+00</td><td>0.5487</td><td>0.00E+00</td><td>0.00E+00</td><td>0.4616</td></tr><tr><td>F3</td><td>7.41E-06</td><td>2.32E-06</td><td>0.3313</td><td>7.36E-06</td><td>1.27E-06</td><td>0.3561</td><td>0.00E+00</td><td>0.00E+00</td><td>0.4178</td><td>0.00E+00</td><td>0.00E+00</td><td>0.3644</td></tr><tr><td>F4</td><td>2.60E-05</td><td>3.82E-06</td><td>1.0280</td><td>1.98E-05</td><td>2.87E-06</td><td>1.0725</td><td>0.00E+00</td><td>0.00E+00</td><td>1.1698</td><td>0.00E+00</td><td>0.00E+00</td><td>0.3342</td></tr><tr><td>F5</td><td>1.68E-05</td><td>1.80E-06</td><td>0.3159</td><td>5.13E-06</td><td>4.62E-07</td><td>0.3418</td><td>0.00E+00</td><td>0.00E+00</td><td>0.4117</td><td>0.00E+00</td><td>0.00E+00</td><td>0.3343</td></tr><tr><td>F6</td><td>1.47E-06</td><td>7.94E-07</td><td>0.2756</td><td>2.58E-07</td><td>1.67E-07</td><td>0.3161</td><td>0.00E+00</td><td>0.00E+00</td><td>0.4172</td><td>0.00E+00</td><td>0.00E+00</td><td>0.3311</td></tr><tr><td>F7</td><td>3.69E-04</td><td>1.80E-03</td><td>0.5548</td><td>3.42E-11</td><td>5.13E-11</td><td>0.6203</td><td>0.00E+00</td><td>0.00E+00</td><td>0.6737</td><td>0.00E+00</td><td>0.00E+00</td><td>0.5910</td></tr><tr><td>F8</td><td>1.04E-02</td><td>6.30E-03</td><td>0.4669</td><td>2.92E-04</td><td>2.47E-05</td><td>0.4440</td><td>8.88E-16</td><td>8.88E-16</td><td>0.4609</td><td>8.88E-16</td><td>8.88E-16</td><td>0.3906</td></tr><tr><td>F9</td><td>1.37E-05</td><td>2.02E-06</td><td>0.5732</td><td>8.74E-06</td><td>1.26E-06</td><td>0.6067</td><td>0.00E+00</td><td>0.00E+00</td><td>0.5151</td><td>0.00E+00</td><td>0.00E+00</td><td>0.3920</td></tr><tr><td>F10</td><td>1.15E-04</td><td>1.15E-04</td><td>0.4579</td><td>1.06E-05</td><td>2.67E-06</td><td>0.4353</td><td>0.00E+00</td><td>0.00E+00</td><td>0.4524</td><td>0.00E+00</td><td>0.00E+00</td><td>0.3502</td></tr><tr><td>F11</td><td>5.17E-02</td><td>9.10E-03</td><td>2.5816</td><td>1.54E-02</td><td>3.40E-03</td><td>2.6321</td><td>0.00E+00</td><td>0.00E+00</td><td>1.7806</td><td>0.00E+00</td><td>0.00E+00</td><td>1.7041</td></tr><tr><td>F12</td><td>1.30E-03</td><td>2.03E-04</td><td>0.3899</td><td>2.35E-04</td><td>2.07E-05</td><td>0.3679</td><td>3.71E-176</td><td>0.00E+00</td><td>0.4553</td><td>0.00E+00</td><td>0.00E+00</td><td>0.3809</td></tr><tr><td>F13</td><td>1.20E-03</td><td>1.20E-03</td><td>0.3200</td><td>3.96E-04</td><td>6.34E-05</td><td>0.3452</td><td>3.50E-03</td><td>3.00E-03</td><td>0.4546</td><td>6.30E-03</td><td>4.20E-03</td><td>0.3802</td></tr><tr><td>F14</td><td>-1.65E+05</td><td>5.60E+05</td><td>0.5091</td><td>-1.02E+00</td><td>1.02E-01</td><td>0.5713</td><td>-1.00E+00</td><td>5.19E-06</td><td>0.6521</td><td>-1.00E+00</td><td>5.19E-06</td><td>0.5145</td></tr></table></body></html>
+
+表3与其他群体智能算法的对比实验结果
+
+表2不同改进策略下的实验结果  
+Tab.3Experimental results and comparison with other swarm intelligence algorithms   
+
+<html><body><table><tr><td>函数 算法</td><td></td><td>SSA</td><td>AOA</td><td>WOA</td><td>GWO</td><td>PSO</td><td>SGLBOA</td><td></td><td>函数算法</td><td>SSA</td><td>AOA</td><td>WOA</td><td>GWO</td><td>PSO</td><td>SGLBOA</td></tr><tr><td rowspan="4">F1</td><td></td><td>最优值0.00E+00</td><td>4.23E-36</td><td>6.73E-10</td><td>3.31E+03</td><td>2.48E+07</td><td>0.00E+00</td><td></td><td>最优值</td><td>8.88E-16</td><td>8.88E-16</td><td>4.75E-12</td><td>20.79E+00</td><td>20.72E+00</td><td>8.88E-16</td></tr><tr><td>均值</td><td>2.42E-64</td><td>5.78E-09</td><td>1.89E-05</td><td>1.39E+04</td><td>1.24E+08</td><td>0.00E+00</td><td></td><td>均值</td><td>8.88E-16</td><td>9.36E-04</td><td>5.10E-03</td><td>20.98E+00</td><td>20.99E+00</td><td>8.88E-16</td></tr><tr><td>标准差</td><td>1.33E-63</td><td>1.77E-08</td><td>5.78E-05</td><td>8.52E+03</td><td>4.78E+07</td><td>0.00E+00</td><td>F8</td><td>标准差</td><td>0.00E+00</td><td>3.50E-03</td><td>2.79E-02</td><td>9.28E-02</td><td>1.30E-01</td><td>0.00E+00</td></tr><tr><td>时间/s</td><td>4.4506</td><td>0.4493</td><td>1.5276</td><td>1.3247</td><td>0.7644</td><td>0.3941</td><td></td><td>时间/s</td><td>1.3022</td><td>0.4068</td><td>0.4429</td><td>0.6021</td><td>0.6496</td><td>0.3906</td></tr><tr><td rowspan="4">F2</td><td></td><td>最优值0.00E+00</td><td>4.87E-202</td><td>1.68E-24</td><td>6.40E-04</td><td>7.19E+17</td><td>0.00E+00</td><td></td><td>最优值</td><td>0.00E+00</td><td>7.18E-36</td><td>1.22E-15</td><td>31.29E+00</td><td>3.25E+04</td><td>0.00E+00</td></tr><tr><td>均值</td><td>2.32E-44</td><td>5.02E-16</td><td>2.55E-02</td><td>3.43E+00</td><td>3.46E+23</td><td>0.00E+00</td><td></td><td>均值</td><td>3.28E-52</td><td>2.30E-03</td><td>1.88E-08</td><td>6.06E+04</td><td>2.06E+05</td><td>0.00E+00</td></tr><tr><td>标准差</td><td>1.21E-43</td><td>2.72E-15</td><td>9.28E-02</td><td>8.75E+00</td><td>1.76E+24</td><td>0.00E+00</td><td>F9</td><td>标准差</td><td>1.90E-51</td><td>1.19E-02</td><td>9.62E-08</td><td>6.23E+04</td><td>1.44E+05</td><td>0.00E+00</td></tr><tr><td>时间/s</td><td>1.6254</td><td>0.6161</td><td>0.7166</td><td>0.7319</td><td>1.3179</td><td>0.4616</td><td></td><td>时间/s</td><td>1.3450</td><td>0.5121</td><td>0.5321</td><td>0.6288</td><td>0.9692</td><td>0.3919</td></tr><tr><td rowspan="5">F3</td><td>最优值0.00E+00</td><td></td><td>2.41E-10</td><td>7.59E+04</td><td>1.31E+04</td><td>2.00E+04</td><td>0.00E+00</td><td></td><td>最优值</td><td>0.00E+00</td><td>0.00E+00</td><td>1.14E-13</td><td>28.62E+00 338.88E+00</td><td></td><td>0.00E+00</td></tr><tr><td>均值</td><td>1.70E-38</td><td>450.71E+00</td><td>9.82E+04</td><td>3.53E+04</td><td>3.32E+04</td><td>0.00E+00</td><td></td><td>均值</td><td>0.00E+00</td><td>5.20E-02</td><td>2.21E-07</td><td>55.96E+00</td><td>540.44E+00</td><td>0.00E+00</td></tr><tr><td>标准差</td><td>9.29E-38</td><td>2.47E+03</td><td>1.25E+04</td><td>1.04E+04</td><td>8.71E+03</td><td>0.00E+00</td><td>F10</td><td>标准差</td><td>0.00E+00</td><td>2.85E-02</td><td>9.89E-07</td><td>18.70E+00</td><td>133.09E+00</td><td>0.00E+00</td></tr><tr><td>时间/s</td><td>1.2530</td><td>0.3500</td><td>0.4119</td><td>0.4182</td><td>0.5587</td><td>0.3644</td><td></td><td>时间/s</td><td>1.3079</td><td>0.4184</td><td>0.4484</td><td>0.6006</td><td>0.8167</td><td>0.3502</td></tr><tr><td>最优值0.00E+00</td><td></td><td>3.56E-27</td><td>2.49E-11</td><td>5.90E+00</td><td>7.55E+05</td><td>0.00E+00</td><td></td><td>最优值</td><td>0.00E+00</td><td>1.21E-12</td><td>1.79E-06</td><td>4.33E-01</td><td>3.86E+00</td><td>0.00E+00</td></tr><tr><td rowspan="5">F4</td><td>均值</td><td>4.45E-45</td><td>7.79E-04</td><td>6.69E-06</td><td>27.05E+00</td><td>3.43E+06</td><td>0.00E+00</td><td>F11</td><td>均值</td><td>6.65E-12</td><td>4.06E-06</td><td>5.96E-05</td><td>6.00E-01</td><td>5.20E+00</td><td>0.00E+00</td></tr><tr><td>标准差</td><td>2.44E-44</td><td>2.90E-03</td><td>2.63E-05</td><td>15.81E+00</td><td>1.60E+06</td><td>0.00E+00</td><td></td><td>标准差</td><td>3.64E-11</td><td>1.48E-05</td><td>9.87E-05</td><td>1.27E-01</td><td>5.61E-01</td><td>0.00E+00</td></tr><tr><td>时间/s</td><td>1.6806</td><td>0.7465</td><td>0.8140</td><td>0.8764</td><td>1.4982</td><td>1.0860</td><td></td><td>时间/s</td><td>2.6035</td><td>1.5506</td><td>1.7544</td><td>1.6437</td><td>2.4154</td><td>1.7041</td></tr><tr><td>最优值</td><td>0.00E+00</td><td>1.70E-50</td><td>3.38E-15</td><td>2.90E-03</td><td>54.46E+00</td><td>0.00E+00</td><td></td><td>最优值</td><td>0.00E+00</td><td>9.32E-25</td><td>5.97E-11</td><td>6.14E-01</td><td>70.31E+00</td><td>0.00E+00</td></tr><tr><td>均值</td><td>1.27E-56</td><td>1.70E-04</td><td>1.51E-11</td><td>1.52E-02</td><td>144.17E+00</td><td>0.00E+00</td><td></td><td>均值</td><td>1.02E-24</td><td>2.14E-06</td><td>3.02E-07</td><td>5.74E+00</td><td>144.28E+00</td><td>0.00E+00</td></tr><tr><td rowspan="5">F5 F6</td><td>标准差</td><td>6.97E-56</td><td>7.41E-04</td><td>5.12E-11</td><td>1.05E-02</td><td>48.75E+00</td><td>0.00E+00</td><td>F12</td><td>标准差</td><td>5.59E-24</td><td>1.15E-05</td><td>9.27E-07</td><td>6.07E+00</td><td>41.17E+00</td><td>0.00E+00</td></tr><tr><td>时间/s</td><td>1.2396</td><td>0.3464</td><td>0.3548</td><td></td><td>0.4984</td><td>0.7040</td><td>0.3343</td><td>时间/s</td><td>1.2424</td><td>0.3682</td><td>0.4162</td><td>0.5489</td><td>0.5994</td><td></td><td>0.3809</td></tr><tr><td>最优值0.00E+00</td><td></td><td>0.00E+00</td><td>3.66E-62</td><td>5.36E-28</td><td></td><td>2.76E-11</td><td>0.00E+00</td><td>最优值</td><td>3.09E-04</td><td>4.79E-04</td><td>3.10E-04</td><td>3.87E-04</td><td></td><td>3.91E-04</td><td>3.53E-04</td></tr><tr><td>均值</td><td>3.60E-61</td><td>0.00E+00</td><td>1.33E-39</td><td>3.84E-18</td><td></td><td>6.19E-09</td><td>0.00E+00</td><td>均值</td><td>3.25E-04</td><td>2.44E-02</td><td></td><td>1.30E-03</td><td>4.7E-03</td><td>8.20E-04</td><td>6.30E-03</td></tr><tr><td>标准差1.97E-60</td><td></td><td>0.00E+00</td><td>6.72E-39</td><td>1.76E-17</td><td></td><td>2.15E-08</td><td>0.00E+00</td><td>F13 标准差</td><td>1.17E-05</td><td>3.39E-02</td><td></td><td>2.90E-02</td><td>8.00E-03</td><td>3.12E-04</td><td>4.20E-03</td></tr><tr><td rowspan="4"></td><td>时间/s</td><td>1.2610</td><td>0.3404</td><td>0.3560</td><td></td><td>0.4897</td><td>0.4967</td><td>0.3311</td><td>时间/s</td><td>0.5188</td><td>0.2805</td><td>0.3443</td><td></td><td>0.2398</td><td>0.5147</td><td>0.3802</td></tr><tr><td>最优值0.00E+00</td><td></td><td>0.00E+00</td><td></td><td>0.00E+00</td><td>0.00E+00</td><td>3.22E-14</td><td>0.00E+00</td><td></td><td></td><td>最优值-1.00E+00-1.00E+00</td><td></td><td>-1.00E+00</td><td>-1.00E+00</td><td>1.00E+00</td><td>-1.00E+00</td></tr><tr><td>均值</td><td>0.00E+00</td><td>0.00E+00</td><td>0.00E+00</td><td>3.29E-04</td><td></td><td>6.31E-10</td><td>0.00E+00</td><td>均值 F14</td><td></td><td>-1.00E+00 -1.00E+00</td><td></td><td>-9.70E-01</td><td>-9.69E-01</td><td>-9.93E-01</td><td>-1.00E+00</td></tr><tr><td>标准差0.00E+00</td><td></td><td></td><td>0.00E+00</td><td>0.00E+00</td><td>1.80E-03</td><td>9.66E-10</td><td>0.00E+00</td></table></body></html>
+
+# 3.4改进蝴蝶优化算法在高维测试函数上的性能分析
+
+为了验证SGLBOA在高维问题上的有效性，将SGLBOA与BOA的其他改进算法作对比。为保证算法对比的时效性，本文选取新近出现的在求解函数最优值方面性能较好的蝴蝶改进算法作为对比算法，即CFSBOA[20]、MSBOA1、MSBOA2和 SIBOA[23]。其中MSBOA1和MSBOA2在对应的文献[21]和文献[22]中都被记为MSBOA，本文为了便于区分将其分别记为MSBOA1和MSBOA2。在 $N = 3 0$ ，Max_iter $= 1 0 0$ ，算法中的其余参数与对应参考文献中设置一致的条件下。将6种算法分别在 $D = 1 0 0 0$ 、 $D = 3 0 0 0$ 和 $D = 5 0 0 0$ 时独立运行30次，得到的最优值、平均值、标准差、平均耗时的实验数据如表4\~6所示。
+
+由表4可知，在 $D = 1 0 0 0$ 时，对于函数F1\~F7，F9\~F12,SGLBOA的求解结果均为理论最优值0，这表明SGLBOA在收敛精度上远远高于其他对比算法。而对于函数F8，虽然没有收敛到理论最优值0,但也收敛到了常见的最优值8.88E-16。此外，对于大多数函数，相比于其他改进算法，SGLBOA寻优时间最短。因此SGLBOA在收敛速度上具有一定的优势。
+
+为了直观地验证算法的收敛性能，图5给出了6种算法在 $D = 1 0 0 0$ 时部分测试函数的收敛图。由该图可知，对于单峰函数F1、F4\~F6以及多峰函数F9和F10，SGLBOA在20代左右已达到收敛，即使对于较为复杂的多峰函数F11和F12，SGLBOA在40代左右也已收敛，然而对于这些函数，其他对比算法在100代时也远未达到收敛；另外，对于相同的迭代次数，其他对比算法的寻优精度也都低于SGLBOA。这表明 SGLBOA 在收敛速度和寻优精度方面都明显优于其余 5种对比算法。
+
+由表5可知，在 $D = 3 0 0 0$ 时，对于函数F1、F2、F4\~F7、
+
+F9\~F12，SGLBOA的求解结果均为理论最优值0，而对于函数F8而言，同样是收敛到了常见的最优值8.88E-16。同时，对于函数F2、F8、F9\~F11，SGLBOA是5种算法中寻优时间最短的，这表明SGLBOA收敛速度较快。对于函数F4\~F6以及F12，SGLBOA虽然寻优时间上不敌其他4种算法，但均值和方差是5种算法中最小的，这表明SGLBOA具有较好的稳定性。
+
+由表6可知，在 $D = 5 0 0 0$ 时，对于函数F1、F2、F4\~F7、F9\~F12，SGLBOA的求解结果均为理论最优值0，而对于函数F8，依旧是收敛到了常见的最优值8.88E-16。此外，对于函数F2，F8\~F11，虽然5种算法的求解结果均为理论最优值0,但SGLBOA寻优时间最短。而对于函数F1、F4、F6、F12，SGLBOA的寻优时间虽然不是5种算法中最短的，但SGLBOA的寻优精度和稳定性却是5种算法中最好的。
+
+此外，由表4\~6可知，对于大多数函数，改进算法CFSBOA[20]、MSBOA1、MSBOA2、SIBOA[23]以及SGLBOA相比于BOA，平均耗时都有所增加，但SGLBOA的平均耗时增加量最小，而且SGLBOA在寻优精度、收敛速度、稳定性以及可扩展性方面均有大幅度提升。
+
+图6给出了SGLBOA在不同维数 $D$ 时部分测试函数的收敛图，通过该图可以直观地看到随着测试函数维度的升高，SGLBOA依然保持着较好的寻优性能。这表明SGLBOA具有良好的可扩展性。
+
+综合以上分析可知，SGLBOA在高维问题上的求解结果整体优于其他5种对比算法，从而表明SGLBOA在高维函数优化问题上具有较好的寻优精度、收敛速度、稳定性和可扩展性。
+
+表4不同改进蝴蝶优化算法在 $\scriptstyle \mathbf { D = 1 0 0 0 }$ 的对比实验结果  
+Tab.4Experimentalresults and comparison of diferent improved buterfly optimization algorithms with D=1000   
+
+<html><body><table><tr><td>函数算法</td><td></td><td>BOA</td><td></td><td>CFSBOA MSBOA1 MSBOA2</td><td></td><td>SIBOA</td><td>SGLBOA</td><td></td><td>函数算法</td><td>BOA</td><td></td><td>CFSBOA MSBOA1 MSBOA2</td><td></td><td></td><td>SIBOA SGLBOA</td></tr><tr><td rowspan="5">F1</td><td></td><td></td><td></td><td>最优值2.51E-05 5.50E-83 3.93E-93</td><td></td><td></td><td>1.10E-20 4.582E-53 0.00E+00</td><td></td><td></td><td></td><td></td><td>最优值1.14E-08 0.00E+00 0.00E+00</td><td></td><td></td><td>0.00E+000.00E+000.00E+00</td></tr><tr><td></td><td></td><td></td><td>均值3.45E-05 3.10E-70 5.14E-17</td><td>7.72E-11</td><td>7.03E-49</td><td>0.00E+00</td><td>F7</td><td></td><td></td><td></td><td></td><td></td><td>均值7.01E-040.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00</td><td></td></tr><tr><td></td><td></td><td></td><td>标准差 4.65E-06 1.58E-69 2.82E-16</td><td>3.69E-10</td><td>2.32E-48</td><td>0.00E+00</td><td></td><td></td><td></td><td></td><td></td><td>标准差 2.50E-03 0.00E+00 0.00E+00 0.00E+000.00E+00 0.00E+00</td><td></td><td></td></tr><tr><td>时间/s</td><td>2.4868</td><td>3.0016</td><td>3.4015</td><td>39.5388</td><td>2.6354</td><td>3.6061</td><td></td><td>时间/s1.0566</td><td></td><td>1.6029</td><td>1.7189</td><td>23.0358</td><td>1.2591</td><td>2.0233</td></tr><tr><td>最优值</td><td></td><td>3.75E-96</td><td></td><td>1.64E-60</td><td>4.10E-04 0.00E+00</td><td></td><td></td><td></td><td></td><td></td><td>最优值 1.80E-03 8.88E-16 8.88E-16 8.88E-16 8.88E-16 8.88E-16</td><td></td><td></td><td></td></tr><tr><td rowspan="4">F2</td><td>均值</td><td>--</td><td>2.28E-84</td><td>--</td><td>1.14E-30</td><td>--</td><td>0.00E+00</td><td>F8</td><td></td><td></td><td></td><td></td><td></td><td></td><td>均值3.40E-03 8.88E-16 8.88E-16 9.22E-13 8.88E-16 8.88E-16</td></tr><tr><td>标准差</td><td>:</td><td>6.25E-84</td><td>--</td><td>6.20E-30</td><td></td><td>0.00E+00</td><td></td><td>标准差 7.49E-040.00E+00 0.00E+008.46E-13 0.00E+00 0.00E+00</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>时间/s</td><td>-</td><td>35.5629</td><td></td><td>313.3699</td><td>15.5259</td><td>5.1754</td><td></td><td>时间/s10.7737</td><td></td><td>7.1906</td><td>13.1204</td><td>66.9593</td><td>7.7307</td><td>4.6400</td></tr><tr><td></td><td></td><td></td><td></td><td>最优值 2.51E-19 1.05E-73 9.49E-118 2.44E+06 1.71E-58</td><td></td><td>0.00E+00</td><td></td><td>最优值 2.05E-05 2.28E-84 2.44E-104 4.38E-28 1.60E-61 0.00E+00</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="4">F3</td><td></td><td></td><td></td><td></td><td>均值 2.13E-08 4.11E-28 2.40E-21 3.57E+06 1.73E-40</td><td></td><td>1.19E+17</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>均值2.32E-05 6.43E-74 1.30E-271.72E-06 1.01E-52 0.00E+00</td></tr><tr><td></td><td></td><td></td><td></td><td>标准差 4.41E-08 2.25E-27 1.32E-20 1.99E+06 9.47E-40 3.61E+17</td><td></td><td></td><td>F9</td><td>标准差2.13E-06 3.47E-737.03E-279.43E-06 5.48E-52 0.00E+00</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>时间/s1.3711</td><td></td><td>1.5301</td><td>1.6819</td><td>22.5229</td><td>1.3746</td><td>1.9299</td><td></td><td></td><td>时间/s17.914321.3937</td><td></td><td>19.1475</td><td>303.5922</td><td>17.5327</td><td>7.2015</td></tr><tr><td></td><td></td><td></td><td></td><td>最优值 2.31E-05 1.05E-83 1.42E-98 3.56E-22</td><td></td><td>4.04E-56 0.00E+00</td><td></td><td>最优值 5.78E-06 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="4">F4</td><td></td><td></td><td></td><td></td><td>均值3.36E-05 6.29E-70 5.87E-26 3.63E-14 5.81E-50 0.00E+00</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>均值2.76E-05 0.00E+00 0.00E+00 5.30E-11 0.00E+00 0.00E+00</td></tr><tr><td></td><td></td><td></td><td></td><td>标准差 4.34E-06 3.44E-69 3.22E-251.38E-13 2.59E-49 0.00E+00</td><td></td><td></td><td>F10</td><td>标准差1.46E-050.00E+00 0.00E+00 1.03E-10 0.00E+00 0.00E+00</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>时间/s8.0532</td><td></td><td>11.8962</td><td>8.5681</td><td>149.2748</td><td>8.2131</td><td>8.9430</td><td></td><td>时间/s5.4525</td><td></td><td>9.5266</td><td>12.5484</td><td>107.3682</td><td>4.3755</td><td>2.3056</td></tr><tr><td>最优值1.93E-05 1.01E-88 3.61E-92</td><td></td><td></td><td></td><td>1.93E-51</td><td>1.00E-63</td><td>0.00E+00</td><td></td><td>最优值 2.05E-02 1.23E-22</td><td></td><td></td><td>1.95E-22</td><td>3.22E-13 3.01E-16 0.00E+00</td><td></td><td></td></tr><tr><td rowspan="4">F5</td><td></td><td></td><td></td><td></td><td>均值2.44E-05 3.66E-78 7.88E-24 3.23E-30</td><td>4.78E-58</td><td>0.00E+00</td><td></td><td></td><td>均值2.47E-02 7.40E-21</td><td></td><td>1.87E-07</td><td></td><td></td><td>2.86E-11 3.33E-15 0.00E+00</td></tr><tr><td>标准差2.39E-06 1.57E-77 4.32E-23 1.21E-29</td><td></td><td></td><td></td><td></td><td></td><td>2.33E-57 0.00E+00</td><td>F11</td><td></td><td></td><td></td><td></td><td></td><td></td><td>标准差1.80E-03 1.13E-20 9.84E-073.04E-11 2.97E-15 0.00E+00</td></tr><tr><td>时间/s1.0250</td><td></td><td>1.4102</td><td>1.4445</td><td>22.2540</td><td>1.1633</td><td>1.9457</td><td></td><td>时间/s 22.7010</td><td></td><td>32.6799</td><td>24.0581</td><td>399.7773</td><td>22.7013</td><td>13.5322</td></tr><tr><td></td><td></td><td></td><td></td><td>最优值 3.20E-07 1.92E-98 2.77E-123 3.86E-80</td><td></td><td>4.02E-72 0.00E+00</td><td></td><td>最优值1.80E-03 1.89E-43</td><td></td><td></td><td>1.93E-50</td><td>5.12E-22</td><td></td><td>1.00E-30 0.00E+00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>均值1.43E-06 1.72E-85 1.63E-44 3.32E-61</td><td></td><td>7.89E-64 0.00E+00</td><td></td><td>均值2.30E-03 4.04E-38 3.83E-11</td><td></td><td></td><td></td><td>1.92E-16</td><td>1.58E-27 0.00E+00</td><td></td></tr><tr><td>F6</td><td></td><td></td><td></td><td>标准差 5.62E-07 5.94E-85 6.86E-44</td><td></td><td>1.64E-60</td><td>3.83E-63 0.00E+00</td><td>F12</td><td></td><td></td><td></td><td></td><td></td><td></td><td>标准差 2.45E-04 1.13E-372.10E-10 5.54E-16 5.11E-27 0.00E+00</td></tr><tr><td></td><td>时间/s0.8434</td><td></td><td>1.1294</td><td>1.3750</td><td>18.2334</td><td></td><td>0.9880</td><td>1.7284</td><td></td><td>时间/s2.1540</td><td>3.0340</td><td>3.6104</td><td>41.3533</td><td>2.3069</td><td>2.6784</td></tr></table></body></html>
+
+Tab.5Experimental results and comparison of different improved butterfly optimization algorithms with $\scriptstyle { \mathrm { ~ D = 3 0 0 0 } }$   
+表6不同改进蝴蝶优化算法在 $\scriptstyle \mathrm { { D = 5 0 0 0 } }$ 的对比实验结果  
+
+<html><body><table><tr><td>函数</td><td>算法</td><td>BOA</td><td>CFSBOA</td><td>MSBOA1</td><td>MSBOA2</td><td>SIBOA</td><td>SGLBOA</td><td>函数</td><td>算法</td><td>BOA</td><td>CFSBOA</td><td>MSBOA1</td><td>MSBOA2</td><td>SIBOA</td><td>SGLBOA</td></tr><tr><td rowspan="5">F1</td><td>最优值</td><td>2.82E-05</td><td>2.64E-80</td><td>3.62E-97</td><td>9.58E-23</td><td>1.129E-55</td><td>0.00E+00</td><td></td><td>最优值</td><td>6.51E-10</td><td>0.00E+00</td><td>0.00E+00</td><td>0.00E+00</td><td>0.00E+00</td><td>0.00E+00</td></tr><tr><td>均值</td><td>3.43E-05</td><td>8.78E-72</td><td>1.00E-26</td><td>6.36E-14</td><td>1.75E-50</td><td>0.00E+00</td><td></td><td>均值</td><td>6.84E-04</td><td>0.00E+00</td><td>0.00E+00</td><td>0.00E+00</td><td>0.00E+00</td><td>0.00E+00</td></tr><tr><td>标准差</td><td>3.57E-06</td><td>4.23E-71</td><td>4.13E-26</td><td>3.26E-13</td><td>8.16E-50</td><td>0.00E+00</td><td>F7</td><td>标准差</td><td>2.60E-03</td><td>0.00E+00</td><td>0.00E+00</td><td>0.00E+00</td><td>0.00E+00</td><td>0.00E+00</td></tr><tr><td>时间/s</td><td>2.6383</td><td>3.4132</td><td>3.7957</td><td>151.3863</td><td>4.7307</td><td>5.0902</td><td></td><td>时间/s</td><td>2.5788</td><td>5.8771</td><td>7.3489</td><td>167.2194</td><td>3.7848</td><td>8.5168</td></tr><tr><td>最优值</td><td>:-</td><td>4.54E-94</td><td></td><td>3.06E-60</td><td>1.53E-05</td><td>0.00E+00</td><td></td><td>最优值</td><td>7.77E-04</td><td>8.88E-16</td><td>8.88E-16</td><td>8.88E-16</td><td>8.88E-16</td><td>8.88E-16</td></tr><tr><td rowspan="4">F2</td><td>均值</td><td>:</td><td>4.98E-82</td><td>--</td><td>1.22E-30</td><td></td><td>0.00E+00</td><td></td><td>均值</td><td>9.58E-04</td><td>8.88E-16</td><td>8.88E-16</td><td>3.4757e-12</td><td>8.88E-16</td><td>8.88E-16</td></tr><tr><td>标准差</td><td>:</td><td>1.97E-81</td><td></td><td>6.66E-30</td><td>-</td><td>0.00E+00</td><td>F8</td><td>标准差</td><td>8.45E-05</td><td>0.00E+00</td><td>0.00E+00</td><td>2.2317e-12</td><td>0.00E+00</td><td>0.00E+00</td></tr><tr><td>时间/s</td><td>:</td><td>100.0776</td><td>-</td><td>3265.1555</td><td>71.9326</td><td>27.0344</td><td></td><td>时间/s</td><td>23.7051</td><td>15.9489</td><td>32.6699</td><td>383.3505</td><td>20.8926</td><td>10.9917</td></tr><tr><td>最优值</td><td>3.24E-05</td><td>1.42E-62</td><td>3.55E+08</td><td>4.24E-08</td><td>1.46E-34</td><td>4.66E+14</td><td></td><td>最优值</td><td>1.68E-05</td><td>4.58E-87</td><td>5.49E-93</td><td>1.54E-37</td><td>4.77E-65</td><td>0.00E+00</td></tr><tr><td rowspan="5">F3</td><td>均值</td><td>5.40E+21</td><td>3.97E-29</td><td>6.97E+18</td><td>6.98E+04</td><td>2.11E-27</td><td>5.83E+22</td><td></td><td>均值</td><td>2.10E-05</td><td>3.54E-73</td><td>1.78E-30</td><td>9.96E-16</td><td>2.15E-59</td><td>0.00E+00</td></tr><tr><td>标准差</td><td>2.51E+21</td><td>2.17E-28</td><td>2.34E+19</td><td>5.13E+04</td><td>6.63E-27</td><td>1.74E+23</td><td>F9</td><td>标准差</td><td>2.01E-06</td><td>1.35E-72</td><td>9.74E-30</td><td>4.47E-15</td><td>8.04E-59</td><td>0.00E+00</td></tr><tr><td>时间/s</td><td>5.717</td><td>5.0131</td><td>7.7128</td><td>187.3159</td><td>5.7349</td><td>7.6199</td><td></td><td>时间/s</td><td>51.1329</td><td>54.9721</td><td>45.666</td><td>2074.5216</td><td>42.5611</td><td>25.3653</td></tr><tr><td>最优值</td><td>3.04E-05</td><td>1.35E-79</td><td>6.18E-88</td><td>5.18E-22</td><td>3.12E-55</td><td>0.00E+00</td><td></td><td>最优值</td><td>1.09E-06</td><td>0.00E+00</td><td>0.00E+00</td><td>0.00E+00</td><td>0.00E+00</td><td>0.00E+00</td></tr><tr><td>均值</td><td>3.57E-05</td><td>4.55E-67</td><td>9.90E-19</td><td>8.37E-12</td><td>1.09E-49</td><td>0.00E+00</td><td></td><td>均值</td><td>6.62E-06</td><td>0.00E+00</td><td>0.00E+00</td><td>2.4253e-13</td><td>0.00E+00</td><td>0.00E+00</td></tr><tr><td rowspan="4">F4</td><td>标准差</td><td>3.23E-06</td><td>2.49E-66</td><td>5.42E-18</td><td>4.57E-11</td><td>3.87E-49</td><td>0.00E+00</td><td>F10</td><td>标准差</td><td>5.62E-06</td><td>0.00E+00</td><td>0.00E+00</td><td>1.3284e-12</td><td>0.00E+00</td><td>0.00E+00</td></tr><tr><td>时间/s</td><td>38.4395</td><td>60.7089</td><td>45.0255</td><td>2030.0856</td><td>40.2137</td><td>41.6311</td><td></td><td>时间/s</td><td>23.6051</td><td>22.8525</td><td>31.2439</td><td>399.7311</td><td>16.2036</td><td>8.673</td></tr><tr><td>最优值</td><td>2.05E-05</td><td>5.36E-90</td><td>1.24E-89</td><td>9.86E-45</td><td>1.21E-63</td><td>0.00E+00</td><td></td><td>最优值</td><td>2.03E-02</td><td>8.23E-24</td><td>4.52E-19</td><td>6.11E-14</td><td>3.73E-16</td><td>0.00E+00</td></tr><tr><td>均值</td><td>2.58E-05</td><td>3.84E-74</td><td>5.01E-27</td><td>5.06E-28</td><td>2.26E-57</td><td>0.00E+00</td><td></td><td>均值</td><td>2.47E-02</td><td>7.39E-21</td><td>2.93E-09</td><td>5.31E-11</td><td>3.21E-15</td><td>0.00E+00</td></tr><tr><td rowspan="4">F5</td><td>标准差</td><td>2.66E-06</td><td>2.09E-73</td><td>2.75E-26</td><td>2.35E-27</td><td>9.33E-57</td><td>0.00E+00</td><td>F11</td><td>标准差</td><td>2.06E-03</td><td>1.15E-20</td><td>1.32E-08</td><td>9.47E-11</td><td>4.63E-15</td><td>0.00E+00</td></tr><tr><td>时间/s</td><td>2.7723</td><td>5.1965</td><td>5.8508</td><td>192.7266</td><td>3.1643</td><td>7.8005</td><td></td><td>时间/s</td><td>72.4257</td><td>102.9056</td><td>74.4172</td><td>3543.2641</td><td>64.372657</td><td>40.5479</td></tr><tr><td>最优值</td><td>9.48E-09</td><td>8.56E-99</td><td>1.08E-108</td><td>4.36E-77</td><td>8.99E-73</td><td>0.00E+00</td><td></td><td>最优值</td><td>1.93E-03</td><td>8.84E-46</td><td>9.38E-43</td><td>1.65E-22</td><td>7.57E-31</td><td>0.00E+00</td></tr><tr><td>均值</td><td>5.34E-07</td><td>1.68E-83</td><td>9.83E-48</td><td>1.55E-64</td><td>7.58E-68</td><td>0.00E+00</td><td></td><td>均值</td><td>2.28E-03</td><td>2.15E-38</td><td>2.44E-14</td><td>4.31E-17</td><td>1.57E-28</td><td>0.00E+00</td></tr><tr><td>F6</td><td>标准差</td><td>2.46E-07</td><td>9.17E-83</td><td>3.75E-47</td><td>8.02E-64</td><td>2.21E-67</td><td>0.00E+00</td><td>F12</td><td>标准差</td><td>1.64E-04</td><td>5.31E-38</td><td>1.34E-13</td><td>1.05E-16</td><td>4.51E-28</td><td>0.00E+00</td></tr><tr><td></td><td>时间/s</td><td>3.1369</td><td>4.1799</td><td>5.4877</td><td>142.1456</td><td>3.9304</td><td>7.0109</td><td></td><td>时间/s</td><td>5.4693</td><td>8.0107</td><td>9.4143</td><td>244.6403</td><td>5.7093</td><td>7.7365</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+表5不同改进蝴蝶优化算法在 $\scriptstyle \mathrm { { D = 3 0 0 0 } }$ 的对比实验结果  
+Tab.6Experimental results and comparison of different improved butterfly optimization algorithms with $\scriptstyle { \mathrm { ~ D = 5 0 0 0 ~ } }$   
+
+<html><body><table><tr><td></td><td>函数算法</td><td>BOA</td><td></td><td></td><td></td><td>CFSBOA MSBOA1 MSBOA2 SIBOA SGLBOA函数 算法</td><td></td><td></td><td></td><td>BOACFSBOA MSBOA1 MSBOA2</td><td></td><td>SIBOA</td><td>SGLBOA</td></tr><tr><td></td><td></td><td></td><td>最优值 2.77E-05 2.15E-81</td><td>6.12E-90</td><td></td><td>8.47E-24 1.11E-54 0.00E+00</td><td></td><td></td><td></td><td>最优值 2.85E-11 0.00E+00 0.00E+00 0.00E+00</td><td></td><td>0.00E+00</td><td>0.00E+00</td></tr><tr><td>F1</td><td></td><td></td><td>均值3.43E-05 3.37E-68 9.38E-21</td><td></td><td>6.10E-13</td><td>1.94E-51 0.00E+00</td><td></td><td></td><td></td><td>均值3.21E-080.00E+00 0.00E+00 0.00E+00</td><td></td><td>0.00E+00</td><td>0.00E+00</td></tr><tr><td></td><td></td><td>标准差3.31E-06 1.84E-67</td><td></td><td>5.14E-20</td><td></td><td>3.28E-12 5.71E-510.00E+00</td><td>F7</td><td></td><td></td><td>标准差 4.09E-08 0.00E+000.00E+00 0.00E+00</td><td></td><td>0.00E+00</td><td>0.00E+00</td></tr><tr><td></td><td>时间/s</td><td>7.7651</td><td>8.4849</td><td>8.8395</td><td>391.4922</td><td>7.3067 10.1121</td><td></td><td>时间/s 5.9967</td><td>9.2575</td><td></td><td>10.2146324.8185</td><td>6.8590</td><td>10.2753</td></tr><tr><td></td><td>最优值</td><td></td><td>5.29E-93</td><td></td><td></td><td>8.03E-58 6.42E-05 0.00E+00</td><td></td><td></td><td></td><td>最优值 5.53E-04 8.88E-16 8.88E-16 8.88E-16</td><td></td><td>8.88E-16</td><td>8.88E-16</td></tr><tr><td>F2</td><td>均值</td><td></td><td>8.17E-80</td><td></td><td>1.96E-25</td><td>-- 0.00E+00</td><td>F8</td><td></td><td></td><td>均值6.46E-04 8.88E-16 8.88E-16 8.88E-16</td><td></td><td>8.88E-16</td><td>8.88E-16</td></tr><tr><td></td><td>标准差</td><td></td><td>4.36E-79</td><td></td><td>1.07E-24</td><td>0.00E+00</td><td></td><td></td><td></td><td>标准差 5.59E-05 0.00E+00 0.00E+00 3.87E-12</td><td></td><td>0.00E+00</td><td>0.00E+00</td></tr><tr><td></td><td>时间/s</td><td></td><td>99.4272</td><td></td><td></td><td>8296.3997 83.291227.489</td><td></td><td></td><td></td><td>时间/s32.903424.039744.565</td><td>718.5489</td><td>25.1074</td><td>14.9316</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>最优值 2.59E-05 1.20E-61 6.81E+08 3.81E+04 4.16E-31 3.86E+18</td><td></td><td></td><td></td><td>最优值1.60E-05 3.03E-87 4.41E-96 8.69E-30</td><td></td><td>7.95E-64</td><td>0.00E+00</td></tr><tr><td>F3</td><td></td><td></td><td></td><td></td><td></td><td>均值1,94E+22 3.04E-26 1.45E+19 1.37E+05 7.58E-25 1.28E+25</td><td>F9</td><td></td><td></td><td>均值2.38E-05 4.47E-74 9.18E-40 2.74E-14</td><td></td><td>3.53E-57</td><td>0.00E+00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>标准差 3.78E+22 1.16E-25 4.51E+19 7.81E+04 1.69E-24 1.99E+25</td><td></td><td></td><td></td><td>标准差 2.68E-06 2.34E-73 4.34E-39 1.25E-13</td><td></td><td>1.90E-56</td><td>0.00E+00</td></tr><tr><td></td><td>时间/s</td><td>9.6822</td><td>9.1985</td><td>11.8947</td><td>400.2919</td><td>9.2538 9.4833</td><td></td><td></td><td></td><td>时间/s 64.564675.538563.5889 4959.0585</td><td></td><td>60.8643</td><td>24.8883</td></tr><tr><td>F4</td><td></td><td></td><td></td><td></td><td></td><td>最优值 2.87E-05 2.12E-82 2.09E-83 6.55E-21 6.39E-540.00E+00</td><td></td><td></td><td></td><td>最优值3.72E-06 0.00E+000.00E+00 0.00E+00</td><td></td><td>0.00E+00</td><td>0.00E+00</td></tr><tr><td></td><td></td><td></td><td>均值3.60E-05 1.45E-69 2.43E-17</td><td></td><td></td><td>5.65E-11 3.44E-49 0.00E+00</td><td>F10</td><td></td><td></td><td></td><td>均值1.93E-05 0.00E+00 0.00E+00 2.47E-11</td><td>0.00E+00</td><td>0.00E+00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>标准差 4.22E-06 7.91E-69 1.33E-16 3.09E-10 1.26E-48 0.00E+00</td><td></td><td></td><td></td><td></td><td>标准差 7.47E-06 0.00E+00 0.00E+00 8.46E-11</td><td>0.00E+00</td><td>0.00E+00</td></tr><tr><td></td><td></td><td>时间/s38.8434 55.9658</td><td></td><td></td><td></td><td>40.71983044.8077 38.9418 42.0427</td><td></td><td></td><td></td><td>时间/s34.09333.322342.90371312.8956</td><td></td><td>25.3992</td><td>13.2231</td></tr><tr><td></td><td></td><td></td><td>最优值 1.91E-05 1.63E-88 2.64E-84</td><td></td><td></td><td>4.90E-58 1.88E-62 0.00E+00</td><td></td><td></td><td></td><td>最优值1.33E-02 7.47E-23 1.71E-19 6.61E-14</td><td></td><td>1.93E-16</td><td>0.00E+00</td></tr><tr><td>F5</td><td></td><td></td><td>均值2.69E-05 4.85E-76 7.29E-16</td><td></td><td></td><td>1.85E-28 2.09E-56 0.00E+00</td><td></td><td></td><td></td><td></td><td>均值1.46E-02 9.04E-21 3.04E-08 1.18E-11</td><td>2.79E-15</td><td>0.00E+00</td></tr><tr><td></td><td></td><td></td><td>标准差3.21E-06 1.74E-75 3.99E-15</td><td></td><td></td><td>8.33E-28 9.86E-56 0.00E+00</td><td>F11</td><td></td><td></td><td></td><td>标准差 5.93E-04 1.32E-20 1.64E-07 1.67E-11</td><td>3.02E-15</td><td>0.00E+00</td></tr><tr><td></td><td>时间/s7.3230</td><td></td><td>9.0121</td><td>9.2273</td><td>412.2919</td><td>7.781510.4181</td><td></td><td></td><td></td><td></td><td>时间/s 102.4434 145.7607 105.7969 9219.1753 188.959827</td><td></td><td>57.0347</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>最优值 1.86E-08 7.17E-97 2.21E-106 1.31E-90 2.82E-73 0.00E+00</td><td></td><td></td><td></td><td></td><td>最优值 2.09E-03 2.49E-45 1.50E-40 2.40E-23</td><td>5.57E-31</td><td>0.00E+00</td></tr><tr><td>F6</td><td></td><td></td><td>均值7.05E-07 7.09E-84 2.90E-36</td><td></td><td></td><td>6.36E-65 1.80E-66 0.00E+00</td><td></td><td></td><td></td><td>均值2.55E-03 3.66E-38 3.35E-11</td><td>7.49E-17</td><td>5.98E-28</td><td>0.00E+00</td></tr><tr><td></td><td></td><td></td><td>标准差 3.24E-07 3.86E-83 1.49E-35</td><td></td><td></td><td>2.15E-64 9.32E-66 0.00E+00</td><td>F12</td><td></td><td></td><td>标准差 2.10E-04 1.39E-37 1.78E-10</td><td>1.85E-16</td><td>2.12E-27</td><td>0.00E+00</td></tr><tr><td></td><td>时间/s</td><td></td><td>7.3095</td><td>8.8976</td><td>280.3555</td><td>6.3400 9.2357</td><td></td><td>时间/s 13.6142</td><td></td><td>18.798 23.1732</td><td>884.6742</td><td>14.8423</td><td>17.9933</td></tr><tr><td></td><td></td><td>6.1523</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+![](images/a25bb2ba6b332c9e27cbedef64f4cdc3b7c55a92995e8f567c615a7e6867b5c4.jpg)  
+图5不同改进蝴蝶优化算法在 $\scriptstyle \mathbf { D = 1 0 0 0 }$ 的收敛图
+
+![](images/cd564d1cd11afb10f2c1e488f4e025f671295c927b0e111baee444dd5c18b8b7.jpg)  
+Fig.5Convergence diagrams of different improved BOA with D=1000   
+图6SGLBOA算法在不同维数下部分测试函数的收敛图  
+Fig.6Convergence diagrams of SGLBOA on some test functions in different dimensions
+
+# 3.5Wilcoxon 秩和检验
+
+对于改进算法，通常需要利用统计检验来验证，相对于现有算法而言，改进算法是否具有显著性。为判断SGLBOA的寻优结果是否在统计上与其他算法的最佳结果显著不同，Wilcoxon秩和检验在 $5 \%$ 的显著性水平下进行也即当 $p$ 值小于 $5 \%$ 时，“R"为 $\cdot _ { + } , \cdot _ { }$ ，即拒绝H0假设，说明两种算法的差异性显著；否则就是接受H0假设，说明两种算法在整体上是相同的。表7给出了在14个基准测试函数下，SGLBOA对BOA[8]、CFSBOA[20]、MSBOA1、MSBOA2以及 SIBOA[23]的秩和检验 $p$ 值。从表7中可以观察到大多数的 $p$ 值是小于 $5 \%$ 因此总体上说明SGLBOA与其他5种算法之间差异性显著，SGLBOA明显优于其他5种对比算法。
+
+表7Wilcoxon 秩和检验结果  
+Tab.7Wilcoxon rank sum test results   
+
+<html><body><table><tr><td rowspan="2">函数</td><td>BOA</td><td colspan="2">CFSBOA</td><td colspan="2">MSBOA1</td><td colspan="2">MSBOA2</td><td colspan="2">SIBOA</td><td rowspan="2">函数</td><td colspan="2">BOA</td><td colspan="2">CFSBOA</td><td colspan="2">MSBOA1</td><td colspan="2">MSBOA2</td><td colspan="2">SIBOA</td></tr><tr><td>P</td><td>R p</td><td>R</td><td>p</td><td>R</td><td></td><td>p</td><td>R p</td><td>R</td><td>P</td><td>R</td><td>p</td><td>R</td><td>p</td><td>R</td><td>p</td><td>R</td><td>P R</td></tr><tr><td>F1</td><td>1.2118e-12</td><td>+ 1.2118e-12</td><td></td><td>+</td><td>1.2118e-12</td><td>+</td><td>1.2118e-12</td><td>+ 1.2118e-12</td><td>+</td><td>F8</td><td>1.2118e-12 +</td><td>NA</td><td>=</td><td>0.3337</td><td></td><td>■ 8.6979e-07</td><td>+</td><td>NA</td><td>=</td></tr><tr><td>F2</td><td>1.2118e-12</td><td>+ 1.2118e-12</td><td>+</td><td></td><td>1.2118e-12</td><td>+</td><td>1.2118e-12</td><td>+ 1.2118e-12</td><td>+</td><td>F9</td><td>1.2118e-12 +</td><td>1.2118e-12</td><td>+</td><td>1.2118e-12</td><td>+</td><td>1.2118e-12</td><td>+</td><td>1.2118e-12</td><td>+</td></tr><tr><td>F3</td><td>1.2118e-12</td><td>+ 1.2118e-12</td><td>+</td><td></td><td>1.2118e-12</td><td>+</td><td>1.2118e-12</td><td>+ 1.2118e-12</td><td>+</td><td>F10</td><td>1.2118e-12 +</td><td>NA</td><td>=</td><td>NA</td><td>=</td><td>0.0056</td><td></td><td>NA</td><td>=</td></tr><tr><td>F4</td><td>1.2118e-12</td><td>+ 1.2118e-12</td><td>十</td><td></td><td>1.2118e-12</td><td>+</td><td>1.2118e-12</td><td>+ 1.2118e-12</td><td>+</td><td>F11</td><td>1.2118e-12 +</td><td>1.2118e-12</td><td>+</td><td>1.2118e-12</td><td></td><td>1.2118e-12</td><td>+</td><td>1.2118e-12</td><td>+</td></tr><tr><td>F5</td><td>1.2118e-12</td><td>+ 1.2118e-12</td><td>+</td><td></td><td>1.2118e-12</td><td>+</td><td>1.2118e-12</td><td>+ 1.2118e-12</td><td>+</td><td>F12</td><td>1.2118e-12 +</td><td>1.2118e-12</td><td>+</td><td>1.2118e-12</td><td>+</td><td>1.2118e-12</td><td>+</td><td>1.2118e-12</td><td>+</td></tr><tr><td>F6</td><td>1.2118e-12</td><td>+ 1.2118e-12</td><td>+</td><td></td><td>1.2118e-12</td><td>+</td><td>1.2118e-12</td><td>+ 1.2118e-12</td><td>+</td><td>F13</td><td>7.0430e-07 +</td><td>1.8567e-09</td><td>+</td><td>1.6351e-05</td><td>+</td><td>8.9934e-11</td><td>+</td><td>2.4386e-09</td><td>X</td></tr><tr><td>F7</td><td>1.2118e-12  +</td><td>NA</td><td></td><td>=</td><td>NA</td><td>=</td><td>NA</td><td>=</td><td>NA 二</td><td>F14</td><td>4.2770e-12</td><td>NA ×</td><td></td><td>二 NA</td><td>二</td><td>NA</td><td>=</td><td>NA</td><td>二</td></tr></table></body></html>
+
+注：“R”为显著性判断结果，“ $^ +$ ”“_” ${ } ^ { 6 6 } =$ ”分别表示MSBOA的性能优于、劣于和相当对比算法；“NA”表示不适用，无法进行显著判断
+
+# 4 结束语
+
+本文在蝴蝶优化算法的基础上提出拉丁超立方抽样的自适应高斯小孔成像蝴蝶优化算法。通过将概率统计中的拉丁超立方抽样策略应用于算法的种群初始化，提高种群的多样性，以提升算法的全局搜索能力；自适应最优引导策略的引入能够自动调节不同进化时期的搜索范围，较好地平衡算法的全局和局部搜索能力，从而提升算法的寻优精度；引入高斯小孔成像策略，进一步提升算法的寻优精度并加快算法的收敛速度。14个测试函数的仿真实验结果表明SGLBOA算法具有较好的寻优精度、收敛速度、稳定性以及可扩展性。同时由于SGLBOA算法在高维优化问题上具有较好的性能，未来可进一步研究将算法应用于大规模优化问题中。
+
+参考文献：   
+[1]Achikkulath P, Hussain S. Quantum chaotic butterfly optimization algorithm with ranking strategy for constrained optimization problems [J]. IEEE Access,2021,9: 114587-114608.   
+[2]Kenney J,Eberhart R C.Particle swarm optimization [C]//Proc of IEEE International Conference on Neural Networks,1995: 1942-1948.   
+[3] Xu Le,Mo Yuanbin, Lu Yanyue,et al. Improved seagull optimization algorithm combined with an unequal division method to solve dynamic optimization problems [J].Processes,2021,9:1037.   
+[4]Abdullah Y C,Iklim G B,Birdal S.A new approach using the genetic algorithm for parameter estimation in multiple linear regression with long-tailed symmetric distributed error terms:an application to the Covid-19 data [J]. Chemometrics and Intelligent Laboratory Systems, 2021,216: 104372.   
+[5]Ning Guiying,Zhou Yongquan.Application of improved differential evolution algorithm in solving equations [J]. International Journal of Computational Intelligence Systems,2021,14(1) .   
+[6]Nematollahi AF,Rahiminejad A, Vahidi B.A novel physical based metaheuristic optimization method known as lightning attachment procedure optimization [J]. Applied Soft Computing,2017,59: 596-621.   
+[7] Zhang Jingrui,Li Zhuoyun,Wang Beibei,et al.Within-day rolling optimal scheduling problem for active distribution networks by multiobjective evolutionary algorithm based on decomposition integrating with thought of simulated annealing [J].Energy,2021,23:120027.   
+[8]Arora S,Singh S.Butterfly optimization algorithm: a novel approach for global optimization [J]. Soft Computing,2019,23 (3): 715-73   
+[9] 刘慧，姜雨汐．融合分数阶和蝴蝶优化的改进粒子滤波算法[J/OL]. 小型微型计算机系统:1-6.(2021-12-01)[2022-2-13].https://kns.cnki. net/kcms/detail/21.1106.TP.20211130.1302.006. html (Liu Hui,Jiang Yuxi.Improved particle filter algorithm incorporating fractional-order and butterfly optimization [J/OL].Journal of Chinese Computer Systems: 1-6.(2021-12-01）[2022-2-13]. htps://kns.cnki.net/kcms/detail/21. 1106.TP.20211130.1302.006.html.)   
+[10] Sharma S,Saha A K. m-MBOA: a novel butterfly optimizationalgorithm enhanced with mutualism scheme [J]. Soft Computing,2020,24 （7): 4809-4827.   
+[11]张孟健，汪敏，王霄，等．混合粒子群-蝴蝶算法的WSN节点部署研 究[J/OL]．计算机工程与科学：1-9.(2021-9-16)[2022-2-13]. https://kns.cnki.net/kcms/detail/43．1258.TP.20210916.1048.002. html. (Zhang Mengjian, Wang Min,Wang Xiao,et al. Research on node deployment in WSN based on hybrid particle swarm-butterfly algorithm [J/OL].Computer-Engineering & Science: 1-9. (2021-9-16)[2022-2-13]. https://kns.cnki.net/kcms/detail/43.1258.TP.20210916.1048.002. html.)   
+[12] WenLei, CaoYang.Ahybrid intellgent predicting model forexploring household CO2 emissions mitigation strategies derived from butterfly optimization algorithm [J]. Science of the Total Environment,2020,727: 138572.   
+[13]赵玲玲，王群京，陈权，等．基于IBBOA优化BP神经网络的变压器 故障诊断[J]．电工电能新技术,2021,40(9):39-46.(Zhao Lingling, Wang Qunjing,Chen Quan,et al. Fault diagnosis of transformer based on BP neural network optimized by IBBOA[J]. Advanced Technology of algorithm integrated with information cross-sharing [J].Journal of Intelligent and Fuzzy Systems,2021,41: 3463-3484.   
+[15] Ali M, Mahsa M.Enhanced buterfly optimization algorithm with a new fuzzy regulator strategy and virtual butterfly concept [J]. KnowledgeBased Systems,2021,228:107-291.   
+[16]王依柔，张达敏，徐航，等．基于自适应扰动的疯狂蝴蝶算法[J]. 计算机应用研究,2020,37(11):3276-3280.(Wang Yirou,Zhang Damin, Xu Hang,et al. Crazy butterfly algorithm based on adaptive perturbation [J].Application Research of Computers,2020,37(11): 3276-3280.)   
+[17]刘凯，代永强．融合变异策略的自适应蝴蝶优化算法[J].计算机应 用研究,2021,39 (1):1-9.(Liu Kai,Dai Yongqiang,Adaptive butterfly optimization algorithm based on mutation strategies [J]. Application Research of Computers,2021,39(1): 1-9.)   
+[18]高文欣，刘升，肖子雅，等．全局优化的蝴蝶优化算法[J].计算机 应用研究,2020,37(10):2966-2970.(Gao Wenxin,Liu Sheng,Xiao Ziya,et al. Butterfly optimization algorithm for global optimization [J]. Application Research of Computers,2020,37 (10): 2966-2970.)   
+[19]李守玉，何庆，杜逆索．分段权重和变异反向学习的蝴蝶优化算法 [J]．计算机工程与应用,2021,57 (22):92-101.(Li Shouyu,He Qing, Du Nisuo,Piecewise weight and mutation opposition-based learning buterfly optimization algorithm [J]. Computer Engineeringand Applications,2021,57 (22): 92-101.)   
+[20]李守玉，何庆，杜逆索．混沌反馈共享和群体协同效应的蝴蝶优化 算法[J/OL].计算机科学与探索：1-12.(2021-1-28)[2022-2-13]. https://kns.cnki.net/kcms/detail/11. 5602.TP.20210128.1109.014. html.(Li Shouyu,He Qing,Du Nisuo.Butterfly optimization algorithm for chaotic feedback sharing and group synergy [J/OL]. Journal of Frontiers of Computer Science and Technology:1-12.(2021-1-28) [2022-2-13]. https://kns.cnki.net/kcms/detail/11. 5602. TP.20210128. 1109.014. html.)   
+[21]陈俊，何庆．基于余弦相似度的改进蝴蝶优化算法[J].计算机应用， 2021，41 (9):2668-2677.(Chen Jun，He Qing. Improved butterfly optimization algorithm based on cosine similarity [J].Journal of Computer Applications,2021,41 (9): 2668-2677.)   
+[22]宁杰琼，何庆．混合策略改进的蝴蝶优化算法[J]．计算机应用研究, 2021,38 (6): 1718-1723+1738.(Ning Jieqiong,He Qing. Mixed strategy to improve butterfly optimization algorithm[J].Application Research of Computers,2021,38(6):1718-1723+1738.)   
+[23]王依柔，张达敏．融合正弦余弦和无限折叠迭代混沌映射的蝴蝶优 化算法[J].模式识别与人工智能,2020,33(7):660-669.(Wang Yirou, Zhang Damin. Butterfly optimization algorithm combining sine cosine and iterative chaotic map with infinite collapses [J].Pattern Recognition and Artificial Intelligence,2020,33(7): 660-669.)   
+[24] McKay MD,Beckman RJ,Conover WJ,et al.Comparison the three methods for selecting values of input variable in the analysis of output from a computer code [J].Technometrics,1979,21(2): 239.   
+[25]魏锋涛，张洋洋，黎俊宇，等．基于动态分级策略的改进正余弦算法 [J]．系统工程与电子技术,2021,43(6):1596-1605.(WeiFengtao, Zhang Yangyang,Li Junyu,et al. Improved sine cosine algorithm based on dynamic clasification strategy [J].Systems Engineering and Electronics,2021,43 (6): 1596-1605.)   
+[26] He Zhenxue,Pan Yuhua,Wang Kejian,et al.Area optimization for MPRM logic circuits based on improved multiple disturbances fireworks algorithm [J]. Applied Mathematics and Computation，2021，399: 126008.   
+[27] Siti JR,HaslizaAR,KhairulNAR,et al.Ahybrid modified methodof the sine cosine algorithm using Latin hypercube sampling with the cuckoo search algorithm for optimization problems[J].Electronics,2020,   
+9: 1786. [28] Alaa T,Wolfram S.Population initialization techniques for evolutionary algorithms for single-objective constrained optimization problems: deterministic vs.stochastic techniques [J].Swarm and Evolutionary Computation,2021,67:100952. [29]顾艳春，鲁海燕，向蕾，等．自适应动态学习鸡群优化算法[J]．计 算机工程与应用,2020,56(20):36-45.(Gu Yanchun,Lu Haiyan,Xiang Lei,et al.Adaptive dynamic learning chicken swarm optimization algorithm [J].Computer Engineering and Applications,2020,56(20):   
+36-45.) [30]张达敏，徐航，王依柔，等．嵌入Circle 映射和逐维小孔成像反向学 习的鲸鱼优化算法 [J].控制与决策,2021,36(5):1173-1180.(Zhang Damin,Xu Hang,WangYirou,et al.Whale optimization algorithm for embedded Circle mapping and one-dimensional oppositional learning based small hole imaging [J]. Control and Decision,2021,36 (5): 1173-   
+[31]刘景森，马义想，李煜．改进蝴蝶算法求解多维复杂函数优化问题 [J]．电子学报,2021,49(6):1068-1076.(Liu Jingsen,Ma Yixiang,Li Yu.Improved butterfly algorithm for multi-dimensional complex function optimization problem [J].Acta Electronic Sinica,2021,49 (6): 1068-1076.)   
+[32] Xue Jiankai, Shen Bo.A novel swarm intelligence optimization approach: sparrow search algorithm [J]. Systems Science and Control Engineering, 2020,8(1):22-34.   
+[33] Abualigah L,Diabat A,Mirjalili,et al.The arithmetic optimization algorithm [J]. Computer Methods in Applied Mechanics & Engineering, 2021,376:113609.   
+[34]Mirjalili S,LewisA.The whale optimization algorithm[J].Advances in Engineering Software,2016,95:51-67.   
+[35] Mirjalili S,Mirjalili SM,Lewis,et al.Grey wolf optimizer[J].Advances in Engineering Software,2014,69:46-61.

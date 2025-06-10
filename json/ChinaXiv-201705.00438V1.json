@@ -1,0 +1,349 @@
+[
+    {
+        "type": "text",
+        "text": "A single-phase $\\mathrm { B a _ { 9 } L u _ { 2 } S i _ { 6 } O _ { 2 4 } { : } E u ^ { 2 + } }$ ${ \\mathsf { C e } } ^ { 3 + }$ ， $\\mathsf { M n } ^ { 2 + }$ phosphor with tunable full-color emission for NUV-based white LED applications ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Changhua Zhangab, Yongfu Liub.\\*, Jiahua Zhangc, Xia Zhang, Jianxin Zhangb.d, Zhixuan Chenga\\*, Jun Jiangb,\\*, Haochuan Jiangl ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "aDepartment of Chemistry, College of Science,Shanghai University, Shanghai 2oo444, China   \nbNingboInstituteofaterialsecnologyndEngineeringinesecdemyofiencesingbo5in   \nStateKeybotryofuminecdicatiosgusiutefpticsinhdicsesedc   \nChangchun 130033,China   \nd College of Electronic Informationand Engineering,Hangzhou Dianzi University,Hangzhou 1oo18,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLEINFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A. Optical materials B.Luminescence B. Optical properties C.X-ray diffraction D.Phosphors ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We obtained a single phase BLS: $\\mathtt { E u } ^ { 2 + }$ = $C e ^ { 3 + }$ $\\mathsf { M n } ^ { 2 + }$ phosphor by solid-state reactions. $\\mathtt { E u } ^ { 2 + }$ = $C e ^ { 3 + }$ ,and $\\mathsf { M n } ^ { 2 + }$ gives rise to the blue,green,and red emission,respectively. The $\\mathsf { M n } ^ { 2 + }$ red emission can be effectively enhanced via energy transfers from both ${ \\tt E u } ^ { 2 + }$ and $C e ^ { 3 + }$ .Thus a tunable full color emission from 410 to $7 5 0 \\mathrm { n m }$ was realized in this single phosphor. The ${ \\mathrm { E u } } ^ { 2 + } \\to { \\mathrm { M n } } ^ { 2 + }$ energy transfer mechanism was investigated by the fluorescence decay curves.This single phosphor exhibits an efficient excitation band covering from 390 to $4 1 0 \\mathrm { n m }$ ,which matches well with the emission light of the eficient NUV chips.The optimized ${ \\mathsf { B L S : E u } } ^ { 2 + }$ = ${ \\mathsf { C e } } ^ { 3 + }$ $\\mathsf { M n } ^ { 2 + }$ phosphor shows a high quantum efficient of $\\sim 6 2 \\%$ and a good color stability.When this single phosphor was combined with a $3 9 5 \\mathrm { n m }$ NUV-chip,an ideal white LED with a high color render index(CRI)of 85and a correlated color temperature(CCT)of 63oo Kwas obtained.This demonstrates the promising application of the BLS ${ \\tt E u } ^ { 2 + }$ ${ \\mathsf { C e } } ^ { 3 + }$ $ { \\mathrm { M n } } ^ { 2 + }$ single phosphor for the NUV-based white LEDs. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "White light-emitting-diodes(WLEDs）are considered to be a promising solid-state lighting source for facilitating the development of society,due to their virtues of energy-saving,environment-friendly, long-lifetime,and high eficiency[1-8].The most mature method of fabricating WLEDs is the combination of a yellow-emitting YAG: $\\mathsf { C e } ^ { 3 + }$ phosphor with a blue InGaN chip [9,10]. However, the red emission in YAG: $\\mathsf { C e } ^ { 3 + }$ is deficient,resulting in the WLED hasa low color rendering index(CRI, ${ \\sim } 7 0$ ,ideal $= 1 0 0 ^ { \\cdot }$ anda high correlated color temperature(CCT, ${ > } 7 0 0 0 \\mathrm { K }$ ).Themixture of red phosphor with yellow or green phosphor for blue-chip-based WLEDs or the mixture of red,green,and blue phosphors for the NUV-chip-based WLEDscan realizeanideal white lightwitha high CRI and a tunable CCT[11-15]. However, these methods suffer the defect of fluorescence re-absorption among different phosphors, leading to a loss of luminous efficiency and time-dependent color shift.Therefore,it is essential to explore a single phase phosphor with full-color emissions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Many strategies have been put out to achieve full color emissions in a single phase [16-25].One kind of the common methods is basing on the NUV-excited phosphors by introducing the red,green,and blue luminescence centers,such as $\\mathrm { B a } _ { 3 } \\mathrm { M g S i _ { 2 } O _ { 8 } }$ = ${ \\mathrm { E u } } ^ { 2 + }$ $\\mathsf { M n } ^ { 2 + }$ [26], $\\mathrm { C a } _ { 1 4 } \\mathrm { M g } _ { 2 } [ \\mathrm { S i O } _ { 4 } ] _ { 8 } \\mathrm { : E u } ^ { 2 + }$ $\\mathsf { M n } ^ { 2 + }$ [27], $\\mathsf { N a C a _ { 2 } L u S i _ { 2 } O _ { 7 } F _ { 2 } }$ ： ${ \\mathsf { C e } } ^ { 3 + }$ $\\mathsf { M n } ^ { 2 + }$ [28], $\\mathsf { C a } _ { 2 } \\mathsf { S r A l } _ { 2 } \\mathsf { O } _ { 6 } { : } \\mathsf { C e } ^ { 3 + }$ $\\mathrm { L i ^ { + } }$ $\\mathsf { M n } ^ { 2 + }$ [29], and $\\mathrm { M g } _ { 2 } \\mathrm { A l } _ { 4 } \\mathrm { S i } _ { 5 } 0 _ { 1 8 }$ ${ \\tt E u } ^ { 2 + }$ $\\mathsf { M n } ^ { 2 + }$ [30]. In these systems, ${ \\mathrm { E u } } ^ { 2 + }$ and $\\mathsf { C e } ^ { 3 + }$ can be excited by the UV-NUV light and give rise to broad emissions covering from blue to yellow. The $\\mathsf { M n } ^ { 2 + }$ usually acts as an efficient red-emitting center accompanying with ${ \\mathsf { C e } } ^ { 3 + } / { \\mathsf { E u } } ^ { 2 + }$ .Based on energy transfers mechanisms,many $\\mathrm { C e ^ { 3 + } / E u ^ { 2 + } / M n ^ { 2 + } }$ co-doped phosphors produce full color emissions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Alkaline earth silicates are considered as promising hosts for their stable crystal structure and flexible lattice sites.For instance, $\\mathrm { { B a _ { 9 } R _ { 2 } S i _ { 6 } O _ { 2 4 } } }$ 0 $\\mathsf { R } = \\mathsf { S c } ,$ Y,and Lu) hasa rhombohedral crystal structure and can provide multi-occupation sites (Ba and R).For $\\scriptstyle { \\mathsf { R } } = S c$ and Y, broad emissions covering from green to red can be obtained by codoping $\\mathrm { C e ^ { 3 + } / E u ^ { 2 + } / M n ^ { 2 + } }$ [31-36]. However, their emissions still lack the blue component and cannot realize an ideal white light. Their quantum efficiency(QE) is also too low $( 1 5 - 4 7 \\% )$ [31-33,36]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "For $\\mathtt { R } = \\mathtt { L } \\mathtt { u }$ ,that is $\\mathrm { B a _ { 9 } L u _ { 2 } S i _ { 6 } O _ { 2 4 } }$ (BLS),we have demonstrated that ${ \\mathrm { E u } } ^ { 2 + }$ and ${ \\mathsf { C e } } ^ { 3 + }$ exhibit strong blue and green emissions,respectively,in the BLS host [37]. Codoping $\\mathsf { C e } ^ { 3 + }$ with $\\mathsf { M n } ^ { 2 + }$ ，strong red emissions can be realized in BLS [38].In this work,we achieve full color emissions,which range from blue to red regions,by codoping ${ \\tt E u } ^ { 2 + }$ ， ${ \\mathsf { C e } } ^ { 3 + }$ and $\\mathsf { M n } ^ { 2 + }$ into BLS. Under the $4 0 0 \\mathrm { n m }$ excitation, the estimated CRI ismore than 85witha CCTofabout 62oOKanda QE of about $62 \\%$ .Combing the single ${ \\tt B L S : E u } ^ { 2 + }$ ${ \\mathsf { C e } } ^ { 3 + }$ $\\mathsf { M n } ^ { 2 + }$ phosphor witha NUV chip,a WLED witha CRI of 85 and CCT of $6 3 0 0 \\mathrm { K }$ is obtained，which demonstrates the application of this novel phosphor for the NUV-based WLEDs.The ET mechanismsbetween ${ \\tt E u } ^ { 2 + }$ and $\\mathsf { M n } ^ { 2 + }$ were also investigated in term of fluorescence decays and time-dependent luminescence. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Experiment ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Samples of BLS: ${ \\mathrm { E u } } ^ { 2 + }$ ${ \\mathsf { B L S } } { : } { \\mathsf { C e } } ^ { 3 + }$ BLS: $\\mathsf { M n } ^ { 2 + }$ ,BLS: ${ \\tt E u } ^ { 2 + }$ $\\mathsf { M n } ^ { 2 + }$ BLS: ${ \\tt E u } ^ { 2 + }$ ， ${ \\mathsf { C e } } ^ { 3 + }$ ，and BLS: ${ \\mathrm { E u } } ^ { 2 + }$ ， ${ \\mathsf { C e } } ^ { 3 + }$ ， $\\mathsf { M n } ^ { 2 + }$ were prepared by high temperature solid-state reactions.The starting materials ${ \\tt B a C O } _ { 3 }$ $( 9 9 . 8 \\% )$ ， $\\mathrm { S i O } _ { 2 }$ $( 9 9 . 9 \\% )$ ， $\\mathrm { L u } _ { 2 } \\mathrm { O } _ { 3 }$ $( 9 9 . 9 9 \\% )$ ， $\\mathsf { C e O } _ { 2 }$ $( 9 9 . 9 9 \\% )$ ， $\\mathtt { E u } _ { 2 } 0 _ { 3 }$ $( 9 9 . 9 9 \\% )$ ，and $\\mathsf { M n C O } _ { 3 }$ 1 $( 9 9 . 9 5 \\% )$ were weighed in stoichiometric amounts,then mixed and grinded thoroughly in an agate mortar for $4 0 \\mathrm { m i n }$ .The mixtures were placed in an alumina crucible and sintered ina tube furnace at $1 4 0 0 ^ { \\circ } \\mathsf C$ for $^ { 3 \\mathrm { h } }$ under a reductive atmosphere of $9 5 \\% N _ { 2 } + 5 \\% H _ { 2 }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The phases ofas-prepared samples were identified bya powder X-raydiffraction(XRD) analysis(BrukerD8),with $\\mathsf { C u K } \\alpha$ radiation $ \\lambda = 1 . 5 4 0 5 6 \\mathring \\mathrm { A }$ operating at 40KV, $4 0 \\mathrm { m A }$ and a step size of $2 \\theta = 0 . 0 2 ^ { \\circ }$ . Photoluminescence excitation （PLE）and photoluminescence (PL) spectra at room temperature (RT) were measured by using the Hitachi F-46oo FL spectrometer equipped with a 150 W xenon lamp.The decay curves and the time-resolved PL spectra for ${ \\tt E u } ^ { 2 + }$ and $\\mathsf { M n } ^ { 2 + }$ were recorded on the Horiba Fluorolog Spectrometer（FL3-111）with a $3 2 0 \\mathrm { n m }$ nanoLED and a 45o W xenon flash lamp excitation sources,respectively.The internal QE,CCT,and CRI from room temperature to $2 8 0 ^ { \\circ } \\mathsf C$ and the temperature-dependent PL spectra were collected on a quantum efficiency measurement system (Otsuka Photal electronics QE-210O). Prototype WLEDs were fabricated byapplyingan intimate mixture byweightof the phosphor powder and transparent silicone resin on NUV LED chips $( \\lambda _ { \\mathrm { e x } } = 3 9 5 \\mathrm { n m }$ ).The CRI and CCTof the WLED were measured using the Ocean Optics USB40o0 Spectrometer. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/db73b51befd9d07d03dda3f07876ed0081d0995e34cff4dd9ce19197b425cfbd.jpg",
+        "img_caption": [
+            "Fig.1. XRD patterns for the $\\mathtt { E u } ^ { 2 + }$ $C e ^ { 3 + }$ ,and $ { \\mathrm { M n } } ^ { 2 + }$ doped or codoped BLS:xEu²+,yCe+, $z \\mathrm { M n } ^ { 2 + }$ samples. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 exhibits the XRD patterns for the ${ \\tt E u } ^ { 2 + }$ ， ${ \\mathsf { C e } } ^ { 3 + }$ ，and $\\mathsf { M n } ^ { 2 + }$ doped or codoped ${ \\mathsf { B L S } } { : \\boldsymbol { x } } { \\mathsf { E u } } ^ { 2 + }$ $y \\mathsf { C e } ^ { 3 + }$ $z \\mathbf { M } \\mathbf { n } ^ { 2 + }$ samples.These samples all exhibita single phase similar with the BSS ( $\\mathrm { \\langle B a _ { 9 } S c _ { 2 } S i _ { 6 } O _ { 2 4 } }$ PDF# 82-1119) crystal structure [39]. It is clearly that no impure phase was detected.There are three independent barium sites in the BLS host,which are coordinated by 12,9,and 10 oxygen atoms, respectively,denoted as $\\mathtt { B a } ( 1 ) , \\ \\mathtt { B a } ( 2 )$ ，and $\\mathtt { B a } ( 3 )$ ，The lutetium provides one crystallographic site coordinated with 6 oxygen atoms.In our previous works,we have confirmed that the ${ \\mathrm { E u } } ^ { 2 + }$ occupies the $\\mathsf { B } \\mathsf { a } ^ { 2 + }$ sites while the $\\mathsf { C e } ^ { 3 + }$ occupies both the $\\mathsf { B } \\mathsf { a } ^ { 2 + }$ and ${ \\mathrm { L u } } ^ { 3 + }$ sites[37]. $\\mathsf { M n } ^ { 2 + }$ can occupy the $\\mathsf { B } \\mathsf { a } ^ { 2 + }$ and ${ \\mathrm { L u } } ^ { 3 + }$ sites,because the ion radius of $\\mathsf { M n } ^ { 2 + } \\left( 0 . 6 7 \\mathring { \\mathsf { A } } \\right)$ is smaller than that of both $\\mathsf { B a } ^ { 2 + } ( 1 . 3 5 \\mathring { \\mathsf { A } } )$ and $\\mathrm { L u } ^ { 3 + } ( 0 . 8 6 1 \\mathring { \\mathrm { A } } )$ [40]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The PLE and PL spectra of ${ \\tt B L S } { : } 5 \\% \\mathrm { E u } ^ { 2 + }$ ${ \\mathsf { B L S } } { : 1 0 \\% } { \\mathsf { C e } } ^ { 3 + }$ ,and BLS: $1 0 \\%$ $\\mathsf { M n } ^ { 2 + }$ are presented in Fig.2.As can be seen in Fig. 2(a), the PL spectrum $( \\lambda _ { \\mathrm { e x } } = 4 0 0 \\mathrm { n m } )$ ）of ${ \\tt B L S : } 5 \\% { \\tt E u } ^ { 2 + }$ shows a strong blue emission peaking at $4 6 0 \\mathrm { n m }$ and a long tail from 460 to $7 5 0 \\mathrm { n m }$ originating from the $d f$ transition of ${ \\mathrm { E u } } ^ { 2 + }$ at the three different ${ \\mathsf { B } } \\mathsf { a } ^ { 2 + }$ sites.The PLE spectrum $( \\lambda _ { \\mathrm { e m } } = 4 6 0 \\mathrm { n m } )$ of ${ \\tt B L S } { : } 5 \\% \\mathrm { E u } ^ { 2 + }$ exhibits a broad excitation band from 240 to $4 7 0 \\mathrm { n m }$ . In Fig.2(b), BLS: $1 0 \\% \\mathrm { C e } ^ { 3 + }$ shows a broad green emission band peaking at $4 9 0 \\mathrm { n m }$ ，which is ascribed to the df transition of $\\mathsf { C e } ^ { 3 + }$ at the ${ \\mathrm { L u } } ^ { 3 + }$ site [37]. The PLE spectrum of BLS: $1 0 \\% \\mathrm { C e } ^ { 3 + }$ 0 $\\dot { \\lambda } _ { \\mathrm { e m } } = 4 9 0 \\mathrm { n m } \\dot { \\mathrm { \\Omega } }$ shows a broad excitation bandpeakingat $4 0 0 \\mathrm { n m }$ .These results indicate that the excitation of both ${ \\tt B L S : E u } ^ { 2 + }$ and ${ \\mathsf { B L S : C e } } ^ { 3 + }$ can match well with the emitted light of the efficient NUV chips $( 3 9 0 - 4 1 0 \\mathrm { n m } )$ .AsFig.2(c) shows, under $4 1 1 \\mathrm { n m }$ excitation,BLS: $1 0 \\% \\mathrm { M n } ^ { 2 + }$ exhibits a weak red emission peaking at $6 1 0 \\mathrm { n m }$ ，due to the spin-forbidden ${ } ^ { 4 } \\mathrm { T } _ { 1 } ( { } ^ { 4 } \\mathrm { G } )$ $ { } ^ { 6 } \\mathsf { A } _ { 1 } ( ^ { 6 } \\mathsf { S } )$ transitions of $\\mathsf { M n } ^ { 2 + }$ . The PLE spectrum monitored at $6 1 0 \\mathrm { n m }$ shows several excitation bands centered at 453,413,375, and $3 2 6 \\mathrm { n m }$ ,corresponding to the electronic transitions from the ${ } ^ { 6 } \\mathsf { A } _ { 1 } ( { } ^ { 6 } \\mathsf { S } )$ ground state to the excited states of $^ { 4 } \\mathrm { T } _ { 1 } ( ^ { 4 } \\mathrm { G } ) , ~ [ ^ { 4 } \\mathrm { A } _ { 1 } ( ^ { 4 } \\mathrm { G } ) ,$ （204号 ${ } ^ { 4 } \\mathrm { E } ( { } ^ { 4 } \\mathrm { G } ) ]$ $ { { } ^ { 4 } \\mathrm { T } _ { 2 } ( ^ { 4 } \\mathrm { D } ) }$ ,and $^ { 4 } \\mathrm { E } ( ^ { 4 } \\mathrm { D } )$ ,respectively[41]. It is noted that the PL spectra of both BLS: ${ \\mathrm { E u } } ^ { 2 + }$ and ${ \\mathsf { B L S } } { : } \\mathsf { C e } ^ { 3 + }$ overlap with the PLE spectrum of ${ \\mathrm { B L S } } { \\mathrm { : } } { \\mathrm { M n } } ^ { 2 + }$ ,implying the ETs from ${ \\tt E u } ^ { 2 + }$ and/or $\\mathsf { C e } ^ { 3 + }$ to $\\mathsf { M n } ^ { 2 + }$ can take place. Thus,the $\\mathsf { M n } ^ { 2 + }$ red emission can be enhanced by codoping ${ \\mathrm { E u } } ^ { 2 + }$ and/or $\\mathsf { C e } ^ { 3 + }$ with $\\mathsf { M n } ^ { 2 + }$ in the BLS matrix. Furthermore,a full-color emission could be obtained by forming the blue,green,and red emission centers in the BLS: ${ \\mathrm { E u } } ^ { 2 + }$ ${ \\mathsf { C e } } ^ { 3 + }$ $\\mathsf { M n } ^ { 2 }$ + system.In addition,there is no obvious spectral overlap between $\\mathsf { C e } ^ { \\bar { 3 } + }$ and ${ \\tt E u } ^ { 2 + }$ ，which means that no or little ET could happen between them.According to the results above，it should be reasonable to realize a single-composition phosphor with fullcolor emission for the NUV-based white LEDs. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/bf2b579bc0ee4949b9ef1701b626e69932b850ae365c436afda07478b7adb989.jpg",
+        "img_caption": [
+            "Fig.2.PLE and PL spectra of BLS $5 \\% \\mathrm { E u } ^ { 2 + }$ (a), ${ \\mathsf { B L S : } } 1 0 \\% \\mathsf { C e } ^ { 3 + }$ (b)and BLS: $1 0 \\% \\mathrm { M n } ^ { 2 + }$ (c). (For interpretation of the references to color in the text,the reader is referred to the web version of this article.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.3(a) displays the PL and PLE spectra of ${ \\tt B L S : } 5 \\% { \\tt E u } ^ { 2 + }$ $z \\mathrm { M n } ^ { 2 + }$ 0 $\\scriptstyle z = 0$ ,0.06,O.10,O.15,and O.20). It can be seen that ${ \\tt B L S : } 5 \\% { \\tt E u } ^ { 2 + }$ $z \\mathrm { M n } ^ { 2 + }$ exhibits blue-green and red emissions.The blue-green emission intensity of ${ \\mathrm { E u } } ^ { 2 + }$ decreases monotonically and the red emission increases with increasing $\\mathsf { M n } ^ { 2 + }$ concentrations,resulting from the ${ \\mathrm { E u } } ^ { 2 + } { \\longrightarrow } { \\mathrm { M n } } ^ { 2 + }$ ETs.The red emission includes two parts, one is from the ${ \\mathrm { E u } } ^ { 2 + }$ emission,and the other is the $\\mathsf { M n } ^ { 2 + }$ emission. Bothof them peak at $6 1 0 \\mathrm { n m }$ .Theinset in Fig.3(a)presents the normalized PLE spectra of ${ \\tt B L S : } 5 \\% { \\tt E u } ^ { 2 + }$ $1 5 \\% \\mathrm { M n } ^ { 2 + }$ . The PLE spectrum for the $6 1 0 \\mathrm { n m }$ emission has a very similar shape with that for the ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/01fb40a01495c87ec2505f39dbc04ca53965eaa2d49a6f2b0111310a5f705829.jpg",
+        "img_caption": [
+            "Fig.3.(a) PL and PLE spectra of BLS: $5 \\% \\mathrm { E u } ^ { 2 + }$ $z \\mathrm { M n } ^ { 2 + }$ $\\left( z = 0 \\mathrm { - } 0 . 2 0 \\right)$ and (b） timeresolved PL spectra of BLS: $5 \\% \\mathrm { E u } ^ { 2 + }$ $z \\mathrm { M n } ^ { 2 + } \\left( z = 0 { - } 0 . 2 0 \\right)$ under the $4 0 0 \\mathrm { n m }$ excitation. (For interpretation of the references to color in the text,the reader is referred to the web version of this article.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "510 and $6 1 0 \\mathrm { n m }$ emissions,suggesting the energy transfer from ${ \\tt E u } ^ { 2 }$ +to $\\mathsf { M n } ^ { 2 + }$ occurs.The lifetime of ${ \\tt E u } ^ { 2 + }$ in BLS is determined as $0 . 6 0 0 \\mu s$ ,which is much shorter than that of $\\mathsf { M n } ^ { 2 + } ( { \\sim } 2 5 \\mathsf { m s } )$ in BLS. Therefore,the $\\mathsf { M n } ^ { 2 + }$ emission in BLS $\\mathtt { E u } ^ { 2 + } , \\mathtt { M n } ^ { 2 + }$ can be separated from the ${ \\mathrm { E u } } ^ { 2 + }$ by the time-resolved spectra [42].As shown in Fig.3(b), the red emission of ${ \\mathrm { E u } } ^ { 2 + }$ （204号 $( 5 0 0 - 7 5 0 \\mathrm { n m } )$ in the $\\mathsf { M n } ^ { 2 + }$ -free sample $( \\mathtt { B L S } { : } 5 \\% \\mathtt { E u } ^ { 2 + }$ $z = 0$ )has disappeared aftera delay time of $5 0 \\mu s$ .When $\\mathsf { M n } ^ { 2 + }$ is codoped into $\\mathsf { B L S } { : } 5 \\% \\mathsf { E u } ^ { 2 + } , z \\mathsf { M n } ^ { 2 + }$ ，thered emissions appears again and reaches a maximum intensity at $z = 0 . 1 5$ .The maximum of red emissions is same with the results in Fig.3(a). So,the red emission is ascribed to the $\\mathsf { M n } ^ { 2 + }$ and the intensity decreases when $z$ exceeds O.15 due to the $\\mathsf { M n } ^ { 2 + }$ concentration quenching effect.It is also noticed that the $\\mathsf { M n } ^ { 2 + }$ red emission band is asymmetry but with a tail from 610 to $7 5 0 \\mathrm { n m }$ This indicates that the $\\mathsf { M n } ^ { 2 + }$ ions should occupy more than one cation sites.Considering that there is only one ${ \\mathrm { L u } } ^ { 3 + }$ site in BLS,if the red emission is origin from $\\mathsf { M n } ^ { 2 + }$ at the ${ \\mathrm { L u } } ^ { 3 + }$ site the PL spectra of $\\mathsf { M n } ^ { 2 + }$ should be symmetrical.This is not in agreement with the asymmetrical emission bands in Fig.3(b). BLS has three independent ${ \\mathsf { B } } { \\mathsf { a } } ^ { 2 + }$ sites with different crystal feld strength,therefore,the asymmetric red emission should be ascribed to the occupation of $\\mathsf { M n } ^ { 2 + }$ at the three ${ \\mathsf { B } } { \\mathsf { a } } ^ { 2 + }$ sites.Moreover, the 6-fold ${ \\mathrm { L u } } ^ { 3 + }$ site has a stronger crystal field-splitting than that of the ${ \\mathsf { B } } { \\mathsf { a } } ^ { 2 + }$ sites,the emission of $\\mathsf { M n } ^ { 2 + }$ should locate at the near-infrared area if $\\mathsf { M n } ^ { 2 + }$ occupies at the ${ \\mathrm { L u } } ^ { 3 + }$ sites.In the inset of Fig.3(b),the time-resolved PL spectrum of l $3 \\mathrm { L S } { : } 5 \\% \\mathrm { E u } ^ { 2 + }$ exhibits two narrow emission bands peakingat 592 and $6 1 3 \\mathrm { n m }$ ,respectively,which are ascribed to the typical electronic transitions of ${ \\mathrm { E u } } ^ { 3 + }$ from ${ } ^ { 5 } \\mathrm { D } _ { 0 }$ to $^ 7 \\mathrm { F } _ { 1 }$ and to $^ 7 \\mathrm { F } _ { 2 }$ [43]. The lifetime of ${ \\sf E u } ^ { 3 + }$ is about $1 - 1 0 \\mathrm { m } s$ ,so it is reasonable to observe the ${ \\sf E u } ^ { 3 + }$ emissions after $5 0 \\mu s$ However,the emission intensity of $\\mathsf { E u } ^ { 3 + }$ is too weak compared with the red emission of $\\mathsf { M n } ^ { 2 + }$ suggesting that there is very little ${ \\sf E u } ^ { 3 + }$ in the ${ \\mathsf { B L S : E u } } ^ { 2 + }$ ， $\\mathsf { M n } ^ { 2 + }$ sample and it will not strongly influence the luminescence properties of ${ \\mathrm { E u } } ^ { 2 + }$ and $\\mathsf { M n } ^ { 2 + }$ 业 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The fluorescence decay curves of ${ \\tt E u } ^ { 2 + }$ in ${ \\tt B L S : } 5 \\% { \\tt E u } ^ { 2 + }$ ， $z \\mathrm { M n } ^ { 2 + }$ $\\stackrel { \\prime } { z } = 0 { - } 0 . 2 0 \\}$ were measuredand presentedinFig.4(a) and(b).Under the $3 2 0 \\mathrm { n m }$ excitation,the decay curves of ${ \\mathrm { E u } } ^ { 2 + }$ monitored at 450 and $5 0 0 \\mathrm { n m }$ perform multi-exponential decay model. With increasing $\\mathsf { M n } ^ { 2 + }$ concentrations,the ${ \\mathrm { E u } } ^ { 2 + }$ decays become faster and faster.Theaverage lifetimes of ${ \\mathrm { E u } } ^ { 2 + }$ decrease from 596.6 to 559.3 ns and from 618.4to 557.2 ns,as shown in Fig.4(c)and(d),respectively. These results strongly demonstrate the ${ \\mathrm { E u } } ^ { 2 + } { \\longrightarrow } { \\mathrm { M n } } ^ { 2 + }$ ETs. As known, the ETefficiency, $\\eta$ ,can be calculated by the following equation [44]: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\eta = 1 - \\frac { \\tau } { \\tau _ { 0 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\tau _ { 0 }$ is the intrinsic decay lifetime of ${ \\mathrm { E u } } ^ { 2 + }$ and $\\tau$ is the decay time of ${ \\mathrm { E u } } ^ { 2 + }$ in the presence of $\\mathsf { M n } ^ { 2 + }$ $\\eta _ { 1 }$ for the $4 5 0 \\mathrm { n m }$ emission and $\\eta _ { 2 }$ for the $5 0 0 \\mathrm { n m }$ emission were calculated and presented in Fig.4(e) and (f),respectively.With increasing $\\mathsf { M n } ^ { 2 + }$ concentrations, both $\\eta _ { 1 }$ and $\\eta _ { 2 }$ increase and reach $6 \\%$ and $1 0 \\%$ at $z = 0 . 2 0$ respectively. Obviously, the ET from the $5 0 0 \\mathrm { n m }$ green emission is more efficient than from the 45o blue emission.However, the ET efficiency from ${ \\mathrm { E u } } ^ { 2 + }$ to $\\mathsf { M n } ^ { 2 + }$ is still too low to enhance the $\\mathsf { M n } ^ { 2 + }$ red emission strongly.Thus,it is impossible to obtaina white light just based on the ${ \\mathsf { B L S : E u } } ^ { 2 + }$ $\\mathsf { M n } ^ { 2 + }$ system. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Based on the higher ET efficiency from the green emission than that from the blue emission,it is feasible to improve the red emission of $\\mathsf { M n } ^ { 2 + }$ by enhancing the green emission.We have demonstrated this feasibility in the BLS: ${ \\mathsf { C e } } ^ { 3 + }$ ， $\\mathsf { M n } ^ { 2 + }$ system,in which strong $\\mathsf { M n } ^ { 2 + }$ red emissions can be achieved due to the efficient ${ \\mathsf { C e } } ^ { 3 + } { \\longrightarrow } { \\mathsf { M n } } ^ { 2 + }$ ETs [36]. However, the luminescence of $\\mathsf { C e } ^ { 3 + }$ will be affected by ${ \\tt E u } ^ { 2 + }$ ，because both ${ \\mathrm { E u } } ^ { 2 + }$ and ${ \\mathsf { C e } } ^ { 3 + }$ can be effectively excited by the $4 0 0 \\mathrm { n m }$ .Therefore,it is necessary to determine a suitable ${ \\mathrm { E u } } ^ { 2 + }$ concentration to ensure an efficient $\\mathsf { C e } ^ { 3 + }$ emission. Fig.5 shows the normalized PL spectra of ${ \\tt B L S : } x { \\tt E u } ^ { 2 + }$ ，， $1 0 \\%$ ${ \\mathsf { C e } } ^ { 3 + }$ $\\phantom { - } x = 0 . 0 1 - 0 . 2 0 )$ under the $4 0 0 \\mathrm { n m }$ excitation. ${ \\tt B L S : } 1 \\% { \\tt E u } ^ { 2 + }$ $10 \\%$ $\\mathsf { C e } ^ { 3 + }$ $\\mathbf { \\Phi } _ { \\left. x = 0 . 0 1 \\right. }$ ）exhibits a blue-green emission with a peak at $4 7 3 \\mathrm { n m }$ ,resulting from the overlap of ${ \\mathrm { E u } } ^ { 2 + }$ and ${ \\mathsf { C e } } ^ { 3 + }$ emissions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/756c3a4255fe5ac00db51d31d5bf1eb1d782d62e09d49f039358278e86015ef2.jpg",
+        "img_caption": [
+            "Fig.4. Fluorescence decaycurves of ${ \\mathrm { E u } } ^ { 2 + }$ 证 ${ \\tt B L S : } 5 \\% \\mathrm { E u } ^ { 2 + }$ $z \\mathrm { M n } ^ { 2 + }$ $\\stackrel { \\cdot } { z } = 0 { - } 0 . 2 0 )$ monitored at 450 (a) and $5 0 0 \\mathrm { n m }$ (b) upon $3 2 0 \\mathrm { n m }$ excitation.Fluorescencelifetimesof ${ \\tt E u } ^ { 2 + }$ （(c) and(d))and ETefficiencies(e) and(f))depended on the $\\mathsf { M n } ^ { 2 + }$ concentrations.(Forinterpretationof the references tocolorin the text,the reader is referred to the web version of this article.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/104ed604a28474f6a8fc4a8f9612f5fffadde9211a9d564962b03e254dcc91e5.jpg",
+        "img_caption": [
+            "Fig.5.PL spectra of ${ \\mathsf { B L S } } { : \\boldsymbol { x } } { \\mathsf { E u } } ^ { 2 + }$ $1 0 \\% C \\mathrm { e } ^ { 3 + } \\left( x = 0 . 0 1 - 0 . 2 0 \\right)$ under the $4 0 0 \\mathrm { n m }$ excitation. The inset illustrates the integrated PL intensities.(For interpretation of the references to color in the text,the reader is referred to the web version of this article.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The emission peak shifts from 473 to $4 6 0 \\mathrm { n m }$ when x exceeds 0.01. Both the green emissions around $5 0 0 \\mathrm { n m }$ and the integrated PL intensities (the inset） decrease sharply with the increasing ${ \\mathrm { E u } } ^ { 2 + }$ concentrations.These indicate that the ${ \\mathsf { C e } } ^ { 3 + }$ green emission will be inhibited when the ${ \\mathrm { E u } } ^ { 2 + }$ concentration at a high level $\\left( x \\ge 0 . 0 3 \\right)$ ： Thus, to keep efficient $\\mathsf { C e } ^ { 3 + }$ green emission, a suitable concentration of ${ \\mathrm { E u } } ^ { 2 + }$ is determined as $x = 0 . 0 1$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The optimum concentrations of ${ \\mathrm { E u } } ^ { 2 + }$ and $\\mathsf { M n } ^ { 2 + }$ have been determined as $x = 0 . 0 1$ and $z = 0 . 1 5$ .Accordingly,we optimize the ${ \\mathsf { C e } } ^ { 3 + }$ concentration to realize an ideal white light emission in the ${ \\tt B L S : E u } ^ { 2 + }$ ${ \\mathsf { C e } } ^ { 3 + }$ $\\mathsf { M n } ^ { 2 + }$ phosphor. As the PL spectra $\\langle \\lambda _ { \\mathrm { e x } } = 4 0 0 \\mathrm { n m } \\rangle$ of $\\mathsf { B L S } { : } 1 \\% \\mathsf { E u } ^ { 2 + } , y \\mathsf { C e } ^ { 3 + } , 1 5 \\% \\mathsf { M n } ^ { 2 + }$ $\\mathrm { \\ ' } y = 0 . 0 5 \\mathrm { – } 0 . 3 0 )$ shown in Fig.6(a), both the green emission around $5 0 0 \\mathrm { n m }$ and the red emission around $6 0 0 \\mathrm { n m }$ are improved when the $\\mathsf { C e } ^ { 3 + }$ concentration exceeds 0.10. Here, $\\mathsf { C e } ^ { 3 + }$ plays two important roles,one is improving the green emission,and the otheris further enhancing the $\\mathsf { M n } ^ { 2 + }$ red emission by the ${ \\mathsf { C e } } ^ { 3 + } { \\longrightarrow } { \\mathsf { M n } } ^ { 2 + }$ ETs.With the $\\mathsf { C e } ^ { 3 + }$ concentration increases from O.2O to O.30,a single white light could be obtained due to the full color emissions.This can be evidenced by the evaluation for the emission spectra and the performance of the phosphor in the NUVbased white LEDs. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.6(b)depicts the PLE spectra of ${ \\tt B L S : } 1 \\% { \\tt E u } ^ { 2 + }$ ， $2 5 \\% \\mathrm { C e } ^ { 3 + }$ = $1 5 \\%$ $\\mathsf { M n } ^ { 2 + }$ monitored at 460,490,and $6 1 0 \\mathrm { n m }$ .For the $4 6 0 \\mathrm { n m }$ ,the PLE spectrum is similar to that of ${ \\mathsf { B L S : E u } } ^ { 2 + }$ ，indicating the blue emission is mainly from ${ \\tt E u } ^ { 2 + }$ .However,the excitation peak shifts from 342 to $4 0 0 \\mathrm { n m }$ ,suggesting that the $\\mathsf { C e } ^ { 3 + }$ luminescence at the ${ \\mathrm { L u } } ^ { 3 + }$ site also contributes to the blue emission.For the $4 9 0 \\mathrm { n m }$ ,the PLE spectrum is very close to that of ${ \\mathsf { B L S } } { : } { \\mathsf { C e } } ^ { 3 + }$ ,indicating that the green emission mainly originates from ${ \\mathsf { C e } } ^ { 3 + }$ . For the $6 1 0 \\mathrm { n m }$ ,the PLE spectrum exhibits a broad excitation band with a peak at $3 3 0 \\mathrm { n m }$ and apeak at $4 0 0 \\mathrm { n m }$ ,which can be considered as the PLE spectral overlap between BLS: $\\mathsf { C e } ^ { 3 + }$ and BLS: ${ \\mathrm { E u } } ^ { 2 + }$ .This also suggests that the $\\mathsf { M n } ^ { 2 + }$ red emission is enhanced by both the ${ \\mathrm { E u } } ^ { 2 + } \\longrightarrow { \\mathrm { M n } } ^ { 2 + }$ and ${ \\mathsf { C e } } ^ { 3 + } { \\longrightarrow } { \\mathsf { M n } } ^ { 2 + }$ ETs. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a54c4c2c818f1a50cc9b8d093ade85cd0087a828162fda5a84920a4020f027f7.jpg",
+        "img_caption": [
+            "Fig. 6. PL spectra of BLS $1 \\% \\mathrm { E u } ^ { 2 + }$ $y C e ^ { 3 + }$ $1 5 \\% \\mathrm { M n } ^ { 2 + }$ $\\scriptstyle { \\dot { y } = 0 . 0 5 - 0 . 3 0 } )$ under the $4 0 0 \\mathrm { n m }$ （204号 excitation (a).PLE spectra of ${ \\tt B L S : } 1 \\% { \\tt E u } ^ { 2 + }$ 元 $2 5 \\% \\mathrm { C e } ^ { 3 + }$ $1 5 \\% \\mathrm { M n } ^ { 2 + }$ monitored at 460,490, and $6 1 0 \\mathrm { n m }$ (b).(For interpretation of the references to color in the text,the reader is referred to the web version of this article.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.7illustrates the CIE chromaticity coordinates of ${ \\mathsf { B L S : } } 1 \\% { \\mathsf { E L } } ^ { 2 + }$ $y \\mathsf { C e } ^ { 3 + }$ $1 5 \\% \\mathrm { M n } ^ { 2 + }$ based on the PL spectra in Fig.6(a).The coordinates shift fr0m(0.284,0.228) to(0.314,0.375)with $y$ increasing from 0.05 to O.3o.It is also clear that a white color can be obtained based on the tunable emissions.The CCT,CRI,and internal QE for the samples were measured and listed in Table 1. Clearly, the CRI of the white light based on the BLS: ${ \\tt E u } ^ { 2 + }$ 0 ${ \\mathsf { C e } } ^ { 3 + }$ $\\mathsf { M n } ^ { 2 + }$ phosphor can reach as high as 85.3 and the internal QE can reach $6 1 . 6 \\%$ for $y = 0 . 2 5$ Here， thetemperature-dependentluminescenceforthe ${ \\mathrm { B L S } } { : } 1 \\% { \\mathrm { E u } } ^ { 2 + }$ ， $2 5 \\% \\mathrm { C e } ^ { 3 + }$ ， $2 5 \\% \\mathrm { M n } ^ { 2 + }$ were measured.As shown in Fig. 8,at $1 6 0 ^ { \\circ } \\mathsf C$ only $5 8 \\%$ of the PL intensity at RT is maintained, which exhibits a strong thermal quenching properties.However, the CRI and CCT have little changes with the increasing temperatures,showing good color stability.The Chromaticity Shifts $( \\Delta E )$ of ${ \\tt B L S : } 1 \\% { \\tt E u } ^ { 2 + }$ ， $2 5 \\% \\mathrm { C e } ^ { 3 + }$ ， $2 5 \\% \\mathrm { M n } ^ { 2 + }$ at $3 7 3 \\mathrm { K }$ and $4 9 8 \\mathrm { K }$ were calculated according to the following equation [45]: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta E = \\sqrt { \\left( u _ { t } ^ { \\prime } - u _ { 0 } ^ { \\prime } \\right) ^ { 2 } + \\left( v _ { t } ^ { \\prime } - v _ { 0 } ^ { \\prime } \\right) ^ { 2 } + \\left( w _ { t } ^ { \\prime } - w _ { 0 } ^ { \\prime } \\right) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $u ^ { \\prime } = 4 x / ( 3 - 2 x + 1 2 y ) , \\qquad \\nu ^ { \\prime } = 9 y / ( 3 - 2 x + 1 2 y ) ,$ and $w ^ { \\prime } { = } 1 - u ^ { \\prime } - \\nu ^ { \\prime }$ ： $x$ and $y$ are the chromaticity coordinates in CIE ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9fc92a769c8fafc641a2797939b8cb6e2ba42809c453ffec3565fd7734ada310.jpg",
+        "img_caption": [
+            "Fig.7. CIE chromaticity coordinates of the ${ \\tt B L S : } 1 \\% { \\tt E u } ^ { 2 + }$ = $y \\mathsf { C e } ^ { 3 + }$ $1 5 \\%  { \\mathrm { M n } ^ { 2 + } }$ samples $( y = 0 . 0 5  – 0 . 3 0 )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f28e4cd739319fa4d90e243ee0e80002e32d86d79d2bf36dd2a63f92c1dee7d4.jpg",
+        "table_caption": [
+            "Table 1 CCT,CRI,and internal QE for the ${ \\tt B L S : } 1 \\% { \\tt E u } ^ { 2 + }$ $y \\mathsf { C e } ^ { 3 + }$ ， $1 5 \\% \\mathrm { M n } ^ { 2 + }$ （ $( y = 0 . 0 5  – 0 . 3 0 )$ phosphors under the $4 0 0 \\mathrm { n m }$ excitation. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>sample</td><td>CCT(K)</td><td>CRI</td><td>Internal QE (%)</td></tr><tr><td>y=0.05</td><td>21500</td><td>63.3</td><td>53.3</td></tr><tr><td>y=0.10</td><td>13450</td><td>61.5</td><td>47.4</td></tr><tr><td>y=0.15</td><td>7860</td><td>78.3</td><td>50.2</td></tr><tr><td>y=0.20</td><td>6610</td><td>85.3</td><td>54.8</td></tr><tr><td>y=0.25</td><td>6260</td><td>84.1</td><td>61.6</td></tr><tr><td>y=0.30</td><td>6210</td><td>82.2</td><td>60.4</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f45ac98958366f8fe47d008ca8647e118619f0281f4536d5ef77aac7c5389578.jpg",
+        "img_caption": [
+            "Fig.8.Temperature-dependent PL intensities of ${ \\tt B L S : } 1 \\% { \\tt E u } ^ { 2 + }$ $2 5 \\% \\mathrm { C e ^ { 3 + } }$ $1 5 \\% \\mathrm { M n } ^ { 2 + }$ under $4 0 0 \\mathrm { n m }$ excitation.The insets are the CCT(top right) and the CRI(bottom left). "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1931, $u ^ { \\prime }$ and $\\nu ^ { \\prime }$ are chromaticity coordinates in $u ^ { \\prime } v ^ { \\prime }$ uniform color space,O and $t$ are the chromaticity shift at 298K and a given temperature,respectively.As Table2lists,thechromaticity shifts of ${ \\tt B L S : } 1 \\% { \\tt E u } ^ { 2 + }$ ， $2 5 \\% \\mathsf { C e } ^ { 3 + }$ ， $2 5 \\% \\mathrm { M n } ^ { 2 + }$ at $3 7 3 \\mathrm { K }$ and $4 9 8 \\mathrm { K }$ are ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/6b7165e7e10332d34de176ba5471a10021c8a633eeb3f064cb857c17462481b5.jpg",
+        "table_caption": [
+            "Table 2 Chromaticity shifts $( \\Delta E )$ of ${ \\tt B L S : } 1 \\% { \\tt E u } ^ { 2 + }$ = $2 5 \\% \\mathrm { C e } ^ { 3 + }$ $1 5 \\% \\mathrm { M n } ^ { 2 + }$ and commercial white-emitting phosphor mixture at 373 K and $4 9 8 \\mathrm { K } .$ （204号 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Sample</td><td>λex (nm)</td><td>△E373K</td><td>△E 498 K</td></tr><tr><td>BLS:1%Eu2+,25%Ce3+,15%Mn2+</td><td>400</td><td>0.0065</td><td>0.0169</td></tr><tr><td>commercial white-emitting phosphor mixture23</td><td>370</td><td>0.0179</td><td>0.0522</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f5bde961439902c11db96d92636dec93e6306a95b0a15790a5ea7eb7437a4d6.jpg",
+        "img_caption": [
+            "'ig.9.Electroluminescence spectra of the WLED device fabricated using a $3 9 5 \\mathrm { n m }$ NUV-chip and the BLS:Eu2+, $C e ^ { 3 + }$ = $ { \\mathrm { M n } } ^ { 2 + }$ single phosphor. Inset is the photograph of the :orresponding WLED. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "0.0065 and O.0169,respectively,which is only one-third of the commercial white-emitting phosphor mixture at corresponding temperature [23].These results indicate ${ \\tt B L S : } 1 \\% { \\tt E u } ^ { 2 + }$ $2 5 \\% \\mathsf { C e } ^ { 3 + }$ $2 5 \\%$ $\\mathrm { M n } ^ { 2 + }$ isa potential single phosphor for high-quality NUV-based white LEDs. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.9 shows the electroluminescence spectra of the fabricated WLED combining the BLS: ${ \\tt E u } ^ { 2 + }$ ${ \\mathsf { C e } } ^ { 3 + }$ $\\mathsf { M n } ^ { 2 + }$ single phosphor with a 395 nm-NUV chip.White light with a high CRl of 85 is obtained due to the full color emission of this single phosphor. The insert photograph of the WLED givesrise toawhitelightwitha CCTof 6300 K.These results demonstrate the good performance and the applications of the ${ \\mathsf { B L S : E u } } ^ { 2 + }$ ， ${ \\mathsf { C e } } ^ { 3 + }$ ， $\\mathsf { M n } ^ { 2 + }$ single phosphor for the NUV-based WLEDs. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Insummary,we have successfully synthesized a single phase ${ \\mathsf { B L S : E u } } ^ { 2 + }$ 0 ${ \\mathsf { C e } } ^ { 3 + }$ $\\mathsf { M n } ^ { 2 + }$ phosphor by solid-state reactions.The blue, green,and red emission centers were introduced into the BLS host by codoping ${ \\tt E u } ^ { 2 + }$ ${ \\mathsf { C e } } ^ { 3 + }$ and $\\mathsf { M n } ^ { 2 + }$ ,respectively. The ${ \\mathrm { E u } } ^ { 2 + } \\longrightarrow { \\mathrm { M n } } ^ { 2 + }$ ETs were demonstrated by the fluorescence decay curves of ${ \\tt E u } ^ { 2 + }$ The $\\mathsf { M n } ^ { 2 + }$ red emission were effectively enhanced via ETs from both ${ \\tt E u } ^ { 2 + }$ and ${ \\mathsf { C e } } ^ { 3 + }$ . Thus a tunable full color emission was realized in this single phosphor.Moreover, this single phosphor exhibits an efficient excitation band covering from 390 to $4 1 0 \\mathrm { n m }$ ，which matches well with the emission light of the eficient NUV chips. The optimized BLS ${ \\mathrm { E u } } ^ { 2 + }$ ${ \\mathsf { C e } } ^ { 3 + }$ $\\mathsf { M n } ^ { 2 + }$ phosphor shows a high QE of ${ \\sim } 6 2 \\%$ and a good color stability.When this single phosphor was combined with a $3 9 5 \\mathrm { n m }$ NUV-chip,an ideal white LED with a high CRI of 85 and a CCT of 630OK was obtained.The results demonstrate the promising application of the ${ \\tt B L S : E u } ^ { 2 + }$ ， ${ \\mathsf { C e } } ^ { 3 + }$ $\\mathsf { M n } ^ { 2 + }$ single phosphor for the NUV-based white LEDs. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This work is financially supported by the National Natural Science Foundation of China (NSFC11404351, 51402317),Ningbo Municipal Natural Science Foundation (2014A610122)，Ningbo ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Science and Technology Innovation Team (2014B82004),China Postdoctoral Science Foundation (2014M560497,2015T80638), and Zhejiang Provincial Science Fund for Distinguished Young Scholars (LR16E020001). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] E.F. Schubert, J.K. Kim, Solid-state light sources getting smart, Science 308 (2005) 1274-1278.   \n[2] S. Pimputkar, J.S.Speck, S.P. DenBaars, S. Nakamura, Prospects for LED lighting, Nat. Phot0n.34(2009)180-182.   \n[3] H.Daicho,T. Iwasaki, K. Enomoto,Y. Sasaki, Y. Maeno, Y. Shinomiya, S. Aoyagi, E. Nishibori, M. Sakata, H. Sawa, S. Matsuishi, H. Hosono,A novel phosphor for glareless white light-emitting diodes,Nat. Commun.3(2012)1132.   \n[4]J.Y. Tsao,M.H. Crawford,M.E. Coltrin,A.J. Fischer, D.D. Koleske, G.S. Subramania, G.T.Wang, J.J. Wierer, R.F. Karlicek, Toward smart and ultraefficient solid-state lighting, Adv. Opt. Mater.2 (2014) 809-836.   \n[5] J. Meyer, F.Tappe,Photoluminescent materials for solid-state lighting: state of theart and future challenges,Adv. Opt. Mater.3(2014) 424-430.   \n[6] Y. Liu, X. Zhang, Z. Hao, W. Lu, X. Liu, X. Wang, J. Zhang, Crystal structure and luminescence properties of $( \\mathsf { C a } _ { 2 . 9 4 - x } \\mathrm { L u } _ { x } \\mathsf { C e } _ { 0 . 0 6 } ) ( \\mathsf { S c } _ { 2 - y } \\mathsf { M g } _ { y } ) \\mathsf { S i } _ { 3 } \\mathsf { O } _ { 1 2 }$ phosphors for white LEDs with excellent color rendering and high luminous efficiency, J. Phys.D Appl. Phys.44(2011) 075402.   \n[7] Y. Liu, X. Zhang, Z. Hao, Y. Luo, X. Wang, J. Zhang, Crystal structure and luminescence properties of ${ \\mathrm { L u } } ^ { 3 + }$ and $\\mathrm { M g } ^ { \\bar { 2 } \\bar { + } }$ incorporated silicate garnet $\\mathsf { \\Pi } [ \\mathsf { C a } _ { 3 - ( x }$ $\\begin{array} { r } { { \\bf \\Lambda } _ { + 0 \\cdot 0 6 } \\mathrm { L u } _ { x } C \\mathrm { e } _ { 0 . 0 6 } \\big ] ( \\mathrm { S c } _ { 2 - y } \\mathrm { M g } _ { \\mathrm { y } } ) \\mathrm { S i } _ { 3 } \\mathrm { O } _ { 1 2 } , . } \\end{array}$ I. Lumin.132(2012) 1257-1260.   \n[8] X. Zhang, Y. Liu,Z. Hao, Y. Luo,X. Wang,J. Zhang, Yellow emitting $\\mathbf { \\bar { \\rho } } ( \\mathbf { a } _ { 2 } \\mathbf { L u } _ { 1 - x } \\mathbf { C e } _ { x } )$ $( \\mathrm { S c M g } ) \\mathrm { S i } _ { 3 } \\mathrm { O } _ { 1 2 }$ phosphor and itsapplication for white LEDs,Mater. Res. Bull.47 (2012) 1149-1152.   \n[9] P. Schlotter, R. Schmidt, J. Schneider, Luminescence conversion of blue light emitting diodes, Appl. Phy. A 64(1997) 417-418.   \n[10] V. Bachmann, C. Ronda, A. Meijerink, Temperature quenching of yellow $\\mathsf { C e } ^ { 3 + }$ luminescencein YAG:Ce,Chem. Mater.21 (2009) 2077-2084.   \n[11] Y.C.Wu,D.Y.Wang, T.M. Chen, C.S.Lee,K.J. Chen,H.C.Kuo, A novel tunable green-to yellow-emitting $\\mathsf { \\beta { - } Y F S : } \\mathsf { C e } ^ { 3 + }$ phosphor for solid-state lighting, ACS Appl.Mater.Interfaces3(2011)3195-3199.   \n12] T. Suehiro,R.J. Xie, N. Hirosaki,Facile synthesis of $( \\mathrm { S r } , \\mathrm { C a } ) _ { 2 } \\mathrm { S i } _ { 5 } \\mathrm { N } _ { 8 } { : } \\mathrm { E u } ^ { 2 + }$ -based red-emitting phosphor for solid-state lighting, Ind. Eng. Chem. Res.52 (2013) 7453-7456.   \n[13] S.P. Lee, T.S. Chan, T.M. Chen, Novel reddish-orange-emitting $\\mathrm { B a L a _ { 2 } S i _ { 2 } S _ { 8 } { : } E u ^ { 2 + } }$ thiosilicate phosphor for LED lighting, ACS Appl. Mater. Interfaces 7(2014) 40- 44.   \n[14] P. Pust, A.S. Wochnik, E. Baumann, P.J. Schmidt, D. Wiechert, C. Scheu, W. Schnick, $\\mathrm { C a } [ \\mathrm { L i A l } _ { 3 } \\mathrm { N } _ { 4 } ] { \\cdot } \\mathrm { E u } ^ { 2 + }$ a narrow-band red-emitting nitridolithoaluminate, Chem. Mater. 26 (2014) 3544-3549.   \n[15] N. Komuro,M. Mikami, Y. Shimomura, E.G. Bithell, A.K. Cheetham, Synthesis: structure and optical properties of cerium-doped calcium barium phosphatea novel blue-green phosphor for solid-state lighting,J.Mater. Chem. C3 (2015) 204-210.   \n[16] Y. Liu, X. Zhang, Z. Hao, X. Wang, J. Zhang, Tunable full-color-emitting $\\mathrm { C a } _ { 3 } \\mathrm { S c } _ { 2 } \\mathrm { S i } _ { 3 } \\mathrm { O } _ { 1 2 }$ $\\bar { \\mathsf { C e } } ^ { 3 + }$ $\\mathsf { M n } ^ { 2 + }$ phosphor via charge compensation, Chem. Commun. 47(2011) 10677-10679.   \n[17] Y. Liu, X. Zhang, Z. Hao, Y. Luo, X. Wang, J. Zhang, Generating yellow and red emissions by co-doping $ { \\mathrm { M n } } ^ { 2 + }$ to substitute for $\\bar { \\mathsf { C a } } ^ { 2 + }$ and $S { \\mathrm { c } } ^ { 3 + }$ in $\\mathrm { C a } _ { 3 } \\mathrm { S c } _ { 2 } \\mathrm { S i } _ { 3 } 0 _ { 1 2 }$ ${ \\mathsf { C e } } ^ { 3 + }$ green emitting phosphor for white LED applications,J. Mater. Chem. 21 (2011) 16379-16384.   \n[18] Y. Liu,X. Zhang,Z. Hao,X.Wang,J. Zhang, Generation of broadband emission by incorporating $\\mathsf { \\partial _ { N } } ^ { 3 - }$ into $\\mathsf { C a } _ { 3 } \\mathsf { S c } _ { 2 } \\bar { \\mathsf { S i } } _ { 3 } \\mathsf { O } _ { 1 2 } { : } \\mathsf { C e } ^ { 3 + }$ garnet for high rendering white LEDs,J.Mater. Chem. 21 (2011) 6354-6358.   \n[19] X.Li, J.D. Budai, F. Liu, J.Y. Howe,J. Zhang,X.J. Wang, Z. Pan,New yellow Bao.93Euo.o7Al2O4 phosphor for warm-white light-emitting diodes through single-emitting-center conversion, Light Sci. Appl. 2 (2013) e50.   \n[20] M.Shang, C.Li,J.Lin, How to produce white light in a single-phase host? Chem. Soc. Rev.43 (2014) 1372-1386.   \n[21] W. Li, Y. Jia, Q. Zhao,W. Lv, H. You, Design of a luminescence pattern via altering the crystal structure and doping ions to create Warm white LEDs, Chem. Commun. 50 (2014) 2635-2637.   \n[22] J. Qiao,J. Zhang, X. Zhang,Z.Hao,Y.Liu, Y. Luo,The energy transfer and effect of doped $\\mathrm { { \\dot { M } g ^ { 2 + } } }$ n $\\mathrm { C a _ { 3 } S c _ { 2 } S i _ { 3 } O _ { 1 2 } } \\mathrm { : } \\mathrm { C e } ^ { 3 + }$ $\\mathrm { P r } ^ { 3 + }$ phosphor for white LEDs, Dalton Trans. 43 (2014) 4146-4150.   \n[23] X. Zhang,H.Lin,F. Pan,M.Wu,J.Wang, Y. Chen, Q.Su,Highly thermally stable single-component white-emitting silicate glass for organic-resin-free whitelight-emitting diodes, ACS Appl. Mater. Interfaces 6 (2014) 2709-2717.   \n[24] X. Zhang, J. Yu,J. Wang, C. Zhu, J. Zhang, R. Zou, B. Lei, Y. Liu,M. Wu, Facile preparation and ultrastable performance of single-component white-lightemitting phosphor-in-glass used for high-power warm white LEDs,ACS Appl. Mater. Interfaces7 (2015) 28122-28127.   \n[25] P. Dai, C.Li, X. Zhang,J. Xu, X. Chen, X. Wang, Y.Jia, X.Wang, Y. Liu, A single-Eu² +-activated high-color-rendering oxychloride white-light phosphor for whitelight-emitting diodes, Light Sci. Appl. 5 (2016) e16024.   \n[26] J.S. Kim,P.E. Jeon, J.C. Choi, H.L. Park, S.I. Mho, G.C. Kim,Warm-white-light emitting diode utilizing a single-phase full-color $\\mathrm { B a _ { 3 } M g S i _ { 2 } O _ { 8 } }$ ： ${ \\tt E u } ^ { 2 + }$ $\\mathsf { M n } ^ { \\bar { 2 } + }$ phosphor, Appl. Phys. Lett. 84 (2004) 2931-2933.   \n[27] K.H. Lee, S. Choi, H.K. Jung,W.B. Im, Bredigite-structure $\\mathrm { C a } _ { 1 4 } \\mathrm { M g } _ { 2 } [ \\mathrm { S i O } _ { 4 } ] _ { 8 } { : } \\mathrm { E } \\iota$ $\\mathrm { E u } ^ { 2 + }$ $\\mathrm { M n } ^ { 2 + }$ ：a tunable green-red-emiting phosphor with efficient energy transfer for solid-state lighting, Acta Mater. 60 (2012) 5783-5790.   \n[28] W.Lv,W.Li,N. Guo,Y.Jia, Q. Zhao,M.Jiao,B.Shao,H.You,Crystal structure and luminescent properties of a novel high efficiency blue-orange emitting $\\mathrm { N a C a _ { 2 } L u S i _ { 2 } O _ { 7 } F _ { 2 } } \\colon$ $\\mathsf { \\bar { C } e } ^ { 3 + }$ $ { \\mathrm { M n } } ^ { 2 + }$ phosphor for ultraviolet light-emitting diodes, Dalton Trans. 42 (2013)13071-13077.   \n[29]M. Jiao, Y. Jia,W.Lii,W. Lv, Q. Zhao,B. Shao,H. You, A single-phase whiteemitting $\\bar { \\mathrm { C a _ { 2 } S r A l _ { 2 } O _ { 6 } ; C e ^ { 3 + } } }$ ${ \\mathrm { L i } } ^ { + }$ $ { \\mathrm { M n } } ^ { 2 + }$ phosphor with energy transfer for UVexcited WLEDs,Dalton Trans.43 (2014) 3202-3209.   \n[30] J. Chen, Y. Liu,M.Fang,Z. Huang,Luminescence properties and energy transfer of Eu/Mn-coactivated $\\mathrm { M g } _ { 2 } \\mathrm { A l } _ { 4 } \\mathrm { S i } _ { 5 } \\mathrm { O } _ { 1 8 }$ as a potential phosphor for white-light LEDs,In0rg. Chem. 53(2014) 11396-11403.   \n[31] L. Bian, T.L. Zhou, J.J. Yang, Z. Song, Q.L. Liu, Crystal structure and photoluminescence of $( \\mathrm { B a } _ { 1 - x - y } \\mathrm { S r } _ { y } \\mathrm { E u } _ { x } ) _ { 9 } \\mathrm { S c } _ { 2 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 2 4 } , \\mathrm { J } .$ Lumin. 132 (2012) 2541-2545.   \n[32] J. Brgoch, C.K. Borg, K.A. Denault, S.P. DenBaars, R. Seshadri, Tuning luminescent properties through solid-solution in $( \\mathsf { B a } _ { 1 - x } \\mathsf { S r } _ { x } ) _ { 9 } \\mathsf { S c } _ { 2 } \\mathsf { S i } _ { 6 } \\bar { \\mathsf { O } } _ { 2 4 } ; \\mathsf { C e } ^ { 3 + } ,$ Li+, Solid State Sci. 18 (2013) 149-154.   \n[33] Y. Kim, S. Park, Preparation and luminescent properties of Eu-substituted barium-yttrium orthosilicate phosphors, Opt.Mater. 36 (2013) 458-462.   \n[34] Y. Kim,S. Park, ${ \\mathrm { E u } } ^ { 2 + }$ $\\mathrm { M n } ^ { 2 + }$ co-doped $\\mathrm { B a _ { 9 } Y _ { 2 } S i _ { 6 } O _ { 2 4 } }$ phosphors based on near-UVexcitable LED lights,Mater. Res. Bull. 49 (2014) 469-474.   \n[35] S. Park, $\\mathrm { C e } ^ { 3 + } { - } \\mathrm { M } \\mathrm { \\bar { n } } ^ { 2 + }$ cooperative $\\mathrm { B a _ { 9 } Y _ { 2 } S i _ { 6 } O _ { 2 4 } }$ orthosilicate phosphors, Mater. Lett. 135 (2014) 59-62.   \n[36] L. Bian, C.W. Liu, J. Gao, X.P. Jing, Energy transfer and color tuning in the $\\mathrm { B a _ { 9 } S c _ { 2 } S i _ { 6 } O _ { 2 4 } } ; \\mathrm { C e } ^ { 3 + }$ $\\mathrm { E u } ^ { 2 + }$ $\\mathrm { M n } ^ { 2 + }$ phosphor, RSC. Adv.5 (2015) 69458-69465.   \n[37] Y. Liu, J. Zhang, C. Zhang, J. Xu, G. Liu, J. Jiang,H. Jiang, $\\mathrm { B a _ { 9 } L u _ { 2 } S i _ { 6 } O _ { 2 4 } } \\mathrm { ; C e ^ { 3 + } }$ :an efficient green phosphor with high thermal and radiation stability for solidstate lighting, Adv. Opt. Mater.3 (2015) 1096-1101.   \n[38]K. Song, J. Zhang, Y. Liu, C. Zhang, J. Jiang,H. Jiang, H.B. Qin, A red-emitting phosphor $\\mathrm { B a _ { 9 } L u _ { 2 } S i _ { 6 } O _ { 2 4 } } \\mathrm { : } \\mathrm { C e } ^ { 3 + }$ $\\mathsf { M n } ^ { 2 + }$ with enhanced energy transfer via selfcharge compensation, J. Phy. Chem. C 119 (2015) 24558-24563.   \n[39]L.H. Wang, L.F. Schneemeyer, R.J. Cava, T. Siegrist, A new barium scandium silicate: $\\mathrm { { B a } _ { 9 } { S c } _ { 2 } ( \\mathrm { { S i O } _ { 4 } ) _ { 6 } } }$ J. Solid State Chem.113(1994) 211-214.   \n[40] R.T. Shannon, Revised effective ionic radii and systematic studies of interatomic distances in halides and chalcogenides,Acta Cryst.A 32 (1976) 751-767.   \n[41] D.T. Palumbo,J.J. Brown, Electronic states of $\\mathrm { M n } ^ { 2 + }$ -activated phosphors: I. green-emitting phosphors, J. Electrochem. Soc.117(1970) 1184-1188.   \n[42] Y. Zhang, X.Li,K.Li,H.Lian,M.Shang,J.Lin, Crystal-site engineering control for the reduction of $\\mathrm { E u } ^ { 3 + }$ to ${ \\mathrm { E u } } ^ { 2 + }$ in $\\mathrm { C a Y A l O _ { 4 } }$ : structure refinement and tunable emission properties,ACS Appl. Mater. Interfaces 7 (2015) 2715-2725.   \n[43] T.C. Ozawa, K. Fukuda, K. Akatsuka, Y. Ebina, T. Sasaki,Preparation and characterization of the ${ \\mathrm { E u } } ^ { 3 + }$ doped perovskite nanosheet phosphor: $\\mathrm { L a } _ { 0 . 9 0 } \\mathrm { E u } _ { 0 . 0 5 } \\mathrm { N b } _ { 2 } \\mathrm { O } _ { 7 } ,$ Chem. Mater.19(2007) 6575-6580.   \n[44] Y. Liu, X. Zhang, Z. Hao, Y. Luo, X. Wang, L. Ma, J. Zhang, Luminescence and energy transfer in $\\mathrm { C a } _ { 3 } \\mathrm { S c } _ { 2 } \\mathrm { S i } _ { 3 } \\mathrm { O } _ { 1 2 } \\mathrm { : C e } ^ { 3 + }$ $\\mathrm { M } \\mathrm { \\bar { n } } ^ { 2 + }$ white LED phosphors,J. Lumin.133 (2013) 21-24.   \n[45] X. Zhang, J. Wang, L. Huang, F.Pan, Y. Chen, B. Lei, M. Peng, M.Wu, Tunable luminescent properties and concentration-dependent: site-preferable distribution of $\\bar { \\mathrm { E u } ^ { 2 + } }$ ions in silicate glass for white LEDs applications, ACS Appl. Mater. Interfaces 7 (2015) 10044-10054. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

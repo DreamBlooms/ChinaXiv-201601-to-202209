@@ -1,0 +1,164 @@
+# 浑善达克沙地杨树水分利用特征
+
+苏文旭，贾德彬，冯蕴，张雨强（内蒙古农业大学水利与土木建筑工程学院，内蒙古 呼和浩特010018)
+
+摘要：为探究浑善达克沙地杨树的水分利用特征。本文利用氢和氧同位素示踪技术,测定了降雨、土壤水与地下水的 $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \boldsymbol { 0 }$ 值,利用多元线性混合模型定量计算了杨树对不同土层土壤水分的利用比例。结果表明： $\textcircled{1}$ 浑善达克沙地大气降雨方程线为： ${ \hat { \bf 8 } } \mathrm { D } _ { \mathrm { L W M L } } = 7 . 8 4 { \hat { \bf 8 } } ^ { 1 8 } \mathrm { O } _ { \mathrm { L W M L } } + 9 . 1 2$ ,斜率比全国降雨方程偏小,体现了研究区降雨少,蒸发大的气候特征； $\textcircled{2}$ 土壤含水量与地下水位埋深、降雨量、植物生长期的变化有着显著的相关关系。降雨量较大与地下水位埋深较浅的时期,土壤含水量明显增大,在植物生长前期和中期,土壤含水量明显较低; $\textcircled{3}$ 杨树在雨季,利用了大量的浅层土壤水( $\mathrm { ( 0 \sim 4 0 ~ c m ) }$ ,在较为干旱的旱季,利用了大量的深层土壤( $1 6 0 \sim 2 0 0 ~ \mathrm { c m }$ )水与少量的地下水。
+
+关键词：杨树；水分来源；同位素；多元线性混合模型；浑善达克沙地
+
+干旱半干旱地区水资源是影响植物生长和生存的主要因子[],大气降水渗入到土壤后，水分主要依靠土壤蒸发和植物吸收土壤水发生蒸腾等消耗[2],由于植物根系在土壤中吸收水分时不发生同位素分馏，所以，氢和氧稳定同位素技术成为了研究植物水分来源的主要手段之一[3-4]。植物在吸收浅层土壤水时所消耗的能量较少，当浅层土壤水含水量充足时植物会优先吸收浅层土壤水[5]。近年来，张欢等研究表明杨树在退化过程中吸水层位逐渐变浅，导致浅层土壤含水量降低，致使浅层土壤水无法满足杨树的生理需求,加速了杨树的退化[6]。杨爱国等通过旱季和雨季杨树水分利用的不同表明，在雨季杨树主要利用浅层土壤水，而旱季杨树则会利用更多的深层土壤水和地下水[7]。此外,还有许多学者利用稳定氢氧同位素技术对不同树龄植物的吸水来源进行了分析，发现随着植物树龄的增长，植物的吸水层位由浅层土壤水逐渐转变为深层土壤水与地下水[8-I]。余绍文等对黑河中游戈壁地区植物吸水来源进行了分析，发现泡泡刺和红砂在生长过程中主要利用了 $1 8 5 ~ \mathrm { c m }$ 深度以下的土壤水，两种植物的生长主要依靠稳定的潜水水源[12]。李惠等通过对棉花不同生育期的吸水来源进行研究得出，棉花随着生育期时间的变化，吸水层位有着由浅变深的规律[13]
+
+本文以浑善达克沙地腹地的杨树林为研究对象，通过分析林地内降水、植物茎干水和土壤水的分布特征，研究植物在不同时期吸水来源的时空变异，探究了植物在干旱环境条件下为应对长期的水分胁迫，与植物在其他环境条件下水分利用方式的差异。掌握当地杨树的吸水来源与水分利用策略，以期为浑善达克沙地生态修复提供参考依据。
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+研究区位于内蒙古中部的浑善达克沙地（图1),是距离北京最近的沙地源。浑善达克沙地气候属中温带大陆性季风气候，年平均气温为 $3 . 9 \ \mathrm { { ^ circ C } } \ , 1$ 月份平均气温 $- 1 7 . 8 \mathrm { ~ } \mathrm { } ^ { \circ } \mathrm { C } \mathrm { ~ , 7 ~ }$ 月份平均气温 $2 2 . 2 ~ \mathrm { { ^ { \circ } C } }$ ，极端最高气温 $3 3 . 7 ~ \mathrm { ^ { \circ } C }$ ,极端最低气温 $- 3 2 . 6 \mathrm { ~ \textdegree C }$ ，春季干旱多风,夏季凉爽。全年降雨量为 $3 9 6 ~ \mathrm { m m }$ ，而且降雨主要集中在7一9月份，约占全年降雨量的$8 0 \% \sim 9 0 \%$ ，月平均湿度 $5 1 . 8 \%$ 0
+
+# 1.2 野外采样方法
+
+本实验的取样时间为2018年5—10月。每月进行1次树木枝条、土壤与地下水的取样，在8月份雨季分别收集雨前、雨中和雨后的树木枝条与周围土壤。为了防止积水对采样的影响，在一块平坦的树林中选取3株长势良好且相似，没有人工干扰的杨树，采集已经栓化的其长度约为 $5 \ \mathrm { c m }$ 的枝条，将其外皮和韧皮部去除，留出枝条木质部分，放入采样瓶中用Parafilm封口膜封口，迅速放入携带的便携式冰箱中，防止水分蒸发。在所选取样地中被选中杨树附近直径约 $1 \mathrm { ~ m ~ }$ 的地点进行土壤取样,用取土钻(Rhino S1专业土壤取样钻机)钻取总深度为$2 0 0 \ \mathrm { c m }$ ,分成7层 $( 0 \sim 2 0 \ : . 2 0 \sim 4 0 \ : . 4 0 \sim 6 0 \ : . 6 0 \sim 8 0 \$ $8 0 \sim 1 2 0 \ . 1 2 0 \sim 1 6 0 \ . 1 6 0 \sim 2 0 0 \ \mathrm { c m } )$ 进行土样采集，采集的土壤分成两部分，一部分用密封袋密封及时用冰箱冷藏带回实验室，另一部分放入铝盒中带回实验室测其含水率。在当地育草站内用漏斗和样品瓶来收集降水并记录降水日期，为防止水分蒸发，在漏斗上方放入一个乒乓球，收集完后迅速用Parafilm封口膜封口。在杨树林附近的一口地下水井中用自制的取水工具取 $3 0 \sim 5 0 ~ \mathrm { m L }$ 地下水放入取样瓶中，并且每次记录地下水位。上述采集的样品，为避免水分蒸发，均用锡箔纸包好放在 $- 2 0 \ \mathrm { ^ { \circ } C }$ 冰箱中冷藏，直至同位素测定。2018年每日气象数据向当地气象站收集（图2）。
+
+![](images/095c6580243bf78c600fa8c8a91cc1c07d778795024bcac7d067a4b46ac9322c.jpg)  
+图1正蓝旗高程图  
+Fig.1Zhenglan flag elevation map
+
+# 1.3样品的测定及数据分析
+
+1.3.1土壤水、枝条水的抽提与同位素值的测定土壤和枝条中的水分抽提与同位素值的测定于2018年11月在内蒙古水资源保护与利用重点实验室进行。利用真空低温蒸馏法[14],使用LI－2000植物水和土壤水真空抽取系统进行水分抽提。抽提出来的土壤和植物中的水、地下水与降水使用液态水同位素分析仪（DLT-100，LGR公司，USA）进行$8  { \mathrm { D } } . 8 ^ { 1 8 }  { \mathrm { O } }$ 值的测定。氢氧同位素比值 $ { 8 \mathrm { D } }  { \Omega }  { \mathfrak { s } } ^ { 1 8 } 0$ 是以相对于VSMOW的千分率 $( \text{‰}$ 计算得出，测试精度分别为 $0 . 3 0 \text{‰}$ 和 $0 . 1 0 \text{‰}$ ，公式为：
+
+![](images/fbba09a55f430082a82125dae13e29be230b93a5d46b363117c8849df22f660d.jpg)  
+图22018年降雨量、温度随时间的变化  
+Fig.2Changes of rainfall and temperature over time in 2018
+
+$$
+\hat { \boldsymbol { \delta } } _ { \mathrm { s a } } = \big [ (  { R _ { \mathrm { s a } } } -  { R _ { \mathrm { s t } } } ) /  { R _ { \mathrm { s t } } } \big ] \times 1 \ 0 0 0 \%
+$$
+
+式中： $\delta _ { \mathrm { { s a } } }$ 为8D或 $8 ^ { 1 8 } 0$ 值； $R _ { \mathrm { s a } }$ 与 $R _ { \mathrm { s t } }$ 分别代表样品和VSMOW中的 $\mathrm { ~ D ~ }$ 与 $^ { 1 8 } 0$ 浓度。
+
+1.3.2土壤含水率与植物水分利用率的计算土壤含水率采用称重法测定[15]。将采集回来的土样先测其湿重，再将土壤放入 $1 0 5 ~ \mathrm { ^ { \circ } C }$ 烘箱中烘干 $1 2 \mathrm { ~ h ~ }$ 然后再次称其质量。
+
+$$
+w = \left[ \left( m - m _ { \mathrm { s } } \right) / m _ { \mathrm { s } } \right] \times 1 0 0 \%
+$$
+
+式中： $w$ 为土壤含水率; $m$ 为土壤湿重； $m _ { \mathrm { s } }$ 为土壤干重。
+
+植物水分利用率的定量计算利用Phillips 等[16]提出的多元混合线性模型（IsoSource模型），不同土壤深度和各潜在水源的相对贡献率表示为：
+
+$$
+X _ { t } = c _ { 1 } \chi _ { 1 } + c _ { 2 } \chi _ { 2 } + c _ { 3 } \chi _ { 3 } + \cdots + c _ { n } \chi _ { n }
+$$
+
+$$
+c _ { 1 } + c _ { 2 } + c _ { 3 } + \cdots + c _ { n } = 1
+$$
+
+式中： $X _ { t }$ 表示植物茎干水的 $^ { 1 8 } 0$ 值； $c _ { n }$ 表示第 $n$ 个潜在水源对植物茎干水的贡献率 $\smash { \mathsf { \Omega } _ { 3 } } \chi _ { n }$ 表示第 $n$ 个潜在水源的 $^ { 1 8 } 0$ 值。
+
+# 2结果与分析
+
+# 2.1 降水及土壤水、植物水同位素特征
+
+大气降雨方程是大气降雨中SD 和 $\mathfrak { F } ^ { 1 8 } \mathrm { O }$ 之间的相关关系，其对水循环演变过程的研究有着重要的意义[17]。Craig[18]1961年首先提出了全球大气降雨方程线（GWML):8DcwmL =8818OcwmL +10,郑淑蕙等[19]根据全国8个站台107个降雨中的8D 和 $\delta ^ { 1 8 } \mathrm { O }$ 值研究出我国的大气降雨方程线： $\mathrm { \hat { \delta D } } = 7 . 9 \delta ^ { 1 8 } \mathrm { O } + 8 . 2 \$ 0
+
+根据2018年4一10月采集的降水、土壤水与植物水绘制出了研究区大气降雨方程线（LWML）：$ { \mathtt { \delta D } } _ { \mathrm { L W M L } } = 7 . 8 4  { \delta } ^ { 1 8 } \mathrm { O } _ { \mathrm { L W M L } } + 9 . 1 2$ （ $R ^ { 2 } = 0 . 9 7 9 \ 5 \ \mathrm { , }$ （图3）。在降雨期间测得降雨8D值在 $- 1 1 . 3 9 \text{‰}$ \~$- 1 4 5 . 5 7 \% o$ 之间变化， $\textup { \ r { 8 } } ^ { 1 8 } \textup { 0 }$ 值在 $- 2 . 4 7 \% o$ \~$- 1 9 . 6 1 \% o$ 之间变化。与全球降雨方程线相比，区域降雨方程线斜率偏小，土壤水与植物水的 8D、$\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \mathbf { 0 }$ 值均分布在区域降雨方程线下方,植物水的 SD和 $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \boldsymbol { 0 }$ 值围绕土壤水分布。笔者将采集4—10 月的降雨与降雨中氧稳定同位素比率进行比较，由图4可以看出，降雨中氧稳定同位素比率变化范围较大，介于 $- 1 9 . 5 8 \% o \sim - 6 . 5 4 \%$ 之间，并且出现明显的季节性变化,春初(4月) $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \boldsymbol { 0 }$ 值最小 $\mathrm { ~ ( ~ - 1 9 . 5 8 \% o ) }$ ，夏季(8月)达到最大值 $( \ : - 6 . 5 4 \% o )$ 。
+
+# 2.2不同季节土壤含水率变化特征
+
+土壤水分在水文循环和干旱持续性监测中起着至关重要的作用。土壤水分变化受多种因素的影响，气候的季节性变化是土壤水分变化的主要驱动力，降水是水分平衡的主要输入源，可直接影响土壤水分，受温度控制的蒸发蒸腾作用间接影响着土壤
+
+![](images/1a6c93fcbed89f50953a0afb82ad3df9a3b9d04ac84f253e9ff0c50f7a6fa394.jpg)  
+图3浑善达克沙地大气降水线及雨水、土壤水、植物水的8D和 $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \mathrm { O }$ 值的分布特征  
+Fig.3Distribution characteristics of SD and $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \boldsymbol { 0 }$ values of atmospheric precipitation line and rain，soil water and plant water in Otindag Sandy Land   
+图4研究区降雨量的分布及降水 $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \boldsymbol { 0 }$ 值的季节性变化特征  
+Fig.4Distribution of rainfall in the study area and seasonal variation of precipitation $\mathfrak { F } ^ { 1 8 } \mathrm { O }$ value
+
+降雨量-降雨同位素比率 200 0 153.3 160 -9.08 -6.54 -5   
+uu/鲁塑专 120 12.25 -10.45 -15.61 -1   
+降 80 -19.58 39.4 49.7 70.7 54.2 -17.66 -20 -25 40 14.5 -30 5.5 0 血 □ -35 4 5 6 7 8 9 10 月份
+
+水分[20] 。
+
+本文研究了不同季节不同土壤深度研究区土壤含水率的变化特征。在试验期间2018年4一10月每月采集不同土壤深度的土壤样品，利用烘干法测得土壤含水率,从表1可以看出，在植物生育期(4—8月)土壤含水率最大值均在 $1 2 0 \ \mathrm { c m }$ 以下土壤层，而 $0 \sim 4 0 ~ \mathrm { c m }$ 土壤含水率均较小,即使在降雨最集中的8月份， $0 \sim 2 0 \ \mathrm { c m } \ . 2 0 \sim 4 0 \ \mathrm { c m }$ 土壤含水率也只有 $7 . 1 5 \%$ 与 $6 . 9 5 \%$ ,根据每月测得的地下水位埋深可知，研究区地下水位只有 $3 \sim 4 \mathrm { ~ m ~ }$ 深，这是因为深层土壤水接近于地下水位，而植物处于生长期,需水量较大，这时深层土壤水将通过毛细水的上升来补给深层土壤水，导致深层土壤水含水量较大；从王壤含水率层位来看， $0 \sim 4 0 ~ \mathrm { c m }$ 土壤层含水率变化浮动较大,最小值出现在4月 $( 4 . 0 4 \%$ )，最大值出现在9月（ $1 3 . 4 3 \%$ )；而深层土壤含水率( $1 6 0 \sim 2 0 0$ cm)变化较小，介于 $9 . 7 1 \% \sim 1 3 . 5 2 \%$ 之间。在降雨较多的8月， $0 \sim 8 0 ~ \mathrm { c m }$ 土壤层含水率显著增加，但在 $8 0 \ \mathrm { c m }$ 以下土壤层，土壤含水率并没有明显增加，这说明大气降水并没有补给到 $8 0 ~ \mathrm { c m }$ 以下王壤层。
+
+表1不同季节不同土壤深度土壤含水率  
+Tab.1Soil moisture content of different soil depths in different seasons   
+
+<html><body><table><tr><td rowspan="2">土壤深度/cm</td><td colspan="7">土壤含水率/%</td></tr><tr><td>4月</td><td>5月</td><td>6月</td><td>7月</td><td>8月</td><td>9月</td><td>10月</td></tr><tr><td>0~20</td><td>5.64</td><td>7.44</td><td>8.36</td><td>8.19</td><td>7.15</td><td>13.43</td><td>10.48</td></tr><tr><td>20~40</td><td>4.94</td><td>5.57</td><td>7.16</td><td>7.43</td><td>6.95</td><td>11.92</td><td>10.78</td></tr><tr><td>40~60</td><td>9.24</td><td>11.54</td><td>5.47</td><td>10.67</td><td>10.02</td><td>13.07</td><td>10.73</td></tr><tr><td>60~80</td><td>11.87</td><td>10.75</td><td>6.58</td><td>9.74</td><td>11.06</td><td>10.78</td><td>11.32</td></tr><tr><td>80~120</td><td>12.82</td><td>9.09</td><td>7.68</td><td>7.81</td><td>9.27</td><td>9.78</td><td>8.29</td></tr><tr><td>120 ~160</td><td>7.55</td><td>9.85</td><td>10.46</td><td>10.74</td><td>7.44</td><td>10.12</td><td>9.42</td></tr><tr><td>160~200</td><td>13.52</td><td>12.75</td><td>9.71</td><td>12.07</td><td>10.59</td><td>12.14</td><td>9.90</td></tr></table></body></html>
+
+为了探究降雨对研究区各层土壤含水量的影响，笔者在降雨集中的8月份采集了降雨前，与降雨后3d的土壤水进行分析（图5）。从图5可以看出，雨前各层土壤含水量均小于雨后各层土壤含水量。雨后 $2 \ \mathrm { d } , 0 \sim 4 0 \ \mathrm { c m }$ 土壤含水量没有显著增加,雨后 $3 \ \mathrm { d } , 4 0 \sim 1 2 0 \ \mathrm { c m }$ 土壤含水率都显著增加，而$1 2 0 \sim 1 6 0 ~ \mathrm { c m }$ 土壤含水量却没有显著增加,说明降雨入渗需要一定的过程，杨树又处于生长旺期，连续的干旱天气使得杨树为了维持生长而吸收了大量浅层土壤水和部分深层土壤水， $1 6 0 \ \mathrm { c m }$ 以下王壤含水量较高，是受到了地下水的补给。
+
+![](images/6891fefbce6aecd59a86a9cde147f9b2ed97d324088ea96ff9f3de519b789dc2.jpg)  
+图5雨前、雨后土壤含水率变化特征 Fig.5Characteristics of soil moisture content before and after rain
+
+# 2.3杨树主要吸水来源的判断
+
+将植物茎干水 $\delta ^ { 1 8 } \mathrm { O }$ 值与不同深度土壤层和地下水的氧同位素比率进行比较，可直接判断出杨树的主要吸水层位与吸水来源[2I]。利用该方法的重要前提是,不同潜在水源间 $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \mathrm { O }$ 值存在显著性差异[22]。本研究中，各潜在水源 $\delta ^ { 1 8 } \mathrm { O }$ 值存在显著性差异,所以，可以直接用对比法来判断植物吸水来源。
+
+将不同采样日期不同土壤深度的土壤水与植物茎干水和地下水进行比较(图6），4月25日，植物茎干水与 $2 0 \sim 4 0 \ \mathrm { c m }$ 土层的土壤水有一个交点，而且与 $1 4 0 \sim 1 6 0 ~ \mathrm { c m }$ 土壤层的土壤水接近(图6a），这说明植物在生长过程中吸收了该土壤层位的水。5月24日，植物茎干水与 $4 0 \sim 6 0 \ \mathrm { c m }$ 土层的土壤水有交点，而土壤水在深 $2 0 0 \ \mathrm { c m }$ 处与地下水有交点（图6b)，这表现出深层土壤水受到了地下水的补给，植物生长吸收了 $4 0 \sim 6 0 \ \mathrm { c m }$ 土层处的土壤水;6月21日、7月15日2次采集样品的氧同位素比率具有相同的趋势，植物茎干水都与 $0 \sim 4 0 ~ \mathrm { c m }$ 土层的土壤水有交点，而 $\mathrm { > 4 0 ~ c m }$ 土层的土壤水与地下水的 $\mathfrak { d } ^ { 1 8 } \mathrm { O }$ 值十分接近（图6c，6d），这表明，随着气温的升高，土壤水的蒸腾作用增大，导致地下水通过毛细水的上升补给了深层土壤与部分浅层土壤，而植物吸收了 $0 \sim 4 0 ~ \mathrm { c m }$ 土层处的土壤水;8月9日，植物茎干水与 $2 0 \sim 4 0 ~ \mathrm { c m }$ 土层的土壤水有交点，并且与 $\mathrm { > 4 0 ~ c m }$ 土层的土壤水较为接近(图6e），这是因为采样前3d出现了连续的降雨，8月份正值植物的生长旺期，而且植物和土壤的蒸腾作用强烈，浅层土壤水已经不能满足植物的生长需求，植物吸收了深层土壤水来作为补给;9月21日、10月21日，植物茎干水与$2 0 \sim 4 0 ~ \mathrm { c m }$ 土层的土壤水有交点，而且与 $2 0 0 \ \mathrm { c m }$ 土层的土壤水也有交点（如图 $\operatorname { 6 f } , 6 \mathrm { g }$ )，这表明随着降雨量的减少，植物不得不吸收深层土壤水来维持生长。
+
+综上所述，每个季节的植物都吸收了浅层土壤水，但是有的时间土壤水却与植物茎干水有多个交点或同时又与地下水有交点，所以，直接判断法不能完全分析出杨树的吸水来演，还需要用模型来进一步定量分析杨树的水分来源。
+
+# 2.4不同季节杨树水分来源的定量分析
+
+将不同采样日期的植物茎干水和不同土层$( 0 \sim 4 0 \mathrm { ~ } . 4 0 \mathrm { ~ } \sim 8 0 \mathrm { ~ } . 8 0 \mathrm { ~ } \sim 1 2 0 \mathrm { ~ } . 1 2 0 \mathrm { ~ } \sim 1 6 0 \mathrm { ~ } . 1 6 0 \mathrm { ~ } \sim 2 0 0 \mathrm { ~ c m } )$ （204号的土壤水与地下水的 $\delta ^ { 1 8 } 0$ 值输入Iso-source 模型中，计算杨树对不同水分来源的利用率。如表2所示，4一8月杨树主要吸收了表层土壤水，水分利用率分别为 $8 4 \% . 7 9 \% . 9 2 \% . 9 1 \%$ 和 $87 \%$ ,说明这一阶段杨树的生长主要利用了 $0 \sim 4 0 ~ \mathrm { c m }$ 的土壤水,4、5月份植物处于生长前期,植物需水量较小,这说明在这一阶段浅层土壤水足以供给植物的生长。6—8月降雨比较集中，降雨量大，大量的雨水补给到浅层土壤用来供给植物的生长，随着降雨量的减少，在9月份杨树对 $0 \sim 4 0 \ \mathrm { c m } \ . 4 0 \sim 8 0 \ \mathrm { c m }$ 土层的土壤水分利用率分别为 $3 0 \% . 3 7 \%$ ，在这一阶段，杨树的吸水层位由浅层土壤逐渐向深层土壤转变，而在干旱少雨的10月份，浅层土壤水不足以供给植物的生长，所以，杨树的生长利用了深层的土壤水( $1 6 0 \sim 2 0 0$ cm），水分利用率为 $87 \%$ ,这说明杨树在吸收水分来源方面表现出显著的季节性差异。
+
+# 3结论
+
+（1）浑善达克沙地大气降雨方程线为：${ \delta \mathrm { D } _ { \mathrm { L W M L } } = 7 . 8 4 8 } ^ { 1 8 } \mathrm { O _ { L W M L } } + 9 . 1 2$ ,与全国大气降雨方程
+
+![](images/ce6008eb670ce81d6b9c6388f1acf9ac48dead443277a4e92390e97400d15929.jpg)  
+图6不同采样日期杨树样地土壤水、茎干水与地下水 $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \boldsymbol { 0 }$ 值的比较
+
+Fig.6Comparison of $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \mathrm { O }$ values of soil water，stem water and groundwater in poplar plots at different sampling dates线相比斜率偏小，植物与土壤水的 $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \boldsymbol { 0 }$ 值均在区域降雨方程线下方，表明在强烈蒸发的影响下，土壤水中的氧同位素组成发生富集作用，这符合干旱半干旱地区降雨少，蒸发强的大陆性季风气候特点。大气降雨氧稳定同位素比率变化范围较大，介于$- 1 9 . 5 8 \% o \sim - 6 . 5 4 \%$ 之间，春初(4月) $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \boldsymbol { 0 }$ 值最小$\mathrm { ~ ( ~ - 1 9 . 5 8 \% o ~ ) ~ }$ ，夏季(8月)达到最大值 $( \mathrm { ~ - 6 . 5 4 \% o } )$ ，表现出了明显的季节性变化特征。
+
+表2不同日期不同水分来源的水分利用率  
+Tab.2 Water use efficiency of different water sources on different dates   
+
+<html><body><table><tr><td rowspan="2">水分 来源</td><td rowspan="2">土壤深度 /cm</td><td colspan="7">日期/月-日</td></tr><tr><td>04-25</td><td>05-24</td><td>06-21</td><td>07-15</td><td>08-04</td><td>09-21</td><td>10-21</td></tr><tr><td rowspan="5">土壤水</td><td>0~40</td><td>0.84 (0.71~0.92)</td><td>0.79 (0.73~0.84)</td><td>0.92 (0.91~0.93)</td><td>0.91 (0.91~0.92)</td><td>0.87 (0.65~0.96)</td><td>0.30 (0~0.91)</td><td>0.03 (0~0.36)</td></tr><tr><td>40~80</td><td>0.02</td><td>0.05</td><td>0.01</td><td>0.02</td><td>0.01</td><td>0.37</td><td>0.01</td></tr><tr><td>80~120</td><td>(0~0.12) 0.03</td><td>(0~0.21) 0.04</td><td>(0~0.06) 0.01</td><td>(0~0.05) 0.02</td><td>(0~0.05) 0.01</td><td>(0~0.85) 0.03</td><td>(0~0.06) 0.01</td></tr><tr><td>120~160</td><td>(0~0.13) 0.06</td><td>(0~0.2) 0.06</td><td>(0~0.06)</td><td>(0~0.09)</td><td>(0~0.05)</td><td>(0~0.15)</td><td>(0~0.06)</td></tr><tr><td>160 ~200</td><td>(0~0.29) 0.03</td><td>(0~0.26) 0.03</td><td>0.02 (0~0.08) 0.02</td><td>0.02 (0~0.09)</td><td>0.01 (0~0.06)</td><td>0.14 (0~0.65)</td><td>0.02 (0~0.08)</td></tr><tr><td>地下水</td><td></td><td>(0~0.14) 0.01</td><td>(0~0.16) 0.03</td><td>(0~0.09) 0.02</td><td>0.03 (0~0.08) 0.01</td><td>0.09 (0~0.35) 0.01</td><td>0.10 (0~0.44)</td><td>0.84 (0~0.95)</td></tr><tr><td></td><td></td><td>(0~0.17)</td><td>(0~0.15)</td><td>(0~0.07)</td><td>(0~0.08)</td><td>(0~0.03)</td><td>0.07 (0~0.3)</td><td>0.09 (0~0.4)</td></tr></table></body></html>
+
+注：加粗部分表示不同水分来源的水分利用率，括号里为最大值与最小值。
+
+(2）土壤含水量与地下水位埋深、降雨量和植物生长期的变化有着显著的相关关系。在地下水位埋深较浅的季节，深层土壤的含水量较大，说明地下水可能通过毛细水的上升补给深层土壤水。对比降雨前后土壤含水量的变化，雨后土壤含水率明显高于雨前，且雨后3d深层土壤含水量明显增大。在植物生长旺期，浅层土壤含水量较低，这是生长旺期的植物大量吸收土壤水所致。
+
+（3）在浑善达克沙地，杨树既可以利用浅层土壤水又可以利用深层土壤水，并且有着显著的季节性变化特征。在降雨量较大的雨季，杨树大量利用浅层土壤水；在干旱少雨的旱季，杨树主要利用深层土壤水。这表明杨树为确保自身水分的生理需求，在不同生长季节采用了不同的水分利用策略，这为浑善达克沙地建设人工防护林提供了有力的依据。
+
+# 参考文献（References）:
+
+[1]Chen L,Zhang Z,Zeppel M,et al. Response of transpiration to rain pulses for two tree species in a semiarid plantation[J].International Journal ofBiometeorology,2014,58（7）:1569-1581.
+
+[2]邓文平,章洁,张志坚,等.北京土石山区水分在土壤-植物- 大气连续体(SPAC)中的稳定同位素特征[J].应用生态学报, 2017,28（7）:2171-2178.[Deng Wenping,Zhang Jie,Zhang Zhijian,et al. Stable hydrogen and oxygen isotope compositions in soil-plant-atomosphere continuum（SPAC)in rocky mountain area of Beijing,China[J].Chinese Journal of Applied Ecology,2017, 28(7):2171-2178.]   
+[3]Bertrand G,Masini J,Goldscheider N,et al.Determination of spatiotemporal variability of tree water uptake using stable isotopes （204号 $( \ S ^ { 1 8 } \mathrm { O } , \ S ^ { 2 } \mathrm { H } )$ in an alluvial system supplied bya high-altitude watershed,Pfyn forest,Switzerland[J].Ecohydrology,2014,7（2）： 319 -333.   
+[4]Ehleringer JR,Dawson T E.Water uptake by plants:perspectives from stable isotope composition[J].Plant,Cell & Environment, 2010,15(9):1073-1082.   
+[5]Hasselquist N J,Allen M F. Increasing demands on limited water resources :consequences for two endangered plants in Amargosa Valley,USA[J].American Journal of Botany,2009,96(3）:620- 626.   
+[6］张欢,曹俊,王化冰,等.张北地区退化杨树防护林的水分利用 特征[J].应用生态学报,2018,29（5）：1381-1388.［Zhang Huan,Cao Jun,Wang Huabing,et al.Water utilization characteristics of the degraded poplar shelterbelts in Zhangbei,Hebei,China. [J].Chinese Journal of Applied Ecology,2018,29（5）:1381 - 1388.]   
+[7］杨爱国,付志祥,王玲莉,等.科尔沁沙地杨树水分利用策略 [J].北京林业大学学报,2018,40（5）:63-72.［Yang Aiguo， Fu Zhixiang,Wang Lingli,et al. Strategies on water utilization of poplar in Horqin Sandy Land of northern China[J].Journal of Beijing Forestry University,2018,40(5）:63-72.]   
+[8］刘树宝,陈亚宁,李卫红,等.黑河下游不同林龄胡杨水分来源 的D、 $^ { 1 8 } 0$ 同位素示踪[J].干旱区地理,2014,37（5）：988- 995.［Liu Shubao,Chen Yaning,Li Weihong,et al.Application of D and $^ { 1 8 } 0$ stable isotopes in analyzing the water sources of different ages of Populus euphratica in the lower reaches of the Hei River
+
+[J].Arid Zone Geography,2014,37(5） :988-995.]
+
+[9]赵西宁,李楠,高晓东,等.基于 $^ { . 1 8 } 0$ 示踪的不同树龄枣树土壤 水分利用特征分析[J].农业工程学报，2018，34（3）：135- 142.[Zhao Xining,Li Nan,Gao Xiaodong,et al.Characteristics of soil water utilization for different stand ages of jujube trees based on $^ { 1 8 } 0$ tracking[J].Transactions of the Chinese Society of Agricultural Engineering,2018,34（3）:135-142.]   
+[10］刘丽颖,殷有,秦胜金,等.辽西半干旱区不同林龄大扁杏人工 林的水分利用特征[J].水土保持学报，2016,30（6)：118- 122.[Liu Liying,Yin You,Qin Shengjin,etal.Water use characteristics of different ages of Prunus armeniaca plantations in semiarid region of Western Liaoning Province[J]. Journal of Soil and Water Conservation,2016,30(6）:118-122.]   
+[11］张江,李桂芳,贺亚玲,等.基于稳定同位素技术的塔里木河下 游不同林龄胡杨的水分利用来源[J].生物多样性,2018,26 (6）:564-571.[Zhang Jiang,Li Guifang,He Yaling,et al.Water utilization sources of Populus euphratica trees of different ages in the lower reaches of Tarim River[J].Biodiversity Science,2018, 26(6):564 -571.]   
+[12］余绍文,孙自永,周爱国,等.用D $^ { 1 8 } 0$ 同位素确定黑河中游戈 壁地区植物水分来源[J].中国沙漠,2012,32（3)：717－723. [Yu Shaowen,Sun Ziyong,Zhou Aiguo,et al.Determination of water sources of gobi plants by D and $^ { 1 8 } 0$ stable isotopes in middle reaches of the Heihe River[J].Journal of Desert Research,2012, 32(3) :717-723.]   
+[13］李惠，梁杏，刘延锋，等.基于氢氧稳定同位素识别干旱区棉花 水分利用来源[J].地球科学,2017,42（5）:843－852.[Li Hui, Liang Xing,Liu Yanfeng,et al.Application of hydrogen and oxygen stable isotopes for determining water sources used by cotton in xinjiang arid region[J].Earth Science,2017,42(5):843-852.]   
+[14]Jia G,Yu X,Deng W,et al.Determination of minimum extraction times for water of plants and soils used in isotopic analysis[J]. Journal of Food Agriculture Environment,2012,10:1035-1040.   
+[15］窦金熙,郭玉明,王盛,等.土壤含水率测定方法研究[J].山西 农业科学,2017,45（3）:482-485.[Dou Jinxi,Guo Yuming, Wang Sheng,et al.Study on determination methods of moisture content in soil[J].Joumal of Shanxi Agricultural Sciences,2017, 45(3):482-485.]   
+[16]Philips D L,Gregg JW.Source partitioning using stable isotopes : coping with too many sources[J].Oecologia,2003,136(2）:261- 269.   
+[17］武亚遵,万军伟,林云.湖北宜昌西陵峡地区大气降雨氢氧同 位素特征分析[J].地质科技情报,2011,30(3）：93-97.［Wu Yazun,Wan Junwei,Lin Yun.Hydrogen and Oxygen isotope characteristics of atmospheric rainfall in Xilingxia area,Yichang,Hubei Province[J].Geological Science and Technology Information, 2011,30(3) :93-97.]   
+[18］Craig H.Isotopic variations in meteoric waters[J].Science,1961, 133(3465）:1702-1703.   
+[19］郑淑蕙，侯发高，倪葆龄.我国大气降水的氢氧稳定同位素研 究［J].科学通报,1983（13）：801－806.[Zheng Shuhui,Hou Fagao,Ni Baoling.Hydrogen-oxygen stable isotope study of atmospheric precipitation in China[J].Chinese Science Bulletin,1983 (13):801-806.]   
+[20]Wang Y,Yang J,Chen Y,et al. The spatiotemporal response of soil moisture to precipitation and temperature changes in an arid region,China[J].Remote Sensing,2018,10(3）:468.   
+[21]Lin G,Sternberg L S L.Utilization of surface water by red mangrove（Rhizophora mangle L.）:An isotopic study[J].Bulletin of Marine Science,1994,54(1):94-102.   
+[22］菅晶,贾德彬,郭少峰,等.2014 年浑善达克沙地黄柳生长季水 分来源同位素示踪研究[J].干旱区研究，2017,34（2）：350- 355.[Jian Jing,Jia Debin,Guo Shaofeng,et al.Water sources in growing season of Salix gordejevii in the Otindag Sandy Land traced by stable D isotope in 2014[J].Arid Zone Research,2017,34 (2) :350 -355.]
+
+# Analysis of water use characteristics of poplar trees in Otindag Sandy Land
+
+SU Wen-xu， JIA De-bin， FENG Yun， ZHANG Yu-qiang(CollgeofWateresorcedilgeing,rogAricualUesityt,rogn)
+
+Abstract：To explore the water use characteristics of poplar trees in Hunshandake Sandland,the $\mathfrak { F } ^ { 1 8 } \mathrm { O }$ values of rainfall,soil water,and groundwater were determined using hydrogen and oxygen isotope tracing techniques.A multilinear mixed model wasused to quantitativelycalculate theutilizationratioof poplar to soil waterindiferent soil layers.The results show the follwing:（1）The atmospheric rainfall equation line of Otindag Sandy Land is ${ \delta \mathrm { D } _ { \mathrm { L W M L } } = 7 . 8 4 8 } ^ { 1 8 } \mathrm { O } _ { \mathrm { L W M L } } + 9 . 1 2$ ,the slope of which is smaller than the national rainfall equation line,indicating that therainfallin the studyarea is low,whereas the evaporation is high.（2）There is asignificantcorrelation between soil water content and groundwaterdepth,rainfall,and plant growth.Whenrainfall is relativelyhighandthe groundwaterlevel is shalow,thesoil water content is markedly increased.Inthe earlyand middlestages of plant growth, the soil water content is significantly lower.（3） Poplars use a large amount of shallow soil water $\left( 0 - 4 0 ~ \mathrm { c m } \right)$ during the rainy season,whereas they use a large amount of deep soil water ( $1 6 0 \mathrm { ~ - ~ } 2 0 0 ~ \mathrm { c m }$ ）and a small amount of groundwater during the dry season.
+
+Key words:poplar； water source; isotope ;multiple linear mixed model; Otindag Sandy Land

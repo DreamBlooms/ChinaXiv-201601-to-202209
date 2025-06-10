@@ -1,0 +1,826 @@
+[
+    {
+        "type": "text",
+        "text": "1 控制摄食对小鼠肝脏及肾上腺胆固醇代谢的影响",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 钱宏梁 潘志强\\* 王晓敏卢涛方肇勤 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3 （上海中医药大学基础医学院，上海201203）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4摘要：本试验旨在研究控制摄食对小鼠肝脏及肾上腺胆固醇代谢的影响。采用雄性 ICR  \n5 小鼠为试验对象，先适应性饲养3d，在体重达 $2 4 { \\sim } 2 5 \\ \\mathrm { g }$ 后，随机分为5组，每组6只，分  \n6 别为正常对照组（自由摄食）、摄食 $4 . 0 \\ \\mathrm { g }$ 组[摄食量： $4 . 0 \\ : \\mathrm { g / \\Omega }$ （只 $\\mathrm { \\nabla \\cdot ^ { d } } ,$ ；控食比例：正常摄食  \n7 量的 $8 8 \\%]$ 、摄食 $3 . 0 \\ \\mathrm { g }$ 组[摄食量： $3 . 0 \\ \\mathrm { g }$ （只 $\\mathbf { \\nabla } \\cdot \\mathbf { d } )$ ；控食比例：正常摄食量的 $6 6 \\%$ 、摄食2.0  \n8 g组[摄食量： $2 . 0 \\ \\mathrm { g }$ （只·d)；控食比例：正常摄食量的 $44 \\%$ 和摄食 $\\mathrm { 1 . 5 ~ g }$ 组[摄食量： $ { 1 . 5 \\mathrm { g } }$   \n9 （只·d)；控食比例：正常摄食量的 $2 2 \\%]$ 。各组自由饮水，控食14d后处死小鼠，取心脏、  \n10 肝脏、肾脏、脾脏、胸腺及睾丸称重并计算脏器指数，取肝脏和肾上腺组织分别抽提总 RNA  \n11 和总蛋白，以实时荧光定量PCR技术检测胆固醇代谢相关基因mRNA的相对表达量，以  \n12 Western blot方法检测类固醇合成急性调节蛋白（StAR）蛋白的相对表达量，并以ELISA 方  \n13 法检测血清皮质酮含量。结果表明：1）与正常对照组相比，各控食组小鼠体重均有不同程  \n14 度的减轻，心脏、肝脏、肾脏、脾脏、胸腺均有不同程度的萎缩。2）与正常对照组相比，  \n15 摄食 $3 . 0 \\ \\mathrm { g }$ 组、摄食 $2 . 0 \\ \\mathrm { g }$ 组和摄食 $ { 1 . 5 \\mathrm { g } }$ 组小鼠肝脏低密度脂蛋白受体(Ldlr)、B类清道夫受  \n16 体1(Scarb1)、羟甲基戊二酰辅酶A还原酶(Hmgcr)、激素敏感脂酶(Lipe)、载脂蛋白 E(Apoe)、  \n17 ATP 结合盒转运体G5（Abcg5）、ATP结合盒转运体G8（Abcg8）、细胞色素P450家族成员  \n18 $7 \\mathrm { { A l } } ( C y p 7 a 1 )$ 、固醇调节元件结合蛋白裂解激活蛋白（Scap）、肝脏X受体 $\\beta$ （Nr1h2）、过氧  \n19 化物酶体增殖剂激活受体 $\\mathsf { a } ( P p a r a )$ 、过氧化物酶体增殖剂激活受体γ(Pparg)基因的表达均显  \n20 著上调 ( $\\cdot P { < } 0 . 0 5$ 或 $\\scriptstyle P < 0 . 0 1 { \\mathrm { ~ , ~ } }$ )，而胰岛素诱导基因2（Insig2）基因的表达则显著下调（ $P <$   \n21 0.05)。3）与正常对照组相比，摄食 $2 . 0 \\ \\mathrm { g }$ 组和摄食 $ { 1 . 5 \\mathrm { g } }$ 组小鼠肾上腺细胞色素P450 家族  \n22 成员11A1（Cyplla1）、细胞色素 P450 家族成员 $2 1 \\mathrm { A } 1 ( C y p 2 1 a 1 )$ 基因的表达均显著上调（ $P$   \n23 $< 0 . 0 5 \\$ ，摄食 $ { 1 . 5 \\mathrm { g } }$ 组小鼠肾上腺 StAR 和细胞色素P450 家族成员1 $\\lfloor 1 \\mathbf { B } 1 ( C y p 1 1 b 1 )$ 基因的表  \n24 达也显著上调 ( $\\cdot P { < } 0 . 0 5 \\$ ，而摄食 $3 . 0 \\ \\mathrm { g }$ 组、摄食 $2 . 0 \\ \\mathrm { g }$ 组和摄食 $1 . 5 \\ : \\mathrm { g }$ 组细胞色素 P450 家族",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "成员11B2(Cyp11b2)基因的表达显著下调（ $\\scriptstyle P < 0 . 0 5 .$ )。此外，与正常对照组比较，各控食组小鼠肾上腺 StAR蛋白表达均增强且随着摄食量的降低而增强。由此可见，严格控制摄食会影响小鼠免疫器官脾脏与胸腺，同时代谢器官肝脏也受到严重影响，进而影响胆固醇在肝脏与肾上腺的代谢与转化。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关键词：控制摄食；小鼠；肝脏；肾上腺；胆固醇代谢中图分类号：R589.2 文献标识码：A 文章编号：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着社会的经济发展，人民生活水平不断提高饮食日益丰富，但过量摄食容易导致代谢类疾病；同样，摄食不足也将引起机体代谢异常。两千多年前的《内经》强调\"饮食有节，谨和五味\"的思想，已经意识到饮食必须有规律、需节制，不食或少食不利于健康，暴饮多食也有损健康。大量的文献报道认为肥胖症、糖尿病、高血压等许多慢性疾病与饮食有明确的关系[1-3]，因此，许多健康或亚健康人群有意控制每日饮食量，部分肥胖人群为了减轻体重更是大幅度限制饮食量。然而，控制饮食对机体是否有损害的报道较少。基于长期饮食不足容易导致机体营养失衡、消瘦、虚劳等病症，以及部分疾病如食管癌、胃癌、厌食症等因饮食摄入不足，引起机体代谢异常，也会引发中医类似气虚证、脾胃虚弱证，甚至阴阳两虚证等[4]，其中，中医气虚证或脾胃虚弱证与肝脏功能关系密切，中医肾虚证或阴阳两虚证与肾上腺功能有关，然而肝脏与肾上腺重要的共性生化特征均是胆固醇代谢的场所。胆固醇在肝脏代谢为胆汁酸，以促进脂类的消化吸收与抑制胆固醇在胆汁中析出沉淀，防止结石形成，有助于阐明中医脾胃功能；胆固醇在肾上腺代谢转化为类固醇激素，参与机体各种应激反应，涉及中医肾藏象的部分功能。因而，探索摄食不足对机体代谢的影响有助于认识中医脾肾虚证发生的可能物质基础，尤其有助于阐明大幅控制饮食对机体哪些脏器影响最大。本研究以小鼠为试验对象，通过设计不同梯度摄食量，比较与寻找导致机体代谢异常的控食量临界点以及对脏器影响的强度，并深入研究控食后小鼠胆固醇代谢的异常机制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1试验动物以及饲料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "0 试验动物为ICR小鼠，无特定病原（SPF）级，雄性， $6 { \\sim } 8$ 周龄，体重 $1 8 { \\sim } 2 0 \\ \\mathrm { g }$ ，30  \n1 只，购自上海西普尔-必凯实验动物有限公司，饲养于上海中医药大学实验动物中心 SPF 级",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "动物房，动物许可证号：SCXK（沪）2013-0016，动物合格证编号：2008001672050。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验用转基因鼠基础饲料（货号1010011)购自江苏省协同医药生物工程有限责任公司，其组成及营养水平见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1基础饲粮组成及营养水平 (风干基础)",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Table 1Composition and nutrient levels of the basal diet（air-dry basis ） % ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "项目Items 含量Content  \n原料 Ingredients  \n玉米 Corn 52.40  \n小麦 Wheat 10.00  \n次粉 Wheat middling 10.00  \n豆粕 Soybean meal 10.00  \n鱼粉 Fish meal 5.00  \n鸡肉粉 Chicken powder 5.00  \n石粉 Limestone 1.20  \n色拉油 Salad oil 2.40  \n预混料 Premix 4.00  \n合计 Total 100.00  \n营养水平 Nutrient levels1  \n粗纤维CF 3.3  \n粗蛋白质 CP 19.2  \n粗脂肪 EE 6.6  \n水分 Moisture 9.9  \n粗灰分 Ash 5.8  \n总磷TP 0.85  \n钙Ca 1.11  \n其他 Others2) 见表注",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 营养水平为实测值。Nutrient levels were measured values.2其他包含 Others contained the following:天门冬氨酸 Asp $1 . 7 4 \\%$ ，苏氨酸 $\\mathrm { T h r } ~ 1 . 0 5 \\%$ ，丝氨酸 Ser $1 . 0 6 \\%$ ，谷氨酸Glu $3 . 4 4 \\%$ ；脯氨酸 $1 . 6 7 \\%$ ，甘氨酸Gly $1 . 3 2 \\%$ ，丙氨酸Ala $1 . 2 9 \\%$ 半胱氨酸 $C y s 0 . 3 6 \\%$ ，氨酸 $\\mathrm { V a l 0 . 9 4 \\% }$ ，蛋氨酸Met $0 . 7 0 \\%$ ，异亮氨酸 Ile $1 . 1 8 \\%$ ，亮氨酸Leu $1 . 7 5 \\%$ ；酪氨酸Tyr $0 . 7 6 \\%$ ，苯丙氨酸 Phe $0 . 9 2 \\%$ ，赖氨酸Lys $1 . 4 2 \\%$ ，组氨酸His $0 . 5 6 \\%$ 精氨酸 $\\mathrm { A r g } \\ 1 . 3 0 \\%$ ，色氨酸 $\\mathrm { T r p } 0 . 2 6 \\%$ ， $\\mathrm { C u } 1 6 \\mathrm { m g } / \\mathrm { k g }$ ，Fe $3 2 3 ~ \\mathrm { m g / k g }$ ， $\\mathrm { M g } 2 . 1 6 { \\times } 1 0 ^ { 3 } \\mathrm { m g } / \\mathrm { k g }$ N $\\mathrm { I n ~ 1 6 2 ~ m g / k g }$ ， $\\mathrm { K 7 . 8 4 \\times 1 0 ^ { 3 } m g / k g }$ ，N $\\mathrm { a } 2 . 2 4 { \\times } 1 0 ^ { 3 } \\mathrm { m g / k g }$ ， $\\mathrm { Z n 1 4 0 ~ m g / k g }$ ， $\\mathrm { ~ I ~ } 1 . 0 8 ~ \\mathrm { m g / k g }$ ，Se 0.37mg/kg，VA $2 . 5 7 { \\times } 1 0 ^ { 4 } \\mathrm { I U / k g }$ ， $\\mathrm { V D } _ { 3 } 4 . 3 6 { \\times } 1 0 ^ { 3 } \\mathrm { I U } / \\mathrm { k g }$ ，VE 195 IU/kg， $\\mathrm { V K } _ { 3 } 2 0 . 7 \\mathrm { m g / k g }$ ， $\\mathrm { V B } _ { 1 } 8 5 . 1$ mg/kg, $\\mathrm { V B } _ { 2 } ~ 1 8 . 9 ~ \\mathrm { m g / k g }$ ， $\\mathrm { V B } _ { 6 } ~ 1 6 9 ~ \\mathrm { m g / k g }$ ，烟酸 nicotinic acid $8 8 ~ \\mathrm { m g / k g }$ ，泛酸 pantothenic acid$3 . 6 7 \\times 1 0 ^ { 4 }$ $\\mu \\ \\mathrm { g / k g }$ ,叶酸 folic acid $5 . 5 2 \\times 1 0 ^ { 3 }$ $\\mu \\ \\mathrm { g / k g }$ ，生物素biotin 38 $3 8 \\textrm { \\textmu } \\mathrm { g } / \\mathrm { k g } , \\mathrm { V B } _ { 1 2 } 2 8 . 6 \\mathrm { n g } / \\mathrm { k g }$ 胆碱 choline $1 . 8 4 \\times 1 0 ^ { 3 } \\mathrm { m g / k g }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.1.2药物与试剂",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "RIPA裂解液和化学发光（ECL）试剂盒购自上海碧云天生物试剂有限公司，兔多抗类固醇合成急性调节蛋白（StAR）购自Abcam公司，小鼠 $\\beta \\cdot$ -肌动蛋白（ $\\beta$ -actin）抗体购自Sigma-Aldrich 公司。Trizol 试剂盒购自 Invitrogen 公司；PrimeScript? RTReagent Kit、SYBR $\\textsuperscript { \\textregistered }$ Premix Ex TaqTM(TliRNaseHPlus)I购自 TaKaRa 公司；采用 Primer 3（v.0.4.0）在线软件设计引物并委托Life Technologies 公司合成。小鼠皮质酮酶联免疫吸附测定(ELISA)试剂盒购自美国Cayman 公司。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.1.3 试验设备",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Eco-illumina实时荧光定量PCR仪（美国illumina公司）、 $\\operatorname { E l x } 8 0 0$ 型酶标仪（Biotek公司）、Eppendorf台式离心机（5417R型）等。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 试验设计",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "小鼠适应性饲养3d，当体重达 $2 4 { \\sim } 2 5 \\ \\mathrm { g }$ 后，随机分为5组，每组6只，分别是正常对照组（自由摄食）、摄食 $4 . 0 \\ \\mathrm { g }$ 组[摄食量： $4 . 0 \\ \\mathrm { g / }$ （只·d)；控食比例：正常摄食量的 $8 8 \\%]$ ，摄食 $3 . 0 \\ \\mathrm { g }$ 组[摄食量： $3 . 0 \\ \\mathrm { g }$ （只·d)；控食比例：正常摄食量的 $6 6 \\%$ 、摄食 $2 . 0 \\ \\mathrm { g }$ 组[摄食量： $2 . 0 \\ \\mathrm { g }$ （只 $\\cdot _ { \\textrm { d } }$ ；控食比例：正常摄食量的 $44 \\%]$ 和摄食 $ { 1 . 5 \\mathrm { g } }$ 组[摄食量： $ { 1 . 5 \\mathrm { g } }$ （只 $\\mathbf { \\nabla } \\cdot \\mathbf { d } )$ ;",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "控食比例：正常摄食量的 $2 2 \\%]$ 。试验开始后，正常对照组给予 $1 0 0 ~ \\mathrm { g }$ 饲粮，置于笼具饲粮投放位置，令其自由摄食， $2 4 \\mathrm { h }$ 后称量剩余的饲粮量，然后再补充至 $1 0 0 ~ \\mathrm { g }$ ；4个控食组则精确称量设定的 $2 4 \\mathrm { h }$ 摄食量的饲粮，分别为24、18、12、 ${ \\mathfrak { s } } _ { \\mathbf { g } }$ ，置于笼具饲粮投放位置，并于 $2 4 \\mathrm { h }$ 后再补充饲粮(补充饲量时，各控食组前1天饲粮均被摄取完)；每日重复上述饲喂方式，共进行14d。试验过程中小鼠自由饮水，每隔1d称量体重，并观察记录小鼠精神状态等信息。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.2样品采集",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在第15 天处死各组小鼠，取材方法如下：1）摘眼球取血，分离血清，-20℃保存，用于皮质酮含量检测；2）分别摘取心脏、胸腺、肝脏、脾脏、肾脏（双侧）、睾丸（双侧）称重（以g表示)，并计算脏器指数，以脏器质量（g）与体重（g）的比值表示；3）取肾上腺，抽提总RNA，检测 $\\beta$ -actin、StAR、细胞色素P450家族成员11A1（Cyplla1）、细胞色素P450家族成员 $2 1 \\mathrm { A } 1 ( C y p 2 1 a 1 )$ 、细胞色素P450 家族成员11B1(Cypl1b1)、细胞色素P450 家族成员 $1 1 \\mathrm { B } 2 ( C y p 1 1 b 2 )$ 等基因mRNA相对表达量；4）抽提肾上腺总蛋白，检测 StAR蛋白相对表达量；5）取肝脏，抽提总RNA，检测 $\\beta$ -actin、载脂蛋白A1（Apoal）、载脂蛋白E(Apoe)、ATP 结合盒转运体A1（Abca1）、ATP结合盒转运体G1(Abcgl)、细胞色素P450 家族成员7Al(Cyp7al)、羟甲基戊二酰辅酶A还原酶(Hmgcr)、低密度脂蛋白受体(Ldlr)、肝脏X受体α(Nr1h3或LXRα)、肝脏X受体 $\\beta$ （Nr1h2或LXRβ)、过氧化物酶体增殖剂激活受体α(Ppara或PPARα)、过氧化物酶体增殖剂激活受体γ(Pparg或PPARy)、B类清道夫受体1(Scarbl或SRB1)、固醇调节因子结合蛋白1(Srebfl或 SREBP1)、固醇调节因子结合蛋白2(Srebf2 或SREBP2)、3-羟基-3-甲基戊二酰辅酶A合成酶1（Hmgcs1）、酯酰辅酶 A:胆固醇酰基转移酶1（Acat1）、激素敏感脂酶（Lipe）、ATP结合盒转运体G5（Abcg5）、ATP 结合盒转运体G8（Abcg8）、固醇调节元件结合蛋白裂解激活蛋白（Scap）、胰岛素诱导基因1（Insig1）、胰岛素诱导基因2（Insig2）等胆固醇代谢类基因mRNA 相对表达量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.3实时荧光定量PCR检测基因mRNA表达量",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "上、下游引物序列采用Primer 3(v.0.4.0)在线软件合成，委托Life Technologies 公司上海合成部完成。按照 Trizol试剂盒说明书抽提肝脏与肾上腺总RNA;逆转录反应体系 $2 0 ~ \\mu \\mathrm { L }$ 反应程序为3 $3 7 \\ \\mathrm { \\ ^ { \\circ } C } \\times 1 5 \\ \\mathrm { m i n }$ ，85 $ { \\mathrm { ^ \\circ C } } \\times  { \\bar { 5 } }  { \\mathrm { ~ s ~ } }$ ，4℃；PCR扩增反应体系为 $2 0 ~ \\mu \\mathrm { L }$ ，反应程序为 $9 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\times 3 ~ \\mathrm { m i n }$ ，95 ${ } ^ { \\circ } \\mathrm { C } \\times 3 0 ~ \\mathrm { s }$ ，60 ${ ^ \\circ } \\mathrm { C } \\times 3 0 ~ \\mathrm { s }$ ，40个循环。目的基因mRNA相对表达量分析方法：，以  \n正常对照组作为空白对照，以 $\\beta \\mathrm { . }$ -actin 基因Ct均值作为内参对照，采用 $2 ^ { - \\Delta \\Delta \\mathrm { C t } }$ 法计算目的基  \n因mRNA相对表达量：$\\Delta C t { = } C t _ { \\textrm { \\tiny { H / H E } } } { - } C t _ { \\tiny { \\mathrm { ~ H ~ S E / E } } } { ; }$ $\\Delta \\Delta C t = \\Delta C t _ { \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\hat { A } \\tt \\hat { C } t } - \\Delta C t _  \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt $ （204号目的基因mRNA相对表达量 ${ } = 2 ^ { - \\Delta \\Delta \\mathrm { C t } }$ 。式中： $C t$ 为扩增 $n$ 个循环基因的荧光数值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2肝脏胆固醇代谢相关基因引物序列",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/8a558153bb6e2a3133292bac0fdabaeef0ec0ed99f65123ebaa5b456058ae086.jpg",
+        "table_caption": [
+            "Table 2Primer sequences of genes related cholesterol metabolism in liver "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>基因名称</td><td>GeneBank登录号</td><td>引物序列</td><td>产物长度</td></tr><tr><td>Gene name</td><td>GeneBank</td><td>Primer sequences</td><td>Product</td></tr><tr><td></td><td>accession No.</td><td></td><td>length/bp</td></tr><tr><td>β-actin</td><td>NM_007393</td><td>上游：5'-TGTTACCAACTGGGACGACA-3'</td><td>165</td></tr><tr><td></td><td></td><td>下游：5'-GGGGTGTTGAAGGTCTCAAA-3'</td><td></td></tr><tr><td>Abcal</td><td>NM_013454</td><td>上游：5'-AACAGTTTGTGGCCCTTTTG-3'</td><td>157</td></tr><tr><td></td><td></td><td>下游：5'-AGTTCCAGGCTGGGGTACTT-3'</td><td></td></tr><tr><td>Abcg1</td><td>NM_009593</td><td>上游：5'-GAAGTGGCATCAGGGGAGTA-3'</td><td>124</td></tr><tr><td>Abcg5</td><td></td><td>下游：5'-AAAGAAACGGGTTCACATCG-3'</td><td></td></tr><tr><td></td><td>NM_031884</td><td>上游：5'-TCACTTGCATTTGCTTCCTG-3'</td><td>218</td></tr><tr><td>Abcg8</td><td></td><td>下游：5'-CTTCTGCTGGCATGATTTGA-3'</td><td></td></tr><tr><td></td><td>NM_026180</td><td>上游：5'-CCAGGAATCCTCATTCTGGA-3'</td><td>236</td></tr><tr><td>Acat1</td><td>NM_144784</td><td>下游：5'-TGGCCAATGGATGTGAAGTA-3'</td><td></td></tr><tr><td></td><td></td><td>上游：5'-TATTTCCACTCCATGCACCA-3' 下游：5'-ATTGGACATGCTCTCCATCC-3'</td><td>133</td></tr><tr><td>Apoal</td><td>NM_009692</td><td>上游：5'-TATGTGGATGCGGTCAAAGA-3'</td><td>119</td></tr><tr><td></td><td></td><td>下游：5'-ACGGTTGAACCCAGAGTGTC-31</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Apoe</td><td>NM_001305819</td><td>上游：5'-AACAGACCCAGCAAATACGC-3'</td><td>149</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/63c61bc14e123944b028611f6d35b19ea642793157a2a0063566d6bd7a758698.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>下游：5'-GGTGATGATGGGGTTGGTAG-3'</td><td></td></tr><tr><td>Cyp7a1</td><td>NM_007824</td><td>上游：5'-ACACCATTCCTGCAACCTTC-3'</td><td>232</td></tr><tr><td></td><td></td><td>下游：5'-GCTGTCCGGATATTCAAGGA-3'</td><td></td></tr><tr><td>Hmgcr</td><td>NM_008255</td><td>上游：5'-TGGAGATCATGTGCTGCTTC-3'</td><td>248</td></tr><tr><td></td><td></td><td>下游：5'-GCGACTATGAGCGTGAACAA-3'</td><td></td></tr><tr><td>Hmgcs1</td><td>NM_001291439</td><td>上游：5'-TTTGATGCAGCTGTTTGAGG-3'</td><td>198</td></tr><tr><td></td><td></td><td>下游：5'-CCACCTGTAGGTCTGGCATT-3'</td><td></td></tr><tr><td>Insig1</td><td>NM_153526</td><td>上游：5'-ACCTGGGAGAACCACACAAG-3'</td><td>178</td></tr><tr><td></td><td></td><td>下游：5'-CTTCGGGAACGATCAAATGT-3'</td><td></td></tr><tr><td>Insig2</td><td>NM_133748</td><td>上游：5'-CTGGGAAGCCACATTTTGTT-3'</td><td>132</td></tr><tr><td></td><td></td><td>下游：5'-TTCACACTCTGGCTGGTGAC-3'</td><td></td></tr><tr><td>Ldlr</td><td>NM_001252658</td><td>上游：5'-TCCTGGAGATGTGATGGACA-3'</td><td>158</td></tr><tr><td></td><td></td><td>下游：5'-GAGCCATCTAGGCAATCTCG-3'</td><td></td></tr><tr><td>Lipe</td><td>NM_010719</td><td>上游：5'-AGACACCAGCCAACGGATAC-3'</td><td>239</td></tr><tr><td></td><td></td><td>下游：5'-ATCACCCTCGAAGAAGAGCA-3'</td><td></td></tr><tr><td>Nr1h2</td><td>NM_001285517</td><td>上游：5'-ATTAAGGAAGAGGGGCAGGA-3'</td><td>198</td></tr><tr><td></td><td></td><td>下游：5'-GCTGAGCACGTTGTAGTGGA-3'</td><td></td></tr><tr><td>Nr1h3</td><td>NM_001177730</td><td>上游：5'-GCAGGACCAGCTCCAAGTAG-3'</td><td>125</td></tr><tr><td></td><td></td><td>下游：5'-GGCTCACCAGCTTCATTAGC-3'</td><td></td></tr><tr><td>Ppara</td><td>NM_001113418</td><td>上游：5'-ATGCCAGTACTGCCGTTTTC-3'</td><td>220</td></tr><tr><td></td><td></td><td>下游：5'-GGCCTTGACCTTGTTCATGT-3'</td><td></td></tr><tr><td>Pparg</td><td>NM_001127330</td><td>上游：5'-TTTTCAAGGGTGCCAGTTTC-3'</td><td>198</td></tr><tr><td></td><td></td><td>下游：5'-AATCCTTGGCCCTCTGAGAT-3'</td><td></td></tr><tr><td>Scap</td><td>NM_001001144</td><td>上游：5'-CCAGGAGTTCTGCCTCTTTG-3'</td><td>232</td></tr><tr><td></td><td></td><td>下游：5'-TTGCAATGTGATGGTGTGTG-3'</td><td></td></tr><tr><td>Scarb1</td><td>NM_001205082</td><td>上游：5'-AAGTGGTCAACCCAAACGAG-3'</td><td>121</td></tr><tr><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Srebf1 NM_001313979 上游： $5 ^ { \\prime } { \\cdot }$ GATCAAAGAGGAGCCAGTGC-3' 191 下游： ${ } ^ { 5 ^ { \\prime } }$ -TAGATGGTGGCTGCTGAGTG-3'   \nSrebf2 NM_033218 上游： $5 ^ { \\prime }$ GGATCCTCCCAAAGAAGGAG-31 147 下游： ${ } ^ { 5 ^ { \\prime } }$ -TTCCTCAGAACGCCAGACTT-3'   \n$\\beta$ -actin: $\\beta$ -肌动蛋白；Abcal：ATP 结合盒转运体 A1 ATP-binding cassette transporter A1; Abcgl：ATP 结合盒转运体 G1 ATP-binding cassette transporter G1；Abcg5：ATP 结合盒转运体 G5 ATP-binding cassette transporter G5；ATP 结合盒转运体 G8 Abcg8 ATP-binding cassette transporter G8；Acat1：酯酰辅酶 A:胆固醇酰基转移酶1acyl coenzyme A:cholesterol   \nacyltransferases 1; Apoal:载脂蛋白 A1 apolipoprotein A1；Apoe:载脂蛋白 E apolipoprotein E; Cyp7al：细胞色素 P450 家族成员7A1 cytochromes P450 7A1；Hmgcr：羟甲基戊二酰辅酶 A 还原酶 hydroxymethyl glutaric acyl coenzyme Areductase；Hmgcs1：3-羟基-3-甲基戊二酰辅酶 A 合成酶1 3-hydroxy-3-methylglutaryl-coenzyme A synthase 1；Insig1:胰岛素诱导基因1 insulin induced gene 1；Insig2：胰岛素诱导基因2 insulin induced gene 2；Ldlr：低密度脂蛋白受体 low-density lipoprotein receptor;Lipe:激素敏感脂酶 hormone-sensitive triglayceride lipase； Nr1h3: 肝脏X受体 $\\mathfrak { a }$ liver X receptor α；Nr1h2：肝脏X受体 $\\beta$ liver X receptor $\\beta$ ；Ppara：过氧化物酶 体增殖剂激活受体α peroxisome proliferators-activated receptor $\\mathfrak { a }$ ；Pparg：过氧化物酶体增殖剂 激活受体γ peroxisome proliferators-activated receptor $\\gamma$ ；Scap：固醇调节元件结合蛋白裂解激活 蛋白sterol regulatory element binding protein cleavage active protein； Scarb1:B类清道夫受体 1 scavenger receptor class B member 1；Srebfl：固醇调节因子结合蛋白1 sterol regulatory element binding protein 1；Srebf2：固醇调节因子结合蛋白 2 sterol regulatory element binding protein 2。 表 5至表10 同 The same as Table 5 to Table 10。 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表3肾上腺胆固醇代谢相关基因引物序列",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Table 3Primer sequences of genes related cholesterol metabolism in adrenal gland ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "基因名称 GeneBank 登录 引物序列 产物长度Gene name 号",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/4b9036e58bba5ae8f08312b22c7464827b50b3b411a7dfd785bb9d6767cc11e2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">GeneBank</td><td rowspan=\"2\">length/bp</td></tr><tr><td colspan=\"3\">accession No.</td></tr><tr><td rowspan=\"2\">β-actin</td><td rowspan=\"2\">NM007393</td><td>上游：5'-TGTTACCAACTGGGACGACA-3'</td><td>165</td></tr><tr><td>下游：5'-GGGGTGTTGAAGGTCTCAAA-3'</td><td></td></tr><tr><td rowspan=\"2\">Cyp11a1</td><td rowspan=\"2\">NM_019779</td><td>上游：5'-ACTTCCGGTACTTGGGCTTT-3'</td><td>201</td></tr><tr><td>下游：5'-GCTTGAGAGGCTGGAAGTTG-3'</td><td></td></tr><tr><td>Cyp11b1</td><td>NM_001033229</td><td>上游：5'-GTATCGAGAGCTGGCAGAGG-3'</td><td>140</td></tr><tr><td rowspan=\"3\">Cyp11b2</td><td rowspan=\"3\">NM_009991</td><td>下游：5'-GGGTTGATGTCGTGTCAGTG-3'</td><td></td></tr><tr><td>上游：5'-CTGAACGCTATATGCCTCAGC-3'</td><td>160</td></tr><tr><td>下游：5'-AGTGTCTCCACCTGGAAGGTT-3'</td><td></td></tr><tr><td rowspan=\"2\">Cyp21a1</td><td rowspan=\"2\">NM_009995</td><td>上游：5'-CTCCGGCTATGACATCCCTA-3'</td><td>151</td></tr><tr><td>下游：5'-ACAGCCAAAGGATGGTGTTC-3'</td><td></td></tr><tr><td rowspan=\"2\">StAR</td><td rowspan=\"2\">NM_011485</td><td>上游：5'-TTGGGCATACTCAACAACCA-3'</td><td>103</td></tr><tr><td>下游：5'-GAAACACCTTGCCCACATCT-3'</td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$\\beta$ -actin: $\\beta$ -肌动蛋白；Cypllal：细胞色素 P450 家族成员11A1cytochromes P450 11A1;Cypl1b1：细胞色素 P450 家族成员11B1cytochromes P450 11B1；Cypl1b2：细胞色素 P450家族成员11B2 cytochromes P450 11B2;Cyp2lal:细胞色素 P450 家族成员 21A1cytochromesP45021A1; StAR:类固醇合成急性调节蛋白 steroidogenic acute regulatory protein。表11同 Thesame as Table 11。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1.2.4Westernblot检测StAR蛋白相对表达量",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "采用RIPA裂解液处理组织，收集总蛋白样品并予以定量，通过变性处理，依次执行聚丙烯凝胶电泳、转膜、封闭、一抗孵育、洗涤、二抗孵育、再洗涤、显影等流程，其中，一抗内参 $\\beta$ -actin 以1:20 000 稀释、StAR 抗体以1:2 000 稀释。以 $\\beta$ -actin 作为内参，分析 StAR蛋白相对表达量。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1.2.5ELISA检测血清皮质酮含量",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "使用试验小鼠血清原液，依据小鼠皮质酮 ELISA试剂盒说明书进行操作，检测血清皮质酮含量。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1.3数据分析 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "采用 graphPad.Prism5.0专业软件进行作图及统计分析，其中，体重分析采用重复测量（repeated measurement）方法统计，仅分析各控食组与正常对照组的差异；各脏器质量及其脏器指数均采用单因素方差分析（one-wayANOVA）进行统计分析， $P { < } 0 . 0 5$ 表示差异在统计学上具有显著性意义。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.1各组小鼠体重动态变化",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "正常对照组小鼠体重缓慢增长，至第15天体重增长至 $3 0 \\mathrm { g }$ 。与正常对照组比较，在各个时间点摄食 $4 . 0 \\ \\mathrm { g }$ 组小鼠体重均略下降，但差异均不显著（ $P { > } 0 . 0 5 )$ ；然而，从第5天起，摄食 $3 . 0 \\ \\mathrm { g }$ 组、摄食 $2 . 0 \\ \\mathrm { g }$ 组和摄食 $ { 1 . 5 \\mathrm { g } }$ 组小鼠体重显著下降（ $\\cdot P { < } 0 . 0 5 \\ )$ ，且体重下降与摄食量有一定相关性。结果提示， $3 . 0 \\ \\mathrm { g / }$ （只·d）甚至更低的摄食量将引起小鼠体重的下降。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/cdead74dce199d609d72d7e9794e144656bf8153ef3b9b6706712579608e1463.jpg",
+        "img_caption": [
+            "图1各组小鼠体重变化比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "数据点标注\"\\*\"表示与正常对照组相比差异显著（ $\\scriptstyle P < 0 . 0 5 ,$ ）° Date points with “\\*” indicated significant difference compared with normal control group $( P { < } 0 . 0 5 )$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig1 Comparison of body weight changes of mice among groups ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.2小鼠脏器质量与脏器指数变化",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.2.1心脏质量与心脏指数变化",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，与正常对照组比较，各控食组小鼠心脏质量显著下降（ $\\cdot P { < } 0 . 0 5$ ， $P { < } 0 . 0 1$ 或 $P { < } 0 . 0 0 1 \\$ ，且随摄食量的降低逐渐降低；然而，各控食组小鼠心脏指数均无显著变化（ $P { > } 0 . 0 5 )$ ，提示控食后小鼠心脏质量随体重同步下降。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.2.2肝脏质量与肝脏指数变化",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，与正常对照组比较，各控食组小鼠肝脏质量显著下降（ $\\cdot P { < } 0 . 0 5 )$ ，尤其以摄食量在 $3 . 0 { \\bf g } /$ （只 $\\cdot \\mathrm { d }$ ）及以下的各组最显著（ $P { < } 0 . 0 0 1 \\$ )，此时且肝脏指数也显著下降（ $P$ ${ < } 0 . 0 0 1 { \\mathrm { ~ ; ~ } }$ ，提示控食后小鼠肝脏萎缩最明显，可能与肝脏是机体重要的代谢器官有关。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.2.3肾脏质量与肾脏指数变化",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，与正常对照组比较，各控食组小鼠肾脏质量显著下降( $\\cdot P { < } 0 . 0 5$ 或 $P { < } 0 . 0 0 1 \\rangle$ 尤其以摄食量在 $3 . 0 ~ \\mathrm { g / \\Omega }$ （只·d）及以下的各组最显著（ $P { < } 0 . 0 0 1 \\$ ，且摄食 $3 . 0 \\ \\mathrm { g }$ 组、摄食$2 . 0 \\ \\mathrm { g }$ 组小鼠肾脏指数也显著下降（ $\\scriptstyle P < 0 . 0 5 )$ ，提示控食后小鼠肾脏也明显萎缩。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.2.4脾脏质量与脾脏指数变化",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，与正常对照组比较，摄食量在 $3 . 0 \\ \\mathrm { g / }$ （只 $\\cdot \\mathrm { d }$ ）及以下的各组小鼠脾脏质量显著下降（ $P { < } 0 . 0 0 1 \\rangle$ ，且脾脏指数也有所下降，其中摄食 $2 . 0 \\ \\mathrm { g }$ 组降低显著（ $\\cdot P { < } 0 . 0 5 \\rangle$ ，提示摄食量在 $3 . 0 { \\bf g } /$ （只·d）及以下的小鼠脾脏明显萎缩且相比体重萎缩更明显。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.2.5胸腺质量与脾脏指数变化",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，与正常对照组比较，摄食量在 $3 . 0 \\ \\mathbf { g } /$ （只·d）及以下的各组小鼠胸腺质量显著下降（ $P { < } 0 . 0 1$ 或 $P { < } 0 . 0 0 1 \\$ )，且胸腺指数也有所下降，其中摄食 $ { 1 . 5 \\mathrm { ~ g ~ } }$ 组降低显著（ $P$ $< 0 . 0 5 )$ ，提示摄食量在 $3 . 0 \\ \\mathrm { g / }$ （只·d）及以下的小鼠胸腺与脾脏类似，也出现明显萎缩，其免疫功能下降。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.2.6辜丸质量与辜丸指数变化",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，与正常对照组比较，各控食组小鼠辜丸质量下降不显著（ $. P { > } 0 . 0 5 \\$ ，且摄食 $2 . 0 \\ \\mathrm { g }$ 组和摄食 $ { 1 . 5 \\mathrm { g } }$ 组的辜丸指数还显著升高（ $\\cdot P { < } 0 . 0 1$ 或 $P { < } 0 . 0 0 1 \\$ ，这说明相对体重变化而言，小鼠睾丸没有明显萎缩情况，同时还因小鼠体重下降导致睾丸指数相对升高，提示控食对小鼠辜丸无明显影响。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "总之，严格控制摄食对机体免疫器官脾脏与胸腺的影响最大，其次是代谢器官肝脏与肾脏，而对辜丸的影响最小。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "表4小鼠脏器质量及脏器指数变化",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Table 4Changes of viscera qualities and viscera indexes of mice ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "组别 Groups   \n项目 正常对照组 摄食 $4 . 0 \\ \\mathrm { g }$ 组 摄食 $3 . 0 \\ \\mathrm { g }$ 组 摄食 $2 . 0 \\ \\mathrm { g }$ 组 摄食 $ { 1 . 5 \\mathrm { g } }$ 组   \nItems Normal control $4 . 0 \\ \\mathrm { g }$ feeding （204号 $3 . 0 \\ \\mathrm { g }$ feeding $2 . 0 \\ \\mathrm { g }$ feeding $ { 1 . 5 \\mathrm { g } }$ feeding group group group group group ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/32c128b4241069fb84c7996d7aeeb9c4a7df357b061fc04e4fcaae54921b4e77.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>心脏质量</td><td>0.142±0.012</td><td>0.122±0.003*</td><td>0.114±0.016**</td><td>0.098±0.011***</td><td>0.082±0.012***</td></tr><tr><td>Heart quality</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>心脏指数</td><td>0.005±0.001</td><td>0.004±0.001</td><td>0.005±0.001</td><td>0.005±0.001</td><td>0.005±0.001</td></tr><tr><td>Cardiac index</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>肝脏质量</td><td>1.677±0.150</td><td>1.518±0.149*</td><td>0.958±0.065***</td><td>0.824±0.057***</td><td>0.736±0.068***</td></tr><tr><td>Liver quality</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>肝脏指数</td><td>0.055±0.003</td><td>0.053±0.005</td><td>0.039±0.002***</td><td>0.040±0.003***</td><td>0.041±0.001***</td></tr><tr><td>Hepatic index</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>肾脏质量</td><td>0.460±0.017</td><td>0.420±0.042*</td><td>0.316±0.025***</td><td>0.267±0.015***</td><td>0.249±0.028***</td></tr><tr><td>Kidney quality</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>肾脏指数</td><td>0.015±0.001</td><td>0.015±0.002</td><td>0.013±0.001*</td><td>0.013±0.001*</td><td>0.014±0.001</td></tr><tr><td>Kidney index</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>脾脏质量</td><td>0.109±0.016</td><td>0.105±0.017</td><td>0.067±0.006***</td><td>0.042±0.012**</td><td>0.041±0.011**</td></tr><tr><td>Spleen quality</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>脾脏指数</td><td>0.004±0.001</td><td>0.004±0.001</td><td>0.003±0.001</td><td>0.002±0.001**</td><td>0.002±0.001</td></tr><tr><td>Spleen index</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>胸腺质量</td><td>0.057±0.010</td><td>0.056±0.007</td><td>0.038±0.007**</td><td>0.032±0.012***</td><td>0.016±0.006***</td></tr><tr><td>Thymus quality</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>胸腺指数</td><td>0.002±0.001</td><td>0.002±0.001</td><td>0.002±0.001</td><td>0.002±0.001</td><td>0.001±0.001**</td></tr><tr><td>Thymus index</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>睾丸质量</td><td>0.211±0.024</td><td>0.175±0.024</td><td>0.195±0.014</td><td>0.185±0.016</td><td>0.192±0.023</td></tr><tr><td>Testis quality</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>睾丸指数</td><td>0.007±0.001</td><td>0.006±0.001</td><td>0.008±0.001</td><td>0.009±0.001**</td><td>0.011±0.001***</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "“\\*”、“\\*\\*”、“\\*\\*”均表示与正常对照组相比差异显著，但它们的 $P$ 值分别为 $< 0 . 0 5$ 、 $< 0 . 0 1$ 、 ${ < } 0 . 0 0 1$ 。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "下表同。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "“\\*” “\\*\\*” and “\\*\\*\\*” all indicated significant difference compared with normal control group,but the ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "$P$ -valuesof themwere $< 0 . 0 5$ 5 $< 0 . 0 1$ and ${ < } 0 . 0 0 1$ ,respectively.The same as below. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2.3肝脏胆固醇代谢不同过程相关基因表达变化",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2.3.1胆固醇摄取过程",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "由表5可知，与正常对照组比较，摄食量在 $3 . 0 \\ \\mathrm { g / }$ （只·d）及以下的各组Ldlr和Scarbl基因的表达均显著上调（ $\\cdot P { < } 0 . 0 5$ )。由于低密度脂蛋白受体（LDLR，其基因名为Ldlr）和B类清道夫受体1（SRB1，其基因名为Scarb1）是肝脏细胞摄入胆固醇的重要受体，此结果提示，严格控制摄食后，吸收入血液中的胆固醇含量下降，小鼠肝细胞Ldlr 基因的表达代偿性上调，以促进肝细胞摄入血液胆固醇。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "表5肝脏胆固醇摄取过程相关基因表达变化",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/c9b2d04805ea8a3ed771419e89dd548bb96fb2b6fcf16a17970fcf1868637847.jpg",
+        "table_caption": [
+            "Table 5Related gene expression changes in liver cholesterol uptake process "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">组别Groups</td></tr><tr><td>项目</td><td>正常对照组</td><td>摄食4.0g组</td><td>摄食3.0g组</td><td>摄食2.0g组</td><td>摄食1.5g组</td></tr><tr><td>Items</td><td>Normal control</td><td>4.0 g feeding</td><td>3.0 g feeding</td><td>2.0 g feeding</td><td>1.5 g feeding</td></tr><tr><td></td><td>group</td><td>group</td><td>group</td><td>group</td><td>group</td></tr><tr><td>Ldlr</td><td>1.00±0.30</td><td>0.78±0.11</td><td>1.79±0.33*</td><td>2.51±0.47*</td><td>2.06±0.36*</td></tr><tr><td>Scarb1</td><td>1.00±0.25</td><td>1.36±0.14</td><td>1.87±0.39*</td><td>1.90±0.38*</td><td>1.75±0.38*</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2.3.2胆固醇合成过程",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "由表6可知，与正常对照组比较，摄食量在 $3 . 0 \\ \\mathrm { g / }$ （只·d）及以下的各组Hmgcr基因的表达均显著上调（ $\\cdot P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ )，而Hmgcs1基因的表达无显著变化（ $\\scriptstyle P > 0 . 0 5 .$ 。由于羟甲基戊二酰辅酶A还原酶（HMGCR，其基因名为Hmgcr）参与细胞内胆固醇的自身合成过程，此结果提示，控制摄食后，小鼠肝细胞通过促进Hmgcr基因表达上调，以促进肝细胞合成胆固醇。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "表6肝脏胆固醇合成过程相关基因表达变化",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Table 6Related gene expression changes in liver cholesterol synthesis process ",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/ef4ebd99912b5f75bf6c9ed7543e82f6fef9e88a3b40d2fde4c4f2b21237eae9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">组别 Groups</td></tr><tr><td>项目</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>正常对照组</td><td>摄食4.0g组</td><td>摄食3.0g组</td><td>摄食2.0g组</td><td>摄食1.5g组</td></tr><tr><td>Items</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Normal control</td><td>4.0 g feeding</td><td>3.0 g feeding</td><td>2.0 g feeding</td><td>1.5 g feeding</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/1d87a8695c25eb94f545f29a80a605438160534f4fc71a7eeb8374d84ae6cc30.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>group</td><td>group</td><td>group</td><td>group</td><td>group</td></tr><tr><td>Hmgcr</td><td>1.00±0.32</td><td>1.01±0.48</td><td>2.55±0.92*</td><td>5.63±2.42**</td><td>9.00±3.93**</td></tr><tr><td>Hmgcs1</td><td>1.00±0.13</td><td>1.33±0.06</td><td>0.92±0.19</td><td>1.65±0.88</td><td>1.60±0.65</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2.3.3胆固醇储存过程",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "由表7可知，与正常对照组比较，摄食 $3 . 0 \\ \\mathrm { g }$ 组和摄食 $2 . 0 \\ \\mathrm { g }$ 组Lipe基因的表达显著上调（ $\\scriptstyle 1 < 0 . 0 5 ,$ )，而促进酯化的Acat1基因的表达无显著变化（ $. { \\cal P } { > } 0 . 0 5$ )。这提示，控制摄食后，小鼠肝细胞通过上调Lipe基因表达，以促进肝细胞内脂滴内酯化的胆固醇转化为游离胆固醇，供细胞所需以弥补胆固醇摄入不足。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "表7肝脏胆固醇储存过程相关基因表达变化",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "组别 groups ",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/bf93fd0fc8bb47a47b2b2e2d73a0ff2310da8bcd3939d356ce136b23be601e84.jpg",
+        "table_caption": [
+            "Table 7Related gene expression changes in liver cholesterol storage process "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\"></td></tr><tr><td>项目</td><td>正常对照组</td><td>摄食4.0g组</td><td>摄食3.0g组</td><td>摄食2.0g组</td><td>摄食1.5g组</td></tr><tr><td>Items</td><td>Normal control</td><td>4.0 g feeding</td><td>3.0 g feeding</td><td>2.0 g feeding</td><td>1.5 g feeding</td></tr><tr><td></td><td>group</td><td>group</td><td>group</td><td>group</td><td>group</td></tr><tr><td>Acat1</td><td>1.00±0.19</td><td>0.83±0.11</td><td>1.06±0.20</td><td>1.05±0.17</td><td>0.79±0.22</td></tr><tr><td>Lipe</td><td>1.00±0.15</td><td>1.34±0.11</td><td>2.41±0.29*</td><td>2.52±0.24*</td><td>1.34±0.26</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2.3.4胆固醇流出过程",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "由表8可知，与正常对照组比较，摄食 $4 . 0 \\ \\mathrm { g }$ 组 Apoe、Abcg5 和 Abcg8基因的表达并没有显著变化（ $\\scriptstyle \\cdot > 0 . 0 5 ,$ ，然而，摄食量在 $3 . 0 ~ \\mathrm { g / }$ （只·d）及以下的各组上述基因的表达均显著上调 $( P { < } 0 . 0 5 )$ )，同时各控食组Apoal、Abcal和 Abcgl基因的表达均无显著变化 $. P { > } 0 . 0 5 )$ 。这提示，严格控食后小鼠肝脏胆固醇流出增加，体现肝细胞代谢活跃。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "表8肝脏胆固醇流出过程相关基因表达变化",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/1c42d09d94adfa16583e554abd64b445843345353afca768bd2ee47682ebb756.jpg",
+        "table_caption": [
+            "Table 8Related gene expression changes in liver cholesterol outflow process "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">组别Groups</td></tr><tr><td>项目</td><td>正常对照组</td><td>摄食4.0g组</td><td>摄食3.0g组</td><td>摄食2.0g组</td><td>摄食1.5g组</td></tr><tr><td>Items</td><td>Normal control</td><td>4.0 g feeding</td><td>3.0 g feeding</td><td>2.0 g feeding</td><td>1.5 g feeding</td></tr><tr><td></td><td>group</td><td>group</td><td>group</td><td>group</td><td>group</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/c9a93f9ee56c29bbb23b7bc87b9d8145d7d3a425b94e67b99cd9c47a02049286.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Abca1</td><td>1.00±0.20</td><td>1.02±0.24</td><td>1.18±0.20</td><td>1.14±0.06</td><td>0.88±0.15</td></tr><tr><td>Abcg1</td><td>1.00±0.18</td><td>0.70±0.23</td><td>1.13±0.27</td><td>1.38±0.30</td><td>1.29±0.19</td></tr><tr><td>Abcg5</td><td>1.00±0.49</td><td>1.31±0.48</td><td>2.29±0.14*</td><td>3.67±0.58**</td><td>3.76±0.37**</td></tr><tr><td>Abcg8</td><td>1.00±0.38</td><td>1.37±0.06</td><td>2.39±0.38*</td><td>2.49±0.33*</td><td>2.16±0.23*</td></tr><tr><td>Apoal</td><td>1.00±0.21</td><td>1.03±0.30</td><td>1.23±0.59</td><td>1.01±0.20</td><td>1.14±0.26</td></tr><tr><td>Apoe</td><td>1.00±0.27</td><td>1.45±0.47</td><td>1.70±0.53*</td><td>1.82±0.39*</td><td>2.21±0.81*</td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "2.3.5胆固醇代谢转化过程",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "由表9可知，与正常对照组比较，除摄食 $4 . 0 \\ \\mathrm { g }$ 组 $C y p 7 a 1$ 基因的表达无显著变化( ${ \\cdot } P { > } 0 . 0 5 { \\cdot }$ ）外，其他控食组小鼠肝脏Cyp7a1和 Scap 基因的表达均显著上调（ $\\cdot P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ )。这提示，控食后加快了小鼠肝脏胆固醇代谢为胆汁酸的过程。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "表9肝脏胆固醇代谢转化过程相关基因表达变化",
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/20ccad60ea4605d326fe81ce66de38ae6927f817f135753b73cb07eef85cc58b.jpg",
+        "table_caption": [
+            "Table 9Related gene expression changes in liver cholesterol metabolism "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">组别Groups</td></tr><tr><td>项目</td><td>正常对照组</td><td>摄食4.0g组</td><td>摄食3.0g组</td><td>摄食2.0g组</td><td>摄食1.5g组</td></tr><tr><td>Items</td><td>Normal control</td><td>4.0 g feeding</td><td>3.0 g feeding</td><td>2.0 g feeding</td><td>1.5 g feeding</td></tr><tr><td></td><td>group</td><td>group</td><td>group</td><td>group</td><td>group</td></tr><tr><td>Cyp7a1</td><td>1.00±0.33</td><td>2.16±1.29</td><td>6.73±3.17*</td><td>12.43±3.94**</td><td>20.87±4.05**</td></tr><tr><td>Scap</td><td>1.00±0.13</td><td>1.93±0.17*</td><td>2.02±0.11*</td><td>2.69±0.35*</td><td>2.08±0.59*</td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "2.3.6胆固醇稳态 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "由表10 可知，与正常对照组比较，摄食量在 $3 . 0 { \\ } \\mathbf { g } /$ （只 $\\mathrm { \\bullet { _ { \\cdot } d } \\mathrm { \\cdot } }$ 及以下的各组Nr1h2、PparaPparg基因的表达均显著上调（ $P { < } 0 . 0 5 \\rangle$ ，Insig2基因的表达显著下调（ $\\scriptstyle P < 0 . 0 5$ ，而各组Nrlh3、Srebfl、Srebf2和Insig1基因的表达则无显著变化（ $P { > } 0 . 0 5$ )。这提示，控制摄食后小鼠调节肝脏胆固醇合成与代谢的肝脏X受体 $\\beta$ （LXRβ，基因符号为Nr1h2)、过氧化物酶体增殖剂激活受体α(PPARa，基因符号为Ppara)、过氧化物酶体增殖剂激活受体 $\\gamma ( { \\mathrm { P P A R } } \\gamma$ 基因符号为Pparg)被激活，以调节胆固醇的稳态平衡。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "表10肝脏胆固醇稳态相关基因表达变化",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Table 1ORelated gene expression changes in liver cholesterol homeostasis ",
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/37dbf404ff64e76b88a6a0d9f6b061925e426ae547b422a1cd55fedfbe216969.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>正常对照组</td><td>摄食4.0g组</td><td>摄食3.0g组</td><td>摄食2.0g组</td><td>摄食1.5g组</td></tr><tr><td>Items</td><td>Normal control</td><td>4.0 g feeding</td><td>3.0 g feeding</td><td>2.0 g feeding</td><td>1.5 g feeding</td></tr><tr><td></td><td>group</td><td>group</td><td>group</td><td>group</td><td>group</td></tr><tr><td>Nr1h2</td><td>1.00±0.23</td><td>1.05±0.10</td><td>1.57±0.28*</td><td>1.78±0.18*</td><td>1.40±0.21*</td></tr><tr><td>Nr1h3</td><td>1.00±0.17</td><td>1.15±0.29</td><td>1.35±0.60</td><td>1.06±0.15</td><td>1.33±0.38</td></tr><tr><td>Ppara</td><td>1.00±0.36</td><td>1.18±0.42</td><td>2.92±0.83*</td><td>2.75±0.46*</td><td>2.52±1.01*</td></tr><tr><td>Pparg</td><td>1.00±0.29</td><td>1.92±1.38</td><td>2.65±0.59*</td><td>2.50±0.71*</td><td>3.30±1.49*</td></tr><tr><td>Srebf1</td><td>1.00±0.08</td><td>0.65±0.32</td><td>1.11±0.23</td><td>1.46±0.40</td><td>0.66±0.11</td></tr><tr><td>Srebf2</td><td>1.00±0.16</td><td>1.00±0.08</td><td>1.20±0.39</td><td>1.35±0.21</td><td>1.33±0.33</td></tr><tr><td>Insig1</td><td>1.00±0.23</td><td>0.57±0.04</td><td>1.03±0.21</td><td>1.56±0.29</td><td>1.79±0.82</td></tr><tr><td>Insig2</td><td>1.00±0.24</td><td>0.91±0.19</td><td>0.32±0.07*</td><td>0.20±0.04*</td><td>0.24±0.06*</td></tr></table></body></html>",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "综合上述结果可知，控制摄食尤其是大比例限食后对小鼠肝脏胆固醇合成和代谢类基因的表达具有一定的影响，同时小鼠肝脏细胞也具有自我纠正细胞内外胆固醇稳态平衡的功能。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "2.4肾上腺皮质细胞胆固醇转化为皮质激素过程重要基因表达变化",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "由表11可知，与正常对照组比较，摄食 $2 . 0 \\ \\mathrm { g }$ 组和摄食 $ { 1 . 5 \\mathrm { g } }$ 组 Cyp1la1、 $C y p 2 1 a 1$ 基因的表达均显著上调 （ $\\cdot P { < } 0 . 0 5 \\$ ，摄食 $ { 1 . 5 \\mathrm { g } }$ 组 $S t A R$ 和 $C y p 1 1 b 1$ 基因的表达均显著上调（ $P$ <0.05)，且摄食 $3 . 0 \\ \\mathrm { g }$ 组、摄食 $2 . 0 \\ \\mathrm { g }$ 组和摄食 $\\mathrm { 1 . 5 ~ g }$ 组 $C y p 1 1 b 2$ 基因的表达显著下调（ $P <$ 0.05）。由于 StAR和Cypllal是肾上腺皮质细胞中胆固醇转化为孕烯醇酮的关键限速酶，Cyp2la1和Cyp11b1是皮质激素合成的方向酶，这提示，严格控制摄食后小鼠肾上腺可增强胆固醇的转化用于合成皮质激素以适应外界的应激反应；而Cyp11b2是醛固酮合成的关键酶，Cyp11b2基因表达下调提示小鼠严格控食后水钠代谢失衡。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "表11肾上腺皮质细胞胆固醇转化为皮质激素过程重要基因表达变化",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Table 11Important gene expression changes in the process of adrenal cortical cells cholesterol converted into corticosteroids ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/5bfbd8d4bf8e28491ca21091341814d96089d5a6eaedd5ae43608c6c2ede7c2b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">Items</td><td>正常对照组</td><td>摄食4.0g组</td><td>摄食3.0g组</td><td>摄食2.0g组</td><td>摄食1.5g组</td></tr><tr><td>Normal control</td><td>4.0 g feeding</td><td>3.0 g feeding</td><td>2.0 g feeding</td><td>1.5 g feeding</td></tr><tr><td>group</td><td>group</td><td>group</td><td>group</td><td>group</td></tr><tr><td>StAR</td><td>1.00±0.17</td><td>0.90±0.21</td><td>0.98±0.14</td><td>1.16±0.35</td><td>1.39±0.22*</td></tr><tr><td>Cyp1la1</td><td>1.00±0.28</td><td>1.10±0.42</td><td>1.03±0.20</td><td>1.69±0.54*</td><td>1.57±0.21*</td></tr><tr><td>Cyp21a1</td><td>1.00±0.17</td><td>1.00±0.26</td><td>1.29±0.29</td><td>3.51±0.21*</td><td>3.27±0.21*</td></tr><tr><td>Cyp11b1</td><td>1.00±0.16</td><td>0.85±0.13</td><td>0.77±0.13</td><td>1.16±0.05</td><td>1.35±0.18*</td></tr><tr><td>Cyp11b2</td><td>1.00±0.16</td><td>0.68±0.07</td><td>0.49±0.27*</td><td>0.45±0.13*</td><td>0.40±0.13*</td></tr></table></body></html>",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "2.5肾上腺StAR蛋白表达变化",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "由图2可知，与正常对照组比较，各控食组小鼠肾上腺 StAR蛋白表达均增强且与控食程度有关，随着摄食量的降低而增强，提示控食后小鼠肾上腺 StAR蛋白呈现代偿性表达，以促进胆固醇转化合成类固醇激素。",
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/c69d869b1f30b0c6b7cbf097e7f9292ca981b07b7c701c08fb5dcff737c11158.jpg",
+        "img_caption": [
+            "图2各组小鼠肾上腺 StAR蛋白表达比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Comparison of StAR protein expression in adrenal gland of mice among groups ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "2.6控食对小鼠血清皮质酮分泌的影响",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "由图3可知，与正常对照组比较，摄食 $4 . 0 \\ \\mathrm { g }$ 组、摄食 $3 . 0 \\ \\mathrm { g }$ 组小鼠血清皮质酮含量略有下降，而摄食 $ { 1 . 5 \\mathrm { g } }$ 组小鼠血清皮质酮含量几乎无变化，各控食组与正常对照组相比均无显著差异 （ $P { > } 0 . 0 5$ )。",
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/75879f6a47e1ec7fc8b4a462d62d015444628f18ae57e16e7e63d6322031892e.jpg",
+        "img_caption": [
+            "图3各组小鼠血清皮质酮含量比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Comparison of serum corticosterone content of mice among groups ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "3.1控制摄食对小鼠体重、主要脏器的影响",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "食物是哺乳动物机体最基本的需求，长期的摄食不足必将引起机体代谢异常，导致消瘦甚至恶液质样变化。早在《内经》就有\"饮入于胃，游溢精气，上输于脾，脾气散精，上归于肺，通调入道，下输膀胱。水精四布，五经并行。合于四时五脏阴阳，揆度以为常也（《素问·经脉别论》)。\"的描述[5]，体现了祖国医学对饮食入胃后其精气复杂的转化与传输过程的认识和高度总括。由此可见，由于饮食摄入不足必将影响机体脏腑功能的正常发挥，在临床上一些患者因控制饮食致厌食或被动不能进食，日久消瘦，机体出现明显的代谢异常表现。从治疗学角度考虑，补充摄食量足以纠正机体代谢失常，然而，摄食量减少后机体代谢发生哪些异常、控制摄食量比例多少对机体代谢影响最小，这是研究者所关心的问题。在一定比例之内的控制摄食对身体各项功能有许多正面作用，陈国芳等[报道控制摄食改善代谢指标的分子机制涉及多个方面。首先，控制摄食过程中体内酮体水平增加，适度升高的β -羟丁酸能够通过增强抗氧化应激因子叉头蛋白O3A（FOXO3A）和金属硫蛋白2（MT2）的活性，保护细胞免受氧化应激损害。其次，控制摄食后体内的瘦素水平降低，瘦素抵抗得到改善；同时，胰岛素样生长因子1（IGF-1）的水平下降，而 IGF-1/胰岛素信号通路下调与控制摄食的抗衰老、抗肿瘤、延长寿命作用密切相关。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "本试验结果表明，对于体重约 $2 5 { \\mathrm { g } }$ 的ICR雄性小鼠，正常对照组小鼠 $2 4 \\mathrm { h }$ 自由摄食量通常为 $4 { \\sim } 5 \\ \\mathrm { g }$ ，平均约为 $4 . 5 ~ \\mathrm { g } ( \\$ 摄食量约占体重的 $1 8 \\%$ ),按照正常摄食量的 $8 8 \\% [ 4 . 0 \\ \\mathrm { g } / ($ （只 $\\mathbf { \\vec { q } } )$ ，摄食量约占体重的 $1 6 \\% ]$ 给食后，小鼠体重及其脏器轻度缩小；按照正常摄食量的 $6 6 \\% [ 3 . 0 \\ \\mathrm { g } /$ (只·d)，摄食量约占体重 $12 \\%$ 给食后，小鼠体重、心脏、肝脏、肾脏、脾脏及胸腺均明显萎缩；而按照正常摄食量的 $4 4 \\% [ 2 . 0 \\ \\mathrm { g } /$ （只 $ \\cdot  { d } ) \\cdot$ ，摄食量约占体重 $8 \\%$ 及 $3 3 \\% [ 1 . 5 \\ : \\mathrm { g } /$ （只d），摄食量约占体重的 $6 \\%$ 给食后，小鼠体重及其脏器萎缩更加明显。该结果提示，2/3的正常摄食量可能是一个重要的临界点，一旦控食比例超过正常摄食量2/3以上，首要损害的是脾脏、胸腺与肝脏，其次是心脏和肾脏，而对性腺组织辜丸的影响最小。谢德娟[7研究发现，高营养可提高雄果蝇的精子束数量，加强生殖细胞的分裂，增加精巢的体积，进而提高雄果蝇的生殖能力，而限食则与其相反，导致雄果蝇生殖能力降低，但两者在老龄时都加速了生殖系统衰老状态的产生；此外，限食可通过降低雄果蝇的生殖能力而延长寿命，高营养则增强了雄果蝇的生殖能力从而使寿命降低，提示了生存与生殖间存在着物质、能量分配与平衡。从本次试验发现各控食组小鼠的日常活跃度明显高于正常对照组小鼠，生殖器官的质量没有明显下降，提示生殖功能不受控制摄食的影响。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "3.2控制摄食对小鼠肝脏胆固醇代谢的影响",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "胆固醇又称胆甾醇，广泛存在于动物体内，胆固醇在动物体内代谢情况对生物机体的生长、生殖各方面有重要生物学意义。胆固醇摄入的不足和过度都会影响生物机体的正常活动，本试验结果表明，按照正常摄食量 $6 6 \\%$ 以上比例 $[ 1 . 5 { \\sim } 3 . 0 \\ \\mathrm { g } /$ （只·d）]给食后，小鼠肝脏 Ldlr、Scarbl、Hmgcr、Lipe、Apoe、Abcg5、Abcg8、Cyp7al、Scap、Nrlh2、Ppara、Pparg基因的表达均显著上调，而Insig2 基因的表达则显著下调，提示控食比例超过正常摄食量2/3 以上时，涉及肝脏胆固醇摄取、合成、储存、流出、代谢以及调控胆固醇稳态的基因出现异常表达。研究表明，LDLR主要介导细胞对低密度脂蛋白的摄取与代谢过程，通过清除血液循环的中密度脂蛋白，降低低密度脂蛋白生成，并介导细胞摄取低密度脂蛋白，以加速其降解，从而维持血浆低密度脂蛋白相对稳定，如果LDLR功能异常将导致体内脂代谢紊乱[8]。SRB1是目前唯一被确认的高密度脂蛋白受体，主要分布于肝脏，它既能与高密度脂蛋白结合，还能与天然的低密度脂蛋白、氧化低密度脂蛋白及乙酰化低密度脂蛋白等结合，主要参与胆固醇的逆向转运，清除外周组织过多的胆固醇，以减缓脂质的沉积，被认为是一种抗动脉粥样硬化分子[9]。HMGCR 是催化细胞内胆固醇从头合成的限速酶，是调控胆固醇代谢的关键酶[10]。本研究结果提示，大幅度控制摄食后小鼠肝脏参与胆固醇摄取、合成及胆固醇的逆向转运的生化过程活跃，导致循环血液中胆固醇的含量下降。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "此外，胆固醇7α羟化r酶(由Cyp7a1基因编码)是肝脏胆固醇代谢为胆汁酸的第1步限速酶，并受成纤维细胞生长因子15（FgF15）等分子调控[1]。ATP结合盒转运体（ABC)家族成员ATP结合盒转运体G1(ABCG5,其基因名为Abcg5)和ATP结合盒转运体G8(ABCG8,其基因名为Abcg8)能够抑制小肠对胆固醇的吸收，增加胆固醇的胆汁分泌，在胆固醇的吸收和胆汁分泌等方面发挥重要作用[12-13]。而 ATP 结合盒转运体 A1(ABCA1，其基因名为Abcal)和ATP结合盒转运体G1(ABCG1，其基因名为Abcgl)主要功能是参与胆固醇的逆向转运过程[14]。核内受体超家族是一类由配体激活的转录因子[15-16],其中肝脏X受体α(LXRα,基因名为Nr1h3）、LXRβ、过氧化物酶体增殖剂激活受体（PPAR）等均可通过调节Ldlr、",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Scarb1基因的表达来调节胆固醇的代谢，PPARa是临床上常用的贝特类药物的靶点，而PPARγ参与控制葡萄糖和脂质代谢相关基因的表达，是 $\\mathrm { I I }$ 型糖尿病药物作用的重要靶点，因此，LXRα、LXRβ、PPARα和PPARγ被认为是调节胆固醇稳态的关键分子。据 Jakulj 等[12]研究结果提示，大幅度控制摄食后小鼠肝脏通过上调Abcg5和Abcg8基因的表达以抑制小肠胆固醇的吸收，并通过上调Cyp7a1基因的表达加速胆固醇转化为胆汁酸代谢过程，同时通过上调Nrlh2和Ppara、Pparg 基因的表达主动参与调节胆固醇稳态平衡。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "3.3控制摄食对小鼠肾上腺胆固醇转化的影响",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "肾上腺是将胆固醇转化为类固醇激素的重要代谢器官，尤其是肾上腺糖皮质激素和盐皮质激素，参与生命体重要的细胞代谢调节过程，而皮质激素合成酶在此过程发挥重要的生化作用[17]。本研究发现，按照正常摄食量 $44 \\%$ 及以上比例 $[ 1 . 5 \\small { \\sim } 2 . 0 ~ \\mathrm { g } /$ （只·d）]给食后，小鼠肾上腺参与编码胆固醇侧链裂解酶的Cypl1a1基因和皮质激素合成方向酶的基因Cyp21al的表达均显著上调，提示严格控制摄食后小鼠肾上腺皮质细胞利用胆固醇转化代谢为皮质激素的生化过程处于十分活跃状态；此外，按照正常摄食量的 $3 3 \\% [ 1 . 5 \\ : \\mathrm { g } /$ （只·d）]更严格控制摄食后，StAR 基因与 StAR 蛋白以及编码皮质酮合成酶11β羟化酶1的基因Cypl1b1的表达均显著上调，而编码醛固酮合成酶11β羟化酶2的基因 $C y p 1 1 b 2$ 的表达显著下降，提示大幅度严格控制摄食后小鼠肾上腺皮质细胞内胆固醇转运到线粒体内膜的转运过程主动增强，以提供更多的游离胆固醇供线粒体合成类固醇所需，且皮质酮合成过程更活跃，但是醛固酮合成过程被抑制。然而，值得注意的是，仅发现按照正常摄食量 $8 8 \\%$ 和 $6 6 \\%$ 给食的小鼠血清皮质酮含量略下降，并没有呈现与皮质酮合成酶的基因与蛋白表达一致性的趋势，推测皮质酮合成过程可能因被动性代偿而基因表达活跃而皮质酮分泌入血液中的实际含量依然不足，甚至与皮质酮代谢到尿液过程加速有关。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 超过正常摄食量1/3以上的控食比例将影响ICR小鼠体重及其脏器，首要损害的是脾脏、胸腺与肝脏，其次是心脏和肾脏，而对性腺组织辜丸影响最小，提示严格控制摄食最先损及免疫和代谢器官，而生殖器官自我保护能力最强，从而不影响繁衍后代。  \n$\\textcircled{2}$ 大比例严格控制摄食后，小鼠肝脏参与胆固醇摄取、合成与代谢关键基因表达活",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "跃，以维持肝细胞胆固醇稳态平衡的基本生物学机制。$\\textcircled{3}$ 严格控制摄食后，胆固醇在肾上腺皮质细胞转化为类固醇激素生化过程活跃，以主动合成皮质激素适应外界不同应激。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "参考文献：  \n[1] 江钟立,张勤,贺丹军,等.肥胖和糖尿病患者的饮食行为学分析[J].中华物理医学与康复杂志,2000,22(6):343-345.  \n[2] 刘力松,华琦,庞蓓蕾.原发性高血压患者饮食结构与心血管病危险因素[J].中华高血压杂志,2008,16(3):225-229.  \n[3]陈名道,李荣英.糖尿病饮食治疗的若干不同观点[J].中华内科杂志,2005,44(10):791-793.  \n[4] 张俊杰,李亮,柯斌.从肉碱稳态系统探讨饮食失节致脾虚的作用机制[J].时珍国医国药,2016,27(5):1257-1259.  \n[5]王庆其.内经选读[M].北京:中国中医药出版社,2007:59-60.  \n[6]陈国芳,刘超.限食对代谢性疾病的影响及其相关机制[J].诊断学理论与实践,2016,15(4):346-349.  \n[7] 谢德娟.限食与高营养对雄果蝇衰老与生殖的作用和机制研究[D].硕士学位论文.西安:陕西师范大学,2008.  \n[8] ZELCER N,HONG C,BOYADJIAN R,et al.LXR regulates cholesterol uptake throughIdol-dependent ubiquitination of the LDL receptor[J].Science,2009,325(5936):100-104.  \n[9] HEINECKE J W.Small HDL promotes cholesterol efflux by the ABCA1 pathway inmacrophages:implicationsfortherapiestargeted toHDL[J].CirculationResearch,2015,116(7):1101-1103  \n[10] TALL A R,YVAN-CHARVET L,TERASAKA N,et al.HDL,ABC transporters,and cholesterolefflux:implications for the treatment of atherosclerosis[J].CellMetabolism,2008,7(5):365-375.  \n[11] INAGAKI T,CHOI M,MOSCHETTA A,et al.Fibroblast growth factor 15 functions as anenterohepatic signal to regulate bile acid homeostasis[J].Cell Metabolism,2005,2(4):217-225.",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "[12] JAKULJ L,VAN DIJK T H,DE BOER JF,et al.Transintestinal cholesterol transport is active in mice and humans and controls ezetimibe-induced fecal neutral sterol excretion[J].Cell Metabolism,2016,24(6):783-794. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "[13]袁敏,王旻,付文亮,等.SAK-HV蛋白通过上调ABCg5/ABCg8的表达降低胆固醇的吸收[J].医学研究杂志,2015,44(7):17-22.",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "[14] KENNEDY M A,BARRERAG C,NAKAMURA K,et al.ABCg1 has a critical role in mediating cholesterol efflux to HDL and preventing cellular lipid accumulation[J].Cell Metabolism,2005,1(2):121-131. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "[15] PEET D J,TURLEY S D,MA W Z,et al.Cholesterol and bile acid metabolism are impaired in mice lacking the nuclear oxysterol receptor LXRα[J].Cell,1998,93(5):693-704. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "[16] HANKIR M K,SEYFRIED F,HINTSCHICH C A,et al.Gastric bypass surgery recruits a gut ppar-α-striatal d1r pathway to reduce fat appetite in obeserats[J].Cell Metabolism,2017,25(2):335-344. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "[17] MILLER W L,AUCHUS R J.The molecular biology,biochemistry,and physiology of human steroidogenesis and its disorders[J].Endocrine Reviews,2011,32(1):81-151. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Effects of Dietary Restriction on Cholesterol Metabolism in Liver and Adrenal Gland of Mice ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "QIAN HongliangPAN ZhiqiangWANG Xiaomin LU Tao FANG Zhaoqin (Basic Medical School of Shanghai University of Traditional Chinese Medicine, Shanghai 201203, China) ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This experiment was conducted to study the effects of dietary restriction on cholesterol metabolism in liver and adrenal gland of mice. ICR male mice were used as the study subjects, with adaptive feeding 3 days. After weighing up to 24 to $2 5 \\ \\mathrm { g }$ ，they were randomly divided into 5 groups with 6 mice in each group, including normal control group (free feeding), $ { 4 . 0 \\ \\mathrm { g } }$ feeding group [feed intake: $4 . 0 \\ \\mathrm { g / \\cdot d }$ per mouse; restriction ratio: $88 \\%$ of normal feed intake], $3 . 0 \\ \\mathrm { g }$ feeding group [feed intake: $3 . 0 ~ \\mathrm { g / d }$ per mouse; restriction ratio: $66 \\%$ of normal feed intake], $2 . 0 \\ \\mathrm { g }$ feeding feeding group [feed intake: $\\boldsymbol { 1 . 5 \\mathrm { \\ g / } }$ d per mouse; restriction ratio: $22 \\%$ of normal feed intake]. It was free drinking for all groups. After feeding restriction for 14 days,the mice were executed,and the heart, liver, kidney, spleen, thymus and testis were weighed and the organic indexes were calculated. The total RNA and total protein of hepatic and adrenal tissues were extracted. Then, cholesterol metabolism related genes mRNA relative expression levels were detected by real-time quantitative PCR technology，and steroidogenic acute regulatory protein (StAR） relative expression level was assayed by Western blot method,and serum corticosterone content were tested by enzyme-linked immuno sorbent assay (ELISA) method.The results showed as follows: 1) compared with the normal control group,the body weight of mice in dietary restriction groups was lost in different degrees,and the heart,liver,kidney， spleen and thymus of mice in dietary restriction groups were shrunken in different degrees. 2）Compared with the normal control group,the expression of low-density lipoprotein receptor (Ldlr)， scavenger receptor class B member1 (Scarbl)， hydroxymethyl glutaric acyl coenzyme A reductase(Hmgcr), hormone-sensitive triglayceride lipase (Lipe)，apolipoprotein E (Apoe)，ATP-binding cassete transporter G5 (Abcg5), ATP-binding cassette transporter G8 (Abcg8)， cytochromes P450 7A1 (Cyp7al)， sterol regulatory element binding protein cleavage active protein (Scap), liver X receptor $\\beta$ (Nrlh2)，peroxisome proliferators-activated receptor $\\mathfrak { a }$ (Ppara） and peroxisome proliferators-activated receptor $\\gamma$ (Pparg) genes in liver of $3 . 0 \\mathrm { ~ g ~ }$ feeding group, $2 . 0 \\mathrm { ~ g ~ }$ feeding group and $\\boldsymbol { 1 . 5 \\mathrm { ~ g ~ } }$ feeding group were significantly up-regulated $_ { \\it P < 0 . 0 5 }$ or $P < 0 . 0 1$ )，while the expression of insulin induced gene 2 (Insig2) gene was significantly down-regulated $( P { < } 0 . 0 5 )$ . 3) Compared with the normal control group, the expression of adrenal cytochromes P450 1A1 (Cypllal) and cytochromes P450 21A1 $( C y p 2 I a I )$ genes in adrenal gland of $2 . 0 \\ \\mathrm { g }$ feeding group and $\\boldsymbol { 1 . 5 \\mathrm { ~ g ~ } }$ feeding group were significantly up-regulated $( P { < } 0 . 0 5 )$ ，the expression of StAR and cytochromes P450 11B1 $( C y p 1 1 b 1 )$ genes in adrenal gland of $\\mathrm { 1 . 5 ~ g }$ feeding group were significantly up-regulated $_ { \\it P \\mathrm { < } 0 . 0 5 }$ ),and the expression of cytochromes P450 11B2 $( { C y p 1 1 b 2 } )$ in （204号 $3 . 0 \\mathrm { ~ g ~ }$ feeding group, $2 . 0 \\mathrm { ~ g ~ }$ feeding group and $\\mathrm { 1 . 5 ~ g }$ feeding group was significantly downregulated $( P { < } 0 . 0 5 )$ .Additionally, the adrenal StAR protein expression of all dietary restriction groups was strengthen, and it was strengthen with the feed intake decreasing. In conclusion, the organism metabolism such as spleen, thymus and liver are affected by extreme dietary restriction, and then the hepatic and adrenal cholesterol metabolism and conversion are affected. Key words: dietary restriction; mice; liver; adrenal gland; cholesterol metabolism; ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 23
+    }
+]

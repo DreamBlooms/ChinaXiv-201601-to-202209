@@ -1,0 +1,446 @@
+[
+    {
+        "type": "text",
+        "text": "型式试验对高压直流电缆交联副产物迁移过程及电导特性的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "范路男1997年生，博士研究生，主要从事介质物理理论及检测技术方面的研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "范路陈萌 张洪亮王亚林 吴建东尹毅（上海交通大学电子信息与电气工程学院 上海200240）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了保证高压直流电缆满足预期的使用条件和长期运行的稳定性，需要对高压直流电缆进行型式试验。对型式试验前后电缆的主绝缘由内层到外层交联副产物含量变化以及不同温度下电流密度随电场强度变化曲线进行分析。实验结果表明，型式试验抑制了低场强下的载流子迁移，促进交联副产物由内层向中层和外层迁移，且交联副产物的含量越多，温度越高，电流密度的阈值电场越低。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effect of Type Test on Migration Process of Cross-Linked By-Products and Conduction Characteristics of HVDC Cables ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fan LuChen Meng Zhang HongliangWang YalinWu Jiandong Yin Yi (school of Electronic Infermation and Electrical Engineering Shanghai Jiao Tong University Shanghai200240China） ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/a10e424a6b0e2b798275bde26c2780ddfae0bbfcadd96b307f9a5022dd15f08d.jpg",
+        "img_caption": [],
+        "img_footnote": [
+            "收稿日期：2018-08-03"
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/b4397dd181935fb0f93e2db6fee1c340ff39849f5b8616e5e090ecbff4f72ca1.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈萌女1994年生，硕士研究生，主要研究方向为聚合物绝缘材料介电性能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In order to ensure the expected conditions of using and long-term stability of the high voltage cable,a type test of the high voltage DC cable is required. Through the analysis of the content of cross-linking by-products from the inner layer to the outer layer and the current density at different temperatures as a function of the electric field strength of the main insulation of the cable before and after the type test.The experimental results show that the type test suppresses the carrier mobility of low field strength and promotes the migration of cross-linking by-products from the inner layer to the middle layer and the outer layer, the more the cross-linking by-product content and the higher the temperature, the lower the threshold electric field of the current density. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Type test, cross-linking by-product, temperature,current density, threshold electric field ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着柔性直流输电和海洋工业的发展，特高压直流输电的优势逐渐显现出来，高压直流电缆工作时载流量大、耐受电场强度较高、介质损耗小且不存在交流磁场的问题[1]。高压直流电缆的主绝缘多采用聚合物绝缘，相比于自容式充油和浸渍纸绝缘，具有低密度、运行温度高和力学性能好的优点[2-3]。目前广泛采用交联聚乙烯（XLPE）作为主绝缘材料，我国从2012年起在南澳、舟山和厦门三条柔性直流输电工程中应用不同电压等级的交联聚乙烯直流电缆。由于国内外以交联聚乙烯作为主绝缘的电缆运行年限较短，无法针对现场实际运行的试样进行全面系统的研究，为了保证预期的使用效果以及运行的稳定性，需要在实际运行前对电缆进行型式试验和预鉴定试验，通过对这些试验前后电缆的电性能进行对比分析，对电缆的长期运行状况作出评估和预测。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "交联聚乙烯采用化学或者物理方法使聚乙烯(PE）分子从线型分子结构变为三维网状结构，因此具有更好的热性能和机械性能[4]。目前应用较为广泛的交联方式为采用电加热的过氧化物化学交联工艺[5]。其中采用的过氧化物交联剂为过氧化二异丙苯（DCP)，DCP受热会分解产生交联副产物，其分解过程如图1所示。分解的副产物种类较多，目前国内外学者主要研究的交联副产物有 $\\mathbf { \\alpha } _ { \\mathrm { ~ \\normalfont ~ d ~ } }$ －甲基苯乙烯、苯乙酮和枯基醇[三种。交联副产物以杂质的形式存在于电缆主绝缘中，当电缆施加的电场较高时，交联副产物会解离成正负离子对，然后在电场的作用下迁移，形成局部陷阱，积累异极性空间电荷，从而加大局部电场强度，引起电场畸变，严重时会引发电缆击穿[7-8]。因此对以交联聚合物作为主绝缘的电缆进行交联副产物含量和迁移过程的分析对于电缆运行状况的评估具有重要意义。研究表明，型式试验可能会促进交联聚乙烯材料的二次交联，且热交联反应占据主导地位[5]。但交联副产物在型式试验前后电缆中的迁移过程尚不明确，而交联副产物在电缆绝缘层中的分布情况对于电缆实际运行中的电荷迁移过程影响很大[，这对进一步改善高压直流电缆绝缘电场分布的研究具有重要意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/82982eda35b433615154f9cd24674759dabd1ba537faba88c207f60969675d24.jpg",
+        "img_caption": [
+            "图1DCP交联剂受热分解图[7] ",
+            "Fig.1DCP cross-linking agent thermal decomposition diagram[7] "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "高压直流电缆材料中的陷阱分布对其在直流高场强下的电导特性有较大影响，由于直流电缆内部电场强度的分布与交流不同，介电常数在运行过程中基本不变，因此电缆绝缘中的稳态电场分布由电导率和内部空间电荷决定，且电导率受到场强和温度的影响较大[8-12]，仿真结果表明，电缆在实际运行中靠近线芯处的温度要比远离线芯处的温度高$1 0 \\sim 2 0 \\mathrm { ^ { \\circ } C }$ ，温差过大时，绝缘内部电场分布会相较于正常运行情况下发生反转，电场均匀度下降[13]，从而使电缆绝缘层内外温差更大。另一方面,交联副产物分解的正负离子形成空间电荷，空间电荷对于聚合物电导机理的影响，可通过空间电荷限制电流进行解释，A.Rose对空间电荷限制电流机理进行了比较详细的描述[14]。随着电场升高，电流会由欧姆电流区向空间电荷限制电流区转变[14]。电导率的升高会导致电缆绝缘的热损耗增加，造成局部过热现象，对于电缆的正常运行产生不利的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究对舟山柔性直流输电工程中自行研制的$3 2 0 \\mathrm { k V }$ 挤塑绝缘直流海底电缆型式试验前后的交联副产物含量和迁移过程以及电导特性进行分析，将电缆的主绝缘根据距中心导体的距离分为内中外三层，通过对主绝缘从内层到外层交联副产物的含量变化以及对应不同温度和场强下电导特性进行测量，分析交联副产物的迁移对电缆绝缘电导特性的影响，以便于今后对挤塑绝缘直流海底电缆的绝缘状态评估提供参考依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 实验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 型式试验和试样制备",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "型式试验按照国标GB/T31489.1—2015《额定电压 $5 0 0 \\mathrm { k V }$ 及以下直流输电用挤包绝缘电力电缆系统第1部分：试验方法和要求》执行，具体电气方面的试验流程如图2所示，电气试验方法按照表1执行。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/cdf4af7ac901980d5433d501f6d7d831f22aa4b2215ee65e61120cfb7532da1e.jpg",
+        "img_caption": [
+            "图2高压直流电缆型式试验流程示意图 Fig.2Schematic diagram of type test procedure for high voltage DC cable "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/82e629fd337140b2a0074c21876439576bdf058ae5e1dcd017099ba52e064f5b.jpg",
+        "table_caption": [
+            "表1 $3 2 0 \\mathrm { k V }$ 电缆型式试验电气流程",
+            "Tab.1The type test electrical process of $3 2 0 \\mathrm { k V }$ cable "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>试验项目</td><td>试验方法</td></tr><tr><td>负荷循环试验</td><td>±592kV下，8个24h负荷循环 8个24h负荷循环，同时464kV下极性反转 592kV下，3个48h负荷循环</td></tr><tr><td>叠加冲击电压实验</td><td>DC=+320kV，LI=-368kV，连续10次</td></tr><tr><td></td><td>DC=-320kV，LI=+368kV，连续10次 DC=+320kV，LI=-672kV，连续10次</td></tr><tr><td>叠加雷电冲击电压试验</td><td>DC=-320k，LI=+672kV，连续10次</td></tr><tr><td>直流电压试验</td><td>DC=-592kV，2h</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了研究电缆绝缘层由内到外的性能，需要对电缆进行切片处理，电缆切片示意图如图3所示，切片出来的试样厚度在 $3 0 0 \\sim 4 0 0 \\mathrm { { \\mu m } }$ ，取切片试样中心区域进行气相色谱－质谱分析以及电导特性研究。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2气相色谱-质谱法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "气相色谱是利用试样中的有机化合物在色谱柱中气相和固定相间的分配系数不同，通过反复多次分配实现不同有机化合物的分离。质谱法测量试样中离子的质荷比，利用电子束撞击气态分子，把电离出的离子加速导入质量分析器中，根据离子质荷比的不同进行排序记录采集，得到质谱图，根据质谱峰的位置和强度对气态分子进行鉴别。通过气相色谱－质谱分析可以实现对电缆复合绝缘中交联副产物的识别和含量的测量。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b8aba7fe6a57a7e340b86354e83fc321a8cc0d43137565c46c17b2aed487340.jpg",
+        "img_caption": [
+            "Fig.3Schematic diagram of cable insulation slice "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了对电缆绝缘层交联副产物的扩散进行更为细致的分析，将电缆绝缘层由内到外等距划分为6层，利用气相色谱－质谱对每层绝缘层中交联副产物的种类和含量进行测定。对试样进行气相色谱一质谱法分析前，需要对试样进行处理，取每层切片中心部分剪成细条状，称取1g置入事先准备的$1 5 \\mathrm { m l }$ 氯仿和 $1 5 \\mathrm { m l }$ 正己烷混合液体的试样瓶中，将试样瓶进行超声波振荡 $2 0 \\mathrm { m i n }$ ，沉淀 $1 0 \\mathrm { { m i n } }$ ，反复3次，振荡结束后静置1h，加入 $3 \\mathrm { g }$ 无水硫酸钠，摇晃均匀后静置1h，取试样瓶中的液体进行气相色谱一质谱分析。采用的实验设备为美国Agilent公司生产的型号为7890-5975的气相色谱－质谱联用仪。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3电导特性测量",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于电缆切片的电导测量采用实验室自制的三电极电流测量系统，测量系统主要由高压直流电源、温控系统、电流表以及电极系统组成。直流电源输出范围为 $0 \\sim 1 0 \\mathrm { k V }$ ，纹波系数小于 $1 \\%$ ，控温表采用千野CP350型数字式显示调节仪，控温精度$\\pm 0 . 2 5 \\%$ （ $\\pm 1 \\mathrm { d i g i t } )$ 。电流表采用Keithley6517A型静电计，最小理论测量精度为 $0 . 7 5 \\times 1 0 ^ { - 1 5 } \\mathrm { A }$ 。电极系统采用带保护极的三电极结构，从而消除沿面泄露电流对测量结果的影响，其中测量电极直径为$2 0 \\mathrm { m m }$ 。高电场电导系统结构如图4所示。测量系统如图5所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将电缆主绝缘等距划分为内中外三层，示意图如图3所示，测试部分选择中心区域，测量不同温度（ $3 0 \\ \\mathrm { ^ { \\circ } C }$ 、 $5 0 \\ \\mathrm { ^ c }$ 、 $7 0 \\ \\mathrm { ^ { \\circ } C }$ 和 $9 0 \\ \\mathrm { ^ circ C }$ ）下的极化电流曲线，由于XLPE的导热系数较小，为了保证绝缘试样在测量时达到指定温度，需要等待控温表的示数达到指定温度后 $1 0 \\mathrm { { m i n } }$ 开始测量。在每个测试温度下，按照电场强度 $1 \\mathrm { k V / m m }$ ， $2 \\mathrm { k V / m m }$ 、 $3 \\mathrm { k V / m m }$ 、$4 \\mathrm { k V / m m }$ 、 $5 \\mathrm { k V / m m }$ ， $6 \\mathrm { k V / m m }$ ， $7 \\mathrm { k V / m m }$ ， $8 \\mathrm { k V / m m }$ ，$9 \\mathrm { k V / m m }$ 、 $1 0 \\mathrm { k V / m m }$ 、 $1 1 \\mathrm { k V / m m }$ 、 $1 3 \\mathrm { k V / m m }$ 、 $1 5 \\mathrm { k V / }$ $\\mathrm { m m }$ 、 $1 7 \\mathrm { k V / m m }$ 、 $1 9 \\mathrm { k V / m m }$ 和 $2 0 \\mathrm { k V / m m }$ 的顺序逐级升压，每次升压测量 $1 0 \\mathrm { { m i n } }$ ，之后短路 $2 \\mathrm { m i n }$ ，短路用以消除上一次加压测量对下次测量的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/861804864f58e8296ec3e724bb6e3a5a270be6fdc8b6d90e665cbadc1f7d9881.jpg",
+        "img_caption": [
+            "图3电缆绝缘层切片示意图",
+            "图4高电场电导测量系统结构图",
+            "Fig.4Schematic diagram of high field conductance measurement system "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d2df7c7352df829f1c105f67f2b93fb00961de99c61eff9500e2e4d310bcf1c4.jpg",
+        "img_caption": [
+            "图5高电场电导测量系统"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 实验结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1型式试验对交联副产物迁移的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据气相色谱－质谱法的原理，三种交联副产物与固定相结合作用程度的不同，有机化合物的停留时间也不同，三种交联副产物停留时间的长短顺序为枯基醇 $>$ 苯乙酮>α－甲基苯乙烯，如图6所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/874ad1d62896e1938742de7e2dfd01a7d6e6800603e9941d725eb97841256984.jpg",
+        "img_caption": [
+            "图6切片试样的气象色谱图",
+            "Fig.6Gas chromatogram of sliced sample "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中，电缆主绝缘中，三种交联副产物的含量比较为枯基醇 $>$ 苯乙酮 $> \\alpha$ －甲基苯乙烯，为了对型式试验前后的电缆由内到外6层的三种交联副产物进行比较，方便看清 $\\mathbf { a }$ －甲基苯乙烯的含量，取纵轴为对数坐标系，如图7所示。发现型式试验前电缆绝缘中， $\\mathbf { \\alpha } _ { \\mathrm { ~ \\tiny ~ d ~ } }$ －甲基苯乙烯在第一层中含量最低,在第四层和第六层中含量较高，苯乙酮的含量从内层到外层逐渐增多，枯基醇在第一层含量最低，第一层到四层含量逐渐增多，在第四层至第六层含量相差不大。型式试验后电缆绝缘中，α－甲基苯乙烯在第一层中含量依然最低，在第三层含量最高，表现为中层含量高，内层和外层含量低。苯乙酮的含量在前三层中仍然呈现出递增趋势，但第四层含量降低，第五层与第六层含量基本持平且含量最高，枯基醇的含量在前三层呈现出递增趋势，后三层含量相差不大。总体看来，三种交联副产物在内层的含量较低，在外层的含量最高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3b318bfc5e56746ba10b70792783bdb8cf29bb18f9d4468d0bf0ec61c8100384.jpg",
+        "img_caption": [
+            "Fig.5High field conductance measurement system ",
+            "图7型式试验前后三种交联副产物的分布图 Fig.7Distribution of three cross-linked by-products before and after type test "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了进一步研究型式试验前后三种交联副产物的扩散过程，利用式（1）取对应交联副产物每一层与该交联副产物总含量的比值作为比较标准。结果如图8所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\omega _ { i } = \\frac { q _ { i } } { \\displaystyle \\sum _ { i = 1 } ^ { 6 } q _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/950240c0952132446a889bc0f95e2356f258c920a42d2a7be9a50d13e54cb5dc.jpg",
+        "img_caption": [
+            "图8型式试验前后三种交联副产物的变化图 Fig.8The change of three cross-linked by-products before and after the type test "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "经过型式试验， ${ \\bf { a } } - { \\bf { \\ell } }$ 甲基苯乙烯的含量逐渐集中在电缆绝缘的中层部分，最内层和最外层相比于型式试验前均有明显的减少，可认为型式试验会使得 $\\mathbf { \\alpha } _ { \\mathrm { ~ \\tiny ~ d ~ } }$ －甲基苯乙烯从绝缘的内层和外层向中间迁移。对于苯乙酮，经过型式试验，第一层和第二层含量减少，第三层含量出现明显增多，可认为型式试验会使得苯乙酮从内层向外部扩散。对于枯基醇，第一层和第二层的含量在经过型式试验后较为明显的降低，第三层、第五层和第六层较为明显的增多，可认为型式试验会使得枯基醇从内层向外层扩散。总体而言，经过型式试验，电缆主绝缘中交联副产物的含量有着由内层到外层较为明显的扩散趋势。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2型式试验对电导特性的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对型式试验前后电缆绝缘内中外三层的电流密度随着温度和电场强度的变化曲线进行分析，如图9所示。当温度由 $3 0 \\mathrm { { ^ circ C } }$ 上升至 $9 0 \\mathrm { { ^ \\circ C } }$ 时，电流密度呈现出大幅度增长，对于型式试验前试样，电流密度增加了2～4个数量级，从 $1 \\mathrm { k V / m m }$ 下由 $3 0 \\mathrm { { ^ circ C } }$ 时的${ { 1 0 } ^ { - 9 } } \\mathrm { { A / m } } ^ { 2 }$ 增大到 $9 0 \\ \\mathrm { ^ \\circ C }$ 时的 ${ { 1 0 } ^ { - 7 } } \\mathrm { { A / m } } ^ { 2 }$ ，到 $2 0 \\mathrm { k V / m m }$ 下从 $1 0 ^ { - 8 } \\mathrm { A / m } ^ { 2 }$ 增大到 $1 0 ^ { - 4 } \\mathrm { A / m } ^ { 2 }$ ；对于型式试验后的试样，电流密度增加了 $2 \\sim 3$ 个数量级，从 $1 \\mathrm { k V / m m }$ 下由 $3 0 \\mathrm { { ^ circ C } }$ 时的 ${ { 1 0 } ^ { - 1 0 } } \\mathrm { { A / m } } ^ { 2 }$ 增大到 $9 0 \\mathrm { { ^ circ C } }$ 时的 $1 0 ^ { - 8 } \\mathrm { A / m } ^ { 2 }$ 到 $2 0 \\mathrm { k V / m m }$ 下由 $1 0 ^ { - 7 } \\mathrm { A } / \\mathrm { m } ^ { 2 }$ 增大到 $1 0 ^ { - 4 } \\mathrm { A } / \\mathrm { m } ^ { 2 }$ 。在等温情况下分析电流密度随电场强度的变化曲线可以看出，在较低电场下，电导率随电场的变化较小，电场升高后，电导率随着电场的升高急剧增大，转变过程存在明显的转折点。对比不同温度下的内中外三层绝缘层，发现在低场强下，型式试验前电缆绝缘层的电流密度相比于型式试验后高大约一个数量级，在高场强下，型式试验前后电缆绝缘层的电流密度相差不多，这说明型式试验对高压直流电缆",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/867dd50e85867321ae269579950ab6451735f3b1e554166f06659a51cda95f57.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1E- 30℃： 50℃1E-5 ▲ 70℃90℃3.8kV/mm  \n// 1E-7 5.7kV/mm m1E-8 8.4kV/mm15.8kV/mm1E-91E-101E-111 10电场强度/(kV/mm)(c）型式试验前中层1E-4 30℃： 50℃1E-5 70℃90℃ 4.1kV/mm  \n（//电 1E-61E- 4.7kV/mm6kV/mm1E-81E-9 7.3kV/mm1E-101E-11-10电场强度/(kV/mm)(d）型式试验后中层1E-430℃· 50℃1E-5 70℃90℃  \n(U)/ 1E-6 3.8kV/mm  \n电 1E-71 5.5kV/mm 自1E-8 8.4kV/mm13.3kV/mm1E-91E-1011 10电场强度/(kV/mm)（e）型式试验前外层1E-0 ■ 30℃1E-5 50℃70℃ 4.2kV/mm1E-6 90℃  \n// 1E-7 4.8kV/mm1E-8  \n电 1E-9 6kV/mm7.9kV/mm1E-101E-111E-12-1 10电场强度/(kV/mm)(f）型式试验后外层图9型式试验前后电缆不同绝缘层的电流密度",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "内部载流子在较低场强下的迁移过程产生了影响，抑制了低场强下的载流子迁移。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于电流密度随着电场增加出现低场强下变化较小，高场强下急剧增加的现象，通过空间电荷限制电流理论进行描述，在低电场下，电缆主绝缘中参与电导的载流子主要为热平衡载流子，而电场对热平衡载流子的影响不大；随着电场强度的提高，载流子从电极注入到绝缘介质中所需要克服的势垒降低，使得电极注入的载流子数量明显增多，但此时绝缘介质中的陷阱尚未被填满，因此载流子的输运将会受到陷阱分布的影响，如果进一步增大场强，介质中的陷阱基本上填满，此时的载流子输运受陷阱的影响可以忽略，电流密度主要受到电极注入载流子数量以及载流子迁移率的影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了进一步描述温度及型式试验对于电缆主绝缘电导特性的影响，通常以 $\\mathrm { l g } J \\mathrm { - l g } E$ 双对数坐标进行做图，如图10所示，将电流密度随着电场强度出现明显转折的电场强度称为阈值电场，在阈值电场前，介质的电流密度符合欧姆定律。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1dd0e680b6a707e0dde1a5fc92aacafc2687bf1c6c743622398229de6d39f797.jpg",
+        "img_caption": [
+            "图10电流密度阈值电场示意图",
+            "Fig.9Current density of different insulation layers of cables before and after type test ",
+            "Fig.10The diagram of current density threshold electric field "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nj _ { \\Omega } = \\frac { e \\mu n _ { 0 } V } { d }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\mu$ 为载流子迁移率； $e$ 为元电荷量； $d$ 为试样厚度； $n _ { 0 }$ 为热平衡载流子密度。当外施电压较高时，一般认为聚合物电介质中的电导机理以空间电荷限制电流为主。受空间电荷限制的稳态电流密度符合Child 定律[15]",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nj _ { \\mathrm { c } } = { \\frac { 9 } { 8 } } { \\frac { \\mu \\varepsilon V ^ { 2 } } { d ^ { 3 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对型式试验前后内中外三层分别进行处理，在$\\mathrm { l g } J \\mathrm { - l g } E$ 双对数坐标下进行分段线性拟合，如图10所示。从图9中可以看出， $3 0 \\mathrm { { ^ circ C } }$ 时型式试验前内层的阈值电场高于 $2 0 \\mathrm { k V / m m }$ ，随着温度的升高，阈值电场不断降低，在 $3 0 \\mathrm { { ^ circ C } }$ 、 $5 0 \\mathrm { { ^ circ C } }$ 和 $7 0 \\mathrm { { ^ \\circ C } }$ 下，型式试验前的内中外三层电流密度的阈值电场均明显高于型式试验后，在 $9 0 \\mathrm { { ^ \\circ C } }$ 下，型式试验前后内中外三层电流密度的阈值电场相差不大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 分析与讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由图8可知，经过型式试验，电缆主绝缘中三种交联副产物的含量在由内到外六层中的分布出现变化，具体表现为 $a -$ 甲基苯乙烯由电缆主绝缘的内层和外层向中层迁移，苯乙酮和枯基醇由电缆主绝缘的内层向外层迁移，交联副产物以杂质的形式存在于电缆主绝缘中，当电缆施加较高电场时，交联副产物会解离成正负离子对，然后在电场的作用下迁移，相当于局部陷阱，形成异极性空间电荷，从而增强局部电场强度，引起电场畸变。交联副产物的迁移会引起局部陷阱在电缆绝缘层中分布的变化，空间电荷限制电流会受到局部陷阱分布和密度的影响，通过电流密度阈值电场的变化进一步研究，对图9进行分段线性拟合，标注出电流密度阈值电场，见表2。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表2型式试验前后 $J { - } E$ 曲线的阈值电场",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/4e72336eb2ee6497b87e4d89baaaa9b3676e3e4be53588b5c132e6eba0fac803.jpg",
+        "table_caption": [
+            "Tab.2Threshold electric field of $J { - } E$ curve before and after type test "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">温度</td><td colspan=\"6\">阈值电场/(kV/mm)</td></tr><tr><td colspan=\"3\">型式试验前</td><td colspan=\"3\">型式试验后</td></tr><tr><td>/℃</td><td>内层</td><td>中层</td><td>外层</td><td>内层</td><td>中层</td><td>外层</td></tr><tr><td>30</td><td>>20.0</td><td>15.8</td><td>13.3</td><td>8.0</td><td>7.3</td><td>7.9</td></tr><tr><td>50</td><td>9.0</td><td>8.4</td><td>8.0</td><td>6.0</td><td>6.0</td><td>6.0</td></tr><tr><td>70</td><td>6.6</td><td>5.7</td><td>5.5</td><td>4.5</td><td>4.7</td><td>4.8</td></tr><tr><td>90</td><td>3.7</td><td>3.8</td><td>3.8</td><td>3.6</td><td>4.1</td><td>4.2</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从表2中可以看出，在 $3 0 \\mathrm { { ^ circ C } }$ 、 $5 0 \\mathrm { { ^ circ C } }$ 和 $7 0 \\mathrm { { ^ circ C } }$ 下，经过型式试验，电流密度的阈值电场出现明显下降，但下降的幅度逐渐降低，这与三种交联副产物在主绝缘层中的含量分布和迁移有关，交联副产物含量越多，形成的空间电荷陷阱越多，载流子迁移受到空间电荷陷阱的影响越大，因此只需要较低的电场强度就能实现电流密度从欧姆区向空间电荷限制电流区的转变。在型式试验前，交联副产物在中层和外层的含量相比于内层较多，因此电缆绝缘中层和外层的电流密度阈值电场相比于内层明显降低。经过型式试验后，交联副产物进一步向中层和外层迁",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "移，导致电流密度的阈值电场进一步降低，在温度较低的情况下，电流密度的阈值电场受到交联副产物含量及分布的影响较大。在 $9 0 \\mathrm { { ^ circ C } }$ 时，型式试验前后电流密度的阈值电场均出现最低值，且型式试验前后不存在明显差异，说明此时电流密度的阈值电场受到温度的影响较大。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5 结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过对高压直流电缆型式试验前后由内层到外层的交联副产物含量变化以及不同温度下电流密度随电场强度的变化曲线分析，可以得出以下结论：（1）经过型式试验，电缆绝缘层中 $a$ -甲基苯乙烯从内层和外层向中层迁移，苯乙酮和枯基醇从内层向外层迁移。(2）型式试验抑制了低场强下载流子的迁移，对高场强下载流子迁移影响较小。(3）随着温度升高，电流密度的阈值电场逐渐降低，在温度较低时，三种交联副产物的迁移引起空间电荷陷阱分布的改变，使得型式试验后内中外三层相较于试验前电流密度的阈值电场有所降低，但在温度较高时，型式试验前后电流密度的阈值电场相差不大，温度的影响更加明显。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] 孙赞，敬强，高江．高压直流电力电缆的发展与应用概况[J]．产业与科技论坛，2011，10(17)：111-112.Sun Zan,Jing Qiang,Gao Jiang.Development andapplication of high voltage DC power cable[J].Industry and Technology Forum,2011,10(17): 111-112.  \n[2] 屠德民．高压直流电力电缆的发展概况[J]．电气电子教学学报，2001，23(2)：5-10.Tu Demin.A survey of the development of highvoltage DC power cables[J].Journal of EEEE,2001,23(2): 5-10.  \n[3] 袁清云．特高压直流输电技术现状及在我国的应用前景[J]．电网技术，2005，29(14)：1-3.Yuan Qingyun. Present state and application prospectof ultra HVDC transmission in China[J].PowerSystem Technology,2005,29(14): 1-3.  \n[4] 闫志雨，韩宝忠，赵洪，等．炭黑／交联聚乙烯纳米复合材料的空间电荷和电导特性[J]．高电压技术，2014，40(9)：2661-2667.Yan Zhiyu,Han Baozhong,Zhao Hong,et al.Spacecharge and electrically conductive characteristicsof CB/XLPE nanocomposites[J]. High VoltageEngineering,2014, 40(9): 2661-2667.  \n[5] 王芹．过氧化二异丙苯交联聚乙烯的制备及研究[D]．上海：东华大学，2009：1-23.  \n[6] Lan L,Wu J,Yin Y,et al. Investigation onheterocharge accumulation in crosslinkedpolyethylene: experiment and simulation[J]. JapaneseJournal of Applied Physics,2014, 53(7): 071702.  \n[7] 朱晓辉．交联工艺对交联副产物绝缘特性的影响[D]．天津：天津大学，2010.  \n[8] 兰莉．温度对聚合物绝缘中空间电荷行为的影响[D]．上海：上海交通大学，2015.  \n[9] 李淑琦．空间电荷特性在挤包绝缘交联聚乙烯高压直流电缆老化评估中的应用[D]．上海：上海交通大学，2015.  \n[10] Tu NR, Kao K C.High-field electrical conduction inpolyimide films[J]. Journal of Applied Physics,1999,85(10): 7267-7275.  \n[11] 王霞，王陈诚，孙晓彤，等．高温高场强下XLPE及其纳米复合材料电导机制转变的实验研究[J].中国电机工程学报，2016，36(7)：2008-2017.Wang Xia,Wang Chencheng,Sun Xiaotong,et al.Experimental study on the transference of conductionmechanisms of XLPE and its nano-composite underhigh temperature and high electrical stress[J].Proceedings of the CSEE,2016,36(7): 2008-2017.  \n[12] 尹毅，陈炯，李喆，等．纳米 SiOx/聚乙烯复合材料强场电导特性的研究[J]．电工技术学报，2006，21(2): 22-26.Yin Yi,Chen Jiong,Li Zhe,et al.High fieldconduction of the composites of low-densitypolyethylene/nano-SiOx[J].Transactions of ChinaElectrotechnical Society, 2006,21(2): 22-26.  \n[13] 王雅妮，张洪亮，吴建东，等．不同敷设方式下高压直流电缆温度场与电场仿真计算研究[J]．绝缘材料，2017，50(7)：71-78.Wang Yani, Zhang Hongliang,Wu Jiandong,et al.Simulation and calculation of temperature field andelectric field distribution of HVDC cable underdifferent laying modes[J]. Insulation Materials,2017,50(7): 71-78.  \n[14] Rose A. Space-charge-limited currents in solids[J].Physical Review, 1955,97(6): 1538.  \n[15] Mark P,Helfrich W. Space-charge-limited currents inorganic crystals[J].Journal ofApplied Physics,1962,33(1): 205-215.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

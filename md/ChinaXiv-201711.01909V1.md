@@ -1,0 +1,473 @@
+# New materials of micromammal fossils from Longyadong Cave in Luonan Basin, Shaanxi, central China
+
+LI Yong-Xiang1\* HU Song-Mei² WANG She-Jiang ZHANG Yun-Xiang
+
+(1StateKeyLaboratoryofContinentalDynamics,DepartmentofGeology,InstituteofCenozoicGeologyandEnvironment Northwest University Xi'an 710069 mzlyx1l $@$ 163.com $*$ corresponding author)   
+(2 Shannxi Provincial Institute of Archaeology Xi'an710054)   
+(3KeyLaboratoryofVertebrateEvolutionand HumanOriginsofChineseAcademyofSciences,InstituteofVertebrate PaleontologyandPaleoanthropology,ChineseAcademyofSciences Beijing10044 wangshejiang@ivpp.ac.cn)
+
+Abstract This paper describes some micromammal fossils which were excavated from the South Longyadong Cave in the Luonan Basin, eastern Qinling Mountains of Shaanxi Province, central China. The fauna include 15 mammals consisting by Scapanulus oweni,Nasillus andersoni, Uropsilinae gen.et sp.indet.,Soriculus sp.,Ochotona cf.O.alpina,Belomys parapearsoni,Allocricetus ehiki, Proedromys bedfordi, Allophaiomys deucalion, Eospalax sp., Niviventer preconfucianus,Apodemus asianicus,Apodemus sp.,Hystrix brachyura subcristata, Trogontherium cuvieri.Among them,Nasillus andersoni and Ochotona cf.O.alpina are the newly discovered fossl species.The fossil assemblage characteristics of newly micromammal faunal is similar to the North Longyadong Cave Fauna,and the geological age should not be later than early Middle Pleistocene.It might be a fauna of late Early Pleistocene.But in recent years,the thermoluminescence age of fossiliferous strata corresponding are $3 5 6 . 6 { \pm } 1 7 . 8$ kaBP, $2 7 3 . 9 { \pm } 1 3 . 7 \$ kaBP and $2 1 0 . 5 { \pm } 1 0 . 5 \ \mathrm { k a B }$ P.The fauna is including both the south and the north animals, the animal combination obviously has the characteristics of the transition between the south and the north of China.
+
+Key wordsSouth Longyadong Cave,Luonan Basin; Pleistocene;micromammal fossils
+
+Citation LiY X,Hu S M,Wang SJet al.,2016.New materials of micromammal fossils from Longyadong Cave in Luonan Basin, Shaanxi, central China.Vertebrata PalAsiatica, 54(4): 332-350
+
+# 陕西洛南龙牙洞小哺乳动物化石新材料
+
+李永项1\* 胡松梅² 王社江3\* 张云翔1(1 西北大学大陆动力学国家重点实验室，地质学系，新生代地质与环境研究所 西安710069\*通讯作者)
+
+(2 陕西省考古研究院西安710054)
+
+(3 中国科学院脊椎动物演化与人类起源重点实验室，中国科学院古脊椎动物与古人类研究所 北京100044)
+
+摘要：描述了1995\~1997年东秦岭山地洛南盆地龙牙南洞洞穴遗址中发掘出土的小哺乳动物化石，包括甘肃鼹Scapanulusoweni,峨眉嗣鼹Nasillusandersoni，鼩鼹(属种未定)Uropsilinae gen.et sp.indet.,长尾鼩Soriculus sp.,似高山鼠兔Ochotonacf.O.alpina,偏皮氏毛耳飞鼠Belomysparapearsoni,艾克氏异仓鼠Allocricetus ehiki,沟牙田鼠Proedromysbedfordi，欧洲异费鼠Allophaiomysdeucalion,始酚鼠Eospalaxsp.,先社鼠Niviventerpreconfucianus,亚洲姬鼠Apodemus asianicus,姬鼠Apodemus sp.,马来豪猪(华南亚种)Hystrix brachyura subcristata,居氏大河狸Trogontherium cuvieri等。该动物群同时包括南方型和北方型动物，其动物组合具有明显的南北过渡地带的特征。其中峨眉鼩鼹和似高山鼠兔为新发现的化石种。新发现的小哺乳动物化石组合类似于龙牙北洞，显示出比较古老的性质，时代上多为早更新世晚期或中更新世早期，但龙牙南洞遗址含化石地层对应的热释光(TL)年龄结果分别为 $( 3 5 6 . 6 { \pm } 1 7 . 8 )$ kaBP, $( 2 7 3 . 9 { \pm } 1 3 . 7 ) \$ kaBP和 $( 2 1 0 . 5 { \pm } 1 0 . 5 ) \$ kaBP,最近新的回授光释光(TT-OSL)测年数据进一步验证了热释光测年结果，获得的地层年代亦为距今40\~20万年左右。
+
+关键词：洛南盆地，龙牙南洞，更新世，小哺乳动物化石中图法分类号：Q915.873 文献标识码：A 文章编号：1000-3118(2016)04-0332-19
+
+东秦岭山地洛南盆地花石浪龙牙洞(龙牙洞由相距约 $3 0 \mathrm { ~ m ~ }$ 的西北-东南向并列的两洞组成，由于两洞并列，且相距不远，所以都被称为龙牙洞)是20世纪八、九十年代调查发现并经过进一步发掘研究的两个旧石器时代洞穴遗址，由西北大学(Xue,1987;Xue et al.,1998；1999a,b)和陕西省考古研究院(Wang et al.,2004;Wang and Huang,2001,2002;Wang,2005)分别进行发掘与研究，材料包括直立人白齿、大量的石器以及哺乳动物化石等。北洞和南洞上部采集的部分哺乳动物化石已经由薛祥煦等(1999b)研究发表，南洞1995\~1997年发掘出土的化石材料主要由陕西省考古研究院研究(Wang,2005,2008)。
+
+薛祥煦等依据采自龙牙北洞和南洞上部的部分哺乳动物化石及其组合的性质，认为该动物群可与公王岭动物群相对比，时代大约为早更新世晚期(Xue etal.,1999a,b)。王社江等依据龙牙南洞内外地层堆积物的热释光(TL)测年结果，认为遗址的时代为中更新世中、晚期，绝对年代应为距今50\~20万年左右(Wangand Huang,2001;Wang,2005,2008),孙雪峰等最近运用回授光释光(TT-OSL)技术对采自洞穴内外的沉积物样品进行测年，获得其绝对年代亦为距今40\~20万年左右(Sun etal.,2013)。
+
+本文所研究的小哺乳动物化石材料全部来自龙牙洞南洞，是陕西省考古研究院等于 $1 9 9 5 { \sim } 1 9 9 7$ 年系统发掘中出土标本的一小部分，从中鉴定出哺乳类15种。化石的出土层位为产出石制品的第2、3和4层，其中以第4层居多(Wang,2005,2008),本次鉴定的小哺乳动物化石主要来自洞外第5探方第4层，少数采自第1探方第4和5层(表1)。
+
+文中缩写： $\scriptstyle { \mathrm { L V } } =$ 龙牙洞脊椎动物化石编号； $\mathrm { L } =$ 长， $\mathrm { W } =$ 宽， $\mathrm { H } { = }$ 高； $\mathrm { W } _ { 1 } { = }$ 齿座宽，$\mathrm { W } _ { 2 } \mathrm { = }$ 跟座宽。
+
+# 表1哺乳动物化石名单及其层位
+
+Table1 List of mammalian fossils and the stratum   
+
+<html><body><table><tr><td></td><td>Fossil number</td><td>Horizon</td><td>Age (kaBP)1)</td></tr><tr><td>甘肃鼹Scapanulus oweni</td><td>LV 12</td><td>I-4</td><td></td></tr><tr><td>峨眉鼩鼹Nasillusandersoni</td><td>LV 14-15</td><td>T5-4</td><td>356.6±17.8</td></tr><tr><td>鼩鼹（属种未定）Uropsilinae gen.et sp.indet.</td><td>LV 13</td><td>T5-4</td><td></td></tr><tr><td>长尾鼩n Soriculus sp.</td><td>LV 11</td><td>T5-4</td><td>273.9±13.7</td></tr><tr><td>似高山鼠兔 Ochotona cf.O.alpina</td><td>LV 36-45,LV 39.1</td><td>T5-4</td><td></td></tr><tr><td>偏皮氏毛耳飞鼠Belomysparapearsoni</td><td>LV 27</td><td>T5-4</td><td></td></tr><tr><td>艾克氏异仓鼠Allocricetusehiki</td><td>LV 26</td><td>T5-4</td><td></td></tr><tr><td>沟牙田鼠Proedromys bedfordi</td><td>LV 16,LV 21-23</td><td>T5-4</td><td></td></tr><tr><td>欧洲异费鼠？Allophaiomysdeucalion</td><td>LV 17-20</td><td>T5-4</td><td></td></tr><tr><td>始酚鼠Eospalax sp.</td><td>LV28-31</td><td>T5-4</td><td></td></tr><tr><td>先社鼠Niviventer preconfucianus</td><td>LV 32</td><td>T5-4</td><td></td></tr><tr><td>亚洲姬鼠Apodemusasianicus</td><td>LV33,LV 35</td><td>T5-4</td><td></td></tr><tr><td>姬鼠（种未定）Apodemus sp.</td><td>LV 34</td><td>T5-4</td><td></td></tr><tr><td>马来豪猪（华南亚种）Hystrix brachyura subcristata</td><td>LV 46,LV 46.1</td><td>T4-4</td><td></td></tr><tr><td>居氏大河狸Trogontheriumcuvieri</td><td>LV 47</td><td>T1-5</td><td>210.5±10.5</td></tr></table></body></html>
+
+1) Based on Wang and Huang,2001.
+
+# 1 化石描述
+
+哺乳纲Class MammaliaLinnaeus,1758食虫目 OrderInsectivora Bowdich,1821鼹鼠科TalpidaeGray,1825甘肃鼹属 Scapanulus Thomas,1912甘肃鼹 Scapanulus oweni Thomas,1912
+
+(图1A-C;表2)
+
+材料 1左下颌带i2-m3,m3残破(LV12)。
+
+层位I-4,洞内I区，第4层。
+
+测量见表2。舌侧下颌深在 $\mathrm { m } 1 / \mathrm { m } 2 / \mathrm { m } 3$ 之下分别为2.11/2.58/2.37 mm。
+
+描述下颌水平支最前端破损，i1断失。齿式为：2·1·3·3。下颌骨下缘在m1下向上隆起，上升支微向后倾斜，咬肌窝深，下颏孔位于p4前齿根之下，斜向前上方张开。从破损的第一门齿孔看，第一门齿很小，第二门齿发育，厚板状，高于其后的c,p2和p3,与p4相当。犬齿扁锥状，低于第二门齿，但高于p2,与p3相当。p2虽小，但具有明显的下后尖，2齿根。p3和p4依次增大，形态相似。
+
+m1下前尖最低，下原尖最高，下次尖略低于下后尖。齿座盆向舌侧开放，下原尖与下后尖的距离明显小于下次尖与下内尖距离，使跟座明显大于齿座。下斜脊终止于齿座后壁中部，有弱的下内尖脊存在，使跟座盆向舌侧呈半封闭状态。下内附尖大于下前附尖。
+
+$\mathrm { m } 2$ 齿冠结构类似于m1，但下前尖和下前附尖增大，下原尖与下后尖的距离增大，使齿座与跟座近于等大。下中附尖发育，下斜脊伸向舌侧，并与下中附尖相连，使牙齿的外谷很深。下中附尖与下内尖脊相连使跟座盆近于封闭。下前附尖略大于下内附尖。
+
+$\mathbf { m } 3$ 齿座类似于m2,但相对较小，下前附尖增大。整个跟座盆破损，从保留的基部形态来看，下斜脊亦伸至舌侧边缘。
+
+![](images/a29cff75f4e1f34594cd82230af7be9db10fe40615a76c7da3e707a092c2d854.jpg)  
+图1 甘肃鼹和鼩鼹(属种未定)  
+Fig.1 ScapanulusoweniandUropsilinae gen.etsp.indet.
+
+A-C.LV12 甘肃鼹左下领 Scapanulus oweni,left mandible:A.唇侧视 labial view,B.舌侧视 lingual view,   
+C.ml-m3舌侧视 lingual view of $\mathrm { m } 1 { - } \mathrm { m } 3$ ;D-F.LV13 鼹(属种未定)左下颌Uropsilinae gen.et sp.indet., left mandible: D.唇侧视 labial view,E.舌侧视 lingual view,F.p2-m2舌侧视 lingual view of p2-m2 Scale bars equal $2 \mathrm { m m }$ （204
+
+比较与讨论龙牙南洞的标本，第一门齿很小，第二门齿特别发达，下犬齿小于下第二门齿，下前臼齿(p2,p3,p4)依次增大，且均具2齿根。白齿中m2最大，m1最小，m2和 $\mathbf { \dot { m } } 3$ 的下斜脊偏向舌侧，这些特点与现生的甘肃鼹Scapanulusoweni比较一致(Zhengetal.,2010)。
+
+中更新世秦皇岛山羊寨动物群中的甘肃鼹标本，牙齿特征及大小与龙牙南洞的标本比较一致，均接近于现生种，而与早更新世的相似种有较大区别(Lietal.,2016)。
+
+中国早更新世繁昌人字洞发现有甘肃鼹(相似种) Scapanuluscf.S.oweni(Jin et al,2009),但其两个门齿大小相近，p3具单齿根，白齿中 $\mathrm { m } 3$ 最小， $\mathrm { m } 2$ 和m3的下斜脊不偏向舌侧以及体型较小等特征，与现生的甘肃鼹有较大的区别。
+
+表2 甘肃鼹和鼩鼹(属种未定)的测量与比较 Table 2Measurements and comparison of teeth of Scapanulus oweni and Uropsilinae gen.et sp.indet. (mm)   
+
+<html><body><table><tr><td></td><td>Scapanulusoweni</td><td>Scapanulus cf.S.owenid)</td><td>Uropsilinae gen.et sp.indet</td></tr><tr><td>i2 L/W</td><td>0.84/0.53</td><td></td><td></td></tr><tr><td>c1 L/W</td><td>0.63/0.68</td><td>0.67/0.50</td><td></td></tr><tr><td>p2 L/W</td><td>0.84/0.63</td><td></td><td>0.63/0.58</td></tr><tr><td>p3 L/W</td><td>1.10/0.63</td><td>0.80/0.50</td><td>0.74/0.74</td></tr><tr><td>p4 L/W</td><td>1.39/0.84</td><td>1.47/0.70</td><td>1.32/0.84</td></tr><tr><td>m1 L/W/W2</td><td>1.90/1.20/1.50</td><td>2.29/1.14/1.33</td><td>1.80/1.40/1.60</td></tr><tr><td>m2 L/W/W2</td><td>2.20/1.50/1.60</td><td>2.41/1.33/1.32</td><td>2.10/1.60/1.60</td></tr><tr><td>m3 L/W/W2</td><td>2.00/1.40/-</td><td>2.01/1.05/0.94</td><td></td></tr><tr><td>m1-m3L</td><td>6.10</td><td>6.50</td><td></td></tr></table></body></html>
+
+1)Based on Jin et al.,2009.
+
+# 驹鼹属NasillusThomas,1911 峨眉鼩鼹 Nasillusandersoni Thomas,1911 （图2;表3)
+
+材料1残破头骨前部，带左P2-M1,右P4-M2及前部齿孔(LV14),1残破右下颌，带p2-m3 (LV 15)。
+
+层位T5-4,洞外第5探方，第4层。
+
+测量见表3。
+
+描述头骨残破(图2A),P2较大，2齿根，单尖。P3小，单尖单根。P4臼齿化，前尖大，无前附尖，唇侧不呈刃脊状，原尖小，后缘不凹。M1和M2的原尖与次尖齿质贯通。第一门齿孔巨大，第二个次之，后边依次减小，应为门齿犬齿化，犬齿变小。齿式为2·1·4·3。门齿孔长圆形，向后边分开，吻长，眼眶小。
+
+下颌骨保存相对较好(图2B)。p4最大，p2次之，p3很小。两个下颌孔分别位于p4和m1下方，角突细，冠状突和关节突破损，下齿列中 $\mathrm { m } 2$ 最大。齿冠低，齿凹半封闭，前边有3个齿孔，第一齿孔大。齿式为1·1·3·3。
+
+标本以齿式特殊、P4唇侧不呈刃脊状、后缘不凹、下颌第一门齿较大以及下p3很小等特征区别于鼹科其他属种(郑绍华个人资料)。该种主要分布于川西(Zhang,1997;Wang,2003),现在的研究区洛南已未见记录，其生态特点为山地森林草地。目前未见化石报道。
+
+表3峨眉鼩鼹牙齿测量 Table3MeasurementsofteethofNasillusandersoni   
+
+<html><body><table><tr><td>P2</td><td>P3</td><td>P4</td><td>M1</td><td>M2</td><td>P2-M1</td><td>P4-M2</td><td>m1</td><td>m2</td><td>m3</td><td></td><td>p2-m3 ml-m3</td></tr><tr><td>L/W</td><td>L/W</td><td>L/W</td><td>L/W</td><td>L/W</td><td>L</td><td>L</td><td>L/W</td><td>L/W</td><td>L/W</td><td>L</td><td>L</td></tr><tr><td>0.80/0.50</td><td>0.30/0.40</td><td>1.00/1.00</td><td>1.80/1.40</td><td>1.50/1.60</td><td>3.80</td><td>4.10</td><td>1.20/1.10</td><td>1.50/1.10</td><td>1.30/0.90</td><td>5.90</td><td>4.10</td></tr></table></body></html>
+
+![](images/6827c5781ce699b4849488ced96d58d6e4257f3035f8429873c0a6a081296e6b.jpg)  
+图2峨眉鼩鼹  
+Fig.2 Nasillus andersoni
+
+A.LV14 头骨腹视 ventral view of broken skull;B.LV15 右下颌 right mandible:1.唇侧视 labial view; 2.舌侧视 lingual view;3.右下齿列嚼面视 occlusal view of right lower teeth.Scale bar equals $2 \mathrm { m m }$
+
+# (属种未定)Uropsilinae gen.etsp.indet.
+
+(图1D-F;表2)
+
+材料 1残破左下颌,带p2-m2 (LV13)。
+
+层位T5-4,洞外第5探方，第4层。
+
+测量见表2。下颌深：在 $\mathrm { m } 1 / \mathrm { m } 2 / \mathrm { m } 3$ 之下分别为2.79/3.21/3.16 mm。
+
+描述下颌骨粗壮，两个下颏孔，分别位于p2和p4下方，前颏孔位置较低。上升支前缘较陡。齿式为2·1·3·3。从齿槽孔看，第一门齿较小，第二门齿很大，犬齿孔椭圆形，小于第二门齿孔，与p2相当。p2小，具2个齿根，p3和p4均具2齿根，并依次增大，齿冠后部增宽，p4后齿带发育并与下后尖相连。
+
+m1下前尖小，齿座小而高位，跟座低而宽敞，齿座盆向舌侧开放，跟座盆封闭。 下内脊偏向唇侧，与斜伸而来的下斜脊交于齿座后壁中部。下前附尖小于下内附尖。
+
+m2齿冠结构类似于m1,但齿座加宽，与跟座相当。下内脊不向唇侧偏斜。下斜脊依然终止于齿座后壁中部，下前附尖增大，大于下内附尖。
+
+比较与讨论龙牙南洞的标本其下齿列仅有两个下门齿，不同于鼹亚科各属，而应属于鼩鼹亚科Uropsilinae。其体形大小、齿式和牙齿的主要形态特征(如第二门齿很大，p1缺失，p2，p3和p4具2齿根并依次增大， $\mathrm { m } 2$ 大于m1等(表2))与甘肃鼹接近，但下颌骨明显粗壮，上升支前缘较陡，以及m1下内脊偏向唇侧和m2下斜脊不偏向舌侧等特点又不同于甘肃鼹。其下颌骨明显粗壮，两个下颏孔，第二门齿很大，p2和p3具2齿根等特征，也与甘肃鼹(相似种)Scapanulus cf.S.oweni相区别。也明显区别于繁昌人字洞下颌骨修长，p2和p3单齿根的鼩鼹(属种未定)Uropsilinae gen.et sp.indet.(Jin et al.,2009)。
+
+龙牙南洞的标本下前臼齿均具有两齿根，下白齿的下内脊发育，类似于北美的化石属Mystipterus,但目前对比材料很少，故暂不定属种。
+
+鼩科SoricidaeGray,1821 长尾属SoriculusBlyth,1854 长尾鼩睛 Soriculus sp.
+
+(图3)
+
+材料1残破左下颌，无牙(LV 11)。
+
+层位T5-4,洞外第5探方，第4层。
+
+测量下颌深： $\mathrm { m } 2 / \mathrm { m } 3$ 之下分别为 $1 . 1 6 / 1 . 0 6 \mathrm { m m }$ 。
+
+描述体型很小。水平支在 $\mathrm { m } 2$ 下方轻微上凹，外颞窝较浅(明显有别于Sorex和Crocidura)。整个突关节由上下两个关节面组成，其下关节面大约呈长方形，相对较长；上关节面较小，且有破损，近于方形，与下颌关节面大致平行。上下关节面经中间骨桥联合起来，下关节面向内伸出，整个形态近似于“L”形(图3D)。
+
+比较依下颌形态特点，龙牙南洞的标本与呈贡三家村和安徽繁昌等地点的长尾鼩Soriculus类似(Qiu et al.,1984:283,fig.2; Jin et al.,2009:116,figs.4.9,4.11),但个体却明显较小,而与上长尾鼩Episoriculus sp.接近(下颌高：龙牙南洞Soriculus sp.:1.06;繁昌Episoriculussp.: 0.97;繁昌S. fanchangensis: $1 . 2 5 ^ { * }$ ；建始S.hypsibius: $1 . 2 9 ^ { * }$ ；呈贡S.leucops: $1 . 2 3 ^ { * }$ 。\*图上测量值，单位：mm)。由于标本残破，且没有牙齿保存，暂定其为Soriculus。
+
+![](images/f7b10d1d2047dbc0419fa2438551d6a0cb1a55e61b5015c2f5e32dfe1d917c8d.jpg)  
+图3长尾鼩鼱  
+Fig.3Soriculus sp.
+
+A-C.LV11左下颌 left mandible:A.唇侧视 labial view,B.舌侧视 lingual view,C.嚼面视occlusal view, D.骨突 condylar. Scale bar equals $2 \mathrm { m m }$
+
+啮齿目RodentiaBowdich,1821 鼠科PetauristidaeMiller,1912 毛耳飞鼠属BelomysThomas,1908 偏皮氏毛耳飞鼠Belomysparapearsoni Zheng,1993
+
+（图4A-B;表4)
+
+材料 1残破头骨带左侧P4-M3,右侧P3-M1(LV 27)。
+
+层位T5-4,洞外第5探方，第4层。
+
+测量见表4。
+
+描述头骨严重破损，仅保留腹面及两侧齿列(图4A-B)。左侧P3残破，紧靠P4;右侧P3缺失，齿槽明显，单孔。P4冠面呈三角形，3齿根，前齿根向前伸展。M1小于M2,呈唇舌宽度大于前后长度的长方形，牙齿前部有4个珐琅质凹坑。M2类似于M1,牙齿更大，凹坑更发育。M3较M1和M2简单，后部明显收缩。
+
+比较与讨论标本牙齿的主要构造，包括前边脊、前附尖和4个主要齿尖及其之间的小坑与附脊等特征，与龙骨坡的皮氏毛耳飞鼠Belomyspearsoni相似(Zheng,1993:28,fig.17c),但也有一些明显区别：个体更小(表4),P4向舌侧更为凸出，M1的长宽均小于M2,M3缺失后尖，冠面近似于圆形，牙齿后内侧完全封闭，后小尖与后边脊相连处不膨大，舌侧齿根最为粗壮，所有颊齿齿褶更显圆润、简单。
+
+B.parapearsoni是郑绍华(1993)据四川巫山龙骨坡的一些单个牙齿建立的新种，也是该属中唯一的一个化石种，后来薛祥煦等(1999b)在陕西洛南龙牙洞又发现一颗左M3,其与龙牙南洞标本相比几乎没有差别，只是后者的M3尺寸稍小一些(表4),且此后再无信息。本文所描述的标本来自于龙牙南洞洞外第5探方第4层，即T5-4,尽管只有一件标本，但已是该种已发现的材料中最好的标本：上颚两侧近乎完整的齿列。
+
+able 4 Measurements and comparison of teeth of Belomys parapearsoni and B.pearsoni (mm   
+
+<html><body><table><tr><td>Sites</td><td>P4-M3 L</td><td>M1-M3 L</td><td>P4W</td><td>between between M3 W</td><td>P4 L/W</td><td>M1 L/W</td><td>M2 L/W</td><td>M3 L/W</td></tr><tr><td>South Longyadong Cave Belomys parapearsoni</td><td>10.00</td><td>7.70</td><td>3.20</td><td>4.80</td><td></td><td></td><td></td><td>4.10/3.80 2.55/2.80 2.70/3.00 2.60/2.50</td></tr><tr><td>North Longyadong Cave B.parapearsonil)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>2.50/2.42</td></tr><tr><td>Longgupo B.parapearsoni2)</td><td></td><td></td><td></td><td></td><td>4.26/3.86 2.53/2.82</td><td></td><td></td><td>2.86/2.80 2.78/2.72</td></tr><tr><td>Longgupo B.pearsoni)</td><td>12.10</td><td>7.90</td><td>4.30</td><td>5.23</td><td>4.55/3.69 2.71/3.50 2.86/2.96 2.73/2.69</td><td></td><td></td><td></td></tr></table></body></html>
+
+Based on:1) Xue et al.,1999b; 2) Zheng,1993.
+
+仓鼠科CricetidaeFishervonWaldheim,1817 异仓鼠属AllocricetusSchaub,1930 艾克氏异仓鼠AllocricetusehikiSchaub,1930
+
+(图4C;表5)
+
+材料 1残破右下颌带m1-3 (LV 26)。
+
+层位T5-4,洞外第5探方，第4层。
+
+测量见表5。
+
+描述m1前壁光滑，舌侧下前齿尖孤立，下前纵壁与下原尖前壁及下后尖的前弓缘前支相连。唇侧下前边尖与下前齿带及下前纵脊完全贯通。由于磨蚀严重，使得主要齿尖包括唇侧下前边尖、下后尖、下原尖、下内尖、下次尖及下后尖带变得宽畅、贯
+
+![](images/3f88f92a5a61ce25de414c900b086ffd0cbc4618a517396c9212fbc00ab6451a.jpg)  
+图4偏皮氏毛耳飞鼠和艾克氏异仓鼠  
+Fig.4 Belomysparapearsoniand Allocricetusehiki
+
+A-B.LV27偏皮氏毛耳飞鼠残破上腭嚼面视Belomys parapearsoni inocclusal view;C.LV26艾克氏异仓鼠右ml-m3Allocricetusehiki,occlusal viewof right $\mathrm { m } 1 { - } \mathrm { m } 3$ . Scale bars equal $2 \mathrm { m m }$ 通，在舌侧齿冠中部第二内谷边缘和唇侧后部外谷边缘各有一个齿带尖存在(图4C)。
+
+表4偏皮氏毛耳飞鼠与皮氏毛耳飞鼠牙齿测量对比  
+表5艾克氏异仓鼠牙齿测量对比  
+Table5 Measurements and comparison of teeth of Allocricetus ehiki   
+
+<html><body><table><tr><td rowspan="2">Sites</td><td rowspan="2">m1-3 L</td><td colspan="2">m1</td><td colspan="2">m2</td><td colspan="2">m3</td></tr><tr><td>L</td><td>W</td><td>L</td><td>W</td><td>L</td><td>W</td></tr><tr><td>South Longyadong Cave</td><td>5.30</td><td>2.00</td><td>1.20</td><td>1.70</td><td>1.30</td><td>1.60</td><td>1.30</td></tr><tr><td>Zhoukoudian (Choukoutien))</td><td>5.37</td><td>2.00</td><td>1.22</td><td>1.66</td><td>1.35</td><td>1.66</td><td>1.30</td></tr><tr><td>Jianshi Hominid Site²)</td><td></td><td></td><td></td><td>1.68</td><td>1.40</td><td>1.76</td><td>1.30</td></tr></table></body></html>
+
+Based on:1) Zheng,1984; 2) Zheng,2004.
+
+$\mathrm { m } 2$ 主要齿尖形态与m1相似，舌侧前齿带尖缺失，未见下中尖。同样由于磨蚀严重，使得内、外谷边缘封闭或半封闭。外谷边缘有一齿带尖。
+
+$\mathbf { m } 3$ 下次尖和下内尖缩小，使得齿冠后部变窄，但长度未减。同样由于牙齿磨蚀严重，使得内、外齿谷完全封闭，呈齿圈分布于齿冠面上。第二下内谷由于下中脊前壁小刺的存在而分成内外两个齿圈。下内尖前后的第三和第四下内谷完全封闭为两个齿圈，并且不达齿缘。
+
+比较与讨论由于新标本尺寸小于变异仓鼠，而与周口店18地点的艾克氏异仓鼠基本一致，并且具有伸达齿缘的下中脊，舌侧下前边尖孤立，因此将其定为艾克氏异仓鼠(Zheng,1984,2004)。
+
+鼠平科Arvicolidea Gray,1821 沟牙田鼠属ProedromysThomas,1911 沟牙田鼠ProedromysbedfordiThomas,1911
+
+(图5A-B;表6)
+
+材料1残破上颚带两侧M1和左侧M3 (LV16),2右下颌带m1-2 (LV21-22),1右下颌带m1-3 (LV 23)。
+
+层位T5-4,洞外第5探方，第4层。
+
+测量见表6。
+
+表6沟牙田鼠牙齿测量对比 Table6 Measurements and comparison of teeth of Proedromys bedfordi (mm)   
+
+<html><body><table><tr><td>Sites</td><td>M1 L/W</td><td>M2 L/W</td><td>M3 L/W</td><td>m1 L/W</td><td>m2 L/W</td><td>m3</td></tr><tr><td>SouthLongyadong Cave P.bedfordi</td><td>1.85/1.04</td><td></td><td>1.47/0.73</td><td>2.90/1.15</td><td>1.47/0.89</td><td>L/W 0.95/0.79</td></tr><tr><td>NorthLongyadong Cave Proedromyscf.P.bedfordid</td><td>2.45/1.29</td><td>1.85/1.17</td><td>0.79/0.93</td><td>2.61/1.05</td><td></td><td></td></tr></table></body></html>
+
+1) Based on Xue et al.,1999b.
+
+描述上颚严重破损(图5A),M1前环之后有4个近于封闭、交错排列的三角，舌侧后内角有一浅凹，但不形成真正的第三褶沟。M2缺失。M3简单，前环之后第三三角很小，第二和第三三角间不封闭，唇舌两侧第三褶沟不明显。
+
+3个右下颌均破损，但有完整齿列(图5B)。m1前环简单，无附加褶沟。 $\mathbf { m } 3$ 唇侧褶沟2个，褶角很小，无前外褶角。
+
+比较与讨论上述标本尺寸接近于东窑子头剖面DO-7层的Microtuscf.M.ratticepoides(m1长 $2 . 8 { \sim } 3 . 0 \mathrm { m m }$ 宽 $1 . 1 { \sim } 1 . 2 \mathrm { m m }$ )。但与之相比，新标本形态更简单，未见m1前环舌侧褶沟。
+
+薛祥煦等(1999b)在龙牙北洞动物群中记述的沟牙田鼠的相似种(Proedromys cf. $P .$ bedfordi,又名别氏田鼠),其m1前环简单，舌侧无第五褶沟的痕迹，且齿峡相当小，前后环之间的三角均较封闭，与本文记述的标本比较接近，只是在大小上略有差异(表6)。按形态特点，本文的标本应归入沟牙田鼠。
+
+异费鼠属AllophaiomysKormos,1932 欧洲异费鼠AllophaiomysdeucalionKretzoi,1969 (图5C;表7)
+
+材料1残破左下颌带m1-3 (LV17),1右1左残破下颌带m1-2(LV18-19),1残破左下颌带m1 (LV 20)。
+
+层位T5-4,洞外第5探方，第4层。
+
+测量见表7。
+
+描述下颌均有门齿(图5C)。m1个体小，前后环之间有5个封闭或半封闭的三角。唇侧褶沟较舌侧褶沟浅。前环形态简单，舌侧无附加褶沟。m2后环之前4个三角稍有错开，但三角间不封闭。其形态特征与个体大小均接近于龙牙北洞的标本，只是后者个体稍大，m1舌侧第三和第四褶沟稍浅， $\mathrm { m } 2$ 三角更封闭一些(Xue et al.,1999b:314,fig.3a,c-e)。
+
+比较与讨论龙牙南洞标本 $\mathbf { m } 2$ 三角不封闭，类似于天桥裂隙的Eothenomyspraechinensis (Zheng,1993)和金牛山的Clrthrionomys rutilus (Zhang,1993)的形态，但其m1的形态与这两者都有较大区别，而更类似于龙牙北洞的Allophaiomyspliocaenicus(Xue etal.，1999b)。龙牙洞(南、北两洞)的两批材料似乎都应归入欧洲异费鼠A.deucalion,因为这个种的m1下前边尖组合相对较短，即下前边尖组合长/牙长 ${ < } 4 2$ ；牙齿宽度相对较大，即齿峡6宽/颊侧第3-舌侧第4褶角宽 ${ > } 3 3$ (van der Meulen, 1974; Zhang etal.,2011)。龙牙北洞的材料比较典型，两个数值分别为35.54(小于42)和37.4(大于33)。本文标本的下前边尖组合为39.64,小于42;但齿峡与牙宽比值却小于33,仅为22。
+
+总之，龙牙南洞材料中，m1的下前边尖组合呈三叶形，椭圆形的前帽以及珐琅质层在前帽前唇侧及后环内外侧中断，同时牙齿长度也很小(表7)等特征表明其与龙牙北洞的材料一样，特征更接近于A.deucalion。
+
+表7欧洲异费鼠牙齿测量对比  
+Table7 Measurementsand comparisonof teethof Allophaiomys deucaliol   
+
+<html><body><table><tr><td rowspan="2">Sites</td><td rowspan="2"></td><td colspan="2">ml</td><td colspan="2">m2</td><td colspan="2">m3</td></tr><tr><td>L</td><td>W</td><td>L</td><td>W</td><td>L</td><td>W</td></tr><tr><td>South Longyadong Cave</td><td>A.deucalion</td><td>2.22</td><td>0.98</td><td>1.47</td><td>0.89</td><td>1.42</td><td>0.74</td></tr><tr><td>North Longyadong Cave</td><td>A.deucalion (A. pliocaenicus))</td><td>2.42</td><td>1.03</td><td>1.60</td><td>0.95</td><td>1.41</td><td>0.82</td></tr></table></body></html>
+
+1) Based on Xue et al.,1999b.
+
+# 酚鼠科SiphneidaeLeroy,1941
+
+# 始鼠属EospalaxAllen,1938
+
+始酚鼠Eospalaxsp
+
+(图6A;表8)
+
+材料1右下颌带m1-3 (LV 28),1左下颌带m1-2(LV29),两枚零散的上牙(LV30-31)。
+
+层位T5-4,洞外第5探方，第4层。
+
+测量见表8。
+
+描述1右下颌，保存基本完整(图6A)。m1前环椭圆，前壁无珐琅质，牙纵轴的唇侧部分显著大于舌侧部分，舌侧前褶沟浅，唇侧前褶沟呈V字形，前环长度小，舌侧后褶角中轴与牙齿中轴斜交。个体明显较小(表8)。
+
+比较与讨论郑绍华(1997)总结了三种头骨类型酚鼠m1的基本性状及属种归属，本文记述的龙牙洞标本的形态特征与始酚鼠Eospalax完全一致，与洛川(拓家河，洞滩沟)的中华酚鼠相比，个体明显较小(表8)。始酚鼠自早更新世中晚期出现延续至今(Liu,1985;Tongetal.,1995),种类很多，本文材料较少，暂不定种。
+
+![](images/fb51c0345603c47ab6a7eb4c47cb32a56001edd63f154766c1163e27fe2d4f63.jpg)  
+图5沟牙田鼠和欧洲异费鼠  
+Fig.5ProedromysbedfordiandAllophaiomysdeucalion
+
+A-B.沟牙田鼠Proedromys bedfordi:A.LV16 残破上颚 broken maxilla:1.嚼面视 occlusal view,   
+2-4.上白齿素描 upper teeth;B.LV23 残破右下颌broken right mandible:1.唇侧视 labial view,2.舌侧视   
+lingual view,3.牙齿素描 lower teeth; C.LV18 欧洲异费鼠右下颌Allophaiomys deucalion,right mandible: 1.唇侧视labial view,2.舌侧视 lingual view,3.牙齿素描 lower teeth Scale bars equal $2 \mathrm { m m }$
+
+表8始鼠(LV28,30-31)与中华鼠测量对比 Table8Measurementsand comparisonof Eospalax sp.(LV28,30-31) and Myospalax (Eospalax)fontanieri (mm)   
+
+<html><body><table><tr><td>Sites</td><td>M1 L/W</td><td>M2 L/W</td><td>below m1 mandible H</td><td>m1-m3 L</td><td>m1 L/W</td><td>m2 L/W</td><td>m3 L/W</td></tr><tr><td>South Longyadong Cave Eospalax sp.</td><td>2.60/1.40</td><td>2.70/1.60</td><td>5.50</td><td>9.00</td><td>3.50/1.80</td><td>3.30/1.70</td><td>2.50/1.40</td></tr><tr><td>Tajiahe of Luochuan County Myospalax (Eospalax) fontanieril)</td><td></td><td></td><td></td><td>11.16</td><td>3.96/1.98</td><td>4.05/2.16</td><td>3.33/1.80</td></tr><tr><td>Dongtangou of Luochuan County Myospalax(Eospalax) fontanieril)</td><td></td><td></td><td></td><td>12.60</td><td>4.86/2.43</td><td>4.50/2.34</td><td>3.87/1.98</td></tr></table></body></html>
+
+1) Based on Liu, 1985.
+
+# 鼠科MuridaeGray,1821 白腹鼠属NiviventerMarshall,1976 先社鼠Niviventer preconfucianus Zheng,1993
+
+(图6B;表9)
+
+材料 1右下颌带m1-3 (LV 32)。
+
+层位T5-4,洞外第5探方，第4层。
+
+测量见表9。
+
+描述1带完整齿列的右下颌，后部破损(图6B)。齿缺长 $4 . 0 \ \mathrm { m m }$ 。 $\mathbf { m } \mathbf { l }$ 缺失下中附尖，唇侧下前边尖小而后位。牙齿后部略宽于前部，下次尖和下内尖连接的前方有一小刺伸向前方。未见前中附尖，后齿带尖小，其基部宽度约为齿冠宽度的一半。白齿m1和m2，具唇侧后附尖，m3简单，无唇侧后附尖。
+
+比较与讨论Niviventer preconfucianus是郑绍华(1993)根据四川龙骨坡的材料定的新种，也是该属中仅有的化石种，以其m1,m2发育的唇侧后附尖和 $\mathbf { \dot { m } } 2$ 唇侧前边尖等特
+
+征区别于现生种N.confucianus。
+
+薛祥煦等(1999b)报道的龙牙洞动物群中，有1枚左下m1代表该种，有清楚的唇侧下后附尖存在。本文标本与之相比几乎没有差别，只是个体略小(表9),m1的长度为齿列长度的0.44。因此归入先社鼠。
+
+表9先社鼠测量对比 Table9 Measurements and comparison of Niviventer preconfucianus (m1   
+
+<html><body><table><tr><td>Sites</td><td>below m1 mandible H</td><td>m1-m3 L</td><td>ml L/W</td><td>m2 L/W</td><td>m3 L/W</td><td>ml长/ml-m3长 Lm1/Lm1-m3</td></tr><tr><td>South Longyadong Cave</td><td>4.00</td><td>5.90</td><td>2.60/1.50</td><td>1.80/1.60</td><td>1.50/1.30</td><td>0.44</td></tr><tr><td>North Longyadong Cave1)</td><td></td><td></td><td>2.80/1.62</td><td></td><td></td><td></td></tr><tr><td>Longgupo2</td><td></td><td></td><td>2.58/1.42</td><td>1.95/1.53</td><td>1.60/1.28</td><td></td></tr><tr><td>Longgupo3)</td><td></td><td></td><td>2.64/1.49</td><td>1.99/1.59</td><td>1.64/1.28</td><td>0.45</td></tr></table></body></html>
+
+Based on:1)Xue et al.,1999b; 2) Zheng,1993;3)Zheng,2004.
+
+# 姬鼠属ApodemusKaup,1829
+
+亚洲姬鼠Apodemusasianicus Zheng,2004
+
+(图6C;表10)
+
+材料 1右下颌带门齿及m1-3 (LV33),1右下m1 (LV 35)。
+
+层位T5-4,洞外第5探方，第4层。
+
+测量见表10。
+
+描述1右下颌，后部关节处残破(图6C)。下颌咬肌脊下支粗壮，前端膨大，前伸至m1下前方。下颏孔大，位于咬肌脊前端之正前方。上升支始于m2旁。m1具小而高的前中尖以及发育的前附尖、中附尖及后附尖。m2发育前边尖，但无后附尖，中附尖为强烈发育的齿带基础上的两个小而明显的附尖，分别位于下原尖唇侧中部和后部。 $\mathbf { m } 3$ 无唇侧附尖及齿带(图6C1)。
+
+比较与讨论新标本从形态特征到个体大小均类似于龙骨洞姬鼠属中的Apodemusasianicus (Zheng,2004:167-172, fig. 5.36d-h,table 5.41)和龙骨坡的A.latronum (Zheng,1993:138-141, fig. 65c-e, table 25)。
+
+郑绍华依据建始龙骨洞和巫山龙骨坡的材料建立新种时指出，A.asianicus与A.latronum相比，前者除个体显著较小以外，下牙齿上m1的下前中尖更孤立向前突出，$\mathrm { m } 2$ 唇侧附尖更发育(Zheng,1993,2004)。龙牙南洞的标本其m1的下前中尖孤立向前突出相当明显(图6C1),m2唇侧附尖发育相对较弱，只是个体并不显著较小(表10),这里将其归入亚洲姬鼠。
+
+表10亚洲姬鼠和大耳姬鼠测量对比 Table10 Measurements and comparison of Apodemus asianicus and A.latronum (mm)   
+
+<html><body><table><tr><td rowspan="2">Sites</td><td rowspan="2">diastema L</td><td rowspan="2">belowm1 mandible H</td><td rowspan="2">m1-m3 L</td><td>m1</td><td>m2</td><td>m3</td></tr><tr><td>L/W</td><td>L/W</td><td>L/W</td></tr><tr><td>SouthLongyadongCaveA.asianicus</td><td>3.16</td><td>2.63</td><td>4.05</td><td>1.74/1.00</td><td>1.32/1.05</td><td>1.05/0.84</td></tr><tr><td>Jianshi Hominid Site A.asianicus1</td><td></td><td></td><td></td><td>1.81/1.05</td><td>1.26/1.09</td><td>1.08/0.92</td></tr><tr><td>Longgupo A. latronum2)</td><td>3.10</td><td>3.20</td><td>4.02</td><td>1.84/1.13</td><td>1.28/1.15</td><td>1.06/0.97</td></tr></table></body></html>
+
+Based on:1) Zheng,2004;2) Zheng,1993.
+
+# 姬鼠 Apodemus sp.
+
+(图6D)
+
+材料 1残破左下颌,无白齿(LV 34)。
+
+层位T5-4,洞外第5探方，第4层。
+
+测量m1-3齿槽长： $3 . 4 \mathrm { m m }$ 。齿缺长： $3 . 3 ~ \mathrm { m m }$ ，下颌深(m1下内): $2 . 6 \mathrm { m m }$ 。
+
+描述下颌咬肌脊前端超过m1前缘，咬肌脊下支粗壮，前端膨大。下颏孔圆，位于咬肌脊前端之前。上升支始于 $\mathrm { m } 2$ 和m3之间。下白齿全部缺失，齿槽清楚。顶面(嚼面)观察，下齿列(槽)与上升支间距很小，在m1旁上升支直接贴着齿槽壁，至m2开始逐渐拉开，但依然较窄。
+
+比较与讨论与仓鼠和姬鼠等标本反复对比，该无齿下颌(图6D1,2)与亚洲姬鼠最为接近。表现在：唇侧视，咬肌脊延伸远，其前端超过m1前缘；上升支向后倾斜；在水平支中部，咬肌脊之上为一明显的凹坑，在水平支后部和上升支下方，可看到门齿跟隆起很高；上升支稍缓，水平支下缘更平直一些；个体很小。而仓鼠和家鼠等在咬肌脊之上的凹坑和门齿跟隆起等方面发育较弱，仓鼠的下齿列(槽)与上升支间距相对较大，与本文标本明显不同。因此，将其定为姬鼠未定种Apodemus sp.。
+
+兔形目LagomorphaBrandt,1855鼠兔科 Ochotonidae Thomas,1897鼠兔属OchotonaLink,1795似高山鼠兔Ochotona cf.O.alpina Pallas,1773
+
+(图6E-G;表11)
+
+材料1残破左上颚带P3-M2(LV36),1右下颌带p3-m3 (LV37),1右下颌带p3-m2 (LV38),4右3左下颌带p4-m3 (LV 39-45),1右p3 (LV 39.1)。
+
+层位T5-4,洞外第5探方，第4层。
+
+测量上颌及牙齿测量：P3-M2长 $4 . 5 \mathrm { m m }$ ，M1宽 $2 . 0 \mathrm { m m }$ 。下颌测量见表11。
+
+描述牙齿小，p3舌侧后褶沟很深，并与唇侧后褶沟相对，使牙齿冠面呈三叶状，从前向后逐渐加宽，成三角形(图6F3)。舌侧后褶沟很深，越过齿冠面的一半，与唇侧后褶沟相对，间隙很小。四个褶沟后壁均比较平直，与齿冠中轴近于垂直。
+
+比较与讨论与已报道的部分鼠兔相比，龙牙南洞的标本很小，应为已知个体中最小的(表11)。同时其p3的形态也比较特别(图6F3,G)。
+
+金牛山的东北鼠兔p3同样具有四个褶沟，但以前褶沟后壁倾斜，舌侧后褶沟很浅，并强烈向后倾斜，以及个体相对较大等特征明显区别于龙牙南洞的标本。
+
+泥河湾鼠兔的p3也有一深的后内褶沟，但其所有褶沟均斜向指向后内方向，而不同于龙牙洞标本p3的横向指向；此外，泥河湾鼠兔的p3下前边尖(anteroconid)相对下后边尖(posteroconid)的长度和宽度均较大。在现生鼠兔中，似乎只有北方鼠兔(Ochotonaalpina Pallas,1773,又名高山鼠兔，Zhang,1997)的p3具有前内、前外褶沟彼此相对和前内褶沟很深的形态特征，但其下前边尖较短宽(郑绍华，个人交流),同时个体也较大，比东北鼠兔还要大(Mammal Research Team of Institute of Zoology,1958)。综合考虑，暂定新标本为高山鼠兔的相似种：Ochotonacf.O.alpina。
+
+表11似高山鼠兔测量对比  
+Table11 Measurements and comparison of Ochotona cf.O.alpina   
+
+<html><body><table><tr><td>Sites</td><td>L</td><td>diastema tooth alveoli L</td><td>below m1 mandible H</td><td>p3-m3 L</td><td>p3 L/W</td><td>m1 L</td></tr><tr><td>South Longyadong Cave Ochotona cf. O.alpina</td><td>3.50</td><td>6.00</td><td>3.60</td><td>5.40</td><td>1.00/1.10</td><td>1.50</td></tr><tr><td>Nihewan O.nihewanens1)</td><td></td><td></td><td></td><td></td><td>1.20/1.36</td><td></td></tr><tr><td>Nihewan O.nihewanens2)</td><td>4.80</td><td>6.70</td><td>5.00</td><td>6.70</td><td></td><td>1.70</td></tr><tr><td>Nihewan O. nihewanens3)</td><td>4.30</td><td>8.30</td><td></td><td>6.70</td><td>1.50/1.50</td><td>1.65</td></tr><tr><td>Tianzhu O.lagrelii minor4)</td><td></td><td></td><td></td><td></td><td>1.44/1.23</td><td>1.23</td></tr><tr><td>Jinniushan O.hyperborea)</td><td>4.63</td><td>6.98</td><td>4.77</td><td></td><td>1.31/1.24</td><td>1.55</td></tr></table></body></html>
+
+Based on: 1) Zheng etal.,1991; 2) Zheng,1981; 3) Qiu,1985; 4) Zheng et al.,1982; 5) Zhang,1993.
+
+![](images/30aaea3ee48926234069349f784164aca6c2b18f4e160ee6dc3b45c8378f9cda.jpg)  
+图6始酚鼠、先社鼠、亚洲姬鼠和似高山鼠兔
+
+Fig.6 Eospalax sp.,Niviventer preconfucianus,Apodemus asianicus and Ochotona cf.O.alpina   
+A.LV 28 始酚鼠右下颌 Eospalax sp.,right mandible:1.牙齿素描lower teeth,2.舌侧视 lingual view,3.唇 侧视labial view;B.LV32先社鼠，残破右下颌 Niviventer preconfucianus,right mandible: 1.舌侧视 lingual view,2.右 ml-m3 牙齿素描 right ml-m3; C.LV33 亚洲姬鼠右下颌Apodemus asianicus,right mandible:1.牙齿素描 line drawing, 2.舌侧视 lingual view,3.唇侧视labial view; D.LV34 姬鼠，左下颌 Apodemus sp.,left mandible: 1.唇侧视 labial view,2.舌侧视 lingual view;E-G.似高山属兔Ochotona cf.O.alpina:E.LV 39.1 right   
+p3;F.LV37残破右下颌 right mandible:1.牙齿素描 line drawing,2.舌侧视lingual view,3.唇侧视 labial   
+view; G.LV39 右下颌 right mandible:1.舌侧视 lingual view,2.唇侧视 labial view.Scale bars equal $2 \ : \mathrm { m m }$
+
+材料1左下颌带 $\mathtt { p 4 - m 2 }$ 及门齿(LV 46),1右下m2 (LV 46.1)。
+
+层位T4-4,洞外第4探方，第4层。
+
+测量 见表12。
+
+描述左下颌骨保存相对较好，带p4-m2及门齿，m3缺失，颌骨后部破损(图7A)。下颌骨整体粗壮，下门齿粗短，齿尖低，棕黄色釉质层主要分布在牙齿的下部和内外两侧靠近下部的位置。唇侧视(图7A1)咬肌脊发达，起始于m1后下方，凸起为棱脊呈翼状向后下方延伸。下颏孔位于齿缺凹陷最低处外侧，p4齿根前方。下颊齿的下外褶均延至齿根。舌侧视(图7A2)下颌内侧面比较平直。嚼面视(图7A3)下颊齿近于长方形(表12)。P4最大，近于长方形。冠面有4排横向齿褶，下外褶向下延伸至齿根，下内褶向下延伸浅，不到已有冠高的一半。m1小于p4，齿褶位置类似于p4，只是下外褶不与下内褶贯通，使齿冠面上除下外褶以外，另有5个封闭的釉质圈。m2的形态类似于m1，下外褶不与下内褶贯通，但是前面第二排内外两个齿褶贯通，这一点又类似于p4。
+
+比较与讨论上述牙齿特征与程捷等(1996)描述的周口店太平山西洞的华南豪猪Hystrixsubcristata $\fallingdotseq$ Hystrixbrachyurasubcristata,马来豪猪，华南亚种，Wang,2003)十分相似。同号文(2005)通过与化石及现生种的对比，将周口店地区的豪猪化石归人两个种：Hystrix subcristata (Hystrix brachyura subcristata)和Hystrix lagre lii。根据形态特征与个体大小(图7A;表12),龙牙南洞的标本应属于马来豪猪(华南亚种)Hystrix brachyura subcristata中 $\mathit { \check { \Psi } } = \mathit { \Psi }$ 无颈鬃豪猪Hystrix subcristata,Tong,2005)。与田园洞的标本相比，其白齿更方，m1和m2也更大，更接近于周口店Loc.9,13等地点标本的特征(Tong,2005:135,table 3)。
+
+研究表明，早期的化石与晚近的标本在外观上有明显的差异。周口店13地点的下颌保存较好(Teilhard and Pei,1941:61,fig.49),其比田园洞及现生标本(Tong,2005:144,fig.7)明显粗壮，下颏孔处下颌最小高度明显大于后两者，下颌总体形态前者显得短粗，而后两者明显修长。太平山西洞的标本也有同样的特点：“下颌骨粗壮，水平支显得浅而厚”(Cheng,1996)。龙牙南洞的标本特征明显类似于早期的化石标本，其下颌骨整体显得短而粗壮，下门齿短粗，下门齿尖大约与下白齿冠面平齐或者略低，而与田园洞及现生标本的下门齿一般较长，弯度较大，下门齿尖远高于下白齿冠面等特征相区别。(Tong,2005)
+
+表12马来豪猪测量对比 Table12 Measurements and comparison of Hystrix brachyura subcristata (mm)   
+
+<html><body><table><tr><td rowspan="2">Sites</td><td></td><td>mandible* mandible**</td><td>diastema</td><td>p4-m2</td><td>p4</td><td>ml</td><td>m2</td></tr><tr><td>H</td><td>H</td><td>L</td><td>L</td><td>L/W</td><td>L/W</td><td>L/W</td></tr><tr><td>South Longyadong Cave</td><td>26.00</td><td>2.00</td><td>32.70</td><td>28.70</td><td>10.20/8.40 8.70/8.10</td><td></td><td>10.00/8.30</td></tr><tr><td>West Taipingshan Cave1)</td><td></td><td></td><td></td><td></td><td>10.36/8.46 8.90/8.30</td><td></td><td>8.58/8.50</td></tr><tr><td>Locality 13 in Zhoukoudian (Choukoutien)2)</td><td>25.00</td><td>2.00</td><td></td><td></td><td>10.00/7.50 8.00/7.50</td><td></td><td>8.50/8.00</td></tr><tr><td>Tianyuan Cave3)</td><td>26~27</td><td>1.67</td><td></td><td></td><td>10.50/8.00 7.90/7.30</td><td></td><td>8.10/7.70</td></tr></table></body></html>
+
+Based on:1) Cheng,1996;2) Teilhard and Pei,1941; 3) Tong,2005.\* p4下下颌骨最大高度mandible maximum height below p4.\*\*额孔处下颌骨最小高度mandible minimum height by mental foramen.
+
+河狸科CastoridaeGray,1821 大河狸属TrogontheriumFischer,1809 居氏大河狸TrogontheriumcuvieriFischer,1809
+
+（图7B；表13)
+
+![](images/179125789662af016ae9d8f1ab1a344dd40ed3407aef015b2cf0613494a3be3f.jpg)  
+图7马来豪猪和居氏大河狸
+
+Fig.7 Hystrix brachyura subcristata and Trogontherium cuvieri
+
+A.LV46马来豪猪，残破左下颌Hystrix brachyura subcristata,left mandible:1.唇侧视labial view, 2.舌侧视lingual view,3.嚼面视occlusal view;B.LV 47居氏大河狸，残破右下颌Trogontherium cuvieri, right mandible:1.唇侧视labial view;2.舌侧视lingual view;3.嚼面视occlusal view.Scale bars equal $1 0 \mathrm { m m }$ 材料1残破的右下颌骨带残破门齿及p4-m3 (LV 47)。
+
+层位T1-5,洞外第1探方，第5层。
+
+测量见表13。
+
+描述标本严重破损、变形(图7B),齿列相对齐全，p4前端破损。嚼面视，下颊齿下外沟延伸至下中沟(中褶沟)与后褶沟之间，但除p4外，下白齿 $\mathrm { m } 1 { - } 3$ 的齿褶均圈闭呈环状，而不是典型的外沟和内沟，齿褶齿沟简单、圈闭，前臼齿与臼齿大小差异大。p4最大，几个齿褶长度相当。m1前褶沟很小，后褶沟稍大，中褶沟和下外沟最大，长度相当。m2类似于m1，只是齿冠面更大，前褶沟和后褶沟略长。m3虽然齿冠面小，但前后褶沟都加长，4个褶沟宽窄相当，前褶沟最长，几乎横穿整个齿面。p4,m1和m2的下外沟向后斜伸，顶端略向前弯，在m1和m2更加明显，但在m3却完全不向前弯。
+
+比较和讨论这里记述的材料颊齿齿褶简单和较少褶曲的特征与金牛山和周口店等地点的居氏大河狸类似，而明显不同于普通河狸Castor fiber和师氏大河狸Sinocastorcf. S. zdanskyi (Zhang,1993:61, fig. 40; Young,1934:52-57)。与唐山标本(Young,1934: fig.18A)相同，龙牙南洞的标本所有下外沟均深入于下中褶和下后褶之间，而与周口店和金牛山标本存在差别。而其p4和 $\mathrm { m } 3$ 较直弯曲不明显，m1和 $\mathrm { m } 2$ 明显向前弯曲，又与周口店第一地点的标本类似(Young,1934:fig.18B)。综合分析表明，龙牙南洞的大河狸齿褶特点似乎介于周口店第一地点和唐山的标本之间，这与下面m1和p4冠面长度指数分析的结果完全一致。
+
+表13居氏大河狸测量对比Table13 Measurements and comparison of Trogontherium cuvieri  
+
+<html><body><table><tr><td rowspan="2">Sites</td><td>i*</td><td>i**</td><td>p4-m2</td><td>p4</td><td>m1</td><td>m2</td><td>m3</td></tr><tr><td>L</td><td>W</td><td>L</td><td>L/W</td><td>L/W</td><td>L/W</td><td>L/W</td></tr><tr><td>South Longyadong Cave</td><td>11.00</td><td>9.80</td><td>26.50</td><td>11.30/10.50</td><td>7.20/9.10</td><td>8.20/9.00</td><td>8.10/8.90</td></tr><tr><td>Jinniushan1)</td><td>11.60</td><td></td><td>26.45</td><td>10.32/9.82</td><td>7.89/8.30</td><td>7.63/7.83</td><td>8.12/8.42</td></tr><tr><td>Zhoukoudian (Choukoutien)2)</td><td></td><td></td><td>31.00</td><td>11.00/8.50</td><td>8.50/-</td><td>8.00/-</td><td></td></tr><tr><td>Tangshan2)</td><td></td><td></td><td></td><td>11.00/9.20</td><td>7.00/-</td><td>8.00/-</td><td>9.00/-</td></tr></table></body></html>
+
+Based on:1) Zhang,1993;2) Young,1934. $^ *$ 门齿前后径 anteroposterior diameter of incisor; $^ { * * }$ 门齿左 右径transversal diameter of incisor.
+
+据研究，m1和p4冠面长度指数(二者之比)在大河狸为64.5,现代河狸为85 (bypuak-A6paM0Bmy,1961:165)。几个地点的大河狸m1和p4冠面的长度指数见表14。数据显示(bypuaK-A6paM0Buy,1961; Zhang,1993;Young,1934),m1和p4冠面长度指数明显与时代相关：即时代愈早的种类，两齿之间的差别愈大，时代愈新，牙齿大小愈接近均一。结合前面白齿齿褶特征分析，龙牙南洞的标本表现出比较古老的特征，其时代可能为早更新世晚期，介于唐山和周口店第一地点之间，应该不晚于中更新世早期。
+
+表14几个地点大河狸及河狸的 $\mathbf { m 1 }$ 和p4冠面的长度指数 Table 14 The length index of the $\mathbf { m 1 / p 4 }$ in Trogontherium and Castc   
+
+<html><body><table><tr><td>Sites,species (age)</td><td>p4</td><td>m1</td><td>m1/p4%</td></tr><tr><td>Castor fber (recent R))</td><td></td><td></td><td>85.00</td></tr><tr><td>Jinniushan C.fiber(Q2)2)</td><td>9.60</td><td>7.72</td><td>80.40</td></tr><tr><td>Jinniushan Trogontherium cuvieri (Q2)2)</td><td>9.22~10.92</td><td>7.85~7.92</td><td>76.50</td></tr><tr><td>Zhoukoudian (Choukoutien) T. cuvieri (Q))</td><td>11.00</td><td>8.50</td><td>77.30</td></tr><tr><td>South Longyadong T.cuvieri (Q. or Q2)</td><td>11.30</td><td>7.20</td><td>63.70</td></tr><tr><td>Tangshan T. cuvieri (Qi)3)</td><td>11.00</td><td>7.00</td><td>63.60</td></tr><tr><td>Transcaucasia T. cuvieri (N2)1)</td><td>11.00</td><td>7.00</td><td>63.60</td></tr></table></body></html>
+
+Based on:1) Bypuak-A6paMoBny,1961;2) Zhang,1993;3) Young,1934.
+
+# 2 讨论
+
+本次鉴定的龙牙南洞小哺乳动物化石共有15种，其中5种与薛祥煦等(1999b)报道的龙牙北洞动物群完全一致，分别为长尾鼩Soriculus sp.，偏皮氏毛耳飞鼠Belomysparapearsoni,沟牙田鼠Proedromysbedfordi,欧洲异费鼠Allophaiomys deucalion和先社鼠Niviventerpreconfucianus,这些成员一般认为是早更新世常见或特有的动物。除此之外，艾克氏异仓鼠Allocricetus ehiki和亚洲姬鼠Apodemus asianicus主要见于周口店18地点和建始龙骨洞等早更新世动物群；马来豪猪(华南亚种)Hystrix brachyura subcristata虽为现生种，但鉴于标本的粗壮程度及其他特点，也更多地将其与周口店13地点和太平山西洞等早期动物群相联系。居氏大河狸Trogontheriumcuvieri虽然主要见于中更新世，但据几个地点标本的齿褶特点和m1与p4冠面长度指数分析，显示出龙牙南洞动物群的时代可能早于周口店第一地点的时代。现生种甘肃鼹Scapanulusoweni见于中更新世山羊寨动物群，其相似种也见于繁昌人字洞。只有峨眉嗣鼹Nasillusandersoni和似高山鼠兔Ochotonacf.O.alpina作为现生种，属于首次见于化石报道。
+
+本次小化石组合分析与前人主要采于龙牙北洞的化石研究(Xue etal.,1999b)在时代特征上比较一致，似应为早更新世晚期或中更新世早期，但显然与近年来龙牙南洞的沉积物测年结果有较大的差异(Wang and Huang,2001;Wang,2005,2008; Sun et al.,2013)。
+
+本次鉴定的15种小哺乳动物化石主要采自龙牙南洞洞外第5探方第4层(12种),少数(3种)采自第1探方第5层、第4探方第4层和洞内I区第4层(表1),其地层对应的热释光年龄分别为 $( 3 5 6 . 6 { \pm } 1 7 . 8 )$ kaBP (洞内第四层堆积中部)、 $( 2 7 3 . 9 { \pm } 1 3 . 7 ) \$ kaBP(洞内第四层堆积上部)和 $( 2 1 0 . 5 { \pm } 1 0 . 5 ) \$ kaBP(洞外探方第五层)(Wang,2005,2008)。
+
+龙牙南洞动物组合明显具有南北混生的特点，如南方型动物亚洲姬鼠、偏皮氏毛耳飞鼠、长尾鼩、先社鼠、峨眉鼩鼹、马来豪猪(华南亚种)等，北方型动物似高山鼠兔、艾克氏异仓鼠、欧洲异费鼠、沟牙田鼠、居氏大河狸等，甘肃鼹现代主要分布于中国中西部。
+
+薛祥煦等(1999)依据采自龙牙北洞和龙牙南洞上部层位的36种哺乳动物化石分析认为，洛南龙牙洞动物群是一个与洛南直立人及其文化遗物共存的动物群，其处于秦岭山区，但属黄河流域，这个特殊的地理位置使该动物群中既有典型的古北界动物属种，又有较大比例的东洋界动物成员，从而具有中国北、南之间的过渡型动物群的性质。本文所研究的小哺乳动物化石组合同样显示了这种南北之间的过渡型动物群的特点。
+
+致谢郑绍华研究员阅读了初稿，并提出宝贵意见。史立群和编辑部给予多方面的帮助，作者在此表示衷心的感谢！
+
+# References
+
+Cheng J,1996.The New Mammalian Fossils from Zhoukoudian (Choukou Tien)Beijing and Their Environmental Explanation.Beijing: Chinese Geological University Publishing Company.1-114   
+Bypuak-A6pamoBny HH,1961.Trogontherium cuvieri from the Transcaucasia.VertPalAsiat,2:150-154   
+JinCZ,LiuJY,2Oo9.PaleolithicSite-TheRenzidong Cave,Fanchang,AnhuiProvince.Beijing:SciencePre.16-117   
+LiYX,LiJ,ZhangYX,2016.Fossil Sapanulusoweni (Eulipotyphla,Mammalia)fromtheShanyangzhaiCave,Middle Pleistocene, Qinhuangdao,China. Quat Int,392:197-202   
+Liu T S,1985.Loess and the Environment.Beijing: Science Press.1-481   
+Mammal Research Team of Institute of Zoology,Chinese Academyof Sciences,1958.A Report on the Mammals of Northeastern China.Beijing: Science Press.1-126   
+Qiu ZD,1985.A new ochotonid from Nihewan Bed of Yuxian,Hebei.Vert PalAsiat,23:276-286   
+Qiu ZD,LiCK,HuSJ,984.LatePleistocene micromammal faunaofSanjiacun,Kunming.VertPalAsiat,22:281-293   
+SunXF,LuHY,Wang SJetal.,2O13.TT-OSLdatingofLongyadong MiddlePaleolithic siteand paleoenvironmental implications for hominin occupation in Luonan Basin (central China). Quat Res,79:168-174   
+Teilhardde ChardinP,PeiWC,1941.The fossil mammals fromLocality13ofChoukoutien.PalaeontSin,New SerC,11: 1-106   
+Tong HW,2Oo5.Hystrix subcristata (Mammalia,Rodentia)from TianuanCave,amanfosilsitenewlydiscoveredear Zhoukoudian (Choukoutien).Vert PalAsiat,43:135-150   
+Tong Y S,Zheng S H, Qiu Z D,1995.Cenozoic mammal ages of China. Vert PalAsiat,33: 290-314   
+van der MeulenAJ,974.On Microtus (Alophaiomys)deucalion (Kretzoi,1969)(Arvicolidae,Rodentia),fromtheUper Villanyian (Lower Pleistocene),of Villny-5,S.Hungary.PN Ned Akad B Phys,77(3): 259-266   
+Wang S J,20o5.Perspectives on Hominid Behaviourand Settlement Paters:A Studyofthe LowerPalaeolithic Sites in the Luonan Basin, China. BAR International Series,1406.Oxford: Archaeopress.1-248   
+Wang S J,2O08.Huashilang (II):Longyadong Paleolithic Cave Sitein the Luonan Basin,China.Beijing:Science Press. 1-272   
+Wang SJ,HuangPH,2Oo1.StratigraphyandPaleolithic sites inthe Luonan Basin Southern Shaanxi.ActaAnthropol Sin, 20: 229-237   
+Wang S J, Huang PH,oo2.StratigraphyandTLdating ofPalaeolithicsites inLuonan Basin,China.ActaAnthropol Sin,21 (Supp): 67-77   
+Wang SJ, Zhang X B,Shen C et al.,2004.A study of lithic assemblages from 1995 excavation at Longyadong Cave, Luonan Basin, China. Acta Anthropol Sin, 23: 93-110   
+WangY X,20o3.A Complete Checklistof Mammal Species and Subspecies in China. Beijing: China Forestry Publishing House. 1-253   
+Xue XX,1987.Human fosil tooth fromLuonan,haanxi,andits geologicalage.ActaAnthropolSin,6:284288   
+XueX X,DengT,LiCLetal.,1998.DiscoveryofLongyadong Cave,aPaleolithic workshop insitu,and its significance.J Northwest Univ (Nat Sci Ed),28: 513-516   
+Xue X X,DengT,LiCLetal.,1999a.The featuresand environment oftheLongya Cave site inLuonan,Shaanxi, China. Quat Sci,2: 170-175   
+Xue XX,LiCL,DengTetal.,1999b.Thecharacters,geologicalageandtheecological environmentofLongyadongCave fauna,Luonan, Shaanxi. Vert PalAsiat, 37: 309-325   
+Young C C,1934. On the Insectivora, Chiroptera,Rodentia and Primates other than Sinanthropus from Localityl at Choukoutien.Palaeont Sin Ser C,8: 23-70   
+Zhang RZ,1997.Distribution of Mammalian Species in China.Beijing: Chinese ForestryPublishing House.1-280   
+Zhang S S,1993.Comprehensive studyon the Jiniushan Paleolithic Site.Mem Ist VertPalaeont Palaeoanthrop,Acad Sin, 19: 1-164   
+Zhang YQ,ZhengSH,WeiGB,2011.Fosilarvicolines fromtheLeijiahe section,Lingtai,Gansu Provinceandcurrent progress of Chinese arvicoline biochronology. Quat Sci,31(4): 622-635   
+Zheng S H,1981.New discovered small mammals in the Nihewan Bed.Vert PalAsiat,19:348-358   
+Zheng SH,1984,Reviseddeterminationofthe fossil Cricetine (Rodentia Mammalia)ofChoukoutiendistrict.VertPalAsiat, 22: 179-197   
+Zheng S H,1993. Quaternary Rodents of Sichuan-Guizhou Area, China.Beijing: Science Press.109-125   
+Zheng SH,1997.Evolutionof the Mesosiphneinae (Siphneidae,Rodentia)and environmental change.In: Tong YS,Zhang Y Y,Wu WYetal.eds.Evidence for Evolution-Essays in Honorof Prof.Chungchien Young on the Hundredth Anniversary of His Birth.Beijing: China Ocean Press.137-150   
+Zheng SH,2004. Jianshi Hominid Site.Beijing: Science Press.1-373   
+Zheng SH,Cai B Q,1991.Micromammalian fosils from Danangou of Yuxian,Hebei.In: Institute of Vertebrate Paleontology and Paleoanthropology, Academia Sinica ed. Contribution to the INQUA XII Congress.Beijing: Science and Technology Publishing House.100-131   
+Zheng SH,LiY,982.Some Pliocene lagomorphs androdents from Loc.1ofSongshan,Tianzu Xian,GansuProvince.Vert PalAsiat, 20: 35-44   
+Zheng S W,Song S Y,2010.Mammals in Qinling Mountain Area.Beijing: Chinese Forestry Publishing House.1-437

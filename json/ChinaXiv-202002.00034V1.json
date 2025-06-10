@@ -1,0 +1,768 @@
+[
+    {
+        "type": "text",
+        "text": "病毒核酸提取前的高温灭活过程显著降低可检出病毒核酸模板量",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张沁欣、赵庆顺\\*南京大学模式动物研究所",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*通讯作者，南京大学模式动物研究所，南京，210061，qingshun@nju.edu.cn",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[摘要］新冠病毒是病毒感染性肺炎（COVID-19）的病原体。然而，新冠病毒核酸临床检出的假阴性率很高。假阴性意味着漏检，不仅会导致疑似患者不能快速确诊，而且会使漏检者成为潜在的病毒传染源。因此，提高新冠病毒核酸检出率十分迫切。目前国家卫健委相关指南要求在提取样本核酸前需将样本置于 $5 6 ^ { \\circ } \\mathrm { C }$ 以上以灭活病毒。这一灭活过程无疑是保护临检人员免受病毒暴露所必需，但也会破坏病毒核酸的完整性，导致部分样品不能被正常检出，成为高假阴性率的原因之一。最近，我们以猪 PDEV 冠状病毒（疫苗）作为模型研究了高温灭活过程对病毒核酸完整性的影响。结果表明：保存在常用等渗盐溶液 Hank's 液中的样品经 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育30分钟后可检出冠状病毒核酸损坏了一半，而以 $9 2 ^ { \\circ } \\mathrm { C }$ 孵育5分钟，则可检出的冠状病毒核酸损失了 $96 \\%$ 以上。当采用一款市售的R503样品保存液保存PEDV时，经 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育30分钟后病毒核酸可检出量是Hank's液的3倍，若是 $9 2 ^ { \\circ } \\mathrm { C }$ 孵育5分钟，则可检出量是Hank's 液的42倍。这些结果提示，使用可有效保护样本RNA特别是避免样本RNA 在高温灭活时受损的样品保存液，不但可以让临检人员依然能够在高温灭活后使用样品，还有望提高阳性检出率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：冠状病毒；2019-nCoV；病毒高温灭活；核酸降解；假阴性；荧光定量RT-PCR",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.前言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "新冠病毒(Severe Acute Respiratory Syndrome Coronavirus 2，或 SARS-CoV-2）据信是目前病毒感染性肺炎（CoronaVirus Disease 2019，或COVID-19）的病原体[1]。是否携带新冠病毒成为判断是否感染的关键临床指标之一，两次新冠病毒核酸检测均为阴性也是COVID-19 肺炎治愈的临床标准之一。然而，众多来源的消息显示，临床检测中新冠病毒核酸检出的假阴性率很高,阳性率只有$3 0 { \\sim } 5 0 \\% [ 2 ]$ 。假阴性意味着漏检，不仅会导致临床中对疑似患者不能迅速确诊，也会导致漏检的病毒携带者成为潜在的病毒传染源。因此，提高新冠病毒核酸检出率十分迫切。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前的新冠病毒核酸检测主要采用的是荧光定量RT-PCR 技术。PCR是一项非常灵敏的技术。理论上，哪怕模板只有1个拷贝（1个病毒)，就有可能被检测出来，在模板量大于100个拷贝/10微升的情况下，PCR扩增结果会非常稳定。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "新冠病毒是一个单股正链RNA病毒。用作检测的病毒基因模板是从病人样品中通过核酸提取的办法获得的。北京协和医院依据国家卫健委颁发的《新型冠状病毒肺炎实验室检测技术指南（第三版)》制作的核酸检测过程教学视频（网络版，视频3分08秒至3分40秒）显示：在准备模板前，需将采集到的样品在$5 6 ^ { \\circ } \\mathrm { C }$ 条件下进行30分钟灭活。国家卫健委颁发的《新型冠状病毒肺炎实验室检测技术指南（第四版)》也涉及灭活材料的操作：“感染性材料或活病毒在采用可靠的方法灭活后进行的核酸检测、抗原检测、血清学检测、生化分析等操作应当在生物安全二级实验室进行”[3]。中华医学会检验医学分会发布的《新型冠状病毒肺炎病毒核酸检测专家共识》明确指出需将样品 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育至少45分钟或更高温度进行灭活[4]。这个过程的目的是灭活病毒。新型冠状病毒传染性极强，因此，为了保护临检人员的安全，将采集到的样品在 $5 6 ^ { \\circ } \\mathrm { C }$ 条件下进行灭活成为许多一线临床检测单位要求的必不可少的步骤。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在本研究中，我们以猪流行性腹泻病毒PEDV（一种冠状病毒，疫苗）为模型，研究了高温灭活过程对保存在Hank's溶液中冠状病毒完整性的影响。结果表明，与不经灭活的对照相比， $5 6 ^ { \\circ } \\mathrm { C }$ 孵育30分钟的灭活过程会导致可检出的冠状病毒模板损失一半，而 $9 2 ^ { \\circ } \\mathrm { C }$ 孵育5分种可检出的冠状病毒模板不到对照的",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$3 . 2 \\%$ 。有意思的是，当采用R503保存样品时，高温灭活则不影响可检出的病毒模板量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "总之，我们的研究结果表明高温灭活会促进样品内的病毒核酸的降解，从而会导致样品中的新冠病毒核酸的数量不足，最终导致部分样品检测出现假阴性。而采用优化的保存液，则可以实现在灭活病毒以确保临检人员安全的情况下，提高样品中病毒核酸的检出正确率，避免或减少假阴性的产生。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1斑马鱼胚胎细胞经 $5 6 ^ { \\circ } \\mathrm { C }$ 处理后总RNA明显降解",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "多份新冠病毒核酸检测指南中均提到在提取核酸前需要进行 $5 6 ^ { \\circ } \\mathrm { C }$ 以上灭活病毒以降低感染风险。但是，新冠病毒是单链RNA病毒，而RNA本身易受核糖核酸降解，且核糖核酸酶的最佳活性温度是 $6 0 ^ { \\circ } \\mathrm { C }$ ，因此这个高温灭活过程理论上会导致样品中的RNA的完整性受损，从而不当地降低了病毒模板量，最终导致部分样品不能被正常检出。为验证这种假设，我们首先测试了 $5 6 ^ { \\circ } \\mathrm { C }$ 处理对斑马鱼72hpf胚胎细胞内的RNA 的稳定性的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验共分为3个组，每组设3个重复：第1组为在胚胎中加入Trizol（核糖核酸酶抑制剂)后置于 $5 6 ^ { \\circ } \\mathrm { C }$ 水浴锅中孵育30分钟；第2组为在胚胎中加入Trizol后置于 $4 ^ { \\circ } \\mathrm { C }$ 冰箱中静置30分钟；第3组为在胚胎中加入 $1 \\times \\mathrm { P B S }$ 后置于 $5 6 ^ { \\circ } \\mathrm { C }$ 水浴锅孵育水浴30分钟。接下来，按常规方法提取胚胎细胞内的总RNA。以 $1 \\%$ 琼脂糖凝胶电泳观测提取的核酸的质量，结果显示（图1)：在没有核糖核酸酶抑制剂（Trizol）的保护下， $5 6 ^ { \\circ } \\mathrm { C }$ 灭活这一步骤导致了RNA的明显降解，出现了明显的拖尾现象，其中代表性的小分子量RNA条带减少的更为明显。将斑马鱼胚胎样品保存在Trizol中，然后进行 $5 6 ^ { \\circ } \\mathrm { C }$ 灭活，再实施总RNA的提取，结果更加糟糕，代表性的28SRNA条带明显变弱，提示了更多的（长链)RNA被降解。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2Hank's液中的人细胞经 $5 6 ^ { \\circ } \\mathrm { C }$ 以上处理后总RNA和基因组DNA均明显降解进一步地，我们测试了 $5 6 ^ { \\circ } \\mathrm { C }$ 以上处理对人细胞系细胞内的RNA的稳定性的影响。以Hank's作为细胞保存液悬浮细胞（293T细胞）制备6组实验样品。每组样品中还包括猪PEDV冠状病毒(RNA病毒)和噬菌体入DNA(DNA病毒）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中4组置于 $5 6 ^ { \\circ } \\mathrm { C }$ 分别进行30、45和60分钟的孵育，第5组置于 $9 2 ^ { \\circ } \\mathrm { C }$ 中孵育5分钟，第6组置于 $4 ^ { \\circ } \\mathrm { C }$ 中作为对照。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "待全部孵育完成后，按常规方法分别提取核酸（包括DNA和RNA)，然后进行 $1 . 2 \\%$ 的凝胶电泳。结果发现（图2)：与保存在 $4 ^ { \\circ } \\mathrm { C }$ 对照组样品相比，经过$5 6 ^ { \\circ } \\mathrm { C } 3 0 \\mathrm { - } 6 0$ 分钟孵育的样品中的核酸无论是DNA还是RNA都呈现明显的降解，其中28S和18SRNA条带均变得模糊至不可见，而 $9 2 ^ { \\circ } \\mathrm { C }$ 孵育5分钟后，则几乎看不到任何电泳条带。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3Hank's液中的猪PEDV冠状病毒经 $5 6 ^ { \\circ } \\mathrm { C }$ 以上处理后可检出模板数明显降低",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为研究 $5 6 ^ { \\circ } \\mathrm { C }$ 以上处理是否也造成了病毒核酸的损坏，我们以荧光定量RT-PCR方法检测了猪PEDV冠状病毒在处理后的含量。结果（图3-6）显示：与4□对照组的 $\\mathrm { C t }$ （threshold cycle value）（ $\\left( 3 1 . 9 4 \\pm 0 . 1 0 \\right)$ ）相比， $5 6 ^ { \\circ } \\mathrm { C }$ 孵育30分钟组的Ct（ $3 2 . 9 4 ~ \\pm ~ 0 . 1 8 ^ { \\cdot }$ ）平均值增大了0.996（ $\\mathsf { p } { < } 0 . 0 1 )$ ，意味着 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育30 分钟处理导致样品中可检出的病毒模板数只剩下未经灭活处理的 $5 0 . 1 1 \\%$ $( 1 / 2 \\land 0 . 9 9 6 7 )$ 。而经 $9 2 ^ { \\circ } \\mathrm { C }$ 灭活处理5分钟的实验组的Ct（ $3 6 . 8 4 \\pm 0 . 3 7$ ）平均值则增加了4.8947（ $\\cdot \\mathrm { \\bf p } { < } 0 . 0 0 0 1 \\rangle$ ，意味着 $9 2 ^ { \\circ } \\mathrm { C }$ 灭活处理5分钟导致样品中可检出的病毒模板数只剩下未经灭活处理的 $3 . 3 6 \\%$ ( $1 / 2 { \\hat { \\cdot } } 4 . 8 9 4 7 \\rangle$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "进一步地，我们以荧光定量PCR 法对样品中的病毒DNA（入噬菌体）进行检测，结果（图7-8）发现：与 $4 ^ { \\circ } \\mathrm { C }$ 保存组的 $\\mathrm { C t } ~ ( 2 3 . 0 2 \\pm 0 . 1 5 )$ 相比， $5 6 ^ { \\circ } \\mathrm { C }$ 孵育30分钟的Ct（ $2 3 . 5 5 \\pm 0 . 2 0 \\$ ）平均值增加了0.5230（ $\\mathsf { p } { < } 0 . 0 1 )$ ，意味着 Hank's 液保存的样本经 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育30分钟后可检出的病毒模板数只有未经高温处理的$6 9 . 5 9 \\%$ ( $( 1 / 2 \\AA \\cdot 0 . 5 2 3 0 )$ 。而经 $9 2 ^ { \\circ } \\mathrm { C }$ 灭活孵育5分钟的实验组的Ct（ $2 5 . 5 8 \\pm 0 . 2 1$ ）平均值增加了2.5572（ $\\mathrm { { p { < } 0 . 0 0 0 1 } ) }$ ，意味着Hank's 液保存的样本经 $9 2 ^ { \\circ } \\mathrm { C }$ 孵育5分钟后可检出的病毒模板数只有未经高温处理的 $1 6 . 9 9 \\%$ ( $1 / 2 { \\hat { \\cdot } } 2 . 5 5 7 2 { \\cdot }$ ）°",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以上结果证明，高温处理均明显下降了RNA病毒和DNA病毒的可检出量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4含SDS的样本保存液可部分地保护人293T 细胞内的RNA免受高温处理导致的降解",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为提高经高温处理后样品中的病毒核酸可检出量，研制出新的样本保存液十分必要。为此，我们首先配制了3种保存液（保存液1、保存液2和保存液3)，检查一下是否存在可保护病毒样本免受高温处理危害的样本保存液。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验共分成3组，在用作测试的人细胞系细胞(293T)中分别加入保存液1、保存液2和保存液3。每组再设 $5 6 ^ { \\circ } \\mathrm { C }$ 处理组（置于 $5 6 ^ { \\circ } \\mathrm { C }$ 水浴锅中水浴30分钟）和 $4 ^ { \\circ } \\mathrm { C }$ 保存组（置于 $4 ^ { \\circ } \\mathrm { C }$ 冰箱中保存30分钟）。待所有处理完成后，按常规方法提取样品中的总RNA，然后进行 $1 . 0 \\%$ 的琼脂糖凝胶电泳。结果显示（图9)：高温对保存液1中的样品影响最大，标志性的28S 和18S条带均消失，而保存液2（含蛋白酶K）与保存液3中的RNA质量较好，其中保存液2中的样品28S和18S条带均明显可见，几乎没有在其它组中看到的拖尾现象。这些结果表明，SDS（保存液1中没有而保存液2和3中均有）可能具有保护RNA免受RNAase 降解的作用，而蛋白酶K与 SDS 联用的保护效果可能更好（保存液2中同时含有两种物质，而保存液3中仅有 SDS）。有意思的是，当保存在3种保存液中的样品置于 $4 ^ { \\circ } \\mathrm { C }$ 中保存半小时后，样品RNA仍有明显降解，可能原因是SDS在低温下溶解性下降。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5R503可明显地提高对人293T细胞内的RNA和基因组DNA的保护作用",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为进一步优选可以保护RNA免受高温处理带来的危害，我们以R503（南京诺唯赞生物科技有限公司)作为细胞保存液进行试验。同Hank's液的试验相同，以R503制备6组实验样品（每组样品中还包括猪PEDV冠状病毒和噬菌体入DNA)，其中4组置于 $5 6 ^ { \\circ } \\mathrm { C }$ 分别进行30、45和60分钟的孵育，第5组置于 $9 2 ^ { \\circ } \\mathrm { C }$ 中孵育5分钟，第6组置于 $4 ^ { \\circ } \\mathrm { C }$ 中作为对照。待全部孵育完成后，按常规方法分别提取核酸，然后进行 $1 . 2 \\%$ 的琼脂糖凝胶电泳。结果显示（图10)：与保存在 $4 ^ { \\circ } \\mathrm { C }$ 的对照组样品相比，经 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育30-60分钟的样品中的核酸无论是DNA 还是RNA也都呈现明显的降解，其中标识人细胞总RNA的28S 和18S条带附近均有明显的拖尾现象，标识基因组DNA 的大片段条带亮度变弱。而 $9 2 ^ { \\circ } \\mathrm { C }$ 孵育5分钟后，则几乎看不到基因组DNA条带和28S条带。不过，与 Hank's液相比，核酸降解的情况要好些，提示R503对核酸（无论是RNA还是基因组DNA）的保护作用非常明显。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.6R503保存液中的猪PEDV冠状病毒经 $5 6 ^ { \\circ } \\mathrm { C }$ 以上温度处理后病毒可检出模板量无明显改变",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为研究 $5 6 ^ { \\circ } \\mathrm { C }$ 以上处理是否也造成了R503保存的病毒核酸的损坏，我们以荧光定量RT-PCR方法检测了猪PEDV冠状病毒在高温处理后的含量。结果（图11-14）显示：与 $4 ^ { \\circ } \\mathrm { C }$ 对照组的Ct（ $3 1 . 6 4 \\pm 0 . 1 0 \\dot { . }$ ）相比， $5 6 ^ { \\circ } \\mathrm { C }$ 孵育30分钟组的Ct（ $3 1 . 3 1 \\pm 0 . 1 7$ ）平均值没有明显改变（两种之间的变化小于0.5)。而经 $9 2 ^ { \\circ } \\mathrm { C }$ 灭活处理5分钟的实验组的Ct（ $3 1 . 4 3 \\pm 0 . 0 8 { \\cdot }$ ）平均值也没有明显改变（两种之间的变化小于0.5)。这些结果表明 $5 6 ^ { \\circ } \\mathrm { C }$ 以上处理并未显著影响保存在R503中的病毒可检出量，提示病毒核酸虽然有降解，但残留的小片段RNA仍可用作荧光定量RT-PCR的模板，且在模板量上无显著变化。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "进一步地，我们以荧光定量PCR的方法检测了 $\\lambda$ 噬菌体 DNA 在高温处理后的含量。结果（图15-16）显示：与 $4 ^ { \\circ } \\mathrm { C }$ 对照组的 $\\mathrm { C t } ~ \\left( 2 1 . 6 1 \\pm 0 . 0 6 \\right)$ 相比，$5 6 ^ { \\circ } \\mathrm { C }$ 孵育30分钟组的Ct（ $2 1 . 7 1 \\pm 0 . 0 4$ ）平均值没有明显改变（两种之间的变化小于0.5)。而经 $9 2 ^ { \\circ } \\mathrm { C }$ 灭活处理5分钟的实验组的Ct（ $2 2 . 9 0 \\pm 0 . 2 6$ ）平均值增加了1.2880，意味着R503液保存的样本经 $9 2 ^ { \\circ } \\mathrm { C }$ 孵育5分钟后可检出的病毒模板数只有未经高温处理的 $4 0 . 9 5 \\%$ ( $\\cdot 1 / 2 ^ { \\wedge } 1 . 2 8 8 0 )$ ，提示即使保存在R503中， $9 2 ^ { \\circ } \\mathrm { C }$ 处理也明显下降了DNA病毒的可检出量。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.7R503保存样品经 $5 6 ^ { \\circ } \\mathrm { C }$ 处理后可检出的RNA冠状病毒模板量显著高于Hank's液保存的样品",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为比较R503与普通的等渗液在保护微量RNA冠状病毒可检出量方面的优劣，我们首先比较了二者在 $4 ^ { \\circ } \\mathrm { C }$ 保存条件下保存的微量RNA冠状病毒可检出量之间是否有差异。结果表明（图17)：两种保存液下病毒的检出率相似，对应的Ct平均值之差小于0.5（ $3 . 6 4 \\pm 0 . 1 0$ VS $3 1 . 9 5 \\pm 0 . 1 0 \\rangle$ ，提示两种保存液在 $4 ^ { \\circ } \\mathrm { C }$ 条件下保存的样品中的病毒可检出模板量无显著差异。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "然而，经 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育30分钟后，两种保存液下病毒检出的Ct分别为 $3 1 . 3 1 \\pm$ 0.17（R503）和 $3 2 . 9 4 \\pm 0 . 1 8$ （Hank's)。Hank's保存样品的病毒Ct平均值比R503的增加了1.6305（ $\\scriptstyle \\mathbf { p } < 0 . 0 0 0 1$ ；图 18)；即 Hank's 液保存的样品经过 $5 6 ^ { \\circ } \\mathrm { C }$ 灭活处理30分钟后可检出的病毒模板数只有R503保存液的 $3 2 . 3 0 \\%$ （ $( 1 / 2 \\hat { \\phantom { 1 } } 1 . 6 3 0 5 )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "进一步地，经 $9 2 ^ { \\circ } \\mathrm { C }$ 灭活处理5分钟后，两种保存液下病毒检出的Ct分别为$3 1 . 4 3 \\pm 0 . 0 8$ (R503）和 $3 6 . 8 4 \\pm 0 . 3 7$ （Hank's)，Hank's 液保存样品的病毒Ct平均值比R503 的增加了5.4125( $\\cdot \\mathrm { \\tt p } { < } 0 . 0 0 0 1$ ；图19)；即 Hank's 液保存的样品经过 $9 2 ^ { \\circ } \\mathrm { C }$ 灭活处理30分钟后可检出的病毒模板数只有R503保存液的 $2 . 3 5 \\% ( 1 / 2 \\land 5 . 4 1 2 5 )$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "RNA的完整性易受核糖核酸酶破坏，因而在基础分子生物学技术训练中，对正确操作RNA样品有严格的要求。被训练者始终被要求要在无核糖核酸酶污染的条件下进行RNA操作。这些条件包括实验操作时操作人员要佩戴口罩、操作时不能对着样品说话；操作时戴手套，不能用手直接接触样品；使用无核糖核酸酶污染的枪头(必要时需要使用带滤芯的枪头，以防止来自移液枪中的污染)，使用无核糖核酸酶污染的试剂；操作台面要清洁，必要时需要用去除核糖核酸酶的试剂进行清洁。而样品在被核糖核酸酶抑制剂保护前则被要求始终置于盛有冰的冰盒中或 $4 ^ { \\circ } \\mathrm { C }$ 冰箱中。总之，在整个操作过程中，要防止样品中的RNA被核糖核酸酶所降解。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在临床检测中，特别是在检测烈性传染的病毒核酸时，由于硬件条件不完善，临检人员始终受到烈性传染病毒暴露的威胁，因而在“开盖”样品前，普遍进行高温灭活病毒以保护临床检验人员的安全已成为从事临检工作的专家共识。然而，理论上，这种高温灭活处理将损坏样品RNA，包括其中可能的病毒RNA的完整性，降低病毒可检出的模板量。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在本研究中，我们通过对斑马鱼胚胎细胞和人细胞系细胞进行 $5 6 ^ { \\circ } \\mathrm { C }$ 以上高温处理，发现细胞的总RNA降解明显，而以猪瘟病毒作为冠状病毒模型所做的高温灭活处理的研究发现，保存在普通等渗溶液中的样品经 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育30分钟即可以让样品中可检出的冠状病毒模板减少了一半。若以 $9 2 ^ { \\circ } \\mathrm { C }$ 孵育5分钟，则可检出的冠状病毒模板损失了 $96 \\%$ 以上。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "新冠病毒正在以其极强的传染性威胁全国及全世界人民的健康安全。然而，以荧光定量RT-PCR作为检测手段的新冠病毒检测的阳性率目前仅有 $30 \\text{‰}$ 导致奇高的假阴性率。导致假阴性率发生的原因很多，模板的质量应该是需要考虑的重要因素之一。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "陈培松等新近发表的研究论文指出使用 $5 6 ^ { \\circ } \\mathrm { C } 3 0 \\mathrm { m i n }$ 处理咽拭子标本对后续2019 新型冠状病毒核酸qPCR 检测无明显的影响[5]。但作者在讨论中同时提到了研究的局限性在于：“1）由于阳性咽拭子标本较少，只能够对仅有的两个阳性标本进行验证；2）在检测的两个阳性标本，CT值均比较高（未稀释时，分别为 19 和 24)，对于某些CT 值偏低的标本，是否存在同样的相关性，仍需要进一步探讨；3）研究者的实验结果完成比较早（1月24号完成)，当时普遍使用的是不带内参的单通道试剂，如若能结合内参基因，N 基因，ORF 基因一起分析会提供更详细的验证信息；4）本研究仅比较了一个厂家的试剂，是否其他厂家的试剂也是如此，仍需更多的数据支持。”考虑到这些局限性并结合高温灭活处理导致的猪冠状病毒核酸完整性受损的实验证据，建议立即开展有关高温灭活对新冠病毒核酸完整性影响的系统性研究并开发保护新冠病毒核酸免受高温灭活损坏的样品保存液：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1）研究确认高温灭活是否确实影响了新冠病毒核酸的完整性，导致病毒核酸的可检出量显著下降。理论上，在核糖核酸酶的活性没有被抑制的情况下，高温灭活处理会导致核酸的降解，从而显著降低病毒核酸的检出率。我们以猪PDEV冠状病毒为模型的实验支持上述理论推测。但是，我们的研究毕竟只是在猪 PDEV冠状病毒上开展的，尚缺乏来自新冠病毒经高温灭活后可检出量是否下降的直接证据(我们没有新冠病毒材料，尚没有直接从事新冠病毒研究的资质）。因此，立即布置开展高温灭活对新冠病毒核酸可检出率影响的研究十分迫切。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2）研究开发可保护新冠病毒核酸免受高温灭活损坏的样品保存液，提高新冠病毒核酸的可检出量。高温灭活是保护一线临检人员安全的必需措施，因而是临床检测新冠病毒核酸普遍采用的方法。理论上，如果能抑制核酸核酸酶的活性，那么高温灭活过程将会减少对病毒核酸完整性的影响。在本研究中，将猪PEDV保存在R503保存液中时，样品经 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育 30 分钟后其病毒核酸可检出量是Hank's液保存样本的3倍；若是 $9 2 ^ { \\circ } \\mathrm { C }$ 孵育5分钟的话，R503保存的冠状病毒可检出量是Hank's 液保存样本的42倍。这些结果提示，存在一种保存液可有效保护病毒核酸完整性，从而提高其核酸可检出率。不过，这一结论仍缺乏来自新冠病毒的直接证据。利用新冠病毒作为研究对象，首先需要回答，新保存液保存的病毒在经高温灭活后是否依然存在感染性？其次这种可抑制核糖核酸酶的保存液是否确实可提高新冠病毒经高温灭活后的核酸可检出量？",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "高温灭活也破坏了DNA的完整性，降低了DNA病毒可检出的模板量。在此不作详细讨论。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] Zhou, P., Yang, X. L., Wang, X. G., Hu, B., Zhang, L., Zhang, W., Si, H. R., Zhu,Y., Li, B., Huang, C. L., Chen, H. D., Chen, J., Luo, Y., Guo, H., Jiang, R. D., Liu, M.Q., Chen, Y., Shen, X. R., Wang, X., Zheng, X.-S., Zhao, K., Chen, Q. J., Deng, F.,Liu, L. L., Yan, B., Zhan, F. X., Wang, Y. Y., Xiao, G. F., Shi, Z. L., 2020. A  \npneumonia outbreak associated with a new coronavirus of probable bat origin. Nature.DOI:10.1038/s41586-020-2012-7  \n[2]2020年2月5日，中国工程院副院长、呼吸与危重症医学专家王辰教授在中央电视台采访中提到：“核酸检测对于阳性病人，最高有 $30 \\text{‰}$ 的阳性率。”[3]中华人民共和国国家卫生健康委员会,2020-02-06．新型冠状病毒肺炎实验室检测技术指南(第四版）  \n[4]中华医学会检验医学分会,.2020．新型冠状病毒肺炎病毒核酸检测专家共识.中华医学杂志.100（00):E003-E003.  \nDOI:10.3760/cma.j.issn.0376-2491.2020.0003  \n[5] 陈培松，何宇婷，黄裕立，等．不同方式灭活口咽拭子标本对 2019 新型冠状病毒实时荧光定量PCR 检测结果的影响[J].中华检验医学杂志,2020,43(00):E004-E004. DOI: 10.3760/cma.j.issn.1009-9158.2020.0004。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "致谢 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文源于2020 年2月8日开始针对新冠病毒高假阴性问题召集包括南京妇幼保健院的梁栋博士、南京尧顺禹生物科技有限公司的许昊、池军和袁月，以及南京大学模式动物研究所研究生贺陆青青、张赵俊杰、李楠、姜东亚、王爽、张云凤和张沁欣等开展的讨论。其后，清华大学陈亚林高级工程师就方法论提出了宝贵的建议，江苏省科技厅李汉中、江苏省信访局宋仁志、科技日报社记者张晔等在相关资料收集以及科学假设完善上提供了重要的帮助。本文的实验数据由南京尧顺禹生物科技有限公司的许昊和池军、南京诺唯赞生物科技有限公司的江明扬博士、聂俊伟博士和黄韬硕士等按作者设计的实验方案完成。北京安杰律师事务所吴立博士和中国水产科学院珠江水产研究所的李凯彬研究员参与了论文写作的讨论，东南大学赵平教授在统计学方法上给与了指导。南京尧顺禹生物有限公司的王明开和南林对本论文的顺利完成提供了诸多支持。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "附一、图及图例",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "图1、斑马鱼 $7 2 \\mathrm { h p f }$ 胚胎细胞经 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育后总RNA质量电泳鉴定结果。自左向右第1泳道为DNA Marker：从下向上依次为 $1 0 0 ~ \\mathrm { b p }$ 、 $2 5 0 ~ \\mathrm { b p }$ 、500 bp、750 bp1000 bp、2000 bp、3000 bp、5000 bp；第 $2 { \\sim } 4$ 泳道为 $5 6 ^ { \\circ } \\mathrm { C }$ 加TriZol后 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育 30 分钟提取的总RNA；第5\\~7泳道为加TriZol后 $4 ^ { \\circ } \\mathrm { C }$ 保存提取的总RNA;第 $8 { \\sim } 1 0$ 泳道为加PBS后 $5 6 ^ { \\circ } \\mathrm { C }$ 后孵育30分钟提取的总RNA。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/a05b6bbb9411278b12939e80f8b2b8282efea2885fcdc01a92df201814fac0c9.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "图2、Hank's 溶液作为保存液保存的样品经不同灭活处理后提取的核酸的琼脂糖凝胶电泳结果。自左向右第1泳道为DNA Marker（Vazyme #MD103)；第 2\\~3泳道为 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育30 分钟提取的总RNA 和DNA；第 4\\~5泳道为 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育45分钟提取的总RNA和DNA；第 $6 { \\sim } 7$ 泳道为 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育60分钟提取的总RNA和DNA；第8\\~9泳道为保存在 $4 ^ { \\circ } \\mathrm { C }$ 的对照；第10\\~11泳道为 $9 2 ^ { \\circ } \\mathrm { C }$ 孵育5分钟提取的总RNA 和 DNA。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/2049d6d43f83d3acf6c3b53c156776a4569ff819cf59c7bed35e961305d9d9ee.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "图3、Hank's 液保存的样品经 $5 6 ^ { \\circ } \\mathrm { C }$ 以上高温处理后提取的猪PEDV 冠状病毒核酸的荧光定量RT-PCR 结果（Ct值）。H-4-0：保存在 $4 ^ { \\circ } \\mathrm { C }$ 的对照样品；H-56-30:经 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育30分钟的样品；H-56-45：经 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育45分钟的样品；H-56-60:经 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育60分钟的样品；H-92-5：经 $9 2 ^ { \\circ } \\mathrm { C }$ 孵育5分钟的样品。每一种孵育处理设一个重复，每一个样品在定量PCR时设一个复孔。NTC：阴性对照。",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/17e71c6765d82c5792640b52fa7385bd51b4828afd5774ceaf3b68c97c7944e3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>H-4-0</td><td>31.861</td><td></td><td>NTC</td><td>Undetermined</td><td></td></tr><tr><td></td><td>H-4-0</td><td>31.984</td><td></td><td>NTC</td><td>Undetermined</td><td></td></tr><tr><td></td><td>H-4-0</td><td>31.877</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>H-4-0</td><td>32.064</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>H-56-30</td><td>32.889</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>H-56-30</td><td>33.188</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>H-56-30</td><td>32.941</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>H-56-30</td><td>32.755</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>H-56-45</td><td>33.221</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>H-56-45</td><td>33.011</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>H-56-45</td><td>32.806</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>H-56-45</td><td>33.216</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>H-56-60</td><td>32.554</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>H-56-60</td><td>32.911</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>H-56-60</td><td>32.080</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>H-56-60</td><td>32.368</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>H-92-5</td><td>36.920</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>H-92-5</td><td>37.263</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>H-92-5</td><td>36.815</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>H-92-5</td><td>36.367</td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "图4、Hank's液保存的猪PEDV冠状病毒样品经不同高温处理后提取的病毒RNA的荧光定量RT-PCR的典型扩增曲线图。不同颜色代表不同处理（参图3)。",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/c5f697c17c04c837577ba63e54a5cfe287c59834fe336f3728e3f225c7bddb10.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "图5、Hank's 液保存的猪PEDV冠状病毒样品经 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育30分钟后提取的病毒RNA的荧光定量RT-PCR的典型扩增曲线图与 $4 ^ { \\circ } \\mathrm { C }$ 保存对照样品之间的对比分析图。不同颜色代表的处理形式见图右侧所示。",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/e41d4216982de2592368c5cdc19f9fbc964b5adb368b79021b7eaece43df778a.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "图6、Hank's 液保存的猪PEDV冠状病毒样品经 $9 2 ^ { \\circ } \\mathrm { C }$ 孵育5分钟后提取的病毒RNA的荧光定量RT-PCR的典型扩增曲线图与 $4 ^ { \\circ } \\mathrm { C }$ 保存对照样品之间的对比分析图。不同颜色代表的处理形式见图右侧所示。",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/58908b3f31e82eca75f33b1778766b2ecf08a6b6718b1c7613cba291381f01ec.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "图7、Hank's 液保存的样品经 $5 6 ^ { \\circ } \\mathrm { C }$ 以上高温处理后提取的入噬菌体病毒DNA的荧光定量PCR结果（Ct值）。H-4-0：保存在 $4 ^ { \\circ } \\mathrm { C }$ 的对照样品；H-56-30：经 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育30分钟的样品；H-56-45：经 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育45分钟的样品；H-56-60：经 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育60分钟的样品；H-92-5：经 $9 2 ^ { \\circ } \\mathrm { C }$ 孵育5分钟的样品。每一种孵育处理设一个重复，每一个样品在定量PCR时设一个复孔。NTC：阴性对照。",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/5ede679fc3693dab01509c33f9b21325eecb59bbb716ca4ff69a4f304c603c1e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>H-4-0</td><td>22.989</td><td></td><td>NTC</td><td>31.535</td></tr><tr><td>H-4-0</td><td>23.244</td><td></td><td>NTC</td><td>35.487</td></tr><tr><td>H-4-0</td><td>22.921</td><td></td><td></td><td></td></tr><tr><td>H-4-0</td><td>22.942</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>H-56-30min</td><td>23.645</td><td></td><td></td><td></td></tr><tr><td>H-56-30min</td><td>23.780</td><td></td><td></td><td></td></tr><tr><td>H-56-30min</td><td>23.380</td><td></td><td></td><td></td></tr><tr><td>H-56-30min</td><td>23.383</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>H-56-45min</td><td>23.754</td><td></td><td></td><td></td></tr><tr><td>H-56-45min</td><td>23.903</td><td></td><td></td><td></td></tr><tr><td>H-56-45min</td><td>23.979</td><td></td><td></td><td></td></tr><tr><td>H-56-45min</td><td>24.026</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>H-56-60min</td><td>23.571</td><td></td><td></td><td></td></tr><tr><td>H-56-60min</td><td>23.617</td><td></td><td></td><td></td></tr><tr><td>H-56-60min</td><td>22.945</td><td></td><td></td><td></td></tr><tr><td>H-56-60min</td><td>22.932</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>H-92-5min</td><td>25.781</td><td></td><td></td><td></td></tr><tr><td>H-92-5min</td><td>25.743</td><td></td><td></td><td></td></tr><tr><td>H-92-5min</td><td>25.382</td><td></td><td></td><td></td></tr><tr><td>H-92-5min</td><td>25.419</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "图8、Hank's 液保存的样品经不同高温处理后提取的入噬菌体病毒DNA的荧光定量PCR的典型扩增曲线图。不同颜色代表不同处理（参图7)。",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5cce7fbebf31fda63401e29763ff46e696271dddb839e4994b870dcfa08150b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "图9、不同保存液对人细胞293T经 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育30后总RNA质量电泳鉴定结果图。自左向右第1泳道为DNAMarker：从下向上依次为 $1 0 0 ~ \\mathrm { b p }$ 、250 bp、500 bp、750 bp、1000 bp、2000 bp、3000 bp、5000 bp；其中第 2\\~3 泳道为加 RNA 保存液1提取的总RNA，点样顺序为放置 $5 6 ^ { \\circ } \\mathrm { C }$ 与放置 $4 ^ { \\circ } \\mathrm { C }$ ；第4\\~5泳道和第6\\~7泳道为加RNA保存液2和加RNA保存液3提取的总RNA，点样顺序都与加RNA保存液1提取的总RNA一致。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "图10、R503保存的样品经不同高温处理后提取的核酸的琼脂糖凝胶电泳结果。自左向右第1泳道为DNAMarker（Vazyme#MD103)；第2\\~3 泳道为 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育30分钟提取的总RNA和DNA；第4\\~5 泳道为 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育45分钟提取的总RNA和DNA；第6\\~7泳道为 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育60分钟提取的总RNA和DNA；第8\\~9泳道为保存在 $4 ^ { \\circ } \\mathrm { C }$ 的对照;第 $^ { 1 0 \\mathrm { \\sim } 1 1 }$ 泳道为 $9 2 ^ { \\circ } \\mathrm { C }$ 孵育5分钟提取的总RNA和DNA。",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/7292a8e1351eb6c3cc6cc275a9761c4475833b60c4637c5a47a521ce4d9b7b88.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "图11、R503保存的样品经 $5 6 ^ { \\circ } \\mathrm { C }$ 以上高温处理后提取的猪PEDV 冠状病毒核酸的荧光定量 RT-PCR 定量的荧光定量 RT-PCR 值结果。V-4-0：保存在 $4 ^ { \\circ } \\mathrm { C }$ 的对照样品；V-56-30：经 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育30分钟的样品；V-56-45：经 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育45分钟的样品；V-56-60：经 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育60分钟的样品；V-92-5：经 $9 2 ^ { \\circ } \\mathrm { C }$ 孵育5分钟的样品。每一种孵育处理设一个重复，每一个样品在定量PCR时设一个复孔。NTC：阴性对照。",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/7cdfe56348540de77218d484614c259ada9ce16d6c567aac00eb9cd29255d3a3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Sample N:CT</td><td></td></tr><tr><td>V-4-0</td><td>31.519</td></tr><tr><td>V-4-0</td><td>31.630</td></tr><tr><td>V-4-0</td><td>31.677</td></tr><tr><td>V-4-0</td><td>31.755</td></tr><tr><td></td><td></td></tr><tr><td>V-56-30 V-56-30</td><td>31.222 31.225</td></tr><tr><td></td><td></td></tr><tr><td>V-56-30 V-56-30</td><td>31.213</td></tr><tr><td></td><td>31.561</td></tr><tr><td>V-56-45</td><td>31.271</td></tr><tr><td>6V-56-45</td><td>31.356</td></tr><tr><td>V-56-45</td><td>31.579</td></tr><tr><td>V-56-45</td><td>31.480</td></tr><tr><td></td><td></td></tr><tr><td>V-56-60</td><td>31.503</td></tr><tr><td>V-56-60</td><td>31.659</td></tr><tr><td>V-56-60</td><td>31.444</td></tr><tr><td>V-56-60</td><td>31.717</td></tr><tr><td></td><td></td></tr><tr><td>V-92-5</td><td>31.544</td></tr><tr><td>V-92-5</td><td>31.380</td></tr><tr><td>V-92-5</td><td>31.397</td></tr><tr><td>V-92-5</td><td>31.394</td></tr></table></body></html>",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "图12、R503液保存的猪PEDV冠状病毒样品经不同高温处理后提取的病毒RNA的荧光定量RT-PCR的典型扩增曲线图。不同颜色代表不同处理（参图11)。",
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/e26c6e24d7ce319a5001fd6e2bd9c0cb9e7cc5a708f1e6bcc88d0931142a7ff5.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "图13、R503 液保存的猪PEDV冠状病毒样品经 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育30分钟后提取的病毒RNA的荧光定量RT-PCR的典型扩增曲线图与 $4 ^ { \\circ } \\mathrm { C }$ 保存对照样品之间的对比分析图。不同颜色代表的处理形式见图右侧所示。",
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/343a9a3190dc79b62eef870d8ad35343eefe0233f1e75353663ce9e4502f0e17.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "图14、Hank's液保存的猪PEDV冠状病毒样品经 $9 2 ^ { \\circ } \\mathrm { C }$ 孵育5分钟后提取的病毒RNA的荧光定量RT-PCR的典型扩增曲线图与 $4 ^ { \\circ } \\mathrm { C }$ 保存对照样品之间的对比分析图。不同颜色代表的处理形式见图右侧所示。",
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/a652bd7b7b35f7594ad1d9c14025df742edd4db60fbd8b7c2b27df999dbbe65a.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "图15、R503保存的样品经 $5 6 ^ { \\circ } \\mathrm { C }$ 以上高温处理后提取的入噬菌体病毒DNA的荧光定量PCR定量结果（Ct)。V-4-0：保存在 $4 ^ { \\circ } \\mathrm { C }$ 的对照样品；V-56-30：经 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育30分钟的样品；V-56-45：经 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育45分钟的样品；V-56-60：经 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育60分钟的样品；V-92-5：经 $9 2 ^ { \\circ } \\mathrm { C }$ 孵育5分钟的样品。每一种孵育处理设一个重复，每一个样品在荧光定量PCR时设一个复孔。NTC：阴性对照。",
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/6b51fb8b9ada36341bdbfc5db3dc6a83af61c120d22f2f11b93c85999ac92417.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td></tr><tr><td>V-4-0</td><td>21.654</td></tr><tr><td>V-4-0</td><td>21.665</td></tr><tr><td>V-4-0</td><td>21.585</td></tr><tr><td>V-4-0</td><td>21.540</td></tr><tr><td></td><td></td></tr><tr><td>V-56-30min</td><td>21.757</td></tr><tr><td>V-56-30min</td><td>21.664</td></tr><tr><td>V-56-30min</td><td>21.730</td></tr><tr><td>V-56-30min</td><td>21.703</td></tr><tr><td>V-56-45min</td><td></td></tr><tr><td>V-56-45min</td><td>21.918 21.882</td></tr><tr><td>V-56-45min</td><td>21.798</td></tr><tr><td>V-56-45min</td><td></td></tr><tr><td></td><td>21.912</td></tr><tr><td>V-56-60min</td><td></td></tr><tr><td>V-56-60min</td><td>21.950 21.851</td></tr><tr><td>V-56-60min</td><td>21.953</td></tr><tr><td>V-56-60min</td><td></td></tr><tr><td></td><td>21.897</td></tr><tr><td>V-92-5min</td><td>23.145</td></tr><tr><td>V-92-5min</td><td>23.094</td></tr><tr><td>V-92-5min</td><td>22.671</td></tr><tr><td></td><td></td></tr><tr><td>V-92-5min</td><td>22.686</td></tr></table></body></html>",
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d12a3aa5d271eec864b2f91c20b9ee480c949c63c78c0fcf274e3eaba4184e6.jpg",
+        "img_caption": [
+            "图16、R503保存的样品经不同高温处理后提取的入噬菌体病毒DNA的荧光定量PCR的典型扩增曲线图。不同颜色代表不同处理（参图15）。"
+        ],
+        "img_footnote": [],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "图17、R503液与Hank's分别保存的猪PEDV冠状病毒样品在 $4 ^ { \\circ } \\mathrm { C }$ 保存后提取的病毒RNA的荧光定量RT-PCR的典型扩增曲线图之间的对比分析图。不同颜色代表的处理形式见图右侧所示。",
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b3525bb0be1636cbbe06b4ef90b28ceea33e32526ea0fbaa8b3b016da71f8fb.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "图18、R503液与Hank's分别保存的猪PEDV冠状病毒样品经 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育30分钟后提取的病毒RNA的荧光定量RT-PCR的典型扩增曲线图之间的对比分析图。不同颜色代表的处理形式见图右侧所示。",
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/40419525ad9e97f22f501c456df66e7c7d1f1feb8b0fe5c0916575c84785a55c.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "图19、R503液与Hank's分别保存的猪PEDV冠状病毒样品经 $9 2 ^ { \\circ } \\mathrm { C }$ 孵育5分钟后提取的病毒RNA的荧光定量RT-PCR的典型扩增曲线图之间的对比分析图。不同颜色代表的处理形式见图右侧所示。",
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/dbae9845c38d820dffa0d9c0ace4823c2317170ec4a251e58b1a68606040a2c0.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "附二、材料与方法",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "${ \\mathrm { S } } 2 . 1 5 6 ^ { \\circ } { \\mathrm { C } }$ 孵育对斑马鱼72hpf胚胎细胞内总RNA质量的实验",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "斑马鱼实验方案符合南京尧顺禹生物科技有限公司的相关实验动物照看与管理的规定，获得IACUC 的批准。实验时，收集72hpf斑马鱼胚胎，用于提取总 RNA，每组15枚，将水分吸干后，用TriZol法获得总RNA。1）总共分为3个实验组，每组为3个重复：第1组为每个重复组加入 ${ 5 0 0 \\mu \\mathrm { l } }$ Trizol,放到 $5 6 ^ { \\circ } \\mathrm { C }$ 水浴锅中，水浴 $3 0 \\mathrm { m i n }$ 后，使用匀浆机匀浆（以不成块为最佳)；第2组为每个重复组加入 ${ 5 0 0 \\mu \\mathrm { l } }$ Trizol，放到 $4 ^ { \\circ } \\mathrm { C }$ 冰箱中，静置 $3 0 \\mathrm { m i n }$ 后，使用匀浆机匀浆（以不成块为最佳)；第3组为每个重复组加入 $5 0 0 \\mu \\mathrm { l } 1 \\times \\mathrm { P B S }$ ，放到 $5 6 ^ { \\circ } \\mathrm { C }$ 水浴锅中，水浴 $3 0 \\mathrm { m i n }$ 后，将PBS 溶液吸干，加入 $5 0 0 ~ \\mu \\updownarrow$ Trizol，使用匀浆机匀浆（以不成块为最佳）。2)向上述裂解液中加入 $1 0 0 \\mu \\mathrm { l }$ 体积氯仿。盖紧离心管盖，剧烈震荡 $1 5 \\mathrm { s e c }$ ，室温静置 $3 \\mathrm { m i n }$ 。3) $4 ^ { \\circ } \\mathrm { C }$ ， $_ { 1 2 , 0 0 0 \\mathrm { g } }$ 离心 $1 5 \\mathrm { m i n }$ 。4)小心吸取上层水相至新离心管中，加入 $2 5 0 ~ \\mu \\mathrm { l }$ 体积异丙醇。颠倒混匀后室温放置 $1 0 \\mathrm { m i n }$ 。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "5) $4 ^ { \\circ } \\mathrm { C }$ ， $_ { 1 2 , 0 0 0 \\mathrm { g } }$ 离心 $1 0 \\mathrm { m i n }$ 。  \n6)小心弃去上清，加入 $5 0 0 \\mathrm { ~ \\textmu l ~ } 7 5 \\%$ 乙醇（DEPC水配制)。涡旋充分洗涤，并轻弹管底，让沉淀悬浮起来。  \n7) $4 ^ { \\circ } \\mathrm { C }$ ， $7 { , } 5 0 0 \\mathrm { g }$ 离心 $5 \\mathrm { m i n }$ ，弃上清，注意不要丢失RNA沉淀。  \n8）重复步骤6\\~7。  \n9)在通风橱干燥 $1 0 \\mathrm { m i n }$ 。加入 $1 5 \\mu \\mathrm { l }$ DEPC水溶解RNA，待完全溶解后，取少量检测。  \n10）取 $1 \\mu \\mathrm { l }$ 进行琼脂糖凝胶电泳。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "S2.2不同保存液对样品经 $5 6 ^ { \\circ } \\mathrm { C }$ 孵育30分钟后总RNA质量影响的实验",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "收集人细胞溶液每管 $1 { , } 8 0 0 ~ \\mu \\mathrm { l }$ ， $\\mathrm { 1 , 5 0 0 ~ g }$ 离心 $1 0 ~ \\mathrm { m i n }$ 后，弃掉上清液，保留沉淀，一共收集6管，用TriZol法获得总RNA。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "1)6 管细胞平分为3个实验组：第1组为加入 $5 0 0 \\mu \\mathrm { l R N A }$ 保存液1 $. ( 1 0 0 \\mathrm { m M }$ Tris(pH7.5)，12.5 mM EDTA， $1 5 0 \\mathrm { m M N a C l }$ ， $2 5 0 ~ \\mathrm { \\mu g / m l }$ 蛋白酶K)，一管放到 $5 6 ^ { \\circ } \\mathrm { C }$ 水浴锅中，水浴 $3 0 \\ \\mathrm { m i n }$ ，另一管放到 $4 ^ { \\circ } \\mathrm { C }$ 冰箱中，静置 $3 0 \\ \\mathrm { m i n }$ ；第2组为加入${ 5 0 0 \\mu 1 \\ R \\mathrm { N A } }$ 保存液2（ $0 . 5 \\%$ SDS，0.1 M NaCl, 0.01 M Tris-HCl（pH8.0)，0.05MEDTA， $1 0 0 ~ \\mathrm { \\mu g / m l }$ 蛋白酶K)，一管放到 $5 6 ^ { \\circ } \\mathrm { C }$ 水浴锅中，水浴 $3 0 ~ \\mathrm { m i n }$ ，另一管放到 $4 ^ { \\circ } \\mathrm { C }$ 冰箱中，静置 $3 0 \\mathrm { m i n }$ ；第3组为加入 $5 0 0 ~ \\mu \\updownarrow$ RNA保存液 $3 ( 1 0 0 ~ \\mathrm { m M }$ EDTA（204号 $\\mathrm { ( p H 8 . 0 ) }$ ， $1 0 0 \\ : \\mathrm { m M N a C l }$ ，50 mM Tris-HCl（ $\\mathrm { \\cdot p H 8 . 0 ) }$ ， $0 . 5 \\%$ SDS)，一管放到 $5 6 ^ { \\circ } \\mathrm { C }$ 水浴锅中，水浴 $3 0 ~ \\mathrm { m i n }$ ，另一管放到 $4 ^ { \\circ } \\mathrm { C }$ 冰箱中，静置 $3 0 ~ \\mathrm { m i n }$ ； $3 0 ~ \\mathrm { m i n }$ 后，所有样品 $4 ^ { \\circ } \\mathrm { C }$ ， $_ { 1 2 , 0 0 0 \\mathrm { g } }$ 离心 $5 \\mathrm { m i n }$ ，小心弃去上清后加入2mlTriZol溶液。2)向上述裂解液中加入 $4 0 0 ~ \\mu \\mathrm { l }$ 体积氯仿。盖紧离心管盖，剧烈震荡 $1 5 \\mathrm { s e c }$ ，室温静置 $3 \\mathrm { m i n }$ 。  \n3) $4 ^ { \\circ } \\mathrm { C }$ ， $_ { 1 2 , 0 0 0 \\mathrm { g } }$ 离心 $1 5 \\mathrm { m i n }$ 。  \n4)小心吸取上层水相至新离心管中，加入 $1 0 0 0 \\mu \\mathrm { l }$ 体积异丙醇。颠倒混匀后室温放置 $1 0 \\mathrm { m i n }$ 。  \n5) $4 ^ { \\circ } \\mathrm { C }$ ， $_ { 1 2 , 0 0 0 \\mathrm { g } }$ 离心 $1 0 \\mathrm { m i n }$ 。  \n6)小心弃去上清，加入 $10 0 0 \\mu \\mathrm { l } 7 5 \\%$ 乙醇（DEPC水配制)。涡旋充分洗涤，并轻弹管底，让沉淀悬浮起来。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "7) $4 ^ { \\circ } \\mathrm { C }$ ， $7 5 0 0 \\mathrm { g }$ 禹心 $5 \\mathrm { m i n }$ ，开工洧，注息不安去大KNA讥涎。",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "8）重复步骤6\\~7。  \n9)在通风橱干燥 $1 0 \\mathrm { m i n }$ 。加入 $2 0 \\mu \\mathrm { l }$ DEPC水溶解RNA，待完全溶解后，取少量检测。  \n10）取 $1 \\mu \\mathrm { l }$ 进行琼脂糖凝胶电泳。",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "S2.3 Hank's和R503保存的样品经不同高温处理后总RNA、基因组DNA、RNA病毒RNA以及DNA病毒RNA的质量影响的实验",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "S2.3.1 材料",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "S2.3.1.1实验模型样本",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "1）HEK-293T细胞（自培养）",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "2）猪传染性胃肠炎、猪流行性腹泻二联活疫苗（WH-1R 株 $+ .$ AJ1102-R株）（武汉科前生物股份有限公司）（备注：虽然是二联，但是实际引物设计只针对的是PEDV，因此检测的是PEDV）。",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "3）λDNA （Takara #3010）",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "S2.3.1.2实验试剂",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "1）病毒样本保存液（Vazyme #R503）  \n2）Hank's 溶液（自配）  \n3）病毒DNA/RNA 提取试剂盒（Vazyme #RC311-C1）  \n4）HiScript II $\\mathrm { U } +$ One Step qRT-PCR Probe Kit （Vazyme #Q222-CN)  \n5）Equalbit $1 \\times$ dsDNA HS Assay Kit (Vazyme #EQ121)  \n6） Equalbit RNA HS Assay Kit（Vazyme #EQ211)  \n7）DL 15000 DNA Marker（Vazyme #MD103）  \n8） $1 0 { \\times } \\mathrm { D N A }$ Loading buffer（Vazyme #P022）",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "9）检测PEDV引物和探针 ",
+        "page_idx": 21
+    },
+    {
+        "type": "table",
+        "img_path": "images/867fcb328576e584113720d6266e0929f4abd97c384bd22fff8a5006acd1b619.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">引物序列 (5'-3')</td><td>PEDV-F1:CGTGAGCCTGGCTTAGTCTTG</td></tr><tr><td>PEDV-R1: CATACGTCGCGATGAAACAAA</td></tr><tr><td>探针(5'-3')</td><td>PEDV-P1:FAM-CGCATGAACTTCAAAATCATACTGCGACG-BHQ-1</td></tr><tr><td>引物稀释方法</td><td>无核糖核酸酶污染水稀释至10μM</td></tr></table></body></html>",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "10）检测入DNA引物和探针 ",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "table",
+        "img_path": "images/303c64077f5b21fa9840937406226614672be1a29318c5aa670ee1282fdfffde.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">引物序列 (5'-3')</td><td>lambda DNA-QF4: TTTGCTGCGGTTGCAGAA</td></tr><tr><td>lambda DNA-QR4: ATGATTCGGTTTTCAGGAACATC</td></tr><tr><td>lambda DNA-QP4: FAM-TTACCGTCACCGCCAGTTAATCCGG-BHQ-1</td></tr><tr><td>探针(5'-3') 引物稀释方法</td><td>无核糖核酸酶水稀释至10μM</td></tr></table></body></html>",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "S2.3.2实验方法",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "S2.3.2.1实验模型制备方法",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "1）模型制备：",
+        "page_idx": 22
+    },
+    {
+        "type": "table",
+        "img_path": "images/9c14aafaa6dfc6545be486c8ce280c5658f8753dcd715814091fa660a8161ac9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>HEK-293T</td><td>PEDV</td><td>λDNA</td></tr><tr><td>Vazyme病毒样本保存液R503（1.5ml)</td><td>1.36×106</td><td>1.5 μL</td><td>1ng</td></tr><tr><td>Hank's 溶液(1.5 ml)</td><td>1.36×106</td><td>1.5 μL</td><td>1 ng</td></tr></table></body></html>",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "2）处理方案：按上述表格配置混合管，按 $1 . 5 \\mathrm { m L } /$ 管分装，分装后分别置于 $4 ^ { \\circ } \\mathrm { C }$ 冰箱， $5 6 ^ { \\circ } \\mathrm { C }$ 水浴锅， $9 2 ^ { \\circ } \\mathrm { C }$ 水浴锅进行不同时间处理。",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "S2.3.2.2 提取方法（Vazyme #RC311-C1）",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "1）Vazyme 病毒样本保存液R503：",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "预先分装 $2 0 0 ~ \\mu \\mathrm { L }$ 无水乙醇至 $1 . 5 ~ \\mathrm { m L }$ 无核糖核酸酶 离心管（自备)，再加入500$\\mu \\mathrm { L }$ 病毒样本保存液样本，涡旋混匀；",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Hank's溶液：",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "在 $1 . 5 ~ \\mathrm { m L }$ 无核糖核酸酶 离心管（自备）中加入 ${ 5 0 0 \\mu \\mathrm { L } }$ 裂解液，多个样品可预先分装，再加入 $2 0 0 ~ \\mu \\mathrm { L }$ Hank's溶液样本，涡旋混匀;",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "2）将吸附柱置于 $2 \\mathrm { m L }$ 收集管中，转移上述混合液至吸附柱中， $^ { 1 2 , 0 0 0 \\times \\mathrm { g } }$ 离心  \n1 min;  \n3）弃滤液，将吸附柱装回 $2 \\mathrm { m L }$ 收集管中，加入 $6 0 0 ~ \\mu \\mathrm { L }$ 漂洗液 $^ { 1 2 , 0 0 0 \\times \\mathrm { g } }$ 离心  \n30 sec，弃滤液；",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "4）重复步骤3一次；",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "5）将吸附柱装回收集管中， $^ { 1 2 , 0 0 0 \\times _ { \\mathrm { g } } }$ 空柱离心 $2 ~ \\mathrm { m i n }$ ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "6）将吸附柱转移至新的 $1 . 5 \\mathrm { m l }$ 收集管（试剂盒提供）中，",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Vazyme病毒样本保存液：",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "加入 $1 0 0 ~ \\mu \\mathrm { L }$ 洗脱液至吸附柱的膜中央，室温放置 $1 \\mathrm { m i n } , 1 2 , 0 0 0 \\times \\mathrm { g }$ 离心 $1 \\mathrm { m i n }$ ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Hank's溶液：",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "加入 $4 0 ~ \\mu \\mathrm { L }$ 洗脱液至吸附柱的膜中央，室温放置 $1 \\mathrm { m i n }$ ， $1 2 , 0 0 0 \\times \\mathbf { g }$ 离心 $1 \\mathrm { m i n }$ 7）弃去吸附柱，所得到的DNA/RNA可直接用于后续检测或置于 ${ } \\cdot 3 0 \\sim - 1 5 ^ { \\circ } \\mathrm { C }$ 以下短期保存或置于 $\\cdot 7 0 ^ { \\circ } \\mathrm { C } ^ { \\circ } \\mathrm { C }$ 以下长期保存。",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "S2.3.2.3 检测方法  \n1）提取细胞样本 gDNA/RNA 检测  \n1.1）细胞 gDNA 浓度Qubit 检测（Vazyme #EQ121）  \n1.1.1）使用前，将试剂盒中各组分平衡至室温；  \n1.1.2）取足够数量的 $0 . 5 ~ \\mathrm { m L }$ PCR管用于样本和标准品的检测，并在管盖进行标记；  \n▲仅可使用 $0 . 5 ~ \\mathrm { m L }$ PCR 管，推荐使用 Qubit assay tubes (Cat.No.Q32856)orAxygen PCR-05-C tubes (VWR, part no. 10011-830)。  \n1.1.3）配制检测标准品。取 $1 9 0 ~ \\mu \\mathrm { l }$ 试剂盒中 Equalbit $1 \\ \\times$ dsDNA HS WorkingSolution 至标准品PCR 管中，再分别加入 $1 0 \\mu \\mathrm { L }$ Equalbit $1 \\times$ dsDNA HS  \nStandard #1和 Standard #2至相应的标准品PCR 管中，轻轻涡旋振荡2-3 sec,尽量避免产生气泡。此步骤中请确保移液器加量准确；  \n1.1.4）配制检测样本。取 $1 9 9 \\mu \\mathrm { L }$ Equalbit $1 \\times$ dsDNA HS Working Solution 至样本PCR 管中，分别加入 $1 \\mu \\mathrm { L }$ 待测 dsDNA 样本，使得每个检测样本PCR 管中终体积为 $2 0 0 ~ \\mu \\mathrm { L }$ ，轻轻涡旋振荡 $2 - 3 \\sec$ ，尽量避免产生气泡。此步骤中请确保移液器加量准确;  \n1.1.5）将所有检测PCR 管置于室温环境下避光孵育 $2 ~ \\mathrm { m i n }$ ：  \n1.16）按照Qubit 荧光仪的操作说明，选择dsDNA高敏检测程序测定浓度。1.2）细胞RNA 浓度Qubit 检测（Vazyme #EQ211）  \n1.2.1）使用前，将试剂盒中各组分平衡至室温，将提取产物用无核糖核酸酶 H2O按照1:10的比例稀释;  \n1.2.2）取足够数量的 $0 . 5 ~ \\mathrm { m L }$ PCR 管用于样本和标准品的检测，并在管盖进行标记；  \n▲仅可使用 $0 . 5 ~ \\mathrm { m L }$ PCR 管，推荐使用 Qubit assay tubes (Cat.No.Q32856) orAxygen PCR-05-C tubes (VWR, part no. 10011-830)。1.2.3）配制检测工作液。取试剂盒中 Equalbit RNAHS Reagent，用 Equalbit RNAHS Buffer按照1：200 的比例进行稀释，配制成检测工作液，现配现用;配制检测标准品。取 $1 9 0 ~  { \\mu \\mathrm { L } }$ 检测工作液至标准品 PCR 管中，再分别加入 $1 0 ~ \\mu \\mathrm { L }$ Standard #1和 Standard #2至相应的标准品PCR 管中，轻轻涡旋振荡 $2 - 3 \\sec$ 尽量避免产生气泡。此步骤中请确保移液器加量准确;  \n1.2.4）配制检测样本。取 $1 9 9 \\mu \\mathrm { L }$ 检测工作液至样本PCR管中，分别加入 $1 \\mu \\mathrm { L }$ 待测 RNA 样本，使得每个检测样本PCR 管中终体积为 $2 0 0 ~ \\mu \\mathrm { L }$ ，轻轻涡旋振荡2-3sec，尽量避免产生气泡。此步骤中请确保移液器加量准确;  \n1.2.5）将所有检测PCR 管置于室温环境下避光孵育 $2 ~ \\mathrm { m i n }$ ：  \n1.2.6）按照Qubit荧光仪的操作说明，选择RNA高敏检测程序测定浓度。1.3）细胞RNA浓度以及纯度OneDropt检测  \n1.3.1）用洗脱液清洗检测探头，并校正，分别取 $1 \\mu \\mathrm { L }$ 样本按 OneDrop 仪的操作说明进行RNA 浓度与纯度检测。  \n1.4）细胞 gDNA与RNA 完整性检测（Vazyme #MD103、P022）  \n1.4.1）配制 $1 . 2 \\%$ 琼脂糖凝胶;  \n1.4.2）分别取 ${ 5 \\mu \\mathrm { L } }$ 提取产物，加入 $1 \\mu \\mathrm { L }$ 10 ×DNA Loading buffer 以及 $4 \\mu \\mathrm { L }$ 无核糖核酸酶 H2O，涡旋混匀后，放置PCR仪中 $7 2 ^ { \\circ } \\mathrm { C }$ ， $2 ~ \\mathrm { m i n }$ 变性处理;  \n1.4.3）取 ${ 5 \\mu \\mathrm { L } }$ DL15000 Marker一起点样；  \n1.4.4）于电泳仪中进行琼脂糖凝胶电泳，冰上220V，7-10min;  \n1.4.5）凝胶成像仪拍照。  \n2）提取微量样本DNA/RNA 检测（Vazyme #Q222-CN）",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "2.1）在无核糖核酸酶污染离心管中配制如下混合液（以ABI StepOnePlusTM为测试机型）",
+        "page_idx": 24
+    },
+    {
+        "type": "table",
+        "img_path": "images/380ce50301bb6ab48bb0a9335dce3aa5b4c0130d6c372079c9062d7ed4404661.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>无核糖核酸酶 ddH2O</td><td>To 25 μL</td></tr><tr><td>2 × One Step U+ Mix</td><td>12.5 μL</td></tr><tr><td>One Step U+ Enzyme Mix</td><td>1.25 μL</td></tr><tr><td>50 × ROX Reference Dye 1</td><td>0.5 μL</td></tr><tr><td>Gene Specific Primer Forward（10 μM)</td><td>0.5 μL</td></tr><tr><td>Gene Specific Primer Reverse (10 μM)</td><td>0.5 μL</td></tr></table></body></html>",
+        "page_idx": 24
+    },
+    {
+        "type": "table",
+        "img_path": "images/dc7e42c3cef87f7c91fce6e854da39b0dbe4d97d98cd819a436bdacd3da5827d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>TaqMan Probe(10 μM)</td><td>0.25 μL</td></tr><tr><td>模板</td><td>5μL</td></tr></table></body></html>",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "2.2）按下列条件进行 One Step qRT-PCR反应",
+        "page_idx": 25
+    },
+    {
+        "type": "table",
+        "img_path": "images/d49c45496d26e1cbb71ee245dcbddd885584495c95c04b0ed81671c910e482d9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Stage1</td><td>逆转录</td><td>Reps: 1</td><td>55</td><td>15min</td></tr><tr><td>Stage2</td><td>预变性</td><td>Reps: 1</td><td>95</td><td>30sec</td></tr><tr><td>Stage3</td><td>循环反应</td><td>Reps: 45</td><td>95</td><td>10sec</td></tr><tr><td></td><td></td><td></td><td>60</td><td>30sec</td></tr></table></body></html>",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "S2.4 统计学检验 ",
+        "text_level": 1,
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "采用成组T-检验。 $\\mathrm { p } { < } 0 . 0 5$ 示差异显著， $\\mathsf { p } { < } 0 . 0 1$ 示差异极显著。",
+        "page_idx": 25
+    }
+]

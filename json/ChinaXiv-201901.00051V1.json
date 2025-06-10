@@ -1,0 +1,572 @@
+[
+    {
+        "type": "text",
+        "text": "面向汉维机器翻译的双语关联度优化模型",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "潘一荣1,2.3，李晓1,3+，杨雅婷1,3，董瑞1,3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.中国科学院 新疆理化技术研究所，乌鲁木齐 830011；2.中国科学院大学，北京 100049;3．新疆民族语音语言信息处理实验室，乌鲁木齐 830011)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对汉语-维吾尔语的统计机器翻译系统中存在的语义无关性问题，提出基于神经网络机器翻译方法的双语关联度优化模型。该模型利用注意力机制捕获词对齐信息，引入双语短语间的语义相关性和内部词汇匹配度，预测双语短语的生成概率将其作为双语关联度，以优化统计翻译模型中的短语翻译得分。在第十一届全国机器翻译研讨会(CWMT2015)汉维公开机器翻译数据集上的实验结果表明，与基线系统相比，在使用较小规模的训练数据和词汇表的条件下，所提方法可以有效地同时提高短语级别和句子级别的机器翻译任务性能，分别获得最高2.49 和0.59的 BLEU值提升。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：维吾尔语；神经网络机器翻译；注意力机制；词对齐；生成概率； 中图分类号：H085 doi:10.3969/j.issn.1001-3695.2018.08.0625 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bilingual relatedness optimization model for chinese-uyghur machine translation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pan Yirong1,2,3,Li Xiao1,3+, Yang Yating1, 3, Dong Rui1, 3 (1.XinjiangTchnicalIstituteofhysics&ChemistryChneseAcademyfiences,Urumqi830China;2.Ueity of Chinese Academyof Sciences，Beijing 100049，China;3. Xinjiang Laboratory of Minority Speech & Language Information Processing, Urumqi 830011,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Focusedon the isseof semantic independence in Chinese-Uyghur statistical machine translation system,this paper proposed a bilingualrelatednessoptimization model based onneural machine translation method.The model utilized the atention mechanism tocapture word alignment informationas wellas introduced bilingual phrase semanticrelevance andiner word corelationto predict theconditional probabilityof bilingual phrase pair.And then took the probabilityas bilingualrelatednesstooptimizethephase translationscores in statistical translation model.Experimental resultson the 11th China Workshopon Machine Translation(CWMT2O15)Chinese-Uyghur public machine translation datasets show that theproposed approach can achieve obvious improvements both in the phrase-level and the sentence-level machine translation tasks，which outperforms the baselinesystem with a relative smal-scale training dataand vocabulary.The highest BLEU point gains are 2.49 and 0.59 respectively. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Uyghur; neural machine translation; atention mechanism; word alignment; conditional probability; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在基于短语的统计机器翻译(statisticalmachinetranslation,SMT)[1]系统中，翻译模型对从平行语料库中抽取的双语短语进行建模，主要包括短语翻译概率、词汇化权重等参数，这些参数作为特征函数并结合对数线性方法，以此训练机器翻译系统，从而获取最优权重分布，在解码时以搜索最有可能的翻译选项，实现双语转换过程。虽然各种机器翻译方法在近年来取得了巨大进步，机器翻译质量也在不断提高，但是译文结果中存在的词汇翻译错误、语义内容无关等问题仍有待提升。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SMT基于统计学方法构建短语翻译得分，仅考虑双语短语的共现频率，在一定程度上忽略语义相关性；同时由于词对齐结果来源于统计对齐模型[2]，并使用最大似然估计(maximumlikelihoodestimation,MLE)方法进行学习，所以存在缺失、冗余、错误等信息，在评估统计翻译模型中的词汇化权重时面临数据稀疏性等问题，降低其准确性，进而影响机器翻译质量。针对上述问题，本文应用神经网络机器翻译(neuralmachine translation,NMT)方法，并基于注意力机制捕获词对齐信息，引入双语短语的语义相关性和内部词汇匹配度，预测双语短语的关联度得分，以优化统计翻译模型的短语翻译概率，并在实验中证明了其有效性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 相关工作",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "维吾尔语属于小语种，且词形结构复杂，目前针对汉语-维吾尔语的统计机器翻译方法主要集中在两方面：一方面是平行语料库构建，例如彭飞等人[3利用汉维双语语句的空间向量表示，通过源语句与目标语句间的相似度进行平行语料抽取，以保证平行句对在语义内容上的相关性；另一方面是维吾尔语语法以及形态分析，例如米莉万等人[4将维语词汇的词干和词缀作为基本翻译单位，提出基于有向图的维吾尔语词干-词缀语言模型，利用维吾尔语的黏着语特性进行机器翻译实验。此外，潘一荣等人[5利用深度学习技术对汉维短语的语义特征进行分析，通过循环神经网络(recurrentneuralnetworks，RNN)学习调序信息并重构汉维调序模型，赋予调序规则更加合理的调序方向以及概率分布。上述方法重点在于对单语的语言特性(维语词干、词缀、形态等)以及双语外部对应关系(汉维平行句对、调序方向等)进行建模，缺乏关于双语对齐短语的语义相关性和内部词汇匹配度的研究和分析，故汉维统计翻译模型中存在语义无关性问题。由于短语翻译概率分布值并不合理，所以无法正确评估双语短语在语义及词汇上的关联度，在统计机器翻译研究中仍有提升空间。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着深度学习技术在SMT领域中的应用和发展，许多研究工作利用神经网络方法改进统计翻译模型，并取得一定的效果。Schwenk[提出基于短语的连续空间翻译模型，该模型利用短语的向量表示来预测短语的翻译概率；Son等人[7]提出分层结构的神经网络翻译模型，对翻译单元的连续空间向量表示及相关参数进行联合评估；Zou等人[8提出基于双语的词向量表示模型，对词汇间的语义相似度进行计算，并且将得分作为额外特征加入翻译系统的训练过程中；Cho等人[9提出基于编码器一解码器的短语表示模型，该模型利用RNN进行训练以最大化对齐短语的条件概率，并评估翻译模型中双语短语的生成概率得分。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文参考(Choetal.,2014)的工作，对统计翻译模型中的短语翻译概率进行重新评估，提出基于神经网络方法的双语关联度优 化 模 型(neural-basedbilingualrelatednessoptimizationmodel,NBROM)。不同于上述研究思路，首先本模型基于(Bahdanau etal.,2014)框架[10]，利用注意力机制捕获双语短语间的词对齐信息，引入短语语义相关性和内部词汇匹配度，优化短语翻译概率；其次在训练该模型时，对于维吾尔语中的未登录词(out-of-vocabulary，OOV)问题，本文使用三种模型进行OOV词汇的生成概率预测，分别为Unk模型、MultiClass 模型和字节对编码(byte pair encoding,BPE)模型[1]，对不同的OOV 词汇赋予相应权重。在第十一届全国机器翻译研讨会汉维数据集上的实验结果表明，在使用较小规模的训练数据和词汇表的条件下，与基线系统相比，本文提出的方法可以同时提高短语级别和句子级别的机器翻译任务性能，分别获得最高2.49和0.59的BLEU值提升，验证了本方法的有效性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 统计机器翻译系统",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "给定一个源语言语句 $f ,$ SMT的目标是找出相应的最优目标语言翻译结果 $\\textbf { \\em e }$ ，使得条件概率最大化，如式(1)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "最优候选短语翻译。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "统计翻译模型主要对短语翻译概率和词汇化权重进行建模。短语翻译概率由统计方法进行计算，如式(3)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP r \\big ( \\overline { { e } } \\overline { { | f } } \\big ) = \\frac { c o u n t \\big ( \\overline { { f } } , \\mathfrak { F } \\big ) } { \\sum _ { e _ { i } } \\displaylimits _ { e _ { i } } ^ { } \\large { ( u n t \\big ( \\overline { { f } } , \\overline { { \\mathfrak { k } } } _ { i } \\big ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\overline { { f } }$ 和 $\\overline { { e } }$ 分别表示源语言和目标语言的对齐短语；count $\\left( { \\overline { { f } } } , \\mathcal { Z } \\right)$ 表示两者在较大规模平行句对中的共现频率。翻译模型使用该值作为此对齐短语的翻译概率。词汇化权重得分以词对齐结果为基准，将源语言和目标语言短语划分为词汇，用于评估双语词汇间的匹配程度，如式(4)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nl e x { \\bigl ( } { \\overline { { e } } } | { \\overline { { f } } } , \\lambda { \\bigr ) } = \\prod _ { i = 1 } ^ { I } { \\frac { 1 } { | \\{ j | ( i , \\mathfrak { j } ) \\in a \\} | } } \\sum _ { \\forall ( i , \\mathfrak { j } ) \\in a } { \\bigl ( } e _ { i } | f _ { j } { \\bigr ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( e _ { i } | f _ { j } ) = \\frac { c o u n t { ( f _ { j } , \\mathcal { E } _ { i } ) } } { \\sum _ { e _ { i } } c o u n t { ( f _ { j } , \\mathcal { E } _ { i } ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $c o u n t \\left( f _ { j } , \\mathbf { \\vec { e } } _ { i } \\right)$ 表示词对 $\\left( f _ { j } , \\mathcal { \\boldsymbol { E } } _ { i } \\right)$ 在大规模平行句对中的共现频率。对于目标端短语 $\\overline { { e } }$ ，翻译模型对其中的全部词汇按序进行遍历并连乘概率值，将此值作为词汇化权重得分。词对齐由 $\\mathrm { G I Z A } { + } { + } ^ { [ 1 3 ] }$ 工具进行获取，该工具基于EM算法，用于评估词对的统计对齐概率，认为概率最大值对应的双语词汇在平行语料中对齐。由于上述两者基于统计方法获取，翻译模型中存在语义无关性问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "汉维双语对齐短语实例（维吾尔语从右至左书写）如图1所示。对于源语言短语【为人民群众服务】，统计翻译模型保留从训练语料抽取的对齐目标短语【】，并且赋予该对齐短语相应的词对齐信息。由此可以看出，源短语中的词汇【服务】对应于两个目标词汇【】和【】，然而只有【】符合语义对齐要求，【】对齐信息存在错误；同时词汇【为】和【人民】缺少对齐目标词汇。由于词汇化权重得分为对齐词汇的翻译概率乘积，若词对齐信息存在缺失、冗余、错误等问题，词汇化权重将无法正确评估双语短语中词汇间的匹配程度，从而降低统计翻译模型准确性以及SMT系统性能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "wei renmin qunzhong fuwu为 人民 群众 服务  \nLjk ct.ct LL  \nserve for the masses",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\np ( e | f ) \\mathcal { X } p \\big ( f | e \\big ) \\cdot p ( e )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $p \\big ( f | \\mathbf { \\Pi } e \\big )$ 为翻译模型； $p ( e )$ 为语言模型。一般来说，SMT将多种特征函数与其对应权重共同加入至对数线性框架中，并使用 $\\log p ( e | f )$ 进行建模，如式(2)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\log p ( e | f ) \\mathcal { X } \\log p ( f | e ) + \\log p ( e )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\propto \\sum _ { \\mathfrak { n } = 1 } ^ { \\mathrm { ~ N ~ } } w _ { \\mathfrak { n } } \\cdot f _ { \\mathfrak { n } } \\left( \\pmb { f } , \\pmb { \\mathscr { e } } \\right) + \\log Z ( \\mathfrak { e } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $f _ { n }$ 和 $w _ { n }$ 分别为第 $\\mathbf { \\eta } _ { \\mathrm { ~ n ~ } }$ 个特征函数及相应权重值； $Z ( e )$ 为归一化常数项。基于该框架，翻译模型因子化为特征函数的加权总和。SMT通过在开发集上优化权重参数 $w _ { n }$ ，最大化翻译性能指标BLEU值[I2]，并使用这些参数在解码过程中搜索",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 双语关联度优化模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1模型概述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于深度学习技术和NMT方法，本文中模型首先使用编码器将源语言短语编码为固定维度的特征向量；然后使用解码器将该向量解码为不定长度的目标短语，并引入注意力机制，用于捕获双语短语中的语义信息和对齐词汇，以弥补统计翻译模型中存在的语义无关性和词对齐错误等不足。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "编码器是一个双向循环神经网络(bidirectionalrecurrentneuralnetwork，BiRNN)[14]，用于双向处理输入序列$\\pmb { x } = \\left( x _ { 1 } , 2 . . , x _ { t } \\right)$ ，分别更新正向隐藏状态 $( h (  ) _ { \\mathrm { ~ } I } , . . . , h (  ) _ { \\mathrm { ~ } t } )$ 以及逆向隐藏状态( $\\mathbf { \\xi } _ { h (  ) } \\mathbf { \\xi } _ { I , . . . , h (  ) } \\mathbf { \\xi } _ { t } )$ ，如式(5)(6)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$h ( \\to ) \\operatorname { k } { = } \\operatorname { f } ( h ( \\to ) \\operatorname { k } { - } 1 , \\operatorname { x k } )$ xk由 $\\mathbf { x } 1$ 到xt正序进行遍历 (5)",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$h (  ) \\operatorname { k } { = } \\operatorname { f } ( \\ h (  ) \\operatorname { k } { - } 1 , \\operatorname { x } \\operatorname { k } )$ xk由xt到x1逆序进行遍历 (6)其中： $f$ 为非线性激活函数tanh。对于源短语中的每个单词$x _ { k }$ ，使用 $h _ { \\mathrm { k } } = \\mathrm { ~ } [ \\ : h (  ) \\ : \\mathrm { k } ^ { \\mathrm { T } }$ ， $h (  ) \\mathbf { \\Phi _ { k } } ^ { \\mathrm { T } } ]$ 进行标注，引入其周围词汇信息。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "解码器是一个单层RNN，给定前一时刻的预测单词 $y _ { i - 1 }$ 、当前时刻的RNN隐藏状态 $s _ { i }$ 和上下文向量 $c _ { i }$ ，预测当前时刻的输出单词 $y _ { i }$ ，其中 $y _ { i }$ 和 $s _ { i }$ 都依赖于 $y _ { i - 1 }$ 和 $c _ { i }$ ，如式(7)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\np ( y _ { i } \\mid y _ { 1 } , . . . , y _ { i - 1 } , \\mathbf { \\hat { x } } ) = g \\left( y _ { i - 1 } , \\mathbf { \\hat { y } } _ { i } , \\mathbf { \\hat { z } } _ { i } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns _ { i } = f \\bigl ( s _ { i - 1 } , \\mathfrak { y } _ { i - 1 } , \\mathfrak { z } _ { i } \\bigr )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc _ { i } = \\sum _ { j = 1 } ^ { t } \\alpha _ { i j } h _ { j }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $g$ 为非线性激活函数softmax； $c _ { i }$ 为 $h _ { j }$ 的加权总和； $\\alpha _ { i j }$ 为对齐权重，用于评估对齐模型 $e _ { i j }$ 中的单词 $x _ { j }$ 与 $y _ { i }$ 间的匹配程度，如式(8)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha _ { i j } = \\frac { \\exp ( e _ { i j } ^ { } ) } { \\sum _ { q = 1 } ^ { t } \\exp ( e _ { i q } ^ { } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { e } _ { i j } = \\mathbf { a } \\big ( \\boldsymbol { s } _ { i - 1 } , \\mathbf { \\mathcal { h } } _ { j } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname { a } \\left( s _ { i - 1 } , \\pmb { \\mathscr { N } } _ { j } \\right) = t a n h \\left( W _ { a } s _ { i - 1 } + U _ { a } h _ { j } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： ${ \\mathbf { } } W _ { a }$ 和 $U _ { a }$ 是神经网络参数。通过训练编码器和解码器，以最大化对数条件概率分值，预测最有可能的目标短语，如式(9)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm a x _ { \\theta } \\frac { 1 } { N } { \\sum _ { n = 1 } ^ { N } } \\mathrm { l o g } p _ { \\theta } ( y _ { n } \\mid x _ { n } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\theta$ 表示模型参数集合， $( x _ { n } \\ , y _ { n } \\ )$ 为训练数据集合中的对齐短语。以汉维双语短语生成过程为例，本文模型框架如图2所示。该模型将源语言短语映射为连续空间向量表示，用于获取其中的语义信息，同时利用注意力机制，对源短语中的各个词汇赋予不同的权重，以表征该词汇的重要性。利用此模型，可以在给定源语言短语的条件下，预测最有可能与之对应的目标语言短语；并可以预测双语短语的关联度得分，重新评估统计翻译模型中的词汇化权重，同时提高短语级别和句子级别的机器翻译质量，具体如下文所述。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f21b5e175f4e4f5f480865f102496c494966ae8e354775f624cc87ca36b0f65c.jpg",
+        "img_caption": [
+            "图2汉维神经网络双语关联度优化模型框架 Fig. 2 Framework of Chinese-Uyghur neural-based bilingual relatedness optimization model "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 目标短语预测 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用上述模型，可在给定源语言短语 $s$ 的条件下，预测目标短语 $e ^ { * }$ ，使得式(9)的得分最大化，如式(10)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne ^ { * } = \\arg \\operatorname* { m a x } _ { e } \\log p ( e | s )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= \\arg \\operatorname* { m a x } _ { e } \\sum _ { t = 1 } ^ { I } \\log p ( e _ { t } | s )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= \\arg \\operatorname* { m a x } _ { e } \\sum _ { t = 1 } ^ { I } \\log g \\left( e _ { t - 1 } , 3 _ { t } , 2 _ { t } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\boldsymbol { e } _ { t }$ 为预测短语中第 $t$ 个词汇； $I$ 为 $e ^ { * }$ 中包含的词汇个数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3双语关联度得分",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "该模型同样可对统计翻译模型中的词汇化权重值进行重新评估，考虑双语短语的语义相关性和内部词汇匹配度，预测合理的双语关联度得分。给定源短语 $\\overline { { f } }$ ，预测目标短语$\\overline { { \\pmb { e } } } = \\left( \\overline { { e } } _ { 1 } , 2 . . , \\overline { { e } } _ { t } \\right)$ 的关联度得分，如式(11)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\np r o \\big ( \\overline { { e } } \\overline { { | f } } \\big ) = \\sum _ { t = 1 } ^ { I } \\log p \\big ( \\overline { { e } } _ { t } \\big | \\overline { { e } } _ { < t } , \\bar { \\mathcal { Y } } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= \\sum _ { t = 1 } ^ { I } \\log g \\left( \\overline { { e } } _ { t - 1 } , 3 _ { t } , \\mathcal { \\hat { C } } _ { t } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\overline { { e } } _ { t }$ 为目标短语中第 $\\mathbf { \\Psi } _ { t }$ 个词汇； $I$ 为目标短语 $\\overline { { e } }$ 包含的词汇个数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.4未登录词处理策略",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于在训练NMT系统时，考虑到时间和空间复杂度，只保留频率较高的前 $K$ 个目标词汇， $K$ 取值一般在30k(Bahdanau et al.,2015)- ${ \\cdot 8 0 k }$ (Sutskever et al.,2014)[15]之间，所以无法有效地预测频率较低的稀有词汇，从而降低NMT系统的翻译质量。针对上述问题，本文使用以下三种模型对OOV词汇进行生成概率预测，并且在实验中验证其各自的有效性和局限性。对于源短语所有的OOV词汇，本文统一使用[UNK]符号进行标注，并设置源语言词汇表大小为 $5 0 k$ =目标语言词汇表大小为 $3 0 k { - } 5 0 k$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$3 . 4 . 1 ~ \\mathrm { U n k }$ 模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参考(Sutskever etal.,2O14;Cho etal.,2014;Bahdanau etal.,2015)的工作，该模型对所有的OOV词汇统一使用[UNK]符号进行标注，这是一种非常普遍的未登录词处理策略，在NMT系统训练时，所有OOV被赋予相同的权重。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.4.2MultiClass模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参考(Jeanetal.,2015)的思路[16]，该模型对所有的OOV进行词汇类别分类，同一类的OOV词汇具有相同的权重。对于各个未登录词，该模型在预测该词汇的生成概率$p ( y _ { t } \\mid y _ { < t } , \\mathbf { \\hat { x } } )$ 时，将其分解为类别概率得分 $p ( c _ { t } \\mid \\boldsymbol { y } _ { < t } , \\mathbf { \\mathcal { X } } )$ 与类别内部词汇概率得分 $p ( y _ { t } | c _ { t } , \\mathfrak { y } _ { < t } , \\mathfrak { X } )$ 的乘积，因而降低训练复杂度。本文使用四种词汇类别进行实验，分别为数字[NUM]、符号[SYM]、命名实体[NOUN]和其他词汇[UNK]，同时将词汇类别识别作为分类问题进行建模，训练分类器对OOV进行分类，具体实现在本文4.2节详述。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.4.3BPE模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参考(Sennrichetal.,2015)的工作，该模型对所有的OOV词汇进行处理，使用维吾尔语子词单元(subwordunits)表示方法，对低频词汇进行切分，由此增加稀疏词中子词的共现次数，有效解决数据稀疏问题。本文使用开源切分工具subword-nmt（https://github.com/rsennrich/subword-nmt）对 OOV词汇进行处理，并参考哈里旦木等[17的工作，不对维吾尔语进行形态切分。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4 实验 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.1实验设置 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文在汉语-维吾尔语统计机器翻译系统中进行实验，使用开源翻译平台Moses（http://www.statmt.org/moses/）作为基线系统。训练数据来源于2015年CWMT公开的汉维新闻领域语料，共包含11万个平行双语句对，共有64851个中文词汇以及104992个维语词汇；开发集和测试集采用同领域数据，分别包含1095个平行句对和1000个平行句对。本文使用 SRILM[18]在训练数据上进行5-gram 语言模型训练；使用斯坦福大学研发的分词器",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（https://nlp.stanford.edu/software/segmenter.html）对汉语语句进行分词；使用grow-diag-final-and 对齐策略，设置短语抽取最大长度为8,共抽取出4934572个双语对齐短语；使用MERT[19]对SMT系统进行调参；使用大小写不敏感的BLEU值作为机器翻译性能的评价指标。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文使用从SMT系统中抽取的双语对齐短语进行模型训练。首先，考虑到双语短语的语义匹配度，本文优先保留短语翻译概率最高的前100万个双语短语；然后，从中选择目标短语中各个词汇在源短语中至少含有一个对齐词汇的双语短语，在一定程度上保证内部词汇匹配度；最后，对于同一个源语言短语，保留较长的目标短语，以提高模型对于长短语的适应性。经过以上步骤，共筛选出约40万个对齐短语，作为本文中所提模型的训练数据。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2模型训练 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于词汇类别分类器，本文使用RNN网络结构，设置神经网络隐藏层单元个数分别为256-128-64-16-4，训练轮数为200，初始学习率为0.1，使用随机梯度下降(stochasticgradientdescent，SGD)算法更新网络参数用于最小化损失函数，在输出层添加softmax激活函数输出四种词类的对应概率。当模型完成训练时，使用优化后的参数预测OOV的词类，并将最大值的所在类别对该词汇进行替换。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本模型中的编码器由正向和逆向RNN组成，各包含100个隐藏单元；解码器包含100个隐藏单元，使用带有maxout隐藏层的神经网络结构[20]；采用分批SGD算法结合学习率更新方法Adadelta[2I]训练本模型；设置分批训练数据规模为100，模型训练轮数为500。当训练完成时，使用优化后的网络参数评估双语短语的关联度得分，同时预测最有可能的目标短语。参考(Schwenk，2012)中的思路，本文将统计翻译模型中的词汇化权重全部替换为双语关联度得分。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.3实验结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文对统计机器翻译系统和NBROM在句子级的机器翻译任务中的实验性能进行对比，同时考虑OOV处理策略、训练数据规模和目标词汇表大小，具体结果如表1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1机器翻译任务性能对比",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/38c787fcd2ec95c386fc30d975e610c9cf86a0405c159e02a1404ba87530ae35.jpg",
+        "table_caption": [
+            "Table 1Experimental performance of machine translation tasks "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>模型</td><td>训练数据规模</td><td>词汇表大小</td><td>BLEU值</td></tr><tr><td>Moses</td><td>110k</td><td>100k</td><td>38.16</td></tr><tr><td>NBROM+Unk</td><td></td><td></td><td>38.65 (+0.49)</td></tr><tr><td>NBROM+MultiClass</td><td>50k</td><td>30k</td><td>38.68 (+0.52)</td></tr><tr><td>NBROM+BPE</td><td></td><td></td><td>38.75 (+0.59)</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表1中数据可知，使用NBROM重新评估统计翻译模型中的词汇化权重，机器翻译性能有明显地提升；在训练数据规模为50k和词汇表大小为 $3 0 k$ 的条件下，BLEU分值提升0.49-0.59，证明本模型的有效性。其中NBROM结合BPE模型获得了本实验中最高的BLEU值38.75；该方法将所有低频OOV词汇切分为字词形式，在一定程度上增加了稀疏词汇中字词的共现次数，减轻OOV词汇对于实验性能的影响，可以有效预测未登录词汇的生成概率，相比于基线系统提升0.59，在本实验中性能提升最明显。对于NBROM相结合的Unk模型和MultiClass模型，后者稍优于前者的主要原因在于：Unk模型对于所有的OOV词汇使用统一的符号[UNK]进行替换，赋予其相同权重；而MultiClass模型对词汇类别进行分类，在预测时充分考虑到词类信息，因而可以进一步提高OOV词汇的预测准确率。实验结果表明，基于双语短语的语义相关性和内部词汇匹配度等相关信息，本文提出的双语关联度优化模型可以在使用小规模的训练数据和词汇表的条件下，有效地提高汉语到维语的机器翻译任务性能。BPE模型在机器翻译任务中的实验性能对比如表2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2BPE模型在机器翻译任务中的实验性能对比",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5a2c2dfd5f780411ffec2c72c7dc940aa8f77f030a14f4a55a8e85cce8b2b8e3.jpg",
+        "table_caption": [
+            "┌able 2Experimental performance of BPE model in machine "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">translation task</td></tr><tr><td>训练数据规模</td><td>词汇表大小</td><td>BLEU值</td></tr><tr><td>50k</td><td>30k</td><td>38.75</td></tr><tr><td>100k</td><td>40k</td><td>38.62</td></tr><tr><td>200k</td><td>50k</td><td>38.60</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文同样对NBROM结合BPE模型的实验性能进行了对比，并设置训练数据规模与词汇表大小成正比。由表2可知，BPE模型在训练数据和词汇表规模较小的实验中性能最优，且随着训练数据和词汇表规模的扩大，实验性能降低，造成此结果的原因可能在于：维吾尔语的形态信息复杂并且词汇量巨大，在应用BPE模型时，需要将低频词汇切分为字词形式加入至目标词汇表中，在一定程度上影响维语语义信息的完整性，同时增加模型训练的复杂度，在预测OOV词汇的生成概率时面临数据稀疏性问题，因而减弱机器翻译任务的提升效果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.4目标语言短语预测 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文对统计机器翻译系统和NBROM在短语级的机器翻译任务中的实验性能进行对比，测试数据为本文模型训练数据中随机抽取的2000个双语对齐短语，并对测试集中的维语词汇量和短语中的平均词数进行统计，具体信息如表3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4dcc40ae349ea8aba5be7c2ca9bb4dcd9b2f0e059dfe09b0e5176d5bc729c7ba.jpg",
+        "table_caption": [
+            "Iable 3Experimental performance of phrase generation task "
+        ],
+        "table_footnote": [
+            "表4维语短语预测实例"
+        ],
+        "table_body": "<html><body><table><tr><td>模型</td><td>词汇量</td><td>平均词数</td><td>BLEU值</td></tr><tr><td>Moses</td><td></td><td></td><td>91.27</td></tr><tr><td>NBROM+Unk</td><td>1,517</td><td>4.86</td><td>93.56 (+2.29)</td></tr><tr><td>NBROM+MultiClass</td><td></td><td></td><td>93.76 (+2.49)</td></tr><tr><td>NBROM+BPE</td><td></td><td></td><td>92.13 (+0.86)</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8b3767eb106c05649adf3bb01f71ba11e90ef3de13b1c66de14a9f1935bbc9ac.jpg",
+        "table_caption": [
+            "表3短语生成任务性能对比",
+            "Table 4Example of Uyghur phrase prediction "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>源语言短语</td><td>统计机器翻译系统</td><td>Score</td><td>NBROM + MultiClass</td><td>Rescore</td></tr><tr><td rowspan=\"3\">金融等领域</td><td>J</td><td>0.04556</td><td>CELEEFCs</td><td rowspan=\"3\">0.79450</td></tr><tr><td>(ltLErel-CELEE</td><td>0.01479</td><td>J</td></tr><tr><td></td><td></td><td>领域 等 金融</td></tr><tr><td rowspan=\"2\">教育、文化 和</td><td></td><td>0.16721</td><td>o</td><td>0.83613</td></tr><tr><td>SkVll.cci.cEl.cw</td><td>0.03459</td><td>和文化、教育</td><td></td></tr><tr><td rowspan=\"4\">动。</td><td></td><td>2.0e-15</td><td></td><td></td></tr><tr><td>活动今天启VL.c.clc</td><td></td><td>Skvl.cW</td><td></td></tr><tr><td></td><td>4.8e-11</td><td></td><td>0.84382</td></tr><tr><td>Gkvkl.cwr.lirL</td><td>0.02819 0.00101</td><td>启动今天活动</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表3中数据可知，使用NBROM预测源短语对应的目标短语，在准确性上明显高于统计机器翻译系统，证明了该方法在短语级机器翻译任务中的有效性。对于上述三种OOV词汇处理策略，MultiClass模型在本实验的性能最好，相比于基线系统，BLEU分值提升2.49。NBROM结合BPE模型的实验效果并不明显，造成此结果的原因可能是：使用BPE模型训练NBROM时，需要对维语词汇进行切分处理，故在生成目标词汇时引入过多的字词形式，降低预测短语中词汇的准确性以及完整性。此外，MultiClass模型使用词汇类别进行训练，相比于Unk 模型，可进一步提高OOV词汇预测的准确率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如上文中所述，NBROM结合MultiClass模型可以预测最有可能的对齐目标短语，使之与源短语的匹配度最高；并可以重新评估词汇化权重，赋予双语短语更加合理的关联度得分。统计机器翻译系统与NBROM的目标语言短语预测实例如表4所示。其中Score表示统计翻译模型中的词汇化权重，Rescore表示NBROM的双语关联度得分。统计机器翻译系统中相同的源语言短语对应多个目标短语，并保留相应的词汇化权重得分。由表4中数据可知，在语义内容以及词汇匹配度都较高的条件下，统计机器翻译系统中的词汇化权重分值较小，无法正确评估双语短语的对齐概率，与实际情况不符，因而降低翻译模型质量。与之相比，由于NBROM引入注意力机制，可以有效地捕获双语短语中的对齐词汇，因而可以合理地预测具有语义相关性和词汇匹配度的目标短语，同时赋予其相应的双语关联度得分，提高模型在短语级别的机器翻译任务中的实验性能。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "针对汉维统计机器翻译系统中存在的语义无关性问题，本文提出了基于神经网络机器翻译方法的双语关联度优化模型，该模型引入注意力机制捕获双语短语的词对齐信息，并基于语义相关性和内部词汇匹配度重新评估双语短语的关联度得分，以此优化统计翻译模型中的词汇化权重；同时给定源短语，该模型可以预测匹配度最高的目标短语。实验结果表明，在使用较小规模的训练数据和词汇表的条件下，本文中提出的方法可以有效地提高短语级别和句子级别的机器翻译任务性能。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "延续本文的研究方向，在后续工作中有以下思路：第一，由于词对齐结果中存在缺失、冗余、错误等问题，训练数据规模和词汇表大小会较大程度上地影响模型训练效果，因此考虑直接对词对齐结果进行优化；第二，本文只在汉维机器翻译任务中进行了数据分析和建模，对于其他语言对的翻译任务性能可能存在差异性，因此会在其他语言对上进行相关实验，提高模型的泛化能力；第三，对维语的词干词缀进行切分，以学习更多的词汇形态信息。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Koehn P,Och F J,Marcu D. Statistical phrase-based translation [C]// Proc of Conference of the North American Chapter of the Association for Computational LinguisticsonHuman Language Technology-Volume 1.Association for Computational Linguistics.2003: 48-54.   \n[2]Och F J,Ney H.A systematic comparison of various statistical alignment models [J].Computational linguistics,20o3,29 (1): 19-51.   \n[3]彭飞，吐尔根，艾山，等．用于双语科技术语对齐的汉维文可比语料 库构建[J].新疆大学学报：自然科学版，2017，34(3)：316-321. (PengFei,Tuergen Yibulayin，Aishan Wumaier，etal. 2017. Construction of Chinese-Uyghur comparable corpus for alignment of bilingual technical terms.Journal of Xinjiang University:Natural Science Edition,34(3):316-321.)   \n[4]米莉万·雪合来提，刘凯，吐尔根·依布拉音．基于维吾尔语词干词 缀粒度的汉维机器翻译[J].中文信息学报，2015，29(3)：201-206. (Miliwan Xuehelaiti,Liu Kai,Turgun Ibrahim.2O15.Chinese-Uyghur machine translation model based on smallest translation units of stems and suffixes[J]. Journal of Chinese Information Processing,29 (3): 201-206.)   \n[5] 潘一荣，李晓，杨雅婷，等．面向汉维机器翻译的调序表重构模型 [J]．计算机应用,2018,38(5):1283-1288.(Pan Yirong,Li Xiao,Yang Yating，et al.2018．Reordering table reconstruction model for Chinese-Uyghurmachinetranslation[J].JournalofComputer Applications,38 (5):1283-1288.)   \n[6]Schwenk H. Continuous space translation models for phrase-based statistical machine translation [J].Proceedings of COLING 2012: Posters,2012:1071-1080.   \n[7]Son L H, Allauzen A, Yvon F. Continuous space translation models with neural networks [Cl// Proc of Conference of the North American Chapter of the Association for Computational linguistics:Human language technologies.Association for Computational Linguistics, 2012: 39-48.   \n[8] Zou W Y,Socher R,Cer D,et al. Bilingual word embeddings for phrase-based machine translation [C]//Proc of Conference on Empirical Methods in Natural Language Processing. 2013:1393-1398.   \n[9]Cho K,Van MerriénboerB,Gulcehre C,et al.2O14.Learning phrase representations using RNN encoder-decoder for statistical machine translation[J].arXiv preprint arXiv: 1406.1078.   \n[10] Bahdanau D,Cho K,Bengio Y. Neural machine translation by jointly learning to align and translate[J].arXiv preprint arXiv: 14O9.0473.   \n[11] Sennrich R, Haddow B,Birch A. Neural machine translation of rare Words with subword units[J].arXiv preprint arXiv:15o8.07909.   \n[12] Papineni K,Roukos S,Ward T,et al.BLEU:a method for automatic evaluation of machine translation [C]//Proc of the 40th Annual Meeting onAssociation for Computational Linguistics．Associationfor Computational Linguistics.20o2: 311-318.   \n[13] Och FJ,Ney H. Giza+: training of statistical translation models[Z]. 2000.   \n[14] Schuster M, Paliwal K K. Bidirectional recurrent neural networks [J]. IEEE Trans on Signal Processing,1997,45 (11): 2673-2681.   \n[15] Sutskever I, Vinyals O,Le Q V. Sequence to sequence learning with neural networks [C]// Advances in neural information processing systems.2014:3104-3112.   \n[16] Jean S.,Cho K.,Memisevic R.,et al.2014. On using very large target Vocabulary for neural machine translation[J].arXiv preprint arXiv: 1412. 2007.   \n[17]哈里旦木·阿布都克里木，刘洋，孙茂松．神经机器翻译系统在维吾 尔语-汉语翻译中的性能对比[J].清华大学学报：自然科学版，2017. 57(1):1-6.(Halidanmu Abudukelimu,Liu Yang，Sun Maosong. Performance comparison of neural machine translation systems in Uyghur-Chinese translation[J]. Journal of Tsinghua University :Science and Technology,57(1):1-6.)   \n[18] Stolcke,A. SRILM: an extensible language modeling toolkit[C]//Proc ofthe7th International Conference onSpoken Language Processing,volume 2.2002:901-904.   \n[19] Och FJ. Minimum error rate training in statistical machine translation [C]// Proc of the 41st Annual Meeting on Association for Computational Linguistics,volume 1. 2003: 160-167.   \n[20] Goodfellow IJ, Warde-FarleyD, Mirza M,et al. Maxout networks[J]. 2013.arXiv preprint arXiv: 1302. 4389.   \n[21] Zeiler M D.ADADELTA:an adaptive learning rate method[J]. 2012.arXiv preprint arXiv:1212.5701. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

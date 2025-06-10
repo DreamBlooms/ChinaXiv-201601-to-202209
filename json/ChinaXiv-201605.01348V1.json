@@ -1,0 +1,577 @@
+[
+    {
+        "type": "text",
+        "text": "ORIGINALARTICLE ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A Portion of Inhibitory Neurons in Human Temporal Lobe Epilepsy are Functionally Upregulated: An Endogenous Mechanism for Seizure Termination ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bo Wen,12 Hao Qian,1.2 Jing Feng,1 Rong-Jing Ge,1.3 Xin Xu,4 Zhi-Qiang Cui,4Ru-Yuan Zhu,4 Long-Sheng Pan,4 Zhi-Pei Lin4 & Jin-Hui Wang1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 State Keylabfor Brainand Cognitive Sciences,nstituteof Biophysics,ChineseAcademyofSciences,Beijing,China   \n2 University of Chinese Academy of Sciences,Beijing, China   \n3 Qingdao University,Medical College,Dengzhou,Shandong,China   \n4 Department of Neurosurgery,General Hospital of Chinese Military, Beijing,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Epilepsy; Excitability; GABA; Human brain;   \nNeuron; Synaptic transmission. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Correspondence: ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "J.-H.Wang,Brain and Cognitive Sciences, Institute of Biophysics,Chinese Academy of Sciences,15 Datun Road, Beijing 100101, China.   \nTel.: +86-10-6488-8472;   \nFaX: +86-10-6488-8472;   \nE-mail: jhw@sun5.ibp.ac.cn   \nReceived 28 July 2014;revision 15 Septembel 2014;accepted 18 September 2014 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SUMMARY ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Main Problem:Epilepsy is one of the more common neurological disorders.The medication is often ineffective to the patients suffering from intractable temporal lobe epilepsy (TLE).As their seizures are usually self-terminated,the elucidation of the mechanism underlying endogenous seizure termination will help to find a new strategy for epilepsy treatment.We aim to examine the role of inhibitory interneurons in endogenous seizure termination in TLE patients.Methods:Whole-cell recordings were conducted on inhibitory interneurons in seizure-onset cortices of intractable TLE patients and the temporal lobe cortices of nonseizure individuals.The intrinsic property of the inhibitory interneurons and the strength of their GABAergic synaptic outputs were measured. The quantitative data were introduced into the computer-simulated neuronal networks to figure out a role of these inhibitory units in the seizure termination.Results:In addition to functional downregulation,a portion of inhibitory interneurons in seizure-onset cortices were upregulated in encoding the spikes and controlling their postsynaptic neurons.A patch-like upregulation of inhibitory neurons in the local network facilitated seizure termination.The upregulations of both inhibitory neurons and their output synapses synergistically shortened seizure duration,attenuated seizure strength,and terminated seizure propagation. Conclusion: Automatic seizure termination is likely due to the fact that a portion of the inhibitory neurons and synapses are upregulated in the seizure-onset cortices.This mechanism may create novel therapeutic strategies to treat intractable epilepsy,such as the simultaneous upregulation of cortical inhibitory neurons and their output synapses. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1111/cns.12336 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The first two authors contributed to this work equally. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cortical seizure is presumably caused by an imbalance of neural excitation and inhibition toward the synchronous overexcitation of network neurons [l-1l].After antiepileptic medications are given through strengthening GABAergic synapses and inhibiting neuronal overexcitation [l2],the epileptic patients,especially suffering from temporal lobe epilepsy (TLE),become drug resistant [13,14].These intractable TLE patients are usually treated by the surgical removal of the seizure tissues [l5].Neurosurgery brings side effects to cognitive processes and lacks long-term effectiveness.Therefore,the pathological features of cortical seizure-onset neuron networks in the intractable TLE patients need to be figured outin order to reveal endogenous mechanism underlying seizure termination and to develop new strategies arresting epilepsy. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In human epileptic tissue,the neurons produce various patterns of burst spikes in response to depolarization pulses [l6-22]. The excitatory and inhibitory synapses undergo plasticity [23-25]. GABA reversal potentials shift [26,27].These characteristics can be used to explain seizure onset,but not seizure termination. Whether these features are specific for the seizure-onset tissues need be compared with the control [l6]. How the different types of neurons are involved in the seizure onset and termination of human epilepsy remains unclear. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this study,we aim to examine a role of inhibitory neurons in endogenous seizure termination at the seizure-onset cortices from intractable TLE patients.Our analyses included their intrinsic property to encode the spikes and their GABAergic synaptic outputs to control the excitatory neurons.These analyses may reveal the functional states of inhibitory neurons and synapses in seizure-onset cortex,but not ensure their roles in seizure termination.We introduced our experimental data into a computer-simulated neuronal network to determine how these pathological features mediate the seizure onset and termination. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Materials and Methods Ethical Issues ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The use of brain tissue from the patients and the procedure of surgically dissecting their brain tissues were approved by the Ethics Committee of Human Tissue Use in General Hospital of Chinese Military (2o1o824ool).The judgment for intractable neocortical TLE patients to receive a neurosurgical therapy was based on international criteria,for example,resistant to the medications [28,29].It is noteworthy that the patients for harvesting brain tissues were not mesial temporal sclerosis based on the clinical diagnosis.The neurons and GABAergic synapses from TLE patients were insensitive to sodium valproate (please see Figure S1).Neurosurgery for meningioma patients was based on diagnostic indications [3o].The anesthetic and neurosurgical procedures used in the TLE patients were based on the standards approved by the Food and Drug Agency, China.The approaches for cutting cortical slices and doing electrophysiological studies also were approved by the Ethics Committee of Human Tissue Use. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Brain Tissues and Slices ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The blocks of temporal lobe cortices $( 1 \\times 1 \\times 1 ~ \\mathrm { c m } )$ ）were harvested from TLE patients (Table S1 in supporting data） for the experimental group.The patients suffering from glioma and meningioma in white matter who had no previous history of epilepsy attacks in clinical practices and of seizure discharges monitored by electroencephalogram (EEG) were used as controls.All of these neocortical TLE patients had been diagnosed as pharmacoresistant. The seizure-onset cortices were localized by EEG showing epileptic and interictal discharges.After the skull was opened, the seizure cortices were identified by embedding 32-channels'EEG in diagnosis-located areas (Figure l),in which the areas with frequent interictal discharges and the earliest seizure onsets were defined as the seizure-onset cortices.For the controls,their temporal lobe cortices were harvested, Samples were more than three centimeters away from meningioma in lateral ventricles and triangle regions or glioma in deep white matter localized by computerized topography.In surgical operations,surgeons were allowed to remove the parts of temporal lobe cortices legally to access glioma and meningiomaunderneath. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The tissues $( 1 \\times 1 \\times 1 ~ \\mathrm { c m }$ in the size）isolated from the assigned cortices in vivo were immediately cut into two blocks (lXlXo.6 and 1XiXo.4) in modified and oxygenated( $9 5 \\%$ （20 $\\mathrm { ~ O } _ { 2 } /$ $5 \\%$ $\\mathrm { C O } _ { 2 }$ ）artificial cerebrospinal fluid(ACSF,mM:124 NaCl,3 KCl,1 $. . 2 \\ N a \\mathrm { H } _ { 2 } \\mathrm { P O } _ { 4 } .$ $2 6 ~ \\mathrm { N a H C O _ { 3 } }$ $0 . 5 \\mathrm { C a C l } _ { 2 }$ ， $5 ~ { \\mathrm { M g } } { \\mathrm { S } } { \\mathrm { O } } _ { 4 }$ ，20 dextrose, and 5 HEPES; $\\mathrm { p H } 7 . 3 5$ at $4 ^ { \\circ } \\mathrm { C }$ .The former blocks in this $4 ^ { \\circ } \\mathrm { C }$ ACSF incubation were transferred to the research laboratory for electrophysiological studies,and the latter blocks were immediately placed into $4 \\%$ paraformaldehyde in $0 . 1 \\mathrm { ~ M ~ }$ phosphate buffer solution (PBS) about $^ { 4 8 \\mathrm { ~ h ~ } }$ for the studies of morphology and immunocytochemistry [31]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9a706721c5e21d36c3dd6a14f88f46fd55beb8b7c6b65822189b0bb054bbb81b.jpg",
+        "img_caption": [
+            "Figure 1 The onset areas of seizure and interictal discharges in temporal lobe are located by 32 channels of EEG before the surgical removal of epileptic cortices. (A) illustrates a computational reconstruction for EEG to record electrical activities in temporal lobe cortex of TLE patients during surgical operations.The locations in the onset of interictal and seizure discharges are identified under electrode channels 1-16,in which four channels are marked as red,green,blue,and black,respectively, that is,reds for 1-4,greens for 5-8,blues for 9-12,andblacks for 13-16 from bottom to top.(B) illustrates interictal discharges in the temporal lobe of TLE patients recorded by electrodes 1-16,in which the trace colors of EEG-recorded electrical signals correspond to electrodes'colors in 1A.(C) shows the sequences of seizure discharges in the temporal lobe ofTLE patients recorded by electrodes1-16,where the trace colors of EEGrecorded epileptic discharges correspond to electrodes'colors1A. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d04a3f7fd53c0ba763e067b7a5240d640eee35da831eddd74aac4a42aa65ad0b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The slices( $3 0 0 ~ \\mu \\mathrm { m } )$ ）from seizure-onset cortices in TLE patients and from nonepileptic ones in control individuals were cut by Vibratome in modified and oxygenated ACSF (mM:124 NaCl,3 KCl, $1 . 2 \\ \\mathrm { N a H } _ { 2 } \\mathrm { P O } _ { 4 }$ 、 $2 6 \\mathrm { \\ N a H C O _ { 3 } }$ 、 $0 . 5 \\mathrm { C a C l } _ { 2 } ,$ $5 \\mathrm { \\ M g { S O _ { 4 } } } ,$ （204号 20 dextrose,and 5 HEPES; $\\mathrm { p H } ~ 7 . 3 5$ ）at $4 ^ { \\circ } \\mathrm { C }$ and were held in the normal oxygenated ACSF (mM: 126 NaCl,2.5 KCl,1.2 $\\mathrm { N a H } _ { 2 } \\mathrm { P O } _ { 4 } .$ ， $2 6 \\ \\mathrm { N a H C O _ { 3 } }$ 、 $2 . 0 \\ \\mathrm { C a C l } _ { 2 }$ ， $2 . 0 \\ M g \\mathrm { S O } _ { 4 } ,$ ，10 dextrose,and 5 HEPES; $\\mathrm { p H } ~ 7 . 3 5$ ） $3 5 ^ { \\circ } \\mathrm { C }$ for one hour before the experiments. These slices were then transferred to a submersion chamber that was perfused with normal ACSF for electrophysiological experiments [32-34]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Electrophysiological Studies in Cortical Interneurons ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The selection of cortical interneurons for whole-cell recording was based on the following criteria.These neurons in layers II-IV of human cortices showed smaller round somata and multiple processes (Figure 2A),compared to relatively larger pyramidal neurons,under the DIC microscope (Nikon,FN-E6oo,Tokyo,Japan). These interneurons demonstrated fast spiking,no adaptation in the spike amplitudes and frequencies as well as high magnitude after-hyperpolarization (Figure S2),typical properties for inhibitory interneurons [35-38]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "These interneurons were recorded by an amplifier (MultiClapm-7ooB;Axon Instrument Inc,Foster City,CA USA）under whole-cell current-clamp and voltage-clamp.Electrical signals were inputted into pClamp-1O (Axon Instrument Inc.）with ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$2 0 ~ \\mathrm { k H z }$ sampling rate.The functions of inhibitory neurons were evaluated based on their intrinsic properties (such as input-output curve and spiking ability distribution）and output ability (inhibitory effect on their downstream pyramidal neurons).Pipette solution for recording neuronal action potentials included (mM) $1 5 0 ~ \\mathrm { K }$ -gluconate,5NaCl,0.4 EGTA,4 Mg-ATP,0.5TrisGTP,4 Na-phosphocreatine,and 5 HEPES $\\mathrm { p H } ~ 7 . 4$ adjusted by 2M KOH).Pipette solution for recording inhibitory postsynaptic currents contained (mM)135 K-gluconate,20 KCl,4 NaCl,10 HEPES，0.5 EGTA，4 Mg-ATP，and 0.5 Tris-GTP $\\mathrm { ( p H } \\ 7 . 4 \\$ adjusted by 2M KOH).The osmolarity of pipette solutions made freshly was 295-305 mOsmol,and the pipette resistance was 8- $1 0 ~  { \\mathrm { M } } \\Omega$ [39]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the analyses of input-output and membrane I-V curves [40], depolarization pulses(l second） of various intensities were injected into these interneurons to induce repetitive spikes.Subthreshold and hyperpolarization pulses were injected to determine their passive membrane properties.In evaluating their ability of firing spikes,we measured the initiation of spikes by weak depolarization that was thought as neuronal sensitivity to excitatory inputs,that is,neuronal ability to convert synaptic signals into spikes [41,42]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The ability of interneurons to affect their target neurons was evaluated by recording GABAergic spontaneous inhibitory postsynaptic currents (sIPSC）under voltage-clamp [43]. $1 0 ~ \\mu \\mathrm { M }$ 6-Cyano-7-nitroquinoxaline-2,3- $( 1 H , 4 H )$ -dioneand $4 0 ~ \\mu \\mathrm { M }$ D-amino-5-phosphonovaleric acid were added into ACSF to block ionotropic glutamate receptor channels.At the end of experiments,bicuculline $( 1 0 ~ \\mu \\Lambda )$ was perfused onto the slices to examine whether synaptic responses were mediated by $\\mathrm { G A B A _ { A } R }$ .sIPSC amplitudes represent the sensitivity and numberof $\\mathrm { G A B A _ { A } R }$ .sIPSC frequency shows the probability of GABA release and the conversion of silent receptors into functional ones [43,44]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ecfcc936f8176cac47de4da969d7e134c7304fc50af32a2efb38c89ae70aae9d.jpg",
+        "img_caption": [
+            "Figure 2 The correlations between stimulus currents and membrane potentials in inhibitory neurons from seizure-onset cortices (blue traces& symbols)and controls (greens).(A) shows the images of whole-cell recording in an interneuron (yellow arrow in top panel) and this neurobiotin-labeled cell (bottom).(B) The current pulses (black traces in bottom) induce subthreshold responses and spikes (green waveforms) in an inhibitory neuron from nonepileptic cortex.(C) Current pulses induce subthreshold responses and spikes (light blues) inan inhibitory cell of seizure-onset cortex (sample one in TLE).(D) Current pulses induce subthreshold responses and spikes (dark blues) inan inhibitoryneuron from seizure-onset cortex (sample two in TLE).(E) shows spikes per second versus stimulus currents in these inhibitory neurons from B to D,in which inputoutput curves for inhibitory neurons have correspondent colors with B to D.(F) illustrates I-V curves for different currents to induce subthreshold voltage changes in inhibitory cells from seizure-onset cortex (blue symbols and lines; ${ \\mathsf n } = 2 0$ cells) and in those from controls (greens, ${ \\mathsf n } = 1 0 )$ . Calibration bars are $2 0 0 ~ \\mathsf { m } \\mathsf { s }$ and 20 mv/100 pA. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The data were analyzed if the recorded neurons had resting membrane potentials more negative than $- 6 0 ~ \\mathrm { m V }$ and action potentials above $9 0 ~ \\mathrm { m V }$ .The criteria for the acceptance in each experiment also included less than $5 \\%$ changes in resting membrane potential，spike amplitudes,input and seal resistances throughout each experiment. The values of neuronal input-outputs and sIPsCs are presented as mean $\\pm S \\mathrm { E }$ .The comparisons between groups were carried out by $t$ -test. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Morphological Studies of Cortical Interneurons ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Neurobiotin Staining and Morphological Analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The electrodes for whole-cell recording included $0 . 2 \\%$ neurobiotin in pipette solution.The solutions were back-filled into the recording pipettes whose tips contained a standard solution. After electrophysiological studies,the slices were rapidly placed into $4 \\%$ paraformaldehyde in $0 . 1 \\mathrm { ~ M ~ }$ PBS for fixation at $4 ^ { \\circ } \\mathrm { C }$ about $^ { 4 8 \\mathrm { ~ h ~ } }$ .The slices were incubatedin avidin and horseradish peroxidase(Vectastain ABC,Sigma，St.Louis,MO，USA）for $^ { 3 \\mathrm { ~ h ~ } }$ ，andin $1 \\%$ DAB- $\\mathrm { . c o C l } _ { 2 }$ (Sigma), $1 ~ \\mathrm { m i n }$ for staining neurobiotin-filled neurons.The reactions were then stopped by PBS [38].Neurobiotin-stained neurons were scanned under laser scanningconfocal microscope(Olympus FV-1ooo， Tokyo, Japan).The density of interneuron processes was analyzed by Neuromantic (Version 1.6,an open source of software produced by Darren Myatt,University of Reading,England).Our analyses included primary dendrites (dendrites directly from the soma; [31],process terminals,and axonal branches in each of inhibitory neurons.The dendrites and axons of neurons were identified based on their diameters and spines. There were no changes in the dendrites and axons of inhibitory neurons in the control and seizure-onset cortices (Figure S3). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Computational Simulation ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The principle of building neural network in computational modelingis described below.Cerebral cortices are composed of excitatory neurons and inhibitory interneurons in the ratio of about $8 0 \\%$ versus $2 0 \\%$ [45].The axons of inhibitory neurons terminate on excitatory neurons to coordinate their activity [36,46]. The cerebral cortices are divided into numerous regions including a set of neuronal microcircuits,in which excitatory neurons and inhibitory interneurons are synaptically connected to form input and recurrent excitations as well as feedforward and feedback inhibitions (Figure S4).Excitatory neurons also project to other areas through their long axons,that is,the small-world model [47].Based on these principles,we have constructed the simplified networks for seizure-onset cortices from TLE patients and for the controls.Cortical networks included sixteen areas (i.e.,microcircuits）that presumably presented sixteen areas of seizure onset identified by intracranial EEG (Figure 1).Each area was simplified in a ratio of four excitatory neurons to an inhibitory neuron,such that the total number of neurons in the simplified networks was eighty (64 excitatory neurons and 16 inhibitory neurons). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The neurons in the simulated networks were thought as integrate-fire cell model [48-5O].Their functional status to be introduced into the simulated networks was digitized from our data in Tables 1 and 2.Inhibitory neurons in seizure-onset cortex were divided into two groups in Figures 1-2 (functional downregulationandupregulation)， whichmadeneural network unevenly inhibited (patch-like disinhibition and inhibition). ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/3de6dca24639338753344510cf20aec0624c954103584492943bcb8ca8b87a11.jpg",
+        "table_caption": [
+            "Table2 Physiological properties for different types of cortical neurons "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Physiological</td><td colspan=\"2\">Pyramidal neurons</td><td colspan=\"2\">Inhibitory neurons</td></tr><tr><td>properties</td><td>Control</td><td>Epilepsy</td><td>Control</td><td>Epilepsy</td></tr><tr><td>Cm (pF)</td><td>82.1 ± 24.4</td><td>80.2 ± 26.3</td><td>77.6 ± 25.8</td><td>79.7 ± 26.9</td></tr><tr><td>Rm (MΩ)</td><td>291 ± 76.7</td><td>289 ± 69.6</td><td>305 ± 50.8</td><td>310 ± 53.3</td></tr><tr><td>RMP (mV)</td><td>-69.6 ± 4.6</td><td>-69.8 ± 4.8</td><td>-60.5 ± 4.2</td><td>-61.7 ± 4.7</td></tr><tr><td>AP threshold potentials (mV)</td><td>27.9 ± 1.2</td><td>26.7 ± 1.1</td><td>21.9 ± 1.0</td><td>25.2 ± 1.3</td></tr><tr><td>Refractory period (ms)</td><td>30.2 ± 3.1</td><td>29.6 ± 5.0</td><td>9.8 ± 1.4</td><td>10.3 ± 1.6</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "All of the neurons in our simulated network were connected by excitatory and inhibitory synapses.In each microcircuit,an inhibitory neuron inhibited multiple pyramidal cells and received their excitatory inputs.Pyramidal neurons received synaptic inputs from internal microcircuits.All of these neurons also received excitatory inputs from other microcircuits and subcortical areas. Excitatory synaptic events were characterized as a steady interevent interval $2 0 \\pm 1 0 ~ \\mathrm { m s }$ ).The weight of synaptic connection on pyramidal and inhibitory cells in the simulated network was assumed to be similar. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Based on Table 3 values showing changes in excitatory synaptic transmission on interneurons and inhibitory synaptic transmission on pyramidal neurons (Figure 3),we analyzed the strengths of signal transmission at excitatory synapses on inhibitory neurons and at inhibitory synapses on pyramidal neurons (Table 4). These parameters were introduced into the neural networks simulated in our computational modeling. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/198811cb659452654b3fe304aefaf2839e0bce34653e765d77a5feda7996399a.jpg",
+        "table_caption": [
+            "Table1 The ability of interneurons to convert excitatory input signals into spikes "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Ability to convert</td><td>Control</td><td colspan=\"2\">Seizure-onset cortices</td></tr><tr><td>inputs to spikes</td><td>cortices</td><td>Downregulation</td><td>Upregulation</td></tr><tr><td>Spikes per second at threshold level</td><td>2.86</td><td>1.27</td><td>5.34</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In terms of the role of ligand-gated ion channels in synaptic transmission,AMPAR and NMDAR mediated excitatory synapses, and $\\mathrm { G A B A _ { A } R }$ mediated inhibitory synapses.Postsynaptic conductance was a function of the sum of two exponentials in Equation 1 [51].Quantitative values for synaptic conductance introduced to our simulated network are in Table S3-4 [52]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { s y n } ( t ) = \\bar { g } \\times \\left( \\frac { \\tau _ { 1 } \\tau _ { 2 } } { \\tau _ { 1 } - \\tau _ { 2 } } \\right) \\times \\left( e ^ { - \\frac { t } { \\tau _ { 1 } } } - e ^ { - \\frac { t } { \\tau _ { 2 } } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Seizure-onset regions in TLE patients were identified by 32 channels of EEG on cortical surface before neurosurgery.A case of EEG recording in temporal lobe cortex is shown in Figure l,where the cortical areas under electrodes l-l6 are identified as the onset of interictal seizure discharge and the areas under 5-7 and 9-1l with the early dominant onsets of discharges (seizure-onset cortices) were harvested for our experiments. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/0fe140ae7ca7367f31b1da48f274cb0db60ab3b3ea834c2058fe726e01270055.jpg",
+        "table_caption": [
+            "Table 3 Functional dynamics of ligand-gated receptor channels in the synapses "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Types of receptors</td><td>g (μs)</td><td>T1 (ms)</td><td>T2 (ms)</td><td>Esyn (mV)</td></tr><tr><td>AMPA</td><td>4</td><td>1</td><td>2</td><td>0</td></tr><tr><td>NMDA</td><td>20</td><td>0.67</td><td>80</td><td>0</td></tr><tr><td>GABAA</td><td>100</td><td>1</td><td>4</td><td>-70</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Inhibitory Neurons in Seizure-onset Cortices are Functionally Downregulated or Unregulated ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The ability of inhibitory neurons to convert input signals into spikes in seizure-onset cortices and controls was analyzed by injecting depolarization pulses (l second).Their responses to stimulus currents in fast-spiking pattern were plotted as inputoutput curves (Figure 2).These currents induced the spikes and subthreshold responses at an interneuron in control (green traces in Figure 2B）and two interneurons in seizure-onset cortex (light blues in 2C and dark blues in 2D).Figure 2E illustrates spikes per second versus current intensities in these neurons.The input-output curves and spiking traces are corresponding in their colors.Compared with the control (green trace),two interneurons in seizure-onset cortices appear to have either low (light blue）or high abilities(dark blue） to produce spikes.Figure 2F shows I-V curves for the currents to induce subthreshold voltage changes at these interneurons in the seizure-onset cortices (light blue and dark blue symbols/lines) and controls (greens). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "When plotted the input-output curves for each of inhibitory interneurons $( { \\mathrm { n } } = 7 2 { \\mathrm { \\Omega } }$ ）inseizure-onset cortices and controls （2 $( \\mathrm { n } = 2 0$ ),we saw diversified curves among these neurons in seizure-onset cortices.Based on the values of spikes per second at the initial and middle points of these input-output curves,we plotted the histograms of spikes per second versus number of inhibitory interneurons (symbols in Figure 3A-B),and the fitting curves in these interneurons of seizure-onset cortices (blue traces in Figure 3A-B),and controls (green).Compared toa single peak of distribution for controls,the ability to fire spikes in the inhibitory interneurons from seizure-onset cortices falls into two distributions (light and dark blue traces). $70 \\%$ inhibitory neurons possess low ability to fire the spikes and others $( 3 0 \\% )$ shift their spikingability to high.Figure 3C illustrates the averaged data for ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(A) Downregulation in TLE (B) Downregulation in TLE (C) Downregulation in TLE Upregulation in TLE Upregulationin TLE Upregulationin TLE Control Control Control 16   \nNn go genes 30 20 rr gr gereiss 4122100 8 中 6 \\$- 一电 64 书 - 10 4 ? 2 中 2 0 0 2 4 6 8 5 10 15 20 1.01.21.41.61.82.0 Spikespersecond Spikes per second Normalizedstimuli ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/7657bbb6536bd379212f83cbd97e7f87c52b580361464fe1cf35d4e8e620d1bd.jpg",
+        "table_caption": [
+            "Table4 Strengths of excitatoryand inhibitory synaptic transmisson in seizure onset versus control cortices "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"2\">Postsynaptic currents (pA)</td><td colspan=\"2\">Synaptic events' frequency (Hz)</td><td></td><td></td></tr><tr><td></td><td>Control</td><td>Seizure onset</td><td>Control</td><td>Seizure onset</td><td></td><td></td></tr><tr><td>EPSCsat interneurons</td><td>3.75</td><td>2.5</td><td>2.86</td><td>1.43</td><td></td><td></td></tr><tr><td>IPSCs at pyramidal neurons</td><td>4.5</td><td>3</td><td>0.91</td><td>Downregulation 0.5</td><td>Normal-like 0.9</td><td>Upregulation 1.67</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "normalized stimuli versus spikes per second in inhibitory interneurons from seizure-onset cortices (light and dark blue symbols) and controls (greens). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The inhibitory neurons in the seizure-onset cortex are functionally downregulated or upregulated. Some of them have a low spiking ability and others show high ability.We further examined whether their output controls(i.e.，GABAergic synapses） to downstream neurons were functionally differentiated. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The Output Controls of Inhibitory Neurons in Seizure-Onset Cortices are Differentiated ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The ability of inhibitory neurons to control their postsynaptic neurons was evaluated by recording spontaneous inhibitory postsynaptic currents (sIPSC）at the pyramidal neurons [43] in the seizure-onset cortices and controls. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 shows the activity of GABAergic synapses in seizureonset cortices $( \\mathrm { n } = 1 7$ ）and controls $( \\mathrm { n } = 1 0 \\$ ).Compared to sIPSCs recorded in the control (bottom trace in 4A)，sIPSC frequency in the seizure-onset cortices appears to be low (sample one in TLE),no change (sample two),and high (sample three). Cumulative probability versus inter-sIPsC intervals in the seizure-onset cortices (blue traces in Figure 4B）and the controls (greens） indicate that sIPSC frequency is downregulated (light blue),normal (blue),or upregulated (dark blue).Using the values of inter-sIPsC-intervals at O.67 cumulative probability，we plotted the histograms of inter-sIPsC intervals versus number of pyramidal neurons (Figure 4C).Compared to a single peak of distribution for GABAergic synapses in controls (green), GABAergic synapses in seizure-onset cortices falls into three distributions,low( $2 4 \\%$ of inhibitory synapses)，no change $( 3 5 \\% )$ ，and high $( 4 1 \\% )$ .Figure 4D from seizure-onset cortices (blue traces) and control (greens) demonstrates that sIPSC frequencies are downregulated (light blue),normal (blues),or upregulated (dark blues). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The inhibitory neurons and their output synapses in human seizure-onset cortices are functionally downregulated or upregulated.Their reduced ability in spike production and synaptic output may make principal neurons escape from inhibitory control for seizure onsets.A portion of inhibitory neurons with highabilities to fire spikes and inhibit target cells may monitor seizure onset and work as an endogenous mechanism to terminate seizure.As it is not allowed to manipulate inhibitory neurons in TLE patients, we examined this hypothesisby computational simulation. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(A) Sample one in TLE (B) 1.0 Sample two in TLE roeergeaeeiti 0.8 CP 0.67 0.6 Sample three in TLE 0.4 Domaegulain in TLE Upregulation in TLE 0.2 Control Control 10pA 5S m 0.0 1 0 200040006000 Downregulation in TLE Inter-IPSCIntervals(ms) Normal-likeinTLE   \n(C) Upreguation in TLE (D) 1.0 。 grroeeeleiei   \ne grgenne 6 O 800 4 Downregulation in TLE 0.4 Normal-likein TLE Upregulation in TLE 2 0.2 Control 8 0.0 1000 2000 3000 0 2000 4000 6000 Inter-IPSC Intervals at CP0.67 (ms) Inter-IPSCIntervals(ms) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 The comparisons in the activities of GABAergic synapses on pyramidal neurons from seizure-onset cortices and controls.The ability of inhibitory neurons to control their target cells was evaluated by recording spontaneous inhibitory postsynaptic currents (slPSC) on pyramidal cells in cortical slices under whole-cell voltage-clamp.GABAergic IPSCs were isolated by adding10 μM CNQXand $4 0 ~ \\mu M$ D-AP5 in perfusion solution. (A)illustrates slPSCs recorded from pyramidal neurons in seizure-onset cortices (samples 1-3 in TLE) and from pyramidal neuron in nonepileptic cortex (control).(B) shows cumulative probability versus inter-slPSC intervals in seizure-onset cortices (blue traces, ${ \\mathsf n } = { \\mathsf 1 } { \\mathsf 7 } { \\mathsf 1 }$ and controls (greens, ${ \\mathsf n } = { \\mathsf { 1 0 } } )$ ,in which the curves are divided into three groups, that is，shifts toward left，right，and null.(C) shows the distributions of inhibitory synapses from seizure-onset network (blue symbols/curves), and controls (greens) in inter-slPSC intervals.In this histogram, the values of inter-slPSC interval are taken at O.67 of cumulative probability in B. There is a single peak of distribution for inhibitory synapses in nonseizure cortices (green curve).The activity strengths of inhibitory synapses in seizure-onset cortex fall into three distributions,that is，upregulation (darkblue curve)，normal-like (blue)，and downregulation (light blue). D) shows averaged cumulative probability versus inter-slPSC intervals on pyramidal neurons in controls (green symbols, ${ \\mathsf n } = { \\mathsf { 1 0 } } { \\mathsf \\Pi }$ and seizure-onset cortices (blues, ${ \\mathsf n } = { \\mathsf 1 } 7 { \\mathsf ) }$ based on three distributions above.Calibration barsare $1 0 { \\mathsf { p A } }$ and 2/5 seconds. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The Upregulation of Inhibitory Neurons Facilitates Seizure Termination or Vice Versa ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We introduced our experimental data into the simulated network to analyze the roles of inhibitory downregulation and upregulation in seizure onset and termination.The simulated microcircuits included principal and inhibitory neurons in the ratio of four to one that were synaptically connected (Figure S4).The output activity of principal neurons was digitized as spike frequencies (calibration bars in Figure 5A).Without the exogenous stimulus to these neurons,their spiking from low to high frequency is thought as spontaneous activity,and intense spiking from all of them are thought as synchronous activity,or vice versa as the activity termination. The activity levels of principal neurons are quantified as the strength and duration of seizure spikes,the latency of seizure onset as well as the cross-correlation of spikes among the neurons (Figure S5). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The distributions of the inhibitory neurons that are functionally downregulated or upregulated in the seizure-onset cortices may be patch-like (a pattern in Figure S4) or large scale.We introduced three patterns into our simulated networks,that is,the patch-like upregulation and downregulation in the inhibitory interneurons (pattern one),all downregulation (pattern two),as well as largescaled upregulation and downregulation (pattern three).If these inhibitory neurons appear as a patch-like pattern of upregulation and downregulation,the outputs of principal neurons express sudden and synchronous seizure spikes (i.e.,seizure onset-to-termination,Figure 5A).The latency,strength,and duration of seizure onsets as well as the cross-correlation of principal neurons show that the seizure termination is only seen in a patch-like distribution of the upregulated inhibitory neurons (Figure 5B-F).As the epilepsy and seizure EEG appear automatically terminated, our results indicate that the patch-like distribution for the upregulated inhibitory neurons is a typical pattern in the seizure cortex of TLE patients.The neurons simulated under the control do not show seizure activity (Figure S6). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In terms of the correlation of the downregulated and upregulated inhibitory synapses with seizure activities in principal neurons, we introduced the different ratios of the upregulated inhibitory synapses to the downregulated ones into the simulated network. In Figure 6，the strength and duration of seizure-onset are affected by the ratio of inhibitory synaptic upregulation to downregulation.An increased ratio appears to lower seizure strength and duration (Figure 6A).Figure 6B-D shows dynamic changes in the latency,duration,strength,and synchrony of seizure activity by upregulating inhibitory synapses.The increase in a portion of the upregulated inhibitory synapses prolongs the latency of seizure onset,reduces the strength,and duration of seizure activity as well as lowers the correlation coefficient of seizure spikes in principal neurons. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/1dd58fa0c93425ef398e909f914016d9b9500823c5d4de20e225e773009cb9ee.jpg",
+        "img_caption": [
+            "Figure5Tepathiistrtiftdoweladupreglatifiapsdusidusabrupadcse atiieso inalldt synchronoussezuresiesthatiszureoseadteatioeoysinpincipauroceiitoyurosedowelatedd upregulatediatchatloidfes.oedf seizureactiis.edamoci timeinthepats.soompasueips.ltmpaoini fseizureais.smaieaamaloctiin three patterns. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To the correlation of the downregulated and upregulated inhibitory neuronal function with seizure activities in principal neurons,we introduced the different ratios of the upregulated inhibitory neurons to the downregulated ones into a simulated network.The strength and duration of seizure onset are affected by the ratio of inhibitory neuronal upregulation to downregulation (Figure 7).The increase in this ratio reduces seizure strength and duration (Figure 7A).As illustrated in Figure 7B-D，the increases in the proportions of the upregulated inhibitory neurons delays seizure onset,reduces seizure strength and duration as well as lowers pyramidal neuron synchrony. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Moreover,the coordinated effects of the upregulated inhibitory synapses and neurons on seizure termination are illustrated in Figure 8.The increases in both upregulated inhibitory neurons and synapses appear to almost terminate seizure activities in principal cells (Figure 8A-B).The increases in the proportion of the upregulated inhibitory synapses and neurons up to $5 0 \\%$ can prolong the latency of seizure onset to be unlimited,reduce the strength and duration of seizure toward zero,as well as diminish the correlation coefficient of seizure spikes among principal cells to be the lowest (Figure 8C-F).Thus,the endogenous mechanism for seizure termination can be fulfilled by simultaneously upregulating inhibitory neurons and their output synapses. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/4da86991de020482de9cf0351f18ace653837f811398ec139e30e19d4aff91b7.jpg",
+        "img_caption": [
+            "Figure6 An increase in the proportion of upregulated inhibitory synapses reduces the strength and duration of seizure onset. (A) shows the averaged strength of seizure activity (spike frequency, Hz) versus time under the conditions of the ratio of IPSC upregulation $3 1 . 2 5 \\%$ to downregulation $3 7 . 5 \\%$ (red trace) versus that of IPSC upregulation $50 \\%$ to downregulation $1 8 . 7 5 \\%$ (blue).(B) illustrates the latency (open symbols) and duration of seizure activity (filled) vs.the percentage of IPSC upregulation (the percentage of upregulated inhibitory synapses).(C) shows the maximal strength of seizure activity versus the percentage of IPSC upregulation.(D) shows the maximal correlation coeficients among pyramidal neurons during seizure activity versus the percentage of IPSC upregulation. ",
+            "Figure 7 An increase in the proportion of upregulated inhibitory neurons reduces the strength and duration of seizure onset.(A) shows the averaged strength of seizure activity (spike frequency, Hz) vs. time under the conditions of the spike upregulation of inhibitory neurons (IN) $2 5 \\%$ (red trace) versus the spike upregulation of inhibitory cells $4 3 . 7 5 \\%$ (B) illustrates the latency (open symbols) and duration of seizure activity vs. the percentage of IN spike upregulation (the percentage of upregulated inhibitory neurons). (C) shows the maximal strength of seizure activity vs.IN spike upregulation. (D) shows maximal correlation coefficients among pyramidal neurons during seizure activity versus the percentage of IN spike upregulation. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a436c5e44d8e158bcb522cac81994d658565638ae8c1569912988cd4edadb764.jpg",
+        "img_caption": [
+            "Figure8The increases in the proportion of upregulated inhibitory neurons and synapses tend to synergistically terminate the onsetof seizure activity in pyramidal neurons. (A) shows spike frequency versus time under the conditions of IPSC upregulation $3 1 . 2 5 \\%$ and IN spike upregulation $2 5 \\%$ versus of IPSC upregulation $50 \\%$ and IN spike upregulation $4 3 . 7 5 \\%$ .(B) shows the averaged strength of seizure activity versus time under the conditions of IPSC upregulation $3 1 . 2 5 \\%$ and IN spike upregulation $2 5 \\%$ Vs.IPSC upregulation $50 \\%$ and IN spike upregulation $4 3 . 7 5 \\%$ (C) shows the latency of seizure onset versus IPSC upregulation and IN spike upregulation. (D) shows the duration of seizure onset versus IPSC upregulation and IN spike upregulation. (E) shows the maximal strength of seizure activity versus IPSC upregulation and IN spike upregulation.(F) shows maximal correlation coefficients among pyramidal neurons during seizure activity versus IPSC upregulation and IN spike upregulation. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In the seizure-onset cortices from neocortical TLE patients as well as the control cortices from non-seizure individuals,we have analyzed the pathophysiological features of inhibitory neurons and their synaptic outputs.Most of the inhibitory neurons in the seizure-onset cortices have a low ability to produce spikes (Figures 2 and 3)and are unable to inhibit their postsynaptic neurons (Figure 4).On the other hand,some inhibitory synapses and neurons in the seizure-onset cortices are functionally upregulated (Figures 2-4). Our computational simulation reveals that the patchlike distribution of the upregulated inhibitory neurons and synapses leads to seizure termination (Figure 5).The simultaneous increases in the proportions of the upregulated inhibitory synapses and neurons synergistically strengthen seizure termination (Figures 6-8).Molecular mechanisms underlying the upregulation versus downregulation in these inhibitory neurons remain to be determined. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The studies in animal models suggest that an imbalance of excitation and inhibition toward neural overexcitation is associated with seizure activity[53-55].These valuable data in seizure pathogenesis remain to be confirmed in epileptic patients,and the data from human seizure tissues would be more convincing if the studies were carried out with controls [l6].Taken these issues with specific-type neurons for seizure discharges into account,we analyzed the characteristics of inhibitory neurons in the seizure-onset cortices from TLE patients and in controls from nonseizure individuals.In addition to a downregulation,a proportion of inhibitory neurons and synapses were functionally upregulated.Our studies support a role of cortical disinhibition in seizure onset. More importantly,our finding about the functional upregulation of inhibitory synapses and neurons in TLE patients brings a notion into endogenous mechanisms underlying seizure termination. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Pathophysiological changes in inhibitory neurons from seizureonset cortices may be a cause of epileptic discharges or consequences induced by long-term epilepsy.The computational simulation based on our experimental data indicates that the downregulation of inhibitory synapses and neurons facilitates principal cells to induce synchronous seizure activity. The increases in the proportions of upregulated inhibitory synapses and neurons reinforce cortical inhibitory networks to terminate seizure discharges (Figures 5-8).Inhibitory neuron-based therapy for epilepsy has been proposed [56].The synergistic influences of upregulating inhibitory neurons and synapses on seizure termination (Figure 8） suggests that epilepsy therapy will benefit from strengthening the functions of multiple subcellular compartments in inhibitory neurons,such as their synaptic sensitivity,intrinsic properties,and GABAergic output.In these regards,the therapeutic strategies for intractable TLE patients should be to raise the number and function of inhibitory neurons synergistically.As stem cells are preferentially differentiated into inhibitory neurons,the stem cell therapy will be the option to increase the number of inhibitory interneurons. The molecular mechanisms underlying the upregulation of inhibitory interneurons have not been developed well,and the approach for specifically enhancing inhibitory neuron function remains to be studied. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Computational simulations for seizure onset based on the studies in epileptic animal models have been carried out by changing one of factors,such as voltage-gated ion channel [57], local neural network [58,59])，small-world versus large-scale network [47,6O],or destabilization for multistate network transition [6l].Computational simulation in this study is based on our data from TLE patients versus controls by introducing multiple factors (such as,neuronal active intrinsic properties and synaptic dynamics） into neural networks.The data read from our simulations under the conditions of specific-type neurons and synapses make the computational neural networks to be closely comprehensive. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In summary,inhibitory neurons and synapses in seizure-onset cortices are differentiated into two functional populations,downregulation and upregulation. The downregulation of inhibitory cellular units leads to seizure onset. Their upregulation constitutes a homeostatic process to strengthen inhibitory units,an endogenous mechanism for seizure termination.The increases in the proportion and function of inhibitory synapses and neurons to synergistically terminate seizure will be useful to treat intractable TLE patients. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgment ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We thank Dr.Qian Ty for the reconstruction of cortical EEG recording.This study is supported by the National Basic Research Program (2013CB531304 and 2011CB504405）and Natural Science Foundation China (3099026l,81171033 and 81471123) to JHW. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Conflict of Interest ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Theauthors declare no conflict of interest. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1.Blumenfeld H. From molecules to networks: cortical/ subcortical interactions in the pathophysiology of idiopathic generalized epilepsy. Epilepsia 2oo3;44(Suppl 2):7–15.   \n2.Bradford HF. Glutamate, GABA and epilepsy. Prog Neurobiol 1995;47:477-511.   \n3.Huguenard JR. Neuronal circuitry of thalamocortical epilepsy and mechanisms of antiabsence drug action. Adv Neurol 1999;79:991-999.   \n4.Hughes JR. Gamma, fast, and ultrafast waves of the brain: their relationships with epilepsy and behavior. Epilepsy Behav 2008;13:25-31.   \n5.Jin X, Huguenard JR, Prince DA. Reorganization of inhibitory synaptic circuits in rodent chronically injured epileptogenic neocortex. Cereb Cortex 2010;21:1094-1104.   \n6.Li G, Yang K, Zheng C, et al. Functional rundown of gamma-aminobutyric acid(A) receptors in human hypothalamic hamartomas. Ann Neurol 2011;69:664-672.   \n7.Marchionni I, Maccaferri G. Quantitative dynamics and spatial profile of perisomatic GABAergic input during epileptiform synchronization in the CA1 hippocampus. J Physiol 2009;587:5691-5708.   \n8.Prince DA. Neurophysiology of epilepsy. Annu Rev Neurosci 1978;1:395-415.   \n9.Prince DA. Epileptogenic neurons and circuits. Adv Neurol 1999;79:665-684.   \nl0.Semyanov A,Walker MC, Kullmann DM, Silver RA. Tonically active GABA A receptors: modulating gain and maintaining the tone. Trends Neurosci 2004;27:262-269.   \n1.Yang J, Krishnamoorthy G, Saxena A, et al. An epilepsy/ dyskinesia-associated mutation enhances BK channel activation by potentiating Ca2 + sensing. Neuron 2010;66:871-883.   \n2.Czapinski P, Blaszczyk B, Czuczwar SJ. Mechanisms of action of antiepileptic drugs. Curr Top Med Chem 2o05;5:3- 14.   \n13.Brodie MJ, French JA. Management of epilepsy in adolescents and adults. Lancet 200o;356:323-329.   \n14.Duncan JS, Sander JW, Sisodiya SM, Walker MC. Adult epilepsy. Lancet 2006;367:1087-1100.   \n15.Cendes F. Progressive hippocampal and extrahippocampal atrophy in drug resistant epilepsy. Curr Opin Neurol 2005;18:173-177.   \n16.Avoli M, Louvel J, Pumain R, Kohling R. Cellular and molecular mechanisms of epilepsy in the human brain. Prog Neurobiol 2005;77:166-200.   \n17.Cohen I Navarro V, Le Duigou C, Miles R. Mesial temporal lobe epilepsy: a pathological replay of developmental mechanisms? Biol Cell 2003;95: 329-333.   \n18.Huberfeld G, Clemenceau S, Cohen I, et al. Epileptiform activities generated in vitro by human temporal lobe tissue. Neurochirurgie 20o8;54:148-158.   \n19.Huberfeld G, Menendez de la Prida L, Pallud J, et al. Glutamatergic pre-ictal discharges emerge at the transition to seizure in human epilepsy. Nat Neurosci 2011;14:627- 634.   \n20.Kohling R, Lucke A, Straub H, et al. Spontaneous sharp Waves in human neocortical slices excised from epileptic patients. Brain 1998;121(Pt 6):1073-1087.   \n21.Straub H, Kohling R, Hohling J, et al. Effects of retigabine on rhythmic synchronous activity of human neocortical slices. Epilepsy Res 2001;44:155-165.   \n22.Truccolo W, Donoghue JA, Hochberg LR, et al. Single-neuron dynamics in human focal epilepsy. Nat Neurosci 2011;14:635-641.   \n23.Avoli M, Hwa G, Louvel J, Kurcewicz I, Pumain R, Lacaille JC. Functional and pharmacological properties of GABA-mediated inhibition in the human neocortex. Can JPhysiol Pharmacol 1997;75:526-534.   \n24.Koch UR, Musshoff U, Pannek HW, et al. Intrinsic excitability, synaptic potentials, and short-term plasticity in human epileptic neocortex. J Neurosci Res 20o5;80:715- 726.   \n25.Loup F, Wieser HG, Yonekawa Y, Aguzzi A, Fritschy JM. Selective alterations in GABAA receptor subtypes in human temporal lobe epilepsy. J Neurosci 20oo;20:5401- 5419.   \n26.Cohen I, Navarro V, Clemenceau S, Baulac M, Miles R. On the origin of interictal activity in human temporal lobe epilepsy in vitro. Science 2002;298:1418-1421.   \n27.Huberfeld G,Wittner L, Clemenceau S, et al. Perturbed chloride homeostasis and GABAergic signaling in human temporal lobe epilepsy. J Neurosci 2007;27: 9866-9873.   \n28.Fisher RS, Blum D. Epilepsy surgery where there is dual pathology. Lancet 1999;354:267-268.   \n29.Miles J, Chadwick D. Surgery for temporal lobe epilepsy. Lancet 1989;1:161.   \n30.Sacko O, Sesay M, Roux FE, et al. Intracranial meningioma surgery in the ninth decade of life. Neurosurgery 2007;61:950-954; discussion 955.   \n31.Ni H, Huang L, Chen N,et al. Upregulation of barrel GABAergic neurons is associated with cross-modal plasticity in olfactory deficit. PLoS ONE 2010;5:e13736.   \n32.Ge R, Qian H, Wang JH. Physiological synaptic signals initiate sequential spikes at soma of cortical pyramidal neurons. Mol Brain 2011;4:19.   \n33.Ge R, Qian H, Chen N, Wang JH. Input-dependent subcellular localization of spike initiation between soma and axon at cortical pyramidal neurons. Mol Brain 2014;7:26.   \n34.Wang J-H. Short-term cerebral ischemia causes the dysfunction of interneurons and more excitation of pyramidal neurons. Brain Res Bull 2003;60:53-58.   \n35.Freund TF, Buzsaki G. Interneurons of the hippocampus. Hippocampus 1996;6:347-470.   \n36.Klausberger T, Somogyi P. Neuronal diversity and temporal dynamics: the unity of hippocampal circuit operations. Science 2008;321:53-57.   \n37.Lu W, Wen B, Zhang F, Wang JH. Voltage-independent sodium channels emerge for an expression of activity-induced spontaneous spikes in GABAergic neurons. Mol Brain 2014;7:38.   \n38.Wang J-H, Kelly PT. Ca2 + /CaM signalling pathway up-regulates glutamatergic synaptic function in non-pyramidal fast-spiking neurons of hippocampal CA1. J Physiol 2001;533:407-422.   \n39.Yang Z, Wang JH. Frequency-dependent reliability of spike propagation is function of axonal voltage-gated sodium channels in cerebellar Purkinje cells. Cerebellum 2013;12:862-869.   \n40.Chen N, Zhu Y,Gao X, Guan S,Wang J-H. Sodium channel-mediated intrinsic mechanisms underlying the differences of spike programming among GABAergic neurons. Biochem Biophys Res Commun 2006;346:281-287.   \n41. Chen N, Chen X, Wang J-H. Homeostasis established by coordination of subcellular compartment plasticity improves spike encoding. J Cell Sci 2008;121:2961-2971.   \n42.Yang Z, Gu E, Lu X, Wang JH. Essential role of axonal VGSC inactivation in time-dependent deceleration and unreliability of spike propagation at cerebellar Purkinje cells. Mol Brain 2014;7:1.   \n43.Wei J, Zhang M, Zhu Y, Wang JH. Ca2 $^ +$ -calmodulin signalling pathway upregulates GABA synaptic transmission through cytoskeleton-mediated mechanisms. Neuroscience 2004;127:637-647.   \n44. Zhang F, Liu B, Lei Z, Wang J. mGluR1,5 activation improves network asynchrony and GABAergic synapse attenuation in the amygdala: implication for anxiety-like behavior in DBA/2 mice. Mol Brain 2012;5:20.   \n45．Ascoli GA, Alonso-Nanclares L, Anderson SA, et al. Petilla terminology: nomenclature of features of GABAergic interneurons of the cerebral cortex. Nat Rev Neurosci 2008;9:557-568.   \n46.Freund TF. Interneuron Diversity series: Rhythm and mood in perisomatic inhibition. Trends Neurosci 2003;26:489-495.   \n47.Netoff TI,Clewley R, Arno S,Keck T,White JA. Epilepsy in small-world networks. J Neurosci 2004;24:8075-8083.   \n48.Wang JH, Wei J, Chen X, Yu J, Chen N, Shi J. The gain and fidelity of transmission patterns at cortical excitatory unitary synapses improve spike encoding. J Cell Sci 2008;121:2951-2960.   \n49.Yu J, Qian H, Chen N, Wang JH. Quantal glutamate release is essential for reliable neuronal encodings in cerebral networks. PLoS ONE 2011;6:e25219.   \n50.Yu J, Qian H, Wang JH. Upregulation of transmitter release probability improves a conversion of synaptic analogue signals into neuronal digital spikes. Mol Brain 2012;5:26.   \n51.Destexhe A, Mainen ZF, Sejnowski TJ. Kinetic methods of synaptic transmission, 2nd edn. Cambridge and London: MIT Press, 1998.   \n52.Hasselmo ME,Kapur A. Modeling of Large networks.Boca Raton, London, New York and Washington DC: CRC Press, 2001.   \n53.Engel J Jr. Excitation and inhibition in epilepsy. Can J Neurol Sci 1996;23:167-174.   \n54.Scharfman HE. The neurobiology of epilepsy. Curr Neurol Neurosci Rep 2007;7:348-354.   \n55.Traub RD, Pais I, Bibbig A, et al. Transient depression of excitatory synapses on interneurons contributes to epileptiform bursts during gamma oscillations in the mouse hippocampal slice. J Neurophysiol 20o5;94:1225- 1235.   \n56.Sebe JY, Baraban SC. The promise of an interneuron-based cell therapy for epilepsy. Dev Neurobiol 2011;71:107-117.   \n57.Thomas EA, Reid CA, Berkovic SF, Petrou S. Prediction by modeling that epilepsy may be caused by very small functional changes in ion channels. Arch Neurol 2009;66:1225-1232.   \n58.Sohal VS, Huguenard JR. Inhibitory interconnections control burst pattern and emergent network synchrony in reticular thalamus. J Neurosci 2003;23: 8978-8988.   \n59.Santhakumar V, Aradi I, Soltesz I. Role of mossy fiber sprouting and mossy cell loss in hyperexcitability: a network model of the dentate gyrus incorporating cell types and axonal topography. J Neurophysiol 2005;93: 437-453.   \n60.Shusterman V, Troy WC. From baseline to epileptiform activity: a path to synchronized rhythmicity in large-scale neural networks.PhysRev E Stat Nonlin Soft Matter Phys 2008;77:061911.   \n61.Lytton WW. Computer modelling of epilepsy. Nat Rev Neurosci 2008;9:626-637. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The following supplementary material is available for this article: ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Figure S1.The neurons and synapses in the seizure-onset cortices from intractable TLE patients are not sensitive to Valproate,a firstline medicine for epilepsy. Figure S2.The fast-spiking neurons in the slices from seizureonset cortices vs.control ones are recorded in our study. Figure S3.The morphological characteristics of inhibitory neurons from seizure-onset cortices vs.control ones are analyzed by imaging neurobiotin-labeled interneurons. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Figure S4.The composition and connection of pyramidal neurons and inhibitory neurons in the simulated networks. Figure S5.The quantitative measurements of seizure activities among pyramidal neurons in seizure-onset networks. Figure S6.The temporal and spatial activities of pyramidal neurons computationally simulated based on the features of inhibitory neurons recorded in the cortices from control individuals. Table S1.Clinical data for epilepsy patients who have received surgical operations. ",
+        "page_idx": 10
+    }
+]

@@ -1,0 +1,291 @@
+[
+    {
+        "type": "text",
+        "text": "强迫性特征在药物成瘾行为中的易感性及其前额叶-反奖赏系统神经基础",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "严万森　刘苏姣　张冉冉　徐鹏（贵州医科大学医学人文学院，贵阳，550025）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要强迫性是一种与不顾严重后果的固着行为密切相关的神经心理结构，大脑神经系统对强迫性行为的调控机制崩溃是导致药物成瘾的直接原因。以往研究对于奖赏系统(中脑-皮层-边缘神经环路)在成瘾行为中的作用及机制已经具有丰富的了解，但针对药物成瘾的强迫性特征本身以及前额叶-反奖赏系统神经环路在成瘾行为中的作用机制了解有限，尤其是缺乏对药物成瘾强迫性特征的系统考察、缺少遗传学研究以及非兴奋剂类药物的汇聚证据。项目拟结合人类成瘾行为的遗传学视角（海洛因成瘾者与其无药物使用的兄弟姐妹对照），结合神经认知、脑电生理、神经影像等不同层面的方法和技术，对药物成瘾强迫性的外在表征、神经生物学基础以及与个体差异有关的遗传易感性进行探索，期在进一步识别药物成瘾的神经生物标记，为探寻潜在的药物或非药物干预靶点提供更多证据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 药物成瘾，强迫性，反奖赏系统，前额叶皮层，边缘系统",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1研究背景及意义",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "药物成瘾是一种以强迫性寻求和使用药物并对用药失去控制为主要特征的慢性复发性脑疾病(Goldstein&Volkow,2002;Leshner,1997)。严重的药物成瘾行为一旦形成，除了某些可以采用药物替代治疗外，目前尚无确切的治疗方法。因此，探索与成瘾易感性有关的神经生物标记，并以此为基础开发针对性的药物或非药物干预技术，是成瘾研究领域的重要科学任务。强迫性(compulsivity)是一种与不顾严重后果的固着行为密切相关的神经心理结构，它是药物成瘾的核心特征(Dalley et al.,2011; Lüscher et al.,2020; Robbins et al.,2012)。药物成瘾的诊断标准中有多条与强迫性有关，比如，大量的时间被花费在与获得药物相关的活动上、虽然遭受严重的社会或人际问题但仍然继续使用药物、尽管反复持续地出现生理或精神问题但仍然继续使用药物等(American Psychiatric Association,2013)。研究发现，在使用成瘾性药物(如可卡因、海洛因、苯丙胺)的人群中，最终发展成强迫性用药或药物成瘾的比例约为 $20 \\%$ (Pascoli et al.,2018; Yücel et al., 2019)。这提示，形成强迫性药物使用和药物成瘾行为可能存在重要的个体易感机制(Agrawalet al.,2012;Everit et al.,2008;Koob&Volkow,2016)。近几十年来，集中在中脑边缘多巴胺系统(mesolimbic dopamine system)的成瘾研究表明，大脑奖赏系统(如腹侧被盖区、伏隔核等)的生理生化改变以及前额叶皮层下行抑制功能缺损在药物成瘾的发生发展中起着非常关键的作用(Goldstein&Volkow,2002,2011; Koob,2017;Koob&Le Moal,2005)。与此一致，奖赏缺陷、感觉寻求以及冲动性(impulsivity)被发现是药物成瘾的潜在个体易感素质和遗传风险因子(Comings&Blum，2000; Dalley et al.， 2007; de Wit， 2009; Ersche et al.， 2010，2011，2013;Verdejo-Garcia et al., 2008; Volkow et al., 2002; Volkow & Morales, 2015; Luijten etal.,2017)。这些证据对于药物使用行为的启动、维持以及个体对用药渴求和冲动失去控制给予了重要解释。然而，基于奖赏系统的理论假设及证据仍不足以完全揭示药物成瘾行为极其复杂的发生发展过程和神经生物机制，尤其是对于药物成瘾的强迫性特征本身及其机制了解不深(Janak,2018;Koob&Le Moal,2005)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一般而言，药物成瘾状态的出现遵循偶然性使用药物、习惯化药物使用再到强迫性药物使用的转变规律(Everitt etal.,2008)。在此过程中，药物使用者的行为模式也从奖赏驱动向习惯驱动逐渐转变，在神经解剖学上则表现为觅药行为的驱动控制由腹侧纹状体/伏隔核(ventral striatum/nucleus accumbens)逐渐向背侧纹状体(dorsal striatum)转移(Everitt & Robbins,2005,2013,2016; Gardner,2011)。因此从神经生物学角度看，大脑神经系统中正常调控个体习惯化或更加严重的强迫性行为的机制崩溃，是导致药物成瘾的直接原因。而深入探索与强迫性相关的个体遗传特质、神经系统结构功能、细胞分子机制，可为药物成瘾的核心机制解释、潜在干预靶点识别、针对性干预方法开发等提供基础(Koob,2017)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "反奖赏系统(anti-reward system)是最近十多年被提出来的重要概念，它被研究者认为在介导强迫性药物使用中起着关键作用(Koob&Le Moal,2005,2008;Koob&Volkow,2016;Koob,2017)。与奖赏系统主要基于正强化反馈的成瘾行为调控机制不同，反奖赏系统主要负责调控与负性情绪、应激反应、条件化以及习惯驱动有关的行动机制，其主要神经解剖基础是泛杏仁核(extended amygdala),包括杏仁核中央核(central nucleus of the amygdala)、终纹床核(bed nucleus of thestria terminalis)、伏隔核壳部(shell of the nucleus accumbens)等(Koob &Le Moal,2005,2008; Koob,2013,2017; Koob & Volkow,2016; Volkow & Morales, 2015)。这些区域具有相似的形态结构、神经递质及神经投射，接受大量的来自额叶皮层以及边缘结构(如杏仁核基底外侧、海马等)的神经输出，并向腹侧苍白球中间部分、下丘脑外侧等投射神经纤维，从而连接起边缘情绪系统(limbic emotionalstructures)和锥体束外运动系统(extrapyramidal motor system)。同时，这些区域可释放大量的与负性情绪体验和应激反应相关的神经递质，主要包括：促肾上腺皮质激素释放因子(corticotropin-releasing factor)、去甲肾上腺素(norepinephrine)、强啡肽(dynorphin)等。成瘾性药物使用者在停止用药或药物戒断之后，这些神经激素大量分泌，导致烦躁不安、焦虑易怒、快感缺失、应激反应增强或敏感性上升等系列负性情绪体验，从而驱使个体不断寻求和强迫性使用药物以解除不适感(Everitt & Robbins,2016; Koob & Volkow,2016; Volkow & Morales,2015)。由于成瘾性药物的奖赏效应主要集中凸显在药物使用的最初阶段，而随着药物使用进程的继续和迁延，个体对药物的耐受性不断增强，药物奖赏效应逐渐下降甚至消失(如阿片类药物)。因而，反奖赏系统产生的负性效应成为后期驱动个体维持强迫性用药的主要凸显动机。由此推断，药物成瘾的强迫性机制与反奖赏系统功能失调关系紧密。然而，反奖赏系统作为大脑皮层下位结构(位于基底前脑,basalforebrain)，除了有其自身的神经生理生化运作机制之外，还接受来自前额叶皮层的下行控制，成为额叶-纹状体环路(fronto-striatalcircuits)的重要组成部分。比如，背外侧前额叶(dorsolateral prefrontal cortex)、额下回(inferior frontal gyrus)及外侧眶额叶(lateralorbitofrontalcortex)到背侧纹状体(尾状核、壳核)环路负责调控行为抑制、刻板行动和强迫性行为，腹内侧前额叶(ventromedial prefrontal cortex)、眶额叶到腹侧纹状体/伏隔核、杏仁核中央核、终纹床核等环路负责调控奖赏评估、正负性情绪动机、厌恶体验以及应激反应等(Ch'ng etal.,2018;Haber,2003;Koob& Volkow, 2016; Krüger et al., 2015; Moorman, 2018; Robbins et al., 2012; Volkow& Morales,2015)。因此，药物成瘾强迫性特征的产生机制可能有三种途径：(1)反奖赏系统结构功能失调(神经生理生化功能亢进)；(2)前额叶皮层调控系统功能损伤(下行神经抑制功能衰弱)； (3)前两者叠加。目前，大多数研究者更倾向于认为药物成瘾的强迫性产生机制是源自反奖赏系统的负性效应亢进以及前额叶皮层调控系统的功能损伤这两方面的叠加(Koob,2017;Koob&Volkow,2016;Lischer et al., 2020; Volkow & Morales, 2015)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "然而，目前研究对于药物成瘾强迫性机制的具体发生发展过程、神经生物学基础以及与个体差异有关的遗传易感性等方面的了解有限(Janak,2018;Koob&Le Moal,2005;Volkow&Morales,2015)，尤其是大多数研究主要局限在实验动物模型、神经药理学及兴奋剂类成瘾药物(stimulant drug)等方面，较缺乏人类成瘾行为与遗传学、神经认知、神经影像学、非兴奋剂类药物等领域的汇聚证据(Justet al., 2019; Hynes et al., 2018; Koob & Volkow,2016; Luikinga et al., 2018; Pascoliet al.,2018)。鉴于此，本项目拟以人类非兴奋剂类药物(海洛因)成瘾为基本研究模式，结合遗传学方法(药物成瘾者与其无药物使用的一级亲属如兄弟姐妹间的对照)、神经认知与神经生理、神经影像学等不同层面的方法和视角，进一步探索强迫性特征在药物成瘾中的遗传易感性以及在前额叶-反奖赏系统环路方面的神经基础，期在为识别药物成瘾的关键生物标记提供更多的实证支持。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2国内外研究进展",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1强迫性的表现形式与测量方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "强迫性(compulsivity)的一般性定义是“与情境不适宜、与总体目标没有明显关系的固执行动倾向，常常会导致许多不可预期的负面后果\"(Dalley etal.,2011;Robbins et al.,2012)。具有强迫性特质的个体常常能够意识到他们的行为是有害的，但即使是这样他们依然为情绪所驱使而强迫性地实施某些行动，以便减少紧张感、应激或焦虑(Berlin&Hollander,2014)。强迫性的内涵覆盖了多种心理成份，如思维或行动刻板、策僵化、注意定势、抑制控制缺失、反转学习固着、抗拒改变、不恰当的坚持等(Robbins etal.,2012)。在测试强迫性行为倾向的实验动物模型上，研究者一般采用动物(如小鼠)不顾受到的生理惩罚(如足底电击)而宁愿去寻求药物奖赏(如可卡因)的实验模式来模拟人类的强迫性觅药和用药行为(Deroche-Gamonet et al.,2004;Vanderschuren& Everitt, 2004)。在人类强迫性行为特征的测量上，常用的标准化量表测试工具主要包括Yale-Brown 强迫量表(theYale-Brown Obsessive-Compulsive Scale, YBOCS; Goodman et al., 1989)、强迫性药物使用 量表(the Obsessive Compulsive Drug Use Scale,OCDUS; Franken et al.,2002)以及帕多瓦强迫量表(the Padua Inventory of Obsessive Compulsive DisorderSymptoms,PI-WSUR;Burns etal.,1996)等。其中，YBOCS 更加适用于具有强迫性障碍的患者群体，OCDUS主要针对于药物滥用群体，PI-WSUR则更加适用于一般性群体。在神经认知层面，强迫性被认为与前额叶皮层自上而下的认知控制或反应抑制能力缺损有关(Dalley etal.,2011;Koob& Volkow,2016)，常用的认知实验任务主要包括：反应抑制或抑制控制任务，如Go/No-Go、Stop Signal、Stroop任务等(Logan et al.,1997;Macleod,1991)；定势转换任务(set-shifting tasks)，如内/外维度切换任务(Intradimensional/Extradimensional set-shifting task, IDED; Grantet al.,2010)；认知灵活性或反转学习(reversal learning)任务，如威斯康星卡片分类任务(Wisconsin Card Sorting Task,WCST; Heaton& Staff,1993)、概率性反转学习任务(Probabilistic Reversal Learning Task, PRLT; de Ruiter et al.,2O09)。一般认为，反应抑制能力下降以及更多的反应固着(response perseveration)，是衡量个体的强迫性水平升高的核心神经认知指标(Leeman&Potenza,2012)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2药物成瘾者的强迫性特征及其遗传易感性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "尽管针对药物成瘾者强迫性特征本身的研究并不多见，但以执行功能或神经认知功能为主题的早期研究显示，可卡因、大麻、兴奋剂类药物和阿片类药物滥用者普遍存在抑制控制能力损伤(Bolla et al.,2004;Hester& Garavan,2004;Rogers＆Robbins,2001)。海洛因、可卡因等多种药物滥用者在 Stroop 认知抑制任务和卡片转换测验上均表现出严重的功能损伤(Verdejo-Garcia&Pérez-Garcia,2007)，并且认知转换功能损害程度与海洛因和可卡因使用年限呈正相关(Fernandez-Serrano etal.,2010)。研究还发现，可卡因和甲基苯丙胺等药物使用者在反转学习任务上表现出明显的反应固着(Ersche etal.,2008;Ersche& Sahakian,2007;Fillmore& Rush,2006; Soar et al.,2012)，但也有少量研究没有得出一致结果(Goldstein et al.,2004; Madoz-Gurpide et al.,2011)。元分析研究表明，海洛因、可卡因、大麻和甲基苯丙胺药物滥用者表现出抑制控制、认知灵活性、执行控制等多方面的神经认知功能缺陷(Cadet& Bisagno,2016; Lee et al.,2019;Manning etal.,2017)，提示与强迫性相关的神经认知功能缺陷可能是不同药物滥用者的共同特征。还有研究对药物滥用者与赌博成瘾者的反应固着进行了比较，发现两者在定势转换任务或卡片分类任务上表现出类似的固着倾向(Leeman&Potenza,2012)。尤其是，作为一种非药物成瘾行为，赌博障碍(gamblingdisorder)与多种强迫性相关的神经认知缺陷存在密切关联。元分析发现，赌博障碍者在测试强迫性的神经认知任务(认知灵活性、定势转换、注意偏差)上均表现出显著的功能减退(van Timmeren etal.,2018)，提示强迫性特征可能是成瘾行为的前驱性因素或潜在的内表型特质(Robbins et al.,2012;van Timmeren et al.,2018)。纵向追踪研究显示，儿童青少年时期的强迫性特征(低认知灵活性、不良的反应抑制能力等)可以预测个体成长后期的药物成瘾行为，包括大麻、酒精、非法药物等物质使用障碍(Latvala et al.,2016; Meier et al.,2018;Nigg et al.,2006)。这些研究提示，尽管强迫性的认知成份较为宽泛，但探索它在药物成瘾中的易感性机制具有重要意义(Fineberg et al., 2014; Luciano, 2016; Yücel & Fontenelle, 2012)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在遗传易感性方面，家族研究或双生子研究发现，兴奋剂类药物(可卡因、苯丙胺)成瘾者及其未使用成瘾药物的同胞兄弟姐妹(siblings)在 Stop Signal反应抑制任务上的表现与正常对照组相比显著下降(Ersche etal.,2012a,2012b)，且在动作控制及奖赏预期相关的神经环路(包括内侧前额叶、眶额叶、前扣带回、背侧纹状体/壳核)上表现出明显的结构功能异常(Just etal.,2019)，提示反应抑制能力缺陷可能是药物成瘾行为的潜在遗传易感因子或内表型。此外，静息态功能连接(resting-state functional connectivity)研究发现，药物成瘾行为的家族遗传风险主要表现为眶额叶、腹内侧前额叶等到尾状核的功能连接减退(该神经环路主要调控目标导向的决策及行动)，而对药物滥用的抵抗力(resilience)则主要与外侧前额叶到尾状核以及辅助运动区、内侧前额叶到壳核的功能连接增强有关(这两个神经环路主要调控自上而下的抑制控制和习惯)(Ersche etal.,2020)。这进一步表明，与强迫性相关的抑制控制神经环路功能在药物成瘾的发生发展中具有重要作用。原位基因表达检测和遗传学分析显示，与反应抑制及动作控制功能有关的背侧纹状体、眶额叶、背外侧前额叶、前扣带回等部位的多巴胺2型受体(D2R)基因表达减少，可能是强迫性使用成瘾药物(包括酒精、海洛因、可卡因、甲基苯丙胺等)的重要遗传易感因子(Everitt et al.,2008; Goldman et al.,2005;Volkow et al.,2011)；而在背侧纹状体、伏隔核、海马、前额叶皮层等部位，编码突触蛋白III的 Syn3基因相对表达减少，是实验动物在反转学习任务上功能损伤或高强迫性的重要遗传机制(Egervari etal.,2018)。另外，与认知抑制及执行功能相关的儿茶酚胺氧位甲基转移酶基因(COMT)的表观遗传变化，也与强迫性用药行为有密切关系(Agrawal et al.,2012;Kwako et al.,2018)。研究还提示，前额叶、眶额叶、杏仁核中央核、基底外侧杏仁核、背侧纹状体、伏隔核等多个脑区的基因表观遗传变化(如组蛋白修饰、DNA 甲基化、非编码RNA)与阿片类药物成瘾行为紧密相关(Browne etal.,2020)。但从整体上看，在与药物成瘾强迫性有关的神经认知特征及其遗传易感性等方面，目前的研究了解仍然较为有限，因而还需要更加系统和深入的进一步探索(Lee etal.,2019)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3前额叶-反奖赏系统环路与强迫性",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从神经系统的功能特点看，药物成瘾者的强迫性特征主要源自认知下行控制(cognitive top-down control)或反应抑制(response inhibition)功能缺损(Dalley et al.,2011)，而这种功能缺损与前额叶皮层到反奖赏系统的投射功能失调有关(Koob&Volkow,2016)。比如，前额叶到尾状核及腹侧纹状体的谷氨酸能投射(glutamatergic projections)可以直接或间接地发挥动机调控和行为调节作用(Chudasama&Robbins,2006)，而前额叶皮层的γ-氨基丁酸能(GABAergic)活动紊乱则可能会导致工作记忆、自我调节、抑制控制等相关执行功能障碍(George et al.,2012;Volkow etal.,2011)。神经影像学研究表明，不同药物成瘾者的强迫性特征(如反应抑制不足、反应固着倾向、低灵活性)与背外侧/腹外侧前额叶、背侧前扣带回、右侧额下回等区域的激活减少具有密切关系，而与药物相关的情绪问题、强迫行动则与内侧眶额叶及腹侧前扣带回等有关(Goldstein&Volkow,2011;Smith&Laiks,2018)。动物研究发现，背内侧纹状体、基底外侧杏仁核与强迫性觅药行为有关(Ostlund&Balleine,2008)，而前边缘皮层(prelimbic cortex，类似于人类的背外侧前额叶)则与动物对觅药行为的抑制功能有关(Mihindou et al.,2013)。在与抑制控制相关的认知任务上(如Go/No-Go、Stop Signal)，相对明确的神经环路包括：位于背内侧前额叶的前辅助运动区(pre-supplementary motorarea,pSMA)、位于腹外侧前额叶的右侧额下回、背侧纹状体(壳核、尾状核)(Morein-Zamir&Robbins,2015)。在其他任务上，概率性反转学习与外侧眶额叶到腹侧纹状体的神经环路有关，而注意转换能力与背外侧前额叶到腹侧纹状体的环路有关(Morris etal.,2016)。此外，外侧眶额叶到杏仁核中央核、终纹床核的神经环路与不愉快的情绪激活以及应激反应关系密切，进而与强迫性用药行为有关(Moorman,2018; Sinha et al.,2016; Smith&Laiks,2018)。总体上看，药物成瘾的强迫性机制与前额叶-反奖赏系统神经环路的功能密不可分，但其微观机理及遗传易感性还缺乏系统的研究检验和印证。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4本项目的研究切入点",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "如前所述，为了从更多元的视角来解答药物成瘾中强迫性特征的遗传易感性以及在前额叶-反奖赏系统环路方面的神经生物机制这一重要科学问题，本项目拟从人类非兴奋剂类药物(海洛因)成瘾行为切入，结合遗传学(药物成瘾者与其无药物使用的一级亲属如兄弟姐妹的对照)、神经认知与神经生理(神经认知功能测试及事件相关电位)、神经影像学(功能性磁共振成像)等不同层面证据，深入探索强迫性在药物成瘾行为中的作用及其前额叶-反奖赏系统机制： (1)从神经认知功能角度，比较海洛因成瘾者、海洛因成瘾者的健康的一级亲属(无药物使用的兄弟姐妹)与正常对照组在强迫性特质方面的差异，包括强迫性行为倾向、抑制控制能力、认知灵活性等维度；(2)在神经生理方面，通过测试前述三组被试在执行反应抑制任务与认知灵活性任务时的认知事件相关电位(event-relatedpotentials,ERPs)的变化规律，考察与强迫性特征密切相关的额叶电极位点(如N200、P300)的脑电特征及其易感性情况；(3)采用结构性与功能性神经影像技术(functionalMagnetic Resonance Imaging,fMRI)，结合相关的抑制控制任务、认知灵活性任务、负性情绪反应或应激任务，分析比较前述三组被试在前额叶-反奖赏系统环路方面(如外侧眶额叶-背侧纹状体、内侧眶额叶-腹侧纹状体/杏仁核中央核)的结构与功能变化情况，探索药物成瘾强迫性机制的遗传易感性及神经生物基础，以期为识别药物成瘾关键生物标记提供支持。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3研究构想",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1研究一海洛因成瘾者在神经认知上的强迫性及其遗传易感规律",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "已有研究提示，不同的药物成瘾人群在强迫性特征(比如抑制控制、认知灵活性)方面可能存在异常表现(Lee etal.,2019)，但对其主要外在表征及遗传易感性还缺乏系统的考察。本研究旨在从神经认知方面比较海洛因成瘾者、海洛因成瘾者的健康的一级亲属(无药物使用的兄弟姐妹)与正常对照组在强迫性特征上的共同性和差异性表现，以便进一步揭示强迫性特征在药物成瘾中的遗传易感性规律(Ersche et al.,2020)。在本省强制隔离戒毒机构、社区戒毒康复中心进行抽样，选取 $6 0 { \\sim } 8 0$ 名已经生理脱毒的海洛因成瘾者。另外，通过家庭探视、回访等途径，选取 $6 0 { \\sim } 8 0$ 名海洛因成瘾者的无药物使用的兄弟姐妹；同时，在社区人群中选取60\\~80 名在性别、年龄、教育等方面相匹配的正常被试进行神经认知实验。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "入组标准：(1)海洛因成瘾者：符合DSM-5中的阿片类药物使用障碍的诊断标准(Structured Clinical Interview for DSM-5, SCID-5-CV; First et al., 2016)，由一名临床精神病学医生及一名经过培训的临床心理学工作者负责筛查诊断。被试年龄一般介于 $1 8 { \\sim } 5 0$ 岁(Yan etal.,2014)，具有小学毕业或初中以上教育程度，能够完成相关的认知任务操作，视力或矫正视力正常；无其他成瘾性药物滥用情况(如可卡因、冰毒、摇头丸、麻古、氯胺酮等)、无酒精滥用或依赖情况、无脑外伤、神经疾病或精神疾病史；参与实验前一周内未服用影响神经认知功能的医学药物；鉴于实际的共患情况，允许有吸烟行为； (2)海洛因成瘾者的无药物使用的兄弟姐妹：身体健康，从未使用海洛因或任何其他成瘾性药物(如可卡因、冰毒、摇头丸、麻古、氯胺酮等)，无酒精滥用或依赖情况、无脑外伤、神经疾病或精神疾病史；参与实验前一周内未服用影响神经认知功能的医学药物；不排除有吸烟行为；年龄介于18\\~50岁，具有小学毕业或初中以上教育程度，能够完成相关的认知实验任务，视力或矫正视力正常；(3)正常对照组：来自普通社区的居民或其他工作场所的健康人群，在人口学特征上与前两组严格匹配，年龄介于$1 8 { \\sim } 5 0$ 岁，具有小学毕业或初中以上教育程度；无任何非法药物使用经历，无酒精滥用或依赖情况，无脑外伤、神经疾病或精神疾病史；参与实验前一周内未服用影响神经认知功能的医学药物；不排除有吸烟行为；视力或矫正视力正常，能够完成相关认知实验任务。本研究严格遵循人类实验的相关伦理原则，所有被试都基于知情同意书自愿参加研究，项目组提供一定的实验报酬。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "另外，采用抑郁自评量表(SDS)、焦虑自评量表(SAS)等评估情绪症状，以便适当控制或排除情绪问题对实验任务操作成绩以及各组间对比分析的干扰。强迫性特征的评估：(1)使用 Stop-Signal反应抑制任务(Logan et al.,1997)和 Stroop 颜色-字词冲突抑制任务(Macleod,1991)测试被试的抑制控制能力；(2)使用维度切换任务(IDED,Grant etal.,2010)以及概率性反转学习任务(PRLT,de Ruiter et al.,2009)测试被试的认知灵活性或反应固着。一般认为，反应抑制下降或反应固着上升，是衡量个体高强迫性水平的核心神经认知指标。另外，采用帕多瓦强迫量表(PI-WSUR,Burns etal.,1996)测试各组被试的强迫性人格特质。除了一般人口学情况及PI-WSUR量表外，所有认知任务都在计算机上实施。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2研究二 海洛因成瘾者及其无药物使用的一级亲属的强迫性：ERPs研究",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "为了在神经生理方面探寻与海洛因成瘾强迫性特征相关的遗传生物标记，本研究采用事件相关电位(event-related brain potentials,ERPs)实验技术，测试海洛因成瘾者、海洛因成瘾者的健康的一级亲属(无药物使用的兄弟姐妹)以及正常对照组在执行反应抑制任务(Go/No-Go task)与认知灵活性任务(PRLT)时的脑电生理特征。参考以往研究(Campanella et al.,2014; Litel et al., 2012; Luijten et al.,2014),脑电采集部位为额叶电极位点,主要指标为N200、P300 的振幅(amplitudes)和潜伏期(latencies)。三组被试各30\\~40人，入组标准同前。实验程序：被试坐在安静的电子屏蔽的实验室内，位于电脑屏幕正前方约 $6 0 \\mathrm { c m }$ ，进行认知任务。电脑上随机呈现间隔约 $3 0 0 \\mathrm { m s }$ 的视觉图形刺激，比如，“圆形o\"或\"正方形□”,被试被告知出现\"o\"要快速按键(Go trial，约 $7 5 \\%$ )，而出现\"\"不要按键(No-Gotrial，约 $2 5 \\%$ )，实验前设置练习阶段。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "实验任务:(1)反应抑制任务(Go/No-Go task):参考已有的研究范式(Kim et al.,2017)，采用视觉图形刺激o\"(Go trial,450 次, $7 5 \\%$ )和\"□\"(No-Go trial,150 次,$2 5 \\%$ )，考察与反应抑制(No-Go)相关的N200 和P300 峰振幅和潜伏期变化。N200相关的感兴趣区包括前额F1、Fz、F2和中央C1、Cz、C2等电极位点，P300 相关的感兴趣区包括顶叶P1、Pz、P2和中央C1、Cz、C2等电极位点；(2)认知灵活性任务(PRLT)：采用经典实验范式(de Ruiter et al.,2009)，呈现成对的命名物件图片(比如，汽车VS领带)，被试需在二者之间进行选择(约 $3 0 0 { \\sim } 6 0 0 ~ \\mathrm { m s } )$ ，随之呈现选择正性奖励或负性损失结果(比如，选择汽车赢得175点)，当被试形成\"刺激-结果\"联结时(正确率 $90 \\%$ 以上)，实验程序将图片(如汽车)与结果(如奖励175点)之前的联结逆转，被试再选汽车则损失150点，以考察被试需要尝试多少次错误才能习得新规则(反转学习)，用作衡量个体认知灵活性水平或强迫性程度的指标。一般认为，源自前扣带回(ACC)、与损失反馈相关的反馈负波(feedback-related negativity,FRN，刺激后约 $2 5 0 { \\sim } 3 0 0 ~ \\mathrm { m s } )$ 与个体反转学习成功有关(Chase et al., 2011; Luijten et al.,2014)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3研究三海洛因成瘾者的强迫性与前额叶-反奖赏系统机制：fMRI研究",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "为了进一步探索药物成瘾强迫性特征的神经生物基础，本研究采用结构性与功能性神经影像技术(MRI&fMRI)，比较海洛因成瘾者、海洛因成瘾者的健康的一级亲属(无药物使用的兄弟姐妹)与正常对照组在执行负性情绪激活任务与抑制控制任务时，在前额叶皮层-反奖赏系统神经环路的结构功能变化。三组被试各 $3 0 { \\sim } 4 0$ 人，入组标准同前。实验任务采用项目组已建立的反应抑制任务(Go/No-Go task)和负性情绪激活任务(即模拟社会排斥任务，Analogic SocialExclusion Task,ASET)fMRI实验程序。认知实验任务程序：(1)Go/No-Go task:被试在实验中需要对两种不同颜色(蓝色、绿色)的长方形(横向或竖向)图片进行按键反应，蓝色长方形(不管横向或竖向)作为 $\\mathrm { G o \\ t r i a l { ( 7 5 \\% , 3 0 0 \\% ) } }$ ，绿色长方形(不管横向或竖向)是No-Go trial( $2 5 \\%$ ,100 次)，每个刺激各呈现 $1 2 0 0 \\mathrm { m s }$ ，刺激呈现前有提示符号 $^ { 6 6 } + ^ { 3 9 } ($ 持续约 $1 0 0 0 { \\sim } 1 8 0 0 \\mathrm { m s } )$ ，按键后呈现空白刺激(持续约1000\\~1800ms)。Go trial 和 No-Go trial两类刺激通过伪随机的方式呈现，实验前设置练习阶段；(2)Analogic SocialExclusion Task：该任务是借鉴经典社会排斥实验范式(Eisenberger etal.,2003)改编而来，旨在通过模拟社会排斥程序启动被试的情绪不适感(social affective distress)或社会应激(social stress)反应，可以显著诱发右侧腹侧前额叶(ventral prefrontal cortex,vPFC)、眶额叶(OFC)、背侧前扣带回(dACC)、杏仁核中央核(CeA)等脑区激活，用以探测前述三组被试在前额叶皮层-反奖赏系统神经环路上的功能改变情况。在该任务中，被试需要在配对人物游戏情境中进行一系列选择(两个阶段：社会接纳/socialinclusion、社会拒绝/socialexclusion)。在社会接纳阶段，选择任何一张卡片(A、B、C、D)都会得到对方(计算机程序模拟的男性或女性人物)的积极回应(比如，翻开卡片A会得到虚拟金钱奖赏反馈/送红包，翻开卡片B会得到鼓励喝彩积极反馈)；在社会拒绝阶段，选择四类卡片时有 $7 5 \\%$ 的概率获得消极回应(随机化处理，不限于某一种卡片)，包括虚拟金钱损失、鄙夷表情、喝倒彩、拒绝动作等。被试在大脑扫描结束后，立即完成自评心理不适感测试(socialaffective distress)，问题是在游戏中自己感受到的社会拒绝的等级(Likert7点量表，等级越高代表越不舒服)，比如，“我感觉自己被拒绝(I felt rejected)”、“我感觉自己被忽视(I felt invisible)\"等等(具体参见Eisenberger et al., 2003)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "采用基于纤维束示踪的空间统计(Tract-Based Spatial Statistics,TBSS)方法比较各组的白质纤维束密度(衡量指标 Fractional Anisotropy,FA)，采用基于体素的形态学分析(Voxel-Based Morphometry,VBM)方法比较各组在感兴趣区(ROI)的大脑灰质密度差异，并重点分析各组在感兴趣区的差异，ROI的选择参照前额叶皮层-反奖赏系统神经环路对应的脑区，包括：背外侧前额叶(dIPFC)、前扣带回(ACC)、额下回(IFG)、腹内侧前额叶(vmPFC)、眶额叶(OFC)、腹侧纹状体(伏隔核)、背侧纹状体(尾状核、壳核)、杏仁核中央核(CeA)、终纹床核(BNST)等。采用事件相关的fMRI实验设计，在被试进行认知任务的同时进行磁共振成像扫描，分析各组在感兴趣区的激活程度差异。另外，采用帕多瓦强迫量表(PI-WSUR;Burns etal.,1996)测试三组被试的强迫性人格倾向，分析感兴趣区的激活程度与PI-WSUR得分的相关，探索强迫性的遗传生物标记。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4预期结果与理论建构",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "围绕强迫性特征在药物成瘾中的遗传易感性及其在前额叶-反奖赏系统环路上的神经生物基础这一核心问题，本项目从非兴奋剂类药物(海洛因)成瘾切入，采取家族遗传学研究视角(药物成瘾者与其无药物使用的一级亲属对照)，综合神经认知、神经生理、神经影像等不同层面的实验技术，期在进一步探索药物成瘾的神经生物标记，为识别潜在的干预靶点提供基础(Severino&Evans,2019)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "我们预期，在神经认知层面(研究一)，海洛因成瘾者可能会在反应抑制任务(如 Stop-Signal)上表现出一定的抑制功能损伤(Su et al.,2020),类似于其他药物成瘾人群(Liu etal.,2019)，同时也可能会在反转学习任务(如Probabilistic ReversalLearning Task)上表现出更高的反应固着倾向(杨玲等,2018)。尽管尚无证据表明海洛因成瘾者的健康的一级亲属(无药物使用的兄弟姐妹)在强迫性相关的反应抑制任务或认知灵活性任务上存在功能缺陷，但参考已有的关于兴奋剂类药物成瘾者及其健康的一级亲属的有力研究证据(Ersche etal.,2012a,2020)，我们预测在本研究中海洛因成瘾者的无药物使用的兄弟姐妹也可能会表现出某种程度的反应抑制下降或反应固着倾向，提示强迫性特征在药物成瘾行为中的潜在遗传易感性风险(Lee etal.,2019)。在脑电生理层面(研究二)，海洛因成瘾者可能会在反应抑制任务(如Go/NoGo)上表现出与抑制控制有关的脑电成份(N200、P300)的潜伏期和波幅异常(Su etal.,2017；郑志灵等,2020)，且可能会在反转学习任务(如Probabilistic ReversalLearning Task)上表现出与反应固着相关的反馈负波(FRN)成份的潜伏期和波幅异常(Rieseletal.,2019)。尤其是，这些脑电成份作为药物成瘾的潜在神经生理标记(Habelt etal.,2020)，它们的某些异常也预计会出现在海洛因成瘾者的无药物使用的兄弟姐妹群体中。在神经影像层面(研究三)，我们预期海洛因成瘾者在反应抑制任务(Go/No-Go Task)上会表现出明显的抑制控制神经环路异常，比如背外侧前额叶(dIPFC)、背侧前扣带回(dACC)、右侧额下回(rIFG)的激活减少以及背侧纹状体(尾状核、壳核)的过度活跃(Zilverstand et al.,2018),而在负性情绪激活任务(Analogic Social Exclusion Task)上则会表现出腹侧前额叶(mPFC)、眶额叶(OFC)等区域的激活程度下降以及腹侧纹状体/伏隔核、杏仁核中央核(CeA)激活增加。这些假设证据一定程度上可以表征出海洛因成瘾者在前额叶皮层-反奖赏系统环路的功能变化情况，我们还期望在神经结构方面得到直接的印证(比如，上述感兴趣区的白质纤维束密度及灰质密度的异常改变)。同时，通过将海洛因成瘾者、海洛因成瘾者的无药物使用的兄弟姐妹与健康对照组在前额叶皮层-反奖赏系统环路上的结构功能进行同维度对照，我们期望能发现与强迫性特征密切相关的具有家族易感性的神经影像标记(Ersche etal.,2020)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "基于以上预期研究结果，本项目试图初步建构强迫性特征以及前额叶皮层-反奖赏系统神经环路在药物(海洛因)成瘾行为中的易感性调控模型。主要构想：(1)类似于赌博障碍及其他药物成瘾行为的相关研究结果(Leeetal.,2019;vanTimmerenetal.,2018)，与强迫性特征有关的神经认知方面的功能缺陷或不足(如抑制控制、定势转换、反转学习等)可能是海洛因成瘾行为的潜在标记，即作为一种家族易感性风险因素，这些缺陷不仅存在于已表现出药物成瘾障碍的人群中，还可能会出现在其无药物使用的健康的一级亲属中(Ersche et al.,2020)；(2)在神经机制上，主要脑电成份 N200、P300、FRN 的异常(Habelt et al.,2020)，以及前额叶皮层-反奖赏系统环路的结构功能异常(比如，背外侧前额叶/dIPFC、背侧前扣带回/dACC、右侧额下回/rIFG到背侧纹状体/Dorsal Striatum的认知控制环路，腹侧前额叶/mPFC、眶额叶/OFC 到杏仁核中央核/CeA 的情绪调控环路)，可能是药物成瘾中强迫性特征及其遗传易感性的神经基础(Lüscher et al.,2020)。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "杨玲，蔡雨彤，曹华，雍琳，苏红婷，姚东伟.(2018).物质成瘾及其戒除：基于反转学习的视角．心理科学， 41(1),231-236.   \n郑志灵，王鹏飞，苏得权，郭伟杰，孙楠，麻彦坤，曾红.(2020).不同相关线索下海洛因成瘾者的反应差异 及反应抑制特征：来自 ERP 的证据．心理学报,52(3),317-328.   \nAgrawal, A.， Verweij,K. J. H., Gilespie,N.A., Heath,A. C.,Lessov-Schlaggar,C.N.,Martin,N.G.,...& Lynskey, M. T. (2O12). The genetics of addiction-a translational perspective. Translational Psychiatry,2(7), e140.   \nAmerican Psychiatric Association. (2013).Diagnostic and statistical manual of mental disorders ( $5 ^ { \\mathrm { t h } }$ ed.). https://d oi.org/10.1176/appi.books.9780890425596.   \nBerlin,G. S.,& Hollander,E. (2014). Compulsivity,impulsivity,and the DSM-5 process.CNS Spectrums,19(1), 62-68.   \nBolla,K.,Erst,.,Kiehl,K.,ouratidis,.,Edreth,D,Contoreggi,C.,.&Funderburk,F.(4).refrotal cortical dysfunction in abstinent cocaine abusers. The Journal of Neuropsychiatry and Clinical Neurosciences,16(4),456-464.   \nBrowne，C.J.，Godino，A.，Salery，M.，& Nestler，E.J. (202O).Epigenetic mechanisms of opioid addiction. Biological Psychiatry,87(1),22-33.   \nBurns,G.L., Keortge,S.G.,Formea,G.M.,& Sternberger,L. G. (1996).Revision of the Padua Inventory of obsessive compulsive disorder symptoms: Distinctions between worry,obsessons,and compulsions. Behaviour Research and Therapy,34(2),163-173.   \nCadet, J.L.,& Bisagno, V. (20l6). Neuropsychological consequences of chronic drug use: Relevance to treatment approaches. Frontiers in Psychiatry,6,189.   \nCampanell,S.,Pogarel,O.,&Boutros,N.(O14).Event-related potentials insubstance use disorders: Anarrative review based on articles from 1984 to 2012. Clinical EEG and Neuroscience,45(2), 67-76.   \nChase,H.W.，Swainson,R.，Durham,L.,Benham,L.,& Cools,R.(2011).Feedback-related negativity codes prediction error but not behavioral adjustment during probabilistic reversal learning.Journal of Cognitive Neuroscience,23(4), 936-946.   \nCh'ng,S.,Fu,J.,Brown,R.M.,McDougall,S.J.,&Lawrence,A.J. (2018).The intersection of stressand reward: BNST modulation of aversive and appetitive states.Progress in Neuro-Psychopharmacology and Biological Psychiatry, 87(12), 108-125.   \nChudasama,Y.，& Robbins，T.W. (2006).Functions of frontostriatal systems in cognition: Comparative neuropsychopharmacological studies in rats, monkeys and humans. Biological Psychology,73(1),19-38.   \nComings，D.E.，& Blum，K. (200o).Reward deficiency syndrome: Genetic aspects of behavioral disorders.Progressin BrainResearch,126(1),325-341.   \nDalley,J.W.，EverittB.J.，& Robbins,T. W.(2011). Impulsivity，compulsivity，and top-down cognitive control. Neuron,69(4),680-694.   \nDalley,J.W.,Fryer,T.D,Brichard,L.,Robinson,E.S.J.,Theobald,D.E.H.,Laane,K.,..&Robbins,T.W. (2007).Nucleus accumbens D2/3 receptors predict trait impulsivity and cocaine reinforcement. Science, 315(5816), 1267-1270.   \nDeroche-Gamonet，V.，Belin，D.，& Piazza，P.V.(2004).Evidence for addiction-like behavior in the rat. Science,305(5686),1014-1017.   \nde Ruiter,M.B., Veltman,D.J., Goudriaan,A.E., Oosterlaan,J.，Sjoerds,Z.,& Van Den Brink,W.(2009). Response perseveration and ventral prefrontal sensitivity to reward and punishment in male problem gamblers and smokers. Neuropsychopharmacology,34(4),1027-1038.   \nde Wit,H. (2009). Impulsivity as a determinant and consequence of drug use: A review of underlying processes. Addiction Biology,14 (1),22-31.   \nEgervari, G.，Ciccocioppo,R.,Jentsch,J.D.,& Hurd,Y.L.(2018). Shaping vulnerability to addiction: The contribution of behavior， neural circuits and molecular mechanisms.Neuroscience and Biobehavioral Reviews,85(2),117-125.   \nEisenberger,N.I.,Lieberman,M.D.,& Williams,K.D.(2003).Does rejection hurt? An FMRI studyof social exclusion. Science,302(5643),290-292.   \nErsche,K.D.,Barnes,A.,Jones,P.S., Morein-Zamir,S.,Robbins,T.W.,& Bullmore,E.T. (2011).Abnormal structure of frontostriatal brain systems is associated with aspects of impulsivity and compulsivity in cocaine dependence.Brain,134(7),2013-2024.   \nErsche,K.D.,Jones,P.S.,Willams,G.B.,Smith,D.G.,Bullmore,E.T.,&Robbins,T.W.(2013).Distinctive personality traits and neural correlates associated with stimulant drug use versus familial risk of stimulant dependence. Biological Psychiatry,74(2),137-144.   \nErsche,K.D.,Jones,P.S.,Williams,G.B.,Turton,A.J.,Robbins,T.W.,& Bullmore,E.T.(2012a).Abnormal brain structure implicated in stimulant drug addiction. Science,335 (6068), 601-604.   \nErsche,K.D.,Meng,C., Ziauddeen,H.,Stochl,J.,Willams,G.B.,Bullmore,E.T.,&Robbins,T.W. (2020). Brain networks underlying vulnerability and resilience to drug addiction. Proceedings of the National Academy of Sciences of the United States of America,117(26),15253-15261.   \nErsche,K.D.,Roiser,J.P.，Robbins,T.W.，& Sahakian,B.J.(2008).Chronic cocaine but not chronic amphetamine use is associated with perseverative responding in humans. Psychopharmacology，197(3), 421-431.   \nErsche，K.D.，& Sahakian，B.J. (2007). The neuropsychology of amphetamine and opiate dependence: implications for treatment. Neuropsychology Review,17(3),317-336.   \nErsche,K.D.,Turton,A.J.,Chamberlain,S.R.,Muller,U.,Bullmore,E.T.,&Robbins,T.W. (2012b). Cognitive dysfunction and anxious-impulsive personality traits are endophenotypes for drug dependence. The American Journal of Psychiatry,169(9),926-936.   \nErsche,K.D.，Turton，A.J.，Pradhan，S.，Bullmore，E.T.，& Robbins，T.W.(2010).Drug addiction endophenotypes: Impulsive versus sensation-seeking personality traits. Biological Psychiatry, 68(8),770-773.   \nEveritt,B.J.,Belin,D.,Economidou,D.,Pelloux,Y.,Dalley,J.W.,&Robbins,T.W.(2Oo8).Neural mechanisms underlying the vulnerability to develop compulsive drug-seeking habits and addiction.Philosophical Transactions of the Royal Society ofLondon B: Biological Sciences,363(1507),3125-3135.   \nEverittB.J.,& Robbins,T.W. (2005). Neural systems of reinforcement for drug addiction: From actions to habits to compulsion. Nature Neuroscience, 8(11),1481-1489.   \nEveritt,B.J.,& Robbins,T.W.(2013).From the ventral to the dorsal striatum: Devolving views of their roles in drug addiction. Neuroscience and Biobehavioral Reviews,37(9),1946-1954.   \nEveritt,B.J.，& Robbins,T.W.(2016).Drug addiction: Updating actions to habits to compulsions ten years on. Annual Review of Psychology, 67(1),23-50.   \nFernandez-Serrano，M.J.，Perez-Garcia，M.，Schmidt Rio-Valle，J.，&Verdejo-Garcia，A.(2010). Neuropsychological consequences of alcohol and drug abuse on diffrent components of executive functions.Journal of Psychopharmacology,24(9),1317-1332.   \nFillmore,M.T.,& Rush, C.R.(2o06).Polydrug abusers display impaired discrimination-reversal learning in a model of behavioural control. Journal of Psychopharmacology,20(1),24-32.   \nFineberg,N.A.，Chamberlain,S.R.,Goudriaan,A.E.,Stein,D.J.,Vanderschuren,L.J., Gilln,C.M.，...& Potenza, M. N. (2014). New developments in human neurocognition: Clinical, genetic, and brain imaging correlates of impulsivity and compulsivity. CNS Spectrums,19(1),69-89.   \nFirst,M. B.,Williams,J. B., Karg,R.S.,& Spitzer,R.L. (2016). User's guide for the SCID-5-CV Structured Clinical Interview for DSM-5? disorders: Clinical version. Washington, DC: American Psychiatric Publishing, Inc..   \nFranken,I.H.,Hendriks,V.M.,& van den Brink,W. (2oo2). Initial validation of two opiate craving questionnaires: The Obsessive Compulsive Drug Use Scale and the Desires for Drug Questionnaire. Addictive Behaviors, 27(5), 675-685.   \nGardner,E.L. (2O11). Introduction: Addiction and brain reward and anti-reward pathways. Advances in Psychosomatic Medicine,30(30),22-60.   \nGeorge,O.,Sanders,C.,Freiling,J.,Grigoryan,E., Vu,S.,Allen, C.D.,..& Koob, G.F. (2012). Recruitmentof medial prefrontal cortex neurons during alcohol withdrawal predicts cognitive impairment and excessive alcohol drinking. Proceedings of the National Academy of Sciences of the United States of America，109(44), 18156-18161.   \nGoldman,D., Oroszi, G.,& Ducci,F. (2005). The genetics of addictions: Uncovering the genes. Nature Reviews Genetics,6(7),521-532.   \nGoldstein,R. Z.,Leskovjan,A. C., Hoff,A.L.,Hitzemann,R., Bashan,F., Khalsa,S.S.,..& Volkow,N.D. (2004). Severity of neuropsychological impairment in cocaine and alcohol addiction: Association with metabolism in the prefrontal cortex. Neuropsychologia, 42(11),1447-1458.   \nGoldstein,R. Z.,& Volkow,N. D. (2002). Drug addiction and its underlying neurobiological basis: Neuroimaging evidence for the involvement of the frontal cortex.American Journal ofPsychiatry,159(10),1642-1652.   \nGoldstein,R. Z.,& Volkow,N.D. (2011). Dysfunction of the prefrontal cortex in addiction: Neuroimaging findings and clinical implications. Nature Reviews Neuroscience,12(11),652-669.   \nGoodman, W.K., Price,L.H.,Rasmussen, S.A.,Mazure, C.,Fleischmann,R.L.,，Hil, C.L,..& Charey,D.S. (1989). The Yale-Brown Obsessve Compulsive Scale: I. Development,use,and reliability.Archives of General Psychiatry,46(11),1006-1011.   \nGrant,J.E., Chamberlain,S.R.,Odlaug,B.L.,Potenza, M.N.,& Kim,S.W. (2010). Memantine shows promise inreducinggamblingseverityand cognitiveinflexibilityinpathologicalgambling:Apilot study. Psychopharmacology,212(4),603-612.   \nHabelt,B.,Arvaneh,M.，Bernhardt,N.，& Minev,I. (202O).Biomarkers and neuromodulation techniques in substance use disorders. Bioelectronic Medicine, 6, 4.   \nHaber，S. N. (2O03).The primate basal ganglia: Paralel and integrative networks. Journal of Chemical Neuroanatomy,26(4),317-330.   \nHeaton,R. K.，& StaffP. A.R.(1993). Wisconsin card sorting test: Computer version 2.Psychological Assessment Resources,4,1-4.   \nHester,R.，& Garavan,H. (2o04).Executive dysfunction in cocaine addiction: Evidence for discordant frontal, cingulate,and cerebellar activity. Journal of Neuroscience,24(49),11017-11022.   \nHynes,T.J.,Thomas,C.S.,Zumbusch,A. S.,Samson,A.,Petriman,I.,Mrdja,U.,..& Zjadewicz,M.(2018). Early life adversity potentiates expression of addiction-related traits. Progress in Neuro-Psychopharmacology and Biological Psychiatry,87(12), 56-67.   \nJanak,P. (2018).Brain circuits ofcompulsive drug addiction identified. Nature,564 (7736),349-350.   \nJust,A.L.,Meng,C.,Smith,D.G.,Bullmore,E.T.,Robbins,T.W.,&Ersche,K.D.(2019).Effects offamilial risk and stimulant drug use on the anticipation of monetary reward: An fMRI study. Translational Psychiatry, 9(1), e65.   \nKim,M.,Lee,T.H., Choi,J. S., Kwak,Y.B.,Hwang, W. J.,Kim,T.,..& Kwon,J. S. (2017). Neurophysiological correlates of altered response inhibition in intermet gaming disorder and obsessve-compulsive disorder: Perspectives from impulsivity and compulsivity. Scientific Reports,7, 41742.   \nKoob,G.F. (2013). Negative reinforcement in drug addiction: The darkness within. Current Opinion in Neurobiology,23(4),559-563.   \nKoob,G.F. (2O17).Antireward,compulsivity,and addiction: Seminal contributions of Dr. Athina Markou to motivational dysregulation in addiction. Psychopharmacology,234(9),1315-1332.   \nKoob，G.F.，& Le Moal，M. (2005).Plasticity of reward neurocircuitry and the 'dark side' of drug addiction. Nature Neuroscience, 8(11),1442-1444.   \nKoob,G. F.，& Le Moal，M. (2008). Addiction and the brain antireward system. Annual Review of Psychology, 59(1),29-53.   \nKoob, G.F.,& Volkow,N. D. (2016). Neurobiology ofaddiction: A neurocircuitry analysis. The Lancet Psychiatry, 3(8), 760-773.   \nKruger,O.,Shiozawa,T.,Kreifelts,B.,Schefler,K.,&Ethofer,T. (2015).Threedistinctfiberpathwaysofthebed nucleus of the stria terminalis to the amygdala and prefrontal cortex.Cortex,66(5), 60-68.   \nKwako，L.E.,，Bickel，W. K.，& Goldman,D. (2018). Addiction biomarkers: Dimensional approaches to understanding addiction. Trends in Molecular Medicine,24(2),121-128.   \nLatvala,A.,Kuja-Halkola,R,DOnofrio,B.M.,Larsson,H.,&Lichtenstein,P. (2016). Cognitive abilityand risk for substance misuse in men: Genetic and environmental correlations in a longitudinal nation-wide family study. Addiction,111(10),1814-1822.   \nLee,R., Hoppenbrouwers,S.,& Franken,I. (2019). A systematic meta-review of impulsivity and compulsivity in addictive behaviors.Neuropsychology Review,29(1),14-26.   \nLeeman, R.F.,& Potenza， M. N. (20l2). Similarities and differences between pathological gambling and substance use disorders: A focus on impulsivity and compulsivity. Psychopharmacology,219(2), 469-490.   \nLeshner, A.I. (1997). Addiction is a brain disease, and it matters. Science,278(5335), 45-47.   \nLitel,M.,Euser,A.S.,Munafo,M.R.,&Franken,I.H. (2o12).Electrophysiological indices of biased cognitive processing of substance-related cues: A meta-analysis. Neuroscience and Biobehavioral Reviews,36(8), 1803-1816.   \nLiu,Y., van den Wildenberg, W.,de Graaf,Y.,Ames,S.L., Baldacchino,A., Bo,R.,..& Wiers,R. W. (2019). Is (poly-) substance use associated with impaired inhibitory control?A mega-analysis controlling for confounders. Neuroscience and Biobehavioral Reviews,105(10),288-304.   \nLogan,G.D.,Schachar,R.J.,& Tannock,R.(997). Impulsivity and inhibitorycontrol.Psychological Science,8 (1), 60-64.   \nLuciano,M. (2016). Commentary on Latvala et al. (2016): What can genetic cognitive epidemiology tellus about substance misuse and addiction?. Addiction,111(10),1823-1824.   \nLuijten,M.,Machielsen,M.W.,Veltman,D.J.,Hester,R.,de Haan,L.，& Franken,I.H.(2014).Systematic review of ERP and fMRI studies investigating inhibitory control and error processing in people with substance dependence and behavioural addictions. Journal of Psychiatry and Neuroscience,39(3),149-169.   \nLuijten,M.，Schellkens,A.F., Kuihn,S.，Machielse,M.W.,& Sescousse,G.(2017). Disruption of reward processing in addiction: An image-based meta-analysis of functional magnetic resonance imaging studies. JAMA Psychiatry, 74(4), 387-398.   \nLuikinga, S. J., Kim, J. H.，& Perry, C.J. (2018). Developmental perspectives on methamphetamine abuse: Exploring adolescent vulnerabilities on brain and behavior. Progress in Neuro-Psychopharmacology and Biological Psychiatry,87(12),78-84.   \nLuscher, C.,Robbins,T. W.,& Everit,B.J. (202O).The transition to compulsion in addiction. NatureReviews Neuroscience,21(5),247-263.   \nMacLeod, C.M. (1991). Half a century of research on the Stroop efect: An integrative review.Psychological Bulletin,109(2),163-203.   \nMadoz-Gurpide,A.,Blasco-Fontecilla,H.,Baca-Garcia,E.,& Ochoa-Mangado,E.(2011).Executive dysfunction in chronic cocaine users: An exploratory study. Drug and Alcohol Dependence,117(1),55-58.   \nManning，V.，Verdejo-Garcia，A.，& Lubman，D.I. (2017). Neurocognitive impairment in addiction and opportunities for intervention. Current Opinion in Behavioral Sciences,13(2),40-45.   \nMeier,M. H.,Caspi,A.,Danese,A.,Fisher,H.L.,Houts,R.,Arseneault,L,& Moffit,T.E. (2018). Associations between adolescent cannabis use and neuropsychological decline: A longitudinal co-twin control study.   \nMihindou, C.,Guillem,K.,Navailles,S.,Vouilac, C.,&Ahmed,S.H. (20l3).Discriminative inhibitorycontrolof cocaine seeking involves the prelimbic prefrontal cortex. Biological Psychiatry,73(3),271-279.   \nMoorman,D.E. (2018). The role of the orbitofrontal cortex in alcohol use,abuse,and dependence.Progress in Neuro-Psychopharmacology and Biological Psychiatry,87(12),85-107.   \nMorein-Zamir,S.,&Robbins,T.W.(2015).Fronto-striatal circuits inresponse-inhibition: Relevance to addiction. Brain Research,1628(12),117-129.   \nMorris,L.S.，Kundu,P.,Dowell,N.，Mechelmans,D.J.，Favre,P.,Irvine,M.A.，..& Voon,V.(2016). Fronto-striatal organization: Defining functional and microstructural substrates of behavioural flexibility. Cortex,74(1), 118-133.   \nNigg,J.T.,Wong,M.M.,Martel,M..,Jester,J.M.,Puttler,L.I., GlassJ.M.,..&Zucker,R.A. (26).Poor response inhibition as a predictor of problem drinking and ilicit drug use in adolescents at risk for alcoholism and other substance use disorders. Journal ofthe American Academy of Child and Adolescent Psychiatry, 45(4), 468-475.   \nOstlund, S.B.,& Balleine,B.W. (2o08). On habits and addiction: An associative analysis of compulsive drug seeking. Drug Discovery Today: Disease Models,5(4),235-245.   \nPascoli,V.,Hiver,A.,Van,R.Z.,Loureiro,M.,Achargui,R.,Harada,M.,..&Luscher,C.(2018).Stochastic synaptic plasticity underlying compulsion in a model of addiction. Nature, 564(7736),366-371.   \nRiesel，A., Klawohn,J.,，Grutzmann，R.，Kaufmann,C.，Heinzel, S.，Bey，K.，.& Kathmann, N. (2019). Error-related brain activity as a transdiagnostic endophenotype for obsessve-compulsive disorder, anxiety and substance use disorder. Psychological Medicine, 49(7),1207-1217.   \nRobbins,T.W. Gillan, C. M.,Smith,D.G.,de Wit, S.,& Ersche,K.D. (2012). Neurocognitive endophenotypes of impulsivity and compulsivity: Towards dimensional psychiatry. Trends in Cognitive Sciences,16(1),81-91.   \nRogers,R.D.,& Robbins,T. W.(2001). Investigating the neurocognitive deficits associated with chronic drug misuse. Current Opinion in Neurobiology,11(2),250-257.   \nSeverino,A.L.，& Evans, C.J. (2019). Digging through the roots of addiction: Understanding the causes that underlie the insidious problem of substance use disorders (SUDs). Neuroscience and Bibehavioral Reviews, 106(11), 3-4.   \nSinha,R., Lacadie, C.M., Constable,R.T.，& Seo,D. (2016). Dynamic neural activity during stress signals resilient coping. Proceedings of the National Academy of Sciences of the United States of America,113(31), 8837-8842.   \nSmith,R.J.,& Laiks,L. S. (2O18). Behavioral and neural mechanisms underlying habitual and compulsive drug seeking. Progress in Neuro-Psychopharmacology and Biological Psychiatry, 87(12),11-21.   \nSoar,K., Mason, C.,Poton,A.,& Dawkins,L. (012).Neuropsychological efectsassociated with recreational cocaine use. Psychopharmacology,222(4), 633-643.   \nSu,B.,Li,S., Yang,L.,& Zheng,M. (2O20). Reduced response inhibition after exposure to drug-related cues in male heroin abstainers.Psychopharmacology,237(4),1055-1062.   \nSu,B.,Wang,S.,Sumich,A.,Li, S., Yang,L., Cai,Y.,& Wang, G.Y. (2017). Reduction in N2 amplitude in response to deviant drug-related stimuli during a two-choice oddball task in long-term heroin abstainers.Psychopharmacology,234(21),3195-3205.   \nVanderschuren，L.J.，& EverittB.J. (2004). Drug seeking becomes compulsive after prolonged cocaine self-administration. Science,305(5686),1017-1019.   \nvan Timmeren,T.,Daams,J. G.,van Holst,R.J.,& Goudriaan,A.E.(2O18). Compulsivity-related neurocognitive performance deficits in gambling disorder:A systematic review and meta-analysis. Neuroscience and Biobehavioral Reviews,84(1),204-217.   \nVerdejo-Garcia,A.,Lawrence,A. J.,& Clark,L. (2oo8). Impulsivity as a vulnerability marker for substance-use disorders: Review of findings from high-risk research，problem gamblers and genetic association studies. Neuroscience and Biobehavioral Reviews,32(4),777-810.   \nVerdejo-Garcia,A.,&Perez-Garcia,M.(2007).Profile of executive deficits in cocaine and heroin polysubstance users: Common and differential effects on separate executive components. Psychopharmacology，190(4), 517-530.   \nVolkow,N.D.,Fowler,J.S.,Wang,G.J.,Ding,Y.S.,& Gatley,S.J. (2002).Roleof dopamine in thetherapeutic and reinforcing effects of methylphenidate in humans: Results from imaging studies. European Neuropsychopharmacology,12(6),557-566.   \nVolkow,N.D.,& Morales,M.(2015).The brain on drugs: From reward to addiction. Cell,162(4),712-725.   \nVolkow,N.D.,Wang, G.J.,Fowler,J.S.,Tomasi,D.,&Telang,F.(2011).Addiction: Beyond dopamine reward circuitry. Proceedings of the National Academy of Sciences of the United States of America,108(37), 15037-15042.   \nYan，W.S.,Li, Y.H., Xiao,L., Zhu,N.,Bechara,A.,& Sui, N.(2014).Working memory and affective decision-making in addiction: A neurocognitive comparison between heroin addicts,pathological gamblers and healthy controls.Drug and Alcohol Dependence,134(1),194-200.   \nYücel,M.,& Fontenele,L.F.(2012). Compulsivity as an endophenotype: The search for a hazy moving target. Addiction,107(10),1735-1736.   \nYicel,M.,Oldenhof,E.,Ahmed,S.H.,Belin,D.,Billieux,J.,Bowden-Jones,H...Verdejo-Garcia,A. (219).A transdiagnostic dimensional approach towards a neuropsychological assessment for addiction: An international Delphi consensus study.Addiction,114(6),1095-1109.   \nZilverstand, A.， Huang,A. S., Alia-Klein,N.,& Goldstein,R. Z. (2018). Neuroimaging impaired response inhibition and salience attribution in human drug addiction: Asystematic review.Neuron,98(5),886-903. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The susceptibility of compulsive traits and neural substrates of the prefrontal and anti-reward systems implicated in drug addiction ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "YAN Wan-Sen, LIU Su-Jiao, ZHANG Ran-Ran, XU Peng (College of Medical Humanities, Guizhou Medical University, Guiyang 550025, China) ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Compulsivity is a core neuropsychological element connected to perseverations and persistent behaviors that are continued in the face of adverse consequences.It has been assumed that breakdown of the regulatory mechanism for compulsive behaviors in the brain might be a fundamental cause of drug addiction. Although addiction studies in recent decades have manifested a key role of the reward system (i.e.,the meso-cortico-limbic circuitry) in addictive behaviors,little is known about the role of compulsivity per se and the neural substrates of the prefrontal cortex-anti-reward system circuitry implicated in the development of drug addiction. Particularly, there was lack of a systematic investigation of compulsivity linked to drug addiction, and family studies and convergent evidence from non-stimulants drugs (e.g., opiates) were rare. This project thus aimed to investigate the compulsivity profiles of heroin addicts and their healthy drug-free first-degree relatives (i.e.，siblings),compared to healthy controls,from a family-risk perspective of addictive behaviors. A series of neurocognitive tasks, together with event-related potentials (ERPs） and neuroimaging techniques (e.g.， functional magnetic resonance imaging, fMRI),would be employed to assess compulsivity facets and the potential neurophysiological correlates among these participants, aiming to probe into the hereditary feasibility and neural substrates of compulsivity in drug addition. Expectantly, this project might be conducive to future discernment of potential medical or non-medical intervention targets for addictive disorders. Key words: drug addiction, compulsivity,anti-reward system, prefrontal cortex, limbic system ",
+        "page_idx": 17
+    }
+]

@@ -1,0 +1,483 @@
+[
+    {
+        "type": "text",
+        "text": "家蚕保幼激素结合蛋白Bmtol基因的克隆及表达分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "何石宝1，杨成飞1，尚杉1，王凌燕1，唐文超1，朱勇1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1西南大学生物技术学院，重庆4007715）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要目的：克隆获得家蚕（Bombyxmori）Bmtol基因序列，并对其蛋白结构进行预测，分析其在组织和JHA处理后头部的表达差异，为该基因的功能研究提供参考。方法：以家蚕的全组织cDNA为模板利用RT-PCR技术扩增和克隆获得Bmtol基因cDNA全长序列，并提交至GenBank数据库；利用多种生物信息学软件预测分析其编码蛋白的理化特性和结构特征；采用MREGA5.0软件中的邻接法（neighbor-joining，NJ）构建BmTOL及其它昆虫同源 TO 的进化树；通过qPCR技术分析Bmtol基因在5龄3天家蚕不同组织的表达情况，及JHA处理5龄蚕后在 $\\boldsymbol { 0 } \\mathrm { h }$ 、 $2 4 \\mathrm { h }$ 、 $4 8 \\mathrm { { h } }$ 、 $7 2 \\mathrm { { h } }$ 和 $9 6 \\mathrm { h }$ 家蚕头部的表达情况。结果：克隆获得了家蚕Bmtol基因的cDNA序列（GenBank 登录号KY681053），Bmtol基因的开放阅读框（ORF）长度为 $7 5 9 \\mathrm { b p }$ ，编码252个氨基酸，预测其蛋白分子量为$2 7 . 7 2 \\mathrm { K D }$ ，理论等电点为6.16，有信号肽，无跨膜结构，且第25—251位氨基酸之间存在一个保幼激素结合蛋白家族JHBP保守结构域；N端为疏水区域，可能与保幼激素结合蛋白的核心部位有关。亚细胞定位分析表明，BmTOL属于分泌型蛋白，主要集中在内质网-高尔基体-质膜分泌途径上。BmTOL蛋白具有3个 $\\mathbf { \\alpha } _ { \\mathrm { ~ \\normalfont ~ a ~ } }$ 螺旋，第34位的Cys 和第 44位Cys 形成一个二硫键链接在αl螺旋和N末端，构成BmTOL蛋白与配体结合的核心部位。序列比对结果显示，家蚕BmTOL序列与其他昆虫 TO的氨基酸序列一致性差别较大。家蚕BmTOL与果蝇DmTO 的相似性为 $2 5 . 1 0 \\%$ ，与烟草烟草天蛾的相似性为 $1 9 . 6 9 \\%$ ，与冈比亚按蚊的相似性为 $2 5 . 7 8 \\%$ ，与埃及伊蚊的相似性为 $23 . 5 3 \\%$ ，与黑花蝇的相似性为 $2 8 . 1 7 \\%$ ，与意大利蜜蜂的相似性为 $23 . 0 5 \\%$ ，与苹浅褐卷蛾的相似性为 $2 1 . 1 8 \\%$ 。系统进化树分析表明，所有选用昆虫TO形成两个大的分支：苹浅褐卷蛾EpTO1、烟草天蛾MsTO、意大利蜜蜂AmTOL、果蝇DmTO和黑花蝇PrTOL聚为一个分支，埃及伊蚊 AaTO、冈比亚按蚊AgTOL-2 和家蚕BmTOL 聚为另一大分支。qPCR 结果显示，Bmtol基因在家蚕头部、表皮和精巢有较高表达，其他组织表达量很低或没有。在JHA处理的5龄家蚕的头部，Bmtol基因在处理后 $^ { 0 \\mathrm { h } }$ 、 $2 4 \\mathrm { h }$ 、 $4 8 \\mathrm { { h } }$ 、72h和 $9 6 \\mathrm { h }$ 的表达量差异不明显。结论：BmTOL蛋白属于JHBP家族，具有JHBP家族的典型结构；组织表达谱和JHA处理结果暗示，BmTOL属保幼激素结合蛋白（JHBP），在家蚕中除保幼激素结合之外还参与其他多种生理功能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 家蚕；Bmtol；基因克隆；生物信息学分析；JHA",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S882",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cloning and Expression Analysis of Juvenile Hormone Binding Protein Gene Bmtol in Silkworm， Bombyx mori ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "HE Shi-Bao1 ,YANG Cheng-Fei1, Shang Sha1,Wang Ling-Yan1,TANG Wen-Chaol, ZHU Yong (Cllege of Biotechnology,Southwest UniversityChongqing40015) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AbstractObjective: The objective of this study is to clone the cDNA sequence of Bmtol from silkworm Bombyx mori, predict the protein structure，explore its expression profiles in different tissues and at different time of JHA treatment of silkworm,and to provide a fundamental evidence for the future study of the physiological function of this gene.Method: The full-length cDNA sequence of Bmtol was cloned from the entire tissues of silkworm by RT-PCR and submitted to the GenBank database.Physiochemical properties and structure characteristics of the deduced amino acid sequence were analyzed by multiple bioinformatics methods. Phylogenetic tree between BmTOL and its homologous JHBP from other insects was constructed using neighbor-joining of MEGA5.0. The expression levels of Bmtol mRNA of different tissues at day-3 in 5th instar were detected by qPCR. Result: The full-length cDNA sequence of Bmtol was obtained (GenBank is KY681053). The open reading frame (ORF) of Bmtol is 759 bp, encoding a protein of 252 aa with an estimated molecular weight of $2 7 . 7 2 \\mathrm { k D }$ and pI of 6.16. The encoding protein has a signal peptide and no transmembrance structure, possesses a JHBP superfamily domain between 25-251 residues,exists hydrophobic regions in N-terminus and contains two conserved cysteins,suggesting that it is the core part of the family proteins to bind ligand. Subcellular localization results showed that BmTOL was located on the secretory pathway about endoplasmic reticulum, golgi and plasmalemma which belongs to the secretory protein. BmTOL possesses three $\\mathfrak { a }$ -helixs. The thirty-fourth bit Cys and the forty-fourth bit Cys form a disulfide bond in the αl helix and the N-terminus, which forms the core part of the BmTOL protein binding to the ligand. The results of amino acid sequence alignment showed that the amino acid sequence of BmTOL of silkworm was significantly different from TO of other insect. It was homologous to DmTO with $2 5 . 1 0 \\%$ amino acid sequence identity,and had $1 9 . 6 9 \\%$ sequence identity with MsTO, and had $2 5 . 7 8 \\%$ sequence identity with AgTOL-2, and had $23 . 5 3 \\%$ sequence identity with AaTO,and had $2 8 . 1 7 \\%$ sequence identity with PrTOL,and had $23 . 0 5 \\%$ sequence identity with AmTOL,and had $2 1 . 1 8 \\%$ sequence identity with EpTO1.Phylogenetic analysis revealed that BmTOL,EpTO1，MsTO,AmTOL,DmTO and PrTOL were clustered into one group,AaTO, $\\mathrm { \\bf A g T O L } { \\bf - } 2$ and BmTOL were clustered into the other group.Besides,the results of qPCR showed that the Bmtol transcripts were higher expressed in the head,epidermis and testis of the day-3 in 5th instar. The Bmtol gene expression was not significantly different in the head at O h,24 h, 48 h, $^ { 7 2 \\mathrm { ~ h ~ } }$ and $9 6 \\mathrm { ~ h ~ }$ in 5th silkworm by JHBP treatment. Conclusion: BmTOL belongs to the JHBP family with a JHBP domain. The results of expression profiling and JHA treatment suggested that ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "BmTOL belongs to juvenile hormone binding protein (JHBP) and is involved in not only juvenile hormone binding recognition, but also other physiological functions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Key wordsBombyx mori ; Bmtol; gene cloning; bioinformatics analysis; JHA ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "家蚕是鳞翅目昆虫的模式生物，又是一种重要的经济昆虫，在我国拥有相当长的驯养历史。家蚕属于完全变态昆虫，其个体发育史分为4个阶段，分别为卵、幼虫、蛹、成虫，是完全受到环境与神经内分泌的调节控制影响，从幼虫到成虫的生长、发育等过程主要受保幼激素（Juvenile hormone，JH）和蜕皮激素（20-hydroxyecdysone，20E）协同调控[1]。在昆虫中，TO/JHBP 蛋白主要负责 JH在体内的运输、阻止JH的降解等[2-4]。此外，TO/JHBP 蛋白还参与调控昆虫摄食与运动[5,6]、节律调控[7-11]、味觉和嗅觉系统的化学感受[12]、性别分化和求偶行为[5,13-15]等。因此，研究家蚕 Bmtol基因为蚕业生产具有重要的应用价值。Sarov-Blat等[7]最先在果蝇（Drosophila melanogaster）中鉴定并将其命名为DmTO。在蜜蜂、飞蛾等昆虫中也发现了大量TO/JHBP 蛋白家族成员[16]。Hamiaux 等[17]利用硫的单波长反常衍射(sulfur-single wavelength anomalous diffraction， S-SAD)技术首次报道了雄性苹浅褐卷蛾（Epiphyas postvittana）中EpTO1的晶体结构，该结构包含4个 $\\alpha$ 螺旋和5个β折叠，由疏水氨基酸构成的桶状结构，并在中间形成一通道;在桶状结构的顶部位置，Cys8 和Cys15 形成一个二硫键，连接于N末端和α1螺旋的第一个弯曲，并认为该部位是TO蛋白与配体结合的核心部位。利用硒代蛋氨酸的单波长反常衍射对家蚕的一个JHBP蛋白的结构进行了分析，发现含有3个α螺旋和5个β折叠，α1螺旋参与形成JH结合的口袋，即与配体结合的核心部位[18]。在果蝇的研究中发现 $t o$ 基因是一个新的生物钟调控输出基因[9]，此外还发现了一个新这类基因与果蝇取食行为的节律调控有关[8]。Dmto 编码了一种类似于JHBP的TO蛋白，通过它可以提高果蝇饥饿时味觉系统对糖分的敏感性，从而增加取食量，进而调节果蝇体内的营养平衡[19]。Dauwalder 等[5]研究中发现TO/JHBP蛋白通过对性别信号进行加工整合，进而影响雄性的求偶行为。在研究果蝇寿命方面发现，如果TO的表达量增多，会延长果蝇的寿命[20]。在烟草天蛾（Manduca sexta）中，TO/JHBP蛋白家族可以维持表皮细胞中JH的含量，受到JH和营养状况的调控[21]。在研究冈比亚按蚊（Anopheles gambiae）时发现Takeout-like 蛋白主要触角中表达[22]。Bohbot 等[12]在埃及伊蚊（Aedes aegypti )的触角中发现TO蛋白高量表达，可推测TO蛋白对宿主、食物或信息素气味分子的化学感应。在黑花蝇（Phormia regina）中通过免疫组织化学实验表明 TOL蛋白主要分布于辅助细胞的细胞膜周围和唇瓣味觉感受器的淋巴液中，这表明了TOL 蛋白也可能对昆虫的感受系统有调控作用[23]。Hagai等[7]在意大利蜜蜂（Apismellifera）的研究中发现TO蛋白的表达受到发育相关因子JH调控。根据其他昆虫TO/JHBP蛋白家族的研究，研究家蚕 Bmtol基因有利于推动其在蚕桑产业上的研究。通过 SilkDB 和NCBI数据库的筛选，克隆得到家蚕的一个Bmtol基因，并对其蛋白结构特征进行预测，利用qPCR进一步对组织表达情况和 JHA（Juvenilehormoneanalogue）处理后头部表达情况进行分析，将为该蛋白的深入研究提供理论依据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验于2015年5-12月在西南大学生物技术学院完成。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.1供试材料",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验用的家蚕品种为大造品种，由西南大学生物技术学院家蚕遗传育种实验室保存。在5龄3天取家蚕各组织的材料， $- 8 0 ^ { \\circ } \\mathrm { C }$ 保存。并对5龄起蚕添食JHA浸泡的新鲜桑叶处理，对照组为丙酮，每天添食一次处理的桑叶，其它时间为正常桑叶饲养，连续处理三天后开始取材，分别取 $0 \\mathrm { { h } }$ 、 $2 4 \\mathrm { h }$ 、 $4 8 \\mathrm { ~ h ~ }$ 、 $7 2 \\mathrm { { h } }$ 和 $9 6 \\mathrm { h }$ 家蚕头部组织， $- 8 0 ^ { \\circ } \\mathrm { C }$ 保存。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2总RNA的提取及cDNA的合成",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "按照RNAisoPlus试剂（Takara）盒说明书对家蚕各组织样本提取总RNA，并对其进行浓度和纯度测定，根据PrimeScriptTMII1st StrandcDNA Synthesis Kit（Takara）反转录合成cDNA第一链，并进行内参基因BmActin3检测， $- 2 0 ^ { \\circ } \\mathrm { C }$ 保存备用或直接进行下一步试验。其中，5龄3天的不同组织和JHA处理不同时间头部的cDNA 模板用于RT-PCR 和qPCR反应；整只家蚕全组织cDNA 模板用于目的基因的克隆。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 引物设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过SilkDB和NCBI数据库得到目的基因片段。使用PrimerPremier5.0软件设计Bmtol基因的引物。根据克隆得到的序列预测该基因的ORF，并在设计荧光定量PCR引物。选择家蚕肌动蛋白BmActin3和 $s w 2 2 9 3 4$ 为内参基因。引物信息详见表1。所用引物有南京金斯瑞合成。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Table1 Primers used in this study ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/585ca5c97283224b5fc2171d86f1dace74f6b28fd400b585327353a098d4af17.jpg",
+        "table_caption": [
+            "表1本研究所用引物"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Gene name</td><td>Primers sequences（5'-3')</td><td>Using</td></tr><tr><td>Bmtol</td><td>F:CTGTTTACTACAAGGGAACACG R:TTCATTCGCCTTTAAACATTTT</td><td>Clone</td></tr><tr><td>Bmtol</td><td>F:CGGGGGCTGGTGATTTTCAT</td><td>qPCR</td></tr><tr><td></td><td>R:GACCAAGATCTGAGTGTCCAACT F:AACACCCCGTCCTGCTCACTG</td><td>Reference</td></tr><tr><td>BmActin3</td><td>R:GGGCGAGACGTGTGATTTCCT</td><td></td></tr><tr><td>sw22934</td><td>F:TTCGTACTGGCTCTTCTCGT</td><td>qPCRReference</td></tr><tr><td></td><td>R:CAAAGTTGATAGCAATTCCCT</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4家蚕Bmtol基因的克隆",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以家蚕全组织cDNA为模板，按照如下体系进行PCR扩增：",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0de2d81f41658fd4aa5e3618a42a533dd4f3f970870d2945ea2b9483411ba5ef.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>试剂 使用量（μL)</td></tr><tr><td></td></tr><tr><td>cDNA 模板 1</td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c4019de74be00c12f6322a3d198d223a069fc1724ca8d2c64fbe09c0b76c9f4e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>10xloading buffer</td><td>2.5</td></tr><tr><td>Mg2+ (2.5 mM)</td><td>2</td></tr><tr><td>dNTPs(2.5 mM each)</td><td>2</td></tr><tr><td>正向引物</td><td>0.75</td></tr><tr><td>方向引物</td><td>0.75</td></tr><tr><td>EXTaq 酶</td><td>0.25</td></tr><tr><td>ddHO</td><td>补至25</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "按照如下PCR程序进行扩增： $9 5 ^ { \\circ } \\mathrm { C }$ 预变性 $4 \\mathrm { m i n }$ ， $9 4 ^ { \\circ } \\mathrm { C }$ 变性 $3 5 \\mathrm { ~ s ~ }$ ， $5 5 \\mathrm { ^ \\circ C }$ 退火$3 0 ~ \\mathrm { s }$ ， $7 2 ^ { \\circ } \\mathrm { C }$ 延伸 $4 0 ~ \\mathrm { s }$ ，反应30个循环，再在 $7 2 ^ { \\circ } \\mathrm { C }$ 进行终延伸 $1 0 \\mathrm { m i n }$ ， $4 ^ { \\circ } \\mathrm { C }$ 保存。取样 ${ 5 \\mu \\mathrm { L } }$ 用 $1 \\%$ 的琼脂糖凝胶电泳检测，经染色后观察后并保存实验数据。，将目的片段进行切胶，并根据TIANGEN琼脂糖胶回收试剂盒使用说明进行DNA回收，将回收产物连接到 $\\mathsf { p M D } ^ { \\mathrm { T M } } \\mathsf { 1 9 { - } T }$ 克隆载体，转化至DH5α感受态细胞，经蓝白斑筛选鉴定，挑取单一白色菌落至含Amp（ $. 1 : 1 0 0 0 \\dot { . }$ ）的LB 液体培养基中扩大培养。经菌液PCR鉴定，将阳性克隆产物 $1 0 0 { - } 2 0 0 \\mu \\mathrm { L }$ 送华大基因进行测序。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5家蚕Bmtol基因生物信息学分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将测序所得序列在 NCBI中用 Blastn（https://blast.ncbi.nlm.nih.gov/Blast.cgi）工具进行核酸序列的同源性分析，利用在线软件ORFFinder（http://www.ncbi.nlm.nih.gov/gorf/gorf.html）查找序列的开放阅读框，使用BioXM2.6 软件预测其编码的氨基酸序列。SignalP4.1（http://www.cbs.dtu.dk/services/SignalP/）预测信号肽序列；蛋白二级结构预测：SOPMA 软件（https://npsa-prabi.ibcp.fr/）。三级结构预测： SWISS-MODEL 软件（https://swissmodel.expasy.org/）；ProtParam（http://web.expasy.org/cgi-bin/protparam/protparam）预测蛋白的分子量、等电点等理化性质；利用 TargetP1.1 Server 软件(http://www.cbs.dtu.dk/services/TargetP/)进行亚细胞定位；ProtScale （http://web.expasy.org/cgi-bin/protscale/protscale.pl)进行疏水性分析；TMHMM-2.0（http://www.cbs.dtu.dk/services/TMHMM/）分析跨膜结构；利用 NetNGlyc 1.0 Server （http://www.cbs.dtu.dk/services/NetNGlyc/)进行糖基化位点分析；运用在线工具NCBIConservedDomains(http://www.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.cgi）分析保守结构域；SMART（http://smart.embl-heidelberg.de/）分析 功能 结构 域；PredictProtein（https://www.predictprotein.org/）预测氨基酸序列中二硫键的位置。利用DNAMAN软件进行氨基酸的多序列比对，采用MEGA5.0软件中的邻接法（neighbor-joining，NJ）构建系统发育树。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.6 qPCR 检测 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "qPCR反应的体系如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b6d6c36a736ee3aac7df2a4b0d6fcd311f175f46b43d27872bd7b37112af10b9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>试剂</td><td>使用量μL</td></tr><tr><td>cDNA 模板</td><td>2 μL</td></tr><tr><td>SYBR Green Mix</td><td>15 μL</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/be234abfc730e91587d66f5a04c6bd0bd36d3dd741c96c95690e78a56dee7ac5.jpg",
+        "table_caption": [
+            "中国生物工程杂志 China Biotechnology"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>正向引物</td><td>0.75 μL</td></tr><tr><td>方向引物</td><td>0.75 μL</td></tr><tr><td>ddH2O</td><td>补至25μL</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "qPCR反应程序： $9 5 ^ { \\circ } \\mathrm { C }$ 预变性 $6 \\mathrm { m i n }$ ， $9 5 ^ { \\circ } \\mathrm { C }$ 变性 $1 5 \\mathrm { ~ s ~ }$ ， $5 9 ^ { \\circ } \\mathrm { C }$ 退火30s反应40个循环， $9 5 ^ { \\circ } \\mathrm { C } \\ 1 5 \\ \\mathrm { s }$ ， $5 9 ^ { \\circ } \\mathrm { C } 2 0 \\mathrm { s }$ ， $9 5 ^ { \\circ } \\mathrm { C } \\ 1 0 \\ \\mathrm { s }$ 。所有样品重复三次。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.7数据分析 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "qPCR 结果采用 $2 ^ { - \\Delta \\Delta \\mathrm { C t } }$ 法进行处理分析。采用 SPSS19.0 软件中的ANOVA 法进行单因素方差分析。所得结果均以平均数 $\\boldsymbol { \\pm }$ 标准误（mean±SE）表示，并利用excel进行图形分析， $\\mathrm { P } { < } 0 . 0 5$ 表示差异显著， $\\mathrm { \\Phi } ^ { \\mathrm { p } < } 0 . 0 1 \\$ 表示差异极显著。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1家蚕Bmtol基因克隆与序列分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以大造5龄3天表皮组织的cDNA为模板，对Bmtol基因进行进行PCR扩增，获得Bmtol基因的序列片段（图1)。并对该特异性PCR产物进行胶回收，克隆获得菌液PCR阳性结果，送华大基因测序，结果表明该片段为 $8 1 0 \\mathrm { b p }$ 。序列已提GenBank（审核中）。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/40dc92932b69277f05b9c49cb2a0c4e59195649a5b5a228caf69c3dfd86c58fb.jpg",
+        "img_caption": [
+            "图1Bmtol基因的PCR扩增",
+            "Fig.1 PCR amplification of Bmtol gene "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "M:DL20o0 DNA marker; 1: PCR amplification of Bmtol gene ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "利用ORFFinder对所获的序列进行分析表明,Bmtol基因的cDNA含有 $2 5 \\mathrm { \\ : b p }$ 的 5'非编码区、759bp 的完整ORF 和 $2 6 ~ \\mathrm { b p }$ 的3'非编码区，共编码 252 个氨基酸（图2)。BmTOL蛋白的分子量大小为27.72KD，理论等电点为6.16。亲疏水性预测总平均疏水值总平均疏水值（总平均疏水值）为-0.028，故判断该蛋白为亲水性蛋白。并在N端含有两个保守的Cys，C端有一个糖基化位点（图2）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1 CTGTTTACTACAAGGGAACACGAAGATG   \n61 TCTCGTATTATGTGTGGTCGGGAGOGGT CATACA □   \n121 AATTTGCAAACATGA AGCGAA ATCTATTGAGGCGCT I G K H 5 E L 0 1 SIEAL   \n181 AAAACCTAAATTAG CCGAACTGGACGTTCCACCGTTAGAAOCCTTCAT KP K 工 1 EPFI   \n241 CATTCCCGAGGTGGTGG TCAAGCTACTGGAAAAAA IPEYY ATGKN   \n301 TATCAAGGTCACGGGGGCT GAATGTGGATCTCGATAG IKVTG 1 H 可 1 VDLDS   \n361 TTTGATATTGAAAGCCAAGGTTAATTTCCCGAAGTTGCACTTOGACGGATTATACAAGTT LILKAK YHF 卫 K H H T GLYKL   \n421 GGACACTCAGATCTTGGTCGTGCCCATCAAGGGAGAGGGAAATCTTCTTGCTGACGTCGT DTQIL T T P 1 L LADVV   \n481 GAACTGCGACGCCGAACTCGTGTTCAAAGGAGGGAAGTACCAGAAAGACGGTCTCGAATT NCDAEL T F K - 1 E Y QKDGLEF   \n541 CATTAAGTTCAATAGTCTTGATACTAAGATCGGAATCAAAGATTATAACGTTAAATTTGA IKFNS 1 1 1 K 1 1 T T YNVKFD   \n601 TGGATTGTTCAATAACGACAAAGTTCTCGGTGATGCAGCCAATGACGCAATCAATCAGAA G 工 E 1 T 1 A IN QN   \n661 CAAGGGAGAGTTCTTC GGCTGTTTCAAAACTGCT K 1 E F F T SKLL   \n721 CCTAAATATATCCAACAA ACTACTGOCCAAAOC LNISNK 1 1 PKP   \n781 TTAATTTTAAAATGTTTAAAGGCGAATGAA \\* ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/04c659bff3aa399256b2840d2bfbc8f41bc76766560b3c703163da5f0161b5d4.jpg",
+        "img_caption": [
+            "图2Bmtol基因cDNA核苷酸序列及蛋白序列",
+            "Fig.2Nucleotide and amino acid sequences of Bmtol cDNA "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "on-codingregionwas showedbylowercase leters,ORF wasshowedbynon-underlined,thestartand stopcodons wereindicatedby bold,signalpeptide wasyellowregion,conversedCysresidues wereboxed inred,Glycosylatedresidues wasrdprint. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2家蚕BmTOL蛋白结构预测",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在线NCBI结构域分析结果表明，Bmtol基因编码的第25-251为氨基酸之间为保幼激素结合蛋白家族的保守结构域JHBP（图3)。BmTOL蛋白的信号肽位于1-23位氨基酸（图4)，无跨膜区（图5)，二级结构预测发现该蛋白包含有 $\\mathfrak { a }$ 螺旋（占 $3 0 . 1 6 \\%$ ， $\\beta$ 折叠（占 $1 0 . 3 2 \\%$ )，无规卷曲（占 $3 6 . 5 1 \\%$ )，延伸片段（占$23 . 0 2 \\%$ ）（图6)。疏水性分析显示，BmTOL的氨基酸序列中，第165位氨基酸Score 值最低为-2.356,第15位和第16位氨基酸最高为2.700,平均疏水性为-0.028，说明该蛋白为亲水性蛋白。亚细胞定位结果表明，BmTOL蛋白可能存在于细胞外 $( 9 1 . 1 \\% )$ ）、线粒体（ $4 . 1 \\%$ ）和其他位置（ $6 . 1 \\%$ ）中，主要集中在分泌途径上，说明该蛋白属于分泌型蛋白。其三级结构如图7。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f87b732efb68ff0b2cff98054a7f8450faef02f32a2528909f5a9f3756d64c6c.jpg",
+        "img_caption": [
+            "图4家蚕BmTOL信号肽预测"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/40d8b8fbdc37997975fa5f0012525e9dc24923a6c5b8cca8e12ac9a318168981.jpg",
+        "img_caption": [
+            "图3BmTOL蛋白的结构域位置",
+            "图5BmTOL跨膜区预测"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/8d1454f993a07cd2100055f1c97ac666d9179a511bdfb168ae19c87797bc1f39.jpg",
+        "img_caption": [
+            "Fig.4Prediction of signal peptidesofBmTOLin Silkworm ",
+            "Fig.5 The result of predicted graphical ofBmTOL transmembrane region "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图6家蚕BmTOL二级结构预测",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.6Prediction of the secondary structure of BmTOL in Silkworm ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Blue lines represent α helix;Green lines represent $\\beta$ sheet; Purple lines represent Random coil ;Red lines represent Extended strand. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/c582776045cb8b21d7320d67147f992e2e890a6f437ecd68a9aef095e9465531.jpg",
+        "img_caption": [
+            "图7家蚕BmTOL蛋白三级结构预测",
+            "Fig.7Prediction of tertiarystructure ofBmTOL protein "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.3家蚕BmTOL序列比对和进化树分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "将克隆所得序列蛋白序列其他昆虫的氨基酸序列进行序列比对。序列比对结果显示，家蚕BmTOL序列与其他昆虫TO 的氨基酸序列一致性差别较大（图8)。家蚕BmTOL与果蝇的相似性为 $2 5 . 1 0 \\%$ ，与烟草烟草天蛾的相似性为 $1 9 . 6 9 \\%$ 与冈比亚按蚊的相似性为 $2 5 . 7 8 \\%$ ，与埃及伊蚊的相似性为 $23 . 5 3 \\%$ ，与黑花蝇的相似性为 $2 8 . 1 7 \\%$ ，与意大利蜜蜂的相似性为 $2 3 . 0 5 \\%$ ，与苹浅褐卷蛾的相似性为$2 1 . 1 8 \\%$ 。与不同昆虫之间的的相似性均较低，这可能与该家族蛋白在昆虫体内发挥不同的功能有关。使用MEGA5.0软件邻接法进行1000次重复计算后构建系统进化树（图9)。由图9可以看出，所有选用昆虫TO形成两个大的分支：苹浅褐卷蛾 EpTO1（ACF39401.1）、烟草天蛾MsTO（AAO65575.1）、意大利蜜蜂AmTOL（NP_001011640.1）、果蝇DmTO（AAF79960.1）和黑花蝇PrTOL（BAD83405.1）聚为一个分支，埃及伊蚊AaTO（AAL60239.1）、冈比亚按蚊AgTOL-2（AAO39756.1）和家蚕 BmTOL 聚为另一大分支，其中与冈比亚按蚊的亲缘关系最近。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "AaTO ..MHVNVSGTVAVLLMAALATTYAAQFSAGYTLEP. .KDDORELFERIGATFARHAA.E PAIDIVS 62   \nAgTOL-2 .MNRLVIEVLLAGIVALGSGIRLSASYSOEK. .TGDEEVVQAITNTFORFOG. VPALGLAS 59   \nAmTOL ..MGRITI IRFEVLTTMLMMAIAVELENNNR IDRSLPOKEYNOIAEAVRDAVVSLAG.CLKSFKILP 66   \nBmTOL MISVONFLLPSEIVLCVVGSGQSKRQIEGYIOIKHDP..NTISEVORSIEALKPRLAE.EIPELIVPP 67   \nDmTO MFAIAFAVVLCLIVEVD..AKFEEDPREEK. ..YGDGECIMRLCNTLFSENSAEEDEGLNLMQ 58   \nEpTOl .MNVIIKHGIPLLAAVOFVRCGVLE .VEREN .LEDSAEMTSAFOOALPTEVA. PDHGVEV 58   \nM:TO MFCGYIEVLALSVAGVLAAERRHVAGA .LNDLEGTTLTADPLFRSIMR. PDLNVPA 56   \nPrTOL .MHVLTAGLTILLIVGTQAAOIEDYIRVESRN..DPRINEVRNIVHNMRPYLRD. IREVPLNA 61   \nConsensus P □ □ 9   \nAaTo LDELKIOKMDIVOGG.DGPINIVLNFRNVDLTELSEAVVRRANGET.GNPTRMELGIIVEVTSIVGGTKI 130   \nAgTOL-2 LDPLRIDEMDIVOG..TGEVNIVLNFRNVDITEERIVAVRRAKGFT.ETPNVMEMNLRLEVASIVGSTRI 126   \nAmTOL IEPLAVDEVRIGES..QGEVTLROEYRNIRLYELTKNLEIRNYNID.NDRCILSSESYNEGVDEVADTKI 1a3   \nBmTOL LEPEIIPEVVASSK...DBVPLOATGRNIHVTEAGDFHINHLNVDL..DSLILRAHVNEEKLHFDGLTRL 132   \nDmTO LDPLBVDRMVISOGESSSEVGITLTETDNLLYEIRDORIVEVKGEGRDLTARHEVRIVTRTESIVGETNI 128   \nEpT01 MIVLDLDDFAFDLS.. ..GLOFTLKEGRLKCLRGAVIDNVKNDL..RKKNIEVDFHLDAT.VRGHTTA 119   \nMsTO SEELREAEISGRLD.. ..DMYYNLTDAELHEMSDCSVRSHNINF..LQLSNSFLLYCERIVLOSNTDL 118   \nPrTOL MEPEYIGDLNILEG...GSSGINVKAIDLNIYEASNFEIERLKASN..NGMRFDFELNLERLQGEGOEDI 126   \nConsensus g Y   \nAaTO KGHVEILEIOEEERSNMTMENNHIOMKNTGKLVDR.NGROYYQLDRLRAT.PDTTR.FHMHESPHGDK 197   \nAgTOL-2 REVEIEEICCETENMTVHCDFLMRMNGALERRANGKEYYOMHRIRA.FDTTR.FYMHLTHEHGDE 194   \nAmTOL EGEVLL Ev AEKSNITMYDLRSHNDIYCEKYEK.NGETYLRIKKHAVK.FNPAK.VRLRFENLEDGHR 200   \nBmTOL DTQILV EIHCECNLLAIVVNCDAEIVERGGRYQK.DGLEEIKFNSLDTK.IGIKD.YNVREDELENNDK 199   \nDmTO OSaVLI TEQSNMTNVNVRAIVSFSGRPIVK.NGETYLDVTDLRIT.MRPES.SHYHESNLENGDK 195   \nEpTOl GGRILI COMRLHLRNIHIHIVVSYEMERDAEEVDHVI FRRYIVT.FEVKDNAQFGLTNLENGNE 188   \nMeTO 电   \nSGSIRNISIEERRSNIVHEKYRIGMRGGFEVVLDLRGRPHVRINHYDIDRLEVVGNIRSDFSNLYNGIV 188   \nPrTOL NOITLEIENCPETGNFTHFYAEVRIIFDTKNV.NDDEYLTIKDLEVK.IRTGK.GBVRLEEENGDK 193   \nConsensus P gg 1   \nAaTO ALGDNMNVELEENQDILRELKPAIIDAEVRIFQEVISEVENRVEYNELEO.. 248   \nAgTOL-2 ALGDNMNOFLNDONEDILRELRPAIIGAFTEIERAIITHVEENVEYEELELPN 247   \nAmTOL ELGEOMNRFIESELLFRELQAAYEETESIVFTRIDNEIENRVPFDRIEPPR 253   \nBmTOL VLGDAANDAICKGEFFNTERPFLEAAVSRLLLNISNHVVDDLEENELLPRP 252   \nDmTO ALGDNMNVELNEESEAIYHETARAIDRSFGRLYLGVVRGVFSKLEYAREEADE 248   \nEpT01 240   \nMsTO ARSAVMHRYLEINKSIGFYTQYPTMRSEMERMMENLIRELGVVEANEIEERE 241   \nPrTOL TLGIVVNETICFEVFTNELIGPIERALERKEIAIARRILENFTYNELEEV. 245   \nConsensus nn ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Conversed cysteine residues were boxed in red.The identity of black part are equal to $100 \\%$ and the identity of red part are greater than $7 5 \\%$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/5699ba9c9a621a64fff5066020373a6d7d01ce2a9e22728cbede8e0e509a95ee.jpg",
+        "img_caption": [
+            "图8昆虫T0蛋白多序列比对结果",
+            "Fig.8Multiple sequence slignment results ofTO proteinsin insects ",
+            "图9基于氨基酸序列构建的昆虫TO的系统发育树",
+            "Fig.9 Phylogenetic tree of TO reconstructed from insects based on amino acid sequence "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.4家蚕Bmtol基因组织表达分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "以5龄3天家蚕各组织的cDNA为模板，通过qPCR技术分析发现，Bmtol基因在家蚕的不同组织中表达存在差异（图10）。由图10可以看出，Bmtol基因",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在家蚕的头部表达了最高，其次是在表皮和精巢中，均极显著高于其他组织（ $\\mathrm { p } { < } 0 . 0 1$ ）而其他组织表达量很低。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/fcb3e315377da0619892a20d718a99c909c575cd4b50ec722179b7060eebee09.jpg",
+        "img_caption": [
+            "图 $1 0 \\mathrm { \\ q P C R }$ 分析家蚕Bmtol基因5龄3天组织的表达量"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.5JHA处理后Bmtol基因在头部的表达特征 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "以JHA处理的家蚕头部各时间的cDNA为模板，通过qPCR技术分析发现，Bmtol基因在 $0 \\mathrm { h }$ 、 $2 4 \\mathrm { h }$ 、 $4 8 \\mathrm { h }$ 、 $7 2 \\mathrm { { h } }$ 和 $9 6 \\mathrm { h }$ 的头部中表达差异不明显（图11)。由图11可以看出，Bmtol基因在JHA处理组的表达量要高于丙酮处理组，但其差异不显著，且在处理后不同时间差异也不显著。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/2fadbbbd7538274d63aaadcf04bc9546c4cdff4faa17eadb5c3a9914bec84f74.jpg",
+        "img_caption": [
+            "Fig $. 1 0 \\mathrm { q P C R }$ analysis of Bmtol gene expression in various tissues of 3 day in 5th instar silkworm larvae ",
+            "图11JHA处理后不同时间家蚕Bmtol基因的qPCR检测",
+            "Fig.11The qPCR analysis of Bmtol expression after treatment of JHA for different time "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "保幼激素结合蛋白在昆虫体内对保幼激素的转运和功能的发挥具有重要意义[2-4,24-28]。在研究中,我们通过在线数据库 SilkDB和NCBI数据库获得家蚕Bmtol基因的预测序列，并利用PCR方法成功扩增出Bmtol基因的cDNA序列，ORF的长为 $7 5 9 \\mathrm { b p }$ ，编码252个氨基酸，预测分子量大小为27.72KD，等电点为6.16,序列中含有两个保守的Cys 位点，在N末端和a1螺旋之间形成一个二硫键，构成该蛋白与配体结合的核心结构。并在N端含有一段23个氨基酸序列的信号肽，且含有一个保守的 JHBP结构域，与报道的其他昆虫这类蛋白的结构特征基本类似。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "几乎所有的分泌蛋白都具有信号肽，信号肽是检测蛋白质是否为分泌蛋白的一个重要指标[29,30]。BmTOL 蛋白的N 末端有一段 23 个氨基酸序列的信号肽，并且其疏水性预测分析发现该蛋白为亲水性蛋白，这说明BmTOL蛋白可能是分泌蛋白。通过亚细胞定位软件 TargetP1.1 Server 预测结果显示BmTOL蛋白主要是以胞外形式存在，故与上述推断一致。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本研究通过qPCR技术分析，发现Bmtol基因主要在家蚕的头部、表皮和精巢中表达量较高，而其他组织中表达量较低或没有。Sarov-Blat等[7]利用原位杂交技术发现to 基因主要在果蝇的前胃和嗦囊中有高量表达，在脑和触角中也有表达。Du等[21通过原位杂交发现在烟草天蛾（Manduca sexta）5龄第2天的幼虫的头部、胸及腹部的表皮中表达，而其它组织中均没有被检测到。Justice 等[22]在研究冈比亚按蚊(Anopheles gambiae)是发现TOL蛋白主要触角中表达。Bohbot和 Vogt 在埃及伊蚊（Aedesaegypti）雄性的触角分离出 to 基因[12]。Fujikawa 等通过蛋白印迹[23]发现TOL蛋白在黑花蝇（Phormia regina）的触角和下唇须中高表达，而在其它组织中没有检测到。Saito 等[31]在家蚕(Bombyx mori)中发现 JHBP蛋白主要在触角、中肠、脂肪体和丝腺中表达。Hagai 等在意大利蜜蜂（Apismellifera）腹部和头部检测到有表达，而在其它组织中没有检测到。可能与蛋白家族主要参与摄食与运动[5.6]、节律调控[7-II]、味觉和嗅觉系统的化学感受[12]、性别分化和求偶行为[5,13-15]等有关。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "为研究Bmtol基因受JH调控的影响，本研究通过对5龄起蚕添食JHA处理的桑叶，然后对处理后不同时间Bmtol基因在头部的表达情况，发现实验组与对照组差异不明显，而且随处理后时间的变化也没有太大的变化，说明Bmtol基因受 JH调控影响很少或不明显，也许该基因在其他调控方面发挥重要作用。对Bmtol基因在家蚕体内的主要功能研究还需要进一步深入。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "成功克隆了家蚕保幼激素结合蛋白基因Bmtol的序列。序列分析表明，Bmtol具有JHBP家族的典型结构，与冈比亚按蚊的亲缘关系最近。组织表达结果显示，Bmtol在不头、表皮和精巢中有较高的表达量，其他组织中表达量极低或没有。暗示着该基因可能涉及更广泛的生理机制的调控。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1]WhisentonLR,BowenMF,GrangerNA,etalrain-mediated2-hydroxyecdysoneregulationfjuveileormonesthesisbythe ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "corpora allata of the tobacco hornworm,Manduca sexta.Gene and Comp Endoc,1985,58(2):311-318.   \n[2]OrthAP,LanQGoodmanWG.Ligandregulationofjuvenile hormone bindingproteimRNAinmutant Manducasexta.MolCel Endocrinol,1999,149(1-2): 61-69.   \n[3]OrthAP,TuchaSJDollSC,etalEmbryoicexpressonojuvenleoronebiningproteinditselatioshittoxic effects of juvenile hormone in Manduca sexta. Insect Biochem Molec,2003,33(12):1275-1284.   \n[4]贺秀婷，张亚楠，李飞，等．灰飞虱保幼激素结合蛋白基因的克隆及表达动态．南京农业大学学报,2012,35(2):59-64. HeXT,ZhangYN,LiFetal.Cloning,temporalexpressionofajuvenilehormonebindingproteingeneinLaodelphax striatellus(Fallén).Journal of Nanjing Agricultural University,2012,35(2):59-64.(in Chinese)   \n[5]DauwalderB,TujimotoS,MosJ,etal.TheDrosohilatakeoutgeneisregulatedbythesomaticsex-deterinationpthwaand affectsmale courtship behavior.Gene Dev,2002,16(22):2879-2892.   \n[6]HagaiT,CohenM,BlochG.Genes encodingputativetakeout/juvenilehomonebindingproteinsinthehoneybe(Apiselfra) and modulationbyageand juvenile hormoneofthetakeout-likegeneGB19811.IsectBiochemMolec,2007,37(37):689-701.   \n[7]Sarov-BlatL,SoWV,LiuL,etal.TheDrosophilatkeout geneisanovelmolecularlinkbtwencicadianhythmsadfeeding behavior.Cell,2000,101(6): 647-656.   \n[8]SoWV,arov-latL,KotarskiCK,etal.takeout,novelDrosohilgeneunderiradianclocktranscriptioalreglationol Cell Biol,2000,20(18): 6935-6944.   \n[9]GalikovaMFlattTDietarystrictionandorifspaextendingpathaonergeatteactiatioofthonstreator takeout.Aging,2010,2(7): 387-389.   \n[10]Benito,oxha,aCtal.eicadianoutputgenetakeoutisgulatedbydle.atlcadciU(6) 2544-2549.   \n[11]KherichaM,KolenchryJB,TuberE.Neuralandnon-euralcontributions tosexualdimorpismofid-daysleepinDrooila melanogaster: apilotstudy.PhysiolEntomol,2016,41(4):327-34.   \n[12]BohbotJVogtRG.Antealexpresedgenesofteyellofeverosito(AedesgyptiL.）haracterzationofdorantbinding protein 10 and takeout. Insect Biochem Molec,2005,35(9): 961-979.   \n[13]KanekoY,HrumaK.AlatotropininhibitsjuvenilehormonebiosynthesisbythecorporaalataofadultBombyxmori.JIsect Physiol,2015,80: 15-21.   \n[14]VanaphanN,auwalderB,ZufallA.Diversficationoftakeout,amale-biasedgenefmilyinDrosopila.Gene,491(2): 142-148.   \n[15]WeiD,LiHM,TianCB,etal.Proteomeanalysisfmaleacessoryglandsecretionsinorientalfruitfliesrevealsjuvenile hormone-binding protein,suggesting impact on female reproduction. Sci Rep-UK,2015,5:16845.   \n[16]于芹，安利国，王宪辉．昆虫 Takeout 蛋白家族的研究进展．应用昆虫学报,2011,48(2):404-409.(in Chinese) Yu Q,AnLG,WangXHRecentadvancesinTakeoutproteinfamilyofinsects.ChineseJournalofAppliedEntomology011, 48(2): 404-409.   \n[17]HamiauxCStanleyD,GreenwoodDR,etal.CrystalstructureofEpiphyspostvitanatakeoutlwithboudubiquonesuprtsa role as ligand carriers for takeout proteins in insects.JBiol Chem,2009,284(6):3496-3503   \n[18]FujimotoZ，SuzukiR，ShiotsukiT,etal.Crystal structureof silkworm BombyxmoriJHBPincomplexwith 2-methyl-2,4-pentanediol:plasticityofJH-bindingpocketandligand-inducedconformationalchangeofthesecondcavitynJHBP PLoS One,2013,8(2):e56261.   \n[19]MeunierNelgaceYH,MartinRRegutionoffedingehaviourandlocomotorctivityykeoutinDrosophilaJpiol, 2007,210(Pt 8): 1424-1434.   \n[20]BauerJ,toshhngtal.omarativetaciptoalpolingidentistkeougnetateguatesfeaing 2010, 2(5): 298-310.   \n[21]DuJ,HuaK,idifordLM.AnovelgeneinthetkeoutgenefilyisegulatedbyormonesandutrientsiMadcalaral epidermis.Insect Biochem Molec,2003,33(8): 803-814.   \n[22]JusticeRiratosWalteFtaexalmocepesofputatitlerpoteila vector Anopheles gambiae.Insect Mol Biol,2003,2(6): 581-594.   \n[23]ChangESCoudroTA,ruceJ,etalJveniloonbindigproteinfrothytoslfrosophilaKccels.tcadSi USA,1980, 77(8): 4657-4661.   \n[24]ShemshediniL,LanoueM,WilsonTG.Evidenceforajuvenilehormonereceptor involvedinproteinsynthesisinDrosophila melanogaster.JBiol Chem,1990,265(4):1913-1918.   \n[25]ChangES,Bruce MJ,PrestwichGD.Furthercharacterizationofthejuvenilehormone-bindingproteinfromthecytosolofa Drosophila cell line: use of a photoaffinity label. Insect Biochem,1985,15(2):197-204.   \n[26]AshokM,TurnerC,WilsonTG.InsectjuvenilehormoneresistacegenehomologywiththebHLH-PASfamilyoftranscriptional regulators.PNatl Acad Sci USA,1998, 95(6): 2761-2766.   \n[27]WilsonG,erushaliYoell,etalInteractioneteenoronalignalingathaysinDrosohilmelanoste revealed by genetic interaction between Methoprene-tolerant and Broad-Complex.Gene,2006,172(1): 253-264.   \n[28] 赵亚华．基础分子生物学教程.2版.北京：科学出版社,2006:351-355. Zhao YH.Fundamental Molecular Biology Course.2nded.Beijing: Science Press,2006:351-355. (in Chinese)   \n[29] 彭佳师,龚继明．信号肽与蛋白质的分选转运．植物生理学报,2011,47(1):9-17. Peng JS,Gong JM.The mechanismsof protein sorting andtranslocationregulatedbysignal peptides.Plant Physiology Journal, 2011,47(1): 9-17. (in Chinese)   \n[30]FujkawaK,SnoKOzakiM.AovelTkeout-eproteinexpreedinthsteadofctoryransoftebowflyo regina.Febs J,2006,273(18): 4311-4321.   \n[31]SaitoK,Su,iA,tal.ogdeprssalyisofkeotHfilesofio,ombitl Biol,2006,15(3): 245-251. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

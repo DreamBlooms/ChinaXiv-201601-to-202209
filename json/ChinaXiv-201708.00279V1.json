@@ -1,0 +1,528 @@
+[
+    {
+        "type": "text",
+        "text": "Splitting of the $\\pi - \\rho$ spectrum in a renormalized light-cone QCD-inspired model ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "T.Frederico Dep.de Fisica,Instituto Tecnologico de Aeronautica,Centro Tecnico Aeroespacial, 12.228-900 Sao José dos Campos，Sao Paulo,Brazil ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hans-Christian Pauli Max-Planck Institut fir Kernphysik,D-69029 Heidelberg，Germany ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Shan-Gui Zhou Max-Planck Institut fir Kernphysik,D-69029 Heidelberg，Germany and Schoolof Physics,Peking University，Beijing 100871，China (Draft August 1,2017) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We show that the spliting between the light pseudo-scalar and vector meson states is due to the strong short-range attraction in the $^ { 1 } S _ { 0 }$ sector which makes the pion and the kaon light particles. We use a light-cone QCD-inspired model of the mass squared operator with harmonic confinement and a Dirac-delta interaction.We apply a renormalization method to define the model, in which the pseudo-scalar ground state mas fixes the renormalized strength of the Dirac-delta interaction. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS Number(s):12.39.Ki,11.10.Ef,11.10.Gh,14.40-n,13.40.Gp ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The efective light-cone QCD theory [1,2] is anattempt to describe the Fock-statecomponents of the light-front meson wave-function of bound constituent quarks,constructed recursively from the lowest Fock-state component. The lowest Fock component of the hadron is an eigenfunction of an efective mass squared operator parameterized in terms of an interaction which containsa Coulomb-likepotentialanda Dirac-delta term.Both terms ofthe interaction comefromanefectiveone-gluon-exchangeandthe Dirac-delta corresponds tothe hyperfne interaction.This ffctive theory describes with reasonable successthe masss of the ground state of the pseudo-scalar mesons and in particular the pion structure [3],inspite the small number of free parameters,which isonly the canonical number plus one the renormalized strength of the Dirac-delta interaction.The model does not have confinement,thus the study of excited states above the breakup threshold were not possible so far.The next step is to introduce the confining interaction,therefore one should ask as well,how the nice renormalization features of the model changes and what are the implications of this model for the spectrum of the pseudoscalar mesons. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this work,we show an extension of the light-cone QCD-inspired theory to include the confining interaction and we perform therenormalization of the model,using as input the light pseudo-scalar masses to fx the renormalized strength of the Dirac-delta interaction,active in the $^ { 1 } S _ { 0 }$ -channel. We apply the extended model to study the splitting of the excited pseudo-scalar states from the excited $^ { 3 } S _ { 0 }$ vector meson states as a function of the ground state pseudoscalar mass. We show that the $\\pi - \\rho$ mass splitting,due to the attractive Dirac-delta interaction, is the source of the splitting between the massesof the excited states,and inspiteof the simplicityof the model,there isareasonable qualitative agreement with the experimental values [4]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The non trivial mass splitting between the $\\pi$ and $\\rho$ meson spectrum is a consequence of the small pion mass in the hadronic scale,which fix the renormalized strength of the Dirac-delta interaction.We must point out that the renormalized strength of the Dirac-delta interaction,ftted to the pion mass,puts into the modelthe complex shortrange physics,which makes the pion a strongly bound system.In this first work,the Coulomb-like and the confining interactions aresubstituted byan harmonic oscillator potential,which alowedan analytic formulation,as we are going to show. The parameters of the confining interaction in the mass squared operator,are fted to the $^ 3 S _ { 1 }$ -meson ground state massand to the slope of the trajectory of excited states with the principal quantum number [5].We expect thatthe detailed form of the interaction using the Coulomb-like potential and aspecific form ofconfinement will have asmall overallfectand will not change ourconclusions about the spliting of the pion and kaon spectrum in respect to the correspondent vector meson spectra. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We should add that,the observation of the almost linear relationship between the massquared of excited states with $n$ ,as pointed out in Ref.[5],connects nicely and quite naturally with our model. The slope of the trajectory in the $( n , M ^ { 2 } )$ plane defines the harmonic oscillator strength of the mass squared operator in our model. Here, we reveal some of the physics that are brought by the work of Ref. [5] and we show the relation between the $\\pi$ and $\\rho$ spectrum,through the pion mass scale,which defines the renormalization condition of the model. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This paper is organized as following.In section II，we review the light-cone QCD-inspired theory for the mas squared operator fora constituent quark-antiquark systemand extend it to include a confining interaction.We show how to renormalize the theory using the subtracted equations for the transition matrix of the model.In section II, we present a pedestrian approach to the theory developed in section IIusing an harmonic oscilator interaction in the mass squared operatorequation,and show the results within this model.In section IV, we made several remarks on the qualitative aspects of the model and we give the summary of our work. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "II.EXTENDEDLIGHT-CONEQCD-INSPIREDTHEORY",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this section we extend the renormalized efective QCD-theory given in Ref. [3] to include confinement.The bare mass operator equation for the lowest Light-Front Fock-state component of a bound system of a constituent quark and antiquark of masses $m _ { 1 }$ and $m _ { 2 }$ in the spin O channel, is described as [1,2] ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { \\displaystyle M ^ { 2 } \\psi ( x , { \\vec { k } } _ { \\perp } ) = \\left[ \\frac { { \\vec { k } } _ { \\perp } ^ { 2 } + m _ { 1 } ^ { 2 } } { x } + \\frac { { \\vec { k } } _ { \\perp } ^ { 2 } + m _ { 2 } ^ { 2 } } { 1 - x } \\right] \\psi ( x , { \\vec { k } } _ { \\perp } ) } } } \\\\ { { - \\displaystyle \\int \\frac { d x ^ { \\prime } d { \\vec { k } } _ { \\perp } ^ { \\prime } \\theta ( x ^ { \\prime } ) \\theta ( 1 - x ^ { \\prime } ) } { \\sqrt { x ( 1 - x ) x ^ { \\prime } ( 1 - x ^ { \\prime } ) } } \\left( \\frac { 4 m _ { 1 } m _ { 2 } } { 3 \\pi ^ { 2 } } \\frac { \\alpha } { Q ^ { 2 } } - \\lambda - W _ { c o n f } ( Q ^ { 2 } ) \\right) \\psi ( x ^ { \\prime } , { \\vec { k } } _ { \\perp } ^ { \\prime } ) \\ : , } }  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $M$ is the mass of the bound-state and $\\psi$ is the projection of the light-front wave-function in the quark-antiquark Fock-state. The confining interaction is included in the model by $W _ { c o n f } ( Q ^ { 2 } )$ . The momentum transfer $Q$ is the spacepart of the four momentum transfer, the strength of the Coulomb-like potential is $\\alpha$ and $\\lambda$ is the bare coupling constant of the Dirac-delta interaction.For convenience the mass operator equation is transformed to the instant form representation [6,7],with ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx ( k _ { z } ) = \\frac { ( E _ { 1 } + k _ { z } ) } { E _ { 1 } + E _ { 2 } } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "and the Jacobian of the transformation of $( x , \\vec { k } _ { \\perp } )$ to $\\vec { k }$ is: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd x d \\vec { k } _ { \\perp } = \\frac { x ( 1 - x ) } { m _ { r } A ( k ) } d \\vec { k } ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "with the dimensionless function ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA ( k ) = \\frac { 1 } { m _ { r } } \\frac { E _ { 1 } E _ { 2 } } { E _ { 1 } + E _ { 2 } } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "and the reduced mass $m _ { r } = m _ { 1 } m _ { 2 } / ( m _ { 1 } + m _ { 2 } )$ . The individual energies are $E _ { i } = \\sqrt { m _ { i } ^ { 2 } + k ^ { 2 } }$ ( $\\textit { \\textbf { \\ i } }$ =1, 2) and $k \\equiv | \\vec { k } |$ 业 The mass operator equation in instant form momentum variables is given by: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle M ^ { 2 } \\varphi ( { \\vec { k } } ) = \\left[ E _ { 1 } + E _ { 2 } \\right] ^ { 2 } \\varphi ( { \\vec { k } } ) } } \\\\ { { \\displaystyle \\qquad - \\int d { \\vec { k } } ^ { \\prime } \\left( \\frac { 4 m _ { s } } { 3 \\pi ^ { 2 } } \\frac { \\alpha } { Q ^ { 2 } \\sqrt { A ( k ) A ( k ^ { \\prime } ) } } - \\frac { \\lambda } { m _ { r } \\sqrt { A ( k ) A ( k ^ { \\prime } ) } } + \\frac { W _ { c o n f } ( Q ^ { 2 } ) } { m _ { r } \\sqrt { A ( k ) A ( k ^ { \\prime } ) } } \\right) \\varphi ( { \\vec { k } } ^ { \\prime } ) \\ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $m _ { s } ~ = ~ m _ { 1 } + m _ { 2 }$ ，the phase-space factor is included in the factor $1 / \\sqrt { A ( k ) A ( k ^ { \\prime } ) } , \\sqrt { x ( 1 - x ) } \\psi ( x , \\vec { k } _ { \\perp } ) =$ $\\sqrt { A ( k ) } \\varphi ( \\vec { k } )$ . The momentum transfer is chosen in a rotationally invariant form as $Q ^ { 2 } = | \\vec { k } - \\vec { k ^ { \\prime } } | ^ { 2 }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The bound state masses comes from the diagonalization of the mass squared operator, however the massoperator of Eq.(5)is illdefined mathematically.The bound states masses are,as well,the poles of the Green's function of the theory.In view of the necessry regularization and renormalization of the model due to the singular interaction,we use the renormalization method of singular interactions developedin the context of nonrelativistic scatering equation [8] to derive the T-matrix and from which we obtain the poles of the Green's function. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A.Mass Operator and Green's Function ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The operator form of Eq.(5) is written as: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( M _ { 0 } ^ { 2 } + V + V ^ { \\delta } + V _ { c o n f } \\right) | \\varphi \\rangle = M ^ { 2 } | \\varphi \\rangle ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where the free mass operator, $M _ { 0 }$ ? $\\begin{array} { r } { \\mathbf { \\eta } ^ { \\prime } = E _ { 1 } + E _ { 2 } } \\end{array}$ ),is the sum of the energies of quark 1 and $2$ ， $V$ is the Coulomb-like potential, $V ^ { \\delta }$ is the short-range singular interaction and $V _ { c o n f }$ gives the quark confinement. According to Eq.(5) the matrix elements of these operators are given by: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\langle \\vec { k } | V | \\vec { k ^ { \\prime } } \\rangle = - { \\frac { 4 m _ { s } } { 3 \\pi ^ { 2 } } } { \\frac { 1 } { \\sqrt { A ( k ) } } } { \\frac { \\alpha } { Q ^ { 2 } } } { \\frac { 1 } { \\sqrt { A ( k ^ { \\prime } ) } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\langle \\vec { k } | V ^ { \\delta } | \\vec { k ^ { \\prime } } \\rangle = \\langle \\vec { k } | \\chi \\rangle \\frac { \\lambda } { m _ { r } } \\langle \\chi | \\vec { k ^ { \\prime } } \\rangle = \\frac { 1 } { \\sqrt { A ( k ) } } \\frac { \\lambda } { m _ { r } } \\frac { 1 } { \\sqrt { A ( k ^ { \\prime } ) } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\langle \\vec { k } | V _ { c o n f } | \\vec { k ^ { \\prime } } \\rangle = \\frac { 1 } { \\sqrt { A ( k ) } } \\frac { W _ { c o n f } ( Q ^ { 2 } ) } { m _ { r } } \\frac { 1 } { \\sqrt { A ( k ^ { \\prime } ) } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The phase-space factor $A ( k )$ is defined by Eq.(4),and $Q ^ { 2 }$ is the momentum transfer squared. For convenience of the formal manipulations,the form-factor of the separable singular interaction is introduced and defined by $\\langle \\vec { k } \\vert \\chi \\rangle =$ $1 / \\sqrt { A ( k ) }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Due to the confining interaction,the complete basis states used to describe the renormalized theory are the eigenstates of the mass squared operator without the singular interaction: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( M _ { 0 } ^ { 2 } + V + V _ { c o n f } \\right) | n \\rangle = M _ { n } ^ { 2 } | n \\rangle ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $n$ gives the quantum numbers of the eigenstate $| n \\rangle$ ，and $M _ { n } ^ { 2 }$ is eigenvalue of the mass squared operator. Our renormalization procedure is based on Green's function method,so we introduce the free Green's function of the theory,which is given by: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { 0 } ( M ^ { 2 } ) = \\sum _ { n } \\frac { | n \\rangle \\langle n | } { M ^ { 2 } - M _ { n } ^ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The poles of Eq.(11) give the eigenvalues of Eq.(10). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The complete Green's function of the theory includes the Dirac-delta potential,and it is solution of the following equation: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG ( M ^ { 2 } ) = G _ { 0 } ( M ^ { 2 } ) + G _ { 0 } ( M ^ { 2 } ) V ^ { \\delta } G ( M ^ { 2 } ) \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The poles ofEq.(12),on the real axis,are the eigenvalues of the mass squared operator of the complete theory given by Eq.(6). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "B.Renormalized T-matrix ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Inclose analogy to scattering theoryone can introduce the transition-matrix from which thefull Green's function of the theory can be derived: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG ( M ^ { 2 } ) = G _ { 0 } ( M ^ { 2 } ) + G _ { 0 } ( M ^ { 2 } ) T _ { \\mathcal R } ( M ^ { 2 } ) G _ { 0 } ( M ^ { 2 } ) \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where the matrix elements of the renormalized transition matrix, $T _ { \\mathcal { R } } ( M ^ { 2 } )$ , satisfy the subtracted form of the LippmanSchwinger equation [3,8]: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\langle n | T _ { \\mathcal { R } } ( M ^ { 2 } ) | n ^ { \\prime } \\rangle = \\langle n | T _ { \\mathcal { R } } ( \\mu ^ { 2 } ) | n ^ { \\prime } \\rangle } } \\\\ { { \\displaystyle ~ + \\sum _ { m } \\langle n | T _ { \\mathcal { R } } ( \\mu ^ { 2 } ) | m \\rangle \\left( \\frac { 1 } { M ^ { 2 } - M _ { m } ^ { 2 } } - \\frac { 1 } { \\mu ^ { 2 } - M _ { m } ^ { 2 } } \\right) \\langle m | T _ { \\mathcal { R } } ( M ^ { 2 } ) | n ^ { \\prime } \\rangle ~ . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The subtraction point $\\mu ^ { 2 }$ is arbitrary, and it can move without affecting the results of the theory, due to that physical constraint $T _ { \\mathcal { R } } ( \\mu ^ { 2 } )$ changes according to the Callan-Symanzik equation ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { d } { d \\mu ^ { 2 } } \\langle n | T _ { \\mathcal { R } } ( \\mu ^ { 2 } ) | n ^ { \\prime } \\rangle = - \\sum _ { m } \\langle n | T _ { \\mathcal { R } } ( \\mu ^ { 2 } ) | m \\rangle \\left( \\frac { 1 } { \\mu ^ { 2 } - M _ { m } ^ { 2 } } \\right) ^ { 2 } \\langle m | T _ { \\mathcal { R } } ( \\mu ^ { 2 } ) | n ^ { \\prime } \\rangle \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To solve Eq.(14),the T-matrix at the subtraction point should be found,taking into account the operator structure of the singular interaction,which is the separable form of Eq.(8),we write that ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\langle n | T _ { \\mathcal R } ( \\mu ^ { 2 } ) | n ^ { \\prime } \\rangle = \\langle n | \\chi \\rangle \\lambda _ { \\mathcal R } ( \\mu ^ { 2 } ) \\langle \\chi | n ^ { \\prime } \\rangle ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\lambda _ { \\mathcal { R } } ( \\mu ^ { 2 } )$ is the renormalized strength of the Dirac-delta interaction,which is fixed by the ground state of the pseudo-scalar, $^ { 1 } S _ { 0 }$ ,meson. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The solution of the subtracted scattering Eq.(14) with the T-matrix at the subtraction point defined by Eq.(16) is easily found,and it reads: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\langle n | T _ { \\mathcal R } ( M ^ { 2 } ) | n ^ { \\prime } \\rangle = \\langle n | \\chi \\rangle t _ { \\mathcal R } ( M ^ { 2 } ) \\langle \\chi | n ^ { \\prime } \\rangle ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where the reduced matrix element is ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt _ { \\mathcal R } ^ { - 1 } ( M ^ { 2 } ) = \\lambda _ { \\mathcal R } ^ { - 1 } ( \\mu ^ { 2 } ) + \\sum _ { m } | \\langle \\chi | m \\rangle | ^ { 2 } \\left( \\frac { 1 } { \\mu ^ { 2 } - M _ { m } ^ { 2 } } - \\frac { 1 } { M ^ { 2 } - M _ { m } ^ { 2 } } \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The divergence in the sum presented in Eq.(18),is exactly cancelled by the diference between the free Green's function appearing in that equation. The reduced matrix element, $t _ { \\mathcal { R } } ( M ^ { 2 } )$ , is as well, the result of the change in the renormalized coupling constant due to the dislocation of the subtraction point from $\\mu$ to $M$ .The masses of the interacting system are given by the zeros of $t _ { \\mathcal { R } } ^ { - 1 }$ which defines the zero angular momentum states of the bound quark-antiquark systems. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The physical condition given by the ground-state of the pion or the other pseudo-scalar mesons are the input to define the reduced matrix element of Eq.(18).Choosing the subtraction point at the mass of the ground state of the pseudo scalar meson,for example at the pion mass,this implies that the renormalized strength is zero and ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt _ { \\mathcal R } ^ { - 1 } ( M ^ { 2 } ) = \\sum _ { m } | \\langle \\chi | m \\rangle | ^ { 2 } \\left( \\frac { 1 } { \\mu ^ { 2 } - M _ { m } ^ { 2 } } - \\frac { 1 } { M ^ { 2 } - M _ { m } ^ { 2 } } \\right) \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "which has a zero at the mass $\\mu$ . The value of $\\mu$ , as the physical input, can be changed to study the splitting the $^ { 1 } S _ { 0 }$ （204号 and $^ { 3 } S _ { 0 }$ spectrum in a continuous way, as we are going to discuss in the next section. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "III.SPLITTINGOFTHE SPECTRUMINAPEDESTRIANAPPROACH",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Now to allow an analytic treatment of the renormalized theory，while keeping its physical content,we use equal mass constituent quarks and simplify Eq.(5) to the form: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( M _ { h . o . } ^ { 2 } + g \\delta ( \\vec { r } ) \\right) \\varphi ( \\vec { r } ) = M ^ { 2 } \\varphi ( \\vec { r } ) \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where the bare strength of the Dirac-delta interaction is $g$ , and the mass squared operator for the harmonic potential is ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { h . o . } ^ { 2 } = 4 ( k ^ { 2 } + m _ { q } ^ { 2 } ) + \\frac { 1 } { 6 4 } w ^ { 2 } r ^ { 2 } + a \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "in units of $\\hbar = c = 1$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The eigenvalue Eq.(1O) is given now by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( 4 ( - \\nabla ^ { 2 } + m _ { q } ^ { 2 } ) + \\frac { 1 } { 6 4 } w ^ { 2 } r ^ { 2 } + a \\right) \\Psi _ { n } ( \\vec { r } ) = M _ { n } ^ { 2 } \\Psi _ { n } ( \\vec { r } ) \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $n$ is the principal quantum number of the s-wave excited states and $\\Psi _ { n } ( \\vec { r } )$ is corresponding to the eigenstate of the harmonic oscillator. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The observation of the almost linear relationship between the mass squared of the $\\rho$ excited states with $n$ , as pointed out in Ref. [5],connects quite nicely to our model. The slope of the trajectory in the $( n , M ^ { 2 } )$ plane defines $w$ for each system,and the ground state mass determines $a$ . The constituent quark mass, $m _ { q }$ , is included by the mass of the vector meson ground-state.In this pedestrian approach, we are using that the constituent masses of the up-down and strange quarks are degenerated and due to that we willfit each case separately.The eigenvalues of Eq.(22)are given by $M _ { n } ^ { 2 } = n w + M _ { ( v . g . s ) } ^ { 2 }$ ，where $M _ { ( v . g . s ) }$ is the ground-state mass of the $^ 3 S _ { 1 }$ meson. (In the work of Ref.[5], in the place of our $n$ it is used $n - 1$ ） ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The reduced T-matrix of our pedestrian approach turns to be ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt _ { \\mathcal R } ^ { - 1 } ( M ^ { 2 } ) = ( 2 \\pi ) ^ { 3 } \\sum _ { n } \\vert \\Psi _ { n } ( 0 ) \\vert ^ { 2 } \\left( \\frac { 1 } { \\mu ^ { 2 } - M _ { n } ^ { 2 } } - \\frac { 1 } { M ^ { 2 } - M _ { n } ^ { 2 } } \\right) \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and the value of the s-wave eigenfunction at the origin,is given by [9]: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Psi _ { n } ( 0 ) = \\alpha ^ { \\frac { 3 } { 2 } } \\left[ \\frac { 2 ^ { 2 - n } } { \\sqrt { \\pi } } \\frac { ( 2 n + 1 ) ! ! } { n ! } \\right] ^ { \\frac { 1 } { 2 } } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\alpha ^ { - 1 }$ is the oscillator length. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The final form the reduced T-matrix of our pedestrian model is ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt _ { \\mathcal R } ^ { - 1 } ( M ^ { 2 } ) = ( 2 \\pi \\alpha ) ^ { 3 } \\sum _ { n = 0 } ^ { \\infty } \\frac { 2 ^ { 2 - n } } { \\sqrt { \\pi } } \\frac { ( 2 n + 1 ) ! ! } { n ! } \\left( \\frac { 1 } { \\mu ^ { 2 } - n w - M _ { ( v , g , s ) } ^ { 2 } } - \\frac { 1 } { M ^ { 2 } - n w - M _ { ( v , g , s ) } ^ { 2 } } \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The zeros of Eq.(25) gives the eingevalues of the the mass squared operator of Eq.(20). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The parameters of the present model are $w$ , the ground state mass of the $^ 3 S _ { 1 }$ meson and the renormalized strength of the Dirac-Delta interaction.We have here,the same number of parameters of the original model[1-3], which is the canonical number of7 ( $\\alpha$ and 6 constituent quark masses) plus one,the strength of the renormalized Dirac-delta interaction. In the next,we show the numerical results for the splitting of the $\\pi - \\rho$ and $K - K ^ { * }$ spectrum,due to the Dirac-delta interaction acting in the pseudo-scalar $^ { 1 } S _ { 0 }$ channel. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In Figure 1,we present our results for the $\\pi - \\rho$ mass splitting for the frst six levels as a function of the ground-state pseudo-scalar mass $\\mu$ , which interpolates from the pion to the rho meson spectrum. The value of the parameter $w =$ $1 . 3 9 \\mathrm { \\ G e V ^ { 2 } }$ is taken from Ref.[5].The large splitting which happens in the ground state,is diminished in the excited states,although the model attributes consistently smaller masses for the $^ { 1 } S _ { 0 }$ states compared to the respective $^ 3 S _ { 1 }$ ones. The $\\rho ( 1 7 0 0 )$ is suggested to be a D-wave meson [5],and in the figure it does not fit wellin our picture for $^ 3 S _ { 1 }$ meson resonance. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Although,it was pointed out[5] that the kaon trajectory is more uncertain, we have addressed here the splitting between the $^ { 1 } S _ { 0 }$ and $^ 3 S _ { 1 }$ excited states, because our objective is to verify the consistency of the model. The results for the kaon states $^ { 1 } S _ { 0 }$ and $^ { 3 } S _ { 1 }$ ， $K$ and $K ^ { * }$ ,are presented in figure 2. These calculations confirms the pattern which we have observed in figure 1:thelarge diference of the mases of the ground states translates to a much smaller difference for the excited states,and the masses of the $^ { 1 } S _ { 0 }$ states are consistently below the correspondent $^ 3 S _ { 1 }$ meson masses. The oscillator parameter for the kaon system is fitted to the diference of the masses squared of the $K ^ { * } ( 1 4 1 0 )$ and $K ^ { * } ( 8 9 2 )$ , with value of $w = 1 . 1 9 \\mathrm { G e V ^ { 2 } }$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "IV.REMARKS ON THEQUALITATIVE ASPECTS OF THE MODEL AND SUMMARY ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The pseudo-scalar mass spectrum represents a true challnge to theoretical modelling outside the physics described by just the confining interaction [1O]. The splitting between the $\\pi - \\rho$ mass,and the huge mass difference of the $\\pi$ to its first resonant state $\\pi ( 1 3 0 0 )$ , have to be found from the fitting of the potential parameters with the hyperfine (short-range) interaction specially tuned to the pion mass.The successful description of the splitting among the S-wave hyperfine pairs $\\pi - \\rho$ ， $K - K ^ { * }$ and so on, depends crucially on the structure of the short-range part of the hyperfine potential,asconcluded in the seminal work by Godfrey and Isgur [10].The work of Anisovich,Anisovich and Sarantsev [5] showing the trajectories of the mesons in the $( n , M ^ { 2 } )$ and $( J , M ^ { 2 } )$ planes,putted a phenomenological order tothe meson spectrum,although the driven physics ofthis nice observation was notclear.Inregardto this last aspect, we believe that the present work reveals some of the physics of the work in Ref. [5]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In essence,the main physics of our model are given by two ingredients: the dynamics described by a massquared operatorand the Dirac-delta interaction,which brings to the model the smallpion mass.We should point out that in theliterature,theatractiveshort-range interaction hasbeen extensivelyaddressedinthe studyofthe meson structure and spectrum.Below,we will discuss very brieflysome of these previous works,that are more closely related to the present one in that particular aspect. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The Godfrey and Isgur model was used to construct light-cone wave-functions forthe pion,rho-meson and nucleon [11],and it was pointedout thatahigh-momentumtail in the wave-functionabove1GeV/c[1l]isdueto theshort range attraction.The impact on the structure of the pion andrho mesons were tested in electroweak observables with some sucess[1].However,it was pointedout[12] thatthe existing electroweakdata wasnot sensitive enoughtoallow adefinite phenomenological conclusion about the presence of hard-constituent quarks in the hadron wave-function. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Another approach to the meson spectrum within acovariant quark model[13],using the framework of instantaneous Bethe-Salpeter equation,also pointedout the importance of the short-range attraction in the meson spectrum,due to the large mass splittings in the pseudo scalar ( $J = 0$ ）sector,which in that work was attributed to the two-body point-like part of 't Hooft's instant induced $U _ { A } ( 1 )$ symmetry breaking interaction [14]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The structure of the pion light-cone wave function，has been recently probed experimentally by diffractive dissociation of 500 GeV/c $\\pi ^ { - }$ into dijets which provided a direct measurement of the pion valence-quark momentum distributionforthefirst time[15].Theresult giveastringent testofthe asymptotic wave-function[16],which matches the high momentum tail of the pion wave-function [3].In that sense,this experiment supports our model with the singular interaction it contains. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "From the previous discusion,where we just mentioned some examples,becomes clear the necesity ofa strong shortrange attractive interaction to built the pion,as seenin the modeling of the light pseudo scalar meson spectrum and intherecent measurementof the pion valence wavefunction.In that sense,webelieve that the Dirac-deltainteraction parameterizes the complex short-range physics of Quantum-Chromodynamics,which is brought to the model by the small pion mass. The splitting of the pion and kaon spectrum from the respective $^ { 3 } S _ { 1 }$ -meson counterparts, are a direct consequenceof the Dirac-delta interaction and its renormalization,the structureof the mass squaredoperator equation with confinement,with all the relativistic effects implied by it. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In summary,we extended the renormalized light-cone QCD-inspired efective theory to include confinement in the mass squared operator,which has a Dirac-delta interaction.We applied the model to study the spliting of the （204 $\\pi - \\rho$ and $K - K ^ { * }$ spectrum, using a pedestrian approach to it, with an harmonic oscillator interaction. In this way, we derived an algebraic equation, where the solutions give the mass squared of the $^ { 1 } S _ { 0 }$ states,as a function of the ground-state of the pseudo-scalar meson. The model acommodates naturaly the large spliting of the ground state of the light $^ { 1 } S _ { 0 }$ and $^ { 3 } S _ { 1 }$ and its suppression in the excited states, in qualitative agreement with the experimental data.At the same time the model provides a sound physical basis to understand the systematics of the $q \\overline { { q } }$ -states in the $( n , M ^ { 2 } )$ plane and as well in the $( J , M ^ { 2 } )$ plane.Therefore,we have shown that the extension of the light-cone QCD-inspired model to includeconfinement while keping its simplicityand renormalizability,provides a reasonable picture of the spectrum of light mesons. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "TF thanks the Max Planck Institute of Heidelbergand specialy to Prof.Hans-Christian Pauli for the warm hospitalityduring the development of this work.TF also thanks Conselho Nacional de Desenvolvimento Cientifico e Tecnol6gico (CNPq) and Fundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP)of Brazil for partial financial support.SGZ is partly supported by the Major State Basic Research Development Program of China Under Contract Number G20o077407and by the Centerof Theoretical Nuclear Physics,NationalLaboratory of Heavy Ion Accelerator at Lanzhou, China. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] S.J.Brodsky,H.C.Pauli,and S.S.Pinsky,Phys.Rep.301,299 (1998).   \n[2]H.C.Pauli,Nucl.Phys.B (Proc. Supp.) 90,154 (2000).   \n[3] T.Frederico and H.-C. Pauli, Phys.Rev.D64, 054007 (2001).   \n[4] D.E.Groom et.al.,Eur.Phys.J.C15,1 (2000).   \n[5]A.V.Anisovitch,V.V.Anisovich,and A.V. Sarantsev,Phys.Rev.D62,051502(R) (2000).   \n[6] M.Sawicki, Phys.Rev.D32,2666(1985).   \n[7] H.C.Pauli,Nucl. Phys.B (Proc. Supp.) 90,259 (2000).   \n[8] T.Frederico,A.Delfino,and L.Tomio,Phys.Lett.B 481,143(2000). [9] P.Goldhammer,Rev.Mod. Phys.,35(1963) 40.   \n[10] S.Godfreyand N.Isgr,Phys.Rev.D32,185 (1985);S.GodfreyandJ.Napolitano,Rev.Mod.Phys.71,1411(999); and references therein.   \n[11]F.Cardarell,LL.Grach,LM.Narodetski,E.Pace,G.Salme andS.Simula,Phy.Lett.B33,1(1994);F.Cardrel, IL.Grach,IM.Narodetskii,G.Salme andS.Simula,Phys.Lett.B349,393(995);F.Cardareli,E.Pace,G.Salmeand S. Simula, Phys. Lett.B357, 267 (1995).   \n[12]H.-M.Choi and C.-R.Ji,Phys.Rev.D59,074015 (199);D.Arndt and C.-R.Ji,Phys.Rev.D60,09402(1999).   \n[13]R.Ricken,M.Koll,D.Merten,B.Ch.Metsch,H.R.PetryEur.Phys.Jour.A9,221(2000),andreferencesterein.   \n[14] G.'t Hooft,Phys. Rev.D14,3432 (1974).   \n[15] E.M. Aitala et al., Phys.Rev. Lett.86, 4768 (2001).   \n[16]G.P.Lepage and S.J.Brodsky, Phys.Rev.D22,2157 (1980). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/54b6175795294c143337acdb6292d3a467e46af0a80e81e78c0e8063a297613f.jpg",
+        "img_caption": [
+            "FIG.1. Mass of the excited $q \\overline { { q } }$ state $( M ^ { * } )$ as a function of the mass $( \\mu )$ of the pseudoscalar meson ground state for $I = 1$ Numerical results for $M ^ { * }$ from the zeros of Eq.(25). The experimental data comes from Ref.[4]. The data on the left and right of the figure corresponds to the $^ { 1 } S _ { 0 }$ and $^ 3 S _ { 1 }$ mesons, respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/4a0dc64c277f999cc3d229a4cb01579ae5c412159cb5bfab30a896a7b340653a.jpg",
+        "img_caption": [
+            "FIG.2．Mass of the excited $q \\overline { { q } }$ state $( M ^ { * } )$ as a function of the mass $( \\mu )$ of the pseudoscalar meson ground state for $I = 1 / 2$ （204号 of the strange sector. Numerical results for $M ^ { * }$ from the zeros of Eq.(25). The experimental data comes from Ref.[4]. The data on the left and right of the figure corresponds to the $^ { 1 } S _ { 0 }$ and $^ 3 S _ { 1 }$ mesons,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    }
+]

@@ -1,0 +1,906 @@
+[
+    {
+        "type": "text",
+        "text": "柔性车间内AGV最优替换比研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "徐云琴，叶春明，曹磊(上海理工大学，管理学院，上海 200093)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对柔性车间内AGV最优替换比问题，建立了员工、AGV共同搬运的柔性车间调度模型。该模型以完工时间最小、成本最少为目标，从静态分析与动态分析两方面求得最优替换比。静态分析部分主要采用线性规划完成，动态分析部分采用粒子群算法进行求解。针对动态分析部分，提出启发式规则分配AGV、员工搬运操作。通过算例得出AGV最优替换比的帕累托最优解集。并发现AGV最优替换比和AGV价格有关。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：FJSP；AGV；粒子群算法；替换比 中图分类号：TP181 doi: 10.3969/j.issn.1001-3695.2018.03.0277 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research on optimal replacement ratio of AGV in flexible workshops ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xu Yunqin, Ye Chunming, Cao Lei (SchoolofBusiness,UniversityofShanghai forScience&Technology,Shanghai2ooo93,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Inorder tosolve the problemofoptimalreplacementratioofAGVs inflexible workshops,this paper established a flexible shop scheduling model for employees and AGVs.This modeltook the goal of minimumcompletion time and costas the goal andobtained theoptimalreplacementratio from staticanalysisand dynamicanalysis.The static analysis part mainly usedthelinearprogramming tocomplete,thedynamic analysis partused theparticleswarmalgorithmtosolve.For thedynamic analysis part,this paper proposed heuristicrules toallcate AGVsandemployeehandling operations.Through experiments,this paper obtains the Pareto optimal solution setof optimal replacement ratioofAGV.And this paper finds that AGVoptimal replacement ratio is related to AGV price. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:FJSP;AGV; particle swarm algorithm; replacement ratio ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着科技发展，机器人成本低，工作质量高，精准度高，节能减排等优点越来越明显，制造业或者服务业选择智能机器人来代替一部分甚至全部人工，让人摆脱简单又枯燥无味的操作，还使公司获得更大收益。最优人机替换比指的是制造业投资机器人代替人工时，在可接受的投资范围内，使得收益最大投资尽量小时的员工与智能机器人的数量比。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，国外关于人机比的研究主要基于机器不能自动加工，去讨论一个工人操作几台机器的问题，目的是提高生产率和从动态的角度，通过结合调度来求解最优人机比。文献[1]通过工作测量来获取当前半导体公司人机比，然后再通过时间测量，减少不必要的操作和取消非增值活动来进行工作标准化从而优化人机比。文献[2]结合埃塞俄比亚针织服装行业中不同人机比率的各公司，去分析人机比的不同对裁缝工厂生产效率的影响。文献[3]通过对约束和非约束加工设备的仿真研究，提出了用仿真来建立人机比的案例研究。随着科学技术的发展，越来越多工业机器人投入生产使用，因此上述这种人机合作的模式将逐渐被自动化替代。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，国内关于人机替换的研究主要集中在从经济的角度分析机器换人的可行性。许军等人[4指出当机器人成本逐渐降低到与劳动力成本相交的时候，厂商会考虑人机替换。孙玉卫[5]研究的是机器换人政策补贴以定额还是定比策略补贴给供应厂商和应用企业，使得政策补贴效果最好。文献[6,7]研究的是企业机器换人之后，采用项目成本效益去分析机器换人的经济效益。文献[8]分析了汽车厂内AGV替换人力前后的成本，并分析影响成本的相关因素。不难发现上述文章只是证明了机器换人经济上可行，却忽视研究企业进行机器换人的过程中投资机器人与人的数量比。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "笔者在查阅文献的过程发现，有学者研究一人操作多机器时的人机比，也有学者研究人机替换的经济性，暂时还未有学者研究人机替换比。本文的创新点是将二者结合，使之更适合目前我国制造业再升级的大潮流。在柔性车间内，可以引进AGV替代部分或者全部员工搬运，因此讨论引进多少AGV与剩下多少员工有一定的现实意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文研究柔性车间AGV最优替换比问题时，以完工时间、员工与AGV的费用为目标，从不考虑工件调度的静态角度和考虑工件调度的动态角度讨论最优替换比。从微观和宏观两个角度进行研究，更加符合现实情况，可以作为企业进行车间人机替换的参考依据。在企业做人机替换决策时，关键在于对订单的准确预测。如果订单预测过少，造成违约成本，预测过多，使人、机利用率变低。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 静态分析——AGV最优替换比",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1柔性车间内AGV最优替换比建模 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "某公司想在柔性生产车间内引进AGV代替部分或者全部员工搬运。由于流动资金有限，希望投资后成本低于投资前。柔性车间原有X人负责搬运，引进AGV后剩下 $\\mathbf { x }$ 个工人。员工年的工资收入为 $g _ { \\wedge }$ 元，辞退一个员工需要 $^ { c i }$ 元。工人的平均搬运速度 $\\nu _ { \\lambda }$ 件/min。现有平均月订单数 $\\mathbf { m }$ 每天工作8小时，二班制，每人每月排班工作22天。购买AGV需要 $p _ { \\mathrm { A G V } }$ 元/台，使用寿命 $\\mathfrak { n }$ 年，共y台。AGV的平均搬运速度 $\\nu _ { \\mathrm { A G V } }$ 件 $/ \\mathrm { m i n }$ ，维修费用wei元/年/台。AGV投入使用前的安置费用 $a n$ 元。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目标函数: $f _ { 1 } = \\mathrm { m i n } ( \\frac { m } { 2 \\bullet \\mathrm { y } \\bullet \\nu _ { \\mathrm { A G V } } + x \\bullet \\nu _ { \\lambda } } )$ $f _ { 2 } = \\operatorname* { m i n } ( C _ { \\mathrm { A G V } } + C _ { \\wedge } )$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "约束条件：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { C _ { \\mathrm { A G V } } + C _ { \\mathrm { A } } \\leq X \\times g _ { \\mathrm { A } } \\times n } \\\\ { \\displaystyle \\frac { m } { 2 \\times y \\times \\nu _ { \\mathrm { A G V } } + x \\times \\nu _ { \\mathrm { A } } } \\leq \\frac { m } { X \\times \\nu _ { \\mathrm { A } } } } \\\\ { C _ { \\mathrm { A G V } } = y \\times p _ { \\mathrm { A G V } } + a n + w e i } \\\\ { C _ { \\mathrm { A } } = x \\times g _ { \\mathrm { A } } \\times n + ( X - x ) \\times c i } \\\\ { x \\in N ^ { * } , y \\in N ^ { * } } \\\\ { x < X } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2问题求解",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "投资前，15个员工负责搬运。员工工资每年6万，辞退一个员工需要付一次性辞退费0.5万。员工搬运速度为1件 $/ 3 \\mathrm { m i n }$ 即160 件/天。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "投资后，AGV单价30万每台，AGV搬运速度1件/min，每天不轮班，即960件/天。一次性总安装费用20万，AGV维修费每台每年0.3万。且投资前后，柔性车间平均月订单件52000 件。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过 MATLAB 运算得到以下非劣解。其中每一列依次表示AGV的数量、员工的数量、需要工作的天数、成本。那么投资前[01521.67270]由结果可以看出，引进AGV可以减少成本，并提高整体搬运速度，从而帮助企业获得更大的利润。因为该柔性车间引进AGV前，各加工设备加工速度与搬运的员工速度是处于一个平衡状态。当车间只引进AGV时，整体的生产产品速度会受到加工设备的约束，因此选择能完成该订单前提下，使成本最小的人机组合。那么，最优替代比 $\\ c =$ 员工数量：AGV数量 $\\scriptstyle = 0 \\colon 3$ ，且较投资前，工作时间缩短3.61天，成本减少149.8万。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "[AGV人天数成本] $\\left[ \\begin{array} { l l l l } { 3 } & { 0 } & { 1 8 . 0 6 } & { 1 2 0 . 2 } \\\\ { 4 } & { 0 } & { 1 3 . 5 4 } & { 1 5 . 1 } \\\\ { 5 } & { 0 } & { 1 0 . 8 3 } & { 1 8 2 } \\\\ { 6 } & { 0 } & { 9 . 0 3 } & { 2 1 2 . 9 } \\\\ { 7 } & { 0 } & { 7 . 7 4 } & { 2 4 3 . 8 } \\\\ { 3 } & { 1 } & { 1 7 . 1 1 } & { 1 3 7 . 7 } \\\\ { 4 } & { 1 } & { 1 3 } & { 1 6 8 . 6 } \\\\ { 5 } & { 1 } & { 1 0 . 4 8 } & { 1 9 . 5 } \\\\ { 6 } & { 1 } & { 8 . 7 8 } & { 2 3 0 . 4 } \\end{array} \\right]$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3单价和工资敏感性分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由 AGV价格分析可知，AGV价格跨度很大，有些低至5万，有些高达100万，因此讨论不同价格的AGV对最佳替换比的影响是有现实意义。由下图可知，当AGV单价在10到50万时，最优人机替换比为0:3；当AGV单价在60到80万时，最优人机替换比为2:3；当AGV单价大于等于90万时，该柔性车间不应引进AGV。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由员工工资具体行业工资不同，且随着时间变化有所不同，因此有必要研究员工工资对最优人机替换比的影响。由图1、2可以看出工人年工资在6万到10万之间，该柔性车间的人机最优替换比不变，均为0:3。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/40f21e214d392e7aea61a3a398a338aeaded715c9d9a2e16b4c62f0f0e42e7b9.jpg",
+        "img_caption": [
+            "图1AGV单价/万与最优人机替代比(工资 $^ { - = 6 }$ 万/年)"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f2b1dda1e09f1c52468600c7aaacc862ca062c191655494e76972b6f5c49cfe.jpg",
+        "img_caption": [
+            "图2工人年工资/万与最优替代比( $\\mathrm { A G V } { = } 3 0$ 万/台) "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 动态分析——AGV最优替换比",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1柔性车间内AGV最优替换比问题描述与建模",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.1问题描述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "柔性车间AGV最优替换比问题考虑原有X个员工负责搬运作业，现因人工成本过高的问题准备投资AGV来负责部分搬运作业并解雇部分员工。投资AGV后员工与AGV的总成本指的是从AGV投入使用到报废整个周期内，员工相关费用（含工资、辞退费用）及AGV相关费用（含AGV产品成本、相关安装费、维修费)。投资AGV前总成本指的在相同时间内，员工相关费用（含工资、辞退费用)。 $n$ 工件在 $m$ 台设备上加工。并由 $\\textbf { x }$ 个员工与y台AGV共同负责工件在设备间的运输。且每个员工运输和 AGV 运输是相互独立的。每个零件都有 $n _ { i }$ 道不同的工序 $n _ { i } < m$ ，每个工序可在多台设备上加工。有如下假设：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)AGV的搬运路线是固定的，AGV搬运不延时，不同AGV搬运互不干扰。b）AGV工作内容是：从上一道工序加工设备的缓存区立即搬运至下一道工序的缓存区。c）员工的搬运路线是固定的，员工搬运不延时，不同员工搬运互不干扰。d）员工搬运工作内容是：从上一道工序加工设备的缓存区立即搬运至下一道工序的缓存区。e）零时刻，所有设备和机器都可用f)工件从加工设备的缓存区到开始加工的时间是瞬时完成，消耗时间忽略不计g)每台设备一次只能加工一个零件，每个零件在设备上加工时不中断。h）设备加工顺序约束，加工设备按先到先加工（FCFS）规则。i)不同工件先后无约束，同种工件必须先完成上一道工序，然后再进行下一道工序。j）所有待加工的工件放在装载台M0，加工好的工件放在卸载台 $\\mathrm { { M m } } { + } 1$ 处。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2模型建立",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$C _ { \\mathrm { A G V } }$ 表示 AGV 相关费用（含 AGV 产品成本、相关安装费、维修费)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$C _ { \\wedge }$ 表示员工相关费用（含工资、辞退费用)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathfrak { n }$ 种工件，工件 $i : \\{ 1 , 2 , 3 , . . . n \\}$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "m台设备，装载台 $M _ { 0 }$ ，卸载台 $\\boldsymbol { M } _ { { \\scriptscriptstyle m + 1 } }$ ，设备$j : \\{ 0 , 1 , 2 , 3 , . . . m , m + 1 \\}$ （20",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "X个员工，投资前员工数量$\\mathbf { x }$ 个员工，投资后员工Human:{1,2,3...x}y台AGV，投资后搬运机器人 $R : \\{ 1 , 2 , 3 , . . . y \\}$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "每个工件i有 $n _ { i }$ 道工序，工序 $k : \\{ 1 , 2 , 3 , . . . n _ { i } \\}$ ，即工件i的第$\\mathbf { k }$ 道加工工序： $O _ { i , k }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$t _ { i , k } ^ { b }$ 工序 $O _ { i , k }$ 开始加工时刻， $t _ { i , k } ^ { c }$ 工序 $O _ { i , k }$ 完成加工时刻。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$p _ { i , k }$ 工序 $O _ { i , k }$ 的加工时间。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$h t _ { i , k } ^ { b }$ 工序 $O _ { i , k - 1 }$ 完成后，员工开始搬运工件至工序 $O _ { i , k }$ 所在加工设备缓存区的时刻。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$h t _ { i , k } ^ { c }$ 员工完成搬运时刻。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$r t _ { i , k } ^ { b }$ 工序 $O _ { i , k - 1 }$ 完成后，AGV开始搬运工件至工序 $O _ { i , k }$ 所在加工设备缓存区的时刻。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$r t _ { i , k } ^ { c }$ 表示AGV完成搬运时刻。  \n$h T _ { j _ { 1 } , j _ { 2 } }$ 表示员工从设备 $j _ { 1 } ^ { \\mathrm { ~ ~ } }$ 搬运工件至设备 ${ \\bf \\nabla } _ { j _ { 2 } }$ 所需要的时间$h T _ { _ { j _ { 1 } , j _ { 2 } } } ^ { \\cdot }$ 表示员工从设备 $j _ { 1 } ^ { \\mathrm { ~ ~ } }$ 搬运空载至设备 ${ \\bf { j } } _ { 2 }$ 所需要的时间$r T _ { j _ { 1 } , j _ { 2 } }$ 表示AGV从设备 $j _ { 1 } ^ { \\mathrm { ~ ~ } }$ 搬运工件至设备 ${ \\bf \\nabla } _ { j _ { 2 } }$ 所需要的时间$r T _ { _ { j _ { 1 } , j _ { 2 } } } ^ { \\mathrm { ' } }$ 表示 AGV 从设备 $j _ { 1 } ^ { \\mathrm { ~ ~ } }$ 搬运空载至设备 $j _ { 2 }$ 所需要的时间目标函数 $f _ { 1 } = \\operatorname* { m i n } ( \\operatorname* { m a x } _ { 1 \\leq i \\leq n } t _ { i , n _ { i } } ^ { c } )$ （20号",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { 2 } = \\operatorname* { m i n } ( C _ { \\mathrm { A G V } } + C _ { \\wedge } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "约束条件：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a）工件从装载台搬运出来进行第一道工序的加工，且工序$O _ { i , 1 }$ 在加工设备j上加工。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\sum _ { j = 1 } ^ { m } p _ { i , 1 } \\ast x _ { i , 1 , j } + r T _ { j _ { 0 } , j } \\leq t _ { i , 1 } ^ { c } } } \\\\ { { \\displaystyle \\sum _ { j = 1 } ^ { m } p _ { i , 1 } \\ast x _ { i , 1 , j } + h T _ { j _ { 0 } , j } \\leq t _ { i , 1 } ^ { c } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b）工序 $O _ { i , k }$ 在加工设备j上加工。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt _ { i , k } ^ { b } + \\sum _ { j = 1 } ^ { m } ( P _ { i , k , j } { ^ { * } x } _ { i , k , j } ) { \\leq } t _ { i , k } ^ { c }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c）搬运完成之后才能进行加工。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { 0 \\leq r t _ { i , k } ^ { c } \\leq t _ { i , k } ^ { b } } \\\\ { 0 \\leq h t _ { i , k } ^ { c } \\leq t _ { i , k } ^ { b } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d）工序 $O _ { i , k }$ 加工完成，立即搬运。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { t _ { i , k } ^ { c } \\le r t _ { i , k + 1 } ^ { b } } \\\\ { t _ { i , k } ^ { c } \\le h t _ { i , k + 1 } ^ { b } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e)工件前后工序搬运时间约束：AGV或者员工从工序 $O _ { i , k }$ 所在加工设备搬运至工序 $O _ { i , k + 1 }$ 所在加工设备。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr t _ { i , k + 1 } ^ { c } = \\sum _ { j _ { 1 } = 1 } ^ { m } \\sum _ { j _ { 2 } = 1 } ^ { m } x _ { i , k , j _ { 1 } } * x _ { i , k + 1 , j _ { 2 } } * r T _ { j _ { 1 } , j _ { 2 } } + r t _ { i , k + 1 } ^ { b }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh t _ { i , k + 1 } ^ { c } = \\sum _ { j _ { 1 } = 1 } ^ { m } \\sum _ { j _ { 2 } = 1 } ^ { m } x _ { i , k , j _ { 1 } } * x _ { i , k + 1 , j _ { 2 } } * h T _ { j _ { 1 } , j _ { 2 } } + h t _ { i , k + 1 } ^ { b }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "f）相邻两道搬运任务时间约束：一个AGV（员工）完成上道搬运任务，行驶到下道搬运任务的初始加工设备，再将该工件搬运至加工设备上。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\displaystyle { r t _ { i _ { 1 } , k _ { 1 } } ^ { c } } + \\sum _ { j _ { 1 } = 1 } ^ { m } \\sum _ { j _ { 2 } = 1 } ^ { m } x _ { i _ { 1 } , k _ { 1 } , j _ { 1 } } * x _ { i _ { 2 } , k _ { 2 } - 1 , j _ { 2 } } * { r T _ { j _ { 1 } , j _ { 2 } } } ^ { \\prime } + \\sum _ { j _ { 2 } = 1 } ^ { m } \\sum _ { j _ { 3 } = 1 } ^ { m } x _ { i _ { 2 } , k _ { 2 } - 1 , j _ { 2 } } } \\\\ & { * x _ { i _ { 2 } , k _ { 2 } , j _ { 3 } } * r T _ { j _ { 2 } , j _ { 3 } } \\le r t _ { i _ { 2 } , k _ { 2 } } ^ { c } + M ( 1 - r y _ { i _ { 1 } , k _ { 1 } , i _ { 2 } , k _ { 2 } } ) } \\\\ & { \\displaystyle { H t _ { i _ { 1 } , k _ { 1 } } ^ { c } } + \\sum _ { j _ { 1 } = 1 } ^ { m } \\sum _ { j _ { 2 } = 1 } ^ { m } x _ { i _ { 1 } , k _ { 1 } , j _ { 1 } } * x _ { i _ { 2 } , k _ { 2 } - 1 , j _ { 2 } } * h T _ { j _ { 1 } , j _ { 2 } } + \\sum _ { j _ { 2 } = 1 } ^ { m } \\sum _ { j _ { 3 } = 1 } ^ { m } x _ { i _ { 2 } , k _ { 2 } - 1 , j _ { 2 } } } \\\\ & { * x _ { i _ { 2 } , k _ { 2 } , j _ { 3 } } * h T _ { j _ { 2 } , j _ { 3 } } \\le h t _ { i _ { 2 } , k _ { 2 } } ^ { c } + M ( 1 - h y _ { i _ { 1 } , k _ { 1 } , i _ { 2 } , k _ { 2 } } ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "g)同一加工设备加工的工序约束： $O _ { i 1 , k 1 }$ 、 $O _ { i 2 , k 2 }$ 先后在同一加工设备加工。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt _ { i 1 , k 1 } ^ { c } + p _ { i _ { 1 } , k _ { 1 } } \\leq t _ { i 2 , k _ { 2 } } ^ { c } + M ( 1 - z _ { i _ { 1 } , k _ { 1 } , i _ { 2 } , k _ { 2 } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "h）一道工序只在加工设备加工一次。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { j = 1 } ^ { m } x _ { i , k , j } = 1\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "i）工序 $O _ { i , k - 1 }$ 在加工设备j上加工，搬运至卸载台。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt _ { i , n _ { \\mathrm { i } } } ^ { b } + \\sum _ { j = 1 } ^ { m } p _ { i , n _ { \\mathrm { i } } } * x _ { i , n _ { \\mathrm { i } } , j } + r T _ { j , j _ { m + 1 } } \\leq t _ { i , n _ { \\mathrm { i } } } ^ { c }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt _ { i , n _ { 1 } } ^ { b } + \\sum _ { j = 1 } ^ { m } p _ { i , n _ { 1 } } * x _ { i , n _ { 1 } , j } + h T _ { j , j _ { m + 1 } } \\leq t _ { i , n _ { 1 } } ^ { c }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "j）其他。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny = + \\infty\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i , k , j } = \\{ \\begin{array} { l c } { 1 } & { \\nexists \\underline { { \\cdots } } \\underline { { \\mathrm { T } } } \\mathrm { E } \\underline { { \\div } } O _ { i , k } \\nW _ { \\mathrm { i } } \\underset { \\mathrm { ~ \\# } } { \\uparrow } \\underline { { \\land } } \\underset { \\mathrm { ~ \\# } } { \\uparrow } \\mathrm { E } \\underline { {  } } j \\mathrm { E } j \\mathrm { H } \\mathrm { i } } \\\\ { 0 } & { \\ncong \\hbar } \\end{array} \n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr y _ { i _ { 1 } , k _ { 1 } , i _ { 2 } , k _ { 2 } } = \\left\\{ \\begin{array} { r r } { 1 } & { \\ddag \\fleftrightarrow { \\mathrm { L } } \\mathrm { L } \\overrightarrow { \\mathcal { F } } O _ { i _ { 1 } , k _ { 1 } } \\rlap / \\hbar \\mathsf { J } \\mathsf { J } \\mathsf { J } O _ { i _ { 2 } , k _ { 2 } } \\boxplus } \\\\ { 0 } & { \\ddag \\ddagger { \\mathrm { R } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh y _ { i _ { 1 } , k _ { 1 } , i _ { 2 } , k _ { 2 } } = \\left\\{ \\begin{array} { r r } { 1 } & { \\ddag \\fleftrightarrow { \\mathrm { \\ \" { Z } } } \\mathrm { { Z } } \\dag \\overrightarrow { \\mathrm { { F } } } O _ { i _ { 1 } , k _ { 1 } } \\ddag \\mathrm { { f } } \\mathrm { { I } } O _ { i _ { 2 } , k _ { 2 } } \\mathrm { { f } } \\dag \\mathrm { { I } } } \\\\ { 0 } & { \\ddag \\ddagger \\nearrow } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\boldsymbol { \\mathcal { Z } } _ { i _ { 1 } , k _ { 1 } , i _ { 2 } , k _ { 2 } } = \\left\\{ \\begin{array} { l l } { 1 } & { \\overleftrightarrow { \\mathcal { G } } \\underline { { \\boldsymbol { \\Sigma } } } \\boldsymbol { \\Psi } O _ { i _ { 1 } , k _ { 1 } } \\overrightarrow { \\hbar } \\boldsymbol { \\Psi } \\boldsymbol { \\mathbb { I } } O _ { i _ { 2 } , k _ { 2 } } \\overleftrightarrow { \\boldsymbol { \\mathcal { Q } } } \\boldsymbol { \\Xi } \\boldsymbol { \\it \\Psi } } \\\\ { 0 } & { \\overleftrightarrow { \\boldsymbol { \\Xi } } \\boldsymbol { \\it \\mathcal { \\widehat { R } } } } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2构建帕累托最优解集",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如果调度方案 $\\textbf { \\em x }$ 为帕累托最优解，表示方案 $\\mathbf { x }$ 不被可行调度集合中任何一个调度方案所支配，即如果要改进 $\\mathbf { x }$ 对应的任何一个目标函数值必须要削弱至少一个其他目标函数值[9]。方案 $\\textbf { x }$ 支配方案y表示方案 $\\mathbf { x }$ 对应的所有目标函数值不比方案y对应的所有目标函数值差，且至少存在一个目标函数值优于方案y所对应的目标函数值。多目标调度问题的最优解不是唯一的，而是由多个帕累托最优解组成的帕累托最优解集合。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文结合双元锦标赛与动态淘汰制来构建帕累托最优解集[10]。首先取出方案集合A中第一个方案x，剩下的方案组成集合B。将方案 $\\textbf { x }$ 与集合B中的方案一一比较。如果剩余方案集合B中不存在支配 $\\mathbf { x }$ 的方案，那么把B中被 $\\mathbf { x }$ 方案支配的方案删除，且将方案 $\\mathbf { x }$ 放入帕累托最优解集合C中。如果剩余方案集合B中存在方案支配 $\\mathbf { x }$ 方案，那么将 $\\mathbf { x }$ 方案从方案集合A中删除，且删除剩余方案B中被 $\\mathbf { x }$ 支配的方案。如果 $\\textbf { x }$ 与剩余方案 B中任何一个方案都互不支配，那么从方案集合A中删除x，并将x放入集合C中。然后取出方案集合A中第二个方案，以此类推，直到方案集合A为空。采用该方法构造帕累托最优解集可以在每个循环中可以实时淘汰被支配解，从而达到降低复杂度的目的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3粒子群算法设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "柔性车间调度问题往往是NP难问题，而含有AGV的柔性车间调度问题在柔性车间调度问题基础上考虑了AGV分配，使得问题更难求解。含有AGV的柔性车间调度问题往往很难通过精确的数学方法求得最优解，而是一般使用启发式智能算法得到相对最优解。粒子群算法是一种基于种群的智能优化技术，具有较高的并行性，一次运行可以搜索解空间中的多个解，因而非常适用于求解柔性车间调度问题。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.1算法编码",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文用一个粒子位置代表一个候选调度方案，其中维数为3L，由Tr（transport sequence）向量、M（machine）向量、RH（robot-human）向量构成，且这三个向量每一维上是相互对应的。与前面两章不同的RH向量表示含AGV、员工的搬运向量。假设员工 $\\scriptstyle \\mathbf { x } = 1$ ，AGV数量 $\\mathbf { y } { = } 1$ 时，下表为一个编码示例。那么RH向量中，1表示员工搬运，2表示用AGV搬运。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e3d5c2762ccfcfa3eda5d5a7f1e22ce317b69531e02c31aa3ff8cf51940ea9ca.jpg",
+        "table_caption": [
+            "表1粒子编码向量矩阵"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>维数</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td></tr><tr><td>Tr向量</td><td>1</td><td>2</td><td>3</td><td>4</td><td>2</td><td>3</td><td>2</td><td>1</td><td>4</td><td>1</td><td>3</td><td>2</td><td>3</td><td>4</td><td>1</td><td>3</td></tr><tr><td>M向量</td><td>1</td><td>2</td><td>3</td><td>4</td><td>1</td><td>5</td><td>2</td><td>3</td><td>1</td><td>5</td><td>4</td><td>6</td><td>3</td><td>6</td><td>6</td><td>6</td></tr><tr><td>RH向量</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.2种群初始化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据上文编码方式，首先随机生成搬运序列。然后借鉴文献[11]初始种群定位法思想，选择操作工序对应加工时间最短的加工设备。最后利用启发式规则生成RH向量。具体步骤如下:",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a）算法实现随机生成多个搬运序列即Tr向量。b)为每个搬运序列所对应的加工工序分配加工时间最短的加工设备，得到M向量。c）为每个搬运序列的搬运工序启发式分配AGV、员工搬运，得到RH向量。启发式规则：选择最早能够完成该搬运工序的人或AGV进行搬运即 $\\operatorname* { m i n } \\{ h t _ { i , k - 1 } ^ { c } , r t _ { i , k - 1 } ^ { c } \\}$ 。当工序 $O _ { i , k - 1 }$ 在加工设备 $j _ { 1 } ^ { \\mathrm { ~ ~ } }$ 加工完成后，需要搬运至加工设备 ${ \\bf \\nabla } _ { j _ { 2 } }$ 加工 $O _ { i , k }$ ，分配最早能够到达的员工或者AGV进行搬运。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.3粒子位置更新",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文通过同时结合文献[12]提出的更新方法与文献[13]提出的RPX交叉，提出了粒子群位置更新方法。由基本粒子群思想可知，粒子的位置是“自身\"认知\"“社会\"三部分互相影响作用的结果。因此定义粒子位置更新公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { i } ^ { k + 1 } = c _ { 2 } r _ { 2 } \\otimes h ( c _ { 1 } r _ { 1 } \\otimes g ( \\omega \\otimes f X _ { i } ^ { k } , p B _ { i } ^ { k } ) , g B _ { i } ^ { k } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中: $\\omega$ ， $c _ { 1 }$ ， $c _ { 2 }$ ， $r _ { 1 }$ ， $r _ { 2 }$ 与基本粒子群算法一致， $p B _ { i } ^ { k }$ 表示第$\\mathbf { k }$ 次迭代时单个粒子的历史最优位置， ${ \\boldsymbol g } { \\boldsymbol B } _ { i } ^ { k }$ 表示第 $\\mathbf { k }$ 次迭代时全局最优位置。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1）自身部分",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { _ { i } } ^ { k } \\ = \\ \\omega \\otimes f ( _ { X _ { i } ^ { k } } ) = { \\left\\{ \\begin{array} { l l } { f ( _ { X _ { i } ^ { k } } ) } & { r a n d < \\omega } \\\\ { _ { X _ { i } ^ { k } } } & { { \\mathrm { o t h e r w i s e } } } \\end{array} \\right. }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "自身部分表示粒子对上一次自身的思考， $f ( \\boldsymbol { x } _ { i } ^ { k } )$ 表示粒子速度，当rand产生的随机数小于 $\\omega$ 则执行以下操作，否则保持不变。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "第一步变换Tr向量：从以下三个操作随机选择一个执行。并且在执行操作时，M，R向量跟随 $\\operatorname { T r }$ 向量变换。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)交换。随机选择两个不同工件的工序，交换两个基因位置，其余保持不变。操作示意图如图3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b2d488543b85edea6b3b858551d56518e629c69439c715cb2a7ba89fe80d1edc.jpg",
+        "img_caption": [
+            "图3Tr向量交换"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b)插入。随机选择两个位置a和b，将b基因插入都a的前面，a到b之间的基因后移一位。操作示意图如图4所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/01026b4cd3cd3f75c1869ceb89d00206c80e2a9cf6cf58312acb4c5d273c1864.jpg",
+        "img_caption": [
+            "图4Tr向量插入"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "c)反序。随机选择两个位置a和b，将a，b之间（包括a，b）之间的基因序列反转，其余片段不变。操作示意图如下图所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2fda727bb4ffeb70afbed1514c1764d79bc5a23e86ba4eed29b92e27b26f2ade.jpg",
+        "img_caption": [
+            "图5Tr向量反序"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "第二步变换M向量。随机选取一个位置a，随机从该工序可行加工加工设备集选取另一个加工设备替换a。如果第一步随机选择的是交换操作，则M向量及M向量变换操作示意图如图6所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac823b52cc0c0b039dbc5b108e19d9f614a0a508b387caf46f8cd532cadd2e42.jpg",
+        "img_caption": [
+            "图6M向量变换"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "第三步变换R向量。随机选取一个位置a，随机从搬运AGV集合中选取另一个AGV替换a。操作示意图如图7所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/aafe98ea61b159209c914f4dc1d9dd1c072d777a25eaa5196f7e0884df1c3a11.jpg",
+        "img_caption": [
+            "图7R向量变换"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2）认知部分",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { i } ^ { k } \\ = \\ c _ { 1 } r _ { 1 } \\otimes g ( F _ { i } ^ { k } , p B _ { i } ^ { k } ) = \\left\\{ \\begin{array} { c l } { { g ( F _ { i } ^ { k } , p B _ { i } ^ { k } ) } } & { { r a n d < c _ { 1 } r _ { 1 } } } \\\\ { { F _ { i } ^ { k } } } & { { \\mathrm { o t h e r w i s e } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "认知部分表示粒子对历史位置的思考。当rand产生的随机数小于 $c _ { 1 } r _ { 1 }$ 则执行POX交叉操作，否则保持上一步自身部分操作结果不变。随机选择工件a，经POX交叉所得两个子代，随机选择一个作为 $G _ { _ i } ^ { k }$ ，操作示意图如图8所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3）社会部分",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { i } ^ { k } \\ = c _ { 2 } r _ { 2 } \\otimes h ( G _ { i } ^ { k } , \\ : \\mathrm { { g } } B _ { i } ^ { k } ) = \\left\\{ \\begin{array} { c l } { { h ( G _ { i } ^ { k } , \\ : \\mathrm { { g } } B _ { i } ^ { k } ) } } & { { r a n d < c _ { 2 } r _ { 2 } } } \\\\ { { G _ { i } ^ { k } } } & { { \\mathrm { o t h e r w i s e } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "社会部分表示粒子对全局位置的思考，同时展现了粒子之间的协作。当rand产生的随机数小于 $c _ { 2 } r _ { 2 }$ 则执行RPX 交叉操作，否则保持上一步自身部分操作结果不变。随机产生长度与搬运序列相同的Rand序列，计算自适应调整概率（其中t为当前迭代次数，T为总次数， $ { f _ { \\mathrm { m a x } } }$ 为 Rand 序列最大值， $f _ { \\mathrm { m i n } }$ 为最小值)，经RPX交叉得子代 $H _ { i } ^ { k }$ ，操作示意图如图9所示（假设$\\scriptstyle \\mathrm { f = } 0 . 7$ )。自适应调整概率表达式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf = f _ { \\mathrm { m a x } } - ( f _ { \\mathrm { m a x } } - f _ { \\mathrm { m a x } } ) \\frac { t } { T }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "F 日 4 国 国 H 4 1 1 5 1 4 6 1 6 3 62 □2 □ 2 1 2 自 2 1 2  \npB 田 国 1 国 3 1 3 国2 4 6 42 1 2 1  \nGk H 聘牌 44 11 日 16 34 46 361 2 国 2 1 2 2  \nG𝑘\\* H H 33 H 34 33 46 H2 1 1 2",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3937a7f77aa801c25000de2599965451c6bf6bd4f831fdd4f515e72e425723b1.jpg",
+        "img_caption": [
+            "图8 POX交叉",
+            "图9 RPX交叉"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.4算法求解步骤 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "算法步骤如图10算法步骤图所示。其中求解AGV替换比的循环伪代码如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "初始化员工数量为-1，AGV数量为0;  \nwhile(投资后AGV总成本与人工总成本 $\\scriptstyle < =$ 投资前人工总成本)员工数量 $\\mathbf { \\Psi } : = \\mathbf { \\Psi }$ 员工数量 $^ { + 1 }$ while(投资后AGV总成本与人工总成本 $\\scriptstyle < =$ 投资前人工总成本)AGV数量=AGV数量 $^ { + 1 }$ 投资后总成本 $\\therefore \\angle B A G V$ 总成本（安装费用、维修费、AGV总价） $^ +$   \n人工总成(辞退费、员工工资);求出此时最短完工时间;end初始化AGV 数量为0;  \nend",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4问题求解",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4.1算法寻优能力验证 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验仿真环境为Windows764操作系统，处理器主频2.5GHz，内存4GB，采用MATLABR2014 编译软件，每个算例运行20次取最优值。在粒子群算法中有五个超参数需要选择，分别是粒子群种群规模，迭代次数，惯性常量以及两个学习因子。本文中的学习因子和惯性常量的选择主要参照参考文献[9,12,14\\~18]，选取学习因子 $c _ { 1 }$ 、 $c _ { 2 }$ 为0.9，惯性常量 $\\omega$ 取0.9。粒子群种群规模和迭代次数主要是根据计算机的处理速度选取合理值，最后选取粒子群种群规模为500，迭代次数为100。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了验证粒子群算法的寻优能力，从Bilge 等人[14提出的40个算例中选取部分进行计算：4台加工设备、装载台、卸载台,与AGV构成了四种布局，并且考虑AGV的搬运时间和空载时间，求出最短加工时间。算例“Ex31\"表示，3表示Jobset3，1表示layout1。MAS表示文献[15]提出算法的结果。GAHA-2、GAHA-3表示文献[16]提出的2个和3个AGV在考虑工件加工完成搬运至卸载台的情况下，采用遗传算法与启发式混合算法所得到的结果。FDE、FMAS分别表示文献[17,18]提出算法的结果。PSO和FPSO表示使用本文改进粒子群算法，分别计算车间调度和柔性车间调度的最短加工时间。通过实验结果可知本文提出的改进粒子群算法有较好的寻优能力：运用本文算法计算车间调度问题时， $6 6 . 6 7 \\%$ 的解优于MAS（ $\\scriptstyle \\mathrm { R = } 2$ ）与GAHA（ $\\scriptstyle \\mathrm { R = } 2$ ）的最优解， $100 \\%$ 的解优于GAHA（ $\\scriptstyle \\mathrm { R } = 3$ ）的解。在计算柔性车间调度问题时， $50 \\%$ 的解优于FDE（ $\\scriptstyle 1 = 2$ ）与FMAS（ $\\scriptstyle 1 = 2$ ）的最优解。同时不难发现，增加AGV能够缩短整个完工时间，完工时间越长，增加AGV更有效。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/bbd58eadcce31885044e5b1d128f3f9b7ff414f05d6d10d90229461c107c0eb6.jpg",
+        "img_caption": [
+            "图10算法步骤图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/6f18a99f66dd227148e137ae8f84c60f5a6a1881b578b3f2db3bded87cf6bf03.jpg",
+        "table_caption": [
+            "表2算例试验结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">算例</td><td rowspan=\"2\">MAS-2 [106] R=2</td><td rowspan=\"2\">GAHA-2 [27] R=2</td><td rowspan=\"2\">pso-2 第三章 R=2</td><td rowspan=\"2\">FDE [107]</td><td rowspan=\"2\">FMAS [108]</td><td rowspan=\"2\">fpso-2 第三章</td><td rowspan=\"2\">GAHA-3 [27] R=3</td><td rowspan=\"2\">ps0-3 第三章 R=3</td></tr><tr><td>R=2</td></tr><tr><td>EX11</td><td>130</td><td>116</td><td>116</td><td>R=2 96</td><td>111</td><td>R=2 99</td><td>96</td><td>90</td></tr><tr><td>EX12</td><td>98</td><td>91</td><td>92</td><td>82</td><td>87</td><td>80</td><td>86</td><td>79</td></tr><tr><td>EX13</td><td>109</td><td>100</td><td>98</td><td>84</td><td>91</td><td>83</td><td>90</td><td>90</td></tr><tr><td>EX14</td><td>168</td><td>140</td><td>139</td><td>103</td><td>128</td><td>108</td><td>110</td><td>110</td></tr><tr><td>EX21</td><td>143</td><td>121</td><td>125</td><td>100</td><td>128</td><td>101</td><td>104</td><td>104</td></tr><tr><td>EX22</td><td>86</td><td>88</td><td>92</td><td>76</td><td>88</td><td>74</td><td>84</td><td>81</td></tr><tr><td>EX23</td><td>98</td><td>95</td><td>94</td><td>86</td><td>102</td><td>87</td><td>86</td><td>86</td></tr><tr><td>EX24</td><td>169</td><td>151</td><td>162</td><td>106</td><td>131</td><td>114</td><td>118</td><td>116</td></tr><tr><td>EX31</td><td>142</td><td>134</td><td>98</td><td>99</td><td>114</td><td>96</td><td>105</td><td>87</td></tr><tr><td>EX32</td><td>114</td><td>101</td><td>79</td><td>85</td><td>99</td><td>76</td><td>89</td><td>74</td></tr><tr><td>EX33</td><td>103</td><td>107</td><td>81</td><td>86</td><td>102</td><td>79</td><td>91</td><td>74</td></tr><tr><td>EX34</td><td>167</td><td>166</td><td>133</td><td>110</td><td>128</td><td>127</td><td>130</td><td>100</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中，如下图所示为 $\\scriptstyle \\mathrm { R = } 2$ 时，FDE、FMAS、FPSO三种算法求解各算例的最小加工时间。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/aa9f4ef75403fde661c4e91da4ca84ef43cf9162b6470739efcce9d6c122c29e.jpg",
+        "img_caption": [
+            "图11 $\\scriptstyle \\mathrm { R } = 2$ 时算法Makespan折线图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4.2示例求解",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了探究AGV最优替换比，求解如下示例。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "投资前，15个员工负责搬运。员工工资每年6万。搬运时间矩阵如下，其中第一列和最后一列分别表示装载台、卸载台。举例第二行第三列数值 $1 8 =$ 第三列行第二行数值18，表示员工从设备1出发到达设备2需要18单位时间。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/4f337cdc4f0933d6303b9c144a842df968d18337adbdf3cb74166fc3abefe44f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>0</td><td>24 36</td><td></td><td>54</td><td>39</td><td>36</td><td>66</td><td>27</td><td>63</td><td>60</td><td>75</td><td>0</td></tr><tr><td>24</td><td>0</td><td>18</td><td>51</td><td>60</td><td>48</td><td>12</td><td>15</td><td>36</td><td>42</td><td>57</td><td>24</td></tr><tr><td>36</td><td>18</td><td>0</td><td>57</td><td>24</td><td>21</td><td>27</td><td>51</td><td>72</td><td>39</td><td>63</td><td>36</td></tr><tr><td>54</td><td>51</td><td>57</td><td>0</td><td>36</td><td>15</td><td>12</td><td>27</td><td>18</td><td>39</td><td>30</td><td>54</td></tr><tr><td>39</td><td>60</td><td>24</td><td>36</td><td>0</td><td>30</td><td>45</td><td>36</td><td>63</td><td>12</td><td>54</td><td>39</td></tr><tr><td>36</td><td>48</td><td>21</td><td>15</td><td>30</td><td>0</td><td>15</td><td>69</td><td>54</td><td>51</td><td>27</td><td>36</td></tr><tr><td>66</td><td>12</td><td>27</td><td>12</td><td>45</td><td>15</td><td>0</td><td>6</td><td>36</td><td>45</td><td>51</td><td>66</td></tr><tr><td>27</td><td>15</td><td>51</td><td>27</td><td>36</td><td>69</td><td>6</td><td>0</td><td>42</td><td>57</td><td>69</td><td>27</td></tr><tr><td>63</td><td>36</td><td>72</td><td>18</td><td>63</td><td>54</td><td>36</td><td>42</td><td>0</td><td>33</td><td>54</td><td>63</td></tr><tr><td>60</td><td>42</td><td>39</td><td>39</td><td>12</td><td>51</td><td>45</td><td>57</td><td>33</td><td>0</td><td>51</td><td>60</td></tr><tr><td>75</td><td>57</td><td>63</td><td>30</td><td>54</td><td>27</td><td>51</td><td>69</td><td>54</td><td>51</td><td>0</td><td>75</td></tr><tr><td>0</td><td>24</td><td>36</td><td>54</td><td>39</td><td>36</td><td>66</td><td>27</td><td>63</td><td>60</td><td>75</td><td>0</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "投资后，AGV搬运时间矩阵如下所示，其中第一列和最后一列分别表示装载台、卸载台。举例第二行第三列数值 $6 =$ 第三列第二行数值6，表示AGV从设备1出发到达设备2需要6单位时间。AGV单价30万每台，一次性总安装费用20万，AGV维修费每台每年0.3万，辞退一个员工需要付一次性辞退费0.5万。且投资前后，柔性车间加工任务为15X10[96]。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/023a3e64cb345c5964adb7b92bf423c125edc1d496a0efc4fe448012f3e1fca8.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>0 8 12 18</td><td>13 12</td><td></td><td>22</td><td>9</td><td>21</td><td>20</td><td>25</td><td>0</td></tr><tr><td>8 0</td><td>6 17 0 19</td><td>20 8</td><td>16 7</td><td>4</td><td>5</td><td>12</td><td>14</td><td>19</td><td>8</td></tr><tr><td>12 6</td><td></td><td></td><td></td><td>9</td><td>17</td><td>24</td><td>13</td><td>21</td><td>12</td></tr><tr><td>18 17</td><td>19 0</td><td>12</td><td>5</td><td>4</td><td>9</td><td>6</td><td>13</td><td>10</td><td>18</td></tr><tr><td>13 20</td><td>8 12</td><td>0</td><td>10</td><td>15</td><td>12</td><td>21</td><td>4</td><td>18</td><td>13</td></tr><tr><td>12 16</td><td>7 5</td><td>10</td><td>0</td><td>5</td><td>23</td><td>18</td><td>17</td><td>9</td><td>12</td></tr><tr><td>22 4</td><td>9 4</td><td>15</td><td>5</td><td>0</td><td>2</td><td>12</td><td>15</td><td>17</td><td>22</td></tr><tr><td>9 5</td><td>17 9</td><td>12 6 21</td><td>23</td><td>2</td><td>0</td><td>14</td><td>19</td><td>23</td><td>9</td></tr><tr><td>21 12</td><td>24</td><td></td><td>18</td><td>12</td><td>14</td><td>0</td><td>11</td><td>18</td><td>21</td></tr><tr><td>20 14</td><td>13</td><td>13</td><td>4 17</td><td>15</td><td>19</td><td>11</td><td>0</td><td>17</td><td>20</td></tr><tr><td>25 19 0 8</td><td>21 12 18</td><td>10 13</td><td>18 12</td><td>9 17 22</td><td>23 9</td><td>18 21</td><td>17 20</td><td>0 25</td><td>25 0</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "求解得到帕累托最优解矩阵如下，且矩阵=[AGV数量，员工数量，最短完工时间，总成本]。因为该柔性车间是在现有加工规模上进行替换，即投资后总成本小于等于投资前总成本。因此AGV最优替代比 $\\ c =$ 员工数量：AGV数量 $^ { - 1 }$ ：7，且较投资前[015380 270]，加工相同任务15X10[96]最短加工时间缩短105单位时间，成本减少8.7万。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ef4839025508ef7321ead867848442628548c74c17a233a4fac03c063f79df0.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4.3单价和工资敏感性分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "AGV单价跨度较大，由第二章搬运机器人市场分析可知，轻负载AGV单价5-8万，中高端AGV单价20-50万，甚至100万。因此有必要研究AGV单价对最优人机替换比的影响。由下表可以看出当AGV单价小于50万元时，车间可以采用AGV去替代人工，否则采用全是人工更好。同时可以看出AGV单价对替换比的影响较大，且AGV的单价越高，车间应该减少投资AGV数量。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/9bb454d8e0abc2a3aeeaaa718c2de96ed239b2ada368c64d0b185286cf5d0711.jpg",
+        "table_caption": [
+            "表3AGV单价(万)与替代比(工资 $^ { = 6 }$ 万/年)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>AGV单价</td><td>AGV</td><td>人</td><td>完工时间</td><td>成本</td></tr><tr><td>10</td><td>20</td><td>0</td><td>187</td><td>245.5</td></tr><tr><td>15</td><td>15</td><td>0</td><td>201</td><td>266</td></tr><tr><td>20</td><td>11</td><td>0</td><td>219</td><td>257.4</td></tr><tr><td>25</td><td>9</td><td>0</td><td>248</td><td>260.6</td></tr><tr><td>27</td><td>8</td><td>0</td><td>254</td><td>250.7</td></tr><tr><td>30</td><td>7</td><td>1</td><td>275</td><td>261.3</td></tr><tr><td>35</td><td>6</td><td>0</td><td>307</td><td>242.9</td></tr><tr><td>40</td><td>5</td><td>1</td><td>353</td><td>249.5</td></tr><tr><td>45</td><td>5</td><td>0</td><td>355</td><td>257</td></tr><tr><td>50</td><td>0</td><td>15</td><td>380</td><td>270</td></tr><tr><td>55</td><td>0</td><td>15</td><td>380</td><td>270</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "员工工资具体行业工资不同，且随着时间变化有所不同，因此有必要研究员工工资对最优人机替换比的影响。由下表可以看出工人工资对替换比的影响较小。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/a986b182248f5497cf68ec63b4abcab4331bc2d09e9bca321a40f4d70636cfe3.jpg",
+        "table_caption": [
+            "表4工人工资(万/年)与替代比( $\\mathrm { A G V } { = } 3 0$ 万/台)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>工资</td><td>AGV</td><td>人</td><td>完工时间</td><td>成本</td></tr><tr><td>6</td><td>7</td><td>1</td><td>275</td><td>259.8</td></tr><tr><td>6.5</td><td>7</td><td>1</td><td>275</td><td>259.8</td></tr><tr><td>7</td><td>7</td><td>1</td><td>275</td><td>259.8</td></tr><tr><td>7.5</td><td>7</td><td>1</td><td>275</td><td>259.8</td></tr><tr><td>8</td><td>7</td><td>1</td><td>275</td><td>259.8</td></tr><tr><td>8.5</td><td>7</td><td>1</td><td>275</td><td>259.8</td></tr><tr><td>9</td><td>7</td><td>0</td><td>285</td><td>243.8</td></tr><tr><td>9.5</td><td>7</td><td>0</td><td>285</td><td>243.8</td></tr><tr><td>10</td><td>7</td><td>0</td><td>285</td><td>243.8</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3 结束语",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文创新性地提出了柔性车间AGV替换比模型，并从静态、动态两个角度去分析最优人机比。更贴合实际生产加工情况，具有很强的参考及应用价值。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文在从静态角度分析时，主要从成本角度出发，考虑到加工设备的约束，在满足加工任务的基础上，对应成本最小的人机比即为最优人机替换比。在从动态角度分析时，主要从加工时间最短角度出发，考虑加工设备的约束，在满足成本低于投资前的基础上，对应加工时间最短的人机比即为最优人机比。从动态角度分析时，本文创新性地采用 $3 { \\times } \\mathrm { L }$ 维向量表示一种可行的生产调度，其中RH向量表示人、AGV的搬运情况。同时本文采用针对性的粒子群更新规则，同时结合启发式规则分配员工与AGV搬运，从而算法得到更优的结果。最后结合双元锦标赛与动态淘汰制来构建帕累托最优解集，减少了算法复杂度。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文在理论研究时还存在一些不足之处。首先在静态分析时，只是考虑投资后总成本小于等于投资前总成本时的AGV替换比，没有考虑工厂规模变大时的 AGV 替换比。同时，本文没有结合具体工厂实例，在以后的研究中有必要结合具体实例和相关财务知识如现金流量、行业基准率去考虑AGV替换比。最后，本文只研究了搬运一项操作的人机替换，在以后的研究中有必要扩展到每一个岗位进行人机替换研究。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]Syahir M,Rashid A.Man-machine optimization (MMO) for technicians in semiconductor company [EB/OL].(2015-05-28).http://eprints.utem. edu. my/id/eprint/12253.   \n[2]Mehtre A,Alubel M,Berhane T.Establishing a rating scale for knitted garment industry based on man machine ratio for ethiopia [J].Journal of Textile and Apparel, Technology and Management,2016,10 (1): 1-11.   \n[3]Ong H H. Establishing man-machine ratio using simulation [C]// Proc of Winter Simulation Conference.2007:1663-1666.   \n[4]许军，董冰冰．机器人替代劳动力的均衡分析[J].江苏师范大学学报: 哲学社会科学版,2015 (3):144-148.(Xu Jun,Dong Bingbing.A balanced analysis of robot replacement labor [J].Journal of Jiangsu Normal University: Philosophical Social Science Edition,2015 (3): 144-148.)   \n[5]孙玉卫．面向“机器换人”的政府财政补贴策略研究[D]．广州：华南 理工大学,2016.(Sun Weiyu. Research on government financial subsidy strategy for\"machine substitution\"[D]. Guangzhou: South China University of Technology, 2016. )   \n[6]李易.SH公司“机器换人”项目的评价研究[D].杭州：浙江理工大学, 2015.(Li Yi.Research on the evaluation of\"machine substitution\"project of SH company [D]. Hangzhou: Zhejiang Sci-Tech University,2015.)   \n[7]宋慧敏，申飞虎.ABC 公司“机器换人”项目成本效益分析[J].会计之 友,2017 (22):23-27.(Song Huimin, Shen Feihu. Cost-benefit analysis of ABC company\"machine replacement\"project [J]. Friends of Accounting, 2017 (22): 23-27.)   \n[8]李贤杰，张钦红．汽车厂内物流搬运系统中AGV应用研究[J].上海管 理科学,2016,38(6): 84-88.(Li Xianjie,Zhang Qinhong.Research on AGV application in logistics transport system in automobile factory[J]. Shanghai Management Science,2016,38(6): 84-88.)   \n[9]高亮．柔性作业车间调度智能算法及其应用[M].武汉：华中科技大 学出版社,2012:86.(Gao Liang.Flexible job shop scheduling intelligent algorithm and its application [M]. Wuhan: Huazhong University of Science and Technology Press,12:86.)   \n[10]包晓晓，叶春明，计磊，等．改进混沌烟花算法的多目标调度优化研究 [J]．计算机应用研究，2016,33(9):2601-2605.(Bao Xiaoxiao,Ye Chunming,JiLei, et al.Multi objective scheduling optimization based on improved chaotic fireworksalgorithm [J].Application Research of Computers,2016,33 (9): 2601-2605.)   \n[11] Eberhart R, Kennedy J.A new optimizer using particle swarm theory [C]// Proc of International Symposium on MICRO Machine and Human Science. 2002: 39-43.   \n[12]王磊．基于改进离散粒子群算法的作业车间调度方法研究及应用[D]. 杭州：浙江工业大学,2012.(Wang Lei. Research and application of job shop scheduling method based on improved discrete particle swarm optimization algorithm [D]. Hangzhou: Zhejiang University of Technology, 2012.)   \n[13]张静，王万良，徐新黎，等．基于改进粒子群算法求解柔性作业车间批 量调度问题[J].控制与决策,2012,27(4):513-518.(Zhang Jing,Wang Wanliang, Xu Xinli,et al. Solving batch job scheduling problem in Flexible Job Shop Based on Improved Particle Swarm Optimization Algorithm [J]. Control and Decision,2012,27 (4): 513-518.)   \n[14] Bilge U,Ulusoy G.A Time window approach to simultaneous scheduling of machines and material handling system in FMS [J]. Operations Research, 1995, 43 (6): 1058-1070.   \n[15] Erol R,Sahin C,Baykasoglu A,et al.A multi-agent based approach to dynamic scheduling of machines and automated guided vehicles in manufacturing systems [J]. Applied Soft Computing,2012,12 (6):1720- 1732.   \n[16]龙传泽．柔性多机器人制造单元调度算法研究[D]．广州：广东工业大 学,2015.(Long Chuanze.Research on scheduling algorithm of flexible multi-robot manufacturing unit [D]. Guangzhou: Guangdong University of Technology,2015.)   \n[17] Kumar M V S, Janardhana R,Rao C SP. Simultaneous scheduling of machines and vehicles in an FMS environment with alternative routing [J]. International Journal of Advanced Manufacturing Technology,2011,53(1- 4): 339-351.   \n[18] SahinC,Demirtas M,ErolR,et al.Amulti-agent based approach to dynamic scheduling with flexible processing capabilities [J]. Journal of Intelligent Manufacturing,2017,28 (8): 1827-1845. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

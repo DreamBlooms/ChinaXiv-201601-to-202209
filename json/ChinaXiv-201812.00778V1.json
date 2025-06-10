@@ -1,0 +1,321 @@
+[
+    {
+        "type": "text",
+        "text": "王　双」罗　莉1\\*石亚庆」　唐　毅」李战福」李伟龙」　罗浩²（1.西南大学动物科技学院，淡水鱼类资源与生殖发育教育部重点实验室，重庆 400716；2.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "新希望畜牧科技有限公司，成都610041)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验以初始体重为 $( 4 0 . 0 0 { \\scriptstyle \\pm 0 . 3 4 } ) \\mathrm { ~ g ~ }$ 的湘云鲫幼鱼为研究对象，将其随机分为6组(每组3个重复，每个重复20 尾鱼)，分别饲喂磷酸二氢钙(MCP)添加量为 $1 . 0 \\%$ 、 $1 . 5 \\%$ 、 $2 . 0 \\%$ 、2.5%、 $3 . 0 \\%$ 和 $3 . 5 \\%$ 的6种等氮等能的实用饲料，进行8周的养殖试验，旨在研究湘云鲫饲料中 MCP 的适宜添加量。结果显示：随饲料中MCP 添加量的增加，湘云鲫的终末均重、增重率（WGR）均呈先上升后下降的趋势，FCR呈现下降后上升趋势，终末均重、WGR均在 MCP 添加量为 $2 . 5 \\%$ 时达到最高值，FCR在MCP添加量为 $3 . 0 \\%$ 时达到最低值。随着饲料中 MCP添加量的增加，湘云鲫全鱼、肌肉和肝脏粗脂肪含量呈先下降后上升的趋势，在添加量为 $2 . 5 \\%$ 时达到最低值；而全鱼粗蛋白质含量以及全鱼和脊椎骨磷含量在该添加量下达到最高值，全鱼水分含量在各组间差异不显著 $( P { > } 0 . 0 5 )$ 。在MCP添加量为 $2 . 5 \\%$ 时，肠道淀粉酶、脂肪酶、胰蛋白酶活性以及血清超氧化物歧化酶、碱性磷酸酶活性达到最高值，血清甘油三酯含量和肝脏丙二醛含量达到最低值。血清胆固醇含量各组间差异不显著( $( P { > } 0 . 0 5 )$ 。血清磷含量随饲料中MCP添加量的增加呈先上升高后稳定趋势，血清钙含量各组间无差异显著（P>0.05）。以增重率、饲料系数、全鱼和脊椎骨磷含量为观测指标，通过二次曲线模型和折线模型分析得出，湘云鲫饲料中MCP的适宜添加量为 $2 . 5 5 \\% \\sim 2 . 7 1 \\%$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：湘云鲫；磷酸二氢钙；生长性能；脂肪代谢中图分类号：S968 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "磷是鱼类维持正常生长和骨骼沉积所必需的常量矿物元素之一[1]，是骨组织和鳞片的主要结构成分之一，同时也是细胞膜、核酸 ATP 和磷酸肌酸的重要组分，参与所有产生能量的胞内反应[2]。鱼类可以在水中直接吸收磷，但由于水体磷含量和鱼类对饲料原料磷的利用率均较低[3]，因此，配合饲料中需要补充磷以满足鱼体需求。目前，国内外关于鱼类对磷需求量的研究已有大量报道，因鱼类品种、规格大小以及饲料配方的差异，鱼类磷需求量表现出较大差异[4-5]，主要淡水养殖品种的磷需要量为 $0 . 5 0 \\% \\sim$ （204号$1 . 5 7 \\%$ ，饲料中磷酸二氢钙（MCP）的添加量为 $1 . 4 \\% \\sim 3 . 6 \\% ^ { [ 6 - 1 0 ] }$ 。湘云鲫是我国重要的淡水养殖品种，近年来，现代生物技术的发展不断促进其良种的优化[1]，在生长速度快、抗逆性强、耐低温、耐低氧、食性广等方面优点突出，已在我国广泛养殖。随着湘云鲫生长性能的提高，其对营养素的需求量随之发生变化，但由于实用饲料配方中的蛋白质饲料、能量饲料和无机磷源的有效磷参数并不全面，湘云鲫饲料中对磷的添加存在不科学和不确定性。对于无胃的鲤科鱼类，MCP 是最为高效和经济的磷源。基于此，本试验拟在湘云鲫饲料中分别添加 $1 . 0 \\%$ 、 $1 . 5 \\%$ 、 $2 . 0 \\%$ 、 $2 . 5 \\%$ 、 $3 . 0 \\%$ 和 $3 . 5 \\%$ 的 MCP，探讨其对湘云鲫生长、消化、抗氧化及脂质代谢的影响，确定湘云鲫饲料中MCP 的适宜添加量，为湘云鲫饲料的合理配制提供依据。1 材料与方法1.1 试验饲料本试验采用鱼粉、豆粕、菜籽粕、棉籽粕作为蛋白质源、罗非鱼油作为脂肪源配制基础饲料。采用单因子试验设计，以MCP为磷源，在基础饲粮中分别添加 $1 . 0 \\%$ 、 $1 . 5 \\%$ 、 $2 . 0 \\%$ 、$2 . 5 \\%$ 、 $3 . 0 \\%$ 、 $3 . 5 \\%$ 的MCP，经微晶纤维素调平，配制6种试验饲料。试验饲料组成及营养水平见表1。饲料原料全部过40目筛，混合挤压制成直径为 $2 . 0 \\mathrm { m m }$ 的颗粒料，风干分装， ${ \\displaystyle - 2 0 ~ } ^ { \\circ } \\mathrm { C }$ 保存备用。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/a918c2b5835f756fd23c3e92e0c16914cf76386b51ae25eb010919c210e0f897.jpg",
+        "table_caption": [
+            "44 Table 1Composition and nutrient levels of experimental diets （air-dry basis ) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>1.0</td><td>1.5</td><td>2.0</td><td>2.5</td><td>3.0</td><td>3.5</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>鱼粉 Fish meal</td><td>8.0</td><td>8.0</td><td>8.00</td><td>8.00</td><td>8.0</td><td>8.0</td></tr><tr><td>血球蛋白粉 SDBC</td><td>2.0</td><td>2.0</td><td>2.0</td><td>2.0</td><td>2.0</td><td>2.0</td></tr><tr><td>豆粕 Soybean meal</td><td>18.0</td><td>18.0</td><td>18.0</td><td>18.0</td><td>18.0</td><td>18.0</td></tr><tr><td>棉籽粕 Cottonseed meal</td><td>13.5</td><td>13.5</td><td>13.5</td><td>13.5</td><td>13.5</td><td>13.5</td></tr><tr><td>菜籽粕 Rapeseed meal</td><td>18.0</td><td>18.0</td><td>18.0</td><td>18.0</td><td>18.0</td><td>18.0</td></tr><tr><td>面粉 Flour</td><td>18.0</td><td>18.0</td><td>18.0</td><td>18.0</td><td>18.0</td><td>18.0</td></tr><tr><td>米皮糠 Rice bran</td><td>13.0</td><td>13.0</td><td>13.0</td><td>13.0</td><td>13.0</td><td>13.0</td></tr><tr><td>磷酸二氢钙 Ca(HPO4)2</td><td>1.0</td><td>1.5</td><td>2.0</td><td>2.5</td><td>3.0</td><td>3.5</td></tr><tr><td>鱼油Fish oil</td><td>4.0</td><td>4.0</td><td>4.0</td><td>4.0</td><td>4.0</td><td>4.0</td></tr><tr><td>微晶纤维素 MCC</td><td>2.5</td><td>2.0</td><td>1.5</td><td>1.0</td><td>0.5</td><td></td></tr><tr><td>预混料 Premix1)</td><td>2.0</td><td>2.0</td><td>2.0</td><td>2.0</td><td>2.0</td><td>2.0</td></tr><tr><td>合计Total</td><td>100.0</td><td>100.0</td><td>100.0</td><td>100.0</td><td>100.0</td><td>100.0</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>水分 Moisture</td><td>10.37</td><td>10.45</td><td>10.51</td><td>10.44</td><td>10.58</td><td>10.47</td></tr><tr><td>粗蛋白质CP</td><td>32.55</td><td>32.42</td><td>32.22</td><td>32.31</td><td>32.36</td><td>32.30</td></tr><tr><td>粗脂肪 EE</td><td>6.90</td><td>6.86</td><td>6.93</td><td>6.96</td><td>6.89</td><td>6.93</td></tr><tr><td>总磷TP</td><td>1.10</td><td>1.18</td><td>1.26</td><td>1.37</td><td>1.51</td><td>1.62</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "45 1)预混料为每千克饲料提供The premix provided the following per $\\mathbf { k g }$ of diets:Fe $1 5 0 \\mathrm { m g }$ ， $\\operatorname { C u } 3 . 2$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "mg，Zn 34.1 mg，Mn 13.0 mg， $\\mathrm { ~ I ~ } 5 . 7 \\ : \\mathrm { m g }$ ，Se $0 . 3 ~ \\mathrm { m g }$ ，Co $1 2 . 4 \\mathrm { m g }$ ，VA2000.0IU，VD2000.0IU，VE $1 0 0 . 0 \\mathrm { m g }$ ， $\\mathrm { V K } _ { 3 } 1 0 . 0 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 } 5 . 0 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 2 } ~ 1 0 . 0 \\ : \\mathrm { m g }$ ，烟酸niacin acid $1 0 0 . 0 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 6 }$ $1 0 . 0 \\mathrm { m g }$ ，泛酸钙 calcium pantothenic acid $4 0 . 0 \\mathrm { m g }$ ，叶酸 folic acid $5 . 0 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 2 } 0 . 0 2 \\ : \\mathrm { m g }$ ，生物素 biotin $1 . 0 \\mathrm { m g }$ ，VC $3 0 0 ~ \\mathrm { { m g } }$ 。  \n2)实测值 Measured values。  \n1.2 试验鱼与饲养管理  \n试验鱼购自重庆北碚歇马鱼种场，经浓度为 $1 3 \\%$ 的食盐水消毒后在室内循环水族箱(392L)中暂养，以商品饲料驯化 $1 0 { \\mathrm { d } } .$ 。正式试验前，选择体质健壮、个体均匀[初始体重为 $( 4 0 . 0 0 { \\scriptstyle \\pm 0 . 3 4 } )$ g]的湘云鲫360尾，随机分为6组，每组3个重复，每个重复放养20尾。每天投喂3次(08:00、12:00、17:00)，日投喂量为体重的 $3 \\% \\sim 5 \\%$ 。根据试验鱼的增重情况，每隔10d调整1次投喂量。每天最后1次投喂 $2 \\mathrm { h }$ 后， $100 \\%$ 换水1次，正式试验持续8周。养殖期间水温 $2 2 { \\sim } 2 8 ^ { \\circ } \\mathrm { C }$ 溶解氧浓度 ${ \\mathrm { > } } 6 . 0 \\ \\mathrm { m g / L }$ ，氨氮浓度 ${ < } 0 . 1 0 \\ \\mathrm { m g / L }$ ， $\\mathrm { p H } 6 . 6 \\mathrm { \\sim } 7 . 0$ ，亚硝酸盐浓度 $< 0 . 1 0 \\mathrm { m g / L }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 样品采集、制备 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "养殖试验结束后，试验鱼禁食 $2 4 \\mathrm { h }$ ，每个重复随机挑选8尾鱼，用适量的MS-222麻醉，  \n称重并测定其体长、体高后，选取其中3尾鱼，用纱布擦干尾部，使用 $1 \\mathrm { m L }$ 一次性无菌注射  \n器尾静脉采血，常温静置 $3 \\mathrm { ~ h ~ }$ 后， $4 0 0 0 \\mathrm { r } / \\mathrm { m i n } ( 4 ^ { \\circ } \\mathrm { C } )$ 离心 $1 0 \\mathrm { m i n }$ ，取血清于 ${ } _ { - 8 0 } \\mathrm { \\textdegree C }$ 保存，用于血  \n清生化指标测定。将采血后的湘云鲫解剖获得内脏团，用于测定内脏粗脂肪含量，剩余部分  \n用微波炉加热至鱼体熟化后，分离脊柱、干燥，用于测定脊椎骨磷含量。另外的5尾鱼在冰  \n盘中进行解剖，取背部白肌用于测定肌肉粗脂肪含量，取内脏团并分离出肝脏、肠道，用滤  \n纸吸干表面水分。所有样品经液氮速冻后， $- 8 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 保存。所得的肝脏、肠道样品中，将3尾鱼的肝脏、肠道分别剪碎混匀后，按照1:9(质量体积  \n比， $\\mathbf { g } / \\mathrm { m L }$ 加入生理盐水 $( 4 ~ ^ { \\circ } \\mathrm { C } )$ ，冰浴匀浆， $3 5 0 0 \\mathrm { r / m i n } ( 4 ^ { \\circ } \\mathrm { C } ) \\ \\cdot$ 离心 $1 0 \\mathrm { m i n }$ ，上清液即为粗酶液，  \n用于肝脏和肠道指标的测定；另外2尾鱼的肝脏剪碎混匀后用于测定肝脏粗脂肪含量。  \n1.4 指标测定生长性能指标计算公式如下：增重率（WGR， $\\%$ ） $= 1 0 0 \\times$ ( $W _ { \\mathrm { t } } { - } W _ { 0 }$ ） $/ W _ { 0 }$ 饲料系数（FCR） $\\scriptstyle = F /$ （ $W _ { \\mathrm { t } } – W _ { 0 }$ ）；式中： $W _ { 0 }$ 为鱼体初始尾均重（g）； $W _ { \\mathrm { t } }$ 为鱼体终末尾均重（g）； $F$ 为尾均摄食量（g）。常规营养成分测定：水分含量采用恒温干燥法( $( 1 0 5 ^ { \\circ } \\mathrm { C } )$ 测定，粗脂肪含量采用索氏抽提  \n法肠道，粗蛋白质含量采用凯氏半微量蒸馏定氮法测定，粗灰分含量采用高温灼烧法 $( 5 5 0 ~ ^ { \\circ } \\mathrm { C } )$ （204号  \n测定，磷含量采用钼黄比色法（GB/T6437-2002）测定。血清生化指标测定：肠道淀粉酶（amylase）、脂肪酶（lipase）、胰蛋白酶（trypsin）  \n活性，肝脏丙二醛（MDA）含量，血清超氧化物歧化酶（SOD）和碱性磷酸酶（AKP）活  \n性及甘油三酯（TG）、胆固醇（CHO）、钙和磷含量均采用南京建成生物工程研究所提供  \n的试剂盒测定。  \n1.5 数据处理与分析试验结果用SPSS 22.0对数据进行单因子方差分析(one-way ANOVA)，用Duncan氏多重  \n比较法分析组间差异显著性，显著水平为 $\\cdot P { < } 0 . 0 5$ ，并用二次模型和折线模型[12]分别对WGR、  \nFCR、全鱼和脊椎骨磷含量与饲料MCP添加量进行回归分析。数据用平均值 $\\pm$ 标准误  \n(mean±SD)形式表示。  \n2 结果与分析  \n2.1 饲料中 MCP 添加量对湘云鲫生长性能的影响由表2 可知，随饲料中 MCP 添加量的增加，湘云鲫的终末均重、WGR均呈先上升后  \n下降的趋势，均在MCP 添加量为 $2 . 5 \\%$ 时达到最高值，与 $1 . 0 \\%$ 组相比， $2 . 5 \\%$ 组的终末均重、5",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "WGR分别升高了 $1 5 . 6 2 \\%$ 、 $2 9 . 9 0 \\%$ 。而FCR则反之，随饲料中MCP添加量的增加呈先下降后上升的趋势，在MCP添加量为 $3 . 0 \\%$ 时达到最低值，与 $1 . 0 \\%$ 组相比降低了 $1 6 . 0 5 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2饲料中MCP 添加量对湘云鲫生长性能的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e09852ee8cbfca3c533916d455a53d2eb9426c95d2ee7c7bcd90f74b1a454574.jpg",
+        "table_caption": [
+            "Table 2Effects of dietary MCP supplemental level on growth performance of triploid crucian "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">94</td></tr><tr><td colspan=\"7\"></td></tr><tr><td rowspan=\"3\">项目Items</td><td colspan=\"6\">MCP 添 加量MCP supplemental level/%</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1.0</td><td>1.5</td><td>2.0</td><td>2.5</td><td>3.0</td><td>3.5</td></tr><tr><td>初始均重 IBW/g</td><td>40.45±0.21</td><td>40.60±0.14</td><td>40.05±0.07</td><td>40.50±0.14</td><td>40.50±0.14</td><td>40.25±0.35</td></tr><tr><td>终末均重</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>FBW/g</td><td>83.60±1.13a</td><td>91.55±0.49b</td><td>92.21±1.25b</td><td>96.66±0.81c</td><td>94.85±3.18bc</td><td>91.35±0.49b</td></tr><tr><td>增重率</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>106.75±1.77a</td><td>125.55±0.64b</td><td>130.24±2.71bc</td><td>138.67±2.83c</td><td>133.75±8.13bc</td><td>125.95±1.63b</td></tr><tr><td>WGR/%</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>饲料系数</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>1.62±0.01d</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1.45±0.01c</td><td>1.43±0.02bc</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>1.39±0.03ab</td><td></td><td></td></tr><tr><td>FCR</td><td></td><td></td><td></td><td></td><td>1.36±0.01a</td><td>1.46±0.03c</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "同行数据肩标无字母或相同字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显  \n著 $( P { < } 0 . 0 5 )$ 。下表同。In the same row, values with no letter or the same letter superscripts mean no significant  \ndifference ( $\\langle P > 0 . 0 5 \\rangle$ ,while with different small letter superscripts mean significant difference ( $P$   \n$< 0 . 0 5 )$ ). The same as below.以饲料 MCP添加量！ $( X )$ 为自变量，分别以湘云鲫WGR（ $Y _ { 1 }$ ）和FCR（ $Y _ { 2 }$ ）为因变量  \n进行回归分析，得回归方程 $Y _ { 1 } \\mathrm { = } \\mathrm { - } 1 2 . 2 4 6 X ^ { 2 } \\mathrm { + } 6 2 . 4 7 9 X \\mathrm { + } 5 7 . 1 6 4 ( R ^ { 2 } \\mathrm { = } 0 . 9 7 1 \\ 0$ ，极值为 $2 . 5 5 \\% )$ ，  \nY2=0.093 $6 X ^ { 2 }$ -0.484 5X+1.999 9( $R ^ { 2 } { = } 0 . 9 2 5 ~ 7$ ，极值为2.59)，经极值分析得到饲料中满足湘云鲫",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "最佳生长需求的MCP 添加量为 $2 . 5 5 \\% { \\sim } 2 . 5 9 \\%$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2饲料中MCP添加量对湘云鲫常规营养成分的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，随着饲料中MCP 添加量的增加，全鱼粗蛋白质含量呈先上升后下降的趋势，在 $2 . 5 \\%$ 组达到最高值，显著高于其他各组（ $\\scriptstyle P < 0 . 0 5$ ）；全鱼粗脂肪含量则呈先下降后上升的趋势，在 $2 . 5 \\%$ 组达到最低值，显著低于其他各组（ $P { < } 0 . 0 5$ ），与 $1 . 0 \\%$ 组相比下降了$1 5 . 6 7 \\%$ 。随着饲料中MCP 添加量的增加，全鱼和脊椎骨磷含量先逐渐上升后保持稳定， $2 . 5 \\%$ 组与 $3 . 0 \\%$ 和 $3 . 5 \\%$ 组差异不显著（ $. { \\cal P } { > } 0 . 0 5$ ）；肌肉、内脏和肝脏粗脂肪含量则呈先下降后上升的趋势，均在 $2 . 5 \\%$ 组达到最低值，显著低于其他各组（ $\\scriptstyle \\cdot < 0 . 0 5$ ），较 $1 . 0 \\%$ 组分别下降了$3 9 . 1 0 \\%$ 、 $2 5 . 9 8 \\%$ 、 $2 2 . 8 6 \\%$ 。肌肉和肝脏粗脂肪含量在 $3 . 5 \\%$ 组达到最高值，较 $1 . 0 \\%$ 组分别增加了 $1 4 . 6 \\%$ 和 $1 5 . 6 \\%$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表3饲料中MCP添加量对湘云鲫常规营养成分的影响（干物质基础）",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/e15974da498b8b913d964023cdd7ae9ef9be3249981c1b50613fc6a15db92555.jpg",
+        "table_caption": [
+            "Table 3Effects of dietary MCP supplemental level on common nutritional components of "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">115</td><td colspan=\"2\">triploid crucian carp</td><td colspan=\"3\">（DMbasis） %</td></tr><tr><td rowspan=\"2\">项目Items</td><td colspan=\"6\">MCP 添加量MCP supplemental level/%</td></tr><tr><td>1.0</td><td>1.5</td><td>2.0</td><td>2.5</td><td>3.0</td><td>3.5</td></tr><tr><td>全鱼水分 Whole</td><td>70.14±1.46</td><td>70.22±1.49</td><td>70.48±0.51</td><td>70.77±2.47</td><td>70.36±1.17</td><td>70.36±0.15</td></tr><tr><td>body moisture</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>全鱼粗蛋白质Whole</td><td>57.40±0.40b</td><td>58.01±0.18cd</td><td>58.49±0.23d</td><td>59.41±0.23e</td><td>57.68±0.30bc</td><td>56.35±0.28a</td></tr><tr><td>body CP</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>全鱼粗脂肪Whole</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>31.84±0.21d</td><td>30.11±0.14c</td><td>29.72±0.55c</td><td>27.43±0.20a</td><td>28.26±0.08b</td><td>29.62±0.03c</td></tr><tr><td>body EE</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>肌肉粗脂肪Muscle</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>4.45±0.13c</td><td>3.74±0.03b</td><td>3.75±0.02b</td><td>2.71±0.12a</td><td>4.18±0.02c</td><td>5.10±0.30d</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/5398e68117910cf9a31495bd7b66303dfd3b3e421a3b6b65d04d538f26a9c96d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">内脏粗脂肪 Viscus</td><td colspan=\"7\"></td></tr><tr><td></td><td>53.15±0.56f</td><td>49.42±0.76e</td><td>45.47±0.31d</td><td>39.34±0.65a</td><td>42.31±0.20b</td><td>44.04±1.03c</td></tr><tr><td>EE</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>肝脏粗脂肪Liver</td><td></td><td>25.46±0.20c</td><td>25.11±0.86c</td><td>22.54±0.30b</td><td>19.64±0.30a</td><td>24.77±0.26</td><td>29.46±0.49d</td></tr><tr><td>EE</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>全鱼磷Wholebody P</td><td></td><td>1.41±0.03a</td><td>1.58±0.03b</td><td>1.68±0.04c</td><td>1.80±0.01d</td><td>1.84±0.05d</td><td>1.84±0.03d</td></tr><tr><td>脊椎骨磷Vertebrae</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>7.48±0.03a</td><td>7.59±0.04b</td><td>7.65±0.02c</td><td>7.84±0.04d</td><td>7.86±0.02d</td><td>7.86±0.01d</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "以全鱼和脊椎骨磷含量( $\\cdot Y _ { 3 }$ 和 $\\begin{array} { r } { Y _ { 4 } } \\end{array}$ )为观测指标，经折线模型分析得到回归方程：Y3=0.254X+1.173（ $X { \\le } 2 . 6 3$ ， $R ^ { 2 } { = } 0 . 9 8 7 4$ ）， $Y _ { 3 } { = } 1 . 8 4$ （ $\\cdot X { > } 2 . 6 3$ ），在MCP添加量为 $2 . 6 3 \\%$ 时全鱼磷含量达到最高值； $Y _ { 4 } { = } 0 . 2 2 8 X { + } 7 . 2 4 1$ ( $X { \\leq } 2 . 7 1$ ， $R ^ { 2 } { = } 0 . 9 5 2 \\mathrm { ~ } 8$ ）， $Y _ { 4 } { = } 7 . 8 6$ （ $X { > } 2 . 7 1$ ），在MCP添加量为 $2 . 7 1 \\%$ 时脊椎骨磷含量达到最高值。经极值分析得到湘云鲫获得较佳的全鱼和脊椎骨磷含量时，饲料中 MCP的添加量为 $2 . 6 3 \\% { \\sim } 2 . 7 1 \\%$ 。2.3 饲料中MCP添加量对湘云鲫血清生化指标的影响由表4可知，饲料中MCP添加量对血清钙含量的影响不显著（ $P { > } 0 . 0 5$ ）。当饲料中MCP添加量从 $1 . 0 \\%$ 增加至 $3 . 5 \\%$ 时，血清AKP活性呈先上升后下降趋势，在 $2 . 5 \\%$ 组达到最高值，较 $1 . 0 \\%$ 组上升了 $48 . 3 \\%$ （ $_ { . P < 0 . 0 5 }$ ）。当饲料中MCP添加量从 $1 . 0 \\%$ 增加至 $2 . 5 \\%$ 时，血清磷含量呈逐渐升高的趋势，各组间差异显著（ $\\scriptstyle \\cdot P < 0 . 0 5 .$ ）；而当MCP添加量从 $2 . 5 \\%$ 增加至 $3 . 5 \\%$ 时趋于血清磷含量稳定，各组间差异不显著（ $P { > } 0 . 0 5$ ）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表4饲料中MCP添加量对湘云鲫血清生化指标的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/5ad94c7426b56454c3827cbeb6c9e95286888c18eb25314ac001add171a3a480.jpg",
+        "table_caption": [
+            "Table 4Effects of dietary MCP supplemental level on serum biochemical indices of triploid crucian carp "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"3\">MCP添加量</td><td colspan=\"3\">MCP supplemental level/%</td></tr><tr><td>项目Items</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>1.0</td><td>1.5</td><td>2.0</td><td>2.5</td><td>3.0</td><td>3.5</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/d2520cfcdf170898d652ef72bace4f79bea1cee75fde25e145ec29243cc929ef.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>2.96±0.11a</td><td>4.04±0.04d</td><td>4.17±0.04d</td><td>4.39±0.09e</td><td>3.77±0.03c</td><td>3.54±0.06b</td></tr><tr><td>/(U/mL)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>钙 Ca/(mmol/L)</td><td>2.37±0.11</td><td>2.42±0.11</td><td>2.39±0.06</td><td>2.37±0.01</td><td>2.39±0.05</td><td>2.39±0.03</td></tr><tr><td>磷 P/(mmol/L)</td><td>0.94±0.02a</td><td>1.01±0.01b</td><td>1.11±0.01c</td><td>1.25±0.01d</td><td>1.26±0.03d</td><td>1.27±0.03d</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "302.4 饲料中MCP 添加量对湘云鲫肠道消化酶活性及血清脂质代谢指标的影响 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "131 由表5可知，当饲料中MCP添加量从 $1 . 0 \\%$ 增加至 $3 . 5 \\%$ 时，肠道淀粉酶、脂肪酶及胰  \n132 蛋白酶活性均呈先上升高后下降的趋势，在 $2 . 5 \\%$ 组达到最高值，较 $1 . 0 \\%$ 组分别升高了  \n133 $9 3 . 3 3 \\%$ 、 $9 5 . 4 4 \\%$ 和 $3 9 . 7 9 \\%$ ，差异显著（ $\\scriptstyle \\cdot < 0 . 0 5$ ），其中淀粉酶及脂肪酶活性的升高幅度高  \n134 于胰蛋白酶。饲料中MCP 添加量对血清CHO含量没有产生显著影响（ $P { > } 0 . 0 5$ ）。当饲料  \n135 中 MCP 添加量从 $1 . 0 \\%$ 增加至 $3 . 5 \\%$ 时，血清TG含量呈先下降后上升趋势，在 $2 . 5 \\%$ 组达到  \n136 最低值，较 $1 . 0 \\%$ 组下降了 $2 8 . 1 \\%$ （ $P { < } 0 . 0 5$ ）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表5饲料中MCP添加量对湘云鲫肠道消化酶活性及血清脂质代谢指标的影响",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/895ac9c683d137d478ae736884c192b01b39da957d016b43f068bbdbad68a6a1.jpg",
+        "table_caption": [
+            "138 Table 5Effects of dietary MCP supplemental level on intestinal digestive enzyme activities and 139 serum lipid metabolism indices of triploid crucian carp "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"6\">MCP 添加量MCP supplemental level/%</td></tr><tr><td>1.0</td><td>1.5</td><td>2.0</td><td>2.5</td><td>3.0</td><td>3.5</td></tr><tr><td colspan=\"7\">肠道消化酶活性 Intestinal digestive enzyme activities/(U/mg prot)</td></tr><tr><td>淀粉酶Amylase</td><td>0.15±0.00a</td><td>0.17±0.01ab</td><td>0.22±0.01c</td><td>0.29±0.01d</td><td>0.24±0.02c</td><td>0.19±0.01b</td></tr><tr><td>脂肪酶Lipase</td><td>24.15±1.76a</td><td>31.47±4.11b</td><td>37.90±1.10c</td><td>47.20±0.40d</td><td>44.25±0.18d</td><td>32.31±0.12b</td></tr><tr><td></td><td>6348.63±183.23</td><td></td><td>7271.54±113.</td><td>8874.71±161.</td><td>6856.82±321.</td><td>6300.92±29.1</td></tr><tr><td>胰蛋白酶Trypsin</td><td></td><td>6270.10±13.70a</td><td>36b</td><td>95c</td><td>70b</td><td>2a</td></tr><tr><td colspan=\"7\"></td></tr><tr><td>血清脂质代谢指标 Serum lipid metabolism indices/(mmol/L)</td><td></td><td></td><td>4.56±0.20</td><td></td><td>4.48±0.09</td><td></td></tr><tr><td colspan=\"7\">胆固醇 4.59±0.03 4.52±0.31 4.59±0.08 9</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/3f6b18cadfa508e165dc877a4ff45897b08b5c9ffa7f7693b7985cf0efca0f09.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">甘油三酯</td></tr><tr><td></td><td>1.28±0.02c</td><td>1.12±0.02b</td><td>1.04±0.08ab</td><td>0.92±0.03a</td><td>1.12±0.00b</td><td>1.37±0.10c</td></tr><tr><td colspan=\"7\">TG</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.5 饲料中MCP添加量对湘云鲫抗氧化指标的影响由表6可知，当饲料中MCP添加量从 $1 . 0 \\%$ 增加至 $3 . 5 \\%$ 时，血清 SOD活性呈先上升后  \n下降的趋势，在 $2 . 5 \\%$ 组达到最高值，显著高于其他各组（ $P { < } 0 . 0 5$ ），与 $1 . 0 \\%$ 组相比升高了  \n$2 3 . 2 6 \\%$ ；而肝脏MDA含量则呈相反的变化趋势，在 $2 . 5 \\%$ 组达到最低值，显著低于其他各  \n组( $. P { < } 0 . 0 5$ ），与 $1 . 0 \\%$ 组相比降低了 $3 7 . 4 0 \\%$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/c27cd5265f573e50bcafa9c4b42fbe4b89a3db91c272440923dd5bf954a999fd.jpg",
+        "table_caption": [
+            "表6饲料中MCP添加量对湘云鲫抗氧化指标的影响",
+            "； Table 6Effects of dietary MCP supplemental level on antioxidant indices of triploid crucian carp"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"6\">MCP 添加量MCP supplemental level/%</td></tr><tr><td>1.0</td><td>1.5</td><td>2.0</td><td>2.5</td><td>3.0</td><td>3.5</td></tr><tr><td>血清超氧化物歧化酶</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>209.44±13.32ab</td><td>221.33±1.14bc</td><td>232.82±3.28c</td><td>258.16±1.51d</td><td>226.06±2.04c</td><td>203.90±7.06a</td></tr><tr><td>Serum SOD/(U/mL)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>肝脏丙二醛LiverMDA</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>3.85±0.03d</td><td>2.80±0.02b</td><td>2.83±0.02b</td><td>2.41±0.04a</td><td>2.98±0.02c</td><td>4.35±0.13e</td></tr><tr><td>/(nmol/mg prot)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "147 2.6部分指标与生长性能的相关性分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由表7可知，选取WGR代表生长性能，随着饲料中MCP 添加量的不断变化，全鱼、内脏、肌肉和肝脏粗脂肪含量与湘云鲫的WGR呈显著二次曲线相关！ $( P { < } 0 . 0 5 )$ ），血清AKP、SOD 活性及肠道淀粉酶和脂肪酶活性均与湘云鲫的WGR存在显著的正相关（ $( P { < } 0 . 0 5 )$ ），而肝脏 MDA含量及血清TG 含量均与湘云鲫的WGR存在显著的负相关（ $\\scriptstyle P < 0 . 0 5$ ）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表7所选指标与生长性能(WGR)的相关性分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/1bae8f94260e0441e156c349a256953d3b4cad97f2c1e32af42ed13a29874793.jpg",
+        "table_caption": [
+            "Table 7Correlation analysis between growth performance (WGR) and selected indices "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>所选指标</td><td>相关系数R</td><td>P值</td><td>所选指标</td><td>相关系数R</td><td>P值</td></tr><tr><td>selected indices</td><td></td><td>P-value</td><td>selected indices</td><td></td><td>P-value</td></tr><tr><td>肠道脂肪酶</td><td>0.89</td><td><0.001</td><td>全鱼粗脂肪</td><td>-0.89</td><td><0.001</td></tr><tr><td>Intestinal lipase</td><td></td><td></td><td>Whole body EE</td><td></td><td></td></tr><tr><td>肠道淀粉酶</td><td>0.84</td><td>0.001</td><td>内脏粗脂肪</td><td>-0.88</td><td><0.001</td></tr><tr><td>Intestinal amylase</td><td></td><td></td><td>Viscus EE</td><td></td><td></td></tr><tr><td>血清超氧化物歧</td><td>0.65</td><td>0.021</td><td>肌肉粗脂肪</td><td>-0.52</td><td>0.083</td></tr><tr><td>化酶 Serum SOD</td><td></td><td></td><td>Muscle EE</td><td></td><td></td></tr><tr><td>血清碱性磷酸酶</td><td>0.84</td><td>0.001</td><td>肝脏粗脂肪</td><td>-0.46</td><td>0.151</td></tr><tr><td>Serum AKP</td><td></td><td></td><td>Liver EE</td><td></td><td></td></tr><tr><td>全鱼磷 Whole</td><td>0.76</td><td>0.004</td><td>肝脏丙二醛</td><td>-0.61</td><td>0.035</td></tr><tr><td>body P</td><td></td><td></td><td>Liver MDA</td><td></td><td></td></tr><tr><td>脊椎骨磷</td><td>0.74</td><td>0.006</td><td>血清甘油三酯</td><td>-0.56</td><td>0.137</td></tr><tr><td>Vertebrae P</td><td></td><td></td><td>Serum TG</td><td></td><td></td></tr><tr><td>血清磷</td><td>0.74</td><td>0.005</td><td></td><td></td><td></td></tr><tr><td>Serum P</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "磷是鱼类所需的重要元素，饲料中添加适量的磷能够提高鱼类的生长和对饲料的利用。磷添加量过多不仅会造成鱼类代谢紊乱，还会增加饲料成本，污染水体，但添加量过低又会造成水产动物生长速率、饲料利用率下降和骨骼畸形。本研究结果显示，磷添加量过低还表现在体脂肪和组织脂肪蓄积、消化能力下降以及机体抗氧化能力降低等，但未出现骨骼发育异常等缺乏症状，这可能是低添加量（ $1 . 0 \\%$ ）的MCP已经满足了湘云鲫对磷的基本需求。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "评价鱼类饲料中磷适宜添加量的指标很多，并且不同的指标评定出的结果有所差异。本研究根据试验条件，选取WGR、全鱼和脊椎骨磷含量为参数，综合评价得出湘云鲫饲料中MCP的适宜添加量。以WGR为观测指标，湘云鲫饲料中MCP添加量 $2 . 5 5 \\%$ 时可满足湘云鲫的最佳生长。以全鱼和脊椎骨磷含量为观测指标，折线模型分析后得知饲料中满足湘云鲫对全鱼和脊椎骨最大磷沉积量需要的最低MCP添加量分别为 $12 . 6 3 \\%$ 和 $2 . 7 1 \\%$ 。综上，湘云鲫饲料中适宜的MCP添加量为 $2 . 5 5 \\% \\sim 2 . 7 1 \\%$ ，即总磷含量为 $1 . 4 0 \\% \\sim 1 . 4 4 \\%$ 。这一结果与罗非鱼（Oreochromis niloticus）[13]、史氏鲟（Acipenser schrenckii）[8]、齐口裂腹鱼（Sclizothoraxprenanti）[14]的研究结果相近，但是高于鲫鱼（Carassius auratus）[15]、建鲤（Cyprinus carpiovar.Jian）[16]和胭脂鱼（Myxocyprinus asiaticus）[17]的研究结果。不同鱼类磷需要量的差异可能是因种类、规格、生长阶段、饲料配方、磷源以及养殖环境等不同造成的[18]。消化酶在营养物质的消化过程中起着关键作用，其活性大小直接反映鱼类的消化能力[19]。从本试验相关指标可知，饲料中添加适量的MCP能显著提高湘云鲫肠道淀粉酶、脂肪酶和胰蛋白酶的活性，其中 $2 . 5 \\%$ 组脂肪酶活性与 $1 . 0 \\%$ 组相比增加幅度高达 $9 5 . 4 4 \\%$ ，这表明适宜添加量的MCP显著促进了湘云鲫对饲料的消化能力，提高了其对饲料的利用效率。鱼类的生长还归因于营养物质的沉积，特别是蛋白质和脂肪的沉积。研究表明，饲料中添加适量的磷可显著提高全鱼粗蛋白质含量，同时促进脂肪代谢，降低全鱼粗脂肪含量[10.20]。本研究结果与上述研究结论一致，饲料中添加适量的MCP可显著提高湘云鲫全鱼粗蛋白质含量，降低全鱼、肌肉和肝脏粗脂肪含量，与适量磷（ $2 . 5 \\%$ MCP）组相比，低磷（ $1 . 0 \\%$ MCP)和高磷（ $3 . 5 \\%$ MCP）组肝脏粗脂肪含量分别增加了 $2 9 . 6 \\%$ 和 $50 . 0 \\%$ ，可能的原因是适量MCP的添加促进了氧化磷酸化反应，使柠檬酸循环加强，引起乙酰辅酶A加速被利用，鱼体利用更多的脂肪作为能量来源，磷供应不足或过高都可能抑制这一过程。此外，饲料中添加适量的 $2 . 5 \\%$ MCP还可显著降低血清TG含量。综上所述，饲料中添加适量的MCP可降低肝脏脂肪的合成速率，从而导致鱼体和各组织粗脂肪含量降低，深入的机理有待进一步探讨。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "关于磷对动物抗氧化能力的影响鲜见报道。Feng等[21]在建鲤上的研究发现，饲料中添加适量的磷能提高血液SOD活性，同时降低血液MDA含量。本试验结果表明，湘云鲫饲料中添加适量的MCP能显著提高血清SOD活性，降低肝脏MDA含量，与上述结论一致。此外，Tang等[22]在鲶鱼的研究中也发现，饲料中添加适量的磷能显著提高肝脏SOD活性。其原因与磷是构成细胞膜磷脂的主要成分，饲料中添加适量的磷能保证细胞膜的完整性，降低一些超氧化物的侵袭[23]相关。饲料中添加适量的磷可提高湘云鲫的抗氧化能力也是提高湘云鲫生长性能的原因之一。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "以WGR、FCR、全鱼和脊椎骨磷含量为观测指标，得出湘云鲫饲料中MCP 的适宜添加量为 $2 . 5 5 \\% \\sim 2 . 7 1 \\%$ ，该添加量的MCP能降低湘云鲫肝脏脂肪合成能力，减少鱼体脂肪沉积，增强消化和抗氧化能力，提高生长性能。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[1] JOBLING M.National Research Council (NRC):nutrient requirements of fish and shrimp[J].Aquaculture International,2012,20(3):601-602. [2] NRC.Nutrient requirements of fish and shrimp[S].Washington D.C.:National Academies Press,2011. [3] BOYD C E.Phosphorus dynamics in ponds[C].Proceedings of 25th Annual conference of the Southeastern Association of Game and Fish Commissioners,1971:418-426. [4] WEN J,JIANG W D,FENG L,et al.The influence of graded levels of available phosphorus ongrowth performance,muscle antioxidant and flesh quality of young grass carp 204 (Ctenopharyngodon idella)[J].Animal Nutrition,2015,1(2):77-84. 205 [5] XU Q Y,XU H,WANG C,et al.Studies on dietary phosphorus requirement of juvenile 206 Siberian sturgeon Acipenser baeri[J].Journal of Applied Ichthyology,2011,27(2):709-714. 207 [6] OGINO C,TAKEDA H.Mineral requirements in fish II .Calcium and phosphorus 208 requirements in carp[J].Nippon Suisan Gakkaishi,1976,42(7):793-799. 209 [7] 陈建明,叶金云,潘茜,等.翘嘴鱼种对磷的需求量[J].水生生物学报,2007,31(1):99-103. 210 [8] 文华,严安生,高强,等.史氏鲟幼鲟对饲料中磷的需要量[J].水产学报,2008,32(2):242-248. 211 [9] 杨雨虹,郭庆,黄金善,等.鲤鱼饲料磷的需要量研究[J].东北农业大学学 212 报,2006,37(1):48-51. 213 [10] 王志忠,孙鹤田,刘汉华,等.草鱼种对配合饵料中钙磷的需要量及适宜钙磷比[J].水产学 214 报,2002,26(2):127-132. 215 [11] WANG Q D,CHENG L,LIU J S,et al.Freshwater aquaculture in PR China:trends and 216 prospects[J].Reviews in Aquaculture,2016,7(4):283-302. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[12]ROBBINS K R,NORTON H W,BAKER D H.Estimation of nutrient requirements from growth data[J].The Journal of Nutrition,1979,109(10):1710-1714.   \n[13]白富瑾,罗莉,陈任孝,等.饲料中有效磷对吉富罗非鱼生长、体组成及生化指标的影响[J]. 水产学报,2015,39(7):1024-1033.   \n[14]段彪,向枭,吴青.齐口裂腹鱼日粮中钙和磷及适宜钙磷比的研究[J].西南大学学报(自然 科学版),2005,27(2):219-222.   \n[15]TAKEUCHI M,NAKAZOE J.Efect of dietary phosphorus on lipid content and its composition incarp[J].BulletinoftheJapaneseSocietyofScientific Fisheries,1981,47(3):347-352.   \n[16] LING J,FENG L,LIU Y,et al.Effect of dietary iron levels on growth,body composition and intestinal enzyme activities of juvenile Jian carp (Cyprinus carpio var. Jian)[J].Aquaculture Nutrition,2011,17(3):338-345.   \n[17] YUAN Y C,YANG H J,GONG S Y,et al.Dietary phosphorus requirement of juvenile Chinese sucker,Myxocyprinus asiaticus[J].Aquaculture Nutrition,2011,17(2):159-169.   \n[18] MAI K S,ZHANG C X,AI Q H,et al.Dietary phosphorus requirement of large yellow croaker,Pseudosciaena crocea R[J].Aquaculture,2006,251(2/3/4):346-353.   \n[19] YU H R,ZHANG Q,XIONG D M,et al.Dietary available phosphorus requirement of juvenile walking catfish,Clarias leather[J].Aquaculture Nutrition,2013,19(4):483-490.   \n[20] ROY P K,LALL S P.Dietary phosphorus requirement of juvenile haddock (Melanogrammus aeglefinus L.)[J].Aquaculture,2003,221(1/2/3/4):451-468.   \n[21]FENG L,XIE N B,LIU Y,et al.Dietary phosphorus prevents oxidative damage and increases antioxidant enzyme activitiesin intestine and hepatopancreasof juvenile Jian carp[J].Aquaculture Nutrition,2013,19(3):250-257.   \n[22] TANG Q,WANG C,XIE C,et al.Dietary available phosphorus affected growth performance,body composition,and hepatic antioxidant property of juvenile yellow catfish Pelteobagrus fulvidraco[J].The Scientific World Journal,2012,2012:987570.   \n[23] 温静.磷对中期草鱼生长性能、肌肉品质、抗氧化能力和免疫功能的影响[D].硕士学位 论文.雅安:四川农业大学,2013. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Optimal Supplemental Level of Monocalcium Phosphate in Diets for Triploid Crucian Carp ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "WANG Shuang1LUO ${ \\mathrm { L i ^ { * } } }$ SHI Yaqing1 TANG YilLI ZhanfulLIWeilong1LUO Hao² (1. College of Animal Science and Technology of Southwest University, Key Laboratory of   \nFreshwater Reproduction and Development, Ministry of Education, Chongqing 400716, China; 2. New Hope Animal Husbandry Technology Co., Ltd., Chengdu 610o41, China) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "\\*Corresponding author, associate professor, E-mail: luoli1972@163.com (责任编辑菅景颖) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "phosphate (MCP) in diets for triploid crucian carp. Triploid crucian carps with an initial body weight of $( 4 0 . 0 0 { \\scriptstyle \\pm 0 . 3 4 } )$ g were randomly divided into 6 groups with 3 replicates per group and 20 fish per replicate. Six isonitrogenous and isoenergetic practical diets with different supplemental levels ( $1 . 0 \\%$ ， $1 . 5 \\%$ $2 . 0 \\%$ ， $2 . 5 \\%$ ， $3 . 0 \\%$ and $3 . 5 \\%$ ） of MCP were fed to the 6 groups for 8 weeks, respectively. The results showed as follows: with the increase of dietary MCP supplemental level, the final average body weight and weight gain rate（WGR） was firstly increased and then decreased, while the feed conversion rate (FCR) was firstly decreased and then increased. The highest final average body weight and WGR appeared when MCP supplemental level was $2 . 5 \\%$ ， and the lowest FCR appeared when MCP supplemental level was $3 . 0 \\%$ . With the increase of dietary MCP supplemental level, the ether extract content of whole body, muscle and liver was firstly decreased and then increased,and got minimum when MCP supplemental level was $2 . 5 \\%$ together with a maximum of crude protein content of whole body, and phosphorus content of whole body and vertebra in this MCP supplemental level. There was no significant difference in moisture content of whole body among different groups $( P { > } 0 . 0 5 )$ . When MCP supplemental level was $2 . 5 \\%$ , the activities of intestinal trypsin, amylase and lipase, and serum superoxide dismutase (SOD) and alkaline phosphatase （AKP） gained the highest values, while the contents of serum triglyceride （TG） and liver malonaldehyde （MDA） reached the lowest values under this MCP supplemental level. Serum cholesterol (CHO） content had no significant difference among different groups $( P { > } 0 . 0 5 )$ . Serum phosphorus content was firstly increased with the increase of MCP supplementation level,and then tended to be stable.No significant difference was found in serum calcium content among different groups ( $\\scriptstyle \\left( P > 0 . 0 5 \\right)$ ). Quadratic curve model and broken-line model analysis indicate that the optimal supplemental level of MCP in diets for triploid crucian carp is $2 . 5 5 \\%$ to $2 . 7 1 \\%$ with the WGR,FCR，whole body and vertebrae phosphorus content as evaluation indexes. Key words: triploid crucian carp; monocalcium phosphate; growth performance; lipid metabolism ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    }
+]

@@ -1,0 +1,528 @@
+[
+    {
+        "type": "text",
+        "text": "广西不同产地金樱根及炮制品中没食子酸和儿茶素的含量差异分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "韦熹苑¹，邓琦¹，卢小玲¹，舒柯²\\*，卓燊¹，范家文¹，潘思杏¹（广西科技大学，广西 柳州545005；2.贵州省食品药品检验所，贵阳550004）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了建立金樱根中没食子酸和儿茶素含量的测定方法，分析广西不同产地金樱根及炮制品中没食子酸和儿茶素含量的变化，该文以没食子酸和儿茶素的含量作为指标成分，采用HPLC法对广西产金樱根生品、炒炙品、酒炙品、盐炙品及醋炙品进行测定，并采用 SPSS 23.0软件进行方差分析和聚类分析。结果表明：广西不同产地金樱根及炮制品中没食子酸和儿茶素含量均存在差异，所有样品中儿茶素的含量均比没食子酸高，南部地区（除贵港桂平外）的没食子酸和儿茶素含量整体上比北部地区高，在炮制品中醋炙后没食子酸和儿茶素含量最高。本研究表明 HPLC 测定方法简单可行，金樱根中没食子酸和儿茶素含量的变化差异主要表现为产地地域及炮制方法的不同，可为今后金樱根资源的合理利用、质量标准制定以及临床用药的研究提供一定科学依据。关键词：高效液相色谱，金樱根，炮制品，没食子酸，儿茶素，方差分析，聚类分析",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：Q946 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Difference analysis on contents of gallic acid and catechin in roots of Rosa laevigata and its processed products from different habitats of Guangxi ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WEI Xiyuan1, DEDG Qi 1,LU Xiaoling',SHU $\\mathrm { K e } ^ { 2 ^ { * } }$ , ZHUO Shen',FAN Jiawen1,PAN Sixing1 (1. Guangxi University ofScienceand Technology,Liuzhou 5450o5,Guangxi, China; 2. Guizhou Institute forFood and Drug Control, Guiyang 550004, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:To establish the method for determination of gallic acid and catechin in the roots of Rosa laevigata(R. laevigata),and analyze the difference in the contents of gallic acid and catechin in roots of $R$ laevigata from different habitats and diferent processed methods resources from Guangxi.The contents of gallic acid and catechin of $R$ laevigata was used as evaluation index,the samples were determined by HPLC,and the data were analyzed by the analysis of variance (ANOVA)and discrimination studycarried out based on the hierarchical clustering analysis (HCA) with SPSS 23.O software. The results were as folows: The contents of gallic acid and catechin in roots of $R$ laevigata from diffrenthabitats and processd methods were different,the content of catechin was higer than that of galic acid among all sample, the contents of gallic acid and catechin in roots of $R$ . laevigata from the southern habitats (except Guiping,Guigang）were generally higher than those from northern habitats,the contents of gallic acid and catechin were highest in vinegar-processed products.Theconclusion displayed thatthe diferences of thecontentsof galic acid and catechin in in roots of $R .$ . laevigata were mainly the differences of producting habitats and processed methods, the HPLC method is simple and feasible,which could provide a scientific basis for the resources development, quality control and clinical application of $R .$ laevigata. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key word: high performance liquid chromatography (HPLC),rots of Rosa laevigata, processed product, galic acid catechin, analysis of variance (ANOVA), hierarchical clustering analysis (HCA) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "金樱根（壮文Makgoij）又名金樱、脱骨丹，为蔷薇科植物金樱子（Rosa laevigata)的根。主要分布于我国华中、华南、华东及西南等地（钟鸣等，2013）。金樱根作为广西道地药材，在民间已被广泛用作药食两用的保健性食材，是广西的大宗特产药物，在广西中药的发展中起着重要的支撑作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "金樱根性味酸涩平，具有清热解毒、凉血活血、祛瘀止痛、固精涩肠等作用，现代药理研究表明金樱根在抗炎、抑菌、抗肿瘤、提高机体免疫功能、抗氧化、及抗心率失常等方面具有很好的开发利用价值（龙小琴等，2017），其所含化学成分没食子酸具有抗氧化、抗菌、抗肿瘤及保护心血管系统等多种活性（郑雪花等，2017），儿茶素具有抗肿瘤、抗氧化、抗病菌以及保护心脑器官等多种作用（陆昌琪等，2018），由此可见，没食子酸和儿茶素作为金樱根的关键药效组分在临床药理中起主导作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "金樱根作为广西特色中成药金鸡片、三金片等的君药，但对于金樱根的物质基础研究鲜有报道，且不同产地及不同炮制方法对其有效成分含量影响尚不明确。虽有学者对金樱根不同炮制品总鞣质和总黄酮类成分进行研究，但采用的是紫外分光光度法分析，且研究指标及样本量较少（黄慧等，2011；单于超等，2011)，易运红等（2010）比较了金樱子根及茎的总黄酮含量，徐艳春等（2002）对全国22个产地金樱子中三萜酸类成分的含量进行了检测，结果表明，不同产地三萜类有机酸的含量有明显的差别。尚未见金樱根较完整的质量控制标准，缺乏对其进行过程质量控制和药效组分关系系统研究。本研究以金樱根的关键药效组分没食子酸和儿茶素为指标，采用HPLC法对广西不同产地金樱根及炮制品进行分析，建立HPLC测定两种活性成分的分析方法，同时采用方差分析及聚类分析对指标成分的变化进行对比研究和差异分析，旨在为金樱根广泛深入研究和开发利用提供参考，为金樱根质量标准制定以及临床用药的研究提供一定科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1材料和仪器",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "仪器：UItimate 3000 高效液相色谱仪（美国赛默飞公司），KQ-500DB 型数控超声波清洗器（昆山市超声仪器有限公司），HH-4型电热恒温水浴锅（北京科伟永光仪器有限公司），METTLER TOLEDOMS204TS 电子天平（梅特勒-托利多仪器有限公司）,电热鼓风干燥箱（上海精密仪器公司），电磁炉（美的公司）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试剂：甲醇（分析纯，天津市富宇精细化工有限公司），磷酸（分析纯，天津市富宇精细化工有限公司），盐酸（优级纯，昆山金城试剂有限公司），水（UPW-50N型超净水器制备纯化水），水（UPW-50N型超净水器制备超纯水），甲醇（色谱纯，美国天地试剂公司），没食子酸（中国食品药品检定研究院提供，批号：110831-201605），儿茶素（中国食品药品检定研究院提供，批号:110877-201203)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "金樱根采自广西9个产地，经贵州省食品药品检验所副主任药师舒柯鉴定为蔷薇科（Rosaceae）植物金樱子（Rosa laevigata）的根，金樱根及不同炮制品（实验室自制）共45个见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/873b1378c30647f483bde514249a06f06fe6f7a613fdf140567e5838121ae9a2.jpg",
+        "table_caption": [
+            "表1广西产金樱根生品及不同炮制品信息",
+            "Table 1 Sample information of Rosa laevigata and its different processed products in Guangxi "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号 No.</td><td>产地 Producing habitats</td><td>炮制方法 Processed method</td><td>采样时间 Harvest Time</td></tr><tr><td>S1</td><td rowspan=\"4\">柳州融水 Rongshui, Liuzhou</td><td>生品Crude</td><td rowspan=\"4\">2017-11-2</td></tr><tr><td>S2</td><td>炒黄 Fried-processed</td></tr><tr><td>S3</td><td>酒炙Wine-processed</td></tr><tr><td>S4</td><td>盐炙 Salt-processed</td></tr><tr><td>S5</td><td rowspan=\"4\">宜州怀远</td><td>醋炙 Vinegar-processed</td><td rowspan=\"4\">2017- 10-28</td></tr><tr><td>S6</td><td>生品Crude</td></tr><tr><td>S7</td><td>炒黄Fried-processed</td></tr><tr><td>S8</td><td>酒炙Wine-processed</td></tr><tr><td>S9</td><td rowspan=\"4\">Huaiyuan, Yizhou</td><td></td><td rowspan=\"4\"></td></tr><tr><td></td><td>盐炙 Salt-processed</td></tr><tr><td>S10</td><td>醋炙Vinegar-processed</td></tr><tr><td></td><td>生品Crude</td></tr><tr><td>S11</td><td rowspan=\"2\">宜州洛东 Luodong, Yizhou</td><td></td><td rowspan=\"2\">2017-10-25</td></tr><tr><td>S12 S13</td><td>炒黄 Fried-processed 酒炙Wine-processed</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/58e04b4d34ef107299e13fe14db1e73a2b6b073502374fc9e8952a343ed73347.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>S14</td><td colspan=\"3\">盐炙 Salt-processed</td></tr><tr><td>S15</td><td colspan=\"3\">醋炙Vinegar-processed</td></tr><tr><td>S16</td><td rowspan=\"4\">桂林全州 Quanzhou, Guilin</td><td>生品Crude</td><td rowspan=\"4\">2017-10-5</td></tr><tr><td>S17</td><td>炒黄Fried-processed</td></tr><tr><td>S18</td><td>酒炙Wine-processed</td></tr><tr><td>S19</td><td>盐炙 Salt-processed</td></tr><tr><td>S20</td><td rowspan=\"6\">桂林灌阳 Guanyang, Guilin</td><td>醋炙 Vinegar-processed</td><td rowspan=\"6\">2017-10-22</td></tr><tr><td>S21</td><td>生品Crude</td></tr><tr><td>S22</td><td>炒黄 Fried-processed</td></tr><tr><td>S23</td><td>酒炙 Wine-processed</td></tr><tr><td>S24</td><td>盐炙 Salt-processed</td></tr><tr><td>S25</td><td>醋炙Vinegar-processed</td></tr><tr><td>S26</td><td rowspan=\"5\">贺州信都 Xindu, Hezhou</td><td>生品Crude</td><td rowspan=\"5\">2017- 10-7</td></tr><tr><td>S27</td><td>炒黄Fried-processed</td></tr><tr><td>S28</td><td>酒炙 Wine-processed</td></tr><tr><td>S29</td><td>盐炙 Salt-processed</td></tr><tr><td>S30</td><td></td></tr><tr><td>S31</td><td rowspan=\"5\">贵港桂平 Guiping, Guigang</td><td>醋炙Vinegar-processed 生品Crude</td><td rowspan=\"5\">2017-10-15</td></tr><tr><td>S32</td><td>炒黄 Fried-processed</td></tr><tr><td>S33</td><td>酒炙 Wine-processed</td></tr><tr><td>S34</td><td>盐炙 Salt-processed</td></tr><tr><td></td><td></td></tr><tr><td>S35</td><td rowspan=\"5\">贵港平南 Pingnan, Guigang</td><td>醋炙Vinegar-processed</td><td rowspan=\"5\">2017-10-19</td></tr><tr><td>S36</td><td>生品Crude</td></tr><tr><td>S37</td><td>炒黄 Fried-processed 酒炙Wine-processed</td></tr><tr><td>S38 S39</td><td>盐炙 Salt-processed</td></tr><tr><td>S40</td><td></td></tr><tr><td></td><td rowspan=\"5\">钦州平吉</td><td>醋炙Vinegar-processed</td><td rowspan=\"5\">2017-10-27</td></tr><tr><td>S41</td><td>生品Crude 炒黄Fried-processed</td></tr><tr><td>S42 S43</td><td>酒炙 Wine-processed</td></tr><tr><td>S44</td><td>盐炙 Salt-processed</td></tr><tr><td>S45</td><td>醋炙Vinegar-processed</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 标准溶液的制备",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "精密称取没食子酸对照品 $2 . 4 0 \\mathrm { m g }$ ，加甲醇溶液定容至 $1 0 0 ~ \\mathrm { { m L } }$ ，摇匀，即得 $0 . 0 2 4 ~ \\mathrm { { m g } \\cdot \\mathrm { { m L } } ^ { - 1 } }$ 的没食子酸对照品储备液；精密称取儿茶素对照品 $5 . 8 1 \\mathrm { m g }$ ，加 $50 \\%$ 乙醇定容至 $2 0 ~ \\mathrm { m L }$ ，即得 $0 . 2 9 0 \\mathrm { m g } { \\cdot } \\mathrm { m L } ^ { - 1 }$ 的儿茶素对照品储备液。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2不同炮制品的制备",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参照 2020版《中国药典》四部项下炮制通则中各炮制品的制备方法，将9批不同产地的金樱根分别称取各${ 1 0 0 0 } \\mathrm { g }$ ，每批产地分5份，每份 $2 0 0 \\ \\mathrm { g }$ ，分别为生品、炒黄、酒炙、盐炙、醋炙。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "生品：将9批不同产地金樱根药材净选切制后， $4 0 \\ \\mathrm { ~ \\textdegree ~ }$ 低温烘干，备用；炒黄品：取上述9批净制后的药材适量（每批 $2 0 0 \\mathrm { g }$ ），置烧热炒锅内，用文火翻炒至表面颜色加深时，取出，放凉；酒炙品:取上述9批净制后的药材适量（每批 $2 0 0 \\ \\mathrm { g }$ ），加入定量的黄酒（药：黄酒 $\\frac { \\ d } { \\ d t } = 1 0 0 : 2 0$ ）搅拌均匀，闷透，置烧热炒锅内，用文火炒至表面颜色加深时，取出，放凉；盐炙品：取上述9批净制后的药材适量（每批 $2 0 0 \\mathrm { g }$ ），加入定量的盐水（药：食盐 $= 1 0 0 : 2 0$ ）搅拌均匀，闷透，置烧热炒锅内，用文火炒至表面颜色加深时，取出，放凉；醋炙品：取上述9批净制后的药材适量（每批 $2 0 0 \\mathrm { g }$ ），加入定量的米醋（药：米醋 $\\mathbf { \\varepsilon } = 1 0 0 : 2 0$ ）搅拌均匀，闷透，置烧热炒锅内，用文火炒至表面颜色加深时，取出，放凉。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 样品溶液的制备 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.3.1 取1.2.2项下的各样品低温干燥后，粉碎，过三号筛，取各样品粉末 $\\boldsymbol { 0 . 1 \\ \\mathrm { g } }$ ，精密称定，置于具塞锥形瓶中，精密加入 $4 \\mathrm { \\ m o l { \\cdot } L ^ { - 1 } H C l { \\cdot } 5 0 \\mathrm { \\ m L } }$ ，称定重量，加热回流 $\\boldsymbol { 4 } \\mathrm { h }$ ，取下，放冷，用 $4 \\mathrm { m o l } { \\cdot } \\mathrm { L } ^ { - 1 } \\mathrm { H C l }$ 补足减失的重量，过滤，精密量取续滤液 $1 0 ~ \\mathrm { m L }$ 置蒸发皿中，蒸干，残渣用甲醇溶解转移到 $1 0 ~ \\mathrm { m L }$ 容量瓶中，用甲醇定容至刻度，摇匀，取续滤液，备用于做测定没食子酸含量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.3.2取1.2.2项下的各样品低温干燥后，粉碎，过三号筛，取本品约 $0 . 5 \\mathrm { g }$ ，精密称定，置于具塞锥形瓶中，精密加入甲醇-盐酸(50:1) $5 0 ~ \\mathrm { m L }$ ，密塞，称定重量，分别超声处理(功率 $2 5 0 \\mathrm { W }$ ，频率 $4 0 \\mathrm { k H z }$ ） $4 5 \\mathrm { m i n }$ ，放冷，再称定重量，用甲醇补足减失的重量，摇匀，滤过，取续滤液，备用于做测定儿茶素含量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.4 HPLC色谱条件",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "测定没食子酸色谱条件：色谱柱为 thermos- $\\mathbf { C } _ { 1 8 }$ C $2 5 0 \\mathrm { m m } \\times 4 . 6 \\mathrm { m m }$ ， ${ 5 \\mu \\mathrm { m } } \\mathrm { , }$ ；流动性：A（甲醇)-B( $0 . 1 \\%$ 磷酸）（5：95)；检测波长： $2 7 1 ~ \\mathrm { n m }$ ；柱温为 $3 0 ^ { \\circ } \\mathrm { C }$ ；流速： $0 . 6 \\mathrm { m L } \\cdot \\mathrm { m i n } ^ { - 1 }$ ；进样量： ${ 5 \\mu \\mathrm { L } }$ 。测定儿茶素色谱条件：色谱柱为waters- ${ \\bf { \\cdot C } } _ { 1 8 }$ （ $2 5 0 \\ : \\mathrm { m m } \\times 4 . 6 \\ : \\mathrm { m m }$ ， $5 \\mu \\mathrm { m }$ ）；流动性：A甲醇-B $0 . 2 \\%$ 磷酸（ ${ \\mathrm { . 1 0 : 9 0 } } \\cdot$ ）；检测波长：$2 7 9 { \\mathrm { n m } }$ ；柱温为 $3 0 ^ { \\circ } \\mathrm { C }$ 流速： $1 \\ \\mathrm { m L } { \\cdot } \\mathrm { m i n } ^ { - 1 }$ ；进样量： $1 0 \\mu \\mathrm { L }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1方法学考察",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1线性关系、检出限及定量限 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分别精密吸取“1.2.1”项下的没食子酸和儿茶素对照品储备液1、3、5、10、 $1 5 \\mu \\mathrm { L }$ ，进样测定，记录色谱峰面积，以进样量为横坐标（X），峰面积为纵坐标（Y）绘制标准曲线，得各成分的回归方程，相关系数，线性范围、检出限及定量限，结果见表2。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9f3c1e21f005aa788e11a16845e7b3c7a350b370d69dafa826fc1fb7d6f2f4cd.jpg",
+        "table_caption": [
+            "表2回归方程及线性范围考察",
+            "Table 2 Regression equation and linear range "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">Tabie essione</td><td rowspan=\"2\">定量限</td></tr><tr><td>化合物</td><td>回归方程</td><td>相关系数</td><td>线性范围</td><td>检出限</td></tr><tr><td>Compound</td><td>Regression equation</td><td>R²</td><td>(mg·mL-1) Linear range</td><td>LOD (mg:mL-1)</td><td>LOQ (mg:mL-1)</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>没食子酸 Gallic acid</td><td>Y= 622.26X + 355.36</td><td>0.999 9</td><td>0.0233 ~ 0.9654</td><td>0.053</td><td>0.613</td></tr><tr><td>儿茶素</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Catechin</td><td>Y =8 057.87X + 143.17</td><td>0.999 1</td><td>0.0959 ~ 1.438 8</td><td>0.195</td><td>2.045</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.2精密度试验 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分别取“1.2.1”项下各对照品溶液适量，按“1.2.4”项下各对照品的色谱条件各连续进样6次，记录峰面积，没食子酸和儿茶素的RSD分别为 $0 . 9 1 \\%$ 、 $0 . 4 0 \\%$ ，结果表明仪器精密度良好。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.3重复性试验 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分别取“1.2.2”项下S1号样品各6份，以每6份为一组，各组中每份分别按0.1、 $0 . 5 \\ : \\mathrm { g }$ ，精密称定，再按“1.2.3”项下“1.2.3.1”和“1.2.3.2”的方法制备样品溶液，分别按“1.2.4”项下各色谱条件进样测定，记录",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "色谱图，计算含量，各6份样品的没食子酸和儿茶素含量测定平均值分别为4.902、 $1 9 . 3 1 8 ~ \\mathrm { m g { \\cdot m L } ^ { - 1 } }$ ，RSD分别为 $0 . 8 0 \\%$ 、 $1 . 5 0 \\%$ ，结果说明两种测定方法重复性均良好。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.4稳定性试验 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分别取 $^ { 6 6 } 1 . 2 . 3 ^ { , 9 }$ 项下 S1号样品溶液适量，在室温下放置，并分别于0、2、4、8、12、 $2 4 \\mathrm { h }$ 按“1.2.4”项下各自色谱条件进行测定，结果没食子酸和儿茶素峰面积RSD分别为 $1 . 9 5 \\%$ 、 $0 . 9 6 \\%$ ( $\\scriptstyle n = 6$ ），表明样品溶液在 24h 内稳定性均良好。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.5加样回收试验 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分别取已知含量的 S1号样品适量，精密称定，置锥形瓶中，分别精密加入没食子酸对照品溶液（0.2266$\\mathrm { { m g } { \\cdot } \\mathrm { { m L } ^ { - 1 } } }$ ） $1 \\mathrm { m L }$ 和儿茶素对照品溶液（ $\\mathrm { 1 . 9 4 6 2 m g { \\cdot } m L ^ { - 1 } }$ ） $1 \\mathrm { m L }$ ，挥干，按 $^ { 6 6 } 1 . 2 . 3 ^ { , 9 }$ 项下两种样品溶液的方法制备，按“1.2.4”项下的各自色谱条件进行测定，结果表明，没食子酸和儿茶素的测定方法均具有良好的加样回收率。具体结果见表3。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/09bb12ca3f28183df84804f82f7f911b0c93b1842a020dea100fd95cbcaed6cf.jpg",
+        "table_caption": [
+            "表3加样回收率试验结果",
+            "Table 3 Results of the recovery rate "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>化合物 Compound</td><td>称样量 Weighed quantity</td><td>样品含量 Content of sample</td><td>加入量 Added quantity</td><td>测得量 Measured quantity</td><td>回收率 (%） Recovery</td><td>平均回收率 Average recovery (%)</td><td>RSD (%)</td></tr><tr><td>食子酸</td><td>(g）) 0.050</td><td>（mg) 0.234</td><td>（mg) 0.227</td><td>（mg) 0.460</td><td>97.02</td><td rowspan=\"4\"></td><td rowspan=\"4\"></td></tr><tr><td>Gallic acid</td><td>0.051</td><td>0.251</td><td>0.227</td><td></td><td>102.32</td></tr><tr><td>0</td><td></td><td></td><td></td><td>0.477</td><td></td></tr><tr><td>1404</td><td>0.054</td><td>0.262</td><td>0.227</td><td>0.488</td><td>101.27</td></tr><tr><td></td><td>0.059</td><td>0.283</td><td>0.227</td><td>0.509</td><td>99.79</td><td rowspan=\"2\"></td><td rowspan=\"5\"></td></tr><tr><td></td><td>0.058</td><td>0.279</td><td>0.227</td><td>0.506</td><td>99.78</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=\"5\"></td></tr><tr><td>二</td><td>0.103</td><td>1.914</td><td>1.946</td><td>3.860</td><td>96.09</td></tr><tr><td></td><td>0.120</td><td>2.258</td><td>1.946</td><td>4.204</td><td>96.88</td></tr><tr><td>儿茶素</td><td>0.122</td><td>2.310</td><td>1.946</td><td>4.257</td><td>97.61</td></tr><tr><td>atechin</td><td>0.105 0.128</td><td>1.959 2.408</td><td>1.946 1.946</td><td>3.905 4.354</td><td>96.44</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>96.67</td><td rowspan=\"2\"></td></tr><tr><td></td><td>0.128</td><td>2.385</td><td>1.946</td><td>4.331</td><td>95.49</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2含量测定结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "取“1.2.2”项下样品，按“1.2.3”项下的两方法进行样品溶液的制备，并在“1.2.4”色谱条件进行测定，色谱图见图1，记录峰面积，含量测定结果见表4，从实验结果可见，儿茶素含量明显高于没食子酸含量，在同一样品中儿茶素含量是没食子酸的二至九倍，此结果可作为广西金樱根药材的一项重要特征。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d324a25a4b1651daf36a6055d81daf0b8f42be2181b84f907975dd7efc8fe1c1.jpg",
+        "img_caption": [
+            "图1对照品(A,B)和样品 $( { \\bf C } , { \\bf D } )$ 的 HPLC色谱图Fig.1 HPLC chromatograms of standards (A,B ） and samples (C, D)"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.没食子酸；2．儿茶素。   \n1. Gallic acid; 2. Catechin. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/15c2c94ec60ba542e59c69486b6c0d37ab86038d583522bcc7e54f7beea19735.jpg",
+        "table_caption": [
+            "表4 不同产地金樱根不同炮制品中没食子酸和儿茶素含量 $\\scriptstyle ( n = 3 )$ ble 4 Results of contents determination of gallic acid and catechin in Rosa laevigata from different producing habitats by different processed methodse $( n { = } 3 )$ 号 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">habitatsby dillerentprocessedmetnods(n=3)</td></tr><tr><td>产地</td><td>炮制方法</td><td>没食子酸</td><td>儿茶素</td></tr><tr><td>Producing habitats</td><td>Processed method</td><td>Gallic acid (%)</td><td>Catechin (%)</td></tr><tr><td rowspan=\"6\">柳州融水 Rongshui, Liuzhou</td><td>生品 Crude</td><td>0.47</td><td>2.27</td></tr><tr><td>炒黄 Fried-processed</td><td>0.59</td><td>2.67</td></tr><tr><td>酒炙Wine-processed</td><td>0.60</td><td>2.51</td></tr><tr><td>盐炙 Salt-processed</td><td>0.64</td><td>2.69</td></tr><tr><td>醋炙Vinegar-processed</td><td>0.68</td><td>2.84</td></tr><tr><td>生品 Crude</td><td>0.45</td><td>2.77</td></tr><tr><td>宜州怀远</td><td>炒黄 Fried-processed</td><td></td><td></td></tr><tr><td>Huaiyuan, Yizhou</td><td></td><td>0.43</td><td>3.08</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d49a3ed434220b5c0b2ef4776058431e5ab6c85cbb11d4c2af74ef952ec2a757.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td>酒炙Wine-processed</td><td>0.44</td><td>3.21</td></tr><tr><td>盐炙 Salt-processed</td><td>0.42</td><td>2.91</td></tr><tr><td rowspan=\"5\">宜州洛东 Luodong, Yizhou</td><td>醋炙Vinegar-processed</td><td>0.53</td><td>3.13</td></tr><tr><td>生品Crude</td><td>0.55</td><td>1.82</td></tr><tr><td>炒黄 Fried-processed</td><td>0.56</td><td>1.78</td></tr><tr><td>酒炙Wine-processed</td><td>0.63</td><td>2.21</td></tr><tr><td>盐炙 Salt-processed</td><td>0.66</td><td>1.74</td></tr><tr><td rowspan=\"5\">桂林全州 Quanzhou, Guilin</td><td>醋炙 Vinegar-processed 生品Crude</td><td>0.74</td><td>1.98</td></tr><tr><td>炒黄 Fried-processed</td><td>0.35</td><td>2.48</td></tr><tr><td></td><td>0.76</td><td>2.41</td></tr><tr><td>酒炙Wine-processed</td><td>0.76</td><td>2.28</td></tr><tr><td>盐炙 Salt-processed 醋炙 Vinegar-processed</td><td>0.73</td><td>2.17</td></tr><tr><td rowspan=\"5\">桂林灌阳 Guanyang, Guilin</td><td>生品Crude</td><td>0.87 0.38</td><td>2.64 2.66</td></tr><tr><td>炒黄 Fried-processed</td><td>0.35</td><td>2.57</td></tr><tr><td>酒炙Wine-processed</td><td>0.34</td><td>2.66</td></tr><tr><td>盐炙 Salt-processed</td><td>0.31</td><td>2.65</td></tr><tr><td>醋炙 Vinegar-processed</td><td>0.43</td><td>2.86</td></tr><tr><td rowspan=\"5\">贺州信都 Xindu, Hezhou</td><td>生品Crude</td><td>0.29</td><td>2.74</td></tr><tr><td>炒黄 Fried-processed</td><td>0.72</td><td>2.87</td></tr><tr><td>酒炙Wine-processed</td><td>0.72</td><td>2.82</td></tr><tr><td>盐炙 Salt-processed</td><td></td><td>3.14</td></tr><tr><td>醋炙Vinegar-processed</td><td>0.75 0.76</td><td>3.25</td></tr><tr><td rowspan=\"5\">贵港桂平 Guiping, Guigang</td><td>生品Crude</td><td>0.28</td><td>0.78</td></tr><tr><td>炒黄 Fried-processed</td><td>0.24</td><td>0.74</td></tr><tr><td>酒炙Wine-processed</td><td>0.31</td><td>0.88</td></tr><tr><td>盐炙 Salt-processed</td><td></td><td>0.75</td></tr><tr><td>醋炙 Vinegar-processed</td><td>0.28 0.41</td><td>0.96</td></tr><tr><td rowspan=\"5\">贵港平南 Pingnan, Guigang</td><td>生品Crude</td><td>0.48</td><td>3.45</td></tr><tr><td>炒黄 Fried-processed</td><td>0.49</td><td>3.15</td></tr><tr><td>酒炙Wine-processed</td><td>0.56</td><td>3.05</td></tr><tr><td>盐炙 Salt-processed</td><td>0.54</td><td>3.65</td></tr><tr><td>醋炙 Vinegar-processed</td><td>0.65</td><td>3.85</td></tr><tr><td rowspan=\"5\">钦州平吉 Pingji, Qinzhou</td><td>生品Crude</td><td>0.56</td><td>3.68</td></tr><tr><td>炒黄 Fried-processed</td><td>0.55</td><td>3.61</td></tr><tr><td>酒炙Wine-processed</td><td>0.51</td><td>3.43</td></tr><tr><td>盐炙 Salt-processed</td><td></td><td></td></tr><tr><td>醋炙Vinegar-processed</td><td>0.72 0.84</td><td>3.64 3.96</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3不同产地金樱根聚类分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "用以上9个不同产地金樱根生品中儿茶素和没食子酸的含量作为变量，采用 SPSS23.0软件进行聚类统计分析，结果见图2，当 $5 { < } \\lambda \\leqslant 1 0$ 时，S1,S6,S11,S16,S21及 S26 聚为第一类，S36 和 S41聚为第二类，S31聚为第三类。当 $1 0 < \\lambda < 2 5$ 时，所有样品被分为两类，S1,S6,S11,S16,S21,S26,S36及S41聚类一类，S31单独为一类。从聚类分析结果可知，不同产地的金樱根儿茶素和没食子酸含量具有较明显的地理分布倾向，大致来源于广西北部地区的宜州、柳州、桂林及贺州聚为一类（S1,S6,S11,S16,S21及S26），来源于广西的南部地区的贵港平南和钦州平吉聚为一类（S36和S41），来源于广西南部地区贵港桂平单独聚为一类（S31）。广西南部地区的成分与北部地区存在一定的差别，且南部地区的贵港桂平与其他产区的成分差异较大，可能是由于生长环境或药材品种等多方因素影响所致。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/54e97d2ea3b0695ddab8e82bc60ba5c272bb0e744bc5394dd38d326cfd753724.jpg",
+        "img_caption": [
+            "图2不同产地金樱根生品的聚类分析图"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "S1.柳州融水生品；S6.宜州怀远生品；S11宜州洛东生品；S16.桂林全州生品；S21.桂林灌阳生品；S26.贺州信都生品；   \nS31.贵港桂平生品；S36.贵港平南生品；S41.钦州平吉生品。   \nS1.The crude fromRongshui,Liuzhu; S6.Thecrude from Huaiyuan,Yizhou;S11.Thecrude from Luodong,Yizhou； S16.   \nThecrudefrom Quanzhou,Guilin;S21.Thecrude from Guanyang,Guilin;S26.Thecrude from Xindu,Hezhou;S31.Thecrude from Guiping, Guigang; S36. Tthe crude from Pingnan, Guigang; S41. The crude from Pingji, Qinzhou. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Tree diagram of cluster analysis of the roots of Rosa laevigata from different habitats ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "聚类分析可将所有样品大致分为三类，聚类后不同类群的没食子酸和儿茶素平均含量比较见表5，各类群的没食子酸和儿茶素含量均存在显著性差异（ $( P { < } 0 . 0 5 )$ 。广西南部地区（除贵港桂平外）的没食子酸和儿茶素含量整体上比北部地区高，第三类贵港桂平无论是没食子酸还是儿茶素均比其他类产区的低，具体原因有待进一步研究分析。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/3256962d102e77a4b656ef879396a45fc6bd66a28004b632df50791e089c44d6.jpg",
+        "table_caption": [
+            "平方欧式距离 Squared euclidean distance (SED)",
+            "表5聚类后三类产区生品中没食子酸和儿茶素含量比较",
+            "Table 5 Contents of gallic acid and catechin of three kinds of producing habitats in Rosa laevigata after clustering "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">化合物 Compound</td><td colspan=\"3\">含量Content（mg:g-1）</td></tr><tr><td>第一类（广西北部地区) The first kind（Northern of Guangxi</td><td>第二类（广西南部地区） The seccond kind (Southern of</td><td>第三类(贵港桂平)</td></tr><tr><td>没食子酸 Gallicacid</td><td>habitat） 0.41±0.09Ab</td><td>Guangxi habitat) 0.52±0.05Aa</td><td>The third kind (Ghuiping, Guigang) 0.28±0.02Ac</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "注：数值为平均值 $\\pm$ 标准差。同一行后面的大写字母和小写字母分别表示不同产区该化合物的含量存在极显著差异 $( P < 0 . 0 1 )$ 和显著差异（ $\\cdot P < 0 . 0 5$ ）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Note:Thevaluesindicateaverage $\\pm$ standard deviation. Capital letters and lowercase letters in the same column indicate that the compounds in the roots of Rosa laevigata of different producing habitats has extremely significant diferences $\\mathit { P } < 0 . 0 1 \\$ ）and significant differences $( P < 0 . 0 5 )$ 1 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.4不同产地金樱根及不同炮制品中没食子酸和儿茶素含量的方差分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "以没食子酸和儿茶素的含量作为因变量，采用SPSS23.0软件进行多元方差分析，结果见表6。不同产地的没食子酸和儿茶素含量均具有极显著性差异( $P { < } 0 . 0 1 \\$ )，说明金樱根中没食子酸和儿茶素含量均受不同地域环境因素的影响，与聚类分析的结果相一致，都反映出金樱根药材不同产地间的差异性。在不同炮制方法上，没食子酸含量具有极显著性差异（ $_ { . } P { < } 0 . 0 1 \\$ ），儿茶素含量具有显著性差异（ $. P { < } 0 . 0 5$ )，说明炮制方法对没食子酸和儿茶素的含量均有不同程度的影响。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表6不同产地金樱根及炮制品中没食子酸和儿茶素含量的方差分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/8454fd7a34952a645963f82b98acee7bcdaafae8decaed174bec7a04af171df8.jpg",
+        "table_caption": [
+            "Table 6 Analysis of variance of the contents of gallc acid and catechin in Rosa laevigata from diferent producing habitats by different processed methods "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">化合物 Compound</td><td colspan=\"5\">产地 Producing habitats</td><td colspan=\"5\">炮制方法 Processed method</td></tr><tr><td>平方和 Sum of squares</td><td>自由度 Df</td><td>均方 Mean square</td><td>F</td><td>显著性 Sig.</td><td>平方和 Sum of squares</td><td>自由度 Df</td><td>均方 Mean square</td><td>F</td><td>显著性 Sig.</td></tr><tr><td>没食子酸 Gallic acid</td><td>2.244</td><td>8</td><td>0.280</td><td>42.481</td><td>0.000</td><td>0.771</td><td>4</td><td>0.193</td><td>29.196</td><td>0.000</td></tr><tr><td>儿茶素 Catechin</td><td>87.169</td><td>8</td><td>10.896</td><td>490.231</td><td>0.000</td><td>1.746</td><td>4</td><td>0.436</td><td>19.638</td><td>0.000</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "不同产地金樱根及炮制品中没食子酸和儿茶素含量分布见图3和图4，不同产地的金樱根经过炮制后，没食子酸含量和儿茶素的含量均有一定程度的变化，没食子酸含量在四个产区（宜州怀远、桂林灌阳、贵港桂平及钦州平吉），儿茶素含量在六个产区（宜州洛东、桂林灌阳、桂林全州、贵港桂平、贵港平南及钦州平吉）的个别炮制方法中略有下降，但在所有产区中醋炙后没食子酸和儿茶素含量均有所升高，分别达到 $( 0 . 6 6 { \\pm } 0 . 1 6 )$ $\\mathbf { m g \\cdot g ^ { - 1 } }$ 和 $( 2 . 8 3 { \\pm } 0 . 8 7 ) \\mathrm { m g \\cdot g ^ { - 1 } } .$ 。对不同炮制方法下没食子酸和儿茶素的含量再进行进一步的方差分析，结果见表7，醋炙品与其他炮制品都存在显著性差异（ $_ { . P < 0 . 0 5 ) }$ 和极显著性差异（ $\\scriptstyle P < 0 . 0 1 { \\dot { } } ,$ ，因此表明醋炙方法最适合金樱根炮制加工，能有效提高没食子酸和儿茶素的含量。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/25882769ede3315c63aaa7f932ae1880d17678e46b5e126e30e8983f1e6c7f7b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "S1-S5.柳州融水；S6-S10.宜州怀远；S11-S15.宜州洛东；S16-S20.桂林全州；S21-S25.桂林灌阳；S26-S30.贺州信都；S31-S35.   \n贵港桂平；S36-S40.贵港平南；S41-S45．钦州平吉。下同。 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "S1-S5.Rongshui,Liuzhou;S6-S10.Huaiyuan,Yizhou; S11-S15.Luodong,Yizhou;S16-S20.Quan zhou, Guilin;S21-S25.Guanyang Guilin;S26-S30.Xindu,Hezhou;S31-S35.Guiping,Guigang;S36-S40.Pingnan,Guigang;S41-S45.Pingji,Qinzhou.Thesambelow. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 Contents of galic acid in root of Rosa laevigataand its processed products from different producing habitats ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f0c26aa4ed0de7cb84f1c0e59bb9caffcbaeb0e85f5815a0191e7f7e4919eb5.jpg",
+        "img_caption": [
+            "图3不同产地金樱根及炮制品没食子酸含量",
+            "图4不同产地金樱根及炮制品儿茶素含量"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 Contents of catechin in root of Rosa laevigata and its processed products from diferent producing habitats ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/11c6a36d3fa4c8717c16a1925e3d3a402e44e2bd330f11edd0e64b459523fee7.jpg",
+        "table_caption": [
+            "表7不同炮制方法没食子酸和儿茶素含量的比较",
+            "Table 7 Comparisons of the contents of gallic acid and catechin by different processed meth "
+        ],
+        "table_footnote": [
+            "注：数值为平均值 $\\pm$ 标准差。同一行后面的大写字母和小写字母分别表示不同炮制方法该化合物的含量存在极显著差异 $( P < 0 . 0 1 )$ （204和显著差异（ $P < 0 . 0 5$ ）。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">炮制方法 Processed method</td><td colspan=\"2\">含量Content（mg·g1）</td></tr><tr><td>没食子酸 Gallic acid</td><td>儿茶素Catechin</td></tr><tr><td>生品Crude</td><td>0.42±0.10Ca</td><td>2.52±0.81Ba</td></tr><tr><td>炒黄Fried-processed</td><td>0.52±0.16Ba</td><td>2.54±0.80Ba</td></tr><tr><td>酒炙Wine-processed</td><td>0.54±0.15Ba</td><td>2.56±0.71Ba</td></tr><tr><td>盐炙 Salt-processed</td><td>0.56±0.17Ba</td><td>2.59±0.88Ba</td></tr><tr><td>醋炙Vinegar-processed</td><td>0.66±0.16Aa</td><td>2.83±0.87Aa</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Note:The values indicate average $\\pm$ standard deviation. Capital letters and lowercase letters in the same column indicate that the compounds in the roots of Rosa laevigata of diferent processed methods has extremely significant differences $( P < 0 . 0 1 )$ ）and significant differences $\\begin{array} { r } { P < 0 . 0 5 \\} . } \\end{array}$ ） ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3讨论与结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1色谱条件及提取方法的考察",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在进行色谱条件摸索实验中，依次选用甲醇-磷酸，乙腈-磷酸，甲醇-甲酸，乙腈-甲酸等系统进行检测，$2 0 0 { \\sim } 4 0 0 ~ \\mathrm { n m }$ 波长下进行全波长扫描，色谱柱分别用waters- ${ \\bf \\cdot C } _ { 1 8 }$ 色谱柱（ $2 5 0 \\ : \\mathrm { m m } \\times 4 . 6 \\ : \\mathrm { m m }$ ， ${ 5 \\mu \\mathrm { m } }$ ），迪马色谱柱（ $2 5 0 \\mathrm { m m } \\times 4 . 6 \\mathrm { m m }$ ， $5 \\mu \\mathrm { m }$ ），依利特-C18色谱柱（ $\\cdot 2 5 0 \\ : \\mathrm { m m } \\times 4 . 6 \\ : \\mathrm { m m }$ ， $5 \\mu \\mathrm { m } )$ ,thermos- ${ \\bf \\cdot C } _ { 1 8 }$ （ $2 5 0 \\mathrm { m m } \\times 4 . 6 \\mathrm { m m }$ ${ 5 \\mu \\mathrm { m } }$ ）进行考察，柱温和流速分别用20、30、 $4 0 ^ { \\circ } \\mathrm { C }$ 和0.8、1.0、 $1 . 2 \\mathrm { m L } \\cdot \\mathrm { m i n } ^ { - 1 }$ 进行筛选，由于考虑到没食子酸和儿茶素都是含有酚羟基的酸性化合物，极性都比较大，而且金樱根的成分多以极性较大的成分为主（李石平，2013），因此为使得分离度好，且峰型效果显著，在流动相中加入不同种类和比例的酸性试剂进行筛选（耿丽等，2020），最终测定没食子酸流动性以甲醇 $. 0 . 1 \\%$ 磷酸（5：95)，色谱柱为 thermos- ${ \\bf \\cdot C } _ { 1 8 }$ 0 $\\cdot 2 5 0 \\mathrm { m m } { \\times } 4 . 6 \\mathrm { m m }$ ${ 5 \\mu \\mathrm { m } } \\mathrm { , }$ ，检测波长为 $2 7 1 ~ \\mathrm { n m }$ ，流速为 $0 . 6 \\mathrm { m L } \\cdot \\mathrm { m i n } ^ { - 1 }$ ，柱温为 $3 0 ^ { \\circ } \\mathrm { C }$ ；测定儿茶素流动性以甲醇- $0 . 2 \\%$ 磷酸( $1 0 : 9 0 )$ ，色谱柱为waters- ${ \\bf \\cdot C } _ { 1 8 }$ ? $\\cdot 2 5 0 \\ : \\mathrm { m m } \\times 4 . 6 \\ : \\mathrm { m m }$ ， ${ 5 \\mu \\mathrm { m } }$ ）；检测波长： $2 7 9 { \\mathrm { n m } }$ ；柱温为 $3 0 ^ { \\circ } \\mathrm { C }$ ，流速为 $1 \\ \\mathrm { m L } \\cdot \\mathrm { m i n } ^ { - 1 }$ ，在这些条件下色谱峰的分离好、基线平稳、杂质峰的干扰少。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "前期在对金樱根药材提取工艺的考察中，分别以没食子酸和儿茶素含量为测定指标，将提取溶剂（不同浓度甲醇，不同浓度乙醇，不同浓度盐酸，不同比例的甲醇-盐酸），提取方式（加热回流、超声提取），提取时间 $( 3 0 \\operatorname* { m i n } , 4 5 \\operatorname* { m i n } , 1 \\mathrm { { h } } , 2 \\mathrm { { h } } , 3 \\mathrm { { h } } , 4 \\mathrm { { h } } )$ 及称样量 $( 0 . 1 , \\ 0 . 2 , \\ 0 . 3 , \\ 0 . 4 , \\ 0 . 5 \\ \\mathrm { g } )$ 等作为考察因素，最终以所测成分（没食子酸和儿茶素）含量最高作为优选条件，因此分别选用 $\\boldsymbol { 0 . 1 \\mathrm { g } }$ 称样量， $4 \\mathrm { m o l \\cdot L } ^ { - 1 }$ 盐酸溶液加热回流4h作为没食子酸测定的提取方法； $0 . 5 \\mathrm { \\ g }$ 称样量，甲醇-盐酸（ $5 0 : 1 )$ 溶液超声处理提取 $4 5 \\mathrm { m i n }$ 作为儿茶素测定的提取方法。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "在金樱根药材含量测定方法中多数集中在采用UV法进行测定（单于超等，2011；黄慧等，2011；苏亦用等，2012；朱萱萱等，2020），本研究建立了HPLC测定金樱根中没食子酸和儿茶素的测定方法，该方法操作简单，能使没食子酸和儿茶素与其他干扰峰达到基线分离，且灵敏、可靠、重复性好，因此能更准确地对金樱根进行定性和定量分析。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.2基于没食子酸和儿茶素含量测定的金樱根质量评价及其炮制方法的优选",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "目前对金樱根中含量测定的报道多以测定某一类化学成分含量为主，如黄慧等（2011）对湖南产金樱根不同炮制品中的总鞣质含量进行测定，结果显示炮制后总鞣质含量降低，单于超等（2011）分别对不同产地金樱子根、阳枝总鞣质的含量测定和金樱根不同炮制品中总黄酮含量进行测定，结果认为广西产金樱根中总鞣质含量最高和不同炮制方法对金樱根中总黄酮含量的影响较大，以上研究只对某一产地炮制品或几个产地的某类成分含量进行研究，样本量及测定指标都较单一。没食子酸和儿茶素是金樱根发挥药效作用的重要基础物质，它们均具有酚羟基结构，有一定的酸性，同时儿茶素具有苦涩味（Scharbertetal.,2005；张英娜等，2017），可见金樱根性味酸来源于没食子酸和儿茶素，涩味主要来源于儿茶素，因此测定没食子酸和儿茶素含量具有重要的意义，本研究选取广西9个不同产地金樱根及炮制品作为研究对象，并以没食子酸和儿茶素作为测定指标，样品量包括了广西大部分产区，因此测定结果能更好地评价广西金樱根药材的质量及优选适合的炮制加工方法。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "没食子酸和儿茶素为植物二次代谢产物的多酚类成分，它们的合成与积累受气候变化、地理环境等因素的影响（董娟娥等，2004；钱家萍等，2020），本研究发现不同产地的金樱根中儿茶素和没食子酸含量具有较明显的地理分布倾向，且广西南部地区（除贵港桂平外）没食子酸和儿茶素的含量整体上比北部地区高，金樱根植物喜温暖湿润的气候和阳光充足的环境（李小明，2010），广西南部地区属于南亚热带气候，全年气候较暖热，雨量及光照充沛（况雪源等，2007），且研究发现光照强度的升高能增加植物体内多酚物质的含量（程春龙等，2008），因此，广西南方气候条件可能是影响金樱根中没食子酸和儿茶素含量升高的因素之一，然而南部地区的贵港桂平与其他产区的成分差异较大，原因可能是由于生长环境或药材品种等多方因素影响所致。由于本次研究数据指标有限，对于地理环境等其他因素是否影响金樱根中没食子酸和儿茶素的含量需进一步研究，后期可通过再扩大样本量，考察多项影响指标（如土壤成分，海拔高低等）来进行深入分析。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本研究对不同产地金樱根及炮制品中没食子酸和儿茶素进行方差分析，发现经炮制后没食子酸和儿茶素的含量均有一定程度的变化，推测是在炮制过程中，受加热、辅料等因素影响所致，此外，在同一炮制方法中出现产地间的没食子酸和儿茶素含量升降不一致的现象，可能是个别产地金樱根中含有某些成分而产生化学变化或由于在实验中操作不当等因素所致。本研究中，醋炙后没食子酸和儿茶素含量均升高，这与笔者前期研究金樱根炮制品中金属含量醋炙方法最优相一致（韦熹苑等，2020），分析醋炙后没食子酸含量升高的原因可能是由于在加热和酸性条件下，金樱根中鞣质类成分或含有没食子酰基的苷类成分，在加热炮制条件下分解，从而导致没食子酸含量增加（王云等，2010），而醋炙后儿茶素含量升高可能是由于在中性和碱性条件下儿茶素不稳定，而在一定PH的酸性条件下可稳定存在（张盼等，2020），因此使得能最大限度的保存儿茶素的成分（吴梦琦等，2019），另外也有可能是糖苷类成分转化成儿茶素，并在酸性条件下稳定存在。综上所述，对于金樱根各炮制品的炮制机制仍有待进一步研究。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3结论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本研究采用HPLC法建立金樱根中没食子酸和儿茶素含量的测定方法，为研究广西金樱根药材资源的合理利用及质量标准提供一定的科学依据，同时通过探讨金樱根炮制前后没食子酸和儿茶素含量的变化规律，揭示金樱根炮制的科学性，为今后研究金樱根炮制品中化学成分的变化机制与药理活性的关系打下一定的实验基础。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "CAO MM, ZHU JG, ZHANG ZL,et al.，2020.Comparative study on the fingerprints and content of 5 kinds ofnucleosides in raw products and diferent processed products of Pinellia pedatisecta[J]. China Pharm,31(13):1601-1607.[曹淼淼，朱建光，张振凌，等，2020．虎掌南星生品及不同炮制品指纹图谱和5种核苷类成分含量的比较研究[J]．中国药房，31（13）:1601-1607.]  \nCHENG CL,LIU S,LIAO RS,et al.，2008.Concentration and distribution of phenolic compounds inPopulus euphratica in Ejina Oasis and their corelation with soil water contents[J].Acta Ecol Sin,28(1):69-75.[程春龙，刘松，廖容苏，等，2008．额济纳绿洲胡杨(Populuseuphratica)酚类物质含量和分布及其与土壤水分的关系[J].生态学报，28(1):69-75.]  \nGENG L,LI C,LI ZH,2020.Simultaneous determination of four kinds of component in the extract of Duchesnea indica（Andr.）Focke by HPLC[J].Herald Med,39(8):1138-1141.[耿丽，李聪，李志浩，2020.高效液相色谱法同时测定蛇莓提取物中4 种成分的含量[J]．医药导报，39(8)：1138-1141.]  \nHUANG H, TIAN SY, GAO DZ, 2O11. Compare with the content of total from diffrent preparationsRadix Rosae laevigatae[J].Asia-Pac Trad Med,7(8):33-35.[黄慧，田素英，高达枝，2011.金樱根不同炮制品的总鞣质含量比较[J]．亚太传统医药，7(8):33-35.]  \nKUANG XY,SU Z,TUFX,2007.Climate regionalization of Guangxi[J]. Guangxi Sci,14(3): 278-283.[况雪源，苏志，涂方旭，2007．广西气候区划[J]．广西科学，14(3):278-283.]  \nLONG XQ, DAI YH,2017.Research advance in chemical constituents and pharmacological efects of roots ofRosa laevigata[J].Asia-Pac Trad Med,13(18):68-70.[龙小琴，戴应和，2017．金樱子根化学成分与药理作用研究进展[J]．亚太传统医药，13(18)：68-70.]  \nLU CQ,MAO SH, TONG HR,et al.，2018. Progress in the synthesis of catechin and its derivatives[J].Food Sci，39(11):316-32.[陆昌琪，毛世红，童华荣，等,2018．儿茶素及其衍生物合成研究进展[J]．食品科学，39(11):316-326.]  \nLU LM, GAO J,LI DW,et al.，2020.Efect of different processing methods oncontent of indicator components in Codonopsis[J].JShenyang Pharm Univ,37(7):650-656.[吕立铭，高娟，李大炜，等，2020.不同炮制方法对党参指标性成分含量的影响[J]．沈阳药科大学报，37(7)：650-656.]  \nLI SP,2013.Studyon chemical constituents from the roots of Rosalaevigata Michx[D] Hefei: Anhui University.[李石平，2013．金樱子根的化学成分研究 [D]．合肥：安徽大学.]  \nLI XM,2010.High-yield cultivation of Rosa laevigata Michx[J].Spec Econ Anim Plant,13(6):35-36.[李小明，2010.金樱子高产栽培[J]．特种经济动植物，13（6）：35-36.]  \nMA YG,YUE XK, CAO G,et al.，2013. Determination of main active components in crude and processedCorydalis rhizoma Samples from different habitats[J].J Chin Med Mat,36(11): 1754-1758.[马月光,岳显可，曹岗，等，2013．不同产地延胡索饮片炮制前后有效成分含量的测定[J].中药材，36(11)：1754-1758.]  \nQIAN JP,LUO B, ZHONG L， et al.， 2020. Effects of diferent producing area, tree age,cutting processingon the contents of active compounds in Cinnamomi cortex[J].J Chin Med Mat, 43(12):2887-2892.[钱家萍，罗碧，钟磊，等，2020.不同产地、树龄、砍伐处理对肉桂药材活性成分含量的影响[J]．中药材，43（12）: 2887-2892.]  \nSHAN YC,TIAN SY,2011. Content determination of total flavonoids from diferent preparations of RadixRosae laevigatae[J].Pharm T,21(7):414-415.[单于超，田素英，2011.金樱根不同炮制品中总黄酮的含量测定[J]．今日药学，21(7):414-415.]  \nSCHARBERT S,HOFMANN T,2O05.Molecular definition of black tea taste by means of quantitative studies,taste reconstitution, and omission experiments[J]. J Agric Food Chem, 53(13): 5377-5384.  \nSU YY,GUO QL,TIAN SY,et al.,2012. Studies on quality standard of Radix Rosae laevigatae[J]. Chin JExp Trad Med Form，18(15):109-111.[苏亦用，郭巧玲，田素英，等，2012.金樱根质量标准研究[J]．中国实验方剂学杂志，18(15)：109-111.]  \nSAN YC,GUO QL, ZHUANG YF, et al.,2011.Determination of total tannin in root and stem of Rosa laevigata Michx.from different habitats[J].Chin JEthnomed Ethnopharm,20(23): 59-60.[单于超，郭巧玲，庄银凤，等，2011，不同产地金樱子根、阳枝总鞣质的含量测定[J]．中国民族民间医药，20(23）：59-60.]  \nWANG Y,LI L，ZHANG C,et al.，2010. Comparison of gallic acid and catechin contents in five processedproducts of Rheum palametum [J]. Chin JChin Mat Med,35(17): 2267-2269.[王云，李丽，张村，等，2010.大黄 5种饮片中没食子酸和儿茶素的含量比较研究[J].中国中药杂，35(17):2267-2269.]  \nDAI HN,2O16.Study on active ingrefient from the roots of Rosa laevigata Michx[D]. Nanning: GuangxiUniversity of Chniese Medicine.[代年华，2016.金樱子根的活性成分研究[D].南宁：广西中医药大学.]  \nDONG JE,LIANG ZS,2004. Analysis on the factor influencing secondary metabolite accumulation in plants[J].Acta Bot Boreal-Occident Sin，24(10):1979-1983.[董娟娥，梁宗锁，2004．植物次生代谢物积累量影响因素分析[J]．西北植物学报，24(10)：1979-1983.]  \nWU MQ,QIN F,ZHANG X,et al.，2019.Advances in bioavailabilityof catechins[J]. Sci Technol Food Indust,40(21):326-330.[吴梦琦，秦菲，张宣，等，2019．儿茶素类物质生物利用度研究进展[J]．食品工业技，40(21):326-330.]  \nWEI XY, DENG Q, SHU K, et al.,2020. Determination of 22 metal elements in theroots of Rosa laevigata and itsprocessed productsfromdiferenthabitatsofGuangxibyICP-MS[J/OL].Guihaia.https://kns.cnki.net/kcms/detail/45.1134.Q.20200803.1643.010.html.[韦熹苑，邓琦，舒柯，等，2020．ICP-MS法测定广西金樱根及炮制品中22种金属元素[J/OL]．广西植物.https://kns.cnki.net/kcms/detail/45.1134.Q.20200803.1643.010.html.]  \nXU YC, MA CH,WEI LX,et al.，2002. Determination of the content of 2α,3β,19α,23-tetrahydroxy ursolu-12-ene-28-carboxylic acid in Jinyingzi (Dried Hip of Rosa laevigatae） by HPLC[J].JBeijing Univ Trad Chin Med,25(4)：42-44.[徐艳春，马长华，魏璐雪，等，2002.高效液相法测定金樱子中三萜酸类成分的含量[J]．北京中医药大学学报，25(4)：42-44.]  \nYI YH,WU GQ,LIN SP, et al.，2010.Study on contraction of total flavonoid of root and stem of Rosalaevigate Wichx[J].Guangdong Agric Sci,37(7):121-123.[易运红，吴功庆，林淑萍，等，2010．金樱子根及茎总黄酮的提取研究[J]．广东农业科学，37（7）：121-123.]  \nZHONG M, HUANG RS,LIANG QC, 2013. Chinese Zhuang Medicine[M]. Nanning: Guangxi NationalityPress:529-530.[钟鸣，黄瑞松，梁启成，2013．中国壮药学[M]．南宁：广西民族出版社：529-530.]  \nZHENG XH, YANG J,YANG YH,2017. Research progress on pharmacological effcts of gallic acid[J]. Chin JHospPharm,37(1):94-98.[郑雪花，杨君，杨跃辉，2017．没食子酸药理作用的研究进展[J].中国医院药学杂志，37(1): 94-98.]  \nZHANG YN,JI WB,XUJF,et al.,2017.Rewiew ontaste characteristicof catechins and its sensory analysis method[J].JTea Sci,37(1):1-9.[张英娜，嵇伟彬，许勇泉，等，2017．儿茶素呈味特性及其感官分析方法研究进展[J].茶叶科学,37(1):1-9.]  \nZHANG P,HU Y,TANG H,et al.，2020.Overview of the structure,formation mechanism and biologicalactivityof catechin oxides[J].ModFood,29(8):72-75.[张盼，胡月，唐晗，等，2020．儿茶素氧化物的结构、形成机理及生物活性研究进展[J]．现代食品，29(8):72-75.]  \nZHU XX,LIU XQ,LIANG YH,et al.,2O20.Investigation on in vitro antioxidantactivity and chemical composition ofdiferentpolarpartsofextract of Rosa cymosa roots[J/OL]. Chin J Exp Trad Med Form,",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "https://doi.org/10.13422/j.cnki.syfjx.20202357.[朱萱萱，刘晓谦，梁曜华，等，2020.金樱根提取物不同极性部位的体外抗氧化活性考察及其化学成分分析[J/OL]．中国实验方剂学杂志，https://doi.0rg/10.13422/j.cnki.syfjx.20202357.]",
+        "page_idx": 13
+    }
+]

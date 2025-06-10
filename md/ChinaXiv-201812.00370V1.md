@@ -1,0 +1,172 @@
+饲粮不同粗纤维水平对生长肉兔生长性能、屠宰性能、肌肉品质及胃肠道和免疫器官发育的影响
+
+张南斌 孙瑛超 赵晓宇 刘公言 李福昌 朱岩丽\*（山东农业大学动物科技学院，泰安271018）
+
+摘要：本试验旨在研究饲粮不同粗纤维水平对生长肉兔生长性能、屠宰性能、肌肉品质及胃肠道和免疫器官发育的影响。试验选用150只体重相近、健康状况良好的35日龄断奶肉兔，随机分成3组，每组50个重复，每个重复1只兔。3组分别饲喂低（粗纤维水平 $1 4 . 3 2 \%$ LF 组）、中（粗纤维水平 $1 8 . 4 6 \%$ ，MF组）、高（粗纤维水平 $2 2 . 3 7 \%$ ，HF 组）3种不同粗纤维水平的试验饲粮。预试期7d，正试期 $2 3 { \mathrm { ~ d ~ } }$ 。结果表明：1）饲粮不同粗纤维水平对生长肉兔的平均日增重（ $\scriptstyle P = 0 . 0 0 1 \ 2$ ）、平均日采食量（ $\scriptstyle P = 0 . 0 2 1 9$ ）和料重比（ $\scriptstyle P = 0 . 0 0 0 \ 1$ ）有显著或极显著影响。HF 组生长肉兔的平均日增重极显著低于LF 组和MF 组（ $_ { \cdot  { P } < 0 . 0 1 }$ ），LF组生长肉兔的料重比极显著低于MF 组和HF 组（ $_ { \scriptstyle P < 0 . 0 1 }$ ）。2）饲粮不同粗纤维水平对生长肉兔的宰前活重（ $\scriptstyle P = 0 . 0 1 8 0 { \mathrm { . } }$ ）、半净膛重（ $\scriptstyle P = 0 . 0 3 6 6$ ）和全净膛重（ $\scriptstyle P = 0 . 0 3 4 \ 1$ ）有显著影响，但对半净膛屠宰率和全净膛屠宰率无显著影响（ $\cdot P { > } 0 . 0 5$ ）。3）饲粮不同粗纤维水平对生长肉兔肌肉的pH及亮度 ${ \left( { \mathrm { L } } ^ { * } \right. }$ ）、红度（a\*）和黄度 $( \boldsymbol { \mathsf { b } } ^ { * } )$ ）值均无显著影响（ $\cdot P { > } 0 . 0 5 )$ ）。4)饲粮不同粗纤维水平对生长肉兔的胃相对重量（ $\scriptstyle P = 0 . 0 1 1 5 ,$ ）、盲肠相对重量（ $\scriptstyle P = 0 . 0 2 2 0 ) ,$ ）胃内容物相对重量（ $P { = } 0 . 0 3 1 \ 1$ ）和盲肠内容物相对重量（ $P { = } 0 . 0 3 1 \ 1$ ）有显著影响，且HF组均显著高于LF组（ $( P { < } 0 . 0 5 )$ ）。5）饲粮不同粗纤维水平对生长肉兔的胸腺重（ $\scriptstyle P = 0 . 0 0 5 2 .$ ）脾脏重（ $P { = } 0 . 0 0 6 8$ ）和肝脏重（ $P { = } 0 . 0 3 3 ~ 8$ ）均有显著或极显著影响，且HF组显著或极显著低于LF组（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ）。LF组和MF 组生长肉兔的脾脏指数显著高于HF 组（ $_ { . P < 0 . 0 5 }$ ）。综合本试验测定指标，断奶（35日龄） ${ \sim } 6 5$ 日龄生长肉兔饲粮适宜的纤维水平为 $1 4 . 3 2 \% { \sim } 1 8 . 4 6 \%$ 。
+
+关键词：粗纤维；肉兔；生长性能；胃肠道；免疫器官中图分类号：S829.1
+
+家兔是单胃草食动物，其营养生理特点决定其胃肠道对纤维的依赖性。粗纤维(CF)对家兔具有重要意义，饲粮CF水平不仅决定饲料的消耗量和营养物质的供给量，而且会影响家兔的生长发育、生产性能、体内营养物质的吸收利用及健康水平。因此，家兔对纤维类饲料资源利用的研究一直受到人们的广泛关注。NRC(1977)[1'推荐生长肉兔饲粮CF 的适宜水平为 $10 \% \sim 2 0 \%$ 。De Blas 等2 研究的兔饲养标准中规定，断奶前仔兔饲粮CF 需要量为 $12 \%$ 断奶后为 $13 \%$ 。实践证明，粗饲料在兔饲粮中的比例一般为 $30 \% \sim 5 0 \%$ 。生长兔全价配合饲料中CF 水平一般为 $1 4 0 { \sim } 1 8 0 ~ \mathrm { g / k g }$ 干物质[3]。家兔饲粮中含有适量的CF 是保证合理饲粮结构及维护正常消化生理功能所必需的，饲粮中适宜的CF水平可减少家兔的发病率和死亡率 $[ 4 \AA - 5 \AA ]$ ，并且使肠道食糜保持较高的流通率，以避免由于消化物在盲肠内的积聚而降低采食量[6-7]。饲粮中CF过量或不足对家兔的生长性能均有不利影响。Bennegadi等[4]在试验中发现，家兔在饲喂相对于标准饲粮的低CF水平饲粮时，断奶(28 日龄) ${ \sim } 4 2$ 日龄的平均日增重(ADG)下降了 $12 \%$ ， $4 3 \sim 5 6$ 日龄的 ADG下降了 $2 5 \%$ ；在 $2 8 \sim 7 0$ 日龄整个试验期内平均日采食量（ADFI）减少了 $32 \%$ ，ADG 降低了 $10 \%$ 。Aboul-Ela等8的试验指出， $4 { \sim } 6$ 周龄家兔饲喂高CF水平的饲粮取得了较佳的增重效果，其死亡率在 ${ 7 } \mathrm { \sim } 1 2$ 周龄时也较低；而当饲喂低CF水平饲粮时，其消化率和营养价值得到改善，育肥期的生长性能得到增强，但家兔断奶初期的增重效果不佳，死亡率也较高。另外，饲粮CF水平对家兔的繁殖力也有很大影响。窦如海等[9]和田进吉[10]均认为较高的饲粮CF 水平有利于母兔产仔数的增加。
+
+断奶后1个月内是家兔胃肠道发育的重要时期，而纤维对胃肠道具有重要调理作用。本研究通过探讨低、中、高3种不同CF水平饲粮对断奶（35日龄） ${ \sim } 6 5$ 日龄肉兔生长性能、屠宰性能、肌肉品质及胃肠道和免疫器官发育的影响，探讨35\~65日龄生长肉兔适宜的饲粮CF 水平，旨在为我国肉兔饲养标准的制定提供合理的依据。
+
+# 1材料与方法
+
+# 1.1 试验动物及试验饲粮
+
+试验选取平均体重为 $( 1 3 4 3 { \pm } 4 0 )$ ） $\mathbf { g }$ 的健康状况良好的35日龄断奶新西兰肉兔150 只，公母各占1/2，按性别和体重随机分为3组，每组50个重复，每个重复1只兔。3组分别饲喂低（CF水平 $1 4 . 3 2 \%$ ，LF组）、中（CF水平 $1 8 . 4 6 \%$ ，MF组）、高（CF水平 $2 2 . 3 7 \%$ HF 组）3种不同CF水平的试验饲粮。预试期7d，正试期 $2 3 { \mathrm { ~ d ~ } }$ 。试验饲粮参考NRC（1977）[1]和 De Blas 等[]的生长兔饲养标准配制而成，其组成及营养水平见表1。每个组所有饲料原料粉碎后过 $1 . 5 \mathrm { m m }$ 筛，采用冷制粒工艺压制成直径为 $4 { \sim } 6 \mathrm { m m }$ 的颗粒饲料，经 $6 5 ~ ^ { \circ } \mathrm { C }$ 烘干后用塑料袋密封，在通风干燥避光处储存备用。
+
+表1试验饲粮组成及营养水平(风干基础)  
+
+<html><body><table><tr><td>Table 1</td><td>Composition and nutrient levels of experimental diets (air-dry basis) %</td></tr><tr><td>项目</td></tr><tr><td>组别Groups LF MF HF</td></tr><tr><td>Items</td></tr><tr><td>原料Ingredients</td></tr></table></body></html>
+
+<html><body><table><tr><td>麸皮 Wheat bran</td><td>15.0</td><td>10.0</td><td>5.0</td></tr><tr><td>豆粕 Soybean meal</td><td>15.0</td><td>15.0</td><td>15.0</td></tr><tr><td>玉米胚芽粕 Corn germ meal</td><td>5.0</td><td>5.0</td><td>5.0</td></tr><tr><td>苜蓿草粉 Alfalfa meal</td><td>16.5</td><td>16.5</td><td>16.5</td></tr><tr><td>大豆秸 Soybean straw</td><td></td><td>6.0</td><td>12.0</td></tr><tr><td>花生秧 Peanut vine</td><td>21.0</td><td>30.0</td><td>39.0</td></tr><tr><td>麦饭石 Bentonite</td><td>1.0</td><td>1.0</td><td>1.0</td></tr><tr><td>食盐 NaCl</td><td>0.5</td><td>0.5</td><td>0.5</td></tr><tr><td>预混料 Premixl)</td><td>1.0</td><td>1.0</td><td>1.0</td></tr><tr><td>合计Total</td><td>100.0</td><td>100.0</td><td>100.0</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td></tr><tr><td>总能 GE/(MJ/kg)</td><td>15.72</td><td>15.71</td><td>15.37</td></tr><tr><td>干物质 DM</td><td>85.49</td><td>86.29</td><td>86.72</td></tr><tr><td>粗蛋白质 CP</td><td>16.86</td><td>16.83</td><td>16.47</td></tr><tr><td>粗脂肪 EE</td><td>2.44</td><td>2.56</td><td>2.73</td></tr><tr><td>粗纤维CF</td><td>14.32</td><td>18.46</td><td>22.37</td></tr><tr><td>中性洗涤纤维 NDF</td><td>31.72</td><td>37.36</td><td>41.84</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>20.70</td><td>23.08</td><td>25.39</td></tr><tr><td>木质素 ADL</td><td>6.10</td><td>6.90</td><td>7.88</td></tr><tr><td>粗灰分 Ash</td><td>8.20</td><td>9.35</td><td>10.28</td></tr><tr><td>钙Ca</td><td>0.84</td><td>0.95</td><td>0.94</td></tr><tr><td>磷P</td><td>0.71</td><td>0.80</td><td>0.75</td></tr></table></body></html>
+
+1)预混料为每千克饲粮提供 The premix provided the following per $\mathrm { k g }$ of diets: VA 8 000 IU, VD 31 000 IU，VE $5 0 \mathrm { m g }$ ，Lys $1 . 5 \ : \mathrm { g }$ ，Met $\mathrm { 1 . 5 ~ g }$ ， $\mathrm { C u } 5 0 \mathrm { m g }$ ，Fe $1 0 0 ~ \mathrm { { m g } }$ ， $\mathrm { M n } 3 0 \mathrm { m g }$ ， $\mathbf { M g } \ 1 5 0$ mg， $\mathrm { ~ I 0 . 1 ~ m g }$ ，Se $0 . 1 { \mathrm { ~ m g } }$ 。
+
+2）营养水平为实测值。Nutrient levels were measured values.
+
+# 1.2 饲养管理
+
+试验前对兔舍进行彻底打扫、冲洗和消毒。试验兔采用单笼饲养，经7d预试期后进入为期 23d的正试期。试验期间每天饲喂2次，即06:00 和18:00各饲喂1次，自由采食和饮水。试验期间按照兔场常规免疫程序，自然采光和通风，兔舍内温度保持在 $1 5 { \sim } 2 5 ^ { \circ } \mathrm { C }$ 。
+
+# 1.3 测定指标和方法
+
+# 1.3.1 生长性能指标的测定
+
+称量并记录试验开始和试验结束的体重，并统计试验期的喂料量，计算ADFI、ADG 和料重比（F/G）。
+
+# 1.3.2 屠宰性能指标的测定
+
+试验结束当天从每组中挑选8只接近各组平均体重的试验兔，称重并记录宰前活体重，同时用软尺测量颈部至尾根长度即为体长。颈静脉放血处死后，立即剥皮，在腕关节处去除前肢及在跗关节处去后肢，并移走肠道及内容物（保留头、胸腔器官、肝脏和肾脏及肾脏周围脂肪）称重，即为半净膛重。半净膛重去除头及所有内脏器官（仅保留肾脏及肾脏周围脂肪）即为全净膛重，并分别计算半净膛屠宰率和全净膛屠宰率。
+
+# 1.3.3 肌肉品质的测定
+
+试验兔屠宰后，用手术刀分别取下 $3 \mathrm { c m } { \times } 4 \mathrm { c m }$ 大小的左侧背最长肌、股二头肌，用于肌肉 $4 5 \mathrm { \ m i n \ p H }$ 及肉色的测定。将MettlerMP120 型酸碱度计探头插入背腰最长肌第五肋骨处肌肉 $3 \mathrm { m m }$ 读数，即为肌肉 $\mathfrak { p H }$ 。肉色采用日本产CR-10 型色差仪，利用CIE-Lab 输出模式，从背腰最长肌处切开3个切面，分别记录亮度（ $\boldsymbol { \cdot } \boldsymbol { \mathrm { L } } ^ { * }$ ）、红度（a\*）、黄度（b\*）值。
+
+# 1.3.4 胃肠道发育的测定
+
+试验兔颈静脉放血处死后，立即打开腹腔，结扎相应部位后，将消化道取出，将小肠肠袢与肠道小心剥离，用软尺测定其自然长度即为小肠长度，小肠长度与体长的比值即为小肠相对长度。将胃、小肠和盲肠清洗掉内容物，并在滤纸上去掉多余的水分，分别称取重量，即为消化道重量，各消化道的重量占宰前活体重的比例即为相对重量。结扎后的胃、盲肠的重量减去其相应净重即为内容物的重量，并计算其相对重量。
+
+# 1.3.5 免疫器官发育的测定
+
+试验兔屠宰后，仔细剥离胸腺、脾脏和肝脏，分别进行称重，其占宰前活体重的比率即为相应的免疫器官指数。
+
+# 1.4数据处理
+
+用 SAS9.1.3统计软件中的GLM程序进行数据的方差分析，用Duncan 氏法进行数据的多重比较。结果用平均值±标准误表示， $\mathrm { \Delta } P { < } 0 . 0 5$ 表示差异显著， $P { < } 0 . 0 1$ 表示差异极显著。
+
+# 2结果
+
+# 2.1饲粮不同CF水平对生长肉兔生长性能的影响
+
+由表2可知，在初始体重无显著差异（ $\scriptstyle P = 0 . 8 8 7 0 ^ { \cdot }$ ）的情况下，饲粮不同CF水平对生长肉兔的ADG有极显著影响（ $P { = } 0 . 0 0 1 ~ 2 \$ ），随着饲粮CF水平的升高，ADG逐渐降低，HF组的ADG极显著低于LF 组和MF 组（ $P { < } 0 . 0 1$ ）。饲粮不同CF水平对生长肉兔的ADFI有显著影响（ $P { = } 0 . 0 2 1 \ 9$ ），HF组和MF 组的ADFI显著高于LF组（ $P { < } 0 . 0 5$ ），但HF组与MF 组之间差异不显著（ $P { > } 0 . 0 5$ ）。饲粮不同CF水平对生长肉兔的F/G有极显著影响
+
+（ $\scriptstyle P = 0 . 0 0 0 \ 1 .$ ），LF组的F/G极显著低于MF组和HF组（ ${ \cdot } P { < } 0 . 0 1 \$ ），MF组的F/G极显著低于HF组（ $_ { \cdot  { P } < 0 . 0 1 }$ ）
+
+Table 2Effects of dietary different CF level on growth performance of growing meat rabbits   
+
+<html><body><table><tr><td colspan="6">(n=50)</td></tr><tr><td>项目</td><td colspan="3">组别Groups</td><td>均方根误差</td><td>P值</td></tr><tr><td>Items</td><td>LF</td><td>MF</td><td>HF</td><td>R-MSE</td><td>P-value</td></tr><tr><td>初始体重 IBW/g</td><td>1 333.75±34.55</td><td>1 356.25±28.20</td><td>1340.00±33.02</td><td>202.630</td><td>0.887 0</td></tr><tr><td>平均日采食量 ADFI/(g/d)</td><td>142.62±3.39b</td><td>158.66±4.64a</td><td>156.91±4.88a</td><td>19.456</td><td>0.0219</td></tr><tr><td>平均日增重 ADG/(g/d)</td><td>32.20±2.20Aa</td><td>28.40±2.33Aa</td><td>18.53±2.90Bb</td><td>9.672</td><td>0.001 2</td></tr><tr><td>料重比F/G</td><td>4.43±0.11Cc</td><td>5.59±0.16Bb</td><td>8.47±0.26Aa</td><td>0.845</td><td>0.000 1</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $_ { . } { \cal P } { < } 0 . 0 5$ ），不同大写字母表示差异极显著（ $_ { \scriptstyle P < 0 . 0 1 }$ ），相同或无字母表示差异不显著（ ${ \it P } { > } 0 . 0 5$ ）。下表同。
+
+In the same row, values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，and with different capital letter superscripts mean significant diference $( P { < } 0 . 0 1 )$ ，while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ).The same asbelow.
+
+# 2.2饲粮不同CF水平对生长肉兔屠宰性能的影响
+
+由表3可知，饲粮不同CF水平对生长肉兔的宰前活重（ $\scriptstyle P = 0 . 0 1 8 0 { \mathrm { , } }$ ）、半净膛重（ $\scriptstyle \cdot - 0 . 0 3 6$ 6）和全净膛重（ $P { = } 0 . 0 3 4 ~ 1$ ）有显著影响，且均随着饲粮CF水平升高而降低，HF组显著低于LF组（ $. P { < } 0 . 0 5$ ）。饲粮不同CF水平对生长肉兔的半净膛屠宰率和全净膛屠宰率无显著影响（ $P { > } 0 . 0 5 \$ ）。
+
+表2饲粮不同CF水平对生长肉兔生长性能的影响  
+表3饲粮不同CF水平对生长肉兔屠宰性能的影响  
+Table3Effects of dietary different CF level on slaughter performance of growing meat rabbits   
+
+<html><body><table><tr><td colspan="6">(n=8)</td></tr><tr><td>项目</td><td colspan="3">组别 Groups</td><td>均方根误差</td><td>P值</td></tr><tr><td>Items</td><td>LF</td><td>MF</td><td>HF</td><td>R-MSE</td><td>P-value</td></tr><tr><td>宰前活体重 Live body weight/g</td><td>1 957.33±59.29a</td><td>1 894.67±42.60a</td><td>1 710.67±76.65b</td><td>236.696</td><td>0.018 0</td></tr><tr><td>半净膛重 Half eviscerated weight/g</td><td>1 115.60±39.84a</td><td>1 068.07±28.55ab</td><td>962.87±52.08b</td><td>159.916</td><td>0.036 6</td></tr><tr><td>全净膛重 All eviscerated weight/g</td><td>911.00±34.79a</td><td>867.33±26.26ab</td><td>772.67±46.82b</td><td>0.143</td><td>0.034 1</td></tr><tr><td>半净膛屠宰率 Half eviscerated</td><td>56.91±0.71</td><td>56.34±0.58</td><td>55.88±1.03</td><td>3.100</td><td>0.659 4</td></tr><tr><td>dressing percentage/%</td><td>46.44±0.74</td><td>45.70±0.57</td><td>44.61±1.16</td><td></td><td></td></tr><tr><td>全净膛屠宰率All eviscerated dressing percentage/%</td><td></td><td></td><td></td><td>3.316</td><td>0.323 3</td></tr></table></body></html>
+
+2.3饲粮不同CF水平对生长肉兔肌肉品质的影响
+
+由表4可知，饲粮不同CF水平对生长肉兔肌肉的pH及L\*、a\*和b\*值均无显著影响（ $P >$ 0.05）。
+
+Table 4Effects of dietary different CF level on meat quality of growing meat rabbits $( n { = } 8 )$ （204号   
+
+<html><body><table><tr><td rowspan="2">项目</td><td colspan="3">组别Groups</td><td rowspan="2">均方根误差 R-MSE</td><td rowspan="2">P值 P-value</td></tr><tr><td>LF</td><td>MF</td><td>HF</td></tr><tr><td>Items pH</td><td>6.88±0.04</td><td>6.85±0.32</td><td>6.89±0.25</td><td>0.134</td><td>0.620 0</td></tr><tr><td>亮度L*</td><td>42.21±1.09</td><td>41.71±1.49</td><td>43.98±1.10</td><td>4.796</td><td>0.402 7</td></tr><tr><td>红度a*</td><td>23.01±1.31</td><td>26.21±1.30</td><td>26.19±1.24</td><td>4.964</td><td>0.146 3</td></tr><tr><td>黄度b*</td><td>1.15±0.49</td><td>0.90±0.36</td><td>0.90±0.56</td><td>1.840</td><td>0.909 7</td></tr></table></body></html>
+
+2.4饲粮不同CF水平对生长肉兔胃肠道发育的影响
+
+由表5可知，饲粮不同CF水平对生长肉兔的胃相对重量（ $P { = } 0 . 0 1 1 ~ 5$ ）、盲肠相对重量1 $\scriptstyle P = 0 . 0 2 2 0$ ）、胃内容物相对重量（ $P { = } 0 . 0 3 1 \ 1$ ）和盲肠内容物相对重量（ $P { = } 0 . 0 3 1 \ 1$ ）有显著影响，且随着饲粮CF水平的提高而增大，HF组均显著高于LF组（ $. P { < } 0 . 0 5$ ）。饲粮不同CF水平对生长肉兔的小肠相对长度和小肠相对重量无显著影响（ $\cdot P { > } 0 . 0 5 \$ ）。
+
+# 表5饲粮不同CF水平对生长肉兔胃肠道发育的影响
+
+表4饲粮不同CF水平对生长肉兔肌肉品质的影响  
+Table 5Effects of dietary different CF level on gastrointestinal development of growing   
+
+<html><body><table><tr><td colspan="2">meat rabbits (n=8)</td><td colspan="3">%</td><td></td></tr><tr><td>项目</td><td colspan="3">组别Groups</td><td>均方根误差</td><td>P值</td></tr><tr><td>Items</td><td>LF</td><td>MF</td><td>HF</td><td>R-MSE</td><td>P-value</td></tr><tr><td>胃相对重量 Stomach relative weight</td><td>5.30±0.25b</td><td>6.17±0.37ab</td><td>6.85±0.40a</td><td>1.347</td><td>0.0115</td></tr><tr><td>胃内容物相对重量 Stomach content relative</td><td>3.64±0.24b</td><td>4.38±0.33ab</td><td>4.87±0.37a</td><td>1.231</td><td>0.0311</td></tr><tr><td>weight 小肠相对长度 Small intestine relative length</td><td>3.61±0.19</td><td>3.81±0.18</td><td>3.89±0.28</td><td>0.659</td><td>0.853 0</td></tr><tr><td>小肠相对重量 Small intestine relative weight</td><td>3.61±0.19</td><td>3.81±0.18</td><td>3.89±0.28</td><td>0.659</td><td>0.853 0</td></tr><tr><td>盲肠相对重量 Caecum relative weight</td><td>6.93±0.39b</td><td>7.76±0.33ab</td><td>8.84±0.70a</td><td>24.478</td><td>0.022 0</td></tr><tr><td>盲肠内容物相对重量 Caecum content relative</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>weight</td><td>3.64±0.24b</td><td>4.38±0.33ab</td><td>4.87±0.37a</td><td>1.231</td><td>0.0311</td></tr></table></body></html>
+
+2.5饲粮不同CF水平对生长肉兔免疫器官发育的影响
+
+由表6可知，饲粮不同CF水平对生长肉兔的胸腺重（ $P { = } 0 . 0 0 5 \ : 2$ ）、脾脏重（ $\scriptstyle P = 0 . 0 0 6 8 .$ ）和肝脏重（ $P { = } 0 . 0 3 3 ~ 8$ ）均有显著或极显著影响，且HF组显著或极显著低于LF组（ $\scriptstyle - 0 . 0 5$ 或$P { < } 0 . 0 1$ ）。饲粮不同CF水平对生长肉兔的脾脏指数有显著影响（ $\scriptstyle P = 0 . 0 1 2 8 .$ ），但对胸腺指
+
+数和肝脏指数均无显著影响（ $\cdot P { > } 0 . 0 5$ ）；HF组生长肉兔的脾脏指数显著低于LF组和MF组（ $\cdot - 0 . 0 5$ ），且LF组和MF组之间无显著差异（ $\mathrm { . } P { > } 0 . 0 5 \mathrm { . }$ ）。
+
+# 表6饲粮不同CF水平对生长肉兔免疫器官发育的影响
+
+Table 6Effects of dietary different CF level on immune organs development of growing meat rabbits ( $( n { = } 8 )$   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="3">组别Groups</td><td rowspan="2">均方根误差</td><td rowspan="2">P值 P-value</td></tr><tr><td>LF</td><td>MF</td><td>HF</td></tr><tr><td>胸腺重 Thymus weight/g</td><td>1.44±0.10Aa</td><td>1.23±0.10ABab</td><td>1.00±0.07Bb</td><td>R-MSE 0.351</td><td>0.005 2</td></tr><tr><td>脾脏重 Spleen weight/g</td><td>3.83±0.36Aa</td><td>4.03±0.24Aa</td><td>2.67±0.32Bb</td><td>1.204</td><td>0.006 8</td></tr><tr><td>肝脏重 Liver weight/g</td><td>64.84±2.38a</td><td>64.01±2.72a</td><td>56.51±2.67b</td><td>10.039</td><td>0.033 8</td></tr><tr><td>胸腺指数 Thymus index/(g/kg)</td><td>0.75±0.06</td><td>0.66±0.06</td><td>0.59±0.04</td><td>0.205</td><td>0.130 0</td></tr><tr><td>脾脏指数 Spleen index/(g/kg)</td><td>1.95±0.17a</td><td>2.13±0.12a</td><td>1.49±0.15b</td><td>0.577</td><td>0.012 8</td></tr><tr><td>肝脏指数Liver index/(g/kg)</td><td>33.10±0.57</td><td>34.01±1.66</td><td>33.25±1.11</td><td>4.637</td><td>0.848 8</td></tr></table></body></html>
+
+# 3讨论
+
+3.1饲粮不同CF水平对生长肉兔生长性能的影响
+
+家兔是一种小型单胃草食性动物，De Blas 等[1的研究表明，纤维是家兔饲粮的主要成分之一。根据分析方法不同，生长兔全价配合饲料中CF水平在 $1 4 \% { \sim } 1 8 \%$ ，饲粮中纤维素的比例过高或者过低对家兔生长都会产生不利影响[12]。本研究结果表明，生长肉兔饲喂高CF 水平饲粮并不能带来高生长性能，当饲粮酸性洗涤纤维（ADF）水平在 $2 0 . 7 \% { \sim } 2 5 . 3 9 \%$ 中性洗涤纤维（NDF）水平在 $3 1 . 7 2 \% { \sim } 3 7 . 7 6 \%$ 时，生长肉兔的ADG在LF组达到最高，ADG随着 ADF、NDF水平的下降而降低；当ADF水平为 $20 . 7 0 \%$ ，NDF水平为31.72时，生长肉兔的F/G 最低；生长肉兔的 ADFI随着 ADF、NDF 水平的增加而增加，本结果与Chiou等[13]的报道一致。晁洪雨等[14]研究报道认为，饲粮中添加 $1 9 \%$ 的 ADF时家兔的ADG 达到最高，F/G最低，生长性能达到最好。杨莎[15]认为，饲粮CF水平为 $13 \%$ 时，生长肉兔具有较高的ADG 和饲料报酬。上述报道均与本试验的研究结果趋于一致。但与Gidenne 等[5]报道，随着饲粮 ADF水平的下降家兔的ADFI也随之下降，在整个育肥期（ $2 8 \sim 7 7$ 日龄）并不影响家兔的ADG，与这一结果不相符。
+
+# 3.2饲粮不同CF水平对生长肉兔屠宰性能和肌肉品质的影响
+
+兔肉具有高蛋白质、高赖氨酸、高烟酸、高消化率、低脂肪、低胆固醇、低能量密度等优点，被专家称为美容肉、益智肉，越来越受消费者的青睐[16]。兔肉质量很大程度上取决于家兔营养，然而不同营养水平对兔肉品质不同指标的影响却不相同。Parigr等[17]设计了$1 3 . 8 \%$ 、 $1 6 . 3 \%$ 和 $1 9 . 8 \% 3$ 个不同CF水平的试验饲粮，结果表明CF水平对家兔屠宰率、胴体脂肪含量没有显著影响。Carrilho 等[18]研究表明，给 $5 { \sim } 8$ 周龄家兔饲喂CF 水平为 $14 . 3 \%$ ，$1 8 . 0 \%$ 和 $20 . 5 \%$ （风干基础）的3种饲粮，随后饲喂肥育饲粮到屠宰，结果表明不同饲粮间兔肉pH、肉色、系水力和韧性等物理性状和感官性状没有显著差异。本研究结果表明，饲粮CF水平对肉品质无显著影响，与上述研究得出相似的结论。饲粮CF水平和可消化纤维与 ADF 比值均未对家兔胴体和肉品质产生显著影响，甚至在育肥最后1周提高饲粮CF 水平也未发现对家兔屠宰性能和肌肉 $\mathfrak { p H }$ 有显著的不利影响[19]。
+
+# 3.3饲粮不同CF水平对生长肉兔胃肠道发育的影响
+
+家兔断奶 ${ \sim } 2$ 月龄时，由于植物性饲料对消化道的强烈刺激作用，因此高CF水平饲粮有利于消化道发育。Marguenda等[19]的研究发现，纤维素在控制胃肠道发育方面起到重要作用。Tao等[20]研究发现，提高 $2 { \sim } 3$ 月龄家兔饲粮的NDF 水平，家兔的胃、盲肠和结肠净重以及结肠的长度都相应增加。Chao 等[21研究中证实，胃相对重量、小肠相对重量、盲肠重、盲肠内容物重和盲肠相对重量都随着饲粮ADF水平升高而增加。本研究结果表明，随着饲粮CF水平升高，生长肉兔的胃相对重量和盲肠相对重量逐渐提高，HF 组均显著高于LF 组。这与上述研究得到的结论相同。家兔胃对营养物质的消化起到重要作用，而且盲肠极为发达（容量占整个消化道的 $49 \%$ ），在CF 消化过程中起到重要作用。De Blas 等[22]和Garcia 等[23]的研究发现，纤维素能够影响采食量和食糜在盲肠的停留时间，随着纤维素水平的增加，胃的内容物的量也增加。Jehl等[24]指出，盲肠容积的增大与 ADF 的摄入量有很大的关系。Garcia等[7通过试验观察到随着饲粮 NDF水平的增加，盲肠内容物与体重的比值提高。本研究发现，胃相对重量和盲肠相对重量均随着饲粮CF水平的提高而增大，这可能与ADFI的提高有很大关系。
+
+# 3.4饲粮不同CF水平对生长肉兔免疫器官发育的影响
+
+免疫器官是动物机体生命免疫功能发挥的重要物质基础，是动物执行免疫功能的组织机构，在机体免疫过程中发挥着重要的作用。胸腺是动物机体的中枢免疫器官，是T淋巴细胞发育、增殖的重要场所，在淋巴细胞的形成和分化过程中起着重要作用；脾脏是动物机体的外周免疫器官，是T、B淋巴细胞定居场所，也是对抗原刺激进行免疫应答的场所；肝脏内有吞噬力很强的肝巨噬细胞，可识别免疫球蛋白和补体的表面受体，并且可吞噬或胞饮血液中的细菌、病毒和衰老死亡的细胞，是净化体液的重要免疫器官[25]。免疫指数一定程度上能够反映动物的免疫功能，一般认为健康动物的免疫指数越大动物的免疫力越强，免疫器官重量降低为免疫抑制所致，而免疫器官重量增加则为免疫增强的表现[26]。饲粮添加CF 可以提高淋巴组织中淋巴滤泡的生长[27]，也有研究表明适宜的饲粮CF水平可提高肠道中分泌型免疫球蛋白A（sIgA）抗体含量[28]，这些报道均证明饲粮CF可以提高家兔免疫水平，包括提高胸腺指数和脾脏指数[29]。而本试验结果显示，免疫器官（胸腺、脾脏和肝脏）重量受饲粮CF 水平的影响显著，以 $14 . 3 2 \%$ 的CF水平时胸腺指数和肝脏指数最高。其原因可能是由于在此饲粮CF水平生长发育最好而致使机体免疫状态达到最佳。
+
+# 4结论
+
+综合家兔生长性能、屠宰性能、肌肉品质及胃肠道和免疫器官发育指标，断奶（35 日
+
+龄） ${ \sim } 6 5$ 日龄生长肉兔饲粮适宜的CF水平为 $1 4 . 3 2 \% { \sim } 1 8 . 4 6 \%$ 。   
+参考文献：   
+[1]NRC.Nutrient Requirements of rabbits[S].2nd ed.Washington,D.C.:National Academy Press,1977.   
+[2] DEBLAS C,WISEMAN J.The nutrition of the rabbit[M].New York:CABI Publishing,1998:297-308.   
+[3]李福昌.家兔营养[M].北京:中国农业出版社,2009:37-38.   
+[4]BENNEGADI N,GIDENNE T,LICOIS L.Impact of fiber deficiency and sanitary status on non-specific enterropathy of the growing rabbit[J].Animal Research,2001,50(5):401-413.   
+[5]GIDENNE T,ARVEUX P,MSDEC O.The eect of the quality of dietary lignocellulose on digestion,Zootechnicalperformanceandhealthofthegrowingrabbit[J].Animal Science,2001,73(1):97-104.   
+[6]BELLIER R,GIDENNE T.Consequence of reduced fiber intake on digestion,rate of passage andcaecalmicrobialactivityintheyoungrabbit[J].BritishJournalof Nutrition,1996,75(3):353-363.   
+[7]GARCIA J,CARABANO R,DE BLAS J C.Effect of fiber source on cell wall digestibility and rate of passage in rabbits[J].Journal of Animal Science,1999,77(4):898-905.   
+[8]ABOUL-ELA S,ABD EL-GALIL K,ALI F A.Effect of dietary fiber and energy levels on performance of post-weaning rabbits[J].World Rabbit Science,20o0,8(S1):61-75.   
+[9]窦如海,葛大伟,杨培林,等.繁殖母兔适宜营养水平的研究[J].上海试验动物科 学,1995,15(2):91-93.   
+[10]田进吉.不同营养水平日粮对母兔繁殖性能的影响[J].黑龙江畜牧兽医,2000(8):26. [11]DE BLAS C,GARCIA J,CARABANO R.Role of fibre in rabbit diets.A review[J].Annales de Zootechnie,1999,48(1):3-13.   
+[12]杨桂芹,孙佳易,郭东新,等.饲粮纤维源及粗纤维水平对肉兔营养物质消化率、肠道消化 酶活性及盲肠菌群多样性的影响[J].动物营养学报,2016,28(9):2861-2871.   
+[13]CHIOU P W S,YU B,LIN C.Effect of different components of dietary fiber on the intestinal morphologyofdomesticrabbits[J].ComparativeBiochemistryPhysiologyPart A:Physiology,1994,108(4):629-638.   
+[14]晁洪雨,李福昌.日粮 ADF 水平对断奶肉兔肠道健康、营养物质消化及生产性能的影响 [J].中国饲料,2012(5):11-13,16.   
+[15]杨莎.日粮粗纤维水平对家兔肠道结构及增重的影响[D].硕士学位论文.雅安:四川农业 大学,2013.   
+[16]王建桥,范益飞.慈溪市獭兔生产现状及发展思路调查[J].浙江畜牧兽,2003(4):15-16. [17]PARIGR B R,XICCATO G,ZOTTE A D,et al.Effects de diferents niveaux de fibre alimentaire sur l'utilisation digestive e la qualite bouchere chez le lapin[Cl/Proceedings of 6emes Journees de la Recherche Cunicole.Larochelle:INRA-ITAVI,1994:347-354.   
+[18]CARRILHO M C,CAMPO M M,OLLETA J L,et al.Effect of diet,slaughter weight and sex on instrumental and sensory meat characteristics in rabbits[J].Meat Science,2009,82(1):37-43. [19]MARGUENDA 1,NICODEMUS N,VADILLO S,et al.Effect of dietary type and level of fibreonrabbitcarcassyieldanditsmicrobiologicalcharacteristics[J].Livestock Science,145(1/2/3):7-12.   
+[20] TAO Z Y,LI F C.Effects of dietary neutral detergent fibre on production performance,nutrient utilization,caecum fermentation and fibrolytic activity in 2-3-month-old New Zealand rabbits[J].Journal ofAnimal Physiology and Animal Nutrition,2006,90(11/12):467-473.   
+[21]CHAO HY,LI F C.Efect of level of fiber on performance and digestion traits in growing rabbits[J].Animal Feed Science and Technology,2008,144(3/4):279-291.   
+[22] DE BLAS J C,WISEMAN J,FRAGA M J,et al.Prediction of digestible energy and digestibility of gross energy of feeds for rabbits.2.Mixed diets[J].Animal Feed Science and Technol0gy,1992,39(1/2):39-59.   
+[23]GARCIA J,NICODEMUS N,CARABANO R,et al.Effect of inclusion of deffted grape seed meal in the diet on digestion and performance of growing rabbits[J].Journal of Animal Science,2002,80(1):162-170.   
+[24]JEHL N,GIDENNE T.Replacement of starch by digestible fiber in feed for the growing rabbit.2.Consequences for microbial activity in the caecum and on incidence of digestive disorders[J].Animal Feed Science and Technology,1996,61(1/2/3/4):193-204.   
+[25]王纷,左明雪.人体及动物生理学[M].2版.北京:高等教育出版社,2001.   
+[26]李素芬,冯敏山,闫国红.生化黄腐酸对肉用仔鸡生产性能及免疫器官的影响[J].中国饲 料,2000(14):14-15.   
+[27]CARABANO R,BADIOLA I,CHAMORRO S,et al.New trends in rabbit feeding:influence ofnutrition on intestinalhealth[J].SpanishJournalofAgriculturalResearch (Espana),2008,6(S1):15-25.   
+[28] ZHU Y L,WANG Y,WANG X P,et al.Effects of dietary fiber and starch levels on the non-specific immune response of growing rabbits[J].Livestock Science,2013,155(2/3):285-293. [29] TAOZ Y,LIFC.EffectsofdietaryNDFlevelsonproduction performance,digestibility,metabolism and caecum fermentation of weaning to two month old meat rabbits[J].Acta Zoonutrimenta Sinica,2005,17(4):56-61.
+
+Effects of Dietary Different Crude Fiber Level on Growth Performance, Slaughter Performance, Meat Quality and Gastrointestinal and Immune Organs Development of Growing Meat Rabbits ZHANG Nanbin SUN Yingchao ZHAO Xiaoyu LIU Gongyan LI Fuchang ZHU Yanli\* (College of Animal Science and Technology, Shandong Agricultural University, Tai'an 271018, China)
+
+Abstract:The experiment was conducted to investigate the effects of dietary diferent crude fiber level on growth performance， slaughter performance， meat quality and gastrointestinal and immune organs development of growing meat rabbits. One hundred and fifty healthy 35-day-old weaned meat rabbits with similar body weight were randomly divided into 3 groups with 50 replicates in each group and 1 rabbit in each replicate.Rabbits in 3 groups were fed low (crude fiber level was $1 4 . 3 2 \%$ , LF group),middle (crude fiber level was $1 8 . 4 6 \%$ ， MF group）and high fiber (crude fiber level was $2 2 . 3 7 \%$ ，HF group)3 kinds of different crude fiber levels experimental diets,respectively.The adaptation period lasted for 7 days and the formal period lasted for 23 days. The results showed as follows: 1） dietary diferent crude fiber level had significant effects on average daily gain ( $\scriptstyle { ( P = 0 . 0 0 1 \ 2 }$ )，average daily feed intake（ $scriptstyle { P = 0 . 0 2 1 \ 9 }$ ） and feed to gain ratio $\scriptstyle P = 0 . 0 0 0 \ 1 _ { . }$ ）of growing meat rabbits. The average daily gain of growing meat rabbits in HF group was significantly lower than that in LF group and MF group( $P { < } 0 . 0 1$ ）,the feed to gain ratio of growing meat rabbits in LF group was significantly lower than that in MF group and HF group （ $P { < } 0 . 0 1$ ）.2）Dietary different crude fiber level had significant effects on live body weight （ $\scriptstyle P = 0 . 0 1 8 0 .$ ）,half eviscerated weight( $P { = } 0 . 0 3 6 \ 6$ ）and all eviscerated weight( $\scriptstyle { ( P = 0 . 0 3 4 1 }$ of growing meat rabbits, but had no significant effects on half eviscerated dressing percentage and all eviscerated dressing percentage ( $\mathrm { \Delta } P { > } 0 . 0 5 \mathrm { \Delta }$ ). 3)Dietary different crude fiber level had no significant effects on $\mathfrak { p H }$ and lightness $( \mathrm { L } ^ { * } )$ , redness $( \mathrm { a } ^ { * } )$ and yellowness $( \boldsymbol { \mathsf { b } } ^ { * } )$ values in meat of growing meat rabbits $( P { > } 0 . 0 5 )$ . 4) Dietary different crude fiber level had significant effects on stomach relative weight( $P { = } 0 . 0 1 1 ~ 5 ^ { \cdot }$ ）,caecum relative weight（ $\scriptstyle P = 0 . 0 2 2 \ 0 .$ ）,stomach content relative weight （ $P { = } 0 . 0 3 1 \ 1$ ） and caecum content relative weight ( $P { = } 0 . 0 3 1 \ 1$ ） of growing meat rabbits, and HF group was significantly higher than those of LF group $( P { < } 0 . 0 5 )$ . 5)Dietary different crude fiber level had significant effects on thymus weight( $P { = } 0 . 0 0 5 \ : 2 .$ ）,spleen weight（ $P { = } 0 . 0 0 6 \ 8$ ）and liver weight（ $P { = } 0 . 0 3 3 \ 8$ ）of growing meat rabbits,and HF group was significantly lower than those ofLF group $_ { \it P < 0 . 0 5 }$ or $P { < } 0 . 0 1$ ). The spleen index of growing meat rabbits in LF group and
+
+MF group was significantly higher than that of HF group $( P { < } 0 . 0 5 )$ . Considering all indexes of this experiment, the appropriate dietary crude fiber level is $1 4 . 3 2 \%$ to $1 8 . 4 6 \%$ for weaned (35-day-old) to 65-day-old growing meat rabbits.
+
+Key words: crude fiber; meat rabbit; growth performance; gastrointestinal tract; immune organs

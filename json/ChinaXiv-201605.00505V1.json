@@ -1,0 +1,649 @@
+[
+    {
+        "type": "text",
+        "text": "RESEARCHREVIEW ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bioenergy production and sustainable development: science base for policymaking remains limited ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CARMENZA ROBLEDO-ABAD1'²,HANS-JORG ALTHAUSЗ,4,GORAN BERNDES5, SIMON BOLWIG,ESTEVE CORBERA?,FELIX CREUTZIGδ, JOHN GARCIA-ULLOA', ANNA GEDDES1°,JAY S. GREGG,HELMUT HABERL11,SUSANNE HANGER10,12, RICHARDJ. HARPER1³,CAROL HUNSBERGER14,RASMUSK.LARSEN $^ { 1 5 }$ ,CHRISTIAN LAUK11, STEFAN LEITNER11, JOHAN LILLIESTAM1°,HERMANN LOTZE-CAMPEN16,17, BART MUYS18,MARIA NORDBORG5,MARIA OLUND $^ 1 \\mathsection$ ,BORIS ORLOWSKY²0, ALEXANDER POPP16, JOANNA PORTUGAL-PEREIRA $^ { 2 1 }$ , JURGEN REINHARD²2, LENA SCHEIFFLE16 and PETE SMITH²3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1DepartmentofEniromental Systems Sience,UdLab,EHZchnoesitatstre2，92 Zuichua 2Heluetas Swiss Intercooperation,Maulbeerstr.10,CH-3001 Bern,Switzerland, $^ 3$ Foundation for Global Sustainability ffgs), Reitergasse11，804Zirich,Suitzerland,4LifecycleConsultingAlthaus,Bruechstr.32，8706 Meilen,Switzerland 5Department of Energy and Environment,Chalmers University of Technology,SE 41296 Gothenburg,Sweden, $^ 6$ DTU Managementnginering,echicalUnersityfenmark4oskide,enmarkstituteofnironmentalienced Technology,and Department of Economics $\\mathcal { E }$ Economic History,Universitat Autonoma de Barcelona,O8193 Barcelona,Spain, 8Mercator Research Instituteon Global Commonsand ClimateChange&Technical Uniersity Berlin,0829 Berlin,Germany, 9Institute of Terrestrial Ecosystems,ETH Zirich,Universitatstrasse 22,8092 Zurich,Switzerland, $^ { 1 0 }$ Institute for Environmental Decisions,Eichtelcyopesistre2ich $^ { 1 1 }$ Institute ofSocial Ecology Vienna (SEC),Alpen-Adria Universitaet (AAu), Schottenfeldgasse 29，1070 Vienna,Austria, $^ { 1 2 }$ International Institute for Applied Systems Analysis,Schlossplatz 1，Laxenburg,Austria, $^ { 1 3 }$ School of Veterinary and Life Sciences,Murdoch University, South Street，Murdoch,WA 6150,Australia, $^ { 1 4 }$ Department of Geography,University of Western Ontario,London,ON N6A 5C2, Canada, $^ { 1 5 }$ Stockholm Environment Institute (SEI),Linnegatan 87D，115 23 Stockholm，Postbox 24218，104 51 Stockholm, Sweden, $^ { 1 6 }$ Potsdam Institute for Climate Impact Research (PIK),PO Box 601203,14412 Potsdam,Germany, 17Humboldt-Universityzu Berlin,Unter den Linden 6，10099 Berlin,Germany, $^ { 1 8 }$ Division of Forest, Nature and Landscape, University of Leuven (Ku Leuuen),Celestijnenlaan 20OE box 2411，BE- 3001 Leuuen,Belgium, $^ { 1 9 }$ Centre for Enuironment and Sustainability-GMV,University of Gothenburg，Aschebergsgatan 44，Goteborg,Sweden, $^ { 2 0 }$ Hohlgasse 68B,5000 Aarau, Switzerland, $^ { 2 1 }$ Energy PlanningProgram,COPPE,Federal University ofRiode Janeiro,Centrode Tecnologia,Sala C-211,C.P. 68565,Ciddenersitriaaddao99iodeJeiroilforticsdtaabiyec Group,SwissederalIstituteforaterialTtingdesearch,mpeberlandstae6ebedorf,i 23Instituteofological&Eronmentalciences,ClimaeXChangeandScotishFoodSecurity Aliance-Cropsneityof Aberdeen,23 St Machar Drive，Aberdeen AB24 3UU,UK ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The possibility of using bioenergy as a climate change mitigation measure has sparked a discussion of whether and how bioenergy production contributes to sustainable development. We undertook a systematic review of the scientific literature to illminate this relationship and found a limited scientific basis for policymaking. Our results indicate that knowledge on the sustainable development impacts of bioenergy production is concentrated in a few wel-studied countries,focuses on environmental and economic impacts,and mostly relates to dedicated agricultural biomass plantations.The scope and methodological approaches in studies differ widely and only a small share of the studies suficiently reports on context and/or baseline conditions, which makes it dificult to get a general understanding of the attribution of impacts.Nevertheless,we identifiedregional patterns of positive or negative impacts for allcategories -environmental,economic,institutional，social and technological. In general，economic and technological impactswere more frequently reported as positive,while social and environmental impacts were more frequently reported as negative (with the exception of impacts on direct substitution of GHG emission from fossil fuel).More focused and transparent research is needed to validate these paterns and develop a strong science underpinning for establishing policies and governance agreements that prevent/mitigate negative and promote positive impacts from bioenergy production. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords:agriculture,bioenergy,food security,forestry,mitigation,sustainable development ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Received 27 August 2015;revised version received 15 December 2015 and accepted 18 December 2015 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "During the last decades，developed and developing countries have introduced policies to encourage the use of bioenergy including i.a. the Brazilian National AlcoholProgram (ProAlcool),theUS Renewable Fuel Standard (RFS)，the EU's Renewable Energy Directive (RED)， the Alternative Energy Development Plan (AEDP) in Thailand,and the Indian National Policy on Biofuels (Sorda et al.,2010). The promotion of bioenergy asa climate change mitigation measure has sparked a intensive discussion concerning potential impacts on sustainable development. Commonly mentioned positive impacts focus on opportunities for new uses of land， economic growth， climate change mitigation, increased energy security and employment (Smeets et al.，2007；Nijsen et al.，2012;Mendes Souza et al., 2015).On the other hand，there are concerns about potential disruption to food security and rural livelihoods,direct and indirect greenhouse gas (GHG) emissions from land use change,enhanced water scarcity ecological impacts，increased rural poverty，and displacement of small-scale farmers,pastoralists and forest users(Dauvergne & Neville,2010;Delucchi,2010;German et al.，2011；Gamborg et al.，2014;Hejazi et al., 2015). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "How bioenergy interacts with sustainable development has become a key scientific question as demand for bioenergy increases globally. The recent Intergovernmental Panel on Climate Change (IPCC) Working Group III contribution to the Fifth Assessment Report (WGIII AR5) highlights the relationship between context conditions,the use of bioenergy as a mitigation option and the impacts on sustainable development. Discussing impacts of bioenergy on sustainable development, the IPCC WGIII AR5 concludes that‘...the nature and extent of the impacts of implementing bioenergy depend onthe specific system,the development context,and on the sizeof theintervention' (Smithetal.,2014). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Different case studies have documented that expanding production of the crops most commonly used to pro duce bioenergy can affect local incomes, food security, land tenure or health in positive and negative ways and that the outcomes of bioenergy production can be unequally distributed (Tilman et al.,2oo9;Persson,2014). Model-based assessments have tried to integrate sustainability considerations,pointing out likely interactions between bioenergy and food prices as well as biodiversity and water use(Popp et al.，2011; Lotze-Campen et al., 2014；Scharlemann & Laurence，2014)．However，the effects of bioenergy on livelihoods and the role of gover nance agreements in promoting or mitigating specific types of impact have not yet been included in modelling exercises(Ackerman et al.,20o9;Lubowski & Rose,2013; Creutzig et al.,2014; Smith et al.,2014).Furthermore,previous studies have concluded that more clarity about the relationships between bioenergy production, livelihoods and equity is still needed (Creutzig et al.,2013;Hodbod & Tomei,2013;Hunsberger et al.,2014). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the light of the urgent need for action on climate change (IPCC，2014)，persistent economic and social inequalities，and intensifying competition for land (Lambin & Meyfroidt，2011;Haberl,2015)，there isa need for science-based policymaking with respect to the impacts of bioenergy on sustainable development. We have examined the scientific evidence base for such policymaking in a comprehensive systematic review using the scientific literature produced in the time period coveredby the IPCCFifth Assessment Report. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Methodology for reviewing impacts of bioenergy production on sustainable development ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Theaim of this systematic review was to analyse the state of knowledge about how the production of bioenergy resources affects sustainable development.This isa key for understanding to what extent the existent knowledge can provide advice for policymakers.The systematic review focuses on the following impact categories: social, economic,institutional,environmental and technological (including food security and human health as social).The review is based on the assumption that if production of a bioenergy resource impacts any of the focus categories,it also impacts sustainable development.Thus,analysing the reported impacts on these focus categories will facilitate an overview of the state of knowledge regarding the impacts from bioenergy production on sustainable develop ment. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We followed the steps included in the methodological guidance for systematic reviews by (Petticrew & Roberts,2008; Bartolucci & Hillegass,201o).The review protocol that served as methodological basis included five steps:(i) definition of scope and aims,(ii) research questions,(ii) search for and selection of evidence,(iv) quality appraisal and (v) data extraction and synthesis (see detailed protocol of the systematic reviewin the supplementarymaterial). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We investigated to what extent the scientific community has answered the following questions which are of high interest in various contexts,including policy,in which decisions on future implementation of bioenergy are decided upon: Where do sustainable development impacts from bioenergy production take place? What is the evidence for the purported impacts? How are impacts attributed and measured? Are there certain context conditions that enable the observed impacts? Are the reported impacts specific to particular biomass resources? These questions were motivated by the discussions addressed in AR5,WGIII (Smith et al.，2014;annex on bioenergy)．Although the AR5 considers impacts on sustainable development, it does not provide a geographically differentiated analysis or an understanding of the relation between context conditions and impacts. Several authors (Bustamante et al.，2014;Creutzig et al.，2014;Smith et al.，2014; von Stechow et al.，2015）explicitly highlight the need for improving the understanding of regional distribution of mitigation impacts on sustainable development, disaggregating by technologies and bioenergy inputs and under consideration of context conditions.The aim of this article was to make a first step in this direction through a stringent systematic review. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We used the same time frame for scientific publications as the Fifth IPCC Assessment report (AR5) (see supplementary information for the selection criteria and process）and went into a far more detailed analysis with regard to the questions reportedabove. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TheAR5 definesbioenergy as'energy derived from any form of biomass such as recently living organisms or their metabolic by products' (Allwood et al.，2014).We include nine biomass resources in the review:forest residues,unutilized forest growth,dedicated biomass forest plantations,combined forest sources,agriculture residues,dedicated biomass agriculturalplantations, organicwaste， combined agricultural resources and combined forest and agricultural resources (see protocol in the supplementary information for specific definition of each biomass resource).As the focus of the research was to understand the impacts from production and collection of these biomass resources on development,we did not distinguish the technologies used for producing bioenergy from biomass (i.e. first or second generation） but considered the demand that both technologies can create on biomass resources. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We acknowledge that there is no general agreement on how to measure impacts on sustainable development (Sneddon et al.,2006;Muys,2013).Thus,we based the systematic review on the development impacts as outlined in the Agriculture, Forestry and Other Land Use (AFOLU)chapter of the IPCC WGIII AR5 (Smith et al.,2014).We considered a set of 33 potential impacts on sustainable development structured into five impact categories: institutional,social and health-related, environmental,economic and technological (see Tables S3 and S4).We assumed that if production of a bioenergy resource affects any of these impact categories,it also affects sustainable development.Thus,analysing the reported impacts in a systematic manner provides an overview of the state of knowledge regarding how bioenergy production affects sustainable developmentas defined above. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Selectionofstudiesanddataextraction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The selection process was carried out in three steps:definition of search criteria,a search in two scientific collections and a quality appraisal. For the search criteria，we included thirty inclusion criteria covering all five development categories and two further criteria on bioenergy forms for a set of sixty inclusion criteria combinations;and we included 12 exclusion criteria(see ‘article selection and data extraction'in the protocol included in the supplementary information for further details). We further refined the selection using 31 categories of Web of Science,including 12 research areas.We limited the search to articles in English.The search was conducted in the Web of Science and in Science Direct including all their databases.This procedure yielded a wide and inclusive sample of 1175 articles covering all five development categories.For the quality appraisal,we randomly selecteda subset of articles $( n = 8 7 3$ or $7 4 . 3 \\%$ of the original sample), which makes the subsample representative. Only 541 of these passed the quality appraisal (criteriaand procedure for the appraisal is clarified in the ‘quality appraisal' section in the protocol included in the supplementary information).A total of 408 articles of the 541 $( 7 5 . 4 \\% )$ were randomly included in the data extraction,and the research team carefully reviewed all articles.During the data extraction, we removed 92 articles because none of the 33 potential impacts included in our list were discussed,although they did discuss issues belonging to the five categories (that explains why these articles passed the quality appraisal).Thus,the results presented below are based on the analysis of the detailed data extracted from 316 original research articles that discussatleast one of the 33 impacts included. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Data analysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Weanalysed the data in three steps: (i) characterization of the study,(ii) consideration of the context conditions in the area of the study and (ii) reported impacts.Exploratory data analysis revealed a vast heterogeneity of how data were gathered, impactsattributedand resultsreported in the 316 analysed articles (see detailed counting of results in the supplementary information,file impacts trees).This heterogeneity combined with the number of variables mostly precluded the use of sophisticated statistical analysis methods,and our analysis is mainly based on descriptive tables and cross-tabulations,combining data from all three steps.The statistical significance of potentially interestingrelations between context conditions and impacts was analysed using Fisher tests (R Core Team,2014). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Almost half of the articles in the systematic review analyse impacts from dedicated biomass plantations (agriculture and forestry)，while few articles examine the sustainable development impacts from using agricultural or forestry residues (4 and $6 \\%$ ,respectively),or organic waste $( 2 . 5 \\% )$ (see Table S1O).Although several studies report that the use of organic waste as bioenergy feedstock can be associated with positive or low negative impacts,and hence considered an attractive bioenergyresource (Gregg& Smith,2010;Haberl et al.,2011; Odlare et al.,2011),but the evidence in our review is insufficient to object or support this proposition as too few studies analyse this resource. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Differentplaces,different stateofknowledge ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Our results show an uneven geographical distribution of the studies,with most articles focusing on developed regions: $2 6 . 7 \\%$ on Europe and $2 6 . 3 \\%$ on North America; compared to only $1 3 . 1 \\%$ on Asia, $8 . 2 \\%$ on Africa, $7 . 8 \\%$ onLatin America (Central and South America), $2 . 2 \\%$ on Oceania; $1 5 . 7 \\%$ of the studies conduct global analyses (Fig.2, Table S11).This distribution contrasts with the share of annual plant biomass production (approximated through Net Primary Production or NPP）of these regions: $1 6 \\%$ in Europe, $12 \\%$ in North America, $1 9 \\%$ in Asia, $2 0 \\%$ in Africa, $2 6 \\%$ in Latin America and $6 \\%$ in Oceania (Krausmann et al.，2013). Although a multitude of socioeconomic and natural factors influencesany region's technical or economic bioenergy potential,we consider NPP a useful proxy for its biophysical suitability for biomass production (Haberl et al.,2013). Modelling and empirical data suggest that current NPP levels may underestimate achievable productivities in human-managed systems (DeLucia et al., 2014),but should be viewed in the perspective of scales of cultivation required for bioenergy to make an important contribution to the future energy supply and also possible ecological impacts of high-input cultivation systems (Haberl,2016). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Table 1 is divided into three categories of countries: (i) well-studied key countries, (section A in Table 1);(ii) potentially relevant but understudied countries, that is, countries with high NPP but few,if any,studies (section B in Table 1);and (iii) relatively overstudied countries, that is,countries with low NPP and hence a relatively minor global contribution to the global bioenergy potential but nevertheless with many studies associated with them (section C in Table 1). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The small share of studies considering impacts on sustainability in developing regions is surprising，as studies assessing global bioenergy potential commonly point to some of the countries in section B as possible large future suppliers of biomass and biofuels (Hoogwijk et al.，2009;Smeets & Faaij,2010;Beringer et al., 2011;Haberl et al.,2011;Nijsen et al.,2012).For example，in Latin America，only Brazil (contributing 26 cases or $7 4 \\%$ to the studies in countries of this region) ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8d5e14bb887e3f26a468f772a4b1d0dbd207e30592053c74f3a60525072c7ce0.jpg",
+        "table_caption": [
+            "Table 1 Relation of studies and NPP values "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Country</td><td>No. of</td><td>%of global</td><td>Rank no.</td><td>Ran NPP</td></tr><tr><td colspan=\"5\">A.Countries with more than 1 study and more than 1% of</td></tr><tr><td>global NPP United States</td><td>80</td><td>6.50</td><td>1</td><td>3</td></tr><tr><td>Brazil</td><td>25</td><td>12.10</td><td>2</td><td>1</td></tr><tr><td>China</td><td>13</td><td>5.60</td><td>4</td><td>5</td></tr><tr><td>India</td><td>13</td><td>2.30</td><td>5</td><td>10</td></tr><tr><td>Canada</td><td>9</td><td>6.00</td><td>10</td><td>4</td></tr><tr><td>Indonesia</td><td>9</td><td>3.20</td><td>12</td><td>8</td></tr><tr><td>United Republic</td><td>8</td><td>1.10</td><td>14</td><td>19</td></tr><tr><td>of Tanzania Australia</td><td>7</td><td>4.90</td><td>15</td><td></td></tr><tr><td colspan=\"5\">B.Countries with <5 studies and more than 1% of global NPP</td></tr><tr><td>Russian Federation</td><td>3</td><td>11.30</td><td>27</td><td>2</td></tr><tr><td>Argentina</td><td>3</td><td>2.40</td><td>23</td><td>9</td></tr><tr><td>Dem. Rep. of the Congo</td><td>0</td><td>3.70</td><td>98</td><td>7</td></tr><tr><td>Colombia</td><td>0</td><td>1.90</td><td>89</td><td>11</td></tr><tr><td>Peru</td><td>1</td><td>1.60</td><td>51</td><td>12</td></tr><tr><td>Angola</td><td>0</td><td>1.50</td><td>65</td><td>13</td></tr><tr><td>Mexico</td><td>1</td><td>1.50</td><td>48</td><td>14</td></tr><tr><td>Venezuela</td><td>0</td><td>1.50</td><td>209</td><td>15</td></tr><tr><td>Bolivia</td><td>0</td><td>1.40</td><td>78</td><td>16</td></tr><tr><td>Sudan</td><td>0</td><td>1.30</td><td>192</td><td>17</td></tr><tr><td>Kazakhstan</td><td>0</td><td>1.20</td><td>131</td><td>18</td></tr><tr><td colspan=\"5\">C.Countries with 5 or more studies and <1% of global NPP</td></tr><tr><td>Italy</td><td>14</td><td>0.24</td><td>3</td><td>63</td></tr><tr><td>Sweden</td><td>13</td><td>0.36</td><td>6</td><td>50</td></tr><tr><td>UnitedKingdom</td><td>12</td><td>0.23</td><td>7</td><td>65</td></tr><tr><td>Malaysia</td><td>10</td><td>0.56</td><td>8</td><td>32</td></tr><tr><td>South Africa</td><td>10</td><td>0.63</td><td>9</td><td>28</td></tr><tr><td>Germany</td><td>9</td><td>0.37</td><td>11</td><td>46</td></tr><tr><td>Thailand</td><td>9</td><td>0.51</td><td>13</td><td>35</td></tr><tr><td>Mozambique</td><td>6</td><td>0.91</td><td>16</td><td>22</td></tr><tr><td>Austria</td><td>5</td><td>0.08</td><td>17</td><td>97</td></tr><tr><td>Belgium</td><td>5</td><td>0.04</td><td>18</td><td>125</td></tr><tr><td>Spain</td><td>5</td><td>0.37</td><td>19</td><td>48</td></tr><tr><td>Denmark</td><td>4</td><td>0.05</td><td>20</td><td>119</td></tr><tr><td>France</td><td>4</td><td>0.58</td><td>21</td><td>31</td></tr><tr><td>the Netherlands</td><td>4</td><td>0.04</td><td>22</td><td>123</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Net primary production (NPP) values calculated based on Haberl et al.,(2011).For this table,we counted studies specialized in one country and studies looking at multiple countries, which are considered otherwise as global or regional studies. 'Studies' refers to the articles included in this systematic review. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "emerges as a focal point of the scientific literature, while the number of country-specific studies in other countries is small (three studies in Argentina and one study each in Costa Rica,Ecuador,Guatemala,Mexico and Peru).Hence,of the 20 countries in Latin America，only one country with a large NPP is well-stu died，whereas six countries are under-studied despite their large potential. Extrapolations of impacts from the local/national to the regional level are thus not yet possible. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/99402aff7413b0d20c638a1d0376daf4a062c3dd88daf1722480a9f32394a060.jpg",
+        "img_caption": [
+            "Fig1Regionaldistributionof teanalysedimpacts,eportedasfractioofimpactswithineachcategoryofallimpactsanalysedn eachregion.Percentagenumbersaftertheregion'snameindicatetheshareofthisregioninthetotalofimpactsconsideredanddeterminethesizeofthecircle.Percentagenumbers inthepies indicatetheshareofimpactseachcategorycontributes tothtotalnumber of impactsreportdineespectiegn.Fallregios,teostreortedsoalimpactisodsecuity;llotheroialiacts follow far behind.The outline map is from http://www.zonu.com/images/0X0/2009-11-05-10853/World-outline-map.png. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "When looking at which impacts have been considered and where, our results show that most regions focus on the environmental and economic categories and barely consider social impacts with the exception of food security (see Fig. 1 and Table 2). Only studies focusing on Asia and Africa show a more balanced interest across categories. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Only a small number of impacts have been studied across regions ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Beyond the impact categories，we further analysed which specific impacts were most frequently considered in each region (see Table 3). Studies at the global level focus on impacts on displacement of activities,on deforestation or forest degradation,on soil and water，on food security and on GHG emissions.To a lesser extent, but nevertheless important,global studies look at market opportunities，feedstock pricesand technology development and transfer. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The regional distribution of the interest in specific impacts is uneven. In North America (mainly USA), impacts from the environmental category are included among the seven most frequent followed by impacts on prices of feedstock and on market opportunities from the economic category. The three most frequently analysed impacts in Europe and Latin America (mainly Brazil) are those on displacement of activities,on soil and waterand on direct substitutionof GHG emissions from fossil fuels.Studies from Oceania only consider six impacts: four of them in the environmental category with the most frequently analysed being impacts on soil and water. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The distribution of analysed impacts in Africa and Asia is more balanced.Most of the impacts have been considered in these two regions, suggesting a better engagement with the complexity of understanding sustainability impacts or an expectation that social impacts are relativelymore important in these regions.The five impacts most often considered in Africa are impacts on food security，on energy independence,on economic activity，on employment and on poverty (in this order). In this region, impacts on land tenure,on women and on capacity building, are considered more often than in other regions.The five impacts most frequently considered in Asia are those on food security,on economic activity, on soil and water,on displacement of activities and on employment. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/86434cdd76088a26f3ce76ee1f6fcc8f7d30cad91c91b11f94a669c697b092ec.jpg",
+        "table_caption": [
+            "rrrerrrlgiaele laere gr grnltsir aqe ",
+            "rrrreerrerlrrreetrrerlereererterrreeree ",
+            ""
+        ],
+        "table_footnote": [
+            ")rerrerrnirreerrenirregerlrtrl "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Impact category</td><td rowspan=\"2\">No. Studies</td><td rowspan=\"2\">Share of studies</td><td rowspan=\"2\">category in allImpact on</td><td rowspan=\"2\">No. Studies</td><td rowspan=\"2\">Share of impact in all studies</td><td rowspan=\"2\">Share of impact in the category</td><td colspan=\"5\">Qualification of the impacts</td></tr><tr><td>20 40</td><td></td><td>60</td><td>80</td><td>100 120</td></tr><tr><td rowspan=\"5\">Institutional</td><td rowspan=\"5\">105</td><td rowspan=\"5\">33.23%</td><td>Energy independence</td><td>59</td><td>19%</td><td>56.2%</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Land tenure</td><td>25</td><td>8%</td><td>24.8%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Cross-sectoral coordination(+)/conflicts(-)</td><td>41</td><td>13%</td><td>39.0%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>15</td><td>5%</td><td>14.3%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Participative mechanisms Labour rights</td><td>23</td><td>7%</td><td>21.9%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"8\">Social and health</td><td rowspan=\"8\">105 33.23%</td><td rowspan=\"8\">Foodsecurity</td><td></td><td>81</td><td>25.6%</td><td>74.3%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Conflicts or social tension</td><td>19</td><td>6.0%</td><td>17.1%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Traditional or indigenous practices</td><td>17</td><td>5.4%</td><td>16.2%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Displacementoffarmers</td><td>15</td><td>4.7%</td><td>13.3%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Capacity building</td><td>18</td><td>5.7%</td><td>16.2%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Women</td><td>7</td><td></td><td>2.2%</td><td>6.7%</td><td></td><td></td><td></td><td></td></tr><tr><td>Elderly people</td><td>4</td><td></td><td>1.3%</td><td>3.8% 1</td><td></td><td></td><td></td><td></td></tr><tr><td>Specific ethnic groups</td><td>4</td><td></td><td>1.3%</td><td>3.8%</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"6\">Environmental</td><td rowspan=\"6\">222</td><td rowspan=\"6\">70.25%</td><td>Health impacts Deforestation or forest degradation</td><td></td><td>28</td><td>8.9% 18.7%</td><td>26.7% 26.1%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Use of fertilizers with - impacts onsoil and water</td><td></td><td>59</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Soiland water</td><td></td><td>63</td><td>19.9%</td><td>27.9%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Biodiversity</td><td></td><td>115</td><td>36.4%</td><td>51.8%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Displacement of activities or land uses</td><td>64</td><td>95</td><td>20.3% 30.1%</td><td>28.8% 41.9%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"10\">Direct GHG emissionsubstitution</td></tr><tr><td rowspan=\"7\">Economic</td><td rowspan=\"7\">165 52.22%</td><td rowspan=\"7\">Economic activity Economic diversification Market opportunities</td><td></td><td>96 53</td><td>30.4% 16.8%</td><td>43.2% 32.1%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>44</td><td>13.9%</td><td>26.1%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>79</td><td></td><td>47.9%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Pricesof feedstock</td><td>63</td><td>25.0%</td><td>37.0%</td><td></td><td></td><td></td><td></td></tr><tr><td>Concentration of income</td><td>17</td><td>19.9% 5.4%</td><td>10.3%</td><td></td><td></td><td></td><td></td></tr><tr><td>Poverty</td><td>32</td><td>10.1%</td><td>18.8%</td><td></td><td></td><td></td><td></td></tr><tr><td>Useofwaste or residuescreates socio-economic benefits</td><td>39</td><td>12.3%</td><td>23.6%</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"3\"></td><td rowspan=\"3\">72</td><td rowspan=\"3\">22.78%</td><td>Mid and long-term revenue's certainty</td><td>36</td><td></td><td>11.4%</td><td>21.2%</td><td></td><td></td><td></td><td></td></tr><tr><td>Employment</td><td>55</td><td>17.4%</td><td>32.7%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Technology development and transfer</td><td>44</td><td>13.9%</td><td>61.1%</td><td></td><td></td><td></td><td>Positive</td><td></td></tr><tr><td rowspan=\"3\">Technological</td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td></td><td>2124</td><td>7.0%</td><td></td><td>30.6%</td><td></td><td></td><td>Neutral</td><td></td></tr><tr><td>Labourdemand</td><td>28</td><td></td><td>38.9%</td><td></td><td></td><td></td><td>Negative</td><td></td></tr><tr><td></td><td></td><td>8.9%</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/1b58937e00cbfa5a0ba31c2641aef7408caa221cdd116039440bbdf007a6c9e4.jpg",
+        "table_caption": [
+            "rrrle aeelrnelet preelte Taqee ",
+            ""
+        ],
+        "table_footnote": [
+            "武",
+            "rr "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">e/u</td><td colspan=\"11\">14 1 0 9 8</td></tr><tr><td rowspan=\"2\"></td><td rowspan=\"2\">2 u +</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\">8 5</td><td rowspan=\"2\">5</td><td rowspan=\"2\">2</td><td rowspan=\"2\">4 6</td><td rowspan=\"2\">3 2 5333</td></tr><tr><td rowspan=\"2\"></td><td rowspan=\"2\">0 0</td></tr><tr><td></td><td>O n</td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td>O</td><td>0</td></tr><tr><td></td><td>+</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>n</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>+</td><td></td><td>6</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>VIt</td><td>n + 8</td><td>6 6</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0 0</td></tr><tr><td>edoing</td><td>n +</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0 8 3 5</td></tr><tr><td></td><td>u +</td><td></td><td>0 9</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0</td><td>3</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Unbalanced understanding about impacts on sustainable development ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The perspective of whether impacts are positive, negative or neutral is also uneven across regions. Our analy sis of a selection of impacts shows that mostly negative impacts are reported in Latin America and at the global level,while the other regions show a more balanced picture (see Tables 3). The more detailed analysis pre sented below shows interesting differences in the importance given to each category and on where specific impacts were assessed as positive or negative. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Institutional impacts are included in over $3 0 \\%$ of the articles (see Table 2).Within this impact category,energy independence is the most frequently studied impact across regions,especiallyin Europe and Africa,and bio fuel deployment is reported mostly as having a positive impact on it. Other impacts in this category such as cross-sectorial coordination show mixed results for all regions，while land tenure was reported as negatively impacted in Africa,Asia andLatin America. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Social impacts are considered in over $3 0 \\%$ of all studies，with food security being the most frequently addressed impact in this category (over $2 5 \\%$ of the total studies and almost $7 5 \\%$ of the articles considering social impacts).We undertook a detailed analysis of food security because it has been mentioned as one major concern for promoting deployment of bioenergy. Negative impacts on food security were reported twice as often as positive impacts.For all regions,impacts on food security are reported more often as negative than as positive,except in Africa where an equal number of studies report impacts as positive,negative or neutral (see Fig.2 and Table 3). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In addition，we found that at the global level, the more often models are used for analysing impacts on food security，the higher the frequency of negative impacts (see Fig.2). Although the small number of studies does not provide statistic robustness, this finding suggests a difference in the way impacts on food security are modelled or measured at the global level. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/591734c5fb6f5c1267d5301af5a9fb1bc9ef16922ace4c3ce49b2bf2e83b5005.jpg",
+        "img_caption": [
+            "Fig2Impactstreeregardingfoodsecurity.Thebluearowsshowthe geographicaldistributionof theimpactsonfodsecurityper regionssconsideredinthestudies.Inthiscase,therewerenostudiesconsideringfoodsecurityinOceania.Thefirstlineindicates thenumberof positive(marked ingreen),negative (markedinred)orneutral impacts (markedinblack).When thearticledid not specify the qualification of the impact,we considered it as nonavailable ${ \\mathrm { ( n / a , } }$ marked in grey).From the second line downwards,we presenthowtheseimpactswereidentified,eitherusing measurements,modelsoracombination(mixed).Whenthemethodwas not clearin the article,we defined it as nonavailable $\\left( \\mathrm { n } / \\mathrm { a } \\right)$ .Impact trees for all other impacts considered in this systematic review are included in the supplementary information. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/680c119143c7ed34b926d77e2063f13e043fde9160cd85ea5857b5b6ec191522.jpg",
+        "img_caption": [
+            "Fig 3Geographical distribution of studies differentiating between studies considering or not considering context conditions.Solid colours indicate the number of studies with fully or partially matching context conditions.Transparent colours indicate the number of studies where context conditions were either not mentioned or do not correspond to the impact categories. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Other key social impacts - including gender and intragenerational impacts,social conflicts,displacement of farmers and impacts on traditional or indigenous practices - are insufficiently studied in all regions and practically not considered in global studies. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The environmental impact category is the most frequently considered category by the studies in the sample (over $70 \\%$ of the total articles in the review，see Table 2),and each individual impact is addressed by at least a quarter of the studies. Across regions,all impacts in this category are reported as mostly negative or neutral,with the exception of direct substitution of GHG emissions from fossil fuels，which is considered positive or neutral in all geographical contexts.It is important to note,however, that over $6 5 \\%$ of the studies used models for attributing direct substitution of GHG emissions from fossil fuels,and only $20 \\%$ of these combined models with case study measurements.Thus,the qualification of this impact is highly dependent on the system boundaries and attribution criteria used. Negative impactsonthedisplacementof actiuitiesorotherland uses aremore frequently reported in Latin America,North America,Europeandat the globallevel (see Table 3). In Asia,slightly more positive impacts are reported compared to other regions. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Impacts on biodiversity are predominately reported as negative or neutral (see Table 3),except ina few studies from Europe and North America,whereas impacts on deforestation or forest degradation seem to be more negative for Latin America and at the global level. Further, impacts from the use of fertilizers on soil and water are reported as negative for Europe,North and Latin America，where these account for the majority of studies addressing this issue. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Economic impacts are considered in over half of all articles (see Table 2) and were predominantly positive for most impacts assessed in this category. Positive effects on market opportunities are noticeably reported in studies for North America and Europe (see Table 3), whereas positive effects on economic activity were more frequently reported in Africa and Asia.Impacts on prices of feedstock show mixed results for all regions.As for other impacts where modelling was used far more often than case study measurements,the positive or negative character of the economic impacts category needs more analysis considering the system boundaries and attribution criteriaused. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Over $2 0 \\%$ of all articles consider technological impacts (see Table 2).Technologydevelopment and transferis the most frequently considered impact, followed distantly by impacts on labour demand,infrastructure coverage and access to infrastructure.Impacts on technology development and transfer are seen mostly as positive in all regions with only two studies reporting negative impacts: one from Africa and one at the global level (see Table 3). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Howcontext conditionsinfluence development outcomes remainsunclear ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We analysed how impacts have been attributed by examining whether context conditions were explicitly reported.Context conditions describe the situation in the absence of additional biomass production and use forenergy.Insight into these conditions is necessary for establishinga baseline or reference scenario and/or for attributing impacts on sustainable development from bioenergy production in a transparent manner. The systematic review includes 31 possible conditions that can describe the context in relation to the five impact categories (see supplementary information fora complete list of context conditions).We first analysed the extent to which impacts reported in the articles match to the corresponding context conditions at the level of category (i.e.whether context conditions were reported for those categories where impacts were identified). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The analysis shows that only $1 3 . 6 \\%$ of the articles com prehensively describe the context conditions against the category of the reported impacts,whereas $23 \\%$ do not report context conditions at all.For the remainder, conditions were partially or fully mismatched (i.e. context conditions are described but not for the category of impacts reported).This lack of clarity of the context conditions applies to articles dealing with developed and developing countries,as well as global analyses.However，we found that studies analysing bioenergy production in developing countries report context conditions more often than studies on Europe,North America or those witha global scope (see Fig.3).The lack of information applies across all reported impacts.For instance,from those articles quantifying impacts on food security,only $3 5 \\%$ provide context conditions in the corresponding social category; concerning GHG emissions only $12 \\%$ of articles provide corresponding baseline conditions.We recognize that for some standardized methodologies (e.g. LCA)，and for most models,certain assumptions regarding context conditions are embedded in the procedures used.However,when theyare not reported and/ or validated,which is often the case,it remains unclear how impacts were attributed. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/927628ffc0f65dd82850421d912cb6cae340ff7e2cdbe0d557539bedb11226ba.jpg",
+        "img_caption": [
+            "Fig4Impactsofbioenergyonfoodsecurityrelatedtothecontextconditionsconsideredinthisreview.Yaxisrefers tonumberof articles,and $x$ axis refers to context conditions following the numbering below.Dark grey showsthe impacts attributed to dedicated agricultural crops,and hell grey indicates impacts atributed to any other biomass resource.Numbers in axis $\\mathbf { \\boldsymbol { x } }$ numbering:(1) general conditionsdescribed.Institutioalcondiios:(2)themajorityofhouseoldsaveaesstoenergy;(3)landteurecarified;(4)landscape management plan exists;(5)landscapepoliciesexistandareenforced;(6)participationmechanismsare inplace; (7)mechanismsforsectorialcordinatonareinplace;(8)existigandenforcedlbourrightslgislation;socialconditios:(9)existigdeficitin foodaccessd/osupply;()eistingsocialflicts;()ppulatiogrothisexpected;(2waressboutidigeousoedge;(13)existingsocialnetworks/stakeholderorganizations;(14)highaverageumancapacityandskils;(5)lowaveragehuman capacitysill;(16)equitymechanismsareinplace;(7)socialinequityreportedasexistingbeforebioenergyproductio;naturalcon ditions:(18)landisvailableforpeoplelivinginteara;(9)waterforagriculture/forestryisavailbleforpeoplelivinginearea; (20)drinkingwaterisavalabletopeoplelivinginthearea;(21)land(use)competitionpreviousanyinterventionisreportedinthe article; (22)airualitiseporedasgod;3)ghiodivesitindexEoocoitios:4)avlbltfapial;istg creditingmechanisms;(26)sharing mechanismsofeconomicbenefitsinplace;conditionsrelated totechnologyand infrastructure: (27)traditionaltecnlogies;()mode(ndustrial)technolgies;(9)ombatioofodeadidustrialtecholgis;te nology is available to major local stakeholders; (31) mechanisms for technology development and/or transfer given. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We undertook a deeper analysis of the relationship between context conditions and several specific impacts. Initially,we conducteda descriptive analysis of impacts on food security,which is the most frequently reported social impact,to determine whether it is possible to establish the context conditions that trigger positive or negative impacts on food security.About $8 0 \\%$ of the articles mentioning impacts on food security include some description of the context conditions.We found that in articles reporting impact on food security,most context conditions are considered at least once (see Fig. 4) and that no particular context condition clearly stands out in relation to either positive or negative impacts (e.g. conditions that are most frequent in the food securityanalysis, such as the use of modern technologies,show up both fornegative and positive impacts). ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/40daa00addab9779f2d2e5adab3144321636719faafccf80f6c076bfb734ec63.jpg",
+        "table_caption": [
+            "Table 4 Combinations of conditions and impacts with $P$ -valuebelow $5 \\%$ in the Fisher test "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Impact</td><td rowspan=\"2\">Condition</td><td rowspan=\"2\">P-value (Fisher test)</td><td colspan=\"6\">Combination condition/impact</td></tr><tr><td>Yes/+</td><td>Yes/-</td><td>Yes/n</td><td>No/+</td><td>No/-</td><td>No/n</td></tr><tr><td>Food security or food production (negative if</td><td>Existing deficit in food access and/or supply</td><td>0.00154111</td><td>2</td><td>20</td><td>3</td><td>3</td><td>1</td><td>4</td></tr><tr><td>reduced or positive if improved) Conflicts or social tension</td><td>Existing deficit in food</td><td>0.02222222</td><td>7</td><td>1</td><td>2</td><td>0</td><td>0</td><td>1</td></tr><tr><td>Direct substitution of GHG emissions reductions</td><td>access and/or supply Sharing mechanisms of economic benefits in place</td><td>0.03571429</td><td>0</td><td>2</td><td>0</td><td>6</td><td>0</td><td>0</td></tr><tr><td>from fossil fuels Prices of feedstock</td><td>Modern (industrial) technologies</td><td>0.04449388</td><td>11</td><td>4</td><td>13</td><td>1</td><td>2</td><td>0</td></tr><tr><td>Employment (being employment creation (+) or employment reduction (-))</td><td>Mechanisms for sectorial coordination are in place</td><td>0.04545455</td><td>7</td><td>0</td><td>0</td><td>2</td><td>1</td><td>2</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/6603cb236375ca37cfe3cb390f15b1b3874ac0367aa842e796089fcd87a6a8a7.jpg",
+        "table_caption": [
+            "Table 5 Regional distribution of relevant condition-impact combinations "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Region/</td><td colspan=\"7\">Existing deficit in Food access'and Food security'</td><td colspan=\"7\">‘Sharing mechanisms in place'and Direct substitution of GHG emissions reductions'</td></tr><tr><td>Combination</td><td>Yes/+</td><td>Yes/-</td><td>Yes/n</td><td>No/+</td><td>No/-</td><td>No/n</td><td>Total</td><td>Yes/+</td><td>Yes/-</td><td>Yes/n</td><td>No/+</td><td>No/-</td><td>No/n</td><td>Total</td></tr><tr><td>Africa</td><td>1</td><td>2</td><td>2</td><td>1</td><td>0</td><td>0</td><td>6</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Asia</td><td>1</td><td>6</td><td>1</td><td>0</td><td>0</td><td>2</td><td>10</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td></tr><tr><td>Europe</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>1</td><td>3</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>North America</td><td>0</td><td>4</td><td>0</td><td>1</td><td>1</td><td>0</td><td>6</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td></tr><tr><td>Oceania</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Latin America</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td><td>1</td><td>3</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td></tr><tr><td>Global</td><td>0</td><td>5</td><td>0</td><td>0</td><td>0</td><td>0</td><td>5</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>Total</td><td>2</td><td>20</td><td>3</td><td>3</td><td>1</td><td>4</td><td>33</td><td>0</td><td>2</td><td>0</td><td>6</td><td>0</td><td>0</td><td>8</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The general lack of correlation between context conditions and impact sign is also reflected in the $P$ -valuesof Fisher tests,which we applied to all 1023 combinations of context conditions and impacts to check the influence of a particular context condition given or not given on the counts of impact signs.Table 4displays that only 5 combinations have a $P$ -valuebelow $5 \\%$ and reports their corresponding numbers of condition-impact combinations. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The Fisher test indicates whether the counts of impact signs in case of condition being ‘yes' differ significantly from the counts of impact signs when the condition is 'no'. Thus, a low $P$ -value does not represent strong evidence that the condition has an influence on the impact. This influence can only be postulated if the combination of conditions and impact also suggests its existence and direction. This is the case for only two combinations: ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "·Combination 1: context condition ‘existing deficits in food access and/or food security' and impact on 'food security': when the context condition ‘existing deficits in food access and/or supply' is given, then biomass production for bioenergy is almost exclusively reported to have a negative impact on food security. Studies reporting the absence of these deficits,on the other hand,report either a positive or a neutral impact on food security. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "· Combination 2: context condition benefit sharing mechanism for economic benefits are in place' and impact on'direct substitution of GHG emissions from fossil fuels': the impact on direct substitution of GHG emissions from fossil fuel is largely positive when no benefit-sharing mechanism for economic benefits is in place，while the presence of such mechanisms exclusively leads to this impact being negative. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "For the other three combinations in Table 4, the number of impacts is very small if the condition is answered with 'no' and the distribution of impacts (positive,negative or neutral is ambiguous. Thus,even if the condition being 'yes'suggests a positive impact sign in two of these cases, it is not known whether these conditions really influence the corresponding impacts. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The regional analysis for the two combinations that in total suggest a correlation between condition and impactaredisplayedin Table5.Fishertestsshowed no significant difference between 'yes'and‘no' answers for any region. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Patterns in the distribution of positiue and negative impacts ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The results show some general patterns that are worth highlighting(see especially Figs 2-4 andTable 3). Impacts on some economic and technological categories arepersistently positive across studies and regions. Within these categories impacts on energy independence,direct substitution of GHG emissions from fossil fuels,market opportunities,economic activity and diversification,employment as well as different technological categories is far most often reported as positive.In contrast,most impacts in the social and environmental categories are reported largely as having negative impacts, especially on land tenure,food security,displacement of otheractivities,biodiversity loss,and conflict and social tension.These patterns indicate an important trade-off: that bioenergy projects may generate positive economic impacts but negative environmental and social impacts. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The incomplete information on context conditions (Fig. 3 and statistical analysis) makes it difficult to say anything conclusively across studies on what are the most relevant conditions triggering any specific impact Yet,previous work has pointed to some reasons worth highlighting，notably that government institutions in countries targeted for bioenergy production often face severe constraints in implementing public policies and regulations intended to protect, for instance,land rights and food security (Ravnborg et al.，2013;Larsen et al., 2014).This is reinforced by our findings on context conditions related to food security and to some extent by the participation of governance-related conditions highlighted through the Fisher Test.It is also worth noting that because climate change mitigation has been an important motivator for promoting bioenergy，it has been a higher research priority than other goals such as thoserelated to biodiversity or land tenure.The latest IPCC Assessment Report made a great advance in including ethics and sustainable development in its considerations and paves the way for a more systemic research approach towardsunderstandingdevelopment impacts from bioenergy production.More research is needed in the future to develop this approach, given the knowledge gaps identified in this review. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Conclusions and outlook ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Understanding the impacts of bioenergy production on sustainable development hasbeen an important research topic in recent years，but its coverage is uneven, both in terms of geographical coverage, feedstocks considered,and in the categories of impacts considered.Furthermore，results are hardly comparable because context conditions and attribution criteria are not properly reported in the majority of the studies. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In the following,we present our conclusions about the research questions in this review. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Where do sustainable development impacts from bioenergy productiontakeplace? ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Geographically，we identified three distinct groups of countries,based on NPP as a proxy for biophysical bio mass production potential, for considering bioenergy deployment in a given country. In the first group，we find countries with a high biophysical potential and a reasonable number of studies.These studies give good information about environmental and economic impacts, showing a tendency towards positive impacts from bioenergy production on direct substitution of GHG emissions from fossil fuels,market creation, technology development and transfer.However,social,institutional and technological impacts remain uncertain because they were far less often considered. The second group comprises countries with a high NPP but very few studies.Most of these are developing countries where there is a need for better understanding of possible sustainable development impacts of bioenergy implementation. For countries in this group,more research is needed to provide robust information for policymaking and governance agreements. The third group comprises countries with a relatively smaller NPP but many studies.This group consists mainly of developed countries and lessons on methodological issues from these studies can be used for future research inunderstudied countries. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Whatisthe euidence forthepurported impactsand how areimpactsattributedandmeasured? ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "There is a lack of systematic reporting on criteria for attributing impacts.Despite the existing discussion on attribution of specific methodologies (e.g. Finkbeiner, 2013;Munoz et al.，2015 on attribution of indirect land use change in LCA),this omission in the studies makes it impossible to pursue a consistent comparison of results.We foundthat theenvironmental and economic impactcategoriesweremorethoroughlystudied, whereas far less is known about how bioenergy production will affect the social and institutional categories of sustainable development.Institutional and social impact categories are better considered in country-level studies than in global studies.Although there is an apparent indication of trade-offs between positive impacts on the economic category and negative impacts on the environmental and social categories,more clarity about what triggers the trade-offs could not beachieved due to the noncomparability of the results across the studies (lack of attribution criteria) and to the lack of information on context conditions in the majority of the studies. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Arethere certaincontextconditionsthat enablethe observedimpacts? ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "We found that there is a gap on reporting the specific context conditions prior to any intervention aimed at producing biomass for bioenergy,with less than $1 5 \\%$ of the studies providing a comprehensive presentation of the context conditions in the category on which they attributed impacts. The lack of consistency in reporting context conditions and their relation to the reported impacts prevents clear and definitive conclusions on how the context affects the development outcome. Previous assessments have highlighted the need for‘good governance' as a condition required for promoting positive impacts of bioenergy production (Creutzig et al, 2014;Hunsberger et al.，2014;Smith et al.，2014).The reported negative impacts on land tenure,food security and food production,or other social and institutional aspects bear witness that bioenergy deployment can result in undesirable consequences and on the importance of understanding the context conditions,especially existing governance of natural resources. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Arethereported impactsspecificto particularbiomass resources? ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "We found a concentration of studies dealing with dedicated biomass production, especially agricultural plantations. Other biomass resources have been less studied, and the use of waste as bioenergy feedstock has not received much systematic scrutiny. We conclude that analytical frameworks and methods that facilitate the analysis at a higher level of complexity, that is,including more categories or allowing aggregation from various studies,are still needed.Such frameworks need to ask for the inclusion and reporting of context conditions,explicitly and transparently,so that contextdependent differences can be identified. Future empirical research，especially case studies,should aim to inform about the most effective governance arrange ments - and identify situations where governance agreements have insufficient capacity to guarantee that bioenergy deployment consider international due diligence standards. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "It is opportune to interpret our results in the context of the recent IPCC assessment of climate change.The IPCC author team concluded that: ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "One strand of literature highlights that bioenergy could contribute significantly to mitigating global GHG emissions via displacing fossil fuels,better management of natural resources，and possibly by deploying BECCS. Another strand of literature points to abundant risks in the large-scale development of bioenergy mainly from dedicated energy crops and particularly in reducing the land carbon stock, potentially resulting in net increases in GHG emissions (Smith et al.,2014) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "One interpretation of this divergence is that the first strand of literature emphasizes technological opportunities,such as yield increases, to reduce land use impact, and reap economic opportunities,while the other strand ofliterature investigates environmental dimensions under risk of being harmed (Creutzig,2014).The growing literature exploring sustainable landscape management systems for the provision of biomass and other ecosystem services might gradually come to bridge the gap between these two strands of literature. Not the least,the integration of bioenergy systems into agriculture landscapes has been recognized as a promising option foraddressing environmental impacts associated with current agriculture systems (Clarke et al.，2014; Edenhoferet al.,2014; Smith et al.,2014). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The IPCC report annex on bioenergy also points out that environmental, social and economic consequences of bioenergy deployment are site specific,but remains inconclusive on weighting the consequences across case studies. This review goes beyond the IPCC assessment in providing a comprehensive meta-analysis,demonstrating that case studies evaluated so far tend to see increased economic and employment opportunities, GHG savings from fossil fuel displacement,and infrastructure development, but also risks related to land use change,in particular GHG emissions, food security,soil and water quality, biodiversity,and socially problematic outcomes. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Since the publication of the latest IPCC assessment report，further research on bioenergy has been published,which is in line with the main conclusions of our systematic review.The screening of this literature suggests that case studies mostly emphasize GHG emissions metrics and economic performance (e.g. (Garcia etal.,2015;Mandaloufasetal.,2015))and Dale et al.(2015) point out the importance of appropriate sustainability criteria and indicators.This observation suggests that the systematic bias observed in our survey of case studies can be interpreted as showing that social dimensions have been assigned a lower priority by scientists and policy processes than some environmental and economic dimensions. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "There are limitations to the systematic review presented in this article.First, the complexity of the subject of analysis,such as the high number of potential interactions within the system boundaries and the lack of inclusion ofcriteria foranalysing trans-boundary impacts or trade-offs between specific criteria and scale of the impacts,renders results of models and case studiespartially inconclusive and subject to a priori values of investigators (Tribe et al.,1976).Second,most results inboth cases depend on attributional accounting,which has been argued to be possibly misleading，while consequential accounting,being subject to higher uncertainties,might pro vide more policy-relevant information.This is especially relevant for studiesusing LCA methods(Brandao et al.,2013; Hertwich,2014;Plevin et al., $2 0 1 4 \\mathrm { a } , \\mathrm { b }$ ).Third,we focused on studies published in English only.These limitations should be considered in future studies and analysed using complementaryassessmentmethods. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Overall，we find that comparatively assessing the impacts of bioenergy production on sustainable develop mentusing the available scientific literature isa considerable challenge，but we are able to propose four recommendations for future research: (i) pursue a more stringent use of frameworks and methodologies that attribute impacts of bioenergy production on all development categories,(ii) report context conditions and criteria for attributing development impactstransparently， (ii) improve understanding of impacts of bioenergy production in developing countries with potentially favourable biophysical conditions for bioenergy and (iv) improve understanding of potential sustainable development impacts in different regions of using other bioenergy feedstock than biomass from dedicated plantations (e.g. organic waste and/or agricultural/forestry residues).Addressing these issues is essential for providing a more solid scientific basis for policymaking and governance agreements in the field of bioenergy and sustainable development. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The authors gratefully acknowledge the participation Omar Masera,Richard Plevin,Roberto Schaeffer,Rainer Zah and Jacob Mulugetta during the literature appraisal. Carmenza Robledo-Abad acknowledges support from the Swiss State Secretary of Economic Affairs.Helmut Haberl gratefully acknowledges funding from the Austrian Provision Programme,the Austrian Academy of Sciences (Global Change Programme) and the EU-FP7 project VOLANTE. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Esteve Corbera acknowledges the support of the Spanish Research,Development and Innovation Secretariat through a ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Ramony Cajal' research fellowship (RYC-2010-07183) and of a Marie Curie Career Integration Grant (PCIG09-GA-2011- 294234). Simon Bolwig acknowledges the support of the Innovation Fond Denmark.Alexander Popp acknowledges the support from the European Union's Seventh Framework Program project LUC4C (grant agreement no.603542).Bart Muys acknowledges support from the KLIMOS Acropolis research network on sustainable development funded by VLIR/ARES/ DGD (Belgian Development Aid).Rasmus Klocker Larsen acknowledges funding from the Swedish research council Formas. Carol Hunsberger acknowledges the support of a postdoctoral fellowship from Canada's Social Sciences and HumanitiesResearch Council.John Garcia-Ulloa is supported by the Mercator Foundation Switzerland and the Zurich-Basel Plant Science Center.Johan Lilliestam，Anna Geddes and Susan Hangeracknowledge the support from the European Research Council (ERC) consolidator grant，contract number 313533. Joana Portugal-Pereira acknowledges the support of National Centre of Technological and Scientific Development (CNPq), under the Science Without Borders Programme (no 401164/ 2012-8).Richard Harper acknowledges funding from the Australian Department of Climate Change and Energy Eficiency. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Ackerman F,DeCanio SJ,Howarth RB, Sheeran K (20o9) Limitations of integrated assessment models of climate change. Climatic Change,95,297-315.   \nAllwood JM, Boseti V, Dubash NK,Gómez-EcheverriL, von Stechow C(2014) Glossary. In: Climate Change2O14:Mitigationof Climate Change.Contributionof Working Group II to the FifthAssessment Report of the Intergovernmental Panel on Climate Change (eds Edenhofer O, Pichs-Madruga R,Sokona Y,Farahani E,KadnerS,Seyboth K,AdlerA,Baum I, Brunner S,Eickemeier P,Kriemann B,SavolainenJ,Schlomer S,von Stechow C, Zwickel T,Minx JC),pp.1249-1279. Cambridge University Pres, Cambridge, UK and New York,NY, USA.   \nBartolucci AA,Hillegass WB (2010) Overview,strengths,and limitations of systematic reviews and meta-analyses.In: Euidence-Based Practice: Toward Optimizing Clinical Outcomes (ed.Chiappelli F)，pp.17-33.Springer，Berlin Heidelberg. (ISBN:978-3-642-05024-4).Availableat:htp://link.springer.com/chapter/ 10.1007/978-3-642-05025-1_2 (accessed 05 March 2013).   \nBeringer T,Lucht W,Schaphoff S (2011) Bioenergy production potential of global biomass plantations under environmental and agricultural constraints. Global Change Biology Bioenergy,3,299-312.   \nBrandao M,LevasseurA,KirschbaumMUFet al.(2o13)Key issues and options inaccounting for carbon sequestration and temporary storage in life cycle assessment and carbon footprinting.International Journal ofLife Cycle Assessment,18,230-40.   \nBustamante M,Robledo-Abad C,Harper R et al. (2014) Co-benefits,trade-offs,barriers and policies for greenhouse gas mitigation in the Agriculture,Forestry and Other Land Use (AFOLU) sector.Global Change Biology,20,3270-3290.   \nClarke L, Jiang K,Akimoto K et al. (2014) Assessing transformation pathways.In: Climate Change2O14:MitigationofClimateChange.ContributionofWorkingGroupII to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change (eds Edenhofer O, Pichs-MadrugaR,SokonaY,Farahani E,KadnerS,SeybothK,AdlerA,Baum I Brunner S,EickemeierP,Kriemann B,Savolainen J,SchlomerS,von Stechow C,ZwickelT,Minx JC),pp.413–511.Cambridge UniversityPress,Cambridge, UKand New York,NY, USA.   \nCreutzig F (2014) Economic and ecological views on climate change mitigation with bioenergy and negative emissions. GCB Bioenergy,8,4-10.   \nCreutzig F, Corbera E, Bolwig S,Hunsberger C (2013) Integrating place-specific livelihood and equity outcomes into global assessments of bioenergy deployment. Environmental Research Letters,8,035047.   \nCreutzig F,Ravindranath NH, Berndes G et al.(20l4) Bioenergy and climate change mitigation: an assessment. GCB Bioenergy,7,916-944.   \nDaleVH,EfroymsonRA,KlineKL,DavittMS(O5)Aframework forselecting indicators of bioenergy sustainability.Biofuels,Bioproducts and Biorefining,9,435-446.   \nDauvergne P,Neville KJ (2010) Forests,food,and fuel in the tropics: the uneven social and ecological consequences of the emerging political economy of biofuels. Journal of Peasant Studies,37,631-660.   \nDelucchi MA (201o)Impacts of biofuels on climate change, water use,and land use. In: Year in Ecology and Conseroation Biology 2010 (eds Ostfeld RS,Schlesinger WH), Blackwell, New Jersey.   \nDeLucia EH, Gomez-Casanovas N, Greenberg JA et al. (2014) The theoretical limit to plant productivity.Environmental Science & Technology,48,9471-9477.   \nEdenhofer O,Pichs-Madruga R, Sokona Y et al.(2014) Technical summary. In: Climate Change 2014: Mitigationof ClimateChange.Contribution of Working Group IIl to theFifth Assessment Report of the Intergovernmental Panel on Climate Change (eds Edenhofer O,Pichs-Madruga R, Sokona Y,Farahani E,Kadner S, Seyboth K, AdlerA, Baum I, Brunner S, Eickemeier P,Kriemann B, Savolainen J, Schlomer S, von Stechow C,Zwickel T,Minx JC),pp.33-11.Cambridge University Press, Cambridge,United Kingdom and New York,NY, USA.   \nFinkbeinerM(2013) Indirect Land Use Change (iLUC) within Life Cycle Assssment (LCA)-Scientific Robustness and Consistency with International Standards.Publication of the Association of the German Biofuel Industry,Berlin,Germany.Available at: http://www.fe diol.eu/data/RZ_VDB_0030_Vorstudie_ENG_Komplett.pdf(accessed 10 August 2015).   \nGamborg C,Anker HT,Sandoe P(2014) Ethical and legalchallenges in bioenergy governance: coping with value disagreement and regulatory complexity.Energy Policy, 69,326–333.   \nGarcia CA,Riegelhaupt E,Ghilardi A,Skutsch M,Islas J, Manzini F,Masera O (2015) Sustainable bioenergy options for Mexico: GHG mitigation and costs. RenewableandSustainable Energy Reviews,43,545-552.   \nGerman L,Schoneveld GC,Gumbo D (2011) The Local Social and Environmental Impacts of Smallholder-Based Biofuel Investments in Zambia. Ecology and Society,16,12   \nGregg JS,Smith SJ (2010) Global and regional potential for bioenergy from agriculturaland forestry residue biomass.Mitigation and Adaptation Strategies for Global Change,15,241-262.   \nHaberl H (2015) Competition for land: a sociometabolic perspective.Ecological Economics, 111, 424-431.   \nHaberl H(2016) The growing role of biomassfor future resource supply- prospects and pitfals.In: Sustainability Assessmentof Renewables-Based Products:Methodsand Case Studies (eds DewulfJ,De MeesterS,Alvarenga RAF),pp.1-18. John Wiley and Sons,Ltd.,New Jersey.   \nHaberlH,ErbK-H,KrausmannFetal. (2011)Global bioenergypotentials fromgricultural land in 2050:sensitivity to climate change,diets and yields.Biomas and Bioenergy,35,4753-4769.   \nHaberl H,ErbK-H,KrausmannF,Running S,SearchingerTD,Smith WK(2O3) Bioenergy: how much can we expect for 205o? Environmental Research Letters,8,031004.   \nHejaziMI,VoisinN,LiuLetal.(2O15)2stcenturyUnitedStates emissionsmitigation could increase water stress more than the climatechange itis mitigating. Procedings oftheNationalAcademyofSciencesoftheUnitedStatesofAmerica,112,0635-10640.   \nHertwich E (2014) Understanding the climate mitigation benefits of product systems: comment on “using atributional life cycle assessment to estimate climate-change mitigation...\".JournalofIndustrialEcology,18,464465.   \nHodbod J, Tomei J (2013) Demystifying the Social Impacts of Biofuels at Local Levels: where is the Evidence? Geography Compass,7,478-488.   \nHoogwijk M, Faaij A,de Vries B, Turkenburg W (2009) Exploration of regional and global cost-supply curves of biomass energy from short-rotation crops at abandoned cropland and rest land under four IPCC SRES land-use scenarios. Biomass and Bioenergy,3,6-43.   \nHunsberger C, Bolwig S,Corbera E, Creutzig F(2014) Livelihood impacts of biofuel crop production: implications for governance. Geoforum,54, 248-260.   \nIPCC (2014) Climate Change 2014:Mitigationof Climate Change.Contribution of the WorkingGroup III to the Fifth Assessment Report to the Intergovernmental Panel on Climate Change (eds Edenhofer O,Pichs-Madruga R,Sokona Y,Farahani E,Kadner S,Seyboth K,Adler A,Baum I, Brunner S,Eickemeier P, Kriemann B,Savolainen J,Schlomer S,von Stechow C,Zwickel T,Minx JC) Cambridge University Press,Cambridge,UK and New York,NY,USA.   \nKrausman F,ErbK-,GingrichSetal.13)Globalumanappropriationfet primary production doubled in the2Oth century.Proceedings of the National Academy of SciencesofthenitedStatesofAmerica,10,0324329.   \nLambin EF,Meyfroidt P(2011) Global land use change, economic globalization,and theloomingland scarcity.Procedingsof the NationalAcademyof Sciencesof theUnited Statesofmerica,108,465472.   \nLarsen RK, Jiwan N,Rompas A, Jenito J,Osbeck M, Tarigan A (2014) Towards \"hybrid accountability\" in EU biofuels policy? Community grievances and competing water claims in the Central Kalimantan oil palm sector. Geoforum,54,295-305.   \nLotze-Campen H,von Lampe M,KylePet al.(2014) Impacts of increased bioenergy demand on global food markets: an AgMIP economic model intercomparison. Agricultural Economics,45,103-116.   \nLubowskiRNRoseSK(2013)ThepotentialforED $+ { : }$ key economic modeling insights and issiies.Renie of Environmental Fconomics and Policu.7. 67-90.   \nMandaloufas M, de $\\scriptstyle \\mathrm { Q } ,$ Lamas W,Brown S, Irizarry Quintero A (2015) Energy balance analysis of the Brazilian alcohol for flex fuel production.Renewable and Sustainable Energy Reviews,43,403-414.   \nMendes Souza G,Victoria RL,Joly CA,Vedade L (Eds) (2015) Bioenergy& Sustainability:Bridging the Gaps.SCOPE Scientific Committee on Problems of the Environment,Paris Cedex,France.   \nMunozI, Schmidt JH, Brandao M, Weidema BP(2015) Rebutal to \"Indirect land use change(iLUC) within life cycle assessment (LCA)- scientific robustness and consistency with international standards\".GCB Bioenergy,7,56-66.   \nMuysB(2Ol3)Sustainable Development within Planetary Boundaries:AFunctional RevisionoftheDefinitionBasedontheThermodynamicsofComplexSocial-Ecological Systems. Availableat:http://librelloph.com/ojs/index.php/challengesinsustainability/ article/view/22 (accessed 16 December 2014).   \nNijsen M, Smeets E, Stehfest E,van Vuuren DP (2012) An evaluation of the global potential of bioenergy production on degraded lands. GCB Bioenergy，4,130- 147.   \nOdlare M,Arthurson V,Pell M,Svensson K,Nehrenheim E,AbubakerJ(2011) Land application of organic waste - efects on the soil ecosystem.Applied Energy,88, 2210-2218.   \nPersson UM (2014) The impact of biofuel demand on agricultural commodity prices: asystematic review.Wiley Interdisciplinary Reviews: Energy and Environment,4, 410-428.   \nPetticrew M,Roberts H (2O08) Systematic Reviews in the Social Sciences:A Practical Guide. (ISBN:978-1-4051-2110-1).Available at:http://onlinelibrary.wiley. com/book/10.1002/9780470754887 (accessed 05 March 2013).   \nPlevin RJ, Delucchi MA, Creutzig F(2014a)Using attributional life cycle assessment to estimate climate-change mitigation benefits misleads policy makers. Journal of Industrial Ecology,18,7.   \nPlevin R,Deluchi M, Creutzig F(2014b)Response to commentson “using attributional life cycle assessment to estimate climate-change mitigation...\".Journal of Industrial Ecology,18, 468-470.   \nPopp A,Lotze-Campen H, Leimbach M, Knopf B,Beringer T, Bauer N,Bodirsky B (2011)On sustainability of bioenergy production: integrating co-emissions from agricultural intensification. Biomass and Bioenergy,35,4770-4780.   \nRCore Team (2014) R:A Language and Environment for Statistical Computing.RFoundation for Statistical Computing, Vienna,Austria.   \nRavnborg HM,Larsen RK,Vilsen JL,Funder M (2O13) Environmental Governance and Development Cooperation-Achievements and Challenges.Danish Institute of International Studies, Copenhagen, Denmark.Available at: htps://www.diis.dk/files/ media/publications/import/extra/rp2013-15-environmental-governance_- web_1.pdf (accessed 10 December 2015).   \nScharlemann JPW, Laurence WF (2014) How Green Are Biofuels? Animal Science Blogs.Available at: htp://sites.psu.edu/tetherton/2008/02/28/how-green-arebiofuels/(accessed 19 August 2015).   \nSmeets EMW,Faaij APC (2010)The impact of sustainability criteria on thecosts and potentials of bioenergy production -Applied for case studies in Brazil and Ukraine.BiomassandBioenergy34,19-333.   \nSmeets EMW,Faaij APC,Lewandowski IM,Turkenburg WC (2007) A bottom-up assessmentandvieoflobalbergpotentialstoProgre and Combustion Science,33,56-106.   \nSmith P,Bustamante M,Ahammad H et al.(2014)Agriculture,forestry and other land use (AFOLU).In: ClimateChange 2014:Mitigationof Climate Change.ContributionofWorking Group IItotheFifthAssessmentReport of the Intergovernmental Panel on Climate Change (eds EdenhoferO,Pichs-Madruga R,Sokona Y, Farahani E,Kadner S,Seyboth K,Adler A,Baum I,Brunner S,Eickemeier P, Kriemann B, Savolainen J,Schlomer S,von Stechow C,Zwickel T,Minx JC), pp.811-922. Chapter 11. Cambridge University Press，Cambridge,UK and New York,NY, USA.   \nSneddon C,Howarth RB,Norgaard RB (2006) Sustainable development in a postBrundtland world.Ecological Economics,57,253-268.   \nSorda G,Banse M,Kemfert C (2010)An overview of biofuel policies across the world.Energy Policy,38,6977-6988.   \nvon Stechow C,McCollum D,RiahiKet al. (2015)Integrating global climate hange mitigation goals with other sustainability objectives: a synthesis. Annual Review of Environment and Resources,40,363-394.   \nTilmanD,SocolowR,Foley JA etal.(209)Beneficial biofuels—the food,energy, and environment trilemma. Science,325,270-271.   \nTribe LH,Scheling CS,Voss J (Eds.)(1976)When Values Conflict.Essayson Environmental Analysis,Discourse,and Decision.published for the American Academy of Arts and Science by Ballnger Publishing Co, Cambridge,MA. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Additional Supporting Information may be found in the online version of this article: ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Data S1.Bioenergy production and sustainable development: limited science base for policy making-Protocol.   \nTable S1.Characterization.   \nTable S2. Conditions.   \nTable S3.Potential impacts.   \nTable S4. Possible answers to potential impacts.   \nData S2.Additional results.   \nTable S5.Number of studies per category and impact $( n = 3 1 6 )$ ） Table S6.Positive, negative and neutral impacts.   \nTable S7.Methodological approaches used.   \nTable S8.Methodological approach per impact considered.   \nTable S9.Number of articles per method.   \nTable S10.Cross-analysis potential vs. bioenergy resource.   \nTable S11.Aggregated regional distribution of impacts.   \nTable S12.Country distribution of the impacts considered.   \nData S3.Article selection and data extraction.   \nTable S13.Basic set of articles.   \nTable S14. Appraisal results.   \nTable S15.Set of studies included in the data extraction.   \nTable S16. Data extraction -Characterization.   \nTable S17. Data extraction - Conditions.   \nTable S18.Data extraction -Potential impacts.   \nData S4.Regional distribution of each impact considered in the systematic review.   \nFigure S1.Regional distribution of impacts on energy independence.   \nFigureS2.R aldistributio of impacts on land tenure.   \nFigureS3.R aldistributi npacts on cross-sectoral coordination.   \nFigure S4.R pacts on labour rights.   \nFigure S5.R pacts on participative mechanisms.   \nFigureS6.R pacts on food security.   \nFigure oad on conflicts or social tension.   \nFigure npacts on traditional or indigenous practices.   \nFigure ipactsondisplacementof farmers.   \nFigure S1 distributi of impacts on capacity building.   \nFigureS1 listrib it1 of impacts on women.   \nFigure S12.Re g1c al distribution of impacts on elderlypeople.   \nFigure S13. Regional distribution of impacts on specific ethnic groups.   \nFigure S14.Regional distribution of impacts on health.   \nFigure S15.Regional distribution of impacts on deforestation or forest degradation.   \nFigure S16.Regional distribution of negative impacts of fertilizers on soil and water.   \nFigure S17. Regional distribution of impacts on soil and water.   \nFigure S18.Regional distribution of impacts on biodiversity.   \nFigure S19.Regional distribution of impacts on displacement of activities or land uses.   \nFigure S20.Regional distribution of impacts on direct GHG emission substitution.   \nFigure S21.Regional distribution of impacts on economic activity.   \nFigure S22.Regional distribution of impacts on economic diversification.   \nFigure S23.Regional distribution of impacts on market opportunities.   \nFigure S24. Regional distribution of impacts on feedstock prices.   \nFigure S25.Regional distribution of impacts on concentration of income.   \nFigure S26.Regional distribution of impacts on poverty.   \nFigure S27.Regional distribution of impacts on the use of waste or residues creating socio-economic benefits.   \nFigure S28. Regional distribution of impacts on mid and long-term revenue's certainty.   \nFigure S29.Regional distribution of impacts on employment.   \nFigure S30.Regional distribution of impacts on technology development and transfer.   \nFigure S31. Regional distribution of impacts on infrastructure coverage.   \nFigure S32.Regional distribution of impacts on access to infrastructure.   \nFigure S33.Regional distribution of impacts on labour demand. ",
+        "page_idx": 15
+    }
+]

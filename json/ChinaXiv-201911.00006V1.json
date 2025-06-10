@@ -1,0 +1,681 @@
+[
+    {
+        "type": "text",
+        "text": "计算机动态测验中问题解决过程策略的分析：多水平混合IRT模型的拓展与应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李美娟』4 刘玥²刘红云 2,31（北京教育科学研究院北京教育督导与教育评价研究中心北京 100036)2（北京师范大学心理学部 北京 100875）（北京师范大学心理学部应用实验心理北京市重点实验室 北京 100875)4（北京师范大学中国基础教育质量监测协同创新中心北京 100875)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[目的]基于过程性数据，将MMixIRT模型进行拓展，以分析学生在问题解决过程中的不同策略。  \n[方法]拓展模型一方面将步骤的累计信息作为特定步骤的过程数据，另一方面定义更加自由的设计矩阵决定个体层面能力估计所用到的信息。  \n结果拓展模型不仅可以在过程水平对不同国家（地区）学生在解决问题时策略使用情况的典型特征进行分析，还可以提供个体水平的能力估计值。  \n[局限]模型使用前提需要将过程性数据编码为类似本研究中的数据结构，实际中并不是所有任务都能实现这样的编码转换。  \n[结论]拓展模型可用于分析过程性数据的特征。  \n关键词：计算机动态测验；问题解决过程策略；过程性数据；拓展的多水平混合IRT模型分类号：B841",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Analysis of the Problem-Solving Strategies in Computerbased Dynamic Assessment: the Extension and Application of ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Multilevel Mixture IRT Model ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Li Meijuan1,4 Liu Yue² Liu Hongyun2.3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 (Educational Supervision and Quality Assessment Research Center， Bei jing Academy of Educational Sciences，Bei jing 10oo36，China) ² (Faculty of Psychology， Bei jing Normal University， Beijing 100875， China) ³(Beijing Key Laboratory of Applied Experimental Psychology， Faculty of Psychology，Beijing Normal University，Bei jing 100875，China) 4(Collaborative Innovation Center of Assessment toward Basic Education Quality, Beijing Normal University，Bei jing 100875， China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Objective] This research proposed an extended Multilevel Mixture IRT (MMixIRT) model to detect and interpret the problem-solving strategies. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Methods] The extended model takes the accumulated response information as the specific steps at the process level and defines a more free matrix to determine the weight information used for ability estimation at the student level. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "[Results]The extended model not only can analyze the typical characteristics of students’ strategy in problem-solving across different countries at the process level，but also provide ability estimates at the students’ level. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "[Limitations] In terms of the generalizability of the extended model， if the process data for another task can be recoded as the data file in this study, similar models can be applied. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "[Conclusions]The extended model can analyze response data at process and student levels. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Computer-based Dynamic assessment;Problem-solving strategy; Process data; the extended MMixIRT model ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "问题解决能力是指在没有清晰解决方法的情境下，通过一系列认知过程来理解和解决问题的能力（Mayer，1982）[1]。在这个过程中，问题解决者必须充分理解问题的核心，设计可行方案并实施，且能够控制进度并达到目标（Garofalo&Lester，1985）「2]。问题解决能力对于学习和取得成功非常重要，很多全球范围的大型教育测评项目都将其作为评价的重点。例如，国际学生测评项目(Programme for International Student Assessment， PISA）（OECD， 2003,2013）[3][4]等。近年来，信息技术的进步和计算机测验领域的研究为问题解决能力提供了全新的测评方式。如2012年PISA采用计算机动态测验的方式，通过模拟真实生活情境中的问题来考察学生的问题解决能力，关注在没有明确解决方案的情况下学生运用一般认知过程的特征（OECD，2013）[4]，强调问题解决过程的动态变化和互动特征（Funke，2001）[5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "计算机的测验不仅可改变测验设计、施测方式，甚至可以改变数据分析的方法（DiCerbo& Behrens，2012）[6]。不仅可以考察学生是否正确作答，而且可以通过系统自动记录基于时间的行为序列（Kerr，Chung，&Iseli，2011）[7]，记录学生解决问题过程中的时间以及学生完成任务的系列行为，称为过程性数据（processdata）（Zoanetti，2010）[8]。基于过程性数据不仅可以分析挖掘学生的解题过程策略，同时也可以作为问题解决能力评价的证据（DiCerbo& Behrens,2012）[6]。例如，Greiff，Wustenberg 和Avvisati（2015）[9]基于PISA2012《室温控制》任务的过程性数据，发现一次只改变一个操作变量的策略不仅能预测学生在该题上的表现，也能预测问题解决总成绩。近年来，随着测量理论和统计技术的发展，问题解决过程及其技能和策略的探讨越来越被重视。其中一类是通过对该题目所需技能（或属性）进行标定，基于一定的测量模型对解决问题过程的策略特点进行分析。最具代表性的方法是认知诊断模型的评估。如dela Torre和 Douglas（2004）[10]采用高阶潜在结构模型，对学生能力进行估计，并基于学生的认知属性掌握模式对其认知特征进行分类。另一类是借助统计模型和数据挖掘的思想，对过程数据蕴含的丰富信息进行分析。常用的方法有可视化分析方法（DiCerbo，Liu，Rutstein，Choi，& Behrens，2011）[]、聚类分析方法（Bergner，Shu，& von Davier，2014）[2]和分类分析方法（Desmarais& Baker,2012)[13]。最近，也有学者（Shu，Bergner，Zhu，Hao，& von Davier，2017）",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "[14]结合隐马尔科夫模型（Hidden Markov Model）和项目反应模型，分析过程性数据中的序列作答信息，从而估计学生的能力。本研究探讨的方法属于第二类，即基于过程数据分析学生在解决问题过程中的不同策略，同时基于任务提交状态的信息进行能力估计。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "过程性数据具有嵌套结构，每个学生完成任务过程产生的行为序列（即，过程水平的数据）嵌套于学生个体。因此，可以借鉴多水平框架下的模型来分析过程性数据（Goldstein，1987）[5]。多水平混合项目反应理论模型（MultilevelMixtureItem ResponseTheory，MMixIRT）将多水平模型和混合项目反应理论模型相结合，不仅可以提高模型参数估计的精确性，同时可以获得不同潜在类别群体的测量特征（Cho&Cohen，2010）[16]。对于两水平的数据，MMixIRT 可以在第一水平和第二水平进行非连续潜在变量（潜在类别）和连续潜在变量（能力)的分析，第一水平的潜类别分析主要基于被试作答反应之间的关系，第二水平的潜类别分析主要基于组内被试作答反应之间的关系（Vermunt，2003）[17]。虽然MMixIRT为分析嵌套数据和类别特征提供了思路，但是如果直接处理过程数据，可能会带来两个问题：（1）过程中的一个步骤仅反映了被试在这一时间点的一次操作或行为表现，不满足模型关于不同时间点的测量都是某一特质在这一时刻表现的假设。（2）采用问题解决的所有过程数据估计被试个体能力，会带来问题解决不同阶段或不同步骤所测量特质的不统一而导致的估计值的偏差和解释上的困难。因此，传统的MMixIRT模型在模型假设和潜变量意义的解释上并不适用于过程性数据，如何借助该模型的思想使其适用于处理过程数据是拓展模型拟解决的问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "国际上已经有越来越多的研究关注过程性数据的挖掘，分析不同群体学生解决问题的典型特征（Qiao&Jiao，2018；Liao，He，& Jiao，2019）[18l[i9]，但是大多数研究只采用了学生作答的部分信息，或者只关注类别而忽略了能力估计。很少有研究基于过程数据的嵌套特点，同时关注问题解决策略类别，以及个体层面信息所反映的问题解决能力水平。本研究以PISA2012中一道问题解决题目为例，基于五个国家（或地区，以下简称地区）学生问题解决的过程性数据，将MMixIRT模型进行拓展，并使用拓展后的MMixIRT模型分析学生在问题解决过程中的不同策略，以及估计个体水平能力，同时也对各地区使用策略的特点进行总结和比较。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2拓展的MMixIRT模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "传统MMixIRT模型的定义和详细介绍参见（Cho& Cohen，2010）「5的研究。本研究对传统的MMixIRT模型做了两方面的修改和拓展。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "首先，为体现问题解决任务过程中行为序列连续性的特点，将步骤的累计信息作为特定步骤的过程数据。可以表示为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { Y _ { j k i } = \\sum _ { t = 1 } ^ { j } w _ { t } y _ { t k i } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $y _ { t k i }$ 为第 $k$ 个学生 $t$ 时间点在 $\\mathbf { \\nabla } _ { j }$ 得分点(类似于后面交通题目中的路径)上的操作行为。传统的MMixIRT模型是直接对 $y _ { t k i }$ 建模，而拓展的MMixIRT模型是对累计反应 $Y _ { j k i }$ 进行建模。如果时间 $t { = } j ,$ ， $w _ { t } = 1$ ，否则 $w _ { t } = 0$ ，则变为传统的MMixIRT模型。结合测试题目和过程数据的特点，采用累积反应作答作为过程 $j$ 的反应作答，即如果 $t \\leq j$ ，则 $w _ { t } = 1$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其次，为使得过程水平和个体水平变异的分解更加灵活，定义设计矩阵A分解过程层面和个体层面的变异，其中第 $j$ 行 $A _ { j }$ 用来定义过程数据不同层面潜变量的分解权重。拓展模型可以表示为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { j k i } = A _ { j } \\binom { Y _ { j k i } ^ { ( w ) } } { Y _ { k i } ^ { ( B ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在传统的 MMixIRT 模型中， $Y _ { j k i } = Y _ { j k i } ^ { ( w ) } + Y _ { k i } ^ { ( B ) }$ ，即将 $Y _ { j k i }$ 的变异分解为第一水平（组内 $Y _ { j k i } ^ { ( w ) }$ ）和第二水平（组间 $Y _ { k i } ^ { ( B ) }$ ）两部分。如果对任意的 $j$ ，设计矩阵 $A _ { j } =$ (1,1)，则是传统的MMixIRT模型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "传统模型是拓展模型的特例。拓展模型和传统模型的区别主要表现在以下两个方面：（1）过程水平每一步骤的潜在类别是前面各个步骤的累积状态，而不是这一个步骤的表现，描述累积状态不仅可以更好地解释解题过程策略的使用，而且可以为探索策略使用的连续性和转换提供依据；（2）个体水平潜变量的定义所采用的测量指标与传统的MMixIRT模型不同。传统模型中，个体水平的潜变量是由第一水平的观测变量［yjkl，．．．，yjki，·．．， $y _ { j k l } ]$ 估计得到（Lee，Cho,& Sterba，2017）[20]，而拓展模型中可以定义更加自由的设计矩阵 $A$ 决定个体层面能力估计所用到的信息。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3本研究使用的拓展MMixIRT模型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "拓展的MMixIRT模型比较灵活，可以在第一水平和第二水平模型中结合实际研究关注的重点定义不同的模型。结合过程数据的特点，本研究主要关注学生在问题解决过程解题策略的差异和最终状态体现出个体能力的差异，因此，本研究使用的模型也是上述拓展模型的特例。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1模型定义",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究使用的拓展MMixIRT模型包含两个水平：过程水平和个体水平。在过程水平，定义潜类别来描述不同步骤的异质性，从而对不同策略进行分类；在个体水平，定义连续潜变量来估计个体的能力。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "过程水平模型：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { P \\big ( Y _ { j k 1 } = S _ { 1 } , ~ . . . , Y _ { j k l } = S _ { I } \\big ) = \\sum _ { g = 1 } ^ { G } P ( C _ { j k } = g , ) P \\big ( Y _ { j k 1 } = S _ { 1 } , . . . , Y _ { j k l } = S _ { I } \\big | C _ { j k } = g \\big ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$P \\left( Y _ { j k 1 } = S _ { 1 } , \\quad \\dots , Y _ { j k I } = S _ { I } \\right)$ 表示第 $k$ 个学生 $( k { = } I , . . . , K$ 在第 $j$ 个步骤 $( j { = } I , \\ldots J _ { k }$ $J _ { k }$ 表示学生 $k$ 的步骤总数）后，得分点上的作答状态为 $( S _ { I } , . . . , S _ { I } )$ ）的概率（需要注意的是，每个学生完成任务所使用的步骤数 $J _ { k }$ 是不同的)；其中 $P ( C _ { j k } = g )$ 表示第 $k$ 个学生的第 $j$ 个步骤属于潜在类别 $g$ 的概率 $( g { = } 1 , 2 , . . . , G )$ ， $G$ 为潜在类别数。$P \\big ( Y _ { j k 1 } = \\mathsf { S } _ { 1 } , \\ldots , Y _ { j k I } = \\mathsf { S } _ { I } \\big | C _ { j k } = g \\big )$ 表示第 $k$ 个学生的第 $j$ 个步骤属于潜在类别 $g$ 的条件下，前面 $j$ 个步骤的累积作答状态为 $( S _ { I } , . . . , S _ { I } )$ 的条件概率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "个体水平模型：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { P ( y _ { k i } = 1 | \\theta _ { k } ) = \\frac { \\exp ( \\alpha _ { i } \\theta _ { k } - \\beta _ { i } k ) } { 1 + \\exp ( \\alpha _ { i } \\theta _ { k } - \\beta _ { i } ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "个体水平模型表示基于学生最终作答状态对个体水平的能力进行估计，对应的设计矩阵 $A$ 为：如果 $j$ 为被试最后一次提交状态的作答，则 $A _ { j } = ( 1 , 1 )$ ，否则$A _ { j } = ( 1 , 0 )$ 。在个体水平模型中， $y _ { k i }$ 表示第 $k$ 个学生在第 $i$ 得分点上的作答。 $a _ { i }$ 表示第 $i$ 得分点的区分度参数， $\\beta _ { i }$ 表示第 $i$ 得分点的难度参数 $( i { = } 1 , 2 , \\ \\ldots , \\ I )$ ， $\\theta _ { k }$ 表示基于过程中最后一个步骤估计得到的学生 $k$ 的能力估计值。假设 $\\theta _ { k }$ 服从标准正态分布 $( \\theta _ { k } { \\sim } N ( O , \\textit { \\textbf { 1 } } ) )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0e41a791451f50adc212c5ad41022667baf5c32aed3878fb98f933f9cfae0bb.jpg",
+        "img_caption": [
+            "图1本研究使用的MMixIRT模型示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图1表示本研究使用的拓展MMixIRT模型的基本结构。图中的方框表示学生在过程中的作答反应，圆形表示潜变量，三角形中的1表示元素均为1的常数向量（这一常数向量的系数对应截距参数 $\\beta _ { i }$ ，即传统 IRT 模型中的难度参数)。其中，对于过程水平， $C _ { j k }$ 是分类潜变量，对于个体水平， $\\theta _ { k }$ 是连续潜变量。在过程水平，学生k在第j个步骤上对所有路径的作答［yjkl，．．．，yjki，．．．，$y _ { j k l } ]$ 可以由分类潜变量 $C _ { j k }$ 解释；在个体水平，学生对所有路径的最终作答（20 $\\left[ { { y } _ { k l } } , \\right.$ ．．．，yki，．．．， $y _ { k l } ]$ 可以由连续潜变量 $\\theta _ { \\boldsymbol { k } }$ 解释。根据方程(4)，在个体水平中，从连续潜变量 $\\theta _ { k }$ 指向每条路径反应状态的箭头描述了能力 $\\theta _ { k }$ 的变化对选择这条路径概率的影响，对应于区分度参数 $( \\textbf { \\em a } _ { i } )$ ，而从三角形指向每条路径的箭头表示 $\\theta _ { k }$ 为0时，这条路径的选择概率，对应于传统IRT模型的难度参数（20号 $( \\beta _ { i } )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2参数估计的返真性与分类准确性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用MonteCarlo模拟研究对本研究所采用的模型参数估计的返真性和分类准确性进行了检验。设计考虑2个影响因素：（1）过程水平的潜类别数（3个，5个）；（2）个体完成任务的过程步骤数（30步，50步），共 $2 \\times 2 { = } 4$ 种实验条件。使用R 语言自编程序，基于拓展MMixIRT模型产生每种条件下的反应数据。其中 $\\alpha _ { i } { \\sim } U ( 1 , 2 . 5 )$ ， $\\beta _ { i } { \\sim } N ( 0 , 1 )$ ， $\\theta _ { k } { \\sim } N ( 0 , 1 )$ （Wang，Xu，Shang，& Kuncel，2018）[21]，不同类别的反应概率参照Nylund，Asparouhov和Muthen（2007）[22]的研究，不同条件下各类别所占比例和题目（路径）答对概率真值见附录1。每种条件下假设所有个体的过程步骤数相等，其中最后一个步骤就是个体的最终作答状态，用于估计个体水平的能力。每种条件下被试数固定为600人，数据重复模拟100次。使用 Mplus7.11软件（Muthén& Muthén，2005）[23]估计模型的参数。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "结果表明，各参数返真性较好，表现在各参数偏差都很小，区分度参数均方误差（RMSE）在0.2左右，难度参数RMSE在0.1以下，能力参数RMSE在0.3左右。各条件下模型分类结果的准确性较高，均在 $9 6 \\%$ 以上。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4数据分析 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1题目",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究使用的是PISA2012问题解决测验中一道交通问题的题目(TrafficCPO07Q02)：地图上标明了每条路径所需的时间，要求学生找到从Diamond到Einstein的最快路径。正确的最短路径需用时31min，题目描述和路径标识如图2所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "TRAFFIC ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "HereisamapofasystemofroadsthatlinksthesuburbswithinacityTemapshowsthetraveltimeinminutesat7:00amoneachsection froadYoucanaddaroadtoyouroutebyickingonit.ClickingonaroadhighlightstheroadandaddsthetimetotheTotalTimebox. Youcanremovearoadfromyouroutebyclickingonitagain.YoucanusetheRESETbutontoremovealroadsfromyourroute. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Question:TRAFFIC MariawantstotravelfromDiamondtoEinstein.Thequickestroutetakes31minutes.Highlightthisroute. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/049ed310ed3c7a822f88dcd6520d20f8baf9179c193d467fd03d78e8cd46eff7.jpg",
+        "img_caption": [
+            "图2PISA2012交通问题题目及其正确路径"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "SUBMIT ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "注：地图上两个节点之间的路线为一条路径，标蓝的路径为正确路径。 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2过程性数据编码",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "上述过程性数据来源于data source:http://www.oecd.org/pisa/data/。首先，筛选与有效路径点击有关的信息。然后，将“路径选择的情况”按照不同路径进行拆分，获得 23条路径（P1，P2，P3…，P23）的点击结果。表1是整理后的数据格式示例，每一行代表一个学生作答过程中的一个步骤，每一列代表一条路径。其中，0表示未选择，1表示选择。例如，第一行表示编号为00017的学生在第1 步选择 P2，第二行表示第2步选择P1，第三行表示第3 步选择P13，…，第八行表示第8步取消P1…",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/c717d5de50fc1a12fea6ad77d98f385ec0d8bc8dd616558494ef654df2f39ba7.jpg",
+        "table_caption": [
+            "表1整理后的过程性数据举例"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号</td><td>学生编号</td><td>路径选择</td><td>P1</td><td>P2</td><td>：</td><td>P13</td><td></td><td>P18</td><td>：</td><td>P23</td></tr><tr><td>1</td><td>00017</td><td>01000000000000000000000</td><td>0</td><td>1</td><td></td><td>0</td><td></td><td>0</td><td>：</td><td>0</td></tr><tr><td>2</td><td>00017</td><td>11000000000000000000000</td><td>1</td><td>1</td><td>：</td><td>0</td><td>：</td><td>0</td><td>：</td><td>0</td></tr><tr><td>3</td><td>00017</td><td>11000000000010000000000</td><td>1</td><td>1</td><td>：</td><td>1</td><td>：</td><td>0</td><td>：</td><td>0</td></tr><tr><td>4</td><td>00017</td><td>11000000000010000100000</td><td>1</td><td>1</td><td></td><td>1</td><td>：</td><td>1</td><td>：</td><td>0</td></tr><tr><td>5</td><td>00017</td><td>11000000010010000100000</td><td>1</td><td>1</td><td>：</td><td>1</td><td>：</td><td>1</td><td>：</td><td>0</td></tr><tr><td>6</td><td>00017</td><td>11000000010010000101000</td><td>1</td><td>1</td><td>：</td><td>1</td><td>：</td><td>1</td><td>：</td><td>0</td></tr><tr><td>7</td><td>00017</td><td>11000000010000000101000</td><td>1</td><td>1</td><td>：</td><td>0</td><td>：</td><td>1</td><td>：</td><td>0</td></tr><tr><td>8</td><td>00017</td><td>01000000010000000101000</td><td>0</td><td>1</td><td>…</td><td>0</td><td>…</td><td>1</td><td>…</td><td>0</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "之后按照答案重新计分。与传统试卷分析中的题目类似，表1中的P1，P2，P3 等23个变量代表 23 条路径。正确路径为：Diamond-Nowhere-Sakharov-Market-Lee-Mandela-Einstein，即P1，P5，P7，P8，P13和P17。对于过程中的每一步作答，如果学生选择正确路径，则该路径计分为1，否则计分为0,同理，如果选择了错误路径，则该路径计分为0，否则计分为1。编码后的23个变量命名为“CP1，CP2，CP3，，CP23”。表2呈现了编码后的数据格式示例。例如，第一行表示编号为00017的学生在第一步选择P2，P2为错误路径；第二行表示第2步选择P1，P1为正确路径等。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/36737c38bc2d60f3a408b3108498d1fdaa0e1b08bec42b349ad91bd180f769fb.jpg",
+        "table_caption": [
+            "表2编码后的过程性数据举例"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号</td><td>学生编号</td><td>路径选择</td><td>CP1</td><td>CP2</td><td>：</td><td>CP13</td><td></td><td>CP18</td><td>：</td><td>CP23</td></tr><tr><td>1</td><td>00017</td><td>01000000000000000000000</td><td>0</td><td>0</td><td></td><td>0</td><td></td><td>1</td><td>：</td><td>1</td></tr><tr><td>2</td><td>00017</td><td>11000000000000000000000</td><td>1</td><td>0</td><td></td><td>0</td><td>：</td><td>1</td><td>:</td><td>1</td></tr><tr><td>3</td><td>00017</td><td>11000000000010000000000</td><td>1</td><td>0</td><td>：</td><td>1</td><td>：</td><td>1</td><td>：</td><td>1</td></tr><tr><td>4</td><td>00017</td><td>11000000000010000100000</td><td>1</td><td>0</td><td>：</td><td>1</td><td>：</td><td>0</td><td>：</td><td>1</td></tr><tr><td>5</td><td>00017</td><td>11000000010010000100000</td><td>1</td><td>0</td><td>：</td><td>1</td><td>：</td><td>0</td><td>：</td><td>1</td></tr><tr><td>6</td><td>00017</td><td>11000000010010000101000</td><td>1</td><td>0</td><td>：</td><td>1</td><td>：</td><td>0</td><td>：</td><td>1</td></tr><tr><td>7</td><td>00017</td><td>11000000010000000101000</td><td>1</td><td>0</td><td>：</td><td>0</td><td>：</td><td>0</td><td></td><td>1</td></tr><tr><td>8</td><td>00017</td><td>01000000010000000101000</td><td>0</td><td>0</td><td>…</td><td>0</td><td></td><td>0</td><td></td><td>1</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.3样本",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究样本来自PISA2012 问题解决测验中五个地区的3196 名15 岁学生。其中加拿大、中国香港、中国上海、新加坡和美国的样本量分别为1449、433、411、456、406。五个地区共有139990条过程步骤，学生的平均步骤数为43.80（ $\\mathrm { S D { = } 3 8 . 0 6 } ^ { \\cdot }$ )，其中最小值为1，最大值为335。学生作答的平均反应时为669.22s（204 $\\mathrm { ( S D { = } 5 4 3 . 1 2 s ) }$ ，其中最小值为10.7s，最大值为2384.7s。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.4数据分析方法",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "采用拓展MMixIRT模型，使用Mplus7.11软件对策略类别和个体能力进行估计。采用关联规则挖掘探讨不同策略类别之间的关联。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "关联规则挖掘的目的如下：若两个或多个变量之间存在某种规律性，则它们之间存在关联，关联规则挖掘就是寻找同一时间中不同出现项的相关性，以求从大量的数据中抽取出隐含的信息。Apriori算法是一种常用的挖掘关联规则的频繁项集的算法，其基本思想是从包含一个项的频繁项集开始，递归地产生具有两个项的频繁项集，然后依次递归，直到产生所有的频繁项集(Peter，2013)[24]。本研究基于 SPMF 平台采用Apriori算法进一步分析学生问题解决策略之间的关系。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.5变量",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "使用学生问题解决过程中与作答时间有关的三个变量（路径点击数、重设数量、反应时）与模型估计结果的相关进一步验证模型估计结果的效度。其中，路径点击数表示学生点击路径的数量；重设数量表示学生取消前面所有路径点击状态，重新开始做题的次数；反应时表示学生完成任务所用的时间。同时，研究还选取了耗时与正确作答时间的差异，表示最后提交状态所选路径耗时与正确作答时间（31min）差值的绝对值。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5结果",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.1模型选择 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对于拓展的MMixIRT模型的分析，首先需要结合模型的拟合指标和潜在类别的可解释性（Rosato& Baer，2012）[25]确定分类的个数。表3给出五个地区数据同时估计得到的类别数为 $1 ^ { \\sim } 7$ 的模型拟合指标。采用的拟合指标包括loglikelihood、AIC（Akaike，1974）[26]、BIC（Schwarz，1978）[27]、aBIC（Tofighi& Enders，2008）[28]和熵（Asparouhov& Muthén，2014）[29]。其中，前4个指标越小表示模型和数据拟合越好，熵是用来测量混合模型区分各潜在类别的程度的指标，该指标越接近1表示类别区分越好。从结果可以看出，潜类别数量越多，模型拟合越好。但是，在7个类别的情况下，有2个类别的路径无法构成从起点到终点的完整路线。在6个类别的情况下，有1个类别的路径无法构成完整路线。因此，结合拟合指标的结果和类别的可解释性，最终选择5个潜类别的结果。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/dad3bb8f55fb4d49cfe2f1d110f5863b02c51ee482c75043583d69b693d22fb7.jpg",
+        "table_caption": [
+            "表3模型拟合指标结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>潜类别数</td><td>自由估计 参数数量</td><td>Loglikelihood</td><td>AIC</td><td>BIC</td><td>aBIC</td><td>熵</td></tr><tr><td>1</td><td>69</td><td>- 1249381. 591</td><td>2498901. 183</td><td>2499580.786</td><td>2499361.502</td><td>一</td></tr><tr><td>2</td><td>93</td><td>- 1042231. 477</td><td>2084648.954</td><td>2085564.941</td><td>2085269.384</td><td>0.927</td></tr><tr><td>3</td><td>117</td><td>- 983675.008</td><td>1967584. 017</td><td>1968736.388</td><td>1968364. 557</td><td>0.935</td></tr><tr><td>4</td><td>141</td><td>- 932442.034</td><td>1865166.068</td><td>1866554.823</td><td>1866106.720</td><td>0.930</td></tr><tr><td>5</td><td>165</td><td>- 902308.165</td><td>1804946.330</td><td>1806571. 468</td><td>1806047.092</td><td>0.935</td></tr><tr><td>6</td><td>189</td><td>- 873709.569</td><td>1747797. 138</td><td>1749658. 661</td><td>1749058.012</td><td>0.943</td></tr><tr><td>7</td><td>340</td><td>- 856672.635</td><td>1713771. 269</td><td>1715869.176</td><td>1715192.253</td><td>0.943</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.2策略类别特征及其与个体能力水平关系",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "拓展的MMixIRT模型可以将学生每一步过程操作后所处的状态分为5类，各潜类别点击各路径的次数见附录2。分析各类别选择频率最高的路径以及路径之间的关联，可以形成这一类别的典型路径。各类别所选典型路线以及顺序如图3所示，其中图中带圈的数字表示路径的顺序，每个类别代表一种解决问题策略。因为学生的每次操作行为存在关联，所以每次操作行为所属的类别也存在联系。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "如果相邻两步操作所属类别不同，则学生使用的策略发生变化，即存在策略转移。学生最后使用的策略与能力值有很高的相关，如果使用正确策略，则会正确作答题目，使用错误策略，则会错误作答题目，但是使用不同的错误类型策略，能力值不同。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/44115f4eab0806286e2be016bbff9970ceec33f73856ccae4471f59504a20699.jpg",
+        "img_caption": [
+            "策略1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/65a62ba54fd5fd251ad79b5c249beded1a377c5e177134c0d002d0b508802e33.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/2804fe6401f7853e9bbb33f596134f146fe72d0cc5e5a55fb3f5a2c3916d7cd8.jpg",
+        "img_caption": [
+            "策略2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/d266ead95f87a72ceb1291116bb9d6f900b598a2c62725438d69fe513bfb2e83.jpg",
+        "img_caption": [
+            "策略3 ",
+            "策略4 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/ebbc58b1574c9860bb004969d17f054fc3bb30f59061a5962ed16ba82ceec970.jpg",
+        "img_caption": [
+            "图3各策略选择路径情况"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "鉴于策略转移的存在，我们将每个学生最后一步属于的策略作为其最终的策略，分析不同策略下对应的能力估计值平均值，得到5个策略对应的能力平均值分别为－0.714、",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "-1.281、-0.714、0.399 和－0.714。结合图3可以看出，策略4与正确路径相同，用时为31min，个体的能力值也最高，说明这是正确的策略；策略2所选路线是最远的路线，与正确路径完全没有重合，用时为35或36min，与正确路径作答时间差异最大，个体的能力值最低，说明这是最差的策略；策略1、3、5 与正确路径有部分重合，这些策略虽然选择了不同的路径，错误类型不一致，但是其个体的能力值相等，说明这些策略在优劣程度上差异不大。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/2871b61c918849c733003210dfbdbab6f0e689bd3bb9dd53d7bd853aa351869f.jpg",
+        "table_caption": [
+            "表4各地区学生解题最后一步所用策略分布比例 $( \\% )$ "
+        ],
+        "table_footnote": [
+            "注：正确组学生最后一步使用的策略均为策略4，因此表中不再详细呈现。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">策略</td><td colspan=\"2\">加拿大</td><td colspan=\"2\">中国香港</td><td colspan=\"2\">中国上海</td><td colspan=\"2\">新加坡</td><td colspan=\"2\">美国</td></tr><tr><td>总体</td><td>错误组</td><td>总体</td><td>错误组</td><td>总体</td><td>错误组</td><td>总体</td><td>错误组</td><td>总体</td><td>错误组</td></tr><tr><td>策略1</td><td>5.9</td><td>25.6</td><td>6.9</td><td>32.3</td><td>4.9</td><td>21.5</td><td>3.5</td><td>19.0</td><td>7.9</td><td>32.3</td></tr><tr><td>策略2</td><td>3.0</td><td>12.8</td><td>3.2</td><td>15.1</td><td>2.2</td><td>9.7</td><td>2.2</td><td>11.9</td><td>3.7</td><td>15.2</td></tr><tr><td>策略3</td><td>7.6</td><td>32.8</td><td>6.9</td><td>32.3</td><td>8.3</td><td>36.6</td><td>6.1</td><td>33.3</td><td>6.2</td><td>25.3</td></tr><tr><td>策略4</td><td>77. 1</td><td>0.9</td><td>78.5</td><td>0.0</td><td>77. 6</td><td>1.1</td><td>81.6</td><td>0.0</td><td>75.6</td><td>0.0</td></tr><tr><td>策略5</td><td>6.4</td><td>27.9</td><td>4.4</td><td>20.4</td><td>7.1</td><td>31.2</td><td>6.6</td><td>35.7</td><td>6.7</td><td>27.3</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表4呈现了各地区学生在这道题目上最后一步所用策略的分布情况。可以看出，最后一步为策略4（正确路径）的学生比例最高，为策略2（能力最低）的学生比例最低。从不同地区来看，新加坡学生在最后一步上使用策略4的学生比例为 $8 1 . 6 \\%$ ，略高于其他地区，说明新加坡学生在这道题上表现最好，而美国学生在最后一步上使用策略4的学生比例为 $7 5 . 6 \\%$ ，略低于其他地区，而最后一步采用策略2的比例都高于其他地区，说明美国学生表现相对较差，这与个体能力水平估计的均值结果是一致的。另外，不同地区错误组学生在最后一步使用的策略上呈现出不同的特点。例如，加拿大学生较多使用策略3，新加坡和中国上海学生较多使用策略5和3，而美国学生较多使用策略1，中国香港学生较多使用策略1和3。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5.3策略应用情况 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "为了探讨过程数据中策略的变换，研究将学生在过程中连续使用某种策略3次或以上定义为明显使用了该种典型策略。在描述策略转换中只记录了不同策略之间的转换，如果转换过程中同样的策略出现了多次，只记录最后一次转换。表5呈现了各地区正确组和错误组学生在解题过程中应用策略数的情况。总体来看，正确组学生在解题过程中应用策略数为4和5的情况最多。正确组学生中应用5种策略的人数比例明显大于错误组。说明在正确组中，有接近三分之一的学生是通过尝试所有5种策略才找到正确路线。而错误组有超过三分之一的学生尝试了4种策略即停止作答，提交了错误的路线。从各地区比较来看，新加坡和美国正确组应用5种策略的学生比例低于其他地区，其中美国最低。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/ef1c2591e15093add45aacb6c5c2f68cc61f7b676c12d9dc0a8ec124e81f5f9a.jpg",
+        "table_caption": [
+            "表5各地区问题解决过程应用策略数分布比例 $( \\% )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">应用 策略数</td><td colspan=\"2\">加拿大</td><td colspan=\"2\">中国香港</td><td colspan=\"2\">中国上海</td><td colspan=\"2\">新加坡</td><td colspan=\"2\">美国</td></tr><tr><td>正确 组</td><td>错误组</td><td>正确 组</td><td>错误 组</td><td>正确 组</td><td>错误 组</td><td>正确 组</td><td>错误 组</td><td>正确 组</td><td>错误 组</td></tr><tr><td>0</td><td>/</td><td>7.6</td><td>/</td><td>6.5</td><td>/</td><td>5.4</td><td>/</td><td>7.1</td><td>/</td><td>4.0</td></tr><tr><td>1</td><td>7.2</td><td>19.5</td><td>9.1</td><td>17.2</td><td>8.8</td><td>25.8</td><td>8.3</td><td>22.6</td><td>10.1</td><td>21.2</td></tr><tr><td>2</td><td>17.4</td><td>14.0</td><td>18.2</td><td>15.1</td><td>15.1</td><td>15.1</td><td>21.0</td><td>9.5</td><td>18.6</td><td>19.2</td></tr><tr><td>3</td><td>19.8</td><td>17.7</td><td>19.1</td><td>16.1</td><td>17.9</td><td>10.8</td><td>19.6</td><td>20.2</td><td>20.5</td><td>18.2</td></tr><tr><td>4</td><td>23.2</td><td>36.6</td><td>22.4</td><td>37.6</td><td>26.4</td><td>33.3</td><td>23.9</td><td>35.7</td><td>27.0</td><td>35.4</td></tr><tr><td>5</td><td>32.4</td><td>4.7</td><td>31.2</td><td>7.5</td><td>31.8</td><td>9.7</td><td>27.2</td><td>4.8</td><td>23.8</td><td>2.0</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "为了进一步分析策略之间的关系，表6和表7呈现了Apriori算法的关联分析结果。频繁项集指频繁同时出现的两种策略，频次表示这两种策略同时出现的次数。置信度是指包含前项和后项的事务个数在包含前项的事务总数中的比例。例如， $5 \\mathrm { = } \\mathrm { = } \\mathrm { > } 1$ 表示同时使用策略1和策略5的学生人数占使用策略5学生人数的比例。根据表9结果可以看出，在正确组学生的策略使用规则中，策略3和5，策略3和4，策略2和5，策略1和5具有较强的关联关系。例如，对于使用策略5的学生来说，同时使用策略3的概率为0.51。与正确组学生不同的是，错误组学生的策略使用规则中，策略3和4存在较弱的关联，即错误组学生能够将策略3转换到使用正确策略4的概率较低。另外，对于使用策略5的学生来说，使用策略3的概率明显低于正确组学生。根据表7可以看出，各地区正确组和错误组学生使用策略规则基本一致，但是中国上海的正确组学生表现出不一致的策略使用规则，具体来讲，使用策略2的学生使用策略5的概率、使用策略3的学生使用策略5的概率明显高于其他地区；使用策略4的学生使用策略3的概率、使用策略3的学生使用策略4的概率明显低于其他地区。",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/214fcfd768e10dd3b744fbd33054691a233f68929e443b8045a49b369f783573.jpg",
+        "table_caption": [
+            "表6学生总体应用策略之间的关系"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">序号</td><td rowspan=\"2\">频繁项集</td><td colspan=\"2\">正确组</td><td colspan=\"2\">错误组</td></tr><tr><td>频次</td><td>置信度</td><td>频次</td><td>置信度</td></tr><tr><td>1</td><td>5==>1</td><td>301</td><td>0.23</td><td>110</td><td>0.26</td></tr><tr><td>2</td><td>1==>5</td><td>301</td><td>0.24</td><td>110</td><td>0.27</td></tr><tr><td>3</td><td>5==>2</td><td>386</td><td>0.29</td><td>131</td><td>0.30</td></tr><tr><td>4</td><td>2==>5</td><td>386</td><td>0.37</td><td>131</td><td>0.34</td></tr><tr><td>5</td><td>4==>3</td><td>661</td><td>0.27</td><td>/</td><td>/</td></tr><tr><td>6</td><td>3==>4</td><td>661</td><td>0.36</td><td>/</td><td>/</td></tr><tr><td>7</td><td>5==>3</td><td>683</td><td>0.51</td><td>161</td><td>0.37</td></tr><tr><td>8</td><td>3==>5</td><td>683</td><td>0.37</td><td>161</td><td>0.33</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/1d8610ce755e8a088e3a5c585b44e28e9caa0edf47fa24448a30af42776456c0.jpg",
+        "table_caption": [
+            "表7各地区学生应用策略之间的关系"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>序频繁项</td><td></td><td>正确组置信度</td><td></td><td></td><td></td><td>错误组置信度</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>号集加拿中国中国</td><td></td><td>新加美加拿</td><td></td><td>中国中国</td><td></td><td>新加美</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/fe1317ddc4fd2549ca7b05b91c6fd64f536b95e0e29ce5ac5aa0144753b7aaa7.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>大</td><td>香港</td><td>上海</td><td>坡</td><td>国</td><td>大</td><td>香港</td><td>上海</td><td>坡</td><td>国</td></tr><tr><td>1</td><td>5=->1</td><td>0.23</td><td>0.20</td><td>0.18</td><td>0.26</td><td>0.27</td><td>0.25</td><td>0.26</td><td>0.30</td><td>0.24</td><td>0.24</td></tr><tr><td>2</td><td>1==>5</td><td>0.23</td><td>0.21</td><td>0.22</td><td>0.26</td><td>0.29</td><td>0.27</td><td>0.29</td><td>0.36</td><td>0.27</td><td>0.21</td></tr><tr><td>3</td><td>5==>2</td><td>0.30</td><td>0.28</td><td>0.27</td><td>0.32</td><td>0.25</td><td>0.30</td><td>0.29</td><td>0.30</td><td>0.36</td><td>0.27</td></tr><tr><td>4</td><td>2==>5</td><td>0.37</td><td>0.35</td><td>0.42</td><td>0.40</td><td>0.35</td><td>0.35</td><td>0.31</td><td>0.34</td><td>0.37</td><td>0.29</td></tr><tr><td>5</td><td>4==>3</td><td>0.29</td><td>0.25</td><td>0.18</td><td>0.29</td><td>0.28</td><td>/</td><td>/</td><td>/</td><td>/</td><td>/</td></tr><tr><td>6</td><td>3==>4</td><td>0.37</td><td>0.34</td><td>0.25</td><td>0.40</td><td>0.39</td><td>/</td><td>/</td><td>/</td><td>/</td><td>/</td></tr><tr><td>7</td><td>5==>3</td><td>0.53</td><td>0.50</td><td>0.53</td><td>0.46</td><td>0.51</td><td>0.42</td><td>0.39</td><td>0.36</td><td>0.24</td><td>0.33</td></tr><tr><td>8</td><td>3==>5</td><td>0.37</td><td>0.37</td><td>0.46</td><td>0.32</td><td>0.35</td><td>0.37</td><td>0.36</td><td>0.31</td><td>0.21</td><td>0.30</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/da2a2f336efcf8c59a0dde96ed7ba675a51ebdb192bcecdb2cecb9950740d3c4.jpg",
+        "table_caption": [
+            "5.4过程性变量和能力的关系",
+            "表8过程变量的描述统计及其与个体水平能力估计值的相关"
+        ],
+        "table_footnote": [
+            "注： $^ { \\ast } p < 0 . 0 5$ $\\ast \\ast _ { p } < 0 . 0 I$ ， ${ \\ast } { \\ast } { \\ast } p < 0 . 0 0 I _ { \\circ }$ "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">作答结果</td><td rowspan=\"2\">过程变量</td><td colspan=\"2\">加拿大</td><td colspan=\"2\">中国香港</td><td colspan=\"2\">中国上海</td><td colspan=\"2\">新加坡</td><td colspan=\"2\">美国</td></tr><tr><td>相关</td><td>均值</td><td>相关</td><td>均值</td><td>相关</td><td>均值</td><td>相关</td><td>均值</td><td>相关</td><td>均值</td></tr><tr><td rowspan=\"4\">正确</td><td>路径点击数</td><td>/</td><td>93.56</td><td>/</td><td>92.71</td><td>/</td><td>87.24</td><td>/</td><td>88.84</td><td>/</td><td>79.76</td></tr><tr><td>重设数量</td><td>/</td><td>1.12</td><td>/</td><td>0.97</td><td>/</td><td>1.03</td><td>/</td><td>0.83</td><td>/</td><td>0.92</td></tr><tr><td>反应时</td><td>/</td><td>679.57</td><td>/</td><td>628.69</td><td>/</td><td>660.47</td><td>/</td><td>740.34</td><td>/</td><td>675.54</td></tr><tr><td>个体能力</td><td>/</td><td>0.40</td><td>/</td><td>0.40</td><td>/</td><td>0.40</td><td>/</td><td>0.40</td><td>！</td><td>0.40</td></tr><tr><td rowspan=\"5\">错误</td><td>路径点击数</td><td>-0.01</td><td>99.64</td><td>0.18</td><td>123.83</td><td>-0.04</td><td>109.46</td><td>0.04</td><td>121.73</td><td>0.00</td><td>93.03</td></tr><tr><td>重设数量</td><td>0.07</td><td>1.55</td><td>0.11</td><td>1.55</td><td>-0.10</td><td>1.37</td><td>0.14</td><td>1.68</td><td>0.14</td><td>1.39</td></tr><tr><td>耗时与正确作答时间的差异</td><td>-0.02</td><td>5.91</td><td>0.08</td><td>4.19</td><td>0.10</td><td>3.12</td><td>0.16</td><td>4.42</td><td>-0.04</td><td>23.74</td></tr><tr><td>反应时</td><td>0.06</td><td>647.12</td><td>0.12</td><td>552.35</td><td>0.06</td><td>606.24</td><td>-0.01</td><td>683.37</td><td>0.04</td><td>663.62</td></tr><tr><td>个体能力</td><td>/</td><td>-0.79</td><td>/</td><td>-0.79</td><td>/</td><td>-0.76</td><td>/</td><td>-0.79</td><td>/</td><td>-0.79</td></tr><tr><td rowspan=\"5\">总体</td><td>路径点击数</td><td>-0.03</td><td>94.96</td><td>-0.13**</td><td>99.40</td><td>-0.12*</td><td>92.27</td><td>-0.13**</td><td>94.90</td><td>-0.08</td><td>83.00</td></tr><tr><td>重设数量</td><td>-0.09**</td><td>1.22</td><td>-0.11*</td><td>1.09</td><td>-0.09</td><td>1.10</td><td>-0.17**</td><td>0.98</td><td>-0.10</td><td>1.03</td></tr><tr><td>耗时与正确作时间的差异</td><td>-0.39***</td><td>1.39</td><td>-0.34***</td><td>0.90</td><td>-0.32***</td><td>0.71</td><td>-0.35**</td><td>0.81</td><td>-0.39***</td><td>24.32</td></tr><tr><td>反应时</td><td>0.03</td><td>672.08</td><td>0.07</td><td>612.29</td><td>0.05</td><td>648.20</td><td>0.04</td><td>729.84</td><td>0.01</td><td>672.64</td></tr><tr><td>个体能力</td><td>/</td><td>0.13</td><td></td><td>0.15</td><td></td><td>0.14</td><td>/</td><td>0.18</td><td>/</td><td>0.11</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "表8呈现了路径点击数、重设数量、耗时与正确作答时间的差异、反应时这些过程性变量以及个体能力值的描述性统计指标，及过程性变量与个体能力值的相关。从表8中可以看出，对于所有地区，正确组的路径点击数小于错误组，正确组的重设数量小于错误组，正确组和错误组的反应时没有显著差异。耗时与正确作答时间的差异越大，个体能力估计值的平均水平越低。另外，结果还反映了不同地区在完成题目过程中的特点。从描述统计方面来看，各地区呈现出了不同的典型特征，例如，美国学生个体能力估计值的平均水平最低，路径点击数最少，错误组耗时与正确作答时间的差异明显大于其他地区；而新加坡学生个体能力估计值的平均水平最高，但是平均反应时也最长。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "6讨论与结论",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "拓展的MMixIRT模型结合了IRT模型、潜类别模型和多水平模型的特点，不仅可以在过程水平分析策略类别特征，而且还可以在个体水平估计能力值。在过程水平，使用潜类别模型确定学生解题的过程策略，深入探讨策略应用的情况；在个体水平，使用IRT模型估计学生的个体能力值。模型优势在于能够同时描述过程水平和个体水平的信息。过程水平中的策略分析能够得到不同群体在问题解决过程中的典型行为模式和思维特点，从而更好地为提高学生的问题解决能力提供有针对性的信息。另外，拓展MMixIRT模型具有良好的参数返真性和较高的分类准确性，能够应用于过程性数据的分析。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "研究将拓展的 MMixIRT 模型应用于分析5个地区学生完成问题解决题目的过程性数据，验证了该模型结果的合理性和可解释性。首先，操作步骤特征可分为5种策略，体现了问题解决过程中不同能力水平学生的特征。策略4是正确的解题策略，最后一步为策略4的学生比例越高，平均能力水平也越高。策略2是距离正确路径最远，耗时最长的策略，即最差的策略。最后一步为策略2的学生比例越多，平均能力水平也越低。其次，关于策略应用和转换的结果体现了学生解决问题过程中试误策略的应用，这与现实中问题解决策略的使用一致。在正确组中，学生在解题过程中应用策略数为4次、5次的情况最多，说明学生通过不断转换策略完成题目，很少有学生只使用一种正确策略直接解决了问题。另外，最典型的正确组学生策略使用规则是从策略3转换到策略4。也就是学生先选择了与正确路线重合的前三条路径，然后在下一条路径上，没有选择从Market到Lee，而是从Market到了Park（见图3，后面三条路径的用时加起来为16min，大于正确答案后三条路径的用时15min。然后学生可能发现存在比这样走用时更短的路线，于是从策略3转换到了策略4，即从Market改为走向Lee，从而选择了正确答案的路线。而在错误组中，学生在解题过程中应用策略数为4的情况最多，但是较少的学生坚持尝试了5种策略。最后，操作过程变量与策略和能力之间关联分析的结果，证实了这一模型分析过程数据的有效性。部分过程性的变量与个体的问题解决能力有显著相关，结果表明，除过程中学生策略选择外，其他过程变量（例如，路径点击数、重设次数等）也均在不同程度上与学生的问题解决能力存在相关。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "研究还关注了不同地区间过程水平和个体水平分析结果的比较。首先，各地区在过程性变量上呈现出不同的特点，例如，美国学生问题解决能力最低，路径点击数最少，错误组耗时与正确作答时间的差异明显大于其他地区，而新加坡学生问题解决能力最高，反应时也最长。从文化差异上来看，西方文化背景下学生关注个人价值以及个体的好奇心和兴趣，而儒家文化背景下学生关注个体努力程度，他们认为努力是实现成功的必备因素（Li，2012）[30]。此题考查的是问题解决的计划与执行部分，如果学生不断努力试错，也可以得到正确答案。努力程度（工具性动机）会促进学生问题解决的表现。这也可能是新加坡、中国上海、中国香港学生的问题解决能力较高的原因。而新加坡学生问题解决表现最好，主要源于新加坡的整体课程设计注重学生的问题解决能力，将问题解决能力系统纳入课程，例如，其在中小学数学大纲中在数学过程部分，明确列出了思维技能和问题解决策略（Fan& Zhu，2007）[31]。因此，在策略使用上，新加坡正确组应用5 种策略的学生比例明显低于其他地区，说明新加坡学生解决问题典型特征是思考时间比较长，使用策略数相对较少而得到正确答案。而美国学生正确组应用5种策略的学生比例也较低，解决问题典型特征是思考时间比较少，但是并未像其他地区一样，去尝试足够多的策略最终得到正确结果。其次，加拿大、中国香港、中国上海、新加坡错误组学生在最后一步较多使用策略3。从策略应用的结果可以看出，很多作答正确的学生都是从策略3转到了策略4，说明对这些解题错误的学生，如果再给予更多的思考时间，有很大的可能最终转换为正确的策略。这些结果可以为教学和训练提供更加丰富的信息，帮助教师给予有针对性的指导。综上，过程性数据分析的结果一方面能够给教育测量研究者和测验题目研发者提供更多信息，以便进行命题改进，另一方面，这些信息还可以被纳入测验计分体系，测验计分不再只基于学生个体的最后作答，而结合了学生策略的使用，这将在一定程度上丰富测验分数的含义。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "拓展的MMixIRT模型比较灵活，可以在实际中结合题目的特点和关注的重点定义不同的模型。首先，可以在模型的个体水平中加入描述学生类别特征的潜类别，也可以考虑在过程水平中加入描述步骤能力的连续潜变量，探讨学生在解题过程中能力的变化情况（Liu，Liu，&Li，2018）「32]。其次，还可以在模型加入能够减少测量误差并能预测学生问题解决能力的其他协变量，例如学生的动机等（Fox&Glas，2003）[33]。最后，本研究为单任务情境，当分析对象为多任务时，可以将其拓展为三水平模型，分别为过程水平、任务水平和个体水平，同时考察不同任务情境问题解决策略的应用以及多任务情境下个体能力估计。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "本研究具有一定的局限性。首先，在策略转换分析时，将使用某种策略3次或以上定义为使用了该种典型策略，这样的定义也损失了一部分不稳定的策略转换的信息。如果这种不稳定的策略转换也是考察的对象，可以将这些信息纳入策略转换的分析中。其次，分析过程中只是将单一的路径作为分析的单元，没有考虑可能的路径组合（如某些情况下，不同路径之间的链接是唯一的，可能将这些路径合起来分析更加合理)，可以在未来的研究中考虑不同路径组合转换的模型。另外，这一模型在复杂问题解决过程中的普适性尚待进一步检验，使用MMixIRT模型的前提是需要将过程性数据编码为类似本研究中的数据结构，实际中可能某些任务不太容易实现这样的编码转换。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "研究得出的主要结论如下：",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "第一，拓展的MMixIRT模型不仅可以基于行为序列分析学生解题过程中策略使用情况，还可以在个体水平上提供能力估计值。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "第二，使用拓展的MMixIRT模型可以对不同地区学生在解决问题时策略使用情况的典型特征进行分析，为有针对性的训练提供参考。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "参考文献   \n[1]Mayer,R.E.The psychologyof mathematical problem solving.inF.K.ester,&J. garofalo (Eds.),Mathematical problem solving: issues in research[M]. Franklin Institute Press, Philadelphia,1982: 1-13.   \n[2]Garofalo,J.,&Lester,F.Metacognition,cognitive monitoring,and mathematical performance[J].Journal for Research in Mathematics Education,1985,16(3): 163-176.   \n[3]OECD. PISA 20o3 assessment framework: mathematics,reading, science, and problem solving knowledge and skills [EB/OL], OECD Publishing,2003.   \nhttp://www.oecd.org/education/school/programmeforinternationalstudentassessmentpisa/33694881.pdf   \n[4JOECD. PISA 2012 assessment and analytical framework: mathematics,reading,science, problem solving and financial literacy [EB/OL], OECD Publishing, 2013.   \nhttp://www.oecd.org/pisa/pisaproducts/PISA%202012%20framework%20e-book_final.pdf   \n[5]Funke,J.Dynamic systemsas tols for analysing human judgement[J].Thinking &Reasoning,2Oo1,7(1): 69- 89.   \n[6]DiCerbo, K.E.,& Behrens,J.T. Implications of the digital ocean on current and future assessment. In R. Lissitz & H. Jiao (Eds.), Computers and their impact on state assessment: Recent history and predictions for the future [M]. Charlotte,NC:Information Age Publishing,2012: 273-306.   \n[7]Kerr,D., Chung, G.,& Iseli,M.The feasibilityof using cluster analysis to examine log data fromeducational video games (CRESST Report 79O) [EB/OL].Los Angeles, CA: National Center for Research on Evaluation, Standards, and Student Testing (CRESST), 2011.   \n[8]Zoaneti， N. Interactive computer based assessment tasks: how problem-solving process data can inform instruction [J]. Australasian Journal of Educational Technology,2010,26(5): 585-606.   \n[9]Greif, S.,Wistenberg,S.,& Avvisati,F. Computer-generated log-file analysesasa Window into students’ minds? A show case study based on the PISA 2012 assessment of problem solving [J]. Computers & Education, 2015,91: 92-105.   \n[10]de la Torre,J.,&Douglas,J.A.Higher-order latent trait models forcognitive diagnosis [J].Psychometrika, 2004 69(3): 333-353.   \n[11]DiCerbo,K.E.,Liu,J.,Rutstein,D.W.,Choi,Y.,&Behrens,J.T.Visualanalysis of sequential logdatafrom complex performance assssments. Paper presented at the annual meeting of the American Educational Research Association, April ,2011[C]. New Orleans, LA.   \n[12]Bergner, Y. Shu,Z., & von Davier, A. A. Visualization and confirmatory clustering of sequence data from a simulation based assessment task. Proceedings of the 7th International Conference on Educational Data Mining, July, 2014 [C]. London, UK.   \n[13]Desmarais,M. C.,&Baker,R.S.J.D.Areview of recent advances in learmer and skill modeling in intelligent learning environments [J]. User Modeling and User-Adapted Interaction,2012,22(1-2): 9-38.   \n[14]Shu, Z., Bergner, Y., Zhu,M., Hao,J.,& von Davier, A. A. An item response theory analysis of problemsolving processed incenario-based tasks[J].PsychologicalTest and Assessment Modeling,2017,59(1):109-131. [15]Goldstein, H. Multilevel models in education and social research. Higher Education Research & Development, 1987,28(6): 664-645.   \n[16]Cho,S.J.,& Cohen,A. S.A multilevel mixture IRT model with an application to DIF[J]. Journal of Educational and Behavioral Statistics, 2010,35(3): 336-370.   \n[17]Vermunt,J. K. Multilevel latent class models [J]. Sociological Methodology,20o3,33(1): 213-239.   \n[18]Qiao,X.,& Jiao,H.Data mining techniques inanalyzing processdata: a didactic[J].Frontiers in Psychology, 2018, 9: 2231. [19]Liao, D.,He, Q.,& Jiao, H. Mapping background variables with sequential patterns in problem-solving environments: an investigation of United States adults' employment status in PIAAC [J]. Frontiers in Psychology,2019,10: 646.   \n[20]Lee, W. Y., Cho, S.J., Sterba, S.K. Ignoring a multilevel structure in mixture item response models: impact on parameter recovery and model selection. Applied Psychological Measurement, 2017,42(2): 1-19.   \n[21]Wang,C., Xu,G.,Shang,Z.,& Kuncel,N.Detecting aberrant behavior and item preknowledge:a comparison of mixture modeling method and residual method[J].Journalof Educational and Behavioral Statistics,2018, 43(4): 469-501.   \n[22]Nylund,K.L.,Asparouhov,T.,& Muthen,B.O.Deciding onthe numberof clases inlatent class analysisand growth mixture modeling: A monte carlo simulation study [J]. Structural equation modeling: A multidisciplinary Journal,2007,14(4): 535-569.   \n[23]Muthen,L.K.,& Muthen, B. O.Mplus: statistical analysis with latent variables: user's guide [EB/OL]. Los Angeles: Muthen & Muthén,2005.   \n[24]Peter,H. Machine Learning in action (R.Li,P.Li, Y. Qu,&B.Wang,Trans.)[M]. Beijing:   \nThe Posts and Telecommunications Pres,2013.(Peter,H.机器学习实战 (李锐,李鹏，曲亚东，王斌译)[M]. 北京：人民邮电出版社,2013.)   \n[25]Rosato,N.S.,& Baer,J. C.Latent class analysis: a method for capturing heterogeneity[J]. Social Work Research,2012,36(1): 61-69.   \n[26]Akaike,H. A new look at the statistical model identification [J]. IEEE Transactions on Automatic Control, 1974,19(6): 716-723.   \n[27]Schwarz,G.Estimating the dimension of a model[J]. The Annals of Statistics,1978,6(2): 461-464. [28]Tofighi, D.,& Enders, C. K. Identifying the correct number of classes in growth mixture models. in G. R. Hancock,&K.M. Samuelsen (Eds.),Advances in latent variable mixture models[M]. Charlote,NC: Information Age Publishing Inc,2008: 317-342.   \n[29]Asparouhov,T.& Muthen,B.Auxiliary variables in mixture modeling: three-step approaches using Mplus [J]. Structural equation modeling:A multidisciplinary journal,2014,21(3): 329-341.   \n[30]Li,J. Cultural foundations of learning: eastand west [M].NewYork,NY: Cambridge UniversityPres,2012. [31JFan,L.,& Zhu,Y.From convergence to divergence: the development of mathematical problem solving in research,curriculum,and classroom practicein Singapore.ZDMMathematics Education,2007,39(5-6),491-501. [32]Liu, H.,Liu, Y.,&Li,M. Analysis of process data of PISA 2012 computer-based problem solving: application of the modified multilevel mixture IRT model. Frontiers in Psychology,2018,9: 1372.   \n[33]Fox, J.P., Glas, C.A. W. Bayesian modeling of measurement error in predictor variables using item response theory[J]. Psychometrika,2003, 68(2): 169-191. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/c18c51428e7cfa8872efdcba02a9d9f6703560c7edce32ffc0198b56c9fb48be.jpg",
+        "table_caption": [
+            "附录1模拟研究中各类别数量比例及题目答对概率"
+        ],
+        "table_footnote": [
+            "注：此处的题目答对概率是指除去最终作答状态的所有过程步骤的概率，真实值中最终作答状态的分类与各潜在类别的特征一致。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">题 目</td><td colspan=\"3\">潜类别数为3</td><td colspan=\"5\">潜类别数为5</td></tr><tr><td>类别1 (33.33%)</td><td>类别2 (33.33%)</td><td>类别3 (33.33%)</td><td>类别1 (20.00%)</td><td>类别2 (20.00%)</td><td>类别3 (20.00%)</td><td>类别4 (20.00%)</td><td>类别5 (20.00%)</td></tr><tr><td>1</td><td>0.85</td><td>0.85</td><td>0.10</td><td>0.85</td><td>0.85</td><td>0.10</td><td>0.10</td><td>0.10</td></tr><tr><td>2</td><td>0.85</td><td>0.85</td><td>0.20</td><td>0.85</td><td>0.85</td><td>0.20</td><td>0.20</td><td>0.20</td></tr><tr><td>3</td><td>0.85</td><td>0.85</td><td>0.10</td><td>0.85</td><td>0.85</td><td>0.10</td><td>0.10</td><td>0.10</td></tr><tr><td>4</td><td>0.85</td><td>0.85</td><td>0.20</td><td>0.85</td><td>0.85</td><td>0.20</td><td>0.20</td><td>0.20</td></tr><tr><td>5</td><td>0.85</td><td>0.85</td><td>0.10</td><td>0.85</td><td>0.85</td><td>0.10</td><td>0.10</td><td>0.10</td></tr><tr><td>6</td><td>0.85</td><td>0.85</td><td>0.20</td><td>0.85</td><td>0.10</td><td>0.85</td><td>0.20</td><td>0.20</td></tr><tr><td>7</td><td>0.85</td><td>0.85</td><td>0.10</td><td>0.85</td><td>0.20</td><td>0.85</td><td>0.10</td><td>0.10</td></tr><tr><td>8</td><td>0.85</td><td>0.85</td><td>0.20</td><td>0.85</td><td>0.10</td><td>0.85</td><td>0.20</td><td>0.20</td></tr><tr><td>9</td><td>0.85</td><td>0.85</td><td>0.10</td><td>0.85</td><td>0.20</td><td>0.85</td><td>0.10</td><td>0.10</td></tr><tr><td>10</td><td>0.85</td><td>0.85</td><td>0.20</td><td>0.85</td><td>0.10</td><td>0.85</td><td>0.20</td><td>0.20</td></tr><tr><td>11</td><td>0.85</td><td>0.10</td><td>0.85</td><td>0.85</td><td>0.20</td><td>0.20</td><td>0.85</td><td>0.10</td></tr><tr><td>12</td><td>0.85</td><td>0.20</td><td>0.85</td><td>0.85</td><td>0.10</td><td>0.10</td><td>0.85</td><td>0.20</td></tr><tr><td>13</td><td>0.85</td><td>0.10</td><td>0.85</td><td>0.85</td><td>0.20</td><td>0.20</td><td>0.85</td><td>0.10</td></tr><tr><td>14</td><td>0.85</td><td>0.20</td><td>0.85</td><td>0.85</td><td>0.10</td><td>0.10</td><td>0.85</td><td>0.20</td></tr><tr><td>15</td><td>0.85</td><td>0.10</td><td>0.85</td><td>0.85</td><td>0.20</td><td>0.20</td><td>0.85</td><td>0.10</td></tr><tr><td>16</td><td>0.85</td><td>0.20</td><td>0.85</td><td>0.85</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.85</td></tr><tr><td>17</td><td>0.85</td><td>0.10</td><td>0.85</td><td>0.85</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.85</td></tr><tr><td>18</td><td>0.85</td><td>0.20</td><td>0.85</td><td>0.85</td><td>0.10</td><td>0.10</td><td>0.10</td><td></td></tr><tr><td>19</td><td>0.85</td><td>0.10</td><td>0.85</td><td>0.85</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.85 0.85</td></tr><tr><td>20</td><td>0.85</td><td>0.20</td><td>0.85</td><td>0.85</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.85</td></tr></table></body></html>",
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/90f8717b55097b317cd6907bec848b508d189862b9331861bf1db0f94754bb02.jpg",
+        "table_caption": [
+            "附录2每个类别点击各路径的次数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>路径</td><td>类别1</td><td>类别2</td><td>类别3</td><td>类别4</td><td>类别5</td></tr><tr><td>P1</td><td>31050</td><td>1010</td><td>26185</td><td>10450</td><td>1175</td></tr><tr><td>P2</td><td>358</td><td>20917</td><td>272</td><td>71</td><td>26673</td></tr><tr><td>P3</td><td>14</td><td>4771</td><td>10</td><td>4</td><td>10</td></tr><tr><td>P4</td><td>16</td><td>1942</td><td>45</td><td>10</td><td>12</td></tr><tr><td>P5</td><td>10752</td><td>320</td><td>396</td><td>8981</td><td>4465</td></tr><tr><td>P6</td><td>33</td><td>3751</td><td>24</td><td>17</td><td>19</td></tr><tr><td>P7</td><td>7554</td><td>1027</td><td>4109</td><td>6684</td><td>7135</td></tr><tr><td>P8</td><td>1082</td><td>241</td><td>433</td><td>11053</td><td>4972</td></tr><tr><td>P9</td><td>860</td><td>800</td><td>22245</td><td>154</td><td>14474</td></tr><tr><td>P10</td><td>15100</td><td>380</td><td>728</td><td>259</td><td>394</td></tr><tr><td>P11</td><td>1468</td><td>6723</td><td>7752</td><td>477</td><td>9474</td></tr><tr><td>P12</td><td>27</td><td>7128</td><td>33</td><td>10</td><td>84</td></tr><tr><td>P13</td><td>26422</td><td>535</td><td>27272</td><td>10874</td><td>276</td></tr><tr><td>P14</td><td>70</td><td>12160</td><td>120</td><td>23</td><td>197</td></tr><tr><td>P15</td><td>766</td><td>1131</td><td>5969</td><td>345</td><td>4394</td></tr></table></body></html>",
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/3108684b8964a9227609d3f261aecb7d077fda60aea69c727a77fd8e4ff940d7.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "(通讯作者：刘红云 E-mail:hyliu@bnu.edu.cn) "
+        ],
+        "table_body": "<html><body><table><tr><td>P16 740 3933</td><td></td><td>11056</td><td>158 9578</td></tr><tr><td>P17 836</td><td>430</td><td>28099</td><td>11113 785</td></tr><tr><td>P18</td><td>17576 266</td><td>374 64</td><td>157</td></tr><tr><td>P19</td><td>97 6384</td><td>196 11</td><td>549</td></tr><tr><td>P20 136</td><td>575</td><td>374 91</td><td>20809</td></tr><tr><td>P21 80</td><td>21507</td><td>179 22</td><td>360</td></tr><tr><td>P22 60</td><td>5906</td><td>286 0</td><td>730</td></tr><tr><td>P23</td><td>12 5436</td><td>120</td><td>2 6</td></tr></table></body></html>",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "李美娟：清洗和分析数据；论文起草、最终版本修订。  \n刘玥：论文起草、最终版本修订。  \n刘红云：提出研究思路，设计研究方案，论文起草、最终版本修订。",
+        "page_idx": 18
+    }
+]

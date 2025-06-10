@@ -1,0 +1,281 @@
+# 基于逐维反向学习的动态适应布谷鸟算法
+
+黄闽茗la,ʰ，何庆la,b+，文熙²
+
+(1.贵州大学 a.大数据与信息工程学院;b.贵州省公共大数据重点实验室，贵阳 550025;2.河北工业大学人工智能与数据科学学院，天津 30000)
+
+摘要：为了解决布谷鸟搜索算法(CS)寻优精度不高、收敛速度慢、后期搜索活力不足以及处理高维优化问题时存在维间干扰等缺陷，提出了逐维反向学习策略的动态适应布谷鸟算法（DA-DOCS）。首先，对选择更新后的解进行逐维反向学习，减少维间干扰，扩大种群多样性；然后，使用精英保留方式评价该结果，提高算法寻优能力；最后，充分利用当前解的信息进行动态适应的缩放因子控制，引导解快速收敛，提升算法搜索活力。实验结果表明，该算法相比较于标准布谷鸟搜索算法，寻优精度、收敛速度以及后期搜索活力有所提高，与其他改进算法相比也具有一定的竞争优势。
+
+关键词：布谷鸟搜索算法；反向学习；函数优化；维间干扰；动态适应 中图分类号：TP301 doi:10.19734/j.issn.1001-3695.2018.10.0725
+
+Dynamically adaptive Cuckoo search algorithm based on dimension by opposition-based learning
+
+Huang Minming1, He Qing1+, Wen $\mathrm { X i } ^ { 2 }$ (1 a.CollegeofBigData&Information Engineering,b.GuizhouProvincialKeyLaboratoryofPublicBigData,Guizhou University，Guiyang55025,China;2CollegeofAI&DataScience,HebeiUniversityofTechnologyTianjin300000, China)
+
+Abstract: However,there are stillsome shortcoming in cuckoo search algorithm(CS），such as lowconvergence precision, slow convergencespeed,Weak search vitalityand interference phenomena among dimensions when dealing with highdimensional optimization problems.Dynamicall Adaptive Cuckoo Search Algorithm Based on Dimension by Oppositionbased Learning(DA-DOCS）was proposed，Firstly，the selectedsolution updated for dimension-by-dimension by Opposition-based Learning,this resultreduced interdimensional interferenceand expanded populationdiversity.Then the method of eliteretention wasused toevaluate theresults and improve the search abilityof thealgorithm.Finally,the informationofthecurrent solution was fullyutilizedtodynamicallyadaptive thescaling factorcontrol to guide the solution to converge quicklyand enhance the search vitalityofthe algorithm.The experimental results show thatcompared with the standard cuckoo search algorithm,the proposed algorithm has improved convergence precision,convergence speed and search vitality. Compared with other improved algorithms, it has certain competitive advantage.
+
+keyword:Cuckoosearch algorithm；opposition-based learning；functionoptimization；interdimensional interference; dynamically adaptive
+
+# 0 引言
+
+布谷鸟搜索算法(Cuckoo search algorithm,CS)[1]是由Yang和Deb于2009年提出的一种新的全局搜索算法，该算法源于对布谷鸟育雏行为以及鸟类的莱维飞行（Levyflights）行为的模拟。由于算法具有高效、参数少、易于实现等优点，已经在工程优化和函数优化问题中得到了广泛的应用，成为启发式智能算法领域的一个新的亮点[2.3]。但CS算法也存在收敛能力差、搜索活力不足[4.5]等缺点，因此，国内外学者陆续对算法做了进一步的研究和改进。
+
+王凡等人[通过分析CS算法的Markov链模型，研究算法的状态转移过程，证明了CS算法的收敛性。陈华等人[7]结合Logistic 模型改进CS 算法，自动调节步长控制因子和发现概率的大小，提高了全局搜索能力。实验表明，改进算法具有较好的性能。Pauline等人[8提出一种双亲交叉的自适应布谷鸟算法，通过实验验证了该算法的有效性。马卫等人[9]通过构建精英种群候选解池与Powell局部搜索策略相结合，通过实验证明改进算法具有一定的竞争优势。
+
+上述研究成果丰富了CS算法的相关改进工作，都较好地改善了CS算法的收敛速度和收敛精度，但大多数改进算法都采用整体更新再评价策略，即先更新解的所有维度信息，再根据目标函数进行评价，这样的评价更新方式使得维间相互干扰，将恶化解的收敛效率和收敛速度。但是王李进等人[10提出基于逐维改进CS算法，采用逐维更新评价策略，强化进化维的信息，减少维间干扰；实验结果验证了该算法的有效性，但在处理高维复杂函数时，逐维策略在收敛前期将耗费大量的评价次数，导致收敛效率变慢，收敛后期活力不足。
+
+受逐维改进策略以及各混合改进算法[II-13]的启发，本文主要针对标准CS算法收敛速度偏慢、求解精度较低、搜索活力差以及高维复杂函数难收敛等问题，提出了一种基于逐维反向学习的动态适应布谷鸟搜索算法（dynamicallyadaptive cuckoo search algorithm based on dimension byopposition-basedlearning，DA-DOCS）。首先在算法迭代过程中利用逐维反向学习策略，以便减少各维间的相互干扰，通过反向学习扩大搜索空间，能够提高搜索效率；然后利用精英保留方式评价逐维反向学习后的解，能够提高算法的搜索速度；最后利用当前解的信息动态适应控制缩放因子，动态引导解的收敛，提升寻优能力。本文选取八个标准测试函数进行实验仿真，结果表明，与CS算法相比，本文改进的DA-DOCS算法具有更好的收敛精度、收敛速度以及收敛效率，在高维度优化问题上，性能优于CS算法。与其他改进CS 算法相比，DA-DOCS 算法搜索活力更强，寻优能力更优。
+
+# 1 相关工作
+
+# 1.1布谷鸟搜索（CS）算法
+
+布谷鸟算法其基本原理就是把蛋所寄生的巢穴位置映射为算法种群空间中的解，以寄生巢穴位置的优劣作为算法的适应度值。为了模拟布谷鸟的繁衍机制，算法设定了三个理想规则[1]：
+
+规则1每只布谷鸟只产一个蛋，并随机放入所选择的寄主鸟类的巢穴中；
+
+规则2每次进化都保留最优蛋的巢穴到下一代;
+
+规则3可用的寄主巢穴数量固定，且寄主鸟类以概率$R \in ( 0 , 1 )$ 发现布谷鸟放的蛋。
+
+根据规则，CS算法初始化之后，通过莱维飞行更新巢穴的位置，公式如下[1];
+
+$$
+x _ { t + 1 , i } = x _ { t , i } + \alpha _ { 0 } \otimes L e \nu y ( \beta )
+$$
+
+其中： $x _ { t + 1 , i }$ 表示巢穴位置更新后的位置； $x _ { t , i }$ 表示当前巢穴位置； $\alpha _ { 0 }$ 表示步长缩放因子，通常为 $0 . 0 1 ^ { [ 2 ] }$ 。
+
+莱维飞行随机搜索路径公式如下：
+
+$$
+L e \nu y ( \beta ) \sim \frac { \Phi \times u } { \left| \nu \right| ^ { 1 } \beta } ( s , \lambda )
+$$
+
+其中： $\mathbf { u }$ 和 $\mathbf { v }$ 表示标准正态随机变量； $\beta$ 表示莱维飞行的控制因子，通常为 $1 . 5 ^ { [ 2 ] }$ ； $\Phi$ 的计算公式如下：
+
+$$
+\Phi = \left[ \frac { \Gamma ( 1 + \beta ) \times \sin \left( \pi \times \displaystyle \beta ^ { \prime } _ { 2 } \right) } { \Gamma \left( \displaystyle \frac { ( 1 + \beta ) } { 2 } \right) \times \beta \times 2 } \right] ^ { \gamma _ { \beta } }
+$$
+
+巢穴更新后，用均匀分布的随机数 $R \in ( 0 , 1 )$ 与蛋被发现概率 $P a$ 作比较，若 $R \geq P a$ ，丢弃不好的巢穴位置，并用式（4）重新构造新的巢穴位置；反之，保留当前位置。位置更新[1]如下：
+
+$$
+x _ { t + 1 , i } = x _ { t , i } + r ( x _ { t , j } - x _ { t , k } )
+$$
+
+其中：r表示比例因子，是（0,1）区间的均匀分布随机数；  
+$x _ { t , j }$ 和 $x _ { t , k }$ 表示t代中的两个随机解。
+
+# 1.2反向学习
+
+反向学习（opposition-based learning）是 20o5 年被
+
+Tizhoosh[14]提出的智能计算领域中的一种新技术。该算法的原理为：基于当前的可行解，同时评估其反向学习的解，并选择更好的可行解[15]。
+
+定义1若 $\boldsymbol { x } \in [ a , b ]$ 之间的任意实数，则 $x$ 的基于反向学习的数如下所示[16]：
+
+$$
+x ^ { ' } = a + b - x
+$$
+
+可得， $x$ 到 $a$ 的距离为 $\left| x - a \right| = x - a$ ，根据式（5）可得 $x ^ { \prime }$ 到的距离为 $| b - x ^ { \prime } | = | b - ( a + b - x ) | = | a - x | = x - a$ ，因此，这两个距离是相等的，如图1所示。
+
+![](images/64c7fd6e3f35bd49330af83282e43aa83232f721acd7613e853c4d9642480d1a.jpg)  
+图1任意实数与它的反向学习数  
+Fig.1Real number and its opposition-based learning number
+
+定义2若 $p = \left( { x } _ { 1 } , { x } _ { 2 } , . . . , { x } _ { D } \right)$ 之间的任意D维空间中的点为$x _ { i } \in [ x _ { i \operatorname* { m i n } } , x _ { i \operatorname* { m a x } } ]$ ，则它反向学习的解如下所示[17]：
+
+$$
+\left\{ \begin{array} { l l } { p ^ { \prime } = \left( { x _ { 1 } ^ { \prime } , x _ { 2 } ^ { \prime } , . . . , x _ { D } ^ { \prime } } \right) } \\ { { x _ { i } ^ { \prime } = x _ { i \operatorname* { m i n } } + x _ { i \operatorname* { m a x } } - x _ { i } } } \end{array} \right.
+$$
+
+可以看出，由于可行解和反向学习的点位于搜索空间的两侧，类似于同时搜索两个对称空间，所以当引入反向学习时，可以扩大搜索空间、提高搜索效率。
+
+# 2 DA-DOCS 算法
+
+# 2.1逐维反向学习策略
+
+在标准CS算法中，对于高维复杂函数来说，采用先更新解的所有维度信息，再根据目标函数适应度进行评价，会造成各维度之间干扰，掩盖进化维度的信息，从而影响解的收敛速度与寻优精度。本文提出的逐维反向学习策略，不仅能够有效避免各维度之间相互干扰的现象，而且能扩大种群搜索范围，开采新的搜索空间，增强种群的多样性。在每一代的演化中，它类似于独立每一个维度的进化，并在每个维度同时搜索两个对称区域，提高了算法的收敛效率，也提升了算法的全局寻优能力。
+
+在逐维反向学习策略中，设种群规模为 $\mathbf { N }$ ，维度为D,迭代过程选择更新位置时的位置矩阵为 $n e s t _ { n \times D i }$ 。每个维度的上、下限分别为 $u p _ { N \times D _ { i } }$ 、 $l o w _ { N \times D _ { i } }$ ，则解的每维的基于反向学习的位置矩阵如下：
+
+$$
+n e s t _ { _ { N \times D i } } ^ { \prime } = u p _ { _ { N \times D i } } + l o w _ { _ { N \times D i } } - n e s t _ { _ { N \times D i } }
+$$
+
+逐维反向学习策略在进行算法的迭代过程中，当被淘汰的蛋被重新构造代替后，与没有被淘汰的蛋汇集，不再使用CS 算法中的整体更新再评价方式评价，而是对更新后的解的每维进行反向学习，将更新的各维度的值映射到它的反向学习数进行空间搜索，淘汰退化维度信息，不但减少各维度间的干扰，而且增加解空间的搜索范围，从而提高搜索效率和寻优能力。逐维进化学习策略考虑了各维度的更新信息，某一维度的值经过反向学习之后与其他维的值组成新的解，根据目标函数适应度评价该新解，如果能够改善当前解的质量，则保留该维度进行反向学习的更新结果；反之，则放弃对于当前维的更新，保留反向学习之前的维度信息，利用这种精英保留的方式将进行下一维的反向学习更新，直到各维度更新完毕。
+
+基于逐维反向学习策略，强化了进化维度的信息，减少了标准CS算法随机更新所消耗的评价次数，提高算法的收敛速度和寻优能力；采用精英保留方式，提高了算法的效
+
+率。
+
+# 2.2动态适应
+
+标准CS算法迭代过程中，当产生的随机概率R大于生存概率 $P a$ ，则蛋被淘汰，将按照式（4）作为依据构造新的蛋来代替被淘汰的蛋。但标准CS算法中的构造更新基于解空间的两个随机解，具有较大的随机性和不稳定性，并没有充分利用当前解的信息动态适应迭代更新，不利于逐维反向学习策略进行局部搜索；此外，式（4）中的缩放因子r是（0,1）区间的均匀分布随机数，在一定程度上限制了算法的寻优性能。为了提高算法性能，可将式（4）中的缩放因子的取值随迭代次数的动态变化作出适应性调节，r的取值呈递减趋势，能够在搜索前期跳出局部最优，避免早熟现象，能够在搜索后期增强算法的局部寻优能力。缩放因子充分利用了当前解的信息动态适应，动态引导解的收敛，有利于提高算法的搜索活力。因此，DA-DOCS 算法将式（4)进成如下公式：
+
+$$
+\left\{ \begin{array} { c } { \displaystyle x _ { t + 1 , i } = x _ { t , i } + r ( x _ { t , i } - x _ { t , k } ) } \\ { \displaystyle r = \frac { 1 } { t _ { c } } } \end{array} \right.
+$$
+
+其中： $x _ { t , k }$ 表示t代的随机解； $t _ { c }$ 表示当前迭代次数。
+
+# 2.3DA-DOCS 算法流程
+
+基于逐维反向学习的动态适应布谷鸟算法的具体算法步骤主要包括五个部分，其步骤如下：
+
+a）初始化。
+
+定义目标函数 $F ( x )$ ，设置种群规模为N、搜索空间维数为D、最大发现概率 $P a$ 、最大迭代次数为 $t _ { \mathrm { m a x } }$ 以及精度阈值 $\delta$ 等参数，并随机生成N个鸟窝的初始位置$X _ { i } = ( 1 , 2 , . . . , N )$ 。
+
+b）随机游走。
+
+选择目标函数并计算每个巢穴位置的适应度 $f _ { x }$ ，保留适应度最高的巢穴位置，根据莱维飞行随机游走产生新的巢穴位置。
+
+# c）选择更新。
+
+用均匀分布的随机数 $R \in ( 0 , 1 )$ 与蛋被发现概率 $P a$ 作比较，若 $R \geq P a$ ，丢弃不好的巢穴位置，用式（8）更新巢穴的位置；反之，保留当前解。计算目标函数的适应度值，将适应度较好的巢穴保留到下一代。
+
+# d)逐维反向更新。
+
+对步骤c）中保留下来的解，根据式（7）进行逐维反向学习，分别考虑各维度的更新信息。经过反向学习之后的当前维度的值与其他维组成新的解，评价该组合解。若改善当前解的质量，则保留当前维度的更新结果；反之，则放弃当前维的更新，保留未经过反向学习前的当前维度的值，利用精英保留方式进行下一维的反向学习更新，直到各维度更新完毕。
+
+# e）结束判决。
+
+判断当前解的质量是否满足算法结束条件，若满足算法结束条件，则结束，输出最终的解；否则返回步骤b），直到满足算法结束条件时结束。改进算法流程如图2所示。
+
+# 2.4改进算法复杂度分析
+
+由文献[18，19]可知，布谷鸟的搜索算法的时间复杂度为
+
+$$
+T ( n ) { } = 3 O ( n + f ( n ) ) = O ( n + f ( n ) )
+$$
+
+![](images/45c422f3d8f436a3971a034f1860fafa30de94b5840cae791e492a858abf834b.jpg)  
+图2DA-DOCS 算法流程 Fig.2Schematic diagram of DA-DOCS algorithm
+
+布谷鸟搜索算法的时间复杂度取决于计算目标函数的时间复杂度 $f ( n )$ ，当 $f ( n )$ 比 $n$ 高阶运算时，复杂度为$O ( f ( n ) )$ ；当同阶或低阶时，复杂度为 $O ( n )$ [20]。根据本文改进算法的流程图1可知，引入的逐维反向学习策略，增加了$O ( n f ( n ) )$ 的运算量；同时，为了提高算法的搜索活力，引入的动态适应机制，增加了一层内置迭代，则本文改进算法的时间复杂度为
+
+$$
+T ^ { \prime } ( n ) { = } T ( n ) { + } O ( n f ( n ) ) { + } O ( n ) { = } O ( n { + } n f ( n ) )
+$$
+
+另外，空间复杂度 $S ( n )$ 主要受种群规模 $\mathbf { N }$ 和搜索空间维数 $\mathrm { ~ D ~ }$ 的影响，可表示为
+
+$$
+S ( n ) { = } O ( f ( n ) ) { = } O ( D { \bullet } N )
+$$
+
+可以看出，本文提出的改进算法的算法复杂度较高于标准布谷鸟搜索算法，且维度越高，时间复杂度和空间复杂度越高。
+
+# 3 实验与结果分析
+
+# 3.1测试函数和实验参数设置
+
+本文采用MATLABR2016a进行仿真实验，运行环境为64位Windows7操作系统，处理器类型为IntelCorei5-6500。为了验证DA-DOCS算法的性能，实验引入八个标准测试函数验证（表1）。其中 $F _ { 1 } \sim F _ { 3 }$ 是单峰函数， $F _ { 4 } \sim F _ { 8 }$ 是多峰函数。 $F _ { 8 }$ 在解空间内含有大量局部极小值的多峰函数，不同维度其理论最小值也不相同[21]。
+
+本文采用式（12）适应度误差算法评价算法的精度收敛能力，公式如下[10]：
+
+$$
+\delta \mathrm { = } f ( x ) \mathrm { - } f ( x ^ { \ast } )
+$$
+
+其中： $f ( x )$ 表示算法获得的解的适应度； $f ( x ^ { * } )$ 表示测试函数已知的最优解。式（12）反映了算法的精度收敛能力，函数误差值越小，解的质量越好。
+
+本文主要从两个主要方面对算法进行测试：a）针对改进DA-DOCS算法和标准CS算法在解的质量、解的收敛速度以及解的维度变化方面进行分析，测试算法的寻优精度和收敛速度以及解决高维度优化问题时的性能；b）针对固定维度函数进行测试，并与其他改进CS算法进行寻优精度和性能的比较。
+
+# 3.2与标准CS算法的比较
+
+# 3.2.1解的质量分析
+
+为了观察并分析DA-DOCS算法求解的质量，本文设定种群规模 $\Nu { = } 3 0$ ，最大迭代次数为5000次，被发现概率为0.25，莱维飞行的步长缩放因子分别为0.1,1.3[22]，测试函数为 $F _ { 1 } \sim F _ { 8 }$ 。表2 展示了DA-DOCS 算法和标准CS 算法独立运行30次实验后的测试结果，分别从平均适应度误差及其标准差两个方面进行对比，最好结果由粗体凸显显示。
+
+由表2可以看出，DA-DOCS算法相比标准CS算法总体上改善了解的质量，对单模函数而言，函数解的质量有显著提高；对于有众多局部极值点的多峰函数，DA-DOCS算法也表现优秀，特别地，CS算法在 $F _ { 3 }$ 、 $F _ { 4 }$ 函数未能收敛，但DA-DOCS 算法在 $F _ { 4 }$ 、 $F _ { 5 }$ 函数上获得全局最优解。由此可得，DA-DOCS 算法相比标准CS 算法具有更好的求解精度。
+
+表1测试函数Table1Test functions  
+
+<html><body><table><tr><td>函数名</td><td>表达式</td><td>维度</td><td>范围</td><td>理论最优值</td></tr><tr><td>Spere</td><td>F=（x） j=1</td><td>20</td><td>[-100,100]</td><td>0</td></tr><tr><td>Quartic</td><td>月</td><td>20</td><td>[-20,20]</td><td>0</td></tr><tr><td>Rosenbrock</td><td>F=∑[1(x²-j）²+(x1)] j=1</td><td>20</td><td>[-100,100]</td><td>0</td></tr><tr><td>Rastrigin</td><td>F4=∑(x²-10cos(2πxj)+10) ji</td><td>20</td><td>[-5.12,5.12]</td><td>0</td></tr><tr><td>Griewank</td><td>F5= x-fcos xj +1 j= √j 4000</td><td>20</td><td>[-20,20]</td><td>0</td></tr><tr><td>Ackley</td><td>F6 =-20*exp -0.2* -exp(*cos(2πx)+20+e n j= Wn台</td><td>20</td><td>[-20,20]</td><td>0</td></tr><tr><td>Schaffer</td><td>F=0.5+ [(in2x-0.5) 1+0.001 (x)</td><td>20</td><td>[-20,20]</td><td>0</td></tr><tr><td>Wichalewicz</td><td>F8=-∑sin(xj) sin π</td><td>10</td><td>[0,π]</td><td>-9.660151</td></tr></table></body></html>
+
+Table 2Optimization accuracy values of CS and DA-DOCS   
+
+<html><body><table><tr><td rowspan="2">函数</td><td rowspan="2">维度</td><td colspan="2">CS</td><td colspan="2">DA-DOCS</td></tr><tr><td>Mean</td><td>Std.Dev</td><td>Mean</td><td>Std.Dev</td></tr><tr><td>F1</td><td>20</td><td>4.64e-19</td><td>1.18e-18</td><td>1.18-103</td><td>1.51e-103</td></tr><tr><td>F2</td><td>20</td><td>4.01e-24</td><td>1.20e-23</td><td>1.02e-168</td><td>7.26e-125</td></tr><tr><td>F3</td><td>20</td><td>3.54e+01</td><td>2.18e+01</td><td>2.59e-09</td><td>1.09e-09</td></tr><tr><td>F4</td><td>20</td><td>1.24e+02</td><td>3.29e+01</td><td>0.00e-00</td><td>0.00e-00</td></tr><tr><td>F5</td><td>20</td><td>2.01 e-03</td><td>2.40e-03</td><td>0.00e-00</td><td>0.00e-00</td></tr><tr><td>F6</td><td>20</td><td>8.37e-01</td><td>8.87 e-01</td><td>3.55e-15</td><td>0.00e-00</td></tr><tr><td>F7</td><td>20</td><td>9.70e-03</td><td>5.10 e-01</td><td>7.97e-04</td><td>5.76e-04</td></tr><tr><td>F8</td><td>10</td><td>2.46e-01</td><td>1.54e-01</td><td>2.16e-07</td><td>4.13e-13</td></tr></table></body></html>
+
+3.2.2收敛速度分析
+
+为了观察分析DA-DOCS 算法的收敛速度，本文设定种群规模 $\Nu { = } 3 0$ ，被发现概率为0.25，莱维飞行的步长缩放因子分别为 $0 . 1 , 1 . 3 ^ { [ 2 2 ] }$ 。通过选取的八个测试函数对DA-DOCS算法和标准CS 算法进行30 次独立实验，分别从收敛于指定精度阈值的平均函数评价次数(FES)及其标准差进行对比（表3）。其中“—"表示不能收敛到指定阈值，最好结果由粗体凸显显示。图3对应八个测试函数寻优收敛曲线图。
+
+标准CS算法采用整体评价再更新策略存在维间干扰，在一定程度上浪费了评价次数，未能获得更好的解，使得收敛较慢[10]，但本文改进的逐维反向学习策略在消耗了一定的评价次数之后，增强了局部的求精能力，有利于获得较好的解，从而加快算法的收敛。观察表3也可知，通过对相同精度阈值下平均函数评价次数的比较，CS算法在 $F _ { 3 }$ 、 $F _ { 4 }$ 、$F _ { 8 }$ 测试函数上未能收敛于指定精度阈值；相反，DA-DOCS算法测试的 $F _ { 1 } \sim F _ { 8 }$ 函数都能够收敛于指定精度阈值，函数平均评价次数及其标准差明显低于标准CS算法的函数平均评价次数及其标准差。由此可得，本文改进的算法相比标准CS算法有更快的收敛速度和更好的鲁性。
+
+表2CS与DA-DOCS 的寻优精度结果  
+表3指定精度阈值下CS与DA-DOCS的函数评价次数  
+Table 3FES of CS and DA-DOCS under specified accuracy threshold   
+
+<html><body><table><tr><td rowspan="2">函 数</td><td colspan="2">CS</td><td colspan="2">DA-DOCS</td></tr><tr><td>Mean</td><td>Std. Dev</td><td>Mean</td><td>Std.Dev</td></tr><tr><td>F1</td><td>107556</td><td>7201</td><td>29044</td><td>454</td></tr><tr><td>F2</td><td>74364</td><td>13868</td><td>18240</td><td>1065</td></tr><tr><td>F3</td><td>1</td><td>1</td><td>86096</td><td>17356</td></tr><tr><td>F4</td><td></td><td></td><td>30336</td><td>1714</td></tr><tr><td>F5</td><td>188520</td><td>91813</td><td>26884</td><td>1730</td></tr><tr><td>F6</td><td>244824</td><td>67972</td><td>41148</td><td>609</td></tr><tr><td>F7</td><td>810540</td><td>98524</td><td>62136</td><td>19858</td></tr><tr><td>Fg</td><td></td><td></td><td>7240</td><td>2098</td></tr></table></body></html>
+
+图3（a）～（h）以算法的迭代次数为横轴，适应度函数的对数值为竖轴，图形化展示了改进算法和CS算法在八个测试函数中的寻优搜索收敛过程，其中，测试函数的维度
+
+为 20。由图3可以看出，无论是简单的单峰还是复杂的多峰函数，改进算法相比CS算法在收敛前期收敛速度更强，在收敛后期具有更强的搜索活力。特别地，图3（d）（e)中DA-DOCS算法快速收敛到理论最优解。由此可得，本文改进的DA-DOCS
+
+![](images/807fdb1c1d2d41117818a3a07b7bb41175997f12ce684e210c4ef6695019494a.jpg)  
+图3DA-DOCS与CS寻优收敛曲线图
+
+Fig.3Optimization convergence curves of DA-DOCS and CS算法弥补了标准CS 算法收敛缓慢，后期局部收敛活力不强的缺点，具有更好的算法挖掘能力和开采能力，验证了表3的实验结果。
+
+# 3.2.3维度变化分析
+
+为了观察与分析DA-DOCS算法随维度变化的影响，本文通过表4展示了CS算法与DA-DOCS算法在不同维度，收敛于同一精度阈值，独立运行30 次之后获得的平均迭代次数以及标准差。设定种群规模 $\Nu { = } 3 0$ ，被发现概率为0.25，莱维飞行的步长缩放因子分别为 $0 . 1 , 1 . 3 ^ { [ 2 2 ] }$ 。其中，“—"表示最大迭代次数 $1 0 0 0 \times \mathrm { { D } }$ 内无法收敛到指定精度阈值。最好的结果由粗体凸显显示。
+
+由表4可以看出，CS算法维度从50增加到100时，函数的平均迭代次数增加2倍以上；相较于DA-DOCS算法，维度增加时，平均迭代次数增长幅度在1倍以内。 ${ \mathrm { ~ \cal ~ D = 1 0 0 } }$ 维时，CS 算法未能全部收敛，但 DA-DOCS 算法求解的$F _ { 1 } \sim F _ { 8 }$ 函数全部收敛到指定精度阈值。由此可见，DA-DOCS算法采用逐维反向策略以及动态适应方式，更好地避免了各维度间的干扰，在高维度函数求解中表现出了更好的全局寻优能力，能够提高算法的全局搜索能力和局部开发能力，从而有效提升算法求解的效果、效率以及搜索活力。
+
+表4不同维度的迭代次数结果
+
+Table 4Number of iterations with different dimensions   
+表5DA-DOCS与其他改进算法寻优精度结果  
+
+<html><body><table><tr><td colspan="5">D=50</td></tr><tr><td>函 阀</td><td colspan="2">CS</td><td colspan="2">DA-DOCS</td></tr><tr><td>数</td><td>值</td><td>Mean Std.Dev</td><td>Mean</td><td>Std. Dev</td></tr><tr><td>F1 10-5</td><td>1985.11</td><td>73.01</td><td>794.17</td><td>19.33</td></tr><tr><td>F2 10-5</td><td>1691.73</td><td>75.23</td><td>539.90</td><td>15.33</td></tr><tr><td>F3 10-5</td><td>18480.00</td><td>2332.60</td><td>5012.43</td><td>1278.60</td></tr><tr><td>F4 10-4</td><td>10373.20</td><td>1185.50</td><td>6352.21</td><td>987.45</td></tr><tr><td>F5 10-5</td><td>1632.2</td><td>85.16</td><td>664.00</td><td>17.92</td></tr><tr><td>F6 10-5</td><td>4835.00</td><td>158.25</td><td>1017.90</td><td>24.37</td></tr><tr><td>F7 10-3</td><td>14663.00</td><td>4976.20</td><td>2644.50</td><td>310.25</td></tr><tr><td colspan="5">D=100</td></tr><tr><td>函 阀</td><td colspan="2">CS</td><td colspan="2">DA-DOCS</td></tr><tr><td>数</td><td>值 Mean</td><td>Std .Dev</td><td>Mean</td><td>Std.Dev</td></tr><tr><td>F1 10-5</td><td>4049.50</td><td>101.48</td><td>1406.11</td><td>26.04</td></tr><tr><td>F2 10-5</td><td>3945.30</td><td>275.62</td><td>1098.30</td><td>36.39</td></tr><tr><td>F3</td><td>10-5 1</td><td>丨</td><td>14031.00</td><td>5761.90</td></tr><tr><td>F4</td><td>10-4 32484.00</td><td>66.13</td><td>5812.10</td><td>1321.45</td></tr><tr><td>F5</td><td>10-5 1</td><td>1</td><td>1144.50</td><td>21.73</td></tr><tr><td>F6</td><td>10-5 1</td><td>1</td><td>1732.90</td><td>38.69</td></tr><tr><td>F7</td><td>10-3 一</td><td></td><td>6859.10</td><td>909.68</td></tr></table></body></html>
+
+Table 5Optimization accuracy values of DA-DOCS and other   
+
+<html><body><table><tr><td colspan="5">improvedCSalgorithms</td></tr><tr><td>函数</td><td>参数</td><td>DSCS</td><td>DDICS</td><td>DA-DOCS</td></tr><tr><td>F1</td><td>Mean</td><td>1.15E-61</td><td>1.98E-54</td><td>1.01E-103</td></tr><tr><td rowspan="7">F2</td><td>Best</td><td>6.97E-62</td><td>4.31E-56</td><td>8.62E-104</td></tr><tr><td>Std. Dev</td><td>5.19E-61</td><td>1.46E-54</td><td>1.45E-103</td></tr><tr><td>T(s)</td><td>0.14</td><td>6.18</td><td>2.36</td></tr><tr><td>Mean</td><td>1.13E-117</td><td>4.42E-105</td><td>1.16E-168</td></tr><tr><td>Best</td><td>5.97E-118</td><td>3.16E-109</td><td>2.65E-168</td></tr><tr><td>Std. Dev</td><td>3.57E-117</td><td>5.76E-105</td><td>2.06E-167</td></tr><tr><td>T(s)</td><td>0.31</td><td>12.99</td><td>3.08</td></tr><tr><td>F5</td><td>Mean</td><td>2.51E-03</td><td>2.01E-03</td><td>0.00E-00</td></tr><tr><td rowspan="6">F6</td><td>Best</td><td>0.00E-00</td><td>1.11E-03</td><td>0.00E-00</td></tr><tr><td>Std. Dev</td><td>4.15E-03</td><td>2.44 E-03</td><td>0.00E-00</td></tr><tr><td>T(s)</td><td>0.18</td><td>8.89</td><td>3.02</td></tr><tr><td>Mean</td><td>8.88E-15</td><td>5.75E-14</td><td>3.85E-15</td></tr><tr><td>Best</td><td>7.54E-15</td><td>3.21E-15</td><td>3.55E-15</td></tr><tr><td>Std.Dev</td><td>2.38E-15</td><td>1.77E-15</td><td>5.32E-16</td></tr><tr><td rowspan="5">F7</td><td>T(s)</td><td>0.21</td><td>7.97</td><td>2.92</td></tr><tr><td>Mean</td><td>2.92E-02</td><td>2.84E-02</td><td>1.74E-03</td></tr><tr><td>Best</td><td>2.08E-02</td><td>4.52E-03</td><td>6.43E-04</td></tr><tr><td>Std. Dev</td><td>3.71E-03</td><td>4.70E-03</td><td>5.78E-04</td></tr><tr><td>T(s)</td><td>0.19</td><td>10.99</td><td>2.88</td></tr></table></body></html>
+
+# 3.3与其他改进CS 算法比较
+
+为了进一步证明算法的性能，本文选取了五个测试函数与文献[10]中的DDICS 算法、文献[22]中的DSCS 算法进行比较，结果如表5所示。表5分别从适应度误差平均值、最好值、其标准差以及算法运行时间四个方面进行对比，最好结果用粗体凸显显示。其中种群规模 $\Nu = 3 0$ ，被发现概率为0.25，最大迭代次数为5000，维度为20，每种算法独立运行 30 次，其他改进的CS 算法参数设置由参考文献确定。图4为DA-DOCS算法与其他改进CS算法的函数寻优收敛曲线图。
+
+由表5可以看出，各改进的算法针对不同函数，呈现出来的性能各不一样。DA-DOCS算法在 $F _ { 5 }$ 函数上可以收敛到理论最小值，表现出较强的寻优能力，在适应度误差平均值与最大值上，与其他算法相比具有较大优势，针对 $F _ { 1 }$ 函数，DA-DOCS 算法相比其他改进算法提高了近40 个等级，由此可得，本文改进的算法相比其他改进的CS算法，具有更好的寻优精度。在算法运算时间上，本文改进的算法相比较于DSCS算法，所用时间较长，但相比较DDICS 算法，本文改进的算法所用时间减少了 $6 9 . 6 8 \%$ ，有效缩短了算法运行时间。因此，改进算法表现出了较强的竞争力。由图4（a）\~（e）可以看出，DA-DOCA算法相对于DDICS算法和DSCS算法有较好的求解精度以及收敛速度，在收敛后期更具活力，从而验证了表5的结果。
+
+![](images/691897cf16b2753866f52ce7583cbbdedef8551c181d0653fd654abf46180fa5.jpg)  
+图4DA-DOCS与其他改进CS寻优收敛曲线图 Fig.4Optimization convergence curves of DA-DOCS and other improved CS
+
+综上所述，对于文中选取的八个测试函数，本文提出的基于逐维反向学习的动态适应布谷鸟算法，采用逐维方向学习和动态适应的方式，减少维间干扰，扩大搜索范围，动态适应控制缩放因子，有效地提高了CS算法的收敛速度、求解精度和搜索活力。
+
+# 4 结束语
+
+本文针对CS算法的不足，提出了一种基于逐维反向学习的动态适应布谷鸟搜索算法。该算法主要针对标准CS算法做了两点改进：a)在CS算法中加入逐维反向学习，并利用精英保留的方式评价该更新结果，增强了种群的多样性，扩大了搜索范围，强化了维度间进化维的信息，减少了维间互扰，使得算法在处理高维度优化函数时，具有更好的寻优精度和搜索速度；b)充分利用当前解的信息进行动态适应的缩放因子控制，使得上一代的最优解的信息能够影响当前解的更新方向，提升解的搜索活力。通过对八个标准测试函数进行实验仿真，结果表明，相比标准CS算法，本文改进DA-DOCS算法在高维度优化问题时，具有更好的收敛速度和寻优能力以及搜索活力；相比其他改进的CS 算法，DA-DOCS 算法具有较好的收敛精度和搜索活力，具有一定的竞争力。
+
+# 参考文献：
+
+[1]Yang Xinshe,Deb S.Cuckoo Search via Levy flights [C]// Proc of World Congresson Nature & Biologically Inspired Computing. Piscataway: IEEE Publications,2009:210-214.   
+[2]Jiang Minlan,Luo Jingyuan,Jiang Dingde,et al.A cuckoo searchsupport vector machine model for predicting dynamic measurement errors of sensors [J].IEEE Access,2017,4(99): 5030-5037.   
+[3]Wang Lijing，Zhong Yiwen，Yin Yilong.Nearest neighbor cuckoo search algorithm with probabilistic mutation [J].Elsevier Science Publishers B.V.Amsterdam,2016,49:498-509.   
+[4]兰少峰，刘升．布谷鸟搜索算法研究综述[J].计算机工程与设计, 2015，36 (4):1063-1067.(Lan Shaofeng,Liu Sheng.Overview of research on Cuckoo search algorithm [J].Computer Engineering and Design,2015,36(4):1063-1067.)   
+[5]杨辉华，王克，李灵巧，等．基于自适应布谷鸟搜索算法的 K-means 聚类算法及其应用[J].计算机应用,2016,36(8):2066-2070.(Yang Huihua,Wang Ke,Li Lingqiao,et al.K-means clustering algorithm based on adaptive Cuckoo search and its application [J]. Journal of Computer Applications,2016,36 (8): 2066-2070.)   
+[6]王凡，贺兴化，王燕，等．基于CS 算法的 Markov 模型及收敛性分 析[J].计算机工程,2012,38(11):180-185.(Wang Fan,He Xingsh, Wang Yan,et al.Markov model and convergence analysis based on Cuckoo search algorithm [J].Computer Engineering,2012,38 (11): 180-185.)   
+[7]陈华，张艺丹．基于logistic 模型的自适应布谷鸟算法[J].计算机 工程与应用,2015,51(20):31-35.(Chen Hua,Zhang Yidan.Adaptive Cuckoo algorithm based on logistic model [J]. Computer Engineering and Applications,2015,51 (20): 31-35.)   
+[8]Pauline O, Zarita Z, Chee K S,et al.Adaptive Cuckoo search algorithm with two-parent crossover for solving optimization problems [J]. Advancesin Swarm and Computational Intelligence Springer International,2015,6 (2): 427-435.   
+[9]马卫，孙正兴，李俊楼．基于 Powell 局部搜索策略的全局优化布谷 鸟算法[J].计算机应用研究,2015,32(6):1667-1775.(MaWei,Sun Zhengxing,Li Junlou. Cuckoo search algorithm based on powell local search method for global optimization [J].Application Research of Computers,2015,32(6):1667-1775.)   
+[10]王李进，尹义龙，钟一文．逐维改进的布谷鸟搜索算法[J].软件学 报,2013,24(11): 2687-2698.(Wang Lijin,Yin Yilong,Zhong Yiwen. Cuckoo search algorithm with dimension by dimension improvement [J].Journal of Software,2013,24(11): 2687-2698.)   
+[11]Wang Jun,Zhou Bihua,Zhou Shudao.An improved Cuckoo search optimization algorithm for the problem of chaotic systems parameter estimation [J]. Computational Intelligence and Neuroscience,2O16,8 (2): 1-8.   
+[12]高云龙，闫鹏．基于多种群粒子群算法和布谷鸟搜索的联合寻优算 法[J].控制与决策,2016,31(4):601-608.(Gao Yunlong,Yan Peng. Unified optimization based on multi-swarm PSO algorithm and Cuckoo search algorithm[J].Control and Decision,2016,31(4):601-608.)   
+[13] MlakarU,FisterIJ,Fister I.Hybrid self-adaptive Cuckoo search for global optimization [J]. Swarm& Evolutionary Computation,2016,29: 47-72.   
+[14] Tizhoosh HR.Opposition-based learning:a new scheme for machine intelligence [Cl// Proc of Computational Intelligence for Modelling. Vienna,Austria: Computer Society,2005,1: 695-701.   
+[15]Wei Wenhong，Zhou Jianlong，Fang Chen，et al.Constrained differential evolution using generalized opposition-based learning [J]. ActaElectronica Sinica,2016,20(11):4413-4437.   
+[16] Zhang Sen,Luo Qifang,Zhou Yongquan.Hybrid grey wolf optimizer using elite opposition-based Learning strategy and simplex method [J]. International Journal of Computational Intelligence and Applications, 2017,16 (2): 1-12.   
+[17]Ahandani M A,Alavi-Rad H.Opposition-based learning in shuffled frog leaping:an application for parameter identification [J].Information Sciences.2015,291 (291):19-42.   
+[18]张永鞾，汪镭，吴启迪．动态适应布谷鸟搜索算法[J].控制与决策， 2014,29(4):617-622.(Zhang Yongwei,Wang Lei,Wu Qidi.Dynamic adaptation Cuckoo search algorithm[J].Control and Decision,2O14,29 (4): 617-622. )   
+[19] Elkeran A.A new approach for sheet nesting problem using guided Cuckoo search and pairwise clustering [J].European Journal of Operational Research,2013,231(3):757-769.   
+[20]肖海林，张文娟，聂在平，等．基于布谷鸟搜索算法的用户选择和干 扰对齐 [J]．电子科技大学学报.2017,46(6):801-806.(Xiao Hailin, Zhang Wenjuan,Nie Zaiping,et al.User selection based on Cuckoo search algorithm and Interference Alignment [J].Journal of University ofElectronic Science and Technology of China,2017,46 (6): 801-806.)   
+[21]范帅军．布谷鸟搜索算法的应用研究与改进[D].成都：西南交通 大学,2016.(Fan Shuaijun.Application research and improvement of Cuckoo search algorithm [D]. Chengdu: Southwest Jiaotong University, 2016.)   
+[22] Cai Zefan,Yang Xiaodong.Cuckoo Search Algorithm with deep search [C]/Proc of the 3rd IEEE International Conference on Computer and Communications.Chengdu:IEEE Publications,2018:2241-2246.

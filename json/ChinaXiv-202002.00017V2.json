@@ -1,0 +1,379 @@
+[
+    {
+        "type": "text",
+        "text": "自我肯定缓冲新冠疫情引发的焦虑反应：一项随机对照研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李世峰1,2 吴艺玲1,2张福民1,2许琼英1,²周爱保1,2(」 甘肃省行为与心理健康重点实验室，西北师范大学，兰州 730070)(² 西北师范大学心理学院，兰州 730070)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要当个体知觉到环境中存在威胁时，就会自动的引发个体的应激反应。而长期的应激会使个体产生一系列严重的心理和身体健康问题。大量的研究发现肯定自我价值可以缓冲由应激引发的负面情绪和身体反应。本研究通过实验的方法考察了肯定自我价值是否可以降低新冠肺炎(COVID-19)疫情引发的焦虑和抑郁情绪反应。220名被试被随机分配到自我价值肯定任务组或控制任务组，被试在干预前(2月2日)和一个星期后(2月9日)完成焦虑和抑郁测量。研究结果发现相对于控制组在一周后比前测时表现出更严重的焦虑情绪，自我价值肯定组在前测和一周后在焦虑情绪上没有显著的变化，这一效应在控制了性别、年龄、受教育水平和家庭年收入后仍然存在。这些结果表明简短的(约10分钟)对自我价值的反思可以帮助个体缓冲疫情引发的焦虑情绪反应。这一发现对于从社会心理的视角进行疫情防护提供了重要的科学证据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词新冠肺炎(COVID-19)；应激；自我肯定；焦虑；抑郁 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "新型冠状病毒肺炎(COVID-19)，因 2019 年12月在湖北省武汉市发现多起病毒性肺炎病例而被发现(武汉市卫健委,2019)。2020 年1月30日，世界卫生组织(WTO)宣布将该肺炎疫情列为国际关注的突发公共卫生事件(PHEIC)。该病毒引发的主要初始临床特征为发烧、咳嗽、头疼、嗓子疼及肌肉酸痛等，并逐渐出现呼吸困难甚至死亡等严重后果(Chen et al.2020;Huang et al.,2020)。虽然新型冠状病毒最初可能源于野生动物(例如，蝙蝠；Lu et al.,2020)，但现已具备人传人的特征(Chan et al.,2020)。目前新型冠状病毒的主要传染源为已感染的患者，主要通过接触和呼吸道飞沫进行传播，人群普遍易感，潜伏期为 $1 { \\sim } 1 4$ 天(国家卫健委,2020a)。因此新型冠状病毒具有很强的传染性。截止 2020年2月9日 24时，全国已累计确诊病例40171例，现有疑似病例23589例，累计追踪到密切接触者 399487人(国家卫健委,2020b)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由于很强的传染性和目前还没有有效的针对病原体的抗病毒药物，疫情的持续也引发了大众一系列不良的心理反应。李思嘉等人分析了17865 名活跃微博用户 2020年1月20 日前一周和后一周的词频使用特征，结果发现1月20日后负性情绪词和焦虑词的使用频率显著升高，同时愤怒情绪词和对社会风险的判断词也出现上升(李思嘉，王艺霖，赵楠，朱廷劭，2020)。这些情况表明在 2020 年1月20日，官方给新型冠状病毒疫情定性后，即国家卫健委将新型冠状病毒感染的肺炎纳入《中华人民共和国传染病防治法》规定的乙类传染病，并采取甲类传染病的预防、控制措施后，民众对疫情的关注和焦虑普遍上升。此外，由北京大学等单位研究者组成的\"公众对新型冠状病毒的认知和个体防疫行为\"调研组 2020 年1月$2 6 { \\sim } 2 7$ 日对覆盖全国31个省市自治区的11479人进行了调研。结果发现面对疫情，大部分人都表现出了不同程度的焦虑 $( 6 6 . 9 \\% )$ 、担忧 $( 7 1 . 7 \\% )$ 和恐惧感 $( 5 8 . 2 \\% )$ ，完全不焦虑、不担忧和不恐惧的人只占 $3 \\% \\sim 4 \\%$ (\"公众对新型冠状病毒的认知和个体防疫行为\"调研组,2020)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当个体知觉到环境中存在威胁时，就会自动的引发个体的应激反应，例如紧张、焦虑和抑郁等情绪(Cohen, Janicki-Deverts,&Miller,2007)。大量的研究发现，应激引发的负性情绪状态(例如焦虑和抑郁)会直接影响于个体的生理过程和行为反应模式(Koolhaas et al.,2011)。例如交感-肾上腺髓质轴和下丘脑-垂体-肾上腺皮质轴功能(大脑对应激的管理系统)的改变(McEwen,1998;Miler,Chen,&Zhou,2007)和对应激事件的过度关注(Waters,Bradey,&Mogg,2014)。长期处于威胁情境会造成长期甚至永久性的情绪、生理及行为模式的改变，降低个体的免疫系统，威胁个体的身体健康(Segerstrom& Miller,2004)。当前，新型冠状病毒疫情成为了一种威胁情境，当个体面对疫情时，就会表现出焦虑、担忧和恐惧等各种负性的应激情绪(\"公众对新型冠状病毒的认知和个体防疫行为\"调研组,2020)，并对疫情相关信息出现较多的关注(李思嘉等,2020)。随着疫情的持续，长期的应激可能还会进一步恶化个体的情绪反应并对其身体健康造成威胁。因此，如何缓冲或降低由疫情给大众带来的应激反应，对于全社会以理性、平和、积极的心态应对疫情防控具有重要的意义(Xiang et al.,2020)",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自我肯定(self-affirmation)指在具有挑战的或威胁的情境时，通过将自我看作是整体上胜任的、优秀的和有效的个体，从而减弱相关威胁情境对自我的负面影响(Steele,1988;Sherman&Cohen,2006)。自我肯定理论认为人们有维持自我完整性的动机(Cohen& Sherman,2014)，而自我完整性是指个体相信自己是胜任的和有效的(Taylor,Lerner,Sherman,Sage,&McDowell,2003；Steele,1988; Sherman& Cohen,2006)。威胁自我完整性的事件或信息引发的应激会启动个体的自我防御机制，使个体将更多的认知资源分配到引起心理威胁的事件或信息上。由于每个人的认知资源是有限的，个体将在表现和解决问题方面获得更少的认知资源，从而阻碍其客观公正的认知和应对威胁(Cohen& Sherman,2014)",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究表明，确认重要的价值观可以增加个体面对威胁的心理资源(Creswell,Dutcher,Klein,Harris,& Levine,2013; Cohen & Sherman,2014; Goyer et al.,2017)。有了这种对自我资源的强化认知，使个体可以从更广阔的视角来看待一个焦点威胁。当个体从更普遍的、更高层次的解释中看待这一威胁事件时，这种威胁对整体自我的消极影响将大大降低(Sherman,2013)。肯定理论的核心是自我系统是灵活的，人们在自身的\"心理免疫系统\"中有很多反应可以利用(Gilbert,Pinel,Wilson,Blumberg,& Wheatley,1998)。当人们确认他们的整体自我是完整时，他们对自我的看法是有能力的和适应性的，他们就不需要将威胁信息合理化(Sherman&Cohen,2006;Steele,1988)。提醒他们是谁，什么对他们来说重要，在自我叙述中加入这样的自我肯定可以有效地降低威胁带来的压力。大量的实证研究也支持了自我肯定的积极作用。在生理水平，研究发现相对于控制组，自我肯定组在应激情境下有着更低的皮质醇和心血管反应(Creswell et al.,2005; Derks,Scheepers, Van Laar,& Ellemers,2011)。在心理水平，对自我价值的肯定可以降低对威胁信息的知觉(Sherman＆Cohen,2002)及其引发的不良情绪反应(Morgan&Harris,2015)。自我肯定通过改变个体对自我的认知，产生一系列的积极适应性结果，它会触及到自我系统和社会系统之间一系列互相强化的交互作用，从而促进良性循环(Cohen & Sherman,2014)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在健康领域，自我肯定理论认为大部分个体认为自己是安全和健康的(Cohen&Sherman,2014)，因此当个体面对如疾病或死亡等对安全和健康引发的威胁或不可控的情境时，会对个体的适应性带来严峻的挑战(Greenberg,Solomon,& Pyszczynski,1997)，降低自我控制感，威胁自我的完整性(Keough&Markus,1998)。自我肯定虽然不能改变客观的威胁情境和信息，但其可以通过增加自我资源、扩展认知视角和降低自我与威胁之间的关联缓冲威胁情境对自我的损耗，从而缓解威胁引发的应激。例如，Schmeichel和 Martens (2005)的研究发现自我肯定可以降低个体对死亡凸显信息威胁的知觉。一项对早期乳腺癌患者的研究发现自我肯定书写表达可以降低主观知觉到的压力反应和自我报告的临床症状(Creswellet al.,2007)。此外，相关的研究也证实自我肯定也可以有效降低由不可控造成的认知偏差(Whitson&Galinsky,2008)和压力反应(Wiesenfeld,Brockner,Petzal,Wolf,& Bailey,2001)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当前，疫情爆发和持续使个体产生一种不可预测感和不可控感。不知病毒隐藏在哪里，自己是否会被传染，一旦被感染，没有行之有效的治疗方式等。这种不可预测感和不可控感使个体处于一种持续的应激状态，表现出对疫情的高度关注并产生焦虑和恐慌(李思嘉等，2020;“公众对新型冠状病毒的认知和个体防疫行为\"调研组,2020)。而且，自 2020 年1月 27日单日确诊人数破千后(1771人)，随后每日都有大量病例被确诊。截止本研究开始实施的 2月2日，全国累计已有确诊人数17205 例，疑似病例 21558 例(图1，国家卫健委,2020b)。随着疫情的发展和持续，不断上升的确诊病例和疑似病例可能将引发人们更高的焦虑和恐慌等不良情绪反应。因此在本研究中，我们将考察自我价值肯定是否可以缓冲或降低由新冠肺炎(COVID-19)疫情引发的焦虑和抑郁情绪反应。基于已有的研究和当下疫情的发展，我们预期自我肯定将会缓冲或降低持续的疫情导致的人们持续升高的负性情绪反应；而对照组被试将随着疫情的持续表现出升高的焦虑和抑郁反应。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2a47862a508352399a76d1bb47d6959d7148833fe4064ac55601634348b72f60.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图12020年1月22日至2月9日疫情发展情况。数据来源于国家卫健委官方网站。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.1 被试",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图2为本研究的流程图。本研究最初共包括 220 名被试，由 22名主试(学生)基于方便取样的方式获得。被试来自全国16个省市自治区，其中甘肃占 $3 7 . 7 \\%$ ，山东占 $1 3 . 2 \\%$ ，福建占 $1 1 . 8 \\%$ ，山西占 $10 . 5 \\%$ ，河北占 $8 . 2 \\%$ ，河南占 $5 \\%$ ，四川占 $4 . 5 \\%$ ，辽宁占 $3 . 2 \\%$ ，天津和新疆各占 $1 . 4 \\%$ ，浙江占 $0 . 9 \\%$ ，陕西、上海、湖北、安徽和云南各占 $0 . 5 \\%$ 。所有被试首先在 2月2日完成背景信息问卷和基线的焦虑和抑郁测量(T1)。随后根据研究者事先设定的编号$( 0 0 1 \\sim 2 2 0 )$ ，将220名被试被随机分配到自我价值肯定干预组或控制组完成相应的实验操作。奇数编号为干预组，偶数编号为控制组，每组各110名被试。在干预结束1周后(2月9日:T2)，被试再次完成后测的焦虑和抑郁评估。在后测时，自我肯定组有12名被试流失，控制组有18 名被试流失。在最终分析前，自我肯定组2名年龄分布极端的被试被剔除，控制组有1名被剔除。因此，最终进入分析的样本为187名被试，年龄范围为 $1 6 { \\sim } 5 0$ 岁 $\\scriptstyle \\cdot { M } = 2 3 . 9 8$ ± 7.39)，其中自我肯定组96名，控制组91名。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在研究之前，我们使用G\\*Power3.1(Faul etal.,2007)软件对研究所需样本量进行了估计。在假定获得一个中等效应量 $f = 0 . 2 5$ 、power $= 0 . 9 5$ 和有2个测量指标(估计相关为0.70)的情况下，在重复测量方差分析中探测到显著的组内和组间的交互效应最少需 34名被试，即各组17 名。同时，我们也基于 Morgan 和 Harris(2015)关于自我肯定对焦虑情绪干预的研究中获得的效应量 $( \\eta ^ { 2 } = 0 . 0 7 )$ 估计了本研究最小的样本量需求。在 $\\eta ^ { 2 } = 0 . 0 7$ (转换为 $f { = } 0 . 2 7$ ; Lenhard& Lenhard,2016)、power $= 0 . 8 0$ 和有2个测量指标(估计相关为0.7)的情况下，在重复测量方差分析中探测到显著的 $( p < 0 . 0 5 )$ 组内和组间的交互效用最少需要 20 名被试，即各组10名。在本研究最终的样本中，自我肯定组为96名被试，控制组为91名被试，满足了基本被试需求。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c4eff0073eb0793f26dda8b3c4ce4cc497c7e0682a45b459ec191af1c5ad25e9.jpg",
+        "img_caption": [
+            "图2本研究的流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在疫情期间，为了尽可能的减少接触，整个研究的施测由 22名主试(学生)在线完成。本研究采用双盲设置，所有主试和被试对被试的分配和研究目的都不知情，也都没有参与过类似的研究。本研究程序经本单位伦理审查委员会在线审查通过。由于处在大隔离时期，不方便打印和签署书面的知情同意，所有的被试在施测前都获得口头知情同意。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1 干预和工具",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "干预 在干预中，自我价值肯定组和控制组都被要求完成一个价值观选择量表并根据选择的价值观进行写作。两组唯一的区别是自我肯定组被要求选择自己认为最重要的价值，并描述为什么选择的这一价值对自己是重要的。而控制组被要求选择一个他认为最不重要的价值，并描述为什么选择的这一价值可能对他人来说是重要的。在写作过程中，要求被试尽可能多的写出自己所有的想法。在写作完成后，为了进一步强化干预效果，被试完成了一个由4个题目组成的关于已选价值观的判断量表： $\\textcircled{1}$ 这个价值观深深地影响着我/他人的生活； $\\textcircled{2}$ 总体上，我/他人努力去践行着这一价值观； $\\textcircled{3}$ 这一价值观是我/他人自我认同的重要组成部分； $\\textcircled{4}$ 我/他人会非常在乎这个价值观。答案为 $1 { \\sim } 6 \\ell$ “非常不同意\"到“非常同意\")六级评分。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "所有的干预程序都是严格的基于已有研究(Cohen,Garcia,Apfel,&Master,2006;Goyer etal.,2017)。但为了使价值观列表更适合中国人的特征，本研究基于金盛华、郑建君和辛志勇(2009)关于当代中国人价值观的结构与特点的研究，选择了中国人最认同6个的价值(自律和品格，能力和才华，公共利益，家庭与亲情，金钱和财富，名望和地位)作为本研究的价值观量表。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究中使用焦虑自评量表(SAS)和贝克抑郁自评量表(BDI)评估被试在实验操作前一周和后一周的焦虑和抑郁情绪状态。同时我们在前测时也收集了被试的年龄、性别、受教育水平和家庭年收入等人口学变量。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "焦虑自评量表(SAS）该量表最初由 Zung 编制(Zung,1971)，主要用于评定健康或临床个体主观焦虑症状，是目前使用最广泛的焦虑自评量表。修订的中文版也具有良好的信效度(陶明，高静芳,1994)，共包括 20 个题目，各条目为 $1 { \\sim } 4$ 四级评分，得分范围为 $2 0 { \\sim } 8 0$ 。分数越高表示焦虑程度越高。在本研究的样本中，该量表的内部一致性系数为0.750(T1)和0.724(T2)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "贝克抑郁自评量表(BDI) 该量表最初由 Beck 等人编制(Beck,Ward,Mendelson,Mock,&Erbaugh,1961)，主要用于评估个体主观感受到的抑郁症状。修订的中文版具有较好的信度和效度(汪向东，王希林，马弘,1999)，共有21个题目，各条目为 $0 { \\sim } 3$ 四级评分，得分范围为 $0 \\sim 6 3$ 。分数越高表示抑郁程度越高。在本研究的样本中，该量表的内部一致性系数为0.857(T1)和 0.850(T2)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "受教育水平 本研究使用一个7-Likert量表对被试的受教育水平进行了评定 $\\mathbf { \\varepsilon } _ { \\circ } 0 = \\mathbf { \\varepsilon }$ 文盲，$1 =$ 小学水平， $2 =$ 初中水平， $3 =$ 高中或中专水平， $4 =$ 大专水平， $5 =$ 本科水平， $6 =$ 研究生及以上水平。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "家庭年收入 本研究使用一个8-Likert量表对被试的家庭年收入进行了评定。 $1 = 0 . 5$ 万以下， $2 = 0 . 5 \\sim 1$ 万， $3 = 1 { \\sim } 2$ 万， $4 = 2 { \\sim } 5$ 万， $5 = 5 \\sim 1 0$ 万， $6 = 1 0 { \\sim } 2 0$ 万， $7 = 2 0 { \\sim } 5 0$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "万， $8 = 5 0$ 万以上。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1自我肯定组和控制组在背景信息和基线水平上的对比",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了考察两组被试在背景信息和基线水平上是否匹配，我们以年龄、性别、受教育水平、家庭年收入、以及T1的焦虑和抑郁得分为因变量，以组别为自变量进行了多元方差分析。多元方差分析的结果显示总体的组别效应不显著，Wilks'Lambda $= 0 . 9 9 3$ ， $F ( 5 , 1 8 1 ) = 0 . 2 4 6 , p$ $= 0 . 9 4 2$ ，偏 $\\eta ^ { 2 } = 0 . 0 0 7$ 。进一步的单变量分析显示两组被试在年龄、受教育水平、家庭年收入、以及T1的焦虑和抑郁得分上都不显著， $F \\mathrm { s } ( 1 , 1 8 5 ) < 0 . 5 4 4 , p \\mathrm { s } > 0 . 4 6 2$ ,(见表1)。同时，我们也对两组被试的性别分布做了卡方检验，结果显示两组被试在性别分布上也没有显著差异 $\\chi ^ { 2 } ( 1 ) = 0 . 0 1 6$ $p = 0 . 8 9 8$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/21924585984b77e9cf845309895a2572a4c10527b13ef8ad3fd2a1cc4a8a8f6e.jpg",
+        "table_caption": [
+            "表1两组被试在背景变量信息和基线水平上的对比"
+        ],
+        "table_footnote": [
+            "注： $\\mathrm { N } = 1 8 7$ ；a性别报告的为人数并进行了卡方检验。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td>自我肯定组(n=96)</td><td>控制组(n =91)</td><td rowspan=\"2\">F(1,185)</td><td rowspan=\"2\">偏η²</td></tr><tr><td>M (SD)</td><td>M (SD)</td></tr><tr><td>性别(男/女)a</td><td>35/61</td><td>34/57</td><td>0.016</td><td></td></tr><tr><td>年龄</td><td>24.14 (7.56)</td><td>23.81 (7.25)</td><td>0.767</td><td>0.000</td></tr><tr><td>受教育水平</td><td>4.78 (1.22)</td><td>4.85 (1.07)</td><td>0.700</td><td>0.001</td></tr><tr><td>家庭收入</td><td>3.79 (1.81)</td><td>3.99 (1.85)</td><td>0.462</td><td>0.003</td></tr><tr><td>焦虑T1</td><td>32.91 (6.35)</td><td>32.54 (6.56)</td><td>0.698</td><td>0.001</td></tr><tr><td>抑郁T1</td><td>7.57 (7.28)</td><td>7.84 (7.02)</td><td>0.795</td><td>0.000</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2干预效应分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了考察自我价值肯定的干预效应，首先我们以测量时间(T1vs.T2)为被试内变量，组别(自我肯定组vs.控制组)为被试间变量，性别、年龄、受教育水平和家庭年收入为协变量分别对焦虑和抑郁进行了重复测量方差分析。在焦虑上，结果发现测量时间的主效应不显著，$F ( 1 , 1 8 1 ) = 0 . 0 5 3$ $p = 0 . 8 1 8$ ，偏 $\\eta ^ { 2 } = 0 . 0 0 1$ 。组别的主效应也不显著， $F ( 1 , 1 8 1 ) = 1 . 5 9 0 ,$ $p =$ 0.209，偏 $\\eta ^ { 2 } = 0 . 0 0 9$ 。但时间和组别的交互效应显著， $F ( 1 , 1 8 1 ) = 4 . 8 5 7$ ， $p = 0 . 0 2 9$ ，偏 $\\eta ^ { 2 } =$ 0.026。进一步的简单效应分析发现相对于控制组在一周后的测量上比前测时表现出更严重的焦虑情绪， $F ( 1 , 1 8 1 ) = 6 . 3 1 5 , p = 0 . 0 1 3$ ，偏 $\\eta ^ { 2 } = 0 . 0 3 4$ ，自我价值肯定组在前测和一周后的测量时在焦虑情绪上没有显著的变化， $F ( 1 , 1 8 1 ) = 0 . 3 3 8 , p = 0 . 5 6 1 _ { \\cdot }$ 偏 $\\eta ^ { 2 } = 0 . 0 0 2$ ，见图3。在抑郁上，时间、组别的主效应以及时间和组别的交互效应都不显著 $p \\mathbf { s } > 0 . 0 5$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/7b521822640acc964f8d2c0825189e14a3a918d37e0f74f13984a63c6f9ffba7.jpg",
+        "table_caption": [
+            "表2两组被试在前测和一周后在焦虑和抑郁得分上的平均数和标准差"
+        ],
+        "table_footnote": [
+            "注： $\\begin{array} { r } { \\mathbf { N } = 1 8 7 ; \\mathrm { T } 1 = } \\end{array}$ 前测； $\\mathrm { T } 2 =$ 一周后的测量。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\"></td><td colspan=\"2\">自我肯定组(n=96)</td><td colspan=\"2\">控制组(n =91)</td></tr><tr><td>T1</td><td>T2</td><td>T1</td><td>T2</td></tr><tr><td>焦虑(M(SD))</td><td>32.91 (6.35)</td><td>32.44(6.48)</td><td>32.54 (6.56)</td><td>34.62(6.16)</td></tr><tr><td>抑郁(M(SD))</td><td>7.57 (7.28)</td><td>7.29(6.66)</td><td>7.84 (7.02)</td><td>7.31(6.51)</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/6ca8d46ca75e8bd1d6b0889718818709c3a4e198d98a6e7cf3b08e313e7f27b7.jpg",
+        "img_caption": [
+            "图3自我肯定组和控制组在干预前(T1)和一周后(T2)的焦虑水平。误差线代表标准误。"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由于焦虑和抑郁是两个高度相关的指标(T1: $r = 0 . 5 6$ ; T2: $r = 0 . 6 6 \\AA$ ，为了避免在分别的模型中多次分析造成一类错误的放大。我们以T2的焦虑和抑郁得分为因变量，以组别为自变量，性别、年龄、受教育水平、家庭年收入及T1的焦虑和抑郁得分为协变量进行了多元协方差分析，在一个模型中分析了自我肯定对焦虑和抑郁的缓冲效应。结果发现，在控制了性别、年龄、受教育水平、家庭年收入以及T1的焦虑和抑郁得分后，整体的组别效应显著，Wilks' Lambda $= 0 . 9 6 7$ $F ( 2 , 1 7 8 ) = 3 . 2 7 1$ $p = 0 . 0 4 0$ ，偏 $\\eta ^ { 2 } = 0 . 0 3 5$ 。进一步基于 $\\mathrm { ~ \\bf ~ P ~ }$ 值校正的 $( p$ $= 0 . 0 5 / 2 )$ 单变量分析显示只在焦虑上发现了显著的组别效应 $F ( 1 , 1 7 9 ) = 6 . 0 6 7$ ， $p = 0 . 0 1 5 <$ 0.025，偏 $\\eta ^ { 2 } = 0 . 0 3 3$ ；即在控制了性别、年龄、受教育水平、家庭年收入以及T1的焦虑和抑郁得分后，自我肯定组在T2的得分显著地小于控制组。但在抑郁情绪反应上，并没有发现显著的组别效应 $F ( 1 , 1 7 9 ) = 0 . 0 4 7 , p = 0 . 8 2 8$ ，偏 $\\eta ^ { 2 } = 0 . 0 0 1$ 。这些结果进一步确认了以上分别的重复测量方差分析中发现的结果。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "随着新型冠状病毒疫情的蔓延和持续，社会公众的心理问题正日渐成为一个重要命题。面对疫情，许多人都出现了焦虑和恐慌等一系列负性情绪反应(\"公众对新型冠状病毒的认知和个体防疫行为\"调研组,2020)。如果个体长期处在这种应激状态，会严重地损伤其心理和身体健康(Cohen etal.,2007)。因此，如何帮助个体应对疫情带来的负性情绪反应，也成为当前大众疫情防护的一个重要课题。本研究提供了首次的证据表明一个简短的自我肯定干预可以有效地缓冲个体由疫情引发的焦虑情绪反应。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究的发现与已有的相关研究结果相一致。已有的研究发现自我肯定可以有效地缓冲在实验室情境下诱发的(Creswell et al.,2005)、真实生活情境下的(Loft et al.,2007; ShermanBunyan,Creswell,& Jaremka,2009)，以及想象中的威胁(Pauketat,Moons,Chen,Mackie,&Sherman,2016)引发的应激反应。在通常情况下，当威胁出现时人们倾向于把自己的注意力聚焦于威胁事件，从而应对危险情境，这是个体的一种自我保护机制(Pratto& John,1991)。短期内这一应激机制对于个体有效地应对危险具有重要作用，但长期的应激会对个体的身心造成严重的负担和影响。自我肯定通过让个体思考与危险无关领域的重要个人价值，使个体不仅仅只是专注于当前的威胁，而是从更宽广的视角来审视自我当前的处境(Sherman&Hartsor,2011)。因此，自我肯定可以降低危险威胁情境对自我的损耗和心理的威胁(Harber,Yeung,& Iacovelli, 2011; Schmeichel & Vohs, 2009)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在本研究中，疫情的爆发和持续形成了一种自然的威胁情境，这种威胁会自动化地吸引个体的注意，使其聚焦于疫情及疫情相关信息，从而产生焦虑和恐惧等反应。例如最近的调查发现 $67 \\%$ 的民众表示对疫情“高度关注”， $22 \\%$ 的人表示“比较关注”，完全不关注者不足1%(\"公众对新型冠状病毒的认知和个体防疫行为\"调研组,2020)。而且2月2日前和后一周也是疫情快速发展期(见图1)，面对不断升高的确诊人数和疑似病例，人们可能会表现出更高焦虑和担忧的情绪。与此相一致，我们的结果显示从2月2日至2月9日控制组表现出了更高的焦虑水平。通过自我价值反思，个体可能会把自己的注意从对疫情的关注中解脱出来，思考自己是谁以及什么对自己更加重要，从而降低疫情对个体的威胁。例如，一个人如果认为家庭和亲情对他自己最重要的话，那他可能会思考在疫情期间如何更好的陪伴和守护家人并付诸实践，而不仅仅是只关注于疫情。与此相一致，Schmeichel和 Martens(2005)的研究发现自我肯定可以降低人们在面对困境时对死亡信息的关注。因此，相对于未进行自我价值肯定的个体，自我肯定的个体随着疫情的持续并没有表现出更加严重的焦虑反应。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "但在本研究中，我们只在焦虑情绪反应上发现了自我肯定的效应，在抑郁情绪上并没有发现任何的效应。与此相一致，Morgan 和 Harris (2015)对大裁员背景下企业员工的研究发现，自我肯定只对不可控的裁员情境引发的焦虑情绪有缓冲效应，在抑郁上也没有发现自我肯定的效应。进一步对数据的观察可以发现两组被试在前测和一周后的评估时在抑郁得分上都普遍较低(见表1)，且没有显示出任何显著的变化。这可能意味着在当前情境下，抑郁可能并不能很好的反映随着疫情的发展个体情绪的变化。虽然焦虑和抑郁是高度相关的两种情绪(在本研究中，T1: $r = 0 . 5 6$ ;T2: $r = 0 . 6 6 )$ ，但焦虑主要反映的是个体对特定事件或情境的不可控和不可预测性的一种担忧和恐慌，而抑郁主要反映的是一个人自尊和活性的下降，以及个人生存意义知觉的降低(Lovibond&Lovibond,1995)。在当前情境下，疫情的爆发和持续主要引发的是人们不知道病毒藏匿在何如，担心自己是否会被传染，以及在大隔离背景下如何应对生活的担忧和恐慌。因此焦虑测量可能对当前被试的情绪状态更敏感。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究的结果对于应对当前疫情引发的民众的焦虑和恐慌等情绪问题具有重要的现实指导意义。首先，自我肯定操作并不需要专业人员的帮助，每个人都可以独自完成。其次，自我肯定操作对环境没有特殊的要求，每个人在家就可以进行。此外，自我肯定耗时也较短，通常在10分钟左右。因此，自我肯定在这种由疫情引发的大规模的民众心理问题的防护中具有重要的实践应用价值。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "但本研究也存在一些局限：首先，由于当前大隔离的情境，在被试的招募中本研究采取了方便取样的方法，即22名学生主试基于自己方便招募自己家人和同学参与研究。虽然本研究的样本涉及了全国16个省市自治区的范围，年龄也涉及到 $1 7 { \\sim } 5 0$ 岁的范围，但从年龄分布上来看主要还是以大学生为主( $1 8 { \\sim } 2 5$ 岁占总样本 $72 \\%$ )。这种方便采样的手段会限制我们研究结论的普遍性和推广性，未来研究应在更广泛的人群中验证本研究的结果。其次，由于自我肯定理论认为自我价值肯定可以使个体在遇到具有挑战或威胁的情境时，通过将自我看作是整体上是胜任的和有效的，从而减弱相关情境对自我的负面影响，打破恶性循环(Steele,1988; Sherman&Cohen,2006)。因此自我肯定理论预测干预次数不会影响干预效应。所以在本研究中我们只对被试进行了一次自我肯定干预练习。尽管Cohen 等(2006,2009)和Goyer 等(2017)的研究也发现干预剂量(次数)并不影响最终的干预效果。但未来研究应进一步考察干预次数对疫情应激情境下个体焦虑情绪的缓冲作用。另外，由于本研究的干预是在前测之后立即进行的，为了避免同一时间多次测量造成的练习效应，本研究并没有测查干预的即时效应，而是对干预一周后效应进行了考察。未来研究应进一步优化干预和测量的时机，更好的探测干预的即时效应和维持效应。此外，虽然我们的结果显示自我肯定可以缓冲疫情期间个体的焦虑情绪反应，且基于当前的样本量 $( \\mathrm { n } = 1 8 7 )$ ，本研究在焦虑情绪上发现的显著效应具有较高的统计检验力(power $= 0 . 9 4 \\AA$ 。但本研究只获得了一个中等偏小的效应量 $\\eta ^ { 2 } =$ 0.026(Cohen,1988)，因此在实际的推广中应结合其它一些基于科学证据的有效干预方案。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5 结论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本研究通过实验的方法考察了一种社会心理干预——自我肯定——是否可以缓冲新型冠状病毒疫情的持续引发的焦虑和抑郁情绪反应。我们的研究结果表明通过简短(约10分钟)的自我价值肯定可以有效地缓冲面对疫情个体持续升高的焦虑情绪反应。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "致谢：本研究感谢曹师静、陈思齐、陈潇、陈凤彬、崔延琪、付瑶、高敏、郭继蓉、胡博华、李文婧、吕园芷、马刘丹、宋晶晶、王彩明、王梦琳、魏建芬、温佳慧、武楠楠、叶嘉璇、叶芃、张荣芳、赵新月和曾恬等同学在数据收集中的贡献。感谢三位审稿专家与编委专家对本研究的修改提出的非常宝贵的建设性意见。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Beck,A.T.,Ward, C.H.,Mendelson,M.,Mock,J.,&Erbaugh,J. (1961).An inventory for measuring depression. Archives of General Psychiatry, 4(6), 561-571.   \nChan,J.F.W.,Yuan,S.,Kok,K.H.,To,K.K.W., Chu,H.,Yang,J.,..&Tsoi,H.W. (202O).Afamilial clusterof pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. The Lancet,395(10223),514-523.   \nChen,N.,Zhou,M.，Dong,X.，Qu,J., Gong,F.,Han,Y.，.& Yu,T. (2020).Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study.The Lancet,395(10223),507-513.   \nCohen, G.L., Garcia, J.,Apfel, N.,& Master, A. (20o6). Reducing the racial achievement gap: A socialpsychological intervention. Science, 313(5791),1307-1310.   \nCohen,G.L., Garcia,J.,Purdie-Vaughns,V.,Apfel,N.,& Brzustoski,P. (2oo9).Recursive processes nselfaffirmation: Intervening to close the minority achievement gap. Science, 324(5925), 400-403.   \nCohen,G.L.,& Sherman,D.K. (2014). The psychology of change: Self-affrmation and social psychological intervention. Annual Review of Psychology, 65, 333-371.   \nCohen,J.(1988).Statistical poweranalysis forthebehavioral sciences (2nded.).Hilsdale,NJ:Erlbaum.   \nCohen, S.,Janicki-Deverts,D.,& Miller, G.E. (2007).Psychological stress and disease.Jama,298(14),1685- 1687.   \nCreswell,J.D.,Dutcher,J.M.,Klein, W.M.,Harris,P.R.,&Levine,J.M. (2013).Self-airmationimproves problem-solving under stress.Plos One, 8(5): e62593.   \nCreswell,J.D.,Lam,S.,Stanton,A.L.,Taylor,S.E.,Bower,J.E.,& Sherman,D.K.(20o7).Does selfaffirmation, cognitive processing, or discovery of meaning explain cancer-related health benefits of expressive writing?.Personality and Social Psychology Bulletin,33(2),238-250.   \nCreswell,J.D.,Welch,W.T.,Taylor,S.E.,Sherman,D.K.,Gruenewald,T.L.,&Mann,T. (20o5).Affirmationof personal values buffers neuroendocrine and psychological stress responses. Psychological Science,l6(11), 846-851.   \nDerks,B.,Scheepers,D.,VanLaa, C.,&Ellemers,N.(2O11).The threat vs.challenge ofcar parking for women: How self-and group affrmation affect cardiovascular responses.Journal of Experimental Social Psychology, 47(1), 178-183.   \nFaul,F.,Erdfelder,E.,Lang,A. G.,& Buchner,A. (2oo7). G\\*Power 3: Aflexible statistical power analysis program for the social,behavioral,and biomedical sciences.Behavior Research Methods,39(2),175-191.   \nGilbert,D.T.,Pinel,E.C., Wilson,T.D.,Blumberg,S.J.,&Wheatley,T.P. (1998).Immune neglect: Asourceof durability bias in affective forecasting.Journal of Personality and Social Psychology, 75,617-638.   \nGoyer,J. P., Garcia,J.,Purdie-Vaughns,V.,Bining,K.R.,Cook,J.E.,Reeves,S.L,..&Cohen, G.L.(2017). Self-affirmation facilitates minority middle schoolers' progressalong college trajectories.Proceedings of the National Academy of Sciences, 114(29),7594-7599.   \nGreenberg, J.,Solomon,S.,& Pyszczynski,T. (1997).Terror management theory of self-esteem and cultural worldviews: empirical assessments and conceptual refinements. Advances in Experimental Social Psychology, 29, 61-139.   \nHarber, K.D., Yeung,D.,&Iacovelli,A. (2Ol1).Psychosocial resources,threat,andthe perception of distance and height: support for the resources and perception model. Emotion,1l(5),1080-1090.   \nHuang, C., Wang,Y.,Li,X.,Ren,L.,Zhao,J.,Hu,Y.,..&Cheng,Z. (202O). Clinicalfeatures of patients nfected with 2019 novel coronavirus in Wuhan, China. The Lancet, 395(10223),497-506.   \nJing,S,H., Zheng, J,J.,& Xin, Z,Y.(2O9).The Structureand Characteristics of Contemporary Chinese Values. Acta PsyChologica Siniea, 41(10),1000-1014.   \n[金盛华，郑建君,& 辛志勇.(2009).当代中国人价值观的结构与特点．心理学报,41(10),1000-1014.]   \nKeough,K.A.,& Markus,H.R. (1998).The role of the self in building the bridge from philosophy to biology. Psychological Inquiry, 9(1), 49-53.   \nKoolhaas,J. M.,Bartolomucci, A., Buwalda,B.,de Boer,S.F.,Fligge,G., Korte,S.M.,..& Richter-Levin, G. (2011).Stressrevisited: a critical evaluation of the stress concept. Neuroscience & Biobehavioral Reviews, 35(5), 1291-1301.   \nLenhard, W. & Lenhard, A. (2016). Calculation of Effect Sizes. Retrieved from: https://www.psychometrica.de/effect_ size.html. Dettelbach (Germany): Psychometrica. DOI: 10.13140/RG.2.2.17823.92329.   \nLi,S,J.,Wang,Y,L.,Zhao,N.,Zhu,T,S. (2020).Social PsychologyInfluence by2019-nCoVEpidemic Declaration: A Study on Active Weibo Users. chinaXiv: 202002.00008v1.   \n[李思嘉，王艺霖，赵楠，朱廷劭.(2020)．新型冠状病毒感染肺炎的定性对民众心理的影响：基于活跃微博用 户的研究.chinaXiv:202002.00008v1]   \nLoft,P.,Thomas,M.G.,Petrie,K.J.,Booth,R.J.,Miles,J,&Vedhara,K. (2O07).Examinationstressresults in altered cardiovascular responses to acute challenge and lower cortisol. Psychoneuroendocrinology, 32(4), 367- 375.   \nLu,R.,Zhao,X.,Li,J.,Niu,P.,Yang,B., Wu,H.,..&Bi,Y. (202O). Genomiccharacterisatio and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding. The Lancet.   \nMcEwen,B.S. (1998). Protective and damaging efects of stress mediators. New England Journal of Medicine,338, 171-179.   \nMiller,G.E., Chen,E.,& Zhou,E.S. (2O07).If i goesup,must itcome down?Chronic stress andthehypothalamicpituitary-adrenocortical axis in humans. Psychological Bulletin,133(1), 25.   \nMorgan,J.I.,& Haris,P.R. (2O15).Evidence thatbriefself-afirming implementation intentionscanreduce workrelated anxiety in downsize survivors. Anxiety, Stress,& Coping, 28(5),563-575.   \nNational Health Commission of the People's Republic of China. (2020a). Epidemic Prevention and Control Program (2nd ed). Available at http://www.gov.cn/zhengce/zhengceku/2020- 02/07/5475813/files/9a774a4defee44daa05894138bd0509a.pdf (Retrieved date: 2020-02-09).   \n[国家卫健委.(2020a)．新型冠状病毒肺炎防控方案(第四版).2020-02-09 取自 http://www.gov.cn/zhengce/zhengceku/2020-02/07/5475813/files/9a774a4defee44daa05894138bd0509a.pdf]   \nNational Health Commission of the People's Republic of China. (202ob). Daily briefing on novel coronavirus cases in China. Available at htp://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml (Retrieved date: 2020-02-09).   \n[国家卫健委.(2020b)．新型冠状病毒肺炎疫情防控：疫情通报.2020-02-09 取自 http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml]   \nPauketat,J.V.,Moons,W.G.,Chen,J.M.,Mackie,D.M.,& Sherman,D.K. (2016).Self-afirmationandaective forecasting: Afirmation reduces the anticipated impact of negative events. Motivation and Emotion, 40(5), 750-759.   \nPrato,F& John, O. P. (1991).Automatic vigilance: the attention-grabbing power ofnegative social information. Journal of Personality & Social Psychology, 61(3),380-391.   \n\"Public Cognition and Public Prevention Behavior of COVID-19\" Research Group. (2020). Pneumonia Cognitive Survey | Over $70 \\%$ of general public gave full marks to frontline medical staff. Available at https://m.sohu.com/a/369357183_260616/?pvid=000115_3w_a&from $\\vDash$ singlemessage (Retrieved date: 2020- 02-09).   \n[\"公众对新型冠状病毒的认知和个体防疫行为\"调研组.(2020).肺炎认知调查报告丨超七成受访者给一线医 务人员打满分.2020-02-09 取自 https://m.sohu.com/a/369357183_260616/?pvid-00115_3w_a&from=singlemessage]   \nSchmeichel, B.J.,& Martens,A. (20o5). Self-affirmation and mortality salience: Afirming values reduces worldview defenseand death-thought accessbility. Personality and Social Psychology Bulletin, 31(5), 658- 667.   \nSchmeichel, B.J. & Vohs,K. (2O09). Self-afirmationand self-control: Affirming core values counteracts ego depletion. Journal of Personality and Social Psychology, 96(4),770-782.   \nSegerstrom,S. C.,& Miler, G.E. (2004).Psychological stress andthe human immune system: a meta-analytic study of 30 years of inquiry. Psychological Bulletin, 130(4), 601.   \nSherman,D.K. (2013).Self-affrmation: Understanding the effects.Social and Personality Psychology Compass, 7(11), 834-845.   \nSherman,D.K.,Bunyan,D.P.,Creswel,J.D.,& Jaremka,L. M. (209). Psychological vulnerability and stres: The effects of self-affrmation on sympathetic nervous system responses to naturalistic stressors. Health Psychology, 28(5), 554-562.   \nSherman,D.K.,& Cohen, G.L. (2O02). Accepting threatening information: Self-Afirmation and the reduction of defensive biases. Current Directions in Psychological Science,1l(4),119-123.   \nSherman, D. K.,& Cohen, G.L. (2006). The psychology of self-defense: Self-afirmation theory. Advances in Experimental Social Psychology,38,183-242.   \nSherman,D. K.,& Hartson,K.A. (2011). Reconciling self-protection with self-improvement: Self-affrmation theory. In M.Alicke & C.Sedikides (Eds.),The Handbook of Self-Enhancement and Self-Protection (pp.128- 151). Guilford Press.   \nSteele,C.M. (1988).The psychology of self-affrmation: Sustaining the integrity of the self.In L.Berkowitz (Ed.), Advances in experimental social psychology: Vol. 21. Social psychological studies ofthe self: Perspectives and programs (pp. 261-302). San Diego, CA: Academic Press.   \nTaylor, S.E.,Lerner,J.S.,Sherman,D.K.,Sage,R.M.,& cDowell,N.K. (2o3). Are self-enhancingcogitions associated with healthy or unhealthy biological profles? Journal of Personality and Social Psychology， 85, 605-615.   \nTao,M.,& Gao,J,F. (1994). Revision of self-evaluation of anxiety scale (SAS-CR)reliability and validity. Chinese Journal of Nervous and Mental Diseases, (5),301-303.   \n[陶明& 高静芳.(1994).修订焦虑自评量表(SAS-CR)的信度及效度．中国神经精神疾病杂志,(5),301- 303.]   \nWang,X,D., Wang,X,L.,& Ma,H. Handbook ofmental health assessment scale.Beijing: Chinese mental health journal published   \n[汪向东，王希林，马弘.(1999)．心理卫生评定量表手册．北京:中国心理卫生杂志社出版.]   \nWaters,A.M.，Bradley,B.P.,& Mogg,K. (2014).Biased atention to threat in paediatric anxiety disorders (generalized anxiety disorder,social phobia,specific phobia,separation anxiety disorder)as a function of ‘distress'versus‘fear'diagnostic categorization.Psychological Medicine, 44(3),607-616.   \nWhitson, J.A.,& Galinsky,A.D. (2008). Lacking control increases illusory pattern perception. Science, 322(5898), 115-117.   \nWiesenfeld,B.M.,Brockner,J.,Petzal,B., Wolf,R.,&Bailey,J. (2oo1).Stress and coping among layoff survivors: A self-afirmation analysis. Anxiety, Stress and Coping, 14(1),15-34.   \nHealth Commission of Wuhan. (2019).Briefing on COVID-19 situation in Wuhan. Available at http://wjw.wuhan.gov.cn/front/web/showDetail/2019123108989 (Retrieved date: 2020-02-09)   \n[武汉市卫健委.(2019)．武汉市卫健委关于当前我市肺炎疫情的情况通报.2020-02-09 取自 http://wjw.wuhan.gov.cn/front/web/showDetail/2019123108989]   \nXiang,Y.T.,Yang,Y.,Li,W.,Zhang,L.,Zhang,Q.,Cheung,T.,&Ng,C.H.(202O).Timely mental healthcare for the 2019 novel coronavirus outbreak is urgently needed. The Lancet Psychiatry.   \nZung,W. W.(1971).A rating instrument for anxiety disorders. psychosom, 12(6),371-9. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Self-Affirmation Buffering by the General Public Reduces Anxiety Levels During the COVID-19 Epidemic ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "LI Shifeng1,2WUYiling1,2ZHANGFumin1,2XU Qiongying1,²ZHOUAibao1,2 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "KeyLaboratoryofBehavioralandMentalHalthofGansuprovince,NorthwestNrmalUniversityLanzhou7oCina) (School ofPsychology,Northwest Normal University,Lanzhou 73o070,China) ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In December 2019,an outbreak of a novel coronavirus disease (COVID-19) occurred in Wuhan, Hubei province, China. COVID-19 is characterised by fever and severe acute respiratory symptoms in early stages, which can rapidly progress to acute respiratory distress syndrome that is associated with high mortality.As of 10 February 2020,37.626 cases have been confirmed and COVID-19 has directly caused 1.016 deaths in China. The wide and rapid spread of COVID-19 has intensely captured public attntion, leading to increased mental health stress. Timely mental health care and intervention during the outbreak of COVID-19 is urgently needed not only for confirmed or suspected patients and frontline medical workers, but also for the general public. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Previous studies showed that affrmation of personal values can buffer psychological stress responses in various threat situations. The goal of the present study was to investigate whether an intervention involving reflection on personal values was capable of buffering psychological stress responses during the outbreak. We recruited 220 participants who completed a questionnaire on their personal values.Those in the self-affirmation group were asked to choose and write their thoughts and felings of a personal value that made them feel important to themselves while those in the control condition were asked to do the same for a personal value that they thought was important to others. Both groups completed a Self-rating Anxiety Scale (SAS) and Beck Depression Inventory (BDI) prior to and 7 days after intervention. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "We used two-way repeated measures analysis of variance (ANOVA) to evaluate the buffer effect of value affirmation on stress responses with time of assessment as a within-subjects factor and intervention group as a between-subjects factor for anxiety and depression. Our results revealed a significant relationship between time and intervention for the reduction of anxiety. Further simple effect analysis demonstrated that the control group showed heightened levels of anxiety 7 days after intervention compared with before, whereas participants who affrmed their values did not show any increase.This effect remained significant after controling for sex,age,educational level,and annual family income. However, no significant differences were found for depression. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The present study demonstrates for the first time that an experimental intervention involving the affirmation of personal values can buffer psychological stress response during the COVID-19 epidemic. Specifically, participants who affirmed their values did not show increased levels of anxiety compared with control participants. Self-affirmation is easy to accomplish since it does not require professional guidance or a distinct environment and occupies litle time, it would be a convenient strategy for the public to cope with psychological stress during the outbreak. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Keywords:COVID-19; stress; self-affirmation; anxiety; depression ",
+        "page_idx": 15
+    }
+]

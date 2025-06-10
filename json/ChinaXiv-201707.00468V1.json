@@ -1,0 +1,484 @@
+[
+    {
+        "type": "text",
+        "text": "Studies on pollen morphology of selected species of Annonaceae from Thailand ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YUNYUN SHAO1'², FENGXIA XU1\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Key Laboratory of Plant Resource Conservation and Sustainable Utilization, South China Botanical Garden, The Chinese Academy of Sciences, Guangzhou, China 2 University of Chinese Academy of Sciences, Beijing, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The pollen morphology of 48 species and two varieties, representing 18 genera of the family Annonaceae from Thailand, is described and illustrated based on observations with scanning electron microscopy (SEM). The results reaffirm the great diversity in Annonaceae at the pollen morphological level,with the size of pollen varying from small，medium-sized to large, the shape of monads being elliptic， spheroidal or triangular with monosulcate,disulculate or no visible aperture,and the shape of tetradsbeingtetragonal， rhomboidal， tetrahedral， T-shapedordecussate. Ornamentation is echinate, psilate,microreticulate,rugulate,scabrate or verrucate. Decussate tetrads in Goniothalamus，and tetragonal， rhomboidal， T-shaped and decussate tetrads and new tetrad type in Mitrephora are first reported. The pollen grains of Anaxagorea show slightly bilateral and no visible aperture as a result of intine extrusion. The palynological evidence confirms the close relationship of Dasymaschalon, Desmos and Asian Friesodielsia,and shows the high diversity of pollen morphology within genera in Annonaceae. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KeywordsAnnonaceae, diversity, morphology, pollen ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The pantropical flowering plant Annonaceae comprise ca. 1O8 genera and ca. 2300 species of trees, shrubs and lianas (Rainer & Chatrou 2OO6, Chatrou et al. 2O12),and show three continental grouping (Asia, America and Africa) of equivalent size (Fries 1959；Keβler 1993). Being the largest family in the early-divergent Magnoliales (Massoni et al. 2014; Angiosperm Phylogeny Group 2016)， Annonaceae are noteworthy for having greatest diversity in theorder not onlyat the macromorphological level (Silberbauer-Gottsberger et al. 2OO3； Gottsberger 2012), but also have the most diverse pollen morphology (Walker 197la, b,c; Le Thomas 1980, 1981; Doyle & Le Thomas 2012). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Since the 197Os,many researches regarding to pollen characters in Annonaceae have been carried out, and the results exhibited the high pollen diversity which were also applied in clarifying high-level relationships. The pollen morphology of tropical American Annonaceae was extensively studied with the application of light microscopy (LM) and scanning electron microscopy (SEM)，and was used as the primary basis for a classification of the family into three subfamilies and seven tribes (Walker 1971a,1971b,1971c,1972). The pollen ultrastructure of Africa Annonaceae was comprehensively investigated by Le Thomas (1980，1981)，and the results elucidated the value of the pollen characters in taxonomy and phylogeny of the family. More details of pollen structure were examined by Waha and Morawetz (1988), Su and Saunders (2O03), Chaowasku et al. (2008), Couvreur et al. (2O08), Xu and Craene (2013） and Gan et al. (2015). Pollen wall development was also studied by Gabarayeva (1993,1995)，Waha (1987),and Lora et al. (2009). Doyle. (Doyle et al 2000） and Le Thomas (Doyle et??1994，1997,2012）used molecular analyses to present the evolution and phylogenetic value of pollen in Annonaceae, and confirmed the significance of pollen in recognizing major groups and their relationship ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The molecular analyses have been widely applied in solving phylogeny and evolution problems (Mols et al. 2004, 2008; Xue et al. 2011; Chatrou et al. 2012; Li et al. 2015; Mercer et al. 2016). However, the successes of molecular phylogenetics do not mean there is no longer any reason to study morphology (Doyle & Le Thomas 2012).In Annonaceae，the high diverse pollen morphology is more reliable than flower morphology in higher-level systematics,and further investigations on pollen morphology are still needed (Mols et al. 2004, 2008). In spite of massive researches on Annonaceae pollen, the pollen characters of many species only have LM data and a host of pollen photographs are not in good quality. Although the pollen morphology of the America and Africa Annonaceae has been extensively studied ((Walker 1971a, 1971b,1971c; Le Thomas 1980,1981), that of Asia Annonaceae has been relatively poorly investigated, especially in Thailand, where the Annonaceae plants widely distribute. The aim of the present study is to provide a more detailed description on the pollen morphology of Thai Annonaceae, and offer some palynological evidence to better understand the pollen diversityand the phylogenetic significant of the pollen characters. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "48 species and two varieties, representing 18 genera of Annonaceae were investigated. Flowers were collected from October 2014 to April 2015 by Dr. Piya Chalermglin, Institute of Scientific and Technological Research, Thailand and fixed in formalin acetic alcohol (FAA: $70 \\%$ alcohol, formaldehyde and glacial acetic acid in a ratio of 90:5:5). Pollen grains were collected from mature and indehiscent stamens. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Pollen grains of many Annonaceae are very fragile,and the acetolysis method for pollen preparation (Erdtman 196O) is often too drastic and damages the pollen grains making observations difficult. An alternative method based on mature stamens was used. The fixed stamens were dehydrated in ethylalcohol ascending series, critical-point dried. The pollen sacs of these mature stamens were opened carefully with a tweezer and needle in order to release the pollen grains from the sacs. Pollen grains destined for SEM were placed directly on brass stubs without treatment, coated with gold using a JFC-16OO Auto Fine Coater and observed with a JSM-6360LV (JEOL, Tokyo, Japan） scanning electron microscope operated at $2 5 \\mathrm { k V } .$ More than 10 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "pollen grains were examined. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The lengths of the long axis (LA) and the short axis (SA) were measured from at least 2O mature pollen grains of each species using LM slides of pollen mounted in glycerin (Xu & Kirchoff 2OO8). All photographs were edited by Adobe Photoshop CS4. Descriptive palynological terminology follows that of Punt et al. (2OO7). Details for each species ranked alphabetically are given in Table I and II. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The LA of pollen grains examined is $2 2 { - } 1 2 3 ~ { \\mu \\mathrm { m } }$ ，and the SA is $1 5 { \\mathrm { - } } 9 7 ~ { \\mu \\mathrm { m } }$ . Most examined pollen grains are monads with spheroidal， elliptic or triangular shape. Monads with one (or two） furrow(s） or depressed area(s） were discovered in Anaxagorea， Artabotrys， Huberantha， Marsypopetalum， Miliusa， Orophea and Polyalthia. Others are spheroidal or elliptic with no visible aperture or indication of a pole. Tetrads were observed in Goniothalamus (Figures 2O，Q，S，3A，C） and Mitrephora (Figures 3Q-T, 4B-E, G-I, K-M, O-S,5A-C, E-G), including tetragonal, rhomboidal， T-shaped， tetrahedraland decussate. The echinate，psilate， scabrate, reticulate, rugulate and verrucate ornamentations were also observed. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "AlphonseaHook.f.et Thomson ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Alphonsea pallida and A. siamensis were investigated. The pollen grains are spheroidal monads with no visible aperture or indication of a pole (Figure 1A, C). The exine ornamentation is rugulate (Figure 1B, D). The mean LA of the pollen grains is $3 4 \\mu \\mathrm { m }$ in $A$ . pallida and $3 6 \\mu \\mathrm { m }$ in $A$ . siamensis. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Anaxagorea St. Hil. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Anaxagorea javanica and A. luzonensis were investigated. The pollen grains are slightly bilateral and elliptic monads with no visible aperture (Figure 1E,G). The exine ornamentation is psilate in A. javanica,while scabrate and psilate in $A$ luzonensis (Figure 1F, H). The mean LA of the pollen grains is $7 0 \\mu \\mathrm { m }$ in $A$ . javanica, and $7 2 \\mu \\mathrm { m }$ in A. luzonensis. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ArtabotrysR.Br. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Six species were investigated. The pollen grains are elliptic monads (Figure 1I, K, M, O,Q,S） with a single furrow in A. burmanicus (Figure 1K) and with no visible aperture or indication of a pole in $A$ . brevipes, A. harmandii， A. multiflorus, A. siamensis and A. uniflorus (Figure 1I, M, O, Q, S). The exine ornamentation is loosely fossulate-perforate in A. brevipes and A. harmandii (Figure 1J, N), finely fossulateperforate in A. burmanicus,A. multiflorus, A. siamensis and A. uniflorus (Figure 1L, R, T, P). The mean LA of the pollen grains is $4 8 \\mu \\mathrm { m }$ in $A$ . brevipes and A. siamensis, 50 $\\mu \\mathrm { m }$ in A. burmanicus and A. harmandii, $3 4 ~ { \\mu \\mathrm { m } }$ in $A$ . multiflorus, $4 2 \\ { \\mu \\mathrm { m } }$ in $A$ uniflorus. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Dasymaschalon Dalla Torre etHarms ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Four species were investigated. The pollen grains are spheroidal monads with no visible aperture or indication of a pole (Figure 2A, C, E, G). The exine ornamentation is echinate with much smaller, closely spaced clavae between the spins in $D$ acuminatum and $D$ 、 angustifolium (Figure 2B,D), echinate with many shallows in $D$ macrocalyx (Figure 2H),and scabrate in $D$ 、 dasymaschalum (Figure 2F). The mean LA of the pollen grains is $3 5 ~ { \\mu \\mathrm { m } }$ in $D$ acuminatum and $D$ macrocalyx, $3 4 \\mu \\mathrm { m }$ in $D$ angustifolium, and $2 2 \\mu \\mathrm { m }$ in $D$ . dasymashalum. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Desmos Lour. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The pollen grains of Desmos cochinchinensis are spheroidal monads with no visible aperture or indication of a pole (Figure 2I). The exine ornamentation is echinate with well-developed spines (Figure 2J). The mean LA of the pollen grains is $2 8 \\mu \\mathrm { m }$ Fissistigma Griff. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The pollen grains of Fissistigma oblongum are elliptical monads with a distinctly flattened (probably proximal） pole (Figure 2K). The exine ornamentation is microrugulate (Figure 2L). The mean LA of the pollen grains is $3 5 \\mu \\mathrm { m }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Friesodielsia Steenis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The pollen grains of Friesodielsia desmoides are spheroidal monads with no visible aperture or indication of a pole (Figure 2M). The exine ornamentation is echinate-perforate with well-developed spines (Figure 2N). The mean LA of the pollen grains is $2 9 \\mu \\mathrm { m }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Goniothalamus(Blume) Hook.f.et Thomson ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Five species were investigated. The pollen grains are tetrads with no visible aperture. The tetrads are tetrahedral in $G$ 、 laoticus (Figure 2O)， decussate in $G$ repevensis (Figure 2Q), and tetragonal in $G .$ ，sawtehii (Figure 2S), G. tamiresis (Figure 3A) and G.undulatus (Figure 3C), The exine ornamentation is psilate in $G .$ laoticus (Figure 2P) and $G$ . tamirensis (Figure 3B), psilate-perforate in $G$ . repevensis (Figure 2R), rugulate in $G$ ， sawtehii (Figure 2T） and coarsely scabrate in $G$ 、undulatus (Figure 3D). The mean LA of the pollen grains is $1 0 5 \\mu \\mathrm { m }$ in $G$ laoticus and $G$ repevensis, $7 7 \\mu \\mathrm { m }$ in $G .$ 号 sawtehii, $1 2 3 \\mu \\mathrm { m }$ in $G$ ，tamirensis, and $8 0 \\mu \\mathrm { m } G$ . undulatus. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Huberantha Chaowasku ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The pollen grains of Huberantha cerasoides are spheroidal monads with two depressed areas (Figure 3E). The exine ornamentation is rugulate-verrucate (Figure 3F). The mean LA of the pollen grains is $2 8 \\mu \\mathrm { m }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Marsypopetalum Scheff. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The pollen grains of Marsypopetalum crassum are elliptic disulculate monads (Figure 3G). The exine ornamentation is shallowly verrucate (Figure 3H). The mean LA of the pollen grains is $3 7 \\mu \\mathrm { m }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Melodorum Lour. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The pollen grains of Melodorum fruticosum are elliptic monads with no visible aperture or indication of a pole (Figure 3I). The exine ornamentation is scabrate-perforate (Figure 3I). The mean LA of the pollen grains is $4 3 \\mu \\mathrm { m }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "MiliusaLesch.exA.DC. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Three species were investigated. The pollen grains are spheroidal monads with two depressed areas (Figure 3 K,M, O). The exine ornamentation is verrucate-perforate in M. campanulata (Figure 3L) and M. cuneata (Figure 3N)，and scabrate in $M .$ intermedia (Figure 3P). The mean LA of the pollen grains is $4 0 ~ { \\mu \\mathrm { m } }$ in $M .$ （2号 campanulata, and $3 4 \\mu \\mathrm { m }$ in $M .$ . cuneata and M. intermedia. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Mitrephora (Blume)Hook.f.et Thomson ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Seven species were investigated. The pollen grains are tetrads with no visible aperture. The tetrads are tetragonal in M. alba, M. keithii, M. sp., M. teysmanii, M. tomentosa, ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "M. wangi and M. winiti (Figures 3Q, 4B, G, K, O, 5A, E), rhomboidal in M. alba, M. keithii, M. sp., M. teysmanii, M. tomentosa, M. wangii and M. winitii (Figures 3R, 4C, H,L,P, 5B,F), T-shaped in M. tomentosa (Fig. 4Q), tetrahedral in M. alba,M. keithii, M. sp., M. teysmanii, M. tomentosa and M. winitii (Figures 3S, 4D, I, M, R, 5G), decussate in M. alba and M. tomentosa (Figures 3T, S) and a new tetrad type (a multiplanar tetrad of pollen grains arranged in two pairs,and the pairs contact with each other at one side,but not at right angles) M. keithii (Figures 4E). The exine ornamentation is verrucate (Figures 4A, F, J, N, T, 5D, H). The mean LA of the pollen grains is $6 3 ~ { \\mu \\mathrm { m } }$ in M. alba, M. keithii, M. tomentosa and M. winiti, $4 7 \\mu \\mathrm { m }$ in M. sp., $5 0 \\mu \\mathrm { m }$ in $M .$ . teysmanii, and $7 0 \\mu \\mathrm { m }$ in $M .$ . wangii. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Monoon Miq. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Six species were investigated. The pollen grains are spheroidal monads with no visible aperture or indication of a pole (Figure 5I, K,M, O,Q,S). The exine ornamentation is shallowly microechinate in $M .$ . asteriellum (Figure 5J), scabrate in M. fuscum and M. membranifolium (Figure 5L, R)，rugulate in M. jucundum， M. lateriflorum and $M .$ viride (Figure 5N, P, T). The mean LA of the pollen grains is $2 3 \\mu \\mathrm { m }$ in $M$ asteriellum, $4 0 ~ { \\mu \\mathrm { m } }$ in M. fuscum, $3 2 \\ \\mu \\mathrm { m }$ in $M .$ jucundum and M. lateriflorum, $2 8 \\mu \\mathrm { m }$ in $M .$ membranifolium and M. viride. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Orophea Blume ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Four species were investigated. The pollen grains are spheroidal monads with two (or one) furrows (furrow) (Figure 6A, C, E, G). The exine ornamentation is verrucate in $O$ . brandisii and $O$ ， enterocarpa (Figure 6B，D)，rugulate in O. keri， and reticulate-perforate in $O$ : polycarpa (Figure 6F, H). The mean LA of the pollen grains is $4 5 \\mu \\mathrm { m }$ in $O$ . brandisii, $4 0 \\mu \\mathrm { m }$ in $o$ .enterocarpa, $3 2 \\mu \\mathrm { m }$ in $O _ { \\ l }$ ，kerrii, and $4 4 \\mu \\mathrm { m }$ in O. polycarpa. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Polyalthia Blume ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Two species,one including two varieties were investigated. The pollen grains are triangular disulculate monads in $P$ . bullata (Figure 6I, J) or with no visible aperture or indication of a pole in $P .$ evecta var. attopeuernsi (Figure 6N, O),and spheroidal monosulcate monads in $P .$ evecta var. evecta (Figure 6L). The exine ornamentation is rugulate (Figure 6K) in $P$ .bullata, verrucate in $P .$ evecta var. evecta (Figure 6M) and rugulate-verrucate in $P .$ evecta var. attopeuernsi (Figure 6P). The mean LA of the pollen grains is $4 8 ~ { \\mu \\mathrm { m } }$ in $P$ bullata, $4 1 \\ \\mu \\mathrm { m }$ in $P .$ evecta var. evecta, and $5 0 ~ { \\mu \\mathrm { m } }$ in $P .$ （204号 evecta var. attopeuernsis. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Uvaria L. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The pollen grains of Uvaria siamensis are spheroidal monads with no visible aperture or indication of a pole (Figure 6Q). The exine surface is gemmate (Figure 6R). The mean LA of the pollen grains is $4 8 \\mu \\mathrm { m }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Winitia Chaowasku ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The pollen grains of Winitia expansa are elliptic monads with no visible aperture (Figure 6S). The exine surface is microscabrate (Figure 6T). The mean LA of the pollen grains is $2 3 \\mu \\mathrm { m }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The pollen morphology of Annonaceae is highly variable in the shape,size,pollen unit, exine ornamentation and aperture number. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The molecular analyses confirmed the earliest diverging position of Anaxagorea, which is sister to the remainder of the family (Chatrou et al. 2O12). Likewise,the granular monosulcate pollen of Anaxagorea was regarded as an ancestral type in Annonaceae (Doyle & Le Thomas 1994,1996,2012). However, in the present study pollen of A. javanica and A. luzonensis are slightly bilateral, and two different kind of exine ornamentation occurring in one pollen grain ，which is inconsistent with the boat-likeshape and granular monosulcate Anaxagorea pollen in previous investigations oyle & Le Thomas 1994,1996,2012). The most likely reason for the inconsistence is that the intine extrudes from exine through the aperture,and that is also the reason why no visible aperture was observed,while the exinous margins of sulcus were clearly demonstrated. The intine extrusion is considered as a typical phenomenon in Anaxagorea species (Hess et al. 1985). In the present study, it is not easy to distinguish exine and intine in SEM micrograph of A. javanica because they have similar surfaces. In A. luzonensis,the scabrate hemisphere is exine and the psilate hemisphere is intine. The boat-shaped pollen in previous studies might be a result of the acetolysis method，which sometimes led to the misinterpretation in respect to pollen shape and aperture form (Hess et al.1985). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The close relationship of Dasymaschalon, Desmos and Asian Friesodielsia is proved by molecular studies (Richardson et al. 2OO4; Couvreur et al. 2O11; Wang et al. 2009， 2012). In previous investigations，Dasymaschalon，Desmos and Asian Friesodielsia usually have inaperturate pollen with echinate ornamentation (Walker 1971; Le Thomas 1980, 1981; Bygrave 2000; Doyle & Le Thomas 2012). The present study was basically consistent with the previous reports but some minor differences were detected. In Dasymaschalon acuminatum and $D$ ：angustifolium， the ornamentation is echinate with intervening smaller and thinner clavae,in $D$ macrocalyx echinate with many shallows and in Desmos cochinchinensis and Friesodielsia desmoides echinate, respectively. Despite of the minor differences, the inaperturate pollen with echinate ornamentation is quite stable. Inaperture and echinate ornamentation could probably be considered as a synapomorphy of Dasymaschalon, Desmos and Asian Friesodielsia. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The pollen grains of Goniothalamus were reported to have tetragonal or tetrahedral tetrads (Walker 1971a; Gan et al. 2O15). In the present investigation, three tetrad types (tetragonal, tetrahedral and decussate） were observed,and the decussate tetrads were reported for the first time in Goniothalamus.And also psilate-perforate (G. repevensis), rugulate (G. sawtehii) and scabrate ornamentation (G. undulatus) patterns were observed in this study, whereas only psilate ornamentation was reported previously (Walker 1971a). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The pollen grains of studied Mitrephora species were released as tetrahedral tetrads(Walker 1971a; Weerasooriya 2O01； Weerasooriya & Saunders 2010). However， five tetrad types (tetragonal， rhomboidal， tetrahedral， decussate and T-shaped) were observed in Mitrephora in the present investigation,even in one species (M. tomentosa).A new tetrad type, which is likely formed by two dyads and the two contact areas of dyads are perpendicular, was also observed in M. keithii. The various tetrad types in Goniothalamus and Mitrephora confirm the diversity of pollen morphology within genera in Annonaceae. It is important to investigate much more to evaluate the taxonomic significance of pollen morphology ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Among taxa now assigned to the tribe Miliuseae, Polyalthia in its traditional broad sense would be the largest genus? (Chatrou et al. 2O12). Early studies showed that Polyalthia was highly varied palynologically (Le Thomas 1980, 1981),and was considered to be polyphyletic (Doyle & Le Thomas 1994,1996; Doyle et al. 2000; Chatrou et al. 2O12). Based on molecular phylogenetic analyses and morphological evidence, the large, heterogeneous genus Polyalthia has been segregated into several smaller monophyletic genera, and the species in this study has been classified into four genera :Huberantha, Marsypopetalum, Monoon and Polyalthia s.str (Xue et al. 2011,2012; Chaowasku et al. 2012,2015). In this investigation，the species of Huberantha and Marsypopetalum, and four species (M. asteriellum, M. jucundum M. lateriflorum and M. viride) of Monoon are transferred from Polyalthia s.l. (Xue et al. 2011,2012; Chaowasku et al. 2012). Pollen aperture seems to be rather consistent within Huberantha， Marsypopetalum and Monoon，with two depressed areas in Huberantha, disulculate in Marsypopetalum but inaperturate in Monoon, respectively. The two depressed areas in $H .$ .cerasoides in the present study are similar to that of $H .$ （204 pendula ，of which was considered astwo germination zones. (Chaowasku et al. 2008,2012). Marsypopetalum crassum, treated as synonym of M. modestum (Turner 2015)，has disulculate pollen，which is consistent in Marsypopetalum and common with its sister genus， Trivalvaria. The genus Monoon currently consists of 37 Polyalthia s.l. species, all species of Enicosanthum and Woodiellantha sympetala. Except for the four Polyalthia s.l. species, M. fuscum and M. membranifolium in this work belonged to Enicosanthum (Xue et al. 2O12). The six Monoon species all exhibite inaperturate monads,which is similar to the pollen of Enicosanthum and Woodiellantha, described by Walker (1971a). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": ". In the present investigation, only two species, (including two varieties） were observed but pollen aperture morphology in Polyalthia s.str. demostrates diversity, since inaperturate,monosulcate and disulculate pollen with rugulate, verrucate or rugulate-verrucate ornamentation appeared. At the same time, both triangular and spheroidal monads were observed. Although, in Polyalthia s.str pollen morphology has high diversity, it is helpful in elucidating the phylogenetic affinities within genera, because the recent classification was established basing on the result of molecular analyses and morphology， largely focusing on pollen chacracters (Saunders et al. 2011).n.. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The pollen morphology of Annonaceae exhibits high diversity in this study. Pollen appears slightly bilateral in Anaxagorea because of the intine extrusion. The palynological results presented here support the close relationship of Dasymachalon, Desmos and Asian Friesodielsia. The coexistence of five different tetrad types in Mitrephora tomentosa and new tetrad type in M. keithii are first reported. The various tetrad types in Goniothalamus and Mitrephora and pollen in Polyalthia confirm the high diversity within genera at the pollen morphological level in Annonaceae. Additional work is necessary to evaluate the significance of tetrads types in species identification in Goniothalamus and Mitrephora,and to test the status of the large genus Polyalthia s.str.. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This study was financially supported by the General Program of National Sciences Foundation of China (Grant NO. 31270227） and the “Strategic Priority Research Program”of the Chinese Academy of Sciences (Grant NO. XDA13020500). The authors thank Mrs. Xiaoying Hu for her technical assistance with the SEM at South China Botanical Garden,and Dr. Piya Chalermglin for collecting materials. We also thank Dr. Bine Xue for the revision of the discussion on Polyalthia part. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Disclosure statement ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "No potential conflict of interest was reported by the authors. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Angiosperm Phylogeny Group. 2016. An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG IV. Botanical Journal of the Linnean Society 181: 1-20. doi: 10.1111/boj.12385   \nBygrave PC. 2Ooo. Molecular systematics of the Annonaceae Juss. PhD Thesis, University of Reading, Reading, UK.   \nChaowasku T， Johnson DM， Van der Ham RWJM， Chatrou LW. 2012. Characterization of Hubera (Annonaceae)，a new genus segregated from Polyalthia and allied to Miliusa.Phytotaxa 69: 33-56. doi:http://dx.doi.org/10.11646/phytotaxa.69.1.6   \nChaowasku T, Johnson DM, Van der Ham RWJM, Chatrou LW. 2015. Huberantha, a replacement name for Hubera (Annonaceae: Malmeoideae: Miliuseae). Kew Bulletin 70: 1-4. doi: 10.1007/S12225-015-9571-Z   \nChaowasku T,Mols JB,Van der Ham RWJM. 2O08.Pollen morphology of Miliusa andrelatives(Annonaceae). Grana 47: 175-184. doi:10.108/0017313 0802202305   \nChatrou LW, Pirie MD, Erkens RHJ, Couvreur TLP, Neubig KM, Abbott JR,Mols JB, Maas JW, Saunders RMK,Chase MW. 2O12. A new subfamilial and tribal classification of the pantropical flowering plant family Annonaceae informed by molecular phylogenetics. Botanical Journal of the Linnean Society 169: 5-40. doi:10.1111/boj.2012.169.issue-1.   \nCouvreur TLP,Botermans M, Van Heuven BJ, Van der Ham RWJM. 2OO8.Pollen morphology within the Monodora clade，a diverse group of five African Annonaceae genera. Grana 47: 185-210. doi: 110.1080/00173130802256913   \nCouvreur TLP, Pirie MD,Chatrou LW, Saunders RMK,Su YCF,Richardson JE, Erkens RHJ.2O11. Early evolutionary history of the flowering plant family ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Annonaceae: Steady diversification and boreotropical geodispersal. Journal of Bioge0graphy 38: 664-680. doi: 10.1111/j.1365-2699.2010.02434.x ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Doyle JA, Bygrave P,Le Thomas A. 2Ooo. Implications of molecular data for pollen evolution in Annonaceae. In: Harley MM,Morton CM, Blackmore S,eds.Pollen and spores: morphology and biology， 259-284. Royal Botanic Gardens: Kew Publishing.   \nDoyle JA, Le Thomas A. 1994. Cladistic analysis and pollen evolution in Annonaceae. Acta Botanica Gallica 141: 149-170. doi:10.1080/12538078.1994.10515148   \nDoyle JA，Thomas AL. 1997. Significance of palynology for phylogeny of Annonaceae: Experiments with removal of pollen characters. Plant Systematics and Evolution 206:133-159. doi: 10.1007/BF00987945   \nDoyle JA, Le Thomas A. 2012. Evolution and phylogenetic significance of pollen in Annonaceae. Botanical Journal of the Linnean Society 169: 190-221. doi:10.1111/j.1095-8339.2012.01241.x   \nErdtman G. 1960. The acetolysis method， revised description. Svensk Botanisk Tidskrift 54: 561-564.   \nFries RE.1959. Annonaceae. In: Engler A, Harms H, Matfield J, Werdermann E. eds. Die Natuirlichen Pflanzenfamilien,1- 171,Berline: Duncker & Humblot.   \nGabarayeva NI. 1993. Sporoderm development in Asimina triloba (Annonaceae). II. The developmental events after callose dissolution. Grana 32: 210-220   \nGabarayeva NI. 1995. Pollen wall and tapetum development in Anaxagorea brevipes (Annonaceae): sporoderm substructure， cytoskeleton， sporopollenin precursor particles, and the endexine problem. Review of Palaeobotany and Palynology 85: 123-152. doi: 10.1016/0034-6667(94)00125-4   \nGan YY，Liu Y，Xu FX.2015. Pollen morphology of selected species from Annonaceae. Grana 54: 271-281. doi: 10.1080/00173134.2016.1142730   \nGottsberger G.2O12. How diverse are Annonaceae with regard to pollination? BotanicalJournal oftheLinnean Society 169: 245-261. doi :10.1111/j.1095-8339.2011.01209.x.   \nHesse M, Morawetz W,Ehrendorfer F.1985.Pollen ultrastructure and systematic ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "affinities of Anaxagorea (Annonaceae). Plant Systematics and Evolution 148: ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "253-285. d01: 10.100//BF00985928   \nKeβler PJA.1993.Annonaceae. In: Kubitzki K, Rohwer JG, Bitrich V. eds. The families and genera of vascular plants, 93-129, Berlin: Springer-Verlag.   \nLe Thomas A. 1980. Ultrastructural characters of the pollen grains of African Annonaceae and their significance for the phylogeny of primitive angiosperms (first part). Pollen et Spores 22: 267-342.   \nLe Thomas A. 1981. Ultrastructural characters of the pollen grains of African Annonaceae and their significance for the phylogeny of primitive angiosperms (second part). Pollen et Spores 23: 5-36.   \nLi PS， ThomasDC， SaundersRMK. 2015. Phylogeneticreconstruction, morphological diversificationandgenericdelimitation ofDisepalum (Annonaceae). PLOS ONE10: 1-24. doi: 10.1371/journal.pone.0143481.   \nLora J，Testillano PS，Risueno MC，Hormaza JI，Herrero M. 2OO9.Pollen development in Annona cherimola Mill. (Annonaceae). Implications for the evolution of aggregated pollen. BMC Plant Biology 9: 129-138. doi: 10.1186/1471-2229-9-129   \nMassoni J, Forest F, Sauquet H. 2O14. Increased sampling of both genes andtaxa improves resolution of phylogenetic relationships within Magnoliidae, a large and early-diverging clade of angiosperms. Molecular Phylogeneticsand Evolution 70: 84-93. doi: 10.1016/j.ympev.2013.09.010   \nMercerE， Griffin B， SteeleJ， GoodrichKR， BushCM. 2016. Phylogenetic relationships of Asimina and Deeringothamnus (Annonaceae) base d on morphology, floral scent chemistry, and Inter-Simple Sequence Repeat data. JournaloftheTorreyBotanicalSociety143:58-68. doi: 10.3159/TORREY-D-14-00045.1.   \nMols JB. 2004. From Miliusa to Miliuseae to Miliusoid: identifying clades in Asian Annonaceae. PhD Thesis, Leiden University, Leiden, Netherlands.   \nMols JB, KeBler PJA，Rogstad SH, Saunders RMK. 2008. Reassignment of six Polyalthia species to the new genus Maasia (Annonaceae): molecular and ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "morphological congruence. Systematic Botany 33: 490-494. doi: ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "10.1600/036364408785679752.   \nPunt W, Hoen PP, Blackmore S, Nilsson S,Le Thomas A. 2007. Glossary of pollen and spore terminology. Review of Palaeobotany and Palynology 143: 1-81. doi: 10.1016/j.revpalbo.2006.06.008   \nRainer H, Chatrou LW. 2OO6. World species list of Annonaceae. Wilson Bulletin 101: 606-620   \nRichardson JE,Chatrou LW，Mols JB,Erkens RHJ，Pirie MD.2004.Historical biogeography of two cosmopolitan families of flowering plants: Annonaceae and Rhamnaceae. Philosophical Transactions of the Royal Society B Biological Sciences 359: 1495-1508.doi: 10.1098/rstb.2004.153   \nSilberbauer-Gottsberger I， Gottsberger G，Webber AC. 2003. Morphological and functional flower characteristics of new and old world Annonaceae with respect to their mode of pollination. Taxon 52(4): 701-718. doi: 10.2307/3647345   \nSuYCF， SaundersRMK. 2OO3. Pollen structure， tetrad cohesionand pollen-connecting threads in Pseuduvaria (Annonaceae). Botanical Journal of the Linnean Society 143: 69-78. doi: 10.1046/j.1095-8339.2003.00204.x   \nSaunders RMK, Su Y C F, Xue B. 2011. Phylogenetic affinities of Polyalthia species (Annonaceae） with columellar-sulcate pollen: Enlarging the Madagascan endemic genus Fenerivia. Taxon 60:1407-1416.   \nSchatz GE,Le Thomas A. 1990. The genus Polyalthia Blume (Annonaceae） in Madagascar. Bulletin Du Muséum National Dhistoire Naturelle 12: 113-130.   \nTurner IM. 2O15.A conspectus of Indo-Burmese Annonaceae. Nordic Journal of Botany 33: 257-299. doi: 10.1111/njb.00689   \nWaha M. 1987. Different origins of fragile exines within the Annonaceae. Plant Systematics and Evolution 158: 23-27. doi: 10.1007/BF00936141   \nWaha M, Hesse M. 1988. Aperture types within Sapranthus and Polyalthia (Annonaceae).PlantSystematicsandEvolution161:135-146. doi:10.1007/BF00937294   \nWaha M, Morawetz W. 1988. Pollen evolution and systematics in Annonaceae with ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "special reference to the disulcate Australian endemic genera.Plant Systematics ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "and Evolution 161: 1-12. doi: 10.1007/BF00936007   \nWalker JW. 1971a. Pollen morphology， phytogeography，and phylogeny of the Annonaceae. Contributions from the Gray Herbarium of Harvard University 202: 1-131.   \nWalker JW. 1971b. Elucidation of exine structure and sculpturing in the Annonaceae through combined use of light and scanning electron microscope. Pollen et Spores 13:187-198.   \nWalker JW. 1971c. Contributions to the pollen morphology and phylogeny of the Annonaceae I. Grana 11:45-54.   \nWalker JW. 1972. Contributions to the pollen morphology and phylogeny of the Annonaceae II. Botanical Journal of the Linnean Society 65:173-178. doi: 10.1111/j.1095-8339.1972. tb00931.x   \nWang J， Chalermglin P， Saunders RMK. 20O9. The genus Dasymaschalon (Annonaceae) in Thailand. Systematic Botany 34: 252-265   \nWang J, Thomas DC, Su YCF, Meinke S,Chatrou LW， Saunders RMK. 2012.A plastid DNA phylogeny of Dasymaschalon (Annonaceae) and allied genera: Evidence for generic non-monophyly and the parallel evolutionary loss of inner petals. Taxon 61: 545-558   \nWeerasooriya AD. 2O01. Systematics， phylogeny and reproductive biology of Mitrephora (Annonaceae). PhD Thesis, The University of Hong Kong, Hong Kong, China.   \nWeerasooriya AD, Saunders RMK. 2010. Monograph of Mitrephora (Annonaceae). Systematic Botany Monographs 90: 1-167.   \nXu FX, Craene LRD. 2013. Pollen morphology and ultrastructure of selected species fromAnnonaceae. PlantSystematicsandEvolution 299:11-24. doi:10.1007/s00606-012-0698-1.   \nXu FX, Kirchoff BK. 2OO8. Pollen morphology and ultrastructure of selected species of Magnoliaceae. Review of Palaeobotany and Palynology 150: 140-153. doi: :10.1016/j.revpalbo.2008.01.007.   \nXue B,Su YCF,Mols JB, Kessler PJA, Saunders RMK. 2011. Further fragmentation of the polyphyletic genus Polyalthia (Annonaceae): molecular phylogenetic support for a broader delimitation of Marsypopetalum. Systematics and Biodiversity 19: 17-26. doi:10.1080/14772000.2010.542497.   \nXue B, Su YCF, Thomas DC, Saunders RMK. 2012. Pruning the polyphyletic genus Polyalthia (Annonaceae） and resurrecting the genus Monoon. Taxon 61 (5):1021-1039   \nXue B. 2O13. Molecular phylogenetics of Polyalthia (Annonaceae): identifying clades and morphological synapomorphies in alarge polyphyletic genus. PhD Thesis, The University of Hong Kong, Hong Kong, China. #   \n1 B C   \nJ0d G 二 H K 。   \n0 二 A R S ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Figure captions ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Figure 1. SEM views of pollen grains (A,C, E, G, I, K, M, O,Q, S） and ornamentation of sexine (B, D, F, H, J, L, N, P, R, T). A, B. Alphonsea pallida, spheroidal monad (A） with rugulate ornamentation (B). C, D. Alphonsea siamensis, spheroidal monad (C) with rugulate ornamentation (D). E, F. Anaxagorea javanica, intine extruded from aperture, exinous margin of aperture pointed out by black arrows $( \\mathbf { E } )$ , and with psilate exine (e) ornamentation (F). G,H. Anaxagorea luzonensis, intine (i) extruded from aperture, exinous margin of aperture pointed out by black arrows $( \\mathbf { G } )$ , and with scabrate exine (e) ornamentation (H). I, J. Artabotrys brevipes, elliptic monad (I） with loosely fossulate-perforate ornamentation (J). K,L. Artabotrys burmanicus， elliptic monad with a single furrow $\\mathbf { \\Gamma } ( \\mathbf { K } )$ ，andwithfinely fossulate-perforate ornamentation (L). M, N. Artabotrys harmandii, elliptic monad (M) with loosely fossulate-perforate ornamentation (N). O, P. Artabotrys multiflorus, elliptic monad (O） with finely fossulate-perforate ornamentation $( \\mathbf { P } )$ . Q， R. Artabotryssiamensis， elipticmonad(Q） withfinelyfossulate-perforate ornamentation $\\mathbf { \\tau } ( \\mathbf { R } )$ . S，T. Artabotrys uniflorus, elliptic monad (S） with finely fossulate-perforate ornamentation (T). Scale bars - $1 0 \\mu \\mathrm { m }$ (A, C, E, G, I, K, M, O, Q, S), $2 \\mu \\mathrm { m }$ (B, D, F,H, J, L, N, P, R, T). ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Figure 2. SEM views of pollen grains (A,C, E,G, I,K, M, O, Q, S) and ornamentation of sexine (B, D, F, H, J, L, N, P, R, T). A, B. Dasymaschalon acuminatum, spheroidal monad (A） with echinate ornamentation and much smaller, closely spaced clavae (B). C, D. Dasymaschlon angustifolium, spheroidal monad (C) with echinate ornamentation and smaller, closely spaced clavae (D). E，F. Dasymaschalon dasymaschalum， spheroidal monad $\\mathbf { \\tau } ( \\mathbf { E } )$ with scabrate ornamentation (F). G，H. Dasymaschalon macrocalyx, spheroidal monad $( \\mathbf { G } )$ with echinate ornamentation with many shallows (H). I, J. Desmos cochinchinensis, spheroidal monad (I) with echinate ornamentation (J). K, L. Fissistigma oblongum, elliptic monad $\\mathbf { \\Gamma } ( \\mathbf { K } )$ with a flattened pole (white arrow),and with rugulate ornamentation $\\mathbf { \\tau } ( \\mathbf { L } )$ M, N. Friesodielsia desmoides， spheroidal monad (M) with echinate-perforate ornamentation $( \\mathbf { N } )$ . O, P. Goniothalamus laoticus, tetrahedral tetrad (three grains of a tetrahedral tetrad) $\\mathbf { \\eta } ( \\mathbf { O } )$ with psilate ornamentation $( \\mathbf { P } )$ . Q，R. Goniothalamus repevensis， decussate tetrad $( \\mathbf { Q } )$ with psilate-perforate ornamentation (R). S,T. Goniothalamus sawtehii, tetragonal tetrad (S) with rugulate ornamentation (T). Scale bars - $1 0 \\mu \\mathrm { m }$ (A, C,E, G, I, K, M, O, Q, S), $2 \\mu \\mathrm { m }$ (B,D, F, H, J,L, N, P, R, T). ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Figure 3. SEM views of pollen grains (A，C，E,G,I, K,M, O,Q-T） and ornamentation of sexine (B,D, F, H, J, L, N, P). A, B. Goniothalamus tamirensis, tetragonal tetrad (A) with psilate ornamentation (B). C, D. Goniothalamus undulatus, tetragonal tetrad (C) with scabrate ornamentation (D). E, F. Huberantha cerasoides, spheroidal monad with two depressed areas $( \\mathbf { E } )$ ,rugulate-verrucate ornamentation $( \\mathbf { F } )$ G,H. Marsypopetalum crassum,elliptic monad with two furrows (G)，and with shallowly verrucate ornamentation (H). I, J. Melodorum fruticosum, elliptic monad (I) with scabrate-perforate ornamentation (J). K, L. Miliusa campanulata, spheroidal monad with two depressed areas (arrows) $\\mathbf { \\Gamma } ( \\mathbf { K } )$ , with verrucate-perforate ornamentation (L). M, N. Miliusa cuneata, spheroidal monad with two depressed areas (white arrows) (M), with verrucate-perforate ornamentation (N). O, P. Miliusa intermedia, spheroidal monad with two depressed areas (white arrows） $\\mathbf { \\eta } ( \\mathbf { O } )$ ，with scabrate ornamentation (P). Q-T.Mitrephora alba, tetragonal (Q), rhomboidal $\\mathbf { \\Gamma } ( \\mathbf { R } )$ , tetrahedral (S) and decussate (T) tetrad. Scale bars - $1 0 \\mu \\mathrm { m }$ (A, C, E, G, I, K, M, O, Q-T), $2 \\mu \\mathrm { m }$ (B, D, F,H, J,L, N, P). ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Figure 4. SEM views of pollen grains (B-E,G-I,K-M, O-S) and ornamentation of sexine (A, F, J, N, T). A. Mitrephora alba with verrucate ornamentation. B-F. Mitrephora keithii, tetragonal $\\mathbf { \\left( B \\right) }$ ，rhomboidal (C)，tetrahedral $\\mathbf { \\tau } ( \\mathbf { D } )$ and new tetrad type $\\mathbf { \\tau } ( \\mathbf { E } )$ with verrucate ornamentation (F). G-J. Mitrephora sp.,， tetragonal (G), rhomboidal $\\mathbf { \\Pi } ( \\mathbf { H } )$ and tetrahedral (I) tetrad with verrucate ornamentation (J). K-N. Mitrephora teysmanii, tetragonal $( \\mathbf { K } )$ ,rhomboidal ${ \\bf \\Pi } ( { \\bf L } )$ and tetrahedral (M) tetrad with verrucate ornamentation (N). O-T. Mitrephora tomentosa, tetragonal (O), rhomboidal $( \\mathbf { P } )$ , T-shaped (Q), tetrahedral $\\mathbf { \\tau } ( \\mathbf { R } )$ and decussate: two pairs of dyads across each other at right angles (arrows) (S) tetrad with verrucate ornamentation (T). Scale bars - 10 $\\mu \\mathrm { m }$ (B-E,G-I,K-M,O-S), $2 \\mu \\mathrm { m }$ (A, F, J, N, T). ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Figure 5. SEM views of pollen grains (A-C，E-G，I, K, M, O,Q, S) and ornamentation of sexine (D, H, J, L, P, N, P, R, T). A-D. Mitrephora wangi, tetragonal (A)，rhomboidal $\\mathbf { \\left( B \\right) }$ and decussate (C） tetrad with coarsely scabrate ornamentation (D). E-H. Mitrephora winitii, tetragonal $( \\mathbf { E } )$ ，rhomboidal $( \\mathbf { F } )$ and tetrahedral $( \\mathbf { G } )$ tetrad with verrucate ornamentation (H). I, J. Monoon asteriellum, spheroidal monad (I) with microechinate ornamentation (J). K, L. Monoon fuscum, spheroidal monad $\\mathbf { \\Gamma } ( \\mathbf { K } )$ with scabrate ornamentation (L). M, N. Monoon jucundum, spheroidal monad (M) with rugulate ornamentation (N). O, P. Monoon lateriflorum, spheroidal monad $\\mathbf { \\eta } ( \\mathbf { O } )$ withrugulateornamentation $( \\mathbf { P } )$ .Q，R. Monoon membranifolium, spheroidal monad (Q） with scabrate ornamentation ( $\\mathbf { \\nabla } ^ { \\mathbf { R } ) }$ . S,T. Monoon viride, spheroidal monad (S) with rugulate ornamentation (T). Scale bars - $1 0 \\mu \\mathrm { m }$ (A-C,E-G,I, K,M, O, Q, S), $2 \\mu \\mathrm { m }$ (D, H, J, L, P, N, P, R, T). ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Figure 6. SEM views of pollen grains (A, C, E, G, I, J, L， N, O, Q, S） and ornamentation of sexine (B, D, F, H, K, M, P, R, T). A, B. Orophea brandisi, spheroidal monad with two furrow (A),and with verrucate ornamentation (B). C,D. Orophea enterocarpa,spheroidal monad with two furrows (C),and with verrucate ornamentation (D). E,F. Orophea kerrii, monad with two furrows $( \\mathbf { E } )$ ，and with rugulate ornamentation (F). G, H. Orophea polycarpa, monad with one visible furrow （204号 $( \\mathbf { G } )$ ， and with reticulate-perforate ornamentation $\\mathbf { \\Pi } ( \\mathbf { H } )$ . I-K. Polyalthia bullata, triangular monad with two furrows (I, J） with rugulate ornamentation $( \\mathbf { K } )$ . L, M. Polyalthia evecta var. evecta, spheroidal monad with one furrow $\\mathbf { \\left( L \\right) }$ with verrucate ornamentation (M). N-P. Polyalthia evecta var. attopeuernsis, triangular monad (N, O）with rugulate-verrucate ornamentation $( \\mathbf { P } )$ . Q, R. Uvaria siamensis,spheroidal monad ${ \\bf \\Pi } ( { \\bf Q } )$ with gemmate ornamentation ( $( \\mathbf { R } )$ . S, T. Winita expansa, elliptic monad with no visible aperture (S),and with microscabrate ornamentation (T). Scale bars - $1 0 \\mu \\mathrm { m }$ (A, C,E, G,1, J,L, N, O, Q, S), $2 \\mu \\mathrm { m }$ (B,D, F, H, K, M,P, R, T). ",
+        "page_idx": 20
+    }
+]

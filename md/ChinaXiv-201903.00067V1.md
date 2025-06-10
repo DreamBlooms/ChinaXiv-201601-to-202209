@@ -1,0 +1,331 @@
+# 基于谐波注入PWM的高速永磁同步电机纹波电流抑制方法
+
+于吉坤李立毅杜鹏程 张江鹏（哈尔滨工业大学电气工程及自动化学院 哈尔滨150001）
+
+![](images/e9f3db5af3a1b6cd4e483f523740f6a1a9b5735a24535b9f48109fa31cdfd68c.jpg)
+
+于吉坤男1987年生，博士研究生，研究方向为高速永磁电机及其驱动控制。
+
+摘要：在高速永磁同步电机调速系统中，PWM逆变器的低载波比和高速永磁同步电机的小电感使得电机绕组中存在较大的纹波电流。为有效抑制纹波电流，提出一种谐波注入PWM调制方式，即在 SPWM正弦信号波中注入3次和9次谐波，通过优化PWM 逆变器供电电压脉冲序列宽度，达到减小高速永磁同步电机纹波电流的目的。首先，基于规则采样高速永磁同步电机控制系统，论述谐波注入PWM原理和实现方法；其次，推导纹波电流谐波成分的计算公式，根据纹波电流谐波频谱分布的特点，引入纹波电流谐波群畸变率定量描述纹波电流大小，以弥补纹波电流总畸变率的不足，对谐波注入PWM的纹波电流抑制效果计算分析；最后，对谐波注入PWM方法进行实验验证，实验结果表明，所提谐波注入PWM方法可以有效抑制高速永磁同步电机纹波电流。
+
+关键词：高速永磁同步电机 谐波注入PWM纹波电流谐波计算中图分类号：TM315
+
+![](images/048afdd7131af5360145782e987db763042688826311e5a1724e39339ffc8643.jpg)
+
+李立毅男1969年生，博士，教授，博士生导师，研究方向为特种电机系统、特种电磁装置系统。
+
+# High Speed Permanent Magnet Synchronous Motors Ripple Current Suppression Based on Harmonic Injection PWM
+
+Yu Jikun Li Liyi Du Pengcheng Zhang Jiangpeng (Harbin Institute of TechnologyHarbin150001China ）
+
+Abstract: In the high speed permanent magnet synchronous motor speed control system, the low carrier wave ratio of the PWM inverter and the small inductance of the high speed permanent magnet synchronous motor make larger the ripple current in the motor windings. In order to effectively reduce the ripple current, a harmonic injection PWM modulation is presented, which is SPWM sinusoidal signal wave injected into the three harmonic and nine harmonic.Power supply voltage pulse of PWM inverter could be optimized by the harmonic injection PWM,and the ripple current would be reduced in the high speed permanent magnet synchronous motor. First of all, harmonic injection principle and realization method are discussed in the high speed permanent magnet synchronous motor control system based on the regular sampling PWM. Secondly, the calculating formula of ripple current harmonic components is deduced.According to the characteristics of ripple current harmonic spectrum, ripple current harmonic group distortion ratio is used for the quantitative description of ripple current, which compensate incomplete features of the ripple current total distortion ratio.The harmonic current suppression effect of harmonic injection PWM is calculated and analyzed. Finally,the harmonic injection PWM method was verified by experiments,and experimental results show that the proposed method can effectively suppress ripple current of the high speed permanent synchronous motor.
+
+Keywords: High speed permanent magnet synchronous motors,harmonic injection WM, ripple current, harmonic calculation
+
+# 1 引言
+
+由于采用磁能积高的稀土永磁材料作励磁，与传统的电机相比，高速永磁电机具有更大的功率密度，更高的可靠性，以及更小的尺寸比等优势，近年来引起业界极大兴趣和广泛研究[1-2]。这种类型的电机有许多工业应用，如压缩机、真空泵、涡轮发电机、飞轮储能系统、钻孔工具和摩擦焊接设备等。在这些高速工业单元中，省去了变速箱中间环节，应用直接与电机的转轴连接，不仅缩小了设备体积，而且提高了设备的传动效率和系统可靠性[3-4]。
+
+由于结构简单、成本低廉，两电平正弦PWM(SPWM）变频器在一般低压调速电机驱动中得到广泛应用。然而两电平正弦PWM（SPWM）变频器在高速电机驱动系统中遇到了困难。由于供电频率高（数百甚至上千赫兹)，受功率器件开关损耗限制，变频器的载波频率无法再提高，导致变频器输出电压中含有幅值较大、频率较低的谐波分量；加之低压高速电机绕组匝数很少和漏电感很小，致使电机绕组电流谐波较大，产生较大的附加损耗，造成高速电机的散热困难(特别是转子)。如何降低变频器的电流谐波，是当前低压高速电机驱动系统亟待解决的问题。
+
+目前，谐波分析主要有仿真法[6-9]和解析法[10-11]两种方法，仿真法适用性很强，谐波含量直观清晰，但与电机系统参数之间的关系不够明确，解析法以数学表达式的形式建立起与电机系统参数之间的联系，能够深刻地揭示谐波随参数变化规律，但推导复杂，仅少数PWM调制方式的电枢电流谐波能得到完美的解析解，在简化解析计算中也多以电压谐波分析为主[12-14]。正弦 PWM（SPWM）和空间矢量PWM（SVPWM）是当前逆变系统中应用最为广泛的两种交流调制方法，但这两种调制方法都不是抑制纹波电流的最佳方法，从抑制对比效果来看，两电平中 SVPWM方法优于 SPWM方法[15-17]，而多电平PWM调制方法又优于两电平PWM调制方法[18]，但多电平调制方法所需矢量数目庞大，不利于过程分析和优化设计[19]。
+
+本文以两电平为例，在SPWM正弦信号波中引入谐波，研究谐波注入PWM对高速永磁同步电机纹波电流的影响规律，研究表明，合理的3次和9次谐波注入PWM可实现纹波电流有效地抑制。在研究过程中，首先基于规则采样电机控制系统阐述谐波注入PWM基本概念和实现方法，其次对纹波
+
+电流谐波解析推导，引出谐波群畸变率，与总谐波畸变率对纹波电流进行全面地定量化，解析计算3次和9次谐波注入PWM的纹波电流抑制效果，最后通过实验对谐波注入PWM抑制纹波电流的有效性进行验证。
+
+# 2 谐波注入PWM方法
+
+# 2.1规则采样SPWM的原理
+
+图1为本文采用的高速永磁电机控制系统的整体控制框图，高速永磁电机控制系统采用 $i _ { \mathrm { d } } = 0$ 的控制方式，外环为速度闭环、内环为电流闭环，内外环均采用比例积分PI反馈控制，速度给定 $\omega _ { \mathrm { r e f } }$ 与速度反馈 $\omega$ 误差经过外环PI得到q轴电流给定 $i _ { \mathrm { q r e f } }$ d轴、q轴电流给定 $i _ { \mathrm { d r e f } }$ ， $i _ { \mathrm { q r e f } }$ 与d轴、q轴电流反馈 $i _ { \mathrm { d } }$ 、 $i _ { \mathrm { q } }$ 误差经过内环PI得到d轴、q轴电压给定$u _ { \mathrm { d } }$ ， $u _ { \mathrm { q } }$ ，结合检测到的转子实际角度 $\theta$ ，经过dq/abc坐标系变换得到静止坐标系下的电压给定 $u _ { \mathrm { a } }$ ， $u _ { \mathrm { b } }$ 、$u _ { \mathrm { c } }$ ，作为规则采样PWM的信号波，它们是相位互差 $2 \pi / 3$ 的正弦函数 $\sin \left( \theta \right)$ ，同时与三角载波 $g ( \theta )$ 比较，生成驱动信号，控制PWM逆变器功率开关管通断，产生3路PWM电压输出，为高速永磁同步电机（HSPMSM）供电。
+
+![](images/ba84f269b5f5b6fee131b15355dc1a7fd62640d14d3365239405d6bbf4a0e475.jpg)  
+图1基于SPWM的HSPMSM控制系统框图Fig.1HSPMSM control system block diagram base onSPWM mode
+
+生成PWM波形的方法有自然采样法和规则采样法，自然采样法由于计算量大、计算时间长，在实际工程中很少采用，规则采样法可以看作是自然采样法线性近似的简化处理方法，计算量和计算时间显著减少，是一种应用广泛的工程使用方法，具体实现方法如图2所示，取三角载波 $g ( \theta )$ 两个正峰值之间的长度为一个采样周期 $\theta _ { \mathrm { c } }$ ，在第 $k$ 个采样周期内，在三角载波负峰值时刻 $\theta _ { k }$ 对任意指定的信号波 $h ( \theta )$ 采样，过采样点作一水平直线和三角波交于两点，在这两点分别控制功率开关器件的通断，得到宽度为 $\delta _ { k }$ 的脉冲调制波形。
+
+![](images/2ceafb6e1531a2106236b535f58519f7070176b1eaf3bb9e66d020cf46151514.jpg)  
+图2任意信号波 $h ( \theta )$ 的规则采样
+
+第 $k$ 个采样周期，规则采样得到的脉冲宽度 $\delta _ { k }$ 与采样周期 $\theta _ { \mathrm { c } }$ 的比值称为PWM占空比 $D _ { k }$ ，它与信号波 $h ( \theta )$ 之间的关系为
+
+$$
+D _ { k } = \frac { 1 } { 2 } \left[ 1 + M h \left( \frac { 2 k + 1 } { 2 } \theta _ { \mathrm { { c } } } \right) \right]
+$$
+
+式中， $M$ 为调制比， $\theta _ { \mathrm { c } } = 2 \pi / N _ { \mathrm { c } }$ 是采样角度周期，为载波比，即三角载波 $g ( \theta )$ 频率和信号波 $h ( \theta )$ 频率的比值。从式（1）可以看出，已知规则采样法信号波具体函数形式，就可以得到任意采样周期内脉冲电压宽度。
+
+# 2.2谐波注入PWM原理
+
+SPWM和SVPWM都可以由规则采样法产生，只是所用的信号波 $h ( \theta )$ 不同，SPWM波的信号波$h ( \theta )$ 是正弦函数，即
+
+$$
+h ( \theta ) = \cos \theta
+$$
+
+而SVPWM的信号波 $h ( \theta )$ 是马鞍波函数，即
+
+$$
+h \left( \theta \right) = \frac { \sqrt { 3 } } { 2 } \left\{ \begin{array} { l l } { \cos \left( \theta - \displaystyle \frac { \pi } { 6 } \right) } & { \theta \in \left[ 0 , \displaystyle \frac { \pi } { 3 } \right) \cup \left[ \pi , \displaystyle \frac { 4 \pi } { 3 } \right) } \\ { \sqrt { 3 } \cos \theta } & { \theta \in \left[ \displaystyle \frac { \pi } { 3 } , \displaystyle \frac { 2 \pi } { 3 } \right) \cup \left[ \displaystyle \frac { 4 \pi } { 3 } , \displaystyle \frac { 5 \pi } { 3 } \right) } \\ { \cos \left( \theta + \displaystyle \frac { \pi } { 6 } \right) } & { \theta \in \left[ \displaystyle \frac { 2 \pi } { 3 } , \pi \right) \cup \left[ \displaystyle \frac { 5 \pi } { 3 } , 2 \pi \right) } \end{array} \right.
+$$
+
+将式（3）的SVPWM信号波 $h ( \theta )$ 按照傅里叶级数展开，得
+
+$$
+h ( \theta ) = \cos \theta - \frac { 3 \sqrt { 3 } } { \pi } \sum _ { k = 1 } ^ { \infty } \frac { \cos 3 ( 2 k - 1 ) \theta } { \left[ 3 ( 2 k - 1 ) \right] ^ { 2 } - 1 }
+$$
+
+从式（4）中看出， $h ( \theta )$ 除基波外，还有 $3 k$ ( $k$ 为奇数）次谐波。图3绘制了SVPWM信号波 $h ( \theta )$ 及其部分谐波，图中 $h ( \theta )$ 、 $h _ { 1 } ( \theta )$ 、 $h _ { 3 } ( \theta )$ 和 $h _ { 9 } ( \theta )$ 分别是SVPWM信号波及其基波、3次和9次谐波。
+
+![](images/f9d866605c7f8a50bd578d2c6fbe9efc3e5ab06b52f3b42e94d0ec3716f4d328.jpg)  
+Fig.2Regular sampling of the arbitrary signal wave $h ( \theta )$   
+图3SVPWM信号波及其谐波 Fig.3SVPWM signal wave and its harmonics
+
+从式（4）中还可以看出，SVPWM信号波 $h ( \theta )$ 的谐波幅值随着谐波次数增加平方衰减，SVPWM信号波 $h ( \theta )$ 近似为
+
+$$
+h ( \theta ) \approx \cos \theta - \frac { 3 \sqrt { 3 } } { 8 \pi } \cos 3 \theta - \frac { 3 \sqrt { 3 } } { 8 0 \pi } \cos 9 \theta
+$$
+
+从式（5）可以看出，SVPWM波形中的3次和9次谐波幅值是固定的，如果将3次和9次谐波幅值设置为变量 $H _ { 3 }$ 和 $H _ { 9 }$ ，将形成新的PWM调制方式，即谐波注入PWM，它的信号波形函数 $h ( \theta )$ 可表示为
+
+$$
+h ( \theta ) = \cos \theta - H _ { 3 } \cos 3 \theta - H _ { 9 } \cos 9 \theta
+$$
+
+相比SPWM和SVPWM，谐波注入PWM增加了两个自由度，可调整PWM电压脉冲序列，进而优化高速永磁同步电机纹波电流。
+
+根据三角函数恒等式
+
+$$
+\cos 3 \theta = 4 \cos ^ { 3 } \theta - 3 \cos \theta
+$$
+
+谐波注入PWM信号波式（6）中的3次谐波cos $3 \theta$ 可以通过基波cos $\theta$ 间接获得，式（6）中9次谐波cos $9 \theta$ 可以通过3次谐波cos $3 \theta$ 间接获得，获取方法详细如图4所示，使用 $H ( \cdot )$ 描述基波cos $\theta$ 到式（4）谐波注入PWM信号波 $h ( \theta )$ 的映射关系。
+
+通过dq/abc变换得到的SPWM调制使用的三相正弦电压信号波 $u _ { \mathrm { a } }$ 、 $u _ { \mathrm { b } }$ 、 $u _ { \mathrm { c } }$ ，经图4映射 $H ( \cdot )$ 得到 $u _ { \mathrm { h a } }$ ， $u _ { \mathrm { h b } }$ ， $u _ { \mathrm { h c } }$ ，作为谐波注入PWM调制使用的三相电压信号波，设SPWM电压信号波 $u _ { \mathrm { a } }$ ， $u _ { \mathrm { b } }$ 、 $u _ { \mathrm { c } }$ 为
+
+![](images/64bf3f8ea56f51f075572f9e6c32abae349021937cb2d40276784e5343b42999.jpg)  
+图4谐波注入PWM信号波获取方法
+
+$$
+\left\{ \begin{array} { l l } { u _ { \mathrm { a } } = U _ { \mathrm { m } } \cos { ( \theta + \varphi ) } } \\ { \quad } \\ { u _ { \mathrm { b } } = U _ { \mathrm { m } } \cos { ( \theta - 2 \pi / 3 + \varphi ) } } \\ { \quad } \\ { u _ { \mathrm { c } } = U _ { \mathrm { m } } \cos { ( \theta - 4 \pi / 3 + \varphi ) } } \end{array} \right.
+$$
+
+式中， $U _ { \mathrm { m } }$ ， $\varphi$ 分别为幅值和相位，则谐波注入PWM电压信号波 $u _ { \mathrm { h a } }$ ， $u _ { \mathrm { h b } }$ 、 $u _ { \mathrm { h c } }$ 为
+
+$$
+\left\{ \begin{array} { l l } { u _ { \mathrm { h a } } = U _ { \mathrm { m } } h \left( \theta + \varphi \right) } \\ { \quad u _ { \mathrm { h b } } = U _ { \mathrm { m } } h \left( \theta - 2 \pi / 3 + \varphi \right) } \\ { \quad u _ { \mathrm { h c } } = U _ { \mathrm { m } } h \left( \theta - 4 \pi / 3 + \varphi \right) } \end{array} \right.
+$$
+
+式中， $h ( \theta )$ 为式（6）信号波形函数，这样处理之后，就可以构建得到基于谐波注入PWM的HSPMSM控制系统框图，如图5所示。
+
+![](images/7483876325c9cc5cd592dbba2436bc85277537bc3e1d7c243fb552dd6e552cb7.jpg)  
+Fig.4Acquisition method of Harmonic injection PWM signal wave
+
+![](images/af2a6faed5ee0dedeaf9bc24c21abbe458279fb7a9b039aaadcc1179ecc16acc.jpg)  
+图5基于谐波注入PWM的HSPMSM控制系统框图 Fig.5 HSPMSM control system block diagram base on harmonic injection PWM mode
+
+# 3 纹波电流计算分析
+
+# 3.1纹波电流的谐波计算
+
+三相半桥PWM逆变器如图6所示，图中， $U _ { \mathrm { d } }$ 为直流母线电压； $e _ { \mathrm { A } }$ 、 $e _ { \mathrm { B } }$ 、 $e _ { \scriptscriptstyle \mathrm { C } }$ 分别为永磁同步电机三相反电动势； $i _ { \mathrm { A } }$ ， $i _ { \mathrm { B } }$ 、 $i _ { \scriptscriptstyle \mathrm { C } }$ 分别为电机电枢绕组三相电流； $L$ 为电机电枢绕组相电感； $R$ 为电机电枢绕组相电阻；O为直流母线中性点；N为电机三相电枢绕组中性点。
+
+PWM逆变器输出PWM电压可以看作载波比$N _ { \mathrm { c } }$ 个脉冲序列方波，如图7所示，以第 $k$ 个采样周期脉冲为例，脉冲通断角度 $\theta _ { 2 k }$ 和 $\boldsymbol { \theta } _ { 2 k - 1 }$ 由式 (10)确定。
+
+![](images/3ee14edf56902112cc231fc35a3c73a7c67587012cb13ecfc359b6307f52bb80.jpg)  
+图6 PWM逆变器 Fig.6PWMinverter   
+图7PWM电压波形Fig.7PWM voltage wave
+
+$$
+\left\{ \begin{array} { l l } { \displaystyle \theta _ { 2 k - 1 } = \left( k - \frac { 1 + D _ { k } } { 2 } \right) \theta _ { \mathrm { c } } } \\ { \displaystyle } \\ { \theta _ { 2 k } = \left( k - \frac { 1 - D _ { k } } { 2 } \right) \theta _ { \mathrm { c } } } \end{array} \right.
+$$
+
+PWM逆变器任意一相桥臂对电源中点输出的PWM电压 $\delta ( \theta )$ 可以表示为
+
+$$
+\delta ( \theta ) = U _ { \mathrm { d } } \sum _ { k = 1 } ^ { N _ { \mathrm { c } } } \left[ \varepsilon ( \theta - \theta _ { 2 k - 1 } ) - \varepsilon ( \theta - \theta _ { 2 k } ) - \frac { 1 } { 2 } \right]
+$$
+
+式中， $U _ { \mathrm { d } }$ 为直流母线电压； $\varepsilon ( t )$ 为单位阶跃函数；$N _ { \mathrm { c } }$ 为载波比。按照傅里叶级数展开，得
+
+$$
+\begin{array} { l } { { \displaystyle \delta ( \theta ) = \frac { U _ { \mathrm { d } } } { N _ { \mathrm { c } } } \sum _ { k = 1 } ^ { N _ { \mathrm { c } } } \biggl ( D _ { k } - \frac { 1 } { 2 } \biggr ) + } } \\ { { \displaystyle ~ \sum _ { n = 1 } ^ { \infty } \biggl \{ \frac { U _ { \mathrm { d } } } { n \pi } \sum _ { k = 1 } ^ { N _ { \mathrm { c } } } ( \sin n \theta _ { 2 k } - \sin n \theta _ { 2 k - 1 } ) \cos n \theta + \biggr . } } \end{array}
+$$
+
+$$
+\frac { U _ { \mathrm { d } } } { n \pi } \sum _ { k = 1 } ^ { N _ { \mathrm { c } } } ( \cos n \theta _ { 2 k - 1 } - \cos n \theta _ { 2 k } ) \sin n \theta \Bigg \}
+$$
+
+根据PWM逆变器ABC三相桥臂对电源中点电压相位互差 $2 \pi / 3$ 的特点，ABC三相桥臂对电源中点电压 $u _ { \mathrm { A O } }$ 、 $u _ { \mathrm { B O } }$ 、 $u _ { \mathrm { { C O } } }$ 可以表示为
+
+$$
+\left\{ \begin{array} { l } { { u _ { \mathrm { A O } } = \delta \left( \theta \right) } } \\ { { \ } } \\ { { u _ { \mathrm { B O } } = \delta \left( \theta - 2 \pi / 3 \right) } } \\ { { \ } } \\ { { u _ { \mathrm { C O } } = \delta \left( \theta - 4 \pi / 3 \right) } } \end{array} \right.
+$$
+
+ABC 三相桥臂对负载中点的相电压uAN、uBN、$u _ { \scriptscriptstyle \mathrm { C N } }$ 与 ABC 三相桥臂对电源中点电压 $u _ { \mathrm { A O } }$ ， $u _ { \mathrm { B O } }$ 、 $u _ { \mathrm { C O } }$ 之间的关系为
+
+$$
+\left\{ \begin{array} { c } { u _ { \mathrm { A N } } = u _ { \mathrm { A O } } - { \frac { u _ { \mathrm { A O } } + u _ { \mathrm { B O } } + u _ { \mathrm { C O } } } { 3 } } } \\ { { } } \\ { u _ { \mathrm { B N } } = u _ { \mathrm { B O } } - { \frac { u _ { \mathrm { A O } } + u _ { \mathrm { B O } } + u _ { \mathrm { C O } } } { 3 } } } \\ { u _ { \mathrm { C N } } = u _ { \mathrm { C O } } - { \frac { u _ { \mathrm { A O } } + u _ { \mathrm { B O } } + u _ { \mathrm { C O } } } { 3 } } } \end{array} \right.
+$$
+
+ABC三相桥臂对电源中点O的电压uAo、uBO和 $u _ { \mathrm { { C O } } }$ 是对称分布的，它们的 $3 k$ ? $' _ { k } = 1 , 2 , 3 , \cdots$ ）谐波同相位，结合式（14）可知， $u _ { \mathrm { A O } }$ 、 $u _ { \mathrm { B O } }$ 、 $u _ { \mathrm { C O } }$ 中的相应直流分量和 $3 k$ ( $k = 1 , 2 , 3 , \cdots$ ）谐波正好被抵消，剩下的谐波组合就是A相桥臂对负载中点 $\mathrm { ~ N ~ }$ 的电压$u _ { \mathrm { A N } }$ 、 $u _ { \mathrm { B N } }$ 、 $u _ { \mathrm { C N } }$ ，简计为 $u$ ，则
+
+$$
+u = \sum _ { n = 1 } ^ { \infty } \left\{ \frac { U _ { \mathrm { d } } } { n \pi } \sum _ { k = 1 } ^ { N _ { \mathrm { c } } } ( \sin n \theta _ { 2 k } - \sin n \theta _ { 2 k - 1 } ) \cos n \theta + \right.
+$$
+
+$$
+\frac { U _ { \mathrm { d } } } { n \pi } \sum _ { k = 1 } ^ { N _ { \mathrm { c } } } ( \cos n \theta _ { 2 k - 1 } - \cos n \theta _ { 2 k } ) \sin n \theta \Bigg \}
+$$
+
+假设HSPMSM的反电动势是理想正弦波，即
+
+$$
+e = K \omega _ { 1 } \cos { ( \omega _ { 1 } t - \alpha ) }
+$$
+
+式中， $K$ 为反电动势常数； $\omega _ { 1 }$ 为基波角频率； $\alpha$ 为功角。将式（13）和式（14）代入到电压公式
+
+$$
+u = R i + \omega L { \frac { \mathrm { d } i } { \mathrm { d } \theta } } + e 
+$$
+
+式中， $\omega = \mathrm { d } \theta / \mathrm { d } t$ 为瞬时角速度，可以得到HSPMSM电枢电流 $i$ 的傅里叶级数表达式，即
+
+$$
+i ( \theta ) = \sum _ { n = 1 } ^ { \infty } ( E _ { n } \cos n \theta + F _ { n } \sin n \theta )
+$$
+
+式中， $E _ { n }$ ， $F _ { n }$ 分别纹波电流傅里叶级数系数，即
+
+$$
+\left\{ \begin{array} { l } { \displaystyle E _ { n } = \frac { R ( A _ { n } - C _ { n } ) - n \omega _ { 1 } L ( B _ { n } - D _ { n } ) } { R ^ { 2 } + ( n \omega _ { 1 } L ) ^ { 2 } } } \\ { \displaystyle F _ { n } = \frac { R ( B _ { n } - D _ { n } ) + n \omega _ { 1 } L ( A _ { n } - C _ { n } ) } { R ^ { 2 } + ( n \omega _ { 1 } L ) ^ { 2 } } } \end{array} \right.
+$$
+
+式中， $\textstyle { \mathcal { A } } _ { n }$ ， $B _ { n }$ 、 $C _ { n }$ ， $D _ { n }$ 分别为
+
+$$
+\left\{ \begin{array} { l l } { \displaystyle { { \mathcal A } _ { n } = \frac { U _ { + } } { n \pi } \sum _ { k = 1 } ^ { N } \sin \theta _ { 2 k } - \sin n \theta _ { 2 k - 1 } ) } } \\ { \displaystyle B _ { n } = \frac { U _ { + } } { n \pi } \sum _ { k = 1 } ^ { N } ( \cos n \theta _ { 2 k - 1 } - \cos n \theta _ { 2 k } ) } \\ { \displaystyle C _ { 1 } = K \omega _ { 1 } \cos \alpha } \\ { \displaystyle D _ { 1 } = K \omega _ { 1 } \cos \alpha } \\ { \displaystyle C _ { n } = 0 \quad ( n \neq 1 ) } \\ { \displaystyle D _ { n } = 0 \quad ( n \neq 1 ) } \end{array} \right.
+$$
+
+根据式（19）可以得到HSPMSM电枢电流各次谐波幅值 $I _ { n }$ ，即
+
+$$
+I _ { n } = { \sqrt { E _ { n } ^ { 2 } + F _ { n } ^ { 2 } } }
+$$
+
+图8为HSPMSM纹波电流图，HSPMSM参数 为：相电阻 $R = 6 6 \mathrm { m } \Omega$ ，相电感 $\it { L } = 0 . 3 2 \mathrm { m H }$ ，磁链 $\lambda _ { \mathrm { f } } =$ $5 2 \mathrm { m W b }$ ，频率 $f { } = 5 3 3 . 3 3 \mathrm { H z }$ ，负载 $T = 1 0 \mathrm { { N } \cdot \mathrm { { m } } }$ ，直流 母线电压 $U _ { \mathrm { d } } = 5 4 0 \mathrm { V }$ ，采样周期为 $1 2 5 \mu \mathrm { s }$ ，载波比 $N _ { \mathrm { c } } =$ 15。图9是纹波电流谐波频谱计算结果，纹波电流 谐波成分聚集在整数倍的载波比附近。
+
+![](images/d52077d2f17dac00a21171ff131ba9d48c146087de2f70a7417071ec8e0b8cb9.jpg)  
+图8纹波电流i波形 Fig.8Ripple current wave
+
+# 3.2纹波电流的量化与计算
+
+在高速永磁同步电机系统中，由于电机电感值较小，驱动器载波比较低，电枢电流纹波较大，通常用电流谐波总畸变率 $\eta$ 表示纹波的大小，即
+
+![](images/2ea1f7d8b83ffe45f3ca048388ddb358158c9374c1fc4263d1bff0cc19b632a5.jpg)  
+图9纹波电流的谐波频谱
+
+$$
+\eta = \sqrt { \sum _ { 2 } ^ { \infty } I _ { n } } \left/ I _ { 1 } \times 1 0 0 \% \right.
+$$
+
+电流总畸变率可以概括地反映电流的纹波大小，不能反映各整数倍载波比周围谐波对纹波大小的贡献，为了量化各整数倍载波比周围谐波在电流纹波中所占的比重，首先对电流谐波按照载波比倍次区域进行归类划分，将谐波次数处于区间[2, $0 . 5 N _ { \mathrm { c } } ]$ 定义为0次谐波群， $[ 0 . 5 N _ { \mathrm { c } } , 1 . 5 N _ { \mathrm { c } } ]$ 、 $[ 1 . 5 N _ { \mathrm { c } } , 2 . 5 N _ { \mathrm { c } } ]$ ，$[ 2 . 5 N _ { \mathrm { c } } , 3 . 5 N _ { \mathrm { c } } ]$ 等依次定义为1次谐波群、2次谐波群、3次谐波群等，具体划分如图10所示， $k$ 次谐波群畸变率 $\boldsymbol { \eta } _ { \boldsymbol { k } }$ 定义为
+
+$$
+\eta _ { k } = \sqrt { \sum _ { n = \mathrm { m a x } \left\{ 2 , \left( k - 0 . 5 \right) N _ { \mathrm { c } } \right\} } ^ { \left( k + 0 . 5 \right) N _ { \mathrm { c } } } I _ { n } } \sqrt { I _ { \mathrm { l } } \times 1 0 0 \% }
+$$
+
+式（23）谐波群畸变率 $\boldsymbol { \eta } _ { \boldsymbol { k } }$ 是对式（22）总畸变率 $\eta$ 有效的补充，利于更细致、更深入地全面地定量研究谐波注入PWM对纹波电流纹波影响规律。
+
+![](images/d96533d92e2500e824e15e88e07fcc5e9febd6d8b8c98c89e1968cc904be2d9f.jpg)  
+图10 电流谐波群  
+Fig.10Current harmonic groups
+
+# 3.3单自由度谐波注入PWM纹波电流抑制结果
+
+本着由浅入深、由简入繁的原则，先研究计算只注入3次谐波或9次谐波时PWM对电枢电流纹波抑制效果，图11a给出了注入的3次谐波幅值 $H _ { 3 }$ 对HSPMSM电流总畸变率 $\eta$ 和各次谐波群畸变率$\boldsymbol { \eta } _ { \boldsymbol { k } }$ 的影响规律曲线，从图中可以看出，随着3次谐波幅值 $H _ { 3 }$ 的增加，电枢电流总畸变率先减小后增加，当 $H _ { 3 } = 0 . 2 5$ 时，电枢电流畸变率有最小值，这说明合理的3次谐波注入可以减小电枢电流纹波。从各次谐波群畸变率随3次谐波幅值变化关系可以看出，3次谐波主要是通过降低一倍载波比谐波群畸变率，来减小电枢电流纹波的。
+
+图11b给出了注入的9次谐波幅值 $H _ { 9 }$ 对电枢电流总畸变率 $\eta$ 和各次谐波群畸变率 $\boldsymbol { \eta } _ { \boldsymbol { k } }$ 的影响规律曲线，从图中可以看出，HSPMSM电流畸变率 $\eta$ 和各次谐波群畸变率 $\boldsymbol { \eta } _ { \boldsymbol { k } }$ 均随9次谐波幅值单调变化，其中0次、1次谐波群畸变率单调递增，而2次、3次谐波群畸变率单调递增减。单纯的9次谐波可以抑制高次谐波，但会引入低次谐波。
+
+![](images/69ef4ba3c9ba44c9abdd6d3a27d355f08daadc75369b50a74166be9ca685818a.jpg)  
+Fig.9Harmonic spectrum of ripple current wave   
+图11单自由度谐波注入PWM电流纹波抑制结果 Fig.11Influence of single degree freedom harmonic injection PWM on current distortion factor
+
+# 3.4双自由度谐波注入PWM纹波电流抑制结果
+
+本节计算研究同时注入3次谐波和9次时PWM对电枢电流纹波抑制效果，图12绘制了电流总畸变率 $\eta$ 和各次谐波群畸变率 $\boldsymbol { \eta } _ { \boldsymbol { k } }$ 随3次谐波幅值 $H _ { 3 }$ 和9次谐波幅值 $H _ { 9 }$ 变化而变化空间曲面，图12a为电流总畸变率 $\eta$ ，当 $H _ { 3 } = 0 . 2 5$ ， $H _ { 9 } = 0$ 时，电枢电流的纹波最小，从这个意义上讲，SVPWM波并不是最最佳抑制纹波电流的PWM调制方式，需要通过谐波注入PWM才能实现HSPMSM纹波电流最佳抑制效果。
+
+从图 $1 2  { \mathrm { b } } \sim$ 图12e可以看出，注入3次和9次谐波将使0次谐波群畸变率增大，而1次、2次和3次谐波群呈现比较复杂的变化规律，其中3次谐波群变化不明显，通过合理设置注入3次谐波和9次谐波，可以降低1次和2次谐波群幅值，提高3次谐波群幅值，这有利于降低高速永磁同步电机系统滤波电抗器容量，达到理想的纹波电流抑制效果。
+
+![](images/6818929bc8b67f4db95062b8313bc94017063c4c8ff78c2eda15d748196327ff.jpg)
+
+![](images/fdd19ca3a679bc7efc03fa4a9d3a2a2fdb5352c7be519a47a2d244f8b40967f3.jpg)  
+图12双自由度谐波注入PWM抑制结果 Fig.12Influence of double degree freedom harmonic injection PWM on current distortion factor
+
+# 4 实验结果
+
+为验证谐波注入PWM在HSPMSM纹波电流抑制方面的可行性与实用性，对自制HSPMSM系统进行了实验，实验平台如图13所示，控制系统采用 $i _ { \mathrm { d } } = 0$ 的转子磁场定向矢量控制方式和谐波注入PWM调制方式，死区时间设置为 $2 \mu \mathrm { s }$ 。
+
+![](images/0befbba11bdb8337600552a3a4356891a1239cfc8b299cf93170181372274337.jpg)  
+图13实验平台  
+Fig.13The measurement platform
+
+首先对HSPMSM样机的反电动势测试，采用对托的方式，样机被可调速原动机调至稳速状态，使用泰克示波器测取样机三相反电动势波形，图14是三相反电动势实测结果，从图中可以看出样机反电动势正弦度较好，这表明式（4）关于HSPMSM反电动势作的理想正弦函数的假设是合理的。
+
+![](images/a1db72be876b173b7c706667ea0d17301c66a151bf32cb690e0f1d9de4b26b89.jpg)  
+图14实测反电动势波形
+
+Fig.14The measured back EMF waveform
+
+图15是采用未加谐波注入PWM调制控制方式时，即SPWM注入的3次谐波幅值 $H _ { 3 } = 0$ 、9次谐波幅值 $H _ { 9 } = 0$ ，HSPMSM样机某一相实测电流波形,SPWM可以看作是谐波。图15a和图15b分别给出了时间刻度为 $2 . 5 0 ~ \mathrm { m s / d i v }$ 和时间刻度为 $2 5 0 ~ \mathrm { \textmu s } / \mathrm { d i v }$ 的示波器采集到的电流波形，与计算波形吻合，纹波电流较大。
+
+![](images/86d804bf6194b8dd2384f2ef8b06dd306ac624e1d842b5f10d948cc02f711d97.jpg)  
+图15SPWM的电流实验结果  
+Fig.15The measured current with SPWM
+
+图16对纹波电流计算结果和实测结果的谐波频谱进行了比较，主要谐波集中分布在整数倍载波比附近，说明引入谐波群描述HSPMSM纹波电流的合理性是合理的，较好频谱吻合度证明了本文关于纹波电流谐波计算方法是可行的。
+
+![](images/c22042a20832de9d119c6b7300b007890ae53617e3aeb9ed4d5d869207247909.jpg)  
+图16SPWM的仿真和实测电流谐波频谱 Fig.16Current harmonic spectrum of calculation and measurement resultswith SPWM
+
+图17是采用谐波注入PWM调制控制方式时，HSPMSM样机某一相实测电流波形，注入的3次谐波幅值 $H _ { 3 } = 0 . 2$ 、9次谐波幅值 $H _ { 9 } = 0 . 0 2$ ，根据式（5）可知，这种谐波注入PWM可以看作是SVPWM，实测结果表明，SVPWM比SPWM在纹波电流抑制方面有优势。
+
+![](images/aee901b0b10617352e20cc84e34af16c20628ed7ebc0ed8d9d7a769e4a06170a.jpg)  
+图17SVPWM的电流实验结果  
+Fig.17The measured current with SVPWM
+
+图18是采用谐波注入PWM调制控制方式时，HSPMSM样机某一相实测电流波形，注入的3次谐波幅值 $H _ { 3 } = 0 . 2 5$ 、9次谐波幅值 $H _ { 9 } = 0 . 0$ ，这种谐波注入PWM可以看作是SVPWM，实测结果谐波注入PWM比SVPWM在纹波电流抑制方面有优势。因此，在SPWM、SVPWM和谐波注入PWM三种调制方式中，谐波注入PWM是最佳抑制纹波电流的方式。
+
+![](images/c99edcaa2ee6dd9a5d23ec738b91ebb3b516e218ac6a55ef2190a5aae4767281.jpg)  
+图18谐波注入PWM的电流实验结果  
+Fig.18The measured current with harmonic injection PWM
+
+# 5 结论
+
+针对基于PWM逆变器供电的HSPMSM调速系统电枢纹波电流较大的问题，提出一种谐波注入的PWM方法，通过适当注入3次谐波和9次谐波，抑制SPWM两电平逆变器供电高速永磁电机电枢的谐波电流。所述方法在两电平SPWM的HSPMSM控制系统中有广泛的应用前景和工程价值，对比实验结果证明了其可行性与实用性。研究表明，谐波注入PWM可以显著降低HSPMSM的纹波电流,抑制效果优于SPWM和SVPWM。
+
+# 参考文献
+
+[1] 王继强，王凤翔，鲍文博，等．高速永磁电机转 子设计与强度分析[J]．中国电机工程学报，2005, 25(15): 140-145. Wang Jiqiang,Wang Fengxiang,Bao Wenbo,et al. Rotor design and strength analysis of high speed permanent magnet machine[J].Proceedings of the CSEE,2005,25(15): 140-145.   
+[2] 王凤翔．高速电机的设计特点及相关技术研究[J]. 沈阳工业大学学报，2006，28(3)：258-264. Wang Fengxiang. Study on design feature and related technology of high speed electrical machines[J]. Journal of Shenyang University of Technology,2006, 28(3): 258-264.   
+[3] Kolondzovski Z,Arkkio A,Larjola J, etal.Power limits of high-speed permanent-magnet electrical machines for compressor applications[J]. IEEE Transactions on Energy Conversion, 2011,26(1): 73-82.   
+[4] 于吉坤，李立毅，杜鹏程，等．高速永磁同步电 机电枢电流谐波分析[J]．电机与控制学报，2016, 20(5): 28-36. Yu Jikun,Li Liyi,Du Pengcheng,et al. Harmonic analysis of armature current for high speed permanent magnet synchronous motor[J]. Electric Machines and Control,2016,20(5): 28-36.   
+[5] 周京华，吴理心，章小卫，等．多电平逆变器多 载波调制策略的谐波分析[J]．电机与控制学报, 2011，15(5)：63-71. Zhou Jinghua, Wu Lixin, Zhang Xiaowei,et al. Harmonic analysis of multi-level inverter multicarrier modulation strategy[J]. Electric Machines and Control, 2011, 15(5): 63-71.   
+[6] 周明磊，游小杰，王琛琛，等．电流谐波最小 PWM 开关角的计算及谐波特性分析[J]．中国电 机工程学报，2014，34(15)：2362-2370. Zhou Minglei, You Xiaojie, Wang Chenchen, et al. Switching angle calculation and harmonic analysis of current harmonic minimum PWM[J]. Proceedings of the CSEE,2014,34(15): 2362-2370.   
+[7]Kanchan R S, Baiju M R,Mohapatra K K,et al. Space vector PWM signal generation for multilevel inverters using only the sampled amplitudes of reference phase voltages[J]. IEE Proceedings of Electric Power Applications, 2005,152(2): 297-309.   
+[8] Hava A, Cetin N. A generalized scalar PWM approach with easy implementation features for three-phase threewire voltage-source inverters[J]. IEEE Transactions on Power Electronics,2011, 24(5): 1385-1395.   
+[9] Bierhoff M, Fuchs F. DC-link harmonics of threephase voltage-source converters influenced by the pulse width modulation strategy-an analysis[J]. IEEE Transactions on Industrial Electronics, 20o8, 55(5): 2085-2092.   
+[10]李立毅，于吉坤，曹继伟，等．基于PWM逆变 器供电的永磁同步电机电压和电流的谐波通用型 新算法[J]．中国电机工程学报，2015，35(23)： 6203-6213. Li Liyi, Yu Jikun, Cao Jiwei, et al. A universal and new harmonic algorithm of voltage and current of permanent magnet synchronous motors supplied by PWM inverter[J]. Proceedings of the CSEE,2015, 35(23): 6203-6213.   
+[11] McGrath B P,Holmes D G.An analytical technique for the determination of spectral components of multilevel carrier-based PWM methods[J].IEEE Transactions on Industrial Electronics,20o2,49(4): 847-857.   
+[12] 陈瑶，童亦斌，金新民．基于PWM整流器的 SVPWM谐波分析新算法[J]．中国电机工程学报, 2007，27(13):76-80. Chen Yao,Tong Yibin,Jin Xinmin.A novel algorithm of SVPWM harmonic analysis based on PWM rectifier[J]. Proceedings of the CSEE,2007, 27(13): 76-80.   
+[13] 张立伟，刘钩，温旭辉，等．基于基波电压幅值 线形输出控制的 SVPWM 过调制新算法[J]．中国 电机工程学报，2005，25(19)：12-18. Zhang Liwei, Liu Jun,Wen Xuhui,et al.A novel algorithm of SVPWM inverter in the over modulation region based on fundamental voltage amplitude linear output control[J].Proceedings of the CSEE, 2005,25(19): 12-18.   
+[14] 朱建林，张建华，郭有贵，等．过调制矩阵变换 器的电压传输特性及谐波分析[J]．中国电机工程 学报，2007，27(10)：110-113. Zhu Jianlin, Zhang Jianhua,Guo Yougui,et al. Voltage transfer characteristic and Harmonic analysis of matrix converter under over modulation[J]. Proceedings of the CSEE,2007,27(10):110-113.   
+[15] 徐蕴婕，邱阿瑞，袁新枚，等．舰船交流电力推进 系统PWM方式的比较[J]．电工技术学报，2006, 21(2): 93-96. Xu Yunjie,Qiu Arui, Yuan Xinmei,et al. A comparison of SVPWM and SPWM in AC ship power propulsion systems[J]. Transactions of China Electrotechnical Society, 2006,21(2): 93-96.   
+[16] 邵贺锋，全惠敏．单相系统瞬时谐波及无功电流检 测方法研究[J]．电气应用，2017，36(2)：42-46.   
+[17] Bowes S R, Midoum A. Suboptimal switching strategies for microprocessor controlled PWM inverter drives[J].IEE Proceedings of Electric Power Applications,1985,132(3): 133-148.   
+[18] McGrath B P,Holmes D G.Multicarrier PWM strategies for multilevel inverters[J].IEEE Transactions on Industrial Electronics,2002,49(4): 858-867.   
+[19] Leon JI,Lopez O,Franquelo L G,et al.Multilevel multiphase feedforward space-vector modulation technique[J]. IEEE Transactions on Industrial Electronics,2010,57(6): 2066-2075.

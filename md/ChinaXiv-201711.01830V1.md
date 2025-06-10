@@ -1,0 +1,203 @@
+饲料中添加桑叶黄酮对吉富罗非鱼生长性能、体成分、抗氧化指标及抗亚硝酸盐应激能力的影响
+
+杨继华1,2.3,4 陈冰1.3,4 黄燕华1,3,4 曹俊明1,3,4\* 王国霞1,3.4 孙育平1,3,4 陈晓瑛1,3.4
+
+（1.广东省农业科学院动物科学研究所，广州 510640；2.华南农业大学海洋学院，广州 510642；3.广东省动物育种与营养公共实验室，广州 510640；4.广东省畜禽育种与营养研究重点实验室，广州510640)
+
+摘要：本试验旨在研究饲料中添加桑叶黄酮对吉富罗非鱼（Oreochromis niloticus）幼鱼生长性能、体成分、血清和肝脏抗氧化指标及抗亚硝酸盐应激能力的影响。选取初始体重为（ $1 . 5 1 { \scriptstyle \pm 0 . 0 2 }$ ）g的吉富罗非鱼840尾，随机分为6组，每组4个重复，每个重复35尾鱼。对照组饲喂基础饲料，试验组分别在基础饲料中添加 50、100、300、500 和 $1 ~ 0 0 0 ~ \mathrm { { m g / k g } }$ 的桑叶黄酮。饲养期 $5 6 \mathrm { d }$ 。饲养试验结束后，各组采用亚硝酸钠进行 $^ { 7 2 \mathrm { ~ h ~ } }$ 应激试验。结果表明：1）各组间吉富罗非鱼增重、饲料系数、蛋白质效率均差异不显著（ $\cdot P { > } 0 . 0 5 \$ )。各组间吉富罗非鱼鱼体水分、粗蛋白质、粗脂肪和粗灰分含量均差异不显著（ $P { > } 0 . 0 5$ )。2）试验组血清超氧化歧化酶（SOD）、谷胱甘肽过氧化物酶（GSH-Px)活性和总抗氧化能力（T-AOC）均比高于对照组，其中100、300、500 和 $\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 桑叶黄酮组血清 SOD 活性， $5 0 , \ 5 0 0 , \ 1 \ 0 0 0 \ \mathrm { m g / k g }$ 桑叶黄酮组血清 GSH-Px 活性及100、 $5 0 0 \mathrm { m g / k g }$ 桑叶黄酮组血清 T-AOC 显著高于对照组（ $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ )。与对照组相比，试验组血清丙二醛（MDA）含量均显著降低（ $\cdot P { < } 0 . 0 5 .$ ）。100、300和 $5 0 0 ~ \mathrm { m g / k g }$ 桑叶黄酮组肝脏过氧化氢酶（CAT）、SOD 活性和 T-AOC 显著高于对照组 ( $_ { , P < 0 . 0 5 ) }$ ；肝脏GSH $\mathbf { \cdot P x }$ 活性以 $5 0 0 ~ \mathrm { m g / k g }$ 桑叶黄酮组最高，显著高于 $\boldsymbol { 1 } 0 0 0 \mathrm { m g / k g }$ 桑叶黄酮组 ( $P { < } 0 . 0 5$ )。3）亚硝酸盐氮应激48和 $7 2 \mathrm { { h } }$ ，50、100、 $5 0 0 ~ \mathrm { m g / k g }$ 桑叶黄酮组的累计死亡率显著低于对照组 （ $( P { < } 0 . 0 5 )$ )。由此可见，饲料中添加桑叶黄酮对吉富罗非鱼生长性能没有显著影响，但提高了血清和肝脏抗氧化指标及抗亚硝酸盐应激能力。本试验条件下，通过回归方程分析，以血清 SOD活性、T-AOC 为评价指标，得出吉富罗非鱼幼鱼饲料中桑叶黄酮适宜添加水平为 $1 0 0 \ \mathrm { m g / k g }$ ；以肝脏 SOD 活性、T-AOC 为评价指标，得出吉富罗非鱼幼鱼饲料中桑叶黄酮适宜添加水平为371.00\~441.75 mg/kg。
+
+关键词：桑叶黄酮；吉富罗非鱼；生长性能；抗氧化；亚硝酸盐中图分类号： S963.16 文献标识码： 文章编号：
+
+桑叶在我国种植广泛，其含有多种天然活性物质。黄酮类化合物是桑叶的主要功能性成分之一，占桑叶干质量的 $1 \% { \sim } 3 \% ^ { [ 1 ] }$ ，而黄酮类化合物具有广泛的生理功能，具有抗肿瘤、降压、降血糖、抗氧化、抗衰老等生理功能[2]。一些研究发现，桑叶黄酮化合物能显著清除 1,1-二苯基-2-三硝基苯肼（DPPH）自由基，具有较强的抗氧化作用[3-4]。潘剑用等[5]发现桑叶黄酮对3种氧中心自由基——羟基自由基 $(  { \boldsymbol { \cdot } }  { \mathrm { O H } } )$ 、单线态氧（ ${ } ^ { 1 } \mathrm { O } _ { 2 }$ ）和超氧阴离子自由基（ $\cdot \mathrm { o } ^ { - 2 }$ ·）具有较强的清除活性。桑叶黄酮能提高大鼠体内超氧化物歧化酶（SOD）的活性[6]，也能增强偶氮二异丁胱盐酸盐（AAPH）和铜离子（ ${ \mathrm { C u } } ^ { 2 + }$ ）诱导的氧化应激人肝癌细胞（HepG2 细胞）抗氧化能力[4]。然而，目前关于桑叶黄酮在水产动物中的应用尚未见报道。
+
+罗非鱼是世界上一种重要的养殖鱼类，吉富罗非鱼是遗传性状改良后的尼罗罗非鱼（geneticimprovement offarmed tilapia,Oreochromis niloticus，GIFT)，其生长速度快、出肉率高、遗传性状稳定[7]。随着集约化养殖程度的提高，各种氧化应激因素不断增加，对罗非鱼的生长、抗病等性能产生了严重影响，因而利用天然植物生物活性物质提高鱼体的抗氧化性能，对罗非鱼健康养殖具有重要意义。为此，本试验以吉富罗非鱼为研究对象，在饲料中分别添加不同水平的桑叶黄酮，观察其对吉富罗非鱼生长性能、体成分、血清和肝脏抗氧化指标及抗亚硝酸盐应激能力的影响，以期为桑叶黄酮在罗非鱼饲料中的合理应用提供依据。
+
+# 1材料与方法
+
+# 1.1 试验饲料
+
+桑叶黄酮由广东省农业科学院蚕业与农产品加工所提供（纯度 $7 7 . 9 \%$ )。以鱼粉、豆粕和菜籽粕为蛋白质源，高筋面粉为糖源，豆油和磷脂油为脂肪源配制基础饲料，其组成及营养水平见表1。对照组饲喂基础饲料，试验组分别在基础饲料中添加50、100、300、500 和 $1 0 0 0 \mathrm { m g / k g }$ 的桑叶黄酮。饲料原料经粉碎后过60目筛，微量成分采取逐级扩大法添加，桑叶黄酮先溶于水，然后混入各组饲料中。用混合机混合，混合均匀后，加适量水在搅拌机中搅拌均匀，用 SLX-80型双螺杆挤压机（华"2南理工大学科技实业总厂生产）、G-500 型造粒机（华南理工大学科技实业总厂生产）制成粒径为1.5mm 的颗粒饲料，55℃烘干，自然冷却后放入密封袋中，置于 $- 2 0 \mathrm { { } ^ { \circ } G }$ 水箱中保存备用。
+
+Table 1 Composition and nutrient levels of the basal diet (air-dry basis)   
+
+<html><body><table><tr><td>项目Items</td><td>含量Content</td></tr><tr><td>原料 Ingredients</td><td></td></tr><tr><td>鱼粉 Fish meal</td><td>2.50</td></tr><tr><td>豆粕 Soybean meal</td><td>30.00</td></tr><tr><td>菜籽粕 Rapeseed meal</td><td>14.00</td></tr><tr><td>棉籽粕 Cottonseed meal</td><td>14.00</td></tr><tr><td>磷脂Lecithin</td><td>2.00</td></tr><tr><td>豆油 Soybean oil</td><td>2.00</td></tr><tr><td>高筋面粉 Strong flour</td><td>20.00</td></tr><tr><td>磷酸二氢钙 Ca(HPO4)2</td><td>0.30</td></tr><tr><td>维生素预混料 Vitamin premix1)</td><td>1.53</td></tr><tr><td>矿物质预混料 Mineral premix2)</td><td>0.70</td></tr><tr><td>统糠 Crude rice bran</td><td>11.47</td></tr><tr><td>沸石粉 Zeolite</td><td>1.50</td></tr><tr><td>合计 Total</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels)</td><td></td></tr><tr><td>粗蛋白质 Crude protein</td><td>32.50</td></tr><tr><td>粗脂肪Crude lipid</td><td>5.81</td></tr><tr><td>灰分 Ash</td><td>8.27</td></tr><tr><td>水分 Moisture</td><td>7.70</td></tr></table></body></html>
+
+1每千克维生素预混料含有 One kilogram of multi-vitamin premix contained: VA3 200 000IU,VD31600 00 U,VE $1 6 \mathrm { g }$ ，VK ${ 4 \mathrm { g } }$ ， $\mathrm { V B } _ { 1 } 4 \ \mathrm { g }$ ， $\mathrm { V B } _ { 2 } 8 \ \mathrm { g }$ ， $\mathrm { V B } _ { 6 } 4 . 8 \ \mathrm { g }$ ， $\mathrm { V B } _ { 1 2 } 1 6 \mathrm { m g }$ ，泛酸钙 calcium pantothenate $1 6 \mathrm { g }$ ，叶酸 folic acid 1.28g，生物素 biotin $6 4 ~ \mathrm { m g }$ ，烟酸 nicotinic acid $2 8 \mathrm { g }$ ，肌醇inositol $4 0 \mathrm { g }$ ，水分moisture $\leqslant 1 0 \%$ 。
+
+2每千克矿物质预混料含有 One kilogram of mineral premix contained: $\mathbf { M g } 9 \mathbf { g }$ ， $\textrm { K } 3 6 \textrm { g }$ ，Met-Cu, $ { 1 . 5 \mathrm { g } }$ ，Fe10g， $Z n \ 8 \ { \mathrm { g } }$ ，Ca $2 3 0 \ \mathrm { g }$ ， $\mathrm { C o } 2 5 0 \mathrm { m g }$ ， $\mathrm { M n } \ 1 . 9 \mathrm { g }$ ， $\mathrm { ~ I ~ } 3 2 \mathrm { ~ m g ~ }$ ，Se $5 0 ~ \mathrm { m g }$ ，水分moisture $\leqslant 1 0 \%$ 。
+
+3）营养水平为实测值。Nutrient levels were measured values.
+
+# 1.2试验鱼和养殖管理
+
+吉富罗非鱼由广东罗非鱼良种场提供。驯养2周，期间投喂基础饲料。饲养试验在广东省农业科学院动物科学研究所水产研究室室内循环水养殖系统中进行。系统由24个玻璃纤维桶和2个过滤池等部分组成,纤维桶容积均为350L（直径 $9 0 ~ \mathrm { c m } ^ { 3 } ,$ 高 $8 0 ~ \mathrm { c m }$ ，水体容积 $3 0 0 \mathrm { L } \dot { } .$ ),进水速率为 $1 . 5 \mathrm { L } / \mathrm { m i n }$ 过滤池中铺有珊瑚石和活性炭。试验开始时，选取健康、活泼、初始体重为（ $1 . 5 1 \pm 0 . 0 2$ ） $\mathbf { g }$ 的吉富罗非鱼840尾，随机分为6组，每组4个重复，每个重复35尾鱼。每天分别在08:30和18:00 投喂2次，饱食投喂。养殖水源为经沙滤、消毒后的自来水，水温 $2 5 { \sim } 3 1 ~ \mathrm { \textdegree C } _ { \circ }$ 养殖过程中不断充氧曝气，溶氧 ${ \scriptstyle > } 7 . 0 \ \mathrm { m g / L }$ ， $\mathrm { p H } 7 . 5 \sim 8 . 0$ ，氨氮 ${ \leqslant } 0 . 1 0 \ \mathrm { m g / L }$ ，亚硝酸盐 ${ \leqslant } 0 . 0 1 ~ \mathrm { m g / L }$ 。饲养期 $5 6 \mathrm { d } .$ 9
+
+# 1.3样本采集
+
+养殖试验结束后，鱼体饥饿 $2 4 \mathrm { ~ h ~ }$ ，称终末体重，统计存活率。每个重复随机取5尾鱼，测定体长与体重，计算肥满度。每个重复随机取3尾鱼，用于测定全鱼体成分。随机从每个重复取10尾鱼尾部静脉采血， $4 \mathrm { { ^ \circ C } }$ 静置 $^ { 2 \mathrm { ~ h ~ } }$ ， $3 ~ 0 0 0 ~ \mathrm { r / m i n }$ 离心 $1 0 ~ \mathrm { { m i n } }$ ，取上层血清，保存于 $- 2 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 冰箱，用于测定血清抗氧化指标。另外每个重复随机取5尾鱼，分离内脏和肝脏，称重，计算脏体比和肝体比，将肝脏样品保存于 $- 8 0 ~ \mathrm { { ^ circ C } }$ 冰柜中备用。
+
+肝脏上清液制备：称取一定质量的肝脏样品，加9倍体积的 $0 . 8 0 \%$ 预冷生理盐水，在冰水浴中进行匀浆， $3 ~ 0 0 0 ~ \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ ，取上清液，于 ${ } - 2 0 \ { } ^ { \circ } { \mathrm { C } }$ 冰箱保存，用于测定肝脏抗氧化指标。
+
+# 1.4 指标测定
+
+# 1.4.1 生长性能和形态学指标计算
+
+存活率（survival rate，SR， $\%$ ） ${ \bf \Pi } = 1 0 0 \times$ 终末尾数/初始尾数;增重（weight gain，WG, $\mathbf { g } ) = 1 0 0 \times |$ 终末平均体重（g）一初始平均体重（g)]/初始平均体重（g);饲料系数（feed conversion ratio，FCR） $\ c =$ 投饲总量（g）/[终末体重（g）一初始体重（g）];蛋白质效率（protein efficiency rate，PER， $\%$ ） $\scriptstyle = 1 0 0 \times { \big | }$ [终末体重（g）一初始体重（g）][饲料干物质摄入量（g) $\times$ 饲料粗蛋白质含量 $( \% ) ]$ 肥满度（condition factor，CF， $\mathbf { g } / \mathbf { c m } ^ { 3 } ) \mathbf { \tau } = 1 0 0 \times$ 体重（g）/体长（ $\mathrm { c m } ^ { 3 }$ ）脏体比（viscerosomatic index，VSI, $\%$ ） $= 1 0 0 \times$ 内脏重（g）/体重（g);肝体比（hepatosomatic index，HSI， $\%$ ） $= 1 0 0 \times$ 肝脏重（g）/体重（g）。
+
+1.4.2饲料及全鱼常规营养成分含量测定
+
+水分含量采用 $1 0 5 ^ { \circ } \mathrm { C } \mathrm { t }$ 共箱烘干至恒重的方法（GB/T6435-1986）测定，粗蛋白质含量利用半自动凯氏定氮仪采用凯氏定氮法（GB/T 6432-1994）测定，粗脂肪含量采用乙醚抽提的方法（GB/T6433-1994）测定，粗灰分含量采用 $5 5 0 \mathrm { ~ \textdegree C }$ 灼烧至恒重的方法（GB/T6438-1992）测定。
+
+# 1.4.3 抗氧化指标测定
+
+4
+
+血清和肝脏上清液用试剂盒进行抗氧化指标测定，试剂盒均购自南京建成生物工程研究所，具体测定方法参照试剂盒所附说明书。SOD 活性采用羟胺法测定，谷胱甘肽过氧化物酶（GSH-Px）活
+
+性活性采用比色法测定，过氧化氢酶（CAT）活性采用可见光法测定，总抗氧化能力（T-AOC）采用比色法测定，丙二醛（MDA）含量采用2-硫代巴比妥酸（TBA）法测定。
+
+# 1.5 亚硝酸盐应激试验
+
+饲养试验结束后，采用亚硝酸钠进行应激试验，每组4个重复，每个重复10尾鱼。应激期间停止循环水，向水体（体积 $1 0 0 \mathrm { { L } }$ ）中加入亚硝酸钠溶液，亚硝酸盐氮质量浓度达到 $1 6 \mathrm { m g / L }$ 。观察鱼发病和死亡情况，统计死亡尾数，计算24、48 和 $7 2 \mathrm { { h } }$ 内累计死亡率（cumulative mortality rate,CMR):
+
+累计死亡率 $( \% ) = 1 0 0 \times$ 应急结束后死亡鱼尾数/应激鱼尾数。
+
+# 1.6 数据处理
+
+采用 SPSS 20统计软件中单因素方差分析（one-way ANOVA）和Duncan 氏均值多重比较法对试验结果的差异显著性进行分析处理，试验结果采用平均值 $\pm$ 标准差表示， $P { < } 0 . 0 5$ 表示差异显著。
+
+# 2结果
+
+2.1桑叶黄酮对吉富罗非鱼生长性能和饲料利用的影响
+
+由表2可知，各组间吉富罗非鱼的增重差异不显著（ $\scriptstyle P > 0 . 0 5 { \mathrm { : } }$ ，其中 $5 0 0 ~ \mathrm { m g / k g }$ 桑叶黄酮组的增重比对照组升高了 $6 . 9 \%$ 。试验组吉富罗非鱼的饲料系数均低于对照组，但与对照组差异不显著（ $\cdot P { > } 0 . 0 5 )$ )。各组间吉富罗非鱼的蛋白质效率差异不显著（ $\scriptstyle P > 0 . 0 5 { \mathrm { ~ , ~ } }$ 。各组间吉富罗非鱼的肥满度、脏体比差异不显著（ $_ { . P > 0 . 0 5 ) }$ ，而 $\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 桑叶黄酮组的肝体比显著低于对照组（ $_ { . P < 0 . 0 5 ) }$ 。
+
+表2桑叶黄酮对吉富罗非鱼生长性能和饲料利用的影响  
+Table 2Effects of mulberry leaf flavonoids on growth performance and feed utilization of GIFT   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="6">添加水平 Supplemental level/（mg/kg）</td></tr><tr><td>0</td><td>50</td><td>100</td><td>300</td><td>500</td><td>1000</td></tr><tr><td>初始体重 IBW/g</td><td>1.51±0.03</td><td>1.49±0.02</td><td>1.50±0.01</td><td>1.49±0.02</td><td>1.49±0.02</td><td>1.49±0.01</td></tr><tr><td>终末体重 FBW/g</td><td>20.29±0.78</td><td>20.56±1.28</td><td>20.23±0.81</td><td>20.12±1.21</td><td>21.53±1.03</td><td>20.57±0.77</td></tr><tr><td>增重 WG/g</td><td>11.24±0.37</td><td>11.89±0.56</td><td>11.95±0.60</td><td>11.91±0.54</td><td>12.01±0.41</td><td>11.69±0.68</td></tr><tr><td>成活率 SR/%</td><td>91.43±5.72</td><td>93.57±7.52</td><td>95.72±3.69</td><td>95.72±5.47</td><td>90.00±5.47</td><td>92.14±4.29</td></tr><tr><td>肥满度 CF/(g/cm³)</td><td>3.72±0.20</td><td>3.78±0.51</td><td>3.72±0.156</td><td>3.72±0.24</td><td>3.65±0.32</td><td>3.65±0.37</td></tr><tr><td>肝体比 HSI/%</td><td>2.03±0.73a</td><td>1.94±0.40ab</td><td>1.83±0.64ab</td><td>1.82±0.42ab</td><td>1.94±0.52ab</td><td>1.66±0.54b</td></tr><tr><td>脏体比 VSI/%</td><td>11.06±2.33</td><td>10.44±0.84</td><td>11.01±2.33</td><td>10.59±0.93</td><td>10.72±1.30</td><td>10.33±1.00</td></tr><tr><td>饲料系数 FCR</td><td>1.53±0.03</td><td>1.46±0.06</td><td>1.47±0.04</td><td>1.49±0.05</td><td>1.46±0.03</td><td>1.48±0.06</td></tr><tr><td>蛋白质效率 PER%</td><td>202.82±4.15</td><td>213.61±9.14</td><td>211.45±5.75</td><td>208.62±6.65</td><td>212.38±4.46</td><td>209.70±7.97</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著 （ $P { < } 0 . 0 5$ )，相同或无字母表示差异不显著（ $P { > } 0 . 0 5$ )。下表同。 In the same row,values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ .The same as below.
+
+# 2.2 桑叶黄酮对吉富罗非鱼全鱼体成分含量的影响
+
+由表3可知，各组间吉富罗非鱼全鱼的粗蛋白质、粗脂肪、粗灰分和水分含量差异不显著中 $. P { > } 0 . 0 5 )$ ，其中500和 $\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 桑叶黄酮组粗蛋白质含量比对照组分别升高了 $5 . 6 \%$ 和 $7 . 6 \%$ 。
+
+%
+
+表3桑叶黄酮对吉富罗非鱼全鱼体成分含量的影响 (湿重基础)  
+Table3Effects of mulberry leaf flavonoids on body composition of GIFT(wet weight basis)   
+表4桑叶黄酮对吉富罗非鱼血清抗氧化指标的影响 6 Table 4Effects of mulberry leaf flavonoids on serum antioxidant indices of GIFT   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="6">添加水平 Supplemental level/（mg/kg）</td></tr><tr><td>0</td><td>50</td><td>100</td><td>300</td><td>500</td><td>1000</td></tr><tr><td>粗蛋白质 Crude protein</td><td>14.68±0.22</td><td>15.11±0.26</td><td>14.87±0.27</td><td>14.80±0.20</td><td>15.50±0.15</td><td>15.79±0.18</td></tr><tr><td>粗脂肪 Crude lipid</td><td>7.31±0.35</td><td>7.02±0.48</td><td>7.37±0.32</td><td>7.10±0.17</td><td>7.31±0.20</td><td>7.25±0.28</td></tr><tr><td>粗灰分 Ash</td><td>2.86±0.04</td><td>2.85±0.06</td><td>2.91±0.03</td><td>2.92±0.09</td><td>2.94±0.09</td><td>3.01±0.04</td></tr><tr><td>水分 Moisture</td><td>74.63±0.47</td><td>74.37±0.42</td><td>74.06±0.37</td><td>73.98±0.29</td><td>74.75±0.50</td><td>73.65±0.41</td></tr></table></body></html>
+
+2.3桑叶黄酮对吉富罗非鱼血清和肝脏抗氧化指标的影响
+
+由表4可知，各组间吉富罗非鱼血清CAT 活性差异不显著（ $P { > } 0 . 0 5 )$ 。试验组吉富罗非鱼血清GSH-Px 活性均高于照组高， $\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 桑叶黄酮组血清GSH $\mathbf { \cdot P x }$ 活性显著高于其他各组！ $( P { < } 0 . 0 5 )$ ，$5 0 , 5 0 0 \mathrm { m g / k g }$ 桑叶黄酮组血清 GSH-Px 活性显著高于对照组( $\scriptstyle \cdot - 0 . 0 5$ ）。100、300、500和 $\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 桑叶黄酮组吉富罗非鱼血清 SOD 活性显著高于对照组（ $P { < } 0 . 0 5 )$ ，其中 $3 0 0 ~ \mathrm { { m g / k g } }$ 桑叶黄酮组最高。试验组吉富罗非鱼血清 T-AOC 均高于对照组，其中 100 和 $5 0 0 \ \mathrm { m g / k g }$ 桑叶黄酮组显著高于对照组（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ )。各组吉富罗非鱼血清MDA含量随着桑叶黄酮添加水平的增加呈先降低后升高的趋势，与对照组相比，试验组血清MDA含量均显著降低（ $P { < } 0 . 0 5 )$ 。
+
+根据折线模型，经线性回归分析桑叶黄酮添加水平 $( Y )$ 与血清 SOD 活性、T-AOC 之间的关系，以血清 SOD 活性（ $. X )$ 为评价指标，获得折线方程 $Y { = } 4 1 . 3 1 { - } 0 . 0 4 3 ( 1 0 0 . 0 0 { - } X )$ ? $R ^ { 2 } { = } 0 . 7 3 5 ~ 2 ^ { \circ }$ ，得出吉富罗非鱼饲料中桑叶黄酮适宜添加水平为 $1 0 0 . 0 0 \mathrm { m g / k g }$ ；以血清T-AOC $( \boldsymbol { X } )$ 为评价指标，作回归直线可到方程 $Y = 0 . 0 1 1 ~ 7 X + 8 . 3 5 5 ~ 0$ 0 $R ^ { 2 } { = } 0 . 7 3 5 2 \mathrm { \Omega }$ , $Y { = - 0 . 0 0 0 8 X + 9 . 4 3 1 4 }$ 0 $R ^ { 2 } { = } 0 . 9 8 9 4 \AA$ )，通过折线法求得吉富罗非鱼饲料中桑叶黄酮适宜添加水平为 $9 8 . 7 5 ~ \mathrm { m g / k g }$ 0
+
+<html><body><table><tr><td>Items</td><td>0</td><td>50</td><td>100</td><td>300</td><td>500</td><td>1000</td></tr><tr><td>超氧化歧化酶 SOD/(U/mL) 谷胱甘肽过氧化 物酶</td><td>35.41±0.73a</td><td>37.55±0.55ab</td><td>43.06±1.48c</td><td>43.11±0.43c</td><td>39.38±0.77b</td><td>40.02±0.90b</td></tr><tr><td>GSH-Px/(U/mL) 过氧化氢酶</td><td>358.76±6.05a</td><td>481.42±10.27b</td><td>376.17±8.26a</td><td>374.41±8.81a</td><td>459.75±37.18b</td><td>599.04±40.40c</td></tr><tr><td>CAT/(U/mL) 总抗氧化能力</td><td>5.72±0.14</td><td>6.61±0.49</td><td>5.50±0.30</td><td>5.58±0.53</td><td>5.51±0.56</td><td>5.50±0.19</td></tr><tr><td>T-AOC/(U/mL) 丙二醛</td><td>8.39±0.06a</td><td>8.87±0.15ab</td><td>9.56±0.23c</td><td>8.92±0.15ab</td><td>9.05±0.19b</td><td>8.70±0.18ab</td></tr><tr><td>MDA/(nmol/mL)</td><td>6.66±0.18d</td><td>5.78±0.09℃</td><td>5.22±0.07b</td><td>3.93±0.08a</td><td>3.80±0.13a</td><td>4.92±0.14b</td></tr></table></body></html>
+
+由表5可知，100、300、500和 $1 0 0 0 \mathrm { \ m g / k g }$ 桑叶黄酮组吉富罗非鱼肝脏CAT 活性显著高于对照组（ $P { < } 0 . 0 5 )$ ，其中 $5 0 0 ~ \mathrm { m g / k g }$ 桑叶黄酮组最高。吉富罗非鱼肝脏GSH $\mathbf { \nabla \cdot P x }$ 活性以 $5 0 0 ~ \mathrm { m g / k g }$ 桑叶黄酮组最高，显著高于 $\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 桑叶黄酮组 ( $\scriptstyle . { P < 0 . 0 5 } )$ ，与其他各组差异不显著（ $_ { . P > 0 . 0 5 ) }$ 。吉富罗非鱼肝脏 SOD 活性、T-AOC 随着桑叶黄酮添加水平的增加呈先升高后降低的趋势，100、300 和$5 0 0 \ \mathrm { m g / k g }$ 桑叶黄酮组肝脏 SOD 活性和T-AOC 较对照组均显著升高（ $\cdot P { < } 0 . 0 5 )$ 。各组间吉富罗非鱼肝脏MDA含量差异不显著（ $_ { . P > 0 . 0 5 ) }$ 。
+
+采用抛物线模型拟合回归方程分析桑叶黄酮添加量 $( Y )$ 与肝脏 SOD、T-AOC 之间的关系，以肝脏SOD 活性 $( X )$ 为评价指标，得到方程 $Y { = } { - } 0 . 0 0 0 3 X ^ { 2 } { + } 0 . 2 2 2 6 X { + } 1 6 8 . 4 2 3 4$ 0 $R ^ { 2 } { = } 0 . 9 5 3 ~ 5 \ '$ ，得出吉富罗非鱼饲料中桑叶黄酮适宜添加水平为 $3 7 1 . 0 0 ~ \mathrm { m g / k g }$ ；以肝脏T-AOC（ $\mathbf { \nabla } \cdot X )$ 为评价指标，得到方程 $Y { = } { - } 0 . 0 0 0$ （204号002X²+0.001 $7 6 7 X + 0 . 3 6 6$ 188( $R ^ { 2 } { = } 0 . 9 5 2 \ 6 \$ ，得出吉富罗非鱼饲料中桑叶黄酮适宜添加水平为441.75mg/kg。
+
+表5桑叶黄酮对吉富罗非鱼肝脏抗氧化指标的影响  
+Table 5Effects of mulberry leaf flavonoids on liver antioxidant indices of GIFT   
+
+<html><body><table><tr><td rowspan="2">项目</td><td colspan="6">添加水平 Supplemental level/（mg/kg）</td></tr><tr><td>0</td><td>50</td><td>100</td><td>300</td><td>500</td><td>1000</td></tr><tr><td>超氧化歧化酶 SOD/(U/mg prot) 谷胱甘肽过氧化物 酶</td><td>173.70±1.22b</td><td>173.29±1.36b</td><td>192.76±2.63c</td><td>197.22±0.79</td><td>224.02±3.70d</td><td>122.32±2.07a</td></tr><tr><td>GSH-Px/(U/mg prot) 过氧化氢酶</td><td>12.06±1.03b</td><td>13.05±0.08b</td><td>13.39±0.14b</td><td>12.64±0.14b</td><td>13.48±0.14b</td><td>9.46±0.11a</td></tr><tr><td>CAT/(U/mg prot) 总抗氧化能力</td><td>44.77±2.96a</td><td>39.80±0.30a</td><td>54.55±2.39b</td><td>54.49±1.06b</td><td>63.86±0.94c</td><td>59.06±1.35bc</td></tr><tr><td>T-AOC/(U/mg prot) 丙二醛</td><td>0.37±0.01a</td><td>0.45±0.01b</td><td>0.55±0.01b</td><td>0.68±0.02c</td><td>0.90±0.01d</td><td>0.52±0.01b</td></tr><tr><td>MDA/(nmol/mg prot)</td><td>1.01±0.07</td><td>1.05±0.21</td><td>1.26±0.09</td><td>1.48±0.74</td><td>1.38±0.02</td><td>1.22±0.23</td></tr></table></body></html>
+
+# 2.4桑叶黄酮对吉富罗非鱼抗亚硝酸盐应激能力的影响
+
+亚硝酸盐应激24、48和 $^ { 7 2 \mathrm { ~ h ~ } }$ 内各组吉富罗非鱼的累积死亡率如表6所示。 $2 4 \mathrm { ~ h ~ }$ 时，各组间累计死亡率差异不显著（ $\scriptstyle \cdot { \cal P } > 0 . 0 5 .$ ，其中对照组最高为 $2 2 . 7 \%$ ，试验组在 $7 . 5 \% { \sim } 1 7 . 7 \%$ 之间。 $^ { 4 8 \mathrm { ~ h ~ } }$ 时，对照组累计死亡率为 $41 . 3 \%$ ，显著高于50、100、 $5 0 0 ~ \mathrm { m g / k g }$ 桑叶黄酮组 ( $\cdot P { < } 0 . 0 5 \$ ，而且该3组的累计死亡率均在 $20 \%$ 左右，与 $2 4 \mathrm { h }$ 对照组的数据相当。 $7 2 \mathrm { { h } }$ 时，试验组累计死亡率均低于对照组，其中 50、100、 $5 0 0 ~ \mathrm { m g / k g }$ 桑叶黄酮组显著低于对照组（ $\cdot P { < } 0 . 0 5 )$ ）°
+
+表6桑叶黄酮对吉富罗非鱼抗亚硝酸盐应激能力的影响  
+Table 6Effects of mulberry leaf flavonoids on resistance to nitrite exposure of GIFT   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="6">添加水平 Supplemental level/（mg/kg）</td></tr><tr><td>0</td><td>50</td><td>100</td><td>300</td><td>500</td><td>1000</td></tr><tr><td>应激鱼尾数</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Stressed fish No. 24h 累计死亡率</td><td>10</td><td>10</td><td>10</td><td>10</td><td>10</td><td>10</td></tr><tr><td>Cumulative mortality rate at 24 h/% 48 h累计死亡率/%</td><td>22.7±5.2</td><td>7.5±9.6</td><td>7.5±5.0</td><td>15.2±13.1</td><td>7.5±5.0</td><td>17.7±12.8</td></tr><tr><td>Cumulative mortality rate at 48 h/%</td><td>41.3±9.0a</td><td>20.2±8.4b</td><td>20.2±8.4b</td><td>30.9±19.3ab</td><td>20.2±8.4b</td><td>30.7±14.7ab</td></tr><tr><td>72 h 累计死亡率/% Cumulative mortality rate at 72 h/%</td><td>59.2±20.1a</td><td>30.8±17.3b</td><td>30.7±14.7b</td><td>38.8±16.8ab</td><td>28.1±15.6b</td><td>33.7±18.0ab</td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1桑叶黄酮对吉富罗非鱼生长性能和饲料利用的影响
+
+目前，桑叶资源在水产动物中的应用主要是作为饲料原料替代鱼粉。一些研究发现，桑叶替代饲料中部分鱼粉不降低消化率，反而能提高鱼类的特定生长率，这表明桑叶中含有一些能促进鱼类生长的活性成分[8-9]。而黄酮类化合物是桑叶中含量非常丰富的活性成分。曲培滨[1]研究发现，桑叶黄酮能显著提高断奶犊牛的体长指数和增重。一些天然黄酮类化合物也能影响动物生长，槲皮素类似物二氢杨梅素以 $2 ~ 4 0 0 ~ \mathrm { m g / k g }$ 水平添加到饲料中能显著提高罗非鱼的增重率和特定生长率[],槐属植物黄酮以 $2 0 0 ~ \mathrm { m g / k g }$ 水平添加到饲料中也能显著提高罗非鱼增重率[12]。Shin 等[13]研究发现，饲料中添加 $0 . 5 \%$ 槲皮素能显著提高牙鲆（Paralichthys olivaceus）的增重率。本试验中，饲料中添加桑叶黄酮对吉富罗非鱼增重和饲料系数均无显著影响，表明一定添加水平的桑叶黄酮不影响吉富罗非鱼的生长性能。本试验结果与上述报道不一致，这可能与本试验中吉富罗非鱼生长性能受存活率不一致的影响有关，也可能是因为桑叶黄酮并不具备促进吉富罗非生长的作用。目前黄酮类化合物对动物的生长作用并没有统一的结论。在绵羊[14]、崇仁麻鸡[15]的研究中发现，饲粮中添加苜蓿黄酮对生8  
+长性能没有显著影响。赵伟等[1]研究表明，沙棘叶黄酮对肉鸡的平均日增重和料重比的影响不显著。大豆黄酮能显著促进罗非鱼[17]、鲤鱼(Cyprinus carpio)生长[18]，其原理是大豆黄酮属于异黄酮类植物
+
+雌激素，能促进垂体生长激素（GH）的生成和释放[17]。桑叶黄酮类化合物中目前并没有发现异黄酮类植物激素，这说明桑叶黄酮和大豆黄酮促进动物生长的作用机制可能不一样。营养物质的代谢是影响动物生长的重要因素，桑叶黄酮可以提高断奶前犊牛饲粮代谢能和氮的生物学价值，提高断奶后犊牛总能代谢率和氮的利用率[19]。推测这是桑叶黄酮能提高罗非鱼生长的原因之一。目前相关研究较少，关于桑叶黄酮促进罗非鱼生长的机理还有待进一步研究。
+
+本研究中，饲料添加桑叶黄酮对吉富罗非鱼肥满度、脏体比没有显著影响， $\boldsymbol { 1 } 0 0 0 \mathrm { m g / k g }$ 桑叶黄酮组肝体比显著低于其他组，这与槐属植物黄酮可以显著提高罗非鱼肥满度的发现[12]并不一致。这些差异可能与黄酮的来源、动物的生长阶段有关。也有研究表明，饲料中添加大豆黄酮对大菱鲆（Scophthalmus maximus）的肝体比、肥满度、脏体比无显著影响[20-21]，添加芒果叶黄酮对鲤鱼肥满度、肝胰指数和脏体比无显著影响[22]。
+
+# 3.2 桑叶黄酮对吉富罗非鱼全鱼体成分含量的影响
+
+本试验发现，饲料中添加桑叶黄酮对吉富罗非鱼全鱼粗脂肪、粗蛋白质、粗灰分、水分含量没有产生显著影响，但一定程度提高了粗蛋白质含量。黄酮类物质对动物体成分的影响作用并不完全一致。大豆黄酮显著降低了大菱鲆幼鱼鱼体的粗脂肪和粗蛋白质含量[20-21]。而在美洲鳗（Anguilarostrata）研究中发现，向饲料中添加的大豆黄素对鱼体成分没有显著影响[23]。槲皮素能降低高血脂大鼠体内脂肪的累积[24]。沙棘叶黄酮可以提高肉鸡肌肉脂肪含量[1]。这可能是由于动物的种类、生长阶段、黄酮类化合物的来源及添加水平的不同等所导致的。
+
+3.3桑叶黄酮对吉富罗非鱼血清和肝脏抗氧化能力的影响
+
+动物机体会因细胞活动和各种应激产生许多自由基，过多的氧自由基会破坏细胞膜的完整性，进而对生物体造成一种氧化胁迫状态。当氧化胁迫超出了生物体抗氧化防御系统的保护能力的时候，就会引起组织和细胞氧化损伤[25-26]。活性氧（ROS）是细胞信号传导、基因表达、细胞增殖调控的胞内信使，而过多的活性氧也会导致氧化应激，引起组织细胞内脂质过氧化[27-28]。广泛存在于各种组织细胞中 SOD，可催化氧自由基形成过氧化氢（ $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ )。而 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 在CAT、GSH $\mathbf { \nabla \cdot P x }$ 的作用下分解为 $\mathrm { H } _ { 2 } \mathrm { O }$ ，从而达到消除自由基的作用。GSH-Px中的巯基也能与活性氧结合，抑制脂质过氧化物的生成[29]。MDA 是脂质过氧化产物，可导致生物膜结构和功能异常，其含量既可以衡量机体的抗氧化状态又间接反映细胞损伤水平。本试验中， $1 0 0 , \ 3 0 0 , \ 5 0 0$ 和 $\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 桑叶黄酮组吉富罗非鱼血清 SOD 活性高于对照组，100、300 和 $5 0 0 ~ \mathrm { m g / k g }$ 桑叶黄酮组肝脏 SOD 活性和 T-AOC 均高于对照组，表明桑叶黄酮具有提高清除罗非鱼体内过多活性氧的作用，这也可以从相应添加组鱼体内 MDA 含量的降低得到进一步证实。通过回归方程分析，以血清 SOD 活性、T-AOC 为评价指标得出吉富罗非鱼幼鱼饲料中桑叶黄酮适宜添加水平为 $1 0 0 \mathrm { m g / k g }$ ，以肝脏 SOD 活性、T-AOC 为评价指标得出吉富罗非鱼幼鱼饲料中桑叶黄酮适宜添加水平为 $3 7 1 . 0 0 { \sim } 4 4 1 . 7 5 ~ \mathrm { m g / k g }$ 。有研究报道，对四氧嘧啶糖尿病小鼠模型灌胃桑叶黄酮能提高肝脏 SOD 活性，降低血清 MDA 含量[6.30]。体外细胞试验发现，桑叶水提物中的黄酮类化合物槲皮素能增强 AAPH 和 $\mathrm { C u } ^ { 2 + }$ 诱导的氧化应激 HepG2细胞抗氧化能力[4],从桑叶甲醇提取物中分离出的3种黄酮（槲皮素、山奈酚、芸香苷）对 AAPH 诱导人红细胞氧化溶解的抑制呈时效和量效关系，其中芸香苷能显著降低人红细胞中谷胱甘肽的损耗[31]。由此可知，桑叶黄酮不仅依赖自身具有还原活性的羟基参与机体中自由基的清除，而且还能通过调节机体中抗氧化酶的活性起到抗氧化作用。在关于黄酮类化合物的作用机制研究中发现，槲皮素能使转录因子DAF-16转移到细胞核中，进而通过信号通路对线虫（Caenorhabditis elegans）的氧化应激、衰老等进行调控[32]。可以推测桑叶黄酮有可能通过影响吉富罗非鱼的相关信号通路，调节机体抗氧化能力，但尚需要更深入的研究。
+
+# 3.4桑叶黄酮对吉富罗非鱼抗亚硝酸盐应激能力的影响
+
+亚硝酸盐是造成鱼类氧化应激的一种常见应激因子，其毒害作用主要表现为影响鱼类的正常呼吸和代谢以及对鱼体生理指标和组织器官造成严重影响[33]。目前，关于桑叶黄酮对鱼类抗亚硝酸盐应激的影响还未见报道。在本试验结果中，亚硝酸盐应激后24、48 和 $^ { 7 2 \mathrm { ~ h ~ } }$ 时，饲料添加桑叶黄酮各组吉富罗非鱼的死亡率均低于对照组，其中 50、100、 $5 0 0 ~ \mathrm { m g / k g }$ 桑叶黄酮组在后2个时间点分别显著降低；进一步分析可以发现，当累计死亡率达到 $20 \%$ 左右时，对照组出现在 $2 4 \mathrm { ~ h ~ }$ ，而试验组则延迟到48h。这说明，桑叶黄酮能够提高吉富罗非鱼幼鱼抗亚硝酸盐的应激能力，不仅能够降低高浓度亚硝酸盐应激后一定时间内吉富罗非鱼的死亡率，而且能够延缓吉富罗非鱼发生死亡的时间。桑叶黄酮能降低亚硝酸盐应激下罗非鱼的死亡率作用机理可能是：亚硝酸盐会导致血细胞活性氧含量过度上升[34]，而桑叶黄酮能够清除活性氧[4]；桑叶黄酮利用自身具有还原活性的羟基清除机体的自由基，以及通过调节机体中抗氧化酶的活性清除机体的自由基。
+
+# 4结论
+
+$\textcircled{1}$ 饲料中添加桑叶黄酮对吉富罗非鱼生长性能没有显著影响，但提高吉富罗非鱼血清和肝脏抗氧化指标及抗亚硝酸盐应激能力。
+
+$\textcircled{2}$ 本试验条件下，通过回归方程分析，以血清 SOD活性、T-AOC 为评价指标得出吉富罗非鱼幼鱼饲料中桑叶黄酮适宜添加水平为 $1 0 0 ~ \mathrm { { m g / k g } }$ ，以肝脏 SOD 活性、T-AOC 力为评价指标得出其适宜添加水平为 $3 7 1 . 0 0 { \sim } 4 4 1 . 7 5 \mathrm { m g / k g } \circ$ （20
+
+参考文献:   
+[1]廖森泰,肖更生.桑树活性物质研究[M].北京:中国农业科学技术出版社,2012:13.   
+[2]朱丹,袁芳,孟坤,等.黄酮类化合物的研究进展[J].中华中医药杂志,2007,22(6):387-389.   
+[3] KIM S Y,GAO J J,LEE W C,et al.Antioxidative flavonoids from the leaves of Morus alba[J].Archives of Pharmacal Research,1999,22(1):81-85.   
+[4]KIM G N,JANG H D.Flavonol content in the water extract of the mulberry (Morus alba L.) leaf and their antioxidant capacities[J].Journal of Food Science,2011,76(6):C869-C873.   
+[5]潘剑用,汪志平,党江波,等.夏桑叶的体外抗氧化活性及其主要功能成分研究[J].核农学 报,2011,25(4):754-759.   
+[6]李向荣,方晓,俞灵莺.桑叶黄酮抗氧化及抑制蛋白糖基化作用[J].浙江大学学报:农业与生命科学 版,2005,31(2):203-206.   
+[7]DEY M M,GUPTA M V.Socioeconomics of disseminating genetically improved Nile tilapia in Asia:an introduction[J].Aquaculture Economics & Management,20oo,4(4):5-11.   
+[8]MONDAL K,KAVIRAJ A,MUKHOPADHYAY P K.Efects of partial replacement of fishmeal in the diet by mulberry leaf meal on growth performance and digestive enzyme activities of Indian minor carp Labeo bata[J].International Journal of Aquatic Science,2012,3(1):72-83.   
+[9]KAVIRAJ A,MONDAL K,MUKHOPADHYAY P K,et al.Impact of fermented mulberry leaf and fish offal in diet formulation of Indian major carp (Labeo rohita)[J].Proceedings of the Zoological Society,2013,66(1):64-73.   
+[10]曲培滨.桑叶黄酮和热带假丝酵母对犊牛生长性能、屠宰性能、肉品质及血清指标的影响[D] 硕士学位论文.邯郸:河北工程大学,2015.   
+[11]蔡英华,舒绪刚,张磊.二氢杨梅素对罗非鱼生长、免疫和抗氧化机能的影响[J].广东饲 料,2010,19(12):19-21.   
+[12]刘淑兰.不同水平槐属植物黄酮对罗非鱼生长及肝胰脏抗氧化能力的影响[D].硕士学位论文.厦 门:集美大学,2012.
+
+[13]SHIN H S,YOO J H,MIN T S,et al.Effect of quercetin on the activity and mRNA expression of antioxidant enzymes and physiological responses in olive flounder (Paralichthys olivaceus) Exposed to cadmium[J].Asian-Australasian Journal of Animal Sciences,2010,23(6):742-749.
+
+[14]王梦竹,刘艳丰,王文奇,等.苜蓿黄酮对绵羊生长性能和血清指标的影响[J].中国畜牧兽医,2015,42(9):2345-2351.  
+[15]欧阳克蕙,熊小文,王文君,等.苜蓿黄酮对崇仁麻鸡生长性能及肌肉化学成分的影响[J].草业学报,2013,22(4):340-345.  
+[16]赵伟,陈鑫,刘红南,等.沙棘叶黄酮对肉鸡生长性能及胴体品质的影响[J].动物营养学报,2012,24(1):117-123.  
+[17]余祖功,夏德全,吴婷婷.大豆黄酮对奥利亚罗非鱼生长及相关激素水平、血液生化指标的影响[J].中国兽医学报,2006,26(2):183-185.  
+[18]徐增洪.大豆黄酮在水产养殖中的应用研究[J].淡水渔业,2005,35(6):41-43.  
+[19]杨春涛,刁其玉,曲培滨,等.热带假丝酵母菌与桑叶黄酮对犊牛营养物质代谢和瘤胃发酵的影响[J].动物营养学报,2016,28(1):224-234.  
+[20]郭海燕,张彦娇,麦康森,等.染料木黄酮对大菱鲆生长、消化酶活力和肠道组织结构的影响[J].中国海洋大学学报:自然科学版,2014,40(9):30-36.  
+[21]胡海滨,刘金桃,李彦先,等.饲料中大豆黄酮对大菱鲆生长、消化酶活力、抗氧化力及肠道结构的影响[J].水产学报,2014,38(9):1503-1513.  
+[22]吕小文,郝倩,陈业渊,等.饲料添加芒果叶黄酮浸膏促进鱼类生长[J].农业工程学报,2013,29(18):277-283.  
+[23]叶继丹,陈学豪.大豆黄素对美洲鳗生长及肝、肠组织中几种代谢酶活性的影响[J].集美大学学报:自然版,2008,13(1):1-6.  
+[24]周玉生,阳学风.槲皮素对大鼠酒精性脂肪肝的治疗作用[J].中国处方药,2005(10):80-81.  
+[25]RITOLA O,LYYTIKAINEN T,PYLKKO P,et al.Glutathione-dependent defence system andmonooxygenase enzyme activitiesin Arctic charr Salvelinusalpinus(L.） exposed to  
+[26]BHOR V M,RAGHURAM N,SIVAKAMI S.Oxidative damage and altered antioxidant enzymeactivities in the small intestine of streptozotocin-induced diabetic rats[J].The International Journal of
+
+Biochemistry & Cell Biology,2004,36(1):89-97.
+
+[27]SOHN JH,HAN K L,LEE S H,et al.Protective effects of panduratin A against oxidative damage of tert-butylhydroperoxide in human HepG2 cells[J].Biological and Pharmaceutical Bulletin,2005,28(12):1083-1086.
+
+[28]李建喜,杨志强,王学智.活性氧自由基在动物机体内的生物学作用[J].动物医学进展,2006,27(10):33-36.
+
+[29] 李勇,孔令青,高洪,等.自由基与疾病研究进展[J].动物医学进展,2008,29(4):85-88. [30] HONG H C,LI S L,ZHANG X Q,et al.Flavonoids with $\mathfrak { a }$ -glucosidase inhibitory activities and their contents in the leaves of Morus atropurpurea[J].Chinese Medicine,2013,8:19.
+
+[31]CHOI J,KANG HJ,KIMS Z,et al.Antioxidant effect of astragalin isolated from the leaves of Morus alba L.against free radical-induced oxidative hemolysis of human red blood cels[J].Archives of Pharmacal Research,2013,36(7):912-917.
+
+[32]KAMPKOTTER A,TIMPEL C,ZURAWSKI R F,et al.Increase of stress resistance and lifespan of Caenorhabditiselegans by quercetin[J].ComparativeBiochemistry andPhysiology,Part B:Biochemistry and Molecular Biology,2008,149(2):314-323.
+
+[33] 李波.氨氮和亚硝酸盐对黄颡鱼的毒性研究[D].硕士学位论文.武汉:华中农业大学,2010.
+
+[34]XIAN J A,WANG A L,CHEN X D,et al.Cytotoxicity of nitrite on haemocytes of the tiger shrimp,Penaeus monodon,using flow cytometric analysis [J].Aquaculture,2011,317:240-244.
+
+Effects of Dietary Mulberry Leaf Flavonoids on Growth Performance,Body Composition, Antioxidant Indices and Resistance to Nitrite Exposure of Genetic Improvement of Farmed Tilapia（Oreochromis niloticus)
+
+YANG Jihua1,2.3,4 CHEN Bing1,3,4 HUANG Yanhua1,3.4 CAO Junming1,3,4\* WANG Guoxia1,3,4 SUN Yuping' 1,3,4 CHEN Xiaoying1,3.4
+
+(1. Institute of Animal Science, Guangdong Academy of Agricultural Sciences, Guangzhou 510640, China; 2. College of Marine Science, South china Agricultural University, Guangzhou 510642, China; 3.
+
+Guangdong Public Laboratory of Animal Breeding and Nutrition, Guangzhou 510640, China; 4.
+
+Guangdong Key Laboratory of Animal Breeding and Nutrition, Guangzhou 510640, China) Abstract: This experiment was conducted to investigate the effects of dietary mulberry leaf flavonoids (MLF) on growth performance, body composition, serum and liver antioxidant indices and resistance to nitrite exposure of juvenile genetic improvement of farmed tilapia (Oreochromis niloticus, GIFT).A total of 840 fish with an initial body weight of( $1 . 5 1 { \scriptstyle \pm 0 . 0 2 }$ ）g were randomly divided into 6 groups with 4 replicates per group and 35 fish per replicate.Fish in the control group were fed a basal diet,and the others in the experimental groups were fed basal diets supplemented with 50,100,300, 500 and $\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ MLF, respectively. The feeding trial lasted for 56 days.After the feeding trial,sodium nitrite was used to conduct a nitrite exposure trial in each group for $^ { 7 2 \mathrm { ~ h ~ } }$ . The results showed as follows: 1) there were no significant differences on the weight gain (WG),feed conversion ratio (FCR) and protein efficiency rate (PER) of GIFT among all groups. $( P { > } 0 . 0 5 )$ . There were no significant differences on the crude protein, crude lipid, ash and moisture contents of GIFT whole body among all groups( $( P { > } 0 . 0 5 )$ ). 2）The serum superoxide dismutase (SOD)， glutathione peroxidase (GSH- $\mathbf { \partial } \cdot \mathrm { P x }$ ）activities and total antioxidant （T-AOC） in experimental groups were higher than in control group. The serum SOD activities in 100,300, 500,and 1 $0 0 0 ~ \mathrm { { m g / k g } }$ MLF groups were significantly higher than those in control group $( P { < } 0 . 0 5 )$ , the serum GSH-Px activities in 50,500 and $\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ MLF groups were significantly higher than those in control group （204号 $( P { < } 0 . 0 5 )$ , the serum T-AOC in 100 and $5 0 0 ~ \mathrm { m g / k g }$ MLF groups were significantly higher than those in control group $( P { < } 0 . 0 5 )$ . Compared with the control group, the serum malondialdehyde (MDA) contents in experimental groups were significantly decreased $( P { < } 0 . 0 5 )$ . The liver SOD,catalase(CAT) activities and T-AOC in 100,300 and $5 0 0 ~ \mathrm { m g / k g }$ MLF groups were significantly higher than those in control group （204号 $( P { < } 0 . 0 5 )$ . The highest value of liver SOD activity was observed in $5 0 0 \mathrm { m g / k g }$ MLF group, and significantly higher than that in $\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ MLF group $\scriptstyle \overbrace { P { < } 0 . 0 5 } \$ ). 3) After 48 and $^ { 7 2 \mathrm { ~ h ~ } }$ nitrite exposure, the cumulative mortality rates in 50,100 and $5 0 0 ~ \mathrm { m g / k g }$ MLF groups were significant lower than those in control group （204号 $( P { < } 0 . 0 5 )$ . In conclusion, dietary MLF do not significantly affect the growth performance, but improve the serum and liver antioxidant indices and resistance tq nitrite exposure of GIFT. Under the experimental conditions,by analysis of the regression equation,the optimal supplemental level of MLF in the diet of juvenile GIFT is $1 0 0 ~ \mathrm { { m g / k g } }$ basis of SOD activity and T-AOC in serum; the optimal supplemental level of MLF in the diet of juvenile GIFT is 371.00 to $4 4 1 . 7 5 \mathrm { m g / k g }$ basis of SOD activity and T-AOC in liver. Key words: mulberry leaf flavonoids; Oreochromis niloticus; growth performance; antioxidant; nitrite

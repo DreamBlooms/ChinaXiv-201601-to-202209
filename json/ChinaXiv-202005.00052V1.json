@@ -1,0 +1,476 @@
+[
+    {
+        "type": "text",
+        "text": "组织中权力如何促进亲社会行为？责任感知的中介作用1",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李 馨¹刘 培¹肖晨洁¹王笑天²李爱梅¹（1暨南大学管理学院，广州 510632）（广东财经大学工商管理学院，广州 510320）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 如何善用权力惠及于民既是一个重要的科学问题，也是一个关键的管理实践问题。以往学者主要关注组织情境中权力对亲社会行为的消极作用，对积极作用的发生机制尚不清楚。梳理组织中权力正向影响亲社会行为的相关文献，发现责任感知在权力促进亲社会行为中起中介作用；掌权者在行使权力时会考虑自身需求、与他人的关系，以及与组织的关系，从而增强责任感知，且不同路径会受个体层面、人际层面和组织层面的潜在因素影响。权力通过责任感知促进亲社会行为的综合模型，对组织以及掌权者如何善用权力具有重要的启示意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词权力；责任感知；权力维持需求；依赖感知；组织认同；亲社会行为",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1组织中权力的概念",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "权力起源于社会关系，是人类判断和感知人际关系的重要维度，也是其行为的基本驱动力（Scholl& Sassenberg,2015；肖丽，梁晓雅，陆雄文,2012)。在组织管理情境中，对个体而言，权力是一种关键资源，拥有权力意味着享有更好的组织保障，以及更便捷高效的工作条件；于组织而言，权力有助于维护公共利益与秩序，维系甚至强化组织成员之间的合作，促进组织目标的实现（Anderson&Brion,2014;Maner&Mead,2010)。正确地认识权力的影响，合理地运用权力对个体、组织的持续健康发展至关重要。因此，组织中权力的影响一直是社会学、政治学、管理学和心理学等众多学科重点关注的领域。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "自学界对组织情境中的权力展开研究以来，权力的内涵大多与产生预期结果的能力联系在一起（Guinote,2007)，但发展至今学者们仍没有对权力的概念进行统一。权力一词由拉丁语单词\"potere\"演变而来，意为具备能力。随着研究的不断深入，组织中的权力通常被认为是个体即便在遇到阻碍的情况下也能实现自己意愿的概率（Weber,1915/1947)，对有价值资源的不对称控制（Maner,Gailliot,Menzel,& Kunstman,2012)，对他人思想、行为、甚至地位的影响力（Tost,2015)，或者通过他人实现自我目标的能力（Sturm&Antonakis,2015）等。通过解读这些不同的定义可以发现，“控制\"是研究者界定权力的核心（Zhong,Magee,Maddux,& Galinsky,2006)。在其他条件等同的情况下，如果一个人掌握更多有价值的资源（物质上的资源如食物、金钱，精神上的资源如情感)，那么他对拥有较少资源个体的依赖性就会更小，对他人的控制力会更强，拥有的权力越大。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "可见，权力本身是中性的，其产生的影响效应取决于掌权者如何行使。在组织情境中，与低权力个体相比，高权力个体握有更多的高价值资源，能在一定程度上影响与控制他人，权力的合理利用能使组织高效地整合资源，良好地协调各职能部门与员工的工作，实现长远发展；而权力的滥用则会降低资源使用效率，甚至导致掌权者个人利益和目标凌驾于组织之上，使组织逐渐走向衰败。因此，如何善用权力惠及于民既是一个重要的科学问题，也是一个关键的管理实践问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2组织中权力研究的理论与观点",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关于组织情境中的权力研究，学者们主要从四个视角进行理论构建：基于生物学视角，接近/抑制理论提出权力产生双刃效应源于激活的神经生物系统不同；基于人与环境互动视角，情境聚焦理论认为权力会影响个体对环境的关注方式以及行为表现；基于人际动力学视角，社会距离理论提出了产生权力效应的两种机制；基于权力解读视角，学者认为对权力内涵的解读会影响掌权者的行为。下文对不同视角的理论与观点进行逐一介绍。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "权力的接近/抑制理论(Approach/Inhibition Theory of Power)从生物学视角出发，通过个体的神经生物系统来解释权力对情绪、认知和行为的影响。Keltner 等人（2003）认为当权力增强时，行为接近系统（Behavioral Approach System,BAS）被激活，个体会提高对奖励和回报的敏感性，体验更多的积极情感，并从利于自身利益的视角考虑问题，采用自动化的社会认知理解事情。当权力削弱时，行为抑制系统（Behavioral Inhibition SystemBIS）被激活，个体会更多关注威胁、惩罚和不确定性，体验消极情绪，采用受控的社会认知看待事物，并做出更多抑制行为。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "权力的情境聚焦理论(Situated Focus Theory of Power)将环境因素纳入其中，从人与环境互动的视角探析权力的影响。Guinote（2007）认为行为是人与环境相互作用的结果，解释权力效应不能仅从心理表征出发，还应关注个体所处的情境信息，因此提出了权力的情境聚焦理论。该理论提出权力影响个体的关注焦点，进而影响其对当下情境的反应方式。具体来说，拥有权力能够促使个体集中注意力，仅关注与情境相关的信息，对同时涌现的事物划分优先级，即专注于实现最终目标，并且能够根据不同环境调整策略，提高处理的灵活性；但缺乏权力会使个体疲于处理环境中的各种信息，灵活性差，从而导致注意力分散，处事效率低下。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "权力的社会距离理论(SocialDistance Theory ofPower)基于人际动力学视角，提出了权力效应的人际机制和认知机制。Magee等人（2013）认为人际机制是指个体间的不对称依赖使他们感知到不同的社会距离，一般说来高权力个体因缺乏与低权力个体社交的动力，会体验到更大的社会距离，很少关注他人，且观念与行为等不易受到影响。低权力个体倾向与高权力个体产生联系，因此会体验到较低的社会距离，移情能力较强。认知机制指感知到不同社会距离的个体，会采用不同层次的解释水平去理解事物。高权力个体往往采用更高层次、更抽象的识解水平，因此会表现出与价值观或者目标相一致的行为，拥有较强的自我控制能力，寻求更重要而非更直接的奖励。低权力个体采用低层次、较具体的识解水平，关注短期目标，行为更容易受到影响而发生变化。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "除了上述理论外，有学者从权力解读的视角去理解权力带来的双刃效应。在组织情境中，当个体将权力解读为责任时，他的决策与行为重心会偏向共同利益，做出更多集体导向行为；但当个体将权力感知为机会时，他会视权力为追逐个人利益的助跳板，倾向于按照自己的兴趣和目标改变当下处境，做出个人导向行为（De Wit et al.,2017; Sassenberg,Ellemers,& Scheepers,2012;Tost,2015)。权力被解读为机会或责任所带来的后果截然不同，那么个体为何会对权力产生不同的解读呢？学者们提出不同的观点：Tost（2015）认为是权力认知网络影响个体对权力的解读方式。日常生活中人们会对不同的概念进行联想，这些联想被储存在记忆中，久而久之形成认知网络，并且在无意识的情况下对人们的行为产生影响。举个例子，如果一个人接触的多是掌权者认真履行职责的案例，那么他的认知网络中“权力”就会与“责任”产生强烈的联系，在行事时也会不自觉做出利于集体的举动。De Wit 等人（2017）认为权力的感知受情境因素影响，事实上个体可能同时拥有两种权力解读，但当下的情境会导致其中一种解读占据上风，从而主导掌权者的行为。他们要求一组被试回想将权力解读为责任的事件，如考虑下属利益；另一组被试回想将权力解读为机会的事件，如实现个人目标。结果显示，当个体被引导将权力解读为责任时，其倾向于采纳他人（包括下属和专家）的建议。Chen 等人（2001）则表示关系取向会影响个体对权力的感知，拥有交换取向的掌权者会将权力解读为机会，表现出更多自私自利的行为；而拥有公共取向的掌权者会将权力解读为责任，重视团队成员的利益诉求，表现出更多的他人导向行为。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上所述，接近/抑制理论从生物学视角出发，强调权力多寡会激活不同的神经生物系统，从而导致不同行为；情境聚焦理论将情境因素纳入其中，从人与环境互动的视角探析权力效应；社会距离理论从人际动力学视角出发，关注高、低权力个体在社会距离感知和解释层次上的差异；权力解读视角则认为将权力感知为机会或责任会造成不同的行为后果。权力研究的主流理论或观点均没有断言权力必定会带来单一的正面或负面影响，它们最大的共同点是认为高权力个体受限较少，行为更具有目标导向性，掌权者会通过一定的路径实现目标，而这些路径既可能是正面行为，也可能是负面行为。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于前三种视角构建的理论假定权力影响的差异主要存在于“个体间”层面，掌权多寡会导致高、低权力个体出现差异行为。换言之，即便是在不同情境下，高权力个体也存在相对稳定、区别于低权力个体的行为模式。而权力解读视角认为权力影响的差异存在于“个体内”层面，即高权力个体在不同情境下，会对权力产生不同的感知与解读，进而产生相应的行为。该视角既反映了个体的主观能动性，也回到权力内涵本身，体现了权力与行为之间更直接、密切的联结关系，有助于更好地揭示和整合权力的双刃效应。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3组织中权力促进亲社会行为的内在机制：责任感知的中介作用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1权力对亲社会行为的积极效应",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "亲社会行为指个体愿意付出时间、能量和资源等，主动实施对他人、团体和社会有益的行为，是组织公民行为的一种具体形式（Schroeder&Graziano,2015)。在组织中践行亲社会行为，不仅能够改善员工的工作态度，提高工作绩效，还能促进组织创新、提升组织有效性（Henttonen,Kianto,&Ritala,2016；彭小平，田喜洲，郭小东,2019)。高权力个体在组织中掌握较为丰富的有价值资源，有较强的亲社会行为践行能力。因此，其是否会利用权力履行亲社会行为，对同事、团队乃至整个组织均具有重要的意义。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "然而，过往相关研究却并未就“组织中权力如何影响亲社会行为”的问题给出一致的答案。早期研究发现权力会对亲社会行为产生消极影响。此阶段研究的结论可简要概括为“权力导致腐败，绝对的权力导致绝对的腐败”（Acton&Himmelfarb,1948)。具体而言，研究发现权力会对个体的认知和行为产生影响，如使人们关注自身的利益与立场(Galinsky,Magee,Gruenfeld,Whitson,&Liljenquist,20o8)，物化他人以及将权力视为达成自身目的的工具（Gruenfeld, Inesi,Magee&Galinsky,2008)，较少与他人分享有效信息（Maner et al,2012)，以及更可能对同事和下属进行不恰当的挑逗行为（Kunstman&Maner,2011)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "随着研究的逐步深入，另有研究者发现权力也会对亲社会行为产生积极影响。有研究表明，权力可以激发或者加强个体利他性特质的表达。如可强化个体的亲社会倾向，使善良的人表现得更加友善，无私的人不受约束地追求他们无私的目标（Cotéetal.,2011）。如果个体拥有以他人为中心的人际关系取向，那么权力越高，其人际关系敏感度越高（SchmidMast,Jonas,&Hall,2009)，越倾向于做出亲社会行为（Chen et al.,2001)。还有研究发现，在某些特定的群体特征下，该群体的掌权者会更多地运用权力做出亲社会行为。如当所处群体具有合作氛围时，高权力个体会努力确保团队取得积极的成果（Maner etal.,2010），运用专业知识帮助下属，重视他人的建议（DeWit etal.,2017)，公平谨慎地对待他人（DeCremer& Van Dijk,2008;Overbeck& Park,2001),甚至原谅他人对自己的侮辱（Karremans& Smith,2010)。当所处群体面对外界竞争时，高权力个体不仅会提高维护群体稳定与促进其发展的动机（Postmes &Jetten,2006)，还会增加群体目标导向行为（Maner&Mead,2010)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "权力是伴生于组织架构的一种客观存在，对维护个体与组织的共同利益，促进个体之间协同合作，实现组织目标有着意义非凡的作用。同时，权力本身亦是一把双刃剑，如何感知、行使权力会产生截然不同的影响。因此，相较于探索权力的消极影响以防止权力滥用，揭示权力的积极影响以引导掌权者合理利用权力显然更具现实价值意义。如Pless(2007)提出采用积极的方法研究权力的正面案例对企业领导学习如何承担职责有更大的参考意义。韦庆旺（2015）也认为权力大的人有很好的个人潜力，如果他们在人际交往中能够为他人考虑，将为集体做出更大的贡献。因此本文聚焦组织中权力对亲社会行为的积极效应，通过对以往相关研究的系统梳理，旨在找出权力正向影响亲社会行为的内在机制及影响因素，从而引导个体正确看待权力的内涵与意义，把握好用权尺度，利用自身丰富的价值资源更多地践行亲社会行为，实现组织利益最大化。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2权力增强责任感知的不同路径",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "责任感知是一种以益于他人方式行事的义务感，它包含对组织福祉和他人结果的关注（Handgraaf,Dijk,Vermunt,Wilke,&Dreu,2008; Tost,2015)。已有研究证实责任感知是权力促进亲社会行为不可缺少的一环：当高权力个体为了维护自己在组织中的权力（Hershcovis,Neville,Reich,Christie,Cortina,& Shan,2017)，意识到被他人依赖或者双方相互依赖(Tost &Johnson,2019),对所处群体拥有组织认同时（Scholl,Sassenberg,Ellemers,",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Scheepers,&DeWit,2018)，会对他人产生责任感知。掌权者将组织中的权力感知为责任时，会倾向于关注集体利益，抑制追求个人利益，并更多表现出亲社会行为（DeWit et al,2017; Sassenberg et al.,2012; Tost,2015)。因此，本文从权力解读的视角出发，关注责任感知在权力正向影响亲社会行为中的作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "权力并非是独立于社会关系之外的个体属性或倾向，它具有社会性和情境性，探讨他人在场的情况下权力如何激发责任感知具有更重要的理论意义和实践价值（韦庆旺，俞国良,2009)。下文依据掌权者在行使权力时考虑的对象分层展开论述，从掌权者自身、掌权者与他人，以及掌权者与组织三个层面出发，分层论述权力增强个体责任感知的三条作用路径 (本文模型参见图1)。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9cce0c41d329de049f77af1627affc21dc87505430da6515d6a6f74e7baaffb7.jpg",
+        "img_caption": [
+            "图1权力通过责任感知促进亲社会行为的概念框架"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.1掌权者自身：权力维持需求的作用",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "高权力个体存在损失厌恶倾向（Williams,2014)，与低权力个体相比，他们更有可能追求维护权力的目标（Willis＆Guinote,2011)。任何一个组织都不可避免存在等级，一方面，组织等级必然造成权力不均衡的局面，另一方面，掌握不同程度权力的个体会因争夺权力或维持权力做出导向行为。Sapolsky（2005)提出在包括人类在内的许多物种群体中，当组织内部等级制度不稳定时，掌权者会经历更大的心理和生理压力，并做出旨在维持等级制度顶层地位的反应。一般来说，高权力个体会通过达成他人对掌权者的角色期待、合法行使权力以稳固当前的组织等级，从而满足维护或增强个人权力的需求。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "人们对处于等级不同位置的个体有不同的角色期待（Keltner,Kleef, Chen,& Kraus,2008)。与处于等级底层的个体相比，位于顶层的个体会被认为具备更强的协调冲突、执行群体规范和公平分配资源的能力（Anicich&Hirsh,2017)，且更应该对群体的结果和目标负责，将目标转化为实际行动（Chen et al.,2001; Zhong et al.,2006)。研究表明团队成员会对做出利他行为的个体表现出更多尊重，并更愿意将其选作团队的领导（谢晓非，王逸璐，顾思义，李蔚,2017)。所以高权力个体为了维护或增强自身的权力，会尽可能满足组织成员的角色期待，谨记肩负的责任，把更多的精力放在组织目标上并为之付出努力。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "合法行使权力也是掌权者维护权力的有效途径。虽然Keltner等人（2003）证实权力会激活个体的接近系统，使高权力个体倾向于关注奖励和回报，做出追逐个人利益的行为，但掌权者若滥用权力，严重损害他人与集体的利益将带来适得其反的结果。在组织当中，高权力个体合法行使权力如考虑他人利益时，低权力个体会服从指令，自觉维护等级制度，并做出合作行为；但高权力个体不合法行使权力如物化他人以实现利己目标时，低权力个体会认为掌权者德不配位、谋取私利，很可能采取冒险的行为来推翻当前的等级制度，改善现状（Lammers, Galinsky, Gordijn,& Ottn,2008; Magee & Galinsky,2008)。因此，为了减少他人对不合法行为的感知，掌权者会以一种强调权力合法性的方式行事，如考虑对他人与组织的责任并做出亲社会行为。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Hershcovis等（2017）通过实证研究发现，掌权者会将组织中的不文明行为识别为对地位和等级的挑战，与其他低权力个体选择回避反应相比，他们更可能对不文明行为做出直接的干预行为，为组织提供社会支持和情感支持。这是因为掌权者为了保住个人等级地位，激发内心责任感知，以一种更有效且最终带来益处的方式行事。Lammers 和他的同事(2008)也通过实验证明，启动个体对权力的不合法感知(如回忆一段不合法的权力经历、阅读与“不合法\"相关的词语)，或者使个体处于非法获取权力的情境中时，被试会做出更少的冒险行为和接近行为以维护自身权力；反之，被试会倾向于做出冒险行为和接近行为获取更大的个人利益。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2.2掌权者与他人：依赖感知的作用",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "权力产生于社会关系，依赖作为控制的对立面，也属于权力领域的一个重要概念（Emerson,1962)。一方面，高权力个体掌握不对称的有价值资源，对他人的结果或命运具有控制权；另一方面，低权力个体缺乏重视的有价值资源，只好依赖高权力个体以达成个人目标，获得利益。在组织当中，上司与下属是最典型的权力-依赖关系，根据依赖程度可以将双方关系界定为两种：对称依赖和不对称依赖。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在对称依赖关系情境中，双方分别掌握对方重视的资源，需要借力彼此才能实现个人目标。如部门中的明星员工，他们能够为组织提供先进理念和高端技术，创造可观的效益价值，上司需要依赖他们来实现绩效目标，因而明星员工与上司可以看作是对称依赖的关系。在这种关系情境中，一方面上司处于高权力等级，另一方面他们必须依靠下属的绩效或者专业知识才能推动工作任务，完成组织目标（Wilson,Sin,&Conlon,2010)。这种相互促进、彼此成就的关系让上司意识到自己不仅拥有控制权和影响力，也必须关注下属的利益需求，对后者履行责任（Handgraaf et al.,2008)，才能协同高效完成工作任务。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "不对称依赖是目前工作环境中上司和下属普遍的关系倾向（Foulk,Lanaj,Tu,Erez,&Archambeau,2018)。如部门中业绩平平的普通员工，知识结构单一，技能水平有限，工作中常常要依赖上司的指点或资源才能推进工作，创造的价值较小，且可替代性强，因此普通员工与上司属于不对称依赖的关系。上司掌握着下属缺乏并重视的资源，对下属的绩效考核、职位晋升和奖金分配等有较大的决定权，下属往往不对称依赖于上司。组织中权力提高个体对机会与利益的察觉之余，还会使其更多考虑依赖于自身的个体的利益，增强对他们的责任感知（Torelli& Shavit,2010; Zhong et al.,2006)。意识到被下属依赖时，上司的满足感与成就感会提高，同时更多将权力解读为责任，不仅会减少追逐个人利益的行为，在做决策时还会愈发谨慎小心，将依赖者的相关利益纳入考虑之中，表现出更多诸如同情、合作和慷慨的行为（Pitesa& Thau,2013）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Handgraaf与他的同事（2008）通过改编的最后通牒游戏和实证研究证实了权力并非总是带来腐败的后果，当高权力个体意识到对方权力极小甚至毫无权力，其命运只能依赖自身的决定时，他不会将对方的存在看作是威胁，认为双方是竞争关系。相反，高权力个体会认为对方处于一种无助的情况，不该被利用或者对付，掌权者的责任感知由此激发，使用亲社会的行为方式分配给对方更多的资源。Howard等人（2007）使用谈判情境进行验证，发现当高权力谈判者意识到自己与对方相互依赖时，会向低权力谈判者支付更多的报酬，提出更为慷慨的解决方案。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2.3掌权者与组织：组织认同的作用",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "权力并非在虚拟环境中诞生，它由组织环境塑造并受各种因素影响而动态变化着（vanDijke,De Cremer,Langendijk,&Anderson,2018)。因此掌权者在行使权力时需考虑自身与组织的关系，这种关系会对个体行为造成影响。组织认同是个体在特定组织中与成员身份相关的自我概念的一部分，是个体对自身与组织之间关系的解读，指的是社会认同（“我们紧密相连并且关心彼此的结果\")，而不是个人认同（“我是一个不同于他人的个体\")，往往通过对组织的承诺、依恋程度和参与程度等体现(Puusa&Tolvanen,2006; Tajfel,1972;Tajfel&Turner,1979;Thomas,Amiot,Louis,&Goddard,2017)。组织认同阐述了个体将组织纳入自我概念的程度，描绘了个体在心理上与组织相联系的紧密性，并能预测个体会在多大程度上从组织的角度出发考虑问题、采取行为。Scholl等人（2018）提出组织认同对塑造权力主体的责任感知发挥关键作用。在工作环境中，高权力个体会依据组织的特征来构建个体身份，自觉强化对组织和其他成员的情感归属，将组织目标等纳入自我概念中，拥有较高的组织认同。在这种情况下，掌权者会暂时搁置个人利益，将组织福祉视为主要焦点，意识到手握权力相对应的责任，并且更有意愿和动机去工作使群体受益（Giessner,van Knippenberg, van Ginkel, & Sleebos, 2013; van Knippenberg, 2000）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "掌权者将自己视作组织的重要组成成员，对团队有组织认同感，由此激发对组织及成员的责任感知，并通过外显的行为来反映或突出自身的组织成员身份。具体来看，掌权者会唤起与组织目标和利益相关的工作动机，从组织的视角出发考虑问题，按照组织的信仰、规范和价值观履行职责，帮助他人，考虑他人的利益，并向外界展示积极的组织形象（VanKnippenberg,2000)。除此之外，外部竞争也会提高掌权者对组织的责任感知，增加亲社会行为。外部竞争会给组织安全和资源管理带来威胁，掌权者清楚自我、他人和组织的命运交相重叠，自己有责任带领团队应对威胁，因而会将团队的利益置于个人利益之上（Maner&Mead,2010)，对自己和组织成员的关系重新审视，将拥有专长的下属视为有价值的盟友而非潜在的敌人，并且增强与组织成员紧密团结和合作的倾向（Hogg,vanKnippenberg,& Rast, 2012）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "有不少实证研究证实了掌权者对所处团队拥有组织认同，会引起责任感知并做出亲社会行为。Scholl等人（2018）在两项研究中发现，无论是让被试回忆曾经体验到的权力经历，还是启动当下的权力感知，当他们强烈认同所属的团队时，掌权者更能认识到权力背后的责任内涵，并对权力滥用表示更强烈的否定态度。同样，Scheepers 等人（2013）启动被试的权力感知，并要求他们在不同的情境下做出决策，实验组在游戏结束后要对团队其他成员（虚拟）进行解释，控制组则不需要。结果表明，因被试对所处的决策团队产生组织认同，其感知到自己有责任提高团队地位，维护团队形象，从而做出更利于团队目标的决策。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3责任感知促进亲社会行为",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "责任感知的存在就像一条社会纽带，从心理和物质上将负责任的一方与另一方紧密联系在一起（Tost etal.,2019)，使负责任一方对自己的决策和行为进行反思。高度的责任感知与强大的权力一旦结合，个体就会萌生出践行亲社会行为的意愿(Hermans et al.,2017)。对于高权力个体而言，当其意识到身上所肩负的责任时，他的行为导向会发生变化，做出更多利于集体和他人发展的亲社会行为，如允许员工在决策中具有发言权，权衡他人如员工、股东的利益（Scholl& Sassenberg,2015)，对需要帮助的人表现出善意（McClelland &Holland,2015)，不遗余力地赞美他人（Handgraaf et al.,2008)，与他人合作，成为利他主义者（Balau&Utz,2016;Howard et al.,2007)，与下属进行建设性的互动，对寻找帮助的请求做出回应（De Wit et al.,2017)，依据群体地位做出相应的决策（Scheepers et al.,2013）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4权力增强责任感知不同路径的调节因素",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.1个体层面：权力动机和自恋人格的影响 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "组织情境中，个体特征会对掌权者的认知与行为造成影响（李爱梅，彭元，李斌，凌文轻,2014; Chen et al.,2001; Overbeck & Park,2001)。其中权力动机（power motive）是众多学者关注的对象，它被定义为一种渴望权力的人格特质，能够促使个体做出影响他人、唤醒他人强烈情感或维护声誉和名望的行为（Suessenbach,Loughnan,Schonbrodt,& Moore,2019)。与低权力动机个体相比，高权力动机个体拥有更强烈的权力维持需求，他们因害怕失去手中掌握的权力，往往通过避免失败事件、负面舆论等途径来维护当前的权力地位（Willis&Guinote,2011)，并且对晋升等增强权力的事件有敏锐的触角，倾向于对他人施加影响以获得心理上的满足（Hermans etal.,2017)。Maner 等人（2007）通过实证研究验证了高权力动机个体存在对权力的损失厌恶倾向，他们为了满足维持权力的需求，会做出保守决策而非风险决策，尤其当等级制度不稳固，权力面临削弱或丧失的风险时，高权力动机个体表现得更为保守，旨在维持自己在组织等级中的权力地位。因此，掌权者拥有越强的权力动机，渴望获得权力与影响他人，越可能产生较强的权力维持需求。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "自恋（narcissism）人格也是影响掌权者权力维持需求的重要因素。自恋是指个体具有膨胀的自我意识，并专注于不断增强自我概念的程度（Campbell,Hoffman,Campbell,&Marchisio,2011)，它往往与虚荣心、自我关注和优越感等概念相关联。学者们发现，一方面，高自恋水平的掌权者对自身持积极评价，认为自己是最独特的，在知识、能力和经验等方面远远胜于他人，理应占据主导地位并做出最佳决策（Chatterjee＆Hambrick,2007;Liu,Xiao,He,Wang,&Li,in press)；另一方面，高自恋水平的掌权者十分渴望得到外界的认可，获取他人持续的关注与赞赏，从而验证自我概念（Campbell et al.,2011; Chatterjee &Pollock,2017; Zeigler-Hill etal.,2019)。Zeigler-Hill等人（2019）采用问卷调查法和日记研究法展开研究，发现自恋水平较高的掌权者对现处的等级制度持正面态度，即认为自己持有权力是合理的，并且倾向于追求更高层次的等级地位，他们会通过展现个人能力、使用恐吓策略等不同手段寻求外界认可，提高自我价值感知。因此，组织中掌权者的自恋水平越高，具有越强烈的权力维持需求，他们希望在工作中展现各方面的能力吸引他人目光，以此满足虚荣心和强化自我形象。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.2人际层面：关系承诺和重复互动的影响",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "掌权者与他人的关系性质会影响高权力个体的行为，如果能够考虑人际关系的具体特质，那么就可以更好地理解权力的人际效应（Karreman＆ Smith,2011)。关系承诺（relationshipcommitment）是指个体在心理上对另一个人产生依恋，拥有发展双方关系的坚定意愿，并认为这段关系将持续很长时间。强烈的关系承诺通常以共同目标为基础，如果个体有较强的关系承诺，那么在一段关系中，他们会更倾向于对对方的需求做出回应，做出更多的以他人利益为导向的行为；相反，如果个体的关系承诺较弱，他们主要关注个人需求，对双方关系的维持并不关心（Righeti etal.,2015)。掌权者如果想要成功管理一个团队，努力实现个人或组织目标，他必须要和下属进行合作与协商，培养良好的人际关系。因此，当高权力个体对他人的关系承诺越强时，他的依赖感知就会越突出，即掌权者更能意识到他人对自身的依赖，以及自己对他人的依赖，会努力了解并满足对方的需求，发展长期稳定的合作关系。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "在大部分权力研究中，学者们主要采用单情境（mono-episodic）的实验方法，即关注在某个特定时刻或某个特定情境下权力带来的影响。但 Schaerer等人（2018）提出权力者和依赖者单次互动（one-shot interaction）与重复互动（repeated interactions）带来的结果是不一样的：单次互动的情况下掌权者可能出于不必考虑后果的原因，会做出更多负面行为，这与采用单情境实验方法研究的结果一致（Gruenfeld et al.,2008;Lammers et al.,2010);重复互动包括两层意思，一方面是指双方以往有权力-依赖的体验，这段已经存在的关系互动经历会影响个体的认知、情感和行为；另一方面指在未来双方仍可能继续保持这段关系，实现重复多次互动。San Martin 和同事（2015）发现，当高权力群体成员预期未来有更高频率的互动次数时，会更倾向于考虑低权力群体成员需求，听取对方的不同意见。因此，当掌权者与他人的重复互动次数越多，他越能感受到双方的依赖关系，但两者的互动次数较少，甚至仅有一面之缘时，掌权者的依赖感知相对较弱。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.3组织层面：组织目标和伦理氛围的影响",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "权力会使个体产生与组织目标一致的行为，更多将注意力集中在与组织目标相关的信息上（Guinote,2007;Keltner et al.,2003)，因此组织目标的内涵与性质会在很大程度上影响掌权者的认知、情感与行为。当组织目标要求将组织中的他人视作关注焦点，且具有较多的利他性和社会性时，掌权者就会将组织中他人利益纳入考虑范围，群体身份意识更容易被激活，组织认同程度更高（Handgraaf et al.,2008; Overbeck & Park,2001; Scholl,Sassenberg,Scheepers,Ellemers,&DeWit,2017；蔡頠，吴嵩，寇或,2016)。如公司设定年终奖发放以部门绩效为标准，那么“部门成员”这一身份对掌权者来说会更加突出，他将产生更多的组织认同，发挥团队协作精神赢得年终奖；如果组织中依据个人绩效决定晋升，高权力个体就会产生竞争意识，更多关注个人利益，组织认同程度降低。此外，当组织目标传递降低社会距离的信息，如鼓励上层“接地气”，倾听员工的真实想法时，掌权者也会减少自我关注，主动拉近与他人的社会距离，更多地将组织与他人纳入到自我概念中（Magee&Smith,2013)。因此，当组织目标具有利他性与社会性，传递降低社会距离的信息时，掌权者的组织认同程度更高。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "伦理氛围（ethicalclimate）属于组织氛围的一种，它是指员工对组织中存在的商业伦理问题和组织价值观的心理与认知评估（Tastan&Davoudi,2019)，是组织成员对什么才是正确行为的感知，这些感知会影响个体处理伦理问题的方式（Martin&Cullen,2006)。有学者发现伦理氛围与掌权者的组织认同有紧密的联系：当所处的组织被认为是守道德、讲诚信的群体时，个体会产生更高的组织认同感，且感到格外自豪(Ellemers,Pagliaro,&Barreto,20l3)，这种情感促使其更加愿意为组织效命(Elemers, Kingma,van de Burgt,&Barreto,2011)。Pagliaro 等人（2018）认为伦理氛围可以分为两种，一种是利己型伦理氛围,强调以个人主义的方式处理道德问题；另一种是关怀型伦理氛围，鼓励员工互相关爱，以集体主义方式处理问题。学者们（Pagliaro etal.,2018）通过实证研究发现，利己型伦理氛围下的员工组织认同感更低，他们鲜少与其他成员进行联系，做出更多的反生产行为;而关怀型伦理氛围下的员工有着更高的组织认同感，他们会把更多的时间精力投放在有益于组织的事情上，并且做出更多组织公民行为。因此，当组织具有关怀型伦理氛围，员工之间彼此照料时，掌权者会与组织建立更紧密的关系，产生更多的组织认同。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5总结与研究展望",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本文介绍了组织中权力概念的内涵，梳理了权力研究的主流理论及观点，探讨了责任感知在权力促进亲社会行为中发挥的中介作用。此外，文章依据掌权者在行使权力时考虑的不同对象分层展开论述，分别梳理了权力影响责任感知的不同路径，及其影响这些路径的调节因素。具体而言，考虑掌权者自身时，个体为了满足维持权力的需求，会增强责任感知，进而做出一系列亲社会行为。权力动机与自恋人格是个体层面的调节因素，当个体拥有高权力动机，或者具有高水平的自恋人格时，权力维持需求会更强。考虑掌权者与他人的关系时，个体会意识到自己被他人不对称依赖或对称依赖，更多将权力解读为责任，考虑其他组织成员的利益需求。关系承诺与重复互动是人际层面的调节因素，当掌权者对他人有较强的关系承诺，或者处于重复互动的情境中时，会产生更多的依赖感知。考虑掌权者与组织的关系时，在组织工作环境下的高权力个体将他人与组织纳入自我概念中，对所处群体有较强的组织认同感，责任感知凸显，因而做出集体目标导向的行为。组织目标和伦理氛围是组织层面的调节因素，利他性、社会性和降低社会距离的组织目标，以及关怀型伦理氛围使掌权者表现出更高水平的组织认同。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "虽然越来越多学者关注权力对亲社会行为产生的积极效应，聚焦责任感知这一变量，但该领域仍然有许多值得深挖与拓展的地方，如探讨中国文化背景下的权责协同，关注权力的相对性和动态性，丰富权力的研究方法，以及研究促使掌权者合理行使权力的干预措施。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5.1探讨中国文化背景下的权责协同",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "文化对权力的内涵主旨、解读方式和行使技巧有深远的影响。中国文化享有独特的起源背景和延绵轨迹，根植于此，组织中掌权者如何认知与行使权力，是一个颇具价值的研究议题。一方面，法家一类的思想文化旨在巩固统治者的绝对化权力，主张通过法、术、势的管理手段塑造权力的不对称结构，以此加强对臣民的控制力与影响力（李非，杨春生，廖晨，雷杰,2016)，典型的思想包括“权制断于君则威”、“事在四方，要在中央”。在这类思想浸染下，高权力距离成为组织情境中突出的代表性特征(廖建桥，赵君，张永军,2010)，掌权者可能会罔顾他人的利益与感受，利用特权做出自利行为。另一方面，儒家思想等文化强调权力与责任的对称性，即掌权者享有权力的同时，要主动承担与角色相符的责任，履行为大众谋取利益和福祉的义务。“天下为公”、“乐以天下，忧以天下”等观点体现了儒家文化对权力用途的要求与期许，其提倡掌权者应修炼个人德行，发自内心地尊重与关爱他人，并且注重维护和谐的人际关系，实现“己立立人、己达达人”的双赢局面（凌文轻，李锐，聂婧，李爱梅,2019；韦庆旺,2015;Witt& Stahl,2016; Zhong et al.,2006)。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "中国文化背景下的权力含义复杂，因此个体认知对于权力运用至关重要。掌权者若一味追求绝对化权力，沉迷于权力掌控而忽视对应的责任，必将对集体利益带来潜在性威胁;",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "相反，掌权者在行使权力时若能将个体需求、与他人的关系、以及和组织的关系纳入考虑范围，其会将权力解读为责任，主动履行角色职责，做出更多亲社会行为。未来相关研究可从宏观角度切入，探讨组织情境中如何利用文化引导掌权者从责任、义务的角度出发，而非掌控、机会的角度出发感知权力内涵，这将更利于高权力个体做出亲社会行为，也更有可能促进集体福祉与组织发展。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.2关注权力相对性与动态性对亲社会行为的影响",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "从空间维度上看，组织中的个体往往处在一个错综复杂的关系网络当中，需要同时扮演多种角色，体验不同程度的权力。如经理掌握了同部门下属没有的人脉资源、物质资源等，于后者而言经理拥有较大的权力，但在老板面前他又成为了依赖的那一方（Anderson& Brion,2014)。可见，权力具有相对性，个体与不同对象构成不同方向的权力-依赖关系。Anicich 等人（2017）基于权力的接近/抑制理论（Keltner etal.,2003)，提出了权力的接近/抑制/回避理论（approach/inhibition/avoidance theory of power,AIA 理论），认为权力是一种连续变量，人们既可能经历高权力、低权力，也可能经历中等权力。由于中等权力的个体需要不断进行“垂直代码转换”，即他们面对高权力个体和低权力个体时要转换特定的行为模式，因而更容易经历角色冲突，体验到焦虑，关注弥漫的、不确定的威胁，并做出更多受情境约束的抑制行为。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "从时间维度上看，权力具有动态性，对其拥有或流失都会随时间而发生变化。人们可能通过积累专业知识、掌握别人向往却缺乏的资源、职位普升、与更有权力的人合作等方式获得权力（Emerson,1962; Goldstein& Hays,2011)；但当人们因决策偏差影响绩效、被更有能力的人挑战或取代、受他人联盟影响，或者等级制度受到冲击时，权力则会失去。处于连续体不同位置的权力个体，当他们面对不同的对象时责任感知是否会不同？个体在大权初握、掌权一段时间，以及面临失权的情况下，行为是否会发生变化？以后的相关研究应当超越静态的、片面的权力概念，转而关注连续的、情境化的权力对亲社会行为的影响。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.3丰富权力的研究方法",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "目前权力的相关研究主要采用实验法。虽然实验室操纵可以排除许多无关变量，进行因果推理，具有颇高的准确性和精确度，是研究组织行为较为可靠的方法（Thau,Pitesa,&Pillutla,2014)，但是实验法的弊端是无法还原组织内部复杂的生态环境，研究结论不一定能推广到组织情境中去。Schaerer等人（2018）提出组织情境与实验室环境主要有三个区别：首先是被试样本的多样性，工作组织是不同人群的集合，受人口特征、教育背景、能力、信仰和文化价值观影响，人们的认知行为存在很大差异，而实验室往往采用同源同质被试，这不能体现组织中复杂多样的劳动力构成。其次是组织情境的丰富性，组织中的个体彼此依赖，互相发生作用，权力不仅是个人的财产，还是人际关系的一部分，并受更广泛的制度背景影响（Emerson,1962; Sturm&Antonakis,2015)，而实验室研究无法关注这些变量带来的影响。最后是现实世界的动态性，过去的研究主要基于单一情境展开，如操纵启动个体的权力感知、临时构建双方权力-依赖关系，但真实情境中的权力-依赖关系可能已经持续了几个月甚至几年时间，人们是否期望在未来与他人继续进行互动也会影响其认知和行为（San Martin et al.,2015）。Smith和Hofmann（2016）曾在三天时间内，每天对被试进行几次观察，结果发现权力大的人比权力小的人更倾向于接近他人，这与前人认为权力会增加社会距离的结论相悖。因此在未来的研究中，学者可以考虑实验室实验与现场实验相结合，横向研究与纵向研究相结合，更全面立体地探究权力对人们所带来的影响。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5.4研究促使掌权者合理行使权力的干预措施",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "只有当组织中个体的权力与责任感知互相协同时，个体才会做出亲社会行为，发挥权力的积极效应，实现组织的长远发展。本文通过梳理权力促进亲社会行为的相关研究，提出了一个综合的研究模型，该模型对组织通过不同路径激发掌权者的责任感知，促使个体合理行使权力有一定的启发意义，未来可以对组织情境中的干预措施进行研究。（1）掌权者有维护和增强权力的个人需求。组织可以对掌权者的工作内容、岗位要求和职位责任等进行清晰的界定，使个体依照具体条例行事，减少灰色地带的存在;制定合理的晋升机制，晋升不仅考虑个人绩效，还可以将品行测定、他人反馈和团队表现等因素纳入考核标准，分配不同的权重；定期邀请专家学者进行主题培训与心理疏导。（2）考虑到被他人依赖与依赖他人时，掌权者也会激发责任感知，做出亲社会行为。组织可以实行“师徒制”，即指导一方为被指导方提供帮助与支持，被指导方借助直接经验和间接经验，学习工作中需要的知识和技能。通过工作中多次反复的互动，并且将两者绩效进行挂钩，可以加强员工间的关系承诺，促进掌权者对他人的责任感知。（3）个体对自己与组织的关系有良好评价时，也能促进亲社会行为。组织可致力营造关怀型伦理氛围，打造以人为本的组织文化，让员工感觉到来自组织的关怀与爱护；增加个体参与团队活动的经历，提升掌权者对组织的归属感和认同感，从而做出更多集体导向行为。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "蔡頠，吴嵩，寇或． (2016)．权力对亲社会行为的影响：机制及相关因素．心理科学进展，24(1)，120-131.  \n李爱梅，彭元，李斌，凌文轻．(2014)．金钱概念启动对亲社会行为的影响及其决策机制．心理科学进展，22(5)，845-856.  \n李非，杨春生，廖晨，雷杰．(2016)．微观权力，法家思想与管理控制研究．管理学报，13(6)，789-797.  \n廖建桥，赵君，张永军． (2010)．权力距离对中国领导行为的影响研究．管理学报，7(7)，988-992.  \n凌文轻，李锐，聂婧，李爱梅． (2019)．中国组织情境下上司一下属社会交换的互惠机制研究——基于对价理论的视角．管理世界，35(5)，134-148.  \n彭小平，田喜洲，郭小东．(2019)．组织中的亲社会行为研究述评与展望．外国经济与管理，41(5)，114一126.  \n肖丽，梁晓雅，陆雄文．(2012)．组织情景下的权力研究述评．外国经济与管理，34(3)，72-80.  \n谢晓非，王逸璐，顾思义，李蔚．(2017)．利他仅仅利他吗?—一进化视角的双路径模型．心理科学进展，25(9)，1441-1455.  \n韦庆旺，俞国良． (2009)．权力的社会认知研究述评．心理科学进展，17(06)，1336-1343.  \n韦庆旺． (2015)．问责条件下的权力效应研究．天津：天津科学技术出版社.  \nActon, J.E.E.D.A.,& Himmelfarb, G. (1948). Essays on freedom and power: Boston, MA: Beacon Press.  \nAnderson, C.,& Brion, S. (2014). Perspectives on power in organizations. Annual Review of OrganizationalPsychology and Organizational Behavior, 1(1), 67-97.  \nAnicich,E.M.,&Hirsh,J.B. (2017).The psychology of middle power: Vertical code-switching,role conflict,andbehavioral inhibition. Academy of Management Review, 42(4), 659-682.  \nBalau,N.,&Utz,S.(2016).Exposing information sharing as strategic behavior: Power as responsibility and“Trust\" buttons. Journal ofApplied Social Psychology,46(10), 593-606.  \nCampbell,W.K.,Hoffman,B.J.,Campbell,S.M.,&Marchisio,G.(2011).Narcisssm inorganizationalcontexts.Human Resource Management Review,21(4),268-284.  \nChaterjee,A.,& Hambrick,D.C.(2oo7).It'sallabout me: Narcisistic chief executive officers and their effectson company strategy and performance. Administrative Science Quarterly, 52(3),351-386.  \nChatterjee,A.,& Pollock,T. G. (2017). Master of puppets: How narcisistic CEOs construct their professionalworlds. Academy of Management Review, 42(4), 703-725.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Chen,S.,Lee-Chai,A.Y.,&Bargh,J.A.(20o1).Relationship orientationasa moderatorof the effects of social power.Journal of Personality and Social Psychology, 80(2),173-187. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Cote, S., Kraus,M. W., Cheng,B.H., Oveis, C., Van der Lowe,1.,Lian, H.,& Keltner,D. (2011). Social power facilitates the effect of prosocial orientation on empathic accuracy. Journal of Personality and Social Psychology,101(2),217-232.   \nDe Cremer,D.,& Van Dijk,E. (2oo8).Leader-follower effects in resource dilemmas: The roles of leadership selection and social responsibility. Group Processes & Intergroup Relations,11(3),355-369.   \nDe Wit,F.R.,Scheepers,D., Ellemers,N., Sassenberg,K.,& Schol,A. (217). Whether power holders construe their power as responsibility or opportunity influences their tendency to take advice from others. Journal of Organizational Behavior, 38(7), 923-949.   \nEllemers,N., Kingma,L., van de Burgt,J.,&Barreto,M. (2o11). Corporate social responsibility as a sourceof organizational morality, employee commitment and satisfaction. Journal of Organizational Moral Psychology, 1(2), 97-124.   \nEllemers,N.,Pagliaro,S.,& Barrto,M. (2o13).Moralityandbehavioural regulation in groups: Asocial identity approach. European Review ofSocial Psychology, 24(1),160-193.   \nEmerson, R. M. (1962). Power-dependence relations. American Sociological Review,27(1),31-41.   \nFoulk,T.A.,Lanaj,K.,Tu,M.H.,Erez,A.,& Archambeau,L. (2o18).Heavy is the head that wears the crown: An actor-centric approach to daily psychological power, abusive leader behavior, and perceived incivility. Academy of Management Journal, 61(2), 661-684.   \nGalinsky,A.D.,Magee,J. C., Gruenfeld,D.H., Whitson,J.A.,&Liljenquist, K.A. (20o8).Power reduces the press of the situation: Implications for creativity,conformity,and dissonance. Journal of Personality and Social Psychology, 95(6), 1450-1466.   \nGiessner, S.R., van Knippenberg,D.,van Ginkel, W.,& Sleebos,E. (2013).Team-oriented leadership: The interactive effects of leader group prototypicality,accountability,and team identification. JournalofApplied Psychology, 98(4), 658-667.   \nGoldstein, N. J.,& Hays, N.A. (2o11). Ilusory power transference: The vicarious experience of power. Administrative Science Quarterly, 56(4),593-621.   \nGruenfeld,D.H., Inesi, M.E., Magee,J. C.,& Galinsky,A.D. (2o08).Power and the objectification of social targets. Journal of Personality and Social Psychology, 95(1),111-127.   \nGuinote,A. (O07). Behaviour variability and the situated focus theory of power. European Review of Social Psychology, 18(1),256-295.   \nHandgraaf,M.J., Van Dijk,E.,Vermunt,R.C., Wilke,H.A.,&De Dreu,C.K. (2008).Less power orpowerless? Egocentric empathy gaps and the irony ofhaving litte versus no power in social decision making.Journal of Personality and Social Psychology, 95(5),1136-1149.   \nHentonen,K., Kianto, A., & Ritala,P. (2o16). Knowledge sharing and individual work performance: An empirical study of a public sector organisation. Journal of Knowledge Management, 20(4), 749-768.   \nHermans,J.,labbinck,H.,Vanderstraeten,J.,Brassey,J.,Dejardin,.,amdani,D.,&Van Witeloostuijn,A. (2017).The power paradox: Implicit and explicit power motives,and the importance attached to prosocial organizational goals in SMEs. Sustainability, 9(11),2001-2026.   \nHershcovis,M.S.,Neville,L.,Reich,T.C., Christie,A. M.,Cortina,L. M.,& Shan,J. V. (2017). Witnessing wrongdoing: The effects of observer power on incivility intervention in the workplace. Organizational Behavior and Human Decision Processs,142,45-57.   \nHogg,M.A.,van Knippenberg,D.,& Rast II,D.E. (2012).The social identity theory of leadership: Theoretical origins,research findings,and conceptual developments.European Review ofSocial Psychology,23(1),258- 304.   \nHoward,E.S., Gardner, W.L.,& Thompson,L. (2o07).The role of the self-concept and the social context in determining the behavior of power holders: Self-construal in intergroup versus dyadic dispute resolution negotiations. Journal of Personality and Social Psychology, 93(4), 614-631.   \nKarremans,J. C.,& Smith,P. K. (20l0). Having the power to forgive: When the experience of power increases interpersonal forgiveness Personality and Social Psychology Bulletin,36(8),1010-1023.   \nKeltner,D., Gruenfeld,D.H,&Anderson, C.(2o03).Power,approach,and inhibition.Psychological Review, 110(2), 265-284.   \nKeltner,D., Van Kleef, G.A., Chen, S.,& Kraus,M. W. (2oo8).Areciprocal influence model of social power: Emerging principles and lines of inquiry. Advances in Experimental Social Psychology, 40,151-192.   \nKunstman, J. W.,& Maner, J. K. (2011). Sexual overperception: Power, mating motives, and biases in social judgment. Journal of Personality and Social Psychology, 100(2), 282-296.   \nLammers,J., Galinsky,A.D., Gordijn,E.H.,& Oten, S. (2008). Illegitimacy moderates the effects of power on approach. Psychological Science, 19(6), 558-564. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Lammers,J.,& Galinsky,A.D.(2O08). How the conceptualization and nature of interdependency moderates the effects of power. In D.Tjosvold &B.van Knippenberg (Eds.),Power and interdependence in organizations (pp. 67-82). Cambridge, UK: Cambridge University Press. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Lammers, J., Stapel, D.A., & Galinsky, A. D. (2010). Power increases hypocrisy: Moralizing in reasoning, immorality in behavior. Psychological Science, 21(5),737-744.   \nLiu,P.,Xiao, C.,He,J., Wang, X.,&Li,A. (in pres).Experienced workplace incivilityanger, guilt,andfamily satisfaction: The double-edged effect of narcissism. Personality and Individual Differences.   \nMagee,J. C.,& Galinsky,A.D. (2oo8).Social hierarchy: The self-reinforcing nature of power and status. The Academy of Management Annals, 2(1), 351-398.   \nMagee,J. C.,& Smith,P.K. (2013).The social distance theory of power. Personality and Social Psychology Review, 17(2),158-186.   \nManer, J. K., Gailliot,M.T.,Butz,D.A.,& Peruche,B.M. (20o7).Power, risk,and the status quo: Does power promote riskier or more conservative decision making?.Personality and Social Psychology Buletin, 33(4), 451-462.   \nManer, J. K., Gailliot, M. T., Menzel,A. J.,& Kunstman,J. W. (2012). Dispositional anxiety blocks the psychological effects of power.Personality and Social Psychology Bulletin,38(11),1383-1395.   \nManer, J.K.,& Mead,N.L. (2010).The essential tensionbetween leadershipand power: When leaders sacrifice group goals for the sake of self-interest.Journal of Personality and Social Psychology, 99(3),482-497.   \nMartin,K.D.,& Cullen,J.B. (20o6). Continuities and extensions of ethical climate theory: A meta-analytic review. Journal of Business Ethics, 69(2),175-194.   \nMcClelland,S.I.,& Holland, K.J. (2o15). You, me,orher: Leaders'perceptions ofresponsibility for increasing gender diversity in STEM departments. Psychology of Women Quarterly, 39(2),210-225.   \nMead,N.L., & Maner,J. K. (2012). On keeping your enemies close: Powerful leaders seek proximity to ingroup power threats. Journal of Personality and Social Psychology, 102(3),576-591.   \nOverbeck, J. R., & Park, B. (2001). When power does not corrupt: Superior individuation processes among powerful perceivers. Journal of Personality and Social Psychology, 81(4), 549-565.   \nPagliaro,S.,LoPresti,A.,Baratucci,M., Giannella,V.A.,&Barreto,M. (o18).Onthe efects of ethicalclmate (s) on employees' behavior: a social identity approach.Frontiers in Psychology, 9: 960.   \nPitesa,M.,& Thau, S. (2013). Compliant sinners,obstinate saints: How power and self-focus determine the effectiveness of (un) ethical social influences. Academy of Management Journal, 56(3),636-658.   \nPless,N.M. (20o7). Understanding responsible leadership: Role identity and motivational drivers.Journal of Business Ethics,74(4),437-456.   \nPostmes,T., & Jeten,J. (2006). Individuality and the group: Advances in social identity.London: Sage.   \nPuusa,A., & Tolvanen, U. (2oo6). Organizational identity and trust. Electronic Journal of Business Ethics and Organization Studies,11(2),29-33.   \nRighetti,F.,Luchies,L.B.,vanGils,S.,Sloter,E.B.,Witcher,B.,&Kumashiro,M.(2015).The prosocialversus proself power holder: How power influences sacrifice in romantic relationships. Personality and Social Psychology Bulletin, 41(6),779-790.   \nSan Martin, A., Swaab, R. I., Sinaceur, M.,& Vasiljevic,D. (2015). The double-edged impact of future expectations in groups: Minority influence depends on minorities' and majorities'expectations to interact again.Organizational Behavior and Human Decision Processes,128,49-60.   \nSapolsky,R.M. (2005).The influence of social hierarchy on primate health. Science,308(5722), 648-652.   \nSassenberg,K.,Ellemers,N.,&Scheepers,D.(20l2).The atraction ofsocial power: The influence of construing power as opportunity versus responsibility. Journal of Experimental Social Psychology, 48(2), 550-555.   \nSchaerer, M.,Lee,A. J., Galinsky,A.D.,& Thau, S.(2018). Contextualizing social power research within organizational behavior. InD.L.Ferris,R.E. Johnson & C.Sedikides (Eds.),The selfat work: Fundamental theory and research. Organizational frontiers series ofthe society for industrial and organizational psychology (pp.194-221). New York: Routledge.   \nScheepers,D., Ellemers,N., & Sassenberg, K. (2013).Power in group contexts: The influence of group status on promotion and prevention decision making. British Journal of Social Psychology, 52(2), 238-254.   \nSchmid Mast, M., Jonas, K., & Hall J.A. (20o9). Give a person power and he or she will show interpersonal sensitivity: The phenomenon and its why and when. Journal of Personality and Social Psychology, 97(5), 835-850.   \nScholl,A.,& Sassenberg,K. (20l5). Better know when (not) to think twice: How social power impacts prefactual thought. Personality and Social Psychology Buletin,41(2),159-170.   \nScholl, A.,Sassenberg,K.,Scheepers,D.,Ellemers,N.,&De Wit,F.(2l7).Amatteroffocus: Power-holders feel more responsible after adopting a cognitive other-focus,rather than a self-focus. British Journal of Social Psychology, 56(1), 89-102.   \nScholl,A.,assenberg,K.,Ellemers,N.cheepers,D.,&De Wit,F.(1).Hghlyidentified power-holdersfeel responsible: The interplay between social identification and social power within groups. British Journal of Social Psychology, 57(1),112-129.   \nSchroeder,D.A.,& Graziano,W.G. (2O15).The field of prosocial behavior: An introduction and overview In D.A. Schroeder & W. G. Graziano (Eds),The Oxford handbook of prosocial behavior (pp.3-34).Britain: Oxford University Press.   \nSmith,P. K.,& Hofmann, W. (2016).Power in everyday life.Proceedings ofthe National Academy ofSciences, 113(36),10043-10048.   \nSturm,R.E.,& Antonakis,J. (2o15). Interpersonal power: Areview, critique,and research agenda. Journal of Management, 41(1), 136-163.   \nSuesenbach,F.,Loughnan,S.,Schonbrodt,F.D.,& Moore,A.B.(2Ol9).The dominance,prestige,and leadership account of social power motives. European Journal of Personality, 33(1),7-33.   \nTajfel,H. (1972).La catégorisation sociale [Social categorization].In S.Moscovici (Ed.),Introduction a la psychologie sociale [Introduction to social psychology](Vol.1, pp. 272-302). Paris: Larouse.   \nTajfel,H.,& Turner,J. C. (1979).Anintegrative theoryofintergroupconflict. In W. G.Austin,& S. Worchel (Eds.),The social psychology ofintergroup relations (pp.33-47). Monterey,California: Brooks/Cole.   \nTastan, S. B.,& Davoudi, S.M. M. (2019). The relationship between socially responsible leadership and organisational ethical climate: In search for the role of leader's relational transparency. International Journal of Business Governance and Ethics,13(3),275-299.   \nThau, S.,Pitesa, M.,& Pillutla,M. (2014).Experiments inorganizational behavior. In M. Webster &J.Sell(Eds.), Laboratory experiments for the social sciences (pp. 433-447). San Diego, CA: Academic Press.   \nThomas,E.F.,Amiot, C.E.,Louis, W.R.,& Goddard,A. (2017). Colective self-determination: How the agentof help promotes pride,well-being,and support for intergroup helping. Personality and Social Psychology Bulletin, 43(5), 662-677.   \nToreli,C.J,&havit,S. ().Cuturendconcetsofower.Joualofersonaiyd ScialPsyology 99(4), 703-723.   \nTost, L. P. (2015). When, why,and how do power holders“feel the power\"? Examining the links between structural and psychological power and reviving the connection between power and responsibility. Research in Organizational Behavior,35,29-56.   \nTost, L.P.,& Johnson, H.H. (2019). The prosocial side of power: How structural power over subordinates can promote social responsibility. Organizational Behavior and Human Decision Processes,152, 25-46.   \nvan Dijke,M.,De Cremer,D.,Langendijk, G.,& Anderson, C. (2018). Ranking low, feeling high: How hierarchical position and experienced power promote prosocial behavior in response to procedural justice. Journal ofApplied Psychology,103(2),164-181.   \nVan Knippenberg, D. (2ooo). Work motivation and performance: A social identity perspective. Applied Psychology, 49(3), 357-371.   \nWeber,M. (1947). The theory of social and economic organization (A. M. Henderson & T.Parsons, Trans.). New York: Oxford University Press. (Original work published 1915)   \nWilliams,M.J.(2014).Serving the self from the seat of power: Goals and threats predict leaders'self-interested behavior. Journal of Management, 40(5),1365-1395.   \nWilis,G.B.,& Guinote,A. (2011).The effects of social power on goal content and goal striving: A situated perspective. Social and Personality Psychology Compass,5(10),706-719.   \nWilson,K.S.,Sin,H.P.,& Conlon,D.E.(2010). What about the leader in leader-member exchange? The impact of resource exchanges and substitutability on the leader. Academy of Management Review, 35(3),358-372.   \nWit, M. A.,& Stahl, G. K. (2016).Foundations ofresponsible leadership: Asian versus Western executive responsibility orientations toward key stakeholders.Journal of Business Ethics,136(3),623-638.   \nZeigler-Hill, V., Vrabel, J. K., McCabe, G.A., Cosby, C.A.,Traeder, C.K.,Hobbs, K.A.,& Southard, A. C. (2019). Narcissism and the pursuit of status. Journal of Personality, 87(2),310-327.   \nZhong, C.B., Magee,J. C., Maddux, W. W.,& Galinsky,A.D. (2006).Power,culture,and action: Considerations in the expression and enactment of power in East Asian and Western societies. In Y. Chen (Ed.), National culture and groups (Vol.9, pp.53-73). Bingley: Emerald Group Publishing Limited. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "How does power in organizations promote prosocial behavior? The mediating role of sense of responsibility LI Xin1 ; LIU Pei1 ; XIAO Chenjie1 ; WANG Xiaotian² ; LI Aimei1 （ $^ 1$ Management School, Jinan University, Guangzhou 510632, China) ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(2School of Business Administration, Guangdong University of Finance & Economics, Guangzhou 510320, China) ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Early research on power has provided considerable evidence for the negative effects of power on prosocial behavior and its internal mechanisms. Although an increasing number of studies have atempted to test the positive effects of power on prosocial behavior, the mechanism of this positive efect is still not clear. By reviewing and integrating the relevant literature, sense of responsibility has been identified as a critical mediator in this positive effect. In addition, individuals with high levels of power may increase their sense of responsibility because of different reasons. Given the individual's own needs,relationships with others as well as organization, we systematically figure out that need for power maintenance, perception of dependency,and organizational identification would lead to high levels of responsibility, which then triggers powerful individuals to conduct more prosocial behaviors. Moreover, we also identified potential moderators at individual level, interpersonal level,and organizational level. Future research could focus on how power results in increased sense of responsibility from various ways including exploring this relationship in Chinese culture, adopting multiple research designs beyond experimental studies, as well as manipulating interventions for helping powerful individuals increase their levels of sense of responsibility. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Key words: power; sense of responsibility; need for power maintenance; perception of dependency; organizational identification; prosocial behavior ",
+        "page_idx": 22
+    }
+]

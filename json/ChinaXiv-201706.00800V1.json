@@ -1,0 +1,361 @@
+[
+    {
+        "type": "text",
+        "text": "Stereoscopic PIV Measurements of the Flow Field in a Turbine Cascade ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TIAN Yangtao, MA Hongwei, MA Rong ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "VationalKey Laboratoryof Science and Technologyon Aero-Engines,Collaborative Innovation Centerof Advanced Aero-Engine,School of Energy & Power Engineering,Beihang University,Beijing,1OO191, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\mathfrak { C }$ Science Press and Institute of Engineering Thermophysics, CAS and Springer-Verlag Berlin Heidelberg 2017 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This paper presents experimental measurements of the flow field in a Low-speed Turbine Cascade using a stereoscopic particle-image velocimetry (SPIV).During the measurements,a pair of frame-straddling-based CCD cameras were configured at different sides of the laser light sheet,and appropriate tracing particles (DEHS) were employed.The measurements were conducted at the incidence angle of O degree and exit Reynolds number of 1.7 $\\times 1 0 ^ { 5 }$ with the tip clearance $1 . 1 8 \\%$ of blade chord.The tip flow features,such as the evolution and breakdown of tip leakage vortex,the horseshoe vortex,turbulence characteristics of tip leakage flow,were studied for theflow field analysis.The results showed that the tip leakage flow/vortex mainly dominate flow fields in the tipregion. The tip leakage vortex performs as a concentrated vortex before its breaking down and spliting into smallvortices.The highest turbulence intensity mainly occurs in the tipregion along with the trajectory of tip leakage vortex, and when the vortex breaks down,the turbulence intensity reduces rapidly.Additionally,the SPIV with this configuration also shows an advantage in investigating the flow structures and mechanism inside the turbine cascade. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Stereoscopic PIV, turbine cascade, tip leakage vortex,horseshoe vortex ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The flow structures in a turbine are three-dimensional, and highly unsteady. Therefore,many flow mechanisms are still unclear and needed to make a deep exploration depending on the improvement of measurement methods. However, the traditional methods are almost based on the point measurement,which are very difficult to obtain abundant information of flow field.Currently,Particleimage Velocimetry (PIV),a new non-contact measurement technique,is used to the flow field measurement. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the previous investigations,the PIV has been used for the flow field measurements in turbomachines by Bryanston-Cross et al.[1] and Wernet [2]. Ni [3] performed the PIV measurements on a turbine cascade.But these are all the measurements of blade-to-blade.In order to investigate the flow structures in the hub-to-tip plane, the Stereoscopic Particle-image Velocimetry(SPIV） was employed by Lang [4] and Wernet [5]. In our group, the experimental study using SPIV was conducted in an axial compressor [6l. Some special flow structures were found. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In view of the superiorities of SPIV [6-7] and rare investigations on the turbines,the SPIV measurement was conducted on a Low-Speed Turbine Cascade.The corresponding investigations of aerodynamic performance have been done using the five-hole probe [81. In this paper, it is aimed at the study of specific flow phenomena in the turbine passage and identifying the flow mechanism, which can contribute to the further design and the improvementof the performance of the turbines. ",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/40d29521c882d6fc4d7c2f418a6feff074876cecd6a77587aeb574cdb975f4ab.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">Nomenclature</td></tr><tr><td>C</td><td>chord (mm)</td><td>β</td><td>flow angle</td></tr><tr><td>Cx</td><td>axial chord (mm)</td><td>W2</td><td>vorticity</td></tr><tr><td>Re</td><td>Reynoldsnumber</td><td>Subscripts</td><td></td></tr><tr><td>Cv</td><td>streamwise velocity coefficient</td><td>1</td><td>inlet</td></tr><tr><td>Greek letters</td><td></td><td>2</td><td>outlet</td></tr><tr><td colspan=\"2\">T solidity</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experimental Apparatus and Measurement Technique ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Linear Turbine Cascade (LTC) ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this investigation, the measurements were performed on a Low-Speed Wind Tunnel (LSWT) driven by a centrifugal blower in Beihang University. The experimental facility was operated using LTC with the incidence angle of O degree and the exit Reynolds number of $1 . 7 \\times 1 0 ^ { 5 }$ based on the blade chord. The mainstream turbulencelevelofinletflowis $4 \\%$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As for the LTC,it is composed of five turbine blades, two lateralplates and two tailboards.The turbine blades aremade of aluminum and mounted to the bottomlateral plate.Fig.1 shows the overall view of LSWT.All the measurements are conducted on the third blade.The two tailboards are used to adjust the periodicity of the airflow. More detailed cascade properties are summarized in Table 1.During the experiments,all the solid surfaces of the LTC are covered with the black wallpapers except for the transparent optical glass. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b3a1381291903a1d9a445ed3bb4f4095804ddb8df9fad33956ed3ac7af04b5e8.jpg",
+        "img_caption": [
+            "Fig.1 Overall view of the Low-Speed Wind Tunnel (LSWT) "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/b32439ec508b3a6e067fe044270d09f207b58431d7159f49122dc8ae9edc54c8.jpg",
+        "table_caption": [
+            "Table 1Design parameters of LTC "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">Geometric parameters and test conditions</td></tr><tr><td>Number of blades</td><td>N</td><td>5</td></tr><tr><td>Chord</td><td>C</td><td>102mm</td></tr><tr><td>Axial chord</td><td>Cx</td><td>71mm</td></tr><tr><td>Tip clearance</td><td>%C</td><td>1.18</td></tr><tr><td>Solidity</td><td>T</td><td>1.36</td></tr><tr><td>Inlet flow angle</td><td>β</td><td>33.6°</td></tr><tr><td>Outlet flow angle</td><td>B</td><td>67°</td></tr><tr><td>Exit Reynolds number</td><td>Re</td><td>1.7×105</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SPIV system and light sheet delivery ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A PIV system, developed by MicroVec Incorporation, was employed in this experiment.Fig.2 presents the schematic diagram of the SPIV configuration. The laser source is a double cavity Nd:YAG laser with the maximum illumination energy of $2 0 0 ~ \\mathrm { { m J } }$ /pulse at a repetition rate of $1 5 \\mathrm { { H z } }$ 、As shown, the CCD cameras with the resolution of $2 0 4 8 \\times 2 0 4 8 ( 4 \\mathrm { M } )$ were configured at different sides oflaser sheet with Scheimpflug condition.The macro lens was also used.Two cameras and the laser arm were all fixed on the same mounting base which was mounted on the same three-freedom displacement mechanism. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Seeding and calibration ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A uniformly high concentration of the flow seeding is the most critical element in the SPIV measurement.In this study, the flow is scattered with the oil droplets of DEHS generated by evaporating and condensing using a homemade smoke generator. The generator is capable of providing about $1 ~ { \\mu \\mathrm { m } }$ diameter particles.However, the oil droplet is easily condensed on the optical glass. Therefore,the optical glass of turbine cascade was designed to be removable,bywhich it could make the cleaning of the window quickly and thoroughly at any time. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The calibration of optical system must be performed to correct the perspective distortion caused by the inclined view of the illuminated light sheet plane and the differences in optical system magnification between the CCD cameras.The calibration target is a $5 0 \\mathrm { m m } { \\times } 5 0 \\mathrm { m m } { \\times } 6 \\mathrm { m m }$ (length $\\times$ width $\\times$ thickness） black plate with $2 ~ \\mathrm { m m }$ diameter calibration dots.During the calibration,nine dots arranged as the Sudoku was applied to calibrate the view. Particle analysis,image correction and grid establishment were then conducted.Finally, the 3-D calibration was automatically executed by the MicroVec software.In order to make sure that the calibration function is trustWorthy, the misregistration of the two viewing directions wasassessedl9-oand thedisparitymapof themeasurement results was illustrated in Fig.3.As shown,it can be known that the maximum displacement is O.108743 mm which corresponds to the mismatch less than 2.7 pixels.The employment of macro lens may be one important reason for the disparity. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f4088e0fa1085d32133006eb75484e91ffc2c196779532401510f9400a04b4ef.jpg",
+        "img_caption": [
+            "Fig.2Schematic diagram of the SPIV configuration "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "860 MIN=0.07764 mm ↑   \n(uw) 40 MAX=0.108743 mm ↑ 个 blade   \nY tipregion   \n20 个 个 0 上 T E 0 10 20 30 40 50 60 70 X (mm) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Measurement layout and data processing ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 presents the schematic layouts of the measured cross sections.The flow fields of the eight different cross sections with the interval distance of $10 \\%$ blade chord between the two sections were measured. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The images were obtained inside the passage between the second blade and third blade,as can be seen in Figs.1 and 2.In every measurement,4Oo instantaneous images are acquired.The inter-frame time,dt,is set as $1 3 \\ \\mu s$ based on a nearly $1 0 ~ \\mathrm { { m / s } }$ maximum flow velocity at inlet of LTC and yields a maximum particle-image displacementless than 8 pixels.The MicroVec V3 and in-house procedure are applied to the post-processing of SPIV. During the data processing,the interrogation window and step size are set to $3 2 \\mathrm { p i x e l } \\ \\times \\ 3 2 \\mathrm { p i x e l }$ and 12pixel $\\times$ 12pixel respectively. The grid spatial resolutions of the velocity vector are about $0 . 0 3 9 3 0 9 \\mathrm { { m m } }$ . As known in references [7], the strong peak locking often appeared. In this study, some methods were employed to relieve the effect of peak locking.The histogram of the measured particle-image displacement at $50 \\%$ camber line cross section,showed in Fig.5,demonstrates that the peak locking behavior is successfully controlled. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Measurement accuracy ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Generally speaking,there are many factors that affect the accuracy of SPIV measurement. They usually include the random errors and bias errors which are discussed in papers[I1-31.Previous investigations showthat therandom errors can be minimized with attention during both the experimental investigation and data processing. In this paper, the sub-pixel fitting method applied to the Micro Vec software is employed in the experiment.When the interrogation window is chosen 64pixelx64pixel, the measurement accuracy can be improved to $\\pm 0 . 1$ pixel. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6b5f097fc3643c3f0fc1b9a29ee1cd30f688ba50926e88d484a4b1eaed3a5af9.jpg",
+        "img_caption": [
+            "Fig.4Schematic layout of the measured planes "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/044bd92d16b04387c2ec3f121a163ca694c688547c99b1b39cf3071cbce6fdd5.jpg",
+        "img_caption": [
+            "Fig.3Disparity map of the measurement results ",
+            "Fig.5Histogram of the particle-imaged displacement of dx and dy "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For the bias error,it is attributable to the window effect,optical setup,calibration procedure,etc.As shown in Fig.3,the maximum displacement caused by disparity between two cameras is less than 2.7pixels,whichleads to about one tenth of the interrogation window.Based on the previous investigations, the peak locking error dominates the measurement error in instantaneous flow field, which is caused by the small particle-image diameter. It can be seen from Fig.5 that the peak locking effect has almost been eliminated.For streamwise displacement of particle image,the accuracy is about $1 . 5 \\% { - 4 . 2 \\% }$ . Considering that the accuracy of statistic results can be improved by ensemble-averaged， the imagesin every measured area need more than 3OO samples. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results and Discussions ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.6 shows the instantaneous vorticity contours at $40 \\%$ and $70 \\%$ camber line cross section. Generally speaking, the tip leakage flow/vortex(TLF/TLV) mainly manifests in the tip region above the $90 \\%$ of blade height on the suction side of the blade.The TLV showsa concentrated vortex with highly positive vorticity,which the vorticity distributions being concentrated in instantaneous moment Moreover, some small vortices with negative vorticity surround the TLV.As shown in Fig.6(a), the TLV pattern shows irregularly, but it can still discern the vortex core. However, it shows that the TLV breaks down completely at $70 \\%$ camber line cross section in Fig. 6(b).Due to the blending and diffusion as the vortex propagates downstream, the TLV which breaks into small vortices cannot present a complete vortex structure.Meanwhile, the vortex core of TLV almost disappears.It is remarkable that all the vortices are still concentrated in themiddle turbine passage. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.7 lays out the instantaneous results at $50 \\%$ camberlineat differentmoments.Ascan be seen,the TLVis still the concentrated vortex and dominates the tip region flow. But it can be known that the morphology of TLV is always unstable. The TLV sways at every instantaneous moment,which means a strong three-dimensional,highly unsteady and transient flow in the turbine passage. Moreover, some small vortices with positive and negative vorticity always surround the core of the TLV. Simultaneously, the vorticity intensities are also changing. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.8 presents the vector contours and the streamline contours at $40 \\%$ and $70 \\%$ camber line.As shown in Fig.8(c)，a pair of vortexes with opposite rotations is formed. The clockwise vortex rotated oppositely to the TLV appears at this cross section.But it then disappears at $70 \\%$ camber line,shown in Fig.8(d).As known from the previous investigations,it may be the pressure-side leg of leading-edge horse-shoe vortex that has been found inside the turbine cascade [14]. The similar flow structures also appear in axial compressors [7]. Besides, the TLV intensity reduced rapidly at $70 \\%$ cross section, due to fortified blending and diffusion of the TLF and mainstream.Another reason is that no more flows in the pressure side are involved into the TLF,which results in the low momentum flow occupying the entire tip passage and aggravating the blockage and losses. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4b04069cfb93b1d4d56136fc52d4b22098aba27217dfa8361963272f9f44de8e.jpg",
+        "img_caption": [
+            "Fig.6Instantaneous vorticity contours at different cross sections (a) $40 \\%$ (b) $70 \\%$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bd7a6eb9cdf77a21650070b099294a237a032834c3c029a277031fb066d4d42b.jpg",
+        "img_caption": [
+            "Fig.7Instantaneous contours at $50 \\%$ camber line cross section at different moments "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a991351b643f838a004bc8933698e3f25855f1630a1aec17d5e261a782071d54.jpg",
+        "img_caption": [
+            "Fig.8Contours of vectors and streamlines at different cross sections. (a) $40 \\%$ (b) $70 \\%$ (c) $40 \\%$ (d) $70 \\%$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Itis evident thatlots of useful information, such as the initiation and development of the TLV, the breakdown of TLV and the horseshoe vortex,can be obtained from the ensemble-averaged result.Although the pressure gradient inside the turbine passage is favorable,the flow field still presents three-dimensional and highly unstable.The ensemble-averaged measured results from $20 \\%$ to $90 \\%$ camber line cross sections are shown in Fig. 9(a). The TLV appears at $30 \\%$ camber line cross section with high positive vorticity.As the vortex propagates downstream, the TLV develops stronger and stronger until to $5 0 \\%$ cross section.After this position, the TLV becomes unstable but is still a concentrated vortex，which shows an elliptical shape.After $70 \\%$ cross section,the TLV breaks into the small vortices,resulting in the obvious expansion of low momentum flow in the tip region. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Until to the $90 \\%$ cross section, the low momentum flow has filled into the upper semi-passage, which causes serious blockage,as shown in Fig. 9(b).Compared with the instantaneous results,the ensemble-averaged results show a low vorticity,which is because some small fluctuations are averaged. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Besides,the turbulence intensity distributions at different measured cross sections are shown as combined maps in Fig. 9(c). Itis showed that the tip region has the highest turbulence intensity along the trajectory of TLV except that it has the feeble turbulence intensity near leading edge where the TLF has not occurred. Obviously, the region with high turbulence intensity cannot be concentrated in a specific area. Compared with the vorticity map in Fig. 9(a), the turbulent flow is mainly located in the tip region near suction side. As the strengthened TLV migrates downstream,the turbulence intensity becomes large.When the TLV begins to sway and break down, the turbulent flow expands slowly to the whole passage.Afterthat,the vortex breaks into small vortices，and the turbulence intensity reduces speedily.At this time,small vortices mix with the mainstream and dissipate gradually. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4090cecbf4a6762221c409581184395d2c72336d49b419f81a522adf9cf47208.jpg",
+        "img_caption": [
+            "Fig.9Contours of vorticity,streamwise velocity and turbulence intensity at different cross sections "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this investigation, the SPIV measurements with the configuration that the CCD cameras were placed at different sides of the laser light sheet were used to investigate the flow fields inside the turbine passage. Some specific flow features inside the passage,such as the TLV evolution,TLVbreakdown,and turbulence characteristics,wererevealed.Andit could be concludedasfollows: (1）For the instantaneous results,the morphology of vortex is always swaying and changing at every moment, which suggests the strongly three-dimensional unsteadiness of the tip flow. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2) The TLF/TLV dominates the whole tip region flow above $90 \\%$ of passage height.Before the breakdown of TLV,it mainly shows a concentrated vortex.From $60 \\%$ cross section, the TLV starts to split into small vortices and the low momentum flow expands and imbues the entire tip region,resulting in the serious blockage of the tip region. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3) At $40 \\%$ camber line cross section,it can be seen that the pressure-side leg of the horse-shoe vortex with highly negative vorticity in tip region appears. As the vortexpropagatesdownstream,itbecomeshardlyvisible. (4) The tip region along the trajectory of TLV shows the highest turbulence intensity.After the TLV breakdown,the turbulence intensity reduced quickly because of the mixing and the difusion. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This project was supported by Science and Technology Foundation of State Key Laboratory (Grant No. 9140C410205130C41153).And it was also funded by the National Natural Science Foundation of China, Grant No. 51161130525 and 51136003，supported by the 111 Project,No.B07009. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Bryanston-Cross PJ,Towers C E, Judge TR,et al.: The Application of Particle Image Velocimetry(PIV）in a Short Duration Transonic Annular Turbine Cascade, ASME Transactions Journal of Turbomachinery,114(3): 504-509,(1991).   \n[2] Wernet M P.:PIV for turbomachinery applications,Proceedings of SPIE -The International Society for Optical Engineering,3172: 2-16,(1997).   \n[3]Ni Bing,Xu Jie,Xue Ronghai,et al.: Quantitative Measurement and Visualization of Flow around Plate Cascade Using PIV, Journal of Ship Mechanics,vol.2,(3): 1-5, (1998).   \n[4]Lang H,Mprck T,Woisetschläger J.: Stereoscopic Particle Image Velocimetry in a Transonic Turbine Stage, Experiments in Fluids,32(6):700-709,(2002).   \n[5] WernetMP,ZanteDV,StrazisarTJ,etal.:Characterization of the Tip Clearance Flow in an Axial Compressor Using 3-D Digital PIV,Experiments in Fluids,39(4):743 -753,(2001).   \n[6]Ma,Hongwei,et al.:Experimental investigation of effects of suction-side squealer tip geometry on the flow field in a large-scale axial compressor using SPIV,Journal of Thermal Science,24(4): 303-312,(2015).   \n[7]Yu XJ,Liu B J.: Stereoscopic PIV Measurement of Unsteady Flows in an Axial Compressor Stage,Experimental Thermal&Fluid Science,31(8):1049-1060,(2007).   \n[8]Ma,Hongwei,and L.Wang.: Experimental study of effects of tip geometry on the flow field in a turbine cascade passage,Journal of Thermal Science,24(1):1-9, (2015).   \n[9]Willert C.: Stereoscopic Particle Image Velocimetry for Applicationin Wind Tunnel Flows,Meas.Sci. Technol.8: 1465-1479,(1997).   \n[10] Prasad,A. K.: Stereoscopic Particle Image Velocimetry, Exp.Fluid,29:103-116,(2000).   \n[11] Westerweel J.: Fundamentals of Digital Particle Image Velocimetry,Meas Sci Technol, 8:1379-1392,(1997).   \n[12] WesterweelJ.:Theoretical Analysis of the Measurement Precision in Particle Image Velocimetry，Exp.Fluids Suppl, S3-S12,(2000).   \n[13] Boillot A,Prasad AK.:OptimizationProcedure forPulse Separation in Cross-correlation PIV.Experiments in Fluids,21(2):87-93,(1996).   \n[14] Doliglalski T.L.,Smith C.R.,WalkerJ.D.A.:Vortex Interactions with Walls,Annu.Rev.FluidMech.26.573-616. (1994). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

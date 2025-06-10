@@ -1,0 +1,148 @@
+术前颈椎CT值与颈前路术后邻近椎间隙高度变化的相关性研究
+
+10.12114/j.issn.1007-9572.2022.0631 凯依塞尔·阿布都克力木，李磊，杨晓凯，任军，刘帅
+
+基金项目：新疆维吾尔自治区自然科学基金资助项目（腰椎椎弓根、黄韧带、椎弓板，以及关节突的应用解剖学研  
+究以及CT影像学研究）（项目编号：2016D01C221)  
+830002，新疆乌鲁木齐市，新疆医科大学第六附属医院脊柱外科二病区  
+\*通讯作者：李磊(1979-),男,硕士，科主任，副主任医师,邮箱:docl188 $@$ 126.com
+
+【摘要】背景术前CT上以CT值（HounsfieldUnits，HU）测量的椎体骨密度可能与颈椎前路椎间盘切除融合术(anterior cervical discectomy and fusion，ACDF)后邻近节段高度丢失相关，目前有关CT值与 ACDF 术后的相关研究仍很少报道。目的探讨术前颈椎体CT值与术后上邻近间隙高度变化的关系。方法回顾性分析在新疆医科大学第六附属医院接受单节段 ACDF 治疗颈椎退行性病变的患者，收集包括术前颈椎CT、术后1周之内，以及末次随访至少12月颈椎X线片等资料。排除接受颈椎后路手术、颈部肿瘤、感染、创伤、结核或术前接受骨质疏松治疗的患者。测量并记录CT值，比较术后1周和末次随访时X线片，测量上邻近椎间隙高度。如末次随访时椎间隙高度去失超过原高度的 $2 0 \%$ ，则纳入A组，否则纳入B组。结果符合纳入标准的86例患者中，两组患者在年龄、性别、平均随访时间、BMI上无显著性差异。A组的CT值 $( ~ 3 1 3 . 6 4 \pm ~ 1 9 . 8 4 , \mathrm { n } \mathrm { = } 1 5 )$ 明显低于B组 $( 3 4 9 . 4 2 \pm 3 2 . 8 5$ $\scriptstyle \mathrm { n = 7 1 }$ ， $\scriptstyle \mathbf { P < } 0 . 0 1 { \dot { ] } }$ )。CT值与上邻近椎间隙高度丢失呈负相关(皮尔逊系数为-0.844， $\scriptstyle \mathbf { P < } 0 . 0 1 \rangle$ 。根据受试者工作特征曲线(ROC曲线)，曲线下面积为0.830，CT值的最适阈值为329.17，(敏感度 $71 . 8 \%$ ，特异度 $8 6 . 7 \%$ 。术前较低的CT 值是 ACDF术后上邻近间隙高度丢失，即术后早期椎间隙退变的危险因素(二元Logistic 回归， $\scriptstyle \mathbf { P < } 0 . 0 5 )$ 。结论单节段 ACDF 患者术前较低的CT值与术后邻近节段高度丢失有关。术前标准化的CT值测量有助于预测 ACDF 术后邻近节段退变。
+
+【关键词】颈椎病；颈前路椎间盘切除融合术；CT值；椎间隙高度；邻近节段退变;
+
+【中图分类号】： $\mathrm { R } 6 8 1 . 5 \substack { + 3 }$
+
+# Significance of cervical spine computed tomography Hounsfield Units to predict change of adjacent segment height after Anterior Cervical Discectomy and Fusion Kaiyisaier ·Abudukelimu,LILei,YANGxiao-kai,RENjun,LIUshuai
+
+Ward I,epartmentofSpineSurgerythSixthAflatedHospitalofXijiangMedicalUniversity，Urumqi，Cina \*Correspondinguthors:LiLei(979-),M.S.,ChiefofDepartment,AssociatehiefPhysician,E-mail:dcll8@6.com 【Abstract】BackgroundBone density,as preoperative measured in Hounsfield units (HUs)on CT,maybeassociated with Los of adjacent segment height after anterior cervical discectomy andfusion（ACDF），Studies relating CTvalues t( postoperative complications ofACDF are stillrarely reported.ObjectiveThis study evaluated theassociation between HUs and change of upper adjacent segment height after ACDF.MethodsAretrospective study of patientstreated with single-level ACDF at the Sixth Afiliated Hospitalof Xinjiang Medical University was performed.Preoperative CTand X-raydata at least 12 months after follow-up were colected.Patients with posterior surgery, tumor,trauma，deformity, infection or osteoporosis treatment were excluded .HU values were measured according to previously published methods.Changes in upper adjacent segmental height were measured at 1-year follow-up compared with immediate postoperative radiographs .Patients were divided into groups Aand B according to the height loss of intervertebral space exceeded $20 \%$ of the original height.ResultA total of 86 patients met inclusion criteria. There was no significant difference in age,sex,the average follow-up time and BMI between two groups. Mean HU values in the A group $( 3 1 3 . 6 4 \pm$ 19.84, $\mathtt { n } = 1 5$ ） were significantly lower than B group ( $( 3 4 9 . 4 2 \pm 3 2 . 8 5$ ${ \bf n } = 7 1$ $\mathbf { p } < 0 . 0 1 \cdot$ ). There was a negative correlation between the HU values and upper adjacent segmental height loss (Pearson’ s coefficient $- 0 . 8 4 4$ ， $\mathrm { \ p { < } } 0 . 0 1 \$ ). Using receiver operating characteristic curves,the area under the curve was0.830,and the most appropriate threshold ofHU value was 329.17(sensitivity $7 1 . 8 \%$ , specificity $8 6 . 7 \%$ ). A preoperative lower HU is a risk factor for postoperative loss of adjacent segment height(binary logistic regression, $\mathfrak { p } < 0 . 0 5 \mathrm { ) }$ . ConclusionsLower preoperative CT HU values are associated with los of adjacent segment height after single-level ACDF.Preoperative measurement of HUs may be useful in predicting Adjacent segment degeneration（ASD）after ACDF.
+
+【Keywords】Cervical spondylosis；Anteriorcervical discectomyand fusion；Hounsfield units；Disc height；Adjacent segment degeneration
+
+前言
+
+自从1958 年颈椎前路椎间盘切除融合术(anterior cervical discectomy and fusion,ACDF)被 Smith 和Robinson首次提出以来，逐渐地成为治疗多种颈椎退行性疾病标准术式，其有效性及安全性得到了广泛的认可[21[5][8]。其目的是对压迫的脊髓、神经根进行减压，通过恢复椎间隙高度和正常的生理曲度，使相应的节段维持长期的稳定。邻近节段退变（adjacent segment degeneration,ASD）是ACDF术后远期严重并发症之一，主要表现是邻近椎间隙退变，即椎间盘变形、突出，椎间隙变窄，骨赘形成，邻近椎体的不稳，甚至滑移等[5]错误!未找到引用源。，部分有神经功能障碍的 ASD 患者需行手术治疗，严重影响术后疗效[2]。
+
+骨密度是影响脊柱术后疗效的重要因素之—3][2[2]。，定量计算机断层扫描(QualityControlTechnology，QCT)和双能X射线吸收法(Dual-emission X-ray Absorptiometry,DXA)是目前量化骨密度的代表性方法。尽管在髋部或腰椎DXA 是最常用的检测方法[3][4]，但在椎体压缩性骨折、血管钙化、椎体退行性病变等患者中误差较大，其结果不如QCT可靠。由于QCT辐射量较大，临床上实际应用较少。有研究表明，不仅是腰椎，颈椎椎体CT值（HounsfieldUnits，HU）也与 T值之间存在密切的关系，可在一定程度上反映椎体骨密度[21][22]。术前常规CT检查中测量椎体CT值不仅可以减少叠加效应，并间接反映骨密度，还可能对患者术后有一定的预测作用。目前为止，国内外有关ACDF 术前CT值与术后邻近间隙高度变化的研究尚无报道。故本研究探讨术前CT值与上邻近椎间隙高度丢失值之间的关系，现报告如下。
+
+# 1资料与方法
+
+1.1一般资料回顾性分析 2017年1月至2021年1月在新疆医科大学第六附属医院明确诊断为脊髓型或神经根型颈椎病，并接受单节段ACDF术治疗的86 例患者术前以及随访资料。
+
+1.1。1纳入标准：(1)明确诊断脊髓型或神经根性颈椎病并接受单节段 ACDF 前路钛板固定，聚醚醚酮(PEEKCage)或植骨融合的患者。(2)既往颈椎无前路或后路手术史。(3)术前三维CT扫描、术后1周之内、术后末次随访至少12月，且随访资料齐全患者。
+
+1.1.2排除标准：(1)颈椎感染、使用零切迹融合器的患者、颈椎肿瘤、外伤、颈椎结核。(2)术前诊断为骨质疏松症，并接受抗骨质疏松药物治疗的患者。(3)术前邻近间隙存在严重的退行性改变的患者。(4)融合器或钛板位置欠佳，术后有切口感染等严重并发症的患者。
+
+1.1.3手术方法所有患者均采用标准 Smith-Robinson颈前入路术式，透视下确认责任间隙后进行椎间盘切除术，通过切除后纵韧带及增生的骨赘，使受压的脊髓和神经根获得充分的减压。去除椎间上、下的软骨终板，选择适合大小的椎间融合器，钛板固定。透视确认后，放置引流，无菌敷料包扎。并根据术后状况，术后3d佩戴颈托下床活动。术后一周视切口状况予以拆线。出院后所有患者均佩戴颈托3个月，并定期门诊复查。
+
+1.2研究方法将术后1周之内与末次随访时的侧位X线片进行对比，测量融合节段上邻近椎间隙高度。若末次随访时的椎间隙高度丢失值超过术后1周时测量值的 $2 0 \%$ ，则纳入A组，如果小于 $2 0 \%$ ，则纳入B组。根据术前 CT 资料测量每一位患者上邻近间隙头侧和尾侧椎体CT值，取其平均值进行两组间比较，并与椎间隙高度丢失值进行相关性分析。
+
+# 1.3 评价指标
+
+1.3.1上邻近椎间隙高度测量融合节段上邻近椎间隙的前、中、后高度（见 注：颈椎侧位X线上测量上邻近椎间隙AIH、MIH、PIH，计算其平均值
+
+图1）。上、下终板最前点间的距离为椎间隙前高度(anterior intervertebral height，AIH)。椎间隙中高度定义为(Middle intervertebral height，MIH)上、下终板中点间的距离。椎间隙后高度(posterior intervertebral height，PIH)为上、下终板最后点间的距离。计算其平均值作为上邻近间隙高度。
+
+1.3.2CT值用标准图像存档软件（Senyint PACS workstation，ver2.0心医国际数字医疗系统（中国）有限公司）测量每一位患者，包括上邻近间隙头侧和尾侧椎体上终板正下方（刚好不包括上终板的一层）、椎体中央、下终板正上方的总共6个CT值，并取其平均值。横断面松质骨内圈定的尽量大的椭圆形敏感区(ROI）不包括皮质骨，以及骨岛、空洞、静脉窦等骨质异常区（见注：在CT矢状面重建图的3个横断面椎体中央松质骨内圈定尽量大的敏感区(ROI），并计算其平均值
+
+图2）。所有患者术前CT资料均由新疆医科大学第六附属医院影像中心CT设备（Definition Flash双源CT，西门子，德国，管电压为 $1 2 0 \mathrm { k V p }$ ）扫描获得。每一椎体的CT 值由（Senyint PACSworkstation）计算所得。
+
+![](images/a5cbc2bac4dac6f6bf24a9d259ce51fb61e6047ad993a8040286655be6dee115.jpg)
+
+注：颈椎侧位X线上测量上邻近椎间隙AIH、MIH、PIH，计算其平均值  
+图1上邻近间  
+隙高度的测量  
+Figure1  
+Measurement  
+method of upper  
+adjacent segmentheight.注：在CT矢状面重建图的3个横断面椎体中央松质骨内圈定尽量大的敏感区（ROI），并计算其平均值  
+图2CT值的测量  
+Figure2The measurement ofHU values.
+
+1.4统计学方法平均值用均数±标准差（ $\bf { \sigma } _ { X \pm s }$ ）表示。计量资料组间比较时采用独立样本t检验，计数资料比较时采用 $\chi 2$ 卡方检验。用 Pearson 相关分析来检验CT值与上邻近节段高度丢失值是否相关，并计算受试者工作特征(ROC)曲线。此外，进行二元logistic 回归分析，以确定CT值是否是术后上邻近间隙退变的危险因素。以组内相关系数（ICC） ${ \geqslant } 0 . 8$ 为标准，在单一测量者的两次测量值之间和两位测量者的单次测量值之间行一致性检验。所有统计分析使用 IBM SPSS Statistics (version 26,IBMCorp.)处理，P值 $< 0 . 0 5$ 认为存在显著性差异。
+
+# 2结果
+
+2.1一般资料86例患者术前均行CT扫描，术后1周内，以及随访至少1年，平均（ $1 2 . 4 5 \pm 1 . 5 1 )$ 月摄片。86例患者中，15例患者纳入A组，71例纳入B组。两组在年龄、性别、随访时间和BMI方面无显著性差异（见表1)。A组的平均CT值为 $3 1 3 . 6 4 \pm 1 9 . 8 4$ （ $9 5 \%$ 置信区间（CI）为 $3 0 2 . 6 6 { \sim } 3 2 4 . 6 3 )$ ，显著低于B组平均CT值 $3 4 9 . 4 2 \pm 3 2 . 8 5$ ，$( 9 5 \% \mathrm { { C I } ~ 3 4 1 . 6 4 ~ \tilde { ~ } 3 5 7 . 2 0 }$ ， $\scriptstyle \mathbf { P = } 0 . 0 1$ ，t检验，见
+
+图3)。
+
+2.2CT 值与椎间隙高度丢失值关系分析术前上邻近间隙头、尾侧椎体HU 均值 $\scriptstyle ( \ n = 8 6$ ，Shapiro-Wilk 检验，$\scriptstyle \mathbf { P = } 0 . 3 3 2 )$ 和术后上邻近椎间隙高度丢失值( $\scriptstyle \overbrace { \mathbf { n } \mathrm { = } } 8 6$ ，Shapiro-Wilk 检验， $\scriptstyle \mathrm { P = 0 } . 1 6 1 ,$ )均符合近似正态分布。经Pearson 相关系数检验，术前CT值与术后上邻近间隙高度丢失呈显著负相关 $\scriptstyle ( \mathrm { r } = - 0 . 8 4 4$ ， $\scriptstyle \mathrm { P = } 0 . 0 0 1$ ，见图4)。建立了CT值预测上邻近间隙退变的ROC 曲线，AUC为为0.830( $9 5 \% C \mathrm { I }$ 为0.732-0.928，见图5)。由约登指数确定的最佳CT值为329.17，其灵敏度为 $7 1 . 8 \%$ ，特异度为 $8 6 . 7 \%$ 。进一步的CT值交叉列表显示，与CT值大于329.17的患者相比，CT值小于329.17的患者术后1年内更有可能丢失上邻近间隙高度的 $2 0 \% ( \mathrm { P = } 0 . 0 0 1$ ，见表1)。另外在对年龄、性别、体重指数（BMI）和椎体HU均值进行二元Logistic回归分析后，发现只有较低的CT值是邻近间隙退变的危险因素中 $\scriptstyle \mathrm { \mathrm { P = } } 0 . 0 0 1$ ， $\mathrm { O R } { = } 1 . 0 5$ ， $9 5 \% \mathrm { C I }$ 为 $1 . 0 2 { \sim } 1 . 0 8 )$ 。
+
+表1两组的比较 Table1Comparison of two group   
+
+<html><body><table><tr><td></td><td>A组</td><td>B组</td><td>总数</td><td>P值</td></tr><tr><td>患者数（%）</td><td>15</td><td>71</td><td>86</td><td>1</td></tr><tr><td>年龄</td><td>54.27±4.08</td><td>53.93±6.72</td><td>53.99±6.40</td><td>0.184</td></tr><tr><td>男性</td><td>8</td><td>33</td><td>41</td><td></td></tr><tr><td>女性</td><td>7</td><td>38</td><td>45</td><td>0.667</td></tr></table></body></html>
+
+<html><body><table><tr><td>体重指数（BMI ±SD,kg/m2）</td><td>24.17±1.14</td><td>24.00±1.13</td><td>24.02±1.17</td><td>0.627</td></tr><tr><td>平均随访时间（月）</td><td>13.03±1.47</td><td>12.33±1.50</td><td>12.45±1.51</td><td>0.547</td></tr><tr><td>CT值±标准差</td><td>313.64±19.84</td><td>349.42±32.85a</td><td>343.18±33.76</td><td>0.001</td></tr><tr><td>95%CI置信区间</td><td>302.66~324.63</td><td>341.64~357.20a</td><td>335.94~350.92</td><td>0.001</td></tr><tr><td>椎体CT均值>329.17</td><td>2</td><td>51</td><td>53</td><td>0.001</td></tr><tr><td>≤329.17</td><td>13</td><td>20</td><td>33</td><td></td></tr><tr><td>上邻近椎间隙平高度均丢失值</td><td>1.11±0.15</td><td>0.56±0.24</td><td>0.66±0.31</td><td></td></tr><tr><td>95%CI置信区间</td><td>1.03~1.19</td><td>0.51~0.62</td><td>0.59~0.72</td><td></td></tr><tr><td>手术节段（C4/5,C5/6,C6,7)</td><td>3/8/4</td><td>9/37/25</td><td>12/45/29</td><td></td></tr></table></body></html>
+
+注：a表示与A组相比， $\mathrm { P } { < } 0 . 0 5$
+
+![](images/6c854292fce7f546e6df56bb5ebfc06967972c0a166406428c8883e7427f8b38.jpg)  
+图3比较两组术前椎体平均CT值箱形图 Figure3Graph comparing mean segmental HU values between two groups
+
+![](images/4a03dcb2a9bbd3391fc5a1a5cc4fdac70b955080715ecfb0f4fbcf638fe82866.jpg)  
+图4椎体CT值与上邻近椎间隙高度丢失的散点图，（皮尔逊相关系数为-0.844， $\mathrm { P } { < } 0 . 0 0 1$ ）
+
+![](images/74bc8702878cb0e5424d724ac140ca7cae59b038e0ded72ee3917a16824f7d89.jpg)  
+Figure4Correlation plot of segmental HUvalues and segmental height loss.（Pearson'scorrelation coefficient was- $0 . 8 8 4 , \mathrm { P } { < } 0 . 0 0 1 \$ ）  
+注：ROC曲线 $\ c =$ 受试者工作特征曲线 图5ROC 曲线示ACDF术后上邻近间隙退 变与CT值的敏感性和特异性。AUC为0.830 Figure5The ROC curve shows the sensitivity and specificity of the upper adjacent height regression after ACDF with respect to HU values.theAUCwas0.830.
+
+ChinaXiv合作期刊
+
+![](images/e28238db8ee71f9898ce691c7b2643d528126ed39d7644dea3118c7e27753dec.jpg)  
+图6典型病例 Figure6 Typical case
+
+注：患者女、49 岁，因脊髓型颈椎病行C5\6 节段 ACDF 术。术前 C4 和 C5 椎体总的平均CT 值为：$( 3 3 1 + 3 3 3 + 3 5 7 + 2 9 1 + 2 8 3 + 3 4 1 )$ ） $/ 6 { = } 3 2 2 . 6 7 \mathrm { H U }$ 。X 线片为术后第三天（左）和术后12月（右），上邻近间隙高度丢失值为： $6 . 1 5 { - } 5 . 6 5 { = } 1 . 5 0 \mathrm { m m }$ 。因高度丢失超过原高度的 $2 0 \%$ ，故该患者纳入了A组。
+
+# 3讨论
+
+有症状 ASD 也称邻椎病。包括 34,716 名脊柱术后患者有关 ASD 发病率的 meta 分析报告，颈椎术后影像学ASD 和邻椎病的发生率分别为 $3 2 . 8 \%$ 和 $6 . 3 \%$ 错误!未找到引用源。。Lee $\mathrm { J } \mathrm { H } ^ { [ 5 ] }$ 等报道，邻椎病在颈椎融合术后5年以上的发病率可高达 $50 \%$ 。从目前研究来看，ASD 的发病机制尚无一致的定论。有关生物力学研究指出[6][9]，由于融合节段的活动大幅度减少，使邻近节段的应力过度集中，进一步代偿性增加其活动范围，从而引起原有矢状位平衡和生物力学的改变，这可能是ASD 加速发生的重要原因。也有研究者认为，术后 ASD 更是持续的自然退行性过程[10]。综合现有的研究观点，影响ASD发生的因素可能是除了和患者年龄、BMI、骨质疏松、术前是否已有相邻节段的退变、生理曲度异常（矢状位平衡参数）等患者本身因素以外，还可能与术中操作不当，如邻椎解剖的过度破坏、手术间隙撑开过大、钛板位置欠佳（钛板上或下缘距邻近椎间盘的距离 $< 5 \mathrm { { m m } }$ ，）和融合节段数量等有关[11][13][5]。
+
+至于ASD的影像学评估，目前仍无统一的标准，但大部分文献除了参考颈椎X线外，还要评估颈椎MRI、颈椎动力位X线片等。既往研究报道[14]，MRI上评估的早期颈椎间盘退变，即髓核信号强度的改变与X线上颈椎间盘高度的丢失有显著的相关性，即对于尚未发生退变的邻近间隙而言，X线片上早期椎间隙高度的丢失可在一定程度上准确反映椎间盘的退变。考虑大多数患者随访时只复查X线片，故本研究仅评估了X线片上的邻近间隙变窄程度，以反映椎间隙退变。
+
+相关研究中，部分作者把邻近椎间隙高度丢失值 $\geqslant$ 原高度的 $3 0 \%$ [15]或≥ $2 5 \% ^ { \left[ 1 6 \right] }$ 作为影像学评估 ASD 的重要条件之一，而本研究中，我们把邻椎间隙高度丢失值是否大于原高度的 $2 0 \%$ 作为分组标准，以确保有足够的样本量进行对比，从而进一步得出对 ASD 的进展更为敏感的CT阈值。相关研究指出，融合术使邻近节段的运动负荷增大，尤其是对上邻近节段应力作用更明显，从而使 ASD 在上邻近节段更容易发生[17][1]。此外，手术节段为C6-7的部分患者，X线片难以评估下邻近间隙，为了减少测量误差，本研究仅对上邻近节段进行了评估。
+
+骨密度是影响脊柱术后的重要因素之一，KwokA[19等对395例老年人群研究后发现，腰椎骨密度越低，椎体和椎间盘体积下降趋势更明显。HaradaA[20]等对 86名绝经后妇女影像学腰椎间盘退变程度与腰椎骨密度行相关性分析后提出，骨密度与椎间盘退变呈负相关。关于骨密度的测量，DXA 因结果可靠、使用简便、辐射剂量低等优点被认为是诊断骨量减少或骨质疏松的最佳方法。但其结果可能受到骨骼大小、体重指数、血管钙化、退行性改变和既往脊柱手术史等的影响[21,错误!未找到引用源。，使检查结果与真实值存在一定的误差。然而 DXA不是颈椎体骨密度的常规检测方法。使用DXA 测量包括第一胸椎在内的整个颈椎在技术上具有挑战性。此外，与腰椎相比，颈椎没有可接受的骨密度阈值。相关研究表明，不仅是腰椎，颈椎椎体CT（HU）值也与T值之间存在密切的关系[21][23],即CT 值在一定程度上可以准确的反映椎体骨密度。此外，CT在重度脊柱侧弯患者中没有禁忌症，不受椎体退行性变、压缩性骨折、血管钙化等的影响，并且CT值的获取简便，患者无需再进行额外的检查。因此可作为较好的替代方法。由于HU 测量的数值范围远大于DXA(T值)范围，因此更准确的反映椎体骨密度。
+
+然而 CT 值的标准测量目前仍没有一个普遍接受的方法。Schreiber[24]等最先提出了腰椎 CT值的测量方法，并指出在观察者的多次测量和观察者间的单侧测量间的组内相关系数（ICC）分别高达0.964 和0.975。这良好的一致性也在别的研究中得到了证实[25[26]。本研究也对测量结果进行了一致性检验，结果示 ICC均 ${ \geqslant } 0 . 8 5$ 。其次，此方法不仅相对简便，而且椎体单个轴位上测量的CT值与三个轴位上测量的平均CT值一样可靠[26]。虽然颈椎体积比腰椎小，但并不影响平行而不包括终板的多个轴位中测量CT值。然而颈椎矢状位、冠状位重建面上获得的CT值更有可能包含终板在内的硬化骨赘或 Schmorl结节等结构。这将错误地抬高CT值。因此，为了尽量减少测量误差，本研究选择椎体矢状面重建上的3个横断面上获取CT值，取其平均值作为椎体的CT值。在CT值与脊柱术后的研究中，ODemir[28]等通过对16名腰椎融合术后患者术前与术后1年CT值进行比较后发现，所有手术节段及邻近节段椎体CT值呈持续下降，并提出邻近节段椎体骨密度降低可能是ASD 发生的主要诱发因素之一。少数与颈椎术后研究中，Minghao Wang[2]等通过对91名接受单节段ACDF 患者的术前CT值与1年后融合节段高度丢失进行相关性研究后发现，融合节段上下椎体CT值小于343.7与融合器下沉有关。同样，本研究发现术前CT值与术后上邻近节段高度丢失呈显著负相关，此外，术前上邻近节段头、尾侧椎体CT值小于329.17时，术后一年更容易丢失椎间隙原高度的 $2 0 \%$ 或以上。
+
+总之，单节段ACDF患者术前较低的CT值与术后邻近节段高度丢失有关。标准化的CT值测量有助于预测ACDF术后ASD等并发症。术后邻近间隙高度丢失除了与术前CT值以外，还可能与术后随访时的CT值相关，根据CT阈值大小，术前或术后给予抗骨质疏松等治疗可能有助于减少术后ASD 等并发症，待进一步研究。
+
+本研究的局限性不容忽视，为了正确评估邻近椎间隙退变情况，长期的随访、MRI等检查是必不可少的，本研究仅采用X线片来评估椎间隙高度丢失可能不够充分。因本研究仅对上邻近间隙进行了评估，椎间隙高度丢失病例较少，可能对结果有影响。
+
+4.作者贡献：凯依塞尔·阿布都克力木、李磊等进行文章的构思、设计、实施、收集并整理数据、撰写论文；杨晓凯进行数据收集和统计学处理；任军、刘师进行数据质量控制；李磊进行论文的修订、对文章整体负责，监督管理。
+
+本文不存在任何利益冲突
+
+#
+
+参考文献   
+[1]SMITHGW,ROBINSONRA.The treatmentofcertain cervical-spine disorders byanteriorremovalof the intervertebral disc and interbody fusion.JBone Joint Surg Am.1958 Jun;40-A(3):607-24.DOI: 10.1007/978-1-4471-5451-8_72   
+[2]詹碧水,蒋雪生,周国顺等.颈前路融合术后相邻节段病诊治分析[J].临床骨科杂志,2018,21(04):385-390.DOI: 10.3969/j.issn.1008-0287.2018.04.001   
+[3]Mi J,Li K, Zhao X,etal.Vertebral Body CompressveStrength Evaluated byDual-Energy X-RayAbsorptiometryand Hounsfield Units In Vitro.JClin Densitom.2018Jan-Mar;21(1):148-153.DOI: 10.1016/j.jocd.2016.08.011   
+[4]LofflerMT,JacobA,ValentinitschA,etal.Improved predictionoficident vertebral fractures usingopportunistic QCT compared to DXA. Eur Radiol. 2019;29:4980 - 4989.DOI: 10.1007/s00330-019-06018-w   
+[5]Lee JH,Lee JH,Le SH.Clinical and Radiologic Findings AfterMultilevel Cervical Total Disk Replacement: Defining Radiologic Changes to Predict Surgical Outcomes[J]. World Neurosurgery, 2017,100:273-279.DOI: 10.1016/j.wneu .2017.01.030   
+[6]Xia XP, Chen HL, Cheng HB.Prevalence ofadjacent segment degeneration after spine surgery: a systematic review and meta-analysis. Spine (Phila Pa 1976).2013 Apr 1;38(7):597-608.DOI: 10.1097/BRS.0b013e318273a2ea   
+[7]Hou Y,Liu Y,Yuan W,etal.Cervical kinematicsandradiological changesafterDiscover artificialdiscreplacement versus fusion. Spine J. 2014 Jun 1;14(6):867-77. DOI: 10.1016/j.spinee.2013.07.432   
+[8]宋燕美,赵改平,李鹏祥.ROI-C 椎间融合器植入对颈椎生物力学的影响[J].医用生物力学,2018,33(02):114-120. DOI: 10.16156/j.1004-7220.2018.02.004   
+[9]Elsawaf A,Mastronardi L,RopertoR,et al. Efect of cervical dynamics onadjacent segment degenerationafter anterior cervical fusion withcages[J].Neurosurgical Review,209,32(2):215-224.DOI:10.1007/s10143-008-0164-2   
+[10]LundT,Oxland TR.Adjacent Level Disk Disease-Is it Realla Fusion Disease?[J]. Orthopedic Clinics of North America, 2011, 42(4):529-41, viii.DOI: 10.1016/j.0cl.2011.07.006   
+[11]石国佳，谭均，程方东．颈椎前路椎间盘切除融合治疗脊髓型颈椎病后邻近节段退变的预测因素分析[J]．颈 腰痛杂志，2020,041(001):104-106.DOI: CNKI:SUN:JYTZ.0.2020-01-033   
+[12]Basques BA, Khan JM,Louie PK,et al. Obesity does not impact clinical outcome but affects cervical sagittal alignment and adjacent segment degeneration in short term follow-up after an anterior cervical decompresson and fusion. Spine J.2019 Jul;19(7):1146-1153.DOI: 10.1016/j.spinee.2019.02.016 ChinaXiv合作期刊   
+[13]Alhashash,Mohamed, Shousha, et al.Adjacent Segment Disease After Cervical Spine Fusion Evaluation of a 70 Patient Long-Term Follow-Up[J]. Spine,2018,43(9):605-609.DOI: 10.1097/BRS.0000000000002377   
+[14]KolstadF,MyhrG, Kvistad KA,etal.Degenerationand height ofcervical discs clasified fromMRIcompared with precise height measurements from radiographs. Eur JRadiol.2005 Sep;55(3):415-20.DOI: 10.1016/j.ejrad. 2005.02.005   
+[15]Abudouaini H,Liu H, Huang C,etal.EfectofChanges inPostoperative Intervertebral Space Height on Clinical and Radiological Outcomes After Cervical Disc Replacement. World Neurosurg. 2021 Jan;145:e61-e67.DOI: 10.1016/j .wneu.2020.09.069   
+[16]Goffin J,Geusens E,Vantomme N,etal.Long-term follow-upafter interbody fusionofthe cervical spine.JSpinal Disord Tech.2004 Apr;17(2):79-85.DOI: 10.1097/00024720-200404000-00001   
+[17]杨晋才,海涌,裴葆青,等.颈前路融合节段数对上位邻近节段影响的生物力学研究[J].中华外科杂志，2014, 52(9):692-696.DOI: 10.3760/cma.j.issn.0529-5815.2014.09.014   
+[18]Bydon M,Xu R,Macki M,et al.Adjacent segment disease after anterior cervical discectomy and fusion in a large series.[J].Spine,2014,39(2):120-126.DOI: 10.1227/NEU.0000000000000204   
+[19]Kwok A,Wang Y,Grifith JF,etal.Morphological Changes ofLumbar Vertebral Bodies and Intervertebral Discs Associated With Decrease in Bone Mineral Density of the Spine[J].Spine,2012,37(23):E1415-E1421.DOI: 10.1097/ BRS.0b013e31826f561e   
+[20]Harada A, Okuizumi H, Miyagi N, et al. Correlation between bone mineral densityand intervertebral disc degeneration.[J]. Spine,1998,23(8):857-861.DOI: 10.1097/00007632-199804150-00003   
+[21]Colantonio DF, Saxena SK, Vanier A,et al. Cervical Spine Computed Tomography Hounsfield Units Accurately Predict Low Bone Mineral Density of the Femoral Neck. Clin Spine Surg. 2020 Mar;33(2):E58-E62.DOI: 10.1097/BSD.0000000000000879   
+[22]何磊,周非非,李舒扬,等.颈椎椎体CT值在颈椎退行性疾病手术病人术前骨质量评估中的应用研究[J]．骨科， 2019,10(4):5.DO1: 10.3969/j.issn.1674-8573.2019.04.007   
+[23]Lee HJ, You ST, Kim JH,etal. Significance ofCervical Spine Computed Tomography Hounsfield Units to Predict Bone Mineral Densityand the Subsidence After Anterior Cervical Discectomy and Fusion. Clin Spine Surg.2021 Oct 1;34(8):E450-E457. DOI: 10.1097/BSD.0000000000001218   
+[24]Schreiber JJ,Anderson PA, Hsu WK. Use ofcomputed tomography for assessing bone mineral density. Neurosurg Focus. 2014;37(1):E4. DOI: 10.3171/2014.5.FOCUS1483   
+[25]Gerety EL, Hopper MA,Bearcroft PW. The reliability of measuring the density of the L1 vertebral body on CT imaging as a predictor ofbone mineral density. Clin Radiol. 2017 Feb;72(2):177.e9-177.e15.DOI: 10.1016/ j.crad.2016.09.022   
+[26] Kim KJ, KimDH,Lee JI, etal. Hounsfieldunits on lumbar computed tomography for predicting regional bone mineral density[J]. Open Med(Wars),2019,14: 545-551.DOI: 10.1515/med-2019-0061   
+[27]Pickhardt PJ,Pooler BD,Lauder T, et al. Opportunistic screening for osteoporosis using abdominal computed tomography scans obtained for other indications. Ann Intern Med. 2013 Apr 16;158(8):588-95.DOI: 10.7326 /0003-4819-158-8-201304160-00003   
+[28]vO Demir,Oksuz,Erol,etal.Assssing the effctsoflumbar posterior stabilizationand fusion tovertebral bone density in stabilized and adjacent segments byusing Hounsfieldunit[J]. Journal ofSpine Surgery,2017,3(4):548- 553.DOI: 10.21037/jss.2017.09.05   
+[29]Wang M,Mummaneni PV,Xi Z,etal.Lower Hounsfield units on CTare associated with cage subsidence afteranterior cervical discectomy and fusion. JNeurosurg Spine. 2020 Jun 5:1-8.DOI: 10.3171/2020.3.SPINE2035

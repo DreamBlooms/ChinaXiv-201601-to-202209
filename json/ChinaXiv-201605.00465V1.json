@@ -1,0 +1,526 @@
+[
+    {
+        "type": "text",
+        "text": "Co-expression of the protease furin in Nicotiana benthamiana leads to efficient processing of latent transforming growth factor-β1 into a biologically active protein ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ruud H.P.Wilbers\\*,Lote B.Westerhof, Debbie R.van Raij, Marloes van Adrichem, Andreas D. Prakasa, Jose L.Lozano-Torres, Jaap Bakker,Geert Smant and Arjen Schots ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LaboratoryofematologyPlantiencesDepartmentWageningenUniversityandResearchCentre,Wageingenthrlads ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received25September2015;   \nrevised 16 December2015;   \naccepted 19 December 2015.   \n\\*Correspondence (Tel +31(0)317485261;   \nfax $+ 3 1$ (0)317484254;email ruud.   \nwilbers@wur.nl) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Nicotiana benthamiana, transforming growth factor $\\beta 1$ ，signal peptide,furin,proteolytic processing, codon optimization. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Transforming growth factor beta (TGF- $_ { \\cdot \\beta ) }$ is a signalling molecule that plays a key role in developmental and immunological processes in mammals.Three TGF- $\\cdot \\beta$ isoforms exist in humans, and each isoform has unique therapeutic potential. Plants offer a platform for the production of recombinant proteins,which is cheap and easy to scale up and has a low risk of contamination with human pathogens.TGF- $_ { \\cdot \\beta 3 }$ has been produced in plants before using a chloroplast expression system. However,this strategy requires chemical refolding to obtain a biologically active protein.In this study,we investigated the posibility to transiently express active human TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ in Nicotiana benthamiana plants.We successfully expressed mature TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ in the absence of the latency-associated peptide (LAP) using different strategies,but the obtained proteins were inactive. Upon expression of LAP-TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ ,we were able to show that processing of the latent complex bya furin-like protease does not occur in planta.The use of a chitinase signal peptide enhanced the expression and secretion of LAP-TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ ,and co-expression of human furin enabled the proteolytic processing of latent TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ . Engineering the plant posttranslational machinery by co-expressing human furin also enhanced the accumulation of biologically active TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ .This engineering step is quite remarkable,as furin requires multiple processing steps and correct localization within the secretory pathway to become active.Our data demonstrate that plants can be a suitable platform for the production of complex proteins that rely on specific proteolytic processing. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Transforming growth factor beta (TGF-β)is a signalling molecule with crucial roles during early development and the regulation of immune responses in mammals.TGF $\\beta$ controls cellular processes, including cell proliferation,recognition,differentiation and apoptosis (Blobeet al.，2000;Li etal.，2006).Three different TGF- $\\cdot \\beta$ isoforms (TGF- $\\cdot \\beta 1$ ，TGF- $\\beta 2$ and TGF-β3) exist in humans,which are all encoded by a different gene (Govinden and Bhoola,2oo3).The TGF- $\\cdot \\beta$ genes encode prepro-TGF- $\\beta$ that consists of the signal peptide， latency-associated peptide (LAP) and mature TGF- $\\cdot \\beta$ protein.The signal peptide targets the protein to the endoplasmic reticulum (ER)where it is cleaved off.Pro-TGF- $\\beta$ forms homodimers and is further processedin the trans-Golgi by a furin protease.Proteolytic cleavage by this enzyme separates mature TGF- $\\cdot \\beta$ from LAP;however,both polypeptides stay noncovalently associated (Dubois et a/.,1995).This dimeric complex is called the small latency complex (SLC）and keeps mature TGF- $\\cdot \\beta$ inan inactive form.Upon secretion of the SLC，LAP binds to latent transforming growth factor binding protein (LTBP) in the extracellular matrix,resulting ina membrane-bound complex known as the large latency complex (LLC) (Annes et al.,2oo3).TGF- $\\beta$ is activated by either proteolytic degradation of LAP，reactive oxygen species (ROS),an acidic environment or interaction with integrin receptors (Annes et al.,2003).Active TGF- $\\beta$ isa dimeric protein of ${ \\sim } 2 5$ kDa wherein a disulphide bridge connects the two monomers.Each monomeralso has 4 internal disulphide bridges that create a cysteine knot structure (Archer et al.,1993;Daopin et al.,1992; Lin et al.,2006; Schlunegger and Grutter,1992). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The three TGF- $\\beta$ isoforms share high homology on amino acid level $( 7 0 - 8 0 \\%$ , considering mature TGF-β) and bind to the same receptors $( \\mathsf { T } \\beta \\mathsf { R } \\mathsf { I }$ and $\\mathsf { T } \\{ \\mathsf { \\beta } \\mathsf { R } \\mathsf { I } \\mathsf { I } ,$ .However，the three isoforms have distinct functions.It is unclear whether these distinct functions arecaused bydifferences in receptor bindingaffinity or because the isoforms are further regulated by controlled expression in time,place or cell type.Another possibility is that activity can be controlled by different activation mechanisms.For instance,TGF$\\beta 1$ and TGF- $_ { \\cdot \\beta 3 }$ can be activated via the interaction with integrin receptors,while TGF- $\\lvert \\beta 2$ cannot (Ludbrook et al.,2003).TGF $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ is best known for its potent immunoregulatory functions,whereas TGF- $_ { \\cdot \\beta 2 }$ and TGF-β3 play key roles during early embryonic development. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "From a pharmaceutical point of view,all three TGF $\\cdot \\beta$ isoforms havepotential therapeutic applications.TGF- $\\cdot \\beta 1$ maintains immune homeostasis by controlling lymphocyte proliferation, differentiation and survival,but also inhibits the maturation and activation of antigen presenting cells (Geissmann et al.，1999; Takeuchi et al.，1998)．Also，TGF $\\beta 1$ plays a key role in the differentiation of regulatory T cells (Tregs),a population of T cells that strongly suppresses immune responses (Chen et al.,2003). Thus，TGF- $\\beta 1$ might be used as a remedy for patients with (chronic) inflammatory diseases,likearthritis,inflammatory bowel disease and multiple sclerosis.However,in the presence of the pro-inflammatory cytokines IL-4 or IL-6，TGF- $\\cdot \\beta \\lambda$ gives rise to populations of T helper cells that can promote inflammation (Th9 and Th17 cells，respectively)(Dardalhon et al.，2oo8;Veldhoen et al.，2006，2008).TGF-β2 also plays a role in controlling the immune system by inducing oral tolerance and suppressing immune responses.Next to that,TGF-β2 inhibits growth of intestinal epithelial cellsand promotestheirdifferentiation. Therefore，TGF- $\\lvert \\beta 2 \\rvert$ might be effective in treating inflammatory bowel diseases (Oz et al.,2004).A disadvantage of TGF- $\\cdot \\beta 1$ and TGF-β2 is the strong fibrotic response they can elicit.TGF- $\\beta 3$ on the other hand does not induce fibrosis and therefore hasa therapeutic application in scar-free wound healing (O'Kane and Ferguson,1997). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For large-scale production of recombinant TGF- $\\cdot \\mathrm { \\{ \\} } ,$ asuitable expression system is required.TGF $\\cdot \\beta$ has been heterologously expressed in bacterial,insect and mammalian expression systems, but expression of TGF- $\\cdot \\beta$ in large quantities seems difficult (Zou and Sun,2004).TGF- $\\beta$ is improperly folded when using bacterial expression systems and requires chemical refolding.Mammalian expression systemshave a low yield and require multistep purification procedures (Zou and Sun，2oo6)．In the last two decades,plants have emerged asan alternative expression system for the production of recombinant proteins.As eukaryotes,plants are capable of correctly folding complex proteins and perform post-translational modifications, like N-glycosylation.Plants are relativelycheap compared with other expression systemsand are easy to scale up.One additional advantage for the production of immunoregulatory proteins in plants is that plants do not harbour human pathogens and therefore could be regarded as more safe. Recently,TGF-β3 has been produced in chloroplasts of Nicotiana tabacum (Gisby et al.，2011).A synthetic gene was used for chloroplast transformationand yielded up to3 mg TGF- $\\beta 3$ per 80 grams of fresh tobacco leaves( $3 7 . 5 ~ \\mu \\ g / \\ g$ leaf).However,because TGF- ${ } \\cdot \\{ \\beta 3 \\$ was expressed in chloroplasts, the protein was not folded correctly due to the many cysteine bridges required for the cysteine knot structure in TGF- $\\cdot \\beta$ .Plant-produced TGF- $\\cdot \\beta 3$ therefore had to be chemically refolded upon purification，thereby losing the plants'economical advantage over bacterial expression systems. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study，we investigated the possibility to express active TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ in Nicotiana benthamiana plants without the need for chemical refolding.In a first attempt,we expressed the latent LAP-TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ complex and show that a furin-like cleavage,which is required for therelease of mature TGF $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ ，does not occur in planta.We therefore continued employing a strategy wherein mature TGF- $\\cdot \\beta 1$ was expressed in the absence of LAP，but unfortunately these proteins lacked activity.Accumulation of latent LAP-TGF- $\\beta 1$ was then enhanced to $1 4 0 \\mathrm { \\ n g / m g }$ total soluble protein $( { \\sim } 2 . 7 ~ \\mu \\mathrm { g / g }$ leaf）using a plant chitinase signal peptide and by co-expressing human furin.Co-expression of furin alsoenabled the correct post-translational processingof LAP-TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ and increased the accumulation of biologically active TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ in plant leaves. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Furin cleavage doesnot occurin Nicotiana benthamiana ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As LAP could play a role in the folding process of mature TGF- $\\cdot \\mathrm { \\{ \\} } ,$ we first expressed the complete open reading frame of human TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ in plants. Expression was achieved by agro-infiltration of leaves of N.benthamiana plants,and the yield in crude extracts wasdetermined on 2-5 dpi usinga sandwich ELiSA (Figure 1a). Crude extracts were analysed with and without acid activation, ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(a) (b) R5 EV LT （c） R5EVLT 30 25 250   \nT5sps 250 Multimers 150 20 150 100 山 100 ←LAP-TGF-β1dimer 75 15 7550 ←LAP-TGF-β1 5 ←LAP-TGF-B1 37 ←Non-specific 10   \n6u 25 25 5 15 15- 0 2 3 4 5 10- Days post infiltration 10 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "but this did not influence the detection of TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ (onlyacidactivated samples are shown in Figure 1a).Maximum yield was found on 3 dpi,reaching 20 ng TGF- $\\cdot \\beta 1 / \\mathsf { m g }$ TSP. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To investigate the conformation of LAP-TGF- $\\beta \\uparrow$ ，Western blot analysis was performed to detect mature TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ .Leaf extracts were prepared under neutral pH conditions or low pH conditions $\\left( \\mathsf { p } \\mathsf { H } = 3 \\right)$ ）tomimic acid activation of the latent TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ complex (Figure $\\mathsf { 1 b / c } ,$ .Asexpected，recombinant TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ from mammalian cells (R5)was detected at ${ \\sim } 1 2 . 5 ~ \\mathsf { k D a }$ ，but multimers were detected as well.LAP-TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ migrated at the expected size for latent LAP-TGF- $\\beta 1$ ，just below $5 0 ~ \\mathsf { k D a }$ .When extracted under neutral conditions,also bands at 1oo，15O and several bands $> 1 5 0 \\ \\mathsf { k D a }$ were detected，which most likely represent dimers and multimers of LAP-TGF $\\cdot \\beta 1$ .These multimers were not observed when LAP-TGF- $\\beta 1$ was extracted under acid conditions，which may be due to protein precipitation of large proteins under these conditions.Also a band just below $3 7 \\ k \\mathsf { D a }$ was detected in both blots,but this band was also present in the empty vector (EV) sample.This band is likely to be the result of cross-reactivity of the polyclonal TGF- $\\beta$ antibody with a plant protein as this antibody is able to recognize multiple epitopes of TGF- $\\cdot \\beta 1$ .Our ELiSA on the other hand is based on the capture anddetection of TGF- $\\beta \\tau$ with two different monoclonal antibodies,which makes it very unlikely that our ELISA detects this \\~37 kDa plant protein.Also,we have never observed crossreactivity with EV control samples.Most importantly,under both neutral and acid conditions mature TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ with an expected size of ${ \\sim } 1 2 . 5 ~ \\mathsf { k D a }$ was not detected.This indicates that a furin-type cleavage between LAP and TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ does not occur inplanta. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Mature TGF- $\\mathbf { \\beta } \\mathbf { \\beta } 1$ can be expressed without LAP,but results in necrosis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Asa furin-like cleavage did not occur in planta，TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ was expressed in the absence of the LAP sequence.A construct was created whereby mature TGF- $\\cdot \\beta 1$ was fused in frame with its native signal peptide (SP).To investigate whether the signal peptide resulted in adequate uptake into the endoplasmic reticulum (ER)，we fused GFP C-terminally to SP-TGF- $\\cdot \\beta 1$ and followed expression by confocal imaging (Figure 2a).Plants expressing SP-TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ -GFP at 3 dpi showed fluorescence in the nuclear envelope and the endoplasmic reticulum (ER).This indicates that the signal peptide was recognized and that the fusion protein was translocated into the ER. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Next,we assessed the effect of different strategies to boost the yield of mature TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ inplant leaves.Thereto,a C-terminal KDEL sequence to facilitate ER retention was added or codon use ofTGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ was optimized.The yield of mature TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ constructs in crude extracts was determined on 2-5 dpi using a sandwich ELISA (Figure 2b).Although the maximum yield of ER-retained TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ seems slightly higher (up to ${ \\sim } 6 0 ~ \\mathrm { \\ n g / m g }$ TSP)，no significant differences in maximum yield were observed between mature SP-TGF- $\\cdot \\beta 1$ constructs or With LAP-TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ .The yield of SP-TGF- $_ { \\cdot \\beta 1 }$ quickly drops after 3 dpi,which could be explained by the observation that mature TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ induces necrosis in plant leaves.Necrosis appeared as early as3 dpi for the codonoptimized SP-TGF- $\\beta 1$ and reached its maximum for all constructs at 5 dpi (see Figure 3a and 4b).Necrosis was never observed upon expression of LAP-TGF- $_ { \\cdot \\beta 1 }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "When analysing plant extracts by Western blot,several bands weredetected for SP-TGF $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ with and without KDEL.The bands of 12.5,25 and ${ > } 7 5$ kDa corresponded with the bands detected in the sample with recombinant human TGF- $\\beta 1$ (Figure 2c) and most likely represent monomers,dimers and multimers of TGF$\\beta 1$ .However，a band at $1 6 ~ \\mathsf { k D a }$ was also detected and may represent TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ with its signal peptide $( \\sim 3 \\ k \\mathsf { D } \\mathsf { a } )$ still attached. This would mean that although the signal peptide is recognized and enables protein uptake into the ER,it is not cleaved during translocation into the ER. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fcα-fusion of TGF- $\\mathbf { \\beta } \\mathbf { \\cdot } \\mathbf { \\{ \\beta \\} }$ enhances yield and prevents necrosis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Toincrease yield and circumvent improper signal peptide processing，we fused TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ to the C-terminus of a stable partner.The Fc portion of immunoglobulin alpha 1 (Fcα)，a natural dimer,was used asa fusion partnerallowing dimerization of TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ .This strategy was previously used to express human interleukin-10,which is also active as a dimer (Westerhof et al., 2012).In contrast to SP-TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ constructs,expression of Fcα- TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ didnot result innecrosisin leaves(Figure 3a), even though Fcα-TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ yield increased significantly as analysed in crude extracts at 2-5 dpi (Figure 3b). Fcα-TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ yield was \\~16-fold higher compared with SP-TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ ，reaching up to 338ngTGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 } / \\mathrm { m g }$ TSP on 3 dpi. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/eeb471fb6740caf3deae61bebfb8af6791e5254cb7155a7720da5ccf776fd3b6.jpg",
+        "img_caption": [
+            "Figure2 Analysis of mature TGF- $\\beta 1$ expresion in Nicotiana benthamiana.(a)Whole mount confocal microscopyoutput of GFP fused C-terminaly to TGF- $_ { \\cdot \\beta 1 }$ excludingLAPtdingiiveieptide(atdp.(beldofF-1,F--DELdpantodotiedin crude extractsat2-5 dpias determined by ELISA $\\overset { \\cdot } { \\boldsymbol { n } } = 3$ ,error bars indicate standard error). (c) Mature TGF- $\\cdot \\beta$ -specific Western blotanalysiswitha polyclonal antibody under reducing conditions of plant-produced SP-TGF- $\\beta 1$ (T) and SP-TGF- $\\beta 1$ -KDEL(Tk)at3 dpi.As controls,empty vector plant extract (EV)and 5 ng recombinant TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ (R5)were used.A molecular weight marker is indicating size in kDa. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e5225d0f2c40c86dbe985dfc6ff45456c3e74bc14a893de25e26d1a44bdd895.jpg",
+        "img_caption": [
+            "Figure3Aalfffesidcitsisditexps $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ and SP-TGF- $\\beta 1$ -KDEL,but not when fused to LAPor Fcα.(a) Leaf necrosis on 5 days postinfiltration of several TGF- $\\cdot \\beta 1$ Constructs.(b) Yield of SP-TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ and Fcα-TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ in crude extracts at 2-5 dpi as determined by ELISA $( n = 3$ error bars indicate standard error).Significant differences as determined by a Welch's t-test $( \\mathsf { P } < 0 . 0 5 ) ,$ between samples are indicated with an asterisk.(c) Biological activity of Fcα-TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ was determined by using MLEC cells containing a TGF- $\\beta 1$ -inducible luciferase reporter construct. Cels were treated with recombinant TGF- $\\cdot \\beta 1$ (rTGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ from mammalian cels) or plantproduced Fcα-TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ (from dpi 3),and luciferase expression was measured after overnight incubation. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Finally,biological activity of Fcα-TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ in crude plant extracts wasassessed in a cell-based assay using mink lung epithelial cells carryinga TGF- $\\cdot \\beta$ -responsive luciferase reporter gene that is activated upon binding to the TGF- $\\beta$ receptor. Unfortunately,Fcα- TGF- $\\beta 1$ was not able to induce luciferase expression in the reporter cell line (Figure 3c).We therefore conclude that Fcα fusion of TGF- $\\beta 1$ aids in stability of the protein,but the fusion protein lacks activity. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Improper signal peptide cleavage of TGF-β1 induces necrosis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Toinvestigate whether an alternative signal peptide would improve signal peptide processing and yield,a construct was created where mature TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ was fused in frame with the signal peptide of an Arabidopsis thaliana chitinase gene (cSP).The cSPTGF- $\\beta 1$ construct was used for agro-infiltration and analysed by Western blot (Figure 4a).In extracts of transformed leaves with cSP-TGF- $_ { \\cdot \\beta 1 }$ (cTpc)，a band was detected around ${ \\sim } 1 2 . 5 ~ \\mathsf { k D a }$ which corresponds with the size of recombinant TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ from mammalian cells.A band of ${ \\sim } 1 6 ~ \\mathsf { k D a }$ ，which resembles TGF- $\\beta 1$ withanuncleaved SP,wasnot detected this time.Wetherefore conclude that the A.thaliana chitinase signal peptide is properly cleaved.Besides the band for monomeric TGF- $\\beta 1$ ，several other bands representing dimeric and multimeric TGF- $\\beta 1$ were detected aswell,whereas bands for recombinant TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ (R5)and SP-TGFβ1pc(Tpc)are very faint.Next to that，cSP-TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ does not induce necrosis in N.benthamiana leaves from 3 dpi onwards (Figure 4b).We therefore also conclude that the improper processing of the signal peptide was responsible for the necrotic symptoms. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As the cSP-TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ construct does not induce necrosis,we used the silencing inhibitor p19 to further boost TGF- $\\cdot \\beta 1$ expression. The yield of cSP-TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ was determined in crude extracts at 5 dpi by sandwich ELISA.Figure $4 \\mathsf { c }$ reveals that the yield of cSP-TGF- $\\beta 1$ Was enhanced significantly by p19 when compared to SP-TGF- $\\beta 1$ ${ ' } P = 0 . 0 0 4 { \\mathrm { . } }$ ).Thisismost likelyexplainedbythe lack of necrosis due to the replacement of the signal peptide.However，the maximum yield of ${ \\sim } 5 0$ ng TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 } / \\mathrm { m g }$ TSP was not significantly higher as native SP-TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ -KDELat dpi 3 as shown in Figure 2b. With a yield of 50 ng/mg TSP,only 2.5 ng of TGF- $\\beta 1$ was loaded on gel for Western blot analysis (Figure 4a);however,the band intensity of cSP-TGF- $\\cdot \\beta 1$ is much stronger than the 5 ng recombinant TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ .Plant-expressed cSP-TGF- $\\lvert \\beta \\rvert$ could be folded incorrectly， thereby explaining thedifference in detection between ELISA and Western blot. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To test whether plant-produced mature TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ is active,crude extracts were applied in the TGF $\\beta$ -responsive luciferase reporter assay (Figure 4d). Recombinant human TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ from mammalian cells was able to induce the expression of luciferase in the reporter cells,even in the presence of plant proteins.Unfortunately,mature TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ from plants was not active.Thus,replacing the signal peptide of TGF- $\\cdot \\beta 1$ can prevent leaf necrosis,but this formof plant-produced mature TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ still lacks biological activity.It is therefore likely that mature TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ is not folded correctly in plants and might require LAP for proper folding. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Proteolytic processing of LAP-TGF $\\mathbf { \\beta } \\mathbf { \\cdot } \\mathbf { \\{ \\beta \\} }$ in plants requires co-expression of furin ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As mature TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ from plants lacks biological activity,we further investigated whether furin is required for the production of TGF$\\beta 1$ in plants.We first replaced the native signal peptide of LAPTGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ with the Arabidopsis chitinase signal peptide (cSP)and analysed the yield for both LAP-TGF- $\\beta 1$ constructs at 3,5 and 7 dpi while co-expressing the p19 silencing suppressor.The expression profile for both LAP-TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ constructs is given in Figure 5a.Replacing the native signal peptide with the chitinase signal peptide increased LAP-TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ yield4.5-fold ${ ' } P = 0 . 0 0 2 { \\mathrm { , } }$ . In a next experiment,we investigated the effect of co-expression of human furin． Figure 5b shows that co-expression offurin enhances the yield of both LAP-TGF- $\\beta 1$ constructs.Maximum yield of cSP-LAP-TGF- $\\beta 1$ was ${ \\sim } 1 4 0$ ng TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 } / \\mathrm { m g }$ TSP,which is 2.7-fold $\\mathrm { ' } P = 0 . 0 8 4 ,$ higher than without co-expression of furin. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Next,we performed a mature TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ -specific and LAP-specific Western blot to analyse the post-translational processing of LAPTGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ by furin.Under nonreducing conditions,LAP-TGF- $\\cdot \\beta 1$ is detected asa band just above $1 0 0 ~ \\mathsf { k D a }$ with both antibodies, which is the expected size for the latent LAP-TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ homodimer (Figure 5c;first and fourth panel,respectively).Multimerswere detected as well，but no differences were observed upon coexpression of furin.Under reducing conditions,LAP-TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ was detected as a monomeric band of approximately $5 0 ~ \\mathsf { k D a }$ with the TGF- $\\cdot \\beta$ antibody (Figure 5c,second panel). However, the intensity of this band is strongly reduced upon co-expression of furin.The Western blot probed with anti-LAP also shows this reduction in intensity for the LAP-TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ monomer (Figure 5c, third panel). Also,a faint band around $1 2 . 5 ~ \\mathsf { k D a }$ (the size of monomeric TGF$\\beta 1 _ { , } ^ { \\cdot }$ ）appears upon co-expression of furin (Figure 5c，second panel).Furthermore，we detected a band of approximately $3 7 \\ k \\mathsf { D } \\mathsf { a }$ under reducing conditions when using LAP-specific antibodies.This likely represents properly processed LAP which should migrate around 37 kDa.However, the anti-LAP blot also revealsa degradation product of LAP of approximately $3 0 ~ \\mathsf { k D a }$ in both samples.Therefore,LAP-TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ seems to be processed by endogenous proteases in plants as well.Altogether,we conclude that co-expression of furin enables the correct post-translational processing of latent LAP-TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/42306f518c369f8e2de338746a9889b5a94981c5ba27d9baee81035c6568f917.jpg",
+        "img_caption": [
+            "Figure4Aalysftftfntialpeptidecosismproeavafeatiealpeptidsultsiosis.(au $\\cdot \\{ \\beta \\}$ 1 speicWesttaalysisitploalatidudrducioditsofplatddctatieial peptidadPF-ttbdohapiatoleehtarkdaes kDa.As controls,empty vector plant extract (EV) and 5 ng recombinant TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ (R5)were used.(b) Leaf necrosis at 5 dpi of SP-TGF-β1pc and cSP-TGFβ1pc. (c) Yield of SP-TGF- $\\beta 1$ and cSP-TGF-β1 in crude extractsat 5 dpi as determined by ELISA $( n = 3$ ,error bars indicate standard error).Co-expression of p19 was used in this experiment to further enhance TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ expression.(d) Biological activity of $5 ~ \\mathrm { { n g / m L } }$ recombinant TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ (rTGF-β1) and plantproduced TGF-β1 (from dpi $5 +$ p19)as determined by the induction of luciferase expresson in MLEC reporter cels. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/80ba807f3dd5935f4c9d521990fc595ca6bc49ba4385b7187cb1e5f58dfbfecd.jpg",
+        "img_caption": [
+            "Figure 5 Co-expression of furin enables proteolytic processing of LAP-TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ (a)Yield of LAP-TGF- $\\beta 1$ and cSP-LAP-TGF- $\\beta 1$ in crude extracts at 3,5 and 7 days postinfiltration (dpi) upon coexpression of p19 as determined by ELISA after acid activation $\\langle n = 3$ ,error bars indicate standard error).Significant differences between samplesas determinedbya Welch's t-test $\\langle \\mathsf { P } < 0 . 0 5 \\rangle$ are indicated with an asterisk.(b) Yield of LAP-TGF- $\\cdot \\beta 1$ constructs in crude extracts at 5 dpi upon coexpression of furin $\\mathbf { \\zeta } _ { n } = 3$ ,errorbarsindicate standard error, $+ \\colon$ furin co-expression). (c) Mature TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ - and LAP-specific Western blot analysis with polyclonal antibodies under nonreducing and reducing conditions of cSP-LAP-TGF- $\\cdot \\beta 1$ at dpi 5 (EV:empty vector control). "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Co-expression of furin enhances the accumulation of active TGF-β1 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To investigate the efficiency of furin cleavage,we isolated latent TGF- $\\beta 1$ from the apoplastic space of agro-infiltrated leaves at 5 dpi and analysed the conformation on Western blot.First,we determined the secretion efficiency of TGF- $\\cdot \\beta 1$ into the apoplast. In Figure 6a,we demonstrate that co-expression of furin significantly increases the secretion efficiency of native cSP-LAP-TGF- $\\beta 1$ ${ ' } P = 0 . 0 1 8 { \\rangle }$ .Quite unexpectedly,secretion efficiency of cSP-LAPTGF- $\\beta 1$ Was also significantly increased upon codon optimization （号 ${ ' } P = 0 . 0 1 7$ )and furin did not further increase secretion of codonoptimized cSP-LAP-TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Next， the efficiency of furin cleavage was evaluated by performinga TGF- $\\beta 1$ -specific Western blot on both crude extracts andapoplastic fluids (Figure 6b).As described in the previous paragraph,the intensity of the $5 0 ~ \\mathsf { k D a }$ band,which resembles the size of unprocessed LAP-TGF- $\\beta 1$ ,is reduced in both crude extracts and apoplast fluids upon furin co-expression．However， the processing of LAP-TGF- $\\beta 1$ is not complete as unprocessed LAPTGF- $\\beta 1$ is still detected in the apoplast.We also observed clear bands around $1 2 . 5 ~ \\mathsf { k D a }$ upon furin co-expression.The intensity of this monomeric mature TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ is stronger in crude extracts, which is strikingas the absolute amount of TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ on gel should be higher for apoplast fluids according to the ELISA.Furthermore, several degradation products were detected,which indicates that LAP-TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ is sensitive to the activity of endogenous proteases. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Toevaluate the biological activity of cSP-LAP-TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ constructs，the effect of acid-activated crude extracts or apoplast fluids on mink lung epithelial cells carrying the TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ -responsive luciferase reporter gene was assessed.Figure 6c shows that coexpression of furin enhances the biological activity of TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ in crude extracts to a similar level as recombinant TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ .Unfortunately, cSP-LAP-TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ isolated from the apoplast was reduced in its activity when compared to crude extracts and recombinant TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ . It is therefore likely that cSP-LAP-TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ is degraded by endogenousproteases in the apoplast and therefore loses activity. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Here，we show that expression of biologically active TGF- $\\beta$ without the requirement of chemical refolding is feasible in plants.Previously，TGF- $_ { \\cdot \\beta 3 }$ was successfully produced in chloroplasts of Nicotiana tabacum plants (Gisby et al.，2011）and yielded considerable amounts of this protein $( 3 7 . 5 ~ \\mu \\ g / \\ g$ FWand $80 \\%$ purity).However, this strategy required chemical refolding ofpurified TGF- $\\cdot \\beta 3$ toobtainbiological activity.Therefore, chloroplast expression,as a plant-based expression system,loses oneof its major advantages over bacterial expression systems, namely cost-effectiveness. When we studied the transient expression of the whole open reading frame of the TGF- $\\beta 1$ gene in N.benthamiana plants，the obtained yield of TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ was ${ \\sim } 2 0 \\ \\mathrm { n g / m g \\ T S P }$ .This yield was considerably lower compared with many other proteins heterologously expressed in plants,like antibodies or other cytokines (Westerhof etal.，2012，2014). More importantly,we revealed that a furin-like cleavage between LAP and TGF- $_ { \\cdot \\beta 1 }$ does not occur in N.benthamiana plants.This furin-like cleavage is required to release active TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ from the latent complex.Furin isamammalian subtilisin-/kex2p-like endoprotease.Although a kex2p-like pathway was shown to exist in N. tabacum (Kinal et al.,1995),no furin cleavage of LAPTGF- $\\cdot \\beta 1$ Was observed in our expression system.Hence,it is likely that a protease with the right specificity does not exist in N.benthamiana.The lack of furin cleavage might be a crucial factor that limits the yield of TGF- $\\cdot \\beta 1$ in plants. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/283a9e6100cd3eb32b36c519d5d7d054fbd2fc5f8ed87ac31bcbe62662ce15f0.jpg",
+        "img_caption": [
+            "Figure 6 Furin enhances the accumulation of biologicallyactiveTGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ . (a)Native and codonoptimized cSP-LAP-TGF- $\\beta 1$ were transiently expressed in Nicotiana benthamiana leaves with or without co-expression of furin.The percentage of secreted cSP-LAP-TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ was determined at 5 dpi by determining the amount of cytokine in apoplast fluids versus crude extracts $_ { \\it { n } } = 5$ ，error bars indicate standard error). (cSP:Arabidopsis thaliana chitinase signal peptide;TSP: total soluble protein).Asterisk indicates significant differences as determined by a Welch's t-test $( \\ast P < 0 . 0 5 )$ (b) Mature TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ -specific Western blot analysis witha polyclonal antibodyat 5dpi under reducing conditions of apoplast fluids and crude extracts containing native or codon-optimized cSP-LAP-TGF-β1 with or without cO-expression of furin (EV: empty vector control; pc: codonoptimized; $+$ ：furin co-expression). (c) Biological activity of $5 ~ \\mathrm { { n g / m L } }$ recombinant TGF-β1 (rTGF-β1) and plant-produced TGF-β1 (from dpi 5)as determined by the induction of luciferase expression in MLEC cells. Relative activity of plantproduced TGF- $\\beta 1$ versus recombinant TGF-β1 (in $\\%$ isgiven $\\mathbf { \\zeta } _ { n } = 3$ ,error bars indicate standard error). "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To circumvent the post-translational processing of LAP-TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ we expressed mature TGF- $\\beta 1$ asan in-frame fusion with its native signal peptide.We confirmed that the signal peptide of TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ is functional by monitoring localization of a GFP fusion protein with confocal imaging，as SP-TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ is taken up into the secretory pathway.However，after translocation into the ER,the signal peptide is not completely removed from the mature protein. When the signal peptide stays attached to mature TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ ，it could compromise the function of the plant ER.The unprocessed signal peptide could act as membrane anchor (High and Dobberstein，1992),thereby facilitating accumulation of unprocessed TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ in the ER. On the other hand, the signal peptide could also affect the folding of TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ and trigger the unfolded protein response.Disturbance of ER function could ultimately lead to necrosis (Ye et al.,2O11).This disturbance of ER function may explain the necrosis that we observed upon expression of SP-TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Replacing the signal peptide with an A.thaliana chitinase signal peptide circumvents improper cleavage of the TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ signal peptide,prevented the induction of necrosis and increased yield of mature TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ .Surprisingly,signal peptide replacement withthe chitinase signal peptide also significantly increased the yield of LAP-TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ ．The chitinase signal peptide may also influence expression by changing the mRNA secondary structure at the $5 ^ { \\prime }$ -end.The secondary structure of the $5 ^ { \\prime }$ UTR sequence containing theAlfalfa mosaicvirus RNA4(AlMV) leaderand the first 40 nucleotides of LAP-TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ was predicted by the Vienna RNA fold software (Lorenz et al.,2011).In Figure S1,drawings of the minimum free energy predictions for both LAP-TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ genes aregiven.This prediction reveals that the combination of the AIMV leader with the chitinase signal peptide increases the minimal free folding energy 6.5-fold，making the secondary structure less stable.Furthermore，strong GC-rich secondary structures are present downstream of the start codon in the native signal peptide.As low minimal free folding energy has beensuggested to enhance translation initiation (Hall et al., 1982；Tuller et al.，201O)， these observed differences could explain differences inyield. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Even though the yield was improved,a major bottleneck for the accumulation of mature TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ seems to be low stability or misfolding of the protein.Plants are rich in proteases,and a wide variety of proteases reside within the secretory pathway of plants as well as in the apoplast (Goulet et al.，2012;van der Hoorn, 2008)．It is therefore inevitable that recombinant secretory proteins encounter proteases on their way out. Proteolytic processing is regarded as one of the largest bottlenecks of plant expression systems.A classic example is the unintended processingof antibodies when expressed in plants (De Muynck et al., 2010).A common strategy to increase recombinant protein yield and circumvent proteolytic degradation is to retain the protein in the ER by using a C-terminal KDEL targeting sequence (Schouten et al.,1996).The ER is regarded as a protein friendly environment due to the absence of many proteases.We have used ER retention in order to increase the yield of TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ ，but this strategy did not result in significantly higher yields.As cytokines are inherently unstable,we also attempted to increase the yield of TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ by fusing them to a stable partner.In our study,fusion of TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ to $\\mathsf { F c } \\mathsf {  { \\alpha } }$ increased the yield 16-fold，but led to the production of inactive TGF $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ ．The observation that plantproduced mature TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ Or Fcα-TGF $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ is inactive is therefore most likely explained by misfolding of TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ in the absence of LAP.This idea is further supported by the fact that we observed a strong difference in the detection of mature TGF $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ by ELISA and Western blot.Misfolded TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ is likely not detected properly in a sandwich ELISA,but might be detected by Western blot under reducing conditions as continuous epitopes become available. Properfolding ofbiologically active TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ likelyrequires expression of the full LAP-TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ gene. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Post-translational modification of LAP-TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ isa complex process,which is controlled at multiple levels.The secretion of biologicallyactive TGF- $\\beta 1$ dimers first of all requires the dimerization of the LAP-TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ proprotein，which occurs in the endoplasmic reticulum (Grayand Mason，199O).LAP-TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ is also N-glycosylated at three residues (82,136 and 176)and the presence of the N-glycans on residues Asn82 and Asn136 was shown to be required for proper secretion of LAP-TGF-β1 (Brunner etal.，1992;Sha etal.，1989).Yet,secretion of latent TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ isaslow process as LAP-TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ isretained within the cis-Golgi in an Endo H-sensitive form (Miyazono et al.，1992). Cis-Golgi retention of LAP-TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ is presumed to be caused by its capture by a sequestering protein,such as the chaperone GRP78 (Oida and Weiner,201O).Retention of LAP-TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ in the ER/cisGolgi is the limiting step for secretion and furin processing (Oida and Weiner，2010).Only properly glycosylated LAP-TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ is transported to the trans-Golgi where it is processed by furin (Dubois et al., 1995). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Within our study,we co-expressed human furin with LAP-TGF$\\beta 1$ to investigate the proper proteolytic processing of LAP and TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ in plants.First of all,we observed that co-expression of furinslightly increased the yield of LAP-TGF- $\\cdot \\beta 1$ by 2.7-fold $' P = 0 . 0 8 4 )$ ，but significantly enhanced the secretion of cSP-LAPTGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ into the apoplast $( P = 0 . 0 0 2$ ).Wealso observed that the majority of extracted LAP-TGF- $\\beta 1$ is properly processed by coexpressed furin (Figures 5c and 6b).This engineering strategy is quite remarkable as furin requires multiple autocatalytic processing steps and correct localization within the secretory pathway to become active (Vey et al.,1994). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Co-expression of furin also enhanced the accumulation of biologicallyactive TGF- $_ { \\cdot \\beta 1 }$ in N.benthamiana leaves,but activity of secreted LAP-TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ was reduced.This is most likely explained by the fact that LAP-TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ is sensitive to the activity of plant endogenous proteases that reside within the apoplast.A common activation mechanism for latent TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ in mammals is the proteolytic degradation of LAP by proteases,like plasmin,matrix metalloproteinases or thrombospondin (Boor et al.，2010).It seems that endogenous proteases with similar activity exist in plants and therefore future work has to focus on how the stability of LAP-TGF- $\\beta 1$ in the apoplast can be enhanced.When undesired proteolytic processing of LAP-TGF- $_ { \\cdot \\beta 1 }$ can be prevented，coexpression of furin will enable the production of active TGF- $\\cdot \\beta 1$ in plants without the need for chemical refolding. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Ourstudy demonstrates that the production of biologically active TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ in plants is feasible without the need for chemical refolding.Thereby，we avoid difficult and expensive chemical refolding steps,which are required upon bacterial or chloroplast expression.We also show that the post-translational machinery of plants can be engineered to allow proteolytic processing of heterologous expressed mammalian proteins.Therefore，this study highlights the fact that plants are a suitable expression platform for the production of complex glycoproteins, like TGF$\\beta 1$ ,that rely on correct post-translational processing for biological activity.This engineering strategy can further facilitate plantbased expression of other proproteins that rely on furin cleavage, like neural growth factor (NGF)，bone-morphogenic proteins (BMPs)or even the Ebola Zaire envelope glycoprotein (Thomas, 2002).Furthermore，co-expression of other proteases can be explored as well to facilitate plant-based expression of a variety of complex proproteins. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Experimental procedures ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Construct design ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The complete native open reading frame (ORF) of human (h)LAPTGF- $\\beta 1$ was amplified from the MegaManTM Human TranscriptomecDNA library (Bio-Connect BV，Huissen，The Netherlands). Similarly，mouse LAP-TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ was amplified from the FirstChoiceTM PCR-Ready Mouse Spleen cDNA library (Life Technologies, Bleiswijk,The Netherlands).To remove LAP from the mature ORF,mature hTGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ was re-amplified wherebya Sacll restriction site was introduced at the $5 ^ { \\prime }$ end.This Sacll was used to clone mature human TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ in frame with the mouse signal peptide,as Sacll was uniquely present in the mouse (and not human) LAPTGF- $\\beta 1$ signal peptide.Thereafter, SP-TGF $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ was re-amplified to introduce the ER retention signal KDEL at the $3 ^ { \\prime }$ end of the gene. The complete ORF of human furin (NM_002569)was amplified from the MegaManTM Human Transcriptome cDNA library.An internal BspHl site was removed by means of overlap-extension PCR to ensure subsequent cloning into $\\mathsf { p B } | \\mathsf { N } ^ { + }$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To create a GFP fusion of hTGF- $\\cdot \\beta \\lambda$ ，the enhanced green fluorescent protein (eGFP) gene was re-amplified and used to replace the mature hlL-1O sequence in the previously published Fcα-lL-10 construct (Westerhof et al.，2012） using Spel/Kpnl. Similarly, hTGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ was re-amplified and used to replace Fcα in the same Fcα-hlL-10 construct using Ncol/Sacl. In this Way,a SP-TGF$\\beta 1$ -GFPconstruct was created where a glycine-serine linker separated hTGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ and GFP.To create a Fcα-fusion of hTGF $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ mature hTGF- $\\cdot \\beta 1$ (Spel/Kpnl) was re-amplified and used to replace the mature hIL-10 sequence in the previously mentioned Fcα-lL10 construct. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The mature TGF- $\\beta 1$ sequence was codon-optimized using an in-house optimization procedure and ordered at GeneArt (Life Technologies). The codon-optimized TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ gene was cloned in framewith the Arabidopsis chitinase signal peptide (cSP, AAM10o81.1）by means of overlap-extension PCR．Similarly, the mature sequence for native LAP-TGF- $\\beta 1$ sequence was cloned in frame with cSP. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "All construct sequences were confirmed by sequencing (Macrogen，Amsterdam，The Netherlands) in the expression vectors pBIN+ and pHYG (Westerhof et al.，2012)and an overview of all constructs is given in Figure S2.In $\\mathsf { p B } | \\mathsf { N } ^ { + }$ and pHYG，expression is controlled by the 35S promoter of the Cauliflower mosaic virus with duplicated enhancer (d35S) and the Agrobacterium tumefaciens nopaline synthase transcription terminator (Tnos).A $5 ^ { \\prime }$ leader sequence of the Alfalfa mosaic virus RNA 4(AlMV) is included between the promoter and construct to boost translation.The expression vectors were subsequently transformed to Agrobacterium tumefaciens strain MOG101 for plant expression.In some experiments,the silencing suppressor p19 from tomato bushy stunt virus was co-infiltrated to enhance heterologous expression.The vector pBiN61-p19 was obtained from Dr.D.Baulcombe (Voinnet et al.,2003). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Agro-infiltration ofNicotiana benthamiana ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Agrobacterium tumefaciens clones were cultured for $1 6 \\mathrm { ~ h ~ }$ at $2 8 ~ ^ { \\circ } C / 2 5 0$ rpm in LB medium $\\mathtt { 1 0 9 / L }$ pepton 140,5 g/L yeast extract, $\\displaystyle 1 0 ~ \\mathsf { g } / \\mathsf { L }$ NaClwith $\\mathsf { p H } = 7 . 0 \\rangle$ containing $5 0 ~ \\mu \\mathrm { g / m L }$ kanamycin, $2 0 ~ \\mu \\gamma \\mathrm { m L }$ rifampicin and $2 0 ~ \\mu \\mu$ acetosyringone.The bacteria were resuspended in MMA infiltration medium $( 2 0 \\ 9 / \\mathsf { L }$ sucrose, $5 ~ { \\mathfrak { g } } / { \\mathsf { L } }$ MS salts, $1 . 9 5 ~ { \\mathfrak { g } } / { \\mathsf { L } }$ MES, $\\mathsf { p H } 5 . 6 )$ containing $2 0 0 ~ \\mu \\mathrm { M }$ acetosyringone to obtain an OD( $( 6 0 0 \\ \\mathsf { n m } )$ of1.For co-infiltration experiments,a final OD of O.5 of each individual culture was used.After $1 { - } 2 \\ h$ of incubation at room temperature，the two youngest fully expanded leaves of 5- to 6-week-old N.benthamiana plantswere infiltrated completely. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Total soluble protein extraction ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Leaves were immediately snap-frozen upon harvesting and homogenized in liquid nitrogen.Homogenized plant material was ground in ice-cold extraction buffer( $5 0 ~ \\mathsf { m m }$ phosphatebuffered saline (PBS) ${ \\mathsf { p H } } = 7 . 4$ 1 $1 0 0 \\mathrm { \\ m m \\ N a C l }$ 1 $0 . 1 \\%$ v/v Tween20 and $2 \\%$ w/vimmobilized polyvinylpolypyrrolidone (PVPP)) using $2 { \\mathrm { ~ m L } } { \\mathrm { { g } } }$ fresh weight.For extraction at low pH,a $3 0 ~ \\mathsf { m m }$ sodium citrate buffer $3 0 ~ \\mathsf { m m }$ sodium citrate buffer ${ \\mathsf { p H } } = 3$ $1 0 0 \\mathrm { \\ m m \\ N a C l }$ 5 $0 . 1 \\%$ v/v Tween-20 and $2 \\%$ W/v PVPP) Was used. Crude extracts were clarified by centrifugation at $1 6 ~ 1 0 0 ~ g$ for 5 min at $4 ^ { \\circ } C$ ，and supernatants were directly used in an ELISA and BCA protein assay. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Isolation of apoplast fluid ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Leaves were vacuum-infiltrated with ice-cold extraction buffer (50 mM phosphate-buffered saline $( \\mathsf { p } \\mathsf { H } = 8 )$ ，、 $1 0 0 \\ m \\ N \\mathsf { d } \\mathsf { C } |$ and $0 . 1 \\%$ v/vTween-2O).Leaves were centrifuged for $2 0 ~ \\mathrm { m i n }$ at $2 0 0 0 \\ { \\mathfrak { g } }$ to isolate apoplast fluid.Apoplast fluids were clarified by centrifugation at $1 6 \\ 0 0 0 \\ { \\mathrm { g } }$ at $4 ^ { \\circ } C$ .To determine the percentage of secretion，the remaining leaf material was processed as described above. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Quantification of human TGF- $\\mathbf { \\beta } \\mathbf { \\mu }$ protein levels ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ protein concentration in crude plant extracts was determined by ELISA.Samples containing LAP-TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ were activated by theaddition of1M hydrochloric acid( $1 0 ~ \\mu \\iota$ acid/ $5 0 ~ \\mu \\ L$ sample) and subsequently neutralized after $1 0 \\mathrm { \\ m i n }$ by adding the same volume of 1M sodium hydroxide.The human TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ Ready-SET-Go!? ELISA kit (eBioscience,Vienna,Austria) were used according to the supplier's protocol.The ELISA is based on the capture of TGF $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ with a monoclonal antibody and subsequent detection with a biotinylated monoclonal antibody and shows no cross-reactivity to plant proteins.For sample comparison，the total soluble protein (TSP) content was determinedby the BCA method (Life Technologies)according to the supplier's protocol using bovine serum albumin (BSA)asa standard. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Protein analysis by Western blot ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Soluble plant proteins $( \\sim 5 0 ~ \\mu 9 \\$ for crude extract or ${ \\sim } 2 0 ~ \\mu \\ g$ for apoplast fluid) were separated under reducing or nonreducing conditions by SDS-PAGE on a $12 \\%$ Bis-Tris gel. Recombinant human TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ (R&D Systems，Abingdon，UK)was used as a control. Proteins Were transferred to a PVDF membrane (Life Technologies)by a wet blotting procedure.Thereafter，the membrane Was blocked in PBST-BL (PBS containing $0 . 1 \\%$ v/v Tween-20 and $5 \\%$ w/v nonfat dry milk powder) for 1 h at room temperature,followed by overnight incubation with a rabbit antiTGF- $\\cdot \\beta$ polyclonal antibody (Bioké,Leiden,The Netherlands)or a goat anti-LAP polyclonal antibody (R&D Systems) in PBST (including $0 . 1 \\%$ w/v bovine serum albumin）at $4 ^ { \\circ } C$ ：HRP-conjugated secondary antibodies (Jackson ImmunoResearch，Suffolk，UK) were used for visualization. Finally, the SuperSignal West Femto substrate (Pierce) was used to detect the HRP-conjugated antibodies. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Confocal microscopy ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Plants were agro-infiltrated with A.tumefaciens harbouring the pHYG vector containing the expression cassette encoding N-terminal fusions of human TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ to GFP as described previously. Leaves were taken from the plant at 3 days postinfiltration,and small sections were examined from the abaxial side usinga Zeiss LSM510 (Zeiss，Oberkochen，Germany）confocal laser-scanning microscope in combination with an argon ion laser supplyinga 488 nm wavelength. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Biological activity assay ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The mink lung epithelial cell line with TGF- $\\beta$ -inducible luciferase reporter construct (Abe et al.，1994) was kindly provided by Dr. C.Arancibia (Oxford University).MLEC cells were maintained at $3 7 ^ { \\circ } \\mathsf C$ with $5 \\%$ （ ${ \\mathsf { C O } } _ { 2 }$ in RPMl-1640 medium containing $4 ~ \\mathsf { m m }$ L-glutamine and 25 mM HEPES and supplemented with $10 \\%$ foetal calf serum, $5 0 \\ \\mathrm { U / m L }$ penicillin, $5 0 ~ \\mu \\mathrm { g / m L }$ streptomycin and $2 0 0 ~ \\mu \\mathrm { g / m L }$ G418.MLEC cells were harvested by trypsinization and seeded at a density of $1 . 5 \\times 1 0 ^ { 6 }$ cells/mL in 96-well plates and were allowed to rest for $4 \\ h$ in medium without G418 prior to bioassays.For bioassays,cellswere treated with $0 . 1 { - } 1 0 ~ \\mathrm { n g / m L }$ plant-produced TGF- $\\boldsymbol { \\beta } \\boldsymbol { 1 }$ (acid activated) or recombinant human TGF- $\\cdot \\beta 1$ expressed in Chinese hamster ovary cells (R&D Systems). Recombinant TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ was supplemented with EV plant extract to keepplant protein levels equal.After overnight incubation, luciferase expression wasanalysed usingtheBright-GloM Luciferase assay system (Promega，Leiden，The Netherlands) according to the supplier's protocol. Luminescence was measured using the FLUOstar OPTIMA microplate reader (BMG Labtech, Ortenberg,Germany). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Data analysis ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "All data shown in the figures (unless stated otherwise) indicate the average of at least three biological replicates (n). In the figure legends, $n$ isindicated and error bars indicate standard error. Significant differences between samples were calculated using the Welch's t-test and regarded as significant when $P < 0 . 0 5$ . Significant differences are indicated in the figures by an asterisk $( ^ { * } )$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Thisstudy was financially supported in part by Synthon (Nijmegen，The Netherlands).We would like to thank Gerry ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Ariaans for all helpful discussions and Mohamed Abdi Hassan, Sophie van Gorkom， Kelly Heckman，Tram Hong，Xandra Schrama，Koen Verhees，Tineke Vliek and Michelle Yang for their input in the practical work of this study. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abe,M.，Harpel,J.G.,Metz,C.N.,Nunes,I.,Loskutoff,D.J.and Rifkin,D.B. (1994)An assay for transforming growth-factor-beta using cells transfected with a plasminogen-activator inhibitor-1 promoter luciferase construct. Anal. Biochem.216,276-284.   \nAnnes，J.P.，Munger，J.S.and Rifkin,D.B.(2Oo3) Making sense of latent TGFbeta activation. J. Cel/ Sci. 116,217-224.   \nArcher，S.J.，Bax，A.，Roberts，A.B.，Sporn，M.B.，Ogawa，Y.，Piez，K.A., Weatherbee， J.A.et al.(1993）Transforming growth factor-beta-1 secondary structure as determined by heteronuclear magnetic-resonance spectroscopy. Biochemistry,32,1164-1171.   \nBlobe,G.C., Schiemann,W.P.and Lodish,H.F. (2ooo) Mechanisms of disease: Role of transforming growth factor beta in human disease.N. Engl.J.Med. 342,1350-1358.   \nBoor,P.，Ostendorf,T.and Floege,J.(201O) Renal fibrosis:novel insights intomechanismsand therapeutic targets. Nat.Rev.Nephrol.6, 643-656.   \nBrunner,A.M.,Lioubin,M.N.，Marquardt,H.，Malacko,A.R.，Wang,W.C., Shapiro，R.A.，Neubauer，M.et al.(1992) Site-directed mutagenesis of glycosylation sites in the transforming growth factor-beta-1 (Tgf-Beta-1)and Tgf-Beta-2 (414) precursors and of cysteine residues within mature Tgf-Beta1 - effects on secretion and bioactivity. Mol. Endocrinol.6,1691-1700.   \nChen,W.J.,Jin,W.W.,Hardegen,N.,Lei,K.J.,Li,L.,Marinos,N.,McGrady,G. et al. (20o3) Conversion of peripheral $\\mathsf { C D 4 } ( + ) \\mathsf { C D 2 5 } ( - )$ naive T cells to $\\mathsf { C D } 4 ( + )$ ${ \\mathsf { C D } } 2 5 ( + )$ regulatory T cells by TGF-beta induction of transcription factor Foxp3.J.Exp.Med.198,1875-1886.   \nDaopin,S.,Piez, K.A.,Ogawa,Y.and Davies, D.R.(1992) Crystal-structure of transforming growth-factor-Beta-2-an unusual fold for the superfamily. Science,257,369-373.   \nDardalhon,V.，Awasthi，A.，Kwon，H.，Galileos,G.，Gao,W.，Sobel，R.A, Mitsdoerffer,M.et al. (2008)IL-4 inhibits TGF-beta-induced $\\mathsf { F o x p 3 } ( + )$ T cells and together with TGF-beta,generates IL-9 $( + )$ IL-10(+) Foxp3(-） effector T cells.Nat.Immunol.9, 1347-1355.   \nDe Muynck,B.,Navare,C.and Boutry,M.(2010) Production of antibodies in plants: status after twenty years.Plant Biotechnol.J.8,529-563.   \nDubois, C.M.,Laprise,M.H., Blanchette,F.,Gentry, L.E.and Leduc, R.(1995) Processing of transforming growth-factor-beta-1 precursor by human furin convertase.J. Biol.Chem.270,10618-10624.   \nGeissmann,F.，Revy，P.，Regnault，A.，Lepelletier,Y.，Dy，M.，Brousse，N., Amigorena,S.et al. (1999) TGF-beta 1 prevents the noncognate maturation of human dendritic Langerhans cells.J. Immunol. 162, 4567-4575.   \nGisby，M.F.，Mellors，P.，Madesis，P.，Ellin，M.，Laverty，H.，O'Kane，S., Ferguson,M.W.J.et al. (2011）A synthetic gene increases TGF beta 3 accumulation by 75-fold in tobacco chloroplasts enabling rapid purification and folding into a biologically active molecule.Plant Biotechnol.J.9,618- 628.   \nGoulet, C., Khalf,M.,Sainsbury,F.,D'Aoust, M.A.and Michaud,D.(2012)A protease activity-depleted environment for heterologous proteins migrating towards the leaf cell apoplast. Plant Biotechnol.J.10,83-94.   \nGovinden，R．and Bhoola，K.D.(2oo3) Genealogy，expression，and cellular function of transforming growth factor-beta.Pharmacol.Ther.98,257-265.   \nGray,A.M.and Mason,A.J.(199o) Requirement for activin-a and transforming growth factor-beta-1 pro-regions in homodimer assembly.Science,247, 1328-1330.   \nHall,M.N.,Gabay,J.,Debarbouille,M.and Schwartz,M.(1982)A role for mRNA secondary structure in the control of translation initiation.Nature, 295,616-618.   \nHigh，S.and Dobberstein，B.(1992）Mechanisms that determine the transmembrane disposition of proteins. Curr. Opin. Cell Biol.4, 581-586.   \nvan der Hoorn,R.A.(2O08) Plant proteases:from phenotypes to molecular merhanicmc △nni Rav Plant Rinl 5q 1q1_223   \nKinal,H.,Park,C.M.,Berry,J.O.,Koltin,Y.and Bruenn,J.A.(1995) Processing and secretion of a virally encoded antifungal toxin in transgenic tobacco plants- evidence for a Kex2p pathway in plants.Plant Cell,7,677-688.   \nLiM.O.,Wan,Y.Y.，Sanjabi,S.，Robertson,A.K.L.and Flavell,R.A.(2006) Transforming growth factor-beta regulation of immune responses.Annu. Rev. Immunol. 24,99-146.   \nLin,S.J.,Lerch,T.F., Cook,R.W.,Jardetzky,T.S.and Woodruff,T.K.(2006)The structural basis of TGF-beta,bone morphogenetic protein,and activin ligand binding.Reproduction,132,179-190.   \nLorenz,R.，Bernhart,S.H.，Honer Zu Siederdissen,C.，Tafer,H.，Flamm,C., Stadler,P.F.and Hofacker,I.L.(2011) ViennaRNA Package 2.0.Algorithms Mol. Biol. 6,26.   \nLudbrook, S.B., Barry, S.T., Delves,C.J.and Horgan,C.M.T. (2O03) The integrin alpha(v)beta(3)isa receptor for the latency-associated peptidesof transforming growth factors beta(1) and beta(3). Biochem J.369,311-318.   \nMiyazono，K.，Thyberg，J.and Heldin， C.H.（1992） Retention ofthe transforming growth factor-beta 1 precursor in the Golgi complex in a latent endoglycosidase H-sensitive form.J. Biol. Chem.267, 5668-5675.   \nOida,T.and Weiner, H.L. (2010) Overexpression of TGF-beta(1) Gene Induces Cell Surface Localized Glucose-Regulated Protein 78-Associated LatencyAssociated Peptide/TGF-beta.J.Immunol.185,3529-3535.   \nO'Kane,S.and Ferguson,M.W.J.(1997) Transforming Growth Factor beta s and wound healing.Int.J. Biochem. Cell Biol.29,63-78.   \nOz，H.S.，Ray，M.，Chen，T.S．and McClain，C.J.(2004)Efficacy ofa transforming growth factor 82 containing nutritional support formula in a murine model of inflammatory bowel disease.J.Am. Coll. Nutr.23,220-226.   \nSchlunegger,M.P.and Grutter, M.G.(1992)An unusual feature revealed by the crystal-structure at 2.2-angstrom resolution of human transforming growthfactor-beta-2.Nature,358,430-434.   \nSchouten,A.，Roosien,J.，van Engelen,F.A.，de Jong,G.A.，Borst-Vrenssen, A.W.,Zilverentant,J.F., Bosch,D.et al.(1996) The C-terminal KDEL sequence increases the expression level of a single-chain antibody designed to be targeted to both the cytosol and the secretory pathway in transgenic tobacco.Plant Mol.Biol.30,781-793.   \nSha,X.，Brunner,A.M.，Purchio,A.F.and Gentry,L.E.(1989) Transforming growth-factor beta-1- importance of glycosylation and acidic proteases for processing and secretion. Mol. Endocrinol.3,1090-1098.   \nTakeuchi,M.,Alard,P.and Streilein, J.W.(1998) TGF-beta promotes immune deviation by altering accessory signals of antigen-presenting cels.J. Immunol. 160,1589-1597.   \nThomas,G.(20o2)Furin at the cuting edge:from protein traffic to embryogenesis and disease.Nat. Rev. Mol. Cell Biol.3,753-766.   \nTuller，T.，Waldman，Y.Y.，Kupiec，M.and Ruppin，E.(201O)Translation efficiency is determined by both codon bias and folding energy.Proc.Natl Acad.Sci. USA,107,3645-3650.   \nVeldhoen，M.，Hocking,R.J.，Atkins,C.J.，Locksley，R.M.and Stockinger，B. (2006)TGF beta in the context of an inflammatory cytokine milieu supports de novo differentiation of IL-17-producing T cells.Immunity,24,179-189.   \nVeldhoen,M., Uyttenhove, C.,van Snick,J.,Helmby,H.,Westendorf,A.,Buer, J.,Martin,B.et al. (2oo8) Transforming growth factor-beta 'reprograms' the differentiation of T helper 2 cells and promotes an interleukin 9-producing subset. Nat.Immunol.9,1341-1346.   \nVey，M.，Schafer，W.，Berghofer，S.，Klenk，H.D．and Garten，W.(1994) Maturation of the trans-Golgi network protease furin: compartmentalization of propeptide removal, substrate cleavage,and COOH-terminal truncation. J.Cell Biol. 127, 1829-1842.   \nVoinnet,O.，Rivas,S.，Mestre,P.and Baulcombe，D.(20o3)An enhanced transient expression system in plants based on suppression of gene silencing by the p19 protein of tomato bushy stunt virus.Plant J.33,949-956.   \nWesterhof,L.B.，Wilbers，R.H.P.，Roosien,J.,，van de Velde,J.,Goverse，A., Bakker,J.and Schots,A.(2012)3D domain swapping causes extensive multimerisation of human interleukin-10 when expressed in planta.PLoS ONE,7,e46460.   \nWesterhof,L.B.，Wilbers,R.H.，van Raaij,D.R.，Nguyen,D.L.,Goverse,A.. Henquet, M.G., Hokke, C.H.et al. (2014) Monomeric IgA can be produced in planta as efficient as IgG,yet receives different N-glycans.Plant Biotechnol.J. 12,1333-1342.   \nYe,C.M.,Dickman,M.B.,Whitham,S.A.,Payton,M.and Verchot,J.(2011) The unfolded protein response is triggered by a plant viral movement protein. Plant Physiol.156,741-755.   \nZou,Z.C.and Sun,P.D. (2oo4) Overexpression of human transforming growth factor-beta 1 using a recombinant CHO cell expresson system.Protein Expre. Purif. 37,265-272.   \nZou,Z.C.and Sun，P.D.(2oo6) An improved recombinant mammalian cell expression system for human transforming growth factor-beta 2 and -beta 3 preparations.Protein Expre.Purif.50,9-17. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Supporting information ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Additional Supporting information may be found in the online version of this article: ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Figure S1 Secondary mRNA structure prediction of the $5 ^ { \\prime }$ UTR sequence containing the Alfalfa mosaic virus RNA4(AlMV) leader and the first 40 nucleotides of the LAP-TGF- $\\boldsymbol { \\cdot } \\beta \\boldsymbol { 1 }$ genes by the Vienna RNA fold software.   \nFigure S2 A schematic overview of all the constructs used in this study. ",
+        "page_idx": 9
+    }
+]

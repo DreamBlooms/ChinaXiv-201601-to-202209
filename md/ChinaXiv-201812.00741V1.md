@@ -1,0 +1,258 @@
+低鱼粉饲料中添加有机酸（盐）对凡纳滨对虾生长性能、消化酶活性和营养物质表观消化率的影响
+
+还殿宇 1,2.3李小勤 1,2,3 姚文祥 1,2,3杨航1,2,3梁高杨1,2,3冷向军 1,2,3\*（1.上海海洋大学水产与生命学院，上海 201306;2.上海海洋大学农业部淡水水产种质资源重点实验室，上海 201306;3.上海高校知识服务平台，上海海洋大学水产动物遗传育种中心，上海
+
+201306)
+
+摘要：本试验旨在研究低鱼粉饲料中添加有机酸（盐）对凡纳滨对虾（Litopenaeus vannamei）生长性能、消化酶活性和营养物质表观消化率的影响。选1080尾初重（ $\phantom { - } 4 . 6 0 { \pm } 0 . 0 5 \$ ） $\mathbf { g }$ 的凡纳滨对虾，随机分为9组，每组4个重复，每个重复30尾虾。正对照组(PC 组)组饲喂鱼粉含量为 $1 8 \%$ 的基础饲料，2个负对照组分别饲喂以肉骨粉(MBM组)和豆粕(SM组)替代1/3鱼粉的试验饲料，试验组分别饲喂在2个负对照组试验饲料中添加 $0 . 2 \%$ 柠檬酸(MBM-CA、SM-CA 组)、苹果酸(MBM-MA、SM-MA 组)和丁酸钠(MBM-SB、SM-SB组)的试验饲料。试验期9周。结果表明：与PC 组相比，MBM和 SM组的增重率和粗蛋白质、粗脂肪表观消化率显著下降（ $_ { P < 0 . 0 5 ) }$ ），饲料系数显著升高（ $\scriptstyle \cdot P < 0 . 0 5 .$ ）。在肉骨粉饲料和豆粕饲料中添加柠檬酸和丁酸钠后，均显著提高了凡纳滨对虾的增重率、蛋白质沉积率、脂肪沉积率和干物质表观消化率（ $\scriptstyle \cdot - 0 . 0 5$ ），显著降低了饲料系数（ $( P { < } 0 . 0 5 )$ ）；在肉骨粉饲料和豆粕饲料中添加苹果酸后，凡纳滨对虾的增重率、饲料系数、蛋白质沉积率、脂肪沉积率以及干物质、粗蛋白质和粗脂肪表观消化率均无显著差异1 ${ \cdot } P { > } 0 . 0 5$ ）。各组凡纳滨对虾的肝胰腺蛋白酶、淀粉酶活性无显著差异（ $P { > } 0 . 0 5$ ）。综上所述，在鱼粉含量为 $12 \%$ 的低鱼粉饲料中添加 $0 . 2 \%$ 柠檬酸和丁酸钠，可显著改善凡纳滨对虾生长性能，提高了饲料效率，但添加 $0 . 2 \%$ 苹果酸对生长性能和饲料利用无显著影响。
+
+关键词：肉骨粉；豆粕；有机酸；凡纳滨对虾；生长；消化率 中图分类号：S963.3
+
+饲料中添加有机酸能够降低饲料和食糜的pH，改善消化道菌群结构，螯合矿物元素，直接参与体内代谢过程。有机酸已在畜禽动物中得到了较多的研究应用[1-3]，而在水产饲料中的研究较少。目前在水产饲料中已有报道的有机酸有柠檬酸[4-6]、苹果酸[7-9]、甲酸[10-11]、乳酸[12-13]、丁酸（盐）[14-15]、延胡索酸[16-17]等。
+
+柠檬酸是三羧酸循环(TCA)的重要中间产物，具有广泛的生理功能。柠檬酸可用作罗非鱼（Tilapia zillii）[4]饲料中的诱食剂；在黄尾（Seriola quinqueradiata）[5]饲料中添加 $0 . 1 \%$ 柠檬酸
+
+收稿日期：2018-04-28  
+基金项目：国家自然科学基金（31772858)  
+作者简介：还殿宇（1992一），男，江苏泰州人，硕士研究生，从事水生动物营养与饲料研究。E-mail:  
+525507582@qq.com  
+\*通信作者：冷向军，教授，博士生导师，E-mail: xjleng@shou.edu.cn
+
+可以改善鱼体生长，提高饲料利用率和磷沉积率，减少磷排泄量，相关的研究也报道于虹鳟(Oncorhynchus mykiss)[6]。在凡纳滨对虾（Litopenaeus vannamei）[18]饲料中添加 $0 . 2 \% { \sim } 0 . 3 \%$ 的柠檬酸可改善其生长性能，增强对弧菌感染的抵抗能力，提高肠道消化酶活性。
+
+苹果酸也在三羧酸循环代谢中发挥着重要作用。在湘云鲫(Carassius auratus)[7]饲料中添加$0 . 4 \% { \sim } 0 . 8 \%$ 的 $L$ -苹果酸能提高鱼体生长性能、营养物质表观消化率和消化酶活性；在吉富罗非鱼(Oreochromis niloticus)[8]饲料中添加 $0 . 8 \%$ 的 $L$ -苹果酸可改善其肠道结构，促进消化吸收。在真鲷(Pagrusmajor)[9]饲料中添加 $0 . 1 \%$ 苹果酸对鱼体生长性能无显著影响，但提高了磷的利用率。 $L .$ 苹果酸的酸度比柠檬酸强，且同样参与三羧酸循环，并直接为机体供能，其对凡纳滨对虾的作用如何，目前尚未见报道。
+
+丁酸钠应用于仔猪生产中，可以缓解早期断奶仔猪的应激[1]。在鲫鱼[14]饲料中添加 $0 . 2 5 \%$ 丁酸钠显著提高了其增重率和营养物质表观消化率。饲料中添加 $0 . 2 1 \%$ 丁酸钠也显著提高了金头鲷（Sparusaurata）[15]的增重率。张晓晓等[19]的研究表明，饲料中添加 $0 . 2 5 \% { \sim } 3 . 0 0 \%$ 的丁酸钠均显著提高了凡纳滨对虾增重率与特定生长率。此外，丁酸钠还提高了湘云鲫蛋白质代谢水平和相关基因表达量[20]。丁酸钠在水产动物上的研究较少，与有机酸相比，其作用效果尚有待于进一步研究。
+
+肉骨粉、豆粕作为廉价且粗蛋白质含量较高的蛋白质源，已被大量的用于替代鱼粉的研究[21-23]。然而，肉骨粉、豆粕的用量过大后，会导致饲料利用率的下降，降低水产动物的生长性能，能否通过添加有机酸（盐）后，提高鱼类对肉骨粉、豆粕的利用率？添加不同的有机酸（盐）是否具有不同的作用效果？因此，本试验以凡纳滨对虾作试验对象，分别用肉骨粉、豆粕替代部分鱼粉，并分别添加柠檬酸、苹果酸和丁酸钠，探究其对凡纳滨对虾生长性能、消化酶活性及营养物质表观消化率的影响，为有机酸（盐）在对虾饲料中的应用提供理论依据。
+
+# 1材料与方法
+
+# 1.1 试验设计与试验饲料
+
+柠檬酸、苹果酸和丁酸钠均购自国药集团化学试剂有限公司，其纯度分别为 $9 9 . 5 \%$ 、 $9 8 . 5 \%$ 和 $9 8 . 0 \%$ ,均为分析纯。肉骨粉粗蛋白质含量为 $49 . 8 \%$ ，粗脂肪含量为 $8 . 5 \%$ ，粗灰分含量为 $3 1 . 9 \%$ 豆粕粗蛋白质含量为 $45 . 3 \%$ ，粗脂肪含量为 $1 . 5 \%$ ，粗灰分含量为 $4 . 9 \%$ 。
+
+选1080尾初重（ $4 . 6 0 { \scriptstyle \pm 0 . 0 5 }$ ） $\mathbf { g }$ 的凡纳滨对虾，随机分为9组，每组4个重复，每个重复30 尾虾。正对照组(PC组)组饲喂鱼粉含量为 $1 8 \%$ 的基础饲料，2个负对照组分别饲喂以肉骨粉(MBM组)和豆粕(SM组)等蛋白质源替代1/3鱼粉(鱼粉含量降为 $12 \%$ 的试验饲料(同时补充微囊赖氨酸、蛋氨酸，达到和PC 组一致的水平)，试验组分别饲喂在2个负对照组试验饲料中添加$0 . 2 \%$ 柠檬酸(MBM-CA、SM-CA 组)、苹果酸(MBM-MA、SM-MA组)和丁酸钠(MBM-SB、SM-SB组)的试验饲料。试验饲料组成及营养水平见表1，试验饲料氨基酸组成见表2。主要原料粉碎过60目筛，均匀混合，添加 $2 5 \%$ 的蒸馏水，以单螺杆挤压机（SLP-45，中国水产科学研究院渔业机械仪器研究所）制成粒径 $2 . 0 \mathrm { m m }$ 颗粒。制粒温度为（ $8 5 { \pm } 5$ ） $^ { \circ } \mathrm { C }$ ， $5 5 ~ { ^ \circ } \mathrm { C }$ 烘干， $4 ^ { \circ } \mathrm { C }$ 冰箱保存。
+
+表1试验饲料组成及营养水平 (风干基础)
+
+Table 1Composition and nutrient levels of experimental diets (air-dry basis） $\%$   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="9">组别 Groups</td></tr><tr><td></td><td>MBM</td><td>MBM-CA</td><td>MBM-MA</td><td>MBM-SB</td><td>SM</td><td>SM-CA</td><td> SM-MA</td><td>SM-SB</td></tr><tr><td colspan="10">原料Ingredients</td></tr><tr><td>鱼粉 Fish meal (63%)</td><td>18.00</td><td>12.00</td><td>12.00</td><td>12.00</td><td>12.00</td><td>12.00</td><td>12.00</td><td>12.00</td><td>12.00</td></tr><tr><td>花生粕 Peanut meal</td><td>12.00</td><td>12.00</td><td>12.00</td><td>12.00</td><td>12.00</td><td>12.00</td><td>12.00</td><td>12.00</td><td>12.00</td></tr><tr><td>肉骨粉 Meat and bone meal</td><td>5.00</td><td>13.00</td><td>13.00</td><td>13.00</td><td>13.00</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td></tr><tr><td>次粉 Wheat middling</td><td>28.45</td><td>26.30</td><td>26.10</td><td>26.10</td><td>26.10</td><td>23.87</td><td>23.67</td><td>23.67</td><td>23.67</td></tr><tr><td>豆粕 Soybean meal</td><td>19.00</td><td>19.00</td><td>19.00</td><td>19.00</td><td>19.00</td><td>29.00</td><td>29.00</td><td>29.00</td><td>29.00</td></tr><tr><td>鱿鱼膏 Squid paste</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td></tr><tr><td>啤酒酵母 Beer yeast</td><td>4.00</td><td>4.00</td><td>4.00</td><td>4.00</td><td>4.00</td><td>4.00</td><td>4.00</td><td>4.00</td><td>4.00</td></tr><tr><td>大豆磷脂 Soy lecithin</td><td>1.50</td><td>1.50</td><td>1.50</td><td>1.50</td><td>1.50</td><td>1.50</td><td>1.50</td><td>1.50</td><td>1.50</td></tr><tr><td>鱼油Fish oil</td><td>2.00</td><td>1.80</td><td>1.80</td><td>1.80</td><td>1.80</td><td>2.40</td><td>2.40</td><td>2.40</td><td>2.40</td></tr><tr><td>胆固醇 Cholesterol</td><td></td><td></td><td></td><td></td><td></td><td>0.03</td><td>0.03</td><td>0.03</td><td>0.03</td></tr><tr><td>磷酸二氢钙 Ca(H2PO4)2</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>多维 Multi-vitamin</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td></tr><tr><td>多矿 Multi-mineral</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td></tr><tr><td>氯化胆碱Choline chloride</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>三氧化二钇 Y2O3</td><td>0.05</td><td>0.05</td><td>0.05</td><td>0.05</td><td>0.05</td><td>0.05</td><td>0.05</td><td>0.05</td><td>0.05</td></tr><tr><td>膨润土 Bentonite</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>微囊 DL-蛋氨酸 Coated DL-Met</td><td></td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td></tr><tr><td>微囊赖氨酸 Coated Lys</td><td></td><td>0.25</td><td>0.25</td><td>0.25</td><td>0.25</td><td>0.05</td><td>0.05</td><td>0.05</td><td>0.05</td></tr><tr><td>柠檬酸 Citric acid</td><td></td><td></td><td>0.20</td><td></td><td></td><td></td><td>0.20</td><td></td><td></td></tr><tr><td>苹果酸 Malic acid</td><td></td><td></td><td></td><td>0.20</td><td></td><td></td><td></td><td>0.20</td><td></td></tr><tr><td>丁酸钠 Sodium butyrate acid</td><td></td><td></td><td></td><td></td><td>0.20</td><td></td><td></td><td></td><td>0.20</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>干物质 Dry matter</td><td>92.51</td><td>92.37</td><td>92.59</td><td>92.46</td><td>92.66</td><td>92.38</td><td>92.64</td><td>92.36</td><td>92.67</td></tr><tr><td>粗蛋白质CP</td><td>37.16</td><td>36.50</td><td>36.67</td><td>36.78</td><td>36.67</td><td>36.63</td><td>36.57</td><td>36.38</td><td>36.51</td></tr><tr><td>粗脂肪 EE</td><td>6.29</td><td>6.28</td><td>6.34</td><td>6.27</td><td>6.28</td><td>6.30</td><td>6.34</td><td>6.35</td><td>6.31</td></tr><tr><td>粗灰分Ash</td><td>12.82</td><td>13.86</td><td>13.96</td><td>14.10</td><td>14.18</td><td>11.97</td><td>11.93</td><td>11.79</td><td>11.95</td></tr></table></body></html>
+
+多维和多矿组成参考 Su 等[18]。Composition of multi-vitamin and multi-mineral referenced Su et al[18].
+
+# 表2试验饲料氨基酸组成（风干基础）
+
+Table 2Amino acid composition of experimental diets (air-dry basis) %   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="9">组别 Groups</td></tr><tr><td>PC</td><td>MBM</td><td>MBM-CA</td><td>MBM-MA</td><td>MBM-SB</td><td>SM</td><td>SM-CA</td><td>SM-MA</td><td>SM-SB</td></tr><tr><td>必需氨基酸 EAA</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>氨酸 Val</td><td>1.14</td><td>1.09</td><td>1.10</td><td>1.07</td><td>1.00</td><td>1.04</td><td>1.07</td><td>1.09</td><td>1.02</td></tr><tr><td>苏氨酸 Thr</td><td>1.30</td><td>1.27</td><td>1.26</td><td>1.19</td><td>1.12</td><td>1.19</td><td>1.15</td><td>1.23</td><td>1.18</td></tr><tr><td>异亮氨酸Ile</td><td>0.92</td><td>0.84</td><td>0.82</td><td>0.82</td><td>0.81</td><td>0.93</td><td>0.92</td><td>0.90</td><td>0.90</td></tr><tr><td>亮氨酸Leu</td><td>2.34</td><td>2.28</td><td>2.28</td><td>2.17</td><td>2.06</td><td>2.17</td><td>2.18</td><td>2.35</td><td>2.24</td></tr><tr><td>苯丙氨酸 Phe</td><td>1.38</td><td>1.44</td><td>1.41</td><td>1.40</td><td>1.42</td><td>1.31</td><td>1.42</td><td>1.44</td><td>1.40</td></tr><tr><td>组氨酸 His</td><td>1.62</td><td>1.72</td><td>1.63</td><td>1.49</td><td>1.58</td><td>1.50</td><td>1.68</td><td>1.53</td><td>1.68</td></tr><tr><td>赖氨酸Lys</td><td>2.04</td><td>2.04</td><td>2.06</td><td>1.90</td><td>1.99</td><td>1.92</td><td>1.95</td><td>1.92</td><td>1.95</td></tr><tr><td>精氨酸Arg</td><td>2.39</td><td>2.24</td><td>2.28</td><td>2.38</td><td>2.27</td><td>2.26</td><td>2.26</td><td>2.18</td><td>2.19</td></tr><tr><td>非必需氨基酸 NEAA</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>天冬氨酸 Asp</td><td>3.69</td><td>3.32</td><td>3.42</td><td>3.41</td><td>3.51</td><td>3.45</td><td>3.47</td><td>3.29</td><td>3.72</td></tr><tr><td>丝氨酸 Ser</td><td>1.82</td><td>1.87</td><td>1.87</td><td>1.75</td><td>1.73</td><td>1.76</td><td>1.72</td><td>1.87</td><td>1.68</td></tr><tr><td>谷氨酸Glu</td><td>6.52</td><td>6.45</td><td>6.49</td><td>6.36</td><td>6.39</td><td>6.44</td><td>6.43</td><td>6.28</td><td>6.29</td></tr><tr><td>甘氨酸 Gly</td><td>2.50</td><td>2.48</td><td>2.50</td><td>2.77</td><td>2.74</td><td>2.29</td><td>2.10</td><td>2.39</td><td>2.22</td></tr><tr><td>丙氨酸 Ala</td><td>3.04</td><td>2.87</td><td>2.91</td><td>2.94</td><td>2.86</td><td>2.83</td><td>2.74</td><td>2.95</td><td>2.84</td></tr><tr><td>半胱氨酸Cys</td><td>0.24</td><td>0.21</td><td>0.21</td><td>0.19</td><td>0.21</td><td>0.25</td><td>0.25</td><td>0.27</td><td>0.24</td></tr><tr><td>酪氨酸Tyr</td><td>0.95</td><td>0.97</td><td>0.97</td><td>0.89</td><td>0.98</td><td>0.93</td><td>0.90</td><td>0.97</td><td>0.93</td></tr><tr><td>脯氨酸 Pro</td><td>1.83</td><td>1.97</td><td>1.99</td><td>2.04</td><td>2.00</td><td>1.83</td><td>1.83</td><td>1.99</td><td>1.85</td></tr><tr><td>总氨基酸TAA</td><td>33.73</td><td>33.03</td><td>33.20</td><td>32.77</td><td>32.66</td><td>32.11</td><td>32.08</td><td>32.66</td><td>32.35</td></tr></table></body></html>
+
+# 1.2 饲养管理
+
+试验用虾从上海书院养殖场采购，于室外土塘暂养。驯化4周后，选1080尾体重接近的虾随机分布于36个规格为 $1 . 5 \mathrm { m } { \times } 1 . 2 \mathrm { m } { \times } 1 . 0 \mathrm { m }$ 的网箱中，每个网箱为1个重复，每组4个重复，每个重复30尾虾。养殖期间，每天投喂4次（05:30、11:30、17:00和22:00）。每次以投喂结束$4 0 \mathrm { m i n }$ 内不剩料为宜，日投喂量为虾体重的 $3 \% { \sim } 5 \%$ ，并根据天气、水质和摄食情况适当调整，每个网箱保持基本一致的投喂量。每隔5d吸出池底污物，更换1/3池水(水源为沉淀过滤后的池塘水)。养殖期间，水温（ $2 6 { \pm } 3$ ） $^ \circ \mathrm { C }$ ，溶氧浓度 ${ > } 5 . 9 \ \mathrm { m g / L }$ ， $\mathrm { p H } 7 . 4 { \pm } 0 . 3 \$ ，氨氮浓度 ${ < } 0 . 1 8 \ \mathrm { m g / L }$ 。养殖时间为9周。
+
+# 1.3样品采集
+
+在养殖试验正式开始前，取10尾虾作为初始样本用作体组成的测定。养殖结束后，停止投
+
+料 $3 6 \mathrm { h }$ ，每个网箱记录虾尾数和总重，并随机取3尾虾保存于 ${ } _ { - 2 0 } { } ^ { \circ } \mathrm { C }$ 冰箱，留作全虾体组成分析，另每网箱取3尾虾解剖，取肝胰腺， $- 8 0 ~ ^ { \circ } \mathrm { C }$ 冻存，以测空腹状态下的肝胰腺消化酶活性。
+
+采样结束后，恢复正常投喂，于第3天中午投喂 $2 \mathrm { h }$ 后，每个网箱取3尾虾，解剖取其肝胰腺， $- 8 0 ~ ^ { \circ } \mathrm { C } .$ 冻存，以测定饱腹状态下的肝胰腺消化酶活性。在养殖的第6\~7周，每次投喂后的 $2 \mathrm { h }$ 用虹吸法收集完整粪便，存放于 ${ \displaystyle - 2 0 ~ } ^ { \circ } \mathrm { C }$ 冰箱，用以测定营养物质表观消化率。
+
+# 1.4测定指标及方法
+
+# 1.4.1 生长性能
+
+增重率(weight gain, $\mathrm { W G } , \%$ ， $_ { \mathrm { = } 1 0 0 \times }$ (终末均重-初始均重)/初始均重;   
+饲料系数(feed conversionratio,FCR) $\vDash$ 投喂量/(终末体重 $+$ 死虾体重-初始体重);   
+成活率(survival rate, SR $\scriptstyle , \% = 1 0 0 \times$ 初始尾数/终末尾数。
+
+1.4.2饲料、全虾和粪便成分分析及营养物质沉积率
+
+饲料、全虾的水分含量测定采用 $1 0 5 ^ { \circ } \mathrm { C }$ 常压烘干法，采用凯氏定氮法（Kjeltec2200，FOSS,丹麦)和氯仿甲醇抽提法检测饲料、粪便以及全虾的粗蛋白质、粗脂肪含量，用 $5 5 0 ^ { \circ } \mathrm { C }$ 灼烧法（马弗炉，SXL-1008；上海精宏实验仪器有限公司）测定饲料和全虾的粗灰分含量。
+
+蛋白质效率(PER)=(终末体重-初始体重)/(摄食量 $\times C P _ { \mathrm { D } } )$ ：
+
+蛋白质沉积率(protein retention, PR, $\% = 1 0 0 \times$ （终末体重 $\times C P _ { \mathrm { f } } { \cdot }$ 初始体重 $\times C P _ { \mathrm { I } } )$ V(投喂量 $\times C P _ { \mathrm { D } } )$ ;脂肪沉积率(lipid retention,LR, $0 \%$ $\scriptstyle 1 = 1 0 0 \times$ (终末体重 $\times C L _ { \mathrm { f } } .$ 初始体重 $\times C L _ { \mathrm { I } }$ V(投喂量 $\mathrm { \nabla } \times C L _ { \mathrm { D } } )$
+
+式中： $C P _ { \mathrm { f } } .$ ， $C L _ { \mathrm { f } }$ 分别为试验结束时全虾粗蛋白质、粗脂肪含量； $C P _ { \mathrm { I } }$ 、 $C L _ { \mathrm { I } }$ 分别为试验初始时全虾粗蛋白质、粗脂肪含量； $C P _ { \mathrm { D } }$ 、 $C L _ { \mathrm { D } }$ 分别为饲料粗蛋白质、粗脂肪含量。
+
+# 1.4.3 饲料氨基酸组成的测定
+
+饲料氨基酸组成采用氨基酸分析仪（Sykam S-433D，德国)测定。称量 $5 0 \mathrm { m g }$ 饲料，用 $6 \mathrm { m o l / L }$ 盐酸(加入 $1 \ \mathrm { g / L }$ 苯酚)于真空状态下水解 $2 4 \ : \mathrm { h } ( 1 1 0 ^ { \circ } \mathrm { C } )$ ，取 $0 . 5 ~ \mathrm { m L }$ 水解液经烘干后加 $5 \mathrm { m L }$ 稀释液稀释，最后进行上机分析。由于盐酸水解过程中的破坏，蛋氨酸和色氨酸未单独测定。
+
+# 1.4.4 肝胰腺蛋白酶、淀粉酶活性的测定
+
+从 $. 8 0 ^ { \circ } \mathrm { C }$ 冰箱取出肝胰腺，以 $4 ^ { \circ } \mathrm { C }$ 冰箱保存的生理盐水用作匀浆介质，依据质量体积比 $\scriptstyle = 1 : 9$ 进行匀浆， $6 0 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n } \left( 4 ^ { \circ } \mathrm { C } \right)$ ，提取上清液以备测定蛋白酶、淀粉酶活性。
+
+蛋白酶活性采用福林酚法测定，蛋白酶活性的定义为： $1 \mathrm { m L }$ 酶液在 $3 7 ^ { \circ } \mathrm { C }$ ， $1 \mathrm { m i n }$ 水解酪素产生 $1 ~ \mu \ g$ 酪氨酸为1个酶活性单位（U）。淀粉酶活性采用碘-淀粉比色法测定，淀粉酶活性的定义为：以组织中每 $\mathrm { \bf { g } }$ 蛋白质在 $3 7 ^ { \circ } \mathrm { C }$ 与底物作用 $3 0 \mathrm { m i n }$ ，水解 $1 0 \mathrm { m g }$ 淀粉定义为1个淀粉酶活性单位（U）。蛋白酶和淀粉酶活性采用南京建成生物工程研究生试剂盒测定。
+
+# 1.4.5 营养物质表观消化率
+
+使用电感耦合等离子体原子发射光谱仪（VistaMPX，VARIAN，PaloAIto 公司，美国）测定饲料、粪便中三氧化二钇（ $\mathrm { \cdot Y } _ { 2 } \mathrm { O } _ { 3 }$ ）的含量，进而计算出干物质表观消化率（apparent digestibilitycoefficient of dry matter,ADCDM）、粗蛋白质表观消化率（apparent digestibility coeficient of crudeprotein,ADCCP）和粗脂肪表观消化率（apparent digestibility coeficient of crude lipid,ADCCL）
+
+$\mathrm { A D C D M ( ^ { 0 } / _ { 0 } ) } { = } 1 0 0 \times ( 1 { - } D _ { \mathrm { Y 2 O 3 } } / F _ { \mathrm { Y 2 O 3 } } ) ;$ 某营养物质表观消化率 $( \% ) { = } 1 0 0 { \times } [ 1 { - } ( D _ { \mathrm { Y } 2 0 3 } { \times } F _ { \mathrm { i } } ) / ( F _ { \mathrm { Y } 2 0 3 } { \times } D _ { \mathrm { i } } ) ] ,$ 式中： $D _ { \nabla 2 \mathrm { O } 3 }$ 为饲料中 $\mathrm { Y } _ { 2 } \mathrm { O } _ { 3 }$ 含量 $( \% )$ ）； $F _ { \mathrm { Y 2 O 3 } }$ 为粪便中 $\mathrm { Y } _ { 2 } \mathrm { O } _ { 3 }$ 含量 $( \%$ ）； $F _ { \mathrm { i } }$ 为粪便中某营养物质含量 $( \%$ ）； $D _ { \mathrm { i } }$ 为饲料中某营养物质含量 $( \%$ ）。
+
+# 1.5 数据统计与分析
+
+各项数据以平均值 $\pm$ 标准误表示，用SPASS22.0软件进行统计分析，采用单因素方差分析（one-wayANOVA），用LSD 和Duncan氏法对数据进行多重比较， $P { < } 0 . 0 5$ 为差异显著标准。
+
+# 2结果
+
+2.1低鱼粉饲料中添加有机酸（盐）对凡纳滨对虾生长性能的影响
+
+由表3可知，各组存活率均无显著差异（ $P { > } 0 . 0 5$ ）。在肉骨粉替代1/3鱼粉后，MBM组的增重率较PC组降低 $1 1 . 7 5 \%$ （ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ），饲料系数提高0.19（ $_ { , P < 0 . 0 5 ) }$ ）；在肉骨粉饲料中添加柠檬酸和丁酸钠后，MBM-CA和MBM-SB组的增重率较MBM组分别提高 $7 . 7 9 \% . 6 . 4 2 \% ( P < 0 . 0 5 )$ ，饲料系数分别下降0.16、0.14（ $\scriptstyle P < 0 . 0 5$ ）；在肉骨粉饲料中添加苹果酸后，MBM-MA组的增重率和饲料系数较MBM组无显著差异（ $. { \cal P } { > } 0 . 0 5$ ）。
+
+在豆粕替代1/3鱼粉后，SM组的增重率较PC组降低 $1 1 . 4 5 \%$ （ $P { < } 0 . 0 5$ ），饲料系数提高0.15中 $( P { < } 0 . 0 5 )$ ）；在豆粕饲料中添加柠檬酸和丁酸钠后，SM-CA和 SM-SB 组的增重率较 SM组分别提高 $6 . 4 5 \%$ 、 $6 . 0 6 \%$ （ $_ { \cdot \textcircled { P } < 0 . 0 5 }$ ），饲料系数分别下降0.11、0.10（ $. P { < } 0 . 0 5$ ）；在豆粕饲料中添加苹果酸后，SM-MA组的增重率和饲料系数较SM组无显著差异（ $. { \cal P } { > } 0 . 0 5$ ）。
+
+# 表3低鱼粉饲料中添加有机酸(盐)对凡纳滨对虾生长性能的影响
+
+Table 3Effects of organic acid (salt) supplementation in low fish meal diet on growth performance of   
+
+<html><body><table><tr><td colspan="6">Litopenaeus vannamei</td></tr><tr><td>组别</td><td>初始体重</td><td>终末体重</td><td>增重率</td><td>饲料系数</td><td>存活率</td></tr><tr><td>Groups</td><td>IW/g</td><td>FW/g</td><td>WG/%</td><td>FCR</td><td>SR/%</td></tr><tr><td>PC</td><td>4.60±0.02</td><td>16.85±0.35a</td><td>266.3±9.6a</td><td>1.62±0.07a</td><td>85.83±5.69</td></tr><tr><td>MBM</td><td>4.61±0.03</td><td>15.45±0.08d</td><td>235.0±2.8c</td><td>1.81±0.02c</td><td>86.67±2.72</td></tr><tr><td>MBM-CA</td><td>4.61±0.06</td><td>16.29±0.17b</td><td>253.3±5.5ab</td><td>1.65±0.08ab</td><td>89.17±5.00</td></tr><tr><td>MBM-MA</td><td>4.59±0.05</td><td>15.59±0.13cd</td><td>239.7±4.7bc</td><td>1.73±0.03bc</td><td>89.17±5.69</td></tr><tr><td>MBM-SB</td><td>4.58±0.04</td><td>16.03±0.43bc</td><td>250.0±12.7b</td><td>1.67±0.03ab</td><td>87.50±1.67</td></tr><tr><td>SM</td><td>4.57±0.04</td><td>15.34±0.35d</td><td>235.8±1.8c</td><td>1.77±0.06c</td><td>83.34±6.09</td></tr><tr><td>SM-CA</td><td>4.60±0.02</td><td>16.15±0.25bc</td><td>251.0±5.7b</td><td>1.66±0.04ab</td><td>86.67±7.20</td></tr><tr><td>SM-MA</td><td>4.56±0.04</td><td>15.66±0.47cd</td><td>243.7±4.0bc</td><td>1.72±0.02abc</td><td>84.17±3.19</td></tr><tr><td>SM-SB</td><td>4.61±0.05</td><td>16.14±0.33bc</td><td>250.1±10.9b</td><td>1.67±0.02ab</td><td>88.33±6.94</td></tr></table></body></html>
+
+同列数据肩标不同小写字母表示差异显著（ $\cdot P { < } 0 . 0 5$ ），相同或无字母表示差异不显著（ $. { \cal P } { > } 0 . 0 5$ ）。下表同。
+
+In the same column, values with different smalletter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ， while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ . The same as below.
+
+2.2低鱼粉饲料中添加有机酸（盐）对凡纳滨对虾全虾体组成的影响
+
+由表4可知，各组凡纳滨对虾全虾的水分、粗蛋白质、粗脂肪和粗灰分含量均无显著差异（ $\cdot P { > } 0 . 0 5$ ）。
+
+表4低鱼粉饲料中添加有机酸（盐）对凡纳滨对虾全虾体组成的影响  
+Table 4Effects of organic acid (salt) supplementation in low fish meal diet on whole-body   
+
+<html><body><table><tr><td colspan="3">composition of Litopenaeus vannamei</td><td colspan="2">%</td></tr><tr><td>组别</td><td>水分</td><td>粗蛋白质</td><td>粗脂肪</td><td>粗灰分</td></tr><tr><td>Groups</td><td>Moisture</td><td>CP</td><td>EE</td><td>Ash</td></tr><tr><td>PC</td><td>79.13±1.21</td><td>16.16±0.65</td><td>0.94±0.03</td><td>2.62±0.21</td></tr><tr><td>MBM</td><td>79.85±1.42</td><td>15.86±0.48</td><td>0.86±0.04</td><td>2.61±0.04</td></tr><tr><td>MBM-CA</td><td>78.61±0.95</td><td>16.38±0.44</td><td>0.90±0.04</td><td>2.74±0.21</td></tr><tr><td>MBM-MA</td><td>79.96±1.57</td><td>15.42±0.76</td><td>0.91±0.06</td><td>2.65±0.22</td></tr><tr><td>MBM-SB</td><td>80.12±1.42</td><td>15.94±0.81</td><td>0.88±0.05</td><td>2.55±0.04</td></tr><tr><td>SM</td><td>79.61±1.03</td><td>15.30±0.70</td><td>0.88±0.06</td><td>2.76±0.17</td></tr><tr><td>SM-CA</td><td>78.87±0.66</td><td>16.21±0.37</td><td>0.93±0.05</td><td>2.71±0.15</td></tr><tr><td>SM-MA</td><td>78.82±0.89</td><td>15.89±0.61</td><td>0.92±0.07</td><td>2.59±0.19</td></tr><tr><td>SM-SB</td><td>79.22±1.12</td><td>15.66±0.50</td><td>0.91±0.07</td><td>2.80±0.14</td></tr></table></body></html>
+
+凡纳滨对虾初始全虾粗蛋白质、粗脂肪和粗灰分含量分别为 $1 7 . 0 3 \%$ 、 $1 . 1 4 \%$ 、 $2 . 4 6 \%$ 。
+
+The contents of crude protein,ether extract and crude ash of initial whole-body shrimp were $1 7 . 0 3 \%$ + $1 . 1 4 \%$ and $2 . 4 6 \%$ respectively.
+
+2.3低鱼粉饲料中添加有机酸（盐）对凡纳滨对虾的蛋白质效率与营养物质沉积率的影响
+
+由表5可知，在肉骨粉、豆粕替代1/3 鱼粉后，MBM和 SM组的蛋白质效率、蛋白质沉积率和脂肪沉积率较PC组均显著降低（ $\scriptstyle P < 0 . 0 5$ ）；在肉骨粉饲料和豆粕饲料中添加柠檬酸和丁酸钠后，MBM-CA和MBM-SB 组的蛋白质效率、蛋白质沉积率和脂肪沉积率较MBM组均显著提高（ $. P { < } 0 . 0 5$ ），SM-CA和 SM-SB 组的蛋白质效率、蛋白质沉积率和脂肪沉积率较SM组均显著提高（ $_ { \cdot \textcircled { P } < 0 . 0 5 }$ ）；在肉骨粉饲料和豆粕饲料中添加苹果酸后，MBM-MA组的蛋白质效率、蛋白质沉积率和脂肪沉积率较MBM组无显著差异（ $P { > } 0 . 0 5$ ），SM-MA组的蛋白质效率、蛋白质沉积率和脂肪沉积率较SM组无显著差异（ $. { \cal P } { > } 0 . 0 5$ ）。
+
+表5低鱼粉饲料中添加有机酸（盐）对凡纳滨对虾营养物质沉积率的影响
+
+Table 5Effects of organic acid (salt) supplementation in low fish meal diet on nutrient retention of
+
+<html><body><table><tr><td>组别</td><td>蛋白质效率</td><td>蛋白质沉积率</td><td>脂肪沉积率</td></tr><tr><td>Groups PC</td><td>PER 1.84±0.06a</td><td>PR 28.99±0.60a</td><td>LR 12.88±0.42a</td></tr><tr><td>MBM</td><td>1.67±0.02cd</td><td>25.60±0.18c</td><td>11.56±0.39c</td></tr><tr><td>MBM-CA</td><td>1.79±0.03ab</td><td>28.71±0.41a</td><td>12.29±0.28ab</td></tr><tr><td>MBM-MA</td><td>1.68±0.01cd</td><td>25.40±0.99c</td><td>12.01±0.33bc</td></tr><tr><td>MBM-SB</td><td>1.75±0.06b</td><td>27.05±0.15b</td><td>12.35±0.39ab</td></tr><tr><td>SM</td><td>1.65±0.05d</td><td>25.55±0.33c</td><td></td></tr><tr><td>SM-CA</td><td>1.77±0.04ab</td><td>28.14±0.57a</td><td>11.61±0.41c</td></tr><tr><td>SM-MA</td><td>1.71±0.08bcd</td><td>26.39±0.66bc</td><td>12.40±0.27ab</td></tr><tr><td></td><td></td><td></td><td>12.00±0.38bc</td></tr><tr><td>SM-SB</td><td>1.79±0.03ab</td><td>26.78±0.66b</td><td>12.75±0.33a</td></tr></table></body></html>
+
+2.4低鱼粉饲料中添加有机酸（盐）对凡纳滨对虾肝胰腺消化酶活性的影响
+
+由表6可知，各组在空腹和饱腹状态下的肝胰腺淀粉酶、蛋白酶活性均无显著差异！ ${ ( P { > } 0 . 0 5 ) }$ ：空腹状态下的淀粉酶活性与饱腹状态下的淀粉酶活性无显著差异（ $( P { > } 0 . 0 5 )$ ），但空腹状态下的蛋白酶活性显著低于饱腹状态下的蛋白酶活性（ $P { < } 0 . 0 5 \$ ）。
+
+表6低鱼粉饲料中添加有机酸（盐）对凡纳滨对虾肝胰腺消化酶活性的影响在同一消化酶活性下，同行数据肩标无字母表示差异不显著（ $_ { P > 0 . 0 5 }$ ），不同大写字母表示差异显著（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ ）。In the same digestive enzyme activity and in the same row,values without letter superscripts mean no significantdifference $( P { > } 0 . 0 5 )$ , while with different capital letter superscripts mean significant difference $( P { < } 0 . 0 5 )$
+
+Table 6Effects of organic acid (salt) supplementation in low fish meal diet on hepatopancreas digestive enzyme activity of Litopenaeus vannamei   
+
+<html><body><table><tr><td colspan="3">组别 淀粉酶 Amylase/(U/g prot)</td><td colspan="2">蛋白酶 Protease/(U/mg prot)</td></tr><tr><td>Groups</td><td>空腹 Empty</td><td>饱腹Full</td><td>空腹 Empty</td><td>饱腹Full</td></tr><tr><td>PC</td><td>263.7±14.8</td><td>263.5±23.1</td><td>13.24±0.39B</td><td>17.63±0.69A</td></tr><tr><td>MBM</td><td>237.6±26.5</td><td>233.9±12.9</td><td>13.55±1.34B</td><td>17.28±1.88A</td></tr><tr><td>MBM-CA</td><td>245.3±21.5</td><td>249.3±17.4</td><td>14.26±0.73B</td><td>17.63±1.38A</td></tr><tr><td>MBM-MA</td><td>247.2±15.0</td><td>251.5±21.2</td><td>14.34±0.61B</td><td>18.26±0.65A</td></tr><tr><td>MBM-SB</td><td>247.1±27.6</td><td>250.9±16.6</td><td>13.62±0.71B</td><td>18.36±1.15A</td></tr><tr><td>SM</td><td>230.0±13.1</td><td>232.6±14.0</td><td>13.17±0.78B</td><td>18.06±0.99A</td></tr><tr><td>SM-CA</td><td>243.6±18.9</td><td>253.5±13.4</td><td>14.64±1.01B</td><td>19.21±1.11A</td></tr><tr><td>SM-MA</td><td>260.1±26.0</td><td>263.3±15.4</td><td>14.60±0.96B</td><td>18.22±0.83A</td></tr><tr><td>SM-SB</td><td>243.1±18.8</td><td>250.3±17.1</td><td>14.17±1.07B</td><td>19.31±1.12A</td></tr></table></body></html>
+
+2.5低鱼粉饲料中添加有机酸（盐）对凡纳滨对虾营养物质表观消化率的影响由表7可知，在肉骨粉替代1/3鱼粉后，MBM组的干物质、粗蛋白质和粗脂肪表观消化率较PC 组均显著降低（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ ）；在肉骨粉饲料中添加柠檬酸、苹果酸、丁酸钠后，MBM-CA、MBM-MA、MBM-SB组的粗蛋白质、粗脂肪表观消化率较MBM组无显著影响（ $\scriptstyle P > 0 . 0 5 .$ ），MBM-CA、MBM-SB组的干物质表观消化率较MBM组显著提高（ $_ { , P < 0 . 0 5 ) }$ ，MBM-CA、MBM-SB组的干物质和粗脂肪表观消化率较PC组无显著差异（ $. P { > } 0 . 0 5 \$ ）。
+
+在豆粕替代1/3 鱼粉后，SM组的粗蛋白质和粗脂肪表观消化率较PC 组显著降低（ $( P { < } 0 . 0 5 )$ ；在豆粕饲料中添加柠檬酸、丁酸钠后，SM-CA和 SM-SB 组的干物质表观消化率较 SM组显著提高（ $P { < } 0 . 0 5$ ），与PC组无显著差异（ $\scriptstyle P > 0 . 0 5 .$ ）；SM-SB组的粗蛋白质和粗脂肪表观消化率与SM和PC组无显著差异（ $. P { > } 0 . 0 5 \$ ）。
+
+表7低鱼粉饲料中添加有机酸（盐）对凡纳滨对虾营养物质表观消化率的影响 Table 7Effects of organic acid (salt) supplementation in low fish meal diet on nutrient apparent   
+
+<html><body><table><tr><td colspan="4">digestibilityofLitopenaeusvannamei</td></tr><tr><td>组别</td><td>干物质消化率</td><td>粗蛋白质消化率</td><td>粗脂肪消化率</td></tr><tr><td>Groups</td><td>ADCDM/%</td><td>ADCCP/%</td><td>ADCCL/%</td></tr><tr><td>PC</td><td>55.36±0.75ab</td><td>80.98±0.79a</td><td>80.46±0.58a</td></tr><tr><td>MBM</td><td>53.53±0.81c</td><td>78.78±0.25b</td><td>79.15±0.85b</td></tr><tr><td>MBM-CA</td><td>54.99±0.90ab</td><td>79.54±0.51b</td><td>79.63±0.18ab</td></tr><tr><td>MBM-MA</td><td>54.36±0.82bc</td><td>78.95±0.66b</td><td>78.67±0.33b</td></tr><tr><td>MBM-SB</td><td>55.20±0.31ab</td><td>79.67±0.94ab</td><td>79.69±0.37ab</td></tr><tr><td>SM</td><td>54.00±0.48bc</td><td>78.38±0.85b</td><td>78.62±0.48b</td></tr><tr><td>SM-CA</td><td>56.07±0.71a</td><td>79.12±0.94b</td><td>79.15±0.98b</td></tr><tr><td>SM-MA</td><td>54.02±0.85bc</td><td>78.55±0.83b</td><td>79.16±0.91b</td></tr><tr><td>SM-SB</td><td>55.93±0.64a</td><td>79.64±0.74ab</td><td>79.38±0.79ab</td></tr></table></body></html>
+
+3讨论
+
+3.1肉骨粉、豆粕替代鱼粉的作用效果
+
+在异育银鲫(Carassius auratus gibelio)[24]和凡纳滨对虾[25]的研究中，当肉骨粉替代鱼粉的比例为 $30 \%$ 时，对机体的生长性能无显著影响，当替代比例进一步上升时，机体生长性能则开始下降。Hernandez等[26]研究发现，当肉骨粉替代鱼粉比例为 $3 5 \%$ 时，会显著降低凡纳滨对虾的生长性能。本试验中，在肉骨粉替代1/3鱼粉后，增重率降低 $1 1 . 7 5 \%$ ，饲料系数增加0.19，干物质、粗蛋白质和粗脂肪表观消化率显著降低，其可能原因是肉骨粉粗灰分含量偏高，影响了营养物质的消化吸收；此外肉骨粉的氨基酸组成中，一些必需氨基酸较为缺乏。尽管本试验在负对照饲料中补充了微囊蛋氨酸、赖氨酸，但由于肉骨粉的消化率低于鱼粉，故其可利用氨基酸含量也较低，此外，还存在着异亮氨酸等的不足。这也提示我们，在肉骨粉替代鱼粉的研究中，除了考虑赖氨酸、蛋氨酸外，其他的一些必需氨基酸也应考虑。
+
+对虹[27]的研究表明，当豆粕替代鱼粉比例不超过 $2 5 \%$ 时，对鱼体生长不会产生负面影响；
+
+以豆粕等蛋白质替代鱼粉，使饲料鱼粉含量从 $40 \%$ 降为 $22 \%$ ,对日本对虾(Marsupenaeus japonicus)生长和营养物质利用无显著影响[28]。在斑节对虾（Penaeus monodon）[29]幼虾饲料中，豆粕替代鱼粉的适宜比例为 $3 9 . 7 0 \%$ 。本试验中，在豆粕替代1/3鱼粉后，增重率降低 $1 1 . 4 5 \%$ 、饲料系数升高0.15，这与干物质、粗蛋白质和粗脂肪表观消化率的下降有关，也可能与豆粕中存在抗营养因子以及氨基酸组成不平衡有关[2-23:30]。豆粕中存在抗营养因子如凝集素、胰蛋白酶抑制因子和大豆抗原蛋白等，对营养物质的吸收利用存在抑制作用，胰蛋白酶抑制因子也会抑制蛋白酶活性[31]。
+
+# 3.2柠檬酸对凡纳滨对虾的作用效果
+
+柠檬酸能够提高南亚野鲮(Labeo rohita)[32]、真鲷[33]、黄尾[5]和虹鳟[6]对饲料的利用效率，改善机体生长性能。在饲料中添加 $0 . 2 \%$ 柠檬酸显著促进了罗非鱼[16]和异育银鲫[34]生长。Su等[18]在饲料中添加不同水平柠檬酸饲养凡纳滨对虾，发现饲料中添加 $0 . 2 \%$ 柠檬酸可提高增重率，降低饲料系数。本试验在肉骨粉饲料和豆粕饲料中添加 $0 . 2 \%$ 柠檬酸，均提高了增重率，降低了饲料系数，这与汪多等[35]在饲料中添加 $0 . 3 \%$ 柠檬酸显著促进凡纳滨对虾生长的报道一致。柠檬酸是三羧酸循环的中间产物，能够直接参与机体代谢过程，提供必要的能量。此外柠檬酸还有特殊的芳香味，具有诱食效果。本试验中，饲料中添加 $0 . 2 \%$ 柠檬酸显著提高了干物质表观消化率，但未显著提高粗蛋白质和粗脂肪表观消化率。在异育银鲫[3的研究中，饲料中添加 $0 . 2 \%$ 柠檬酸也未显著提高粗蛋白质表观消化率，但对生长性能表现出显著改善效果。
+
+# 3.3苹果酸对凡纳滨对虾的作用效果
+
+苹果酸在水产饲料中的研究报道相对较少。在饲料中添加 $0 . 4 \% { \sim } 0 . 8 \%$ 的苹果酸可促进湘云鲫生长，提高饲料利用率[7]。但在真鲷[9上的研究中，饲料中添加 $0 . 1 \%$ 苹果酸未显著促进鱼体生长。李赞等[8]认为，苹果酸添加量达 $0 . 8 \%$ 时才会对罗非鱼生长有促进作用。在本试验中，添加 $0 . 2 \%$ 苹果酸对凡纳滨对虾的增重率、饲料系数和营养物质表观消化率均无显著影响，其原因可能是由于苹果酸的添加量不足所致。苹果酸在凡纳滨对虾饲料中的适宜添加量有待进一步研究。
+
+# 3.4丁酸钠对凡纳滨对虾的作用效果
+
+在黄鳝(Monopterusalbus)饲料中添加 $0 . 0 2 5 \% { \sim } 0 . 1 0 0 \%$ 的丁酸钠，促进了鱼体生长和饲料转化[36]。在鲫鱼饲料中添加 $0 . 2 5 \%$ 的丁酸钠，提高了干物质和粗蛋白质消化率[14]。张晓晓等[19]的研究表明，饲料中添加 $0 . 2 5 \% { \sim } 3 . 0 0 \%$ 的包膜丁酸钠显著提高了凡纳滨对虾增重率和特定生长率。DaSilva等[37研究发现，丁酸钠、丙酸钠具有抑制弧菌的效果，并可提高饲料的诱食性，增加凡纳滨对虾的采食量。本试验中，饲料中添加 $0 . 2 \%$ 的丁酸钠显著提高了凡纳滨对虾增重率和干物质表观消化率，降低了饲料系数。丁酸钠作为动物肠道细胞的快速能量来源[38]，能促进肠道细胞更新和刺激损伤肠绒毛的恢复。此外，丁酸盐还可以刺激结肠内水和钠离子的吸收，产生促使黏膜修复的酶，刺激细胞内mRNA和蛋白质的合成，促进肠绒毛增殖，提高机体对养分的消化吸收能力[39-40]。
+
+# 3.53种有机酸(盐)效果的比较
+
+在肉骨粉全部取代鱼粉后的鲤鱼饲料中添加 $0 . 2 5 \%$ 的柠檬酸、苹果酸或丁酸钠，在不同程度上提高了增重率和营养物质沉积率，依次为柠檬酸 $\gtrdot$ 苹果酸 $\ >$ 丁酸钠[41]。本试验在低鱼粉饲料添加 $0 . 2 \%$ 柠檬酸或丁酸钠，在促进凡纳滨对虾的生长和提高消化率方面具有基本一致的效果，但添加 $0 . 2 \%$ 苹果酸却没有表现出正效应，这与在鲤鱼[41]上的结果有所不同。其原因可能在于二者消化道结构功能的差异：鲤鱼的前肠是消化吸收的主要部位，而对虾消化吸收的主要部位是肝胰腺；此外，几种有机酸(盐)在鲤鱼、凡纳滨对虾可能具有不同的适宜添加量，这些均有待于今后的进一步研究。
+
+此外，各有机酸(盐)组在饥饿 $3 6 \mathrm { h }$ 和投喂2h时凡纳滨对虾肝胰腺的消化酶活性上无显著差异，说明至少在空腹状态下有机酸(盐)对消化酶活性并无显著影响，但对饱食后其他时间点上的消化酶活性是否存在影响，尚有待于进一研究。本试验结果也表明饥饿状态下有机酸(盐)对凡纳滨对虾肝胰腺淀粉酶活性无显著影响，而蛋白酶活性显著降低，这可能是蛋白酶的分泌较淀粉酶更多地受到食物影响的缘故，这与黄鳝[42]在饥饿初期的表现一致。也有一些研究表明，甲壳动物[43-44可以通过降低体内消化酶活性的方法来抵抗饥饿胁迫。
+
+# 4结论
+
+在肉骨粉或豆粕替代1/3鱼粉的条件下，饲料中添加 $0 . 2 \%$ 柠檬酸或丁酸钠显著促进了凡纳滨对虾的生长，提高了饲料效率；但饲料中添加 $0 . 2 \%$ 苹果酸对凡纳滨对虾生长和饲料效率无显著影响。
+
+# 参考文献
+
+[1]PAPATSIROS V G,CHRISTODOULOPOULOS G,FILIPPOPOULOS L C.The uSe 0f organic acidsinmonogastricanimals(swineandrabbits)[J]. Journalof Cell and Animal Biology,2012,6:154-159.   
+[2]张婧婧,刘庚寿,李伟,等.不同剂型酸化剂对哺乳母猪生产性能、初乳成分和肠道菌群结构的 影响[J].动物营养学报,2017,29(6):2064-2070.   
+[3]汪晶晶,任红立,董佳琦,等.微生态制剂和复合酸化剂对哺乳母猪生产性能、血清生化和免疫 指标以及乳成分的影响[J].动物营养学报,2018,30(2):685-695.   
+[4]ADMAS M A,JOHNSEN P B,ZHOU H Q.Chemical enhancement of feeding for the herbivorous fish Tilapia zilli[J].Aquaculture,1988,72(1/2):95-107.   
+[5]SARKER M S A,SATOH S,KAMATA K,et al.Supplementation effect(s) of organic acids and/or lipid to plant protein-based diets on juvenile yellowtail,Seriola quinqueradiata Temminck et Schlegel 1845,growth and,nitrogen and phosphorus excretion[J].Aquaculture Research,2012,43(4):538-545. [6]HERNANDEZ A J,SATOH S,KIRON V.Supplementation of citric acid and amino acid chelated trace elementsin low-fish meal diet for rainbow trout aect growth and phosphorus utilization[J].Journal of the World Aquaculture Society,2012,43(5):688-696.   
+[7]刘建军,姜鲁燕,赵祥颖,等.L-苹果酸的应用及研究进展[J].中国食品添加剂,2003(3):53-56. [8]李赞,罗莉,陈任孝,等.L-苹果酸对吉富罗非鱼肠道结构功能及肝脏 TCA 循环效率的影响[J].
+
+水产学报,2014,38(1):119-126.
+
+[9]HOSSAIN M A,PANDEY A,SATOH S.Effects of organic acids on growth and phosphorus utilization in red sea bream Pagrus major[J].Fisheries Science,2007,73(6):1309-1317.   
+[10]ELALA N M A,RAGAA N M.Eubiotic effect of a dietary acidifier (potassium diformate) on the health status of cultured Oreochromis niloticus[J].Journal of Advanced Research,2015,6(4):621-629. [11]NG W K,KOH C B,SUDESH K,et al.Effects of dietary organic acids on growth,nutrient digestibility and gut microflora of red hybrid tilapia,Oreochromis sp.and subsequent survival during a challnge test with Streptococcus agalactiae[J].Aquaculture Research,2009,40(13):1490-1500. [12]尚卫敏,朱根廷,陈任孝,等.酸化剂对草鱼生长和非特异性免疫能力的影响[J].淡水渔 业,2011,41(5):56-61.   
+[13]PANDEY A,SATOH S.Efects of organic acids on growth and phosphorus utilization in rainbow trout Oncorhynchus mykiss[J].Fisheries Science,2008,74(4):867-874.   
+[14]孙浪,刘臻,郝光,等.丁酸钠对鲫鱼生长和肠细胞增殖的影响[J].中国水产科 学,2013,20(4):893-901.   
+[15]ROBLES R,LOZANO A B,SEVILLA A,et al.Effect of partially protected butyrate used as feed additive on growth and intestinal metabolism in sea bream (Sparus aurata)[J].Fish Physiology and Biochemistry,2013,39(6):1567-1580.   
+[16]潘庆,谭永刚,毕英佐,等.酸制剂对罗非鱼生长和饲料利用的影响[J].水产学 报,2004,28(6):682-688.   
+[17]VIELMA J,LALL S P.Dietary formic acid enhances apparent digestibility of minerals in rainbow trout,Oncorhynchus mykis (Walbaum)[J].Aquaculture Nutrition,1997,3(4):265-268.   
+[18]SU X G,LI X Q,LENG X J,et al.The improvement of growth,digestive enzyme activity and diseaseresistanceofwhiteshrimpbythedietarycitricacid[J].Aquaculture International,2014,22(6):1823-1835.   
+[19] 张晓晓,汪多,田相利,等.包膜丁酸钠对凡纳滨对虾生长和血清非特异性免疫酶活性的影响 [J].中国海洋大学学报（自然科学版）,2017,47(增刊).27-34.   
+[20]孙浪,刘臻,郝光,等.丁酸钠对湘云鲫蛋白质代谢及其相关基因表达的影响[J].动物营养学 报,2013,25(11):2775-2782.   
+[21]YANG Y,XIE S Q,LEI W,et al.Effect of replacement of fish meal by meat and bone meal and poultry by-product meal in diets on the growth and immune response of Macrobrachium nipponense[J].Fish & Shellfish Immunology,2004,17(2):105-114.   
+[22]刘襄河,叶继丹,王子甲,等.饲料中豆粕替代鱼粉比例对牙鲆生长性能及生化指标的影响[J]. 水产学报,2010,34(3):450-458.   
+[23]COLLINS S A,DESAI A R,MANSFIELD G S,et al.The effect of increasing inclusion rates of soybean,pea and canola meals and their protein concentrates on the growth of rainbow trout:concepts in
+
+diet formulation qiu CApvimnvniai design for ingredient evaluation[J].Aquaculture,2012,344-349:90-99.
+
+[24]HU M H,WANG Y J,QIAN W,et al.Replacement of fish meal by rendered animal protein ingredients with lysine and methionine supplementation to practical diets for gibel carp,Carassius auratus gibelio[J].Aquaculture,2008,275(1/2/3/4):260-265.   
+[25] TAN B P,MAI K S,ZHENG S X,et al.Replacement of fish meal by meat and bone meal in practical diets for the white shrimp Litopenaeus vannamai   
+(Boone)[J].AquacultureResearch,2015,36(5):439-444.   
+[26]HERNANDEZ C,OLVERA-NOVOA M A,AGUILAR-VEJAR K,et al.Partial replacement of fish meal by porcine meat meal in practical diets for Pacific white shrimp (Litopenaeus   
+vannamei)[J].Aquaculture,2008,277(3/4):244-250.   
+[27]KAUSHIK S J,CRAVEDI J P,LALLES J P,et al.Partial or total replacement of fish meal by soybean protein on growth,protein utilization,potential estrogenic or antigenic effects,cholesterolemia and flesh quality in rainbow trout,Oncorhynchus mykiss[J].Aquaculture,1995,133(3/4):257-274. [28]BULBUL M,KOSHIO S,ISHIKAWA M,et al.Growth performance of juvenile kuruma shrimp,Marsupenaeus japonicus (Bate) fed diets replacing fishmeal with soybean meal[J].Aquaculture Research,2015,46(3):572-580.   
+[29]张加润.斑节对虾饲料鱼粉替代研究及商品饲料环境安全性评价[D].硕士学位论文.上海:上 海海洋大学,2013.   
+[30]周歧存,麦康森,刘永坚,等.动植物蛋白源替代鱼粉研究进展[J].水产学 报,2005,29(3):404-410.   
+[31]王桂芹,李子平,闫先春,等.不同大豆制品对鲤生长和蛋白质代谢的影响[J].水产学 报,2010,34(2):300-306.   
+[32]BARUAH K,PAL A K,SAHU N P,et al.Dietary protein level,microbial phytase,citric acid and their interactions on bone mineralization of Labeo rohita (Hamilton） juveniles[J].Aquaculture Research,2005,36(8):803-812.   
+[33]SARKER M S A,SATOH S,KIRON V.Inclusion of citric acid and/or amino acid-chelated trace elements in alternate plant protein source diets affects growth and excretion of nitrogen and phosphorus in red sea bream Pagrus major[J].Aquaculture,2007,262(2/3/4):436-443.   
+[34]冷向军,伦锋,李小勤,等.柠檬酸对异育银鲫生长及营养物质消化率的影响[J].上海水产大学 学报,2006,15(2):178-181.   
+[35] 汪多,田相利,董双林,等.不同饲料添加物对凡纳滨对虾生长和血清非特异免疫指标影响的 研究[J].海洋湖沼通报,2017(3):106-114.   
+[36]张俊智.饲料中添加丁酸钠对黄鳝生长、免疫及肠道健康的影响[D].硕士学位论文.长沙:湖 南农业大学,2015.
+
+[37] DA SILVA B C,DO NASCIMENTO VIEIRA FMOURINO J L Pet al.Salts of organic acids selection by multiple characteristics for marine shrimp nutrition[J].Aquaculture,2013,384-387:104-110.
+
+[38] CHAPMAN M A,GRAHN M F,HUTTON M,et al.Butyrate metabolism in the terminal ileal mucosa of patients with ulcerative colitis[J].British Journal of Surgery,2010,82(1):36-38.   
+[39]PIVA A,MORLACCHINI M,CASADEI G,et al.Sodium butyrate improves growth performance ofweaned pigletsduring the firstperiod after weaning[J].Italian Journal of Animal Science,2002,1(1):35-41.   
+[40] 钟翔,陈莎莎,李伟,等.丁酸钠对断奶仔猪生产性能和肠道形态的影响[J].饲料研 究,2009(10):19-22.   
+[41] 石泽.蛋白酶、有机酸对异育银鲫(Carassius auratus gibelio)和建鲤(Cyprinus carpio var. Jian) 生长、营养物质利用率的影响[D].硕士学位论文.上海:上海海洋大学,2016.   
+[42] 杨代勤,陈芳,阮国良,等.饥饿对黄鳝消化酶活性的影响[J].应用生态学 报,2007,18(5):1167-1170.   
+[43] LEUNG K M,CHEN H,CHU K H.Effects of starvation on biochemical composition and digestive enzyme activities in the hepatopancreas of the shrimp Metapenaeus ensis[Cl//HIRANO R,HANYU I.Proceedingsof the Second Asian Fisheries Forum.Tokyo,Japan:Asian Fisheries Society,1989:17-22.   
+[44]KERAMBRUN P,GUERIN JP.Changes in amylase activity of Leptomysis lingvura in relation to experimental feedingconditons[J].Comparative Biochemistry and Physiology Part A:Physiol0gy,1993,105(2):303-310.   
+Effects of Organic Acids (Salt) Supplementation in Low Fish Meal Diet on Growth Performance,   
+Digestive Enzyme Activity and Nutrient Apparent Digestibility of Litopenaeus vannamei   
+HUAN Dianyu1.2.3LI Xiaoqin1.2.3YAO Wenxiang1.2.3YANG Hang1.2.3LIANG Gaoyang1.2.3   
+LENG Xiangjun1,2.3\*   
+(1. College ofFisheries and Life Science,Shanghai Ocean University,Shanghai 201306,China; 2. Key   
+Laboratory of Freshwater Fishery Cermplasm Resources,Ministry of Aquaculture, Shanghai 201306,   
+China; 3. Shanghai University Knowledge Service Platform, Aquatic Animal Breeding Center,   
+Shanghai Ocean University, Shanghai 201306, China)   
+Abstract: This study was conducted to evaluate the efects of organic acid (salt) supplementation in low   
+fish meal diet on growth performance, digestive enzyme activity and nutrient apparent digestibility of
+
+（责任编辑 武海龙)
+
+Litopenaeus vannamei. A total of 1 O8o Litopenaeus vannamei with an initial body weight of （2号 $( 4 . 6 0 { \scriptstyle \pm 0 . 0 5 } )$ g were randomly divided into 9 groups with 4 replicates per group and 30 shrimps per replicate. Shrimps in the positive control group (PC group) were fed a basal diet which contained $18 \%$ fish meal; shrimps in two negative control groups were fed the experimental diets which used meat and bone meal (MBM group) and soybean meal (SM group) replaced 1/3 fish meal, respectively; shrimps in experimental groups were fed the experimental diets of negative control groups supplemented with $0 . 2 \%$ citric acid (MBM-CA and SM-CA groups),malic acid (MBM-MA and SM-MA groups) and sodium butyrate (MBM-SB and SM-SB groups), respectively. The experiment lasted for 9 weeks. The results showed that compared with the PC group,the weight gain rate and apparent digestibility of crude protein and crude lipid in MBM and SM groups were significantly decreased $( P { < } 0 . 0 5 )$ ,and the feed conversion ratio was increased $( P { < } 0 . 0 5 )$ . The meat and bone meal diet and soybean meal diet supplemented with citric acid and sodium butyrate could significantly increase the weight gain rate, protein retention and lipid retention and dry matter apparent digestibility of Litopenaeus vannamei （204 $( P { < } 0 . 0 5 )$ ,and significantly decrease the feed conversion ratio $( P { < } 0 . 0 5 )$ ; the meat and bone meal diet and soybean meal diet supplemented with malic acid did not affect the weight gain rate, feed conversion ratio, protein retention, lipid retention and apparent digestibility ofdry mater,crude protein, crude lipid of Litopenaeus vannamei $P { > } 0 . 0 5$ ). There were no significant differences on the activities of protease and amylase in hepatopancreas of Litopenaeus vannamei ( $( P > 0 . 0 5 )$ .In summary, the supplementation of $0 . 2 \%$ citric acid and sodium butyrate in low fish meal diet ( $12 \%$ fish meal) can significantly promote the growth performance and feed efficiency of Litopenaeus vannamei, but the supplementation of $0 . 2 \%$ malic acid has no effect on the growth performance and feed efficiency.
+
+Key words: meat and bone meal; soybean meal; organic acid; Litopenaeus vannamei; growth; digestibility

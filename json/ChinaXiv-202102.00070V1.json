@@ -1,0 +1,489 @@
+[
+    {
+        "type": "text",
+        "text": "Seasonal changes in the water-use strategies of three herbaceous species in a native desert steppe of Ningxia, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HU Haiying1,23, ZHU Lin12,LI Huixia³, XU Dongmei3, XIE Yingzhong1 1,2,3\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Breedig Base for State KeyLaboratoryofLand Degradation and Ecological Restorationof North-western China,Ningxia University, Yinchuan 750021,China;   \n2 KeyLaboratory forRestorationandReconstructionofDegraded Ecosystem inNorth-western Chinaof Ministryof Education, Ningxia University,Yinchuan 75OO21,China;   \n3 School of Agriculture,Ningxia University,Yinchuan 75oO21,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Frequent periods of drought conditions are known to limit plant performance，primary production,and ecosystem stability in arid and semi-arid desert steppe environments. Plants often avoid competition by shifting their water use seasonally,which affects the water-use patterns of dominant species as well as the composition and structure of plant communities. However,the water-use strategies of dominant herbaceous species,which grow under natural field conditions in the desert steppe region of Ningxia Hui Autonomous Region, China,are poorly known. Here,we explored the possible sources of water uptake and water-use eficiency (WUE) of three dominant herbaceous plant species (Stipa breviflora, Agropyron mongolicum,and Glycyrbiza uralensis) in a native desert steppe in the semi-arid area of Ningxia through an analysis of multiple parameters, including (1) the stable isotopic oxygen and hydrogen ( $\\mathrm { 8 ^ { 1 8 } O }$ and $\\delta ^ { 2 } \\mathrm { H } \\rangle$ compositions of precipitation, soil water,and stem water,(2) the carbon isotope $\\mathrm { ( ^ { 1 3 } C ) }$ composition of leaves,and (3) the soil water contents,based on field sampling across varying water conditions from June to September, 2017. Frequent small precipitation events replenished shalow soil water, whereas large events only percolated down to the deep soil layers. Changes in soil water availability affected the water-use patterns of plants. Generally, during light precipitation periods, the deep root system of $G$ uralensis accessed deeper $( > 8 0 \\ \\mathrm { c m } )$ soil water, whereas $S$ breviflora and $\\mathcal { A }$ 、mongolicum,which only have shallow roots, primarily absorbed water from the shallow and middle soil layers.As precipitation increased,alltree plant species primarily obtained water from the shallow soil layers. Variation in soil water uptake between the dry and wet seasons enabled plants to make better use of existing satoil water. In addition, the $\\delta ^ { 1 3 } \\mathrm { C }$ values of $G .$ uralensis and $S _ { \\cdot }$ breviflora were higher than those of $\\mathcal { A }$ 、mongolicum. The $8 ^ { 1 3 } \\mathrm { C }$ values of the three plant species were significantly negatively correlated with soil water content. Therefore, $G$ uralensis and $S$ 、breviflora maintained a higher WUE through their conservative and water-saving strategies across the entire growing season. In contrast, $\\mathcal { A }$ 、mongolicum,with a relatively low WUE in the wet season but a high WUE in the dry season, exhibited a more flexible water-use strategy. The different water-use strategies of these dominant plant species demonstrated the mechanisms by which plant communities can respond to drought. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: stable isotope; water source; water availability; water-use efficiency; soil water; desert steppe ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In arid and semi-arid desert steppe climates, precipitation is typically the only means by which soil water is replenished.The uneven distribution of precipitation results in extreme spatial and temporal variability in soil moisture and controls the structure and function of plant communities (Antunes et al.,2O18). To survive and meet growth requirements, desert shrubs must regulate their water use and root morphology to ensure that soil moisture can be acquired through extended drought periods (Wu et al.,2O14). Thus,understanding the interactions between plants and soil is critical for determining how arid and semi-arid ecosystems wil respond to changes in precipitation (Bai et al., 2004). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Previous studies have shown that most grasses are opportunistic and utilize water available for short periods in the shallow soil layers (Wu et al.,2O16; Hirl et al.,2019),while shrubs rely on deeper soil water sources that are more stable long term (Yang et al.,2O11; Huang et al.,2015). In some plants,the water source used may depend on the growth stage or the availability of water in different seasons (Altieri et al.，2O15；Antunes et al., 2018). For example, in the dry season, deep-rooted plants primarily use deep vadose soil water or underground water, while in the wet season, plants can quickly respond to precipitation by absorbing shallow soil water (Dai et al., 2015；Elsworth and Sternberg， 2O15). Thus, plants can avoid competition through seasonal changes in water use,and these seasonal changes can influence the water-use patterns of dominant species as well as the composition and structure of plant communities (Burgess et al.，2000; Tanaka-Oda et al.,2O18). In addition, water-source-use behavior can be associated with broader strategies of drought resistance (Antunes et al., 2018). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Soil-plant-atmospheric interactions in water-limited environments have been extensively studied using stable isotopes. Several analytical methods for determining the source of water used by plants (Ellsworth and Williams,2OO7; Querejeta et al.，2O07） have been shown to be effective and accurate for tracking the movement of water in soil (Ehleringer and Dawson,1992; Dawson et al., 2002; Herczeg and Leaney, 2011). For example, leaf $\\delta ^ { 1 3 } \\mathrm { C }$ values provide a robust proxy for the water-use efficiency (WUE） of $\\mathbf { C } _ { 3 }$ plants,as $\\dot { 8 } ^ { 1 3 } \\mathrm { C }$ values and WUE are positively correlated (Wittmer et al.，2O08；Werner et al.，2O12). These techniques can be used to characterize the water-usestrategiesof diferent plant speciesunder different precipitation conditions (Moreno-Gutiérrez et al., 2O12; Nie et al., 2014). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The mismatch between plant growth and soil water capacity in different vegetation restoration areas often limits the progress of vegetation restoration. For example, Caragana microphylla is a xerophytic shrub with deep roots that has been planted over large areas in the desert steppe of Ningxia Hui Autonomous Region, China (Zhao et al.,2O18), where seasonal droughts are frequent. In the dry season, the deep soil water is consumed by the deep roots of these shrubs,leading to water deficits in the deep soil layers and water imbalances in the original community (Bian et al., 2015; Zhao et al.,2O18). Grassland self-restoration and programs to replant forage have often been implemented in the native desert steppe,and these efforts have resulted in increases in vegetation coverage and species richness. Perennial herbs,such as Stipa breviflora, Agropyron mongolicum, and Glycyrrhiza uralensis,are the dominant species in e native desert steppe (Hu et al.,2O19). The stability and water storage of native communities are superior to the stability and water storage of artificially planted shrub communities (Song et al.，2O14). However,some problems associated with ecological restoration strategies relate to a poor understanding of (1） the water requirements and water-use paterns of native plants and (2) the changes in soil moisture that occur following precipitation before replanting forage in restored areas. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Here,we conducted a field analysis of two typical undisturbed steppe communities located in eastern Ningxia that consist of the native desert steppe. The study area is primarily composed of native herbaceous plants,such as A.mongolicum, S.breviflora,and $G$ .uralensis.We combined H and O isotopic data collected from soil water, precipitation, and stem (or root crown) water with C isotopic data from leaves to assess the sources of water and the efficiency of water use under different precipitation and soil water conditions.The study was focused on the water-use strategies of the three studied plant species; the results could provide important information for the ecological restoration of the native desert steppe. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The study was conducted at the Ningxia Grassland Resource Management Monitoring Station $( 3 7 ^ { \\circ } 9 5 ^ { \\prime } \\mathrm { N }$ ， $1 0 7 ^ { \\circ } 0 0 ^ { \\prime } \\mathrm { E } )$ ，which is located in a sandy area in the eastern portion of Ningxia Hui Autonomous Region, China.This area is characterized by a typical temperate continental climate. The annual mean temperature is $7 . 5 ^ { \\circ } \\mathrm { C }$ ，and the maximum and minimum air temperatures are $3 4 . 9 ^ { \\circ } \\mathrm { C }$ and $- 2 4 . 2 ^ { \\circ } \\mathrm { C }$ ，respectively. The annual frost-free period is 162 d. The growing season begins at the end of April and ends in early October. The mean annual precipitation is approximately $2 8 0 . 0 ~ \\mathrm { \\ m m }$ ，with more than $70 \\%$ of precipitation falling between June and September. The potential annual evapotranspirationis $2 7 1 0 . 0 ~ \\mathrm { ~ m m }$ (Zhu et al.， 2016). Topographically, the area is characterized by gentle-sloping uplands (Fig. 1). The groundwater table is located between 3 and $8 \\mathrm { ~ m ~ }$ below the ground surface,and the main soil types include sierozem and aeolian sandy soils. Given the local climate, plant growth usually consumes most of the soil water in the spring and summer seasons.Water accumulates in the soil in autumn and slightly declines in winter (Song et al., 2O14; Zhao et al., 2018). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Two typical desert steppe plant communities ( $8 0 0 \\mathrm { ~ m ~ }$ apart) were selected as experimental sites. The first site was dominated by A.mongolicum,and fencing has been in place around this site since 2003 to prevent animal grazing. The second site was dominated by S. breviflora and $G$ .uralensis, and fencing has been in place around this site since 2Oo7.These three types of plant communities observed within the study area belong to the same vegetation layer. S. breviflora and $A$ ： mongolicum plant species are dense bundle-type and sparse clump-type perennial grasses, respectively. Their roots are primarily concentrated in the $\\textstyle 0 - 4 0 \\ \\mathrm { c m }$ soil layer (Cheng et al., 2008; Zhao et al.,2O17). G. uralensisis is characterized by deep axial root systems.All species represent important forage and ecological resources in the native desert steppe.The A. mongolicum site is primarily composed of compacted sierozem in the form of unconsolidated sediment (Fig.2a),and theS.breviflord $+ G$ .uralensis site mainly consists of compacted aeolian sandy soil (Fig.2b). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/388c08a736e5643743408cc29002d0baf79b6155c1144dc71143da2cb74d35a8.jpg",
+        "img_caption": [
+            "Fig.1Geographic location of the study area (a) and photographs of Stipa breviflora (b),Agropyron mongolicum (c),and Glycyrrhiza uralensis (d) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2231ad06cedea84139a2c8909520cfcaee4dfe9cd2a9df377fdfec0e494a51c3.jpg",
+        "img_caption": [
+            "Fig.2Photographs showing compacted sierozem in the form of unconsolidated sediment in the A.mongolicum site (a)and compactedaeoliansandysoilintheS.breviflora $+ G$ uralensis site (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Field sampling was conducted in the growing season in 2O17 under different precipitation conditions. The sampling dates were 26 June,2 August, and 3 September. The total precipitation for the $1 0 \\mathrm { d }$ before the sampling of each month was $1 5 . 1 ~ \\mathrm { m m }$ (in the middle of summer), $3 7 . 7 \\mathrm { m m }$ (in late summer),and $8 5 . 8 ~ \\mathrm { m m }$ (in early autumn),respectively.Thus,we defined the sampling dates as the early dry season,late dry season,and wet season,respectively.More details on the characteristics of the dominant plant species and sizes of soil particles are provided in Table l and Figure 3, respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8c69fc90c2ed990c2948039a4c6d1614d9a8049fd2e7f9dd4862b1291c9c86fb.jpg",
+        "table_caption": [
+            "Table1 Characteristics of the dominant plant species "
+        ],
+        "table_footnote": [
+            "Note:Mean±SD. "
+        ],
+        "table_body": "<html><body><table><tr><td>Species</td><td>Family</td><td>Height (cm)</td><td>Density (plants/m²)</td><td>Coverage (%)</td><td>Roots</td></tr><tr><td>Agropyron mongolicum</td><td>Gramineae</td><td>28.13±12.5</td><td>31.40±11.70</td><td>12.80±5.40</td><td>Sparse clump-type,with the rooting depth of 80-100 cm</td></tr><tr><td>Stipa breviflora</td><td>Gramineae</td><td>12.93±2.30</td><td>13.40±5.60</td><td>21.60±13.50</td><td>Dense bundle-type,with the rooting depth of 60-80 cm</td></tr><tr><td>Gurayerhiza</td><td>Leguminosae</td><td>21.60±5.10</td><td>8.80±3.60</td><td>5.20±2.90</td><td>Rbizomf150e2withthe roting</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bbd390e65c79f65bbdc71b95703d5e96fb347588140d56820f2f3dde33f7b603.jpg",
+        "img_caption": [
+            "Fig.3Variations in soil texture as a function of depth in A. mongolicum (a) and S.breviflora $+ G$ uralensis (b) sites.Error bar represents standard error of the mean of three observations.The particle size classes were defined as coarse sand $( 0 . 1 0 { - } 2 . 0 0 \\mathrm { m m } )$ ,fine sand $( 0 . 0 5 { - } 0 . 1 0 \\ \\mathrm { m m } )$ ,and silt and clay $\\mathrm { ^ { \\prime } { < } 0 . 0 5 \\ m m }$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 Field sampling ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "From May to September 2Ol7, the precipitation, temperature, humidity,and other meteorological variables were monitored at a small meteorological station in experimental sites (Fig. 1). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Precipitation sample was collected in clean, plastic containers and immediately transferred to a sampling bottle. A total of seven precipitation events were sampled from June to September 2017. Groundwater was collected from a $5 \\mathrm { - m }$ deep well (made of Unplasticized Polyvinyl Chloride (UPVC)), which was located approximately $3 0 0 \\mathrm { m }$ southwest of the S. breviflord $+ G$ uralensis site and approximately $6 0 0 \\mathrm { m }$ southeast of the A. mongolicum site. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We established a $1 0 0 \\mathrm { - m }$ transect within each site. There were three sampling plots in the $A$ mongolicum site,and six sampling plots in the S.breviflord $+ G$ 、uralensis site (three sampling plots for both S. breviflora and $G$ 、uralensis). Every replication sample was collected by 1O plants from its sampling plot (one part stem and three functional leaves were collected from one plant) on clear days at least $3 \\mathrm { ~ d ~ }$ after the last precipitation. $G$ .uralensis samples were obtained from the non-photosynthetic tissues of the stem by stripping them off the epidermis.A. mongolicum and S. breviflora samples were collected from non-photosynthetic tissues at the root crown (interface between the shoot and root systems). These materials were enclosed in a screw-capped glass vial sealed with parafilm for subsequent analyses of Hand O stable isotope ratios.The leaves of each plant species (1O plants） were collected and placed in the sample bags to analyze their $^ { 1 3 } \\mathrm { C }$ stable isotope ratios. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In addition to plant tissue sampling,we also collected soil samples from $0 { - } 1 4 0 ~ \\mathrm { c m }$ depth at $2 0 \\mathrm { - c m }$ intervals within each sampling plot. The samples were collected using a 5-cm diameter soil auger. Soil samples were divided into two parts. One part was placed in a screw-capped glass vial to analyze H and O stable isotope ratios; the other part was placed in an aluminum box to analyze soil moisture content, which was determined by the oven-drying and balance-weighing method (Zhu et al.,2Ol6). When the collection of the three replicates was completed,all samples used for stable isotope analyses were immediately stored in a refrigerator and then transported to the laboratory. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 Stable isotope analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Plant stem tissue and soil samples were kept frozen at $- 2 0 ^ { \\circ } \\mathrm { C }$ ， and precipitation and well water samples were stored at $4 ^ { \\circ } \\mathrm { C }$ in the laboratory until subsequent H and $_ { 0 }$ isotope analyses.The plant leaves were dried at $6 0 ^ { \\circ } \\mathrm { C }$ for $^ { 7 2 \\mathrm { ~ h ~ } }$ and then ground into powder for carbon isotope analyses.Water extractions from plant stems and soils,as well as isotopic analyses of samples,were conducted at the Huake Jingxin Stable Isotope Laboratory of Tsinghua University, Shenzhen City, China.Water in soils and plant stems was extracted using a cryogenic vacuum distilation apparatus (Horton et al.,2003). A MAT 253 isotope ratio mass spectrometer (Thermo Fisher Scientific, Inc., USA) was used to analyze the $^ { 1 8 } \\mathrm { O } / ^ { 1 6 } \\mathrm { O }$ isotope ratios in CO and ${ } ^ { 2 } \\mathrm { H } / { } ^ { 1 } \\mathrm { H }$ ratios in $\\mathrm { H } _ { 2 }$ .The ${ } ^ { 1 3 } \\mathrm { C } / { } ^ { 1 2 } \\mathrm { C }$ isotope composition was determined from $1 ~ \\mathrm { m g }$ samples with a DELTA $\\mathrm { \\Delta V }$ Advantage isotopic ratio mass spectrometer (Thermo Fisher Scientific, Inc., USA). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The $\\delta ^ { 2 } \\mathrm { H }$ $\\delta ^ { 1 8 } \\mathrm { O }$ and $\\delta ^ { 1 3 } \\mathrm { C }$ values were expressed as: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $R$ is the molar ratio of the heavy to light isotopes in the sample relative to the appropriate standards.The Vienna standard mean ocean water was used as the standards for $\\mathrm { ~ H ~ }$ and O,and the Pee Dee Belemnite carbonate was used as the standard for C.The accuracies of the analyses were as follows: $\\delta ^ { 2 } \\mathrm { H } < \\pm 1 . 0 \\%$ $\\delta ^ { 1 8 } 0 < \\pm 0 . 2 \\%$ ,and $\\delta ^ { 1 3 } \\mathbf { C } < \\pm 0 . 1 \\\\\\text{‰}$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4 Data analyses ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To analyze the sources of water in the dominant species, we compared the $\\delta ^ { 2 } \\mathrm { H }$ or $\\delta ^ { 1 8 } \\mathrm { O }$ values_of stem water and soil water within different soil layers. Specifically, the similarity in the $\\delta ^ { 2 } \\mathrm { H }$ or $\\delta ^ { 1 8 } \\mathrm { O }$ values between sources was used to infer the primary water sources absorbed by the plants.We then used the IsoSource software (Phillips and Gregg,2O03; Querejeta et al., 2OO7) to determine the fractional contribution of water sources to the studied plant species.The water in the neighboring soil layers with similar $\\delta ^ { 2 } \\mathrm { H }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ values was combined and then four water sources were determined, including water occurring at depths of $0 { - } 2 0 ~ \\mathrm { c m }$ (shallow soil layer), $2 0 { \\ - } 4 0 ~ \\mathrm { c m }$ (middle soil layer), $4 0 { - } 8 0 ~ \\mathrm { c m }$ (deep soil layer), and $8 0 { - } 1 4 0 ~ \\mathrm { c m }$ (deeper soil layer). Before running the IsoSource software to determine the range of potential source contributions, we set the source increment to $1 \\%$ and the mass balance tolerance to $0 . 0 5 \\%$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "All data were collated and displayed in Microsoft Excel 2O10. Statistical analyses were conducted in SAS 8.1 software (SAS Institute, Cary,NC, USA). Two-way or three-way analysis of variance (ANOVA) was used to detect the significance of main effects (sampling date, species, and soil layer),and multiple comparisons of means were performed using Duncan's tests at the $5 \\%$ level. The $9 5 \\%$ confidence intervals of the different model parameters and the Akaike information criterion were further used to test whether models were significantly different (Wang et al., 2008). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1 Distribution of precipitation and temperature ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The temporal distribution of precipitation in the plant growing season was uneven. There were 26 precipitation events in the dry season, which extended from May to July,and the total precipitation was $1 0 7 . 7 ~ \\mathrm { m m }$ (Fig. 4). From August to September, there were 21 precipitation events with 120.2 mm of total precipitation.Precipitation in September dropped sharply to $2 2 . 3 ~ \\mathrm { m m }$ .July was the hottest month $( 2 5 . 2 ^ { \\circ } \\mathrm { C } )$ ，followed by June $( 2 1 . 8 ^ { \\circ } \\mathrm { C } )$ and August $( 2 0 . 8 ^ { \\circ } \\mathrm { C } )$ . Thus，plants likely experienced severe water stress in July. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/500e070a6e6aa9d91ebb583f8250daea96237bf0ec84d18541bdc3bdf579676e.jpg",
+        "img_caption": [
+            "Fig.4Daily precipitation and temperature from May to October 2017 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2Isotopic signatures of the potential water sources ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure 5a, precipitation and groundwater were close to the global meteoric water line (GMWL; $\\delta ^ { 2 } \\mathrm { H } { = } 8 \\delta ^ { 1 8 } \\mathrm { O } { + } \\dot { 1 0 }$ ; Craig,1961). The $\\delta ^ { 2 } \\mathrm { H }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ values of soil water and plant stem water primarily fell on the right side of the local meteoric water line (LMWL; Fig. 5b) and varied from $- 8 1 . 5 6 \\%$ to $- 3 8 . 6 2 \\%$ and from $- 1 1 . 9 3 \\%$ to $1 . 1 9 \\%$ ，respectively. The equation of the soil water evaporation line (SWEL） was determined to be $\\delta ^ { 2 } \\mathrm { H } = \\dot { 3 } . 5 9 \\delta ^ { 1 8 } \\dot { \\mathrm { O } } - 3 7 . 3 5$ $( \\stackrel { \\cdot } { R } ^ { 2 } = 0 . 8 1 )$ ，and the regression line did not overlap with that of the LMWL. The $\\delta ^ { 2 } \\mathrm { H }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ values of plant stem water were primarily distributed on the right side of the SWEL,and the confidence intervals for both did not overlap (Table 2). Data obtained from the collected soil water samples were plotted for the different soil layers in Figure 5c. The SWEL $( \\delta ^ { 2 } \\mathrm { H } { = } 2 . 8 5 \\delta ^ { 1 8 } \\mathrm { O } { - } 4 2 . 9 9$ $R ^ { 2 } { = } 0 . { \\dot { 5 } } 8 )$ at depths of 0-60 cm fluctuated around the evaporation line,while the SWEL $\\mathrm { ( } 8 ^ { 2 } \\mathrm { H } { = } 3 . 9 8 \\delta ^ { 1 8 } \\mathrm { O } { - } 3 4 . 2 0$ ：， $\\scriptstyle \\mathrm { \\bigcap } R ^ { 2 } = 0 . 8 2 )$ at depths of $6 0 { - } 1 4 0 ~ \\mathrm { c m }$ showed less variation around the evaporation line; the confidence intervals of both did not overlap. The SWELs of the three plant communities were also significantly different (Fig.5d). The communities of S. breviflora $\\scriptstyle ( R ^ { 2 } = 0 . 7 7 )$ and $G$ ，uralensis $( R ^ { 2 } { = } 0 . 3 5 )$ were more controlled by unproductive water loss than the $A$ . mongolicum communities $\\scriptstyle ( R ^ { 2 } = 0 . 8 6 )$ .The confidence intervals of A. mongolicum did not overlap with those of S. breviflora and $G$ uralensis (Table 2); the SWEL for A. mongolicum was closest to the LMWL among allthree species. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/aa3b6ef86937bf0adfa79b5443d19eff2a838dfe427f6e474afe97ddd74e0037.jpg",
+        "img_caption": [
+            "Fig. 5Curves of $\\delta ^ { 2 } \\mathrm { H }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ values of different water sources. (a),precipitation and groundwater (GW); (b), plant stem water and soil water;(c),soil water of O-6O and $6 0 { - } 1 4 0 ~ \\mathrm { c m }$ layers;(d),soil water of plant communities. GMWL，global meteoric water line $( \\delta ^ { 2 } \\mathrm { H } { = } 8 \\delta ^ { 1 8 } \\mathrm { O } { + } 1 0 )$ ；LMWL, local meteoric water line $( \\delta ^ { \\hat { 2 } } \\mathrm { H } { = } 8 . 1 0 \\delta ^ { 1 8 } \\mathrm { O } { + } 7 . 1 8$ $R ^ { 2 } { = } 0 . 9 3 3 \\bar { 2 }$ $\\scriptstyle n = 9$ ); SWEL,soil water evaporation line; PWEL, plant stem water evaporation line. The corresponding curve equations of SWEL and PWEL are shown in Table 2. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/38ca3b1dba53fb78b4e304582ef5d55c78feb26c695ef8ae452279c8a8438ef9.jpg",
+        "table_caption": [
+            "Table 2Confidence intervals and statistics of the curve equations of SWEL and PWEL "
+        ],
+        "table_footnote": [
+            "Note: SWEL,soil water evaporation line;PWEL,plant stem water evaporation line; Sig.,significance; $\\ast \\ast \\ast \\ast$ $P < 0 . 0 0 1$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Item</td><td rowspan=\"2\">Equation</td><td colspan=\"4\">Confidence interval of model parameters</td><td rowspan=\"2\">R</td><td rowspan=\"2\">F value</td><td rowspan=\"2\">df</td><td rowspan=\"2\">Sig.</td></tr><tr><td>At 2.50% level</td><td></td><td></td><td>At 97.50% level</td></tr><tr><td></td><td></td><td>8²H</td><td>8180</td><td>8²H</td><td>8180</td><td></td><td></td><td></td><td></td></tr><tr><td>SWEL</td><td>82H=3.598180-37.35</td><td>-39.94</td><td>3.27</td><td>-34.77</td><td>3.92</td><td>0.74</td><td>481.80</td><td>169</td><td>*** ***</td></tr><tr><td>PWEL</td><td>8²H=2.578180-44.11</td><td>-47.88</td><td>1.82</td><td>-40.34</td><td>3.32</td><td>0.65</td><td>50.25</td><td>25</td><td>***</td></tr><tr><td>SWEL(0-60 cm)</td><td>8²H=2.858180-42.99</td><td>-47.48</td><td>2.27</td><td>-38.50</td><td>3.44</td><td>0.58</td><td>95.31</td><td>70</td><td>***</td></tr><tr><td>SWEL (60-140 cm)</td><td>8²H=3.988180-34.20</td><td>-37.27</td><td>3.61</td><td>-31.12</td><td>4.35</td><td>0.82</td><td>446.10</td><td>97</td><td>***</td></tr><tr><td>SWEL(A.mongolicum)</td><td>8²H=4.458180-31.57</td><td>-35.37</td><td>3.98</td><td>-27.77</td><td>4.91</td><td>0.86</td><td>364.80 220.10</td><td>59 64</td><td>***</td></tr><tr><td>SWEL(S.breviflora)</td><td>8²H=2.998180-42.33</td><td>-45.53</td><td>2.58</td><td>-39.12</td><td>3.38</td><td>0.77</td><td>22.71</td><td>43</td><td>***</td></tr><tr><td>SWEL(G.uralensis)</td><td>δ²H=1.748180-50.07</td><td>-55.84</td><td>1.00</td><td>-44.30</td><td>2.47</td><td>0.35</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3Changes soil water contents and the ${ \\bf \\delta } ^ { 8 } { \\bf \\delta } ^ { 1 8 } { \\bf 0 }$ and $\\delta ^ { 2 } \\mathbf { H }$ values of soil water in different soil layers for different plant communities ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Soil water contents and the $\\delta ^ { 2 } \\mathrm { H }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ values of soil water in the $0 { - } 1 4 0 ~ \\mathrm { c m }$ soil profile are shown in Table 3. The isotopic composition of soil water in different seasons and soil layers changed $_ { ( P < 0 . 0 5 ) }$ ，and no significant differences were observed among plant communities. The $\\delta ^ { 2 } \\mathrm { H }$ and $\\dot { 8 } ^ { 1 8 } \\mathrm { O }$ values of soil water in the early dry season were higher than those in the late dry season and wet season. The $\\delta ^ { 2 } \\mathrm { H }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ values of soil water were enriched in the shallow to middle soil layer $( 0 { - } 4 0 ~ \\mathrm { c m } )$ ，gradually reduced from 40 to $1 0 0 ~ \\mathrm { c m }$ ，and increased significantly below $1 2 0 \\mathrm { c m } ( P { < } 0 . 0 5 )$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Soil water contents of the three plant communities varied between seasons and soil layers (Table 3; Fig. 6). Soil water contents of the wet season were significantly higher than those of the dry season within each plant community $( P { < } 0 . 0 5 )$ . Soil water content of the $A$ 、mongolicum community was significantly higher than those of the S. breviflora and $G .$ ，uralensis communities $( P { < } 0 . 0 5 )$ . For the S. breviflora and $G$ 、uralensis communities,soil water contents in the 2O-4O and $1 2 0 { - } 1 4 0 ~ \\mathrm { c m }$ soil layers were significantly higher than those of the other soil layers; for the A. mongolicum community,soil water content in the $8 0 { - } 1 4 0 ~ \\mathrm { c m }$ soil layer was the highest. Soil water in deeper layers $( 8 0 - 1 4 0 ~ \\mathrm { c m } )$ ）was not significantly different across different season within each community. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/cfb67b32d5050de130b1aeb40813e22e2a8d0c94c8c96c4b26449f2b39a04c0e.jpg",
+        "table_caption": [
+            "Table 3 Comparisons in soil water content and the $\\delta ^ { 2 } \\mathrm { H }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ values of soil water in different soil layers of different plant communities in different seasons "
+        ],
+        "table_footnote": [
+            "Note:Different lowercase letters in the same column indicate significant differences at the $5 \\%$ level among different items for the same actor. Sig., significance; ns, $P { > } 0 . 0 5$ level; $\\ast \\ast \\ast \\ast$ $P { < } 0 . 0 0 1$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Factor</td><td rowspan=\"2\">Item</td><td rowspan=\"2\">Soil water content (%)</td><td colspan=\"2\">Soil water</td></tr><tr><td>δ²H value (%o)</td><td>δ18O value (%o)</td></tr><tr><td rowspan=\"4\">Season</td><td>Early dry season</td><td>5.29c</td><td>-61.42a</td><td>-6.87a</td></tr><tr><td>Late dry season</td><td>6.34b</td><td>-66.77b</td><td>-8.20b</td></tr><tr><td>Wet season</td><td>9.05a</td><td>-68.43b</td><td>-8.32b</td></tr><tr><td>Sig.</td><td>***</td><td>***</td><td>***</td></tr><tr><td rowspan=\"5\">Community</td><td>A. mongolicum</td><td>9.86a</td><td>-66.49a</td><td>-7.80a</td></tr><tr><td>S.breviflora</td><td>5.78b</td><td>-65.58a</td><td>-7.72a</td></tr><tr><td>G.uralensis</td><td>5.47b</td><td>-65.04a</td><td>-7.98a</td></tr><tr><td>Sig.</td><td>***</td><td>ns</td><td>ns</td></tr><tr><td>0-20 cm</td><td>4.80c</td><td>-63.22a</td><td>-7.06a</td></tr><tr><td rowspan=\"7\">Soil layer</td><td>20-40 cm</td><td>7.14b</td><td>-64.34ab</td><td>-7.52ab</td></tr><tr><td>40-60 cm</td><td>5.17℃</td><td>-65.93b</td><td>-8.08bc</td></tr><tr><td>60-80 cm</td><td>4.91</td><td>-65.51ab</td><td>-7.93bc</td></tr><tr><td>80-100 cm</td><td>8.96a</td><td>-66.88bc</td><td>-8.31°</td></tr><tr><td>100-120 cm</td><td>8.91a</td><td>-69.18c</td><td>-8.59℃</td></tr><tr><td>120-140 cm</td><td>9.17a</td><td>-64.99ab</td><td>-7.37ab</td></tr><tr><td>Sig.</td><td>***</td><td>***</td><td>***</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/efe24da31f5c408022a708a2bb754ae5fbf03f289865d2a946df339095b4d073.jpg",
+        "img_caption": [
+            "Fig.6Soilwater contents at $0 { - } 1 4 0 ~ \\mathrm { c m }$ soil depths for S.breviflora (a),G.uralensis (b),and A.mongolicum (c) communities measured in different seasons "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4Changes in the $\\delta ^ { 2 } \\mathbf { H }$ and ${ \\bf \\delta } _ { \\bf \\delta } ^ { 1 8 } { \\bf 0 }$ values of stem water and ${ \\delta } ^ { 1 3 } \\mathrm { C }$ values of leaves among three plant species in different seasons ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The isotopic signatures for stem water and leaves within $A$ . mongolicum,S.breviflora,and $G$ uralensis showed different responses to different water conditions (Table 4; Fig.7). The $\\delta ^ { 2 } \\mathrm { H }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ values among the three plant species in the late dry season (precipitation of $3 7 . 7 ~ \\mathrm { m m }$ ）were the highest and were not within the range of values observed in soil water. The $\\delta ^ { 2 } \\mathrm { H }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ values of $A$ . mongolicum were significantly higher than those of S.breviflora and $G$ ，uralensis $( P { < } 0 . 0 5 )$ ： As precipitation increased, the $\\delta ^ { 1 3 } \\mathrm { C }$ values of S. breviflora and $G$ ，uralensis initially increased and then declined, whereas the $\\delta ^ { 1 3 } \\mathrm { C }$ values of $A$ . mongolicum decreased gradually. The $\\delta ^ { 1 3 } \\mathrm { C }$ values of $G$ ，uralensis were the highest in the early dry season (precipitation of $1 5 . 1 ~ \\mathrm { m m }$ ), followed by $S .$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "breviflora and $A$ . mongolicum. The $\\delta ^ { 1 3 } \\mathrm { C }$ values of the three plant species were significantly negatively correlated with soil water content $( P { < } 0 . 0 5 )$ ，whereas the $\\delta ^ { 2 } \\dot { \\mathrm { H } }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ values of the three plant species were not significantly correlated with soil water content (Table 5). There was a significant relationship between the $\\delta ^ { 1 3 } \\dot { \\mathrm { C } }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ values for S. breviflora. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/643ed3c17aec945b341dcc3306d59182ff128c1ecea2d3c0e625cd4d79a1f0b2.jpg",
+        "table_caption": [
+            "Table 4 Comparisons of the $\\delta ^ { 2 } \\mathrm { H }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ values of stem water and $\\delta ^ { 1 3 } \\mathrm { C }$ values of leaves among diferent plant species in different seasons "
+        ],
+        "table_footnote": [
+            "Note:Different lowercase letters in the same column indicate significant differences at the $5 \\%$ level among different items for the same factor. Sig.,significance; $\\ast \\ast \\ast$ $P { < } 0 . 0 0 1$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td>Factor</td><td>Item</td><td>δ13C value (%o)</td><td>δ²H value (%o)</td><td>δ18O value (%o)</td></tr><tr><td rowspan=\"4\">Season</td><td>Early dry season</td><td>-26.23a</td><td>-60.69b</td><td>-5.04b</td></tr><tr><td>Late dry season</td><td>-26.07a</td><td>-49.43a</td><td>-2.72a</td></tr><tr><td>Wet season</td><td>-26.90b</td><td>-56.75b</td><td>-5.68b</td></tr><tr><td>Sig.</td><td>***</td><td>***</td><td>***</td></tr><tr><td rowspan=\"4\">Plant species</td><td>A.mongolicum</td><td>-27.58b</td><td>-50.12a</td><td>-2.49a</td></tr><tr><td>S.breviflora</td><td>-25.85a</td><td>-56.81b</td><td>-4.96b</td></tr><tr><td>G.uralensis</td><td>-25.76a</td><td>-59.93b</td><td>-5.99b</td></tr><tr><td>Sig.</td><td>***</td><td>***</td><td>***</td></tr><tr><td>SeasonxSpecies</td><td>Sig.</td><td>***</td><td>***</td><td>***</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/a42c94a6ba3ae9fa50c394eda0aa3ffab8fc4153eb503e422616a03d698d367d.jpg",
+        "img_caption": [
+            "Fig. 7 $\\delta ^ { 2 } \\mathrm { H }$ (a) and $\\delta ^ { 1 8 } \\mathrm { O }$ (b) values of stem water and $\\delta ^ { 1 3 } \\mathrm { C }$ values (c) of leaves for S. breviflora,A. mongolicum, and $G$ .uralensis in different seasons.Error bar represents standard error of mean of the observed values. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.5Quantification of water-use sources for the three plant species ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In the early dry season, the water use of S.breviflora was primarily derived from the shallow and middle soil layers with a proportional water use of $8 5 . 1 \\%$ , while A. mongolicum primarily acquired water from the shallow $( 0 { - } 2 0 ~ \\mathrm { c m } )$ and deep $( 4 0 - 8 0 ~ \\mathrm { c m } )$ soil layers (Fig. 8). G. uralensis primarily used water from the deeper soil layer $\\left( > 8 0 \\ \\mathrm { c m } \\right)$ with a proportional water use of $7 9 . 6 \\%$ . In the late dry season, the $\\delta ^ { 2 } \\mathrm { H }$ and $\\dot { 8 } ^ { 1 8 } \\mathrm { O }$ values of S. breviflora and A. mongolicum cannot be used to quantify the depth of water uptake. $G .$ uralensis primarily used water from the $0 { - } 2 0 ~ \\mathrm { c m }$ and deeper soil layers.In the wet season, precipitation was relatively abundant, and the water sources of S. breviflora and $A$ . mongolicum were similar; the two plant species mainly used water from the shallow and middle $( 0 { - } 4 0 ~ \\mathrm { c m } )$ soil layers,with water use percentages of $8 8 . 9 \\%$ and $9 9 . 0 \\%$ ， respectively. $G$ 、uralensis mostly used water from the shallow soil layer‘ $( 0 { - } 2 0 \\ \\mathrm { c m } )$ with a proportional water use of $9 4 . 3 \\%$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/9fa82bd8158991ad7b3f9b988b17d6e1f8e75f5634aaacf4f64773da4e993808.jpg",
+        "table_caption": [
+            "Table 5Correlations among soil water content, $\\delta ^ { 2 } \\mathrm { H }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ values of stem water,and $\\delta ^ { 1 3 } \\mathrm { C }$ values of leaves for A.mongolicum,S.breviflora,and $G _ { \\ l }$ .uralensis communities "
+        ],
+        "table_footnote": [
+            "Note:\",P<0.05 level;\\*\\*,P<0.01 level. n=9. "
+        ],
+        "table_body": "<html><body><table><tr><td>Species</td><td>Parameter</td><td>818O value</td><td>8²H value</td><td>813C value</td></tr><tr><td rowspan=\"4\">A.mongolicum</td><td>Soil water content</td><td>-0.00</td><td>0.37</td><td>-0.80**</td></tr><tr><td>818O value</td><td>1.00</td><td>0.79*</td><td>-0.26</td></tr><tr><td>δ²H value</td><td>0.79*</td><td>1.00</td><td>-0.46</td></tr><tr><td>δ13C value</td><td>-0.26</td><td>-0.46</td><td>1.00</td></tr><tr><td rowspan=\"5\">S. breviflora</td><td>Soil water content</td><td>-0.50</td><td>-0.02</td><td>-0.77*</td></tr><tr><td>818O value</td><td>1.00</td><td>0.78*</td><td>0.89**</td></tr><tr><td>δ²H value</td><td>0.78*</td><td>1.00</td><td>0.55</td></tr><tr><td>δ13C value</td><td>0.89**</td><td>0.55</td><td>1.00</td></tr><tr><td>Soil water content</td><td>0.16</td><td>-0.53</td><td>-0.93**</td></tr><tr><td rowspan=\"3\">G.uralensis</td><td>δ18O value</td><td>1.00</td><td>0.51</td><td>-0.18</td></tr><tr><td>δ²H value</td><td>0.51</td><td>1.00</td><td>0.65</td></tr><tr><td>813C value</td><td>-0.18</td><td>0.65</td><td>1.00</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/6706bf8370640aab628df45cdd55a5ce09d1e12ad9ba72a2ce3483e3cfb8133c.jpg",
+        "img_caption": [
+            "Fig.8Relative contributions of potential water sources for $G$ 、uralensis,S.breviflora,andA.mongolicumin the differentsoil layers intheearlydryseason(a,b,c)and wet season(d,e,f).Bars represent the possble relative contribution ranges of potential water sources. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.1 Soil water source and movement of water in the vadose zone ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Precipitation is the only water source supporting plant growth in the study area (Song et al., 2014). The soil water profiles showed that soil water content of the $0 { - } 2 0 ~ \\mathrm { c m }$ layer at the time of collection was low, indicating that there was significant evaporation from the surface soil layers following large precipitation events in the wet season. Soil water content of the deeper soil layer $\\left( > 8 0 \\mathrm { c m } \\right)$ did not change significantly，implying that the water had not been replenished by any of the precipitation events. Thus,frequent small precipitation events replenished the shallow soil water, whereas large events only percolated down to the deep layers $( 4 0 - 8 0 \\mathrm { c m } )$ 1 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The stable isotopic composition of soil water has previously been used as a natural tracer for studying the processes of precipitation infiltration and subsurface water migration (Dawson et al., 2002; Deng et al., 2017). In the study area, the LMWL was close to the GMWL $( \\delta ^ { 2 } \\mathrm { H } { = } 8 \\delta ^ { 1 8 } \\mathrm { O } { + } 1 0 )$ (Craig,1961),suggesting that the values were not significantly affected by evaporation. The SWEL $( \\delta ^ { 2 } \\mathrm { H } { = } 3 . 5 9 \\delta ^ { 1 8 } \\mathrm { O } { - } \\bar { 3 7 } . 3 5 )$ was below the LMWL and did not overlap it. These data indicated that the isotopic composition of soil water was no longer similar to meteoric water but had undergone evaporation. Thus,evaporation affected soil water within our experimental plots.Fluctuations of the SWEL in the upper soil layers $( { < } 6 0 \\ \\mathrm { c m } )$ were also significantly larger than those in the deeper soil layers $\\left( > 6 0 \\ \\mathrm { c m } \\right)$ $( P { < } 0 . 0 0 1 )$ , indicating that the upper soil was more strongly influenced by individual precipitation event as the isotopic signature of precipitation increasingly attenuated with soil depth.This observation indicated that deeper soil water was not affected by percolating precipitation,which was consistent with changes observed in soil water content. However, deep soil water might be replenished by precipitation after the growing season and by melting snow in early spring (Yang et al., 2011). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The combined processes of soil water evaporation, infiltration, and mixing characterize the slope of the SWEL (Herczeg and Leaney, 2O11). Thus,the soil water retention of the S. breviflora $+ G$ uralensisis site, which was characterized by a more bare soil relative to that of the A. mongolicum site, was poor,resulting in a large degree of soil moisture loss.Because of the larger quantities of aeolian sandy soil in the S. breviflora and $G .$ ，uralensisis communities (Fig.2),water followed preferential flow paths,leading to the rapid downward percolation of water into the shallow soil layers (Chen et al.,2O18). The downward percolation of water changed the soil isotopic profile by replacing the \"old soil water\" with \"new infiltrating water\" (Zhu et al.,2O16). Therefore,the SWEL suggested that the S. breviflora $+ G$ ，uralensis site was drier and characterized by a poorer soil habitat compared with the $A$ .mongolicum site. These findings indicated that the effect of infiltrating precipitation and evaporation on the $\\delta ^ { 1 8 } \\mathrm { O }$ and $\\delta ^ { 2 } \\mathrm { H }$ values of soil water was greater than the effect of vegetation. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.2 Water uptake patterns of the three plant species ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Previous studies have often suggested that plant water isotopic signatures do not match any available water source (Oerter et al.,2O18). We obtained similar findings in this study. The $\\delta ^ { 1 8 } \\mathrm { \\dot { O } }$ versus $\\delta ^ { 2 } \\mathrm { H }$ fitting curves $( \\delta ^ { 2 } \\mathrm { H } { = } 2 . 5 7 \\delta ^ { 1 8 } \\mathrm { O } { - } 4 4 . 1 1 )$ ） of stem water from the three dominant plant species were not completely in line with the SWEL，and values of stem water for the $A$ mongolicum and S. breviflora plots were located on the right side of the evaporation line (Fig. 5b). Thus,it was impossible to quantify the depth of the water sources obtained by $A$ .mongolicum and S. breviflora,which may be highly reliant on superficial water sources (Chen et al., 2O16). The evaporation of root crown water and the subsequent absorption of soil water by plants might be the cause of this problem (Bowen et al., 2O18). Araya et al. (2011） suggested that ecohydrological separation also provides a potential explanation for these patterns. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In the early dry season, S. breviflora and A. mongolicum plants could access soil water to depths greater than $4 0 \\ \\mathrm { c m }$ (Fig. 8） but primarily rely on water available in the shallow soil layers replenished by precipitation. G.uralensisis plants had binary roots that developed shallow horizontal root system to access shallow soil water from precipitation,and they also developed deep vertical root system to obtain deeper soil water below $8 0 \\mathrm { c m }$ depths.In the wet season,plants with diferent root types differed litle in their water-use patterns,suggesting that water use might not be affected by root type but instead of changes in soil water content once the available water in the shallow soil layers was abundant. That is, persistent periods of limited water caused plants to develop adaptations, such as deeper roots, to use deeper soil water (Wu et al., 2016). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Ellsworth and Sternberg (2O15） suggested that edaphic and climatic factors controling shallow soil water availability were the principal drivers of water-source use in the dry season. We found that the $\\delta ^ { 2 } \\mathrm { H }$ and $\\delta ^ { 1 8 } \\mathrm { \\bar { O } }$ values of plants were not significantly correlated with soil water content. When water conditions improved,plants primarily absorbed water from the shallow soil layers. Thus,the water absorbed by S. breviflora and A. mongolicum with shallow roots originated from the shallow soil layers over the entire growing season independent of season and soil water content (Chen et al.,2O16; Hirl et al.,2O19).Water use differed in the dry season for $G$ ，uralensis, presumably in response to water stress (Querejeta et al.,2OO7). The ability of plants to change the water source used in response to changes in available soil water depended on the depth and distribution of functional roots (Ellsworth and Sternberg,2O15; Zhu et al.,2016). Consequently, the strategy of switching water use between the shallow and deep soil layers was favored by deep-rooted plants growing in arid environments； such partitioning in water-use strategies minimized the competition for water that became available via small, ephemeral precipitation events in the prolonged drought periods (Wu et al., 2016). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.3 Water-use strategies among the three plant species ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { C } _ { 3 }$ plants have higher $\\delta ^ { 1 3 } \\mathrm { C }$ values under stress induced by water deficiency, and WUE increases as $\\delta ^ { 1 3 } \\mathrm { { \\bar { C } } }$ values increase (Auerswald et al.， 201O). In arid and semi-arid regions, plant species continually improve their WUE in the dry season and maintain relatively high WUE in the wet season through their relatively conservative water-use strategies (Nie et al.,2O14). In this study, $\\delta ^ { 1 3 } \\mathbf { C }$ values of leaves for the three dominant plant species were significantly higher in the dry season than in the wet season $( P { < } 0 . 0 5 )$ and significantly increased as soil water availability decreased $( P { < } 0 . 0 1 )$ . These differences between seasons resulted from the low levels of water available in the desert steppe environment. In the late dry season, precipitation increased; although we predicted that $\\delta ^ { 1 3 } \\mathbf { C }$ values would decrease, $G$ ，uralensis and S. breviflora still exhibited high $\\delta ^ { 1 3 } \\dot { \\mathbf { C } }$ values in contrast to $A$ . mongolicum, and both experienced intensified water stress. We believed that the low water-storage capacities of the soil in the S. breviflord $+ G$ uralensis site, as well as the available deep soil water in the $A$ 、mongolicum site (which reflected differences in soil texture), were the main reasons for these differences.Leading up to the wet season, water in the shallow soil layer increased,and $\\delta ^ { 1 3 } \\mathrm { C }$ values of leaves for all three plant species decreased. $G$ uralensis and S. breviflora still had significantly higher $\\delta ^ { 1 3 } \\mathrm { C }$ values than A. mongolicum, and also exhibited more conservative water-use strategies than $A$ . mongolicum. A. mongolicum had a relatively wide range of $\\delta ^ { 1 3 } \\mathrm { C }$ values (corresponding to a relatively low WUE in the wet season but a high WUE in the dry season) and a more flexible water-use strategy. This flexibility in water use is a common strategy for species to improve their WUE in the dry season (Nie et al.,2014). However, no relationships between WUE and water-use sources in the three plant species were observed, except for S.breviflora (Table 5). Previous work has suggested that diferent water-use strategies are employed to respond to changes in environmental water conditions and might be species-specific (Wu et al.,2Ol6). Such differences between species permittd the coexistence between species and maintain community stability when competition for water was strongest within the desert steppe ecosystem (Moreno-Gutiérrez et al., 2012; Wu et al., 2014). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In this study,we clarified the dominant environmental factors controling soil water in a native desert steppe in the semi-arid area of Ningxia. In the growing season， water consumption by evapotranspiration was often higher than that of precipitation in the same period. The amount of infiltrating precipitation was the main driver of variation in soil water availability and the isotope composition. Frequent small precipitation events replenished shallow soil water， whereas large events only percolated down to the deep soil layers. The S. breviflora $+ G$ ，uralensis site was drier and characterized by a poorer soil habitat compared with the A. mongolicum site from their SWEL. Changes in soil water availability affected the water-use patterns of plants.The deep root system of $G$ ，uralensis can access deeper soil water,while S. breviflora and A. mongolicum with shallow roots mainly absorbed water from the shallow soil layers during periods with little precipitation. As the amount of precipitation increased,the three plant species primarily obtained water from the shallow and middle soil layers. The highly flexible water-use strategies of A. mongolicum and conservative water-use strategies of S. breviflora likely facilitated advantageous responses to long-term drought stress.The change in water-use strategies between the dry and wet seasons enabled $G$ ，uralensis to make better use of existing soil water and demonstrated a mechanism by which plant communities can respond to drought. Generally,these native herbaceous species with their diverse adaptation strategies should be used for the restoration of degraded grassland ecosystems. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This study was supported by the Open Project Program of the Breeding Base for State Key Laboratory of Land Degradation and Ecological Restoration of Northwestern China/Key Laboratory for Restoration and Reconstruction of Degraded Ecosystem in Northwestern China of Ministryof Education (2O17KFO04)and the Ningxia Natural Science Foundation of Ningxia Hui Autonomous Region，China (2018AACO3002).We would like to thank Professor Cory MATTHEW from Massy University for his helpful suggestions and Dr.WANG Xing and Dr. WANG Lei from the Breeding Base for State Key Laboratory of Land Degradation and Ecological Restoration of Northwestern China/Key Laboratory for Restoration and Reconstruction of Degraded Ecosystem in North-western China of Ministry of Education for their assstance with data analysis. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Altieri S,MereuS,CherubiniP,etal.2O15.Treringcarbonandoxygenisotopes indcatedierent waterusestrategiesthree Mediterranean shrubs at Capo Caccia.Sardinia,Italy.Trees Structure and Function,5:1593-1603.   \nAntunes C,Diaz-Barradas MC,ZunzuneguiM,etal.20l8.Watersource partitioingamong plantfunctional types inasmi-arid dune ecosystem.Journal of Vegetation Science,29:671-683.   \nArayaYN,Silvertown J,GowingDJ,etal.2Ol1Afundamental,eco-hydrologicalbasis fornichesegregationinplant communities.New Phytologist,189:253-258.   \nAuerswaldK,LandingerC,WitmerM,etal2Olo.CarbonalocatedtotheleafgrowthzoneofPoapratensisreflectssoilwater andvaporpressuredeficit.I:SchnyderH,IsselsteinJ,TaubeF,etal.GrasslandinaChanging World.Gottingen:Univesitat Gottingen Press,857-859.   \nBaiYF,Han XG,WuJG,etal.2O04.Ecosystemstabilityandcompensatoryeffects intheInerMongolia grassland.Nature, 431: 181-184.   \nBianYY,SongNP,WangX,etal.2O15.Soil waterdeficitunderdierentland-usetypeindesertsteppe.JournalofSoiland Water Conservation,29(1):201-206,213.(in Chinese)   \nBowen GJ,Putnam A,BrooksJR,et al2O18.Inferring the sourceof evaporated waters using stableHandOisotopes. Oecologia,187: 1025-1039.   \nBurgessS SO,Adams MA,TurnerNC,etal.2O.Characterisationof hydrogen isotope profiles inanagroforestrysystem: implications for tracing water sources of trees.Agricultural Water Management,3: 229-241.   \nChen G,Auerswald K, Schnyder H. 2016. $^ 2 \\mathrm { H }$ and $^ { 1 8 } \\mathrm { O }$ depletion of water close to organic surfaces.Biogeosciences,13:3175- 3186.   \nChenJ,ChenLongNetal.8SoilinfitioaactesisfintsolstsiertsteJualf Water Conservation,32(4):18-23.(in Chinese)   \nChengXR,Huang MB,ShaoMG,et al.2Oo8.Root distribution andsoil water dynamicsof Medicago sativaL.and Stipa breviflora Griseb.Acta Prataculturae Sinica,2: 170-175.(in Chinese)   \nCraig H.1961.Isotopic variations in meteoric waters. Science,3465:1702-1703.   \nDaiY,ZhengXJ,TangLS,etal.2Ol5.StableoxygenisotopesrevealdistinctwaterusepatersoftwoHaloxylospeciesinthe Gurbantonggut Desert.Plant and Soil, 389(1-2): 73-87.   \nDawson TE,Mambeli S,Plamboeck A H,etal.2002.Stableisotopes inplant ecology.Annual Reviewof Ecologyand Systematics,33(1): 507-559.   \nDeng WP,ZhangJ,Zhang ZJ,etal.2O17.Stable hydrogenandoxygenisotopecompositionsinsoil-plant-atmosphere continum.SPACinrocky mountainareaof Beijing,China.Chinese Journalof ApliedEcology,7:2171-2178.(in Chinese)   \nEhleringer JR,Dawson TE.1992.Wateruptake byplants:Perspectives from stableisotopecomposition.Plant Cell and Environment,15(y): i0/5-108∠.   \nEllsworthPZ,Wiliams DG.2O07.Hydrogen isotope fractionation during wateruptakeby woody xerophytes.Plant and Soil, 291: 93-107.   \nEllswort PZ,Sternberg L SL.2015.Seasonal waterusebydeciduous and evergreen woodyspecies in a scrubcommunityis based on water availability and root distribution.Ecohydrology, 8(4): 538-551.   \nHerczeg AL,LeaneyFW.20l1.Review:Environmental tracers inarid-zone hydrology.Hydrogeology Joural,19(1):7-29.   \nHirl R T, Schnyder H, Ostler U,et al.2019.The $^ { 1 8 } \\mathrm { O }$ ecohydrology of a grassland ecosystem-predictions and observations. Hydrology and Earth System Sciences Discussions,23:2581-2600.   \nHortonJL,HartSC,KolbTE.2OO3.PhysiologicalcoditionandwatersourceuseofSonoranDesertriparian tresatteBil Williams River,Arizona, USA. Isotopes in Environmental and Health Studies,39(1): 69-82.   \nHu HY,LiHX,NiB,etalOl9.Characteristicof typcalvegetationcommuityandwateruse eficiencyofdominantpants in desert steppe of Ningxia.Journal of Zhejiang University (Agriculture &Life Science),45(4): 460-471. (in Chinese)   \nHuangL,Zhang ZS.2Ol5.Stable isotopic analysison water utilizationof two xerophyticshrubs inarevegetateddesertarea: Tengger Desert, China.Water,7(3):1030-1045.   \nMoreno-GutierezC,Dawson TE,Nicolas E,etal.20l2.Isotopesrevealcontrastingwateruse strategies among coexistingplant species in a Mediterranean ecosystem. New Phytologist,196(2): 489-496.   \nNie Y P,Chen H S,Wang K L,et al.2O14. Seasonal variations in leaf $\\delta ^ { 1 3 } \\mathrm { C }$ values: implications for different water-use strategies among species growing on continuous dolomite outcrops in subtropical China.Acta Physiology Plant,36:2571-2579.   \nOerterEJ,SiebertG,BowlingDR,etal.2Ol9.Soil watervapour isotopes identifymising water sourceforstreamside trees. Ecohydrology 12: e2083,doi: 10.1002/eco.2083.   \nPhilipsDL,GreggJW.03.Sourepartitioningusingstableisotopes:coping withtoomanysources.Oecologia36:261-269.   \nQuerejetaJI,Estrada-MeinaHllnMF,etal.O.Watersourepartitioingamong tresgrowingonshoastsilsina seasonally dry tropical climate. Oecologia,152:26-36.   \nSongNP,YangMX,WangL,etal.2O14.MonthlyvariationisoilmoistureunderCaraganaintermediastands grownidesert steppe.Chinese Journal of Ecology,33(10): 2618-2624.(in Chinese)   \nTanaka-OdaA,EndoIOhteN,etal.l8.Awateracquisitiostrategyyregulate tebomasanddistributioofitefage species in cold Asian rangeland.Ecosphere,9(12): e02511,doi: 10.1002/ecs2.2511.   \nWang X,HaoZ,YeJ,etal.2O08.Spatialpaternof diversityinanold growthtemperateforestinNortheaster China.Acta Oecologica,33(3): 345-354.   \nWermer C,Schnyder H,CuntzM,etal.20l2.Progressand challenges inusing stable isotopes to trace plantcarbonand water relations across scales. Biogeosciences,9(8): 3083-3111.   \nWitmer M H O M,Auerswald K, Tungalag R,et al.2Oo8.Carbon isotope discrimination of $\\mathbf { C } _ { 3 }$ vegetation in Central Asian grassland as related to long-term and short-term precipitation paterns. Biogeosciences,5: 913-924.   \nWuHW,LiXY,LiJ,etal.O16Diferentialsolmoisturepuseuptakebyoexistingplatsianlpinechatermslden grasland community.Environmental Earth Sciences 75: 914,doi:10.1007/s12665-016-5694-2.   \nWu Y,Zhou H,Zheng XJ,etal.2014.Seasonalchanges in thewateruse strategiesof three co-occurrng desert shrubs. Hydrological Processes,28(26): 6265-6275.   \nYang H,AuerswaldK,BaiYF,etal.2O.Complementarity in water sourcesamong dominantspecies intypical steppe ecosystems of Inner Mongolia, China.Plant and Soil, 340: 303-313.   \nZhaoPP,ShaoWS,inCQ,etal.2O7.Efectsofenclosureonbomassallcatiocharacteristicsof gropyron mongolicum population in desert steppe.Ecology and Environmental Sciences,26(12): 2024-2029.(in Chinese)   \nZhao YN,ZhouYR,Wang HM.218.Spatial heterogeneityofsoil watercontentunderintroducedshrub(Caraganakorshinski) in desert grassandofthe easternNingxia,China.ChineseJournalof AppliedEcology,29(11):3577-3586.(inChinese)   \nZhuL,ZhangHL,GaoX,etal.2Ol6.SeasonalpatersinwateruptakeforMedicagosativagrownalonganelevationgradient with shallow groundwater table in Yanchi countyof Ningxia,Northwest China.Journal ofArid Land,8(6): 921-934. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

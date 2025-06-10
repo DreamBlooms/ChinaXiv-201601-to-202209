@@ -1,0 +1,472 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201703290549 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孙岩,何明珠,王立.降水控制对荒漠植物群落物种多样性和生物量的影响.生态学报,2018,38（7):2425-2433.SunY,Heg",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "降水控制对荒漠植物群落物种多样性和生物量的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孙岩¹，何明珠²,王 立1，\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1甘肃农业大学林学院，兰州730070  \n2中国科学院西北生态环境资源研究院沙坡头沙漠试验研究站，兰州730000",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要;在全球气候变化背景下，干旱和极端降水事件将对荒漠区植物群落物种多样性和生产力产生深远影响,研究植物群落应对降水变化的响应机制对于荒漠生态系统的科学管理具有重要意义。通过人工增减雨措施利用遮雨棚和滴灌技术对研究区的降水量进行人为调控,探究极端干旱、干旱和降水增加等条件对荒漠植物群落物种多样性和生物量的影响。结果表明：经过一年的降水控制处理,发现灌木和草本层片物种多样性指数在极端干旱、干旱和降水增加等试验处理中差异不显著;灌木的生物量对不同降水控制条件的响应也不显著,而草本层片地上生物量对降水变化的响应最为明显，并随着降水量的增加呈线性增长趋势,极端干旱处理(D1)条件下草本生物量为( $1 0 . 5 4 \\pm 2 . 3 6 ) \\mathrm { g / m } ^ { 2 }$ ,当降水增加 $5 0 \\% ( \\mathrm { W } 1 )$ 后,草本生物量可达到（ $1 0 5 . 6 9 \\pm$ $2 8 . 6 0 ) \\mathrm { g } / \\mathrm { m } ^ { 2 }$ ;草本地上生物量与土壤浅表层( $4 0 \\mathrm { c m } )$ 的含水量之间显著相关( $P { < } 0 . 0 5 )$ ,草本层片生物量与短期(一年)降水波动显著相关。通过定位控制试验进一步探究长时间序列降水变化如何作用于荒漠植物群落特征,研究结果对全球气候变化背景下荒漠生态系统响应机制方面的研究提供数据和理论支撑。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：降水控制；极端干旱;荒漠植被；物种多样性;生物量",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effects of precipitation control on plant diversity and biomass in a desert region SUN Yan1，HE Mingzhu²，WANG Li1,\\* ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 College of Forestry， Gansu Agricultural University，Lanzhou 730o7o,China   \n2ShapotouDesertReseachdExperienttatiotstsituteofoontdesoucs，inesecdeyfcecso 730000,China 9 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:In thecontext of global climatechange，droughtand extremeprecipitation events will have far-reaching influences on speciesdiversityandproductivityof desert plant communities.Studying response mechanisms of plant communities to precipitation fluctuationsisof great significance forthe scientific management ofdesert ecosystems.Byusing rain sheltersanddrip irigationsystemstocontrol precipitation input,，thisstudy evaluated theeffectsof extremedrought (decreasing precipitation by $5 0 \\%$ ，D1 treatment），drought（decreasing precipitation by $2 5 \\%$ ，D2 treatment）and increasing precipitation （increasing precipitation by $50 \\%$ ，W1 treatment； increasing precipitation by $2 5 \\%$ ，W2 treatment) on species diversityand biomassofdesert plantcommunities.Afterone-year precipitationcontrol experiments，wefound that there wasno significant differenceinshruband grass diversity indices，nor shrub biomass，under D1，D2，W1and W2 treatments.The above-ground biomassof grass layers was sensitive to the precipitation changes. Grassbiomass was ( $1 0 . 5 4 \\pm$ 2.36）g/m² under D1 treatment，in contrast，grass biomass reached ( $1 0 5 . 6 9 \\pm 2 8 . 6 0 ) ~ \\mathrm { g / m } ^ { 2 }$ with $50 \\%$ precipitation enhancement（W1 treatment）.Grass biomassshoweda linear increasing trend with precipitationenhancementand was significantly correlated with soil water content of the shallow layer ( $4 0 \\mathrm { { c m } \\ d e p t h }$ ， $P { < } 0 . 0 5$ ).Therefore，biomass of grass layers were closelyrelated toshort-term（one year）precipitationfluctuations.Basedonlong-termlocation experiments,this studywillfurther exploretheeffectsof precipitationchangeondesertplantcommunitycharacteristics，theresultsof which will providedataandtheoretical support forresponse mechanism studiesofdesertecosystemsagainstthe backgroundof global climate change. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words: precipitation control；extreme drought ;desert vegetation; species diversity； biomass ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着全球气候变暖,干旱事件频发,降水波动对荒漠生态系统的影响也日益加剧[1-2]。据 IPCC(2013)报告,未来全球强降雨的强度和频率都会上升,同时部分地区也将遭遇更为严重和频繁的旱灾[3]。干旱事件将对生态系统的生物多样性[4]、生产力[5-7]、碳、氮循环[4,8-10]、土壤微生物群落[11]等产生深远影响。目前,为了揭示极端干旱事件等对不同生态系统的影响,国际上已建立了IDE（Intermational Drought Experiment）全球联网研究系统。而广泛分布于我国干旱和半干旱地区的荒漠生态系统由于其自身的脆弱性,决定了其对极端干旱等气候条件的响应更为敏感[5.8]。因此,深入研究降水波动等对荒漠区植物群落结构和功能的影响对于荒漠生态系统生物多样性保育和科学管理具有重要意义。 （",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "物种多样性和生物量是表征和评价植物群落组成和功能的重要指标[12]。在干旱荒漠地区,植物群落的物种多样性和生产力水平对于维持荒漠生态系统的功能稳定性,以及改善区域生态环境具有重要作用[13]。近年来,国内外学者对物种多样性、生物量与降水变化的内在关系开展了深入的研究。大部分的研究侧重于探讨物种多样性、生产力与干旱、降水的年际变化之间的关系[1,4,14],研究工作主要集中在草原、荒漠等地区[2.7-8]。例如,Gherardi 和 Sala 在美国新墨西哥州荒漠通过6年的降水控制试验发现,年际间降水变异系数的增加显著地降低了生态系统的初级生产力;不同生活型植物对降水变异的响应截然相反,其中草本的生物量下降了 $8 1 \\%$ ,而灌木的生物量增加了 $67 \\%$ 。因此，全球气候变化引起的降水量大幅波动会导致草本多度的下降,而促进灌木的定居和生长[1]。而极端干旱事件将对植物多样性产生严重的影响,如在美国明尼苏达州经历了50年一遇的极端干旱事件后导致草地植物丰富度平均下降 $3 7 \\%$ ,地上生物量下降 $4 7 \\% ^ { [ 4 ] }$ 。国内学者在降水变化对植物群落的影响方面也开展了研究,叶鑫[15]、杨秀静[16]、徐满厚[17]、孙羽[18]等对高寒草地、草原、荒漠进行了降水调控对植物群落物种多样性和生物量影响的研究;白春利等[19]对内蒙古草原植物群落特征的研究表明,水分添加会提高群落的丰富度指数、均匀度指数和多样性指数,同时也发现植被群落特征的变化对水分的响应有赖于时间的积累。Wang 等[14]不同人工草地群落物种多样性和生产力在干旱和正常降水条件下的研究表明,干旱和正常降雨条件下,物种丰富度和生产力之间不相关;生产力低的人工草地群落较生产力高的群落对干旱的耐受性更为显著。相对而言,我国在干旱荒漠地区开展的相关研究较少,亟需通过降水控制试验揭示极端干旱及降雨事件对荒漠生态系统植物多样性和生产力等的影响机制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "荒漠生态系统广泛分布于我国西北地区,该地区年降水量稀少且时空分布不均,蒸发强烈,水资源相对匮乏,属于典型的温带大陆性气候[20]。本研究区域位于阿拉善荒漠南缘（地处宁夏自治区和内蒙古阿拉善盟交界处)，以草原化荒漠植被为主,主要由灌木和草本层片组成,物种多样性和植被覆盖度较低,而且植被遭受破坏后生态恢复的进程非常缓慢或难以恢复[21-22]。本研究按照 IDE 的标准布置了降水梯度控制试验平台,以揭示不同降水处理(极端干旱、干旱以及降水增加)条件下荒漠植物多样性水平的变化以及不同生活型植物在生物量方面的响应规律,研究工作可为全球气候变化背景下荒漠生态系统的科学管理提供一定的科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区位于中国科学院沙坡头沙漠研究站小红山荒漠生态系统野外综合观测场 $( 3 7 ^ { \\circ } 2 9 ^ { \\prime } \\mathrm { N } , 1 0 4 ^ { \\circ } 2 5 ^ { \\prime } \\mathrm { E } )$ ，地处宁夏中卫市境内的腾格里沙漠东南缘,属于阿拉善高原荒漠与荒漠草原过渡带,多年平均气温为 $1 0 . 6 ^ { \\circ } \\mathrm { C }$ 左右,平均降雨量为 $1 8 6 \\mathrm { m m }$ ,土壤为棕钙土,土壤剖面分化较明显,腐殖质层厚度为15— $3 0 \\mathrm { c m }$ 。地下水埋深无法被植物根系直接吸收利用,植物和土壤的主要水分来源于天然降水,降水主要集中在7—9月[23]。植物群落组成主要以细枝盐爪爪（Kalidium foliatum）、珍珠猪毛菜（Salsola passerina）和红砂（Reaumuria soongorica）为优势灌木,以小画眉草(Eragrostis minor）碱蓬（Suaeda glauca)为优势草本。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 实验方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2015年在宁夏中卫小红山地区，布设了15个 $3 \\mathrm { m } \\times 3 \\mathrm { m }$ 的植被样地，通过遮雨棚和滴灌系统来设计不同的降水控制条件（发明专利号：ZL201510186556.9）,包括5个降水梯度,即极端干旱处理( $- 5 0 \\%$ ,D1）、干旱处理( $- 2 5 \\%$ ,D2）、对照（CK）增雨处理 $\\mathrm { I } ( + 5 0 \\% , \\mathrm { W } 1 )$ 、增雨处理 $\\mathrm { I I } \\left( + 2 5 \\% , \\mathrm { W } 2 \\right)$ ,每个处理3个重复。同期,在试验区内架设小型气象站,主要对降水量、空气温度、有效光合辐射(PAR）、土壤 $1 0 \\mathrm { { c m } }$ 和 $4 0 \\mathrm { c m }$ 深度的含水量、温度和电导率进行连续数据采集,采用CR1000 数采仪记录数据。经过一年观测研究,于2016年9月末，进行物种组成及生物量等群落特征的调查。在每个样方内对所有灌木进行调查,测量并记录每一株灌木的冠幅和株高;草本调查是在每个水分处理样方中随机选择3个 $5 0 \\mathrm { c m } { \\times } 5 0 \\mathrm { c m }$ 的小样方进行调查,共计45个样方，草本地上生物量采用刈割法取样,然后在烘箱中 $7 5 \\mathrm { ^ { \\circ } C }$ 恒温烘干至恒重。〇（",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 数据处理与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "植物群落物种多样性指数计算公式如下[24]：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "丰富度指数： $R = S$   \nMargalef指数: $D = ( \\mathrm { \\nabla { S - 1 } } ) / \\mathrm { l n } { N }$ S  \nSimpson多样性指数： 1 一 M p²S  \nShannon-Wiener多样性指数： H= £ piIn(pi)  \nPielou均匀度指数： E=H/lnS",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中，S为样方中的物种数， $p _ { i }$ 为第 $i$ 中植物的株数占总株数的比例， $N$ 植物总株数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为保证试验样地的长期定位连续监测,减少人为干扰和破环,研究前期通过大样本采样的方式建立了优势灌木冠幅、高度和生物量之间的优化估算模型[25]。具体的模型及参数见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/3c4814e8d96bb9f24273fe7aee3931a87232c6d3d6988f868eef9aa5d3b18293.jpg",
+        "table_caption": [
+            "表1灌木地上部分生物量最优模型",
+            "Table1 Best estimation models of above ground biomass of shrubs "
+        ],
+        "table_footnote": [
+            "W:灌木生物量 Biomass of shrub;a,b 为模型系数 Model parameters;V:灌木体积 Canopy volume of shrub"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">物种名称 The name of the species</td><td rowspan=\"2\">最佳模型 The best model</td><td colspan=\"2\">参数 Parameter</td><td rowspan=\"2\">R²</td><td rowspan=\"2\">P</td></tr><tr><td>a</td><td>b</td></tr><tr><td>盐爪爪Kalidium foliatum</td><td>W=a Vb</td><td>0.004</td><td>0.971</td><td>0.917</td><td><0.0001</td></tr><tr><td>珍珠猪毛菜 Salsola passrina</td><td>W=a Vb</td><td>0.011</td><td>0.884</td><td>0.893</td><td><0.0001</td></tr><tr><td>红砂 Reaumuria soongorica</td><td>W=a Vb</td><td>0.012</td><td>0.783</td><td>0.873</td><td><0.0001</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用 SPSS 19.0软件进行单因素方差分析,比较不同降水处理对植物多样性和地上生物量的影响,差异显著条件下采用LSD法进行多重比较;利用回归曲线拟合不同降水处理和地上生物量的相关性。采用Origin8.5软件进行绘图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1不同降水控制处理的土壤水分动态变化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "降水控制对土壤含水量有着一定的影响作用,其中D1、D2、CK、W1、W2处理的 $1 0 \\mathrm { { c m } }$ 和 $4 0 \\mathrm { c m }$ 平均土壤体积含水量 $( { \\bf { v } } / { \\bf { v } } \\% )$ )分别为 $1 1 . 3 8 \\% \\pm 0 . 8 9 \\%$ ， $8 . 9 6 \\% \\pm 0 . 9 9 \\%$ （204号 $9 . 5 7 \\% \\pm 0 . 7 1 \\% . 1 4 . 3 6 \\% \\pm 1 . 0 6 \\% . 1 1 . 9 7 \\% \\pm 0 . 8 9 \\%$ 和$9 . 0 8 \\% \\pm 0 . 4 6 \\%$ ） $1 2 . 3 9 \\% \\pm 0 . 6 7 \\%$ $, 1 4 . 5 2 \\% \\pm 0 . 8 9 \\% , 2 1 . 3 9 \\% \\pm 1 . 3 4 \\% , 1 8 . 1 5 \\% \\pm 1 . 1 1 \\%$ 。通过土壤深度、降水控制条",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "件、月份三因素对土壤含水量影响的方差分析发现,土壤深度、降水控制条件、月份，以及月份和降水控制条件的交互作用对土壤含水量的影响显著( $\\scriptstyle { \\overrightarrow { P } } < 0 . 0 1 { \\textrm { ) } }$ )，土壤深度与月份的交互作用、降水控制条件与月份的交互作用对土壤含水量的影响不显著( $\\cdot \\ P { > } 0 . 0 5 )$ （表2)。不同深度土壤含水量与降水量、温度的变化趋势一致，但$1 0 \\mathrm { { c m } }$ 土壤含水量显著低于对 $4 0 \\mathrm { c m }$ 土壤含水量(图1,图2）。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/7b0bbe0e392ecc96a7709782f5de56b001d81b3ae5a422acc331f1f5917c6c2f.jpg",
+        "table_caption": [
+            "表2土壤深度、降水控制条件、月份对土壤含水量影响（两因素方差分析， $F$ 值",
+            "Effect of soil depth，precipitation control treatment,month on soil water content（Two-way ANOVA, $F$ value) "
+        ],
+        "table_footnote": [
+            "S:土壤深度 Soil deep;D:降水控制条件 Precipitation control treatment;M:月份 Month；\\*\\*， $P { < } 0 . 0 1$ ； \\*,P <0.05"
+        ],
+        "table_body": "<html><body><table><tr><td>方差分析</td><td colspan=\"6\">因子Factors</td><td>2 A</td></tr><tr><td>Two-way ANOVA</td><td>S</td><td>D</td><td>M</td><td>SxD</td><td>SxM</td><td>DxM</td></tr><tr><td>土壤含水量 Soil moisture/%</td><td>0.45 **</td><td>16.02**</td><td>5.07 **</td><td>8.24**</td><td>0.45</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "%rrr gr lrisiriierg 22 20 企 中 %rt gr liisitlier 30 27   \n1816 44 W 2 2421   \n42 好 18 众 2 ? 15 又   \n1   \n108 Q 双身 姬& 免 2 29 8 A 4 中 中中 中 中 B 中 5 ?   \n6 & Y 区 8 6 中 日 0 0   \n4 3   \n20-0151 20-1111 20-9007 20-9505 10-9505 40-9544 20-9555 2555555 10-9107 80-9107 60-9000 25-1010 22-1151 55-1151 20-9000 70-9505 20-9555 44-9544 25-5555 94-5555 10-9107 80-9100 60-9107 01-9100 日期Date ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "D1;极端干旱处理( $- 5 0 \\%$ ） $- 5 0 \\%$ precipitation;D2：千旱处理 $- 2 5 \\%$ ） $2 5 \\%$ precipitation;CK;对照 control group;W2:增雨处理II( $+ 2 5 \\%$ ）+ $2 5 \\%$ precipitation ; $\\mathbb { W } 1$ ：增雨处理 $\\mathrm { I } ( + 5 0 \\%$ ） $+ 5 0 \\%$ precipitation ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2不同降水控制对群落物种多样性的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 灌木层片物种多样性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "选取不同多样性指数对灌木层片物种多样性进行计算，分析结果表明不同实验处理下灌木多样性指数差异不显著( $P { > } 0 . 0 5$ ）（表3）。Margalef指数、Simpson指数、Shannon-Wiener指数最大值均出现在极端干旱处理（D1），分别为 $0 . 8 6 \\pm 0 . 1 4 , 0 . 4 7 \\pm 0 . 0 9 , 0 . 8 8 \\pm 0 . 1 6$ ; Pielou均匀度指数随水分的添加呈现递增的趋势，但差异性不显著 $( P > 0 . 0 5 )$ ,最大值出现在增雨处理I（W1）,为$0 . 6 9 { \\scriptstyle \\pm 0 . 1 0 } ,$ □",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2草本层片物种多样性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f5c1bb88bce8d53197b3e172a6a9c8b0d44229d38b1d178bb6e104f5988ff7c.jpg",
+        "img_caption": [
+            "图1不同降水控制条件的土壤含水量月变化",
+            "Fig.1Monthly changes of soil moisture under different treatments ",
+            "图2温度、降水量的月变化",
+            "Fig.2Monthly changes of temperature and precipitation "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "二 对草本层片物种多样性指数进行单因素方差分析(表4)发现,在不同降水控制条件下，Margalef指数和Pielou均匀度指数差异性显著( $P { < } 0 . 0 5 )$ ，但并未随着水",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分的添加出现增加的趋势,最大值均出现在干旱处理（D2），分别为 $0 . 4 8 \\pm 0 . 0 4 \\ 、 0 . 8 2 \\pm 0 . 0 4$ ; Simpson指数和Shannon-Wiener 指数差异性极显著( $\\scriptstyle { \\cdot } P < 0 . 0 1 { \\rangle }$ ,最大值出现在干旱处理（D2）,分别为 $0 . 5 0 { \\scriptstyle \\pm 0 . 0 4 } \\ 、 0 . 7 9 { \\scriptstyle \\pm 0 . 0 6 } .$ 0",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/6e039c0f31caf5c4eb64f463bc1f01d76195cd127917ef7c121720369bcf4a86.jpg",
+        "table_caption": [
+            "Table 3Variations of shrub species diversity with different precipitation control treatments（Mean±S "
+        ],
+        "table_footnote": [
+            "表中数据为平均值 $\\pm$ 标准误，同一行不同字母表示差异性显著， $\\scriptstyle P < 0 . 0 5$ ;D1;极端干旱处理 $( - 5 0 \\%$ ） $- 5 0 \\%$ preeipitation;D2:干旱处理（ $- 2 5 \\%$ ） $- 2 5 \\%$ precipitation;CK:对照 control group;W2:增雨处理II( $+ 2 5 \\%$ ） $+ 2 5 \\%$ precipitation; W1:增雨处理I( +50%）+50% precipitation"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">物种多样性指数 The species diversity index</td><td colspan=\"5\">实验处理 The experiment processing</td><td rowspan=\"2\">F</td><td rowspan=\"2\">P</td></tr><tr><td>D1</td><td>D2</td><td>CK</td><td>W2</td><td>W1</td></tr><tr><td>丰富度指数RRinchness indexR</td><td>5</td><td>3</td><td>5</td><td>5</td><td>4</td><td>1.45</td><td>0.258</td></tr><tr><td>Margalef 指数 Magrgalef index</td><td>0.86±0.14a</td><td>0.46±0.09a</td><td>0.62±0.06a</td><td>0.67±0.10a</td><td>0.58±0.03a</td><td>1.76</td><td>0.180</td></tr><tr><td>Simpson 指数 Simpson index</td><td>0.47±0.09a</td><td>0.35±0.09a</td><td>0.44±0.04a</td><td>0.44±0.16a</td><td>0.47±0.04a</td><td>0.26</td><td>0.903</td></tr><tr><td>Shannon-Wiener 指数 Shannon-Wiener index</td><td>0.88±0.16a</td><td>0.59±0.13a</td><td>0.75±0.07a</td><td>0.76±0.24a</td><td>0.76±0.06a</td><td>0.48</td><td>0.753</td></tr><tr><td>Pielou 均匀度指数 Pielou evenness index</td><td>0.63±0.06a</td><td>0.54±0.11a</td><td>0.68±0.07a</td><td>0.63±0.19a</td><td>0.69±0.10a</td><td>0.29</td><td>0.883</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b88d0836e23a3a49382b5a468c92531294cd7bc9f6932f8aa475a4d9677399e1.jpg",
+        "table_caption": [
+            "表3不同降水控制条件下灌木层片物种多样性变化（平均值 $\\pm$ 标准误)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">物种多样性指数 The species diversity index</td><td colspan=\"5\">实验处理 The experiment processing</td><td rowspan=\"2\">F</td><td rowspan=\"2\">P</td></tr><tr><td>D1</td><td>D2</td><td>CK</td><td>W2</td><td>W1</td></tr><tr><td>R</td><td>3</td><td>4</td><td>5</td><td>5</td><td>5</td><td>2.71</td><td>0.038</td></tr><tr><td>Margalef指数</td><td>0.38±0.04ab</td><td>0.48±0.04a</td><td>0.37±0.02ab</td><td>0.28±0.03b</td><td>0.43±0.04ab 2.89</td><td></td><td>0.030</td></tr><tr><td>Simpson 指数</td><td>0.30±0.06ab</td><td>0.50±0.04a</td><td>0.31±0.03ab</td><td>0.31±0.07ab</td><td>0.20±0.06b 4.15</td><td></td><td>0.005</td></tr><tr><td>Shannon-Wiener 指数</td><td>0.48±0.08ab</td><td>0.79±0.06a</td><td>0.52±0.03ab</td><td>0.47±0.08ab</td><td>0.36±0.08b 4.34</td><td></td><td>0.004</td></tr><tr><td>Pielou 均匀度指数</td><td>0.56±0.09ab</td><td>0.82±0.04a</td><td>0.61±0.05ab</td><td>0.67±0.13ab</td><td>0.37±0.10b 3.25</td><td></td><td>0.018</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3降水控制对群落生物量的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 灌木层片生物量",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过对灌木地上生物量进行单因素方差分析表明(表5),不同降水控制处理对灌木地上生物量影响不显著。灌木地上生物量受水分影响差异不显著,其总体变化是随着土壤水分含量的增加呈现先升高后降低的趋势,最大值出现在干旱处理（D2），为 $( 3 6 9 . 3 9 \\pm 1 2 . 4 1 ) \\mathrm { g / m } ^ { 2 }$ ;珍珠猪毛菜地上生物量受水分影响差异不显著（ $P { > } 0 . 0 5 )$ ,变化趋势与总体生物量一致,最大值出现在极端干旱处理(D1）,为( $1 4 6 . 8 3 { \\pm } 6 7 . 4 9 ) \\mathrm { g / m } ^ { 2 }$ ;盐爪爪地上生物量受水分影响差异显著( $\\scriptstyle P < 0 . 0 5 )$ ,但生物量并未随水分的添加呈现增多的趋势,最大值也出现在干旱处理(D2），为(224.12±19.97)g/m²。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/81d7e7aeabe1191e297c8cabd982b3e6e95879ce57a72cafe6670cfc75037459.jpg",
+        "table_caption": [
+            "表4不同降水控制条件下草本层片物种多样性变化（平均值 $\\pm$ 标准误)",
+            "表5不同水分控制条件下灌木地上生物量(平均值 $\\pm$ 标准误)",
+            "Table 5\\Aboveground biomass of shrub with different precipitation control treatments ( $\\mathrm { M e a n \\pm S E }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">灌木地上生物量/（g/m²） Aboveground biomass of shrub</td><td colspan=\"5\">实验处理 The experiment processing</td><td rowspan=\"2\">F</td><td rowspan=\"2\">P</td></tr><tr><td>D1</td><td>D2</td><td>CK</td><td>W2</td><td>W1</td></tr><tr><td>盐爪爪 Kalidium foliatum</td><td>70.08±31.33b</td><td></td><td>224.12±19.97a 208.04±16.70a 143.84±48.58ab 196.40±32.94a</td><td></td><td></td><td>3.96</td><td>0.017</td></tr><tr><td>珍珠猪毛菜 Salsola paserina</td><td>146.83±67.49a</td><td>101.10±46.15a</td><td>87.28±19.31a 108.93±16.65a</td><td></td><td>76.82±15.32a</td><td>0.53</td><td>0.717</td></tr><tr><td>总体Total</td><td>229.16±41.72a</td><td>369.39±12.41a</td><td>311.63±20.57a 257.59±52.89a</td><td></td><td>276.74±49.40a</td><td>1.83</td><td>0.165</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.2草本层片生物量",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同降水控制条件对草本植物生物量的影响显著(表6),草本总体生物量随水分的增加呈现递增的变化趋势,最大值出现在增雨处理I（W1）,为 $( 1 0 5 . 6 9 \\pm 2 8 . 6 0 ) \\mathrm { g } / \\mathrm { m } ^ { 2 }$ ,总体差异极显著( $\\cdot < 0 . 0 1 )$ 。对于草本优势种碱蓬和小画眉草,在不同水分条件控制下,碱蓬的生物量变化与总体生物量变化趋势一致,碱蓬最大值出现在增雨处理I（W1）,为( $6 2 . 4 5 { \\pm } 1 2 . 1 5 ) \\mathrm { g / m } ^ { 2 }$ ,生物量与水分含量呈现正相关性,且差异极显著( $P { < } 0 . 0 1 \\$ )。而小画眉草生物量的变化趋势虽然随水分的增加而递增，但差异性不显著( $P { > } 0 . 0 5 )$ ,最大值出现在增雨处理ⅡI(W2)，为 $( 0 . 9 8 { \\pm } 0 . 1 5 ) \\mathrm { g / m } ^ { 2 }$ （图3）。总体而言,优势种碱蓬对总体生物量的变化有着关键作用,而小画眉草对",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "总体生物量的变化影响作用较小。",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/82d499592df283573321e520fd51d3b42437dd4d21b84584f1dd2aeb70085ffc.jpg",
+        "table_caption": [
+            "Table 6Aboveground biomass of grass with different precipitation control treatments（Mean±SE) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">草本生物量/（g/m²) The grass biomass</td><td colspan=\"5\">实验处理 The experiment processing</td><td rowspan=\"2\">F</td><td rowspan=\"2\">P</td></tr><tr><td>D1</td><td>D2</td><td>CK</td><td>W2</td><td>W1</td></tr><tr><td>碱蓬 Suaeda glauca</td><td>3.36±0.62c</td><td>4.06±1.02c</td><td>33.64±3.21b</td><td>62.45±12.15a</td><td>49.14±5.31ab</td><td>12.55</td><td><0.001</td></tr><tr><td>小画眉草 Eragrostis minor</td><td>0.09±0.01a</td><td>0.84±0.13a</td><td>0.68±0.14a</td><td>0.75±0.02a</td><td>0.98±0.15a</td><td>0.66</td><td>0.65</td></tr><tr><td>总体 Total</td><td>10.54±2.36c</td><td>7.02±1.19c</td><td>38.65±4.16bc</td><td>105.69±28.60a</td><td>57.52±7.71b</td><td>10.14</td><td><0.001</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e73863c0cb5606c035e956631b06dc8a9dc42b48dec1852d8a28c44aa67c15c6.jpg",
+        "img_caption": [
+            "图3草本地上生物量对不同降水控制条件的响应趋势",
+            "Fig.3Response tendency of grass aboveground biomass to different precipitation control treatments "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4群落特征与土壤含水量之间的关系",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4.1物种多样性与土壤含水量的关系",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "物种多样性与土壤含水量的相关性分析表明（表7），灌木物种多样性和 $1 0 \\cdot 4 0 \\mathrm { c m }$ 深度的土壤含水量没有显著相关性;草本物种多样性和 $4 0 \\mathrm { c m }$ 土壤含水量不相关,仅和表层 $1 0 \\mathrm { { c m } }$ 处土壤含水量呈弱负相关性( $P =$ 0.07)",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/96550d3e2262a25a7041de9f754a7920fec278dd3e5a9587d3528c79692b4a6d.jpg",
+        "table_caption": [
+            "表6不同降水控制条件下草本地上生物量（平均值 $\\pm$ 标准误）",
+            "表7不同深度土壤含水量与物种多样性的相关性",
+            "Table 7Correlation between soil water content and species diversity at different depths （Pearson correlation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>相关性分析 Pearson correlation</td><td>灌木物种多样性 shrub species diversity</td><td>P</td><td>草本物种多样性 grass species diversity</td><td>P</td></tr><tr><td>10cm</td><td>0.474</td><td>0.42</td><td>-0.844</td><td>0.07</td></tr><tr><td>40cm</td><td>-0.122</td><td>0.85</td><td>-0.542</td><td>0.35</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4.2生物量与土壤含水量的关系",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过对生物量与土壤含水量相关性分析表明,4种优势植物的生物量与 $1 0 \\mathrm { { c m } }$ 深土壤含水量之间的相关性均不显著( $P { > } 0 . 0 5 )$ 1 $4 0 \\mathrm { c m }$ 土壤含水量主要和草本生物量、碱蓬生物量相关性显著( $\\scriptstyle \\cdot - 0 . 0 5 )$ （表8）。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/99a1302f785e4d9e2716335925665f4b7896d9f686d12b97aaca7576e3921216.jpg",
+        "table_caption": [
+            "表8不同深度土壤含水量与生物量的相关性",
+            "Table 8 Correlation between soil water content and plant biomass at dierent depths(Pearson correlation) "
+        ],
+        "table_footnote": [
+            "\\*\\*， $P { < } 0 . 0 1$ ；\\*， $\\scriptstyle P < 0 . 0 5$ "
+        ],
+        "table_body": "<html><body><table><tr><td>相关性分析 Pearson</td><td>盐爪爪 Kalidium</td><td>珍珠猪毛菜 Salsola</td><td>灌木生物量 Shrub</td><td>碱蓬 Suaeda</td><td>小画眉草 Eragrostis</td><td>草本生物量 Grass</td></tr><tr><td>correlation 10cm</td><td>foliatum</td><td>passerina</td><td>biomass</td><td>glauca</td><td>minor</td><td>biomass</td></tr><tr><td></td><td>-0.263</td><td>0.050</td><td>-0.722</td><td>0.729</td><td>0.018</td><td>0.840</td></tr><tr><td>40cm</td><td>0.429</td><td>-0.607</td><td>-0.102</td><td>0.960**</td><td>0.677</td><td>0.945 *</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1水分控制对灌木和草本层片物种多样性的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对于我国西北内陆干旱荒漠生态系统,水分是植物生长的主要限制性因素,极端干旱和降水的大幅波动会通过土壤水分的变化在不同程度上影响荒漠植物群落多样性水平以及养分循环过程[2.4.26]。本研究结果表明,在降水逐渐增加的条件下,灌木和草本层片的物种多样性指数呈现出先升高后降低的变化形式,但差异性均不显著( $P { > } 0 . 0 5 )$ 。这与赵新风等[25]、曾勇等[26]的研究结果相似,即灌木的物种多样性对不同水分控制条件表现出的差异不显著。而白春利等[19]在内蒙古草原开展的水分添加试验表明,植物丰富度和物种多样性水平会随着水分增加呈上升趋势。可见,植物群落对于干旱的响应很大程度上取决于群落结构、优势种的生活史和生物地化循环过程等[27-28]。究其原因,研究认为荒漠植物多样性水平的显著变化是降水等环境因素长期变化和作用的结果,短期(例如1年)的水分变化对灌木和草本层片的物种多样性影响不显著。荒漠灌木在长期的进化适应过程中,对于水分的胁迫已经具有一定的生理耐受性,灌木的丰富度和多度的响应可能存在“滞后效应”,还需要长期定位研究才能给出确切的答案。本文仅是总结了干旱处理一年的试验研究结果,目前的结论也仅是反映短期干旱处理对荒漠植被物种多样性水平的影响。同样,草本的物种多样性对不同的降水控制处理也不存在显著差异,短期内发生显著变化的可能性较小。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2水分控制对灌木和草本层片生物量的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在荒漠地区,生物量作为表征植被长势重要指标对降水变化的响应尤为敏感。本研究发现降水变化对珍珠猪毛菜地上生物量和灌木总体生物量的影响不显著( $P { > } 0 . 0 5 )$ 。相关研究也得到相同的结果,例如在半干旱区对灌木群落进行长期控水处理后,刘峻杉等[29]等也发现灌木生物量并未发生明显的变化。可见,为适应荒漠地区降水的年际波动,灌木在长期的进化进程中不断适应,已形成了适应干旱等胁迫环境生理生态特征。此外,对不同人工草地群落物种多样性和生产力在干旱和正常降水条件下的研究表明,生产力低的人工草地群落较生产力高的群落对干旱的耐受性更为显著[14]。降水控制对草本总体生物量和碱蓬生物量影响极显著1 $_ { | P < 0 . 0 1 \\rangle }$ ,而对于小画眉草的影响不显著( $P { > } 0 . 0 5 )$ ,但均随水分添加呈现出增加的趋势。这与李文娇[30」，白春利[19]等人的研究相似,单一的水分添加可以增加草本植物的生物量。荒漠生态系统的生产力相对较低,在受到干旱胁迫时生物量不会发生大幅下降。但是,从荒漠植物生活型及其利用水分来源的角度分析,深根系的灌木主要利用深层土壤水分,因此,生物量不会发生大幅波动;而浅根系一年生或多年生草本生物量的积累主要和浅表层的土壤水分密切相关。因此,对降水波动的响应更为敏感。此外,草本植物生物量的积累也和水分利用效率等生理特征密切相关,例如本研究中碱蓬作为藜科 $\\mathrm { C } _ { 4 }$ 植物在水分竞争方面较小画眉草更具优势,因此对水分的响应更为敏感。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3物种多样性和生物量变化与土壤含水量的关系",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "植物多样性是衡量群落内物种分布的均匀程度和数量的一个指标,它与植被生长的环境有密切的关系，是群落特征的综合体现。本研究结果表明,灌木和草本物种多样性与土壤含水量之间的相关性均未达到显著水平（ $( P { > } 0 . 0 5 )$ 。特定群落内植物多样性水平是长期进化和对环境不断适应的体现,在一定的土壤水分范围内,群落内植物的丰富度水平会保持在一定范围,受到干旱和降水波动的影响,植物的多度水平首先会作出一定的响应。当然,极端气候事件也会导致植物丰富度下降,部分稀有种也可能会面临灭绝的危险[4]。例如在美国明尼苏达州经历了50年一遇的极端干旱事件后导致草地植物丰富度平均下降 $3 7 \\%$ ,地上生物量下降$4 7 \\% ^ { [ 4 ] }$ 。国内学者对黄土高原天然草地群落结果与土壤水分关系的研究表明,物种多样性与土壤含水量之间为正相关关系[31]。本研究区域为草原化荒漠地区,荒漠植物普遍具有一定的抗旱能力,土壤水分的波动在植物耐受范围内时不会对植物多样性水平产生影响。在经历极端气候事件后，长期的监测研究才能对植物多样性和水分之间的关系给出科学合理的回答。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究区优势灌木的生物量与土壤含水量（ $1 0 \\mathrm { { c m } }$ 和 $4 0 \\mathrm { c m }$ 深度)的相关性不显著。荒漠灌木根系发达，主根可达到 $8 0 { \\ - } { \\ - } 1 0 0 \\mathrm { c m }$ ,后期可通过对更深层土壤含水量的测定明确二者之间关系。而草本植物的根系主要分布在土壤浅表层,因此浅表层土壤含水量的变化直接影响草本层片的生物量。本研究表明,降水与土壤含水量的年变化一致，表层( $\\mathbf { 1 0 c m } )$ 土壤含水量对草本生物量的影响不显著，浅层( $4 0 \\mathrm { c m } )$ 土壤含水量对草本生物量的影响显著(表7)。究其原因,荒漠土壤土质疏松、毛管作用弱、通透性好,导致土壤水分垂直分布差异较大,其中表层的水分不稳定,容易蒸发,不易被植物根系利用;深层土壤对有效降水具有“累积效应”,水分相对稳定。在美国新墨西哥州荒漠的降水控制试验发现,草本对于降雨的年际波动表现出“饱和效应”,即干旱年份对草本层片产生的负效应要明显高于湿润年份的降水增加引起的正效应,因此,年际水平上降水的大幅波动会降低草本的生产力。当全球变化引起降水量大幅波动时会导致草本多度的下降,而促进灌木的定居和生长[1]。 ?",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "短期(1年)干旱和降水增加处理对灌木和草本层片的物种多样性以及灌木生物量的影响不显著;但对草本生物量有显著影响。草本生物量主要取决于浅层( $4 0 \\mathrm { { c m } }$ )的土壤水分状况。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]Gerdaladpreiiltesbuctirfeof Sciences of the United States of America,2015,112(41）:12735-12740.  \n[2]HeislerWiteJ，lairJKellFaeyKappA.ontingentprouctitespostoreetreinfallgosgrassland biome. Global Change Biology，2009,15(12） : 2894-2904.  \n[3]IPCC.CateCange2ehyscalceBsisContributioofWkingGoupItoeFifhesntReprtofteertalPanel on Climate Change.Cambridge:Cambridge University Press，2013.  \n[ 4]Tilman D,El Haddi A.Drought and biodiversity in grassands. Oecologia,1992,89(2): 257-264.  \n[5]TomeyMLColinsSL，VargasRsonJE，rownRF，NatviDO,FrigensMT.etofprecipiationvarabiltyonntprproduction and soil respiration ina Chihuahuan desert grassand.Global Change Biology，2011,17(4)：1505-1515.  \n[6] KnappAK，CiaisSmihDRecolingiconsistesinprecipiatio-prductivityelatioshis:impicatiofliatehaeePhytologist，2017,214(1) : 41-47.  \n[7] Estiarte M,VicaS,PeuelasJ,BahnM,BeierC,EmmetBA,FayPA,HansonPJ,HasibederR,KigelJ,Kroel-DulayG,LasenK,Lelei-KovacsE,LimousinJ,gaR,OurcivalJReschS,alaOE,chmidtIK,Sterberg,elbrgerK,eteaA,JassIA.Fewmultiaptauctxpentsfdiftiuciieiielasbala(7):2570-2581.8] BezS,Colns,caoJE,allEE.fsfeptalfallipuaiooaashrubland plant communities.Oecologia,2013,172(4）：1117-1127.  \n[9] ChenJ,XiaoGL，KuzyakovY，JenerettGD,MaY,LiuW，WangZF,ShenWJ.Soilnitrogentransformationresponsestoasoalprecipitatingagscobaldbrasgc,.  \n[10] CregerMA,McDowellNG,angleRE，PockmanWTClaseA.Teimpactofprecipitationchangeonnitrogencyclinginidecosystem.Functional Ecology，2014，28(6）：1534-1544.  \n11]CregerdtCWowell,neATRespsefthloblitytgsisemiarid ecosystem.Applied and Environmental Microbiology，2012,78(4）：8587-8594.  \n[12]Tilman D,Downing JA.Biodiversity and Stability in Grasslands.New York：Springer,1996.  \n［13］程磊磊，郭浩，卢琦.荒漠生态系统服务价值评估研究进展.中国沙漠，2013，33（1)：281-287.  \n[14]WangJtill，）：401-410.  \n[15]叶鑫，周华坤，刘国华，姚步青，赵新全.高寒矮生嵩草草甸主要植物物候特征对养分和水分添加的响应.植物生态学报，2014,38（2)：147- 158.  \n[16] 杨秀静，黄玫，王军邦，刘洪升.青藏高原草地地下生物量与环境因子的关系.生态学报，2013，33（7)：2032-2042.  \n[17] 徐满厚，薛娴.青藏高原高寒草甸植被特征与温度、水分因子关系.生态学报，2013，33（10)：3158-3168.  \n[18] 孙羽，张涛，田长彦，李晓林，冯固.增加降水对荒漠短命植物当年牧草生长及群落结构的影响.生态学报，2009,29（4）：1859-1868.  \n[19] 白春利，阿拉塔，陈海军，单玉梅，额尔敦花，王明玖.氮素和水分添加对短花针茅荒漠草原植物群落特征的影响.中国草地学报2013,35(2):69-75.  \n[20] 王涛.中国沙漠与沙漠化.石家庄：河北科学技术出版社，2003.  \n［21］张珂，何明珠,李新荣，谭会娟，高艳红,李刚，韩国君,吴杨杨.阿拉善荒漠典型植物叶片碳、氮、磷化学计量特征.生态学报，2014，34(22):6538-6547.  \n22]LiXR,aZaXcoefolccalopertiveeatediesidof the Tengger Desert，northern China.Geomorphology，2007,88(3/4）：254-265.  \n[23］何明珠，张志山，李小军，贾荣亮，张景光，郑敬刚.阿拉善高原荒漠植被组成分布特征及其环境解释I.典型荒漠植被分布格局的环境解释.中国沙漠，2010，30(1)：46-56.  \n[24］马克平，刘灿然，于顺利，王巍.北京东灵山地区植物群落多样性的研究ⅢI.几种类型森林群落的种-多度关系研究.生态学报，1997,17(6): 573-583.  \n[25]杨吴天,李新荣,王增如，贾荣亮，刘立超，高艳红,李刚.腾格里沙漠东南缘4种灌木的生物量预测模型.中国沙漠，2013，3(6)：1699- 1704.  \n[26] He MZ,DijkstraFA.Drought efectonplantnitrogenand phosphorus:a meta-analysis.NewPhytologist，2014,204(4): 924-931.  \n[27] KnappAKSmitVatigsieporaldacsfbooudpriryrodctioe,O9）-84.  \n28]Parueloehurkaladreiauseosoceradtcos99,(1) : 64-68.  \n[29］刘峻杉，徐霞，张勇，田玉强，高琼.长期降雨波动对半干旱灌木群落生物量和土壤水分动态的效应.中国科学：生命科学，2010，40(2): 166-174.  \n[30］李文娇，刘红梅，赵建宁，修伟明，张贵龙，皇甫超河，杨殿林.氮素和水分添加对贝加尔针茅草原植物多样性及生物量的影响.生态学报，2015，35(19)：6460-6469.  \n[31］张志南，武高林,王冬邓蕾，郝红敏，杨政，上官周平.黄土高原半干旱区天然草地群落结构与土壤水分关系.草业学报，2014,23(6)：313-319. A",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

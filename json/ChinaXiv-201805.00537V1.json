@@ -1,0 +1,326 @@
+[
+    {
+        "type": "text",
+        "text": "中国传统星空资源的WWT集成与共享",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "万望辉1崔辰州²乔翠兰 樊东卫²  \n米琳莹²齐锐4 万昊宜² 徐刚5",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.武汉科学技术馆，湖北武汉，430010；2.中国科学院国家天文台，北京100012；3.华中师范大学物理学院，湖北 武汉 430079；4.北京市科学技术研究院，北京 100089；5.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "个人）",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在大数据时代，如何有效利用信息技术保护并传播我国传统星空文化是天文学家和教育学家面临的新挑战。利用万维天文望远镜平台强大的数据融合能力和先进的数据可视化技术集成并共享中国传统星空数据资源，精彩展现中国星空。进一步整合成可供公众自主学习、使用的数字化资源，推动科技与教育双轮驱动，体现了现代文化传播和科普教育的重要发展方向。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：中国传统星空；万维天文望远镜；集成；共享；数字化中图分类号：P11 文献标识码：B 文章编号：1672-7673",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "天文学已经进入数据密集型和数据驱动的时代。有效利用天文科学数据资源，将其集成并推动数据资源与优质学习资源的开放共享，对弘扬传统文化有积极的意义和重要价值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在大数据时代，中国传统文化的保护和传承是一个非常值得研究的课题，特别是被誉为世界文化瑰宝的中国传统星空体系。我国大部分人对西方星座的“天蝎”、“猎户”耳熟能详，却很少有人知道“三垣二十八宿”。一方面由于受到西方星座文化体系的冲击，另一方面因为中国古代星空版本众多，谬误频现又深奥难懂，导致中国古星空没有得到合理的开发和传承。至今中国古星空文化大部分的资料还是以纸质资源的方式存在，部分资源甚至处于濒危状态，如不及时抢救则有失传的危险。如何有效利用信息技术保护并传播我国传统星空文化是天文学家和教育家面临的新挑战。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文运用现代天文学观测数据和数据可视化手段，首次以万维天文望远镜（WorldWide Telescope，WWT）①为平台，融合《漫步中国星空》[一书恢复的中国宋代传统星空原貌数据、现代HR星表②和SAO星表③数据，同时将徐刚先生所绘的生动、形象的中国古代传统星官艺术图案巧妙地整合在WWT的环境中，以数字化形式呈现宋代星象，并开发成可供公众自主学习和研究的优质数字化资源，向全社会开放共享，推动科技与教育的双",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "轮驱动。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1中国传统星空数据资源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "《漫步中国星空》一书的作者以潘鼐先生汇集的皇祐星表为骨架，参照文献，对比近代星图，整理出一套皇祐星官数据，全天三垣二十八宿，共计星官283个，恒星1464颗。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了让公众更好地了解和认识中国传统星官深厚的文化底蕴，徐刚先生从 2007年开始着手设计中国传统星官的图案，以填补中国图案式星图的空白，第一次为世人完整呈现了一个恢宏壮阔的“天上人间”。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2基于WWT平台集成中国传统星空数据资源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1WWT的概述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中国虚拟天文台（China-VO）④依托中国科学院国家天文台雄厚的科研和技术实力，多年来一直致力于以WWT数据可视化环境为平台，开展数据驱动的教育和科学传播工作。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "相比其他天文软件，WWT有以下几方面的优势：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）基于海量真实的天文数据。WWT将全球众多大型天文台上百TB的海量数据资源融合成一个无缝的数字宇宙，并通过极富创新性的数据可视化方式呈现给公众。（2）简易方便的漫游创作功能，互动性和探究性强。教师可以制作漫游课件进行教学，学生可以创作宇宙漫游与别人分享[2]。（3）拥有众多多波段数据资源。除了可见光波段的星空景象，在WWT中还可以领略红外、紫外、射电、X射线、γ射线等电磁波段的星空景象。（4）多样化的操作和互动手段。如安装ASCOM控制软件，可以实现WWT与天文望远镜的互动；连接Oculus Rift，可以体验3D立体宇宙。同时还可以与Xbox、Kinect 等先进设备完美兼容。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2传统星空数据资源可视化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "WWT的Excel插件功能非常强大，通过插件可以可视化按照既定标准分析、处理的数据，从而生动形象地展示天文、地理等现象。作者利用WWT完整、全面地可视化中国古代星空数据，包括1464颗恒星的星等和光谱型、283个星官的星官连线、341个星官名",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "称以及近100个星官图案。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）星点可视化。利用Excel将恒星的星等、光谱型与恒星在天球的坐标一一对应，通过Excel插件导入WWT中，用不同大小和颜色的光点表示各个恒星的星等和光谱型。部分数据如图1。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/497696a4ce256dbc6fe59beb2ada405cff257f93a451bdfe8b94d2f6f5d94680.jpg",
+        "img_caption": [
+            "图1可视化恒星星等和光谱型 Figure 1 Visualization of stellar catalog "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）可视化星官连线。借助《漫步中国星空》一书了解各个星官的连线情况，并利用Excel的Linestring 函数将各个恒星在天球上的坐标与连线标准一一对应，再使用Excel插件导入WWT中。其中【北极】、【四辅】及【勾陈】星官的连线如图2。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b3553ae8a029743b7bc3d5829a0f493e49b1ea5a446d74f4fa95fed6eabd4edd.jpg",
+        "img_caption": [
+            "图2可视化星官的连线",
+            "Figure2Visualizationofasterism figures "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（3）显示星官名称。在WWT中可视化中文文字，需借助WWT的图层功能。将各颗恒星或者星官在天球上的坐标数据与名称在 Excel中利用Text函数一一对应，然后将数据导入WWT中，效果如图3。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c120205bfed7c8db223339a57b7dc0b4d5c6ff606d4979718b3b668adf02420.jpg",
+        "img_caption": [
+            "图3可视化星官名称Figure 3Display of asterism names"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（4）可视化星官图案。添加星官图案时，采取WWT自定义的“wtml文件”载入，添加“车府”图案如图4。近100个星官图案全部集成在WWT中保存为\" chineseheaven.wtml\"文件。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1390f8ebbb4fd2e6ec24d73a7e869c9610b65f6fc980d12c8b873e35fd1a831c.jpg",
+        "img_caption": [
+            "图4可视化星官图案",
+            "Figure 4 Visualization of asterism pictures "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3资源开放共享 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "天文数据资源的集成和数据资源开放共享，对天文学研究和教育普及至关重要3]。为了进一步促进资源的开放共享，将上述这4个数据层利用WWT的“新建图层组”功能整合为“Chineseheaven.wwtl\"文件（“wwtl\"是WWT自定义的图层组文件格式）。文件通过WWT北京社区网站向全社会开放，用户可自行下载，用于科研或者教学科普。同时，用户可以在WWT的“社区”中添加“WWT北京社区”找到“中国星空”的资源，如图5。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/402bd521130674838e4ea68dd64f62b104ba1107ff25e21f5a248d273ddb9b78.jpg",
+        "img_caption": [
+            "微软万维天文望远镜（W",
+            "Figure 5 Chinese Traditional Star Resourcesat WWT Community Beijing "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用WWT集成中国传统星空数据资源，具有非常重要的意义。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）利用WWT以图文并茂的方式展示中国传统星空文化，增强资源的真实感和表现力4。中国古星图几乎是清一色的星点连线和文字，星官多而零散，仅仅通过板书或口授难以直观地领会其意义。借助WWT先进的可视化技术，将中国星空数据与星官图案融为一体，增强了中国传统星空的可展示性，可帮助观众更好地理解中国传统文化。利用这些数据资源创作漫游—一《漫步中国星空之紫微垣》，荣获第二届“共享杯”全国大学生科技资源共享服务创新大赛一等奖。在漫游中作者巧妙地展示紫微垣的【华盖】、【杠】、【五帝内座】、【天厨】、【天梓】等星官的连线和图案，如图6，直观形象地展示中国传统星空文化，激发公众积极主动了解中国传统星空文化的兴趣。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/45b83055de365ed74c063f138895d4b6e9bf8198f2365556722b77861b423a99.jpg",
+        "img_caption": [
+            "图5WWT北京社区中的“中国星空”资源",
+            "图6用WWT实现中国星官连线与星官图案的融合Figure 6 Integration ofthe figuresand pictures ofasterisms"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（2）利用WWT在教学方面的互动性，教师和学生以人机“对话”的方式—一创作宇宙漫游学习中国传统星空文化，增强资源的探究性。同时提高学生的实践能力和探究潜能促进中国传统星空文化在中小学及高校中传播。利用WWT的漫游制作功能转换传播方式，变静为动，变抽象为具体，变平面为立体，变部分为全景，变模拟为真实，取得更佳的学习效果。如在漫游中将紫微垣的部分星官与《步天歌》一一对应（如图7），有句有图，言下见象，边读《步天歌》，边认星官，在不知不觉中认识了全天星空。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3d8546d5c6b57563daf98378ee34b0eb2a4df84f7892cc09480e450afa5a1d2a.jpg",
+        "img_caption": [
+            "图7用WWT将紫微垣的星官与《步天歌》一一对应",
+            "Figure 7Matching the asterisms of Purple Forbidden enclosure with Song of Pacing the Heavens "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）促进中国传统星空文化的大众性。通过WWT集成的数字化教育资源，所有公众均可以网络获取并使用，让以往只有天文学家才能问津的顶级专业天文资源走近了每一个普通公众。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（4）将无声的纸质资源转换为有声的可即时传播的数字化资源，促进中国传统星空文化的传播和传承。将《漫步中国星空之紫微垣》漫游节目转换成不依赖WWT环境就可供大众分享学习的视频，通过微博、微信、论坛等社交媒体传播，收到良好效果。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（5）促进中国传统星空文化与西方星座文化的融合，增强不同文化的共赏性、渗透性和融合性。WWT中含有丰富的天文数据资源，可以很方便地将这些资源进行整合利用，实现古今对比、中西对比，形象直观地比较两种星空文化的差异，促进中西方文化的交流提高中国传统星空文化的生命力。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "总之，利用WWT平台集成中国传统星空数据资源，有利于保护、继承、传播和弘扬中国古星空文化，让更多的人了解中国古天文的辉煌成就；有利于中国古星空数据与现代天文学科学观测结果的融合，实现古今对比，促进中西文化交流；将中国传统星空文化数据加工成可供科学家、教师、学生自主学习的教育资源，使中国古星空中蕴含的深厚文化和科学信息得以传播、开发和信息化利用，体现了科学、文化、艺术、技术的深度结合。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4展望 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "中国有着悠久的历史和灿烂的文化，大量的中国传统文化逐渐地深入到中华民族的生命和血液里，成为中国特色的文化基因。在大数据时代，为继承和发展中国传统文化的特色，先进的信息技术有着义不容辞的责任。有效利用信息技术和新生的传播手段将中国传统文化资源数字化，将单一的、静态的文字传播形式转换为生动的多媒体传播方式，充分挖掘其现代意义。传承中国传统文化的精髓，促进中西文化的交流和融合，延展中国传统文化的生命力，期待中华文明再次引领世界文化潮流。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "致谢：本论文得到中国天文数据中心提供的数据资源支持。中国天文数据中心得到国家科技基础条件平台建设项目“地球系统科学数据共享平台”和“基础科学数据共享平台”的资助。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]齐锐,万昊宜.漫步中国星空[M].北京:科学普及出版社,2014.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[2] 乔翠兰，崔辰州，郑小平，等.基于真实数据的天文教学实践探索［J].大学物理,2013,32(6):48-51.Qiao Cuilan,Cui Chenzhou， Zheng Xiaoping， et al. Practice and research onastronomy teaching and learning based on real data[J].College Physics,2013,32(6) :48-51.[3］万望辉,崔辰州，乔翠兰，等.天文观测数据开放共享政策与策略分析研究［J].天文研究与技术,2015，12(3):364-373.Wan Wanghui,CuiChenzhou， Qiao Chuilian， et al. A study of policies andapproaches of open access of astronomicalobservationaldata[J].Astronomical Research and Technology,2015，12(3) :364-373.[4]张春玲.利用多媒体技术提高整体教学效率与效果的研究[D].南昌：南昌大学,2007.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Integration and Sharing of Chinese Traditional Star Resources with WWT ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Wan Wanghui',Cui Chenzhou²,Qiao Cuilan',Fan Dongwei²,MiLinying²,QiRui4Wan Haoyi2,Xu Gang' (1.Wuhan MuseumofScienceandTechnology,Wuhan430ol3，China;2．NationalAstronomicalObservatories，ChineseAcademy of Sciences，Beijing 100012，China; 3．Central China Normal University，Wuhan 430079，China; 4．Beijing Academy ofScience and Technology，Beijing 100089，China,5.Personal) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In the era of big data， data innovation both creates infinite possibility for the information instruction and widens the free-time of information dissemination， which the propagation path of Chinese traditional culture has changed as well. That how to effectively use information technologies to protect and disseminate traditional star culture of China, is a new challenge facing to astronomers and educational scientists. The paper, using data fusioncapacity of World Wide Telescope and its advanced data visualization technology to integrate and share the data resources of China traditional star， shows a wonderful China star. And it’ s mission continues to be further integration of digital education resource that available for selfdirectedlearningusers， realization ofdeep combination ofscience, technology， culture and art and promotion of dual-wheel driving of science and education， which is the important pathway and developmental direction of modern culture spread and popular science education. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words: Chinese traditional star； World Wide Telescope； Data fusion;Open Access；Digitalization",
+        "page_idx": 7
+    }
+]

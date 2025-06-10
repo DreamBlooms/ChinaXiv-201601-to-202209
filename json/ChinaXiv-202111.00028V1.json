@@ -1,0 +1,509 @@
+[
+    {
+        "type": "text",
+        "text": "眼睛区域构型信息与特征信息的跨维共变增益效应及其加工特异性",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王哲 陈亚春 刘万鹏 孙宇浩（浙江理工大学心理学系，杭州，310018）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 面孔知觉可能在区域尺度上发生多维信息整合，但迄今无特异性实验证据。本研究在两个实验中操纵面孔眼睛区域或嘴巴区域的单维构型或特征信息，测量人们觉察单维变化或跨维共变的敏感度，以此检测面孔区域尺度上的多维信息整合有何现象与规律，进而揭示面孔知觉的多维信息整合机制。实验获得三个发现：（1）正立面孔眼睛区域的信息变化觉察呈现出“跨维共变增益效应\"，跨维信息共变觉察的敏感度显著高于任意一种单维信息变化觉察的敏感度；（2）“跨维共变增益效应”只在正立面孔的眼睛区域出现，在倒置面孔的眼晴区域、正立面孔的嘴巴区域或倒置面孔的嘴巴区域都没有出现，因此具有面孔区域特异性和面孔朝向特异性；（3）就单维信息变化觉察而言，眼睛区域的敏感度不会受到面孔倒置的损伤，但是嘴巴区域的敏感度会受到面孔倒置的显著损伤。综合可知，面孔知觉确实会发生区域尺度上的信息整合，而且它不是普遍性的信息量效应，是特异性的（只发生在正立面孔的眼睛区域）将单维信息分辨和全脸多维整合联系起来的整合加工；提示我们对全脸多维信息知觉整合的理解需要从传统的面孔整体加工假设（face holistic processing hypothesis）扩展到以眼睛为中心的层级化（hierarchical）多维信息整合机制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 面孔知觉，整体加工，变化觉察，差别阈限，眼睛特异性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "面孔是一种具有多维信息的视觉刺激。人能在很短时间内对面孔上的多维信息做出准确分辨与高效整合，高精度、高速度地完成面孔知觉与面孔识别(Dobs etal.,2019;Taubert etal.,2011)。迄今仍被广泛使用的面孔视觉信息维度分类法(Diamond&Carey,1986)将面孔信息分为两大维度，一是特征信息(featuralinformation)，指面孔部件的感知觉属性；这个大维度又收稿日期：2021-03-09浙江省自然科学基金项目 (LY19C090006，LY20C090010)通讯作者：孙宇浩，Email: sunyuhao@zstu.edu.cn",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "细分为多种子维度，例如眼睛、鼻子或嘴巴的形状、大小、颜色和纹理等。二是构型信息(configural information)，指两个或多个面孔部件之间的相对空间关系；这个大维度又细分为两种子维度，“上下左右”是一阶构型信息，“距离远近”是二阶构型信息。面孔信息变化觉察指人们对两张或多张面孔上某个或某些部件或子维度的信息差别做出分辨，所能分辨的差别越精细（差别阈限越小）表示敏感度越高(Baudouin etal.,2010)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人们觉察面孔信息变化的敏感度有区域选择性。实验发现，无论构型信息还是特征信息，人们觉察眼睛区域信息变化的敏感度较高，嘴巴区域的敏感度较低(Tanaka,Quinn,etal.,2014;Xu& Tanaka,2013)。认知发展实验发现儿童觉察眼睛区域信息变化的能力发展较快，嘴巴区域发展较慢(Hay& Cox,2000; Taylor et al.,2001)；甚至有实验发现辨别眼睛区域的能力随年龄增加但嘴巴区域无变化(de Heering& Schiltz,2013)。这种现象被认为标志着眼睛区域的信息加工具有特异性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "面孔整体加工(face holistic processing)也有区域选择性。面孔整体加工指全脸范围的多维信息被面孔知觉系统组织成一个整体(综述见Tanaka&Gordon,2011)。有实验用组合面孔范式(composite-face task)探测上半脸（眼睛区域）与下半脸（嘴巴区域）信息变化的相互影响，发现人们对上半脸（或下半脸）的识别会自动化地受到下半脸（或上半脸）信息变化的干扰；上半脸与下半脸互相影响的强度与稳定性有显著差别，具体表现为，上半脸对下半脸的影响更稳定，但是下半脸对上半脸影响的强度会随着面孔加工专家化程度的上升而增强，达到甚至超过上半脸对下半脸的影响(Wang etal.,2019)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "面孔信息变化觉察与面孔整体加工都表现出区域选择性，二者会有某种关联吗？对于以往研究而言，这是一个大胆创新的假设。原因有二。首先在空间尺度上，这两种研究的跨度较大。以往面孔信息变化觉察的研究大多关注单维信息，例如某一部件、某一子维度的信息变化，这是发生在小尺度（部件范围或特征范围）上的信息加工。以往面孔整体加工则大多关注大尺度（全脸范围）上的多维信息加工。与二者不同，如果要找出小尺度与大尺度信息加工背后的联系，实验需要探测在二者之间的中间尺度（半脸范围内或区域范围内）发生了什么。因此就面孔信息加工而言，这是一个新颖的研究主题，具有广阔的可探索空间。其次在信息加工的性质上，这两种研究所用的实验范式通常被认为是检测两种类型的信息加工。例如，典型的面孔信息变化觉察研究是检测与度量人们对面孔单维信息变化觉察的敏感度(Abudarham etal.,2019;Abudarham&Yovel,2016)，这是偏重“知觉分辨\"；典型的面孔整体加工研究则是检测人们识别面孔的上半脸或下半脸(Wanget al.,2019)或部件（眼睛、鼻子、嘴巴）时，会不会、会怎样受到面孔另一半脸或面孔整体的影响(Hayward etal.,2016;McKone& Yovel,2009;Riesenhuber et al.,2004; Tanaka &Farah,1993)，这是偏重“知觉整合”。跨越此二者之间的沟壑，探讨它们有何种联系甚至何种相互影响的研究很少。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "然而，近期一些新颖的研究为二者之间的联系提供了一些间接的实验证据与理论提示。在实验层面，有研究直接把面孔信息变化觉察与面孔整体加工联系起来，发现了令人惊奇的结果(Barton et al.,2001; Tanaka, Quinn, et al.,2014; Xu& Tanaka,2013)。例如，有实验采用面孔整体加工研究中经典的面孔倒置范式(Yin,1969)测量被试对正立面孔与倒置面孔的单维信息加工（倒置被认为会破坏全脸范围的信息整合），结果发现眼睛区域信息加工所受损伤很小，嘴巴区域信息加工所受损伤很大(Barton et al.,2001; Xu& Tanaka,2013)。继而，更严谨的实验采用面孔维度测试（Face-dimension test）控制任务难度后，再次发现面孔倒置对眼睛区域单维信息变化觉察的敏感度只造成微弱损伤，但是对嘴巴区域单维信息变化觉察的敏感度造成严重破坏(Tanaka,Quinn,etal.,2014)。这些发现都提示面孔信息变化觉察与面孔整体加工之间的联系，且这种联系在眼睛区域与嘴巴区域会表现出不同的性质，具有区域选择性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "理论层面上也出现了一些新思想。首先，Rossion(2008,2009)在面孔整体加工领域提出“知觉场”假设(perceptual field hypothesis)，认为面孔上全脸尺度的信息整合是以眼睛为中心（而不是完全均匀的)，上半脸（眼睛区域）的信息整合较强，下半脸（嘴巴区域）信息整合较弱。基于此，知觉场假设对经典面孔倒置效应提出了一种新解释：面孔倒置破坏了上半脸（眼睛区域）与下半脸（嘴巴区域）之间跨区域的信息整合；可能也破坏了下半脸内部（鼻嘴之间、鼻子本身或嘴巴本身等）信息整合；但是面孔倒置没有破坏上半脸内部（双眼之间、眉眼之间、眼睛本身等）的信息整合。其次，Tanaka 和Gordon(2011)回顾三十多年全脸信息整合的实验后提出“面孔区域”可能是面孔信息整合的关键调节变量；并结合知觉场假设提示面孔倒置不仅破坏了下半脸的信息整合，也破坏了信息分辨，以此来解释上述面孔维度测试的实验结果(Tanaka,Quinn,etal.,2014)。综合起来，上述实验发现与理论分析都提示，面孔单维信息变化觉察与全脸多维信息整合的中间尺度（半脸或区域）可能发生某种信息整合，单维信息变化觉察与全脸多维信息知觉整合可能存在某种联系。然而，迄今为止尚未有实验发现特异性证据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因此，本研究面向三个具体科学问题。（1）面孔知觉在中等尺度（即眼睛区域或嘴巴区域）会发生某种多维信息整合吗？如果会，具体表现为何种形式的知觉效应？（2）这种知觉效应具有区域选择性吗？以及，面孔倒置会不会对它造成损伤，所造成的损伤也有区域选择性吗？（3）这种知觉效应发生在中等尺度上，它与小尺度上的单维信息变化觉察、大尺度上的全脸多维信息整合会有何种联系？综合起来，三个具体问题可概括为一个核心科学问题：面孔多维信息的整合在面孔区域尺度上会有何种表现？",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据前文所述Diamond 和Carey(1986)对面孔视觉信息维度的界定，多维信息整合可能有三种形式：（1）特征维度内的多种子维度之间的整合，（2）构型维度内的多种子维度之间的整合，（3）特征维度与构型维度之间的“跨维度”整合。这三种形式的整合都可能会产生知觉效应，并提示中等尺度加工与大、小尺度加工的联系。其中，第三种形式的知觉效应最有理论价值。因为1）前两种整合属于“维度内”的量变，而第三种属于“维度间”的质变，“跨维整合”不仅有信息量的增加，而且有信息类型的变化，所以它是比“多维整合”更强力的实验证据；2）如果“跨维度”整合加工在面孔区域范围内（面孔知觉的中等尺度上）就能发生（而不是必须达到全脸范围这样的大尺度），那么，此效应将有力支持“面孔区域作为面孔信息整合关键调节变量”的理论设想(Tanaka&Gordon,2011)",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究包括两个实验。分别操纵眼睛区域或嘴巴区域的单维构型信息变化、单维特征信息变化或跨维信息共同变化的幅度(Tanaka,Quinn,etal.,2014; Xu& Tanaka,2013)，测量被试觉察单维构型信息变化、单维特征信息变化或跨维信息共同变化的敏感度（差别阈限）。采用改进版的单维信息变化觉察范式，配合经典恒定刺激法(Namdar etal.,2015)，每次给被试呈现两张正立或两张倒置的面孔，要求被试判断它们是否相同。需要指出，以往实验设计(Tanaka,Kaiser,etal.,2014)给被试呈现面孔要求做异同判断时并无明确指示，因此被试有可能采取较为灵活的认知策略，例如多关注面孔上的某个部分（例如眼睛区域）相对忽略其他部分（例如嘴巴区域)，导致某些区域的敏感度表现得较高，而另一些区域的敏感度被低估。在本研究中，两个实验都采用 block design，明确指示被试观察眼睛区域或嘴巴区域，最大限度减少认知策略的灵活性造成的干扰。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据前述假设，对实验结果作如下预测。如果面孔知觉在中等尺度（面孔区域尺度）上会发生信息整合，进而以眼睛区域的信息整合为中心，将小尺度与大尺度加工联系起来，最终构成全脸信息整合，那么，实验应该发现（1）被试觉察“跨维信息共变”的敏感度会高于觉察任一种“单维信息变化”的敏感度（表现为“跨维信息共变”时，差别阈限较低)，简称“跨维共变增益效应\"；（2）“跨维共变增益效应”会有区域选择性，表现为眼睛区域的增益效应较强，嘴巴区域的增益效应较弱；（3）面孔倒置可能对“跨维共变增益效应”造成损伤且表现出某种区域选择性，具体形式可以反映出面孔信息整合在全脸范围（大尺度）区域范围（中等尺度）与部件范围（小尺度）上的联动机制。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2实验1：眼睛区域的单维与跨维信息变化觉察及面孔倒置的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 被试",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "大学在校生43名（男生18名，女生25名)，年龄 $1 9 . 0 { \\pm } 1 . 4 \\ \\$ 岁。视力或矫正视力正常，均为右利手；自愿参加实验，实验后获得报酬。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 材料",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图1呈现了实验材料。拍摄32名男性大学生正面照片，用 Morph 软件融合得到一张平均面孔，以此减少单张面孔的自有变异（图1左上)。以平均面孔为0级，用Photoshop 做3种类型、6级幅度的变化：单维构型信息变化（以平均面孔为 $0 \\%$ 状态，每一等级增加双眼间距的 $10 \\%$ ，具体为2个像素)；单维特征信息变化（以平均面孔为 $0 \\%$ 状态，以原始面孔的眼睛区域为 $100 \\%$ 状态，每一等级增加眼睛区域Morph 融合比率的 $10 \\%$ ，使平均面孔的眼睛区域越来越独特；因双眼间距无变化，所以避免了构型信息变化)；跨维（构型与特征）信息共变（上述两种变化兼有)。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6969d2c565fc6558b59d7e973c9b553f4df4db418306157e8ee66c9e75590f4d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图1眼睛区域的单维构型变化、单维特征变化变化与跨维信息共变的实验材料",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1.3设计与流程",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "采用面孔异同判断任务和经典恒定刺激法测量差别阈限。将三种变化分为三个block，block 间按随机顺序排列。正式测试前告知被试眼睛区域将发生某种信息变化且充分练习，最大限度减少因认知策略的灵活性或因不确定信息变化发生于何处而盲目寻找所造成的干扰，增强被试觉察信息变化的反应稳定性。在每个block中，按随机顺序呈现7对面孔，每对面孔包括一张信息变化面孔和一张平均面孔。循环20次，共140个试次。140 试次 $\\times 3$ 种变化 $\\times 2$ 种朝向(正立与倒置) $\\scriptstyle = 8 4 0$ 试次。实验采用被试内设计。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "每个试次在屏幕中央呈现注视点 $^ { 6 4 } + ^ { , 9 } 1 0 0 \\mathrm { { m s } }$ ；呈现信息变化面孔（左侧)和平均面孔（右侧)，被试做异同判断（或呈现10秒）后消失；最后呈现空白屏 $1 0 0 \\mathrm { { m s } }$ 。呈现两张面孔的垂直高度是错开的（排除被试用电脑屏幕内框为空间参照的策略)。具体做法是随机一张的位置向上平移 20 像素，另一张向下平移 20 像素(Namdar et al.,2015)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2结果与讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图2呈现了被试对比两张面孔的眼睛区域做出“异”反应的百分比，随着差别等级从0到6 的增大而提高。按照恒定刺激法中的直线内插法计算求出反应概率 $50 \\%$ 所对应的信息变化等级（差别阈限)，即为敏感度。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/169e1c27c4261a4501fb034c677b38333fcd69904f2282b232f983d0646ab467.jpg",
+        "img_caption": [],
+        "img_footnote": [
+            "图2眼睛区域发生单维构型变化、单维特征变化与跨维信息共变时“异”反应的百分比"
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图2呈现了面孔正立或倒置时，被试觉察眼睛区域的单维构型信息变化、单维特征信息变化与跨维信息共变的差别阈限（平均值与标准误)。首先按照因素设计的常规统计法，做3（变化类型：单维构型变化、单维特征变化、跨维信息共变） $\\times 2$ （面孔朝向：正立、倒置)的重复测量ANOVA。结果显示，信息变化类型的主效应显著， $F ( 2 , \\ 8 4 ) = 1 0 . 0 5$ ， $p { = } 0 . 0 0 1$ ${ \\mathfrak { n } } _ { \\mathrm { p } } ^ { 2 } { = } 0 . 1 9$ ，面孔朝向的主效应不显著， $F ( 1 , \\ 4 2 ) = 2 . 6 8$ ， $\\scriptstyle p = 0 . 1 0 9$ ， $\\mathfrak { \\eta } _ { \\mathfrak { p } } { } ^ { 2 } = 0 . 0 6$ ；交互效应不显著， $F ( 2 , \\ 8 4 ) = 1 . 8 1$ ， $\\scriptstyle { p = 0 . 1 7 0 }$ ， $\\mathfrak { \\eta } _ { \\mathfrak { p } } { } ^ { 2 } = 0 . 0 4$ ，提示可能发现了某种“信息量效应”（跨维共变时的敏感度高于单维变化的敏感度)。但是考虑到（1）单维构型信息变化和单维特征信息变化的性质不同，根据“跨维共变增益效应”的定义，必须跨维信息共变时的敏感度高于任一种单维信息变化的敏感度才说明出现此效应；(2)面孔朝向是分类变量(categoricalvariable)，无法提供推断统计所需的目标假设；以及，最重要的（3）本文前言所述的理论推演为检验单维信息变化与跨维信息共变的敏感度差异提供了一个先验假设(apriori hypothesis)；所以接下来须将跨维共变条件与两种单维信息变化条件的敏感度在面孔正立与倒置条件分别做计划性配对比较(planned pairwise comparison)，检验跨维共变增益效应是否出现及具体表现为何种差异（原理见 APA，2001; Judd& McClelland,1989；Rosenthal& Rosnow,1985;",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Tabachnick & Fidell 200l；Wilkinson & Task Force on Statistical Inference APA，ScienceDirectorate,1999; Finch et al.,2002；例见 Daley& Rawson,2019）。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea964f530035e2b703f0125c766c77467e61958a22c6457436d5d695389ac6b9.jpg",
+        "img_caption": [
+            "图3眼睛区域信息变化觉察的敏感度"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "首先，在面孔正立时，以差别阈限值为因变量，对3种变化类型（单维构型变化、单维特征变化、跨维共变条件）做单因素重复测量ANOVA。统计结果显示变化类型的主效应显著， $F ( 2 , \\ 8 4 ) = 1 2 . 7 1$ ， $p { < } 0 . 0 0 1$ ， $\\mathfrak { n } _ { \\mathrm { p } } { } ^ { 2 } { = } 0 . 2 3$ ；计划性配对比较(planned pairwise comparison)的结果显示：（1）跨维共变的差别阈限显著低于单维构型变化，平均值差异 $\\scriptstyle \\cdot = - 0 . 6 4$ ， $p { < } 0 . 0 0 1$ （2)跨维共变也显著低于单维特征变化，平均值差异 $\\scriptstyle \\mathtt { \\_ { d 0 } }$ ， $p { < } 0 . 0 0 1$ ；因此在面孔正立时，出现了跨维共变增益效应。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "其次，在面孔倒置时，对3种变化类型（单维构型变化、单维特征变化与跨维共变条件）做单因素重复测量 ANOVA。统计结果显示变化类型的主效应显著， $F ( 2 , \\ 8 4 ) = 1 0 . 8 3$ ， $p <$ 0.001, ${ \\mathfrak { \\boldsymbol { \\eta } } } _ { \\mathrm { \\scriptsize { p } } } ^ { 2 } = 0 . 1 1$ ；计划性配对比较(planned pairwise comparison)的结果显示：（1）跨维共变的差别阈限与单维构型变化差异显著，平均值差异 $\\underline { { = } } . 0 . 3 8$ ， $p = 0 . 0 1 7$ ；（2）但是跨维共变的差别阈限与单维特征变化的差异不显著，平均值差异 $= - 0 . 1 5$ ， $\\scriptstyle { p = 0 . 8 8 4 }$ ；因此在面孔倒置时，没有出现跨维共变增益效应。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "第三，检验单维信息变化觉察在面孔正立与面孔倒置条件下有何变化。以差别阈限值为因变量，做2（变化类型：构型变化、特征变化） $\\times 2$ （面孔朝向：正立、倒置）的重复测量ANOVA。结果显示，变化类型的主效应不显著， $F ( 1 , \\ 4 2 ) = 0 . 4 6$ ， $p { = } 0 . 5 0 1$ ；面孔朝向的主效应不显著， $F ( 1 , \\ 4 2 ) = 2 . 6 5$ ， $\\scriptstyle p = 0 . 1 1 1$ ；交互效应不显著， $F ( 1 , \\ 4 2 ) = 0 . 0 0 1$ ， $\\scriptstyle p = 0 . 9 7 5$ ；可见眼睛区域单维信息变化觉察没有因面孔倒置而受到损伤。第四，对正立与倒置面孔跨维信息共变的敏感度做 pairedt-test，结果显示面孔朝向的效应显著， $t ( 4 2 ) = - 2 . 5 3$ ， $p { = } 0 . 0 1 5$ ，说明跨维共变条件的敏感度在面孔正立时显著高于面孔倒置时（与上述第一和第二个结果吻合）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "因此，就眼睛区域而言，综合上述结果可知：（1）当面孔正立时，在区域尺度上发生了“跨维共变增益效应”，在面孔倒置时，此效应没有出现。二者汇聚，提示面孔正立时的跨维增益效应并不是一种单纯的信息量效应（否则倒置面孔也应该出现类似的效应，但实际上并没有)；（2）眼睛区域单维信息变化觉察的敏感度没有受到面孔倒置的损伤，这个发现与以往实验结果相同(Tanaka,Kaiser,etal.,2014)，提示眼睛区域单维信息变化的分辨不会受到全脸信息整合的影响。综合上述两点可见，眼睛区域的跨维共变增益效应会特异性地受到面孔倒置的损伤，提示其加工过程与全脸信息整合机制有密切关系。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3实验2：嘴巴区域的单维与跨维信息变化觉察及面孔倒置的影响 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1 实验方法",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 被试",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "大学在校生43名（男生20名，女生23名)，年龄 $1 9 . 5 { \\pm 1 . 2 }$ 岁。视力或矫正视力正常，右利手；自愿参加实验，实验后获得报酬。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1.2 材料",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图4呈现了实验2的材料，具体做法与实验1相似，只是将眼睛区域改为嘴巴区域。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7b011c48cbe5f531d9bc66a6fcf519e4de49f52b383837e6eef709807e35a2b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1.3 设计与流程",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "实验2与实验1对应，告知被试面孔的嘴巴区域会发生变化，以此排除认知策略影响，最大程度测量被试觉察信息变化的敏感度。其他部分与实验1相同。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2结果",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/de471351e2457f2650b2133a67af10ea69befa300fa5c357ebd63ca01a661eb4.jpg",
+        "img_caption": [
+            "图4嘴巴区域的单维构型变化、单维特征变化与跨维信息共变",
+            "图5嘴巴区域发生单维构型变化、单维特征变化与跨维信息共变时“异”反应的百分比"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "图5呈现了被试对比两张面孔的嘴巴区域后，做出“异”反应的百分比，随着差别等级从0到6的增大而提高。按照恒定刺激法中的直线内插法计算求出反应概率 $50 \\%$ 所对应的信息变化等级（差别阈限)，即为敏感度。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/3bbd54d0b6db2d39675458029c71c10871a8b6bcf04f75b621fbde842a5b10ad.jpg",
+        "img_caption": [
+            "图6嘴巴区域信息变化觉察的敏感度"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "图6呈现了在面孔正立或倒置条件下，被试觉察嘴巴区域的单维构型信息变化、单维特征信息变化与跨维信息共变的差别阈限(平均值与标准误)。首先按照因素设计的常规统计，做3（变化类型：单维构型变化、单维特征变化、跨维信息共变） $\\times 2$ （面孔朝向：正立、倒置）的重复测量ANOVA。结果显示，变化类型的主效应显著， $F ( 2 , \\ 8 4 ) = 8 . 7 7$ ， $p { < } 0 . 0 0 1$ $\\boldsymbol \\eta \\mathrm { p } ^ { 2 } = 0 . 1 7$ ，面孔朝向的主效应不显著， $F ( 1 , \\ 4 2 ) = 3 . 5 7$ ， $p { = } 0 . 0 6 6$ ， $\\displaystyle \\boldsymbol { \\eta } _ { \\mathrm { p } } ^ { 2 } = 0 . 0 8$ ；交互效应不显著， $F ( 2 , \\ 8 4 ) = 2 . 3 8$ ， $p { = } 0 . 0 9 8$ ， ${ \\boldsymbol \\eta _ { \\mathrm { p } } } ^ { 2 } = 0 . 0 5 4$ 。上述结果提示，跨维共变条件的敏感度高于单维变化条件的敏感度。但与实验1同样地，这可能不是特异性“跨维共变增益效应”，只是普遍的“信息量效应”。基于相同原理，接下来在面孔正立与倒置时，将跨维共变条件的敏感度与单维信息变化中敏感度较高者做对比，检验跨维共变增益效应是否出现、有何差异。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "首先，在面孔正立时，以差别阈限值为因变量，对3种变化类型（单维构型变化、单维特征变化、跨维共变条件）做单因素重复测量ANOVA。结果显示，变化类型的主效应不显著， $F ( 2 , \\ 8 4 ) = 2 . 7 8$ ， $p = 0 . 0 6 7$ ， $\\eta _ { \\mathrm { p } } { } ^ { 2 } = 0 . 0 6$ ；计划性配对比较结果显示：（1）跨维共变的差别阈限显著低于单维构型变化，平均值差异 $\\scriptstyle \\mathtt { - - 0 . 2 4 }$ ， $p = 0 . 0 4 0$ ；（2）跨维共变与单维特征变化的差异不显著，平均值差异 $\\scriptstyle \\mathtt { - - 0 . 2 3 }$ ， $p = 0 . 1 6 0$ ；因此，嘴巴区域在面孔正立时并没有出现真正的跨维共变增益效应。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "其次，在面孔倒置时，对3种变化类型（单维构型变化、单维特征变化与跨维共变条件)做单因素重复测量ANOVA。结果显示，变化类型的主效应显著， $F ( 2 , 8 4 ) = 7 . 7 8$ ， $p { < } 0 . 0 0 1$ $\\boldsymbol \\eta _ { \\mathrm { p } } ^ { 2 } = 0 . 1 6$ ；计划性配对比较结果显示：（1）跨维共变的差别阈限与单维构型变化差异显著，平均值差异 $_ { \\cdot = - 0 . 5 8 }$ $p { < } 0 . 0 0 1$ ；但是（2）跨维共变的差别阈限与单维特征变化的差异不显著，平均值差异 $\\scriptstyle \\cdot = - 0 . 2 4$ ， ${ p = } 0 . 3 9 7$ ；因此嘴巴区域在面孔倒置时也没有出现真正的跨维共变增益效应。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "第三，检验单维信息变化觉察在面孔正立与面孔倒置条件下有何变化。以差别阈限值为因变量，做2（面孔朝向：正立、倒置） $\\times 2$ （变化类型：构型变化、特征变化）的重复测量ANOVA。结果显示，面孔朝向的主效应显著， $F ( 1 , \\ 4 2 ) = 4 . 5 7$ ， $\\boldsymbol { p = 0 . 0 3 8 }$ ， ${ \\mathfrak { \\eta } } _ { \\mathfrak { p } } ^ { 2 } = 0 . 0 6$ ；变化类型的主效应不显著， $F ( 1 , \\ 4 2 ) = 2 . 7 3$ ， $\\scriptstyle p = 0 . 1 0 6$ ；交互效应不显著， $F ( 1 , \\ 4 2 ) = 2 . 6 1 9$ ， $p =$ 0.113；提示面孔倒置损伤了嘴巴区域的单维信息变化觉察。第四，对跨维信息共变时的敏感度做 paired $t \\cdot$ -test，结果显示面孔朝向的效应不显著， $t ( 4 2 ) = - 0 . 3 6$ ， $\\scriptstyle { p = 0 . 7 2 0 }$ ，说明嘴巴区域在跨维共变时的敏感度没有受到面孔正立或倒置的影响（与上述第一和第二的统计结果吻合）。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "因此，实验2显示（1）嘴巴区域没有出现“跨维共变增益效应”，再次说明此效应具有特异性，它不是单纯的信息量效应；（2）嘴巴区域的单维信息变化觉察的敏感度因面孔倒置受损伤，这个发现与以往实验结果相同(Tanaka,Kaiser,etal.,2014)，提示嘴巴区域单维信息变化的分辨受到全脸信息整合的影响。综合上述两点可见，嘴巴区域的跨维信息变化觉察没有受到面孔倒置的损伤，显示实验1发现眼睛区域的共变增益效应具有面孔区域特异性。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.3单维信息变化觉察的眼睛区域优势：实验1与实验2的联合分析",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "图7呈现了实验1和实验2的联合结果，被试觉察眼睛区域与嘴巴区域的单维构型与单维特征信息变化的差别阈限（平均值与标准误）。",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/435148ee1cb3aab0ca2dee58c5e25a3cb3dd56822f1f120740df0b97568527d2.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "图7眼睛区域与嘴巴区域的单维构型与单维特征信息变化的差别阈限",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "以差别阈限为因变量，面孔区域为被试间自变量，面孔朝向和信息维度做被试内自变量，做2（面孔区域：眼睛区域、嘴巴区域） $\\times 2$ （面孔朝向：正立、倒置） $\\times 2$ （信息维度：单维构型、单维特征）的重复测量 ANOVA。结果显示，面孔区域的主效应显著， $F ( 1 , \\ 8 4 ) =$ 12.50, $p { = } 0 . 0 0 1$ ， $\\displaystyle { \\mathfrak { \\eta } } _ { \\mathrm { p } } ^ { 2 } = 0 . 1 3$ ，眼睛区域的差别阈限显著低于嘴巴区域；面孔朝向的主效应显著， $F ( 1 , \\ 8 4 ) = 4 . 0 8$ ， $p = 0 . 0 4 6$ ， $\\boldsymbol { \\eta _ { \\mathrm { p } } } ^ { 2 } = 0 . 0 5$ ；其他主效应和交互效应都不显著。因此，结果显示被试对眼睛区域单维信息变化的敏感度高于嘴巴区域，这种区域优势非常稳定，不论面孔正立还是倒置，也不论构型信息还是特征信息，数据模式都是如此。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4总讨论",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "本研究检测了人们的面孔知觉系统对眼睛区域或嘴巴区域的构型信息变化、特征信息变化与跨维（构型与特征）信息共变的敏感度，获得三个新颖的发现。第一，觉察眼睛区域的跨维（构型与特征）信息共变的敏感度显著高于觉察任一种单维（构型或特征）信息变化的敏感度，这是“跨维共变增益效应”，可见在面孔中等（区域）尺度上发生了自动化的信息整合加工。第二，“跨维共变增益效应”具有面孔朝向特异性，当面孔正立时眼睛区域会出现此效应，但面孔倒置时眼睛区域没有出现此效应;说明此效应不是普遍性的\"信息量效应”（因两个维度与一个维度的区别所致)，更不是简单的“物体数量效应”（因一双眼睛与一张嘴巴的差别所致)。第三，眼睛区域出现了“跨维共变增益效应”，嘴巴区域没有出现此效应，显示此效应具有面孔区域特异性。进而，面孔朝向与面孔区域的“双重特异性”构成了汇聚性的实验证据，提示“跨维共变增益效应\"很可能与全脸尺度上的多维信息整合有密切联系，进而与面孔知觉的特异性有密切关系。综合起来，这三个发现共同提示在面孔信息整合加工不仅会发生在全脸尺度上，也会发生在区域尺度上，这种整合在信息加工层级上高于单维信息变化觉察，具有眼睛区域特异性且独立于单维信息变化觉察的眼睛区域优势，在全脸多维信息知觉整合机制中可能起到重要作用。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "本研究的第一个新颖发现是人们觉察眼睛区域的跨维信息（构型与特征）共变时，其敏感度显著高于任一种单维（构型或特征）信息变化。这一现象与面孔整体加工中经典的“部分/整体效应”（part/whole effect）（Tanaka&Farah,1993)相似，都表现为一种增益效应。“部分/整体效应”具体表现为面孔部件单独呈现时加工绩效较低，在面孔背景中呈现时加工绩效得到提高。对它的传统解释认为，全脸范围内的信息整合造成了这种增益，但是发现“部分/整体效应”的 Tanaka 教授在近期的综述论文中(Tanaka& Simonyi, 2016)也提示部件（眼睛、鼻子或嘴巴）所在的周边区域可能对这种增益有较大贡献。就这一点而言，本研究发现的跨维共变增益效应与“部件/整体效应”相似，都提示在面孔区域的尺度上会发生信息整合加工。进而，本研究与经典研究不同的新颖贡献在于，经典的“部分/整体效应”关注焦点在于面孔部件的记忆与识别，而本研究的关注焦点在于面孔部件与区域内信息的知觉。因为信息辨别的敏感度（差别阈限值）是高度简化与直接的测量，其效应显示区域尺度上的信息整合加工无需短时记忆、无需认知策略的参与或调控，大部分是在无意识水平上自动化完成，所以，可以将跨维共变增益效应看作一种非常稳健的(solid)实验证据，揭示出面孔信息整合加工确实也发生在面孔知觉的中等（区域）尺度上。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "本研究的第二个和第三个新颖发现是“跨维共变增益效应”具有双重特异性。此效应不仅是区域特异的（眼睛区域出现此效应，嘴巴区域没有出现此效应)，而且是面孔朝向特异的（正立面孔的眼睛区域出现此效应，倒置面孔的眼睛区域没有出现此效应)。区域特异和朝向特异的双重特异性是一种交叉汇聚的证据，表明（1）这种发生在区域尺度上的信息整合效应不仅仅是单纯的信息量效应；（2)区域尺度上的信息整合很可能与面孔信息整合加工的特异性有密切关联。原因在于，（1）单纯的信息量效应是变化维度增加（从一维增加到二维）导致信息量增加再导致变化觉察的敏感度的提高，这种假设无法解释为什么嘴巴区域没有出现“跨维共变增益效应”，也无法解释为什么眼睛区域在正立时出现(在倒置时不出现)跨维共变增益效应；（2）与之相对，已经有很多实验证据显示面孔倒置对全脸信息整合加工的破坏(例如 Young etal.,1987；综述见 Tanaka& Gordon,2011)。因此，眼睛区域的跨维共变增益效应会被面孔倒置破坏，很可能是因为眼睛区域的整合加工在全脸信息整合中有不可缺少的贡献。这就是对经典的面孔倒置效应提出了一种新解释：面孔倒置会破坏眼睛区域的信息整合，而且眼睛区域的信息整合是全脸信息整合的核心、必要部分之一（关键中介)，所以面孔倒置会破坏全脸信息整合、损伤面孔识别。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "上述三个新颖的实验结果对理论上的三个预测提供了支持，而且还提示更强版本的理论假设。第一个预测是“跨维信息共变”的敏感度会高于任一种“单维信息变化”的敏感度；这个预测得到了实验结果的充分支持。第二个预测是“跨维共变增益效应”有区域选择性，眼睛区域的增益效应较强，嘴巴区域的增益效应较弱；实验发现眼睛区域有增益效应，嘴巴区域没有增益效应，因此实验结果支持一个更强的假设，即“跨维共变增益效应”具有眼睛区域的特异性，而不仅仅是区域选择性。第三个预测是面孔倒置对“跨维共变增益效应”造成的损伤可能表现出某种区域选择性；而实验结果是眼睛区域的效应被面孔倒置消除，但嘴巴区域完全不出现此效应，也支持了“跨维共变增益效应”具有眼睛区域特异性（而不仅是选择性）的强假设。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/14d3825702e5e9a9c9875c367dc9879f04fb8f3fed96ec46d2c5f0dd5a2b2ae7.jpg",
+        "img_caption": [
+            "图8面孔多维信息层级化整合假设的示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "将上述发现与分析综合起来，我们尝试提出一个面孔知觉中全脸多维信息的层级化整合假设(hierarchical integration hypothesis）（见图8)。它与知觉场假设的相似之处在于，二者都假定面孔倒置会缩小全脸信息整合的“范围\"；区别之处在于，知觉场假设仅提出上半脸与下半脸之间的信息整合会因倒置缩小了信息整合的“范围”而被破坏，但未能指出上半脸或眼睛区域内是否存在信息整合加工，存在何种信息整合加工，以及它与全脸信息整合存在何种联系。与之不同，本研究的实验结果显示眼睛区域内出现了跨维度的信息整合，且眼睛区域内的信息整合会特异性地被倒置所损伤。据此提出，按照“从中心到外周”的方式，将面孔信息加工划分出“部件、区域和全脸”三个层级：“部件”层级上会发生单维信息变化觉察，在“区域”层级上已经开始发生面孔特异性的多维信息整合，这种整合最终在“全脸”层级上完成，实现面孔识别。关于这三个层级的加工对面孔识别所产生的影响遵循何种函数关系，是从强到弱的单调函数，还是三个层级各有独特函数最终复合，仍需后继研究的检验、发现与数学建模。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "除此之外，在“部件”尺度上，非“整合加工”的单维信息变化觉察也表现出眼睛区域的选择性：眼睛区域的敏感度较高，嘴巴区域的敏感度较低。这些结果与以往研究的结果相同(Sekunova & Barton,2008; Tanaka, Kaiser, et al.,2014; Tanaka, Quinn, et al.,2014)，都显示出眼睛区域的单维信息分辨具有相当强的优势。重要的一点是，以往实验没有刻意控制被试的知觉偏向或注意策略，这可能造成实验结果的混淆。当被试预先不知道应该注意眼睛区域还是嘴巴区域时，有可能对眼睛区域投放较多时间与加工资源，对嘴巴区域则投放不足；尤其当面孔倒置时，任务难度提高，为节省认知资源，很可能会产生和使用更灵活的注意策略，例如给嘴巴区域投放的资源更少，导致实验结果低估被试对嘴巴区域信息变化的觉察敏感度。但是本研究用确定的观察区域、指导语和blockdesign严谨地排除了注意策略造成的干扰，但实验结果仍然发现眼睛区域的优势，这是在以往研究的基础上得到了更可靠的结果。关于眼睛区域的单维信息变化觉察比与嘴巴区域更敏感的原因，有可能来自眼睛区域本身的刺激特异性，有可能来自眼睛对注意的自动化捕获（这并非灵活、受控的注意策略)，有可能来自眼睛与嘴巴的数量差异（一双眼睛与一张嘴巴)，还可能来自部件间空间关系的方向差异（眼睛与眼睛是水平关系，嘴巴与鼻子是垂直关系)。需要指出，不论是上述任何一种，都只能解释“单维”信息变化觉察的结果，不能解释“跨维”共变增益效应的区域特异性（在眼睛区域出现，在嘴巴区域不出现）和朝向特异性（面孔正立时出现，面孔倒置时不出现)。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "面孔倒置对单维信息变化觉察的影响也表现出眼睛区域的特异性。对比眼睛区域与嘴巴区域的单维信息变化觉察与跨维共变增益效应被面孔倒置损伤的区域差异，能看到眼睛区域的单维信息变化觉察没有受到面孔倒置的影响，但跨维共变增益效应受到面孔倒置的损伤;嘴巴区域完全没有出现跨维共变增益效应（不存在是否受到面孔倒置影响的问题)，但是单维信息变化觉察会受到面孔倒置的显著损伤。在排除注意策略造成干扰的可能性之后，仍然发现面孔倒置时嘴巴区域的单维信息变化觉察的敏感度受损，这提示此种受损并非某种混淆效应，而是真实知觉能力下降。对此，一种可能的解释是，眼睛区域的单维信息变化觉察是独立于面孔朝向，为更多维度的知觉整合提供了稳定支持；但是，嘴巴区域单维信息分辨的独立性较弱，会受到面孔倒置的显著损伤，无法支持更多维度的复杂整合。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "综合起来，这些汇聚性的实验结果提示，跨维共变增益效应的特异性不仅具有外显的区域特异性与朝向特异性，还须满足信息复杂度的要求（单维信息变化无效应，必须跨维信息共变才有效应)。作为面孔知觉在中等（半脸或区域）尺度上的整合加工所表现的性质，跨维共变增益效应不仅是空间尺度（相对于单维信息分辨）扩大而表现出的新性质，而且是信息加工复杂性提高的结果。进一步的推测是，如果在眼睛区域信息复杂程度从单维提高到跨双维就能表现出特异性的加工性质，那么，从跨双维到综合多维的复杂度提升也许会表现出更强烈的面孔区域特异性，并且，这种特异性与全脸尺度上的信息整合很可能有密切联系。因此，就全脸信息整合而言，Diamond 和Carey(1986）根据信息类型提出的“构型与特征\"的两大维度二分法在理论上的重要性可能会越来越低，相对地，根据空间关系以“面孔区域”为核心维度的多分法在理论上的重要性可能会越来越高。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "基于知觉经验的面孔整体加工假设(Michel etal.,2006;Rossion& Michel,2011)提示，在区域尺度与全脸尺度上进行的知觉分辨与知觉整合可能都受到一个共同因素的增益，那就是知觉经验(perceptual experience)的长期积累。Wang 等(2015）发现人们觉察本种族面孔眼睛区域信息变化的敏感度显著高于他种族面孔的眼睛区域（构型信息与特征信息的变化觉察敏感度都有提高)，但是嘴巴区域却没有出现相似的差异，提示知觉经验长期积累对面孔信息变化觉察的增益效应集中发生在眼睛区域。她将眼睛区域称为“专家化区域”(Wang et al.,2015)。此外，严磷磷等(2016)发现本种族面孔的全脸整体加工较强而他种族面孔的全脸整体加工较弱；Wang 等(2019)发现本种族(own-race)面孔的全脸整体加工最强，他种族(other-race)面孔次之，他种系(other-species)面孔再次之。这些发现与本研究的结果结合起来，共同提示眼睛区域可能是全脸尺度多维信息整合默认的中心区域(也见Rossion,2008,2009)，它不仅知觉整合的加工强度高(Rossion,2008,2009;Tanaka,Kaiser,etal.,2014;VanBele etal.,015);加工自动化程度也高(Wang etal.,2019)。因此，在长期经验积累的过程中，全脸多维信息整合可能有一种以眼睛区域为中心的、层级化（hierarchical）整合的机制，不仅能提高整合加工的效能，而且能覆盖更大空间尺度，纳入更多信息维度，整合更复杂的加工过程。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "面孔单维构型信息、单维特征信息与跨维（构型与特征）信息变化觉察的实验结果显示眼睛区域发生了特异性的“跨维共变增益效应”。这种效应具有区域特异性、朝向特异性与加工层级特异性。它既不是普遍性的信息量效应，也不是单纯的部件数量效应，而是在面孔知觉的自下而上加工与自上而下加工的复杂交互中涌现产生的、发生在中等尺度（眼睛区域或嘴巴区域内）的知觉整合效应，提示面孔知觉的特异性可能源于以眼睛区域为中心的、层级化的多维信息整合机制。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "参考文献   \nAbudarham,N.,Shkiller,L.,& Yovel,G. (2019).Critical features for face recognition.Cognition,182,73-83.   \nAbudarham,N.,& Yovel, G. (2016). Reverseengineering the face space: Discovering the critical features for face identification. Journal of Vision,l6(3),1-18.   \nAmerican Psychological Association . (2001).Publication Manual of the American Psychological Asociation (5th ed.). Washington, DC: Author.   \nBarton,J.J.S.,Keenan,J.P.,&Bass,T. (2Oo1).Discrimination of spatialrelationsand features infaces:Effectsof inversion and viewing duration.British Journal of Psychology, 92(Pt 3),527-549.   \nBaudouin,J.-Y., Galay, M., Durand, K.,& Robichon,F. (201O). The development of perceptual sensitivityto second-order facialrelations in children. Journal of Experimental Child Psychology,107(3),195-206.   \nDaley,N.,& Rawson,K.A. (20l9).Elaborations in Expository Text Imposea Substantial Time Cost but Do Not Enhance Learning. Educational Psychology Review,31(1),197-222.   \nde Hering, A.,& Schiltz,C.(2013).Sensitivityto spacing information increases more fortheeye region than for the mouth region during childhood. International Joumal of Behavioral Development,37(2),166-171.   \nDiamond,R.,& Carey,S.(1986). Whyfaces areand are notspecial: an effect of expertise. Joumal ofExperimental Psychology: General,115(2),107-117.   \nDobs,K.，Isik,L.，Pantazis,D.，& Kanwisher，N. (2O19). How face perception unfolds over time. Nature Communications,10(1),1258.   \nFinch, S.,Thomason, N.,& Cumming,G. (2OO2).Past and Future American Psychological Association Guidelines for Statistical Practice. Theory & Psychology,12(6),825-853.   \nHay,D.C.，& Cox,R. (2ooo). Developmental changes in the recognition of faces and facial features. Infant and Child Development, 9(4),199-212.   \nHayward, W. G., Crookes,K., Chu, M. H.,Favelle,S.K.,& Rhodes, G. (2016). Holistic processing of face configurations and components. Journal ofExperimental Psychology : Human Perception & Performance, 42(10),1482-1489.   \nJudd, C.M.,& McCleland, G. H. (1989). Data analysis: A model-comparison approach. San Diego, CA: Harcourt Brace Jovanovich   \nMcKone,E., & Yovel, G. (2o09). Why does picture-plane inversionsometimes dissociate perception of features and spacing in faces,and sometimes not? Toward a new theory of holistic processng. Psychonomic Bulletin & Review,16(5),778-797.   \nMichel,C.,Caldara,R.,&Roion,B.(2oo6). Same-race faces are perceived moreholistically thanother-race faces. Visual Cognition,14(1),55-73.   \nNamdar,G.,Avidan,G.,& Ganel,T.(2O15).Effects of configural processng on the perceptual spatial resolution for face features. Cortex,72,115-123.   \nRiesenhuber,M.,Jarudi,I, Gilad,S.,& Sinha,P. (2004).Face processng in humans iscompatible with asimple shape-based model of vision. Proceedings: Biological sciences,271( Suppl. 6), 448-450.   \nRosenthal,R., &Rosnow, R.L. (1985). Contrast analysis: Focused comparisons in the analysis ofvariance. New York: Cambridge University Press.   \nRossion, B. (2Oo8). Picture-plane inversion leads to qualitative changes of face perception. Acta Psychologica, 128(2), 274-289.   \nRossion,B. (2Oo9).Distinguishing the cause and consequence offace inversion: The perceptual field hypothesis. Acta Psychologica,132(3),300-312.   \nRossion,B.,& Michel, C. (2011). An Experience-Based Holistic Account of the Other-Race Face Efect. In: G. Rhodes,A. Calder, M. Johnson,& J. V. Haxby (Eds.), Oxford Handbook of Face Perception (pp. 215- 244). Oxford, UK: Oxford University Press.   \nSekunova,A.,& Barton,J. (2Oo8).TheEffects ofFace Inversion onthe PerceptionofLong-Range and Local Spatial Relations in Eye and Mouth Configuration. Journal of experimental psychology. Human perception and performance,34(5),1129-1135.   \nTabachnick,B.G.& Fidell,L.S. (2001). Using multivariate statistics. Boston,MA: Allyn & Bacon   \nTanaka,J.,& Gordon, I. (2O11). Features, Configuration,and Holistic Face Processng. In: G. Rhodes,A. Calder, M. Johnson,& J. V. Haxby (Eds.), Oxford Handbook of Face Perception (pp.177-194). Oxford, UK: Oxford University Press.   \nTanaka,J.W.,&Farah,M.J. (1993).Parts and wholes in face recognition.The Quarterly JournalofExperimental Psychology. A, Human experimental psychology,46A(2), 225-245.   \nTanaka,J. W., Kaiser,M.D., Hagen,S.,&Pierce,L.J. (2O14).Losing face: impaired discrimination of featural and configural information in the mouth region of an inverted face. Attention,Perception & Psychophysics, 76(4),1000-1014.   \nTanaka,J. W., Quinn,P.C., Xu,B., Maynard, K., Huxtable,N.,Lee,K.,& Pascalis, O.(2O14). The effectsof information type (features vs.configuration） and location (eyes vs.mouth)on the development of face perception. Joumal of Experimental Child Psychology,124,36-49.   \nTanaka,J.W.,& Simonyi,D. (2016).The“parts and wholes”of face recognition: Areview of the literature.The Quarterly Journal of Experimental Psychology,69(10),1876-1889.   \nTaubert,J.,Apthorp,D., Aagten-Murphy,D.,& Alais,D. (2O11).The role of holistic processing in face perception: Evidence from the face inversion effect. Vision Research,51(11),1273-1278.   \nTaylor,M.J.,Edmonds,G.E.,McCarthy,G.,&Allison,T. (2001).Eyes first!Eye processing develops before face processing in children. Neuroreport, 12(8), 1671-1676.   \nVan Bele, G.,Lefevre,P.,& Rossion,B.(2O15). Face inversion and acquired prosopagnosia reduce the size of the perceptual field of view. Cognition,136,403-408.   \nWang,Z.,Quinn,P.C.,Jin,H.,Sun,Y.-H.P.,Tanaka,J. W.,Pascalis,O.,&Lee,K. (2O19). Aregional compositeface effect for species-specific recognition: Upper and lower halves play diferent roles in holistic processing of monkey faces. Vision Research,157, 89-96.   \nWang, Z., Quinn,P.C., Tanaka,J. W., Yu, X., Sun,Y.-H.P.,Liu,J.,Pascalis,O., Ge,L.,& Lee, K. (2015). An other-race effect for configural and featural processing of faces: upper and lower face regions play different roles. Frontiers in Psychology, 6:559. htps://oi.org/10.3389/fpsyg.2015.00559.   \nWilkinson,L.,& TaskForceon Statistical Inference,American Psychological Association,Science Directorate. (1999). Statistical methods in psychology journals: Guidelines and explanations.American Psychologist, 54(8), 594-604.   \nXu, B.,& Tanaka,J. W. (2O13). Does face inversion qualitatively change face processing: an eye movement study using a face change detection task. Journal of vision,l3(2),1-16.   \nYan L., Wang Z., Zhang Z.,Song S.,Sun Y. (2016). Face holistic processing is modulated by perceptual experience. Acta Psychologica Sinica,48(10),1199-1209. [严璘璘，王哲，张智君，宋赛尉，孙宇浩.(2016).知觉经验对面孔整体加工的影响．心理学报,48(10),1199-   \n1209.] Yin,R.K. (1969). Looking at upside-down faces. Joumal of Experimental Psychology,81(1),141-145. Young,A. W., Hellwell,D.,& Hay,D.C. (1987). Configurational information in face perception.Perception,   \n16(6),747-759. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "An Eye Region-specific Cross-dimension Covariation Enhancement Effect in Facial Featural and Configural Information Change Detection WANG Zhe, CHEN Yachun, LIU Wanpeng, SUN Yu-Hao P. (Department of Psychology, Zhejiang Sci-Tech University, Hangzhou 310018, China) ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Recent studies on face processing have shown our sensitivity to changes in facial configural and featural information. However, to our knowledge, the integration of the two types of facial information is poorly understood. To this end, this study explored the integration of facial information cross configural and featural dimensions within specific facial regions (i.e., eyes and mouth). ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "The theoretical hypothesis includes (1) If participants can integrate facial information in both facial configural and featural dimensions,they should be more sensitive to changes in dualdimension information as opposed to those in a single-dimension, that is a cross-dimension covariation enhancement effect; (2) The “cross-dimension covariation enhancement effect’ should be face region-selective: It is expected to be stronger in the eyes region than the mouth region; (3) Face iversion should impair the“cross-dimension covariation enhancement effect\".To test these predictions, we designed two 3 (facial information type: configural change,featural change, both change) $\\times 2$ (face orientation: upright, inversion) experiments for eye region and mouth region information change respectively. Participants' sensitivity to information change was measured in a 2-face discrimination task. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Results revealed that (1） participants were more sensitive to “dual” change in eye region as compared to changes in either single configural or featural information; (2) this efect is both orientation-specific (i.e., no effect was found in eye region when faces were inverted) and regionspecific (i.e., no effect was found in mouth region regardless of face orientation), suggesting that this effectcannot be simply explained by the extra facial information changes in the“dual\" condition; (3）When single facial information was altered, face inversion reduced the detection of facial information changes in the mouth region, but not those changes in the eyes region. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "In sum, our findings showed that face cross-dimension (i.e.， configural and featural) information integration occurred in the eye's region of upright faces, but not in the mouth region or inverted faces. The face orientation-specificity and facial region-specificity suggested that the integration happens at facial-region level， possibly involving face holistic processing. The traditional face holistic processing hypothesis emphasized integrating facial information across whole face region. The current findings suggest that face region might act as a key component in the framework of holistic face processing theory. Finally,by revisiting the “perceptual field” hypothesis， the “expertise area” hypothesis，and the “region-selective holistic processing\" hypothesis,we discussed an eye region-centered, hierarchical, multi-dimensional information integration hypothesis. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Key words: face perception, holistic processing, change detection, difference threshold, eye specificity ",
+        "page_idx": 20
+    }
+]

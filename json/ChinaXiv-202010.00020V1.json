@@ -1,0 +1,323 @@
+[
+    {
+        "type": "text",
+        "text": "Untangling the influence of soil moisture on root pullout property of alfafa plant ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Chaobo1\\*,LIU Yatin $\\mathbf { g } ^ { 1 }$ ,LIU Pengchong1, JIANG Jing1, YANG Qihong² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1College of Water Resources Science and Enginering,Taiyuan Universityof Technology,Taiyuan O3oo24,China;   \n²Changjiang River Scientific Research Institute, Changjiang Water Resoures Commisson, Wuhan 43001o, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Root pullout property of plants was of key importance to the soil reinforcement and the improvement of slope stability.To investigate the influence of soil moisture on root pullut resistance and failure modes in soil reinforcement process, we conducted pullout tests on alfalfa (Medicago sativa L.) roots at five levels (40,30,20,10 and $6 \\mathrm { k P a }$ ） of soil matric suction, corresponding to respectively $7 . 8 4 \\%$ 0 $9 . 6 6 \\%$ 0 $1 3 . 0 2 \\%$ 。 $1 9 . 3 5 \\%$ and $2 7 . 0 6 \\%$ gravimetric soil moisture contents. Results showed that the maximal root pullout force of $M .$ sativa decreased in a power function with increasing soil moisture content from $7 . 8 4 \\%$ to $2 7 . 0 6 \\%$ . Root slippage rate increased and breakage rate decreased with increasing soil moisture content. At $9 . 6 6 \\%$ soil moisture content, root slippage rate and breakage rate was $56 . 4 1 \\%$ and $4 3 . 5 8 \\%$ ,respectively. The threshold value of soil moisture content was about $9 . 0 0 \\%$ for alfalfa roots in the loess soil. The maximal pullout force of $M .$ sativa increased with root diameter in a power function. The threshold value of root diameter was $1 . 1 5 \\ \\mathrm { m m }$ ,because root slipping force was greater than root breaking force when diameter $> 1 . 1 5 \\ \\mathrm { m m }$ , while diameter $\\leq 1 . 1 5 ~ \\mathrm { m m }$ ，root slipping force tended to be less than root breaking force.No significant difference in pullout forces was observed between slipping roots and breaking roots when they had similar diameters. More easily obtained root tensile force (strength) is suggested to be used in root reinforcement models under the condition that the effect of root diameter is excluded as the pullut force of breaking roots measured in pullout tests is similar to the root tensile force obtained by tensile tests. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: shalow landslides;root reinforcement; soil moisture content; threshold of root diameter; root pullout :orce; soil conservation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Slope instability due to natural factors，geological, topographical, climatic and hydrological conditions,as well as human activities,construction and unreasonable transformation will not only easily cause destruction of surface vegetation,but also lead to soil erosion,landslides and collpses,which are seriously harmful to people's production and living (Knapen et al., 2006). Therefore,biotechnical measures are widely used in improving slope stability，reducing soil erosion and speeding up the restoration of slope vegetation (Gray and Sotir,1996), which can be more harmonious to the environment than traditional measures that mostly adopt masonry and spraying concrete (Cui and Lin, 2O13). Vegetation can help to stabilize shallow slips generally at ucpuis iss uian ，WICII IS WIUIII uIC ZUIU UI pIaIIt IUUtS (IYUIIIS aIU UIUUIWUUu,ZUUO). It is believed that the mechanical effects of vegetation measures on slope protection mainly come from soil reinforcement by shallow fibrous roots and soil anchorage by deep tap roots (Liang et al.,2O17a; Stubbs et al., 2O19). The interaction between roots and soils can improve soil shear strength (Fan and Tsai, 2Ol6; Yildiz et al.,2O18). Through pullout tests of roots, it is found that the increase of soil strength by roots mainly depends on the friction resistance caused by the dislocation between roots and soils,and the friction resistance can transmit and bear external loads together with the soils to increase the stability of slope soils.The failure modes of roots in the process of pullout tests include breakage and slippage (Pollen, 2OO7; Schwarz et al.,2010; Giadrossich et al.,2013; Giadrossich et al.,2017; Ji et al.,2018). In general,root breakage refers to a failure that a root fractures into two segments at a point in the middle of the root, while root slippage indicates a failure that all or nearly all of a root is pulled out from its surrounding soils. The distinct failure modes of roots are related to the mechanical properties of soil reinforcement by plants (Schwarz et al., 2010). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Differences in root morphology, root strength and soil strength are considered as basic reasons for different failure modes (Ennos,1990; Dupuy et al.,2005; Mickovski et al., 2007; Schwarz et al.,2011). In addition,the magnitude of root-soil friction is another important factor affecting the failure modes during root pullout tests (Pollen,2OO7). It is accepted that when tensile resistance of a root is greater than friction resistance between the root and soil,the root is more likely to be pulled out from the soil. Otherwise,the root will break into two segments. One segment is pulled out with obvious fracture section and the other one is left in the soil (Abernethy and Rutherfurd, 2001). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Some researchers have further studied the factors of soil, root and their interaction, such as soil strength,bending force from obstacle (for example，stones)，root diameter,root length,root tortuosity,root branches, root strength and root-soil friction (Stokes et al.,1996; Schwarz et al, 2010; Cohen et al., 2O11),and concluded that root failure during pulling is a consequence of combined multiple factors. According to existed researches,different plants usually have different pullout resistance of roots.This difference in pullout resistance of different plant roots on the one hand is caused by the difference in soil strength,and on the other hand by the difference in root diameter. Generally, roots with thicker diameter and greater root tensile strength can result in the stronger root pullout resistance (Schwarz et al.,2O1O). The premise is that soil moisture content around the roots needs to be relatively low.If the soil moisture content is too high, more roots will be pulled out, which decreases the root pullout resistance (Hales and Miniat, 2O17). Besides, soil pore pressures willbe increased by the high soil moisture content. Consequently, the stability of slopes will be considerably decreased (Hales and Miniat, 2017). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Soil moisture condition also greatly affects root moisture content, and then affects root tensile strength.Researchers showed that dried roots,which had $50 \\%$ less moisture than fresh roots,were over twice as strong as the fresh roots (Hales and Miniat, 2O17),the main reason might be shrinking of root diameter due to root dehydration (Zhang et al.,2O19). Soil moisture content has an effect on the pullout resistance and the failure mode of pullout roots,but the specific relationships of soil moisture content with root pullout force and root failure mode is not very clear. In addition,Pollen (2OO7） suggests that there is a threshold value of root diameter in the process of root pulling out.Roots with diameter larger than the threshold value of root diameter incline to be pulled out,while roots with diameter smaller than the threshold root diameter are easily broken.Due to the lack of researches, whether the threshold value of root diameter exists in root pulout resistance of other plants and the detailed relationship between threshold root diameter and pullout resistance are still unknown. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Therefore,the objectives of this study were (1） to comprehensively evaluate the root pullout properties of a pioneer herbaceous plant, i.e., alfalfa (Medicago sativa L.) that is widely used for vegetation restoration on slopes; (2) to reveal the specific relationships of soil moisture content with root pullout force and root failure mode;and (3) to determine the threshold value of root diameter and its relationship with root pullout properties. The research is of great significance to the study of friction anchorage between roots and soils,and can provide theoretical basis for ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "biotechnical engineering of slope protection. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The experiment was carried out at the College of Water Resources Science and Engineering, Taiyuan University of Technology,Taiyuan City, Shanxi Province, China in 2O17. Taiyuan City $( 3 7 ^ { \\circ } 5 4 ^ { \\prime } \\mathrm { N } ,$ ， $1 1 2 ^ { \\circ } 3 3 ^ { \\prime } \\mathrm { E } \\ '$ ） is located in the north-central part of Shanxi Province,with the highest altitude of $2 6 7 0 \\mathrm { m }$ and the lowest point of $7 6 0 \\mathrm { ~ m ~ }$ a.s.l. The average elevation is about $8 0 0 \\mathrm { ~ m ~ }$ a.s.l. The annual average temperature is about $9 . 5 ^ { \\circ } \\mathrm { C }$ ，and the average frost-free period is $2 0 2 { \\mathrm { ~ d } }$ The average annual precipitation is about $4 0 0 ~ \\mathrm { { m m } }$ ,but the evaporation is about $1 8 0 0 ~ \\mathrm { { m m } }$ .The study area belongs to a typical continental climate with relatively dry air and less precipitation. This areais in the semi-aridLoess Plateau of China. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Soil samples ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Alfalfa was selected to plant in containers with the size of $5 0 \\mathrm { c m }$ in length, width and height (Fig. la),as alfalfa is a plant widely grown in China, which not only provides the high-quality forage feed,but also plays a role in conserving water and soil. The soil used for planting was loess sampled near Taiyuan City. After air dried and ground,we sieved the soil by a $4 \\mathrm { - m m }$ sieve. In order to maintain similar bulk density and uniformity of the loess with natural environment, we sampled and filled soils with five layers,each layer $1 0 \\ \\mathrm { c m }$ .The bulk density of the soil was 1.37 $\\mathrm { g } / \\mathrm { c m } ^ { 3 }$ measured by central knife method. The potted plants were kept in natural environment with a growth period of 12 months.To determine soil moisture characteristic curve, we measured soil matric suction of each tested container by the hydraulic tensiometer at $2 5 \\ \\mathrm { c m }$ soil depth,and measured corresponding gravimetric soil moisture content by oven dry method. Hydraulic tensiometer was buried in the cubic soil container when loading soil samples. Soils for testing moisture content were sampled at the same soil depth.Three duplicates of soil matric suction and gravimetric soil moisture content were recorded in each container for eleven times. To investigate root diameter and root length of alfalfa,we excavated 3O samples from the containers.Root length was measured by a tape gauge. Root diameter was measured by a vernier caliper. Alfalfa roots were tap-shaped with very few small fibrous roots. The root diameter ranged from 0.44 to $1 . 5 5 \\mathrm { m m }$ ,and the root length ranged from 5 to $3 0 \\mathrm { c m }$ (Fig. 1b). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/bbf0e0ead10dea6b8d1b3ab04b475d7fbd8b0a4592c17d1d05b302c8c0229b4e.jpg",
+        "img_caption": [
+            "Fig.1Alfalfa (Medicago sativa L.) samples planted in containers (a) and root samples (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 In situ pullout tests ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Vertical in situ pullout tests were carred out on the alfalfa roots (Fig.2). Water was added to each sample container to saturate the soil samples before pullout tests.After $2 4 \\mathrm { h }$ ,soil matric suction in each test chamber was regularly recorded every day. The pulout tests were conducted when the values of soil matric suction were 6,10,20,30 and $4 0 \\mathrm { \\ k P a }$ ，Two failure modes of root pullout were observed in the pullout tests,root slippage and root breakage. The main experimental steps of the in situ pullout tests were as follows: (1) Fixing root: Root segment with a length of $3 \\ \\mathrm { c m }$ was exposed to the air from the soil and fixed to the clamp of the dynamometer HANDPI NK-100 (HANDPI, Yueqing Handpi Instruments Co., Ltd., China); (2) Measuring root diameter: Diameter of the exposed root segment was measured three times at a distance of $1 \\ \\mathrm { c m }$ to the soil surface, and the average value was taken as the diameter $( D , \\mathrm { m m } )$ of the root; (3) Measuring the maximal pullut force: The dynamometer was first zeroed and then moved vertically evenly until the root was failed, just then the value of peak pull force $( F ,  { \\mathrm { N } } )$ was recorded; and (4) calculating the rates of root slippage and breakage: Root slippage rate or root breakage rate was the ratio of the number of roots in slippage failure mode or in breakage failure mode to the total number of roots tested under a certain soil matric suction.The total number of roots tested under 6,10,2O,30 and $4 0 \\mathrm { { k P a } }$ soil matric suctions was 27,29,27, 28 and 28, respectively. To obtain the threshold value of root diameter, we conducted additional pullout tests on 57 roots under the threshold value of soil moisture content in which root slippage rate equals to root breakage rate. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/36077ab423f42e08ab87a908fdef37198d42b4f5866d91a43bc1cf2ca0b50155.jpg",
+        "img_caption": [
+            "Fig.2Diagram of pullout test of alfalfa roots from the cultivation container "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4 Data analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis of the data was performed using SPSS vl6.O for Windows software (SPSS, Chicago, IL,USA). The relationships among different variables were analyzed by the linear function or power law function.The difference of the maximal root pullout force among the five soil moisture conditions was tested by ANOVA (analysis of variance). Figures were drawn by Excel 2007. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1Relationships of soil moisture content with root slippage rate and breakage rate ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A power function relationship was observed between soil matric suction and gravimetric soil moisture content (Fig. 3). Soil moisture contents corresponding to the soil matric suction under five levels(40,30，20,10 and $6  { \\mathrm { \\ k P a } } )$ ）were $7 . 8 4 \\%$ ， $9 . 6 6 \\%$ ， $1 3 . 0 2 \\%$ ， $1 9 . 3 5 \\%$ and $2 7 . 0 6 \\%$ respectively. The rates of root slippage and breakage were closely related with soil moisture content (Fig. 4).Lower soil moisture content resulted in a higher rate of root breakage. Under high soil moisture content,more roots were tended to fail in slippage.Root breakage rate decreased with soil moisture content in a power function $( y = 3 7 4 7 . 6 x - 1 . 9 5$ ， $R ^ { 2 } { = } 0 . 9 6 2 0$ ， $P { < } 0 . 0 5 )$ ） Root slippage rate equaled to root breakage rate at about $9 . 0 0 \\%$ soil moisture content,which could be considered as the threshold value of soil moisture content for the two failure modes of alfalfa roots in loess soil. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "080300 Root slippage +-Root breakage 0 0 5 10 15 20 25 30 Soil moisture content (%) ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/608ffe930ce0ffb2d1991fcad737537a0e3a717e2ff4780e024ce8d42519eae7.jpg",
+        "img_caption": [
+            "Fig.3Relationship between soil moisture content and soil matric suction ",
+            "Fig.4Relationships of root slippage and breakage rates with soil moisture content ",
+            "Fig.5Maximal root pullout forces under different soil moisture contents (a) and soil matric suctions (b). Dierent lowercase leters indicate significant differences among different soil moisture contents and soil matric suctions at $P { < } 0 . 0 5$ level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2Relationships of the maximal root pullout force with soil moisture content and soi matric suction ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The maximal pullout forces were 12.94 $( \\pm 0 . 7 7 )$ ，12.21 $( \\pm 0 . 8 3 )$ ，11.96 $( \\pm 0 . 8 2 )$ ，11.29 $( \\pm 0 . 6 4 )$ and 9.61 $( \\pm 0 . 7 1 )$ ）N respectively under $7 . 8 4 \\%$ ， $9 . 6 6 \\%$ ， $1 3 . 0 2 \\%$ ， $1 9 . 3 5 \\%$ and $2 7 . 0 6 \\%$ soil moisture contents.The maximal root pulout force linearly decreased with increasing soil moisture content 0 $_ { \\it P < 0 . 0 5 }$ ； Fig. 5a) and increased in a logarithmic function with increasing soil matric suction $( P { < } 0 . 0 5$ ; Fig. 5b). The significant difference of the maximal root pullout force was only observed between $2 7 . 0 6 \\%$ soil moisture content and other soil moisture contents. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "64 (a) 6 (b)   \n(n rrir inlins geiier a a   \n12 I a 中 b b b ab aH aH   \n10   \n8 y=-0.157x+14.02 y=1.6337ln(x)+6.8716   \n6 R²=0.9640 R²=0.9217   \n4   \n2   \n0 ⊥ L 0 J   \n0 5 10 15 20 25 30 0 10 20 30 40 50   \nSoil moisture content (%) Soil matric suction (kPa) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3Relationship between root diameter and the maximal root pullout force ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Under $9 . 0 0 \\%$ soil moisture content, the probabilities of the two failure modes of root pullout, root slippage and root breakage were almost the same. The differences of root diameter and the maximal root pullout force were not significant between the slippage and breakage of roots (Table 1). Root diameter was an important factor affecting the maximal root pulout force. Root slipping force and breaking force increased with increasing root diameter in power functions.Diameter $1 . 1 5 ~ \\mathrm { m m }$ was a threshold value for slipping force and breaking force. At root diameters less than $1 . 1 5 ~ \\mathrm { m m }$ breaking force exceeded pullout force, but at root diameters larger than $1 . 1 5 \\mathrm { m m }$ pullout force exceeded breaking force (Fig. 6). ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/3d17ba2d71d4b83d316cbbed4cdff27b382dffca17d03bc9d598caf358872c44.jpg",
+        "table_caption": [
+            "Table 1 Difference of root diameter $( D )$ and the maximal pullout force ( $\\scriptstyle \\left( F _ { \\mathrm { P } } \\right)$ between slippage and breakage of roots under $9 . 0 0 \\%$ soil moisture content "
+        ],
+        "table_footnote": [
+            "Note:Different lowercase letters indicate significant difference of $D$ and $F _ { \\mathrm { P } }$ between slippage and breakage.Mean±SE. "
+        ],
+        "table_body": "<html><body><table><tr><td>Root diameter (mm)</td><td>Root nsumperof</td><td>Root brmaberof</td><td>Root diameter of slipmge</td><td>Root diameter of breamge</td><td>Fp of slippage (N)</td><td>Fpof breakage (N)</td></tr><tr><td>D≤1.15</td><td>16</td><td>20</td><td>0.85±0.03a</td><td>0.76±0.04a</td><td>8.88±0.58a</td><td>9.79±0.53a</td></tr><tr><td>D>1.15</td><td>14</td><td>7</td><td>1.30±0.05a</td><td>1.36±0.05a</td><td>17.47±0.70a</td><td>18.23±0.92a</td></tr><tr><td>Total D</td><td>30</td><td>27</td><td>1.06±0.05a</td><td>0.93±0.06a</td><td>12.89±0.91a</td><td>11.98±0.85a</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/bdb4c8ee57395a0840d1b558645a495e99f3a45c47fc0df1f8bc8a08ac6d7296.jpg",
+        "img_caption": [
+            "Fig.6Relationships between the maximal root pulout forces of slipping and breaking and root diameter under $9 . 0 0 \\%$ soil moisture content "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4 Effects of root diameter and soil moisture content on the maximal root pullout force ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Soil moisture content ( $F { = } 3 2 . 7 0 3$ ， $\\scriptstyle P = 0 . 0 0 8 .$ ）and root diameter( $F { = } 1 3 . 7 9 3$ ， $P { = } 0 . 0 2 5$ ）had significant impact on the maximal root pullout force (Table 2).However,the interaction effect of root diameter and soil moisture content on the maximal root pullout force was not significant 0 $scriptstyle { \\cal F } = 2 . 4 7 2$ ， $\\scriptstyle P = 0 . 2 4 8$ ),that is,the effect of root diameter on the maximal root pullout force under both high and low water content conditions was not significant,and the effect of soil moisture content on the maximal root pullout force was also not significant whether root diameter was small or large. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e3dcb3f99fd91da143f11d318dc66d7ffb4ed2f0878c19cef2e05703befa3f0d.jpg",
+        "table_caption": [
+            "Table 2Summary of analysis of covariance for root diameter $( D )$ and soil moisture content (SMC) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Source</td><td>Degree of freedom</td><td>Mean square</td><td>F</td><td>P</td></tr><tr><td>SMC</td><td>4</td><td>35.319</td><td>32.703</td><td>0.008</td></tr><tr><td>D</td><td>92</td><td>14.896</td><td>13.793</td><td>0.025</td></tr><tr><td>SMCxD</td><td>15</td><td>2.670</td><td>2.472</td><td>0.248</td></tr><tr><td>Error</td><td>3</td><td>1.080</td><td></td><td></td></tr><tr><td>Total</td><td>114</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Soil moisture condition affected root pullout properties, such as the maximal root pullout force and root slippage/breakage rates This phenomenon has been published in previous studies (Giadrossich et al.，2O13)，but the specific relationship that the maximal root pullout force decreased linearly with soil moisture content or increased in a logarithmic function with soil matric suction has not been reported. The study by Chang et al. (2O18) showed that the maximal root pullout force of tap roots of Photinia fraseri increased and then decreased with increasing soil moisture content.Therefore,the linear relationship determined in this study might not be suitable for other plant roots or soil types, because the effect of soil moisture content on the maximal pullout force of roots was related to the mechanical effects of soil moisture content on both soil and root systems.With the increase of soil moisture content, the water content of roots increases,which leads to the linear increase of root diameter and the linear decrease of root tensile strength (Zhang et al., 2O19). Consequently, the pullout force of breaking roots is then decreased.At the same time,the increase of soil moisture content reduces the shear strength of the soil,thus reduces the binding force between the roots and the soil,and the pullout force of slipping roots is decreased. However, dry soil does not necessarily increase the root pullout force. If soil is too dry, forming cracks and fractures in the soil and gaps between roots,cohesion and friction between roots and soil will be reduced (Hallett and Newson, 2Oo5). The lowest soil moisture content considered in this study was only $7 . 8 4 \\%$ 1 $( 4 0 \\mathrm { k P a } )$ ,indicating that plants were in the state of poor soil moisture and water demand, but there was no obvious crack in the soil. Therefore,the phenomenon of low root pullout force caused by soil drying did not occur in this study.It is important to note that the occurrence of the phenomenon in natural environment cannot be excluded.Moderate soil moisture is beneficial to the formation of water film between soil particles and good combination of soil and root systems (Harlan，1973). The linear relationship or logarithmic function between the maximal root pulout force and soil moisture content observed in this study might exist only within a certain range of soil moisture content. Root breakage rate was negatively correlated with soil moisture content, while root slippage rate was positively correlated with soil moisture content. A critical value of soil moisture (about $9 . 0 0 \\%$ ， corresponding soil matric suction about $3 0 \\mathrm { k P a }$ ） content between root breakage rate and slippage rate was observed in this study. At this value of soil moisture,the root breakage rate and slippage rate were basically the same.With the increase of soil moisture content, the root slippage rate increased, and the root breakage rate decreased. This may be due to the excessive moisture content increasing soil pore water pressure and reducing soil cohesion， which leads to the decrease of friction between roots and soil (Fredlund et al.,1996). Then root reinforcement is decreased and slope stability is reduced. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The two failure modes, root slippage and root breakage, generally have different pullout forces. The pulout force of root breakage equals to the tensile force of roots, while the pullout force of root slippage is primarily linked with the soil-root interface friction. There is a common problem in the mechanical models of root reinforcement, such as Wu-Waldron model (Waldron,1977; Wu, 1979),fiber bundle model (Pollen and Simon,2Oo5),and root bundle model (Schwarz et al., 2011), that is,root tensile force or root pullout force should be considered in these models.Our study found that there was no significant difference in the pullout ability between slipping roots and breaking roots when the difference of their diameters was not significant (Table 1). Pullout force of breaking roots in root pullout tests is mainly resulted from tensile force of the roots. Therefore,root tensile force, which can be easily obtained by the root tensile tests, is suggested to be used in the models of root reinforcement. The only precondition of the suggestion is to exclude the influence of root diameter. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Root diameter in root tensile tests is generally measured near the breaking point. However, root diameter in root pullout tests is usually measured at the top of the root near the soil surface, which is larger than the root diameter measured near the breaking point for the same root. Generally, root tensile force increases with root diameter in power functions (Comino and Marengo,2010; Liang et al.,2O17b; Vergani et al.,2O17). The maximal pullout force of roots increases with root diameter in power functions (Li et al.,2Oo6) or linear functions (this study).For the same species, roots with larger diameter have longer root length. Hence, root surface area that contacts with the soil is larger. Consequently, root-soil friction bond is stronger. Pollen (2Oo7) suggested that there was a theoretical threshold diameter between slipping root and breaking root. Above the threshold diameter, the friction between soil and roots exceeds the root tensile strength, roots are easily broken.Below the threshold diameter,roots are pulled out if the force required to break the root-soil friction bond is less than that required to break the root, or broken if root branching exists and causes the friction forces bigger than root tensile strength (Pollen,2OO7). In this study, the threshold diameter was identified in the root pullout tests when soil moisture content was moderate for both root slippage rate and root breakage rate. Too high or too low soil moisture content led to the occurrence of only one failure mode and no threshold root diameter for failure modes.In brief,root failure mode was affected by the interaction of root diameter and soil moisture content, but the maximal root pulout force was not significantly afected by the interaction effect. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Lateral roots is of significant importance to soil reinforcement by plant roots, for example, the traction effect of lateral roots of Pinus yunnanensis (Zhou et al.,1998).The lateral roots have an effect on the pullout characteristics of plant roots. Generally, roots with lateral roots show greater pullout resistance than that without lateral roots (Mickovski et al.,2OO7).The roots of alfalfa can be divided into tap roots, branch roots,creeping roots and rhizomatous roots (Nan et al., 2014). Most alfalfa has tap roots.Therefore,lateral roots were not the focus of this paper. If plants have a large number of lateral roots,the performance of lateral roots should not be ignored in the study of root pullout property of the plants. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Root pullout property is of importance to the root reinforcement and slope stability. This study focused on the soil moisture influence on root pullout property. The results of root pullout tests showed that the maximal pullout force of alfalfa roots decreased linearly with soil moisture content or increased in a logarithmic function with soil matric suction. In a good soil moisture condition (soil matric suction $3 0 \\ \\mathrm { k P a }$ or soil moisture content about $9 . 0 0 \\%$ ),the probability of root slippage and root breakage was almost the same.The lower the soil moisture content was, the easier the root system would break.On the contrary, the higher the soil moisture content, the greater the root slippage.Although root failure mode was affected by the interaction of root diameter and soil moisture content, the maximal root pullout force was not significantly affected by the interaction. Besides,no significant diference was observed in the pullout ability between slipping roots and breaking roots when there was no significant difference in root diameter between the two groups. The pullout force of breaking roots measured in the pullout tests was similar to the root tensile force obtained by root tensile tests.If the effect of root diameter is excluded,root tensile force (strength) easily obtained by root tensile tests in the laboratory is suggested to be used in root reinforcement models. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This study was funded by the National Natural Science Foundation of China (316Oo582),the Natural Science Foundation of Shanxi Province of China (2O1701D221224),the Program for the Outstanding Innovative Teams of HigherLearning Institutions of Shanxi Provinceof China (2Ol7),the Scientific and Technological Innovation Programs of Higher Education Institutions of Shanxi Province,China (2O19LO175)，and the National Key Research and Development Program of China (2O18YFC0407803). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "AbernethyB,RutherfurdID.2Oo1.Thedistributionandstrengthofriparian treerots inrelationtoriverbankreinforcement. Hydrological Processes,15(1): 63-79. ChangJM,Wang GY,HuSH,etal.2O18.Experimentalstudyoneffectsof geometriccharacteristicsofshubrotsonpulling ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Cohen D,Schwarz M,OrD.20l1.Ananalytical fiber bundle model for pullout mechanics of root bundles.Journal of Geophysical Research: Earth Surface,116:F03010.   \nComino E,Marengo P.2O10.Rottensile strength of three shrub species: Rosacanina,Cotoneaster dammeri and Juniperus horizontalis: Soil reinforcement estimation by laboratory tests.Catena,82(3):227-235.   \nCui P,LinYM.20l3.Debris-flowtreatment: The integrationofbotanicaland geotechnicalmethods.JouralofResourcesand Ecology,4(2): 97-104.   \nDupuyL,FourcaudT,Stokes A.2O05.Anumerical investigationintofactorsaectingtheanchorageof roots intension. European Journal of Soil Science,56(3): 319-327.   \nEnnos AR.1990.Theanchorageof lee seedlings: theefectofrotlengthandsoilstrength.AnnalsofBotay,65(4): 409-416.   \nFan CC,Tsai MH.2O16.Spatial distributionof plantrotforces inroot-permeated soilssubjectto shear.Soil&Tillage Research,156:1-15.   \nFredlundDG, Xing A,FredlundMD,etal.1996.Therelationshipof theunsaturatedsoil shearstrength tothesoil-water characteristic curve.Canadian Geotechnical Journal, 33(3): 440-448.   \nGiadrossich F,Schwarz M,Cohen D,et al.2017.Methods to measure the mechanical behaviourof tree roots:Areview. Ecological Engineering,109: 256-271.   \nGiadrosichF,Schwarz M,CohenD,etal.2O13.Mechanical interactions betwen neighbouring roots duringpullouttests.Plant and Soil, 367(1-2): 391-406.   \nGrayDH,SotirRB.1996.BiotechnicalandSoilBioenginering Slope Stabilisation:APractical Guide for ErosionControl. New York: Wiley,77-90.   \nHales TC,Miniat CF.2017.Soil moisture causes dynamic adjustments torotreinforcementthat reduce slope stability.Earth Surface Processes and Landforms,42(5): 803-813.   \nHallett PD,Newson TA.2Oo5.Describing sol crack formation using elastic-plastic fracture mechanics.European Journalof Soil Science,56(1): 31-38.   \nHarlanRL.1973.Analysisofcoupled heat-fluid transportinpartiall frozensoil. WaterResourcesResearch,9(5):13141323.   \nJi X D,Cong X,DaiXQ,etal.2O18.Studyingthe mechanical propertiesofthesoil-rootinterfaceusing thepullouttestmethod. Journal of Mountain Science,15(4): 882-893.   \nKnapen A,Kitutu MG,Poesen J,etal.2O6.Landslidesina denselypopulatedcountyat the footslopesof MountElgon (Uganda): Characteristics and causal factors. Geomorphology,73(1-2): 149-165.   \nLi S C,Sun HL,Yang ZR,et al.2O06.Mechanicalcharacteristicsof interaction betweenrotsystemof plants and rock for rock slope protection. Chinese Journal of Rock Mechanics and Engineering,25(10):2051-2056.(in Chinese)   \nLiang T,Bengough AGKnappettJA,etal.2O17a.Scalingoftheeinforcementofsoilslopes bylivingplants ina geotechnical centrifuge. Ecological Engineering,109:207-227.   \nLiang T,KnappettJA,Bengough A Get al.2017b.Smallscale modellingof plant root systems using 3Dprinting,with applications to investigate therole of vegetation on earthquake-induced landslides.Landslides,14(5): 1747-1765.   \nMickovski SB,BegoughAGransbyMFetalO7.Materialstiess,ranchingpaeandsoilmatricotentalaect the pullout resistance of model root systems.European Journal of Soil Science,58(6):1471-1481.   \nNanL,ShiS,ZhangJ.2Ol4.Studyonroot systemdevelopmentabilityofdifferentroot-type alfalfa.ActaPrataculturae Sinica, 23(2): 117-124. (in Chinese)   \nNorris JE,GreenwoodJR.2O08.An introductiontotypesof vegetated slopes.In:Noris JE,Stokes A,Mickovski SB,etal. Slope Stability and Erosion Control: Ecotechnological Solutions.Amsterdam: Springer, 9-15.   \nPollen N,Simon A.2O05.Estimatingthe mechanicalefectsofriparian vegetationonstreambank stabilityusingafiberbundle model. Water Resources Research,41: W07025.   \nPollen N.20o7.Temporaland spatialvariabityinrootreinforcementof streambanks:Accountingforsoil shear strengthand moisture.Catena,69(3):197-205.   \nSchwarz M,Cohen D,Or D.2010.Rot-soil mechanical interactions during pullout and failure of root bundles.Journal of Geophysical Research: Earth Surface,115: F04035   \nSchwarz M,Cohen D,Or D.2011.Pullut testsofroot analogs and natural root bundles in soil: Experiments and modeling. Journal of Geophysical Research: Earth Surface,116: F02007.   \nStokes A,BallJ,FiterAH,etal.996.Anexperimental investigationoftheresistanceofmodelootsystems touprooting. Annals of Botany,78(4): 415-421.   \nStubbs JC,Cook DD,NiklasJK.20l9.Ageneral reviewof thebiomechanics ofrot anchorage.Journalof Experimental Botany,70(14): 3439-3451.   \nVergani C,GiadrossichF,BuckleyP,etal.2O17.RotreinforcementdynamicsofEuropeancoppice woodlandsandtheirefect on shallow landslides:A review.Earth-Science Reviews,167:88-102.   \nWaldronLJ.1977.Theshearresistanceofrootpermeated homogeneous and stratified soil. Journalof theSoilScience Society of America,41(5): 843-849.   \nWu TH.1979.Strengthoftree rootsandlandslidesonPrinceof Wales Islad,Alaska.Canadian Geotechnical Journal,6(1): 19-33.   \nYildizA,GrafF,RickliC,etal.2O18.Dterminationoftheshearingbehaviourofroot-permeatedsoilswithalarge-scaledirect shear apparatus.Catena,166:98-113.   \nZhang CB,ZhouX,JiangJ,etal.2O19.Rootmoisturecontentinfluenceonroottensile testsofherbaceousplants.Catena,17: 140-147.   \nZhou Y,WatsDP,LiYH,etal.1998.Acase studyof efectof lateralrotsof Pinusyunnanensisonshallow soil reinforcement.Forest Ecology and Management,103(2-3):107-120. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

@@ -1,0 +1,224 @@
+# DOI: 10.5846/stxb201706131071
+
+叶权平,张文辉,于世川,薛文艳.桥山林区麻栎群落主要乔木种群的种间联结性.生态学报,2018,38（9):3165-3174. YeQP,Zhaguetescooftlatioofuesioitt area.Acta Ecologica Sinica,2018,38(9):3165-3174.
+
+# 桥山林区麻栎群落主要乔木种群的种间联结性
+
+叶权平，张文辉\*，于世川，薛文艳西北农林科技大学陕西省林业综合重点实验室，杨凌712100
+
+摘要：采用方差比率法（VR），基于 $2 { \times } 2$ 联列表的 $\chi ^ { 2 }$ 检验、联结系数(AC）共同出现百分率(PC)和点相关系数 $\boldsymbol { \Phi }$ ,对桥山林区麻栎（Quercus acutissma)群落中重要值前17位的乔木种群进行种间联结测定与分析。结果表明：桥山林区麻栎群落17个主要乔木种群总体表现为不显著负关联,各物种趋于独立,群落整体不稳定 $\cdot \chi ^ { 2 }$ 检验结果显示17个主要种 136个种对中,正联结占$4 4 . 8 5 \%$ ,负联结占 $5 5 . 1 5 \%$ ,绝大多数呈不显著关联,说明群落种间关联较弱,群落处于不稳定演替阶段;联结系数AC与共同出现百分率PC 分析结果都表明17个主要种总体上对生境的需求不同,各种对同时出现几率小;点相关系数 $\boldsymbol { \Phi }$ 测定结果显示正联结种对62个，占总对数 $4 5 . 5 9 \%$ ,负联结种对74个，占总对数 $5 4 . 4 1 \%$ ;根据种群的聚类分析和种间联结测定结果及生态习性，把17个主要种群划分为3个生态种组。
+
+关键词：桥山林区；麻栎群落；种间联结；生态种组
+
+# Interspecific association of the main tree populations of the Quercus acutissima community in the Qiaoshan forest area
+
+YEQuanping，ZHANGWenhui\*，YU Shichuan，XUE Wenyan KeyComprehesiebatoryfFrestryinaaniProcetustAculturedForestryUiersityYanglingn
+
+Abstract：Through adaptation of the variance ratio（ $\scriptstyle V R$ ）method and the $\chi ^ { 2 }$ test，the association coefficient（AC）, percentage co-occurrence coefficient （PC）and point correlation coefficients $( \Phi )$ ，which are all based on $2 { \times } 2$ contingency tables，wereanalyzedforthe17mostimportant tree populationsoftheQuercusacutissimacommunityintheQiaoshan forest area.Theresults showed no significant negativecorrelations among these 17tree populations，as the species tended to be distributed independently and the community was unstable. The $\chi ^ { 2 }$ test results showed that among the 136 species pairs of the 17 dominant populations, $4 4 . 8 5 \%$ had a positive association and $5 5 . 1 5 \%$ had a negative one，and the vast majority of these associations was not significant.This indicated that theassociationamong the treepopulations was weak，and the community was in anunstable succesion stage.Analysis ofthe ACandPC results revealed that the 17 main populatios had diffrent habitat demands，and the probability of simultaneous emergence of each species pair wassmall.The $\Phi$ measurement results showed that 62 ( $4 5 . 5 9 \%$ ）species pairs had a positive association and 74 ( $5 4 . 4 1 \%$ ）species pairs had anegativeasociation.Basedon thecluster analysisand interspecificassociationresults，the habitatsof the17main populations were divided into three ecological groups.
+
+Key Words: Qiaoshan forest area； Quercus acutissima community；interspecific association；ecological species groups
+
+种间联结是指群落中不同物种在空间分布上的相互关联性[-2],包括空间分布关系及物种之间的功能依赖关系[3-5],描述的是物种关系外在现象,展现的是种间竞争的结果或群落的现状[6。它是群落数量和结构的重要特征之一,是群落形成、演化的基础,也是种间相互关系的一种表现形式和群落分类的依据[7-8]。分析不同植物种个体间联接程度,对研究种间相互作用和群落的组成与动态有重要意义，它不仅反映了现阶段群落组成的结构特点,而且在很大程度上表现了群落未来的动态,演替趋势和演替进程[9-10]。生态种组是群落生态习性相似的种的联合，一个群落中表现出具有类似生态习性的相关物种组成的整体,反映群落和种群的关系以及种群对环境和主导生态因子的适应方式[11],对认识群落结构与功能具有重要意义。 2
+
+麻栎(Quercus acutissima)属壳斗科栎属落叶乔木,为深根、喜光树种,主要分布在暖温带和亚热带地区，因其耐干旱,萌芽能力强,在山区、丘陵均可栽植,麻栎树形高大、通直,生产潜力大,用途广泛。属桥山林区主要地带性成林树种之一,其对当地的水土保持、生物多样性保护与生态区域安全发挥着重要作用[12]。目前,许多学者对不同植物群落的种间联结和相关性进行了研究,如在三峡库区栲属群落的研究中表明群落在初级演替阶段,种间关联程度较低,有时产生较大的负关联,竞争相对激烈[13]。对缙云山亚热带栲树（Castanopsisfargesii)优势种群研究显示当群落演替到顶级阶段时,群落的种类之间常常会达到某种协调,生态位彼此分化,表现出明显的正关联特性[14];对秦岭华山松(Pinus armandi)天然次生林群落研究显示秦岭山地华山松天然次生林群落乔木层、灌木层、草本层各优势种对间种间关联明显,物种之间存在一定的独立性,趋于形成一个整体较为稳定的群落,认为种对间正联结比例越高,群落结构越趋于稳定[15];对滇西北云南红豆杉（Taxus yunnanensis)群落研究表明联结系数与生态位重叠值之间存在极显著正相关[16]等。对麻栎的研究也主要集中在碳密度及其空间分布格局[17],地上部分养分的积累和分配[18],叶片光合特征[19],环境及遗传对麻栎叶片N和P含量的影响[20]等。迄今为止，尚无研究报道麻栎群落的种间联结性。本研究以桥山林区麻栎天然次生林为研究对象,通过方差比率法（VR），基于 $2 { \times } 2$ 联列表的 $\chi ^ { 2 }$ 检验、联结系数（AC）、共同出现百分率 $( P C )$ 和点相关系数 $\phi$ 对桥山林区麻栎群落主要乔木种群的种间联结性进行测定分析,阐明现阶段群落组成的结构特点以及未来群落的动态、演替趋势和演替进程,为该区域麻栎天然次生林的经营、更新、维持群落稳定提供依据;结合各种群的生态习性,对17个主要种群划分生态种组,揭示各生态种组内物种间的相关性,为林区造林、林分改造提供借鉴。
+
+# 1 研究区概况
+
+研究区位于陕北黄土高原延安市桥山林业局双龙林场，( $\mathrm { 1 0 8 ^ { \circ } 3 1 ^ { \prime } - 1 0 9 ^ { \circ } 1 1 ^ { \prime } E } , 3 5 ^ { \circ } 3 0 ^ { \prime } \mathrm { - } 3 5 ^ { \circ } 5 0 ^ { \prime } \mathrm { N } )$ ,海拔800— $1 7 0 0 \mathrm { m }$ ,属暖温带季风气候,年平均气温 $9 . 4 \mathrm { { ^ { \circ } C } }$ ,最热月(7月)平均气温 $2 1 ^ { \circ } \mathrm { C }$ ,极端最高气温 $3 8 ^ { \circ } \mathrm { C }$ ,最冷月(1月)平均气温 $- 5 \mathrm { { ^ { \circ } C } }$ ,极端最低气温 $- 2 3 ^ { \circ } \mathrm { C }$ ,无霜期190—225d,年均降水量 $6 7 7 . 4 \mathrm { { m m } }$ ,多集中在7、8、9月，年日照时间为2528h,主要土壤类型为森林褐土和灰褐土。该区为天然次生林,主要乔木树种有麻栎、辽东栎（Quercus wutaishanica）、油松（Pinus tabuliformis）、茶条槭（Acer ginnala）、槲栎（Quercus aliena）、白桦（Betulaplatyphylla）等；主要灌木树种有美丽胡枝子（Lespedeza formosa）、绣线菊（Spiraea salicifolia）、刺五加(Acanthopanax senticosus）、水枸子（Cotoneastermultflorus）、狼牙刺（Sophora vicifolia）、胡颓子（Elaeagnuspungens）等；主要草本植物有披针叶苔草（Carex lanceolata）、白茅（Imperatacylindrica）、茜草（Rubiacordifolia）、地榆（Sanguisorba offcinaliss）、野棉花(Anemone hupehensis）等[12]。
+
+# 2研究方法
+
+# 2.1样地设置与数据统计
+
+在桥山林区双龙林场设置调查了22块 $2 0 \mathrm { m } \times 3 0 \mathrm { m }$ 的麻栎群落典型样地，计有乔木26种。调查记录乔木（ $\quad H \geq 1 . 3 \mathrm { m }$ )的种类、数量、高度、胸径、冠幅,同时测定海拔、坡向、坡位等立地因子。统计每个样地内出现的乔木树种和树种个体数,计算出频度、密度以及种对出现的样地数,计算样地内物种的重要值表示乔木层物种优
+
+势程度。选取重要值大于等于1.00(研究区内的优势种、亚优势种和伴生种)的主要种群计算和分析其种间联结性,对于重要值小于1.00(在研究区属于偶见种)的种群,不列入研究的主要种群范围内。
+
+# 2.2总体联结性检验
+
+用D.Schluter提出的方差比率法 $( V R )$ 确定整个群落的总体关联性，计算公式为：
+
+$$
+\begin{array} { r } { \sigma _ { T } ^ { 2 } = \displaystyle \sum _ { i = 1 } ^ { S } P _ { i } ( 1 - P _ { i } ) } \\ { S _ { T } ^ { 2 } = \displaystyle \frac { 1 } { N } \sum _ { j = 1 } ^ { N } \left( T _ { j } - t \right) ^ { 2 } } \end{array}
+$$
+
+$$
+P _ { i } = n _ { i } / N
+$$
+
+$$
+V R = \frac { S _ { T } ^ { 2 } } { \sigma _ { T } ^ { 2 } }
+$$
+
+式中， $s$ 为总物种数， $N$ 为总样方数, $T _ { j }$ 为样方 $j$ 内出现的目标物种总数, $n _ { i }$ 为物种i出现的样方数， $\mathbf { \Psi } _ { t }$ 为样方中物种的平均数, $V R$ 为群落内植物间的总体关联指数。
+
+$V R = 1$ ,则符合所有种间无关联的零假设; $V R { > } 1$ ,表示物种间总体上表现为正关联; $V R { < } 1$ ,表示物种间总体上表现为负关联。 C O
+
+采用统计量 $\displaystyle { W \big ( \mathrm { ~ } W = W R \times N \big ) }$ 来检验 $V R$ 值偏离1的显著程度。若种间不显著关联,则 $W$ 值落入 $\chi ^ { 2 }$ 分布界限内的概率有 $9 0 \%$ 。
+
+$$
+\chi _ { _ { 0 . 9 5 } } ^ { 2 } ( N ) \ < \ \bar { W } \chi _ { _ { 0 . 0 5 } } ^ { 2 } ( N ) \ < \chi _ { _ { 0 . 0 5 } } ^ { 2 } ( N )
+$$
+
+# 2.3种对间联结性检验
+
+2.3.1建立 $2 { \times } 2$ 联列表1,进行种间关联程度检验。
+
+表1种间联结性测定 $2 { \times } 2$ 联列表  
+Table1 The $2 { \times } 2$ contingency tables of interspecific association determination   
+
+<html><body><table><tr><td rowspan="2">物种 Species</td><td colspan="3">种 B Species B</td><td rowspan="2">统计值 Statistics</td></tr><tr><td>n</td><td>出现(1)</td><td>不出现(0)</td></tr><tr><td>种 A Species A</td><td>出现（1）</td><td>a</td><td>b</td><td>m=a+b</td></tr><tr><td rowspan="2"></td><td>不出现(0)</td><td>c</td><td>d</td><td>n=c+d</td></tr><tr><td>统计值</td><td>r=a+c</td><td>s=b+d</td><td>N=a+b+c+d</td></tr></table></body></html>
+
+# 2.3.2 （204号 $\chi ^ { 2 }$ 检验
+
+用Yates的连续性公式计算 $\chi ^ { 2 }$ 值：
+
+$$
+\chi ^ { 2 } = \frac { N [ \mid ( a d ) - ( b c ) \mid - ( N / 2 ) ] ^ { 2 } } { m n r s }
+$$
+
+5 $\left. \chi _ { 0 . 0 5 } ^ { 2 } ( 1 ) = 3 . 8 4 1 , \chi _ { 0 . 0 1 } ^ { 2 } ( 1 ) = 6 . 6 3 5 \right.$ ;故 $\cdot \chi ^ { 2 } < 3 . 8 4 1$ ,则种间联结不显著独立分布； $3 . 8 4 1 \leqslant X ^ { 2 } < 6 . 6 3 5$ ,则种间联结显著 $; X ^ { 2 } \geqslant 6 . 6 3 5$ ,则种间联结极显著。种间关联有两种类型：若 $a d { > } b c$ ,则为正关联,种对趋向于同时出现;若ad<bc，则为负关联，种对趋向于各自独立。
+
+# 2.4种间关联度的测定
+
+# 2.4.1 联结系数AC
+
+若 $a d \geqslant b c$ ，则： $A C = ( a d - b c ) / [ \left( \begin{array} { l } { a + b } \end{array} \right) \ ( b + d ) \ ]$ （202   
+$a d < b c$ ，且 $d \geqslant a$ ，则 $: A C = \left( \begin{array} { l } { { a d - b c } } \end{array} \right) / \left[ \begin{array} { l } { { \left( a + b \right) } } \end{array} \left( \begin{array} { l } { { a + c } } \end{array} \right) \right]$   
+$a d < b c$ ，且 $d { < } a$ ，则： $: A C = \left( \ a d - b c \right) / \left[ \left( \ b + d \right) \ \left( \ d + c \right) \right]$   
+联结系数 $( A C )$ 的值域为[-1,1], $A C$ 越接近于1,则种对间的正联结性越强;反之 $A C$ 值越接近于-1,则种
+
+对间的负联结性越强； $A C$ 值为0，则种对间完全独立。
+
+# 2.4.2 共同出现百分率 $P C$
+
+为克服联结系数 $( A C )$ 受 $d$ 值影响而造成偏差,本文再选用共同出现百分率 $P C$ 测定种对联结性程度：
+
+$$
+P C = { \frac { a } { a + b + c } }
+$$
+
+（202 $0 \leqslant P C \leqslant 1$ ： $a = 0$ ， $P C = 0$ ,表明两树种不同时出现在同一样方内,种对无关联; $a = N$ ， $P C = 1$ ,表明两树中同时出现在所有样方内，种对关联程度最紧密。
+
+# 2.4.3 点相关系数 $\boldsymbol { \phi }$
+
+为降低 $\chi ^ { 2 }$ 检验、联结系数(AC)和共同出现百分率 $( P C )$ 对联结性分析得影响，选用点相关系数 $\boldsymbol { \Phi }$ 对联结性进行检验测定： 5
+
+$$
+\phi = { \frac { \left( a d - b c \right) } { \sqrt { \left( a + b \right) \left( a + c \right) \left( c + d \right) \left( b + d \right) } } }
+$$
+
+$\phi$ 值域为 $\left[ - 1 , 1 \right] , \phi$ 值越接近于1,则种对间的正联结性越强; $\phi$ 值越接近于-1,则种对间的负联结性越强。
+
+# 3结果与分析
+
+# 3.1 优势物种组成
+
+统计分析桥山林区栎属群落26个乔木树种的重要值(表2）,选取重要值大于等于1.00的17个主要种群进行种间联结性分析。
+
+表2乔木层物种的组成及重要值/%  
+Table 2Species composition and important value of the tree layer   
+
+<html><body><table><tr><td>序号</td><td>树种</td><td>相对密度 Relative density</td><td>相对显著度 Relative dominance</td><td>相对频度 Relative frequency</td><td>重要值</td></tr><tr><td>Code</td><td>Species</td><td></td><td>40.64</td><td>14.46</td><td>Important value 28.01</td></tr><tr><td>1</td><td>麻栎(Quercus acutissima)</td><td>28.93 13.47</td><td>16.13</td><td>12.21</td><td>13.94</td></tr><tr><td>2 3</td><td>辽东栎（Quercus wutaishanica) 茶条槭(Acer ginnala)</td><td>6.93</td><td>4.28</td><td>12.24</td><td>7.82</td></tr><tr><td>4</td><td>槲栎(Quercus aliena)</td><td>7.41</td><td>6.89</td><td>8.25</td><td>7.52</td></tr><tr><td>5</td><td>油松(Pinus tabuliformis)</td><td>6.08</td><td>5.43</td><td>1.53</td><td>4.35</td></tr><tr><td>6</td><td>杜梨（Pyrus betulifolia)</td><td>2.53</td><td>1.76</td><td>8.35</td><td>4.21</td></tr><tr><td>7</td><td>白桦(Betula platyphylla)</td><td>3.26</td><td>3.01</td><td>6.12</td><td>4.13</td></tr><tr><td>8</td><td>红麸杨( Rhus punjabensis)</td><td>2.80</td><td>1.21</td><td>6.11</td><td>3.37</td></tr><tr><td>9</td><td>毛(Swida walteri)</td><td>1.32</td><td>1.04</td><td>4.60</td><td>2.32</td></tr><tr><td>10</td><td>木( Swida macrophylla)</td><td>1.24</td><td>1.16</td><td>4.60</td><td>2.29</td></tr><tr><td></td><td>漆树（Toxicodendron vernicifluum)</td><td>1.85</td><td>1.28</td><td>3.05</td><td>2.06</td></tr><tr><td>11</td><td>山楂(Crataegus pinnatifida)</td><td>0.62</td><td>0.54</td><td>4.60</td><td>1.92</td></tr><tr><td>12</td><td>侧柏（Platycladus orientalis）</td><td>0.71</td><td>0.28</td><td>4.60</td><td>1.86</td></tr><tr><td>13</td><td>山杏（Armeniaca sibirica)</td><td>1.85</td><td>1.05</td><td>2.30</td><td>1.73</td></tr><tr><td>14</td><td>山杨(Populus davidiana)</td><td>1.41</td><td>1.16</td><td>2.30</td><td></td></tr><tr><td>15</td><td>鹅耳(Carpinus turczaninowii)</td><td>1.06</td><td>0.64</td><td>2.30</td><td>1.62 1.33</td></tr><tr><td>16</td><td>山桃(Amygdalus davidiana)</td><td>0.62</td><td>0.21</td><td>2.30</td><td></td></tr><tr><td>17</td><td>刺槐（Robinia pseudoacacia)</td><td>0.46</td><td>0.19</td><td>2.30</td><td>1.04 0.98</td></tr><tr><td>18</td><td>小叶杨(Populus simoni )</td><td>0.49</td><td>0.14</td><td>2.30</td><td>0.97</td></tr><tr><td>19</td><td>白蜡（Fraxinus chinensis）</td><td>0.54</td><td>0.18</td><td>1.53</td><td>0.75</td></tr><tr><td>20</td><td>野核桃(Juglans cathayensis)</td><td>0.45</td><td>0.22</td><td>1.53</td><td>0.73</td></tr><tr><td>21</td><td>小叶朴（Celtis bungeana)</td><td>0.42</td><td>0.16</td><td>1.53</td><td>0.70</td></tr><tr><td>22</td><td>栾树（Koelreuteria paniculata)</td><td>0.39</td><td>0.17</td><td>1.53</td><td>0.69</td></tr><tr><td>23</td><td>色木槭（Acer mono)</td><td>0.39</td><td>0.11</td><td>1.53</td><td>0.68</td></tr><tr><td>24</td><td>榆树(Ulmus pumila)</td><td>0.44</td><td>0.13</td><td>0.76</td><td>0.44</td></tr><tr><td>25 26</td><td>刺楸（Kalopanax septemlobus）</td><td>0.44</td><td>0.07</td><td>0.76</td><td>0.42</td></tr></table></body></html>
+
+3.2 总体相关性
+
+$$
+V R = \frac { S _ { T } ^ { 2 } } { \sigma _ { T } ^ { 2 } } = 0 . 7 3 3 4 < 1
+$$
+
+用统计量 $W$ 来检测 $V R$ 值偏离1的显著性： $W = \ V R \times N = 1 5 . 4 0 _ { \circ }$
+
+查表可知：X.95(21）=11.59, $\chi _ { _ { 0 . 0 5 } } ^ { 2 } ( 2 1 ) = 3 2 . 6 7$ ，则 $\chi _ { _ { 0 . 9 5 } } ^ { 2 } ( 2 1 ) < W < \chi _ { _ { 0 . 0 5 } } ^ { 2 } ( 2 1 )$ ，即 $V R$ 值偏离1不显著,说明选择的17个主要乔木种群总体表现为不显著负关联,各自趋于独立,群落整体不稳定,存在一定的波动。
+
+# 3.3种对联间结性
+
+# 3.3.1 $\chi ^ { 2 }$ 检验
+
+17个主要种共136个种对的 $\chi ^ { 2 }$ 统计量半矩阵见图1。检验呈正关联的有58对，占总对数的 $4 2 . 6 5 \%$ ，其中显著关联的种对数为4个，不显著相关的种对数为54个；负关联的有78个，占总对数的 $5 7 . 3 5 \%$ ,其中显著关联的种对数为1个，不显著关联的种对数为76个。根据 $\chi ^ { 2 }$ 检验的基本原理分析得：所有种对中不显著相关的有131个占 $9 6 . 3 2 \%$ ，说明群落中乔木种群种对间关联较弱，各物种间呈独立分布格局，群落发育不成熟。4对显著正关联的种对为麻栎与茶条槭、茶条槭与杜梨、白桦与毛梓、白桦和山杨，说明它们对生境和资源有相似的需求[21]；显著负关联的种对为槲栎与杜梨,说明它们对生境的需求不同呈现相互排斥性[22]
+
+# 3.3.2联结系数AC与共同出现百分率PC分析
+
+由桥山林区麻栎群落17个主要种联结系数 $\mathsf { \Pi } _ { \mathrm { \normalfont ~ A C } }$ 矩阵图(表3)可得出，联结系数 $A C \geqslant 0 . 5$ 的种对数有3个
+
+![](images/7593dde163ac4af3984a4f66e001a0528bbdb1ead7cdd1a5c5f15667417329fd.jpg)  
+图1 $\chi ^ { 2 }$ 检验半矩阵图
+
+Fig.1Semi-matrix diagramof $\cdot \chi ^ { 2 }$ correlation test ：显著正关联 Significantly positive correlated； $\bigtriangleup$ ：显著负关联 Significantly negative correlated; $\mathbf { \delta m }$ ：正关联Positivecorrelated；： 负关联 Negative correlation.种序号同表1
+
+占总对数 $2 . 2 1 \%$ ,为毛梓与山楂、白桦与山杨、山杨与鹅耳坜,说明各种对间正联结程度较高; $0 . 2 \leqslant A C < 0 . 5$ 的种对为18个，占总对数的 $1 3 . 2 4 \%$ ,说明种对间呈不显著正联结性; $- 0 . 2 \leqslant A C < 0 . 2$ 的种对数分别为63，占总对数的 $4 6 . 3 2 \%$ ,说明种对间联结松散,分布趋于独立； $- 0 . 5 \leqslant A C < - 0 . 2$ 的种对数有19对占总对数的 $1 3 . 9 7 \%$ ,这表明种对间呈不显著负相关; $A C < - 0 . 5$ 的种对数有32个,其中 $A C = - 1$ 的种对数有25个占总对数的 $1 8 . 3 8 \%$ ，相对于 $\cdot \chi ^ { 2 }$ 检验值，负关联的种对 $\widehat { A C }$ 值要高一些,这与联结系数 $A C$ 夸大两物种均不出现时种对间的联结显著程度有关。根据联结系数 $\bar { A C }$ 测定种间关联程度结果可知,麻栎群落乔木层17个优势种的种间有少部分种对间呈现显著正相关或显著负相关，但大部分种对间相关性不显著,种间联结较松散。
+
+根据共同出现百分率 $P C$ 测定原理，以 $P C { > } 0 . 5$ 表示种对间呈显著-极显著关联， $0 { < } P C { \leqslant } 0 . 5$ 表示种对间呈不显著关联， $\scriptstyle P C = 0$ 表示种对趋于独立分布。共同出现百分率 $P C$ 矩阵图(表4)显示， $P C { > } 0 . 5$ 的种对有9个,占总对数的 $6 . 6 2 \%$ ,其中麻栎与茶条槭、白桦与山杨的 $P C$ 值高分别为0.84、0.79,这表明这其种对间对生态环境的利用和适应性相似程度高； $0 { < } P C { \leqslant } 0 . 5$ 的种对数为104个,占总对数的 $7 6 . 4 7 \%$ ,大部分种对 $P C$ 值较小,$P C = 0$ 的有23对，占总对数的 $1 6 . 9 1 \%$ ,这表明17个主要种总体上对生境的需求不同,同时出现几率小,种群种间联结关系较为松散,有部分物种分布趋于独立。
+
+# 3.3.3 点相关系数 $\boldsymbol { \phi }$ 值分析
+
+从点相关系数 $\phi$ 矩阵图(表5)可知，136个种对中，正联结种对63个，其中 $\Phi { \geqslant } 0 . 5$ 即正联结程度较强的种对6个，占总对数 $4 . 4 1 \%$ ;负联结种对73个，其中 $\Phi { < } - 0 . 5$ 即负联结程度较强的种对2个，占总对数的$1 . 4 7 \%$ $- 0 . 3 \leqslant \Phi < 0 . 3$ 即联结程度弱的种对数101个,占总对数的 $7 4 . 2 6 \%$ 。
+
+Table 3Matrix diagram of association coefficient（AC)   
+表4共同出现百分率PC矩阵  
+
+<html><body><table><tr><td>序号 Code</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td></tr><tr><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2</td><td>0.12</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td>0.34</td><td>-0.16</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td>-0.62</td><td>-0.16</td><td>-1.00</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td>0.01</td><td>-0.34</td><td>0.33</td><td>-0.05</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6</td><td>0.12</td><td>-0.16</td><td>0.34</td><td>-0.48</td><td>-1.00</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7</td><td>-1.00</td><td>0.09</td><td>-0.35</td><td>0.12</td><td>0.19</td><td>-0.52</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>8</td><td>0.19</td><td>-0.35</td><td>0.09</td><td>-0.34</td><td>0.19</td><td>0.12</td><td>-0.34</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>9</td><td>-0.30</td><td>0.13</td><td>-0.16</td><td>0.11</td><td>-1.00</td><td>-0.36</td><td>0.48</td><td>-0.56</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>10</td><td>0.04</td><td>-0.44</td><td>0.13</td><td>-0.05</td><td>0.30</td><td>0.22</td><td>-0.13</td><td>-0.13</td><td>-0.42</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>11</td><td>0.03</td><td>-0.02</td><td>0.07</td><td>-0.05</td><td>0.38</td><td>-0.01</td><td>0.23</td><td>0.07</td><td>0.18</td><td>0.38</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>12</td><td>0.04</td><td>0.15</td><td>-0.54</td><td>-0.05</td><td>-1.00</td><td>-0.36</td><td>0.13</td><td>-0.56</td><td>0.53</td><td>-0.42</td><td>-0.13</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>13</td><td>-0.30</td><td>0.04</td><td>-0.44</td><td>0.11</td><td>0.30</td><td>-0.36</td><td>-0.13</td><td>0.13</td><td>-1.00</td><td>0.07</td><td>-0.13</td><td>0.07</td><td></td><td></td><td></td><td></td></tr><tr><td>14</td><td>0.02</td><td>-0.13</td><td>0.05</td><td>0.05</td><td>0.42</td><td>0.05</td><td>-1.00</td><td>0.27</td><td>-1.00</td><td>-1.00</td><td>-1.00</td><td>-1.00</td><td>0.03</td><td></td><td></td><td></td></tr><tr><td>15</td><td>0.02</td><td>-0.33</td><td>-0.12</td><td>0.05</td><td>0.42</td><td>-0.36</td><td>0.64</td><td>-0.13</td><td>0.22</td><td>0.03</td><td>-1.00</td><td>0.22</td><td>-1.00</td><td>-1.00</td><td></td><td></td></tr><tr><td>16</td><td>0.02</td><td>0.05 -0.13</td><td>-0.56</td><td>0.05</td><td>-1.00</td><td>-0.36</td><td>-0.13 -0.13</td><td>-1.00 -1.00</td><td>0.03 -1.00</td><td>-1.00 0.03</td><td>-1.00 -1.00</td><td>0.22 -1.00</td><td>-1.00</td><td>0.22</td><td>0.61 0.22 -1.00</td><td></td></tr></table></body></html>
+
+表3联结系数AC矩阵  
+表5点相关系数 $\Phi$ 矩阵  
+
+<html><body><table><tr><td>序号 Code</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7 8</td><td>9</td><td>10</td><td>11</td><td>12</td><td></td><td>13</td><td>14</td><td>15</td><td>16</td></tr><tr><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2</td><td>0.75</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td>0.84</td><td>0.60</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td>0.43</td><td>0.42</td><td>0.29</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td>0.11</td><td>0.06</td><td>0.13</td><td>0.08</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6</td><td>0.58</td><td>0.42</td><td>0.69</td><td>0.16</td><td>0.00</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7</td><td>0.29</td><td>0.41</td><td>0.26</td><td>0.36</td><td>0.11</td><td>0.12</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>8</td><td>0.35</td><td>0.26</td><td>0.41</td><td>0.18</td><td>0.11</td><td>0.36</td><td>0.14</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>9</td><td>0.25</td><td>0.38</td><td>0.22</td><td>0.31</td><td>0.00</td><td>0.15</td><td>0.56</td><td>0.08</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>10</td><td>0.32</td><td>0.16</td><td>0.38</td><td>0.21</td><td>0.14</td><td>0.30</td><td>0.17</td><td>0.17</td><td>0.09</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>11</td><td>0.21</td><td>0.18</td><td>0.25</td><td>0.15</td><td>0.20</td><td>0.06</td><td>0.33</td><td>0.20</td><td>0.25</td><td>0.43</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>12</td><td>0.32</td><td>0.38</td><td>0.07</td><td>0.21</td><td>0.00</td><td>0.17</td><td>0.27</td><td>0.08</td><td>0.52</td><td>0.09</td><td>0.11</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>13</td><td>0.25</td><td>0.29</td><td>0.16</td><td>0.31</td><td>0.14</td><td>0.08</td><td>0.17</td><td>0.27</td><td>0.00</td><td>0.20</td><td>0.11</td><td>0.20</td><td></td><td></td><td></td><td></td></tr><tr><td>14</td><td>0.16</td><td>0.12</td><td>0.19</td><td>0.17</td><td>0.25</td><td>0.17</td><td>0.00</td><td>0.38</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.13</td><td></td><td></td><td></td></tr><tr><td>15</td><td>0.16</td><td>0.06</td><td>0.12</td><td>0.17</td><td>0.25</td><td>0.08</td><td>0.79</td><td>0.10</td><td>0.29</td><td>0.13</td><td>0.00</td><td>0.29</td><td>0.00</td><td>0.00</td><td></td><td></td></tr><tr><td>16</td><td>0.16</td><td>0.19</td><td>0.06</td><td>0.17</td><td>0.00</td><td>0.08</td><td>0.10</td><td>0.00</td><td>0.13</td><td>0.00</td><td>0.00</td><td>0.29</td><td>0.00</td><td>0.20</td><td>0.51</td><td></td></tr><tr><td>17</td><td>0.16</td><td>0.12</td><td>0.19</td><td>0.08</td><td>0.25</td><td>0.17</td><td>0.10</td><td>0.00</td><td>0.00</td><td>0.13</td><td>0.00</td><td>0.00</td><td>0.13</td><td>0.00</td><td>0.20</td><td>0.00</td></tr></table></body></html>
+
+Table 4 Matrix diagram of percentage co-occurrence (PC)   
+Table 5Matrix diagram of point correlation coefficients（Φ)   
+
+<html><body><table><tr><td>序号 Code</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td></tr><tr><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2</td><td>0.20</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td>0.58</td><td>-0.05</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td>-0.31</td><td>-0.09</td><td>-0.53</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td>0.11</td><td>-0.20</td><td>0.18</td><td>-0.02</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+续表  
+
+<html><body><table><tr><td>序号 Code</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td></tr><tr><td>6</td><td>0.34</td><td>-0.09</td><td>0.59</td><td>-0.53</td><td>-0.34</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7</td><td>-0.41</td><td>0.21</td><td>-0.25</td><td>0.16</td><td>0.08</td><td>-0.43</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>8</td><td>-0.08</td><td>-0.25</td><td>0.21</td><td>-0.31</td><td>0.08</td><td>0.16</td><td>-0.21</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>9</td><td>-0.15</td><td>0.35</td><td>-0.14</td><td>0.18</td><td>-0.21</td><td>-0.24</td><td>0.59</td><td>-0.28</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>10</td><td>0.21</td><td>-0.39</td><td>0.35</td><td>-0.03</td><td>0.15</td><td>0.30</td><td>-0.06</td><td>-0.06</td><td>-0.17</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>11</td><td>0.16</td><td>-0.01</td><td>0.27</td><td>-0.02</td><td>0.26</td><td>-0.02</td><td>0.37</td><td>0.12</td><td>0.23</td><td>0.50</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>12</td><td>0.21</td><td>0.35</td><td>-0.39</td><td>-0.03</td><td>-0.21</td><td>-0.24</td><td>0.13</td><td>-0.28</td><td>0.53</td><td>-0.17</td><td>-0.04</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>13</td><td>-0.15</td><td>0.11</td><td>-0.39</td><td>0.18</td><td>0.15</td><td>-0.45</td><td>-0.06</td><td>0.16</td><td>-0.40</td><td>0.07</td><td>-0.04</td><td>0.07</td><td></td><td></td><td></td><td></td></tr><tr><td>14</td><td>0.13</td><td>-0.09</td><td>0.23</td><td>0.12</td><td>0.33</td><td>0.12</td><td>-0.32</td><td>0.52</td><td>-0.26</td><td>-0.26</td><td>-0.20</td><td>-0.26</td><td>0.04</td><td></td><td></td><td></td></tr><tr><td>15</td><td>0.13</td><td>-0.19</td><td>-0.09</td><td>0.12</td><td>0.33</td><td>-0.16</td><td>0.48</td><td>-0.04</td><td>0.34</td><td>0.04</td><td>-0.20</td><td>0.34</td><td>-0.26</td><td>0.17</td><td></td><td></td></tr><tr><td>16</td><td>0.13</td><td>0.23</td><td>-0.41</td><td>0.12</td><td>-0.13</td><td>-0.16</td><td>-0.04</td><td>-0.32</td><td>0.04</td><td>-0.26</td><td>-0.20</td><td>0.34</td><td>-0.21</td><td>0.22 0.61</td><td></td><td></td></tr><tr><td>17</td><td>0.13</td><td>-0.09</td><td>0.23</td><td>-0.16</td><td>0.33</td><td>0.12</td><td>-0.04</td><td>-0.32</td><td>-0.26</td><td>0.04</td><td>-0.20</td><td>-0.26</td><td>0.04</td><td>-0.17</td><td>0.22</td><td>-0.17</td></tr></table></body></html>
+
+# 3.4 生态种组的划分
+
+生态种组是群落生态习性相似的植物种的组合,根据树种在所处的海拔,坡向、坡位等微地形条件内分布的不同[22],对麻栎群落21个样地内17个主要乔木树种的物种分布状况进行统计,将统计数据转换为0,1形成的二元数据矩阵,进行系统聚类分析[23-24]（图2）,数据统计分析及图形输出均使用 SPSS23.0软件。物种的相对频度(表2)体现物种在群落中水平结构上分布的均匀程度,及对不同生境条件的适应状况。根据系统聚类分析结果,以相对频度表示物种对环境适应性的相似程度,综合相关系数检验结果,以环境适应性相似,同一生态种组的物种间多呈正联结,不同生态种组的物种间多呈负联结的物种分为一组为原则,划分桥山林区麻栎群落优势种群的生态种组[6-7]。将17个主要种群分为3个不同的生态种组（表6)。
+
+![](images/308ddf521585d96522516f2dce813423a2f19c8452bc53f6905c9ea31d4eab5b.jpg)  
+重新标度的距离聚类组合  
+图2桥山林区麻栎群落17个主要乔木种聚类分析
+
+Fig.2Clusteringanalysis of17major tree speciesof Quercus acutissima communityin theQiaoshan forest area
+
+生态种组I中树种：个体数量多,为乔木层的优势种或亚优势种,属于群落演替后期的主导树种,种对间多呈现正联结,其中麻栎为研究区主要地带性成林树种,群落的绝对优势树种。生态种组Ⅱ中树种：分布较分散,对阳光的需求不高,具有一定的耐荫性,树种的独立性较强,种对间联结程度小。生态种组ⅡI中树种：分布较为集中,多喜光,生于阳坡,与群落中的优势乔木树种即生态种组I树种呈负联结,其中白桦、山杨为群落中典型的演替初期先锋树种。
+
+表63个生态种组树种组成  
+Table 6Species composition of the three ecological species groups   
+
+<html><body><table><tr><td>生态种组 Ecological species groups</td><td>树种组成 Species composition</td><td>生态种组 Ecological species groups</td><td>树种组成 Species composition</td><td></td></tr><tr><td>I</td><td>麻栎、辽东栎、茶条槭、槲栎、油松</td><td>Ⅲ</td><td>杜梨、白桦、红麸杨、山桃、山杨</td><td></td></tr><tr><td>I</td><td>毛梓、楝木、漆树、侧柏、山杏、鹅耳柄、山楂</td><td></td><td></td><td></td></tr></table></body></html>
+
+# 4结论与讨论
+
+种间联结指标是对一定时期内群落组成物种之间相互关系的静态描述，它随群落演替阶段不同而变化，在一定程度上反映物种间的相互关系及其与环境间的关系[25-26]。X²检验方法正确判断了麻栎群落17 个主要种群间联结的显著程度,种群联结的显著程度反映了群落的稳定性[27]。一般而言,群落正负关联比值越大,群落越稳定[28],稳定性越强,群落越向顶极方向演替[29]。桥山林区麻栎群落乔木层的种间联结测定结果表明,17个主要种总体联结性为不显著负相关,大多数种对间联结程度弱,趋于独立分布。群落正负关联比为0.81,表明群落结构不稳定,物种间不能稳定共存,群落尚不成熟,处于不稳定的演替阶段。联结系数 $A C$ 和共同出现百分率PC 能体现出那些由 $\chi ^ { 2 }$ 检验判断为不显著种对的联结性及大小,但共同出现百分率 $P C$ 夸大了两物种共同出现次数多时种对间的联结显著程度[28],如种对1—2、2—3和3—6等;联结系数 $A C$ 夸大两物种均不出现时种对间的联结显著程度,如种对5—11、5—15 和10—12等。而点相关系数 $\phi$ 能降低上述几种状况对种群联结性分析的影响,经过 $\boldsymbol { \phi }$ 值的测定比较,AC 中种对5—12、5—16 和8—9与 $P C$ 中种对1—8、2—3和4—7的种间联结显著程度均有明显降低。因此,种间联结性分析以 $\chi ^ { 2 }$ 检验为基础，以 $A C , P C$ 值为辅助参数,并经过 $\boldsymbol { \phi }$ 值的检验测定,进行综合研究,可更科学准确地判定麻栎群落种间联结关系[28]。
+
+总体上联结系数 $A C$ 、共同出现百分率 $P C$ 及点相关系数 $\phi$ 的测定分析结果都表明群落中乔木17个主要种群间关联较弱,为不显著负相关，这与 $\chi ^ { 2 }$ 检验结果一致,但在显著相关的水平上却是正相关占优势。以上结果说明,桥山林区麻栎群落整体结构不稳定,主要乔木种群间联结较松散,各物种占据适合自己的生态位，具有一定的独立性;但群落正处于不断完善阶段,正向更稳定的方向演替,种内竞争和种间竞争一直存在,对生境需求、适应相同或相似的种群相伴出现几率较大。其中白桦与山杨间呈正相关且所有测定结果都达到显著相关,共同出现百分率PC值为0.79,达到极显著相关,说明这两个树种对生境需求及生态习性高度相似。白桦和山杨都属于更新能力强的喜光树种,适应性较强,对土壤和水分要求不严,较耐干旱和瘠薄,是森林演替系列中的过渡阶段,往往作为先锋树种形成块状相间白桦-山杨混交林。在荒山荒地、火灾或砍伐破坏后的迹地上能迅速更新成林,形成优势林分,但经过演替,长势日渐衰弱,最终又被松、栎主要成林树种所更替。群落总体为不显著负相关,但麻栎作为群落内的绝对优势种与群落内的大部分主要树种呈现微弱正相关,与茶条槭之间有显著的正相关。这说明麻栎作为研究区主要地带性成林树种,其种群稳定性较好,现阶段群落内麻栎与其他树种间对环境、资源需求存在竞争,但竞争还不强烈，为了适应环境，相互依赖性在增强。茶条槭耐庇荫,喜温暖湿润环境,多与麻栎混生，与麻栎呈显著正相关。
+
+在群落中,联结程度弱的种对占总对数比例大时,环境的干扰变化对群落的稳定性具有决定性作用。在本研究中,通过各联结指标的测定可知桥山林区麻栎群落中种间联结程度弱,因此群落的稳定性较差,若在群落演替过程中,受到外界的干扰程度过大,群落的演替速度及方向都极易发生改变[29]。所以在对桥山林区麻栎群落所在林分进行抚育间伐时,宜采用近自然经营方式,以抚育间伐促进群落正向发育与群落自行演化相结合,减弱人工抚育时对群落的干扰,遵循森林自然属性,最大限度的保护林地物种多样性,保障林分稳定持续更新。
+
+种间联结性反映物种在群落中的分布及对环境的利用与适应情况,因此种间联结性分析结果可作为生态种组划分的依据[30]。海拔、坡位、坡向等立地不同体现为林内温度、湿度、光照等环境条件的不同,物种对不同立地条件的适应使其在群落内分布状况不同,本研究中根据麻栎群落17个主要乔木在不同立地条件下的分布进行聚类分析,综合种间联结性测定结果和生态习性,把桥山林区麻栎群落17个主要种群划分为3个生态种组,生态种组的组成反映研究区内物种与物种、物种与环境之间的关系[31],同一生态种组的树种生态习性相似,树种间种对多呈正联结,说明它们对生境及资源有相似的需求。生态种组I中树种为麻栎(辽东栎、茶条槭、槲栎和油松。在研究区桥山林区内麻栎、辽东栎等栎类林及油松林是相对稳定的植物群落,也是该区群落演替后期的优势树种。麻栎为群落绝对优势种,槲栎、栓皮栎为亚优势树种,茶条槭为主要伴生树种。生态种组Ⅲ中树种为杜梨、白桦、红麸杨、山桃、山杨,与生态种组I树种多呈负联结。此生态种组中树种多为先锋树,为先锋乔木阶段旱生矮生杂林树种,如杜梨、山桃、白桦、山杨。他们于演替初期在荒山荒地、火灾或砍伐破坏后的迹地上能迅速更新成林,形成优势林分,但后期生长缓慢,寿命较短,在演替的过程中,最终被其它后期主要成林树种如栎类、油松等所更替。根据同一生态种组内树种生态习性的相似性及不同生态种组间树种的生态特性,可为研究区造林营林、植被恢复提供依据。如麻栎与槲栎、辽东栎亲缘关系相近,生态习性相似,种间竞争较为激烈,在经营管理中选取经营目标树,以目标树为中心进行林分抚育管理,适度疏伐干扰木，减缓种间竞争,促进目标林木生长;在造林树种选择时,于同一生态种组内选择搭配树种,利于林分稳定和发展,选择生态种组I内的后期成林树种,能使群落跳过先锋树种被更替阶段,更早达到稳定状态;在对林分进行改造时,间伐生态种组Ⅲ内的山杨、白桦、山桃等阳性先锋树种树种,补植、保护生态种组I内麻栎、辽东栎、油松等后期成林树种,促进群落演替进程,使群落更快达到稳定。
+
+# 参考文献（References）：
+
+[1]Legendre P,Legendre LF. Numerical Ecology.3rd Ed. Amsterdam:Elsevier,2012.  
+[2]GleasonHA.Teindividualisticconceptftheplantassociation.Bulletinof theTorreyBotanical Club1926,53（1）：7-26.  
+［3］陈玉凯，杨小波，李东海，农寿千，吕晓波，吕洁杰，杨民，李小成.海南霸王岭海南油杉群落优势种群的种间联结性研究.植物科学学报，2011,29(3):278-287.  
+[4］彭少麟，周厚诚，郭少聪，黄忠良.鼎湖山地带性植被种间联结变化研究.植物学报，1999,41（11)：1239-1244.  
+[5］张志勇，陶德定，李德铁．五针白皮松在群落演替过程中的种间联结性分析.生物多样性，2003，11（2）：125-131.  
+［6］徐满厚，刘敏，翟大彤，刘彤.植物种间联结研究内容与方法评述.2016，（24）：24-8233.  
+[7］郭志华，卓正大，陈洁，吴梅凤.庐山常绿阔叶、落叶阔叶混交林乔木种群种间联结性研究.植物生态学报，1997,21（5）：424-432.  
+[8] 王伯荪，余世孝，彭少麟.植物群落学实验手册.广州：广东高等教育出版社，1996.  
+[9］阳小成，钟章成.绵阳官司河流域防护林优势种群间的联结性研究.西南师范大学学报：自然科学版，1994，19（3)：290-297.  
+[10] 韩铭哲.兴安落叶松自然更新格局和种群的生态对策.内蒙古林学院学报，1994，16(1)：1-10.  
+11] 丁文慧，李秀珍，姜俊彦，黄星，张运清，张骞，周云轩.崇明东滩南部河口盐沼植物群落种间关系的数量分析.应用生态学报，2016，27(5): 1417-1426.  
+[12] 曹旭平，张文辉.陕西桥山省级自然保护区综合科学考察报告.杨凌：西北农林科技大学出版社，2015.  
+[13] 程瑞梅，王瑞丽，刘泽彬，封晓辉，王晓荣，肖文发.三峡库区栲属群落主要乔木种群的种间联结性.林业科学，2013,49（5）：36-42.  
+［14］杜道林，刘玉成，李睿.缙云山亚热带栲树林优势种群间联结性研究.植物生态学报，1995，19（2）：149-157.  
+[15］张明霞，王得祥，康冰，张岗岗，刘璞，杜焰玲，于飞.秦岭华山松天然次生林优势种群的种间联结性.林业科学，2015,51（1）：12-21.  
+[16] 李帅锋，刘万德，苏建荣，郎学东，张志钧.滇西北云南红豆杉群落物种生态位与种间联结.植物科学学报，2012，30(6)：568-576.  
+[17］成向荣，虞木奎，葛乐，张春祥，王婉.不同间伐强度下麻栎人工林碳密度及其空间分布.应用生态学报，2012，23（5)：1175-1180.  
+[18］唐罗忠，刘志龙，虞木奎，方升佐，赵丹，王子寅.两种立地条件下麻栎人工林地上部分养分的积累和分配.植物生态学报，2010,34
+
+(6):661-670.[19］王标，虞木奎，孙海菁，成向荣，单奇华，方炎明.盐胁迫对不同种源麻栎叶片光合特征的影响.应用生态学报，2009，20（8)：1817-1824.[20]ZhangH,GuoWH,WangGG,YuMK,WuT.fectofenviroentandgeneicsoleafndPstoichoetryforQuercuscutsChina.European Journal of Forest Research,2016，135(4）：795-802.[21］黄世能，李意德，骆土寿，王伯荪.海南岛尖峰岭次生热带山地雨林树种间的联结动态.植物生态学报，2000,24（5）：569-574.[22] 张金屯.数量生态学.北京：科学出版社，2004：98-106.[23] 王合玲，吕光辉，张辉国.干旱区典型湖泊湿地主要植物生态种组分析.生态环境学报.2012,21（5)：858-863.[24]李意德，许涵，陈德祥，骆土寿，莫锦华,罗文，陈焕强，蒋忠亮.从植物种群间联结性探讨生态种组与功能群划分—以尖峰岭热带低地雨林乔木层数据为例.林业科学，2007，43（4)：9-16.[25]WardJarkGeadJeataldisiouorestrestooagt(3):189-202.[26]黄祥童,王绍先,黄炳军,尹航,崔凯峰,赵伟,范宇光,顾德峰.珍稀植物对开蕨与其伴生物种的联结性及群落稳定性,生态学报,2015,35(1）:0080-0090.[27］王乃江，张文辉，陆元昌，范少辉，王勇.陕西子午岭森林植物群落种间联结性.生态学报，2010，30（1)：0067-0078.[28］周先叶，王伯荪，李鸣光，昝启杰.广东黑石顶自然保护区森林次生演替过程中群落的种间联结性分析.植物生态学报，2000，24（3）：332-339.[29] Greig-Smith P.Quantitative Plant Ecology.3rd ed.Berkeley：University of California Press，1983.［30］王伯荪，彭少麟.南亚热带常绿阔叶林种间联结测定技术研究I.种间联结测式的探讨与修正.植物生态学与地植物学丛刊，1985，9(4):274-285.[31］宋永昌.植被生态学.上海：华东师范大学出版社，2001．

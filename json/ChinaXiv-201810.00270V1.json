@@ -1,0 +1,313 @@
+[
+    {
+        "type": "text",
+        "text": "S100A6通过巨噬细胞促结直肠癌细胞增殖的作用及机制",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈露 黄茂 彭棋 赵佳丽 谢佳卿 林璐 户丽君 黄逸云 胡琴 周兰\\*（重庆医科大学检验医学院临床检验诊断学教育部重点实验室重庆400016)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要目的：探讨微环境中钙周期素S100A6 是否通过影响巨噬细胞（macrophages,Mφ）进而促进结直肠癌（colorectal cancer,CRC）细胞的增殖及其机制。方法：制备（原核表达）并鉴定带GST（glutathioneS-transferase，谷胱甘肽S-转移酶）标签的人重组S100A6蛋白(recombinant GST-hS100A6，rS100A6）和对照蛋白GST；采用台盼兰计数、CCK8 和结晶紫染色检测CRC 细胞系 HCT116 的增殖能力；用定量实时聚合酶链反应检测Mφ中IL-6mRNA水平；用Western blot检测 Mφ中IL-6 的蛋白水平、HCT116 细胞中JAK2 和STAT3及其磷酸化水平。结果：（1)成功制备rS100A6 和GST蛋白。（2)与经rS100A6处理的 $\\mathsf { M } \\varphi$ （即A6-Mφ）共培养后，HCT116 细胞的增殖能力增强（ $P { < } 0 . 0 5$ ）；同时，HCT116 细胞中的JAK2和STAT3水平无明显变化，但其磷酸化水平提高（ $\\scriptstyle { \\vert P < 0 . 0 5 \\rangle }$ ）。（3）A6-Mφ中，IL-6 的mRNA和蛋白水平均升高（ $\\scriptstyle { \\vert P < 0 . 0 5 \\rangle }$ ）。（4）在HCT116与A6-Mφ的共培养体系中加入IL-6R封闭肽后，A6-Mφ促HCT116 细胞的活力和增殖能力的作用被部分逆转（ $\\scriptstyle P < 0 . 0 5 { \\mathrm { : } }$ ）。结论：微环境中的S100A6 可通过上调巨噬细胞中IL-6 的表达、进而激活 HCT116 细胞中IL-6/JAK2/STAT3信号通路来促进CRC细胞的增殖。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词S100A6；巨噬细胞；结直肠癌；IL-6/JAK2/STAT3 信号通路",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "结直肠癌（colorectalcancer,CRC）是消化道最常见的恶性肿瘤之一，其发病率和死亡率在全球分别排第三和第四位[1]。在中国，其发病率逐年上升，并呈年轻化趋势；进展期或中晚期CRC的5年死亡率高。靶向治疗与放化疗的联合应用是目前的主要选择；但是，效果不如人意，预后不良。因此，探究CRC的发病机理和寻找新的防治靶标具有重要意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "肿瘤微环境（tumormicroenvironment，TME）由肿瘤细胞、肿瘤干细胞、基质细胞、免疫细胞等组成，不同细胞之间相互影响（尤其肿瘤细胞与免疫细胞之间），共同调控肿瘤的发展。巨噬细胞（macrophages， $\\mathsf { M } \\boldsymbol { \\Phi }$ ）是浸润到TME中数量最多的免疫细胞，占肿瘤间质细胞的 $30 \\% - 5 0 \\%$ ，可通过多种方式促进肿瘤的发生发展，如免疫逃逸、细胞活化和增殖、肿瘤的迁移和侵袭等[2]。在CRC中，Mφ的浸润显著增加，参与促进CRC的生长和侵袭[3.4]，并与病人的治疗失败和预后不良密切相关。然而，CRC微环境中 $\\mathsf { M } \\boldsymbol { \\varphi }$ 与癌细胞间的相互作用和分子机制尚未完全阐明。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "钙周期素S100A6是S100家族成员，参与调控细胞增殖、凋亡、细胞骨架重塑和应激反应等[5}；在CRC 组织和细胞系中，S100A6呈高表达，并促进CRC细胞增殖、迁移和侵袭，与病人的不良预后密切相关。S100A6也是一种分泌蛋白，可通过旁/自分泌方式与靶细胞表面的糖基化终末产物受体（receptor foradvanced glycation end products，RAGE）和 Toll样受体结合而发挥作用[7];Mφ既有RAGE表达，也有相应的信号转导机制[8.9,10]。基于此，我们假设微环境中的 S100A6可能因此而参与巨噬细胞的调控。已知，S100A12 和S100B 通过 RAGE信号通路激活 $\\mathsf { M } \\boldsymbol { \\varphi } ^ { [ 1 1 ] }$ ，并且活化的Mφ能够分泌IL-10、IL-6等细胞因子[8]。因此，本研究拟探讨 S100A6 是否可能通过影响Mφ中 IL-6 的表达进而影响 CRC 的发展。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1 细胞人结直肠癌细胞系HCT116 由重庆医科大学附属第一医院分子肿瘤及表观遗传学重庆市重点实验室馈赠；人单核巨噬细胞系THP-1由本实验室（重庆医科大学临床检验诊断学教育部重点实验室）所保存。1.1.2 质粒及细菌重组质粒pGST-moluc-hS100A6和 pGST-moluc 由芝加哥大学医学中心分子肿瘤实验室馈赠。感受态E.coliBL21为本实验室所保存。1.1.3Transwell 小室：Corning公司产品，直径 $2 4 \\mathsf { m m }$ ，孔径 $0 . 4 \\mu \\mathrm { m }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.4主要试剂DMEM/HIGHGLUCOSE 培养基、RPMI1640 培养基均购自Hyclone 公司；胎牛血清购自Gibco 公司；佛波酯（PMA）购自美国 Sigma 公司；人IL-6R封闭肽购自 santa cruze；TRlzol 试剂购自美国 Invitrogen 公司；反转录试剂盒和实时荧光定量PCR试剂盒TBGreenII（TIiRNaseHPlus）购自日本TaKaRa公司；PCR用IL-6 和内参GADPH基因引物由南京金斯瑞生物科技有限公司合成；蛋白质提取和Westernblot检测相关试剂购自上海碧云天生物技术研究所；兔抗人S100A6 单克隆抗体和鼠抗人GST单克隆抗体均购自美国Abcam 公司；鼠抗人IL-6 多克隆抗体购自Bioss公司；兔抗人t-JAK2和p-JAK2单克隆抗体购自戴格公司；兔抗人t-STAT3和p-STAT3单克隆抗体购自CST公司；鼠抗人 $\\beta$ -actin 单克隆抗体、山羊抗兔 IgG 和山羊抗鼠IgG均购自中国北京中杉金桥生物技术有限公司；ECL试剂盒购自美国Pierce公司；其他试剂均为国产分析纯。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 细胞培养HCT116 细胞和THP-1细胞均置于 $3 7 ^ { \\circ } \\mathrm { C }$ 、 $\\mathsf { C O } _ { 2 }$ 体积分数为$5 \\%$ 的恒温培养箱中培养。HCT116 细胞为贴壁生长，用DMEM高糖完全培养液（含 $10 \\%$ 胎牛血清、 $1 0 0 \\cup / \\mathrm { { m L } }$ 青霉素和 $1 0 0 \\mu \\ g / \\mu \\mu$ 链霉素）培养， $2 { \\sim } 3$ d后用 $0 . 2 5 \\%$ 胰蛋白酶消化并传代；THP-1细胞为悬浮聚团生长，用RPMI1640完全培养液（含 $10 \\%$ 胎牛血清、 $1 0 0 \\cup / \\mathrm { m L }$ 青霉素和 $1 0 0 \\mu \\ g / \\ m L$ 链霉素）培养，$2 { \\sim } 3 { \\mathsf { d } }$ 后直接进行传代。  \n1.2.2 重组蛋白 rS100A6 和GST 的制备及鉴定方法同文献[12]。后续实验中除特殊说明外，这两种重组蛋白的终浓度均为 $1 0 0 | \\mu \\ g / \\ m L$ 。  \n1.2.3S100A6处理后的巨噬细胞对HCT116细胞活力和增殖能力的作用检测1）S100A6 处理的巨噬细胞即A6-Mφ的制备：接种对数生长期的THP-1细胞于Transwell 小室（ $2 \\times 1 0 ^ { 5 }$ 细胞/孔），用100ng/mLPMA诱导24h后更换新鲜无血清培养基[13]，再加入rS100A6 或GST，24h 后再次更换新鲜无血清培养基，此即 A6-Mφ。  \n2）共培养及细胞活性和增殖能力的检测：接种对数生长期的HCT116 细胞于六孔板中（ $2 \\times 1 0 ^ { 5 }$ 细胞/孔），与已制备的位于Transwell小室中的A6-Mφ共培养24h；对照组的HCT116 细胞则只用rS100A6或GST处理24h。用台盼兰计数、CCK8和结晶紫染色检测HCT116细胞活性和增殖能力。  \n3）挽救实验：在HCT116 与A6-Mφ的共培养体系加入IL-6R封闭肽 $( 1 | \\mu \\ g / \\mathsf { m L } )$ ，培养24h。用上述三种方法检测HCT116 细胞的活力和增殖能力。  \n1.2.4 SDS-PAGE 和Western blot 检测蛋白和磷酸化蛋白  \n1）待测蛋白的制备：待测蛋白样品包括用蛋白裂解液提取A6-Mφ和HCT116 细胞的总蛋白（BCA法测定并调节其浓度）和自制的rS100A6 和GST蛋白，均",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "煮沸10min 备用。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2）SDS-PAGE：SDS-PAGE分离前述蛋白样品；电泳后的胶或用考马斯亮蓝染色，以鉴定其分子量，或用于后续的Westernblot检测。  \n3）Westernblot和图像采集、分析：电泳后，采用湿转法转移胶上蛋白至PVDF膜，5%BSA $3 7 ^ { \\circ } \\mathrm { C }$ 封闭2h。分别加入兔抗人S100A6 单抗、鼠抗人GST单抗、鼠抗人IL-6多抗、兔抗人p-JAK2单抗、兔抗人t-JAK2单抗、兔抗人 ${ \\mathsf p }$ -STAT3单抗、兔抗人t-STAT3 单抗和鼠抗人 $\\beta$ -actin单抗（除鼠抗人 $\\beta$ -actin单抗体积稀释比例为1:500以外，其他抗体体积比例均为1:1000)于 $4 ^ { \\circ } \\mathrm { C }$ 孵育过夜; $1 \\%$ TBST洗膜后分别加入相应的二抗（体积稀释比例为1:5000）， $3 7 ^ { \\circ } \\mathrm { C }$ 孵育1h; $1 \\%$ TBST洗膜后，采用ECL发光液显色，通过凝胶成像系统采集图像，应用ImageLab 5.1软件分析条带。  \n1.2.5 定量实时酶链聚合反应(quantitative real time polymerase chainreaction,qPCR）PMA诱导后的 $\\mathsf { M } \\boldsymbol { \\Phi }$ 以 $2 \\times 1 0 ^ { 5 }$ 孔接种于六孔板中，加入rS100A6（30μg/mL、60μg/mL、 $1 0 0 \\mu \\ g / \\mu \\mu$ ）或GST（ $1 0 0 | \\mu \\ g / \\mu \\mathrm { u } L$ ），培养24h后收集细胞，提取总 RNA，取其中 $1 \\mu \\ g$ 逆转录为cDNA，并稀释4倍后，以1μLcDNA为模板，以GADPH作为内参基因（引物序列：上游  \n5'-CAGCGACACCCACTCCTC-3'，下游 $5 ^ { \\prime } -$ TGAGGTCCACCACCCT-3'）检测A6-Mφ中 $1 L - 6$ 基因的表达水平（引物序列：上游  \n5'-GGCCCTTGCTTTCTCTTCG-3'，下游 ${ \\boldsymbol { 5 } } ^ { \\prime }$ -ATAATAAGTTTTGATTATGT-3'）。实时荧光定量PCR反应体系（10uL）：SYBR酶5uL，上下游引物混合液1uL，ddH2O 3uL,cDNA 模板1μL。PCR 反应条件： $9 4 ^ { \\circ } \\mathrm { C }$ 预变性3min; $9 4 ^ { \\circ } \\mathrm { C }$ 变性40s;$5 6 ^ { \\circ } \\mathrm { C }$ 退火30s； $7 2 ^ { \\circ } \\mathrm { C }$ 延伸 40s，40个循环；最后 $6 5 ^ { \\circ } \\mathrm { C }$ 5s。采用BioRad 软件进行目的基因表达水平分析，用 $2 ^ { - \\Delta \\Delta \\mathsf { C } \\mathsf { t } }$ 法计算目的基因的相对表达量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3统计学方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用SPSS17.0和GraphPadPrism5软件对各实验结果进行统计学分析。所有实验均独立重复3次，结果数据以 $\\stackrel { - } { \\boldsymbol { \\mathsf { x } } } \\pm \\boldsymbol { \\mathsf { s } }$ 表示。多组间均数的比较采用单因素方差分析，组内两两比较采用LSD-t检验。 $P { < } 0 . 0 5$ 为差异有统计学意义。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1rS100A6 和GST重组蛋白的制备和鉴定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SDS-PAGE结果（图1a）显示，制备的rS100A6蛋白和GST蛋白的相对分子质量为36KD 和26KD，符合预期。Westernblot（图1b)检测显示,rS100A6蛋白能够被兔抗人S100A6 单抗识别，GST蛋白能够被鼠抗人GST单抗识别。提示这两种蛋白制备成功，将用于后续试验。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/47e59f4c34eaac423413dad945fcfdc1317ab020a3bd580ca11996cb3cc611f0.jpg",
+        "img_caption": [
+            "图1重组蛋白的鉴定（a.SDS-PAGE和b.Westernblot）"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2人单核巨噬细胞系THP-1经PMA诱导为巨噬细胞 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "经PMA诱导24小时后，人单核巨噬细胞系THP-1由悬浮生长转变为贴壁生长并生出伪足，此即巨噬细胞。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/66a6365166acab0d23ccaac77c940c2705a02a0bd050ed75d805c79b30d1da8e.jpg",
+        "img_caption": [
+            "Fig.1Identification of the recombinant protein glutathione S-transferase (GST) and GST-human S100A6 (rS100A6) (a.SDS-PAGE; b.Western blot) ",
+            "图2THP-1（a）被PMA诱导成为巨噬细胞（b) Fig.2 THP-1 (a) were induced to macrophages (b) by PMA. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3S100A6可经由巨噬细胞增强其促进结直肠癌细胞HCT116增殖的作用",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将rS100A6 和 GST分别处理的Mφ（A6-Mφ和GST-Mφ）与 HCT116 共培养，台盼兰计数（图3a）、CCK8（图3b）和结晶紫染色（图3c)检测发现A6-Mφ组的HCT116活细胞数量、 $O D _ { 4 9 0 }$ 和细胞活力均更高( $( P { < } 0 . 0 5 )$ ，一致提示S100A6除直接作用外，还能够通过巨噬细胞进一步促进HCT116细胞的增殖。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/96b79f1ba311b852210772405c9a7baa501967995caf2b7ca221a561376ca367.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图3rS100A6处理后的巨噬细胞对HCT116 细胞增殖的影响（a.台盼兰计数;b.CCK8和c.结晶紫染色法（ $1 0 x$ ））"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 The influence of macrophages pre-treated by rS100A6 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "on proliferation of HCT116 cells. (a.Typan blue staing; b.CCK8 and c.Crystal violet staing(10x)) $^ { \\star } P { < } 0 . 0 5 ; ^ { \\star \\star } P { < } 0 . 0 1 ; ^ { \\star \\star \\star } P { < } 0 . 0 0 1 ( n { = } 3 )$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4S100A6上调巨噬细胞IL-6的表达 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据文献，我们推测IL-6 可能是rS100A6 处理24h 后的Mφ（A6-Mφ）促进HCT116 细胞增殖的重要介质。通过qPCR 和Western blot检测，我们发现A6-Mφ中不仅IL-6mRNA呈剂量依赖性升高（图4a， ${ \\cal P } { < } 0 . 0 1 \\ \\cdot$ ），其蛋白水平也是升高的（图4b）。这些结果一致提示S100A6 具有上调 ${ \\mathsf { M } } \\Phi$ 中 IL-6 表达的作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e1d049435bae2fa22a5e9d99be7442ab46a0969f9cea0a6d5c48049b99946a1e.jpg",
+        "img_caption": [
+            "图4 rS00A6对巨噬细胞中IL-6的mRNA和蛋白水平的影响(a.qPCR 和 b.Western blot)"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5S100A6通过巨噬细胞促进HCT116增殖的作用与IL-6/JAK2/STAT3信号通路的激活有关。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在A6-Mφ与HCT116共培养体系中加入IL-6R封闭肽（anti-IL-6R）培养24h，采用台盼兰计数（图3a）、CCK8（图3b）和结晶紫染色（图3c）检测，三者的结果是一致的，即HCT116 活细胞的数量、 $O D _ { 4 9 0 }$ 和细胞的活力均低于对照组 （ $\\scriptstyle { \\vert P < 0 . 0 5 \\rangle }$ ）。提示，IL-6R封闭肽可部分逆转S100A6 通过Mφ介导的促HCT116细胞增殖的作用，即IL-6信号通路的激活是S100A6通过 ${ \\mathsf { M } } \\Phi$ 促HCT116增殖的重要机制。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Western blot的结果（图5）显示，与GST-Mφ组相比，A6-Mφ与HCT116共培养组的HCT116中p-JAK2、p-STAT3的蛋白水平增加 $( P { < } 0 . 0 5 )$ ，而t-JAK2和t-STAT3 的蛋白水平无明显变化。该结果进一步提示，IL-6/JAK2/STAT3 信号通路的激活涉及S100A6 通过巨噬细胞促进HCT116 增殖的作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/80d95483511279691d7a499ad0792427979e5065f50acb50c59d404d5bfdbd74.jpg",
+        "img_caption": [
+            "Fig.4 The effect of rS10oA6 on the mRNA and protein levels of IL-6 inmacrophages. (a.qPCR and b.Western blot) $^ { \\star } P { < } 0 . 0 5$ ;\\*\\* $\\pmb { P < 0 . 0 1 }$ ： $^ { \\star \\star \\star } P { < } 0 . 0 0 1 ( n { = } 3 )$ ",
+            "图5 rS00A6诱导后的巨噬细胞对HCT116细胞中JAK2、STAT3及其磷酸化水平的影响（Westernblot)"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.5 The influence of macrophages pre-treated by rS10oA6 on the levels of t-JAK2, p-JAK2, t-STAT3 and p-STAT3 in HCT116 cells. (Western blot) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "CRC 是最常见的恶性肿瘤之一，在全球以及我国的恶性肿瘤中发病率和死亡率均位居前列[14]。CRC的发生发展过程复杂，是多因素参与的多阶段的病理过程。目前开发的一些新型靶向治疗药物已广泛应用于CRC的临床治疗，但其较低的五年生存率及高复发率依然是临床上所面临的极大挑战。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "CRC微环境中S100A6的存在表明其可通过调控TME而参与CRC的进程",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "TME 中的间质细胞均可能是S100A6作用的靶细胞；Mφ是肿瘤间质细胞中的主要和重要成分。文献报道，包括Mφ在内的髓系细胞能够通过RAGE和TLR4信号途径促进促瘤微环境的形成[8]。S100A7/RAGE信号通路促使Mφ向乳腺癌组织趋化[9]，并参与调控Mφ向M2型肿瘤相关巨噬细胞分化和上调Mφ中MMP9的表达，从而促进乳腺癌的生长和转移[10]。但是目前尚未见关于S100A6 经由Mφ对CRC 进程的影响的报道。本研究发现，S100A6能够上调Mφ中IL-6 的表达。IL-6是一个重要的促肿瘤因子，在多种肿瘤中发挥关键性作用，如：黑色素瘤、乳腺癌、CRC 等[15]。在胶质瘤中，S100B 招募和调控Mφ并上调Mφ中 IL-6的表达[16]。IL-6 还可促进Mφ向M2 型TAM分化，从而促进CRC 的生长[17]。在CRC病人的血清和肿瘤部位均能能检测出高水平的IL-6，并且IL-6的表达水平与肿瘤的分期、大小以及病人的不良预后均密切相关[18]。IL-6与sIL-6R 结合后通过gp130 活化下游的JAKs 和转录因子STAT3，促进肿瘤细胞的增殖和抑制凋亡[18]。STAT3 磷酸化后促进下游靶基因的转录，如：肿瘤细胞活力（Bcl-2,Mcl-1）、增殖（c-Myc,CyclinD1）等。我们在Mφ中检测到了IL-6 的表达升高（图4a、4b）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "但是IL-6 是否是参与了A6-Mφ促HCT116 增殖的作用呢？我们在A6-Mφ与 HCT116 共培养体系中加入IL-6R 封闭肽，发现A6-Mφ促HCT116 增殖的作用被部分逆转（图3）。进一步证实了我们的假设，即IL-6及其下游信号通路的激活是A6-Mφ促进HCT116 活力和增殖能力提高的机制之一。A6-Mφ中IL-6 的分泌增加，进一步磷酸化HCT116 中JAK2 和STAT3（图5)，从而提升HCT116细胞的活力和增殖能力。至此，我们认为微环境中S100A6 促进CRC发展的机制中，除对CRC 细胞的直接促增殖作用外，还有通过作用于Mφ而实现的间接促增殖作用。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综上，微环境中的S100A6可通过促进巨噬细胞中IL-6 的分泌、进而激活HCT116中IL-6/JAK2/STAT3信号通路来促进CRC细胞HCT116 的增殖。本文为进一步阐明S100A6 影响CRC发生发展的机制提供了新的实验依据，为改进CRC的诊断和治疗提供了新的线索。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]Weitz J, Koch M, Debus J, et al. Colorectal cancer.Lancet, 2005,365(9454):153-165. [2]Komohara Y, Fujiwara Y, Ohnishi K,et al. Tumor-associated macrophages: Potential therapeutic targets for anti-cancer therapy. Advanced Drug Delivery Reviews,2016, 99(Pt B):180-185. [3]Erreni M, Mantovani A, Allavena P. Tumor-associated Macrophages (TAM) and ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Inflammation in Colorectal Cancer. Cancer Microenvironment, 2011, 4(2):141-154. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[4]Nakayama Y, Nagashima N, Minagawa N, et al. Relationships between tumor-associated macrophages and clinicopathological factors in patients with colorectal cancer. Anticancer Research, 2002, 22(6C):4291-4296.   \n[5]Donato R, Sorci G, Giambanco I. S100A6 protein: functional roles. Cellular & Molecular Life Sciences,2017, 74(4):2749-2760.   \n[6]Duan L,Wu R, Zou Z, et al. S100A6 stimulates proliferation and migration of colorectal carcinoma cels through activation of the MAPK pathways. International Journal of Oncology, 2014, 44(3):781-90.   \n[7]Donato R, Cannon B R, Sorci G, et al. Functions of S100 Proteins. Current Molecular Medicine, 2013, 13(1):24-57.   \n[8]Byun K, Yoo Y, Son M, et al. Advanced glycation end-products produced systemically and by macrophages: A common contributor to inflammation and degenerative diseases. Pharmacology & Therapeutics,2017,177:44-55.   \n[9]Nasser M W, Qamri Z, Deol Y S, et al. S100A7 enhances mammary tumorigenesis through upregulation of inflammatory pathways. Cancer Research, 2012, 72(3):604-615.   \n[10]Nasser M W, Wani N, Ahirwar D K, et al. RAGE mediates S100A7-induced breast cancer growth and metastasis by modulating the tumor microenvironment. Cancer Research, 2015, 75(6):974-985.   \n[11]Chavakis T, Bierhaus A, Nawroth P P. RAGE (receptor for advanced glycation end products): a central player in the inflammatory response. Microbes Infection, 2004,   \n6(13):1219-1225.   \n[12]Duan L, Wu R, Zou Z, et al. S10oA6 stimulates proliferation and migration of colorectal carcinoma cels through activation of the MAPK pathways. International Journal of Oncology, 2014, 44(3):781-90.   \n[13]Zha H, Sun H,Li X,et al. S10oA8 facilitates the migration of colorectal cancer cells through regulating macrophages in the inflammatory microenvironment. Oncology Reports,2016, 36(1):279-290.   \n[14]Forman D,Ferlay J, Jemal A, et al. Global cancer statistics. Ca A Cancer Journal for Clinicians, 2015, 65(2):87-108.   \n[15]Kampan N C, Xiang S D, Mcnally O M, et al. Immunotherapeutic Interleukin-6 or   \nInterleukin-6 receptor blockade in cancer: challenges and opportunities. Current Medicinal Chemistry, 2017, 24(00):1-22.   \n[16 JWang H, Zhang L, Zhang IY, et al. S10oB promotes glioma growth through   \nchemoattraction of myeloid-derived macrophages. Clinical Cancer Research An Official ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Journal of the American Association for Cancer Research,2013, 19(14):3764-3775. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[17]CM Wunderlich,PJ Ackermann,AL Ostermann,et al. Obesity exacerbates colitis-associated cancer via IL-6-regulated macrophage polarisation and CCL-20/CCR-6-mediated lymphocyte recruitment. Nature Communication, 2018, 9(1):1646 [18]Waldner M J, Sebastian F, Neurath M F. Interleukin-6 - A Key Regulator of Colorectal Cancer Development. International Journal of Biological Sciences,2012,8(9):1248-1253. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "S100A6 Promotes Cell Proliferation of Colorectal Cancer Via Upregulating IL-6 Expression of Macrophages. ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "CHEN Lu HUANG Mao PENG Qi ZHAO Jia-li XIE Jia-qing LIN Lu Hu Li-jun HUANG Yi-yun HU Qin ZHOU Lan\\*   \n(KeyLaboratory of Laboratory Medical Diagnostics of Ministry of Education, Chongqing Medical University, Chongqing 40o016, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "AbstractObjective: To explore whether Calcyclin S100A6 in tumor microenvironment promotescellproliferationofcolorectal cancer(CRC) through affecting macrophages $( \\mathsf { M } \\boldsymbol { \\phi } )$ and its mechanism. Methods: Prokaryotic expression was used to prepare recombinant human protein GST-S100A6 (rS100A6) and GST (as control). THP-1 were induced to Mφ by PMA (Phorbol-12-myristate-13-acetate). A6-Mφ were the macrophages which were treated with rS10oA6 for 24h. The proliferation of CRC HCT116 cells was detected by Trypan blue staining, CCK8 and crystal violet staining. IL-6 mRNA and protein level in A6-Mφ were tested with quantitative polymerase chain reaction (qPCR） and Western blot， respectively. The protein levels of total JAK2 and STAT3 (t-JAK2 and t-STAT3) and the phosphorylated JAK2 and STAT3 (p-JAK2 and p-STAT3) in HCT116 cels were detected by Western blot.Results: (1） rS100A6 and GST were prepared successfully. (2） A6-Mφ promoted proliferation of HCT116 cells $( P { < } 0 . 0 5 )$ . (3)rS10oA6 upregulated IL-6 expression in macrophages $( P { < } 0 . 0 5 )$ . (4) IL-6R blocking antibody partly reversed the facilitation of ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A6-Mφ to proliferation of HCT116 cells $( P { < } 0 . 0 5 )$ . (5)A6-Mφ increased protein levels of p-JAK2 and p-STAT3 in HCT116 cells $( P { < } 0 . 0 5 )$ ，but not t-JAK2 andt-STAT3. Conclusion:S100A6 intumor microenvironment facilitates proliferation of HCT116 cells through upregulatingIL-6expressioninmacrophagesandactivating IL-6/JAK2/STAT3 pathway in HCT116 cells. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words S100A6； macrophages； CRC； IL-6/JAK2/STAT3pathway",
+        "page_idx": 10
+    }
+]

@@ -1,0 +1,193 @@
+# 退行性腰椎管狭窄症相关指南的质量评价和推荐意见比较研究
+
+10.12114/j.issn.1007-9572.2022.0614
+
+安易1，陈红²，周彦吉¹，刘鲁平1，陈千吉1，雷园²，孙艳艳²，王锡友²，刘长信²，张洋²\*，于长禾2\*基金项目：2020 年首都卫生发展科研专项：退行性腰椎管狭窄症中医综合诊疗方案的规范化研究(首发 2020-4-4195)；国家自然基金青年项目：慢性腰背痛中医临床研究核心结局指标集的构建与优化（81803956)；北京市科委金桥工程种子资金：基于循证理念构建退行性腰椎管狭窄症的中医综合干预方案（No.ZZ21053）
+
+1.北京中医药大学第一临床医学院;
+
+2.北京中医药大学东直门医院
+
+\*通讯作者：于长禾，医学博士，研究方向：中医疗效评价方法学。邮箱：yakno2 $@$ 163.com，电话：010-84013296)
+
+【摘要】目的采用AGREEII及 RIGHT 评价退行性腰椎管狭窄症（Degenerative lumbar spinal stenosis，DLSS）指南的方法学及报告质量，为DLSS 指南制订及报告提供参考依据。方法计算机检索 PubMed、CBM、CNKI、维普和万方数据库，补充检索医脉通数据库(Medlive)、WHO、英国国家临床优化研究所(NICE)、国际指南协作网(GIN)、美国国立指南文库（NGC）、苏格兰院际间协作网（SIGN）数据库，检索时限为2010年1月1日－2022年1月1日。两名评价员独立对纳入研究进行方法学质量及报告质量，并将文献中推荐意见等级统一前提下进行比较。结果共纳入6篇相关文献，其中4篇指南，2篇共识；1篇指南为中医指南，3篇指南为循证指南。AGREEI评价结果显示纳入6篇文献的实际总得分/实际最高得分的比值从高到低依次为 $78 . 2 \%$ ， $5 3 . 6 \%$ ， $45 . 7 \%$ ， $3 7 . 7 \%$ ，28.2及 $1 5 . 9 \%$ 。RIGHT评价显示纳入的4篇指南实际总得分/最高可能得分比值从高到低依次为 $7 2 . 9 \%$ ， $7 2 . 9 \%$ ， $6 2 . 9 \%$ 及 $34 . 3 \%$ 。6篇文献共形成了共有46条治疗类和11个非治疗类的推荐意见。结论当前DLSS 指南和共识方法学质量和报告规范还有待进一步提升，对于中重度DLSS 患者治疗推荐意见倾向于手术治疗。
+
+关键字：AGREEII；RIGHT；指南；共识；退行性腰椎管狭窄症 Quality evaluation and recommendations analysis of guidelines for degenerative lumbar spinal stenosis AN Yi'CHEN Hong2Zhou Yanji'Liu Luping1Chen Qianji1LEI Yuan2Sun Yanyan2Wang Xiyou2Liu Changxin2ZHANG
+
+Yang2\*Yu Changhe2\*
+
+1.The First Clinical Medical College,Beijing University ofChinese Medicine, Beijing;
+
+2.Dongzhimen Hospital,Beijing University of Chinese Medicine \*Corresponding author: Yu Changhe, E-mail:yakno2@163.com
+
+Abstract:Objective:To evaluate the methodological qualityand reportingqualityof the guidelines forDegenerative lumbar spinal stenosis (DLSS)using AGREE II and RIGHT,and to provide reference for the preparation and reporting of DLSS guidelines.Methods: PubMed,CBM,CNKI, VIPand Wanfang databases were searched,as wellas Medive,WHO,NICE, GIN,NGCandSIGN.The retrieval period is from January1,2010 to January1,2022.Two evaluators independently evaluate the methodologicalqualityand reportingqualityof the included studies，and compared therecommendations inthe literature under the premiseofuniformgradesResults:Atotal of6relatedarticles were icluded,including 4guidelines and 2 consensus articles.Oneofthe guidelines was forTCM,andthree were for evidence-based guidelines.The evaluation results of AGREE I showed that the ratio of the actual total score/actual maximum score of the 6 included literatures was $78 . 2 \%$ $5 3 . 6 \%$ ， $45 . 7 \%$ ， $3 7 . 7 \%$ ，28.2 and $1 5 . 9 \%$ from high to low.RIGHT evaluation showed that the ratio of actual total score/maximum possible score of the four guidelines was $7 2 . 9 \%$ ， $7 2 . 9 \%$ ， $6 2 . 9 \%$ and $34 . 3 \%$ from high to low.A total of 46 therapeutic and1l non-therapeutic recommendations were formed in the6 literatures.Conclusions:The methodological quality and reportig standards of the current DLSS guidelines and consensus need to be further improved,and the recommendations for moderate and severe DLSS patients tend to be surgical treatment.
+
+Key Words: AGREE II;RIGHT;Guidelines;Consensus;Degenerative lumbar spinal stenosis 背景
+
+退行性腰椎管狭窄症（Degenerative lumbar spinal stenosis，DLSS）是一种退行性疾病，以腿痛、腰痛，伴有神
+
+# ChinaXiv合作期刊
+
+经源性间歇性跛行等症状为主要表现[]。在美国，现存 DLSS 患者有 20 多万人，是导致疼痛和残障的主要原因之一，也是大于 65 岁的患者进行脊柱手术的最主要病因[2]，在一项研究退行性腰椎疾病的研究显示每年全球有 1.02亿人（ $1 . 4 \%$ ）被诊断为椎管狭窄[3]。Framingham研究表明，在60岁以上的美国人中有 $1 9 . 4 7 \%$ 的人有椎管狭窄的影像学证据[1,4,5]，DLSS 的患病率将随着老龄化和医学检验技术的进步而进一步提高。医疗费用高等因素也让 DLSS为全球带来了严重的医疗负担。
+
+指南在医疗诊治过程中发挥着积极而不可或缺的作用[67]，然而，只有方法学设计和报告规范符合要求的指南才能为医疗工作提供更符合医患双方利益的决策依据[8]，才可有效指导和规范医生的诊疗行为,提高患者就诊体验，减少国家社会的医疗负担，才能凸显了指南评价的意义。目前使用率和认可度最高的指南方法学质量评价工具为AGREEII(appraisal of guidelinesresearch and evaluation II)，最通用的报告标准为 RIGHT(reporting items for practiceguidelines in healthcare)。AGREE 自 2003 年首次发布后即广泛用于指南方法学质量评价中，并于 2008年更新至AGREI[10]。我国发布的指南报告质量还远不尽如人意[1]，指南制定者对报告规范关注度也远远不够。2016 年RIGHT 标准发布并得以应用之后[12]，在提升了指南质量的前提下还促进了指南在适用人群中的应用度和传播速度[7]。一部好的指南不仅要在制定过程中严格遵守方法学标准[13]，还应该在报告时尽量以透明公开的方式保证指南的透明度和完整性[7,14]。本研究采用 AGREEII和 RIGHT工具评价 DLSS 指南的方法学质量和报告质量，以期在提高指南质量、规范报告标准方面为指南指定人员提供参考。
+
+1 资料与方法
+
+# 1.1 检索策略
+
+计算机检索 CBM、中国知网(CNKI)、万方(Wanfang Data)、维普(VIP)、PubMed,补充检索医脉通数据库(Medlive)、WHO、英国国家临床优化研究所(NICE)、国际指南协作网（GIN）、美国国立指南文库（NGC）和苏格兰院际间协作网（SIGN）等指南库，检索时限均为2010年1月1日－2022年1月1日。中文检索词为腰椎管狭窄、椎管狭窄、脊柱退行性病变、间歇性跛行、神经源性跛行和指南、共识、规范等；英文检索词为lumbar spinal stenosis、spinalstenosis、Spinal Osteophytosis、neurogenic claudication、guideline、consensus、clinical practice guideline 等。
+
+# 1.2 纳排标准
+
+纳入标准： $\textcircled{1}$ 研究类型为临床实践指南、共识或规范； $\textcircled{2}$ 研究对象为退行性腰椎管狭窄症患者； $\textcircled{3}$ 如果检索出几部指南为前后更新或重复发表关系，只纳入最新版指南。排除标准： $\textcircled{1}$ 指南解读或指南译本； $\textcircled{2}$ 指南制定计划书、草案、试行版、摘要和会议纪要； $\textcircled{3}$ 非中、英文文献； $\textcircled{4}$ 无方法学支撑的文献。
+
+# 1.3文献筛选整理
+
+由两位研究者（AY、LLP）独立独立完成并交叉核对；如遇分歧，则与YCH协商定夺；如遇资料不全或确是，则尽量与通讯作者联系进行补充收集。基于本研究采用的评价工具设计资料提取表。内容主要包括：发表(或更新)年份、发表国家、研究对象、指南所用证据质量等级及推荐等级分级方法、透明度相关问题等。
+
+# 1.4质量评估
+
+本研究分别采用 AGREEII和RIGHT工具对纳入的文献进行方法学质量评价及报告质量评价。AGREEII分别在6个评分领域有23条评分项，每条评分项的最低分为1分，最高分为7分。纳入文献各领域最终得分(标化为百分比)的计算公式如下：各领域得分 $\scriptstyle \cdot =$ (实际分一最低可能得分)(最高可能得分一最低可能得分)。计算纳入文献的各领域得分总和，计算出实际总得分/总最高可能得分 $\times 1 0 0 \%$ 用以比较整篇文章的方法学质量。
+
+RIGHT评价工具分别在7个评分领域有 22个条目。每个条目以"完全报告”部分报告"“未报告"及"不适用"进行定性赋分：“完全报告（Y）"表示该条目所要求信息均在文献中进行表达；“未报告（N）”，表示在文献中无法找到相关信息的情况；“部分报告（P）”，只有部分所要求的信息得以表述；“不适用（I）”，指南不符合某条目评价要求，不能用"报告"部分报告"或"未报告"进行定性。此外，在包含多个内容的条目中，未表达出所有要求的信息，便将其评价为"部分报告”。汇总各领域"报告"的频率和百分比，并将"完全报告"记为2分，“部分报告"记为1分，“未报告"和"不适用"记为0分，以实际总得分/总最高可能得分 $\times 1 0 0 \%$ 来衡量其总报告率。
+
+# 1.5推荐强度分级情况
+
+因目前指南或共识存在推荐强度分级不规范不统一的情况[15]，为使推荐意见之间的横向比较，由两人（AY，LLP）分别按照文件中干预类推荐意见的文字描述结合文章所使用的推荐等级标准将推荐等级进行划分为强推荐、弱推荐、不确定及不推荐四种。对于强推荐及不推荐这类明确意见，根据推荐等级字面表达进行划分；而弱推荐及不确定的等级划分，则需要结合文章中对推荐意见的具体描述。对有证据支持的利大于弊，但又不到强推荐意见证据充足程度，划分为弱推荐；指南中表示当前证据不足以对某项干预措施进行推荐，或利弊平衡无法确定的推荐意见等级划分为不确定[16]。如过程中出现分歧，交由第三方（YCH）进行评判。
+
+1.6质量控制
+
+组内相关系数(interclasscorrelation coefficient，ICC)是衡量观察者信度和复测信度的指标之一。本研究使用 ICC对 AGREEII评价结果进行信度检验。RIGHT报告质量评价时，如果两位评价者（AY、LLP）遇到分歧时，交由第三方（YCH）进行评判。
+
+1.7数据统计处理
+
+采用Excel2019及 SPSS26.0进行数据统计以及对2名评价者评分结果一致性ICC 检验： $\mathrm { I C C } { > } 0 . 8 0$ 说明评价者评价结果之间的一致性较好。
+
+# 2 结果
+
+# 2.1文献检索结果
+
+共检索出1402篇文献，文献管理软件 NoteExpress 3.2查重后剩余1282 篇，通过标题和摘要筛选剩余 22 篇，阅读全文后纳入6篇。见图1
+
+![](images/05b62bc5b2f7e7539d2221a6e9bd5951c6f9513b2870e9634e2384808788c0e6.jpg)  
+图1文献筛选过程
+
+# 2.2纳入文献基本特征
+
+纳入的6篇有关DLSS 的相关文献，其中4篇指南[17-20]和2篇共识[21,22]。1篇为中医指南[17]，其余 5篇文献为现代医学指南；纳入的4篇指南中，3篇是循证指南；在指南的内容上，有3篇内容为诊断与治疗类指南，有1篇指南只涉及到治疗内容；所纳入的两篇共识，分别为诊断类共识和诊疗类共识；纳入的6篇文献中，有三篇使用GRADE(grading ofrecommendations assessment，development and evaluation)作为评价证据等级方法，1篇使用美国预防服务工作组(U.S.Preventive Services Task Force，USPSTF)提供的推荐等级，还有2篇未说明使用何种推荐等级。具体纳入的文献基础信息见表1。
+
+表1纳入文献的基本信息表  
+Table 1 Basic Information SheetforIncludedLiterature   
+
+<html><body><table><tr><td>指南</td><td>年份</td><td>发布 国家</td><td>指南特 点及领 域</td><td>研究对象</td><td>证据质量和推荐基金资助 等级分级方法</td><td></td><td>益冲突</td><td>是否存在利未来是否更新</td></tr><tr><td>世界中医药联 合会[17]</td><td>2021</td><td>中国</td><td>中医+ DLSS 诊疗</td><td></td><td>未提及何种方法</td><td>未报告</td><td>未报告</td><td>未报告</td></tr><tr><td>丹麦国家卫生 部[18]</td><td>2019</td><td>丹麦</td><td>循证+ 治疗</td><td>DLSS</td><td>GRADE证据等级</td><td>报告</td><td>报告</td><td>未报告</td></tr></table></body></html>
+
+<html><body><table><tr><td>北美脊柱协会 （NASS）[19]</td><td>2011</td><td>美国</td><td>循证+ 诊疗</td><td>DLSS</td><td>GRADE证据等级</td><td>报告</td><td>报告</td><td>报告</td></tr><tr><td>加拿大骨关节 协会[20]</td><td>2021</td><td>加拿 大</td><td>循证+ 诊疗</td><td>DLSS+ 神 经源性跛 行</td><td>GRADE证据等级</td><td>报告</td><td>报告</td><td>报告</td></tr><tr><td>ChristyTomkin s Lane 等[21]</td><td>2016</td><td>加拿 大</td><td>共识+ 诊断</td><td>DLSS</td><td>未提及何种方法</td><td>报告</td><td>未报告</td><td>未报告</td></tr><tr><td>西弗吉尼亚州 介入协会[22]</td><td>2018</td><td>美国</td><td>共识+ 诊疗</td><td>DLSS</td><td>USPSTF推荐等级</td><td>报告</td><td>报告</td><td>未报告</td></tr></table></body></html>
+
+2.3纳入文献的质量评价
+
+# 2.3.1 AGREEII评价结果
+
+经过ICC 检验，其结果一致性较高，各领域ICC 值均大于0.92。
+
+AGREEII结果显示，纳入文献方法学质量评价得分偏低。所纳入的6篇文献的实际总得分/实际最高得分的比值从高到低依次为 $78 . 2 \%$ ， $5 3 . 6 \%$ ， $45 . 7 \%$ ， $3 7 . 7 \%$ ，28.2及 $1 5 . 9 \%$ 。在AGREEII各个领域中，纳入的指南之间差距较大，平均得分中只有范围和目的、表达明晰性两个领域超过了 $50 \%$ （ $5 2 . 7 8 3 \%$ 、 $6 5 . 8 \%$ )，参与人员、制定严谨性、应用性和编辑独立性四个领域平均得分均低于 $50 \%$ ，其中应用性领域得分平均值最低，仅有 $31 . 2 3 3 \%$ ，NASS指南和加拿大骨关节协会发表的指南中各领域得分都在纳入文献中处于较高，后者最低领域得分也有 $6 6 . 7 \%$ 。不同领域AGREEII平均评分结果见表2。
+
+Table 2 AGREEIScoring Results
+
+表2AGREEII各领域评分结果  
+
+<html><body><table><tr><td>指南</td><td>范围和目 的(%)</td><td>参与人 员 (%)</td><td>制订严谨 性(%)</td><td>表达明 晰性 (%)</td><td>应用 性 (%)</td><td>编辑独 立性 (%)</td><td>实际总得分/最 高总得分</td></tr><tr><td>世界中医药联合会 [17]</td><td>61.1</td><td>61.1</td><td>22.9</td><td>61.1</td><td>33.3</td><td>0</td><td>75/37.7%</td></tr><tr><td>丹麦国家卫生部[18]</td><td>66.7</td><td>50</td><td>43.8</td><td>83.3</td><td>12.5</td><td>25</td><td>86/45.7%</td></tr><tr><td>北美脊柱协会 （NASS）[19]</td><td>72.2</td><td>38.9</td><td>62.5</td><td>83.3</td><td>20.8</td><td>33.3</td><td>97/53.6%</td></tr><tr><td>加拿大骨关节协会 [20]</td><td>77.8</td><td>66.7</td><td>77.1</td><td>83.3</td><td>83.3</td><td>83.3</td><td>131/78.2%</td></tr><tr><td>ChristyTomkins Lane 等[21]</td><td>22.2</td><td>5.6</td><td>18.8</td><td>22.2</td><td>16.7</td><td>50</td><td>45/15.9%</td></tr><tr><td>西弗吉尼亚州介入 协会[22]</td><td>16.7</td><td>16.7</td><td>25</td><td>61.6</td><td>20.8</td><td>41.7</td><td>62/28.2%</td></tr><tr><td>平均分</td><td>52.783</td><td>39.833</td><td>41.683</td><td>65.8</td><td>31.233</td><td>38.883</td><td>82.667/43.217%</td></tr></table></body></html>
+
+# 2.3.2 RIGHT评价结果
+
+因多条RIGHT条目不适用纳入的2篇共识，故在做报告质量评级时只对4篇指南进行评级。根据 RIGHT评价结果，当前关于 DLSS 的最新指南，整体报告质量并不高。进行RIGHT 评价的4篇指南总报告率从高到低依次为$7 2 . 9 \%$ ， $7 2 . 9 \%$ ， $62 . 9 \%$ 及 $34 . 3 \%$ 。中医学为基础的指南得分最低。在RIGHT的7个领域中，最符合RIGHT报告规范的是其他方面（可及性、对未来研究的建议和指南的局限性)，平均得分为 $7 9 . 1 2 5 \%$ ；在指南证据的报告规范上，虽然纳入的非循证指南[17]得分只有 $10 \%$ ，但其余3篇指南 $[ 1 8 - 2 0 ] _ { 1 0 0 \% }$ 按照 RIGHT的报告规范进行了报道，平均分也有 $7 7 . 5 \%$ ；在基本信息和背景的报告规范上平均得分都在 $60 \%$ 以上，分别为 $7 3 . 2 2 5 \%$ 和 $6 6 . 0 5 \%$ ；但在评审和质量保证、推荐意见、资金资助与利益声明与管理三个领域，得分最低分别为 $50 \%$ ， $4 4 . 6 5 \%$ 和 $2 8 . 1 2 5 \%$ 。不同领域RIGHT得分汇总及平均分情况见表3，具体报告结果见表4
+
+表3RIGHT各领域得分汇总表
+
+Table 3 RIGHT Scoring Results   
+
+<html><body><table><tr><td>指南</td><td>基本信 背</td><td>证</td><td>推荐意</td><td>评审和质</td><td>资金资助与</td><td>其他</td><td>总得</td><td>总得分/总</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+表4不同领域RIGHT报告结果  
+
+<html><body><table><tr><td></td><td>息 (%)</td><td>景 （ % ）</td><td>据 （ % ）</td><td>见 (%)</td><td>量保证 (%)</td><td>利益声明与 管理(%)</td><td>方面 (% ）</td><td>分</td><td>最高可能 得分 (%)</td></tr><tr><td>世界中医药联合 会[17]</td><td>50</td><td>71. 4</td><td>10</td><td>35.7</td><td>0</td><td>0</td><td>16.7</td><td>24</td><td>34.3</td></tr><tr><td>丹麦国家卫生部 [18]</td><td>78.6</td><td>57. 1</td><td>100</td><td>28.6</td><td>50</td><td>37.5</td><td>100</td><td>44</td><td>62.9</td></tr><tr><td>北美脊柱协会 （NASS）[19]</td><td>85.7</td><td>57. 1</td><td>100</td><td>71.4</td><td>50</td><td>37.5</td><td>100</td><td>51</td><td>72.9</td></tr><tr><td>加拿大骨关节协 会[20]</td><td>78.6</td><td>78. 6</td><td>100</td><td>42.9</td><td>100</td><td>37.5</td><td>100</td><td>51</td><td>72.9</td></tr><tr><td>平均分</td><td>73.225</td><td>66. 05</td><td>77. 5</td><td>44.65</td><td>50</td><td>28.125</td><td>79.12 5</td><td>42.5</td><td>60.75</td></tr></table></body></html>
+
+Table 4RIGHT Report Results in different areas   
+
+<html><body><table><tr><td rowspan="2">领域</td><td rowspan="2">条目</td><td>编</td><td>世界中医药</td><td>丹麦国家卫</td><td>北美脊柱协会</td><td>加拿大骨关</td></tr><tr><td>号</td><td>联合会[17]</td><td>生部[18]</td><td>（NASS）[19]</td><td>节协会[20]</td></tr><tr><td rowspan="6">基本信息</td><td rowspan="3">标题/副标题</td><td>la</td><td>Y</td><td>Y</td><td>Y</td><td>Y</td></tr><tr><td>1b</td><td>Y</td><td>N</td><td>Y</td><td>N</td></tr><tr><td>1c</td><td>N</td><td>Y</td><td>Y</td><td>Y</td></tr><tr><td>执行总结</td><td>2</td><td>N</td><td>Y</td><td>N</td><td>Y</td></tr><tr><td>术语与缩略语</td><td>3</td><td>P</td><td>P</td><td>Y</td><td>P</td></tr><tr><td>通讯作者 简要描述指卫生问</td><td>4</td><td>Y</td><td>Y</td><td>Y</td><td>Y</td></tr><tr><td>题 指南的总目标和具</td><td>5</td><td>N</td><td>Y</td><td>Y</td><td>Y</td></tr><tr><td rowspan="6">背景</td><td>体目的</td><td>6</td><td>Y</td><td>Y</td><td>Y</td><td>Y</td></tr><tr><td>目标人群</td><td>7a</td><td>Y</td><td>Y</td><td>Y</td><td>Y</td></tr><tr><td>指南的使用者和应</td><td>7b</td><td>N</td><td>N</td><td>N</td><td>N</td></tr><tr><td>用环境</td><td>8a</td><td>Y</td><td>N</td><td>Y</td><td>Y</td></tr><tr><td></td><td>8b</td><td>Y</td><td>N</td><td>N</td><td>Y</td></tr><tr><td>指南制订工作组</td><td>9a 9b</td><td>P P</td><td>Y Y</td><td>P</td><td>Y</td></tr><tr><td rowspan="5">证据</td><td>卫生保健问题</td><td>10a</td><td>P</td><td>Y</td><td>P Y</td><td>P Y</td></tr><tr><td rowspan="2"></td><td>10b</td><td>N</td><td>Y</td><td></td><td></td></tr><tr><td>11a</td><td>N</td><td>Y</td><td>Y</td><td>Y</td></tr><tr><td>系统评价</td><td>11b</td><td>N</td><td></td><td>Y</td><td>Y</td></tr><tr><td>评价证据体的质量</td><td>12</td><td>N</td><td>Y Y</td><td>Y</td><td>Y</td></tr><tr><td rowspan="6">推荐意见 形成推荐意见的原</td><td></td><td></td><td></td><td></td><td>Y</td><td>Y</td></tr><tr><td rowspan="4">推荐意见</td><td>13a</td><td>Y</td><td>Y</td><td>Y</td><td>Y</td></tr><tr><td>13b</td><td>Y</td><td>N</td><td>Y</td><td>N</td></tr><tr><td>13c</td><td>P</td><td>N</td><td>Y</td><td>Y</td></tr><tr><td>14a</td><td>N</td><td>N</td><td>Y</td><td>N</td></tr><tr><td>理和解释说明</td><td>14b</td><td>N</td><td>N N</td><td>N</td><td>N</td></tr><tr><td></td><td>14c</td><td>N</td><td></td><td>N</td><td>N</td></tr><tr><td>从证据到决策</td><td>15</td><td>N</td><td>Y</td><td>Y</td><td>Y</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>评审和质 量保证</td><td>外部评审 质量保证</td><td>16 17</td><td>N</td><td>N</td><td>N</td><td>Y</td></tr><tr><td rowspan="4">资金资助 与利益冲 突声明和</td><td rowspan="4">资金来源及作用</td><td>18a</td><td>N</td><td>Y</td><td>Y</td><td>Y</td></tr><tr><td></td><td>N</td><td>N</td><td>N</td><td>N</td></tr><tr><td>18b 利益冲突的声明和</td><td>N</td><td>N</td><td>N</td><td>N</td></tr><tr><td>19a 19b</td><td>N N</td><td>Y</td><td>Y</td><td>Y</td></tr><tr><td rowspan="4">其他方面</td><td>可及性</td><td>20</td><td>P</td><td>P Y</td><td>P Y</td><td>P Y</td></tr><tr><td>对未来研究的建议</td><td>21</td><td>N</td><td></td><td></td><td></td></tr><tr><td>指南的局限性</td><td></td><td></td><td>Y</td><td>Y</td><td>Y</td></tr><tr><td></td><td>22</td><td>N</td><td>Y</td><td>Y</td><td>Y</td></tr></table></body></html>
+
+“完全报告（Y）"表示该条目所要求信息均在文献中进行表达；“未报告（N）”，表示在文献中无法找到相关信息的情况；“部分报告（P）”，只有部分所要求信息得以表述；“不适用（I）”，指南不符合某条目评价要求，不能用“报告"部分报告"或"未报告"进行定性。2.4DLSS 指南临床问题及推荐意见内容分析
+
+纳入的6篇指南或文献中，有5篇[17-20,22进行了临床问题、推荐意见或共识结果的提出，1篇共识[211用国际德尔菲法对7个关于 DLSS 的具体问题进行了共识。共有46 条治疗类和11个非治疗类的推荐意见或共识提出。
+
+世界中医药联合会（世中联）指南共提出了8条中医治疗类推荐意见，包括内服中药、中医外治法及功法锻炼。丹麦国家临床指南提出了10个治疗相关的临床问题及相应推荐意见，其中7个临床问题与保守疗法有关，3个临床问题基于手术疗法展开讨论推荐。NASS 指南提出了16个临床问题及相应的推荐意见，其中6个问题围绕DLSS 的定义、病程、诊断及评价DLSS干预的临床结局指标展开，还有10个临床治疗类问题，有关保守治疗和手术治疗的临床问题数量比例为7：3。加拿大骨关节协会的指南中提出了12个关于DLSS 间歇性跛行的非手术治疗类临床问题及推荐意见。美国西弗吉尼亚州介入协会发表的共识中有11项共识，5项关于DLSS 概念、诊断，4项关于手术治疗，2项关于非手术治疗。具体疗法的推荐意见见表5。
+
+表5各推荐疗法意见等级  
+Table 5 Grade of each Recommended therapy opinion   
+
+<html><body><table><tr><td>指南</td><td>应用人群</td><td>适用人 群</td><td>针灸治 疗</td><td>手法治 疗</td><td>功能锻 炼</td><td>内服中 药</td><td>内服西药</td><td>硬脊膜外类 固醇注射</td><td>手术治 疗</td></tr><tr><td>世界中医药联 合会</td><td>DLSS 患 者</td><td>临床医 生</td><td>弱推荐</td><td>弱推荐</td><td></td><td>弱推荐</td><td></td><td></td><td></td></tr><tr><td>丹麦国家卫生 部</td><td>大于65 岁 DLSS 患者</td><td>未明确 提出</td><td></td><td>不确定</td><td>弱推荐</td><td></td><td>不推荐/弱 推荐</td><td></td><td>弱推荐</td></tr><tr><td>北美脊柱协会 (NASS)</td><td>无腰椎滑 脱的成年 LSS 患者 伴或不伴</td><td>参与医 疗决策 者</td><td>不确定</td><td>不确定</td><td>不确定</td><td></td><td>不推荐/不 确定</td><td>弱推荐</td><td>弱推荐</td></tr><tr><td>加拿大骨关节 协会</td><td>腰椎滑脱 的有神经 源性间歇 性跛行的 成年LSS 患者</td><td>各级医 疗机构 中的临 床医 师、康 复师</td><td>弱推荐</td><td>弱推荐</td><td>弱推荐</td><td></td><td>不推荐</td><td>不推荐</td><td></td></tr><tr><td>西弗吉尼亚州 介入协会</td><td>LSS 患者</td><td>开展脊 柱微创 治疗医 生</td><td></td><td></td><td></td><td></td><td>不推荐</td><td>弱推荐</td><td>强推荐</td></tr></table></body></html>
+
+注：1.ChristyTomkins Lane 等制订的德尔菲共识中，应用人群为LSS 患者，未明确提出使用人群；2.丹麦国家指南中内服西药弱推荐是疾病初期给予神经源性止疼药的干预方法，不推荐是对指南中提到的其他药物；NASS指南中内服西药不确定对应的干预方法为口服营养神经药物，而不推荐对应该指南中提及的其他内服药物。
+
+3讨论
+
+3.1DLSS 指南或共识基本情况
+
+DLSS 的严重程度与临床表现之间的相关性很差，在指南和共识[19,22]中也有提出，但是神经源性间歇性跛行却是DLSS 的特征性临床表现。纳入的文献中加拿大骨关节协会指南围绕解决神经源性间歇性跛行这一主要困扰DLSS患者的症状选择临床问题，其余纳入文献针对DLSS 展开，提供诊断、影像学、治疗以及干预结局指标评定等方面的意见推荐。根据基于AGREEII和RIGHT 的质量和报告规范结果，纳入的文章中，指南的质量和报告规范远高于共识，基于循证制订的3篇指南的质量远高于非循证指南；基于现代医学的指南比中医类指南的质量和报告规范要高。由此可见，想要用让我国广大医疗工作者阅读指南后有更好的临床决策输出，亟需高水平高标准的循证指南提出，特别是中医类指南。
+
+# 3.2DLSS指南或共识的质量分析
+
+2019 年我国发表的指南在AGREEII和RIGHT评价方法学质量和报告质量相较于 2014-2018 年有了 $5 \%$ 以上的提高[1]，但我国指南与国际指南存在较大差距，指南评价的发展也推动着指南制订者们对指南质量和报告规范的严格把控，促进着我国医疗指南制订的发展[1,23]。本研究采用AGREEII评价指南和共识的质量，AGREEII评价工具以期推断指南共识的制订方法和内容是否可靠，制订过程是否符合标准要求，推荐意见是否基于当前最佳证据总结得出、在临床推广必要与否[24]。
+
+经AGREEII评价后的结果显示，纳入的6篇文献中，基于循证的3篇指南在总分及各个领域中的得分较高，在范围和内容、制作严谨性和表达明晰性三个领域中均比其余3篇文献得分高。通过AGREEII条目设定及评定情况，可见循证制订临床实践指南是当前的趋势[25]，美国医学研究所(Institute ofMedicine，IOM)2011年更新的临床指南定义—基于系统综述生成的证据对各种备选方案进行利弊评价和权衡之后提出的最佳推荐意见—可以看出指南应该是基于循证证据为基础而制订的[26]。且循证指南在制定过程中有严格且合理的评估程序，比传统的专家指南更为科学和系统[27]。在参与人员，应用性和编辑独立性这三个领域，所纳入的文献评分较低，均不足 $40 \%$ ，说明在指南描述制订人员的专业，制定过程中所做贡献，选择临床问题时的意愿收集，指南适用人群，指南应用和推广中的影响因素，赞助资金来源、使用情况及利益冲突等方面还距国际公认的指南质量评价方法AGREEII量表中的相关要求有一定差距。在参与人员领域中，是否参考了群众及目标群体的意见和意愿条目中，只有世中联制作的指南中在制订推荐意见时考虑了患者意愿，可能碍于指南版面与字数要求，但不考虑指南主要目标人群——患者的意愿，确有悖于循证医学做寻求的三个立足点之一。大多的指南制订团队，对于指南面向适用人群后的推广及应用提及都甚少，在是否更新，何时更新等内容上，只有质量较好的2篇指南[19,20]中有提及。
+
+就DLSS相关的指南或共识质量而言还可以进一步提升，以期为临床决策更好服务。
+
+# 3.3DLSS指南和共识的报告规范分析
+
+本研究基于RIGHT量表对纳入的文献进行报告规范方面的评级，作为国际上被应用最多的指南报告规范标准，所纳入共识对大部分的RIGHT条目不适用，且共识用大量篇幅讲述专家达成共识的过程，为了减少对其他纳入文献的影响，故只对4篇指南进行了RIGHT评价后评分的汇总和分析。
+
+RIGHT量表由基本信息、背景、推荐意见、证据、评审和质量保证、资金资助与利益、冲突声明和管理和其他方面7个领域组成[12]。本研究经RIGHT评价后的4篇文献中有3篇指南总报告率超过了 $60 \%$ ，世中联发布的指南最终评级的比值最低只有 $34 . 3 \%$ 。具体到各领域，资金与利益和推荐意见两个领域的评价最不理想，得分只有 $2 8 . 1 2 5 \%$ 和 $4 4 . 6 5 \%$ 。在资金与利益这一领域中，根据RIGHT具体要求，指南制定过程的各个阶段的资金来源都应在文中有透明公开表达[12]，而所评指南对赞助资金的来源和使用虽有提及，但也只是用简单的语句描述指南制订的资助方，并没细化到具体制订阶段以及描述出如何使用。在推荐意见领域，纳入的指南在意见形成原理及解释说明这一个条目中失分最多，评价标准要求不仅在意见推出的过程中要参考指南使用人群和目标人群的意愿，还需进一步考虑成本、资源利用、公平性、可行性及可接受度等因素的影响。可见，当前DLSS 指南的报告规范据国际实践指南报告标准有很大差距，主要表现在RIGHT要求的分条目的描述上。可能评价结果不理想的指南因为篇幅较少，限制了一些信息的表达，但纳入指南中得分最高也只有 $72 . 9 \%$ ，也说明了指南制订人员在指南制订过程中还需对报告规范有进一步提高。
+
+# 3.4DLSS指南和共识推荐意见分析
+
+纳入且给出推荐意见的5篇文献中提出 57条推荐意见，其中11条推荐意见关于DLSS 的定义、诊断标准及疗效评价等内容，46 条推荐意见关于干预方法。3篇循证指南[18-20]基于系统评级或者 meta 分析给出推荐意见，并用GRADE评价证据等级，给出证据质量及推荐强度等级方法。
+
+5 篇文献给出了36个保守干预意见，证据数量最多的外治法是NASS 指南和西弗吉尼亚州介入协会共识中提到的硬脊膜外类固醇注射，推荐等级为中推荐，且NASS 还将时间限定在了在发病之初的 24个月内，随着病程迁延对于此项治疗的推荐等级也在下降，在病程超过36个月之后降为不确定。只有中医指南给出了针灸及手法治疗具体的处方，其余提及的指南或共识都以弱推荐[20]或不确定[19]呈现，其中加拿大骨关节协会的指南限定针灸只在发病初期使用并将手法治疗归属于康复治疗。2篇指南[17,20]为功能锻炼给出了弱推荐；1篇指南[19]不确定；丹麦国家临床指南关于功能锻炼作为干预手段给出了“倾向"的描述，又补充锻炼活动有利于神经源性疼痛的治疗的证据支持不足，但对于术后锻炼给予了弱推荐。药物干预方面，中医指南对内服中药给予弱推荐；西医药物中，除NASS 指南给营养神经药物不确定是否推荐和丹麦国家临床指南在疾病初期以弱推荐的等级推荐神经源性疼痛止疼药以外，其他文献都明确不推荐任何西医内服药物。
+
+关于手术干预，丹麦国家临床指南对保守治疗效果不佳好的患者，外科椎板减压术及椎体融合术给予弱推荐；NASS 指南对中重度患者的手术治疗同样给出弱推荐。而西弗吉尼亚州介入协会共识用美国预防医学工作组(USPSTF)给出的标准给经皮影像引导腰椎减压术强推荐。
+
+DLSS 较长的病程使得保守治疗不能立竿见影，对比指南发现，手术治疗可以迅速缓解症状，得到的推荐等级也较高，但神经损伤等并发症或复发率高，再手术率高，且价格贵、接受度低，故治疗策略又回到以保守治疗为先。NASS 指南也提出非手术治疗也可以作为DLSS 治疗的第一策略，所以以手术治疗作为保底方案，以保守治疗作为第一策略是符合患者意愿和当前最佳证据的解题化治疗方案。而目前指南中对保守治疗的重视程度还有待提高，希望指南制订者增加保守治疗方案或组合从证据到推荐意见各个步骤的探讨，使指南的适用人群为患者做出最有利的临床决策。
+
+# 4结论
+
+DLSS 的指南和共识方法学质量和报告规范还有待进一步提升，对于中重度腰椎管狭窄症患者指南给出的推荐意见倾向于手术治疗，在指南数量上，国内DLSS 的指南较少。希望指南制订过程中，制订者严格按照AGREII和RIGHT量表的要求，制订出质量更高为临床医生和患者更好服务的循证指南。
+
+# 参考文献
+
+Jon L, Christy T.Management of lumbar spinal stenosis.[J]. BMJ,2016,4(352):h6234.   
+Deyo R A, Mirza S K, MartinB I, et al. Trends,Major Medical Complications,and Charges Associated With Surgery for Lumbar Spinal Stenosis in Older Adults[J].JAMA:The Journal of the American Medical Assciation, 2010,303(13):1259-1265.   
+Ravindra VM,Senglaub SS,Ratani A,etal. DegenerativeLumbar Spine Disease: Estimating Global Incidence and Worldwide Volume[J]. Global Spine J,2018,8(8):784-794.   
+Chad D A. Lumbar Spinal Stenosis[J]. Neurologic Clinics, 2007,25(2):407-418.   
+周彦吉，刘长信，刘焰刚，等．美国脊柱患者实效研究试验腰椎管狭窄症系统评价[J].中国全科医学, 2022,25(05):535-541.   
+Yaolong C, Chen W, Hongcai S, et al. Clinical practice guidelines in China.[J]. BMJ,2018,5(360):j5158.   
+马圆，车刚，连蓉娜，等.AGREEII及RIGHT评价过敏性紫癜指南的方法学质量及报告质量[J]．解放军医学杂志， 2020,45(06):639-645.   
+K NT,Laura A,Ioana P,et al. Opioid prescribing: a systematic review and critical appraisal of guidelines for chronic pain.[J]. Annals of internal medicine, 2014,160(1):28-47.   
+陈耀龙，杨克虎．正确理解、制订和使用临床实践指南[J]．协和医学杂志,2018,9(04):367-373.   
+C B M,E K M,PB G, et al. AGREE I: advancing guideline development, reporting and evaluation in health care.[J]. CMAJ $\because$ Canadian Medical Association journal=journal de IAssociation medicale canadienne,2010,182(18):E839-E842. 刘云兰，张静怡，史乾灵，等.2019年期刊公开发表的中国临床实践指南文献调查与评价——方法学质量和报告 质量[J]．协和医学杂志,13(02):324-331.   
+Yaolong C,Kehu Y,Ana M,et al. A Reporting Tool for Practice Guidelines in Health Care: The RIGHT Statement.[J]. Annals of internal medicine,2017,166(2):128-132.   
+MoherD,Schulz KF,SimeraI,etal. Guidance fordevelopers ofhealth researchreporting guidelines.[J].PLoS Medicine, 2010,7(2):e1000217.   
+Zhenwei X, Xiaoling W,Lin S,et al. Appraisal of clinical practice guidelines on community-acquired pneumonia in children with AGREE II instrument.[J]. BMC pediatrics, 2016,Aug 2(16):119.   
+卢姝亚，赵思雅，吴守媛，等.2019年期刊公开发表的中国临床实践指南文献调查与评价——证据质量和推荐强 度[J]．协和医学杂志,2022,13(01):130-137.   
+$\Nu \tt { g } \mathrm { ~ J ~ Y ~ }$ ，Mohiuddin U.Quality of complementary and alternative medicine recommendations in low backpain guidelines: a systematic review[J]. Eur Spine J, 2020,29(8):1833-1844.   
+祝乾清，曾曼杰．国际中医临床实践指南 退变性腰椎管狭窄症(2019-10-10)[J]．世界中医药,2021,16(16):2371- 2374.   
+RikkeR,KrigerJR,SorenF,etal.Danish nationalclinical gidelines forsurgicaland nonsurgical treatmentofpatients with lumbar spinal stenosis.[J]. European spine journal $\because$ official publication of the European Spine Society, the European Spinal Deformity Society,and the European Section of the Cervical Spine Research Society,2019,28(6):1386-1396. KreinerDS,Shafer WO,Baisden JL,etal.An evidence-based clinical guideline for the diagnosisand treatmentof degenerative lumbar spinal stenosis (update)[J]. The Spine Journal, 2013,13(7):734-743.   
+André B,Carolina C,Carlo A,etal. Non-Surgical Interventions for Lumbar Spinal Stenosis Leading To Neurogenic Claudication: A Clinical Practice Guideline.[J]. The journal of pain, 2021,22(9):1015-1039.   
+Tomkins-Lane C,Melloh M,Lurie J,et al. Consensus on the Clinical Diagnosis ofLumbar Spinal Stenosis: Resultsof an International Delphi Study[J]. SPINE,2016,41(15):1239-1246.   
+R DT,SGJ,EPJ,etal.The MISTGuidelines: The Lumbar Spinal Stenosis Consensus Group Guidelines for Minimally Invasive Spine Treatment.[J].Pain practice : the oficial journal of World InstituteofPain,2018,19(3):250-274. Qi Z, Zijun W,Qianling S,et al. Clinical Epidemiology in China series.Paper 4: The reporting and methodological qualityof Chinese clinical practice guidelines published between 2014 and 2018: A Systematic Review.[J].Journal of clinical epidemiology,2021,140:189-199.   
+王琪．中国临床实践指南质量评价研究[D]．兰州大学,2017.   
+刘鸣，杨杰，王一平．对循证指南制定方法与临床应用的新思考[J].中国循证医学杂志,2009,9(02):127-128. R G,MM,DMW,et al. Clinical Practice Guidelines We Can Trust[M].National Academies Press（US）,2011. 谢雪婉，杨文登．注意缺陷多动障碍的循证治疗指南综述[J]．中国临床心理学杂志,2021,29(03):661-664.

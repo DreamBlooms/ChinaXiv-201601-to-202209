@@ -1,0 +1,162 @@
+# 锡尔河流域哈萨克斯坦境内农田土壤粒度特征及空间异质性
+
+贺静1²，吉力力·阿不都外力234，马龙234，GalymzhanSAPAROV3，Gulnura ISSANOVA3.6
+
+(1.新疆大学资源与环境科学学院,新疆乌鲁木齐830046；2.中国科学院新疆生态与地理研究所荒漠与绿洲生态国家重点实验室,新疆 乌鲁木齐830011；3.中国科学院中亚生态与环境研究中心,新疆 乌鲁木齐830011;  
+4.中国科学院大学,北京100049；5.哈萨克斯坦土壤与农业化学研究所,哈萨克斯坦 阿拉木图050060;  
+6.哈萨克斯坦国立大学地理与环境科学学院，哈萨克斯坦 阿拉木图050040)
+
+摘要：以锡尔河流域哈萨克斯坦境内农田土壤为研究对象,结合经典统计学和地统计学方法,开展了 $0 { \sim } 2 0 ~ \mathrm { c m }$ 土层土壤粒度特征及空间异质性研究。结果表明：(1）各子研究区内不同粒径土壤颗粒的分布特征较为相似,均以$0 . 2 5 { \sim } 0 . 0 5 ~ \mathrm { m m }$ 和 $0 . 0 5 { \sim } 0 . 0 1 ~ \mathrm { m m }$ 粒径颗粒的平均含量占比最高，除子区3中粒径为 $1 . 0 { \sim } 0 . 2 5 ~ \mathrm { m m }$ 土壤颗粒含量具有较强的变异性,其他各粒径土壤颗粒含量都具有中等程度变异性;(2)子区1中除粒径为 $1 . 0 { \sim } 0 . 0 5 ~ \mathrm { m m }$ 土壤颗粒以外，其他粒径土壤颗粒含量的块金系数均 ${ < } 4 0 \%$ ,子区2各粒径土壤颗粒含量块金系数均 ${ < } 5 0 \%$ ，子区3除粒径 $< 0 . 0 0 1 \ \mathrm { m m }$ 土壤颗粒以外，其他粒径土壤颗粒含量的块金系数均 ${ < } 4 0 \%$ ，表明各研究区内土壤颗粒组成已经受到不同程度随机性因素的影响;（3）利用克里金插值方法对研究区不同粒径土壤颗粒含量进行空间插值,插值结果表明研究区内不同粒径土壤颗粒含量在空间分布上表现出不同的分布特征。研究结果可为农田土壤的合理利用以及退化土壤改良提供科学依据。
+
+关键词：锡尔河流域；土壤粒度；空间异质性；半方差函数
+
+土壤是陆地生态系统中复杂的非均质部分，它不仅是连接其他环境元素的枢纽，也是无机物与生物相结合的中心环节，它主要是由成土母质经过一系列的物理、化学及生物作用的过程而形成2。土壤粒度作为土壤最重要的物理属性之一[3],它对土壤的持水性[4]、土壤养分[5]、土壤侵蚀[6及土壤风蚀[7]等都具有明显的影响，同时土壤粒度还是表征土壤荒漠化的指标之一[8]。土壤粒度作为时空连续的变异体,具有较强的空间异质性[9-10],土壤颗粒大小的空间变化决定了土壤粒度的异质性["],随着地统计学方法的不断完善，地统计学方法被认为是研究各土壤属性空间异质性最有效的方法[12],主要是通过考虑变量的自相关性和随机性因素来精确地评价变量的空间变异性，并已广泛地应用于土壤水分、土壤化学性质、土壤理化性质的分布特征及空间异质性的研究。近些年，国内外许多学者利用地统计学方法对土壤粒度进行了大量的研究，Dang等研究了乌兰布和沙漠白刺灌丛风蚀土壤颗粒的空间异质性，得出各粒径土壤颗粒空间自变异性主要是由结构因素引起的;樊立娟等[13]对河西走廊斑块植被区表层土壤粒径的空间变异性特征进行了研究，得出粗砂和细砂含量具有较强的空间自相关性，中砂和粉砂含量具有弱的空间自相关性； $\mathrm { H u }$ 等14研究了河西走廊荒漠绿洲过渡带表层土壤颗粒组成特征及其空间异质性，结果表明不同粒径土壤颗粒具有不同的空间异质性。
+
+自20世纪60年代开始，苏联在锡尔河流域哈萨克斯坦境内开展了大规模的农业活动，农田面积急速增加，长期的人类活动可能对研究区的土壤粒度组成分布产生了影响，而目前关于锡尔河流域土壤的研究主要集中在土壤水分5、土壤中重金属分布特征及土壤元素的组成特征等方面，对于锡尔河流域哈萨克斯坦境内农田土壤粒度的特征及空间异质性的研究却鲜有文献报道。本文以锡尔河流域哈萨克斯坦境内农田土壤作为研究区域，结合描述性统计方法和地统计学方法来研究该区域土壤粒度特征及空间异质性，为进一步研究该地区其他土壤属性提供参考，同时也为该地区农田土壤的合理利用以及农业结构的调整提供科学依据
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+锡尔河(SyrDaryaRiver)是中亚第二大河流，总面积超 $5 \times 1 0 ^ { 5 } ~ \mathrm { k m } ^ { 2 }$ ，同时也是咸海主要补给河流之一，它是由起源于吉尔吉斯坦的纳伦河和卡拉达里亚河支流汇合而成,最终流入咸海[18]。锡尔河中下游主要包括乌兹别克斯坦、哈萨克斯坦及吉尔吉斯斯坦3个国家，人口大约为 $1 . 5 { \times } 1 0 ^ { 7 [ 1 9 ] }$ 。研究区具体位置在哈萨克斯坦的南部区域，位于锡尔河流域的中下游地区，主要占据着哈萨克斯坦的南哈萨克斯坦州（South Kazakhstan）和克孜勒奥尔达州（Kyzy-lorda），锡尔河流域中下游区域平均海拔较低，夏季炎热干燥，冬季寒冷少雪，四季和昼夜温差较大，属于典型的干旱大陆性气候。
+
+根据农田灌溉区的地理位置及地形情况，将研究区域划分为3个子研究区(图1)。在锡尔河中游的萨达拉(Shardara)等地区，农田分布较为集中，将位于萨达拉等地的研究区命名为子区1，子区1年总降水量约为 $3 4 3 . 2 ~ \mathrm { m m }$ ,平均气温为 $1 5 . 8 \ \mathrm { { ^ { \circ } C ^ { [ 2 0 ] } } }$ ,主要以种植棉花为主[2],根据世界土壤数据库(HWSDv1.2)22]分类标准，子区1土壤为人为土和潜育土；下游的克孜勒奥尔达市(Kyzylorda)等地的研究区农田灌溉区命名为子区2,年总降水量约为 $1 3 8 . 7 \ : \mathrm { m m }$ ，平均气温为 $1 1 . 6 \mathrm { { ^ { \circ } C ^ { [ 2 0 ] } } }$ ,子区2的土壤主要为潜育土[22]。下游的卡扎雷(Kazaly)等地的研究区农田灌溉区命名为子区3,子区3年总降水量约为 $1 2 7 . 8 ~ \mathrm { m m }$ ，平均气温为 $1 0 . 7 \ \mathrm { { ^ { \circ } C ^ { [ 2 0 ] } } }$ ,子区3的土壤为沙土和钙积土[22];；下游的2个农田灌溉区(子区2和子区3)主要以种植水稻为主[23-24]。3个子区的年总降水量和平均气温均取2011—2020年多年平均值。研究区土地利用分类(图1)从全球陆地覆盖数据(Globcover2009）(http://due.esrin.esa.int/page_globcover.php)中获取。
+
+# 1.2 研究方法
+
+1.2.1样品采集与测定从锡尔河中下游3个集中的农田灌溉区内共采集表层 $0 { \sim } 2 0 ~ \mathrm { c m }$ 土壤样品218份，其中，子区184份，子区244份，子区390份。
+
+![](images/ad1eb5b64a1d127094d1245b82c2ad8b9b95dbd38c6e36d912b4c664aaabc90f.jpg)  
+图1土地利用分类和采样点位置  
+Fig.1 Land use classification and location map of sampling points
+
+将采集的土壤样品装入密封袋带回实验室，去除样品中的碎石以及杂物，然后再经过风干、除去有机质、脱钙处理后，过 $1 \mathrm { m m }$ 筛后，采用移液管法测定土壤粒度，并将土壤粒度划分为6个等级，即1.0\~0.25$\mathrm { m m } , 0 . 2 5 { \sim } 0 . 0 5 ~ \mathrm { m m } , 0 . 0 5 { \sim } 0 . 0 1 ~ \mathrm { m m } , 0 . 0 1 { \sim } 0 . 0 0 5 ~ \mathrm { m m } .$ $0 . 0 0 5 { \sim } 0 . 0 0 1 ~ \mathrm { m m } \cdot < 0 . 0 0 1 ~ \mathrm { m m }$ 。土壤粒度的测量在哈萨克斯坦土壤与农业化学研究所完成。
+
+1.2.2数据处理与分析地统计学方法被认为是研究土壤属性空间异质性最有效的方法，半方差函数作为地统计学方法的基本工具，是描述土壤性质空间变异结构的函数25，用半方差函数计算不同粒径土壤颗粒含量的最佳理论模型及相关参数，其计算公式为：
+
+$$
+\gamma ( h ) = \frac { 1 } { 2 N ( h ) } { \sum _ { t = 1 } ^ { N ( h ) } } \big [ Z \big ( x _ { i } \big ) - Z \big ( x _ { i } + h \big ) \big ] ^ { 2 }
+$$
+
+式中： $\gamma ( h )$ 为半方差; $h$ 为两样本间的分离间距;$N ( h )$ 是以 $h$ 为间距的所有观测点成对的对数; $Z { \big ( } x _ { i } { \big ) }$ 和 $Z { \left( x _ { i } + h \right) }$ 分别是 $x _ { i }$ ， $x _ { i } + h$ 处的观测值[26]
+
+本文使用SPSS26.0软件对土壤粒度进行描述性统计分析及数据检验，采用 $\mathrm { G S ^ { \ast } } 9 . 0 \$ 软件对数据进行半方差函数计数及模型拟合，利用克里格插值法对未采样地区进行插值，并绘制空间分布图。
+
+# 2结果与分析
+
+# 2.1土壤粒度空间分布统计特征描述
+
+描述性统计分析能够反映土壤粒度总体的空间变异特征，但不能对土壤粒度空间结构的变异进行分析，但描述性统计分析是进一步分析土壤粒度空间异质性的前提[13]。在了解土壤粒度的空间结构前，首先需要利用经典统计方法对数据进行分析，以便掌握土壤粒度的基本特征；最小值、最大值、平均值、标准差和变异系数能够很好地描述土壤粒度的可变性[2]。利用SPSS26.0软件计算出各土壤样品不同粒径土壤颗粒的最小值、最大值、平均值、标准差，计算结果见表1。
+
+根据表1的统计结果表明，3个子研究区土壤粒度组成较为相似，对于3个子研究区而言，粒径为$0 . 2 5 { \sim } 0 . 0 5 ~ \mathrm { m m }$ 和 $0 . 0 5 { \sim } 0 . 0 1 ~ \mathrm { m m }$ 土壤颗粒平均值含量最大，这两种粒径土壤颗粒含量占总组成的 $6 0 \%$ 左右，表明研究区农田土壤中主要以粒径为 $0 . 2 5 \mathrm { \sim } 0 . 0 5$ $\mathbf { m } \mathbf { m }$ 和 $0 . 0 5 { \sim } 0 . 0 1 \ \mathrm { m m }$ 土壤颗粒为主，其中粒径为$0 . 2 5 { \sim } 0 . 0 5 ~ \mathrm { m m }$ 土壤颗粒的平均值含量最大，占 $3 5 \%$ 左右，粒径为 $0 . 0 5 { \sim } 0 . 0 1 ~ \mathrm { m m }$ 土壤颗粒平均值含量在$2 1 . 2 0 \% { \sim } 3 0 . 4 0 \%$ ;其次是粒径为 $< 0 . 0 0 1 \ \mathrm { m m }$ 和 $0 . 0 0 5 \sim$
+
+表1 $\mathbf { 0 } { \sim } 2 \mathbf { 0 } ~ \mathbf { c m }$ 土层不同粒径土壤颗粒的描述性统计特征  
+Tab.1Descriptive statistical characteristics of soil particles with different particle sizes in $\mathbf { 0 - 2 0 ~ c m }$ soillayer   
+
+<html><body><table><tr><td>区域</td><td>粒径范围/mm</td><td>最大值/%</td><td>最小值/%</td><td>平均值/%</td><td>标准差</td><td>变异系数/%</td><td>数据变换</td></tr><tr><td>子区1</td><td>1.0~0.25</td><td>2.00</td><td>0.04</td><td>0.42</td><td>0.41</td><td>97.62</td><td>对数</td></tr><tr><td></td><td>0.25~0.05</td><td>71.78</td><td>10.13</td><td>34.34</td><td>16.38</td><td>47.70</td><td>一</td></tr><tr><td></td><td>0.05~0.01</td><td>64.62</td><td>0.81</td><td>30.40</td><td>16.03</td><td>52.73</td><td>1</td></tr><tr><td></td><td>0.01~0.005</td><td>15.74</td><td>0.00</td><td>5.81</td><td>3.54</td><td>60.93</td><td>开根号</td></tr><tr><td></td><td>0.005~0.001</td><td>24.96</td><td>1.23</td><td>11.75</td><td>3.63</td><td>30.89</td><td>开根号</td></tr><tr><td></td><td><0.001</td><td>24.62</td><td>7.27</td><td>17.28</td><td>3.32</td><td>19.21</td><td>1</td></tr><tr><td>子区2</td><td>1.0~0.25</td><td>1.12</td><td>0.02</td><td>0.46</td><td>0.25</td><td>54.35</td><td>对数</td></tr><tr><td></td><td>0.25~0.05</td><td>76.63</td><td>8.71</td><td>36.21</td><td>18.86</td><td>52.08</td><td>1</td></tr><tr><td></td><td>0.05~0.01</td><td>55.69</td><td>2.82</td><td>25.96</td><td>17.10</td><td>65.87</td><td>开根号</td></tr><tr><td></td><td>0.01~0.005</td><td>12.96</td><td>1.61</td><td>5.38</td><td>2.29</td><td>42.56</td><td>1</td></tr><tr><td></td><td>0.005~0.001</td><td>24.30</td><td>2.01</td><td>12.68</td><td>4.32</td><td>34.07</td><td>1</td></tr><tr><td></td><td><0.001</td><td>30.94</td><td>9.65</td><td>19.30</td><td>3.75</td><td>19.43</td><td>开根号</td></tr><tr><td>子区3</td><td>1.0~0.25</td><td>21.29</td><td>0.08</td><td>2.30</td><td>3.45</td><td>150.0</td><td>对数</td></tr><tr><td></td><td>0.25~0.05</td><td>75.61</td><td>4.87</td><td>35.00</td><td>18.76</td><td>53.60</td><td>对数</td></tr><tr><td></td><td>0.05~0.01</td><td>55.52</td><td>0.00</td><td>21.20</td><td>14.59</td><td>68.82</td><td>开根号</td></tr><tr><td></td><td>0.01~0.005</td><td>27.40</td><td>0.00</td><td>8.13</td><td>5.26</td><td>64.70</td><td>一</td></tr><tr><td></td><td>0.005~0.001</td><td>43.24</td><td>0.80</td><td>15.81</td><td>8.47</td><td>53.57</td><td></td></tr><tr><td></td><td><0.001</td><td>41.94</td><td>0.80</td><td>17.54</td><td>8.00</td><td>45.61</td><td>一 二</td></tr></table></body></html>
+
+$0 . 0 0 1 \ \mathrm { m m }$ 土壤颗粒，其中粒径 $< 0 . 0 0 1 \ \mathrm { m m }$ 土壤颗粒平均值含量在 $1 7 . 2 8 \% { \sim } 1 9 . 3 0 \%$ ,粒径为 $0 . 0 0 5 { \sim } 0 . 0 0 1$ $\mathbf { m } \mathbf { m }$ 土壤颗粒平均值含量在 $1 1 . 7 5 \% { \sim } 1 5 . 8 1 \%$ ;最后依次是粒径为 $0 . 0 1 { \sim } 0 . 0 0 5 ~ \mathrm { m m }$ 和 $1 . 0 { \sim } 0 . 2 5 ~ \mathrm { m m }$ 的土壤颗粒，其中粒径为 $1 . 0 { \sim } 0 . 2 5 ~ \mathrm { m m }$ 土壤颗粒平均值含量最小,其含量的平均值在 $0 . 4 2 \% { \sim } 2 . 3 0 \%$ 。在3个子研究区内，不同粒径土壤颗粒平均值含量相差较小，表明3个子研究区的土壤粒度组成相似。
+
+变异系数 $( C _ { \mathrm { v } } )$ 是各粒径土壤颗粒含量的标准差与平均值之间的百分比，能有效反映土壤颗粒含量的相对变异,即区域化随机变量的离散程度[14]。在土壤学研究中，将土壤性质的变异强弱分为以下3种： $C _ { \mathrm { v } } { < } 1 0 \%$ 为弱变异， $1 0 \% < C _ { \mathrm { v } } < 1 0 0 \%$ 为中等变异性，$C _ { \mathrm { v } } { > } 1 0 0 \%$ 为强变异性[27]。除子区3中粒径为 $1 . 0 \sim$ $0 . 2 5 \mathrm { m m }$ 土壤颗粒含量的变异系数 $C _ { \mathrm { v } } { > } 1 0 0 \%$ ,具有强的变异性，其他粒径土壤颗粒含量的变异系数均在$10 \% { \sim } 1 0 0 \%$ ,具有中等程度的变异性。
+
+根据土壤粒径分级标准，粒径 $1 . 0 { \sim } 0 . 0 5 ~ \mathrm { m m }$ 为砂粒, $0 . 0 5 { \sim } 0 . 0 0 5 ~ \mathrm { m m }$ 为粉粒, $< 0 . 0 0 5 \mathrm { m m }$ 为黏粒[28]。按照这个土壤粒径分级标准，子区1中农田表层0\~20cm土壤中砂粒：粉粒：黏粒 $= 3 4 . 7 6 \%$ ： $3 6 . 2 1 \%$ ：$2 9 . 0 3 \%$ ，子区2中土壤颗粒砂粒：粉粒：黏粒 $\mathbf { \Sigma } = \mathbf { \Sigma }$ $3 6 . 6 7 \% : 3 1 . 3 4 \% : 3 1 . 9 8 \%$ ,子区3中土壤颗粒砂粒：粉粒：黏粒 $= 3 7 . 3 \% : 2 9 . 3 3 \% : 3 3 . 3 5 \% , 3$ 个子研究区中砂粒、粉粒和黏粒含量相差都不太大，分别占 $30 \%$ 左右。根据Funakawa等[29]在1990s时期对锡尔河流域的农田土壤的研究表明，子区1中的农田种植区域表层 $0 { \sim } 2 0 ~ \mathrm { c m }$ 土壤中主要以砂粒和粉粒( $( 3 9 . 9 \%$ ，$4 2 . 5 \%$ )为主，对比可以发现，砂粒和粉粒含量明显减少，黏粒含量增加;在子区3中的农田种植区域表层 $0 { \sim } 1 4 ~ \mathrm { c m }$ 土壤中以粉粒和黏粒 $( 5 0 . 7 \% , 4 3 . 8 \%$ 为主，比较可以发现，粉粒和黏粒含量明显减少，砂粒含量增加。锡尔河中游的子区1地区土壤质地主要是以粉砂质黏壤土、砂质黏壤土和黏壤土为主，下游的子区2土壤质地主要是以砂质黏土和黏壤土为主，下游的子区3土壤质地主要是土壤质地以黏土、黏土壤和砂质黏土为主。
+
+对不同粒径土壤颗粒含量进行空间变异分析时，需要对原始数据进行正态分布检验。对不服从正态分布的实验数据进行对数转换和平方根转换后，然后再利用 SPSS26.0软件中的Kolmogorov-
+
+Smirmov(K-S)方法对转换后的数据进行正态分布检验，检验结果证明均服从正态分布。
+
+2.2土壤粒度空间异质性及其影响因素研究块金值 $( C _ { 0 } )$ 、基台值( $\cdot C _ { 0 } { + } C )$ 及变程(A)组成变异函数曲线[30]，块金值 $( C _ { 0 } )$ 与基台值( $\cdot C _ { 0 } { + } C )$ 的比值称为块金系数 $\stackrel { \prime } { C _ { 0 } } / C _ { 0 } + C )$ ,块金系数的大小能够有效的表明土壤颗粒含量的空间自相关性程度，当块金系数 $< 2 5 \%$ 时,表明变量具有较强的空间自相关性,变异主要是由结构性因素(地形、降水、气候、母质类型等非人为因素)所引起，当块金系数在 $2 5 \% { \sim } 7 5 \%$ 范围内，表明变量具有中等程度的空间自相关性，当块金系数 $> 7 5 \%$ 时,表明变量具有弱的空间自相关性,变异主要是随机因素(耕作方式、灌溉、土壤改良等人为因素)所引起[2,31]。从表2可知，在子区1中，粒径为 $1 . 0 { \sim } 0 . 2 5 ~ \mathrm { m m }$ 和 $0 . 2 5 { \sim } 0 . 0 5 ~ \mathrm { m m }$ 土壤颗粒含量的块金系数为 $100 \%$ ,表明这两种粒径土壤颗粒的空间自相关性完全是由随机性因素引起;粒径为 $0 . 0 1 { \sim } 0 . 0 0 5 ~ \mathrm { m m }$ 和 $0 . 0 0 5 { \sim } 0 . 0 0 1 ~ \mathrm { m m }$ 土壤颗粒含量的块金系数分别为 $3 8 . 2 6 \%$ 和 $3 6 . 0 9 \%$ ,说明这两种粒径土壤颗粒具有中等程度的空间自相关性;粒径为$0 . 0 5 { \sim } 0 . 0 1 ~ \mathrm { m m }$ 和 $< 0 . 0 0 1 \ \mathrm { m m }$ 土壤颗粒含量的块金系数分别为 $0 . 1 8 \%$ 和 $1 8 . 3 6 \%$ ,表明这两种粒径土壤颗粒的空间自相关性非常强。在子区2中，粒径为$1 . 0 { \sim } 0 . 2 5 ~ \mathrm { m m } . 0 . 0 5 { \sim } 0 . 0 1 ~ \mathrm { m m }$ 和 $0 . 0 0 5 { \sim } 0 . 0 0 1 ~ \mathrm { m m }$ 土壤颗粒含量的块金系数均小于 $2 5 \%$ ,因此该粒径土壤颗粒的空间变异主要是由结构性因素引起,其他粒径范围土壤颗粒含量的块金系数值均在 $2 5 \% { \sim } 7 5 \%$ 范围以内,表明它们具有中等程度的空间自相关性。在子区3中,粒径为 $0 . 0 5 { \sim } 0 . 0 1 ~ \mathrm { m m }$ 和 $< 0 . 0 0 1 \ \mathrm { m m }$ 土壤颗粒含量的块金系数分别为 $3 7 . 8 5 \%$ 和 $7 1 . 2 0 \%$ ，表明这两种粒径土壤颗粒具有中等程度的空间自相关性;剩余粒径土壤颗粒含量的块金系数均小于$2 5 \%$ ,表明这些粒径土壤颗粒具有较强的空间自相关性。土壤颗粒含量的空间异质性是由结构性因素和随机性因素共同作用所导致，从本研究可以推断,随机性因素是导致土壤颗粒空间异质性的主要因素，因此,进一步说明在长期的人为因素(耕作方式、灌溉、土壤改良等)的作用下,已经使各子研究区土壤颗粒含量空间自相关性受到不同程度的影响。
+
+# 2.3空间插值分析
+
+通过克里格插值方法，对不同粒径土壤颗粒含量进行空间插值。在子区1(图2)， $1 . 0 { \sim } 0 . 2 5 ~ \mathrm { m m }$ 土壤颗粒含量从中心到外围呈现增长的带状闭合曲线，低值区出现在西北和东南位置； $0 . 2 5 { \sim } 0 . 0 5 ~ \mathrm { m m }$ 土壤颗粒含量的空间分布表现出从南到北呈增长的趋势，与 $0 . 0 5 { \sim } 0 . 0 1 \ \mathrm { m m }$ 土壤颗粒含量空间分布相反； $0 . 0 1 { \sim } 0 . 0 0 5 ~ \mathrm { m m }$ 土壤颗粒含量高值区位于南部，颗粒的分布从南部向四周逐渐减少; $0 . 0 0 5 { \sim } 0 . 0 0 1$ $\mathbf { m } \mathbf { m }$ 和 $< 0 . 0 0 1 \ \mathrm { m m }$ 土壤颗粒含量的空间分布表现出从东往西呈减少的趋势。
+
+表2 $\mathbf { 0 } { \sim } 2 \mathbf { 0 } ~ \mathbf { c m }$ 土层中不同粒径范围土壤颗粒的变异函数理论模型及相关参数  
+Tab.2Oretical model of variation function and related parameters of soil particles with different particle size ranges in $\mathbf { 0 - 2 0 ~ c m }$ soil layer   
+
+<html><body><table><tr><td></td><td>粒径范围/mm</td><td>理论模型</td><td>块金值Co</td><td>基台值Co+C</td><td>块金系数C/Co+C/%</td><td>变程A/km</td><td>决定系数R</td><td>残差RSS</td></tr><tr><td rowspan="5">子区1</td><td>1.0~0.25</td><td>L</td><td>0.5514</td><td>0.5514</td><td>100</td><td>114.30</td><td>0.083</td><td>0.179</td></tr><tr><td>0.25~0.05</td><td>L</td><td>0.0623</td><td>0.0623</td><td>100</td><td>114.30</td><td>0.002</td><td>7.77E-04</td></tr><tr><td>0.05~0.01</td><td>E</td><td>0.0001</td><td>0.0546</td><td>0.18</td><td>9.00</td><td>0.138</td><td>3.07E-04</td></tr><tr><td>0.01~0.005</td><td>S</td><td>0.269</td><td>0.703</td><td>38.26</td><td>53.70</td><td>0.622</td><td>0.119</td></tr><tr><td>0.005~0.001</td><td>G</td><td>0.1206</td><td>0.3342</td><td>36.09</td><td>61.83</td><td>0.43</td><td>0.104</td></tr><tr><td rowspan="5">子区2</td><td><0.001</td><td>G</td><td>4.75</td><td>25.87</td><td>18.36</td><td>184.46</td><td>0.804</td><td>86.1</td></tr><tr><td>1.0~0.25</td><td>E</td><td>0.0023</td><td>0.035</td><td>6.57</td><td>4.20</td><td>0.029</td><td>1.40E-03</td></tr><tr><td>0.25~0.05</td><td>E</td><td>0.0373</td><td>0.0806</td><td>46.28</td><td>46.50</td><td>0.209</td><td>6.07E-03</td></tr><tr><td>0.05~0.01</td><td>E</td><td>0.126</td><td>2.914</td><td>4.32</td><td>6.60</td><td>0.079</td><td>10.2</td></tr><tr><td>0.01~0.005</td><td>E</td><td>3.2</td><td>6.806</td><td>47.02</td><td>104.10</td><td>0.172</td><td>55.9</td></tr><tr><td rowspan="6">子区3</td><td>0.005~0.001</td><td>S</td><td>0.01</td><td>11.62</td><td>0.09</td><td>3.51</td><td>0.009</td><td>544</td></tr><tr><td><0.001</td><td>S</td><td>0.0791</td><td>0.1592</td><td>49.69</td><td>101.70</td><td>0.122</td><td>0.039</td></tr><tr><td>1.0~0.25</td><td>S</td><td>0.001</td><td>0.832</td><td>0.12</td><td>10.60</td><td>0.277</td><td>0.67</td></tr><tr><td>0.25~0.05</td><td>E</td><td>0.0001</td><td>0.2742</td><td>0.04</td><td>7.50</td><td>0.17</td><td>0.034</td></tr><tr><td>0.05~0.01</td><td>E</td><td>1.93</td><td>5.099</td><td>37.85</td><td>341.70</td><td>0.446</td><td>2.93</td></tr><tr><td>0.01~0.005</td><td>E</td><td>0.01</td><td>0.801</td><td>1.25</td><td>2.70</td><td>0.01</td><td>0.184</td></tr><tr><td></td><td>0.005~0.001</td><td>E</td><td>0.0032</td><td>0.0377</td><td>8.49</td><td>3.90</td><td>0.016</td><td></td></tr><tr><td></td><td><0.001</td><td>L</td><td>0.0274</td><td>0.038412</td><td>71.20</td><td>61.58</td><td>0.381</td><td>1.13E-03 2.63E-04</td></tr></table></body></html>
+
+注:G代表高斯模型(Gsusian model);S代表球状模型(Spherical model);L代表线状模型(Linear model);E代表指数模型(Exponential model)。
+
+在子区2（图3）， $1 . 0 { \sim } 0 . 2 5 ~ \mathrm { m m }$ 土壤颗粒含量的空间分布，从西南向东北位置逐渐减少，高值区分布在西南位置； $0 . 2 5 { \sim } 0 . 0 5 ~ \mathrm { m m }$ 土壤颗粒含量高值区主要分布在西北和中部，从西北和中部向四周逐渐减少； $0 . 0 5 { \sim } 0 . 0 1 ~ \mathrm { m m }$ 土壤颗粒含量高值区主要分布在东南位置，并从东南部向西北部呈减少趋势;$0 . 0 1 { \sim } 0 . 0 0 5 ~ \mathrm { m m }$ 土壤颗粒含量的高值区分布在北部某一小块区域，分布趋势从四周向中间减少； $0 . 0 0 5 \sim$ $0 . 0 0 1 \ \mathrm { m m }$ 和 $< 0 . 0 0 1 \ \mathrm { m m }$ 土壤颗粒含量的高值区分布在西北部的某一小块区域，低值区占据了该区域大部分面积。
+
+在子区3(图4)， $1 . 0 { \sim } 0 . 2 5 ~ \mathrm { m m }$ 土壤颗粒含量高值区分布在中部， $0 . 2 5 { \sim } 0 . 0 5 ~ \mathrm { m m }$ 土壤颗粒含量高值区分布在西南位置和北部的某一小块区域， $0 . 0 5 \sim$ $0 . 0 1 \ \mathrm { m m }$ 土壤颗粒含量高值区分布在中部和东部，这3种粒径土壤颗粒含量的分布都是从高值区向四周逐渐减少； $0 . 0 1 { \sim } 0 . 0 0 5 ~ \mathrm { m m }$ 土壤颗粒含量的空间分布从西南向东北逐渐减少； $0 . 0 0 5 { \sim } 0 . 0 0 1 ~ \mathrm { m m }$ 和 $<$ $0 . 0 0 1 \ \mathrm { m m }$ 土壤颗粒含量的高低值区则分布在东南位置，而低值区分布较为分散。
+
+# 3讨论
+
+本研究通过分析得出，子区1农田灌溉区主要以种植棉花为主；子区2和子区3农田灌溉区主要以种植水稻为主，在3个子研究区中砂粒、粉粒、黏粒分别占 $3 0 \%$ 左右，表明土壤粒度组成受植被种植类型的影响不大；从变异系数而言，研究区土壤粒度组成分布具有中等程度变异；从块金系数比值可以了解到，研究区土壤粒度组成具有中等程度的空间自相关性，已经受到了不同程度随机性因素的影响。通过与Funakawa等[29]在1990s时期对研究区土壤粒度组成研究进行比较得出，在子区1中，砂粒和粉粒降低，黏粒含量增加，从20世纪80年代初，中亚地区棉花和水稻种植迅速增加，南哈萨克斯坦州作为该国主要且唯一的棉花种植区[21],棉花的种植有可能使研究区的土壤粒度组成发生了改变，因为植物根系能够分泌一种改变土壤理化性质的有机酸，它能提高土壤黏结性以及土壤结构的稳定性，在植物根系作用下会使土壤颗粒细化[32],从而使表层土壤中黏粒含量增加；而在子区3中，土壤中砂粒含量显著增加，黏粒含量显著减少，当土壤中砂粒和黏粒比增加时，表明土壤风蚀沙漠化现象已经逐渐突出，锡尔河下游的克孜勒奥尔达州主要是以种植水稻为主，且该国 $9 0 \%$ 的水稻种植在于克孜勒奥尔达州[23，长期的水稻种植可能使该地区土壤粒度组成发生了改变，因为土壤耕作年限的增加会破坏土壤的自我调节功能，从而使土壤不断砂化，根据买合皮热提·吾拉木等33研究结果表明，随着种植年限的增加，使表层土壤中砂粒含量值增加，粉粒和黏粒含量值逐渐降低，这表明种植年限的增加可能使研究区的土壤逐渐砂化。
+
+![](images/3a32db03b2d8926ee275f90fb5bfe0313941206e3b64ca8d13dccd848502f16b.jpg)  
+图2子区1表层土壤不同粒径范围土壤颗粒克里金插值  
+Fig.2Kriging interpolation of soil particles in diferent particle size ranges of topsoil in subzone 1
+
+![](images/abc3e1c87ac7886ac390b03bb9d2ba72278c12b76995f1d41880a48a00bedef3.jpg)  
+图3子区2表层土壤不同粒径范围土壤颗粒克里金插值  
+Fig.3Kriging interpolation of soil particles in different particle size ranges of topsoil in subzone 2
+
+土壤粒度组成是影响土壤盐分离子在土壤中分布的重要因素，由于土壤粒度组成决定了土壤的孔隙大小以及土壤结构类型，从而影响土壤中盐分的迁移,根据Wang等[34]研究表明,土壤粒度组成发生改变会直接影响土壤中盐浓度的分布，土壤中的粉粒和黏粒含量能够影响表层土壤中的盐离子的分布，而砂粒含量能够影响深层土壤中的盐离子分布。由于砂粒颗粒较粗，颗粒间的孔隙较大，渗透性和排水性较好，因此有助于土壤的脱盐，但保水能力和保肥能力较低；而黏粒的颗粒较细，具有较强的吸附性，孔隙多孔径小，通气和渗透能力较差，在强蒸发作用下会使盐分积聚在地表，因此黏粒含量对土壤盐分分布影响更大，根据杜金龙等[35研究表明，土壤中盐分离子的分布主要是受黏粒含量的影响，而对于盐分较高的盐渍土，土壤中盐分离子的分布主要是受砂粒含量的影响。克孜勒奥尔达州 $100 \%$ 的灌溉区和南哈萨克斯坦州 $6 7 . 8 \%$ 的地区属于中度盐渍化和高盐渍化[3],因此在研究区进行土壤粒度研究有助于为该研究区土壤盐渍化防治和土壤肥力控制提供理论依据。
+
+![](images/e8febd670dbfad9801c635cefbf45312fdc31916971d12a9fe832505cde43778.jpg)  
+图4子区3表层土壤不同粒径范围土壤颗粒克里金插值  
+Fig.4Kriging interpolation of soil particles in diferent particle size ranges of topsoil in subzone 3
+
+# 4结论
+
+以锡尔河流域哈萨克斯坦境内农田土壤为研究区，通过野外采样和实验分析相结合的方法，对研究区表层土壤粒度特征及空间异质性进行研究，研究结果表明：
+
+（1）各子研究区域表层土壤粒度组成在流域尺度上表现出相似的分布特征，主要以 $0 . 2 5 { \sim } 0 . 0 5 ~ \mathrm { m m }$ 和 $0 . 0 5 { \sim } 0 . 0 1 ~ \mathrm { m m }$ 粒径颗粒为主，占土壤粒度组成的$6 0 \%$ 左右，除子区3中 $1 . 0 { \sim } 0 . 2 5 ~ \mathrm { m m }$ 的土壤颗粒具有较强的变异性，其他粒径土壤颗粒均具有中等程度的变异性。
+
+(2）通过变异函数计算结果表明，3个子研究区各粒径土壤颗粒含量符合不同的变异函数理论模型，并且具有不同程度的空间自相关性。除子区1中粒径为 $1 . 0 { \sim } 0 . 0 5 ~ \mathrm { m m }$ 土壤颗粒含量受随机性因素的影响具有弱的空间自相关性，各子研究区内不同粒径土壤颗粒含量具有中等或较强的空间自相关性。研究区土壤粒度组成由于受到随机性因素如农田耕作的影响，使研究区土壤粒度组成发生了改变，农田耕作可能是影响研究区土壤粒度组成空间异质性的重要因素。
+
+（3）土壤粒度组成的空间插值表明，在各子研究区内不同粒径土壤颗粒含量的空间分布格局差异较大，不同粒径土壤颗粒含量的空间分布呈现出无规则的带状和斑块状分布，高值区和低值区分布较为分散，无明显的分布规律。
+
+# 参考文献(References):
+
+[1]Hu HC,Tian FQ,Hu HP.Soil particle size distribution and its relationship with soil water and salt under mulched drip irrigation in Xinjiang of China[J]. Science China,2011,54(6): 1568-1574.   
+[2]Zhang Z H, Hu B Q,Hu G.Spatial heterogeneity of soil chemical properties in a subtropical karst forest, Southwest China[J]. The Scientific World Journal,2014: 473651.   
+[3]Bayat H, Rastgou M,Nemes A,et al. Mathematical models for soil particle-size distribution and their overall and fraction-wise fitting to measurements[J].European Journal of Soil Science,2O17,68 (3): 345-364.   
+[4]张杰,高鹏,孙会敏,等.鲁中南山地典型植被土壤颗粒与土壤 水分特征曲线的分形学特征[J].中国水土保持科学,2013,11 (1): 75-81.[Zhang Jie,Gao Peng, Sun Huimin,et al. Fractal characteristics of soil particles and soil water retention curve under typical vegetations in mountainous land of central southern Shandong[J]. Science of Soil and Water Conservation,2O13,11(1): 75-81.]   
+[5]Tumelo N,Olaleye A O,Mating R. Spatial heterogeneity of soil physico-chemical properties in contrasting wetland soils in two agroecological zones of Lesotho[J]. Soil Research,2012,50(7): 579-587.   
+[6]Dang XH,Pan X,Gao Y,et al. Spatial heterogeneity of wind-eroded soil particles around Nitraria tangutorum nebkhas in the Ulan Buh Desert[J]. Ecoscience,2019,26(4): 1-12.   
+[7]赵鹏,朱淑娟,段晓峰,等.民勤绿洲边缘阻沙带表层土壤粒度 空间分布特征[J].干旱区研究,2021,38(5):1335-1345.[Zhao Peng,Zhu Shujuan,Duan Xiaofeng,et al. Spatial distribution characteristics of grain size of surface soil in the sand-resitant belt of Minqin Oasis marginal[J].Arid Zone Research,2021,38(5): 1335- 1345.]   
+[8]Bogunovic I,Pereira P,Brevik E C.Spatial distribution of soil chemical properties in an organic farm in Croatia[J]. Science of The Total Environment,2017,62(1): 535-545.   
+[9]丁延龙,蒙仲举,高永,等.荒漠草原风蚀地表颗粒空间异质特 征[J].水土保持通报,2016,36(2):59-64.[Ding Yanlong,Meng Zhongju,Gao Yong,et al. Heterogeneity of soil particles in word erosion surface of desert steppe[J].Bulletin of Soil and Water Conservation,2016,36(2): 59-64.]   
+[10] 王幼奇,白一茹,王建宇.引黄灌区不同尺度农田土壤重金属空 间分布及污染评价：以银川市兴庆区为例[J].环境科学,2014, 35(7): 2714-2720.[Wang Youqi,Bai Yiru, Wang Jianyu.Distribution of soil heavy metal and polltion evaluation on the different sampling scales in farmland on Yellow River irrigation area of ningxia: Acase study in Xingqing County of Yinchuan City[J]. Environmental Science,2014,35(7): 2714-2720.]   
+[11]Wang HL, Gao JL, Yuan WJ, et al. Spatially heterogeneous char acteristics of surface soil particles around nebkhas in the Gobi Desert[J]. Chinese Journal of Plant Ecology,2013,37(5): 464-473.   
+[12] 刘文,吴敬禄,马龙.乌兹别克斯坦表层土壤元素含量与空间结 构特征初步分析[J].农业环境科学学报,2013,32(2):282-289. [Liu Wen,Wu Jinglu,Ma Long.An initial analysis of topsoil element contentsanditsspatialdistribution in Uzbekista[J]. Journal of Agro-Environmental Science,2013,32(2): 282-289.]   
+[13] 樊立娟,胡广录,廖亚鑫,等.河西走廊斑块植被区表层土壤粒 径及其分形维数的空间变异特征[J].干旱区研究,2015,32(6): 1068-1O75.[Fan Lijuan,Hu Guanglu,Liao Yaxin,et al. Spatial variability of soil particle size and its fractal dimension of patchy vegetation in Hexi Corridor[J].Arid Zone Research,2O15,32(6): 1068-1075.]   
+[14]Hu G L,Fan L J, Wang D J,et al. Spatial heterogeneity of surface soil particles of patch vegetation in desert-oasis ecotone[J]. Journal of Lanzhou Jiaotong University,2013,32(6):159-164.   
+[15] 王浩,罗格平,王伟胜,等.基于多源遥感数据的锡尔河中下游 农田土壤水分反演[J].自然资源学报,2019,34(12):229-243. [Wang Hao, Luo Geping,Wang Weisheng,et al. Inversion of soil moisture content in the farmland in middle and lower reaches of Syr Darya River Basin based on multi-source remotely sensed data [J]. Journal of Natural Resources,2019,34(12): 229-243.]   
+[16]Ma L,Abuduwaili J, Smanov Z,et al. Spatial and vertical variationsand heavy metal enrichments in irigated soils of the Syr Darya River watershed,Aral Sea Basin,Kazakhstan[J]. International Journal of Environmental Research and Public Health, 2019, 16(22): 4398-4413.   
+[17] 刘文,吴敬禄,曾海鳌,等.哈萨克斯坦东部土壤元素组成及其 空间影响因素分析[J].地球环境学报,2013(1):1222-1229. [Liu Wen,Wu Jinglu, Zeng Hai’ao,et al. The inital analysis of topsoil element contents and spatial influencing factors in East Kazakhstan[J]. Journal of Earth Environment,2013(1): 1222-1229.]   
+[18]Eyeberenov S,Cao B J,LiF T.Problems of Syrdarya river basin management[J]. Frontiers of Environmental ence & Engineering in China,2009,3(2): 221-225.   
+[19] Zhai XB,Li YP,Liu YR,et al.Assessment of the effects of human activity and naturalcondition on the outflow of Syr Darya River: A stepwise-cluster factorial analysis method[J]. Environmental Research,2020,194(6): 634-646.   
+[20]Harris I,Osborn TJ,Jones P,et al.Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset[J]. Scientific Data,2020,7(1): 1-18.   
+[21] Jalankuzov T,Suleimenov B,Busscher W J,et al.Irrigated cotton grown on sierozem soils in South Kazakhstan[J]. Communications in Soil Science and Plant Analysis,2013,44(22): 3391-3399.   
+[22]Nachtergaele F,van Velthuizen H, Verekst L,et al. Harmonized World Soil Database v 1.2[J]. IIASA: Laxenburg,Austria, 2012.   
+[23] Olzhabayeva AO,Rau A G,Sarkynov E S,et al. Effect of irrigationand fertilizers on rice yield in conditions of Kyzylorda irrigation array[J]. Biosciences Biotechnology Research Asia,2016,13 (4): 2045-2053.   
+[24]Sugimori Y,Funakawa S,Pachikin K M,et al. Soil salinity dynamics in irrigated fields and its effects on paddy-based rotation systems in southern Kazakhstan[J].Land Degradation & Development,2008,19(3):305-320.   
+[25]Qi Y C,Dong Y S, Jin Z,et al. Spatial heterogeneity of soil nutrients and respiration in the desertified grasslands of Inner Mongolia, China[J].Pedosphere,2010,20(5): 655-665.   
+[26] 李晓晖,袁峰,白晓宇,等.典型矿区非正态分布土壤元素数据 的正态变换方法对比研究[J].地理与地理信息科学,2010,26 (6): 102-105.[Li Xiaohui, Yuan Feng,Bai Xiaoyu,et al. Comparison of normalization methods for non-normal distributed soil elements data in typical mining area[J].Geography and Geo-Information Science,2010,26(6): 102-105.]   
+[27] 方丽章,李艳红,李发东,等.艾比湖湿地土壤水分-盐分-养分 空间异质性分析[J].农业环境科学学报,2019,38(1):163-173. [Fang Lizhang,Li Yanhong,Li Fadong,et al.Analysis of spatial variation of soil moisture-salinity-nutrient in Ebinur Lake wetlands, China[J]. Journal of Agro-Environmental Science,2019,38(1):163- 173.]   
+[28] 吴克宁,赵瑞.土壤质地分类及其在我国应用探讨[J].土壤学 报,2019,56(1): 227-241.[Wu Kening,Zhao Rui.Soil texture classification and its application in China[J].Acta Pedologic Sinica,2019,56(1): 227-241.]   
+[29]Funakawa S,Suzuki R,Karbozova E,et al. Salt-affected soils under rice- based irrigation agriculture in southern Kazakhstan[J]. Geoderma,2000,97(1): 61-85.   
+[30] 刘金伟,李志忠,武胜利,等.新疆艾比湖周边白刺沙堆形态特 征空间异质性研究[J].中国沙漠,2009,29(4):628-635.[Liu Jinwei,Li Zhizhong,Wu Shengli,et al.The spatial heterogeneity of morphologic feature of Nitraria nebkhas around Ebinur Lake Xinjiang[J]. Journal of Desert Research,2009,29(4): 628-635.]   
+[31]Unamunzaga O,Besga G,Castellon A,et al. Spatial and vertical analysis of soil properties in a mediterranean vineyard soil[J]. Soil Use and Management,2014,30(2): 285-296.   
+[32] 毛丽,苏志珠,王国玲,等.毛乌素沙地不同土地利用类型的土 壤粒度及有机质特征[J].干旱区研究,2019,36(3):589-598. [Mao Li, Su Zhizhu,Wang Guoling,et al. Soil particle size and organic matter content of different land use type in the Mu Us Sandland[J]. Arid Zone Research,2019,36(3): 589-598.]   
+[33] 买合皮热提·吾拉木,满苏尔·沙比提,阿依图尔荪·哈力穆拉 提.渭干河-库车河三角洲绿洲农田表层土壤粒度特征分析 [J].农业现代化研究,2015,36(2):291-296.[Mahpirat Ulam, Mansur Sabit,Aytursun Halmurat. Soil particle size characteristics of farmland top soils in the Weigan-Kuqa river delta oasis[J]. Research of Agricultural Modernization,2015,36(2): 291-296.]   
+[34]Wang JY,Liu Y X,Wang S M,et al. Spatial distribution of soil salinity and potential implications for soil management in the Manas River watershed, China[J]. Soil Use and Management,2020,36(1): 93-103.   
+[35] 杜金龙,靳孟贵,欧阳正平,等.焉耆盆地土壤盐分剖面特征及 其与土壤颗粒组成的关系[J.地球科学(中国地质大学学报), 2008,33(1):131-136.[Du Jinlong,Jin Menggui,Ouyang Zhengping,et al. Characteristics of soil salinity profiles and relationship between salinity and soil particle composition in Yanqi Basin of Xinjiang,China[J]. Earth Science-Journal of China University of Geosciences,2008,33(1): 131-136.]   
+[36]Zhang W Y,Ma L,AbuduwailiJ,et al.Hydrochemical characteristics and irrigation suitability of surface water in the Syr Darya River,Kazakhstan[J]. Environmental Monitoring and Assessment, 2019, 191(9): 1-17.
+
+# Grain size characteristics and spatial heterogeneity of farmland soils in the Syr Darya River Basin of Kazakhstan
+
+HE Jing¹2， Jilili ABUDUWAILI234，MA Long²34，Galymzhan SAPAROV $^ { \cdot 3 , 5 }$ ，Gulnura ISSANOVA3 6
+
+(1. College of Resource and Environment Sciences, Xinjiang University, Urumqi 83oo46,Xinjiang, China;   
+2.State KeyLaboratoryof Desertand Oasis Ecology,Xinjiang Instituteof EcologyandGeography,Chinese Academy of Sciences,Urumqi 83oo11,Xinjiang,China; 3.Research Center for Ecology and Environment of Central Asia, Chinese Academy of Sciences,Urumqi 830011,Xinjiang,China; 4.Universityof Chinese Academy of Sciences,   
+Beijing 10o049,China;5.Kazakh Research Instituteof Soil Scienceand Agrochemistry Named after U.U.Uspanov, Almaty O5oo6o, Kazakhstan; 6.Facultyof Geography and Environmental Sciences,Al-Farabi Kazakh National University,Almaty O50O40,Kazakhstan)
+
+Abstract: This article takes the farmland soils in the Syr Darya River Basin ofKazakhstanas the research object, combining clasical statistics and geostatistics methods,and investigates the characteristics of soil grain size and spatial heterogeneity in the $0 { - } 2 0 ~ \mathrm { c m }$ soil layer. Results showed that the distribution characteristics of soil particles with different particle sizes in each study area were similar,and the average content of particles with particle sizes of $0 . 2 5 \mathrm { - } 0 . 0 5 ~ \mathrm { m m }$ and $0 . 0 5 \mathrm { - } 0 . 0 1 ~ \mathrm { m m }$ is the highest. Except for subzone 3, the content of soil particles with a particle size of $1 . 0 { - } 0 . 2 5 ~ \mathrm { m m }$ has strong variability, while that of other sizes has a moderate degree of variability; Except for soil particles with a particle size of $1 . 0 { - } 0 . 0 5 ~ \mathrm { m m }$ in subzone 1, the nugget coefficient of soil particle content of other particle sizes is all $< 4 0 \%$ ,and that of each particle size in subzone 2 is all $< 5 0 \%$ , in subzone 3, except for soil particles with a particle size of $< 0 . 0 0 1 \ \mathrm { m m }$ , the nugget coefficient of soil particle content of other particle sizes is $< 4 0 \%$ . These findings revealed that the composition of soil particles in each study area has been affected by varying degrees of random factors; The Kriging interpolation method was used to interpolate the content of soil particles of diffrent sizes in the study area.The interpolation results showed that the content of soil particles of diferent sizes in the study area demonstrated diferent distribution characteristics in the spatial distribution.The research resultscan provide a scientific basis for the rational use of farmland soil and the improvement of degraded soil.
+
+Keywords: Syr Darya River Basin; soil grain size; spatial heterogeneity; semi-variogram

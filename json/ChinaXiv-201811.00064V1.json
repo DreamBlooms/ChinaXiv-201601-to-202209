@@ -1,0 +1,295 @@
+[
+    {
+        "type": "text",
+        "text": "地表风化作用对楼兰地区雅丹地貌发育的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "林永崇1,2.3，穆桂金1,3，秦小光4，唐自华4，李文1,3.5，徐立帅（1中国科学院新疆生态与地理研究所荒漠与绿洲生态国家重点实验室,新疆乌鲁木齐830011；2闽南师范大学历史地理学院,福建漳州363000；3新疆策勒荒漠草地生态系统国家野外科学观测试验站,新疆策勒848300;  \n4中国科学院地质与地球物理研究所,北京100029；5中国科学院大学,北京100049;  \n6山西农业大学资源与环境学院,山西 太古 030801)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：风蚀是雅丹地貌发育的主要控制因素，但在特定环境中，其他环境因素也可能起重要作用。通过对楼兰地区雅丹地貌野外调查、测试及室内实验分析,探讨风化作用对雅丹发育的影响。结果发现：新疆罗布泊地区广泛发育雅丹地貌，其中楼兰地区雅丹相对较为矮小，主要发育于全新世沉积岩上，地表没有植被或松散沉积物等覆盖，地层裸露。楼兰雅丹体为黏土质粉砂岩，干燥条件下较为坚硬( $> 2 0 \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ c m } ^ { - 2 }$ ),抗风蚀能力较强，但是雅丹体表层岩性发生明显软化( $\\mathrm { ~ < 1 0 ~ k g ~ }$ ：$\\mathrm { c m } ^ { - 2 }$ )。这主要是由于罗布泊地区虽然降雨量十分稀少，但这些少量且集中的降水、地表昼夜温差导致大气水分凝结以及强烈太阳辐射等相互作用造成的。从这些广泛存在的松软层表明，雅丹体风化作用速度快于风蚀作用，而首先进行的表层风化作用,对雅丹风蚀作用起很大的促进作用，明显加速了楼兰地区雅丹地貌的发育。因此，受少量降水、昼夜温差和强烈的太阳辐射等影响的风化作用对楼兰地区雅丹地貌发育具有重要的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：雅丹；风化作用；风蚀作用；罗布泊中图分类号：X144 文献标识码：A 文章编号",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "“雅丹”（Yardang）一词源于维吾尔语中的“雅尔丹”，意指“具有陡峭的小丘”。20世纪初瑞典探险家斯文·赫定(SvenHedin)在新疆罗布泊地区考察时提出“雅丹”一词,用以指代在干旱一半干旱环境中风蚀作用形成的地貌[1],后来“雅丹”一词被地理学家广泛使用。雅丹是风蚀作用的产物，这种风蚀作用在雅丹形态、延伸方向、表面风蚀痕迹等都有体现。雅丹地貌不仅广泛发育于地球表面干旱、半干旱区[2],甚至在火星上也有发现[3-4],并受到许多地理学家的深入关注。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "风蚀是雅丹的主要侵蚀动力，但却不是唯一动力。在雅丹形成过程中，风动力塑造了雅丹理想的形态特征,其表现为雅丹体长宽比值约为 $4 : 1 ^ { [ 5 ] }$ 但是在世界各地分布的雅丹地貌并非千篇一律的，其形态多样、大小不一，如：有些雅丹呈流线型，有些呈长垄状,有些呈覆舟状等[6-7],这些表明雅丹发育过程中不仅受风蚀作用，同时也受其它因素的影响，如水分、岩性、植被、时间等[8]。这些因素在很多情况下影响相对较微弱，因此较少受到关注，可在雅丹发育过程中同样不能被忽视[9-10]。例如,不同岩性上发育的雅丹形态差异较大[4,I1-13],甚至同一种岩性上发育的雅丹由于处于不同的环境下，其形态也出现较大差异[15]。另外,有些雅丹体由于植被覆盖,增强了抗风蚀能力,影响了雅丹地貌的发育[15]总之，在不同自然环境中，由于各种环境因素的组合特征及影响程度的差异，导致不同地区的雅丹形态差异显著。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "新疆罗布泊地区雅丹地貌广泛发育，主要包括白龙堆雅丹、三垄沙堆雅丹、阿奇克谷地雅丹、龙城雅丹和楼兰地区的雅丹。这些雅丹虽然在相似的区域气候条件下发育形成的，但有些十分高大，有些较为矮小，且形态多样，十分壮观。我们在楼兰地区野外调查时发现雅丹体保留有清晰的风蚀作用痕迹，且延伸方向与盛行风向一致。与罗布泊其它区域雅丹比较，楼兰地区的雅丹明显较为矮小，其地层成岩程度较弱，地表岩性已经发生明显变化，表层黏土质粉砂岩出现软化现象。那么，在楼兰地区这些岩性变化的影响因素是什么？雅丹体岩性软化对该区雅丹地貌发育有什么影响？本研究通过野外实地调查、测试，结合少量试验数据初步分析探讨这些问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "罗布泊位于塔里木盆地东部,北临天山，东南接阿尔金山，西部为罗布沙漠，区域地势低平（海拔约$7 8 0 ~ \\mathrm { m } )$ ，历史上塔里木盆地发育众多内流河，且罗布泊是这些河流的汇流中心（图1）。罗布泊地区属于暖温带极端干旱气候，年平均温度为 $1 1 . 5 ~ \\mathrm { { ‰} }$ ，昼夜温差大，7月平均温度达 $2 7 . 5 ~ \\mathrm { ^ { \\circ } C }$ ,夏季平均最高气温35.6 $\\mathrm { { ^ \\circ C } }$ ，地面温度甚至可达 $7 0 \\mathrm { ~ \\textdegree C }$ 以上[,16-17]。研究区降水稀少,年平均降水量约 30$\\mathbf { m } \\mathbf { m }$ ，且主要集中在夏季，潜在蒸发量约为3000[,17-18]（图2）。受西风急流、西伯利亚一蒙古高压的影响，研究区春、夏季盛行东北风，风沙活动频繁而强烈,尤其是在春末、初夏多大风天气，为主要的风沙活动时期[17-18]。由于处于极端干旱且多大风天气地区，罗布泊广泛发育雅丹地貌，主要包括白龙堆雅丹、阿其克谷地雅丹、三垄沙雅丹地貌、龙城雅丹和孔雀河下游楼兰地区雅丹地貌等，总面积约 $3 \\ 0 0 0 \\ \\mathrm { k m } ^ { 2 [ 1 1 ] }$ 。楼兰地区的雅丹主要发育于全新世地层，成岩作用微弱，其位于孔雀河入湖三角洲上,地势平坦。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "我们在2014年、2015年和2016年的秋季对罗布泊楼兰地区雅丹地貌进行野外调查、测量，采集了6个雅丹剖面沉积物样品，并用土壤硬度计测量了相应深度硬度数据。另外，我们还拍摄了楼兰地区地表风化地貌。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "地层岩性特征用英国马尔文公司生产的马尔文2000激光粒度仪进行试验测试，样品前处理过程依据林永崇等[19] 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 结果和讨论",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 地表水分作用痕迹",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从楼兰雅丹分布区北部向南部的野外调查发现,孔雀河下游入湖三角洲地表已经完全为裸地，南部已经出现许多沙丘。该区雅丹地层发育较晚，主要为早、中全新世时期形成的[20],成岩作用微弱,主要由黏土质粉砂和砂质粉砂两种岩性组成，二者交替发育，其中黏土质粉砂层质地均匀，岩性较坚硬，砂质粉砂层明显较为疏松。雅丹顶部为岩性一致的黏土质粉砂岩，厚度主要为 $1 5 \\sim 4 5 ~ \\mathrm { c m }$ ,地表裸露而未被其它松散沉积物、植被等覆盖。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "罗布泊处于极端干旱地区，降水十分稀少，但是却相对集中，主要集中在春、夏季节，有时也会形成阵雨。楼兰地区地表经常可以看到由于降水作用留下的痕迹，广泛出现了结皮现象（图3a、3b和3c）。根据长期驻扎在楼兰文保站（位于楼兰地区）工作人员崔有生站长介绍，在雅丹区每年春、夏季都会出现几次短暂的阵雨，其降水量并不小，甚至可以沿着风蚀沟槽汇流，淤积在低洼处。2014年10月，我们在罗布泊地区考察时就遇到这种短时阵雨天气，降雨量达约 $5 \\ \\mathrm { m m }$ 左右（图3d)。这些少量降水落到地表，快速浸润地表黏土质粉砂岩表层，导致地表岩层发生软化，抗风蚀能力显著减弱。总之，降水作用改变地表岩层强度的现象在整个楼兰雅丹区是十分普遍的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "另外，虽然罗布泊地区降雨天气少，气候非常干旱，但是空气中相对湿度最高接近于 $6 0 \\%$ （图2a），加上显著的昼夜温差可能导致夜晚降到露点温度，致使水汽发生凝结降落，对裸露地表起浸润作用（图3），受浸润过的地表，在强烈阳光照射下快速变干燥。这种长期反复的干、湿作用，也会使表层岩性变松软。因此，长期在温度和湿度的昼夜变化作用下也对地表岩性产生影响，一定程度上破坏地层硬度，降低地层抗风蚀能力。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "总之，楼兰地区虽然气候极端干旱，但少量水分作用、以及强烈的太阳辐射、昼夜温差等作用，对地表岩层起到明显的破坏作用，降低了岩层抗风蚀能力。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2 雅丹表层岩性变化特征 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "硬度是地层岩性的一个重要指标，一定程度上指示了岩层抗风蚀能力的强弱。楼兰地区雅丹地层主要为黏土质粉砂岩和砂质粉砂岩交替排列。从野外地层结构和粒度特征看，6个雅丹剖面地层中黏土质粉砂岩均为湖泽相沉积,质地均匀且一致，显示其形成于相似的沉积环境，这使地层中的黏土质粉砂层岩性基本一致，且都较为坚硬。但是硬度数据显示雅丹体黏土质粉砂层底部明显较为坚硬( $> 2 0$ $\\mathbf { k g } \\cdot \\mathbf { c m } ^ { - 2 }$ );而地表几厘米至十几厘米厚度的黏土质粉砂层硬度显著降低 $( \\mathbf { \\nabla } < 1 0 \\mathrm { \\ k g \\cdot } \\mathrm { c m } ^ { - 2 } ) .$ ），发生明显软化(图4)。6个剖面硬度变化特点结合广泛的野外调查表明楼兰雅丹区地表几厘米至十几厘米岩层广泛遭受了风化作用。这种风化作用显著地减弱了表层地层强度。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/1a9e4f0a1c5f2928274a47fec85d55d9c88779cb30f655879b346e44a22d6863.jpg",
+        "img_caption": [
+            "Fig.1Distribution of Yardangs in Loulan region and the sampling profiles "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f87a3e1cd92469e340af89f2308d8e26b974ee4650da36aa57cb4bfe8015a45d.jpg",
+        "img_caption": [
+            "图1楼兰地区雅丹分布及剖面位置",
+            "图2罗布泊地区多年气象要素月平均变化特征(据杨艺等[17]数据作图) Fig.2Modern monthly average meteorological elements variation in Lop Nur region "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/02181cc00b672d59c4fa4024ddfc50b392397bd3ad3549b199d119b58a9d1b29.jpg",
+        "img_caption": [
+            "Fig.3Water erosion traces on the earth surface in Loulan region "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d7e8ca232b1d68b0cbdb13f768691fc1e4d8168c1e3c2621924350b3dc822f17.jpg",
+        "img_caption": [
+            "图3楼兰地区地表水分作用痕迹",
+            "图4楼兰雅丹顶部地层岩性特征",
+            "Fig.4Lithological character of the top of Yardangs in Loulan region "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3雅丹地层中的裂隙",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在野外调查中，我们还发现楼兰地区的许多雅丹体顶部黏土质粉砂层中出现大量的裂隙，这些裂隙往往贯穿顶部整个黏土质粉砂层，且交错延伸，呈网状分布。这些裂隙指示了研究区地表曾经历极端干旱环境，加上强烈的太阳辐射作用以及显著昼夜温差作用从而促使岩层发生破裂。大量裂隙的存在破坏了岩层的整体性，使其在雅丹侵蚀发育过程中，促进了雅丹岩层的崩塌。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4地表风化作用促进雅丹风蚀 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "雅丹发育受多种因素影响，而其中风化作用在许多地区的雅丹发育过程中一般并不明显，其往往起次要作用，有时甚至被忽略。例如：有些雅丹直接发育在基岩上，风蚀作用也较显著，而其它物理、化学风化作用相对十分微弱[4,12]；有些地区雅丹虽然不是发育在坚硬的地层上，但其顶部覆盖有一层砾石，而砾石层的存在保护了顶部岩层，也起到抗风蚀作用[13,16];还有些地区的雅丹表层生长有植被,受植被覆盖和根系固定作用，很好地减弱顶部了风蚀作用，在这个过程中风化作用对雅丹发育影响也十分微弱[15]。另外,也有些雅丹地层含有大量盐分，使得其在干旱环境中，表层坚硬、抗风蚀能力强，如白龙堆雅丹、龙城雅丹以及柴达木盆地雅丹[10]。这些雅丹在特定的条件下都很大程度上增强了抗风蚀的能力，而在此过程中伴随的风化对雅丹发育产生的作用并不明显。总之，世界上有许多地区的雅丹地貌风化作用速度远小于风蚀作用速度，风化作用在雅丹发育过程中起的作用较微弱。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "楼兰地区的雅丹发育主要为风蚀作用形成的[\"1],这从雅丹延伸方向与盛行风向一致（图1），雅丹体迎风面较陡峭、背风面较平缓（图3c），雅丹体表面有大量风蚀作用痕迹等可以证实。但是野外调查、测试显示，楼兰地区的雅丹体表层广泛存在岩层显著软化现象（图4），这明显是风化作用造成的。这种现象常见于由弱成岩程度的黏土质粉砂岩上发育的雅丹,如在敦煌地区的雅丹中也广泛出现[8]从楼兰地区雅丹体表层岩性来看，地层不是由坚硬基岩组成的，没有石膏等盐类晶体增强雅丹抗风蚀能力，地表也没有植被或者砾石层等覆盖。研究区雅丹体表层是由黏土质粉砂岩组成的，岩层虽然较为坚硬，但成岩程度微弱，岩体遇到水分很容易软化。而罗布泊地区虽然极端干旱、降水十分稀少，但由于降水集中，甚至出现阵雨天气，加上强烈的太阳辐射交互作用，这使地表岩层容易发生软化。降水的这种作用在火成岩等基岩或者高成岩程度的沉积岩以及较高植被覆盖的雅丹表面作用并不明显，也难以使其出现软化现象。另外，罗布泊地区相对湿度较高，且昼夜温差十分显著，夜晚降温后空气中的水分能够达到露点而发生凝结并落在地表上，这同样使地表岩层软化。楼兰地区雅丹黏土质粉砂表层软化现象表明由水分、太阳辐射等风化作用导致的岩层软化作用速度较快，且明显快于岩层遭受风蚀作用的速度，即雅丹体表层主要是在强烈风化之后才遭受风蚀作用的，风化作用起“先锋”作用。而广泛出现的松软岩层减弱了其抗风蚀能力，促进风蚀作用进行。同时，由于在风化和风蚀作用下地层顶部粘土质粉砂层厚度减小、强度减弱，也有利于地层崩塌作用[19],间接促进了雅丹地貌发育。另外，在极端干旱条件下地表强烈的太阳辐射和昼夜温差等风化作用，岩层出现大量破裂现象（图5）。这些裂隙的存在也一定程度上促进了雅丹体崩塌作用，从而影响雅丹的发育。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b6cfd2c97e487f4877a05623ff7a99e02e598e357903f57a7337b2f8c938050e.jpg",
+        "img_caption": [
+            "图5雅丹表层地层中的网状裂隙Fig.5Netted fractures in Yadangs strata"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "总之，楼兰地区雅丹地貌黏土质粉砂表层风化作用速度明显快于风蚀作用速度，而雅丹体风化作用，减弱了岩层抗风蚀能力，加速了风蚀速率，促进了雅丹地貌发育。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究通过对新疆楼兰地区雅丹地貌的野外调查、测量，地层岩性测试，结合区域气候、环境特征分析、结果发现：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）楼兰地区雅丹体表层为黏土质粉砂层，成岩作用微弱，但相对较为坚硬。其受水分、昼夜温差以及太阳辐射等因素影响，广泛发生风化作用，表层岩层软化、抗风蚀能力明显减弱。这表明楼兰地区雅丹体表面岩层风化作用速率快于风蚀作用。（2）首先进行的岩层风化作用，减弱了地层强度，对后来的雅丹风蚀起到很大的促进作用，加速了楼兰地区雅丹地貌发育。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "致谢：本研究在野外考察过程中获得以下老师和同学的指点和帮助：中国科学院地质与地球物理研究所的秦小光，顾兆炎，吕厚远，吴乃琴，许冰，张磊，李康康；吉林大学边疆考古研究中心魏东，王春雪；新疆维吾尔自治区文物考古研究所吴勇，田小红，胡兴军；新疆维吾尔自治区若羌县文物局的崔有生。在此一并感谢！",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）   \n[1] HEDIN S.Central Asia and Tibet[M].New York: Scribners, 1903.   \n[2] HALIMOV,M,FEZER,F.Eight yardangs types in central-Asia [J].Zeitschrift fur Geomorphologie,33（2）:205-217.   \n[3] MC CAULEY JF.Mariner 9 evidence for wind erosion in the equatorial and mid-latitude regions of Mars[J].Journal of Geophysical Research,1973,78:4123 -4137.   \n[4] DE SILVA S L D,BAILEY JE,MANDT KE,et al. Yardangs in terrestrial ignimbrites:Synergistic remote and field observations on Earth with appications to MarsJ].Planetary& Space Science, 2010,58(4) :459 -471.   \n[5]WARD A W,GREELEY R. Evolution of the Yardangs at Rogers Lake,California[J].Bulletin of the Geological Society of America,1984,95:829 - 837.   \n[6] MAINGUT M,LE Borkou. Aspects dun modeleeolien[J].Annales De Geographie,1968,77:296 - 322.   \n[7] LAITY J.Deserts and desert environments[M].Wiley-Blackwell, 2008.   \n[8] 牛清河.雅丹地貌形成发育过程研究一 一以敦煌雅丹国家地 质公园区为例[D].北京：中国科学院大学,2011.[NIU Qinghe.The formation and development of yardang landform:A case study in Dunhuang Yardang National Geological Park[D]. Beijing: University of Chinese Academy of Sciences,2011.]   \n[9] LAITY JE.Landforms,landscapes,and processes of aeolian erosion[M]//PARSONS AJ,ABRAHAMS A D Eds.Geomorphology of Desert Environments. $2 ^ { \\mathrm { n d } }$ edition.Springer,Berlin,2009 :597 -627.   \n[10]DONG Z,LVP,LU J,et al.Geomorphology and origin of Yardangs in the Kumtagh Desert,northwest China[J].Geomorphology, 2012,139 （2) :145 -154.   \n[11］夏训诚.罗布泊科学考察与研究[M].北京:科学出版社, 1987.[XIA Xuncheng.Formation of the Yardangs in Lop Nor region［M].Beijing:Scienti?c Expedition in Lop Nor.Science Press,1987.]   \n[12]INBAR M,RISSO C. Holocene Yardangs in volcanic terrains in the southern Andes,Argentina[J].Earth Surface Processes & Landforms,2001,26(6):657 - 666.   \n[13]Al-DOUSARI A M,Al-ELAJ M,Al-ENEZI E,et al. Origin and characteristics of Yardangs in the Um Al-Rimam depressions（N Kuwait）[J].Geomorphology,2008,104(3）:93-104.   \n[14］杨更.新疆雅丹地貌分布特征浅析[J].四川地质学报,2009, 29:286-290.[YANG Geng.On distribution of the Yardang in Xinjiang[J].Acta Geologica Sichuan,2009,29:286-290.]   \n[15]GUTIERREZ-Elorza M,DESIR G,GUTIERREZ-Santolalla F. Yardangs in the semiarid central sector of the Ebro Depression （NE Spain）[J]. Geomorphology,2002,44（1）:155-170.   \n[16］郑本兴,张林源,胡孝宏.玉门关西雅丹地貌的分布和特征及 形成时代问题[J].中国沙漠,2002,22（1）:40-46.[ZHENG Benxing,ZHANG Linyuan,HU Xiaohong. Distribution and characteristics of Yardang landform and its formation period,west to yumenguan,Gansu[J]. Journal of Desert Research,20O2,22（1）: 40-46.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[17］杨艺,王汝建,刘健,等.新疆罗布泊 $4 5 \\mathrm { \\ k a }$ BP 以来沉积物粒 度敏感组分记录的区域沙尘活动历史［J].地学前缘，2015， 22(5）:247-258.[YANG Yi,WANG Rujian,LIU Jian,et al., Elment geochemistry of lacustrine sediments in Lop Nur and their environmental significance[J].Marine Geology& Quaternary Ge ology，2015,22(5) :247-258.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[18］马春梅,王富葆,曹琼英,等.新疆罗布泊地区中世纪暖期及前 后的气候与环境[J].科学通报，2008，（16)：1942-1952. [MA Chunmei,WANG Fubao,CAO Qiongying,et al.Climate and environment reconstruction during the Medieval Warm Period in Lop Nurof Xinjiang,China[J].Chinese Science Bulletin,2008, ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(16):1942-1952.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[19］林永崇,穆桂金,秦小光,等.新疆楼兰地区雅丹地貌差异性侵 蚀特征[J].中国沙漠,2017,37（1）:33-39.［LIN Yongchong, MUGuijin,QINXiaoguang,etal.Erosion characteristics of yardangsat Loulan area,Xinjiang,China[J].Journal of Desert Research,2017,37(1):33-39.]   \n[20］贾红娟,秦小光,刘嘉麒.楼兰佛塔剖面10.84kaB.P.以来的 环境变迁［J].第四纪研究，2010，30（1）：175-184.［JIA Hongjuan,QIN Xiaoguang,LIU Jiaqi.environmental change of the past 10.84ka in Loulan,Xinjiang[J].Quaternary Sciences, 2010,30(1):175-184.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Weathering impact on the development of Yardang landforms in Loulan region ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "LIN Yong-chong $^ { 1 , 2 , 3 }$ ，MU Gui-jin1.3， QIN Xiao-guang4， TANG Zi-hua4，LI Wen $^ { 1 , 3 , 5 }$ ， XU Li-shuai $^ 6$ （204号 (1State KeyLaboratoryof DesertandOasis EcologyXinjiang IstituteofEcologyand Geography,ChineseAcademyofSciences， Urumqi800ing,ha；oolfstodoannNalUiesityZagzuna; 3Cele NatioalStationofserationndResearchforDesert-GassandEostem,Cele8483,jan,Chia；4Isutef GeologyandGeophysics,Chinese AcademyofSciences,Beijing10o29,China；5Universityof Chinese AcademyofSciences, Beijing109in；6olgeofesoucedontniAgricuralUersityigu8,ia） ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Wind erosion is the key controling factor for the development of Yardang landforms,however,other factors mayalso playan important role incertain situation.In this paper,weanalyzed the possble influence of weathering to the development of Yardang landforms based on the field investigationand lab experiments.The results suggested that multiple types of Yardang landforms can be found inLop Nurregion,Xinjiang Province,China. In Loulan region the Yardang landforms without vegetation cover are allrelative short and small,theyare all developed on the sediment rock that form mainly in Holocene.The clayey siltstones strata of the Yardang landforms in Loulan region are all hard under dry condition ( $> 2 0 \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ c m } ^ { - 2 }$ ）and with strong resistance to wind erosion. However the top layers ( $\\sim 1 5 ~ \\mathrm { c m }$ ） of clayey siltstones are softening obviously ( $\\cdot < 1 0 \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ c m ~ } ^ { - 2 }$ ). This is mainly caused bythe combination of the small amount but centralized rainfall，the moisturecondensation causing bythe diurnal temperature variation and the intense solar radiation.Softening of clayey siltstoneon the top of Yardang strata indicates that weathering on the surface of Yardang landforms is obvious faster than wind erosion.The firstly weathering on the Yardang landforms promotes the wind erosion and accelerates the development of Yardang landforms in Loulanregion.Therefore,weathering has directand important influence to the developmentof Yardang landforms in he study region. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Key words: Yardang；weathering；wind erosion；Lop Nur ",
+        "page_idx": 6
+    }
+]

@@ -1,0 +1,575 @@
+[
+    {
+        "type": "text",
+        "text": "孤独感和手机成瘾的关系：一项元分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张亚利」　李　森」　俞国良²(中国人民大学教育学院;²中国人民大学心理研究所，北京 100872)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要孤独感与手机成瘾均是当下生活中较为常见的现象，诸多研究基于不同的理论视角探讨了两者间的内在联系，但研究结果却存在很大分歧。为明确两者之间的整体关系，以及产生分歧的原因，对检索后获得的121项研究(124个效应值)使用随机效应模型进行了元分析。结果发现：孤独感与手机成瘾存在中等程度的正相关 $_ { r = 0 . 2 5 }$ $9 5 \\% C I { = } [ 0 . 2 3 , 0 . 2 7 ] )$ ；两者的相关性受被试年龄群体的调节，成年人群体中的相关系数显著高于青少年群体，但两者的相关性不受性别、孤独感和手机成瘾测量工具的影响。结果表明孤独感与手机成瘾关系密切，支持了补偿性网络使用理论和自我调节缺陷模型。未来应加强纵向研究或实验研究进一步揭示孤独感与手机成瘾的作用方向。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 孤独感；手机成瘾；手机依赖；问题性手机使用;元分析",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着科技的进步和数字化进程的推进，手机已经成为人们日常生活的重要组成部分，在当下正日益普及并逐步升级(Mahapatra,2019)。虽然手机可以帮助人们开展线上交流、购物、娱乐、学习等多种活动，给生活带来了极大便利，但值得注意的是，越来越多的人变得难以摆脱对手机的使用，导致了手机成瘾现象的出现(Mahapatra,2019; Shen&Wang,2019)。研究发现无论是成年人，还是青少年均存在一定比例的手机成瘾人群，如中国大学生中约有 $2 1 . 3 \\%$ 的人存在手机成瘾问题(Long et al.,2016)，西班牙12-18 岁的人中手机依赖的检出率约为 $14 . 8 \\%$ (De-Sola Gutierrez et al.,2016)。据精神卫生专家预测，手机依赖将成为 21世纪最重要的非药物依赖类型之一(Choliz,2010)。研究还发现，手机成瘾与抑郁(Coyne et al.,2019)，幸福感(Horwo0d& Anglim,2019)，信息过载(Kneidinger-Muler,2019)，认知失败行为(张亚利等,2019a)等内外化问题存在密切关联，可能会对个体的心理健康产生威胁，因而越来越受到研究者的关注和重视(Gao et al., 2020)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，为了对手机成瘾进行深入的了解以便更好的加以预防和控制，诸多研究探讨了与其密切相关的风险因素，其中孤独感是备受关注的一个(De-Sola Gutierrez et al.,2016)。然而，关于孤独感与手机成瘾的关系，诸多研究间却得出了不一致的结论。多数研究表明两者之间存在正相关的关系(Dayapoglu et al.,2016; Lapierre et al.,2019; Liu et al.,2019)，但也有研究显示两者之间存在显著的负相关(Jafari&Aghaei,2019;Mansourian et al.,2014)，还有研究认为两者之间相关并不显著(Jeong et al.,2016; Mosalanejad et al.,2019)。另外一些研究则认为两者之间可能呈现 U形关系(Bruggeman et al.,2019; Przybylski& Weinstein,2017; Twenge et al.,2018)。目前尚无研究对该领域的成果进行整合，为解决该领域的争议，避免以往单个研究受样本容量、年龄等因素影响而使结果产生偏差，从宏观角度得出更普遍、更准确的结论。本研究拟采用元分析的手段对以往研究进行整合分析，通过估计孤独感和手机成瘾之间的总体相关强度和可能的调节因素，为手机成瘾的深入研究和预防干预提供更加殷实的依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1孤独感和手机成瘾的概念与测量",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "孤独感是个体的人际关系达不到期望水平时所产生的一种心理感受，常伴有空虚、无聊、无助、苦闷等消极心理体验(Kim,2017; Kim,2018; Peplau et al.,1979)。目前主要的测量工具有Russel(1996)编制的加州大学洛杉矶分校孤独量表第三版(UCLALoneliness Scale,ULS-20)，由20 个题目构成，其中9个反向计分题，为单维度结构，采用李克特四点计分。由于该量表题目数量较多，因此目前使用较广的还有Hays 和DiMatteo(1987)修编的加州大学洛杉矶分校孤独感量表第二版的简化版(UCLALoneliness Scale Short Form,ULS-8)，共8个题目，包含 2个反向计分题，计分方式延续了李克特四点计分。此外，Vincenzi和Grabosky(1987)还编制了情绪-社交孤独问卷(Emotional-SocialLoneliness Scale,ESLI)，与UCLA 系列测量工具仅关注个体内心的主观体验和感受不同，该量表还将客观的社交孤立状况纳入到测量内容中，共包括 15对匹配好的题目，分别测量客观上的情绪与社交孤立和主观上的情绪与社交孤独4个维度。另外，邹泓等(1998)还编制了中学生孤独感量表，共 21个题目，包含纯孤独感、社交能力、同伴关系及对重要关系未满足的感知四个维度。目前ULS-20是当下使用范围最为广泛的一种量表，而中学生孤独感量表在我国中学生孤独感的测量中使用较广。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对手机成瘾的界定目前并无一致结论，因而也存在着多种称谓(如手机依赖、手机成瘾倾向、问题性手机使用、手机过度使用等)，但多数研究倾向于将其归为行为成瘾的范畴，将其定义为过度沉迷于以手机为媒介的各种活动导致生理、心理和社会功能受损的非物质成瘾或行为成瘾(De-Sola Gutierrez et al.,2016;Lapierre et al.,2019；刘勤学等,2017；熊婕等,2012)。其表现类似于酒精和毒品等物质成瘾，包括耐受性、戒断症状、突显性、冲突性、情绪改变、渴求和失控等核心特征(Lee et al.,2014；刘勤学等,2017)。针对手机成瘾的测量也大多基于上述特征，主要分为两类：一类是衡量一般性手机成瘾的量表，对智能手机与非智能手机不做区分。使用较广的有 Leung(2008)编制的手机成瘾指数问卷(Mobile Phone Addiction Index,MPAI)，共",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "17个题目，涵盖失控性、逃避性、低效性和戒断性4个因子。只要对其中的8个条目做肯定回答，即被界定为手机成瘾者；还有熊婕等(2012)编制的大学生手机成瘾倾向量表(MobilePhone Addiction Tendency Scale,MPATS)，共16个题目，包括戒断症状、突显行为、社交抚慰和心境改变4个因素。另一类则是顺应时代发展，结合智能手机应用程序(App)使用上瘾的现状编制的智能手机成瘾量表，较为常用的有Kwon 等(2013)编制的智能手机成瘾量表(Smartphone Addiction Scale,SAS)，共 33 个题目，包括日常生活干扰、积极预期、戒断症状、网络导向关系、失控性和耐受性。还有苏双等(2014)编制的大学生智能手机成瘾量表(Smartphone Addiction Scale for College Students,SAS-C)，共 22 个题目，包含戒断行为、突显行为、社交安抚、消极影响、App 使用、App 更新6个因子。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2孤独感与手机成瘾的关系",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当下关于孤独感与手机成瘾的关系主要有如下四种观点：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第一种观点认为孤独感与手机成瘾存在显著的正相关。补偿性网络使用理论(Compensatory Internet Use Theory)认为，当人们在现实世界中遭遇心理社会问题时，可能会求助于网络或智能手机来逃避痛苦(Kardefelt-Winther,2014)。孤独感水平较高的人由于缺乏密切的社会交往和广泛的社会支持，归属感难以获得满足，因而会促使个体寻求解决策略以应对这种痛苦的心理感受(Zhen et al.,2019)。手机具有易得性和多功能性等优势，不仅能够帮助个体进行线上社会交往，建立虚拟的社交关系满足个体的归属感需求，还能够帮助个体开展线上娱乐和消遣，使机体获得兴奋，暂时缓解内心的无助和落寞，因此孤独感水平较高的个体更容易被其吸引并沉溺其中，最终形成对手机的严重依赖(Kim,2017; Shen&Wang,2019)。此外，自我调节缺陷模型(Deficient Self-regulation Model)认为，有心理社会问题的个体，其自我调节和控制能力的不足会导致手机使用时间的无节制增加，最终形成手机依赖(Tokunaga& Rains,2010)。那些孤独感水平较高的个体往往自我调节能力较弱，这使得他们比孤独感较低的人更难保持健康的媒体使用习惯，更容易出现手机成瘾(Kim,2018;Kim,2019)。多数横断研究均支持该观点，发现孤独感确实与手机成瘾存在显著的正相关(Volungis etal.,2019；张雪凤等,2018;Zhen et al.,2019)，进一步的纵向研究也发现孤独感能够正向预测手机成瘾水平(Kim,2019)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第二种观点认为孤独感与手机成瘾存在显著的负相关。根据刺激假设(StimulationHypothesis)，手机作为一种便捷的移动社交工具，其搭载的社交程序和平台能够帮助个体与他人建立和保持联系，拓展社交范围，提升友谊质量，因而有助于减少个体的孤独感水平(Kerkhofet al.,2011; Kraut et al.,1998)。基于手机展开的线上社交活动极具隐秘性和跨时空性，有助于降低自我表露的人际压力，增加社会交往的主动性，进一步强化既有的亲密关系并拓展新的社交对象(Liu etal.,2019)。因此，手机使用越多可能越有助于减少孤独感。仅有的两项研究也发现两者之间存在显著的负相关(Jafari&Aghaei,2019;Mansourian etal.,2014)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "第三种观点认为孤独感与手机成瘾没有直接关系，两者关系受到了其他变量的调节。“富者更富\"模型(Rich-get-Richer Hypothesis)认为，那些性格外向的人比内向的人从互联网使用中获得的社会效益更多(Kraut etal.,2002)。外向型的人利用手机等互联网设备可以加强与社会支持网络中其他人员间的联系，也更容易结交一些新朋友，因而比那些性格内向的人从手机使用中获得的社会支持更多，体验到的孤独感更少(Bruggeman,2019;Kim,2017)。一项研究发现内外向人格确实能够调节网络使用与孤独感的关系(Kraut etal.,2002)。还有一项研究发现在线自我表露能够调节手机成瘾与孤独感的关系，自我表露程度较高的人，手机过度使用能够减少孤独感(Karsay et al., 2019)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "第四种观点认为孤独感与手机成瘾呈U 形关系。数字恰到好处假说(DigitalGoldilocksHypothesis)认为，在数字媒体使用极其普遍的社会中，适度的使用具有适应性，是有益的，过多的使用可能会取代其他适应性、有意义的社会活动，但过少的使用也可能会剥夺年轻人信息交流和社会交往的机会(Bruggeman et al.,2019; Przybylski& Weinstein 2017; Twenge et al.,2018)。针对孤独感与手机依赖的关系，目前尚未有研究直接验证该观点，仅有类似的研究为该观点提供了证据支持。如有研究发现Facebook使用与青少年孤独感呈现U形关系，大量使用Facebook会导致更高的孤独感，而低到中等水平的 Facebook 使用则会减少孤独感(Wang,Frison et al,2018)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上，第一种观点不仅有补偿性网络使用理论和自我调节缺陷模型的支持，并且多数实证研究也倾向于支持第一种观点，故本研究提出假设1：孤独感与手机成瘾存在一定程度的正相关。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3孤独感与手机成瘾关系的调节变量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "不同年龄被试群体可能会影响孤独感与手机成瘾的相关性。发展性失补偿假说(高文斌陈祉妍,2006)认为，个体在常态发展过程中受到干扰因素（如人际交往问题)阻碍后会发生“心理补偿”过程，若个体能够主动改善阻碍因素以满足发展需求，则是一种建设性补偿；若个体的心理资源不能助力个体修复阻碍因素，则会出现病理性补偿（如病理性手机使用)，以弥补未满足的心理需求(吴茜玲等,2019)。从毕生心理发展的视角来看，随着年龄的增长，个体的心理发展会愈加成熟，当其人际关系出现危机时，为抵御孤独感的侵扰，会调动自身的调控机制，采取建设性的策略改善不良的人际交往状况，提高人际交往的质量，而不太倾向于逃避或沉浸于手机营造的虚拟世界中(Kraut et al.,1998; Mansourian et al.,2014)。因此，年龄越高可能孤独感与手机成瘾的联结越弱。综上，提出假设2：孤独感与手机成瘾的关系受不同年龄被试群体调节。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "性别也可能会调节孤独感与手机成瘾的关系。首先，就心理弹性水平而言，研究发现男生比女生的心理弹性水平更高，尤其是在情绪控制方面(冯志远等,2016; Sadeghi et al.,2020；张亚利等,2019b)。因此，当个体的孤独感水平较高时，男性的承受能力更强，往往受其影响较小，因而很少借助手机、网络等媒介去倾诉内心的消极感受，对手机的依赖程度较低，而女性由于承受能力较低，孤独情绪在内心积聚时，往往会借助手机等便捷的社交工具来排遣内心的寂寞，对手机的依赖程度较高(De-Sola Gutierrez et al.,2016; Yayan et al.,2019)。此外，从自我表露来看，研究表明女性的自我表露水平比男性更高(Dindia＆Alen,1992; Hao et al.,2019；王美芳等,2017)，因此女性在应对孤独感时更容易通过向他人表露的形式倾吐内心的无聊和寂寞，而手机中搭载的众多社交工具能够方便、快捷的满足女性自我表露的需求，因而女性可能更容易借助此类应用对他人倾诉内心的孤独，也更容易对其形成依赖(Hosoglu,2019;Takao et al.,2009)。综上，提出假设3：孤独感与手机成瘾的关系受性别调节。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "测量工具也可能对孤独感和手机成瘾的关系产生影响。首先，就孤独感的测量来看，目前应用较广的两种工具有ULS-20 和ULS-8。虽然后者使得测量内容和形式变得及其简洁，但同前者相比可能会不可避免的损失掉部分信息，因而不同的孤独感测量工具也可能会影响孤独感与手机成瘾的关系。其次，就手机成瘾的测量来看，目前的两大类测量工具中涵盖的内容不尽相同，如苏双等(2014)编制的大学生智能手机成瘾量表除了涵盖既有的手机成瘾测量的内容外，还增加了APP 使用和APP 更新两个因子，可能更加全面的反映个体的问题性手机使用现象。另外，具体到每种测量工具上，诸多量表的结构，涉及是手机成瘾的核心成分也不尽相同，因而可能会对孤独感与手机成瘾的关系产生影响。综上，本研究提出假设4：孤独感与手机成瘾的关系受孤独感测量工具的调节；假设5：孤独感与手机成瘾的关系受手机成瘾测量工具的调节。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1文献检索与筛选 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "首先，在中文数据库中(中国知网期刊和硕博论文数据库、万方期刊和学位论文数据库及维普期刊数据库)，搜索篇名或摘要中包含关键词“孤独感”与“手机”的文献。其次，在英文数据库中(Web of Science 核心合集、ElsevierSD、Springer Online Journals、Medline、EBSCO-ERIC、SAGE Online Journals、Scopus、PsycINFO、PsycArticles 和 ProQuest Dissertations and",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Theses)将关键词\"mobile phone”、“smartphone”、“cell phone\"分别与\"loneliness\"搭配，检索篇名或摘要中包含此类关键词的文献。此外，为了避免遗漏，通过文献阅读过程中的引文进行文献补查和补充。检索截止日期为2020年1月28日，共获取文献1078 篇。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "使用 EndNote X9 导入文献并按照如下标准筛选：(1)报告了孤独感与手机成瘾的具体数据(如相关系数、样本量)且无明显错误，不包括多元回归分析中获得的有关数据；(2)必须对测量工具有明确介绍；(3)数据重复发表的仅取其一；(4)研究对象非特殊人群，如有留守经历的学生、住院患者等。最后，共纳入研究121项（共包含效应值124个，被试 73543名)，时间跨度为2005年 ${ \\sim } 2 0 2 0$ 年，文献筛选流程见图1。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8727709f6aba08c396efc9e0669d15c6fd180bcd3933398d7facfff076b1ade3.jpg",
+        "img_caption": [
+            "图1文献纳入流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2 文献编码",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "每项研究根据以下特征进行编码：作者信息、出版年份、被试来源地、相关系数、样本量、男性比例、平均年龄、手机成瘾和孤独感的测量工具、被试类型以及发表类型(见表1)。对于  \n相关系数的录入，若研究未报告相关系数，但报告了F、t和x²值，通过相应公式[r=√+af$\\begin{array} { r } { r = \\sqrt { \\frac { F } { F + d f _ { e } } } ~ ; ~ r = \\sqrt { \\frac { \\chi ^ { 2 } } { \\chi ^ { 2 } + \\mathrm { N } } } ~ ; ~ r = \\beta ~ \\times ~ 0 . 9 8 ~ + ~ 0 . 0 5 ~ ( \\beta \\geq ~ 0 ) ; ~ r = \\beta ~ \\times ~ 0 . 9 8 ~ - ~ 0 . 0 5 ~ ( \\beta < 0 ) } \\end{array}$ $( \\beta \\in ( - 0 . 5 , \\ 0 . 5 ) ) ]$ ，先将其转化为 $\\boldsymbol { r }$ 值再进行编码(Card,2012)。此外，若原始文献仅报告了孤  \n独感与手机成瘾各子度关，则按公r (Hunter  \n& Schmidt，2004)合成孤独感与手机成瘾的相关系数进行编码。编码由两位评分者独立完成，最终计算编码一致性为 $96 \\%$ 。编码出现不一致的情况，经过查看原始文献并讨论进行更正。文献筛选过程和最终纳入文献的详细信息均可开放获取(htps://osf.io/wmj8a/?view_only=448c6a5e772f42c4a7907d21f6571030)。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/89bc9efb66e13a1e5b4f43a30b25a59257e24bc1739180141527082b9399202a.jpg",
+        "table_caption": [
+            "表1纳入分析的原始研究的基本资料"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">作者</td><td rowspan=\"2\">年份</td><td rowspan=\"2\">国籍</td><td rowspan=\"2\">r值</td><td rowspan=\"2\">人数男性比</td><td rowspan=\"2\">Mage</td><td rowspan=\"2\">被试类型</td><td rowspan=\"2\"></td><td rowspan=\"2\">发表类型</td><td colspan=\"2\">测量工具</td></tr><tr><td>手机成瘾</td><td>孤独感</td></tr><tr><td rowspan=\"3\">Gao</td><td>2020</td><td>中国</td><td>0.200</td><td>556</td><td>0.52</td><td>无</td><td>小学生</td><td>A</td><td>MPAI</td><td>其它</td></tr><tr><td>2020</td><td>中国</td><td>0.050</td><td>642</td><td>0.53</td><td>无</td><td>初中生</td><td>A</td><td>MPAI</td><td>其它</td></tr><tr><td>2020</td><td>中国</td><td>0.090</td><td>568</td><td>0.53</td><td>无</td><td>高中生</td><td>A</td><td>MPAI</td><td>其它</td></tr><tr><td>Zhen</td><td>2019</td><td>中国</td><td>0.220</td><td>4509</td><td>0.50 14.05</td><td>中学生</td><td></td><td>A</td><td>其它</td><td>其它</td></tr><tr><td>Yayan</td><td>2018</td><td>土耳其 0.393</td><td></td><td>1312</td><td>0.74 13.81</td><td>青少年</td><td></td><td>A</td><td>SAS</td><td>ULS-20</td></tr><tr><td>Volungis</td><td>2019</td><td>美国</td><td>0.310</td><td>150</td><td>0.17 19.28</td><td>大学生</td><td></td><td>A</td><td>SAS</td><td>ULS-20</td></tr><tr><td>Shen</td><td>2019</td><td>中国</td><td>0.240</td><td>549</td><td>0.35 18.39</td><td>大学生</td><td></td><td>A</td><td>SAS-C</td><td>ULS-20</td></tr><tr><td>Mosalanejad 2019</td><td></td><td>伊朗</td><td>0.053</td><td>233</td><td>0.18 无</td><td>大学生</td><td></td><td>A</td><td>SAS</td><td>ULS-20</td></tr><tr><td>Mahapatra</td><td>2019</td><td>印度</td><td>0.290</td><td>330</td><td>0.58</td><td>无 大中学生</td><td></td><td>A</td><td>其它</td><td>其它</td></tr><tr><td>Liu</td><td>2019</td><td>中国</td><td>0.390</td><td>908</td><td>0.49</td><td>21.04</td><td>大学生</td><td>A</td><td>MPAI</td><td>ULS-20</td></tr><tr><td rowspan=\"2\">Lapierre</td><td>2019</td><td>美国</td><td>0.241</td><td>346</td><td>0.34 19.11</td><td>大学生</td><td></td><td>A</td><td>其它</td><td>ULS-8</td></tr><tr><td>2019</td><td>美国</td><td>0.356</td><td>346</td><td>0.34</td><td>19.32</td><td>大学生</td><td>A</td><td>其它</td><td>ULS-8</td></tr><tr><td>Lapierre</td><td>2020</td><td>美国</td><td>0.220</td><td>297</td><td>0.25 21.81</td><td>大学生</td><td></td><td>A</td><td>其它</td><td>ULS-8</td></tr><tr><td>Kim</td><td>2019</td><td>美国</td><td>0.500</td><td>288</td><td>0.52</td><td>30.77</td><td>13-40 岁</td><td>A</td><td>其它</td><td>其它</td></tr><tr><td>Karsay</td><td>2019</td><td>德国</td><td>0.236</td><td>461</td><td>0.47</td><td>48.65</td><td>18-65岁</td><td>A</td><td>其它</td><td>其它</td></tr><tr><td>Jafari</td><td>2019</td><td>伊朗</td><td>-0.324</td><td>439</td><td>0.46</td><td>23.18</td><td>大学生</td><td>A</td><td>其它</td><td>其它</td></tr><tr><td>Hosoglu</td><td>2019</td><td>土耳其 -0.012</td><td></td><td>502</td><td>0.46</td><td>无</td><td>高中生</td><td>A</td><td>其它</td><td>ULS-20</td></tr><tr><td>Blachnio</td><td>2019</td><td>波兰</td><td>0.080</td><td>597</td><td>0.33</td><td>21.22</td><td>大学生</td><td>A</td><td>其它</td><td>其它</td></tr><tr><td>Wang</td><td>2018</td><td>中国</td><td>0.340</td><td>463</td><td>0.78</td><td>18.75</td><td>大学生</td><td>A</td><td>其它</td><td>ULS-8</td></tr><tr><td>Parashkouh</td><td>2018</td><td>伊朗</td><td>0.172</td><td>581</td><td>0.46</td><td>16.20</td><td>高中生</td><td>A</td><td>其它</td><td>ULS-20</td></tr><tr><td>Holte</td><td>2018</td><td>美国</td><td>0.217</td><td>237</td><td>0.23</td><td>18.94</td><td>大学生</td><td>D</td><td>其它</td><td>ULS-20</td></tr><tr><td>Kim</td><td>2017</td><td>美国</td><td>0.470</td><td>930</td><td>0.51</td><td>25.56</td><td>13-40 岁</td><td>A</td><td>其它</td><td>其它</td></tr><tr><td>Darcin</td><td></td><td>2016 土耳其 0.122</td><td></td><td>367</td><td>0.39</td><td>19.50</td><td>大学生</td><td>A</td><td>SAS</td><td>ULS-20</td></tr><tr><td>Bian</td><td>2015</td><td>中国</td><td>0.310</td><td>414</td><td>0.38</td><td>无</td><td>大学生</td><td>A</td><td>其它</td><td>ULS-8</td></tr><tr><td>Tan</td><td></td><td>2013 土耳其 0.350</td><td></td><td>527</td><td>0.30</td><td>20.80</td><td>大学生</td><td>A</td><td>其它</td><td>ULS-20</td></tr><tr><td>Laramie</td><td>2007</td><td>美国</td><td>0.258</td><td>316</td><td>0.36</td><td>34.95 18 岁以上</td><td></td><td>D</td><td>其它</td><td>ULS-20</td></tr><tr><td>Dayapoglu</td><td></td><td>2016 土耳其 0.256</td><td></td><td>353</td><td>0.22</td><td>无</td><td>大学生</td><td>A</td><td>其它</td><td>ULS-20</td></tr><tr><td>Mansourian</td><td>2014</td><td>伊朗</td><td>-0.320</td><td>405</td><td>无</td><td>无</td><td>大学生</td><td>A</td><td>MPAI</td><td>ULS-20</td></tr><tr><td>Lee</td><td>2019</td><td>韩国</td><td>0.400</td><td>342</td><td>0.57</td><td>无</td><td>高中生</td><td>A</td><td>其它</td><td>ULS-20</td></tr><tr><td>Iqbal</td><td>2016</td><td>印尼</td><td>0.175</td><td>100</td><td>0.39</td><td>无</td><td>16-30</td><td>A</td><td>其它</td><td>ULS-20</td></tr><tr><td>Jeong</td><td>2016</td><td>韩国</td><td>0.060</td><td>944</td><td>0.51</td><td>无</td><td>小学生</td><td>A</td><td>其它</td><td>其它</td></tr><tr><td>Guizeller</td><td>2012</td><td>土耳其 0.130</td><td></td><td>641</td><td>0.40</td><td>16.01</td><td>高中生</td><td>A</td><td>其它</td><td>ULS-20</td></tr><tr><td>Park</td><td>2005</td><td>韩国</td><td>0.100</td><td>157</td><td>0.48</td><td>无</td><td>大学生</td><td>B</td><td>其它</td><td>ULS-20</td></tr><tr><td>Cakir</td><td>2017</td><td>土耳其 0.137</td><td></td><td>540</td><td>0.66</td><td>无</td><td>高中生</td><td>A</td><td>SAS</td><td>ULS-8 MPAI</td></tr><tr><td>左春荣</td><td>2019</td><td>中国</td><td>0.280</td><td>476</td><td>0.42</td><td>无</td><td>大学生</td></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/6123cb2c926f61f71de258cb9a1a57b257ed69f96f058d8ed6478588603cd2b8.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>马雪梅</td><td>2019</td><td>中国</td><td>0.335</td><td>471</td><td>0.23</td><td>无</td><td>大学生</td><td>A</td><td>MPATS</td><td>ULS-20</td></tr><tr><td>刘艳</td><td>2019</td><td>中国</td><td>0.230</td><td>431</td><td>0.94</td><td>18.63</td><td>大学生</td><td>A</td><td>MPATS</td><td>ULS-8</td></tr><tr><td>姜少凯</td><td>2019</td><td>中国</td><td>0.310</td><td>298</td><td>0.63</td><td>无</td><td>中职生</td><td>A</td><td>MPAI</td><td>其它</td></tr><tr><td>何川</td><td>2019</td><td>中国</td><td>0.132</td><td>530</td><td>0.30</td><td>无</td><td>大学生</td><td>A</td><td>MPAI</td><td>ULS-20</td></tr><tr><td>高蓉</td><td>2019</td><td>中国</td><td>0.373</td><td>1988</td><td>0.43</td><td>无</td><td>大学生</td><td>A</td><td>MPATS</td><td>ULS-20</td></tr><tr><td>高大鹏</td><td>2019</td><td>中国</td><td>0.270</td><td>201</td><td>0.52 无</td><td>大学生</td><td></td><td>A</td><td>MPATS</td><td>ULS-20</td></tr><tr><td>付兵红</td><td>2019</td><td>中国</td><td>0.316</td><td>1466</td><td>0.31 无</td><td>大学生</td><td></td><td>A</td><td>MPAI</td><td>ULS-20</td></tr><tr><td>陈嘉豪</td><td>2019</td><td>中国</td><td>0.279</td><td>854</td><td>0.48 无</td><td>大学生</td><td></td><td>D</td><td>SAS-C</td><td>ULS-20</td></tr><tr><td>张雪凤</td><td>2018</td><td>中国</td><td>0.232</td><td>487</td><td>0.43 19.86</td><td>大学生</td><td></td><td>A</td><td>MPAI</td><td>其它</td></tr><tr><td>徐畅</td><td>2018</td><td>中国</td><td>0.310</td><td>397</td><td>0.49 无</td><td>大学生</td><td></td><td>D</td><td>MPATS</td><td>ULS-20</td></tr><tr><td>熊思成</td><td>2018</td><td>中国</td><td>0.110</td><td>359</td><td>0.40 无</td><td>大学生</td><td></td><td>A</td><td>MPATS</td><td>ULS-20</td></tr><tr><td>王瑜</td><td>2018</td><td>中国</td><td>0.177</td><td>1277</td><td>0.30 16.00</td><td>中职生</td><td></td><td>D</td><td>MPAI</td><td>其它</td></tr><tr><td>唐文清</td><td>2018</td><td>中国</td><td>0.330</td><td>780</td><td>0.48</td><td>无</td><td>大学生</td><td>A</td><td>MPATS</td><td>ULS-20</td></tr><tr><td>唐慧琳</td><td>2018</td><td>中国</td><td>0.290</td><td>617</td><td>0.40</td><td>无</td><td>大学生</td><td>A</td><td>MPATS</td><td>ULS-20</td></tr><tr><td>史梦薇</td><td>2018</td><td>中国</td><td>0.510</td><td>192</td><td>0.28</td><td>无</td><td>大学生</td><td>A</td><td>MPAI</td><td>ULS-20</td></tr><tr><td>邱蕾</td><td>2018</td><td>中国</td><td>0.361</td><td>1420</td><td>0.50</td><td>21.13</td><td>大学生</td><td>A</td><td>MPATS</td><td>ULS-20</td></tr><tr><td>吕慧娟</td><td>2018</td><td>中国</td><td>0.351</td><td>246</td><td>0.47</td><td>无</td><td>大学生</td><td>A</td><td>MPAI</td><td>ULS-20</td></tr><tr><td>刘宁</td><td>2018</td><td>中国</td><td>0.330</td><td>843</td><td>0.32</td><td>20.39</td><td>大学生</td><td>A</td><td>MPAI</td><td>ULS-20</td></tr><tr><td>李长玲</td><td>2018</td><td>中国</td><td>0.266</td><td>272</td><td>无</td><td>无</td><td>大学生</td><td>A</td><td>MPAI</td><td>其它</td></tr><tr><td>李贝贝</td><td>2018</td><td>中国</td><td>0.261</td><td>263</td><td>0.22</td><td>无</td><td>大学生</td><td>A</td><td>MPATS</td><td>ULS-20</td></tr><tr><td>贾丽娟</td><td>2018</td><td>中国</td><td>0.153</td><td>603</td><td>0.41</td><td>无</td><td>高中生</td><td>D</td><td>MPAI</td><td>ULS-20</td></tr><tr><td>何安明</td><td>2018</td><td>中国</td><td>0.310</td><td>490</td><td>0.28</td><td>20.00</td><td>大学生</td><td>A</td><td>SAS-C</td><td>其它</td></tr><tr><td>方小平</td><td>2018</td><td>中国</td><td>0.320</td><td>349</td><td>0.32</td><td>无</td><td>大学生</td><td>A</td><td>MPATS</td><td>其它</td></tr><tr><td>庄鸿娟</td><td>2018</td><td>中国</td><td>0.250</td><td>624</td><td>0.39</td><td>15.96</td><td>中学生</td><td>A</td><td>其它</td><td>其它</td></tr><tr><td>钟琦</td><td>2017</td><td>中国</td><td>0.130</td><td>812</td><td>0.50</td><td>无</td><td>大学生</td><td>A</td><td>MPAI</td><td>ULS-20</td></tr><tr><td>杨兮</td><td>2017</td><td>中国</td><td>0.250</td><td>388</td><td>0.39</td><td>无</td><td>大学生</td><td>A</td><td>MPAI</td><td>ULS-20</td></tr><tr><td>闫凤霞</td><td>2017</td><td>中国</td><td>0.327</td><td>315</td><td>0.26</td><td>21.00</td><td>大学生</td><td>A</td><td>MPATS</td><td>ULS-20</td></tr><tr><td>夏艳雨</td><td>2017</td><td>中国</td><td>0.299</td><td>330</td><td>0.36</td><td>无</td><td>大学生</td><td>A</td><td>MPATS</td><td>ULS-20</td></tr><tr><td>吴亚楠</td><td>2017</td><td>中国</td><td>0.418</td><td>220</td><td>0.45</td><td>无</td><td>大学生</td><td>A</td><td>其它</td><td>ULS-20</td></tr><tr><td>韦莺</td><td>2017</td><td>中国</td><td>0.293</td><td>512</td><td>0.58</td><td>20.01</td><td>大学生</td><td>A</td><td>MPATS</td><td>ULS-20</td></tr><tr><td>孙君洁</td><td>2017</td><td>中国</td><td>0.179</td><td>1368</td><td>0.57</td><td>无</td><td>大学生</td><td>A</td><td>MPAI</td><td>ULS-20</td></tr><tr><td>卿再花</td><td>2017</td><td>中国</td><td>0.220</td><td>1142</td><td>0.24</td><td>无</td><td>大学生</td><td>A</td><td>MPATS</td><td>ULS-20</td></tr><tr><td>米继红</td><td>2017</td><td>中国</td><td>0.230</td><td>1043</td><td>0.53</td><td>无</td><td>中职生</td><td>D</td><td>MPAI</td><td>ULS-20</td></tr><tr><td>罗星宇</td><td>2017</td><td>中国</td><td>0.490</td><td>670</td><td>0.45</td><td>19.56</td><td>大学生</td><td>D</td><td>SAS-C</td><td>ULS-20</td></tr><tr><td>贾玮</td><td>2017</td><td>中国</td><td>0.117</td><td>717</td><td>0.48</td><td>无</td><td>大学生</td><td>A</td><td>MPATS</td><td>ULS-20</td></tr><tr><td>郭璐璐</td><td>2017</td><td>中国</td><td>0.260</td><td>419</td><td>0.53</td><td>20.77</td><td>大学生</td><td>D</td><td>其它</td><td>ULS-20</td></tr><tr><td>高洋</td><td>2017</td><td>中国</td><td>0.020</td><td>488</td><td>0.79</td><td>无</td><td>中职生</td><td>D</td><td>MPAI</td><td>其它</td></tr><tr><td>邓岑珊</td><td>2017</td><td>中国</td><td>0.190</td><td>518</td><td>0.39 0.57 24.85</td><td>无</td><td>大学生 大学生</td><td>D D</td><td>MPAI SAS</td><td>ULS-20 其它</td></tr><tr><td>沃尔佳 赵秀秀</td><td>2017 2016</td><td>无 中国</td><td>0.381 0.080</td><td>438 582</td></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/4ce927de9e481502d00574b8a4b6653efee808b434936cd142f513a521ca86e4.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：为减少篇幅，纳入文献仅列出第一作者(作者后的数字表示同一年份发表的不同研究)；A为期刊发表的论文，B为书籍，D为硕博论文。"
+        ],
+        "table_body": "<html><body><table><tr><td>王芳</td><td>2016</td><td>中国</td><td>0.302</td><td>439</td><td>0.76</td><td>无</td><td>大学生</td><td>A</td><td>MPATS</td><td>ULS-20</td></tr><tr><td>涂巍</td><td>2016</td><td>中国</td><td>0.308</td><td>733</td><td>0.35</td><td>无</td><td>大学生</td><td>A</td><td>MPAI</td><td>ULS-20</td></tr><tr><td>吕倩倩</td><td>2016</td><td>中国</td><td>0.382</td><td>522</td><td>0.58</td><td>无</td><td>中职生</td><td>D</td><td>其它</td><td>其它</td></tr><tr><td>刘小磊</td><td>2016</td><td>中国</td><td>0.336</td><td>1261</td><td>0.47</td><td>21.39</td><td>大学生</td><td>D</td><td>MPAI</td><td>ULS-20</td></tr><tr><td>刘海娟</td><td>2016</td><td>中国</td><td>0.270</td><td>333</td><td>0.88</td><td>无</td><td>大学生</td><td>A</td><td>SAS-C</td><td>ULS-20</td></tr><tr><td>李丽</td><td>2016</td><td>中国</td><td>0.190</td><td>1053</td><td>0.49</td><td>20.40</td><td>大学生</td><td>A</td><td>SAS</td><td>ULS-20</td></tr><tr><td>李静</td><td>2016</td><td>中国</td><td>0.290</td><td>696</td><td>0.29</td><td>20.00</td><td>大学生</td><td>A</td><td>MPAI</td><td>ULS-20</td></tr><tr><td>海庆玲</td><td>2016</td><td>中国</td><td>0.306</td><td>138</td><td>无</td><td>无</td><td>职工</td><td>A</td><td>MPAI</td><td>ULS-20</td></tr><tr><td>符明秋</td><td>2016</td><td>中国</td><td>0.200</td><td>1090</td><td>0.46</td><td>无</td><td>中小学生</td><td>A</td><td>MPAI</td><td>ULS-20</td></tr><tr><td>范士青</td><td>2016</td><td>中国</td><td>0.190</td><td>457</td><td>0.52</td><td>21.12</td><td>大学生</td><td>A</td><td>MPATS</td><td>ULS-20</td></tr><tr><td>朱永红</td><td>2015</td><td>中国</td><td>0.305</td><td>432</td><td>0.47</td><td>无</td><td>大学生</td><td>D</td><td>MPATS</td><td>ULS-20</td></tr><tr><td>张岩</td><td>2015</td><td>中国</td><td>0.320</td><td>368</td><td>0.48</td><td>无</td><td>大学生</td><td>A</td><td>MPAI</td><td>ULS-20</td></tr><tr><td>姚梦萍</td><td>2015</td><td>中国</td><td>0.230</td><td>418</td><td>0.47</td><td>19.85</td><td>大学生</td><td>A</td><td>MPAI</td><td>其它</td></tr><tr><td>严静</td><td>2015</td><td>中国</td><td>0.327</td><td>346</td><td>0.51</td><td>21.00</td><td>大学生</td><td>A</td><td>其它</td><td>ULS-20</td></tr><tr><td>熊健宁静</td><td>2015</td><td>中国</td><td>0.323</td><td>621</td><td>0.56</td><td>23.51</td><td>研究生</td><td>A</td><td>MPATS</td><td>ULS-20</td></tr><tr><td>谢其利</td><td>2015</td><td>中国</td><td>0.290</td><td>1147</td><td>0.46</td><td>20.23</td><td>大学生</td><td>A</td><td>MPATS</td><td>ULS-20</td></tr><tr><td>肖雅戈</td><td>2015</td><td>中国</td><td>0.344</td><td>575</td><td>0.62</td><td>无</td><td>大学生</td><td>D</td><td>其它</td><td>其它</td></tr><tr><td>夏炜</td><td>2015</td><td>中国</td><td>0.298</td><td>480</td><td>0.40</td><td>无</td><td>大学生</td><td>D</td><td>其它</td><td>ULS-20</td></tr><tr><td>王平</td><td>2015</td><td>中国</td><td>0.256</td><td>322</td><td>0.42</td><td>22.60</td><td>大学生</td><td>A</td><td>MPATS</td><td>ULS-20</td></tr><tr><td>王慧慧</td><td>2015</td><td>中国</td><td>0.187</td><td>457</td><td>0.52</td><td>21.12</td><td>大学生</td><td>A</td><td>MPATS</td><td>ULS-20</td></tr><tr><td>刘文俐</td><td>2015</td><td>中国</td><td>0.244</td><td>328</td><td>0.35</td><td>18.30</td><td>大学生</td><td>A</td><td>MPAI</td><td>ULS-20</td></tr><tr><td>李腾飞</td><td>2015</td><td>中国</td><td>0.290</td><td>310</td><td>0.35</td><td>无</td><td>大学生</td><td>A</td><td>MPATS</td><td>ULS-20</td></tr><tr><td>李力</td><td>2015</td><td>中国</td><td>0.204</td><td>518</td><td>0.39</td><td>无</td><td>大学生</td><td>D</td><td>MPATS</td><td>ULS-20</td></tr><tr><td>李春生</td><td>2015</td><td>中国</td><td>0.359</td><td>326</td><td>0.48</td><td>21.98</td><td>大学生</td><td>D</td><td>其它</td><td>ULS-20</td></tr><tr><td>管浩圻</td><td>2015</td><td>中国</td><td>0.200</td><td>361</td><td>0.44</td><td>20.00</td><td>大学生</td><td>A</td><td>MPATS</td><td>ULS-20</td></tr><tr><td>甘良梅</td><td>2015</td><td>中国</td><td>0.235</td><td>302</td><td>0.54</td><td>20.15</td><td>大学生</td><td>A</td><td>MPATS</td><td>ULS-20</td></tr><tr><td>崔玉玲</td><td>2015</td><td>中国</td><td>0.120</td><td>534</td><td>0.48</td><td>20.50</td><td>大学生</td><td>A</td><td>MPAI</td><td>ULS-20</td></tr><tr><td>陈向丽</td><td>2015</td><td>中国</td><td>0.246</td><td>421</td><td>无</td><td>无</td><td>大学生</td><td>A</td><td>MPAI</td><td>ULS-20</td></tr><tr><td>全开凤</td><td>2014</td><td>中国</td><td>0.122</td><td>546</td><td>0.45</td><td>无</td><td>大学生</td><td>D</td><td>MPATS</td><td>ULS-20</td></tr><tr><td>邱慧燕</td><td>2014</td><td>中国</td><td>0.110</td><td>315</td><td>0.52</td><td>无</td><td>高中生</td><td>A</td><td>其它</td><td>ULS-20</td></tr><tr><td>刘志强</td><td>2014</td><td>中国</td><td>0.326</td><td>379</td><td>0.74</td><td>20.31</td><td>大学生</td><td>A</td><td>MPATS</td><td>其它</td></tr><tr><td>姜永志</td><td>2014</td><td>中国</td><td>0.193</td><td>442</td><td>0.52</td><td>20.55</td><td>大学生</td><td>A</td><td>MPATS</td><td>ULS-20</td></tr><tr><td>高海燕</td><td>2014</td><td>中国</td><td>0.227</td><td>600</td><td>0.44</td><td>无</td><td>大学生</td><td>A</td><td>MPATS</td><td>ULS-20</td></tr><tr><td>韦耀阳</td><td>2013</td><td>中国</td><td>0.263</td><td>304</td><td>无</td><td>无</td><td>大学生</td><td>A</td><td>其它</td><td>ULS-20</td></tr><tr><td>李苑文</td><td>2013</td><td>中国</td><td>0.317</td><td>768</td><td>0.52</td><td>无</td><td>中学生</td><td>D</td><td>MPAI</td><td>其它</td></tr><tr><td>王相英</td><td>2012</td><td>中国</td><td>0.320</td><td>287</td><td>0.40</td><td>无</td><td>大学生</td><td>A</td><td>MPATS</td><td>ULS-20</td></tr><tr><td>刘红</td><td>2011</td><td>中国</td><td>0.270</td><td>442</td><td>0.43</td><td>21.28</td><td>大学生</td><td>A</td><td>MPAI</td><td>ULS-20</td></tr><tr><td>王芳</td><td>2008</td><td>中国</td><td>0.173</td><td>632</td><td>0.45</td><td>无</td><td>大学生</td><td>A</td><td>其它</td><td>ULS-20</td></tr><tr><td>周芳蕊</td><td>2018</td><td>中国</td><td>0.230</td><td>380</td></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.3 发表偏差控制与检验",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "发表偏差是指显著的结果更容易被发表，因此，已发表的文献并不能全面地代表该领域已经完成的研究总体(Rothstein et al.,2005)。本研究纳入文献时不仅纳入了已发表的期刊和会议论文，还纳入了未发表的硕博论文，一定程度上控制了发表偏差对元分析结果的影响。此外，为保证元分析结果的可靠性，本研究还将利用漏斗图(Funnelplot)和 Egger's 回归法检验结果是否受发表偏差影响。对于前者而言，如果图形呈现一个倒着的漏斗形状，则表明可能不存在发表偏差；对于后者而言，如果线性回归的结果不显著，则视为不存在发表偏差。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.4 模型选择 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "目前，计算效应大小的方法主要有两种：固定效应模型和随机效应模型。前者假设不同研究的实际效果是相同的，而结果之间的差异是由随机误差引起的。后者假设不同研究的实际效果可能不同，而且不同的结果不仅受随机误差的影响，而且还受不同样本的影响(Schmidt et al,2009)。基于文献回顾，本研究认为性别、年龄等因素可能影响孤独感与手机成瘾的关系，因此本研究采用随机效应模型进行估计。此外，本研究还通过异质性检验，对随机效应模型选择的适切性进行验证，主要查看 $\\varrho$ 检验结果的显著性以及 $I ^ { 2 }$ 值两个指标，若 $\\varrho$ 检验结果显著或$\\boldsymbol { { \\cal I } } ^ { 2 }$ 的值高于 $7 5 \\%$ ，则选择随机效应模型更合适，反之，选用固定效应模型更合适(Higgins et al.,2003)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.5数据处理",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究采用相关系数 $\\boldsymbol { r }$ 作为效应值指标。使用软件 Comprehensive Meta-Analysis Version3.3进行元分析主效应检验和调节效应检验。调节效应分析采用两种形式：(1)当调节变量为连续变量时采用元回归分析考察结果是否显著；(2)当调节变量为分类变量时采用亚组分析检验结果是否显著。亚组分析时为了保证调节变量每个水平下的研究均能代表该水平，遵循Card(2012)的建议，每个水平下的效应量个数应不少于5个。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3研究结果",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1 发表偏差检验 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "漏斗图(图 2)显示，效应值集中在图形上方且均匀分布于总效应的两侧；Egger 线性回归的结果不显著，截距为2.41， $9 5 \\% C I$ 为[-2.38,1.19], $p$ 值为0.56。这说明本研究不存在明显的发表偏差，元分析估计结果较为可靠。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/dbfcfff01969fb4a6742ea2183318f93a8e8f1a86d8182c4becbeeb5d210912a.jpg",
+        "img_caption": [
+            "图2 效应值分布漏斗图"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.2异质性检验 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本研究对纳入的效应量进行异质性检验，以使确定采用随机效应模型是否适合，以及是否有必要进行调节效应分析。检验结果表明， $\\boldsymbol { \\mathcal { Q } }$ 值为1155.90 $( p < 0 . 0 0 1 )$ ， $I ^ { 2 }$ 值为 $89 . 3 6 \\%$ ，超过了Higgins 等(2003)提出的 $7 5 \\%$ 的法则，说明结果异质，也表明纳入的有关孤独感和手机成瘾关系的效应量中有 $89 . 3 6 \\%$ 的变异是由效应值的真实差异引起的，接下来的分析选用随机效应模型是合适的。该结果也提示不同研究间的估计值差异可能受到了一些研究特征因素的干扰，可以就影响两者关系的调节变量进行合理探讨。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3 主效应检验 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "采用随机效应模型估计孤独感与手机成瘾的相关强度，结果显示两者的相关系数为0.25，$9 5 \\%$ 的置信区间为[0.23,0.27]，不包含0(表2)。由于Cohen(1988)建议的关于相关系数大小解释的参照标准( $\\stackrel { \\cdot } { r } = 0 . 1$ 为低相关, $r = 0 . 3$ 为中等相关, $r = 0 . 5$ 为强相关)是基于定性分析得出的，主观性较强。为此，Gignac 和 Szodorai(2016)对个体差异相关研究中 708 个元分析得出的相关大小进行系统的、定量的分析后建议将 $r = 0 . 1$ ， $r = 0 . 2$ 和 $r = 0 . 3$ 分别视为低相关、中等相关和强相关。根据该标准，本研究中孤独感与手机成瘾的相关系数介于 $0 . 1 { \\sim } 0 . 3$ 之间，可以认为二者存在中等程度的正相关。此外，敏感性分析发现，排除任意一个样本后的效果量 $\\boldsymbol { r }$ 值在$0 . 2 4 9 \\sim 0 . 2 5 6$ 之间浮动，表明元分析估计结果具有较高的稳定性。",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/5a3d99e93008d8ea28d498080b33cfb92d11356e6ab9a44d93f87cd3d8652ee1.jpg",
+        "table_caption": [
+            "表2孤独感与手机成瘾关系的随机效应模型分析"
+        ],
+        "table_footnote": [
+            "注： $k$ 为效应量数， $N$ 为被试数。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">模型</td><td rowspan=\"2\">k</td><td rowspan=\"2\">N</td><td rowspan=\"2\">r</td><td rowspan=\"2\">r的</td><td colspan=\"2\">95% CI</td><td rowspan=\"2\">7 p</td><td rowspan=\"2\"></td><td colspan=\"3\">异质性检验</td><td rowspan=\"2\"></td></tr><tr><td>LL</td><td>UL</td><td>Q(T)</td><td>df p</td><td></td></tr><tr><td>随机模型</td><td>124</td><td>73543</td><td>0.25</td><td></td><td>0.23</td><td>0.27</td><td>22.19</td><td><0.001</td><td>1155.90</td><td>123</td><td><0.001 89.36</td><td>0.01</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.4 调节效应检验 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "利用元回归分析和亚组分析检验调节变量对孤独感与手机成瘾的关系是否有显著影响，结果发现： (1)性别对孤独感与手机成瘾关系的调节作用不显著。元回归分析(118个效应值)结果表明，男性比例对效应值的回归系数不显著 $( b = 0 . 0 3 , z = 0 . 2 9 , 9 5 \\%$ 的置信区间为[-0.14,0.19])(2)被试群体类别能够显著调节孤独感与手机成瘾的关系。亚组分析(116 个效应值)显示，其 $\\varrho$ 值(组间)为4.31， $p < 0 . 0 5$ ，孤独感与手机成瘾的相关系数在成年人群体中要显著高于青少年。(3)手机成瘾测量工具对孤独感与手机成瘾关系的调节效应不显著。亚组分析(87 个效应值)显示，其 $\\varrho$ 值(组间)为2.43， $p > 0 . 0 5$ ，结果不显著。 (4)孤独感测量工具对孤独感与手机成瘾关系的调节效应不显著。亚组分析(98个效应值)显示，其 $\\varrho$ 值(组间)为0.62， $p > 0 . 0 5$ ，结果不显著。",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/d3384d4f6a45f14ce9e0c358f2659548870700f52320b799924cca187dcf9d70.jpg",
+        "table_caption": [
+            "表3亚组分析结果"
+        ],
+        "table_footnote": [
+            "注： $k$ 代表效应值的数量； $Q _ { B }$ 代表异质性检验统计量； $9 5 \\% C I$ 为亚组效果量 $\\boldsymbol { r }$ 的 $9 5 \\%$ 的置信区间；青少年包括中学生和中职生，成年人包括大学生、研究生及调查对象在18岁以上的被试。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">调节变量</td><td colspan=\"3\">异质性检验</td><td rowspan=\"2\"></td><td colspan=\"3\">95%CI</td><td rowspan=\"2\"></td><td colspan=\"2\">双侧检验</td></tr><tr><td>QBdfp</td><td></td><td>类别</td><td>k</td><td>估计值</td><td>下限 上限</td><td>Z</td><td>p</td></tr><tr><td>被试群体</td><td>4.31</td><td>1</td><td>0.038</td><td>成年人</td><td>97</td><td>0.26</td><td>0.24</td><td>0.28</td><td>20.56</td><td><0.001</td></tr><tr><td rowspan=\"5\">手机成瘾测量工具2.433</td><td rowspan=\"5\"></td><td></td><td></td><td>青少年</td><td>19</td><td>0.20</td><td>0.15 0.25</td><td></td><td>7.83</td><td><0.001</td></tr><tr><td></td><td></td><td>MPAI</td><td>36</td><td>0.24</td><td>0.20</td><td>0.28</td><td>10.83</td><td><0.001</td></tr><tr><td>0.488</td><td></td><td>MPATS</td><td>39</td><td>0.26</td><td>0.23</td><td>0.28</td><td>18.89</td><td><0.001</td></tr><tr><td></td><td>SAS</td><td>7</td><td>0.23</td><td></td><td>0.12</td><td>0.33</td><td>4.16</td><td><0.001</td></tr><tr><td></td><td>SAS-C</td><td>5</td><td>0.32</td><td>0.22</td><td>0.42</td><td></td><td>6.01</td><td><0.001</td></tr><tr><td rowspan=\"2\">孤独感测量工具</td><td>0.62</td><td>1</td><td>0.432</td><td>ULS20</td><td>90</td><td>0.25</td><td>0.23</td><td>0.28</td><td>20.70</td><td><0.001</td></tr><tr><td></td><td></td><td></td><td>ULS8</td><td>8</td><td>0.28</td><td>0.22</td><td>0.34</td><td>8.11</td><td><0.001</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.1孤独感与手机成瘾的关系",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "以往关于孤独感与手机成瘾关系存在不一致的观点和不一致的研究结果，但尚未有研究对此予以澄清。本研究通过元分析首次对孤独感与手机成瘾的关系从整体上进行了估计，结果发现两者之间存在中等程度的正相关。这一结果支持了第一种观点(孤独感与手机成瘾存在显著的正相关)，以及目前的多数研究的结果(Dayapoglu et al.,2016;Lapierre,2019; Shen& Wang,2019; Zhen etal.,2019)，同时也澄清了其中存在的相关性大小和方向的争论。本结果未支持某些研究中得出的两者存在高度相关(Kim,2019;Lee& Kim,2019;Liu,Yang et al.,2019)和低度相关(Mahapatra,2019; Park,2005)，以及相关不显著(Blachnio & Przepirka 2019; Hosoglu,2019;Jeong et al.,2016)，甚至负相关(Jafari& Aghaei,2019; Mansourian et al.,2014)的结果。说明孤独感和手机成瘾的相关具有统计学意义且在实际工作中不应忽视或夸大两者间相关性。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "本结果同以往某些相近的元分析的结果存在一定的差别。例如，Liu 和 Baumeister(2016)利用元分析发现孤独感与社交网站使用的相关系数为0.17。本结果得到的相关系数高于该值，这可能是由于手机功能的多样性所导致的。社交网站的功能主要集中于线上社交服务，而手机除了具备社交服务功能之外，还具备了购物、游戏等功能(Kim,2018; Zhen et al.,2019)，不仅能帮助个体进行线上社交，满足归属需求，还能帮助个体进行休闲娱乐，转移和逃避现实生活中的孤独感(Bian&Leung,2015; Zhen et al.,2019)，因此孤独感与问题性手机使用的相关可能比与社交网站使用的相关更强。另有元分析发现孤独感与网络成瘾的相关为0.181(胡耿丹，项明强,2011)。本研究与之存在差异，这说明孤独感与移动手机使用的关系更密切。这可能与手机使用的便捷性有关，同计算机互联网使用相比，手机上网更加便捷，不受时间和空间的限制(Liu,Yang etal.,2019；张亚利等,2019a)，因此，孤独感水平较高的个体对手机的依赖可能超过对计算机互联网的依赖。还有元分析发现手机成瘾与焦虑、抑郁的相关分别为0.27和0.31(张斌等,2019)，略高于本研究中手机成瘾与孤独感的相关( $( r = 0 . 2 5 )$ ，说明手机成瘾与诸多心理社会因素的相关性不能一概而论。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "本研究还澄清了以往众多理论关于孤独感与手机成瘾关系的争论。研究结果支持了第一种观点，验证了假设1，即孤独感与手机成瘾呈现正相关，为补偿性网络使用理论和自我调节缺陷模型提供了证据支持(Kardefelt-Winther,2014; Tokunaga& Rains,2010)。这可能是因为孤独感水平越高的个体越倾向于利用手机中的多种功能来逃避现实生活中需求感未满足而招致的心里痛苦体验，或者直接利用手机中的社交功能来补偿现实生活中未被满足的心理需求，寻求网络社会支持和线上归属感，从而导致对手机的依赖程度较高(Kim,2017;Shen &Wang,2019)。也可能是因为孤独感水平较高的个体本身就代表着积极心理资源的匮乏，这些群体在手机使用的过程中很可能由于自控能力的不足或外部监控机制的缺失使其手机成瘾的程度逐渐加深(Kim,2018; Kim,2019; Kraut etal.,2002)。此外，还有可能是手机成瘾的出现致使孤独感水平上升。对手机的过度使用或不加节制的使用，会使得个体原本用于线下社会交流的时间和机会大大削减，不利于社会支持系统的构建。当个体由手机中的虚拟世界转入现实世界时，会感受到更多的社会疏离感，更少的人际归属感，因此孤独感会随之而增加(Liu,Baumeister et al., 2019)。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "本结果未能为第二种观点(孤独感与手机成瘾存在显著负相关)提供证据支持。刺激假设认为手机使用有助于减少个体的孤独感，虽然个别研究也的确发现两者之间可能存在负相关(Jafari&Aghaei,2019;Mansourian et al.,2014)，但本结果未能支持这一看法。这可能与手机使用的模式有关。手机使用模式通常分为人际交往、娱乐和信息寻求(Hao etal.,2019)，研究表明以人际交往为目的的使用能够帮助个体建立线上社会支持网络，可能对缓解个体的孤独感大有裨益，但以娱乐消遣为目的的使用可能对孤独感的缓解作用不大(Horwood&Anglim,2019;Kerestes&Stulhofer,2020；沈彩霞等,2013)。手机成瘾是对手机的一种过度或无度使用，这种使用可能不全用于线上社会交往，还可能包含了游戏使用，视频消遣等，比如中国互联网络信息中心发布的最新报告显示，手机网民经常使用的各类移动互联网应用中，社交通讯类使用时间仅占总体的 $1 9 \\%$ ，大部分时间全部用于非社交类活动(中国互联网络信息中心,2019)。因而，这种杂合的使用模式可能大大削弱了手机使用对人际关系的助力作用(Dienlin etal.,2017;Scherr et al., 2019)。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "本结果也未能给第三种观点提供证据支持。总体而言，孤独感与手机成瘾存在直接联系。由于本研究中仅着眼于孤独感与手机成瘾的简单相关。因此，从总体上看，二者之间是否受到了诸如内外向人格和自我表露等变量的调节(Karsay et al.,2019; Takao et al.,2009)，尚需未来研究进一步考量。本结果也未能给第四种观点提供证据支持。本结果表明孤独感与手机成瘾之间相关程度为中等，以往研究发现社会心理学领域中100 余年来的元分析的平均效应值约为 $r =$ 0.21(Richard et al.,2003)。本结果得到的平均效应值略高于该值，一定程度上表明孤独感与手机成瘾之间可能存在典型的线性相关(Gignac ＆ Szodorai,2016)。因此，数字恰到好处假说(Przybylski&Weinstein 2017)，有待进一步验证。事实上，也存在未能验证该观点的类似研究，如有研究发现电子媒体的使用时间和抑郁不呈U形关系并建议未来检验该假设是否仅适合描述数字媒体使用与积极心理变量间的关系(Houghton et al.,2018)。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.2 调节效应分析",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "元分析得出的总体上的结论，并不是对现实中某些未得到支持的具体研究的否定，这里仅仅考虑的是两个变量间的简单相关，其联系的密切程度很可能受到了其它变量的调节或干扰。本研究发现：",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "孤独感和手机成瘾的总体相关受到了不同年龄群体的调节，验证了假设2。相对于青少年群体，两者的相关系数在成年人群体中更高。该结果与前言中的预期不一致，从发展性失补偿假说的观点来看，年龄越高，心理发展越成熟，出现病理性补偿的几率更低(高文斌，陈祉妍，2006；吴茜玲等,2019)，孤独感与手机成瘾的相关应在年龄稍低的青少年群体中更高。本结果与这一说法相反，这可能与手机的易得性有关，成年人的手机持有率比青少年更高，当出现心理困扰时更容易借助随身携带的手机进行逃避和补偿，而青少年由于经济的不独立，使得手机的使用和获取较为不便，因此借助手机排遣孤独的可能性较低(中国互联网络信息中心,2019)。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "此外本研究中成年人群体中大部分调查对象为大学生，其面临的心理发展任务是获得亲密的人际关系，防止孤独感出现，而手机所包含的社交功能为解决该矛盾提供了便利，因此大学生比青少年的孤独感问题更突出，也更可能对手机形成依赖(Kim,2017；卿再花等,2017)。最后，本结果还可能与外部的约束程度有关，同大学生相比，青少年在手机使用上受到家长和学校乃至手机使用程序本身的管控与约束较多，因而形成依赖的可能性较低(丁倩等,2019;Gao et al,2020)。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "本研究还发现性别对孤独感与手机成瘾关系的调节作用不显著，未支持假设3，说明两者间的关系可能存在跨性别的稳定性。虽然不同性别的个体可能对手机使用的具体内容存在不同的偏好，男生可能更偏好于游戏类的应用，女生可能更偏好社交类的应用，但从手机总体的使用程度来看，可能不存在显著的性别差异(Ciarrochi et al.,2016; Coyne et al.,2020; Karadag etal.,2015)。实证研究也的确有结果发现孤独感和手机成瘾均不存在显著的性别差异(Jafari et al,2019;Liu,Yang et al.,2019)，与本研究类似的元分析也发现手机使用与焦虑、抑郁的关系同样不受性别因素的调节(张斌等,2019)，说明孤独感等不良情绪产生时，利用手机化解可能是比较普遍的做法。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "此外，本研究还发现孤独感与手机成瘾的测量工具对孤独感与手机成瘾关系的调节作用不显著，未支持假设4和假设5，说明孤独感与手机成瘾的相关受测量工具的影响较小。首先就孤独感的测量工具ULS-20 和ULS-8 而言，虽然两者的测量题数不同，前者是把ULS 第二版不合时宜的题目完善后得到的，而后者是把ULS 第二版不合时宜的题目删减后得到的。两者测量的题目保持了高度的一致，测量属性也比较接近，且均是单维结构，一定程度均能测量孤独感的突出表现(Hays＆DiMatteo,1987; Russell,1996)，因而对孤独感与手机成瘾关系的影响不显著。其次，就手机成瘾的测量工具而言，虽然 MPAI、MPATS、SAS以及 SAS-C 测量的内容和长度稍有不同，但编制时均参考了DSM-IV 中诊断物质成瘾或病理性赌博的标准，因此均涵盖了手机成瘾的重要成分，如戒断性、耐受性，失控性等。因而对孤独感与手机成瘾关系的影响也不存在显著差异。需要注意的是，本研究分析测量工具的调节效应时为保证结果的准确性和稳定性，亚组分析时遵循了较为严格的标准(Card,2012)，低于5个效应值的亚组并未纳入。因此，孤独感与手机成瘾的关系是否受到使用数量较少的个别测验工具的影响仍需未来进一步确认。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.3 研究意义与展望",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "以往关于孤独感与手机成瘾关系的理论观点和研究结果均存在不一致的现象。本研究通过元分析首次澄清了以往诸多理论观点间的争议，以及实证研究中孤独感与手机成瘾相关强度和方向不一致的问题，发现两者之间存在中等程度的正相关。研究结果支持了补偿性网络使用理论(Kardefelt-Winther,2014)和自我调节缺陷模型(Tokunaga&Rains,2010)的观点。但本研究也存不足之处。首先，需要注意的是当下关于手机成瘾的概念仍未达成一致意见，因此本研究中纳入文献也含了问题性手机使用以及手机依赖以及手机过度使用方面的研究；其次，本研究仅关注了孤独感与一般性手机成瘾的关系，未来还可分析孤独感与特定性社交网站成瘾、网络游戏成瘾的关系。最后，本研究仅仅关注的是孤独感与手机成瘾之间的简单相关，由于原始研究数量的限制，未充分关注可能影响孤独感与手机成瘾直接关系的心理变量(如内外向人格、自我表露)，这限制了对\"富者更富\"模型的检验。未来待资料丰富后可做进一步分析，为将来的心理健康干预研究提供更加清晰的思路。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "5研究结论",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "孤独感与手机成瘾之间存在中等程度的正相关，孤独感水平较高的个体对手机的依赖程度更高，反之亦然；两者间的关系受被试年龄群体的调节，两者的相关系数在成年人群体中显著高于青少年群体；两者间的相关不受性别、孤独感和手机成瘾测量工具的调节，未来应加强纵向研究进一步揭示孤独感和手机成瘾的关系随时间的变化规律。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "\\*元分析用到的参考文献  \n\\*陈嘉豪.(2019).大学生孤独感、自我控制与手机依赖的关系及干预研究(硕士学位论文).广西师范大学，桂林.  \n\\*陈向丽.(2015).大学生手机成瘾与孤独感、社会支持的关系研究．佳木斯职业学院学报,(3),365-366.  \n\\*崔玉玲，彭美，韩玉莹，黄敏侠.(2015).大学生手机依赖与自尊、孤独感的关系．中国健康心理学杂志,23(8),1193-1196.  \n\\*邓岑珊．大学生人格特质、孤独感与手机依赖的关系研究 (硕士学位论文).江西科技师范大学，南昌  \n丁倩，张永欣，周宗奎.(2019).父母低头族与中学生手机成瘾的关系：父母监控的调节作用.中国特殊教育,(1),66-71.  \n\\*范士青，李雪源.(2016).大学生手机成瘾分类及其对人际关系和孤独感的影响.湖北第二师范学院学报,33(7), 51-54.  \n\\*方小平.(2018).大学生解释偏向、孤独感对手机成瘾的影响.江西社会科学,38(9),224-231.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "冯志远，万鹏宇，黄琴，黄霞妮，徐明津，杨新国.(2016).大学生社会支持、心理韧性、网络欺负及生活满意度",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "的关系研究.中国健康教育,32(1),8-11+31.  \n\\*符明秋，熊琳，校嘉柠，杨帅.(2016).未成年人手机依赖与孤独感的关系：自尊的中介作用.社区心理学研究,2(0),125-136.  \n\\*付兵红.(2019).大学生手机依赖与孤独感关系研究．黑龙江教育(理论与实践),(12),17-20.  \n\\*甘良梅，丁浩.(2015).高职学生人格特质、孤独感与手机依赖的关系.职业教育研究,17(12),75-78.  \n\\*高大鹏，张杏杏，孙延超，贾丽萍.(2019).潍坊市某医学院校学生手机成瘾与孤独感及焦虑的关系.医学与社会,32(7), 95–98.  \n\\*高海燕.(2014).独立学院大学生手机依赖与孤独感的研究.时代教育,(9), $7 8 \\substack { + 8 0 }$ 号  \n\\*高蓉，朋文佳，江婧，姜欢欢，董男男，胡传来.(2019).大学生手机依赖与孤独感的关系：社会支持的中介作用．蚌埠医学院学报,44(10),1389-1393.  \n高文斌，陈祉妍.(2006).网络成瘾病理心理机制及综合心理干预研究.心理科学进展,14(4),596-603.  \n\\*高洋.(2017).中职生手机依赖与孤独感、应对方式的关系研究 (硕士学位论文).云南师范大学，昆明.  \n\\*管浩圻，陈丽兰.(2015).海南大学生交往焦虑在手机成瘾与孤独感间的中介作用.中国学校卫生,36(8),1164-1166.  \n\\*郭璐璐.(2017).手机成瘾者的抑制控制能力缺陷 (硕士学位论文)．西南大学，重庆.  \n\\*海庆玲.(2016).云南在职员工的手机依赖与孤独感的关系研究.福建质量管理,(19),173-174.  \n\\*何安明，王晨淇，惠秋平.(2018).大学生孤独感与手机依赖的关系：消极应对方式的中介和调节作用.中国临床心理学杂志,26(6),1222-1225.  \n\\*何川，张霞，于文汶，张静.(2019).大学生群体性孤独与手机成瘾、社会支持的关系研究.赤子,(25),186-187.  \n胡耿丹，项明强.(2011)．国内大学生网络成瘾影响因素的元分析．中国特殊教育,(6),66-71.  \n\\*贾丽娟.(2018).高中生手机依赖与孤独感的关系：自尊和安全感的中介效应(硕士学位论文).河北师范大学，石家庄.  \n\\*贾玮.(2017).高职生手机成瘾性使用现状及心理成因研究.天津职业院校联合学报,19(11),119-124.  \n\\*姜少凯.(2019).中职生手机依赖、孤独感与人际关系的关系.中小学心理健康教育,(8),13-16.  \n\\*姜永志，白晓丽.(2014).大学生手机互联网依赖与孤独感的关系：网络社会支持的中介作用.中国特殊教育,(1),41-47.  \n\\*李贝贝.(2018).大学生手机互联网依赖与孤独感的关系.潍坊工程职业学院学报,31(6),43-48.  \n\\*李春生.(2015).大学生手机依赖与孤独感及感觉寻求的关系研究(硕士学位论文).苏州大学.  \n\\*李静，闫国伟，张静平.(2016).医学生手机依赖与孤独感的关系：应对方式的中介作用.中国健康心理学杂志,24(12),1828-1831.  \n\\*李力.(2015).大学生孤独感、人际信任与手机依赖的关系及教育启示(硕士学位论文).安徽师范大学，芜湖  \n\\*李丽，梅松丽，牛志民，宋玉婷.(2016).大学生孤独感和睡眠质量的关系：智能手机成瘾的中介作用及性别的调节作用.中国临床心理学杂志,24(2),345-348+320.  \n\\*李腾飞，张良.(2015).大学生社会支持与手机成瘾的关系：孤独感的中介作用．青少年研究（山东省团校学报), (1),50-53.  \n\\*李苑文.(2013).网络、手机成瘾青少年的同伴依恋与孤独感的特点及其关系研究(硕士学位论文).华中师范大学，武汉.  \n\\*李长玲.(2018).大学生手机依赖倾向：基于社会支持与孤独感的研究.鄂州大学学报,25(2),76-79.  \n\\*刘海娟，姚德雯.(2016).大学生手机成瘾与孤独感和自我和谐的关系.心理与行为研究,14(3),406-410.  \n\\*刘红，王洪礼.(2011).大学生手机成瘾与孤独感、手机使用动机的关系.心理科学,34(6),1453-1457.  \n\\*刘宁，刘一如，马少勇，王乐.(2018)．低年级医学生孤独感现状及影响因素分析.兰州教育学院学报,34(3),160-162.  \n刘勤学，杨燕，林悦，余思，周宗奎.(2017).智能手机成瘾：概念、测量及影响因素．中国临床心理学杂志，25(1), 82-87.  \n\\*刘文俐，蔡太生.(2015).社会支持与大学生手机依赖倾向的关系：孤独的中介作用.中国临床心理学杂志,23(5),926-928.  \n\\*刘小磊.(2016).大学生归因方式、孤独感及冲动性对手机依赖倾向的影响研究(硕士学位论文)．新乡医学院.  \n\\*刘艳，周少斌.(2019).高职大学新生自尊、社会性问题解决、孤独感与手机依赖的关系.中国健康心理学杂志, 27(5),777–780.  \n\\*刘志强.(2014).高职生手机成瘾与孤独感、社会支持的关系.现代预防医学,41(16),2970-2973+2992.  \n\\*罗星宇.(2017).大学生孤独感与智能手机成瘾的关系：影响模型及其干预研究(硕士学位论文).华中师范大学，武汉.  \n\\*吕慧娟，郭雅婷，朱兴英.(2018).莆田学院大学生手机依赖与心理健康的关系．青年时代,(35),146-147+149.  \n\\*吕倩倩.(2016).中职生智能手机依赖、人际关系、无聊倾向的现状及关系研究(硕士学位论文).福建师范大学，福州.  \n\\*马雪梅，范斌.(2019).大学生手机依赖与孤独感的关系和社会支持的中介效应.锦州医科大学学报,40(1),83-87+104.  \n\\*米继红.(2017).中职生父母教养方式与手机依赖的关系：孤独感与人际关系的中介作用(硕士学位论文).河北师范大学，石家庄.  \n\\*卿再花，吴彩虹，曹建平，刘小群，邱小艳.(2017).父母冲突对大学生手机成瘾的影响：认知评价与孤独感的",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "链式中介作用．中国临床心理学杂志,25(6),1083-1087.\\*邱慧燕.(2014).中学生手机依赖性与孤独感之间的相关研究.教学与管理(理论版),(33),96-98.\\*邱蕾.(2018).大学生孤独感在社会支持和手机成瘾间的中介效应.医学教育研究与实践,26(1),113-116.\\*全开凤.(2014).高职新生手机依赖现状及心理成因研究 (硕士学位论文).贵州师范大学，贵阳.沈彩霞，刘儒德，王丹.(2013).儿童网络行为与孤独感的关系——人格的调节效应．心理科学,36(5),1140-1145.\\*史华伟，李娟，马志强，郑波.(2019).无锡市高职学生手机成瘾状况与羞怯感、孤独感的关系研究.医学与社会,32(12), 112-115+121.\\*史梦薇，王优.(2018)．大学生孤独感和手机依赖的关系研究．贵阳学院学报(社会科学版),13(2),90-93.苏双，潘婷婷，刘勤学，陈潇雯，王宇静，李明月.(2014).大学生智能手机成瘾量表的初步编制．中国心理卫生杂志,28(5),392-397.\\*孙君洁，李东斌，虞悦.(2017).大学生手机依赖与社交焦虑、孤独感的关系.赣南师范大学学报,38(2),121-124.\\*汤凯婷，姜兆权，张会君.(2019).医学生智能手机成瘾在孤独感与社会支持关系之间中介作用.锦州医科大学学报(社会科学版),17(4),70-72.\\*唐慧琳，蔡晓璐.(2018)．两岸大学生手机依赖与孤独感的关联.南京晓庄学院学报,34(1), $8 9 - 9 1 + 1 2 3$ \\*唐文清，黄献，王恩界.(2018).大学生手机成瘾倾向与人际关系困扰和孤独感的关系.中国心理卫生杂志,32(12),1045-1049.\\*涂巍.(2016).大学生社会支持、孤独感与手机依赖的关系研究.科教导刊,(7),166-168.\\*王芳，李然，路雅，张福龙.(2008)．山西大学本科生手机依赖研究.中国健康教育,24(5),381+384.\\*王芳.(2016).大学生手机依赖及其与孤独感、社会支持的关系.佳木斯职业学院学报,(2),444-445.\\*王慧慧，王孟成，吴胜齐.(2015).不同手机成瘾类型对大学生人际关系和孤独感的影响——基于潜剖面分析的结果.中国临床心理学杂志,23(5),881-885.\\*王礼申，朱如倩.(2016)．社交焦虑对大学生手机依赖与孤独感的影响.韶关学院学报,37(7),122-125.王美芳，许文伟，王欣欣.(2017).父母严厉管教与青少年学业成绩的关系：青少年自我表露的中介作用.中国临床心理学杂志,25(4),684-690.\\*王平，孙继红，王亚格.(2015).大学生手机成瘾与孤独感、父母教养方式的关系研究.当代教育科学,(1),56-$5 8 \\substack { + 6 1 }$ \\*王相英.(2012).大学生手机成瘾与孤独感、人格特质的关系研究.中国特殊教育,(12),59-63.\\*王瑜.(2018).中职学生手机依赖与无聊倾向性、社会支持的关系研究(硕士学位论文).大连医科大学.",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "\\*韦耀阳.(2013).大学生手机依赖与孤独感的关系研究.聊城大学学报(自然科学版),26(1),83-85+89.",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "112.\\*沃尔佳.(2017).大连外国学生智能手机依赖与孤独感研究 (硕士学位论文).大连理工大学.吴茜玲,罗娇，白纪云，侯木兰，李霞.(2019).大学生安全感对手机成瘾的影响：回避现实社交的中介作用.心",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "理发展与教育,35(5),589-596.  \n\\*吴琴，张斌，邹何辉.(2019).抑郁对青少年手机成瘾的影响：孤独感的中介作用.教育生物学杂志,7(3),138-143.  \n\\*吴亚楠，赵广平.(2017).大学生手机依赖与孤独感、述情障碍的关系研究.长春教育学院学报,33(5),20-23.  \n\\*夏炜.(2015).内蒙古师范类高校大学生手机依赖的调查研究(硕士学位论文).内蒙古师范大学，呼和浩特.  \n\\*夏艳雨，何安明.(2017).大学生手机成瘾与孤独感的关系——应付方式的中介作用．内江师范学院学报,32(12),12-17.  \n\\*肖雅戈.(2015).大学生手机依赖及其与孤独感、社会支持的关系(硕士学位论文).湖南师范大学，长沙.  \n\\*谢孟哲，张俊杰，武海英.(2019).孤独感对手机依赖的影响：自尊的中介作用.智库时代,(52),264-265.  \n\\*谢其利，宛蓉.(2015).大学生羞怯与手机成瘾倾向：孤独感的中介作用.贵州师范大学学报 (自然科学版),33(2),28-31.  \n\\*熊健宁静，缪绍疆.(2015).孤独感在生命质量与手机成瘾间的中介作用.中国健康心理学杂志,23(9),1363-1367.  \n熊婕，周宗奎，陈武，游志麒，翟紫艳.(2012).大学生手机成瘾倾向量表的编制.中国心理卫生杂志,26(3),222-225.  \n\\*熊思成，袁孟琪，张斌，李雨欣.(2018).大学生孤独感与手机成瘾：负性情绪和消极应对方式的中介作用.中国健康心理学杂志,26(12),1857-1861.  \n\\*徐畅.(2018).父母教养方式对大学生手机依赖的影响：社会支持、孤独感的多重中介(硕士学位论文).湖南师范大学，长沙.  \n\\*闫凤霞，吕佳.(2017)．自尊对大学生手机成瘾的影响：孤独感的中介效应.校园心理,15(5),373-375.  \n\\*闫子寒，朱炤熙，刁端勋，王晓焘.(2016)．高中生手机问题使用现况及其与孤独感关系调查分析.江苏预防医学,27(5),638-639.  \n\\*严静，刘倩诗，雷彩华.(2015).大学生手机依赖与睡眠质量、孤独感的相关研究.时代教育,(19),87-88.  \n\\*杨春红.(2016).大学生手机成瘾倾向、孤独感与人际关系的关系(硕士学位论文).鲁东大学，烟台.  \n\\*杨兮，吴亚平，吴红梅.(2017).大学生手机成瘾与孤独感、社会支持关系研究——以贵州师范学院为例.洛阳师范学院学报,36(6),88-90  \n\\*姚梦萍，贾振彪，陈欣，周静.(2015).大学生无聊倾向与手机依赖行为关系.中国公共卫生,31(2),215-217.  \n张斌，熊思成，徐依，陈芸，肖长根，莫彦芝.(2019).手机使用与焦虑、抑郁的关系：一项元分析．中国临床心理学杂志,27(6),1144-1150.  \n\\*张玲玲，邱蕾.(2019).基于结构方程模型的海南大学生手机成瘾与孤独感、社会支持的关系研究.江苏预防医学,30(2),143-146.  \n\\*张雪凤，高峰强，耿靖宇，王一媚，韩磊.(2018).社交回避与苦恼对手机成瘾的影响：孤独感、安全感和沉浸的多重中介效应.中国临床心理学杂志,26(3),494–497.  \n张亚利，李森，俞国良.(2019a).大学生无聊倾向与认知失败的关系：手机成瘾倾向的中介作用及其在独生与非独生群体间的差异.心理发展与教育,35(3),344-351  \n张亚利，李森，俞国良.(2019b).自尊与社交焦虑的关系：基于中国学生群体的元分析.心理科学进展,27(6),1005-1018.  \n\\*张岩，周炎根，裴涛.(2015).大学生孤独感在人际适应性和手机互联网依赖关系中的中介效应.中国心理卫生杂志,29(10),774-779.  \n\\*赵秀秀.(2016).高职生手机使用依赖、孤独感和社会支持的关系研究(硕士学位论文)．南昌大学.  \n中国互联网络信息中心.(2019).第44次《中国互联网发展状况统计报告》．2020-08-07取自 htp://www.cnnic.net.cn/hlwfzyj/h1wxzbg/hlwtjbg/201908/t20190830_70800.htm  \n\\*钟琦，尹胜，蒋森，陆心仪，李贝贝，宋莉莉，黄芬.(2017)．某高校临床医学\" $5 { + } 3 \"$ 一体化学生手机依赖与心理健康关系的现况研究.蚌埠医学院学报,42(9),1234-1237.  \n\\*钟旭辉．小城镇青年手机使用与依赖研究 (硕士学位论文).南昌大学.  \n\\*周芳蕊.(2018).大学生抑郁、孤独与手机依赖：手机使用类型的中介作用(硕士学位论文).吉林大学，长春.  \n\\*朱永红.(2015).独立学院大学生社会支持、孤独感与手机成瘾的关系(硕士学位论文).华中师范大学，武汉.  \n\\*庄鸿娟，刘儒德，刘颖.(2017).青少年同伴依恋与问题性手机使用的关系：自我建构对孤独感中介作用的调节．心理科学,40(1),89-95.  \n邹泓，周晖，周燕.(1998).中学生友谊、友谊质量与同伴接纳的关系.北京师范大学学报 (社会科学版)(1),43-50.  \n\\*左春荣，欧阳儒阳，杨长根.(2019).大学生自我表露、手机依赖与孤独感的关系研究.赤峰学院学报(自然科学版),35(3),119-121.  \n\\*Bian， M.，& Leung,L. (2015). Linking loneliness, shyness， smartphone addiction symptoms,and patterns ofsmartphone use to social capital. Social Science Computer Review,33(1), 61-79.  \n\\*Blachnio,A.,&Przepiorka,A.(2Ol9).Beaware! Ifyou start using facebook problematicallyyou willfeel lonely:Phubbing,loneliness,self-esteem,and facebook intrusion.Across-sectional study.Social Science ComputerReview,37(2),270-278.  \nBruggeman,H.,Van Hiel,A., VanHal,G.,& VanDongen,S.(2019).Does theuse ofdigital media affectpsychologicalwell-being? An empirical test among children aged 9 to 12. Computers in Human Behavior,101,104-113.  \n\\*Cakir,O.,& Oguz,E. (2017).Thecorelation between high school students' loneliness levels and smart phoneaddiction. Mersin University Journal of the Faculty of Education,13(1),418-429.  \nCard,N.A. (2012). Applied meta-analysis for social science research. New York: Guilford Press.  \nCholiz, M. (2010). Mobile phone addiction: A point of issue. Addiction,105(2),373-374.  \nCiarochi,J.,Parker,P.,ahdra,B.,Marshal,S.,Jackson,C.,Gloster,A.T.,&Heaven,P.(O16).The developmntofcompulsive internet use and mental health: A four-year study of adolescence. Developmental Psychology, 52(2)272-283.  \nCohen,J.(1988). Statistical power analysis for the behavioral sciences (2nd ed.).Hillsdale: Erlbaum  \nCoyne,S.M.,Rogers,A.A., Zurcher,J.D., Stockdale,L.,& Booth, M. (2020). Does time spent using social mediaimpact mental health? An eight year longitudinal study.Computers in Human Behavior. Advance onlinepublication. htps://doi.org/10.1016/j.chb.2019.106160  \nCoyne,S. M.，Stockdale,L.,& Summers,K. (2019). Problematiccellphoneuse,depression,anxietyand self-regulation: Evidence froma three year longitudinal study from adolescence to emerging adulthood. Computers inHuman Behavior,96,78-84.  \n\\*Dayapoglu,N., Kavurmaci,M.,& Karaman,S. (2016).The relationship between the problematic mobile phone useand life satisfaction,loneliness,and academic performance in nursing students. International Journal ofCaringSciences, 9(2), 647-652.  \nDe-Sola Gutierrez,J. Rodriguez de Fonseca,F., & Rubio, G. (2016). Cell-phone addiction: Areview.Frontiers inPsychiatry, 7, Article 175. https:/doi.0rg/10.3389/fpsyt.2016.00175  \nDienlin,T.,Masur,P.K.,&Trepte,S. (2017).Reinforcement ordisplacement?ThereciprocityofFtF,IM,and SNScommunication and their efects on loneliness and life satisfaction. Journal of Computer-MediatedCommunication,22(2), 71-87.  \nDindia,K.,& Allen,M. (1992). Sex diffrences in self-disclosure: A meta-analysis.Psychological Bulletin12(1),106-124.  \n\\*Enez Darcin,A.,Kose,S.,Noyan,C.O.,Nurmedov,S.,Ylmaz,O.,& Dilbaz,N. (2016).Smartphoneaddictioand",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "its relationship withsocialanxietyand loneliness.Behaviour& Information Technology,35(7),520-525. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "\\*Gao,Q.,Jia,G,Fu,E.,Olufadi,Y.,&Huang,Y. (2020). Aconfigurational investigation ofsmartphoneuse disorder among adolescents in three educational levels.Addictive Behaviors. Advance online publication. https://doi.0rg/10.1016/j.addbeh.2019.106231 ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Gignac,G.E.,&Szodorai,E.T. (2Ol6).Effectsizeguidelines forindividual differencesresearchers.Personalityand Individual Differences,102,74-78.   \n\\*Güzeller, C. O.，& Cosguner,T. (2012).Development of a problematic mobile phone use scale for Turkish adolescents. Cyberpsychology, Behavior, and Social Networking,15(4),205-211.   \nHao,Z., Jin,L.,Li,Y.,Akram,H.R.,Saeed,M.F.,Ma,J.,..& Huang,J. (2019).Alexithymia and mobile phone addiction in Chinese undergraduate students: The roles of mobile phone use patterns. Computers in Human Behavior,97,51-59.   \nHays,R.D., & DiMateo,M.R.(1987).Ashort-form measure ofloneliness Journal of Personality Assessment, $5 I ( 1 )$ 69-81.   \nHiggins,J.P.T.,Thompson,S.G.,Deeks,J.J.,&Altman,D.G. (2o3). Measuring inconsistency in meta-analyes. British Medical Journal,327(7414),557-560.   \n\\*Holte,A. J. (2018). Smartphone dependence: Relation to text-message dependence,personality，and loneliness (Unpublished master's thesis). University of North Dakota.   \nHorwood, S.,& Anglim, J. (2019). Problematic smartphone usage and subjective and psychological well-being. Computers in Human Behavior, 97,44-50.   \n\\*Hosoglu,R. (2019).Investigating mobile phone adiction in high school students.Addicta:The Turkish Journal on Addictions, 6, 51-68.   \nHoughton,S.,Lawrence,D,Hunter,S.C.,Rosenberg,M.,Zadow,C.,Wood,L.& Shilton,T.(2018).Reciprocal relationships between trajectories of depressive symptoms and screen media use during adolescence. Journal of Youth and Adolescence, 47(11),2453-2467.   \nHunter, J.E., & Schmidt,F.L.(2oo4).Methods of meta-analysis:Correcting error and bias inresearch findings (2nd ed.). Newbury Park: Sage.   \n\\*Iqbal,M.,&Nurdiani, G.(2O16).Issmartphone addictionrelated tolonelines?Specialty JournalofPsychologyand Management,2(2),1-6.   \n\\*Jafari, H.,& Aghaei,A. (2019).The relationship between addiction to mobile phone and senseof loneliness among students of medicalsciencesin Kermanshah, Iran.BMCResearchNotes,12， Article676. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "\\*Jeong,S.H.,Kim,H.,Yum,J.Y.,&Hwang,Y.(2O16).What type ofcontent are smartphone users addicted to? SNS vs. games. Computers in Human Behavior,54,10-17. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Karadag,E.,Tosuntas,S.B.,Erzen,E.,Duru,P.,Bostan,N.,Sahin,B.M.,..&Babadag,B.(2o15).Determinantsof phubbing,which is the sum of many virtual addictions: A structural equation model.Journal of Behavioral Addictions, 4(2), 60-74.   \nKardefelt-Winther, D.(2014).A conceptual and methodological critique of internet addiction research: Towards a model of compensatory internet use. Computers in Human Behavior,31, 351-354.   \n\\*Karsay,K.,hmuck,D.,Matthes,J.,& Stevic,A. (29).Longitudinaleects ofexceive smarphoneuseostrs and loneliness: The moderating role ofself-disclosure. Cyberpsychology,Behavior, and Social Networking,22(1), 706-713.   \nKerestes, G.,& Stulhofer,A.(2020).Adolescents'online social network use and life satisfaction: Alatent growth curve modeling approach. Computers in Human Behavior. Advance online publication. https://doi.0rg/10.1016/j.chb.2019.106187   \nKerkhof,P.,Finkenauer, C.，& Muusses,L.D.(2011).Relational consequences of compulsive internet use: A longitudinal study among newlyweds. Human Communication Research,37(2),147-173.   \n\\*Kim, J.H. (2017).Smartphone-mediated communicationvs.face-to-face interaction: Two routes to social supportand problematic use of smartphone. Computers in Human Behavior, 67,282-291.   \nKim,J.H.(2018).Psychological issues and problematic use ofsmartphone: ADHD's moderatingrolein the associations among loneliness,need for social assurance,need for immediate connection,and problematic use of smartphone. Computers in Human Behavior, 80,390-398.   \n\\*Kim, J. H.(2019).Longitudinal assciations among psychological issues and problematic useofsmartphones.Journal of Media Psychology,31(3),117-127.   \nKneidinger-Muler,B. (2019). When the smartphone goes ofline: Afactorial surveyofsmartphone users' experiences of mobile unavailability. Computers in Human Behavior, 98,1-10.   \nKraut，R.，Kiesler， S.，Boneva，B.，Cummings,J.，Helgeson，V.，& Crawford，A.(2002). Internet paradox revisited. Journal of Social Issues,58(1), 49-74.   \nKraut,R.,Paterson,M.,Lundmark,V.,Kiesler,S.,Mukopadhyay,T.,&Scherlis,W.(998).Internetparadox:Asocial technology that reduces social involvement and psychological well-being? American Psychologist,53(9),1017- 1031. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Kwon,M.,Lee,J.Y.,Won,W.Y.,Park,J.W.,Min,J.A.,Hahn,C.,..&Kim,D.J. (21).Developmentand validation ofasmartphoneaddictinscale (SAS). PlOS ONE,8(2)，Article e56936. https://doi.org/10.1371/journal.pone.0056936 ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "\\*Lapierre,M.A.(2O2).Smartphones andloneliness inlove:Testing links between smartphoneengagement,loneliness, and relational health. Psychology of Popular Media, 9(2),125-134.   \n\\*Lapierre,M.A., Zhao,P.，& Custer,B.E. (2019). Short-Term longitudinal relationships between smartphone use/dependencyand psychological well-being among late adolescents.Journal of Adolescent Health,65(5),607- 612.   \n\\*Laramie,D. J. (2oo7).Emotional and behavioral aspects of mobile phone use (Unpublished doctorial dissertation). Alliant International University, Los Angeles.   \nLee,H.,Ahn,H.,Choi,S.,& Choi, W.(2O14).The SAMS: Smartphone addiction management systemand verification. Journal of Medical Systems, 38(1), Article 1. https://doi.0rg/10.1007/s10916-013-0001-1   \n\\*Lee,K.N.,& Kim, H. H. (2019). The relationship of parent-child communication,loneliness and interpersonal problems on adolescents' smartphone addiction. Youth Facility Environment,17(3),27-36.   \nLeung,L. (20o08).Linking psychological atributes to addiction and improper use of the mobile phone among adolescents in Hong Kong. Journal of Children and Media, 2(2), 93-113.   \nLiu, D.,& Baumeister,R.F. (20l6).Social networking online and personalityofself-worth: A meta-analysis.Journal ofResearch inPersonality,64,79-89.   \nLiu,D.,Baumeister,R.F., Yang, C. C.,& Hu,B.(2019). Digital communication media useand psychological wellbeing: A meta-analysis. Journal of Computer-Mediated Communication,24(5),259-273.   \n\\*Liu,Q. Q., Yang, X.J.,Zhu, X.W.,& Zhang,D.J. (2o19). Attchment anxiety,loneliness,ruminationand mobile phone dependence: A cross-sectional analysis of a moderated mediation model. Current Psychology. Advance online publication. https://doi.0rg/10.1007/s12144-019-00464-x   \nLong, J.,Liu,T.Q.,Liao,Y.H.,Qi,C.,He,H.Y., Chen,S.B.,&Bilieux,J. (2016).Prevalence and corrlatesof problematic smartphone use in a large random sample of Chinese undergraduates. BMC Psychiatry,16,Article 408. https://doi.0rg/10.1186/s12888-016-1083-3   \n\\*Mahapatra, S. (2019). Smartphone addiction and associated consequences: Role of lonelinessand self-regulation. Behaviour& Information Technology, 38(8), 833-844.   \n\\*Mansourian,M.,Solhi,M., Adab, Z.,& Latifi,M.(2014).Relationship between dependence to mobile phone with loneliness and social support in University students.Razi Journal of Medical Sciences,21(120),1-8. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "\\*Mosalanejad,L.,Nikbakht, G.,Abdollahifrad,S.,& Kalani,N. (2019).The prevalence ofsmartphone addictionand its relationship with personality traits,loneliness and daily stressof students in Jahrom Universityof Medical Sciences in 2014: A cross-sectional analytical study. Journal of Research in Medical and Dental Science,7(2), 131-136. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "\\*Parashkouh,N.N.,Mirhadian,L.,EmamiSigaroudi,A.,Leili,E.K,& Karimi,H. (2018).Addiction to theinteret and mobile phones and its relationship with lonelinessin Iranian adolescents.International Journal of Adolescent Medicine and Health. Advance online publication. htps://doi.org/10.1515/ijamh-2018-0035   \n\\*Park, W. K. (2005). Mobile phone addiction. In R. Ling & P.E. Pedersen (Eds.), Mobile communications: Renegotiation of the social sphere (pp. 253-272). London, England: Springer.   \nPeplau,L.A.,Russel,D,&Heim,M.(1979).The experienceoflonelines.InI.H.Frieze,D.Bar-Tal,&J.S.Carroll (Eds.),New approaches to social problems: Applications of atribution theory (pp.53-78). San Francisco, CA: Jossey-Bass.   \nPrzybylski, A. K.,& Weinstein,N. (2017). Alarge-scale test of the goldilocks hypothesis: Quantifying the relations between digital-screen use and the mental well-eing ofadolescents.Psychological Science,28(2),204-215.   \nRichard,F.D.,Bond Jr,C.F.,& Stokes-Zoota,J.J. (2O03). One hundred years of social psychologyquantitatively described. Review of General Psychology,7(4),331-363.   \nRothstein, H.R.,Sutton,A.J.,&Borenstein,M. (2oo5).Publicationbias inmeta-analysis: Prevention,assessmentand adjustments. Chichester: John Wiley & Sons Ltd.   \nRussell,D. W. (1996). UCLA Loneliness Scale (Version 3): Reliabilityvalidity,and factor structure.Journalof Personality Assessment, 66(1),20-40.   \nSadeghi,M.,Barahmand,U.,&Roshannia,S. (202o). Diferentiationofselfand hope mediated byresilience: Gender diferences. Canadian Journal ofFamily and Youth,12(1),20-43.   \nScher,S.,Toma, C.,& Schuster,B. (2019).Depressionasa predictoroffacebooksurveillanceand envy:Longitudinal evidence from a cross-lagged panel study in Germany. Journal of Media Psychology: Theories, Methods，and Applications,31(4),196-202.   \nSchmidt,F.L.,Oh,1.S.,&Hayes,T.L. (209).Fixed-versusrandom-efects models in meta-analysis: Modelproperties and an empirical comparison of differences in results.British Journal of Mathematical and Statistical Psychology, 62(1),97-128.   \n\\*Shen,X.,& Wang,J.L. (2019).Lonelinessand excessive smartphone use among Chinese college students: Moderated mediation effect of perceived stressed and motivation. Computers in Human Behavior, 95,31-36.   \nTakao，M.， Takahashi， S.，& Kitamura，M.(2009).Addictive personalityand problematic mobile phone use. CyberPsychology & Behavior,12(5), 501-507.   \n\\*Tan,C.，Pamuk， M.，& Donder,A. (2013). Loneliness and mobile phone.Procedia-Social and Behavioral Sciences,103,606-611.   \nTokunaga,R.S.,& Rains,S.A.(2010).Anevaluation oftwo characterizations ofthe relationships between problematic Internet use,time spent using the Internet,and psychosocial problems.Human Communication Research,36(4), 512-545.   \nTwenge,J. M., Martin, G.N.,& Campbell,W. K.(2018). Decreases in psychological wel-being among American adolescents after 20l2 and links to screen time during the rise of smartphone technology.Emotion,18(6),765- 780.   \nVincenzi,H.,& Grabosky,F. (1987).Measuring theemotional/socialaspects of lonelinessand isolation.Journalof Social Behavior and Personality, 2(2),257-270.   \n\\*Volungis,A.M.,Kalpidou,M.,Popores,C.& Joyce,M. (20l9).Smartphone addiction and itsrelationship with indices of social-emotional distress and personality. International Journal of Mental Health and Addiction. Advance online publication. https://doi.org/10.1007/s11469-019-00119-9   \n\\*Wang,H.Y., Sigerson,L.,Jiang, H.,& Cheng, C. (2018).Psychometric properties and factor structures ofChinese smartphone addiction inventory: Test of two models. Frontiersin Psychology,9，Article 1411. https://doi.0rg/10.3389/fpsyg.2018.01411   \nWang,K.,Frison,E.,Eggermont,S.,& Vandenbosch,L. (2018). Active publicFacebook useand adolescents'feelings of loneliness: Evidence for a curvilinear relationship. Journal of Adolescence, 67, 35-44.   \n\\*Yayan,E. H., Suna Dag,Y.,&Duken,M.E. (2O19). The efects of technology use on working young loneliness and social relationships. Perspectives in Psychiatric Care,55(2),194-200.   \n\\*Zhen,R.,Liu,R.D., Hong,W.,& Zhou, X. (2019).How do interpersonal relationships relieveadolescents' problematic mobile phone use? The roles ofloneliness and motivationto use mobile phones. International Journal of Environmental Research and Public Health,16(13), Article 2286. htps://doi.org/10.3390/ijerph16132286 ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "The relationship between loneliness and mobile phone addiction: A meta",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "analysis ",
+        "text_level": 1,
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Yali'; LI Sen1; YU Guoliang² ( School ofEducation,Renmin UniversityofChina,Beijing loo872,China) ( InstituteofPsychology,Renmin University ofChina,Beijing100872,China) ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Loneliness and mobile phone addiction are common phenomena in our daily life,seriously affecting our physical and mental health. Recently, numerous empirical studies have discussed the relationship between these two constructs based on different theoretical perspectives. However, the reported efect sizes of this relationship based on cross-sectional designs are far from consistent. Therefore,this meta-analysis was conducted to explore the strength and moderators of the relationship between loneliness and mobile phone addiction. One hundred and thirty-one studies consisting of 134 independent samples involving 73,543 participants were identified and a random-effects model was selected to conduct this meta-analysis. The results of the funnel plot and Egger's intercept illustrated no publication bias.Furthermore,the results ofthe main-effect test indicated that there was a moderate and positive correlation between loneliness and mobile phone addiction ( $_ { r } = 0 . 2 5$ ， $9 5 \\% C I { = }$ [0.23, 0.27]).Additionally， the moderation analyses revealed that the strength of the relationship was moderated by the type of participants, but not by gender and measurement tools of loneliness and mobile phone addiction. The results supported the compensatory Internet use theory and the deficient self-regulation model. Longitudinal or experimental studies are needed in the future to further explore the direction of the relationship between loneliness and mobile phone addiction. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Key words: loneliness； mobile phone addiction; mobile phone dependency； problematic mobilephone use; meta-analysis",
+        "page_idx": 27
+    }
+]

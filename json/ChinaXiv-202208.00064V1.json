@@ -1,0 +1,486 @@
+[
+    {
+        "type": "text",
+        "text": "中喀喇昆仑布拉尔杜冰川近期跃动分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王振峰1²，蒋宗立²，刘时银³，杨婧睿²，马致远²，王雯清²(1.湖南科技大学测绘遥感信息工程湖南省重点实验室,湖南 湘潭411201；2.湖南科技大学地球科学与空间信息工程学院，湖南 湘潭411201；3.云南大学国际河流与生态安全研究院,云南 昆明650500)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：喀喇昆仑山分布有众多的跃动型冰川,跃动机理存在异质性。使用Landsat、Sentinel-1A、TSX/TDX等多源遥感数据，获取了中喀喇昆仑布拉尔杜冰川在跃动期间冰川表面高程和表面流速变化。结果表明：布拉尔杜冰川从2006年开始，流速逐渐增加;到2013年之后进入快速运动期，最高流速可达 $4 . 9 \\ \\mathrm { m \\cdot d ^ { - 1 } }$ ;2015年8月底，冰川表面速度急剧下降，随后保持较低的流速至2016年1月，而后流速再次增加，到同年2月初便进入平静期。2000—2014年冰川主干中上游有明显隆起，而冰川接收区明显减薄，最大减薄达 $8 9 ~ { \\mathrm { m } } ; 2 0 1 4 { \\mathrm { - } } 2 0 1 8 { \\mathrm { ~ } }$ 年冰川主干中上游以及各支流均有不同程度的减薄，冰川主干的接收区高程显著增加，最大增厚 $1 2 0 \\mathrm { m }$ 。根据冰川表面高程变化以及流速变化的特征，认为布拉尔杜冰川的支流引发了此次跃动，且本次跃动受水文机制的影响较大；结合现有的数据和文献，推断布拉尔杜冰川的跃动间隔约为 $4 0 \\mathrm { ~ a ~ }$ ；为喀喇昆仑冰川跃动研究提供更多的实例，也可为此区域冰川灾害预警研究提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：冰川跃动；表面流速；表面高程；TanDEM-X；布拉尔杜冰川文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "冰川跃动是冰川准周期性的运动，在短暂的跃动阶段(通常以高流速为特征)和漫长的静止阶段(以末端停滞或退缩为特征)之间交替[1-2]。在跃动阶段，大量的冰川物质从上游积蓄区快速向下游接收区迁移，导致冰川表面高程发生剧烈变化。大规模的冰川物质再分配可能会导致冰川末端前进、冰川湖溃决洪水(GLOF)等一系列灾害，从而威胁流域内居民的生命和财产安全。例如，2015年东帕米尔地区的克拉牙依拉克冰川发生跃动，引发的雪崩造成大量的牧场和牧民的房屋被破坏3；2016年西藏阿鲁错冰川跃动/冰崩造成牧民和牲畜死亡[4]。因此，研究冰川跃动的过程及控制机理对于预防和减轻跃动带来的灾害具有重要理论和实践意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "跃动型冰川并未均匀的分布在世界冰川区，它们往往聚集在少数地区[5-6],如阿拉斯加及加拿大育空、斯瓦尔巴德群岛、格陵兰岛以及喀喇昆仑、天山、帕米尔等中亚部分山系[7-9],俄罗斯的高加索和新西伯利亚群岛等地区也曾出现过关于冰川跃动的报道[10]。虽然跃动型冰川仅约占全球冰川总数的 $1 \\%$ ,但是其重要影响却不可忽视[5]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前存在两种普遍接受的假说解释冰川跃动：冰下水文机制模型和冰下热转换机制模型[-12]。冰下水文机制模型是在阿拉斯加杂色(Variegated)冰川1982—1983年跃动研究的基础上发展起来的[13],水文控制的跃动主要由于冰下孔隙水压力的改变而导致的不稳定，通常伴随着冰下排水通道的重组，这类跃动通常在排水效率低下的冬季开始，结束于排水效率高的夏季。热转换机制模型是在斯瓦尔巴德地区冰川的研究中发展起来的[14],热转换机制的跃动是由于冰川积蓄区的物质不断积累致使冰川底部温度达到融点，冰川底部静水压力的上升致使底部快速滑动，当底部融水全部流失后跃动结束。由于冰川底硕特性很难观测，大部分地区的跃动机制仍不明确。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在全球变暖的气候背景下，全球冰川整体上呈现不同程度的持续退缩，而喀喇昆仑地区由于异常的区域物质平衡5和大量跃动型冰川倍受关注。研究表明喀喇昆仑的跃动机理存在异质性，一方面认为喀喇昆仑地区的跃动是受热转换机制控制，Quincey等i7利用卫星遥感对喀喇昆仑地区5条冰川的跃动过程进行研究，量化了这5条冰川流速的时空变化，并认为喀喇昆仑地区近期的冰川跃动是由热转换机制控制的，且与该地区降水增加和冰川积累模式导致的高海拔地区变暖相一致;另一方面对单个冰川跃动的事件观测表明冰下水文条件的变化是主要触发机制，如Bhambri等i8基于多源遥感数据对喀喇昆仑地区Shispare冰川跃动前后的流速、高程和表面特征的变化进行分析，认为Shispare冰川的跃动是由冰下水文机制控制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前喀喇昆仑地区详细的冰川跃动过程描述仍然缺乏,至今仅有Shispare、Hispar、Kyagar、Khur-dopin以及Baltoro等冰川的跃动过程有相对详细的遥感观测[18-22]。随着遥感技术快速的发展使得对跃动冰川的识别和研究更加快捷，利用获得的冰川跃动过程及特征可以推断冰川的跃动控制机制。本研究收集了布拉尔杜冰川跃动期间Sentinel-1数据，基于雷达影像偏移追踪法提取了此冰川表面运动速度，此外还基于TerraSAR-X/TanDEM-X数据生成的数字高程模型(DEM)对冰川表面高程变化进行量化，描绘其跃动特征，进而对其控制机理进行探讨，以期对喀喇昆仑布拉尔杜冰川跃动的进一步认识，为喀喇昆仑冰川跃动研究提供更多的实例。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "布拉尔杜冰川位于喀喇昆仑中部,其融水汇入什玛莎河，上游东侧与音苏盖提冰川相接。喀喇昆仑地区主要受亚洲季风影响，夏季降水量占总降水量的 $8 0 \\%$ 。布拉尔杜冰川编号为RGI60-14.04411,中心位置为 $3 6 ^ { \\circ } 0 7 ^ { \\prime } \\mathrm { N } , 7 5 ^ { \\circ } 5 2 ^ { \\prime } \\mathrm { E }$ (图1)，此冰川主体呈现自南向北的流向，是由多条支冰川组成的树枝状山谷冰川,面积约为 $1 7 6 \\mathrm { k m } ^ { 2 [ 2 3 ] }$ 。冰川末端被大量表碛所覆盖，表面还育有少量冰面湖。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2014年发射的Sentinel-1A卫星搭载C波段传感器，具有全球采集、重访周期短和良好的空间分辨率等特点，使其成为研究冰川运动的重要数据源。本研究利用Sentinel-1A十涉宽幅(IW)模式的",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "注：图中数字为支冰川编号。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f0bf629dc5d97a75309ada6cbd13b3ec945d83abb51a366fac1f96b0c86e564f.jpg",
+        "img_caption": [
+            "图1布拉尔杜冰川位置",
+            "Fig.1 Location of the Braldu Glacier "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "影像获取布拉尔杜冰川2014—2018年的流速变化，并结合ITS_LIVE项目(https://nsidc.org/apps/itslive/)中的高亚洲地区冰川的年均流速数据进行分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TerraSAR-X/TanDEM-X(TSX/TDX)系统是由德国宇航局(DLR)先后发射的两颗X波段SAR卫星组成的单轨双天线双星分布式系统。两颗卫星具有相似的结构，且采用近距离螺旋结构运行，重复周期为 $1 1 \\mathrm { ~ d ~ }$ 。该系统在双基站模式下，可以同时采集干涉对的主从影像，具有“0时间基线”的特点。SRTM是在2000年由美国国家航空航天局和国家影像与测绘局联合进行的航天飞机雷达地形测绘任务，SRTM的观测宽度为 $2 2 5 ~ \\mathrm { k m }$ ,其生成了全球约$8 0 \\%$ 陆地表面的数字高程模型。本文使用Ter-raSAR-X/TanDEM-X影像提取新的DEM，与SRTMDEM共同用于计算布拉尔杜冰川跃动前后表面高程的变化，同时SRTMDEM也作为参考DEM对SAR数据进行基于地形的精配准。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Landsat数据通过美国地质调查局(USGS,https:/learthexplorer.usgs.gov/)进行处理和分发。本文选取了夏秋两季云雾较少的影像，主要用于监测布拉尔杜冰川跃动期间冰川末端和内侧冰碛的变化。本研究中使用数据见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2冰川表面流速与高程提取 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1冰川表面流速提取由于冰流速度过快而导致的冰面失相干使得D-InSAR难以获得高质量的干涉条纹图，而偏移量跟踪法中的强度追踪法却可以克服冰面失相干的问题，被认为是获取冰川流速的可靠手段[24-25]。强度追踪的原理是根据图像的纹理(条纹或后向散射强度)的最大相关系数来计算目标的偏移量。本文采用瑞士GAMMA合成孔径雷达软件中的Offset Tracking 模块对Sentinel-1A影像进行偏移量估计，具体流程如图2。在偏移量追踪计算时需要对搜索窗口的大小进行设定，窗口尺寸过小会导致单个窗口不稳定，可能无法在其他图像中找到对应的窗口。经试验，将匹配窗口设置为$2 5 6 { \\times } 6 4$ 效果最佳。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文利用SAR影像偏移量追踪技术获取的冰川流速，其误差主要来自图像配准、图像对的偏移估计及系统误差。为了对冰川表面流速的精度进行评估，通常假设非冰川区为静止区域，静止区域包含上述所有误差源。因此通过非冰川区残差位移对冰川流速结果进行评估，具体公式2为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne _ { \\mathrm { o f f } } = \\sqrt { \\mathrm { M E D } ^ { 2 } + \\mathrm { S E } ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S E } = \\frac { \\mathrm { S D } } { \\sqrt { N _ { \\mathrm { e f f } } ^ { } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN _ { \\mathrm { e f f } } = \\frac { N _ { \\mathrm { t o t a l } } R } { 2 D }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $e _ { \\mathrm { o f f } }$ 为非冰川区偏移量的误差;MED为非冰川区偏移量的平均值;SE为非冰川区偏移量的标准误差;SD为非冰川区偏移量平均值的标准差； $N _ { \\mathrm { e f f } }$ 为去自相关后的像元个数； $N _ { \\mathrm { t o t a l } }$ 为非冰川区像元总数； $R$ 为像元分辨率； $D$ 为去除空间自相关距离。根据上述公式可得非冰川区偏移量误差为 $0 . 0 1 6 \\mathrm { m } { \\cdot } \\mathrm { d } ^ { - 1 }$ 远小于冰川速度的观测值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2冰川表面高程提取及变化计算在瑞士GAMMA软件平台下对TSX/TDXSAR数据进行差分干涉处理，在差分干涉处理的过程中引入 $1 { \\mathrm { ~ r a d } } \\cdot \\mathbf { s } ^ { - 1 }$ SRTMDEM作为参考DEM，从而获取TSX/TDXDEM。主要处理步骤：首先将SRTMDEM模拟转换为SAR成像数据，其次TSX/TDX与SRTM模拟的SAR数据进行配准并共轭相乘生成干涉图，通过差分处理，去除SRTMDEM模拟的地形相位和基线误差导致的线性相位，从而得到冰川表面高程变化的残差相位，将得到的残差相位加上SRTM模拟的地形相位，最后经过地理编码，即可生成高精度的TSX/TDXDEM[28],具体流程如图3。将生成的TSX/",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1使用的数据源",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/5513b3c9a020a3b138b9d9e031ef2fbfe3b7f30dcc2f71e9319ffddfc19467ed.jpg",
+        "table_caption": [
+            "Tab.1 Datasets used in this study "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>数据</td><td>用途</td><td>分辨率</td><td>日期</td></tr><tr><td>Sentinel-1A</td><td>冰川流速监测</td><td>5 m×20 m</td><td>2014-10-31—2018-03-21</td></tr><tr><td>TerraSAR-X/TanDEM-X</td><td>冰川高程变化监测</td><td>1.4 mX2.2 m</td><td>2014-02-19、2018-08-27</td></tr><tr><td>SRTM-C</td><td>冰川高程变化监测</td><td>30 m×30 m</td><td>2000-02</td></tr><tr><td>Landsat/OLI</td><td>冰川表面变化分析</td><td>30 m×30 m</td><td>2013-07-05、2014-07-24、2015-09-13、2016-10-01、2017-09-20</td></tr><tr><td>Landsat/ETM+</td><td>冰川表面变化分析</td><td>30 m×30 m</td><td>2005-09-02、2006-07-26、2007-07-09、2012-07-10</td></tr><tr><td>Landsat/TM</td><td>冰川表面变化分析</td><td>30 m×30 m</td><td>2008-09-25、2009-08-27、2010-10-17、2011-08-17</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TDXDEM与SRTMDEM进行配准后，采用大地测量法计算2000—2014年、2014—2018年布拉尔杜冰川的表面高程变化。因SRTM-X未完全覆盖研究区，故本文选取SRTM-C进行研究。由于微波对冰雪具有一定的穿透性，利用InSAR得到的冰川表面高程可能低于实际高程。考虑到TSX/TDX与SRTM-X的载频几乎相同，因此在进行冰川高程变化计算时，注：SRTMDEM为航天飞机雷达地形测绘获取的数字高程模型;SLC为单视复数影像。下同。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/30bb855208e00adf6390eb28706c8c9c5cfb5e9361f1da2487c5b3c093f00002.jpg",
+        "img_caption": [
+            "图2偏移量追踪方法获取冰川表面流速流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0505b9b22a59798d0e97c2b988ed4af74bbcbe865708b68dfe0f63bdc09cc5fd.jpg",
+        "img_caption": [
+            "Fig.2 Schematic diagram for acquirement of the surface velocity of glaciers using offset tracking method ",
+            "图3TSX/TDX差分干涉获取DEM流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "注：TSX/TDX为双基站条带模式获取的单视复数影像;TSX/TDXDEM为TSX/TDX经差分干涉生成的数字高程模型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "可利用SRTM-XDEM对C波段的冰雪穿透深度进行估算和校正[29],经计算得出SRTM-C在喀喇昆仑地区的穿透深度约为 $2 . 4 \\mathrm { m } ^ { [ 3 0 ] }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "冰川表面高程变化的不确定性评估方法与上文冰川表面速度的不确定性评估类似，假定非冰川区高程无变化，利用非冰川区的高程差对DEM数据间相对误差进行评估。最终不同DEM数据间高程误差 $( \\sigma )$ 可用下列公式表示[26]：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma = \\sqrt { \\mathrm { M E D } ^ { 2 } + \\mathrm { S E } ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S E } = { \\frac { \\mathrm { S D } } { \\sqrt { N } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $N$ 为去自相关后的像元个数，经计算得到2000—2014年和2014—2018年非冰川区表面高程变化的总体误差分别为 $0 . 8 5 \\mathrm { m }$ 和 $2 . 4 1 \\mathrm { m }$ （图4）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1冰川表面流速变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用偏移量追踪的方法获取了布拉尔杜冰川2014年10月一2018年1月的时序表面流速数据，为了进一步地观察冰川流速的时间变化，本研究沿冰川中心线提取速度剖面图(图5)。从图中可以看到冰川中上游在2014年10月已具有较高的流速，最高流速达 $3 . 6 \\mathrm { m \\cdot d ^ { - 1 } }$ ，此时布拉尔杜冰川处于高速运动期。随后冰川的跃动前锋保持较高的流速向下游推进，在此过程中最高流速达 $4 . 9 \\ \\mathrm { m \\cdot d ^ { - 1 } }$ 。到2015年8月底，冰川表面流速急剧下降，跃动前锋的推进随着冰川流速的下降而终止，冰川进入平静期。然而到2016年1月初，冰川表面流速突然增加，最高注：MED为非冰川区偏移量的平均值;SE为非冰川偏移量的标准误差； $\\sigma$ 为高程误差。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ac5cd05f7e317649b5e12e9c8b95c0f61233998990009c6c1c9f958b93ed8d7.jpg",
+        "img_caption": [
+            "Fig.3Flow chart for DEM generation from TSX/TDX differential interferometry ",
+            "图4非冰川区表面高程变化",
+            "Fig.4 Elevation change in non-glacier area "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/dd41a084e877576f2091a0ec012e6c329f0922104e5440d46f142d2a7d0ebc59.jpg",
+        "img_caption": [
+            "干旱区地理",
+            "图5布拉尔杜冰川沿主流线日均流速变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "流速达到 $3 . 9 \\mathrm { m \\cdot d ^ { - 1 } }$ ,这种高流速的状态维持了一个月，随后冰川进入平静期。结合ITS_LIVE项目(https://nsidc.org/apps/itslive/)中的高亚洲年均流速数据对布拉尔杜冰川进行分析(图6)，发现从2006年起，布拉尔杜冰川主干中上游的流速逐年升高，具有明显的跃动前锋并向下游缓慢推进，此时冰川已经显示出跃动特征趋势。布拉尔杜冰川在2012一2015年处于快速运动期，在此期间最高流速可达 $4 0 0 \\ \\mathrm { m \\cdot a ^ { - 1 } }$ 。布拉尔杜冰川由多个支冰川汇流而成，图7为布拉尔杜冰川详细的冰川流速数据，从图7a\\~d、图 $7 \\mathrm { g }$ 中可以观察到在跃动期间不仅冰川主干具有较高的流速，支冰川流速也相对较高；而在平静期，布拉尔杜冰川主干和其支冰川均处于缓慢流速的状态(图7e\\~f、图 $7 \\mathrm { h } \\mathrm { \\sim } \\mathrm { i }$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f0ad4c68f86bbe36a453686e80ec42f3a48e3413fc13b8063b760febf993817.jpg",
+        "img_caption": [
+            "Fig.5Variation of daily average velocity along the mainstream of the Braldu Glacier ",
+            "图61989—2018年布拉尔杜冰川沿主流线流速变化 Fig.6 Velocity variation along the mainstream of the Braldu Glacier during 1989—2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2冰川表面高程变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了定量分析冰川跃动前后表面高程的变化，本文基于大地测量法获得2000—2014年、2014—2018年布拉尔杜冰川的表面高程变化(图8)，由于2014年的TSX/TDX数据没有完全覆盖布拉尔杜冰川，因此导致图8部分区域缺失。2000—2014年3、4号支冰川向主干输送大量的冰川物质，致使冰川主干中上游有明显隆起，1、2、5、6号支冰川与主干相接的位置也明显增厚，而冰川主干的下游以消融为主，其高程明显降低。2014—2018年布拉尔杜冰川主干中上游以及各支冰川有不同程度的减薄，而冰川主干的接收区明显增厚,最大增厚可达 $1 2 0 \\mathrm { m }$ ○",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "沿冰川中心线提取布拉尔杜冰川2000—2014年和2014—2018年的表面高程变化(图9)，结果表明在2000—2014年，冰川的下游( $( 0 { \\sim } 1 3 \\ \\mathrm { k m } )$ 以消融为主，最大减薄 $8 9 \\mathrm { ~ m ~ }$ ，而冰川主干中上游(距末端$1 3 { \\sim } 2 6 ~ \\mathrm { k m }$ )有不同程度增厚；2014—2018年，冰川主干的接收区( $( 6 { \\sim } 1 3 \\ \\mathrm { k m } )$ 高程显著增加，冰川主干中上游减薄 $5 { \\sim } 2 0 ~ \\mathrm { m }$ 不等。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f5f698ff0991b3b1cc3b5a4f1b397e5c5d272e0dae9d205df63a87fca2cc04f.jpg",
+        "img_caption": [
+            "图72014—2017年布拉尔杜冰川详细的流速变化",
+            "Fig.7Detailed velocity changes of the Braldu Glacier during 2O14—2017 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ITS_LIVE年均流速（图6表明此冰川从2006年开始缓慢加速，并逐渐向下游推进。根据Landsat影像发现5、6号支冰川的冰硕从2006年起逐渐向外扩展，结合图8a中的高程变化可以发现5、6号支冰川与冰川主干相接位置有明显的增厚，故认为5、",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6号支冰川从2006年起便处于跃动状态，这与Gardelle等[3研究的结果相一致，但他们的研究中认为1号支冰川也处在跃动期，而本文仅通过2000一2014年高程和表硕的变化无法判别1号支冰川是否从2006年开始跃动。从2009年开始，3、4号支冰川的冰硕(距末端 $2 3 \\mathrm { k m }$ 处)逐渐扩大并沿主干向下游推进，结合冰川表面流速的结果(图5、图6)",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9b8acc47374530bdb1aa82dcb4890f1faa8ad77baf7a3619f8c92f2a925b8a69.jpg",
+        "img_caption": [
+            "干辛区地理",
+            "图8布拉尔杜冰川表面高程变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/4ae3c70a91dd29f53fe7a640c7b2b9099142d3ba45142741a4d47b37dc3b9c7c.jpg",
+        "img_caption": [
+            "Fig.8 Change of the Braldu Glacier surface elevation ",
+            "图9布拉尔杜冰川沿主流线表面高程及高程变化 Fig.9Elevation and elevation change profile of the Braldu Glacier along the mainstream "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "发现布拉尔杜冰川从2011年开始处于高速运动的状态，随着支冰川和主干上游的冰川物质向下游推进，冰川主干中部的表碛受到挤压发生扭曲并向下游继续推进。而布拉尔杜冰川表面冰磷的变化是由于表面速度的不均匀性所导致，同时也表明冰川处于跃动阶段[32]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过冰川表面流速和冰碛的变化发现布拉尔杜各支冰川跃动的起始时间并不一致，根据2000—2014年布拉尔杜冰川高程变化结果(图8a)可以推断布拉尔杜冰川的各分支在2014年之前均已开始跃动。图8a的结果显示在2014年之前仅有3、4号支冰川的物质向下游传递，致使冰川主干的中上游0 $1 3 { \\sim } 2 0 ~ \\mathrm { k m } ,$ )明显增厚；1、2、5、6号支冰川虽在此之前已经发生跃动，但来自这四条支冰川上游的物质大多聚集在与冰川主干相接的位置，故此认为3、4号支冰川的跃动引起主干冰川的第一阶段跃动。而在2014年之后，冰川主干的中上游和各支冰川的冰川物质沿冰川主干向下游传播，导致冰川主干的接收区( $( 6 { \\sim } 1 3 \\ \\mathrm { k m } )$ )的高程显著增加，最大增厚约120$\\mathrm { ~ m ~ }$ ，而1、2、5、6号支冰川明显减薄，由此认为1、2、5、6号支冰川的跃动引起第二阶段的跃动。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由于缺乏2006—2013年详细的流速数据，无法获取布拉尔杜冰川跃动初期流速变化的特征。Quincey等[33]利用光学影像特征匹配法获取2014年布拉尔杜冰川夏季表面流速数据，发现8月的流速与7月相比大幅下降，且通过现有的流速数据也发现此冰川在2015年8月底突然减速，在保持一段低速运动后，于2015—2016年冬季突然加速，随后逐渐减速。布拉尔杜冰川流速的季节性变化比较符合冰下水文控制冰川的跃动特征，速度在夏季急剧下降,在冬季会上升[34-35]。受水文控制的冰川跃动，流速与冰下水压直接相关，流速的大小取决于冰下排水系统的状态[36]。在夏季，大量融水的输人致使排水渠道高效的运转，冰下水压下降，导致流速下降。由于冰体的持续压缩运动和可塑性，排水通道在秋冬季节随着融水的减少而变得低效运转，随后冰下水压升高，最终冬季冰流加速。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "与喀喇昆仑其他跃动冰川相比，布拉尔杜冰川在跃动期间并未表现出较高的流速，最高流速仅$4 . 9 \\ \\mathrm { m \\cdot d ^ { - 1 } }$ 。而与布拉尔杜冰川相邻的Hispar冰川在2015年春季的最高流速可达 $1 4 ~ \\mathrm { m \\cdot d ^ { - 1 } }$ ，此冰川在2015年夏季被观察到流速突然下降，却在2015—2016年冬季再次加速，其跃动也被认为是与冰下水文状况有关，且Hispar冰川此次跃动主要受其支流影响[19]。Quincey等[33]通过对一些喀喇昆仑冰川跃动过程研究发现，喀喇昆仑地区的冰川跃动并不完全符合经典的水文控制模型或热控制模型，地形和表硕物也是影响跃动的重要因素。布拉尔杜冰川表面覆盖着厚厚的表硕和死冰，这些物质可能会阻碍冰川物质向下游输送，",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "此外,张祥松[37曾观察到布拉尔杜冰川的末端在1968—1973年前进了约 $9 0 0 \\mathrm { ~ m ~ }$ ,并且前进的冰舌与韦斯米亚兹河口的冲积扇相接;Rankl等[38]利用SRTM、TerraSAR-X、ALOSPALSAR和ENVISATASAR等多源雷达影像对喀喇昆仑冰川变化进行研究，发现布拉尔杜冰川上次跃动发生在1976年之前，因此推断布拉尔杜冰川的跃动间隔约为 $4 0 \\mathrm { a }$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）根据ITS_LIVE年均流速数据发现，从2006年开始，布拉尔杜冰川年均流速逐渐增加，展现出跃动趋势。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）结合布拉尔杜冰川高程变化数据发现，在2014年之前，此冰川的各支冰川均已开始跃动，但仅有3、4号支冰川持续向下游进行物质传输，而其余支冰川在2014年之后开始向下游进行物质的传输，可认为由于3、4号支冰川的跃动引起主干冰川的第一阶段跃动，1、2、5、6分支在2014—2018年物质向下游迁移引起第二阶段跃动。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）根据布拉尔杜冰川2014—2018年详细的流速数据，发现此冰川流速的变化特征比较符合水文控制冰川的跃动特征。结合现有的文献及影像数据，推断布拉尔杜冰川的跃动间隔约为 $4 0 \\mathrm { a }$ ○",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]Meier MF,Post A.What are glacier surges?[J]. Canadian Journal of Remote Sensing,1969,6(4): 807-817.   \n[2]Copland L,Sylvestre T,Bishop MP,et al. Expanded and recently increased glacier surging in the Karakoram[J].Arctic Antarctic and Alpine Research,2011,43(4): 503-516.   \n[3]Shangguan D,Liu S,Ding Y,et al. Characterizing the May 2015 Karayaylak Glacier surge in the eastern Pamir Plateau using remote sensing[J]. Jounal of Glaciology,2016,62(235): 944-953.   \n[4]Kaab A,LeinssS, Gilbert A, et al. Massive collapse of two glaciers in western Tibet in 2O16 after surge-like instability[J].Nature Geoscience,2018,11(2): 114-120.   \n[5]Sevestre H, Benn D I. Climatic and geometric controls on the global distribution of surge-type glaciers: Implications for a unifying model of surging[J]. Jounal of Glaciology,2015,61(228): 646-662.   \n[6]Wendt A,Mayer C,Lambrecht A,et al.A glacier surge of Bivachny Glacier,Pamir Mountains,observed by a time series of highresolution digital elevation models and glacier velocities[J]. Remote Sensing,2017,9(4),388,doi: 10.3390/rs9040388.   \n[7]Citterio M,Paul F,Ahlstrom AP,et al.Remote sensing of glacier change in West Greenland: Accounting for the occurrence of surge-type glaciers[J]. Annals ofGlaciology,2009,50(53): 70-80.   \n[8]Kotlyakov V M,Osipova G B,Tsvetkov D G. Monitoring surging glaciers of the Pamirs,Central Asia,from space[J]. Annals of Glaciology 2008,48:125-134.   \n[9]Pieczonka T, Bolch T. Region-wide glacier mass budgets and area changes for the Central Tien Shan between \\~1975 and 1999 using Hexagon KH-9 imagery[J]. Global & Planetary Change,2015,128 (5): 1-13.   \n[10] 冯力力,江利明,柳林,等.新疆克拉牙依拉克冰川变化(1973— 2016)主被动遥感监测分析[J].国土资源遥感,2020,32(2):162- 169.[Feng Lili,Jiang Liming,Liu Lin,et al.Karayaylak Glacier changes in the Kongur Mountain of eastern Pamir between 1973 and 2016 based on activeand passve remote sensing technologies[J]. Remote Sensing for Land and Resources,2020, 32(2): 162-169.]   \n[11] Kamb B,Engelhardt H. Waves of accelerated motion in a glacier approaching surge: The mini-surges of Variegated Glacier,Alaska, USA[J]. Journal of Glaciology,1987,33(113): 27-46.   \n[12] Murray T,Stuart G W, Miller PJ,et al. Glacier surge propagation by thermal evolution at the bed[J]. Journal of Geophysical Research-Earth Surface,2000,105(B6): 13491-13507.   \n[13]Kamb B,Raymond C F, Harrison W D,et al. Glacier surge mechanism:1982—1983 surge of Variegated Glacier,Alaska[J]. Science,1985,227(4686): 469-479.   \n[14]Clarla CKC Calline SC Thomnenn D F Flnw tharmal ctrin ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ture,ana supglaclal conaiuions oI a surge-type glacierlJj. Canaqian Journal of Earth Sciences,1984,21(2): 232-40.   \n[15]Minora U,Bocchiola D,Agata C D,et al. 2001—2010 glacier changes in the Central Karakoram National Park:A contribution to evaluate the magnitude and rate of the“Karakoram anomaly' [J].The Cryosphere Discussions,2013,7(3): 7538,doi: 10.5194/ tcd-7-2891-2013.   \n[16]Paul F.Revealing glacier flow and surge dynamics from animated satellite image sequences: Examples from the Karakoram[J]. The Cryosphere,2015,9(6): 2201-2214.   \n[17]Quincey DJ, Braun M, Glasser N F,et al. Karakoram glacier surge dynamics[J]. Geophysical Research Lettrs,2011,38:1288-1300.   \n[18]Bhambri R,Watson C S,Hewitt K,et al. The hazardous 2017— 2019 surge and river damming by Shispare Glacier, Karakoram[J]. Scientific Rep0rts,2020,10: 4685,doi: 10.1038/s41598-020- 61277-8.   \n[19]Paul F,Strozzi T, Schellenberger T,et al. The 2O15 surge of Hispar Glacier in the Karakoram[J]. Remote Sensing,2O17,9(9): 888, doi: 10.3390/rs9090888.   \n[20]Round V,Leinss S,Huss M,et al. Surge dynamics and lake outbursts of Kyagar Glacier, Karakoram[J]. The Cryosphere,2017,11 (2): 723-739.   \n[21] SteinerJF, Kraaijenbrink PDA,Jiduc SG,etal. Brief communication: The Khurdopin Glacier surge revisited-extreme flow velocities and formation of a dammed lake in 2O17[J]. The Cryosphere, 2018,12(1): 95-101.   \n[22] Gibson M J,Glasser NF, Quincey D J,et al. Changes in glacier surface cover on Baltoro Glacier,Karakoram，north Pakistan, 2001—2012[J]. Journal of Maps,2017,13(2): 100-108.   \n[23]Sivaranjani S,Priya MG,Krishnaveni D.Glacier surface flow velocity of Hunza Basin,Karakoram using satelite optical data[Cl/ Natalya S.Advances in Intelligent Systems and Computing. Germany: Springer,2021(9): 669-677.   \n[24]Gray AL, Short N,Mattar K E,et al. Velocities and flux of the Filchner Ice Shelf and its tributaries determined from speckle tracking interferometry[J]. Canadian Journal of Remote Sensing, 2001,27(3): 193-206.   \n[25] Strozzi T,Luckman A,Murray T,et al. Glacier motion estimation using SAR offset-tracking procedures[J]. IEEE Transactions on Geoscience and Remote Sensing,2002,40(11): 2384-2391.   \n[26]Bolch T,Pieczonka T, Benn D I. Multi-decadal mass loss of glaciers in the Everest area (Nepal Himalaya) derived from stereo imagery[J]. The Cryosphere,2011,5(2): 349-358.   \n[27]Wu K, Liu S,Jiang Z, et al.Recent glacier mass balance and area changes in the Kangri Karpo Mountains from DEMs and glacier inventories[J]. The Cryosphere,2018,12(1): 103-121.   \n[28] 蒋宗立,王磊,张震,等.2000—2014年喀喇昆仑山音苏盖提冰 川表面高程变化[J].干旱区地理,2020,43(1):12-19.[Jiang Zongli,Wang Lei, Zhang Zhen,et al. Surface elevation changes of Yengisogat Glacier between 2000 and 2014[J].Arid Land Geography, 2020,43(1): 12-19.]   \n[29]Wu K,Liu S, Jiang Z, et al. Surging dynamics of glaciers in the Hunza Valley under an equilibrium mass state since 199o[J]. Remote Sensing,2020,12(18): 2922,doi: 10.3390/rs12182922.   \n[30]Lin H, Li G,Cuo L,et al.A decreasing glacier mass balance gradient from the edge of the upper Tarim Basin to the Karakoram during 2000—2014[J].Scientific Reports，2017,7(1):6712,doi: 10.1038/s41598-017-07133-8.   \n[31]Gardelle J, Berthier E,Arnaud Y. Slight mass gain of Karakoram glaciers in the early twenty-first century[J].Nature Geoscience, 2012,5(5): 322-325.   \n[32]Rashid I,Abdullah T,Glasser NF,et al. Surge of Hispar Glacier, Pakistan,between 2013 and 2017 detected from remote sensing observations[J]. Geomorphology,2018,303: 410-416.   \n[33]Quincey D J, Glasser NF,Cook S J,et al.Heterogeneity in Karakoram glacier surges[J]. Journal of Geophysical Research: Earth Surface,2015,120(7): 1288-1300.   \n[34]Harson W D,Motyka R J, Truffer M,et al.Another surge of VariegatedGlacier,Alaska,USA,2003/04[J].Jounal of Glaciology, 2008,54(184): 192-194.   \n[35]Raymond C F,Harrison W D.Evolution of Variegated Glacier, Alaska,USA,prior to its surge[J]. Journal of Glaciology,1988,34 (117): 154-169.   \n[36] Kamb B.Glacier surge mechanism based on linked cavity configuration of the basal water conduit system[J]. Jounal of Geophysical Research,1987,92(B9): 9083-9100.   \n[37] 张祥松.喀喇昆仑山音苏盖提冰川及其邻近冰川的近期变化 [J].冰川冻土,1980,2(3): 12-16.[Zhang Xiangsong.Recent variation of the Insukati Glacier and adjacent glaciers in the Karakoram Mountains[J]. Journal of Glaciology and Geocryology,1980, 2(3): 12-16.]   \n[38]Rankl M, Kienholz C,Braun M. Glacier changes in the Karakoram region mapped by multimission satellte imagery[J]. The Cryosphere,2014,8(3): 977-989. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Characteristics of recent surging of Braldu Glacier, Central Karakoram ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "WANG Zhenfeng1²，JIANG Zongli²，LIU Shiyin³, YANG Jingrui²， MA Zhiyuan²， WANG Wenqing²   \n(1.SchoolofResource&EnvironmentandSafetyEngineering,Hunan UniversityofSciencendTechnology,Xiangtan411201,   \nHunan, China;2.ScholofEarth Sciencesand Spatial Information Engineering,Hunan UniversityofScienceand Technology, Xiangtan 4112O1,Hunan,China;3.Institute of International Rivers and Eco-Security,Yunnan University, Kunming 650500,Yunnan, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The Karakoram hosts a large number of surge-type glaciers. However,the mechanisms of glacier surges are notclear yet. In this paper,Landsat, Sentinel-1A,TSX/TDX,and other multisource remote sensing data were used to obtain the changes in surface elevation and surface velocity of the Braldu Glacier during the surge period. The results show that the velocity ofthe Braldu Glacier has gradually increased since 2O06.After 2013,it entered a period of rapid movement, with the highest velocity reaching $4 . 9 \\ : \\mathrm { m \\cdot d ^ { - 1 } }$ . At the end of August 2015,the surface velocity decreased sharply.The glacier then kept alow velocity until January 2O16,when the velocity increased again.The rapid movement lasted only for about a month and then entered a quiet period.From 2OoO to 2014, there was a significant uplift in the middle and upper reaches of the glacier trunk, whereas the glacier receiving area decreased significantly,with a maximum thinning of $8 9 \\mathrm { m }$ .From 2014 to 2018,the upper and middle reaches of the glacier trunk and its tributaries were thinned to varying degrees,and the elevation of the receiving area of the glacier trunk increased significantly, with a maximum thickness increase of $1 2 0 \\mathrm { m }$ . According to the characteristics of surface elevation change and velocity change,it is considered that the tributary of the Braldu Glacier caused this surge, which in turn is greatly affected by hydrological mechanisms. Combined with available data and literature,it is inferred that the interval of the Braldu Glacier's surge is about 40 years. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words: glacier surging; surface velocity； surface elevation； TanDEM-X； Braldu Glacier",
+        "page_idx": 9
+    }
+]

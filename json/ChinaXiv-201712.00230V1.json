@@ -1,0 +1,304 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LY294002抑制PI3K/Akt信号通路阻断地塞米松降尿蛋白的作用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周志刚,吴汪丽，刘甜甜，彭云，旁文芹，梁敏,朱美华广州医科大学附属第二医院儿科，广东广州510260摘要：目的通过活体阿霉素(ADR)大鼠肾病模型探讨受地塞米松及LY294002影响的PI3K/Akt信号通路以及下游分子Bad的表达、尿蛋白变化相关性及其意义。方法 应用随机数表法将SD大鼠分为正常对照组(NC组),阿霉素肾病组(ADR组),阿霉素 $^ { \\mathrm { i } } +$ 地塞米松治疗组(DEX组)，阿霉素 $+$ 地塞米松+LY294002干预组(LY294002组)。分别于第7、14、28天进行24h尿蛋白定量检测;Western Blot检测肾皮质p-Akt、Akt和Bad蛋白表达水平,Q-PCR检测肾皮质Bad mRNA表达水平。结果 ADR组蛋白尿持续增加,p-AKT/AKT比值下降和Bad蛋白表达上调、Bad-mRNA表达增加,较正常NC组有统计学差异( $\\scriptstyle \\cdot { P < 0 . 0 5 }$ ；DEX组尿蛋白明显减少,p-AKT/AKT比值升高和 Bad蛋白表达下调、Bad mRNA表达减少,与NC 组无统计学差异 $( P { > } 0 . 0 5 )$ ;LY294002组的尿蛋白无减少，p-AKT/AkT比值下降和Bad蛋白表达上调、Bad mRNA表达增加,与DEX组有显著性统计学差异 $( P { < } 0 . 0 5 )$ 。结论地塞米松通过激活PI3K/Akt信号通路，下调其下游分子Bad的表达,减少阿霉素肾病大鼠尿蛋白;LY294002干预后可抑制该信号通路，阻断地塞米松减少尿蛋白的作用。这些结果表明PI3K/Akt信号通路是激素减少尿蛋白的信号传导机制之一。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：LY294002；PI3K/Akt信号通路；阿霉素肾病大鼠;蛋白尿;地塞米松",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LY294002 blocks the effect of dexamethasone in reducing urine protein in rats by inhibiting PI3K/Akt signaling pathway ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHOU Zhigang,WUWangli,LIUTiantian,PENGYun,LAOWenqin,LIANGMin,ZHUeihua DepartmentofPediatrics,SecondAffliatedHospitalofGuangzhouMedicalUnioersity,Guangzhou5O260,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ObjectiveTo investigate the involvement of PI3K/Akt signaling pathway in thechanges of urineprotein in adriamycin-induced nephropathicrats treatedwith dexamethasoneandLY294002 (a PI3K inhibitor).Methods SDrats were randomized into normal control group,ariamycin-induced nephropathy group (ADR group), ariamycin $^ +$ dexamethasone group (DEX group), and ADR $^ +$ DEX+LY294002 group (LY294002 group). On days 7, 14 and 28 after the treatments, $2 4 \\mathrm { - h }$ urine wascollected from therats toanalyzethe total urine proteins.Therenal tissues were obtainedonday28to examine the expressions ofp-AKT,AKTandBad proteinsinthecorticaltissesusing Westernbloting;teexpressionofBadmRNAinthe cortical tissues was measured by QPCR. Results Urine protein increased progressively in ADR group accompanied by significantly reduced p-AKT/AKTratioand increased Bad mRNA expresson in comparison with those in the normal control group $_ { ( P < 0 . 0 5 ) }$ . Urine protein was obviously reduced in DEX group with comparable p-AKT/AKT ratio and Bad mRNA expression level with those in the control group $( P { > } 0 . 0 5 )$ . Urine protein showed no significant reduction in LY294002 group, but the p-AKT/AKT ratio was significantly reduced and Bad mRNA expression was increased compared with those in DEX group $_ { ( P < 0 . 0 5 ) }$ . Conclusion Dexamethasone increases the expresson of Bad mRNA and reduces urine protein in adriamycin-induced nephropathicrats by activating PI3K/Akt signaling pathway. LY294002 can inhibit PI3K/Akt signaling pathwayto blockthe efectof dexamethasone,suggesting thatPI3K/Aktsignaling pathwayisone of thesignaling pathways that mediate the effect of dexamethasone on proteinuria . ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: LY294002; PI3K/Akt signaling pathway; adriamycin-induced nephropathy; proteinuria; dexamethason( ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蛋白尿是肾脏疾病主要的临床表现之一，也是肾脏病持续性进展的重要指标。糖皮质激素作为临床常用抗蛋白尿药物的机制尚不明确，以往认为是通过抗炎和免疫调节发挥抗蛋白尿作用，现研究表明，肾脏足细胞存在糖皮质激素的功能受体而起到保护作用。近几年从分子水平的研究，发现多种信号传导通路对足细胞的生长、表型转化、凋亡、自噬等起着重要的调控作用。PI3K/Akt信号通路是介导细胞存活的一条经典信号通路，广泛存在于真核细胞内，在人类的生理功能中起关键作用,涉及细胞生长、存活的众多过程[3-5]。研究表明PI3K/Akt信号通路在成纤维细胞、听毛细胞及肾小管上皮细胞等损伤中发挥重要保护作用。Xavier等发现肾脏的足细胞分子CD2AP参与TbetaRI与PI3K调节亚基p85之间的相互作用，激活PI3K/Akt的信号通路抗Tbeta诱导的足细胞调亡。Wada等8研究发现地塞米松(DEX)是通过下调P53，上调Bcl-xL和抑制AIF的转移而抑制足细胞的凋亡。我们前期的研究也表明PI3K/Akt信号通路在抗足细胞调亡中起着重要的作用，且发现DEX能抑制嘌呤霉素(PAN)致足细胞损伤的作用。以往的研究在体外阐明DEX通过PI3K/Akt信号通路与细胞的关系；但在活体动物体内，DEX是否通过PI3K/Akt信号传导通路降低蛋白尿的相关性尚未见报道。本实验通过活体阿霉素(ADR)大鼠肾病模型探讨受DEX及LY294002(PI3K抑制剂)影响下，PI3K/Akt信号通路的蛋白激酶(Akt)磷酸化的状况、下游分子调亡蛋白Bad、Bad-mRNA的表达与尿蛋白变化的相关性及其意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1实验材料与分组",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SPF级动物，雄性SD大鼠(购于中山大学实验动物中心)6\\~8周龄，24只;应用随机数表法分为正常对照组(NC组)；阿霉素肾病组(ADR组);阿霉素 $+ .$ 地塞米松治疗组(DEX组);阿霉素 $+$ 地塞米松 $\\cdot + \\mathrm { L Y } 2 9 4 0 0 2$ 干预组(LY294002组）。动物饲养于中山大学实验动物中心[设施合格证:SYXK(粤)2011-0112]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2投药程序 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "适应饲养1周后，ADR组，DEX组，LY294002组接受尾静脉注射 $5 ~ \\mathrm { m g / k g }$ ADR（D107159-25mg 阿拉丁，中国);NC组注射等量生理盐水。地塞米松干预：ADR注射后第7天和第14天，按剂量 $1 ~ \\mathrm { m g / k g }$ 对DEX组及LY294002组行地塞米松(D4902,sigma,美国)溶液腹腔注射；NC组、ADR组接受等量 $0 . 1 \\%$ DMSO溶剂(D4540,sigma,美国)腹腔注射。LY294002干预：ADR注射后第7天和第14天，LY294002组接受尾静脉注射LY294002(L9908,sigma,美国) $\\mathrm { \\ t { 0 . 3 \\ m g / k g } }$ ；NC组、ADR组与DEX组接受等量 $0 . 1 \\%$ DMSO溶剂尾静脉注射。ADR注射后第7、14、28天采集动物 $2 4 \\mathrm { h }$ 尿液。ADR注射后第28天处死动物摘取肾脏。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3实验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 $2 4 \\mathrm { h }$ 尿蛋白检测ADR注射后第7、14、28天，代谢笼收集 $2 4 \\mathrm { h }$ 尿液(BFSS19981大鼠代谢笼南京便诊生物科技有限公司)。采用Bradford方法检测24h尿蛋白(Bradford蛋白定量试剂盒购于广州永诺生物科技有限公司)：按照试剂盒说明书操作，采用DR-200BS多功能酶标仪(无锡华卫德郎仪器有限公司)检测样本 $5 9 5 \\mathrm { n m }$ 吸光度，计算尿蛋白含量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.2取材及标本制作每组各用 $2 { \\mathrm { ~ m L ~ } }$ EP管称取约$1 0 0 ~ \\mathrm { { m g } }$ 的肾皮质部分组织物，用 $4 \\mathrm { { ^ { \\circ } C } }$ 预冷的PBS洗去血迹,加入 $7 0 0 ~ \\mu \\mathrm { L }$ 的 $4 \\mathrm { { ^ \\circ C } }$ 预冷的PBS;剪碎组织物，电动离心，吸弃PBS,重复3次;加入 $3 0 0 { \\mu \\mathrm { L } }$ RIPA,匀浆 $5 { \\sim } 8 \\mathrm { m i n }$ $1 2 \\mathrm { 0 0 0 } \\mathrm { r / m i n } , 4 \\mathrm { \\% }$ 离心 $3 0 ~ \\mathrm { m i n }$ ；离心结束后取中间层液体(蛋白液)至新的已标记好的 $2 { \\mathrm { ~ m L } }$ EP管,记录样品量， $- 8 0 \\mathrm { { ^ { \\circ } C } }$ 冰箱保存备用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.3Westernblot检测肾皮质p-Akt、AKT、Bad蛋白表达水平 每个样本每孔加入 $5 0 ~ { \\mu \\mathrm { g } }$ 蛋白液行聚丙烯酰胺凝胶电泳（积层胶电泳： $9 5 \\mathrm { V } , 4 0 \\mathrm { m i n }$ ;分离胶电泳： $2 0 0 { \\mathrm { V } }$ $1 2 0 \\mathrm { m i n } ,$ ,湿转至硝酸纤维膜上 $( 2 5 0 \\mathrm { m A } , 1 \\mathrm { h } )$ ，以 $5 \\%$ 脱脂奶粉封闭，加稀释一抗(p-AKT,AKT,Bad,GAPDH均购自Cell Signaling Technology） $1 4 ^ { \\circ } \\mathrm { C }$ 孵育过夜,TBST洗涤 $7 \\ : \\mathrm { m i n } \\times 2$ ，然后加稀释二抗(购自Jackson)室温下摇床孵育 $6 0 ~ \\mathrm { { m i n } }$ ，经TBST洗涤 $7 \\mathrm { m i n } { \\times } 3$ 后加入ECL发光液(购自广州永诺生物科技有限公司),避光反应 $5 \\mathrm { m i n }$ 化学成像系统上曝光显影，用ImageJ分析目标条带的光密度值,采用GAPDH作为内参，用ImageTool软件进行定量分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.4QPCR检测肾皮质Bad-mRNA表达水平用Invitrogen公司的Trizol试剂盒，按试剂盒提供程序提取肾皮质总 $\\mathrm { R N A } _ { \\circ }$ $2 0 ~ \\mu \\mathrm { L }$ 逆转录反应体系含有 $5 ~ { \\mu \\mathrm { g } }$ 总RNA,0.1μg的随机引物， $2 0 0 \\mathrm { U }$ 的M-MLV（Invitrogen）,用黑马9600型PCR仪 $3 7 ~ \\mathrm { ^ { \\circ } C } , 6 0 ~ \\operatorname* { m i n } ; 9 5 ~ \\mathrm { ^ { \\circ } C } , 3 ~ \\operatorname* { m i n }$ 反应条件循环1次得到 $\\mathrm { c D N A }$ 。 $5 0 ~ \\mu \\mathrm { L }$ 的QPCR反应体系含有 ${ 5 \\mu \\mathrm { L } }$ 逆转录产物， $1 0 ~ \\mu \\mathrm { L }$ $5 { \\times } \\mathrm { S Y B R }$ Green1buffer, $1 \\mu \\mathrm { L }$ 10 mmol/L dNTPs（Promega）, $2 5 ~ \\mathrm { \\textmu m o l / L }$ 的上、下游引物各 $1 \\mu \\mathrm { L }$ （广州锐博生物设计的引物）,5UTaqDNA聚合酶(Promega)。用Bio-RADMJmini型荧光PCR仪(Bio-RAD)进行实时荧光定量PCR反应。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4统计学方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "用SPSS17统计软件，对各组间的数值进行方差分析，以 $P { < } 0 . 0 5$ 为差异有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 $2 4 \\mathrm { h }$ 蛋白尿",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "第7、14天ADR组、DEX组、LY294002组蛋白尿不同程度增加，ADR组、LY294002组与NC组比对 $P <$ 0.05，差异有统计学意义，而DEX组与NC组比对 $P >$ 0.05，差异无统计学意义；第28天ADR组、DEX组、LY294002组蛋白尿与NC组相互比对均为 $P { < } 0 . 0 5$ 差异有统计学意义；LY294002组与DEX组比对 $P { < } 0 . 0 5$ ，差异有统计学意义(表1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2Westernblot结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ADR组的p-AKT/AkT下降，Bad蛋白表达升高，与NC组比对 $P { < } 0 . 0 5$ ，有统计学差异;DEX组的p-AKT/",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/a1b6d4e2294e002094e5e38a10a6d9821506d6f4e42717a8c24246f4ca2b7002.jpg",
+        "table_caption": [
+            "表1各组各时间点24h尿蛋白总量 Tab.1 Total urine protein in $2 4 \\mathrm { - h }$ urine collected at different time points in the groups (mg/24 h,Mean±SD, n=6) "
+        ],
+        "table_footnote": [
+            "$^ { \\mathrm { a } } P { < } 0 . 0 5$ vs NC group; $^ { \\mathrm { b } } P { < } 0 . 0 5$ vs NC group; $^ { \\mathrm { c } } P { > } 0 . 0 5$ vs NC group; $^ { \\mathrm { d } } P { < } 0 . 0 5$ vs NC group, $^ { \\mathrm { e } } P { < } 0 . 0 5$ vs DEX group. "
+        ],
+        "table_body": "<html><body><table><tr><td>Group</td><td>7*day</td><td>14\"day</td><td>28dday</td></tr><tr><td>NC group</td><td>8.12±0.92</td><td>9.48±0.93</td><td>10.85±0.57</td></tr><tr><td>ADR group</td><td>14.58±0.69a</td><td>38.41±1.75a</td><td>71.52±3.79ade</td></tr><tr><td>DEX group</td><td>10.34±0.81</td><td>16.35±2.17</td><td>28.44±2.48d</td></tr><tr><td>LY294002 group</td><td>14.22±1.94b</td><td>39.45±4.23b</td><td>68.73±3.94ble</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "AkT升高，Bad蛋白表达下降，与NC组比对 $P { > } 0 . 0 5$ ，无统计学差异;LY294002组的p-AKT/AkT下降，Bad蛋白的表达亦升高，与NC组比对 $P { < } 0 . 0 5$ ,有统计学差",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "异。另外,LY294002组与DEX组的p-AKT/AkT、Bad蛋白表达相互比对 $P { < } 0 . 0 5$ 有统计学差异(图1)。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/da27c2720bc1d09cafe69b6a3f32d18a07eb8c8d1f6861b269284f31e6827fdb.jpg",
+        "img_caption": [
+            "图1各组大鼠肾组织p-AKT、AKT和Bad蛋白的表达变化 Fig.1Expression of p-AKT,AKT and Bad proteinsdetected by Western blotting $( A )$ and quantitative analysis of $\\mathrm { \\Delta p }$ -AKT/ AKT ratio $( B )$ and Bad protein expression $( C )$ in rat kidney tissues in different groups. $^ { * } P { < } 0 . 0 5$ Us NC group; $^ { \\mathrm { g } _ { P > 0 . 0 5 } }$ NC group; $^ { * } P { > } 0 . 0 5$ Us DEX group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f76628b95310e51283bfd0b065fb5b1b93b7241d9f84a53c874eabfc2525b1a.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3QPCR检测Bad-mRNA表达水平",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ADR组的Bad-mRNA表达升高，与NC组比对 $P <$ 0.05,有统计学差异;DEX组的Bad-mRNA表达下降，与NC组比对 $P { > } 0 . 0 5$ ，无统计学差异；LY294002组的Bad-mRNA表达亦升高，与NC组比对 $P { < } 0 . 0 5$ ，有统计学差异;LY294002组与DEX组的Bad-mRNA表达差异 $P { < } 0 . 0 5$ ，有统计学差异(图2)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究发现PI3K/Akt信号通路通过磷酸化多种底物,促进细胞生长、增殖,抑制细胞凋亡[10],Akt作为PI3K的重要下游靶激酶,磷酸化Akt(p-AKT)是必要的条件[11]。Woroniecki等[12]发现正常足细胞受信号分子刺激后，PI3K很快被磷酸化而起到保护细胞作用。另发现PAN刺激后CD2AP的表达下降，Akt磷酸化率下降，抑制了PI3K/Akt信号通路致足细胞凋亡率显著升高。又有研究发现PI3K/Akt信号传导通路下游存在多种转录因子而抑制凋亡基因的表达(FKHRLI)和增强抗凋亡基因的表达(NF- $\\mathbf { \\sigma } _ { \\kappa \\mathbf { B } }$ 和Bcl-2)以及直接磷酸化促凋亡蛋白Bad、caspase-9使其失活从而中断下游信号[13]其中凋亡蛋白Bad（bcl-xl/bcl-2 associated deathpromoter)是PI3K/Akt信号通路的主要下游作用靶蛋白，Bad蛋白在外周及中枢神经元、淋巴细胞、骨髓造血细胞、生殖细胞及许多上皮细胞中均有表达并参与细胞凋亡机制[1415]。生理状态下Bad蛋白以磷酸化状态存在，稳定发挥抗凋亡效应，而去磷酸化的游离Bad蛋白通过易位和一系列细胞活动促进细胞凋亡发生[1。本实验中，观察到ADR组大鼠p-AKT/AkT的比值降低，Bad-mRNA、Bad蛋白的表达水平均升高; $2 4 \\mathrm { h }$ 尿蛋白总量明增加,尿蛋白总量的结果与蒋罗等[17]结果相似,我们认为p-AKT降低，是ADR抑制了PI3K/Akt信号通路的磷酸化，下游表达产物Bad-mRNA、Bad蛋白表达升高，推测其促进了肾小球的足细胞凋亡，产生尿蛋白。同时也显示本实验ADR大鼠肾病造模是成功的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/df0eb72588cd0aaa614b8072f276d754921f3a1097653f3a62c171c93a0e2f6b.jpg",
+        "img_caption": [
+            "图2各组大鼠肾组织Bad-mRNA的表达变化 Fig.2 Expression of Bad mRNA in rat kidney tissues detected by qRT-PCR. $^ { * } P { < } 0 . 0 5$ Us NC group; $^ { \\mathrm { \\sc \\& } } P { > } 0 . 0 5$ vs NC group; $^ { \\ast } P { > } 0 . 0 5$ Us DEX group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "肾上腺皮质激素作为临床使用的一线治疗药物，对减轻肾病蛋白尿已得到临床认可但其作用机制尚不明晰，以往认为主要通过抗炎和免疫调节发挥作用，有研究表明足细胞存在糖皮质激素的功能受体[18]，DEX可直接作用于足细胞，稳定足细胞分子CD2AP的表达和分布，使CD2AP与PI3K调节亚基p85相互作用,激活PI3K/Akt信号通路，升高GSK3p磷酸化水平，降低GSK3B活性，下调下游靶蛋白Bad-mRNA和Bad的表达,修复受损足细胞,起到抗足细胞凋亡的作用[19-20]。本研究在DEX组，p-AKT/AkT增加，Bad-mRNA及Bad蛋白表达水平下降，与上述的研究相吻合;在此实验中，发现第1、2周尿蛋白与NC组比对明显减少，可表明DEX在活体ADR大鼠中有可能通过PI3K/Akt信号通路减少ADR肾病模型的尿蛋白。另一结果显示，本组的尿蛋白在第4周明显增加，与陈小英等2的结果略有差异，此结果我们认为DEX对ADR大鼠肾病模型只能缓解而非\"治愈”。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "有报道LY294002是PI3K/Akt信号通路特异性阻断剂2，LY294002在上游非特异性阻断PI3K/Akt信号通路，导致Akt磷酸化水平降低，细胞周期阻滞、凋亡增加[23]；本实验的LY294002组结果显示与ADR组相似，p-AKT/AkT下降、Bad-mRNA表达水平增加，下游产物Bad蛋白表达升高，尿蛋白增加。我们认为，因为LY294002 阻断了PI3K/Akt信号通路，使DEX失去PI3K/Akt信号通路激活作用，由此可见，PI3K/Akt信号通路是DEX减少尿蛋白的信号传导机制之一。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本研究各组大鼠的PI3K/Akt信号传导通路下游蛋白的表达和尿蛋白的变化说明，DEX通过激活PI3K/Akt信号通路，下调其下游分子Bad-mRNA、Bad的表达，减少阿霉素肾病大鼠的尿蛋白，LY294002可抑制该信号通路从而阻断DEX减少尿蛋白的作用，从而表明PI3K/Akt信号通路是DEX减少尿蛋白的信号传导机制之一。结合以往的研究,该通路有可能成为保护足细胞，治疗蛋白尿的理想治疗靶点之一。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Lowenberg M,Verhaar AP,Van Den Brink GR.Glucocorticoid signaling:a nongenomic mechanism for T-cell immunosuppression [J].Trends Mol Med,2007,13(4): 158-63.   \n[2]朱吉莉,马特安,陈星华,等.高糖通过PI3K-AKT-mTOR信号通路增 加足细胞自噬[J].中华肾脏病杂志,2013,29(7):515-9.   \n[3]Porta C,Paglino C, Mosca A. Targeting PI3K/Akt/mTOR signaling in cancer[J].Front Oncol,2014,4(4): 64.   \n[4]刘金坤,郝亚娟,黄嘉维,等.硫利达嗪诱导SW480细胞凋亡的机制 [J].南方医科大学学报,2015,35(4):511-5.   \n[5]兰凤鸣,岳 晓,韩 磊,等.PI3K/AKT信号通过介导β-catenin通路的 活性影响胶质瘤细胞的生长[J].中华神经外科杂志,2012,28(3): 275-8.   \n[6］周文祥,杨永丽,杨 晓,等.PI3K/Akt/GSK3β信号通路在肾小管上皮 细胞缺血再灌注损伤中的调控作用及重组人红细胞生成素预保护效 应[J].华中科技大学学报:医学版,2010,39(3):314-20.   \n[7]Xavier S,Niranjan T,Krick S,et al.TbetaRI independently activates Smad- and CD2AP-dependent pathways in podocytes[J]. JAm Soc Nephrol,2009,20(10): 2127-37.   \n[8]Wada T, Pippin JW,Marshall CB,et al. Dexamethasone prevents podocyte apoptosis induced by puromycin aminonucleoside: role of p53 and Bcl-2-related family proteins[J].JAm Soc Nephrol, 2005, 16(9): 2615-25.   \n[9]吴汪丽,于 力,张 瑶,等.Bad蛋白在地塞米松抑制嘌呤霉素诱导足 细胞凋亡中的表达及意义[J].中华实用儿科临床杂志,2011,26(11): 856-8.   \n[10]Hixon ML，Paccagnella L,Millham R,et al.Development of inhibitors of the IGF-IR/PI3K/Akt/Mtor pathway[J].Rev Recent Clin Trials,2010,5(3):189-208.   \n[11]张 颖,胡舜英,尹 彤,等.利拉鲁肽通过PI3K/Akt和MAPK/ERK通 路促进心肌微血管内皮细胞的增殖和迁移[J].南方医科大学学报, 2015,35(9): 1221-6.   \n[12] Woroniecki RP, Schiffer M, Shaw AS,et al. Glomerular expression oftransforming growth factor-beta(TGF-beta)isoforms inmice lackingCD2-associated protein[J].Pediatric Nephrol,2OO6,21(3): 333-8.   \n[13]Kong DX,Yamori T. Phosphatidylinositol 3-kinase inhibitors: promising drug candidates for cancer therapy[J].Cancer Sci,2008, 99(9): 1734-40.   \n[14]徐小红，谭建新，冯华俊,等.慢性缺氧致大鼠右心室心肌细胞凋亡及 其机制研究[J].中国病理生理杂志,2009,25(1):64-8.   \n[15]Yu B, Sun X,Shen HY,et al. Expression of the apoptosis-related genes BCL-2 and BAD in human breast carcinoma and their associated relationship with chemosensitivity[J].J Exp Clinic Cancer Res,2010,29(1):1-7.   \n[16]何家璇,薛荣亮,吕建瑞,等.全脑缺血再灌注后Bad蛋白的表达与细 胞凋亡的关系及ERK信号转导途径对其的影响[J].山西医科大学学 报，2015,46(9):853-7.   \n[17]蒋罗,于力,于生友,等.自噬与阿霉素大鼠肾组织损伤的关系[J] 中华肾脏病杂志,2015,31(5):372-9.   \n[18]Löwenberg M, Verhaar AP.Van den brink GR,et al. glucocorticoid signaling:a nongenomic mechanism for t-cell immunosuppression [J].Trends Mol Med,2007,13(4): 158-63.   \n[19]王辉阳,于力,于生友,等.地塞米松对肾小球足细胞瞬时受体电位阳 离子通道蛋白6表达和分布的影响[J].中华肾脏病杂志,2014,30 (5): 377-83.   \n[20]邹敏书，余健,聂国明，等.地塞米松抑制肾小球上皮间质转化[J].医 学研究杂志,2011,40(12):77-80.   \n[21]陈小英,王菊霞,郑京,等.泼尼松对阿霉素肾病大鼠肾组织FAK/ Pyk2表达的影响[J].南方医科大学学报,2014,34(8):1149-53.   \n[22]Wen PY,Lee EQ,Reardon DA,et al. Current clinical devel-opment of PI3K pathway inhibitors in glioblastoma[J].Neuro Oncol,2012, 14(7):819-29.   \n[23]Wang XJ,Feng CW,Li M,et al.Adam 17 mediates hypoxiainduced drug resistance in hepatoceellular carcinoma cell through activation of EGFR/PI3K/Akt pathway[J].Molecul Cellul Bioch, 2013,380(1/2): 57-66. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(编辑：孙昌朋)",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（上接1717页）",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "in adults with ulcerative colitis[J].Gastroenterology,2OO7,132(2): 763-86.   \n[10]张 楠,李一鑫,陶 林,等.胃癌患者IL-11和Survivin高表达的临床病 理学意义及其在癌进展和生存预后中的作用[J].世界华人消化杂志, 2015,35(3):373-80.   \n[11］Baron JH,Connell AM,Lennard-Jones JE.Variation between observers in describing mucosal appearances in proctocolitis[J].Br Med J,1964,1(5375): 89-92.   \n[12]钟英强,朱兆华,幸连春.活动期溃疡性结肠炎活检黏膜的组织学分 级与临床分级和内镜分级的关系[J].中华消化内镜杂志,2003,20 (4): 249.   \n[13]Kelly-Welch AE,Hanson EM,Boothby MR,et al.Interleukin-4 and interleukin-13 signaling connections maps[J].Science,2003, 300(5625):1527-8.   \n[14]Fuss IJ,Neurath M,Boirivant M,et al.Disparate $\\mathrm { C D 4 + }$ lamina propria(LP)lymphokine secretion profiles in inflammatory bowel disease.Crohn's disease LP cells manifest increased secretion of IFN-gamma,whereas ulcerative colitis LP cells manifest increased secretion of IL-5[J].JImmunol,1996,157(3): 1261-70.   \n[15]Weaver CT,Harrington LE,Mangan PR,et al. Th17:an effector CD4T cell lineage with regulatory T cell ties[J].Immunity, 2006, 24(6): 677-88.   \n[16]Kinugasa T,Sakaguchi T,Gu XB,et al.Claudins regulate the intestinalbarrierinresponsetoimmunemediators[J]. Gastroenterology,2000,118(6):1001-11.   \n[17]Baars JE,Nuij VJ,Oldenburg BA,et al.Majority of patients with inflammatory bowel disease in clinical remission have mucosal inflammation[J].Inflamm Bowel Dis,2012,18(9):1634-40.   \n[18]张陈霏,赵光耀,虞竹雯,等.炎症性肠病患者外周血白细胞介素-22、 基质金属蛋白酶-9、巨噬细胞移动抑制因子表达及其临床意义[J].胃 肠病学，2015(7):389-93.   \n[19]炎症性肠病诊断与治疗的共识意见(2012年·广州)[J].胃肠病学, 2012,12: 763-81.   \n[20]Meucci G,Fasoli R,Saibeni S,et al.Prognostic significance of endoscopic remission in patients with active ulcerative colitis treated with oral and topical mesalazine:a prospective,multicenter study[J].Inflamm Bowel Dis,2012,18(6):1006-10. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(编辑：孙昌朋)",
+        "page_idx": 4
+    }
+]

@@ -1,0 +1,122 @@
+# 在肾脏高效导入miR-483-5p的方法
+
+夏 颖}，周雪娟}，古文清}，赵岩岩}，肖 潇'，白晓春'，刘 俊²,李 明1  
+1南方医科大学基础医学院细胞生物学教研室,广东广州 510515;2广州军区广州总医院泌尿外科,广东广州  
+510010
+
+摘要：目的 研究在肾脏高效导人目的基因miR-483-5p的方法。方法 肾皮质注射miR-483-5p慢病毒：取35只C57BL/6J小鼠，随机分为空白对照组、慢病毒低剂量组(每侧肾皮质注射 ${ 5 \mu \mathrm { L } }$ 慢病毒)和慢病毒高剂量组(每侧肾皮质注射 $2 0 { \mu \mathrm { L } }$ 慢病毒),注射后7d和21d处死取材;构建可诱导全身过表达miR-483-5p的转基因小鼠;利用cre-loxp系统构建肾小管特异过表达miR-483-5p的转基因小鼠。3种模型小鼠利用全自动生化分析仪检测血清中尿素氮(BUN)水平判断肾功能,组织切片HE 染色观察肾脏组织结构,TUNEL法检测肾脏细胞凋亡。Real-time qPCR检测miR-483-5p在肾脏的表达。结果3种过表达miR-483-5p小鼠肾功能均正常,肾脏组织结构无明显变化,肾脏细胞无凋亡。肾皮质注射 $2 0 ~  { \mu \mathrm { L } }$ LV3-miR-483-5p后21d表达最高( $1 . 2 { \pm } 0 . 4 3 ~ \nu s$ $8 . 6 \pm 1 . 0 9 , P { < } 0 . 0 0 1 ,$ 。可诱导全身过表达miR-483-5p的转基因动物在肾脏表达效率较低( $0 . 9 { \pm } 0 . 0 9$ vs $1 . 7 { \pm } 0 . 1 9$ $P { < } 0 . 0 5$ ),Cre-loxp转基因小鼠可实现在肾脏特异性表达，且效率较高( $1 . 6 { \pm } 1 . 1 3$ vs $1 2 . 3 6 { \pm } 3 . 8 9 , P { < } 0 . 0 5 ,$ 。结论首次构建肾小管特异过表达miR-483-5p的转基因小鼠模型,实现在肾小管特异高效表达，且不影响肾脏结构及功能,可以作为研究miR-483-5p在肾脏中的作用及其机制的良好模型;C57BL/6J小鼠每侧肾皮质注射 $2 0 ~  { \mu \mathrm { L } }$ LV3-miR-483-5p后21d过表达miR-483-5p效率较高，不影响肾功能,对肾组织无损伤，且模型构建时间较短，为miR-483-5p在肾脏中的作用及其机制研究提供良好的实验模型。
+
+关键词:慢病毒;肾组织;转基因技术;miR-483-5p
+
+# A method for efficient transduction of miR-483-5p in the kidney of mice
+
+XIA Ying',ZHOU Xuejuan', GU Wenqing',ZHAO Yanyan, XIAO Xiao',BAI Xiaochun',LIU Jun,LIMing' DepartmentofCelliologySouthenMedicalUniersityGuangzou515，hina;DepartmentfUrologyGeneralHospitalf Guangzhou Military Region, Guangzhou 510ol0, China
+
+Abstract: Objective To establish a method for gene delivery in murinerenal tisueusing lentivirus vector encoding miR-483-5p.Methods Thirty-fiveC57BL/6Jmice were randomly divided into control group,low-dose treatment group $( 5 ~ \mu \mathrm { L }$ each kidney)，and high-dose treatment group ( $2 0 ~ \mu \mathrm { L }$ each kidney), and in the latter two groups, the lentivirus vector encoding miR-483-5p were injected intherenalcortex.Thetissesamples werecollectedat7and21daysafter the injection.A transgenic mouse model with inducible systemic overexpression of miR-483-5pwas established in TG483 mice.The Cre-loxp system was used tocreate a mouse model withrenal tubule-specific expresionof miR-483-5p.The levelsof BUN in the mice were detected and HE staining and fluorometric TUNEL assy were used to observe the morphologicalchanges of the kidneys; eal-time qPCR wasused todetect miR-483-5pexpression in the renalcortex. Results The mice with overexpression of miR-483-5phad normalrenal function without obvious pathologicalchanges orapoptosis intherenaltissue.Renalcortex injection of $2 0 ~ \mu \mathrm { L }$ lentivirus resulted in obviously increased level of miR-483-5p at 21 days ( $\cdot 1 . 2 \pm 0 . 4 3$ US $8 . 6 \pm 1 . 0 9 ,$ $P { < } 0 . 0 0 1$ 》 miR-483-5p showed a low expression ( $0 . 9 { \pm } 0 . 0 9$ Us $1 . 7 { \pm } 0 . 1 9 ,$ $P { < } 0 . 0 5$ ) in TG483 mice and a high expression in the kidney of the transgenic mice established using the Cre-loxp system ( $1 . 6 { \pm } 1 . 1 3$ US $1 2 . 3 6 { \pm } 3 . 8 9$ ， $P { < } 0 . 0 5 \rangle$ ). Conclusion The transgenic mice with renal tubule-specificexpressionof miR-483-5pshownormal renal function,andthis model facilitatesfurtherstudyof therole of miR-483-5p in the kidney.
+
+Keywords: lentivirus; renal tissues; transgenic technology; miR-483-5]
+
+MicroRNAs(miRNAs)是一类长度为18\~24个核苷酸的单链小RNA[。近年来,许多报道发现miRNA参与各种疾病包括肾脏疾病23的发生、发展，甚至其表达水平可以作为诊断急性肾损伤的辅助指标，具有重要的临床意义。miR-483定位于基因组常染色体IGF2基因第2内含子内[4]。其前体产生两种主要的miRNA,miR-483-5p和miR-483-3p。近年来研究发现,miR-483在许多疾病过程,如肿瘤5-6]、骨关节炎[、脂类代谢[8]、心血管疾病中起重要作用。关于miR-483与肾脏疾病的关系，有文献报道miR-483在肾间质细胞表达，与肾的发育和纤维化有关[]。Sui等[]筛查发现15例肾移植术后出现急性排斥反应的病人血清中miR-483-5p明显上调，表明其可能与急性排斥反应所引起的肾损伤有关。然而，如何在肾脏高效导入miR-483-5p,深入研究其在调节肾脏功能中的作用及其机制，还没有文献报道。因此,本文利用肾皮质注射miR-483-5p慢病毒,构建可诱导全身过表达miR-483-5p的转基因小鼠以及肾小管特异过表达miR-483-5p的转基因小鼠，探索在肾脏高效导入miR-483-5p的方法，期望为miR-483-5p在肾脏中的功能及其机制研究提供良好的模型。
+
+# 1 材料和方法
+
+# 1.1 材料和仪器
+
+8周龄C57BL/6J小鼠35只，购于南方医科大学实验动物中心，实验动物使用许可证号为SYXK粤2006-0015。全身过表达miR-483转基因小鼠由广州赛业生物科技有限公司构建，采用Tet-on系统启动pre-miR-483基因的表达，rtTA小鼠购自美国Jackson实验室，编号为006965。肾小管细胞特异性表达miR-483-5p转基因小鼠利用Cre-loxp系统构建,loxp-loxp转基因小鼠由广州赛业生物技术有限公司构建，与PEPCK的Cre转基因小鼠(由南方医院肾内科聂静教授馈赠)杂交而得。病毒LV3-miR-483-5p、LV3-NC以及Mmu-miR-483-5phairpin-itreal-time PCR试剂盒和U6 snRNAreal-timePCR试剂盒均由苏州吉玛基因股份有限公司构建合成；33-gauge针头及微量注射器购自Hamilton;TUNEL调亡检测试剂盒购自Promega;倒置荧光显微镜（日本尼康);荧光定量PCR仪(ABI step one plus)。
+
+# 1.2 方法
+
+1.2.1肾皮质注射miR-483-5p慢病毒取35只C57BL/6J小鼠，随机分为7组，空白对照组(7组）慢病毒低剂量(每侧肾皮质 ${ \mathfrak { s } } \mu \mathrm { L } , 1 { \sim } 3$ 组)和高剂量组(每侧肾皮质 $2 0 \mu \mathrm { L }$ 4-6组)。具体为，1组： ${ 5 \mu \mathrm { L } }$ LV3-NC(lentivirus-mediatedNegative Control)注射21d;2组： ${ 5 \mu \mathrm { L } }$ LV3-miR-483-5p(lentivirus-mediated miR-483-5p)注射7 d;3组： ${ 5 \mu \mathrm { L } }$ LV3-miR-483-5p注射21d;4组： $2 0 ~ \mu \mathrm { L }$ LV3-NC注射21 d;5组: $2 0 { \mu \mathrm { L } }$ LV3-miR-483-5p注射7d;6组: $2 0 { \mu \mathrm { L } }$ LV3-miR-483-5p注射21d;7组：仅分离肾脏，不注射病毒。病毒滴度均为 $1 \times 1 0 ^ { 9 } \mathrm { T U / m L }$ 。小鼠麻醉后，从背部两侧分别切开小于 $1 \mathrm { { c m } }$ 切口，暴露肾脏，每侧肾皮质选取4个注射位点，如图1。注射慢病毒时针头需与肾脏保持垂直，下针动作迅速，以减少针头对肾脏损伤。当感觉到针头突破包膜的穿破感后，开始注射慢病毒，针头不可刺入过深，以防引起出血，注射完病毒后停留 $1 \sim$ 2s再拔针，以防止慢病毒溢出。随后缝合伤口。
+
+1.2.2可诱导全身过表达miR-483-5p转基因小鼠模型全身miR-483的过表达受Tet-on系统(图2A)的调控，可通过rtTA-强力霉素系统的诱导实现时间特异性表达。本实验中，携带pri-miR-483基因和rtTA等位基因的双阳性小鼠命名为TG483小鼠,作为阳性实验鼠;pri-miR-483或rtTA的单阳性同窝小鼠为阴性对照鼠。自小鼠六周龄起可持续给予含强力霉素药物 $2 ~ \mathrm { m g / m L }$ doxycycline(Dox)的饮用水以启动miR-483基因的表达。1.2.3肾小管特异性表达miR-483-5p转基因小鼠模型利用Cre-loxp系统（图2B),带有PEPCK-Cre小鼠与loxp-loxp小鼠杂交，得到稳定遗传的F2代阳性鼠中PEPCK-Cre+会切割loxp-loxp位点,使导入的外源DNA失去起到转录终止作用的SV40pA元件，进而使miR-483-5p的前体在细胞内大量复制。
+
+![](images/1166d348f500052425dedbbe411c42e9c1255dc8f665e8d6046761c616d295d7.jpg)  
+图1慢病毒注射位点示意图 Fig.1 Diagram of injection site.\*: the injection site.
+
+![](images/05ff506d0d9afd7cf23f9c5aac66989efd7d6c380837f84db673575f6fac0cf5.jpg)  
+图2转基因小鼠过表达miR-483-5p原理示意图 Fig.2 Schematic representation of the overexpression in transgenic mice.A:Systemic overexpression of miR-483- 5p inducible model in TG483 mice;B:Tubules-specific expression of miR-483-5p in cre-loxp system mice.
+
+1.2.4血清生化分析小鼠麻醉后，沿胸骨中线剪开胸腔外壁，但不破坏内壁以保持胸腔负压的完好性，用心脏穿刺术收集血液，于室温下放置 $2 \mathrm { ~ h ~ }$ ，待血完全凝好，$3 0 0 0 \times g$ 离心 $1 5 ~ \mathrm { m i n }$ ,取上清。于OlympusAU5400全自动生化分析仪上检测尿素氮水平。
+
+1.2.5 苏木精-伊红(HE)染色 剪取单侧肾脏,置于 $4 \%$ 多聚甲醛中室温固定 $2 4 \mathrm { h }$ 后，常规脱水、透明、浸蜡、包埋、切片。挑取切面完好的石蜡切片， $6 5 ~ \mathrm { { ^ { \circ } C } }$ 烤箱中烤片$3 0 \mathrm { m i n }$ ，常规脱蜡水化。PBS冲洗3次， $5 \mathrm { m i n }$ 次。切片放入苏木素染液中 $2 ~ \mathrm { m i n }$ ,自来水清洗。 $1 \%$ 盐酸酒精分化3s,自来水清洗。伊红染液染色 $2 0 ~ \mathrm { s }$ ，自来水清洗。常规脱水透明后，用中性树脂封片后用显微镜下观察拍照。
+
+1.2.6组织细胞凋亡检测组织细胞凋亡利用FluorometricTUNEL(terminal deoxynucleotidyl transferase mediateddUTPnickendlabeling)法进行检测。挑取切面完好的石蜡切片， $6 5 ~ \mathrm { { ^ { \circ } C } }$ 烤箱中烤片 $3 0 \mathrm { m i n }$ ，常规脱蜡水化。PBS冲洗3次， $5 ~ \mathrm { m i n }$ 次。新鲜的 $4 \%$ 多聚甲醛固定 $1 5 ~ \mathrm { m i n }$ ，PBS冲洗2次， $5 \mathrm { m i n } /$ 次。蛋白酶K(1:500,PBS稀释)滴加在组织上， $3 7 ~ \mathrm { { ^ { \circ } C } }$ 恒温箱透化 $3 0 ~ \mathrm { m i n }$ ,PBS洗1次， $5 \mathrm { m i n } /$ 次。新鲜的 $4 \%$ 多聚甲醛重固定 $5 \mathrm { m i n }$ ，PBS洗1次， $5 \mathrm { m i n } /$ 次。滴加TdT反应平衡液在组织上， $3 7 ~ \mathrm { { ^ { \circ } C } }$ 恒温箱孵育$1 0 ~ \mathrm { m i n }$ ;擦去平衡液，滴加提前配好的TdT反应液（平衡液：核苷混合物：rTdT酶 $: = 4 5 : 5 : 1 \$ ）， $3 7 \ \mathrm { { ^ { \circ } C } }$ 恒温箱反应$6 0 \mathrm { \ m i n _ { \circ } }$ SSC用 $\mathrm { \ d d H _ { 2 } O }$ 稀释成 $2 { \times } \mathrm { S S C }$ ，滴加在组织上，孵育在 $3 7 ~ \mathrm { { ^ { \circ } C } }$ 恒温箱 $1 5 ~ \mathrm { m i n }$ ，终止反应。PBS洗3次， $\cdot 5 \mathrm { m i n } /$ 次。用含DAPI的封片剂封片，注意不要产生气泡，于显微镜下观察并拍照。
+
+1.2.7肾组织总RNA的提取及Real-TimeqPCR小鼠麻醉后,沿腹中线剪开腹腔,取单侧肾脏,剪取 $5 0 ~ \mathrm { m g }$ 的肾脏皮质放入 $1 ~ \mathrm { m L }$ TRizol试剂。提取方法按照说明书抽提肾皮质总RNA。miRNA的检测采用吉玛公司试剂盒，U6为内参。记录Ct值，根据公式计算，扩增后目的基因相对表达量，公式如下：miRNA-483-5p相对表达量=2-(miR-483-5p Ct-U6 Ct)
+
+1.2.8组织原位杂交用于原位杂交的探针序列为CTCCCTTCTTTCCTCCCGTCTT,该探针为地高辛标记。组织从取材开始就要求在在无RNase的环境中进行，切片需保存于 $- 8 0 \mathrm { { ^ { \circ } C } }$ 。所有耗材及试剂必须经过无RNase处理。挑取切面完好的石蜡切片，常规脱蜡水化。PBS冲洗3次， $5 ~ \mathrm { m i n }$ 次。 $2 0 ~ \mu \mathrm { g / m L }$ 蛋白酶K在$3 7 ^ { \circ } \mathrm { C }$ 处理标本 $3 0 \mathrm { m i n }$ 。PBS冲洗次，然后新鲜的 $4 \%$ 多聚甲醛固定 $1 0 ~ \mathrm { { m i n } . }$ 。滴加预杂交液在组织上， $6 0 ~ \mathrm { { ^ { \circ } C } }$ 孵育 $2 \mathrm { ~ h ~ }$ 。用杂交液按照1:100的比例稀释探针，随后置$9 0 ~ \mathrm { ^ { \circ } C }$ 金属浴处理 $8 ~ \mathrm { m i n }$ ，冰上放置 $5 \mathrm { m i n }$ 。取出组织，甩掉多余的杂交液，将准备好的探针覆盖标本，于 $6 0 ~ \mathrm { { ^ { \circ } C } }$ 杂交过夜(不少于 $1 6 \mathrm { ~ h ~ }$ ）。杂交完成后，用 $50 \%$ 甲酰胺，$5 0 \% 2 { \times } \mathrm { S S C }$ 在杂交温度孵育组织3次， $3 0 ~ \mathrm { m i n }$ 次。将抗地高辛的荧光二抗按1:800 稀释， $3 7 ~ \mathrm { ^ { \circ } C }$ 孵育 $6 0 ~ \mathrm { { m i n } _ { \odot } }$ PBS常温洗涤标本7次， $5 \mathrm { m i n } /$ 次。最后滴加DAPI进行封片，镜下观察。
+
+1.2.9统计学处理本实验所有数据以均值 $\underline { { \cdot } } \underline { { \cdot } }$ 标准差表示。数据的统计学分析采用SPSS13.0分析软件：两组数据之间的差异比较采用独立样本t检验进行。 $P { < } 0 . 0 5$ 表明差异有统计学意义。
+
+# 2结果
+
+2.1肾皮质注射miR-483-5p慢病毒小鼠模型
+
+C57BL/6J小鼠肾皮质miR-483-5p慢病毒注射顺利完成，术中无死亡，术后生命活动正常。低剂量(每侧肾皮质 $5 \mu \mathrm { L } ) \mathrm { m i R } - 4 8 3 - 5 \rho$ 慢病毒注射7d和21d均不影响肾功能，血清尿素氮与空白对照组相比，差异无统计学意义。BUN水平注射NC慢病毒 ${ 5 } ~ \mu \mathrm { L }$ 21d( $\scriptstyle ( P = 0 . 8 2 3 )$ ，注射miR-483-5p慢病毒 $5 \mu \mathrm { L } 7 \mathrm { d } ( P { = } 0 . 7 7 8 )$ ,注射病毒${ 5 \mu \mathrm { L } }$ 21d $( P { = } 0 . 6 2 7 )$ ,均在正常范围(图3A)。石蜡切片HE染色显示肾脏组织结构无异常，无明显病变（图3B)。进一步利用TUNEL检测肾皮质中肾小管细胞无明显凋亡(图3B)。这些结果提示， ${ 5 \mu \mathrm { L } }$ 慢病毒不影响肾脏形态结构及功能，未诱导肾小管等细胞凋亡。然而肾皮质miR-483-5p水平在慢病毒注射后第7和21天均无明显上升(miR-483-5p相对表达量 注射miR-483-5p慢病毒 $5 ~ \mu \mathrm { L } \mid 7 ~ \mathrm { d } , P { = } 0 . 8 3 0$ ，注射病毒 ${ 5 } \mu \mathrm { L }$ 21d, $P { = } 0 . 9 4$ ，图3C)。
+
+高剂量(每侧肾皮质 $2 0 \ \mu \mathrm { L } ) \mathrm { m i R - } 4 8 3 - 5 \mathrm { p }$ 慢病毒注射后7d和21d同样不影响肾功能，血清尿素氮与空白对照组相比，差异无统计学意义(BUN水平注射NC慢病毒 $2 0 \mu \mathrm { L } 2 1 \textrm { d } , P \mathrm { = } 0 . 4 8 3$ ；注射miR-483-5p慢病毒 $2 0 ~  { \mu \mathrm { L } }$ $\mathrm { 7 ~ d } , P { = } 0 . 0 6 9$ ;注射病毒 $2 0 \mu \mathrm { L } 2 1 \textrm { d } , P = 0 . 2 5 2 )$ ,均在正常范围(图4A);qPCR检测肾脏损伤的早期标志分子KIM-1表达无上调(KIM-1相对表达量注射miR-483-5p慢病毒 $2 1 \mathrm { d } , P { = } 0 . 8 8 2$ ，图4B)；石蜡切片HE染色显示肾脏组织结构无异常(图4C)；进一步利用TUNEL检测肾皮质中肾小管细胞无明显凋亡(图4C)。这些结果提示， $2 0 ~ \mu \mathrm { L }$ 慢病毒同样不影响肾脏形态结构及功能，未诱导肾小管等细胞凋亡。肾皮质miR-483-5p水平在慢病毒注射后第7天即升高3倍，第21天进一步升高达8.6倍(miR-483-5p相对表达量 注射miR-483-5p慢病毒 $2 0 \mu \mathrm { L } 7 \mathrm { d }$ $P { = } 0 . 0 1$ ;注射病毒 $2 0 \mu \mathrm { L } 2 1 \mathrm { d } , P \mathrm { = } 0 . 0 0 0 1$ ,图4D)。
+
+以上结果表明，利用33-gauge针头在C57BL/6J小鼠每侧肾皮质均匀注射 $2 0 \mu \mathrm { L }$ miR-483-5p慢病毒后21d,既不影响肾脏形态结构及功能，又使miR-483-5p过表达至8.6倍,是一种在肾皮质安全高效导入miR-483-5p的模型。
+
+# 2.2可诱导全身过表达miR-483-5p小鼠模型
+
+全身miR-483的过表达受Tet-on系统的调控，可通过rtTA-强力霉素系统的诱导实现时间特异性表达，基因型鉴定见图5A。TG483小鼠(阳性鼠)各项生命活动正常，肾脏组织形态及功能无异常（数据未显示）。Real-timeqPCR检测发现小鼠肾脏miR-483-5p升高
+
+![](images/b8f9c7bf91e3980004a2c984ae81ea22ffdc5df243caa311bffec497b019abd4.jpg)
+
+1.7倍( $0 . 9 { \pm } 0 . 0 9$ vs $1 . 7 { \pm } 0 . 1 9$ $\scriptstyle P = 0 . 0 0 4$ ，图5B)。
+
+# 2.3肾小管特异性表达miR-483-5p模型
+
+肾小管特异性表达miR-483-5p转基因小鼠利用Cre-loxp系统构建，稳定遗传的F2代阳性鼠和阴性鼠各项生命活动正常，肾脏结构和功能无异常(基因型见图6A，其他数据未显示)。利用荧光原位杂交的方法，检测到miR-483-5p在肾皮质中肾小管细胞特异性表达（图6B)。Real-timeqPCR检测发现，阳性小鼠与阴性小鼠相比,miR-483-5p在肾脏的表达显著上调,达12.35倍 $1 . 6 { \pm } 1 . 1 3$ vS $1 2 . 3 5 { \scriptstyle \pm 3 . 8 9 , P = 0 . 0 1 }$ ，图6D),而在其他组织如心脏表达无变化( $\cdot 9 { \pm } 0 . 3 5 \$ vs $0 . 8 { \pm } 0 . 1 8$ ， $\scriptstyle P = 0 . 6 9 4$ 图6C)。
+
+# 3讨论
+
+如何在肾脏高效导入外源基因，造模方式众说纷[1]。报道miR-483-5p在15例肾移植术后出现急性排斥反应的病人血清中明显上调，表明其可能与急性排斥反应所引起的肾损伤有关[1]。而本研究中发现,正常小鼠肾脏过表达miR-483-5p不会引起急性肾损伤，但在对小鼠进行造模后发现miR-483-5p是参与急性肾损伤的关键分子，我们也在后续的动物实验中进行了验证(数据未显示)。为了深入研究miR-483-5p在调节肾脏功能中的作用及其机制，急需探索在肾脏高效导入miR-483-5p的方法。然而由于miR-483-5p在肾脏中的作用研究甚少，如何在肾脏高效导入miR-483-5p未见报道。本研究利用在皮质注射慢病毒以及转基因动物对于在肾脏安全高效导入miR-483-5p进行了积极有效的探索。
+
+慢病毒载体是一种逆转录病毒载体，是在HIV-1(人类免疫缺陷I型病毒)的基础上发展的高效载体[12-14]其对分裂细胞和非分裂细胞均有感染能力[15-16],转染效率高，靶向性好，相对于常用的病毒载体如腺病毒在转染效率、稳定性及携带外源基因的大小等方面优势明显[17-20]。如何让慢病毒载体在肾脏细胞中稳定表达，具体的造模方式众说纷绘。很多研究者尝试不同注射途径包括肾动脉注射、输尿管逆行注射以及尾静脉注射方法，但都有一定的局限性。Chen等21在肾动脉注射腺病毒以导入外源基因，然而由于肾动脉注射过程中需要夹闭肾动脉和静脉 $4 5 \mathrm { m i n }$ ，缺血会引起轻微的肾小管损伤以及单核细胞的浸润。因此肾动脉注射病毒的方法对于肾损伤相关研究是不适用的。Ito等22利用夹闭输尿管方式，经输尿管逆行灌注病毒载体，28d后大部分小鼠仅在肾髓质观察到基因表达，一只在肾皮髓质观察到表达。此造模方式基因表达量有限，并且不能很好的在肾皮质中表达目的基因。利用尾静脉注射的方式给予病毒载体，虽然不会对肾脏造成任何损伤，但在肾脏中表达不明显,不是一个可行性的造模手段[23。在我们的研究中，选择在两侧肾皮质多位点均匀注射慢病毒载体。所使用的微量注射器参考神经外科实验，其中的立体定向注射动物脑部实验所用到的33-gaugeHamilton的微量注射器[24可有效降低穿刺对肾皮质的出血现象和损伤。经过不同剂量和时间的比较，总结出在C57BL/6J小鼠两侧肾皮质各注射 $2 0 { \mu \mathrm { L } }$ miR-483-5p 慢病毒后21d,既不影响肾脏形态结构及功能，又使miR-483-5p过表达至8.6倍,是一种在肾皮质安全高效导入miR-483-5p的模型。
+
+![](images/c3ef4f12c730009d76c3a298968bae14a5081fe28bfb3c1c774fb5fea9eaee2c.jpg)  
+图4肾皮质注射 $2 0 \mu \mathrm { L }$ 慢病毒后小鼠表型 Fig.4 Phenotype in mice after injection of $2 0 ~ \mu \mathrm { L }$ lentivirus in the kidney.A: The level of BUN.No significant difference,Us Contorlgroup; B:The levelofKIM-1.No significantdiference,us Contorl group; C:HE stainingandfluorometricTUNEL. Scalebar ${ \mathop { = } } 5 0 \ \mu \mathrm { m } ;$ D: The level of miR-483-5p. $^ { * } P { < } 0 . 0 5$ $^ { * * * } P { < } 0 . 0 0 0 1$ ：
+
+![](images/c1753fdefbf62cdc426dfa1f9e4d6af7d4c9f5ccb3bc8410007a7189ff925547.jpg)  
+图5TG483小鼠的构建及肾脏miR-483-5p水平的检测 Fig.5 Schematic representation of the generation of miR-483 transgenic (TG483) mice and the level of miR-483-5p in TG483 mice. A: Identification of genotypes by agarose gel electrophoresis; B: The level of miR-483-5p. $^ { * * } P { < } 0 . 0 0 1$ ：
+
+![](images/b3503211efbb517e9d78b5f54e3510b2a9e8c8bcddf865cfbfa46bef3c70ca9f.jpg)  
+图6肾小管特异表达miR-483-5p的转基因小鼠的构建及心脏和肾脏miR-483-5p水平的检测 Fig.6 Schematic representationof the micewith renal tubules-specific expression of miR-483-5pand the level of miR483-5p in the heart and kidney.A: Identification of genotypes by agarose gel electrophoresis; B: Fluorescence in situ hybridization analysis of miR-483-5p (green) in PEPCK\*/loxp+mice.Scale bar ${ \boldsymbol { \mathbf { \mu } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \rho } } { \boldsymbol { \mathbf { \rho } } } { \boldsymbol { \rho } } { \boldsymbol { \mathbf } { \rho } } { \boldsymbol { \rho } } { \boldsymbol } { \boldsymbol { \mathbf } { \rho } } { \boldsymbol { \rho } } { \boldsymbol } { \boldsymbol } { \rho } { \boldsymbol } { \boldsymbol } { \rho } { \boldsymbol } { \rho } { \boldsymbol } { \boldsymbol } { \rho } { \boldsymbol } { \rho } { \boldsymbol } { \rho } { \boldsymbol } { \rho } { \boldsymbol } { \rho } { \boldsymbol } { \rho } { \boldsymbol } { \rho } { \rho } { \rho } { \rho } { \rho } { \rho } { \rho } { \rho } { \rho } { \rho } { \rho } { \rho } { \rho \rho } { \rho } { \rho } { \rho \rho } { \rho } { \rho } { \rho \rho \rho } { \rho \rho } { \rho } { \rho \rho } { \rho \rho \rho } { \rho \rho { } \rho \rho } { \rho \rho \rho } { \rho \rho \rho \rho { } \rho \rho } { \rho \rho \rho \rho \rho }  \rho \rho \rho \rho \rho { } \rho \rho \rho \rho { } \rho \rho \rho \rho \rho \rho \rho \rho \rho \rho { } \rho \rho \rho \rho \rho \rho \rho \rho \ r \ r \ r \ r \ r \ r \ r \ r \ r \ r \ r \ r \ r \ r \ r \ r \ r \ o r \ o r \ o r \ o r \ o r \ o r \ o r \ o r \ o r \ o r \ o r \ o r \ o r \ o r \ o r \ o r \ o r \ o r \ o r o r o r o r o r o r o r o r o r o r o r o r o r o r o r o r o r o r o r o r o r o r o r o r o r o r o r o r o r$ C:The level of miR-483-5p in heart.No significant difference vs Control group; D: The level of miR-483-5p in kindey. $^ { * } P { < } 0 . 0 5 \ v s$ Control group.
+
+转基因技术近些年在基础研究领域起到了巨大的推动作用25，利用转基因技术探究单个基因在疾病中产生的病生理作用十分盛行[26，且取得了丰硕的研究成果[27-29]在miR-483-5p转基因模型的探索中，本研究首先利用Tet-on系统构建了可诱导全身过表达miR-483-5p的转基因小鼠。Tet-on系统利用rtTA-强力霉素诱导全身过表达miR-483-5p,实现了表达时间的可控性，但经检测在肾脏表达最高的品系表达效率只有1.7倍，低于慢病毒注射模型。且不仅仅在肾脏有过表达，在其他组织也过表达。虽然TG483小鼠各项生命活动及代谢(肝肾功等)均正常，但不能在肾脏特异表达也是这一模型的又一缺陷。接着我们又利用Cre-loxp系统首次成功构建了肾小管特异表达miR-483-5p的转基因小鼠，实现了在肾脏特异高效地过表达miR-483-5p(过表达效率达到12.35倍)，不管是特异性还是表达效率均高于其他两种模型。
+
+因此本研究认为，首次成功构建肾小管特异表达miR-483-5p的转基因小鼠，实现了在肾脏特异高效地过表达miR-483-5p，且不影响肾脏结构和功能，是在肾脏高效导入miR-483-5p的良好模型;C57BL/6J小鼠两侧肾皮质各注射 $2 0 \mu \mathrm { L }$ miR-483-5p 慢病毒后21d,既不影响肾脏形态结构及功能，又使miR-483-5p过表达至8.6倍，是一种在肾皮质安全高效导人miR-483-5p的又一有效模型。比较两种模型的优缺点,慢病毒模型构建有明显的时间及经济优势，快速，成本低，且过表达效率仅稍稍低于肾脏特异性过表达miR-483-5p的转基因小鼠。对于miR-483-5p在肾脏中作用的初步研究是适用的。缺点是每次模型构建手术过程复杂，重复性比起转基因小鼠稍逊色。而肾脏特异性过表达miR-483-5p的转基因小鼠主要缺点是模型构建耗时长，且费用高，但一旦模型构建成功，则非常稳定，且对于后续的研究非常方便。本研究探索了在肾脏高效导入miR-483-5p的方法，不仅对于miR-483-5p在调节肾脏中的作用及其深入的机制研究提供了良好的模型，而且对于将来可能的临床应用提供了实验依据。
+
+# 参考文献：
+
+[1]Agarwal V, Bell GW,Nam JW,et al. Predicting effective microRNA target sites in mammalian mRNAs[J].Elife,2015,4(1): e05005.   
+[2]霍 锐,戴 敏,樊 艺,等.miRNA-29a和miRNA-10a-5p对脓毒症所 致急性肾损伤患者28d死亡率的预测价值[J].南方医科大学学报, 2017,34(5): 646-51.   
+[3]Fan PC,Chen CC,Chen YC,et al.MicroRNAs in acute kidney injury[J].Hum Genomics,2016,10(1):29.   
+[4] Li NQ,Yang J, Cui L,et al. Expression of intronic miRNAs and their host gene Igf2 in a murine unilateral ureteral obstruction model [J]. Brazilian Journal of Medical and Biological Research,2015,48 (6): 486-92.   
+[5] Song Q, Xu Y, Yang C, et al. miR-483-5p promotes invasion and metastasis of lung adenocarcinoma by targeting RhoGDIl and ALCAM[J]. Cancer Res,2014,74(11): 3031-42.   
+[6]邵建立,李志忠,王 亮,等.miR-181b通过靶向调控N-myc下游调节 基因2影响骨肉瘤细胞的迁移和侵袭[J].南方医科大学学报,2016, 36(3): 321-6.   
+[7] Wang H, Zhang HY,Sun QY, et al. Intra-articular delivery of antagomiR-483-5p inhibits osteoarthritis by modulating matrilin 3 and tissue inhibitor of metalloproteinase 2[J].Mol Ther,2017,25(3): 715-27.   
+[8]Ferland-Mccollough F,D.Programming of adipose tissue miR-483- 3p and GDF-3 expression by maternal diet in type 2 diabetes[J]. Cell Death Differ,2012,19(6): 1003-12.   
+[9]Kemp JR,Unal H,Desnoyer R,et al. Angiotensin II-regulated microRNA 483-3p directly targets multiple components of the renin-angiotensin system[J].JMol Cell Cardiol,2014,75(4): 25-39.   
+[10] Sui,W. Serum microRNAs as new diagnostic biomarkers for preand post-kidney transplantation[J]. Transplant Proc,2014,46(10): 3358-62.   
+[11]Akbulut T,Park F. Gene therapy to the kidney using viral vectors [J].Paidiatrike,2008,71(3): 177.   
+[12]王栎程,杨 莉,郭丽华,等.慢病毒载体介导的基因治疗临床研究进展 [J].健康研究,2016,36(06):637-40.   
+[13]Kotterman MA, Chalberg TW, Schaffer DV. Viral vectors for gene therapy: translational and clinical outlook［J].Annu Rev Biomed Eng,2015,17(3): 63-89.   
+[14]Collins M,Thrasher A. Gene therapy: progress and predictions[C]/ Proc.R,282.1821,2015:20143003.   
+[15] Naldini L,Trono D, Verma IM. Lentiviral vectors,two decades later [J].Science,2016,353(634): 1101-2.   
+[16] Cante-Barrett K,Mendes RD，Smits WK,et al. Lentiviral gene transfer into human and murine hematopoietic stem cells:size matters[J].BMC Res Notes,2016,9(1): 312.   
+[17] Wang GP,Levine BL,Binder GK,et al. Analysis of lentiviral vector integration in HIV plus study subjects receiving autologous infusions of gene modified $\mathrm { C D 4 ^ { + } T }$ cells[J]. Mol Ther,2009,17(5): 844-50.   
+[18]Dropulic B.Lentiviral vectors: their molecular design,safety,and use in laboratory and preclinical research[J].Hum Gene Ther, 2011, 22(6): 649-57.   
+[19]汤海涛,安春丽.慢病毒载体的构建及其在基因治疗方面的应用[J]. 亚太传统医药,2009,5(2):142-4.   
+[20]Matrai J, Chuah MK,Vandendriessche T. Recent advances in lentiviral vector development and applications[J].Mol Ther, 2010, 18(3): 477-90.   
+[21] Chen S,Agarwal A,Glushakova OY, et al. Gene delivery in renal tubular epithelial cells using recombinant adeno-associated viral vectors[J]. JAm Soc Nephrol,2003,14(4): 947-58.   
+[22] Ito K, Chen J, Khodadadian JJ, et al. Adeno-associated viral vector transduction of green fluorescent protein in kidney:effect of unilateral ureteric obstruction[J].BJU Int,2008,101(3): 376-81.   
+[23]顾向晨,高 翔,付莉莉,等.尾静脉注射重组腺相关病毒载体小鼠肾组 织病毒表达的观察[J].中国中西医结合肾病杂志,2015,16(4):295- 8.   
+[24] Barbash S, Hanin G, Soreq H. Stereotactic injection of MicroRNAexpressing lentiviruses to the mouse hippocampus CAl region and assessment of the behavioral outcome[J].J Vis Exp,2013,10(76): e50170.   
+[25] Naldini L.Gene therapy returns to centre stage[J]. Nature, 2015, 526(7573): 351-60.   
+[26]Maus MV,Fraiett JA,Levine BL,et al. Adoptive immunotherapy for cancer or viruses[J].Annu Rev Immunol,2014,32(7): 189-225.   
+[27]顾江英,朱 平.基因治疗疾病的憧憬与挫折[J].自然杂志,2004,26 (2): 103-7.   
+[28]方 芳,朱 平.慢病毒载体的改进为基因治疗带来了新的希望[J].中 国实验血液学杂志,2013,21(5):1336-9.   
+[29]Suwanmanee T,Ferris MT,Hu P, et al.Toward personalized gene therapy:characterizing the host genetic control of lentiviral-vectormediated hepatic gene delivery[J].Mol Ther Methods Clin Dev, 2017,5(5): 83-92.

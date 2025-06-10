@@ -1,0 +1,193 @@
+2 白富瑾」　罗　莉l\* 陈任孝」　陈拥军」　林　肯」　黄　旺」　马建伟2
+
+3 （1.西南大学动物科技学院，淡水鱼类资源与生殖发育教育部重点实验室，重庆 400716；2.重庆市  
+4 开县和谦镇畜牧兽医站，重庆 405424)
+
+摘要：本试验旨在比较3种无机磷源对吉富罗非鱼生长、体组成、营养物质表观消化率及血清生化指标的影响。以含总磷 $0 . 9 1 \%$ 的基础饲料为对照（ $\mathrm { \Delta D _ { c o n t r o l } }$ 组），在此基础上分别添加 $2 . 0 \%$ 的磷酸二氢钙（MCP, $ { \mathbf { D } } _ { \mathrm { M C P } }$ 组）、 $2 . 3 \%$ 的磷酸氢钙（DCP， $\mathrm { D } _ { \mathrm { D C P } }$ 组）和 $2 . 0 \%$ 的磷酸一二钙（MDCP，DMDCP组）,配制4种等氮（粗蛋白质 $3 2 . 5 \%$ ）等能（粗脂肪 $6 . 5 \%$ ）的试验饲料，饲喂初始均重为 $2 9 . 4 0 { \scriptstyle \pm 0 . 1 5 }$ ）g的吉富罗非鱼幼鱼56d。每种饲料设置3个重复，每个重复放鱼25尾。结果表明：1) $ { \mathbf { D } } _ { \mathrm { M C P } }$ 和DDcP组的末均重、增重率和特定生长率均显著高于 $\mathrm { D } _ { \mathrm { c o n t r o l } }$ 和DMDCP组（ $P { < } 0 . 0 5 \mathrm { ~ }$ ； $ { \mathbf { D } } _ { \mathrm { M C P } }$ 组的饲料系数显著低于Dcontrol和DMDCP组（ $P { < } 0 . 0 5 \$ ，但与 $ { \mathbf Ḋ \mathrm { Ḋ \mathrm { Ḋ } D Ḍ Ḍ } } _ { \mathrm { Ḋ \mathrm { Ḋ } C P } } $ 组差异不显著（ $\scriptstyle \cdot > 0 . 0 5 .$ ； $\mathbf { D } _ { \mathrm { c o n t r o l } }$ 组的脏体比显著高于3个试验组（ $P { < } 0 . 0 5$ )。2）3个试验组全鱼和组织粗脂肪含量均显著低于 $\mathbf { \hat { D } } _ { \mathrm { c o n t r o l } }$ 组（ $_ { . } P { < } 0 . 0 5 )$ ，而全鱼粗灰分和总磷含量则显著高于 $\mathrm { D } _ { \mathrm { c o n t r o l } }$ 组（ $. P { < } 0 . 0 5$ )。3）DMcP和DDcP组的干物质、粗灰分和总磷表观消化率显著高于Dcontrol和DMDCP组（ $. P { < } 0 . 0 5 ^ { \cdot }$ )， $\mathbf { D } _ { \mathrm { c o n t r o l } }$ 和DMDCP组之间差异不显著（ ${ \cdot } P { > } 0 . 0 5 { \rangle }$ 。吉富罗非鱼对MCP、DCP、MDCP的利用率依次为 $9 1 . 8 8 \%$ 、 $8 6 . 0 3 \%$ 和 $5 4 . 1 7 \%$ 。4）3种无机磷对血清谷丙转氨酶活性和丙二醛含量无显著影响（ $. P { > } 0 . 0 5 )$ ，但显著影响血清碱性磷酸酶和超氧化物歧化酶活性（ $P { < } 0 . 0 5 \rangle$ ，均二者以 $ { \mathbf { D } } _ { \mathrm { M C P } }$ 组最高， $ { \mathbf { D } } _ { \mathrm { M D C P } }$ 组最低， $\scriptstyle \mathrm { { D } _ { D C P } }$ 组居中。由此可见，MCP和DCP可作为吉富罗非鱼（体重$3 0 { \sim } 1 5 0 ~ \mathrm { g }$ ）饲料的无机磷源，而MDCP不适宜。
+
+关键词：吉富罗非鱼；磷源；生长；体组成；表观消化率中图分类号：S963 文献标识码：A 文章编号：
+
+磷作为动物必需的矿物质元素，已经成为目前水产动物饲料中仅次于蛋白质和脂肪的第3类重要的营养成分，饲料中常见的无机磷主要有磷酸钙类、磷酸钾类和磷酸钠类Il。奥尼罗非鱼（Oreochromis niloticusxO.aureus）[2]、鲤鱼（Cyprinus carpio）[3]、斑点叉尾（Ictalurus punctatus）[4-5]黑鲷(Acanthopagrus schlegeli)[6]、非洲鲇(Clarias gariepinus)[7]、军曹鱼(Rachycentron canadum)[8]、欧洲鲈（Dicentrarchus labraxL）[9]和花（Hemibarbus maculatus）[10]等鱼类对不同无机磷利用
+
+的研究表明，鱼类对一价盐的利用率最好、二价盐次之、三价盐最差，并且无胃鱼对无机磷的利用率远低于有胃鱼。  
+目前，用于饲料添加剂的无机磷主要为磷酸二氢钙 $\mathrm { \Gamma [ C a ( H _ { 2 } P O _ { 4 } ) _ { 2 } \bullet H _ { 2 } O , M C P ] }$ 、磷酸氢钙（CaHPO4·2HO,DCP）和磷酸一二钙 $\mathrm { \Delta [ C a ( H _ { 2 } P O _ { 4 } ) _ { 2 } \bullet H _ { 2 } O + C a H P O _ { 4 } \bullet 2 H _ { 2 } O , M D C P ] ^ { [ 1 1 ] } , }$ ，因其对鱼类的营养价值不同，且营养价值参数不全面，同时价格也有较大差别，从而导致配方设计受限，而此3种无机磷在吉富罗非鱼饲料中的应用比较尚未见报道。基于此，本试验以吉富罗非鱼幼鱼为研究对象，通过养殖和消化率试验，对上述3种无机磷进行营养学评价，旨在为吉富罗非鱼饲料中无机磷源的科学选用提供理论依据。
+
+1材料与方法
+
+# 1.1 试验饲料
+
+根据罗非鱼营养需求，以鱼粉、豆粕、棉籽粕、菜籽粕、面粉、米糠、豆油等为主要原料配制基础饲料（表1)。以基础饲料为对照（ $\mathrm { \Delta D _ { c o n t r o l } }$ 组），然后在基础饲料中分别添加 $2 . 0 \%$ 的 MCP（DMCP组）、 $2 . 3 \%$ 的DCP（ $\mathrm { D } _ { \mathrm { D C P } }$ 组）和 $2 . 0 \%$ 的MDCP（DMDCP组)，经微晶纤维素调平，共配制成4种等氮等脂的试验饲料。 $\mathrm { \Delta D _ { c o n t r o l } }$ 组饲料实测总磷含量为 $0 . 9 1 \%$ ，DMCP、 $ { \mathbf { D } } _ { \mathrm { D C P } }$ 和 $ { \mathbf { D } } _ { \mathrm { M D C P } }$ 组饲料实测总磷含量均为 $1 . 2 8 \%$ 。MCP 和DCP来自四川川恒化工股份有限公司，MDCP来自四川龙蟒集团，均为饲料级。其中，MCP、DCP和MDCP实测磷含量分别为 $1 9 . 0 9 \%$ 、 $1 6 . 6 3 \%$ 和 $1 9 . 2 1 \%$ 。饲料原料均过 40目筛，各试验饲料挤压成直径为 $2 . 0 \ \mathrm { m m }$ 的颗粒，自然风干后双层塑料袋包装并封口， $- 2 0 \mathrm { ~ \textdegree C }$ 保存备用。
+
+# 表1基础饲料组成及营养水平 (风干基础)
+
+# Table 1 Composition and nutrient levels of the basal diet (air-dry basis)
+
+%
+
+项目Items 含量Content原料 Ingredients鱼粉 Fish meal 9.00豆粕 Soybean meal 21.00棉籽粕 Cottonseed meal 11.00菜籽粕 Rapeseed meal 18.00面粉 Wheat flour 20.00米糠 Rice bran 15.80
+
+# C hinaXiv合作期刊
+
+豆油 Soybean oil 1.20  
+微晶纤维素 Microcrystalline cellulose 3.00  
+预混料 Premix1) 0.60  
+氯化胆碱 Choline chloride 0.28  
+抗氧化剂 Antioxidant 0.02  
+防霉剂 Mold inhibitor 0.10  
+合计 Total 100.00  
+营养水平 Nutrient levels2)  
+水分Moisture 10.81  
+粗蛋白质CP 32.50  
+粗脂肪 EE 6.50  
+粗灰分 Ash 7.00  
+总磷 TP 0.91
+
+1)预混料为每千克饲料提供 The premix provided the following per $\mathrm { k g }$ of the diet: Fe $1 5 0 \mathrm { m g }$ , Cu 3.2 mg, $\mathrm { Z n } 3 4 . 1 \mathrm { m g }$ Mn 13.0 mg， $\mathrm { ~ I ~ } 5 . 7 \mathrm { ~ m g }$ ，Se $0 . 3 \mathrm { m g }$ ，Co $1 . 2 4 \mathrm { m g }$ ，VA 2 000.0 IU，VD 2 000.0 IU，VE 100.0 mg，VK3 $1 0 . 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 5 . 0$ mg， $\mathrm { V B } _ { 2 } ~ 1 0 . 0 ~ \mathrm { m g }$ ，烟酸 niacin acid $1 0 0 . 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 1 0 . 0 \mathrm { m g }$ ，泛酸钙 calcium pantothenic acid $4 0 . 0 \mathrm { m g }$ ，叶酸 folic acid（204号 $5 . 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 2 \ : \mathrm { m g }$ ，生物素biotin $1 . 0 \mathrm { m g }$ ，vC $3 0 0 ~ \mathrm { { m g } }$ ，肌醇inositol $1 0 0 \ \mathrm { g }$ 。  
+2)实测值 Measured values 。
+
+1.2 试验鱼与饲养管理
+
+试验鱼购自重庆市北碚区歇马鱼种场，先经浓度为 $3 \%$ 的食盐溶液消毒后，在室内水族箱中暂养，以基础饲料驯化10d。正式试验前，选择体质健壮、平均体重（ $2 9 . 4 0 { \scriptstyle \pm 0 . 1 5 }$ ） $\mathrm { \bf ~ g }$ 的罗非鱼 300尾，随机分为4组，每组3个重复，每个重复放养25尾，水族缸体积为 $3 9 2 \mathrm { L }$ ，水源为曝气自来水。每天投喂4次（08:00、11:30、15:00、18:30)，日投喂量为体重的 $3 \% \sim 5 \%$ ，根据增重情况，每隔7d 调整1次投喂量。每晚 $100 \%$ 换水1次，正式试验持续8周。饲养期间水温 $2 2 { \sim } 2 8 \ \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，溶解氧浓度 ${ > } 6 . 0 \ \mathrm { m g / L }$ ，氨氮浓度 $\mathrm { < 0 . 1 0 \ m g / L }$ ， $\mathrm { p H } 6 . 6 { \sim } 7 . 0$ ，亚硝酸盐浓度 $< 0 . 0 5 ~ \mathrm { m g / L }$ 。
+
+1.3样品采集、制备养殖试验结束后，饥饿 $2 4 \mathrm { ~ h ~ }$ ，每个重复选取11尾体重均匀的试验鱼，测定每尾鱼的体重、体长和体高。其中，2尾鱼用于全鱼营养组成测定；3尾鱼用 $1 \mathrm { m L }$ 一次性无菌注射器尾静脉采血， $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 静置 $3 \mathrm { h }$ 后， $4 0 0 0 \mathrm { r / m i n }$ ( $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ）离心 $1 0 \mathrm { m i n }$ ，提取血清，-80℃保存，用于血清生化指标测定；另6 尾鱼在冰盘中进行解剖，取出内脏团，分离出肝胰脏和肠系膜脂肪并称重，然后自鱼体两侧头盖骨后至尾鳍前取体背肌肉样品， $- 2 0 \mathrm { ~ \textdegree C }$ 保存待用。
+
+1.4指标测定养殖试验结束后，停食 $2 4 \mathrm { h }$ ，准确称量鱼体和饲料重，计算其特定生长率（specific growth  
+rate,SGR）、饲料系数（feed conversion ratio,FCR）、增重率（weight gain rate,WGR）、肥满度（condition  
+factor,CF）和脏体比（viscerosomatic index,VSI），计算公式如下：SGR(%/d)=100x(ln Wt-InWo)/d ;FCR(g/g)=F/(Wt-Wo);WGR(%)=100x(Wt-Wo)/Wo;$\mathrm { C F } ( \mathrm { g } / \mathrm { c m } ^ { 3 } ) { = } 1 0 0 { \times } W / L ^ { 3 } ;$ VSI(%)=100xW/W。式中： $W _ { 0 }$ 为初始鱼尾均重（g)； $W _ { \mathrm { t } }$ 为终末鱼尾均重（g)； $d$ 为养殖试验天数（d)； $F$ 为尾均摄  
+食量（g)；W为鱼体重（g）； $L$ 为鱼体长（cm)； $W _ { \mathrm { v } }$ 为内脏重（g)。参照文献[12]的方法测定样品的营养成分，其中粗脂肪含量采用索氏抽提法测定，粗蛋白质含量  
+采用凯氏半微量蒸馏定氮法测定，水分含量采用恒温干燥法测定，粗灰分采用高温灼烧法测定，总  
+磷含量采用钼黄比色法测定。血清谷丙转氨酶（GPT）、碱性磷酸酶（AKP）、超氧化物歧化酶（SOD）活性和丙二醛（MDA）  
+含量均采用南京建成生物工程研究所生产的试剂盒测定。  
+1.5磷源和饲料中无机磷含量以及饲料中营养物质表观消化率、有效磷含量的测定磷源和饲料中无机磷含量：MCP和DMCP组饲料无机磷含量参考GB/T 22548-2008方法测定，  
+DCP、MDCP以及 $ { \mathbf { D } } _ { \mathrm { M C P } }$ 组和 $\begin{array} { r } { \mathbf { D } _ { \mathrm { D M C P } } } \end{array}$ 组饲料无机磷含量参考GB/T22549-2008方法测定。饲料中营养物质表观消化率：分别用 $0 . 5 \%$ （占饲料干重）的三氧化二铬（ $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ ）替代试验饲  
+料中的微晶纤维素，配制成含有 $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 指示剂的饲料。选取平均体重为（ $2 9 . 4 0 { \scriptstyle \pm 0 . 1 5 } ^ { }$ ） $\mathrm { \bf ~ g }$ 的罗非鱼  
+300 尾，随机分为4个组，每组3个重复，每个重复放养25尾，饲养于体积为 $3 9 2 \mathrm { ~ L ~ }$ 的水族缸中,  
+用4种试验饲料驯养2周，每天投喂2次（08:00和15:00)。2周后，每天在投饲1h后清除残饵，3  
+h 后用虹吸法收集成形的粪便，选择包膜完整的粪便于65℃烘干后，置-20℃冰箱保存。采用湿式  
+灰化定量法测定饲料及粪便中 $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 含量，计算饲料中营养物质的表观消化率：
+
+$A D _ { \mathrm { i } } { = } 1 0 0 { \times } [ 1 { - } ( C _ { \mathrm { c } } { \times } C F _ { \mathrm { i } } ) / ( C _ { \mathrm { f } } { \times } C C _ { \mathrm { i } } ) ] \circ$ 式中： $A D _ { \mathrm { i } }$ 为营养物质的表观消化率； $C _ { \mathrm { c } }$ 为饲料中 $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 含量； $C F _ { \mathrm { i } }$ 为粪便中营养物质的含量;$C _ { \mathrm { f } }$ 为粪便中 $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 含量； $C C _ { \mathrm { i } }$ 为饲料中营养物质的含量。
+
+3种无机磷的利用率和饲料中有效磷含量的计算公式如下：Di(%)=100x(PCixADPi-PCoXADP0)/IPi;APo(%)=100xPCoxADPo;APi(%)=100xPCixADPi。式中： $( D _ { \mathrm { i } }$ ）为无机磷的利用率； $A P _ { 0 }$ 为对照组饲料中有效磷含量； $A P _ { \mathrm { i } }$ 为试验组饲料中有效磷含量； $P C _ { \mathrm { i } }$ 为试验组饲料总磷含量； $A D P _ { \mathrm { i } }$ 为试验组饲料总磷表观消化率； $P C _ { 0 }$ 为对照组饲料总磷含量； $A D P _ { 0 }$ 为对照组饲料总磷表观消化率； $I P _ { \mathrm { i } }$ 为试验组饲料中无机磷含量。
+
+1.6 数据处理
+
+试验结果用 SPSS19.0对数据进行单因素方差分析（one-way ANOVA)，用Duncan 氏多重比较法分析组间差异显著性，显著水平为 $P { < } 0 . 0 5$ ，数据用平均值±标准差（mean±SD）形式表示。
+
+2结果
+
+2.13种无机磷源对吉富罗非鱼生长性能、饲料利用和形体指标的影响由表2可知， $ { \mathbf { D } } _ { \mathrm { M C P } }$ 和 $ { \mathbf { D } } _ { \mathrm { D C P } }$ 组的末均重（FABW）、WGR 和SGR差异不显著（ $. P { > } 0 . 0 5 )$ ，但两者均显著高于 $\mathrm { \bf D } _ { \mathrm { c o n t r o l } }$ 和 $\mathbf { D _ { \mathrm { M D C P } } }$ 组（ $. P { < } 0 . 0 5 \ '$ ） $ { \mathbf { D } } _ {  { \mathrm { M C P } } }$ 组的 FCR 显著低于 $\mathrm { \Delta D _ { c o n t r o l } }$ 和 $ { \mathbf { D } } _ { \mathrm { M D C P } }$ 组 $( P { < } 0 . 0 5 )$ ，但与 $\scriptstyle \mathrm { { D } } _ { \mathrm { { D C P } } }$ 组差异不显著（ ${ \cdot } P { > } 0 . 0 5 { \rangle }$ ° $\mathrm { \Delta D _ { c o n t r o l } }$ 的VSI显著高于 $ { \mathbf { D } } _ { \mathrm { M C P } }$ 、 $ { \mathbf { D } } _ { \mathrm { D C P } }$ 和 $ { \mathbf { D } } _ { \mathrm { M D C P } }$ 组（ $. P { < } 0 . 0 5 .$ 。3个试验组的CF低于 $\mathrm { \Delta D _ { c o n t r o l } }$ 组， $\mathrm { L } / \mathrm { H }$ 正好相反，同时 $ { \mathrm { D } } _ { \mathrm { M C P } }$ 组与 $\mathrm { \Delta D _ { c o n t r o l } }$ 组差异显著（ $_ { _ { P < 0 . 0 5 ) } }$ 。
+
+表23种无机磷源对吉富罗非鱼生长性能、饲料利用和形体指标的影响
+
+Table2Efects ofthree kinds of inorganic phosphorus sources on growth performance,feed utilization and morphologic indices of GIFT   
+
+<html><body><table><tr><td colspan="2">项目</td><td colspan="3">组别Groups</td></tr><tr><td>Items</td><td>Dcontrol</td><td>DMCP</td><td>DDCP</td><td>DMDCP</td></tr><tr><td>末均重 FABW/g</td><td>129.38±2.37a</td><td>144.58±2.77b</td><td>144.22±1.66b</td><td>130.43±3.15a</td></tr><tr><td>增重率 WGR/%</td><td>338.70±7.97a</td><td>391.79±9.97b</td><td>389.20±4.60b</td><td>342.63±10.74a</td></tr><tr><td>特定生长率 SGR/(%/d)</td><td>2.62±0.02a</td><td>2.84±0.04b</td><td>2.83±0.02b</td><td>2.66±0.05a</td></tr><tr><td>饲料系数 FCR</td><td>1.19±0.02c</td><td>1.10±0.02a</td><td>1.11±0.03ab</td><td>1.17±0.03bc</td></tr></table></body></html>
+
+<html><body><table><tr><td>脏体比 VSI/%</td><td>10.90±0.26c</td><td>9.77±0.18b</td><td>9.37±0.40ab</td><td>8.92±0.77a</td></tr><tr><td>肥满度CF/%</td><td>3.54±0.15b</td><td>3.34±0.12a</td><td>3.36±0.19ab</td><td>3.49±0.22ab</td></tr><tr><td>体长/体高 L/H</td><td>2.38±0.07a</td><td>2.50±0.08b</td><td>2.60±0.06ab</td><td>2.55±0.06ab</td></tr></table></body></html>
+
+同行数据肩标无字母或相同字母表示差异不显著（ $P { > } 0 . 0 5 \$ )，不同小写字母表示差异显著（ $P { < } 0 . 0 5$ )。下表同。In the same row, values with no or the same leter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ，while withdifferent small letter superscripts mean significant difference $_ { ( P < 0 . 0 5 ) }$ . The same as below.
+
+2.23种无机磷源对吉富罗非鱼全鱼营养组成和组织粗脂肪含量的影响
+
+由表3可知，全鱼粗蛋白质含量表现为 $ { \mathbf { D } } _ { \mathrm { M C P } }$ 和 DMDCP 组显著高于 $\mathrm { \Delta D _ { c o n t r o l } }$ 组 $( P { < } 0 . 0 5 )$ ，但和DDCP组差异不显著 （ $( P { > } 0 . 0 5 )$ 。全鱼粗脂肪含量表现为3个试验组显著低于 $\mathrm { D } _ { \mathrm { c o n t r o l } }$ 组 $( P { < } 0 . 0 5 )$ ，而粗灰分和总磷含量则表现为3个试验组显著高于 $\mathbf { D } _ { \mathrm { { c o n t r o l } } }$ 组( $_ { ( P < 0 . 0 5 ) }$ 。肠系膜、肝胰脏和肌肉中粗脂肪含量均表现为3个试验组显著低于 $\mathbf { D } _ { \mathrm { { c o n t r o l } } }$ 组 $( P { < } 0 . 0 5 )$ ，同时肠系膜粗脂肪含量 $ { \mathrm { D } } _ { \mathrm { M C P } }$ 和 $ { \mathbf { D } } _ { \mathrm { D C P } }$ 组显著高于 $ { \mathbf { D } } _ { \mathrm { M D C P } }$ 组 $( P { < } 0 . 0 5 )$ ，肝胰脏粗脂肪含量正好相反，为 $ { \mathbf { D } } _ { \mathrm { M C P } }$ 和 $ { \mathbf { D } } _ { \mathrm { D C P } }$ 组显著低于 $ { \mathbf { D } } _ { \mathrm { M D C P } }$ 组 $( P { < } 0 . 0 5 )$ ，肌肉粗脂肪含量 $ { \mathrm { D } } _ { \mathrm { M C P } }$ 组显著高于DDCP 和DMDCP 组（ $. P { < } 0 . 0 5 )$ 。
+
+表33种无机磷源对吉富罗非鱼全鱼营养组成和组织粗脂肪含量的影响（鲜物质基础）
+
+Table 3Effectsof threeKinds of inorganic phosphorus sources on nutrientcompositionof whole bodyand EEcontentof
+
+<html><body><table><tr><td colspan="3">tissues of GIFT(fresh matter basis)</td><td colspan="2">%</td></tr><tr><td>项目</td><td colspan="4">组别Groups</td></tr><tr><td>Items</td><td>Dcontrol</td><td>DMCP</td><td>DDCP</td><td>DMDCP</td></tr><tr><td>全鱼Whole body</td><td></td><td></td><td></td><td></td></tr><tr><td>水分 Moisture</td><td>70.59±1.76</td><td>70.31±0.64</td><td>70.62±0.61</td><td>70.09±2.48</td></tr><tr><td>粗蛋白质CP</td><td>16.89±0.36a</td><td>17.69±0.29b</td><td>17.33±0.31ab</td><td>17.52±0.27b</td></tr><tr><td>粗脂肪 EE</td><td>9.03±0.10b</td><td>8.07±0.14a</td><td>8.05±0.13a</td><td>8.13±0.09a</td></tr><tr><td>粗灰分 Ash</td><td>3.15±0.06a</td><td>4.23±0.07b</td><td>4.22±0.08b</td><td>4.20±0.06b</td></tr><tr><td>总磷TP</td><td>0.54±0.02a</td><td>0.74±0.02b</td><td>0.75±0.01b</td><td>0.74±0.02b</td></tr><tr><td>组织粗脂肪Tissues EE</td><td></td><td></td><td></td><td></td></tr><tr><td>肠系膜 Mesentery</td><td>2.82±0.02c</td><td>2.69±0.05b</td><td>2.66±0.03b</td><td>2.30±0.08a</td></tr><tr><td>肝胰脏 Hepatopancreas</td><td>13.08±0.68c</td><td>8.92±0.37a</td><td>9.05±0.62a</td><td>11.31±0.18b</td></tr><tr><td>肌肉Muscle</td><td>1.88±0.04c</td><td>1.31±0.08b</td><td>1.17±0.05a</td><td>1.09±0.03a</td></tr></table></body></html>
+
+2.33种磷无机源对吉富罗非鱼饲料对表观营养物质消化率的影响
+
+由表4可知，干物质、粗灰分和总磷表观消化率 $ { \mathbf { D } } _ { \mathrm { M C P } }$ 和 $ { \mathbf { D } } _ { \mathrm { D C P } }$ 组之间差异不显著（ $. P { > } 0 . 0 5 \$ ，但2组均显著高于 $\mathrm { \bf D } _ { \mathrm { c o n t r o l } }$ 和 $ { \mathbf { D } } _ { \mathrm { M D C P } }$ 组 $( P { < } 0 . 0 5 )$ ）， $ { \mathbf { D } } _ {  { \mathrm { M C P } } }$ 和 $\mathrm { D } _ { \mathrm { D C P } }$ 组的总磷表观消化率分别较DMDCP高 $1 9 . 2 8 \%$ 和 $1 6 . 2 9 \%$ 。粗蛋白质和粗脂肪表观消化率各组间无显著差异（ $P { > } 0 . 0 5 )$ 。
+
+Table 4Effects of three kinds of inorganic phosphorus sources on nutrient apparent digestibility of diets of GIFT （20 $\%$   
+
+<html><body><table><tr><td colspan="2">项目</td><td colspan="3">组别Groups</td></tr><tr><td>Items</td><td>Dcontrol</td><td>DMCP</td><td>DDCP</td><td>DMDCP</td></tr><tr><td>干物质 DM</td><td>75.64±0.24a</td><td>80.02±0.13b</td><td>81.24±0.31b</td><td>73.08±0.51a</td></tr><tr><td>粗蛋白质CP</td><td>91.58±0.28</td><td>93.51±0.36</td><td>93.83±0.05</td><td>90.75±0.33</td></tr><tr><td>粗脂肪 EE</td><td>92.27±0.22</td><td>94.98±0.43</td><td>95.53±0.11</td><td>94.19±0.39</td></tr><tr><td>粗灰分 Ash</td><td>46.12±0.51a</td><td>60.24±0.39b</td><td>62.74±0.22b</td><td>43.83±0.48a</td></tr><tr><td>总磷TP</td><td>57.49±0.35a</td><td>67.43±0.52b</td><td>65.74±0.34b</td><td>56.53±0.48a</td></tr></table></body></html>
+
+2.4无机磷利用率和饲料中有效磷含量
+
+根据各组饲料总磷表观消化率及总磷和无机磷含量计算得出罗非鱼对3种无机磷的利用率和饲料中的有效磷含量，结果见表5。可知，罗非鱼对MCP 和DCP的利用率较MDCP分别高 $6 9 . 6 1 \%$ 和$5 8 . 8 1 \%$ 。
+
+# 表5无机磷利用率和饲料中有效磷含量
+
+表43种无机磷源对吉富罗非鱼对饲料营养物质表观消化率的影响  
+Table 5Inorganic phosphorus utilization and available phosphorus content in diets   
+
+<html><body><table><tr><td>Items</td><td>Dcontrol</td><td>DMCP</td><td>DDCP</td><td>DMDCP</td></tr><tr><td>饲料中磷添加量 Dietary phosphorus</td><td>0.00</td><td>0.37</td><td>0.37</td><td>0.37</td></tr><tr><td>supplementation</td><td></td><td></td><td></td><td></td></tr><tr><td>饲料中总磷含量 Dietary total phosphorus</td><td>0.91</td><td>1.28</td><td>1.28</td><td>1.28</td></tr><tr><td>content</td><td></td><td></td><td></td><td></td></tr><tr><td>无机磷利用率 Inorganic phosphorus utilization</td><td>0.00</td><td>91.88</td><td>86.03</td><td>54.17</td></tr><tr><td>饲料中有效磷含量 Dietary available</td><td></td><td></td><td></td><td></td></tr><tr><td>phosphorus content</td><td>0.52</td><td>0.86</td><td>0.84</td><td>0.72</td></tr></table></body></html>
+
+%
+
+组别Groups
+
+2.53种无机磷源对吉富罗非鱼血清生化指标的影响
+
+由表6可知, $ { \mathbf { D } } _ { \mathrm { M C P } }$ 组血清 AKP 活性显著高于其他组( $( P { < } 0 . 0 5 )$ ，分别较 $\mathrm { D } _ { \mathrm { D C P } }$ 和 $ { \mathbf { D } } _ { \mathrm { M D C P } }$ 组高 $1 3 . 1 2 \%$ 和 $2 0 . 1 2 \%$ 。血清 SOD 活性DMCP 和 $ { \mathbf { D } } _ { \mathrm { D C P } }$ 组之间差异不显著（ $( P { > } 0 . 0 5 )$ ，但两者均显著高于DMDCP 组$( P { < } 0 . 0 5 )$ 。血清GPT活性和MDA含量各组间无显著差异（ $_ { ( P > 0 . 0 5 ) }$ 。
+
+项目
+
+表63种无机磷源对吉富罗非鱼血清生化指标的影响  
+Table 6Effects of three kinds of inorganic phosphorus sources on serum biochemical indices of GIFT   
+组别 Groups   
+
+<html><body><table><tr><td>Items</td><td>Dcontrol</td><td>DMCP</td><td>DDCP</td><td>DMDCP</td></tr><tr><td>谷丙转氨酶 GPT/(U/mL)</td><td>19.27±0.75b</td><td>17.89±0.74ab</td><td>17.99±0.42ab</td><td>16.70±0.61a</td></tr><tr><td>碱性磷酸酶 AKP/(U/mL)</td><td>17.01±0.76a</td><td>23.88±1.20c</td><td>21.11±0.92b</td><td>19.88±0.11b</td></tr><tr><td>超氧化物歧化酶 SOD/(U/mL)</td><td>33.05±0.74b</td><td>40.95±0.71c</td><td>36.08±1.54bc</td><td>24.15±2.14a</td></tr><tr><td>丙二醛 MDA/(nmoL/mL)</td><td>19.27±0.75b</td><td>17.89±0.74ab</td><td>17.99±0.42ab</td><td>16.70±0.61a</td></tr></table></body></html>
+
+3讨论
+
+不同无机磷源对鱼类的营养价值不同，对黑鲷[6]、奥尼罗非鱼[2]和花[10]等的研究表明，SGR、WGR和饲料效率均按MCP、DCP和磷酸钙（TCP）的顺序呈减小趋势，但刘仙钦[8的研究发现，TCP对军曹鱼的促生长效果优于DCP。本试验中没有设计TCP组，但MCP和DCP的应用结果与前人研究一致，同时生长性能MCP和DCP组之间差异不显著，说明两者均可作为吉富罗非鱼的无机磷源，而MDCP的效果相对较差，可能与该组饲料中有效磷含量不足和营养物质的消化率较低有关。罗非鱼对有效磷的需要量为 $0 . 7 6 \% \sim 0 . 8 6 \%$ ，缺乏和过量均不利于生长[13-15]，MCP（有效磷含量为 $0 . 8 6 \%$ ）和DCP组（有效磷含量为 $0 . 8 4 \%$ ）饲料中有效磷含量均符合罗非鱼对其的需要量，而MDCP组（有效磷含量为 $0 . 7 2 \%$ ）饲料中有效磷含量则低于需要量，同时，MDCP组干物质、粗灰分和总磷的表观消化率均显著低于MCP和DCP组，且吉富罗非鱼对MDCP的利用率（ $5 4 . 1 7 \%$ ）远低于MCP（ $9 1 . 8 8 \%$ ）和DCP（ $8 6 . 0 3 \%$ )。以上可能是导致MDCP组吉富罗非鱼生长缓慢和饲料利用率下降的原因。本试验结果表明，3种无机磷源对罗非鱼全鱼常规营养成分和总磷含量均无显著影响，但显著影响鱼体组织中粗脂肪含量，其中肝胰脏粗脂肪含量按 MCP、DCP、MDCP 顺序依次升高，而肌肉和肠系膜粗脂肪含量正好相反。同对照组相比，饲料中磷的供给会提高鱼体蛋白质的沉积并减少全鱼及组织中脂肪的沉积，说明添加无机磷可促进吉富罗非鱼脂肪的氧化代谢，保障鱼体能量的需要，从而减少鱼体脂肪的沉积，尤其是在肝胰脏中的沉积，有效预防脂肪肝的发生[13]。其原因可能是磷
+
+为ATP2个高能磷酸键的断裂提供了能量，增强了体内脂肪酸的活化作用，进而增加糖原生成，使脂肪沉积减少[16]。同时，3个试验组的VSI降低是由于肠系膜和肝胰脏粗脂肪含量的下降使得内脏脂肪沉积量下降所致，而CF 的下降与鱼体粗脂肪含量下降和骨骼系统、鳞片快速生长发育使鱼体变长有关[17]。
+
+总磷表观消化率可反映饲料中磷的利用率[10]。不同磷源对奥尼罗非鱼[2]、花[10]、建鲤[3]和军曹鱼[8]等影响的研究表明,鱼类对添加了磷酸二氢钠、磷酸二氢钾和MCP的饲料中磷的利用率较高，为 $3 3 . 4 1 \% \sim 7 1 . 5 9 \%$ ，而对以DCP和TCP为磷源的饲料的磷利用率比磷酸二氢盐差,分别为 $2 6 . 0 5 \% \sim$ $5 1 . 5 1 \%$ 和 $2 2 . 0 4 \% \sim 4 5 . 4 3 \%$ 。因为饲料组成、鱼种、鱼规格和养殖环境不同，存在原料磷含量和利用率差异造成的误差[1l，同时，不同磷酸盐由于分子结构不同，具有相同含磷量的不同磷酸盐，其生物学效价也不同[10]。而无机磷的利用率代表了鱼消化道对无机磷源中磷的消化吸收，比增重能更直接地反映出磷的可利用性[10]。鱼对 MCP、DCP 和 TCP 的利用率依次为 $9 2 . 4 \%$ 、 $5 9 . 2 \%$ 和 $4 8 . 8 \% ^ { [ 1 8 ] }$ 军曹鱼对MCP 和DCP 的利用率分别为 $4 4 . 5 5 \%$ 和 $1 3 . 8 1 \% ^ { [ 8 ] }$ 。本试验中吉富罗非鱼对3种无机磷MCP、DCP、MDCP的利用率依次为 $9 1 . 8 8 \%$ 、 $8 6 . 0 3 \%$ 和 $5 4 . 1 7 \%$ 。结果与前人的研究有所差异，因为影响矿物质吸收利用的因素很多，主要有动物种类、生理状态、体内对矿物质的贮存状态和鱼类消化道的 pH 等[19]；同时，吉富罗非鱼对 MDCP 的利用率显著低于DCP，可能是由于MDCP 原料或生产过程中伴入重金属等有害物（砷、镉、铅、汞、氟等）而对磷的利用率造成了影响[20，且磷酸盐掺杂造假、原料来源和加工工艺不同[21]及饲料钙磷比例失衡等[19]都会影响鱼类对无机磷的利用，具体原因有待进一步研究。另外，本研究还发现，在吉富罗非鱼饲料中可以用 DCP 完全替代 MCP。在鱼类饲料中 DCP 替代MCP 的相关报道较少，仅有袁万安等[22]在长薄鳅的试验中发现，当 DCP 替代$40 \%$ 以上MCP 时会降低鱼体的生长和饲料利用率，与本研究结果存在差异，可能是鱼种不同所致。鱼类血液与机体的代谢、营养状况及疾病有着密切的关联[23]。GPT主要分布于肝细胞中，当肝细胞受到损伤时，GPT 从肝细胞中释放致使其在血清中的活性升高，升高程度与肝细胞受损程度一致[24]。SOD 活性可作为水产动物机体的免疫性指标[19]，MDA 含量可反映自由基的产生量和生物膜的损伤程度[25]，AKP 活性高低反映了成骨细胞的活跃程度，并间接反映机体钙和磷的营养状况[0]。本试验表明，添加无机磷有利于保护吉富罗非鱼的肝脏功能，提高机体抗氧化能力，增强磷代谢利用，促进骨骼矿化，其中 MCP 表现最佳。
+
+4结论
+
+以生长、体组成、营养物质表观消化率及血清生化指标为判据，在本试验条件下，MCP和DCP均可作为吉富罗非鱼（体重 $3 0 { \sim } 1 5 0 \ \mathrm { g }$ ）饲料的无机磷源，而MDCP不适宜。
+
+参考文献：
+
+[1]叶元土,蔡春芳.鱼类营养与饲料配制[M].北京:化学工业出版社,2013:393.
+
+陈冰,潘庆,郑卫川,等.不同磷源对奥尼罗非鱼幼鱼生长性能的影响[J].饲料工业,2007,28(10):26-28
+
+[3]杨雨虹,郭庆,韩英,等.鲤鱼饲料中不同来源的磷表观消化率的测定[J].东北农业大学学报,2005,36(6):762-766.
+
+4]EYA J C,LOVELL R T.Net absorption of dietary phosphorus from various inorganic sources and effect of fungal phytase on net absorption of plant phosphorus by channel catfish Ictalurus punctatus[J].Journal of the World Aquaculture Society,1997,28(4):386-391.
+
+[5] LI M H,ROBINETTE HR,ROBINSON E H.Efficacy of dicalcium and defluorinated rock phosphates as dietary phosphorus sources for channel catfish (Ictalurus punctatus)[J].Aquaculture,1996,147(1/2):107-114.
+
+]熊文.磷源和磷浓度对黑鲷幼鱼生长性能的影响[D].硕士学位论文.杭州:浙江大学,2010.
+
+.7]MGBENKA B O.UGWU L L C.Aspects of mineral composition and growth rate of the hybrid African catfish fry fed inorganic phosphorus-supplemented diets[J].Aquaculture Research,2005,36(5):479-485.
+
+[8]刘仙钦.军曹鱼(Rachycentron canadum)幼鱼饲料中适宜磷源、磷水平以及钙磷比研究[D].硕士学位论文.广州:广东海洋大学,2010
+
+[9]PIMENTEL-RODRIGUES A,OLIVA-TELES A.Phosphorus availability of inorganic phosphates and fish meals in European sea bass (Dicentrarchus labrax L.) juveniles[J].Aquaculture,2007,267(1/2/3/4):300-307.
+
+[10] 赵朝阳,周洪琪,徐跑,等.花对饲料中3种不同无机磷源的利用率[J].长江大学学报:自然科学版农学卷,2007,4(3):65-69.
+
+]张国.磷酸一二钙(MDCP)应是饲料磷酸盐的发展趋势[J].磷肥与复肥,2008,23(1):39-40.
+
+」张丽英.饲料分析及饲料质量检测技术[M].北京:中国农业大学出版社,2010:435.
+
+13]白富瑾,罗莉,陈任孝,等.饲料中有效磷对吉富罗非鱼生长、体组成及生化指标的影响[J].水产学 报,2015,39(7):1024-1033.
+
+[14]蒋明,姚鹰飞,文华,等.吉富罗非鱼成鱼对饲料中有效磷的需要量[J].水产学 报,2013,37(11):1725-1732.   
+[15]ROY P K,LALL S P.Dietary phosphorus requirement of juvenile haddock (Melanogrammus aeglefinus L.)[J].Aquaculture,2003,221(1/2/3/4):451-468.   
+[16]TAKEUCHI M,NAKAZOE J.Effect of dietary phosphorus on lipid content and its composition in carp [J].Bulletin of the Japanese Society of Scientific Fisheries,1981,47(3):347-352.   
+[17]林小勇.花鲈幼鱼饲料磷需要量研究[D].硕士学位论文.杭州:浙江大学,2007.   
+[18]SARKER P K,FUKADA H,MASUMOTO T.Phosphorus availability from inorganic phosphorus sources in yellowtail (Seriola quinqueradiata Temminck and Schlegel)[J].Aquaculture,2009,289(1/2):113-117.   
+[19]麦康森.水产动物营养与饲料学[M].2版.北京:中国农业出版社,2011:327.   
+[20] PAYNESG.Thephosphorusavailabilityof feedphosphatesinbroilers[D].MSc thesis.Stellenbosch:University of Stellenbosch,2005.   
+[21]马金芝.不同来源饲料级磷酸氢钙的质量及安全研究[D].硕士学位论文.雅安:四川农业大 学,2006.   
+[22]袁万安,刘本祥.磷酸氢钙在长薄鳅养殖生产中的应用试验探讨[J].饲料工业,2000,21(9):23-24.   
+[23]周玉,郭文场,杨振国,等.鱼类血液学指标研究的进展[J].上海水产大学学报,2001,10(2):163-165.   
+[24]NYBLOM H,BERGGREN U,BALLDIN J,et al.High AST/ALT ratio may indicate advanced alcoholic liver disease rather than heavy drinking[J].Alcohol and Alcoholism,2004,39(4):36-339.   
+[25]TRAYSTMAN R J,KIRSCH J R,KOEHLER R C.Oxygen radical mechanisms of brain injury following ischemia and reperfusion[J].Journal Applied Physiology,1991,71(4):1185-1195.
+
+A Comparison of Application Effect among Three Kinds of Inorganic Phosphorus Sources on Genetic Improvement of Farmed Tilapia (Oreochromis niloticus) BAIFujin’LUO Li1\*CHEN Renxiao’ CHEN Yongjun1LIN Ken’HUANG Wang1MA Jianwei2 (1. College ofAnimal Science and Technology of Southwest University, Key Laboratory of Freshwater Reproduction and Development, Ministry of Education, Chongqing 40O716, China; 2.Animal Husbandry
+
+Abstract: This experiment was conducted to compare the effects of three kinds of inorganic phosphorus sources on growth,body composition, nutrient apparent digestibility and serum biochemical indices of genetic improvement of farmed tilapia (GIFT, Oreochromis niloticus).Four isonitrogenous (crude protein （20 $3 5 . 5 \%$ and isolipidic (crude lipid $6 . 5 \%$ ） diets were formulated with no extra phosphorous inclusion ( $\mathrm { \langle D _ { c o n t r o l } }$ （204号 group, contained $0 . 9 1 \%$ of total phosphorus), $2 . 0 \%$ monocalcium phosphate (Dmcp group), $2 . 3 \%$ dicalcium phosphate (DDcP group） and $2 . 0 \%$ mono-calcium and di-calcium phosphate (DmDcp group), respectively. Each diet was fed to triplicate groups of 25 juvenile GIFT with initial body weight of( $2 9 . 4 0 { \pm } 0 . 1 5 \$ $\mathbf { g }$ for 56 d. The results showed as follows: 1) $ { \mathrm { D } } _ { \mathrm { M C P } }$ and DDcP groups obtained significantly higher final body weight, weight gain rate and specific growth rate compared with $\mathrm { D } _ { \mathrm { c o n t r o l } }$ and DMDCP groups $( P { < } 0 . 0 5 )$ .Feed conversion rate of $ { \mathbf { D } } _ {  { \mathrm { M C P } } }$ group was significantly lower than that of $\mathrm { \bf D } _ { \mathrm { c o n t r o l } }$ and DMDCP groups $( P { < } 0 . 0 5 )$ ,but it was not significantly different from that of $\mathrm { D } _ { \mathrm { D C P } }$ group $( P { < } 0 . 0 5 )$ . Viscerosomatic index of $\mathrm { \Delta D _ { c o n t r o l } }$ group was significantly higher than that of three experimental groups $( P { < } 0 . 0 5 )$ .2) Crude lipid content of whole body and tissues of three experimental groups was significantly lower than that of $\mathrm { \Delta D _ { c o n t r o l } }$ group $( P { < } 0 . 0 5 )$ ， whereas ash and total phosphorus contents of whole body were significantly higher than those of $\mathrm { \Delta D _ { c o n t r o l } }$ group $( P { < } 0 . 0 5 )$ . 3） The apparent digestibility of dry matter, ash and total phosphorus of $ { \mathrm { D } } _ { \mathrm { M C P } }$ and $\mathrm { D } _ { \mathrm { D C P } }$ groups were significantly higher than that of $\bf { D } _ { \mathrm { { c o n t r o l } } }$ and DMDCP groups $( P { < } 0 . 0 5 )$ ，but no significant differences were observed between $ { \mathrm { D } } _ { \mathrm { M C P } }$ and DDcP groups $( P { > } 0 . 0 5 )$ . The utilization of MCP, DCP and MDCP of GIFT was $9 1 . 8 8 \%$ ， $8 6 . 0 3 \%$ and $5 4 . 1 7 \%$ , respectively. 4） Three kinds of inorganic phosphorus sources did not change serum glutamic-pyruvic transaminase activity and malondialdehyde content of GIFT $( P { > } 0 . 0 5 )$ ， but serum alkaline phosphatase and superoxide dismutase activity were significantly influenced $( P { < } 0 . 0 5 )$ ， with the highest value in $ { \mathbf { D } } _ { \mathrm { M C P } }$ group, followed by DDcp group and the lowest in DMDCP group. In conclusion, MCP and DCP can be used as inorganic phosphorous sources in the diet of GIFT (body weight was 30 to $1 5 0 \ \mathrm { g }$ ), while the MDCP is unsuitable.
+
+Key words: GIFT; phosphorus source; growth; body composition; apparent digestibility

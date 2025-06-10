@@ -1,0 +1,649 @@
+[
+    {
+        "type": "text",
+        "text": "Macromolecular Nanotechnology ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Shape memory/change effect in a double network nanocomposite tough hydrogel ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ji Liang Zhanga, Wei Min Huanga\\*, Guorong Gaob, Jun Fub, Ye Zhoua, Abhijit Vijay Salvekara Subbu S. Venkatraman℃, Yee Shan WongC, Kiang Hiong Tayd,William R. Birch e ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SchoolofMecaldrospceiggcogicalUsitge98gpe   \nb Polymerand Composites Division,Ningbo Institute of Material Technology $\\boldsymbol { \\varepsilon }$ Engineering,Chinese Academy of Sciences,519 Zhuangshi Road,Zhenhai District,   \nNingbo315201,PRChina   \nSchoolofMaterialsSienceandEnginering,NanangTechnologicalUnversity50anyangAvenue,998Singaporeingore   \ndDepartmentofgnoticdiologyigaporeeralHositalutrmod9608inapore,iae   \neDepartmentfgbiiteftehdh ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE INFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nShape memory effect Shape change effect Hydrogel   \nWater-responsive   \nHeating-responsive ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this paper,we present a systematic investigation on the shape memory/change effect in a double network nanocomposite tough hydrogel.Water-content dependency of the response of this hydrogel to heating and wetting by water is confirmed.Since this hydrogel istough (evenafterbeing fully wetted inwater)and hasa relatively lower swelling ratio, apart from conventional shape memory/change effect as in ordinary hydrogels,additional features have been realized.These features include heating induced shape memory effect utilizing the absorbed water as the transition component,mechano-responsive shape change effect after water wetting and water-induced shape memory effect. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hydrogel is normally featured by its high volume expansion upon wetting in water (swelling).A number of applications,in particular in biomedical engineering in recent years,have been proposed based on this feature [1-7].We have seen that great efforts have been dedicated to improve the performance of hydrogels in order to meet the needs of actual applications [2,7-10]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Shape memory effect(SME）refers to the ability of a material to recover its original shape only when the right stimulus,which includes heating/cooling,wetting in water or exposing to high humidity environment etc.,is applied[11].Recent study reveals that the heating/chemoresponsive SME should be the intrinsic feature of many polymeric materials,if not all [12]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fundamentally,such a SME is different from the shape change effect (SCE),in which the shape ofa material changes according to the level of the applied stimulus either proportionally(with/without hysteresis) ina linear/nonlinear manner or gradually ina viscous-elastic way[11,13]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Assuch，according to above definition， swelling phenomenon itself in hydrogels is essentially under the category of water-responsive SCE.Although the SME has been reported in some purposely synthesized hydrogels [14,15],our recent investigation reveals the water-content dependency of the heating/water (moisture)-responsive shape memory/change effect inahydrogeland its composites[16].Thatis to say,atan extremely low water-content (almost fully dry state)，the hydrogel does not have either remarkable mechano-responsive SCE (as it is verystiff and a bit brittle) or the heating-responsive SME (since there is no transitions,either the glass transition or melting,as the required condition for the SME);atarelatively lower water-content,it has the heating-induced SME based on the glass transition;at a relatively higher water-content,it becomesrubber-like(mechano-responsive SCE);and at a very high water-content(so that apparent swelling is observed)，it shows neither the heatingresponsive SME nor the heating-induced SCE.By means of altering the actual water/moisture-content via wetting (in water or high humidity environment) or drying,a nice combinationofbothSMEandSCEenablesustotailorthe performance of a hydrogel for some special functions, which are not easilyachievable based on only the SME or SCE.Similar phenomena have been reported in another hydrogel in [17],which demonstrates the generic nature of this finding. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As shown in Fig.1(Ia),a hydrogel ball (same as that used in[16],in which the water content in weight fraction in fully wetted gel is more than $1 5 { , } 0 0 0 \\%$ )isabletobeeasily flattened at above its glass transition temperature $( T _ { g } ) _ { \\ l }$ if it isnot very dry [Fig.1(Ib),two viewsofa fattened piece from two different angles].Only upon heating to above its $T _ { g }$ again,the flattened ball isable to almost fully recover its original shape [Fig. 1(Ic)]. On the other hand,if the hydrogelballiswettedbywaterinsideastraw [Fig.1(Ila), top], so that its swelling induced expansion is limited in two directions,after it is wetted in room temperature (about $2 2 ^ { \\circ } \\mathsf { C }$ )waterforaweekand thenremovedout of the straw,the ball becomes elliptical shape and only the free expansion axis reaches the same dimension as that of the ball free from any constraint during wetting in water [Fig.1(Iib)].The elliptical shaped ball isable to gradually return its original ball shape and size upon drying without leaving anyapparent permanent damage at all.However,if the straw is with some pre-cuttings,parts of the hydrogel ball may be cut out during swelling [18],since this hydrogel,if wetted in water,becomes brittle and fragile. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.2(a）compares the sizes of two square shaped hydrogel pieces,one is fully dried and the other is fully wetted.It should be point out that these two pieces have roughlythesame sizeinthedrystate.Althoughthis hydrogel,which has been investigated in[17],is different from above mentioned hydrogel ball,both seemingly have about the same swelling ratio.After wetting another piece of square shape hydrogel (approximate same size in the dry state as well) ina testing tube at room temperature for a weekand then drying,this piece is fractured into a couple of pieces and becomes unrecognizable (Fig.2b). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e07330e39db4eb8f1cdfc1b435ff4032411e802a5055a482b94b08af85bd0d8.jpg",
+        "img_caption": [
+            "Fig1Heatinllutfisdeitt( hydrogelforcomparison,bottomsmallballisdyone,andtheigballintheiddleis fullywettedinoomtmperatureabout $2 2 ^ { \\circ } { \\mathsf { C } }$ )water without any constraint]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/16e46ec55ec311cc161776715377d2fe7e3120ca5a21c3a1a78e82e937b9fd40.jpg",
+        "img_caption": [
+            "Fig.2.Comaofulllcuolld dried (bottom: dry sample outside the tube for comparison)(b). (The hydrogel is the sameas that used in [17].) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Water/moisture-content dependency of the shape memory/change effect in above two types of hydrogels has been demonstrated in [16,17], but high swelling ratio of both hydrogels upon wetting in water prevents us to observe the water-induced SME.Furthermore，both of them are apparently brittle and fragile after being wetted in water,which limits their applications in some engineering practice. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this paper,we investigate the shape memory/change effect in a double network nanocomposite hydrogel (DNHG),which is tougher even in its fully wetted state. This double network hydrogel is composed of a rigid and brittle first network interlaced with a loosely crosslinked soft second network,and is usually described asa semiinterpenetrating structure [19]. Such a hydrogel is well known for the high compressive strength,which is water content dependent [20]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The outline of this paper is as following.In Section 2,we introduce the material,sample preparation and main experimental procedures.Section3 presents experimental results and analysis.Further discussions are carried out in Section 4.Major conclusions of this work are summarized in Section 5. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.Material, samplespreparationand experiments ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.Material ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The double network nanocomposite hydrogel (PAMPS/ PAAm）was synthesized following the procedure reported in[21]. In this hydrogel, silica nanoparticles grafted with vinyl end groups are used as macro-crosslinkers to copolymerizewithAMPS,yieldingananocomposite first network, and subsequent introduction of a secondary PAAm network results in super-tough double-network(DN) composite hydrogels,which do not fracture upon stretching up to $7 3 \\mathrm { M P a }$ and above $9 8 \\%$ strain [21]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As fabricated hydrogel was about $6 . 8 \\mathrm { c m }$ thick in the fully wetted state. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.Samples preparation ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Different sized samples with different conditions were prepared fora series of experimental investigation.Herein, $\\textstyle R _ { w }$ donates the ratio of the weight of the absorbed water/ moisture in a piece of hydrogel to that of the dry state,i.e., ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { w } = \\frac { W - W _ { 0 } } { W _ { 0 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $W _ { 0 }$ and $W$ are the measured weight of the dry piece and that after wetting in water or within high humidity environment,respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Dry samples were prepared by keeping the hydrogel in an oven at $7 0 ^ { \\circ } C$ for1 h for full water/moisture evaporation. Hence,herein, $\\textstyle R _ { w }$ of the resultant samples is referred as O; and these samples are named $\\mathsf { D N H G } _ { 0 }$ .Fullywetted sampleswere prepared by immersing ${ \\sf D N H G } _ { 0 }$ into room temperature water for 1 day until the water content was stable. $\\textstyle R _ { w }$ of the resultant samples is about 7.5.These samplesare named $\\mathsf { D N H G } _ { 7 . 5 }$ After exposing $\\mathsf { D N H G } _ { 7 . 5 }$ in the openair for1day at a relative humidity(RH)of about $5 0 \\%$ and room temperature (around $2 5 ^ { \\circ } C )$ for drying, resultant sampleswere rubber-like and hasa $\\boldsymbol { R _ { w } }$ of about 0.3.These samples are named $\\mathsf { D N H G } _ { 0 . 3 }$ ，After exposing $\\mathsf { D N H G } _ { 7 . 5 }$ in the openair for 3daysata RHof about $50 \\%$ and room temperature to dry, $\\textstyle R _ { w }$ of the resultant samples is about O.05.These samples are named $\\mathsf { D N H G } _ { 0 . 0 5 }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Using two pieces of aluminum strips which were prebent into a“S\"shape,a piece of“S\"shaped hydrogel was cut out of a big piece of fully wetted hydrogel.A piece of \"S” shaped $\\mathsf { D N H G } _ { 0 . 0 5 }$ (about $3 \\mathrm { m m }$ thick）was obtained after drying in the open air ( $\\mathrm { R H } \\approx 5 0 \\%$ at room temperature for3 days. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.Experiments ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "An Instron 5569 with a temperature controllable chamber was used for uniaxial compression test. One piece of $\\mathsf { D N H G } _ { 0 }$ $( \\approx 3 \\times 3 \\times 2 . 4 \\ : \\mathrm { c m } )$ ）was compressed at room temperature by $1 . 2 \\ : \\mathrm { m m }$ at a strain rate of $4 . 2 \\% / s$ to study its mechanicalbehavior.Onepieceof $\\mathsf { D N H G } _ { 0 . 3 }$ $( \\approx 4 \\times 4 \\times 3 . 2 \\ : \\mathrm { c m } )$ ，which wasin the rubber like state, was compressed at room temperature by $2 . 5 \\mathrm { m m }$ ata strain rate of $3 . 1 \\% / s$ ,and then unloaded at the same speed. This test was continuously repeated for three times on the same piece of sample. Another piece of $\\mathsf { D N H G } _ { 7 . 5 }$ $( \\approx 8 \\times 6 . 3 \\times 6 . 8 \\mathrm { c m } )$ was compressed at room temperature by $4 \\mathrm { m m }$ at astrain rate of $1 . 5 \\% / s$ ,andthenunloaded at the same speed.This test was finished after seven continuous cycles on the same sample. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A series of differential scanning calorimeter (DSC) tests were carried out using a DSC-Q2Oo differential scanning calorimetery at a heating/cooling rate of $1 0 \\ \\mathrm { ^ { \\circ } C / m i n }$ for $\\mathsf { D N H G } _ { 0 }$ ， $\\mathsf { D N G H } _ { 0 . 0 5 }$ $\\mathsf { D N G H } _ { 0 . 3 }$ and $\\mathsf { D N H G } _ { 7 . 5 }$ .The purpose of these DSC tests was to investigate the glass transition temperature $( T _ { g } )$ of hydrogel at different wetting conditions.In these tests,the specimens were around $1 0 \\mathrm { m g }$ Unless otherwise stated,the testing temperature range is normally betweenabout $- 4 0 ^ { \\circ } C$ and about $1 0 0 ^ { \\circ } \\mathsf C$ for all samples. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Furthermore,a series of experiments were conducted to investigate the SME in the double network nonocomposite hydrogel. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "- Shape memory effect in $\\mathbf { D N H G _ { 0 } }$ ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A piece of $\\mathsf { D N H G } _ { 0 }$ was placed inside $1 0 0 ^ { \\circ } \\mathsf C$ silicone oil for $3 0 s$ and then deformed using a piece of tweezers. Subsequently, the silicone oil together with the $\\boldsymbol { \\mathrm { D N H G } } _ { 0 }$ (with the temporary shape being held）was gradually cooled down to room temperature in the air.After this, $\\mathsf { D N H G } _ { 0 }$ was put into $1 0 0 ^ { \\circ } \\mathsf C$ silicone oil again to investigate its heating-responsive behavior. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "- Shape memory effect in $\\mathbf { D N H G _ { 0 . 0 5 } }$ ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A piece of $\\mathsf { D N H G } _ { 0 . 0 5 }$ was placed inside $8 0 ^ { \\circ } C$ silicone oil for $3 0 s$ and then bent using a piece of tweezers. Subsequently, the silicone oil together with the DNHGo.os (with the temporary shape being held）was gradually cooled down to room temperature in the air. After this, $\\mathsf { D N H G } _ { 0 . 0 5 }$ was put into $8 0 ^ { \\circ } C$ silicone oil again to check its heatingresponsive behavior.A piece of $\\mathsf { D N H G } _ { 0 . 0 5 }$ was placed inside $8 0 ^ { \\circ } C$ silicone oil for $3 0 s$ and then compressed using a onedollar Singapore coin. Subsequently， the silicone oil together with the $\\mathsf { D N H G } _ { 0 . 0 5 }$ and the coin(with the temporary shape being held) was gradually cooled down to room temperature in the air.After this,one water droplet was dropped on the surface.Finally the piece of $\\mathsf { D N H G } _ { 0 . 0 5 }$ was put into $8 0 ^ { \\circ } C$ silicone oil again to study its response. A piece of $\\mathsf { D N H G } _ { 0 . 0 5 }$ was placed inside $8 0 ^ { \\circ } C$ silicone oil for $3 0 s$ and then bent using a piece of tweezers.Subsequently,the silicone oil together with the $\\mathsf { D N H G } _ { 0 . 0 5 }$ (with the temporary shape being held）was gradually cooled down to room temperature in the air. After this, DNHGo.05 was put into $8 0 ^ { \\circ } C$ silicone oil again to find its response. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "- Shape memory effect based on swelling ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Another piece of ${ \\sf D N H G } _ { 0 }$ was wetted by a small water droplet on its top surface.The evolution of the surface morphology was observed under a LCD optical microscope (NARSKA,USA）and recorded in real time.A piece of $\\mathsf { D N H G } _ { 0 }$ was bent at high temperatures,and then cooled down with the temporary shape fixed.After that the distorted shape was largely maintained.Then the sample was immersing into room temperature water for full swelling,and then dehydrated in the air. $\\mathsf { D N H G } _ { 0 . 3 }$ is highly elastic and one piece of $\\mathsf { D N H G } _ { 0 . 3 }$ was bent and held this shapebyaclipinthe openairfor1dayfordehydration (Fig.3).After that, the temporary shape was maintained. Another piece of $\\mathsf { D N H G } _ { 0 . 3 }$ was dried while being stretched. In the next step,the sample was immersed into room temperature water to check its behavior.The “S” shape $\\mathsf { D N H G } _ { 0 . 0 5 }$ was placed inside $8 0 ^ { \\circ } C$ silicone oil for $3 0 s$ and then straightened usinga pair of tweezers.Subsequently, the silicone oil together with the $\\mathsf { D N H G } _ { 0 . 0 5 }$ (with the temporary shape being held） was gradually cooled down to room temperature in the air. After this,half of the $\\mathsf { D N H G } _ { 0 . 0 5 }$ was put into room temperature water to check its response. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "-Heating-responsive SME in $\\mathbf { D N H G } _ { 7 . 5 }$ based on melting of water ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A piece of $\\mathsf { D N H G } _ { 7 . 5 }$ was pre-bent and then kept in a refrigerator under $- 2 0 ^ { \\circ } \\mathsf C$ for $^ { 1 \\mathrm { h } }$ After this, $\\mathsf { D N H G } _ { 7 . 5 }$ was taken out and put in the open air at $2 5 ^ { \\circ } C$ to study its response. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussions ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.Compression tests ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Note that unless otherwise stated, herein,the strain and stress are engineering strain and engineering stress. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As shown in Fig. 4(a)，during compression $\\mathsf { D N H G } _ { 0 }$ cracked continuously,evidenced by multiple drops in the stress vs.strain curve during compression.Eventually as shown in Fig. 4(b), $\\mathsf { D N H G } _ { 0 }$ was split into small pieces. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.5(a) shows the result of $\\mathsf { D N H G } _ { 0 . 3 }$ in three loadingunloading cycles (uniaxial compression) at room temperature.Virtually we cannot see any difference in the resulted curves in these three cycles.Fig.5(b) shows the result of $\\mathsf { D N H G } _ { 7 . 5 }$ in seven loading-unloading (uniaxial compression）cycles as room temperature. It is easy to see the difference after one cycle.In the subsequent six cycles, the curves become nonlinearly elastic and without any hysteresis (Fig.5b). It was noticed that probably some water was pressed out of the hydrogel during the first compression cycle,which might be the causes of the difference between the curve in the first cycle and those in the following six cycles.As compared with the compression stress in Fig.4,in Fig.5(a and b),forabout the same compression strain,the compression stresses of $\\mathsf { D N H G } _ { 0 . 3 }$ and $\\mathsf { D N H G } _ { 7 . 5 }$ are about the same level,but much lower than that of $\\mathsf { D N H G } _ { 0 }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/01dd83165171a91fb2b577f356514666fa067af4211ca461bf6f0d19413688d2.jpg",
+        "img_caption": [
+            "Fig.3.Bending rubber-like $\\mathsf { D N H G } _ { 0 . 3 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/00c759bbb3a3aafe17dc970d8ed6af091e707be20b76a7941b5e0ad729c8ca56.jpg",
+        "img_caption": [
+            "Fig.4.Compression stress vs.compression strain relationship of $\\boldsymbol { \\mathrm { D N H G } } _ { 0 }$ (a);morphology after $5 0 \\%$ compression (b). "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d6cabc8ab29426cab34f99d2b9322adca5cf52dfb4f0ca0bdcef0e052be0e17f.jpg",
+        "img_caption": [
+            "Fig.5.(a) Compression stress Vs.compression strain relationship of $\\mathsf { D N H G } _ { 0 . 3 }$ in three loading-unloading cycles;(b) compression stress vs.compressior strainrelationship of $\\mathsf { D N H G } _ { 7 . 5 }$ in seven loading-unloading cycles. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.Thermal analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.6 plots the DSC results of hydrogels with different $R _ { w } s$ .Note that due to the possible non-uniformity nature of water/moisture distribution within this double network nanocomposite hydrogel, $R _ { w } s$ determined here are essentially nominal. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For $\\mathsf { D N H G } _ { 0 }$ ,the glass transition is at around $8 0 ^ { \\circ } \\mathsf C$ With the increase of water content, the glass transition shifts to a lower temperature range.It appears that for $\\mathsf { D N H G } _ { 7 . 5 }$ the glass transition is hardly observable.Amelting transition is spotted ataround $5 ^ { \\circ } C$ upon heating and the corresponding freezing transition isat about $- 1 8 ^ { \\circ } C$ upon cooling. It is noticed that during freezing the sample releases heat at a very high fast,so that a closed-loop feature appears in the curveat around $1 8 ^ { \\circ } C$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ad28dd83d664ed04dbf13813b127298b668bad849be263efcd611bd2f27f67c9.jpg",
+        "img_caption": [
+            "Fig.6.DSC results of hydrogels with different $R _ { w } s$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f486370c0dca89866cb323cc7c8ef71fb4831957bc2a482dc34e09fe51c05a0b.jpg",
+        "img_caption": [
+            "Fig.7.Heating-responsive SME in $\\mathsf { D N H G } _ { 0 }$ (a) Original shape;(b) after bending at $1 0 0 ^ { \\circ } { \\mathsf { C } }$ 1 $( { \\mathsf { c } } { \\mathsf { - e } } )$ recovery sequence in $1 0 0 ^ { \\circ } \\mathsf C$ silicone oil. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a1a360363cb7e528fe3c24c98d0caa57145894404d16aedcc71e3a72446f3a33.jpg",
+        "img_caption": [
+            "Fig.8.Heating-responsive SME in ${ \\mathrm { D N H G } } _ { 0 . 0 5 } .$ (a)Original shape;(b)after bending at $8 0 ^ { \\circ } C$ ：(c-f) subsequent of recovery upon immersing into $8 0 ^ { \\circ } C$ silicone oil. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c6e2b0b228545a4511b7b2744862eacda9d9625645730086f9ecb39e1119ad99.jpg",
+        "img_caption": [
+            "Fig.9.Heating-responsive SME in $\\mathsf { D N H G } _ { 0 . 0 5 }$ (a)Original shape; (b)after impresion;(c)3-D scanned morphology;(d)3-D scanned image3 hafteradroplet was applied on the right flower;(c)after immersing into $8 0 ^ { \\circ } C$ silicone oil. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.Shapememory effect ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "- Heating-responsive shape memory effect in $\\mathbf { D N H G _ { 0 } }$ ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As shown in Fig. 7, $\\mathsf { D N H G } _ { 0 }$ $( \\approx 3 \\times 3 \\times 9 \\ : \\mathrm { m m } )$ was immersed into $1 0 0 ^ { \\circ } \\mathsf C$ silicone oil for 3O s and then bent usinga piece of tweezers.After the sample together with the silicone oil was cooled down to room temperature (withthetemporaryshapebeingfixed),atemporaryshape was resulted.Upon immersing into $1 0 0 ^ { \\circ } \\mathsf C$ silicone oil again, ${ \\sf D N H G } _ { 0 }$ recovers its original shape within $6 0 \\ : s$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "- Heating-responsive shape memory effect in $\\mathbf { D N H G _ { 0 . 0 5 } }$ ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In Fig. 8, $\\mathsf { D N H G } _ { 0 . 0 5 }$ 0 $\\approx 3 \\times 3 \\times 8 \\mathrm { { m m } }$ was immersed into $8 0 ^ { \\circ } C$ silicone oil for $3 0 s$ and then bent using a piece of tweezers.The temporary shape was resulted after the sample together with the silicone oil was cooled down to room temperature (with the temporary shape being fixed). $\\mathsf { D N H G } _ { 0 . 0 5 }$ recovers its original shape within 4 min upon immersing into $8 0 ^ { \\circ } C$ silicone oil again. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Another piece of $\\mathsf { D N H G } _ { 0 . 0 5 }$ was placed inside $8 0 ^ { \\circ } C$ silicone oil for $3 0 s$ and then compressed using a one dollar ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b412476627394f4cd3db2e6fb961a2254f6bf44e2eadb993feb25d98272e8e93.jpg",
+        "img_caption": [
+            "Fig.10. Comparison of surface profile along the lines marked in Fig.9(c and d). "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Singapore coin.After the sample and coin together with the silicone oil were cooled down to room temperature (with the temporary shape being held),the impression of the coin was left on the hydrogel (Fig.9b and c).A small water droplet was dropped on the right flower marked as A in Fig.9(c). Three hours later the flower shape disappeared (Fig. 9d). The surface profiles along the marked lines in Fig.9(c) and (d) are compared in Fig.1O. It appears that the features inside of the flower are largely removed, while the boundary of the water droplet forms a protrusive circle,about $7 0 \\mu \\mathrm { m }$ above the base surface.Note that 3D surface scanning was conducted using a Talyscan Universal.The surface of the hydrogel became flat again within a few seconds upon immersing into silicone oil for one more time (Fig. 9e). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9c278b89a44dddaee108f9487b8f2474ef678c81b05b6c537ff2ba0cdc2b78eb.jpg",
+        "img_caption": [
+            "Fig.11.Wetting by one small water droplet (vertical size of each image is about $1 \\mathrm { m m }$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/de443ffa962c95442110a87b724477a8ed423695815a2717866ba5f5e5a9431c.jpg",
+        "img_caption": [
+            "Fig.12.Low swelling ratio tough hydrogel $( \\mathrm { D N H G } _ { 0 } ) .$ upon weting in water.(a) Original shape;(b)after being deformed at high temperatures;(c1-c6) upon wetting inroomtemperaturewater. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/0fb5b27d53d378891352780a23010866476555a24f9efad7e128c35626536ed7.jpg",
+        "img_caption": [
+            "Fig.13. Dehydration of the swelled hydrogel in Fig.12(c6). "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e70d1d8ab829d0802f9dffd6ecef145d7392c37c140b25eb38acd494ccf2bb3a.jpg",
+        "img_caption": [
+            "Fig.14.SMEbasedonsweling.(a)Originalshape;(b)afterbeingbentanddehydrated;(c1-c13)shaperecoveryuponsweling "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f06841e142e9d5dc190fca5eaf2e2a34c3990685d240e57947ebe4349a548da.jpg",
+        "img_caption": [
+            "Fig.15.The SME during swelling in water in a pre-stretched sample. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "- Shape memory effect based on swelling ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A piece of $\\mathsf { D N H G } _ { 0 }$ was wetted bya small water droplet on its top surface.The evolution of the surface morphology was observed and recorded in real time. Snapshot is presented in Fig.11.As we can see,after wetting by water droplet,small protrusions emerge at about 15 sand then grow.Subsequently,small protrusions merge together to form bigger ones.After a while,protrusions start to disappear.At 942 s,the surface morphology virtually returns backto the original one.The features,which merged and then disappeared,are due to swelling induced buckling phenomenon as well explained in [17]. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/5226351982cde181609d2f387c9803238ceed824bced77706c6c38d0b88ce68c.jpg",
+        "img_caption": [
+            "Fig16.TeSdeigiateale;()feddtiaeatue;ftedin silicone oil at $8 0 ^ { \\circ } C$ and cooled;(c-f) shape recovery of the top half upon immersing it into room temperature water. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/62499d6bda7a0a631750fe60e7c49599248debfcd56108d43c53e91b791213f5.jpg",
+        "img_caption": [
+            "Fig.17.Heating-responsive SME based on melting of water in ${ \\tt D N H G } _ { 7 . 5 }$ (a) Original shape;(b) after being bent and kept at $- 2 0 ^ { \\circ } C$ for $^ { \\textrm { 1 h } }$ (c-e) shapi recovery sequence at around $2 5 ^ { \\circ } \\mathsf { C }$ ：(f)after being immersed in room temperature water for $3 0 \\mathrm { m i n }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In this type ofhydrogel,which is tough and has limited swelling ratio,water/moisture-induced shape recovery can be observed upon wetting in water only. Limited swelling ratio provides us a chance to observe the water-responsive SME. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef5550a8d0440a583ed35a0e8ae54c318ff66241c5b3b62f36bd21748c5ead41.jpg",
+        "img_caption": [
+            "Fig.18.oistueatopssgel.ulllld;(ttl:(r(d temporary shape. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "As shown in Fig.12,after being immersed into room temperaturewater, thepre-bent $\\mathsf { D N H G } _ { 0 }$ $( \\approx 1 \\times 4$ $\\times 1 0 \\mathrm { m m } )$ swells and in the mean time returns its original shape (Fig.12c).After dehydration ina dry cabinet( $3 5 \\%$ RH, $2 5 ^ { \\circ } \\mathsf C$ ),the piece of hydrogel recovers its original shape and size (Fig. 13). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "As compared with the hydrogels investigated in,for instance [16],now we may conclude that depending on the actual swelling ratio and swelling speed in a particular hydrogel， wetting by moisture(without significant swelling）or water（remarkable swelling）may result in remarkably different response. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Based on the high elasticity of $\\mathsf { D N H G } _ { 0 . 3 }$ ,another experimentwas carried out to confirm itswater-responsive SME (Fig.14).After being distorted and dehydrated, the temporary shape of $\\mathsf { D N H G } _ { 0 . 3 }$ $( \\approx 1 \\times 4 \\times 1 0 \\ : \\mathrm { m m } )$ wasmaintained (Fig. 14b). $2 0 9 \\mathrm { { m i n } }$ after being immersed into room temperature water for wetting,the distorted shape of this piece of hydrogel disappears (Fig.14-c13). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Another pieceof $\\mathsf { D N H G } _ { 0 . 3 }$ 1 $( \\approx 1 \\times 3 \\times 1 1 \\ : \\mathrm { m m } )$ was stretched and then dehydrated to fix the temporary shape. After being immersed into room temperature water,we can see the sample starts to absorb water and swell (from $3 \\mathrm { m i n }$ to $7 \\mathrm { m i n }$ in Fig.15). Then it starts to contract upon further wetting (from 13 min to $2 9 \\mathrm { m i n }$ in Fig.15). From $2 9 \\mathrm { m i n }$ to $1 1 6 \\mathrm { m i n }$ in Fig.15,the sample restarts to expand continuously until being fully wetted.After subsequent dehydrationintheair for $1 6 \\mathrm { h }$ ,the sample recovers its original shape again.The observed contraction phenomenon upon wetting in water is obviously due to the waterinduced SME,which is hard to be observed in hydrogels with a very high swelling ratio. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The “S” shaped $\\mathsf { D N H G } _ { 0 . 0 5 }$ was placed inside $8 0 ^ { \\circ } \\mathsf { C }$ silicone oil for $3 0 s$ and then straightened using a pair of tweezers.The temporary shape was fixed after the silicone oil together with the $\\mathsf { D N H G } _ { 0 . 0 5 }$ was gradually cooled down to room temperature in theair (Fig.16c).After this,half of the “S” shaped $\\mathsf { D N H G } _ { 0 . 0 5 }$ was put into room temperature water,so that this part gradually recovered its original shape upon wetting(Fig.16d-f),while the other half maintained its temporary shape.Unlike that of wetting poly (methyl methacrylate）(PMMA）in ethanol [22],which has a clear dry/wet boundary and follows the case I theory of diffusion,here the transient wet/dry boundary even after $8 0 \\mathrm { m i n }$ ofwetting in water is still gradual. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "-Heating-responsive SME in $\\mathbf { D N H G } _ { 7 . 5 }$ based on melting of water ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "As shown in Fig.17,a piece of $\\mathsf { D N H G } _ { 7 . 5 } \\left( \\approx 6 \\times 6 \\times 5 0 \\mathrm { m m } \\right)$ was bent and kept at $- 2 0 ^ { \\circ } C$ for $^ { 1 \\mathrm { h } }$ .Subsequently,the temporary shape was fixed (Fig. 17b).After exposing in air (around $2 5 ^ { \\circ } C \\cdot$ for $1 0 \\mathrm { m i n }$ ,the water in the hydrogel gradually melts (refer to Fig.6),and shape recovery was largely achieved as revealed in Fig.17(e).However,in comparison with the original shape,there is still some difference,which should be mainly because of waterlost in compression upon bending (refer to the discussion in Section 3.1). Only after being immersed into room temperature water for $3 0 \\mathrm { m i n }$ ,the hydrogel almost fully recovered its original shape (Fig. 17f). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.Further discussions ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Above experiments confirm the influence of water content on the shape memory/change effect in hydrogels. However,unlike the hydrogels studied in[16,17],which havea high swelling ratio but brittle after being wetted in water,this hydrogel is tough(even in the full swelling state）and has a much lower swelling ratio.Hence,this tough gel has some unique features,which are normally unachievable in ordinary non-tough hydrogels.These features include, ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "- Since the glass transition is still applicable,the dry hydrogel has the heating-responsive SME.   \n- Since this tough hydrogel is tough even in its full wet state,we are able to not only deform fully wetted hydrogel for the mechano-responsive SCE (rubber-like) orfor subsequent drying to fix the temporary shape,but also utilize the absorbed water as the transition component for the heating-responsive SME.   \n- High humidity is not enough either to induce moistureinduced shape recovery and nor to cause remarkable swelling.   \n-Lower swellingratio of this tough hydrogel enablesus to clearly reveal the water-induced shape recovery, which is normally hard to see in hydrogels with a higher swelling ratio. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Except the heating-responsive SME based on the absorbed water as the transition component,all other SME/SCE features of this hydrogel may be schematically summarized as shown in Fig.18.Let us start from (a), which is fully swelled gel.Upon drying(1),it shrinks to (b).Upon further drying(3) to(c),the volume change is relatively ignorable.Upon partial wetting in water (4), i.e.,(c) to (b), there is no significant volume change,but the gel changes from hard to viscous elastic or rubber-like (depending on the actual amount of water content),i.e., the mechano-responsive SCE.Further wetting in water (2),the gel swells remarkably.A combination of steps(1) and（2）is the water-responsive SCE.(d） Maybe reaches from (a),(b) or (c). But the latter two are practically more accessible.We may either stretch(b) and then dry it(5),or heat (a) and then stretch it to produce (d)(7).Heating (d) results in (c) ((8),heating-responsive SME).Wetting(d) in water produces (a). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5. Conclusions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A systematic investigation is carried out to study the shape memory/change effect inatough hydrogel.Watercontent dependency of the response of this hydrogel to heating and wetting is confirmed.Since this hydrogel is tough (evenafter being fullywetted in water)and hasa relative lower swelling ratio,additional novel features, such as heating induced SME using absorbed water as the transition component, mechano-responsive shape change effect(SCE）and water-induced SME,which are not possible for many brittle hydrogels with a higher swellingratio,havebeenachieved. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The influence of water/moisture content on the $T _ { g } ,$ which is the underlying mechanism for the water-induced SMEin hydrogels with arelative lower water-content and rubber-like mechano-responsive SCE in hydrogels with a relative higher water-content,is confirmed.Since the glass transition exists in the dry state,this hydrogel still has the heating-responsive SME even it is fully dried. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Based on this study,the change in microstructure during deformation,wetting in water/drying and heating etc.is schematically illustrated as a clear road map for a better understanding of various phenomena and their corresponding mechanisms in this tough hydrogel. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This project is partially supported by $^ { \\mathsf { A } * }$ STAR Grant No. 132 148 0011 (Singapore). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1] Zha LS,Banik B,Alexis F. Stimulus responsive nanogels for drug delivery. Soft Matter 2011;7(13):5908-16.   \n[2] Xing SY, Guan Y, Zhang YJ. Kinetics of glucose-induced swelling of P(NIPAM-AAPBA) microgels. Macromolecules 2011;44(11):4479-86.   \n[3] Singelyn JM et al. Catheter-deliverable hydrogel derived from decellularized ventricular extracellular matrix increases endogenous cardiomyocytes and preservescardiac function postmyocardial infarction. J Am College Cardiol 2012;59(8):751-63.   \n[4] Chaterji S, Kwon IK, Park K. Smart polymeric gels: redefining the limitsofbiomedical devices. Prog Polym Sci 2007;32(8- 9):1083-122.   \n[5] Ahn SK et al. Stimuli-responsive polymer gels. Soft Matter 2008;4(6):1151-7.   \n[6] Osada Y，Gong JP. Stimuli-responsive polymer gels and their application tochemomechanicalsystems. ProgPolymSci 1993;18(2):187-226.   \n[7] Jagur-Grodzinski J. Polymeric gels and hydrogels for biomedical and pharmaceutical applications. Polym Adv Technol 2010;21(1):27-47.   \n[8] Topuz F，Okay O. Formation of hydrogels by simultaneous denaturation and cross-linking of DNA. Biomacromolecules 2009;10(9):2652-61.   \n[9] Qiu Y, Park K. Environment-sensitive hydrogels for drug delivery. Adv Drug Deliv Rev 2001;53(3):321-39.   \n[10] Zohuriaan-Mehr MJ, Kabiri K. Superabsorbent polymer materials:a review. Iranian Polym J 2008;17(6):451-77.   \n[11] Sun L et al. Stimulus-responsive shape memory materials: a review. Mater Des 2012;33:577-640.   \n[12]Huang WM et al. Thermo/chemo-responsive shape memory effect in polymers: a sketch of working mechanisms, fundamentals and optimization. J Polym Res 2012;19(9):9952.   \n[13] Lendlein A. Shape-memory polymers. Berlin Heidelberg: SpringerVerlag;2010.   \n[14] Osada Y， Matsuda A. Shape memory in hydrogels. Nature 1995;376(6537):219.   \n[15] Sun TL et al. Physical hydrogels composed of polyampholytes demonstrate high toughness and viscoelasticity. Nat Mater 2013;12(10):932-7.   \n[16] Zhang JL et al. Thermo-/chemo-responsive shape memory/change effect in a hydrogel and its composites. Mater Des 2014;53:1077-88.   \n[17]Huang WM et al. Instability/collapse of polymeric materials and their structures in stimulus-induced shape/surface morphology switching. Mater Des 2014;59:176-92.   \n[18] Sun L, Huang shrink: an approach to realize negative expansio os Mater 2009;18(2):95-103.   \n[19]Gong ] wor ydrogelswith extremely high mechanica rengt ;15(14):1155-8.   \n[20] Itagaki H e Wate du orittle-ductile transition of double networkhydrogels.Mac ules2010;43(22):9495-500.   \n[21] Wang Q et al. Super-tough double-network hydrogels reinforced by covalently compositing with silica-nanoparticles. Soft Matter 2012;8(22):6048-56.   \n[22] Zhao Y et al. Buckling of poly(methyl methacrylate) in stimulusresponsive shape recovery. Appl Phys Lett 2011;99(13):131911. ",
+        "page_idx": 10
+    }
+]

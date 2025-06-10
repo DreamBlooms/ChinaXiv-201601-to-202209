@@ -1,0 +1,199 @@
+# 氯化铁溶液中316L和HR-2不锈钢的腐蚀行为研究
+
+杨柳青」，刘道新¹，谢朝阳²，王正良²，徐星辰1，叶作彦‘（1．西北工业大学腐蚀与防护研究所，西安710072；2．中国工程物理研究院，绵阳621900)
+
+摘要：分别采用浸泡腐蚀实验、电化学测试技术、扫描电化学显微镜（SECM）分析技术和慢应变速率拉伸（SSRT）应力腐蚀（SCC）试验方法对比研究了316L和HR-2奥氏体不锈钢在三氯化铁溶液中的腐蚀行为，并探讨了腐蚀机理。结果表明，不受力条件下316L和HR-2不锈钢的耐腐蚀性能均较好，316L 钢呈现出较轻的点腐蚀现象。在动态拉应力作用下，316L和HR-2不锈钢均表现出较高的应力腐蚀开裂敏感性，原因是拉应力促进了不锈钢表面钝化膜的破裂，加速应力腐蚀裂纹的萌生和扩展。316L不锈钢的 SCC敏感性稍高于HR-2不锈钢，原因归于316L不锈钢点蚀敏感性稍高，因而表面钝化膜在动态拉伸载荷作用下更易于破裂。
+
+关键词：应力腐蚀，316L不锈钢，HR-2不锈钢，慢应变速率拉伸试验，氯化铁溶液，电化 学特征
+
+# Corrosion Behavior of 316L and HR-2 Stainless Steels
+
+# in Ferric Chloride Solution
+
+Abstract: The corrosion behaviors and mechanism of 316L&HR-2 stainless steels in ferric chloride solution were investigated by immersion method, electrochemical tests, scanning electrochemical microscopy (SECM) analysis, slow strain rate testing (SSRT) and stress corrosion crack (SCC） tests. The results demonstrate that the corrosion resistance of both HR-2 SS and 316L SS without stress is better, only 316L SS is slight sensitive to piting. However， as applied dynamic tensile stress， the SCC susceptibility of the two steels is high. This is because dynamic tensile stress promotes the rupture of surface passive film,and accelerates the initiation and propagation of SCC crack. 316L SS exhibited more sensitive to SCC than HR-2 SS, which is due to the piting susceptibility of 316L is higher than HR-2's, the passive film can be destroyed easily under dynamic tensile loading.
+
+Key Word: stress corrosion, 316L, HR-2, SSRT test, ferric chloride solution, electrochemical characteristics
+
+# 1.前言
+
+316L等奥氏体不锈钢因其自身的特点得到了广泛的关注[1,2],316L不锈钢是在316不锈钢基础上通过适当降低碳含量和增加Mo含量发展而来，其综合性能优于310和304不锈钢[2.3]。由我国自主研发的HR-2新型奥氏体不锈钢通过增加奥氏体组织稳定元素Mn和N的含量，减少Ni的含量，明显降低了生产成本，且具有优良的抗氢脆性能，因而成为重要的核工业结构材料[3]。目前人们对316L不锈钢的耐腐蚀性能已做了较多的研究，结果表明环境中CI浓度增大、温度升高或pH值降低通常会促进316L不锈钢的腐蚀[1,2.4,5]。然而，有关HR-2不锈钢腐蚀行为的研究报道却较少[]。为此本文选择腐蚀性较为苛刻的三氯化铁为介质环境，分别采用浸泡腐蚀试验和慢应变速率拉伸（SSRT）应力腐蚀（SCC）试验方法，对比研究316L和HR-2不锈钢的点腐蚀与应力腐蚀行为，并通过极化曲线测试、莫特-肖特基曲线（M-S曲线）测试[7-9]、电化学阻抗测试和电化学扫描显微镜测试[10,11]，综合分析316L和HR-2不锈钢在氯化铁腐蚀介质中的腐蚀机理，拟为工程实践中合理选材和深入认识316L和HR-2不锈钢的腐蚀行为提供依据。
+
+# 2.实验方法
+
+实验用316L和HR-2奥氏体不锈钢的化学成分如表1所示，可以看到两种不锈钢的主要化学成分较为接近，不同的是316L不锈钢Ni和Si含量较高，Mn、N、Cr含量较低，同时比HR-2不锈钢多出了Mo。
+
+两种不锈钢的热处理制度均为在 $1 0 5 0 ^ { \circ } \mathrm { C }$ 下进行固溶处理，力学性能如表2所示。可以看到，316L不锈钢的强度低于HR-2不锈钢，然而其塑性则较HR-2不锈钢好。
+
+表1不锈钢的化学成分  
+Table 1 Chemical composition of stainless steels(mass fraction, $\%$ ）   
+表2不锈钢的力学性能  
+
+<html><body><table><tr><td>Alloy</td><td>C</td><td>Si</td><td>Mn</td><td>P</td><td>S</td><td>Cr</td><td>Ni</td><td>Mo</td><td>N</td><td>Fe</td></tr><tr><td>316L</td><td>0.021</td><td>0.512</td><td>1.391</td><td>0.028</td><td>0.003</td><td>16.88</td><td>12.65</td><td>2.1</td><td>0.012</td><td>Bal.</td></tr><tr><td>HR-2</td><td>0.033</td><td>0.230</td><td>9.235</td><td>0.005</td><td>0.004</td><td>19.30</td><td>7.40</td><td></td><td>0.320</td><td>Bal.</td></tr></table></body></html>
+
+Table 2 Mechanical properties of stainless steels   
+
+<html><body><table><tr><td>Alloy</td><td>Ob/MPa</td><td>00.2/MPa</td><td>8/%</td><td>4/%</td></tr><tr><td>316L</td><td>630.30</td><td>309.85</td><td>57.56</td><td>74.60</td></tr><tr><td>HR-2</td><td>790.37</td><td>450.30</td><td>51.24</td><td>67.88</td></tr></table></body></html>
+
+依据GB/T17897-1999进行实验，腐蚀介质为 $6 \%$ 三氯化铁水溶液，即把100克分析纯三氯化铁（ $\mathrm { F e C l } _ { 3 } { \cdot } 6 \mathrm { H } _ { 2 } \mathrm { O }$ ）溶于 $9 0 0 \mathrm { m L }$ 的 $0 . 0 5 \mathrm { m o l / L }$ 盐酸溶液中制备。
+
+试样尺寸为 $3 0 \mathrm { m m } { \times } 2 0 \mathrm { m m } { \times } 3 \mathrm { m m }$ ，实验前试样用水砂纸逐级打磨至1000号，然后采用丙酮、乙醇超声波清洗后吹干置于上述溶液的试验容器中。实验过程中通过恒温水浴控制腐蚀介质温度为 $3 0 ^ { \circ } \mathrm { C }$ 。浸泡腐蚀试验周期为1周（ $1 6 8 \mathrm { h } \dot { } \dot { }$ )。电化学特性测试实验用腐蚀介质及温度控制同上述浸泡腐蚀实验。
+
+采用 PAR2273电化学工作站进行电化学特性测试，不锈钢试样为工作电极，铂片为辅助电极，饱和甘汞电极（SCE）为参比电极。极化曲线测试的电位扫描范围为： $- 0 . 4 \mathrm { V } { \sim } 0 . 8 \mathrm { V }$ 扫描速率为 $\mathrm { 1 m V / s }$ 。电化学阻抗测试的频率范围为 $1 0 0 \mathrm { k H z } { \sim } 1 0 \mathrm { m H z }$ ，幅值为 $1 0 \mathrm { m V }$ 。莫特-肖特基（M-S）曲线测试的电位扫描范围为 ${ \cdot 0 . 8 { \sim } 0 . 8 \mathrm { V } }$ ，频率为 $1 \mathrm { k H z }$ ，激励信号为 $1 0 \mathrm { m V }$ 。不受力试样的尺寸为 $1 0 \mathrm { m m } { \times } 1 0 \mathrm { m m } { \times } 3 \mathrm { m m }$ 。承受应力的电化学测试用试样如图1所示，即采用标准拉伸试样，试验时在试样工作段中部暴露 $2 0 \mathrm { m m } \times 5 \mathrm { m m }$ 的区域（ $1 { \mathrm { c m } } ^ { 2 } .$ ）于腐蚀介质中，试样其余部分使用硅胶封闭，实验过程中对试样施加的拉应力分别为216.9MPa（316L不锈钢屈服强度的 $70 \%$ ）和450.30MPa（HR-2不锈钢的屈服强度值）。
+
+采用CHI900D 扫描电化学显微镜（SECM）测试试样表面电流分布特征，采用四电极体系，探头为直径 $1 0 \mu \mathrm { m }$ 的 $\mathbf { \rho } _ { \mathrm { P t } }$ 超微电极( $\mathrm { R G } { = } 6 { \sim } 8$ ，RG 值表示探针Pt与玻璃管的直径比),工作电极为不锈钢试样（ $\Phi 1 5 \mathrm { m m } \times 3 \mathrm { m m }$ 的圆片)，试样表面扫描范围为 $6 0 \mu \mathrm { m } \times 6 0 \mu \mathrm { m }$ ，参比电极为 $\mathrm { \ A g / A g C l }$ 电极，辅助电极为Pt丝电极。
+
+SECM试样用水砂纸逐级打磨至2000号后进行机械抛光处理，其他试验用试样均用水砂纸逐级打磨至1000号。所有试样均采用丙酮、乙醇超声波清洗后吹干置于干燥血中备用。采用JSM-6290扫描电镜（SEM）对实验后的试样表面腐蚀形态特征进行观察和分析。
+
+![](images/cabd9a00bdba55c53ce53bbf1402ad59b1234c49cb02aa8badf7954e491d9edb.jpg)  
+图1 SSRT 试样尺寸  
+Fig.1 SSRT sample size
+
+应力腐蚀实验采用慢应变速率拉伸（SSRT）方法施加载荷，试样尺寸如图1所示。试验所使用的设备为MYB-II型慢应变速率试验机，根据作者已有研究结果，选取的拉伸速率为 $5 . 6 7 { \times } 1 0 ^ { - 5 } \mathrm { m m / s }$ ，试样的应变速率为 $2 . 8 4 \times 1 0 ^ { - 6 } \mathrm { s } ^ { - 1 }$ 。应力腐蚀实验溶液为 $6 \%$ 三氯化铁水溶液，温度控制为 $3 0 ^ { \circ } \mathrm { C }$ 。通过与相同试验条件下的空气环境中试样的拉伸试验结果对比来评价应力腐蚀敏感性。平行试样为3件。使用JSM-6290 扫描电镜（SEM）对 SCC 试样断口进行观察和分析。
+
+# 3.结果与分析
+
+# 3.1浸泡腐蚀
+
+图2所示为316L和HR-2不锈钢在 $6 \%$ 三氯化铁溶液中浸泡腐蚀1周（168h）后的微观形貌。可以看到，316L不锈钢表面产生了明显的点蚀坑，而 HR-2不锈钢表面未出现点腐蚀，只有试样预处理时留下的机械打磨划痕。由此表明HR-2不锈钢在 $6 \%$ 三氯化铁溶液中的抗点腐蚀性能明显优于316L不锈钢。此外，由图2a可以看到，尽管316L不锈钢表面产生了点腐蚀现象，然而点腐蚀密度较低，深度较浅，由此说明316L不锈钢的点腐蚀敏感性并不高。
+
+![](images/87ed49d912ebe01eab7cef9d38a7ab8fb56433fd7b3ab9e7a17aa872e6a7ace3.jpg)  
+图2浸泡腐蚀试样的表面形貌
+
+Fig.2 Surface morphology of specimens after immersion corrosion test (a) 316L， (b) HR-2文献[4]指出 $\mathrm { C r }$ 、Mo、N是提高不锈钢耐蚀性能的主要元素，不锈钢的耐点腐蚀阻力当量（PRE） $\mathrm { P R E { = } C r ^ { \% } { + } } ~ 3 . 3 \mathrm { M o \% { + } } ~ 3 0 \mathrm { N \% { } }$ 。依据该关系式计算的316L和HR-2不锈钢的PRE分别为24.7与28.9，由此表明HR-2的点蚀阻力更大，点蚀敏感性更低，这与本文一致。
+
+# 3.2 电化学测试
+
+图3所示为不受力的316L和HR-2不锈钢在 $6 \%$ 三氯化铁溶液中的极化曲线测试结果。表3所示为由极化曲线得到两种不锈钢电化学腐蚀特征参量。从图3和表3可以看到，两种不锈钢的电化学极化规律较为相似，HR-2不锈钢在阳极极化区存在较窄的钝化区，而316L不锈钢无稳定钝化区，这是由于腐蚀溶液中的 $\mathrm { F e } ^ { 3 + }$ 的腐蚀性很强，加之溶液中pH值较低，且含浓度较高的CI，由此导致在阳极极化状态下两种不锈钢表面钝化膜形成的难度较大。316L 和HR-2两种不锈钢的开路电位较为接近，HR-2不锈钢的点蚀电位比316L不锈钢稍高。316L 不锈钢的自腐蚀电流密度是 HR-2不锈钢的4倍，而极化电阻是HR-2 不锈钢的1/3，同时在相同阳极极化电位下316L不锈钢的阳极极化电流密度明显高于HR-2不锈钢。由此可见，阳极极化曲线测试结果表明HR-2不锈钢比316L不锈钢既具有更好的耐全面性腐蚀性能，同时也具有更好的抗点腐蚀性能，这与浸泡腐蚀试验结果是一致的。
+
+![](images/3388d40f9f9d1884a5066f411698cd42f3576ff306f5f54561864010d0ed89f9.jpg)
+
+Table 3 Electrochemical parameters of 316L & HR-2   
+
+<html><body><table><tr><td>Material</td><td>Ecorr(V)</td><td>Icorr(A/cm²)</td><td>Ep(V)</td><td>Rp(Ohm)</td></tr><tr><td>316L</td><td>0.170</td><td>1.53×10-4</td><td>0.350</td><td>304.9</td></tr><tr><td>HR-2</td><td>0.162</td><td>3.87×10-5</td><td>0.399</td><td>976.8</td></tr></table></body></html>
+
+图4所示为不受力的316L和HR-2不锈钢在 $6 \%$ 三氯化铁溶液中的交流阻抗谱测试结果，拟合得到的等效电路图和有关元件参数值分别如图5和表4所示。图5和表4中各个元器件的含义分别为： $\mathrm { \sf R } _ { \mathrm { s } }$ -液间电阻；C-外层钝化膜构成的电容； $\mathrm { R _ { c } }$ -外层钝化膜电阻；Q-内层钝化膜构成的常相位角元件； ${ \mathrm { R } } _ { \mathrm { q } } -$ 内层钝化膜电阻；L-表面吸附电感；W-扩散阻挡层元件； $\mathbf { R } _ { \mathrm { l } } .$ 表面吸附电感的电阻； $\boldsymbol { \mathrm { R _ { w } } }$ -扩散阻挡层的电阻； $\mathbf { n } .$ 与电极表面微观粗糙度相关的参数。
+
+![](images/efc3e2c0e03859bfa81da68e6f5128f02af649c447d4eaf7ece37c6f58a8b7de.jpg)  
+图3316L和HR-2不锈钢的极化曲线Fig.3Polarization curve of316L & HR-2 steel表3316L和HR-2不锈钢电化学腐蚀参数  
+图4316L 和HR-2不锈钢的Nyquist 图Fig.4 The Nyquist curve of 316L & HR-2 steel
+
+由图4看到，316L和HR-2两种不锈钢的容抗弧半径较为接近，表明二者耐蚀性能差异不明显。两种不锈钢的阻抗谱均有三个时间常数，高频区有一个容抗时间常数，中频区有一个容抗时间常数，低频区的时间常数分别对应感抗（316L 钢)或Warburg 阻抗（HR-2 钢)。高频容抗弧对应于原始氧化膜界面，中-低频容抗弧对应点蚀过程。两种不锈钢在低频区的阻抗谱出现了显著的差异，通常来说，阻抗谱低频区包含了关于电极反应控制过程及局部缺陷对阻抗的影响等重要信息。在316L不锈钢阻抗谱的低频区出现了感抗弧，原因归于一是在酸性环境中316L不锈钢表面发生了局部点蚀；二是表面存在氧化性较强的 $\mathrm { F e } ^ { 3 + }$ 的吸附和侵蚀现象。HR-2不锈钢的低频区存在Warburg 阻抗，表明腐蚀过程受扩散控制。在两种奥氏体不锈钢的容抗弧半径相差不大的前提下，低频区存在感抗的316L不锈钢表面易于发生点腐蚀，故耐局部腐蚀性能较差，这与浸泡腐蚀试验和阳极极化曲线测试结果均是一致的。
+
+此外，相位角元件n值接近1表示该过程受扩散控制，n接近0.6表示该过程受活化控制。由表4看到由于HR-2不锈钢的n值更接近于1，表明该过程受扩散控制，这与低频区存在Warburg 阻抗现象是吻合的。
+
+![](images/84b667c81e744e8126ab627dea5810bcb494897abdf7c74376b1266ce8af7bdd.jpg)  
+图5316L 和HR-2不锈钢的等效电路  
+Fig.5 The equivalent circuit of 316L & HR-2 steel
+
+表4等效电路中各元件参数值  
+Table 4 Parameter values of the elements in the equivalent circuit   
+
+<html><body><table><tr><td colspan="2">Stainless steel 316L</td><td rowspan="2">HR-2</td></tr><tr><td colspan="2">Parameters</td></tr><tr><td colspan="2">R (Ω·cm²)</td><td>3.731 3.583</td></tr><tr><td colspan="2">C (F/cm²)</td><td>1.741×10-6</td></tr><tr><td colspan="2">R.(Ω·cm²)</td><td>1.610</td></tr><tr><td colspan="2">Q (Ω−1·cm²2·s-n)</td><td>4.859×10-4</td></tr><tr><td colspan="2">9.251×10-5 0.8956</td><td></td></tr><tr><td colspan="2">n</td><td>0.9166</td></tr><tr><td colspan="2">Rq(Ω·cm²)</td><td>199.90</td></tr><tr><td colspan="2">L (H·cm²) 112.3</td><td>一</td></tr><tr><td colspan="2">W (Ω−1·cm²2.s-0.5)</td><td>0.04262</td></tr><tr><td colspan="2">R (Ω·cm²)</td><td></td></tr><tr><td colspan="2">Rw (Ω·cm²)</td><td>137.1</td></tr></table></body></html>
+
+图6所示为试验测得316L和HR-2不锈钢的莫特-肖特基（M-S）曲线，可以看到两种不锈钢的M-S曲线均出现了两段斜率不同的线段，这是由于禁带中存在不同的施主能级缘故。文献[]认为这种类型的钝化膜为双极性的，同时也表明钝化膜为多晶膜。根据 M-S 曲线的变化趋势，将曲线主要分为两个区，对不同区域的曲线进行线性拟合，得到斜率K值和不锈钢的平带电位 $\mathrm { E _ { f b } }$ 。对于半导体型钝化膜，有如下关系[12]：
+
+$$
+\frac { 1 } { C _ { s c } ^ { 2 } } = \frac { 2 } { \varepsilon \cdot \varepsilon _ { 0 } \cdot e \cdot N _ { D } } \cdot \left( E - E _ { f b } - \frac { k t } { e } \right)
+$$
+
+$$
+\frac { 1 } { C _ { s c } ^ { 2 } } = - \frac { 2 } { \varepsilon \cdot \varepsilon _ { 0 } \cdot e \cdot N _ { _ A } } \cdot \left( E - E _ { f b } - \frac { k t } { e } \right)
+$$
+
+$$
+N = { \frac { 2 } { \varepsilon \cdot \varepsilon _ { 0 } \cdot e \cdot K } }
+$$
+
+上述公式中的常数： $\mathrm { \Delta C _ { s c } }$ 为空间电荷层电容；N、 $\mathrm { N _ { D } }$ 、 $\mathrm { \Delta N _ { A } }$ 分别为载流子密度、供体密度和受体密度；E为外加电位； $\mathrm { E _ { f b } }$ 为平带电位；t为绝对温度。不锈钢钝化膜的介电常数 $\scriptstyle \mathtt { \mathtt { E } } = 1 2$ $\mathrm { F / c m }$ ；玻尔兹曼常数 $\mathrm { k } { = } 1 . 3 8 { \times } 1 0 ^ { - 2 3 } \mathrm { J / K }$ ；电子电量 $\mathrm { e } { = } 1 . 6 0 2 \times 1 0 ^ { - 1 9 } \mathrm { C }$ ；真空介电常数$\mathtt { \varepsilon _ { 0 } } = 8 . 5 5 4 \times 1 0 ^ { - 1 0 } \mathrm { F / c m }$ ；电极电位 $\scriptstyle { \mathrm { E = E _ { c o r r } } }$ 。
+
+设S 为试样面积，实验中 $\scriptstyle \mathbf { S } = 1 \mathbf { c m } ^ { 2 }$ 。根据下述公式[9可以计算钝化膜的厚度 $\mathrm { \Delta L _ { S S } }$ ，计算结果如表5所示。
+
+$$
+L _ { s s } = \frac { \boldsymbol { \varepsilon } \cdot \boldsymbol { \varepsilon _ { \scriptscriptstyle 0 } } \cdot \boldsymbol { S } } { C }
+$$
+
+![](images/f7ed6f8e5905ecf735663c845330652c43a0f533e85ae941ba18b4147f6043b1.jpg)  
+图6316L和HR-2不锈钢的M-S曲线
+
+Fig.6 M-S curve of 316L & HR-2 steel(a) 316L (b) HR-2
+
+在图6的I区中，316L和HR-2不锈钢M-S曲线的斜率均为负值，表明在此区间内钝化膜属于 $\mathfrak { p }$ 型半导体，参与导电的是带正电的空穴。钝化膜会排斥阳离子，吸附阴离子（如CI)。在II区中，316L 和HR-2不锈钢M-S 曲线的斜率均为正值，表明在此区间内钝化膜属于 $\mathfrak { n }$ 型半导体，参与导电的是带负电的电子，此时钝化膜会排斥阴离子，吸附阳离子（如$\mathrm { F e } ^ { 3 + }$ )。在本文试验条件下两种不锈钢的自腐蚀电位均处于II区，即钝化膜表现为n型半导体特性，会吸附阳离子 $\mathrm { F e } ^ { 3 + }$ ，而阳离子 $\mathrm { F e } ^ { 3 + }$ 有较强的氧化性，吸附在钝化膜表面会破坏钝化膜的完整性，加快不锈钢基体的腐蚀。点缺陷模型（PDM）[13]认为钝化膜中载流子的浓度越大，钝化膜就越容易破坏，表5表明316L不锈钢的钝化膜中载流子的浓度大于HR-2不锈钢，故更易破裂而产生点腐蚀。由于HR-2不锈钢的钝化膜不仅载流子浓度较低，而且厚度较大，因而表现出比316L不锈钢更好的耐蚀性。上述分析结果与浸泡腐蚀、极化曲线测试及阻抗测试结果是一致的。
+
+表5M-S 曲线线性拟合参数值   
+Table 5 The parameter values of M-S linear curve fitting   
+
+<html><body><table><tr><td>Material</td><td>Area</td><td>K</td><td>Efb VS.SCE(V)</td><td>ND or NA(×10²7m-3)</td><td>Lss(nm)</td></tr><tr><td rowspan="2">316L</td><td>I</td><td>-6.51</td><td>1.240</td><td>1.87</td><td>2.74</td></tr><tr><td>II</td><td>26.98</td><td>-0.115</td><td>4.51</td><td>2.71</td></tr><tr><td rowspan="2">HR-2</td><td>I</td><td>-32.72</td><td>0.345</td><td>3.72</td><td>2.68</td></tr><tr><td>I</td><td>41.97</td><td>-0.085</td><td>2.94</td><td>3.11</td></tr></table></body></html>
+
+图7所示为扫描电化学显微镜对316L和HR-2不锈钢钝化膜电流分布的面扫描测试结果。可以看到，316L 和HR-2不锈钢表面均存在一定的波动性，然而 HR-2不锈钢钝化膜的表面电流波动幅度明显比316L不锈钢小，由此表明HR-2不锈钢钝化膜稳定性更好，而316L不锈钢则易于发生点腐蚀破坏，这与前面的浸泡腐蚀试验、极化曲线测试、阻抗分析及 M-S曲线分析结果完全吻合。
+
+![](images/48f98ba2347351b97de0385a1af6f70466b82fc88300ec551714ddd2a2520d1d.jpg)  
+图7316L和HR-2不锈钢钝化膜的表面电流分布
+
+Fig.7 The current distribution of 316L & HR-2's passive film (a) )316L(b) HR-2
+
+# 3.3慢应变速率拉伸
+
+图8所示为316L和HR-2不锈钢试样分别在空气和氯化铁腐蚀溶液中的SSRT拉伸应力-应变曲线，表6为由平行试样试验得到的各物理参量。表6中的脆性系数的定义为：$\scriptstyle \mathrm { F ( W ) = ( ~ W _ { \mathrm { 0 } } - W ) / ~ W _ { \mathrm { 0 } } { \times } } 1 0 0 \%$ ，其中 $\mathrm { ~ W ~ } _ { 0 }$ 为试样在空气环境中拉伸断裂功，W为试样在氯化铁溶液中拉伸断裂功；其他物理量对应的脆性系数有类似的含义。可以看到，在酸性氯化铁溶液中 316L 和HR-2不锈钢均表现出较显著的 SCC 敏感性，与空气环境中的拉伸试验结果相比，在酸性氯化铁溶液中的两种不锈钢的强度和塑性指标均明显下降，同时断裂寿命和断裂功也明显减少。两种不锈钢的断裂延伸率降低百分比（即F值）较为接近，然而，316L 钢的断裂功的降低百分比比HR-2不锈钢稍大，同时316L钢的断裂强度降低的更为明显，由此表明316L钢的SCC敏感性要高于HR-2不锈钢。
+
+![](images/c133e3ec16c3df45503259f8bef92b7642227cd86797cd0901e7c7a8175dcb53.jpg)  
+图8316L和HR-2不锈钢的应力-应变曲线 Fig.8 Stress-strain curvesof316L & HR-2 steel
+
+表6316L 和HR-2不锈钢SSRT 实验试样的物理参量
+
+Table 6 The SSRT parameters of 316L & HR-2 samples   
+
+<html><body><table><tr><td rowspan="2">Parameter</td><td colspan="3">316L</td><td colspan="3">HR-2</td></tr><tr><td>Air</td><td>FeCl3</td><td>Brittleness coefficient F (%)</td><td>Air</td><td>FeCl3</td><td>Brittleness coefficient F (%)</td></tr><tr><td>Fracture time Tf(h)</td><td>86.85</td><td>48.75</td><td></td><td>77.95</td><td>34.25</td><td></td></tr><tr><td>Maximum strength Omax (MPa)</td><td>669.7</td><td>523.4</td><td>21.84</td><td>712.3</td><td>628.2</td><td>11.81</td></tr><tr><td>Elongation δ (%)</td><td>66.61</td><td>50.08</td><td>24.82</td><td>60.79</td><td>45.32</td><td>25.45</td></tr><tr><td>Fracture work W (10-³J/mm³)</td><td>341.9</td><td>220.3</td><td>35.56</td><td>372.4</td><td>249.7</td><td>32.94</td></tr></table></body></html>
+
+图9 给出了316L 和 HR-2不锈钢试样在氯化铁腐蚀溶液中的 SSRT 拉伸试样的断口形貌。可以看到，在 $6 \%$ 的酸性氯化铁溶液中316L和HR-2两种奥氏体不锈钢的断裂均呈现出典型的脆性断裂特征，宏观上缩颈现象不明显，断口上出现了较为严重的腐蚀坑（图9a 和b)；微观上源区为典型的脆性解理断裂特征（图9c和d)，过渡区则为解理和韧窝混合特征，且有二次裂纹出现(图9e和f)。
+
+![](images/426199b41f17b4a36036b5731e5b1faf902deab7464964201e45dc4109810b35.jpg)  
+图9 316L和HR-2不锈钢断口形貌   
+Fig.9Fracture morphology of 316L & HR-2 steel
+
+# 3.4讨论
+
+结果表明，在不受力条件下，316L和HR-2不锈钢在 $6 \%$ 的酸性氯化铁溶液中均表现出较好的耐蚀性能，其中HR-2不锈钢的耐蚀性能更好，而长时间腐蚀后 316L不锈钢表面微观上可见点腐蚀现象。原因是316L和HR-2不锈钢在 $6 \%$ 的酸性氯化铁溶液中可以形成具有一定保护性的钝化膜，其中HR-2不锈钢表面钝化膜厚度稍大、致密性和均匀性更好、载流子密度稍低，因而表现出更好的耐腐蚀性能。氯化铁溶液长时间浸蚀作用，由于三价铁离子的强氧化性与酸性溶液中氯离子对钝化膜的破坏作用，使得钝化膜致密性稍差的316L不锈钢表面微观上出现点腐蚀现象。HR-2不锈钢表现出比316L不锈钢耐蚀性能更好的原因可能是前者的Cr元素和N元素较高，易于形成保护性较好的钝化膜。
+
+图10 对比了拉应力对316L和HR-2不锈钢在氯化铁溶液中阻抗谱的影响测试结果。可以看到，不同应力条件下阻抗谱形状相似，表明电荷的转移过程没有因应力的存在而发生改变，然而容抗弧半径随着应力的提高而减小，表明不锈钢的表面活性增大，耐蚀性能降低，并且外加应力水平愈高，耐蚀性降低的程度愈大。当承受动态拉应力时（SSRT加载过程)，不锈钢钝化膜不仅易于破裂，而且难以修复。由此推知当316L和HR-2不锈钢在氯化铁溶液中进行SSRT拉伸时，试样表面的钝化膜易于破裂，由此导致局部活性点出现，进而形成小阳极-大阴极局部微电池出现，从而引发点腐蚀，点腐蚀区形成闭塞电池，和拉应力协同作用促进 SCC裂纹的产生与扩展，进而引发 SCC 破坏。图10所示结果还表明，当无外载荷作用时，316L 和HR-2钢的阻抗值较为接近，然而，当承受同样的拉应力时，316L不锈钢比HR-2不锈钢阻抗降低的更为明显，这表明拉应力更易于使316L钢表面钝化膜破坏，进而引发 SCC 裂纹的萌生，这应该是316L 不锈钢 SCC 敏感性高的主要原因[14,15]。
+
+微观分析表明（图11所示)，在 $\mathrm { F e C l } _ { 3 }$ 溶液中进行SSRT拉伸实验过程中，两种不锈钢表面均会产生点蚀坑并进一步引发 SCC裂纹，其中由于316L不锈钢表面的钝化膜稳定性较差，在拉应力作用促进下更易于破裂，因而其 SCC 敏感性稍高于HR-2不锈钢。
+
+结合两种不锈钢 SCC 试样断口形态特征（图9）和表面腐蚀形貌特征（图11)，以及浸泡腐蚀实验与电化学腐蚀特征综合测试与分析结果，可以认为316L和HR-2不锈钢在 $6 \%$ 的酸性氯化铁溶液中的SCC机制为膜破裂阳极溶解为主。
+
+![](images/e6d3c904dbd1e46eb839b08e0cd479674fa55c7d164685aa224f0d02bd1b6676.jpg)  
+图10316L&HR-2钢承受不同拉应力条件下的Nyquist图
+
+Fig.10 The Nyquist curves of 316L &HR-2 steel with different tensile stress
+
+![](images/16fd0e0642a54dd13f62c8c6a0633696a30c54595c163e3c398b839c9db00061.jpg)  
+图11不锈钢在氯化铁溶液中SSRT实验后表面微观形貌
+
+Fig.11 Surface morphology of 316L &HR-2 steel after SSRT test in ferric chloride solution
+
+（a）316L，（b）HR-2
+
+# 4.结论
+
+（1）316L 和HR-2 两种奥氏体不锈钢在 $6 \%$ 的酸性氯化铁溶液中均具有较好的耐腐蚀性能，长时间腐蚀后316L不锈钢表面出现轻微的点腐蚀现象，而HR-2不锈钢表面未发生点腐蚀，即HR-2不锈钢的耐腐蚀性能更优。原因归于两种不锈钢表面均可以形成具有较好保护性的钝化膜，而HR-2不锈钢表面钝化膜厚度较大，致密性和均匀性更好，n型钝化膜的载流子浓度较低。
+
+（2）以慢应变速率拉伸加载，316L和HR-2不锈钢在 $6 \%$ 的酸性氯化铁溶液中均表现出较高的应力腐蚀敏感性，其中316L钢的SCC敏感性稍高。原因归于在动态加载条件下，两种不锈钢表面的钝化膜易于破裂，促进了SCC裂纹的萌生与扩展，其中316L钢点蚀敏感性稍高，钝化膜在拉应力作用下更易于开裂。
+
+（3）316L和HR-2不锈钢在 $6 \%$ 的酸性氯化铁溶液中以SSRR方式加载的SCC机制为膜破裂阳极溶解机制为主。
+
+# 参考文献
+
+[1] Zuo Y,Wang H, Zhao J,et al. The effects of some anions on metastable piting of 316L stainless steel[J]. Corros. Sci.,2002, 44(1): 13   
+[2] 刘侠和，吴欣强，韩恩厚．温度对国产核级 316L 不锈钢在加 Zn 水中电化学腐蚀性能 的影响[J]．金属学报,2014,50(1):64   
+[3] 李依依，范存淦，戎利建等．抗氢脆奥氏体钢及抗氢铝[J].金属学报,2010,46(11):1335   
+[4] Tseng C M, Tsai W T. Environmentally assisted cracking behavior of single and dual phase stainless steels in hot chloride solutions[J]. Mater.Chem.Phys.,2004, 84(1): 162   
+[5]Han M S,Park JC,Jang S K, et al.Effects of applied potential on SCC and HE for STS 316L in seawater[J]. Phys.Scr., 2010,2010(T139): 014037.   
+[6] 陈阵，余强，廖登辉，等．酸性介质中 HR-2 不锈钢表面活性的 SECM 三维图像表征 研究[J]．中国腐蚀与防护学报,2013,33(1):54-60.   
+[7] 刘佐嘉，程学群，刘小辉，等．2205 双相不锈钢与 316L 奥氏体不锈钢钝化膜内点缺陷 扩散系数的计算分析[J]．中国腐蚀与防护学报,2010,30(4):273-277.   
+[8]Sikora E, Sikora J，Macdonald D D.A new method for estimating the diffusivities of vacancies in passive films[J]. Electrochimica Acta, 1996, 41(6): 783-789.   
+[9] 刘佐嘉，程学群，李晓刚等．点缺陷模型在 2205 双相不锈钢中的应用[J]．中国腐蚀与 防护学报,2013,33(2):90   
+[10]程学群，李晓刚，杜翠薇．316L 和 2205不锈钢在醋酸溶液中钝化膜的生长及其半导 体属性的研究[J]．科学通报,2009(1):104   
+[11] Tsuchiya H,Fujimoto S, Chihara O, et al. Semiconductive behavior of passve films formed on pure Cr and Fe-Cr alloys in sulfuric acid solution[J]. Electrochim.Acta, 2002, 47(27): 4357   
+[12] Liu Y, Meng G Z, Cheng Y F. Electronic structure and piting behavior of 3003 aluminum alloy passivated under various conditions[J]. Electrochim.Acta, 20o9, 54(17): 4155   
+[13] Macdonald D D. The point defect model for the passive state[J]. J.Electrochem. Soc.,1992, 139(12): 3434   
+[14] Spencer D T, Edwards M R, Wenman M R,et al. The initiation and propagation of chloride-induced transgranular stress-corrosion cracking (TGSCC） of 304L austenitic stainless steel under atmospheric conditions[J]. Corros.Sci., 2014,88: 76   
+[15]刘道新．材料的腐蚀与防护[M]．西北工业大学出版社,2006.

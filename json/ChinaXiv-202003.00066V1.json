@@ -1,0 +1,376 @@
+[
+    {
+        "type": "text",
+        "text": "桐花树内生和根际细菌多样性及抗血栓活性研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李菲，黄庶识²，胡文进³，李喆²，黄媛林²，王巧贞²，潘信利²\\*（1.广西科学院广西近海海洋环境科学重点实验室，南宁530007；2.广西科学院广西海洋天然产物与组合生物合成化学重点实验室，南宁530007；3.广西科学院，国家非粮生物质能源工程技术研究中心，非粮生物质酶解国家重点实验室，广西生物炼制重点实验室，广西生物质工程技术",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究中心，南宁530007)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：红树植物内生菌在红树共生体的物质循环、能量传递和健康维护等方面起着重要作用，探究红树植物内生菌的多样性，为进一步揭示内生菌在红树共生体的功能多样性提供菌种资源。本研究选择6种分离培养基和采用传统稀释涂布法对从广西北海滩涂上采集的桐花树组织和根际土壤样品进行分离，对获得的可培养细菌进行多样性分析，并通过体外溶栓实验筛选出具有抗血栓活性菌株。基于16S rRNA基因序列系统进化分析，从桐花树组织和根际土壤中共获得 125 株细菌；分布于变形菌门（Proteobacteria）、放线菌门（Actinobacteria）和厚壁菌门（Firmicutes）3个门，27个科，39个属，74个种中，芽孢杆菌属为优势菌属，菌株数量占 $1 3 . 5 \\%$ 。抗血栓活性实验表明，初筛获得18株具有抗血栓活性细菌，总阳性率为$2 4 . 3 2 \\%$ ；将初筛有活性的菌株进行复筛和重复验证实验，进一步验证其活性，结果复筛出3株细菌B1850、B1989 和B2632具有很强抗血栓活性。综上所述，广西北海滩涂上红树植物桐花树中存在丰富的可培养细菌资源，具有从中挖掘新的纤溶酶和开发溶血栓药物的潜力。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：桐花树，内生细菌，根际细菌，多样性，抗血栓活性中图分类号：Q939.1 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Diversity and antithrombotic activity of endophytic and rhizospheric bacteria isolated from Aegiceras corniculatum ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Fei ¹, HUANG Shushi ²,HU Wenjin³, LI Zhe ², HUANG Yuanlin², WANG Qiaozhen²,PAN Xinli²\\*   \n(1.Guangxi KeyLaboratoryof Maine Environmental Science,Guangxi AcademyofSciences,Nanning 530007, China; 2. Guangxi Key Laboratory of Marine Natural Products and Combinatorial Biosynethesis Chemistry,   \nGuangxi AcademyofSciences,Nanning 530o07,China; 3.National Engineering Research Center forNon-Food   \nBiorefinery,State Key Laboratory of Non-Food Biomassand Enzyme Technology,Guangxi Key Laboratoryof   \nBio-refinery, Guangxi Biomass Engineering Technology Research Center, Guangxi Academy ofSciences,Nanning 530007, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Mangrove endophytes play an important role in the material cycle, energy transfer and health maintenance of mangrove plants. To enrich microbiological resources for further revealing the functional diversity of the endophytes microorganism in mangrove plants,we explore the diversity of endophytes microorganism. The purpose of this study was to investigate the distribution and diversity of endophytic and rhizospheric bacteria of Aegiceras corniculatum collected from Beihai city,and study the antithrombotic activities of those strains.The endophytic and rhizospheric bacteria were isolated from Aegiceras corniculatum by using six different isolation media. The antithrombotic activity of all species were screened out by thrombolysis experiment in vitro. Based on the phylogenetic analysis of 16S rRNA gene sequence, total of 125 strains were obtained from the tissue and rhizosphere soil of Aegiceras corniculatum. They were classified into 74 species,39 genera,27 families and 3 phylas of Proteobacteria,Actinobacteria and Firmicutes.Bacillus sp.was the dominant genus,and the total rate was $1 3 . 5 \\%$ . The results of antithrombotic activity test showed that 18 strains with antithrombotic activity were screned out, the total positive rate reached to $2 4 . 3 2 \\%$ . The activity of the strains was further verified by the re-screening and re-verification test. The strains of B1850, B1989 and B2632 with strong antithrombotic activity were obtained.To sum up, there are abundant culturable bacterial resources in Aegiceras corniculatum in Beihai of Guangxi, which could be a potential source for the discovery of new plasminogen and thrombolytic drugs. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Aegiceras corniculatum, Endophytic bacteria, Rhizospheric bacteria, Genetic diversity, Antithrombotic activities ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "血栓性疾病是一类严重威胁人类健康的常见病、多发病，常表现为心绞痛、心肌梗死、脑栓塞和脑梗死等，多以中老年人为主要发病群体，现发病人群逐渐趋于年轻化，且发病率与死亡率在不断上升（Järemo etal.,2013；乔德水等，2009)。血栓性疾病的起因主要是血管腔中形成血栓使其变得狭窄或闭塞，导致主要器官缺血或梗死。而血栓是人体内血液组成成分在血管或心脏内形成的凝块，可脱落凝块会随血液流向至远端，从而堵塞血管腔（Sunetal.,2008)。目前临床上主要有三大类治疗血栓性疾病的药物，即抗血小板类、抗凝血类和溶血栓药物。传统的溶栓药物在临床上虽具有确切的疗效和良好的安全性，但其存在的半衰期短、纤维蛋白特异性低和价格贵等缺点也不容忽视（翁郁华等，2010)。因此，寻找能解决上述问题的溶血栓药物具有广泛的应用前景。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，海洋微生物是新型纤溶酶的重要来源之一。Lakshmietal.（2013）从海洋沙雷菌(Serratia sp.RSPB11)分离到一种具有纤维蛋白水解活性和高热稳定的碱性金属蛋白酶。李占强等（2009）从南海沉积物中分离到的短小芽孢杆菌（Bacillus pumilus B5815)，其纤溶酶活性好且产酶量高。Huang et al.（2013）从海洋枯草芽孢杆菌（Bacillus subtilis HAS-3）分离到一种纤维蛋白水解酶。刘晨光等（2001）分离到一株海洋假单胞菌(Pseudomonas sp.)可产生较强的直接溶解纤维蛋白和具有抗血栓活性的碱性蛋白酶MPAP。这些为海洋微生物来源寻找抗血栓的药物提供很好的依据。桐花树系红树林树种中广布种之一，广泛分布于亚洲至大洋洲热带海岸，在我国的广东、广西、福建和海南各省等地区均有分布（缪绅裕等，2007)。我国的桐花树由于受到常年全日潮水的浸淹，使之生长状况、营养发育、生物量分配、激素水平和相关酶系等方面的生理生态性质表现出梯度性反应（何斌源等，2007），其内生菌长期生活于植物体内的特殊环境中并与之协同进化。植物体为其提供生长所必需的能量和营养的同时，内生菌又会通过自身的代谢、信号传导对植物体产生响应（文才艺等，2004)。本研究以广西北海滩涂的桐花树中分离、培养和鉴定出的植物内生和根际细菌为样本，旨在筛选出具有高效抗血栓活性的菌株。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.1样本来源",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "桐花树于2018年8月在广西北海滩涂（ $1 0 8 ^ { \\circ } 5 0 ^ { \\prime } 4 2 ^ { \\prime \\prime } \\mathrm { E }$ ， $2 1 ^ { \\circ } 5 5 ^ { \\prime } 2 5 ^ { \\prime \\prime } \\mathrm { N } .$ ）采集。样品装于密封袋， $4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 低温保藏带回实验室，尽快完成前处理和分离工作。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.2 羊血实验试剂",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "无菌脱纤维羊血（初筛羊血）和抗凝羊血（复筛羊血)，均购买于南宁茂接微生物科技有限公司。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "阳性对照药物：血塞通片（云南维和药业股份有限公司)，购买于一心药业。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.3 培养基",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）分离培养基：AGG、M5、P7、M10、M4和P3，详情信息见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/250e0edbbf58e7d83cac02ad4cf3208933e5931539064d0a3781e1b67d63bea2.jpg",
+        "table_caption": [
+            "表1细菌分离培养基配方",
+            "Table1 Culture media "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>分离培养基 Culture media</td><td>主要成分 Main components</td><td>其他成分</td><td>Other components</td></tr><tr><td>AGG</td><td>可溶性淀粉 Soluble starch 10.0 g 葡萄糖 Glucose anhydrous 1.0 g</td><td colspan=\"3\"></td></tr><tr><td>M5</td><td colspan=\"3\">甘油 Glycerol 10 mL 海藻糖 Trehalose 5.0 g 脯氨酸 Proline 1.0 g</td></tr><tr><td></td><td>土壤浸出液 Soil extract 20 mL L-天门冬酰胺L-Asparagine 1.0 g</td><td colspan=\"3\">琼脂Agar 复合盐母液 去离子水 Compound ion concentrate 14.0 g</td></tr><tr><td>P7</td><td colspan=\"3\">酪氨酸Tyrosine 0.5g Deionized-water 甘油 Glycerol 10 mL</td></tr><tr><td>M10</td><td>可溶性淀粉 Soluble starch 10.0 g 水解酪素 Hydrolyzed casein 0.5 g</td><td>1 000 mL pH7.2~7.4</td><td>10 mL</td></tr><tr><td>M4</td><td>L-天门冬酰胺 L-Asparagine 1.0 g 海藻糖 Trehalose 5.0 g 甘油 Glycerol 10 mL</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "注：复合盐母液： $\\mathrm { K N O } _ { 3 } 1 . 0 \\mathrm { g }$ ， $\\mathrm { K _ { 2 } H P O _ { 4 } } 0 . 5 \\ : \\mathrm { g }$ ， $\\mathrm { M g S O _ { 4 } { \\bullet } 7 H _ { 2 } O 0 . 5 \\ g }$ ， $\\mathrm { N a C l 0 . 5 ~ g ~ }$ ， $\\mathrm { N H } _ { 4 } \\mathrm { N O } _ { 3 } 0 . 1 \\ \\mathrm { g }$ ， $\\mathrm { F e S O } _ { 4 } 0 . 0 1 \\ \\mathrm { g }$   \n$\\mathrm { Z n S O _ { 4 } bullet 7 H _ { 2 } O 0 . 0 0 1 \\ g }$ ， $\\mathrm { M n C l _ { 2 } \\bullet H _ { 2 } O 0 . 0 0 1 \\ g }$ ，去离子水 $1 0 ~ \\mathrm { m L }$ 。  \nNotes: Compound ion concentrate: $\\mathsf { K N O } _ { 3 } 1 . 0 \\ \\mathrm { g }$ $\\mathrm { K _ { 2 } H P O _ { 4 } } 0 . 5 \\mathrm { ~ g ~ }$ $\\mathrm { M g S O _ { 4 } { \\bullet } 7 H _ { 2 } O 0 . 5 \\ g }$ $\\mathrm { N a C l 0 . 5 ~ g ~ }$ $\\mathrm { N H _ { 4 } N O _ { 3 } 0 . 1 \\ g }$   \n$\\mathrm { F e S O } _ { 4 } 0 . 0 1 \\ \\mathrm { g }$ $\\mathrm { Z n S O _ { 4 } } { \\bullet } 7 \\mathrm { H _ { 2 } O } 0 . 0 0 1 \\ \\mathrm { g }$ $\\mathrm { M n C l _ { 2 } \\bullet H _ { 2 } O 0 . 0 0 1 \\ g }$ ,Deionized-water $1 0 ~ \\mathrm { m L }$ ：（2）纯化培养基（改良ISP2)：麦芽提取物 $2 . 0 \\ \\mathrm { g }$ ，葡萄糖 $2 . 0 \\ \\mathrm { g }$ ，酵母提取物 $2 . 0 \\ \\mathrm { g }$ ，琼  \n脂 $1 5 . 0 \\ \\mathrm { g }$ ，去离子水 $1 0 0 0 { \\mathrm { m L } }$ 。（3）发酵培养基：改良ISP2 液体培养基。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2菌株的分离纯化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1样品预处理",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参照李菲（2018）预处理方法，代表性地选择桐花树各组织进行细菌的分离实验。用$5 \\%$ 次氯酸钠溶液浸泡 $3 { \\sim } 5 \\ \\mathrm { m i n }$ ，用无菌水冲洗多次；用 $0 . 2 \\%$ 吐温20溶液浸泡 $1 0 \\mathrm { m i n }$ ，用无菌水冲洗多次；用 $7 5 \\%$ 的酒精溶液浸泡 $5 \\mathrm { m i n }$ ，无菌水冲洗多次。消毒后的组织样品，分别用无菌手术刀进行切碎；取约 $\\mathrm { ~ 1 ~ g ~ }$ 的样品进行充分研磨，加入 $9 ~ \\mathrm { m L }$ 无菌水与样品混匀，即为初始的组织悬液，再依次稀释到 ${ { 1 0 } ^ { - 3 } }$ 和 ${ { 1 0 } ^ { - 4 } }$ 的组织悬液，待用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "桐花树根际样品的收集，轻轻刮下根须表面附着的土壤，平铺于无菌平皿中，经 $6 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 热风干燥 $3 0 \\mathrm { m i n }$ 。称取 $2 . 0 \\ \\mathrm { g }$ 样品装于 $2 0 ~ \\mathrm { m L }$ 无菌水中摇匀；制成 ${ { 1 0 } ^ { - 2 } }$ 和 ${ { 1 0 } ^ { - 3 } }$ 稀释度的样液，待涂布处理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.2细菌的分离纯化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "取 $2 0 0 { \\mu \\mathrm { L } }$ 梯度稀释的样液接种于6种复合营养培养基中， $2 8 \\mathrm { ~ \\ ^ { \\circ } C }$ 培养数周，并及时观察菌株的生长情况，挑取肉眼可见菌落进行纯化培养，记录其形态特征和相同菌落数，以 $30 \\%$ （V/V）甘油-ISP2混合液作为保护剂，将纯化好的菌株制成冻存管保藏于-70℃。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.316SrRNA系统发育分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用chelex-100 树脂（周双清等，2010）快速提取细菌的DNA作为PCR 模板，并根据Walsh（1991）的方法进行对其进行PCR扩增。引物为27F和1522R，参照李菲（2018）的方法设定PCR反应条件。扩增产物经 $1 \\%$ 琼脂糖-TAE凝胶电泳检测合格后，委托北京擎科新业生物技术有限公司进行测序分析。序列经BioEdit Sequence Alignment Editor 软件整理后，利用EzTaxon服务器进行在线比对（Kimetal.,2009)；以同源性最高菌株的有效序列作为参比对象，构建Neighbor-Joining 系统发育树，各分支置信值检测设为Boostrapl000 次，对各菌株的系统发育地位进行分析（Lietal.,2017）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4细菌对抗血栓活性的筛选",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.1羊血培养基制备",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以改良ISP2固体培养基为基础培养基，121℃高温蒸汽灭菌 $2 0 \\mathrm { m i n }$ 。待培养基冷却至$5 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ，添加 $10 \\%$ 脱纤维无菌羊血，摇匀后倒入无菌平皿中，待平皿静置冷却2h后，待用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 初筛",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将排重后的74株细菌，分别接种至ISP2固体培养基上，取生长对数后期的细菌划线至羊血培养基上，每板划4株细菌，置于 $2 8 \\mathrm { ~ \\ ^ { \\circ } C }$ 的恒温培养箱培养。 $2 4 \\mathrm { h }$ 后观察平板上微生物的生长情况，观察是否有透明圈，颜色变化等。再将产生明显透明圈的菌落划线至ISP2 固体培养基上，供复筛用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.3复筛 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考辛宏（2018）的方法制备人工血栓，取 $3 0 0 ~  { \\mu \\mathrm { L } }$ 脱纤维无菌羊血，至于西林瓶底部，加入 $9 \\mu \\mathrm { L } 1 \\mathrm { m o l } \\cdot \\mathrm { L } ^ { - 1 }$ 的 $\\mathrm { C a C l } _ { 3 }$ 溶液，放置 $1 0 \\mathrm { m i n }$ ，待血液凝固使用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将初筛结果良好的16株细菌，分别接种于 $5 0 ~ \\mathrm { m L }$ 改良的ISP2液体培养基上， $2 8 \\mathrm { ~ \\ ^ { \\circ } C }$ ，$1 8 0 \\mathrm { r } \\cdot \\mathrm { m i n } ^ { - 1 }$ 摇床培养7d；取出发酵液， $8 0 0 0 \\mathrm { r } \\cdot \\mathrm { m i n } ^ { - 1 }$ 离心 $1 0 \\mathrm { m i n }$ ，收集上清液，用 $0 . 2 2 \\mu \\mathrm { m }$ 微孔滤膜除菌，获得抗血栓活性待测液；取 $2 { \\mathrm { m L } }$ 待测液沿壁缓慢加入凝固的人工血栓中，以 $2 { \\mathrm { ~ m L } }$ ISP2 液体培养基和 $2 \\mathrm { m L } 0 . 7 \\%$ 生理盐水作阴性对照，以 $2 \\mathrm { m L 0 . 1 7 3 \\ g \\cdot m L ^ { - 1 } }$ 血塞通片（含三七总皂苷含量为 $1 0 0 ~ \\mathrm { { m g } }$ ）为阳性对照。放入 $2 8 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 培养，每隔 $2 4 \\mathrm { ~ h ~ }$ 观察一次血凝块溶解情况，并轻微晃荡，记录结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1桐花树中内生及根际细菌多样性分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据菌落的形态、颜色和大小等特征进行排重，选取125株细菌进行测序对比分析，获得74种细菌，其中桐花树各组织中获得34种内生细菌，隶属18科22属；根际细菌44种，隶属于20 科27属。分别对桐花树的内生细菌和根际细菌构建N-J系统进化树(图1和图 2)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DI9Z 67 Curtobacterium luteum DSM 20542T(X77437) B1901 97 Curtobacterium albidum DSM 20512T(AM042692) B1920 97 70 Curtobacterium flaccumfaciens LMG 3645 T(AJ312209) 93 B1850 Microbacterium aquimaris JS54-2T(AM778449) 98 54 61 B1914 94 Microbacterium testaceum DSM 20166T(X77445) B2623 100 Micrococcus yunnanensis YIM 65004 T(FJ214355) B1889 100 Brachybacterium rhamnosum LMG 19848 (AJ415376) Actinobacteria B1882 Brachybacterium horti THG S15-4 (KM073966) 100 B1913 Brevibacterium sediminis FXJ8.269 (KX356313) 100 B2965   \n100 83 Gordonia oryzae RS15-1S T(RKMH01000030) 73 B1802 100 Mycolicibacterium poriferae ATCC 35087T(AF480589) 100 B2671 100 Mycobacterium palauense CECT 8779 (MF769712) 97 B2597 Streptomyces violarus NBRC 13104 T(AB184316) 99 B1820 99 Streptomyces scopuliridis NRRL B-24574 T(JOEI01000056) 100 B2529-2 Paenibacillus elgi SD17 (AY090110) 100 B1841 100 Staphylococcus sciuri DSM 20345 T(AJ421446) 100 B2031 Firmicutes 84 Bacillus aryabhattai B8W22T(EF114313) 72 B2019 87 Bacillus siamensis KCTC 13613 T(AJVF01000043) 99 B2075 65 Bacillus subtilis subsp. stercoris D7XPN1T(JHCA01000027) 92 B2091 100 Salinicola acroporae S4-41T(KM200719) 50 B1838 99 Salinicola tamaricis FO1T(KT343976) 81 100 seds Gammaproteobacteria 92 B2027 100 Vibrio gangliei SZDIS-1T(KY228998) B1989 100 Stenotrophomonas maltophilia MTCC 434 (JALV01000036) 100 B3394   \n100 99 Aurantimonas coralicida DSM 1479o T(ATXK01000033) B1927 100- Labrenzia suaedae DSM 22153 T(jgi.1107719) B1892 100 B2090 99 78 e B2638 100 Sphingomonas zeicaulis 541 T(KP172592) Alphaproteobacteria 100 98 B1925 Altererythrobacter epoxidivorans CGMCC 1.7731T(CP012669) Novosphingobium sediminicola HU1-AH51 (FJ177534) 57 60 Novosphingobium barchaimii LL02T(KQ130454) 99 Novosphingobium guangzhouense SA925 (KX215153) 85 B2014 78 B1823 B2956-1 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig. 1 Phylogenetic analysis of endophytic bacteria 16S rRNA in Aegiceras corniculatum ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "100- Mycobacterium palauense CECT 8779T(MF769712) B2943 99 B2562 51 81 Mycolicibacterium parafortuitum CCUG 20999T(MVID01000056) B2602-2 68 100 Gordonia terrae NBRC 100016T(BAFD01000032) B2570 31 100 Rhodococcus hoagi DSM 20295 T(LRRF01000147) B2016 63 100 Nocardesma） 100 Micromonospora haikouensis 232617T(GU130129) 88 B2975 66 100 Micromonospora qiuiae RtI47 T(EU427445) B3374 Actinobacteria 100 Streptomyces carpaticus NBRC 15390 (AB184641) 52 B2ptycespaulusNC19AB4326) 66 100 99 B2725 70 Streptomyces tunisiensis CN-207T(KF697135) B2001-1 100 Demequina activiva BS-12M T(KM591918) 82 B1804-2 99 Microbacterium marinilacus YM11-607 T(AB286020) 81 B2003 100 Kocuria assamensis S9-65T(HQ018931) 89 B2722 100 Micrococcus luteus NCTC 2665 (CP001628) B2979 100 Brevibacillus reuszeri DSM 9887T(LGIQ01000014) B3372   \n100 100 Bacllusdr 99 Bacillus jeotgali YKJ-10 T(AF221061) 99 B1500 Bacillus siamensis KCTC 13613T(AJVF01000043) 58 B2674 46 99 71 B 70 Bacillus altitudinis 41KF2b T(ASJC01000029) Firmicutes B2717 50 Bacillus aryabhattai B8W22 T(EF114313) 100 B2698 B3375 94 Bacillus haikouensis C-89T(KJ868191) 54 58 Bacillus vietnamensis 15-1(AB099708) 88 B3373 53 Blsillus cereusACC14579AE06877) 100 B2664 Bacillus pseudomycoides DSM 12442T(ACMX01000133) B2724 100 Pseudomonas abyssi MT5 (MF962536) 63 26udomoas huanesisLVJ54) 100 76 B3300-1 79 69 tbe Gammaproteobacteria 99 Marinobacterium nitratireducens CN44T(EU573965) 100 B2686 100 Providencia vermicola OP1T(AM040495) B2688-1 100 Roseomonas mucosa NCTC 13291T(UGVN01000001)   \n100 B2004 98 Hartmannibacter diazotrophicus E19 (LT960614) 50 B1947 92 99 rclel86 55 100 Rhizobium rosetiformans W3 T(EU781656) B2012 100 Acuticoccus yangtzensis JL1095T(MJUX01000023) B1530 100 Sphingomonas aquatilis JSS7T(AF131295) 92 95 B2657 100 99 Sphingomonas trueperi LMG 2142 T(X97776) Alphaproteobacteria B2635 99 Sphingomonas yunnanensis YIM OO3T(AY894691) B2008 97 100 Erythrobacter nanhaisediminis CGMCC 1.7715(jgi.1058038) 50 B2007 96 78 79 Nvs Novosphingobium indicum H25 (EF549586) 73 64 B2637 Novosphingobium colocasiae Teta-03T(HF548595) 50 B2565 96 Novosphingobium guangzhouense SA925 T(KX215153) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图2桐花树根际细菌的16SrRNA基因序列N-J系统发育树",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig. 2 Phylogenetic analysis of rhizospheric bacteria 16S rRNA in Aegiceras corniculatum不同培养基对内生和根际细菌的分离效果",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "采用6种培养基，从桐花树中分别获得内生和根际细菌71株和64株；经形态法和16SrRNA基因序列对比排重后，获得74株细菌在6种培养基上分离效果（图3所示)。根据其分离效果分析：P3和P7培养基分离到细菌种类最多，均有17个菌属；AGG 培养基分离的细菌种类最少，包含4个菌属，究其原因可能是AGG 培养基主要成分为淀粉，较适合优势放线菌群（链霉菌属)。由菌落数统计结果可知，M10、M5、AGG、M4、P7和P3 培养基上菌落数分别为4.3、3.1、1.2、7.3 和 $7 . 2 ~ \\ : ( \\times 1 0 ^ { 5 } \\ : \\mathrm { c f u } \\cdot \\mathrm { m L } ^ { - 1 } )$ 。P3和P7培养基分离效果相近，获得的细菌均隶于17属，其菌种数和多样性均较高；而AGG 培养基获得的细菌均隶于5属，故其获得较少的细菌数和多样性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Sphingomonas Roseomonas 45 Rhodococcus Rhizobium Providencia Oricola 40 Nocardioides Mycolicibacterium Plantactinospora Micromonospora 35 Marinobacterium Kocuria qun Hartmannibacter Demequina Erythrobacter Brevibacillus 再米 Azotobacter Acuticoccus Vibrio Streptomyces Stenotrophomonas Staphyl oc occus Stakelama Sphingomonas Salinicola Pseudomonas 10 Paenibacillus Novosphing obium Mycobacterium ■Micrococcus 5 Microbacterium Labrenzia 0 Gordonia Curtobacterium M10 M5 AGG M4 P7 P3 Brevibacterium Brachybacterium 培养基名称 Mycolicibacterium Bacillus Culture media Aurantimonas Altererythrobacter ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3内生及根际细菌的属级水平上的韦恩图分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在属级水平上对桐花树各组织和其根际来源细菌进行venn分析，结果显示，从桐花树各组织和根际中获得细菌种类存在较大的差异，桐花树内生细菌和根际细菌共有10个相同的菌属，分别为 Novosphingobium sp.，Sphingomonas sp.，Gordonia sp.，Micrococcus sp.,Streptomyces sp.， Pseudomonas sp.， Mycolicibacterium sp.， Mycobacterium sp.， Bacilus sp.和 Microbacterium sp.。对桐花树各组织与根际来源的细菌分别进行 venn 分析，仅有一个共同的芽孢杆菌属（图4：A)；根部分离的细菌与根际细菌有8个共同菌属（图4：B)，其他各组织分离的细菌与根际细菌的种属相差较大。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/76a94e44457cd442bf5f1d2065c8e7e1c827f5961496e3fe40be9e84e09eb9f4.jpg",
+        "img_caption": [
+            "图4桐花树组织中内生及根际来源细菌属级群类分布韦恩图 Fig. 4 Venn of genera in endophytic and rhizospheric bacteria isolated from Aegiceras corniculatum "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4细菌抗血栓活性初筛 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "将初筛的羊血平板放置 $2 8 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 培养 $2 4 \\mathrm { h }$ 后，观察细菌生长和晕圈情况。结果显示，筛选74 种细菌的抗血栓活性，有18 种细菌显示出良好的抗血栓活性，总阳性为 $2 4 . 3 2 \\%$ ；分别隶属于 Bacillus sp.， Curtobacterium sp.， Demequina sp.， Kineococcus sp.， Pseudomonas sp.和 Sphingomonas sp.。图5显示，B2061、B2635 和B1820 显示无晕圈，即判定为无溶血活性；B1502、B1500 和B1850 显示出深色晕圈，B1989、B2634 和 B2632表现为透明圈，两者均判定为具有溶血活性。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/c832f4627fcff4a4a3212335e6acd87d72bd1453b42e92de8a21894b1a24ecf0.jpg",
+        "img_caption": [
+            "图5细菌抗血栓活性的初筛效果",
+            "Fig.5 Screening effect of antithrombotic activity of bacteria "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5细菌上清液对体外血栓的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "根据上述抗血栓活性初筛结果，对18株有活性菌株进行抗血栓活性复筛。结果显示，24h 后，B1850、B1989 和B2632的上清发酵液将凝血块全部溶解（图6)。其余细菌的上清液与血凝块均有明显分层，凝血块较空白对照组的均有变小，上层溶液呈现出红色故展示出微弱的溶血活性，ISP2 培养基和生理盐水空白组中凝血块均维持原样，下层为凝血块，固液分界线清晰。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/b157020e28c19d012b49f6c025aae650c1c665a01269a1c30c9d5069d8e28920.jpg",
+        "img_caption": [
+            "图63株细菌抗血栓活性的复筛",
+            "Fig.6 Screening result of antithrombotic activity of the three strains "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3讨论与结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "红树植物是生长在热带和亚热带潮间带河口地带的耐盐植物，分布在南纬 $3 0 ^ { \\circ }$ 与北纬 $3 0 ^ { \\circ }$ 之间。面对高度盐渍化、土壤缺氧、高光辐射、高矿物组成、强还原性和频繁的潮汐等生境特征，红树植物对生长所需营养和空间的竞争变得十分激烈，这一特殊生境丰富了红树林植物内生菌多样性，也必然能代谢出区别于其他生态系统的良好生物活性物质(周婧等，2019)。据报道，红树植物内生菌具有良好的抑菌、杀虫、细胞毒、胞外酶活、抗肿瘤、抗病毒和抗氧化等生物活性（刘伟等，2012；李菲等，2016；魏华等，2012）。桐花树作为传统的中药，其树皮和树叶均有治疗哮喘、糖尿病和风湿等疾病功效，现代药理研究发现其具有明显的抗植物病原菌和细胞毒活性等作用（徐佳佳等，2006），故研究桐花树内生菌的多样性和生物活性获得不少研究工作者的青睐。为了完善桐花树中内生细菌分布情况、物种多样性及其生物活性等信息，本研究选择广西北海滩涂上红树植物桐花树各组织和根际进行细菌多样性分析。采用6种分离培养基，对桐花树组织中获得的内生细菌进行定量分析，共获得34种细菌，隶属18科22属；从根际中分离可培养细菌44种，隶属于20科27属。从桐花树各组织中获得内生细菌在种类和数量均有明显差异，其中，根部和皮部中分离的细菌种类和数量最多，花和叶中分离到的细菌均较少；而根部来源的内生细菌与根际细菌存在较多相同属。研究发现，根际微生物的分布与沿根的可溶性碳的分布距离有关，其生物量的积累有赖于根系分泌物的释放，从而影响着根际微生物的代谢和生长发育（朱丽霞，2003)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "采用无菌脱纤维羊血，通过体外溶栓实验筛选出具有抗血栓活性菌株。结果显示，初筛得到18种具有抗血栓活性的菌株，总阳性为 $2 4 . 3 2 \\%$ ；通过抗血栓活性复筛，从中获得3株具有良好抗血栓活性菌株。该3株强抗血栓活性菌株B1850、B1989和B2632分别隶属于Microbacterium sp.、Stenotrophomonas sp.和 Bacillus sp.。据报道，目前已从芽孢杆菌属、链霉菌属、链球菌属、单胞菌属及葡萄球菌属等细菌中分离出抗血栓活性物质（张艳，2000;Lack，1948)，但对海洋来源的微生物在抗血栓活性研究领域上的报道寥寥可数，本文开展海洋来源细菌中抗血栓活性研究，发现两个未见报道的具有良好抗血栓活性菌株Microbacterium sp.B1850 和 Stenotrophomonas sp.B1989,这丰富了海洋微生物在抗血栓活性研究上的认识，也为寻找新的纤溶酶和研发抗血栓活性药物等下游工作奠定了基础。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "HUANG S,PAN S, CHEN G, et al., 2013. Biochemical characteristics of a fibrinolytic enzyme purified from a marine bacterium, Bacillus subtilis HQS-3[J]. Int JBiol Macromol, 62:124-130. HE BY,LAI TH, CHEN JF, et al.，2OO7. Studies of the tolerance of Avicennia marina and ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Aegiceras corniculatum to seawater immersion in Guangxi， China[J]. Acta Ecol Sin, 27(3):1130-1138.[何斌源，赖廷和，陈剑锋，等，2007．两种红树植物白骨壤(Avicennia marina)和桐花树(Aegiceras corniculatum)的耐淹性[J].生态学报,27(3):1130-1138.]   \nJAREMO P, ERIKSSON M, LINDAHLl TL, et al., 2O13.Platelets and acute cerebral infarction[J]. Platelets, 24(5):407.   \nKim KH,Roh SW, Chang HW, et al., 2Oo9. Nocardioides basaltis sp. nov.,isolated from Black Beach Sand[J]. IntJ Syst Evol Micr, 59:42-47.   \nLACK CH, 1948.Staphylokinase; an activator of plasma protease[J]. Nature,161(4093):559.   \nLAKSHMI BP，PRAKASHAM RS，2013．A fibrinolytic， alkalineand thermostable metalloprotease from the newly isolated Serratia sp RSPB1l[J]. Int J Biol Macromol, 61:479-486.   \nLI F,GAO CH,YU L，et al.， 2018. Diversity and antifungal activity of endophytic and rhizospheric bacteria isolated from Ruppia maritima[J]. Guihaia, 38(7):924-933.[李菲,高程海, 余炼,等，2018.川蔓藻内生及根际细菌多样性与抑菌活性研究[J]).广西植物, 38(7):924-933.]   \nLI F, GAO CH, ZHU LB,et al., 2O16. Diversity and cytotoxic activity of endophytic bacteria isolated from Sonneratia apetala of Maowei Sea[J]. J Microbiol Sin, 56(4):689-697.[李菲，高 程海，竺利波,等，2016.茅尾海无瓣海桑内生细菌多样性及其细胞毒活性[J]．微生物学报, 56(4):689-697.]   \nLI F, TUO L, SU ZW, et al., 2017.Nocardioides sonneratiae sp. nov., an endophytic actinomycete isolated from branch of Sonneratia apetala[J]. Int J Syst Evol Micr, 67: 2592-2597.   \nLI ZQ，HU JC, PAN HQ,et al.， 2O09. Screening and identification of fibrinolytic enzyme producing marine bacterium B5815[J].JMicrobiol,29(6):41-44.[李占强，胡江春，潘华奇, 等,2009．产纤溶酶海洋微生物B5815 菌株的筛选及鉴定[J]．微生物杂志,29(6):41-44.]   \nLIU CG, WEI X, LIU WS, 2001. Study on characteristics of fibrilytic enzyme from marine Pseudomonas[J].JOcean Univ Qingdao,31(5): 730-734.[刘晨光，魏香，刘万顺,2001.海洋 假单胞菌纤溶酶的酶学性质的研究[J]．青岛海洋大学学报,31(5):730-734.]   \nLIU W,NI H,HUANG GL,et al.， 2012. Screening of endophytic fungi with antibacterial, antioxidant and antitumor activities from Mangrove plants[J]. Acta Laser Biol Sin, 21(6):569-574.[刘伟，倪辉，黄高凌，等,2012．从红树植物中筛选具有抗菌、抗氧化和抗肿 瘤活性的内生真菌[J]．激光生物学报,21(6):569-574.]   \nMIU SY, CHEN GZ,LI HS, 20O7. Wetland Systems of Mangrove Plants Aegiceras corniculatum and Avicennia marina[M]. Guangzhou: Sun Yat-sen University Press.[缪绅裕，陈桂珠,李海 生,2007．红树林植物桐花树和白骨壤及其湿地系统[M]．广州市：中山大学出版社.]   \nWalsh PS, Metzger DA, Higuchi R,1991. Chelex 100 as a Medium for Simple Extraction of DNA for PCR-based Typing from Forensic Material[J]. Biotechniques,10(4):506-513.   \nQIAO DS，HUO JL，YANG TY，et al.，2009.Advances in the studies of biochemical antithrombotics[J].Pharmaccutical Biotechnol,16(5):477-480.[乔德水，霍建丽，杨天雨，等, 2009.抗血栓生化药物的研究进展[J]．药物生物技术,16(5):477-480.]   \nSUN Y, JIANG J, ZHANG Z, et al.， 2008. Antioxidative and thrombolytic TMP nitrone for treatment of ischemic stroke[J]. Bioorg Med Chem, 16(19):8868-8874.   \nWANG YH,YANG XT, YANG MJ,et al.，2010. Diversity and application of microbial fibrinolytic enzymes[J].Prog Mod Bio,10(8):1562-1565.[翁郁华，杨晓彤，杨明俊，等,2010. 微生物纤溶酶的多样性及应用前景[J]．现代生物医学进展,10(8):1562-1565.]   \nWEI H,LIU M, BAO SX, et al., 2O12. Screening and characterization of anti-root-knot nematode actinomycetesstrain from mud under mangrove (Rhizophora) forest[J]. J Microbiol, 32(4):13-16.[魏华，刘敏，鲍时翔，等,2012.1株抗根结线虫红树林放线菌的筛选与鉴定[J]. 微生物学杂志,32(4):13-16.]   \nWEN CY, WU YH, TIAN XL,2O04. Recent advances and issues on the endophyte[J]. Chin JEcol, 23(2):86-91.[文才艺，吴元华，田秀玲，2004．植物内生菌研究进展及其存在的问题[J]．生 态学杂志,23(2):86-91.]   \nXIN H, XUE SS, JIANG LM, et al., 2018. Screening of marine microbial antithrombotic strains from Naozhou island in South China Sea and its effect on blood coagulation characteristics[J]. J Bengbu Med Coll,43(7):850-853.[辛宏，薛珊珊，江黎明，等,2018．中国南海洲岛海洋 微生物抗血栓菌株的筛选及其对血液凝固特性的影响[J]．蚌埠医学院学报, 43(7):850-853.]   \nXU JJ,LONG SJ,2O06.Research overview of chemical constituents and biological activity of the Aegiceras corniculatum[J].Lishizhen Med Mater Med Res,17(12):2393-2395.[徐佳佳，龙盛 京，2006.桐花树化学成分及其生物活性作用的研究进展[J]．时珍国医国药, 17(12):2393-2395.]   \nZHANG Y,LI WP, MING L,et al., 200O. Effects of r-Sak on thrombolysis in rabbits and rats[J]. Chine Pharm Bull,16(2):187-189.[张艳，李卫平，明亮，等，2000．重组葡激酶溶栓作用的 研究[J].中国药理学通报,(2):187-189.]   \nZHOU J, YANG Q, LI G, et al.， 2019.Advances in endophytic fungi diversity and secondary metabolites in Rhizophora plants[J].Sci Silv Sin,55(O1):92-105.[周婧，杨琦,李钢，等,2019. 红树属植物内生真菌多样性及其代谢产物研究进展[J]．林业科学,55(01):92-105.]   \nZHOU SQ,HUANG XL,HUANG DY, et al, 2010. A rapid method for extracting dna from actinomycetes by Chelex-100[J].Biotechnol Bull,26(2):123-125.[周双清，黄小龙，黄东益, 等，2010.Chelex-1O0 快速提取放线菌 DNA 作为 PCR 扩增模板[J]．生物技术通报, 26(2):123-125.]   \nZHU LX, ZHANG JE, LIU WG, 2O03.Review of studies on interactions between root exudates and rhizopheric microorganisms[J].Ecol Environ,12(1):102-105.[朱丽霞，章家恩，刘文高, 2003.根系分泌物与根际微生物相互作用研究综述[J]．生态环境,12(1):102-105.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

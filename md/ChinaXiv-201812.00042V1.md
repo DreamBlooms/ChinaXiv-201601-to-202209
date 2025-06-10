@@ -1,0 +1,156 @@
+# 桂林岩溶石山機木群落老龄林植物叶性状
+
+莫燕华1,2，马姜明1,2,3\*，苏静1,2，秦佳双1,²，潘小梅1,²，菅瑞1,2（1.珍稀濒危动植物生态与环境保护教育部重点实验室，广西 桂林 541006；2.广西师范大学生命科学学院，广西 桂林 541006；3．广西珍稀濒危动物生态学重点实验室，广西 桂林 541006)
+
+摘要：选取桂林岩溶石山木群落老龄林25种主要植物为研究对象，通过测定其叶干质量(DW)、叶干物质含量(LDMC)、叶面积(LA)、叶厚度(LT)、比叶面积(SLA)和叶组织密度(LTD)等叶性状指标，探讨不同物种叶性状的差异以及性状之间的内在联系，以此探究繼木群落老龄林植物适应岩溶石山生境的机制。结果表明，DW，LDMC，LA，LT，SLA和LTD在乔木层8种植物之间以及灌木层17种植物之间分别均呈极显著差异 $( P < 0 . 0 1 )$ 。乔木层植物叶片具有相对较大的DW，LDMC和LT，灌木层植物叶片具有相对较大的SLA,乔木层和灌木层植物叶片LA和LTD差异不显著。Pearson相关性分析表明，乔木层与灌木层植物叶性状相关性除LTD与LDMC和LA，SLA与LA不一致外，其他性状两两之间相关性均表现为一致性。主成分分析表明，在6个叶性状指标中，DW，LDMC和LTD可以作为反映岩溶石山木群落老龄林乔木层植物适应生境的重要叶性状指标，主要表征植物抵御外界干扰及不利环境的能力和对生长环境干湿程度适应的能力，具有“缓慢投资-收益”叶经济谱的特点。SLA和LTD可以作为反映岩溶石山木群落老龄林灌木层植物适应生境的重要叶性状指标，主要表征植物获取资源的能力，具有“快速投资-收益”叶经济谱的特点。
+
+关键词：叶性状，木群落，老龄林，桂林岩溶石山中图分类号：Q948 文献标识码：A 文献编号：
+
+# Leaf traits in old-growth forest plants of Loropetalum chinense
+
+# communities in karst hills of Guilin, China
+
+MOYanhua12,AJiangming1,2,3\*,SUJing12,QIJiashuang12,PNXiaomei12,JARu2 (1. Key Laboratory of Ecology of Rare and Endangered Species and Environmental Protection,Ministry of Education, Guilin 5410o6,Guangxi, China; 2. CollegeofLife Sciences,Guangxi Normal University, Guilin 541006,Guangxi,China; 3.Key Laboratory of Ecology of Rare and Endangered Animal Ecology of Guangxi (Guangxi Normal University), Guilin 541006, Guangxi, China)
+
+Abstract: The leaf traits including leaf dry weight (DW),leaf dry matter content (LDMC),leaf area (LA), leaf thickness (LT),specific leaf area (SLA)and leaf tissue density (LTD)of the 25 dominant plants in karst hills of Guilin, China, were measured to examine the trait differences among species and their intrinsic relationships,and to discuss the mechanisms of plants adapting to the karst hils at the old-growth forest stage of Loropetalum chinense communities.The results show that the DW, LDMC,LA,LT, SLA and LTD were significantly different among 8 species of plants in tree layer and among 17 species in shrub layer $( P < 0 . 0 1 )$ . The plant species in treelayer had higher DW,LDMC and LT but lower SLA than those in the shrub layer.There was no significant difference in LA and LTD between tree layer and shrub layer species. Pearson corelation analysis shows that the correlations among leaf traits were consistent both in tree layer and in shrub layer except for the relationships of LA with LTD,LDMC and SLA. The principal component analysis shows that among the six leaf traits,DW,
+
+LDMC,and LTD might be used as important leaf traits to reflect the adaptations of plants in the tree layer at old-growth forest stage of Loropetalum chinense communities in karst hills, which mainly represented the ability of plants to resist external disturbances and unfavorable environments and adapt to dry and wet environments.It has the characteristics of "slow investment-income"leaf economic spectrum. SLA and LTD might be used as important leaf traits to reflectthe adaptations of plants inthe shrub layer atold-growth forest stageofLoropetalum chinense communities in karst hills,which mainly showed the ability of plants to acquire resources and had the characteristics of "fast investment-income" leaf economic spectrum.
+
+Key words: leaf traits,Loropetalum chinense communities,old-growth forest stage,karst hils of Guilin
+
+植物功能性状是指对植物体定植、存活、生长和死亡存在潜在显著影响的一系列植物属性(Diaz et al,1999)，这些属性能够单独或联合指示生态系统对环境变化的响应，并且能够对生态系统过程产生强烈影响(Weiher et al,1999;Cormelissen et al,2003)，是物种长期进化过程中适应不同环境的结果，能够客观表达植物对外部环境的适应性(肖卫平和喻理飞，2012)。植物功能性状还被看作是与获取、利用和保存资源的能力有关的属性，如植物高度、叶片大小、叶片厚度、耐阴性、叶片光合速率等（胡耀升等，2014）。近年来，有关植物功能性状的研究大多集中在叶片性状（周欣等，2016）。叶性状为植物功能性状的重要组成部分，与植株生物量和植物对资源的获得、利用及利用效率的关系最为密切，能够反映植物适应外部环境变化所形成的生存策略（李玉霖等，2005），并且叶性状具有测量方便、可操作性强、对植物碳收获的重要性及各叶性状之间的关系在各种植物种群和群落中具有相似表征，使其倍受生态学家的关注。叶性状一直是生态学家研究的热点之一。近年来，国内外关于叶性状的研究主要集中在不同立地条件下叶性状与环境因子的关系（杨锐等，2015；周欣等，2015；蒋成益等，2017；盘远方等，2017），叶性状间相互关系与权衡策略（Ma et al,201l；Funk&Cormwell,2013；于鸿莹等，2014），不同尺度的变异格局及关联等方面（Sänchez-Gómeza et al,2013；Wang et al,2016；钟巧连等，2018）。
+
+广西为我国具有典型的岩溶地貌代表之一，岩溶区面积约9.87万 $\mathrm { k m } ^ { 2 }$ ，占广西国土面积的 $4 1 . 5 7 \%$ ，桂林、阳朔一带为典型的中年期岩溶地貌，岩溶区地貌主要为由碳酸盐岩溶蚀为主形成的峰丛洼(谷)地和峰林平原，具有我国南方典型岩溶发育的特征（韦秀文等，2016）。桂林岩溶区石漠化问题非常突出，表现为山高坡陡，岩石裸露率高，成土条件差，土地瘠薄，土被不连续，成土速率十分缓慢，可利用水分少等恶劣的生境条件（向凯旋等，2017）。由于石山环境条件差，而导致植被生长缓慢，生物量产量减少，森林覆盖率急剧下降，生态系统的稳定性差、敏感性强，受干扰后系统的自我调节能力和抵制自然灾害的能力随之降低，生态系统结构日益简单、脆弱，一旦岩溶地区生境遭到破坏则难以恢复。因此，植被生态恢复成为岩溶区石漠化治理和生态重建的首要任务（李先琨等，2008）。木群落为桂林岩溶石山地区广泛分布的一种典型的天然次生林类型，随着自然演替的进行，目前已形成了檐木群落的灌木阶段、乔灌阶段、小乔林阶段、老龄林阶段（马姜明等，2013）。当前，对檐木群落自然演替的生态学研究主要集中在物种组成（马姜明等，2013）、生态位（马姜明等，2012a）、调落物分解（覃扬洽等，2017）、生物量（张雅君等，2018）等方面，而叶性状研究较少报道。本研究以檐木群落老龄林为对象，通过对不同物种叶性状的差异及其性状之间相互关系的研究，探讨檐木群落老龄林植物对岩溶石山生境的适应策略，以期为桂林岩溶石山植被恢复与重建过程中的物种选择提供参考。
+
+# 1研究地区与方法
+
+# 1.1研究地概况
+
+研究地区位于广西壮族自治区桂林市阳朔县兴坪码头景区（ $1 1 0 ^ { \circ } 3 1 ^ { \prime } \mathrm { E }$ ， $2 4 ^ { \circ } 5 5 ^ { \prime } \mathrm { N }$ ），地处广西东北部。属中亚热带湿润季风气候，气候温和，雨量充沛，海拔 $1 0 0 { \sim } 5 0 0 \mathrm { ~ m }$ 。年平均气温 $1 8 . 9 \mathrm { ~ \ ^ ~ { ~ } C ~ }$ ，最冷的1月份平均气温 $7 . 8 \mathrm { ~ \textdegree C }$ ，最热的7月份平均气温 $2 8 \mathrm { ~ \textdegree C }$ ；全年无霜期 $3 0 0 \mathrm { d }$ ；年平均降雨量 $1 9 4 9 . 5 \mathrm { m m }$ ，降雨量年分配不均，秋、冬季干燥少雨；年平均蒸发量 $1 4 9 0 { \sim } 1 9 0 5 \mathrm { m m }$ 。本研究以木群落老龄林为研究对象，选取重要值大于1的物种，灌木层17个物种为粗糠柴（Malotus philippensis）、桂花（Osmanthus fragrans）、
+
+（龙须藤 Bauhinia championii）、（小芸木 Micromelum integerrimum）、斜叶榕（Ficus tinctoria）、灰毛崖豆藤（Millttia cinerea）、楠藤（Mussaenda erosa）、阴香（Cinnamomum burmanni）、紫凌木（Decaspermumesquirolii）、络石（Trachelospermum jasminoides）、岩樟（Cinnamomum saxatile）、亮叶素馨（Jasminumseguini）、山合欢（Albizia kalkora）、硃砂根（Ardisia crenata）、三叶木通（Akebia trifoliata）、木（Loropetalumchinense）和鱼骨木（Canthium dicoccum），乔木层8个物种为粗糠柴、桂花、木、阴香、光皮木（Swidawilsoniana）、枫香（Liquidambar formosana）、南酸枣（Choerospondias axillaris）和鱼骨木。
+
+# 1.2研究方法
+
+每个物种选取3株健康成熟的不同植株，每一植株采集10 片成熟完好的叶片。去掉叶柄，置于两片湿润的滤纸之间，放入塑料袋内后封口，带回实验室用水湿润，在 $5 \ \mathrm { { ^ \circ C } }$ 的黑暗环境中储藏 $1 2 \mathrm { h }$ ，取出后迅速用吸水纸吸干叶片表面的水分，在 $1 / 1 0 0 0 0 \mathrm { g }$ 的电子天平上称重，得到叶饱和鲜重（FW，g）。用数字式游标卡尺测定叶厚度（LT，mm）。叶面积（LA， $\mathrm { c m } ^ { 2 }$ ）采用叶面积仪测定。叶片样品置于 $7 0 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 的烘箱烘干 $7 2 \mathrm { { h } }$ ，后称重测定叶片干重（DW， $\mathrm { \bf { g } }$ ）。比叶面积（SLA， $\mathrm { c m } \cdot \mathrm { g } ^ { - 1 } .$ ）的计算为叶面积与叶片干重的比值。叶片干物质含量（LDMC， $\mathrm { g } \bullet \mathrm { g } ^ { - 1 } \mathrm { : }$ ）为叶片样品的干重与叶片饱和鲜重的比值。叶组织密度（LTD,$\mathbf { k g } \cdot \mathbf { m } ^ { - 3 } )$ ，为叶片样品的干重与叶面积和叶厚度的比值。
+
+# 1.3数据分析
+
+采用 SPSS 22.0 软件处理叶片性状数量特征、Pearson 相关分析和主成分分析，采用 Sigmaplot 12.5软件作图。
+
+# 2结果与分析
+
+# 2.1乔木层与灌木层叶片性状
+
+由图1可知，方差分析表明DW，LDMC，LA，LT，SLA和LTD在乔木层8种植物之间以及灌木层17种植物之间分别均呈极显著差异（ $( P { < } 0 . 0 1 )$ 。乔木层8种植物和灌木层17种植物叶片DW含量（图1：A）分别在 $0 . 0 5 6 { \sim } 0 . 4 4 2 \ \mathrm { g }$ 和 $0 . 0 2 3 { \sim } 0 . 4 2 4 \ \mathrm { g }$ ，均值分别为 $0 . 1 9 3 { \mathrm { g } }$ 和 $\boldsymbol { 0 . 1 6 1 \mathrm { g } }$ ，其中DW 最大值者均为桂花,DW 最小值者分别为鱼骨木和山合欢。乔木层8种植物和灌木层17种植物叶片LDMC 含量（图1：B）分别在 $0 . 2 4 4 { \sim } 0 . 4 3 1 \ \mathrm { g } \bullet \mathrm { g } ^ { - 1 }$ 和 $0 . 1 3 8 { \sim } 0 . 3 9 6 \ \mathbf { g } \cdot \mathbf { g } ^ { - 1 }$ ，均值分别为 $0 . 3 2 3 \mathrm { ~ g \cdot g ^ { - 1 } }$ 和 $0 . 2 7 1 \ \mathrm { g \cdot g ^ { - 1 } }$ ，其中LDMC 最大值者均为桂花，LDMC最小值者分别为南酸枣和山合欢。乔木层8种植物和灌木层17种植物叶片LA含量（图1：C）分别在 $7 . 8 2 5 { \sim } 5 3 . 4 4 3 \mathrm { c m } ^ { 2 }$ 和 $9 . 5 4 0 { \sim } 5 7 . 2 6 2 \mathrm { c m } ^ { 2 }$ ，均值分别为 $2 8 . 3 7 4 \mathrm { c m } ^ { 2 }$ 和 $2 6 . 8 5 0 \mathrm { c m } ^ { 2 }$ ，其中LA最大值者分别为粗糠柴和龙须藤，LA最小值者均为鱼骨木。乔木层8种植物和灌木层17种植物叶片LT含量（图1：D）分别在 $0 . 1 3 9 { \sim } 0 . 3 3 3 \ \mathrm { m m }$ 和 $0 . 1 0 9 { \sim } 0 . 3 5 8 ~ \mathrm { m m }$ ，均值分别为 $0 . 2 3 2 \mathrm { m m }$ 和 $0 . 2 0 9 \mathrm { m m }$ ，其中LT最大值者分别为枫香和桂花，LT最小值者分别为南酸枣和山合欢。乔木层8种植物和灌木层17种植物叶片 SLA含量（图1：E）分别在 $9 1 . 8 3 3 { \sim } 2 6 1 . 4 8 1 \ \mathrm { c m } \cdot \mathrm { g } ^ { - 1 }$ 和 $9 9 . 1 6 0 { \sim } 4 9 8 . 8 8 4 \ \mathrm { c m } \cdot \mathrm { g } ^ { - 1 }$ ，均值分别为 $1 6 5 . 0 5 0 \mathrm { c m }$ ： $\mathrm { g } ^ { - 1 }$ 和 $1 9 9 . 1 0 7 \ \mathrm { c m \cdot g ^ { - 1 } }$ ，其中 SLA 最大值者分别为光皮梓木和山合欢，SLA最小值者为桂花。乔木层8种植物和灌木层17种植物叶片LTD含量（图1：F）分别在 $1 8 5 . 9 6 8 { \sim } 5 0 4 . 6 0 4 \mathrm { k g } \cdot \mathrm { m } ^ { - 3 }$ 和 $1 8 4 . 6 6 8 { \sim } 4 8 6 . 3 5 7 \mathrm { k g } \cdot$ （204号$\mathrm { m } ^ { - 3 }$ ，均值分别为 $3 1 1 . 3 8 2 \mathrm { k g } \cdot \mathrm { m } ^ { - 3 }$ 和 $2 9 7 . 3 9 5 \mathrm { k g } \cdot \mathrm { m } ^ { - 3 }$ ，其中LTD 最大值者分别为阴香和岩樟，LTD 最小值者分别为光皮梓木和络石。
+
+t检验表明（表1），乔木层植物DW，LDMC 和LT极显著大于灌木层植物，乔木层植物 SLA极显著小于灌木层，乔木层植物LA 和LTD与灌木层之间差异不显著。共有种粗糠柴DW，LDMC，LA 和LT，桂花LDMC 和LTD，阴香DW 和LTD，木DW，LA和LT，鱼骨木 LDMC 和LTD在乔木层均极显著大于灌木层。共有种粗糠柴 SLA和LTD，桂花LT和 SLA，阴香LDMC，LT和SLA，鱼骨木LA和 SLA在乔木层均极显著小于灌木层。共有种桂花DW 和LA，阴香LA，木LDMC，SLA和LTD，鱼骨木DW和LT 在乔木层和灌木层之间均差异不显著。
+
+![](images/a53d8bb402a831f4ce8a5bf43d5206811644aa997f52a91e3dfba48eb3e98ee4.jpg)  
+物种 Species
+
+注：乔木层1.粗糠柴，2.光皮木，3.桂花，4.木，5.阴香，6.鱼骨木，7.枫香，8.南酸枣；灌木层9.粗糠柴，  
+10.桂花，11.龙须藤，12.小芸木，13.斜叶榕，14.灰毛崖豆藤，15.楠藤，16.阴香，17.紫凌木，18.络石，19.岩樟，  
+20.亮叶素馨，21.山合欢，22.硃砂根，23.三叶木通，24.檻木，25.鱼骨木。不同大写字母表示乔木层植物差异显著，不同小写字母表示灌木层植物差异显著（ $P { < } 0 . 0 5$ ）（平均值±标准偏差）。Note: Treelayer 1. Malltus philippensis,2. Swida wilsoniana,3.Osmanthus fragrans,4.Loropetalum chinense,5.Cinnamomum burmanni,6.Canthium dicoccum,7.Liquidambar formosana,8.Choerospondias axilaris；Shrub layer9.Mallotuspilpsismtfr,aii,.oeeri.is4Miletiainado,sode  
+19.Cinnamoail,.Jmnguni,.zara,disieat,.eiatrifota,
+
+chinense,25.CantiudcocumDierntcapitalsaresiicatlydiferentoftreelayerpantsdierentcapitalsaresignificantly different of shrub layer plants $( P < 0 . 0 5 ) \ ( \ \stackrel { - } { x } \pm s )$ ：
+
+图1乔木层与灌木层不同物种叶性状的Duncan 多重比较 Fig.1 Post hoc Duncan test leaf on traits of different species in tree layer and shrub layer   
+表1乔木层与灌木层及其共有种叶片性状t检验  
+
+<html><body><table><tr><td colspan="2">项目Item</td><td>叶干重 DW(g)</td><td>叶干物质含量 LDMC(g· g-1)</td><td>叶面积 LA(cm2)</td><td>叶厚度 LT(mm)</td><td>比叶面积 SLA (cm²·g)</td><td>叶组织密度 LTD (kg·m3)</td></tr><tr><td colspan="2">乔木层与灌木层 Tree layer and shrub layer（n=750）</td><td>3.544**</td><td>9.084**</td><td>1.361</td><td>3.776**</td><td>-6.490**</td><td>1.507</td></tr><tr><td rowspan="6">乔木层与灌木 层共有种 The common species of tree layer and shrub layer （n=60）</td><td>粗糠柴 Mallotus philippensis</td><td>6.315**</td><td>14.983**</td><td>3.698**</td><td>9.406**</td><td>-7.833**</td><td>-6.758**</td></tr><tr><td>桂花 Osmanthus fragrans</td><td>1.097</td><td>5.229**</td><td>-1.147</td><td>-2.848**</td><td>-3.413**</td><td>4.526**</td></tr><tr><td>阴香 Cinnamomumburmanni</td><td>3.817**</td><td>-3.576**</td><td>1.926</td><td>-3.520**</td><td>-3.438**</td><td>5.655**</td></tr><tr><td>檐木 Loropetalum chinense</td><td>12.597**</td><td>1.529</td><td>17.180**</td><td>3.320**</td><td>-1.057</td><td>-1.761</td></tr><tr><td>鱼骨木 Canthium dicoccum</td><td>-0.102</td><td>2.719**</td><td>-6.148**</td><td>-0.926</td><td>-4.666**</td><td>4.649**</td></tr></table></body></html>
+
+注：\*\*表示 $P { < } 0 . 0 1$ 。 Note: \*\* means $P { < } 0 . 0 1$
+
+# 2.2乔木层与灌木层叶性状之间关系
+
+对乔木层8种植物与灌木层17种植物6个叶性状分别进行Pearson 相关性分析表明（表2），乔木层和灌木层植物DW与LDMC，LA，LT和LTD之间分别均呈极显著正相关关系，与SLA则相反；乔木层和灌木层植物LDMC与LA 和LT之间分别均呈极显著正相关,与 SLA 则相反,乔木层植物LDMC 与LTD之间呈不显著的正相关，灌木层植物 LDMC 与LTD之间呈极显著的正相关；乔木层和灌木层植物LA与LT 分别均呈极显著的正相关，乔木层植物LA与LTD之间呈显著的负相关，在灌木层则相反；乔木层和灌木层植物LT与 SLA和LTD之间分别均呈极显著的负相关;乔木层和灌木层植物 SLA与LTD之间分别均呈极显著的负相关。
+
+Table 1T test for leaf traits between tree layer and shrub layer and their common specie:   
+表2乔木层①与灌木层叶性状之间的Pearson 相关系数 Pearson correlations coefficients of leaf traits in tree layer and in shrut   
+
+<html><body><table><tr><td></td><td>叶干重DW</td><td>叶干物质含量LDMC</td><td>叶面积LA</td><td>叶厚度LT</td><td>比叶面积 SLA</td></tr><tr><td>叶干物质含量 LDMC</td><td>0.809**①; 0.591**②</td><td></td><td></td><td></td><td></td></tr><tr><td>叶面积LA</td><td>0.761**; 0.851**</td><td>0.560**; 0.330**</td><td></td><td></td><td></td></tr><tr><td>叶厚度LT</td><td>0.413**; 0.447**</td><td>0.502**; 0.293**</td><td>0.299**;0.163**</td><td></td><td></td></tr><tr><td>比叶面积 SLA</td><td>-0.557**; -0.491**</td><td>-0.616**;-0.706**</td><td>-0.009;-0.221**</td><td>-0.205**；-0.552**</td><td></td></tr><tr><td>叶组织密度LTD</td><td>0.209**;0.152**</td><td>0.120;0.416**</td><td>-0.144*; 0.104*</td><td>-0.593**;-0.519**</td><td>-0.604**;-0.304**</td></tr></table></body></html>
+
+注：\*表示 $P { < } 0 . 0 5$ ， $^ { * * }$ 表示 $P { < } 0 . 0 1$ ， $n ^ { \textcircled { 1 } } { = } 2 4 0$ ， $n ^ { \textcircled { 2 } } { = } 5 1 0$ 。 Note:\* means $P { < } 0 . 0 5$ $\ast \ast$ means $P { < } 0 . 0 1$ $n ^ { \textcircled { 1 } } { = } 2 4 0$ $n ^ { \scriptscriptstyle ( 2 ) } = 5 1 0$
+
+# 2.3乔木层与灌木层叶性状主成分分析
+
+对于乔木层8个物种叶性状进行主成分分析（表3），第一和第二主成分对总方差的贡献率分别为
+
+$5 1 . 9 4 \%$ 和 $3 0 . 5 8 \%$ ，两者累积贡献率达 $8 2 . 5 2 \%$ 。对第一主成分而言， $x _ { 1 }$ 和 $x _ { 2 }$ 的系数最大，主要反映植物抵御外界干扰及不利环境的能力的综合因子。对第二主成分而言， $x _ { 6 }$ 的系数绝对值最大，主要反映植物生长环境干湿程度适应能力的综合因子。对灌木层17个物种叶性状进行主成分分析（表3），第一和第二主成分对总方差的贡献率分别为 $5 2 . 3 5 \ \%$ 和 $23 . 5 5 \ \%$ ，两者累积贡献率达 $7 5 . 9 0 \ \%$ 。对第一主成分而言， $x _ { 3 }$ ， $x _ { 4 }$ （204号和 $x _ { 6 }$ 的系数相对较小，对第一主成分所起的作用相对较小， $x _ { 1 }$ ， $x _ { 2 }$ 和 $x _ { 5 }$ 的系数相对较大，在第一主成分中所起的作用相当， $x _ { 5 }$ 的系数为负值，对第一主成分起到明显的减值作用， $x _ { 5 }$ 是反映植物体投入单位质量的干物质所获得的捕光面积。因此，第一主成分是在综合其他叶性状指标的基础上突出反映叶片植物获取资源能力的综合因子。对第二主成分而言， $x _ { 6 }$ 的系数最大，因此，第二主成分主要反映植物生长环境干湿程度的综合因子。
+
+乔木层8种植物叶片结构性状主成分的表达式为 $y _ { 1 } = 0 . 9 5 2 ~ x _ { 1 } + 0 . 9 5 5 ~ x _ { 2 } + 0 . 7 1 8 ~ x _ { 3 } + 0 . 6 3 4 ~ x _ { 4 } - 0 . 6 1 2 ~ x _ { 5 } + 0 . 0 6 4$ $x _ { 6 }$ ， $y _ { 2 } { = }  { - } 0 . 1 1 1 x _ { 1 } { + } 0 . 0 0 1$ $x _ { 2 } + 0 . 2 9 8 ~ x _ { 3 } + 0 . 5 7 0 ~ x _ { 4 } + 0 . 6 6 4 ~ x _ { 5 } - 0 . 9 8 4 ~ x _ { 6 } = 0 . 7 9 0$ ，得出各主成分的得分 $y _ { 1 }$ 和 $y _ { 2 }$ 。计算 $F$ 值，$F { = } ( 3 . 1 1 6 y _ { 1 } { + } 1 . 8 3 4 y _ { 2 } )$ / $( 3 . 1 1 6 \substack { + 1 . 8 3 4 } )$ ，从而得出乔木层8种植物对抗干扰和生长环境干湿程度适应能力的综合得分排名，排名先后顺序为桂花、粗糠柴、枫香、阴香、木、光皮俫木、南酸枣和鱼骨木。同理，可得出灌木层17种植物对资源获取能力和对干湿环境的适应性综合得分排名（ $F$ 值)，排名先后顺序为桂花、龙须藤、阴香、岩樟、粗糠柴、斜叶榕、灰毛崖豆藤、小芸木、硃砂根、紫凌木、檐木、亮叶素馨、三叶木通、鱼骨木、楠藤、络石和山合欢。
+
+表3乔木层①与灌木层叶性状主成分分析  
+Tabel 3Principal component analysis of leaf traits in tree layer and shrub layer   
+
+<html><body><table><tr><td rowspan="2">主成分 Component</td><td colspan="6">特征向量 Eigenvector</td><td rowspan="2">特征根 Eigenvalue</td><td rowspan="2">贡献率 Cumulative (%)</td></tr><tr><td>x1 (DW)</td><td>x2 (LDMC)</td><td>x (LA)</td><td>X4 (LT)</td><td> X5 (SLA)</td><td>X6 (LTD)</td></tr><tr><td rowspan="2">y1</td><td>0.952①</td><td>0.955</td><td>0.718</td><td>0.634</td><td>-0.612</td><td>0.064</td><td>3.116</td><td>51.94</td></tr><tr><td>0.895②</td><td>0.855</td><td>0.674</td><td>0.607</td><td>-0.816</td><td>0.346</td><td>3.141</td><td>52.35</td></tr><tr><td rowspan="2">y2</td><td>-0.111</td><td>-0.001</td><td>0.298</td><td>0.570</td><td>0.664</td><td>-0.984</td><td>1.834</td><td>30.58</td></tr><tr><td>-0.308②</td><td>0.152</td><td>0.138</td><td>-0.758</td><td>0.046</td><td>0.891</td><td>1.413</td><td>23.55</td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1乔木层与灌木层植物叶性状比较
+
+木群落老龄林乔木层植物DW，LDMC和LT显著大于灌木层，DW均值高于同一地区岩溶石山（马姜明等，2011）和土山生境常见灌木植物（马姜明等，2012b），而LDMC均值低于同一地区岩溶石山（马姜明等，2011）和土山生境常见灌木植物（马姜明等，2012b）。这表明岩溶石山生境木群落老龄林乔木层植物相比灌木层植物，木老龄林植物相对于同一地区石山和土山生境的常见灌木而言具有较强的抵御外界干扰和不利环境的能力。檐木群落老龄林正处于演替顶极阶段，此时群落内树木高大、树冠开阔、郁闭度高，基本形成了有利于植物生长的小气候，处于乔木层的植物受到直射光的影响，而林下灌木则处于荫蔽环境，导致上层乔木层植物叶片相比林下灌木层植物较厚。本研究中的LT均值低于同一地区岩溶石山（马姜明等，201）和土山生境常见灌木植物（马姜明等，2012b），这一定程度上也反映了繼木群落老龄林对同一地区的石山和土山灌木生境而言具有相对温和的水、热、光照等小气候。檐木群落老龄林植物LDMC和LT均值分别低于和高于黔中喀斯特木本植物（钟巧连等，2018），重庆中梁山石灰岩地区主要木本植物（刘宏伟等，2015）。
+
+木群落老龄林乔木层植物 SLA 显著小于灌木层，乔木层和灌木层植物 SLA均值均高于同一地区岩溶石山（马姜明等，2011）和土山生境常见灌木（马姜明等，2012b），这表明木群落老龄林的乔木层植物相对于灌木层植物具备更好地适应资源贫瘠的能力，而灌木层植物则在投入单位质量的干物质所获得的捕光面积较大，获取资源（如光照）的能力方面相对较强（李玉霖等，2005），同时也表明繼木群落老龄林植物比同一地区的岩溶石山和土山灌丛植物具有较高的生产力。木群落老龄林植物 SLA 高于黔中喀斯特木本植物（钟巧连等，2018）和重庆中梁山石灰岩地区主要木本植物（刘宏伟等，2015）。木群落老龄林乔木层植物LA和LTD与灌木层之间均差异不显著，乔木层和灌木层植物LA均值均高于同一地区岩溶石山（马姜明等，2011）和土山生境常见灌木（马姜明等，2012b），这表明繼木群落老龄林乔木层和灌木层水热环境的一致性，木群落老龄林对于同一地区的岩溶石山和土山灌丛而言其水热条件相对平衡。木群落老龄林植物LA和LTD均值分别高于和低于黔中喀斯特木本植物（钟巧连等，2018）。
+
+木群落老龄林共有种植物粗糠柴、桂花、阴香、檐木和鱼骨木6个叶性状中，除桂花DW 和LA，阴香LA，木LDMC，SLA和LTD，鱼骨木DW 和LT在乔木层和灌木层之间均差异不显著外，共有种植物其他叶性状在乔木层与灌木层之间表现出极显著差异。这表明檐木群落老龄林乔木层与灌木层共有种适应局部环境所采取的适应策略的一致性和变异性（即可通过改变个体水平上的功能性状），从而表现出共有种间功能趋同和趋异策略(Zhang et al,2010；尧婷婷等,2010；钟巧连等，2018)。
+
+# 3.2乔木层与灌木层叶性状之间的相关性
+
+在桂林岩溶石山生态环境恢复过程中，植物为了适应其生境的变化，会不断地调整资源的分配和调节生理过程，进而在形态上表现出特有的植物性状的变化（周欣等，2015）。本研究表明，乔木层与灌木层叶性状相关性除LTD与LDMC和LA，SLA与LA不一致外，其他性状两两之间相关性均表现为一致性。乔木层与灌木层的DW与LDMC，LA和LT之间均呈显著正相关，这与桂林土山生境常见植物（马姜明等，2012b）研究一致。乔木层与灌木层的SLA与LDMC，LT和LTD之间均呈显著负相关，这与科尔沁沙地 52种植物（赵红洋等，2010），桂林土山生境常见植物（马姜明等，2012b），桂林岩溶石山14 种优势种植物（马姜明等，2011）和川西北不同沙化程度草地植物（蒋成益等，2017）研究结果一致，说明随着 SLA减小，LDMC，LT和LTD 则与之增大，此时叶片内部水分向表面扩散的距离或阻力增大，以此降低植物体内水分散失，从而具有较厚的叶片和较密的叶组织。本研究中LDMC与LT之间呈显著正相关，与刘贵峰等（2017）对大青沟自然保护区主要森林保护群落优势种植物研究结果相似。本研究中LDMC与LA呈显著正相关，与钟巧连等（2018）对黔中喀斯特木本植物研究结果相似。LT与LA之间呈显著正相关，与LTD之间呈显著负相关，这与曾小平等（2006）对25种南亚热带植物和蒋成益等（2017）对川西北不同沙化程度草地植物研究结果一致。
+
+# 3.3乔木层与灌木层植物适应策略
+
+本研究中由主成分分析得出DW，LDMC 和LTD 可以作为反映岩溶石山木群落老龄林乔木层植物适应生境的重要叶性状指标，这表明乔木层植物在抗干扰和对生长环境干湿程度适应的能力较强，乔木层植物叶片DW 和LDMC 显著大于灌木层，则表明乔木层植物叶片在“防御性”投入方面相对较多，具有“缓慢投资-收益”，也即“保守型”叶经济谱的特点（Wright etal,2005；陈莹婷和许振柱，2014）。SLA和LTD 可以作为反映岩溶石山木群落老龄林灌木层植物适应生境的重要叶性状指标，这表明灌木层植物在获取资源的能力以及对干湿环境的适应能力较强，灌木层植物叶片SLA显著大于乔木层，则表明灌木层植物叶片在“防御性”投入方面相对较少，具有“快速投资-收益”，也即“获取型”叶经济谱的特点（Wright et al,2005；陈莹婷和许振柱，2014）。许多研究表明，LDMC 和 SLA 为植物叶性状中最佳的两个指标（Hutchison et al,1986；Wilson et al,1999；张林等，2008），这2个指标的重要性也分别体现在本研究中的乔木层植物和灌木层植物中，除此之外，本研究中LTD也成为一个重要的叶性状表征指标，表明在岩溶石山老龄林生境植物对环境的适应策略突出表现在对资源的获取、保持和对干湿环境的适应。
+
+# 3.4基于叶性状權木在老龄林中的生态位
+
+檐木群落作为该地区岩溶石山生境广泛分布的次生林群落类型，经历了灌丛阶段、乔灌阶段、小乔林阶段直到老龄林阶段，在该地区的植被自然恢复演替过程中扮演着重要的角色（马姜明等，2012a）。由主成分分析可知，在乔木层8种植物叶片DW含量中木靠后，LDMC 和LTD含量居于中等，木在抗干扰和对生长环境干湿程度适应性综合得分排名位居第5。在灌木层17种植物叶片SLA，LTD含量中機木居于中等位置，在木对资源获取能力和对干湿环境的适应性综合得分排名位居第11。由此看出，此时木在抗干扰、资源获取和对干湿环境的适应等方面所表现出的适应性对策处于该群落主要物种的中等靠后，这也从一个侧面客观反映了木在老龄林群落中的生态位，这与马姜明等（2012a）在研究木群落不同恢复阶段主要共有种生态位变化中所表明的相吻合，即随着木群落自然恢复演替的进行，其绝对优势地位呈下降的趋势，最终可能会恢复成为由多个物种共同占优势的常绿落叶阔叶混交林。全面评价權木在演替顶极群落中的生态位及其适应能力和策略还需要从其光合能力、对养分和水分利用等方面综合考虑。
+
+综上所述，本研究通过分析了檐木群落老龄林乔木层植物与灌木层植物叶性状之间的差异及其之间的内在联系，研究得出DW，LDMC 和LTD 可以作为反映岩溶石山木群落老龄林乔木层植物适应生境的重要叶性状指标，SLA和LTD 可以作为反映岩溶石山檐木群落老龄林灌木层植物适应生境的重要叶性状指标，能够更好地理解檐木群落老龄林植物适应岩溶石山生境的适应能力，为桂林岩溶石山植被恢复与重建过程中的物种选择和功能群配置提供参考。
+
+# 参考文献：
+
+ACKERLY D, KNIGHT C,WEISS S,et al, 2002. Leaf size,specific leaf area and microhabitat distribution of chaparral woody plants: contrasting patterns in species level and community level analyses[J]. Oecologia, 130(3): 449-457.   
+CHEN YT, XU ZZ,2014.Review on research of leaf economics spectrum[J]. Chin JPlant Ecol,38(10): 1135-1153.[陈莹婷，许振柱,2014．植物叶经济谱的研究进展[J]．植物生态学报,38(10)：1135-1153.]   
+CORNELISSEN JHC,LAVOREL S, GARNIER E,et al,2003.A handbook of protocols for standardised and easy measurement of plant functional traits worldwide[J]. Aust JBot, 51(4): 335-380.   
+DIAZ S, CABIDO M, ZAK M, et al,1999. Plant functional traits, ecosystem structure and land-use history along a climatic gradient in central-western Argentina[J]. J Veg Sci, 1O(5): 651-660.   
+FUNK JL, CORNWELL WK, 2013. Leaf traits within communities: context may affect the mapping of traits to function[J]. Ecology, 94(9): 1893-1897.   
+HU YS，YAO XY,LIU YH,2014. The functional traits of forests at different succession stages and their relationship to terrain factors in Changbai mountains[J].Acta Ecol Sin,34(2O): 5915-5924.[胡耀升，么旭阳, 刘艳，2014．长白山不同演替阶段森林植物功能性状及其与地形因子间的关系[J]．生态学报，34(20): 5915-5924.]   
+HUTCHISON BA, MATT DR, MCMILLEN RT, et al, 1986. The architecture of a deciduous forest canopy in eastern Tennessee, USA[J]. JEcol, 74(3): 635-646.   
+JIANG CY,MA MD, XIAO JJ,2O17.Plant functional traitsand their driving factors of desertification on grassland in northwest Sichuan[J].Acta Bot Boreal-Occident Sin,37(5): 965-973.[蒋成益，马明东，肖玖金， 2017．川西北不同沙化程度草地植物功能性状及其驱动子[J]．西北植物学报，37(5)：965-973.]   
+LI XK,HE CX,TANG JS,et al, 2008.Evolution and ecological processes of karst ecosystem of Guangxi [J]. Guangxi Sci,15(1):80-86,91.[李先琨，何成新，唐建生，等,2008．广西岩溶山地生态系统特征与恢复重 建[J]．广西科学,15(1)：80-86，91.]   
+LI YL,CUI JY, SU YZ,2O05.Specific leaf area and leaf dry mater content of some plants in diferent dune habitats[J].Acta Ecol Sin,25(2):304-311.[李玉霖，崔建垣，苏永中,2005．不同沙丘生境主要植物比叶面 积和叶干物质含量的比较[J].生态学报，25(2)：304-311.]   
+LIU GF, LIU YP, BAIYILA DF, et al,2017.Leaf traits of dominant plants of main forest communities in Daqinggou Nature Reserve[J].Acta Ecol Sin,37(14): 4646-4655.[刘贵峰，刘玉平，达福白乙拉，等,2017. 大青沟自然保护区主要森林群落优势种的叶性状[J].生态学报,37(14)：4646-4655.]   
+LIU HW,LIU WD, WANG W,et al,2015.Leaf traits and nutrient resorption of major woody species in the karst limestone area of Chongqing[J].Acta Ecol Sin,35(12): 4071-4080.[刘宏伟，刘文丹，王微，等,2015．重庆 石灰岩地区主要木本植物叶片性状及养分再吸收特征[J]．生态学报,35(12)：4071-4080.]   
+MA JM, CHEN T, LIANG SC,2O11. Leaf traits of 14 dominant arbuscle and liana species in karst hills of Guilin[C]. International Conference on Remote Sensing, Environment and Transportation Engineering. Nanjing: 7653-7655.   
+MA JM, HUANG J, YANG DL, et al, 2015.Leaf photosynthetic pigment contents and quantitative evaluation of shade tolerance among 5O plant species on Karst rocky mountain in Guilin[J]. Sci Silv Sin,51(1O): 67-74.[马 姜明，黄婧，杨栋林，等，2015．桂林喀斯特石山 50 种常见植物叶片光合色素含量及耐荫性定量评价[J]. 林业科学,51(10):67-74.]   
+MA JM, WU M, ZHAN TT,et al,2013. Changes of species composition and diversityamong restoration stages of Loropetalum chinense communities in karst area of Lijang River valley[J]. Ecol Environ Sci,22(1): 66-71.[马 姜明，吴蒙，占婷婷，等，2013．漓江流域岩溶区檐木群落不同恢复阶段物种组成及多样性变化[J].生态 环境学报,22(1):66-71.]   
+MA JM, ZHAN TT, MO ZY, et al, 2012a. Changes of niche among restoration stages of Loropetalum chinense communities in karst area of Lijiang River Valley [J]. Acta Bot Boreal-Ocident Sin,32(12):2530-2536.[马姜 明，占婷婷，莫祖英，等,2012a.漓江流域岩溶区繼木群落不同恢复阶段主要共有种生态位变化[J]．西北 植物学报,32(12)：2530-2536.]   
+MA JM, ZHANG XZ, LIANG SC,et al, 2012b. Leaf traits of common plants in Yaoshan mountain of Guilin, China[J].JGuangxi Norm Univ (Nat Sci Ed),30(1):77-82.[马姜明，张秀珍，梁士楚，等,2012b．桂林尧山 常见植物叶片性状研究[J]．广西师范大学学报(自然科学版),30(1)：77-82.]   
+PAN YF, CHEN XB,JIANG Y,et al,2018.Changes in leaf functional traits and soil environmental factors in response to slope gradient in Karst hils of Guilin[J]. Acta Ecol Sin,38(5):1581-1589.[盘远方，陈兴彬，姜勇, 等,2018．桂林岩溶石山灌丛植物叶功能性状和土壤因子对坡向的响应[J]．生态学报,38(5)：1581-1589.]   
+QIN Y H, MA JM, MEI JL,et al,2017. The initial dynamic of litter decomposition of Loropetalum chinense communities among diferent recovery stages in karst area of Lijiang river watershed[J]. Acta Ecol Sin,37(20): 6792-6799.[覃扬，马姜明，梅军林，等,2017．漓江流域岩溶区木群落不同恢复阶段凋落物分解初期 动态[J]．生态学报,37(20)：6792-6799.]   
+SANCHEZ-GOMEZA D,ROBSONB TM,GASCOA A,et al,2013. Diffrences in the leaf functional traits of six beech (Fagus sylvatica L.） populations are reflected in their response to water limitation[J]. Environ Exp Bot, 87: 110-119.   
+WANG R,YU G, HE N,et al,2016.Latitudinal variation of leaf morphological traits from species to communities along a forest transect in eastern China[J]. JGeogr Sci, 26(1): 15-26.   
+WEI XW,LIN JQ,WANG RX, et al, 2016. Research progress of restoration of degraded Karst forest bank[J]. Mod Agric Sci Technol, (2): $1 7 2 \substack { - 1 7 4 + 1 7 7 }$ [韦秀文，林积泉，王瑞仙，等,2016．退化喀斯特森林恢复研究 进展[J].现代农业科技,(2)： $1 7 2 \substack { - 1 7 4 + 1 7 7 . } ]$   
+WEIHER E, VAN DWA, THOMPSON K, et al,199. Challenging Theophrastus: a common core list of plant traits for functional ecology[J]. J Veg Sci, 10(5): 609-620.   
+WILSON PJ,THOMPSON K, HODGSON JG, 1999, Specific leaf area and leaf dry mater content as alternative predictors of plant strategies[J]. New Phytol, 143(1): 155-162.   
+WRIGHT IJ，REICH PB，CORNELISSEN JHC,et al，2005.Assessing the generality of global leaf trait relationships [J]. New Phytol,166(2): 485-496.   
+XIANG KX, ZHANG X,LIU JM,et al,2017. Tree species selection for planting in dolomite karst area based on growth performance of young plantations[J].JW Chin For Sci,46(6): 61-66.[向凯旋，张喜，刘济明，等, 2017．基于幼林生长表现的白云岩石漠区造林树种筛选研究[J]．西部林业科学,46(6)：61-66.]   
+XIAO WP,YU LF, 2012. Clasification of plant functional groups based on leaf modality and water-holding   
+features in moutai water functional district of Guizhou[J].Bul Bot Res,32(5): 596-602.[肖卫平，喻理飞,2012.   
+贵州茅台水源功能区植物叶片形态与持水特征及其功能群划分[J]．植物研究,32(5)：596-602.]   
+YANG R, ZHANG BR, WANG LL,et al, 2O15. The response of plant functional traits’group to gradients of altitude in dry-hot valley of Yuan-Mou[J].Ecol Environ Sci,24(1): 49-56.[杨锐，张博睿，王玲玲，等,2015. 元谋干热河谷植物功能性状组合的海拔梯度响[J].生态环境学报,24(1)：49-56.]   
+YAO TT,MENG TT,NI J,etal,2O10.Leaf functional trait variation and its relationship with plant phylogenic background and the climate in Xinjiang Junggar Basin,NW China[J]. Biodivers Sci,18(2): 201-211.[尧婷婷, 孟婷婷，倪健，等,2010．新疆准噶尔荒漠植物叶片功能性状的进化和环境驱动机制初探[J].生物多样性, 18(2): 201-211.]   
+YU HY, CHEN YT, XU ZZ,et al, 2014. Analysis of relationships among leaf functional traits and economics spectrum of plant species in the desert steppe of Nei Mongol[J]. Chin JPlant Ecol,38(10):1029-1040.[于鸿莹. 陈莹婷，许振柱，等，2014．内蒙古荒漠草原植物叶片功能性状关系及其经济谱分析[J].植物生态学报， 38(10): 1029-1040.]   
+ZENG XP, ZHAO P, CHA XA,et al, 2006. Shade-tolerance of 25 low subtropical plants[J].JBeijing For univ, 28(6):88-95.[曾小平，赵平，蔡锡安，等,2006.25 种南亚热带植物耐阴性的初步研究[J]．北京林业大学 学报,28(6): 88-95.]   
+ZHANG J, ZHAO CZ,LI XP, et al, 2018.The relationship between the net photosynthetic rate and leaf area thickness of phragmites australis in the grass lake wetlands of Jiayuguan[J]. Acta Ecol Sin,38(17): 6084-6091. [张晶，赵成章，李雪萍，等，2018．嘉峪关草湖湿地芦苇净光合速率与叶面积和叶厚度的关系[J].生态学 报,38(17): 6084-6091.   
+ZHANG L,LUO T, DENG K,2O08.Vertical variations in specific leaf area and leaf dry mater content with canopy height in Pinus yunnanensis[J].JBeijing For univ,30(1): 40-44.[张林，罗天祥，邓坤枚,2008.云南 松比叶面积和叶干物质含量随冠层高度的垂直变化规律[J]．北京林业大学学报,30(1)：40-44.]   
+ZHANG YJ, MA JM,SUJ, et al. Model construction and its above-ground biomass allcation across successional stagesofLoropetalumchinensecommunitiesinKarsthillsofGuilin[J].Guihaia. http://kns.cnki.net/kcms/detail/45.1134.Q.20180515.1428.002.Html./20180517[张雅君，马姜明，苏静，等. 桂林岩溶石山檐木群落不同恢复阶段地上生物量模型构建及分配格局[J].广西植物， http://kns.cnki.net/kcms/detail/45.1134.Q.20180515.1428.002.Html./20180517]   
+ZHANG ZH, HU G, ZHU JD, et al,2010.Spatial paterns and interspecific associations of dominant tree species in two old-growth karst forests, SW China[J]. Ecol Res, 25(6): 1151-1160.   
+ZHAO HY,LIYL,WANG XY,etal,2010. Variations in leaf traits of 52 plants in Horqinsand land[J].JDesert Res,30(6):1292-1298.[赵红洋，李玉霖，王新源，等,2010．科尔沁沙地52 种植物叶片性状变异特征研究 [J]．中国沙漠,30(6)：1292-1298.]   
+ZHONG QL,LIU LB, XU X,et al,2018. Variations of plant functional traits and adaptive strategy of woody species in a karst forest of central Guizhou Province,southwestern China[J]. Chin JPlant Ecol,42(5): 562-572. [钟巧连，刘立斌，许鑫，等，2018．黔中喀斯特木本植物功能性状变异及其适应策略[J]．植物生态学报， 42(5): 562-572.]   
+ZHOU X, ZUO XA, ZHAO XY, et al,2015.Plant functional traits and interrelationships of 34 plant species in south central Horqin sand land,China[J].JDesert Res,35(6):1489-1495.[周欣，左小安，赵学勇，等,2015. 科尔沁沙地中南部 34 种植物叶功能性状及其相互关系[J]．中国沙漠,35(6)：1489-1495.]   
+ZHOU X, ZUO XA, ZHAO XY,et al, 2016.Scale variation and correlation of plant functional traits in the Horqi sandy land,China[J].JDesert Res,36(1):20-26.[周欣，左小安，赵学勇，等,2016．科尔沁沙地植物功能性 状的尺度变异及关联[J]．中国沙漠,36(1)：20-26.]

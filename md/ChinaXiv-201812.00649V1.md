@@ -1,0 +1,210 @@
+# 芳香烃受体调控肠道炎症的研究进展
+
+李成良」齐广海1,2　彭　鹏」方热军 1\*
+
+(1.湖南农业大学动物科技学院，长沙 410128；2.中国农业科学院饲料研究所，农业部饲料生物技术重点开放实验室，北京 100081)
+
+摘要：芳香烃受体（AhR）是一种需配体激活的转录因子，对环境毒素、机体异物质代谢和免疫调节等具有重要作用。近年研究发现，AhR 是参与免疫调控的关键因子，其对炎症性肠道疾病（IBD）的调控已成为当前研究热点。本文综述了AhR结构、配体、信号传导通路及AhR参与调控肠道炎症的最新研究进展，为治疗 IBD 提供新的思路。
+
+关键词：芳香烃受体；配体；免疫调控；炎症性肠病中图分类号：S811.2
+
+多环芳香烃化合物(polycyclic aromatic hydrocarbons，PAHs）是重要的环境污染物，具有强烈的致癌性。Poland 等[]应用核素标记配体法测定技术证明一种受体可介导 PAHs 的毒性作用，而命名为芳香烃受体（arylhydrocarbon receptor，AhR）。以前研究多集中于AhR对环境芳香烃化合物的代谢反应，近年研究发现，AhR是参与免疫调节的关键因子，AhR 存在于大多数免疫细胞，参与调控细胞增殖、分化、适应性及先天免疫细胞亚细胞群的细胞因子分泌[2]。AhR 在调节性 T细胞(regulatoryTcell，Treg)、辅助性 T细胞 17(T helper cells17,Th17)、肠上皮内淋巴细胞(intestinal intraepithelial lymphocytes，IELs)、固有淋巴细胞(innate lymphoid cells,ILCs)等自身免疫调节中具有重要作用。越来越多的研究表明，AhR在调控溃烂性结肠炎（ulcerated colitis，UC）、克罗恩病(Crohn'sdisease，CD)、抑制肠道感染和维护肠道健康方面有重要作用，其对肠道炎症的调控已成为当前研究热点。
+
+# 1AhR 的一级结构
+
+AhR 是分子量较大的蛋白质，是由805个氨基酸构成的转录因子，属于配体依赖性的碱性螺旋-环-螺旋（basic helix-loop-helix，bHLH）超家族中的 PAS（period-aryl hydrocarbon receptor nuclear translocator-singleminded，Pre-Armt-Sim)亚家族成员[1]。所有哺乳动物 bHLH-PAS 蛋白质具有相似的分子结构，表明 AhR 进化过程中具有高度保守性。AhR 结构从N端到C端主要分成 bHLH、PAS 和C端谷氨酰胺富集区3部分（图1)。
+
+bHLH具有高度保守性，对基本生理活动具有重要作用，PAS 包括重复序列PAS-A和PAS-B2部分[3]。C端具有物种差异性，呈多态性，其蛋白质长度长短不一[4]。N端bHLH帮助 DNA 结合和蛋白质二聚化，AhR受体C端约 $50 \%$ 的蛋白质富含谷氨酸，该区具有转录激活作用，保护相关辅酶因子的结合位点如E1A 结合蛋白 P300（E1 A binding protein p300，P300）和固醇受体共激活因子-1(steroid receptor coactivator-1，SRC1)。PAS-B 区为配体绑定区[5]，PAS 区主要发挥DNA识别、与配体和分子伴侣蛋白质相互结合的功能。PAS-B 结构域与 AhR 配体结合区相重叠，赋予了蛋白质之间的相互作用，如与热休克蛋白90（heat shock protein 90,HSP90）、成视网膜母细胞瘤蛋白（retinoblastoma protein，pRb）的相互作用[6-7]。
+
+![](images/9b09bcbf7f782c17a2488378aad2f7ef29132262894536257841fc6dbed25ff5.jpg)  
+图1AhR 的结构功能域  
+Fig.1Functional domains of AhR[3]
+
+但由于AhR高级结构尚未被解析，其涉及与配体结合、转运等机制研究受到一定限制。近年来，研究者采用同源模建法，获得了AhR 配体结合区三维空间结构[8]，该结构由5个β折叠和1个α螺旋构成，并包含1个疏水的配体结合口袋。目前认为配体结合口袋附近的芳香族氨基酸残基如谷氨酸(Gln)377、苯丙氨酸（Phe)318、Phe289、半胱氨酸（Cys）294，Gln317、苏氨酸（Thr）283 等通过它们的芳香族侧链与配体的芳香环（所有配体都具有芳香环特征）之间产生的堆积力相互作用，实现配体与受体结合，其中Phe318在配体结合中起到关键性作用[8-9]。
+
+# 2AhR 的配体
+
+AhR 需要配体激活才能发挥其相关功能，其配体至少具有芳香化合物结构特征和疏水性。传统意义上AhR 配体主要有两大类：卤代芳烃（halogenated aromatic hydrocarbons，HAHs）和多环芳香烃（polycyclicAromatic Hydrocarbons，PAHs)，越来越多的研究显示，一些与二者结构上有很大差异的人工合成和天然化合物也可以与AhR 结合，说明 AhR 具有高度的配体多样性特点[10]。AhR 的配体主要包括外源性配体和内源性配体，表1总结了具有代表性的 AhR 配体[10-15]。
+
+Table1Representative AhR ligands   
+
+<html><body><table><tr><td>合成配体</td><td>色氨酸次级代谢产物</td><td>食物源性配体</td></tr><tr><td>Synthetic ligands</td><td>Tryptophan secondary metabolites</td><td>Food-derived ligands</td></tr><tr><td>二嘎英</td><td></td><td>吲哚[3,2-b]并咔唑/3,3-二吲哚</td></tr><tr><td>2,3,7,8-tetrachlorodibenzo-p-dioxin</td><td>6-甲酰基吲哚并[3,2-b]咔唑(FICZ)</td><td>基甲烷</td></tr><tr><td>(TCDD)</td><td></td><td></td></tr><tr><td>四氯二苯呋喃</td><td></td><td>槲皮素、染料木黄酮、大豆苷</td></tr><tr><td>2,3,7,8-tetrachlorodibenzofuran</td><td>2-(1'H-吲哚3'-基)噻唑-4-羧酸甲酯(ITE)</td><td>元 (黄酮类)</td></tr><tr><td>五氯联苯</td><td></td><td>脂氧素a4/前列腺素G(花生四</td></tr><tr><td></td><td>犬尿酸、黄尿酸</td><td></td></tr><tr><td>3,3',4,4',5-pentachlorobiphenyl</td><td></td><td>烯酸代谢产物)</td></tr><tr><td>三甲基胆蒽</td><td></td><td></td></tr><tr><td>3-Methylcholanthrene</td><td>6,12-双甲酰基吲哚并[3,2-b]咔唑（dFICZ)</td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td>苯并芘</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td>Benzo[a]pyre</td><td></td><td></td></tr></table></body></html>
+
+# 3AhR的信号传导过程
+
+无配体时，AhR 与辅助伴侣蛋白23（co-chaperone protein 23，p23）、HSP90 和乙型肝炎病毒 X 相关蛋白-2(hepatitis B virus x-associated protein 2，XAP2)形成复合物，存在于细胞质内。AhR 配体根据其分子量大小，通过被动运输、主动转运、易化扩散和胞饮等方式进入细胞内[16]。当配体与AhR结合后，该复合物构象改变，再与核输入蛋白β 结合，从而控制复合物核质穿梭[17]。在核内 AhR 与芳香烃受体转运蛋白(AhR nucleartranslocator，ARNT)组成异源二聚体。活化后的AhR-配体-ARNT异源二聚体与DNA片段上二噬英反应元件（dioxin-responsive element，DRE）也叫外源反应元件(xenobiotic-responsive element，XRE)特异结合而发挥转录作用，下游被调控基因的 XRE 含有共同核心序列（N-GCGTG-C）。
+
+AhR 激活诱导可氧化 AhR 配体的细胞色素酶 P4501Al(cytochrome P-4501A1，CYP1A1)，并导致配体的代谢清除与解毒。AhR-配体复合物入核和XRE/DRE 区域相互联系时，4h左右配体-AhR复合物会从核中移出并被相关酶如CYP1A1所降解。但当CYP1A1表达异常时，会耗尽细胞核内 AhR 配体，形成一个类似于AhR 缺乏状态，从而影响后续基因表达，导致机体病变[18]。同时还存在2条独立通路防止AhR被过度活化：泛素/蛋白酶途径将激活的 AhR 降解及转运出核，芳香烃受体抑制因子（arylhydrocarbon receptor repressor,AhRR)与 AhR 竞争结合 ARNT。激活的 AhR 可诱导 AhRR 表达,达到对 AhR 通路活性的负反馈调节(图1)[19]。4AhR 与炎症性肠道疾病（inflammatory bowel disease，IBD）
+
+多位学者研究了AhR与肠道炎症之间的关系。Qiu等[20]发现无菌条件下与野生型小鼠 $( \mathrm { A h R ^ { + / + } }$ 相比， $40 \%$ 的 AhR敲除小鼠 $( \mathrm { A h R ^ { \scriptscriptstyle - / - } } )$ 出现了结肠炎，肠道组织出现了增厚和纤维化。小鼠肠道出现隐窝损伤和脓创、杯状细胞减少、腺体结构变形，炎症延伸至黏膜下层属于典型的IBD 症状。Arsenescu 等[21]在无菌条件下，使用右旋葡聚糖硫酸钠(dextran sodium sulfate，DSS)诱导小鼠产生结肠炎，发现在饲喂 DSS 的7d时间里， $\mathrm { A h R ^ { \scriptscriptstyle - / - } }$ 小鼠全部死亡。Monteleone 等[22]发现，与对照组（健康人体结肠组织）相比，UC 组和克罗恩病病人的 AhRmRNA表达丰度显著下降，体重减轻。后期通过小鼠试验发现添加AhR拮抗剂后，加重小鼠结肠炎。这些试验说明 AhR 是维护肠道健康的必需因子，当AhR缺失或AhR表达受阻时，加重了肠道炎症。而 AhR必须被各种配体活化后才能进入细胞核发挥相关功能。许多学者针对配体活化AhR介导肠炎信号在IBD 模型中进行了大量研究[23-26]。
+
+AhR：芳香烃受体 aryl hydrocarbon receptor；XAP2：乙型肝炎病毒 X 相关蛋白-2 hepatitis B virusX-associated protein 2；HSP90：热应激蛋白 90 heat shock protein 90；ARNT：AhR 转运蛋白 AhR nucleartranslocator；DREs：二嘌英反应元件 dioxin-responsive element；CYPlA1：细胞色素酶 P4501Al cytochromeP-4501A1。
+
+![](images/fff9cc8f593a5d968b9642d0d2ddfcec9ae0398986656fa0b50a08aec2a063f6.jpg)  
+图2AhR 的信号途径  
+Fig.2AhR signaling pathway[19]
+
+李良子等[27]发现6-甲酰基吲哚并[3,2-b]咔唑（FICZ）可缓解 DSS 诱导的结肠炎，同时减少了促炎因子白细胞介素- $\cdot 1 \beta$ （interleukin- $\cdot 1 \beta$ ， $| L { - } 1 \beta \rangle$ ）、白细胞介素-6（interleukin-6，IL-6）和肿瘤坏死因子-α(tumor necrosisfactor-alpha，TNF-α)表达，提高了抗炎因子白细胞介素-10（interleukin-10，IL-10）的表达。DSS 型结肠炎导致肠黏膜CYPIA1表达量下降，加入FICZ后明显增加了肠黏膜CYPIA1表达量。FICZ为色氨酸光化产物，是 AhR 重要的内源性配体，其不仅可以缓解 DSS 诱导肠炎，还可以缓解三硝基苯磺酸(trinitrobenenze sulfonicacid，TNBS)或是T细胞转移诱导型结肠炎[25-27]。许多研究也都得到了类似结果[28-29]。
+
+以上研究表明，AhR 在缓解炎症性肠疾病中具有重要作用，内外源性配体均可激活 AhR信号通路，活化的 AhR 可缓解由AhR 缺失、DSS 和 TNBS 诱导产生的结肠炎，而非 AhR 配体（如二甲基亚枫）不能激活AhR通路，不能缓解肠道炎症。
+
+# 5AhR调控肠道炎症的主要方式
+
+# 5.1AhR 调控肠上皮内淋巴及其相关因子
+
+作为肠黏膜免疫系统的一个关键组分，IELs 是存在与小肠黏膜上皮的一类独特的细胞群。IELs 具有自然杀伤活性，并能分泌多种细胞因子，从而在免疫监视和细胞介导的黏膜免疫中发挥重要作用。Li等[30]研究发现，与其他淋巴细胞相比较，IELs可以表达高水平的AhR，随后将小鼠AhR基因敲除，发现小鼠小肠 $9 5 \%$ 的 IELs 损失，而对淋巴结、脾脏的细胞比例和数量无影响。与野生型小鼠相比，肠上皮细胞周转受到影响，从而影响黏膜屏障完整性。伴随着 IELs 数量的减少，发现 AHR-小鼠的颗粒酶 A和B、基质金属蛋白酶-7(matrix metalloproteinase-7，MMP-7)和C型凝集素均显著低于对照组和吲哚-3 甲醇(indole-3-carbinol，I3C)添加组。而Girardi等[31]认为敲除 AhR 会导致强烈的宿主免疫，造成 IELs 的免疫耐受。
+
+Li 等[30]移植来自小肠的富含 AhR 的肠道 T 细胞受体(Tcell receptor，TCR) $\alpha \beta$ （一种 IELs 细胞亚群)，可重建 AHR--小鼠肠道上皮细胞。来自于对照组的骨髓细胞在缺失重组激活基因-1(recombination activating gene1，RAG1)，甚至 RAG1和AhR 都缺失情况下可重建肠道 IELs。AHR--小鼠骨髓细胞不能重建肠道 IELs 细胞，这说明活化的 AhR是 ILEs 的一种细胞固有（cellintrinsic）需求。AhR 活性可直接影响 IELs 细胞池的维持。作者并没找到AhR 直接调控IELs 的靶基因的证据，但以前有报道，具有受体酪氨酸激酶 $c$ -kit基因突变的小鼠，表现为 IELs 细胞池容量显著下降，这种现象与 AhR-小鼠表现非常相似。这表明 AhR 可能是通过 $c$ -kit基因的表达来调控IELs 细胞池容量[32]。
+
+Li等[30]给小鼠饲喂标准饲粮和纯合饲粮3周后，饲喂纯合饲粮组回肠CYP1A1（AhR 靶基因）、 $\mathrm { T C R } \gamma \delta ^ { + }$ CD88αα+IELs数量显著下降，而给纯合饲粮加入 $2 0 0 \mathrm { m g / k g \Delta I 3 C }$ 后，IELs 数量得到恢复，结肠炎得到缓解。且颗粒酶A和B，MMP-7和C型凝集素含量明显高于对照组和基因敲除组。研究发现ILEs可直接参与免疫监视作用，通过高表达量的颗粒酶诱导感染细胞凋亡[33]，MMP-7主要参与肠道损伤修复和 $\mathfrak { a }$ 防御素（ $\mathrm { \bf { a } }$ -defensin）的杀菌作用[34]。C 型凝集素可直接分泌到肠腔清除革兰氏阳性菌[35]。
+
+总结，配体激活AhR后可能通过调控 $\boldsymbol { c }$ -kit 基因表达，从而维持ILEs细胞池，保持肠上皮完整性，提高颗粒酶A和B及MMP-7、C型凝集素的表达，这几种因素共同作用，提高肠道修复和杀菌能力，从而缓解肠道炎症。
+
+# 5.2AhR调控肠道ILCs，维持肠道黏膜稳态平衡
+
+ILCs 既是固有免疫的效应细胞，又是获得性免疫的前体细胞[36-37]。ILCs 位于肠黏膜固有层、肠黏膜的微小肠道隐窝斑（cryptopatches,CP）、孤立淋巴滤泡和派尔集合淋巴结，主要表达为孤儿核受体yt+(retinoid-relatedorphan nuclear receptors,RORyt+)ILC 胞亚群。Spits 等[38]发现 ILCs 是一个重要的肠黏膜稳态信号。
+
+Qiu 等[20]研究发现，成年AhR 基因敲除小鼠，表现为RORyt+ILC 程序性死亡增加，数量减少，添加FICZ后，可增加野生型小鼠和杂合子小鼠的RORyt+ILC数量，而对照组小鼠无影响。Lee 等[39]发现当AhR 缺失时，ILC（CD4+RORrt+ILC）数量显著下降。Kiss 等[40]发现 AhR--小鼠的ILCs数量扩增受到抑制，肠道第二淋巴器官微小肠道隐窝斑和孤立淋巴小结（isolated lymphoid folicles，ILF）发育受到抑制。以上研究都表明 AhR信号参与调节ILCs 细胞的增殖和存活。
+
+Kiss 等[40]发现AhR--小鼠表达低水平的 kit(平均荧光强度 3500:1000)，给添加小鼠饲喂纯合饲粮、纯合饲粮加 $2 \mathrm { g } / \mathrm { k g } \mathrm { I } 3 \mathrm { C }$ 和对照组饲粮（谷物基础饲粮，含有多酚芥子苷等）后，添加配体组和对照组均能激活 AhR上调 kit 基因表达（平均荧光强度 500:2000:2000）。这表明 AhR 直接调控 kit 转录。研究发现 kit 启动子具有典型的 $\mathrm { X R E } ^ { [ 4 1 - 4 3 ] }$ ，染色体免疫沉淀反应分析发现，活化的 AhR与 kit 启动子相结合，给RORyt+ILC 添加 AhR配体，可提高 kit 启动子中 XRE 的占有率[40]。kit 是干细胞因子(stem cell factor，SCF）受体，SCF 对维持肠道黏膜位点的 ILCs 细胞池非常重要[44]。采用含有 SCF 的RORyt+ILC 进行体外培养证实了 $\mathbf { \Psi } _ { c }$ -kit对出生后的ILCs 增殖具有重要作用[40]。这表明 AhR 通路直接调控 kit 转录，从而调控ILCs 细胞的增殖与分化。
+
+Lee 等[39]研究发现，给小鼠饲喂AhR 配体二噁英（TCDD）后，可增加结肠肠腔 Notch1和 Notch2 表达，而 Notch 被认为是AhR的目标基因[45-46]，且RORyt+ILC可表达 Notch1和 Notch2[46]，Possot 等[47]通过体外培养来自于成人骨髓前体细胞的 RORyt+ILC 后发现，Notch2 信号通路控制 RORyt+ILC 的产生，缺乏 Notch 信号通路的小鼠减少了RORyt+ILC 的产生。Notch1和 Notch2启动子含有XRE，使用 AhR 配体后，可诱导其启动子与 AhR 结合，从而进行后续调控[45]。这表明 AhR 通路同时调控Notch 信号通路，从而调控ILCs 的增殖与分化。
+
+ILCs 主要分泌细胞因子如白细胞介素-22（interleukin-22，IL-22)，其可诱导肠上皮细胞产生黏蛋白和抗菌肽，IL-22在肠道抵抗病原方面有着关键作用[48-51]。Lee 等[39]研究发现，野生型小鼠肠黏膜固有层的 ILCs和派尔集合淋巴结的细胞在白细胞介素-23（interleukin-23，IL-23）刺激下，产生大量IL-22，而AhR 基因敲除小鼠几乎无IL-22 分泌。AhR 基因敲除小鼠很快就被感染，2周内全部死亡。Monteleone 等[22]通过 TNBS、
+
+DSS 和T细胞转移诱导小鼠产生结肠炎，而添加AhR 配体FICZ后，增加了IL-22分泌，缓解了小鼠结肠炎。Zelante 等[52]研究发现，AhR基因敲除小鼠 IL-22分泌受到严重的抑制，进一步试验发现，小鼠肠道抗真菌能力与IL-22 含量和 ILCs数量有关。Schiering 等[5]发现，小鼠中CYPlA1基因的异常表达，会耗尽原生 AhR配体，形成一个类似于AhR缺乏的状态。CYP1A1的全身或限制在肠道上皮细胞的组成型表达，导致肠道AhR 依赖型 3类 ILCs 亚型(RORyt+NKP46+、RORγt+NKP46-、RORyt+CD4+)数量减少，IL-22 分泌减少，提高了鼠柠檬酸杆菌对肠道的感染，在食物中增加AhR配体的摄入，可平衡因过多 AhR 配体降解对肠道免疫功能损伤。
+
+Islam 等[29]试验发现，野生型小鼠添加色氨酸增加了AhR mRNA表达，活化AhR的促进了ILCs 增殖，同时增加了 IL-22含量，IL-22 诱导再生蛋白 3（regenerating protein 3，Reg3）和黏蛋白的分泌，提高肠道抗菌能力。
+
+AhR 可通过上调kit和 Notch 通路，这2条通路控制ILCs 的增殖、分化和周转，维持ILCs细胞池稳定。当肠道受到细菌威胁时，ILCs 先于T细胞发挥免疫作用，ILCs 分泌IL-22，从而诱导抗菌蛋白 Reg3 和黏蛋白的分泌进行杀菌活动，维护肠道健康。当AhR 缺失或缺少配体激活时，AhR 激活通路受到抑制，ILCs 增殖分化减少，导致IL-22分泌减少，增加了肠道感染。因此，AhR 是维护肠道黏膜稳态的必需因子。
+
+5.3AhR参与调控Treg/Th17分化平衡，从而调节肠道炎症
+
+Treg 和Th17都来自于初始 $\mathrm { C D 4 ^ { + } T }$ 细胞，两者分化途径和在肠道炎症发生过程中的作用相反。Treg 具有抗炎和维持免疫耐受功能，Th17功能与之相反。鼠类模型研究发现这2种细胞之间存在某种平衡，抑制 Th17可促进 Treg 生成。
+
+Treg 转录因子为叉头状/翅膀状螺旋转录因子(forkhead box protein3，Foxp3)[20]。Treg主要分泌白细胞介素-4（interleukin-4，IL-4）、IL-10 和转化生长因子β(transforming growth factor- $\cdot \beta$ ，TGF- $\boldsymbol { \cdot } \boldsymbol { \beta }$ )等，Treg受IL-10 正调节，受 IL-6、白细胞介素-21（interleukin-21，IL-21）和肿瘤坏死因子-α(tumor necrosis factor-alpha，TNF- $\alpha$ ）负调节[54-55]。研究发现， $\mathrm { C D } 2 5 ^ { + }$ 、 $\mathrm { C D 4 ^ { + } }$ 辅助性 T细胞可抑制、甚至治愈结肠炎[56-57]。Th17转录因子为 $R O R \gamma t$ 。Th17 可产生特异性的致炎细胞因子白细胞介素-17（interleukin-17，IL-17)。Th17生成过程受 $\mathrm { I L } { - } 1 \beta$ 、TNF- $\mathfrak { a }$ 和 IL-23 的正调节[58], $\boldsymbol { \gamma }$ 干扰素（interferon-γ，IFN-γ）、受白细胞介素-27（interleukin-27，IL-27）和白细胞介素-2（interleukin-2，IL-2）的负调节。Th17 还可分泌 IL-21、IL-6、TNF- $\mathbf { \alpha } \cdot \mathbf { a }$ 等[59]。这些细胞因子可以集体动员、募集及活化中性粒细胞。IL-17能有效地介导中性粒细胞动员的兴奋过程，从而有效地介导了组织的炎症反应。Zhang 等[60试验发现，在UC 模型小鼠体内 Th17的分化及与其相关的 RORyt、IL-17、IL-6 的表达水平均增加，而 Treg 的分化及与其相关的Foxp3、IL-10 的表达水平下降。在 DSS 诱导的结肠炎模型中，促进了辅助性 T细胞 1(T helper cels 1，Th1)和 Th17 的细胞因子(IL-17、IL-6)分泌[43]。
+
+Qiu 等[20]研究发现，AhR--小鼠促进了小肠初始 $\mathrm { C D 4 ^ { + } T }$ 细胞转化为 Th17，还发现 AhR-小鼠 Th17 的转录因子RORyt 表达量增加，促进了IL-17的产生，而Foxp3 表达量下降。Singh 等[24]采用 $\mathrm { D S S } ( 3 \% )$ 诱导小鼠产生结肠炎，结果发现，与DSS+载体组相比，DSS+TCDD 组 Treg 的百分比和数量显著增加，而单独添加 TCDD组和单独添加载体组的 Treg 百分比和数量只有轻微的增加。RT-PCR 检测发现，与单独添加载体组比较， ${ \mathrm { D S S ^ { + } } }$ 载体组显著下调 FoxP3 mRNA 表达，显著上调 IL-17 mRNA 表达。而添加 TCDD 后（DSS+TCDD)，这种情况得到改善；同时发现未使用DSS 的小鼠组，与单独添加载体组相比，添加TCDD能上调 Foxp3 的表达，而不改变 IL-17 的表达。
+
+为验证 TCDD 通过 AhR 诱导调控 Treg 的分化，研究者采用野生型小鼠 C57BL/6(AhR+/+)和 $\mathrm { A h R ^ { \scriptscriptstyle - / - } }$ 小鼠进行体内和体外试验，结果发现，TCDD 促进了野生型小鼠的Foxp3 表达，而对 AhR-小鼠的Foxp3 表达无影响。同时使用 TCDD 处理 DSS 诱导的UC 小鼠，发现肠道淋巴组织中的Foxp3 表达显著上调，而 IL-17 的表达没有显著变化，表明 TCDD 活化 AhR 后可诱导 Treg 的分化，而不诱导 Th17的分化[24]。Islam 等[29]研究发现，野生型小鼠添加色氨酸显著上调 Foxp3 表达，下调 IL-17的表达。还有研究发现，犬尿氨酸与 AhR 结合后，可促进T细胞向 Treg 分化，并增强 Treg 的活性，同时 Treg 可再作用于树突状细胞(dendritic cell，DC)，通过 DC 促进其他调节性T细胞向 Treg 分化，形成一个正反馈的过程[61]。
+
+研究发现，Foxp3和RORyt的启动子都具有XRE元件，因此活化的AhR可直接调控这2个转录因子。AhR 可通过诱导 RORyt/C2表达进而启动 RORyt/C2信号转导通路，从而促进 Treg 的分化。RORyt 缺陷型小鼠能够减少 Treg 的组织浸润并缓解自身免疫性疾病[62]。Foxp3 是 Treg 的调节功能密切相关的特异转录因子，高表达的Foxp3 转基因小鼠其 Treg 数量增加。Foxp3 不是传统意义上与IL-2、IL-4 和 INF-γ基因启动子直接相互作用的转录抑制因子,而是通过阻断多种细胞因子表达所必需的活化T细胞核因子(nuclear factor of activeTcells，NFAT)、核转录因子-kB（nuclear factor-kappa B，NF-kB）的活化，达到抑制相应细胞因子表达的作用[63-64]。犬尿氨酸可通过 AhR 依赖的方式使Foxp3 和 Treg 增殖[65]。
+
+一些新的研究表明，酪氨酸蛋白激酶-信号传导和转录激活因子(janus kinase-signal transducers andactivatorsof transcription，JAK-STAT)信号通路在 Treg 的各种功能中都发挥着重要作用。如 Chaudhry 等[6]认为，Treg 内的信号传导与转录激活因子(signal transduction and activator of transcription，STATs)活化可使 Treg通过增加抑制性细胞分子和趋化因子受体的表达来抑制 Th17炎性反应，而 Treg 内 STAT3 的缺失可导致结肠炎的发生。Quintana 等[67]发现，活化的AhR可以通过调节 STAT1来促进 Treg 的分化。在体外 Treg/Th17生长分化环境中，STAT3的缺失严重削弱了Th17的分化，使 Treg/Th17平衡向 Treg方向移动。而AhR 与其配体结合后，激活包括 STAT3、NF- $\cdot \kappa \mathrm { B }$ 等在内的信号途径促使细胞向 Th17分化[68-69]。
+
+以上研究表明，AhR 缺失促进了Th17的分化，增加了促炎细胞因子（IL-17、IL-21和 TNF-α）分泌，减少了Treg 细胞分化，加重了肠道炎症。而添加AhR 配体后可促进Treg 细胞分化，增加抗炎细胞因子（IL-10)分泌，抑制了Th17的分化，减少该细胞促炎症因子（IL-4、IL-10、TGF- $\cdot \beta$ ）的分泌。活化的AhR 通过调控转录因子Foxp3 和RORγt，以及通过JAK-STAT 通路调节 Treg 和 Th17之间的平衡。而有研究者认为，TCDD活化 AhR 后对 Foxp3 和 RORyt 的调控是通过抑制Foxp3 的CpG 岛甲基化，促进IL-17启动子区域甲基化，从而促进 Treg 的分化，抑制 Th17的分化，维持 Treg/Th17的平衡，从而减缓肠道炎症[24]。
+
+# 6小结
+
+近年来，关于 AhR参与免疫调节尤其是肠道炎症调节的研究很多，本文简单综述了AhR参与肠道免疫的稳态平衡，缓解肠道炎症。AhR 失活会加重 IBD病人肠炎，而各类配体可激活 AhR有助于激发下游调控基因表达。通过维护和发挥 IELs 和 ILCs 相关功能、保护肠黏膜上皮完整、增加抗炎因子、抑制促炎症因子从而缓解肠道炎症。
+
+食物是 AhR 配体的最大来源，食物相关营养素如色氨酸、大豆异黄酮、花生四烯酸、槲皮素、黄芩素等均是 AhR 配体。这些配体进入肠道后与AhR 结合，启动相关基因表达，从而调节肠道免疫。IBD病人多摄入蔬菜有助于缓解结肠炎，利于肠道健康。菌群代谢物如短链脂肪酸可调节 AhR及其在肝脏及肠道中的靶点，而 AhR 信号通路可影响小肠菌群组成，从而调控肠道菌群平衡，维护肠道健康。因此，研究相关配体调控动物肠道炎症，受体、配体与肠道微生物之间的关系，可作为未来动物营养调控研究的方向之一。
+
+# 参考文献:
+
+[1] POLANDAP,GLOVER E,KENDEAS.Stereospecific,high affinity binding of 2,3,7,8-tetrachlorodibenzo $\cdot \mathsf { p }$ -dioxin by hepatic cytosol:evidence that the binding species is receptor for induction of aryl hydrocarbon hydroxylase[J].Journal of Biological Chemistry,1976,25(16):4936-4946.
+
+[2] POLAND A P,GLOVER E.Genetic expression of aryl hydrocarbon hydroxylase by 2,3,7,8 tetrachlorodibenzo $p$ -dioxin:evidence for a receptor mutation in genetically non-responsive mice[J].Molecular Pharmacology,1975,11(4):389-398.
+
+[3]STOCKINGER B,DI MEGLIO P,GIALITAKIS M,et al.The aryl hydrocarbon receptor:multitasking in the immune system[J].Annual Review of Immunology,2014,32(1):403 - 432.
+
+[4] HAHN M E.Aryl hydrocarbon receptors:diversity and evolution[J].Chemico-Biological Interactions,2002,141(1/2):131-160.
+
+[5]WALLER C L,MCKINNEY JD.Three-dimensional quantitative structure-activity relationships of dioxins and dioxin-likecompounds:model validationandahreceptorcharacterization[J].ChemicalResearchin Toxicol0gy,1995,8(6):847-858.
+
+[6]ANTONSSON C,WHITELAW M L,MCGUIRE J,et al.Distinct roles of the molecular chaperone hsp90 in modulating dioxin receptor function via the basic helix-loop-helix and PAS domains[J].Molecular and Cellular Biology,1995,15(2):756-765.   
+[7]ELFERINK C J,GE N L,LEVINE A.Maximal aryl hydrocarbon receptor activity depends on an interaction with the retinoblastoma protein[J].Molecular Pharmacology,2001,59(4):664-673.   
+[8]葡远,张爱茜,王连生.芳烃受体与配体结合特定结构域的结构预测与分析[C]/第四届全国环境化学学术大 会论文汇编.南京:中国化学会,2008.   
+[9]段毅涛,赵辉,黄鹤.芳香烃受体内外源性配体研究进展[J].环境与健康杂志,2013,30(5):456-459.   
+[10]KIMURA A,NAKA T,NOHARA K,et al.Aryl hydrocarbon receptor regulates Statl activation and participates in the development of Th17 cels[J].Proceedings of the National Academy of Sciences of the United States of America,2008,105(28):9721-9726.   
+[11]WANG H K,YEH C H,IWAMOTO T,et al.Dietary flavonoid naringenin induces regulatory Tcels via an aryl hydrocarbon receptor mediated pathway[J].Journal of Agricultural and Food Chemistry,2012,60(9):2171-2178. [12]DINATALE B C,MURRAY I A,SCHROEDER J C,et al.kynurenic acid is a potent endogenous aryl hydrocarbon receptor ligand that synergistically induces interleukin-6 in the presence of inflammatory signaling[J].Toxicological Sciences,2010,115(1):89-97.   
+[13]HENRY E C,WELLE S L,GASIEWICZ T A.TCDD and a putative endogenous AhR ligand,ITE,elicit the same immediatechangesingene expressioninmouselungfibroblasts[J].Toxicological Sciences,2010,114(1):90-100.   
+[14] LEHMANN G M,XI X,KULKARNI A A,et al.The aryl hydrocarbon receptor ligand ITE inhibits TGFβ1-induced human myofibroblast differentiation[J].American Journal of Pathology,2011,178(4):1556-1557. [15]WALL R J,HE G C,DENISON M S,et al.Novel 2-amino-isoflavones exhibit aryl hydrocarbon receptor agonist or antagonist activity in a species/cel-specific context[J].Toxicology,2012,297(1/2/3):26-33.   
+[16] GAD S C.Toxicology of the gastrointestinal tract[M].New York:CRC Press,2007:10.   
+[17] ESSER C,RANNUG A,STOCKINGER B.The aryl hydrocarbon receptor in immunity[J].Trends in Immunology,2009,30(9):447-454.   
+[18] PASTORKOVB,VRZALOVA,BACHLEDA P,et al.Hydroxystilbenes and methoxystilbenes activate
+
+human aryl hydrocarbon receptor and induce CYPlA genes in human hepatoma cells and human hepatocytes[J].Food and Chemical Toxicology,2017,103:122-132.
+
+[19]SCHMIDT J V,BRADFIELD C A.Ah receptor signaling pathways[J].Annual Review of Cell and Developmental Biology,1996,12(1):55-89.   
+[20]QIU J,GUO X H,CHEN Z M E,et al.Group 3 Innate lymphoid cels inhibit T-cell-mediated intestinal inflammation througharylhydrocarbon receptor signaling and regulation of microflora[J].Immunity,2013,39(2):386-399.   
+[21]ARSENESCU R,ARSENESCU V,ZHONG J,et al.Role of the xenobiotic receptor in inflammatory bowel disease[J].Inflammatory Bowel Diseases,2011,17(5):1149-1162.   
+[22]MONTELEONE I,RIZZO A,SARRA M,et al.Aryl hydrocarbon receptor-induced signals up-regulate IL-22 production and inhibit inflammation in the gastrointestinal tract[J].Gastroenterology,2011,141(1):237-248.e1. [23]XUE J,NGUYEN D T,HABTEZION A.Aryl hydrocarbon receptor regulates pancreatic IL-22 production and protects mice from acute pancreatitis[J].Gastroenterology,2012,143(6):1670-1680.   
+[24]SINGH N P,SINGH U P,SINGH B,et al.Activation of aryl hydrocarbon receptor (AhR) leads to reciprocal epigeneticregulation of FoxP3 and IL-17 expresion and amelioration of experimental colitis[J].PLoS One,2011,6(8):e23522.   
+[25]TAKAMURA T,HARAMA D,MATSUOKA S,et al.Activation of the aryl hydrocarbon receptor pathway may ameliorate dextran sodium sulfate-induced colitis in mice[J].Immunology & Cell Biology,2010,88(6):685-689. [26]TAKAMURA T,HARAMA D,FUKUMOTO S,et al.Lactobacillus bulgaricus OLL1181 activates the aryl hydrocarbon receptor pathway and inhibits colitis[J].Immunology & Cel Biology,2011,89(7):817-822.   
+[27]李良子,刘中泽,陈维刚,等.芳香烃受体对小鼠结肠炎的缓解作用及机制研究[J].免疫学杂 志,2017,33(1):13-17.   
+[28]SHIZUMA T,MORI H,FUKUYAMA N.Protective effect of tryptophan against dextran sulfate sodiuminduced experimental colitis[J].Turkish Journal of Gastroenterology,2013,24(1):30-35.   
+[29]ISLAM J,SATO S,WATANABE K,et al.Dietary tryptophan aleviates dextran sodium sulfate-induced colitis through aryl hydrocarbon receptor in mice[J].The Journal of Nutritional Biochemistry,2017,42:43-50.   
+[30]LI Y,INNOCENTIN S,WITHERS D R,et al.Exogenous stimuli maintain intraepithelial lymphocytes via aryl hydrocarbon receptor activation[J].Cell,2011,147(3):629-640.
+
+[31]GIRARDI M,GLUSAC E,FILLER R B.et al.The distinct contributions of murine T cel receptor (TCR) $\gamma \delta ^ { + }$ and $\mathrm { T C R } \mathfrak { a } \mathfrak { \beta } ^ { + }$ T cells to diferent stages of chemically induced skin cancer[J].The Journal of Experimental Medicine,2003,198(5):747-755.
+
+[32]PUDDINGTON L,OLSON S,LEFRANCOIS L.Interactions between stem cel factor and c-Kit are required for intestinal immune system homeostasis[J].Immunity,1994,1(9):733-739.
+
+[33]FAHRER A M,KONIGSHOFER Y,KERR E M,et al.Attributes of $\gamma \delta$ intraepithelial lymphocytes as suggested bytheir transcriptional profile[J].Proceedings of the National Academy of Sciences of the United States of America,2001,98(18):10261-10266.
+
+[34]WILSON C L,OUELLETTE A J,SATCHELL D P,et al.Regulation of intestinal $\mathfrak { a }$ -defensin activation by the metalloproteinase matrilysin in innate host defense[J].Science,1999,286(5437):113-117.
+
+[35]ABREU M T.Tol-like receptor signaling in the intestinal epithelium:how bacterial recognition shapes intestinal function[J].Nature Reviews Immunology,2010,10(2):131-144.
+
+[36]SPITS H,ARTIS D,COLONNA M,et al.Innate lymphoid cels-a proposal for uniform nomenclature[J].Nature Reviews Immunology,2013,13(2):145-149.
+
+[37] HWANG Y Y,MCKENZIE A N.Innate lymphoid cels in immunity and disease[C]/KATSIKIS P,SCHOENBERGER S,PULENDRAN B.CrossroadsBetween InnateandAdaptiveImmunity.New York:Springer,2013,785:9-26.
+
+[38]SPITS H,DI SANTO JP.The expanding family of innate lymphoid cels:regulators and effectors of immunity and tissue remodeling[J].Nature Immunology,2011,12(1):21-27.
+
+[39]LEE J,CELLA M,MCDONALD K G,et al.AHR drives the development of gut ILC22 cels and postnatal lymphoid tisues via pathways dependent onand independent of Notch[J].Nature Immunology,2011,13(2):144-151.
+
+[40]KISS E A,VONARBOURG C,KOPFMANN S,et al.Natural aryl hydrocarbon receptor ligands control organogenesis of intestinal lymphoid follicles[J].Science,2011,334(6062):1561-1565.
+
+[41]SUN Y V,BOVERHOF D R,BURGOON L D,et al.Comparative analysis of dioxin response elements in human,mouse and rat genomic sequences[J].Nucleic Acids Research,2004,32(15):4512-4523.
+
+[42]JUX B,KADOW S,LUECKE S,et al.The aryl hydrocarbon receptor mediates UVB radiation-induced skin tanning[J].Journal of Investigative Dermatology,2011,131(1):203-210.
+
+[43]KADOW S,JUX B,ZAHNER S P,et al.Aryl hydrocarbon receptor is critical for homeostasis of invariant y8T cells in the murine epidermis[J].Journal of Immunology,2011,187(6):3104-3110.
+
+[44]CHAPPAZ S,GARTNER C,RODEWALD H R,et al.Kit ligand and I17 differentially regulate Peyer' s patch and lymph node development[J].The Journal of Immunology,2010,185(6):3514-3519.
+
+[45]STEVENS E A,MEZRICH J D,BRADFIELD C A.The aryl hydrocarbon receptor:a perspective on potential roles in the immune system[J].Immunology,2009,127(3):299-311.
+
+[46] LUGERING A,ROSS M,SIEKER M,et al.CCR6 identifies lymphoid tissue inducer celswithin cryptopatches[J].Clinical & Experimental Immunology,2010,160(3):440-449.
+
+[47]POSSOT C,SCHMUTZ S,CHEA S,et al.Notch signaling is necessary for adult,but not fetal,development of RORyt+ innate lymphoid cells[J].Nature Immunology,2011,12(10):949-958.
+
+[48] TRIFARI S,KAPLAN C D,TRAN E H,et al.Identification of a human helper T cel population that has abundant production ofinterleukin22and isdistinct from Th-17,Thl and Th2 cels[J].Nature Immunology,2009,10(8):864-871.
+
+[49]ALAM M S,MAEKAWA Y,KITAMURA A,et al.Notch signaling drives IL-22 secretion in $\mathrm { C D 4 ^ { + } }$ T cells by stimulating the aryl hydrocarbon receptor[J].Proceedings of the National Academyof Sciences of the United States of America,2010,107(13):5943-5948.
+
+[50]ZENEWICZ LA,FLAVELLRA.IL-22 and inflammation:leukin' through a glassonion[J].European Journal of Immunol0gy,2008,38(12):3265-3268.
+
+[51]ZHENG Y,VALDEZ P A,DANILENKO D M,et al.Interleukin-22 mediates early host defense against attaching and effacing bacterial pathogens[J].Nature Medicine,20o8,14(3):282-289.
+
+[52] ZELANTE T,IANNITTI R G,CUNHA C,et al.Tryptophan catabolites from microbiota engage aryl hydrocarbon receptor and balance mucosal reactivity via interleukin-22[J].Immunity,2013,39(2):372-385.
+
+[53]SCHIERING C,WINCENT E,METIDJI A,et al.Feedback control of AHR signaling regulates intestinal immunity[J].Nature,2017,542(7640):242-245.
+
+[54]BI YJ,LIU G W,YANG R F.Reciprocal modulation between Th17and other helper Tcell lineages[J].Journal of Cellular Physiology,2011,226(1):8-13.
+
+[55]COOMBESJL,ROBINSON N J,MALOYK J,etal.RegulatoryT celsand intestinal homeostasis[J].Immunological Reviews,2005,204(1):184-194.
+
+[56]READ S,MALMSTROM V,POWRIE F.Cytotoxic T lymphocyte-associated antigen 4 plays an essential role in the function of $\mathrm { C d } 2 5 ^ { + } \mathrm { C d } 4 ^ { + }$ regulatory cells that control intestinal inflammation[J].Journal of Experimental Medicine,2000,192(2):295-302.
+
+[57]MOTTET C,UHLIG H H,POWRIE F.Cutting edge:cure of colitis by $\mathrm { C D } 4 ^ { + } \mathrm { C D } 2 5 ^ { + }$ regulatory T cells[J].The Journal of Immunology,2003,170(8):3939-3943.
+
+[58]VELDHOEN M,HOCKING R J,ATKINS C J,et al.TGF $\beta$ in the context of an inflammatory cytokine milieu supports de novo differentiation of IL-17-Producing Tcells[J].Immunity,2006,24(2):179-189.   
+[59] KIMURA A,KISHIMOTO T.Th17 cells in inflammation[J].International Immunopharmacology,2011,11(3):319-322.   
+[60] ZHANG L Y,ZHANG Y J,ZHONG W W,et al.Heme Oxygenase-1 ameliorates dextran sulfate sodium-induced acute murine colitis by regulating Th17/Tregcellbalance[J].Journal of Biological Chemistry,2014,289(39):26847-26858.   
+[61] MEZRICH J D,FECHNER J H,ZHANG X J,et al.An interaction between kynurenine and the aryl hydrocarbon receptor can generate regulatory Tcells[J].The Journal of Immunology,2010,185(6):3190-3198. [62] CHEN Z J,LIN F,GAO Y Y,et al.FOXP3 and RORγt:transcriptional regulation of Treg and Th17[J].International Immunopharmacology,2011,11(5):536-542.   
+[63]PUNJ S,KOPPARAPU P,JANG H S,et al.Benzimidazoisoquinolines:a new class of rapidly metabolized aryl hydrocarbon receptor (AhR） ligands that induce AhR-Dependent Tregs and prevent murine graft-versus-host disease[J].PLoS One,2014,9(2):e88726.   
+[64]CHRISTIAANSEN A F,BOGGIATTO P M,VARGA S M.Limitations of $\mathrm { F o x p } 3 ^ { + }$ Treg depletion following viral infection in DEREG mice[J].Journal of Immunological Methods,2014,406:58-65.   
+[65] MIZUNO T,SUZUKI R,UMEKI S,et al.Crossreactivity of antibodies to canine CD25 and Foxp3 and identification of canine $\mathrm { C D 4 ^ { + } C D 2 5 ~ ^ { + } F o x p 3 ^ { + } }$ cells in canine peripheral blood[J].Journal of Veterinary Medical Science,2009,71(12):1561-1568.   
+[66] CHAUDHRY A,RUDRA D,TREUTING P,et al $\mathrm { C D 4 ^ { + } }$ regulatory t cells control TH17 responses in a Stat3-dependent manner[J].Science,2009,326(5955):986-991.   
+[67]QUINTANA F J,WEINER H L.Environmental control of Th17 diferentiation[J].European Journal of Immunol0gy,2009,39(3):655-657.   
+[68]YANG E J,LEE J,LEE S Y,et al.EGCG atenuates autoimmune arthritis by inhibition of STAT3 and HIF- $1 \alpha$ （204 with Th17/Treg control[J].PLoS One,2014,9(2):e86062.   
+[69]ROSILLO M A,SANCHEZ-HIDALGO M,SANCHEZ-FIDALGO S,et al.Dietary extra-virgin olive oil prevents inflammatory response and cartilage matrix degradation in murine collagen-induced arthritis[J].European
+
+Journal of Nutrition,2016,55(1):315-325.
+
+Research Progress of Aryl Hydrocarbon Receptor in Regulating Intestinal Inflammation LI Chengliang1QI Guanghai1,2PENG peng1FANG Rejun1\* (1. College of Animal Science and Technology,Hunan Agricultural University, Changsha 410128,China;2.Feed Research Institute, Chinese Academy of Agricultural Sciences, Key Laboratory ofFeed Biotechnology of Ministry of Agriculture, Beijing 10o081, China)
+
+Abstract:The aryl hydrocarbon receptor (AhR) is a transcription factor activated by synthetic ligands,and has important role on environmental toxins,organism metabolism and immunomodulatory. It has recently reported that AhR is a key factor in immune regulation,AhR regulating the inflammatory bowel disease (IBD) has become hot topic in currnt research.This article reviews the latest research on structure,ligand and signal transduction pathway of AhR and AhR regulating the intestinal inflammation, and provide new ideas for cure the IBD. Key words: aryl hydrocarbon receptor; ligands; immunomodulatory; inflammatory bowel disease

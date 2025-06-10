@@ -1,0 +1,847 @@
+[
+    {
+        "type": "text",
+        "text": "PHYSICALREVIEWA,VOLUME61,063613 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Phase separation of Bose gases at finite temperature ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hualin Shi,1.² Wei-Mou Zheng,² and Siu-Tat Chui1   \n1Bartol Research Institute, University of Delaware, Newark, Delaware 19716   \n2Institute of Theoretical Physics, Academia Sinica, Beijing 100080, China (Received 15 December 1999;published 17 May 2000) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Phase separation of two-component untrapped and trapped Bose gases at finite temperature is studied. Conditions for the stability of a homogeneous binary Bose gas mixture at finite temperature and the density profile of the trapped binary mixture are obtained. Our extended results include the known results for zero temperature. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS number(s): 03.75.Fi, 05.30.Jp, $6 4 . 7 5 . + \\mathrm { g }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Since the realization of Bose-Einstein condensation (BEC) in dilute atomic gases [1],a number of interesting experiments have been conducted to investigate multicomponent Bose gases,in which two or more internal states of condensates exist together in a magnetic or optical trap [2-6]. The dynamical response of the condensates to a discontinuous change in an internal state and the dynamics of component separation have been studied [3]. The relative phase between two condensate states has been measured using a time-domain separated-oscillatory-field condensate interferometer [4]. Spin domains in spinor Bose-Einstein condensates have also been studied [7,8]. Very recently, vortex states have been obtained in a two-component Bose gas [9]. The progress in the experiments exploring dilute mixtures of quantum gases has stimulated intensive research on the properties of mixed Bose gases.There are many theoretical studies on the properties of trapped two-component Bose gases at zero temperature [1O-18]. The spatial structures of condensates have been studied by means of the ThomasFermi approximation [1O],or by a direct numerical treatment of the two-component Gross-Pitaevskii equation [11-13] and Monte Carlo simulation [14]. Collective excitations of two-species condensates have been studied for both the homogeneous and inhomogeneous cases [15,17,18]. Due to interspecies interactions，the condensate mixture displays novel behavior not found in a pure condensate.Under certain conditions the system becomes unstable with respect to stratification,i.e.,spatial separation between the two condensates,which is called phase segregation.Much of the interesting behavior of binary mixture Bose gases happens in this regime.For example,in a cylindrically symmetric trap, Chui et al.[14] and Ohberg and Stenholm[13] found the absence of cylindrical symmetry in the density difference of a binary mixture of alkali atoms in the phase segregated regime. In most of the calculations, the effects of finite tempera",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ture have not been discussed.Although temperature fluctua tion is included in the Monte Carlo simulation[14],effects of the thermal cloud on the condensate have not been considered. How these structures change with temperature is thus a very interesting problem.As we know,at a certain temperature a Bose gas mixture may undergo Bose-Einstein condensation.If the two components do not interact, the condensates will form and disappear independently，showing two different transition temperatures.With intercomponent interaction turned on,the presence of one condensate will affect the formation of the other.This will shift the transition temperature,depending on the strength of the interaction between the two components.A more important effect of the interaction is that it may lead to phase segregation,from which rich spatial structures come. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we pay more attention to finite temperature. We first derive conditions for phase separation at different temperatures for the untrapped homogeneous binary mixture. Our results agree with those obtained by analyzing the stability of collective excitations at zero temperature.We then investigate properties of the trapped binary mixture of Bose gases by means of the local density approximation.We obtain the density profile of the condensate at finite temperature,which includes the results given in Ref.[1O] for zero temperature. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The paper is organized as follows.In Sec.I we study the phase separation of as untrapped homogeneous binary mixture of Bose gases.In Sec.III we extend the discussion to the case of a trapped binary mixture of Bose gases. Section IV is a brief summary. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "II.HOMOGENEOUSBINARYMIXTUREOFBOSEGASES ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Two-component ideal Bose gases are rather simple.There are no interactions between the components,so the two components behave independently.There are two critical temperatures $\\boldsymbol { T } _ { c 1 }$ and $T _ { c 2 }$ ，which describe the two BEC transitions.However,when the interatomic interaction is turned on, the two critical temperatures and the thermodynamic behavior of the mixed system may change [19-22].A new phenomenon,phase separation,may appear.We start with homogeneous Bose gases and then consider the inhomogeneous case. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Helmholtz free energy of a homogenous binary mix ture of Bose gases can be written as ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { F } _ { \\mathrm { m i x } } = \\boldsymbol { F } _ { 1 } + \\boldsymbol { F } _ { 2 } + \\boldsymbol { F } ^ { I }\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "where $F _ { 1 }$ and $F _ { 2 }$ are the Helmholtz free energies of components 1 and 2,and $F ^ { I }$ is the contribution of the intercomponent interaction.According to the thermodynamical theory of mixtures,the homogeneous phase is stable only when the symmetric matrix $\\hat { \\mu }$ ，whose elements $\\mu _ { i j }$ are the derivatives $( \\partial \\mu _ { i } / \\partial \\rho _ { j } ) _ { T , V }$ of the chemical potentials,is non-negatively definite, i.e.,when the determinants of all principal minors of $\\hat { \\mu }$ are non-negative [23]. For a binary mixed system,the stability conditions are ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { 1 1 } { \\geq } 0 , \\mu _ { 2 2 } { \\geq } 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname * { d e t } \\left( \\begin{array} { c c } { \\mu _ { 1 1 } } & { \\mu _ { 1 2 } } \\\\ { \\mu _ { 2 1 } } & { \\mu _ { 2 2 } } \\end{array} \\right) \\geqslant 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "If these conditions are not all satisfied, the homogeneous phase is no longer stable. The system may evolve to a nonhomogeneous phase where one region is rich in one component and the other region rich in the other component. This phenomenon is called phase separation.As we know, $\\boldsymbol { F } _ { i }$ takes different formulas when the temperature is below and above the BEC transition temperature.So,dependent on temperature,the behavior of phase separation will be different.For specificity of discussion,we assume ${ T _ { c 1 } > T _ { c 2 } }$ .We now consider three different temperature regimes. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A. The case of ${ \\cal T } { \\geq } { \\cal T } _ { c 1 }$ ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "When the temperature $T \\gtrless T _ { c 1 }$ ,，both components are in the normal phase.The Helmholtz free energies can be written as [24] ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta F _ { i } = N _ { i } \\ln z _ { i } - \\frac { V } { \\lambda _ { i } ^ { 3 } } g _ { 5 / 2 } ( z _ { i } ) + 2 a _ { i } \\rho _ { i } N _ { i } \\lambda _ { i } ^ { 2 } , i = 1 , 2 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\rho _ { i } , z _ { i } { = } \\exp ( \\beta \\mu _ { i } )$ ，and $\\lambda _ { i } { = } \\sqrt { 2 \\pi \\hbar ^ { 2 } / m _ { i } k T }$ are，respectively,the density,fugacity,and thermal wavelength for the component $i$ ，and $a _ { i }$ is the $s$ -wave scattering length.The particle number $N _ { i }$ is given by ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN _ { i } { = } \\frac { V } { \\lambda _ { i } ^ { 3 } } g _ { 3 / 2 } ( z _ { i } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The expression for the contribution of the interaction between the components,which is valid for a homogenous state in all temperature regimes,takes the form [25] ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta F ^ { I } { = } a _ { 1 2 } ( \\lambda _ { 1 } ^ { 2 } { + } \\lambda _ { 2 } ^ { 2 } ) N _ { 1 } N _ { 2 } / V ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $a _ { 1 2 }$ is the scattering length between the two components.From Eqs.(4) and (6),we obtain the chemical potentials as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } & { } & { \\beta \\mu _ { 1 } = \\beta \\mu _ { 1 } ^ { ( 0 ) } + 4 a _ { 1 } \\rho _ { 1 } \\Lambda _ { 1 } ^ { 2 } + a _ { 1 2 } \\rho _ { 2 } ( \\Lambda _ { 1 } ^ { 2 } + \\lambda _ { 2 } ^ { 2 } ) , } \\\\ & { } & \\\\ & { } & { \\beta \\mu _ { 2 } = \\beta \\mu _ { 2 } ^ { ( 0 ) } + 4 a _ { 2 } \\rho _ { 2 } \\Lambda _ { 2 } ^ { 2 } + a _ { 1 2 } \\rho _ { 1 } ( \\Lambda _ { 1 } ^ { 2 } + \\lambda _ { 2 } ^ { 2 } ) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\mu _ { i } ^ { ( 0 ) }$ are the component chemical potentials for the ideal Bose mixture when the interaction is turned off.The second terms come from the mean field of atoms of the same kind and the third terms from that of atoms of the different kind. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We now analyze the stability of the binary mixture.For convenience later on we use $\\beta \\hat { \\mu }$ instead of $\\hat { \\mu }$ ,but still keep the same notation $\\hat { \\mu }$ . From Eqs.(7） and(8),the diagonal elements of $\\hat { \\mu }$ are ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } {  { \\mu _ { 1 1 } = \\frac { \\partial \\beta \\mu _ { 1 } } { \\partial \\rho _ { 1 } } = \\frac { \\partial \\beta \\mu _ { 1 } ^ { ( 0 ) } } { \\partial \\rho _ { 1 } } + 4 a _ { 1 } \\lambda _ { 1 } ^ { 2 } , } } \\\\ & { } & \\\\ & { } & { \\mu _ { 2 2 } = \\frac { \\partial \\beta \\mu _ { 1 } } { \\partial \\rho _ { 2 } } = \\frac { \\partial \\beta \\mu _ { 2 } ^ { ( 0 ) } } { \\partial \\beta \\rho _ { 2 } } + 4 a _ { 2 } \\lambda _ { 2 } ^ { 2 } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "and the off-diagonal elements of $\\hat { \\mu }$ can be written as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { 1 2 } { = } \\mu _ { 2 1 } { = } ( \\lambda _ { 1 } ^ { 2 } { + } \\lambda _ { 2 } ^ { 2 } ) a _ { 1 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "By taking derivatives on both sides of Eq.(5) with respect to $\\rho _ { i }$ , the derivative of the chemical potential $\\mu _ { i } ^ { ( 0 ) }$ for the ideal Bose gas is found to be ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial \\beta \\mu _ { i } ^ { ( 0 ) } } { \\partial \\rho _ { i } } = \\frac { \\lambda _ { i } ^ { 3 } } { g _ { 1 / 2 } ( g _ { 3 / 2 } ^ { - 1 } ( \\lambda _ { i } ^ { 3 } \\rho _ { i } ) ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where we have used the relation $z \\partial g _ { \\nu } ( z ) / \\partial z = g _ { \\nu - 1 } ( z ) .$ The determinant of the symmetric matrix $\\hat { \\mu }$ can then be written as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle { A = \\operatorname * { d e t } ( \\hat { \\mu } ) = \\prod _ { i = 1 , 2 } \\left[ \\frac { \\lambda _ { i } ^ { 3 } } { g _ { 1 / 2 } ( g _ { 3 / 2 } ^ { - 1 } ( \\lambda _ { i } ^ { 3 } \\rho _ { i } ) ) } + 4 a _ { i } \\lambda _ { i } ^ { 2 } \\right] } } } \\\\ { { - ( \\lambda _ { 1 } ^ { 2 } + \\lambda _ { 2 } ^ { 2 } ) ^ { 2 } a _ { 1 2 } ^ { 2 } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Let us consider the two limiting cases of $T {  } { \\infty }$ and $T$ $ T _ { c 1 }$ . When $T { \\longrightarrow } \\infty$ ，then $\\lambda {  } 0$ ，which leads to ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { 1 / 2 } ( g _ { 3 / 2 } ^ { - 1 } ( \\lambda _ { i } ^ { 3 } \\rho _ { i } ) ) { \\approx } \\lambda _ { i } ^ { 3 } \\rho _ { i } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We then have $\\mu _ { 1 1 } = 1 / \\rho _ { 1 } , \\mu _ { 2 2 } = 1 / \\rho _ { 2 }$ ,and $A { \\approx } 1 / \\rho _ { 1 } \\rho _ { 2 }$ . These are all positive. Thus,at high temperature the homogeneous phase of the binarymixture isalways stable,as it should be. No phase separation happens at a very high temperature. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "When $T \\mathrm { \\longrightarrow } T _ { c 1 }$ ，from Eq.(5) $\\bar { \\lambda } _ { 1 } ^ { 3 } \\rho _ { 1 } { \\stackrel { - } { \\longrightarrow } } g _ { 3 / 2 } \\bar { ( 1 ) } \\approx 2 . 6 1 2$ hence",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { 1 / 2 } ( g _ { 3 / 2 } ^ { - 1 } ( \\lambda _ { i } ^ { 3 } \\rho _ { i } ) ) { = } g _ { 1 / 2 } ( 1 ) {  } \\infty .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this case, $\\mu _ { 1 1 }$ and $\\mu _ { 2 2 }$ reduce to ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { 1 1 } = 4 a _ { 1 } \\lambda _ { c 1 } ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { 2 2 } { = } \\frac { \\lambda _ { 2 } ^ { 3 } } { g _ { 1 / 2 } ( g _ { 3 / 2 } ^ { - 1 } ( 2 . 6 1 2 ( T _ { c 2 } / T _ { c 1 } ) ^ { 3 / 2 } ) ) } + 4 a _ { 2 } \\lambda _ { 2 } ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c c } { { A _ { c 1 } { = } 4 a _ { 1 } \\lambda _ { c 1 } ^ { 2 } { \\left[ { \\frac { \\lambda _ { 2 } ^ { 3 } } { g _ { 1 / 2 } ( g _ { 3 / 2 } ^ { - 1 } ( 2 . 6 1 2 ( T _ { c 2 } / T _ { c 1 } ) ^ { 3 / 2 } ) ) } } + 4 a _ { 2 } \\lambda _ { 2 } ^ { 2 } \\right] } } } \\\\ { { - ( \\lambda _ { c 1 } ^ { 2 } + \\lambda _ { 2 } ^ { 2 } ) ^ { 2 } a _ { 1 2 } ^ { 2 } , } } & { { ( } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\lambda _ { c i }$ denotes $\\lambda _ { i }$ at temperature ${ T = T _ { c i } }$ . When the interatomic interaction of the component 1 is attractive, $\\mu _ { 1 1 }$ $< 0$ . Thus the homogeneous phase is never stable for attractive Bose gases,as is well known. In the following discussion,we shall consider only the case when the inter- and intracomponent interactions are repulsive.From Eq.(3） we obtain the stability condition for the homogeneous phase, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\lambda _ { 2 } / a _ { 2 } } { g _ { 1 / 2 } ( g _ { 3 / 2 } ^ { - 1 } ( 2 . 6 1 2 ( T _ { c 2 } / T _ { c 1 } ) ^ { 3 / 2 } ) ) } + 4 > \\chi ^ { 2 } \\frac { a _ { 1 2 } ^ { 2 } } { a _ { 1 } a _ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\chi = \\frac { m _ { 1 } + m _ { 2 } } { 2 \\sqrt { m _ { 1 } m _ { 2 } } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A threshold value $a _ { 1 2 } ^ { u }$ of $a _ { 1 2 }$ is determined by $A _ { c 1 } = 0$ to be ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\na _ { 1 2 } ^ { u } { = } \\left( \\frac { \\lambda _ { 2 } / a _ { 2 } } { g _ { 1 / 2 } ( g _ { 3 / 2 } ^ { - 1 } ( g _ { 3 / 2 } ( 1 ) ( T _ { c 2 } / T _ { c 1 } ) ^ { 3 / 2 } ) ) } + 4 \\right) ^ { 1 / 2 } \\frac { \\sqrt { a _ { 1 } a _ { 2 } } } { \\chi } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "When $a _ { 1 2 } > a _ { 1 2 } ^ { u }$ , phase separation will occur at a temperature above Tc1· ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As a simple example,when $T _ { c 1 } { = } T _ { c 2 } { \\equiv } T _ { c }$ ，the condition (17) reduces to ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA \\propto 4 a _ { 1 } a _ { 2 } - \\chi ^ { 2 } a _ { 1 2 } ^ { 2 } > 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Since $g _ { \\nu } ( z )$ is monotonic, $A$ will increase with temperature. So if condition (2O) is satisfied no phase separation occurs in this system at $T > T _ { c 1 }$ If $4 a _ { 1 } a _ { 2 } { < } \\chi ^ { 2 } a _ { 1 2 } ^ { 2 }$ ,the homogeneous phase will not always be stable at $T > T _ { c }$ ．There is a temperature below which the homogeneous phase becomes unstable and phase separation takes place.For the simple case of $a _ { 1 } = a _ { 2 }$ ， $m _ { 1 } = m _ { 2 }$ ，and $\\rho _ { 1 } { = } \\rho _ { 2 }$ ,from Eq.(13）the critical temperature for the phase separation is determined by ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\lambda _ { 1 } } { g _ { 1 / 2 } ( g _ { 3 / 2 } ^ { - 1 } ( \\lambda _ { 1 } ^ { 3 } \\rho _ { 1 } ) ) } { = 2 a _ { 1 2 } - 4 a _ { 1 } . }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Generally,the critical temperature for phase separation has to be found numerically. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "B. The case of $\\scriptstyle { T _ { c 2 } < T < T _ { c 1 } }$ ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ata temperature between the two critical temperatures for BEC,component 1 has undergone condensation,while component 2 is still in a normal state. The Helmholtz free energy for component 1 should be written as [24] ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c l c r } { { \\beta F _ { 1 } = - \\displaystyle \\frac { V } { \\lambda _ { 1 } ^ { 3 } } g _ { 5 / 2 } ( 1 ) + 2 a _ { 1 } \\lambda _ { 1 } ^ { 2 } N _ { 1 } ^ { 2 } / V - a _ { 1 } \\lambda _ { 1 } ^ { 2 } N _ { 1 s } ^ { 2 } / V } } \\\\ { { } } \\\\ { { } } & { { = - \\displaystyle \\frac { V } { \\lambda _ { 1 } ^ { 3 } } g _ { 5 / 2 } ( 1 ) + \\displaystyle \\frac { a _ { 1 } \\lambda _ { 1 } ^ { 2 } N _ { 1 } ^ { 2 } } { V } \\biggl [ 1 + 2 \\biggl ( \\displaystyle \\frac { T } { T _ { c 1 } } \\biggr ) ^ { 3 / 2 } - \\biggl ( \\displaystyle \\frac { T } { T _ { c 1 } } \\biggr ) ^ { 3 } \\biggr ] , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where the relation $N _ { 1 s } { = } N _ { 1 } [ 1 { - } ( T / T _ { c 1 } ) ^ { 3 / 2 } ]$ for the number of atoms in the condensate has been used in the derivation. The Helmholtz free energy of component 2 is still given by expression (4).Including the contribution from the intercomponent interaction,we have the chemical potential ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta \\mu _ { 1 } = 2 a _ { 1 } \\Lambda _ { 1 } ^ { 2 } \\rho _ { 1 } \\Bigg [ 1 + 2 \\Bigg ( \\frac { T } { T _ { c 1 } } \\Bigg ) ^ { 3 / 2 } - \\Bigg ( \\frac { T } { T _ { c 1 } } \\Bigg ) ^ { 3 } \\Bigg ] + a _ { 1 2 } \\rho _ { 2 } ( \\Lambda _ { 1 } ^ { 2 } + \\lambda _ { 2 } ^ { 2 } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The elements $\\mu _ { 1 1 }$ and $\\mu _ { 1 2 }$ of matrix $\\hat { \\mu }$ can then be calculated as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { 1 1 } = \\frac { \\partial \\beta \\mu _ { 1 } } { \\partial \\rho _ { 1 } } = 2 a _ { 1 } \\Lambda _ { 1 } ^ { 2 } \\Bigg [ 1 + 2 \\left( \\frac { T } { T _ { c 1 } } \\right) ^ { 3 / 2 } - \\left( \\frac { T } { T _ { c 1 } } \\right) ^ { 3 } \\Bigg ] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { 1 2 } = \\frac { \\partial \\beta \\mu _ { 1 } } { \\partial \\rho _ { 2 } } = a _ { 1 2 } ( \\lambda _ { 1 } ^ { 2 } + \\lambda _ { 2 } ^ { 2 } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "while $\\mu _ { 2 2 }$ is the same as Eq.(1O).Finally,we obtain the determinant $A$ of matrix $\\hat { \\mu }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle { A = 2 a _ { 1 } \\lambda _ { 1 } ^ { 2 } \\Bigg [ 1 + 2 \\left( \\frac { T } { T _ { c 1 } } \\right) ^ { 3 / 2 } - \\left( \\frac { T } { T _ { c 1 } } \\right) ^ { 3 } \\Bigg ] } } } \\\\ { { \\displaystyle { \\qquad \\times \\left[ \\frac { \\lambda _ { 2 } ^ { 3 } } { g _ { 1 / 2 } ( g _ { 3 / 2 } ^ { - 1 } ( \\lambda _ { 2 } ^ { 3 } \\rho _ { 2 } ) ) } + 4 a _ { 2 } \\lambda _ { 2 } ^ { 2 } \\right] - ( \\lambda _ { 1 } ^ { 2 } + \\lambda _ { 2 } ^ { 2 } ) ^ { 2 } a _ { 1 2 } ^ { 2 } } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "When ${ T = { T _ { c 1 } } }$ ， $A$ reduces to the same expression as Eq. (16). At ${ T = { T _ { c 2 } } }$ ，determinant $A$ becomes ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { A _ { c 2 } { = } 8 a _ { 1 } a _ { 2 } \\lambda _ { 1 } ^ { 2 } \\lambda _ { c 2 } ^ { 2 } \\Bigg [ 1 + 2 \\Bigg ( \\displaystyle \\frac { T _ { c 2 } } { T _ { c 1 } } \\Bigg ) ^ { 3 / 2 } { - } \\Bigg ( \\displaystyle \\frac { T _ { c 2 } } { T _ { c 1 } } \\Bigg ) ^ { 3 } \\Bigg ] } } \\\\ { { - ( \\lambda _ { 1 } ^ { 2 } { + } \\lambda _ { 2 c } ^ { 2 } ) ^ { 2 } a _ { 1 2 } ^ { 2 } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Another threshold value of $a _ { 1 2 }$ for phase separation is ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\na _ { 1 2 } ^ { d } \\mathrm { = } \\frac { \\sqrt { 2 a _ { 1 } a _ { 2 } } } { \\chi } \\Biggl [ 1 + 2 \\left( \\frac { T _ { c 2 } } { T _ { c 1 } } \\right) ^ { 3 / 2 } - \\left( \\frac { T _ { c 2 } } { T _ { c 1 } } \\right) ^ { 3 } \\Biggr ] ^ { 1 / 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "When the scattering length $a _ { 1 2 }$ satisfies $a _ { 1 2 } ^ { d } { < } a _ { 1 2 } { < } a _ { 1 2 } ^ { u }$ , phase separation occurs below a certain temperature in the interval $( T _ { c 2 } , T _ { c 1 } )$ .When the two critical temperatures coincide,i.e., ${ T _ { c 1 } = T _ { c 2 } }$ , the two thresholds become identical as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\na _ { 1 2 } ^ { d } { = } a _ { 1 2 } ^ { u } { = } 2 \\sqrt { a _ { 1 } a _ { 2 } } / \\chi ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "which is consistent with Eq. (2O).The critical temperature of the phase separation for the binary mixture with $a _ { 1 2 } ^ { d } { < } a _ { 1 2 }$ ${ < a _ { 1 2 } ^ { u } }$ can be determined from $A = 0$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "C. The case of $\\scriptstyle { T < T _ { c 2 } }$ ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "When the temperature ${ T < T _ { c 2 } }$ ，both of the two components have undergone Bose-Einstein condensation. The Helmholtz free energies for components 1 and 2 are of the same form as Eq. (22). The chemical potentials $\\mu _ { 1 }$ and $\\mu _ { 2 }$ and the elements of matrix $\\hat { \\mu }$ then take corresponding forms similar to Eqs.(23)-(25).It is easy to derive the result that ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/77b29461a037a61227c85226eef78658ff8db0e6eba9cd1707df4a6af661f2d6.jpg",
+        "img_caption": [
+            "FIG.1.Dependence of the critical temperature of phase separation on $\\mathsf { s } = \\chi \\bar { a } _ { 1 2 } / \\sqrt { a _ { 1 } a _ { 2 } }$ .Here we take $\\lambda _ { c 1 } / a _ { 1 } = 1 0$ ， $\\lambda _ { c 2 } / a _ { 2 } = 1 0$ and $T _ { c 1 } = 2 T _ { c 2 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA = \\prod _ { i = 1 , 2 } 2 a _ { i } \\lambda _ { i } ^ { 2 } \\Bigg [ 1 + 2 \\left( \\frac { T } { T _ { c i } } \\right) ^ { 3 / 2 } - \\left( \\frac { T } { T _ { c i } } \\right) ^ { 3 } \\Bigg ] - ( \\lambda _ { 1 } ^ { 2 } + \\lambda _ { 2 } ^ { 2 } ) ^ { 2 } a _ { 1 2 } ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Phase-separation conditions are determined from $A = 0$ as in the above cases.At temperature ${ T = { T _ { c 2 } } }$ , this leads to the threshold $a _ { 1 2 } ^ { d }$ for $a _ { 1 2 }$ .When $a _ { 1 2 } < a _ { 1 2 } ^ { d }$ , phase separation occurs only at ${ T < T _ { c 2 } }$ . Another threshold $\\boldsymbol { a } _ { 1 2 } ^ { o }$ for $a _ { 1 2 }$ corresponds to the limit $T {  } 0$ ，where ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { 0 } { \\approx } 4 a _ { 1 } a _ { 2 } \\Lambda _ { 1 } ^ { 2 } \\Lambda _ { 2 } ^ { 2 } { - } ( \\Lambda _ { 1 } ^ { 2 } { + } \\lambda _ { 2 } ^ { 2 } ) ^ { 2 } a _ { 1 2 } ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "which implies ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\na _ { 1 2 } ^ { o } { = } \\chi \\sqrt { a _ { 1 } a _ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "When $a _ { 1 2 } ^ { o } < a _ { 1 2 } < a _ { 1 2 } ^ { d }$ , phase separation occurs at a temperature below some $T _ { s } \\in ( 0 , T _ { c 2 } )$ . If $a _ { 1 2 } < a _ { 1 2 } ^ { o }$ , no phase separation occurs in this temperature regime.For $m _ { 1 } = m _ { 2 }$ ,expression (31） reduces to $\\stackrel { \\circ } { a } _ { 1 2 } ^ { o } = \\sqrt { a _ { 1 } a _ { 2 } }$ ，recovering the stability condition at zero temperature derived in Ref.[16], based on the stability analysis of elementary excitations. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For $a _ { 1 2 } ^ { o } < a _ { 1 2 } < a _ { 1 2 } ^ { d }$ , the temperature of phase separation is determined by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\prod _ { i = 1 , 2 } \\left[ 1 + 2 \\left( \\frac { T } { T _ { c i } } \\right) ^ { 3 / 2 } - \\left( \\frac { T } { T _ { c i } } \\right) ^ { 3 } \\right] = \\frac { \\chi ^ { 2 } a _ { 1 2 } ^ { 2 } } { a _ { 1 } a _ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "which, as a quartic equation in $T ^ { 3 / 2 }$ ,admits an analytic solution. For the simplifed special case of $T _ { c _ { 1 } } = T _ { c 2 }$ , the result is ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { s } { = } ( 1 - \\sqrt { 2 - \\chi a _ { 1 2 } / \\sqrt { a _ { 1 } a _ { 2 } } } ) ^ { 2 / 3 } T _ { c 1 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The above discussion shows different behaviors of the phase separation in different temperature regimes.In Fig.1 we plot the critical temperature for the phase separation as a function of $\\mathsf { \\Omega } _ { \\mathsf { S } } = \\chi a _ { 1 2 } / \\sqrt { a _ { 1 } a _ { 2 } }$ ， setting the other parameters at $\\lambda _ { c 1 } / a _ { 1 } = \\lambda _ { c 2 } / a _ { 2 } = 1 0$ and $T _ { c 1 } = 2 T _ { c 2 }$ . Results near the two BEC transition temperatures $T _ { c 1 }$ and ${ T _ { c 2 } }$ are not very accurate according to the discussion in Ref.[24]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "III.TRAPPEDBINARYMIXTUREOFBOSEGASES ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In real experiments,systems are not homogeneous.Bose atoms are trapped in an external potential.We shall extend the above discussion for the homogeneous binary mixture to a trapped binary mixture,using the local density approximation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the discussion below,by $T _ { c 1 }$ and ${ T _ { c 2 } }$ we mean the BEC transition temperatures of the two trapped components. We still assume that $T _ { c 1 } > T _ { c 2 }$ .When $T > T _ { c 1 }$ ,both components are in the normal phase.As given in Ref.[26], the local grand potential is ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } {  { \\Omega ( { \\bf r } ) \\approx k T \\sum _ { i = 1 , 2 } \\big [ - \\mathsf { \\boldsymbol { \\lambda } } _ { i } ^ { - 3 } g _ { 5 / 2 } ( z _ { i } ) + 2 a _ { i } \\rho _ { i } ^ { 2 } \\mathsf { \\boldsymbol { \\lambda } } _ { i } ^ { 2 } \\big ] } } \\\\ & { } & { + a _ { 1 2 } ( \\mathsf { \\boldsymbol { \\lambda } } _ { 1 } ^ { 2 } + \\mathsf { \\boldsymbol { \\lambda } } _ { 2 } ^ { 2 } ) \\rho _ { 1 } \\rho _ { 2 } , \\quad \\quad } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "and the density distributions ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } & { } & { \\rho _ { 1 } ( { \\bf r } ) \\approx \\lambda _ { 1 } ^ { - 3 } g _ { 3 / 2 } ( \\xi _ { 1 } ) , } \\\\ & { } & { \\rho _ { 2 } ( { \\bf r } ) \\approx \\lambda _ { 2 } ^ { - 3 } g _ { 3 / 2 } ( \\xi _ { 2 } ) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "with ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\xi _ { 1 } = z _ { 1 } \\exp [ - \\beta V ( { \\bf r } ) - 4 a _ { 1 } \\lambda _ { 1 } ^ { 2 } \\rho _ { 1 } ( { \\bf r } ) - 2 a _ { 1 2 } ( \\lambda _ { 1 } ^ { 2 } + \\lambda _ { 2 } ^ { 2 } ) \\rho _ { 2 } ( { \\bf r } ) ] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\xi _ { 2 } = z _ { 2 } \\exp [ - \\beta V ( \\mathbf { r } ) - 4 a _ { 2 } \\lambda _ { 2 } ^ { 2 } \\rho _ { 2 } ( \\mathbf { r } ) - 2 a _ { 1 2 } ( \\lambda _ { 1 } ^ { 2 } + \\lambda _ { 2 } ^ { 2 } ) \\rho _ { 1 } ( \\mathbf { r } ) ] .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The chemical potential may be determined from the normalization relations ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN _ { 1 } { = } \\int d { \\mathbf r } \\rho _ { 1 } ( { \\mathbf r } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN _ { 2 } { = } \\int d { \\bf r } \\rho _ { 2 } ( { \\bf r } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For the general power-law potential ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ( \\mathbf { r } ) = \\epsilon _ { 1 } \\bigg | \\frac { x } { L _ { 1 } } \\bigg | ^ { p } + \\epsilon _ { 2 } \\bigg | \\frac { y } { L _ { 2 } } \\bigg | ^ { l } + \\epsilon _ { 3 } \\bigg | \\frac { z } { L _ { 3 } } \\bigg | ^ { q } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "with $\\epsilon _ { i } , L _ { i } , p , l$ and $q$ being parameters for the potential, by integrating the local grand potential over the whole volume,we find the total grand potential of the system to be ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\Omega _ { \\mathrm { m i x } } = \\displaystyle - \\sum _ { i = 1 , 2 } \\frac { W } { \\lambda _ { i } ^ { 3 } \\beta ^ { \\eta + 1 / 2 } } \\big [ g _ { \\eta + 1 } ( z _ { i } ) - 2 a _ { i } \\lambda _ { i } ^ { - 1 } H _ { 3 / 2 , 3 / 2 , \\eta } ( z _ { i } , z _ { i } ) \\big ] } } \\\\ { { \\mathrm { } } } \\\\ { { \\displaystyle ~ + \\frac { W a _ { 1 2 } ( \\lambda _ { 1 } ^ { 2 } + \\lambda _ { 2 } ^ { 2 } ) } { \\lambda _ { 1 } ^ { 3 } \\lambda _ { 2 } ^ { 3 } \\beta ^ { \\eta + 1 / 2 } } H _ { 3 / 2 , 3 / 2 , \\eta } ( z _ { 1 } , z _ { 2 } ) , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\eta { = } \\frac { 1 } { p } + \\frac { 1 } { l } + \\frac { 1 } { q } + \\frac { 1 } { 2 } , \\quad H _ { \\delta , \\nu , \\sigma } ( x , y ) { = } \\sum _ { i , j = 1 } ^ { \\infty } \\frac { x ^ { i } y ^ { j } } { i ^ { \\delta } j ^ { \\nu } ( i + j ) ^ { \\sigma - 1 / 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { W { = } \\frac { { 8 L _ { 1 } L _ { 2 } L _ { 3 } I ( p , l , q ) } } { { \\varepsilon _ { 1 } ^ { 1 / p } \\varepsilon _ { 2 } ^ { 1 / l } \\varepsilon _ { 3 } ^ { 1 / q } } } , } \\\\ { I ( p , l , q ) { = } ( p l q ) ^ { - 1 } \\Gamma ( 1 / p ) \\Gamma ( 1 / l ) \\Gamma ( 1 / q ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Using a procedure similar to that of Refs.[2O,21],we can discuss the thermodynamic properties of the binary mixture, and then examine the stability of the thermodynamical states. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A more interesting case is when ${ T _ { c 2 } } < T { < } { T _ { c 1 } }$ . Since component 2 is in a thermal state,its density distribution can still be written as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho _ { 2 } ( \\mathbf r ) \\approx \\lambda _ { 2 } ^ { - 3 } g _ { 3 / 2 } ( \\xi _ { 2 } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "However,the density distribution of component 1 has no simple unique form over the volume.In the domain without a condensate,the density distribution can be characterized by the parameter $\\mu _ { 1 }$ ，which is similar to the case when $T$ ${ > } T _ { c 1 }$ . In the domain with a condensate,the density distribution is quite different.From Eqs.(6) and (22),in the condensate domain the Helmholtz free energy density can be written as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\beta f _ { 1 } = - \\lambda _ { 1 } ^ { - 3 } g _ { 5 / 2 } ( 1 ) + 2 a _ { 1 } \\Lambda _ { 1 } ^ { 2 } \\rho _ { 1 } ^ { 2 } - a _ { 1 } \\Lambda _ { 1 } ^ { 2 } \\rho _ { 1 s } ^ { 2 } + \\beta V ( \\mathbf { r } ) \\rho _ { 1 } } \\\\ { + a _ { 1 2 } ( \\Lambda _ { 1 } ^ { 2 } + \\lambda _ { 2 } ^ { 2 } ) \\rho _ { 1 } \\rho _ { 2 } , \\qquad \\quad } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\rho _ { 1 s }$ is the condensate density,which,together with the uniform thermal density distribution $\\rho _ { 1 0 }$ ，gives $\\rho _ { 1 } ( \\mathbf { r } )$ $= \\rho _ { 1 s } ( \\mathbf { r } ) + \\rho _ { 1 0 }$ . The chemical potential of component 1 then takes the form ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { 1 } = G _ { 1 1 } ( \\rho _ { 1 } ( \\mathbf { r } ) + \\rho _ { 1 0 } ) + G _ { 1 2 } \\rho _ { 2 } ( \\mathbf { r } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { i i } { = } \\frac { 4 \\pi a _ { i } \\hbar ^ { 2 } } { m _ { i } } , \\quad G _ { 1 2 } { = } \\frac { 2 \\pi a _ { 1 2 } \\hbar ^ { 2 } ( m _ { 1 } + m _ { 2 } ) } { m _ { 1 } m _ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Thus,we have ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho _ { 1 } ( \\mathbf { r } ) = [ \\mu _ { 1 } - V ( \\mathbf { r } ) - G _ { 1 2 } \\rho _ { 2 } ( \\mathbf { r } ) ] / G _ { 1 1 } - \\rho _ { 1 0 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The density distributions can be characterized by the two chemical potential parameters $\\mu _ { 1 }$ and $\\mu _ { 2 }$ ,which are fixed by relations (39) and (4O). Once the chemical potentials are determined,all other thermodynamic properties can be calculated. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As we already know, the critical temperature for a singlecomponent Bose gas in the general power-law potential is $T _ { c } { \\sim } \\overset { \\bullet } { ( } N / m ^ { 3 / 2 } ) ^ { 1 / ( \\eta + \\overline { { 1 } } ) }$ [20,22].For the special case of $N _ { 2 }$ ${ \\ll } N _ { 1 }$ in the binary mixture, $T _ { c 2 } \\Lt \\Lt _ { 1 }$ is satisfied.When the temperature $T$ is close to $T _ { c 2 }$ ,almost all the atoms of component 1 are in the condensate.Neglecting the contribution from the thermal atoms,we have the density profile of component 1 as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho _ { 1 } ( { \\bf r } ) { \\approx } [ { \\mu } _ { 1 } - V ( { \\bf r } ) ] / G _ { 1 1 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\mu _ { 1 }$ is fixed by expression (39).Atoms of component 2 are then trapped in an effective potential of the bare trap and the interaction field of component 1: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { e f f } ^ { ( 2 ) } { = } V ( \\mathbf { r } ) + \\frac { [ \\mu _ { 1 } - V ( \\mathbf { r } ) ] G _ { 1 2 } } { G _ { 1 1 } } \\quad \\mathrm { f o r } \\ r \\leqslant r _ { 0 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $r _ { 0 }$ is the border of the condensate of component 1. When $G _ { 1 2 } { > } G _ { 1 1 }$ , the minimum of this effective potential for component 2 is no longer at $\\mathbf { r } { = } 0$ ,but at $r = r _ { 0 }$ . As we know, condensation first takes place at the minimum of the potential.The condensation of component 2 may thus first appear at the surface surrounding the condensate of component 1. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "When ${ T < T _ { c 2 } }$ ，every component has two domains: the condensate domain and the thermal domain.The condensate domain consists of the saturated gaseous part with density $\\rho _ { i 0 } { = } \\lambda _ { i } ^ { - 3 } g _ { 3 / 2 } ( 1 )$ and the condensate part with density $\\rho _ { i s }$ $= \\rho _ { i } - \\rho _ { i 0 }$ . As a consequence,there may exist three kinds of subdomains: (a) with both components 1 and 2 in the thermal states,(b) with one component in the thermal state and the other in the condensate,and (c) with both components in the condensates.In subdomain (a),the density distributions are similar to those for $T > T _ { c 1 }$ . Subdomain (b) is like the mixture at ${ T _ { c 2 } } < T { < } { T _ { c 1 } }$ . In subdomain (c),the free energy density can be written as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta f _ { i } = - \\lambda ^ { - 3 } g _ { 5 / 2 } ( 1 ) + 2 a _ { i } \\lambda _ { i } ^ { 2 } \\rho _ { i } ^ { 2 } - a _ { i } \\lambda _ { i } ^ { 2 } \\rho _ { i s } ^ { 2 } + \\beta V ( \\mathbf { r } ) \\rho _ { i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and the interaction part as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta f ^ { I } = a _ { 1 2 } ( \\lambda _ { 1 } ^ { 2 } + \\lambda _ { 2 } ^ { 2 } ) \\rho _ { 1 } \\rho _ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The chemical potential is then given by ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mu _ { 1 } { = } G _ { 1 1 } ( \\rho _ { 1 } ( \\mathbf { r } ) + \\rho _ { 1 0 } ) { + } G _ { 1 2 } \\rho _ { 2 } ( \\mathbf { r } ) , } \\\\ { \\mu _ { 2 } { = } G _ { 2 2 } ( \\rho _ { 2 } ( \\mathbf { r } ) + \\rho _ { 2 0 } ) { + } G _ { 1 2 } \\rho _ { 1 } ( \\mathbf { r } ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The density profiles of thermal atoms in the condensate domain are position independent, so the variation of the total densities comes from the variation of density distribution of the condensate.We rewrite Eqs.(51) and (52) in the forms ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\widetilde { \\mu } _ { 1 } = G _ { 1 1 } \\rho _ { 1 s } ( \\mathbf { r } ) + G _ { 1 2 } \\rho _ { 2 s } ( \\mathbf { r } ) , } \\\\ { \\widetilde { \\mu } _ { 2 } = G _ { 2 2 } \\rho _ { 2 s } ( \\mathbf { r } ) + G _ { 1 2 } \\rho _ { 1 s } ( \\mathbf { r } ) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\widetilde { \\mu } _ { 1 } = \\mu _ { 1 } - 2 G _ { 1 1 } \\rho _ { 1 0 } - G _ { 1 2 } \\rho _ { 2 0 } , \\quad \\widetilde { \\mu } _ { 2 } = \\mu _ { 2 } - 2 G _ { 2 2 } \\rho _ { 2 0 } - G _ { 1 2 } \\rho _ { 1 0 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "From Eqs.(53) and(54) the condensate density distributions maybederived as ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\rho _ { 1 s } = \\cfrac { \\widetilde { \\mu } _ { 1 } G _ { 2 2 } - \\widetilde { \\mu } _ { 2 } G _ { 1 2 } } { G _ { 1 1 } G _ { 2 2 } - G _ { 1 2 } ^ { 2 } } + \\cfrac { G _ { 1 2 } - G _ { 2 2 } } { G _ { 1 1 } G _ { 2 2 } - G _ { 1 2 } ^ { 2 } } V ( \\mathbf { r } ) , } \\\\ & { \\rho _ { 2 s } = \\cfrac { \\widetilde { \\mu } _ { 2 } G _ { 1 1 } - \\widetilde { \\mu } _ { 1 } G _ { 1 2 } } { G _ { 1 1 } G _ { 2 2 } - G _ { 1 2 } ^ { 2 } } + \\cfrac { G _ { 1 2 } - G _ { 1 1 } } { G _ { 1 1 } G _ { 2 2 } - G _ { 1 2 } ^ { 2 } } V ( \\mathbf { r } ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The above expressions for the density profile are similar to those obtained in Ref.[1O] for zero temperature.At zero temperature these expressions recover exactly the earlier results. The denominator $G _ { 1 1 } G _ { 2 2 } - G _ { 1 2 } ^ { 2 }$ is the quantity characterizing phase separation at a finite temperature.It is the same quantity that determines whether there is a phase separation in trapped binary Bose gases at zero temperature [10]. A trap makes condensates at finite temperature more like condensates at zero temperature.This is one reason why theories for trapped Bose gases at zero temperature can describe experiments well,although experiments are not conducted at zero temperature. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "IV.SUMMARY ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the above,we have investigated untrapped and trapped two-component Bose gases at finite temperature.Contributions from the thermal cloud atoms have been taken into account.By analyzing thermodynamic stability,we have obtained conditions for the phase separation at different temperatures for the homogeneous binary mixture that agree with those for zero temperature found by other authors. These results show different behavior of phase separation at different temperature regimes.We have extended the discussion to trapped binary mixtures of Bose gases by means of the local density approximation.Expressions for the density profile of condensates have been derived.It is found that phase separation may occur in traps even at a temperature at which no phase separation would occur in the homogeneous case without trapping.This kind of spatial separation comes from the effects of trapping.The trap focuses condensed atomsin the center region where the condensate is close to the homogeneous condensate at zero temperature. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Recently,the dynamics of phase separation have been studied in an experiment [3]. The time scale of phase separation has been estimated by studying the fastest growing modes [27,28] in homogeneous binary Bose gas mixtures at zero temperature.As shown in this paper,the behavior of phase separation can be modified by the existence of the thermal cloud.Now a similar question arises:How does the thermal cloud affect the time scale of phase separation? The determinant of the symmetric matrix $\\hat { \\mu }$ may play a similar role to the fastest growing modes at zero temperature.When the determinant becomes negative,phase separation occurs. The dependence of the time scale of phase separation on temperature may be deduced from this quantity with some assumptions.Of course,the time scale will also be affected by the presence of a trap.This is under study. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This work was supported in part by grants from NASA (No.NAG8-1427) and the National Natural Science Foundation of China. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]M.H.Anderson et al.,Science 269,198 (1995);K.B.Davis et al.,Phys.Rev.Lett. 75,3969 (1995);C.C.Bradley et al., ibid. 78, 985 (1997).   \n[2] C.J.Myatt,E.A.Burt,R.W.Ghrist,E.A.Cornell,and C.E. Wieman,Phys.Rev.Lett.78,586 (1997).   \n[3]R.Matthews,D.S.Hall,D.S.Jin,J.R.Ensher,C.Wieman, E.A.Cornell,F.Dalfovo,C.Minniti,and S. Stringari,Phys. Rev.Lett. 81,243 (1998).   \n[4] D.S.Hall,M.R.Matthews,J.R.Ensher,C.E.Wieman,and E.A.Cornell,Phys.Rev.Lett.81,1539 (1998).   \n[5]D.M. Stamper-Kurn,M.R.Andrews,A.P.Chikkatur,S.Inouye,H.-J.Miesner,J. Stenger,and W.Ketterle,Phys.Rev. Lett. 80,2027 (1998).   \n[6]H.-J.Miesner,D.M. Stamper-Kurn,J. Stenger, S.Inouye,A.P. Chikkatur,and W.Ketterle,Phys.Rev.Lett.82,2228 (1999).   \n[7]J.Stenger, S.Inouye,D.M. Stamper-Kurn,H.J.Miesner,A.P. Chikkatur,and W.Ketterle,Nature (London) 396,345 (1998).   \n[8] D.M. Stamper-Kurn,H.J.Miesner,A.P.Chikkatur, S.Inouye, J.Stenger,andW.Ketterle,Phys.Rev.Lett.83,661 (1999).   \n[9]M.R.Matthews,B.P.Anderson,P.C.Haljan,D.S.Hall,C.E. Wieman,and E.A. Cornell, Phys.Rev.Lett.83,2498 (1999).   \n10] Tin-Lun Ho and V.B.Shenoy，Phys.Rev.Lett.77,3276 (1996).   \n[11]H.Pu and N.P.Bigelow,Phys.Rev.Lett.80,113O (1998).   \n[12]B.D.Esry,C.H.Greene,J.P.Burke,and J.L.Bohn,Phys. Rev. Lett. 78, 3594 (1997).   \n[13]P. Ohberg and S. Stenholm,Phys.Rev.A 57,1272 (1998).   \n[14] S.T.Chui,B.Tanatar,and P.Ao,Phys.Rev.A 58,4836 (1998).   \n[15]H.Pu and N.P.Bigelow,Phys.Rev.Lett.80,1134 (1998).   \n[16]E.Bashkin and A.V.Vagov,Phys.Rev.B 56,6207(1997).   \n[17] Th.Busch,J.I. Cirac,V.M.Perez-Garcia,and P. Zoller,Phys. Rev.A 56,2978 (1997).   \n[18]B.D.Esry and C.H.Greene,Phys.Rev.A 57,1265 (1998).   \n[19] S.Giorgini,L.Pitaevskii,and S. Stringari,Phys.Rev.A 54, R4633 (1996).   \n[20] Hualin Shi and Wei-Mou Zheng，Phys.Rev．A 56,1046 (1997).   \n[21] Hualin Shi and Wei-Mou Zheng，Phys.Rev．A 56,2984 (1997).   \n[22] Vanderlei Bagnato,David E.Pritchard,and Daniel Kleppner, Phys.Rev.A35,4354 (1987).   \n[23]L.D.Landau and E.M.Lifshitz,Statistical Physics,3rd ed. (Pergamon Press,Oxford,1980).   \n[24] T.D.Lee,K.Huang,and C.N.Yang,Phys.Rev.106,1135 (1957).   \n[25]E.G.D.Cohen and J.Van Leeuwen,Physica (Amsterdam) 26, 1171 (1960). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[26]T.T.Chou, C.N. Yang,andL.W.Yu,Phys.Rev.A 53,4257 (1996). [27] S.T. Chui,and P.Ao,e-print cond-mat/9902275 . [28]E.Timmermans,Phys.Rev.Lett.81,5718 (1998). ",
+        "page_idx": 6
+    }
+]

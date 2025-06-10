@@ -1,0 +1,241 @@
+DOI:10.13930/j.cnki.cjea.170266
+
+孙星照，沈建国，王忠，刘萌，楼莉萍，岳春雷，张志剑．外源磷输入对农区湿地土壤碳库有效性及周转特性的影响[J].中国生态农业学报,2017,25(10):1433-1443  
+Sun X Z,ShenJG, Wang Z,LiuM,LouLP,YueCL,Zhang ZJ.Effectofexogenousphosphorus inputon theavailabilityandturnovercharacteristicsofsoilcarbonpolinagro-riparian wetlands[J].Chinese JournalofEco-Agriculture,2Ol7,25(10):1433-1443
+
+# 外源磷输入对农区湿地土壤碳库有效性及周转特性的影响
+
+孙星照¹，沈建国²，王忠²，刘 萌¹，楼莉萍1，岳春雷，张志剑1,4\*\*(1.浙江大学环境与资源学院杭州310058;2.杭州市余杭区农业生态与植物保护管理总站杭州311100;3．浙江省林业科学研究院生态研究所杭州310023;4．杭州谷胜农业科技有限公司杭州　311108)
+
+摘要：通过添加土壤原总磷 $( \mathrm { T P } ) 0 { \sim } 6 0 \%$ 的过磷酸钙和室内培养的技术手段，研究了外源磷素输入对农区湿地土壤碳库有效性及其周转特性的动态影响。结果表明，随外源磷素输入水平的增加，土壤可溶性有机碳(DOC)含量和微生物量碳(MBC)含量增加；土壤总有机碳(TOC)含量下降，下降率最高达 $23 \%$ 。活性有机碳成分中，外源磷输入对高活性有机碳(HLOC)影响最显著， $60 \%$ 磷素输入处理HLOC 含量比未施加外源磷素高$54 \%$ ；易氧化有机碳(ROC)含量随外源磷输入水平的增加而下降，最大下降率为 $2 2 \%$ ；中活性有机碳(MLOC)含量、活性有机碳(LOC)含量无明显改变。涉碳循环生物酶中， $\beta$ -葡聚糖苷酶(βG)和纤维二糖水解酶(CBH)活性均随外源磷素输入水平的增加而显著提升，但脱氢酶(DH)活性并无显著变化。此外，土壤碳矿化强度和潜在矿化势也与外源磷素输入后的土壤TP呈正相关。总体来看，外源磷素输入显著增加了湿地土壤碳库的有效性及周转速率。
+
+关键词：外源磷输入；农区湿地；土壤碳库；碳库有效性；碳库周转特性中图分类号：S153.6 文献标识码：A 文章编号:1671-3990(2017)10-1433-11
+
+# Effect of exogenous phosphorus input on the availability and turnover characteristics of soil carbon pool in agro-riparian wetlands
+
+SUN Xingzhao', SHEN Jianguo², WANG Zhong²,LIU Meng',LOU Liping', YUE Chunlei3,ZHANG Zhijanl4\*\*
+
+(1.CollegeofEnvironmentandResources,Zhejiang University,Hangzhou3oo58,China;2.Yuhang DistrictAgriculturalEcology andPlant Protection Management Station,Hangzhou 311oo,China; 3.InstituteofEcology,ZhejiangAcademyofForestry, Hangzhou 310023,China; 4.Gusheng Agricultural Scienceand TechnologyLimited Company,Hangzhou 31108,China)
+
+Abstract:Exogenousutrientssignificantlyinfluencewetlandecosystems.Inparticular,theinvasionofexogenous nitrogen ()and phosphorus (P)significantlyinfluencescarboncycleinwetlandsoilswhich furtherchanges globalcarboncycle insoil-atmosphere continuum. While there are currently several studies on exogenous N, the study of exogenous $\mathrm { \bf P }$ is still lacking. To explore the effect of the input of exogenous $\mathrm { \bf ~ P }$ on the availability and turnover characteristics of soil carbon pool in wetlands,an experiment was designed for the simulation of the dynamics of exogenous $\mathrm { ~ \bf ~ P ~ }$ accumulation. The study simulated additive $\mathrm { ~ \bf ~ P ~ }$ gradient rates of O (P-0), $5 \%$ （204号 (P-5), $10 \%$ (P-10), $20 \%$ (P-20), $30 \%$ (P-30) and $60 \%$ (P-60) relative to initial total phosphorus (TP) content of sampled soils. Superphosphate was the mode of addition of $\mathrm { \bf P }$ to the soil coupled with the simulation of laboratory data.The changes in characteristics of soil carbon composition and biochemical indicators of $\mathrm { \bf ~ P }$ with the input of different levels of exogenous $\mathrm { ~ \bf ~ P ~ }$ were analyzed using conventionalbiochemicaltestingmethods.ThestudyalsointegratedseveralotherfactorsforPearsoncorelationanalysis.Teresults showed hatsoilTPandOlsen-Pcontentsstrictlyfollwedtheloadingratesofsuperphosphate,withanotableicrease inmicrobial biomass phosphorus (MBP). The activity of acid phosphatase (AcP) was significantly suppressed by $\mathrm { ~ \bf ~ P ~ }$ addition. Dissolved organic carbon (DOC)and microbialbiomasscarbon (MBC) increasedwith increasing inputsof exogenous P,whiletotalorganiccarbon (TOC) decreased at a maximum rate of $23 \%$ .For active organic carbon components of the soil, highly labile organic carbon (HLOC) was $54 \%$ higher under P-60 treatment thanunder the control group (P-0).Then recalcitrant organic carbon (ROC)content remarkably decreased with increasing input of exogenous P, with a maximum rate of decline of $22 \%$ . To certain extent, the results indicated that soilcarbonpolwasactivatedandtheeficiencyofavailabilityincreased.However,mid-labileorganiccarbon(MLOC)and labile organiccarbon (LOC)almost hadnochange withincreasing inputof exogenous P.TheMLOCandLOC ingredients were stable in the soil.The activities of $\beta$ -1,4-glucosidase (βG)and cellobiohydrolase (CBH) significantly increased with increasing levels of exogenous P,buttheactivityofdehydrogenase(DH)remainedlargelyunchanged.Fortheanalysisofmineralizationcharacteristicsof soil organic carbon (SOC),exogenous $\mathrm { \bf ~ P }$ addition significantly accelerated SOC mineralization rate. The cumulative mineralization increased with increasingadditionofexogenousPPotentialmineralizationpotentialofSOCwaspositivelycorrelated withtheadditionof exogenousP.Fromtheabove,exogenousPinput increasedtheconsumptionofsoilcarbonpolandtransformedsoilcarbon poolfromsteadystate tounstablestate.Italsoincreasedtheactivityandcontentofbiologicalnzymebystimulatingmicrobialactiity.Isummarytheavailabilityndturoverratesofwetlandsoilcarbonpolandthriskofwetlandsolcarbonoutputgnificantly increased under exogenous P input.
+
+Keywords:Exogenous phosphorus; Agro-riparian wetland; Soil carbon pool; Carbon availability; Carbon turnover
+
+太湖流域农区湿地是我国重要的农业经济区域人口密集，经济富庶，农业集约化程度高，而农区湿地作为农田与下游水体互相连接的纽带，不仅能够截留耕作土壤流失的营养元素[1]，缓解下游水体的污染负荷[2]，还对全球碳库的存贮起重要作用[3]。湿地因其内部有机质降解缓慢和植物生产力较高，从而形成地球表层系统的重要碳汇，对吸收大气中的 $\mathrm { C O } _ { 2 }$ 和 $\mathrm { C H } _ { 4 }$ 等温室气体，缓解全球气候变暖意义重大。因此湿地凭其巨大的碳储存能力成为众多学者的研究热点。当前，国内外对湿地生态系统的碳循环特征与过程、碳库组成和与相关影响因子之间的关系进行了许多研究，其中包含氮磷等营养元素的输入对湿地土壤碳汇功能的影响。如Peijl等[4的研究表明洪泛区营养元素输入的增加会导致更高的生物量生产和土壤有机物的积累；刘德燕等[5-的研究认为外源氮、磷的输入会提高土壤有机碳矿化速率，且在淹水条件下会加快土壤可溶性碳组分的流失；窦晶鑫等7和Wang等的研究表明氮添加或氮沉降会促进湿地土壤中碳的输入与输出，提高土壤碳组分的活性。营养元素输入对土壤碳库影响的相关研究，自前更多地集中于氮素和有机碳的变化特征，并且缺少营养元素输入对土壤碳库整体特性影响的综合研究，而针对外源磷素输入对湿地土壤碳库的有效性以及周转特性的影响还未见深入报道。
+
+本试验以太湖流域南区水稻种植区域湿地土壤为研究对象，通过向土壤添加磷素和室内培养的技术手段，模拟农田面源磷素输出后进入湿地生态系统的过程，动态研究了外源磷素对土壤碳库有效性和生化周转特性的影响，为丰富湿地生态系统对外源营养元素输入的响应特征提供科学信息。
+
+# 1材料与方法
+
+# 1.1 研究区域概况
+
+研究区域位于太湖流域南区三角洲农耕区湿地$( 1 1 9 ^ { \circ } 5 4 ^ { \prime } \mathrm { E }$ ， $3 0 ^ { \circ } 1 9 ^ { \prime } \mathrm { N } ,$ ，其间有大面积由湿地垦殖而成的水稻种植区，属亚热带季风气候，年均气温 $1 6 ~ \mathrm { { ^ \circ C } }$ 年平均降雨量 $1 \ 3 8 0 \ \mathrm { m m }$ ，其中6、7月为梅雨季节。该区域近年来农田流失的总磷负荷约$1 . 6 { \sim } 6 . 9 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 [ 9 ] }$ ，而湿地作为农田与下游水体链接的重要纽带，截留了大部分流失的磷素，导致磷素在湿地土壤中的进一步沉积。试验选取区内具有代表性的冲积型水稻土 $( 0 { \sim } 2 0 ~ \mathrm { c m } )$ 作为供试土壤，试验开始时土壤基本理化指标见表1。
+
+# 1.2 试验设计
+
+利用土壤采样器随机选取20处 $0 { \sim } 2 0 ~ \mathrm { c m }$ 的湿地表层土壤进行采集，挑拣出植物根茎后充分混合运往实验室。将采集好的新鲜土样平均称重 $8 \mathrm { k g } ( \$ 含水量 $34 . 6 \%$ 放入各处理设置的模拟湿地柱内，土层高度约 $2 0 \ \mathrm { c m } .$ 。本试验以梯度磷为单一变量设置6个施磷水平处理，不同处理组施磷量为供试湿地土壤原TP含量(表1)的0(P-0)、 $5 \% ( \mathrm { P - } 5 )$ 、 $1 0 \% ( \mathrm { P - 1 0 } )$ 、 $2 0 \% ( \mathrm { P } { - } 2 0 )$ /$3 0 \% ( \mathrm { P } { - } 3 0 )$ 和 $6 0 \% ( \mathrm { P } \mathrm { - } 6 0 )$ ，以模拟外源磷素在湿地土壤中的累积效应，每个处理3次重复。以水溶性过磷酸钙(superphosphate)作为外源磷，并用去离子水完全溶解后在不扰动土层情况下，缓慢且充分地浇撒于装满鲜土的湿地柱内，静止 $2 \mathrm { h }$ 后，向湿地柱内添加去离子水至水层高 $1 0 ~ \mathrm { c m _ { c } }$ 。将所有处理好的湿地柱放置于 $2 5 \ \mathrm { { ^ \circ C } }$ 避光处进行培养，以避免其他影响因子的干扰。自初始培养日起，每隔6个月按"S"形路线选取各处理湿地柱内4个点采集表层 $0 { \sim } 1 0 \ \mathrm { c m }$ 处土样，再将4点样品充分混合，即为该处理的土壤样品，共采集3次。待样品采集完成后，定量补充湿地柱内水分以保持 $1 0 \ \mathrm { c m }$ 的水层，两次采样间期不添加水分，以此模拟湿地周期性淹水情况。每次采集的各处理样品分为3部分：一部分新鲜样品，过10目筛后装入塑料封口袋，并保存于 $4 \mathrm { { ^ \circ C } }$ 冰箱内，一周内检测土壤生物学性质指标；一部分新鲜样品过10目筛后马上用于土壤矿化培养试验；一部分样品自然风干后分别过20目和100目筛，用于测定湿地土壤涉磷碳理化指标。
+
+表1供试农田湿地土壤基本化学性质  
+Table1Basic chemical properties of the tested farmland soil of wetland   
+
+<html><body><table><tr><td>土壤类型 Agrotype</td><td>pH</td><td>总有机碳 Total organic carbon (g·kg-1)</td><td>可溶性有机碳 Dissolved organic carbon (g·kg-1)</td><td>总磷 Total phosphorus (g·kg-1)</td><td>速效磷 Olsen phosphorus (mg:kg-1)</td><td>总氮 Total nitrogen (g:kg-1)</td></tr><tr><td>冲积型水稻土 Alluvial paddy soil (0~20 cm)</td><td>7.46</td><td>7.82</td><td>0.18</td><td>0.29</td><td>3.47</td><td>0.78</td></tr></table></body></html>
+
+本试验采用室内恒温培养-仪器法测定湿地土壤碳矿化强度。将已过10目筛的新鲜样品称取 $2 0 \ \mathrm { g }$ 并均匀覆盖 $2 5 0 ~ \mathrm { m L }$ 培养瓶瓶底，塞紧橡胶塞后放置在避光的保温箱( $2 5 \ \mathrm { { ^ \circ C } }$ 左右)中进行培养，培养时间为 $5 6 ~ \mathrm { d } _ { \circ }$ 分别在第1d、3d、5d、7d、14d、21d、28 d、 $3 5 { \mathrm { ~ d } }$ 、42d、49d、56d抽取培养瓶内 $3 0 ~ \mathrm { m L }$ 气体，用 $\mathrm { H P 4 8 9 0 D }$ 气相色谱仪测定其 $\mathrm { C O } _ { 2 }$ 释放量，并根据 $\mathrm { C O } _ { 2 }$ 的释放量计算土壤碳矿化量。采集气体后打开瓶塞 $2 0 \ \mathrm { \ m i n }$ ，补充氧气，使内外气体平衡，然后塞紧橡皮塞。
+
+# 1.3 测定方法
+
+样品总磷(TP)采用 $\mathrm { H C l O } _ { 4 } – \mathrm { H } _ { 2 } \mathrm { S O } _ { 4 }$ 酸溶-钼锑抗比色法测定；速效磷(Olsen-P)采用 $\mathrm { p H } ~ 8 . 5 ~ \mathrm { N a H C O } _ { 3 }$ 法测定；总有机碳(TOC)采用 $ { \mathrm { K } } _ { 2 }  { \mathrm { C r } } _ { 2 }  { \mathrm { O } } _ { 7 }$ 容量法-外加热法测定；可溶性有机碳(DOC)采用TOC分析仪(日本岛津TOC-VCPH)法测定[10]；活性有机碳组分[易氧化有机碳(ROC)、高活性有机碳(HLOC)、中活性有机碳(MLOC)和活性有机碳(LOC)]采用高锰酸钾氧化法测定[11]。微生物量磷(MBP)和微生物量碳(MBC)采用氯仿熏蒸浸提法测定，其中MBP和MBC的转化系数分别为0.40和0.45[12-13]。
+
+样品土壤涉磷生物酶酸性磷酸酶(AcP)活性和涉碳生物酶 $\beta$ -葡聚糖苷酶(βG)和纤维二糖水解酶(CBH)活性采用微平板-荧光比色法测定，涉碳生物酶脱氢酶(DH)活性采用三苯基四氮唑氯化物比色法测定[14-15]，酶活性计算参照DeForest[16]的方法。
+
+# 1.4 数据分析
+
+试验数据采用Microsoft Office2013、SPSS19.0进行统计分析和显著性检验，并采用OriginPro 9.0软件进行分析绘制。
+
+样品土壤 $\mathrm { C O } _ { 2 ^ { - } } \mathrm { C }$ 的累积过程符合一级反应动力学方程，故通过一级反应动力学方程对累积矿化的$\mathrm { C O } _ { 2 }$ 进行拟合，表达式为：
+
+$$
+C _ { t } { = } C _ { 0 } ( 1 { - } \mathrm { e } ^ { - k t } )
+$$
+
+式中： $C _ { t }$ 为经过 $t ( \mathrm { d } )$ 时间后土壤中累积释放的 $\mathrm { C O } _ { 2 }$ 量$( \mathrm { m g } \cdot \mathrm { k g } ^ { - 1 } )$ ， $C _ { 0 }$ 为土壤中潜在活性有机碳矿化量$( \mathrm { m g } { \cdot } \mathrm { k g } ^ { - 1 } )$ ， $k$ 为活性有机碳库的周转速率常数 $\mathbf { \eta } ( \mathbf { d } ^ { - 1 } )$ ， $\mathbf { \chi } _ { t }$ 为培养时间(d)。
+
+# 2 结果与分析
+
+# 2.1外源磷输入对农区湿地土壤磷性质的影响
+
+由图1可知，随培养时间的推移，同处理组内湿地土壤TP含量无明显变化,MBP和Olsen-P含量在高施磷处理组中呈下降趋势。但每次采样中，随外源磷输入水平的增加，湿地土壤TP、MBP和Olsen-P总体含量均呈上升趋势，P-60处理中各涉磷指标含量涨幅最显著 $( P { < } 0 . 0 5 )$ 。在整个培养期结束后，对照组P-O的TP含量与原湿地土壤TP含量(表1)相比基本无变化，其余5个处理组与原土壤TP含量相比分别增加约 $5 \%$ 、 $10 \%$ 、 $20 \%$ 、 $30 \%$ 及 $60 \%$ ，组间差异显著 $( P { < } 0 . 0 5 )$ ，表明磷素作为土壤中相对稳定的元素会在其输入体系中产生明显的累积效应。MBP、Olsen- $\mathbf { \cdot P }$ 与 TP变化趋势基本一致，但随培养时间的推移，P-60处理组的MBP和Olsen-P含量下降明显，对于Olsen-P，这可能是因为在淹水条件下含磷丰富的土壤中活性磷释放率更高[17]，故而具有更高的磷素输出风险；对于MBP，在无其他影响因素干扰的条件下，随土壤基质中底物的消耗，由外源磷输入刺激的微生物活性的增强将会逐渐减弱
+
+![](images/6894b14dfdafea1187e30a5cc8b31bc784fb2fea505cfb8c629df0a951161fd4.jpg)  
+图1不同培养时间土壤总磷、微生物量磷和速效磷含量随外源磷输入水平的变化  
+Fig.1Variations of total phosphorus,microbial biomass phosphorus and Olsen phosphorus contents in soil incubated for different times with inputs of different levels of exogenous phosphorus
+
+P-0、P-5、P-10、P-20、P-30与P-60表示不同处埋的施磷量，依次为供试湿地土壤全磷含量的0、 $5 \%$ 、 $10 \%$ / $20 \%$ / $30 \%$ 与 $60 \%$ 以模拟外源磷素在湿地土壤中的累积效应。不同小写字母表示不同培养时间不同处理间在0.05水平差异显著。P-0,P-5,P-10,P-20,P-30,and P-6O indicate the amounts of phosphorus applied indifferent treatments,used to simulate the dynamic accumulation ofexogenous phosphorus by adding gradient phosphorus at rates of 0,$5 \%$ 5 $10 \%$ $20 \%$ 5 $30 \%$ and $60 \%$ of the initial total phosphorus contentof the sampled soil.Different lowercase letters indicate significantdifferences among different treatments at different incubation timesat 0.05level.
+
+固定的微生物量也会随微生物的生理代谢重新周转至土壤介质中。
+
+当土壤基质中磷元素受限时，微生物会分泌磷酸酶，以刺激有机磷转化分解为无机磷，故土壤微生物对营养元素磷的需求可由磷酸酶活性的增减来反映[18]。本试验中作为外源磷输入的过磷酸钙为可被微生物直接吸收的无机态磷，因此无需磷酸酶的参与，且直接增加了土壤速效磷的含量，减缓了土壤磷元素受限的程度，故随外源磷输入水平的增加，酸性磷酸酶(AcP)活性被显著抑制(表2， $P { < } 0 . 0 5 )$ 。同时随培养时间推移，组间差异减小，表明由磷素输入引起的磷酸酶活性的差异将随时间推移趋于平缓。
+
+# 2.2外源磷输入对农区湿地土壤碳库的影响
+
+# 2.2.1 总有机碳
+
+由图2可知，随外源磷输入水平的增加，湿地土壤TOC含量总体呈下降趋势。培养6个月后，各处理TOC含量与对照相比分别减少 $3 \%$ 1 $4 \%$ / $6 \%$ 人 $1 1 \%$ 和 $13 \%$ ，对照及低水平磷输入处理(如P-5、P-10)之间差异并不明显，而与高水平磷输入处理(如 P-20、P-30、P-60)之间则存在显著差异 $( P { < } 0 . 0 5 )$ 。培养12个月和18个月湿地土壤TOC含量的变化趋势同培养6个月。同时，随培养时间的推移，同一外源磷处理的TOC含量也明显下降，培养12个月和18个月的对照TOC含量较培养6个月的分别下降 $4 \%$ $( P { < } 0 . 0 5 )$ 和 $1 0 \% ( P { < } 0 . 0 5 )$ 。
+
+# 2.2.2 可溶性有机碳
+
+如图3所示，随外源磷输入水平的增加，同一采样期内土壤DOC 含量显著增加 $( P { < } 0 . 0 5 )$ ；同时，随培养时间的推移，各处理水平的DOC含量总体呈下降趋势。在整个培养期内，培养12个月的各处理水平间的差异最显著 $( P { < } 0 . 0 5 )$ ，各处理组随外源磷输入水平的增加DOC含量较对照组分别增加 $3 \%$ 7$6 \%$ ！ $9 \%$ ！ $11 \%$ 和 $1 9 \%$ ，到培养18个月时，处理水平间差异趋于平缓，但P-30和P-60处理组的DOC含量仍为对照的1.17倍和1.22倍 $( P { < } 0 . 0 5 )$ 。与培养6个月的P-0相比，培养12个月和18个月的对照DOC含量分别下降 $8 \%$ 和 $3 0 \% ( P { < } 0 . 0 5 )$ 。
+
+# 2.2.3 微生物量碳
+
+如图4所示，每次采样中，土壤MBC含量随外源磷输入水平的增加而显著增加 $( P { < } 0 . 0 5 )$ ，但随培养时间的推移，同一处理水平的MBC含量呈下降趋势。培养6个月时，各处理水平的MBC含量依次为对照组的1.31、1.64、1.47、1.55及1.69 倍，到整个培养期结束，各处理水平的MBC含量变为对照组的
+
+表2不同培养时间土壤酸性磷酸酶活性随外源磷输入水平的变化 sle 2Variations of acid phosphatase activity in soil with inputs of different levels of exo   
+
+<html><body><table><tr><td rowspan="2">处理 Treatment</td><td colspan="2">6个月6months</td><td colspan="2">12个月 12 months</td><td colspan="2">18个月18 months</td></tr><tr><td>RR</td><td>LRR*±C1</td><td>RR</td><td>LRR*±C1</td><td>RR</td><td>LRR*±C1</td></tr><tr><td>P-5</td><td>1.00</td><td>+0.002±0.013a</td><td>0.99</td><td>-0.004±0.000a</td><td>0.99</td><td>-0.004±0.000a</td></tr><tr><td>P-10</td><td>0.83</td><td>-0.082±0.005b</td><td>0.89</td><td>-0.022±0.003b</td><td>0.95</td><td>-0.021±0.003a</td></tr><tr><td>P-20</td><td>0.84</td><td>-0.076±0.015b</td><td>0.76</td><td>-0.094±0.002b</td><td>0.80</td><td>-0.096±0.001a</td></tr><tr><td>P-30</td><td>0.63</td><td>-0.201±0.020c</td><td>0.69</td><td>-0.091±0.010c</td><td>0.81</td><td>-0.092±0.011b</td></tr><tr><td>P-60</td><td>0.57</td><td>-0.247±0.014d</td><td>0.72</td><td>-0.102±0.010c</td><td>0.79</td><td>-0.103±0.018b</td></tr></table></body></html>
+
+P-0、P-5、P-10、P-20、P-30与P-60表示不同处理的施磷量，依次为供试湿地土壤全磷含量的0、 $5 \%$ （ $10 \%$ 、 $20 \%$ 、 $30 \%$ 与 $60 \%$ ，以模拟 外源磷素在湿地土壤中的累积效应。RR为响应比，是各处理与对照(P-O)的比值; ${ \mathrm { L } _ { \mathrm { R R } } } ^ { * }$ 为对RR值进行常用对数运算，C1表示0.95的置信水平; ： $^ { \circ } +$ “指示酶活性增强,“-"指示酶活性削弱。不同小写字母表示不同处理间在0.05水平差异显著。P-0,P-5,P-10,P-20,P-30,andP-60indicate the amountsofphosphorsaplidindierenttreatmentsusedtosiulatetedamicauulatiofexogenusposporusbyddingadiet phosphorus at rates of 0, $5 \%$ $10 \%$ $20 \%$ $30 \%$ and $60 \%$ of the initial total phosphorus content of the sampled soil. RR is the response ratio,which is the ratio of treatment to the control (P-0). ${ \mathrm { L } } _ { \mathrm { R R } } { ^ { * } }$ is a common logarithmic operation for RR,Cl represents the confidence level of 0.95.‘ $\cdot _ { + } , \cdot _ { }$ indicates that theenzyeactiiadd“”ahatctiisked.etlowssateiat among treatments at 0.05 level.
+
+![](images/1b94ffe061f83d2a4f6940001d69f8f90ba1fa970323a04408f8f7ddaaea34b7.jpg)  
+图2不同培养时间土壤总有机碳含量随外源磷输入水平的变化
+
+P-0、P-5、P-10、P-20、P-30与P-60表示不同处理的施磷量, 依次为供试湿地土壤全磷含量的0、 $5 \%$ 、 $10 \%$ / $20 \%$ / $30 \%$ 与 $60 \%$ 以模拟外源磷素在湿地土壤中的累积效应。不同小写字母表示相 同培养时间不同处理间在0.05水平差异显著。P-0,P-5,P-10,P-20, P-30,and P-6O indicate the amounts of phosphorus applied in different treatments,used to simulate the dynamic accumulation of exogenous phosphorus by adding gradient phosphorus at rates of 0, $5 \%$ 5 $10 \%$ $20 \%$ 5 $30 \%$ and $60 \%$ of the initial total phosphorus content of the sampled soil.Different lowercase letters indicate significant differences among different treatments at the same incubation time at 0.05 level.
+
+$1 . 1 7 { \sim } 1 . 4 0$ 倍，增加的趋势变缓。同时，与培养6个月P-60的MBC相比，培养12个月和18个月的对照MBC含量分别下降 $1 1 \%$ 和 $2 2 \% ( P { < } 0 . 0 5 )$ 0
+
+# 2.2.4 活性有机碳组分
+
+当外源磷输入后，4种有机碳组分的含量大小关系为 $\mathrm { R O C } { > } \mathrm { L O C } { > } \mathrm { H L O C } { > } \mathrm { M L O C } ( \gtrapprox )$ 。随外源磷输入水平的增加，MLOC 和 LOC 含量基本无变化,
+
+![](images/964321f1e2eef210be8e0cfc7af0034cbac9424d8bf9a6b4c11a81a9cf1ea88f.jpg)  
+Fig.2Variations of total organic carbon contents in soil incubated for different times with inputs of different levels of exogenous phosphorus   
+图3不同培养时间土壤可溶性有机碳含量随外源磷输入水平的变化  
+Fig.3Variations of dissolved organic carbon contents in soil incubated for different times with inputs of different levels of exogenous phosphorus
+
+P-0、P-5、P-10、P-20、P-30与P-60表示不同处理的施磷量， 依次为供试湿地土壤全磷含量的0、 $5 \%$ 、 $10 \%$ / $20 \%$ / $30 \%$ 与 $60 \%$ 以模拟外源磷素在湿地土壤中的累积效应。不同小写字母表示相 同培养时间不同处理间在0.05水平差异显著。P-0,P-5,P-10,P-20, P-30,and P-6O indicate the amounts of phosphorus applied in different treatments,used to simulate the dynamic accumulation of exogenous phosphorus by adding gradient phosphorus at rates of 0, $5 \%$ $10 \%$ $20 \%$ ， $30 \%$ and $60 \%$ of the initial total phosphorus content of the sampled soil.Different lowercase letters indicate significant differences among different treatments at the same incubation time at 0.05level.
+
+HLOC含量在培养初期呈显著上升趋势 $( P { < } 0 . 0 5 )$ ，而ROC含量则持续下降 $( P { < } 0 . 0 5 )$ 。培养6个月时，各处理 HLOC含量依次是对照的1.14倍、1.17倍、1.43倍、1.38倍及1.54倍，而ROC削减为对照的 $9 8 . 5 \%$ $9 4 . 6 \%$ 、 $91 . 9 \%$ 、 $82 \%$ 及 $78 \%$ 。在整个培养期结束后，与培养6个月相比，培养18个月的对照HLOC含量下降 $8 \%$ 左右 $( P { < } 0 . 0 5 )$ ，P-60处理的HLOC含量下降
+
+![](images/2438c3e2047e5bf8603723b2b755f69f8782562c81fdba2750adcec0786cc009.jpg)  
+图4不同培养时间土壤微生物量碳含量随外源磷输入水平的变化
+
+P-0、P-5、P-10、P-20、P-30与P-60表示不同处埋的施磷量， 依次为供试湿地土壤全磷含量的0、 $5 \%$ 、 $10 \%$ 1 $20 \%$ 1 $30 \%$ 与 $60 \%$ 以模拟外源磷素在湿地土壤中的累积效应。不同小写字母表示相 同培养时间不同处理间在0.05水平差异显著。P-0,P-5,P-10,P-20, P-30,and P-6O indicate the amounts of phosphorus applied in different treatments,used to simulate the dynamic accumulation of exogenous phosphorus by adding gradient phosphorus at rates of 0, $5 \%$ $10 \%$ $20 \%$ $30 \%$ and $60 \%$ of the initial total phosphorus content of the sampled soil.Different lowercase letters indicate significant differences among different treatments at the same incubation time at O.05 level.
+
+$31 \%$ 左右 $( P { < } 0 . 0 5 )$ ，以及随外源磷输入水平的增加，培养12个月和18个月的HLOC变化并不显著。同时，培养18个月的ROC含量与培养6个月的相比在P-0中仅减少 $1 . 1 \%$ 左右，变化不大，而在P-60中则减少 $1 6 \%$ 左右 $( P { < } 0 . 0 5 )$ 。
+
+# 2.2.5 有机碳矿化特征
+
+如图6所示，在3次56d培养期内，各处理组样品有机碳矿化速率均在开始培养后的第5d达到峰值，之后随时间推移逐渐下降，在培养的最后两周内基本稳定；培养6个月和12个月的有机碳矿化速率变化趋势基本一致，培养18个月的有机碳矿化速率明显低于前两次培养，其最大值降为前两次峰值的0.5倍。除P-5、P-10处理的有机碳矿化速率仅在培养首周内高于P-0，且之后随活性碳组分的消耗分解逐渐趋于一致外，其余各处理组有机碳矿化速率均显著高于对照组 $( P { < } 0 . 0 5 )$ 。
+
+在3次土壤碳矿化培养试验中，随外源磷输入水平的增加，土壤有机碳累积矿化量显著上升$( P { < } 0 . 0 5 )$ (图6)。培养6个月时，各处理水平的累积矿化量在结束培养后较对照分别增加 $2 . 7 \%$ 、 $9 . 5 \%$ /$24 \%$ 1 $3 5 \%$ 及 $49 \%$ ，之后随整个试验培养时间的推移，各处理水平的组间差异较首次采样(6个月)明显减小，到培养18个月时，各处理水平的累积矿化量较对照分别增加 $2 . 2 \%$ 、 $6 . 2 \%$ 、 $1 5 \%$ 、 $2 6 \%$ 及 $36 \text{‰}$
+
+![](images/5a541e9df8e548ab566b2f7ed4db39a64a1c98e18dbf7c378b78e342cc0a62d0.jpg)  
+Fig.4Variations of microbial biomass carbon contents in soil incubated for different times with inputs of different levels of exogenous phosphorus   
+图5不同培养时间土壤活性有机碳各组分含量随外源磷输入水平的变化Fig.5Variationsofcontentsofactiveorganiccarboncomponentsinsoilincubatedfordifferenttimes withinputsofdiferentlevelsof exogenous phosphorusP-0、P-5、P-10、P-20、P-30与P-60表示不同处理的施磷量，依次为供试湿地土壤全磷含量的0、 $5 \%$ ！ $10 \%$ （ $20 \%$ 、 $30 \%$ 与 $60 \%$ ，以模拟外源磷素在湿地土壤中的累积效应。HLOC:高活性有机碳;MLOC:中活性有机碳;LOC:活性有机碳;ROC：易氧化有机碳。不同小写字母表示相同培养时间不同处理间在0.05水平差异显著。P-0,P-5,P-10,P-20,P-30,andP-60 indicate theamountsof phos-phorusappliedindiferenttreatmentsusedtosiulatethdyamicaccmulationofexogenusposporusbyddinggradietposposatrates of 0, $5 \%$ ， $10 \%$ ， $20 \%$ ， $30 \%$ and $60 \%$ of the initial total phosphorus content of the sampled soil. HLOC: highly labile organic carbon;MLOC:mid-labileorganiccarbon;LOC:labileorganiccarbon;ROC:ecalcitrantorganiccarbon.Diferentlowercaseletersindicatesignificant differences among different treatments at the same incubation time at O.o5 level.
+
+![](images/4d07ff6868ac5b54005149e3490e9d4b837a7d97ce77d61b080d0e08e76c249a.jpg)  
+图6不同培养时间土壤有机碳矿化速率及累积矿化量随外源磷输入水平的时间变化Fig.6Variations inratesandaccumulationofmineralizationofsoilorganiccarbonovertimeinsoilincubatedfordierenttimeswith inputs of different levels of exogenous phosphorusP-0、P-5、P-10、P-20、P-30与P-60 表示不同处理的施磷量，依次为供试湿地土壤全磷含量的0、 $5 \%$ 、 $10 \%$ 、 $20 \%$ 、 $30 \%$ 与 $60 \%$ 5以模拟外源磷素在湿地土中的累积应。P-0,P-5,P-10,P-20,P-30,andP-60indicate theamountsofphosphorusappliedindierettreatments,usedto simulate the dynamic accumulationof exogenous phosphorus byadding gradient phosphorus atrates of 0, $5 \%$ $10 \%$ $20 \%$ ，$30 \%$ and $60 \%$ of the initial total phosphorus content of the sampled soil.
+
+对各处理有机碳累积矿化量采用一级动力学方程进行拟合(表3)。培养6个月时，各处理的潜在矿化势 $( C _ { 0 } )$ 为 $4 0 . 9 { \sim } 6 6 . 8 \ \mathrm { m g { \cdot } k g } ^ { - 1 }$ ，且随外源磷输入水平的增加呈显著上升趋势 $( P { < } 0 . 0 5 )$ ，各处理的 $C _ { 0 }$ 依次为对照的0.99 倍、1.21倍、1.28倍、1.45倍和1.62倍，但矿化常数 $k$ 无规律性变化。培养12个月时, $C _ { 0 }$ 缩减至 $4 5 . 2 { \sim } 5 8 . 6 \ \mathrm { \ m g { \cdot } k g } ^ { - 1 }$ ，但各处理的 $C _ { 0 }$ 仍显著高于对照 $( P { < } 0 . 0 5 )$ 。培养18个月时，处理差异明显减小,P-5、P-10 处理的 $C _ { 0 }$ 略低于对照，但P-20、P-30及P-60 处理的 $C _ { 0 }$ 仍显著高于对照 $( P { < } 0 . 0 5 )$ 0
+
+# 2.2.6 涉碳循环酶活性
+
+与大分子纤维素降解有关的涉碳循环酶 $\beta \mathrm { G }$ 和
+
+CBH的活性变化可动态反映土壤碳库的消长过程[19]。βG作为限制大分子有机质降解的胞外酶，可以增加土壤中小分子可溶性基质的含量[20]。由表4可知，外源磷的输入可显著提升βG的活性 ${ { ( \mathrm { L _ { R R } } } ^ { * } } { > } 0 \$ )。培养6个月时，βG活性为3次采样中的最高值，且处理差异显著 $( P { < } 0 . 0 5 )$ ，RR值依次为对照的1.09倍、1.31倍、1.57倍、1.66倍及1.77倍。之后随时间推移，组间差异减弱，到培养18个月时，P-60处理的RR值仍高于对照 $16 \text{‰}$ CBH的活性随外源磷输入水平的增加而增强 $( \mathrm { L } _ { \mathrm { R R } } { ^ { \ast } } { > } 0 )$ ，但其处理间差异较βG并不显著，同时随时间推移处理间差异减小。不同于βG和CBH，DH是与微生物的氧化还原能力有关的一类能够反映土壤微生物新陈代谢整体活性的氧化还原酶[21]。由各处理的RR值可看出，DH活性基本与对照相同(RR\~1)，这表明外源磷输入并没有对土壤DH活性
+
+# 表3不同培养时间土壤土壤有机碳累积矿化量和一级动力学参数随外源磷输入水平的变化
+
+Table 3Cumulative mineralization of soil organic carbon and first-order kinetic parameters in soil incubated for different timeswith inputs of different levels of exogenous phosphorus   
+
+<html><body><table><tr><td>培养时间 Incubation time (month)</td><td>处理 Treatment</td><td>累积矿化量(C)潜在矿化势(Co) Cumulative mineralization (mg·kg-1)</td><td>Potential mineralization potential (mg·kg-1)</td><td>矿化常数(k) Mineralization constant (d-1)</td></tr><tr><td>6</td><td>P-0</td><td>45.4±2.0d</td><td>41.3</td><td>0.113</td></tr><tr><td rowspan="8">12</td><td>P-5</td><td>46.7±1.8d</td><td>40.9</td><td>0.139</td></tr><tr><td>P-10</td><td>49.8±1.0cd</td><td>49.8</td><td>0.111</td></tr><tr><td>P-20</td><td>56.5±2.4c</td><td>52.7</td><td>0.118</td></tr><tr><td>P-30</td><td>61.6±3.1b</td><td>59.8</td><td>0.124</td></tr><tr><td>P-60</td><td>67.9±2.5a</td><td>66.8</td><td>0.139</td></tr><tr><td>P-0</td><td>47.3±1.3c</td><td>45.2</td><td>0.100</td></tr><tr><td>P-5</td><td>48.3±1.3c</td><td>45.7</td><td>0.103</td></tr><tr><td>P-10</td><td>50.2±4.0c</td><td>47.1</td><td>0.083</td></tr><tr><td rowspan="8">18</td><td>P-20</td><td>57.5±2.2b</td><td>53.4</td><td>0.092</td></tr><tr><td>P-30</td><td>59.8±1.5b</td><td>55.7</td><td>0.116</td></tr><tr><td>P-60</td><td>64.1±2.2a</td><td>58.6</td><td>0.119</td></tr><tr><td>P-0</td><td>30.8±2.0b</td><td>31.3</td><td>0.115</td></tr><tr><td>P-5</td><td>27.5±2.0b</td><td>30.5</td><td>0.130</td></tr><tr><td>P-10</td><td>29.1±3.0b</td><td>29.0</td><td>0.117</td></tr><tr><td>P-20</td><td>34.5±1.6ab</td><td>32.2</td><td>0.116</td></tr><tr><td>P-30</td><td>35.6±3.2ab</td><td>32.7</td><td>0.114</td></tr><tr><td>P-60</td><td></td><td>38.3±2.4a</td><td>36.8</td><td>0.117</td></tr></table></body></html>
+
+P-0、P-5、P-10、P-20、P-30与P-60表示不同处理的施磷量，依次为供试湿地土壤全磷含量的0、 $5 \%$ 、 $10 \%$ 1 $20 \%$ 1 $30 \%$ 与 $60 \%$ 以模拟外源磷素在湿地土壤中的累积效应。不同小写字母表示同一培养时间不同处理间在0.05水平差异显著。P-0,P-5,P-10,P-20,P-30,and P-6O indicate the amounts of phosphorus applied in dif-ferent treatments,used to simulate the dynamic accumulation ofexogenous phosphorus by adding gradient phosphorus at rates of 0,$5 \%$ $10 \%$ $20 \%$ 5 $30 \%$ and $60 \%$ of the initial total phosphorus contentof the sampled soil.Different lowercase letters indicate significantdifferences among different treatments at the same incubation timeat 0.05level.
+
+产生显著影响。
+
+# 3 讨论与结论
+
+随着大量湿地沼泽被开垦成农田，人类在农业活动中施用的氮磷等营养元素随地表径流、大气降水等方式进入湿地生态系统，破坏了自然湿地原本的平衡状态[22]。本研究结果表明，随外源磷输入水平的增加，湿地土壤碳库有效性增加，周转速率加快，这与DeBusk等[23]和刘德燕等[5的报道相一致，外源磷素的输入对湿地土壤中有机碳矿化及周转特性改变有明显促进作用。在整个避光恒温培养试验过程中，土壤TOC含量随外源磷输入水平的增加及培养时间的推移均呈明显下降趋势，这表明外源磷输无外源碳干扰下，初始土壤中有限的可利用性碳组分会被随外源磷输入而活化的微生物快速分解掉，且其对土壤碳库的分解消耗具有时间累积效应，并随时间推移逐渐增强。土壤DOC、MBC含量随外源磷输入水平的增加而增加，但随培养时间推移，其含量大幅度下降，这表明外源磷输入可促进土壤碳库由稳态向非稳态转变，增加土壤碳库的有效性，促进土壤有机质向微生物量转化，而这部分DOC很可能源自土壤有机质中的腐殖质成分[24]，同时在无外源碳干扰条件下，外源磷输入导致的MBC累积强度降低，微生物的异化作用会将非稳态的碳组分快速降解掉。在分析土壤活性碳组分时，随外源磷输入水平的增加，HLOC含量增加，ROC含量降低,MLOC和LOC变化不大，同时随培养时间推移，HLOC总体含量明显下降，ROC总体变化不大，但仍下降，表明外源磷输入可推动土壤碳库由稳定转变为不稳定，这是活性有机碳组分应对快速变化的周围环境所发生的即时反馈，同时在无外源碳干扰下，土壤活性碳组分会因微生物的异化作用而分解，且随外源磷输入水平的增加而增大其分解量，已有研究发现HLOC对土壤碳库的变化较ROC敏感得多[25]，在土壤碳库中ROC是相对稳定的成分，但外源磷的输入仍可促进土壤ROC的降解，土壤LOC及MLOC基本不受外源磷输入的干扰。已有研究表明，有机质是土壤呼吸的主要碳源，土壤呼吸速率随有机质含量的增加而增加[26]，而土壤有机质的加速腐烂得益于磷素有效利用性的提高，故也可使 $\mathrm { C O } _ { 2 }$ 排放量增加[5];同时马天娥等[27]的研究也表明长期单施磷肥可显著促进土壤有机碳的矿化。本研究中高外源磷输入水平的P-60处理有机碳矿化速率显著高于对照，这与Aerts等[28]的报道相一致，少量无机磷的输入对土壤碳矿化过程影响不大，当湿地土壤中磷素本底值较低时，其呼吸强度与外源磷输入水平呈正相关。李忠佩等[29]的研究发现，土壤有机碳动态矿化速率变化同DOC含量变化趋势相一致，即本研究中，随时间推移，由外源磷输入水平的增加而引起的土壤有机碳累积矿化量的组间差异减小，各处理水平的有机碳累积矿化量显著降低，与之前DOC含量变化趋势一致。土壤潜在矿化势 $C _ { 0 }$ 随外源磷输入水平的增加而增加，且各处理水平的组间差异随培养时间推移而显著减小，这表明外源磷的输入有提高湿地土壤碳素输出风险的可能，同时外源磷素输入的累积效应能增加土壤潜在矿化势的总量。在DOC分
+
+表4不同培养时间土壤碳循环酶活性随外源磷输入水平的变化Table4Variationsofcarbon-relatedenzymesactivities insoilincubatedfordifferent times withinputsofdiferentlevelsof ex-ogenous phosphorus  
+
+<html><body><table><tr><td rowspan="3">处理 Treatment</td><td colspan="6">β-葡聚糖苷酶 β-1,4-glucosidase (βG)</td><td colspan="6">纤维二糖水解酶 Cellobiohydrolase (CBH)</td><td colspan="6">脱氢酶 Dehydrogenase (DH)</td></tr><tr><td colspan="2">6个月 6 months</td><td colspan="2">12个月 12 months</td><td colspan="2">18个月 18 months</td><td colspan="2">6个月 6 months</td><td colspan="2">12个月 12 months</td><td colspan="2">18个月 18 months</td><td colspan="2">6个月 6 months</td><td colspan="2">12个月 12 months</td><td colspan="2">18个月 18 months</td></tr><tr><td>RR LRR*±C1</td><td></td><td>RR LRR*±C1</td><td></td><td></td><td>RR LRR*±C1</td><td>RR LRR*±C1</td><td></td><td></td><td>RR LRR*±C1</td><td></td><td>RR LRR*±C1</td><td>RR LRR*±C1</td><td></td><td>RR LRR*±C1</td><td></td><td>RR LRR*±C1</td><td></td></tr><tr><td>P-5</td><td>1.09 +0.036±</td><td></td><td>1.02</td><td>+0.011±</td><td>1.00</td><td>+0.00h</td><td>1.36</td><td>+0.128±</td><td>1.19</td><td>+0.076</td><td>0.99</td><td>0.004b</td><td>0.99</td><td>0.005±</td><td>0.98</td><td>0.001b</td><td>1.00</td><td>+0.00704</td></tr><tr><td>P-10</td><td>1.31</td><td>+0.1176b</td><td>1.05</td><td>+0.02±</td><td>1.07</td><td>+0.078±</td><td>1.34</td><td>+0.122+</td><td>1.21</td><td>+0.082b</td><td>1.03</td><td>+0.0013b</td><td>0.93</td><td>-0.01a</td><td>0.91</td><td>0.042+</td><td>0.98</td><td>-0.008a</td></tr><tr><td>P-20</td><td>1.57</td><td>+0.196±</td><td>1.12</td><td>+.048b</td><td>1.11</td><td>+0.046+</td><td>1.59</td><td>0.002ab</td><td>1.26</td><td>+0.0394</td><td>1.08</td><td>+0.025±</td><td>0.95</td><td>0.0229±</td><td>1.01</td><td>+0.004</td><td>0.84</td><td>0.078</td></tr><tr><td>P-30</td><td>1.66</td><td>+0.220± 0.037a</td><td>1.16</td><td>+0.065± 0.005b</td><td>1.14</td><td>0.070± 0.012a</td><td>1.56</td><td>+0.191± 0.009ab</td><td>1.24</td><td>+0.094± 0.011a</td><td>1.10</td><td>+0.076± 0.031a</td><td>0.85</td><td>-0.070± 0.030b</td><td>1.14</td><td>+0.057± 0.016a</td><td>1.02</td><td>+0.011± 0.015a</td></tr><tr><td>P-60</td><td>1.77 +0.247±</td><td></td><td>1.20</td><td>+0.014a</td><td>1.16</td><td>0.019a</td><td>1.62</td><td>+0.207a</td><td>1.28</td><td>+0.106a</td><td>1.12</td><td>+0.008a±</td><td>0.95</td><td>-0.022±</td><td>0.94</td><td>−0.076</td><td>0.98</td><td>0.00a</td></tr></table></body></html>
+
+P-0、P-5、P-10、P-20、P-30与P-60表示不同处理的施磷量，依次为供试湿地土壤全磷含量的0、 $5 \%$ 、 $10 \%$ 、 $20 \%$ 、 $30 \%$ 与 $60 \%$ 以模拟外源磷素在湿地土壤中的累积效应。RR为响应比，是各处理与对照(P-O)的比值; ${ \mathrm { L } } _ { \mathrm { { R R } } } *$ 为对RR值进行常用对数运算，C1表示0.95 的置信水平； $^ { \bullet _ { + } }$ ”指示酶活性增强,“-"指示酶活性削弱。不同小写字母表示不同处理间在0.05水平差异显著。P-0,P-5,P-10,P-20,P-30, andP-60idicatethamountsofposporusaplidindierenttreatetsusedtosiulatetedamiccuulationofxogeospos phorus by adding gradient phosphorus at rates of 0, $5 \%$ ， $10 \%$ $20 \%$ $30 \%$ and $60 \%$ of the initial total phosphorus content of the sampled soil. RR is the response ratio,which is the ratio of treatment to the control (P-0). ${ \mathrm { L } _ { \mathrm { R R } } } ^ { * }$ is a common logarithmic operation for RR,Cl represents the confidence level of 0.95. $" \mathrm { ^ 6 + } \mathrm { ^ , }$ indicates thatthe enzyme activityis enhanced,and“-”indicates thatthe enzyme activityis weakened.Different lowercase letters indicate significant differences among treatments at O.O5 level.
+
+析中得知，土壤DOC 含量随外源磷输入水平的增加而增加，且DOC 作为微生物的代谢基质之一，其含量的增加会促进微生物活动和相关生物酶的合成[30-31]。本研究中外源磷的输入可显著提升 βG和CBH的活性，但对土壤DH的活性并未产生显著影响，这与Dinesh等[32的研究结果—添加无机肥料能显著提升DH活性有所差别，但也有研究指出无机肥料的添加基本不会改变DH的活性，土壤类型、地形地势及当地气候条件等的差异可能是造成不同研究结果的原因[33]。
+
+结束培养试验后，综合所有试验数据进行Pearson相关性分析(图7)得：土壤TP、Olsen-P、MBP与TOC、ROC显著负相关 $( P { < } 0 . 0 1 )$ ，与非稳态碳组分(MBC、DOC、HLOC)及 $C _ { t }$ 显著正相关 $( P { < } 0 . 0 1 )$ ，表明外源磷的输入可以削减湿地土壤总碳量，促进活性碳组分的生成，加速土壤碳库的矿化速率，从而造成巨大的湿地碳库损耗；对于生物酶，涉碳循环酶 $\beta \mathrm { G }$ 、CBH与TP正相关 $( P { < } 0 . 0 5 )$ ，与DOC、HLOC呈显著正相关$( P { < } 0 . 0 1 )$ ，表明外源磷的输入可提高βG和CBH的活性，并通过提升酶活动底物一一土壤碳库的活性碳成分来合成新的酶；同时βG 和CBH与ROC显著负相关$( P { < } 0 . 0 1 )$ ，表明活化的涉碳生物酶正好加速将大分子纤维素转化为高活性碳组分。
+
+综合以上讨论，外源磷输入可增大土壤碳库的消耗，推动土壤碳库由稳定状态转变为不稳定状态，同时，外源磷输入通过刺激微生物活动，提高生物
+
+TSC PCC HRE OOT OOT OOC C B P MRP AAP P-ussi IH IW a   
+TOC # 。 . 。 a · · . . 0 0 . 。 O   
+DOC 。 福 。 a . 8 . 。 0 。 。 O O 0   
+MBC O 0 福 . 。 . 0 。 。 。 ? O 。 0.8   
+HLOC 0 。 . 福 O . . 0 . O 。 O O 。   
+MLOC 。 。 O . . 。 。 。 O U 0.7   
+LOC . C 。 ? 。 。 。 0   
+ROC . O 福 0 。 福 。 . . . O d ●0.60   
+$C _ { t }$ 。 。 a 。。 。 。 O ●0.50 O 。 。   
+CBH 。 。 。 O 。 0 0 。 ? 福 。 O 。 00.40   
+DH O 。 。 O 。 。 · · 。 。 。 福   
+TP O . O O 0 0 O 0 。 。 。 . 00.3 0   
+MBP 。 O ® . 。 。 O O 。 。 。 ●0.2 0   
+AcP 0 。 。 0 O 。 。   
+Olsen-P 00.10
+
+TOC：总有机碳含量；DOC：可溶性有机碳含量；MBC：微生物量碳含量；HLOC：高活性有机碳含量；MLOC：中活性有机碳含量；LOC:活性有机碳含量；ROC：易氧化有机碳含量； $C _ { t }$ $\mathrm { C O } _ { 2 }$ 累积释放量；βG: $\beta$ -葡聚糖苷酶活性；CBH:纤维二糖水解酶活性；DH:脱氢酶活性；TP:全磷含量；MBP:微生物量磷含量;AcP:酸性磷酸酶活性;Olsen-P:Olsen-P含量。暖色调圆圈指示正相关，冷色调圆圈指示负相关；大小显示相关性的高低，大于0.3表示 $P { < } 0 . 0 5$ ，大于0.4表示 $P { < } 0 . 0 1$ 。TOC:total organic carboncontent; DOC:dissolved organic carbon content; MBC:microbialbiomass carbon content; HLOC:highly labile organic carbon content;MLOC:mid-labile organic carbon content; LOC:labile organic car-bon content; ROC:recalcitrant organic carbon content; $C _ { t }$ ：accumu-lated $\mathrm { C O } _ { 2 }$ emission; βG: $\beta$ -1,4-glucosidase activity;CBH:cellobio-hydrolase activity;DH:dehydrogenase activity;TP:total phosphoruscontent; MBP:microbial biomass phosphorus content; AcP:acidphosphatase activity;Olsen-P:Olsen-P content.Warm tone circlesindicate positive correlations,cool tone circles indicate negativecorrelations;circle size displays correlation level,greater than 0.3means $P < 0 . 0 5$ ，greater than O.4 means $P < 0 . 0 1$ ：
+
+酶活性，促进非稳态碳组分的合成，增加了底泥碳库的有效性，加快了碳库的周转速率，最终导致湿地土壤碳输出风险的增加。
+
+参考文献 References   
+[1] Verhoeven JT A,Arheimer B,Yin C Q,et al. Regional and global concerns over wetlands and water quality[J]. Trends in Ecology & Evolution,2006,21(2): 96-103   
+[2] 潘继花，何岩，邓伟，等．湿地对水中磷素净化作用的研究 进展[J].生态环境,2004,13(1):102-104 Pan JH,He Y,Deng W, et al. Progress in the study on the function of wetland in removal phosphorus in water[J].Ecology and Environment,2004,13(1):102-104   
+[3]刘春英，周文斌．我国湿地碳循环的研究进展[J]．土壤通 报,2012,43(5):1264-1270 Liu C Y, Zhou W B.Progress of research on carbon cycle of wetlands in China[J].Chinese Journal of Soil Science,2012, 43(5): 1264-1270   
+[4] Peijl MJV D,Verhoeven JT A. Carbon, nitrogen and phosphorus cycling in river marginal wetlands; a model examination of landscape geochemical flows[J]. Biogeochemistry, 2000,50(1): 45-71   
+[5]刘德燕，宋长春．磷输入对湿地土壤有机碳矿化及可溶性 碳组分的影响[J]．中国环境科学,2008,28(9):769-774 Liu D Y,Song C C.Effects of phosphorus enrichment on mineralization of organic carbon and contents of dissolved carbon in a freshwater marsh soil[J].China Environmental Science,2008,28(9): 769-774   
+[6] 刘德燕，宋长春，王丽，等．外源氮输入对湿地土壤有机碳 矿化及可溶性有机碳的影响[J]．环境科学，2008，29(12): 3525-3530 Liu D Y, Song C C, Wang L, et al. Exogenous nitrogen enrichment impact on the carbon mineralization and DOC of the freshwater marsh soil[J]. Environmental Science,2008, 29(12): 3525-3530   
+[7] 窦晶鑫，刘景双，王洋，等．模拟氮沉降对湿地植物生物量 与土壤活性碳库的影响[J]．应用生态学报，2008，19(8): 1714-1720 Dou JX,Liu JS,Wang Y,et al. Effects of simulated nitrogen deposition on biomass of wetland plant and soil active carbon pool[J].Chinese Journal of Applied Ecology,2008,19(8): 1714-1720   
+[8] Wang JB, Zhu T C,Ni H W,et al. Effects of elevated $\mathrm { C O } _ { 2 }$ （204号 and nitrogen deposition on ecosystem carbon fluxes on the Sanjiang plain wetland in northeast China[J].PLoS One,2013, 8(6):e66563 秦伟，陆欢欢，王芳，等．太湖流域典型农田系统土壤中磷 的流失[J]．江苏农业科学,2012,40(6):321-323   
+[9] Qin W,Lu HH,Wang F,et al. Loss of phosphorus in soils of typical cropland system in Taihu Lake watershed[J]. Jiangsu Agricultual Sciences,2012, 40(6): 321-323   
+[10] Guo X J,Yuan D H, Jiang JY,et al. Detection of dissolved organic matter in saline-alkali soils using synchronous fluorescence spectroscopy and principal component analysis[J]. Spectroscopy,2013,104: 280-286   
+[11]胡海清，陆昕，孙龙．土壤活性有机碳分组及测定方法[J]. 森林工程,2012,28(5):18-22 Hu H Q,Lu X, Sun L. Research review on soil active organic carbon fractionation and analytical methods[J]. Forest Engineering,2012,28(5): 18-22   
+[12] Brookes P C,Powlson D S, Jenkison D S. Measurement of microbial biomass phosphorus in soil[J].Soil Biology and Biochemistry,1982,14(4): 319-329   
+[13]Vance E D,Brookes P C,Jenkinson D S.An extraction method for measuring soil microbial biomass C[J]. Soil Biology and Biochemistry,1987,19(6): 703-707   
+[14]FatemiFR,FernandezIJ,Simon K S,et al.Nitrogen and phosphorus regulation of soil enzyme activities in acid forest soils[J]. Soil Biology and Biochemistry,2016,98:171-179   
+[15]林先贵．土壤微生物研究原理与方法[M]．北京：高等教育 出版社,2010:243-262 Lin X G.Principles and Methods of Soil Microbiology Research[M]. Beijing: Higher Education Press, 2010: 243-262   
+[16] DeForest JL.The influence of time,storage temperature,and substrate age on potential soil enzyme activity in acidic forest soils using MUB-linked substrates and $_ \mathrm { ~ L ~ }$ -DOPA[J]. Soil Biology and Biochemistry,2009,41(6): 1180-1186   
+[17]章明奎，周翠，方利平．水稻土磷环境敏感临界值的研究[J]. 农业环境科学学报,2006,25(1):170-174 Zhang M K, Zhou C,Fang L P.Environmentally sensitive thresholds of phosphorus of paddy soils[J].Journal of Agro-Environment Science,2006,25(1):170-174   
+[18] Marklein A R,Houlton B Z. Nitrogen inputs accelerate phosphorus cycling rates across a wide variety of terrestrial ecosystems[J]. New Phytologist,2012,193(3): 696-704   
+[19] Sinsabaugh R L,Lauber C L,Weintraub MN,et al. Stoichiometry of soil enzyme activity at global scale[J].Ecology Letters,2008,11(11): 1252-1264   
+[20] Lagomarsino A,Moscatelli M C,Tizio A D,et al. Soil biochemical indicators as a tool to assess the short-term impact of agricultural management on changes in organic C in a Mediterranean environment[J]. Ecological Indicators,2009, 9(3): 518-527   
+[21] Gil-Sotres F,Trasar-Cepeda C,Leirós M C,et al. Different approaches to evaluating soil quality using biochemical properties[J].Soil Biologyand Biochemistry，2005，37(5): 877-887   
+[22] Schrope M. Save our swamp[J]. Nature,2001,409(6817): 128-130   
+[23]DeBusk WF,Reddy KR.Turnover of detrital organic carbon in a nutrient-impacted everglades marsh[J]. Soil Science Society of America Journal,1998,62(5):1460-1468   
+[24]万忠梅，郭岳，郭跃东．土地利用对湿地土壤活性有机碳 的影响研究进展[J]．生态环境学报,2011,20(3):567-570 Wan Z M, Guo Y, Guo Y D. Research progress on influence of land use on wetland soil active organic carbon[J]. Ecology and Environmental Sciences,2011,20(3):567-570   
+[25]文炯，罗尊长，李明德，等．土壤活性有机质及其与土壤养 分的关系[J].湖南农业科学,2009,(1):57-60 Wen J,Luo ZC,Li MD,et al.Soil active organic matter and itsrelationship with soil nutrients[J]. Hunan Agricultural Sciences,2009,(1): 57-60   
+[26]窦晶鑫，刘景双，王洋，等．三江平原草甸湿地土壤有机碳 矿化对C/N的响应[J].地理科学,2009,29(5):773-778 Dou JX,Liu J S,Wang Y,et al.Effects of amendment C/N ratio on soil organic carbon mineralization of meadow marshes in Sanjiang Plain[J].Scientia Geographica Sinica, 2009,29(5): 773-778   
+[27]马天娥，魏艳春，杨宪龙，等．长期施肥措施下土壤有机碳 矿化特征研究[J]．中国生态农业学报,2016,24(1):8-16 Ma TE,WeiYC,YangXL,etal.Mineralization characteristics of soil organic carbon under long-term fertilization management[J].Chinese Journal of Eco-Agriculture,2016, 24(1): 8-16   
+[28]Aerts R,Toet S.Nutritional controls on carbon dioxide and methane emission from Carex-dominated peat soils[J]. Soil Biology and Biochemistry,1997,29(11/12):1683-1690   
+[29]李忠佩，张桃林，陈碧云．可溶性有机碳的含量动态及其与土 壤有机碳矿化的关系[J]．土壤学报,2004,41(4):544-552 Li Z P,Zhang TL,Chen B Y.Dynamics of soluble organic carbon and its relation to mineralization of soil organic carbon[J].Acta Pedologica Sinica,2004,41(4):544-552   
+[30]Bonnett S A F,Ostle N,Freeman C.Seasonal variations in decomposition processes in a valley-bottom riparian peatland[J]. Science of the Total Environment,2006,370(2/3): 561-573   
+[31]Zhang XY,DongWY,DaiXQ,et al.Responses of absolute and specific soil enzyme activities to long term additions of organic and mineral fertilizer[J].Science of the Total Environment,2015,536:59-67   
+[32]Dinesh R,Srinivasan V,Hamza S,et al. Short-term incorporation of organic manures and biofertilizers influences biochemical and microbial characteristics of soils under an annual crop [Turmeric (Curcuma longa L.)][J]. Bioresource Technology,2010,101(12):4697-4702   
+[33]Masto R E,Chhonkar P K,Singh D,et al. Soil quality response to long-term nutrient and crop management on a semi-arid Inceptisol[J].Agriculture,Ecosystems & Environment,2007,118(1/4):130-142
+
+# 《植物遗传资源学报》2018年征订启事
+
+《植物遗传资源学报》是中国农业科学院作物科学研究所和中国农学会主办的学术期刊，中国科技核心期刊、全国中文核心期刊、中国科学引文数据库(CSCD)核心期刊，被国内多家数据库收录，被CA 化学文摘(美)(2014)收录，荣获2015年度中国自然资源学会高影响力十佳期刊。据《中国科技期刊引证报告》(核心版)统计:2016 年影响因子1.181，在农艺学类期刊中排名第3。据CNKI《中国学术期刊影响因子年报》统计:2016年复合影响因子1.495,在48 种农艺学类期刊排名第4，期刊综合影响因子1.256。
+
+报道内容为有关植物遗传资源基础理论研究、应用研究方面的研究成果、创新性学术论文和高水平综述或评论。如种质资源的考察、收集、保存、评价、利用、创新，信息学、管理学等；起源、演化、分类等系统学；基因发掘、鉴定、克隆、基因文库建立、遗传多样性研究。
+
+双月刊,A4开本,216页，彩色铜版纸印刷。定价68元，全年408元。各地邮局发行。邮发代号:82-643。国内连续出版物号CN1-4996/S，国际连续出版物号ISSN1672-1810。本刊编辑部常年办理订阅手续，如需邮挂每期另加3元。
+
+地址：北京市中关村南大街12号《植物遗传资源学报》编辑部
+
+邮编：100081 电话：010-82105794 010-82109494   
+网址：www.zwyczy.cn   
+E-mail: zwyczyxb2003 $@$ 163.comzwyczyxb2003@caas.cnzwyczyxb2003@sina.com   
+微信ID：植物遗传资源学报 作者QQ群:372958240

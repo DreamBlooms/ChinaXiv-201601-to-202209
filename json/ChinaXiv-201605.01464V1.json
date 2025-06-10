@@ -1,0 +1,84 @@
+[
+    {
+        "type": "text",
+        "text": "Regenerative medicine: targeted genome editing in vivo ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cell Research (2015) 25:271-272.doi:10.1038/cr.2015.11; published online 30 January 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The CRISPR/Cas system has proven to be a powerful gene editing tool both in vitro and in vivo.A recent flurry of studies of in vivo gene editing using the CRISPR/Cas system bring bright prospects in creating animal models and targeted gene therapy of human genetic diseases. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Animal models are invaluable in studying the mechanisms underlying human genetic disorders.However, our current knowledge of genetic diseases is limited by the time-consuming procedure of creating animal models via conventional transgenesis or gene targeting in embryonic stem cells. Thanks to the facile nature of guide RNA (gRNA) design and ease of their delivery to one-cell embryos, the clustered regularly interspaced short palindromic repeat (CRISPR)/Cas system has revolutionized the way that genetargeted knockout and knockin animal models are created.In the absence of a donor template such as single-stranded oligodeoxynucleotides (ssODNs), cointroduction of Cas9 mRNA and gRNAs can introduce mutations via an errorprone non-homologous end-joining (NHEJ) pathway at the targeted gene locus;while in the presence of a donor template,homology directed repair (HDR） via homologous recombination(HR） becomes predominant and error-free DNA repair can be obtained [1]. Another notable advantage of the CRISPR/Cas system is multiplex gene editing. This feature is particularly useful in dissecting disease phenotypes contributed by multiple genetic alterations,such as cancers. Indeed,multiplexibility of the CRISPR/Cas system has been successfully harnessed to generate isogenic cancer models.For instance,a recent study reported that simultaneous targeted mutagenesis of tumor suppressor genes Pten and $p 5 3$ mediated by the CRISPR/Cas system successfully mimicked the phenotypes of deleting Pten and $p 5 3$ via the conventional Cre-loxP method[2].Despite the potential, however, owing to the relatively large transgene size of Cas9,in vivo multiplex gene editing still remains challenging due to the limited cargo capacity of commonly used lentiviral and adeno-associated viral (AAV) vectors. One way to get around this is to generate Cas9-knockin animals that obviate the need to deliver Cas9 itself, thus freeing up additional space for delivering other DNA sequences of interest. Using this strategy, Platt et al.[3] simultaneously introduced loss-of-function mutations at $p 5 3$ and Lkb1 loci and a point mutation at Kras locus $( K r a s ^ { G I 2 D } )$ in an elegant model for lung adenocarcinoma. Although improvements in delivery efficiency and packaging capacity are warranted to broaden CRISPR/Cas's in vivo application, the generation of Cas9 animals certainly alleviates the problem.In addition to disease modeling, CRISPR/Cas's multiplexibility also allows for reverse genetic studies to dissect compensatory roles of multiple genes in vivo.As an example, Swiech et al.[4] simultaneouslydisrupted three DNA methyltransferase (DNMT) genes in adult mouse brains to study their functions in memory formation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Despite the popularity of nucleasebased genome editing technologies, there still remain certain concerns, including off-target mutations and oncogene activation,that are undesirable in gene therapies.Arecent studyraised an intriguing possibility of in vivo promoterless gene targeting without the use of nucleases, thus greatly diminishing the risk of adverse off-target effects [5]. Comparably,however, the promoterless nuclease-independent site-specific gene targeting strategy illustratedbyBarzel et al.[5] iseffective in only certain therapeutic effects conferred by gene targeting. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Good news for research groups advocating nuclease-based gene therapy came in the form of recent publications that appeared in the July 2014 issue of Cell Stem Cell by three independent labs,which conclude that targeted gene editing technologies such as the CRISPR/Cas system,helper-dependent adenoviral vectors(HDAdVs）and transcription activator-like effector nuclease(TALEN) produce low levels of unwanted off-target mutagenesis [6- 8]. The comprehensive evaluation of nuclease-based targeted genome editing in the whole genome mutational load indicates that unwanted mutations are very rare,if there are any at all,and certainly helps ease concerns for their application in clinical settings. From a therapeutic standpoint, the CRISPR/ Cas system has been successfully used to correct disease-relevant mutations, thereby enabling functional rescues using adult stem cells. Wu et al.[9] demonstrated successful CRISPR/Cas9- mediated correction of a disease-causing mutation in Crygc gene that existed in mouse spermatogonial stem cells (SSCs).Importantly, fertilization with round spermatids derived from these corrected SSCs gave rise to disease-free offspring at a very high efficiency. In addition to in vitro cultured adult stem cells,CRISPR/Cas was also shown to be effective for correcting gene mutations in adult tissues in vivo.In one studyby Yin et al.[10], the CRISPR/ Cas9 system was used to restore the Fah deficiency-induced hereditary tyrosinemia via correcting Fah mutation in hepatocytes and functionally corrected the body weight loss phenotype In another study, Ding and colleagues disrupted the expression of the Pcsk9 gene through in vivo gene targeting in hepatocytes.Loss-of-function mutation inPcsk9hasbeenlinked to lowerblood concentration of low-density lipoprotein cholesterol(LDL-C),a major risk factor for cardiovascular disease.Disruption of Pcsk9 expression in hepatocytes reduced bloodLDL-C level aswell as the risk of coronary heart disease (CHD) [11].Impressively, Yoshimi et al.[1] described a strategy targeting three different recessivemutationsand reversed disease-associated phenotypes in rats. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Although these promising developments of in vivo targeting in animals bring great promise for the study and treatment of human genetic diseases, a number of roadblocks remain.First, delivery of components of the CRISPR/ Cas9 system needs to be improved. Plasmids and short ssODN could be efficiently delivered into cells by electroporation in vitro.While in vivo, one of the factors affecting the efficiency of gene targeting is the delivery system. To accommodate the large transgene size of Cas9, integration-free vectors such as HDAdVs need to be further improved with larger packaging capacity and lower immunogenicity. The current packaging capacity for AAV is still not sufficient for versatile applications that the CRISPR/Cas9 system can offer. Alternatively, shorter Cas9 orthologs or engineered Cas9 surrogate(s) can be considered. Second, cell type specificityisanother area that can benefit from further optimization.This is particularly relevant for in vivo applications as there exist a multitude of different cell types and thus effective site-specific gene editing and prevalence of side effects are in part dependent on the efficiency of delivery of CRISPR/Cas9 components to the cell type of interest. Although off-target effects have been systematically assessed in vitro using various cell lines,physiological and pathological conditions including aging and disease niches are among the many factors that can potentially affect off-target effects in vivo.It is therefore imperative to extend these safety precautions and identify and quantify frequencies of off-target mutations in vivo.Third,most studies so far were carried out in mouse and species differences between mouse and human may preclude the successful application of knowledge gained from mouse studies to human therapy. For example,in comparison with mouse, human has a bigger genome size and perhaps a more complicated nuclear genomic organization and regulation, which may constitute a barrier for HRbased gene editing with the same length of HR arm as used in mouse study. To effectively achieve HR in the human genome, extended homology arms and integration-free vectors with larger capacity are needed. In this case,HDAdV vectors are attractive due to their ability to deliver long homology arms together with other CRISPR/Cas9 components into human cells [12]. Indeed,a recent report demonstrated the efficacy of a novel and efficient hybrid vector combining the advantages ofboth HDAdVs and TALENs in editing human cells in vitro [6], which paves the way to developmore powerful, efficient and versatile human-specific in vivo genome editing tools based on HDAdVs and Cas9 in the near future.Achieving this goal will greatly facilitate the progress ofhuman disease study and gene therapies. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Lixia Wangl, Jun $\\mathrm { W u } ^ { 2 }$ Weiwei Fang³, Guang-Hui Liu1, 4, 5, Juan Carlos Izpisua Belmonte² ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "National Laboratoryof Biomacromolecules, InstituteofBiophysics,ChineseAcademyofSciences,Beijinglooi01,China;²GeneExpression Laboratory,SalkInstituteforBiologicalStudies, 10010North TorreyPinesRoad,LaJolla,CA 92037,USA;BeijingHospital of theMinistry ofHealth,Beijing10o730,China;4BeijingInstituteforBrainDisorders,BeijinglOoo69,China; 5CenterforMolecularand Translational Medicine,Beijing100101,China   \nCorrespondence:Guang-Hui Liua,   \nJuan Carlos Izpisua Belmonteb   \naE-mail: ghliu@ibp.ac.cn   \n$^ \\mathrm { \\Delta ^ { b } E }$ -mail: belmonte@salk.edu ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 YoshimiK,Kaneko T,VoigtB,etal.Nat Commun 2014; 5:4240.   \n2 XueW,Chen S,YinH,etal.Nature2014; 514:380-384.   \n3 PlattRJ,ChenS,Zhou Y,et al.Cell 2014; 159:440-455.   \n4 Swiech L,Heidenreich M,Banerjee A,et al. Nat Biotechnol 2015;33:102-106.   \n5 Barzel A,Paulk NK,ShiY,et al.Nature 2015;517:360-364.   \n6 SuzukiK,YuC,QuJ,et al.Cell Stem Cell 2014;15:31-36.   \n7 VeresA,GosisBS,DingQ,etal.Cell Stem Cell 2014;15:27-30.   \n8 SmithC,GoreA,YanW,etal.CellStem Cell 2014;15:12-13.   \n9 Wu Y,ZhouH,FanX,etal.Cell Res2015; 25:67-79.   \n10YinH,XueW,ChenS,etal.NatBiotechnol 2014;32:551-553.   \n11DingQ,StrongA,Patel KM,et al.Circ Res 2014;115:488-492.   \n12LiM,SuzukiK,KimNY,et al.JBiol Chem 2014;289:4594-4599. ",
+        "page_idx": 1
+    }
+]

@@ -1,0 +1,58 @@
+# Electromagnetic Sub-wavelength Imaging Using The Basis Matrix Method In Conjunction with Singular Value Decomposition (SVD) Algorithm
+
+(1) (2) Xiang Gu, ① Raj Mittra (1) EMC Lab, Department of Electrical Engineering, The Pennsylvania State University, University Park,PA,USA,16802 rajmittra@ieee.org
+
+(2) Yunhua Zhang   
+(2 Key Laboratory of Microwave Remote Sensing,   
+Centre for Space Science and Applied Research, Chinese Academy of Sciences, Beijing,China, 100190
+
+Abstract—In this work,we employ a novel basis matrix method,applied in conjunction with the singular value decomposition (SVD） algorithm to achieve sub-wavelength resolution in the images derived by using phase conjugation (PC) scheme in the microwave imaging problem.Illuminative examples of different bar-code type of distributionsare presented,together with the images recovered by using the proposed method.
+
+Keywords:microwave imaging,phase conjugation (PC),subwavelength resolution,singular value decomposition (SVD), basis matrix method.
+
+# I. INTRODUCTION
+
+Recently, the topics of phase conjugation (PC)[1] as well as time-reversal mirrors(TRM) [2] havebeen investigated in the context of microwave imaging.A number of papers that deal with the methods based on farfield measurements have been reported in the literature, including:those that employ metallic strip gratings which perform evanescent-to-propagating wave conversion [3]; and split-ring resonators loaded with varactor diodes [4]. The resolution capability of a phase conjugating lens has also been studied in [5]-[6]. In this work,we propose a basis matrix method applied in conjunction with the singular value decomposition (SVD） to achieve a sub-wavelength level of resolution in the context of microwave imaging problem using phase conjugation lens.We described the proposed method in detail and examined its abilities to resolve at the sub-wavelength level.
+
+# II. IMAGING ALGORITHMS
+
+# A. Phase Conjugation
+
+Figure 1 shows a representative scheme for 3D phase conjugation lens imaging system. The test objects are perfect electric conductor (PEC) squares that are distributed in the source plane $( f ( x , y ) @ z { = } 0 )$ , and are illuminated by an incidentplanewave.Atthemeasurementplane $( g ( x , y ) @ z { = } d )$ ，the phase conjugation lens collects the scattered field,phase conjugates this field and propagates it to the image plane $( h ( x , y ) @ z { = } 2 d )$ to form the image.
+
+For the purpose of our simulation,we mimic the phase conjugating operation of the lens,applied to the measured field,on the computer.Let us assume that we are working with the $E _ { y }$ -component of the electric field. Then,the steps involved in the phase conjugation procedure can be summarized as follows: (i) measure the $E _ { y }$ -component of the scattered electric field from the PEC squares at the measurement plane,which is located at $z { = } d$ ；(ii）phase conjugate and Fourier transform the spatial distribution to the wavenumber domain; (ii) propagate the spectral distribution to the image plane at $z { = } 2 d$ ；(iv) inverse-Fourier transform the spectral distribution at $\scriptstyle z = 2 d$ to obtain the image.
+
+![](images/e3e372b6f7635aae3346c7972038e99fee7963655d553694414647407dcf0e08.jpg)  
+Fig.1.Schematic for 3D imaging via basis matrix method.
+
+Note that in the proposed method we only need to deal with the data sampled in the image plane to improve the resolution of the image.This,in turn,results in considerable saving in terms of data collection and processing，in comparison to that needed if we're to collect the data directly in the measurement plane.Note also that the phase conjugation can be done by using a lens placed at the measurement plane and this lens can be flat, if desired.
+
+# B.Basis MatrixMethod with Singular Value Decomposition
+
+Next,we describe an imaging algorithm based on the basis matrix method.As a starter,we use a MoM code (FEKO) to simulate the case of a single PEC square at a time,which is located in the object plane.We derive the scattered field distribution in the measurement plane,phase conjugate it, and then let it propagate to the image plane. Finally,we extract a part of the image distribution,for instance its values along the $y = 0$ cut to form a column of the basis matrix.The number of the columns in this matrix corresponds to the number of possible positions for the PEC square in the source plane. We apply the singular value decomposition algorithm to the basis matrix,and use a threshold to delete the singular vectors,whose singular value fall below the threshold.
+
+# III. NUMERICALRESULTS
+
+Figure 1 shows a representative scheme 3D imaging by using the proposed method. The size of the PEC square is $0 . 0 5 \lambda ^ { * } 0 . 0 5 \lambda$ ，and the spacing is $0 . 2 5 \lambda$ in both $x \mathrm { - }$ and $y .$ directions.Thedistancebetween thesourceand measurement planes is $3 \lambda$ .The size of the measurement aperture is $3 0 \lambda ^ { * } 3 0 \lambda$ with $0 . 0 5 \lambda$ interval in both $x -$ and $y .$ directions. And the size of the image zone is $1 0 \lambda ^ { * } l 0 \lambda$ with $0 . 2 5 \lambda$ interval in both $x \cdot$ and $y$ -directions.The operating frequency is $I G H z$ ，and the plane wave is normally incident. Fig.2 shows the imaging models for the 1D and 2D cases. The basis matrices are comprised of $^ { 1 3 }$ and 39 columns, respectively. The object zone in the $x$ -directionranges from $. \boldsymbol { l } . 5 \lambda$ to $I . 5 \lambda$ ：
+
+![](images/09f9ba72e1fd239e08030a3fe2d984d939d8e53d7eeb64b5e699645471a75e49.jpg)  
+Fig.2.Imaging models for (a) 1D case (x-direction); and (b) 2D case (x-y plane).
+
+Figures 3 and 4 show the recovered results for the 1D and 2D cases,respectively,the stars and the bars represent the original and the recovered positions of PEC squares, respectively，and the horizontal line at the level of 0.5 (normalized) is used to distinguish the real objects from the false ones.Here,we have set a threshold of $I { \boldsymbol { 0 } } ^ { - 5 }$ for the truncation of the singular values.For the 1D case,we only extract $y = 0$ cut to generate the basis matrix,and find $^ { 1 3 }$ singular vectors survive.For the 2D case,we use three cuts e.g.，at $y = - 0 . 1 \lambda , 0 \lambda , 0 . 1 \lambda$ ，and 35 singular vectors are survived.From Figs.3 and 4,we see that the basis matrix method,applied in conjunction with the SVD is capable of accuratelyrecoveringthepositionoftheobject systematically investigated the noise.
+
+![](images/469ea7a054a0942935b0e436e13498032ab5b0d5500ccd26d6a0210625a5c969.jpg)  
+Fig.3.Imaging results for the 1D case( $\mathbf { \bar { X } }$ -direction） via the basismatrix method.
+
+![](images/254a104b2acc8bca55fd99d9b6b3ef2e67b098c65db2fc8f7468d8e1319afcd8.jpg)  
+Fig.4.Imaging results for the 2D case (x-y plane) via the basis matrix method.
+
+We have considered the noise issue,and have also studied the 2D case in the $x { - } z$ plane,i.e.,objects with depth information. These resultswill beincludedinthe presentation.
+
+# References
+
+[1]S.Maslovski,and S.Tretyakov,“Phase conjugation and perfect lensing,"J.Appl.Phys.,vol.94,no.7,pp.4241-4243,2003.   
+[2] J.Rosny,G.Lerosey,M.Fink,“Theory ofElectromagnetic TimeReversal Mirrors,”IEEE Trans.Antennas Propag.,vol.58,no.10,pp. 3139-3149,Oct.2010.   
+[3] M.Memarian,and G.V.Eleftheriades,“Evanescent-to-propagating wave conversion in sub-wavelength metal-strip gratings,”IEEE Trans.Microw. Theory Tech.,vol.60,no.12,pp.3893-3907,2012.   
+[4] A．R.Katko,G.Shvets,and S.A.Cummer,“Phase conjugation metamaterials:particle design and imaging experiments,”Journal of Optics,vol.14,no.11,pp.114003-114003,2012.   
+[5] V.F.Fusco,N.B.Buchanan,and O.Malyuskin,“Active phase conjugating lens with sub-wavelength resolution capability,”IEEE Trans.Antennas Propag.,vol.58,no.3,pp.798-808,2010.   
+[6] O．Malyuskin,and V.Fusco,“Far field subwavelength source resolution using phase conjugating lens assisted with evanescent-topropagating spectrum conversion,”IEEE Trans.Antennas Propag., vol.58,no.2,pp.459-468,2010.

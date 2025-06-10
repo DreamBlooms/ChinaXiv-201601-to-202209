@@ -1,0 +1,649 @@
+[
+    {
+        "type": "text",
+        "text": "纹理细节和边缘结构保持的图像插值算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "付鹏斌，铁惠杰，杨惠荣(北京工业大学 信息学部，北京 100124)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对图像重建过程中产生的边缘结构被破坏和纹理细节丢失问题，提出一种纹理细节和边缘结构保持的图像插值算法。首先，采用自适应阈值的八方向边缘检测划分图像区域；其次，构造双变量有理函数模型，它可在有理模型和多项式模型之间转换；最后提出基于边缘数据的局部不对称性和梯度特征调整待插值点空间距离的方法，调整边缘部分待插值点坐标并代入有理模型实现插值，而非边缘部分采用多项式模型插值。实验表明，该算法的峰值信噪比平均提升了0.48dB-2.17dB，结构相似性平均提升了0.004-0.028，获得了较高的客观评价数据。该算法将原空间距离不变的插值修正为空间距离变化的插值，有效地保持了图像的边缘结构和纹理细节，使得重建结果具有较好的视觉效果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：图像插值；纹理细节和边缘结构保持；自适应梯度；有理函数；空间距离修正中图分类号：TP391.4 doi: 10.19734/j.issn.1001-3695.2020.01.0075",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Texture details and edge structure are maintained by image interpolation algorithm ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fu Pengbin, Tie Huijie, Yang Huirong (Faculty ofInformation Technology,Beijing UniversityofTechnology,Beijingl0ol24,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Inorder to solve the problemthat inthe processof imagereconstructiondestroys the edge structureand losses the texture detail,this paper proposedanimage interpolation algorithmfor preserving the texture detailandthe edge structure. Firstly,mage dividesareabyusingeightdirectionedgedetectionbasedondaptivethreshold.Secodly,constructabiariate rational function model,whichcanconvert intorational modelandpolynomialmodel.Finally,basedonthe localasymmetry edgedataand gradientfeature,thispaperproposedamethod toadjustthe distanceofpoints tobeinterpolated.Bythis method, adjustingthecoordinatesofthepoints tobeinterpolatedandusingrational modeltorealize interpolation,asforthenonedge part,adoptpolynomialmodeltoiterpolationExperimentssowthat,thepeak signaltonoiseratioofthealgorithmincreases 0.48db-2.17dbonaverage,andthe structuralsimilarityindex increases 0.0o4-0.O28onaverage.This algorithmobtains high objectiveevaluationdata.Inthisalgorithm,theoriginal spatialdistance invariantinterpolation ismodifiedtothespatial distance varying interpolation, which effectively keps the edge structureand texture details ofthe image,and makes the reconstruction result have better visual effect. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:image interpolation;texturedetailsand edgestructure remain;adaptive gradient;rational function;spatia distance correction ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "图像插值技术是指低分辨率图像经过插值变换转换为高分辨率图像的一种图像处理技术，在遥感成像、医学影像、公共安全、计算机视觉、数字娱乐及多媒体通信等领域有着广泛的应用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "常见的插值算法依据插值方式的不同可以被分成两类，离散插值算法和连续插值算法。离散插值算法是指根据已知点像素值之间的内在联系，建立某种变换来确定未知点的像素值。如常见的最近邻、双线性[等插值算法，但是这类算法的插值结果会出现模糊失真等状况。连续插值算法指的是由已知点像素值之间的联系构造插值曲面，计算未知点的像素值。如常见的双三次[2]、三次样条[3]等算法，但是这类算法也会使获得的图像出现锯齿，模糊等状况。为解决已有插值算法中存在的问题，文献[4]提出一种边缘定向的插值算法，该方法具有较好的边缘重建效果，但在纹理细节部分容易产生走样、噪声问题。为有效地维持图像纹理细节，文献[5]提出有理图像插值算法，该算法通过优化参数拟合待插值曲面，实现了纹理细节的保持及任意比例的图像放大。基于文献[5]提出的有理插值函数,文献[6\\~8]分别对其进行了改进。改进后的插值算法能有效地维持重建图像的纹理细节，但对于图像",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "边缘结构的保持并不理想。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为实现图像边缘的平滑过渡和纹理细节保真，本文借鉴双变量有理插值模型[9,10]，设计了纹理细节和边缘结构保持的图像插值算法。在双变量有理插值模型的基础上，基于边缘数据的局部不对称性调整边缘区域待插值点空间距离，初步确定待插值点坐标。随后通过获取待插值点水平和垂直方向的梯度角，计算已知点在待插值点水平和垂直梯度方向像素值的梯度所占权重。并根据获得的权重实现待插值点自适应梯度的空间距离修正，获得边缘区域待插值点修正后的坐标。纹理细节和边缘结构保持的图像插值算法，在保留原插值模型纹理细节保真度高的基础上，将原空间距离不变的插值算法改进为空间距离变化的插值算法，提升了边缘区域的平滑性。实验结果表明，本文所提算法的重建结果不仅获得了最高的峰值信噪比均值和结构相似性均值，具有较高的客观评价数据，而且纹理清晰边缘平滑，具有较好的视觉效果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 双变量有理插值函数",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "给定一幅大小为 $m \\times n$ 的图像，即原始图像区域为$u : [ 1 , m ; 1 , n ]$ 。假设将图像横向放大到宽度为 $x _ { m }$ ，纵向放大到高度为 $y _ { n }$ ，即放大后的图像区域为 $W : [ 1 , x _ { m } ; 1 , y _ { n } ]$ 。令 $( i , j )$ 表示原始像素点的坐标， $f _ { i , j }$ 表示该点对应像素值。 $( x _ { i } , y _ { j } )$ 表示该点在放大后对应的坐标，其中 $( 1 \\leq x _ { 1 } \\leq x _ { i } \\leq x _ { m } , 1 \\leq y _ { 1 } \\leq y _ { j } \\leq y _ { n } )$ 。 $d _ { i , j }$ 和$e _ { i , j }$ 为点 $( x _ { i } , y _ { j } )$ 处的偏导数 $\\hat { c } f ( x _ { i } , y _ { j } ) / \\hat { c } x _ { i }$ 和 $\\hat { c } f ( x _ { i } , y _ { j } ) / \\hat { \\sigma } y _ { j }$ 。令$h _ { i } = x _ { i + 1 } - x _ { i }$ ， $l _ { j } = y _ { j + 1 } - y _ { j }$ 。对于待插值区域 $W$ 上的任意待插值点 $( x , y ) \\in [ x _ { i } , x _ { i + 1 } ; y _ { j } , y _ { j + 1 } ]$ ，令 $\\theta = ( x - x _ { i } ) / h _ { i }$ ， $\\eta = \\big ( y - y _ { j } \\big ) / l _ { j }$ 。对每一个 $y = y _ { j } , j = 1 , 2 , . . . , n$ ，创建 $x$ 方向的插值曲线，表达式为",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { i , j } ^ { * } ( x ) = \\frac { t _ { i , j } ^ { * } ( x ) } { q _ { i , j } ^ { * } ( x ) } , i = 1 , 2 , . . . , m\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt _ { i , j } ^ { * } ( x ) = ( 1 - \\theta ) ^ { 3 } f _ { i , j } + \\theta ( 1 - \\theta ) ^ { 2 } V _ { i , j } ^ { * } ( x ) + \\theta ^ { 2 } ( 1 - \\theta ) W _ { i , j } ^ { * } ( x ) + \\theta ^ { 3 } f _ { i + 1 , j }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nq _ { i , j } ^ { * } ( x ) = ( 1 - \\theta ) ^ { 2 } + \\theta ( 1 - \\theta ) \\alpha _ { i , j } + \\theta ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { i , j } ^ { * } ( \\boldsymbol { x } ) = ( \\alpha _ { i , j } + 1 ) f _ { i , j } + h _ { i } d _ { i , j } + \\theta ( 1 - ( 1 - \\theta ) \\alpha _ { i , j } ) ( f _ { i + 1 , j } - f _ { i , j } - h _ { i } d _ { i , j } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { i , j } ^ { * } ( x ) = ( \\alpha _ { i , j } + 1 ) f _ { i + 1 , j } + h _ { i } d _ { i , j } + \\theta ( 1 - ( 1 - \\theta ) \\alpha _ { i , j } ) ( f _ { i + 1 , j } - f _ { i , j } - h _ { i } d _ { i + 1 , j } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha _ { i , j } > 0\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式(1)定义的插值函数 $P _ { i , j } ^ { * } ( x _ { i } )$ 满足 $P _ { i , j } ^ { * } ( x _ { i } ) = f _ { i , j }$ ， $P _ { i , j } ^ { * } ( x _ { i + 1 } ) = f _ { i + 1 , j }$ ，$P _ { i , j } ^ { \\ast } ( x _ { i } ) = d _ { i , j } \\ , P _ { i , j } ^ { \\ast } ( x _ { i + 1 } ) = d _ { i + 1 , j }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "令 $\\Delta _ { i , j } ^ { ( x ) } = \\big ( f _ { i + 1 , j } - f _ { i , j } \\big ) / h _ { i }$ ， $\\Delta _ { i , j } ^ { ( y ) } = \\big ( f _ { i , j + 1 } - f _ { i , j } \\big ) / l _ { j }$ 。定义",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { d _ { i , j } = \\displaystyle \\frac { h _ { i - 1 } \\Delta _ { i , j } ^ { ( x ) } + h _ { i } \\Delta _ { i - 1 , j } ^ { ( x ) } } { h _ { i - 1 } + h _ { i } } , i = 2 , 3 , . . . , m - 1 } \\\\ { d _ { 1 , j } = \\Delta _ { 1 , j } ^ { ( x ) } - \\displaystyle \\frac { h _ { 1 } } { h _ { 1 } + h _ { 2 } } ( \\Delta _ { 2 , j } ^ { ( x ) } - \\Delta _ { 1 , j } ^ { ( x ) } ) } \\\\ { d _ { m , j } = \\Delta _ { m - 1 , j } ^ { ( x ) } - \\displaystyle \\frac { h _ { m - 1 } } { h _ { m - 1 } + h _ { m - 2 } } ( \\Delta _ { m - 1 , j } ^ { ( x ) } - \\Delta _ { m - 2 , j } ^ { ( x ) } ) } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于每一个点对 $( i , j ) , i = 1 , 2 , . . . m , j = 1 , 2 , . . . n$ ，使用 $x$ 方向的函数 $P _ { i , j } ^ { * } ( x )$ 来定义 $[ x _ { i } , x _ { i + 1 } ; y _ { j } , y _ { j + 1 } ]$ 上的函数 $P _ { i , j } ( x , y )$ ，表达式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { i , j } ( x , y ) = \\frac { t _ { i , j } ( x , y ) } { q _ { i , j } ( y ) } , i = 1 , 2 , . . . , m ; j = 1 , 2 , . . . n\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\begin{array} { c } { { t _ { i , j } ( x , y ) = ( 1 - \\eta ) ^ { 3 } p _ { i , j } ^ { * } ( x ) + \\eta ( 1 - \\eta ) ^ { 2 } V _ { i , j } + \\eta ^ { 2 } ( 1 - \\eta ) W _ { i , j } + \\eta ^ { 3 } P _ { i , j + 1 } ^ { * } ( x ) } } \\\\ { { q _ { i , j } ( y ) = ( 1 - \\eta ) ^ { 2 } + \\eta ( 1 - \\eta ) \\beta _ { i , j } + \\eta ^ { 2 } } } \\end{array}$ $V _ { i , j } = ( \\beta _ { i , j } + 1 ) P _ { i , j } ^ { * } ( x ) + l _ { i } \\varphi _ { i , j } ( x ) + \\phi _ { i , j } ( x , y )$ （20 $W _ { i , j } = ( \\beta _ { i , j } + 1 ) P _ { i , j + 1 } ^ { * } ( x ) - l _ { j } \\varphi _ { i , j + 1 } ( x ) + \\psi _ { i , j } ( x , y )$ $\\varphi _ { i , s } ( x ) = ( 1 - \\theta ) ^ { 3 } ( 1 + 4 \\theta + 9 \\theta ^ { 2 } ) e _ { i , s } + \\theta ^ { 3 } ( 6 - 8 \\theta + 3 \\theta ^ { 2 } ) e _ { i + 1 , s } , s = j , j + 1$ $\\phi _ { i , j } ( x ) = ( \\eta - \\eta ( 1 - \\eta ) ( \\beta _ { i , j } + 1 ) ) ( P _ { i , j + 1 } ^ { \\ast } ( x ) - P _ { i , j } ^ { \\ast } ( x ) - l _ { j } \\varphi _ { i , j } ( x ) )$ $\\psi _ { i , j } ( x ) = ( 1 - \\eta - \\eta ( 1 - \\eta ) ( \\beta _ { i , j } + 1 ) ) ( P _ { i , j } ^ { \\ast } ( x ) - P _ { i , j + 1 } ^ { \\ast } ( x ) - l _ { j } \\varphi _ { i , j } ( x ) ) \\beta _ { i , j } > 0$ 式(3)定义的函数 $P _ { i , j } ( x , y )$ 为双变量有理插值函数，满足$\\begin{array} { r } { P _ { i , j } ( x _ { r } , y _ { s } ) = f ( x _ { r } , y _ { s } ) \\quad , \\quad \\hat { \\alpha } P _ { i , j } ( x _ { r } , y _ { s } ) \\big / \\hat { \\sigma } x = d _ { r , s } \\quad , \\quad \\hat { \\sigma } P _ { i , j } ( x _ { r } , y _ { s } ) \\big / \\hat { \\sigma } y = e _ { r , s } } \\end{array}$ ，$r = i , i + 1 ; s = j , j + 1$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "该插值函数表达式由插值数据和形状参数共同确定。当形状参数的取值不同时，该函数的表达形式也不相同。若$\\alpha _ { i , j } = \\beta _ { i , j } = 1$ ，则该函数为多项式插值函数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 纹理细节和边缘结构保持的图像插值算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于双变量有理插值函数的图像插值算法能有效地保持重建图像的纹理细节信息的特点，本文借鉴双变量有理插值函数，构建双变量有理插值模型。但是，该双变量有理函数插值模型在方向上是非对称的，如果直接将该插值模型作用于图像插值，插值结果的非边缘区域插值效果较好，而边缘区域会产生锯齿现象。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于双变量有理插值函数的图像插值算法能有效地保持重建图像的纹理细节信息的特点，本文借鉴双变量有理插值函数，构建双变量有理插值模型。但是，该双变量有理函数插值模型在方向上是非对称的，如果直接将该插值模型作用于图像插值，插值结果的非边缘区域插值效果较好，而边缘区域会产生锯齿现象。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自然图像中，图像边缘数据由于获取过程中的低通滤波呈sigmoid曲线分布，具有局部不对称的特性[1]。图像的梯度则体现了强度的变化，是进行未知信息估计的重要依据之一。作为图像边缘的两个重要特性，他们在插值过程中边缘结构的保持上起到了重要的作用。因此，本文通过图像边缘部分的局部不对称性和梯度信息调整像素点的空间距离使得构造的插值曲面更接近于理想曲面。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "纹理细节和边缘结构保持的图像插值算法流程图如图1所示。首先提取低分辨率图像的八方向梯度特征，采用简单统计法设定自适应阈值将图像区域划分为边缘和非边缘两大部分；然后基于边缘数据的局部不对称性调整边缘区域待插值点空间距离，初步确定待插值点坐标。在此基础上分别获取待插值点水平和垂直方向梯度角，据此计算已知插值点在待插值点水平方向梯度权重和垂直方向的梯度权重。并根据获得的水平方向梯度权重和垂直方向的梯度权重实现待插值点自适应梯度的空间距离修正，获得边缘区域待插值点修正后的坐标；最后基于边缘和非边缘部分的结构特征，在图像的非边缘部分采用多项式插值模型进行插值，边缘部分将修正后的待插值点坐标取代原坐标代入有理函数插值模型实现边缘区域插值。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/673a056a8d57bafc3b5a01bfc2957a71db2822c92d0bb898a5eeaff7cf80b194.jpg",
+        "img_caption": [
+            "图1纹理细节和边缘结构保持的图像插值算法流程'ig.1Gradient adaptive rational function interpolation flowchart"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 图像区域划分",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图像的边缘部分和非边缘部分具有不同的结构特征。边缘部分结构复杂，像素值变动较大，而非边缘部分结构简单，像素值变动较小。为提高图像插值的精确度，不同的部分需要采用不同的插值模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文通过基于scharr算子的八方向边缘检测算法将图像区域划分成边缘部分和非边缘部分。首先，利用八方向的scharr模板与图像做平面卷积提取图像的梯度信息。随后通过简单统计法计算图像每一像素点对应的平均像素值作为该点的阈值，计算公式如下。最后比较图像每点对应梯度值和阈值的大小关系，判断该点所属部分为边缘区域还是非边缘区域。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { i , j } = \\frac { \\displaystyle \\sum _ { x } \\sum _ { y } e ( x , y ) f ( x , y ) } { \\displaystyle \\sum _ { x } \\sum _ { y } e ( x , y ) } , ( i - 2 \\leq x \\leq i + 2 , j - 2 \\leq y \\leq j + 2 )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $e ( x , y ) = \\operatorname* { m a x } \\{ \\mid e _ { x } \\mid , \\mid e _ { y } \\mid \\}$ ： $e _ { x } = f ( x { - } 1 , y ) - f ( x { + } 1 , y )$ ； $e _ { y } = f ( x , y - 1 ) -$ $f ( x , y + 1 )$ ， $f ( x , y )$ 是 $( x , y )$ 点的像素值， $e _ { x }$ 为水平方向的灰度差值， $\\boldsymbol { e } _ { y }$ 为垂直方向的灰度差值， $e ( x , y )$ 为水平和垂直方向中最大的灰度差值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自适应阈值的八方向scharr边缘检测算法能够检测出不同角度的线段，检测到的边缘部分不仅具有较好的连续性，而且轮廓较为完整。图2为lena采用该方法检测边缘的结果，可以看出，该算法能够精确地检测到图像的有效边缘。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4d68f58f1c20e8235e6c3e0e80dd34c78ba60e15007026803918a468cc45b7ff.jpg",
+        "img_caption": [
+            "图2图像边缘检测结果 Fig.2Image edge detection result "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2自适应梯度的空间距离调整 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "依据局部不对称性和梯度特征在图像边缘结构保持中的重要作用，本节提出将基于局部不对称性与梯度特征相结合的空间距离修正，调整待插值点位置的方法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1基于局部不对称性的空间距离修正",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于低通滤波边缘数据呈sigmoid曲线分布，因而可用图3所示sigmoid曲线作为图像的边缘模型。在 $i$ 和 $i + 1$ 点对应像素值分别为 $f _ { i }$ 和 $f _ { i + 1 }$ ，而待插值点 $i ^ { * }$ 的像素值需要通过插值算法计算得来。一般插值算法在计算待插值点 $i ^ { \\prime }$ 的像素值时直接将待插值点坐标代入插值函数中，仅仅是考虑到 $\\mathbf { \\chi } _ { i ^ { \\prime } } ^ { \\prime \\prime }$ 与已知点i之间的距离 $s$ ，忽略了其他因素。致使待插值点的实际位置 $i ^ { \\prime }$ 与理想位置 $i ^ { \\prime }$ (real)产生距离偏差，得到的像素值 $f _ { i ^ { \\prime } }$ 与理想像素值 $f _ { i ( r e a l ) }$ 不符，插值结果不准确。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/01e9561a7fd34e8f920bd3c04ff35bd960a14c6632775b15d1f07d2cdcf434d5.jpg",
+        "img_caption": [
+            "图3图像边缘数据sigmoid曲线分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为得到边缘部分更准确的插值结果，需要调整待插值点与已知点之间的距离。如图3中，当待插值点 $i ^ { \\prime }$ 与插值点 $i$ 之间距离为 $s$ 时对应像素值为 $f _ { i }$ ，而当调整 $\\mathbf { \\chi } _ { i } ^ { \\prime \\prime }$ 与 $i$ 之间的距离为$s ^ { \\prime }$ 时对应像素值为 $f _ { i ( r e a l ) }$ ，即为理想像素值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于图像的局部数据不对称性[16]对待插值点与插值点之间的空间距离进行调整。以一维方向上待插值点的空间距离调整为例，设 $f _ { i ^ { \\prime } }$ 为待插值点像素值，其坐标为 $i ^ { \\prime }$ ，相邻点的坐标分别为 $i$ (左)， $i + 1$ (右)。定义 $i \"$ 和 $i$ 之间的距离为：$s = i - i$ ，将 $s$ 代入式(5)计算得修正后的空间距离 $s ^ { \\prime }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns ^ { ' } = s - k A s ( s - 1 )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中，A由式(6)定义，表示待插值点邻域的几何相似性。若$\\scriptstyle \\mathbf { A } = 0$ 则表示左右两边像素对称；若 $\\mathrm { A } { > } 0$ 则表示待插值点 $i ^ { \\prime }$ 的位置更接近右边像素，因而右边像素应该具有较大的加权系数。 $\\mathbf { A } { < } 0$ 时表示待插值点 $i ^ { \\prime }$ 的位置更接近左边像素，左边像素应该具有更大的加权系数。 $\\mathrm { ~ L ~ }$ 在这里表示灰度级的最大值，8位图像中取256，以保证 $A \\in [ - 1 , 1 ]$ 。 $\\mathbf { k }$ 为修正因子，通常取$\\mathbf { k } { = } 1$ 或2。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA = { \\frac { \\vert f _ { i + 1 } - f _ { i - 1 } \\vert - \\vert f _ { i + 2 } - f _ { i } \\vert } { L - 1 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如图4所示，将一维方向上的空间距离调整扩展到二维空间中。首先在一维方向调整待插值点 $( i ^ { * } , j ^ { * } )$ 的空间距离。如图4(a)所示，获取待插值点在一维水平方向上修正的空间距离。依据水平方向上的像素点 $( i , j )$ ， $( i + 1 , j )$ 及其对应像素值$f _ { i , j }$ ， $f _ { i + 1 , j }$ 代入式(5)获得待插值点水平方向上的修正距离 $s _ { i 1 }$ 。同理依据水平方向上的像素点 $( i , j + 1 )$ ， $( i + 1 , j + 1 )$ 及其对应像素值 $f _ { i , j + 1 }$ ， $f _ { i + 1 , j + 1 }$ 代入式(5)获得待插值点水平方向上另一个修正距离 $s _ { i 2 }$ 。随后如图4(b)所示，通过垂直方向上的两组像素点 $( ( i , j ) , ( i , j + 1 ) )$ ， $( ( i + 1 , j ) , ( i + 1 , j + 1 ) )$ 及其对应像素值 $( f _ { i , j } , f _ { i , j + 1 } )$ 和$( f _ { i + 1 , j } , f _ { i + 1 , j + 1 } )$ 分别代入式(5)获取待插值点 $( i ^ { \\prime } , j ^ { \\prime } )$ 在一维垂直方向上修正的空间距离 $s _ { j 1 }$ 、 $s _ { j 2 }$ 。图4(c)显示了 $( i ^ { * } , j ^ { * } )$ 在水平和垂直方向上进行修正获得的空间距离。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/540c4d07b15e2c3bc339ae886bbe962a48aa6dba625a67fcbc5e1256d3a23df7.jpg",
+        "img_caption": [
+            "图4二维空间距离调整",
+            "Fig.4Two-dimensional space distance adjustment "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "最后将一维水平方向和一维垂直方向上对待插值点进行调整的空间距离整合到二维空间中。如图5所示，根据修正后 $( i ^ { \\prime } , j ^ { \\prime } )$ 一维水平方向上的距离 $s _ { i 1 } \\setminus s _ { i 2 }$ ，和一维垂直方向上的距离 $s _ { j 1 }$ 、 $s _ { j 2 }$ 得到如下几何关系，整理后得到式(7)，即将 $s _ { i 1 }$ 、$s _ { i 2 }$ 、 $s _ { j 1 }$ 、 $s _ { j 2 }$ 代入式(7)，获得二维空间上修正的待插值点 $( i ^ { \\prime } , j ^ { \\prime } )$ （204的水平距离 $s _ { i } ^ { \\prime }$ 和垂直距离 $\\boldsymbol { s } _ { j } ^ { \\prime }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图(5)得到如下几何关系：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\displaystyle { \\frac { \\dot { s _ { j } } } { 1 } } = \\frac { \\dot { s _ { i } } - \\dot { s _ { i 1 } } } { s _ { i 2 } - s _ { i 1 } } } \\\\ { \\displaystyle { \\frac { \\dot { s _ { i } } } { 1 } } = \\frac { \\dot { s _ { j } } - \\dot { s _ { j 1 } } } { s _ { j 2 } - s _ { j 1 } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "求解得：",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ca2e2aa1a9d9ba2a890125a361d859719bb68ed06391c72dd400958fdf552789.jpg",
+        "img_caption": [
+            "Fig.3Sigmoid curve distribution of image edge data ",
+            "图5一维修正距离转换向二维空间距离转换",
+            "Fig.5One-dimensional modified distance transformation to two-dimensional spatial distance transformation "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2获取图像梯度角",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设原始图像为低分辨率图像，首先通过双三次插值获取初始的高分辨率图像，其次采用sobel算子分别计算初始高分辨率图像在水平方向和垂直方向的梯度和梯度角，随后根据中心像素梯度角对初始高分辨率图像梯度调整，得到分布趋于合理的高分辨率图像在水平方向的梯度 $G _ { i }$ 及垂直方向的梯度 $G _ { j }$ 。最后计算水平方向所成的梯度角 $\\varphi ( i )$ ，其中$\\varphi ( i ) = \\arctan \\vert G _ { i } / ( G _ { j } ) \\vert$ ，及垂直方向所成的梯度角 $\\varphi ( j )$ ，其中$\\varphi ( j ) = \\arctan \\vert G _ { j } / ( G _ { i } ) \\vert$ □",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以插值图像中任意一像素点 $( i , j )$ 在水平方向的梯度调整为例，说明本文所用梯度调整方法。在以 $( i , j )$ 点为中心、大小为 $5 \\times 5$ 的邻域窗口 $N _ { i , j }$ 内，记邻域窗口 $N _ { i , j }$ 内的任意一点像素点 $( x , y )$ 水平方向的梯度与 $( i , j )$ 在水平方向梯度之间的夹角为 $\\beta _ { x y }$ ，找到 $\\beta _ { x y }$ 小于 $4 5 ^ { \\circ }$ 的所有邻域像素，共计k个，由公式(8)计算出这 $\\mathbf { k }$ 个像素的水平梯度均值 $G _ { x _ { i j } } ^ { ' }$ ，并将 $( i , j )$ 点的水平梯度值用 $G _ { x _ { i j } } ^ { ' }$ 来代替。同理 $( i , j )$ 点的垂直方向梯度通过计算后用 $G _ { y _ { i j } } ^ { ' }$ 代替。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { x _ { i j } } ^ { \\prime } = \\frac { \\displaystyle \\sum _ { \\beta _ { x y } < 4 5 ^ { \\circ } } G _ { X _ { x _ { y } } } } { k }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $G _ { X _ { x _ { y } } }$ 表示 $( x , y )$ 点对应水平方向上的梯度值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.3梯度自适应的空间距离调整 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据数据局部不对称性进行空间距离调整，获得新的待插值点坐标 $s _ { i } ^ { \\prime }$ 和 $\\boldsymbol { s } _ { j } ^ { \\prime }$ ，只考虑了边缘数据信号分布对空间距离的影响，未能充分地挖掘图像中所含信息。由于图像边缘处像素的梯度特征非常显著，因此图像的梯度信息对于重建图像边缘结构的保持有着重要作用。本文算法在基于局部不对称性的空间距离修正后结合梯度特征，再次调整图像的空间距离，获得新的插值点坐标。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由观察分析得，邻域像素点对应像素值沿中心点像素的梯度方向变化最为明显。即在中心像素点的邻域内，邻域像素点像素值在中心像素点的梯度方向上的投影距离远近，表明了两者的空间相关性强弱。基于此，可通过邻域像素点在待插值点梯度方向上投影距离的远近，确定待插值点坐标的偏移程度，调整待插值点与邻域像素点之间的距离，以获得符合插值曲面分布的待插值点坐标。本文算法首先分别计算邻域像素点在待插值点水平梯度方向和垂直梯度方向上的投影距离，其次依据该投影距离获取邻域像素点在待插值点水平梯度和垂直梯度方向上的梯度特征权重，再次依据水平和垂直方向的梯度特征权重计算待插值点在水平和垂直方向上向邻域像素点的偏移距离，最后待插值点在水平方向和垂直方向上的偏移距离拟合到二维空间，调整待插值点位置，获得自适应梯度修正后的待插值点坐标 $( i ^ { \\prime } { } ^ { r e a l } , j ^ { \\prime } { } ^ { r e a l } )$ 用以计算待插值点(i,j)对应像素值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以水平方向上待插值点空间距离修正为例进行说明。首先，计算邻域像素点在待插值点水平梯度方向上的投影距离。如图6所示，根据待插值点垂直方向坐标 $j ^ { \\prime }$ ，构造一个由$( x , j ^ { \\prime } , f ( x , j ^ { \\prime } ) )$ 的所有点构成的平面i。将邻域像素点对应像素值垂直投影到该平面上。由待插值点水平坐标 $\\mathbf { \\chi } _ { i } ^ { \\prime \\prime }$ ，双三次插值获取的初始像素值 $f ( i ^ { \\cdot } , j ^ { \\cdot } )$ 及2.2.2节获取水平方向梯度角$\\varphi ( i ^ { * } )$ ，在平面 $\\mathbf { \\xi } _ { l }$ 上构造一条过点 $( i ^ { \\prime } , f ( i ^ { \\prime } , j ^ { \\prime } ) )$ 且斜率为 $\\tan ( \\phi ( i ^ { * } ) )$ 的直线。如下所示为该直线的函数表达式",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { f ( x , j ^ { \\cdot } ) = k x + b } \\\\ { k = \\tan ( \\phi ( i ^ { \\cdot } ) ) } \\\\ { b = f ( i ^ { \\cdot } , j ^ { \\cdot } ) - k \\times i ^ { \\cdot } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $x$ 为该直线上任意一点的水平坐标， $f ( x , j ^ { * } )$ 为该直线上水平坐为 $x$ 的点对应的像素值。 $k$ 表示该直线的斜率， $\\varphi ( i ^ { * } )$ 为待插值点 $( i ^ { * } , j ^ { * } )$ 对应的梯度角。 $b$ 为该直线的截距。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由直线的函数表达式，计算该平面上邻域像素点$( i , f ( i , j ) )$ ， $( i + 1 , f ( i + 1 , j ) )$ ， $( i , f ( i , j + 1 ) )$ ， $( i + 1 , f ( i + 1 , j + 1 ) )$ 在待插值点水平梯度方向上的投影距离 $d _ { x 1 }$ ， $d _ { x 2 }$ ， $d _ { x 3 }$ ， $d _ { x 4 }$ 。如图6(b)所示，为该水平切面(即平面 $\\mathbf { \\xi } _ { l }$ )的平面示意图。以平面 $l$ 上域像素点 $( i , f ( i , j ) )$ 在待插值点水平梯度方向上的投影距离 $d _ { x 1 }$ 的计算过程为例进行说明。首先依据直线的函数表达式(9)，计算邻域像素点 $( i , f ( i , j ) )$ 到直线的距离$d i s \\_ 1 = \\mid k \\times i - f ( i , j ) + b \\mid / \\sqrt { k ^ { 2 } + 1 }$ ；随后计算该点与待插值点之间的距离 $d i s \\_ 2 = \\sqrt { ( i { \\it \\Delta \\phi } - i ) ^ { 2 } + ( f ( i { \\it \\Delta \\phi } , j { \\it \\Delta \\phi } ) - f ( i , j ) ) ^ { 2 } }$ ；最后获取邻域像素点$( i , f ( i , j ) )$ 到待插值点的投影距离 $d _ { x 1 } = \\sqrt { d i s _ { - } 2 ^ { 2 } - d i s _ { - } 1 ^ { 2 } }$ 。整理得平面上邻域像素点到待插值点的投影距离计算公式为式(10)。分别将平面上其他邻域像素点 $( i + 1 , f ( i + 1 , j ) )$ ， $( i , f ( i , j + 1 ) )$ ，$( i + 1 , f ( i + 1 , j + 1 ) )$ 代入式(10)计算其在待插值点水平梯度方向上的投影距离 $d _ { x 2 }$ ， $d _ { x 3 }$ ， $d _ { x 4 }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd = \\sqrt { ( i ^ { * } - i ) ^ { 2 } + ( f ( i ^ { * } , j ^ { * } ) - f ( i , j ) ) ^ { 2 } - ( \\left| { k \\times i - f ( i , j ) + b } \\right| / \\sqrt { k ^ { 2 } + 1 } ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $i$ 为邻域像素点的水平坐标， $f ( i , j )$ 为邻域像素点对应像素值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其次，依据投影距离获取邻域像素点在待插值点水平梯度方向上的梯度特征权重。定义权值函数如下所示。根据邻域像素点在待插值点水平梯度方向上的投影距离 $d _ { x 1 }$ ， $d _ { x 2 }$ ，$d _ { x 3 }$ ， $d _ { x 4 }$ ，代入权值函数公式(11)分别计算邻域像素点在待插值点水平方向上的梯度所占权重 $u _ { l 1 }$ ， $u _ { l 2 }$ ， $\\boldsymbol { u } _ { r 1 }$ ， $u _ { r 2 }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu = \\frac { e ^ { - d / \\alpha } } { m }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\alpha$ 为常数，用于控制指数函数的衰减，一般设置值为0.2。$^ d$ 表示邻域像素点投影到待插值点梯度方向上的距离。 $m$ 用于归一化且 $m = \\sum _ { ( i , j ) \\in N _ { i , j } } e ^ { - d / \\alpha }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a75864d2f299d60f1102d241c231ea2237fc2709b144586e19275e4a9e67b3a2.jpg",
+        "img_caption": [
+            "图6待插值点水平梯度方向投影距离 Fig.6Projection distance in horizontal gradient direction of points to be interpolated "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "再次，由所得梯度特征权重计算待插值点在水平方向上向邻域像素点的偏移距离。利用待插值点水平方向上局部梯度系数 $u _ { l 1 }$ ， $u _ { l 2 }$ ， $\\boldsymbol { u } _ { r 1 }$ ， $\\boldsymbol { u } _ { r 2 }$ 代入式(12)，获得待插值点一维水平方向上与邻域像素点 $( i , j )$ 的距离 $s _ { i 1 } ^ { \\prime }$ ，及 $( i + 1 , j )$ 的距离 $s _ { i 2 } ^ { \\cdot }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns _ { i 1 } ^ { ' } = \\frac { u _ { l 1 } s _ { i } } { u _ { r 1 } ( s - s _ { i } ) + u _ { l 1 } s _ { i } } \\ , \\quad s _ { i 2 } ^ { ' } = \\frac { u _ { l 2 } s _ { i } } { u _ { r 2 } ( s - s _ { i } ) + u _ { l 2 } s _ { i } } \\ \n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "最后，将待插值点在一维方向上修正的距离拟合到二维空间，调整待插值点的水平坐标。根据获得的待插值点水平梯度方向的一维空间修正距离 $s _ { i 1 } ^ { \\ast }$ ， $s _ { i 2 } ^ { \\prime }$ 和通过垂直方向上待插值点空间距离修正计算获得的待插值点垂直梯度方向的一维空间修正距离 $s _ { j 1 } ^ { \\cdot }$ ， $s _ { j 2 } ^ { \\cdot }$ 通过式(7)将其转换为二维空间上修正的待插值点水平距离 $s _ { i } ^ { * }$ 。这样完成了待插值点在水平方向上自适应梯度的空间距离修正，获得了修正后待插值点的水平坐标i'real。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3基于有理函数的图像插值",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本节构建双变量有理插值模型实现图像插值，该模型通过参数调节可在有理函数模型和多项式模型之间转换。有理函数模型能够在很小的区域使得图像曲面达到极值，有利于处理像素值波动较大的区域。而多项式模型能够将插值曲面控制在一定范围内变动，有利于处理数据变动比较小的区域。考虑图像边缘部分和非边缘部分的结构特征，图像边缘区域采用有理模型，而非边缘区域采用多项式模型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图7所示，假设4个黑色像素点所围成区域 $I$ 为待插值区域，4个红色像素点为待插值点。由式(3)可知，根据待插值区域 $\\boldsymbol { I }$ 周围的12个像素点可以构造出 $I$ 的插值曲面。位于 $\\textit { I }$ 中的任意一点均可由 $I$ 所在插值曲面的函数表达式表示。若 $I$ 所在区域为边缘部分，将经空间距离调整后的待插值点坐标代入所属插值曲面函数表达式，获得该点对应的像素值。反之，为非边缘区域时，令式(3)中 $\\alpha _ { i , j }$ 和 $\\beta _ { i , j }$ 均为1，上述模型转换为多项式模型。直接代入待插值点坐标，获得该点对应的像素值。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/05df1c9486c28e5e79b322a534bbff59c97ac2ec1616ee0f57b8585babbea359.jpg",
+        "img_caption": [
+            "图7图像插值",
+            "Fig.7Image interpolation "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 实验结果分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如图8所示，本文选择8幅图像作为测试图像进行实验。使用隔行隔列的方法对测试图像进行下采样，针对本文图像重建的实验结果，选择具有代表性的bicubic[2]，NED[[4],DFDF[12]，RSA[13]，NARM[14]，Lee’ $\\mathbf { s } ^ { [ 1 5 ] }$ ，梯度优化的有理函数图像插值算法(rational function interpolation algorithmbased on gradient optimization,GORI)[8]和基于NSCT 的区域自适应图像插值算法(anregion adaptive image interpolationalgorithmbasedontheNSCT,NSCTRAI)[16分别从客观数据、主观效果时间复杂度三个方面对重建效果进行比较。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表1展示了不同插值算法峰值信噪比(peak signalto noiseratio，PSNR)和结构相似性(structural similarity index，SSIM)的实验对比结果。其中PSNR是通过衡量标准图像和插值结果之间的像素差异，对图像平均质量的评价，SSIM[17]是根据标准图像与实验结果间结构、亮度和对比度的相似程度，对图像视觉感知的质量评价。根据表1的实验结果得与bicubicNEDI，DFDF，RASI，NARM，Lee’s，FDI，GORI方法相比.本文算法插值结果具有最高的PSNR均值和SSIM均值因而在客观数据上本文算法优于其他算法。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/108b97fa48c4c3ef82692a92367b10e1b0cf081d95a36aa320f166fa68abe03f.jpg",
+        "img_caption": [
+            "图8测试图像 Fig.8The test image "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f8f3ec33bd50bf3dd7287d8129b0125aa779a5d9281961194a88eec70ba51c41.jpg",
+        "table_caption": [
+            "表1不同插值算法的PSNR 和 SSIM对比",
+            "Tab.1Comparison of different interpolation algorithms on PSNR and SSIM "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">算法</td><td colspan=\"2\">Baboon</td><td colspan=\"2\">Fence</td><td colspan=\"2\">Barbara</td><td colspan=\"2\">Girl</td><td colspan=\"2\">Wall</td><td colspan=\"2\">Papper</td><td colspan=\"2\">Sky</td><td colspan=\"2\">Airplane</td><td colspan=\"2\">Average</td></tr><tr><td>psnr</td><td>SSIM</td><td>psnr</td><td>SSIM</td><td>psnr</td><td>SSIM</td><td>psnr</td><td>SSIM</td><td>psnr</td><td>SSIM</td><td>psnr</td><td>SSIM</td><td>psnr</td><td>SSIM</td><td>psnr</td><td>SSIM</td><td>psnr</td><td>SSIM</td></tr><tr><td>Bicubic</td><td>22.66</td><td>0.84</td><td>21.82</td><td>0.73</td><td>23.39</td><td>0.90</td><td>29.40</td><td>0.95</td><td>24.27</td><td>0.87</td><td>29.77</td><td>0.95</td><td>28.42</td><td>0.85</td><td>25.78</td><td>0.90</td><td>25.56</td><td>0.87</td></tr><tr><td>NEDI</td><td>22.56</td><td>0.87</td><td>22.79</td><td>0.79</td><td>22.36</td><td>0.85</td><td>30.19</td><td>0.98</td><td>23.94</td><td>0.88</td><td>30.67</td><td>0.97</td><td>28.87</td><td>0.92</td><td>26.95</td><td>0.91</td><td>25.65</td><td>0.89</td></tr><tr><td>DFDF</td><td>22.81</td><td>0.86</td><td>23.25</td><td>0.80</td><td>24.64</td><td>0.88</td><td>30.00</td><td>0.96</td><td>24.91</td><td>0.89</td><td>29.69</td><td>0.88</td><td>30.01</td><td>0.91</td><td>28.20</td><td>0.92</td><td>26.67</td><td>0.90</td></tr><tr><td>RSAI</td><td>23.18</td><td>0.87</td><td>22.91</td><td>0.80</td><td>23.37</td><td>0.86</td><td>30.39</td><td>0.97</td><td>25.17</td><td>0.89</td><td>31.91</td><td>0.97</td><td>29.60</td><td>0.91</td><td>28.48</td><td>0.92</td><td>26.62</td><td>0.90</td></tr><tr><td>NARM</td><td>22.63</td><td>0.86</td><td>23.08</td><td>0.80</td><td>23.53</td><td>0.87</td><td>30.55</td><td>0.97</td><td>24.63</td><td>0.90</td><td>30.84</td><td>0.96</td><td>29.20</td><td>0.91</td><td>28.29</td><td>0.92</td><td>26.47</td><td>0.90</td></tr><tr><td>Lee's</td><td>22.33</td><td>0.86</td><td>22.66</td><td>0.79</td><td>23.03</td><td>0.85</td><td>30.49</td><td>0.97</td><td>24.64</td><td>0.88</td><td>30.85</td><td>0.95</td><td>29.50</td><td>0.91</td><td>27.69</td><td>0.92</td><td>26.25</td><td>0.89</td></tr><tr><td>GORI</td><td>23.02</td><td>0.87</td><td>24.83</td><td>0.80</td><td>24.54</td><td>0.88</td><td>30.67</td><td>0.96</td><td>24.87</td><td>0.88</td><td>31.98</td><td>0.96</td><td>29.82</td><td>0.91</td><td>28.31</td><td>0.91</td><td>27.26</td><td>0.90</td></tr><tr><td>NSCTRAI</td><td>24.23</td><td>0.87</td><td>24.92</td><td>0.80</td><td>23.33</td><td>0.88</td><td>30.67</td><td>0.97</td><td>24.90</td><td>0.89</td><td>33.01</td><td>0.96</td><td>30.10</td><td>0.91</td><td>28.48</td><td>0.92</td><td>27.45</td><td>0.90</td></tr><tr><td>本文方法</td><td>24.30</td><td>0.88</td><td>25.11</td><td>0.81</td><td>24.28</td><td>0.89</td><td>30.89</td><td>0.96</td><td>24.96</td><td>0.89</td><td>33.10</td><td>0.97</td><td>30.71</td><td>0.92</td><td>28.52</td><td>0.93</td><td>27.74</td><td>0.90</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图9、10表示不同算法在针对图像纹理细节的重建效果对比。图9列出了Barbara围巾部分经由不同插值算法重建的结果对比。该部分具有多方向的纹理特征，NEDI、RASI、NARM、Lee’s等算法在该部分图像重建中出现纹理断裂现象，bicubic、DFDF、NSCTRAI等算法实验结果纹理模糊，并且bicubic实验结果锯齿明显，GORI算法在图像纹理区域重建效果较好，但是部分边缘区域模糊。而本文算法在该图像纹理部分重建，未出现纹理断裂和模糊等现象。图10是不同算法针对Fence 局部重建效果的对比，由图可知bicubic、DFDF、NARM重建结果出现明显的边界模糊，NEDIRSAILee’s、NSCTRAI算法出现不连续的条纹，同时有边界失真现象出现，GORI算法重建结果在纹理清晰区域重建效果较好，但对于远处区域重建结果模糊同时出现边界模糊，轮廓重建不清晰问题。而本文算法不仅纹理特征被有效的保留，同时边界部分重建效果比较好，没有出现明显的失真和锯齿。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5463286348678e45f2bb4b6652369add071eb766f4a75ee8470f67e981cabf3b.jpg",
+        "img_caption": [
+            "图9不同算法重建barbara对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图11展示了不同算法针对图像边缘部分重建的结果对比。针对Barbara脸部轮廓边缘部分，bicubic、NARM、FDI算法重建图像边缘具有明显的锯齿，GORI算法重建边缘纹理扭曲，在这其中NEDI和本文算法具有较平滑边缘。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图9\\~11展示了不同算法在图像的纹理和边缘部分的重建结果对比。由上述分析知本文算法不仅维持了图像的纹理细节，还保护了图像的边缘结构。从主观效果上看本文算法重建结果优于其他算法的重建结果。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e2b026d46cfb936f93d6709c47d9d2161f4635b256ee5f047d011830533c21d6.jpg",
+        "img_caption": [
+            "图10不同算法重建Fence 对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/01162bc8bcb7798652d98eadebc66094de0db7d08a79c919cd2581ae28e8cbe0.jpg",
+        "img_caption": [
+            "Fig.9Comparison of different algorithms reconstruct the Barbara ",
+            "Fig.10Comparison of Different algorithms reconstruct the Fence ",
+            "图11不同算法重建Girl对比",
+            "Fig.l1Comparison of different algorithms reconstruct the Girl "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在实际应用过程中，时间复杂度是算法考量的重要标准之一。表2展示了不同插值算法针对上述插值结果的运行时间对比。由表2可以看出，bicubic 算法运行时间最短，本文算法和GORI次之，NARM运行时间最长。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述双三次插值算法结构简单且时间复杂度最低但是图像重建效果不理想，图像边缘及纹理区域容易产生模糊和失真；NEDI和Lee’s在保持图像边缘结构方面效果突出，但是重建的纹理区域会出现扭曲和变形；RASI算法在纹理保持方面同NEDI一样会出现纹理扭曲现象，但是区别于NEDI，该算法在图像的边缘部分会产生锯齿；DFDF算法重建图像模糊，视觉效果不理想；FDI重建结果会产生边界模糊，GORI算法重建结果纹理保持效果较好，但在图像边缘部分容易出现边缘模糊和锯齿等现象。相比于上述算法，本文算法重建结果边缘平滑且纹理清晰，具有较好的主观效果PSNR平均提升了0.48dB-2.17dB，SSIM平均提升了0.004-0.028，获得了较高的客观评价数据，且运行时间较短。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/a7d0654614e514a72e97eba3a4656c291ce5bb219e5f1765b416c86a5b85c7a2.jpg",
+        "table_caption": [
+            "表2不同插值算法运行时间对比",
+            "Tab.2Comparison of different interpolation algorithms on run time /s "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>算法</td><td>Baboon Fence Barbara</td><td></td><td></td><td>Girl</td><td></td><td>Wall Papper Sky</td><td></td><td></td><td>Airplane Average</td></tr><tr><td>Bicubic</td><td>2</td><td>1</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>2</td></tr><tr><td>NEDI</td><td>27</td><td>6</td><td>25</td><td>36</td><td>38</td><td>24</td><td>37</td><td>6</td><td>25</td></tr><tr><td>DFDF</td><td>22</td><td>6</td><td>25</td><td>35</td><td>36</td><td>20</td><td>34</td><td>6</td><td>23</td></tr><tr><td>RSAI</td><td>213</td><td>50</td><td>215</td><td>322</td><td>327</td><td>198</td><td>322</td><td>49</td><td>214</td></tr><tr><td>NARM</td><td>1630</td><td>265</td><td>1450</td><td>22272658</td><td></td><td>1521</td><td>2376</td><td>265</td><td>1544</td></tr><tr><td>Lee’s</td><td>105</td><td>22</td><td>98</td><td>142</td><td>151</td><td>70</td><td>146</td><td>20</td><td>97</td></tr><tr><td>GORI</td><td>5</td><td>4</td><td>4</td><td>5</td><td>6</td><td>4</td><td>5</td><td>3</td><td>4</td></tr><tr><td>NSCTRAI</td><td>30</td><td>7</td><td>29</td><td>40</td><td>42</td><td>33</td><td>40</td><td>7</td><td>29</td></tr><tr><td>本文方法</td><td>7</td><td>3</td><td>7</td><td>7</td><td>8</td><td>4</td><td>3</td><td>4</td><td>6</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文在借鉴双变量有理函数插值模型的基础上，提出了一种纹理细节和边缘结构保持的图像插值算法。该算法首先提取低分辨率图像的八方向梯度特征，采用简单统计法设定自适应阈值将图像区域划分为边缘和非边缘两大部分；其次依据图像边缘数据的局部不对称性和梯度特征调整边缘区域待插值点的空间距离，获得经空间距离修正后的待插值点坐标。最后基于边缘和非边缘部分的结构特征，在图像的非边缘部分采用多项式插值模型进行插值，边缘部分将修正后的待插值点坐标取代原坐标代入有理函数插值模型实现边缘区域插值。本文所提算法不仅具有有理函数纹理细节保真度高的优点，同时还充分利用了边缘数据局部不对称性和梯度信息，保证了图像边缘结构。实验结果表明，该算法不仅具有较好的视觉效果，同时具有较高的客观评价数据。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Gonzalez R C,Woods RE.Digital Image Processing[J].Prentice Hall International,2008,28 (4): 484-486.   \n[2]Keys R G.Cubic convolution interpolation for digital image processing [J].IEEE Trans on Acoustics Speech & Signal Processing,1981,37 (6): 1153-1160.   \n[3]Hou HS,Andrews HC.Cubic splines for image interpolation and digital filtering [J]. IEEE Trans on Acoustics Speech and Signal Processing, 1979,26 (6): 508-517.   \n[4]Li Xin, Orchard MT.New edge-directed interpolation.[J].IEEE Trans on Image Processing,2001,10(10):1521-1527.   \n[5]Liu Yifang,Zhang Yunfeng,Guo Qiang,et al.Image interpolation based on weighted and blended rational function [C]//   \n[6] Proc of the 12th Asian Conference on Computer Vision.Berlin: Springer International Publishing,2014:78-88.   \n[7]刘一方．基于含参有理函数的图像插值理论及技术研究[D].山东： 山东 财经大学,2015.(Liu Yifang.Research on image interpolation theory and technology based on parametric rational function [D]. Shandong: Shandong University of Finance and Economics,2015.)   \n[8] 刘一方，张云峰，郭强，等．人眼视觉感知模型指导的有理函数图像 插值[J].西安电子科技大学学报,2016,43(01):151-156.(Liu Yifang, Zhang Yunfeng,Guo Qiang，et al. Image interpolation of rational function guided by human visual perception model [J]. Journal of Xidian University,2016,43 (01): 151-156.)   \n[9]杜宏伟，张云峰，包芳勋，等．梯度优化的有理函数图像插值[J]. 中国图像图形学报，2018,23(05):766-77.(Du Hongwei, Zhang Yunfeng,Bao Fangxun,et al. Rational function image interpolation for gradient optimization [J].Journal of Image and Graphics,2018,23 (05): 766-777)   \n[10] Zhang Yunfeng,Bao Fangxun, Zhang Caiming,et al. Local Shape Control of a Bivariate Rational Interpolating Surface with Mixing Conditions [C]// Proc of the 2011 8th International Symposium on Voronoi Diagrams in Scienceand Engineering,ISVD 2011.Piscataway, NJ:IEEE Press,2011:200-205.   \n[11] Sun Qinghua,Bao Fangxun,Zhang Yunfeng,et al.A bivariate rational interpolation based on scattered data on parallel lines [J]. Journal of Visual Communication and Image Representation,2013,24(1): 75-80.   \n[12] Ramponi G. Warped distance for space-variant linear image interpolation [J]. IEEE Trans on Image Processing,1999,8 (5): 629-639.   \n[13] Zhang Lei, Wu Xiaolin.An edge-guided image interpolation algorithm via directional filtering and data fusion [J]. IEEE Transon Image Processing,2006,15 (8): 2226-2238.   \n[14]Hung KW, Siu W C.Robust soft-decision interpolation using weighted least squares [J]. IEEE Trans on Image Processing A Publication of the IEEE Signal Processing Society,2012,21(3): 1061-1069.   \n[15] Dong Weisheng, Zhang Lei,Lukac R,et al. Sparse representation based image interpolation with nonlocal autoregressive modeling [J]. IEEE Trans on Image Processing,2013,22 (4): 1382-1394.   \n[16] Lee S J,Kang M C, Uhm KH,et al. An edge-guided image interpolation method using taylor series approximation [J]. IEEE Trans on Consumer Electronics,2016,62 (2): 159-165.   \n[17]范清兰，张云峰，包芳勋，等．基于NSCT的区域自适应图像插值算 法[J].计算机研究与发展，2018,55(03):629-642.(Fan Qinglan, Zhang Yunfeng，Bao Fangxun，et al.An region adaptive image interpolation algorithm based on the NSCT[J]. Journal of Computer Research and Development,2018,23 (05): 766-777)   \n[18]朱炯，严丽军，马燕．改进 SSIM图像评价系统的开发与应用[J]. 计算机工程与应用,2019,55(12):215-219.(Zhu Jiong,Yan Lijun,Ma Yan.Development and application of improved SSIM image evaluation system[J]. Computer Engineering and Applications,2019,55 (12): 215- 219.) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

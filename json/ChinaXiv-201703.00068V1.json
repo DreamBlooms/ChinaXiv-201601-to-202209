@@ -1,0 +1,443 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201606301326 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王雪，施晓清.基于GIS 的产业生态学研究述评.生态学报,2017,37(4)：1346-1357.  \nWangX，Shi $\\mathrm { ~ X ~ Q . A ~ }$ review of industrial ecology based on GIS.Acta Ecologica Sinica,2017,37(4）:1346-1357.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于GIS的产业生态学研究述评",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王雪1,2,施晓清1，\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1中国科学院生态环境研究中心城市与区域生态国家重点实验室，北京100085  \n2中国科学院大学，北京100049",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：产业生态学由于缺少关于空间分析的工具,使得研究结果因缺乏空间维度信息而影响对管理效率和精准度的支持。基于GIS 的产业生态学相关研究已成为产业生态学研究的一个新的方向。为总结已有的研究成果并展望未来的研究方向,运用文献计量及对比分析的手段,系统分析了国内外基于GIS 的产业生态学的相关研究进展,得出以下结论：当前基于GIS 的产业生态研究主要集中在物质代谢、产业共生和生命周期评价3个方面,将GIS 技术引入到物质代谢研究中,可以更好的展示物质代谢的时空分布格局，为物质代谢研究提供了一种新的方法;基于GIS 技术,不仅可以更加高效地挖掘潜在的产业共生机会,还可应用于生态产业园的规划管理如企业的选址、空间布局等以及废弃物的回收再利用方面;将GIS与LCA耦合在一起,可以很好地补充、完善和管理传统数据,有助于探索产品、活动或工艺的环境影响的空间特性以及进行土地利用相关的环境影响评价。另外,国内外研究的侧重点也不尽相同。在物质代谢研究中,国内研究较少，仅在城市尺度上进行了基础设施的物质代谢及其存量分析,国外在国家、城市尺度上研究了铜、锌等金属的物质代谢情况；在产业共生研究中,国内侧重于生态产业园的研究，而国外侧重于城市尺度的产业共生机会识别的研究;在LCA的研究中,国内开展了基于GIS 的生命周期评价数据库和产品材料信息管理系统的研究，而国外侧重于进行区域化的生命周期评价、进行土地利用影响类型的相关评价以及污染物的追踪，国内在该方面尚处于起步阶段。国内外在研究方法上存在共性,都是基于GIS 的空间分析方法、缓冲区分析方法以及数据库技术等。未来将GIS作为一个平台,面向产业转型展开产业生态学综合理论方法的研究,可以为产业的可持续性管理提供有效支持。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：产业生态;地理信息系统;物质代谢;产业共生;生命周期评价",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A review of industrial ecology based on GIS ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Xue1,2， SHI Xiaoqing1,",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1StateKeyLaboratoryofUbanndRegialcologyRsechCenterforcoEirontalSciences，ChineseAcademyofSciences，eiing 100085，China   \n2 University of Chinese Academy of Sciences，Beijing 10oo49,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Becauseofthelackof spatialanalysistools，industrialecologyislimited inprovidingeffectiveandaccurate supportfor industrial management.Byvirtueof geographical informationsystems（GIS）technology，GIS-based industrial ecology has becomeanewresearchdirectionfor industrial ecology.To summarizeexisting researchand identifydirections for futureresearch，ecent progress inGIS-based industrial ecology hasbeensystematicallyreviewed inthis paperbymeansof bibliometricsandcomparativeanalysis，andthe follwing conclusions wereobtained.Substance metabolism，industrial symbiosis，and lifecycle assessment（LCA）are three main aspects of GIS-based research of industrial ecology.With the introductionof GISinto thestudyof substancemetabolism，thespatialandtemporal distribution paternof substance metabolism can be beter demonstrated，providing anew method for substance metabolism．Based on GIS technology， potential industrialsymbioticopportunitiescouldbeincreased,andtheplanngandadministrationofaneco-industrialpark includingthelocation,layout，and wasterecyclingof industries，couldbeoptimized.Combining with GIS,LCAcan help supplement，consummate,and manage the traditionaldata，which willbeuseful toexplore the impacts of productionand industrialactivityon theenvironment，or toassessthe influenceof spatial featuresandlanduseontheenvironmental impact.However，the mainemphasisof research undertaken locallyand intermationallyonGIS-based industrial ecology difered.In the domestic research scenario，studiesonsubstance metabolismare few，andthese focused on the substance metabolismand inventoryanalysisof infrastructuresatthe cityscale.Intermationally，theresearch focushas beenonthe substance metabolismof metalssuch ascopper，and zinc.In thecaseof industrial symbiosis，domestic research focuses on eco-industrialparks，whileintemationally,thefocusisontheidentificationof thepotentialindustrialsymbiosisathecity scale.Incaseof LCA，domesticresearchesconcentrateonthe GIS-based LCAdatabaseand material information management system，while foreign researches focus onregionalization ofLCA，asssing land use impact in LCA，and mappingthe flowsof polltants.However，thecommonalitybetween thedomesticand foreignresearch methods iscentered onthespatial analysis，buferanalysis，anddatabase technology.Itisexpectedthat GIS-based industrial ecology will provide effective support for industrial sustainability management. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words:industrial ecology；GIS；material metabolism；industrial symbiosis；LCA ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "产业生态学是站在资源瓶颈和环境约束的角度审视人类生产活动与其依存的资源、环境之间关系的一门新兴交叉学科，主要是研究企业行为、企业之间关联、企业与其依存环境的关系，目的在于认识和优化这种关系,从而实现人类生产活动的高效性、稳定性和持续性[1]。当前产业生态学的研究热点主要包括物质代谢、产业共生、生命周期评价、生态效率和工业过程优化等。产业生态学的诸多研究领域均涉及大量空间属性数据的采集、处理和应用,例如物质存量的空间分布、生态产业园的空间规划等。为了对大量具有空间内涵的地理数据进行科学高效地处理,就迫切需要充分利用近年来迅速发展的计算机和信息处理技术,为产业生态学的应用研究提供技术上的有效支持。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "地理信息系统(GIS），是以采集、存储、管理、分析、显示和应用整个或部分地球表面与空间和地理分布有关的数据的通用技术[2],是融合计算机图形和数据库于一体,用来存储和处理空间信息的高新技术。它把地理位置和相关属性信息有机结合起来,满足城市建设、企业管理、居民生活对空间信息的要求,并借助其独有的空间分析功能和可视化表达功能,为相关政府部门行政管理提供更为精准的辅助决策[3]。GIS 在生态环境领域的应用已经得到了迅猛的发展[4]。近年来,随着GIS 技术的快速发展,利用空间产业共生潜力分析和决策支持工具的开发开始成为新的研究热点。在2015年的国际产业生态学大会上,Laurent Georgeault 等指出虽然GIS 在公司层面还没有广泛应用,但是早已引起了产业生态学界的兴趣,同时将GIS 引入到产业生态学的研究中来,也说明了空间问题的重要性[5]。将GIS 引人到产业生态学的应用研究中,将会为这个复杂的多学科交叉领域带来新的研究方法和应用前景。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1文献计量分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "产业生态学的研究对象可以分为产业系统、企业,产业过程,产品,废弃物及产业服务等。在宏观层面上，运用物质流分析方法研究生产系统的物质代谢过程，在中观层面上，产业生态学则研究产业共生现象，在微观层面上,产业生态学主要研究产品的生态设计,主要着眼于产品的生命周期管理[1]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于上述背景,本文在web of science 核心合集以及中国知网中进行了文献检索。在Web of Science 核心数据库中检索式为（“industrial ecology”OR“industrial symbiosis”OR“Eco-industrial park”OR“materialmetabolism”OR“LCA\"）AND（“geographic information system”OR“GIS”）,在中国知网中检索式为 $\\mathrm { S U } = \\left( \\mathbf { \\Sigma } ^ { \\prime } \\vec { p } ^ { \\mathrm { { z } } } \\right.$ （20业生态 $' + '$ 产业共生 $' + '$ 物质代谢 $' + '$ 生命周期评价 $' +$ ‘生态产业园’）AND AB $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ （'地理信息系统 $\\mathrm { ^ { \\prime } { + } ^ { \\prime } { G I S ^ { \\prime } } }$ )。通过对检索到的文献进行阅读、归纳、整理,同时也对参考文献进行了浏览分析，得出49篇文献，结合产业生态学的研究对象，将其分为三大类，即宏观层面上生产系统物质代谢、中观层面上产业共生和微观层面上生命周期评价研究。图1显示了3类国内外研究文献数量。可看出，国内外基于GIS的产业生态学的研究以中观层面的产业共生的研究多于其他两类。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图2展示了文献数量随时间的变化规律。可以看出，从2000年开始出现了基于GIS的产业生态学的研究，并且从2009年开始，研究数量逐渐增多。由此可以看出，将GIS引人到产业生态学的研究中，已经受到越来越多的重视。最早的基于GIS的产业生态学的研究是关于产业共生的研究,且研究的数量均大于其他研究;物质代谢研究开始于2009年,从2013年开始逐年增多;生命周期评价研究开始于2001年,每年平稳增长。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d21bcf12e4100b086b664089e098c074beba984e8122e0b99333730d78fe8b03.jpg",
+        "img_caption": [
+            "图1国内外基于GIS的产业生态学3个研究方面的文献数量Fig.1 The number of research literature of industrial ecologybased on GIS"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e1bcbb3d0d4f2af66f6701aacce3f1a98fc120c05cdc3dd8dcffd1ca35f4d86c.jpg",
+        "img_caption": [
+            "图2基于GIS的产业生态学相关领域研究的文献数量",
+            "Fig.2The number of related research in the field of literature of industry ecology based on GIS "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从总体来看,基于GIS的产业生态学的研究呈增加趋势。但该研究的发展脉络和趋势尚缺乏系统的梳理,影响了研究的进一步发展。为此,本文进行了国内外文献的分类比较分析,系统分析了已有的基于GIS 的产业生态领域中的相关研究进展,从宏观层面上生产系统物质代谢过程、中观层面上产业共生和微观层面上生命周期评价3个方面展开述评，并展望了未来研究的方向。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2国内外研究进展",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1基于GIS 技术的生产系统物质代谢研究",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "产业生态学目标是实现社会经济系统物质和能量流动的最优化。在宏观层面上产业生态学强调生产系统物质的代谢过程,即运用物质流分析方法定量刻画生产系统的物质代谢过程[6]。物质流分析（MFA）是指在一定时空范围内关于特定系统的物质流动和储存的系统性分析[7]。通过物质流分析,可以对投入的物质进行全过程追踪考察,准确掌握投入、输出的物质量和废物产生量，对调控经济系统与生态环境间物质的流动方向和流量,达到提高资源利用效率,降低经济发展对生态环境的影响的目的[8]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "物质流分析是物质代谢研究中运用最广泛的方法之一，但也存在不足。传统的物质流分析方法在反映空间特性及其差异方面具有局限性;当前的研究多基于社会经济等统计数据,侧重于分析物质代谢随时间的演变特征,缺乏物质代谢过程和空间演变的特征分析，且统计数据具有不完整、有效性不强以及各国之间的数据结构可比性较差等缺点[9];从管理对策方面来看,大多数研究提出的政策建议地域针对性往往比较差。结合GIS,可以弥补传统的物质代谢分析方法空间表达的不足,有助于更加系统的研究物质代谢在时间和空间上的演变规律。Laurent Georgeault 等在 2015 年的国际产业生态学大会上提出了一个基于MFA 和GIS 的计算系统,可以系统的描述建筑材料的输入和输出,及其成为城市矿山的潜力[5」。表1总结了国内外相关研究成果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ac0a6caa7f074d9012695027b0ace69e9e224e6106ed38b6c95cf1b332064d96.jpg",
+        "table_caption": [
+            "表1基于GIS的物质代谢研究",
+            "Table1Research of metabolism based on GIS "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>作者 Author</td><td>研究尺度 Research scale</td><td>研究内容 Research contents</td><td>研究结果 Research results</td></tr><tr><td>D.van Beers、T.E. Graedel[10]（2007)</td><td>国家、城市尺度</td><td>分析澳大利亚不同的空间尺度 中铜和锌的存量情况</td><td>定量的描述了悉尼内城区、悉尼地铁、澳大利亚各州以及 澳大利亚国家尺度的铜、锌的存量密度地图,获取和处理 多维数据的复杂性是该研究的一个限制</td></tr><tr><td>Tanikawa 等[11] (2009)</td><td>城市尺度</td><td>基于4d-GIS 分析城市建筑和基 础设施物质存量的时空变化 情况</td><td>评估了城市建筑物和基础设施的代谢情况，并且从存量的 垂直位置角度分析了可再循环能力</td></tr><tr><td>(2009) Tanikawa等[12]</td><td>国家、城市尺度</td><td>基于GIS历史数据库，定量分析 城市物质的地下存量</td><td>对国家、城市尺度的物质存量进行了估算，并分析了其随 时间的变化情况,GIS 历史数据库有助于分析物质的年龄 和规模</td></tr><tr><td>Wallsten 等[13] (2013)</td><td>城市尺度</td><td>探测瑞典北雪平地区的城市 矿山</td><td>评估了城市基础设施中金属回收利用潜力,着重对不同金 属的空间分布特征进行了分析。由于数据不足，缺乏地下</td></tr><tr><td>Tanikawa 等[14] (2014)</td><td>城市尺度</td><td>基于GIS和物质存量分析 (MSA)评估由2011年日本东部 的大地震和海啸造成的建筑物 和基础设施的损失材料存量</td><td>描述了损失的物质的空间分布情况，估计了修复灾区的基 础设施所需的物质总量，指出在政府政策审议过程中所需 考虑的损失的物质存量。该研究可以进一步分析物质存 量空间分布与受到自然灾害影响的关系</td></tr><tr><td>Wallsten 等[15] (2015)</td><td>城市尺度</td><td>提出一种将GIS、MFA与二级储 量探测工具相结合的方法</td><td>分析了瑞典南部城市林雪平地区的铜的存量情况增加了 空间维度和细节层次的分析，但是该研究只分析了现有的 铜的存量，缺乏对未来废弃铜的累积的处理方法</td></tr><tr><td>Tanikawa 等[16] (2015)</td><td>国家尺度</td><td>经济代谢情况</td><td>基于GIS,自下而上地研究社会对物质存量的空间分布进行了可视化研究,但是缺乏物质 存量的年龄以及相关的流入流出情况</td></tr><tr><td>胡聘等[17](2014)</td><td>城市尺度</td><td>量及其空间分布情况</td><td>分析北京市道路系统的物质存基于GIS,构建模型,进行分析，解决了复杂的道路网络结 构问题，避免了双重计算</td></tr><tr><td>曹武星[18](2015)</td><td>城市尺度</td><td>研究上海市主要城市基础设施 中物质代谢情况</td><td>基于GIS构建了自下而上的MFA分析框架和方法，在此基 础上提出了相应的政策建议。GIS 的应用,弥补了城市尺 度物质、能源输入输出统计数据的不足</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以GIS 为工具,分析特定系统的物质代谢情况,国外研究较多,国内在这方面的研究尚处于起步阶段，且集中于城市尺度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2基于GIS 技术的产业共生研究",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2000 年Chertow提出产业共生的概念，“产业共生将传统意义上分离的产业通过合作的方式聚集起来，这种包括物质、能量、水和副产品的互换的合作会产生竞争性优势”[19]。产业共生,作为实现废弃物资源化的创新途径[20-21],以及推动经济绿色增长和提高资源效率的战略性工具[22],已受到越来越多的关注。目前,欧盟有关产业共生的政策已成为经济与环境政策的重要组成部分,如在欧盟“引领资源效率倡议”中,将产业共生作为获取资源效率的推荐性方法；“欧盟废弃物框架指令”将英国的“国家产业共生项目”作为经典案例介绍给其他成员国[22]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分析产业共生关系是一个系统工程,涉及企业空间位置信息、原材料与废弃物的种类和数量信息、运输路线的规划、新引入企业的选址、废弃物处理堆放场地的规划和选址等。结合GIS 强大的空间数据处理能力,根据特定区域产业共生的具体情况,可以为城市产业共生管理研究提供有效支持。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "http ://www.ecologica.cn ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1产业共生机会的识别 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Matthew 指出实现产业共生的困难就在于识别共生机会和鼓励利益相关者的积极性[23]。在产业共生的研究中,GIS 作为一个工具,可以通过对原有物质能量流动关系的研究,挖掘潜在的共生关系,科学的分析产业共生的机会,以减小经济活动对环境的影响。研究方法主要是通过对区域背景(产业现状、环境、政策等)，现有产业布局,物质流、能流、副产品的循环再利用情况,基础设施的布局与共享,以及土地利用与经济活动的空间组织等的分析,挖掘潜在的共生关系。同时基于GIS强大的空间数据分析与作图能力，使分析过程和结果更加形象化,方便交流,同时可以作为决策支持工具。Guillaume 等在2009 年国际产业生态学年会上汇报了其在瑞士日内瓦地区利用GIS 技术进行产业共生关系识别的研究,并对其进行了空间分析。国外已有较多相关研究,国内尚处于起步阶段,如表2所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/e5807783473b34d44f54d9f321fc385dba74ca2739f918d8e6baddc7fc6ffe2e.jpg",
+        "table_caption": [
+            "表2基于GIS的产业共生机会识别研究",
+            "Table 2Research of Industrial symbiosis opportunity recognition based on GIs "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>作者 Author</td><td>研究尺度 Research scale</td><td>研究内容 Research contents</td><td>研究结果 Research results</td></tr><tr><td>Nobel[24]等 (2000)</td><td>区域尺度</td><td>基于GIS中的线性规划算法，构 建了一个可以实现成本最优的 水利用的模型</td><td>识别了基于水质的具有可行性的水的再利用机会，并且可以识别 基于产品购买、处理和运输费用的最佳物质交换模式，结果以区 域地图的形式呈现出来，还可进一步应用于其他的物质流动分析</td></tr><tr><td>Michael[25]等 (2001)</td><td>城市尺度</td><td>基于当地产业的相关数据，并且 识别企业之间潜在的合作关系</td><td>在该项目中，48%的参与企业之间存在合作的可能性，以进行物 质、水和能量的再利用,显示了GIS 在识别潜在共生关系方面的应 用价值</td></tr><tr><td>Massard[26]等 (2007)</td><td>区域尺度</td><td>GIS与日内瓦地区的产业数据 库相结合</td><td>识别了潜在的产业合作伙伴，界面允许新公司进行搜索，参与项 目的企业过少是一个不足，目前所识别的协同效应将会作为示 例，以吸引更多的企业加入其中</td></tr><tr><td>Chung[27]等 (2010)</td><td>城市尺度</td><td>基于资源循环的地理信息系统， 在已存在的产业共生关系的基 础上挖掘潜在的共生关系</td><td>通过副产品的利用可以产生很多额外的共生关系，如何提高效率 还需进一步的研究</td></tr><tr><td>SaeidHatefipou[28] 等(2012)</td><td>区域尺度</td><td>基于GIS处理瑞典地区的数据 和信息，以促进产业共生的发展</td><td>GIS 在空间规划、决策制定、可视化以及分析和数据管理方面起到 了重要作用,数据和信息的可用性和共享性是将GIS开发成发展 产业共生的有力工具的一个挑战</td></tr><tr><td>Paul D. Jensen[29]等 (2012)</td><td>国家尺度</td><td>在的地址的方法，结合GIS,在原 有企业的基础上识别潜在的共 生关系，使参与企业更快的找到 潜在的产业共生热点</td><td>可以大大促进产业共生以及区域的资源利用效率，数据集的存在 性和可用性是应用GIS 的一个限制</td></tr><tr><td>Susan Nesbit[30] 等(2012)</td><td>城市尺度</td><td>将GIS与系统分析结合起来，建 立了一个模型,以确定水循环利 用的可行性</td><td>整体上降低了水和能源的使用。模型目前使用年度资源生产和 需求数据,实际的资源生产和需求时间配置文件可以更准确的估 计资源交换的潜力</td></tr><tr><td>Ben Zhu[31]等 (2015)</td><td>国家尺度</td><td>提出了建立产业共生数据库的 研究方法，结合GIS,可以方便地 实现信息的检索和交换</td><td>为共生的匹配和热点识别提供了基础,但是缺乏识别共生机会的 进一步研究</td></tr><tr><td>(2011) 莫虹频[32]</td><td>城市尺度</td><td>开发基于GIS 技术和CBA分析 的区域共生潜力分析工具</td><td>结合GIS 的空间数据库技术和缓冲区分析方法，在600 余家主要 规模以上企业间构建了废热利用网络，效益评估表明可以获得1. 06 亿以上的共生效益</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 生态产业园规划研究",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Denisse Navaro认为GIS 是一个便利的工具,通过标出选定的产业的数据,可以观察到当前已经存在的协同交换和新的协同共生的机会。这一方法同样适用于其他国家和城市,也可以用于生态产业园的规划中。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "生态产业园即产业共生的一种具体的实现方式。Peddle MT在1993 年提出产业实体的概念,与生态产业园有相似之处[33]。生态产业园不外乎就是各类企业受到经济利益驱使,或者为了实现地区规定的减排目标等,在一定范围内聚集,形成副产品交换网络,并且维护该网络物质流、能量流、资金流和信息流的运行。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "http ://www.ecologica.cn ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "近年来,随着生态产业园的快速发展，一个普遍的问题日渐凸显;尽管有规划建设方案,但却缺乏技术手段支撑规划的顺利实施。同一般企业选址一样,工业园区企业的选址是投资性决策,其重要性远远高于一般的经营性决策[34]。利用GIS强大的空间数据分析能力对生态产业园进行合理规划是很有必要的。在中国地理学会2006年学术年会上,王亚伟、钱瑜就提出了以GIS 技术为支持,以突出环境效益,优化空间布局为侧重点的生态工业园规划思路[35]。具体研究情况如表3所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/8c86151061c59393bb1fe2db2ddd86fab3f72319c52387c22d359d8f8bb40189.jpg",
+        "table_caption": [
+            "表3基于GIS的生态产业园研究",
+            "Table 3 Research of eco-industrial park based on GIS in China "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>作者 Author</td><td>研究尺度 Research scale</td><td>研究内容 Research contents</td><td>研究结果 Research results</td></tr><tr><td>赵胜豪、 (2008) 钱瑜[36]</td><td>生态产业园 尺度</td><td>提出了基于GIS、数据仓库、数据 挖掘和联机分析技术的的生态 工业园决策支持系统的结构 框架</td><td>应用该决策支持系统,可以更加有效的管理园区内各种信息，提高 园区的监督管理水平,科学、规范、高效地实现生态产业园的建设管 理。但是还面临着开发周期长、更新困难以及操作专业化程度高、 不易掌握等问题</td></tr><tr><td>(2009) 王若成[37]</td><td>生态产业园 尺度</td><td>运用GIS技术为烟台市生态工 业园区建成了集知识、分析、决 策和服务为一体的生态产业园 区地理信息系统</td><td>为空间数据管理和信息共享提供了应用平台，对系统的总体结构、 功能、数据库和系统集成等方面进行了探讨。但是该系统还具有移 植性差、受开发工具的限制等缺点</td></tr><tr><td>叶瀚中、金贝 聪[38](2010)</td><td>国家尺度</td><td>库建设理念，即国家级生态工业 环境信息数据库系统</td><td>基于系统平台，将不同地区不同区域产业所需的物料、排放物、能耗 提出了基于GIS 的国家级数据情况、技术能力等信息进行统一整合,有利于为企业搭建新的产业 共生关系。但是这一信息平台的实现也受到企业对生态工业的认 识和支持的限制，同时其建设本身也需要政府及国建环境部门的 支持</td></tr><tr><td>徐红[39](2011)</td><td>生态产业园 尺度</td><td>结合工业园区规划的相关原理， 通过遥感与GIS 把规划成果管 理和制图进行展示</td><td>利用遥感技术获得数据和GIS分析，得到定量的描述结果,作为工业 园产业选择定位的依据。GIS可用于工业园区产业定位与选择优化 和工业园区空间布局的设计与优化。该模型只用到了简单的距离 量算等，且只构建了数据库的雏形，还不能满足对工业园规划成果 的管理需求</td></tr><tr><td>拢[40](2012)</td><td>钟凯文、刘旭生态产业园 尺度</td><td>提出了建设广东高新技术产业 生态地理信息系统，并对系统总 体设计以及系统特点做了详细 介绍</td><td>实现了广东高新技术产业管理科学决策。目前，该成果在广东省科 技信息息心进续的研究项人的促进作了成功应用，对广东省高新技</td></tr><tr><td>张静、钱瑜[35] (2015)</td><td>生态产业园 尺度</td><td>提出了一种基于GIS 平台的新 入园企业的选址三阶段算法，并 进行了实证分析</td><td>研究表明，基于GIS的选址算法具有实际可行性。选择适当合理的 影响因素、构建具有针对性的模型等还有待进一步的深入研究</td></tr><tr><td>Kang等[41] (2011)</td><td>生态产业园 尺度</td><td>提出利用GIS构造生态产业园 的循环网络</td><td>确定了循环再造公司的最佳区位、识别了利用不同种类的废弃物的 制造业之间的关联、建立了废热回收利用的最优化的网络等，确立 了当前基于GIS的回收网络的可行性</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.3 固体废弃物管理研究",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "废弃物是放错地方的资源，其产生是人类从事生产生活活动所不可避免的，废弃物资源化已成为全球废弃物管理的趋势。再生资源产业在废弃物资源化过程中承担着重要作用,然而对发展循环型社会的贡献依然有限,迫切需要建立更为有效的废弃物资源化体系。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将固体废弃物纳入产业共生体系,已有学者对此展开研究。早在 2000 年,Chertow 提出将生态产业园区与城市废弃物联系起来,通过物质交换实现零排放目标[19]。Lyons 通过对德克萨斯州的废弃物回收、资源化、再制造和处置企业的调查,研究这些企业能否成为产品生产与废弃物之间的桥梁,结果显示仅有少部分废弃物通过该路径被应用于再生产[42]。2009 年Van Berkel等根据日本 Eco-Town 的发展经验,提出了城市共生的概念[43]。Geng 等认为城市共生可以创造更多的协同机会,可以提高整个城市的生态效率[44]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "地理信息系统强大的空间信息管理与分析功能如环境制图、专题分析、统计分析表现、空间等值分析、模拟结果表现等[45-47],使其在固体废弃物管理规划中亦得到了广泛应用。国外研究人员在区域、城市等尺度上均进行了一些相关研究,主要研究内容包括通过GIS建立模型,为研究废弃物的现状以及循环利用情况提供支持。国内在这方面的研究尚欠缺(表4）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/07da0ae10bef7f37e82ea1d68d3d733418f038d3fbe0ece5bd568f0699db9ea3.jpg",
+        "table_caption": [
+            "Table 4Research of recycling based on GIS "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>作者 Author</td><td>研究尺度 Research scale</td><td>研究内容 Research contents</td><td>研究结果 Research results</td></tr><tr><td>C.S. Armstrong、C. E. Tranby[48](2002)</td><td>城市尺度</td><td>建立了废弃物特征分析模型，旨 在将有用的垃圾转移出来进行 再利用</td><td>GIS 模型可以识别废弃物重新利用的新方式。但也存在一 些限制,即使废物交换目标类型的企业可以确定,还有另 一个因素即业主愿意出售他们的属性需要考虑,这在模型 中难以体现</td></tr><tr><td>Jäppinen，E.、 Korpinen[49]（2010)</td><td>区域尺度</td><td>基于GIS,研究了如何提高生活 垃圾的运输效率的问题</td><td>利用GIS，进行了交通评价，结果表明，通过合理规划垃圾 回收区域，可以大大减少不必要的交通排放</td></tr><tr><td>Blenginic[50]等 (2010)</td><td>城市尺度</td><td>利用特定的数据,开发一个结合 了GIS 和LCA的模型,特别关注 土地利用、运输和可避免的填埋 这几个可持续发展管理中的重 要问题</td><td>利用GIS，处理了89家回收厂的数据和信息，最终解决了 可持续规划和管理中的关键问题。但是本研究在回收厂 的数量、规模、类型以及位置等方面的影响研究中尚有 欠缺</td></tr><tr><td>MarzeiehEshtiaghi 等[51](2014)</td><td>生态产业园尺度</td><td>体废物的特点，进行了环境失效 模式和效应分析</td><td>GIS 结合产业园中生态产业固GIS可以显示空间位置信息，例如能够促进产业生态的最 佳方式所需要的设施的位置。GIS结合EFMEA，对调度前 后的废弃物管理情况进行了比较</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3基于GIS 技术的生命周期评价研究",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "生命周期评价(life cycle assessment，LCA)是对产品、工艺或活动从“摇篮到坟墓”即从资源开采到最终处理的整个生命周期环境影响的一种评价方法。LCA的方法最突出的缺点就是其中时间和空间元素的缺乏,以及经济与社会公平因素的缺失[52]。而GIS 可以存储观测数据的具体地点,可以弥补传统LCA 的不足，为产品生命周期评价研究提供更加全面和准确的数据。Garofalo 等在2014年的欧洲国际生物质会议上,提出将作物模拟模型和GIS 耦合到LCA中,对谷物秸秆能源转换过程中的能源需求以及温室气体排放效应进行评估,在区域尺度上获得了环境影响的精确的空间分布结果[53]。在2015年的环境保护信息国际联合会议中,Mastrucci 等以卢森堡为例,构建了基于GIS 的城市建筑群生命周期评价框架,在城市尺度上从全生命周期角度评估了建筑物存量的环境影响[54]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "LCA 在特征化因子的获取、土地利用相关影响评价以及环境影响的空间特性等方面存在不足,国外研究主要集中在这些方面,国内研究包括数据库的构建和环境影响的空间特性两个方面。如表5所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/d9ec6a9431db54d85e139e017fc10e33c35985e8facb7df11fda15a45c45672f.jpg",
+        "table_caption": [
+            "表4基于GIS的废弃物资源化研究",
+            "表5基于GIS的LCA研究",
+            "Table 5Research ofLCA based on GIS ",
+            "http ://www.ecologica.cn "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>作者 Authors</td><td>研究尺度 Research scale</td><td>研究内容 Research contents</td><td>研究结果 Research results</td></tr><tr><td>Syrrakouc[55]等 (2001)</td><td>区域尺度</td><td>基于GIS 和LCA相结合的方法， 探索支持环境决策的新方法，并 进行了实证研究</td><td>将LCA的整体观和GIS的可视化能力相结合，提出了新的环境 决策的方法一—空间环境生命周期系统</td></tr><tr><td>Nansai[56]等（2005）</td><td>全球尺度</td><td>不同的特征化因子</td><td>提出基于不同的地理特征,使用利用GIS,不仅可以显示地理特征不同的区域的形状,还可以根 据条件进行搜索</td></tr><tr><td>Azapagic[57]等 (2007)</td><td>城市尺度</td><td>来标注城市中污染物的流动，包 括从源头到坟墓</td><td>提出了一种全生命周期的方法将GIS、LCA 结合在一起,作为一个交流和决策支持工具,GIS 可 以将污染源之间的关系、污染物的归宿及其环境影响进行可视 化,要进一步开发相应的软件平台来支持这一方法</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/fb6c7c3125f1962ba48f4e9c7dbfa13c13af622b380eaf48c9065148cc495da7.jpg",
+        "table_caption": [
+            "4期",
+            "续表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">续表</td></tr><tr><td>作者 Authors</td><td>研究尺度 Research scale</td><td>研究内容 Research contents</td><td>研究结果 Research results</td></tr><tr><td>Mutel[58]等（2009)</td><td>区域尺度</td><td>提出将区域化的特征因素耦合 到生命周期清单数据库中</td><td>使评价结果更精确真实，更好地识别了主要影响过程或排放源</td></tr><tr><td>Nunez[59]等（2010)</td><td>全球尺度</td><td>结合GIS,提出了针对土地利用 影响中的沙漠化这一影响类型 的评价方法</td><td>GIS 帮助获取特征化因子。未来还需要将研究生物物理变量的 方法扩展到社会经济变量</td></tr><tr><td>Geyer[60]等（2010)</td><td>区域尺度</td><td>耦合GIS 和LCA，进行土地利用 中生物多样性这一指标的评估， 并以加州农作物生产乙醇为例 进行了实证研究</td><td>极大地增加了土地利用在清单模型中的占比，由此产生的清单 数据可以为生物多样性影响评价提供一个良好的基础。还需 建立一个评估框架,以便进行比较研究</td></tr><tr><td>Gaso[61]等（2011)</td><td>区域尺度</td><td>和二氧化碳排放等环境影响</td><td>结合GIS 和LCA等,来确定能源结合GIS 和LCA分析了环境的各个方面，以完全获取能源和物 作物实施策略,以减少能源消耗质流动的环境结果,还确定了种植能源作物的适宜地区。要完 成完整的评估，还需进行经济、社会和国家等方面的分析</td></tr><tr><td>Mutel[62]等（2012)</td><td>区域尺度</td><td>提出了进行区域化的生命周期 评估和系统选择影响评价的空 间尺度的方法,并进行了实证 研究</td><td>GIS 数据库及其计算功能为地区影响评价方法提供了适当的空 间支持。将栅格数据引入到生命周期清单中是未来的一个发 展方向</td></tr><tr><td>Dresen[63]等（2012)</td><td>区域尺度</td><td>将空间分析纳入到LCA研究 中,通过GIS,可以进行复杂的计 本的平衡等</td><td>结合GIS不仅可以对单个工厂进行评估，还可以对整个地区的 温室气体减排潜力、沼气的潜力以及必要的投资成本进行评 算,例如,排放、生物质流以及成估。要提高GIS 平衡计算的准确性,还需要进一步增加环境 参数</td></tr><tr><td>Cousins[64]等（2015）城市尺度</td><td></td><td>将LCA与GIS耦合起来，开发了 态种索，城市水机产业生 代谢的能源和排放强度模型</td><td>利用GIS,可以缩减规模，更准确地估计与水供应相关的排放， 更好地排气体排特性社会境影度是G时具有性， 若将GIS与理论构架相结合，LCA将有更大的发展潜力</td></tr><tr><td>刘芳[65]等（2010)</td><td>全球尺度</td><td>提出将GIS 技术与产品生命周 LCA与GIS的特点对二者结合 的可行性进行了分析</td><td>期评价数据库相结合，并针对结合GIS,可以为生命周期评价提供更加准确的数据支持。但 是缺乏界面、操作系统等的研究设计</td></tr><tr><td>刘芳[66]等(2011)</td><td>全球尺度</td><td>进一步提出了基于GIS,建立产 品材料信息管理系统,并就其必 要性和可行性进行了深入分析</td><td>可以实现材料属性信息与空间信息的集成，产生新的数据组织 方法，方便与空间位置相关的数据的存储和处理，可以更加直 观的显示数据,便于管理者决策。还缺乏构建系统所需的一些 具体工作如开发语言等</td></tr><tr><td>Liu[67]等（2014)</td><td>区域尺度</td><td>基于GIS,进行区域化的生命周 期评价,并以台湾的一家固废 化厂为例进行了实证研究</td><td>通过GIS,把影响分配到更小的空间单元，通过将机会、暴露与 影响分析叠加起来，实现了生命周期评价的区域化</td></tr><tr><td>路璐[68]（2014)</td><td>国家尺度</td><td>提出了将GIS 与LCA 耦合起来, 进行能源植物开发利用潜力评 估的技术方法,并以黄连木为例 进行了实证研究</td><td>可以更加准确的获取资源潜力及其时空分布信息，相关数据的 获取是本研究的一大限制,还需进一步的实地调研数据，使评 价结果更加合理</td></tr><tr><td>田亚峻[69]等</td><td>区域尺度</td><td>总结了LCA区域化的进展以及 GIS 技术用于LCA 计算的研究</td><td>提出了基于地理信息的 LCA的架构和基于GIS 的 LCA 系统的 工作原理</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3国内外研究比较 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综上所述,国内外研究在起步时间,研究规模,研究尺度,研究内容和方法等方面均有所不同。国内研究始于 2006年,是从基于GIS 的生态产业园规划方面的研究开始的;国外研究开始较早,在2000年已出现第一篇相关文献,是基于GIS 的产业共生的研究。从图3可以看出,从2008年以后,国内外文献的变化趋势大致相同,且近年来都呈增长趋势,可见,基于GIS 研究产业生态仍将是今后研究的一个方向。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从研究规模上看,国内研究数量明显少于国外。在研究尺度上(表6),国内研究侧重于城市、生态产业园",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "尺度，国外在国家、区域、城市尺度都有研究，区域、城市尺度居多。从研究内容上看，国内研究虽然在各个方面均有涉及,但集中于基于GIS的生态产业园的规划研究，在产业共生机会识别的研究中几乎处于空白状态，在基于物质的共生机会的识别中，应更多借鉴国外的研究经验;国外在物质代谢、产业共生机会识别、废弃物循环利用和LCA方面的研究中，产业共生的研究最多；在基于GIS的LCA的研究中，在LCA的区域化研究方面，国外已做了一些研究，国内在该方面只提出一些理论框架，缺乏具体的研究。虽然国内外研究在以上方面存在诸多不同，但在研究方法上存在共性，即都用到了利用GIS收集和管理特定区域数据、GIS的空间分析、缓冲区分析、数据库等基本功能。针对具体研究内容，国内外研究也都存在相应的不足，具体情况如表6所示。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/ccc8d08743f7f59b148ae420dc45ea314e09f8c040cbbf554333e447a7f26bd5.jpg",
+        "img_caption": [
+            "图3国内外文献数量随时间的而变化情况",
+            "Fig.3The number of industrial ecology based on GIS literatures in different year "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/e20f53557aae94ac0c6beded4832f1154181a07d0d69c13cef839a23043bc185.jpg",
+        "table_caption": [
+            "表6国内外研究比较",
+            "Table 6Comparison of research of China and other countries "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>分类 Classification</td><td></td><td>研究尺度 Research scale</td><td>研究内容 Research contents</td><td>研究方法 Methods</td><td>不足 Deficiency</td></tr><tr><td rowspan=\"2\">物质代谢 Substance metabolism</td><td></td><td>国内城市尺度</td><td>北京市道路系统和上海市基础 设施物质代谢及其存量情况</td><td>GIS空间分析、 自下而上</td><td>研究内容单一，缺乏全景物质流及其 空间特性的分析</td></tr><tr><td>国外</td><td>国家、城市尺度</td><td>铜、锌等金属,城市建筑、基础设 施等的存量分析，城市矿山的潜 力分析</td><td>自下而上</td><td>GIS 空间分析、由于数据缺乏等原因，研究内容不够 全面</td></tr><tr><td rowspan=\"2\">产业共生 Industrial symbiosis</td><td>国内</td><td>侧重于生态产 业园尺度</td><td>生态产业园的整体规划、新入园 企业的选址、生态产业园管理系 统的构建以及废热循环利用等</td><td>基于GIS 构建 规划管理信息 系统、缓冲区分 析、数据库</td><td>缺乏城市尺度的产业共生研究以及 废弃物管理研究，生态产业园的规划 管理信息系统还缺乏开发语言等的 支持</td></tr><tr><td>国外</td><td>国家、城市、 区域尺度</td><td>水的共生利用、通过副产品或废 弃物的交换识别共生机会以及 构建产业共生数据库等</td><td>GIS空间分析、 缓冲区分析、数 据库等</td><td>数据和信息的可用性和共享性以及 企业参与的积极性是制约发展的重 要因素</td></tr><tr><td rowspan=\"2\">生命周期评价 Life cycle assessment</td><td>国内</td><td>全球、国家、 区域尺度</td><td>提出构建生命周期评价数据库 和产品材料信息管理系统，进行 区域化的生命周期评价</td><td>数据库等</td><td>GIS 空间分析、缺乏开发语言等技术支持,数据获取 难,研究较少</td></tr><tr><td>国外</td><td>侧重于区域 尺度</td><td>进行区域化的生命周期评价、土 地利用影响类型中沙漠化和生 物多样性的影响评价、污染物在数据库 全生命周期中的追踪研究等</td><td></td><td>GIS 空间分析、GIS多用在空间位置的分析，缺乏与 产业生态相关理论的进一步融合</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "国内在基于GIS 的物质代谢、产业共生、生命周期评价研究各个方面均有涉及,但由于起步晚,与国外研究相比,我国在3个方面的研究均存在差距,需要进一步开展研究,如：在LCA的研究中,国外根据不同的地理属性,赋予不同的特征化因子,以便于获得更加真实准确的评价结果的研究方法也是值得借鉴的。从整体来看,由于受到数据和信息的可用性和共享性以及开发语言等的限制,基于GIS 的产业生态学的研究不够全面,还需进一步的努力。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文通过上述基于GIS 的产业生态学相关研究的梳理、分析和比较,得出了如下结论：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1)将GIS 技术引入到物质代谢研究中,可以更好的展示物质代谢的时空分布格局,为物质代谢的空间分析提供了一种新的方法。在研究方法上,国内外研究多采用GIS与自下而上的方法的结合,今后的研究可考虑将自上而下的方法结合进来,以便更好地完善数据。当前的研究多集中于资源物质的代谢情况,而从物质代谢的角度处理废弃物问题的研究较少,将GIS 和废弃物代谢问题结合起来,可以作为未来研究的方向。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2)基于GIS技术,不仅可以更加高效地挖掘潜在的产业共生机会,还可应用于生态产业园的规划管理如企业的选址、空间布局等以及废弃物的回收再利用方面。识别潜在的产业共生的机会,可以提高资源的利用效率以及减少废弃物的产生。为了更加快捷方便的识别共生机会,可以借鉴国外在该方面的研究经验，例如构建技术数据库、空间数据库、结合缓冲区分析等方法,另外基于GIS 构建信息共享平台是非常有必要的，国内在该方面的研究接近空白，应作为国内研究的一个重点。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(3)将GIS 与LCA耦合在一起,可以很好地补充、完善和管理传统数据,有助于探索产品、活动或工艺的环境影响的空间特性以及进行土地利用相关的环境影响评价。将空间属性引入到LCA的研究中来,可以根据不同的地理属性,赋予不同的特征化因子,使LCA的研究数据更加全面、准确,评价结果更加具有地域针对性,我国作为一个人口、地理环境和经济发展水平相差巨大的国家,进行LCA的区域化研究是非常有必要的。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(4)将GIS作为产业生态学中空间分析的工具,不少学者已展开了研究。通过上述研究分析,不难发现,当前的研究多集中于GIS 与物质代谢、产业共生或生命周期评价单独耦合。未来将GIS 作为一个平台,面向产业转型展开产业生态学综合理论方法的研究,也会是一个新的重要方向。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "［1］袁增伟,毕军.产业生态学.北京：科学出版社,2010.  \n［2］邬伦，刘瑜，张晶.地理信息系统—原理，方法和应用.北京：科学出版社，2001.  \n[3］储征伟，杨娅丽.地理信息系统应用现状及发展趋势.现代测绘，2011,34(1)：19-22.  \n[4］刘大翔，许文年，黄晓乐，孙超，郭萍.GIS 在生态环境领域的应用研究.灾害与防治工程,2009，（1)：57-62.  \n[5]BarlesS，GeogeaultLJunqaG.ComputatioalsytebasedonGSndFAfoenviromentalaalysisofurbandevelont：asefconstructioatealsinaris/rocdingfeteatioaloerecefeteaoalSocetyfdusrialEolodRoyaume-Unis，2015:376-376.  \n[6] Graedel TE，Allenby BR.Industrial Ecology.New Jersey：Prentice Hall,1995.  \n[7] 黄和平，毕军，张炳，李祥妹，杨洁，石磊.物质流分析研究述评.生态学报,2007，27(1)：368-379.  \n[8] 王军，周燕，刘金华，岳思羽.物质流分析方法的理论及其应用研究.中国人口·资源与环境，2006，16(4)：60-64.  \n[9] 徐鹤，李君，王絮絮.国外物质流分析研究进展.再生资源与循环经济，2010，3（2)：29-34.  \n[10] vanBeersD,Gdel.SpatialacterisofultieliuseodncociustraliaJalofaeructi,15(8-9):849-861.  \n11]TanikaHsotUboet：ataatealkalysi-lRseach&atio（6)483-502.  \n12]HashiotkaHduKaotiatioftorcal/spatialagsiubsufaceateaatedtsectorofurbanareasinJapan//FukushimaY，BurnettWC，Taniguchi M，Haigh M,UmezawaY,eds.From HeadwaterstotheOcean：Hydrological Change and Watershed Management.Kyoto，Japan:CRC Press，2OO8：591-597.  \n13]dcold spots\"in Norrkoping，Sweden.Journal of Cleaner Production,2013,55：103-111.  \n[14]TanikawaH,anagiS,LwinCMEstiatesofostmateralstockofildingsandoadsdutothgreatEastJapanEartqaeandunai.Journal of Industrial Ecology，2014，18(3）：421-431.  \n[15]WallteB，gussDAdersoSoJocoisfobafrstructure：UsingGSrospincopper stocks.Resources，Conservation and Recycling，2015，103：85-97.  \n[16]TanikaHsnoaKuotKefeedaceprsieotofosrcestock of Japan，1945-2010. Journal of Industrial Ecology，2015，19(5）：778-791.  \n[17]GuoZ,HuD,ZhangFH,HuangGL,XiaoQ.AnintegratedmaterialmetabolismmodelfortocksofurbanroadsystemiBeijing，Cina.  \n[18］曹武星.上海市30 年基础设施中物质代谢的时空变化及其环境效应研究[D]．上海：华东师范大学，2015.  \n[19]ChertowMR.Industrialsymbiosis;LiteratureandtaxonomyAnnualReviewofEnergyandtheEnvironment，o,25：313-37.  \n[20]OECD（OrganzatioforEcoomcCooperatioandDevelopent）ProjectonrenGrowthdEco-ovatioNonateExamlesfRadicaland Systemic”Eco-innovation.（2010-05-31).htp://www.oecd.org/dataoecd/43/48/45169190.pdf.  \n[21]CenXDujtashSujingectfaleelinbodarefwasteosdeolof Industrial Ecology，2012,16(1）：129-141.  \n[22]LayboumP,LombardiDR.Industrialsymbiosis inEuropeanpolicyJournalof IndustrialEcolog，2012,16(1）：11-12.  \n[23]HodgeQuantfotetialustrlsbiosisaseudfbrickanufactuinDasacsets：MasacusesttTechnology， 2007.  \n[24]NobelCE，AllnDUsingGeogapicIfoationSystems（GS）inindustrialwatereusemodelingrocessSfetydviotalProtection，2000，78(4）:295-303.  \n[25]KincaidecashustralosetattroliaeveJoalustralEol(.  \n26]MassdGallsodldspetidteiorIndustrial Ecology Fourth International Conference.Canada：University of Toronto,2007.  \n[27]ugHarkiLarkHonCentifgotetialustrloistohedsouceClatioJournal of the Korean Association of Geographic Information Studies，2010,13(3）：74-90.  \n[28]Hatefipour S.Faciltatioof industrial symbiosisdevelopment inaSwedishregionD].Linkoping:LinkopingUniversity2012.  \n29]JensellEEchiatilitaigriisoalf2012,16(1):38-50.  \n[30]esbitS，tan，AtwaterJWasavantTascadingwater：ombiningGSndssteaalysistaxiizewatereuseaadanJoalfCivil Engineering，2012,39（12）：1321-1327.  \n[31]ZhuB,DvisCBKrevarG.Inforationsyergyofindustrilsbiosis.4.htp://oference24esiosis.eu/pdf/u.pdf.  \n[32] 莫虹频.区域典型物质与能量代谢模拟及优化分析研究[D].北京：清华大学，2011.  \n33]Peddeadidustraladealevelotsihiedateoftolieaudmplvideregarding industrial parks and research parks. Economic Development，1993,7(1）：107-124.  \n[34] 张静，钱瑜.基于GIS 的生态工业园入园企业选址研究.四川环境，2015，34（1)：59-64.  \n[35] 王亚伟，钱瑜.基于GIS 技术的生态工业园规划探索//中国地理学会 2006年学术年会论文摘要集.北京：北京图书馆出版社，,2006.  \n[36] 赵胜豪，钱瑜，王瑾.生态工业园决策支持系统的开发.环境保护科学，2008，34(6)：61-63，66-66.  \n[37] 王若成.生态工业园区地理信息系统的研究与实现.电脑知识与技术，2009，5(12)：3145-3146.  \n[38] 叶瀚中，金贝聪.基于GIS 和V.EIP理论的国家级生态工业数据库系统设计.信息与电脑：理论版，2010，10：94-95.  \n[39] 徐红.遥感与GIS 技术在工业园规划中的应用研究[D].北京：中国地质大学(北京)，2011.  \n[40] 钟凯文，刘旭拢.广东高新技术产业生态地理信息系统研究.测绘科学，2012，37(5)：154-156.  \n[41]KangKHangK,HG,ngJH,KiCJ.dyoeosructiustlakdreigekigchJournal of Korean Society for Geospatial Information System,2011,19(1)：71-78.  \n[42]LyosDtegatigasteaufacuigdustriabosislsofingaufactuigdstereantfiLocal Environment,2005,10(1）：71-86.  \n[43]vanBerkel,FujitashotngYustiadbbisiaalyisfhEoprgralfEnvironmental Management，2009,90(3）：1544-1556.  \n[44]GengYuyoshiF,ChenXD.Evaluatioofiovativemunicipalsldwastemaagementthroughurbansmbiosis：casesudyfKaasaki.Journal of Cleaner Production，2010,18（10-11）：993-1000.  \n［45］耿安朝.地理信息系统在环境科学领域的开发与应用.苏州城建环保学院学报,2000，13（1）：17-22.  \n[46]段智勇，付忠诚，李步年.GIS 技术及其在环境保护领域中的应用.环境与开发,2001,16(1)：30-31.  \n［47］李旭祥.GIS 在环境科学与工程中的应用.北京：电子工业出版社，2003.  \n[48]AsrogCE.ousrleveoofofsreblDcf1stInterntioalConferenceonBrowfieldSites；Assessent，RehabilitationandDevelopentSouthampton：Wress，O：-142.  \n[49]JapinnE,KorpinORantaT.GSandCAMetodsComnedforLowerBiowasteTrasporatonEmissos/ProceingofthethEuropean Biomass Conference and Exhibition.Lyon，France，2O1O：172-175.  \n[50]BlenginiGarbarinEResocsndwasteaagentiTurin（aly）eolefedaegatesinustaableppli.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Journal of Cleaner Production，2010,18（10-11）：1021-1030.[51]EshtigdiouJtalactiosddrllsteuparksusingEFMEA&GIStechques（aseSudyEshtehardIdustialPark).UniversalJoualofManagementandSocialSiences，04,4(2):39-44.[52]SwaroetalifdoeeatestioeIteatioalJoloifCysent，4（）:285-289.[53]GarofaleelidiJteaeoateelorganicarbodeaseGsio/／psofduroassoferecedEbua41440.[54]MastrucciA，PopoviciE，MarvugliaA，deSousaLM，BenettE，LeopoldUS-basedLifeCycleAsessentofurbanbuildingstocksretrofitingaoupframeorkledtuebou／rocdingofethInteatioalCoferecoIfoaticsforviotalProtection（Environfol5）and3rdInternatinalConferenceonICTforSustainabity（ICT4S0l5）.AtlantisPress，0l5：47-56.[5]SyraH,ulisilis.EvtalesioakigsigGndCA/rociofte7tIteatioaleEnvironmental Science and Technology.Ermoupolis，Syros island,Greece,2001：500-508.[56]NansaiK,riguchYuzukiitedepedentlfeceaalysisyheapachItsoeptuseful，ndalcatiotoecalculationofmbodidmpacttestbyasofputoutputalysisEoentalSice&TologO,9（18）：18.[57]Azapgic,etitCicairAlifeeeolfapigtesoflatsaviotnTlEnvironmental Policy，2007,9(3）：199-214.[58] MutelCL，HellwgSRegioaliedlifecleessmntomputatioaletdologandapicatiotoiventorydtabassEnvitalScience & Technology，2009，43（15）：5797-5803.[9NeiaJThe International Journal of Life Cycle Assessment,2O1O,15：67-67.[60]GeyerR,LinderJP,StosDM,DavisW，WitockB.CouplingGSandLCAforiodiversiasessmentsoflandue.eInteatioalJournal of Life Cycle Assessment，2010,15(7）：692-703.[61]GasolCellXglaedelJent：（）del）crop implementation on local scale.Biomass and Bioenergy，2011,35(7）：2975-2985.62]utelCsloaliifetolledgeneration.Environmental Science & Technology，2012,46(2）：1096-1103.[63]Dreseeflalssifelof Life Cycle Assessment，2012，17(9）：1094-1103.[64] CousinsJJ,NewellJP.Apolitical-industrialecologyof watersuply infrastructureforLosAngeles.Geoforum，2015,58：38-50.[65] 刘芳，施进发，陆长德.基于GIS 的产品生命周期评价数据库设计研究.信阳师范学院学报：自然科学版，2010,23（3）：467-469.[66] 刘芳，施进发，陆长德.基于GIS 面向LCA 的产品材料信息管理系统建构.南京航空航天大学学报，2011,43（1)：91-94.[67] LiuKFR,HungMJ,YehPC,KuoJYGS-basedregionalzationofLCA.JoualofGeoscienceandEviroentProtection4,：1-8.[68] 路璐，傅新宇，江东，付晶莹，姜小三.基于GIS-LCA 的能源植物黄连木开发环境潜力评估.地球信息科学学报,2014，（2)：328-334.[69] 田亚峻，邓业林，张岳玲，谢克昌.生命周期评价的发展新方向：基于GIS 的生命周期评价.化工学报，2016,67(6)：2195-2201.",
+        "page_idx": 11
+    }
+]

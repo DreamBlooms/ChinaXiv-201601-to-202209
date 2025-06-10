@@ -1,0 +1,63 @@
+临床研究
+
+# 利妥昔单抗联合调整剂量EPOCH方案治疗胃肠道弥漫大B细胞淋巴瘤
+
+胡蓉华，孙婉玲，赵弘，惠吴函，郭轶先，万岁桂，苏 力首都医科大学宣武医院血液科，北京100053
+
+摘要：通过对4例累及胃肠道的弥漫大B细胞淋巴瘤患者的发病经过、临床与病理特点、预后判断等方面进行综合分析,确定采用利妥昔单抗联合调整剂量的EPOCH(R-DA-EPOCH)治疗方案,对患者化疗后的治疗反应和转归情况进行了评价随访。除1例合并糖尿病、高血压多年的患者因出现严重感染死亡外，其他3例患者均获得完全缓解。将R-DA-EPOCH方案用于胃肠道弥漫大B细胞淋巴瘤的一线治疗,具有较好的近期疗效,需要扩大样本量来判断其远期疗效。
+
+关键词：胃肠道；淋巴瘤；弥漫大B细胞型;R-DA-EPOCH
+
+# Rituximab combined with EPOCH regimen for treatment of diffuse large B cell lymphoma of the gastrointestinal tract: analysis of 4 cases
+
+HU Ronghua,SUNWanling,ZHAO Hong,HUI Wuhan,GUO Yixian,WAN Suigui,SU Li DepartmentofHematology,XuanwuHospital,CapitalMedical University,Beijingooo53,China
+
+Abstract: We treated4witha diagnosisof diffuse large Bcellymphoma involving the gastrointestinal tract withrituximab combined withadjusted dose EPOCH(R-DA-EPOCH)scheme basedonacomprehensive analysis of the onset proces, clinical and pathologicaleatures,andprognosisof thepatients,andevaluatedtheirtreatmentresponse.Completeremisson(CR)was achieved in3 patientsafter thetreatmentand1 patient with diabetesand hypertensiondieddue to severe infection. R-DA-EPOCH regimen asthefirst-line treatmentof gastrointestinal difuse largeBcellymphoma hasa goodshort-term efficacy, but its long-term eficacy awaits further evaluation in future studies with larger sample sizes.
+
+Keywords: gastrointestinaltract; diffuselargeBcelymphoma;rituximabcombinedwithadjusteddoseEPOCHscheme
+
+弥漫性大B细胞淋巴瘤(DLBCL)是目前成人最常见的非霍奇金淋巴瘤，大多原发于淋巴结内，约 $4 0 \%$ 见于淋巴结外。胃肠道作为最常见的结外受累部位，约占结外淋巴瘤发病总数的 $30 \% { \sim } 4 5 \%$ 。胃肠道淋巴瘤并发症较多，严重时可能伴随消化道出血、穿孔、梗阻及肠套叠等，给治疗方案选取带来诸多困难，因此临床上治疗该类型淋巴瘤的方案尚未取得广泛共识，常用的有R-CHOP、R-COP等方案。目前，国内外已有数个文献报道R-DA-EPOCH方案作为难治复发淋巴瘤的一线治疗方案[1-3]。而对于累及胃肠道的恶性淋巴瘤的治疗尚无大宗病例的报道，我科针对4例累及胃肠道的DLBCL患者进行综合分析后，采用R-DA-EPOCH方案进行了系统治疗，除1例因个体原因外，其余3例均取得良好效果，并且在积极的预防、密切的观察下，克服了激素对胃肠道可能引起的大出血发生，对将R-DA-EPOCH方案应用于难治复发淋巴瘤进行了有益探索。
+
+# 1资料和方法
+
+# 1.1R-DA-EPOCH方案介绍
+
+依照文献[4-6],根据临床中药品的使用情况，我们采用的R-DA-EPOCH方案有所调整，具体为：R(rituximab,美罗华)-DA(dose adjustment)-EPOCH方案(第1\~4天，依托泊苷每天 $5 0 \mathrm { m g / m ^ { 2 } }$ ；第1\~4天，表阿霉素每天 $1 5 ~ \mathrm { m g / m ^ { 2 } }$ ;第1\~4天，长春地辛 $1 \mathrm { m g }$ ；前3个药物连续 $9 6 \mathrm { ~ h ~ }$ 维持静滴;第5天,环磷酰胺每天 $7 5 0 ~ \mathrm { m g / m ^ { 2 } }$ 第1\~5天强的松 $6 0 ~ \mathrm { m g } / \mathrm { m } ^ { 2 } , 2$ 次/d,口服，（如患者处于禁食中，调整口服激素为地塞米松 $1 0 { \sim } 2 0 ~ \mathrm { m g }$ ,静脉注射）;粒细胞刺激因子(G-CSF)从第6天开始皮下注射，$1 5 0 ~ \mu \mathrm { g } , 1 2 \mathrm { ~ h ~ } 1$ 次；每次化疗方案的剂量将有所调整，主要根据上个疗程化疗后骨髓抑制程度：如粒细胞缺乏持续1周以上，或血小板下降小于 $2 5 \times 1 0 ^ { 9 } / \mathrm { L }$ ，其中表阿霉素、依托泊苷、及环磷酰胺的量将减少 $20 \%$ 的剂量。
+
+# 1.2 临床资料
+
+病例1：男，76岁，主因"间断黑便伴上腹痛3个月，加重10d”入我院消化科。既往高血压病史；入院血常规回报 ${ \mathrm { H b } } 6 2 { \mathrm { ~ g / L } }$ ,初步诊断消化道出血、不全肠梗阻；急行电子肠镜检查：回盲部见不规则深溃疡，表面糜烂，污秽；病理结果回报：黏膜下及固有层可见弥漫性异型淋巴样细胞浸润，免疫组化 $\mathrm { C D } 2 0 ( + )$ （204 $\mathrm { C D 7 9 a ( + ) }$ ,MUM-1$( + ) \mathrm { K i } 6 7 { > } 8 0 \%$ 新 $\mathrm { P A X } 5 ( + )$ ：符合弥漫大B细胞淋巴瘤(源于生发中心外活化B细胞)。结合影像学表现,明确诊断为弥漫大B细胞型非霍奇金淋巴瘤Ⅲ期B，国际淋巴瘤预后指数(IPI)评分：大于60岁(1分)；Ⅲ期(1分），结外侵犯部位数为1个(0分)，体能分级2级(1分)乳酸脱氢酶LDH不正常(1分)。故IPI评分为4分，预后分级为高危。按照《中国弥漫大B细胞淋巴瘤诊断与治疗指南》,给予R-CHOP方案化疗两个疗程,但患者肠梗阻的症状减轻不明显，且很快加重，评估病情为未缓解。故在第3个疗程采用了针对难治复发淋巴瘤的二线化疗方案-R-DA-EPOCH方案，该患者经过两个疗程该方案后，评估病情达到部分缓解;化疗后中性粒细胞曾低至粒细胞缺乏状态，并出现了肺部的真菌感染，故第3个和第4个R-EPOCH疗程中剂量均经过调整。在第4个R-EPOCH化疗后第10天，患者在一般情况明显见好的情况下，突然出现腹胀伴腹痛，行腹平片及腹盆CT后发现膈下游离气体，明确为消化道穿孔，腹膜炎；在家属拒绝行外科手术的前提下，予积极的内科对症支持治疗，包括禁食，吸氧，心电监护，胃肠减压，及抗感染治疗约1个月，患者一般情况明显好转,生活自理,复查PET/CT获得了完全缓解的疗效，已随访观察18个月，仍呈完全缓解状态。
+
+病例2：男，62岁，“间断咳嗽伴乏力力半年，左中上腹痛2月”入院。既往高血压10余年，糖尿病8年；左侧锁骨上淋巴结活检病理及免疫组化回报： ${ \mathrm { C D } } 2 0 +$ ，$\mathrm { C D 7 9 a + }$ ， $\mathbf { M U M l + }$ ,bcl-2(+),bcl- $\cdot 6 ( + )$ ， $\mathrm { K i } 6 7 { > } 9 0 \%$ ,符合弥漫大B细胞淋巴瘤(非生发中心B细胞来源),结合PET/CT结果：腹腔内肠管多发葡萄糖代谢异常增高病变，左锁骨上、左腋下、两肺门内及纵隔内、腹腔、肠系膜根部、肠系膜、腹膜后、腹主动脉旁，异常增多淋巴结，部分相互融合成团，累及右侧腰大肌、左侧聂骨；双侧多根肋骨、肩肿骨、骨、耻骨及股骨上端、多个颈椎、胸椎、腰椎、骶椎多发糖代谢异常增高病变。分期为V期B;且行染色体荧光原位杂交(FISH)除外了Double-hit亚型。IPI评分为4分，具体为：大于60岁(1分);V期(1分），结外侵犯部位数为大于2处(1分），体能分级4级（卧床不起1分)LDH升高733U/L(1分），预后分级为高危。考虑患者相对年纪不大，病程短，病情重，Ki67指数明显升高，IPI积分达到高危，入院后给予R-DA-EPOCH化疗。第1个疗程化疗过程中患者先后出现了血清淀粉酶697U/L(0\~22U/L）、脂肪酶 $7 2 9 . 3 ~ \mathrm { U / L }$ $( 5 . 6 { \sim } 5 5 ~ \mathrm { U / L } )$ 明显升高，以及消化道出血表现。经禁食，静脉高营养、积极的对症支持治疗后，一般情况好转，腹痛消失，但仍不能下地活动，且体质量下降明显;
+
+考虑上述表现与胰腺、胃肠道中肿瘤组织溶解有关，继续给予第2个疗程化疗，根据粒细胞缺乏时间，将依托泊苷、表阿霉素、环磷酰胺剂量减少 $20 \%$ ，化疗过程顺利，体能明显好转，可下地活动。后相继给予第3及第4次该方案化疗，患者一般情况逐渐好转，体质量逐渐增加，复查PET/CT提示原有的葡萄糖高代谢灶消失，呈完全缓解。后又给予两个疗程巩固化疗，目前患者一般情况好，体能状态恢复正常，目前已停化疗12个月，定期复查3次，均为完全缓解。
+
+病例3：女，76岁，主因“腹痛腹胀10余天，加重1d”由急诊入院。既往高血压病史10年，糖尿病病史20年，慢性阻塞性肺病10余年,肺栓塞病史2月余。查体后行腹平片，显示肠管多个宽大气液平，提示肠梗阻。行右半结肠切除术 $^ +$ 剖腹探查术，术中发现回盲瓣上方$2 . 5 \mathrm { c m }$ 处可见一肿物，大小 $9 \mathrm { c m } { \times } 5 . 9 \mathrm { c m } { \times } 3 . 5 \mathrm { c m } _ { \odot }$ ，术后病理及免疫组化提示： $\mathrm { C D } 2 0 +$ ， $\mathrm { C D 7 9 a + }$ ， $\mathbf { M U M l + }$ $\mathrm { K i } 6 7 { > } 9 5 \%$ ，诊断为弥漫大B细胞淋巴瘤。行PET-CT扫描，纵隔上下多发淋巴结肿大，无结外器官浸润，患者无发热，无盗汗及体质量减轻;明确为Ⅲ期A。结合患者发病时年龄(1分)，LDH631U/L(1分），活动指数（1分)，分期为Ⅲ期(1分)，结外侵犯部位(0分)等指标，评分为4分，高危预后。考虑到肿瘤负荷大，入院后予减低剂量的COP方案化疗；后予3个疗程R-CHOP方案规律化疗，评估疗效为疾病进展。后调整为R-DA-EPOCH方案化疗，化疗后骨髓抑制明显，粒细胞缺乏时间超过1周。在行第2个R-DA-EPOCH后，再次出现粒细胞缺乏，并再次持续超过1周，患者出现严重的肺部感染、感染性休克，死亡。
+
+病例4：女性，63岁，主因"间断腹部不适半年，呕血1d”入我院消化科，行急诊胃镜显示胃大弯处大片溃疡，表面污秽溃烂。病理结果及免疫组化结果回报：ALK-SP8(-),Bcl-6(+), $\mathrm { C D 1 0 ( + ) }$ ,CD15(-), $\mathrm { C D } 2 0 ( + )$ CD3(-)，NK-1(-)，MPO(-)，MU- $1 ( + )$ ， $\mathrm { K i - } 6 7 ( 9 0 \% )$ .符合非霍奇金淋巴瘤(弥漫大B细胞淋巴瘤，生发中心型)。该患者既往咽部弥漫大B细胞淋巴瘤10年，已行R-CHOP方案化疗6个疗程，多次复查呈完全缓解。本次病理结果与10年前完全相同，考虑为原有肿瘤转移复发可能,但病变局限于胃粘膜。结合患者IPI评分为4分，高危预后，遂给予二线治疗方案R-DA-EPOCH化疗，并严密根据粒细胞缺乏持续时间调整化疗药物剂量，化疗过程顺利，未出现消化道出血及穿孔等并发症。已经随访42个月，患者一般情况好，仍处于完全缓解中。
+
+# 2讨论
+
+胃肠道DLBCL是最常见结外受累的非霍奇金淋巴瘤，临床症状不具有特异性，主要为腹痛、腹部肿块，也可有呕吐、呕血、腹泻、血便、发热、贫血、消瘦、肝脾肿大等。本文提到的四例患者均首次就诊于消化内科或普外科，经病理检查明确诊断为淋巴瘤后才转入我科继续治疗。 $1 3 \% { \sim } 2 5 \%$ 的胃肠道淋巴瘤可出现急性或慢性肠梗阻、穿孔等并发症。Mayo中心1975-2012年间GI受累淋巴瘤穿孔并发症的数据显示，有 $1 3 . 2 \%$ 的DLBCL伴发消化道穿孔9。肠道DLBCL较胃DLBCL少见[0,预后更差]。故胃肠道淋巴瘤的一线治疗上还存在争议：临床中考虑到糖皮质激素可能引起胃肠应激性溃疡，出血加重等风险，预治疗时往往并不加用激素。本文的4位患者年纪都比较大，两例大于70岁，两例大于60岁，均伴有不同程度的全身性疾病，如高血压，糖尿病；在初始治疗中都采用了含有激素的方案，激素的应用的确引起了各自血糖、血压的波动，但是在严密监控及调整下，避免了严重并发症的发生，即使在例4中，临床中表现为胃溃疡出血的淋巴瘤，经质子泵抑制剂的保驾护航下应用糖皮质激素中也未再出现消化道出血。虽然例2患者出现了消化道大出血，但考虑与化疗后肿瘤细胞溶解有关，在积极的支持治疗下病情得到控制。
+
+根据2014年美国国立综合癌症网络(NCCN)非霍奇金淋巴瘤临床实践指南，结合临床病理学，确诊DLBCL所需的免疫表型有CD20、CD3、CD5、CD10、CD45、BCL2、BCL6、Ki67、MUM-1;典型的免疫组化表达为 $\mathrm { C D 2 0 ( + ) } \mathrm { \cdot } \mathrm { C D 4 5 ( + ) } \mathrm { \cdot } \mathrm { C D 3 ( - ) }$ 。该四例患者均符合确诊典型DLBCL的条件，且IPI评分均达到了高危预后。根据2013年中国弥漫大B细胞淋巴瘤诊断与治疗指南中说，目前对于高危的DLBCL推荐的一线治疗方案有(1)年轻高危( $\mathrm { I P I } { \geqslant } 2$ 分)者目前尚无标准方案，推荐在R-CHOP的基础上增加药物或给药密度以提高疗效;(2)老年患者(年龄 ${ \mathrm { > } } 6 0$ 岁)行 $8 ~ \mathrm { R } { + } 6 ~ \mathrm { C H O P }$ 。指南中虽然未明确将R-DA-EPOCH方案放于一线治疗中，但研究资料表明，依托泊甙、长春新碱、多柔比星等药物的抗肿瘤效应具有时间依赖性,小剂量长时间接触对肿瘤细胞的杀伤力要比一次性大剂量冲击作用更为明显,并且可以克服部分肿瘤耐药性的问题[12];而化疗前使用美罗华可以进一步加强诱导表达CD20的淋巴瘤细胞凋亡的作用，从而提高化疗疗效[13]。随后，Wilson等[14根据此理论设计了剂量调整的EPOCH方案(DA-EPOCH)，在1993年首次将EPOCH持续滴注方案用于复发难治NHL患者取得了良好的疗效和耐受性，并于2002年报道了此方案治疗50例初治大B细胞淋巴瘤的结果：CR率达 $9 2 \%$ ，中位随访62个月，总生存率和无事件生存率分别为 $7 3 \%$ 和 $7 0 \% ^ { \left[ 5 \right] }$ ;我国学者也多次将EPOCH方案用于难治复发的高度恶性淋巴瘤,并取得了满意效果[1-2]。国内也有报道用美罗华联合EPOCH方案治疗初发弥漫大B细胞淋巴瘤，完全缓解率达 $7 1 . 8 \%$ ，总有效率为$8 7 . 2 \%$ ,1年、3年、5年的总生存率分别为 $8 1 . 8 \% . 7 0 . 9 \%$ 、$5 8 . 8 \%$ ;化疗期间的主要不良反应为血液学毒副反应，其中ⅢI\~IV度粒细胞减少发生率为 $2 9 . 2 \% ^ { [ 1 5 ] }$ ,而对于累及胃肠道的恶性淋巴瘤的治疗数据尚无独立的大宗病例的报道。
+
+在本文中的例1和例3患者在应用R-CHOP方案的过程中，疾病进展或未缓解，换用R-DA-EPOCH方案后其中例1达到了完全缓解，例3在治疗第二个疗程中胃肠道症状也有明显好转；例4由于为远期远处转移复发老年患者，故首选了R-DA-EPOCH方案6个疗程，早期达到了完全缓解，并获得了3.5年无病生存。所以对于高危的老年患者，为了避免病程拉长而延误治疗时机,我们认为可以将二线方案R-DA-EPOCH用于一线治疗中。由于例3患者既往存在糖尿病、COPD等多种疾病，化疗后粒细胞缺乏，肺部感染不易控制，最终死亡。虽然由于EPOCH治疗方案导致骨髓抑制伴感染是较为常见的不良反应,但是只要根据上一疗程化疗后骨髓抑制的程度，及时调整下一个疗程中化疗药物的用量，那么该方案是安全有效的治疗手段。但同时也提醒我们，对于存在多种合并症的高危老年患者，应用R-DA-EPOCH方案更应密切注意剂量的调整，必要时调整幅度可适当放宽，避免出现粒细胞缺乏时间过长，做到剂量个体化。鉴于累及胃肠道淋巴瘤的病例数少，且缺乏长期随访结果，而文献报道的类似病例数也较少，缺乏大规模回顾性研究及随机对照临床试验结果，故伴随胃肠道侵犯的DLBCL患者的标准治疗方案仍待进一步探索。我科近期将R-DA-EPOCH方案应用于高危DLBCL的一线治疗中，同时年轻的患者在化疗达到完全缓解情况下，应该联合自体造血干细胞移植，以进一步改善预后。
+
+# 参考文献：
+
+[1］罗盛,沈志坚,钱红兰，等.EPOCH方案治疗复发或难治性侵袭性非 霍奇金淋巴瘤的的近期疗效[J].浙江临床医学,2007,9(11):1527-8.   
+[2］李 岭.EPOCH方案治疗复发及耐药中高度恶性非霍奇金淋巴瘤20 例[J].白血病·淋巴瘤,2009,18(3):173-4.   
+[3]谢 颖,陈碧云，廖丽昇,等.利妥昔单抗联合调整剂量EPOCH方案治 疗老年中高危B细胞非霍奇金淋巴瘤临床分析[J].福建医药杂志, 2014,36(6): 92-5.   
+[4]Purroy N,Bergua J,Gallur L,et al.Long-term follow-up of dose-adjusted EPOCH plus rituximab (DA-EPOCH-R) in untreated patients with poor prognosis large B-cell lymphoma.A phase II study conducted by the Spanish PETHEMA Group[J].Br J Haematol,2015,169(2): 188-98.   
+[5]Wyndham H,Wilson,Michael L,et al.Dose-adjusted EPOCH chemotherapy for untreated large B-cell lymphomas:a pharmacodynamic approach with high efficacy[J].Blood,20o2,99(8): 2685-93.   
+[6]Wilson WH, Jung SH,Porcu P, et al.A cancer and leukemia group B multi-center study of DA-EPOCH-rituximab in untreated diffuse large b-cell lymphoma with analysis of outcome by molecular subtype[J].Haematologica,2012,97(5): 758-65.   
+[7]Sun J, Yang Q,Lu Z,et al. Distribution of lymphoid neoplasms in China:analysis of 4,638 cases according to the World Health Organization classification[J].Am J Clin Pathol,2012,138(3): 429-34.   
+[8]Liang R,Todd D,Chan TK,et al. Prognostic factors for primary gastrointestinal lymphoma[J].Hematol Oncol,1995,13(3):153-63.   
+[9]Vaidya R,Habermann TM,Donohue JH,et al.Bowel perforation in intestinal lymphoma: incidence and clinical features[J].Ann Oncol, 2013,24(9):2439-43.   
+[10]Howell JM,Auer-Grzesiak I,Zhang J,et al. Increasing incidence rates，distribution and histological characteristicsof primary gastrointestinal non-Hodgkin lymphoma in a North American population[J].Can JGastroenterol,2012,26(7): 452-6.   
+[11]宋立娜,岑溪南，欧晋平,等.85例原发胃肠道弥漫大B细胞淋巴瘤患 者长期随访结果及预后分析[J].中华血液学杂志,2014,35(10): 909-13.   
+[12]Lai GM,Chen YN,Mickley LA,et al.P-glycoprotein expression and schedule dependence of adriamycin cytotoxicity in human colon carcinoma cell lines|J].IntJ Cancer,1991,49(5):696-703.   
+[13]Jermann M,Jost LM,Taverna Ch,et al.Rituximab-EPOCH,an effective salvage therapy for relapsed,refractory or transformed B-cell lymphomas: results of a phase II study[J].Ann Oncol,2004, 15(3): 511-6.   
+[14] Wilson WH,Bryant G,Bates S,et al.EPOCH chemotherapy: toxicity and efficacy in relapsed and refractory non-Hodgkin's lymphoma[J].J Clin Oncol,1993,11(8): 1573-82.   
+[15]杨小燕,翟勇平，刘海宁,等.(R)-EPOCH方案治疗39例初发弥漫大B 细胞淋巴瘤的长期随访研究[J].中国实验血液学杂志,2014,22(2): 333-8. (编辑：孙昌朋)

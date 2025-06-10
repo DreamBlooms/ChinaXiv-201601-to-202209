@@ -1,0 +1,257 @@
+1 社会经济地位对大脑结构与功能的影响
+
+吕子旸1，彭凯平1，胡传鹏2.3
+
+(1清华大学心理学系，北京100084;
+
+2 Neuroimaging Center (NIC),Focus Program Translational Neuroscience (FTN), Johannes Gutenberg University Medical Center, 55131 Mainz,Germany
+
+3 Deutsches Resilienz Zentrum (DRZ), Johannes Gutenberg University Medical Center, 55131 Mainz,
+
+Germany)
+
+# 摘要
+
+社会经济地位（socioeconomic status,SES）与大脑结构和功能的关系对于理解社会经济因素对心理行为的影响以及预防大脑/心理疾病具有重要意义。在过去十多年中，研究者使用认知神经科学的方法对SES 与大脑的关系进行了探索，发现 SES 指标与大脑结构和功能相关，但不同研究的结论是否一致仍然不明确。本文从大脑结构与功能两个层次，按照认知与情绪两大主题对 SES与大脑关系的认知神经科学研究进行回顾，在此基础上对比了不同研究结果的异同之处。结果发现，（1）结构上，SES 水平与负责记忆与执行功能的海马体和前额叶以及参与情绪加工的边缘系统可能存在相关；（2）功能上，不同 SES 水平的个体在与执行功能、学习和记忆相关脑区的活动时大脑活动模式可能存在差异，情绪和奖赏所引发的大脑活动在不同 SES 水平的个体上也可能有所差异。值得注意的是，由于SES 的复杂性、大脑发育的动态性、SES对大脑影响的多层次性以及方法上的严谨性等挑战，无法从目前研究中得到稳定的结论。据此，本文进一步指出，未来研究不仅需要应对上述的挑战，而且还需要考虑文化差异的影响，从而能够更准确地理解 SES与大脑的关系并为社会政策提供指导。
+
+关键词：社会经济地位；大脑结构；大脑功能；认知；情绪
+
+作为社会的人，个体的心理、行为和精神健康，不仅受到生物学因素的影响，也受到社会因素的影响[1]。社会经济地位（socioeconomic status,SES）作为个体或群体在社会中根据其所拥有的物质和非物质社会资源而决定的社会位置的反映[2]，对个体以及社会有着重要的影响[3-8]。大脑作为人类心理与行为的基础，是包括社会经济因素的外界环境对个体的心理与行为产生影响的生物学基础。例如，精神疾病很大程度上是大脑功能的失调]。因此，理解 SES 与大脑的关系，不仅对于科学探索有重要意义，对于个体与社会的发展也具有重要的现实指导意义。近十年来，研究者们采用认知神经科学的方法，对SES 与大脑结构/功能的关系进行了许多探索性的工作。这些研究成果已经开始在国家政策制定中起到指导作用[10]。
+
+但值得注意的是，关于 SES 水平与大脑结构/功能关系的研究结果之间是否一致，以及这些研究结论如何为社会实践提供指导[1]，都仍然需要进行仔细检验。考虑到 SES 本身是一个复杂的社会现象，其测量存在诸多的争议[12]，而认知神经科学界近年来也开始对过去的研究进行反思和评估[13]，因此对 SES 与大脑结构/功能关系的研究进行回顾与评估十分有必要。本文从大脑结构与功能两个层次上，按照认知与情绪两大主题对 SES 与大脑关系的认知神经科学研究进行回顾，在此基础上对比了不同研究结果的异同之处。
+
+# 1社会经济地位与大脑结构
+
+基于体素的形态学测量（voxel-based morphometry,VBM）能够提供关于大脑结构方面的数据例如大脑灰质体积（gray matter volume）、皮层的表面积（surface area）和皮层厚度（corticalthickness）。不少研究者借此技术测量个体在大脑结构上的差异，并与个体的人格特点[14、行为表现[14,5]以及精神疾病[1进行相关分析，以期找到人类行为的生物标记（biomarker）。VBM技术也被用来探索了 SES与脑结构之间的关系，这些研究分析了SES 指标与大脑整体结构或者某些参与特定功能脑区结构之间的相关，发现不同 SES 的个体在脑结构上可能有差异[17.18]。这些关于 SES 水平与特定脑区结构之间关系的研究，可以归纳为认知与情绪两大主要的功能系统。
+
+# 1.1SES与认知相关大脑的结构
+
+在主要参与认知加工的大脑结构中，研究者较多地报告了海马（Hippocampus）和额叶皮层(prefrontal cortex，PFC)可能与 SES 存在相关。海马在人类的记忆中起到重要的作用[19]，且容易受到压力的影响[20]。低 SES 的个体更可能需要处理更多压力，因此，海马是 SES 与大脑关系中关键的脑区之一。在儿童[21-24]和成人[25-27]中，均有观察到童年期的家庭经济收入状况（少量研究采用多项社会经济指标综合衡量）与海马体体积的正向相关关系。这些研究似乎表明 SES水平越低，海马的灰质体积越小。但是这一结论也不乏争议：另一些研究者并未发现这种相关性[23,28-30]。例如， $\mathrm { Y u }$ 等人[23]发现，使用主观社会经济地位、家庭收入、父母教育、收入需求比四个指标作为 SES 测量时，SES与在8岁至12 岁样本群体的海马体积有负相关，但这种相关性在18到25岁之间的被试群体上消失。最近一项关于儿童期逆境（包括贫困、虐待和忽视等）与海马结构关系的元分析表明，儿童期逆境与海马体积之间存在较小的负相关[31]，但值得注意的是儿童期逆境与低 SES水平并非完全对应。
+
+前额叶是另一个主要负责认知加工的脑区，参与了许多人类的高级认知活动，包括冲突解决[32]、道德判断[3.34]、自我信息加工[35]等。有研究报告了两者的相关性，例如，Holz 等人以前额叶前部的眶额叶皮层（orbital frontal cortex，OFC）为感兴趣区（region of interest），计算了家庭收入与前额叶体积之间的相关，发现收入与前额叶体积之间存在相关[36]。相似的是，Krishnadas 等人以额下回(inferior frontal gyrus，IFG）为感兴趣区，使用本人的收入、教育和职业为 SES指标，发现 SES 与右侧前额叶的厚度[37]的正相关关系。Raizada et al.[38]使用以婚姻状况、工作状态、教育和职业声望来衡量SES，则在仅发现左侧前额叶与 SES水平有边缘显著的正相关。Kong 等人[39发现，在年轻成人样本中，母亲的教育与中前额叶的灰质体积相关。同时，也有研究未发现 SES 与前额叶的相关，包括对眶额叶皮层体积[40]、左侧额下回[41]与 SES 的相关分析中，均有阴性结果报告。因此，虽然有研究报告SES与前额叶结构之间存在相关，但这种关系却并未得到一致的支持。
+
+# 1.2SES与情绪相关大脑的结构
+
+负责情绪加工的脑区则主要是大脑边缘系统（limbic system），包括杏仁核（amygdala）和前扣带回（anterior cingulate cortex，ACC）等结构。从目前的研究来看，SES水平可能与这些脑区的结构存在相关。对1099个儿童的大脑结果进行分析的结果表明脑岛（insula）、颞极（temporal pole）、前扣带回和后扣带回（posterior cingulate）等皮层区域与父母收入相关[42]。杏仁核的结果则更加复杂，有两项以成年人和儿童为被试的研究中分别报告了杏仁核体积与收入、教育、职业等指标综合和收入需求比存在正相关[25.43]。但也有两项以青少年儿童为被试的研究未发现杏仁核体积与收入和父母受教育程度的相关性[24.30]。这些研究的结果却无法直接进行比较，因为它们所用的 SES 的测量指标均不完全一致。关于儿童期逆境与杏仁核关系的元分析未发现儿童期逆境与杏仁核体积之间的相关[31I，这可能也为两者之间无相关提供了部分支持。
+
+除了针对特定脑区的研究外，还有研究者分析了成年人大脑整体体积与SES之间的关系，发现皮层体积、表面积和皮层厚度可能与收入、教育和职业成正相关[44]。在青少年中家庭收入与皮层体积和皮层厚度的相关性也存在，但与表面积不相关[45]。而白质体积和完整性与儿童与青少年的家庭收入与父母受教育程度[46]、中年人的收入、教育和社区 SES[47]、老年人的职业和本人受教育程度[48]相关。
+
+从以上结果来看，虽然有不少研究探索 SES与大脑结构之间的关系，但是这些结果之间缺乏一致性和系统性。在方法上，测量大脑结构的指标不一致，皮质表面面积、皮质厚度或体积作等多种指标被用于与 SES 进行相关分析，而SES 测量的指标本身也是多种多样。这些指标本身代表了不同生理意义，因此难以对不同研究之间的差异进行解释。同时，研究者过度依赖感兴趣区分析，但是感兴趣区的定义却差异较大：有的研究使用沟和回来定义，有的使用 Brodman分区，还有使用“背侧”、“内侧"或整个额叶作为一个感兴趣区。这种一致性的缺乏，可能会带来假阳性结果[14]。
+
+# 2社会经济地位与大脑功能的关系
+
+除了寻找 SES 的大脑生物标记之外，研究者也试图理解不同 SES 水平与大脑活动的关系。利用事件相关电位（event related potential,ERP）和功能性核磁共振成像（functional magnetic resonance
+
+imaging,fMRI）等无损神经成像技术，研究者发现，SES 可能与执行功能、记忆能力和学习技能等认知任务存在相关，也可能与情绪加工有影响。
+
+# 2.1SES与执行功能的关系
+
+执行功能（executive function）指的是个体需要集中注意力去关注某物时需要的一系列自上而下的心理过程，主要包含抑制控制、工作记忆和认知灵活性三种能力[49.50]。目前的研究表明，执行功能的神经基础可能主要是执行控制网络（executive network），包括背外侧前额叶皮层和后顶叶皮层等[51]。对不同家庭收入、收入需求比、教育、职业和主观社会经济地位背景儿童的ERP研究发现，虽然参与者在执行功能任务中的行为表现没有显著区别，但是在前额区域的脑电活动上却存在显著的差异[52.53]。低 SES 参与者在抑制控制任务中，前额叶活动更强。功能性核磁共振成像的研究也发现了类似的结果[54]。例如，Sheridan etal.[5]发现家庭收入、父母受教育程度和父母主观社会经济地位高的儿童进行执行控制任务时在中额叶脑回、下额叶脑回和前扣带皮层等脑区的活动强度较低，但在右侧额叶沟活动强度更高。以上结果可能说明，不同 SES 的儿童虽然在任务上的表现相似，但是脑机制上可能有区别。对工作记忆的研究也发现了类似的模式。例如，Sheridan etal.[55]发现家庭收入、父母受教育程度和父母主观社会经济地位在工作记忆负荷与大脑活动强度的关系中有显著的调节作用:当工作记忆负荷较大时，SES较高的儿童的前额叶和顶叶区域活动强度比 SES 较低的儿童更高；而在工作记忆要求最低的情境下，低 SES 的儿童在上述脑区活动强度比高 SES 更高。即高 SES 的儿童在工作记忆负荷增加时，前额叶和顶叶的活动强度增加地更多。Fimn et al.[56]的研究中，使用家庭收入作为 SES 的指标，也支持该结论。因此，可以猜测 SES不同的儿童在完成工作记忆任务时可能存在大脑机制的差异。
+
+# 2.2SES与学习和记忆的关系
+
+除了执行功能外，也有大量研究探索了SES 对学习与记忆的影响。关于SES 对学习的影响，过往的研究主要集中在对儿童数学和语言等学习技能的影响上。Finnetal.[5发现数学成绩可以由工作记忆能力预测，同时发现家庭 SES（以收入需求比为指标）在两者的关系中起调节作用：顶叶皮层中工作记忆相关区域的大脑活动与所有儿童的数学成绩均正相关，但前额叶皮层的活动只与 SES较高的儿童的数学成绩正相关。Demir etal.[57]发现父母受教育程度不同的儿童处理减法任务时涉及的神经系统有所不同：在父母受教育程度高的儿童中，数学能力与左中颞回等区域更相关，这些区域与语言有关；而在父母受教育程度较低的儿童中，数学能力与空间处理相关的右内子沟等区域更密切相关。另一项研究发现，父母受教育程度和职业地位高的学生中，数学能力提升与左额下回等语言区域的活动增加更相关，而对于较低的学生，右顶叶等空间处理相关的区域与数学能力提升相关性更高[58]。这些研究显示 SES可能影响到儿童参与数学学习的大脑活动区域，但是具体的机制仍然需要进一步的研究
+
+除了数学能力之外，SES 还会影响读写能力和相关语言技能相关的大脑活动[58.59]。例如，在语音的加工上，不同 SES儿童神经专业化不同[38.60]。Noble et al.[60]在一项fMRI研究中以家庭收入需求比、父母教育和职业地位为综合的 SES 指标，扫描了大 SES 范围的儿童，扫描期间被试进行匹配视觉呈现的能发音的实际不存在的单词的任务，发现在低 SES 和高 SES 的儿童之间语音技能没有区别，但SES 较低的儿童的语音技能更能预测左侧梭状语言区的激活程度，在SES较高的儿童中该能力与该脑
+
+1 区的相关程度降低。这可能是由于高 SES儿童拥有更多读写能力相关的知识和能力，他们更多依靠这  
+2 些能力来完成任务，而不是通过语音处理来帮助字母串编码。其他研究还发现父母受教育程度调节音素  
+3 识别能力和左前半脑区的激活程度之间的关系[61l。但也有研究发现SES与某些与语言相关的能力无  
+4 关。例如，Monzalvo et al.62]对儿童的fMRI研究发现，在印刷文字或口语中被动语态的认知上，父母  
+5 教育水平和社区SES背景的儿童间并未发现差异。  
+6 SES 对记忆神经机制的影响尚未形成一致的结论。受教育程度和职业地位更高的老年人对新近  
+7 记忆的判断（与前额叶皮层有关）更准确，ERP的研究也证实他们的额叶活动强度更高[63]。但以成年  
+8 人为被试的研究发现童年时期贫穷（以儿童期家庭的收入需求比来衡量）对于他们在图片记忆任务中的  
+9 再认表现并没有影响，在再认过程中童年时期贫穷对海马体活动有边缘显著影响[64]。这种影响在控制成  
+10 年后 SES 共变之后，变得更加显著：那些在儿童时期没有经历过贫穷的人表现出了识别准确性和海马区的激活程度之间的正相关关系，而那些儿童时期经历过贫穷的人则表现出负相关关系。另一项对儿童的研究发现，在配对连接记忆任务过程中海马体的激活程度与母亲的主观社会地位有关，而与任务表现、母亲教育和收入需求比不相关[65]。总的来说，关于SES 影响记忆的神经机制目前还并不是非常明确，可能受到发展阶段的影响。
+
+# 2.3SES与情绪的关系
+
+情绪也是 SES 对大脑功能影响的一个重要方面，低 SES 的个体可能对消极情绪更加敏感。例如，给主观社会经济地位低的青少年[6.67]和成长于低收入需求比家庭的成人[68]群体呈现威胁或恐惧的面孔时，他们的杏仁核相比高 SES群体有着更强的反应[69]，内侧前额叶皮层也反应更强[67.68]。在收入需求比低的母亲中，内侧额叶对哭泣声音的反应更强[70]，杏仁核对婴儿的消极表情的反应也更强，而对婴儿积极表情的反应则被抑制了[71]。
+
+在情绪信息的加工中，不同脑区之间的功能连接也受到 SES 的调节。主观社会经济地位和父母受教育程度较低的人皮层和皮层下区域之间的连接较少[68,72]。先前的研究表明，前额叶在情绪调节中有重要的作用，能够降低杏仁核的活动。但是，这一效应在不同 SES 群体中的表现有所差异：童年期家庭收入较低的人的前额叶对通过认知重评建立的情绪规则激活程度更低，以及杏仁核的激活降低程度更低[73]。在对家庭收入低的儿童的静息态fMRI的研究中发现，杏仁核和海马体与包括右上额叶皮层在内的一系列皮层区域的功能连接较低[74]，且童年期家庭收入低的被试的默认模式网络(default modenetwork,DMN)连接较少[75]。以家庭收入和父母教育为 SES 指标的研究发现在6个月大的婴儿中也有相同的趋势[76]。这些研究表明低 SES 的人群可能在情绪调节方面，与高 SES 的人群存在差异。这与低SES 的人群有更多的精神类疾病的现象[77]一致。
+
+此外，不同SES 的人对奖赏信息的加工也不相同。对父母受教育程度、本人受教育程度和收入较低的成年人而言，奖赏刺激引起的额叶、前扣带回(ACC)和纹状体区域活动强度较低，而负性刺激引起皮质和皮质下的反应更大[72.78]，可能说明他们对奖赏并不敏感而对损失却非常敏感。这一点可能与行为经济学研究中低 SES个体的决策相关：先前研究发现贫困会影响时间贴现和风险偏好，即低 SES 的
+
+1 人更偏好当下的收益和更低的风险[]。这一点可能是该影响以及损失与预期收益不对称现象的生理机制  
+2 之一。  
+3 总之，最近关于SES与大脑功能的关系有不少有趣的发现，其中一个主要的发现是不同 SES 的  
+4 个体在行为表现上可能并没有差异，但是在神经活动上却有不同。但是，也正是缺乏行为结果上的差  
+5 异，大脑活动模式的不同变得难以解释，因为我们目前无法通过大脑活动的结果来逆推个体当的心理与  
+6 认知活动，因此关于大脑活动模式的差异到底代表什么意义，仍处于猜测阶段。此外，与大脑结构研究  
+7 相似，SES与大脑功能的关系上，也存在着不一致的结果。
+
+# 3研究SES与大脑结构和功能关系的挑战
+
+通过对已经发表文献的回顾可以看到，目前关于SES与大脑关系的研究已经取得了不少成果，但缺乏系统性与一致性等问题阻碍着这些成果的整合和对该问题的深入理解。例如，对 SES 的测量通常仅包含了少量的指标，这些指标是否能够反映个体的真实的 SES水平，尚值得商榷；极少有研究考察从 SES 到大脑结构或者功能中间的诸多中间变量，使得我们无法理解 SES与大脑关系的机制；参与者的 SES 和年龄范围通常较小，使得我们无法得知在更大的范围内，SES、年龄与大脑结构和功能之间的关系特点是什么。此外，如上所述，大脑结构与功能数据分析方法中细节上的差异，也影响研究成果的比较与整合。要更好地理解 SES 与大脑的关系，应考虑到 SES 的复杂性、大脑发育的动态性、SES影响大脑机制的层次以及研究方法的一致性。
+
+# 3.1SES的复杂性
+
+从以上的回顾中，可以看到在探索 SES 与大脑结构和功能的研究中，使用到的 SES 指标非常多样并且不一致。这种现象本身产不奇怪，因为SES本身是非常复杂的社会现象。具体而言，其复杂性包括两个方面：第一、准确测量 SES 的多样性；第二、SES 范围的全面性。
+
+第一、SES 的测量对应于一组多样化的社会和经济因素。过往关于SES 对健康影响的研究发现，不同的社会经济因素会在生命的不同时期（儿童期与成年期）、在不同的层次（如个人，家庭，社区），通过不同的因果路径影响健康，且这些社会经济变量之间通常只有0.2-0.7之间中等程度的相关[12]。同样，关于 SES 对儿童数学成绩的研究也发现，家庭收入和父母受教育程度对儿童数学成绩有不同的影响路径[80]。因此，要准确衡量 SES 的作用，必要要考虑所测量 SES 指标的特殊性及其对心理和行为产生影响的机制。如有可能，最好全面测量并综合考虑多方面的社会经济因素的影响。此外需要特别关注 SES 的主观建构和主观体验。主观 SES 和客观 SES 之间很可能存在一定程度的不一致[81-83]，而主观 SES 是对于心理、行为更近端更直接的影响因素，未来从客观SES 是如何通过叙述身份、社会身份和未来身份等[84不同维度的主观经历和自我认知来影响大脑功能与结构这个角度进行深入的探索，可能有助于理解 SES 的具体影响机制。
+
+第二、要清晰定位研究对象在整个社会 SES 中所处的位置。之前不少关于SES 的研究都是以贫困为研究对象，但受到样本群体代表性的限制[85]，这些研究样本中包含的最低SES 的样本差异很大，在一些样本中绝对意义上贫穷的人很少或者根本不存在，因此无法区分贫困的特殊作用与一般意义上的
+
+1 SES 的作用。如果是贫困的特殊作用，那么 SES与神经的关联只在 SES 低于一定的阈值才成立。如果  
+2 是一般意义上的 SES 的作用，那么整个 SES范围内的 SES 都与大脑指标相关。已有的研究发现在儿童  
+3 中，SES 对于大脑表面积[22和大脑容量[8的影响是一种全 SES 范围内的梯度效应，在较低的一端影响  
+4 更大。这种全范围内的阈值效应可能反映了在不同水平 SES上不同影响因素边际效应递减后的综合影  
+5 响，或者只是在SES 测量上的非线性。这种长尾效应的存在表明，贫困和 SES 不是可互换的概念，基  
+6 于极端群体或大SES 范围的研究结果应分别进行的解释。
+
+# 3.2大脑发展发育的动态性
+
+从出生后的早期到成熟和衰老，人脑有其动态变化的规律[87,88]。目前的研究中发现在这个过程中，SES 与大脑的关系也可能存在动态性，即 SES 可能在不同的阶段有不同的影响。例如，对婴幼儿的研究表明，SES 在大脑上的差异在刚出生时尚不显著[89]，但在4-6 周时的生命早期就已出现[90]，随后差异持续存在[76.91]，且某些差异逐渐增加[92]。但有些差异的存在是暂时性的，可能预示着在这一时期SES 对某些功能发展的影响是影响发展的轨迹和速度。对儿童和青少年的研究也支持随着年龄增长，SES 在大脑中的差异会逐渐增加，且SES 会影响大脑发展的模式。例如，Piccolo et al.[93]研究了1148名年龄在3-20岁的样本的大脑皮层发展轨迹，发现在 SES较低的参与者中，大脑皮层的厚度在儿童早期和中期阶段下降得更快，而在青少年阶段下降速度减缓，直至趋于稳定。而在 SES较高的参与者中，皮层厚度呈线性下降趋势且持续时间更长。SES 对左侧梭状回和左侧颞上回（superior temporalgyrus，STG）皮层的发展也表现出同样的影响模式。结合动物早期的逆境和早熟的大脑发育研究[94],上述研究预示着 SES 可能影响儿童和青少年时期大脑功能和结构发展的模式。未来的研究框架需要进一步考虑 SES与大脑关系的动态过程，并探索其发展机制。
+
+# 3.3SES影响大脑机制的层次性
+
+SES 作为一个大脑的远端原因（distalcauses），往往是通过直接或者间接地影响某些更加微观的、个人的近端原因（proximalcause），如慢性压力、养育行为和环境中刺激的复杂性等，从而影响个人的大脑与行为（见图1）。在动物研究中已经发现了许多类似近端原因对脑功能的影响，包括压力、养育行为和环境复杂性、多样性等。其中压力和养育行为是被研究得最多的近端原因。在发育期或成年期的压力会导致啮齿动物和非人类灵长类动物的大脑发生大量的细胞和分子变化，这些变化在海马体和额叶中最常见[95]。养育行为受到诸如压力[96,97]之类的环境影响，而养育行为在缓冲后代所经历的压力的影响时起因果作用[98]（人类中养育行为受到父母受教育程度的影响等，使得这种变量的测量更加复杂）。这些近端原因均受到 SES 因素的影响[9,100]。在对人类的研究中，SES 通过压力等近端因素影响大脑结构和功能也得到了一定程度的验证[101]。这些研究提示我们，在未来的研究中，需要将远端原因与近端原因整合，而不是单独寻找某个因素与大脑的原因。
+
+![](images/fd691ca740984539cbdccb2ca8acd907232bbc762e04ba2aa119ca9a8ccd6e47.jpg)  
+图1SES 通过近端因素影响大脑的简化模型.the simplified modelof SES influencing the brain through
+
+proximalfactors.SES 因素通过一个或多个近端因素影响大脑的结构/功能。图中绿色区域为前额叶皮层，A黄色区域为前扣带回，蓝色区域为腹侧纹状体，红色区域为杏仁核，橙色区域为海马体。这五个脑区为报告较多的易受SES 影响的脑区。
+
+# 3.4研究方法的一致性
+
+神经科学，尤其是fMRI的研究包含大量的预处理和分析操作，每个操作都有关于参数和方法的选择。不同的选择会带来较大的结果差异[102]。对于感兴趣区的定义、分析指标的不同[42]和神经成像的复杂性带来的自由度选择[103]导致研究结果之间缺乏可比性。此外，研究设计的多样性、样本大小、年龄、SES 的范围等方面都可能带来很大的噪音，以及统计推论问题（例如低效力[104]和研究员的自由度[105,106]）也会影响结果的可信程度性[13,107,108]。对于这个问题，研究者可以采用元分析（meta-analysis）的方法来对过去同质的研究进行量化总结[10]。但更重要的是，在未来的研究中，需要采用更加标准化、开放和透明的方法进行研究。例如进行研究前对包括计划样本容量、分析工具、感兴趣区的定义方法、分析指标和预测结果等信息在内的方法和分析计划在开放平台（如,open scienceframework）上进行预注册；对于所有探索分析的细节进行充分和完整地报告，避免选择性报告；并公开研究中的数据[110]，进一步方便后续研究进行分析与比较。
+
+# 4.展望
+
+由于SES与大脑结构均为非常复杂的系统，当前两者之间关系的研究多是探索性的，较少存在一致性的结论。即使已发现两者之间存在某些相关，其中的机制也未清晰，是否存在因果关联仍待验证。要弄清 SES与大脑结构与功能的关系，需要应对以上指出的挑战。具体而言，未来研究可从以下四个方面入手进行进一步的探索。
+
+首先，尽可能全面地收集被试的 SES 信息和其他可能对于探索潜在影响机制有价值的数据。对SES 测量和报告，目前的研究仍然缺乏统一的标准许多研究中往往只收集收入或受教育程度等 SES 的一到两个方面的信息，使得研究者无法全面地理解 SES 的影响。未来的研究中可能需要尽可能多地收集 SES 指标，比如收入和支出比、受教育程度、职业、邻里关系和主观社会地位等。此外，SES 与大脑关系的研究中，也需要考虑文化差异的问题，研究者可以收集在特定社会文化中有特殊的 SES 指
+
+1标，例如政治资本[1等。通过丰富数据，研究者可以分析每一项 SES 指标均值、方差和对感兴趣的神经系统的影响，为SES的不同因素对神经系统的不同方面的影响提供证据。
+
+第二，尽可能收集和报告参与者不同时间阶段的SES 信息。例如对于老年参与者，可以收集他们童年期、中年时期和现在的 SES[2]。因为 SES 和大脑的影响机制复杂，不同年龄的不同的 SES 因素可能会有不同的影响。如果可能的情况下，使用长期的追踪研究，例如彩巢计划[113]等，研究 SES 与大脑的动态变化会对于理解发展阶段在SES与大脑关系中的作用和潜在的影响机制有巨大的推动。
+
+第三，大多数心理学研究中使用的被试都不能代表大多数人群[85]。未来的研究应该扩大参与者SES 的范围，尤其是在最低和较低 SES 的人群中更多地取样，以增加对全 SES 范围的 SES与大脑关系的理解，解决阈值与梯度效应之间的争议。这对于当前中国社会具有尤其重要的意义。例如，更有针对性地研究贫困和留守儿童等并对他们进行追踪，可能可以帮助解决贫困带来的精神健康问题[4,5.8]和犯罪等问题。目前，多中心合作模式是一个有效进行大规模数据收集的方式，例如国际信度与可重复性联盟[14]、北京老年脑健康促进计划[15]、中国影像遗传学研究计划、抑郁症静息态功能磁共振多中心数据荟萃分析计划[110、中国脑模板和图谱计划和ENIGMA项目等共享神经成像大数据平台为样本代表性问题提供了一个良好的探索方向。
+
+最后，以往关于大脑与 SES关系的研究中，不同研究的方法存在着许多细节上的差异。这导致已经发表的研究之间缺乏稳定性和可比性。要解决上述问题，最行之有效的办法之一是采用公开透明的研究实践标准[117]。尽量充分全面地报告研究的相关信息对于提升结果的稳定性和可比性有重要的促进作用。
+
+在过去的三十年，中国社会快速地发展，无数个体的 SES 发生了巨大的变化。这种变化可能给个人心理和生活带来巨大的变化，也为社会心态的塑造带来了深远的影响。从神经科学来研究 SES 与人脑的关系，尤其是从心理韧性的框架下[18]研究SES 对人脑的影响，将与社会学、行为经济学等其他学科的研究一起，将更加完整地理解 SES 对个人的影响。东西方文化差异是 SES 对心理、行为影响的重要调节因素[19]，中国传统文化思想中不同的思想也可能会影响例如公平正义观念等社会认知，从而影响 SES与大脑的关系，未来需要重视文化的差异对于研究结论的影响，并审慎思考研究结论对于中国社会现实的指导意义。未来的研究需要"去伪存真”，重视可重复性和科学性，才能为未来的理论发展和政策制定提供了坚实的科学基础，为扶贫干预项目提供了精确、科学和有效的指导，促进社会公平的实现。
+
+[1] Lund C,Brooke-Sumner C,Baingana F,et al. Social determinants of mental disorders and the Sustainable Development Goals: a systematic review of reviews.The Lancet Psychiatry,2018, 5(4): 357-369.   
+[2] Bradley R H, Corwyn RF. Socioeconomic Status and Child Development. Annual Review of Psychology,2002 53(1): 371-399.   
+[3] Adler NE, Stewart J: Health disparities across the lifespan: Meaning, methods,and mechanisms, Adler NE, Stewart J,editor, Biology of Disadvantage: Socioeconomic Status and Health,2O10: 5-23.   
+[4] Kessler R C,Berglund P,Demler O,et al.Lifetime prevalence and age-of-onset distributions' of DSM-IV disorders in the national comorbidity survey replication.Archives of General Psychiatry,2Oo5,62(6): 593-602. [5]Lorant V,Deliege D,Eaton W,etal. Socioeconomic inequalities in depression: a meta-analysis.American journal of epidemiology, 2003, 157(2): 98-112.   
+[6] Sirin S R. Socioeconomic status and academic achievement: A meta-analytic review of research. Review of Educational Research,2005,75(3): 417-453.   
+[7] Von Stumm S,Plomin R. Socioeconomic status and the growth of intelligence from infancy through   
+adolescence. Intelligence,2015, 48: 30-36.   
+[8] Lund C,Breen A,Flisher A J,etal.Poverty and common mental disorders in low and middle income countries: A systematic review. Social Science & Medicine, 2010, 71(3): 517-528.   
+[9] Insel TR, Cuthbert B N. Brain disorders? Precisely. Science,2015,348(6234): 499-500.   
+[10]Farah MJ. Socioeconomic status and the brain: prospects for neuroscience-informed policy.Nat Rev Neurosci. 2018,19(7):428-438.   
+[11] Hu C-P,Jiang X,Jeffrey R,et al.Open Science as a Bettr Gatekeeper for Science and Society: A Perspective from Neurolaw. PsyArXiv. 2018.   
+[12] Braveman PA, Cubbin C,Egerter S,et al.Socioeconomic status in health research - One size does not fitall. Jama-Journal of the American Medical Association, 2005,294(22): 2879-2888.   
+[13] Poldrack R A,Baker C I, Durnez J,et al. Scanning the horizon: towards transparent and reproducible neuroimaging research. Nature Reviews Neuroscience, 2O17,18(2): 115.   
+[14] VulE,Harris C,Winkielman P,etal.Puzzlingly High Correlations in fMRI Studiesof Emotion,Personality, and Social Cognition. Perspectives on Psychological Science,20o9, 4(3): 274-290.   
+[15] Gonzalez-Castillo J, Bandetini PA. Task-based dynamic functional connectivity: Recent findings and open questions.Neuroimage,2018,180: 526-533.   
+[16] Ibanez A, Garcia A M,Esteves S,et al. Social neuroscience: undoing the schism between neurology and psychiatry. Social Neuroscience,2018,13(1): 1-39.   
+[17] Blair C,Raver C C.Poverty,Stres,and Brain Development: New Directions for Prevention and Intervention. Academic Pediatrics,2016,16(3): S30-S36.   
+[18] Brito N H,Noble K G. Socioeconomic status and structural brain development. Frontiers in Neuroscience, 2014, 8.   
+[19] Deng W,Aimone JB,Gage F H. New neurons and new memories: how does adult hippocampal neurogenesis affect learning and memory? Nature Reviews Neuroscience,2O1o,11: 339.   
+[20] Mcewen B S,Magarinos A M. Stress effects on morphology and function of the hippocampus. Annals of the New York Academy of Sciences,2010, 821(1): 271-284.   
+[21]LeonardJA,MackeyAP,Finn A S,etal.Differential effects of socioeconomic status on workingand procedural memory systems. Frontiers in Human Neuroscience, 2O15,9: 554.   
+[22] Noble K G,EngelhardtLE,Brito NH,et al. Socioeconomic disparities inneurocognitive development inthe first two years of life.Developmental psychobiology, 2015, 57(5): 535-551.   
+[23] Yu Q,Daugherty A M, Anderson DM,et al. Socioeconomic status and hippocampal volume in children and young adults.Developmental Science, 2017.   
+[24] Hanson JL, Chandra A, Wolfe B L,et al.Asociation between Income and the Hippocampus.PLoSOne,2011 6(5): e18712.   
+[25] Butterworth P,Cherbuin N, Sachdev P,et al. The association between financial hardship and amygdala and hippocampal volumes: results from the PATH through life project. Social Cognitive and Affective Neuroscience, 2012, 7(5): 548-56. [26] Janowitz D, Schwahn C,Borchardt U,et al. Genetic,psychosocial and clinical factors associated with hippocampal volume in the general population. Translational Psychiatry, 2014, 4.   
+[27] StaffR T,Murray AD,Ahearn T S,et al. Childhood socioeconomic status and adult brain size: Childhood socioeconomic status influences adult hippocampal size. Annals of Neurology,2012,71(5): 653-660.   
+[28]Liu Y W,JulkunenV,Paajanen T,et al.Education increases reserve against Alzheimer's disease-evidence from structural MRI analysis. Neuroradiology,2012, 54(9): 929-938.   
+[29] Wang YN,Zhang L,Kong X Z, et al.Pathway to neural resilience: Self-esteem bufers against deleterious effects of poverty on the hippocampus. Human Brain Mapping,2016,37(11): 3757-3766.   
+[30] Yang JY,Liu HJ, Wei D T,et al. Regional gray matter volume mediates the relationship between family socioeconomic status and depression-related trait in a young healthy sample. Cognitive Affective & Behavioral Neuroscience,2016,16(1): 51-62.   
+[31] Calem M,Bromis K, Mcguire P,et al. Meta-analysis of associations between childhood adversity and hippocampus and amygdala volume in non-clinical and general population samples.Neuroimage-Clinical,2017,14: 471-479.   
+[32]Jonides J,Badre D,Curtis C,et al.Mechanisms ofconflictresolution in prefrontalcortex.Principles of frontal lobe function, 2002: 233-245.   
+[33] Hu C,Jiang X. An emotion regulation role of ventromedial prefrontal cortex in moral judgment.Frontiers in Human Neuroscience, 2014, 8.   
+[34] Koenigs M, Young L,Adolphs R, et al. Damage to the prefrontal cortex increases utilitarian moral judgements. Nature,2007,446(7138): 908-911.   
+[35] Qin P,Northof G. How is our self related to midline regions and the default-mode network? Neuroimage, 2011,57(3): 1221-33.   
+[36] Holz NE,BoeckerR,Hohm E,et al.The Long-Term Impactof EarlyLife Poverty on Orbitofrontal Cortex Volume in Adulthood: Results from a Prospective Study Over 25 Years. Neuropsychopharmacology,2015, 40(4): 996-1004.   
+[37] Krishnadas R, Mclean J, Batty GD,et al. Socioeconomic Deprivation and Cortical Morphology: Psychological, Social,and Biological Determinants of IllHealth Study. Psychosomatic Medicine,2013,75(7): 616-623. [38]Raizada R DS,Richards TL,Meltzoff A,et al. Socioeconomic status predicts hemispheric specialisationof the left inferior frontal gyrus in young children. Neuroimage,2008, 40(3): 1392-1401.   
+[39] Kong F, Chen Z, Xue S,etal. Mother's but not father's education predicts general fluid intelligence inemerging adulthood: Behavioral and neuroanatomical evidence. Human Brain Mapping,2015,36(11): 4582-4591.   
+[40] Hanson JL,Chung MK,Avants BB,et al.Early Stres Is Associated with Alterations in the Orbitofrontal Cortex: A Tensor-Based Morphometry Investigation of Brain Structure and Behavioral Risk. Journal of   
+Neuroscience,2010, 30(22): 7466-7472.   
+[41] Noble K G, Houston S M, Kan E, et al. Neural correlates of socioeconomic status in the developing human brain. Developmental Science, 2012,15(4): 516-527.   
+[42] Noble K G,Houston S M, Brito NH,et al. Family income,parental educationand brain structure in children and adolescents. Nat Neurosci, 2O15,advance online publication.   
+[43] LubyJ, Belden A, Botteron K,etal.The Effcts of Poverty on Childhood Brain Development The Mediating Effect of Caregiving and Stressful Life Events. Jama Pediatrics,2013,167(12): 1135-1142.   
+[44] Gianaros PJ, Kuan DCH, Marsland AL, et al. Community Socioeconomic Disadvantage in Midlife Relates to Cortical Morphology via Neuroendocrine and Cardiometabolic Pathways. Cerebral Cortex,2017,27(1): 460-473. [45] Mackey A P,Finn A S,Leonard JA,et al. Neuroanatomical Correlates of the Income-Achievement Gap. Psychological Science, 2015,26(6): 925-933.   
+[46] Ursache A, Noble K G,Pediat Imaging N. Socioeconomic status, white matter,and executive function in children.Brain and Behavior,2O16,6(10).   
+[47] Gianaros PJ,Marsland AL, SheuL K,et al.Inflammatory Pathways Link Socioeconomic Inequalities to White Matter Architecture. Cerebral Cortex,2013,23(9): 2058-2071.   
+[48] Johnson NF,Kim C, Gold B T. Socioeconomic status is positively correlated with frontal white matr integrity in aging. Age, 2013,35(6): 2045-2056.   
+[49]Banich M T.Executive Function:The Search for an Integrated Account. Current Directions in Psychological Science,2009,18(2): 89-94.   
+[50] Diamond A. Executive functions. Annu Rev Psychol, 2013, 64: 135-68. [51] Sridharan D,Levitin DJ,Menon V.Acritical role for the right fronto-insular cortex in switching between central-executive and default-mode networks.Proceedings of the National Academy of Sciences,2O08,105(34): 12569.   
+[52] Kishiyama MM, Boyce WT,Jimenez A M,et al. Socioeconomic Disparities Affect Prefrontal Function in Children. Journal of Cognitive Neuroscience,2009,21(6): 1106-1115.   
+[53]Stevens C,Lauinger B,Nevile H.Differences in the neural mechanisms of selective attention inchildren from different socioeconomic backgrounds: an event-related brain potential study.Develpmental Science,2Oo9,12(4): 634-646.   
+[54] Wang S,Kong F, Zhou M,et al. Brain Structure Linking Delay Discounting and Academic Performance. Human Brain Mapping, 2017.   
+[55] Sheridan MA,Sarsour K,Jute D,et al.The Impactof Social Disparityon Prefrontal Function in Childhood. Plos One, 2012, 7(4).   
+[56]Finn A S,Minas JE,LeonardJA,etal.Functional brain organizationof working memory inadolescents Varies in relation to family income and academic achievement. Developmental science,2O17, 20(5).   
+[57] DemirOE,Prado J,Booth JR.Parental socioeconomic status and the neural basis of arithmetic: diferential relations to verbal and visuo-spatial representations.Developmental Science, 2O15,18(5): 799-814.   
+[58] Demir OE,Prado J, Booth JR.Neural Correlates of Math Gains Vary Depending on Parental Socioeconomic Status (SES). Frontiers in Psychology,2016,7.   
+[59] Skoe E, Krizman J,Kraus N.The Impoverished Brain: Disparities in Maternal Education Affect the Neural Response to Sound. The Journal of Neuroscience, 2013,33(44): 17221-17231.   
+[60] Noble KG, Wolmetz ME,Ochs L G,etal. Brain-behavior relationships in reading acquisition are modulated by socioeconomic factors.Developmental Science,20o6,9(6): 642-654.   
+[61]ConantLL,LiebenthalE,Desai A,et al.The relationship between maternal educationandthe neural substrates of phoneme perception in children: Interactions between socioeconomic status and proficiency level. Brain and Language, 2017, 171: 14-22.   
+[62]Monzalvo K,FlussJ,Billard C,et al. Cortical networks for vision and language indyslexic and normal children of variable socio-economic status.Neuroimage,2012, 61(1): 258-274.   
+[63] Czernochowski D,Fabiani M,Friedman D. Use it or lose it? SES mitigates age-related decline in a   
+recency/recognition task. Neurobiology of Aging, 2008,29(6): 945-958.   
+[64]Duval ER,Garfinkel SN,Swain JE,etal. Childhood povertyisassociated with altered hippocampalfunction and visuospatial memory in adulthood. Developmental Cognitive Neuroscience,2017,23: 39-44.   
+[65] Sheridan M A, How J, Araujo M, et al. What are the links between maternal social status, hippocampal function,and HPA axis function in children? Developmental Science,2O13,16(5): 665-675.   
+[66] Gianaros PJ,Horenstein JA, Hariri AR,et al.Potential neural embedding of parental social standing. Social Cognitive and Affective Neuroscience,20o8,3(2): 91-96.   
+[67]MuscatellKA,Morell SA,FalkEB,etal.Social status modulates neural activityinthe mentalizing network NeuroImage,2012,60(3): 1771-1777   
+[68]Javanbakht A, King A P,Evans GW,et al. Childhood poverty predicts adult amygdala and frontal activity and connectivity in response to emotional faces. Frontiers in Behavioral Neuroscience,2015,9.   
+[69] Johnson S B,Ris JL,Noble KG. State of the art review: poverty and the developing brain. Pediatrics,2016: peds. 2015-3075.   
+[70] Kim P,Capistrano C, Congleton C. Socioeconomic disadvantages and neural sensitivity to infant cry: role of maternal distress. Social Cognitive and Affective Neuroscience,2016,11(10): 1597-1607.   
+[71] KimP,Capistrano CG,ErhartA,etal.Socioeconomicdisadvantage,neural responses to infant emotions,and emotional availability among first-time new mothers.Behavioural Brain Research,2017,325: 188-196.   
+[72] Gianaros PJ,Manuck S B, Sheu L K,et al. Parental Education Predicts Corticostriatal Functionality in Adulthood. Cerebral Cortex,2011,21(4): 896-910.   
+[73] Kim P,Evans GW, Angstadt M, et al.Effects of childhood poverty and chronic stress on emotion regulatory brain function in adulthood. Proceedings of the National Academy of Sciences, 2013.   
+[74]Barch D,Pagliaccio D,Belden A,et al. Efectof Hippocampal and Amygdala Connectivityon the Relationship Between Preschool Povertyand School-Age Depression. American Journal of Psychiatry,2016,173(6): 625-634. [75] Sripada R K,Swain JE,Evans G W,et al. Childhood Poverty and Stress Reactivity Are Associated with Aberrant Functional Connectivity in Default Mode Network. Neuropsychopharmacology,2014,39(9): 2244-2251. [76] Gao W,Alcauter S,Elton A, et al. Functional Network Development During theFirst Year: Relative Sequence and Socioeconomic Correlations. Cerebral Cortex,2015,25(9): 2919-2928.   
+[77] Yoshikawa H,Aber JL,Beardslee WR.The effects of povertyonthe mental,emotional,and behavioral health of children and youth: Implications for prevention. American Psychologist, 2012, 67(4): 272-284.   
+[78] Silverman ME, Muennig P,Liu X, et al. The impact of socioeconomic status on the neural substrates associated with pleasure. The open neuroimaging journal, 2Oo9,3: 58.   
+[79] Haushofer J,Fehr E. On the psychology of poverty. Science,2014,344(6186): 862-867.   
+[80]ElliottL,Bachman HJ.SES disparities in early math abilities: The contributions of parents' math cognitions, practices to support math, and math talk. Developmental Review,2O18, 49: 1-15.   
+[81] Adler N E, Epel E S, Castellzzo G, et al. Relationship of subjective and objective social status with psychological and physiological functioning: Preliminarydata in healthy,White women. Health psychology,2000, 19(6): 586.   
+[82] Johnson W,Mcgue M,Iacono W G. Genetic and environmental influences on academic achievement trajectories during adolescence. Developmental Psychology, 2006, 42(3): 514-532.   
+[83] Kraus M W,PiffPK,Keltner D.Social class,sense of control,and social explanation. Journal of Personality and Social Psychology,2009, 97(6): 992-1004.   
+[84]Destin M,Rheinschmidt-Same M,Richeson JA.Status-Based Identity:A Conceptual Approach Integrating the Social Psychological Study of Socioeconomic Status and Identity. Perspect Psychol Sci,2017,12(2): 270-289. [85] Henrich J, Heine S J, Norenzayan A.The weirdest people in the world? Behavioral and Brain Sciences,2010, 33(2-3): 61- $^ { + }$ ：   
+[86] Hair NL, Hanson JL, Wolfe B L,et al. Association of Child Poverty,Brain Development,and Academic Achievement. JAMA pediatrics, 2015,169(9): 822-829.   
+[87] Toga A W,Thompson PM, SowellE R. Mapping brain maturation. Trends in Neurosciences, 2006,29(3): 148-159.   
+[88] Zuo X-N, He Y,Betzel RF,et al. Human Connectomics across the Life Span. Trends in Cognitive Sciences, 2016.   
+[89] Brito NH,Fifera WP,Myers M M,et al. Associations among family socioeconomic status,EEG power at birth,and cognitive skils during infancy. Developmental Cognitive Neuroscience,2O16,19: 144-151.   
+[90] Betancourt L M, Brodsky NL, Hurt H. Socioeconomic (SES) diferences in language are evident in female infants at 7 months of age. Early Human Development,2015,91(12): 719-724.   
+[91] Tomalski P,Moore D G, Ribeiro H,et al. Socioeconomic status and functional brain developmentassociations in early infancy. Developmental Science,2013,16(5): 676-687.   
+[92] Hanson JL,Hair N,Shen DG,et al.Family Poverty Affects the Rate of Human Infant Brain Growth.PLoS ONE,2013,8(12): e80954.   
+[93]Piccolo LR, Merz E C,He XF,et al. Age-Related Differences in Cortical Thickness Vary by Socioeconomic Status. Plos One,2016,11(9).   
+[94]Bath K G,Manzano-Nieves G, Goodwill H.Early ife stress accelerates behavioral and neural maturation of the hippocampus in male mice. Hormones and Behavior, 2016.   
+[95] Mcewen B S, Gianaros PJ: Central role of the brain in stress and adaptation: Links to socioeconomic status, health,and disease,AdlerNE,Stewart J,editor,Biology of Disadvantage: Socioeconomic Status and Health,2010: 190-222.   
+[96] Murgatroyd C A,Nephew B C.Effects of early life social stresson maternal behavir and neuroendocrinology. Psychoneuroendocrinology,2013,38(2): 219-228.   
+[97] Rosenblum L A,PaullyG S.The efects of varying environmental demands on maternal and infant behavior. Child development,1984: 305-314.   
+[98]Francis D,DiorioJ,LiuD,etal.Nongenomic transmissionacross generations ofmateralbehaviorandstress responses in the rat. Science, 1999,286(5442): 1155-1158.   
+[99] Evans G W. The environment of childhood poverty. American Psychologist, 2004, 59(2): 77-92.   
+[100] Shonkoff JP,Boyce W T,Mcewen B S. Neuroscience,Molecular Biology,and the Childhood Roots of Health Disparities Building a New Framework for Health Promotion and Disease Prevention. Jama-Journal of the American Medical Association,2009,301(21): 2252-2259.   
+[101] Hanson JL,NacewiczBM,SutererMJ,etal. Behavioral Problems After EarlyLife Stres: Contributions of the Hippocampus and Amygdala. Biological Psychiatry,2015,77(4): 314-23. [102] Carp J. On the Plurality of (Methodological) Worlds: Estimating the Analytic Flexibility of fMRI   
+Experiments.Frontiers in Neuroscience,2012,6:149.   
+[103] Carp J.The secret lives of experiments: Methods reporting in the fMRI literature. NeuroImage,2012, 63(1): 289-300.   
+[104]Ioannidis JP,Munafo MR,Fusar-PoliP,etal.Publication and other reporting biases incognitive sciences: detection, prevalence,and prevention. Trends in cognitive sciences,2O14,18(5): 235-241.   
+[105] Simmons JP,Nelson LD,Simonsohn U.False-Positive Psychology: Undisclosed Flexibility in Data Collction and Analysis Allows Presenting Anything as Significant. Psychological Science, 2011,22(11): 1359- 1366.   
+[106]胡传鹏，王非，宋梦迪,etal.心理学研究中的可重复性问题：从危机到契机．心理科学进展,2016,24(9): 1504-1518.   
+[107] Zuo X-N, Xing X-X.Test-retest reliabilities of resting-state FMRI measurements inhuman brain functional connectomics: a systems neuroscience perspective.Neuroscience & Biobehavioral Reviews,2014,45: 100-118. [108] Zuo X-N,Anderson J S,Bellec P,et al. An open science resource for establishing reliability and   
+reproducibility in functional connectomics.Scientific data,2O14,1:140049.   
+[109]胡传鹏，邸新，李佳蔚,et al．神经成像数据的元分析．心理科学进展,2015,23(7):1118-1129.   
+[110] Milham M P, Craddock R C,Son JJ,et al. Assessment of the impact of shared brain imaging data on the scientific literature.Nat Commun,2018,9(1): 2818.   
+[111]谢宇，胡婧炜，张春泥．中国家庭追踪调查：理念与实践．社会,2014,34(2):1-32.   
+[112]Elbejni M,Fuhrer R,Abrahamowicz M,et al.Life-Course Socioeconomic Position and Hippocampal Atrophy in a Prospective Cohort of Older Adults. Psychosomatic Medicine,2017,79(1): 14-23.   
+[113]杨宁，何叶，张喆,etal．彩巢计划—“成长在中国”．科学通报,2017,62(26):3008-3022.   
+[114] Zuo X N, Anderson JS,Bellec P,et al. An open science resource for establishing reliability and   
+reproducibility in functional connectomics. Sci Data, 2013,1: 140049.   
+[115] Chen Y, Xu K, Yang C, et al. Beijing Aging Brain Rejuvenation Initiative: aging with grace. SCIENTIA SINICA Vitae, 2018,48(7): 721-734.   
+[116] Yan C-G, Chen X,LiL,et al. Reduced but not Enhanced Default Mode Network Functional Connectivity in Major   
+Depressive Disorder: Evidence from 25 Cohorts in the REST-meta-MDD Project. bioRxiv,2018.   
+[117] Nichols TE,Das S,EickhofS B,et al. Best practices in data analysis and sharing in neuroimaging using MRI.Nat Neurosci,2017,20(3): 299-303.   
+[118] Kalisch R,Baker DG, Basten U,et al.The resilience framework as a strategy to combat stress-related disorders. Nature human behaviour, 2O17,1(11): 784.   
+[119]Miyamoto Y,Yoo J,Levine CS,et al. Culture and social hierarchy: Self- and other-oriented correlates of socioeconomic status across cultures. JPers Soc Psychol, 2018,115(3). The effect of socioeconomic status on the structure and function of brain Lyu $Z ^ { 1 }$ ,Peng $\mathbf { K } ^ { 1 }$ $\mathrm { H u } { \bf C } ^ { 2 , 3 }$ （204   
+(1 Department of Psychology,Tsinghua University,2 Neuroimaging Center (NIC),Focus Program Translational   
+Neuroscience (FTN), Johannes Gutenberg University Medical Center,3 Deutsches Resilienz Zentrum (DRZ), Johannes GutenbergUniversity Medical Center)
+
+Abstract: The relationship of Socioeconomic status (SES)and human brain structure/function, has great significance of understanding the effects of socioeconomic factors on the psychologyand behavior and preventing the brain/mental illness. Over the past decade,researchers have used cognitive neuroscience to explore the relationship between SESand the brain,finding that SES indicators are related to brain structureand function,but it remains unclear whether the conclusions of diferent studies are consistent.This paper reviews the researches on SES and brain,from the perspective of brain structure and function,and from the perspectives ofcognition and emotion.It was found that (1) structurally,SES level may be related to the hippocampus and frontal lobe, whichare considered responsible for memory and executive function,as wellas the limbic system involved in emotional processing.(2) functionall,the brain regions related to executive function,learning and memory may difer in activity patterns in individuals with diferent SES levels.and SES is also related to the brain activity induced by emotions and rewards.It is worth noting that due to challenges such as the complexity of SES,the dynamic nature of brain development,the multi-layered influence of SES on the brain and methodological rigor,stable conclusions cannot be drawn from the current research.Therefore,this paper further points out that future research should not onlytackle the above challenges,but also consider the impact ofcultural differences,soas to turther understand the relationship between SES and brain and provide guidance for social policies.
+
+Keywords: socioeconomic status (SES); brain structure; brain function; cognition; emotion

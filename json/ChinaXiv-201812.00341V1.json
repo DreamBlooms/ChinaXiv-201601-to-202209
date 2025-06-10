@@ -1,0 +1,482 @@
+[
+    {
+        "type": "text",
+        "text": "饲粮蛋白质水平及纤维来源对生长猪盲肠液特性的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "党方昆」 赵峰l\\* 高理想² 高庆涛 $^ 1$ 王亚 $^ 1$ 张虎 $^ 1$ 赵江涛²张宏福」王建兵²（1．中国农业科学院北京畜牧兽医研究所，动物营养学国家重点实验室，北京100193；2.广东温",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "氏食品集团股份有限公司，新兴527400）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在探讨饲粮蛋白质水平与纤维来源对生长猪盲肠液消化酶活性及水解能力的影响，为生长猪大肠消化液的模拟提供参考。试验一考察饲粮的蛋白质水平（饲粮1和饲粮2粗蛋白质含量分别为 $1 9 . 0 3 \\%$ 和 $1 3 . 9 6 \\%$ ）对生长猪盲肠液组成的影响。采用完全随机设计，将12头在盲肠安装瘘管的生长猪按体重随机分为2组，每组6个重复，每个重复1头猪，预试期5d，试验期10d。试验二在试验一结束并经过10d恢复期后考察饲粮的纤维来源（饲粮3：玉米-大豆皮饲粮；饲粮4：玉米-麦麸饲粮）对生长猪盲肠液组成的影响，试验设计同试验一。试验三在试验一和试验二获得猪盲肠食糜的基础上考察盲肠液的来源与底物对还原糖释放量的影响。采用 $4 { \\times } 8$ 两因素完全随机设计，盲肠液来源设4个处理，分别为试验猪饲喂饲粮1、饲粮2、饲粮3和饲粮4后收集的盲肠液；底物为8个处理包括饲粮1\\~饲粮4，2个玉米-豆粕饲粮（饲粮5和饲粮6）和饲喂饲粮5和饲粮6后获得的回肠冻干食糜。每个处理5个重复，每个重复1根消化管。结果表明：1）高蛋白质饲粮（饲粮1）与低蛋白质饲粮（饲粮2）相比显著降低猪盲肠食糜干物质含量（ $\\cdot P { \\leqslant } 0 . 0 5 .$ )，饲粮蛋白质水平对盲肠液pH以及纤维素酶、木聚糖酶、葡聚糖酶、淀粉酶、中性蛋白酶、酸性蛋白酶活性无显著影响（ $\\cdot P { > } 0 . 0 5$ )；2）饲粮纤维来源对猪盲肠食糜干物质含量、 $\\mathsf { p H }$ 以及纤维素酶、木聚糖酶、葡聚糖酶、淀粉酶、中性蛋白酶、酸性蛋白酶活性均无显著影响‘ ${ \\it P } { > } 0 . 0 5$ )；3）盲肠液来源和底物对还原糖释放量均有显著的影响 $( P { < } 0 . 0 5 ^ { \\cdot }$ )，且两者对还原糖释放量有显著的互作效应！ $( P { < } 0 . 0 5 )$ ，盲肠液中水解酶活性高，饲粮纤维含量低，则盲肠液体外消化后还原糖释放量多。盲肠液中木聚糖酶、葡聚糖酶、中性蛋白酶及淀粉酶活性影响了对饲粮的消化能力，而木聚糖酶与淀粉酶活性影响了对回肠末端食糜的消化能力。由此表明，饲粮营养水平虽然对生长猪盲肠液中6种水解酶活性影响未达到统计学显著性，但多种水解酶微小的差异叠加后引起了水解能力的差异。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关键词：生长猪；盲肠食糜；消化酶活性；水解能力",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S816；S828",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "生长猪的大肠长度一般在 $3 . 5 { \\sim } 6 . 0 \\mathrm { m }$ ，食糜在其大肠内的停留时间在 $1 8 \\mathrm { h }$ 以上。大肠对高纤维饲料原料养分的消化有显著贡献。因此，在猪的模拟消化研究中，探讨大肠的消化生理非常重要。盲肠位于大肠前段，占大肠总长度的 $7 \\% { \\sim } 8 \\%$ ，是大肠微生物生长、结构性碳水化合物消化的重要场所。生长猪盲肠微生物的浓度约为 $2 . 3 7 \\times 1 0 ^ { 1 0 }$ 个 $\\mathbf { \\nabla } / \\mathbf { g }$ 内容物[I，其自身代谢或分泌的碳水化合物酶、蛋白酶可降解未被小肠消化吸收的饲粮成分。研究表明，生长猪盲肠对饲粮有机物的消化率达 $1 1 . 7 \\%$ 以上，占整个大肠消化率的 $9 0 \\% ^ { [ 2 ] }$ 。通过饲粮的营养成分可诱导盲肠微生物种群的变化[3]，从而影响饲粮养分的消化。如低蛋白质饲粮可以显著提高猪肠道中厚壁菌门与拟杆菌门的比例，进而影响粪便中短链脂肪酸和生物胺的浓度4。猪盲肠微生物在体外对高蛋白质饲粮消化后，可以显著提高氨态氮、菌体蛋白和短链脂肪酸的含量[5]。饲粮的纤维来源影响了盲肠食糜中普氏菌属、乳酸杆菌属、瘤胃球菌属、拟杆菌属等微生物多样性，从而影响纤维素酶、果胶酶、 $\\beta \\cdot$ -葡聚糖酶、木聚糖酶等非淀粉多糖酶的活性[67]。由此可见，饲粮的蛋白质水平及纤维来源对猪盲肠液的特性有明显的影响。而探讨不同饲粮营养水平条件下生长猪盲肠液酶活性及水解能力的差异是制备模拟盲肠液的生物学依据。为此，本研究通过活体采集盲肠食糜分别比较2个粗蛋白质水平饲粮和2个纤维来源饲粮条件下生长猪盲肠液组成成分与水解特性的差异，为生长猪大肠模拟消化过程提供基础参数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验动物及管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选取遗传背景相近、胎次相同、初始体重为（20.05±1.87）kg 的杜 $\\times$ 长 $\\cdot \\times$ 大三元杂交去势公猪",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "12头，于代谢笼中单笼饲养。适应1周后在盲肠末端（回盲结合处后 $1 0 \\mathrm { c m } \\dot { } \\quad$ ）安装T型瘘管，术后饲养于代谢笼内，按常规护理3周，待瘘管猪恢复健康后开始正式试验8]。适应期和护理期饲喂生长猪基础饲粮。试验一、试验二结束时试猪体重分别为（ $\\left. 6 2 . 5 9 \\pm 3 . 8 7 \\right.$ ） $\\mathbf { k g }$ 和（ $8 0 . 0 8 { \\scriptstyle \\pm 4 . 5 2 }$ ）kg。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2猪试验饲粮与回肠末端食糜 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基础饲粮和试验饲粮根据NRC（2012）中 $2 0 { \\sim } 6 0 \\mathrm { k g }$ 生长猪营养需要量推荐标准配制，饲粮1\\~4是试验一、试验二中的试验饲粮，分别为高蛋白质饲粮、低蛋白质饲粮、玉米-大豆皮饲粮、玉米-小麦麸饲粮（表1)，饲粮5\\~6为实验室前期另一个试验中配制的玉米-豆粕配合饲粮。回肠冻干食糜1\\~2分别为生长猪饲喂饲粮5\\~6后收集的回肠食糜制备成的冻干物。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 试验设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究分3个部分进行，其中试验一考察饲粮蛋白质水平（粗蛋白质含量分别为 $1 9 . 0 3 \\%$ 和$1 3 . 9 6 \\%$ ）对生长猪盲肠液组成的影响。采用两样本完全随机设计，将12头在盲肠安装瘘管的生长猪按体重随机分为2组，每组6个重复，每个重复1头猪，分别饲喂饲粮1和饲粮2。试验二在试验一结束并经过10d恢复期后考察饲粮的纤维来源（分别为大豆皮和小麦麸）对生长猪盲肠液组成的影响，试验设计同试验一，2组平均体重无显著差异的试验猪分别饲喂饲粮3和饲粮4。试验一、试验二的预试期均为5d，试验期均为10d，期间每天08:00和16:00拌湿饲喂试验饲粮，为了消除采食量差异对试验猪的影响，按照体重的 $4 \\%$ 进行投喂，自由饮水。其他管理按照动物营养学国家重点实验室常规程序进行。试验期前5d为粪样收集期，后5d为隔日采集盲肠食糜样品。试验三在试验一和试验二获得猪盲肠食糜的基础上考察盲肠液的来源与饲粮底物对还原糖释放量的影响。采用 $4 { \\times } 8$ 两因素完全随机设计，盲肠液来源设4个处理，分别为高蛋白质饲粮（饲粮1）组收集的肠液（A）、低蛋白质饲粮（饲粮2）组收集的肠液（B）、玉米-大豆皮饲粮（饲粮3）组收集的肠液（C)、玉米-小麦麸饲粮（饲粮4）组收集的肠液（D)；底物为8个处理包括饲粮1\\~饲粮6和2种回肠冻干食糜。每个处理5个重复，每个重复1根消化管，测定还原糖的释放量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4样品采集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验一、试验二在试验第6天的09:00 至第11天的09:00进行全收粪，每日粪样取样后混合均匀， $6 5 ^ { \\circ } \\mathrm { C }$ 烘干后回潮 $2 4 \\mathrm { h }$ ，根据四分法取样并储存于一 $2 0 ^ { \\circ } \\mathrm { C }$ 中。在试验第11、13、15天09:30—10:30、13:30—14:30、17:30—18:30，采用自制的带有低温冷存功能的采样袋从瘘管处连续收集食糜样品，在每个时间段收集完成以后将每头猪的肠液样品按收集体积的比例混合均匀，取样 $4 0 \\mathrm { m L }$ 并立即于$4 ^ { \\circ } \\mathrm { C }$ 、1 $2 5 0 \\times g$ 离心 $1 0 \\mathrm { m i n }$ ，将上清液混合均匀后分装于 $1 . 5 \\mathrm { m L }$ 离心管中， $- 8 0 ^ { \\circ } \\mathrm { C }$ 保存待测酶活性。每头猪其余食糜样品经类似处理获得肠液后，按饲粮处理将组内试验猪的盲肠液等体积混匀，分装到 $5 0 \\mathrm { m L }$ 离心管中备用。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/21db8eab1424541522070692d84a965881d288b6b95d6ad31efbdf581f76bd8b.jpg",
+        "table_caption": [
+            "表1试验饲粮组成及营养水平 (风干基础)",
+            "Table 1Composition and nutrient levels of experimental diets and (air-dry basis) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\"></td></tr><tr><td>项目</td><td>饲粮1</td><td>饲粮2</td><td>饲粮3</td><td>饲粮4</td><td colspan=\"2\">回肠食糜收集 Collection of ileal digesta</td></tr><tr><td>Items</td><td>Diet 1</td><td>Diet 2</td><td>Diet3</td><td>Diet 4</td><td>饲粮5 Diet 5</td><td>饲粮6 Diet 6</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>玉米Com</td><td>58.21</td><td>72.19</td><td>68.01</td><td>70.78</td><td>71.80</td><td>66.76</td></tr><tr><td>豆粕 Soybean meal</td><td>34.87</td><td>15.26</td><td>17.67</td><td>17.15</td><td>22.20</td><td>22.20</td></tr><tr><td>麦麸Wheat bran</td><td>2.99</td><td>8.10</td><td></td><td>8.00</td><td></td><td></td></tr><tr><td>标粉Wheat flour</td><td></td><td></td><td></td><td></td><td></td><td>5.00</td></tr><tr><td>大豆皮 Soybean hull</td><td></td><td></td><td>8.00</td><td></td><td></td><td></td></tr><tr><td>大豆油 Soybean oil</td><td>0.95</td><td>0.29</td><td>2.69</td><td>0.31</td><td>1.18</td><td>1.18</td></tr><tr><td>食盐 NaCl</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.37</td><td>0.37</td></tr><tr><td>石粉 Limestone</td><td>0.88</td><td>0.90</td><td>0.67</td><td>0.79</td><td>0.75</td><td>0.75</td></tr><tr><td>磷酸氢钙CaHPO4</td><td>0.70</td><td>0.86</td><td>0.99</td><td>0.99</td><td>1.34</td><td>1.34</td></tr><tr><td>DL-蛋氨酸DL-Met</td><td>0.02</td><td>0.17</td><td>0.05</td><td>0.05</td><td>0.23</td><td>0.23</td></tr><tr><td>L-赖氨酸L-Lys</td><td>0.08</td><td>0.62</td><td>0.43</td><td>0.44</td><td>0.86</td><td>0.86</td></tr><tr><td>色氨酸Trp</td><td></td><td>0.07</td><td>0.04</td><td>0.04</td><td>0.03</td><td>0.03</td></tr><tr><td>苏氨酸Thr</td><td></td><td>0.22</td><td>0.15</td><td>0.15</td><td>0.24</td><td>0.24</td></tr><tr><td>防霉剂Fungicide</td><td></td><td>0.02</td><td></td><td></td><td></td><td>0.04</td></tr><tr><td>预混料 Premixl</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗蛋白质CP</td><td>19.03</td><td>13.96</td><td>13.77</td><td>14.15</td><td>17.00</td><td>17.00</td></tr><tr><td>消化能 DE/（MJ/kg)</td><td>13.85</td><td>13.32</td><td>13.82</td><td>13.38</td><td></td><td></td></tr><tr><td>净能 NE/ (MJ/kg)</td><td>9.87</td><td>9.87</td><td>9.87</td><td>9.87</td><td>10.53</td><td>10.25</td></tr><tr><td>粗纤维CF</td><td>3.96</td><td>3.20</td><td>5.14</td><td>3.61</td><td>2.00</td><td>2.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>酸性洗涤纤维 ADF</td><td>3.88</td><td>3.77</td><td>7.13</td><td>4.59</td><td>4.42</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d21951ae878ad23937bb002580a2515ea471c2a0e8cef87fa29f63a5fd13ced6.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>中性洗涤纤维 NDF</td><td>11.18</td><td>11.38</td><td>13.36</td><td>11.87</td><td>10.71</td><td></td></tr><tr><td>钙 Calcium</td><td>0.65</td><td>0.65</td><td>0.59</td><td>0.59</td><td>0.65</td><td>0.66</td></tr><tr><td>有效磷 AP</td><td>0.31</td><td>0.31</td><td>0.27</td><td>0.27</td><td>0.27</td><td>0.27</td></tr><tr><td>可消化赖氨酸 DLys</td><td>1.00</td><td>1.01</td><td>0.85</td><td>0.85</td><td>1.01</td><td>1.19</td></tr><tr><td>可消化蛋氨酸 DMet</td><td>0.28</td><td>0.28</td><td>0.24</td><td>0.24</td><td>0.28</td><td>0.28</td></tr><tr><td>可消化苏氨酸 DThr</td><td>0.64</td><td>0.63</td><td>0.52</td><td>0.52</td><td>0.64</td><td>0.63</td></tr><tr><td>可消化色氨酸 DTrp</td><td>0.22</td><td>0.20</td><td>0.15</td><td>0.15</td><td>0.21</td><td>0.16</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1)每千克饲粮中含有 Per kg diet supplies:VA8 250 IU, $\\mathrm { V D } _ { 3 }$ 825 IU, VE 40 IU, $\\mathrm { V K } _ { 3 }$ 4 mg, $\\mathrm { V B } _ { 1 }$ 1.0mg， VB2 5 mg, $\\mathrm { V B } _ { 6 } 2 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 2 } 2 5 \\mu \\mathrm { g }$ ，泛酸 pantothenic acid $1 5 . 0 \\mathrm { m g }$ ，烟酸nicotinic acid $3 5 . 0 \\mathrm { m g }$ 叶酸 folic acid $2 \\mathrm { m g }$ ，生物素biotin $4 \\mathrm { m g }$ ，氯化胆碱choline choride $6 0 0 \\mathrm { m g }$ ， $\\mathrm { C u 5 0 . 0 m g }$ ,Fe $8 0 . 0 \\mathrm { m g }$ Zn 100.0 mg， Mn 25.0 mg， Se0.15 mg， I0.5 mg。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2)粗蛋白质和粗纤维为实测值，其余为计算值。CPand CF are determined values,the other nutrient levels are calculated values ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5测定指标与方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "盲肠食糜干物质含量的测定：先称量鲜食糜的重量，然后在 $6 5 ^ { \\circ } \\mathrm { C }$ 烘干至无水痕后，再按照GB/T6435—2006 测定计算干物质含量[9]。使用 Sartorius PB-10pH计在 $3 9 ^ { \\circ } \\mathrm { C } \\cdot$ 恒温水浴条件下测定肠液的pH。纤维素酶、木聚糖酶、 $\\beta \\cdot$ -葡聚糖酶的活性测定分别参考NY/T912—2004、GB/T23874—2009、NY/T911—2004 的方法进行。淀粉酶活性参考Dahlqvist[]的方法进行测定。酸性蛋白酶、中性蛋白酶活性的测定参考GB/T28715—2012的方法进行。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "盲肠液对饲粮及食糜的还原糖释放量根据本实验室制定的《单胃动物仿生消化系统操作手册》，在第三代仿生消化系统的立式消化模块测定。上样量 $0 . 5 \\mathrm { g }$ ，盲肠液 $1 0 \\mathrm { m L }$ ，消化结束后将消化管中分解物准确转移到 $1 0 0 \\mathrm { m L }$ 容量瓶中，定容后用 $0 . 2 2 \\mu \\mathrm { m }$ 滤膜过滤，用双光束紫外分光光度计在530nm 波长下测定还原糖的释放量(以葡萄糖计)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.6数据处理与统计分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用 SAS9.0的MEANS模块计算消化酶活性、饲粮养分消化率的基本统计量。采用 $t { \\cdot }$ -test模块对试验一、试验二消化酶活性和饲粮养分消化率的差异进行显著性检验。试验三利用SAS9.0的GLM",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "模块进行两因素互作的方差分析，当交互作用显著时，采用Duncan氏多重比较检验法对均值进行多重比较。并采用CORR模块分析盲肠液中消化酶活性与还原糖释放量的相关关系。数据以平均值士标准差表示， $P { \\leq } 0 . 0 5$ 表示差异显著。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1饲粮类型对生长猪盲肠食糜特性和养分消化率的影响 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，低蛋白质饲粮组猪盲肠食糜的干物质含量显著地高于高蛋白质饲粮组（ $\\scriptstyle P = 0 . 0 5 { \\mathrm { , } }$ )，而玉米大豆皮饲粮组与玉米小麦麸饲粮组在盲肠食糜的干物质含量上差异不显著 $( P { > } 0 . 0 5 \\$ )。试验一、试验二中饲粮处理对猪盲肠液pH以及纤维素酶、木聚糖酶、葡聚糖酶、中性蛋白酶、酸性蛋白酶和淀粉酶活性的影响均无显著差异！ $\\scriptstyle \\langle P > 0 . 0 5$ )。试验一中高蛋白质饲粮组的干物质、总能、粗蛋白质和粗纤维的消化率均显著高于低蛋白质饲粮组（ $\\scriptstyle { \\langle P < 0 . 0 5 }$ )。试验二中玉米大豆皮饲粮组的粗纤维消化率显著地高于玉米小麦麸饲粮组（ $\\scriptstyle { \\sqrt { P { < } 0 . 0 5 } }$ )，而两者在干物质、总能、粗蛋白质的消化率上无显著性差异 $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2猪饲喂4种饲粮后盲肠食糜的特性及养分消化率",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/96b1d6967d6d7a2ab023053de132bed16b68d23f259dc6c3143726791ead8384.jpg",
+        "table_caption": [
+            "Table 2The characteristic ofcecal digesta and nutrients digestibility of4 diets in pigs "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目 Items</td><td colspan=\"2\">试验一 Experiment 1</td><td rowspan=\"2\">P值 P-value</td><td colspan=\"2\">试验二 Experiment 2</td><td rowspan=\"2\">P值 P-value</td></tr><tr><td>饲粮1</td><td>饲粮2</td><td>饲粮3</td><td>饲粮4</td></tr><tr><td></td><td>Diet 1</td><td>Diet 2</td><td></td><td>Diet 3</td><td>Diet 4</td><td></td></tr><tr><td>盲肠食糜成分 Composition of cecal digesta</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>干物质 DM/%</td><td>9.2±0.5</td><td>10.4±1.2</td><td>0.05</td><td>10.4±1.1</td><td>9.9±1.5</td><td>0.54</td></tr><tr><td>pH</td><td>6.43±0.18</td><td>6.62±0.32</td><td>0.24</td><td>6.54±0.15</td><td>6.51±0.11</td><td>0.74</td></tr><tr><td>盲肠液消化酶活性 Enzyme activity/(U/mL)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>纤维素酶Cellulase</td><td>0.085±0.002</td><td>0.091±0.009</td><td>0.21</td><td>0.089±0.008</td><td>0.083±0.011</td><td>0.29</td></tr><tr><td>木聚糖酶 Xylanase</td><td>0.248±0.008</td><td>0.251±0.012</td><td>0.68</td><td>0.270±0.034</td><td>0.251±0.009</td><td>0.24</td></tr><tr><td>葡聚糖酶 Glucanase</td><td>0.316±0.008</td><td>0.350±0.019</td><td>0.14</td><td>0.372±0.031</td><td>0.355±0.040</td><td>0.42</td></tr><tr><td>淀粉酶 Amylase</td><td>88.5±45.1</td><td>105.3±37.6</td><td>0.50</td><td>131±67.6</td><td>102.1±19.7</td><td>0.36</td></tr><tr><td>酸性蛋白酶 Acid protease</td><td>3.8±0.4</td><td>4.0±0.6</td><td>0.60</td><td>4.0±0.9</td><td>4.7±1.0</td><td>0.26</td></tr><tr><td>中性蛋白酶 Neutral</td><td>93.0±28.5</td><td>90.3±19.1</td><td>0.85</td><td>117.0±20.0</td><td>110.7±11.9</td><td>0.52</td></tr><tr><td colspan=\"7\">protease 养分消化率 ta/0/</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f641210861bdac831a0426882cd18d94f8132cf85a5e8677442357e210852de0.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "2.2生长猪盲肠液来源与底物对消化后还原糖释放量的影响 "
+        ],
+        "table_body": "<html><body><table><tr><td>干物质 DM</td><td>78.15±2.72</td><td>74.76±2.27</td><td>0.04</td><td>79.36±2.84</td><td>76.78±1.89</td><td>0.09</td></tr><tr><td>总能GE</td><td>76.46±2.83</td><td>71.86±2.47</td><td>0.01</td><td>77.14±3.33</td><td>75.65±1.80</td><td>0.36</td></tr><tr><td>粗蛋白质 CP</td><td>78.96±2.73</td><td>73.67±2.57</td><td>0.01</td><td>75.82±4.02</td><td>76.91±2.27</td><td>0.57</td></tr><tr><td>粗纤维CF</td><td>40.01±2.44</td><td>21.91±2.69</td><td>0.01</td><td>53.99±2.80</td><td>29.70±2.26</td><td>0.01</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，盲肠液来源和底物对还原糖释放量均有显著的影响 $( P { < } 0 . 0 5 )$ ，且两者对还原糖释放量有显著地互作效应！ $( P { < } 0 . 0 5 )$ )。在6个饲粮底物中，盲肠液消化底物后还原糖释放量的差异为玉米-大豆皮饲粮肠液>玉米-小麦麸饲粮肠液>低蛋白质饲粮肠液>高蛋白质饲粮肠液；而盲肠液对回肠食糜1和食糜2的还原糖释放量差异分别为玉米-大豆皮饲粮肠液>高蛋白质饲粮肠液>低蛋白质饲粮肠液>玉米-小麦麸饲粮肠液以及玉米-大豆皮饲粮肠液>高蛋白质饲粮肠液 $\\ >$ 玉米-小麦麸饲粮肠液>低蛋白质饲粮肠液。在8种底物中，饲粮6的还原糖平均释放量达到 $3 5 2 \\mathrm { m g / g }$ ，显著高于其他底物1 $\\scriptstyle \\cdot P < 0 . 0 5 )$ ),其他5种饲粮底物的还原糖释放量在 $2 5 0 { \\sim } 2 9 6 \\mathrm { m g / g }$ 间变化，组间存在显著差异 $( P { < } 0 . 0 5 )$ ·而2个回肠食糜的还原糖释放量均为 $5 1 \\mathrm { m g / g }$ ，显著低于饲粮底物！ $( P { \\ < } 0 . 0 5 )$ ）",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/cd6304ab4d16f66255e73a604d558da3aa7913d5003eb1b642ae32b2c4e7b039.jpg",
+        "table_caption": [
+            "表3生长猪盲肠液来源对饲粮和食糜还原糖释放量的影响",
+            "Table 3Effects of porcine cecal fluid sources on the amount of released reducing sugar in diets and "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">ileal digesta</td><td colspan=\"4\">mg/gDM</td></tr><tr><td rowspan=\"2\">项目Items</td><td colspan=\"4\">盲肠液来源 Sources of cecal fluid</td><td rowspan=\"2\"></td><td rowspan=\"2\">底物平均值 Mean of substrate</td><td rowspan=\"2\">P值 P-value</td></tr><tr><td>A</td><td>B</td><td>C</td><td>D</td></tr><tr><td>底物Substrate</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>饲粮1Diet 1</td><td>98.7±1.1</td><td>265.8±1.0</td><td>523.2±0.6</td><td></td><td>297.4±0.3</td><td>296B</td><td></td></tr><tr><td>饲粮2Diet 2</td><td>144.5±1.3</td><td>214.5±1.4</td><td>578.8±3.1</td><td></td><td>230.4±2.4</td><td>292C</td><td></td></tr><tr><td>饲粮3Diet 3</td><td>178.9±0.5</td><td>184.0±1.0</td><td>373.3±0.6</td><td></td><td>268.8±0.3</td><td>251E</td><td></td></tr><tr><td>饲粮4Diet4</td><td>150.1±0.2</td><td>253.0±1.4</td><td>333.6±2.4</td><td></td><td>264.0±1.7</td><td>250F</td><td></td></tr><tr><td>饲粮5Diet 5</td><td>91.3±1.6</td><td>210.5±0.8</td><td>565.4±1.5</td><td></td><td>243.6±2.3</td><td>278D</td><td></td></tr><tr><td>饲粮6Diet6</td><td>200.6±0.6</td><td>240.4±0.4</td><td>674.2±1.1</td><td></td><td>291.3±0.7</td><td>352A</td><td></td></tr><tr><td>回肠食糜1</td><td>53.8±0.3</td><td>51.7±0.3</td><td>73.1±3.4</td><td></td><td>26.0±1.7</td><td>51G</td><td></td></tr><tr><td>Ileal digesta 1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>回肠食糜2</td><td>48.4±2.1</td><td>39.0±1.4</td><td></td><td>69.4±2.7</td><td>46.6±1.3</td><td>51G</td><td></td></tr><tr><td>Ileal digesta 2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>盲肠肠液平均值</td><td>121d</td><td>182℃</td><td></td><td>399a</td><td>209b</td><td></td><td>0.001</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "同一行（盲肠液平均值）或列（底物平均值）的数据肩标字母不同表示显著差异 $( P { < } 0 . 0 5 )$ ，字母相同表示无显著差异 $( P { > } 0 . 0 5 )$ ）",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the same row (mean of cecal fluid) or column (mean of substrate), values with diffrent leter superscripts mean significant difference $( P < 0 . 0 5 ) \\$ ，while with the same letter superscripts mean no significant difference $\\mathrm { \\Delta } P { > } 0 . 0 5 \\mathrm { \\Delta }$ ！ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3生长猪盲肠液消化酶活性与底物还原糖释放量的相关性",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从生长猪盲肠液中消化酶活性与底物还原糖释放量的相关关系看(表4)，6个饲粮的还原糖释放量与木聚糖酶、葡聚糖酶、中性蛋白酶和淀粉酶均有显著相关关系（ $\\scriptstyle \\cdot \\geq 0 . 7 4$ ： $P { < } 0 . 0 5$ )，而与纤维素酶和酸性蛋白酶无显著相关关系（ $| r | { \\leq } 0 . 4 9$ ： $P { > } 0 . 0 5$ )。回肠食糜1的还原糖释放量与木聚糖酶和淀粉酶活性显著正相关（ $_ { , r \\geq 0 . 5 8 }$ $P { \\ < } 0 . 0 5$ )，与酸性蛋白酶活性有显著负相关关系（ $_ { , r = - 0 . 7 9 }$ $P { < } 0 . 0 5$ )，而与纤维素酶、葡聚糖酶和中性蛋白酶活性无显著相关性（ $k { \\le } 0 . 1 9$ ： $P { > } 0 . 0 5$ )。而回肠食糜2与纤维素酶、木聚糖酶、葡聚糖酶、中性蛋白酶和淀粉酶活性显著相关‘ $( | r | \\ge 0 . 5 1$ ; $P { < } 0 . 0 5$ )，与酸性蛋白酶活性无显著相关（ $_ { , r = - 0 . 1 6 }$ ： $P { > } 0 . 0 5$ ）",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表4盲肠液中消化酶活性与饲粮或回肠食糜还原糖释放量的简单相关关系",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/b04c5a8041c7ec9e1a3d60c82ff38f2740a2f4b4c1675f373f5c45d9d66457c5.jpg",
+        "table_caption": [
+            "Table 4The simple correlation of digestive enzyme activity of cecal fluid and the amount ofreleased reducing sugar in diets or ileal digesta "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>底物 Substrate</td><td>纤维素酶 Cellulase</td><td>木聚糖酶 Xylanase</td><td>葡聚糖酶 Glucanase</td><td>中性蛋白酶 Neutral Protease</td><td>酸性蛋白酶</td><td>淀粉酶</td></tr><tr><td>饲粮1 Diet 1</td><td>-0.11</td><td>0.93*</td><td>0.95*</td><td>0.80*</td><td>Acid Protease 0.19</td><td>Amylase 0.98*</td></tr><tr><td>饲粮2Diet 2</td><td>-0.26</td><td>0.99*</td><td>0.80*</td><td>0.77*</td><td>-0.06</td><td>0.97*</td></tr><tr><td>饲粮3Diet 3</td><td>-0.49</td><td>0.92*</td><td>0.81*</td><td>0.95*</td><td>0.25</td><td>0.89*</td></tr><tr><td>饲粮4 Diet 4</td><td>0.03</td><td>0.82*</td><td>0.99*</td><td>0.74*</td><td>0.33</td><td>0.94*</td></tr><tr><td>饲粮5Diet 5</td><td>-0.22</td><td>0.98*</td><td>0.88*</td><td>0.80*</td><td>0.06</td><td>0.99*</td></tr><tr><td>饲粮6 Diet 6</td><td>-0.33</td><td>0.99*</td><td>0.78*</td><td>0.80*</td><td>-0.05</td><td>0.95*</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/79ad47a8f760d9801ed1d789ac85dbaa89bb9c1cbdd82f7089d592a8c3d064cd.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>回肠食糜1Ileal digesta 1</td><td>0.02</td><td>0.69*</td><td>0.19</td><td>0.09</td><td>-0.79*</td><td>0.58*</td></tr><tr><td>回肠食糜2Ileal digesta 2</td><td>-0.60*</td><td>0.90*</td><td>0.51*</td><td>0.77*</td><td>-0.16</td><td>0.76*</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "\\*表示显著相关（ $_ { \\scriptstyle P < 0 . 0 5 }$ 。\\* means significant correlation $( P { < } 0 . 0 5 )$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1饲粮的原料组成对生长猪盲肠液成分的影响 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "饲粮在生长猪体内经胃、小肠消化后，淀粉、脂肪、氨基酸的消化率分别在 $9 7 \\%$ 、 $87 \\%$ 、 $83 \\%$ 以上[11-13]，而粗纤维的消化率在 $2 5 \\%$ 以下变化[14]。这表明，进入大肠内的底物是以饲料植物细胞壁为主要成分，兼含少量的抗性淀粉和未消化的饲粮、肠壁脱落蛋白质。本试验得出生长猪采食高蛋白质饲粮和低蛋白质饲粮后盲肠食糜中干物质含量为 $9 . 2 \\% { \\sim } 1 0 . 4 \\%$ ，采食玉米-大豆皮饲粮和玉米-小麦麸饲粮后盲肠食糜中干物质含量为 $9 . 9 \\% { \\sim } 1 0 . 4 \\%$ ，略低于孙巍巍等[5通过屠宰法获得的猪盲肠食糜干物质含量为 $1 3 . 6 8 \\%$ 的结果，这可能是食糜采集方法不同引起的。然而，猪饲喂高蛋白质饲粮与低蛋白质饲粮相比，盲肠食糜中水分的含量更高。这可能是高蛋白质饲粮增加了肠道中挥发性脂肪酸、氨、酚类以及吲哚类物质的含量，从而使肠道食糜的渗透压更高，系水性更强[’15]。猪肠道的缓冲能力随日龄增长趋于稳定，达31日龄时盲肠内容物的pH已稳定在6.40\\~6.48[1]。本试验得出盲肠液pH为6.43\\~6.62，而且饲粮的蛋白质水平与纤维来源对盲肠液pH均无显著影响，这表明猪盲肠对进入其内的底物具有较强的缓冲能力，该结果与钟永兴[17的报道一致。在饲粮底物与盲肠液酶活性的关系上，Morita 等[18]和Liu等[9]发现增加饲粮中抗消化的蛋白质水平可以增加进入盲肠的底物含量，提高盲肠中总挥发性脂肪酸产生量；Rist 等[20]也表明饲粮中蛋白质水平可以影响猪后肠丁酸的产生量，进而改变盲肠中微生物的组成，而饲粮中蛋白质的水平对猪盲肠液消化酶活性的影响还未见相关报道。另外，在纤维类底物浓度较低时，难以检测到饲粮纤维水平对生长猪盲肠液中碳水化合物酶活性的影响，而在纤维类底物浓度较高的条件下，生长猪大肠内菌群的数量会显著增加[1-2],并且高纤维水平会凸显饲粮纤维来源对猪盲肠食糜纤维素酶活性的影响[23]。本试验中，饲粮的蛋白质水平与纤维来源均未影响盲肠液的水解酶活性，这主要是由于在当前的营养需要量下配制的饲粮粗蛋白质水平的差异以及中性洗涤纤维（NDF）含量低于 $1 5 \\%$ 时，纤维来源的差异经过胃、小肠的消化后在盲肠食糜中底物浓度的差异变小，不足以引起微生物产生的水解酶活性有统计显著性差异。这一结果与高理想[24]报道生长猪饲喂NDF含量低于 $20 \\%$ 的4种饲粮时，猪盲肠食糜中纤维素酶、木聚糖酶和葡聚糖酶活性没有显著差异相一致。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2生长猪盲肠液对饲粮及回肠末端食糜消化能力的差异 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "猪盲肠液中含有多种水解酶。若以目前饲用酶制剂的推荐添加量为参考制备模拟消化液[25-26],则盲肠液的非淀粉多糖酶、蛋白酶的活性远高于这些外源饲用酶在饲粮中添加的活性浓度。虽然本试验中生长猪饲喂不同饲粮后盲肠液中水解酶的活性并无统计学差异，但多种水解酶小微的差异组合在一起可能会导致消化能力的差异。Knudsen 等[1发现，当生长猪饲喂不同β-葡聚糖含量的饲粮时，大肠对饲粮纤维及碳水化合物的消化率呈线性增加。Jorgensen 等[27研究表明，生长猪采食低纤维饲粮和高纤维饲粮时，大肠对进入其内的干物质消化率分别为 $45 . 9 \\%$ 和 $6 4 . 7 \\%$ ，非淀粉多糖的消化率分别为 $5 5 . 9 \\%$ 和 $7 5 . 0 \\%$ 。这表明猪大肠对其内容物的消化能力受饲粮成分的影响。体外模拟消化也表明，猪大肠阶段模拟中添加不同的非淀粉多糖酶，饲粮的干物质和能量消化率均存在显著差异[28]。本试验采集的猪盲肠液仅经解冻、离心，保留了原肠液 $9 5 \\%$ 以上的酶活性，对底物消化后还原糖的释放量表达了盲肠液对碳水化合物的水解能力。不同来源的盲肠液显著地影响了其对饲粮的水解能力，而且该水解能力与盲肠液中木聚糖酶、葡聚糖酶、淀粉酶及中性蛋白酶的活性相关。在所检测的6种水解酶中，饲喂高蛋白质饲粮的猪盲肠液有5种水解酶的活性最低，而饲喂玉米-大豆皮饲粮的猪盲肠液有5种水解酶的活性最高，这2种盲肠液对6个饲粮的水解能力与此对应。这表明盲肠液中多种水解酶小微的变化组合在一起放大了水解能力的明显差异。而2种盲肠液对回肠末端食糜的水解能力均与木聚糖酶及淀粉酶的活性相关，这与猪饲喂玉米-豆粕饲粮后回肠末端食糜中木聚糖以及抗性淀粉的含量有关。此外，盲肠液对6种饲粮的水解能力远高于对2种回肠末端食糜的水解能力，这是由于回肠末端食糜是饲粮经过了胃和小肠的消化，大部分营养物质被分解吸收，从而减少了盲肠液中水解酶的作用对象。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 饲料蛋白质水平显著地影响猪盲肠食糜的干物质含量，对盲肠液pH和水解酶活性无显著影响；饲料纤维来源对盲肠食糜干物质含量、pH及水解酶活性均无显著影响。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 生长猪饲喂不同饲粮后，盲肠液的消化能力有显著差异。盲肠液中木聚糖酶、葡聚糖酶、中性蛋白酶及淀粉酶活性影响了对饲粮的消化能力，而木聚糖酶与淀粉酶活性影响了对回肠末端食糜的消化能力。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1] DELZENNE N M,NEYRINCK A M,CANI P D.Modulation of the gut microbiota by nutrients with prebiotic properties:consequences for host health in the context of obesity and metabolic syndrome[J].Microbial Cell Factories,2011,10（Suppl 1） :S10. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[2]VERVAEKE I J,DIERICK N A,DEMEYER D I,et al.Approach to the energetic importance of fibre digestion in pigs.II.An experimental approach to hindgut digestion[J].Animal Feed Science and Technology,1989,23(1/2/3):169-194. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[3]吴维达,解竞静,张宏福.不同日粮纤维对生长猪养分消化率和肠道结构形态的影响[J].畜牧与兽医,2016,48(6):57-60.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[4] PIEPER R,NEUMANN K,KROGER S,et al.Influence of fermentable carbohydrates or protein on large intestinal and urinary metabolomic profiles in piglets[J].Jourmal of Animal Science,201,90(Suppl 4):34-36. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[5]孙巍巍,葛婷,成艳芬,等.杜长大肥育猪大肠食糜养分分析及不同蛋白质水平对猪盲肠微生物体外发酵特性的影响[J].动物营养学报,2016,28(8):2353-2359.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[6]张永婧,刘强,张文明,等.不同纤维来源饲粮和细胞壁降解酶对猪肠道微生物菌群多样性的影响[J].动物营养学报,2016,28(10):3275-3283.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[7] VAREL V H,YEN J T.Microbial perspective on fiber utilization by swine[J].Journal of Animal Science,1997,75(10):2715-2722. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[8]王钰明.猪模拟小肠液的制备及仿生消化法测定饲料可消化养分含量的研究[D].硕士学位论文.北京:中国农业科学院,2015.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[9]张建智,赵峰,张宏福,等.基于T型套管瘘术的鸡小肠食糜流量变异规律的研究[J].动物营养学报,2011,23(5):789-798.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[10] DAHLQVIST A.A method for the determination of amylase in intestinal content[J].Scandinavian Journal ofClinical and Laboratory Investigation,1962,14(2):145-151. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[11] KNUDSEN K E B,JENSEN B B,HANSEN I.Digestion of polysaccharides and other major components in the small and large intestine of pigs fed on diets consisting of oat fractions rich in $\\beta$ -D-glucan[J].The British Joumal ofNutrition,1993,70(2):537-556. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[12] 陈亮.猪常用饲料能量和粗蛋白质消化率仿生评定方法的研究[D].博士学位论文.北京:中国农业科学院,2013.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[13]GOERKE M,EKLUND M,SAUER N,et al.Efect of feed intake level on ileal digestibilities of crude protein and amino acids in dietsfor piglets[J].Journal of the Science of Food and Agriculture,2012,92(6):1261-1266. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[14]钟永兴,梁展雯,胡光源,等.猪大肠消化生理的研究进展[J].中国畜牧杂志,2009,45(13):63-66.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[15]PIEPER R,BOUDRY C,BINDELLE J,et al.Interaction between dietary protein content and the source of carbohydrates along the gastrointestinal tract of weaned piglets[J].Archives of Animal Nutrition,2014,68(4):263-280. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[16]FRANKLIN M A,MATHEW A G,VICKERS JR,et al.Characterization of microbial populations and volatile fatty acid concentrations in the jejunum,ileum,and cecum of pigs weaned at 17 vs. 24 days of age[J].Journal of Animal Science,2002,80(11):2904-2910. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[17]钟永兴.猪饲料消化能值评定的仿生消化法研究[D].博士学位论文.广州:华南农业大学,2010.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[18] MORITA T,KASAOKA S,OH-HASHI A,et al.Resistant proteins alter cecal short-chain fatty acid profiles in rats fed high amylose cornstarch[J].The Jourmal of Nutrition,1998,128(7):1156-1164. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[19] LIU X X,BLOUIN J M,SANTACRUZ A,et al.High-protein diet modifies colonic microbiota and luminal environment but not colonocyte metabolism in the rat model:the increased luminal bulk connection[J].American Journal of Physiology:Gastrointestinal and Liver Physiology,2014,307(4):G459-G470. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[20] RIST V T S,WEISS E,EKLUND M,et al.Impact of dietary protein on microbiota composition and activity in thegastrointestinal tract of piglets in relation to gut health:a review[J].Animal,2013,7(7):1067-1078. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[21]杨玉芬.日粮纤维对于猪不同生长阶段消化生理和生产性能的研究[D].博士学位论文.呼和浩特:内蒙古农业大学,2001.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[22] VAREL V H,ROBINSON I M,JUNG H J.Influence of dietary fiber on xylanolytic and cellulolytic bacteria of adult pigs[J].Applied and Environmental Microbiology,1987,53(1):22-26. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[23]RODRIGUEZ Z,LOPEZ A,BOUCOURT R,et al.Fibre level and source on the concentration and cellulolytic activity of the intestinal microbiote of the pig[J].Cuban Joumal of Agricultural Science,2001,35(3):253-258. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[24]高理想.猪饲粮非淀粉多糖酶谱仿生优化方法的研究[D].博士学位论文.北京:中国农业科学院,2016.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[25]O'SHEA C J,ALPINE PO M,SOLANP,et al.The effect of protease and xylanase enzymes on growth performance,nutrient digestibility,and manure odour in grower-finisher pigs[J].Animal Feed Science & Technology,2014,189:88-97. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[26]廖睿.仿生消化法评估非淀粉多糖酶效应的研究[D].硕士学位论文.武汉:华中农业大学,2016.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "7] JORGENSEN H,ZHAO X Q,EGGUM B O.The influence of dietary fibre and environmental temoperature on the development of the gastrointestinal tract,digestibility,degree of fermentation in the hind-gut and energy metabolism in pigs[J].British Journal ofNutrition,1996,75(3):365-378. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[28] REGMI P R,FERGUSON N S,ZIJLSTRA R T.In vitro digestibility techniques to predict apparent total tract energy digestibilityofwheat in grower pigs[J].JournalofAnimal Science,2009,87(11):3620-3629. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Effects ofDietary Protein Levels and Fiber Sources on Characteristics ofCecal Fluid ofGrowing Pigs DANG Fangkun1ZHAO Feng1\\* GAO Lixiang2 GAO Qingtao1WANGYal ZHANGHul ZHAO Jiangtao²ZHANG Hongfu'WANG Jianbing²   \n(1. State Key Laboratory ofAnimal Nutrition,Institute ofAnimal Science, Chinese Academy ofAgricultural Science, Beijing 100193, China; 2. Guangdong Wens FoodstuffCo., Ltd, Xinxin 527400,China)   \nAbstract: The objective of this study was to investigate the efect of dietary protein levels and fiber sources on   \nthe activities of digestive enzyme and hydrolytic ability of cecal fluid, which willprovide a reference for   \nsimulating large intestinal fluid of growing pigs.The experiment 1 was conducted on the influence of dietary   \nprotein levels (the crude protein content in diet 1 and diet 2 was $1 9 . 0 3 \\%$ and $1 3 . 9 6 \\%$ ,respectively) on the   \ncomposition of cecal fluid of growing pigs. Using a completely randomized design,12 caecum-cannulated   \npigs were randomly divided into 2 groups according to the body weight. Each group consisted of 6 replicates   \nwith l pig in each.There were 5 days of adaption period and 10 days of test period. After the experiment 1   \nand pigs were recovered for 1O days,the experiment 2 used the similar experimental design as the   \nexperiment l and was conducted on the effects of dietary fiber sources (com-soybean hull diet for diet 3 and   \ncorn-wheat bran diet for diet 4) on the composition of cecal fluid of growing pigs.The experiment 3 was to   \nstudy the effects of substrates and sources of cecal liquid on the amount of released reducing sugar.Four ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Juiu pi ICtS1，2 3,4 and two corm-soybean meal diets (diets 5 and 6) as well as 2 sources of freeze-dried ileal digesta collected from the pigs fed diets 5 or 6 were used in a $4 { \\times } 8$ factorial arrangement. Each treatment contained 5 replicates with 1 digestion tube in each. The results showed as folows: 1) compared with low-protein diet, high-protein diet significantly decreased the dry matter content in cecal digeta $\\scriptstyle \\overbrace { P } \\leqslant 0 . 0 5 )$ , whereas the dietary protein level had no influence on the $\\mathfrak { p H }$ and activities of cellulase, xylanase, glucanase, amylase, neutral protease and acid protease in cecal fluid $( P { > } 0 . 0 5 )$ . 2) The source of dietary fiber didn't affect the dry matter content in cecal digesta, $\\mathfrak { p H }$ ，and activities of cellulose, xylanase, glucanase,amylase, neutral protease and acid protease in cecal fluid $( P { > } 0 . 0 5 )$ ). 3) The significant effect of source of cecal fluid and substrate as well as their interaction were observed on the amount of released reducing sugar $( P { < } 0 . 0 5 )$ . Higher enzyme activity of cecal fluid or low fiber content of diet made more reducing sugar release inthe in vitro digestion with cecal fluid.The activities of xylanase, glucanase, neutral protease and amylase significantly affected the digestive ability ofcecal fluid to the diets.However, the activities of xylanase and amylase significantly affected the digestive ability of cecal fluid to terminal ileal digesta.These results suggest that dietary nutrient levels don't affct the activities of 6 hydrolytic enzymes, however, the combination of smalldifference in activities of some hydrolytic enzymes leads to the differences in hydrolytic capacity ofcecal fluid. Kev words: growing pig: cecal digesta: activities of digestive enzvme: hvdrolvsis capacity ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

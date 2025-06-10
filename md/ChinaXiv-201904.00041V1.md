@@ -1,0 +1,300 @@
+# 非数值化特征的条件概率区域划分(CZT)编码方法
+
+贺亮¹，徐正国'，李」，沈超²
+
+(1．盲信号处理重点实验室，成都 610041;2.西安交通大学 智能网络与网络安全教育部重点实验室，西安 710049)
+
+摘要：非数值化特征经常出现在数据中，对其有效编码是采用机器学习模型解决问题的关键。针对目前被广泛使用的 one-hot 编码方法的编码结果具有较大的稀疏性，并且编码出的数值仍然没有明确的物理意义等问题，提出一种基于条件概率的区域划分编码算法CZT(conditional-probability-based zone transformation coding)。该方法首先对特征进行条件概率计算，并依据条件概率划分特征区域，按照区域内的联合条件概率进行编码；然后将CZT编码算法与one-hot算法进行对比分析,从理论上推导并证明CZT编码对特征的压缩率至少为每个特征取值空间的平均大小，同时证明经过CZT编码后的问题具有更简单的优化目标形式，利于设计后续机器学习算法；最后通过采用相同结构的神经网络进行分类，在titanic数据集下对比CZT算法和one-hot算法编码数据后对分类器性能的影响，结果表明CZT编码的数据在分类准确率和稳定性均有提升。
+
+关键词：深度学习；非数值化特征；特征工程；联合条件概率编码 中图分类号：TP391 doi:10.19734/j.issn.1001-3695.2018.10.0818
+
+Conditional-probability zone transformation coding for categorical features
+
+He Liang1, Xu Zhengguo1, Li Yun1, Shen Chao² (1.National KeyLaboratoryofScience&Technologyon Blind Signal Processing,Chengdu 610041,China;2.MOE Key Laboratory for Inteligent Networks &Network Security,Xi'an Jiaotong University,Xi'an710o49,China)
+
+Abstract:Categorical features always exist in thedatasetand coding themis a keyissue forsolving problems efficientlyby machine learning models.One-hotcoding isa wideaccepted method to convert the features into feature values,and however it atracts sparse space and meaningless value after coding.To improve the coding performance,a novel coding method based on conditional probabilityafter dividing the features into zones，which iscaled CZTcoding (Conditional-probability-based Zone Transformationcoding)，isdesigned.TheCZTcodingcalculates theconditional probabilityofeach featureandthen dividesthe features into several zonesand finalycoding thefeatures ineach zone.This paper mathematicaly proved thatcompared withthe state-of-the-art method-one-hotcoding, CZTcoding reduces the code length byat least the mean offeature spaces and the isse switches into an easier one after CZTcoding forthe following machine learning model.Finally,using the same neuron network as the clasifier,the performance ofCZTcoding and one-hot coding iscomparedby using the titanic dataset,and the result is that CZTcoding makesthe classifier performs better both on the accuracy and steadiness.
+
+Key words: deep learning; categorical features; feature engineering; conditional probability
+
+# 0 引言
+
+随着数据存储技术的发展，大量数据被存储，人工智能技术得以飞速发展。传统的机器学习算法中，模型的参数较少，少量数据即可对参数进行估计，对大数据量利用率较低，在算法模型选定后，刻画数据分布的函数形式随之限定，只需要根据提供的数据寻找合理的函数参数。而深度学习技术中，由链接结构的千变万化导致模型参数可以迅速增长，增加了神经网络的学习能力，使得深度学习在数据较大时仍然可以有效学习到数据的特征并且提高网络的性能。传统机器学习算法和深度学习算法在不同数据量下的性能对比[示意图如图1所示。
+
+传统的机器学习技术中，算法的参数较少，从而限制了算法在大量数据下对数据的利用能力。以支持向量机(supportvectormachine,SVM)为例，在考虑一般的核函数的情况下，SVM为Lagrange对偶乘子法，相应的分类平面即为数据维度空间下的线性模型，模型参数只与数据维度数量相当，即使数据再多，也无法拓展参数形式，分类器只取决于少量的支持向量，无法在数据增大的过程中对数据进行利用以挖掘更多数据特征。SVM的优势是可以在数据量较少的情况下，给出有效的支持向量用于分类。
+
+神经网络由边连接相应节点构成，其VC维(vapnik-chervonenkisdimension)[2]是节点数和边数的乘积，在有效的训练学习算法前提下，该网络可以逼近任何几乎处处连续的函数。但是由于VC维高，训练时需要的数据一般下认为是10倍的VC维，大数据量条件下，更适用于使用深度神经网对数据进行训练和学习以刻画和描述数据特征。在数据增多的情况下，深度学习仍然能有效学习出数据特征。在很多实际应用中表明，采用SVM进行分类器设计的算法，如果改成深度神经网络，则相应的算法速度、性能等方面在大数据条件下都将有所提升[3\~5]。可见，对于目前数据量逐渐增大的趋势下，深度学习能够更好地进行拓展和使用。
+
+深度学习以其强大的函数拟合能力和学习能力促进了人工智能和机器学习领域的发展，数据量的增长又反作用于深度学习，使其能够更加有效地学习数据内在的关系，从而分析出数据的潜在价值。实际问题中，数据中的特征经常是非数值化的，如性别、颜色、语言、文字[等，而神经网络需要处理数值化的输入，对这一类非数值化特征的处理，有一种比较常见的做法是采用one-hot 编码或是词嵌入方法[7\~9]。然而这一类方法会引入较大的向量空间冗余，并且具体的编码数值没有明确的数值意义。虽然深度学习用较深的神经网络来解决特征工程的问题[10]，期望通过位于前端的几层神经元对数据自动进行预处理，以达到对数据进行特征变化、特征提取等特征工程的问题，而实际中训练该特征工程网络层需要大量的训练数据和较高的调参数技巧，往往造成深度神经网络训练时间过长，甚至数据量不够而导致无法得到好的训练效果[II]。实际数据集中常遇到取值广泛的非数值化属性的情况，例如，话音中进行通信的用户双方在通话网络规模较大时用户数量也将会比较庞大，并且每个用户都是非数值化的取值；在自然语言处理中，每个单词便是一个非数值化取值，在文字量巨大的语言中，单词这一属性的取值空间将非常庞大；网络协议层中的IP地址也是非数值化的，为了利用 IP 地址这一属性，也需要对IP 地址进行数值化编码；某些具有庞大用户群体的手机应用中，用户ID较多且是非数值化，为了挖掘用户的规律习惯等信息，需要对ID进行数值化便于后续机器学习算法进行分析等场景。如果采用one-hot编码对上述列举的情况进行编码，则会导致编码结果是一个较为稀疏的高维向量，并且每一个向量中只用一位为1表示特定的用户、单词或者IP地址等。本文针对上面一类应用场景中的非数值化特征，提出一种基于区域划分的条件概率编码方法——CZT算法，以解决编码空间稀疏以及编码数值无意义的问题。数据量对传统机器学习和深度学习性能的影响如图1所示。
+
+# 1 非数值化特征及编码
+
+非数值化特征是数据集中经常遇到的一类属性。例如，在话音网络中，用户ID虽然被存储为数字，但是没有明确的数值意义，而对于机器学习算法，需要将这一类非数值化特征进行编码以供后续分类器利用。目前广泛接受的编码方法是one-hot 编码，即采用高维空间内的具有唯一非零值分量的高维向量作为特征的编码结果。本章介绍非数值化特征常用的预处理方式。
+
+# 1.1非数值化特征
+
+在采用机器学习算法进行分类时，默认输入的都是数值化的特征，各个特征通过一定的预处理后参与模型参数的计算，机器学习就是通过不断在数据上进行训练从而不断调优模型参数，以使模型更好地适应数据的过程[12]。数值化的特征一般也未必能直接使用，例如利用身高体重进行机器学习时，身高的单位一般为厘米而体重为千克，不同单位量纲的数据之间对数值直接相加不具有任何意义，因此常用的是对数据进行归一化操作，即对数据 $\boldsymbol { \cal X }$ 做如下处理：
+
+$$
+{ \hat { X } } = { \frac { X - \mathbb { E } X } { \sqrt { \mathbb { D } X } } } ,
+$$
+
+![](images/8e8f60c657ac756e355356df79ae6d45c785f02829342a8c18b29e3079aea79d.jpg)  
+图1数据量对传统机器学习和深度学习性能的影响 Fig.1Influence of dataset amount on performance of traditional machine learning and deep learning   
+图2特征工程与机器学习的架构关系  
+Fig. 2 Frame of feature engineering and machine learning
+
+在经过减去均值除以标准差的操作后，采用 $\hat { X }$ 作为输入训练数据，可以避免量纲的影响，各个特征之间的数值可以进行数学操作作为机器学习的训练数据。然而实际中更多的时候获得的是非数值化的特征，即特征的各种取值之间不具有明确的数值意义。例如，对于颜色这一特征，假设特征的取值空间为{红,黄,蓝}，则不能简单地认为可以把其分别编码为1,2,3，因为这里的数值是有数学意义的，即数值是有序的，而编码过程指定各个特征的映射是随机的。编码后的实数中，红和蓝分别为1和3，其差值比红和黄大，这些特征很可能被之后的机器学习模型所利用，而实际上该特征并没有这一特征，是在编码过程中人为引入了这一额外的数值特性。为了使编码不具有偏序性，需要考虑采用one-hot编码对这一类非数值化的特征进行编码。
+
+# 1.2 one-hot编码
+
+one-hot编码又被译为独热码或一位有效码，也缩写成OHC编码，其编码过程是根据特征的取值空间，设计相应的编码向量长度，并将相应的特征取值位置设置为1，其余为0。one-hot编码实现如下从特征到编码空间的映射，如果某一特征的取值空间是 $s$ ，则对于保序的特征空间 $\hat { \boldsymbol { s } }$ ，其第i个元素 $\mathbf { s } _ { i }$ 的编码结果为 $c \triangleq \big ( c _ { 1 } , . . . , c _ { | S | } \big ) , \mathcal { X } _ { j } = 1 _ { j = i } , j = 1 , 2 , . . . , | S |$ 。任何时候，one-hot编码的结果中只有一位有效位并且取值为1，其余位取值均为0。对非数值化数据先进行编码，得到的数值输入到分类器进行训练和分类，该方法的流程一般如图2所示。
+
+非数值化特征 编 数值化数据 分类 分类结果  
+颜色、性别等 码 器特征工程 机器学习如one-hot 编码 一 如 SVM、DNN等
+
+# 2 条件概率区域编码算法——CZT
+
+针对one-hot编码中编码结果维度高，只有唯一有效值而使输入数据转换成稀疏数据并且有效位数值没有物理意义等问题，本文提出基于条件概率密度的区域编码算法-CZT算法。该方法首先对非数值化特征进行区域划分，划分的原则是条件概率密度具有相同的取值空间；然后针对划分的区域结果对同一区域内的各个特征按照条件联合概率进行编码。
+
+# 2.1非数值化特征的数学描述
+
+对于某一个具体的分类问题，假设问题具有 $n$ 个标签$l _ { 1 } , l _ { 2 } , . . . , \hat { l } _ { n }$ ，这里的·表示元素具有顺序，不妨设重点关注的标签为 $l _ { 1 }$ ，各个标签对应的样本数据个数分别为 $m _ { 1 } , m _ { 2 } , . . . , m _ { n }$ ，则样本总量为
+
+$$
+m \triangleq \sum _ { i = 1 } ^ { n } m _ { i } ,
+$$
+
+数据集特征有特征1,特征2....特征 $K$ ，相应的数据集结构如表1所示。为了简化表述，所考虑数据均为非数值化特征，各维特征的非数值化取值空间分别为 $\mathcal { S } _ { 1 } , \mathcal { S } _ { 2 } , . . . , \mathcal { S } _ { K }$ ，并且每个取值空间具有元素个数分别为 $s _ { 1 } , s _ { 2 } , . . . , s _ { K }$ ，即 $s _ { i } \triangleq | S _ { i } | , i = 1 , 2 , . . . , K$ ，可记 $\boldsymbol { S _ { i } } = \{ F _ { 1 } , F _ { 2 } , \cdots , F _ { s _ { i } } \} , i = 1 , 2 , \cdots , K$ ，即实际数据中的属性 $i$ 的取值为 $f _ { i , \circ } \in S _ { i }$ 。虽然特征的取值是非数值化的，仍然可以用实数刻画，不妨 $F _ { \circ } \in \mathbb { R }$ 。例如，投掷立方体的取值空间是立方体的六个平面，但仍然可以将其标记为实数，只是这时的具体数值没有实数意义，即不能表明标记为1的平面与标记为6的平面有任何数值上1与6的关系，对这样的实验求期望也是没有意义的，然而深度学习方法较强的学习能力可能会学习到这一类关系。另一方面，还可以认为 $F _ { \circ }$ 是特征事件集合到实数 $\mathbb { R }$ 的泛函，即对相应特征取值的实数映射。对于特征i，取值为 $f _ { i , j } = F _ { j } \in \mathcal { S } _ { i }$ 记为事件 $\omega _ { j }$ ，该特征的全部事件记为 $\Omega _ { i }$ ，可以构造随机变量 $X _ { i } \left( \omega _ { j } \right) = F _ { j }$ ，即对每一维特征i，都可以看成是一个随机变量 $X _ { i } : \Omega _ { i } \to S _ { i } \subset \mathbb { R }$ ，本文直接用 $X _ { i }$ 表示特征i。对于非数值化特征的问题，随机变量是离散的，下面讨论的问题均以概率形式出现，涉及概率密度概念时,如无特殊说明，指该随机变量取值空间稠密但可以无一致连续要求的情况下，近似的概率密度曲线，此时概率密度为函数微元。
+
+表1非数值化数据集结构  
+Table1 Structure of dataset with categorical features.   
+
+<html><body><table><tr><td>特征1</td><td>特征2</td><td>特征3</td><td>…</td><td>特征K</td><td>标签</td></tr><tr><td>f1</td><td>f2.1</td><td>f3.1</td><td></td><td>f.1</td><td></td></tr><tr><td>f.2</td><td>f2.2</td><td>f3.2</td><td></td><td>f.2</td><td>1</td></tr><tr><td>：</td><td></td><td>：</td><td></td><td></td><td>：</td></tr><tr><td>fLm</td><td>f2.m</td><td>fm</td><td>…</td><td>f.m</td><td>1</td></tr><tr><td>fl.m+1</td><td>f2.m+1</td><td>f3m+1</td><td>…</td><td>f.m+1</td><td></td></tr><tr><td>：</td><td>：</td><td></td><td>…</td><td>：</td><td>：</td></tr><tr><td>f1,m+m</td><td>f2.m+m2</td><td>f3,m+m</td><td>…</td><td>f.m+m</td><td>h</td></tr><tr><td></td><td></td><td></td><td>…</td><td></td><td></td></tr><tr><td>fL.m-mm</td><td>f2.m-m</td><td>f3.m-m</td><td>…</td><td>f,m-m</td><td></td></tr><tr><td></td><td></td><td></td><td>…</td><td>：</td><td></td></tr><tr><td>f1.m</td><td>f2.m</td><td>f3.m</td><td></td><td>f.m</td><td></td></tr></table></body></html>
+
+每个特征的概率分布，其取值空间是离散的实数，记$\mathcal { V } ( X _ { i } )$ 表示特征 $i$ 的取值空间。定义属性 $i$ 和 $j$ 属于同一个区域(zone)，如果对于两个特征具有相同的取值空间，即$\mathcal { V } ( X _ { i } ) = \mathcal { V } \big ( X _ { j } \big )$ 。被划分到同一个区域内的各个特征的联合概率分布，称为这个区域的概率分布。本文提出的CZT算法依据实际数据集的特点，找到使划分出的各个区域具有不同的概率分布取值空间作为编码依据。
+
+# 2.2算法原理
+
+首先考虑对单个特征进行编码的情况，在关注标签 $l _ { 1 }$ 情况下，各个特征的概率函数为
+
+$$
+P _ { X _ { i } } \left( x | l _ { 1 } \right) \triangleq \operatorname* { P r } \left\{ X _ { i } = x | l _ { 1 } \right\} ,
+$$
+
+将特征 $X _ { i }$ 相应的取值 $x$ 编码为 $P _ { X _ { i } } ( x | l _ { 1 } )$ 。
+
+对于标签 $l _ { \mathrm { l } }$ 下的两个特征 $X _ { i } , X _ { j }$ ，若 $P _ { X _ { i } } \left( x | l _ { 1 } \right) = P _ { X _ { j } } \left( x | l _ { 1 } \right)$ ，此时如果将两个特征编码成相同的数字，容易造成混淆，因此需要采用 $P _ { X _ { i } , \mathbf { \mathcal { X } } _ { j } } \left( x _ { i } , x _ { j } \vert l _ { 1 } \right)$ 联合分布作为两个特征的编码。如果联合分布仍然与某个特征 $X _ { k }$ 具有相同的编码结果，则继续采用$P _ { X _ { i } , X _ { j } , X _ { k } } \left( x _ { i } , x _ { j } , x _ { k } \vert l _ { 1 } \right)$ 作为编码，直到不存在编码重复的结果为止。这里具有相同的编码结果的单个特征，在考虑联合分布后整体作为编码的若干特征，是在特征列表中按照一个区域考虑的，因此被称为划分到同一个区域中进行联合编码，如图3所示。本算法也是基于该划分区域的思想进行编码的，因此命名为CZT算法。据此法进行编码，一方面，可以增加对非数值化特征的编码能力，降低编码结果的维度；另一方面，可以降低稀疏性。
+
+图中将在标签 $l _ { \mathrm { l } }$ 下具有相同条件概率分布取值空间的特征划分为同一个区域，并用 $Z _ { 1 } , Z _ { 2 } , . . . , Z _ { k }$ 表示各个区域，对于同一个区域内的属性，采用联合条件概率密度进行编码，从而降低编码后数据的维度，并使编码数值具有条件概率的物理意义。
+
+对于不同的标签 $\left\{ l _ { 1 } , l _ { 2 } , . . . , l _ { n } \right\}$ ，存在 $n _ { 1 } , n _ { 2 }$ ，使得$P _ { X _ { i } } \left( x | l _ { n _ { 1 } } \right) = P _ { X _ { i } } \left( x | l _ { n _ { 2 } } \right)$ 时，如果采用特征编码，则两个标签下无法区分各个样本实际的不同。此时，也需要考虑结合其他特征共同编码，即进行区域划分。然而与上一种情况不同，下面分析如何选择参与共同编码的特征。
+
+图3CZT算法区域(zone)示意图  
+![](images/ec32fee29a5fb6d6350fc00e335840b7e1ab5d8490b3341c70907bd4e8a22e78.jpg)  
+Fig. 3 Schematic diagram of zone in CZT algorithm
+
+首先需要引入函数距离的定义：对连续型随机变量的概率密度函数 $f _ { 1 } ( x ) , f _ { 2 } ( x )$ ，其距离按照如下KL散度(K-Ldivergence):
+
+$$
+\mathcal { L } ( f _ { 1 } ( x ) , f _ { 2 } ( x ) ) \triangleq \int _ { - \infty } ^ { + \infty } f _ { 1 } ( x ) \log \frac { f _ { 1 } ( x ) } { f _ { 2 } ( x ) } \mathrm { d } x
+$$
+
+对离散型随机变量的概率分布 $p _ { 1 } ( x ) , p _ { 2 } ( x )$ ,其距离定义为
+
+$$
+\mathcal { L } ( p _ { 1 } ( x ) , p _ { 2 } ( x ) ) \triangleq \sum _ { x } p _ { 1 } ( x ) \log \frac { p _ { 1 } ( x ) } { p _ { 2 } ( x ) }
+$$
+
+基于如上定义，选择 $X _ { j }$ 满足
+
+$$
+X _ { j } = \underset { X } { \mathrm { a r g m i n } } \mathcal { L } \big ( P _ { X _ { i } } \left( x | l _ { n _ { 1 } } , l _ { n _ { 2 } } \right) , P _ { X } \left( x | l _ { n _ { 1 } } , l _ { n _ { 2 } } \right) \big ) ,
+$$
+
+即与重复编码一致的概率分布最近的特征划分到同一区域进行联合编码。当特征较多时，该方法需要遍历所有特征以找到与当前特征概率分布最接近的一个，可以引入一个距离阈值 $\theta$ ，当某个 $X _ { j }$ 与 $X _ { i }$ 的概率分布之距离小于该阈值时便可以选定该特征作为划分到同一区域的对象，进行联合编码，即
+
+$$
+\exists X _ { j } \in \{ X | \mathcal { L } \big ( P _ { X _ { i } } \left( x | l _ { n _ { 1 } } , l _ { n _ { 2 } } \right) , P _ { X } \left( x | l _ { n _ { 1 } } , l _ { n _ { 2 } } \right) \big ) < \theta \} ,
+$$
+
+将 $X _ { j }$ 与 $X _ { i } ,$ 划分到同一个区域。如果 $\theta$ 选择不合理，如选取较小，上面的集合可能为空，但经过各个距离函数的遍历计算，已经可以找到距离最小的 $X _ { j }$ 作为区域划分和联合概率编码的特征。
+
+若找到满足上述条件的 $X _ { j }$ 后，联合编码在 $l _ { n _ { 1 } } , l _ { n _ { 2 } }$ 下仍然相同，即 $P _ { X _ { i } , X _ { j } } \left( x _ { i } , { x _ { j } } \vert { l _ { n _ { 1 } } } \right) = P _ { X _ { i } , X _ { j } } \left( x _ { i } , x _ { j } \vert { l _ { n _ { 2 } } } \right)$ ，则依上法继续寻找 $X _ { k }$ ，直到编码不同。下证明，如果将全体特征均选为同一个区域作为联合分布编码，编码结果针对标签 $l _ { n _ { 1 } } , l _ { n _ { 2 } }$ 相同，则此时的标签 $l _ { n _ { 1 } } , l _ { n _ { 2 } }$ 不可分。
+
+当所有 $K$ 个特征在标签 $l _ { n _ { 1 } } , l _ { n _ { 2 } }$ 下属于同一个区域，即联合分布相同时，记 ${ \vec { \mathcal { X } } } ^ { \triangleq } { \left( X _ { 1 } , X _ { 2 } , . . . , X _ { K } \right) } ^ { \operatorname { T } }$ ，相应随机向量的取值记为${ \vec { x } } \triangleq \left( x _ { 1 } , x _ { 2 } , . . . , x _ { K } \right) ^ { \mathsf { T } }$ 为同一个区域，即
+
+$$
+P _ { \vec { x } } \left( \vec { x } | l _ { n _ { 1 } } \right) = P _ { \vec { x } } \left( \vec { x } | l _ { n _ { 2 } } \right) ,
+$$
+
+给定样本下，该样本属于这两个标签的概率之比值为
+
+$$
+\frac { P _ { \vec { x } } \left( l _ { n _ { 1 } } | \vec { x } \right) } { P _ { \vec { x } } \left( l _ { n _ { 2 } } | \vec { x } \right) } { = } \frac { P _ { \vec { x } } \left( \vec { x } | l _ { n _ { 1 } } \right) \operatorname* { P r } \left\{ l _ { n _ { 1 } } \right\} } { P _ { \vec { x } } \left( \vec { x } | l _ { n _ { 2 } } \right) \operatorname* { P r } \left\{ l _ { n _ { 2 } } \right\} } { = } \frac { \operatorname* { P r } \left\{ l _ { n _ { 1 } } \right\} } { \operatorname* { P r } \left\{ l _ { n _ { 2 } } \right\} } ,
+$$
+
+即比值为固定值，而这两个标签下的数据量在训练数据下不变，此时无论样本 ${ \vec { x } } = \left( x _ { 1 } , x _ { 2 } , \cdots , x _ { K } \right) ^ { \mathrm { T } }$ 如何选取，都不影响样本条件下两个标签 $l _ { n _ { 1 } } , l _ { n _ { 2 } }$ 的概率分布比值，因此无法对这两个标签进行区分，说明数据在这两个标签情况下不可分，对数据进行编码工作也无法区分这两类数据。因此，如果数据是可分的，CZT算法编码时便不会出现所有特征都划分到同一个区域内的情况。
+
+# 2.3CZT编码算法流程
+
+结合上面的算法原理，给出CZT算法流程如算法1所示。算法流程中，第一个for循环是对单个关注标签下的非数值化特征进行编码，主要考虑该标签下某些特征可能具有相同的编码结果，需要进一步进行区域划分，对其进行联合编码。第二个for循环主要针对不同标签下，存在同一特征编码相同的情况，此时需要进一步选择与这个特征的概率分布足够接近的特征划分为同一个区域并联合编码。流程中使用了for-break-else语句，其表示的含义是对for循环里面的内容，如果执行了break语句退出for循环，则不执行else语句内的操作，如果for循环成功遍历了所有操作并且没有执行break语句，则跳出循环后执行else 内的操作。算法的核心功能主要是在划分数据集某些特征为若干区域后，对区域内的特征依据该区域的条件概率分布进行编码，编码结果使得各个区 <据该区域的条件概率分布进行编码,戈具有互不相同的取值空间。
+
+算法1CZT编码算法流程  
+输入：非数值化特征 $X _ { 1 } , X _ { 2 } , . . . , X _ { K }$ 的 $\mathbf { \lambda } _ { m }$ 个  
+联合编码阈值 $\scriptstyle \theta > 0$ 。  
+输出：特征的数值化编码矩阵。  
+for $X _ { i }$ in $\left[ X _ { 1 } , X _ { 2 } , . . . , X _ { \kappa } \right]$ ：  
+计算 $P _ { X _ { i } } \left( x \middle | l _ { 1 } \right)$ 作为 $X _ { i }$ 的编码  
+for $X _ { j }$ in $\big [ X _ { 1 } , X _ { 2 } , . . . , X _ { i } \big ]$ ：if $P _ { X _ { i } } \left( x | l _ { 1 } \right) = P _ { X _ { j } } \left( x | l _ { 1 } \right)$ ：将 $\left( { { X } _ { i } } , { { X } _ { j } } \right)$ 划分到一个区域计算 $P _ { X _ { i } , \mathcal { K } _ { j } } \left( x _ { i } , x _ { j } \vert l _ { 1 } \right)$ 作为 $\left( { { X } _ { i } } , { { X } _ { j } } \right)$ 的编码if存在 $X _ { k }$ 的编码相同：继续递归划分区域并编码  
+for $X _ { i }$ in $\left[ X _ { 1 } , X _ { 2 } , . . . , X _ { K } \right]$ ：  
+for $l _ { s }$ in $[ l _ { 1 } , l _ { 2 } , . . . , l _ { n } ]$ ：计算 $P _ { X _ { i } } \left( X _ { i } \middle | l _ { s } \right)$ for $\mathbf { \mathcal { l } } _ { t }$ in $[ l _ { 1 } , l _ { 2 } , . . . , l _ { s } ]$ ：if $P _ { \boldsymbol { X } _ { i } } \left( \boldsymbol { x } | \boldsymbol { l } _ { \mathrm { s } } \right) = P _ { \boldsymbol { X } _ { i } } \left( \boldsymbol { x } | \boldsymbol { l } _ { t } \right)$ ：#寻找恰当的特征所属的区域for $X _ { j }$ in $\left[ X _ { 1 } , X _ { 2 } , . . . , X _ { K } \right]$ ：计算存储 $\mathcal { L } \left( P _ { X _ { i } } \left( x | l _ { s } , l _ { t } \right) , P _ { X _ { j } } \left( x | l _ { s } , l _ { t } \right) \right)$ （204号if $\mathcal { L } \big ( P _ { X _ { i } } \left( x | l _ { s } , l _ { t } \right) , P _ { X _ { j } } \left( x | l _ { s } , l _ { t } \right) \big ) < \theta$ ：将 $\left( { { X } _ { i } } , { { X } _ { j } } \right)$ 划分到一个区域将 $P _ { X _ { i } , \mathcal { K } _ { j } } \left( x _ { i } , x _ { j } \vert l _ { \mathrm { s } } , l _ { t } \right)$ 作 $\left( { { X } _ { i } } , { { X } _ { j } } \right)$ 编码breakelse:求 $\underset { x } { \mathrm { a r g m i n } } \mathcal { L } \big ( P _ { X _ { i } } \left( x | l _ { \mathrm { s } } , l _ { t } \right) , P _ { X } \left( x | l _ { \mathrm { s } } , l _ { t } \right) \big )$ （204将 $\left( { { X } _ { i } } , { { X } _ { j } } \right)$ 划分到一个区域将 $P _ { X _ { i } , \mathcal { X } _ { j } } \left( x _ { i } , x _ { j } \vert l _ { s } , l _ { t } \right)$ 作为 $\left( { { X } _ { i } } , { { X } _ { j } } \right)$ 编码if 存在编码相同：继续递并编码
+
+# 2.4CZT编码算法复杂度分析
+
+对于计算不同标签下的联合概率编码时，引入 $\theta$ 可以在一定误差范围内提前跳出联合概率计算的循环，然而最差情况下需要完全遍历所有已经计算的特征，因此针对不同标签，当发生编码重复时，计算复杂度为 $\mathrm { O } \left( m K ^ { 2 } \right)$ ，这里的 $\mathrm { O } ( \circ )$ 表示高阶无穷大渐近项。对于 $m$ 个样本，需要统计 $K$ 个特征的概率分布，基本操作的复杂度即为 $\mathrm { { O } } ( m K )$ ，综合两者分析结果，CZT编码算法时间复杂度为 ${ \mathrm { O } } ( m ^ { 2 } K ^ { 3 } )$ ，为多项式时间。
+
+# 3 CZT编码算法性能分析
+
+CZT算法对特征进行编码后，编码的空间不会具有很高维度，使得后续机器学习需要处理的问题得到简化。本章分别从CZT算法对特征空间编码后与one-hot相比的压缩率、后续机器学习算法待解决的优化问题以及算法的准确率等方面对CZT算法的性能给出理论推导。
+
+# 3.1特征空间压缩率
+
+在one-hot 编码中，每种非数值化特征的编码长度是由该特征的取值空间大小决定的，即特征 $i$ 的编码长度为 $s _ { i }$ ，并且只有一个值为1，其余为0，即 $\big ( c _ { 1 } , c _ { 2 } , . . . , c _ { s _ { i } } \big ) , c _ { j } \in \{ 0 , 1 \} , \sum _ { j = 1 } ^ { s _ { i } } c _ { j } = 1 \ , \$ 并且 $c _ { j }$ 的数值大小没有具体物理意义，只是代号数值化。从而对于每一个数据，其各个特征的编码结果为
+
+$$
+s \triangleq \sum _ { i = 1 } ^ { K } s _ { i } ,
+$$
+
+输入矩阵将是一个 $m \times s$ 的矩阵，每一行的行和为 $\boldsymbol { K }$ 。如果实际特征取值较为广泛，特征取值空间大，该矩阵将会是一个很稀疏的矩阵。
+
+采用CZT编码时，如果每一维特征都具有能区分的编码即划分出的各个区域只包含一个特征，不需要联合概率编码，此时每一维特征的非数值化取值都用相应的条件概率编码，因此只需要 $m { \times } K$ 的输入矩阵。若存在需要联合概率编码的情况，以及划分出的区域中存在多个特征，则只会比当前的输入维度更小，即 $m \times k \left( k < K \right)$ 的矩阵，矩阵中的数据都是非零数值，数据代表着各个特征或者联合特征的统计概率，具有一定物理意义，方便后续分类器利用该数值。
+
+对比CZT编码和one-hot编码，可以看出CZT编码的改进如下：a)编码出的矩阵维度大大降低；b)编码出的矩阵数据由稀疏矩阵变为非稀疏矩阵；c)矩阵的元素数值有具体的含义，不再是符号的简单数值化表达。CZT编码算法对特征空间的压缩率为
+
+$$
+\cfrac { m \times s } { m \times k } = \frac { s } { k } \geq \cfrac { \sum _ { i } ^ { K } s _ { i } } { K } \triangleq \overline { { s } } ,
+$$
+
+压缩率至少为 $\overline { { s } }$ ，即经过CZT编码算法后，每个数据的编码结果压缩率至少为每个特征取值空间的平均大小。
+
+# 3.2编码数据维度降低对分类问题的简化
+
+经过 one-hot 编码的数据点稀疏分布在高维空间内，即分布在 $s$ 维空间的晶格内，这里的晶格即为边长取1的高维立方体，并且严格有 $K$ 维取值为1，而经过CZT 编码的向量，各个维度含义是区域的条件概率，相应分布在最高 $K$ 维空间内，并且在空间内各个维度取值在(0.1之内取值。
+
+在原始系数空间内，晶格这一条件便是数据的内在联系，而这一联系对于分类器分类意义不大，对应之前提过的one-hot编码的0和1没有具体数值意义。对原始进行CZT编码后的空间分布更具有条件概率的实际意义，并且取值几乎处处连续。原始数据经过one-hot编码后的数据为 $C \in \mathbb { R } ^ { s }$ ，且其中的任意一个元素 $c _ { i } \in \{ 0 , 1 \}$ ， $\sum _ { i = 1 } ^ { s } c _ { i } = K$ ，经过CZT 编码后的数据为 $S \in \mathbb { R } ^ { k } \subset \mathbb { R } ^ { K }$ 。对于one-hot编码，没有对数据进行加工，可以看做是对非数值化数据的直接语义编码，即CZT编码算法也可以处理one-hot编码的结果，对其进行区域划分并统计条件概率作为编码结果，因此存在 $\mathcal { F } \in \mathbb { R } ^ { s \times K }$ ， $S = { \mathcal { F } } ( C )$ 。对于一个分类问题，可以看成在一定数据条件下最优化一定指标的问题，即
+
+$$
+\operatorname* { m i n } _ { D } L ( D , C ; \mathcal { F } ) _ { \circ }
+$$
+
+这里的优化变量即为分类器需要学习的分类平面，用 $D$ 表示，数据集也可以是CZT算法编码过的数据集 $s$ 。经过CZT编码后的数据取值空间可以认为是(0.1]上几乎处处连续的空间，而one-hot编码则是离散的0-1取值空间。采用CZT算法编码数据使后续机器学习算法待解决的问题的复杂度相应得到降低。
+
+# 3.3编码结果在空间分布的稳定性
+
+对于数据集 $\boldsymbol { \cal X }$ ，采用one-hot编码得到的编码结果中，每一维特征 $X _ { i }$ 编码成一个长度为 $s _ { i }$ 的一维向量，并且该向量只有一个元素为1，其余为0，因此方差为
+
+$$
+\mathbb { D } X _ { i } = \mathbb { E } X _ { i } ^ { 2 } - \mathbb { E } ^ { 2 } X _ { i } = \frac { 1 } { s _ { i } } - \frac { 1 } { s _ { i } ^ { 2 } } = \frac { s _ { i } - 1 } { s _ { i } ^ { 2 } } \sim \frac { 1 } { s _ { i } } \circ
+$$
+
+如果采用CZT编码，编码的结果至多为 $K$ 维，并且向量的每一位都是条件概率，介于0\~1间，根据CZT编码规则，相应的条件概率和为 $^ { 1 }$ ，即 $\sum _ { i = 1 } ^ { K } x _ { i } = 1$ 。相应的方差为
+
+$$
+\mathbb { D } X _ { i } = \mathbb { E } X _ { i } ^ { 2 } - \mathbb { E } ^ { 2 } X _ { i } = \frac { K \sum _ { i = 1 } ^ { K } x _ { i } ^ { 2 } - \left( \sum _ { i = 1 } ^ { K } x _ { i } \right) ^ { 2 } } { K ^ { 2 } } = \frac { K \sum _ { i = 1 } ^ { K } x _ { i } ^ { 2 } - 1 } { K ^ { 2 } } \circ
+$$
+
+下面对该结果进行方差分析，首先需要引入如下引理，对于一系列随机变量 $X _ { 1 } , X _ { 2 } , . . . , X _ { n }$ ， $X _ { i } \in [ 0 , 1 ]$ ，且 $\Sigma X _ { i } = 1$ ，当$X _ { n } = 1$ 且 $X _ { 1 } = X _ { 2 } = \cdots = X _ { n - 1 } = 0$ 时方差最大，当各个 $X _ { i }$ 均取值为均值 ${ \bar { X _ { i } } }$ 时，方差最小。如果每一个随机变量不相等，且最小相差 $\varepsilon$ 时，相应的取法类似，即令前 $^ { n - 1 }$ 个随机变量分别从0以 $\varepsilon$ 为间距取值，方差最大；令所有随机变量以 $\varepsilon$ 为间隔取值在均值 ${ \bar { X _ { i } } }$ 左右时，方差最小。
+
+极限状态下，如果某个编码的条件概率接近1，其他接近0时，上面的方差项最大，相应上确界为
+
+$$
+\operatorname* { s u p } \mathbb { D } X _ { i } = { \frac { K - 1 } { K ^ { 2 } } } ,
+$$
+
+在CZT编码中，保证各个编码结果互不相等，相应条件为 $\left| x _ { i } - x _ { j } \right| > \varepsilon$ ，此时相应的上确界可以认为在有 $\textstyle K - 1$ 个编码取值分别为 $0 , \varepsilon , 2 \varepsilon , . . . , ( K - 2 ) \varepsilon$ ，剩余一个编码结果为$1 - { \frac { 1 } { 2 } } ( K - 1 ) ( K - 2 ) \varepsilon$ 时取到，相应的方差上确界
+
+$$
+\operatorname* { s u p } \mathbb { D } X _ { i } = \mathbf { O } { \left( K ^ { 3 } \right) } \varepsilon ^ { 2 } - { \frac { 1 } { K } } + { \frac { K - 1 } { K ^ { 2 } } } ,
+$$
+
+方差取值最小，对应各个编码结果在均值附近取值。编码结果的均值为 ${ \bar { X } } _ { i } = { \frac { 1 } { K } }$ ，则令各个 $X _ { i }$ 在均值附近以 $\boldsymbol { \varepsilon }$ 为间隔取值。在 $\kappa$ 为偶数时， $K \triangleq 2 K _ { 0 }$ ，各个 $X _ { i }$ 取值为
+
+$$
+\begin{array} { c } { { { \displaystyle { \frac { 1 } { K } } - ( K _ { 0 } - 1 ) \varepsilon - \frac { \varepsilon } { 2 } , \frac { 1 } { K } - \left( K _ { 0 } - 2 \right) \varepsilon - \frac { \varepsilon } { 2 } , . . . , \frac { 1 } { K } - \frac { \varepsilon } { 2 } , } } } \\ { { { \displaystyle { \frac { 1 } { K } } + \frac { \varepsilon } { 2 } , . . . , \frac { 1 } { K } + \left( K _ { 0 } - 1 \right) \varepsilon + \frac { \varepsilon } { 2 } , } } } \end{array}
+$$
+
+$K$ 为奇数时, $K \triangleq 2 K _ { 0 } + 1$ ，各个 $X _ { i }$ 取值为
+
+$$
+\frac { 1 } { K } - K _ { 0 } \varepsilon , . . . , \frac { 1 } { K } - \varepsilon , \frac { 1 } { K } , \frac { 1 } { K } + \varepsilon , . . . , \frac { 1 } { K } + K _ { 0 } \varepsilon ,
+$$
+
+相应方差的下确界为
+
+$$
+\operatorname* { i n f } \mathbb { D } X _ { i } = \left\{ \begin{array} { l l } { \displaystyle \frac { K ^ { 2 } + 4 } { 8 } \varepsilon ^ { 2 } } & { \displaystyle , } \\ { \displaystyle \frac { K ^ { 2 } - 1 } { 1 2 } \varepsilon ^ { 2 } } & { \displaystyle \frac { 1 } { 2 } } \end{array} \right.
+$$
+
+对于下确界,CZT编码方法相应量级在 ${ \frac { K ^ { 2 } } { 1 0 } } \varepsilon ^ { 2 }$ ,而 one-hot编码为 $\frac { 1 } { s _ { i } }$ ，而由于 $s _ { i } \gg K$ ，从而 $\varepsilon = \frac { \sqrt { 1 0 } } { K \sqrt { s _ { i } } } \sim \frac { 1 } { K ^ { \frac { 3 } { 2 } } }$ 时两算法下确界相当。在CZT编码过程中，可以控制相差较大程度后的条件概率密度作为编码结果，因此 $\varepsilon$ 在实际操作时可以取到合理的数值，至少保证 $\varepsilon \gg \frac { \sqrt { 1 0 } } { K \sqrt { s _ { i } } }$ ，此时相应的CZT编码的方差结果较one-hot编码结果的数据分布形式方差更大，即类间离散度大，利于后面的分类器对数据进行分类，后面的实验可以验证，经过CZT编码后的数据用于分类时准确率和稳定性均有提升。
+
+# 4 CZT编码效果对比
+
+为了对比分析CZT算法的性能，对titanic数据集分别在CZT 算法和one-hot 编码下，使用相同的神经网络结构对Titanic生还人员进行预测，然后针对实验结果对比分析本文提出的CZT编码算法的性能优势。
+
+# 4.1数据集简介
+
+本文采用titanic数据集[13]作为实验对象，因为该数据集的非数值化特征比较多，并且结构简单，对其分类的研究比较透彻，易于与传统编码方法对比性能。该数据集根据乘客的基本信息，预测Titanic遇难时的生还情况。数据集中包括乘客的ID号、舱位等级、性别、年龄、上船地点、船舱号、船票价位等信息，其中很多均是非数值化特征。数据集具有部分缺失数据信息，需要采用众数或均值进行补全。使用该数据集对每名顾客的生存概率进行预测，一方面可以看成是对概率进行logistic 回归，另一方面也是对是否存活这一标签的二分类问题。本文将采用神经网络进行分类，对该数据集输出层只需要一个简单的神经元即可实现相应的回归或是二分类问题。
+
+# 4.2分类器设计
+
+为了探究CZT算法的性能，尽量降低由分类器自身影响而造成的分类错误情况或对数据的分类能力不足的问题，本文采用具有较强学习能力的神经网络作为分类器。分类器采用五层神经网络，该网络较传统神经网络的三层结构有所加深，但仍不足以称之为深度神经网络，因此此处仅称其为神经网络。同时，经过实验验证，五层神经网络针对该数据集已经具备较好的分类能力。具有五层的神经网络仍然需要反向传播算法修正神经权向量时的梯度弥散的问题，前四层网络的激活函数采用ReLU函数[14]，该函数具有如下激活形式
+
+$$
+\mathrm { R e L U } ( x ) = \operatorname* { m a x } \left\{ 0 , x \right\}
+$$
+
+其在正半轴导数为1，负半轴导数为0，可以避免梯度弥散问题，并已经在深度神经网络中被广泛采用。由于预测的是二值问题，采用sigmoid函数作为输出层的激活函数，则对应的输出值直接即为所需的分类结果，网络结构如图4
+
+所示。
+
+![](images/0ca6895b4c11803f0ed5723b3c6f5691911d6adae4b9c872c0852c8511683d91.jpg)  
+图4性能对比时采用的神经网络结构示意图 Fig.4Schematic diagram of neural network that is used in performance evaluation.
+
+网络的输入维度即为经过编码后的特征维度。对于采用one-hot编码的数据，由于每一个非数值特征的取值范围广泛，会产生稀疏高维的输入向量，而采用CZT编码的数据，该输入维度可以显著下降，同时向量中的每个分量的具体数值表示该特征对应的条件概率值，数值之间也具有明确的物理意义，有利于后层神经网络提取相应的特征信息。为了对比one-hot编码和CZT编码算法性能，采用的神经网络除了输入层神经元个数需要匹配编码后数据的维度，其余层次结构均相同。
+
+# 4.3算法性能
+
+分别在原始titanic数据集上进行one-hot和CZT编码，编码出的数据维度分别为196维和8维，对应的神经网络的输入层也分别是196个和8个神经元。对数据集进行随机划分，采用10折交叉检验(10-foldvalidation)，重复10、500和1000次的实验结果如表2所示，表中的OHC表示one-hot编码。
+
+表2CZT 编码算法性能对比  
+Table 2 Performance evaluation of CZT and one-hot coding(OHC)algorithm.   
+
+<html><body><table><tr><td colspan="6">one-notcodmng(OHC)aigorthn.</td></tr><tr><td rowspan="3">编码方式重复次数网络规模</td><td></td><td></td><td>错误率</td><td></td><td></td></tr><tr><td></td><td>平均</td><td>方差</td><td>最小</td><td>最大</td></tr><tr><td>OHC 10 356</td><td>3.670</td><td>4.827</td><td>2.694</td><td>4.938</td></tr><tr><td>CZT</td><td>10 168</td><td>2.402</td><td>1.531</td><td>1.796</td><td>3.143</td></tr><tr><td>OHC</td><td>500 356</td><td>5.084</td><td>2.411</td><td>2.357</td><td>10.44</td></tr><tr><td>CZT</td><td>500 168</td><td>4.400</td><td>1.183</td><td>0.337</td><td>9.764</td></tr><tr><td>OHC</td><td>1000 356</td><td>3.614</td><td>1.111</td><td>1.684</td><td>10.10</td></tr><tr><td>CZT</td><td>1000 168</td><td>2.929</td><td>0.892</td><td>1.571</td><td>9.764</td></tr></table></body></html>
+
+从表中可以看出：a）OHC算法编码出的数据维度高，导致后端需要采用更加复杂的网络输入层结构对其进行学习；b）CZT算法错误率下降，错误率方差降低，说明编码出的特征更有利于神经网络训练学习，得到的神经网络的性能更加稳定。图5是分别在10、250、750和次实验的结果用提琴图展示的效果。
+
+![](images/61b7fee6f1ee2da8ac83ee920e8d9e17fbe2e753643bd312391b45ab6ac3d829.jpg)  
+图5重复实验不同次数对应错误率的提琴图 Fig.5 Violin figure of error rates in various experiments
+
+图中横轴是重复的实验次数，纵轴是对应算法的分类错误率，提琴图中每个提琴型左侧蓝色表示采用one-hot编码重复实验后整个实验的错误率分布情况，右侧绿色对应CZT编码算法。重复实验较少时，如 $1 0 \sim 2 5 0$ 次，可以看出CZT编码算法的错误率方差较低。当重复到一定情况时，编码方式对算法错误率的影响逐渐稳定，两种编码算法对分类器错误率分布影响基本稳定。可以从错误率的分布提琴图中看出，CZT 算法的错误率较one-hot编码对数据处理后分类器错误率下降。
+
+# 5 结束语
+
+针对one-hot 等编码方式处理的数据，其结果具有高维度、稀疏性等问题。CZT 编码算法根据特征的条件概率特点对数据各维特征进行区域划分，并将同一区域的属性共同编码，编码出的数据维度低，同时相应的取值代表该特征区域的条件概率，具有一定的物理意义，为后续的分类器分类提供了较好的数据预处理结果。经过证明，CZT编码算法能够至少压缩各维特征取值空间大小的平均值倍数的编码长度，并且实验结果表明，CZT编码算法使分类器分类错误率下降，分类结果的稳定性提升。
+
+# 参考文献：
+
+[1]Yann L,Yoshua B,Geoffrey H.Deep learning[J].Nature,2O15,521 (7553):436.   
+[2]Xu Jianhua.Designing nonlinear classifiers through minimizing VC dimension bound [C]// Proc of International Symposium on Neural Networks.Berlin: Springer, 2005:900-905.   
+[3]Wang Xiaolong,Shrivastava A,Gupta A.A-Fast-RCNN:hard positive generation via adversary for object detection [C]//Proc of IEEE Conference on Computer Vision and Pattern Recognition.2017: 3039-3048.   
+[4]Chen Xinlei, Gupta A.An implementation of Faster RCNN with study forregion sampling[EB/OL]. (2017-02-08)[2018-10-15]. https://arxiv. org/abs/1702.02138.   
+[5]Sun Xudong,Wu Pengcheng,Hoi S C H. Face detection using deep learning:an improved faster RCNN approach[EB/OL]. (2017-01-28) [2018-10-15]. https://arxiv.org/abs/1701.08289.   
+[6]Lai Siwei,Liu Kang,Xu Liheng,et al. How to generate a good word embedding [J]. IEEE Intelligent Systems,2016,31(6): 5-14.   
+[7]Upadhyay S,Faruqui M,Dyer C,et al. Cross-lingual models of word embeddings:an empirical comparison [C]// Proc of the 54th Annual Meeting of the Association for Computational Linguistics．2016: 1661-1670.   
+[8] Balaji K,Nikaash P,Raghavender G.Learning vector-space representations of items for recommendations using word embedding models [M]//Procedia Computer Science.2016:2205-2210.   
+[9]Lauren P,Qu G,Yang Jucheng,et al.Generating word embeddings from an extreme learning machine for sentiment analysis and sequence labeling tasks [J]. Cognitive Computation,2018 (3): 1-14.   
+[10] Ledig C,Theis L，Huszar F,et al.Photo-realistic single image super-resolution using a generative adversarial network [C]// Proc of IEEE Conference on Computer Vision and Pattern Recognition.2016: 105-114.   
+[11] Trishul C,Yutaka S,Johnson A,et al.Project adam:building an efficient and scalable deep learning training system [C]//Proc of Usenix Conference on Operating Systems Design and Implementation. [S.1.]: USENIX Association,2016:571-582.   
+[12] Bishop C M.Pattern recognition and machine learning (information science and statistics) [M].New York: Springer-Verlag,2006 (4): 499.   
+[13] Titanic Dataset.Kaggle[EB/OL].https://www.kaggle.com/c/titanic/.   
+[14] Xavier G,Antoine B,Bengio Y.Deep sparse rectifier neural networks [C]//Proc of International Conference on Artificial Intelligence and Statistics.2011: 315-323.

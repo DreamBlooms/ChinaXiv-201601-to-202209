@@ -1,0 +1,108 @@
+# 临床研究
+
+# 术前血小板计数与结直肠癌患者预后的关系
+
+陈莉玲'，张 礼²,李玥伶'，李晓玲³,刘文辉4，燕 锦²，杨艳芳1  
+1四川大学华西公共卫生学院流行病与卫生统计学系,四川 成都 610041;2四川省肿瘤医院肠道外科,四川 成都 610041;宜宾市第一人民医院预防保健科,四川 宜宾 644000;广州市疾病预防控制中心,广东广州510000
+
+摘要：目的探讨术前血小板(PLT)计数与结直肠癌(CRC)患者预后的关系。方法 收集2010年1月\~2013年7月于四川省肿瘤医院行手术治疗的原发新发且临床病理资料完整的CRC病例486例，并对其预后进行前瞻性随访。分析术前血小板计数与临床病理因素的关系采用x检验;生存曲线比较采用Log-rank检验;单因素和多因素生存分析采用Cox比例风险回归模型。结果术前血小板计数与肿瘤部位、T分期和M分期有关(均 $P { < } 0 . 0 5$ )。不同术前血小板水平间的生存曲线在CRC患者及直肠癌患者中均有统计学差异(均 $P { < } 0 . 0 5$ )，而在结肠癌患者中未见统计学差异 $( P { > } 0 . 0 5 )$ 。多因素分析结果显示：术前高血小板水平是影响CRC患者预后的危险因素（ $\mathrm { R R } { = } 1 . 8 1 4 , 9 5 \%$ CI:1.056\~3.115);按肿瘤部位进行分层分析发现，术前高血小板水平是影响直肠癌患者预后的危险因素( $\mathrm { R R } { = } 2 . 7 1 8 , 9 5 \%$ CI:1.132\~6.526)，但在结肠癌患者中未发现此关系( $\mathrm { R R } { = } 1 . 3 9 6 , 9 5 \%$ CI:0.705\~2.765)。结论 术前血小板计数是影响CRC患者预后的重要因素,它可能成为预测直肠癌患者预后的一项重要指标,有关其与结肠癌患者的预后关系有待于进一步研究。
+
+关键词：结直肠肿瘤；血小板计数；预后
+
+# Association of preoperative platelet count with the prognosis of patients with colorectal cancer
+
+CHENLiling2,ZHANGLi,LIYueling1,LI Xiaoling,LIU Wenhui,YANJin,YANG Yanfangl DepartmentofEpidemiologyandBiostatistics，WestChinaSchoolofPublicHealth，SichuanUniersityChengdu604China; Departmentoftalgyiaoalcrspitalunaepmtedl Care,binpe'sala;auefetrodeou
+
+Abstract: Objective To explore the association between preoperative plateletcount and the outcomes of patients with colorectal cancer (CRC).Methods This study was conducted among a cohortof 486CRC patients,who underwent surgery in Sichuan ProvincialCancer Hospital between January2010and July2013and were prospectivelyfollwed upfor their outcomes.The asociation between preoperative plateletcountsandclinicopathologicfactorsof the patients wereanalyzed. Survival analysisof the patients was performed using log-rank test,andthefactors afecting the patients'outcomes were analyzedby univariate andmultivariateanalyses using theCox proportional hazardmodel. Results In thiscohort, preoperative platelet count was significantly asociated with the tumor site,depth of tumor invasion (T)，and distant metastasis (M) (all $P { < } 0 . 0 5 \mathrm { ; }$ ). Log-rank tests showed that in patients with CRC and rectal cancer, the overall postoperative survival difered significantly between high and low preoperative platelet count groups $( \chi ^ { 2 } { = } 8 . 8 1 3$ $\scriptstyle P = 0 . 0 0 3$ and $\chi ^ { 2 } { = } 5 . 1 1 0 .$ $P =$ 0.024, respectively), but this difference was not observed in patients with colon cancer $( P { < } 0 . 0 5 )$ . Multivariate analysis indicated that CRC patients with a high preoperative platelet count had a higher risk of death compared to those withalow platelet level afteradjustmentfortumorite,tumorgrade,TMstage,vascularinvasion,perneuralinvasion,andpreoperative CEA level $( \mathrm { R R = } 1 . 8 1 4 , \$ $9 5 \%$ CI: 1.056-3.115). In subgroup analysis, preoperative platelet count was identified as an independent prognostic factor in patients with rectal cancer ( $\mathrm { R R } { = } 2 . 7 1 8$ $9 5 \%$ CI: 1.132-6.526), but not in patients with colon cancer ( $\mathrm { { R R = 1 } } . 3 9 6 ,$ $9 5 \%$ CI: 0.705-2.765). Conclusion As an independent prognostic factor in CRC patients, preoperative platelet count mayserve asanimportant indicatorfor predicting theoutcomes ofrectalcancer,butits prognostic valueforcoloncancer needs further clarification.
+
+Key words: colorectal neoplasms; platelet count; prognosis
+
+结直肠癌(colorectalcancer,CRC)是全球罹患人数最多的三大癌症之一。近年来，我国结直肠癌的发病率和死亡率均呈上升趋势[1]。根据中国肿瘤登记地区2009\~2011年恶性肿瘤发病和死亡数据估计，2015年结直肠癌发病人数达37.6万，死亡人数达19.1万[2]。与2012年数据3相比，新发病例增加了 $4 8 . 6 \%$ ,死亡人数增加了 $3 7 . 4 \%$ 。随着医疗技术的发展，CRC患者的术后生存情况得到了一定的提高和改善，但其5年生存率仍徘徊在 $5 0 . 0 \%$ 左右[45]。因此,探索结直肠癌的预后因素及其可能机制，对改善患者的治疗效果和生存情况具有重要意义。
+
+目前已发现CRC患者的预后受到众多因素的影响，如组织病理形态学特征、染色体改变、基因突变、CD133和MEK等分子表达水平改变[。国外有研究[7-9]提示,术前血小板(platelets,PLT)计数与CRC患者的预后相关，它可能是预测CRC患者预后的一项重要指标。但是国内相关研究极为少见，已有的研究也多为回顾性研究,且样本量较小[10-11]。此外,在临床实践中,血小板的检测简单易行、成本低,若其能成为CRC患者预后的生物学标志物，将对预测和改善CRC患者的预后产生积极作用。本研究采用前瞻性随访研究的方法，对486例行手术治疗的CRC患者进行生存分析，以探讨术前血小板计数对患者预后的预测意义。
+
+# 1 资料和方法
+
+# 1.1研究对象
+
+选取2010年1月 ${ \sim } 2 0 1 3$ 年7月于四川省肿瘤医院肠道外科行手术治疗的原发新发CRC患者503例作为研究对象，签署知情同意书后组成随访队列。其中17例患者由于术前血小板计数缺失而排除，最终纳入合格病例486例，中位年龄58(23\~86)岁，男性277例$( 5 7 . 0 \%$ ），女性209例 $( 4 3 . 0 \%$ )；直肠癌患者315例$( 6 4 . 8 \% )$ ，结肠癌患者171例 $( 3 5 . 2 \%$ )；根治术患者436例 $( 8 9 . 7 \% )$ ，姑息术患者50例 $( 1 0 . 3 \% )$ )。研究对象均未伴发其他系统肿瘤，无自身免疫性疾病或全身感染
+
+# 1.2临床病理资料收集
+
+由经过统一培训的调查员查阅病历收集研究对象的临床病理资料，包括年龄、性别、肿瘤部位、肿瘤细胞分级、TNM分期、术前血小板计数等。其中，肿瘤细胞分级依据《结直肠癌诊疗规范(2010年版)》,采用WHO分级法；TNM分期依据美国癌症联合会（AmericanJoint CommitteeonCancer,AJCC)2010年制定的肿瘤分期手册第七版。
+
+# 1.3 随访
+
+以患者手术当日为随访起点，采用术后常规门诊随访和电话随访相结合的方式，收集研究对象的生存状态、死亡时间及死亡原因等资料。随访截止时间为2015年9月30日，中位随访时间为33.77(0.13\~65.13)月。486例患者中80人失访，失访率为 $1 6 . 5 \%$ 。
+
+# 1.4 统计学分析
+
+原始数据经核查整理后，采用Epidata3.1软件建立数据库，使用SPSS20.0软件进行数据分析。分析术前血小板计数与临床病理因素的关系采用x检验，生存曲线比较采用Log-rank检验，单因素和多因素生存分析采用Cox比例风险回归模型，检验水准 $\scriptstyle \mathrm { { \dot { a } = 0 . 0 5 } }$ 。依据临床中血小板的正常参考值上限，将患者分为高血小板水平组$( \mathrm { P L T } { > } 3 0 0 { \times } 1 0 ^ { 9 } / \mathrm { L }$ )和低血小板水平组 $( \mathrm { P L T } { \leqslant } 3 0 0 { \times } 1 0 ^ { 9 } / \mathrm { L }$ )。
+
+# 2结果
+
+# 2.1术前血小板计数与临床病理因素的关系
+
+高血小板水平者所占比例在结肠癌患者中高于直肠癌患者 $( \chi ^ { 2 } { = } 4 3 . 5 0 7 , P { < } 0 . 0 0 1 )$ ,在M1期CRC患者中高于M0期患者 $( \chi ^ { 2 } = 8 . 0 6 0 , P { = } 0 . 0 0 5$ );T1、T2、T3和T4期的CRC患者中高血小板水平者所占比例分别为 $0 . 4 . 3 \%$ 、$1 7 . 3 \%$ 和 $1 5 . 1 \%$ ,差异有统计学意义 $( \chi ^ { 2 } = 1 2 . 7 3 7 , P =$ 0.004)。未见术前血小板计数与患者性别、年龄、肿瘤细胞分级、脉管侵犯、外周神经侵犯、N分期以及术前CEA水平有关(均 $P { > } 0 . 0 5$ ，表1)。
+
+# 2.2术前血小板计数与CRC患者预后的关系
+
+高血小板水平组与低血小板水平组CRC患者的术后总生存率分别为 $5 8 . 8 \%$ 和 $7 5 . 8 \%$ 。Log-rank检验结果显示,两组患者的术后生存曲线有统计学差异 $( \chi ^ { 2 } =$ 8.813, $P { = } 0 . 0 0 3$ ，图1)。Cox多因素分析结果显示，调整肿瘤部位、肿瘤细胞分级、TNM分期、外周神经侵犯、脉管侵犯和术前CEA水平等因素后，，术前高血小板水平是影响CRC患者预后的危险因素( $\mathrm { R R } { = } 1 . 8 1 4 , 9 5 \%$ CI:1.056\~3.115,表2)。
+
+# 2.3术前血小板计数与不同肿瘤部位CRC患者预后的关系
+
+按肿瘤部位分层分析结果显示，在315例直肠癌患者中，高血小板水平组与低血小板水平组的术后总生存率分别为 $6 1 . 4 \%$ 和 $7 9 . 6 \%$ ,两组患者的术后生存曲线有统计学差异 $( \chi ^ { 2 } = 5 . 1 1 0 , P { = } 0 . 0 2 4$ ,图2)。Cox多因素分析中调整了肿瘤细胞分级、TNM分期、外周神经侵犯、脉管侵犯和术前CEA水平等因素后，术前高血小板水平是影响直肠癌患者预后的危险因素 $( \mathrm { R R } { = } 2 . 7 1 8 , 9 5 \%$ CI:1.132\~6.526)。在171例结肠癌患者中未发现术前血小板计数与预后有关( $\mathrm { R R } { = } 1 . 3 9 6$ $9 5 \%$ CI:0.705\~2.765,表3)。
+
+# 3讨论
+
+本研究结果显示，术前高血小板水平是影响CRC患者预后的危险因素，且术前血小板计数与肿瘤部位、T分期和M分期有关，与既往研究结论基本一致。Ishizuka等12]对453例日本CRC患者的Cox多因素分析结果显示，术前血小板计数与患者生存相关，TNMIV期患者中术前 $\mathrm { P L T } { > } 3 0 0 { \times } 1 0 ^ { 9 } / \mathrm { L }$ 者所占比例较I\~Ⅲ期患者高，但是未见其与肿瘤部位有关。Sasaki等3对636例日本CRC患者进行生存分析发现，术前血小板增多症 $( { \mathrm { P L T } } { \gtrsim } 3 7 0 { \times } 1 0 ^ { 9 } / \mathrm { L }$ )是CRC患者预后差的独立危险因素，T3\~T4期患者术前血小板中位值高于T1\~T2期患者，M1期患者术前血小板中位值高于M0期患者，未见术前血小板计数与肿瘤部位有关。Qiu等[的研究发现，治疗前 $\mathrm { P L T } { > } 4 0 0 { \times } 1 0 ^ { 9 } / \mathrm { L }$ 是影响CRC患者预后的独立危险因素，TNMⅢ\~V期患者中高血小板水平者所占比例较I\~Ⅱ期患者高，结肠癌患者中高血小板水平者所占比例较直肠癌患者高。由此可见，术前高血小板水平的结直肠癌患者易于发生浸润和转移，可能导致其预后较差。它与肿瘤部位的关系在各研究中的结果不一致,可能与血小板的分组界值未统一、研究对象存在种族差异[8等因素有关，但这些研究中结肠癌患者的高血小板水平者所占比例均高于直肠癌患者。
+
+表1结直肠癌患者术前血小板计数与其临床病理因素的关系 Tab.1 Association of preoperative platelet (PLT) count with the clinicopathologic factors of CRC patients   
+
+<html><body><table><tr><td>Variable</td><td>(PLT3wPIT°/L,n=42)</td><td>(PLT>30XLT07L,n-64)</td><td>x</td><td>P</td></tr><tr><td>Gender</td><td></td><td></td><td></td><td></td></tr><tr><td>Male</td><td>238/85.9%</td><td>39/14.1%</td><td>0.467</td><td>0.494</td></tr><tr><td>Female</td><td>184/88.0%</td><td>25/12.0%</td><td></td><td></td></tr><tr><td>Age (year)</td><td></td><td></td><td></td><td></td></tr><tr><td><60</td><td>231/85.9%</td><td>38/14.1%</td><td>0.483</td><td>0.487</td></tr><tr><td>≥60</td><td>191/88.0%</td><td>26/12.0%</td><td></td><td></td></tr><tr><td>Tumor site</td><td></td><td></td><td></td><td></td></tr><tr><td>Colon</td><td>125/73.1%</td><td>46/26.9%</td><td>43.507</td><td><0.001</td></tr><tr><td>Rectum</td><td>297/94.3%</td><td>18/5.7%</td><td></td><td></td></tr><tr><td>Tumor gradea</td><td></td><td></td><td></td><td></td></tr><tr><td>Low grade</td><td>337/86.6%</td><td>52/13.4%</td><td>0.067</td><td>0.795</td></tr><tr><td>High grade</td><td>85/87.6%</td><td>12/12.4%</td><td></td><td></td></tr><tr><td>Vascular invasion</td><td></td><td></td><td></td><td></td></tr><tr><td>Negative</td><td>365/86.7%</td><td>56/13.3%</td><td>0.049</td><td>0.825</td></tr><tr><td>Positive</td><td>57/87.7%</td><td>8/12.3%</td><td></td><td></td></tr><tr><td>Perineural invasion</td><td></td><td></td><td></td><td></td></tr><tr><td>Negative</td><td>368/86.2%</td><td>59/13.8%</td><td>1.294</td><td>0.255</td></tr><tr><td>Positive</td><td>54/91.5%</td><td>5/8.5%</td><td></td><td></td></tr><tr><td>TNM stage</td><td></td><td></td><td></td><td></td></tr><tr><td>I-II</td><td>196/87.1%</td><td>29/12.9%</td><td>0.029</td><td>0.865</td></tr><tr><td>III-IV</td><td>226/86.6%</td><td>35/13.4%</td><td></td><td></td></tr><tr><td>Primary tumor (T)</td><td></td><td></td><td></td><td></td></tr><tr><td>T1</td><td>28/100.0%</td><td>0/0.0%</td><td>12.737</td><td>0.004</td></tr><tr><td>T2</td><td>66/95.7%</td><td>3/4.3%</td><td></td><td></td></tr><tr><td>T3</td><td>81/82.7%</td><td>17/17.3%</td><td></td><td></td></tr><tr><td>T4</td><td>247/84.9%</td><td>44/15.1%</td><td></td><td></td></tr><tr><td>Lymph node metastasis (N)</td><td></td><td></td><td></td><td></td></tr><tr><td>N0</td><td>205/85.4%</td><td>35/14.6%</td><td>2.463</td><td>0.292</td></tr><tr><td>N1</td><td>140/90.3%</td><td>15/9.7%</td><td></td><td></td></tr><tr><td>N2</td><td>77/84.6%</td><td>14/15.4%</td><td></td><td></td></tr><tr><td>Distant metastasis (M)</td><td></td><td></td><td></td><td></td></tr><tr><td>M0</td><td>367/88.6%</td><td>47/11.4%</td><td>8.060</td><td>0.005</td></tr><tr><td>M1</td><td> 55/76.4%</td><td>17/23.6%</td><td></td><td></td></tr><tr><td>CEA (ng/mL)b</td><td></td><td></td><td></td><td></td></tr><tr><td>≤5</td><td>283/88.4%</td><td>37/11.6%</td><td>2.114</td><td>0.146</td></tr><tr><td>>5</td><td>139/83.7%</td><td>27/16.3%</td><td></td><td></td></tr></table></body></html>
+
+Highlyandmoderatelydiferentiated tubularadenocarcinomaandpapillryadenocarcinomaaredefinedaslow-grade tumors,and other tumors are defined as high-grade tumors.CEA: Carcinoembryonic antigen.
+
+![](images/b1ea8521776cbde86fc1b568b1783161a52db3c415fe9e34c76244fe164bd95f.jpg)  
+图1不同术前血小板水平的CRC患者术后生存曲线比较 Fig.1 Comparison of postoperative survival curves in CRC patients stratified by preoperative platelet count $\scriptstyle \cdot x ^ { 2 } =$ 8.813, $P { = } 0 . 0 0 3$ ）
+
+表2CRC患者预后相关因素的Cox比例风险回归模型分析 Tab.2 Analysis of prognostic factors of CRC patients using the Cox proportional hazards regression model\*   
+
+<html><body><table><tr><td rowspan="3">Variable</td><td colspan="2">Univariate analysis</td><td colspan="2">Multivariate analysis</td></tr><tr><td>RR (95% CI)</td><td>P</td><td>RR (95% CI)</td><td>P</td></tr><tr><td>Gender</td><td></td><td></td><td></td><td></td></tr><tr><td>Male</td><td>1.000</td><td></td><td></td><td></td></tr><tr><td>Female</td><td>0.880 (0.582-1.331)</td><td>0.546</td><td></td><td>1</td></tr><tr><td>Age (year)</td><td></td><td></td><td></td><td></td></tr><tr><td><60</td><td>1.000</td><td></td><td></td><td></td></tr><tr><td>≥60</td><td>0.953 (0.630-1.442)</td><td>0.821</td><td>1</td><td></td></tr><tr><td>Tumor site</td><td></td><td></td><td></td><td></td></tr><tr><td>Colon</td><td>1.000</td><td></td><td>1.000</td><td></td></tr><tr><td>Rectum</td><td>0.666 (0.44-1.008)</td><td>0.055</td><td>0.721 (0.462-1.125)</td><td>0.150</td></tr><tr><td>Tumor grade</td><td></td><td></td><td></td><td></td></tr><tr><td>Low-grade</td><td>1.000</td><td></td><td>1.000</td><td></td></tr><tr><td>High-grade</td><td>1.752 (1.113-2.758)</td><td>0.015</td><td>1.509 (0.952-2.392)</td><td>0.080</td></tr><tr><td>TNM stage</td><td></td><td></td><td></td><td></td></tr><tr><td>I-II</td><td>1.000</td><td></td><td>1.000</td><td></td></tr><tr><td>II-IV</td><td>4.287 (2.560-7.177)</td><td><0.001</td><td>3.539 (2.075-6.036)</td><td><0.001</td></tr><tr><td>Vessel invasion</td><td></td><td></td><td></td><td></td></tr><tr><td>Negative</td><td>1.000</td><td></td><td>1.000</td><td></td></tr><tr><td>Positive</td><td>1.630 (0.949-2.798)</td><td>0.077</td><td>0.981 (0.547-1.759)</td><td>0.949</td></tr><tr><td>Perineural invasion</td><td></td><td></td><td></td><td></td></tr><tr><td>Negative</td><td>1.000</td><td></td><td>1.000</td><td></td></tr><tr><td>Positive</td><td>2.654 (1.609-4.377)</td><td><0.001</td><td>2.132 (1.240-3.667)</td><td>0.006</td></tr><tr><td>CEA(ng/mL)</td><td></td><td></td><td></td><td></td></tr><tr><td><5</td><td>1.000</td><td></td><td>1.000</td><td></td></tr><tr><td>≥5</td><td>2.653 (1.757-4.007)</td><td><0.001</td><td>2.179 (1.430-3.322)</td><td><0.001</td></tr><tr><td>Preoperative PLT(10/L)</td><td></td><td></td><td></td><td></td></tr><tr><td>≤300</td><td>1.000</td><td></td><td>1.000</td><td></td></tr><tr><td>>300</td><td>2.084 (1.269-3.422)</td><td>0.004</td><td>1.814 (1.056-3.115)*</td><td>0.031</td></tr></table></body></html>
+
+\*Adjusted for tumor site,tumor grade,TNM stage,vessel invasion,perineural invasion and CEA
+
+![](images/1f2a6262a12e00bf71007465962a0d2702e2fc8af3f53412dbc808f8af4a9f96.jpg)  
+图2不同术前血小板水平的直肠癌患者术后生存曲 线比较 Fig.2 Comparison of postoperative survival curves in rectal cancerpatientsstratified by preoperative platelet count $\scriptstyle \chi ^ { 2 } = 5 . 1 1 0$ $\scriptstyle P = 0 . 0 2 4$ ）
+
+按肿瘤部位进行分层分析发现，术前血小板计数对患者预后的影响在结肠癌和直肠癌间存在差异，术前高血小板水平是直肠癌患者预后的危险因素，但在结肠癌患者中未发现此关系。分析原因可能是因为本研究中结肠癌患者病例数较少而不足以发现术前血小板计数与其预后的关系，也可能是因为术前血小板计数对预后的影响在结肠癌和直肠癌间确实存在差异。既往研究中较少按肿瘤部位进行分层分析,但是有研究[14]发现在无淋巴结转移的结肠癌患者中血小板增多症与不良预后有关。因此，术前血小板计数对结肠癌患者预后的影响，以及其对结肠癌和直肠癌患者预后影响的差异需要扩大样本量进行更深入细致的研究。
+
+肿瘤细胞可通过直接接触或者释放ADP、凝血酶、肿瘤相关蛋白酶等物质来激活血小板，促进血小板生成，同时血小板又可通过多种途径作用于肿瘤细胞从而影响患者的预后[15-17]。血小板影响CRC患者预后的可能机制[15-17]主要包括：(1)激活的血小板通过 $\mathbf { \bar { a } }$ -颗粒释放大量血小板源性生长因子(PDGF)、内皮生长因子(EGF)和血管内皮生长因子(VEGF)，促进肿瘤组织内新血管生成和细胞增殖;(2)血小板α-颗粒内含有大量趋化因子、细胞因子、基质金属蛋白酶及可溶性P选择素，能促进结直肠癌的迁移、侵袭浸润和淋巴结转移；(3)激活的血小板还可释放溶血磷脂酸(LPA)和1-磷酸鞘氨醇(S1P),这两种脂肪酸除了可促进肿瘤细胞增殖和迁移以外，还可加重血管和组织内皮细胞损伤，促进肿瘤细胞与内皮细胞之间的相互作用，引起内皮细胞退缩，使肿瘤细胞易于溢出血管外而发生转移；(4)血小板可在肿瘤细胞周围聚集，与肿瘤细胞形成血小板-肿瘤细胞栓子复合体，从而保护肿瘤细胞免受机体免疫系统的清除和流体剪切应力的影响；(5)血小板与肿瘤细胞的直接接触还可激活肿瘤细胞的NF- $\kappa \mathbf { B }$ 信号通路，增强肿瘤细胞的侵袭力。
+
+表3按肿瘤部位分层后的Cox多因素分析结果 Tab.3 Results of multivariate Cox regression analysis stratified by tumor site (adjusted for TNM stage,tumor grade,vessel invasion, perineural invasion and CEA)   
+
+<html><body><table><tr><td rowspan="2">Preoperative PLT</td><td colspan="2">Rectal cancer (n=315)</td><td colspan="2">Colon cancer (n=171)</td></tr><tr><td>RR (95% CI)</td><td>P</td><td>RR (95% CI)</td><td>P</td></tr><tr><td>≤300 (10/L)</td><td>1.000</td><td></td><td>1.000</td><td></td></tr><tr><td>>300 (10/L)</td><td>2.718 (1.132-6.526)</td><td>0.025</td><td>1.396 (0.705-2.765)</td><td>0.339</td></tr></table></body></html>
+
+目前国内关于术前血小板计数与CRC患者预后关系的研究还鲜有开展，已有的研究多为回顾性研究，样本量较小，随访期较短，未按肿瘤部位进行分层分析，甚至有的研究采用的是单因素分析方法。因此，本研究采用前瞻性随访研究的方法，在486例结直肠癌患者中延长随访时间，并且进行了多因素分析以控制混杂偏倚。此外,根据肿瘤部位的不同,本文还进一步对直肠癌和结肠癌患者的预后进行了分层分析。
+
+综上所述，术前血小板计数是影响CRC患者预后的重要因素，它可能在预测直肠癌患者的预后中具有重要意义，有关其与结肠癌患者的预后关系有待于扩大样本量进一步研究。
+
+# 参考文献：
+
+[1]张 玥,石菊芳，黄慧瑶,等.中国人群结直肠癌疾病负担分析[J].中华 流行病学杂志,2015,36(7):709-14.   
+[2]Chen W, ZhengR,Baade PD,et al. Cancer statistics in China,2015 [J]. CA CancerJClin,2016,66(2): 115-32.   
+[3]International Agency for Research on Cancer.GLOBOCAN 2012: estimated cancer incidence,mortality and prevalence worldwide in 2012[EB/OL].http:/globocan.iarc.fr/Pages/fact_sheets_cancer. aspx.   
+[4」龚杨明,吴春晓,张敏璐,等.上海人群结直肠癌生存率分析[J].中国 癌症杂志,2015,25(7):497-504.   
+[5」罗胜兰，胡如英,龚巍巍,等.浙江省2005-2010年结直肠癌生存率分 析[J].中华流行病学杂志,2013,34(12):1194-7.   
+[6]张利飞.结直肠癌预后预测研究进展[J].中国普通外科杂志,2015, 24(4): 581-8.   
+[7]Baranyai Z,Krzystanek M,Josa V,et al.The comparison of thrombocytosisandplatelet-lymphocyteratioaspotential prognostic markers in colorectal cancerJ].Thromb Haemost,2014, 111(3): 483-90.   
+[8]Wan S,Lai Y,Myers RE,et al.Preoperative platelet count associates with survival and distant metastasis in surgically resected colorectal cancer patients[J].J Gastrointest Cancer, 2O13,44(3): 293-304.   
+[9]Baranyai Z,Jósa V,Krzystanek M,et al. Evaluationof thrombocytosis as predictive factor in colorectal cancer[J].Magy Seb,2013,66(6):331-7.   
+[10]Lin MS,Huang JX,Zhu J,et al. Elevation of platelet count in patients with colorectal cancer predicts tendency to metastases and poor prognosis[J].Hepatogastroenterology,2012,59(118): 1687-90.   
+[11]Qiu MZ,Yuan ZY,Luo HY,et al．Impact of pretreatment hematologic profile on survival of colorectal cancer patients [J]. Tumour Biol, 2010,31(4): 255-60.   
+[12]Ishizuka M,Nagata H, Takagi K,et al.Preoperative thrombocytosis is associated with survival after surgery for colorectal cancer[J].J Surg Oncol,2012,106(7): 887-91.   
+[13]Sasaki K,Kawai K,Tsuno NH,et al.Impact of preoperative thrombocytosis on the survival of patients with primary colorectal cancer[J].WorldJ Surg,2012,36(1):192-200.   
+[14]Kandemir EG,Mayadagli A，Karagoz B，et al.Prognostic significance of thrombocytosis in node-negative colon cancer[J].J Int Med Res,2005,33(2): 228-35.   
+[15] Stegner D,Dütting S,Nieswandt B.Mechanistic explanation for platelet contribution to cancer metastasis[J].Thromb Res,2O14,133 (Suppl 2): S149-57.   
+[16]Buergy D,Wenz F,Groden C,et al. Tumor-platelet interaction in solid tumors[J].Int J Cancer,2012,130(12): 2747-60.   
+[17]Platelets NA.Inflammation and tissue regeneration[J].Thromb Haemost,2011,105: S13-33. (编辑：经媛)

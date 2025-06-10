@@ -1,0 +1,353 @@
+# On Plane Stress State and Stress Free Deformation of Thick Plate with FGM Interface under Thermal Loading
+
+Damian Szubartowski, Artur Ganczarski
+
+Department of Mechanical Engineering,Instituteof Applied Mechanics,Cracow Universityof Technology,Al.Jana PawlaII37,31-864Kraków,Poland
+
+This paper demonstrates the plane stress state and the stress free thermo-elastic deformationofFGM thick plate under thermal loading.First,the Sneddon-Locket theoremon the plane stress state in an isotropic infinite thick plate is generalized for acase ofFGM problem in which allthermo-mechanical properties are optional functions of depth co-ordinate.The proof is based on application ofthe Ijushin thermo-elastic potential to displacement type system of equations that reduces it to the plane stresstate problem.Then an existence of the purely thermal deformation is proved in two ways: first,itis shown that the unique solution fulfils conditionsof simultaneous constant temperature and linear gradation of thermal expansion coefficient,second,proof is based directly on stress type system of equations which straightforwardly reduces to compatibility equations for purely thermal deformation if only stress field is homogeneous in domain and at boundary.Finaly,couple examples of application to an engineering problem are presented.
+
+# Keywords: thick plate with FGM interface, plane stress state, stress free deformation
+
+# Introduction
+
+Functionally graded materials (FGMs) provide thermal insulation and mechanical toughness at high temperature by varyingthe composition of thermal conductivity coefficient, thermal expansion coefficient and Young's modulus from high temperature side to low temperature side continuously and simultaneously by removing the discontinuity of layered plate. These advantages cause that FGMs are applicable in many fields such as high performance enginesfor aerospace vehicles,turbine blades and heat-resisting tools.A general overview of thermal stresses in FGMs comprises work by Noda [1]
+
+Numerous analytical solutions of thermo-elastic plane or three-dimensional problems of FGMs take advantage of specific power or exponential function approximation methods of multi-layered composite plate,limiting simultaneously their generality and suggesting question how to reduce the problem. One way to attain this may be generalization of theorem on the plane stress state in an isotropic thermo-elastic thick plate proved by Sneddon and Lockett in [2]. The authors presented convinced proof for a problem of semi-infinite thermo-elastic medium bounded by two parallel planes and loaded by an arbitrary temperature field on one surface.The method of solution employed was the double Fourier transforms. The results confirmed solution of analogous problems, being inspiration to their work，received earlier by Sternberg and McDowell [3],based on Green's function, and by Muki [4],who used method combining the theory of Fourier series and the Hankel transforms of integral order.
+
+Recent achievements concerning application of FGM layer, treated directly as thermal barrier coating or indi
+
+#
+
+<html><body><table><tr><td colspan="4">Nomenclature</td></tr><tr><td>α</td><td>coefficient of thermal expansion</td><td>V</td><td>Poisson's ratio</td></tr><tr><td></td><td>coefficient of thermal conductivity</td><td>A,B, C</td><td>arbitrary constants</td></tr><tr><td></td><td>displacement potential</td><td>E,G</td><td>Young's and Kirchhoff's moduli</td></tr></table></body></html>
+
+<html><body><table><tr><td>8i</td><td>Kronecker's symbol</td><td>s = tr(oij)</td><td>trace of stress tensor</td></tr><tr><td></td><td>cylindrical components of strain tensor</td><td>{u,w}</td><td>axially symmetic displacement vector</td></tr><tr><td>Oij， Ti</td><td>stress tensor:axial and shear components</td><td>ui</td><td>displacement vector</td></tr><tr><td></td><td>dilatation</td><td>r,z</td><td>cylindrical co-ordinates</td></tr><tr><td>T,0</td><td> temperature and temperature change</td><td>Xi</td><td>Cartesian co-ordinates</td></tr></table></body></html>
+
+rectly as interface between coating and substrate，are mainly focused on plates or shells of thin or moderate thickness in which assumptions of plane stress or simplified 3D stress states are natural consequences of Kirchhoff-Love's or Reissner-Mindlin's hypotheses used. Contrary to aforementio-ned broad stream of papers the number of works concerning fully 3D problems,like thick plate or semi-space,is rather limited.Hence,let us mention several of them in chronological order: Senthil and Batra [5],Dai et al. [6],Pan and Han [7],Wang et al. [8], Jabbari et al.[9], Yang et al. [1O],Kulikov and Plotnikova [11].
+
+# FGM's - concept, fabrication and numerical modeling
+
+In many applications,especially in the space industry as well as electronic industry, structures or part of structures are exposed to high temperature, usually up to 2000K or even 350oK in some parts of rocket engines, high temperature gradients,and/or cyclic temperature changes.Conventional metallic materials, such as carbon steels or stainless steels:ASTM 321,ASTM310,nickelor aluminium-based alloys cannot resist such high temperatures. The first method to improve the resistance of metallic structures against extreme temperature conditions consists in covering the structure with a ceramic layer since ceramics are known for their high thermal resistance.For instance,in a metal-ceramic composite: Al-SiC the thermal conductivities ratio is approximately equal: $\lambda _ { \mathrm { m } } / \lambda _ { \mathrm { c } } = 3 . 6$ ，the thermal expansion coefficients ratio: $\alpha _ { \mathrm { m } } / \alpha _ { \mathrm { c } } = 5$ ，whereas the elastic moduli ratio: $E _ { \mathrm { m } } / E _ { \mathrm { c } } =$ 0.16.Indices m and c refer to metalic and ceramic materials respectively.Hence,at the metal-ceramic interface, severe discontinuity of thermo-mechanical properties occurs,which results in high strain and stress mismatch at the interface.As a consequence,delamination or failure of the coating is rapidly observed.As a remedy to these disadvantages the concept of Functionally Graded Materials -FGM,was developed in Japan in the 1980s, giving structural components a spatial gradient in thermomechanical properties. The spatial gradient is achieved by use of two-component composites. The volume fraction of the composite constituents varies spatially such that the effective thermo-mechanical properties change smoothly from one material (ceramic） to the other (metal).In this way,in the case of a Thermal Barrier Coating deposited on a metallic substrate,the heat-resistant ceramic layer and the solid metal are separated by functionally graded FG layer, the composition of which varies from pure ceramic to pure metal. The processing technologies for TBCs and FGMs may lead to residual stresses,which are built-in during cool-down from the elevated fabrication temperature.These residual stresses may be significant relative to thermo-mechanical stresses applied subsequently. As regards FG layer processing, Plasma Spray Thermal Barrier Coating leads to lamellar microstructures,whereas columnar-lamellar micro-structures are produced when using Electron Beam Physical Vapour Deposition, see Fig. 1.
+
+![](images/9182175de19aa42aff8ad16449950274dd38d903e3b52d60eda748f97574fb5d.jpg)  
+Fig.1 Microstructure of chemically graded Electron Beam Physical Vapour Deposition thermal barrier coating, after Schulz et al. [12].
+
+When the classical FEM based on homogeneous elements is used for FGMs,the material properties stay the same for all integration points belonging to one finite element. This means that material properties may vary in a piecewise continuous manner, from one element to the other and a unique possibility to model FGM structure is approximation by use of appropriately fine mesh. On the other hand,a too coarse mesh may lead to unrealistic stresses at the interface between the subsequent layers. To overcome this difficulty a special graded element has been introduced by Kim and Paulino [13] to discretize FGM properties.The material properties at Gauss quadrature points are interpolated there from the nodal material properties by the use of isoparametric interpolation functions.Contrary to the classical FEM formulation,the stiffness matrix of an element is expressed by the integral in which constitutive matrix is a function of the coordinates.In the original formulation the same shape functions are used for approximation of the displacement field and material inhomogeneity. However, from the numerical point of view nothing stands in the way of implementation of shape functions referring directly to the individual character of inhomogeneity, for instance power functions or exponential functions.
+
+# General Formulation of Fgm Thermoelastic Problem
+
+A thermo-elastic three-layer body under consideration (Fig.2) is bounded by two parallel planes normal to axis $x _ { 3 }$ and its FGM interface thermo-mechanical properties such as $\alpha , \lambda , \mathrm { E }$ and $G$ are arbitrary functions of $\dot { x } _ { 3 }$
+
+![](images/68281b4fbcb9376ae9b2b32b86532f384cd10ce2dd8df51a9b5f44dcdd9ad103.jpg)  
+Fig.2 Thick thermoelastic plate with FGM inteface under arbitrarythermal load.
+
+The plate is established a temperature field $T + \alpha { \bf { \chi } } _ { i } ) .$ where $T$ is the temperature of the solid corresponding to zero stress and strain.Also it is assumed that there are no body forces within the solid and that its surfaces are free from tractions.
+
+The system of equations of uncoupled thermo-elasticity expressed in displacements takes the form
+
+$$
+\begin{array} { r l } & { \nabla ^ { 2 } u _ { i } + \cfrac { 1 } { 1 - 2 \nu } \cfrac { \hat { c } \Theta } { \hat { c } x _ { i } } + \cfrac { 1 } { G } \cfrac { \hat { c } G } { \hat { \alpha } x _ { 3 } } \left( \cfrac { \hat { c } u _ { j } } { \hat { \alpha } x _ { 3 } } + \cfrac { \hat { c } u _ { 3 } } { \hat { \alpha } x _ { i } } \right) = } \\ & { 2 \frac { 1 + \nu } { 1 - 2 \nu } \cfrac { \hat { \alpha } ( \alpha \theta ) } { \hat { c } x _ { i } } } \\ & { \nabla ^ { 2 } u _ { 3 } + \cfrac { 1 } { 1 - 2 \nu } \cfrac { \hat { \alpha } \Theta } { \hat { \alpha } x _ { 3 } } + \cfrac { 2 } { G } \cfrac { \hat { \alpha } G } { \hat { \alpha } x _ { 3 } } \left( \cfrac { \hat { c } u _ { 3 } } { \hat { c } x _ { 3 } } + \cfrac { \nu \Theta } { 1 - 2 \nu } \right) = } \\ & { 2 \frac { 1 + \nu } { 1 - 2 \nu } \left[ \cfrac { \hat { \alpha } ( \alpha \theta ) } { \hat { c } x _ { 3 } } + \frac { 1 } { E } \cfrac { \hat { \alpha } E } { \hat { \alpha } x _ { 3 } } \alpha \theta \right] \nabla ^ { 2 } \theta + \frac { 1 } { \mathcal { L } } \cfrac { \hat { \alpha } \mathcal { L } } { \hat { \alpha } x _ { 3 } } \frac { \hat { \alpha } \theta } { \hat { \alpha } x _ { 3 } } = 0 } \end{array} ,
+$$
+
+in which Poisson's ratio is independent of $x _ { 3 }$ . All terms in Eqs（1） containing partial differentials of $\alpha , \lambda , E$ and $G$ with respect to $x _ { 3 }$ yield of FGM application and they are additional one in comparison with classical formulation of homogeneous material. The variation of temperature $\theta$ throughout the solid is determined by steady Fourier equation Eq. $( 1 _ { 3 } )$ in case of absence of inner heat sources.The relation between the stress tensor $\sigma _ { i j }$ and the displacement vector $u _ { i }$ is given by the Duhamel-Neumann equation
+
+$$
+\sigma _ { i j } = G \Bigg [ \frac { \hat { \partial } u _ { j } } { \hat { \partial } x _ { i } } + \frac { \hat { \partial } u _ { i } } { \hat { \partial } x _ { j } } + 2 \Bigg ( \frac { \nu ( \Theta - 3 \alpha \theta ) } { 1 - 2 \nu } - \alpha \theta \Bigg ) \delta _ { i j } \Bigg ]
+$$
+
+System of equations expressed in stresses (extension of Beltrami-Michell formulation) equivalent to Eq.（1） is as follows
+
+$$
+\begin{array} { r l } & { \nabla ^ { 2 } \sigma _ { i i } + \cfrac { 1 } { 1 + \nu } \left( \cfrac { \hat { \sigma } ^ { 2 } s } { \hat { \sigma } { x } _ { i } ^ { 2 } } - \nabla ^ { 2 } s \right) - 2 E \frac { \hat { \sigma } } { \hat { \sigma } { x } _ { 3 } } \left( \cfrac { 1 } { E } \right) \times } \\ & { \left[ \cfrac { \hat { \sigma } \sigma _ { j j } } { \hat { \sigma } { x } _ { 3 } } - \cfrac { \nu } { 1 + \nu } \cfrac { \hat { \sigma } s } { \hat { \sigma } { x } _ { 3 } } \right] - E \frac { \hat { \sigma } ^ { 2 } } { \hat { \sigma } { x } _ { 3 } ^ { 2 } } \left( \cfrac { 1 } { E } \right) \left[ \sigma _ { j j } - \cfrac { \nu } { 1 + \nu } s \right] + } \\ & { \cfrac { E } { 1 + \nu } \left[ \cfrac { \hat { \sigma } ^ { 2 } ( \alpha \theta ) } { \hat { \sigma } { x } _ { i } ^ { 2 } } - \nabla ^ { 2 } ( \alpha \theta ) \right] = 0 } \end{array}
+$$
+
+$$
+i , j = 1 , ~ 2 , ~ i \ne j ~ \mathrm { n o ~ s u m } \mathrm { o v e r } ~ i , j
+$$
+
+$$
+\nabla ^ { 2 } \sigma _ { 3 3 } + \frac { 1 } { 1 + \nu } \Biggl ( \frac { \partial ^ { 2 } s } { \partial x _ { 3 } ^ { 2 } } - \nabla ^ { 2 } s \Biggr ) +
+$$
+
+$$
+\frac { E } { 1 + \nu } \Bigg [ \frac { \hat { \sigma } ^ { 2 } ( \alpha \theta ) } { \hat { \sigma } x _ { 3 } ^ { 2 } } - \nabla ^ { 2 } ( \alpha \theta ) \Bigg ] = 0
+$$
+
+$$
+\nabla ^ { 2 } \tau _ { i j } + \frac { 1 } { 1 + \nu } \frac { \hat { \partial } ^ { 2 } s } { \partial x _ { i } \hat { \partial } x _ { j } } + \frac { \hat { \partial } } { \hat { \partial } x _ { 3 } } \Biggl ( \frac { 1 } { E } \Biggr ) \Biggl [ \frac { \hat { \partial } \sigma _ { k k } } { \hat { \partial } x _ { i } } -
+$$
+
+$$
+\frac { 1 } { 1 + \nu } \frac { \hat { \sigma } s } { \hat { \sigma } x _ { i } } - \frac { \hat { \sigma } \tau _ { k i } } { \hat { \sigma } x _ { k } } \Bigg ] + \frac { E } { 1 + \nu } \frac { \hat { \sigma } ^ { 2 } ( \alpha \theta ) } { \hat { \sigma } x _ { i } \hat { \sigma } x _ { j } } = 0
+$$
+
+$$
+i , j , k = 1 , \ 2 , \ 3 \ \mathrm { \ a n d } i \neq j \neq k
+$$
+
+$$
+\nabla ^ { 2 } \theta + \frac { 1 } { \lambda } \frac { \partial \lambda } { \partial x _ { 3 } } \frac { \partial \theta } { \partial x _ { 3 } } = 0
+$$
+
+It worth to notice that equations $( 3 _ { 1 - 3 } )$ can be obtained either in classical way or directly from equations $( 1 _ { 1 - 2 } )$ according to concept by Ignaczak [14].
+
+# Conditions of Plane Stress State
+
+To solve Eqs(1) the following potential, originally pro posed by Iljushin et al.[15], is introduced
+
+$$
+\begin{array} { l } { { u _ { i } = \displaystyle \frac { \partial \phi } { \partial x _ { i } } ~ i = 1 , 2 ~ f ( x _ { 3 } ) = A x _ { 3 } ^ { 2 } + B x _ { 3 } + C } } \\ { { u _ { 3 } = - \displaystyle \frac { \partial \phi } { \partial x _ { 3 } } + f ~ \alpha \theta = 2 \displaystyle \frac { 1 - \nu } { 1 + \nu } A x _ { 3 } - \displaystyle \frac { 1 } { 1 + \nu } \displaystyle \frac { \partial ^ { 2 } \phi } { \partial x _ { 3 } ^ { 2 } } } } \end{array}
+$$
+
+where function of displacement potential $\phi$ is of harmonic type
+
+$$
+\nabla ^ { 2 } \phi = 0
+$$
+
+Simple introducing of definitions(3） to Eqs(1） shows that only equations of mechanical state are satisfied as identity
+
+$$
+\begin{array} { r l } & { \frac { \partial } { \partial x } ( \frac { 1 } { \sqrt { 2 } } \frac { \partial y } { \partial x } - \frac { 1 } { 2 } \frac { \partial ^ { 2 } \theta } { \partial x ^ { 2 } } ) = \frac { 1 } { \sqrt { 2 } } \frac { \partial } { \partial x } ( \frac { 1 } { \sqrt { 2 } } \frac { \partial y } { \partial x } - \frac { \partial ^ { 2 } \theta } { \sqrt { 2 } } \frac { \partial y } { \partial x ^ { 2 } } + z ^ { 2 } ) + \frac { 1 } { \sqrt { 2 } } ( \frac { 1 } { 2 } \frac { \partial ^ { 2 } \theta } { \partial x } + z ^ { 2 } ) } \\ & { \phantom { + } \frac { 1 } { \sqrt { 2 } } ( \frac { 1 } { 2 } \frac { \partial z } { \partial x } + \frac { \partial ^ { 2 } \theta } { \partial x ^ { 2 } } ) = \frac { 1 } { \sqrt { 2 } } ( \frac { 1 } { 2 } \frac { \partial ^ { 2 } \theta } { \partial x } ) } \\ & { \phantom { + } \frac { 1 } { \sqrt { 2 } } ( \frac { 1 } { 2 } \frac { \partial ^ { 2 } \theta } { \partial x } - \frac { \partial ^ { 2 } \theta } { \sqrt { 2 } } \frac { \partial y } { \partial x ^ { 2 } } ) } \\ & { = - \frac { 1 } { \sqrt { 2 } } \frac { \partial ^ { 2 } \theta } { \sqrt { 2 } } \frac { \partial ^ { 2 } \theta } { \sqrt { 2 } } \frac { \partial ^ { 2 } \theta } { \sqrt { 2 } } \frac { \partial ^ { 2 } \theta } { \sqrt { 2 } } } \\ & { - \frac { 1 } { \sqrt { 2 } } \frac { \partial ^ { 2 } \theta } { \sqrt { 2 } } \frac { \partial ^ { 2 } \theta } { \sqrt { 2 } } \frac { \partial ^ { 2 } \theta } { \sqrt { 2 } } \frac { \partial ^ { 2 } \theta } { \sqrt { 2 } } \frac { \partial ^ { 2 } \theta } { \sqrt { 2 } } \frac { \partial ^ { 2 } \theta } { \sqrt { 2 } } } \\ &  \phantom { + } \frac { 1 } { \sqrt { 2 } } \frac { \partial ^ { 2 } \theta } { \sqrt { 2 } } \frac { \partial ^ { 2 } \theta } { \sqrt { 2 } } [ \frac { \partial ^ { 2 } \theta } { \partial x } - \frac { \partial ^ { 2 } \theta } { \sqrt { 2 } } \frac { \partial ^ { 2 } \theta } { \sqrt { 2 } } - \frac { \partial ^ { 2 } \theta } { \sqrt { 2 } } \frac { \partial ^ { 2 } \theta } { \sqrt { 2 } } \frac { \partial ^ { 2 } \theta } { \sqrt { 2 } } \frac { \partial ^ { 2 } \theta } { \sqrt { 2 } } \frac { \partial ^ { 2 } \theta } { \sqrt { 2 } } \frac  \partial \end{array}
+$$
+
+The stress components referring to the plane stress state with respect to axis $x _ { 3 }$ （20
+
+$$
+\begin{array} { r l } & { \tau _ { 5 3 } = G \Bigg [ \frac { \widetilde { \omega } t _ { 4 } } { \widetilde { \omega } _ { 3 } } + \frac { \widetilde { \omega } t _ { 4 } } { \widetilde { \omega } _ { 5 } } \Bigg ] = \mathrm { d } \Bigg ( \underbrace { \widetilde { \omega } _ { k , i } ^ { \mathrm { 2 } } \widetilde { \omega } _ { 5 } } _ { - \widetilde { \omega } _ { k } \widetilde { \omega } _ { 5 } \widetilde { \omega } _ { 4 } } - \frac { \widetilde { \omega } ^ { 2 } \Theta } { \widetilde { \omega } _ { 5 } \widetilde { \omega } _ { 4 } } \Bigg ) = 0 } \\ & { \sigma _ { 3 3 } = 2 G \Bigg [ \frac { \widetilde { \omega } t _ { 3 } } { \widetilde { \omega } _ { 5 } } - \omega \delta + \frac { \nu } { 1 - 2 \nu } ( \mathrm { e } ^ { - \mathrm { i } \omega _ { k } } ) \Bigg ] } \\ & { = 2 G \Bigg [ - \frac { \widetilde { \omega } ^ { 2 } } { \widetilde { \omega } _ { 3 } ^ { 2 } } + 2 4 x _ { 3 } + 8 - 2 \frac { 1 - \nu } { 1 + \nu } \mathcal { A } x _ { 3 } + \frac { 1 } { 1 + \nu } \times } \\ & { \frac { \widetilde { \omega } ^ { 2 } \phi } { \widetilde { \omega } _ { 3 } ^ { 2 } } + \frac { \nu } { 1 - 2 \nu } \Bigg [ \underbrace { \nabla _ { \phi } ^ { 2 } \phi - 2 \widetilde { \omega } _ { 5 } ^ { 2 } \phi } _ { \longrightarrow } + 2 4 x _ { 3 } + B } \\ & { - \Bigg \{ 2 \frac { 1 - \nu } { 1 + \nu } \mathcal { A } x _ { 3 } - \frac { 1 } { 1 + \nu } \frac { \partial ^ { 2 } \phi } { \widetilde { \omega } _ { 5 } ^ { 2 } } \Bigg \} \Bigg ] = 2 G \frac { 1 - \nu } { 1 - 2 \nu } B } \end{array}
+$$
+
+also identically equal to zero when $B = 0$ are also identically equal to zero when $B = 0$ for any point $x _ { i } ,$ （204号 what proves that Eqs(4) transform original mechanical problem Eq.(1) into plane stress one
+
+$$
+\begin{array} { l } { { \overline { { { \nabla } } } ^ { 2 } \phi + 2 ( 1 - \nu ) A x _ { 3 } - ( 1 + \nu ) \alpha \theta = 0 } } \\ { { \nabla ^ { 2 } \theta + \displaystyle \frac { 1 } { \lambda } \frac { \partial \lambda } { \partial x _ { 3 } } \frac { \partial \theta } { \partial x _ { 3 } } = 0 } } \end{array}
+$$
+
+where $\overline { { \nabla } } ^ { 2 } = \partial ^ { 2 } / \partial x _ { 1 } ^ { 2 } + \partial ^ { 2 } / \partial x _ { 2 } ^ { 2 }$
+
+It is obvious that the Iljushin potential (4) rewritten to the form suitable for axial symmetry $x _ { 1 } = r , x _ { 3 } = z , u _ { 1 } = u$ （204 and $u _ { 3 } = w$ （204号
+
+$$
+\begin{array} { l c l } { { u = \displaystyle \frac { \hat { \sigma } \phi } { \hat { \sigma } r } } } & { { f ( z ) = A z ^ { 2 } + B z + C } } \\ { { w = - \displaystyle \frac { \hat { \sigma } \phi } { \hat { \sigma } z } + f } } & { { \alpha \theta = 2 \displaystyle \frac { 1 - \nu } { 1 + \nu } A z - \displaystyle \frac { 1 } { 1 + \nu } \displaystyle \frac { \hat { \sigma } ^ { 2 } \phi } { \hat { \sigma } z ^ { 2 } } } } \end{array}
+$$
+
+satisfies as identity the two first equations of following system
+
+$$
+\begin{array} { l } { { \displaystyle \nabla ^ { 2 } u + \frac { 1 } { 1 - 2 \nu } \frac { \partial \Theta } { \partial r } + \frac { 1 } { G } \frac { \partial G } { \partial z } \bigg ( \frac { \partial u } { \partial z } + \frac { \partial w } { \partial r } \bigg ) = } } \\ { { \displaystyle 2 \frac { 1 + \nu } { 1 - 2 \nu } \frac { \partial ( \alpha \theta ) } { \partial r } } } \\ { { \displaystyle \nabla ^ { 2 } w + \frac { 1 } { 1 - 2 \nu } \frac { \partial \Theta } { \partial z } + \frac { 2 } { G } \frac { \partial G } { \partial z } \bigg ( \frac { \partial w } { \partial z } + \frac { \nu \Theta } { 1 - 2 \nu } \bigg ) = } } \\ { { \displaystyle 2 \frac { 1 + \nu } { 1 - 2 \nu } \bigg [ \frac { \partial ( \alpha \theta ) } { \partial z } + \frac { 1 } { E } \frac { \partial E } { \partial z } \alpha \theta \bigg ] } } \\ { { \displaystyle \nabla ^ { 2 } \theta + \frac { 1 } { \lambda } \frac { \partial \lambda } { \partial z } \frac { \partial \theta } { \partial z } = 0 } } \end{array}
+$$
+
+as well as the stress components referring to the $z$ axis
+
+$$
+\begin{array} { l } { \displaystyle \tau _ { r z } = G \Biggl ( \frac { \hat { \partial } u } { \hat { \partial } z } + \frac { \hat { \partial } w } { \hat { \partial } r } \Biggr ) } \\ { \displaystyle \sigma _ { z } = 2 G \Biggl [ \frac { \hat { \partial } w } { \hat { \partial } z } - \alpha \theta + \frac { \nu } { 1 - 2 \nu } ( \Theta - 3 \alpha \theta ) \Biggr ] } \end{array}
+$$
+
+when $B = 0$ . Hence,Eqs(1O) are reduced to the form analogousto(8)asfollows
+
+$$
+\begin{array} { l } { { { \overline { { \nabla } } } ^ { 2 } \phi + 2 ( 1 - \nu ) A z - ( 1 + \nu ) \alpha \theta = 0 } } \\ { { \nabla ^ { 2 } \theta + { \displaystyle \frac { 1 } { \lambda } } { \displaystyle \frac { \hat { \sigma } \lambda } { \hat { \sigma } z } } { \displaystyle \frac { \hat { \sigma } \theta } { \hat { \sigma } z } } = 0 } } \end{array}
+$$
+
+where $\overline { { \nabla } } ^ { 2 } = 1 / r \cdot \hat { \sigma } / \hat { \sigma } r \big ( r \hat { \sigma } / \hat { \sigma } r \big )$ （24号
+
+Differentiation of Eq.(12i） with respect to $r$ and next substitution $u = \partial u / \partial r$ ，according to Eqs $( 9 _ { 1 } )$ ，lead to the classical Euler-type differential equation describing thermo-mechanical membrane state
+
+$$
+\frac { \partial ^ { 2 } u } { \partial r ^ { 2 } } + \frac { 1 } { r } \frac { \partial u } { \partial r } - \frac { u } { r ^ { 2 } } = ( 1 + \nu ) \alpha \frac { \partial \theta } { \partial r }
+$$
+
+Unique solution of equation (13) that satisfies boundary conditions
+
+$$
+\begin{array} { r } { u ( 0 ) = 0 \quad \operatorname* { l i m } _ { r \to \infty } \sigma _ { r , \varphi } = 0 } \end{array}
+$$
+
+takesform
+
+$$
+\begin{array} { l } { { u ( r , z ) = \displaystyle \alpha ( z ) \Bigg [ \frac { 1 - \nu } { 2 } \theta ( \infty ) r + \frac { 1 + \nu } { r } \Bigg ] \theta ( \rho , z ) \rho \mathrm { d } \rho \Bigg ] } } \\ { { \mathrm { } } } \\ { { \displaystyle \sigma _ { r } ( r , z ) = E ( z ) \alpha ( z ) \Bigg [ \frac { \theta ( \infty ) } { 2 } - \frac { 1 } { r ^ { 2 } } \int \theta ( \rho , z ) \rho \mathrm { d } \rho \Bigg ] } } \\ { { \mathrm { } } } \\ { { \displaystyle \sigma _ { \varphi } ( r , z ) = E ( z ) \alpha ( z ) \Bigg [ \frac { \theta ( \infty ) } { 2 } } } \\ { { \displaystyle \qquad + \frac { 1 } { r ^ { 2 } } \int \theta ( \rho , z ) \rho \mathrm { d } \rho - \theta ( r , z ) \Bigg ] } } \end{array}
+$$
+
+Additionally, in case when temperature is bounded
+
+$$
+\begin{array} { r l } & { \operatorname* { l i m } _ { r  \infty } \theta ( r , z ) = 0 } \\ & { \operatorname* { l i m } _ { r  \infty } \displaystyle \frac { 1 } { r ^ { 2 } } \int \theta ( \rho , z ) \rho \mathrm { d } \rho < \infty } \\ & { \qquad \quad 0 } \end{array}
+$$
+
+solution (15) reduces to
+
+$$
+\begin{array} { l } { { u ( r , z ) = \alpha ( z ) { \frac { 1 + { \nu } } { r } } \displaystyle \sum _ { 0 } ^ { r } \theta ( \rho , z ) \rho \mathrm { d } \rho } } \\ { { \displaystyle \sigma _ { r } ( r , z ) = - E ( z ) \alpha ( z ) { \frac { 1 } { { r } ^ { 2 } } } \overbrace \int \theta ( \rho , z ) \rho \mathrm { d } \rho } ^ { r } } \\ { { \displaystyle \sigma _ { \varphi } ( r , z ) = E ( z ) \alpha ( z ) \left[ { \frac { 1 } { { r } ^ { 2 } } } \overbrace \int \theta ( \rho , z ) \rho \mathrm { d } \rho - \theta ( r , z ) \right] } ^ { r } } \end{array}
+$$
+
+and it is clear that its dependence with respect to depth co-ordinate $z$ comes from the functional gradation of Young's modulus $E ( z )$ and thermal expansion coefficient $\alpha ( z )$ as well as the temperature field non-homogeneity $\theta { \boldsymbol { r } } ;$ $z$ ) exclusively.
+
+# Conditionsof StressFreeDeformation
+
+Constant temperature $\theta =$ const and linear gradation of coefficient thermal expansion $\alpha ( z ) = \alpha _ { 0 } + \alpha _ { 1 } z$ substituted to Eqs(17) leads formally to linear (stress free) deformation
+
+$$
+u ( r , z ) = \alpha ( z ) \theta r \quad \sigma _ { r } = \sigma _ { \varphi } \equiv 0 
+$$
+
+although constant temperature does not satisfy condition (161).
+
+The proof of above theorem in case of the stress formulation Eqs. $( 3 _ { 1 - 3 } )$ is strainghtforward analogy to those done by Fung [16] and Nowacki [17] for homogenous material. This turns out to be almost elementary when one assumes that ${ \sigma } _ { i j } \equiv 0$ and $\tau _ { i j } \equiv 0$ in both Eqs. $( 3 _ { 1 - 3 } )$ and appropriate boundary conditions,hence system of equations is satisfiedas identityif
+
+$$
+\begin{array} { r l r } {  { \frac { \hat { \sigma } ^ { 2 } ( \alpha \theta ) } { \hat { \sigma } x _ { i } ^ { 2 } } - \nabla ^ { 2 } ( \alpha \theta ) = 0 } } & { i = 1 , 2 , 3 } \\ & { \frac { \hat { \sigma } ^ { 2 } ( \alpha \theta ) } { \hat { \sigma } x _ { i } \hat { \sigma } x _ { j } } = 0 } & { i , j = 1 , 2 , 3 } \\ & { \nabla ^ { 2 } \theta + \frac { 1 } { \lambda } \frac { \hat { \sigma } \lambda } { \hat { \sigma } x _ { 3 } } \frac { \hat { \sigma } \theta } { \hat { \sigma } x _ { 3 } } = 0 } \end{array}
+$$
+
+Once again assuming constant temperature $\theta { = } \ \mathrm { c o n s t }$ which satisfies Fourier's law $( 1 9 _ { 3 } )$ the unique solution of $( 1 9 _ { 1 - 2 } )$ is the linear gradation of coefficient of thermal expansion $\begin{array} { r l } { \alpha ( x _ { 3 } ) = \alpha _ { 0 } + } & { { } + \alpha _ { 1 } x _ { 3 } } \end{array}$ .It is essential to notice here that uniqueness of solution of the stress formulation (3) requires continuity and smoothness of the stress as wellasthe thermal strain term $\alpha \theta .$
+
+# Examples of Application
+
+Plane stress state of thick plate made of FGM $\mathrm { { A l / Z r O _ { 2 } + } }$ ${ \bf Y } _ { 2 } { \bf O } _ { 3 }$ The boundary value problem, following example by Cegielski[18],is formulated as follows:find temperature distribution $\theta ,$ that fulfills Eq. $( 1 0 _ { 3 } )$ and boundary conditions
+
+$$
+\begin{array} { l } { \theta ( r , z ) \Big | _ { z = - h / 2 } = \theta _ { 0 } ( r ) } \\ { \left. \frac { \hat { \mathcal { O } } \theta ( r , z ) } { \hat { \mathcal { O } } r } \right| _ { r = 0 } = 0 } \\ { \left. \frac { \hat { \mathcal { O } } \theta ( r , z ) } { \hat { \mathcal { O } } z } \right| _ { z = h / 2 } = 0 } \\ { \left. \vphantom { \frac { \hat { \mathcal { O } } \theta ( r , z ) } { \hat { \mathcal { O } } | z } } \right| _ { z = h / 2 } \hat { \mathcal { O } } ( r , z ) } \end{array}
+$$
+
+and accompanying plane stress components satisfying Eq.(17) for a semi-infinite axially symmetric three-layer thick plate made of FGM composite $\mathrm { A l } / \mathrm { Z r O } _ { 2 }$ stabilized by ${ \bf Y } _ { 2 } { \bf O } _ { 3 }$ (see Fig. 3).
+
+The magnitudes of both materials being constituents of FGM,after Wang et al. [19] and Lee et al. [2O],are presented in Table 1.
+
+![](images/7dd773445dae0f4ed362a07936e79d0e87551eb305224a011c7dcbb1c3f4eb04.jpg)  
+Fig.3Three-layer thick plate made ofFGMcomposite.
+
+Table 1 Selected properties of constituents of FGM after Wang et al. [19] andLee et al.[20]   
+
+<html><body><table><tr><td rowspan="2">Material</td><td rowspan="2">E (GPa)</td><td rowspan="2">V</td><td></td><td>α·10-6</td></tr><tr><td>(W/mK)</td><td>(1/K)</td></tr><tr><td>Al metal</td><td>73</td><td>0.3</td><td>154</td><td>23</td></tr><tr><td>AlO3</td><td>380</td><td>-</td><td>46</td><td>8.5</td></tr><tr><td>Al/ZrO2</td><td>205</td><td></td><td>2.0</td><td>9.8</td></tr></table></body></html>
+
+Let us assume that all thermo-mechanical properties of three-layer FGM depend on local magnitude of volume fraction of both constituents which is subjected to the tangent hyperbolic approximation
+
+$$
+p ( z ) = \frac { p _ { \mathrm { c } } + p _ { \mathrm { m } } } { 2 } + \frac { p _ { \mathrm { c } } - p _ { \mathrm { m } } } { 2 } \operatorname { t a n h } ( a z + b )
+$$
+
+where $p ( z )$ stands for respective property $\lambda ( z ) , \alpha ( z )$ or $E ( z )$ ，indices $" \mathrm { c } " \$ and $" \mathrm { m } "$ refer to ceramic or metallic materials,parameters $a$ and $b$ define location and thickness of interface layer.
+
+Differentiation of Eq. (21),next divise it by $p ( z )$ and finally substitution of $p _ { \mathrm { c } } = \lambda _ { \mathrm { c } }$ and $p _ { \mathrm { m } } = \lambda _ { \mathrm { m } } .$ ,allow to easily find that coefficient of thermal non-homogeneity in $\mathrm { E q . } ( 1 0 _ { 3 } )$ equals to
+
+$$
+\frac { 1 } { \lambda } \frac { \partial \lambda } { \partial z } = \frac { ( \lambda _ { \mathrm { c } } + \lambda _ { \mathrm { m } } ) a [ 1 - \operatorname { t a n h } ^ { 2 } ( a z + b ) ] } { \lambda _ { \mathrm { c } } + \lambda _ { \mathrm { m } } + ( \lambda _ { \mathrm { c } } - \lambda _ { \mathrm { m } } ) \operatorname { t a n h } ( a z + b ) }
+$$
+
+Exemplary distributions of $\lambda$ and $1 / \lambda \cdot \partial \lambda / \partial z$ are shown in Fig. 4.Applying finite difference method one may perform Eq. $( 1 0 _ { 3 } )$ according to the scheme shown in Fig. 5,whereas appropriate schemes of boundary conditions allowing for elimination of nodes situated outside the domain, are as follows
+
+$$
+\begin{array} { l l } { { \theta _ { i , j } = \theta _ { 0 } ( r ) } } & { { z = - h / 2 } } \\ { { \theta _ { i , j + 1 } = \theta _ { i , j - 1 } } } & { { z = h / 2 } } \\ { { \theta _ { i - 1 , j } = \theta _ { i + 1 , j } } } & { { r = 0 } } \\ { { \theta _ { i + 1 , j } = \theta _ { i - 1 , j } + 2 \Delta z g ( z ) } } & { { \mathrm { s i d e w a l l } } } \end{array}
+$$
+
+![](images/44d3596b9a2c675bad55d55fbabd28939a54fe99fe4e9ae71b56267e0f49131f.jpg)  
+Fig.4Distributions of $\lambda$ and $1 / \lambda \cdot \hat { o } \lambda / \hat { o } z$ ：
+
+![](images/4376f147e2ff548760a8477fd42cb993e985ebfc2e5374b74c47f4868bb23110.jpg)  
+Fig.5Finite difference scheme for Fourier equation.
+
+The finite difference representation allows to substitute boundary value problem of partial differential equations by problem of searching for solution of a system of $N$ linear equations involving $N$ unknowns.This system of equations exhibits typical feature for sparse matrix system having relatively small number nonzero elements, hence natural way to solve it is the application of the row-indexed storage mode [21] combined with the conjugate gradient method [22].
+
+Obviously, only small fragment,neighbouring the axis of symmetry, of the whole infinite structure is considered. The finite difference operator, shown in Fig. 5,is spanned over the mesh of $1 6 1 \times 8 1$ square elements $\Delta r =$ $\Delta z$ .The thermal load applied to the upper surface of the plate is subjected to the following relation
+
+$$
+\theta _ { \scriptscriptstyle 0 } ( r ) = 3 0 0 [ 1 - \operatorname { t a n h } ^ { 2 } ( 2 r ) ]
+$$
+
+Temperature distribution is shown in Fig.6.In com parison to the temperature distribution obtained for homogeneous material (see Cegielski [18]) the temperature field exhibits a drastic decrease of temperature at top layer. This is a consequence of application of ceramic material having coefficient of thermal conductivity 77 times lower than analogous coefficient of metallic substrate.Hence,one may clearly observe the effect of thermal barrier coating with characteristic strong temperature gradients in it and simultaneous homogenization of temperature field in middle and bottom layers.
+
+Aforementioned effect is more clearly visible in case of temperature gradient field -grad $\theta$ presented in Fig.7. The biggest magnitudes of temperature gradient, referring to top fibres of the plate are almost 1O times bigger than analogous at bottom fibres.
+
+Solution of mechanical problem is illustrated by distribution of hoop stress,which turns out to be the dominant component of stress, in Fig.8.
+
+![](images/1ce7d741b11b82c1a5d97b6837364f9eba929eab2949b6acdb8d3ff3acf76425.jpg)  
+Fig.6Distribution of temperature field.
+
+![](images/aea0ef177a4b4a88893584ca3d05977bedf775ee986a1ef76d97455acf56f01a.jpg)  
+Fig.7Distribution of heat flux field.
+
+![](images/ae229050547e42776d90502f68d6e8138178c8f2f6334258144c23a70a2f834e.jpg)  
+Fig.8Distribution of hoop stress field.
+
+Analogously to the temperature field,application of functionally graded composite leads to the concentration of compressive stress in top layer being ceramic material of high toughness.This convenient effect is accompanied by simultaneous unloading of middle and bottom layers built of metallic substrate.Nevertheless,another effect of tensile stress zone in ceramic layer occurs.This phenomenon is strictly associated with the structure of equations defining stress components(17).Namely,as far as the radial stress is always negative the hoop stress frequently changes sign, see Fig. 9.
+
+![](images/47fee464815acbd1506afa0d2aa4b3af9d74c2a2e7864da3cfde6fad2e3accb4.jpg)  
+Fig.9Typical distributions of radial and hoop stress components.
+
+As consequence,a ceramic material of very low or zeroth tensile strength is obviously unable to carry tensile stress unless there exists residual stress built-in material, coming from fabrication process, big enough to neutralize tensile hoop stress.Otherwise metal-ceramic FGM has to be replaced by metal-metal FGM which exhibits sufficient tensile strength.
+
+Stress free deformation state of linear FGM interface under constant temperature It has been shown in previous section that material of linear gradation of thermal expansion coefficient,subjected to constant temperature exclusively,is not stressed.This means that it exhibits unconstrained and purely thermal deformation.In case of axial symmetry such deformation can be expressed by the following equations
+
+$$
+\varepsilon _ { r } = \frac { \hat { \sigma } u } { \hat { \sigma } r } = \alpha \theta \quad \varepsilon _ { \varphi } = \frac { u } { r } = \alpha \theta \quad \varepsilon _ { z } = \frac { \hat { \sigma } w } { \hat { \sigma } z } = \alpha \theta
+$$
+
+Assuming structure composed of homogeneous metallic substrate (Al) and ceramic layer $( \mathrm { A l } _ { 2 } \mathrm { O } _ { 3 } )$ ， joined by FGM interface，shown in Fig.10,and thermo-elastic properties presented in Tab.1, such that linearly graded coefficient of thermal expansion exhibits polygonal function
+
+![](images/ac4ea0b5e8b33607e79d28b3a130bef6de7af8c9eb9c74de58b0c9f7fe741f3b.jpg)  
+Fig.10Metallic substrate and ceramic layer joined by FGM interface of linear thermal expansion coefficient structure
+
+$$
+\left\{ \begin{array} { l l } { \alpha ( z ) = } & { \beta } \\ { \alpha _ { \mathrm { m } } } & { 0 \leq z < z _ { \mathrm { i } } } \\ { \alpha _ { \mathrm { m } } - ( \alpha _ { \mathrm { m } } - \alpha _ { \mathrm { c } } ) \frac { z - z _ { \mathrm { i } } } { h _ { \mathrm { i } } } } & { z _ { \mathrm { i } } \leq z < z _ { \mathrm { i } } + h _ { \mathrm { i } } } \\ { \alpha _ { \mathrm { c } } } & { z _ { \mathrm { i } } + h _ { \mathrm { i } } \leq z < H } \end{array} \right.
+$$
+
+and we easily arrive at the following of solution Eqs. (26) for $u$
+
+$$
+\begin{array}{c} \begin{array} { r l } & { u ( r , z ) = \displaystyle \int _ { 0 } ^ { r } \alpha ( z ) \theta { \bf d } \rho = } \\ & { \left\{ \left( \alpha _ { \mathrm { m } } \theta r \quad \begin{array} { l l } { \alpha _ { \mathrm { m } } } & { 0 \le z < z _ { \mathrm { i } } } \\ { \alpha _ { \mathrm { m } } - \frac { \alpha _ { \mathrm { m } } - \alpha _ { \mathrm { c } } } { h _ { \mathrm { i } } } z } \end{array} \right) \theta r \right.} & { z _ { \mathrm { i } } \le z < z _ { \mathrm { i } } + h _ { \mathrm { i } } } \\ & { \alpha _ { \mathrm { c } } \theta r } \end{array}   \end{array}
+$$
+
+and for $w$ respectively
+
+$$
+\begin{array} { r l } { \displaystyle w ( \boldsymbol { r } , z ) = \int _ { 0 } ^ { z } \alpha ( \zeta ) \theta \mathbf { d } \zeta = } \\ { \displaystyle } \\ { \left\{ \begin{array} { l l } { \alpha _ { \mathrm { m } } \theta z } & { 0 \leq z < z _ { \mathrm { i } } } \\ { \displaystyle \alpha _ { \mathrm { m } } z - \frac { \alpha _ { \mathrm { m } } - \alpha _ { \mathrm { c } } } { h _ { \mathrm { i } } } \frac { z ^ { 2 } - r ^ { 2 } } { 2 } \Bigg ) \theta } & { z _ { \mathrm { i } } \leq z < z _ { \mathrm { i } } + h _ { \mathrm { i } } } \\ { \alpha _ { \mathrm { c } } \theta z } & { z _ { \mathrm { i } } + h _ { \mathrm { i } } \leq z < H } \end{array} \right. } \end{array}
+$$
+
+The displacement field corresponding to stress free deformation defined by Eqs (27-28) is spanned over the mesh of $8 0 \times 4 0$ square elements and shown in Fig.11.It is well visible that both substrate and ceramic layers exhibit homogeneous deformation,whereas deformation of interface is curvilinear. Altough all three deformations satisfy individually stress less state they are not compatible since previously mentioned conditions are violated.
+
+In order to obtain the compatible deformation (see Fig 12） it is necessary to activate non-zero stress state that magnitudeof which canbe controlledbythickness of the interface.
+
+The general tendency is as follows: the narrower thickness of interface is the lower magnitude of stress occurs.
+
+![](images/42ebf22902d0966dcca11078ddfda806cc5c088bb25a5239306821e0d4e5305e.jpg)  
+Fig.11Stress free but incompatible purely thermal deformation of three layer structure: initial mesh - solid lines, deformed mesh - dotted lines (displacement magnified $\times 1 0 0 \dot s$ ）
+
+![](images/79e8a425b31df1467728ba1061be164aaca1d36b4d546ad05cec7fe856863d03.jpg)  
+Fig.12 Compatible but stressed purely thermal deformation of three layer structure:initial mesh- solid lines,deformed mesh - dotted lines (displacement magnified $\times 1 0 0 \text{‰}$ ）
+
+# Conclusions
+
+Following concluding remarks may be formulated for thick FGM plates.
+
+Thermal loading applied to the structure results in the plane stress state if only force type boundary conditions are homogeneous and there are no body forces.   
+There is no need to limit considerations to problems of specific power or exponential approximation functions since after application of Iljushin's potential only Fourier's equation turns out to have varying coefficient.   
+Applicationoffunctionallygradedcomposite $\mathrm { A l } / Z \mathrm { r O } _ { 2 } + \mathrm { Y } _ { 2 } \mathrm { O } _ { 3 }$ is very efficient since FGM layer works like thermo-mechanical barrier, successively protecting metallic substrate from both high temperature gradients and high concentration of compressive stress.   
+Occurrence of tensile hoop stress in the ceramic layer is admissible only when it is accompanied by appropriate compressive residual stress.   
+Stress free deformation of three layer structure is not possible because of lack of compatibility, hence probably an unique way to decrease magnitude of stress leads to application of the FGM interface as thin as possible.   
+Both theorem and examples of its application have only theoretical sense since neither manufacturing nor classical FEM allow for modeling of continuously varying FGM.
+
+# References
+
+[1]Noda,N.,1999,Thermal stresses in functionally graded materials,J. Thermal Stresses,22(4/5),pp.477-512.   
+[2]Sneddon，I.N.，and Lockett,F.J.，1960,On the steadystate thermoelastic problem for the half-space and the thick plate, Quart. Appl. Math., 18(2), pp.145-153.   
+[3]Sternberg，E.，and McDowell，E.L.，1957，On the steady-state thermoelastic problem for the half-space, Quart. Appl. Math., 14, p. 381.   
+[4]Muki, R.,1957, Thermal stresses in a semi-infinite solid and a thick plate under steady distribution of temperature, Proc.Fac. Eng. Keio. Univ., 9, p. 42.   
+[5]Senthil, S.V.，and Batra,R.C.,2003,Three-dimensional analysis of transient thermal stresses in functionally graded plates,Int. J. Solids Struct., 40, pp.7181-7196.   
+[6]Dai, K.Y.,Liu,G.R.,Han,X.,and Lim,K.M.,2005, Thermomechanical analysis of functionally graded material (FGM) plates using element-free Galerkin method, Computer & Structures, 83, pp. 1487-1502.   
+[7]Pan,E.,and Han,F.,2005,Green's functions for transversely isotropic piezoelectric functionally graded multilayered half spaces,Int.J. Solid Struct., 42, pp. 3207- 3233.   
+[8] Wang, X.,Pan, E., and Roy, A.K.， 2007, Three-dimensional Green's functions for a steady point heat source in a functionally graded half-space and some related problems, Int. J. Eng. Science,45, pp. 939-950.   
+[9]Jabbari, M., Shahryari, E., Haghighat, H.,and Eslami, M.R.,2014,An analytical solution for steady state three dimensional thermoelasticity of functionally graded circular plates due to axisymmetric loads, Eur. J. Mechanics A/Solids, 47, pp. 124-142.   
+[10]Yang, K., Feng,W.-Z., Peng, H.-F.,and Lv, J.,2015,A new analytical approach of functionally graded material structures for thermal stress BEM analysis,Int. Communications Heat Mass Transfer, 62, pp.26-32.   
+[11]Kulikov, GM.,and Plotnikova, S.V., 2015,A sampling method and its implementation for 3D thermal stress analysis of functionally graded plates, Comp. Struct. 120, pp. 315-325.   
+[12] Schulz, U., Bach,F. W.,and Tegeder, G. 2003, Graded coating for thermal, wear and corrosion barriers,Mater. Sci. Eng., A 362(1-2), pp.61-80.   
+[13]Kim,J.H.，and Paulino,G. H.，2002,Isopara-metric graded finite elements for non-homogeneous isotropic and orthotropic materials,ASME J. Appl. Mech., 69, pp. 502-514.   
+[14]Ignaczak,J.,1959,Direct determination of stresses from the stress equations of motion in elasticity, Arch. Mech. Stos., 11(5), pp. 671-678.   
+[15]Iljushin, A.A., Lomakin, W.A.,and Shmakov, A.P.,1979, Mechanics of Continuous Media,Moscow.   
+[16] Fung, Y.C.,1965,Foundations of Solid Mechanics,Prentice-Hall, New Jersey.   
+[17]Nowacki, W.,1970, Theory of elasticity,PWN, Warsaw.   
+[18]Cegielski, M.,2007,Numerical modeling of combustion engine piston made of MC composite, Diploma Thesis, Cracow University of Technology, Cracow, Poland.   
+[19]Wang, B.L., Han, J.C., and Du, S.Y., 2000, Crack problems for functionally graded materials under transient
+
+thermal loading,J.Thermal Stresses,23,pp.143-168. [20]Lee, W.Y., Stinton, D.P., Berndt, C.C., Erdogan, F.,Lee, Y.-D.,and Mutasin,Z.，1996,Concept of functionally graded materials for advanced thermal barrier coating applications,J.Am. Ceram. Soc.,79,3003-3012.
+
+[21]PCGPAK User's Guide,New Haven: Scientific ComputingAssociates, Inc.   
+[22]Press,W.H., Teukolsky, S.A.,Vetterling,W.T.,and Flannery,B.P.,1983,Numerical Recipesin Fortran,Cambridge Univ. Press.

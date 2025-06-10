@@ -1,0 +1,118 @@
+临床研究
+
+# 人脱落乳牙牙髓干细胞与人恒牙牙髓干细胞成骨分化及破骨能力的差异
+
+路博闻',刘 娜²,徐璐璐',石海刚³,张 洋',张 维  
+中国人民解放军总医院1口腔正畸科，口腔医学研究所，北京100853；中国科学院理化技术研究所,北京  
+100190
+
+摘要：目的比较处于生理性根吸收时期的自然脱落乳牙牙髓干细胞(SHED)和恒牙牙髓干细胞(DPSCs)的成骨分化及破骨能力,探讨两者在成骨和破骨相关分子的表达情况。方法 体外分离、培养和纯化处于生理性根吸收时期的自然脱落乳牙牙髓干细胞与恒牙牙髓干细胞;两种干细胞在成骨诱导14d和21d,分别进行ALP染色、茜素红染色,并通过Real-time PCR检测SHED和DPSCs矿化诱导后的成骨与破骨相关基因表达。结果倒置显微镜下观察,SHED和DPSCs形态均为长梭形；两种干细胞经矿化诱导后，茜素红染色可见SHED的矿化结节计数多于DPSCs( $P { < } 0 . 0 5 )$ ,SHED的ALP活性亦强于DPSCs( $P { < } 0 . 0 5 )$ 。RT-PCR检测结果显示,经矿化诱导后两种干细胞均表达成骨与破骨相关基因Runx2、OCN、ALP、OPG和RANKL,但DPSCs的Runx2、OCN和ALP的表达水平均低于SHED( $P { < } 0 . 0 5 )$ ,且SHED反应细胞破骨/成骨能力的RANKL/OPG的比值显著高于DPSCs( $P { < } 0 . 0 5 )$ 。结论与DPSCs相比,SHED不仅具有较强的成骨分化能力，还兼有较强的破骨能力，为SHED参与生理性根吸收骨改建的调控机制提供实验依据。
+
+关键词：生理性根吸收；人脱落乳牙牙髓干细胞;恒牙牙髓干细胞;成骨分化;破骨细胞
+
+# Difference of in vitro osteogenic differentiation and osteoclast capacity between stem cells from human exfoliated deciduous teeth and dental pulp stem cells
+
+LUBowen,LIUNa²,XULulu',SHIHaigang,ZHANGYang,ZHANGWei³   
+DepartmentofOrtodonticssituteofOraledicineeneralHspitalofeijing085，Chia;stituteficld   
+Chemical Technology,ChineseAcademy of Sciences,Beijing 10o190,China
+
+Abstract: Objective To compare theosteogenic diferentiation potential and osteoclastcapacity between stemcels from human exfoliated deciduous teth (SHED)in the physiological rot resorption period and dental pulp stem cells (DPSCs). Methods SHEDand DPSCs were isolated, purified and cultured in vitro.The two stem cels were examied withALPstaining at14 days andwithalizarinredstaining at21daysofosteogenicinduction,and theexpressions ofthegenes asociated with Osteogenesisand osteoclastogenesis were detected using real-timePCR.Results The isolated SHEDand DPSCsboth showed anelongate spindle-shaped morphology.After osteogenic induction of thecels，Alizarinred staining visualizeda greater number of mineralized nodules in SHED than in DPSCs $_ { ( P < 0 . 0 5 ) }$ , and SHED also exhibited a stronger ALP activity than DPSCs $_ { ( P < 0 . 0 5 ) }$ . RT-PCR test results showed that the two stem cels expressed RANKL,OCN, ALP, OPG and Runx2 mRNA after osteogenic induction, but the expression levels of Runx2, OCN and $A L P$ were lower in DPSCs than in SHED $( P { < } 0 . 0 5 )$ ,and the ratio of RANKL/OPG was significantly higher in SHED $_ { ( P < 0 . 0 5 ) }$ . Conclusion Compared with DPSCs, SHED has not only the abilityofosteogenic diferentiationbut alsoanosteoclastcapacity，which sheds lighton theregulatoryroleof SHED in physiological root resorption bone remodeling.
+
+Key words: physiological rot resorption; human exfoliated deciduous dental pulp stem cels; dental pulp stemcels; osteogenic differentiation; osteoclast
+
+乳牙生理性根吸收是儿童乳恒牙替换期的一种自然生理现象，关于乳牙生理性根吸收机制，有学者指出可能与炎症环境、继承恒牙萌出时的压力或咬合创伤有关,但都尚处于探索阶段[]。目前对根吸收的研究多倾向于乳牙自身相关组织，因此乳牙牙周膜干细胞与乳牙牙髓干细胞是当前的研究热点。
+
+Gronthos[2于2000年首次报道了从人健康第三磨牙的牙髓中分离到了具有形成细胞克隆和较强增殖能力的细胞，并将其命名为牙髓干细胞(DPSCs)，以此展开了对牙源性干细胞的相关研究。DPSCs作为一种具有自我更新、多向分化功能的MSCs，是组织工程中极具潜力的种子细胞之—[3-4]。Miura[5]于2003年从脱落乳牙的牙髓中分离到具有高度增殖能力和多向分化能力的干细胞，命名为乳牙牙髓干细胞(SHED)。与该细胞相关的鉴定结果显示：其具有较强的增殖能力和多向分化的潜能，并且具有较强的诱导成骨能力，且SHED来源广泛，易于分离获取，不存在较大伦理风险，极有可能成为组织工程及干细胞治疗疾病领域的理想细胞。
+
+牙槽骨较高的可塑性是正畸牙齿移动的生物学基础。当牙齿受力发生移动时,压力侧破骨细胞功能活跃，吸收临近的牙周膜区域的牙槽骨;同时张力侧成骨细胞形成新骨，并在压力侧改建骨吸收区域。破骨与成骨的动态平衡是正畸牙齿完成生理性移动骨改建的重要前提7。而正畸牙齿生理性移动机制复杂、调控严密，可能涉及多种因子、炎症介质等参与调控及骨改建过程。SHED作为较新颖的干细胞，干细胞特性显著且兼具成骨破骨能力，而能否将干细胞SHED在骨改建中的作用应用于正畸治疗中仍未具体阐明。本研究通过对比SHED和DPSCs的成骨分化以及破骨能力，并检测两种干细胞对成骨和破骨相关分子的表达情况，为探讨SHED可能参与骨改建调控机制提供实验依据，以期应用于正畸临床。
+
+# 1材料和方法
+
+# 1.1主要试剂和仪器
+
+$\mathfrak { a }$ -MEM培养基、胎牛血清(fetal bovine serum,FBS）、I型胶原、青链霉素、链霉素(Gibco,美国)； $0 . 2 5 \%$ 胰蛋白酶 $\mathrm { . \beta }$ -甘油磷酸钠、地塞米松、维生素 $C _ { \cdot } 0 . 1 \%$ 茜素红(Sigma,美国）;RNA提取试剂盒、逆转录试剂盒(Fermentas,美国）;TRIzol Reagent(Life Technologies,NY);碱性磷酸酶试剂盒(上海碧云天);多聚甲醛(上海化学试剂厂);超净工作台(苏净集团苏州安泰空气技术有限公司，中国）、二氧化碳恒温孵箱(Thermo，美国)；倒置相差显微镜和照相系统(Olympus,日本);实时定量PCR仪(Applied Biosystems 7500,美国Life Technologies公司）。
+
+# 1.2 方法
+
+1.2.1样本收集收集2014年12月\~2015年2月中国人民解放军总医院儿童口腔科5\~7岁儿童正常乳恒牙替换期自然脱落乳牙样本。脱落乳牙无明显龋坏，无牙髓病变及根尖周炎，牙根吸收达牙根 $1 / 2 { \sim } 2 / 3 ^ { [ 8 ] }$ ,且所有纳入个体无系统疾病。同期于口腔外科收集18\~25岁青年因正畸治疗拔除的前磨牙或因埋伏阻生而拔除的第三磨牙样本。所取得恒牙均无明显龋坏，无牙髓病变及根尖周病变，且所有纳入个体无系统疾病。本研究经解放军总医院伦理委员会批准，取得患者知情同意。
+
+1.2.2 SHED和DPSCs的分离、培养 乳、恒牙拔除前$7 5 \%$ 医用酒精充分消毒牙体周围组织，拔除后立即放入预冷含高倍双抗 $\mathbf { \alpha } _ { \mathrm { . } } \mathrm { a . }$ -MEM培养基中保存备用，低温保存状态下送实验室， $2 \mathrm { h }$ 内原代取材。超净台中用 $7 5 \%$ 医用酒精消毒，PBS液反复冲洗，乳牙直接用拔髓针拔取牙髓组织；而恒牙则通过牙钻从牙冠打开牙髓腔，再用拔髓针拔取牙髓，用含有青、链霉素双抗的 $0 . 1 ~ \mathrm { m L / L }$ PBS反复冲洗3\~5次后,剪碎牙髓,大小约 $1 \ \mathrm { m m } { \times } 1 \ \mathrm { m m } { \times }$ $1 \mathrm { m m }$ 的组织块。 $4 \%$ I型胶原酶消化 $4 5 \mathrm { m i n }$ ，待组织块呈絮状时，加入含 $1 5 0 \mathrm { m L / L }$ 胎牛血清和青霉素、链霉素双抗的DMEM培养液终止消化， $1 0 0 0 ~ \mathrm { r / m i n }$ 离心 $5 \mathrm { m i n }$ 弃上清，加入含 $20 \%$ FBS的 $\mathfrak { a }$ -MEM培养液混匀、吹打，重悬后接种于 $3 5 ~ \mathrm { m m }$ 培养皿，盖玻片将组织块固定在培养皿中，于 $3 7 \ \%$ （204号 $\mathrm { C O } _ { 2 }$ 恒温孵箱内培养，培养2d半量换液，之后每2\~3d半量换液，培养约5\~8d会有细胞从组织块中爬出，细胞达到 $8 0 \% { \sim } 9 0 \%$ 汇合率后，用胰酶消化传代，按1：3比例传代。采用有限稀释法对人乳牙牙髓干细胞进行克隆分离：将第1代处于对数期的人乳牙牙髓干细胞计数，并将细胞悬液有限稀释至密度为约 $1 0 / \mathrm { m L }$ ，以 $1 0 0 ~ \mu \mathrm { L } /$ 孔接种于96孔培养板内，经过$3 7 \%$ $\mathrm { C O } _ { 2 }$ 培养箱中培养 $2 4 \mathrm { h }$ 后，细胞贴壁后在倒置显微镜下检查，挑出单个细胞的孔，继续培养，每隔3d半量换液( $\mathbf { \boldsymbol { a } }$ -MEM, $1 5 \%$ FBS);待单克隆面积至孔底$60 \%$ 以上时，消化法移至24孔板、6孔板中扩大培养，逐步扩增至10数量级，以P3代用于细胞实验。
+
+1.2.3体外成骨向分化及茜素红染色取第3代的SHED和DPSCs，细胞计数后，以 $1 \times 1 0 ^ { 5 } /$ 孔的密度接种于6孔板中，随机分为实验组和对照组，每组3孔。用含$10 \%$ FBS的 $\mathrm { { \dot { a } } }$ -MEM培养 $2 4 \mathrm { h }$ ，待细胞伸展至 $6 0 \% { \sim } 7 0 \%$ 汇合后，实验组加入成骨诱导液含 $\mathrm { 5 ~ m m o l / L ~ \beta }$ -甘油磷酸钠， $5 0 ~ \mu \mathrm { g / m L }$ 维生素 $\mathrm { C } , 1 { \times } 1 0 ^ { - 8 } \mathrm { m o l / L }$ 地塞米松, $10 \%$ FBS的α-MEM培养液)，对照组加人正常培养液，每隔3d换液1次，每日镜下观察细胞生长状况及变化。当镜下观细胞复层生长并出现圆形结节，继续培养至21d,弃原培养液，去离子水反复漂洗，经 $4 \%$ 多聚甲醛固定$3 0 \mathrm { m i n }$ ，茜素红染色。PBS冲洗3次后，在倒置相差显微镜下进行常规观察及照相，红色为阳性。SHED和DPSCs矿化结节定量比较，则将染色后培养血放在网格板上,平均分为9个视野，取其中5个视野,在倒置相差显微镜下对矿化结节分别进行计数，并取均值，进而推算整个培养血的结节数目，再对SHED和DPSCs矿化结节数量进行统计学分析。
+
+1.2.4碱性磷酸酶(ALP)染色 取第3代SHED和DPSCs,细胞计数后以 $1 \times 1 0 ^ { 4 } ,$ 孔的密度接种于12孔板中并随机分为实验组和对照组，每组3孔。实验组加入成骨诱导液，对照组加入正常培养液。每3d换液，每日镜下观察细胞生长状况及形态变化。当镜下观细胞复层生长并出现圆形结节，继续培养至14d,弃原培养液，按照碱性磷酸酶试剂盒说明书配制染液，将细胞用PBS洗3次，加 $4 \%$ 多聚甲醛固定液，固定 $3 0 ~ \mathrm { m i n }$ 。PBS洗3次，加ALP染液 $3 7 ~ \mathrm { ^ { \circ } C }$ 孵育 $4 5 ~ \mathrm { m i n }$ 。蒸馏水轻轻冲洗，洗去染液，照相。显微镜下观察染色结果，蓝色为阳性。
+
+1.2.5Real-timePCR将P3代SHED和DPSCs低密度接种T25培养瓶，常规条件下培养至细胞生长汇合达$6 0 \% \sim 7 0 \%$ 时，PBS冲洗2遍，换成骨诱导液，对照组加入正常培养液。7d后用Trizol裂解并提取成骨总RNA，逆转录为cDNA。采用SYBRGreen试剂盒进行荧光定量PCR检测，目的基因及管家基因在不同的反应管中进行扩增,反应体系 $2 0 ~  { \mu \mathrm { L } } _ { \odot }$ 反应条件： $9 5 ~ \mathrm { ^ { \circ } C }$ 变性 $2 0 ~ \mathrm { m i n }$ $9 5 \ \mathrm { ^ { \circ } C } \ 3 0 \ \mathrm { s } , 6 0 \ \mathrm { ^ { \circ } C } \ 1 \ \mathrm { m i n } , 4 0$ 个循环。采用实时荧光定量PCR仪监测记录数据，结果根据标准曲线，软件自动计算后得出。试验重复3次。引物序列见表1。
+
+表1引物序列 Tab.1 Primer sequence   
+
+<html><body><table><tr><td>Gene</td><td>Primer sequence</td></tr><tr><td>Runx2</td><td>F:5'-CCCGTGGCCTTCAAGGT-3'</td></tr><tr><td rowspan="3">OCN</td><td>R:5'-CGTTACCCGCCATGACAGTA-3'</td></tr><tr><td>F:5'-TGCCTGGAGAGGAGCAGAACT-3</td></tr><tr><td>R:5'-GGCGCTACCTGTATCAATGGC-3'</td></tr><tr><td rowspan="2">ALP</td><td>F: 5'-CCATACAGGATGGCAGTGAAGG-3'</td></tr><tr><td>R:5'-TTGACCTCCTCGGAAGACACTC-3'</td></tr><tr><td rowspan="2">RANKL</td><td>F:5'-GGAGTTGGCCGCAGACAAGA-3'</td></tr><tr><td>R:5'-TAGAAGAACAGGGCGACGCT-3</td></tr><tr><td rowspan="2">OPG</td><td>F: 5'-CTGGAACCCCAGAGCGAAAT-3'</td></tr><tr><td>R:5'-GCCTCCTCACACAGGGTAAC-3'</td></tr><tr><td rowspan="2">GAPDH</td><td>F:5'-AGGCCATGCCAGTGAGCTT-3'</td></tr><tr><td>R:5'-CCTGCACCACCAACTGCTTA-3'</td></tr></table></body></html>
+
+# 1.3统计学分析
+
+采用SPSS19.0软件对数据处理,并进行统计学分析，MicrosoftExcel2016软件作图。两组数据间的比较采用双尾成组t检验分析，多组间比较采用单因素方差分析。数据以均数 $\cdot \pm$ 标准误表示，以 $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+2.1SHED和DPSCs原代的分离、培养及纯化脱落乳牙牙髓及恒牙牙髓通过组织块酶消化法获得原代细胞，原代培养48h后可见牙髓细胞从组织块周围爬出(图1A，B)，细胞贴壁生长，SHED呈现多形性，有短梭形、扁平形、多角形和椭圆形等形状，细胞有一到两个或多个突起，且胞体伸展良好;DPSCs可见单个细胞呈梭形、星形，胞浆均匀、核圆、核仁清晰。原代培养至第5\~7天，倒置相差显微镜下组织块周围可形成细胞生长晕，细胞生长汇集成群时，细胞排列成典型的"漩涡状"或束状(图1C,D)。通过有限稀释法挑选单个细胞,培养10\~14d左右，形成克隆集落，即获得较为纯化的形态均一的SHED和DPSCs。当细胞汇合 $80 \%$ 以上可进行传代。细胞增殖速度较快，传代后生长良好，约1周达到 $80 \% { \sim } 9 0 \%$ 汇合。平均5\~7d可传代1次。
+
+# 2.2SHED和DPSCs茜素红染色
+
+矿化诱导21d后，倒置显微镜下观察，SHED和DPSCs均呈复层生长，部分细胞聚集成圆形结节状，经茜素红染色后，均可见散在的密度、大小不一的红色矿化结节，但SHED的矿化结节显著多于DPSCs,且SHED生成的矿化结节面积较大且较稠密，而DPSCs生成的矿化结节分散且单个结节的面积较小(图2)。
+
+# 2.3SHED和DPSCs碱性磷酸酶(ALP)染色
+
+ALP染色可见在成骨诱导14d时，SHED和DPSCsALP染色均呈阳性，倒置显微镜下观察，多数细胞质有蓝紫色颗粒沉淀，但DPSCs染色较SHED浅，可见SHED比DPSCsALP阳性表达率高(图3)。
+
+# 2.4SHED和DPSCs成骨及破骨相关基因表达
+
+RT-PCR检测结果显示，SHED和DPSCs均表达成骨相关基因Runx2、OCN、ALP和OPG，破骨相关基因RANKL；成骨诱导7d,SHED和DPSCs在Runx2、OCN、ALP、OPG表达水平明显高于对照组0d,差异具有统计学意义 $( P { < } 0 . 0 5 )$ ;在Runx2表达上,DPSCs增高约2.7倍，SHED增高约4倍；在OCN表达上，DPSCs增高约2倍,SHED增高约7倍;在ALP表达上，DPSCs增高约3倍,SHED增高约9倍;在OPG表达上，DPSCs增高约2倍，SHED增高约2.5倍;在RANKL表达上，DPSCs较对照组降低,SHED增高约5倍;细胞破骨/成骨能力的RANKL/OPG比值，恒牙组较对照组降低，而乳牙组RANKL/OPG比值高于对照组约2倍，以上差异具有统计学意义( $_ { P < 0 . 0 5 }$ ，图4)。
+
+# 3讨论
+
+乳牙生理性根吸收是一种自然的生理现象，有学者指出继承恒牙胚的星网状层和牙囊通过分泌刺激因子参与乳牙根吸收的调节[6-7]。然而，当继承恒牙胚缺如的情况下乳牙根仍然发生生理性根吸收8。故推测乳牙根的生理性吸收可能与乳牙自身相关组织有关，包括乳牙牙周膜和乳牙牙髓，分泌刺激因子参与乳牙根吸收的
+
+![](images/2e887fe770cd652aab6628506237407b9d3785cb17354cca8bba1f084ecfc176.jpg)  
+图1SHED、DPSCs细胞形态 Fig.1 Cell morphology of DPSCs and SHED in culture.A: Cultured SHED presents with heterogeneous morphologies (Original magnification: $\times 1 0 0$ );B:SHED cultured for 10-14 days showing a clustered growth pattern $( \times 2 0 0 )$ ；C:DPSCs showing an elongated spindle-shaped morphology $( \times 1 0 0 )$ ；D:DPSCs arranged in a typical "whirlpool"or fasciculate pattern $( \times 2 0 0 )$ ：
+
+![](images/b1df2d7b399eec8cf5638b192359fc0367196d2eef977c4d480592874412507b.jpg)
+
+![](images/70d25adff086ecd295a6b4d2d54a1119ace5777007503e6de4ec176d271e4aff.jpg)  
+图2矿化诱导21d,SHED、DPSCs茜素红染色 Fig.2 SHED and DPSCs at21 days of osteogenic induction stained with Alizarin red; A: SHED (Original magnification: $\times 2 0 0 _ { , } ^ { \cdot }$ 》 $B$ 元 DPSCs $( \times 2 0 0 )$ ; C:The number of mineralized nodules in SHED are significantly greater than that in DPSCs $( ^ { * } P { < } 0 . 0 5 )$   
+图3成骨诱导14d,SHED、DPSCsALP染色 Fig.3 ALP staining of SHED(A) and DPSCs (B) at 14 days of osteogenic induction (Original magnification: $\times 2 0 0$ ）
+
+![](images/886d29e6f274b98d1e3c296f7993f40d2920c9b4e9961e1a2bc5f7f7d6856e5c.jpg)  
+图4SHED和DPSCs成骨、破骨相关基因表达与RANKL/OPG比值 Fig.4 Gene expresionofNX2,OCN,ALPOPG,andRANKLinandDSCsat7daysofosteogenicinduction.A:NX2 expression; B: OCN expresson; C: ALP expression; D: OPG expression; E: RANKL expression; F: ratioof RANKL/OPG. $^ { * } P { < } 0 . 0 5$
+
+调节和骨改建过程。
+
+现已有大量关于乳牙牙髓干细胞的研究证实，该种较为新颖的干细胞具备较强的自我增殖能力以及多向分化潜能，且成骨能力显著强于骨髓间充质干细胞和恒牙牙髓干细胞[9-10]。本研究对处于生理性根吸收过程的自然脱落乳牙进行收集、培养，将分离得到的SHED与恒牙DPSCs进行比较。结果发现两种干细胞均呈长梭形；原代培养至第5\~7天，两种细胞均贴壁生长成典型的放射样、漩涡状或束状排列。成骨诱导14d时，SHED和DPSCs其ALP染色均呈阳性，SHED比DPSCsALP阳性表达率高。矿化诱导21d后，经茜素红染色，均可见散在的密度、大小不一的红色矿化结节，但SHED的矿化结节显著多于DPSCs。以上结果可表明SHED的成骨能力要强于DPSCs,这与以往的研究结果相一致[5.9]。此外,本实验选用Runx2、ALP、OCN、OPG四种成骨向分化相关特异性基因视作向成骨细胞分化的检测指标，采用RT-PCR对SHED和DPSCs的4种基因进行检测，来观察对比两种干细胞的体外成骨表达能力。结果显示，成骨诱导后，SHED和DPSCs均表达成骨相关基因Runx2、OCN、ALP和OPG，且SHED的Runx2、OCN、ALP和OPG表达增加水平均高于DPSCs，该结果也再次验证SHED较DPSCs具有更强成骨分化能力。
+
+有研究表明乳牙生理性根吸收的过程与骨重塑的过程相似，涉及经典的RANK/RANKL/OPG(核因子kB受体活化剂/RANK配体/骨保护素)受体配体系统[1-13]破骨细胞由造血系统单核/巨噬细胞分化而来，被认为是造成牙根等硬组织吸收的效应细胞[14]。乳牙自身组织可能通过分泌刺激因子网络系统直接或间接作用于RANK/RANKL/OPG系统的调节,RANKL作为破骨细胞重要的活化配体可促进破骨细胞分化成熟，OPG作为RANKL的饵受体则拮抗其功能,抑制破骨细胞形成[15-17],从而使该系统在乳牙根的生理性吸收及骨改建过程发挥重要作用。在本研究中，SHED和DPSCs均表达RANKL和OPG,但与DPSCs相比,SHED在破骨相关基因RANKL的表达呈明显上调趋势，且反应细胞破骨/成骨能力的RANKL/OPG 的比值显著高于DPSCs,结果表明，相对于DPSCs,SHED具有更强的破骨能力。提示在乳牙生理性根吸收骨改建过程中，吸收期SHED较高表达RANKL，较低表达OPG，未吸收乳牙与恒牙则较高表达OPG，较低表达RANKL，表明SHED可能参与到乳牙生理性根吸收骨改建过程。而在正畸过程中，牙齿受压力一侧发生，破骨细胞功能活跃进而发生骨质吸收，受牵拉一侧,则成骨细胞功能为主形成新骨。破骨与成骨的动态平衡是正畸牙齿移动的生物学基础。且在该骨改建过程,正畸牙齿生理性移动机制复杂、调控严密，可能涉及多种因子、炎症介质等参与调控。本研究中,证明了SHED不仅具有更强成骨分化能力，同时具有较强的破骨能力，这一成骨与破骨的特点或许可以借鉴到正畸临床，加速正畸骨改建，为十细胞技术应用到正畸治疗提供一定依据，
+
+综上所述，与DPSCs相比，SHED不仅具有更强的成骨分化能力，还兼有一定的破骨能力。在乳牙生理性根吸收与骨重塑的过程中，SHED可能通过分泌刺激因子网络系统直接或间接作用于RANK/RANKL/OPG系统的调节，促进破骨细胞分化成熟、以及牙根周围骨改建。但是SHED参与该过程可能分泌的刺激因子以及具体调节机制目前尚不清楚，还需要进一步研究。
+
+# 参考文献：
+
+[1]Sahara N,Ozawa H. Cementum-like tissue deposition on the resorbed enamel surface of human deciduous teeth prior to shedding [J].Anat Rec ADiscov Mol Cell Evol Biol,2004,279(2): 779-91.   
+[2]Gronthos S,Mankani M,Brahim J,et al.Postnatal human dental pulp stem cells (DPSCs) in vitro and in vivo[J].Proc Natl Acad Sci USA,2000,97(25):13625-30.   
+[3]Gronthos S,Brahim J,Li W,et al. Stem cell properties of human dental pulp stem cells[J].JDent Res,2002,81(8):531-5.   
+[4]Ferro F, Spelat R,Baheney CS.Dental pulp stem cell (DPSC) isolation,characterization,and differentiation [J].Methods Mol Biol,2014,1210(10):91-115.   
+[5]Miura M,Gronthos S,Zhao M,et al. SHED-stem cells from human exfoliated deciduous teeth[J].JDent Res,2003,82(B):B305.   
+[6]Sahara N.Cellular events at the onset of physiological root resorption in rabbit deciduous teeth[J].Anat Rec,20O1,264(4): 387-96.   
+[7]Domon T,Osanai M,Yawaka Y,et al. Ultrastructural study of the root dentine surface resuming resorption on human deciduous teeth [J].Ann Anat,2000,182(2): 175-84.   
+[8]Angelova A,Takagi Y, Okiji T,et al. Immunocompetent cells in the pulp of human deciduous teeth[J].Arch Oral Biol,20O4,49(1):
+
+# 29-36.
+
+[9]Vishwanath VR,Nadig RR,Nadig R,et al.Differentiation of isolated and characterized human dental pulp stem cells and stem cells from human exfoliated deciduous teeth: An in vitro study[J]. J Conserv Dent,2013,16(5): 423-8.   
+[10]Nakamura S,Yamada Y,Katagiri W,et al. Stem cell proliferation pathways comparison between human exfoliated deciduous teeth and dental pulp stem cells by gene expression profile from promising dental pulp[J].JEndod,2009,35(11): 1536-42.   
+[11] Sahara N,Toyoki A,Ashizawa Y,et al.Cytodifferentiation of the odontoclast prior to the shedding of human deciduous teeth:an ultrastructural and cytochemical study[J].Anat Rec,1996,244(1): 33-49.   
+[12] Sanuki R,Shionome C,Kuwabara A,et al. Compressive force induces osteoclast differentiation via prostaglandin E(2) production in MC3T3-E1 cells[J].Connect Tissue Res,2010,51(2): 150-8.   
+[13]Lee JC, Spiguel L, Shenaq DS,et al. Role of RANK-RANKL-OPG axis in cranial suture homeostasis[J].J Craniofac Surg,2O11,22(2): 699-705.   
+[14] Boyle WJ, Simonet WS,Lacey DL,et al. Osteoclast differentiation and activation[J].Nature,2003,42(3): 337-42.   
+[15]Wright HL,Mccarthy HS,Middleton J,et al.RANK,RANKL and osteoprotegerin in bone biology and disease [J].Curr Rev Musculoskelet Med,2009,2(1): 56-64.   
+[16]Boyce BF,Xing L.Functions of RANKL/RANK/OPG in bone modeling and remodeling[J].Arch Biochem Biophys,2008,473(2): 139-46.   
+[17] Stolina M,Schett G,Dwyer D,et al.RANKL inhibition by osteoprotegerin prevents bone loss without affecting local or systemic inflammation parameters in two rat arthritis models: comparison with anti-TNFalpha or anti-IL-1 therapies[J].Arthritis Res Ther,2009,11(6): R187.
+
+(编辑：孙昌朋)

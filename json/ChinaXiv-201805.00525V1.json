@@ -1,0 +1,460 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201701110083 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "叶鑫,邹长新,刘国华,林乃峰,徐梦佳.生态安全格局研究的主要内容与进展.生态学报,2018,38(10):3382-3392.YeX,ZouCisdc3382-3392.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "生态安全格局研究的主要内容与进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "叶鑫1，邹长新1,2,\\*，刘国华³，林乃峰¹，徐梦佳' ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1环境保护部南京环境科学研究所，南京210042  \n2南京信息工程大学江苏省大气环境与装备技术协同创新中心，南京210044  \n3中国科学院生态环境研究中心，城市与区域生态国家重点实验室，北京100085",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要;生态安全格局是我国国土空间开发战略格局的重要组成部分。区域生态安全格局的有效构建及维护不仅有利于生态系统结构与功能的完整、生物多样性保护、生态系统服务的维持,还将提升人类福祉,实现可持续发展,最终保障区域生态安全。生态安全的复杂性及学科交叉性,使已有研究涉及内容多样,但缺少相互联系与比较,导致不同区域、不同方法研究条件下存在多种格局。因此,有必要系统地分析与梳理,以便进行综合分析与集成,实施生态安全格局调控管理与决策。参考国内外生态安全格局的主要研究成果,在此基础上阐述了生态安全格局研究需要重点关注的内容及之间的相互关系,在考虑“格局形成、演变机制-影响-关键区识别-构建优化-调控管理\"的关系基础上,论述了具体的研究内容与相关研究方法。通过加强生态安全主要研究内容间相互关系及机理研究,评估与预警方法模型的改进与优化,协调发展的调控技术与保障政策的研发,为生态安全格局管理的决策支持系统提供重要支撑。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：生态安全格局;生态系统服务；生物多样性;关键区域;生态保护红线",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Main research contents and advances in the ecological security pattern ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YE Xin'， ZOU Changxin1,2,\\*，LIU Guohua³，LIN Naifeng'， XU Mengjia’",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Nanjing Instituteof Environmental Sciences，Ministryof Environmental Protection，Nanjing 210o42，China   \n2JiangsuColdtUi Technology，Nanjing 210044，China   \n3StateKeyled ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Ecological securitypattrn isanimportantpartof China's teritorial development strategyEffctiveconstruction and maintenanceof aregionalecological securitypattern notonlycontributes tothe integrityof ecosystem structureand function，biodiversity conservation，andecosystemservices maintenance but alsoenhances human wel-being，promotes sustainabledevelopment，andeventuall improves regional ecological security.Owing tothecomplexityandinterdisciplnary natureof ecological research，abundant content is generatedby previous studies，but interconnections and comparisons, whichmaylead to identificationofmanypatternsthroughdiffrent methods fordifferentregions，are lacking.Therefore, systematicallyanalyzing the studiesis important tocarryoutacomprehensive integration，and inform managementdecisions for ecological security patern.In thispaper，we ilustrate key subjectsandrelationshipsamong previous studiesof ecological securitypattern，and discussmain research contentsand methods in the contextsof pattem formation and evolution mechanism-patern impact-keyarea identification-paternconstructionandoptimization-regulationand management logical elationship.Decisionsupport system for ecological security patern managementcan be improved by strengthening researchonthe mechanismsof keyprocesses ofecological security,improvingandoptimizing the evaluationandforewarning methods，and developing ecological security regulation techniques and safeguarding policies. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeyWords：ecologicalsecurity patern；ecosystem services；biodiversity；keyareas；ecological protectionredlines ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着人口增长和经济社会发展,生态环境面临的压力不断增大，人类对自然资源的不合理开发及利用日益加剧,导致了资源过度消耗,并引发越来越多的生态环境问题,如生态系统退化、生物多样性丧失、土地沙化和水土流失加剧、水气土壤污染等。由此导致的生态危机和灾害严重威胁到人类自身的安全。生态环境问题的累积一旦超过一定程度,将会危及区域和国家生态安全,影响经济社会可持续发展。为此,生态安全问题日益受到关注，已成为各国必须共同面对并亟待解决的重要科学问题。 SVO",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "生态安全是一个复杂性问题,通过对其内涵已进行广泛探讨的基础上,归纳为狭义和广义两方面理解,分别从不同角度体现了生态安全研究的侧重点。狭义上,即从自然本身出发,指生态系统为维持生物多样性与发挥生态系统功能所需的自身结构的完整性与健康程度。广义上,即从人类角度出发,指生态环境条件与生态系统服务能够有效保障人类的生活和健康不受损害,经济发展和社会安定不受阻碍和威胁的复合生态系统安全状况[1-2],这也是生态安全目前研究的主要方面。为了从源头上实现生态问题的有效控制及改善,提高生态保护有效性,维护生态安全,应加强生态系统空间管理,协调生态保护与产业经济发展等相关布局。因此,保障生态安全对落地管理的必然需求,使得生态安全格局成为研究重点。特别是在生态问题具有代表性的景观及区域尺度上,开展生态安全格局研究对于未来国土开发与生态保护至关重要。“十八大”报告中,也首次将国土空间开发格局优化提升到了战略高度,其中,生态安全格局是三大战略格局目标之一[3]。然而,已有研究涉及面多样并缺乏联系,导致不同区域、不同方法下多种格局并存且缺乏统筹集成,难以进行有效的格局构建与管理,有必要系统地分析与梳理。本文通过对生态安全格局相关研究进展进行综合评述,在此基础上阐述了当前生态安全格局研究需要重点关注的内容、之间的相互关系和相关研究方法,以此丰富生态安全研究基础理论,为国家及区域尺度上生态安全格局构建提供借鉴。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1生态安全格局概念的形成与发展",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1国外生态安全格局研究",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自1941年土地健康的概念被提出以来,有关生态系统健康与生态环境风险问题就在全球范围内得到发展。20 世纪80 年代,世界环境与发展委员会（WECD)与国际应用系统分析研究所(IIASA)正式提出生态安全问题及监测系统。2005年,联合国千年生态系统评估报告中指出,生态系统服务退化将严重影响人类的生存环境,对区域和全球的生态安全造成威胁[4]。依据联合国千年发展目标,由中国发起的国际生态安全合作组织(IESCO)于2006年成立。2012年,联合国环境署主持下的生物多样性和生态系统服务政府间科学政策平台(IPBES)正式成立,力求通过科学评估为政策决策服务。这些均表明国际社会对有关人类福祉的生态系统服务、生态安全与可持续发展高度重视。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "国际上围绕生态安全格局研究主要关注于保护地体系的建立,并按照保护严格程度,划分为从最为严格到可持续利用等不同的类型。截止到2014年,全球陆地及内陆水域的保护地覆盖率达到 $1 5 . 4 \\%$ ,约为1990年的两倍[5]。此外,在区域及全球尺度上也构建了保护优先区域,例如世界自然基金会(WWF)在本世纪初划定了全球200个优先保护区域,识别了一系列具有代表性的生态系统;保护国际(CI)应对受威胁生境划定了全球35个生物多样性保护热点区（hotspots）;以及世界自然保护联盟（IUCN）的生物多样性关键地区(KBAs)等。早期的格局构建主要以生物多样性保护为目标,但随着生态系统服务评估的发展,以及有关社会经济问题对生态安全重要性的认识[6,生态安全格局研究逐步转向以自然生态系统为主,与社会经济耦合的相互协同格局的发展趋势。主要侧重在全球变化和人类活动扩张所造成的区域性生态问题背景下,进行生态系统功能及过程研究,生物多样性与生态系统服务评估与协同关系[7],生态保护与恢复，自然与社会经济系统耦合分析[8-10],以及生态安全的政策研究[11]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2国内生态安全格局研究",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "自 20 世纪90年代以来,国内生态安全研究在跟踪国外研究的过程中,逐渐从早期有关概念的探讨、理论研究阶段,发展到生态风险、生态系统评价[12-14],以及注重生态安全格局的研究[15-17]。特别是生态安全格局,成为生态安全面向应用与管理的研究热点领域。在宏观尺度上主要指构成景观、区域等尺度上生态系统和土地利用类型的形状、比例和空间配置[18]。其中存在某些关键的由点、线、面的位置关系所构成的潜在格局,对于维护和控制某些生态过程、保护生态系统结构功能的完整性、生态系统服务的维持具有重要意义[2,15]。近年来,结合我国自身特征在国土尺度上陆续开展了生态区划、生态功能区、主体功能区、保护优先区划分等研究[19-21],为生态区的保护发展与管理提供了依据。2012年,环保部重大专项“我国国土生态安全格局构建关键技术与保护战略研究”,在国土生态安全基础理论与方法研究的基础上,开展了生态保护红线划定研究,力求从政策及法规层面进行严格管控，加强生态安全的维持[22]。 2y",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "国内有关生态安全格局的研究主要集中在格局的识别与构建领域,例如基于案例生态评价来划分空间生态安全等级[23.24],采用空间叠加、目标优化等方法构建生态安全格局[17,25],以及格局的功能、服务评估及相互关系研究等[26]。仍需要加强格局的形成机制、演变规律、影响机理、安全预警及调控的深入研究[27]。总体上,生态安全格局研究尚处于起步阶段,研究范畴较宽、类型多样,但机理性研究较为薄弱,以生态学机理为侧重点的研究往往缺乏宏观层面生态学的考虑,以社会生态角度为侧重点的研究也缺少对生态过程、生态问题的理解。同时,众多研究中尚未形成统一的评价体系与准则,且基本停留在理论研究与评价阶段,导致多种格局并存的现象,不利于实现生态安全格局管理应用,与服务决策的战略需求。本文评述了生态安全格局研究的内容、方法、及之间的联系，为生态安全格局构建与综合评估提供借鉴。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2生态安全格局研究内容综述",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "生态安全格局的构建与完善是在社会经济发展背景下，针对气候变化和人类活动干扰因素，以关键生态问题为对象,结合不同需求级别下的生态保护和恢复活动,进行生态安全格局评估,设计和构建综合生态安全格局及宏观布局方案。生态安全格局作为一个宏观、抽象的生态学问题,所涉及到的内容多样且具有复杂性。本文基于文献中已有研究方向进行归纳的同时,提出了生态安全格局目前所聚焦的主要研究内容,及以“格局形成、演变机制-影响-关键区识别-构建优化-调控管理”为主线的各研究之间的相互关系。具体包括以下几方面内容：1)格局的形成、演变及影响机制；2)基于生态过程的生态安全格局;3)多目标生态安全格局优化；4)基于生态保护红线的生态安全格局构建;5)生态安全的预测、预警与调控管理(图1）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1格局的形成、演变及影响机制",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过对格局形成历史的认识，研究格局形成机制，判断当前格局问题所在。分析格局历史演化过程,揭示潜在脆弱区域。针对自然与人类活动等因素对生态系统造成压力的问题，通过多尺度调查及多因素分析，识别影响区域生态环境的驱动机制。以此为基础，构建生态安全评价技术框架与指标体系，并分析人类活动、气候变化、社会经济等方面对格局的影响程度，明确生态安全格局的关键区域。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/198b159cb9b5ff3259fa80c55e642001bc3477632ff595b37b27927812768edd.jpg",
+        "img_caption": [
+            "图1生态安全格局研究的主要内容与构建思路Fig.1Main contents and construction approaches in the researchof ecological security pattern"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2基于生态过程的生态安全格局",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "生态过程是指生态系统内部以及不同生态系统之间所进行的物质、能量、信息的流动和转化过程[28]。景观格局与生态过程密切相关并且相互影响,但两者之间是否互为因果,则需要具体问题具体分析,继而才能探求其影响程度,如何进行调控。“源”“汇”理论也认为当生态过程超过了其承载能力,将会打破旧的平衡,形成新的“源”“汇”格局[29]。因此,生态安全格局构建研究不仅需要考虑格局的量化,也应重视生态过程,使研究结果更具生态学意义。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3基于多目标的生态安全格局优化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在进行土地利用管理时,人们由于需求偏好,往往只注重看得见的经济效益而忽视看不见的生态效益,或者只注重某几种生态服务价值而忽略了其他生态服务。有关生态系统服务权衡和协同的问题是近年来关注的热点[30]。英国国家生态系统评价中认为,从国家安全角度出发,通过对生态系统服务变化及存在的问题进行分析,建立以生态系统保护为主及多功能景观类型两种发展模式,是生态系统服务优化的最佳途径[31]。多目标的生态安全格局优化目的是以区域生态背景、国家和区域定位、生态目标、产业发展等为基础,通过研究生态系统服务、生物多样性、社会经济发展等与生态安全格局的相互作用和耦合机制,进行格局综合优化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4基于生态保护红线的生态安全格局构建",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "我国已建立了包括自然保护区、森林公园、风景名胜区等在内的保护地体系,主要目标是针对物种及其生境的保护。近年来,国家在各类保护规划中又明确了重点生态功能区、重要生态功能区、生态脆弱区等生态功能区域。同时,也开展了生态保护和恢复相关的工程区建设。但由于管理上缺乏统一规划,空间布局交叉重叠,缺乏相应的法律法规与明细的监管机制,以至仍存在开发建设与生态保护并存,与资源环境承载力不匹配的问题[32]。为了形成全面系统的保护体系,实现生态保护空间明晰、保护长效和严格管控,学者们提出了要从理论、方法到监管、调控等进行有机结合的生态保护红线理念[33]。2014年,“划定生态保护红线,实行严格保护”被纳入到《环境保护法》。生态保护红线是科学、系统、管控最为严格的保护边界,是国家和区域生态保护的最底线，以此为基础构建国家生态安全格局是目前为止较为有效的方式。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5生态安全预测、预警与调控管理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "生态安全格局调控的有效实施需要以生态监测、评估与预警技术为基础,提升生态安全的决策和管理支撑能力。主要包括了对生态系统格局变化的预测,模拟驱动因子对生态系统的影响,以及针对生态安全进行预测和预警。针对不同区域生态系统特征,通过模型和情景分析,开展生态安全水平诊断与预警信号分级技术与方法研究是当前研究的重点,也是服务于决策以及理论和应用集成的重要工具。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3生态安全格局研究方法综述",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1格局的形成及演变分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.1格局形成机制的研究方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究中需要结合孢粉数据,建立孢粉时空数据库,在不同尺度上采用孢粉生物群区化、景观重建算法等不同方法定量重建古植被格局特征及时序变化，揭示生态系统格局的历史变迁。结合古气候数据重建古气候时空格局,通过野外调查、遥感数据、文献中的古气候变化指标等,辨识主导环境因子,揭示生态格局形成的环境学机制。利用孢粉、古植物化石、建群种的起源、演化等相关资料,通过植被群落调查、地统计分析等方法,揭示生态格局形成的生物学机制。格局的形成机制将对于生态安全格局关键区域辩识起到重要支撑作用[27]。但是,当前在大尺度及长时间序列上的研究仍然比较缺乏。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.2格局演变、驱动力及评价体系",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过变化检测分析格局演变,揭示变化剧烈的区域,即需要重点关注的区域。利用遥感监测,建立生态格局演变的定量分析方法,并形成独立地面验证体系,分析生态系统的空间变异。在具体应用中,应根据研究目的和对象选择不同的检测方法。随着数据源的丰富,变化检测已从利用单一数据源,发展为多源遥感数据及",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "GIS 等辅助数据的融合[34.35]。未来还将向自动化与智能化的变化检测方向发展。同时,大量景观格局指数也可在不同的时段及区域定量描述景观空间结构和异质性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "驱动力主要可以分为自然、社会经济、技术、政治和文化五种类型。这些因子通过相互作用的复杂关系在时空尺度上发挥作用[28]。驱动力因素根据研究对象不同具有多样性和复杂性。例如,土地利用变化研究往往是基于驱动力、行为者、土地利用变化这3个重要组分的研究框架,在具体情况下的配置关系。Hersperger等[36]提出了4个基本概念模型来反映行为者的直接作用、潜在驱动力、及与驱动力的交互作用关系等来影响土地利用变化的过程。Gao等[37]研究揭示了在沂蒙山生态恢复区,社会经济因子是主要驱动力,地形坡度、年降雨量也是影响土地利用变化的重要因子。近年来,基于遥感调查、地面调查及监测、社会经济统计等方法,我国开展了国家和典型区尺度的生态环境状况调查,评估了生态系统格局及其变化。分析了影响生态安全的主要因子和生态风险的格局,为区域产业布局和生态环境风险管控提供了依据[38-42]。 O",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于格局演变、驱动力评价的指标体系及定量化方法是生态安全评价及重要区域识别的重要方法之一。国外一般采用的是由加拿大学者提出,并经国际经济合作与发展组织(OECD)发展起来的“压力-状态-响应\"(PSR)框架评价指标体系,以及联合国可持续发展委员会（UNCSD)的“驱动力-状态-响应\"（DSR)指标体系，而欧洲环境署在对两者进行修订基础上提出了（DPSIR)评价体系。2000 年前,国内生态安全评价指标主要是针对生态环境质量评价[43.44]。随后,也逐渐从压力、状态、响应方面,以及方法论的视角论述了生态安全评价指标体系及标准[45-47]。由于生态安全研究涉及多学科交叉,且需要对评价系统有足够认识,仍难以建立较为完善且被普遍接受的指标体系。根据研究角度不同及区域差异性,发展起来的指标体系也逐渐增多。Waltner-Toews[48]提出基于生态系统功能和过程来确定指标,特别是针对受干扰后的恢复能力。Costanza等[49]根据各组分对生态系统的相对重要性,来度量生态系统服务可持续性和生态系统安全,以及针对中国生物多样性与生态系统服务评估建立的指标体系[50]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2因素对格局的影响分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "人类活动方面,结合遥感、野外调查、资料搜集等数据构建人类活动数据库,基于城市发展指数、资源开发强度特征通过突变点分析、空间回归模型等方法分析城市化及资源开发对生态安全格局的影响程度。通过构建重大建设工程干扰强度指数、环境风险指数,以及生态保护建设工程的分布数据库,分析工程建设对生态安全格局造成的正负两方面影响程度,判识生态安全格局关键区域。自然因素方面,在长时间研究尺度下,需考虑气候变化对格局的影响。基于气象数据等资料,利用变异函数、特征函数和空间统计学等方法进行气候变化特征分析,确定气候变化发生的敏感点和关键区。从生态系统结构和功能角度,结合生态系统过程模型分析生态系统对气候变化的脆弱程度,识别气候变化对生态系统的影响规律,明确气候变化对生态安全格局影响的关键区域。Shen等利用气候变化情景及长序列大熊猫数据分析，揭示了气候变化将导致岷山地区约$1 6 \\%$ 的大熊猫生境面临丧失,由于破碎化程度增加了约四倍,剩余的栖息地斑块将小于可能灭绝的阈值面积。社会经济方面，主要开展的是社会经济发展对生态安全格局的影响,需要加强与生态安全格局的协调度分析，研究其权衡关系及维护生态安全格局背景下的发展方式和产业布局。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3生态安全格局构建与优化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.1生态安全格局构建的方法理论与原则",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "景观生态规划中的诸多思想对于构建区域生态安全格局具有启发意义。Forman 基于生态空间理论提出了集中与分散相结合的规划模型。主要通过景观格局调整和集中使用土地,确保大型自然植被斑块完整,保持生物多样性并充分发挥其在景观中的生态功能[51]。景观中关键部位和空间联系的维持是生态安全格局的基础,有针对性地进行格局与过程之间相互作用及关系的研究,有助于回答格局构建问题[15]。景观规划强调空间背景的重要性,考虑生态系统完整性及周围景观和区域环境的影响[52]。该理念同保护区规划及评估相一致[53,54],作为过程发生及交换的界面,格局对于内部的生态状况至关重要[55]。同时,宏观意义上的区域生态安全格局不仅限于单一的自然保护格局,它需要综合考虑社会、经济等多要素多目标的协同[56]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "区域生态安全格局构建应主要考虑如下原则[2.57]:1)优先性。指保护优先,并在新《环境保护法》中首次提出。保护自然景观资源和维持自然景观功能及过程,是保护生物多样性及合理开发利用资源的前提，是区域生态安全格局的基础;2)系统性。综合考虑生态、经济、社会等方面对生态安全格局的影响,由单要素单目标扩展到系统集成分析区域的生态环境问题,进行综合性规划设计、布局与协调;3)区域性。不同区域不同研究对象的景观有不同的结构、功能和生态过程。应从区域拟解决的实际生态问题及应对措施出发,采用有针对性的分析指标与方法进行构建,使得落地管理具有可行性;4)尺度性。格局与过程的相互作用存在于多尺度上,干扰的影响也具有多尺度性。某一尺度的干扰经特定过程会对其他尺度造成影响,亦或无影响。设计安全格局时要注意多尺度问题;5)主动性。除了生态保护以外，通过生态恢复和生态修复等人为主动干预措施（如近年来我国所实施的一系列生态工程等),来构建并逐步完善国土空间生态安全格局。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.2 基于生态过程的格局构建方法",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过对生态过程研究分析,设计针对性的生态安全格局,可以实现对过程的有效控制[15]。在生物多样性保护方面,通过对栖息地和物种分布格局之间某些生态过程的分析,对于如何构建缓冲区、连接廊道、保护斑块具有重要意义。当外部威胁造成了格局内部变化及功能丧失时,廊道功能也会降低甚至消失。因此,在景观管理及规划中,连接度十分重要,生境数量及空间格局共同决定着物种丰富度及可持续性。缺少景观连接度可能导致生境隔离,并进一步阻碍传粉、种子传播、基因流、野生动物迁移和繁殖等其他生态过程。对于连接度的研究,最初主要集中在结构连接度上,缺少对生态过程的考虑。从生态学的角度出发,对于被不同个体所利用的景观以及实际生态流的评价,需要关注功能连接度。功能连接度不仅考虑了现有生境单元具有的物理连接度,同时考虑了基质渗透性、一系列垫步石或允许个体在生境斑块之间运动的其他连接元素,而不只是一种物理上的远近程度[58,59]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "国内外已有较多有关连接度的研究。例如利用阻力模型对保护区及区域上进行功能分区和格局构建[60,61]。Hayward[62]使用生境适宜性模型和最小成本路径分析模拟了美洲狮潜在的迁移廊道。宋波等[63]从迁移意愿的角度提出了廊道设计的修正方法。近年来,大量具有不同特征及复杂程度的指数得到发展，目的是探究景观连接度的状态和趋势,以及与之相关的生态过程[64-68]。其中,基于图论的方法被较好地应用到景观连接度的分析中。该方法中,景观被表示为一系列节点(通常是生境斑块等空间单元)和连接廊道（代表了个体直接穿过两个生境斑块的潜在能力)。基于图论的指数在需要输入的信息量,以及量化连接度特征详细程度所提供的结果之间,具有较好的平衡。该指数也适用于精度相对较粗的数据,对于区域尺度上格局研究比较适用。 A",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "格局变化通过与生态过程的相互关系进而影响生态系统服务，反之也可以基于生态系统服务、生态过程进行格局优化。例如,在黄土丘陵羊圈沟流域的研究发现土地利用变化对土壤侵蚀、土壤水分和养分有较大影响。从坡底到坡顶,坡耕地-草地-林地的土地利用结构对土壤养分和水分的保持能力较好[69]。牛振国等通过对水文过程进行模拟,提出了基于土壤水分供给的土地利用格局优化[70]。Su等[71]揭示了城市化导致的景观破碎化将影响一系列的生态过程,显著降低生态系统服务供给。规划城市格局时,应针对性地避免格局形状复杂化。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "生态过程与格局的关系涵盖范围十分广泛,包括从自然生态过程、社会经济过程到自然景观和人文景观等方面。在景观或区域尺度上,除了将自然生态过程作为系统内部主要因素来考虑外,同时需要更多地结合社会经济、人文等过程,这就需要运用系统分析和模型模拟方法来实现。通过格局构建及优化,控制有害并恢复有利的过程,实现区域生态安全。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.3基于多目标的格局优化方法",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以生态系统服务权衡关系为例,生态恢复主要提升的是调节服务和文化服务，以粮食产量为代表的供给服务相对较低,但总体上增加了生态系统服务的能力。因此通过权衡,保障某些生态系统服务的同时,实现综合服务最大化。目前,多种生态系统服务之间的量化分析仍以定性分析为主,主要采用InVEST、ARIES 等模型或统计分析方法进行判定。定量化的研究相对较少,其中以均方根偏差为量化指标的方法较为简单与实用[72]。由于生态系统服务之间关系复杂,为了优化生态系统空间格局,维护区域可持续性发展,需要对生态系统服务进行综合集成研究[73]。主要包括：明确各服务之间相互作用关系,包括服务的供给和需求以及多种服务之间的权衡;识别主要的驱动因子,便于优化组合分析;综合多源数据,通过叠加分析、空间分析等综合算法进行空间制图,分析生态系统服务盈余,识别生态系统服务的关键区域，便于有效地参与决策并制定明晰的生态保护工程方案与管理措施[74,75]。董张玉[76]基于多目标蚁群算法,以优化湿地生态系统服务为目标,在湿地与农作物协调发展约束下,对湿地生态系统空间格局进行了优化分析。Hu等[7]将生态系统服务纳入到土地规划管理中,研发了空间决策支持工具 SAORES,集情景分析、生态系统服务权衡、生态补偿与重要生态系统服务的多目标于一体，优化农田退耕规划的格局。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "生物多样性与生态系统服务在本质上是相互联系的,并且对人类福祉至关重要。当前，大多数保护地的管理主要是针对生物多样性,而忽视了生态系统服务的维持。近年来,不少研究在空间上分析了生物多样性与生态系统服务的同步效应[78-9]。但在是否以生态系统服务作为保护生物多样性策略的观点之间,存在着持续争论[80]。有研究认为,直接以生态系统服务为目标可以满足多重生态系统服务以及生物多样性保护目标,但不能取代以生物多样性为目标的保护活动[81]。在追求多目标时,生物多样性内在价值和生物多样性保护的目标不能被否定。因此,需要有策略地选择相应服务并同生物多样性进行整合,从而有利于制定保护规划和重点保护格局。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "基于多目标的生态安全格局优化也需要在生态、社会及经济效益等方面进行统筹。目前我国国土空间开发无序,产业发展与资源环境不协调,更需要加强不同用地类型的规划布局及格局优化研究。胡雪丽、蒙吉军等[23,82]以土地利用类型结构和适宜性为基础,构建了考虑生态、经济、社会等安全目标下的土地利用安全格局。宋晓龙等[83」以湿地生物多样性为保护目标,综合考虑了社会经济等因素,用Marxan空间优化模型设计保护预案,优化保护格局。徐勇等[84」按县域对我国资源环境承载力约束进行了测算和地域类型划分,有利于区域人口经济发展与资源环境状况相均衡发展格局的形成。Langemeyer等通过多目标决策分析（MCDA）作为决策支持工具将生态系统服务纳入到政策进程中。该工具在政策方面的关键优势在于它能够协调利益相关者观点的冲突,并解决生态,社会和经济价值之间如何权衡的问题[85]。格局构建需要考虑被当地政府和居民所接受的程度,最大限度地解决贫困问题并实现对人类福祉至关重要的生物多样性保护和生态系统服务维持等目标,是可以被普遍接受的[8]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.4以生态保护红线为基础的格局构建方法",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "生态保护红线划定技术流程包括：生态保护红线划定范围的识别,生态保护重要性评估（如生态系统服务重要性,生态环境敏感性与脆弱性评估),生态保护红线划定方案的确定,以及生态保护红线边界的核定。生态保护红线并不是重新划定新的保护区域，而是整合已有的各类重要保护区域和存在保护空缺的关键区域,提高保护效率,形成便于监管的生态保护体系[8]。以生态保护红线为基础的生态安全格局,通过集成生态系统服务重要性、生态敏感性评估技术,融合生态重要区、生态敏感性区、保护地等,有助于实现我国生物多样性保护体系不完善及建立国家公园体制的重大科学需求。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "生态保护红线是底线,但生态保护红线外部也存在重要的尚未被纳人其中的关键区域。以生态保护红线为基础的生态安全格局构建,某种程度上同保护区规划思想接近,即生态保护红线类似于保护的核心区域。通过研发多尺度生态重要性、生态退化等综合评估技术,基于生态格局演变机理及生态过程分析的关键区域和保护空缺识别(例如斑块、廊道、节点),生物多样性热点区优化,构建生态保护红线为底线,定量化、梯度化外延的生态安全格局。同时，从社会经济等多目标的角度出发,分析社会经济发展与生态保护格局的耦合关系,以便在区域生态安全格局背景下进行产业发展布局。有研究针对不同的保护与开发需求,将生态安全格局的水平划分为底线型、满意型和理想型3种类型[17],但不足之处是划分过程存在一定的主观性。随着生态安全研究的深人、生态效益量化指标及空间格局优化技术方法的发展,生态安全格局的科学性与合理性将得",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "到逐步提升。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4生态安全预测与管理",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "采用模型模拟与情景分析是预测、预警的主要方法。在预测生态系统格局变化方面，主要代表模型包括细胞自动机模型、马尔科夫模型及基于智能体模型等。Petrov 等[87]针对葡萄牙的 Algarve 区域,利用改进的细胞自动机模型MOLAND预测了4种情景下城市的发展格局。Sang 等[88]利用CA-Markov 模型模拟了城镇土地利用的空间格局。在模拟驱动因子对生态系统的影响方面,Syphard 等[89]模拟了人口与经济增长对南加州生境格局的影响。Seto 等[90]预测了城市扩张对生境、生物多样性和植被碳汇的影响。Craft 等[91]利用实地测量和模型模拟预测了海平面上升对海涂面积及生态系统服务的影响。对于生态系统服务而言,模型模拟可以分为环境模型、社会模型以及环境与社会关系模型[92]。根据自然与社会特征的情景,通过生态系统服务的优化组合,实现生态安全格局的优化配置。在生态安全预测和预警方面,较多研究基于细胞自动机、马尔科夫链、集对分析等方法对生态安全进行了动态预测[93.94]。Li、张利等[95,96]根据生态安全评价的结果和分类树系统,应用知识工程的方法进行了早期预警制图。Kefi等[97]提出一种系统使用空间格局指标的方法来作为生态状况转变的早期预警信号,并认为空间指标虽然在理论和应用上都滞后于时间型指标,但却更具优势。基于格局模型预测的主要缺陷是不涉及格局动态机制的模拟,缺乏生态过程对格局影响的考虑。模型可靠性主要取决于转移概率,邻域规则等因素[98]。未来应加强格局模型、格局过程关系模型、空间统计模型等不同模型之间的耦合，发挥不同模型优势,提高模拟的效率和准确性。 2",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "生态安全管理方面,应该开展生态保护红线的绩效考核,强化落实责任追究及责任主体界定。合理控制开发强度,保持生态系统的完整性,研发生态补偿标准核算的方法。建立从政策的制定,管理方案,公众参与等多角度的相互反馈和上下联动机制。寻求区域生态安全保障,人类福祉提升,区域可持续发展的途径与模式。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4生态安全格局研究中存在的问题",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1格局构建、维护与监管的问题",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "首先,生态安全格局构建的理论框架比较薄弱，仍处于不断探索与完善中。不同研究方向展开了诸多研究,但缺少系统性结合与集成。其次,生态安全评价是生态安全格局构建的重要内容,生态安全格局构建的理想程度需要通过评价来体现。然而,评价方法和指标体系缺乏公认的准则,导致不同评价结果间存在偏差,缺乏可比性,不能适应不同时空尺度上的比较与融合。第三,生态安全格局应有相应的保护、监管等约束。否则,格局只是纸面上的边界。基于目前已有的保护地和生态功能区的保护现状,要实现生态安全格局的有效构建及管理是未来在理论方法和管理应用上亟待解决的问题。第四,生态安全格局构建在区域和国家层面上的设计、管理及决策支撑技术有待提高。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2尺度效应问题",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "不同空间尺度上,关注重点有所不同。在国家及全球的大尺度上,多注重生物多样性保护和气候调节服务。主要从国家生态安全出发,关注国土宏观尺度上的关键区域与生态功能区等。而在省市等小尺度上,多注重供给服务和文化服务[74.99]。主要从保障区域的生态安全出发,关注典型区内部的生态问题及重要区域。由于跨尺度的不确定性及异质性增大,对小尺度上功能及服务的考虑,可能并不适宜大尺度的生态安全格局，需要特别关注功能区交界处的布局以及跨尺度整合。时间尺度方面,不同阶段自然条件、人类活动等多种因素的影响不同,生态安全格局也可以随生产力的变化、生态保护能力的增强等,逐步优化调整。尺度问题对于政策制定(例如生态补偿方式)和实施管控造成了一定难度。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.3机理研究及学科融合问题",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "生态安全是一个综合性较强的科学问题,涉及到生态学、地理学、环境科学、生态经济学等多学科的交叉。生态安全格局评估需要有较强的理论研究基础作为支撑。如在生态安全格局的形成机制,格局、过程、功能及",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "服务的相互关系及机理研究,生态安全格局与社会经济可持续发展的理论与方法等方面仍需要不断完善。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5展望 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "生态安全格局的构建经历了从定性描述到定量分析,静态评估到动态演变及预测,刚性条件约束到弹性目标最优,多重类型保护规划到系统整合协调的过程。研究的重点,从注重结构的优化,如森林覆盖率、农林牧用地比例等,逐渐转向基于生态过程的空间格局效应,如生物迁移、地表径流、水土流失、碳循环等。研究的目的,逐渐从物种保护、土地利用配置转移到生态恢复与修复、脆弱区等区域及国家尺度的可持续发展上。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "近年来,有关生态安全的决策支持及调控系统成为研究的热点。但能够全面系统地调控区域生态安全的成果并不多,未来的研究重点需要关注:1)生态安全格局评估方法、模型的改进与优化。2)生态安全格局构建与国土开发现状、规划及管理的进一步结合。3)生态安全和社会经济协调发展的调控技术与保障政策的研发与实施。结合生态治理、生态建设工程和已有的产业模式及技术措施等,规划调整产业发展布局,提出生态安全格局调控的决策建议。4)加强集监测、评估、预警、调控、管理等为一体的信息平台，构建以数据库、知识库、方法库等为载体的生态安全格局决策支持系统。 .（",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1］郭中伟.建设国家生态安全预警系统与维护体系——面对严重的生态危机的对策，科技导报，2001，19(11)：54-56.  \n[2] 马克明，傅伯杰，黎晓亚，关文彬.区域生态安全格局：概念与理论基础.生态学报，2004，24(4)：761-768.  \n[3］樊杰.我国国土空间开发保护格局优化配置理论创新与\"十三五\"规划的应对策略．中国科学院院刊，2016,31（1)：1-12.  \n[4] Milenium Ecosystem Assessment.Ecosystems and human well-eing:Synthesis.Washington D.C: Island Press，2005.  \n[5]Uffe-BignoliD,urgessD,inghamH,ellE,deLiaMG,DegignetBertyB,ilaAN,Martinez-LopezJ,LewisE,soA,Wicander S,Geldmann J,van Soesbergen A,Arnell A P, $0 ^ { \\prime }$ Connor B,Park S, Shi YN, Danks FS,MacSharry B, Kingston N.Protected planetreport 2014.Cambridge，UK：UNEP-WCMC,2014.  \n[6]Blaikie P.Epilogue:Towards a future for political ecology that works.Geoforum,2O08,39(2): 765-772.  \n[7]BradUdotsceiidaeofpoldeeeallplatform for biodiversityandecosystemservices(IPBES).Law,EnvironmentandDevelopment Journal，2013,9（2）:202-220.  \n[8]LiuJG,yH,HllVDvisSJ,GskelJ,HertelbecoJ,tKCleckPrenC,SStesintegatlbalsustainability.Science，2015，347(6225）：1258832.  \n[9]MoteshareiS,RivasJ,KalnaE,AsrarGR,Busalachi AJ,CahalanRF,CaneMA,ColwelRR,FengKS,ranklinRS,HubacekK,Mirales-WielmF，iyoshT,uthgdeevRirmamadi,uklaJ,ebricJ,YkovenkV,Zeng.ModelingSabiliyPopulation,InequalityConsumptio，ndidirectioalCouplingoftheErthandHumanSystes.NatioalSienceRevie，16，（4）：470-494.  \n[10]DngSK,KassaKS，TourrndJF,oeRB.BildingResilienceofHuman-NaturalSystemsofPastoralimintheDevelopigWorld:Interdisciplinary Perspectives.New York: Springer,2016.  \n[11]Pickard,nelJacLE,ealevi：ospaaltsteosericscemanagement. Ecosystem Services， 2015,14: 45-55.  \n[12] 付在毅，许学工.区域生态风险评价.地球科学进展，2001，16(2)：267-271.  \n[13] 杜巧玲，许学工，刘文政.黑河中下游绿洲生态安全评价.生态学报，2004，24(9)：1916-1923.  \n[14] 杨庆媛.西南丘陵山地区土地整理与区域生态安全研究.地理研究，2003，22(6)：698-708.  \n[15] 俞孔坚.生物保护的景观生态安全格局.生态学报，1999，19(1)：8-15.  \n[16] 徐海根，包浩生．自然保护区生态安全设计的方法研究.应用生态学报，2004，15（7)：1266-1270.  \n>[17] 俞孔坚，王思思，李迪华,李春波.北京市生态安全格局及城市增长预景.生态学报,2009,29（3)：1189-1204.  \n[18] 傅伯杰，陈利顶，马克明，王仰麟.景观生态学原理及应用.北京：科学出版社，2001.19] 傅伯杰，刘国华，陈利顶，马克明，李俊然.中国生态区划方案.生态学报，2001,21（1)：1-6.  \n[20] 贾良清，欧阳志云，赵同谦，王效科，肖燚，肖荣波，郑华.安徽省生态功能区划研究.生态学报，2005，25(2)：254-260.  \n[21] 吴波，朱春全，李迪强，董珂，王秀磊，石培礼.长江上游森林生态区生物多样性保护优先区确定——基于生态区保护方法.生物多样性，2006，14(2):87-97.  \n[22] BaiY,JiangB,ang,i,ataloJangSFwolicaldielicyE）ureoeicsiadUsePolicy，2016，55：348-351.  \n[23] 蒙吉军，赵春红，刘明达.基于土地利用变化的区域生态安全评价——以鄂尔多斯市为例．自然资源学报，2011,26(4)：578-590.  \n[24] 董世魁，吴娱，刘世梁，苏旭坤，赵海迪，张勇.阿尔金山国家级自然保护区草地生态安全评价.草地学报，2016,24(4)：906-909.  \n[25] 蒙吉军，朱利凯，杨倩，毛熙彦.鄂尔多斯市土地利用生态安全格局构建.生态学报，2012，32（21)：6755-6766.  \n[26] 王亚飞，郭锐，樊杰.中国城市化、农业发展、生态安全和自然岸线格局的空间解析.中国科学院院刊，2016，31(1)：59-69.  \n[27] 刘国华.西南生态安全格局形成机制及演变机理.生态学报，2016，36(22）：7088-7091.  \n[28] 吕一河，陈利顶，傅伯杰.景观格局与生态过程的耦合途径分析.地理科学进展，2007，26(3)：1-10.  \n[29] 陈利顶，傅伯杰，赵文武.“源”“汇\"景观理论及其生态学意义.生态学报，2006，26(5)：1444-1449.  \n[30] HaseD,hartrocholleelesdefs，ndloofosstersibagiosmultiscale framework applied to the Leipzig-Halle Region，Germany.Ecology and Society，2012,17(3）: 22.  \n[31] UKNationalEosysteAsessment.eUKNatioalEcosteAent：SthsisoftheKeynding.Cambidge：UNE-W.  \n[32] 邹长新，王丽霞，刘军会.论生态保护红线的类型划分与管控.生物多样性，2015，23(6)：716-724.  \n[33] 高吉喜，陈圣宾.依据生态承载力 优化国土空间开发格局.环境保护，2014,42（24)：12-18.  \n[34] 梅洋，陆苗.基于遥感影像的变化检测研究动态.地理信息世界，2009，7(2)：42-47.  \n[35] 董仁才，刘明，徐卫华，王学志，欧阳志云.多源数据融合技术在汶川地震生态环境影响应急评估中的应用.生态学报，2008，285795-5800.  \n[36] Hersperger A，GenaioMP，VerburgP，BurgiM.Linkinglandchange withdrivingforcesandactors：fourconceptual models.EcologandSociety，2010,15(4):1.  \n[37] Gao P，Niu X,Wang B,Zheng YL.Land use changesand its driving forces in hilly ecological restoratiol isand of northernchina. Scientificreports，2015,5:11038.  \n[38] 欧阳志云，王桥，郑华，张峰，侯鹏.全国生态环境十年变化(2000—2010年)遥感调查评估.中国科学院院刊，2014，29(4)：462-466.  \n[39] 沈园，谭立波，单鹏，曹慧明，邓红兵.松花江流域沿江重点监控企业水环境潜在污染风险分析.生态学报，2016，36(9)：2732-2739.  \n[40] 张青青，徐海量，樊自立.玛纳斯河流域生态问题的潜在风险性评估．自然灾害学报，2012，21（3)：70-78．  \n[41] 殷春雪，李锋，钱谊，王洁.基于熵权的长沙市城市生态安全综合评估与预测.环境科学与技术，2013，36(1)：169-174.  \n[42] 刘世梁，崔保山，温敏霞，董世魁.重大工程对区域生态安全的驱动效应及指标体系构建.生态环境，2007，16(1)：234-238.  \n[43] 李晓秀.北京山区生态环境质量评价体系初探．自然资源，1997，21（5）：31-35.  \n[44] 叶亚平，刘鲁君.中国省域生态环境质量评价指标体系研究.环境科学研究，2000，13(3)：33-36.  \n[45] 左伟，王桥，王文杰，刘建军，杨一鹏.区域生态安全评价指标与标准研究.地理学与国土研究，2002，18(1)：67-71.  \n[46] 王朝科.生态安全评价的方法论.统计与咨询，2003，10(1)：40-41.  \n[47] 柯小玲，冯敏，刁凤琴.基于结构方程模型的煤矿区生态安全评价指标体系研究.中国煤炭地质，2015，27（11)：27-30.  \n[48] Waltner-ToewsD.Ecosystemhalth：aframeworkforimplementingsustainabilityinagriculture.ioscience，996,46(9）:686-689.  \n[49] Costanza R,d'ArgeR,D GrotR,FarberS,GrasoM,HanonB,LimburgK,NaeemS,O'neillRV,ParueloJ,RaskinRG,Suton,vanden Belt M.The value of the world's ecosystem services and naturalcapital.Nature,1997,387(6630): 253-260.  \n[50] 傅伯杰，于丹丹，吕楠.中国生物多样性与生态系统服务评估指标体系.生态学报，2017,37(2)：341-348.  \n[51] 肖笃宁，布仁仓，李秀珍.生态空间理论与景观异质性.生态学报，1997，17(5)：453-461.  \n[52] Forman R TT.Land mosaics: the ecology of landscapes and regions. New York:Cambridge University Press，1995.  \n[53] DeFries R,Karanth K K,Pareeth S.Interactions betwe rotected areas and their surroundings in human-dominated tropical landscapes.BiologicalConservation，2010,143（12）:2870-2880.  \n[54]HansenAJvisCR,iekielekNrossJ,obaldDGetz,MeloF,DeFriesR.DlneatigthecosystesContaingroteAreas for Monitoring and Management.Bioscience，2011,61(5):363-373.  \n[55] Laurance WF,Gascon C. How to creatively fragment a landscape. Conservation Biology，1997,11(2）:577-579.  \n[56] 王如松，欧阳志云.社会-经济-自然复合生态系统与可持续发展.中国科学院院刊，2012，27(3)：337-345.  \n[57] 陈利顶，吕一河，田惠颖，施茜.重大工程建设中生态安全格局构建基本原则和方法.应用生态学报，2007，18（3）：674-680.  \n[58] Tischendorf L,Fahrig L.On theusageand measurement of landscape connectivity. Oikos，20o,90(1):7-19.  \n[59] SauraS，EstregilotonodgFreire.etwokaistdseivityrds:atiotroeafor(1990-2000). Ecological Indicators，2011，11(2）: 407-416.  \n[60] 李纪宏，刘雪华.基于最小费用距离模型的自然保护区功能分区．自然资源学报，2006，21（2)：217-224.  \n[61] 杨姗姗，邹长新，沈渭寿，沈润平，徐德琳.基于生态红线划分的生态安全格局构建——以江西省为例.生态学杂志，2016，35（1)：250-258.  \n[62] HaywardMW.edtoatioaliendproritiethreateningprocessesusedtodeterinetheattatusintheIUCNRedList.CoseatioBiology，2009,23(6)：1568-1576.  \n[63] 宋波，倪婷玉，王瑾.基于迁移意愿的动物迁移廊道修正—以德化县云豹为例.生态学报，2010,30(17)：4571-4577.  \n[64] Hanski I,Ovaskainen O.The metapopulation capacityofafragmented landscape.Nature，200,404（6779）:755-758.  \n[65] Moilanen A，Nieminen M.Simpleconnectivity measures in spatial ecology.Ecology，2002,83（4):1131-1145.  \n[66] CalabreseJM,agan WFcomprsoshopper'sguidetotivitymericsFroiersinEcologandteEnvront，，2（1):529-536.  \n67]SaaSaalLalileateiiasetiaiindices and application to acase study.Landscape and Urban Planning，2007,83(2）:91-103.  \n[68] Urban DL,MinorE S,Treml EA,Schick R S.Graph modelsof habitat mosaics.Ecology Leters,2009,12(3):260-273.  \n[69] 傅伯杰，陈利顶，马克明.黄土丘陵区小流域土地利用变化对生态环境的影响——以延安市羊圈沟流域为例.地理学报，1999,54（3)：∠41-∠40.  \n[70］牛振国，李保国，张凤荣.基于区域土壤水分供给量的土地利用优化模式.农业工程学报，2002，18（3）：173-177.  \n[71] SuSL,XiaoR,JiangZL，ZhangY.Characterzinglanscappateandecossmservcevaluecangesforurbanzationimpactsataregional scale.Applied Geography，2012,34：295-305.  \n[72] BradfordJB,oliitsidt,210-216.  \n[73] 傅伯杰.生态系统服务与生态安全.北京：高等教育出版社，2013.  \n[74] 傅伯杰，张立伟.土地利用变化与生态系统服务：概念、方法与进展.地理科学进展，2014，33(4)：441-446.  \n[75] 傅伯杰，于丹丹.生态系统服务权衡与集成方法.资源科学，2016，38(1)：1-9.  \n[76] 董张玉.基于GIS/RS 与多目标蚁群算法的三江平原沼泽湿地空间格局优化[D].长春：中国科学院大学（东北地理与农业生态研究所），2014.  \n[77] Hu HT,FuBJ,uY,ZgZS：stillepitessetdotiofooalaeEcology，2015,30(3）: 547-560.  \n[78] Egoh B，Reyers B,Rouget M，Bode M,Richardson D M.Spatial congruence between biodiversityand ecosystemservices outh Africa.Biological Conservation，2009，142（3）：553-562.  \n[79] Xiao Y,Ouyang Z Y,Xu W H, Xiao Y,Zheng H, Xian CF.Optimizing hotspot areas for ecologic planning and gementbased onbiodiversity and ecosystem services. Chinese Geographical Science,2016,26(2）: 256-269.  \n[80]ReyersBaskallsHrgdi.gogoesitdosyc62(5): 503-507.  \n[81] ChanKM，ShawMR，CameronDR，UnderwoodEC，DailyGC.Conservationplaingforecosystemservices.PLoSBiology，2006，4(11) : e379.  \n[82] 胡雪丽，徐凌，张树深.基于CA-Markov模型和多目标优化的大连市土地利用格局.应用生态学报，2013，24(6)：1652-1660.  \n[83] 宋晓龙，李晓文，张明祥，张黎娜，李东来.黄淮海地区湿地系统生物多样性保护格局构建.生态学报，2010，30（15)：3953-3965.  \n[84] 徐勇，张雪飞，李丽娟，戴尔阜，徐卫华.我国资源环境承载约束地域分异及类型划分.中国科学院院刊，2016,31（1)：34-43.  \n[85] LangemeyerJ，Gmez-BaggetunE，HaseD，ScheuerS，lmqvist T.Bridgingthegapbetweecosystemserviceasessmentsndland-useplanning through Multi-Criteria Decision Analysis(MCDA).Environmental Science & Policy,2016,62：45-56.  \n[86] 徐德琳，邹长新，徐梦佳，游广永，吴丹.基于生态保护红线的生态安全格局构建.生物多样性，2015,23(6)：740-746.  \n[87] PetrovLO,LavallC,asakoM.UbanlandusesenariosforaourisregioniEurope:AplingteLAodeltogaertgal.Landscape and Urban Planning,2009,92(1)：10-23.  \n[88]SangLL,ZhangC,YangJY,ZhuDH,YunWJ.SmulationoflandusespatialpttenoftownsandvillgesbasedonCA-Mrkovodel.Mathematical and Computer Modelling，2011,54(3）: 938-943.  \n[89]SypardAD,larkeKC，anklinJUsingcellautomatomodeltofeastfetsofubangrowonbitatpateioueCalifornia. Ecological Complexity，2005，2（2）:185-203.  \n[90] SetoKC,GunealputyR.Gbaleastsuepsitddtmpactsoivesitydblsrfthe National Academy of Sciences of the United States of America,2012,109(40):16083-16088.  \n[91]CraftCoakleasihseleate-elmarsh ecosystem services.F ontiers in Ecology and the Environment,2009，7(2）：73-78.  \n[92] SmithRI,DickJM，ScottE.heroleofstatistcsinthenalysisofecosystemservices.Environetrcs，2011,22（5)：60-617.  \n[93]GongJZLYiaBC,ZaGWUbaecolcaluritesentdforeastig，asecellatomataodel:edyfGuangzhou，China. Ecological Modellng，2009,220（24）: 3612-3620.  \n[94] 石欣，张涛，雷璐宁.基于集对分析与马尔可夫链的生态安全动态评估.计算机应用，2014，34（2)：519-522,527-527.  \n[95] LiYF，SunX,ZuXD,CaoHH.Aarlyangethodfascaeolgicalscurityiapidubigoastalareasdtslnin Xiamen，China.Ecological Modelling，2010,221（19）：2251-2260.  \n[96］张利，陈影，王树涛，门明新，许皞.滨海快速城市化地区土地生态安全评价与预警——以曹妃甸新区为例.应用生态学报，2015，26(8) : 2445-2454.  \n[97] Kefi S,GutalV,Brock WA,CarpenterSR,ElisonA,iviaVN,SeekellDA,SheferM,anNesEHDakosVEarlywaialsof ecological transitions：methods for spatial paterns.PLoS One,2014,9(3）：e92097.  \n[98] 徐延达，傅伯杰，吕一河.基于模型的景观格局与生态过程研究.生态学报，2010，30(1)：212-220.  \n[99] HeinL，VanKoppenK，DeGrotRS，VanIerlandEC.Spatialsales，stakeholdersandthevaluationofecosystemservices.EcologicalEconomics，2006,57(2）:209-228.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

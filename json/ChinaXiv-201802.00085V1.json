@@ -1,0 +1,410 @@
+[
+    {
+        "type": "text",
+        "text": "R134a在水平管外降膜蒸发的实验研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵创要 冀文涛 陶文钰（西安交通大学热流科学与工程教育部重点实验室，能源与动力工程学院，西安，710049）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：实验研究了不同热流密度不同液膜流量下，R134a在垂直布置的七根水平强化管外的降膜蒸发传热特性。结果表明：相同热流密度下在液膜流量较小阶段，管外传热系数随着液膜流量增加而明显增加；随着液膜流量的进一步增大，管1-3的管外传热系数保持不变，管4-7的管外传热系数先增大后减小。同时发现，液膜流量为 $0 . 1 5 9 \\mathsf { k g m } ^ { - 1 } \\mathsf { s } ^ { - 1 }$ 时，随着热流密度的增大所有管的传热性能先增大后减小，并且转折点出现在较小的热流密度下；液膜流量为0.29kgms时，管1性能一直增强，管 2-4的传热系数随热流密度增大先增大后减小，管5-7的传热系数一直减小，并且管1-4转折点出现在较大热流密度下。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：R134a；降膜蒸发；水平管中图分类号：TK124 文献标志码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Experimental Studies on Falling Film Evaporation of R134a outside Horizontal Tube bundle ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHAO Chuang-Yao, JI Wen-Tao, TAO Wen-Quan (KeyLaboratoryofThermo-Fluid Science and EngineeringofMOE,SchoolofEnergy&Power Engineering,Xi'anJiaotong University,Xi'an 710049,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The faling film evaporation outside seven horizontal enhanced tubes in a vertical column with various heat flux and film flow rate was experimentally investigated.The results indicated that forthe constant heat flux the falling film heattransfer coeffcient was greatly increased with increase of filmflowrate under smaler film flowrate; with further increaseofthefilm flowrate the faling fimheattransfercoefficient tended tobeconstant for the tubes No.1-3 but firstly increased and then decreased for the tubes No.4-7.It was also found that for the filmflowrate of $\\boldsymbol { { \\Gamma } } = 0 . 1 5 9 \\mathrm { { k g m } ^ { - 1 } \\mathrm { { s } ^ { - 1 } } }$ , with increase of heat flux the heat transfer of all tubes were firstly enhanced and then deteriorated and the peak values occurred at smaller heat flux; for $\\boldsymbol { { \\Gamma } } = 0 . 2 9 \\mathrm { { k g m } ^ { - 1 } \\mathrm { { s } ^ { - 1 } } }$ , with increase of heat flux the heat transfer of tube $\\mathrm { N o . l }$ was always enhanced,that of tubes No.2-4 was firstly enhanced and then weakened,and that of tubes No.5-7 was always weakened. In addition the peak values of tubes No.1-4 occurred at larger heat flux. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:R134a; Falling Film Evaporation; Horizontal Tube ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "降膜蒸发是制冷剂由布液器分配到传热管表面、并在重力作用下沿传热管表面流下并吸热蒸发的过程。与传统的满液式蒸发器相比，降膜蒸发器具有制冷剂充灌量小，传热系数大等优点，被广泛应用于海水淡化，海洋热能利用、石油化工以、食品加工及余热利用等领域。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "降膜蒸发受多种因素的影响[1-4]。作者调研文献发现，降膜蒸发的传热机理在不同热流密度下存在很大差异，因此各种因素对降膜蒸发传热性能的影响因传热管表面的热流密度的不同而有所差异。低热流密度时，液膜内以导热和单相对流传热为主，此时液膜厚度成为主要热阻，传热系数由液膜流量决定；高热流密度时，液膜内核态沸腾为主，此时传热系数由热流密度和管表面的气化核心密度决定。液膜内的对流和核态沸腾在降膜蒸发过程中起着重要的作用，二者均与热流密度和液膜流量密切相关[5]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "以往的对降膜蒸发的研究工质多为水（海水）或氨水，而对新型制冷剂如R134a的研究较少。本文通过实验研究了变热流密度变液膜流量下，R134a在水平强化管外降膜蒸发传热特性，为以后的研究和降膜蒸发器的设计提供了依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1实验系统及方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "实验系统如图1所示。系统中包含了三个循环，即制冷剂循环，加热水循环和冷却水循环。实验中，制冷剂在磁力泵作用下通过布液器均匀分配到水平蒸发管外表面，并在重力作用下沿蒸发管壁流下，同时吸热蒸发，生成的气态制冷剂沿连通管进入冷凝器凝结为液态，并汇流于冷凝器底部。加热水和冷却水分别由水泵输送，流量由电磁流量计测量。冷却水箱和加热水箱均配有加热和冷却装置，以维持所需要的温度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/347979b374d7e608492a4185057b24e7fa6cfdd02c34fba0aa2cd8fd2e902596.jpg",
+        "img_caption": [
+            "(1）冷凝器（制冷剂存储罐） (2）蒸发器 (3）电磁流量计(4)压力表(5)凝液量筒(6)放气阀(7)制冷剂磁力泵(8)制冷剂充注口(9）热水泵(10)热蓄水箱（11）排液阀(12)冷水泵(13)冷蓄水箱(14）布液器"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "布液器由多孔圆管、半圆管式溢流槽和导流板构成，并且在安装时保证处于水平位置。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验管进出口水温由自制铜-康铜热电偶测量，进出口水温差由6对铜-康铜热电耦组成的热电堆测量。热电偶以及热电堆均由二等标准水银温度计标定。蒸发器和冷凝器内的温度由A级精度的铂电阻温度计监测。系统内压力由量程 $2 . 5 \\mathrm { { M P a } }$ ，精度0.25级的压力表测定。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验管外表面为三维强化结构，内表面为多头螺纹结构。蒸发器中实验管的布置方式如图2所示，管径为 $1 9 . 0 5 \\mathrm { m m }$ ，管心距为 $2 2 . 4 \\ \\mathrm { m m }$ ，有效长度575mm，玻璃板间距 $3 8 . 4 ~ \\mathrm { m m }$ ，整个实验段包含7根相同强化结构的传热管，并且竖直排列，从上到下依次编号1-7。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文实验在饱和温度为 $6 ^ { \\circ } \\mathrm { C }$ 下进行，相关热物性参数从文献[6]中查取。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a696bab4f371a5ef1233e54cf2d654cc51496b3134f33c8799379ed091eae9f4.jpg",
+        "img_caption": [
+            "Fig.1 Schematic diagram of experimental apparatus ",
+            "图2降膜蒸发器中实验管布置示意图Fig.2 Schematic diagram of layout of the tubes"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 数据处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1总传热系数",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "第 $m$ 根蒸发管中加热水放出的热量：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi _ { \\mathrm { e } , m } = \\dot { m } _ { \\mathrm { e } , m } c _ { p , m } ( t _ { \\mathrm { e } , m , \\mathrm { i n } } - t _ { \\mathrm { e } , m , \\mathrm { o u t } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "第 $n$ 根冷凝管中冷却水放出的热量：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\phi _ { \\mathrm { c } , n } = \\dot { m } _ { \\mathrm { c } , n } c _ { p , n } ( t _ { \\mathrm { c } , n , \\mathrm { o u t } } - t _ { \\mathrm { c } , n , \\mathrm { i n } } ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "参考热流量定义为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi _ { \\mathrm { a } } = 0 . 5 ( \\sum _ { m = 1 } ^ { k } \\phi _ { \\mathrm { e } , m } + \\sum _ { n = 1 } ^ { l } \\phi _ { \\mathrm { c } , n } + \\varPhi _ { \\mathrm { p } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中 $\\phi _ { \\mathfrak { p } }$ 为制冷剂液泵的加热量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "总传热系数由式(3)获得的传热量确定：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk = { \\phi _ { \\mathrm { e } , m } } \\mathord { \\left/ { \\vphantom { \\phi _ { \\mathrm { e } , m } } } \\right. \\kern - delimiterspace } A _ { \\mathrm { o } } \\Delta t _ { \\mathrm { m } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\scriptstyle A _ { 0 }$ 为实验胚管外表面积， $\\Delta t _ { \\mathrm { m } }$ 为对数平均温差。实验中确保各测点的蒸发与冷凝传热的热平衡偏差小于 $5 \\%$ ，即：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Biggl ( \\sum _ { m = 1 } ^ { k } \\phi _ { \\mathrm { e } , m } + \\phi _ { \\mathrm { p } } - \\sum _ { n = 1 } ^ { l } \\phi _ { \\mathrm { c } , n } \\Biggr ) \\Biggl / \\phi _ { \\mathrm { a } } \\leq 5 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2管内对流传热系数",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "管内强化表面的传热系数通过Wilson热阻分离法[]获得， $h _ { \\mathrm { i } } { = } c _ { \\mathrm { i } } \\cdot h _ { \\mathrm { i p } }$ ， $c _ { \\mathrm { i } }$ 为强化倍率，即强化管与同管径的光滑管传热系数之比， $h _ { \\mathrm { i p } }$ 为光管内水侧传热系数，由Gnielinski公式8求得。这里，传热系数的计算面积为胚管的相应面积。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3管外表面传热系数",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "管外表面传热系数由热阻分离法式(6)分离获得：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 } { h _ { \\mathrm { o } } } = \\frac { 1 } { k } - \\frac { A _ { \\mathrm { o } } } { A _ { \\mathrm { i } } } \\cdot \\frac { 1 } { h _ { \\mathrm { i } } } - R _ { \\mathrm { f } } - R _ { \\mathrm { w } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中 $h _ { \\mathrm { o } }$ 为管外表面传热系数， $k$ 为总传热系数， $R _ { \\mathrm { f } }$ 为污垢热阻（在实验前对管路进行了清洗，运行时间短，可忽略）， $R _ { \\mathrm { w } }$ 为管壁热阻， $A _ { \\mathrm { i } }$ 和 $\\scriptstyle A _ { 0 }$ 分别为强化管胚管内表面积和外表面积。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4液膜流量定义",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通常采用液膜雷诺数表示液膜流量，即：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR e _ { \\Gamma } = 4 T / \\eta\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中，假定液体从布液器位于传热管轴线正上方，并且在传热管两侧布液量相等，因此 $\\boldsymbol { \\varGamma }$ 为单边单位长度的液膜流量， $\\eta$ 为液体动力粘度。值得说明的是，这里的液膜流量以顶层管的流量为准。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.5实验不确定度分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/cf9dd371c3e43058bad25af1fe10cea31984d63f0ca691fae25e774fab492466.jpg",
+        "img_caption": [
+            "图1实验系统示意图",
+            "图3光管外凝结传热系数实验结果和Nusselt理论解的比较 Fig.3 Comparisons of the experimental results and Nusselt predictions for smooth tube "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据文献[9]的方法对实验结果进行不确定度分析，对于本文所有传热管，总传热系数的不确定度",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为 $4 . 7 5 \\%$ ，管外凝结传热系数的不确定度小于 $1 8 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3实验结果及分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1实验系统可靠性验证 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目前还没有通用的降膜蒸发关联式以供参考，为了验证本文实验系统的可靠性，这里采用R134a在光滑铜管表面的凝结传热的实验结果和Nusselt理论解[10]进行了对比，来校核试验台的可靠性。结果如图3所示，即在 $T _ { \\mathrm { s } } = 4 0 \\ \\mathrm { ~ \\textdegree ~ }$ ，实验结果和Nusselt理论解偏差在 $10 \\%$ 以内，因此证明了本文实验测试系统是可靠的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2管外降膜蒸发传热系数与液膜流量的关系",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "液膜流量对传热的影响是通过改变液膜流速和液膜厚度来实现的。液膜流速的变化关系到液膜内部的对流传热强度，而液膜厚度影响着液膜热阻以及沸腾情况下的气泡动力特性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "热流密度为 $2 0 \\mathrm { k W } \\mathrm { m } ^ { - 2 }$ 时的管外降膜蒸发传热系数如图4所示。当液膜雷诺数较小时，管外传热系数较低，并且随着液膜雷诺数增加而明显增加，此时对应的液膜流速较小，并且管表面出现干烧。随着液膜雷诺数的进一步增大，1-3号管外传热系数变化不大，这是因为这些管外表面已经被制冷剂完全覆盖，增加液膜流量对传热性能影响不大；4-7号管外传热系数先增大后减小，这是因为随着液膜流量的增大，这些位置的管表面的液体覆盖区域增大而使传热增强，但随着液膜流量的增大，液膜热阻增大并且产生的蒸气不能及时排除从而不利于传热。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图4还可以看出，对于相同的液膜流量，不同位置的传热管的降膜蒸发传热系数不同。2号管性能最好，这是因为该热流密度下，1号管的液膜较厚，液膜热阻较大；而液流到达2号管时液膜减薄，因此2号管的传热系数高于1号管。然而，位于下层的5-7号管的传热性能比位于上层的3-4号管好。作者认为随着液膜流量的增大，此时管束沸腾传热较为旺盛，并产生大量的蒸气，向上流动的蒸气对管表面液膜产生“托举\"的作用从而增厚液膜而不利于传热。此外，5-6号管的传热系数比7号管的高，这是因为5-6号管比7号管获得的液流量大。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图5给出了热流密度为 $4 0 \\mathrm { k W } \\mathrm { m } ^ { - 2 }$ 时各实验管的传热性能。如图4、5所示，传热系数从急剧上升转为稳定值的转折点随着热流密度的升高而向右平移，即热流密度的增加，应在更大的液膜流量下才产生这一转折；对于相同的热流密度，不同传热管之间出现转折点的位置也不同；位于管束上层的传热管，能更好的维持液膜的完整性。对比图4、5发现，热流密度增大一定程度上能促进传热；随着液膜流量的增大，较大热流密度下产生的蒸气较多且不能及时排出从而不利于传热，因此 $4 0 \\mathrm { k W } \\mathrm { m } ^ { - 2 }$ 时各传热管传热系数在较高液膜流量处随着液膜流量的增大而降低的幅度增大。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3管外降膜蒸发传热系数与热流密度的关系",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fd687bc3d1215b225706e0c69382f3643a060853e0aa6a73ddb75f5ab2c44ef8.jpg",
+        "img_caption": [
+            "图 $4 q = 2 0 \\mathrm { k W } \\mathrm { m } ^ { - 2 }$ 时管外传热系数与液膜流量的关系 Fig.4 The effect of filmflow rate on outside heat transfer coefficient, $q = 2 0 \\mathrm { k W } \\mathrm { m } ^ { - 2 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e9ece816de7b2a1c0bcebce209f56594639ef73ec291effff214b91feade23f7.jpg",
+        "img_caption": [
+            "图 $5 q = 4 0 \\mathrm { k W } \\mathrm { m } ^ { - 2 }$ 时管外传热系数与液膜流量的关系Fig.5 The effect of film flow rate on outside heat transfercoefficient, $q = 4 0 \\mathrm { k W } \\mathrm { m } ^ { - 2 }$ （204号"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/bd3dfaa99d820050f8e7491fd7b60b4fe63ff900a8793a32abab3f7fd4476274.jpg",
+        "img_caption": [
+            "图 $6 \\ : { r = } 0 . 1 5 9 \\mathrm { { k g m } ^ { - 1 } \\mathrm { { s } ^ { - 1 } } }$ 时管外传热系数与热流密度的关系Fig.6 The effect ofheat flux on outside heat transfer coefficient,（204号"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图6给出了液膜流量为 $0 . 1 5 9 \\mathrm { k g m ^ { - 1 } s ^ { - 1 } }$ 时，管外降膜蒸发传热系数随热流密度的变化趋势。随着热流密度的增大，7根传热管的 $h _ { \\mathrm { o } }$ 表现出了先增大后减小的总体趋势。1-4号管受热流密度的影响程度较弱，而处于管束下层的5-7号管受热流密度的影响程度较强。因为1-4号管表面形成了较为完整的液膜覆盖，因此在整个热流范围内，这些管所受的影响最小。对于5-7号管，由于在1-4号管表面液膜的蒸发与沸腾[1I]，因此所获得的液膜流量不足。当热流密度较小时，流量减小对传热影响不明显，如 $q = 2 0 – 4 0$ $\\mathrm { k W } \\mathrm { m } ^ { - 2 }$ 时，所有管的传热性能差别较小；当热流密度较大时，上层管的蒸发量增大，如 $q > 6 0 \\mathrm { k W m } ^ { - 2 }$ 时，6-7号管获得的液膜流量严重不足而产生干烧，从而传热系数迅速减小。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce1e717403b8d7fa472dba615939aa40e17c4b2c44c3915d24dcc7c7a66c521d.jpg",
+        "img_caption": [
+            "图 $7 \\ : I { = } 0 . 2 9 \\mathrm { k g m ^ { - 1 } s ^ { - 1 } }$ 时管外传热系数与热流密度的关系 Fig.7 The effect of heat flux on outside heat transfer coefficient, $\\scriptstyle { I = 0 . 2 9 \\mathrm { k g m } ^ { - 1 } \\mathrm { s } ^ { - 1 } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图7给出了液膜流量为 $0 . 2 9 \\mathrm { k g m } ^ { - 1 } \\mathrm { s } ^ { - 1 }$ 时，管外降膜蒸发传热系数随热流密度的变化趋势。总体上，1号管传热系数随热流密度的增加一直增大，2-4号管的传热系数随着热流密度的增大先增大后减小，5-7号管的传热系数随着热流密度的增大一直减小。对比图6、7发现，液膜流量较小时除1号管外，所有管传热性能变化的转折点发生在 $4 0 \\mathrm { k W } \\mathrm { m } ^ { - 2 }$ 时；液膜流量较大时2-4号管的转折点出现在 $6 0 \\mathrm { k W } \\mathrm { m } ^ { - 2 }$ 时。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文实验研究了R134a在垂直布置的七根水平强化管外降膜蒸发传热特性，主要结论如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1．当液膜雷诺数较小时，所有管的管外传热系  \n数较低，并且随着液膜雷诺数增加而明显增加；随  \n着液膜雷诺数的进一步增大，1-3号管的管外传热  \n系数保持不变，4-7号管的管外传热系数先增大后减  \n小。2.对于相同的液膜流量，不同位置的传热管的  \n降膜蒸发传热系数不同，热流密度较小时，第二层  \n管的传热性能最好。3．随着热流密度的增大，为了获得完整的液膜  \n覆盖，需要较大的液膜流量；对于相同的热流密度，  \n位于管束上层的传热管，能更好的维持液膜的完整  \n性。4．在本文的热流密度范围内，当液膜流量较小  \n时，随着热流密度的增大，所有管的传热性能先增",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "大后减小；当液膜流量较大时，1号管的传热性能一直增强，2-4号管的传热系数随热流密度增大先增大后减小，5-7号管的传热系数一直减小。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Christians M,Thome JR,Falling Film Evaporation on Enhanced Tubes, Part 2: Prediction Methodsand Visualization [J]. International Journal of Refrigeration, 2012.35 (2): 313-324.   \n[2] Roques J F,Thome J R,Falling Films on Arrays of Horizontal Tubes with R-l34a,Part II: Flow Visualization, Onset of Dryout,and Heat Transfer Ppredictions [J].Heat Transfer Engineering,2007.28 (5): 415-434.   \n[3]Zeng X, Chyu MC,Ayub Z H, Experimental Investigation onAmmonia Spray Evaporator with Triangular-Pitch Plain-Tube Bundle,Part II: Evaporator Performance [J]. International Journal of Heat And Mass Transfer,2oo1.44 (11):2081-2092.   \n[4]Wang B X, Zhang J T,Peng XF, Experimental Study on the Dryout Heat Flux of Falling Liquid Film [J]. International Journal of Heat And Mass Transfer,2000.43 (11): 1897-1903.   \n[5]Ribatski G, Jacobi A M,Falling-Film Evaporation on Horizontal Tubes-A Critical Review [J].International Journal of Refrigeration,2005.28 (5): 635-653.   \n[6] Lemmon E W,McLinden M O,Huber M L,Reference FluidThermodynamicandTransportProperties (REFPROP),Version 8.0,National Institute of Standards and Technology (NIST) [S], 2008.   \n[7] 杨世铭，陶文钰,editor 传热学（第4版）．高等教育出 版社：北京,2006. Yang Shiming,and Tao Wenquan, Heat Transfer, $4 ^ { \\mathrm { t h } }$ Edition [M].Beijing:Higher Education Press,2006.505-506.   \n[8] Gnielinski V,New Equations forHeat and Mass Transferin the Turbulent Flow in Pipes and Channels [J]. International Chemical Engineering,1976.75: 22028.   \n[9] Kline S J,Mcclintock F A，Describing Uncertainties in Single-Sample Experiments [J]. Mechanical Engineering, 1953. 75 (7): 3-9.   \n[10]NusseltW， Dieoberflachencondensationdes wasserdampfes [J].VDI, 1916.60: 541-569. ",
+        "page_idx": 3
+    }
+]

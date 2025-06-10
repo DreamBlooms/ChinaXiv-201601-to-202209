@@ -1,0 +1,273 @@
+# LBSN中融合时空信息的连续兴趣点推荐
+
+李丹霞‘²，马乐荣1，何景²
+
+(1．延安大学 数学与计算机科学学院，陕西 延安 716000;2.北京理工大学 计算机学院，北京 100081)
+
+摘要：针对位置社交网络（location-based social networks，LBSN）中连续兴趣点推荐系统面临的数据稀疏性、签到数据的隐式反馈属性、用户的个性化偏好等挑战，提出一种融合时空信息的连续兴趣点推荐算法。该算法将用户的签到行为建模为用户一当前兴趣点一下一个兴趣点一时间段的四阶张量，并利用LBSN中的地理信息定义用户访问兴趣点的地理距离偏好，最后采用BPR（Bayesian personalizedranking）标准优化目标函数。实验结果表明该算法相比其他先进的连续兴趣点推荐算法具有更好的推荐效果。
+
+关键词：兴趣点；推荐系统；位置社交网络；张量分解中图分类号：TP301 doi:10.3969/j.issn.1001-3695.2018.07.0434
+
+# Successive point-of-interest recommendation with spatial-temporal influence in LBSN
+
+Li Danxia1,², Ma Lerong1, He Jing² (1.Schoolof Mathematics&Computer Science,Yan'an University,Yan'anShaanxi 7160o,China;2.SchoolofComputer Science& Technology,BeijingInstituteofTechnology,Beijing 1Ooo81,China)
+
+Abstract:This paper studies thesuccessivePOIrecommendation probleminlocation-based social networksandthechallenge lies inthedatasparsity,implicituserfedbackand personalized preference.Tothisend,thepaper proposeanovelmodelfor successive POIrecommendation,which integrates temporal informationandgeographical influene.Specificalythepaper model the succesivecheck-inbehaviorsasafourth-order tensorand employgeographical influencetodefinethespatial preferenceof theuser forthePOI.Bayesian personalizedrankingcriterionis thenutilizedtooptimizethe lossobjective function.Experimentalresults demonstrate that theproposed model outperformsthestate-of-the-art successive POI recommendation methods.
+
+Key words: point-of-interest;recommender system;location-based social networks;tensor decomposition
+
+# 0 引言
+
+近年来，随着带有GPS定位功能的智能手机越来越普及，用户可以轻易地获取实时地理位置信息，并对访问的兴趣点进行签到（check-in）或与好友分享自己的体验，这就促进了位置社交网络的快速发展，如Foursquare、Gowalla、街旁等。LBSN把线上虚拟社会与线下真实世界进行有机结合，使得用户可以随时随地获取和分享位置信息；与此同时，兴趣点的数量也随着城市的发展而迅速增长，导致用户面临信息过载问题。兴趣点推荐旨在为用户推荐可能感兴趣的地理位置，已经成为满足用户个性化需求和解决信息过滤问题的重要手段，得到了学术界和工业界的广泛关注。
+
+当前的兴趣点推荐研究[1将用户的全部签到数据看做一个整体，这种方式仅考虑了用户与兴趣点之间的签到关系，而忽视了用户连续访问的兴趣点之间的关系。实际上，用户当前所在的兴趣点与接下来要访问的兴趣点之间具有很强的相关性。例如当用户晚上下班离开办公室之后，通常会去吃饭，而不是去户外远行。这种签到行为的序列模式[3]在兴趣点推荐任务中是非常重要的因素，在构建兴趣点推荐模型的过程中要基于用户当前所在的兴趣点，此时，兴趣点推荐的任务是基于用户当前所在的兴趣点为用户推荐接下来要访问的兴趣点，即连续兴趣点推荐。连续兴趣点推荐不仅可以增强用户体验和提高用户对网络平台的依赖性，而且可以帮助广告商将广告有针对性地推送给目标客户群。
+
+推荐系统早已被学术界深入研究，并在工业界得到广泛应用。然而，由于LBSN是一种包含用户与用户之间关系、用户与兴趣点之间关系、兴趣点与兴趣点之间关系的复杂异构网络[4]，相比于传统推荐系统，连续兴趣点推荐系统面临一些新的挑战。
+
+a）数据稀疏性。用户的签到行为具有自主性，由于涉及到个性隐私问题，用户会有选择地在一部分兴趣点上进行签到，这种签到方式导致用户位置轨迹数据存在严重的稀疏性问题。另外，位置社交网络中兴趣点的数量十分巨大，而用户只能访问有限数量的兴趣点，这同样导致签到数据极度稀疏。
+
+b)签到数据的隐式反馈属性。不同于传统推荐系统中用户通过评分表达显式反馈，用户在兴趣点上的签到行为是一种隐式反馈，其中正反馈是已经签到过的兴趣点，未签到的兴趣点包括用户确实不感兴趣的兴趣点和用户尚未发现但感兴趣的兴趣点。这种只有正反馈而缺少负反馈的签到数据，给连续兴趣点推荐带来了挑战。
+
+c）用户的个性化偏好。LBSN中用户的个性化主要表现在两个方面：其一，用户的兴趣偏好是随着时间和地理位置的变化而动态变化的，例如，大部分用户中午下班会去餐厅吃饭，而晚上下班会直接回家；其二，两个有相似兴趣偏好的用户也可能会有不同的行为模式，例如同样是去购买服装，学生们更多去休闲运动装类服装店，而上班族偏爱去职业装正装类商店。因此，连续兴趣点推荐系统应该根据用户的个性化偏好，为用户推荐符合个人偏好的兴趣点。
+
+针对以上所述的挑战，本文提出一种融合时空信息的连续兴趣点推荐模型。该模型有效融合LBSN中影响用户签到行为的时间信息和地理信息来处理数据稀疏性问题，提高了推荐系统的准确率。具体而言，首先，将用户的历史签到数据建模为用户一当前兴趣点一下一个兴趣点一时间段的四阶张量，基于该四阶张量，利用张量分解模型推断用户对每个兴趣点的个性化偏好；然后，根据用户活动范围的地理距离限制，定义用户访问兴趣点的地理距离偏好，作为衡量用户对兴趣点偏好程度的因素；最后，针对签到数据的隐式反馈属性，将用户已签到兴趣点和未签到兴趣点组成的兴趣点对作为训练样本，采用BPR标准优化目标函数。
+
+本文的贡献总结如下：
+
+a）本文根据用户连续访问的兴趣点之间的相关性，基于当前所在的兴趣点向用户推荐接下来要访问的兴趣点，为用户提供准确高效的连续兴趣点推荐服务。
+
+b)本文提出一个融合时空信息的连续兴趣点推荐模型，通过融合位置社交网络中的时间信息和空间信息，有效缓解了数据稀疏性问题。根据签到数据的隐式反馈属性，采用BPR算法拟合兴趣点对上的偏序关系，从而获得用户对兴趣点的个性化偏好。
+
+c)本文在两个真实LBSN的大规模签到数据集上进行大量的实验评估所提模型的性能，实验结果表明本文提出的模型优于其他先进的连续兴趣点推荐算法。
+
+# 1 相关工作
+
+连续兴趣点推荐是推荐系统领域中的一个重要任务，已经成为LBSN中一项重要的位置服务。连续兴趣点推荐系统使用历史签到数据对用户的行为规律进行建模，并挖掘用户对兴趣点的喜爱程度，根据用户的兴趣偏好进行推荐。随着LBSN中情景因素的日益增多，包括时间信息、地理信息、分类信息等，当前的研究工作试图融合LBSN中影响用户签到行为的情景信息进一步提升推荐推荐的性能。根据融合情景信息的不同类型，可以将连续兴趣点推荐系统分为三类。
+
+a）融合时间信息的连续兴趣点推荐系统。用户与LBSN的每次交互都有时间戳，而且用户的签到行为随着时间的变化呈现出周期性特征[5]，因此，时间信息是LBSN中重要的情景信息，对用户的签到行为影响很大。Li等人[6分析了用户行为模式随着时间的变化趋势，考虑用户的长期偏好和短期偏好，提出一种基于时间感知的连续兴趣点推荐算法。
+
+b)融合地理信息的连续兴趣点推荐系统。由于签到行为是用户与兴趣点之间的物理交互，从访问成本的角度而言，用户更加倾向于访问距离较近的兴趣点[7]。这种地理邻近性显著影响着用户的签到行为[8]，大量研究工作将地理信息融入连续兴趣点推荐。Cheng 等人[3]提出一种基于张量分解的连续兴趣点推荐模型，该模型将与用户地理距离较近的兴趣点作为推荐对象，这种使用较小候选兴趣点集合的方式可以降低计算成本，提高推荐效率。
+
+c）融合分类信息的连续兴趣点推荐系统。LBSN中的兴趣点通常被划分到不同的分类，用户访问过的兴趣点的分类信息隐含了用户的行为模式，例如购物达人喜欢去各种商城，美食家热衷于在餐厅签到等，这些分类信息有助于理解用户的兴趣偏好。He 等人[9]提出一种两阶段的连续兴趣点推荐框架，首先预测用户接下来要访问的兴趣点分类，然后根据分类预测结果向用户推荐接下来要访问的兴趣点。
+
+用户在兴趣点签到的同时，也会发表简短评论，这些内容信息描述了用户对兴趣点的喜爱程度，大量研究工作[10]积极探索并利用内容信息来提高推荐质量。同时，用户对兴趣点的评论内容较短，由于短文本具有较稀疏、噪声大、歧义多的特点，给推荐任务带来了极大挑战。此外，社交关系是LBSN从传统社交网络继承的性质和属性，研究人员试图利用社交关系提高推荐系统准确率；然而也有一些研究工作[]表明，只有小部分用户在访问兴趣点方面与好友具有相似的偏好，社交关系对用户签到行为的影响有限。
+
+综上所述，当前研究工作直接将与用户相距较远的兴趣点过滤掉[3]，以此处理数据稀疏问题。这种方式无法为用户推荐相距较远的兴趣点，难以满足乐于远行用户的兴趣偏好。在融合时间信息方面，当前研究工作[6仅利用了用户签到行为按照小时的周期性特征，未考虑用户签到行为随着星期的变化规律，其他研究工作[12]则将每天按照小时分为24个时间段，用户的签到数据也相应地划分到这24个时间段中，使得原本就稀疏的签到数据变得更加稀疏。本文提出一种融合时空信息的连续兴趣点推荐模型，即一方面将一天的时间分为工作时间和生活时间，将星期分为工作日和休息日，这样时间和星期共同组成四个时间段，并与用户、当前兴趣点和下一个兴趣点共同组成四阶张量，使用张量分解算法填补张量中的缺失值，有效解决了数据稀疏性问题；另一方面根据用户对兴趣点的偏爱程度随着地理距离的增大而减小，定义用户访问兴趣点的地理距离偏好，使得与用户相距较远的兴趣点也有可能成为候选推荐对象，从而提高兴趣点推荐的准确率。
+
+# 2 融合时空信息的连续兴趣点推荐
+
+# 2.1问题描述
+
+令 $\mathbf { U } = \{ u _ { \scriptscriptstyle I } , u _ { \scriptscriptstyle 2 } , \cdot \cdot \cdot , u _ { \scriptscriptstyle M } \}$ 是LBSN中的一组用户， $M$ 代表用户的数量。 $\mathbf { L } = \{ l _ { I } , l _ { 2 } , \cdots , l _ { N } \}$ 是LBSN 中的一组兴趣点，其中每个兴趣点具有唯一标志，且由{经度，纬度}进行地理编码， $N$ 代表兴趣点的数量。用户签到行为由四个元组 $( u , i , j , t )$ 组成，表示用户 $u$ 在时间 $t$ 从当前兴趣点 $i$ 移动到下一个兴趣点 $j$ 。用户 $u$ 在时间 $t$ 之前签到的一组兴趣点由 $\mathbf { L } _ { u } ^ { t }$ 表示。本文所要解决的问题是根据用户的历史签到数据 $\mathbf { L } _ { u } ^ { t }$ ，为用户 $u$ 推荐在时间 $t$ 要访问的兴趣点。
+
+# 2.2 模型
+
+本文提出的模型首先计算用户 $\boldsymbol { u }$ 在时间 $t$ 从当前兴趣点 $i$ 移动到下一个兴趣点 $j$ 的转移概率，然后根据转移概率对兴趣点进行排序，将排在前 $N$ 位的兴趣点推荐给用户。假设用户的签到行为满足一阶马尔可夫性质，那么转移概率可以表示为
+
+$$
+x _ { u , i , j , t } = p ( \mathrm { Q } _ { u , j , t } \mid \mathrm { Q } _ { u , i } )
+$$
+
+其中： $\mathbf { Q } _ { u , \mathrm { i } }$ 表示用户 $u$ 当前所在的兴趣点是 $i$ ： $\mathrm { Q } _ { u , j , t }$ 表示用户 $u$ 在时间 $t$ 访问的下一个兴趣点是 $j$ 。为了准确建模用户的行为模式，本文提出的连续兴趣点推荐模型同时考虑了用户访问兴趣点的个性化偏好和地理距离偏好。
+
+# 2.2.1个性化偏好
+
+LBSN中的历史签到数据是用户 $u$ 从当前兴趣点 $i$ 转移到下一个兴趣点 $j$ 的转移记录，可以把用户、当前兴趣点和下一个兴趣点组成三阶张量 $\chi$ ，即 $\chi \in [ 0 , 1 ] ^ { | \mathrm { U } | \times | \mathrm { L } | \times | \mathrm { L } | }$ ，张量中的非零元素 $\chi _ { u , i , j }$ 表示观察到的转移记录。
+
+由于用户的签到行为受到时间的影响和限制[13]，例如用户在中午通常会去餐厅吃饭而不会去酒吧或KTV，周末常去户外远行而很少去办公室，通过对时间信息的分析，可以发现用户的行为模式随着时间变化的周期性规律，从而更加准确地建模用户访问兴趣点的个性化偏好。通常用户在相邻的时间内具有相似的兴趣偏好，例如用户一般在上午9点开始工作，午饭大多集中在中午12点前后，当前研究工作把每天按照小时划分为24个时间段，用户的签到数据也被划分到相应的时间段中，但是这会导致原本就稀疏的签到数据变得更加稀疏；其他研究工作仅考虑了用户的行为模式随着小时的变化规律，而未考虑签到行为按照星期呈现出的周期性特征。
+
+文献［14」将用户状态按照一天的时间分为工作状态和生活状态，根据用户的这两种状态可以简单有效地刻画签到行为的周期性特征，因此，本文将一天的时间划分为白天（8点至17点）和晚上（18点至7点）两个部分，将星期划分为工作日
+
+（周一至周五）和休息日（周六和周日）两个部分，这样小时和星期共同组成四个时间段，即工作日白天 $T _ { \mathrm { l } }$ ，工作日晚上 $T _ { 2 }$ ，休息日白天 $T _ { 3 }$ 和休息日晚上 $T _ { 4 }$ ，时间信息可以表示为$\mathbf { T } = \{ T _ { I } , T _ { 2 } , T _ { 3 } , T _ { 4 } \}$ 。用户在每个时间段内的连续签到行为都可以建模成类似于张量 $\chi$ 的三阶张量，全部时间段上的连续签到行为被建模成用户、当前兴趣点、下一个兴趣点和时间段的四阶张量 $Z$ ，即 $Z \in [ 0 , 1 ] ^ { | \mathrm { U } | \times | \mathrm { L } | \times | \mathrm { L } | \times | \mathrm { T } | }$ ，张量中的非零元素 $Z _ { u , i , j , t }$ 表示用户 $u$ 在时间 $t$ 从当前兴趣点 $i$ 转移到下一个兴趣点 $j$ 。如图1所示，图中上方的三阶张量中包含了用户在不同时间段内的签到数据，历史签到数据包含在全部三阶张量组成的四阶张量Z中。估算用户访问兴趣点的个性化偏好就等价于求张量Z的一个近似。
+
+/ U3 中 U3U2 7 2 u2 ) 7 ？u1 ？ 9 ？ ？ u1 ? ？ ？  
+水 13 I ？ ？ 2 1 ？ 1 ？ 水 2 1 ? ？？ 1 1？ ？？ 前 £T ? ？ ？  
+当4 ？ 1 ？ 当14 ？ / ？ ？jjjJ4 jj2j3J4下一个兴趣点 下一个兴趣点T1 T4
+
+由于张量Z中只有一部分的非零元素，所以需要利用类似于矩阵分解中的低秩近似技术，将那些未观察到的转移项进行填充。对于四阶张量 $Z$ 的近似可以采用Tucker分解算法[15]或者正则分解（canonicaldecomposition）i 算法，其中正则分解算法可以看做是Tucker分解算法的一个特例。正则分解算法只考虑张量中四个维度（即用户 $U$ 、当前兴趣点 $I$ 、下一个兴趣点 $J$ 、时间段 $T$ ）中两两之间的交互，即用户访问兴趣点的个性化偏好可以被估算为
+
+$$
+\begin{array} { r } { \hat { Z } _ { u , i , j , t } = \pmb { \nu } _ { u } ^ { U , J } \bullet \pmb { \nu } _ { j } ^ { J , U } + \pmb { \nu } _ { i } ^ { I , J } \bullet \pmb { \nu } _ { j } ^ { J , I } + \pmb { \nu } _ { t } ^ { T , J } \bullet \pmb { \nu } _ { j } ^ { J , T } + } \end{array}
+$$
+
+$$
+\pmb { \nu } _ { u } ^ { U , I } \bullet \pmb { \nu } _ { i } ^ { I . U } + \pmb { \nu } _ { u } ^ { U , T } \bullet \pmb { \nu } _ { t } ^ { T . U } + \pmb { \nu } _ { i } ^ { I , T } \bullet \pmb { \nu } _ { t } ^ { T , I }
+$$
+
+其中： $\mathbf { \Delta } _ { \nu _ { u } ^ { U , J } \bullet \nu _ { j } ^ { J , U } }$ 表示用户与下一个兴趣点之间的相互关系； $\pmb { \nu } _ { u } ^ { U , J }$ （20表示用户在此相互关系中的隐式特征向量，式（2）中其他的因子项是类似的含义。由于因子项 $\pmb { \nu } _ { u } ^ { U , I } \pmb { \cdot } \pmb { \nu } _ { i } ^ { I . U }$ ， $\pmb { \nu } _ { u } ^ { U , T } \bullet \pmb { \nu } _ { t } ^ { T . U }$ ， $\begin{array}{c} \mathbf { \nabla } \mathbf { \mathbf { \mathbf { \mathbf { \mathbf { \mathbf { \mathbf { \mathbf \nu } } } } } } } \mathbf { \mathbf { \mathbf { \mathbf { \mathbf { \mathbf { \mathbf { \mathbf { \mathbf \nu } } } } } } } } \mathbf { \mathbf { \mathbf { \mathbf { \mathbf { \mathbf { \mathbf { \mathbf { \mathbf \mathbf { \mathbf { \mathbf \mathbf { \mathbf \nu } } } } } } } } } } } \mathbf { \mathbf { \mathbf { \mathbf { \mathbf { \mathbf { \mathbf { \mathbf { \mathbf \mathbf { \mathbf { \mathbf \mathbf { \mathbf \nu } } } } } } } } } } } \mathbf { \mathbf { \mathbf { \mathbf { \mathbf { \mathbf { \mathbf { \mathbf { \mathbf \mathbf { \mathbf { \mathbf \mathbf { \mathbf \mathbf { \mathbf \mathbf { \mathbf \Lambda } } } } } } } } } } } } } \mathbf { \mathbf { \mathbf \Lambda } } \mathbf { \mathbf \mathbf { \mathbf { \mathbf { \mathbf { \mathbf { \mathbf { \mathbf \Lambda } } } } } } } \mathbf { \mathbf \Lambda } \mathbf { \mathbf \mathbf { \mathbf \Lambda } } \mathbf { \mathbf \Lambda } \mathbf { \mathbf \Lambda } \mathbf { \mathbf \Lambda } \mathbf { \mathbf \Lambda } \mathbf { \Lambda } \mathbf { \mathbf \Lambda } \mathbf { \Lambda \mathbf { \mathbf \Sigma } }  \end{array}$ 与下一个兴趣点 $j$ 无关且不影响转移概率的排名，所以可将该项移除[17]。个性化偏好的估计值可以表示为
+
+$$
+\begin{array} { r } { \hat { Z } _ { u , i , j , t } = \pmb { \nu } _ { u } ^ { U , J } \bullet \pmb { \nu } _ { j } ^ { J , U } + \pmb { \nu } _ { i } ^ { I , J } \bullet \pmb { \nu } _ { j } ^ { J , I } + \pmb { \nu } _ { t } ^ { T , J } \bullet \pmb { \nu } _ { j } ^ { J , T } } \end{array}
+$$
+
+# 2.2.2地理距离偏好
+
+文献［10］的研究发现，用户的签到记录大部分集中在地理距离很小的范围中，这表明地理信息对用户的签到行为有着重要影响。在现实中，用户的活动范围通常会集中在一些小范围中，例如居住地附近或者工作单位附近，使得签到兴趣点形成地理集群区域。当前研究工作通过设定用户访问区域的距离阈值，仅将阈值范围之内的兴趣点推荐给用户，而本文定义用户 $u$ 访问相距 $d _ { i , l } \mathrm { k m }$ 的兴趣点的地理距离偏好是 $\rho \bullet d _ { i , l } ^ { - 1 }$ ，参数$\rho$ 的最优值将在模型优化阶段学习得来，这样与用户相距较远的兴趣点也有可能成为候选对象。
+
+将个性化偏好和地理距离偏好线性加和，得到计算转移概率的估计值为
+
+$$
+\hat { x } _ { u , i , j , t } = \pmb { \nu } _ { u } ^ { U , J } \bullet \pmb { \nu } _ { j } ^ { J , U } + \pmb { \nu } _ { i } ^ { I , J } \bullet \pmb { \nu } _ { j } ^ { J , I } + \pmb { \nu } _ { t } ^ { T , J } \bullet \pmb { \nu } _ { j } ^ { J , T } + \pmb { \rho } \bullet d _ { i , l } ^ { - 1 }
+$$
+
+如果用户对一些兴趣点的个性化偏好较大，即使这些兴趣点与用户相距较远，也有可能成为候选对象。因此，本文提出的连续兴趣点推荐模型可以满足热爱长距离远行用户的个性化需求。
+
+# 2.3模型优化和参数求解
+
+传统模型优化算法[21]将缺失项看做样本负例，直接拟合四阶张量中的非缺失项，由于LBSN中的签到数据是高度稀疏的，在四阶张量中非零元素所占的比例非常小，从而影响了推荐准确率。同时，由于签到数据的隐式反馈属性，传统方法将四阶张量中的缺失项拟合为0，从而难以向用户推荐可能感兴趣但尚未访问过的兴趣点。
+
+连续兴趣点推荐的任务是根据转移概率对兴趣点进行排序，将排名在前 $N$ 位的兴趣点推荐给用户。推荐任务关注的是每个兴趣点对应的转移概率的排名，而非真实的转移概率值，因此可以将推荐任务建模成对兴趣点的排序任务。
+
+$$
+m > _ { u , i , t } n \Longleftrightarrow \hat { x } _ { u , i , m , t } > \hat { x } _ { u , i , { \mathrm n } , t }
+$$
+
+其中： $> _ { u , i , t }$ 表示用户 $u$ 从当前兴趣点 $i$ 出发在时间 $t$ 时对下一个兴趣点的偏好排序。式（5）表示用户 $u$ 从当前兴趣点 $i$ 出发在时间 $i$ 时，对兴趣点 $m$ 的偏好程度大于对兴趣点 $n$ 的偏好程度。
+
+本文采用BPR优化标准，将观察到的转移记录和未观察到的转移记录组成样本对，来拟合用户在兴趣点对上的偏序关系。具体而言，如果用户 $\boldsymbol { u }$ 从当前兴趣点 $i$ 出发在时间i访问了兴趣点 $m$ ，而没有访问兴趣点 $n$ ，那么本文假设用户对兴趣点 $m$ 的偏好程度大于对兴趣点 $n$ 的偏好程度，即 $m > _ { u , i , t } n$ 。训练集可以形式化表示为
+
+$$
+D _ { B P R } : = \{ ( u , i , m , n , t ) | u \in \mathbf { U } , i , m , n \in \mathbf { L } , t \in \mathbf { T } \}
+$$
+
+其中：五元组 $( u , i , m , n , t )$ 表示 $m > _ { u , i , t } n$ 。
+
+根据贝叶斯法则，当用户 $\boldsymbol { u }$ 从当前兴趣点 $i$ 出发在时间 $i$ 时，访问下一个兴趣点的最优偏序关系 $> _ { u , i , t }$ 可以建模为
+
+$$
+p ( \pmb { \theta } | \textgreater _ { u , i , t } ) \propto p ( \textgreater _ { u , i , t } | \pmb { \theta } ) p ( \pmb { \theta } )
+$$
+
+其中：θ表示模型的参数集合，即（204号 $\mathbf { \theta } \mathbf { \theta } \mathbf { \Lambda } \mathbf { \Theta } \mathbf { \Theta } \mathbf { \Theta } \mathbf { \Lambda } ^ { [ J , J } , \mathbf { V } _ { j } ^ { J , U } , \mathbf { V } _ { i } ^ { I , J } , \mathbf { V } _ { j } ^ { J , I } , \mathbf { V } _ { t } ^ { T , J } , \mathbf { V } _ { j } ^ { J , T } , \rho \} \mathbf { \Lambda } _ { \circ }$ （20
+
+假设每个用户之间是相互独立的，并且训练集 $D _ { { _ { B P R } } }$ 中的每个样本对之间也是相互独立的，那么所有用户在全部兴趣点上偏序关系的似然函数是
+
+$$
+\prod _ { u \in \mathbf { U } } \prod _ { i \in \mathbf { L } } \prod _ { t \in \mathbf { T } } p ( \mathbf { \sigma } _ { u , i , t } | \mathbf { \sigma } _ { \mathbf { \theta } } ) p ( \mathbf { \theta } ) = \prod _ { \substack { ( u , i , m , n , t ) \in D _ { B P R } } } p ( m > _ { u , i , t } { \boldsymbol { n } } | \mathbf { \theta } ) p ( \mathbf { \theta } )
+$$
+
+结合式(5)，用户在兴趣点对上的偏序关系 $p ( m > _ { u , i , t } n | \mathbf { \theta } )$ 可以表示为
+
+$$
+p ( m > _ { u , i , t } n \mid \mathbf { \boldsymbol { \theta } } ) = p ( \hat { x } _ { u , i , m , t } > \hat { x } _ { u , i , \mathbf { n } , t } \mid \mathbf { \boldsymbol { \theta } } )
+$$
+
+$$
+= p ( \hat { x } _ { u , i , m , t } - \hat { x } _ { u , i , \mathrm { n } , t } > 0 | \mathbf { \theta } )
+$$
+
+与文献［3］类似，本文使用logistics函数 $\sigma$ 表示$p ( z > 0 ) { : = } \sigma ( z ) = 1 / \left( 1 + e ^ { - z } \right)$ ，式（9）可以表示为
+
+$$
+p ( \hat { x } _ { u , i , m , t } - \hat { x } _ { u , i , { n , t } } > 0 \mid \mathbf { \theta } ) = \sigma ( \hat { x } _ { u , i , m , t } - \hat { x } _ { u , i , { n , t } } )
+$$
+
+由于 $\mathbf { \boldsymbol { \mathsf { \_ { \Pi } } } }$ 是 $\hat { x }$ 中的模型参数，所以0可以被省略 $[ 1 7 ]$ ，如
+
+$$
+\hat { x } ( \pmb { \theta } ) = \hat { x }
+$$
+
+假设模型参数的初始值服从高斯分布 $p ( \pmb { \theta } ) - N ( 0 , \frac { 2 } { \lambda _ { \pmb { \theta } } } I )$ ，对于模型的对数似然函数，使用极大后验概率得到参数0为
+
+$$
+\underset { \mathbf { 0 } } { \arg \operatorname* { m a x } } \ln \prod _ { \mathbf { \alpha } ( u , i , m , n , t ) \in D _ { B P R } } p ( m > _ { u , i , t } n  { | \mathbf { \theta } ) } p ( \mathbf { \theta } )
+$$
+
+$$
+\underset { \mathbf { \theta } \mathbf { \theta } } { = } \underset { \mathbf { \theta } } { \arg \operatorname* { m a x } } \sum _ { \left( u , i , m , n , t \right) \in D _ { B P R } } \ln \sigma ( \hat { x } _ { u , i , m , t } - \hat { x } _ { u , i , \mathrm { n } , t } ) - \frac { \lambda _ { \mathbf { \theta } } } { 2 } \left. \mathbf { \theta } \right. ^ { 2 }
+$$
+
+由于训练集 $D _ { { _ { B P R } } }$ 中五元组 $( u , i , m , n , t )$ 的数量巨大，直接优化目标方程式（11）是十分费时的。与文献［2]类似，本文从训练集 $D _ { { _ { B P R } } }$ 中随机独立抽取五元组 $( u , i , m , n , t )$ ，使用随机梯度下降算法优化目标方程式（11)，同时求解参数0。参数更新规则如下：
+
+$$
+\mathbf { \theta } ^ { \prime } = \mathbf { \theta } + \alpha ( \frac { \hat { \alpha } } { \hat { \alpha } \mathbf { \theta } } \ln \sigma ( \hat { x } _ { u , i , m , t } - \hat { x } _ { u , i , \mathrm { n } , t } ) - \lambda _ { \mathbf { \theta } } \mathbf { \theta } )
+$$
+
+其中：参数学习率 $\alpha > 0$ 。
+
+# 3 实验
+
+# 3.1数据集描述
+
+本文实验部分将在两个大规模数据集上验证算法的有效性，这两个数据集分别来自于两个典型LBSN（Foursquare 和Gowalla）的真实签到数据，其中 Foursquare 的数据集[18]来自纽约市的签到数据，Gowalla数据集["]中的用户和兴趣点分布于世界各地。在这两个数据集中，首先过滤掉少于25条签到记录的用户，然后每个数据集被分为两个不重叠的集合：将每个用户的签到记录按照签到时间的先后分为两部分，早期 $8 0 \%$ 的签到记录作为训练集，剩下 $20 \%$ 的签到记录作为测试集。两个数据集的统计信息如表1所示。
+
+表1数据集统计信息  
+
+<html><body><table><tr><td>数据集</td><td>用户数量</td><td>兴趣点数量</td><td>签到数量</td></tr><tr><td>Foursquare</td><td>1638</td><td>81846</td><td>127 141</td></tr><tr><td>Gowalla</td><td>1 254</td><td>75 656</td><td>176 699</td></tr></table></body></html>
+
+# 3.2算法性能评价指标
+
+推荐系统将所有兴趣点按照对应的转移概率降序排列，并将排名在前 $N$ 位的兴趣点组成候选集合 $S _ { u , N } ^ { r e c }$ 推荐给用户 $u$ 。在连续兴趣点推荐任务中，对于推荐列表中的兴趣点，用户仅会去访问一个兴趣点，这使得推荐准确率不会高于 $1 / N$ ，其中 $N$ 表示候选兴趣点的数量。因此，本文采用召回率来评价推荐系统的性能，定义如下：
+
+$$
+R e c a l l @ N = \frac { 1 } { | \textbf { U } | } \sum _ { u \in \textbf { U } } \frac { | S _ { u , N } ^ { r e c } \cap S _ { u } ^ { v i s i t e d } \ | } { | \textbf { S } _ { u } ^ { v i s i t e d } \ | }
+$$
+
+其中： $\mathbf { S } _ { u } ^ { \nu i s i t e d }$ 表示用户 $u$ 实际访问的兴趣点；|U|表示用户的数量。准确率也可以根据召回率求得，即Precision $\circledcirc N = R e c a l l @ N / N$ 。
+
+# 3.3对比实验
+
+本文选取以下经典推荐算法作为对比方法：
+
+a）矩阵分解[20]。MF 将用户-项目矩阵分解为用户矩阵和项目矩阵，被广泛应用于推荐系统中。b）概率矩阵分解[21]。PMF 假设预测评分和真实评分之间存在噪声，使用带高斯噪声的概率图表示隐藏特征向量。c）FPMC-LR[3]。该算法使用基于用户一当前兴趣点一下一个兴趣点的三阶张量建模用户的连续签到行为，并融合了地理距离约束，是最早的连续兴趣点推荐算法。
+
+为防止过拟合和模型参数快速收敛到局部最优解，在本文模型和FPMC-LR中，设置参数 $\lambda _ { \mathfrak { g } }$ 的值为1。随着隐式特征向量维度的增加，模型拟和效果和所需计算资源随之增加。为了平衡模型拟和效果和所需计算资源，所有隐式特征向量的维度设置为32。在实验过程中，使用训练集优化求解模型参数的最优值，然后在测试集中使用这些参数进行推荐。图2和3展示了所有推荐算法在连续兴趣点推荐任务中的召回率。实验结果分析如下：
+
+a)本文模型和FPMC-LR都优于MF和PMF，表明传统推荐算法在连续兴趣点推荐任务中效果较差。这是因为MF和PMF仅根据访问记录建模用户的兴趣偏好，忽视了用户连续签到行为中的序列信息。另外，本文模型和FPMC-LR相比于MF和PMF的性能提升幅度很大，说明了地理信息在连续兴趣点推荐任务中起着重要作用。
+
+b)本文模型的推荐性能始终优于FPMC-LR，表明融合时空信息的连续兴趣点推荐模型可以有效建模用户的行为模式，提高连续兴趣点推荐系统的准确率。
+
+![](images/0822500f5fffdad0ed6f0f20ce052c7ef802fc5ee681366875793be2c3838c83.jpg)  
+图2Foursquare 数据集上的召回率图3Gowalla 数据集上的召回率
+
+# 3.4 时间信息的影响
+
+本文将时间分为四个时间段，采用四阶张量模型建模用户在时间信息影响下的连续签到行为。为了验证时间段切分的有效性，在建模过程中分别使用小时和星期，并与本文模型进行对比。实验结果如图4所示。其中，W表示在模型中将时间按照星期分为工作日和休息日，D表示在模型中将时间按照小时分为白天和晚上。实验表明本文模型取得了最好的推荐效果，将时间分为四个时间段能够准确理解用户的行为模式。
+
+# 3.5推荐结果的定量评估
+
+对于不同地理距离范围内的测试样本，本文模型的召回率是不同的。图5展示了本文模型按照地理距离的定量评估结果。从图中可以发现本文模型不仅能够预测用户在局部区域内的短距离移动，还能够预测用户偶尔进行的长距离远行。
+
+# 4 结束语
+
+为了解决连续兴趣点推荐任务中面临的问题，本文提出了融合时空信息的连续兴趣点推荐模型，有效提高了推荐质量。具体而言，本文模型融合LBSN中的时间信息和空间信息，缓解了数据稀疏问题；使用四阶张量模型建模用户的连续签到行为，满足用户的个性化需求；针对签到行为的隐式反馈属性，采用BPR优化标准求解模型参数。在Foursquare和Gowalla两个数据集上的实验结果表明，本文提出的模型优于已有的算法。
+
+![](images/4540ff4e99c92ceca5f06724c30b455c75f480f8b09005d899766c2d567d05cb.jpg)  
+图4时间信息的影响
+
+![](images/bb9c2131c44341716b52f11743b69adbf9464101d9e6040ba5df04b99558c660.jpg)  
+图5推荐结果的定量评估
+
+# 参考文献：
+
+[1]邹永贵，望靖，刘兆宏，等．基于项目之间相似性的兴趣点推荐方法 [J].计算机应用研究,2012,29（1):116-118.(Zou Yonggui,Wang Jing, Liu Zhaohong,et al.Point of interest recommendation method based on similarity between items [J].Application Research of Computers,2012,29 (1):116-118.)
+
+[2]Rendle S,Freudenthaler C,Gantner Z,et al.BPR:Bayesian personalized ranking from implicit feedback [C]// Proc of the 25th Conference on Uncertainty in Artificial Intelligence．Montreal: AUAI Press，2009: 452-461.
+
+[3]Chen Cheng,Yang Haiqin,Lyu MR,et al.Where you like to go next: successive point-of-interest recommendation [C]// Proc of International Joint Conference on Artificial Intelligence.California:AAAI Press,2013, 13:2605-2611.
+
+[4]翟红生，于海鹏．在线社交网络中的位置服务研究进展与趋势[J].计算机应用研究,2013,30(11):3221-3227.(Zhai Hongsheng,Yu Haipeng.Present situationand trend of research oflocation-based service on onlinesocial networks [J].Application Research of Computers,2013,30 (11):3221-3227.)
+
+[5]He Jing，Li Xin,Liao Lejian，et al.Inferring a personalized next point-of-interest recommendation model with latent behavior patterns [C]// Proc of the 3Oth AAAI Conference on Artificial Intelligence.California: AAAIPress,2016:137-143.
+
+[6]Li Xin,Jiang Mingming,Hong Huiting,et al.A time-aware personalized point-of-interest recommendation via high-order tensor factorization [J]. ACM Transs on Information Systems,2017,35(4):article No.31.
+
+[7]陈志雄，曾诚，高榕．一种基于位置社交网络融合多种情景信息的兴趣 点推荐模型[J].计算机应用研究，2017，34(10):2978-2983.(Chen Zhixiong,Zeng Cheng,Gao Rong.UGTM: exploiting various types of contextualinformationforpoint-of-interestrecommendationon location-based social networks [J].Application Research of Computers, 2017,34(10): 2978-2983.)
+
+[8]任星怡，宋美娜，宋俊德.基于位置社交网络的上下文感知的兴趣点推
+
+荐[J].计算机学报，2017,40(4):824-841.(Ren Xingyi,Song Meina, SongJunde.Context-awarepoint-of-interestrecommendationin location-based social networks [J]. Chinese Journal Computers,2017,40 (4): 824-841. )   
+[9]He Jing,Li Xin,Liao Lejian.Category-aware next point-of-interest recommendation via listwise Bayesian personalized ranking [C]// Proc of the 26th International Joint Conference on Artificial Inteligence. California: AAAI Press,2017: 1837-1843.   
+[10]高榕，李晶，杜博，等．一种融合情景和评论信息的位置社交网络兴趣 点推荐模型[J].计算机研究与发展,2016,53(4):752-763.(Gao Rong, Li Jing，Du Bo，et al．A synthetic recommendation model for point-of-interest on location-based social networks:exploiting contextual information and review [J].Journal of Computer Researchand Development,2016,53(4): 752-763.)   
+[11] Mao Ye，Yin Peifeng，Lee W C.Location recommendationfor location-based social networks [C]// Proc of the 18th SIGSPATIAL International Conference on Advances in Geographic Information Systems. New York:ACMPress,2010:458-461.   
+[12]廖国琼，姜珊，周志恒，等．基于位置社会网络的双重细粒度兴趣点推 荐[J]．计算机研究与发展，2017,54(11):2600-2610.(Liao Guoqiong, JiangShan，Zhou Zhiheng，etal.Dualfine-granularityPOI recommendation on location-based social networks [J].Journal of Computer Research and Development,2017,54(11): 2600-2610.)   
+[13] Quan Yuan,Gao Cong,Ma Zongyang,et al. Time-aware point-of-interest recommendation [C]// Proc of International ACM SIGIR Conference on Research and Development in Information Retrieval. New York:ACM Press,2013: 363-372.   
+[14] Cho E,Myers SA,Leskovec J.Friendship and mobility: user movement in location-based social networks [C]// Proc of the 17th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. New York: ACM Press,2011:1082-1090.   
+[15] Tucker L R. Some mathematical notes on three-mode factor analysis [J]. Psychometrika,1966,31 (3): 279-311.   
+[16] Cichocki A, Zdunek R,Phan A H,et al. Nonnegative matrix and tensor factorizations:applications to exploratory multi-way data analysis and blind source separation [M].New Jersey: John Wiley & Sons,2009.   
+[17] Rendle S,Freudenthaler C,Schmidt-Thieme L. Factorizing personalized markov chains for next-basket recommendation [C]// Proc of the 19th International Conference on World Wide Web.New York:ACM Press, 2010: 811-820.   
+[18] Bao Jie,Zheng Yu,Mokbel M F.Location-based and preference-aware recommendation using sparse geo-social networking data [C]// Proc of the 20th International Conference on Advances in Geographic Information Systems.New York: ACMPress,2012:199-208.   
+[19] Chen Cheng,Yang Haiqin,King I,et al. Fused matrix factorization with geographical and social influence in location-based social networks [C]// Proc of AAAI Conference on Artificial Intelligence.California: AAAI Press,2012,12:17-23.   
+[20] Koren Y,Bell R,Volinsky C.Matrix factorization techniques for recommender systems [J].Computer, 2009,42(8): 30-37.   
+[21] Mnih A,Salakhutdinov RR.Probabilistic matrix factorization [C]//Proc of International Conference on Neural Information Processing Systems.New York: Curran Associates Inc,2007:1257-1264.

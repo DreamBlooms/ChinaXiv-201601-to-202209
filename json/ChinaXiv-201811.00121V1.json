@@ -1,0 +1,532 @@
+[
+    {
+        "type": "text",
+        "text": "应用合成生物学策略构建全细胞生物催化剂合成 $( S )$ -乙偶姻",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李检秀1,²，陈先锐1，陈小玲1，黄艳燕1，莫棋文1，谢能中 $^ { 1 , 2 * }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄日波 $^ { 1 , 2 * }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1．广西科学院，非粮生物质酶解国家重点实验室，国家非粮生物质能源工程技术研究中心，广西生物炼制重点实验室，广西南宁 530007；2．广西大学生命科学与技术学院，亚热带农业生物资源保护与利用国家重点实验室，广西南宁 530004）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要目的：在大肠杆菌宿主中过量表达丁二酮还原酶 (DAR)，同时构建辅酶NADH原位再生系统，利用全细胞高效催化丁二酮不对称还原合成(S)-乙偶姻。方法：PCR 克隆多粘芽孢杆菌（Paenibacilluspolymyxa)dar基因，连到质粒pETDuet-1,转化至大肠杆菌(Escherichiacoli）BL21(DE3)，构建重组菌 E.coli BL21(DE3)-DAR；通过HiTrap TALON柱亲和层析纯化表达产物DAR 酶蛋白，测定DAR的比酶活和分子动力学参数。在重组菌E.coliBL21(DE3)-DAR中构建辅酶NADH原位再生系统，协同表达枯草芽孢杆菌（Baci/Iussubtilis）的葡萄糖脱氢酶（GDH)，构建重组菌 E.coli BL21(DE3)-DAR/GDH，并以此重组菌为全细胞生物催化剂，优化催化条件，提高 $( S ) - z$ 偶姻的产量和产率。结果：获得重组工程菌E.co/i BL21(DE3)-DAR 和 $\\ E .$ CO/iBL21(DE3)-DAR/GDH。DAR以 NADH 为辅酶还原丁二酮的米氏常数 $K _ { \\mathfrak { m } }$ 、最大催化速率 $V _ { \\mathfrak { m a x } }$ 、催化常数 $K _ { \\mathrm { { c a t } } }$ 分别为 2.59 mM,1.64 μmol/Lmin·mg，12.3/s，还原丁二酮生成 $( S ) - z$ 偶姻光学的纯度为 $9 5 . 8 6 \\ \\%$ ，具有较好的催化效率和立体异构体选择性。构建辅酶NADH原位再生系统后，重组菌 E.co/iBL21(DE3)-DAR/GDH可高效催化丁二酮合成乙偶姻。在最优催化条件下分批补料，乙偶姻产量达 $5 1 . 2 6 \\ \\mathsf { g } / \\mathsf { L }$ ，转化率81.37 %,生产速率 $5 . 1 3 \\ \\mathbf { g } / \\left( \\mathsf { L } \\cdot \\mathsf { h } \\right)$ 。结论：使用非手性化合物原料丁二酮生产高附加值的手性化合物(S)-乙偶姻，以重组菌为全细胞生物催化剂合成(S)-乙偶姻，不需额外添加昂贵的辅酶，具有较高的生产应用价值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：全细胞生物催化剂；辅酶再生系统；丁二酮还原酶；乙偶姻",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Construct Whole-cell Biocatalyst and Produce (S)-Acetoin via Synthetic Biology Strategy ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LI Jian-xiu, Chen Xian-rui，Chen Xiao-ling，Huang Yan-yan，Mo ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Qi-wen， Xie Neng-zhong\\*， Huang Ri-bo\\* (1.NationalEngineeringResearchCenterforNon-foodBiorefineryStateKeyLaboratoryofNon-foodBiomassEnergyandEnye Technology,andGuangxiKeyLaboratoryoforefinerGuangxicademyfiences,9alingRoad,aning,a; 2.StateKeyLaboratoryforConservationandUtilizationofSubtropicalAgro-Bioresources,ColegeofLife ScienceandTechology Guangxi University,100 Daxue Road,Nanning,53ooo4,China) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Objective: The whole-cell biocatalyst, overexpressing diacetyl reductase (DAR) and introduced in situ-NADH regeneration systems was applied to improve $( S )$ -acetoin production from prochiral diacetyl. Methods: The gene encoding DAR from Paenibacillus polymyxa was cloned and expressed in Escherichia coli. Recombine DAR was purified by HiTrap TALON affinity chromatography, then enzyme activities and molecular kinetic parameters of purified DAR were measured. NADH In-situ regeneration system based on glucose dehydrogenase (GDH) from Bacillus subtilis was introduced.The whole-cel biocatalyst, overexpressing DAR and GDH was applied to $( S )$ -acetoin produce and the reaction conditions were optimized. Results: DAR showed a high catalytic efficiency and enantioselective (enantiomeric purity $9 5 . 8 6 \\%$ ).The $K _ { \\mathrm { m } } .$ $V _ { \\mathrm { m a x } }$ and $K _ { \\mathrm { c a t } }$ values of DAR for diacetyl were $2 . 5 9 \\mathrm { \\ m M }$ ， $1 . 6 4 ~ \\mu \\mathrm { m o l / I }$ minmg and ${ 1 2 . 3 } / { \\mathrm { s } }$ ，respectively. The whole-cell biocatalyst， introduced in situ-NADH regeneration systems resulted in higher (S)-acetoin concentration， productivity and yield form diacetyl. Under optimal conditions in fed-batch bioconversion, $5 1 . 2 6 \\ \\mathrm { \\ g / L }$ (S)-acetoin was produced from $6 3 \\mathrm { \\textrm { g } } / \\mathrm { L }$ diacetyl with a productivity of $5 . 1 3 ~ \\mathrm { g } / ( \\mathrm { L } \\cdot \\mathrm { h } )$ . Conclusion: The compound of prochiral diacetyl was used as substrate for asymmetric synthesis of high value chiral $( S )$ -acetoin.The results demonstrated that whole-cell biocatalyst, introduced in situ-NADH regeneration systems,can effectively improve the production of $( S )$ -acetoin with good applicability and economic performance. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Whole-cell biocatalyst; Cofactor regeneration; Diacetyl reductase; (S)-Acetoin ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "乙偶姻(acetoin,AC)，又名3-羟基-2-丁酮，甲基乙酰基原醇，天然存在于玉米、草莓、葡萄、可可、酒类等食品中。乙偶姻具有特殊的奶油、白脱样香气，高度稀释后散发令人愉快的奶香气，是一种应用广泛、符合国家标准GB2760-86 的食品香料添加剂[1,2]。同时，乙偶姻作为一种重要的四碳化合物，2004年被美国能源部列为30种优先开发利用的平台化合物之一，在烟酒、化妆品、医药、化工等行业具有广泛的用途，全球需求量超过一万吨/年[3-5]乙偶姻分子内含手性碳原子，存在(S)-乙偶姻和 $( R )$ -乙偶姻两种立体异构体。单一构型的乙偶姻不仅具有普通乙偶姻的基本功能，还因其独特的立体结构在不对称合成方面优势突出，尤其在高附加值手性药物中间体、化学中间体、液晶材料等方面具有重要应用，因此光学纯(S)-乙偶姻的应用范围和市场前景远超普通乙偶姻。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目前，国内外生产乙偶姻的方法主要为化学合成法和微生物合成法。研究及应用较多的化学合成法是丁二酮部分加氢还原法和 2,3-丁二醇选择性氧化法[。这两种化学合成方法均存在产品回收率低、环境污染严重、容易掺杂致癌致病化合物等缺点。随着生活水平的提高，人们对天然绿色产品的需求越来越高，微生物发酵生产的乙偶姻属于天然香料，其市场价格要远远高于化学合成的产品。自然界中许多微生物能够利用葡萄糖等碳源物质经糖酵解途径代谢产生乙偶姻。2007年 Xiao 等[7]利用枯草芽孢杆菌（Bacillus subtilis）CICC 10025 发酵乙偶姻，产量 $3 4 . 5 ~ \\mathrm { g / L }$ ，生产速率 $0 . 6 2 7 ~ \\mathrm { g } / ( \\mathrm { L } \\cdot \\mathrm { h } )$ 。2012 年张燎原等[8]利用多粘芽孢杆菌（Paenibacillus polymyxa）LY107，以葡萄糖/木糖为底物发酵生产乙偶姻，产量 $2 3 . 9 \\ \\mathrm { g / L }$ 生产率 $0 . 5 6 9 \\mathrm { g } / ( \\mathrm { L } { \\cdot } \\mathrm { h } ) \\circ 2 0 1 3$ 年郝飞[9]以枯草芽孢杆菌B.subtilisCCTCCM208175为发酵菌株,通过补料分批发酵手段生产乙偶姻，产量 $5 8 . 7 \\ \\mathrm { g / L }$ ，生产速率 $1 . 2 2 \\ : \\mathrm { g / ( L \\cdot h ) }$ 。尽管微生物发酵生产天然乙偶姻取得了丰硕的研究成果，但与传统化学法一样，天然菌株发酵生产的乙偶姻通常是(S)-乙偶姻和 $( R )$ -乙偶姻两种立体异构体的混合物[3,10]，且 $\\scriptstyle .$ 乙酰乳酸自发氧化脱羧产生丁二酮的效率很低，乙偶姻生产菌株的主要产物是 $( R )$ -乙偶姻，(S)-乙偶姻仅作为副产物存在，所占比例极低。此外(R)-乙偶姻和(S)-乙偶姻的物理化学性质相近，需经过工艺复杂的手性拆分才能获得一定旋光度的乙偶姻，成本高昂，导致(S)-乙偶姻的市场价格居高不下，极大地限制了其发展和应用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "酶催化法是应用微生物酶作为催化剂直接进行氧化还原反应。已有报道利用丁二酮还原酶催化丁二酮合成(S)-乙偶姻，或利用 $^ { ( R , R ) - 2 , 3 }$ -丁二醇脱氢酶催化 $( R , R )$ -2,3-丁二醇氧化合成 $( R )$ -乙偶姻[11,12]，产物单一，光学纯度高。Gao 等[3]利用纯化的羧基还原酶和葡萄糖脱氢酶体外合成(S)-乙偶姻，产量 $1 2 . 2 \\ \\mathrm { g / L }$ ，生产速率 $9 . 7 6 \\ : \\mathrm { g / ( L \\cdot h ) }$ 。尽管生产速率较快，但产量低，同时酶的提取纯化还存在工艺复杂、成本高、稳定性差等问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "全细胞生物催化（Whole-cellbiocatalysis）是利用完整的细胞作为催化剂进行转化，其本质是利用细胞内的酶进行催化，综合了发酵法和酶法催化的优点，具有高立体异构体选择性[13]。本研究首先在大肠杆菌（Escherichia coli）宿主中过量表达多粘芽孢杆菌DSM 365的丁二酮还原酶（Diacetyl reductase,DAR）[14]，然后在重组菌 E.coli BL21(DE3)-DAR 中引入辅酶NADH原位再生系统，协同表达枯草芽孢杆菌 B.subtilis168葡萄糖脱氢酶（Glucosedehydrogenase,GDH)，利用全细胞高效不对称还原催化丁二酮合成乙偶姻。采用分批补料策略，乙偶姻产量达到 $5 1 . 2 6 \\ : \\mathrm { g / L }$ ，生产效率 $5 . 1 3 ~ \\mathrm { g / ( L h ) }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.1.1菌株、质粒与引物",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "菌株、质粒与引物见表1。E.coliDH5α和 $E$ .coliBL21(DE3)分别用做克隆宿主和表达宿主，pETDuet-1为出发表达质粒。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1菌株、质粒与引物",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/dacf98f0c7f64e333cee88486d810217e3073e89b838a01eaf2bedd3b3c769b1.jpg",
+        "table_caption": [
+            "Table1.Strains，plasmids and primers "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Strains,plasmids and primers</td><td>Feature or sequence</td><td>Source</td></tr><tr><td>Strains</td><td>Feature</td><td></td></tr><tr><td>P.polymyxa DSM 365</td><td>Mutant</td><td>本实验室选育</td></tr><tr><td>B.subtilis 168</td><td>ATCC 27370</td><td>本实验室保存</td></tr><tr><td>E. coli DH5α</td><td>supE44 △lacU169(ρ80 lacZ△M15)hsdR17recA1 endA1</td><td>Novagen</td></tr><tr><td rowspan=\"3\">E. coli BL21(DE3)</td><td>gyrA96 thi-1 relA1</td><td></td></tr><tr><td>FompThsdSB(rBmB-) gal (λcI857indl Sam7 nin5</td><td>Novagen</td></tr><tr><td>lacUV5T7genel) dcm (DE3)</td><td></td></tr><tr><td>E.coli BL21(DE3)-pETDuet</td><td>E. coli BL21(DE3)carrying pETDuet-1</td><td>This study</td></tr><tr><td>E.coli BL21(DE3)-DAR</td><td>E.coli BL21(DE3) carryingpETDuet-dar</td><td>This study</td></tr><tr><td>E.coli BL21(DE3)-DAR/GDH</td><td>E.coli BL21(DE3) carryingpETDuet-dar/gdh</td><td>This study</td></tr><tr><td>Plasmids</td><td>Feature</td><td></td></tr><tr><td>pETDuet-1</td><td>Overexpression vector; Ampr</td><td>Novagen</td></tr><tr><td>pETDuet-dar</td><td>dar in pETDuet-1</td><td>This study</td></tr><tr><td>pETDuet-dar/gdh</td><td>dar and gdh in pETDuet-1</td><td>This study</td></tr><tr><td>Primers</td><td>Sequence</td><td></td></tr><tr><td>P1(dar- BamHI-F)</td><td>5'- CGCGGATCCGGAACTTAAGAATAAAACAGC-3'</td><td></td></tr><tr><td>P2 (dar- Hind II-R)</td><td>5'- CCCAAGCTTCTACTGTGGGTTGGTTGT-3'</td><td></td></tr><tr><td>P3 (gdh-Nde I-F)</td><td>5'-GGAATTC CATATG TATCCGGATTTAAAAGG-3'</td><td></td></tr><tr><td>P4 (gdh-Aat II-R)</td><td>5'-TATCCAGACGTCTTAACCGCGGCCTGC-3'</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.1.2 培养基与缓冲液 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "LB 培养基(1L)：蛋白脉 $\\boldsymbol { 1 0 } \\mathrm { g }$ ，酵母提取物 ${ \\mathfrak { s } } _ { \\mathrm { g } }$ ，NaCl $\\boldsymbol { 1 0 } \\mathrm { g }$ ， $\\mathrm { p H } 7 . 0$ ，用于大肠杆菌种子活化，重组工程菌株诱导表达。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "磷酸钾缓冲液 （ $1 0 0 \\mathrm { m m o l / L } \\rangle$ ：溶液A，0.2 mol/L $\\mathrm { K H _ { 2 } P O _ { 4 } }$ ；溶液B，0.2 mol/L ${ \\mathrm { K } } _ { 2 } { \\mathrm { H P O } } _ { 4 }$ 。参照《精编分子生物学实验指南》[15]表A.1.3所列 $\\mathfrak { p H }$ 混合体系混合溶液A和溶液B,加 $\\mathrm { \\ d d H } _ { 2 } \\mathrm { O }$ 定容至 $2 0 0 ~ \\mathrm { m L }$ ，得到相应 $\\mathfrak { p H }$ 值的磷酸钾缓冲液。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.1.3工具酶与试剂",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "限制性内切酶、碱性磷酸酶(CPI）、T4DNA连接酶购自NEB公司;PrimeSTARGXL DNA聚合酶购自大连宝生物有限公司；细菌基因组提取试剂盒、质粒小提试剂盒、琼脂糖凝胶DNA 回收试剂盒购自天根生化（北京）科技有限公司；氨苄青霉素、异丙基硫代半乳糖苷（IPTG）、烟酰胺腺嘌呤二核苷酸（NADH/NAD+）购自生工生物工程（上海）有限公司；丁二酮购自上海贝合化工有限公司；酵母提取物和蛋白陈为Oxoid 公司产品；引物合成、DNA 序列测定服务由南京金斯瑞生物科技有限公司提供。其它化学试剂均为国产分析纯或以上。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.1重组质粒的构建 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据 NCBI中多粘芽孢杆菌DSM365全基因组dar 基因序列（GeneBank Accession NoKT717931)，枯草芽孢杆菌 B.subtilis168 全基因组 gdh 基因序列（GeneBank Accession No.CP019663.1）分别设计引物P1/P2和P3/P4（表1)。提取多粘芽孢杆菌DSM365 基因组并作为模板，以P1、P2引物进行PCR 扩增，得到dar片段；提取枯草芽孢杆菌B.subtilis 168基因组并作为模板，以P3、P4 引物进行PCR 扩增，得到gdh片段。PCR反应体系和程序参照TakaraPrimeSTARGXLDNA 聚合酶产品说明书。纯化后的dar片段用 BamHI和HindIII 双酶切，连接到经过相同酶切的pETDuet-1上，构建重组质粒pETDuet-dar。以同样的方法将gdh片段用NdeI和AatII双酶切，连接到pETDuet-dar上，得到重组质粒pETDuet-dar/gdh。将 pETDuet-1以及上述构建得到 pETDuet-dar、pETDuet-dar/gdh 质粒分别转化至大肠杆菌 BL21(DE3)中，得到 E.coli BL21(DE3)-pETDuet、E.coli BL21(DE3)-DAR、E.coli BL21(DE3)-DAR/GDH 重组菌。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.2DAR的表达和纯化",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将构建好的重组菌 $E$ coli BL21(DE3)-DAR过夜活化，按 $2 \\%$ 接种量转接至新鲜LB培养液， $3 7 ^ { \\circ } \\mathrm { C }$ 培养至 $\\mathrm { O D } _ { 6 0 0 }$ 为 $0 . 6 { \\sim } 0 . 8$ ，加入 $0 . 2 \\mathrm { m M }$ IPTG后， $2 0 ^ { \\circ } \\mathrm { C }$ 诱导 $1 2 \\mathrm { h }$ 。离心收集菌体，用生理盐水洗涤2次后重悬于结合缓冲液（ $2 0 ~ \\mathrm { m M }$ 磷酸钾， $5 0 0 \\mathrm { m M N a C l }$ ， $\\mathfrak { p H } 7 . 4 \\AA \\rangle$ ，冰浴超声破碎，超声后菌体于 $4 ^ { \\circ } \\mathrm { C }$ 经 $1 2 \\ 0 0 0 \\mathrm { r / m i n }$ 离心 $3 0 ~ \\mathrm { m i n }$ 收集上清液，用 HiTrap TALON柱亲和层析纯化，调整洗脱缓冲液咪唑浓度，收集目标蛋白洗脱液，用PD-10 Desaltingcolumns柱脱盐除咪唑后置于， ${ \\displaystyle - 8 0 ^ { \\circ } C }$ 冰箱保存备用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.2.3DAR的酶学性质分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$1 \\mathrm { m L }$ 酶活测定反应体系中含 $1 0 0 \\mathrm { m M }$ 磷酸盐缓冲液 （ $\\mathsf { p H } 6 . 0 \\bigr ) \\$ 、 $5 \\mathrm { m M }$ 丁二酮、 $0 . 2 \\mathrm { m M }$ NADH和一定量的酶液，通过 $3 4 0 \\mathrm { n m }$ 处吸光值的减少间接检测丁二酮还原酶活性。酶活定义为：每 $1 \\mathrm { m i n }$ 时间催化消耗 $1 \\mu \\mathrm { m o l }$ NADH所需酶量为一个酶活力单位（1U）。在 $4 0 ^ { \\circ } \\mathrm { C }$ $\\mathrm { p H } 6 . 0$ 磷酸盐缓冲液 （ $1 0 0 \\mathrm { m M }$ ）中进行动力学参数 $K _ { \\mathrm { m } }$ 、 $V _ { \\mathrm { m a x } }$ 、 $K _ { \\mathrm { c a t } }$ 值的测定，保持 $\\mathfrak { p H }$ 、缓冲液、辅酶、酶浓度等参数不变，丁二酮浓度[S]从 $0 . 1 2 5 \\mathrm { m M }$ 至 $2 0 ~ \\mathrm { m M }$ 依次递增，测定其反应速度 $V$ ，所得数据通过Origin 非线性拟合得到 $K _ { \\mathrm { m } }$ 和 $V _ { \\mathrm { m a x } }$ ，进而计算出 $K _ { \\mathrm { c a t } }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "丁二酮还原酶立体异构体选择性： $1 \\mathrm { m L }$ 酶促反应体系中（ $1 0 0 ~ \\mathrm { { m M } }$ 磷酸盐缓冲液，pH6.0)，加入 $1 0 0 \\mathrm { m M }$ 丁二酮，60 mMNADH和适量酶液， $4 0 ^ { \\circ } \\mathrm { C }$ 条件下反应 $2 4 \\mathrm { h }$ 。用等体积乙酸乙酯萃取，用手性气相色谱柱检测酶催化反应产物的光学纯度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.2.4休止细胞的制备 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将成功构建并保存的重组菌 $E .$ coli BL21(DE3)-pETDuet $E$ coli BL21(DE3)-DAR、E. coliBL21(DE3)-DAR/GDH分别接种至LB 液体培养基（ $\\mathrm { \\langle 1 0 0 \\mu g / m L }$ 氨苄青霉素）中 $3 7 ^ { \\circ } \\mathrm { C }$ 过夜活化;活化后的种子液按 $2 \\%$ 接种量转接至新鲜LB培养液( $\\mathrm { \\langle 1 0 0 \\mu g / m L }$ 氨苄青霉素， $2 0 0 ~ \\mathrm { m L } / 5 0 0$ mL 锥形瓶), $3 7 ^ { \\circ } \\mathrm { C } , 2 5 0 \\mathrm { r } / \\mathrm { m i n }$ 震荡培养至 $\\mathrm { O D } _ { 6 0 0 } { = } 0 . 6 { \\sim } 0 . 8$ ，加入 $0 . 2 \\mathrm { m M }$ IPTG, $2 0 ^ { \\circ } \\mathrm { C }$ ， $1 2 5 ~ \\mathrm { r / m i n }$ 诱导 $1 2 \\mathrm { h }$ ；离心收集菌体，生理盐水洗涤2次后重悬于 $1 0 0 \\mathrm { m M }$ 磷酸盐缓冲液， $4 ^ { \\circ } \\mathrm { C }$ 冰箱保存。后续用于 $12 . 5 \\%$ SDS-PAGE 电泳检测，全细胞生物催化。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.2.5全细胞生物催化合成乙偶姻以及催化条件优化",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在摇瓶中进行全细胞催化条件优化（ $1 0 \\mathrm { m L } / 5 0 \\mathrm { m L }$ 锥形瓶)，转速为 $1 5 0 ~ \\mathrm { r / m i n }$ ，温度为$3 0 ^ { \\circ } \\mathrm { C }$ ， $\\mathfrak { p H }$ 控制在7.0， $1 0 0 ~ \\mathrm { { m M } }$ 磷酸盐缓冲液， $8 \\ \\mathrm { g } _ { \\mathrm { \\tiny ~ ( D C W ) } } / \\mathrm { L }$ 休止细胞， $3 0 \\ \\mathrm { g / L }$ 葡萄糖， $1 5 \\ \\mathrm { g / L }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "丁二酮(葡萄糖/丁二酮摩尔比1:1)，反应 $3 \\mathrm { { h } }$ 。依次对催化反应中细胞干重、缓冲液pH、反应温度、葡萄糖/门二酮摩尔浓度比、催化反应转速、起始丁二酮浓度进行优化。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.2.6分析方法",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）菌体生长的测定：紫外分光光度计测定菌体在 $6 0 0 \\mathrm { n m }$ 处的吸光值 $\\mathrm { O D } _ { 6 0 0 }$ ，对应细胞干重（DCW,Drycellweight）曲线求得菌体干重值。细胞干重与 $\\mathrm { O D } _ { 6 0 0 }$ 测定的标准曲线换算公式为：DCW $( \\mathrm { g } / \\mathrm { L } ) { = } 0 . 3 \\times \\mathrm { O D } _ { 6 0 0 { \\circ } }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）葡萄糖含量测定：反应液 $1 2 \\ : 0 0 0 \\ : \\mathrm { r / m i n }$ ，离心 $5 ~ \\mathrm { m i n }$ ，取上清稀释至合适倍速，SBA-40D生物传感分析仪测定。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）丁二酮和乙偶姻含量采用气相色谱系统（Agilent 7890A气相色谱仪）检测。色谱柱为Phenomenex ZB-WAXplus 毛细管色谱柱（ $3 0 \\ \\mathrm { m } \\times 0 . 3 2 \\ \\mathrm { m m } \\times 0 . 2 5 \\ \\mathrm { \\mu m } )$ ；检测器为FID氢火焰检测器。载气为氮气，流速 $1 . 6 \\ : \\mathrm { m L / m i n }$ 。进样口、检测器温度 $2 5 0 ^ { \\circ } \\mathrm { C }$ 。升温程序：起始柱温 $1 0 0 ^ { \\circ } \\mathrm { C }$ ，保留 $1 \\mathrm { m i n } ; 2 0 ^ { \\circ } \\mathrm { C } / \\mathrm { m i n }$ 升温至 $1 8 0 ^ { \\circ } \\mathrm { C }$ ，保留 $3 \\mathrm { m i n }$ ；最后 $3 0 ^ { \\circ } \\mathrm { C / m i n }$ 升温至 $2 3 0 ^ { \\circ } \\mathrm { C }$ 保留 $1 \\mathrm { m i n }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(4）(S)-乙偶姻光学纯的检测。所用气相色谱柱为AgilentCyclosil-B手性色谱柱（ $3 0 \\mathrm { m }$ $\\times 0 . 3 2 \\ : \\mathrm { m m } \\times 0 . 2 5 \\ : \\mu \\mathrm { m } )$ ；检测器为FID氢火焰检测器。载气为氮气，流速 $1 . 6 \\ : \\mathrm { m L / m i n }$ 。进样□温度和检测器温度 $2 4 0 ^ { \\circ } \\mathrm { C }$ 。升温程序：起始柱温度 $1 0 0 ^ { \\circ } \\mathrm { C }$ ，保留 $1 \\mathrm { m i n }$ ，然后以 $1 0 ^ { \\circ } \\mathrm { C / m i n }$ 的速度升温至 $1 2 0 ^ { \\circ } \\mathrm { C }$ ，以 $6 ^ { \\circ } \\mathrm { C } / \\mathrm { m i n }$ 的速度升温至 $1 3 0 ^ { \\circ } \\mathrm { C }$ ，以 $2 0 ^ { \\circ } \\mathrm { C / m i n }$ 的速度升温至 $2 3 0 ^ { \\circ } \\mathrm { C }$ 。(S)-乙偶姻光学纯度计算式： $[ \\mathrm { S } ] / ( [ \\mathrm { S } ] { + } [ \\mathrm { R } ] ) \\times 1 0 0 \\%$ ，式中[S]代表 $( S )$ -乙偶姻峰面积，[R]代表$( R )$ -乙偶姻峰面积。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1DAR和GDH表达载体的构建 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "将PCR 扩增得到dar片段（720 bp BamHI/Hind II)，酶切连接至pETDuet-1，构建重组质粒pETDuet-dar。同样的方法将 gdh 片段（786 bp Nde I/Aat II)，酶切连接至pETDuet-dar上，构建重组质粒pETDuet-dar/gdh。分别对重组质粒pETDuet-dar和pETDuet-dar/gdh 进行酶切验证，如图1(a)所示，重组质粒pETDuet-dar 经BamHI单酶切产生了6092 bp 的单一条带，经BamHI/Hind III双酶切，产生了5372bp 和720 bp 的两条带，与预计大小一致。由图1(b)可知，重组质粒 pETDuet-dar/gdh 经 NdeI和 Nde I/Aat II 双酶切，分别产生6 836 bp的单一条带和 $6 0 5 0 \\mathrm { b p / 7 8 6 b }$ p 两条带。进一步将酶切验证正确的重组质粒送至南京金斯瑞测序,测序结果与GenBank 报道的序列一致,证明重组质粒pETDuet-dar和pETDuet-dar/gdh构建成功。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/f153ae32e418db1bee0035e0c52691aa10ee61f5959aa858f0e03ea1e4c814cd.jpg",
+        "img_caption": [
+            "图1重组质粒的酶切验证"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Figure 1. ldentification of the recombinant plasmid by enzyme digestion. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（a）泳道1：pETDuet-dar(BamHI单酶切)；泳道2：pETDuet-dar(BamH/HindII双酶切)；M1：markerIV；M2：marker DL2000;(b）M1：markerIV；M2：markerDL2000；泳道1：pETDuet-dar/gdh(NdeI单酶切)；泳道2：pETDuet-dar/gdh(Nde/AatII双酶切)(a)Lane1:pETDue-dardigestedbyBamHI;Lane2:pETDuet-dardigestedbyBaHandHndII;M1:markerIV;M2:marke0;(b)M1: markerDL2o;M2:markerIV;Lane1:pEDuet-dar/gddigestedbyNdeI;Lane2:pETDuet-dar/gdhdigestedyNdeadt.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2DAR 和GDH的诱导表达及DAR 的纯化",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "分别将重组质粒pETDuet-dar 和 pETDuet-dar/gdh 转化大肠杆菌BL21(DE3)，挑取转化子于LB 培养基中用 IPTG 诱导培养，收集的菌体经预处理后进行 SDS-PAGE 分析。结果（图2）显示，重组菌 E.coli BL21(DE3)-DAR、E.coli BL21(DE3)-DAR/GDH分别在大约 $2 7 \\mathrm { K D a }$ ，$2 7 \\mathrm { K D a }$ 和 $2 9 \\mathrm { K D a }$ 处有特异性条带,表明 DAR,DAR 和 GDH分别在 E.coli BL21(DE3)-DAR和E.coli BL21(DE3)-DAR/GDH 中获得高效表达。将 E.coli BL21(DE3)-DAR 发酵菌体经冰浴超声破碎，HiTrap TALON 柱亲和层析纯化，得到大小约 $2 7 \\mathrm { K D a }$ 的单一条带。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/13f2943f170ee6f5b0445fd40bffd5e69bd1ddd6b275b66ec04bfa881ea45746.jpg",
+        "img_caption": [
+            "图2DAR和GDH在 $\\ E .$ co/i BL21(DE3)中的表达及纯化"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Figure 2. SDS-PAGE analysis of DAR and GDH expressed in E.co/i BL21(DE3)and the purified ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "recombinant DAR. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "M:蛋白 marker；泳道1:E.coli BL21(DE3)-pETDuet；泳道2:E.coli BL21(DE3)-DAR；泳道3:E.coli BL21(DE3)-DAR/GDH;",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "泳道4：纯化的DAR ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "M: marker;Lane1: E.coli BL21(DE3)-pETDuet;Lane2:E.coli BL21(DE3)-DAR;Lane3:E.coliBL21(DE3)-DAR/GDH; Lane 4: ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Purified recombinant DAR. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.3DAR的酶学性质 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "根据米氏方程，得出DAR 对底物丁二酮的动力学参数 $( K _ { \\operatorname* { m } } , \\operatorname { V } _ { \\operatorname* { m a x } } , K _ { \\operatorname { c a t } } )$ : DAR 以 NADH为辅酶还原丁二酮的米氏常数 $K _ { \\mathrm { m } }$ 、最大催化速率 $V _ { \\mathrm { m a x } }$ 、催化常数 $K _ { \\mathrm { c a t } }$ 分别为 $2 . 5 9 \\mathrm { m M }$ ，1.64μmol/L:min:mg, $1 2 . 3 / \\mathrm { s }$ ，DAR 催化丁二酮生成 $( S )$ -乙偶姻的光学纯度为 $9 5 . 8 6 \\%$ 。说明多粘芽孢杆菌DSM365丁二酮还原酶有较好的催化效率和立体异构体选择性，可用于构建全细胞催化剂催化合成(S)-乙偶姻。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.4全细胞生物催化剂催化",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "分别取适量休止细胞 $E$ ：coli BL21(DE3)-pETDuet、E. coli BL21(DE3)-DAR、E.coliBL21(DE3)-DAR/GDH，进行全细胞生物催化。由于每合成1分子(S)-乙偶姻需要消耗1分子还原型辅酶NADH，重组菌 $E .$ coli BL21(DE3)-DAR依靠内源性辅酶再生系统，催化合成$2 . 2 1 \\ \\mathrm { g / L }$ 乙偶姻，生产速率仅 $0 . 7 4 \\ : \\mathrm { g / ( L \\cdot h ) }$ 。构建辅酶再生系统后，催化效率大幅提高。相同条件下，重组菌 $E .$ coli BL21(DE3)-DAR/GDH可催化合成 ${ 5 . 0 3 } \\ \\mathrm { g / L }$ 乙偶姻，生产速率1.68$\\mathbf { g } / ( \\mathrm { L } \\cdot \\mathrm { h } )$ ，是单独表达丁二酮还原酶时的2.28倍（表2)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/2c036ef2ea5471d6b14e98153a41fafb771bf83e927d8e0459952c1e143df85f.jpg",
+        "table_caption": [
+            "表2全细胞生物催化剂的生物转化",
+            "Table 2. The products of batch bioconversion with whole-cell biocatalyst "
+        ],
+        "table_footnote": [
+            "1) Represents no data. "
+        ],
+        "table_body": "<html><body><table><tr><td>菌株 Strain</td><td>丁二酮Diacetyl</td><td>乙偶姻Acetoin</td><td>生产速率Productivity</td></tr><tr><td>E.coli BL21(DE3)-pETDuet</td><td>(g/L) 14.35±0.28</td><td>（g/L)</td><td>(g/(L·h)) ND</td></tr><tr><td>E. coli BL21(DE3)-DAR</td><td>12.72 ± 0.05</td><td>ND1 2.21 ± 0.33</td><td>0.74 ± 0.11</td></tr><tr><td></td><td></td><td></td><td>1.68 ± 0.16</td></tr><tr><td>E.coli BL21(DE3)-DAR/GDH</td><td>9.76 ± 0.39</td><td>5.03 ± 0.48</td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.5全细胞生物催化剂催化条件优化",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "为了提高全细胞生物催化剂合成乙偶姻的效率，分别考察了生物催化合成中的相关因素对乙偶姻生物合成的影响。由于菌体浓度限制了合成过程中生物催化剂的总量， $\\mathsf { p H }$ 和温度又与催化反应中细胞催化剂的活力和稳定性密切相关，依次对催化反应中菌体浓度、pH、温度3个单因素进行了优化。结果如图3(a)、(b)、(c)所示，在 $1 0 0 \\mathrm { m M }$ 磷酸盐缓冲液体系，全细胞催化生物合成乙偶姻的最适干细胞浓度为 $1 2 ~ \\mathrm { g ( D C W ) } / \\mathrm { L } ^ { - 1 }$ ，最适 $\\mathfrak { p H }$ 为6.5，最适温度$4 0 ^ { \\circ } \\mathrm { C }$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "进一步考察葡萄糖/丁二酮摩尔浓度比和摇床转速对全细胞催化合成乙偶姻的影响。由图 3(d)可知，随着葡萄糖/丁二酮摩尔浓度比的增加，乙偶姻的产量显著增加，当葡萄糖/丁二酮摩尔浓度比为3.0，乙偶姻产量最高，而后下降。图3(e)显示，当摇床转速在 $7 5 { \\sim } 1 0 0 ~ \\mathrm { r / m i n }$ 时催化效率较高，继续增加转速，乙偶姻产量下降。说明微氧环境下胞内的氧化还原状态更适合DAR 催化。最后考察了丁二酮起始浓度对生物转化的影响。乙偶姻产量随着丁二酮起始浓度增加而增加，当丁二酮起始浓度为 $1 7 . 5 \\ \\mathrm { g / L }$ 时，乙偶姻产量 $1 6 . 2 4 \\ : \\mathrm { g / L }$ ，转化率 $9 2 . 8 \\%$ 继续增加丁二酮起始浓度，乙偶姻产量虽有所增长，转化率却呈下降趋势。当丁二酮起始浓度为 $2 2 . 5 ~ \\mathrm { g / L }$ 时，乙偶姻产量最高，达 $1 8 . 8 5 ~ \\mathrm { g / L }$ ，对应转化率仅 $8 3 . 7 \\%$ （图3(f))。原因应当是高浓度底物抑制了菌体活力，进而影响了催化效率。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/8300a26145f88a587795b6730cd8e4c5073c5222aff08e84cd1e4a4d4b6fab8d.jpg",
+        "img_caption": [
+            "图3全细胞生物催化剂催化条件的优化",
+            "Figure 3. Optimization of biocatalysis conditions. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（a）干细胞浓度；（b）pH；（c）温度；（d）葡萄糖丁二酮摩尔浓度比；（e）转速；（f）丁二酮浓度(a)Concetratiofrecobant;(b)H;(prature;(datiofgucostdetyl;(e)higes;(f)oetratiodacty",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.6优化催化条件下补料合成乙偶姻",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "由图 3(f)可知，起始丁二酮浓度过高会抑制菌体活性，进而影响乙偶姻的催化合成。有效的补料策略可以显著提高目标产物的产量[16]，为了得到更高浓度的乙偶姻，在最适催化条件的基础上进行补料合成乙偶姻。每隔 $1 . 5 \\mathrm { h }$ 取样，检测丁二酮和葡萄糖残量、乙偶姻产",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "量，并根据需要补加丁二酮和葡萄糖，调整 $\\mathsf { p H }$ 至6.5，以促使催化反应有效进行。结果（图4）显示，催化反应 $1 0 \\mathrm { { h } }$ 后，累计消耗 $6 3 ~ \\mathrm { g / L }$ 丁二酮，转化合成 $5 1 . 2 6 \\ : \\mathrm { g / L }$ 乙偶姻，转化率$8 1 . 3 7 \\%$ ，生产速率 $5 . 1 3 \\ \\mathrm { g / ( L \\cdot h ) }$ 。",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/b3afcc982ebdb5d303ac43a5619a57a491eeec3211add76b92edc568ee8feaa8.jpg",
+        "img_caption": [
+            "图4优化催化条件下的补料生物合成",
+            "Figure 4. Fed-batch bioconversions under optimal condition. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "（▲）乙偶姻；（•）丁二酮；（o）葡萄糖（▲）Acetoin；（•）Diacetyl;（o）Glucose.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "多粘芽孢杆菌是目前为止发现的唯一能够高效生产高光学纯 $^ { ( R , R ) - 2 , 3 }$ -丁二醇的天然微生物[14,17-19]。前期对多粘芽孢杆菌 DSM365 进行全基因组测序与注释，挖掘到合成(S)-乙偶姻的关键酶——丁二酮还原酶DAR 的编码基因[14]。本文首次对该丁二酮还原酶基因dar 进行克隆表达和纯化，酶学性质分析表明，DAR以NADH为辅酶还原丁二酮的米氏常数 $K _ { \\mathrm { m } }$ 为 $2 . 5 9 \\mathrm { m M }$ 、最大催化速率 $V _ { \\mathrm { m a x } }$ 为 $1 . 6 4 ~ { \\mu \\mathrm { m o l / L \\cdot m i n \\cdot m g } }$ 、催化常数 $K _ { \\mathrm { c a t } }$ 为 $1 2 . 3 / \\mathrm { s }$ ，催化丁二酮生成(S)-乙偶姻的光学纯度为 $9 5 . 8 6 \\%$ ，具有较好的催化效率和立体异构体选择性，可应用于制备酶制剂或全细胞生物催化剂合成(S)-乙偶姻。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "全细胞生物催化的本质是利用细胞内的酶进行催化，克服了发酵法和酶法存在的诸多缺点，具有高立体异构体选择性，相比纯酶催化剂，胞内酶稳定性更好，成本更低。大肠杆菌属于非致病菌株，具有生长繁殖快、易实现高密度培养等优点，此外该菌遗传背景清晰、遗传操作技术成熟，是用于构建微生物细胞工厂合成(S)-乙偶姻的首选宿主之一。Gao 等[20]将多粘芽孢杆菌P.polymyxa ZJ-9 的丁二酮还原酶基因导入 $E .$ coli Rosetta (DE3)，反应所需NADH由宿主内源酶系催化葡萄糖产生。补料催化生产(S)-乙偶姻 $3 9 . 4 \\ \\mathrm { g / L }$ 。由于每催化丁二酮产生1分子乙偶姻，需要消耗一分子 NADH/NADPH，而宿主内源 NADH/NADPH 再生系统效率较低，因此该催化反应周期较长（ $2 0 \\mathrm { h } )$ ，生产速率仅 $1 . 9 7 \\ : \\mathrm { g / ( L \\cdot h ) }$ 。Xiao 等[21]在大肠杆菌BL21(DE3)中引入短乳杆菌（Lactobacillus brevis）的NADH氧化酶，成功构建胞内辅酶再生系统，(S)-乙偶姻产量达 $3 6 . 7 \\ \\mathrm { g / L }$ ，是单独表达 $( 2 R , 3 R ) – 2 , 3$ -丁二醇脱氢酶时的2.06倍（ $1 7 . 8 \\ \\mathrm { g / L }$ )。由此可见，构建合适的胞内辅酶再生系统，对提高全细胞生物催化剂的催化效率十分有效。然而该方法所用底物为光学纯mes0-2,3-丁二醇，原料成本高昂，难以实现规模化量产。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "枯草芽孢杆菌葡萄糖脱氢酶稳定性好，适用性广（NAD+和 NADP+依赖型)，广泛应用于生物催化氧化还原反应的辅酶再生[3,2,23]。本研究在大肠杆菌系统中构建外源辅酶再生系统，同时表达丁二酮还原酶DAR 和葡萄糖脱氢酶GDH，催化效率大幅提高。相同条件下，重组菌 E.coli BL21(DE3)-DAR/GDH催化合成乙偶姻的产量和速率是单独表达DAR 时的2.28倍。优化催化条件，以重组菌 $E$ coli BL21(DE3)-DAR/GDH为全细胞生物催化剂分批补料还原丁二酮，乙偶姻产量达到 $5 1 . 2 6 \\ \\mathrm { g / L }$ ，生产速率 $5 . 1 3 ~ \\mathrm { g } / ( \\mathrm { L } \\mathrm { h } )$ 。所用原料丁二酮为非手性化合物，解决了手性化合物底物成本高昂的难题，具有较高的生产应用价值。需要说明的是，本研究中使用全细胞生物催化剂合成(S)-乙偶姻的光学纯度与纯酶催化相比，略有下降。可能与大肠杆菌自身携带的丁二酮还原酶、甘油脱氢酶等酶系的非特异性催化有关。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[1] Xiao Z J,Lu J R. Strategies for enhancing fermentative production of acetoin: A review. Biotechnol Adv,2014,32:492-503. [2] Xiao Z J, Lu JR. Generation of acetoin and its derivatives in foods. JAgric Food Chem, 2014, 62: 6487-6497. [3] Gao C, Zhang L, Xie Y,et al. Production of(3S)-acetoin from diacetyl by using stereoselective NADPH-dependent carbonyl reductase and glucose dehydrogenase. Bioresour Technol, 2013,137: 111-115. [4] Werpy TA, Petersen G.Top value added chemicals from biomass: I. Results of screning for potential candidates from sugars and synthesis gas. US Department of Energy, 2004. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[5] Zhang LY, Singh R S, Sivakumar D, Guo Z W, Li JH, Chen F B, et al. An artificial synthetic pathway for acetoin，2,3-butanediol，and 2-butanol production from ethanol using cell free multi-enzyme catalysis. Green Chemistry. 2018;20:230-42. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[6] 甄德帅．香料乙偶姻（3-羟基-2-丁酮）化学工艺合成现状．黔南民族师范学院学报,2015; 35: 121-124. Zhen D S. On the current chemical synthesis techniques of acetoin flavor. Journal of qiannan normal college for nationalities,2015; 35: 121-124. [7] Xiao Z J,Liu PH, Qin JY, et al.Statistical optimization of medium components for enhanced acetoin production from molasses and soybean meal hydrolyzate. Appl Microbiol Biotechnol, 2007, 74: 61-68. [8] 张燎原，洪欲强，陈双，等．以葡萄糖和木糖为双底物生物合成乙偶姻的条件优化．化学 与生物工程,2012,29(7):30-35. Zhang L Y, Hong Y Q, Chen S, et al. Optimization of co-fermentation condition of glucose and xylose for acetoin production. Chemistry and Bioengineering, 2012, 29(7): 30-35. [9]郝飞．枯草芽孢杆菌发酵生产乙偶姻的研究．江南大学硕士学位论文,2013. Hao F. Improvement to acetoin fermentation technology by Bacillus subtilis CCTCC M 208157. Master Thesis of Jiang Nan University, 2013. [10] Xu Q, Xie L, Li Y,et al. Metabolic engineering of Escherichia coli for efficient production of (3R)-acetoin. J Chem Technol Biotechnol, 2015, 90: 93-100. [11] Crout D, Littechild J，Morrey S. Acetoin metabolism: stereochemistry of the acetoin produced by the pyruvate decarboxylase of wheat germ and by theα-acetolactate decarboxylase of Klebsiella aerogenes. J Chem Soc Perkin 1, 1986: 105-108. [12] Kochius S， Paetzold M, Scholz A, et al. Enantioselective enzymatic synthesis of the （20 $\\mathfrak { a }$ -hydroxy ketone $( R )$ -acetoin from meso-2,3-butanediol. JMol Catal B Enzym, 2014,103: 61-66. [13] Wachtmeister J, Rother D. Recent advances in whole cel biocatalysis techniques bridging from investigative to industrial scale. Curr Opin Biotechnol, 2016, 42: 169-177. [14] Xie N Z, Li J X, Song L F, et al. Genome sequence of type strain Paenibacillus polymyxa DSM 365,a highly efficient producer of optically active (R,R)-2,3-butanediol. JBiotechnol, 2014,195: 72-73. [15] 奥斯伯 MF,金斯顿ER，赛德曼GJ,etal．精编分子生物学实验指南(译)．第四版．北 京：科学出版社;2005.887-888. Ausubel F M, Kingston R E, Seidman JG, et al. Short protocols in molecular biology, 4th ed. Bejing: Science press; 2005. 887-888. [16] Ji X, Huang H, Ouyang P. Microbial 2,3-butanediol production: A state of the art review. Biotechnol Adv,2011,29: 351-364. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[17] Haβler T, Schieder D,Pfaller R,et al. Enhanced fed-batch fermentation of 2,3-butanediol by Paenibacillus polymyxa DSM365.Bioresour Technol, 2012,124: 237-244. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[18] Xie NZ, Chen XR,Wang QY, et al. Microbial routes to (2R,3R)-2,3-butanediol: Recent advances and future prospects. Curr Top Med Chem, 2017,17: 2433-2439. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[19] 李亿，李检秀，刘海余,etal．多粘类芽孢杆菌同步糖化发酵玉米粉生产(R,R)-2,3-丁二醇．广西科学.2016,23:41-46.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Li Y,Li JX,Liu H Y,et al. Simultaneous sccharification and (R,R)-2,3-butanediol fermentation from corn flour by Paenibacillus polymyxa. Guangxi Sciences, 2016,23: 41-46. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[20] Gao J, Xu Y Y, Li F W,et al. Production of $S .$ -acetoin from diacetyl by Escherichia coli transformant cels that express the diacetyl reductase gene of Paenibacillus polymyxa ZJ-9.Lett Appl Microbiol, 2013, 57: 274-281. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[21] Xiao Z, Lv C, Gao C,et al. A novel whole-cell biocatalyst with $\\mathrm { N A D ^ { + } }$ regeneration for production of chiral chemicals. PLoS One, 2010,5: e8860. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[22] Yamamoto H, Mitsuhashi K, Kimoto N,et al.A novel NADH-dependent carbonyl reductase from Kluyveromyces aestuari and comparison of NADH-regeneration system for the synthesis of ethyl (S)-4-chloro-3-hydroxybutanoate.Biosci Biotechnol Biochem, 2004,68: 638-649. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[23] Nina R, Markus N, Andreas L, et al. Characterization of a whole-cell catalyst co-expressing glycerol dehydrogenase and glucose dehydrogenase and its application in the synthesis of L-glyceraldehyde.Biotechnol Bioeng,2010,106: 541-552. ",
+        "page_idx": 14
+    }
+]

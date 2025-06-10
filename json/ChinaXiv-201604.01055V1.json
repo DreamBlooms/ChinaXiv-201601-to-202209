@@ -1,0 +1,405 @@
+[
+    {
+        "type": "text",
+        "text": "基于铁基纳米晶带巨磁阻抗效应的磁强计设计",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吕维维1 王劲东² 赵华 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1(东南大学仪器科学与工程学院南京 210096)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2(中国科学院国家空间科学中心北京 100190)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3(北京卫星环境工程研究所北京 100094)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要基于巨磁阻抗效应(GMI)的磁强计是近年来磁强计研究领域的热点，相比其他类型磁强计,GMI磁强计具有微型化、高灵敏度、快速响应、高温度稳定性和低功耗的优点．本文以铁基纳米晶带材为敏感材料，设计并实现了GMI磁强计传感器与后续信号处理电路，组成一台GMI磁强计.实验结果表明，该磁强计在 $- 2 5 0 0 0 { \\sim } 2 5 0 0 0 \\mathrm { n T }$ 量程内灵敏度为 $0 . 1 7 6 \\mathrm { m V } \\cdot \\mathrm { n T } ^ { - 1 }$ ，满足实际弱磁场测量要求，并且具有体积小及功耗低的特点，有望应用于空间探测等磁测量领域.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词巨磁阻抗，磁强计，高灵敏度，信号处理电路中图分类号 TH761",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Design of Magnetometer Based on GMI Effect in Fe-based Nano-crystalline Ribbon ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LU Weiwei1 WANG Jindong² ZHAO Hua³ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1(School of Instrument Science and Engineering,Southeast University，Nanjing 210096) 2(National Space Science Center,Chinese Academy of Sciences,Beijing 100190) 3(Beijing Institute of Spacecrafts Environment Engineering,Beijing 100094) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract The magnetometer based on Giant Magneto-Impedance (GMI) effect becomes one of the hottest points on magnetometer research in recent years. Compared with other magnetometers, GMI magnetometer has the advantages of miniaturization, high sensitivity， quick response,high temperature stability and low power consumption. Based on the sensitive material of Fe-based nano-crystaline ribbon,a GMI probe and subsequent signal processing circuit have been designed and realized to compose a GMI magnetometer. Experimental results suggest that in the magnetic field ranging from $- 2 5 0 0 0 \\mathrm { n T }$ to $2 5 0 0 0 { \\mathrm { n T } }$ ，the sensitivity is $0 . 1 7 6 \\mathrm { m V } { \\cdot } \\mathrm { n T } ^ { - 1 }$ ，which attains the measurement requirement of a weak magnetic field. The magnetometer has advantages of smalsize and low power consumption so that could be used in space magnetic field measurement. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key wordsGiant Magneto-Impedance (GMI), Magnetometer, High sensitivity, Signal processing circuit ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "磁场探测在研究地磁场模型、空间环境探测及深空探测等领域具有重要意义[1．磁强计是利用敏感元件感知磁物理量的变化，进而将其转换成相应电信号进行检测的仪器．磁强计的应用十分广泛．在空间探测领域，通过在卫星上搭载磁强计测量太阳、月球、火星的磁场，可以获得相应的磁场信息进行分析[2；在地球表面，利用高精度磁强计测量地球磁场的磁偏角A、磁倾角 $\\pmb { \\mathcal { \\phi } }$ 、地磁场磁感应强度的水平分量 $B$ ，可得到地磁场大小和方向信息.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，伴随新磁性材料的出现，其物理效应的研究不断深入，一些新型、高精度的磁强计不断推出.1992年日本科学家Mohri等首先在Co基非晶丝中观察到巨磁阻抗 (GiantMagneto-Impedance，GMI)效应[3].表1给出了几种常见磁强计的性能比较[4],可以发现，与现有巨磁阻抗(GMR)、磁阻(MR)、霍尔效应、磁通门磁强计相比，GMI磁强计具有磁场灵敏度高、响应速度快、功耗低和尺寸小等特点 $[ 5 - 6 ]$ ，弥补了传统磁强计的不足.基于此，巨磁阻抗效应研究[7-8]以及巨磁阻抗效应磁强计研制[9-10]受到了广泛关注",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "日本2001年首次成功研制出一种CMOS 型GMI磁强计集成电路芯片，随后推出以直径 $2 0 \\mu \\mathrm { m }$ ，长度 $1 \\mathrm { m m }$ 的CoFeSiB非晶丝为敏感材料的GMI磁强计，其灵敏度比美国生产的MR 磁强计高两个数量级以上．2006年日本又开发了GMI 磁强计系列，包括带宽为 $1 0 0 \\mathrm { k H z }$ 的MI-CB-1DB,测量范围为 $\\pm 1 0 ^ { 6 } \\mathrm { n T }$ 的 MI-CB-1DW 和灵敏度为 $0 . 7 5 \\mathrm { m V } \\cdot \\mathbf { n } \\mathbf { T } ^ { - 1 }$ 的MI-CB-1DK.其中MI-CB-1DK尺寸仅有 $3 5 \\mathrm { m m } { \\times } 1 1 \\mathrm { m m } { \\times } 6 \\mathrm { m m }$ ．此外，对非晶材料的内部结构、理论模型、制备、特性、工艺、材料、应用等研究不断深入，并取得一定成果.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "迄今为止，中国对GMI磁强计的研究大多集中于GMI效应理论及材料制备等方面，结合非晶材料和微电子学制成磁强计的报道较少.本文在对GMI效应产生机制研究的基础上，制作了基于铁基纳米晶带的磁强计传感器，设计并实现了后续信号处理电路，引入负反馈．实验结果表明，该磁强计具有较高的精确度，相比其他类型磁强计具有体积小、功耗低、灵活性高的特点，可广泛应用于磁测量领域",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1GMI效应理论分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GMI效应是指当软磁性材料（多为 $\\mathtt { F e }$ 基纳米晶 和Co基非晶)的丝或带通以交流电流 $\\scriptstyle I _ { \\mathrm { a c } }$ 时，材料阻 抗 $z$ (或两端感生的交流电压 $U _ { \\mathbf { a c } }$ ）随着纵向所加外 磁场 $H _ { \\mathrm { e x } }$ 变化而灵敏变化的现象.GMI效应如图1 所示. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GMI效应的定量描述采用电阻抗变化率来表征可定义为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG ( Z ) = \\frac { Z ( H _ { \\mathrm { e x } } ) - Z ( H _ { \\mathrm { m a x } } ) } { Z ( H _ { \\mathrm { m a x } } ) } \\times 1 0 0 \\% .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $Z ( H _ { \\mathrm { e x } } )$ 为非晶丝在某外加磁场下的电阻抗值，$Z ( H _ { \\operatorname* { m a x } } )$ 为外加磁场达到饱和时非晶丝的电阻抗值、",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/cfcd935ed48bad7f36bf1f813652bb6c9f58d68884f9edaee8694876018c2bcb.jpg",
+        "img_caption": [
+            "图1GMI效应示意",
+            "Fig.1 Schematic diagram of GMI effect "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/71dcd12079a523ad8030f87354177cce54e5dff5e930f492e6e40a0b8a33ad80.jpg",
+        "table_caption": [
+            "表1几种常见磁强计性能比较",
+            "Table 1 Comparison of several common magnetic sensors "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>磁强计名称</td><td>量程/nT</td><td>灵敏度/nT</td><td>频响/MHz</td><td>功耗/mW</td><td>磁强计传感器尺寸/mm</td></tr><tr><td>巨磁阻抗(GMI)</td><td>107</td><td>10-3</td><td>1~5</td><td>10</td><td>1~2</td></tr><tr><td>巨磁电阻(GMR）</td><td>104~107</td><td>1</td><td>1</td><td>10</td><td>0.01~0.1</td></tr><tr><td>霍尔 (Hall)</td><td>105~1011</td><td>10</td><td>1</td><td>10</td><td>0.01~0.1</td></tr><tr><td>磁通门 (fux gate)</td><td>107</td><td>10-3</td><td>0.005</td><td>1000</td><td>10~20</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在半径为 $\\textbf { \\em a }$ 、长度为 $\\iota$ 、电阻率为 $\\rho$ 的非晶丝中通以振幅一定的正弦波交流电 $I = I _ { \\mathrm { m } } \\mathrm { e x p } ( \\mathrm { j } \\omega t )$ 时，可以通过长度方向的电场矢量 $E$ 、圆周方向的磁场矢量 $H$ 、磁通密度矢量 $B$ ，计算材料两端的阻抗值",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ = \\frac { U } { I } = R _ { \\mathrm { d c } } k a \\frac { J _ { 0 } ( k a ) } { 2 J _ { 1 } ( k a ) } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中，",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { k a = \\displaystyle \\frac { a ( 1 -  { \\mathbf { j } } ) } { \\delta } , } \\\\ { \\delta = \\sqrt { \\displaystyle \\frac { 2 \\rho } { \\omega \\mu } } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\mathrm { d c } } = { \\frac { \\rho l } { \\pi a ^ { 2 } } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "这里 $R _ { \\mathrm { d c } }$ 为元件的直流电阻",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2GMI磁强计传感器设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1结构设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "GMI磁强计敏感材料采用FeSiCuB铁基纳米晶带材，其具有高导磁率，高饱和磁感应强度，低矫顽力、低损耗以及良好的稳定性、高韧性及耐磨耐蚀等优异特性，是性能很好的金属软磁材料.将带材制作成长度 $2 0 \\mathrm { m m }$ 、宽度 $\\mathsf { 5 m m }$ 、厚度 $3 0 \\mu \\mathrm { m }$ 的敏感元件，放入由聚四氟乙烯制成的空心骨架中，带材的轴线与骨架轴线平行．为得到反映铁基纳米晶带材阻抗随外磁场的变化量，在骨架外绕有200 匝直径 $0 . 2 \\mathrm { m m }$ 的铜线圈．制作后的磁强计传感器尺寸为 $2 0 \\mathrm { m m } { \\times } 1 0 \\mathrm { m m } { \\times } 1 0 \\mathrm { m m }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 激励频率选择 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当线圈两端通以固定频率的激励信号时，由于非晶材料的GMI效应，线圈两端电压会随线圈轴向磁场的变化而变化．通过调节线圈激励信号频率值发现，当激励频率在 $1 0 0 \\mathbf { k H z }$ 左右时，电压随磁场有最高的变化量，即铁基纳米晶带阻抗有最大的变化值，如图2所示．因此最终选用 $1 0 0 \\mathrm { k H z }$ 作为激励信号频率值.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3GMI磁强计电路设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "磁强计探测电路分为5部分，即激励信号发生电路、检波电路、滤波电路、差分放大电路、反馈电路.磁强计的总体电路如图3所示",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fcd1f2bf9e70e1b495aefadf07c0292033481b1524be7658032d6889f9b48200.jpg",
+        "img_caption": [
+            "图2铁基纳米晶带阻抗分析Fig.2Impedance analysis diagram of Fe-basednano-crystallineribbon"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/113e1065ded9fa4a75aa660986475593944dfa0937d687eb00366b1c1c23d54a.jpg",
+        "img_caption": [
+            "图3GMI磁强计总体电路",
+            "Fig.3 Overall diagram of GMI magnetometer circuit "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 信号发生电路",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为保证激励信号的高稳定性，这里采用无源晶振产生周期性的 $1 0 0 \\mathrm { k H z }$ 信号激励非晶带，具体电路如图4所示晶振并联的电阻作用是将电路内部的反向器加一个反馈回路，形成放大器，当晶体并在其中时会使反馈回路的交流信号按照晶体频率谐振.起振电容选择 $1 5 \\mathrm { p F }$ ，外接并联的3个反相器74HC04可以有效增强晶振的驱动能力.后面接低通滤波电路的作用是从方波信号中提取频率为 $1 0 0 \\mathrm { k H z }$ 的正弦波对非晶带进行激励",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 峰值检波电路",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在驱动信号激励下，载波峰值随着外磁场的变化而变化，而混在载波中的信号是不能直接利用的，这需要检波电路将这种变化从载波中检出：为避免二极管的压降影响峰值计算，本文设计了一种无二极管型峰值检波电路，如图5所示",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "该电路由比较器、放大器、电压跟随器、电容和电阻组成.当输入电压比输出电压大时，比较器开始工作， $R _ { 1 }$ 中有电流流过，经过放大器后给电容 $C _ { 1 }$ 充电， $C _ { 1 }$ 电量开始增加.直至输出电压比输入电压略高时，比较器停止工作，此时电容 $C _ { 1 }$ 通过 $R _ { 2 }$ 开始缓慢放电，直至输入电压比输出电压略高， $C _ { 1 }$ 又开始充电.这样，输出电压始终保持在输入电压的峰值，起到峰值检波的作用.本文通过函数信号发生器输入正弦波，用示波器观察输出波形的大小，如图6所示.实验表明，该电路具有很好的峰值检测效果",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3 GMI磁强计后续信号处理电路设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从峰值检波电路出来的信号不仅仅是与所测磁场有关的直流信号，还夹杂着其他一些与外界环境干扰、磁强计传感器、电路本身电阻、放大器等元器件噪音有关的高频信号.因此有必要对峰值检波电路的输出信号进行低通平滑处理，增加磁强计的信噪比.相比切比雪夫逼近和贝赛尔逼近，巴特沃斯滤波器的幅频特性无峰值，在通带内具有最大的平坦度，在特征频率附近频率特性曲线呈单调递减．综合考虑稳定性和滤波效果两个方面后，最终选择四阶巴特沃斯低通滤波器，其由两个二阶巴特沃斯滤波器级联而成，截止频率为 $1 0 0 0 \\mathrm { H z }$ ， $Q$ 值为0.5，可有效滤除高频噪声.",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4baf30206adf77f822d9c4936ac329fc92d51b8892f341f92ccd10e8d266b0fd.jpg",
+        "img_caption": [
+            "图4激励信号发生电路"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0a942dd48a283160da8375402965084344363b97d9839d7de6ea102bd3ceb355.jpg",
+        "img_caption": [
+            "Fig.4 Excitation signal generatingcircuit ",
+            "图5峰值检波电路"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4d164d7fa39ee1909e7bf5381e31edf086d41fb8a080adc0eeaa1ab2a1d2c192.jpg",
+        "img_caption": [
+            "Fig.5 Peakdetection circuit ",
+            "图6峰值检波电路实验结果.(a）峰值检波电路实验波形，（b）峰值检波电路输出电压理论值与实际值的比较 Fig.6Experimental result of peak detection circuit.(a) The waveform of peak detection circuit, (b) comparison between the theoretical and practical value of output voltage "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在滤波器输出之后加差分放大电路．一是使输入信号与基准信号作差，使得待测磁场为零时，磁强计输出电压为零;二是根据需要对输出的电压信号进行放大，调节磁强计的灵敏度.差分放大电路选用高精度仪表放大器AD620来实现.实际电路设计中，选择在差分放大电路之后加入一阶无源低通滤波电路进一步提高输出直流数字信号的稳定性",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "上述电路结构使磁强计构成了一个开环系统，其测量磁场的灵敏度达到了预期要求，但相对于闭环系统，其线性度、稳定性、线性量程和精确度等指标还有不足之处[11]．因此可加入负反馈 $V / I$ 转换电路使电路构成闭环系统．由于激励线圈中通入的是交流电压，而反馈回路中通入直流电流，两者互不干扰，设计时反馈线圈仍采用原来的激励线圈，为使电路具有较好的稳流效果，在电路元器件的选择方面，反馈电阻选用金属膜电阻，运算放大器选择OP27，其具有低输入失调电压和低输入噪声电压的优点.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4实验结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验中将制作好的铁基纳米晶带磁强计传感器与焊接调试完毕的磁强计信号调理电路相连，组成完整的磁强计．其中，磁强计传感器尺寸为 $2 0 \\mathrm { m m } { \\times } 1 0 \\mathrm { m m } { \\times } 1 0 \\mathrm { m m }$ ，信号调理电路尺寸为 $1 0 9 \\mathrm { m m } \\times 5 2 \\mathrm { m m }$ ，功耗为 $0 . 1 2 \\mathrm { W }$ ，具有体积小、功耗低的特点．GMI磁强计性能测试系统如图7所示．磁强计传感器放入可产生均匀磁场的亥姆霍兹线圈内，并放入磁屏蔽筒内以隔离外界磁场的影响．在测量过程中，磁强计传感器的轴线始终与亥姆霍兹线圈的轴线保持一致，并垂直地磁场方向.调节提供给亥姆霍兹线圈的电流，进而改变外界磁场的大小，用万用表测量差分放大电路之后的电压信号．当外界磁场为 $- 2 5 0 0 0 \\mathbf { n T }$ 时，磁强计输出电压为 $- 3 1 3 4 \\mathrm { m V }$ ，逐步增加外磁场的大小，可以发现电压信号稳步增加.当外界磁场达到 $2 5 0 0 0 \\mathrm { n T }$ 时，磁强计输出电压为 $\\mathbf { 5 6 7 7 } \\mathrm { m V }$ ，可见外磁场与输出电压信号存在正向的比例关系.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据实验数据，采用最小二乘法拟合可得到外磁场与输出电压的关系为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { \\mathrm { o u t } } = 0 . 1 7 6 3 B + 1 2 7 1 . 2 .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中，磁感应强度 $B$ 的单位为 $\\mathbf { n } \\mathbf { T }$ ，输出电压 $V _ { \\mathrm { o u t } }$ 的单位为 $\\mathrm { { \\ m V } }$ ，实验与拟合曲线的对比如图8所示，",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验结果表明，本文所设计的GMI磁强计在 $- 2 5 0 0 0 { \\sim } 2 5 0 0 0 \\mathrm { n T }$ 量程内具有较高的灵敏度，达到 $0 . 1 7 6 \\mathrm { m V } \\cdot \\mathrm { n T } ^ { - 1 }$ ．通过计算得到GMI磁强计的线性度误差、重复性误差和迟滞误差指标列于表2.",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3d0dc135fbb519f18b662978246af43f1b9c53d6a6d0bb33e0e6694554ef3397.jpg",
+        "img_caption": [
+            "图7GMI磁强计性能测试系统"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e198ed940b0e1c55c8f4301f7c634ecd8cf1147e7dd3553016c93ace7c2ea8a9.jpg",
+        "img_caption": [
+            "Fig.7 Performance test system of GMI magnetometer ",
+            "图8实验与拟合曲线的对比 Fig.8 Comparison between the experimental curve and fitting curve "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/cff80f7f02bb6000c1afc6fa8ed74e69eb4ee95cf025cb286e9aed1b242e5b35.jpg",
+        "table_caption": [
+            "表2GMI磁强计性能指标",
+            "Table 2  Performance indicators of GMI magnetometer "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>性能指标</td><td>量程</td><td>线性度误差</td><td>重复性误差</td><td>迟滞误差</td><td>功耗</td><td>灵敏度</td></tr><tr><td>GMI磁强计</td><td>－25000~25000nT</td><td>0.277%</td><td>0.082%</td><td>0.368%</td><td>0.12 W</td><td>0.176 mVnT-1</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "磁强计作为空间磁场科学测量的有效载荷,在各项空间探测任务中发挥着重要作用.本文以铁基纳米晶带材为敏感材料，配以信号发生电路、峰值检波电路、滤波电路、差分放大电路及负反馈电路，设计了一台GMI 磁强计.该GMI 磁强计灵敏度较高，在 $- 2 5 0 0 0 { \\sim } 2 5 0 0 0 \\mathrm { n T }$ 的量程范围内灵敏度达到$0 . 1 7 6 \\mathrm { m V } \\cdot \\mathrm { n T } ^ { - 1 }$ .磁强计传感器尺寸为 $2 0 \\mathrm { m m } \\times 1 0 \\mathrm { m m }$ $\\times 1 0 \\mathrm { m m }$ ，信号调理电路尺寸为 $1 0 9 \\mathrm { m m } \\times 5 2 \\mathrm { m m }$ ，功耗为0.12W,具有体积小、功耗低的特点．磁强计的线性度误差、重复性误差、迟滞误差分别为 $0 . 2 7 7 \\%$ $0 . 0 8 2 \\%$ ， $0 . 3 6 8 \\%$ ，综合指标优良．相比其他类型磁强计，该GMI磁强计具有灵敏度高以及体积小、功耗低的明显优势，能够适用于有效载荷体积、功耗、灵敏度要求高的航天任务，有望用于空间磁探测等领域.有关GMI磁强计的标准化生产及提高设计精度等问题有待进一步深入研究.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] LI Damin.The Measurement of the Magnetic Field [M]. Beijing:Mechanical Industry Press,1993(李大民．磁场的 测量[M].北京：机械工业出版社，1993)   \n[2] ZHOU Bin,ZHAO Hua,WANG Jindong，et al.Martianspace environment magnetic field investigation-high accuracy magnetometer[J].Chin.J.Space Sci.,2009, 29(5):467-474(周斌，赵华，王劲东，等.火星空间环境磁场探 测研究—高精度磁强计[J].空间科学学报,2009,29(5):467- 474)   \n[3]MOHRIK,KOHSAWA T,KAWASHIMAK,et al.Magneto-inductive effect (MI effect） in amorphous wires [J]. IEEE Trans.Magn.,1992,28(5):3150-3152   \n[4] PHAN MH,PENG H X.Giant magneto-impedance materials:fundamentals and applications [J].Progr.Mater. Sci.,2008,53(2):323-420   \n[5] AHNS J, JANG KJ,KIM CG.The variation of giantmagneto ratio in amorphous $\\mathrm { C o _ { 6 6 } F e _ { 4 } N I B _ { 1 4 } S i _ { 1 5 } }$ ribbon annealed by pulsed Nd:YAG laser[J]. J. Magn. Magn. Mater.,2000,215/216:484-487   \n[6] MOHRI K,UCHIYAMA T,SHEN L P,et al. Amorphous wire and CMOS IC-based sensitive micro-magnetic sensors (MI sensor and SI sensor) for intelligent measurements and Controls [J].J.Magn．Magn．Mater.,2002, 249(1/2):351-356   \n[7]KNOBEL M,PIROTA K R.Giant magneto-impedance: Concepts and recent progress [J].J.Magn.Magn.Mater., 2002,242/245:33-40   \n[8] CORODEANU S,OVARI T,LUPU N,et al. Magetization process and GMI effect in as-cast nano-crystaline micro-wires [J].IEEE Trans.Magn.,2010,46(2):380-382   \n[9]MALATEK M,RIPKAP,KRAUS L. Temperature offset drift of GMI sensors[J]. Sens.Actuat.A:Phys.,2008, 147(2): 415-418   \n[10]DING LH,SAEZ S,DOLABDJIAN C,et al. Equivalent magnetic noise limit of low-cost GMI magnetometer [J]. IEEE Sens.J.,2009,9(2):159-168   \n[11]JIANG Yanwei,FANG Jiancheng，WANG Sansheng，et al.Design of magnetic sensor based on the asymmetric giant magneto-impedance effect in amorphous alloys [J]. Chin.J.Sens．Actuat.,2011,24(2):175-179 (蒋颜玮，房 建成，王三胜，等.基于非晶合金非对称巨磁阻抗效应的磁传感 器设计[J].传感技术学报,2011,24(2):175-179) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

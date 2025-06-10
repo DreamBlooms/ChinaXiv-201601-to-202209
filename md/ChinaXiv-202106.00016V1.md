@@ -1,0 +1,131 @@
+# Selaginella pseudotamariscina (Selaginellaceae), an overlooked rosette-forming resurrection spikemoss from
+
+# Vietnam
+
+ZHANG Menghua1,2, YANG Jie1,2,LUU Hong Truong³, TRAN Gioi³, ZHANG Xianchun1\* (1. State Key Laboratory ofSystematic and Evolutionary Botany,Institute of Botany, Chinese Academyof Sciences, Beijing 10o093,China; 2. Collge ofLife Sciences,University ofChinese AcademyofSciences,Beijing100049, China; 3.Southern Institute of Ecology, Vietnam Academy of Science and Technology,Ho Chi Minh City,
+
+Vietnam)
+
+Abstract: A new species， Selaginella pseudotamariscina (Selaginellaceae),is described from Vietnam. The placement of this species within Selaginella subg. Stachygynandrum is assessed based on a molecular phylogenetic analysis and morphological comparisons with related species. Molecular phylogenetic analyses suggested that S. pseudotamariscina is sister to S. digitata-S. imbricata clade.Morphologically,the new species is similar to S. tamariscina and S. pulvinata by sharing the rosete-forming habit,but distinguished by its dorsal leaves symmetrical,lanceate, sulcate on upper surface; strobili slightly dorsiventrally complanate and non-resupinate, sporophyls resembling vegetative leaves in form and arrangement, non-resupinate,the ventral sporophylls larger than the dorsal ones,dorsal sporophyls sterile,sporangia only borne on the base of ventral sporophylls.
+
+Keywords: chloroplast gene rbcL, resurrection plants, Selaginella subg. Stachygynandrum
+
+CLC number: Q949 Document code: A
+
+# 越南莲座状复苏卷柏一新种 越南卷柏 (卷柏科)
+
+张梦华1.2，杨杰1.2，LUU Hong Truong³，TRAN Gioi³，张宪春1\*  
+（1.中国科学院植物研究所，系统与进化植物学国家重点实验室，中国北京100093；2.中国科学院大  
+学，生命科学学院，中国 北京 100049；3.Southern Institute of Ecology, Vietnam Academy of Science andTechnology,Ho Chi Minh City,Vietnam)
+
+摘要：该文描述了在越南发现的卷柏科一新种——越南卷柏(Selaginella pseudotamariscinaX.C.Zhang&C.W.Chen)。基于叶绿体基因片段rbcL构建的系统发育关系结果表明该新种是卷柏属(Selaginella）同穗亚属 (subg.Stachygynandrum)的一个物种，与 S.digitata-S.imbricata分支为姐妹群关系。该新种与卷柏(S.tamariscina）和垫状卷柏（S.pulvinata）的形态近似，它们植株都为莲座状，其不同之处在于中叶对称，似披针形，上表面具1沟槽；孢子叶穗略压扁；孢子叶和营养叶性状和排列近似，孢子叶非同形，略异形，正置，腹面孢子叶大于背面孢子叶；背面孢子叶败育，孢子囊仅见于腹面孢子叶基部。
+
+关键词：叶绿体基因rbcL，复苏植物，卷柏属同穗亚属中图分类号：Q949 文献标识码：A
+
+基金项目：北京市自然科学基金 (5202019)[Supported by Beijing Natural Science Foundation (5202019)]。  
+作者简介：张梦华(1993-)，女，博士研究生，主要从事植物学研究，(E-mail) zhangmh@ibcas.ac.cn。  
+\*通信作者：张宪春，研究员，长期从事石松类和蕨类植物分类学研究，(E-mail) zhangxc@ibcas.ac.cn。
+
+# 1 Introduction
+
+Selaginella P. Beauv. (18O4) is the single genus of Selaginellaceae. It is the largest genus of lycophytes,containing ca. 7Oo-8OO species，widely distributed throughout the world,with the greatest diversity in the tropics and subtropics (Jermy,199O; Weststrand & Korall,2016a,b; Zhang et al.,2020). Several morphology-based classifications were proposed (Spring,1840,1850; Baker, 1883; Hieronymus & Sadebeck,1902;Walton & Alston,1938;Jermy,1986).Based on the most recent molecular phylogenetic studies seven subgenera were recognized within the Selaginella: subg. Ericetorum Jermy, subg. Exaltatae Weststrand & Korall, subg. Gymnogynum (P. Beauv.) Weststrand & Korall, subg. Lepidophyllae (Li Bing Zhang and X. M. Zhou) Weststrand & Korall, subg. Rupestrae Weststrand & Korall, subg. Selaginella, and subg. Stachygynandrum (P. Beauv. ex Mirb.) Baker (Weststrand & Korall, 2O16a,b; Zhang et al., 2020).
+
+Selaginella is morphologically characterized by possessing rhizophores, heterospory, leaves generally arranged in four decussate rows,and terminal strobilus. Species of this genus have various growth forms,including climbing, creping,prostrate,erect, suberect, and rosete forms (Jermy，199O； Zhang，2004； Zhang et al.，2013). Rosettes is a rare morphological feature in Selaginella (occurring in ca. $1 \%$ species). Only a few members of subg. Lepidophyllae and subg. Stachygynandrum are rosettes which are all resurrection plants (Weststrand & Korall,2016a).
+
+Recently, Mr. Cheng-Wei Chen kindly shared us a new specimen (Wade 5314) collected from the southern central coast of Vietnam. It is different from S. tamariscina (P. Beauv.) Spring and S. pulvinata (Hook.& Grev.） Maxim.by its dorsiventrally complanate strobilus (vs tetragonal strobilus）and symmetrical lanceate dorsal leaves.Historical collections from Vietnam of this species were all identified as Selaginella tamariscina (Alston,1951). In order to correctly identify the specimen and infer the phylogenetic position of this unknown species，we analyzed the sequence of the chloroplast gene rbcL of it together with representatives of different subgenera of Selaginella with special attention to the rosetes plants. Both morphological and phylogenetic studies suggested that it represents an undescribed species. We therefore described it as a new species named Selaginella pseudotamariscina X.C. Zhang & C.W. Chen and presented the results here.
+
+# 2 Materials and Methods
+
+2.1 Morphological assessmentMorphology of the newly collected specimens was examined and compared to that of Selaginella tamariscina and S. pulvinata using specimens from the herbarium of Institute of Botany，CAS (PE). Sterile leaves,strobili，and sporophyls were observed and photographed under a Leica S9D stereo microscope.
+
+2.2 Molecular analysesIn total, 32 individuals were sampled to represent 7 subgenera of Selaginella,with Isoetes flaccida as the outgroup. Sequences were obtained from the GenBank except for the new species (Voucher information and GenBank accession numbers are provided in the Table 1).Phylogenetic reconstruction was based on the chloroplast gene rbcL.We extracted total genomic DNA from silica gel dried materials using a modified cetyl trimethylammonium bromide (CTAB) method (Li et al.,2O13).Library construction was performed with the NEBNext DNA Library Prep Kit (New England Biolabs, Ipswich, Massachusets, USA). Paired-end reads of $2 \times 1 5 0$ bp were generated on an Illumina HiSeq 25oO instrument, and rbcL gene was extracted.
+
+Sequences were aligned using MUSCLE (Edgar, 2O04),followed by manual adjustment in
+
+PhyDE v0.9971 (Muller et al., 2010). Maximum likelihood (ML) analyses were performed using RAxML 7.2.6 (Stamatakis, 2006), with 1 000 bootstrap replicates under the GTRGAMMA model. We performed Bayesian inference (BI) analyses in MrBayes v.3.2.6.(Ronquist et al.,2O12) under the $\mathrm { G T R } + \mathrm { G } + \mathrm { I }$ model. For each Bayesian analysis, four MCMC chains were run simultaneously for 2 milion generations,and sampled every 1 OoO generations.The average standard deviation of split frequencies $( < 0 . 0 1 )$ was used to assess the convergence.ML and BI trees and the branch support values were visualized using FigTree v.1.4.2 (Rambaut, 2014).
+
+Table 1 Species names and GenBank accession numbers of DNA sequences used in this study   
+
+<html><body><table><tr><td></td><td>Locality</td><td>Voucher specimen</td><td>study</td></tr><tr><td>Taxon Isoetes flaccida Shuttlew. ex A.</td><td></td><td>Abbott 20265 (FLAS)</td><td>rbcL KJ773600</td></tr><tr><td>Braun</td><td></td><td></td><td></td></tr><tr><td>Selaginella braunii Baker</td><td>Cult, Thailand</td><td>Tiew 12 (CDBI) C.R. Fraser-Jenkins 4370 (L)</td><td>KT161421</td></tr><tr><td>S. bryopteris (L.) Baker S. ciliaris Spring</td><td>Nepal Yunnan, China</td><td>X. C.Zhang 7780 (PE)</td><td>KY022983 MH814892</td></tr><tr><td> S. convoluta (Arn.) Spring</td><td>Bahia, Brazil</td><td>R. M. Harley 16181 (U)</td><td>KY023003</td></tr><tr><td> S. digitata Spring</td><td>Madagascar</td><td>N.Wikstrom et al.110319-2 (S)</td><td>KY023013</td></tr><tr><td> S. digitata Spring</td><td>Madagascar</td><td>P. Phillipson 1826 (L)</td><td>KY023012</td></tr><tr><td>S. exaltata (Kunze) Spring</td><td>Ecuador</td><td>Korall 1996-1 (S)</td><td>AJ010849</td></tr><tr><td>S. helicoclada Alston</td><td></td><td>Rakotondrainibe 3262 (P)</td><td>AJ295896C</td></tr><tr><td>S. helvetica (L.) Spring</td><td>France</td><td>J. C.Bertier 9161 (PE)</td><td>MW407303</td></tr><tr><td>S. heterostachys Baker</td><td>Guizhou, China</td><td>X. C. Zhang 7088 (PE)</td><td>MH814896</td></tr><tr><td>S. imbricata (Forssk.) Spring</td><td>Dhofar Governorate,</td><td>Rothfels et al.4275 (DUKE)</td><td>KT161486</td></tr><tr><td>S.kraussiana (Kunze) A.</td><td>Oman Democratic Republic ofM. Mokoso 3098 (BR)</td><td></td><td>KY023057</td></tr><tr><td>Braun S.lepidophylla (Hook. &</td><td>the Congo (South Kivu)</td><td></td><td>AF419051</td></tr><tr><td>Grev.) Spring S. lutchuensis Koidz.</td><td></td><td></td><td></td></tr><tr><td>S. moellendorffi Hieron.</td><td> Japan</td><td>TNS759343 (TNS)</td><td>AB574648</td></tr><tr><td> S. nipponica Franch. et Sav.</td><td>Sichuan, China Guizhou, China</td><td>Ju &Deng HGX12295 (CDBI) X. C. Zhang et al. 7066 (PE)</td><td>KT161531</td></tr><tr><td>S. nothohybrida Valdespino</td><td>San Luis Potosi,</td><td>C.J.Rothfels 3069 (DUKE)</td><td>MW407367 KY023096</td></tr><tr><td>S. novoleonensis Hieron. &</td><td>Mexico</td><td></td><td></td></tr><tr><td>Sadeb</td><td> Sonora, Mexico</td><td>F. Drouet and D. Richards 3942 (S)</td><td>KY023097</td></tr><tr><td>S. nubigena J.P.Roux</td><td>South Africa</td><td>A. Larsson AL810 (UPS)</td><td>KY023098</td></tr><tr><td> S. pallescens (C. Presl) Spring</td><td>Unknown</td><td></td><td>AJ295859</td></tr><tr><td>S. pilifera A. Braun S.pseudotamariscina X.C.</td><td></td><td>Pringle 13959 (S)</td><td>AJ295862</td></tr><tr><td>Zhang & C.W. Chen, sp. nov.</td><td>Vietnam</td><td>C. W. Chen Wade 5314 (PE)</td><td>MZ159980*</td></tr><tr><td>S.pulvinata (Hook.& Grev.) Maxim</td><td>Sichuan, China</td><td>D.E. Boufford et al. 37879 (A)</td><td>KY023124</td></tr><tr><td>S. pulvinata (Hook.& Grev.)</td><td>Yunnan, China</td><td>D. E. Boufford et al. 35254 (A)</td><td>KY023125</td></tr><tr><td>Maxim S. remotifolia Spring</td><td>Yunnan, China</td><td>Gaoligong Shan Biodiversity</td><td>KY023130</td></tr></table></body></html>
+
+<html><body><table><tr><td>S. selaginoides (L.) P. Beauv.</td><td> Sweden</td><td>S.Weststrand 104 (UPS)</td><td>KY023148</td></tr><tr><td>ex Schrank & Mart. S.sibirica (Milde) Hieron.</td><td></td><td>AlaskaL.A.Viereck and K.JonesKY023153 5667 (S)</td><td></td></tr><tr><td>S. stauntoniana Spring</td><td>Beijing, China</td><td>Zhao 169 (CDBI)</td><td>KT161614</td></tr><tr><td>S.tamariscina(P. Beauv.)</td><td>Japan</td><td>TNS759348 (TNS)</td><td>AB574655</td></tr><tr><td>Spring S. uliginosa (Labill.) Spring</td><td></td><td>Holmgren  and Wanntorp 253</td><td>AJ010843</td></tr><tr><td>S. uncinata (Desv.) Spring</td><td>Sichuan, China</td><td>(S) and Zhou DJY04101 Zhang</td><td>KT161626</td></tr><tr><td>S. vardei H. Lév.</td><td>Tibet</td><td>(CDBI) D.E. Boufford et al. 32425 (A)</td><td>KY023169</td></tr></table></body></html>
+
+Note: A dash $\left( - \right)$ indicates missing data;An asterisk $^ { ( * ) }$ indicates newly generated sequences
+
+# 3 Results and Discussion
+
+The ML and BI topologies are totally identical,and the BI tree is shown in Fig.1. The results of the molecular phylogenetic analyses showed that the new species nested within subg. Stachygynandrum,forming sister relationships with the S. pilifera-S.imbricata clade with weak support $( \mathrm { P P = } 0 . 5 6 / \mathrm { M L } { = } 5 5 \$ ).However,of species nested in the S. pilifera-S. imbricata clade,S. pilifera from America is the only rosette-forming species. The S. pilifera-S. pseudotamariscina clade was resolved to be sister to the S. tamariscina-S. stauntoniana clade with strong support （2 $( \mathrm { P P = 1 . 0 / M L = 1 0 0 } )$ ).Morphologically, the new species is similar to S.tamariscina and S. pulvinata. However, the new species difers obviously in several features， such as the slightly anisosporophylls which are similar to sterile leaves in form and arrangement； dorsal leaves symmetrical, lanceate,and sulcate on upper surface; ventral leaves shallowly sulcate on upper surface with their basiscopic margins ciliolate or denticulate; sporangia borne only on ventral side of strobilus axes [Fig.2,Fig.3 (A1-B1),Table 2].
+
+# 4 Taxonomic Treatment
+
+Selaginella pseudotamariscina X.C. Zhang & C.W. Chen, sp. nov. (Fig. 2).
+
+Type:VIETNAM. Khanh Hoa Province, Orchid Island,on granite rocks,in coastal open forest, 22 September 2018, Cheng-Wei Chen Wade 5314 (holotype, SGN!; isotypes,PE!, SING!, TAIF). Diagnosis: The new species is similar to $S .$ ，tamariscina and S. pulvinata in the rosette-forming habits,differs by its slightly anisosporophyllous which are similar to sterile leaves in form and arrangement, dorsal leaves symmetrical, lanceate, and sulcate on upper surface, ventral leaves shallowly sulcate on upper surface with their basiscopic margins ciliolate or denticulate,and only the ventral sporophylls fertile.
+
+Description: Rosettes, xerophytic.Rhizophores restricted to basal portions of stems forming thick massive rootstocks; stems and roots entangled forming treelike trunk.Primary leafy branchlets 2-3 pinnately branched, branchlets compact and regularly arranged. Leaves thick,surfaces smooth. Axillary leaves on branches symmetrical, lanceate,or ovate-lanceate,ca. $2 . 1 8 \times 0 . 7 3 ~ \mathrm { m m }$ ，with membranous margins which measure ca.1/2 of the width from margin to leaf midvein,lacerate or subentire,bases obtuse,and ciliolate,apice short aristate (ca. $0 . 0 2 \mathrm { \ m m }$ long). Dorsal leaves strongly ascending， symmetrical， lanceate, $2 . 0 { - } 2 . 5 \times 0 . 6 { - } 0 . 7 \ \mathrm { m m }$ ，sulcate on upper surface, carinate, bases obtuse,margins ciliolate or denticulate,slightly membranous,apices aristate (ca. $0 . 0 2 { \mathrm { ~ m m } }$ long). Ventral leaves slightly spreading, asymmetrical, ovate-lanceate to ovate-triangular, ca. $2 . 1 8 \times 0 . 8 2 \ \mathrm { m m }$ ，shallowly sulcate on upper surface，apices aristate (ca. $0 . 0 4 \ \mathrm { m m }$ long), basiscopic margins ciliolate or denticulate,acroscopic bases enlarged,broader than basiscopic, margins and becoming membranous outside,lacerate or subentire, ciliolate or lacerate proximally. Strobili solitary, terminal, compact, slightly dorsiventrally complanate, ca. $6 \mathrm { m m }$ long; sporophylls similar to sterile leaves in form and arrangement， slightly anisophyllous；dorsal sporophylls smaller than ventral ones,lanceate-triangular,ca. $1 . 9 5 \times 0 . 7 5 \ \mathrm { m m }$ ，margins ciliolate，slightly membranous,apices aristate (ca. $0 . 0 2 ~ \mathrm { m m }$ ； ventral sporophylls triangular, ca. $2 . 1 3 \times 0 . 9 8 ~ \mathrm { m m }$ margins denticulate,ciliolate or lacerate,membranous,apices aristate(ca. $0 . 0 4 \ \mathrm { m m }$ )；onlythe ventral sporophylls fertile.
+
+Additional specimens examined: VIETNAM. Khanh Hoa Province, Nhatrang, Cau da, $1 0 0 \mathrm { ~ m ~ }$ 27 February 1922， Poilane 2651 (P01244600， image online!； US01393274，image online!; VNM00021481!, VNM00021483!, VNM00021486!)； Khanh Hoa Province,Nhatrang, $5 0 \mathrm { ~ m ~ }$ ，10 September 1922, Poilane 4529 (VNM00021477!, VNM00021479!, VNM00021482!); Khanh Hoa Province,Nhatrang,Nui Hon Heo,3 May 1923,Poilane 6173 (VNM00021478!); Ninh Thuan Province，Phan Rang，27 February 1924，Poilane 9768 (MICH1173518， image online!; VNMOOO21475!)；Ninh Thuan Province，Phan Rang, $3 5 0 \mathrm { ~ m ~ }$ ，3March 1923,Poilane 5541 (MICH1173519, image online!; VNM00021480!)； Ninh Thuan Province,Phan Rang, $2 0 0 \mathrm { ~ m ~ }$ 6 March 1923,Poilane 5616 (P01244598,image online!; VNM00021484!).
+
+Distribution and habitat: Selaginella pseudotamariscina is only known in Khanh Hoa and Ninh Thuan Provinces of southern central Vietnam (Fig. 4), growing on granite rocks in open coastal forests.
+
+Etymology: The specific epithet ‘pseudotamariscina’ refers to its close relation and morphological similarity with S. tamariscina.
+
+Conservation status (EN): Selaginella pseudotamariscina is distributed only in two provinces in southern central Vietnam (Khanh Hoa and Ninh Thuan). There exist a few specimens of S. pseudotamariscina deposited in various herbaria and one of the oldest specimens was collcted a century ago by the French collector E.Poilane in Nhatrang，which is preserved in herbarium P with a duplicate in the US. This rosette-forming species appears to have adapted to the coastal climate on granite rocks in southern central Vietnam. Here it is tentatively listed as an endangered (EN) species according to IUCN categories and criteria (IUCN, 2018).
+
+Table 2 Comparison of morphological characters of Selaginella pseudotamariscina, S. pulvinata, and S.tamariscina   
+
+<html><body><table><tr><td>Characters/Species</td><td>S.pseudotamariscina</td><td>S. pulvinata</td><td>S. tamariscina</td></tr><tr><td>Stems</td><td>Forming treelike trunk</td><td>Not forming treelike trunk</td><td>Forming treelike trunk</td></tr><tr><td>Axillary leaves on</td><td>Lanceate, or ovate- lanceate, ca.</td><td>Ovate to triangular, ca. 2.5 × 1</td><td>Ovate,ovate-triangular, or</td></tr><tr><td>branches</td><td>2.18 × 0.73 mm,margin lacerate-ciliolate</td><td>mm, margin lacerate-ciliolate</td><td>elliptic,0.8-2.6 ×0.4-1.3 mm, margin denticulate</td></tr><tr><td>Dorsal leaves on</td><td>Symmetrical, lanceate,2.0-2.5 ×</td><td>Asymmetrical, obliquely ovate</td><td>Asymmetrical, elliptic,1.5-2.5×</td></tr><tr><td>branches</td><td></td><td></td><td></td></tr><tr><td></td><td>0.6-0.7 mm, sulcate on upper</td><td>Or triangular, 2.8-3.1 ×</td><td>0.3-0.9 mm, upper surface</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td>surface,margin ciliolate or</td><td>0.9-1.2 mm, upper surface</td><td>without sulcate,margin</td></tr></table></body></html>
+
+<html><body><table><tr><td>Ventral leaves Ovate- lanceate to</td><td>denticulate</td><td>without sulcate,margin lacerate Oblong,2.9-3.2 × 1.4-1.5</td><td>denticulate (shortly ciliolate at base)</td></tr><tr><td></td><td>ovate-triangular,ca. 2.18 × 0.82 mm, shallowly sulcate on upper surface; basiscopic margin ciliolate or denticulate; acroscopic margin lacerate or subentire</td><td>mm, upper surface withoutsulcate; basiscopic margin and acroscopic margin lacerate</td><td>Ovate to triangular or oblong-ovate, 1.5-2.5 × 0.5-1.2 mm,upper surface without sulcate; basiscopic margin subentire,serrate or ciliolate (at base); acroscopic margin lacerate</td></tr><tr><td>Strobili</td><td>Slightly dorsiventrally complanate</td><td>Tetragonal</td><td>or denticulate Tetragonal</td></tr><tr><td>Sporophylls</td><td>Slightlyanisophyllous；ventralIsophyllous; ventral and dorsal sporophylls fertile, dorsal sporophylls sterile</td><td>sporophylls both fertile</td><td>Isophyllous; ventral and dorsal sporophylls both fertile</td></tr></table></body></html>
+
+![](images/9d480fbf91ec06803672e1db171370588202ad2d42c366d83697d7d55a1577bb.jpg)
+
+Bayesian inference posterior probability(PP)and maximum likelihood bootstrap(ML)are noted on the branches, respectively; The new species is shown in bold.An asterisk (\*) indicates rosete forming. Fig.1 Bayesian inference tree of the Selaginella pseudotamariscina and related species based on the rbcL gene
+
+![](images/157987ec4adb600f3d2d68c432266418aae38bd30522fc1e1f1ebdf54834fb35.jpg)
+
+A. Individual; B. Upper view of branchlets; C.Lower view of branchlets;D.Axillary leaf (lower view);E. Ventral leaf (lower view); F.Dorsal leaf (upper view); G. Upper view of strobilus; H.Lower view of strobilus; I. Ventral sporophyll (lower view); J. Dorsal sporophyll (upper view).
+
+Fig.2 Selaginella pseudotamariscina X.C.Zhang & C.W. Chen,sp. nov., Cheng-Wei Chen Wade 5314 (PE)
+
+![](images/c1bf1bc7fc326a90a0b6bf4a1f1ebd977efed618f8d187b10e2f747ed89b6bae.jpg)  
+A1-C1. Selaginell pseudotamariscina (Vietnam, C.W. Chen Wade 5314,PE); A2-C2. S.pulvinata (China, Shanxi,Yellow River Exped.251,PE);A3-C3.S.tamariscina (China,Fujian,X.C.Zhang et al.9634,PE).A. Ventral leaves;B.Dorsal leaves;C.Axillary leaves. Fig.3 Comparison of leaf morphology of Selaginella pseudotamariscina,S. pulvinata, and S. tamariscina
+
+![](images/f564adb1b7ec73f87042f9554d84fe51f557d5db8a79b32c942c1817237c2bcd.jpg)
+
+The rectangle represents the type location of S. pseudotamariscina.
+
+Fig.4 Distribution of Selaginella pseudotamariscina X.C.Zhang & C.W. Chen,sp. nov.
+
+# Key to Selaginella pseudotamariscina,S. tamariscina and S.pulvinata
+
+1.Strobilus dorsoventrally complanate；ventral sporophylls fertile, dorsal sporophyls sterile; dorsal leaves symmetrical, lanceate， sulcate on the upper surface; ventral leaves shallowly sulcate on the upper surface.. .. S. pseudotamariscina X.C.Zhang & C.W.Chen 1.Strobilus tetragonal; ventral and dorsal sporophylls both fertile; dorsal leaves asymmetrical, obliquely ovate, triangular, or eliptic,upper surface without sulcate; ventral leaves upper surface without sulcate.. 2 2. Stems and roots entangled not forming treelike trunk; iner margins of dorsal leaves lacerate or entire, outer margin revolute and entire.. .. S. pulvinata (Hook.& Grev.) Maxim. 2. Stems and roots entangled often forming treelike trunk； inner margins of dorsal leaves denticulate, outer margin denticulate or shortly ciliolate..... S. tamariscina (P. Beauv.) Spring
+
+# Acknowledgements
+
+We thank Van Son Dang,the curator of VNM for providing the access to their collections and Taiwan Pteridophyte Research Group (www.twfern.org) for sharing the silica-dried material.
+
+# References:
+
+ALSTON AHG,1951. Selaginellacées[M]// LECOMTE H. Flore generale de IIndo-Chine. Paris: Masson & Cie,7: 555-594.   
+BAKER JG, 1883. A synopsis of the genus Selaginella[J]. JBot, 21: 1-5, 44.   
+EDGAR RC，2004. MUSCLE: Multiple sequence alignment with high accuracy and high throughput[J]. Nucl Acids Res,32: 1792-1797. htps://doi.org/10.1093/nar/gkh340   
+HIERONYMUS G,SADEBECK R,1902. Selaginellaceae[M]// ENGLER A,PRANTL K. Die natirlichen Pflanzenfamilien: I(4). Leipzig: Engelmann: 621-716. http://dx.doi.org/10.5962/ bhl.title.4635   
+IUCN,2018. The IUCN Red List of Threatened Species. Version 2018-1. htp://www.iucnredlist.org [Downloaded on O5 July 2018]   
+JERMY AC,1986. Subgeneric names in Selaginella[J]. Fern Gazette,13: 117-118.   
+JERMY AC,1990. Selaginellaceae[M]// KRAMER KU, GREEN PS. The families and genera of vascular plants, Pteridophytes and gymnosperms.Berlin, Heidelberg & New York: Springer, 1: 39-45.   
+KORALL P,KENRICK P, THERRIEN JP,1999.Phylogeny of Selaginellaceae: evaluation of generic/subgeneric relationships based on rbcL gene sequences[J]. Int J Plant Sci,160: 585-594. https://doi.org/10.1086/314137   
+LI JL,WANG S,YU J, et al.,2O13. A modified CTAB protocol for plant DNA extraction[J]. Chin Bull Bot,48(1): 72-78.https://doi.0rg/10.3724/sp.J.1259.2013.00072[李金璐，王硕，于婧， 等，2013.一种改良的植物 DNA 提取方法[J]．植物学报，48(1)：72-78.]   
+MULLER K, MULLER J, QUANDT D,2010. PhyDE-Phylogenetic data editor, version 0.9971. http://www.phyde.de/download.html (Accessed 1 June 2017).   
+PALISOT-BEAUVOIS AMFJ，1804. Suite de IEthéogamie[J]. Magasin Encyclopédique: ou Journal des Sciences, des Lettres et des Arts, 9: 472-483.   
+RAMBAUT A, 2014. FigTree, version 1.4.2. http:/tree.bio.ed.ac.uk/software/figtree/(Accessed 5 July 2017).   
+RONQUIST F, MAXIM T, PAUL VDM, et al.， 2012. MrBayes 3.2: Efficient bayesian phylogenetic inference and model choice across a large model space[J]. Syst Biol,61: 539-542. https://doi.org/10.1093/sysbio/sys029   
+STAMATAKIS A, 2006. RAxML-VI-HPC: maximum likelihood-based phylogenetic analyses with thousandsof taxa and mixed models[J]. Bioinformatics， 22: 2688-2690. https://doi.org/10.1093/bioinformatics/btl446   
+SPRING AF, 1840. Lycopodineae[M]// MARTIUS CFP. Flora brasiliensis: vol. 1(2). Leipzig: R. Oldensbourg, 96-136. http://dx.doi.org/10.5962/bhl.title.454   
+SPRING AF,1850. Monographie de la famille des Lycopodiacées[M]. Mémoires de L'Académie Royale Sciences des Lettres et des Beaux-arts de Belgique, 24: 1-358.   
+WALTON J, ALSTON AHG, 1938. Lycopodinae [M]//VERDOORN F. Manual of pteridology. The Hague: Nijhoff, 503-504. http://dx.doi.org/10.1007/978-94-017-6111-6_17   
+WESTSTRAND S, KORALL P， 2016a. Phylogeny of Selaginellaceae: There is value in morphology after all![J]. Am JBot,103: 2136-2159. https://doi.org/10.3732/ajb.1600156   
+WESTSTRAND S， KORALL P， 2016b. A subgenericclassification of Selaginella (Selaginellaceae)[J]. Am JBot,103: 2160-2169. htps://doi.org/10.3732/ajb.1600288   
+ZHANG HR,WEI R, XIANG, QP,et al., 2020. Plastome-based phylogenomics resolves the placement of the sanguinolenta group in the spikemoss of lycophyte (Selaginellaceae)[J]. Mol Phylog Evol, 147: 106788.https:// 10.1016/j.ympev.2020.106788   
+ZHANG XC, 2004. Flora Reipublicae Popularis Sinicae: Vol. 6 (3) [M]. Beijing: Science Press: 86-219.[张宪春，2004．中国植物志：第六卷第三分册[M]．北京：科学出版社：86－219.]   
+ZHANG XC, NOOTEBOOM HP, KATO M, 2013. Selaginellaceae[M]// WU ZY, RAVEN PH, HONG DY. Flora of China: Vol. 2-3 (Pteridophytes). Beijing: Science Press; St. Louis: Missouri Botanical Garden Press: 37-66.

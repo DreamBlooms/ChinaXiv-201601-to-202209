@@ -1,0 +1,105 @@
+# 临床研究
+
+# 晚期糖基化终产物与输卵管因素不孕症患者卵子发育不良的关系
+
+李雪梅,刘 红,林碎玲,张华坤,谭斯匀,成艳君南方医科大学附属深圳市妇幼保健院生殖医学中心，广东 深圳518048摘要：目的探讨晚期糖基化终产物(AGEs)对卵子质量及颗粒细胞功能的影响。方法 选择2015年2\~6月，因输卵管因素行体外受精助孕的患者，年龄 ${ < } 3 5$ 岁，获卵数 $\geqslant 8$ 个，以长效长方案促排卵，取卵时收集所有卵泡液和颗粒细胞冻存。共有19例入选，将优质胚胎率 $53 5 \%$ 的分为A组 $\scriptstyle ( n = 1 0 )$ ，优质胚胎率 $< 3 5 \%$ 的分为B组 $\scriptstyle ( n = 9 )$ 。采用酶联免疫吸附试验抗体夹心法检测取卵日卵泡液AGEs和活性氧水平,采用Real-time PCR检测颗粒细胞RAGEmRNA表达，分析两组之间有无差异。结果两组患者一般资料比较差异无统计学意义，两组的平均优胚数 $( 5 . 2 { \pm } 2 . 3 4 \$ vs $1 . 5 0 { \scriptstyle \pm 1 . 0 8 }$ $\scriptstyle P = 0 . 0 0 1$ 和优胚率 $( 6 0 . 2 7 \% \pm 1 2 . 4 8 \%$ vs$2 1 . 4 8 \% \pm 1 4 . 0 2 \%$ $\scriptstyle P = 0 . 0 0 0 { \mathrm { , } }$ 差异有统计学意义；两组患者卵泡液活性氧水平 $( 0 . 8 2 { \pm } 0 . 2 8 ~ \mathrm { n g / m L }$ vs $1 . 1 1 { \pm } 0 . 2 7 ~ \mathrm { n g / m L }$ ， $\scriptstyle P = 0 . 0 0 0 ,$ 差异有统计学意义,卵泡液AGEs水平 $( 0 . 3 3 { \pm } 0 . 1 3 ~ { \mu } \mathrm { g / m L }$ vs $0 . 3 5 { \pm } 0 . 1 3 ~ { \mu \mathrm { g / m L } }$ $\scriptstyle P = 0 . 4 6 2 ,$ 差异无统计学意义，颗粒细胞RAGE水平$\mathrm { 1 . 5 5 { \pm } 0 . 6 2 \ p g / m L }$ vs $3 . 7 5 { \pm } 1 . 7 5 ~ \mathrm { p g / m L }$ ， $\scriptstyle P = 0 . 0 0 5$ )差异有统计学意义。结论 氧化应激状态可能是输卵管因素的年轻不孕症患者卵子质量低下的原因，但AGES-RAGE可能并不是其作用途径。
+
+关键词：晚期糖基化终产物;颗粒细胞;卵泡液;氧化应激
+
+# Relationship between AGEs and oocytes dysplasia of patients with tubal factor infertility
+
+LI Xuemei,LIUHong,LINSuiling,ZHANGHuakun,TANSiyun,CHENGYanjun   
+ReproductioeedicineCenteaterniydCildHealthreHospitalofennAflatedtouternedicaliesitye   
+518048, China
+
+Abstract: Objective To accessthe effect of advanced glycation end products(AGEs)on oocyte quality and granulosa cel function for patients with tubalfactorinfertility.Methods FromFebruary2015toJune2015,19IVF patients withtubal factor were enrolled. All patients were ${ < } 3 5$ years old.They were controlled ovarian hyperstimulation (COH) with long-acting long protocol and retrieved $\geqslant 8$ oocytes. Their folliular fluid and granulosa cels were collected during ovum pick-up (OPU) and cryopreserved at $- 8 0 \ \mathrm { { ^ { \circ } C } }$ . The patients were devided into 2 groups: Group A of 10 patients with high quality embryo rate $> 3 5 \%$ and group B of 9 patients with high quality embryo rate $< 3 5 \%$ . Follicular fluid AGEsand ROS levels on OPU day were detected by sandwiched ELISA,andtheRAGEmRNA expressionof granulosa cels weredetected byReal-time PCR.Results There were no significant differences of general informations between two groups $( P { > } 0 . 0 5 )$ . There were significant differences in average numbers of high quality embryos ( $5 . 2 { \pm } 2 . 3 4 \$ Us $1 . 5 0 { \scriptstyle \pm 1 . 0 8 } _ { }$ $\scriptstyle P = 0 . 0 0 1$ )and the high quality embryo rate ( $6 0 . 2 7 { \scriptstyle \pm 1 2 . 4 8 }$ Us $2 1 . 4 8 { \scriptstyle \pm 1 4 . 0 2 }$ ， $P { = } 0 . 0 0 0 \mathrm { \Omega }$ ). Follicular fluid ROS levels in 2 groups were significantly different ( $0 . 8 2 { \scriptstyle \pm 0 . 2 8 }$ Us $1 . 1 1 { \pm } 0 . 2 7 ~ \mathrm { n g / m L } ,$ $P { = } 0 . 0 0 0 )$ . The follicular fluid AGES level in 2 groups were not significantly different ( $0 . 3 3 { \scriptstyle \pm 0 . 1 3 }$ Us $0 . 3 5 { \pm } 0 . 1 3 ~ { \mu \mathrm { g / m L } }$ $\scriptstyle P = 0 . 4 6 2 { \mathrm { : } }$ 。 Conclusion The oxidative status maybe the reason of oocytes dysplasia in the young patients with tubalfactor infertlity.But AGES-RAGE probably was not the mechanism.
+
+Keyword: advanced glycation end products; granulosa cells; follicular fluid; embryo quality
+
+体外受精-胚胎移植(IVF-ET)技术自1978年应用于临床以来，随着临床和实验室培养技术逐步提高，临床妊娠率由最初的 $5 \%$ 左右提高到现在的 $50 \%$ 以上。一般认为，年龄是影响卵子质量及妊娠率的重要因素[]，但是对于年轻( ${ < } 3 5$ 岁）、卵巢功能正常的患者，在合适的促排卵方案和稳定的实验室条件下，不同的患者卵子质量不同，胚胎质量差别甚大，年轻的患者甚至出现无可用胚胎而取消胚胎移植的情况，即使移植也妊娠率甚低。
+
+氧化应激是引起卵子及后续胚胎发育不良的重要原因[2]，晚期糖基化终产物(AGEs)通过其受体(RAGE)诱导细胞内活性氧(ROS)产生，可能参与卵子发育不良的形成。对于AGEs与卵子质量的关系的研究，以往大多集中于分析高龄妇女、多囊卵巢综合征(PCOS)患者及糖尿病患者等[3-7]，鲜见探讨AGEs对年轻的输卵管因素不孕症患者卵子质量的影响。本课题通过检测此研究组IVF患者卵泡液及颗粒细胞的AGEs、RAGE和ROS水平，分析其与卵子质量、后续胚胎发育之间的关系，探讨AGEs与不明原因卵子发育不良的关系，拟寻找这些患者卵子质量低下的原因，为下一步改善其妊娠结局提供新的治疗思路。
+
+本研究经本院医学伦理委员会及深圳市卫生和计划生育委员会审查批准，所有患者术前均签署知情同意书。
+
+# 1资料与方法
+
+# 1.1 病例资料
+
+研究选择2015年2\~6月，在我院生殖医学中心行IVF助孕的患者。纳入标准：输卵管因素的不孕症患者，女方年龄 ${ < } 3 5$ 罗，获卵数 $\geqslant 8$ 个，所有患者以长效长方案促排卵，取卵时收集所有卵泡液和颗粒细胞冻存。排除标准：子宫内膜异位症、子宫内膜息肉或宫腔粘连、子宫畸形、子宫肌瘤、卵巢功能下降、夫妇任何一方染色体异常或有全身系统性疾病、既往有不良孕产史、男性因素不孕。分组：根据胚胎培养结果，共有19例患者入选，将优质胚胎率 $53 \%$ 的分为A组 $\scriptstyle ( n = 1 0 )$ ，优质胚胎率 $< 3 5 \%$ 的分为B组 $\scriptstyle ( n = 9 )$ ）
+
+# 1.2实验方法
+
+1.2.1卵泡液和颗粒细胞的收集将收集的所有卵泡液置 $45 \%$ 的Percoll上离心, $1 5 0 0 ~ \mathrm { r / m i n }$ ， $1 5 ~ \mathrm { m i n }$ ;将上层的卵泡液分装于EP管，标记后直接冻存 $- 7 0 \ \mathrm { { ^ { \circ } C } }$ 待检；颗粒细胞位于Percoll液面上呈一层白膜，吸取颗粒细胞，分装于EP管，标记后直接冻存 $- 8 0 \mathrm { { ^ { \circ } C } }$ 待检。1.2.2检测方法 采用酶联免疫吸附试验(ELISA)抗体夹心法检测取卵日卵泡液AGEs和ROS水平。用Percoll分离法收集颗粒细胞。Trizol法提取总RNA并逆转录为cDNA，接着进行RAGE基因实时荧光定量PCR(Realtime-PCR),采用AACt法计算RAGEmRNA的相对表达量。
+
+# 1.3 统计学方法
+
+采用SPSS19.0统计软件进行数据的统计分析，率的比较采用 $\chi ^ { 2 }$ 检验。对计量资料进行正态性检验，服从正态分布者组间比较采用t检验。结果用均数 $\cdot \pm { }$ 标准差表示。设置双侧检验， $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+# 2.1一般资料比较
+
+A、B两组患者的基本资料统计结果(表1),在年龄、不孕年限、启动日性激素水平、HCG日性激素水平、获卵数、2PN数等方面比较均差异无统计学意义；两组平均优胚数 $( 5 . 2 { \pm } 2 . 3 4 \nu s \ 1 . 5 0 { \pm } 1 . 0 8 \$ $\scriptstyle P = 0 . 0 0 1$ )和平均优胚率[ $( 6 0 . 2 7 { \pm } 1 2 . 4 8 ) \%$ vs $( 2 1 . 4 8 { \pm } 1 4 . 0 2 ) \%$ $\scriptstyle P = 0 . 0 0 0 ]$ 差异有统计学意义。
+
+2.2两组卵泡液ROS、AGES和颗粒细胞RAGE比较
+
+A组卵泡液ROS水平和RAGE水平均低于B组（204号 $( P { < } 0 . 0 5 )$ ，AGES差异无统计学意义（ ${ \it P } { > } 0 . 0 5$ ，表2)。
+
+表1两组患者的基本资料比较( $\overline { { x } } \pm s \overline { { \mathrm { ~ , ~ } } }$ 1  
+
+<html><body><table><tr><td>项目</td><td>A组(n=10)</td><td>B组(n=9)</td><td>P</td></tr><tr><td>女方年龄(岁)</td><td>31.3±3.37</td><td>29.4±2.55</td><td>0.172</td></tr><tr><td>不孕年限(年)</td><td>4.6±3.13</td><td>3.2±2.44</td><td>0.28</td></tr><tr><td>Gn天数(d)</td><td>11±2.36</td><td>10.7±1.64</td><td>0.745</td></tr><tr><td>Gn总量(U)</td><td>2047.5±602.13</td><td>1691.25±635.77</td><td>0.215</td></tr><tr><td>启动日</td><td></td><td></td><td></td></tr><tr><td>FSH(mU/mL)</td><td>2.67±0.97</td><td>2.86±1.55</td><td>0.749</td></tr><tr><td>LH(mU/mL)</td><td>1.26±0.94</td><td>1.52±1.0</td><td>0.551</td></tr><tr><td>E2(pg/mL)</td><td>17.2±11.93</td><td>17.8±9.44</td><td>0.902</td></tr><tr><td>P(pmol/mL)</td><td>0.38±0.21</td><td>0.56±0.32</td><td>0.166</td></tr><tr><td>HCG日</td><td></td><td></td><td></td></tr><tr><td>LH(mU/mL)</td><td>1.74±1.30</td><td>1.72±0.98</td><td>0.957</td></tr><tr><td>E2(pg/mL)</td><td>3272.9±983.06</td><td>3468.6±1029.48</td><td>0.669</td></tr><tr><td>P(pmol/mL)</td><td>1.04±0.24</td><td>1.11±0.46</td><td>0.702</td></tr><tr><td>获卵数</td><td>13.3±2.45</td><td>14.5±4.74</td><td>0.486</td></tr><tr><td>平均E2值/卵(pg/mL）245.40±54.96</td><td></td><td>252.68±94.85</td><td>0.836</td></tr><tr><td>MII卵率(%)</td><td>82.67±16.91</td><td>84.0±12.72</td><td>0.810</td></tr><tr><td>2PN率(%)</td><td>64.7±22.90</td><td>72.65±13.19</td><td>0.356</td></tr><tr><td>平均优胚数</td><td>5.2±2.34</td><td>1.50±1.08</td><td>0.001*</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>优胚率(%)</td><td>60.27±12.48</td><td>21.48±14.02</td><td>0.000*</td></tr></table></body></html>
+
+$^ * P { < } 0 . 0 5$
+
+表2两组ROS、AGES和RAGE水平比较  
+
+<html><body><table><tr><td>项目</td><td>A组(n=10)</td><td>B组(n=9)</td><td>P</td></tr><tr><td>ROS(ng/mL)</td><td>0.82±0.28</td><td>1.11±0.27</td><td>0.000*</td></tr><tr><td>AGES(μg/mL)</td><td>0.33±0.13</td><td>0.35±0.13</td><td>0.462</td></tr><tr><td>RAGE(pg/mL)</td><td>1.55±0.62</td><td>3.75±1.75</td><td>0.005*</td></tr></table></body></html>
+
+$^ * P { < } 0 . 0 5$
+
+# 3讨论
+
+AGEs是人体衰老的生物学指标之一，存在于正常人体许多组织和细胞，通过直接或与受体RAGE结合，诱导多种组织氧化应激及炎症反应，通过间接途径损伤机体。研究[3-9发现整体及卵巢局部中高水平AGEs、RAGE高表达与女性不孕及不良妊娠结局密切相关，并且卵泡液AGEs浓度与IVF周期卵巢反应和卵子质量相关。推测AGEs可能通过参与卵泡内氧化应激，造成卵子质量低下。
+
+AGEs通过结合其受体RAGE诱导氧化应激及炎症反应，与细胞凋亡及组织损害有关[5]。而AGE-RAGE相互作用参与机体多器官多系统疾病发病，如神经系统、心血管系统、免疫系统及运动系统相关疾病[°]。长时间暴露于AGEs可能引起原始卵泡和卵巢间质血管氧化损伤，促进卵泡生成过程中卵巢微环境中ROS升高。进而会危害颗粒细胞代谢、抗氧化防御体系和卵泡周围血管化的形成，危及卵子成熟、染色体组成和卵母细胞发育能力。伴随线粒体功能障碍的抗氧化及抗糖基化防御体系下降可能是一个正反馈环的驱动力量，该正反馈环包含氧化应激、羟基应激和逐渐积聚的AGEs。
+
+卵母细胞胞浆成熟和减数分裂能力的恢复和完成是在卵泡发育过程中获得的，卵泡环境决定卵子发育潜能，不适宜的卵泡生长微环境是卵母细胞质量改变的重要影响因素。有研究显示[11-12]，卵泡液ROS水平过高，可能导致卵母细胞氧化应激，对卵母细胞成熟和后续胚胎发育造成不良影响，并可能是年龄相关的卵母细胞改变的原因之一。生殖细胞富含不饱和脂肪酸，特别容易受到氧化应激损伤。ROS可通过直接影响细胞内钙离子储存结构，干扰钙离子动态平衡，引起卵母细胞减数分裂停滞和降解，继而发生调亡。
+
+Jinno等[13]研究发现AGEs浓度与取卵日雌激素水平、优势卵泡数、获卵数、双原核(2PN)受精数、可利用胚胎数呈负相关，AGE浓度大于 $7 . 2 4 ~ \mathrm { U / m L }$ 提示低获卵数及不好的妊娠结局，是年龄及卵巢储备预测ART的结局。本研究结果发现：PCOS患者卵泡液内sRAGE、VEGF与卵巢储备能力相关，两者相互作用会影响卵子质量；而PCOS患者颗粒细胞的RAGEmRNA表达量显著高于同年龄段的非PCOS患者，且其卵泡液AGEs水平亦有升高趋势[14-15]。提示PCOS患者卵巢局部氧化应激增加。潘晓琴[16]的研究表明：卵泡液AGEs水平升高可能是卵巢低反应发生的原因之一；卵泡液AGEs水平升高上调颗粒细胞RAGEmRNA表达，推测AGEs与受体RAGE结合途径可能是AGEs对卵巢功能产生影响的主要途径。
+
+本研究结果显示，优胚率较低患者的卵泡液ROS水平较优胚率高的患者高，有统计学意义；提示卵泡液ROS水平过高，诱发卵母细胞氧化应激，可能是卵子质量低下及后续胚胎发育不良的原因；然而，两组卵泡液AGEs水平并无统计学差异，而优胚率较低的患者，其颗粒细胞RAGEmRNA水平更高，似乎ROS水平升高并不是AGEs-RAGE结合途径造成的，其原因尚不清楚。本研究结果与文献[1415]的不同，可能与研究人群不同有关，对于PCOS尤其是伴有胰岛素抵抗的患者，存在C反应蛋白、sRAGE和血管内皮生长因子的代谢异常，提示PCOS患者不仅仅存在内分泌代谢异常，而且还存在慢性炎症状态，胰岛素抵抗可能是导致慢性炎症的重要机制，两者之间互相促进发展形成恶性循环；而本研究的人群是输卵管因素的年轻不孕症患者，盆腔炎症状态可能是引起氧化应激的原因，但其作用途径并不是经过AGEs-RAGE，尚待进一步研究证实。
+
+总之，氧化应激状态可能是输卵管因素的年轻不孕症患者卵子质量低下的原因，但AGES-RAGE可能并不是其作用途径，改善其氧化应激状态可能有助于提高卵子质量，获得更好的妊娠结局。
+
+# 参考文献：
+
+[1] Sunkara SK,Rittenberg V,Raine-Fenning N,et al.Association between the number of eggs and live birth in IVF treatment: an analysis of 400 135 treatment cycles[J].Hum Reprod,2011,26(7): 1768-74.   
+[2]刘 景，李艳萍．颗粒细胞氧化应激及凋亡对IVF-ET结局的影响 [J].中南大学学报:医学版,2010,35(9):990-4.   
+[3]Tatone C,Heizenrieder T,Di Emidio G,et al.Evidence that carbonyl stress by methylglyoxal exposure induces DNA damage and spindle aberrations,affects mitochondrial integrity in mammalian oocytes and contributes to oocyte ageing[J]．Hum Reprod,2011,26(7): 1843-59.   
+[4]Diamanti-Kandarakis E,Katsikis I,Piperi C,etal.Effectof longterm orlistat treatment on serum levels of advanced glycation endproducts in women with polycystic ovary syndrome[J]．Clin Endocrinol (Oxf),2007,66(1): 103-9.   
+[5] Yamagishi S. Role of advanced glycation end products (AGEs) and receptor for AGEs (RAGE) in vascular damage in diabetes[J].Exp Gerontol,2011,46(4): 217-24.   
+[6] Semba RD, Nicklett EJ, Ferrucci L. Does accumulation of advanced glycation end products contribute to the aging phenotype[J].J Gerontol Biol Sci Med,2010,65(9): 963-75.   
+[7] Ni RM,Mo Y,Chen X,et al.Low prevalence of the metabolic syndrome but high occurrence of various metabolic disorders in Chinese women with a polycystic ovary syndrome[J].Eur J Endocrinol,2009,161(3): 411-8.   
+[8] Feuerstein P,Puard V,Chevalier C,et al. Genomic assessment of human cumulus cell marker genes as predictors of oocyte evelopmental competence:the impact of various experimental factors[J]. PLoS One,2012,7(7): e40449-52.   
+[9] Gilchrist RB,Lane M, Thompson JG. Oocyte-secreted factors: regulators of cumulus cell function and oocyte quality[J]. Hum Reprod Update,2008,14(2): 159-77.   
+[10]Zhao XH, Zhong J，Mo Y,et al. Association of biochemical hyperandrogenism with type 2 diabetes and obesity in Chinese women with polycystic ovary syndrome[J]. Int J Gynaecol Obstet, 2010,108(2): 148-51.   
+[11]Germanova A, Koucky M, Hajek Z,et al. Soluble receptor for advanced glycation end products in physiological and pathological pregnancy[J]. Clin Biochem,2010,43(4/5): 442-6.   
+[12]Takahashi T，Igarashi H,Kawagoe J，et al.Poor embryo development in mouse oocytes aged in vitro isassociated with impaired calcium homeostasis[J].Biol Reprod,2009,80(3): 493- 502.   
+[13]Jinno M, Takeuchi M,Watanabe A,et al.Advanced glycation endproducts accumulation compromises embryonic development and achievement of pregnancy by assisted reproductive technology[J]. Hum Reprod,2011,26(3): 604-10.   
+[14]张雅洁，郭艺红.sRAGE,VEGF在多囊卵巢综合征患者血清和卵 泡液中的表达及相关性分析[D].郑州大学，2015   
+[15]黎 璞,陈士岭.淀粉样前体蛋白在卵巢颗粒细胞和卵泡液中的表 达以及与多囊卵巢综合征的关系[D].南方医科大学，2014   
+[16]潘晓琴，朱依敏.促排卵周期血清,卵泡液AGEs水平及其受体 RAGEmRNA在卵巢颗粒细胞表达的研究[D].浙江大学,2015.
+
+# (上接第318页)
+
+[17]Afonso J,Reis F.Dexmedetomidine:current role in anesthesia and intensive care[J].Rev Bras Anestesiol,2012,62(1):118-33.   
+[18]Hoy SM,Keating GM.Dexmedetomidine: a review of its use for sedation in mechanically ventilated patients in an intensive care setting and for procedural sedation[J].Drugs,2011,71(11):1481- 501.   
+[19]王志勇,张杰,李军.右美托咪定在谵妄患者撤机中的作用[J]. 中华危重病急救医学,2014,26(5):355-6.   
+[20]Jakob SM,Ruokonen E,Grounds RM,et al.Dexmedetomidine vs midazolam or propofol for sedation during prolonged mechanical ventilation:two randomized controlled trials[J]．JAMA，2012, 307(11):1151-60.   
+[21]万林骏，黄青青，岳锦熙．右美托咪定与咪达唑仑用于外科重症 监护病房术后机械通气患者镇静的比较研究[J]．中华危重病急 救医学,2011,23(6):543-6.   
+[22]卢院华，陈志，杨春丽．右美托咪定与咪达唑仑和丙泊酚镇静 对重症患者预后影响的Meta分析[J]．中国中西医结合急救杂志, 2013,20(2):99-104.   
+[23]Hamilton M,Amaral A.Dexmedetomidine to reduce intubation time in patients with agitated delirium[J].JAMA,2016,316(7): 772-3.   
+[24]高文蔚,陈 榕,刘 恋,等.右美托咪定对老年患者全麻术后认知 功能障碍的Meta分析[J].海南医学,2016,27(14):2379-81.   
+[25]郑蓓蓓，王迪芬，付江泉.右美托咪定与咪达唑仑在机械通气 重症患者镇静治疗中的比较研究[J].中国中西医结合急救杂 志,2015,22(3):307-11.   
+[26]Panzer O，Moitra V,Sladen RN.Pharmacology of sedativeanalgesic agents:dexmedetomidine,remifentanil, ketamine,volatile anesthetics,and the role of peripheral mu antagonists[J].Crit Care Clin,2009,25(3): 451-69.

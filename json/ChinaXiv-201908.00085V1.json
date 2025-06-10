@@ -1,0 +1,353 @@
+[
+    {
+        "type": "text",
+        "text": "不同光质对白及组培苗生长及光合特性的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王婷婷，占卓，马健，陈艺群，李阳(福建省中科生物股份有限公司，福建泉州362400)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：白及的自然繁殖率极低，组培育苗是其种苗繁殖的主要方式之一。本研究以紫花白及（Bletillastriata）为试验材料，研究LED光质对白及组培苗的生长和光合特性的影响，探索提高白及组培育苗质量及缩短育苗周期的高效人工光环境。结果表明，提高红蓝光组合中的蓝光占比，有利于促进白及组培苗的生长和生物量的积累，而白及的球茎大小与红光的占比呈正相关；在红蓝组光合中增加 $2 5 \\ \\%$ 的绿光（2R1B1G），可显著提高白及叶片的叶绿素含量和净光合速率，促进组培苗根系和叶片的生长。综合分析表明，光质（2R1B1G）处理下的白及组培苗株高提高、茎粗增大、叶绿素含量、净光合速率和根系发育均表现出最佳优势，2R1B1G 处理可推荐作为白及组培育苗的光质配方。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：白及，组培苗，光质，生长，光合特性中图分类号：Q945 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effects of light quality on growth and photosynthetic characteristics of Bletilla striata in vitro ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Tingting, ZHAN Zhuo, MA Jian, CHEN Yiqun,LI Yang (Fujian Zhongke Biotechnology Co.,Ltd.,Quanzhou 36240o,Fujian,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Bletilla striata has a very low natural reproduction rate,and tissue culture is one of the main ways of seedling reproduction. In order to explore an eficient artificial light environment for improving the quality of $B$ ，striata and shortening its seedling time,the growth and photosynthetic characteristics of $B$ striata seedlings under different light qualities were studied. The results showed that increasing the proportion of blue light in the background of red and blue light was conducive to promoting the growth and biomass accumulation of $B$ ， striata,and its bulb size was positively correlated with the proportion of red light.The chlorophyllcontent and net photosynthetic rate were significantly increased and the development of roots and leaves were accelerated when adding a certain amount of green light in the background of red and blue light. Therefore,the light quality (2R1B1G) is recommended as the better light quality recipe for the seedlings of $B$ striata. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Bletilla striata, tissue culture seedlings, light quality, growth, photosynthetic characteristics ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "白及（Bletilla striata）为兰科白及属多年生草本球根植物，是中国传统的中药材，主要用于收敛止血，消肿生肌，有良好止咳作用，能治疗鼻窦炎等，还具有很高的园林应用价值（余朝秀等，2005；陆峻波等，2011）。近年来，随着白及市场需求的提高，野生白及遭到过度采挖，导致其野生自然资源急剧减少，濒临灭绝，被国家列为重点保护的野生药用植物之一（傅立国，1992），同时也被列入《濒危野生动植物国际贸易公约》保护种类（中国科学院中国植物志编辑委员会，1999）。由于白及种子无胚乳，自然繁殖出苗率仅有万分之一（张佳宁等，2016），成苗比较困难，用切块茎繁殖是其传统繁殖的主要方法之一，但繁殖系数低。目前，组培育苗比传统育苗具有苗势好、繁殖系数高的优势，极大地提升了白及育苗的质量和效率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人工光环境是组培育苗的核心技术之一，能调控组培苗的形态建成、光合生理、物质代谢等（Haliapas et al.,2008；Macedo et al.,2011；杨维杰，2015；孙翊等，2017）。目前，组培育苗生产中以荧光灯为主要光源，随着半导体技术的发展，植物人工补光的研究已从常用的荧光灯转为光谱可调、发光效率更高、使用寿命更长的LED 植物灯。研究表明，在“形态、生物量、壮苗指数、酶活性”等方面，LED灯比荧光灯具有明显的组培育苗优势（李慧敏，2016；Mohlakola,2017），如谢苗苗等（2018）认为LED 对比荧光灯更有助于矾根组培苗的形态建成、生物量的积累以及叶片光合色素的合成，且抗氧化酶有良好活性，可作为矾根组培生根培养的优选光质。不同类型的植物对光质的生理生化反映存在一定的差异，研究表明增加远红光促进阳生植物株高的形成（刘再亮等，2004），但Robin-Cetal.（1994）研究发现低比例的红光与远红光抑制了苜蓿腋芽分枝的产生和茎节数的增加。目前，LED光质在白及组培育苗中的应用研究鲜有报告，仅有王自布等（2016）研究了LED 单色光在白及组培中的运用，认为蓝光处理白及组培苗株高较高，红光提高白及叶面积、根长和生根数量。现有的文献资料与实际的生产应用仍存在一定的差距。所以，本研究以白及为材料，LED 光为试验光源，探究白及组培苗在不同光质处理下的生长及光合特性，筛选出适宜白及组培育苗的光质配方，以期为生产高品质白及种苗、建立工厂化组培育苗快繁体系和野生白及资源保护提供理论依据和参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验材料及培养",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以紫花白及（Bletilla striata）为试验材料，试验于2018年3-7月在福建省中科生物股份有限公司光生物产业研究院组培光生物学实验室进行。将液体萌发培养基上长势均匀一致的白及无根幼苗（0.3",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "cm 左右）转接到继代培养基上（改良后的1/2MS 培养基），每瓶培养基接种幼苗12 株，放置于不同试验光质下培养，培养时间为 $1 0 0 \\mathrm { ~ d ~ }$ ，昼夜温度为23℃/20℃，空间空气湿度为 $5 5 \\ \\%$ ， $\\mathrm { C O } _ { 2 }$ 浓度为 $4 0 0 \\mu \\mathrm { m o l } { \\cdot } \\mathrm { m o l } ^ { - 1 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2光环境处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将继代扩繁后的组培苗放置在组培架上进行光照培养，以荧光灯为对照（CK），设置6个LED光质处理：1R1B（Red:Blue $\\mathbf { \\tau } = 1 \\colon 1$ ）、2R1B、3R1B、4R1B、2R1B1G（Red:Blue:Green $_ { 1 = 2 }$ : 1:1）和2R1B2G。LED 灯具由福建省中科生物股份有限公司自主研发，其中红光（R）的峰值波长为 $6 6 0 \\mathrm { n m }$ ，蓝光（B）的峰值波长为 $4 5 0 ~ \\mathrm { n m }$ 、绿光（G）峰值波长为 $5 2 6 ~ \\mathrm { n m }$ 。光照强度为 $5 0 { \\pm } 5 ~ { \\mu } \\mathrm { m o l } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 }$ ，光照时间为 $1 2 ~ \\mathrm { h / d }$ 。每个光质处理放置10瓶白及组培苗（120株），重复3次，待苗高长至 $9 \\ \\mathrm { c m }$ 时，进行相关形态指标和光合特性指标的测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/56db035abf2f32625a437ff146f684ed10bab4edde2fcec1c21a111759322b8e.jpg",
+        "table_caption": [
+            "表1不同光质处理的光子数分布 $( \\mu \\mathrm { m o l } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 } )$ （20",
+            "Table 1 Photon number distribution of light quality treatments $( \\mu \\mathrm { m o l } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 } )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>处理 Treatments</td><td>R</td><td>B</td><td>G</td></tr><tr><td>CK（荧光灯）</td><td></td><td>50</td><td></td></tr><tr><td>1R/1B</td><td>25</td><td>25</td><td>0</td></tr><tr><td>2R/1B</td><td>34</td><td>17</td><td>0</td></tr><tr><td>3R/1B</td><td>39</td><td>13</td><td>0</td></tr><tr><td>4R/1B</td><td>40</td><td>10</td><td>0</td></tr><tr><td>2R/1B/1G</td><td>25</td><td>13</td><td>13</td></tr><tr><td>2R/1B/2G</td><td>20</td><td>10</td><td>20</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3测定项目与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1形态指标的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "各处理随机选取20 棵白及组培苗，测定幼苗的苗高、根长、叶长、叶宽、鲜重和球茎大小，参考张勇等（2014）的长宽法（修正系数采用0.75）计算叶面积。测定结束后，将幼苗放入105℃的烘箱杀青 $3 0 \\mathrm { m i n }$ ，在 $7 5 \\ \\mathrm { ~ \\textdegree C }$ 恒温干燥 $^ { 4 8 \\mathrm { { h } } }$ ，称取干重。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2光合参数的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "测量于09:00-11:30时进行，随机选取每个重复下长势较一致的白及组培苗10 棵，每棵苗选取从上往下数第2片真叶，使用光合仪（LI-6800,LI-COR Inc,USA）进行光合参数的测定，主要包含净光合速率 $( P _ { n } )$ 、蒸腾速率 $( T _ { r } )$ 、气孔导度 $( G _ { s }$ )和胞间 $\\mathrm { C O } _ { 2 }$ 浓度 $( C _ { i } )$ 。测定光强为 $5 0 \\mu \\mathrm { m o l } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 }$ ，叶温为 $2 6 ^ { \\circ } \\mathrm { C }$ ， $\\mathrm { C O } _ { 2 }$ 浓度为 $4 0 0 \\mu \\mathrm { m o l { \\cdot } m o l } ^ { - 1 }$ ，相对湿度为 $5 5 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.3叶绿素荧光参数的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "叶绿素荧光的测定参照Vankootenetal．（1990）的方法:在室温条件下，利用便携式荧光测定仪（PAM2500,Heinz-Walz,Germany）测量暗适应 $1 5 \\mathrm { m i n }$ 的完整叶片的叶绿素荧光。每个处理随机选取10 棵，每棵从上往下选取第2片真叶进行测定。打开饱和脉冲测量最小荧光（ ${ \\bf \\nabla } \\cdot { \\bf F } _ { O }$ ）和最大荧光$\\cdot F _ { m }$ ），20s后打开光化光，并且每隔 $2 0 \\mathrm { { s } }$ 重复打开饱和脉冲光，测定光照下最大荧光 $\\left( { F _ { m } } ^ { \\prime } \\right)$ ）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PSII 最大光化学效率 $\\left( F _ { \\nu } / F _ { m } \\right) = \\left( F _ { m } - F _ { O } \\right) / F _ { m }$ PSII实际光化学效率 $( \\phi _ { P S I I } ) ~ = ~ ( F _ { m } { ' } F _ { s } ) ~ / F _ { m }$ 非光化学淬灭 $\\left( N P Q \\right) = \\left( F _ { m } { \\cdot } F _ { m } { ' } \\right) { } / F _ { m } { ' }$ 非光化学淬灭系数 $( q N ) = 1 – F _ { \\nu } ^ { \\ \\prime } / F _ { \\nu }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.4光合色素含量的测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用混合液提取法进行光合色素含量的测定（陈福明和陈顺伟，1984），提取溶剂为 $45 \\%$ 无水乙醇 $+ 4 5 \\%$ 丙酮 $+ 1 0 \\%$ 蒸馏水，使用分光光度计（UV-2700，岛津，日本），测定叶绿素a、叶绿素b和类胡萝卜素含量，并计算叶绿素 $\\mathbf { a } { + } \\mathbf { b }$ 、叶绿素a/b 的比值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4数据统计分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对所得的数据，采用 Microsoft Excel2003 进行数据整理并制图，并用DPS 软件（v14.10）多重比较Duncan's新复极差法进行显著性分析，图表中数据为平均值±标准差。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1不同光质对白及幼苗形态指标的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2不同光质处理对白及组培苗形态指标的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/3563cd2b461281a35aec644edc2845730f2622e6854beb4760c9257a1f896750.jpg",
+        "table_caption": [
+            "Table 2 Effects of different light qualities on morphological indexes of Bletilla striata "
+        ],
+        "table_footnote": [
+            "注：表中同列不同小写字母表示差异达显著水平 $( P { < } 0 . 0 5 )$ 。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td>处理 Treatments</td><td>株高 Plant height (cm）</td><td>球茎直径 Bulb diameter （mm）</td><td>根数 Root number （stripe）</td><td>根长 Root length (cm）</td><td>叶面积 Leaf area (cm²）</td><td>单株鲜重 Fresh weight (g）</td><td>单株干重 Dry weight</td></tr><tr><td>CK</td><td>11.43±2.07ab</td><td>5.75±1.20a</td><td>8.30±1.95ab</td><td>5.22±1.19ab</td><td>6.05±0.21d</td><td>0.66±0.10bc</td><td>57.15±1.02abc</td></tr><tr><td>1R1B</td><td>11.60±1.78ab</td><td>4.60±1.50a</td><td>6.50±2.17b</td><td>4.68±1.17bc</td><td>5.91±0.30d</td><td>0.89±0.05a</td><td>67.65±0.63a</td></tr><tr><td>2R1B</td><td>11.26±1.29ab</td><td>4.95±1.48a</td><td>6.40±1.26b</td><td>4.84±1.48b</td><td>6.56±0.14c</td><td>0.79±0.09ab</td><td>62.36±0.23abc</td></tr><tr><td>3R1B</td><td>10.90±1.10ab</td><td>6.01±1.31a</td><td>7.70±2.06ab</td><td>4.58±1.14c</td><td>7.56±0.19b</td><td>0.76±0.11ab</td><td>51.39±1.00bc</td></tr><tr><td>4R1B</td><td>9.19±1.14b</td><td>5.67±0.97a</td><td>7.60±1.17ab</td><td>4.67±0.90bc</td><td>6.60±0.29c</td><td>0.70±0.12bc</td><td>51.04±0.87bc</td></tr><tr><td>2R1B1G</td><td>12.54±2.00a</td><td>6.01±1.70a</td><td>8.90±2.85ab</td><td>6.13± 1.24a</td><td>6.62±0.22c</td><td>0.86±0.01a</td><td>65.04±0.64ab</td></tr><tr><td>2R1B2G</td><td>12.37±0.94a</td><td>5.95±2.19a</td><td>10.20±2.39a</td><td>5.11±1.15ab</td><td>8.79±0.47a</td><td>0.56±0.06c</td><td>45.13±0.91c</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Note:Different letters in same column indicate significant differences( $\\textstyle P { \\ < } 0 . 0 5$ ).Thesamebelow. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如表2所示，与荧光灯条件下的白及组培苗比较，不同LED 处理的白及组培苗的株形无明显差异，但LED 处理下的白及组培苗的叶面积普遍较大。LED 红蓝光处理与对照比较，LED 的光质处理没有明显改善白及组培苗的株高、球茎大小和根系发育，但是，红光占比与球茎大小呈正相关，3R1B（ $6 . 0 1 \\ \\mathrm { m m }$ ）比1R1B（ $4 . 6 0 \\ \\mathrm { m m }$ ）处理的球茎直径高出 $3 0 . 6 6 \\%$ ，而且当红光占比在 $5 0 \\% { \\sim } 7 5 \\%$ 时，红光含量与白及组培苗叶面积大小成正比。随着蓝光比例的增加，白及组培苗的株高、单株鲜重和单株干重逐渐增加，其中，1R1B 处理的白及组培苗单株鲜重（ $\\left( 0 . 8 9 \\mathrm { g } \\right.$ ）和单株干重（ $6 7 . 6 5 \\mathrm { m g }$ ）最大，分别比对照提高了 $3 4 . 8 5 \\%$ 和 $1 8 . 3 6 \\%$ ，表明提高蓝光的比例有利于白及组培苗生物量的积累。在LED 红蓝光的基础上增加绿光，显著提升了白及组培苗的株高和增强了根系发育，其中增加 $2 5 \\%$ 的绿光（2R1B1G）对白及组培苗的影响较大，明显增加了其生物量，白及组培苗整体品质也最佳。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2不同光质对白及组培苗叶片光合色素含量的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a41801daefbcecea20b462c5787f62b01903cd952260aeca1916109d92baffb5.jpg",
+        "table_caption": [
+            "表3不同光质对白及组培苗叶片光合色素含量的影响",
+            "able 3 Effects of different light qualities on photosynthetic pigment contents of Bletilla stri "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>处理 Treatments</td><td>叶绿素a Chlorophyll a (mg·g-1)</td><td>叶绿素b Chlorophyll b (mg:g²1)</td><td>类胡萝卜素 Carotenoid (mg:g1)</td><td>叶绿素a+b Chlorophyll a+b (mg·g-1)</td><td>叶绿素 a/b 比值 Chlorophyll a/b ratio</td></tr><tr><td>CK</td><td>0.88±0.03d</td><td>0.27±0.01cd</td><td>0.23±0.01c</td><td>1.16±0.04d</td><td>3.21±0.00b</td></tr><tr><td>1R1B</td><td>0.87±0.03d</td><td>0.25±0.01de</td><td>0.23±0.01c</td><td>1.12±0.04d</td><td>3.40±0.01ab</td></tr><tr><td>2R1B</td><td>0.94±0.03c</td><td>0.29±0.02c</td><td>0.25±0.01b</td><td>1.24±0.03c</td><td>3.25±0.24ab</td></tr><tr><td>3R1B</td><td>0.88±0.01d</td><td>0.27±0.01cd</td><td>0.24±0.01bc</td><td>1.15±0.01d</td><td>3.22±0.01b</td></tr><tr><td>4R1B</td><td>0.81±0.01e</td><td>0.24±0.01e</td><td>0.23±0.01c</td><td>1.05±0.01e</td><td>3.37±0.01ab</td></tr><tr><td>2R1B1G</td><td>1.18±0.01a</td><td>0.35±0.01a</td><td>028±0.01a</td><td>1.53±0.01a</td><td>3.42±0.00a</td></tr><tr><td>2R1B2G</td><td>1.07±0.01b</td><td>0.32±0.01b</td><td>0.28±0.01a</td><td>1.39±0.01b</td><td>3.31±0.00ab</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同光质处理下的白及组培苗叶片的叶绿素含量存在显著差异（表3）。红蓝光组合处理中，2R1B 处理的白及组培苗叶绿素含量显著大于其他红蓝光处理，4R1B 处理的叶绿素含量最低，表明在一定范围上增加蓝光含量有利于叶绿素的合成，提高了白及组培苗的叶绿素含量。各LED 处理的叶绿素a含量以2R1B1G 和2R1B2G 处理较高，分别比对照高出 $34 . 0 9 \\%$ 和 $2 1 . 5 9 \\%$ ，达到显著差异。叶绿素b与叶绿素 $a { + } b$ 的含量变化与叶绿素a一致，以2R1B1G 处理的值最大，表明增加一定比例的绿光，有利于叶绿素的合成，但比例不宜太高，各光质处理中，以绿光含量为 $2 5 \\%$ 时的光质处理的叶绿素含量较高，表明在该光质处理下，更有利于白及组培苗的叶绿体的发育，这与表2中提高蓝光比例、适当增加绿光促进白及组培苗生物量的积累增加是一致的。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3不同光质对白及组培苗叶片叶绿素荧光参数的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如图1所示，不同光质处理没有影响白及组培苗的最大光化学效率（ $\\backslash F _ { \\nu } / F _ { m } \\rangle$ ）， $F _ { \\nu } / F _ { m }$ 值均在正常范围之内，而且不同光质处理间无显著差异。LED 红蓝组合光处理中，2R1B 处理的 $\\phi P S I I$ 值较高，而 NPQ 和qN 值降低，表明 2R1B 处理中，较少的光能以热的形式被耗散掉，白及叶片对光能转化能力加强。增加光质中的红光比例,NPQ 值增加，当红光的含量达到 $80 \\%$ 时,4R1B 处理的ΦPSII显著低于其它处理和对照，表明红光的比例过高影响白及组培苗光反应能力，这可能与该处理条件下的叶绿素浓度偏低有关（表3）。在2R1B处理的基础上，增加 $2 5 \\%$ 的绿光，白及组培苗的实际光化学效率明显增加，但增加绿光的比例达到 $40 \\%$ 时，白及组培叶片的光能转化效率下降，热耗散增加。综合以上分析，全光谱（2R1B1G）的条件下，白及组培苗的光能利用效率最优。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "注：不同小写字母表示不同处理间差异达0.05显著水平。下同。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/99e70e9d545d3ebcd34f2c1d0b6f57d1dbdd8a205027ac64b85ad0b21802de0c.jpg",
+        "img_caption": [
+            "图1不同光质对白及组培苗叶片叶绿素荧光参数的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "te: Different lowercase letters indicate significant differences among different treatments( $\\textstyle P { \\ < } 0 . 0 5 ,$ ).The samebelov ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Effects of different light qualities on chlorophyll fluorescence parameters of Bletilla striata ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4不同光质对白及组培苗叶片光合参数的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如图2所示，各LED处理与对照的 $P _ { n }$ 存在明显的差异，当 $\\scriptstyle \\mathbf { R } : \\mathbf { B } = 1 \\sim 3$ 时，随着红光含量的增加，Pn 逐渐增加但未达到显著差异， $\\scriptstyle \\mathbf { R : B = 4 }$ 时， $P _ { n }$ 显著下降，其中 2R1B1G 处理的 $P _ { n }$ 最大，与其他处理达到显著差异。不同处理的白及叶片蒸腾速率（ $T _ { r }$ ）和气孔导度（ $G _ { s }$ ）的变化趋势与 $\\boldsymbol { P _ { n } }$ 较接近，但红蓝绿组合光处理的白及组培苗叶片胞间 $\\mathrm { C O } _ { 2 }$ 浓度（ $C _ { i }$ ）较小，认为在环境 $\\mathrm { C O } _ { 2 }$ 浓度一致的情况下，不同光质处理下白及组培叶片对 $\\mathrm { C O } _ { 2 }$ 利用率存在差异，同时叶片呼吸作用产生 $\\mathrm { C O } _ { 2 }$ 的量不同，最终导致 $C _ { i }$ 变化趋势不均一。综合分析表明，白及组培苗在 2R1B1G 处理下的净光合速率最高，显著高于对照和其它LED 处理（图2），这可能与该条件下的叶片蒸腾速率（ $T _ { r }$ ）和气孔导度（ $G _ { s }$ ））的值较高有关。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/076fde6973d3fd6b32791505f4adb50ba2a9e7755acbf50c73f6251921466d24.jpg",
+        "img_caption": [
+            "图2不同光质对白及组培苗叶片光合参数的影响",
+            "Fig.2 Effects of different light qualities on photosynthetic parameters of Bletilla striata "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "光质是影响植物生长发育的最重要的光环境因子之一，不仅为植物光合作用提供能量，同时作为信号因子参与调节光形态建成、内在生物节律等植物重要生命活动，但是不同植物对光质表现出的生物学反应是不一致的。一般研究认为，红光可以促进菜心、番茄、康乃馨等组培苗茎的伸长，而蓝光则使植株矮化（何建文等，2018；杨俊伟等，2018；仇学文等，2018）。本研究中，光质比例从4R1B调整到1R1B，白及组培苗株高增加 $2 6 . 2 2 \\%$ ，表明提高培养光质中蓝光的比例，有利于促进白及组培苗茎的伸长，这与王自布等（2016）和陈光彩（2015）研究结论是一致的，他们认为不同LED光质对白及和桉树组培苗株高的影响表现为：蓝光 $>$ 红光。此外，本研究也发现，在低红蓝组合光中增加 $2 5 \\%$ 的绿光，白及组培苗的株高、根系的生长和生物量的积累均优于对照和其它处理。造成这种光质效应不同的原因可能和试验植物长期形成的生活习性差异有关，因为白及为兰科植物，常生长于林下或林缘，耐阴性强，在蓝光和绿光处理下，植物的 PEPC 基因也有较高的表达（Jiao etal.,2002），其光合作用可能会随着环境条件的变化在CAM（景天酸代谢途径）与 $\\mathrm { C } _ { 3 }$ 途径间转换。研究表明，蓝光有利于促进叶绿素合成与积累（尚文倩等，2013；袁华玲等，2019；王加真等，2019），而且在蓝光条件下的小白菜叶片发育良好，与叶片单位面积气孔导度及其净光合速率较高有关（樊小雪等，2018）。本研究中，提高培养光中的蓝光比例，白及的叶绿素含量增加，证明蓝光处理有利于促进白及叶绿素的合成与积累，提高白及组培苗光合能力（ $\\cdot P _ { n }$ ）和生物量。绿光也在植物生长发育过程中发挥了重要的作用（Kim et al.,2006; Golovatskaya& Karnachuk,2015），本研究中，在LED红蓝组合光的基础上增加一定量的绿光，白及组培苗的光合能力显著提高，但绿光在能量含量中不宜超过 $5 0 \\%$ （Kimetal.,2004），本研究中以在红蓝组合光基础上添加 $2 5 \\ \\%$ 的绿光处理下白及组培苗生长最优。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综上所述，2R1B1G 的光质条件下，白及组培苗的株型、根系、叶绿素、光合能力，以及单株鲜重和干重等各指标均显著优于荧光灯和其它LED光质处理，而且2R1B1G的光质条件下的白及组培苗的株型较紧凑、生长健壮，推荐2R1B1G 作为白及工厂化组培育苗的较佳光质配比。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CHEN FM, CHEN SW,1984. Study on determination of chlorophyl content by mixed liquid method [J]. For Sci Technol Comm,(2):6-10.[陈福明，陈顺伟,1984．混合液法测定叶绿素含量的研究[J]．林业 科技通讯,(2):6-10.]   \nCHEN GC,2O15.Effct of LED seal materials and medium matrix on the growth of the tissue culture seedlings of Musa cavendishii and Eucalyptus [D]. Zhanjiang: Guangdong Ocean University. [陈光彩, 2015.LED 光源下香蕉和桉树组培苗的生根培养[D]．湛江：广东海洋大学.]   \nQIU XW,XU JM,SHI JL, et al.,2018. The effects of light quality on the growth of carnation in vitro [J]. Anhui Agric Sci Bull,24(9):45-47.[仇学文，许建民，史金兰，等,2018．光质对康乃馨组培苗生长 的影响[J]．安徽农学通报,24(9):45-47.]   \nFU LG,1992.China Plant Red Data Book: Rare and Endangered Plants (Volume 1) [M]. Beijing: Science Press:494-495.[傅立国,1992．中国濒危植物红皮书（第一)[M]．北京：科学出版社:494-495.]   \nFAN XX,GAO WR，SUN YJ,et al., 2018. Effects of different light quality on leaf development and photosynthesis of pakchoi [J].J Xinyang Norm Univ (Nat Sci Ed),(O4): 1-5.[樊小雪，高文瑞，孙艳军, 等,2018．不同光质对小白菜叶片发育和光合作用的影响[J]．信阳师范学院学报(自然科学版),(04): 1-5.]   \nGOLOVATSKAYA IF, KARNACHUK RA,2015. Role of green light in physiological activity of plants[J]. Russ J Plant Physiol, 62: 727-740.   \nHALIAPAS S, YUPSANIS TA, SYROS T D, et al., 2008. PetuniaxHybrida during transition to flowering as affected by light intensity and quality treatments [J]. Acta Physiol Plant, 3O(6): 807-815.   \nHE JW,LIU XY, XIONG ZH, et al.,2018. Effects of different LED supplemental lighting on growth and quality of flowering Chinese cabbage [J]. Chin Ilum Eng J, 29(4): $3 1 - 3 4 + 6 1$ .[何建文，刘向阳，熊志豪, 等,2018．不同光质补光对菜心生长及品质的影响[J]．照明工程学报, $2 9 ( 4 ) \\colon 3 1 . 3 4 \\substack { + 6 1 . }$ ]   \nJIAO DM, HUANG XQ,LI X, et al., 2002. Photosynthetic characteristics and tolerance to photo-oxidation of transgenic rice expressing $\\mathrm { C } _ { 4 }$ photosynthesis enzymes [J]. Photosynth Res,72(1): 85-93.   \nKIM HH, GOINS GD,WHEELER RM, et al., 2004. Green-light supplementation for enhanced lettuce growth under red-and blue-light-emitting diodes [J]. Hort Sci, 39: 1617-1622.   \nKIM HH, WHEELER RM, SAGER JC, et al., 20O6. Evaluation of letuce growth using supplemental green light with red and blue light-emitting diodes in a controlled environment-a review of research at Kennedy Space Center [J]. Acta Hortic,711: 111-119.   \nLI HM, 2016. Growth and physiological characteristics of Abelmoschus esculentus plantlets in vitro under different quality lights [J]. Acta Bot Boreal-Occident Sin,36(5):996-1003.[李慧敏,2016.不同LEDs 复 合光质对秋葵组培苗生长和生理特性的影响[J]．西北植物学报,36(5):996-1003.]   \nLIU ZL, MA CW, YANG QC, 2O04. Research progresson ratio regulation of red light and far red light in facility environment[J].Trans Chin Soc Agric Eng,(01): 270-273.[刘再亮，马承伟，杨其长,2004．设 施环境中红光与远红光比值调控的研究进展[J]．农业工程学报,(01):270-273.]   \nLU JB,LIU YH, YANG YH, et al.,2OO6. The analysis of Bletilla Rchb. f. research development review from literatures in China [J]. J Yunnan Agric Univ (Nat Sci Ed),26(2): 288-292.[陆峻波，刘亚辉，杨永 红，等，2011．从文献分析看我国白芨研究进展[J].云南农业大学学报（自然科学版），26(2): 288-292.]   \nMACEDO AF, LEAL-COSTA MV,TAVARES ES,et al.，2011. The effect of light quality on leaf production and development of in vitro-cultured plants of Alternanthera brasiliana Kuntze [J]. Environ Exp Bot, 70(1): 43-50.   \nMOHLAKOLA E,2017. Effects of LED light on in vitro culture and the expression of light responsive genes in Gerbera iamesonii [D]. Fuzhou: Fujian Agriculture and Forestry University: 34-41. [MohlakolaE,2017.[LED 光源对非洲菊离体培养及光响应基因表达的影响[D]．福州：福建农林大 学: 34-41.]   \nROBIN C, HAYY MJM, NEWTON PCD,et al.，1994.Effect of light quality (red: far-red ratio） at the apical bud of the main stolon on morphogenesis of Trifolium repens [J].L Annals of Botany,74: 2, 119-123.   \nSHANG WQ,WANG Z, HOU JN,et al.，2013.Efects of light emitting diode (LED) with different red/blue quality ratios on the growth of Dendrobium offcinale plantlets in vitro [J]. JNW A & F Univ （Nat Sci Ed),41(5):155-159.[尚文倩，王政，侯甲男，等,2013．不同红蓝光质比LED光源对铁皮 石斛试管苗生长的影响[J]．西北农林科技大学学报(自然科学版),41(5):155-159.]   \nSUN Y, ZHANG YC, YIN LQ, et al.,2017. Effects of LED light on proliferation and physiological characteristics of Gerbera jamesoni plantlets [J]. Acta Bot Boreal-Occident Sin ,37(12): 2419-2426. [孙 翊，张永春，殷丽青，等,2017.LED 光质对非洲菊组培苗增殖及生理特性的影响[J]．西北植物学报, 37(12): 2419-2426.]   \nVANKOO O, SNEL JFH,1990. The use of chlorophyllfluorescence nomenclature in plant stress physiology [J]. Photosynth Res, 25: 147-150.   \nWANG JZ, JIN X,FENG M, et al.,2019.Effects of diferent red and blue light ratios on the growth and biochemical composition of tea plants [J/OL]. Jiangsu Agric Sci :1-4.[王加真，金星，冯梅，等,2019, 不同红蓝光配比对茶树生长及生物化学成分的影响[J/OL]．江苏农业科学:1-4.]   \nWANG ZB, YANG W, CHEN J, et al.,2016. Effect of light quality on physiological characteristics and expression of antioxidant enzyme genes in Bletilla striata L. in vitro [J]. JTrop Subtrop Bot, 24(6): 665-670.[王自布，杨维，陈建，等，2016.光质对白芨组培苗生理特性及酶基因表达的影响[J]．热 带亚热带植物学报,24(6): 665-670.]   \nXIE MM,SUN Y，YIN LQ，et al.，2018.Effects of different LED light qualities on growth and physiological characteristics of Heuchera spp.plantlets [J]. Mol Plant Breed,16(6):2001-2008.[谢苗苗, 孙翊，殷丽青，等，2018．不同 LED 光质对矾根组培苗生长和生理特性的影响[J]．分子植物育种, 16(6): 2001-2008.]   \nYANG JW, BAO EC, ZHANG KJ,et al., 2018.Effects of different ratios of red and blue light on anatomic structure and photosynthetic characteristics of tomato leaf [J]. Acta Agric Boreal-Occident Sin,27(5): 716-726.[杨俊伟，鲍恩财，张珂嘉，等，2018．不同红蓝光比例对番茄幼苗叶片结构及光合特性的 影响[J]．西北农业学报,27(5):716-726.]   \nYANG WJ,LIANG J，YANG LL，2015. Effects of different LED light quality on the growth and polysaccharide content of Dendrobium candidum [J].J Zhejiang Agric Sci, 56(8): 1188-1190.[杨维杰, 梁君，杨林林，2015.不同 LED 光质对铁皮石斛生长及多糖含量的影响[J]．浙江农业科学，56(8): 1188-1190.]   \nYU CX, LI ZL, WANG YY,2O05. Tissue culture and rapid propagation of wild Bletilla [J]. J SW Agric Univ,27(5):601-604.[余朝秀，李枝林，王玉英,2005．野生白芨组培快繁技术研究[J]．西南农业大 学学报（自然科学版）,27(5):601-604.]   \nYUAN HL, SONG ZZ,LIU Y,2019.Efects of diferent light quality on plantlets growth of Actinidia valvata Dunn [J]. Anhui Agric Sci Bull, 25(08): $1 6 \\mathrm { - } 1 7 \\mathrm { + } 1 5 0$ .[袁华玲，宋珍珍，刘誉,2019.不同光质 对对萼猕猴桃试管苗生长的影响[J]．安徽农学通报, $2 5 ( 0 8 ) \\colon 1 6 \\AA 1 7 \\substack { + 1 5 0 . \\mathrm { ~ } } ]$   \nZHAN JN, TIAN ML, ZHOU XY, et al., 2016. Study on the tissue culture of endangered and valuable medicinal materials'Bletill striata [J].Gansu Sci Technol,32(24):122-124.[张佳宁，田茂琳，周祥云, 等.2016.濒危名贵药材白芨组培繁育技术研究[J].甘肃科技,32(24):122-124.]   \nZHANG Y,YE ZL，YANG F,et al.，2016.Effects of different light qualities on morphological and photosynthetic physiological parameters of soybean seedlings [J]. Chin J Oil Crop Sci, 36(3): 343-348. [张勇，叶芝兰，杨峰，等,2014．不同光质配比对大豆幼苗形态及光合生理参数的影响[J].中国油料 作物学报,36(3):343-348.]   \nChinese Flora Editorial Board of the Chinese Academy of Sciences,1999.Flora Reipublicae Popu  \nlaris Sinicae [M].Beijing:Science Pres:45-50.[中国科学院中国植物志编辑委员会，1999．中国植 物志[M]．北京：科学出版社：45-50.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

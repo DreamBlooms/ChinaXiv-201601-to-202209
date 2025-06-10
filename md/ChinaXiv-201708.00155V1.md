@@ -1,0 +1,799 @@
+# Non-Supersymmetric Attractors in Symmetric Coset Spaces
+
+# WeiLi
+
+Jefferson Physical Laboratory,Harvard University, Cambridge MA O2138,USA weili@fas.harvard.edu
+
+# 1 Introduction
+
+The attractor mechanism for supersymmetric (BPS) black holes was discovered in 1995 [1]: at the horizon of a supersymmetric black hole, the moduli are completely determined by the charges of the black hole,independent of their asymptotic values. In 20o5, Sen showed that all extremal black holes,both supersymmetric and non-supersymmetric (non-BPS),exhibit attractor behavior [2]: it is a result of the near-horizon geometry of extremal black holes,rather than supersymmetry. Since then,non-BPS attractors have been a very active field of research (see for instance [3,4, 5,6,7,8, 9,10,11, 12,13,14,15]). In particular,a microstate counting for certain non-BPS black holes was proposed in [16]. Moreover，a new extension of topological string theory was suggested to generalize the Ooguri-Strominger-Vafa(OSV) formula so that it also applies to non-supersymmetric black holes [17].
+
+Both BPS and non-BPS attractor points are simply determined as the critical points of the black hole potential $V _ { B H }$ [18,7].However,it is much easier to solve the full BPS attractor flow equations than to solve the nonBPS ones: the supersymmetry condition reduces the second-order equations of motion to first-order ones.Once the BPS attractor moduli are known in terms of D-brane charges,the full BPS attractor flow can be generated via a harmonic function procedure,i.e.,by replacing the charges in the attractor moduli with corresponding harmonic functions:
+
+$$
+t _ { B P S } ( { \pmb x } ) = t _ { B P S } ^ { * } ( p ^ { I }  H ^ { I } ( { \pmb x } ) , q _ { I }  H _ { I } ( { \pmb x } ) )
+$$
+
+In particular,when the harmonic functions $( H ^ { I } ( { \pmb x } ) , H _ { I } ( { \pmb x } ) )$ are multi-centered, this procedure generates multi-centered BPS solutions [19].
+
+The existence of multi-centered BPS bound states is crucial in understanding the microscopic entropy counting of BPS black holes and the exact formulation of OSV formula [20]. One can imagine that a similarly important role could be played by multi-centered non-BPS solutions in understanding non-BPS black holes microscopically. However, the multi-centered non-BPS attractor solutions have not been constructed until [21],on which this talk is based.In fact,even their existence has been in question.
+
+In the BPS case,the construction of multi-centered attractor solutions is a simple generalization of the full attractor flows of single-centered black holes: one needs simply to replace the single-centered harmonic functions in a single-centered BPS flow with multi-centered harmonic functions. However, the full attractor flow of a generic single-centered non-BPS black hole has not been solved analytically, due to the difficulty of solving second-order equations of motion.Ceresole et al. obtained an equivalent first-order equation for nonBPS attractors in terms of a “fake superpotential,” but the fake superpotential can only be explicitly constructed for special charges and asymptotic moduli [22, 23]. Similarly, the harmonic function procedure was only shown to apply to a special subclass of non-BPS black holes,but has not been proven for generic cases [11].
+
+In this talk,we will develop a method of constructing generic black hole attractor solutions,both BPS and non-BPS,single-centered as well as multicentered,in a large class of 4D $ { \mathcal { N } } \ = \ 2$ supergravities coupled to vectormultiplets with cubic prepotentials.The method is applicable to models for which the 3D moduli spaces obtained via $c ^ { * }$ -map are symmetric coset spaces. All attractor solutions in such a 3D moduli space can be constructed algebraically in a unified way. Then the 3D attractor solutions are mapped back into four dimensions to give 4D extremal black holes.
+
+The outline of the talk is as follows.Section 2 lays out the framework and presents our solution generating procedures; section 3 focuses on the theory of 4D $\mathcal { N } ~ = ~ 2$ supergravity coupled to one vector-multiplet,and shows in detail how to determine the attractor flow generators; section 4 then uses these generators to construct single-centered attractors,both BPS and nonBPS,and proves that generic non-BPS solutions cannot be generated via the harmonic function procedure; section 5 constructs multi-centered solutions, and shows the great contrasts between BPS and non-BPS ones.We end with a discussion on various future directions.
+
+# 2 Framework
+
+# 2.1 3D Moduli Space $\mathcal { M } _ { 3 D }$
+
+The technique of studying stationary configurations of 4D supergravities by dimensionally reducing the 4D theories to 3D non-linear $\sigma$ -models coupled to gravity was described in the pioneering work [24]. The 3D moduli space for 4D ${ \mathcal N } = 2$ supergravity coupled to $n _ { V }$ vector-multiplets is well-studied, for example in [25,26, 27,28]. Here we briefly review the essential points.
+
+The bosonic part of the 4D action is:
+
+$$
+S = - \frac { 1 } { 1 6 \pi } \int d ^ { 4 } x \sqrt { - g ^ { ( 4 ) } } \left[ R - 2 G _ { i \bar { j } } d t ^ { i } \wedge * _ { 4 } d \bar { t } ^ { \bar { j } } - F ^ { I } \wedge G _ { I } \right]
+$$
+
+where $I = 0 , 1 . . . n _ { V }$ ，and $G _ { I } = ( R e \mathcal { N } ) _ { I J } F ^ { J } + ( I m \mathcal { N } ) _ { I J } \ast F ^ { J }$ For a theory endowed with a prepotential $F ( X )$ ， $\begin{array} { r } { \mathcal { N } _ { I J } = F _ { I J } + 2 i \frac { \left( \operatorname { I m } F \cdot X \right) _ { I } \left( \operatorname { I m } F \cdot X \right) _ { J } } { X \cdot \operatorname { I m } F \cdot X } } \end{array}$ where $F _ { I J } = \partial _ { I } \partial _ { J } F ( X )$ [28]. We will consider generic stationary solutions, allowing non-zero angular momentum.The ansatz for the metric and gauge fields are:
+
+$$
+\begin{array} { l } { { d s ^ { 2 } = - e ^ { 2 U } ( d t + \omega ) ^ { 2 } + e ^ { - 2 U } { \bf g } _ { a b } d x ^ { a } d x ^ { b } } } \\ { { A ^ { I } = A _ { 0 } ^ { I } ( d t + \omega ) + { \bf A } ^ { I } } } \end{array}
+$$
+
+where $\mathbf { \delta g } _ { a b }$ is the 3D space metric and bold fonts denote three-dimensional fields and operators. The variables are $3 n _ { V } + 2$ scalars $\{ U , t ^ { i } , { \bar { t } } ^ { i } , A _ { 0 } ^ { I } \}$ ，and （204号 $n _ { V } + 2$ vectors $\{ \omega , \mathbf { A } ^ { I } \}$
+
+The existence of a time-like isometry allows us to reduce the 4D theory to a 3D non-linear $\sigma$ -model on this isometry. Dualizing the vectors $\{ \omega , \mathbf { A } ^ { I } \}$ to the scalars $\{ \sigma , B _ { I } \}$ , and renaming $A _ { 0 } ^ { I }$ as $A ^ { I }$ , we arrive at the 3D Lagrangian, which is a non-linear $\sigma$ -model minimally coupled to 3D gravity:1
+
+$$
+{ \mathcal { L } } = { \frac { 1 } { 2 } } { \sqrt { \mathbf { g } } } ( - { \frac { 1 } { \kappa } } \mathbf { R } + \partial _ { a } \phi ^ { m } \partial ^ { a } \phi ^ { n } g _ { m n } )
+$$
+
+where $\phi ^ { n }$ are the $4 ( n _ { V } + 1 )$ moduli felds $\{ U , t ^ { i } , { \bar { t } } ^ { i } , \sigma , A ^ { I } , B _ { I } \}$ ,and $g _ { m n }$ is the metric of the 3D moduli space $\mathcal { M } _ { 3 D }$ ,whose line element is:
+
+$$
+\begin{array} { l } { { d s ^ { 2 } = \mathbf { d } U ^ { 2 } + \displaystyle \frac { 1 } { 4 } e ^ { - 4 U } ( \mathbf { d } \sigma + A ^ { I } \mathbf { d } B _ { I } - B _ { I } \mathbf { d } A ^ { I } ) ^ { 2 } + g _ { i \bar { j } } ( t , \bar { t } ) \mathbf { d } t ^ { i } \cdot \mathbf { d } \bar { t } ^ { \bar { j } } } } \\ { { \displaystyle ~ + \frac { 1 } { 2 } e ^ { - 2 U } [ ( I m \mathcal { N } ^ { - 1 } ) ^ { I J } ( \mathbf { d } B _ { I } + \mathcal { N } _ { I K } \mathbf { d } A ^ { K } ) \cdot ( \mathbf { d } B _ { J } + \overline { { \mathcal { N } _ { J L } } } \mathbf { d } A ^ { L } ) ] } } \end{array}
+$$
+
+The resulting $\mathcal { M } _ { 3 D }$ isa para-quaternionic-Kähler manifold,with special holonomy $S p ( 2 , \mathbb { R } ) \times S p ( 2 n _ { V } + 2 , \mathbb { R } )$ [29].It is the analytical continuation of the quaternionic-Kähler manifold with special holonomy $U S p ( 2 , \mathbb { R } ) \times U S p ( 2 n _ { V } +$ $2 , \mathbb { R } )$ studied in [26].Thus the vielbein has two indices $( \alpha , A )$ ,transforming under $S p ( 2 , \mathbb { R } )$ and $S p ( 2 n _ { V } + 2 , \mathbb { R } )$ ,respectively. The para-quaternionic vielbein is the analytical continuation of the quaternionic vielbein computed in [26]. This procedure is called the $c ^ { * }$ -map[29],as it is the analytical continuation of the $c$ -map in [25, 26]
+
+The isometries of the $\mathcal { M } _ { 3 D }$ descends from the symmetry of the 4D system. In particular, the gauge symmetries in 4D give the shift isometries of $\mathcal { M } _ { 3 D }$ whose associated conserved charges are:
+
+$$
+q _ { I } d \tau = J _ { A ^ { I } } = P _ { A ^ { I } } - { \cal B } _ { I } P _ { \sigma } , \qquad p ^ { I } d \tau = J _ { B _ { I } } = P _ { B _ { I } } + A ^ { I } P _ { \sigma } , \qquad a d \tau = J _ { \sigma } = P _ { \sigma }
+$$
+
+where the $\{ P _ { \sigma } , P _ { A ^ { I } } , P _ { B _ { I } } \}$ are the momenta.Here $\tau$ is the affine parameter defined as $d \tau \equiv - \ast _ { 3 } \sin \theta d \theta d \phi$ ： $( p ^ { I } , q _ { I } )$ are the D-brane charges,and $a$ the NUT charge. A non-zero $a$ gives rise to closed time-like curves,so we will set $a = 0$ from now on.
+
+# 2.2 Attractor Flow Equations
+
+The E.O.M. of $3 D$ gravity is Einstein's equation:
+
+$$
+{ \bf R } _ { a b } - \frac { 1 } { 2 } { \bf g } _ { a b } { \bf R } = \kappa T _ { a b } = \kappa ( \partial _ { a } \phi ^ { m } \partial _ { b } \phi ^ { n } g _ { m n } - \frac { 1 } { 2 } { \bf g } _ { a b } \partial _ { c } \phi ^ { m } \partial ^ { c } \phi ^ { n } g _ { m n } )
+$$
+
+and the E.O.M. of the 3D moduli are the geodesic equations in $\mathcal { M } _ { 3 D }$
+
+$$
+\nabla _ { a } \nabla ^ { a } \phi ^ { n } + \varGamma _ { m p } ^ { n } \partial _ { a } \phi ^ { m } \partial ^ { a } \phi ^ { p } = 0
+$$
+
+It is not easy to solve a non-linear $\sigma$ -model that couples to gravity. However,the theory greatly simplifies when the 3D spatial slice is flat: the dynamics of the moduli are decoupled from that of $3 D$ gravity:
+
+$$
+T _ { a b } = 0 = \partial _ { a } \phi ^ { m } \partial _ { b } \phi ^ { n } g _ { m n } \qquad \mathrm { a n d } \qquad \partial _ { a } \partial ^ { a } \phi ^ { n } + T _ { m p } ^ { n } \partial _ { a } \phi ^ { m } \partial ^ { a } \phi ^ { p } = 0
+$$
+
+In particular,a single-centered attractor flow then corresponds to a null geodesics in $\mathcal { M } _ { 3 D } \colon d s ^ { 2 } = d \phi ^ { m } d \phi ^ { n } g _ { m n } = 0$ ：
+
+The condition of the 3D spatial slice being flat is guaranteed for BPS attractors,both single-centered and multi-centered, by supersymmetry. Furthermore, for single-centered attractors,both BPS and non-BPS,extremality condition ensures the flatness of the 3D spatial slice. In this paper,we will impose this flat 3D spatial slice condition on all multi-centered non-BPS attractors we are looking for. They correspond to the multi-centered solutions that are directly “assembled” by single-centered attractors,and have properties similar to their single-centered constituents: they live in certain null totally geodesic sub-manifolds of $\mathcal { M } _ { 3 D }$ . We will discuss the relaxation of this condition at the end of the paper.
+
+To summarize,the problem of finding 4D single-centered black hole attractors can be translated into finding appropriate null geodesics in $\mathcal { M } _ { 3 D }$ ，and that of finding 4D multi-centered black hole bound states into finding corresponding 3D multi-centered solutions living in certain null totally geodesic sub-manifold of $\mathcal { M } _ { 3 D }$
+
+The null geodesic that corresponds to a 4D black hole attractor is one that terminates at a point on the $U \to - \infty$ boundary and in the interior region with respect to all other coordinates of the moduli space $\mathcal { M } _ { 3 D }$ .However,it is difficult to find such geodesics since a generic null geodesic flows to the boundary of $\mathcal { M } _ { 3 D }$ . For BPS attractors,the termination of the null geodesic at its attractor point is guaranteed by the constraints imposed by supersymmetry.For non-BPS attractor,one need to find the constraints without the aid of supersymmetry. We will show that this can be done for models with $\mathcal { M } _ { 3 D }$ that are symmetric coset spaces.Moreover, the method can be easily generalized to find the multi-centered non-BPS attractor solutions.
+
+# 2.3 Models with $\mathcal { M } _ { 3 D }$ Being Symmetric Coset Spaces
+
+A homogeneous space $\mathcal { M }$ is a manifold on which its isometry group $\mathbf { G }$ acts transitively.It is isomorphic to the coset space $\mathbf { G } / \mathbf { H }$ ，with $\mathbf { G }$ being the isometry group and $\mathbf { H }$ the isotropy group.For $\mathcal { M } _ { 3 D } = \mathbf { G } / \mathbf { H }$ ， $\mathbf { H }$ is the maximal compact subgroup of $\mathbf { G }$ when one compactifies on a spatial isometry down to $( 1 , 2 )$ space,or the analytical continuation of the maximal compact subgroup when one compactifies on the time isometry down to $( 0 , 3 )$ space.
+
+The Lie algebra $\mathbf { g }$ has Cartan decomposition: $\mathbf { g } = \mathbf { h } \oplus \mathbf { k }$ where
+
+$$
+[ \mathbf { h } , \mathbf { h } ] = \mathbf { h } \qquad [ \mathbf { h } , \mathbf { k } ] = \mathbf { k }
+$$
+
+When $\mathbf { G }$ is semi-simple,the coset space $\mathbf { G } / \mathbf { H }$ is symmetric,meaning:
+
+$$
+[ { \bf k } , { \bf k } ] = { \bf h }
+$$
+
+The building block of the non-linear $\sigma$ -model with symmetric coset space $\mathcal { M } _ { 3 D }$ as target space is the coset representative $M$ ，from which the leftinvariant current is constructed:
+
+$$
+J = M ^ { - 1 } d M = J _ { \mathbf { k } } + J _ { \mathbf { h } }
+$$
+
+where $J _ { \mathbf { k } }$ is the projection of $J$ onto the coset algebra $\mathbf { k }$ . The lagrangian density of the $\sigma$ -model with target space $\mathbf { G } / \mathbf { H }$ is then given by $J _ { \mathbf { k } }$ as:
+
+$$
+{ \mathcal { L } } = \operatorname { T r } ( J _ { \mathbf { k } } \wedge * _ { 3 } J _ { \mathbf { k } } )
+$$
+
+The symmetric coset space has the nice property that its geodesics $M ( \tau )$ are simply generated by exponentiation of the coset algebra $\mathbf { k }$ ：
+
+$$
+M ( \tau ) = M _ { 0 } e ^ { k \tau / 2 } \qquad \mathrm { w i t h } \qquad k \in { \bf k }
+$$
+
+where $M _ { 0 }$ parameterizes the initial point of the geodesic,and the factor $\textstyle { \frac { 1 } { 2 } }$ in the exponent is for later convenience.A null geodesic corresponds to $| k | ^ { 2 } = 0$ Therefore,in the symmetric coset space $\mathcal { M } _ { 3 D }$ ，the problem of finding the null geodesics that terminate at attractor points is translated into finding the appropriate constraints on the null elements of the coset algebra $\mathbf { k }$ ：
+
+The theories with 3D moduli spaces $\mathcal { M } _ { 3 D }$ that are symmetric coset spaces include: $D$ -dimensional gravity toroidally compactified to four dimensions,all 4D $\mathcal { N } \ > \ 2$ extended supergravities,and certain 4D $\mathcal { N } ~ = ~ 2$ supergravities coupled to vector-multiplets with cubic prepotentials. The entropies in the last two classes are U-duality invariant.In this talk,we will focus on the last class. The discussion on the first class can be found in [21].
+
+# Parametrization of $\mathcal { M } _ { 3 D }$
+
+The symmetric coset space $M _ { 3 D } = \mathbf { G } / \mathbf { H }$ can be parameterized by exponentiation of the solvable subalgebra $s o l v$ of $\mathbf { g }$
+
+$$
+\mathcal { M } _ { 3 D } = \mathbf { G } / \mathbf { H } = e ^ { s o l v } \qquad \mathrm { w i t h } \qquad \mathbf { g } = \mathbf { h } \oplus s o l v
+$$
+
+The solvable subalgebra $s o l v$ is determined via Iwasawa decomposition of $\mathbf { g }$ Being semi-simple, $\mathbf { g }$ has Iwasawa decomposition: $\mathbf { g } = \mathbf { h } \oplus \mathbf { a } \oplus \mathbf { n }$ ，where a is the maximal abelian subspace of $\mathbf { k }$ ，and $\mathbf { n }$ the nilpotent subspace of the positive root space $\Sigma ^ { + }$ of $\mathbf { a }$ . The solvable subalgebra $s o l v = \mathbf { a } \oplus \mathbf { n }$ . Each point $\phi ^ { n }$ in $\mathcal { M } _ { 3 D }$ corresponds to a solvable element $\Sigma ( \phi ) = e ^ { s o l v }$ , thus the solvable elements can serve as coset representatives.
+
+We briefly explain how to extract the values of moduli from the coset representative $M$ . Since $M$ is defined up to the action of the isotropy group $\mathbf { H }$ ，we need to construct from $M$ an entity that encodes the values of moduli in an $\mathbf { H }$ -independent way. The symmetric matrix $S$ defined as:
+
+$$
+\boldsymbol { S } \equiv \boldsymbol { M } \boldsymbol { S } _ { 0 } \boldsymbol { M } ^ { T }
+$$
+
+has such a property, where $S _ { 0 }$ is the signature matrix.2 Moreover,as the isometry group $\mathbf { G }$ acts transitively on the space of matrices with signature $S _ { 0 }$ . the space of possible $S$ is the same as the symmetric coset space $\mathcal { M } _ { 3 D } = \mathbf { G } / \mathbf { H }$ 业 Therefore,we can read off the values of moduli from $S$ in an $\mathbf { H }$ -independent way.
+
+The non-linear $\sigma$ -model with target space $\mathcal { M } _ { 3 D }$ can also be described in terms of $S$ instead of $M$ .First,the left-invariant current of $S$ is $J _ { S } = S ^ { - 1 } d S$ which is related to $J _ { \mathbf { k } }$ by:
+
+$$
+J _ { S } = S ^ { - 1 } d S = 2 ( S _ { 0 } M ^ { T } ) ^ { - 1 } J _ { \bf k } ( S _ { 0 } M ^ { T } )
+$$
+
+The lagrangian density in terms of $S$ is thus $\begin{array} { r } { \mathcal { L } = \frac { 1 } { 4 } \mathrm { T r } \big ( J _ { S } \wedge * _ { 3 } J _ { S } \big ) } \end{array}$ .The equation of motion is the conservation of current:
+
+$$
+\nabla \cdot J = \nabla \cdot ( S ^ { - 1 } \nabla S ) = 0
+$$
+
+where we have dropped the subscript $S$ in $J _ { S }$ ， since we will only be dealing with this current from now on.
+
+# 2.4 Example: $n _ { V } = 1$
+
+In this talk,we will perform the explicit computation only for the simplest case: 4D ${ \mathcal N } = 2$ supergravity coupled to one vector-multiplet. The generalization to generic $n _ { V }$ is straightforward. The 3D moduli space $\mathcal { M } _ { 3 D }$ for $n _ { V } = 1$ （204号 is an eight-dimensional quaternionic kähler manifold,with special holonomy $S p ( 2 , \mathbb { R } ) \times S p ( 4 , \mathbb { R } )$ . Computing the killing symmetries of the metric (6) with $n _ { V } = 1$ shows that it is a coset space $G _ { 2 ( 2 ) } / ( S L ( 2 , \mathbb { R } ) \times S L ( 2 , \mathbb { R } ) )$ 3. Figure 1 shows the root diagram of $G _ { 2 ( 2 ) }$ in its Cartan decomposition. The six roots on the horizontal and vertical axes $\{ L _ { h } ^ { \pm } , L _ { h } ^ { 3 } , L _ { v } ^ { \pm } , L _ { v } ^ { 3 } \}$ generate the isotropy subgroup $\mathbf { H } = S L ( 2 , \mathbb { R } ) _ { h } \times S L ( 2 , \mathbb { R } ) _ { v }$ The two vertical columns of eight roots $a _ { \alpha A }$ generate the coset algebra $\mathbf { k }$ ，with index $\alpha$ labeling a spin- $1 / 2$ representation of $S L ( 2 , \mathbb { R } ) _ { h }$ and index $A$ a spin- $3 / 2$ representation of $S L ( 2 , \mathbb { R } ) _ { v }$ =
+
+![](images/d605bbd7ee8adae9b6a8487c61d8e1b75e7d2f4ce5852ca586b53b81c34b4a3c.jpg)  
+Fig.1.Root Diagram of $G _ { 2 ( 2 ) }$ in Cartan Decomposition.
+
+The Iwasawa decomposition, $\textbf { g } = \textbf { h } \oplus \ s o l v$ with $s o l v \ = \ \textbf { a } \oplus \textbf { n }$ is shown in Figure 2. The two Cartan generators $\{ \mathbf { u } , \mathbf { y } \}$ form $\mathbf { a }$ ，while $\mathbf { n }$ is spanned by $\{ { \bf x } , \pmb { \sigma } , { \bf A } ^ { 0 } , { \bf A } ^ { 1 } , { \bf B } _ { 1 } , { \bf B } _ { 0 } \}$ ： $\{ \mathbf { u } , \mathbf { y } \}$ generates the rescaling of $\{ u , y \}$ where $\textit { u } \equiv \textit { e } ^ { 2 U }$ ，and $\{ { \bf x } , \pmb { \sigma } , { \bf A } ^ { 0 } , { \bf A } ^ { 1 } , { \bf B } _ { 1 } , { \bf B } _ { 0 } \}$ generates the translation of $\{ x , \sigma , A ^ { 0 } , A ^ { 1 } , B _ { 1 } , B _ { 0 } \}$ [27].
+
+The moduli space $\mathcal { M } _ { 3 D }$ can be parameterized by solvable elements:
+
+$$
+\Sigma ( \phi ) = e ^ { ( \ln u ) { \bf u } / 2 + ( \ln y ) { \bf y } } e ^ { x { \bf x } + A ^ { I } { \bf A } ^ { I } + B _ { I } { \bf B _ { I } } + \sigma \sigma }
+$$
+
+The symmetric matrix $S$ can then be expressed in terms of the eight moduli $\phi ^ { n }$ ·
+
+$$
+S ( \phi ) = \varSigma ( \phi ) S _ { 0 } \varSigma ( \phi ) ^ { T }
+$$
+
+which shows how to extract the values of moduli from $S$ even when $S$ is not constructed from the solvable elements,since it is invariant under $\mathbf { H }$ -action.
+
+![](images/0497713df239fbafa930f5889756fff0724af4d79d41b7e4ef995a105dc44b27.jpg)  
+Fig.2． Root Diagramof $G _ { 2 ( 2 ) }$ inIwasawa Decomposition. （204号 $\{ { \bf u } , { \bf y } , { \bf x } , \sigma , { \bf A } ^ { 0 } , { \bf A } ^ { 1 } , { \bf B } _ { 1 } , { \bf B } _ { 0 } \}$ generates the solvable subgroup $S o l v$ ：
+
+# 3 Generators of Attractor Flows
+
+In this section,we will solve 3D attractor flow generators $k$ as in (15).We will prove that extremality condition ensures that they are nilpotent elements of the coset algebra $\mathbf { k }$ . In particular, for $n _ { V } ~ = ~ 1$ ，both BPS and non-BPS generators are third-degree nilpotent.However, despite this common feature, $k _ { B P S }$ and $k _ { N B }$ differ in many aspects.
+
+# 3.1 Construction of Attractor Flow Generators
+
+# Construction of $k _ { B P S }$
+
+Since the 4D BPS attractor solutions are already known, one can easily obtain the BPS flow generator $k _ { B P S }$ in the 3D moduli space $\mathcal { M } _ { 3 D }$ ：
+
+The generator $k _ { B P S }$ can be expanded by coset elements $a _ { \alpha A }$ as $k _ { B P S } =$ $a _ { \alpha A } C ^ { \alpha A }$ ，where $C ^ { \alpha A }$ are conserved along the flow. On the other hand, since the conserved currents in the homogeneous space are constructed by projecting the one-form valued Lie algebra $g ^ { - 1 } \cdot d g$ onto $\mathbf { k }$ , a procedure that also gives the vielbein: $J _ { \mathbf { k } } = g ^ { - 1 } d g | _ { \mathbf { k } } = a _ { \alpha A } V ^ { \alpha A }$ ,the vielbein $V ^ { \alpha A }$ are also conserved along thefow: (VaAn)=0.Since boththe expansion coeficients CaA and the vielbein $V ^ { \alpha A }$ transform as $( \mathbf { 2 } , \mathbf { 4 } )$ of $S L ( 2 , \mathbb { R } ) _ { h } \times ( S L ( 2 , \mathbb { R } ) _ { v }$ and are conserved along the flow, they are related by:
+
+$$
+C ^ { \alpha A } = V _ { n } ^ { \alpha A } \dot { \phi } ^ { n }
+$$
+
+up to an overall scaling factor.
+
+In terms of the vielbein $V ^ { \alpha A }$ , the supersymmetry condition that gives the BPS attractors is: $V ^ { \alpha A } = z ^ { \alpha } V ^ { A }$ [29,30,33]. Using (22), we conclude that the 3D BPS flow generator $k _ { B P S }$ has the expansion
+
+$$
+k _ { B P S } = a _ { \alpha A } z ^ { \alpha } C ^ { A }
+$$
+
+A 4D supersymmetric black hole is labeled by four D-brane charges $( p ^ { 0 } , p ^ { 1 } , q _ { 1 } , q _ { 0 } ) .$ A 3D attractor flow generator $k _ { B P S }$ has five parameters $\{ C ^ { A } , z \}$ As will be shown later, $z$ drops off in the final solutions of BPS attractor flows, under the zero NUT charge condition. Thus the geodesics generated by $k _ { B P S }$ （204号 are indeed ina four-parameter family.
+
+（204号 $k _ { B P S }$ can be obtained by a twisting procedure as follows.First,define a $k _ { B P S } ^ { 0 }$ whichisspannedbythefourcoset generators with positivecharges under $S L ( 2 , \mathbb { R } ) _ { h }$ ：
+
+$$
+k _ { B P S } ^ { 0 } \equiv a _ { 1 A } C ^ { A }
+$$
+
+then, conjugate $k _ { B P S } ^ { 0 }$ with lowering operator $L _ { h } ^ { - }$
+
+$$
+k _ { B P S } = e ^ { - z L _ { h } ^ { - } } k _ { B P S } ^ { 0 } e ^ { z L _ { h } ^ { - } }
+$$
+
+Using properties of $k _ { B P S } ^ { 0 }$ , it is easy to check that $k _ { B P S }$ is null:
+
+$$
+| k _ { B P S } | ^ { 2 } = 0
+$$
+
+More importantly, $k _ { B P S }$ is found to be third-degree nilpotent:
+
+$$
+k _ { B P S } ^ { 3 } = 0
+$$
+
+A natural question then arises:Is the nilpotency condition of $k _ { B P S }$ a result of supersymmetry or extremality? If latter,we can use the nilpotency condition as a constraint to solve for the non-BPS attractor generators $k _ { N B }$ . We will prove that this is indeed the case.
+
+# Extremality implies nilpotency of flow generators
+
+We will now prove that all attractor flow generators,both BPS and Non-BPS, are nilpotent elements in the coset algebra $\mathbf { k }$ .It is a result of the near-horizon geometry of extremal black holes.
+
+The near-horizon geometry of a $4 D$ attractor is $A d S _ { 2 } \times S ^ { 2 }$ ,i.e.
+
+$$
+e ^ { - U } \to \sqrt { V _ { B H } } | _ { * } \tau \qquad \mathrm { a s } \qquad \tau \to \infty
+$$
+
+As the flow goes to the near-horizon, i.e., as $u = e ^ { 2 U }  0$ , the solvable element $M = e ^ { ( \ln u ) \mathbf { u } / 2 + \cdots }$ is a polynomial function of $\tau$ ：
+
+$$
+M ( \tau ) \sim u ^ { - \ell / 2 } \sim \tau ^ { \ell }
+$$
+
+where $- \ell$ is the lowest eigenvalue of $\mathbf { u }$ 业
+
+On the other hand, since the geodesic flow is generated by $k \in \textbf { k }$ via $M ( \tau ) = M _ { 0 } e ^ { k \tau / 2 }$ ， $M ( \tau )$ is an exponential function of $\tau$ . To reconcile the two statements,the attractor flow generator $k$ must be nilpotent:
+
+$$
+k ^ { \ell + 1 } = 0
+$$
+
+where the value of $\ell$ depends on the particular moduli space under consideration. In $G _ { 2 ( 2 ) } / S L ( 2 , \mathbb { R } ) ^ { 2 }$ ，by looking at the weights of the fundamental representation,we see that $\ell = 2$ ，thus
+
+$$
+\boldsymbol { k } ^ { 3 } = 0
+$$
+
+The nilpotency condition of the flow generators also automatically guarantees that they are null:
+
+$$
+k ^ { 3 } = 0 \qquad \Longrightarrow \qquad ( k ^ { 2 } ) ^ { 2 } = 0 \qquad \Longrightarrow \qquad \mathrm { T r } ( k ^ { 2 } ) = 0
+$$
+
+# Construction of $k _ { N B }$
+
+To construct non-BPS attractor flows,one needs to find third-degree nilpotent elements in the coset algebra $\mathbf { k }$ that are distinct from the BPS ones.In the real $G _ { 2 ( 2 ) } / S L ( 2 , \mathbb { R } ) ^ { 2 }$ , there are two third-degree nilpotent orbits in total [35]. We have shown that kBPs =e-2LkkBPse2L,with kBps spaned by the four generators with positive charge under $S L ( 2 , \mathbb { R } ) _ { h }$ ：
+
+Since there are only two $S L ( 2 , \mathbb { R } )$ 's inside $\mathbf { H }$ ，a natural guess for $k _ { N B }$ is that it can be constructed by the same twisting procedure with $S L ( 2 , \mathbb { R } ) _ { h }$ replaced by $S L ( 2 , \mathbb { R } ) _ { v }$ ：
+
+$$
+k _ { N B } = e ^ { - z L _ { v } ^ { - } } k _ { N B } ^ { 0 } e ^ { z L _ { v } ^ { - } } \qquad \mathrm { w i t h } \qquad k _ { N B } ^ { 0 } \equiv a _ { \alpha a } C ^ { \alpha a } , \qquad \alpha , a = 1 , 2
+$$
+
+where $k _ { N B } ^ { 0 }$ is spaned by the four generators with positive charge under （204号 $S L ( 2 , \mathbb { R } ) _ { v }$ ：
+
+Using properties of $k _ { N B } ^ { 0 }$ ， one can easily show that $k _ { N B }$ defined above is indeed third-degree nilpotent:
+
+$$
+k _ { N B } ^ { 3 } = 0
+$$
+
+That is, $k _ { N B }$ defined in (33) generates non-BPS attractor flows in $\mathcal { M } _ { 3 D }$
+
+A 4D non-BPS extremal black hole is labeled by four D-brane charges $( p ^ { 0 } , p ^ { 1 } , q _ { 1 } , q _ { 0 } )$ . Similar to the BPS case, the 3D attractor flow generator $k _ { N B }$ （204号 has five parameters $\{ C ^ { \alpha a } , z \}$ . As will be shown later, $z$ can be determined in terms of $\{ C ^ { \alpha a } \}$ using the zero NUT charge condition, thus the geodesics generated by $k _ { N B }$ are also in a four-parameter family.
+
+# 3.2 Properties of Attractor Flow Generators
+
+We choose the representation of $G _ { 2 ( 2 ) }$ group to be the symmetric $7 \times 7$ （20 matrices that preserve a non-degenerate three-form $w _ { i j k }$ such that $\eta _ { i s } ~ \equivq$ （204号 $w _ { i j k } w _ { s t u } w _ { m n o } \epsilon ^ { j k t u m n o }$ is a metric with signature $( 4 , 3 )$ and normalized as （204号 $\eta ^ { 2 } = 1$ . We decompose $\mathbf 7$ as $\mathbf { 3 } \oplus \mathbf { 3 } \oplus \mathbf { 1 }$ of $S L ( 3 , \mathbb { R } )$ and choose the non-zero components of $w$ ， $\mathbf { 3 } \wedge \mathbf { 3 } \wedge \mathbf { 3 }$ ， $\mathbf { 3 } \wedge \mathbf { 3 } \wedge \mathbf { 3 }$ and $\mathbf { 3 } \otimes \mathbf { 3 } \otimes \mathbf { 1 }$ ，as
+
+$$
+w = d x _ { 1 } \wedge d x _ { 2 } \wedge d x _ { 3 } + d y ^ { 1 } \wedge d y ^ { 2 } \wedge d y ^ { 3 } - \frac { 1 } { \sqrt { 2 } } d x _ { a } \wedge d y ^ { a } \wedge d z
+$$
+
+which gives $\eta = d x _ { a } d y ^ { a } - d z ^ { 2 }$ . Written explicitly,an element of $G _ { 2 ( 2 ) }$ Lie algebra is
+
+$$
+g = \left( \begin{array} { c c c } { { A _ { i _ { 1 } } ^ { j _ { 1 } } } } & { { \epsilon _ { i _ { 1 } j _ { 2 } k } v ^ { k } } } & { { \sqrt { 2 } w _ { i _ { 1 } } } } \\ { { \epsilon ^ { i _ { 2 } j _ { 1 } k } w _ { k } } } & { { - A _ { j _ { 2 } } ^ { i _ { 2 } } } } & { { - \sqrt { 2 } v ^ { i _ { 2 } } } } \\ { { - \sqrt { 2 } v ^ { j _ { 1 } } } } & { { \sqrt { 2 } w _ { j _ { 2 } } } } & { { 0 } } \end{array} \right)
+$$
+
+Here $A$ is a traceless 3 $\times$ 3 matrix. The signature matrix $S _ { 0 }$ is thus $\operatorname { D i a g } [ 1 , - 1 , - 1 , 1 , - 1 , - 1 , 1 ]$
+
+The real $G _ { 2 ( 2 ) }$ group has two third-degree nilpotent orbits. In both orbits, $k ^ { 2 }$ is of rank two and has Jordan form with two blocks of size 3. Thus $k ^ { 2 }$ can be written as
+
+$$
+k ^ { 2 } = \sum _ { a , b = 1 , 2 } v _ { a } v _ { b } ^ { T } c _ { a b } S _ { 0 }
+$$
+
+with $v _ { a }$ null and orthogonal to each other: $v _ { a } \cdot v _ { b } \equiv v _ { a } ^ { T } S _ { 0 } v _ { b } = 0$ ，and $c _ { a b }$ （204号 depends on the particular choice of $k$ . Therefore, $k$ can be expressed as:
+
+$$
+k = \sum _ { a = 1 , 2 } ( v _ { a } w _ { a } ^ { T } + w _ { a } v _ { a } ^ { T } ) S _ { 0 }
+$$
+
+where each $w _ { a }$ is orthogonal to both $v _ { a }$ ： $w _ { a } \cdot v _ { b } = 0$ ，and $w _ { a }$ satisfies $w _ { a } \cdot $ （204 $w _ { b } = c _ { a b }$ . Next we solve for $v _ { a }$ and $w _ { a }$ for $k _ { B P S }$ and $k _ { N B }$ and compare their properties.
+
+# Properties of $k _ { B P S }$
+
+The null space of $k ^ { 2 }$ is five-dimensional, with $v _ { a }$ spanning its two-dimensional complement. For kBPs, vBPS and $w _ { a } ^ { B P S }$ in (38) are solved in terms of $C ^ { A }$ and $z$ ：
+
+In basis (36),from inspection of $k _ { B P S } ^ { 2 }$ ， we find that $v _ { a } ^ { B P S }$ can always be chosen to have the form:4
+
+$$
+v _ { 1 } ^ { B P S } = ( V _ { 1 } , - \eta _ { 1 } V _ { 1 } , 0 ) \qquad v _ { 2 } ^ { B P S } = ( - V _ { 2 } , \eta _ { 1 } V _ { 2 } , \sqrt { 2 } )
+$$
+
+where $\eta _ { 1 }$ is a 3D signature matrix $\eta = \mathrm { D i a g } [ 1 , - 1 , - 1 ]$ ，and $V _ { a }$ are two three vectors satisfying
+
+$$
+V _ { 1 } \cdot V _ { 1 } = 0 \qquad V _ { 1 } \cdot V _ { 2 } = 0 \qquad V _ { 2 } \cdot V _ { 2 } = - 1
+$$
+
+We drop the superscript “BPS” for $V _ { a }$ here since,as will be shown later, $v _ { a } ^ { N B }$ can also be written in terms of $V _ { a }$ ,though in a slightly different form.Note that for $k _ { B P S }$ ， $V _ { 2 }$ is defined up to a shift of $V _ { 1 } \colon V _ { 2 } \to V _ { 2 } - c V _ { 1 }$ , since any linear combination of $v _ { a } ^ { B P S }$ forms a new set of $v _ { a } ^ { B P S }$ ：
+
+Writen in twistor representation,5 $V _ { a }$ are given by the twistors $z$ and $u$ as
+
+$$
+V _ { 1 } ^ { \alpha \beta } = 2 z ^ { \alpha } z ^ { \beta } \qquad V _ { 2 } ^ { \alpha \beta } = z ^ { \alpha } u ^ { \beta } + z ^ { \beta } u ^ { \alpha }
+$$
+
+where we have used the rescaling freedom to set $z ^ { 1 } u ^ { 2 } - z ^ { 2 } u ^ { 1 } = 1$ . Note that for $k _ { B P S }$ ,the twistor $u$ is arbitrary, due to the shift freedom of $V _ { 2 }$
+
+The condition wBPs . $w _ { a } ^ { B P S } \cdot v _ { b } ^ { B P S } = 0$ dictates that $w _ { a } ^ { B P S }$ has the form:
+
+$$
+w _ { 1 } ^ { B P S } = ( W _ { 1 } ^ { B P S } , \eta _ { 1 } W _ { 1 } ^ { B P S } , 0 ) \qquad w _ { 2 } ^ { B P S } = ( W _ { 2 } ^ { B P S } , \eta _ { 1 } W _ { 2 } ^ { B P S } , 0 )
+$$
+
+with $W _ { a } ^ { B P S }$ solved as:
+
+$$
+( W _ { 1 } ^ { B P S } , W _ { 2 } ^ { B P S } ) ^ { \alpha \beta } = ( P ^ { \alpha \beta \gamma } u _ { \gamma } , P ^ { \alpha \beta \gamma } z _ { \gamma } )
+$$
+
+where the totally symmetric $P ^ { \alpha \beta \gamma }$ is defined in terms of $C ^ { A }$ as
+
+$$
+\ O = C ^ { 1 } \qquad P ^ { 1 1 2 } = C ^ { 2 } \qquad P ^ { 1 2 2 } = C ^ { 3 } \qquad P ^ { 2 2 2 } =
+$$
+
+In summary, $v _ { a } ^ { B P S }$ span a one-dimensional space (since $u$ is arbitrary） and wBPs span a four-dimensional space.
+
+# 3.3 Properties of $k _ { N B }$
+
+$( v _ { a } ^ { N B } , w _ { a } ^ { N B } )$ are solved in terms of $\{ C ^ { \alpha a } , z \}$ . The forms of $v _ { a } ^ { N B }$ are only slightly different from those of $v _ { a } ^ { B P S }$ ：
+
+$$
+\begin{array} { r l r } { v _ { 1 } ^ { N B } = ( V _ { 1 } , \eta _ { 1 } V _ { 1 } , 0 ) } & { { } } & { v _ { 2 } ^ { N B } = ( V _ { 2 } , - \eta _ { 1 } V _ { 2 } , \sqrt { 2 } ) } \end{array}
+$$
+
+where $V _ { a }$ are the same three-vectors given in (41),with one major difference: the twistor $u$ is no longer arbitrary, but is determined by $C ^ { \alpha a }$ as
+
+$$
+u = \frac { u ^ { 2 } } { u ^ { 1 } } = \frac { C ^ { 2 2 } } { C ^ { 1 2 } }
+$$
+
+since the $V _ { 2 }$ in $v _ { a } ^ { N B }$ no longer has the shift freedom.
+
+The forms of $w _ { a } ^ { N B }$ are also only slightly diferent from the BPS ones (42):
+
+$$
+w _ { 1 } ^ { N B } = ( W _ { 1 } ^ { N B } , - \eta _ { 1 } W _ { 1 } ^ { N B } , 0 ) \qquad w _ { 2 } ^ { N B } = ( W _ { 2 } ^ { N B } , \eta _ { 1 } W _ { 2 } ^ { N B } , 0 )
+$$
+
+with $W _ { a } ^ { N B }$ solved in terms of $\{ C ^ { \alpha a } , z , u \}$ as:
+
+$$
+\begin{array} { r l } & { ( W _ { 1 } ^ { N B } ) ^ { \alpha \beta } = u ^ { \alpha } u ^ { \beta } + ( C ^ { 1 1 } u ^ { 2 } - C ^ { 1 2 } u ^ { 1 } ) z ^ { \alpha } z ^ { \beta } } \\ & { ( W _ { 2 } ^ { N B } ) ^ { \alpha \beta } = ( z ^ { \alpha } u ^ { \beta } + u ^ { \alpha } z ^ { \beta } ) + ( C ^ { 2 1 } - C ^ { 1 1 } z - 3 u ^ { 1 } ) z ^ { \alpha } z ^ { \beta } } \end{array}
+$$
+
+Since the value of $u$ imposes an extra constraint on the vectors $w _ { a } ^ { N B }$ via (46), $w _ { a } ^ { N B }$ span a thre-dimensional space instead of a four-dimensional one as in theBPScase(43).Inuyotrsttothse $v _ { a } ^ { N B }$ span a two-dimensional space and $w _ { a } ^ { N B }$ spana three-dimensionalone.
+
+# 4Single-centered Attractor Flows
+
+Having solved the attractor flow generators for both BPS and non-BPS case, we are ready to construct single-centered attractor flows.A geodesic starting from arbitrary asymptotic moduli is given by $M ( \tau ) = M _ { 0 } e ^ { k \tau / 2 }$ ，which gives the flow of $S$ as $S ( \tau ) = M _ { 0 } e ^ { k \tau } S _ { 0 } M _ { 0 } ^ { T }$ , which in turn can be written as $S ( \tau ) =$ （204号 $e ^ { K ( \tau ) } S _ { 0 }$ ，where $K ( \tau )$ is a matrix function. From now on, we use capital $K$ （204号 to denote the matrix function which we exponentiate to generate attractor solutions.
+
+The current of $S$ is
+
+$$
+J = S ^ { - 1 } \nabla S = S _ { 0 } \left( \nabla K + [ \nabla K , K ] + \frac { 1 } { 2 } [ [ \nabla K , K ] , K ] + \cdot \cdot \cdot \right) S _ { 0 }
+$$
+
+The equation of motion is the conservation of currents: $\nabla \cdot ( S ^ { - 1 } \nabla S ) = 0$ . which is solved by $K ( \tau )$ being harmonic:
+
+$$
+\nabla ^ { 2 } K ( \tau ) = 0 \qquad \Longrightarrow \qquad K ( \tau ) = k \tau + g
+$$
+
+（20 $g$ parameterizes the asymptotic moduli. Using the $\mathbf { H }$ -action, we can adjust $g$ such that $g \in \textbf { k }$ ，and $g$ has the same properties as the flow generator $k$ namely, $g ^ { 3 } \ = \ 0$ and $g ^ { 2 }$ is of rank two.Therefore,for single-centered flow given by $S ( \tau ) = e ^ { K ( \tau ) } S _ { 0 }$ , the harmonic matrix function $K ( \tau )$ has the same properties as the flow generator $k$ ：
+
+$$
+K ^ { 3 } ( \tau ) = 0 \qquad \mathrm { a n d } \qquad K ^ { 2 } ( \tau ) \ \mathrm { r a n k \ t w o }
+$$
+
+To find the harmonic $K ( \tau )$ that satisfies the constraints (52),recall that the constraints dictate $K ( \tau )$ to have the form:
+
+$$
+K ( \tau ) = \sum _ { a = 1 , 2 } ( v _ { a } ( \tau ) w _ { a } ( \tau ) ^ { T } + w _ { a } ( \tau ) v _ { a } ( \tau ) ^ { T } ) S _ { 0 }
+$$
+
+with $v _ { a } ( \tau )$ being null and $w _ { a } ( \tau )$ orthogonal to $v _ { b } ( \tau )$ for all $\tau$ . Then the constraints (52） can simply be solved by choosing $v _ { a } ( \tau )$ to be the constant null vectors $v _ { a } ( \tau ) = v _ { a }$ and $w _ { a } ( \tau )$ to be harmonic vectors which are everywhere orthogonal to $v _ { b }$
+
+$$
+w _ { a } ( \tau ) = w _ { a } \tau + m _ { a } \qquad \mathrm { w i t h } \qquad w _ { a } \cdot v _ { b } = m _ { a } \cdot v _ { b } = 0
+$$
+
+The two 7-vectors $w _ { a }$ 's contain the information of the black hole charges,and the two 7-vectors $m _ { a }$ 's contain that of asymptotic moduli.
+
+To summarize,the single-centered attractor flow starting from an arbitrary asymptotic moduli is generated by $S ( \tau ) = e ^ { K ( \tau ) } S _ { 0 }$ ，with harmonic matrix function $K ( \tau ) = k \tau + g$ where
+
+$$
+k = \sum _ { a = 1 , 2 } [ v _ { a } w _ { a } ^ { T } + w _ { a } v _ { a } ^ { T } ] S _ { 0 } \qquad \mathrm { a n d } \qquad g = \sum _ { a = 1 , 2 } [ v _ { a } m _ { a } ^ { T } + m _ { a } v _ { a } ^ { T } ] S _ { 0 }
+$$
+
+Since $k$ and $g$ share the same set of null vectors $v _ { a }$ and both $w _ { a }$ and $m _ { a }$ are orthogonal to $v _ { b }$ ， $g$ has the same form as that of flow generator $k$ ,namely:
+
+$$
+g _ { B P S } = a _ { \alpha A } z ^ { \alpha } G ^ { A } \qquad g _ { N B } = e ^ { - z L _ { v } ^ { - } } ( a _ { \alpha a } G ^ { \alpha a } ) e ^ { z L _ { v } ^ { - } }
+$$
+
+which guarantees that $g$ is also third-degree nilpotent.Moreover,that $g$ and $k$ have the same form implies $[ [ k , g ] , g ] = 0$ , thus the current is reduced to
+
+$$
+J = \frac { S _ { 0 } ( k + \frac { 1 } { 2 } [ k , g ] ) S _ { 0 } } { r ^ { 2 } } \hat { r }
+$$
+
+from which we can solve $v _ { a }$ and $w _ { a }$ in terms of charges and asymptotic moduli.
+
+Now that we are able to construct arbitrary attractor flows in the 3D moduli space,we can lift them to the 4D black hole attractor solution. First, in representation given by (36),the 4D moduli $t = x + i y$ can be extracted from the symmetric matrix $S$ via:
+
+$$
+x ( \tau ) = - \frac { S _ { 3 5 } ( \tau ) } { S _ { 3 3 } ( \tau ) } \qquad y = \sqrt { \frac { S _ { 3 3 } ( \tau ) S _ { 5 5 } ( \tau ) - S _ { 3 5 } ( \tau ) ^ { 2 } } { S _ { 3 3 } ( \tau ) ^ { 2 } } }
+$$
+
+and $u = e ^ { 2 U }$ via:
+
+$$
+u = \frac { 1 } { \sqrt { S _ { 3 3 } ( \tau ) S _ { 5 5 } ( \tau ) - S _ { 3 5 } ( \tau ) ^ { 2 } } }
+$$
+
+Since both $k$ and $g$ are third-degree nilpotent, $S ( \tau )$ is a quadratic function of $\tau$ .Moreover，since $g$ has the same form as $k$ ， $S ( \tau )$ is composed of harmonic functions of $\tau \colon H ^ { A } ( \tau ) \equiv C ^ { A } \tau + G ^ { A }$ for BPS attractors and $H ^ { \alpha a } ( \tau ) \equiv C ^ { \alpha a } \tau +$ （204号 $G ^ { \alpha a }$ for non-BPS attractors.6 Generic single-centered attractor flows with arbitrary charges and asymptotic moduli can thus be generated.The attractor moduli are read off from $S ( \tau )$ with $\tau  \infty$ ，and asymptotic moduli with （204号 $\tau  0$ ：
+
+The D-brane charges can be read off from the charge matrix defined as （204号 $\begin{array} { r } { \mathbf { Q } \equiv \frac { 1 } { 4 \pi } \int \nabla \cdot \boldsymbol { J } } \end{array}$ . The $4 D$ gauge currents sit in the current $J = { S } ^ { - 1 } \nabla S$ as:
+
+$$
+\left( J _ { 3 1 } , J _ { 5 1 } , J _ { 7 2 } , J _ { 1 2 } , J _ { 3 2 } \right) = \left( { \sqrt 2 } J _ { B _ { 0 } } , - { \sqrt 2 } J _ { B _ { 1 } } , { \frac { 2 } { 3 } } J _ { A ^ { 1 } } , { \sqrt 2 } J _ { A ^ { 0 } } , - 2 J _ { \sigma } \right)
+$$
+
+Therefore $\mathbf { Q }$ relates to the D-brane charge $( p ^ { 0 } , p ^ { 1 } , q _ { 1 } , q _ { 0 } )$ and the vanishing NUT charge $a$ by
+
+$$
+( { \bf Q } _ { 3 1 } , { \bf Q } _ { 5 1 } , { \bf Q } _ { 7 2 } , { \bf Q } _ { 1 2 } ) = ( \sqrt { 2 } p ^ { 0 } , - \sqrt { 2 } p ^ { 1 } , \frac { 2 } { 3 } q _ { 1 } , \sqrt { 2 } q _ { 0 } ) \qquad { \bf Q } _ { 3 2 } = - 2 a = 0
+$$
+
+# 4.1 Single-Centered BPS Attractor Flows
+
+As an example,a single-centered BPS black hole constructed by lifting the attractor solution in $\mathcal { M } _ { 3 D }$ is shown in Figure 3. It has D-brane charges $( p ^ { 0 } , p ^ { 1 } , q _ { 1 } , q _ { 0 } ) = ( 5 , 2 , 7 , - 3 )$ . The four flows,starting from different asymptotic moduli, terminate at the attractor point $( x _ { B P S } ^ { * } , y _ { B P S } ^ { * } )$ with different tangent directions.The reason is that the mass matrix of the black hole potential $V _ { B H }$ at the BPS critical point has two identical eigenvalues,thus there is no preferred direction for the geodesics to flow to the attractor point.
+
+We now discuss in detail how to determine $k _ { B P S }$ and $g _ { B P S }$ for given charges and asymptotic moduli. There are nine parameters in $k _ { B P S }$ and $g _ { B P S }$ $\{ C ^ { A } , G ^ { A } , z \}$ ， since the twistor $u$ is arbitrary. On the other hand, there are eight constraints in a given attractor flow: four D-brane charges $( p ^ { I } , q _ { I } )$ ，the vanishing NUT charge $a$ ，and the asymptotic moduli $( x _ { 0 } , y _ { 0 } , u _ { 0 } )$ .7We will use these eight constraints to fix $C ^ { A }$ and $G ^ { A }$ in $k _ { B P S }$ and $g _ { B P S }$ , leaving the twistor $z$ unfixed.
+
+Integrating the current (57) for BPS case produces five coupled equations:
+
+$$
+\mathbf { Q } _ { B P S } = S _ { 0 } ( k _ { B P S } + \frac { 1 } { 2 } [ k _ { B P S } , g _ { B P S } ] ) S _ { 0 }
+$$
+
+where $[ k _ { B P S } , g _ { B P S } ] = \langle C , G \rangle \theta$ ,with $\langle C , G \rangle \equiv C ^ { 1 } G ^ { 4 } - 3 C ^ { 2 } G ^ { 3 } + 3 C ^ { 3 } G ^ { 2 } - C ^ { 4 } G ^ { 1 }$ and $\theta \equiv - \frac { 4 } { 1 + z ^ { 2 } } e ^ { - z L _ { h } ^ { - } } L _ { h } ^ { + } e ^ { z L _ { h } ^ { - } }$
+
+In order to show that the BPS flow can be expressed in terms of harmonic functions: $H ( \tau ) = Q \tau + h$ ，with $Q \equiv ( p ^ { I } , q _ { I } )$ and $h \equiv ( h ^ { I } , h _ { I } )$ ，we will solve $g _ { B P S }$ in terms of $h$ instead of $( x _ { 0 } , y _ { 0 } , u _ { 0 } )$ ： $h$ relates to the asymptotic moduli by
+
+$$
+( x _ { 0 } , y _ { 0 } , u _ { 0 } ) _ { B P S } = ( x , y , u ) _ { B P S } ^ { * } ( Q \to h )
+$$
+
+and there is one extra degree of freedom to be fixed later.
+
+![](images/283a960afe3ece00f6f9e1239b046709c92369d402524b4dbc6d845660a27a20.jpg)  
+Fig. 3.BPS flow with charge $( p ^ { 0 } , p ^ { 1 } , q _ { 1 } , q _ { 0 } ) \ = \ ( 5 , 2 , 7 , - 3 )$ and attractor point$( x ^ { * } , y ^ { * } ) = ( 0 . 3 2 9 7 8 7 , 0 . 7 8 8 5 0 3 )$ .The initial points of each flow are given by ( $x _ { 1 } =$ （204号 $1 . 5 , y _ { 1 } = 0 . 5$ ），( $x _ { 2 } = 2 , y _ { 2 } = 4 ,$ ， $x _ { 3 } = - 0 . 2 , y _ { 3 } = 0 . 1 )$ （ $x _ { 4 } = - 1 , y _ { 4 } = 3$ ）
+
+First,for later convenience,we separate from $g _ { B P S }$ a piece that has the same dependence on $( h , z )$ as $k _ { B P S }$ on $( Q , z )$
+
+$$
+g _ { B P S } = g _ { B P S , h } + \varLambda \qquad \mathrm { w i t h } \qquad g _ { B P S , h } \equiv k _ { B P S } ( Q  h , z )
+$$
+
+that is, $g _ { B P S , h } = a _ { \alpha A } z ^ { \alpha } G _ { h } ^ { A }$ with $G _ { h } ^ { A } \equiv C ^ { A } ( Q \to h )$ . We can use the unfixed degree of freedom in $h$ to set $\langle C , G _ { h } \rangle = 0$ ,so that (62） simplifies into
+
+$$
+\mathbf { Q } _ { B P S } = S _ { 0 } ( k _ { B P S } + \frac { 1 } { 2 } [ k _ { B P S } , A ] ) S _ { 0 }
+$$
+
+$\varLambda$ can then be determined using the three constraints from (63) and the zero NUT charge condition in (65): $\varLambda = a _ { \alpha A } z ^ { \alpha } E ^ { A }$ with $\begin{array} { r } { E ^ { 1 } = - E ^ { 3 } = - \frac { 1 } { 1 + z ^ { 2 } } } \end{array}$ 1+z2and $\begin{array} { r } { E ^ { 2 } = - E ^ { 4 } = \frac { z } { 1 + z ^ { 2 } } } \end{array}$ . The form of $\varLambda$ will ensure that the twistor $z$ drops off in the final attractor flow solution written in terms of $Q$ and $h$
+
+The remaining four conditions in the coupled equations (65) determine $C ^ { A }$ （20 as functions of D-brane charges and the twistor $z \colon C ^ { A } = C ^ { A } ( Q , z )$ .8 Then $G _ { h } ^ { A }$ （204 are given by $G _ { h } ^ { A } = C ^ { A } ( Q \to h , z )$ . The product $\langle C ^ { A } , G _ { h } ^ { A } \rangle$ is proportional to the symplectic product of $( p ^ { I } , q _ { I } )$ and $( h ^ { I } , h _ { I } )$
+
+$$
+\langle C ^ { A } , G _ { h } ^ { A } \rangle = \frac { 2 } { 1 + z ^ { 2 } } < Q , h > \qquad \mathrm { w h e r e } \qquad < Q , h > \equiv p ^ { 0 } h _ { 0 } + p ^ { 1 } h _ { 1 } - q _ { 1 } h ^ { 1 } - q _ { 0 } h ^ { 0 }
+$$
+
+The condition $\langle C ^ { A } , G _ { h } ^ { A } \rangle \ = \ 0$ is then the integrability condition on $h$ $<$ $Q , h > = 0$ ：
+
+BPS attractor flows in terms of $( p ^ { I } , q _ { I } )$ and $( h ^ { I } , h _ { I } )$ are obtained by substituting solutions of $C ^ { A } ( Q , z )$ and $G _ { h } ^ { A } ( h , z )$ into the flow of $S ( \tau )$ . The attractor moduli are determined by the charges as:
+
+$$
+x _ { B P S } ^ { \ast } = - \frac { p ^ { 0 } q _ { 0 } + p ^ { 1 } \frac { q _ { 1 } } { 3 } } { 2 [ ( p ^ { 1 } ) ^ { 2 } + p ^ { 0 } \frac { q _ { 1 } } { 3 } ] } \qquad y _ { B P S } ^ { \ast } = \frac { \sqrt { J _ { 4 } ( p ^ { 0 } , p ^ { 1 } , \frac { q _ { 1 } } { 3 } , q _ { 0 } ) } } { 2 [ ( p ^ { 1 } ) ^ { 2 } + p ^ { 0 } \frac { q _ { 1 } } { 3 } ] }
+$$
+
+where $J _ { 4 } ( p ^ { 0 } , p ^ { 1 } , q _ { 1 } , q _ { 0 } )$ is the quartic $E _ { 7 ( 7 ) }$ invariant:
+
+$$
+J _ { 4 } ( p ^ { 0 } , p ^ { 1 } , q _ { 1 } , q _ { 0 } ) = 3 ( p ^ { 1 } q _ { 1 } ) ^ { 2 } - 6 ( p ^ { 0 } q _ { 0 } ) ( p ^ { 1 } q _ { 1 } ) - ( p ^ { 0 } q _ { 0 } ) ^ { 2 } - 4 ( p ^ { 1 } ) ^ { 3 } q _ { 0 } + 4 p ^ { 0 } ( q _ { 1 } ) ^ { 3 }
+$$
+
+thus $J _ { 4 } ( p ^ { 0 } , p ^ { 1 } , \frac { q _ { 1 } } { 3 } , q _ { 0 } )$ is the discriminant of charges. Charges with positive (negative) $J _ { 4 } ( p ^ { 0 } , p ^ { 1 } , \frac { q _ { 1 } } { 3 } , q _ { 0 } )$ form a BPS (non-BPS) black hole.The attractor value of $u$ is $u _ { B P S } ^ { * } = 1 / \sqrt { J _ { 4 } ( p ^ { 0 } , p ^ { 1 } , \frac { q _ { 1 } } { 3 } , q _ { 0 } ) }$ . The constraint on $h$ from $u _ { 0 } = 1$ is then $\begin{array} { r } { J _ { 4 } ( h ^ { 0 } , h ^ { 1 } , \frac { h _ { 1 } } { 3 } , h _ { 0 } ) = 1 } \end{array}$ Theattractor moduli (67)matchthosefromType II string compactifed on diagonal $T ^ { 6 }$ ，with $q _ { 1 } \to { \frac { q _ { 1 } } { 3 } }$ ：
+
+Now we will prove that the BPS attractor flows constructed above can indeed be generated by the“naive”harmonic function procedure,namely, by replacing charges $Q$ in the attractor moduli with the corresponding harmonic functions $Q \tau + h$ . First,using the properties of $\varLambda$ , the flow of $t = x + i y$ can be generated from the attractor moduli by replacing $k _ { B P S }$ with the harmonic function kBPsT+ gBPS,h:
+
+$$
+t _ { B P S } ( \tau ) = t _ { B P S } ^ { * } ( k _ { B P S }  k \tau + g _ { B P S , h } )
+$$
+
+Then，since $k _ { B P S }$ and $g _ { B P S , h }$ share the same twistor $z$ ,this is equivalent to replacing $C ^ { A }$ with harmonic functions $H ^ { A } ( \tau ) = C ^ { A } \tau + G _ { h } ^ { A }$ while keeping the twistor $z$ fixed:
+
+$$
+t _ { B P S } ( \tau ) = t _ { B P S } ^ { * } ( C ^ { A }  C ^ { A } \tau + G _ { h } ^ { A } , z )
+$$
+
+Finally, since $C ^ { A }$ is linear in $Q$ and $G _ { h } ^ { A }$ linear in $h$ , and since $z$ drops off after plugging in the solutions $C ^ { A } ( Q , z )$ and $G _ { h } ^ { A } ( h , z )$ , we conclude that the flow of $t _ { B P S } ( \tau )$ is given by replacing the charges $Q$ in the attractor moduli with the corresponding harmonic functions $Q \tau + h$ ：
+
+$$
+t _ { B P S } ( \tau ) = t _ { B P S } ^ { * } ( Q  Q \tau + h )
+$$
+
+# 4.2 Single-Centered Non-BPS Attractor Flows
+
+A non-BPS attractor flow with generic charges and asymptotic moduli can be generated using the method detailed earlier.Figure 4 shows an example of non-BPS attractor flow with charges $( p ^ { 0 } , p ^ { 1 } , q _ { 1 } , q _ { 0 } ) = ( 5 , 2 , 7 , 3 )$ . Note that $J _ { 4 } ( 5 , 2 , 7 / 3 , 3 ) < 0$ ， so this is indeed a non-BPS black hole.
+
+![](images/717e61301d6dcfc496170631f17d8f75dc6dea1b3822389ab78e34fabdfb2910.jpg)  
+Fig. 4. Non-BPS flow with charges $( p ^ { 0 } , p ^ { 1 } , q _ { 1 } , q _ { 0 } ) = ( 5 , 2 , 7 , 3 )$ and attractor point $( x ^ { * } , y ^ { * } ) = ( - 0 . 3 2 3 3 8 5 , 0 . 5 8 0 3 7 5 )$ . The initial points of each flow are given by: ( $\ b { x } _ { 1 } =$ （204号 $0 . 5 3 9 6 2 4 , y _ { 1 } = 5 . 4 6 1 1 3 5 ,$ ， $x _ { 2 } \ = \ 1 . 6 7 9 8 4 , y _ { 2 } \ = \ 0 . 5 1 8 7 2 5 )$ （， $x _ { 3 } = - 0 . 4 3 2 8 1 1 , y _ { 3 } =$ （204号 0.289493)，( $x _ { 4 } = 1 . 2 8 4 4 7$ ， $y _ { 4 } = 1 . 4 9 8 1 5$ ）， $\begin{array} { r } { ' x _ { 5 } = - 0 . 4 9 9 4 9 1 , y _ { 5 } = 0 . 1 8 1 7 4 4 , } \end{array}$ ！
+
+Unlike the BPS attractor flows,all non-BPS flows starting from different asymptotic moduli reach the attractor point with the same tangent direction. The reason is,unlike the BPS case,the mass matrix of the black-hole potential $V _ { B H }$ at a non-BPS critical point has two different eigenvalues.The common tangent direction for the non-BPS flows corresponds to the eigenvector associated with the smaller mass.
+
+Now we discuss how to determine $k _ { N B }$ and $g _ { N B }$ for given D-brane charges and asymptotic moduli.Unlike the BPS case, there are only eight parameters in $k _ { N B }$ and $g _ { N B }$ : the two twistors $\{ z , u \}$ and $\{ C ^ { \alpha a } , G ^ { \alpha a } \}$ under the constraints $\begin{array} { r } { u = \frac { C ^ { 2 : 2 } } { C ^ { 1 2 } } = \frac { G ^ { 2 : 2 } } { G ^ { 1 2 } } } \end{array}$ . On the other hand, there are stilleight constraints in a given non-BPS attractor flow as in the BPS case. Therefore, while $k _ { B P S }$ and $g _ { B P S }$ （20 can parameterize black holes with arbitrary $( p ^ { I } , q _ { I } )$ and $( x _ { 0 } , y _ { 0 } )$ while leaving $\{ z , u \}$ free,all the parameters in $k _ { N B }$ and $g _ { N B }$ , including $\{ z , u \}$ ,will be fixed.
+
+Another major difference from the BPS case is that
+
+$$
+[ k _ { N B } , g _ { N B } ] = 0
+$$
+
+guaranteed by the form of $v _ { a } ^ { N B }$ and $w _ { a } ^ { N B }$ . Thus the charge equation (62) becomes simply
+
+$$
+{ \bf Q } _ { N B } = S _ { 0 } ( k _ { N B } ) S _ { 0 }
+$$
+
+Unlike the BPS case, $g _ { N B }$ does not enter the charge equations, thus cannot be used to eliminate the dependence on the twistor $z$ .The three degrees of freedom in $g _ { N B }$ are simply fixed by the asymptotic moduli $( x _ { 0 } , y _ { 0 } )$ and （204号 $u _ { 0 } = 1$ ，without invoking the zero NUT charge condition. The four D-brane charges equations in （73) determine $C ^ { \alpha a } = C ^ { \alpha a } ( Q , z )$ ,9 which then fixes $u$ via $\begin{array} { r } { u = \frac { C ^ { 2 2 } } { C ^ { 1 2 } } } \end{array}$ . Finally, the zero NUT charge condition imposes a degree-six equation on twistor $z$ ：
+
+$$
+p ^ { 0 } z ^ { 6 } + 6 p ^ { 1 } z ^ { 5 } - ( 3 p ^ { 0 } + 4 q _ { 1 } ) z ^ { 4 } - 4 ( 3 p ^ { 1 } - 2 q _ { 0 } ) z ^ { 3 } + ( 3 p ^ { 0 } + 4 q _ { 1 } ) z ^ { 2 } + 6 p ^ { 1 } z - p ^ { 0 } = 0
+$$
+
+Similar to the BPS case, the full non-BPS attractor flow can be generated from the attractor moduli by replacing $C ^ { \alpha a }$ with the harmonic function $H ^ { \alpha a } ( \tau ) = C ^ { \alpha a } \tau + G ^ { \alpha a }$ ，while keeping $z$ fixed as in (70):
+
+$$
+t _ { N B } ( \tau ) = t _ { N B } ^ { * } ( C ^ { \alpha a }  C ^ { \alpha a } \tau + G ^ { \alpha a } , z )
+$$
+
+However, there are two important differences. First, the harmonic functions $H ^ { \alpha a }$ have to satisfy the constraint:10
+
+$$
+\frac { H ^ { 2 2 } ( \tau ) } { H ^ { 1 2 } ( \tau ) } = u = \frac { C ^ { 2 2 } } { C ^ { 1 2 } } = \frac { G ^ { 2 2 } } { G ^ { 1 2 } }
+$$
+
+Second,unlike the BPS flow,a generic non-BPS flow cannot be given by the“naive” harmonic function procedure:
+
+$$
+t _ { N B } ( \tau ) \neq t _ { N B } ^ { * } ( Q  Q \tau + h )
+$$
+
+The reason is that the twistor $z$ in a non-BPS solution is no longer free as in the BPS case, but is determined in terms of D-brane charges via (74).Thus replacing $Q$ with $Q \tau + h$ , for generic $Q$ and $h$ , would not leave $z$ invariant.That is, replacing $C ^ { \alpha a }$ in the attractor moduli with harmonic functions $H ^ { \alpha a } ( \tau )$ is not equivalent to replacing the charges $Q$ with $H = Q \tau + h$ as in the BPS case (71).
+
+It is interesting to find the subset of non-BPS single-centered flows that can be constructed via the “naive” harmonic function procedure.The $n _ { V } = 1$ （204号 system can be considered as the STU model with the three moduli $( S , T , U )$ identified. Since the STU model has an $S L ( 2 , \mathbb { Z } ) ^ { 3 }$ duality symmetry at the level of E.O.M., the $n _ { V } = 1$ system has an $S L ( 2 , \mathbb { Z } )$ duality symmetry coming from identifying these three SL(2,Z)'s, namely, Γ = ( ${ \hat { \Gamma } } = { \binom { a \ b } { c \ d } } \otimes { \binom { a \ b } { c \ d } } \otimes { \binom { a \ b } { c \ d } }$ with $a d - b c = 1$ . The modulus $t = x + i y$ transforms as $\begin{array} { r } { t  \hat { T } t = \frac { a t + b } { c t + d } } \end{array}$ ， and the transformation on the charges is given by [34].
+
+Given an arbitrary charge $Q$ , there exists a transformation $\hat { I } _ { Q }$ such that $Q = \hat { I } _ { Q } Q _ { 4 0 }$ for some D4-D0 charge system $Q _ { 4 0 } = ( 0 , p ^ { 1 } , 0 , q _ { 0 } )$ . The solution of (74) with charge $Q = \hat { { \cal { I } } } _ { Q } Q _ { 4 0 }$ has a root $\textstyle z = { \frac { a \pm { \sqrt { a ^ { 2 } + c ^ { 2 } } } } { c } }$ , independent of $Q _ { 4 0 }$ Thus for arbitrary $h _ { 4 0 } = ( 0 , h ^ { 1 } , 0 , h _ { 0 } )$ ，replacing $Q$ with $Q \tau + \hat { I } _ { Q } h _ { 4 0 }$ would leave the twistor $z$ invariant.We thus conclude that the non-BPS singlecentered attractor flows that can be generated from their attractor moduli via the “naive” harmonic function procedure are only those with $( Q , h )$ being the image of a single transformation $\hat { \cal T }$ on a D4-D0 system $( Q _ { 4 0 } , h _ { 4 0 } )$
+
+$$
+t _ { N B } ( \tau ) = t _ { N B } ^ { * } ( \hat { \cal { I } } Q _ { 4 0 } \longrightarrow \hat { \cal { I } } Q _ { 4 0 } \tau + \hat { \cal { I } } h _ { 4 0 } )
+$$
+
+# 5 Multi-Centered Attractor Flows
+
+Similar to the single-centered attractor solutions,the multi-centered ones are constructed by exponentiating harmonic matrix functions $K ( { \pmb x } )$
+
+$$
+S ( { \pmb x } ) = e ^ { K ( { \pmb x } ) } S _ { 0 }
+$$
+
+Recall that for single-centered attractors,using the $\mathbf { H }$ -action on $g$ ， $K ( \tau ) =$ $k \tau + g$ can be adjusted to have the same properties as the flow generator $k$ （204号 as in (52). For BPS multi-centered solutions, supersymmetry guarantees that the matrix function $K ( { \pmb x } )$ also has the same properties as the generator $k$ ：
+
+$$
+K ^ { 3 } ( { \pmb x } ) = 0 \qquad \mathrm { a n d } \qquad K ^ { 2 } ( { \pmb x } ) \ \mathrm { r a n k \ t w o }
+$$
+
+We will impose these constraints on all non-BPS multi-centered solutions as well, since presently we are more interested in the multi-centered solutions that are “assembled” by individual single-centered attractors and thus have similar properties to their single-centered constituents.It is certainly interesting to see if there exist non-BPS multi-centered solutions with $K ( { \pmb x } )$ not sharing the constraints (80) satisfied by the flow generator $k _ { N B }$
+
+The harmonic matrix function $K ( { \pmb x } )$ satisfying all the above constraints is solved to be:
+
+$$
+K ( \pmb { x } ) = \sum _ { i } \frac { k _ { i } } { | \pmb { x } - \pmb { x } _ { i } | } + g
+$$
+
+where
+
+$$
+k _ { i } = \sum _ { a = 1 , 2 } [ v _ { a } ( w _ { a } ) _ { i } ^ { T } + ( w _ { a } ) _ { i } v _ { a } ^ { T } ] S _ { 0 } \qquad \mathrm { a n d } \qquad g = \sum _ { a = 1 , 2 } [ v _ { a } m _ { a } ^ { T } + m _ { a } v _ { a } ^ { T } ] S _ { 0 }
+$$
+
+with $v _ { a }$ being the same two constant null vectors in single-centered $k$ ,and the 7-vectors $( w _ { a } ) _ { i }$ contain the information of the D-brane charges of center- $i$ ， and the two 7-vectors $m _ { a }$ 's contain that of asymptotic moduli. Both $( w _ { a } ) _ { i }$ and $m _ { a }$ are orthogonal to $v _ { b }$ . Since $v _ { a }$ only depends on the twistor $\{ z , u \}$ and $w _ { a }$ are linear in $C ^ { A }$ or $C ^ { \alpha a }$ , the above generating procedure is equivalent to replacing $C ^ { A }$ and $C ^ { \alpha a }$ with the multi-centered harmonic functions $H ^ { A } ( { \pmb x } )$ （204号 and $H ^ { \alpha a } ( { \pmb x } )$ while keeping the twistor $\{ z , u \}$ fixed.
+
+# 5.1 Multi-Centered BPS Attractors
+
+Using $\mathbf { Q } _ { i }$ to denote the charge matrix of center- $i$ ，we have $5 N$ coupled equations from $\begin{array} { r } { \mathbf Q _ { i } = \frac { 1 } { 4 \pi } \int _ { i } \nabla \cdot \boldsymbol J } \end{array}$ ：
+
+$$
+\mathbf { Q } _ { B P S , i } = S _ { 0 } ( k _ { B P S , i } + \frac { 1 } { 2 } [ k _ { B P S , i } , g _ { B P S } ] + \frac { 1 } { 2 } \sum _ { j } \frac { [ k _ { B P S , i } , k _ { B P S , j } ] } { | x _ { i } - x _ { j } | } ) S _ { 0 }
+$$
+
+We now show in detail how to determine $k _ { B P S , i }$ and $g _ { B P S }$ for given charges and asymptotic moduli using equation (83). There are $4 ( N + 1 ) + 1$ parameters in $k _ { B P S , i }$ and $g _ { B P S }$ $\{ C _ { i } ^ { A } , G ^ { A } , z \}$ ， since the twistor $u$ is arbitrary.Different from the single-centered BPS case,there are also $3 N - 3$ degrees of freedom from the positions of centers on L.H.S.of (83). On the other hand, there are $5 N + 3$ constraints in a given BPS multi-centered attractor: $4 N$ D-brane charges $( p _ { i } ^ { I } , q _ { I , i } )$ ， $N$ vanishing NUT charges, the asymptotic moduli $( x _ { 0 } , y _ { 0 } )$ and $u _ { 0 } = 1$ . We will use these $5 N + 3$ constraints to fix the $4 ( N { + } 1 )$ parameters $\{ C _ { i } ^ { A } , G ^ { A } \}$ in $k _ { B P S , i }$ and $g _ { B P S }$ , and impose $N - 1$ constraints on the distances between the $N$ centers,while leaving the twistor $z$ free.
+
+First,integrating $\nabla \cdot \boldsymbol { J }$ over the sphere at the infinity gives the sum of the above $N$ matrix equations: $\begin{array} { r } { \mathbf { Q } _ { B P S } ^ { t o t } = S _ { 0 } ( k _ { B P S } ^ { t o t } + \frac { 1 } { 2 } [ k _ { B P S } ^ { t o t } , g _ { B P S } ] ) S _ { 0 } } \end{array}$ which is the same as the charge equation for a single-center attractor with charge $Q _ { B P S } ^ { t o t }$ . This determines $g$ tobe $g = g _ { h } + \varLambda$ , same as the single-centered case as in (64),using the three asymptotic moduli $( x _ { 0 } , y _ { 0 } , u _ { 0 } )$ and the constraint of zero total NUT charge. The $h$ 's are fixed by the asymptotic moduli and the integrability condition $< Q _ { B P S } ^ { t o t } , h > = 0$ ：
+
+It is easy to see that the solutions of $C _ { i } ^ { A }$ are simply given by the single centered solutions $C ^ { A } = C ^ { A } ( Q , z )$ with $Q$ replaced by $Q _ { i }$ . Thus the flow generator of each center $k _ { B P S , i }$ (given by $k _ { B P S , i } = a _ { \alpha A } z ^ { \alpha } C _ { i } ^ { A } ,$ satisfies
+
+$$
+\mathbf { Q } _ { B P S , i } = S _ { 0 } ( k _ { B P S , i } + \frac { 1 } { 2 } [ k _ { B P S , i } , \varLambda ] ) S _ { 0 }
+$$
+
+which is the multi-centered generalization of the single-centered condition (65).
+
+Using the solutions of $k _ { B P S , i }$ and $g _ { B P S }$ , the charge equations（83） become
+
+$$
+\mathbf { Q } _ { B P S , i } = S _ { 0 } \left( k _ { B P S , i } + \frac { 1 } { 2 } [ k _ { B P S , i } , A ] + ( < Q _ { B P S , i } , h > + \sum _ { j } \frac { < Q _ { B P S , i } , Q _ { B P S , j } > } { | x _ { i } - x _ { j } | } ) \ominus \right) S _ { 0 }
+$$
+
+from which we subtract (84) to produce the integrability condition
+
+$$
+< Q _ { B P S , i } , h > + \sum _ { j } \frac { < Q _ { B P S , i } , Q _ { B P S , j } > } { | x _ { i } - x _ { j } | } = 0
+$$
+
+The sum of the $N$ equations in the integrability condition (86) reproduces the constraint on $h \colon < Q _ { B P S } ^ { t o t } , h > = 0$ . Thus the remaining $N - 1$ equations impose $N - 1$ constraints on the relative positions between the $N$ centers.The angular momentum J, defined via Wi = 2éijk Jj as r→ o,is non-zero:
+
+$$
+J = \frac { 1 } { 2 } \sum _ { i < j } \frac { { \bf x } _ { i } - { \bf x } _ { j } } { | { \bf x } _ { i } - { \bf x } _ { j } | } \langle Q _ { B P S , i } , Q _ { B P S , j } \rangle
+$$
+
+Thus we have shown that our multi-centered BPS attractor solutions reproduce those found in [19]. Same arguments as in the single-centered BPS case shows that multi-centered BPS attractors can be generated by replacing the charges in the attractor moduli with corresponding multi-centered harmonic functions:
+
+$$
+t _ { B P S } ( { \pmb x } ) = t _ { B P S } ^ { * } ( Q _ { B P S }  \sum _ { i } { \frac { Q _ { B P S , i } } { | { \pmb x } - { \pmb x } _ { i } | } } + h )
+$$
+
+# 5.2 Multi-Centered Non-BPS Attractors
+
+A multi-centered non-BPS attractor has $3 ( N { + } 1 ) { + } 2$ parameters inside its nonBPS generators $\left\{ k _ { N B , i } , g _ { N B } \right\}$ $\{ C _ { i } ^ { \alpha a } , G ^ { \alpha a } \}$ under the constraint (89） plus two twistors $\{ z , u \}$ . Given $\{ k _ { N B , i } , g _ { N B } \}$ in terms of $\{ C _ { i } ^ { \alpha a } , G ^ { \alpha a } , z , u \}$ , the non-BPS multi-centered solution is the same as the single-centered one with $H ^ { \alpha a } ( \tau )$ replacedbymulticenteedaoncfuctio $\begin{array} { r } { H ^ { \alpha a } ( { \pmb x } ) = \sum _ { i } \frac { C _ { i } ^ { \alpha a } } { | { \pmb x } - { \pmb x } _ { i } | } + G ^ { \alpha a } } \end{array}$ satisfying the constraint
+
+$$
+u = \frac { H _ { i } ^ { 2 2 } ( \pmb { x } ) } { H _ { i } ^ { 1 2 } ( \pmb { x } ) } = \frac { C _ { i } ^ { 2 2 } } { C _ { i } ^ { 1 2 } } = \frac { G ^ { 2 2 } } { G ^ { 1 2 } }
+$$
+
+However, the process of determining $k _ { N B , i }$ and $g _ { N B }$ in terms of charges and asymptotic moduli for a non-BPS multi-centered attractor is very different from its BPS counterpart.
+
+The reason is that the charge equations for a non-BPS multi-centered solution simplifies a great deal since
+
+$$
+[ k _ { N B , i } , k _ { N B , j } ] = 0 \qquad \mathrm { a n d } \qquad [ k _ { N B , i } , g _ { N B } ] = 0
+$$
+
+guaranteed by the forms of $( w _ { a } ^ { N B } ) _ { i }$ and $m _ { a } ^ { N B }$ . Therefore, the $5 N$ equations (83）decouple into $N$ sets of 5 coupled equations:
+
+$$
+{ \mathbf { Q } } _ { N B , i } = S _ { 0 } ( k _ { N B , i } ) S _ { 0 }
+$$
+
+As in the single-centered non-BPS case, $g _ { N B }$ does not enter the charge equations (91),and its three degrees of freedom can be completely fixed by the given asymptotic moduli $( x _ { 0 } , y _ { 0 } )$ and $u _ { 0 } = 1$ without using the zero NUT charge condition.More importantly,unlike BPS multi-centered solutions, the positions of centers ${ \bf { x } } _ { i }$ do not appear in the charge equations (91), thus receive no constraint:all centers are free.Finally, since we are using the remaining $3 N + 2$ parameters $\{ C ^ { \alpha a } , z , u \}$ to parameterize a $N$ -centered attractor solution under $5 N$ constraints coming from charge equations (91),there need to be $2 N - 2$ constraints imposed on the D-brane charges.
+
+As in the BPS multi-centered attractors, solutions of $C _ { i } ^ { \alpha a }$ are given by the single-centered non-BPS solutions $C ^ { \alpha a } = C ^ { \alpha a } ( Q , z )$ with $Q$ replaced by $Q _ { i }$ The solutions of twistors $z$ and $u$ are the same as the single-centered ones with charges $Q _ { N B }$ replaces by $Q _ { N B } ^ { t o t }$ . Among the aforementioned $2 N - 2$ constraints, $N - 1$ come from demanding that all centers have the same twistor $z$ ，which follows from the zero NUT charge condition at each center,and the other $N - 1$ come from demanding that they have the same twistor $u$ as in (89). Solving these $2 N - 2$ constraints shows that all the charges $\{ Q _ { N B , i } \}$ are the image of a single duality transformation $\hat { \cal T }$ on a multi-centered D4-D0 system $\{ Q _ { N B , 4 0 , i } \}$ ：
+
+$$
+Q _ { N B , i } = \hat { T } Q _ { N B , 4 0 , i }
+$$
+
+The charges at different centers are all mutually local
+
+$$
+\langle Q _ { N B , i } , Q _ { N B , j } \rangle = 0
+$$
+
+Like non-BPS single-centered attractors, the generic non-BPS multi-centered attractors cannot be generated via the “naive” harmonic function procedure, except for those with $\{ Q _ { N B , i } , h \}$ being the image of a single $\hat { \cal T }$ on a pure D4-D0 system $\{ Q _ { N B , 4 0 , i } , h _ { 4 0 } \}$ ：
+
+$$
+t _ { N B } ( { \pmb x } ) = t _ { N B } ^ { * } ( \hat { I } Q _ { N B , 4 0 }  \sum _ { i } \frac { \hat { I } Q _ { N B , 4 0 , i } } { | { \pmb x } - { \pmb x } _ { i } | } + \hat { I } h _ { 4 0 } )
+$$
+
+In summary, the non-BPS multi-centered attractors are drastically different from their BPS counterparts: there is no constraint imposed on the
+
+positions of the centers,but instead on the allowed charges $Q _ { N B , i }$ : they have to be mutually local. The result is that the centers can move freely,and there is no intrinsic angular momentum in the system.
+
+# 6 Conclusion and Discussion
+
+In this talk,we summarized the construction of generic single-centered and multi-centered extremal black hole solutions in theories whose 3D moduli spaces are symmetric coset spaces.In this construction,all attractors,both BPS and non-BPS, single-centered as well as multi-centered,are treated on an equal footing. The single-centered black hole attractors correspond to those null geodesics in $\mathcal { M } _ { 3 D }$ that are generated by exponentiating appropriate nilpotent elements in the coset algebra.The multi-centered black hole attractors are given by $3 D$ solutions that live in certain null totally geodesic sub-manifolds of $\mathcal { M } _ { 3 D }$ . The construction of multi-centered attractors,even that of non-BPS ones,is merely a straightforward generalization of the single-centered construction.
+
+We presented a detailed computation in the theory of 4D ${ \mathcal N } = 2$ supergravity coupled to one vector-multiplet,whose 3D moduli space is the symmetric coset space $G _ { 2 ( 2 ) } / S L ( 2 , \mathbb { R } ) ^ { 2 }$ . The attractor flow generators are third-degree nilpotent elements in the coset algebra.We explicitly constructed generic attractor solutions,both single-centered and multi-centered,and showed that while the BPS attractors can be generated from the attractor moduli via the “naive” harmonic function procedure, the generic non-BPS attractors cannot be generated this way.
+
+In the $n _ { V } = 1$ model, besides the BPS generator, there is only one extra third-degree nilpotent orbit to serve as non-BPS flow generators.Hence there is only one type of non-BPS single-centered attractor.In models with bigger symmetric moduli spaces, there should be more than one type of non-BPS generator. These would give rise to different types of non-BPS attractor flows, which might have different stability properties.
+
+All multi-centered non-BPS attractors constructed in this work follow from the ansatz in which 3D gravity is assumed to decouple from the moduli. The multi-centered non-BPS black holes are found to be very different from their BPS counterparts: the charges of all centers are constrained to be mutually local,while the positions of centers are completely free. Thus the non-BPS multi-centered attractor is not a“bound state” and carries no intrinsic angular momentum.
+
+We would like to construct true multi-centered non-BPS “bound states”, i.e.,solutions with constraints on the positions of centers but not on the charges. There are two possible ways to achieve this.First, one could adopt a more general ansatz in which 3D gravity is coupled to the moduli. For axisymmetric configurations, the inverse scattering method could be used to perform an exact analysis. One could also search in models with bigger moduli spaces.It is very likely that in bigger moduli spaces, there exist true multicentered non-BPS “bound states” even within the ansatz with 3D gravity decoupled from moduli. We are also interested in the possibility of generating multi-centered non-BPS solutions with each center having different types of non-BPS generators $k _ { N B }$
+
+Finally,with the hope of studying non-BPS extremal black holes in 4D ${ \mathcal N } = 2$ supergravity coupled to $n _ { V }$ vector-multiplets with more generic prepotential,we would like to generalize our method to non-symmetric homogeneous spaces,and even to generic moduli spaces eventually.
+
+# Acknowledgements
+
+The author would like to thank D.Gaiotto and M.Padi for the collaboration on the project this talk was based on. We are grateful to A. Neitzke and J. Seo for helpful discussions. It is also a pleasure to thank the warm hospitality of the School of Attractor Mechanism (2007).The work is supported by DOE grant DE-FG02-91ER40654.
+
+# References
+
+1.S.Ferrara,R.Kallosh and A． Strominger，Phys.Rev.D 52，5412(1995) [arXiv:hep-th/9508072].   
+2．A.Sen,JHEP 0509,038(2005)[arXiv:hep-th/0506177]. 3.K.Goldstein,N. Iizuka,R.P. Jena and S.P.Trivedi,Phys.Rev.D 72,124021 (2005)[arXiv:hep-th/0507096]. 4.A.Sen,JHEP 0603,008 (2006)[arXiv:hep-th/0508042].   
+5.P.K. Tripathy and S. P. Trivedi，JHEP O603，022(2006) arXiv:hepth/0511117].   
+6.M.Alishahiha and H. Ebrahim,JHEP 0603,003 (2006) [arXiv:hep-th/0601016].   
+7. R. Kallosh, N. Sivanandam and M. Soroush, JHEP 0603,060 (2006) [arXiv:hepth/0602005]. 8.B.Chandrasekhar,S.Parvizi,A.Tavanfar and H.Yavartanoo,JHEP O608,004 (2006)[arXiv:hep-th/0602022].   
+9.B.Sahoo and A.Sen,JHEP 0609,029 (2006) [arXiv:hep-th/0603149].   
+10.D.Astefanesei,K.Goldstein,R.P.Jena,A. Sen and S.P. Trivedi, JHEP 0610, 058(2006)[arXiv:hep-th/0606244].   
+11.R.Kallosh,N. Sivanandam and M. Soroush,Phys.Rev.D 74, 065008 (2006) [arXiv:hep-th/0606263].   
+12.B. Sahoo and A. Sen, JHEP 0701,010 (2007) [arXiv:hep-th/0608182].   
+13.L. Andrianopoli，R.D'Auria,S. Ferrara and M. Trigiante，arXiv:hepth/0611345.   
+14.R.D'Auria, S. Ferrara and M. Trigiante, JHEP 0703,097(2007) [arXiv:hep th/0701090].   
+15.S.Nampuri,P.K. Tripathy and S.P. Trivedi,arXiv:0705.4554 [hep-th].   
+16.A.Dabholkar,A. Sen and S.P. Trivedi,JHEP 0701,096(2007） [arXiv:hepth/0611143].   
+17.K.Saraikin and C.Vafa,arXiv:hep-th/0703214.   
+18.S.Ferrara,G.W.Gibbons and R.Kallosh，Nucl.Phys.B 50o,75(1997) [arXiv:hep-th/9702103].   
+19.B.Bates and F.Denef,arXiv:hep-th/O304094.   
+20.F.Denef and G.W.Moore,arXiv:hep-th/0702146.   
+21.D.Gaiotto,W.W.Li and M.Padi,arXiv:0710.1638 [hep-th].   
+22.A. Ceresole and G.Dall'Agata, JHEP 0703,110 (2007) [arXiv:hep-th/0702088].   
+23.G. Lopes Cardoso,A. Ceresole, G. Dall'Agata, J. M. Oberreuter and J. Perz, JHEP0710,063（2007）[arXiv:0706.3373 [hep-th]].   
+24.P.Breitenlohner,D.Maison and G.W.Gibbons,Commun.Math.Phys.120,   
+295 (1988).   
+25.S.Cecotti, S. Ferrara and L.Girardello,Int.J.Mod.Phys.A 4,2475(1989).   
+26. S.Ferrara and S. Sabharwal, Nucl. Phys.B 332,317(1990).   
+27.B. de Wit,F. Vanderseypen and A. Van Proeyen,Nucl. Phys.B 40o, 463 (1993) [arXiv:hep-th/9210068].   
+28．A.Ceresole,R.D'Auria and S.Ferrara, Nucl.Phys.Proc. Suppl.46,67 (1996) [arXiv:hep-th/9509160].   
+29.M.Gunaydin,A.Neitzke,B.Pioline and A.Waldron,Phys.Rev.D 73,084019 (2006)[arXiv:hep-th/0512296].   
+30.B.Pioline,Class.Quant.Grav.23,S981 (2006) [arXiv:hep-th/0607227].   
+31.A.Bouchareb,G.Clement,C.M. Chen,D.V.Gal'tsov,N.G. Scherbluk and T.Wolf, Phys.Rev.D 76,104032 (2007) [arXiv:0708.2361 [hep-th].   
+32.G. Clement,arXiv:0710.1192 [gr-qc].   
+33.M.Gunaydin,A. Neitzke,O.Pavlyk and B.Pioline,arXiv:0707.1669 [hep-th].   
+34.K.Behrndt,R.Kallosh,J.Rahmfeld,M. Shmakova and W.K.Wong,Phys. Rev.D 54,6293(1996)[arXiv:hep-th/9608059].   
+35.D.H. Collingwood and W.M. McGovern,Nilpotent orbits in semisimple Lie algebras Van Nostrand Reinhold,New York U.S.A.(1993).

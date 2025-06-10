@@ -1,0 +1,170 @@
+# 不同意识水平下认知资源对直觉优势效应的调节
+
+于婷婷」　殷　悦」　王舒1　周淑金」　唐晓晨²　罗俊龙1(上海师范大学教育学院心理系，上海 200234)(上海交通大学医学院附属精神卫生中心重性精神障碍重点实验室，上海 200030)
+
+摘要直觉的优势效应近来被越来越多研究者关注，但该优势效应对认知资源的依赖程度以及受意识调节的情况尚无专门探讨。为此，本研究采用汉字组块破解任务，通过汉字的包含关系操纵认知资源，通过阈上、阈下的呈现时间操纵意识水平考察了直觉与分析的加工过程。结果发现，相比较分析条件，直觉条件在阈上表现出优势效应：包含与不包含情况下均正确率更高、反应时更快；但在阈下只有不包含情况出现直觉优势：不包含情况下正确率更高、反应时更快，包含情况下二者无显著差异。这表明，在无意识水平下，认知资源可以调节直觉的优势效应；但在意识水平下，认知资源则不能够调节该效应。
+
+关键词 意识水平；认知资源；直觉加工；分析加工分类号 B842
+
+# 1引言
+
+日常生活中，人们通常需要严密的逻辑分析来保证解决方案的准确性，但有些情况下只需依靠直觉就能获取正确的答案。为此，心理学家在思维领域中提出了双系统加工模型，该模型认为人们在认知过程中存在两种不同的加工方式，即系统1加工(也称直觉加工)和系统2加工(也称分析加工)(Evans,2008;De Neys,2012)。其中，直觉加工过程是快速、无意识、自动化的，以经验为基础，极少占用认知资源，依赖于长时记忆，而分析加工过程则是缓慢、受意识控制的，以逻辑规则为基础，需要较多认知资源的参与，依赖于工作记忆(Evans &Stanovich,2013;Thompson,2013)。目前，已有研究更多是从两种加工过程如何相互影响的角度展开探索，主要集中在因直觉加工所导致的各类非理性的偏差现象(Evans，2008;Thompson,Evans,& Campbell,2013)，例如基线比例忽视现象(Bonner& Newell,2010; Bago& De Neys,2017)、比例偏差现象(Mevel et al.,2015)和信念偏差效应(De Neys& Franssens,2009;De Neys,Moyens,& Vansteenwegen, 2O1O; Pennycook, Cheyne, Koehler,& Fugelsang,2013)等。
+
+那么，直觉加工真的只能产生误导性的偏差现象吗？一系列实验结果显示，相对于非冲突问题，冲突问题会引发个体更长的反应时间(Thompson,Prowse Turner,& Pennycook,2011;De Neys & Bonnefon,2013)和更低的反应信心(De Neys & Feremans,2013;De Neys,Rossi,&Houde,2013)。研究者认为，当直觉加工与分析加工的结果相同时，依赖于直觉加工可以帮助个体更快的做出正确的选择，从这个角度来说直觉加工具有其积极作用。此外，通过双任务范式，研究者发现认知资源对直觉加工的影响较小，而对分析加工的影响较大。例如,Evans和Curtis-Holmes (2005)发现，要求被试在5秒内做出反应会使其分析过程受到一定程度的抑制，但是对直觉加工并没有产生显著影响。最近,Johnson,Tubau 和De Neys (2016)为被试设置不同难度的额外任务来控制认知资源的占用程度，结果发现直觉加工的反应时间、反应信心及正确率并没有随着任务难度的增长而形成显著差异，而分析加工过程却受到了显著影响。同时他们发现在非冲突问题中，直觉过程能够在基本不占用认知资源的前提下自动激活正确反应。因此，直觉加工在非冲突及认知资源有限的条件下对问题解决可产生促进作用，也就是说占用认知资源只会抑制分析加工过程，而直觉加工过程不会受到影响。这些结果体现出直觉加工速度快和认知资源需求低的优势。
+
+虽然直觉优势效应的存在得到了一定认可，但对于其自动化、不依赖认知资源的属性却受到了质疑。有研究发现在解决简单推理问题时，压缩被试的反应时间不会使被试的信念偏差效应增强(Evans，Handley，& Bacon，2009)。信念偏差现象是由错误的直觉观念引发的,缩短反应时间压缩了个体的认知资源，因而使引发正确答案的分析加工过程受到抑制，而信念偏差程度并未增强则表明直觉加工同时也受到了抑制。Howarth,Handley 和Walsh (2016)立足于经典的推理问题发现相较于无负荷情况，认知负荷条件下直觉及分析加工过程的正确率均有所下降，但是直觉加工下降的比例显著低于分析加工。这说明虽然直觉加工在认知负荷条件下有优势效应，但是其仍依赖于一定的认知资源。因此，直觉加工可能并不是完全自动化的，它对认知资源是有一定的依赖性。那该依赖性对直觉的优势效应会产生怎样的影响？
+
+此外，传统双加工理论所提出的直觉加工过程是无意识的观点(Evans& Stanovich，2013；Thompson，2013)近年来也受到了挑战。有研究者认为直觉加工有时可能是需要意识参与的(Handley & Trippas，2015)。Handley，Newstead 和 Trippas (2011)通过指导语来引发不同的加工过程，即利用信念指导语来引发直觉加工过程，逻辑指导语来引发分析加工过程，他们发现与分析加工相比，直觉加工在冲突问题下的反应时更长、正确率更低，且直觉加工会显著受到分析过程的干扰。这一结论在基线比例问题中也得到了证实(Pennycook，Trippas,Handley，& Thompson，2014)。此后 Trippas，Thompson 和 Handley (2017)将此范式应用到三种不同难度的推理问题中，并发现直觉加工和分析加工过程同时产生且直觉加工一直会受到分析过程的影响。根据上述实验结果可以推论，直觉加工在冲突情境下需要同分析加工相互竞争并抑制其影响进而才可做出判断，因而这一过程可能是需要意志努力的，并非是无意识过程。那么，在无意识水平下直觉优势效应会不会消失？如果不消失，将会表现怎样的模式？
+
+以上问题的揭示对厘清直觉加工的优势效应具有十分重要的必要性。不过，采用传统的实验材料却面临一定局限性。首先，传统材料基本以推理问题为内容，在冲突情境下直觉及分析加工的结果处于对立的两端(Bago& De Neys，2017)，此时，无论要求被试根据以经验为基础的直觉加工进行判断还是根据以逻辑为基础的分析加工进行判断，被试必定会受到另一种加工方式的干扰而影响结果(Handley& Trippas，2015)，而借助汉字组块破解任务则可以避免这一干扰。该任务的关键在于将汉字分解成不同的组块(Luo，Niki,&Knoblich，2006)。例如，Tang 等人(2016)采用的汉字组块破解任务即要求被试从汉字中去掉部分组块从而形成新的汉字，如"地-土 $\ c =$ 也”。若去掉组块为部首，便为自动化的松散组块破解任务；若去掉组块为笔画或镶嵌于汉字内部的结构，便为分析式的紧密组块破解任务。此外，Gobet等人(2001)在研究中发现象棋高手在下棋过程中可以将完整的棋局快速分解为已知棋谱，这便是自动组块的过程；而象棋新手没有相关棋谱知识，只能根据局势变化临时将几个棋子组合进行记忆，这就是分析组块的过程。他们还指出自动组块是无意识、内隐的，依赖于个体的长时记忆，而分析组块是需要意识参与的，依赖于个体的短时记忆(Gobet，Lloyd-Kelly，&Lane，2016)。不难看出，这两种组块破解过程可对应于双加工理论中的直觉加工及分析加工过程。据此，本研究将采用汉字组块破解任务来考察直觉加工与分析加工过程。具体而言，即要求个体判断目标字是否包含于源字中，例如判断目标字"口"字是否包含于源字"吕"字中。根据双加工理论中，直觉加工速度快时间短而分析加工较为缓慢时间长的特征，同时结合汉字组块破解任务中松散组块及紧密组块的设计，将材料分为直觉材料及分析材料。如“支"中的"又"类似于松散组块，个体只需自动激活长时记忆中的汉字知识，按部首将其分解即可快速完成任务，因而可归为直觉材料，而"夹"中的"火"类似于紧密组块，个体需要一定的意志努力，按笔画进行分解才能完成任务，因而可归为分析材料。这样一来，通过材料直接划分个体的加工过程，且具有唯一确定的正解，可以从非对立的角度出发研究双加工理论，有效避免两种加工过程的相互干扰，摆脱传统推理材料的局限。
+
+综上，虽然有研究表明直觉加工存在优势效应(De Neys &Feremans,2013;Johnson et al,2016)，但该优势效应同认知资源及意识成分的关联还未形成明确定论(Handley& Trippas,2015;Pennycooketal.,2014)。鉴于此，本文将以汉字组块破解任务为材料来考察直觉优势效应受认知资源以及意识水平的影响机制。首先本文通过包含条件的设置操控认知资源。水仁德和刘爱伦(1996)的研究可为此提供依据，他们发现编码方式对汉字短时记忆提取有很大影响。当用形状编码时，被试倾向于用自动停止的搜索策略。自动停止搜索策略即对项目逐个进行提取，一旦找到目标项目就停止查找。那么在包含情况下，如"又(目标字)——支(源字)”,当源字"支"呈现后，被试需将目标字的所有笔画与源字一一比对才能得出包含结论，而在不包含情况下，如"力(目标字)——支(源字)”，被试只需根据目标字"力"和源字"支"之间的一处不同就可以做出不包含的判断，随后停止继续搜索。因此，相对于不包含结论，被试做出包含结论需要更多认知资源的参与。其次，传统的双任务、时间压力等范式无法创设无意识情境，因而本研究通过调节目标字的呈现时间来设置阈上阀下条件，进而控制意识水平的参与程度，以便探讨不同意识水平下认知资源对直觉优势效应的调节。在此基础上，本研究提出假设即意识和认知资源均会对直觉优势效应产生影响，在无意识及认知资源缺乏的双重条件下，直觉加工的优势效应可能会消失。
+
+# 2方法
+
+# 2.1被试
+
+被试为母语为汉语的在校大学生，共计30名。其中男生12名，女生18名。年龄为19\~24岁，平均 $2 1 . 0 0 \pm 1 . 3 9$ 岁。右利手，视力或矫正视力正常，无神经系统外伤与疾病。
+
+# 2.2 实验设计
+
+实验为2(目标字呈现时间： $2 4 ~ \mathrm { m s }$ 和 $2 0 0 ~ \mathrm { { m s } }$ ） $\times ~ 2 \time$ (材料类型：直觉材料和分析材料)$\times ~ 2 ($ 包含关系：包含和不包含)被试内实验设计，因变量为被试判断的正确率及反应时。第一个自变量为意识水平的操控，将阈下刺激目标字的呈现时间设置为 $2 4 ~ \mathrm { m s }$ ，将阈上刺激目标字的呈现时间设置为 $2 0 0 ~ \mathrm { { m s } }$ 。第二个自变量为材料类型，分为直觉材料和分析材料。第三个自变量为包含关系，分为包含和不包含。
+
+# 2.3 实验材料
+
+选取常用汉字200组，每组由目标字和源字两个汉字组成，所有材料均选自《现代汉语词典》。其中直觉材料80组，分析材料80组。此外，实验还设置了 $20 \%$ 无目标试次的不包含材料，即目标字不在源字之中。材料示例见图1。
+
+![](images/6ed53f20c129b8ddf14f96e43dfaf125f241bf65c8bec7eafff449414bf49bf5.jpg)
+
+为了保证材料的可靠性，本研究选取26名被试进行汉字破解任务，并对两种材料的正确率及反应时分别进行配对样本t检验，结果发现：直觉材料与分析材料任务判断的正确率差异显著, $t \left( 2 5 \right) = 8 . 9 4$ ， $p < 0 . 0 0 1$ ，即直觉材料的准确率显著高于分析材料；同时直觉材料与分析材料任务判断的反应时差异显著, $t \ ( 2 5 ) = - 1 3 . 5 4$ ， $p < 0 . 0 0 1$ ，即直觉材料的反应时显著低于分析材料。在此结果的基础上，将正确率与反应时在均值2.5个标准差之外的材料删除。同时以直觉材料正确率较高、反应时较短，分析材料正确率较低、反应时较长为原则，各挑选出60组材料。
+
+为了实现对包含关系变量的操控，本研究以挑选出的60 组包含材料为基础编制不包含材料，且两种材料的比例为1:1。同时，不包含材料下也设置了直觉与分析条件。为减少汉字笔画因素的影响，将不包含材料中的源字设置成与包含材料源字相同的字，将目标字替换成与包含条件下笔画相同的其他汉字。这样一来，就可根据包含下的源字来编制不包含下的目标字。具体而言，不包含材料下直觉条件：目标字和源字在字形上差异很大，被试能在短时间内通过直觉做出判断；不包含材料下分析条件，目标字和源字在字形上较为相似，被试需要经过仔细分析后才能做出不包含的判断。材料示例见图2。由此，包含下直觉、包含下分析、不包含下直觉与不包含下分析这四种条件下各有60组材料。
+
+![](images/3b3bf8137030ca74f9beb43e2ebf84e38100d075c25c7549aa8776733f253ff1.jpg)  
+图1材料类型示例  
+图2实验材料示例
+
+随后，对编制的240组材料进行测试。根据测试结果，四种条件下各筛选出40组题目(见表1)。由于本次材料呈现时间很短，为了保证被试完成效果确保实验质量，因而材料筛选以正确率高为首要标准，同时结合直觉加工快速自动化、分析加工较为缓慢的特征，将反应时设为次要标准。包含下直觉与不包含下直觉两种条件以正确率高、反应时短为原则进行排序，包含下分析与不包含下分析两种条件以正确率高、反应时长为原则进行排序，每种条件各筛选前40组。
+
+最后，将每种条件下的40 组材料匹配到阈上阀下两种条件，每种条件 20 组材料，确保阈上阀下材料在正确率及反应时上没有显著差异。
+
+表1四种条件下各筛选出40 组题目的平均正确率及平均反应时[M(SD)]  
+
+<html><body><table><tr><td>实验条件</td><td>正确率</td><td>反应时</td></tr><tr><td>包含下的直觉</td><td>0.99 (0.01)</td><td>796.94 (68.85)</td></tr><tr><td>包含下的分析</td><td>0.85 (0.07)</td><td>1204.83 (129.17)</td></tr><tr><td>不包含下的直觉</td><td>0.98 (0.02)</td><td>876.97 (62.82)</td></tr><tr><td>不包含下的分析</td><td>0.81 (0.08)</td><td>1224.08 (124.71)</td></tr></table></body></html>
+
+# 2.4实验设备与流程
+
+本实验在屏幕大小为14寸的笔记本电脑上施测，分辨率为 $1 3 6 6 \times 7 6 8$ ，刷新频率为 $6 0 \mathrm { { H z } }$ 。
+
+实验用E-prime 2.0软件进行编程，具体实验流程如图3所示。首先在屏幕中央呈现一个$8 0 0 \mathrm { m s }$ 的注视点，注视点消失之后在屏幕中央呈现目标字。在阈上条件下，目标字的呈现时间为 $2 0 0 \mathrm { m s }$ ；而阈下条件下，水仁德、丁海杰和沈模卫(2003)及沈模卫、高涛和丁海杰(2004)在研究汉字加工实验中将阈下条件设置为 $3 3 ~ \mathrm { m s }$ 。由于本实验使用的计算机刷新频率为60Hz，因而其完成一次刷新的时间为 $1 6 . 7 ~ \mathrm { m s }$ ，刷新两次的时间约 $3 3 . 4 ~ \mathrm { m s }$ ，同时考虑电脑延迟约 $1 0 \ \mathrm { m s }$ 等因素，为此本文在程序中将目标字的呈现时间设置为 $2 4 ~ \mathrm { m s }$ ，从而达到实际呈现时间为 $3 3 ~ \mathrm { { \ m s } }$ 的目标。此外在阈下条件下，目标字消失后会呈现 $1 7 6 \ \mathrm { m s }$ 的掩蔽刺激。在$6 0 0 { \sim } 8 0 0 ~ \mathrm { m s }$ 的随机空屏之后，呈现源字 $3 0 0 0 \mathrm { { m s } }$ 。被试的任务是判断目标字是否包含于源字之中，若包含则按"1"键，不包含则按"2"键。为了保证被试熟练实验任务及流程，首先要进行10 个试次的练习任务，当正确率不低于 $70 \%$ 时才可以进入正式实验。正式实验为3个组块，每个组块后可以获得适当的休息。实验过程中要求被试尽可能快而准确地做出按键反应。
+
+![](images/0473ea7341e0cad7a885a4413ed28f652bc1706b7a8ffbb6c13bbc664d605ffe.jpg)  
+图3正式实验刺激流程
+
+# 3实验结果与分析
+
+以正确率为因变量进行重复测量方差分析，结果表明(见图4)，材料类型的主效应显著，$F \left( 1 , 2 9 \right) = 6 0 . 5 7$ $p < 0 . 0 0 1$ ， $\eta ^ { 2 } \mathrm { p } = 0 . 6 7 6 > 0 . 1 4$ ，被试在分析材料中的正确率显著低于直觉材料$( \boldsymbol { \eta } _ { \texttt { p } } ^ { 2 }$ 是反映实验因素和因变量关联程度的指标， $\mathfrak { n } _ { \mathfrak { p } } ^ { 2 }$ 越大，说明实验因素对因变量越重要。根据Cohen的标准, $0 . 0 1 < \mathfrak { \eta } _ { \mathtt { p } } ^ { 2 } < 0 . 0 6$ ，说明效应较小; $0 . 0 6 < \mathfrak { n } _ { \mathtt { p } } ^ { 2 } < 0 . 1 4$ ，属于中等效应; $\eta _ { \mathrm { \ p } } ^ { 2 } > 0 . 1 4$ 说明效应较大)；时间的主效应显著, $F \left( 1 , 2 9 \right) = 3 3 3 . 1 5$ ， $p < 0 . 0 0 1$ ， $\eta _ { \mathrm { ~ p ~ } } ^ { 2 } = 0 . 9 2 > 0 . 1 4$ ，被试在24ms 条件下的正确率显著低于 $2 0 0 ~ \mathrm { { m s } }$ ；包含关系的主效应显著, $F \left( 1 , 2 9 \right) = 1 1 . 4 3$ $p = 0 . 0 0 2$ ， $\mathfrak { n } _ { \mathfrak { p } } ^ { 2 }$ $= 0 . 2 8 3 > 0 . 1 4$ ，被试在包含条件下的正确率显著低于不包含条件。时间和包含关系的交互作用显著, $F \left( 1 , 2 9 \right) = 1 5 . 0 8 , p = 0 . 0 0 1 , \eta _ { \mathrm { ~ p } } ^ { 2 } = 0 . 3 4 2 > 0 . 1 ^ { \angle }$ ，具体表现为 $2 4 ~ \mathrm { m s }$ 条件下，被试解决包含材料的正确率显著低于不包含材料 $( p = 0 . 0 0 1$ ）， $2 0 0 ~ \mathrm { { m s } }$ 条件下，包含材料和不包含材料的正确率没有显著差异 $( p = 0 . 1 8 5 )$ ；材料类型和包含关系的交互作用显著, $F \left( 1 , 2 9 \right) = 1 3 . 1 3 , p =$ 0.001, $\eta _ { \mathrm { ~ p ~ } } ^ { 2 } = 0 . 3 1 2 > 0 . 1 4$ ，具体表现为包含条件下，直觉材料的正确率显著高于分析材料 $( p =$ 0.005），不包含条件下，直觉材料的正确率也显著高于分析材料 $( p < 0 . 0 0 1$ ）
+
+![](images/2ac43fb95c19d00578ce0c6e11a42e84e3487ed5cb6084fbfdb0e36e36357cdd.jpg)  
+图4不同自变量组合条件下被试的平均正确率注：误差线为标准差(下同)
+
+以反应时为因变量进行重复测量方差分析，结果表明(见图5)：材料类型的主效应显著，$F \left( 1 , 2 9 \right) = 4 9 . 3 2$ $p < 0 . 0 0 1$ ， $\eta ^ { 2 } \mathrm { p } = 0 . 6 3 > 0 . 1 4$ ，被试在分析材料中的反应时显著长于直觉材料;时间的主效应显著, $F \left( 1 , 2 9 \right) = 5 . 1 0$ $p = 0 . 0 3 2$ $\eta _ { \mathrm { ~ p ~ } } ^ { 2 } = 0 . 1 5 > 0 . 1 4$ 被试在 $2 4 ~ \mathrm { m s }$ 条件下的反应时显著长于 $2 0 0 \mathrm { m s }$ 。材料类型、时间和包含关系三阶交互作用显著, $F \left( 1 , 2 9 \right) = 2 2 . 9 6 , p < 0 . 0 0 1$ $\eta _ { \mathrm { ~ p ~ } } ^ { 2 } = 0 . 4 4 2 > 0 . 1 4$ 。进一步简单简单效应分析发现，在包含条件下且呈现时间为 $2 4 ~ \mathrm { m s }$ 时，被试在解决分析材料时的反应时同直觉材料之间不存在显著差异 $( p = 0 . 1 8 3 \ )$ ；呈现时间为200ms 时，被试在解决分析材料时的反应时显著长于直觉材料 $( p < 0 . 0 0 1 )$ 。在不包含条件下且呈现时间为 $2 4 ~ \mathrm { m s }$ 时，被试在解决分析材料时的反应时显著长于直觉材料 $( p = 0 . 0 0 1$ )；呈现时间为 $2 0 0 \mathrm { m s }$ 时，被试在解决分析材料时的反应时长于直觉材料 $( p = 0 . 0 0 1$ ）。
+
+![](images/4f1cd89e26ed365c4512a39c8d11d1326b8ae2e7ed3dc9ab70b84ee1d7d36e80.jpg)  
+图5不同自变量组合条件下被试的平均反应时
+
+同时，为了解被试在阈上阈下情况下对实验材料的辨别力，本文引入了信号检测论，将包含材料视为信号，不包含材料视为噪音，即呈现包含材料时正确选择包含为击中，呈现不包含材料时错误选择包含为虚报，并计算每个被试的d'值。
+
+以 $\mathrm { d } ^ { \mathrm { , } }$ 值为因变量进行重复测量方差分析，结果表明(见表2)：材料类型的主效应显著, $F$ $( 1 , 2 9 ) = 9 3 . 1 5 \$ ， $p < 0 . 0 0 1$ ， $\eta _ { \mathrm { ~ p ~ } } ^ { 2 } = 0 . 7 6 > 0 . 1 4$ ，被试在分析材料中的d'值显著低于直觉材料；时间的主效应显著, $F \left( 1 , 2 9 \right) = 4 1 1 . 2 3$ $p < 0 . 0 0 1$ ， $\eta _ { \mathrm { ~ p ~ } } ^ { 2 } = 0 . 9 3 > 0 . 1 4$ 被试在 $2 4 ~ \mathrm { m s }$ 条件下的 $\mathrm { d } ^ { \prime }$ 值显著低于 $2 0 0 \mathrm { m s }$ 。材料类型和时间的交互作用显著, $F \left( 1 , 2 9 \right) = 1 7 . 4 5 , p < 0 . 0 0 1 , \eta _ { \mathrm { ~ p } } ^ { 2 } = 0 . 3 8 > 0 . 1 4 ,$ 具体表现为 $2 4 ~ \mathrm { m s }$ 条件下，被试在分析材料中的 $\mathrm { { ^ d } ^ { \prime } }$ 值显著低于直觉材料 $( p = 0 . 0 0 1$ ）， $2 0 0 ~ \mathrm { { m s } }$ 条件下，被试在分析材料中的d值也显著低于直觉材料 $( p < 0 . 0 0 1$ ）
+
+表2不同条件下被试的辨别力指数 $\left[ M \left( S D \right) \right]$   
+
+<html><body><table><tr><td>条件</td><td>分析材料</td><td>直觉材料</td></tr><tr><td>24 ms</td><td>0.32 (0.60)</td><td>0.78 (0.78)</td></tr><tr><td>200 ms</td><td>2.62 (0.85)</td><td>3.97 (0.69)</td></tr></table></body></html>
+
+此外，在 $2 4 ~ \mathrm { m s }$ 条件下目标字呈现时间很短，尤其在包含条件下被试在分析和直觉材料下的正确率分别为0.5和0.48，处于随机猜测水平。因此，为了进一步排除阈下条件下反应偏向对实验结果的影响，本文以信号检测论为基础，将包含材料视为信号，不包含材料视为噪音，计算 $2 4 ~ \mathrm { m s }$ 条件下每个被试的 $\beta$ 值。
+
+以 $\beta$ 值为因变量进行配对样本t检验，结果表明：分析材料与直觉材料的差异不显著,t（ $2 9 ) = - 1 . 2 6$ ， $p = 0 . 9 5$ ,即分析材料 $( 1 . 1 5 \pm 0 . 3 5 )$ 与直觉材料 $( 1 . 3 3 \pm 0 . 7 1 ) \$ 的 $\beta$ 值没有显著差异。
+
+# 4讨论
+
+在经典的推理领域中，一些研究认为直觉加工是非理性的，会引导个体做出错误的判断(Pennycook,Fugelsang,&Koehler,2015)，而一些研究则提出直觉加工可能存在优势效应，可以帮助个体更快的做出正确的选择(De Neys&Feremans,2013)。导致这一相反结果的原因可能在于诸多研究选用的实验材料一般将直觉与分析加工置于冲突环境中(Bago & De Neys,2017；Trippas,Verde,& Handley,2014)，而冲突环境会使两种加工过程相互干扰(Handley&
+
+Trippas,2015)。同时,Trippas 等人(2017)指出问题难度不同，直觉及分析过程相互干扰的方式也不同。而本文采用的实验材料有效避免了两种过程的相互干扰，并且通过材料筛选过程对实验材料进行编制和评估，保证了两种加工过程测量的效度。实验结果显示：正确率方面，被试完成直觉任务的情况显著高于分析任务。反应时方面，除正式实验中阈下包含情况下的直觉与分析无显著差异外，直觉加工的优势效应也被明显观测到。这些结果说明直觉加工存在优势效应(De Neys& Feremans,2013; Johnson et al.,2016)，其中阀下条件下直觉加工的反应时显著快于分析加工，这一角度进一步佐证了直觉加工在资源有限甚至无意识的情况下仍存在优势效应。
+
+因此，直觉加工极少占用认知资源的观点在本研究下得到了印证。不过，有研究(Handley etal.,2011)对这一观点提出了质疑。最近,Howarth 等人(2016)在研究中发现在认知负荷条件下，直觉和分析过程均受到消极影响，且直觉过程受影响程度显著高于分析过程，因此可以推论直觉加工仍依赖于一定的认知资源。还有研究者提出直觉加工有时可能是需要意识努力的(Handley& Trippas，2015)。那么，直觉加工对认知资源及意识的依赖程度如何,其优势效应是否会受到认知资源及意识的影响？本研究则给出了明确答案。首先从阈上角度分析，在阈上包含及阈上不包含两种条件设置下，直觉加工的优势效应均存在。而从阈下角度分析，在阈下包含条件下直觉与分析加工无论是在正确率还是反应时上均无显著差异。虽然二者的正确率无显著性差异没有在三阶交互作用中得到体现，但直觉 $( 0 . 5 0 \pm 0 . 2 4 )$ 与分析（204号 $( 0 . 4 8 \pm 0 . 2 0 ) \$ 的正确率均处于0.5的随机猜测水平。根据水仁德和刘爱伦(1996)的研究可得出，在汉字组块破解任务中相对于不包含结论，被试做出包含结论需要更多认知资源的参与，换言之即被试在包含条件下完成破解任务时的认知资源相对遗乏。而根据实验结果在阈下条件下，包含条件的正确率显著低于不包含条件，这能够为上述观点提供进一步证明。较为有趣的是在阈上条件下，包含与不包含在正确率上则没有差异，这表明在无意识情况下，认知资源对加工过程无法产生显著影响；但在意识条件下，认知资源能够对加工过程产生影响。综上，阈下包含设置下的数据说明，在无意识及认知资源缺乏的双重条件下直觉加工的优势效应消失了；在阈下不包含条件下，即无意识且认知资源相对较充足的情况下，直觉过程同分析过程相比其优势效应仍然是存在的。同时，结合阈上、阈下两种条件设置的结果可以发现，在无意识条件下认知资源能够调节直觉优势效应，具体表现为当认知资源相对较为充足时直觉优势效应存在，而当认知资源缺乏时直觉优势效应消失。而在意识条件下，认知资源不能够调节直觉优势效应，具体表现为认知资源充足或缺乏无法影响直觉优势效应。
+
+为何直觉优势效应在意识及认知资源的不同条件设置下会出现不同的变化趋势？本研究认为这恰恰回应了当前关于双加工理论的相关争议(Evans＆ Stanovich,2013)。双加工领域对于直觉与分析两种加工过程给出明确的界定，即直觉加工是自动快速且无意识的，几乎不占用认知资源，而分析过程是缓慢有意识的，需要较多认知资源的参与(DeNeys&Bonnefon,2013;Evans & Stanovich,2013;Mevel etal.,2015)。但近年来有学者提出这样的划分过于绝对、简单(Kruglanski& Gigerenzer，2011)，且这一观点也得到了诸多实验支持(Pennycook et al.,2014)。就直觉加工而言，有研究指出其并不是完全无意识的，在特定条件下仍是需要意志努力的缓慢过程(Handley& Trippas,2015; Trippas et al.,2017)。而本研究数据显示在意识条件下,认知资源充足或是缺乏，直觉优势均存在，具体表现为直觉过程正确率更高反应时更短。这符合传统理论对于直觉加工快速、较少占用认知资源的认知(Evans,2008;De Neys,2012)。但在无意识条件下，认知资源充足则直觉优势存在，认知资源缺乏则直觉优势消失同时正确率已处于随机猜测水平。这表明在无意识且认知资源缺乏的双重作用下，直觉加工已经达到其认知极限，直觉加工虽是快速的，但是在极端条件下仍需要一定的认知资源及意识参与。
+
+此外，本文也验证了以往研究对于分析加工的认知，即分析加工是缓慢的、受意识控制的，需要较多认知资源的参与(Evans,2012;Evans& Stanovich,2013)。在本文中具体表现为分析加工的正确率显著低于直觉加工而反应时显著长于直觉加工。但在阈下包含条件下，分析加工同直觉加工一样均处于随机猜测水平，而在阈上不包含条件下分析过程仍能保证较高的正确率 $( 0 . 6 4 \pm 0 . 2 1 )$ ，这说明了在无意识且认知资源缺乏的条件下分析过程同直觉过程均达到了认知极限，但在无意识且认知资源相对较为充足的条件下，分析加工仍在发挥作用,这似乎与分析过程需要意识参与的性质相违背(Bonner & Newell,2010; Thompson,2013)。而近年来研究者提出的逻辑性直觉模型则指出，部分分析过程具有直觉的特征(De Neys,2012,2014;Johnson et al.，2016)，这能为本研究的结果提供了解释。但是具体的机制是怎么样的，未来的研究也可从分析过程的角度入手展开探讨，为双加工理论提供新的研究视角。
+
+为了解被试的辨别力，同时排除反应偏向等因素对实验结果的影响，本文利用信号检测论对被试的辨别力指数d'以及反应偏向β进行分析。首先从辨别力指数来分析，时间主效应显著说明本文对意识水平这一条件的操纵达到了较好的水平，具体表现为阈上条件下的d值显著高于阀下条件；材料类型主效应显著，即分析材料的d'值显著低于直觉材料。这说明本文的材料编制符合传统双加工的定义，即直觉加工过程是快速、无意识、自动化的，以经验为基础，极少占用认知资源，而分析加工过程则是缓慢、受意识控制的，以逻辑规则为基础，需要较多认知资源的参与(Evans & Stanovich,2013;Thompson et al.,2013)。其次，从反应偏向β来分析，阀下条件下分析材料及直觉材料的反应偏向没有显著差异，即两种材料下被试的反应偏向是一致的。这表明在阈下条件下，分析加工及直觉加工之间的正确率差异是由于两种加工过程的不同特点造成的，并不是由反应偏向的差异导致的。因此，在排除反应偏向等因素的影响下，本研究的实验结果仍是成立的，即阈下包含条件下，直觉加工的优势效应消失；阈下不包含条件下，直觉加工的优势作用仍存在。
+
+总结而言，本文验证了直觉加工具有快速自动化的特征，同时进一步证实了其优势效应的存在，这与传统双加工理论的观点相符合(Evans,2012;Evans& Stanovich,2013)。同时本研究发现直觉加工是依赖于一定的认知资源及意识参与的，这与近年来对传统理论的质疑保持一致(Bago &De Neys,2017; Handley& Trippas,2015; Howarth et al.,2016)。但这并不意味直觉过程同分析过程一样是缓慢的、需要较多认知资源参与的(Thompson,2013)。在本研究中直觉加工只有在无意识且认知资源缺乏的双重压力下其优势效应才可消失，而在单一压力条件下(如：阈上包含、阈下不包含条件)其优势效应仍可被显著检测。因此，对于分析过程，直觉加工仍是具有快速激活的特征(De Neys& Bonnefon,2013;De Neys&Feremans,2013)，并且在资源有限的条件下其优势仍然突出(Evans et al.,2009;Howarth et al.,2016)，但是这一优势效应有其极限。所以，本研究认为直觉加工同分析加工的区别在于加工速度及对认知资源与意识依赖程度的差异，而不在于是否需要认知资源与意识过程。而分析过程的结果则显示以往对于直觉加工与分析加工的划分过于绝对、简单(Kruglanski& Gigerenzer,2011)，这两个过程可能相互兼有对方的特征，而未来的研究也需进一步探讨这两种加工过程的特征及加工模式。本文采用汉字组块破解任务旨在为双加工理论提供全新的研究视角。当然，不可否认，相较于传统的推理及问题解决任务，本研究采用的汉字组块破解任务难度较低、加工速度较快，因而其在思维领域的推广性还需后续实验的进一步验证。
+
+# 4结论
+
+通过汉字组块破解任务对直觉与分析的加工过程进行考察，并得出以下结论：
+
+(1)直觉加工的优势效应在资源有限条件下仍然存在。  
+(2)无意识水平下，认知资源能够调节直觉优势效应。  
+(3)意识水平下，认知资源不能调节直觉优势效应。
+
+# 参考文献
+
+Bago,B.,& De Neys,W. (2O17).Fast logic?: Examining the time course assumption of dual process theory. Cognition,158,90-109.   
+Bonner,C.，& Newell,B.R.(2O10).In conflict with ourselves? An investigation of heuristic and analytic processes in decision making. Memory & Cognition,38,186-196.   
+De Neys,W. (2O12). Bias and conflict: Acase for logical intuitions.Perspectives on Psychological Science,7(1), 28-38.   
+De Neys,W.(2014). Conflict detection,dual processes,and logical intuitions: Some clarifications.Thinking & Reasoning,20(2),169-187.   
+De Neys,W.,& Bonnefon,J.F.(2013). The‘whys’and‘whens’of individual diferences in thinking biases. Trends in Cognitive Sciences,17,172-178.   
+De Neys，W.，& Feremans，V. (20l3).Development of heuristic bias detection in elementary school. Developmental Psychology, 49(2),258-269.   
+De Neys,W.,& Franssens,S. (2O09). Belief inhibition during thinking: Not always winning but at least taking part. Cognition, 113,45-61.   
+De Neys,W., Moyens,E.,& Vansteenwegen, D. (2010).Feling we're biased: Autonomic arousal and reasoning conflict. Cognitive, Affective,& Behavioral Neuroscience,10,208-216.   
+De Neys,W.,Rosi,S.，& Houdé,O.(2013). Bats, balls,and substitution sensitivity: Cognitive misers are no happy fools.Psychonomic Bulletin & Review, 20,269-273.   
+Evans, J.St.B.T. (2oo8). Dual-processingaccounts of reasoning, judgment,and social cognition. Annual Review of Psychology, 59,255-278.   
+Evans,J. St.B.T.(2O12).Spot the diference: Distinguishing between two kinds of processing. Mind & Society,11, 121-131.   
+Evans,J. St.B.T.，& Curtis-Holmes,J.(2O05).Rapid responding increases belief bias:Evidence for the dual-process theory of reasoning. Thinking & Reasoning,ll(4),382-389.   
+Evans,J. St.B. T., Handley,S.J.,& Bacon,A. M. (2O09).Reasoning under time pressure: A studyof causal conditional inference. Experimental Psychology,56,77-83.   
+Evans,J.St.B.T.,& Stanovich,K.E. (2013).Dual processtheories of higher cognition: Advancing the debate. Perspectives on Psychological Science, 8,223-241.   
+Gobet,F.,Lane,P. C.R., Croker,S., Cheng,P. C.-H.,Jones, G.，Oliver,1.，& Pine,J. M.(2001).Chunking mechanisms in human learning. Trends in Cognitive Sciences, 5(6),236-243.   
+Gobet,F.,Lloyd-Kelly, M.,& Lane,P. C.R. (2016). What's in a name? The multiple meanings of "chunk" and "chunking". Frontiers in Psychology, 7,102.   
+Handley，S.J.，Newstead,S.E.，& Trippas,D.(2011).Logic,beliefs,and instruction: A test of the default interventionist account of belief bias. Journal of Experimental Psychology: Learning，Memory， and Cognition,37,28-43.   
+Handley,S.J.,& Trippas,D.(2O15).Dual processes and the interplay between knowledge and structure: A new parallel processing model. Psychology of Learning and Motivation, 62,33-58.   
+Howarth,S.,Handley,S.J.,& Walsh,C.(2016).The logic-bias effect: The roleof effortful processing in the resolution of belief-logic conflict. Memory & Cognition, 44,330-349.   
+Johnson,E.D.,Tubau,E.,& De Neys,W.(2016).The doubting system 1: Evidence for automatic substitution sensitivity. Acta Psychologica, 164,56-64.   
+Kruglanski, A. W.,& Gigerenzer, G. (2O11). Intuitive and deliberate judgments are based on common principles. Psychological Review, 118(1), 97-109.   
+Luo,J.,Niki, K.,& Knoblich,G. (2O06). Perceptual contributions to problem solving: Chunk decomposition of Chinese characters. Brain Research Bulletin, 70,430-443.   
+Mevel,K.,Poirel,N.,Rossi, S.,Cassoti,M.,Simon, G.,Houdé,O.,& De Neys,W. (2015). Bias detection: Response confidence evidence for conflict sensitivity in the ratio bias task. Journal of Cognitive Psychology, 27,227-237.   
+Penycook,G.， Cheyne,J.A.Koehler,D.J.，& Fugelsang,J.A. (2013).Belief bias during reasoning among religious believers and skeptics.Psychonomic Bulletin and Review, 20,806-811.   
+Penycook, G.,Fugelsang, J. A.,& Koehler,D.J. (2O15). What makes us think? Athree-stage dual-processmodel of analytic engagement. Cognitive Psychology, 80, 34-72.   
+Pennycook,G.,Trippas,D.,Handley,S.J.& Thompson, V.A. (2014). Base rates: Both neglected and ntuitive. Journal of Experimental Psychology: Learning, Memory, and Cognition, 40(2),544-554.   
+Shen, M. W., Gao,T.,& Ding, H. J. (2O04). A study of Chinese and Arabic numerals' subliminal priming effects. Psychological Science, 27(1),13-17.   
+[沈模卫，高涛，丁海杰.(2004).汉字数字与阿拉伯数字的阀下启动研究．心理科学,27(1),13-17.]   
+Shui,R.D.,Ding,H.J.,& Shen,M.W.(2003). Unconscious mechanisms of Chinese characters in subliminal semantic activation.Psychological Science,26(6),1025-1029.   
+[水仁德，丁海杰，沈模卫.(2003)．汉语阈下语义启动无意识机制研究．心理科学,26(6),1025-1029.]   
+Shui,R.D.，& Liu,A.L. (1996). Coding effcts on retrieving Chinese characters from short-term memory. Chinese Journal of Applied Psychology,2(1),59-63.   
+[水仁德，刘爱伦.(1996)．编码方式对汉字短时记忆提取的影响．应用心理学,2(1),59-63.]   
+Tang,X. C.,Pang,J.Y., Nie, Q.-Y., Conci,M.,Luo,J.L.,& Luo,J. (2016).Probing the cognitive mechanismof mental representational change during chunk decomposition: A parametric fMRI study. Cerebral Cortex, 26(7),2991-2999.   
+Thompson, V.A. (20l3). Why it mattrs: The implications of autonomous processes for dual-process theories: Commentary on Evans & Stanovich (2013). Perspectives on Psychological Science,8,253-256.   
+Thompson, V.A.,Evans,J. St.B.T.,&Campbel,J.I.D. (2013). Matching bias on the selection task: Its fast and feels good. Thinking & Reasoning,19,431-452.   
+Thompson,V.A.,Prowse Turner,J.A.,& Pennycook,G. (2O11).Intuition,reason,and metacognition.Cognitive Psychology, 63,107-140.   
+Thompson, V.A.,Prowse Turner,J.,Pennycook, G.,BallL.J.,Brack,H.,Ophir,Y.,& Ackerman,R.(2013).The role of answer fluency and perceptual fluency as metacognitive cues for initiating analytic thinking. Cognition, 128,237-251.   
+Trippas，D.，Thompson, V.A.，& Handley,S.J. (2017). When fast logic mets slow belief: Evidence for a parallel-processing model of belief bias. Memory & Cognition, 45,539-552.   
+Trippas,D., Verde,M.F.,& Handley,S.J. (2014). Using forced choice to test belief bias in syllogistic reasoning. Cognition, 133(3), 586-600.
+
+# Positive effect of intuitive processing is modulated by cognitive resources under different levels of consciousness
+
+YU Tingting1; YIN Yuel; WANG Shu1; ZHOU Shujin1; TANG Xiaochen²; LUO Junlongl
+
+( DepartmentofPsychology,CollgeofEducation,Shanghai Normal University,Shanghai 2Oo234,China) (ShanghaiKeyLaboratoryofsychoticDisordersShanghaiMentalHealthCenterShangaiJiaoTongUniversityShoolofedicine Shanghai 200030,China)
+
+# Abstract
+
+It was argued that thinking is characterized by the action of two distinctive cognitive systems, namely, intuitive（Type 1） processing and analytic（Type 2） processing. Intuitive processing is generally described as rapid, automatic, unconscious, and effortless, whereas analytic processing appears to be slow,controlled, conscious,and effortful. Decades of research have established that human judgment is often predisposed to rapid, intuitive processing. However, recent research has indicated that intuitive processing can support reasoning and even enhance it under certain conditions.Recent findings have suggested that intuitive processing should be as affected by cognitive resources and consciousness as analytic processing. However, intuitive and analytic processing will interfere with one another through a series of classical paradigms in which the results of two distinctive cognitive systems are in conflict. To avoid this interference,the present study applied the Chinese character chunking decomposition task， predicting that intuitive processing positively affect problem solving, but that it would disappear under conditions wherein cognitive resources were extremely scarce.
+
+In the present research, we first drew up the Chinese character chunking decomposition task as materials, and participants were asked to judge whether the target character (e.g.,“又") was a component of the original character (e.g.,“支"). Then, the formal experiment was organized into a $2 \times 2 \times 2$ within-subject design. The first variable was the duration time of the target character, consisting of 2 levels: $2 4 ~ \mathrm { m s }$ and $2 0 0 \mathrm { { m s } }$ ; the second variable was the material category, consisting of 2 levels: intuitive material and analytic material; and the third variable was the inclusion relation,consisting of 2 levels: inclusion and exclusion.The inclusion condition meant that the target character was a component of the original character， whereas the exclusion condition denoted that the target character was not a component of the original character.
+
+The results indicated that participants showed a lower rate of accuracy and a longer response time on analytic materials than on intuitive ones.However, no difference was observed between the two types of materials in terms of response time and accuracy when the duration time of the target character was $2 4 ~ \mathrm { m s }$ ，and the inclusion relation was inclusion. Meanwhile,the accuracy scores of intuitive and analytic processing were approximately O.5 at the guessing level. Signal detection analysis showed that the results under the unconsciousness condition were not influenced by the response bias.
+
+The results proved that intuitive processing was rapid and analytic processing was slow. As predicted, intuitive processing positively affects the problem solving process.In addition, the experiment showed that intuitive processing was effortful and relied on cognitive resources, which was inconsistent with prototypical dual-process theories. Therefore, the positive efect would disappear when the cognitive resources were below demand.
+
+Key words: level of consciousness; cognitive resource; intuitive processing; analytic processing

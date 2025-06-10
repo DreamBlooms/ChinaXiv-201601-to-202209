@@ -1,0 +1,310 @@
+# 基于通径分析的低营养水体环境中芽孢杆菌生长与氮转化影响因素研究
+
+黄海洪”"，李朝云²\$，†，类延菊1³，邹万生14，杨品红15，武孟祥（1．湖南文理学院，常德 415000；2.山东畜牧兽医职业学院，潍坊 261061；3．环洞庭湖水产健康养殖及加工湖南省重点实验室，常德 415000；4．水产高效健康生产湖南省协同创新中心，常德 415000;5．动物学湖南省高校重点实验室，常德 415000；6．鼎城区气象局，常德 415000）
+
+# 摘要：
+
+[目的］芽孢杆菌在养殖水体等低营养水环境中氮的转化治理方面具有较高的应用价值，但受很多因素的影响，其中又数菌株特性和环境条件较为重要，然而目前对这两种因素的综合研究尚少，基于通径分析的低营养水体环境中芽孢杆菌生长与氮转化影响因素进行分析研究。
+
+[方法]为此，选取2株芽孢杆菌NT9和YB3作为研究对象，通过平板法测定其水解酶活性和抑菌活性等特性，然后模拟配置了4种低营养水体环境，并应用通径分析方法研究菌株特性和环境条件对芽孢杆菌生长和氮转化作用的影响，如直接效应、间接效应和综合效应等。
+
+[结果］结果显示，菌株NT9为枯草芽孢杆菌（Bacullis subtilis），与蜡样芽孢杆菌（B.cereus）YB3不同，具有较强的蛋白酶、淀粉酶活性以及抑菌活性，而纤维素酶活性较弱。同时又与菌株YB3相似，在低营养条件下菌株NT9也仅具有有机氮和氨氮降解作用，其中氨氮降解率可达 $89 . 3 \%$ 。通径分析显示，模型的决定系数为0.55-0.95，其它主要的适配度指标也均符合判定标准。菌株的纤维素酶活性（cel）对大多数环境中菌株的生长（gro）以及有机氮、氨氮的降解（dtan）均具有显著的直接促进效应（ $_ { . P < 0 . 0 0 1 } )$ 。水体起始的菌量（iod）、有机氮含量（ion）、氨氮含量（itann）以及时间阶段（stage）等环境因素对gro和dtan也具有显著的直接影响( $_ { . P < 0 . 0 5 ) }$ ，但仅限于某些特定的环境。菌株活性与环境因素之间也具有交互作用( $_ { . P < 0 . 0 5 ) }$ ，对gro和dtan产生间接效应，增强或抵消直接效应，使某些因素表现出显著的总效应（ $( P { < } 0 . 0 5 )$ ，但也导致其它因素的总效应不显著（ $_ { ( P > 0 . 0 5 ) }$ 。gro和dtan在某些环境中相互之间也具有直接的促进效应（ $_ { . P < 0 . 0 0 1 } )$ ，并且也相互间接影响。研究表明，菌株特性和环境因素的综合作用对低营养水体中芽孢杆菌的生长和氮转化作用具有重要影响，但是在不同的环境中作用的方式不同。
+
+[结论］因此，在实际应用中，可能需要结合菌株特性和环境条件拟定具体方案，如菌株、氮源的投加量和投加方式等，以达到更好的使用效果。
+
+关键词：芽孢杆菌；低营养水体；生长；氮转化；影响因素；通径分析
+
+文章编号：S959中图分类号：X172
+
+# Path analysis for factors affecting the growth and nitrogen conversion of Bacillus in low-nutrition-level water conditions
+
+HUANG Haihong1,\$,LIChaoyun 2,S,†,LEI Yanju1,3, ZOU Wansheng1.4, YANG Pinhong1,5, Wu Mengxiang6 1. Hunan University of Arts and Science,Changde 415ooo, China; 2. Shandong Vocational Animal Science and Veterinary College,Weifang 261061, China; 3. Collaborative Innovation Center for Efficient and Health Production of Fisheries, Changde 415ooo, China; 4.Key Laboratory of Health Aquaculture and Product Processing in Dongting Lake Area, Changde 415000, China; 5. Zoology Key Laboratory of Hunan Higher Education, Changde 415000, China; Dingcheng District Meteorological Bureau, Changde 415000, China)
+
+# Abstract:
+
+[Ob jective] Bacillus is very useful to nitrogen conversion in water with low nutrition level, such as aquaculture waterbody.And this process generally affected by many factors,among which the characteristics ofboth factors of Bacillus strainsand environments are the most important ones.However,few researches could be obtained in regard to the comprehensive effects of those two aspects.
+
+[Methods]Thus,in the present study,hydrolytic and bacteriostatic activities oftwo Bacullis strains NT9 and YB3 were determined by using plate methods.Thereafter,four low-nutrition-level water conditions were prepared artificially,and the efects ofcharacteristics of Bacillus strains and environments on bacterial growth and nitrogen conversion were researched simultaneously,by separating out the total, direct and indirect effects of both aspects were with path analysis method.
+
+[Results] Results showed that unlike $B$ . cereus strain YB3, strain NT9 was a B. subtilis possessed stronger proteolytic,amylolytic and bacteriostatic activities but with a weaker celulase activity.However,as similar as strain YB3, strain NT9 could degrade organic nitrogen and ammonia, with a high of the ammonia-conversion rate of $89 . 3 \%$ under low nutrition condition. Results from path analysis showed that in models the main goodness-of-fit indices were all suitable,with high determination coeficients $( R ^ { 2 } )$ of 0.55-0.95. The cellulase activity $( c e l )$ of Bacillus strains displayed significant direct positive effects on bacterial growth $( g r o )$ and degradations of organic nitrogen and ammonia (dtan) in most of the four water conditions $( P { < } 0 . 0 0 1 )$ ). The environmental factors, such as the initial bacterial counts $( i o d )$ , organic nitrogen content $( i o n )$ ,ammonia content (itann) and time duration phase (stage) also executed significant direct positive effects on gro and dtan $( P { < } 0 . 0 5 )$ , but only for some special conditions. There were interactions among Bacillus activities and environmental factors, which produced indirect efects on gro and dtan,and in turn reinforced or weakened their direct effects,resulting in final significant $( P { < } 0 . 0 5 )$ or non-significant （20 $( P { > } 0 . 0 5 )$ total effects offactors. Meanwhile, in some environments, gro and dtan could significantly and directly improved each other $( P { < } 0 . 0 0 1 )$ ), or produced indirect effects on each other.
+
+[Conclusions] In conclusion,the characteristics of strain and environment could intensively affect the growth and nitrogen conversion of Bacillus,with diferent pattern in different waterconditions,indicating that for beter application of Bacillus,strategies should be made and adjusted according to water conditions,such as dosages and durations of strain and nitrogen sources.
+
+Key Words: Bacullis; Low nutrition water; Growth; Nitrogen conversion; Factors; Path analysis
+
+# 1引言
+
+由于水产养殖过程需要投入大量的人工配合饲料，导致养殖水体氮元素的富集，虽然浓度较其它污水低，富营养化的风险仍然非常高。据估计，水产养殖水体中 $78 \%$ 的氮元素来自于饲料(Fungesmith and Mrp,1998；齐振雄等,1998)，并且主要以有机氮的形式存在(Burford andWilliams，2001)，主要是因为养殖过程中大约 $70 \mathrm { - } 8 0 \%$ 的饲料蛋白氮流失到水环境中(Avnimelech and Kochba,2009;Piedrahita,2003)。另外，这些饲料蛋白氮被微生物降解为氨氮、亚硝酸氮等有毒无机氮，也对水产动物的健康产生负面影响(Lin and Chen,2001;Lin and Chen.2003)，甚至关系到养殖能否成功。因此，水体中氮的转化处理历来都是水产领域实现可持续发展以及健康养殖所重点关注的问题。
+
+芽孢杆菌（Bacullis sp.）具有多种活性功能，如分泌蛋白酶、淀粉酶、纤维素酶等，能够加快养殖水体氮的转化，降低氮元素的积累，并减少氨氮、亚硝酸盐等的含量(Elsabagh et al,2018;Ferreira et al.,2017;Luo et al.,2016)，在水产养殖中具有较大的应用价值(Rafael Martinez-Cordovaet al.,2017)。但是，芽孢杆菌的氮转化效果受很多因素的影响，如温度、pH、溶解氧、氮源、碳源等培养条件(Gao et al.,2018; Yang et al.,2011; Yu et al.,2012；谢凤行等,2012)，以及生长能力、水解酶活性和抑菌活性等菌株本身的特性(周广静等,2017)。本团队前期对芽孢杆菌在模拟养殖水体中的生长和氮转化也进行了研究，发现不同来源的菌株具有不同的生长模式与氮转化模式，推测菌株水解酶活性、抑菌活性等方面的差异，以及水体菌量和营养状况（如氮源水平）等环境因素差异可能是造成这种差别的主要原因，但是尚未对其影响程度
+
+进行量化研究(黄海洪等,2019)。
+
+养殖水体中影响芽孢杆菌生长和氮转化效果的因素相对比较复杂，单因素研究(Gao et al,2018;Yang etal.,2011；谢凤行等,2012)难以同时对各种因素进行综合分析以及定量比较，而多因素研究又可能存在效应混杂，不能真正揭示因子的作用。通径分析又称路径分析（pathanalysis)，是一种多元统计技术，可以通过剖分将效应分解为标准化的直接作用和间接作用，减少效应混杂，而且能够直观比较各种因素的作用大小，为主要因素的提取与研究提供参考依据，适合进行多因素的综合分析与比较，已在多个领域中广泛应用(吴明隆,2018；薛宝宝等，2018)，但是在养殖水体芽孢杆菌生长和氮转化方面尚未见报道。
+
+因此，本文应用通径分析方法，在前期基础上，研究菌株特性和环境因素对2株不同来源的芽孢杆菌NT9和YB3生长和氮转化的综合影响，并进行效应剖分和定量分析，提炼影响芽孢杆菌氮转化效果的主要因素，探讨促进氮转化效果的可能途径，以期为芽孢杆菌在养殖水体中的应用研究提供新的手段，并为其高效氮转化应用探索理论依据。
+
+# 2 材料与方法
+
+# 2.1 菌种
+
+菌株NT9和菌株YB3均为"环洞庭湖水产健康养殖及加工"湖南省重点实验室保藏菌种。其中，菌株NT9（GenBank Accession No.KX891556）是一株枯草芽孢杆菌（B.subtilis），从传统发酵食品腊八豆中分离得到（黄海洪等，2022），菌株YB3（GenBank No.KX578018）从养殖水体分离得到，为蜡样芽孢杆菌（B.cereus）(黄海洪等,2018)。两株菌的蛋白酶、淀粉酶和纤维素酶活性见文献（黄海洪等，2022）。
+
+# 2.2 培养基
+
+LB 培养基：大豆蛋白膝 $1 0 . 0 \ \mathrm { g }$ ，酵母粉 $5 . 0 \ \mathrm { g }$ ，葡萄糖 $\boldsymbol { 1 0 . 0 \mathrm { \ g } }$ ，NaCl $5 . 0 \ \mathrm { g }$ ，水 $1 0 0 0 ~ \mathrm { { m L } }$ ，$\mathrm { p H } 7 . 0$ ，固体培养基添加琼脂粉 $1 2 . 0 \ \mathrm { g }$ ， $1 2 1 ^ { \circ } \mathrm { C }$ 灭菌 $3 0 \mathrm { m i n }$ 。
+
+# 2.3低营养条件下菌株纯培养试验
+
+(1)低营养培养液制备与菌株培养
+
+参照黄海洪等(2018)所述方法进行，稍作修改。分别以尿素和氯化铵（分析纯，国药集团化学试剂有限公司）为唯一氮源，配制浓度为 $0 . 0 1 \%$ （ $\cdot w / w )$ ）低氮源营养培养液，以 $0 . 1 \%$ $( w / w$ ）的葡萄糖为碳源，过滤除菌。接种芽孢杆菌菌悬液，使起始 $O D _ { 6 0 0 }$ 为0.010， $3 0 ~ ^ { \circ } \mathrm { C }$ $1 5 0 \mathrm { r m i n ^ { - 1 } }$ 振荡发酵24d。
+
+(2)生长吸光度与无机氮含量测定
+
+每4d取芽孢杆菌的发酵液， $1 2 0 0 0 \mathrm { r \cdot m i n ^ { - 1 } }$ ， $4 ^ { \circ } \mathrm { C }$ ，离心 $2 0 \mathrm { m i n }$ ，沉淀用 $0 . 6 \%$ 无菌生理盐水漂洗3次，等体积重悬、混匀，测定 $O D _ { 6 0 0 }$ ，重复3次。同时采用纳氏试剂法、盐酸萘乙二胺法和紫外分光光度法，测定氨氮、亚硝酸氮和硝酸氮的浓度(国家环境保护总局,2002)，重复3次。
+
+# 2.4 模拟养殖试验
+
+模拟养殖试验参考黄海洪等 (2019)所述方法进行，稍作修改。
+
+(1)模拟养殖水体制备
+
+12个 $2 0 0 \mathrm { L }$ 高密度聚乙烯（HDPE）塑料桶分别装入 $1 0 0 \mathrm { L }$ 自来水（ $\mathrm { \cdot p H } 7 . 2 0 \rangle$ ，用碳酸氢钠（分析纯，国药集团化学试剂有限公司）将 $\mathsf { p H }$ 调至8.00 左右，再以 $1 0 \mathrm { m g ^ { \cdot } L ^ { - 1 } }$ 二氧化氯消毒， $2 4 \mathrm { h }$ 后用维生素C（ $\mathrm { \cdot _ { 1 \ m g ^ { \cdot } L ^ { - 1 } } } .$ ）中和、解除毒性(Lara et al.,2017; Prata Gaona et al.,2017),备用。
+
+(2)种子液制备和水体接种
+
+菌株接种于LB 液体培养基， $3 0 ^ { \circ } \mathrm { C }$ ， $1 5 0 \mathrm { r m i n ^ { - 1 } }$ ，培养 $2 4 \mathrm { h }$ ，制备种子液。种子液按1:100的比例转接到新鲜的LB液体培养基， $3 0 ^ { \circ } \mathrm { C }$ ， $1 5 0 \mathrm { r m i n ^ { - 1 } }$ ，培养 $2 4 \mathrm { h }$ ，然后 $1 2 0 0 0 \mathrm { r \cdot m i n ^ { - 1 } }$ ， $4 ^ { \circ } \mathrm { C }$ 离心 $1 0 \mathrm { m i n }$ ，沉淀用 $0 . 6 \%$ 无菌生理盐水洗涤，重悬，添加到6个模拟养殖水体中，使水体起始总菌量为 $1 . 0 \times 1 0 ^ { 6 }$ cfu $\mathrm { \cdot m L ^ { - 1 } }$ 。接种菌株NT9和YB3的水体分别称为NT9水体和YB3水体。
+
+(3)模拟养殖
+
+凡纳滨对虾人工配合饲料（粗蛋白质 $2 4 0 . 0 \%$ ，粗脂肪 $2 5 . 0 \%$ ，粗纤维 $2 5 . 0 \%$ ,粗灰分 $\leq 1 6 . 0 \%$ 水分 $\leq 1 2 . 0 \%$ ，澳华公司）粉碎，过100目筛，投入上述水体，试验前3天的投喂量为 $2 . 0 \mathrm { g \cdot d ^ { - } }$ 1，其他时间均为 $1 . 0 \ \mathrm { g } { \cdot } \mathrm { d } ^ { - 1 }$ ，第8d和 $2 0 { \mathrm { ~ d ~ } }$ 未投喂，试验周期为 $2 4 { \mathrm { ~ d ~ } }$ 。试验期间不换水，使用气石不间断充气。
+
+# (4)水质测定
+
+溶解氧、温度、 $\mathsf { p H }$ 使用YSI-550A多功能水质分析仪（YSI公司，美国）测定，于每天8:00和18:00 各进行一次。其它水质指标每4d测定一次，水体氨氮、亚硝酸氮、硝酸氮、碳酸盐碱度和钙镁硬度参照文献(国家环境保护总局,2002)进行。水体总菌量也每4d测定一次，采用平板计数法进行。
+
+# 2.5 数据分析
+
+数据均以（ $\mathrm { \langle m e a n \pm S D }$ ）的形式表示。应用SPSS22.0软件（IBM公司，美国）检验数据的正态性（Shapiro-Wilk's test）和方差齐性（Levene'stest），之后进行 student 检验（t检验）。总菌量需经过 $\log _ { 1 0 } ( \AA )$ 转换，再进行检验。对不服从方差齐性的数据则采用Mann-WhitneyUTest进行非参数检验。
+
+通径分析参照杜家菊和陈志伟 (2010)所述方法进行，稍作修改。首先，将24d的试验周期分成6个阶段，每个阶段为4d，分别以各阶段水体总菌的变化量（gro，代表生长量， $\log _ { 1 0 } ( \AA )$ 转换值）或氨氮的变化量（dtan，代表有机氮和氨氮的降解，表现为氨氮的生成和降解，以N计，mg·L-1）作为因变量。以4个环境因素作为自变量，起始菌量（iod），用各阶段起始总菌量的logioO转换值表示，代表了参与菌株基数；起始氮源含量，包括起始有机氮含量（ion，以N计，mg·L-1，为一次性投入的或分批次投入的氮量），和起始无机氮含量（itann，以N计，mgL-1,为测定的各试验阶段开始时测定的氨氮含量）；时间阶段（stage），即试验阶段，用试验周期每个阶段的终止时间点表示，如4、8、12、16、20和24d，代表微生物的生长阶段，与微生物降解活力相关，也一定程度上反映了营养物质的消耗情况(黄海洪等,2019)。同时，将菌株的3种水解酶活性和6种抑菌活性也都作为自变量纳入分析。然后，调用SPSS22.0软件“Regression"程序,选择"Stepwise"方法进行多元回归分析，再应用AMOS17.0软件（IBM公司，美国）进行路径图绘制、模型检验和效应剖分(吴明隆,2018)。
+
+# 3 结果
+
+# 3.1纯培养条件下菌株生长与氮转化
+
+(1)有机氮源培养基
+
+图1显示，在以尿素作为唯一氮源的低浓度有机氮源培养基中，有氨氮累积和降解现象（dtan），但未检测到亚硝酸氮（nitrite）和硝酸氮（nitrate）的产生。菌株NT9使氨氮浓度由开始的 $( 0 . 4 { \pm } 0 . 1 ) \mathrm { m g ^ { \cdot } L ^ { - 1 } }$ 上升至16d 的(19.8±1.6)mg·L-1（图1a)，总体的氨氮生成速率为1.2$\mathrm { m g { \cdot } L ^ { - 1 } { \cdot } d ^ { - 1 } }$ ，而菌株YB3则使氨氮浓度由 $( 0 . 6 { \pm } 0 . 1 ) \mathrm { m g ^ { \cdot } L ^ { - 1 } }$ 上升至8d的 $( 2 7 . 7 { \pm } 3 . 0 ) \mathrm { m g ^ { \bullet } L ^ { - 1 } }$ （图1b），生成速率 $3 . 4 ~ \mathrm { m g ^ { . } L ^ { - 1 } { \cdot } d ^ { - 1 } }$ 。按照氨氮浓度变化方式，可以分为两个阶段（phase-1和phase-2），phase-1主要是有机氮降解、氨氮生成的阶段，phase-2为氮转化的阶段。
+
+通径分析结果显示，在phase-1阶段，芽孢杆菌生长（gro）主要受纤维素酶活性（cel)、起始菌量（iod）、起始有机氮投入量（ion）和起始氨氮含量（itann）的影响（ $\cdot \mathrm { \partial } P { < } 0 . 0 0 1$ ， $R ^ { 2 } =$ 0.94，图2a)，而gro、iod、ion 和培养阶段（stage）则对有机氮的降解（dtan）起决定性影响（ $\scriptstyle { \cdot } { } _ { P < 0 . 0 0 1 }$ ， $R ^ { 2 } = 0 . 9 3$ ，图 2b)。效应剖分结果显示，cel对gro 直接效应（1.12， $P { < } 0 . 0 0 1$ ）和总效应（0.64， $P { < } 0 . 0 0 1$ ）最大（表1)，但是ion和itann的总效应不显著（ $P { > } 0 . 0 5$ ，表1);iod对dtan的直接效应（1.19， $P { < } 0 . 0 0 1$ ）和总效应（0.60， $P { < } 0 . 0 0 1$ ）最大（表2)，然而ion和 stage的总效应不显著（ $P { > } 0 . 0 5$ ，表2）。
+
+在phase-2，芽孢杆菌生长（gro）主要受cel、dtan和itann 的影响（ $\cdot { \cal P } { < } 0 . 0 0 1$ ， $R ^ { 2 } = 0 . 9 5$ 图3a)，而氮转化作用（dtan）主要由cel、gro 和iod决定（ $\scriptstyle { \cdot } { \cal P } { < } 0 . 0 0 1$ ， $R ^ { 2 } = 0 . 9 1$ ，图3b)。效应剖分显示，itann对gro直接效应最大（0.50， $\scriptstyle P < 0 . 0 0 1$ ，表3），而dtan的总效应最大（0.64,
+
+$P { < } 0 . 0 0 1$ ，表3)，但是cel的总效应不显著（ $. P { > } 0 . 0 5$ ，表3)；cel和iod对dtan的直接效应较大（0.95， $P { < } 0 . 0 0 1$ ；-1.10, $P { < } 0 . 0 0 1$ ；表4)，但总效应均不显著（ $P { > } 0 . 0 5$ ，表4)，而 $g r o$ 的总效应最大（0.93， $\scriptstyle P < 0 . 0 0 1$ ，表4)。
+
+![](images/18e534d497a771f47e84ff363d147d3cdec8b58d817084d21b9ad5b0583cdae8.jpg)  
+Fig.1The growth and nitrogen conversion of strain NT9 and YB3 in broth with urea as unique nitrogen source
+
+![](images/a6654cb477c50869bb83a6f46cb289a7e2d0ebbe6a15d28acfd7f190d8b11c54.jpg)  
+图1尿素培养基中菌株NT9和YB3的生长与氮转化情况   
+图2尿素培养基phase-1阶段芽孢杆菌生长（a）与氮转化（b）通径图
+
+Fig.2The path diagrams of growth (a)and nitrogen conversion (b)of Bacillus strain in phase-1 of urea broth（因变量上方数字表示决定系数（ $\cdot R ^ { 2 }$ )，单箭头和双箭头上的数字分别代表通径系数（直接效应）和相关系数，\*表示 $P { < } 0 . 0 5$ ，\*\*表示 $P { < } 0 . 0 1$ ，\*\*\*表示 $\scriptstyle P < 0 . 0 0 1$ 。图中左下角显示的是多元回归分析（MRA）假设检验 $P$ 值，以及通径分析模型的适配度拟合指标，Chi-sq为卡方值，DF自由度，CFI比较拟合指数，RMSEA渐进残差均方根，GFI适配度指数，AGFI调整适配度指数，圆括号中显示的是指标的评价标准。红色框代表菌株活性，绿色框代表环境因素，蓝色框代表菌株生长和氮转化。下同。)
+
+表1尿素培养基phase-1阶段芽孢杆菌生长影响因子的效应剖分  
+The division of factors’effects on growth of Bacillus strain in phase-1 of urea brot   
+
+<html><body><table><tr><td rowspan="2">参数</td><td rowspan="2">总效应</td><td rowspan="2">直接效应</td><td colspan="5">间接效应</td><td rowspan="2">未析效应</td></tr><tr><td>cel</td><td>iod</td><td>ion</td><td>itann</td><td>合计</td></tr><tr><td>cel</td><td>0.64***</td><td>1.12***</td><td></td><td>-</td><td>-0.60</td><td></td><td>-0.60</td><td>0.12</td></tr><tr><td>iod</td><td>-0.40**</td><td>-0.41***</td><td></td><td>-</td><td></td><td>-0.04</td><td>-0.04</td><td>0.05</td></tr><tr><td>ion</td><td>0.01ns</td><td>-0.89***</td><td>0.75</td><td>-</td><td>-</td><td></td><td>0.75</td><td>0.15</td></tr><tr><td>itann</td><td>-0.24ns</td><td>-0.12***</td><td></td><td>-0.15</td><td></td><td>-</td><td>-0.15</td><td>0.03</td></tr></table></body></html>
+
+注：总效应和直接效应亦即分别为变量间的Pearson简单相关系数和通径系数（偏回归系数或标准化回归系数)；间接效应即间接通径系数，某个变量通过一个中间变量产生的效应，为两变量简单相关系数与中间变量通径系数的乘积；未析效应即总效应与直接效应和间接效应之差；间接效应与未析效应均未进行假设检验。\*表示 $P { < } 0 . 0 5$ ，\*\*表示 $P { < } 0 . 0 1$ ，\*\*\*表示 $\scriptstyle P < 0 . 0 0 1$ ，ns表示 $P { > } 0 . 0 5$ 。下同。
+
+表2尿素培养基phase-1阶段芽孢杆菌氮转化影响因子的效应剖分 Table 2The division of factors'effects of nitrogen conversion of Bacillus strain in phase-1 of urea broth   
+
+<html><body><table><tr><td rowspan="2">参数</td><td rowspan="2">总效应</td><td rowspan="2">直接效应</td><td colspan="5">间接效应</td><td rowspan="2">未析效应</td></tr><tr><td>gro</td><td>iod</td><td>ion</td><td>stage</td><td>合计</td></tr><tr><td>gro</td><td>0.38**</td><td>0.69***</td><td></td><td>-0.48</td><td>-</td><td>0.16</td><td>-0.31</td><td>0.00</td></tr><tr><td>iod</td><td>0.60***</td><td>1.19***</td><td>-0.28</td><td></td><td>-0.06</td><td>-0.26</td><td>-0.59</td><td>0.00</td></tr><tr><td>ion</td><td>-0.05 ns</td><td>0.18***</td><td></td><td>-0.37</td><td></td><td>-0.14</td><td>-0.51</td><td>0.28</td></tr><tr><td>stage</td><td>0.11 ns</td><td>-0.36***</td><td>-0.31</td><td>0.86</td><td>-0.07</td><td></td><td>0.48</td><td>-0.01</td></tr></table></body></html>
+
+![](images/ae1d8594a05739e058ad0b06422a138366bf704b0b8f41f58a7ac042276fbb4f.jpg)  
+图3尿素培养基phase-2 阶段菌株生长（a）与氮转化（b）通径图 ig. 3The path diagrams of growth(a) and nitrogen conversion (b) of Bacilus strain in phase-2 of urea broth
+
+表3尿素培养基phase-2 阶段芽孢杆菌生长影响因子的效应剖分  
+表4尿素培养基phase-2阶段芽孢杆菌氮转化影响因子的效应剖分  
+
+<html><body><table><tr><td rowspan="2">参数</td><td rowspan="2">总效应</td><td rowspan="2">直接效应</td><td colspan="4">间接效应</td><td rowspan="2">未析效应</td></tr><tr><td>cel</td><td>dtan</td><td>itann</td><td>合计</td></tr><tr><td>cel</td><td>0.20 ns</td><td>0.23***</td><td>-</td><td></td><td></td><td></td><td></td></tr><tr><td>dtan</td><td>0.93***</td><td>0.49***</td><td>-</td><td></td><td>0.43</td><td>0.43</td><td>0.01</td></tr><tr><td>itann</td><td>0.90***</td><td>0.50***</td><td></td><td>0.42</td><td></td><td>0.42</td><td>-0.03</td></tr></table></body></html>
+
+ble 3The division of factors’ effects on growth of Bacillus strain in phase-2 of urea brol   
+The division of factors’ effects on nitrogen conversion of Bacillus strain in phase-2 of urea brot   
+
+<html><body><table><tr><td rowspan="2">参数</td><td rowspan="2">总效应</td><td rowspan="2">直接效应</td><td colspan="4">间接效应</td><td rowspan="2">未析效应</td></tr><tr><td>cel</td><td>gro</td><td>iod</td><td>合计</td></tr><tr><td>cel</td><td>0.04 ns</td><td>0.95**</td><td></td><td>0.11</td><td>-1.08</td><td>-0.97</td><td>0.06</td></tr><tr><td>gro</td><td>0.93***</td><td>0.81***</td><td>0.12</td><td></td><td></td><td>0.12</td><td>0.00</td></tr><tr><td>iod</td><td>-0.10 ns</td><td>-1.10***</td><td>0.93</td><td></td><td></td><td>0.93</td><td>0.07</td></tr></table></body></html>
+
+(2)无机氮源培养基
+
+图4 显示，在以氯化铵作为唯一氮源的低浓度无机氮源培养基中，也未检测到亚硝酸氮和硝酸氮的产生，仅有氨氮降解的现象，菌株NT9 降解氨氮浓度由 $( 2 7 . 7 { \pm } 4 . 3 ) \$ mg·L-1下降为24d 的 $( 3 . 0 { \pm } 0 . 1 ) \mathrm { m g ^ { \cdot } L ^ { - 1 } }$ （图4a)，总体的氨氮降解速率为 $1 . 0 \mathrm { m g } { \cdot } \mathrm { L } ^ { - 1 } { \cdot } \mathrm { d } ^ { - 1 }$ ，而菌株YB3 则使氨氮浓度由 $( 3 6 . 8 { \pm } 3 . 4 ) \mathrm { m g ^ { \bullet } L ^ { - 1 } }$ 持续下降为24d的 $( 3 . 2 { \pm } 1 . 1 ) \mathrm { m g ^ { \cdot } L ^ { - 1 } }$ （图4b)，降解速率 $1 . 4 \mathrm { m g } { \cdot } \mathrm { L } ^ { - 1 } { \cdot } \mathrm { d } ^ { - 1 }$ 。
+
+多元回归分析和通径分析结果显示，芽孢杆菌生长（gro）主要受cel、dtan和iod的影响（ $\scriptstyle { \cdot } { \cal P } { < } 0 . 0 0 1$ ， $R ^ { 2 } = 0 . 7 1$ ，图5a)，而gro 和stage 则对氨氮的转化（dtan）起主要作用（ $\cdot { \cal P } { < } 0 . 0 0 1$ ，$R ^ { 2 } = 0 . 5 5$ ，图 5b)。效应剖分显示，cel对gro 直接效应最大（0.73， $\scriptstyle P < 0 . 0 0 1$ ，表5)，而dtan的总效应最大（0.68， $P { < } 0 . 0 0 1$ ，表5)，iod的总效应不显著（ $\cdot P { > } 0 . 0 5$ ，表5）； $g r o$ 对dtan的直接效应和总效应最大（0.51， $P { < } 0 . 0 0 1$ ；0.68， $P { < } 0 . 0 0 1$ ；表6)，stage 也具有显著的总效应(-0.60， $\scriptstyle P < 0 . 0 0 1$ ，表6)。
+
+![](images/a435af04a1eb040b19bacab660b564ceda890cd8e0a335cbc704d6197a3d9b4a.jpg)  
+图4氯化铵培养基中菌株NT9与YB3的生长与氮转化情况 Fig. 4The growth and nitrogen conversion of strain NT9 in broth with $\mathrm { \Delta N H _ { 4 } C l }$ as unique nitrogen source
+
+![](images/4ff15370c85a2e33740900bc2429ea72193a82587d2823a5adcb123619fecaf8.jpg)  
+图5氯化铵培养基中芽孢杆菌生长（a）与氮转化（b）通径图（NULL表示缺失，图中模型为饱和模型，自由度为0，无法计算模型 $\chi ^ { 2 }$ 值、RMSEA值以及AGFI值，也无法进行相关检验(吴明隆,2018)。)Fig. 5The diagram of growth (a) and nitrogen conversion (b) of Bacillus strain in $\mathrm { \Delta N H _ { 4 } C l }$ broth
+
+表5氯化铵培养基中芽孢杆菌生长影响因子的效应剖分  
+Table 5The division of factors' effects on growth of Bacillus strain in $\mathrm { \Delta N H _ { 4 } C l }$ brotl   
+表6氯化铵培养基中芽孢杆菌氮转化影响因子的效应剖分  
+
+<html><body><table><tr><td rowspan="2">参数</td><td rowspan="2">总效应</td><td rowspan="2">直接效应</td><td colspan="4">间接效应</td><td rowspan="2">未析效应</td></tr><tr><td>cel</td><td>dtan</td><td>iod</td><td>合计</td></tr><tr><td>cel</td><td>0.48***</td><td>0.73***</td><td></td><td>0.15</td><td>-0.34</td><td>-0.20</td><td>-0.05</td></tr><tr><td>dtan</td><td>0.68***</td><td>0.43***</td><td>0.25</td><td></td><td>-</td><td>0.25</td><td>0.00</td></tr><tr><td>iod</td><td>-0.15 ns</td><td>-0.52***</td><td>0.48</td><td></td><td></td><td>0.48</td><td>-0.11</td></tr></table></body></html>
+
+able 6The division of factors‘ effects on nitrogen conversion of Bacillus strain in $\mathrm { \Delta N H _ { 4 } C l }$ bro   
+
+<html><body><table><tr><td rowspan="2">参数</td><td rowspan="2">总效应</td><td rowspan="2">直接效应</td><td colspan="3">间接效应</td><td rowspan="2">未析效应</td></tr><tr><td>gro</td><td>stage</td><td>合计</td></tr><tr><td>gro</td><td>0.68***</td><td>0.51***</td><td></td><td>0.17</td><td>0.17</td><td>0.00</td></tr><tr><td>stage</td><td>-0.60***</td><td>-0.33***</td><td>-0.27</td><td></td><td>-0.27</td><td>0.00</td></tr></table></body></html>
+
+# 3.2 模拟养殖水体中菌株生长与氮转化
+
+表7显示，在模拟养殖水体中，接种菌株NT9的水体（NT9水体）和接种菌株YB3的水体（YB3水体）也主要在氨氮浓度和菌株生长（总菌量）存在显著性差别（ $\cdot P { < } 0 . 0 5$ ）。亚硝酸氮浓度、硝酸氮浓度差异不显著（ $( P { > } 0 . 0 5 )$ ，因而均未作为自变量纳入通径分析。多元回归分析和通径分析结果显示，芽孢杆菌生长（gro）主要受cel、iod 和stage的影响（ $\cdot P { < } 0 . 0 0 1$ ，$R ^ { 2 } = 0 . 7 5$ ，图6a)，而氮转化作用（dtan）主要受cel、iod和ion的影响（ $\cdot \mathrm { \partial } P { < } 0 . 0 0 1$ ， $R ^ { 2 } = 0 . 9 2$ ，图6b）。效应剖分显示，cel对gro直接效应最大（1.99， $\scriptstyle P < 0 . 0 0 1$ ，表8)，iod的总效应最大(-0.69， $\scriptstyle P < 0 . 0 0 1$ ，表8)，但是cel和 stage 的总效应均不显著（ $P { > } 0 . 0 5$ ，表8)；ion 对 dtan的直接效应和总效应均最大（0.94， $P { < } 0 . 0 0 1$ ；0.87, $\scriptstyle P < 0 . 0 0 1$ ；表9)，cel和iod的总效应也显著（0.28， $P { < } 0 . 0 1$ ；0.21， $P { < } 0 . 0 5$ ；表9)。
+
+<html><body><table><tr><td>水质参数</td><td>NT9 水体</td><td>YB3 水体</td></tr><tr><td>氨氮浓度/(mg·L-1)</td><td>8.17 ± 2.33a</td><td>11.69 ± 2.89b</td></tr><tr><td>总菌量/(×10 cfu·ml-1) $</td><td>3.46 ± 2.39a</td><td>25.43 ± 8.84b</td></tr><tr><td>亚硝酸氮浓度/(mg·L-1)</td><td>0.02 ± 0.03</td><td>0.02 ± 0.03</td></tr><tr><td>硝酸氮浓度/(mg·L-1)</td><td>0.27 ± 0.33</td><td>0.31 ± 0.45</td></tr></table></body></html>
+
+注："数据进行 $\log _ { 1 0 } ( )$ 转换后进行显著性检验
+
+![](images/0e423525235d95118d99dd3c2845f2e50b452745b7605055649f69079744992f.jpg)  
+图6模拟养殖水体中芽孢杆菌生长（a）与氮转化（b）通径图 Fig. 6The path diagram of growth (a) and nitrogen conversion (b)of Bacillus strain in simulated aquaculture water body
+
+表72种模拟养殖水体的水质 Table 7 Water quality indices of two different water bodies   
+表8模拟养殖水体中芽孢杆菌生长影响因子的效应剖分  
+Table 8The division of factors’ effects on growth of Bacillus strain in simulated aquaculture water body   
+
+<html><body><table><tr><td rowspan="2">参数</td><td rowspan="2">总效应</td><td rowspan="2">直接效应</td><td colspan="4">间接效应</td><td rowspan="2">未析效应</td></tr><tr><td>cel</td><td>iod</td><td>stage</td><td>合计</td></tr><tr><td>cel</td><td>0.05 ns</td><td>1.99***</td><td>-</td><td>-1.62</td><td></td><td>-1.62</td><td>-0.32</td></tr><tr><td>iod</td><td>-0.69***</td><td>-1.84***</td><td>1.75</td><td></td><td>0.11</td><td>1.87</td><td>-0.72</td></tr><tr><td>stage</td><td>-0.17 ns</td><td>-0.52***</td><td>-</td><td>0.40</td><td></td><td>0.40</td><td>-0.60</td></tr></table></body></html>
+
+# 4讨论
+
+# 4.1 菌株活性、生长能力与氮转化作用分析与比较
+
+菌株 NT9具有较强的蛋白酶和淀粉酶活性，菌株YB3蛋白酶和淀粉酶活性较弱，而纤维素酶活性较强（黄海洪等，2022)。芽孢杆菌具有多种生理功能，如分泌蛋白酶、淀粉酶、脂肪酶、纤维素酶等多种酶类(RafaelMartinez-Cordova etal.,2017)，但与原始生境有关，不同的自然生态环境支持不同的优势菌种(康鹏亮等,2018)，可能进化出不同的活性。菌株NT9 从腊八豆中分离得到，这种发酵食品含有丰富的大豆蛋白、淀粉等物质，有利于蛋白酶和淀粉酶活性强的菌株的生长(Anand et al.,2014; Crab etal.,2010)，如许多从发酵食品（如豆豉、纳豆等）中分离的芽孢杆菌也都具有强烈的水解酶活性(吉美萍等,2016)。而菌株YB3分离自养殖水体，营养水平较低，酶的需求可能相对较弱。但是，上述差异也使菌株NT9对低营养环境的适应能力较差，生长期较短，生长量也较小。例如，在尿素培养基中，起始接种量相同的情况下（ $O D _ { 6 0 0 }$ 为0.010)，菌株 NT9 的生长在8d 即达到峰值 $( 0 . 0 4 1 { \scriptstyle \pm 0 . 0 0 7 } )$ （图1a)，而菌株 YB3则延长至12d，而且峰值为 $( 0 . 1 1 3 { \scriptstyle \pm 0 . 0 0 4 } )$ ，远高于菌株NT9（图1b）。在低浓度 $\mathrm { \Delta N H _ { 4 } C l }$ 培养液中也具有相似的生长结果，菌株NT9的生长达峰时间为8d,峰值 $( 0 . 0 4 2 { \scriptstyle \pm 0 . 0 0 1 } )$ （图4a），而菌株YB3为24d和 $( 0 . 0 9 8 { \scriptstyle \pm 0 . 0 0 3 } )$ （图4b）。
+
+表9模拟养殖水体中芽孢杆菌氮转化影响因子的效应剖分  
+Table9The division offactors’ effects on nitrogen conversion of Bacilus strain in simulated aquaculture water body   
+
+<html><body><table><tr><td rowspan="2">参数</td><td rowspan="2">总效应</td><td rowspan="2">直接效应</td><td colspan="4">间接效应</td><td rowspan="2">未知效应</td></tr><tr><td>cel</td><td>iod</td><td>ion</td><td>合计</td></tr><tr><td>cel</td><td>0.28**</td><td>0.43***</td><td>1</td><td>-0.18</td><td></td><td>-0.18</td><td>0.03</td></tr><tr><td>iod</td><td>0.21*</td><td>-0.21***</td><td>0.38</td><td></td><td>0.10</td><td>0.48</td><td>-0.06</td></tr><tr><td>ion</td><td>0.87***</td><td>0.94***</td><td></td><td>-0.02</td><td>-</td><td>-0.02</td><td>-0.05</td></tr></table></body></html>
+
+在整个试验过程中，接种菌株NT9的 $\mathrm { \Delta N H _ { 4 } C l }$ 培养基中的氨氮浓度持续下降，但未见亚硝酸氮和硝酸氮生成（图4a），说明菌株NT9也主要通过同化作用转化氨氮，而不具有硝化、亚硝化的功能(Ebeling etal.,2006)，这与菌株YB3的氮转化作用（图4b）以及前期研究结果一致(黄海洪等,2018)。以纯培养过程为例，在尿素培养基phase-1阶段，菌株NT9 使氨氮浓度由开始的 $( 0 . 4 \pm 0 . 1 ) \$ mg:L-上升至16d 的 $( 1 9 . 8 { \pm } 1 . 6 ) \$ mg·L-」（图1a)，总体的氨氮生成速率为$1 . 2 \mathrm { m g } { \cdot } \mathrm { L } ^ { - 1 } { \cdot } \mathrm { d } ^ { - 1 }$ ，而菌株YB3则使氨氮浓度由 $( 0 . 6 { \pm } 0 . 1 ) \mathrm { m g ^ { \cdot } L ^ { - 1 } }$ 上升至8d的 $( 2 7 . 7 { \pm } 3 . 0 ) \mathrm { m g ^ { \cdot } L ^ { - 1 } }$ （图1b)，生成速率 $3 . 4 \mathrm { m g } { \cdot } \mathrm { L } ^ { - 1 } { \cdot } \mathrm { d } ^ { - 1 }$ ，约为前者的3倍。在氯化铵培养基，菌株NT9 降解氨氮，浓度由 $( 2 7 . 7 { \pm } 4 . 3 ) \ \mathrm { m g ^ { \cdot } L ^ { - 1 } }$ 下降为24d的 $( 3 . 0 { \pm } 0 . 1 ) ~ \mathrm { m g ^ { . } L ^ { - 1 } }$ （图4a)，总体的氨氮降解速率为 $1 . 0 \ \mathrm { m g ^ { . } L ^ { - } }$ $\mathrm { ^ { 1 } { \cdot } d ^ { - 1 } }$ ，菌株 YB3 则使氨氮浓度由 $( 3 6 . 8 { \pm } 3 . 4 ) \mathrm { m g ^ { . } L ^ { - 1 } }$ 持续下降为24d的 $( 3 . 2 { \pm } 1 . 1 ) \mathrm { m g ^ { \cdot } L ^ { - 1 } }$ （图4b），降解速率 $1 . 4 \mathrm { m g } { \cdot } \mathrm { L } ^ { - 1 } { \cdot } \mathrm { d } ^ { - 1 }$ ，也稍高于前者。
+
+因此，总体来看，菌株NT9的水解酶活性和抑菌活性较强，但是对低营养环境的适应性较差，生长能力以及有机氮和氨氮降解能力均低于菌株YB3。
+
+# 4.2 通径分析模型评价
+
+通径分析出了构建和路径，还包括模型的评价。其中，最有效和最常用的评价指标主要有Chi-sq、CFI、RMSEA、GFI和 AGFI等(吴明隆,2018；易丹辉,2008)。其中,Chi-sq(Chi-square,$\chi ^ { 2 } )$ 为卡方值，表示模型与原始数据的差异程度，因此越小越好，另外在一定自由度（DF）下，也可以进行显著性假设检验，如果其对应的 $P { > } 0 . 0 5$ ，也说明模型拟合数据与原始数据差异不显著；CFI（comparative fit index）比较拟合指数，表示模型与饱和模型（即最佳模型）接近程度，一般情况下 $0 { \leq } \mathrm { C F I } { \leq } 1$ ，CFI越接近1，说明模型与数据越适配， $\mathrm { C F I } { > } 0 . 9 0$ 即可判定路径模型可以与数据适配；RMSEA（root mean square error ofapproximation）为渐进残差均方根，表示模型拟合数据与原始数据的残差大小，其值越小表示模型的适配度越高，当模型与数据完全适配时，RMSEA值为0，RMSEA ${ \underline { { < 0 . 0 5 } } }$ 表示模型适配度好，也可以对RMSEA进行假设检验，如果 $P { > } 0 . 0 5$ ，接受无效假设，即 $\mathrm { R M S E A } { \le } 0 . 0 5$ ；GFI（goodness of fit index）适配度指数，表示模型可以解释数据变异量的程度，AGFI（adjusted goodness of fit index）调整适配度指数，为无量纲指标，两者取值范围均为[0，1]，越接近1，表示模型可以解释数据变异的程度越大，模型可以被接受的判定标准为 $\mathrm { G F I } { > } 0 . 9 0$ 和 $\operatorname { A G F I > } 0 . 9 0$ 。本文所有模型的卡方检验结果、CFI值和GFI值都符合上述评价标准（图2、3、5和6)，表明模型能够很好地反映数据的变异。仅有少数几个模型的RMSEA值大于0.05，AGFI值低于0.90（图2a、3a和6a），但是其RMSEA假设检验结果并不显著( $\cdot P { > } 0 . 0 5$ ，图2a、3a和6a)，表明并不能拒绝RMSEA≤0.05的假设，同时AGFI值也均在0.80以上（0.80-0.88，图2a、3a和6a)，与0.90的最低标准相差不大，因此能够用来拟合数据(吴明隆,2018)。另外，各条路径上的系数以及所有的多元回归分析(MultipleRegression Analysis,MRA)模型也都达到显著或极显著水平( $\cdot P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ，图2、3、5和6)，具有统计学意义，同时模型的决定系数（ $\cdot R ^ { 2 }$ ）也达到较高的0.55-0.95，均表明模型中的自变量（菌株特性和环境因素）的综合作用对因变量（芽孢杆菌的生长和氮转化）具有重要影响。
+
+# 4.3 不同环境中芽孢杆菌生长与氮转化差异
+
+本研究共配置了3种液体介质，有机氮（尿素）和无机氮（氯化铵）唯一氮源低营养培养基，以及模拟养殖水体。其中，尿素培养基中又分为phase-1和phase-2两个阶段，主要根据氨氮含量的峰值进行划分（图1)。因此，本次研究实际共有4种培养环境，主要在起始接种量，氮源种类、投入量和投入方式，以及氮转化方向（表现为氨氮的生成或降解）等方面存在差异（表10)，而这可能导致不同环境中芽孢杆菌生长与氮转化的差异。首先，体现在模型决定系数（ $R ^ { 2 }$ ）的不同（图2、3、5和6)。总体来看，尿素培养基（phase-1和phase-2）的模型都能达到较高的 $R ^ { 2 }$ （0.91-0.95，图2和图3)，预测性较强，而氯化铵培养基和模拟养殖水体则相对较低（0.55-0.92，图5和图6)。从投入的氮源种类来看，尿素培养基phase-1和模拟养殖水体较为相似（表10)，由于前者为封闭式的纯培养环境，与后者的开放式培养环境，单一菌种的生长是较可预期的，因而可预测性高。尿素培养基phase-2和氯化铵培养基都是以氨氮为氮源的环境，前者预测性较高可能是因为已经累积了较高的菌量，菌群处于较稳定的状态（图1)，与此相反，后者起始菌量较少，还不稳定，因而不可预测性较高。另外，在这两种环境中，氨氮的转化主要通过菌株的同化作用进行（图4）(Ebeling etal.,2006；黄海洪等,2018)，处于较稳定状态的菌群可能同化氨氮的机制也比较稳定。其次，不同环境中，纳入模型的自变量也不尽相同（图2、3、5和6)，表明芽孢杆菌的生长与其氮转化功能的发挥对环境比较敏感。
+
+表104种环境条件主要差异Table 1ODifferences among four environments  
+
+<html><body><table><tr><td rowspan="2">项目</td><td colspan="2">尿素培养基</td><td rowspan="2">氯化铵培养基</td><td rowspan="2">模拟养殖水体</td></tr><tr><td>phase-1</td><td>phase-2</td></tr><tr><td>起始菌量</td><td>低</td><td>高</td><td>低</td><td>高</td></tr><tr><td>无机氮（氨氮）投入量</td><td>无</td><td>高</td><td>高</td><td>无</td></tr><tr><td>有机氮投入量</td><td>高</td><td>无</td><td>无</td><td>低</td></tr><tr><td>氮源投入方式</td><td>一次性</td><td>累积生成</td><td>一次性</td><td>持续多次</td></tr><tr><td>氨氮去向</td><td>生成</td><td>降解</td><td>降解</td><td>生成</td></tr></table></body></html>
+
+4.4菌株活性和环境因素对芽孢杆菌生长与氮转化作用的影响
+
+(1)菌株活性的直接效应
+
+通径分析显示，纤维素酶活性对菌株生长（gro）具有显著的促进作用（ $_ { \cdot } P { < } 0 . 0 0 1$ ，图2a、3a、5a和6a），同时对有机氮（7b和表10）和氨氮（图3b和表10）的降解（dtan）也都具有显著的促进作用（ $\scriptstyle P < 0 . 0 0 1$ ）。纤维素酶对微生物具有重要的意义，较高的纤维素酶活性可以提高纤维素的利用效率，而纤维素则能够作为益生元促进微生物的生长(Qinetal.,2016)，并能够降低水体氨氮浓度(Deng etal.,2018)。但是，蛋白酶和淀粉酶活性并未对 gro 或dtan 表现出显著影响。研究表明，虽然有机氮的降解与微生物分泌的酶具有一定的关系(周广静等，2017)，但是可能也与水体中微生物的其它活动有关(张庆华等,2011)，李木明 (2016)和闫法军等 (2013)均发现，有机氮降解率最高的芽孢杆菌，水解酶活力并不很高。
+
+抑菌活性对gro 和dtan均未表现出显著影响。因为本研究仅针对少数几种水产病原菌测定菌株的抑菌活性，纯培养环境中缺乏作用对象，抑制作用可能并未发生。同样，在模拟养殖过程中，绝大多数的也是非病原微生物，如变形菌、拟杆菌等(Cardona et al.,2016；于永翔等,2017)。前期研究也显示，在未接种芽孢杆菌的对照模拟养殖水体中，总菌量可以在 8d 内迅速增长到 $5 . 8 2 { \times } 1 0 ^ { 5 } \mathrm { c f u } { \cdot } \mathrm { m l } ^ { - 1 }$ (黄海洪等,2019)。同时，NT9水体总菌量下降，而YB3水体增加（表7)，也可能与两株菌对非病原菌抑制作用的强弱有关。因此，此次研究所采用的抑菌活性并不能代表对水体中其它微生物的抑制能力，下一步还需要对水体微生物的总体抑制活性进行测定，才能最终确定抑菌活性对菌株生长和氮转化作用的影响。
+
+但是，应该注意的是，此次研究的各种活性只是作为菌株固有的特性，并不是试验过程中实时、动态的活力，两者仅仅是名称相同，内涵却是不同的。因此，上述研究结果只能说明前者可能在菌株筛选中的指示意义，而并不能直接否定后者实际活性的作用。
+
+（2）环境因素的直接影响
+
+本次研究中，主要有4个环境因素作为自变量纳入了通径分析，起始菌量（iod）、起始有机氮含量（ion）、起始无机氮含量（itann）和时间阶段（stage）。模拟养殖水体的其它水质条件，如亚硝酸氮浓度、硝酸氮浓度、温度、溶解氧、pH、盐度、碱度和硬度等，因为水体间的差异不显著（ $P { > } 0 . 0 5$ ，表7)，也均未作为纳入分析。iod 对 gro具有显著的消极影响0 $( P { < } 0 . 0 0 1$ ，图2a、5a 和6a)，与前期的水体总菌量（起始菌量）对微生物的增殖具有负效应研究结果一致(黄海洪等,2019)，推测可能也与营养竞争有关，因为本次研究的培养环境均处于低营养水平。但是，iod对尿素培养基phase-2的gro影响不显著（图3a)，可能与该环境条件下菌株生长处于稳定状态、菌量变化不大有关（图1)。同时，iod对dtan也具有显著的影响（ $. P { < } 0 . 0 5$ 或 $P { < } 0 . 0 0 1 \rangle$ ，表现为在尿素培养基phase-1促进氨氮的生成（图2b)，这是由于菌量增加，氨化作用也将增强的缘故，但是在模拟养殖水体却表现为抑制氨氮的生成(图6b)，可能与该环境接种量较大，氮源分批投入，投入量相对较低（表10)，因而存在营养竞争，产生的氨氮可能又部分被同化等有关。研究表明，根据环境条件调整芽孢杆菌的投加量或投加方式，如改变使用剂量(Dosages)和周期(Time duration)，能够达到更好的使用效果(Hai,2015)。iod 在尿素培养基phase-2也抑制氨氮的降解（图3b)，可能是因为该阶段菌量较大，代谢量大，排放的氨氮量较多(乐毅全和王士芬,2011)，因而中和了一部分降解的氨氮量。
+
+ion 代表了环境的有机氮源状况，但只存在于尿素培养基phase-1和模拟养殖水体(表10)。ion 仅对phase-1的gro具有抑制作用（ $\cdot \mathrm { \partial } P { < } 0 . 0 0 1$ ，图2a），在此阶段，ion为一次性投入（表10），表明这种投加方式可能对菌株后期的生长影响不利，因为前期菌量较小，氮源需求量也少，一次性投加可导致氮源过剩，而随着菌株的生长，对氮源的需求越来越多，却没有氮源补充投入，因而对生长产生抑制。同时，ion也能够积极影响这两种环境中的dtan( $P { < } 0 . 0 0 1$ ，图 2b 和图6b），但是在模拟养殖水体中的效应更强，表明氮源的投入及其方式能够加强氨化作用，说明也可以对ion的投加量或投加方式进行调整，以促进芽孢杆菌使用效果，这与调整菌株剂量（Dosages）加强使用效果的操作相似(Hai,2015)。itann 代表了环境的氨氮无机氮源的状况，但仅对尿素培养基中的gro具有显著影响（ $\cdot \mathrm { \partial } P { < } 0 . 0 0 1$ ，图2a和图3a）。在phase-1中，氨氮不作为菌株生长的主要氮源，而是生长代谢的副产物，氨氮增加，意味着用于生长的氮量是减少的(乐毅全和王士芬,2011)，因而 itann 对菌株生长呈现负作用（图2a)。在 phase-2 中，氨氮则是菌株生长的主要氮源，因而能够显著促进gro（ $\cdot \mathrm { \partial } P { < } 0 . 0 0 1$ ，图3a）。但是在与phase-2氮源情况相似的氯化铵培养基中（表10），itann 对gro 并未表现出显著的影响，主要是其起始菌量较低，营养较充足，竞争较小，itann不是限制生长的因素。
+
+stage 为时间阶段，是微生物增殖能力、功能活性和营养水平的综合反映，与微生物增殖及功能活性的衰退成正比，也一定程度上反映了营养物质的消耗(黄海洪等,2019)，因而对 gro和dtan都表现出显著的不利影响（ $\cdot \mathrm { \partial } P { < } 0 . 0 0 1$ ，图2b、图5b和图6a）。
+
+（3）菌株活性与环境因素的交互作用（间接效应）
+
+菌株活性和环境因素除了对gro与dtan具有直接的作用，还表现出一定的间接效应。例如，纤维素酶活性（cel）主要与ion（图2a）和iod（图3b、图5a、图6a和图6b）等表示氮源水平、微生物含量的环境因素具有显著的相关关系（ $\scriptstyle P < 0 . 0 0 1$ ），对gro和dtan产生间接影响（表1、表4、表5、表8和表9)。这与水解酶水解营养物质，提高营养物质的可利用性，从而有利于微生物的吸收、生长的作用方式一致(乐毅全和王士芬,2011)。同时，环境因素之间，例如微生物含量因素（iod)、氮源水平因素（itann 和ion）与时间阶段因素（stage）三者之间的具有显著的相关关系（ $. P { < } 0 . 0 5$ ，图 $2 \mathrm { a }$ 、b 和图6a、b)，进而对gro 和dtan产生间接影响（表1、表2、表8和表9)。这都体现了微生物与环境之间的互作关系。但是，不同的环境中菌株活性与环境因素相互作用的方式也不一样，如尿素培养基phase-1中，cel与 ion 正相关，与iod无显著相关（图2a)，而在模拟养殖水体中，cel与iod正相关（图6a、b)，说明不同环境条件影响菌株活性的作用方式。
+
+虽然尚不能对间接效应进行显著性检验(吴明隆,2018)，但总体来看，ion 和iod较大地减弱了cel对gro的促进作用，反之，cel也能够减弱ion和iod对gro 的抑制作用（表1、表5和表8)。同时，iod也能够减弱 stage对gro的抑制作用（表8）。iod还减弱ion（表2）和cel（表4）对dtan的促进作用，反之cel则减弱 iod对dtan的抑制作用（表4和表9)。另外，iod 也能够减弱 stage 对dtan 的抑制作用，相反stage 则减弱iod对dtan的促进作用（表2）。这些结果表明，菌株活性与环境因素之间的相互关系对芽孢杆菌生长与功能具有复杂的影响。
+
+（4）菌株活性和环境因素的综合效应
+
+综合来看，对gro 的总效应达到显著水平的菌株活性和环境因素，在尿素培养基phase-1为cel（0.64， $P { < } 0 . 0 0 1$ ）和iod（-0.40， $P { < } 0 . 0 1$ ，表1），phase-2为itann（0.90， $P { < } 0 . 0 0 1$ ，表3)，氯化铵培养基为cel（0.48， $\scriptstyle P < 0 . 0 0 1$ ，表5)，模拟养殖水体为iod（-0.69， $P { < } 0 . 0 0 1$ ，表8）。与此同时，phase-1的itann（表1）、phase-2中cel（表3）、氯化铵培养基iod（表5）和模拟养殖水体cel（表8）等的总效应均不显著。上述结果表明，菌株活性因素cel可能主要在起始接种量较低的环境（尿素培养基phase-1和氯化铵培养基，表10）中起促进作用，且与氮源种类无关，而iod则主要在有机氮源环境（尿素培养基phase-1和模拟养殖水体，表10）中抑制菌株的生长，与模拟养殖水体菌量对微生物的增殖具有显著的综合性负效应的前期研究结果一致(黄海洪等,2019)。
+
+类似地，对dtan 的总效应达到显著水平的菌株活性和环境因素，在尿素培养基phase-1为iod （0.60， $P { < } 0 . 0 0 1$ ，表2），氯化铵培养基 stage（-0.60， $\scriptstyle P < 0 . 0 0 1$ ，表6)，模拟养殖水体cel(0.28， $P { < } 0 . 0 1$ ）、iod（0.21， $\scriptstyle P < 0 . 0 5$ ）和ion（0.87， $P { < } 0 . 0 0 1$ ，表9)，同时phase-1中ion（表2）以及phase-2中cel和iod（表4）的总效应均不显著。这些结果表明iod能够在有机氮源环境（尿素培养基 phase-1和模拟养殖水体，表10）中促进有机氮的降解，因为iod 高意味着参与氨化作用的菌量也多，同时也表明cel和ion可能仅在菌量较高的有机氮源环境（模拟养殖水体，表10）中对有机氮的降解产生敏感的影响，因为菌量较高，存在营养竞争，营养为限制性因素。
+
+在通径分析中，自变量对因变量的总效应即是两者的相关系数(杜家菊和陈志伟,2010)，而本研究结果显示，在各路径中作用均显著的因子（自变量)，对因变量的总效应也不一定显著，说明在研究分析过程中单纯采用相关分析并不能充分、有效地揭示自变量对因变量的影响，也表明了通径分析的巨大优势。
+
+# 4.5 菌株生长与氮转化之间的相互关系
+
+芽孢杆菌生长与氮转化作用彼此之间也相互直接影响。首先，gro 在纯培养基中对 dtan具有直接的显著积极影响（ $\scriptstyle { \cdot } { \cal P } { < } 0 . 0 0 1$ ，图2b、3b和6b）。具体来看，在尿素培养基 phase-2 阶段和氯化铵培养基中，gro对dtan均具有促进作用（图3b 和6b），在两种环境中，氨氮为主要氮源或唯一氮源，菌株通过同化氨氮进行生长(乐毅全和王士芬,2011)，因而会导致氨氮含量下降。与尿素培养基phase-1中，gro 对 dtan 也表现出促进作用（图2b），但是在模拟养殖水体未表现出显著的影响（图6b），可能是因为模拟养殖水体起始接种量较大，整个试验过程菌群比较稳定，未有足够大的菌量变已引起dtan的显著变化。其次，dtan 对gro也具有直接的显著促进作用，但仅限于尿素培养基phase-2和氯化铵培养基( $\cdot P { < } 0 . 0 0 1$ ，图3a和图5a）。主要是因为在这两种环境中，氨氮为主要氮源或唯一氮源，同化的氨氮降解直接转化为菌株的生长，因而dtan表现出对gro 的显著影响。
+
+另外，gro 和dtan也能够相互间接影响。首先，gro 通过菌株活性（cel，表4）或环境因素（iod，表2；stage，表2和表6）对dtan产生间接影响。gro与cel具有正相关关系（图3b)，与iod（图2b）和 stage（图2b 和图5b）均为负相关关系，这与水解酶增强营养物质可利用性、有利生长，而菌量增加和时间延长则加剧了竞争。但是，与尿素培养基phase-1（图
+
+2b）不同，在phase-2，gro与iod并未表现出显著的相关关系（图3b)，可能与该阶段菌量较高、处于稳定状态有关（图1和表10)。其次，dtan 也能够通过cel（图5a 和表5）或 itann（图 3a 和表3）间接影响gro，当然也仅限于以氨氮为主要氮源或唯一氮源的尿素培养基phase-2（图3a）以及氯化铵培养基（图5a）。gro 对dtan相互间接影响最终主要体现为，dtan通过itann（表3）和cel（表5）较大地增强对gro的促进作用，并增强itann 对gro的促进作用（表3），而gro也能够通过iod减弱对dtan的促进作用（表2)，同时增强 stage 对dtan的抑制作用（表2和表6)，并减弱iod对dtan的促进作用（表2）。
+
+综合来看，gro 对dtan 相互作用的总效应均达到显著水平（ $\cdot P { < } 0 . 0 1$ ，表2-8），如在尿素培养基phase-2和氯化铵培养基（表5）中，dtan 对gro 的总效应为0.93和0.68（ $\scriptstyle P < 0 . 0 0 1$ ，表3； $\scriptstyle P < 0 . 0 0 1$ ，表5)。gro 对dtan 的总效应达到显著水平的，分别为尿素培养基 phase-1和phase-2的0.38 和0.93（ $\cdot { \cal P } { < } 0 . 0 1$ ，表2； $\scriptstyle P < 0 . 0 0 1$ ，表4)，以及氯化铵培养基的0.68（ $_ { . } { \scriptstyle { P < 0 . 0 0 1 } }$ ，表6)。
+
+综上所述，芽孢杆菌生长与氮转化作用比较复杂，除了受菌株活性和环境因素的影响外，彼此之间也相互影响，使它们的关系呈现一定的结构性，对此还需要采用结构方程模型进行深入研究。
+
+# 5结论
+
+（1）通径分析显示，模型的决定系数可达0.55-0.95，表明菌株特性和环境因素的综合作用对低营养水体中芽孢杆菌的生长和氮转化作用具有重要影响。例如，菌株纤维素酶活性（cel)对芽孢杆菌生长（gro）和氮转化（dtan）具有直接的显著积极影响（ $. P { < } 0 . 0 0 1 )$ ，而水体起始的菌量（iod）和有机氮含量（ion）的影响则受环境条件的制约，提示在实际应用过程中，可能需要结合环境条件拟定菌株、氮源等的投加量和投加方式，以达到更好的使用效果。
+
+（2）分析也显示，菌株活性与环境因素具有交互作用（ $_ { \cdot \mathrm { P } < 0 . 0 5 ) }$ ，对gro 和dtan产生间接效应。同时，gro和dtan相互之间也具有直接的促进效应（ $\scriptstyle \cdot \mathbf { P } < 0 . 0 0 1$ )，并且可以通过菌株特性或环境因素对彼此产生间接效应，表明两者的关系具有一定的结构性，还需要应用结构方程模型进一步研究。
+
+责任作者简介：黄海洪，男，博士，副教授，主要从事养殖水体微生态调控与循环利用等方面的研究。
+
+# 参考文献：
+
+AnandPSS,KohliMPS,KumarS,etal.2O14.Efectofdietarysupplementationofbioflocongrowth performanceanddigestive enzyme activities in Penaeus monodon [J]. Aquaculture,418: 108-115   
+Avnimelech YandKochba M.2O9.Evaluation of nitrogen uptake and excretion by tilapia in bio floc tanks,using $1 5 \mathrm { N }$ tracing [J]. Aquaculture,287 (1): 163-168   
+Burford MAandWilliams KC.20o1.The fate of nitrogenous waste from shrimp feeding[J].Aquaculture,198(1):79-93   
+CardonaE,GueguenY,MagreK,etal.O16.BacterialcommunitycharacterzatioofwateranditestineoftesripLopaes stylirostris in a biofloc system [J]. BMC Microbiology,16: 1-9   
+CrabR,Chieles B,WilleM,etal.2O10.Theeffectofdiferentcarbonsouresonthenutritionalvalueofbioflocs,afeed for Macrobrachium rosenbergii postlarvae [J].Aquaculture Research,41(4): 559-567   
+Deng M,ChenJ,HouJ,etal.20l8.Theectofdierentcarbonsourcesonwaterqualitymicrobialcommunityandstructureof biofloc systems [J]. Aquaculture, 482: 103-110   
+杜家菊和陈志伟.2010.使用 SPSS 线性回归实现通径分析的方法 [J].生物学通报,45(2):4-6   
+Ebeling JM,Tmmons MBandisogniJ6.Engineringanalysisof thestoiciometryofphotoautotrophic,autotroc,nd heterotrophic removal of ammonia-nitrogen in aquaculture systems [J]. Aquaculture,257 (1-4): 346-358   
+ElsabaghM,MohamedR,MoustafaEM,etal.2018.AssssngtheimpactofBacillusstrains mixture probioticonwateruality growth performance,blood profileandintestinal morphologyofNile tlapia,Oreochromisiloticus[J].AquacultureNutrition, 24(6): 1613-1622   
+Ferreira MGP,MeloFPimaJPV,etal.20l7.Bioremediationandbiocontrolofcommercial probioticinmarineshrimpculture with biofloc [J]. Latin American Journal of Aquatic Research,45 (1): 167-176
+
+FungesmithSJandMrpB.1998.Nutrientbudgetsinintensiveshrimpponds:implicationsforsustainabilty[J].Aquaculture,164 (1-4): 117-133
+
+GaoJ,GaoD,iuHtloetitroicriilsmegte9eseaclue water quality management [J]. Journal of Environmental Management,222: 104-111
+
+国家环境保护总局.2002.水和废水监测分析方法（第四版）[M]．北京：中国环境出版社.258-285Hai N V.2015.The use of probiotics in aquaculture[J]. Journal of Applied Microbiology,119 (4): 917-935黄海洪，陈倩，类延菊，等.2019.低营养水体中芽孢杆菌降解有机氮的研究[J].环境科学学报,39(2):325-335黄海洪，贺莉,类延菊，等.2018．一株芽孢杆菌在低氮源浓度培养基中的生长与氨氮去除特性[J].环境科学学报,38 (1):
+
+183-192   
+黄海洪，李朝云，类延菊，等.2022．芽孢杆菌特性对养殖水体氮转化作用的影响[J].ChinaXiv,DOI：10.12074/202205.00108   
+吉美萍，肖志婷，那日，等.2016.纳豆芽孢杆菌的相关研究进展[J].河南师范大学学报(自然科学版),44(5):83-93   
+康鹏亮，张海涵，黄廷林，等.2018．湖库沉积物好氧反硝化菌群脱氮特性及种群结构[J]．环境科学,39(5):1-10   
+LaraG,KrummeerDbruPetal.7.eseofereatorsnLipesameibofloclurestcts on water quality,shrimp growth and biofloc composition [J]. Aquaculture International, 25 (1): 147-162   
+李木明．降解有机质芽胞杆菌的筛选及其净化模拟污染水体的特性 [D]．厦门：华侨大学,2016.   
+LinYandChenJ.1.AcutetoxicityofammoniaonLitopenaeus vannameiBoonejuvenilesatdiferentsalinitylevelsJ.ual of Experimental Marine Biology and Ecology, 259 (1): 109-119   
+LinYCandChen JC.2O03.Acute toxicityof nitriteon Litopenaeus vannamei (Boone)juveniles atdiferentsalinitylevels[J]. Aquaculture,224 (1): 193-201   
+LuoG,WangJ,aNetal16.ectsofoculatedBcilssbilisogeoindmethylsoboeolmoalinspdd growth eactorsusing aquacultural waste for bioflocproduction[J].Journal ofMicrobiologyand Biotechnology,26(8):1420- 1427   
+PiedrahitaRH.2O03.Reducing thepotentialenvironmental impactof tank aquacultureefluents through intensificationand recirculation [J]. Aquaculture,226 (1): 35-44   
+Prata GaonaCA,deAlmeida MS,ViauV,etal.2O17.Efectofdiferenttotalsuspendedsolids levelsonaLitopenaeusaamei (Boone,1931) BFT culture system during biofloc formation [J].Aquaculture Research,48 (3): 1070-1079   
+齐振雄，李德尚，张曼平，等.1998．对虾养殖池塘氮磷收支的实验研究 [J]．水产学报,22(2):124-128   
+QinY,HouJg6ctedidtepdits.ie 6(35232):1-13   
+RafaelMartine-CordoaL,Martinez-PorchasM,CoeloEmerencianoMG,etal.20l7.Frommicrobes tofshthenextrevolutioin food production [J]. Critical Reviews in Biotechnology, 37 (3): 287-295   
+吴明隆.2018.结构方程模型——AMOS 的操作应用（第二版）[M]．重庆：重庆大学出版社.1-517   
+谢凤行，张峰峰，周可，等.2012.一株解淀粉芽胞杆菌的分离鉴定及水质净化效果的研究[J].环境科学学报,32(11):2781- 2788   
+薛宝宝，李浩，牛东红，等.2018．不同月龄缢蛏新品种数量性状的相关与通径分析 [J]．水产学报,42(6):941-949   
+闫法军，田相利，董双林，等.2013．刺参养殖池塘降解有机污染物常、低温芽孢杆菌的分离筛选[J].中国海洋大学学报(自 然科学版)自然科学版,43 (6):   
+Yang XP, WangSM,ZhangDW,etal011.Isolationandnitrogenremovalcharacteristics ofanerobicheterotrophicirifg denitrifying bacterium, Bacillus subtilis A1 [J]. Bioresour Technology,102 (2): 854-862   
+易丹辉.2008．结构方程模型方法与应用[M]．北京：中国人民大学出版社.1-208   
+Yu CH,WangY,GuoT,etal.2l2.solationadidentificatioofmmoniatrogendegadationstraisfromidustral wastewater [J].Engineering,790-793   
+于永翔，姜燕，张正，等.2017.添加外源益生菌对大菱鲆育苗生物饵料菌群结构的影响 [J].水产学报,41(4):602-612   
+乐毅全和王士芬.2011．环境微生物学（第二版）[M].北京：化学工业出版社.1-246   
+张庆华，封永辉，王娟，等.2011.地衣芽孢杆菌对养殖水体氨氮、残饵降解特性研究[J]．水生生物学报,35(3):498-503
+
+周广静，张晓波，朱笔通，等.2017.海洋着色菌YL28对含沉积物的海水养殖水体氮污染去除效应的研究[J].氨基酸和生物资源,39(6): 441-447
+
+(通讯作者：黄海洪E-mail:shinkanh@nwafu.euc.cn；李朝云 E-mail:cyzyli@163.com)
+
+# 作者贡献声明：
+
+黄海洪，李朝云：提出研究思路，设计研究方案，分析数据，论文起草；  
+类延菊，邹万生，武孟祥：实验，采样，测定；  
+杨品红：论文最终版本修订。

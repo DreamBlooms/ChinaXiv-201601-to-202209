@@ -1,0 +1,321 @@
+2 张智尹文哲²\*牙 雅男’马建章3\*\*
+
+3 （1.东北林业大学林学院，哈尔滨150040；2.哈尔滨医科大学附属第二医院，哈尔滨  
+4 150086；3.东北林业大学野生动物资源学院，哈尔滨150040）
+
+摘要：本试验旨在从大熊猫粪便中筛选出能够降解纤维素的菌株，并对该菌株进行鉴定和产酶条件的优化。利用羧甲基纤维素钠（CMC-Na）为唯一碳源的培养基，结合碘液染色法、滤纸分解试验和纤维素酶活力测定，从大熊猫粪便中筛选得到1株纤维素降解菌DL。结合形态学观察、生理生化特征和16SrDNA 基因序列同源性分析，初步鉴定该菌株为Paenibacillus cookiiLZ033，它是一种产芽孢且好氧的革兰氏阳性细菌。为确定菌株DL的最佳产酶条件，选取培养基初始pH、培养温度、摇床转速以及装液量4个因素，在单因素试验结果的基础上，利用正交试验，确定菌株DL 的最佳产酶条件为培养基初始pH为6、培养温度为 $3 5 \mathrm { ~ \textdegree C }$ 摇床转速为 $1 2 5 ~ \mathrm { r / m i n }$ 、 $2 5 0 ~ \mathrm { m L }$ 三角瓶装液量为 $1 0 0 ~ \mathrm { m L }$ ，在此条件下纤维素酶活力（以滤纸酶活力表示）为 $1 0 2 . 3 \mathrm { U / m L }$ 。
+
+关键词：大熊猫粪便；纤维素降解菌；产酶条件中图分类号：Q93 文献标识码：A 文章编号：
+
+大熊猫是我国特有的珍稀动物，1984 年被列入世界 10 种濒危物种之一[1-2]。10 月龄的亚成年大熊猫食性转变为以竹子为主的高纤维食物[3]，每只成年大熊猫每日进食竹子量可达$1 2 { \sim } 3 8 \mathrm { k g } ^ { [ 4 ] }$ ，大熊猫可利用竹子中 $8 \%$ 的纤维素和 $2 7 \%$ 的半纤维素[5]。大熊猫的消化系统属于典型的肉食性哺乳动物消化系统[，2010年大熊猫的基因组序列公布，从中可以找到编码与肉食性动物消化系统相关的酶的基因，但不存在任何纤维素酶的基因7，因此大熊猫对纤维
+
+Ⅰ素的消化主要是由肠道微生物来完成的[8-10]。大熊猫的肠道只有小肠和大肠，肠道长度较短，  
+）且氧气含量较高，由此猜测大熊猫肠道更适宜需氧或兼性厌氧的微生物生长[1]。大熊猫肠道中任何一个微生物的改变都可能引起其消化系统紊乱，甚至导致死亡的发生。因此，研究大熊猫肠道微生物区系尤为重要，对肠道疾病可起到一定的预防作用，从而改善大熊猫的健康水平，并且也是研制大熊猫微生态制剂的基础。虽然自然界中存在着许多能够降解纤维素的微生物，但是大熊猫属于珍稀动物，更应该考虑喂养的安全性，从大熊猫粪便中筛选出的纤维素降解菌比从其他环境中分离得到的微生物更适合作为大熊猫的微生态制剂或饲料添加剂。近年来，大熊猫肠道微生物得到了国内外的广泛关注。例如，张志和等[12]、Hirayama等[13]对大熊猫肠道菌群进行了分离、鉴定；蒋芳[14]从熊猫粪便中分离、筛选出能产生纤维  
+一 素酶的沙雷氏菌；谷武阳[15]从熊猫粪便中分离、筛选出能产生纤维素酶的芽孢杆菌；Zhou  
+2 等[16从大熊猫肠道中分离出的芽孢杆菌不仅能够分解纤维素，还可以抑制肠道中病原菌的  
+3 增殖。  
+4 本试验拟从雅安碧峰峡基地饲养的健康、无腹泻大熊猫林冰的粪便中分离得到一株需氧  
+5的纤维素降解菌,并对该纤维素降解菌的产酶条件进行优化，以丰富纤维素酶的微生物来源，  
+5并为大熊猫微生态制剂的制备提供参考数据。  
+71材料与方法  
+31.1样品来源  
+） 试验样品为雅安碧峰峡基地饲养的健康、无腹泻大熊猫林冰（雌性，生于 2009年）的  
+） 新鲜粪便。  
+1 1.2培养基  
+2 牛肉膏蛋白陈培养基：牛肉膏 $3 \mathrm { g }$ ，蛋白陈 $1 0 \mathrm { { g } }$ ， $\mathrm { { N a C l } } 5 \mathrm { { g } }$ ，蒸馏水 $1 ~ 0 0 0 ~ \mathrm { { m L } ^ { [ 1 7 ] } }$ 。  
+3 筛选培养基：牛肉膏 $ { 3 \mathrm { ~ g ~ } }$ ，CMC-Na ${ 4 \mathrm { g } }$ ， $\mathbf { N a C l 5 g }$ ，琼脂 $1 6 \mathrm { g }$ ，蒸馏水 $1 0 0 0 ~ \mathrm { { m L } }$ 。菌种保藏培养基：酵母粉 ${ \mathfrak { s } } _ { \mathrm { g } }$ ，蛋白脉 $\boldsymbol { 1 0 } \mathrm { g }$ ，NaC1 $\boldsymbol { 1 0 } \mathrm { \ : g }$ ，琼脂 $2 0 \mathrm { g }$ ，蒸馏水 $1 0 0 0 \mathrm { m L } ^ { [ 1 8 ] }$ 。  
+发酵培养基：磷酸二氢钾 $_ \textrm { 1 g }$ ，葡萄糖 $6 \mathrm { g }$ ，蛋白陈 $\textrm { \tiny 8 g }$ ，硫酸镁 $0 . 5 \mathrm { ~ g ~ }$ ，蒸馏水 $1 0 0 0 ~ \mathrm { { m L } }$ 。
+
+# 1.3纤维素降解菌的筛选
+
+# 1.3.1 富集培养
+
+在超净工作台中，称取新鲜粪便中间部分 $\mathrm { ~ 1 0 ~ g ~ }$ ，放入装有玻璃珠的 $9 0 ~ \mathrm { m L }$ 无菌水中，连续振荡 $2 0 \mathrm { m i n }$ ，制成菌悬液。吸取 $1 ~ \mathrm { m L }$ 菌悬液，加入到 $1 0 0 ~ \mathrm { { m L } }$ 牛肉膏蛋白陈培养基中，在 $3 7 \ \mathrm { { ^ circ C } }$ 、 $1 5 0 ~ \mathrm { r / m i n }$ 恒温振荡器中培养 $2 4 \mathrm { h } ^ { [ 6 ] }$ 。
+
+# 1.3.2 初筛
+
+将培养后的大熊猫粪便混合菌液做标准10 倍稀释[19]，各吸取稀释度为 $1 0 ^ { - 5 } , \ 1 0 ^ { - 6 } , \ 1 0 ^ { - 7 } .$ ${ { 1 0 } ^ { - 8 } }$ 倍的菌液 $1 0 0 ~ \mu \mathrm { L }$ 涂于筛选培养基上，每个稀释度做3个平行，倒置放入 $3 7 \ \mathrm { { ^ circ C } }$ 培养箱中培养 $2 4 \mathrm { h }$ 。培养完成后滴加碘液染色[20]，静置 $3 \mathrm { m i n }$ ，观察培养基上是否产生透明圈。
+
+# 1.3.3 复筛
+
+测量培养基中菌落的透明圈直径（ $D$ ，cm）与菌落直径（d，cm)，计算二者的比值，选取比值较大的菌株测定纤维素酶活力[21]。
+
+# 1.3.3.1 酶活力的测定
+
+采用3,5-二硝基水杨酸（DNS）试剂法测定纤维素酶活力[22]，通常纤维素酶总活力用滤纸酶活力（filter paper activity,FPA）来表示，FPA定义：每小时底物产生 $1 \ \mu \mathrm { m o l }$ 葡萄糖所需酶量为1个酶活力单位（U)。FPA（ $\mathrm { \Delta U / m L }$ ）计算公式如下：P $\mathrm { \Delta \cdot P A ( U / m L ) = }$ （葡萄糖 $\times$ 酶液定容体积 $\times 5 . 5 6$ )/（反应体系中加入的酶量 $\times$ 滤纸质量 $\times$ 时间）。式中：5.56为 $1 \mathrm { m g }$ 葡萄糖的 $\mu \mathrm { m o l }$ 数。
+
+# 1.3.3.2 滤纸分解试验
+
+将筛选得到的菌株放入以滤纸为唯一碳源的液体培养基中[19]，空白对照组不接种菌株。在 $3 7 \ \mathrm { { ^ \circ C } }$ 、 $1 5 0 ~ \mathrm { r / m i n }$ 恒温振荡器中连续培养7d，每日同一时间拍照记录滤纸分解情况。
+
+# 1.4 菌株鉴定
+
+# 1.4.1 菌株的形态学观察及生理生化特征
+
+观察菌落的隆起形状、形态、透明度、质地、颜色、边缘等。细胞的形态学观察主要是通过革兰氏染色，借助显微镜对细胞的大小、结构、排练方式以及芽孢、鞭毛等进行观察[7]。菌株的生理生化特征描述参照 Taxonomic Outline of the Procaryotes，Bergey's Manual ofSystematic Bacteriology[23]及《常见细菌系统鉴定手册》[24]进行。
+
+# 1.4.2 菌株16SrDNA的PCR扩增及序列分析
+
+采用试剂盒对菌株基因组DNA进行提取，使用引物7F(5'-CAGAGTTTGATCCTGGCT-3')和 1540R(5'AGGAGGTGTCCAGCCGCA)对菌株的 16SrDNA序列进行扩增。PCR循环条件： $9 4 ~ \mathrm { { ^ { \circ } C } }$ 预变性 $3 \mathrm { m i n }$ ： $9 4 ^ { \circ } \mathrm { C }$ 变性 $1 \mathrm { m i n }$ ， $5 6 ~ \mathrm { ^ { \circ } C }$ 退火 $1 \mathrm { m i n }$ 72℃延伸 $2 ~ \mathrm { m i n }$ ，共 30个循环；72℃修复延伸 $1 0 ~ \mathrm { { m i n } }$ ；4℃保存[25]。获得的 PCR产物送至上海生工生物工程技术服务有限公司进行测序。16SrDNA序列在核糖体数据库(http://rdp.cme.msu.edu/index.jsp）上比对。
+
+# 1.5纤维素降解菌产酶条件的优化
+
+# 1.5.1培养基初始pH对菌株产酶的影响
+
+用1 mol/LHCI和1mol/L NaOH将培养基pH分别调为5.5、6.0、6.5、7.0、7.5。将菌液以 $4 \%$ 接种量接入培养基装液量为 $1 0 0 ~ \mathrm { { m L } }$ 的 $2 5 0 ~ \mathrm { m L }$ 三角瓶中，然后摇床转速 $1 5 0 ~ \mathrm { r / m i n }$ 、$3 7 \ \mathrm { { ^ circ C } }$ 条件下培养 $2 4 \mathrm { h }$ ，测定FPA。
+
+# 1.5.2培养温度对菌株产酶的影响
+
+将培养基初始pH调为6.5，并将菌液以 $4 \%$ 接种量接入装液量为 $1 0 0 ~ \mathrm { m L }$ 的 $2 5 0 ~ \mathrm { m L }$ 三角瓶中，然后将接种的培养基分别放入33、35、37、39、41℃的培养箱中，摇床转速 $1 5 0 \mathrm { r / m i n }$ 条件下培养 $2 4 \mathrm { h }$ ，测定FPA。
+
+# 1.5.3 摇床转速对菌株产酶的影响
+
+将培养基初始pH调为6.5，并将菌液以 $4 \%$ 接种量接入装液量为 $1 0 0 ~ \mathrm { \ m L }$ 的 $2 5 0 ~ \mathrm { m L }$ 三角瓶中，然后将摇床转速分别设定为100、125、150、175、 $2 0 0 ~ \mathrm { r / m i n }$ ， $3 5 \ \mathrm { { ^ \circ C } }$ 条件下培养24h，测定FPA。
+
+# 1.5.4装液量对菌株产酶的影响
+
+在 $2 5 0 ~ \mathrm { m L }$ 三角瓶中分别装入60、80、100、120、 $1 4 0 ~ \mathrm { m L }$ 培养基，培养基初始pH 为6.5，将菌液以 $4 \%$ 接种量接入培养基中，摇床转速 $1 2 5 \ \mathrm { r / m i n }$ ， $3 5 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 条件下培养 $2 4 \mathrm { ~ h ~ }$ ，测定FPA。
+
+# 1.5.5 正交优化试验
+
+本试验选取培养基初始pH（A）、培养温度（B）、摇床转速（C）和装液量(D)4个因素，在单因素试验结果的基础上设计正交试验，正交试验采取L9 ${ ( 3 ^ { 4 } }$ ）正交试验表，从而得到纤维素降解菌最适产酶条件。
+
+2结果与分析
+
+# 2.1 纤维素降解菌的筛选
+
+2.1.1 初筛
+
+如图1所示，培养 $2 4 \mathrm { ~ h ~ }$ 后用碘液染色，可清晰的看出菌落周围的透明圈，在培养基上共有2 处菌落产生了透明圈（图1中箭头所示)，其中左侧产透明圈的菌株命名为LD，右侧产透明的菌株命名为DL。
+
+![](images/84faeaae3480526c1805ee0a0f6d161007ba79f2cfdce87153b377ef62666d75.jpg)  
+图1菌株LD 和DL 在CMC-Na 平板上的透明圈  
+Fig.1Transparent circle of strains LD and DL on CMC-Na plate
+
+2.1.2 复筛
+
+# 2.1.2.1 酶活力测定结果
+
+FPA 测定结果见表1。通过比较FPA，确定菌株DL为筛选出的纤维素降解菌。将分离纯化的菌株移至菌种保藏培养基上， $4 \mathrm { { ^ \circ C } }$ 保存。
+
+# 表1FPA 测定结果
+
+Table1 Determination results of FPA   
+
+<html><body><table><tr><td>菌株</td><td>透明圈直径</td><td>菌落直径</td><td>D/d值</td><td>滤纸酶活力</td></tr><tr><td>Strains</td><td>Transparent circle diameter</td><td>Colony diameter (d)/cm</td><td>D/d value</td><td>FPA/(U/mL)</td></tr><tr><td></td><td>(D)/cm</td><td></td><td></td><td></td></tr><tr><td>LD</td><td>0.45</td><td>0.15</td><td>3</td><td>69.8</td></tr><tr><td>DL</td><td>0.75</td><td>0.15</td><td>5</td><td>84.5</td></tr></table></body></html>
+
+# 2.1.2.2 滤纸分解试验结果
+
+将菌株DL接入培养基观察7d。从图2中可以看出，第2天培养基中完整的滤纸边缘出现絮状物；第3天培养基中的絮状物增加，滤纸有所缺失；第5天扇形的滤纸彻底变成纸屑，培养基变得浑浊；到第7天，三角瓶中出现挂壁现象，产生了大量的细菌，滤纸基本被分解，培养基变得更加浑浊。这说明从大熊猫粪便中筛选获得的菌株DL可以产生纤维素酶并具有纤维素降解能力。
+
+![](images/b64b623706cb0082c762241df7f06d650d13d8b70e2662ad6acb88910f3f8171.jpg)  
+图2滤纸分解试验结果
+
+# 2.2 菌株鉴定
+
+2.2.1菌株的形态学观察及生理生化特征如图3所示，菌落形态呈现圆形且菌落边缘呈不规则锯齿状，表面凸起，菌落不透明呈  
+乳白色，直径为 $1 . 0 { \sim } 1 . 5 ~ \mathrm { c m }$ 。
+
+![](images/58a2b4458838686f148805c35a70dd2255fef4063e683c7bc223b2414ef3f15e.jpg)  
+Fig.2Filter paper decomposition experiment results   
+图3菌株DL的菌落形态  
+Fig.3 Colonies morphology of strain DL
+
+从表2中可知，菌株DL为革兰氏阳性菌，好氧，芽孢染色、接触酶、氧化酶、V-P 试验均为阳性，甲基红、吲哚、硫化氢试验为阴性。菌株DL可利用葡萄糖、果糖、甘露糖、乳糖、淀粉及羧甲基纤维素钠，初步判定为芽孢杆菌或其变种。
+
+# 表2菌株DL的生理生化特征鉴定结果
+
+Table 2Identification results of physiological and biochemical characteristics of strain DL   
+
+<html><body><table><tr><td>测试指标 Test indices</td><td>结果Results</td><td>测试指标 Test indices</td><td>结果Resu</td></tr><tr><td>厌氧生长试验 Anaerobic growth test</td><td></td><td>葡萄糖利用试验 Glucose utilization test</td><td>十</td></tr><tr><td>革兰氏染色试验 Gram stain test</td><td>+</td><td>果糖利用试验 Fructose utilization test</td><td>十</td></tr><tr><td>芽孢染色试验 Spore stain test</td><td>+</td><td>半乳糖利用试验 Galactose utilization test</td><td></td></tr><tr><td>接触酶试验 Contact enzyme test</td><td>+</td><td>甘露糖利用试验 Mannose utilization test</td><td>十</td></tr><tr><td>氧化酶试验 Oxidase test</td><td>+</td><td>蔗糖利用试验 Sucrose utilization test</td><td></td></tr><tr><td>甲基红试验 Methyl red test</td><td></td><td>乳糖利用试验 Lactose utilization test</td><td>+</td></tr><tr><td>V-P 试验 V-P test</td><td>+</td><td>麦芽糖利用试验 Maltose utilization test</td><td></td></tr></table></body></html>
+
+吲哚试验 Indole test 淀粉利用试验 Starch utilization test + 硫化氢试验 Hydrogen sulfide test 羧甲基纤维素钠利用试验 CMC-Na + utilization test
+
+“ $+$ ”：阳性；“一":阴性。‘+’:positive；‘-’:negative.
+
+2.2.2 16S rDNA 测序结果分析
+
+菌株DL 经过PCR 扩增16SrDNA 获得大小为 $1 4 0 0 { \mathrm { ~ b p } }$ 的条带，具有16S rDNA 的特征。测序结果（图4)经BLAST同源性分析,结果表明菌株DL与类芽孢杆菌(Paenibacillus cookii）LZ033亲缘关系最近，同源性为 $9 9 \%$ ，在 NCBI上的登陆号为JQ073763。采用MEGA 7.0构建系统发育树，如图5所示。
+
+1 AGCGGCGGAC GGGTGAGTAA CACGTAGGCA ACCTGCCCGT AAGACCGGGA   
+51 TAACTACCGG AAACGGTAGC TAATACCGGA TAATTTATCG CTTCGCATGG   
+101 AGCGGTAATG AAAGACGGAG CAATCTGTCA CTTACGGATG GGCCTGCGGC   
+151 GCATTAGCTA GTTGGTGAGG TAACGGCTCA CCAAGGCGAC GATGCGTAGC   
+201 CGACCTGAGA GGGTGAACGG CCACACTGGG ACTGAGACAC GGCCCAGACT   
+251 CCTACGGGAG GCAGCAGTAG GGAATCTTCC GCAATGGGCG AAAGCCTGAC   
+301 GGAGCAACGC CGCGTGAGTG ATGAAGGTTT TCGGATCGTA AAGCTCTGTT   
+351 GCCAGGGAAG AACGTCGGAT AGAGTAACTG CTATCCGAGT GACGGTACCT   
+401 GAGAAGAAAG CCCCGGCTAA CTACGTGCCA GCAGCCGCGG TAATACGTAG   
+451 GGGGCAAGCG TTGTCCGGAA TTATTGGGCG TAAAGCGCGC GCAGGCGGTC   
+501 ACTTAAGTCT GGTGTTTAAG GCTAGGGCTC AACTCTAGTT CGCACTGGAA   
+551 ACTGGGTGAC TTGAGTGCAG AAGAGGAAAG TGGAATTCCA CGTGTAGCGG   
+601 TGAAATGCGT AGAGATGTGG AGGAACACCA GTGGCGAAGG CGACTTTCTG   
+651 GGCTGTAACT GACGCTGAGG CGCGAAAGCG TGGGGAGCAA ACAGGATTAG   
+701 ATACCCTGGT AGTCCACGCC GTAAACGATG AATGCTAGGT GTTAGGGGTT   
+751 TCGATACCCT TGGTGCCGAA GTTAACACAT TAAGCATTCC GCCTGGGGAG   
+801 TACGGTCGCA AGACTGAAAC TCAAAGGAAT TGACGGGGAC CCGCACAAGC   
+851 AGTGGAGTAT GTGGTTTAAT TCGAAGCAAC GCGAAGAACC TTACCAGGTC   
+901 TTGACATCCC TCTGAATCCT CTAGAGATAG AGGCGGCCTT CGGGACAGAG   
+951 GAGACAGGTG GTGCATGGTT GTCGTCAGCT CGTGTCGTGA GATGTTGGGT   
+1001 TAAGTCCCGC AACGAGCGCA ACCCTTGATT TTAGTTGCCA GCACATTAAG   
+1051 GTGGGCACTC TAGAATGACT GCCGGTGACA AACCGGAGGA AGGCGGGGAT   
+1101 GACGTCAAAT CATCATGCCC CTTATGACCT GGGCTACACA CGTACTACAA   
+1151 TGGCCAGTAC AACGGGAAGC GAAGTCGCGA GATGGAGCCA ATCCTATCAA   
+1201 AGCTGGTCTC AGTTCGGATT GCAGGCTGCA ACCCGCCTGC ATGAAGTCGG   
+1 251 AATTGCTAGT AATCGCGGAT CAGCATGCCG CGGTGAATAC GTTCCCGGGT   
+1301 CTTGTACACA CCGCCCGTCA CACCACGAGA GTTTACAACA CCCGAAGTCG
+
+![](images/80fff256169c57a45c080fcc2eb0ac6762d9278b21964750e0c3f7ce77e25064.jpg)  
+Fig.4Determination result of sequence   
+图5菌株DL16SrDNA基因序列的系统发育树  
+Fig.5Phylogenetic tree of 16S rDNA gene sequence of strain DL
+
+Paenibacilluscookii：类芽孢杆菌；Enterobacteriaceae bacterium：肠杆菌科细菌。
+
+# 2.3菌株DL产酶条件的优化
+
+# 2.3.1 培养基初始pH对产酶的影响
+
+培养基的pH对微生物生长有很大的影响，可影响代谢过程中酶的活性及微生物对营养物质的吸收[26]。菌体生长需要适合的pH，微生物才能进行正常代谢。如图6中所示，pH 在5.5\~6.5 范围内,FPA呈上升趋势,FPA在pH为6.5时达到了最大值88.7U/mL。pH为7.0\~7.5时，FPA呈下降趋势，在pH为7.5时，达到了最小值 $5 8 . 8 ~ \mathrm { \ U / m L }$ 。由以上结果确定正交试验中培养基初始 pH的水平为6.0、6.5 和 7.0。
+
+![](images/9f854cc5c7e65d61894e1324e883cb0a6351257b9600bc7a8ffae163c861a4de.jpg)  
+图4序列测定结果  
+图6培养基初始 $\mathfrak { p H }$ 对菌株DL产酶的影响
+
+# 2.3.2培养温度对产酶的影响
+
+当培养温度在一定的范围内,微生物的生长及其代谢产物的合成在一定程度上是依赖于温度的升高的，如果温度过高，代谢产物的合成会受到抑制，特别对酶类物质会产生很大的影响。如图7中所示，培养温度在 $3 3 { \sim } 3 5 ~ \mathrm { ^ { \circ } C }$ 范围内，随着培养温度的升高，FPA是逐渐增大的，在 $3 5 \ \mathrm { { ^ \circ C } }$ 到最大值 $9 1 . 1 \mathrm { U / m L }$ 。培养温度在在 $3 7 { \sim } 4 1 \ \mathrm { ^ { \circ } C }$ 之间，随着培养温度的升高，FPA逐渐下降，在 $4 1 \ \mathrm { { ^ \circ C } }$ 时 FPA最低，这是由于培养温度过高，不适合菌株DL生长，导致产酶受影响。由以上结果确定正交试验中培养温度的水平为33、35 和 $3 7 \ \mathrm { { ^ circ C } }$ 。
+
+![](images/1aedcf6580ea0e7c72f29a9f4a65e56d9224e0c4664e689a33a20e2e7256f065.jpg)  
+Fig.6Effect of medium initial pH on the cellulase production of strain DL   
+图7培养温度对菌株DL产酶的影响  
+Fig.7Effect of culture temperature on the cellulase production of strain DL
+
+# 2.3.3 摇床转速对产酶的影响
+
+在菌株培养过程中，振荡可使菌株与氧气接触更加充分，通过振荡可使溶氧量增大。还可使菌株与培养基中的营养物质更好地接触，有利于营养物质的利用。如图8中所示，摇床转速在 $1 0 0 { \sim } 1 2 5 ~ \mathrm { r / m i n }$ 之间，随着振荡频率的提高，FPA呈上升趋势， $1 2 5 ~ \mathrm { r / m i n }$ 时FPA为$8 9 . 0 \mathrm { U / m L }$ 。当转速超过 $1 2 5 ~ \mathrm { r / m i n }$ 时，FPA下降，这可能是由于菌株DL的需氧量有限。由以上结果确定正交试验中摇床转速的水平为100、125 和 $1 5 0 ~ \mathrm { r / m i n }$ 。
+
+![](images/2b348d0fcaeaf06215b74e71871591f1749b3be449f39f93c3044035f03601ba.jpg)  
+图8摇床转速对菌株DL产酶的影响
+
+# 2.3.4装液量对产酶的影响
+
+在菌株培养过程中，装液量也会影响溶氧量，装液量过多会降低氧气含量，使好氧的菌株生长受到抑制，但是过低的装液量也不利于菌株的生长。如图9中所示，随着装液量的增加，FPA逐渐增大。装液量为 $1 2 0 ~ \mathrm { m L }$ 时，FPA达到最大值 $8 4 . 2 \mathrm { U / m L }$ 。但装液量增加到140mL时，FPA则降低为 $5 8 . 7 ~ \mathrm { U / m L }$ ，这可能是由于菌株DL本身为需氧型，氧气过低可能会影响菌株 DL 的生长使得产酶受抑制。 由以上结果确定正交试验中装液量的水平为 100、120和 $1 4 0 ~ \mathrm { m L }$ 。
+
+![](images/6edc0475f5a419f90a02440d723776754b066c21b6cbfab0969542ab6e901c94.jpg)  
+Fig.8Effect of shaker speed on the cellulase production of strain DL   
+图9装液量对菌株DL产酶的影响  
+Fig.9Effect of liquid medium volume on the cellulase production of strain DL
+
+# 2.3.5 正交优化试验结果
+
+# 2.3.5.1产酶条件的正交优化试验
+
+正交试验结果见表3，从极差可知，4个因素对FPA影响从大到小的顺序依次为温度、
+
+摇床转速、装液量、培养基初始 $\mathfrak { p H }$ 。最优的产酶条件应为 $\mathbf { A } _ { 1 } \mathbf { B } _ { 2 } \mathbf { C } _ { 2 } \mathbf { D } _ { 1 }$ ，即培养基初始pH为6、培养温度为 $3 5 \ \mathrm { { ^ \circ C } }$ 、摇床转速为 $1 2 5 ~ \mathrm { r / m i n }$ 、 $2 5 0 \mathrm { m L }$ 三角瓶装液量为 $1 0 0 ~ \mathrm { { m L } }$ 。
+
+# 表3正交试验结果
+
+Table 3Results of orthogonal test U/mL
+
+因素Factors
+
+试验号 A（培养基初始 B（培养温度 C[摇床转速 D（装液量 滤纸酶活力
+
+Test number pHMedium Culture Shaker speed/ Liquid medium FPA
+
+initial pH) temperature (r/min）] volume/mL)
+
+<html><body><table><tr><td></td><td>hiarpir)</td><td>tenperature /℃）</td><td>(1/)</td><td>vorune/hL)</td><td></td></tr><tr><td>1</td><td>1 (6.0)</td><td>1 (33)</td><td>1(100)</td><td>1(100)</td><td>82.6</td></tr><tr><td>2</td><td>1 (6.0)</td><td>2 (35)</td><td>2(125)</td><td>2(120)</td><td>98.2</td></tr><tr><td>3</td><td>1 (6.0)</td><td>3 (37)</td><td>3(150)</td><td>3(140)</td><td>78.4</td></tr><tr><td>4</td><td>2 (6.5)</td><td>1(33)</td><td>2(125)</td><td>3(140)</td><td>81.5</td></tr><tr><td>5</td><td>2 (6.5)</td><td>2 (35)</td><td>3(150)</td><td>1(100)</td><td>91.8</td></tr><tr><td>6</td><td>2 (6.5)</td><td>3 (37)</td><td>1(100)</td><td>2(120)</td><td>80.2</td></tr><tr><td>7</td><td>3 (7.0)</td><td>1 (33)</td><td>1(100)</td><td>2(120)</td><td>75.5</td></tr><tr><td>8</td><td>3 (7.0)</td><td>2(35)</td><td>3(150)</td><td>3(140)</td><td>85.9</td></tr><tr><td>9</td><td>3 (7.0)</td><td>3 (37)</td><td>2(125)</td><td>1(100)</td><td>85.6</td></tr><tr><td>均值1ki</td><td>86.4</td><td>79.9</td><td>82.9</td><td>86.7</td><td></td></tr><tr><td>均值2k</td><td>84.5</td><td>92.0</td><td>88.4</td><td>84.7</td><td></td></tr><tr><td>均值3k</td><td>82.4</td><td>81.4</td><td>81.9</td><td>81.9</td><td></td></tr><tr><td>极差R</td><td>4.0</td><td>12.1</td><td>6.5</td><td>4.7</td><td></td></tr></table></body></html>
+
+最优的产酶条件 $\mathbf { A } _ { 1 } \mathbf { B } _ { 2 } \mathbf { C } _ { 2 } \mathbf { D } _ { 1 }$ 未出现在正交表中，所以需要与正交表中FPA 最高的组合（ $\mathrm { \bf A } _ { 1 } \mathrm { \bf B } _ { 2 } \mathrm { \bf C } _ { 2 } \mathrm { \bf D } _ { 2 }$ ）进行比较，结果见表4。
+
+# 表4验证试验结果
+
+组合 滤纸酶活力
+
+FPA/(U/mL)
+
+AiB2C2D2
+
+98.2
+
+AiBC2D1
+
+102.3
+
+如表4所示，通过极差分析得到的组合 $\mathbf { A } _ { 1 } \mathbf { B } _ { 2 } \mathbf { C } _ { 2 } \mathbf { D } _ { 1 }$ 所产生的 FPA 略高于通过正交试验得到的最优组合 $\mathbf { A } _ { 1 } \mathbf { B } _ { 2 } \mathbf { C } _ { 2 } \mathbf { D } _ { 1 }$ 产生的FPA。因此可确定最佳的产酶条件：培养基初始pH为6、培养温度为 $3 5 \mathrm { ^ \circ C }$ 、摇床转速为 $1 2 5 \ \mathrm { r / m i n } . 2 5 0 \ \mathrm { m L }$ 三角瓶装液量为 $1 0 0 ~ \mathrm { { m L } }$ ，此组合FPA为102.3U/mL，与优化前相比提高了1.2倍。
+
+3讨论
+
+大熊猫的膳食以粗硬又难消化的竹子为主，常年食用大量竹子很容易对其消化道造成损  
+伤，它排出的粪便几乎都是竹节，竹子利用力极低。Zhu等[27对大熊猫肠道菌群的宏基因组  
+进行了研究，发现存在纤维素酶基因，证明了大熊猫肠道内存在可降解纤维素的微生物。马  
+海玲[19]对大熊猫粪便中的微生物进行培养，利用刚果红及滤纸崩溃试验筛选得到具有纤维  
+素降解能力的真菌和放线菌。刘艳红等[28]对大熊猫粪便中的真菌进行分离培养，筛选出纤  
+维素降解真菌。本试验采用牛肉膏蛋白脉培养基，旨在筛选出能产纤维素酶的细菌，因为细  
+菌生长速度快、发酵时间较短；产纤维素酶的细菌更容易获得，表达水平高；产纤维素酶的  
+细菌有很好的热稳定性，更适用于基因工程菌。培养基以羧甲基纤维素钠作为唯一碳源，利用碘液染色，染色形成的透明圈大小可以  
+初步判断细菌降解纤维素的能力。羧甲基纤维素钠在纤维素酶的作用下分解为纤维素二糖和葡萄糖糖，碘液不能与纤维素二糖和葡萄糖形成棕色复合物，但碘液可以与羧甲基纤维钠形成棕色复合物，最后只有在纤维素降解菌周围产生透明圈。李争明[2用碘液染色法从腐木、腐殖土壤中筛选获得产纤维素酶的菌株。碘液染色只能初步反映出纤维素降解菌产纤维素酶的特性，因此需要进行复筛。复筛时先测定纤维素酶活力并选取产酶活力较高的菌株做滤纸分解试验，滤纸的主要成分是纤维素，滤纸分解试验可进一步验证筛选出的菌株具有降解纤维素的能力，菌株如果可以在以滤纸为唯一碳源的液体培养基中生长，则滤纸会被分解，而且分解程度越大说明产纤维素酶能力越好。  
+对细菌进行种属鉴定最常用的方法就是16SrDNA序列同源性分析，再结合系统发育分析及生理生化特征就可以很好地对细菌进行分类，它是菌种鉴定的标准方法。樊程等[21]、荣华等[25]、杨伟平等[29]都从动物肠道中分离出了纤维素降解菌，种属鉴定时均使用了生理生化特征及 16Sr DNA 序列分析。  
+在微生物生长繁殖过程中，菌体的培养条件对其生长和代谢产物的积累都有重要的影响。在选育菌种过程中，通常会选择生长速度快、产酶量高的菌株作为目标菌株，因此就需要通过改变培养条件来提高代谢产物的合成量。本试验通过改变培养基初始pH、培养温度、摇床转速及装液量从而提高纤维素酶活力。曹涵文等5从大熊猫粪便中筛选出1株纤维降解菌为好氧的假单胞菌（Pseudomonas poae RE\*1-1-14）并对其产酶条件进行优化，结果最适pH为6、培养温度 $2 6 ~ \mathrm { ^ { \circ } C }$ 、摇床转速 $1 5 0 ~ \mathrm { r / m i n }$ 、装液量 $30 \%$ ，在此条件下产酶活力最高。本试验筛选出的菌株为Paenibacillus cookiiLZ033,该菌株最适产酶条件是培养基初始pH为6、培养温度为 $3 5 \mathrm { ~ \textdegree ~ }$ 、摇床转速为 $1 2 5 ~ \mathrm { r / m i n }$ 、 $2 5 0 ~ \mathrm { m L }$ 三角瓶装液量为 $1 0 0 ~ \mathrm { { m L } }$ ，在此条件下纤维素酶活力最高。这与曹涵文的试验结果不同，虽然都是从大熊猫粪便中分离出来的纤维素降解菌，但由于菌株不同，使得产酶条件存在差异。  
+此次筛选出的菌株PaenibacilluscookiiLZ033，隶属于芽孢杆菌目，芽孢杆菌是目前研制微生态制剂中使用最广泛的益生菌之一。用生长速度快且产酶活力高的菌株研制微生态制  
+剂喂养动物时，菌株在短时间内就可在肠道中繁殖，有助于维系肠道内微生态平衡[29]。本  
+次试验获得的菌株Paenibacillus cookiLZ033可以分泌纤维素酶，它在饲料添加剂或大熊猫  
+微生态制剂的制备上具有应用潜力。  
+4结论  
+$\textcircled{1}$ 从大熊猫林冰粪便中筛选出的纤维素降解菌 DL 经形态学观察、生理生化特征和 16SrDNA序列同源性分析，鉴定为Paenibacillus cookiiLZ033。  
+$\textcircled{2}$ 所筛选菌株DL的最佳产酶条件是培养基初始pH为6，培养温度为 $3 5 \ \mathrm { { ^ \circ C } }$ ，摇床转速为$1 2 5 ~ \mathrm { r / m i n }$ ， $2 5 0 ~ \mathrm { m L }$ 三角瓶装液量为 $1 0 0 ~ \mathrm { { m L } }$ ，在此条件下培养 $2 4 \mathrm { h }$ ，FPA为 $1 0 2 . 3 \mathrm { U / m L }$ 。  
+参考文献:  
+[1]王海娟,潘渠.大熊猫肠道正常菌群降解纤维素的机制[J].中国微生态学杂志,2014,26(2):225-228.  
+[2]赵珊,吕雯婷,刘杰,等.1 株大熊猫肠道纤维素降解菌的分离鉴定及其酶学性质[J].微生物学杂志,2015(1):73-78.  
+[3]熊焰,李德生,王印,等.卧龙自然保护区大熊猫粪样菌群的分离鉴定与分布研究[J].畜牧兽医学报,2000,31(2):165-170.  
+[4]马清义.大熊猫消化道正常菌群的分离鉴定及药敏性研究[D].硕士学位论文.咸阳:西北农林科技大学,2006  
+[5]曹涵文,吴珑韬,甘乾福,等.熊猫粪便中纤维素降解菌的筛选与鉴定[J].家畜生态学报,2015,36(6):19-25.  
+[6]郭明月,黄国印,马晓瑞,等.大熊猫肠道产果胶酶细菌的多样性及产酶特性[J].应用与环境生物学报,2016,22(1):127-132.  
+[7] LI R Q,FAN W,TIAN G,et al.The sequence and de novo assembly of the giant panda
+
+genome[J].Nature,2010,463(7279):311-317.
+
+[8]周紫晓,钟志军,周潇潇,等.大熊猫肠道菌群的研究进展[J].微生物学通报,2016,43(6):1366-1371.
+
+[9]FANG W,FANG ZM,ZHOU P,et al.Evidence for lignin oxidation by the giant panda fecal microbiome[J].PLoS One,2012,7(11):e50312.   
+[10]TUN H M,MAUROO N F,YUEN C S,et al.Microbial diversity and evidence of novel homoacetogens in the gut of both geriatric and adult giant pandas (Ailuropoda melanoleuca)[J].PLoS One,2014,9(1):e79902.   
+[11] 鲍楠,刘成君,张和民,等.大熊猫肠道微生态的研究进展[J].畜牧与兽   
+医,2005,37(4):57-59.   
+[12]张志和,何光昕,王行亮,等.大熊猫肠道正常菌群的研究[J].兽类学报,1995,15(3):170-175.   
+[13] HIRAYAMA K,KAWAMURA S,MITSUOKA T,et al.The faecal flora of the giant panda (Ailuropoda melanoleuca)[J].Journal of Applied Bacteriology,1989,67(4):411-415.   
+[14]蒋芳.纤维素酶产生菌的分离鉴定、系统发育分析及发酵条件与酶学性质研究[D].硕士 学位论文.成都:四川大学,2006.   
+[15]谷武阳.大熊猫肠道纤维素分解菌的筛选及 $\beta$ -葡萄糖苷酶基因的克隆与表达[D].硕士学 位论文.雅安:四川农业大学,2014.   
+[16]ZHOU Z Y,ZHOU X X,ZHONG Z J,et al.Investigation of antibacterial activity of Bacillus spp.isolated from the feces of giant panda and characterization of their antimicrobial gene distributions[J].World Journal of Microbiology and Biotechnology,2014,30(12):3129-3136.   
+[17]李进,钟志军,苏怀益,等.大熊猫肠道芽孢杆菌的分离鉴定及部分生物学特性[J].微生物 学通报,2016,43(2):351-359.   
+[18]崔海洋,程仕伟,黄田红,等.产纤维素酶的解淀粉芽孢杆菌分离鉴定及酶学性质研究[J].
+
+食品科学技术学报,2014,32(3):43-47,53.
+
+[19]马海玲.基于动物粪便的纤维素分解菌筛选及分解纤维素能力研究[D].硕士学位论文.北京:中国地质大学,2012.  
+[20]KASANA R C,SALWAN R,DHAR H,et al.A rapid and easy method for the detection ofMicrobialcellulasesonagar plates usinggram's iodine[J].CurrentMicrobiol0gy,2008,57(5):503-507.  
+[21]樊程,李双江,李成磊,等.大熊猫肠道纤维素分解菌的分离鉴定及产酶性质[J].微生物学报,2012,52(9):1113-1121.  
+[22]万先凯.一株高活力纤维素分解菌的筛选及酶学性质研究[D].硕士学位论文.天津:天津大学,2004.  
+[23]GARRITY G M,BELL J A,LILBURN T G.Taxonomic outline of the procaryotes,Bergey'smanual of systematic bacteriology[M].2nd ed.New York:Springer,2004.  
+[24]东秀珠,蔡妙英.常见细菌系统鉴定手册[M].北京:科学出版社,2001.  
+[25]荣华,邱成书,胡国全,等.一株大熊猫肠道厌氧纤维素菌的分离鉴定、系统发育分析及生物学特性的研究[J].应用与环境生物学报,2006,12(2):239-242.  
+[26] 李争明.纤维素酶产生菌的筛选、发酵产酶条件优化及酶学特性研究[D].硕士学位论文.武汉：湖北工业大学,2014.  
+[27] ZHU L F,WU Q,DAI J Y,et al.Evidence of cellulose metabolism by the giant panda gutmicrobiome[J].Proceedings of the National Academy of Sciences of the United States ofAmerica,2011,108(43):17714-17719  
+[28]刘艳红,钟志军,艾生权,等.亚成体大熊猫肠道纤维素降解真菌的分离与鉴定[J].中国兽医科学,2015(1):43-49.  
+[29]杨伟平,孟凡旭,马丽,等.藏香猪源纤维素分解菌的分离鉴定及酶学特性分析[J].动物营
+
+养学报,2014,26(3):620-629.
+
+Screning of Celluloytic Bacterium from Giant Panda's Feces and Optimization of Condition for
+
+# Cellulase Production
+
+ZHANG Zhi YINWenzhe YA Nan[\* MA Jianzhang 3\*\* (1． School of Forestry, Northeast Forestry University,Haerbin 150040, China; 2. The Second
+
+Affiliated Hospital of Harbin Medical University,Haerbin 150o86,China; 3.College of
+
+Wildlife Resources,Northeast Forestry University,Haerbin 150o40, China)
+
+Abstract: This experiment aimed to screen and identify the cellulose-decomposing bacterium isolated from the feces of giant pandas,and condition for producing cellulase was optimized. The cellulase-producing bacterium named DL was isolated from the feces of giant pandas, used the methods of sodium carboxymethylcellulose (CMC-Na) as unique carbon source and iodine staining, disintegration of filter paper test and measurement of cellulase activity. Based on the morphological observation， physiological and biochemical characteristics and the result of sequences alignment of 16S rDNA, strain DL was identified as Paenibacillus cookii LZ033.The strain of Paenibacillus cookii LZO33 was found to be a spore-forming， gram-positive aerobic bacterium. Medium initial pH,culture temperature, shaker speed and liquid medium volume were chosen to determine the optimum condition for cellulase production. On the basid of the single factor experiment, the orthogonal experiment was used to analysis the optimum condition for cellulase production of strain DL,which was shown as follows: medium initial $\mathsf { p H } \ 6$ ， culture temperature $3 5 \mathrm { ^ \circ C }$ , rotation speed $1 2 5 ~ \mathrm { r / m i n }$ , broth liquid medium volume $1 0 0 ~ \mathrm { { m L } }$ in $2 5 0 ~ \mathrm { m L }$ flask. Under the optimum condition, the activity of cellulose (expressed in FPA) was up to $1 0 2 . 3 \mathrm { U / m L }$ Key words: feces of giant pandas; celluloytic bacterium; conditions for cellulase production

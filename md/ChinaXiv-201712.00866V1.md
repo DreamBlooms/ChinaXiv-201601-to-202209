@@ -1,0 +1,92 @@
+临床研究
+
+# 功能性消化不良临床数据库的建立
+
+黄载伟,陈丽萍,肖 冰南方医科大学南方医院消化内科//广东省胃肠疾病重点实验室，广东广州510515摘要：目的建立完整、规范的功能性消化不良(FD)临床研究数据库。方法依据罗马Ⅲ标准和FD的发病因素、症状、治疗方法等制定病例报告表(CRF),收集FD病例，由相关专家设计，应用Visual Studio建立FD临床病例资料数据库管理系统，录入自2013年7月起门诊和病房FD的病例资料，剔除不合格病例，最终形成可通过网站呈现并可录人资料、查询病例、分析与统计有关临床数据的在线临床数据库。结果 建立了FD在线临床数据库，通过软件平台可录入包括患者一般信息、临床症状、心理状态、生活与饮食习惯、既往病史、胃镜等检查结果、临床诊断、治疗方法及疗程、治疗效果等各种信息的FD临床数据库，并具有统计分析功能。结论FD临床数据库功能完善,信息资料丰富、完整、规范,统计分析方便，具有临床研究价值。
+
+关键词：功能性消化不良；网络临床数据库；数据统计分析
+
+# Construction of a online database for functional dyspepsia
+
+HUANG Zaiwei, CHEN Liping,XIAO Bing   
+GuangdongProincialKeyLboratoryofGastroenterologyDepartmentfGstroenterologyafangHospitalSoutheredical   
+University,Guangzhou 510515,China
+
+Abstract: ObjectiveTo establishaclinical databaseoffunctional dyspepsiafor epidemiologicalresearchesand standardizing clinical diagnosis and treatment.Methods The functional dyspepsia database wasdesigned to incorporate the data from in-patients and out-patients with functional dyspepsia treated since July, 2013 and wasconstructed using VisualStudio.The patient data were collected using a customized case report form designed according tothe Roman criteria IIand theetiology symptoms,and treatments of the patients.Allthecases deemed ineligible were excluded.The database was displayed ona websiteandalowedonlinedataentrycasesearchesandstatisticalanalysisof theclinicalparameters.ResultsandConclusion Theestablishedonline database for functional dyspepsia containeddataof the general information,clinical symptoms, psychologicalsatus,livingabits,etarybits,dicalistoryxaminationsultsicalagnosis,treamentthd and courses,outcomesand data statistics.The database was full functionaland provided complete and standardized data of functional dyspepsia for clinical studies.
+
+Key words: functional dyspepsia; web-based clinical database; statistic analysis
+
+随着人们生活节奏的加快及工作压力的加大，功能性消化不良(functionaldyspepsia,FD)发病率呈逐步上升趋势。根据一项荟萃分析结果显示，全球成人未经检查的消化不良发病率达 $2 0 . 8 \% ^ { [ 1 ] }$ ，国内以消化不良为主诉的患者占消化门诊的 $5 2 . 8 5 \%$ ,而符合罗马IⅢ标准者占就诊者的 $2 8 . 5 \% ^ { [ 2 ] }$ 。以往的FD临床文献,大多是回顾性研究，没有前瞻性的大宗数据资料，更非统一的软件自动化、规范化病例分析，可信度差，对FD的基础与临床研究缺乏指导性作用，也浪费了大量的临床信息资料。一般的医院电子病例信息系统只能提供医生为患者进行诊治和查阅一些有限的病史资料，不能将病例信息进行有效的统计和分析。利用大量的FD病源信息，建立前瞻性、信息完整并具有统计分析功能的数据库，对研究FD具有重要的研究价值和临床意义。
+
+# 1方法
+
+# 1.1 病例报告表建立
+
+根据罗马Ⅲ标准3和FD发病的特点设计和制定了病例报告表(CRF)，以便收集完整的病例资料，其内容包括患者一般信息、临床症状、心理状态、生活习惯、饮食习惯、既往病史、胃镜等检查结果、临床诊断、治疗方法及疗程、治疗效果等，部分内容如图1。
+
+# 1.2 临床病例纳入
+
+收录我院自2013年7月的FD患者的病例资料，入组的病例严格遵循罗马IⅢ标准。我们通过面对面访问的方式为每一个纳入数据库的患者填写CRF,并将收集的病例资料录人本数据库系统。
+
+# 1.3病例剔除
+
+计划每个患者跟踪随访半年以上，随访期间出现以下情况的病例将被剔除：(1)复查胃肠镜等检查发现与
+
+FmctionalDyspepsiaCaseReportForm widowrferidower GeenlFeatums Eeoemy alboe DE opoe Hm Meendnsofp timsdfdeliery Odn （oMal Fema） Brpdurte d __ _mcom _lacerution Det ofBerth (Y_M__D_) Hstury ofpr deley次f Blod Type （□OoAB DAB) menop wold Ag 广 d) Mation （oHnoOthes _3 Syee Prodein Worher Frnet C Stt Unemployed biting （oym ） Hrit （） e（nthe） Wegt { _z) fqueseyoflntely3meatle（o<1daytnontholdgtmonth Wairtbe ( _m) n2-3daytnonth oldyk>doy) Adm pipta （y） Te dstreatien ous（ntha） Labor oBninwok(offeroffewoeher、entrpr） mlvcetoesbefthemlferheml hntmety ypl) gimlrut) oMedimphysicllbor(PEtacher、urelwor) fqumcyefhtely3montle（o<ldaymoathldylmonth oLight plo e,etc.) 02-3dyontholdyt>dwekordy) Edetin ylbelohol aHigh gtre （ay ）； Lel gheoloColegs Postpteoboe psin ouse（months） Mamisp e ied odvo 0 e hm cimlevunt) diteof fdymmberwotking codioe changed fnqorseyoflntely3meaths（o<ldxyfnoatholdaymoatk weeking tinechangeduguedwith workates @gd 2-3daynonthldayheeko>1dapeekorryday) with fhenilymenben luethrhel （oy ） Abue （oyeno） abdominal （ot） p edefetibfodefetioerdefeto Halis oinelevunt）： syptomnleedsferdefetion（oyeso） Smaking CPEI finquaryofltely3meathsCo<ldayfmcathαldayfmooth iy51y0 2-3daymonthldayeek>dayekoneyday) dilymoto<halrpckidy o0.5-1psckiday dr（y） ol.2pcy≥pcy sbdotinasl （ot） Drinksg timt<5yes5-10yeusol0-20yeus≥20yeu puin cetodefeti bfodedeticrdeetion feqeny ooccsionaly ourally intleut)1symptommlesedaftrdeftcation（oyscne） Farerite hplly< fnqraeyofhntsly3moatheCo<1daymcathaldaymoath qurtge 100 100-00 2-3dyonthdye>dyekydy) 200-400g 400g.500g 2500g-1000g>1000g Bgthelegieal Sat bedegts(llges)dilyo:<5l Wrkand costss common stes opet stms omeh 150-300ml 0300-600md liesten peter sts 500-1200mlo>1200ml Histry ef（yes） w（yy<0 advene dpd tto  f o80-160ml o160-320ml en ei dlty d Ooren a0-600mln>600ml
+
+症状相关的器质性疾病；(2)随访期间出现其他全身性疾病，如糖尿病、恶性肿瘤、结缔组织病、结核病等；(3)随访期间出现创伤、接受手术等应激性行为;(4)失访病例。
+
+# 1.4数据库系统的建立
+
+1.4.1 后台语言的设置一级后台语言包括患者一般信息、临床症状、心理状态、生活习惯、饮食习惯、既往病史、胃肠镜等检查结果、临床诊断、治疗方法及疗程、治疗效果，二级和三级后台语言根据一级和二级语言的特点和要求设置，如此类推。如一级语言“上腹饱胀"的二级为有、无，三级为时间、程度、频率，四级为减轻或加重的诱因，或与进食、运动、排便的关系等。又比如在治疗方法中，使用的药物种类，如抑酸剂、促动力药、解痉药、助消化药、抗焦虑药、微生态制剂、黏膜保护剂、止泻药、胃肠功能调节剂、通便药、中成药等,为一级语言。每个种类使用的具体药物，如制酸剂中的奥美拉唑、兰索拉唑、雷贝拉唑、埃索美拉唑等，为二级语言。药物之间的组合如解痉剂加助消化药等为三级语言，每种药物使用的时间，即疗程为四级语言。每个疗程设置4周，设计1\~6个疗程的选择(参照罗马Ⅲ标准而定);治疗效果设置5个选项：治愈、显效、好转、无效、恶化
+
+1.4.2网络平台的建立采用MYSQL数据库，系统使用IDE(集成开发环境)程序VisualStudio进行开发，采用ASP.NET技术框架，系统以B/S(浏览器/服务器)模式实现，支持通过互联网访问。根据各级后台语言及其之间的关联，设计界面和内容，从总体上分为应用层、逻辑层、数据库层三层架构。应用层负责人机交互功能，包括网页请求、网页内容显示、用户输入处理;逻辑层负责数据处理、数据运算，加密解密，调用接口;数据层负责与数据库建立连接，数据查询，返回查询结果。要求此系统结构能保证录人资料的完整性和数据库的安全性，使数据库可通过网络呈现及随时增加病例、更新病例资料,能进行数据的统计分析及系统的维护等操作[4-6]。
+
+# 2结果
+
+2.1建立了以研究FD为主的功能性胃肠病网站
+
+www.fgiddata.com,登陆网站可呈现界面清晰、类别完整、要求规范的网络平台(图2),软件系统可录入功能性消化不良及其它功能性胃肠病所包含的患者一般信息、临床症状、心理状态、生活习惯、饮食习惯、既往病史、胃肠镜等检查结果、临床诊断、治疗方法及疗程、治疗效果等各个类别相关的逐级语言，形成完整的FD数据库。库容量无限制。
+
+![](images/e020366d6eff1212586178e5ce8fa190bb50b89a9e11fd5b7637892212d1e568.jpg)  
+图2 网页的基本界面Fig.2 Interface of the main Webpage.
+
+# 2.2数据库具有便捷的统计分析功能
+
+数据库系统的统计分析功能具有3个部分：(1)基本统计情况：统计各个诊断的总体病例数量及数据库中所占的比例、总体的治疗效果；(2)病情特点统计情况：各个所诊断的功能性胃肠病与一般情况、症状、心理特点、生活方式、基础疾病等的相互关系;(3)治疗效果与影响因素：不同的一般情况、心理特点、生活方式以及药物选择与搭配方式、中西医结合、不同疗程与治疗效果的统计关系。比如，截至2014年7月，录入病例共312例,其中符合纳入标准的FD病例126例，其它功能性胃肠病和正常人对照组186例。利用统计功能得出：女性FD患者数量较男性多，FD年龄分布主要集中于20岁\~50岁。FD患者职业为工人、知识分子或者无业的人数较多，而职业为农民、公务员、商人的人数相对较少。对FD发病的可能相关因素的统计中显示，工作及生活压力大、不良事件发生史及睡眠时间少的患者所占比例较大，而嗜烟、嗜酒习惯与每日静坐时间长短特点并未体现在FD患者中(表1)。相比使用促动力药 $+$ 助消化药 $\dot { + }$ 抗焦虑药治疗方案，使用促动力药 $+$ 助消化药治疗方案的患者的例数更多(表2),将统计数据导出，应用SPSS对治疗效果进行分析，显示促动力药 $+ .$ 助消化药 $\mathrm { \dot { + } }$ 抗焦虑药治疗方案的疗效较后者好 $( P { < } 0 . 0 5 )$ 。对影响FD治疗效果的因素进行统计分析，显示睡眠时间以及饮茶习惯的不同其治疗效果的差异具有统计学意义（ $_ { ( P < 0 . 0 5 ) }$ ，每日睡眠时间较多( $\scriptstyle 1 = 0 . 8 2 0$ ）、有经常饮茶习惯（ $\scriptstyle \mathrm { { \{ \beta = 0 . 7 3 4 \} } }$ 的患者，其治疗效果较好(表3)。
+
+表1功能性消化不良患者一般特征统计 Tab.1 Statistics of FD patients' general features   
+
+<html><body><table><tr><td>FD Features</td><td colspan="6">Number and Ratio</td></tr><tr><td>Gender</td><td>Male</td><td>Female</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>46(36.5%)</td><td>80(63.5%)</td><td></td><td></td><td></td><td></td></tr><tr><td>Age (year)</td><td><20</td><td>20~</td><td>40~</td><td>50~</td><td>60~</td><td>70~</td></tr><tr><td></td><td>6(4.8%)</td><td>63(50.0%)</td><td>48(38.0%)</td><td>3(2.4%)</td><td>3(2.4%)</td><td>3(2.4%)</td></tr><tr><td>Profession</td><td>Worker</td><td>Farmer</td><td>Intellectual</td><td>Civil Servant</td><td>Merchant</td><td>Unemployed</td></tr><tr><td></td><td>25(19.8%)</td><td>19(15.1%)</td><td>38(30.2%)</td><td>3(2.4%)</td><td>13(10.3%)</td><td>28(22.2%)</td></tr><tr><td>Work and life stress</td><td>No stress</td><td>Common stress</td><td>Great stress</td><td>Much greater stress</td><td></td><td></td></tr><tr><td></td><td>22(15.9%)</td><td>55(43.7%)</td><td>36(28.6%)</td><td>15(11.8%)</td><td></td><td></td></tr><tr><td>History of adverse events</td><td>Yes</td><td>No</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>42(33.3%)</td><td>84(66.7%)</td><td></td><td></td><td></td><td></td></tr><tr><td>Smoking history</td><td>No</td><td>Smoke a little</td><td>Heavy smoking</td><td></td><td></td><td></td></tr><tr><td></td><td>104(82.5%)</td><td>13(10.3%)</td><td>9(7.2%)</td><td></td><td></td><td></td></tr><tr><td>Drinking history</td><td>No</td><td>Occasionally</td><td>Frequently</td><td></td><td></td><td></td></tr><tr><td></td><td>89(70.6%)</td><td>28(22.2%)</td><td>9(7.2%)</td><td></td><td></td><td></td></tr><tr><td>Daily sitting time(hours)</td><td><2</td><td>2~</td><td>4~</td><td>6~</td><td>≥8</td><td></td></tr><tr><td></td><td>32(25.4%)</td><td>30(23.8%)</td><td>29(23.0%)</td><td>22(17.5%)</td><td>13(10.3%)</td><td></td></tr><tr><td>Daily sleeping time(hours)</td><td><6</td><td>6~</td><td>7~</td><td>≥8</td><td></td><td></td></tr><tr><td></td><td>33(26.2%)</td><td>22(17.5%)</td><td>47(37.3%)</td><td>24(19.0%)</td><td></td><td></td></tr></table></body></html>
+
+表2功能性消化不良患者治疗药物及疗效关系Tab.2Medications and therapeutic effects in the FD cases  
+
+<html><body><table><tr><td>Drug Selection</td><td>Effect</td><td>Number</td><td>Ratio(%)</td><td>Mean Rank</td><td>P</td></tr><tr><td rowspan="3">Prokinetics+ Digestant</td><td>Inefficient</td><td>8</td><td>24.24</td><td rowspan="3"></td><td></td></tr><tr><td>Efficient</td><td>25</td><td>75.76</td><td>26.21</td></tr><tr><td>Total</td><td>33</td><td>100.0</td><td></td></tr><tr><td rowspan="4">Prokinetics+ Digestant +Antianxietic</td><td>Inefficient</td><td>1</td><td>4.35</td><td></td><td></td></tr><tr><td>Efficient</td><td>22</td><td>95.65</td><td>31.78</td><td></td></tr><tr><td>Total</td><td>23</td><td>100.0</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>0.048</td></tr></table></body></html>
+
+表3功能性消化不良治疗效果的影响因素 Tab.3Factorsaffecting the therapeutic effects in theFD cases   
+
+<html><body><table><tr><td>Factors</td><td>Std.Error</td><td>P(α=0.05)</td><td>β</td></tr><tr><td>Stress</td><td>0.217</td><td>0.212</td><td>-0.271</td></tr><tr><td>Adverse Events</td><td>0.424</td><td>0.065</td><td>-0.782</td></tr><tr><td>Smoking</td><td>0.323</td><td>0.896</td><td>-0.042</td></tr><tr><td>Drinking</td><td>0.379</td><td>0.705</td><td>-0.143</td></tr><tr><td>Tea</td><td>0.226</td><td>0.001</td><td>0.734</td></tr><tr><td>Sitting Time</td><td>0.156</td><td>0.535</td><td>-0.097</td></tr><tr><td>Sleeping Time</td><td>0.198</td><td>0.000</td><td>0.820</td></tr></table></body></html>
+
+# 3讨论
+
+FD病理生理机制非常复杂，涵盖胃肠运动功能障碍、内脏敏感增加 $\mathrm { \cdot H p }$ 感染、胃肠激素紊乱、心理社会、应激因素以及生活饮食习惯等诸多方面[-],且发病机制至今未能阐明，该病治疗效果欠佳[12],表明对该病的需要进一步的深人研究，包括流行病学调查、治疗方案的选择与治疗效果的随访、新药的临床研究等。利用临床大量的FD资源进行规范、科学的前瞻性研究,将可解决存在的相关问题。目前我国甚至发达国家均尚缺乏FD临床研究数据库，因此本课题组利用在门诊、病房大量的功能性胃肠病尤其是FD,建立了覆盖面广、具有前瞻性研究的网络临床病例数据库。由于按照事先设计好的完整、规范的CRF表进行采集资料，并按照建立数据库的要求，通过逐级后台语言的录入完整的一般信息资料和诊断方法、治疗手段、疗程以及所有可能影响诊断与治疗的各种因素、随访情况和最终治疗结果,这样不仅积累了真实、完整、规范的大量FD病例信息，而且数据库具有快速、统一的统计分析检索功能，如可单独用年龄、性别、诊断、治疗方法、结果等检索，也可组合二个条件以上进行检索;可按照临床研究的需要所必须的各种统计功能，以便研究FD的发病相关因素与诱因、病情的影响因素、治疗方法的选择与评判、疗程的选择与评判、治疗结果及其影响因素等等，为未来客观研究FD流行病学调查、探讨临床诊治规范奠定了基础。由于对功能性消化不良的有效治疗方法尚未明确，中医药也常在临床实际诊治中使用[13-14],其效果在一些研究中显示与西医的治疗效果相当15，而两者结合将可提高疗效，因此本数据库系统在治疗方面记录了不同种类的西药、中药以及中西医结合的治疗效果，客观的评价各种方法的价值与地位，以便推广应用。在全国范围内，各个医疗机构都保存着对特定病种的病例资料，然而各个机构之间不能便捷地共享病例资料。在网络快速发展的时代，临床病例数据库系统应该与医疗机构的电子病例系统相结合，同时可通过互联网进行浏览、检索、操作，使患者的病例资料得到即时更新数据，因此本数据库以网站形式呈现，可实现病例资料多家医院共享以及共同积累病例资料和开发，形成有多地区广泛代表性的数据库，这对于实现FD流行病学调查、探讨临床诊治规范，将更有说服力和可信度。当然，由于本数据库刚建立不久，有待逐步发现问题和及时修改软件和完善统计分析功能。在经过初期的试运行后，经过专家论证与修改后做了不断调整，其功能得到不断地完善，能满足临床研究的需要。目前病例数量少，要录入数量庞大的病例数据库才更具有广泛、深入研究的价值。
+
+# 参考文献：
+
+[1]Ford AC,Marwaha A, Sood R,et al.Global prevalence of,and risk factors for,uninvestigated dyspepsia: a meta-analysis[J].Gut, 2014, pii: gutjnl-2014-307843.   
+[2]柯美云.中国消化不良的诊治指南(2007大连)[J].胃肠病学,2008 13(2): 114-7.   
+[3]德罗斯曼.Drossman D.A.罗马III:功能性胃肠病[M].北京:科学出 版社,2008:378.   
+[4]王颖.JAVA连接MySQL数据库的方法与技巧的研究[J].数字技术 与应用,2013(10):42-42,44.   
+[5]唐建国.MySQL数据库系统安全分析[J].电脑知识与技术,2010,6   
+[6]Rak R,Batista-Navarro RT, Carter J,et al.Processing biological literature with customizable Web services supporting interoperable formats [J].Database (Oxford),2014.pii: bau064.doi: 10.1093/ database/bau064.   
+[7]Filipovic BF,Randjelovic T,Ille T,et al.Anxiety, personality traits and quality of Life in functional dyspepsia-suffering patients [J]. Eur JIntern Med,2013,24(1): 83-6.   
+[8]Shimpuku M,Futagami S,Tajima N,et al. Impact of eating attitude and impairment of physical quality of Life between tertiary clinic and primary clinic functional dyspepsia outpatients in Japan[J].J Neurogastroenterol Motil,2014,20(4): 506-15.   
+[9]Geeraerts B,Van Oudenhove L,Fischler B,et al. Influence of abuse history on gastric sensorimotor function in functional dyspepsia[J]. Neurogastroenterol Motil, 2009,21(1): 33-41.   
+[10]Miwa H.Life style in persons with functional gastrointestial disorders--arge-scale Internet survey of lifestyle in Japan [J]. Neurogastroenterol Motil,2012,24(5): 464-71,e217.   
+[11] Walstab J,Wohlfarth C,Hovius R,et al. Natural compounds boldine and menthol are antagonists of human 5-HT receptors: implications for treating gastrointestinal disorders[J]. Neurogastroenterol Motil, 2014,26(6): 810-20.   
+[12] Dyspepsia PL, Disease: prevalence C. Diagnostic tools and therapy [J].WorldJMethodol,2014,4(3):189.   
+[13] Xiao Y, Liu YY,Yu KQ,et al. Chinese herbal medicine liu jun zi tang and xiang sha liu jun zi tang for functional dyspepsia: meta-analysis of randomized controlled trials [J].Evid Based Complement Alternat Med,2012: 936459.   
+[14]Li CZ. Meta-analysis of traditional Chinese Medicine in treating functional dyspepsia of liver-stomach disharmony syndrome[J].J Tradit Chin Med,2012,32(4): 515-22.   
+[15]刘佳丽,张毅杰,宋永喜,等.中西药治疗功能性消化不良随机对照试 验的系统评价[J].中国循证医学杂志,2009,9(12):1315-22.
+
+（编辑：吴锦雅）

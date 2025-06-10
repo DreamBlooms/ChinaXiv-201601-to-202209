@@ -1,0 +1,647 @@
+[
+    {
+        "type": "text",
+        "text": "Effects of Surface/Bulk Defect Density on the Photocatalytic Activity of ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { T i O } _ { 2 }$ : A Comparative Study between Anatase and Rutile ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Junqing Yan1, Guangjun Wu', Naijia Guan1, Landong Li\\*'1, Zhuoxin Li², Xingzhong Cao² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Laboratory of Advanced Energy Materials Chemistry (Ministry of Education), College of Chemistry, Nankai University, Tianjin 300071, P.R. China ² Institute of High Energy Physics, Chinese Academy of Sciences, Beijing 100049, P.R. China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Since the discovery of water photolysis on a $\\mathrm { T i O } _ { 2 }$ photoanode by Fujishima and Honda in 1972 [1], semiconductor photocatalysis has attracted significant attention due to its promising application in environment remediation and solar energy conversion [2-11]. Semiconductor materials are the most important issue in heterogeneous photocatalysis researches and a variety of materials have been developed as possible photocatalysts so far [5, 8]. Among all the semiconductor materials investigated, $\\mathrm { T i O } _ { 2 }$ is regarded as a benchmark photocatalyst under ultravoilet irradiation because of its superior photocatalytic activity， good chemical stability and high resistance to photocorrosion. Extensive researches have been carried on the application of $\\mathrm { T i O } _ { 2 }$ asphotocatalyst in variousreactions and distinctly different photocatalytic properties have been reported [9-11]. It is generally acknowledged that the photocatalyticperformanceof $\\mathrm { T i O } _ { 2 }$ samplescan be greatly influenced by their physico-chemical properties, e.g. most important crystalline phases, exposed crystal facets and surface/bulk defects. However, a direct correlation of the physico-chemical properties with photocatalytic performance is rather difficult and sometimes conflicting results can be seen. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The crystalline phase of $\\mathrm { T i O } _ { 2 }$ is one most important factor influencing its photocatalytic performance. Anatase and rutile $\\mathrm { T i O } _ { 2 }$ ， both with tetragonal structure,are most commonly used in photocatalytic reactions.In early studies,anatase $\\mathrm { T i O } _ { 2 }$ is believed to be more efficient photocatalyst than rutile $\\mathrm { T i O } _ { 2 }$ due to its higher Fermi lever and higher degree of hydroxylation [9]. Verykios et al. report that the photocatalytic hydrogen production from water splitting over platinized $\\mathrm { T i O } _ { 2 }$ is significantly affected by the crystalline structure of $\\mathrm { T i O } _ { 2 }$ and anatase phase exhibits hydrogen production rate higher than rutile by several times [12]. Matsumura et al. reports that rutile $\\mathrm { T i O } _ { 2 }$ has poor activity for the reduction of oxygen and therefore shows very low activity in the photocatalytic oxidation of 2-propanol using oxygen as the electron acceptor [13]. However, rutile $\\mathrm { T i O } _ { 2 }$ has also been claimed to exhibit higher photocatalytic activity than anatase in the decomposition of methylene blue due to its higher crystallinity [14]. In the work of Palmisano et al. [15,16], nano-structured rutile $\\mathrm { T i O } _ { 2 }$ exhibit high photocatalytic activity and high selectivity in the partial oxidation of aromatic alcohols to the corresponding aldehydes in water suspension. Compared to pure phase anatase or rutile, the mixed-phase $\\mathrm { T i O } _ { 2 }$ ， Degussa P25 as an example, has been proposed to exhibit higher photocatalytic activity. Li et al. [17] propose that the photocatalytic activity of $\\mathrm { T i O } _ { 2 }$ is directly related to the surface-phase structure and the phase junction formed between anatase and rutile can enhance the photocatalytic activity for hydrogen production from water splitting. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The exposed facet of $\\mathrm { T i O } _ { 2 }$ crystal is another important factor influencing its photocatalytic performance. The essence of exposed facets is the surface atomic configuration and coordination, which show great effects on the adsorption and reactivity of semiconductor [18]. Lu et al. [19] demonstrate that the $\\{ 0 0 1 \\}$ facets of anatase $\\mathrm { T i O } _ { 2 }$ with high-energy are much more reactive than the thermodynamically stable {1O1} facets for the production of hydrogen from water splitting. However, Majima et al. [2O] draw a different conclusion based on single-molecule imaging and kinetic analysis results. Cheng et al. [21] report that clean {001} facets exhibit lower reactivity than $\\{ 1 0 1 \\}$ facets in both photooxidation and photoreduction, while the {010} facets show the highest photoreactivity. In the work of Murray et al. [22], platinized $\\{ 1 0 1 \\}$ facets are proved to be more active than platinized $\\{ 0 0 1 \\}$ facets for the production of hydrogen from water spliting. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Besides the crystalline phase and exposed crystal facet, the surface/bulk defect on $\\mathrm { T i O } _ { 2 }$ is another very important factor influencing its photocatalytic performance. In fact, the defects on $\\mathrm { T i O } _ { 2 }$ have been extensively characterized by various techniques [23-29], and their role in adsorption and surface reactivity has been well acknowledged. Most recently, Li et al. [30] report that tuning the relative concentration ratio of bulk defects to surface defects in $\\mathrm { T i O } _ { 2 }$ （204号 nanocrystals can improve the separation of photogenerated electron-hole and therefore can enhance photocatalytic efficiency. However, it is still challenging to correlate the surface defects with the photocatalytic activity. A major problem is that the surface defects are interacting with many other factors, e.g. crystalline phases and exposed crystal facets, while all these factors may simultaneously influence the photocatalytic activity of $\\mathrm { T i O } _ { 2 }$ . This would probably lead to some confusing conclusin. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the present study, we aim to provide a comprehensive understanding on the effects of surface/bulk defects on the photocatalytic activity of $\\mathrm { T i O } _ { 2 }$ . For this purpose, two commonly used $\\mathrm { T i O } _ { 2 }$ ， i.e. anatase and rutile, are prepared and their surface/bulk defects are adjusted simply by calcination at different temperatures. The photocatalytic activity of $\\mathrm { T i O } _ { 2 }$ samples is evaluated in two typical reactions,i.e. photocatalytic alcohol oxidation and photocatalytic water splitting. With all the other influencing factors strictly restricted, a direct correlation between surface/bulk defect density and photocatalytic activity is drawn, which is of great significance for the design of photocatalyst with improved performance. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. Experimental ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Preparation of $\\mathrm { T i O } _ { 2 }$ samples ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "All of the chemical reagents (analytical grade) were purchased from Alfa Aesar Chemical Co.and used as received without further purification. Distilld water was used in all experiments. Anatase and Rutile $\\mathrm { T i O } _ { 2 }$ were prepared by hydrothermal method according to previous literature reports [31]. In a typical synthesis of anatase $\\mathrm { T i O } _ { 2 }$ , titanium tetrachloride $\\mathrm { ( T i C l _ { 4 } ) }$ was dropwise added into ice water under stirring to prepare a $\\mathrm { T i C l } _ { 4 }$ aqueous solution with concentration of ca. $1 \\mathrm { m o l / L }$ . Then, $3 0 ~ \\mathrm { m L }$ of $\\mathrm { T i C l } _ { 4 }$ aqueous solution was mixed with 30 1 mol/L KOH, and the resulting solution was transferred into a $7 5 ~ \\mathrm { m L }$ Teflon-lined autoclave for static crystallization at $1 0 0 ~ ^ { \\circ } \\mathrm { C }$ for $2 4 \\mathrm { ~ h ~ }$ 、 In a typical synthesis of rutile $\\mathrm { T i O } _ { 2 }$ ， $1 0 ~ \\mathrm { m L }$ of1 $\\mathrm { m o l / L \\ T i C l _ { 4 } }$ aqueous solution was added to $5 0 ~ \\mathrm { m L }$ water and the resulting solution was directly transferred into a $7 5 ~ \\mathrm { m L }$ Teflon-lined autoclave for static crystallization at $1 8 0 ^ { \\circ } \\mathrm { C }$ for $2 4 \\mathrm { ~ h ~ }$ . The resulting precipitates after crystallization were separated from the liquid phase by centrifugation, thoroughly washed with water, dried at $1 0 0 ^ { \\circ } \\mathrm { C }$ for $2 4 \\mathrm { h }$ ，and then subjected to calcination (also-called annealing) in flowing air at different temperatures for $1 2 \\mathrm { ~ h ~ }$ The final products are denoted as A-n or R-n, where A or R represents anatase or rutile, respectively, and n represents the calcination temperature in $^ { \\mathrm { { o } } } \\mathrm { { C } }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 Characterization of $T i O _ { 2 }$ samples ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The specific surface areas of samples were determined through $\\Nu _ { 2 }$ adsorption/desorption isotherms at $7 7 \\mathrm { K }$ collected on a Quantachrome iQ-MP gas adsorption analyzer. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "X-ray diffraction (XRD） patterns of the samples were recorded on a Bruker D8 diffractometer with $\\operatorname { C u } K a$ radiation ( $( \\lambda { = } 1 . 5 4 1 8 \\mathrm { \\AA } )$ from $5 \\mathrm { - } 8 0 ^ { \\circ }$ with a scan speed of $2 \\Theta = 4$ $^ \\circ / \\mathrm { m i n }$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Transmission electron microscopy (TEM) images of samples were acquired on a Philips Tecnai $\\mathrm { ~ G ~ } ^ { 2 } 2 0$ S-TWIN electron microscope at an acceleration voltage of $2 0 0 \\mathrm { k V } .$ A few drops of alcohol suspension containing the catalyst sample were placed on a carbon-coated copper grid, followed by evaporation at ambient temperature. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Raman analysis was carried out on a Renishaw InVia Raman spectrometer and spectra were obtained with the green line of an Ar-ion laser $( 5 1 4 . 5 3 ~ \\mathrm { \\ n m } )$ in micro-Raman configuration. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Diffuse reflectance ultraviolet-visible (UV-Vis) spectra of samples (ca. $\\mathrm { 1 0 0 ~ m g ) }$ were recorded in the air against $\\mathrm { B a S O _ { 4 } }$ in the region of $2 0 0 { - } 7 0 0 ~ \\mathrm { n m }$ on a Varian Cary 300 UV-Vis spectrophotometer. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "X-ray photoelectron spectra (XPS) were recorded on a Kratos Axis Ultra DLD spectrometer with a monochromated Al-Ka X-ray source $( \\mathrm { h v } \\ = \\ 1 4 8 6 . 6 \\ \\mathrm { e V } )$ ，hybrid (magnetic/electrostatic) optics and a multi-channel plate and delay line detector (DLD). All spectra were recorded using an aperture slot of $3 0 0 ^ { * } 7 0 0$ microns, survey spectra were recorded with a pass energy of $1 6 0 ~ \\mathrm { e V }$ and high-resolution spectra with a pass energy of 40 eV. Accurate binding energies ( $( \\pm 0 . 1 \\ \\mathrm { e V } )$ were determined with respect to the position of the adventitious C 1s peak at $2 8 4 . 8 \\mathrm { e V }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Photoluminescence (PL） spectra were recorded on a Spex FL2Ol fluorescence spectrophotometer. The samples of ca. $1 0 0 ~ \\mathrm { { m g } }$ were dry-pressed into self-supporting wafers and then illuminated by 325 nm He-Cd laser as excitation source at ambient temperature. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Positron annihilation experiments were carried out with a fast-slow coincidence ORTEC system with a time resolution of 187 ps full width at half maximum. The sample powder was pressed into a disk (diameter: $1 0 . 0 \\ \\mathrm { m m }$ ，thickness: $1 . 0 \\ \\mathrm { m m } \\$ .A ${ 5 \\times 1 0 ^ { 5 } }$ Bq source of $^ { 2 2 } \\mathrm { N a }$ was sandwiched between two identical sample disks. Measure spectra were analyzed by computer program LT9.0 [32] with source correction to evaluate the lifetime component $\\tau _ { \\mathrm { i } }$ and corespondigintensty $I _ { i }$ using he xpresiono $\\begin{array} { r } { N ( t ) = \\sum _ { i = 1 } ^ { k + 1 } \\frac { i _ { i } } { \\tau _ { i } } \\exp \\Big ( - \\frac { \\dot { \\varepsilon } } { \\tau _ { i } } \\Big ) . } \\end{array}$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4Photocatalytic reaction ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Photocatalytic reforming of methanol (also-known as photocatalytic water spliting with methanol as sacrificial agent） was performed in a top-irradiation-type Pyrex reaction cell connected to a closed gas circulation and evacuation system under the irradiation of 300-W Xe lamp (wavelength: $3 2 0 { - } 7 8 0 ~ \\mathrm { n m }$ (Figure S1). In a typical experiment, catalyst sample of $1 0 0 ~ \\mathrm { { m g } }$ was suspended in $1 0 0 \\mathrm { \\ m L } 1 0 \\%$ methanol aqueous solution in the reaction cell. After evacuated for $3 0 ~ \\mathrm { m i n }$ ， the reactor cell was irradiated by the Xe lamp at 2Oo W under stirring. The gaseous products were analyzed by an on-line gas chromatograph (Varian CP-3800) with thermal conductivity detector. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The photocatalytic oxidation of $\\mathfrak { a }$ -phenylethanol was performed in a double-walled quartz cell cooled by water with a 250-W high-pressure $\\mathrm { H g }$ lamp (315-420 nm, main wavelength at $3 6 5 ~ \\mathrm { n m }$ ）as a light source. In each experiment, the catalyst of ca. $\\boldsymbol { 0 . 3 \\mathrm { ~ g ~ } }$ was dispersed in the mixture of benzotrifluoride (solvent） and $0 . 0 2 5 ~ \\mathrm { m o l } \\ i$ $\\mathfrak { a }$ -phenylethanol in the quartz cell under stiring. The suspension was then iradiated from inside with oxygen bubbled in at ca. 20 $\\mathrm { m L } / \\mathrm { m i n }$ . The organic products were analyzed by GC (Shimadzu GC-2010 Plus) and GC-MS (Shimadzu GCMS-QP2010 SE). Meanwhile, an absorption apparatus containing saturated $\\mathrm { B a ( O H ) } _ { 2 }$ solution was equipped at down-stream of quartz cell to determine the quantity of $\\mathrm { C O } _ { 2 }$ that might form during reaction. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3. Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1 Spectroscopy characterization results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e435fc2920beae0558a7e9c46cc68c4a69025dd2fd4b7546d0c29c19c436ac9.jpg",
+        "img_caption": [
+            "Figure 1 XRD patterns of anatase and rutile $\\mathrm { T i O } _ { 2 }$ samples calcined at different temperatures "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Generally, $\\mathrm { T i O } _ { 2 }$ is present in three different crystalline structures in nature, i.e. tetragonal anatase， orthorhombic brookite and tetragonal rutile. The rutile phase is the most stable structure of $\\mathrm { T i O } _ { 2 }$ ， while the anatase phase can transform to rutile phase at high temperature, e.g. $5 0 0 { - } 7 0 0 ^ { \\circ } \\mathrm { C }$ [33]. In the present study, the as-prepared anatase $\\mathrm { T i O } _ { 2 }$ shows extremely high crystalline phase stability, similar to that observed for Hombikat UV-1O0 (Sachtleben Chemie GmbH) [34] and anatase nano-particles [35]. The XRD patterns in Figure 1 reveal that the crystalline structure of anatase can be well preserved, without the appearance of rutile phase, even after calcination in flowing air at $7 0 0 ^ { \\circ } \\mathrm { C }$ for $1 2 { \\mathrm { ~ h ~ } }$ ， The crystallinity of both anatase and rutile phases distinctly increases with increasing calcination temperature,as indicated by the decreases in the full-width-at-half-maximum of the Bragg peaks in the XRD patterns. Based on Scherer equation from the broadening of anatase (1O1） reflection and rutile (110) reflection, the crystalline sizes of anatase and rutile increases from 12.3 to $2 5 . 4 ~ \\mathrm { n m }$ and from 22.3 to $4 5 . 1 \\ \\mathrm { n m }$ ，respectively, as the calcination temperature increases from 400 to $7 0 0 ~ ^ { \\circ } \\mathrm { C }$ The increases in the crystallinity and crystalline size are accompanied by the distinct decreases in the surface area of samples, as shown in Table 1. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/6ccb2453bfdb0e7fa3816385cd899cc05ac524e7fffac7d69125d09e1a3db35b.jpg",
+        "img_caption": [
+            "Figure 2 Raman spectra of anatase and rutile $\\mathrm { T i O } _ { 2 }$ samples calcined at different temperatures "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Raman spectroscopy is further employed in the characterization of crystalline structure of $\\mathrm { T i O } _ { 2 }$ samples, and the results are shown in Figure 2. The anatase structure is characterized by the tetragonal space group of I41/amd and six Raman transitions $( 1 \\mathrm { A } _ { 1 \\mathrm { g } } , 2 \\mathrm { B } _ { 1 \\mathrm { g } }$ and $3 \\mathrm { E _ { g } } ^ { \\cdot }$ are allwed according to the factor group analysis. The rutile structure is characterized by the tetragonal space group of $\\mathbb { P } 4 2$ /mrm and five Raman transitions ( $\\mathrm { \\Delta B _ { l g } , }$ multi-proton process, $\\mathrm { E _ { g } , A _ { l g } }$ and $\\mathbf { B } _ { 2 \\mathrm { g } } { \\mathrm { , } }$ ） are allowed [36, 37]. In the present study， four Raman-active modes of $\\mathrm { E _ { g } }$ （204 $( 1 4 0 ~ \\mathrm { c m } ^ { - 1 } ) , \\mathrm { B _ { 1 g } } ~ ( 3 9 5 ~ \\mathrm { c m } ^ { - 1 } ) , \\mathrm { A _ { 1 g } } ~ ( 5 1 5 ~ \\mathrm { c m } ^ { - 1 } )$ and $\\mathrm { E _ { g } }$ $( 6 3 5 ~ \\mathrm { c m ^ { - 1 } } )$ are observed for anatase $\\mathrm { T i O } _ { 2 }$ calcined at different temperatures, while three Raman-active modes of multi-proton process $( 2 3 0 \\ \\mathrm { c m ^ { - 1 } } ) , \\mathrm { E _ { g } } ( 4 4 5 \\ \\mathrm { c m ^ { - 1 } } )$ and $\\mathrm { A _ { l g } ( 6 l 0 \\ c m ^ { - 1 } ) }$ are observed for rutile $\\mathrm { T i O } _ { 2 }$ calcined at different temperatures. It is clearly indicated that both the anatase structure and the rutile structure are well preserved after calcination, in consistence with XRD patterns. The intensities and the ratios between different Raman vibrational modes in anatase $\\mathrm { T i O } _ { 2 }$ and rutile are shown in Table S1 and Table S2, respectively. It is seen that the intensities of Raman vibration modes in both anatase and rutile phase increase as the calcination temperature increases, probably due to the increase in the crystallinity. While the ratios between different Raman vibrational modes, e.g. $\\mathrm { A _ { l g } / E g }$ and $\\mathrm { B _ { l g } / E g }$ in anatase and $\\mathrm { A _ { l g } / E g }$ in rutile, are quite similar. It is known that the Raman modes are originated from the vibration of molecular bonds and molecular bonds on different crystal facets make different contributions to the Raman-active modes. The Raman spectroscopy has been employed in the measuring the percentage of specific exposed facets in anatase $\\mathrm { T i O } _ { 2 }$ [29]. In the present study, the similar ratios between different Raman vibrational modes indicate that the percentages of specific exposed facets in both antase and rutile $\\mathrm { T i O } _ { 2 }$ do not change obviously during the calcination process (ref. Figure S2, Table S1, S2 and corresponding discussin). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For the anatase {101} facets, the bonding modes on the surface are mainly saturated 6c-Ti and 3c-O modes, and unsaturated 5c-Ti and 2c-O. For the anatase {001} facets, the bonding modes on the surface are mainly unsaturated 5c-Ti and 2c-O. For rutile {110} facets, the bonding modes on the surface are mainly saturated 6c-Ti and 3c-O modes, and unsaturated 5c-Ti and 2c-O. For rutile {100} facets, are mainly unsaturated 5c-Ti and 2c-O. The 6c-Ti and 3c-O are easy to exhibit the symmetric stretching vibration, and the 2c-O and 5c-Ti tend to exhibit the symmetric bending vibration and anti-symmetric bending vibration. In Raman spectra, the Eg mode is mainly caused by the symmetric stretching vibration of O-Ti-O in TiO2, the B1g mode is caused by symmetric bending vibration of O-Ti-O, and the A1g mode is caused by anti-symmetric bending vibration of O-Ti-O. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/c60b8025e784816cc2d702ffc1aeee49b78bb1537ca4db923d3a8801233274f1.jpg",
+        "img_caption": [
+            "Figure S2 Structural modes of anatase TiO2 {101} and {001} surfaces, and rutile {110} and {100} surfaces "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/b895b03e2b6ec3b08d3fe49712ed7e6ef6d85d6bba2bc74d105ddd714c4812e1.jpg",
+        "img_caption": [
+            "Table S1 Intensity and the ratio between different Raman vibrational modes in anatase TiO2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Table S2 Intensity and the ratio between different Raman vibrational modes in rutile TiO2 ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/5c6de545ada60a0068b48de513dc9f06de71f614147d31c42256c9a2c81e33ae.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Sample</td><td>Raman intensity</td><td></td><td>Ratio</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Multi-proton process / 230 cm- Eg/ 445 cm-1 A1g/ 610 cm- A1g/Eg   \nrutile 1147 2688 2347 0.87   \nR-400 1276 2722 3125 1.15   \nR-500 2350 5034 5766 1.15   \nR-600 3116 6680 7744 1.16   \nR-700 3294 7358 8560 1.16 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The morphologies of anatase and rutile $\\mathrm { T i O } _ { 2 }$ samples calcination at different temperatures are investigated by TEM, and represented TEM images are shown in Figure 3. The as-prepared anatase $\\mathrm { T i O } _ { 2 }$ appears as aggregates of nano-particles of $2 \\cdot 5 \\ \\mathrm { n m }$ ，Subsequent calcination process results in the increase in the crystallite size of anatase $\\mathrm { T i O } _ { 2 }$ ，and larger crystallite size is obtained with higher calcination temperature. The {101} facets are the most thermodynamically stable facets for the regular anatase $\\mathrm { T i O } _ { 2 }$ and these facets account for the $94 \\%$ of the total surface according to the Wuff construction [38]. For anatase $\\mathrm { T i O } _ { 2 }$ calcined at different temperatures,the {101} facets are observed as the absolutely dominant facets by the high-resolution transmission electron microscope (HRTEM) images (lattice fringes with spacing of $0 . 3 5 \\ \\mathrm { n m }$ ） and further confirmed by fast Fourier transformation (FFT） patterns (Figure 3). The as-prepared rutile $\\mathrm { T i O } _ { 2 }$ appears as uniform nano-rods, with the average length of $1 0 0 \\mathrm { n m }$ and diameter of $1 5 \\mathrm { n m }$ . The nano-rods morphology is preserved after calcination at 400 and $5 0 0 ~ ^ { \\circ } \\mathrm { C }$ ，while the server expansion of nano-rods occurs after calcination at higher temperatures. For all rutile samples, the most stable {11O} facets with lowest formation energy [39] are observed as the dominant facets,as illustrated by the lattice fringes with spacing of $0 . 3 3 ~ \\mathrm { n m }$ in HRTEM images and the corresponding FFT patterns. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/566cb35416a5cfd86dedad51d522d71e0eb7a01a5a846b024e6d0f1dac15595f.jpg",
+        "img_caption": [
+            "Figure 3 TEM and HRTEM images of anatase and rutile $\\mathrm { T i O } _ { 2 }$ samples calcined at different temperatures "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "For the as-prepared anatase and rutile $\\mathrm { T i O } _ { 2 }$ in the present study, calcination at elevated temperatures can induce the sintering of crystals,which results in the increase in the crystalline size and the decrease in surface area. However, the crystalline structure as well as the percentage of exposed facets in anatase and rutile $\\mathrm { T i O } _ { 2 }$ is well preserved after calcination at temperature up to $7 0 0 ^ { \\circ } \\mathrm { C }$ ，as confirmed by the characterization results from XRD, Raman and TEM. Some physico-chemical properties of the anatase and rutile $\\mathrm { T i O } _ { 2 }$ samples are summarized in Table 1 for a direct view. ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/0ea2e7cfff5a164432b20ef5912341a1d89669dd710c46c82b0cc824c1636287.jpg",
+        "table_caption": [
+            "Table 1 Physico-chemical properties of the anatase and rutile $\\mathrm { T i O } _ { 2 }$ samples "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Sample</td><td>Crystalline</td><td>Crystallite size (nm)</td><td></td><td rowspan=\"2\">SBET (m2/g)</td></tr><tr><td>structure</td><td>XRD a</td><td>TEM b</td></tr><tr><td>A-400</td><td>Anatase</td><td>12.3</td><td>16.6</td><td>142.4</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/2b0d82fd902712cc88f7b020ab42736868c6a5bcbd9e73877f3bfcbabdcffaf1.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "a: Estimated by Scherer equation from the broadening of anatase (101) reflection and rutile (11O) reflection in XRD, respectively "
+        ],
+        "table_body": "<html><body><table><tr><td>A-500</td><td>Anatase</td><td>13.6</td><td>20.4</td><td>69.4</td></tr><tr><td>A-600</td><td>Anatase</td><td>19.4</td><td>30.8</td><td>38.5</td></tr><tr><td>A-700</td><td>Anatase</td><td>25.4</td><td>42.5</td><td>20.9</td></tr><tr><td>R-400</td><td>Rutile</td><td>22.3</td><td>125.8 × 17.2</td><td>24.1</td></tr><tr><td>R-500</td><td>Rutile</td><td>25.5</td><td>139.7 × 19.7</td><td>19.3</td></tr><tr><td>R-600</td><td>Rutile</td><td>36.1</td><td>160.3 × 38.2</td><td>11.3</td></tr><tr><td>R-700</td><td>Rutile</td><td>45.1</td><td>203.7 × 65.6</td><td>6.2</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "b: Estimated by TEM observations ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/107ff9b6df4f06caa268212a871a3ad5d428774a18204b8f81c62470ef080f58.jpg",
+        "img_caption": [
+            "Figure 4 UV-Vis spectra of anatase and rutile $\\mathrm { T i O } _ { 2 }$ samples calcined at different temperatures "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Diffuse reflectance UV-Vis spectroscopy was employed to study the optical properties of anatase and rutile $\\mathrm { T i O } _ { 2 }$ samples calcined at different temperatures.All samples show intrinsic absorption in the ultravoilet region attributed to the band-band transition. The calculated band gap of anatase and rutile $\\mathrm { T i O } _ { 2 }$ is 3.2 and $3 . 0 ~ \\mathrm { e V } ,$ respectively, in consistence with literature results [4O]. High temperature calcinations do not change the absorption edges of both anatase and rutile $\\mathrm { T i O } _ { 2 }$ ，while distinct decreases in the light absorption can be observed. This should be explained from the enhanced scattering of light with larger crystalline size [41]. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b371dbb0b42ec8f3ac340b61129a7278acbf54b63140307754a077a8305f1c6.jpg",
+        "img_caption": [
+            "Figure 5 Photoluminescence spectra of anatase and rutile $\\mathrm { T i O } _ { 2 }$ samples calcined at different temperatures "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Photoluminescence spectroscopy is a very useful technique to disclose the efficiency of charge carrier trapping, immigration and transfer in semiconductor [42-45]. Generally, the photoluminescence emissions on semiconductor materials are originated from the radiative recombination of photo-generated electrons and holes， and two major photo-physical processes can give rise to photoluminescence signals.When the semiconductor is excited by light with no less than the ban gap energy, the photo-generated electrons can transfer from the conduction band to the valance band，with of release of energy as photoluminescence radiation. This process is recognized as direct band-band transition photoluminescence. In the other photoluminescence process,the excited electrons firstly transfer from the conduction band to different sub-bands,e.g. surface oxygen vacancies or defects, via non-radiative transition,and subsequently transfer from the sub-bands to the valance band via radiative transition with the release of photoluminescence signals. The process is related to the shallow traps and the corresponding photoluminescence signals can be observed in the visible region, considering that the oxygen vacancy or defect states are below the lower end of the conduction band at O-1 eV [43]. In the present study， the band-band transition photoluminescence signals are observed at 415 and $4 3 0 \\ \\mathrm { n m }$ for anatase and rutile $\\mathrm { T i O } _ { 2 }$ respectively (Figure 5). Besides, multiple photoluminescence signals in the visible region (centered at $4 7 5 ~ \\mathrm { n m }$ ） can be observed for both anatase and rutile $\\mathrm { T i O } _ { 2 }$ ， which are associated with the shallow traps on surface oxygen vacancies or defects. The photoluminescence signals attenuate with increasing calcination temperature for both types of $\\mathrm { T i O } _ { 2 }$ ，in great consistence with literature reports [42，46]. However, it should be noted that the light absorption also decreases distinctly with increasing calcination temperature,as shown in Figure 4. Therefore， it is almost impossible to reveal the intrinsic change of photoluminescence signals with calcination temperature. Nevertheless, it can be concluded that abundant surface oxygen vacancies or defects exist in anatase and rutile $\\mathrm { T i O } _ { 2 }$ , which may play a vital role on the photocatalytic activity (vide infra). Moreover, the relative intensity of surface oxygen vacancies or defects in rutile $\\mathrm { T i O } _ { 2 }$ is higher than that in anatase. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/81d997a529ed48dde6fcf46042ac924aac29b7f8be8639296307780bc95fbea6.jpg",
+        "img_caption": [
+            "Figure S3 XPS of Ti 2p region of anatase and rutile TiO2 calcined at different temperatures "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/21cff36f70e131d8870b8bb2750050351937a81cfe970eaa3981365b9f4b7cdc.jpg",
+        "img_caption": [
+            "Figure 6 XPS of O 1s region of anatase and rutile $\\mathrm { T i O } _ { 2 }$ calcined at different temperatures "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The surface and sub-surface states (in the depth up to $5 \\ \\mathrm { n m }$ ）of anatase and rutile $\\mathrm { T i O } _ { 2 }$ calcined at different temperatures are investigated by means of XPS and the results are shown in Figure 6. In Ti 2p region (Figure S3)， binding energy values at 458.3 and 464.1 eV assignable to $2 { \\tt p } _ { 3 / 2 }$ and $2 { \\tt p } _ { 1 / 2 }$ of $\\mathrm { T i } ^ { 4 + }$ in $\\mathrm { T i O } _ { 2 }$ [47] are observed for both anatase and rutile calcined at different temperatures, indicating the identical existence state of Ti atoms in these samples. In the O 1s region, binding energy values at 529.6, 531.6 and $5 3 3 . 0 \\mathrm { e V }$ are observed in all samples. The binding energy value at $5 2 9 . 6 \\ \\mathrm { e V }$ is attributed to crystal lattce oxygen in $\\mathrm { { - } \\mathrm { { T i } ^ { \\mathrm { { 4 + } } } } }$ ，while the binding energy values at 531.6 and $5 3 3 . 0 ~ \\mathrm { e V }$ are assigned to surface adsorbed hydroxyl groups [48-50]. Since the physically absorbed hydroxyl groups on $\\mathrm { T i O } _ { 2 }$ can be easily removed under the ultrahigh vacuum condition of the XPS system, $\\mathrm { T i O } _ { 2 }$ single crystal or $\\mathrm { T i O } _ { 2 }$ with fine surface structure will not give corresponding signals of in XPS [50, 51]. Thereupon, the distinct signals of hydroxyl groups observed should be due to hydroxyl groups, i.e. Ti-OH and $_ \\mathrm { H } \\mathrm { _ 2 O }$ ， strongly bounded to surface defects on anatase and rutile $\\mathrm { T i O } _ { 2 }$ （204号 calcined at different temperatures. That is, the hydroxyl groups in XPS are associated with surface defects and the visible hydroxyl groups should indicate the existence of surface defects on $\\mathrm { T i O } _ { 2 }$ samples. As Mul et al reported according to $\\mathrm { N H } _ { 3 }$ -TPD experimental results, the number of surface hydroxyl groups per surface area of anatase $\\mathrm { T i O } _ { 2 }$ increases with increasing calcination temperatures [52]. In the present study， a similar trend can be concluded for anatase $\\mathrm { T i O } _ { 2 }$ based on XPS results.However, XPS results are not suitable for the quantitative analysis of surface hydroxyl groups due to the complexity of hydroxyl bounded to surface defects as well as the randomness of XPS analysis. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/8d59d5ee74c4de2c958f5eef96f0847893bd3cb0c0813eaff06342ad3e621cf9.jpg",
+        "table_caption": [
+            "3.2 Characterization of defects by positron annihilation ",
+            "Table 2 Positron lifetime and relative intensities of $\\mathrm { T i O } _ { 2 }$ samples "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Samples</td><td>T1 (ps)</td><td>1(%)</td><td>t2(ps)</td><td>12 (%)</td><td>t(ns)</td><td>1 (%)</td><td>I2/I1</td><td>Ra</td></tr><tr><td>A-400</td><td>200.5</td><td>38.92</td><td>376.9</td><td>58.21</td><td>2.219</td><td>2.87</td><td>1.50</td><td>6.6</td></tr><tr><td>A-500</td><td>207.4</td><td>42.90</td><td>391.2</td><td>54.80</td><td>2.274</td><td>2.25</td><td>1.28</td><td>11.5</td></tr><tr><td>A-600</td><td>219.8</td><td>47.90</td><td>403.9</td><td>48.40</td><td>2.225</td><td>3.64</td><td>1.01</td><td>16.4</td></tr><tr><td>A-700</td><td>213.2</td><td>48.20</td><td>399.1</td><td>47.80</td><td>2.291</td><td>4.03</td><td>0.99</td><td>23.6</td></tr><tr><td>R-400</td><td>208.6</td><td>39.60</td><td>372.6</td><td>56.30</td><td>2.071</td><td>4.05</td><td>1.42</td><td>25.4</td></tr><tr><td>R-500</td><td>201.7</td><td>49.83</td><td>404.1</td><td>48.40</td><td>2.032</td><td>1.77</td><td>0.97</td><td>31.5</td></tr><tr><td>R-600</td><td>212.7</td><td>51.10</td><td>399.5</td><td>46.50</td><td>2.186</td><td>2.36</td><td>0.91</td><td>50.3</td></tr><tr><td>R-700</td><td>214.0</td><td>55.30</td><td>410.0</td><td>42.10</td><td>2.137</td><td>2.58</td><td>0.76</td><td>76.6</td></tr></table></body></html>",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { R = \\frac { C _ { s u r f } } { C _ { b u l k } } = \\frac { I _ { s u r f } / V _ { s u r f } } { I _ { b u l k } / V _ { b u l k } } = \\frac { I _ { s u r f } / ( m \\cdot 5 _ { B E T ^ { * } } \\delta _ { s u r f } ) } { I _ { b u l k } / ( m / \\rho _ { b u l k } ) } = \\frac { I _ { 2 } } { I _ { 1 } } \\bullet \\frac { 1 } { S _ { B E T ^ { * } } \\delta _ { s u r f ^ { * } } \\rho _ { b u l k } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Positron annihilation is a wellestablished technique to study the defects in solid materials, and the lifetime of the positron is able to give information on the nature of various defects even at the ppm level [53-55]. In the present study, the defects in different $\\mathrm { T i O } _ { 2 }$ samples are carefully characterized by positron annihilation lifetime spectroscopy. As shown in Table 2, three lifetime components $\\tau _ { 1 }$ ， $\\tau _ { 2 }$ and $\\tau _ { 3 }$ ， with relative intensities $I _ { 1 } , I _ { 2 }$ and $I _ { 3 }$ ， are observed for anatase and rutile $\\mathrm { T i O } _ { 2 }$ calcined at different temperatures. The longest component $\\left( \\tau _ { 3 } \\right)$ should be atributed to the annihilation of orthopositronium atoms formed in the large voids present in the material [53] and it will not be discussed in the present work. The shortest component $\\tau _ { 1 }$ should be atributed to the free annihilation of positrons in defect-free crystal [56]. While in disordered system, small defects, e.g. monovacancies, can reduce the surrounding electron density and therefore increase the lifetime of $\\tau _ { 1 }$ [57]. The lifetime $\\tau _ { 1 }$ in anatase and rutile $\\mathrm { T i O } _ { 2 }$ calcined at different temperatures ( $> 2 0 0$ ps, Table 2) is obvious higher than that of $\\mathrm { T i O } _ { 2 }$ with fine crystal structure $( \\sim 1 8 0$ ps) [58], indicating the existence of small defects in these samples. In this case, $\\tau _ { 1 }$ is the weighted average of free and positrons trapped by small defects. However, the small defects are not major positron traps and their correlation with material properties is not conclusive [59]. The component $\\tau _ { 2 }$ should be atributed to the annihilation of positrons trapped by large defects, e.g. vacancy clusters, in materials. Considering that the average electron density in large defects is lower than that in small defects,the annihilation rates of positrons trapped by large defects are also lower than those trapped by small defects and therefore the positrons lifetime is relatively longer [3O]. The lifetime component $\\tau _ { 2 }$ （20 qualitatively reveals the nature of large defects and its relative intensity $I _ { 2 }$ quantifies the abundance large defects. It has been reported that the deposition of AgI on $\\mathrm { T i O } _ { 2 }$ surface does not lead to an obvious change of $\\tau _ { 1 }$ but results in a considerable evolution of $\\tau _ { 2 }$ [60]. While hydrogenation of $\\mathrm { T i O } _ { 2 }$ results in the distinct increase in $\\tau _ { 1 }$ due to the creation of $\\mathrm { T i } ^ { 3 + }$ -oxygen vacancies in the bulk phase, with $\\tau _ { 2 }$ nearly unchanged [29]. Based on the specific atributions of lifetime components and literature reports, it is rational to propose that the small defects mainly exist in the bulk phase while the large defects mainly locate on the surface or sub-surface ofthe samples [29,30, 60]. For anatase and rutile $\\mathrm { T i O } _ { 2 }$ , the lifetime component $\\tau _ { 2 }$ （20 showsconsiderable variation with calcination temperatures. On theonehand, high-temperature calcinations results in the grain boundary migration and sink of vacancy clusters at original gain surfaces. On the other hand, calcination (thermal energy supply) may induce the migration of sub-surface intra-grain monovacancies to grain surface and subsequent agglomeration to vacancy clusters. The variations of $\\tau _ { 2 }$ can be explained as a balance of above-mentioned two conflicting effects. It is interesting to observe that ratios of $I _ { 2 } / I _ { 1 }$ decrease with increasing calcination temperature for both anatase and rutile $\\mathrm { T i O } _ { 2 }$ samples, indicating the loss of vacancy clusters upon calcination. However, it should be noted that the ratio of surface to bulk region in $\\mathrm { T i O } _ { 2 }$ sample dramatically decreases with increasing crystalline size induced by calcination (Table 1). Here， we introduce the concept of surface/bulk defects ratio R based on the volume concentration of surface and bulk defects, as shown in the following equation. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle R = \\frac { C _ { s u r f } } { C _ { b u l k } } = \\frac { I _ { s u r f } / V _ { s u r f } } { I _ { b u l k } / V _ { b u l k } } = \\frac { I _ { s u r f } / ( m \\bullet S _ { B E T } \\bullet \\delta _ { s u r f } ) } { I _ { b u l k } / ( m / \\rho _ { b u l k } ) } = \\frac { I _ { s u r f } } { I _ { b u l k } } \\bullet \\frac { 1 } { S _ { B E T } \\bullet \\delta _ { s u r f } \\bullet \\rho _ { b u l k } } } } \\\\ { { \\displaystyle \\quad \\quad = \\frac { I _ { 2 } } { I _ { 1 } } \\bullet \\frac { 1 } { S _ { B E T } \\bullet \\delta _ { s u r f } \\bullet \\rho _ { b u l k } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The volume of bulk phase is simply calculated as $m / \\rho _ { v a t l k }$ . While the volume of surface layer is calculated as $m \\cdot S _ { E E T } \\cdot \\tilde { \\mathcal { O } } _ { S u T T }$ ，where $\\delta _ { s w j }$ is the thickness of the outermost layer of $\\mathrm { T i O } _ { 2 }$ crystalline({1O1} for anatase and {11O} for rutile). The calculated R values are listed in Table 2. It is clearly seen that the concentration ratios of surface/bulk defects (R) increase with increasing calcination temperature for both anatase and rutile $\\mathrm { T i O } _ { 2 }$ from 400 to $7 0 0 ^ { \\circ } \\mathrm { C }$ although the intensity ratios of surface/bulk defects show the opposite trend. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "3.3Photocatalytic reaction activities ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The photocatalytic activity of anatase and rutile $\\mathrm { T i O } _ { 2 }$ samples calcined at different temperatures is investigated through two typical reactions, i.e. photocatalytic reforming of methanol and photocatalytic oxidation of $\\mathfrak { a }$ -phenylethanol. ",
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/dfb72948acde17548f7080f3e650026a2a08842f964c47543b91bd322c72d6fd.jpg",
+        "img_caption": [
+            "Figure 7 Hydrogen evolution during methanol photocatalytic reforming over anatase and rutile $\\mathrm { T i O } _ { 2 }$ samples calcined at different temperatures "
+        ],
+        "img_footnote": [],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The time course of hydrogen production from photocatalytic reforming of methanol over anatase and rutile $\\mathrm { T i O } _ { 2 }$ samples calcined at different temperatures (without any co-catalyst) is shown in Figure 7. It is seen that both anatase and rutile $\\mathrm { T i O } _ { 2 }$ samples exhibit considerable activity for hydrogen production from photocatalytic reforming of methanol. Meanwhile, high-temperature calcinations show distinct effects on the activity. For anatase $\\mathrm { T i O } _ { 2 }$ ,the mass specific activity decreases slightly with increasing calcination temperature from 40o to 600 $^ { \\circ } \\mathrm { C }$ ， reaches to a minimum at $6 0 0 ~ ^ { \\circ } \\mathrm { C }$ and then increases with increasing calcination temperature to $7 0 0 ~ ^ { \\mathrm { { \\circ } } } \\mathrm { { C } }$ For rutile $\\mathrm { T i O } _ { 2 }$ ， the mass specific activity keeps increasing with increasing calcination temperature from 400 to $7 0 0 ~ ^ { \\circ } \\mathrm { C }$ . Considering that the surface areas of anatase and rutile $\\mathrm { T i O } _ { 2 }$ samples are very different (Table 1), the surface specific activity $( \\mathrm { | f i m o l ~ m _ { \\mathrm { E a t } } ^ { - 2 } ) }$ is further calculated to explore the intrinsic photocatalytic activity of $\\mathrm { T i O } _ { 2 }$ （204号 samples. As shown in Figure 7, the surface specific activity of both anatase and rutile increases with increasing calcination temperature from 400 to $7 0 0 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/325767813557302547f8b0b33778179192c2136d03ef84abf814c324c08931d7.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/77a747c03f4919b557ad9bf31be3fd53520d922acea09e16e35306c2e479e2f0.jpg",
+        "img_caption": [
+            "Figure 8 Acetophenone production during photocatalytic oxidation of $\\mathfrak { a }$ -phenethylalcohol over anatase and rutile $\\mathrm { T i O } _ { 2 }$ samples calcined at different temperatures "
+        ],
+        "img_footnote": [],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "The time course of acetophenone production from photocatalytic oxidation of $\\mathfrak { a }$ -phenethyl alcohol over anatase and rutile $\\mathrm { T i O } _ { 2 }$ samples calcined at different temperatures is shown in Figure 8. The selective photocatalytic oxidation of $\\mathfrak { a }$ -phenethyl alcohol to acetophenane can be achieved on all samples with selectivity of $91 \\%$ (toluene and COx as main by-products). For anatase $\\mathrm { T i O } _ { 2 }$ ， the mass specific activity of $\\mathfrak { a }$ -phenethyl alcohol oxidation keeps increasing with increasing calcination temperature from 400 to $7 0 0 ^ { \\circ } \\mathrm { C }$ .While the mass specific activities of $\\mathfrak { a }$ -phenethyl alcohol oxidation on rutile $\\mathrm { T i O } _ { 2 }$ calcined at different temperatures are quite similar. The surface specific activity of both anatase and rutile in the photocatalytic oxidation of $\\mathfrak { a }$ -phenethyl alcohol increases with increasing calcination temperature from 400 to $7 0 0 ^ { \\circ } \\mathrm { C }$ , similar to that in the photocatalytic reforming of methanol. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "4.Discussion ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "4.1 Photocatalytic activity: Anatase versus Rutile ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "The controversies on the activity of anatase and rutile $\\mathrm { T i O } _ { 2 }$ may be originated from many factors and an exact explanation is quite difficult. In the present study, nano-sized anatase and rutile $\\mathrm { T i O } _ { 2 }$ are prepared without specific shape-control and their activities (without any co-catalyst) are carefully investigated in two typical photocatalytic reactions. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "For the photocatalytic reforming of methanol, the activities of both anatase and rutile $\\mathrm { T i O } _ { 2 }$ sample are very much dependent on the calcination temperatures (Figure 7). In case of anatase $\\mathrm { T i O } _ { 2 }$ , the mass specific activityof the most active sample A-400 $( 8 3 \\mathrm { \\textmu m o l { h } ^ { - 1 } \\ g _ { c a t } ^ { - 1 } } )$ （204号 is ca. $50 \\%$ higher than that of A-600 $( 5 5 \\mathrm { \\textmu m o l } \\mathrm { h } ^ { - 1 } \\mathrm { \\ g } _ { \\mathrm { c a t } } ^ { - 1 } )$ . In case of rutile $\\mathrm { T i O } _ { 2 }$ ， the mass specific activity of the most active sample R-700 $( 4 3 \\mathrm { \\ \\sharp \\sharp \\ m o l h ^ { - 1 } \\ g _ { c a i t } ^ { - 1 } } )$ is over 8 times higher than that of R-400 $( 5 \\mathrm {  ~ \\ p u m o l ~ } \\mathrm { \\bf h } ^ { - 1 } \\mathrm   ~ \\} \\mathrm { \\bf \\underline { { \\sigma } } } _ { \\mathrm { \\bf c a t } } ^ { - 1 } )$ . Meanwhile, the mass specific activities of anatase $\\mathrm { T i O } _ { 2 }$ （204号 in the photocatalytic reforming of methanol are higher than those of rutile $\\mathrm { T i O } _ { 2 }$ .However, the surface areas of anatase and rutile $\\mathrm { T i O } _ { 2 }$ samples are quite different (Table 1） and higher surface area may play a positive role in the adsorption of reactant, resulting in higher photocatalytic activity. Thereupon, the surface specific activity $( \\mathrm { \\mu m o l { \\mu } ^ { - 1 } \\mathrm { m } _ { \\mathrm { c a t } } ^ { - 2 } ) }$ is further calculated to explore the intrinsic photocatalytic activity of $\\mathrm { T i O } _ { 2 }$ samples. The results clear indicate that comparable surface specific activities in photocatalytic reforming of methanol are obtained on anatase and rutile $\\mathrm { T i O } _ { 2 }$ . The highest surface specific activity of 6.8 $\\mathrm { \\mu m o l } \\mathrm { \\bf h } ^ { - 1 } \\mathrm { \\bf m } _ { \\mathrm { \\mathrm { z a t } } } ^ { - 2 }$ is achieved on rutile sample R-7O0, in contrast to the surface specific activity d $2 . 9 \\ \\mathrm { \\ \\mu m o l \\hdots ^ { - 1 } \\ m } _ { \\mathrm { c a t } } ^ { - 2 }$ on anatase sample A-7Oo. More important, it should be addressed that the calcination temperatures show dramatic effects on the surface specific activity of both anatase and rutile $\\mathrm { T i O } _ { 2 }$ ，and a maximal difference of over 3O times can be observed(6.8 $\\mathrm { \\| m o l { \\bf h } ^ { - 1 } m _ { r a t } ^ { - 2 } }$ for R-700 and $0 . 2 \\ \\mathrm { \\ \\mu m o l \\hslash { h } } ^ { - 1 } \\mathrm { m } _ { \\mathrm { r a t } } ^ { - 2 }$ for R-400). ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "For the photocatalytic oxidation of $\\mathfrak { a }$ -phenethyl alcohol, the circumstances are quite similar to those observed for the photocatalytic reforming of methanol. Anatase $\\mathrm { T i O } _ { 2 }$ samples show slight higher mass specific activity than rutile $\\mathrm { T i O } _ { 2 }$ samples,while the surface specific activities of anatase and rutile $\\mathrm { T i O } _ { 2 }$ samples are comparable. Moreover, the product selectivity (to acetophenone） over all $\\mathrm { T i O } _ { 2 }$ samples is quite similar, in great contrast to the reports of Palmisano et al. [15, 16]. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "On a whole, it can be concluded that the surface specific activities of anatase and rutile $\\mathrm { T i O } _ { 2 }$ in both photocatalytic reforming of methanol and photocatalytic oxidation of $\\mathfrak { a }$ -phenethyl alcohol are comparable. Calcination temperatures show dramatic effects on the surface specific activities of anatase and rutile $\\mathrm { T i O } _ { 2 }$ . Since the crystalline phase and exposed facets of are kept changed during the calcination process (ref. section 3.2)， the activity difference both anatase and rutile $\\mathrm { T i O } _ { 2 }$ should be originated from the different surface/bulk defects. It should be mentioned that the activity difference originated from different surface/bulk defects (maximal difference of over 3O times) is as least comparable to that originated from the different crystalline phase and exposed facets [15-22]. Figure 9 shows the direct comparison between the intrinsic photocatalytic activity of home prepared $\\mathrm { T i O } _ { 2 }$ samples (A-700,R-700) and commercial $\\mathrm { T i O } _ { 2 }$ (Hombikat UV-100 with surface area of 288 $\\mathrm { m } ^ { 2 } / \\mathrm { g }$ and Degussa P25 with surface area of $5 0 ~ \\mathrm { m } ^ { 2 } / \\mathrm { g } )$ . It is evident that home prepared pure phase anatase A-7OO and rutile R-70o exhibit very good activity in both photocatalytic reforming of methanol and photocatalytic oxidation of $\\mathfrak { a }$ -phenethyl alcohol， using the well-known Degussa P25 as an reference catalyst. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ea72d529d36c82474d8fae0310fdb495cb68f409e35c4cd017056347522319d.jpg",
+        "img_caption": [
+            "Figure 9 Surface specific photocatalytic activity of home-prepared A-700&R-700 andcommercialUV-100&P25 "
+        ],
+        "img_footnote": [],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "4.2 Mechanism of photocatalytic reaction ",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "The photocatalytic reaction process on $\\mathrm { T i O } _ { 2 }$ has been extensively investigated,but the ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "detailed mechanism is still unclear. Here, the most simple photocatalytic reaction mechanism will be described combining the literature results with our experimental observations. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Figure 10 ",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Under ultraviolet irradiation, electron-hole pairs are created on the surface of $\\mathrm { T i O } _ { 2 }$ (Eq. 1). The photo-generated holes are trapped on the surface defects with low electron density and then react with methanol to produce $\\mathrm { C O } _ { 2 }$ and protons through a series of intermediates (Eq. 2),e.g. formaldehyde and formic acid [61, 62]. Meanwhile, the photo-generated electrons are trapped on the surface $\\mathrm { T i } ^ { 4 + }$ sites and lead to the reduction of $\\mathrm { T i } ^ { 4 + }$ to $\\mathrm { T i } ^ { 3 + }$ (Eq. 3). The surface-bound $\\mathrm { T i } ^ { 3 + }$ can reduce protons to adsorbed hydrogen atoms (Eq. 4) and two adjacent hydrogen atoms combine for hydrogen evolution (Eq. 5). In our experiments, all the $\\mathrm { T i O } _ { 2 }$ samples during the photocatalytic reforming of methanol show the blue coloration (Figure 10), confirming the existence of $\\mathrm { T i } ^ { 3 + }$ during reaction [22, 63]. The visible blue coloration throughout the reaction also indicates that the reduction of protons to hydrogen by $\\mathrm { T i } ^ { 3 + }$ (Eq. 4) is the rate-determining step for the photocatalytic reforming of methanol. The blue coloration quenches upon exposure to air for ca. $3 0 \\mathrm { m i n }$ in case of rutile $\\mathrm { T i O } _ { 2 }$ and for ca. 5 min in case of anatase $\\mathrm { T i O } _ { 2 }$ ： ",
+        "page_idx": 23
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { T i } 0 _ { 2 } + \\mathrm { h v }  \\mathrm { T i } 0 _ { 2 } + \\ h ^ { + } + e ^ { - }\n$$",
+        "text_format": "latex",
+        "page_idx": 23
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ C \\mathrm { H } _ { 3 } O \\mathrm { H } + \\mathrm { H } _ { 2 } O + 6 h ^ { + } \\xrightarrow [ ] { \\mathrm { H C H O - H C O O H } } C \\boldsymbol { 0 } _ { 2 } + \\mathrm { ~ 6 ~ H } ^ { + }\n$$",
+        "text_format": "latex",
+        "page_idx": 24
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathrm { T i ^ { 4 + } ( T i { \\bf 0 } _ { 2 } ) _ { s u r f } } + e ^ { - \\mathrm {  ~  ~ } } \\mathrm { T i ^ { 3 + } ( T i { \\bf 0 } _ { 2 } ) _ { s u r f } } } \\\\ & { \\mathrm { T i ^ { 3 + } ( T i { \\bf 0 } _ { 2 } ) _ { s u r f } } + \\mathrm {  ~ H ^ { + } ~ }  \\mathrm {  ~ T i ^ { 4 + } ( T i { \\bf 0 } _ { 2 } ) _ { s u r f } H _ { a d } } } \\\\ & { \\mathrm { 2 ~ T i ^ { 4 + } ( T i { \\bf 0 } _ { 2 } ) _ { s u r f } H _ { a d } }  \\mathrm { 2 ~ T i ^ { 4 + } ( T i { \\bf 0 } _ { 2 } ) _ { s u r f } } + \\mathrm { H } _ { 2 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "While for the oxidation of $\\mathfrak { a }$ -phenethyl alcohol, $\\mathfrak { a }$ -phenethyl alcohol first adsorbs onto the surface of $\\mathrm { T i O } _ { 2 }$ and then being oxidized by the photo-generated holes through different radicals (Eq. 6) [64,65]. Meanwhile, some surface $\\mathrm { T i } ^ { 4 + }$ sites are reduced to $\\mathrm { T i } ^ { 3 + }$ by the photo-generated electrons. However, no blue coloration of $\\mathrm { T i } ^ { 3 + }$ can be observed during the photocatalytic oxidation of $\\mathfrak { a }$ -phenethyl alcohol, in great contrast to that observed during photocatalytic reforming of methanol. A reasonable explanation is that the $\\mathrm { T i } ^ { 3 + }$ sites are immediately oxidized to $\\mathrm { T i } ^ { 4 + }$ by the oxygen in the reaction system (Eq. 7). Thereupon, the reaction rate in photocatalytic alcohol oxidation should be much higher than that in photocatalytic alcohol reforming over the same catalyst, as proved by the kinetics data in Figure 7 & 8. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { T i O _ { 2 } + h v  T i O _ { 2 } + \\Delta } h ^ { + } + e ^ { - }$ Eq. 1   \n$\\mathsf { C } _ { \\mathsf { S } } \\mathtt { H } _ { 5 } \\mathtt { C } \\mathtt { H } ( \\mathtt { O } \\mathtt { H } ) \\mathtt { C } \\mathtt { H } _ { 3 } + 2 \\mathtt { \\Pi } \\mathtt { h } ^ { + } \\xrightarrow { \\mathtt { r a d i c a l s } } \\mathsf { C } _ { 5 } \\mathtt { H } _ { 5 } \\mathtt { C } \\mathtt { O } \\mathtt { C } \\mathtt { H } _ { 3 } + 2 \\mathtt { \\Pi } \\mathtt { H } ^ { + }$ Eq. 6 （204号 $\\mathrm { T i ^ { 4 + } ( T i 0 _ { 2 } ) _ { s u r f } } + e ^ { - }  \\mathrm { T i ^ { 3 + } ( T i 0 _ { 2 } ) _ { s u r f } }$ Eq.3   \n$2 \\mathrm { T i } ^ { 3 + } ( \\mathrm { T i } 0 _ { 2 } ) _ { \\mathrm { s u r f } } + 0 _ { 2 } + 4 \\mathrm { H } ^ { + }  2 \\mathrm { T i } ^ { 4 + } ( \\mathrm { T i } 0 _ { 2 } ) _ { \\mathrm { s u r f } } + 2 \\mathrm { H } _ { 2 } 0$ Eq. 7 ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "4.2 Effect of surface/bulk defects density ratio on photocatalytic activity ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "As discussed above, many factors, e.g. crystalline phase, exposed crystalline facets and surface/bulk defects, may influence the photocatalytic activity of $\\mathrm { T i O } _ { 2 }$ . Among these factors, surface/bulk defects have to be considered for most cases except for perfect single crystals. ",
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1f8e5798955d0e0877133f22c8bdd8d1fc2df086b906b2427e541dd77fcadf1.jpg",
+        "img_caption": [
+            "Figure 11 "
+        ],
+        "img_footnote": [],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/ee4ea6635ec4b614027fb547e0fcc84d13c29f2cacfcde080669b62799406968.jpg",
+        "img_caption": [
+            "Figure 12 Correlation between the photocatalytic activities and surface/bulk defect "
+        ],
+        "img_footnote": [],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "density ratios Rof $\\mathrm { T i O } _ { 2 }$ samples calcined at different temperatures ",
+        "text_level": 1,
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "This work is financially supported by the National Basic Research Program of China (2009CB623502) and 111 Project (B12015). The support from the Ministry of Education of China (NCET-11-0251) is also acknowledged. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Reference: ",
+        "text_level": 1,
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "[1] A. Fujishima, K. Honda, Electrochemical photolysis of water at a semiconductor electrode. Nature 238 (1972) 37-38   \n[2] A.L. Linsebigler，G. Lu， J.T. Yates，Photocatalysis on $\\mathrm { T i O } _ { 2 }$ surfaces: Principles, mechanisms, and selected results. Chem. Rev. 95 (1995) 735-758   \n[3] M.I. Liter, Heterogeneous photocatalysis- Transition metal ions in photocatalytic systems. Appl. Catal. B 23 (1999) 89-114   \n[4] D.Raveli, D Dondi, M. Fagnonia, A. Albini, Photocatalysis. A multi-faceted concept for green chemistry. Chem. Soc.Rev.38 (2009) 1999-2011   \n[5] M.D.Hernandez-Alonso，F. Fresno，S. Suarez， J.M. Coronado，Development of alternative photocatalysts to $\\mathrm { T i O } _ { 2 }$ : Challenges and opportunities. Enery Environ. Sci. 2 (2009) 1231-1257   \n[6] M.N. Chong,B. Jin, C.W.K. Chow, C. Saint, Recent developments in photocatalytic water treatment technology: A review. Water Res. 44 (2010) 2997-3027   \n[7] M.A. Henderson, A surface science perspective on $\\mathrm { T i O } _ { 2 }$ photocatalysis. Surf. Sci. Rep. 66 (2011) 185-297   \n[8] H. Tong，S. Ouyang，Y. Bi，N. Umezawa ，M. Oshikiri ，J. Ye,Nano-photocatalytic materials: Possibilities and challenges. Adv. Mater. 24 (2012) 229-251 [9] O. Carp, C.L. Huisman， A. Reller, Photoinduced reactivity of titanium dioxide, Prog. Solid State Chem. 32 (2004) 33-177   \n[10] A. Fujishima, X. Zhang, D.A. Tryk, $\\mathrm { T i O } _ { 2 }$ photocatalysis and related surface phenomena. Surf. Sci. Rep. 63 (2008) 515-582   \n[11] S.G. Kumar, L.G. Devi, Review on modified $\\mathrm { T i O } _ { 2 }$ photocatalysis under UV/visible light: Selected results and related mechanisms on interfacial charge carrier transfer dynamics. J. Phys. Chem.A 115 (2011) 13211-13241   \n[12] K.E. Karakitsou, X.E. Verykios, Effects of altervalent cation doping of titania on its performance as a photocatalyst for water cleavage. J. Phys. Chem. 97 (1993) 1184-1189 [13] T. Ohno, K. Sarukawa, M. Matsumura, Photocatalytic activities of pure rutile particles isolated from $\\mathrm { T i O } _ { 2 }$ powder by dissolving the anatase component in HF solution. J. Phys. Chem. B 105 (2001) 2417-2420   \n[14] N. Masahashi, Y. Mizukoshi, S. Semboshi, N. Ohtsu, Enhanced photocatalytic activity of rutile $\\mathrm { T i O } _ { 2 }$ prepared by anodic oxidation in a high concentration sulfuric acid electrolyte. Appl. Catal. B 90 (2009) 255-261   \n[15] S. Yurdakal, G. Palmisano, V. Loddo, V. Augugliaro, L. Palmisano, Nanostructured rutile $\\mathrm { T i O } _ { 2 }$ for selective photocatalytic oxidation of aromatic alcohols to aldehydes in water. J. Am. Chem. Soc.130 (2008) 1568-1569   \n[16] S. Yurdakal, G. Palmisano, V. Loddo, O. Alagoz, V. Augugliaro, L. Palmisano, Selective photocatalytic oxidation of 4-substituted aromatic alcohols in water with rutile $\\mathrm { T i O } _ { 2 }$ prepared at room temperature. Green Chem. 11 (2009) 510-516   \n[17] J. Zhang, Q. Xu, Z. Feng, M. Li, C. Li, Importance of the relationship between surface phases and photocatalytic activity of $\\mathrm { T i O } _ { 2 }$ . Angew. Chem. Int. Ed. 47 (2008) 1766-1769 [18] S. Liu, J. Yu, M. Jaroniec,Anatase $\\mathrm { T i O } _ { 2 }$ with dominant high-energy {001} facets: Synthesis, properties,and applications. Chem. Mater. 23 (2011) 4085-4093   \n[19] H.G. Yang, C.H. Sun, S.Z. Qiao, J. Zou, G. Liu, S.C. Smith, H.M. Cheng, G.Q. Lu, Anatase $\\mathrm { T i O } _ { 2 }$ single crystals with a large percentage of reactive facets. Nature 453 (2008) 638-642   \n[20] T. Tachikawa， S. Yamashita, T. Majima, Evidence for crystal-face-dependent $\\mathrm { T i O } _ { 2 }$ （204号 photocatalysis from single-molecule imaging and kinetic analysis. J. Am. Chem. Soc. 133 28 (2011) 7197-7204   \n[21] J. Pan, G. Liu, G.Q. Lu, H.M. Cheng, On the true photoreactivity order of $\\{ 0 0 1 \\} , \\{ 0 1 0 \\}$ ， and {101} facets of anatase $\\mathrm { T i O } _ { 2 }$ crystals. Angew. Chem. Int. Ed. 50 (2011) 2133-2137 [22] T.R. Gordon, M. Cargnell,T. Paik,F. Mangolini, R.T. Weber, P. Fornasiero, C.B. Murray, Nonaqueous synthesis of $\\mathrm { T i O } _ { 2 }$ nanocrystals using $\\mathrm { T i F } _ { 4 }$ to engineer morphology, oxygen vacancy concentration, and photocatalytic activity. J. Am. Chem. Soc. 134 (2012) 6751-6761   \n[23]   \n[24]   \n[25]   \n[26] E. Lira, S. Wendt, P. Huo, J. Hansen, R. Streber, S. Porsgaard, Y. Wei, R. Bechstein, E. Lagsgaard, F. Besenbacher, The importance of bulk $\\mathrm { T i } ^ { 3 + }$ defects in the oxygen chemistry on titania surfaces. J.Am. Chem. Soc.133 (2011) 6529-6532   \n[27] J. Lee, D.C. Sorescu, X. Deng, Electron-induced dissociation of $\\mathrm { C O } _ { 2 }$ on $\\mathrm { T i O } _ { 2 }$ (110). J. Am. Chem. Soc.133 (2011) 10066-10069   \n[28] A. Naldoni, M. Alieta, S. Santangelo, M. Marelli, F. Fabbri, S. Cappelli, C.L. Bianchi, R. Psaro,V. D. Santo, Effect of nature and location of defects on bandgap narrowing in black $\\mathrm { T i O } _ { 2 }$ nanoparticles. J. Am. Chem. Soc.134 (2012) 7600-7603   \n[29] X. Jiang, Y. Zhang, J. Jiang, Y. Rong, Y. Wang, Y. Wu, C. Pan, Characterization of oxygen vacancy associates within hydrogenated $\\mathrm { T i O } _ { 2 }$ : A positron annihilation study. J. Phys. Chem. C 116 (2012) 22619-22624   \n[30] M. Kong,Y. Li, X. Chen, T. Tian,P. Fang,F. Zheng,X. Zhao, Tuning the relative concentration ratio of bulk defects to surface defects in $\\mathrm { T i O } _ { 2 }$ nanocrystals leads to high photocatalytic efficiency. J. Am. Chem. Soc.133 (2012) 16414-16417   \n[31] H. Cheng, J. Ma, Z. Zhao, L. Qi, Hydrothermal preparation of uniform nanosize rutile and anatase particles. Chem. Mater. 7 (1995) 663-671   \n[32] S. Wang， Z. Chen， B. Wang，Applied Positron Spectroscopy. Hubei Science and Technology Press: 2008.   \n[33] D.A. H. Hanaor, C.C. Sorrell Review of the anatase to rutile phase transformation J. Mater. Sci. 46 (2011) 855-874 [34] Y. Nakaoka, Y. Nosaka, ESR investigation into the effects of heat treatment and crystal structure on radicals produced over irradiated $\\mathrm { T i O } _ { 2 }$ powder. J.Photochem. Photobio.A110 (1997) 299-305   \n[35] J. Ye,W. Liu, J. Cai, S. Chen, X. Zhao,H. Zhou, L. Qi，Nanoporous anatase $\\mathrm { T i O } _ { 2 }$ mesocrystals: Additive-free synthesis,remarkable crystalline-phase stability, and improved lithium insertion behavior. J.Am. Chem. Soc.133 (2011) 933-940   \n[36] T. Ohsaka, F. Izumi, Y. Fujiki, Raman spectrum of anatase $\\mathrm { T i O } _ { 2 }$ . J. Raman Spectr. 7 (1978) 321-324   \n[37] H.L. Ma, J.Y. Yang,Y. Dai, Y.B. Zhang,B.Lu,GH. Ma, Raman study of phase transformation of $\\mathrm { T i O } _ { 2 }$ rutile single crystal irradiated by infrared femtosecond laser. Appl. Surf. Sci. 253 (2007) 7497-7500   \n[38] M. Lazzeri, A. Vittadini, A. Selloni, Structure and energetics of stoichiometric $\\mathrm { T i O } _ { 2 }$ anatase surfaces. Phys. Rev. B 63 (2001) 155409-155418   \n[39] V.E. Henrich, A.F. Cox, The Surface Science of Metal Oxides, Cambridge University Press, Cambridge, 1993.   \n[40] A. Kudo,Y. Miseki, Heterogeneous photocatalyst materials for water spliting. Chem. Soc. Rev. 38 (2009) 253-278   \n[41] J.G. Yu, H.G. Yu, B. Cheng, X.J. Zhao, J.C. Yu, W.K. Ho, The effect of calcination temperature on the surface microstructure and photocatalytic activity of $\\mathrm { T i O } _ { 2 }$ thin films prepared by liquid phase deposition. J. Phys. Chem. B 107 (2003) 13871-13879   \n[42] L. Jing, Y. Qu, B. Wang, S. Li, B. Jiang, L. Yang, W. Fu, H. Fu, J. Sun, Review of photoluminescence performance of nano-sized semiconductor materials and its relationships with photocatalytic activity. Sol. Energy Mater. Sol. Cels 90 (2006) 1773-1787   \n[43] N. Serpone, D. Lawless, R. Khairutdinovt, Size effects on the photophysical properties of colloidal anatase $\\mathrm { T i O } _ { 2 }$ particles: Size quantization or direct transitions in this indirect semiconductor? J. Phys. Chem. 99 (1995) 16646-16654   \n[44] Y. Cong, J. Zhang, F. Chen, M. Anpo, Synthesis and characterization of nitrogen-doped （204号 $\\mathrm { T i O } _ { 2 }$ nanophotocatalyst with high visible light activity. J.Phys. Chem.C 111 (2007) 6976-6982   \n[45] X. Chen, X. Wang, Y. Hou, J. Huang, L. Wu, X. Fu, The effect of postnitridation annealing on the surface property and photocatalytic performance of N-doped $\\mathrm { T i O } _ { 2 }$ under visible light irradiation. J. Catal. 255 (2008) 59-67   \n[46] D. Zhang, J.A. Downing, F.J. Knorr, J.L. McHale, Room-temperature preparation of nanocrystalline $\\mathrm { T i O } _ { 2 }$ films and the influence of surface properties on dye-sensitized solar energy conversion. J. Phys. Chem. 110 (2006) 21890-21898   \n[47] C.D. Wagner, W.M. Riggs,L.E. Davis, J.F. Moulder, G.E.Muilenberg, Handbook of X-ray photoelectron spectroscopy: a reference book of standard data for use in x-ray photoelectron spectroscopy. Perkin-Elmer MN: Eden-Prairie; 1979.   \n[48] G. Pirug, C. Ritke, H.P. Bonzel, Adsorption of $_ \\mathrm { H _ { 2 } O }$ on $\\mathrm { R u } ( 0 0 1 )$ : I. Bilayer and clusters Surf. Sci. 241 (1991) 289-301   \n[49] W. Feng,G. Wu, L. Li, N. Guan， Solvent-free selective photocatalytic oxidation of benzyl alcohol over modified $\\mathrm { T i O } _ { 2 }$ . Green Chem. 11 (2011) 3265-3272   \n[50] A. Iwabuchi, C. Choo,K. Tanaka, Titania nanoparticles prepared with pulsed laser ablation ofrutile single crystals in water. J. Phys. Chem. B 108 (2004) 10863-10871   \n[51] R.Wang, N. Sakai, A. Fujishima, T. Watanabe, K. Hashimoto， Studies of surfacewettability conversion on $\\mathrm { T i O } _ { 2 }$ single-crystal surfaces. J. Phys. Chem. B 103 (1999) 2188-2194   \n[52] J.T. Carneiro，TJ. Savenije， JA. Moulijn， G. Mul， Toward a physically sound structure-activity relationship of $\\mathrm { T i O } _ { 2 }$ -based photocatalysts. J. Phys. Chem. C 114 (2010) 327-332   \n[53] R. Krause-Rehberg, H.S. Leipner, Positron Annihilation in Semiconductors. Springer, Berlin, 1999.   \n[54] S. Dutta, M. Chakrabarti, S. Chattopadhyay， D. Jana, D. Sanyal, A. Sarkar, Defect dynamics in annealed ZnO by positron annihilation spectroscopy. J. Appl. Phys. 95 (2005) 053513   \n[55] Y. Zhang, X. Ma, P. Chen, D. Li,； X. Pi, D. Yang, P.G. Coleman, Enhancement of electroluminescence from $\\mathrm { T i O } _ { 2 } / \\mathfrak { p } ^ { + }$ -Si heterostructure-based devices through engineering of oxygen vacancies in $\\mathrm { T i O } _ { 2 }$ .Appl. Phys.Lett.95 (2009) 252102-252104   \n[56] R.M. de la Cruz，R. Pareja， R. Gonzalez，L.A. Boatner， Y. Chen， Effect of thermochemical reduction on the electrical, optical-absorption， and positron-annihilation characteristics of $Z _ { \\mathrm { { n O } } }$ crystals. Phys. Rev. B 45 (1992) 6581-6586   \n[57]D.Sanyal，D. Banerjee，U.De，Probing (Bio.92Pbo.17)2Sr1.91Ca2.03Cu3.06O10+8 superconductors from 30 to $3 0 0 \\mathrm { K }$ by positron-lifetime measurements. Phys. Rev. B 58 (1998) 15226-15230   \n[58] H. Murakami, N. Onizuka, J. Sasaki, N. Thonghai, Ultra-fine particles of amorphous （204号 $\\mathrm { T i O } _ { 2 }$ studied by means of positron annihilation spectroscopy. J. Mater. Sci. 33 (1998) 5811-5814   \n[59] S. Dutta, S. Chattopadhyay， D. Jana，A. Banerjee，S. Manik， S.K. Pradhan， M. Chakrabarti, M. Sutradhar, A. Sarkar, Annealing effect on nano-ZnO powder studied from positron lifetime and optical absorption spectroscopy. Appl. Phys. Lett. 10o (2006) 114328-114333   \n[60] W. Sun, Y. Li, W. Shi, X. Zhao, P. Fang, Formation of $\\mathrm { A g I } / \\mathrm { T i O } _ { 2 }$ nanocomposite leads to excellent thermochromic reversibility and photostability. J. Mater. Chem. 21 (2011) 9263-9270   \n[61] T.Kawai, T. Sakata, Photocatalytic hydrogen production from liquid methanol and water. J. Chem. Soc. Chem. Commun. (1980) 694-695   \n[62] T. Chen， Z. Feng,G. Wu, J. Shi, G. Ma, P. Ying, C. Li, Mechanistic studies of photocatalytic reaction of methanol for hydrogen production on $\\mathrm { P t } / \\mathrm { T i O } _ { 2 }$ by in situ Fourier transform IR and time-resolved IR spectroscopy. J. Phys. Chem. C 111 (2007) 8005-8014 [63] T. Torimoto, R.J. Fox II, M.A. Fox, Photoelectrochemical doping of $\\mathrm { T i O } _ { 2 }$ particles and the effect of charge carrier density on the photocatalyticActivity of microporous semiconductor electrode films. J. Electrochem. Soc. 143 (1996) 3712-3717   \n[64] M. Zhang, Q. Wang, C. Chen, L. Zang, W. Ma, J. Zhao, Oxygen atom transfer in the photocatalytic oxidation of alcohols by $\\mathrm { T i O } _ { 2 }$ : Oxygen isotope studies. Angew. Chem. Int. Ed. 48 (2009) 6081-6084 ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "[65] G. Palmisano,E Garcia-Lopez, G. Marci, V. Loddo, S. Yurdakal, V. Augugliaro，L. Palmisano，Advances in selective conversions by heterogeneous photocatalysis. Chem. Commun. 46 (2010) 7074-7089 ",
+        "page_idx": 32
+    }
+]

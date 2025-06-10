@@ -1,0 +1,271 @@
+# 主流Meta分析软件功能及其在领域知识发现的拓展应用研究
+
+刘红煦1,2曲建升1  
+1(中国科学院兰州文献情报中心 兰州 730000)  
+2(中国科学院大学北京 100049)
+
+摘要：【目的】研判Meta分析的未来发展趋势，为基于Meta分析的领域知识发现提供借鉴。【方法】梳理对比国际常用的Meta分析软件的特点及其计算、绘图等功能的差异，并以资源环境学科领域为例，提出适合具体领域知识发现的 Meta 分析工具应具有的基本特点。【结果】通过对具体领域分析，开发一套操作界面规范、运算步骤简单、分析结果准确、面向对象大众的文献综合集成工具的基本构想。【局限】并未通过构建平台系统地实施，充分验证设想的可行性;Meta 分析固有的一些弱点如"苹果”“橘子"问题，无法在基于Meta分析的领域知识发现中有效解决。【结论】需基于Meta分析构建领域知识发现的平台，以指导领域文献知识发现的拓展应用。
+
+关键词:Meta 分析知识发现软件对比资源环境分类号：G250
+
+# 1引言
+
+作为一种定性、定量相结合的文献综合集成方法，Meta分析的基本思想产生于20世纪30年代,Meta分析普遍的定义是Fleiss 等提出的[1]，即 Meta 分析是一类用于比较和综合针对同一领域问题所取得的研究结论的统计方法，比较和综合的结论是否有意义取决于这些研究是否满足特定的条件。Meta分析在领域知识发现中起到了重要作用，但现有图书情报领域的Meta分析研究主要是手工实现操作流程，极少借助软件实现，缺少对图书情报大环境下领域知识发现的宏观流程把握，没有形成流程化的数据处理方式及平台设计。笔者拟针对这一点，对现有图书情报领域可以借鉴的Meta分析软件和工具进行对比分析，同时提出开发一款用于领域知识发现的Meta分析工具，这对于促进图书情报学科知识服务具有一定的必要性及可行性。
+
+目前国内外关于领域知识发现这一问题的研究,主要针对特定学科领域进行具体的知识挖掘，解释某一具体领域实现方式，缺少对图书情报大环境下知识服务的宏观流程把握，没有将传统的Meta分析软件应用于领域知识发现，更未开发适用于特定领域的Meta分析平台。Benites 等[2通过本体间与本体内成对的关联规则挖掘，发现生物学不同本体间或者单本体部分内容中的关系，为用户提供生物学新知识。Moreno 等[3]针对阿尔茨海默病构建特定的生物医学本体，通过建模促进疾病机理研究。Tseng等4基于基因芯片数据和基因本体论的概念层次，提出一种新的数据挖掘方法，以探索多层次的基因关联规则，从而发现隐藏的多层基因的关联规则。基于现有研究成果，笔者对目前主流的面向领域知识发现的Meta分析软件进行对比研究，并据此提出开发适用于特定领域知识发现的Meta分析软件的设想。
+
+# 2主流Meta分析软件基本特征对比
+
+随着Meta分析方法不断普及，Meta分析软件也日趋多样。曾宪涛等[5比较11款网状Meta 分析软件的特征及功能，对软件的基本特征、功能和计算结果进行了比较，发现无一款软件同时具备较佳计算能力与绘图功能。考虑到Meta分析在资源环境学科的拓展应用，将Meta分析分为5类，对比各软件在实现不同类型Meta分析中的基本特征，如表1所示：
+
+表1Meta分析常用软件基本特征  
+
+<html><body><table><tr><td colspan="2">基本属性</td><td>Meta分析类型</td><td>软件名称</td></tr><tr><td rowspan="6">编程软件</td><td rowspan="3">免费</td><td>几乎所有的Meta分析</td><td>R BUGS</td></tr><tr><td></td><td>JAGS</td></tr><tr><td></td><td>Stan Meta-Stat</td></tr><tr><td rowspan="3">收费</td><td>二分类数据、连续型数据的Meta 分析</td><td>EasyMA Stata</td></tr><tr><td>几乎所有的Meta分析</td><td>Excel</td></tr><tr><td></td><td>SAS MATLAB</td></tr><tr><td rowspan="9">非编程软件</td><td rowspan="6">免费</td><td></td><td>SPSS</td></tr><tr><td>间接比较的Meta分析</td><td>ITC</td></tr><tr><td>二分类数据、诊断性研究、连续型数据的Meta分析</td><td>Meta-Analyst</td></tr><tr><td>二分类数据、诊断性研究、单组率的Meta分析 二分类数据、连续型数据的随机对照试验直接比较证据的Meta分析</td><td>Meta-DiSc</td></tr><tr><td></td><td>TSA</td></tr><tr><td>二分类及连续型数据、间接比较及网状Meta分析</td><td>GeMTC ADDIS</td></tr><tr><td>除间接比较及网状Meta分析之外的Meta分析</td><td>RevMan</td></tr><tr><td rowspan="2">收费</td><td>主要用于生态学的定量Meta分析</td><td>MIX Meta-Win</td></tr><tr><td>除间接比较及网状Meta分析之外的Meta分析</td><td>CMA StatsDirect</td></tr></table></body></html>
+
+(1）单个率的Meta分析。在医学上常用于患病率、检出率、知晓率及病死率的探析。该类数据的特点是仅有单组事件发生数和观察总数，而无对照组。目前，在Stata 软件[]、R软件[7]以及RevMan 软件[8]中国内已有文献介绍。
+
+(2）单纯P值的Meta分析。当所纳入的研究仅给出了P值，按照Cochrane系统评价员手册[的计算方法无法计算出所需数据，当实践需要合并时，可以考虑仅对P值进行合并。
+
+(3）累积Meta分析。累积Meta分析是指将研究资料作为一个连续的统一体，按照研究开展的时间顺序，及时将新出现的研究纳入原有数据[10]
+
+(4）网状 Meta 分析(Network Meta-analysis,NMA)。近些年其方法学与制作软件均迅速发展[11-13]，与传统
+
+Meta分析相比,NMA因纳入干预措施多、数据量大、内在结构复杂，因此对软件的依赖更为突出[14]。尽管目前有多款软件可实现NMA分析，但尚无能独立且全面实现 NMA 计算及图形绘制的软件[15]，必须多种软件相互配合。
+
+(5)Meta回归分析。Meta回归分析用以评价研究间异质性的大小及来源，主要通过多因素的效应量联合，且当Meta分析纳入的研究数量在10以上时进行[10]。
+
+通过检索CNKI、WebofScience等网站，对已发表的Meta分析文献中使用的软件等方法学进行分析，最终纳入22款软件，其基本特征详见表1，笔者重点分析其中常用的11款，如表2所示。22款软件中Meta分析程序的通用软件包括 Stata、R、SAS、Excel、SPSS、BUGS(包括WinBUGS 及 OpenBUGS)、MATLAB[16]。
+
+表211款常用的Meta分析软件比较  
+
+<html><body><table><tr><td colspan="2">软件名称</td><td> Stata</td><td>R</td><td>Excel</td><td>SAS</td><td>MATLAB</td><td>RevMan</td><td>MIX</td><td>CMA</td><td> Meta-Win</td><td>MA</td><td>MD</td></tr><tr><td rowspan="4">软件分级</td><td>基础级</td><td></td><td></td><td></td><td></td><td></td><td>√</td><td></td><td>√</td><td></td><td>√</td><td></td></tr><tr><td>提高级</td><td></td><td></td><td></td><td></td><td>√</td><td></td><td>√</td><td></td><td>√</td><td></td><td>√</td></tr><tr><td>专业级</td><td>√</td><td>√</td><td>√</td><td>√</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>可导人数据</td><td>√</td><td>√</td><td>√</td><td>×</td><td>√</td><td>×</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td></tr><tr><td rowspan="2">数据格式</td><td>多种数据格式</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>×</td><td>√</td><td>√</td><td>×</td><td>×</td></tr><tr><td>二分类变量</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>×</td></tr><tr><td rowspan="2">变量类型</td><td>连续性变量</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>×</td></tr><tr><td>率的分析</td><td>√</td><td>√</td><td>√</td><td>×</td><td>√</td><td>√</td><td>√</td><td>√</td><td>×</td><td>√</td><td>√</td></tr><tr><td rowspan="4">分析类型</td><td>单纯P值分析</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>×</td><td>×</td><td>√</td><td>√</td><td>×</td><td>×</td></tr><tr><td>累积 Meta 分析</td><td>√</td><td>√</td><td>√</td><td>√</td><td>×</td><td>×</td><td>√</td><td>√</td><td>√</td><td>√</td><td>×</td></tr><tr><td>网状 Meta 分析</td><td>√</td><td>√</td><td>√</td><td>√</td><td>×</td><td>×</td><td>×</td><td>×</td><td>×</td><td>×</td><td>×</td></tr><tr><td>Meta 回归分析</td><td>√</td><td>√</td><td>√</td><td>√</td><td>×</td><td>×</td><td>×</td><td>√</td><td>√</td><td>√</td><td>√</td></tr><tr><td rowspan="3">异质性 检验</td><td>P</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>×</td><td>×</td><td>×</td><td>×</td><td>×</td><td>×</td></tr><tr><td>Q</td><td>×</td><td>×</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td></tr><tr><td></td><td>×</td><td>×</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>×</td><td>√</td><td>√</td></tr><tr><td rowspan="2">发表 偏倚检验</td><td>Begg's检验</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>×</td><td>×</td><td>×</td><td>√</td><td>×</td><td>×</td></tr><tr><td>Egger's检验</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>×</td><td>×</td><td>√</td><td>×</td><td>×</td><td>×</td></tr><tr><td rowspan="3">Meta分析 模型</td><td>固定效应模型</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td></tr><tr><td>随机效应模型</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td></tr><tr><td>混合效应模型</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>×</td><td>×</td><td>√</td><td>×</td><td>√</td><td>√</td></tr><tr><td rowspan="4">绘图功能</td><td>森林图</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td></tr><tr><td>漏斗图</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>×</td></tr><tr><td>拉贝图</td><td>√</td><td>√</td><td>√</td><td>√</td><td>×</td><td>×</td><td>√</td><td>×</td><td>×</td><td>×</td><td>×</td></tr><tr><td>星状图</td><td>√</td><td>√</td><td>√</td><td>√</td><td>×</td><td>√</td><td>×</td><td>×</td><td>√</td><td>√</td><td>×</td></tr></table></body></html>
+
+(注：V表示具备该功能; $\times$ 表示不具备该功能，说明该软件目前尚未研发此功能，或目前没有人对此功能进行探索。)
+
+各个软件都有自己独特的风格，也存在一些不足，如除了通用软件Excel外其他软件均没有中文版;RevMan易用性强，可以实现统计计算和系统评价的整合，但界面复杂且灵活性欠佳。Stata软件功能强大，可实现多种类型的Meta分析，但是操作复杂，需要调用相应的命令并进行程序编写[17]；SAS、SPSS 系统庞大、结构复杂，没有固定的模块，非统计专业人员难以运用自如，且正版软件价格不菲，难以获得[18]；SAS、SPSS、MATLAB在Meta分析方面均没有Stata和R友好，且学习的难度较大，故应用的群体较少。因此,笔者将对现有的Meta分析软件进行对比总结，拟开发出一套适用于多学科、可实现多种功能的Meta分析软件。
+
+# 2.1 编程软件
+
+按是否需要编程，Meta分析软件又可分为编程软件与非编程软件，编程软件有 Stata、R、Excel、SAS、MATLAB、Meta-Stat、BUGS、JAGS、Stan、EasyMA、SPSS，其余为非编程软件。
+
+Stata同时具有数据管理、统计分析、绘图、矩阵计算和程序语言的特点[19]，操作系统还有Linux 和Mac[20]。Stata 在 Meta 分析中的运用已经被逐渐开发出来，可以实现多种分析功能[21]。R 软件通过相应的程序包完成Meta分析，其中，Metafor程序包是R软件Meta分析程序包中唯一可以进行混合效应模型拟合运算的[22]。Excel具有较强的数据库编辑和统计分析能力以及便捷的绘图功能[23]，在 Excel 软件中实现 Meta分析逐步受到重视，国外学者已进行了一些探索[24]。国内王峰娟[25]利用Excel软件的统计函数编写了Excel的计算程序，发现Excel软件在进行Meta分析时具备准确性、简便性、稳定性及可拓展性的特点。
+
+SAS(Statistical Analysis System)软件具有完备的数据访问、数据管理、数据分析和数据呈现功能[26]，使用不同的编码可灵活处理各种数据[27]。利用SAS软件的宏可以减少输入的文本量，使程序模块化[28]。Hedges等[29-30]利用 SAS 软件开发了一套用于 Meta 分析统计效能计算的程序，Cafri 等[31]于2009 年共同开发了MetaPower宏，专门用于实现Meta分析统计效能计算。MATLAB软件广泛应用于数学、医学统计、数字模拟等领域，胡小刚等[32]基于 MATLAB 软件编写了单一率的Meta分析的实现程序，非专业人员只需替换数据即可方便实现。肖静等[33]通过实例分析验证利用MATLAB程序实现单一率Meta分析结果的可行性和有效性，并完成异质性和发表偏倚的检验。黄清水等[34基于MATLAB软件，依据对诊断试验进行系统评价SROC曲线法数理统计推导。
+
+# 2.2 非编程软件
+
+RevMan(ReviewManager)软件在系统评价中已广泛使用。RevMan是所有Meta分析软件中唯一可与GRADEprofiler软件相互导入进行证据等级评级的软件[8]。CMA(Comprehensive Meta-Analysis)软件是 Meta分析的专业软件。其结果中录入的数据和计算结果不同的颜色，可以生成高清晰的图片，可以调节颜色、布局、字体，并能转成 Word 或者 PPT 格式[35]Meta-Analyst(MA)除可进行二分类及连续性变量、诊断试验的Meta分析外，还可进行单组率Meta分析、累积 Meta 分析及剔除单个研究行敏感性分析等[36]。MetaWin是一个主要为生态学工作者设计的定量Meta分析软件,Gurevitch出版了第一部生态学中的Meta分析专著，并与人合作于1997年发行了MetaWin软件包，然而MetaWin只可进行定量Meta分析[37]。Meta-DiSc(MD)是一款诊断试验 Meta 分析专用软件[38]，可用于多个诊断或筛检试验评价的Meta分析，采用多种计算方法进行 Meta 分析[39]，目前已被多种高级别杂志的论文应用或引用[40-42]
+
+# 3面向知识发现的Meta分析软件功能对比
+
+笔者对11款常用软件从计算功能和绘图功能等基本功能进行优劣势比较，为进一步将Meta分析软件应用于知识发现，故基于基本功能，进一步对11款主流Meta分析软件在知识发现中的应用功能进行比较，以促使定量化工具在知识发现领域的应用。
+
+# 3.1 基本功能对比
+
+对11款常用软件从计算功能和绘图功能上分别进行优劣势对比，具体如表3所示。
+
+# (1）计算功能
+
+计算能力是统计软件最基本要素之一。随着Meta方法学不断创新，基于软件自身及对最新方法学的植入差别等，使得目前可供使用的软件各具特色。笔者针对Meta分析不同特点进行对比分析，如固定效应模型和随机效应模型[43]；对于率的 Meta 分析,Stata、R、RevMan等都可以。Stata常用于做累积Meta分析，R由于具有丰富的程序包往往用来做网状Meta分析。此外，不同软件各具优缺点，RevMan易用性强，可以实现统计和系统评价书写的整合，但它仅通过漏斗图直观地判断有无发表偏倚，不能定量分析存在发表偏倚的大小[19];R功能较全面，除可实现率的 Meta 分析外,还可进行Meta回归等，但需进行编程;Stata软件虽为目前Meta分析最受推崇的软件之一，但无单一率Meta分析的固定模块。R、Stata及SAS在拥有自身独立运行能力的同时，不仅可以灵活调用外界软件，还能方便地被外界软件所调用。鉴于使用途径迥异，这些软件在Meta惯用的方法学上也有所差异，如在网状Meta分析时Stata自身运算使用metareg与mvmeta模块[44]，调用外界软件常用 WinBUGS，被外部软件调用则可通过R软件或SAS软件实现。
+
+# (2）绘图功能
+
+软件是否拥有绘制优质图形的能力也成为衡量软件质量、功能和可操作性的指标之一。Meta分析常需绘制以下4种图形：森林图、漏斗图、拉贝图及星状图。这4种图形所承载的信息不同，其在Meta分析中的功能作用亦不同。Stata、R、Excel及SAS软件能够绘制全部4种图形，做图相对较为美观，但需要编程辅助调整，实现过程相对复杂。CMA、Meta-Win、Meta-Analyst、Meta-DiSc等专门用于Meta分析，在绘图功能中各有侧重，且操作灵活、简单。
+
+# 3.2知识发现中的应用比较
+
+知识发现从一开始就是面向应用的，这一特点凸显了知识发现软件(知识发现理论技术和应用之间的桥梁)和工具的重要性。随着知识发现与数据挖掘理论和技术的不断创新发展，知识发现软件和工具不断地涌现和完善，用户需求也在不断地增加。每种知识发现任务，都有众多的实现技术和方法，主要包括归纳学习方法、统计分析方法、机器学习方法、模糊论方法、数据库技术、可视化技术等[45]。在一个具体的知识发现任务中，数据对象的特征决定挖掘算法的选择，进而决定知识发现的效果，因此需要评估具体实现算法的适应性。
+
+表3Meta分析常用的软件功能对比  
+
+<html><body><table><tr><td rowspan="2">软件名称</td><td colspan="2">计算功能</td><td colspan="2">绘图功能</td></tr><tr><td>优势</td><td>劣势</td><td>优势</td><td>劣势</td></tr><tr><td>Stata</td><td>自由度大、功能全面且丰富、实现无单一率 Meta 分析的固定做图类型全面、所做图形 图形不够美观，图形调整 了易用和功能的协调 功能全面且丰富，对于网状Meta分</td><td>模块且不易上手</td><td>简单明了</td><td>需通过编程，不够灵活</td></tr><tr><td>R</td><td>析，方法最多、表现最灵活且功能 最完善</td><td>程序编写复杂且难度较大， 对使用者的要求较高</td><td>做图较为精美且全面</td><td>绘图与分析相互独立，需 自己定义生成图的类型</td></tr><tr><td>Excel</td><td>自由度极高、功能全面且丰富</td><td>统计分析编程过程复杂、尚做图类型全面、精美且调 未实现定量评价发表偏倚整便捷</td><td></td><td>图形所需数据预处理大 多手工完成，公式编辑 不直观</td></tr><tr><td>SAS</td><td>自由度极高、功能全面且丰富，程 序易读、便于修改、移植、方便重 复使用，多用于网状Meta分析 自由度极高、结果的计算精度可自</td><td>对使用者的要求较高</td><td>程序编写复杂且难度较大，作图灵活、所做图形十分 美观</td><td>图形背后的模板语言庞 大且不易用，难以掌握 高级功能</td></tr><tr><td>MATLAB</td><td>由控制，多用于单一率的 Meta 分 析、计算精度可以通过程序自由控 制、与其他语言的兼容性甚佳、多 用于单一率的 Meta 分析</td><td>程序编写复杂且难度较大， 对使用者的要求较高</td><td>有强大的做图功能，所做 图形比同类软件更为美 观</td><td>图形调整需通过编程, 不够灵活</td></tr><tr><td>RevMan</td><td>易用性强、较为普遍、容易上手</td><td>不能定量分析发表偏倚的 分析、累积Meta 分析、诊处理 断性分析等</td><td>大小，不能进行Meta回归导出图片无须过多修饰图，森林图显示存在一</td><td>功能单一、不可以做拉贝 定的问题、界面与操作复 杂，容易出错</td></tr><tr><td>MIX</td><td>主要是嵌入Excel实现Meta分析, 操作简单</td><td>缺乏灵活性、无法进行大量 数据分析及双变量分析等做图种类丰富 高级分析</td><td></td><td>图形不够美观，缺乏灵 活性</td></tr><tr><td>CMA</td><td>专门做Meta分析的统计软件、无需 编程、更灵活且易操作</td><td>不能做诊断性分析等</td><td>图片清晰美观、可以调节 颜色、布局、字体并能转做图种类局限 成Word或PPT格式</td><td></td></tr><tr><td>Meta-Win</td><td>专用于生态学工作者定量Meta分不能对效应值设置研究质 析、操作简单且功能较全、可进行 量权重、不能进行定性Meta 做图种类丰富 重取样检验</td><td>分析</td><td></td><td>图形不够美观，缺乏灵 活性</td></tr><tr><td>Meta-Analyst</td><td>专门做 Meta分析的统计软件、无需 专做二分变量、连续变量及 编程、更灵活且易操作</td><td>诊断性分析，其他功能缺乏</td><td>做图种类丰富</td><td>图形不够美观，缺乏灵 活性</td></tr><tr><td>Meta-DiSc</td><td>专用于诊断试验Meta分析，可以视缺乏灵活性、无法进行大量 窗操作，是当前非编程软件中进行 数据分析及双变量分析等 诊断性Meta分析的最好软件</td><td>高级分析</td><td>可生成森林图、ROC平面 图形不够美观，缺乏灵 及 SROC曲线图</td><td>活性</td></tr></table></body></html>
+
+对11款常用的Meta分析软件在知识发现中的应用进行对比分析，发现仅有Stata、R、Excel、SAS、MATLAB五款通用Meta分析软件在知识发现中有部分应用，而专门用于Meta分析的软件则较少应用于知识发现中(见表4),Meta分析软件在知识发现中主要实现定量化统计分析功能，知识发现的基本过程包含对文献中的单词、短语以及主题概念进行词频统计、语义过滤和共词聚类分析等，尽管用于知识发现的统计工具软件如SAS、SPSS等已经发展得相当成熟，但是整个知识发现过程所需要的各种软件工具还是很少，且这些软件往往只能实现某一个单一的过程，完成知识挖掘中的一个环节，目前还没有免费的指导完整知识发现过程的软件，且该过程相对复杂，尚不能在科研工作中普及。知识发现过程是情报工作人员应积极探讨的领域。情报研究人员可结合情报学及统计学的知识，采用内容分析方法、Meta分析方法探索知识发现过程，展开对这一领域的探讨。
+
+表4典型Meta分析软件在知识发现中的应用  
+
+<html><body><table><tr><td rowspan="2">软件名称</td><td colspan="2">知识发现中的应用</td></tr><tr><td>技术方法</td><td>实现的功能</td></tr><tr><td>Stata</td><td>决策树、多元回归和神经网络等技术。</td><td>通用的数据挖掘软件。</td></tr><tr><td>R</td><td>相关分析、多维尺度分析、主成分分析、因子分析和 聚类分析等多元统计分析方法。</td><td>聚类、生成词云等文本挖掘可视化。用于文献数据挖掘的开 放的R资源库可实现文献查找、构建共现矩阵、部分可视化 等功能，便于分析主题词的相关性。</td></tr><tr><td>Excel</td><td>词频分析，即对单词、短语和主题概念进行词频统计。</td><td>研究学科的内容和研究热点，常结合 TDA 进行文本挖掘及 可视化或与其他工具集成。宏命令可实现文摘抽取等功能。</td></tr><tr><td>SAS</td><td>决策树、多元回归和神经网络等技术；关键词/主题词 /专利IPC技术词条共现和高被引文献的共被引聚类 分析和多维尺度分析。</td><td>通用的数据挖掘软件，同时可与SAS数据仓库和OLAP集成, 实现从提出数据、抓住数据到得到解答、可视化的"端到端" 知识发现。</td></tr><tr><td></td><td>相关分析、多维尺度分析、主成分分析、因子分析和 MATLAB聚类分析等多元统计分析方法，如词共现、文献共被 引的Ochiia相异矩阵转换计算。</td><td>实现关联分析、分类分析、聚类分析和自动预测等数据挖掘 功能以及知识可视化。</td></tr></table></body></html>
+
+由表4可知某些软件在特定情况下可以被借用完成一些知识发现功能，如数据挖掘等，例如MATLAB的神经网络工具包以及其他的一些统计软件，但这些软件本身的设计目标并非进行知识发现。虽然这些主流 Meta 分析软件在知识发现中或多或少存在一些不足，尚未被科研人员广泛认同，但其强大的数据分析分析功能使其在未来的科学发展中具有广阔的推广前景，对科学发展具有巨大的促进作用。
+
+# 4适用于领域知识发现的Meta分析软件实例分析
+
+通过对现有Meta分析软件多角度对比，可知一个好的面向知识发现的工具应该可以连接尽可能多的数据库管理系统和其他类型的数据源，同时它应该可以与其他工具软件集成，例如查询工具、可视化工具等。为了促进知识发现在多学科应用，笔者以资源环境学科为例，将现有Meta分析工具的优缺点加以整合，指出资源环境学科Meta分析工具的基本特点，以指导多领域Meta分析软件用于知识发现的扩展实现。
+
+# 4.1在资源环境学科知识发现的应用现状
+
+资源环境学科主要数据类型不是二分类对照数据，其研究形式是时间域和空间域的二维定位，且具有独特的经纬度特征，因此Meta分析方法在该学科的扩展具有独特的意义。
+
+20世纪90年代,Meta分析方法及工具开始应用于资源环境领域。Gurevitch 等[46最早于1993 年出版了第一部生态学的Meta分析专著后，发行了MetaWin软件包，用于生态学的知识发现。1998 年，彭少麟等[47]首次将Meta分析方法引入我国生态学界，并对MetaWin软件包进行生态学分析[48-49]，且将Meta分析应用于对照实验的综合研究中，目的是判断实验中的处理会对实验对象产生正或负效应及效应大小；同一主题下不同独立实验的结果是否一致，变异程度等问题[37]。在历史地理学领域，为探究历史气候变化研究存在差异的主要原因，葛全胜等[50-54]对已经发表的由不同作者利用历史文献资料重建的温度变化序列为研究资料，利用Excel、MATLAB等工具，采用相关分析、聚类分析、假设检验等统计方法，对不同学者的已建序列进行定量综合分析，以达到个体研究结论的提炼及知识发现的目的。张小娟[55]以北京为例通过SAS研究数据挖掘技术在水资源领域的应用，但仅运用统计分析类方法研究数据挖掘在用水等方面的应用，没有研究神经网络、决策树、关联规则等知识发现方法。秦碧君[基于MATLAB使用BP神经网络对能源消费碳排放进行有效预测。刘瀚林[57采用Meta分析的方法，运用SPSS、RevMan软件探讨围填海工程建设后对海洋生态环境的影响。Zinn 等[58]利用 SAS软件对不同经营方式下巴西的土地利用对土壤有机碳影响的趋势和幅度进行Meta分析。张玲等[59]利用Stata软件，应用Meta分析和多元回归分析
+
+# 14 现代图书情报技术
+
+方法构建中国湖沼湿地生态系统服务的Meta分析价值转移模型。陈仁杰利用R软件对我国复合型大气污染的健康危害特征进行研究。金鑫等[61]利用 R软件对近年来我国公共场所集中空调通风系统的卫生指标进行Meta分析。
+
+通过软件对和案例整合可以发现，Stata软件较好地实现了易用和功能的协调，在数据管理和前沿统计方法中功能十分强大[62]，即便如此，在进行特定领域知识发现如资源环境学科分析时，由于其独特的学科特点，仍不能完全适用，综合分析这些软件在资源环境领域应用现状，可以发现这些软件大都仅参与Meta分析的部分过程如结合效应值的计算、偏倚检验等，尚不能完整实践Meta分析处理过程，进行知识发现。因此编写一套操作界面规范、运算步骤简单、分析结果准确、面向对象大众的Meta分析软件对于Meta分析应用者，对于非统计学专业人员具有一定的现实意义。
+
+# 4.2资源环境学科属性分析
+
+资源环境学科研究范围十分广泛。就时间域而言，人类与自然之间影响最大的时间段是数十至数百年或更小尺度。该时间段内人类投入大量人力、物力，研究主线是以大气-水-植被-土壤等环境要素展开。从空间域来看，任何一个区域，小至一个现象，大至整个地球都是其研究内容，目前该学科研究的空间域在向深度和广度发展，从地下介质的精细结构扩展到整个地球的变化。因此，从时空域看，资源环境科学从区域到全球等几个层次，采用单一与综合相结合的方法进行研究[63]
+
+资源环境领域空间和时间是地理现象的两个基本特征[64]，是地理空间分析的两大基本要素[65]。
+
+属性的时间信息是指地理事物的属性或几何特征随时间变化而发生改变[，可能反映了属性特征的变化，例如，一个城市每天的气象数据不尽相同，某地空气污染指数在不同季节有所区别等。时间信息可能反应了空间几何特征的改变，例如城市的空间范围在不同年代不一样，台风随着时间推移其位置不断改变等。
+
+属性的空间域特点是指资源环境科学研究的对象是客观存在的整个地球系统，可分别独立地随时间改变，也可同时随时间变化，可通过经纬度坐标对其定位。同一时间或时间段不同属性的空间分布存在不同，如夏季不同区域降水量存在差异，一天之中长江不同流域的水位不同等。因此资源环境领域数据的构成应是四维空间，即数据D(横向X,纵向Y,深度 Z,时间T)[63]。
+
+# 4.3 时空可视化特点分析
+
+传统的统计数据可视化表达方式侧重于图表分析与概括性的计算分析，往往忽略或简化了统计信息的空间分布特征。随着计算机技术的发展，基于地理空间数据整合多来源、多部门的统计数据资源，利用地理信息系统的空间可视化技术来表达统计数据包含的信息已经成为统计数据资源利用的新途径[67]。地理信息系统(Geographic Information System,GIS)是用于采集、模拟、处理、检索、分析和表达地理空间数据的计算机系统[68]。在地理信息系统中，空间信息可视化在表现内容上来看最常用的是地图(图形)；空间维数上主要是二维可视化及多维动态可视化等。
+
+由于资源环境学科数据的二维属性，可通过时空信息可视化进行直观输出。如在地学领域，地学可视化主要侧重于地理计算可视化和地理信息可视化。王伟星等[提出地学可视化的基本定义并讨论分析其概念特征、理论基础和表达方法。认为地学知识可视化是地学研究领域引进知识可视化理论、方法、技术形成的新的研究方向，是关于地学知识的视觉表达与分析。
+
+综上，对资源环境学科的知识进行Meta分析，需考虑其时空特点，一方面，由于数据多为无对照测量，传统的数据格式如二分类变量以及对照实验均不再适用，而由基础Meta分析发展而来的累积Meta分析、网状Meta分析、Meta回归分析等方法，因其所适用的数据类型多样，依旧可以用于资源环境学科数据的分析。如何组织数据并进行改造，需要研究人员进一步探索。笔者认为基于以上各软件优缺点，可开发一款功能完整的适用于资源环境学科的Meta分析软件。
+
+# 4.4基于领域知识发现的Meta分析软件设计思想
+
+通过以上分析，可以得知由于资源环境学科领域数据以时空多维表形式展现，目前急需改造原有Meta分析软件或开发全新的综合集成分析平台，笔者认为尽管现有软件可以进行部分Meta分析，但开发一套从数据采集到结论输出的完整Meta分析过程的软件至关重要。全新的软件以地学循证研究为指导，基本分
+
+析过程是:
+
+(1）文献获取。基于某一研究主题，通过嵌入式检索系统进行文献检索，并及时存储于数据库内，以便进行文献纳入排除与筛选;(2）人工解读文献。在消除人为理解的异质性后,通过人工提取确保一定准确性，该步骤需要人工详细解读文献，为进一步确定文献提取格式做准备;(3）自定义提取格式、定制任务表格并进行内容提取。在将文献进行彻底解读后，自定义知识提取的结构化格式并进行内容提取;(4）机器解读并处理。经过一定数量的文献内容提取后，计算机自动对所提取的内容进行整合与集成，如何确定统计方法以及如何通过机器实现数据集成是笔者下一步关注的重点;(5）生成集成结论。即形成同一主题下的集成结论，以PDF、Word、Excel等格式形成文献综合集成报告。(6)地理信息可视化。集成后的结论中的地理信息进行基于GIS的可视化，以时空二维展示。
+
+对环境资源学科进行Meta分析时，考虑到该领域文献特点，笔者认为文献普遍具有的基本特征有：篇名、摘要、关键词、发表年份、发表期刊、作者等，可对这些基本信息基于统计学方法进行集成，如在文献计量学角度分析作者发文情况、通过关键词分析研究热点等。此外，对于非结构化的文献内容，可对其进行知识提取、统计、整合，这个过程属于广义上的综合集成。笔者认为通过规范化限制，提取同一研究主题的各文献的学科领域分类、研究区域信息、研究工作时间、研究对象时间、研究对象信息、研究方法描述、研究方法评价以及文章研究结论等内容，并对其进行结构化存储、统计，得出一个集成化的研究结论，该过程可实现对研究结论的集成。但是，如何对这些信息进行结构化提取，使其具有统计学意义，并且在算法角度进行集成、统计，形成新的结论或知识，这是目前的研究难点。
+
+# 4.5 实例研究
+
+通过以环境资源学科为例提出适合领域知识发现的Meta分析工具应具有的特点，针对所对比的特征和功能，笔者将采用实验进行验证，更科学合理、更有说服力地体现开发适用于资源环境学科的Meta分析工具的实用性和必要性。
+
+笔者以国内现有的研究黄浦江水质的影响因素的量化实证结果为基础，基于领域知识发现的软件设计思想，人工实践这一系统处理过程。主要思路为对1977年-2012年35年间黄浦江不同时空条件下水质恶化及好转情况及其影响因素进行综合集成分析，确定影响黄浦江水系水质变化的主要因素，并形成综合集成结论。
+
+文献获取阶段在CNKI平台的数据库中以“黄浦江”、“水质"为检索词，在篇名及关键词中精确检索，共检索到1983年-2014年发表的86篇文献，人工解读后保留36篇全面介绍研究主题的文章。设定的内容提取模板如表5所示，通过解读及处理后得到集成研究结论。
+
+表5黄浦江水质分析 Meta分析信息提取模板  
+
+<html><body><table><tr><td>基本特征指标</td><td>基本定性指标</td><td colspan="2">影响因素特征指标</td><td colspan="2">研究主体特征指标</td></tr><tr><td>编号</td><td>学科领域</td><td colspan="2">年份及季节</td><td colspan="2">水质状况</td></tr><tr><td>文献名</td><td>研究区域</td><td rowspan="3">自然因素</td><td>来水</td><td colspan="2">水温</td></tr><tr><td>作者</td><td>研究时间</td><td>降水</td><td>溶解氧(DO)</td><td></td></tr><tr><td>关键词</td><td>研究方法</td><td>温度</td><td colspan="2">化学需氧量(CODcr)</td></tr><tr><td>发表时间</td><td>出版物类型</td><td rowspan="2">人为因素</td><td>工业污染源</td><td rowspan="2">水质指标</td><td>高锰酸盐指数(CODmn)</td></tr><tr><td>期刊名</td><td>数据来源</td><td>农业污染源</td><td>五日生化需氧量(BOD5)</td></tr><tr><td colspan="2">作者单位</td><td rowspan="2"></td><td colspan="2">生活污染源</td><td></td></tr><tr><td colspan="2"></td><td colspan="2"></td><td>氨氮(NH3-N)</td></tr><tr><td colspan="2"></td><td rowspan="2">政策法规等 其他</td><td colspan="2">政策法律</td><td>总磷(TP)</td></tr><tr><td colspan="2"></td><td colspan="2">其他 主要污染物</td></tr></table></body></html>
+
+(1）黄浦江水质的主要影响因素为来水、降水、温度、工业污染、农业污染、生活污染、政策法律、船舶等移动源污染等，其中生活污染和上游来水对于水质影响最大。(2）空间上，水质的主要影响因素为上游来水和沿岸污染源的排放，影响程度依次为人类生活污染源、上游来水、工业污染源、农业污染源。(3）时间上，黄浦江水质在1977 年-2007 年间经历了5个变化过程，直到2012年水质维持在一个正常的水平，整体上水质处于II\~V类。季节对水质的影响主要体现在冬季水质好于夏季，一年四季温度越高，水质越差，主要影响因素是来水、水温等自然因素及工业、农业、生活污染源的排放，此外政策法律的实施可以有效改善水质，船舶运输可使水质恶化
+
+具体指标分析过程笔者不再赘述，这里只为说明以资源环境学科为例提出适合资源环境的Meta分析工具的可行性。
+
+# 5结语
+
+本文通过梳理对比国际上常用的各类Meta分析软件，剖析各软件特点及其计算和绘图等功能差异，研判Meta分析的未来发展趋势，总结当前常用的基于Windows的Meta分析软件，对比各个工具的特点，并以资源环境学科领域为例，提出适合资源环境学科领域的Meta分析工具所应具有的基本特点，以指导Meta 分析工具在资源环境学科领域文献知识发现的拓展应用，为基于Meta分析的领域知识发现提供借鉴和思考。但是本文也存在一定的局限性，即并未通过构建平台系统地实施该过程，充分验证设想的可行性，同时Meta分析固有的一些弱点也无法在基于Meta分析的领域知识发现中有效解决。
+
+# 参考文献：
+
+[1] Fleiss JL,Gross AJ.Meta-analysis in Epidemiology,with Special Reference to Studies of the Association Between Exposure to Environmental Tobacco Smoke and Lung Cancer: A Critique [J]. Journal of Clinical Epidemiology, 1991,44(2): 127-139.   
+[2] BenitesF， Simon S， Sapozhnikova E. Mining Rare Associations Between Biological Ontologies[J]. PLoS ONE,   
+2014,9(7): e84475. [3]Moreno D P, Hernandez A A, Yang M C,et al.Fundamental Studies in Design-by-analogy: A Focus on Domain-knowledge Experts and Applications to Transactional Design Problems [J]. Design Studies,2014,35(3): 232-272. [4]Tseng V S, Yu HH, Yang S C. Efficient Mining of Multilevel Gene Association Rules from Microarray and Gene Ontology [J].Information Systems Frontiers,2009,11(4): 433-447. [5]曾宪涛，冷卫东，郭毅，等.Meta分析系列之一:Meta 分析 的类型[J]．中国循证心血管医学杂志，2012，4(1):3-5. (Zeng Xiantao,Leng Weidong,Guo Yi,et al.One of the Series of Meta-analysis: The Type of Meta-analysis [J]. Chinese Journal of Evidence-Bases Cardiovascular Medicine,   
+2012,4(1): 3-5.) [6]王佩鑫，李宏田，刘建蒙．无对照二分类资料的 Meta 分析 方法及 Stata 实现[J]．循证医学,2012,12(1): 52-55.(Wang Peixin，Li Hongtian，Liu Jianmeng.Meta-Analysisof Non-Comparative Binary Outcomes and Its Solution by Stata [J].The Journal of Evidence-Based Medicine,2012,1(1):   
+52-55.) [7]罗美玲，谭红专，周权，等．在R 软件中实现单个率的 Meta 分析[J]．循证医学，2013，13(3):181-184.(Luo Meiling,Tan Hongzhuan,Zhou Quan,et al.Realizing the Meta-Analysis of Single Rate in R Software [J].The Journal of Evidence-Based Medicine,2013,13(3):181-184.) [8]陈月红，杜亮，耿兴远，等．无对照二分类数据的 Meta 分 析在 RevMan 软件中的实现[J]．中国循证医学杂志，2014,   
+14(7): 889-896.(Chen Yuehong, Du Liang, Geng Xingyuan, et al. Implement Meta-Analysis with Non-Comparative Binary Data in RevMan Software [J].Chinese Journal of Evidence-Based Medicine,2014,14(7): 889-896.) [9]Higgins JP T,Green S.Cochrane Handbook for Systematic Reviews of Interventions [M].Wiley Press，2011．DOI:   
+10.1002/9780470712184. [10]Borenstein M,Hedges L V,Higgins JP T,et al.Introduction to Meta-Analysis [M]. Chichester:John Wiley & Sons Ltd,   
+2009. [11] Lumley T.Network Meta-analysis for Indirect Treatment Comparisons [J]. Statistics in Medicine,2002,21(16):   
+2313-2324. [12]罗杰，冷卫东．系统评价/Meta分析理论与实践[M].北京: 军事医学科学出版社，2013:179-214.(Luo Jie,Leng Weidong. Theory & Practice of Systematic Review/Metaanalysis [M]. Beijing: Military Medical Science Press,2013:   
+179-214.)   
+[13] 曾宪涛，曹世义，孙凤，等.Meta分析系列之六：间接比较 及网状分析[J]．中国循证心血管医学杂志，2012，4(5): 399-402.(Zeng Xiantao,Cao Shiyi, Sun Feng,et al. One of the Series of Meta-analysis: Indirect Comparisons and Mesh Analysis[J].ChineseJournalofEvidence-Bases Cardiovascular Medicine,2012,4(5): 399-402.)   
+[14] 曾宪涛，张超，邝心颖，等．基于使用的网状 Meta 分析软 件的比较研究与选择[J]．中国循证医学杂志,2014,14(10): 1270-1275. (Zeng Xiantao, Zhang Chao,Kwong JS W, et al. Software for Network Meta-Analysis: A Usage-based Comparative Study [J].Chinese Journal of Evidence-Bases Cardiovascular Medicine,2014,14(10): 1270-1275.)   
+[15] 曾宪涛，田国祥，张超，等.Meta分析系列之十五:Meta 分 析的进展与思考[J]．中国循证心血管医学杂志,2013,5(6): 561-563.(Zeng Xiantao,Tian Guoxiang, Zhang Chao,et al. One of the Series of Meta-analysis: The Progress and Reflection of Meta-analysis [J]. Chinese Journal of EvidenceBases Cardiovascular Medicine,2013,5(6): 561-563.)   
+[16] 杨悦．两种计算机软件在医学Meta分析中的应用[J]．河北 医药，2008,30(9):1430-1432.(Yang Yue.Two Kinds of Computer Software Used in Medical Meta-Analysis [J]. Hebei Medical Journal,2008,30(9): 1430-1432.)   
+[17] Kontopantelis E,Reeves D.MetaEasy:A Meta-Analysis Add-In for Microsoft Excel [J].Journal of Statistical Software,2009,30(7):1-25.   
+[18]国家发展和改革委员会培训中心．经济计量分析与 Excel 应用[M]．北京：中国市场出版社，2005.(National Development and Reform Commission Training Center. Econometric Analysis and Excel Applications [M]. Beijing: China Market Press,2005.)   
+[19] 柏建岭，钟文昭，郑明华,等．Stata 在 Meta 分析中的应用 [J]．循证医学，2007，7(6):363-368．(Bai Jianling，Zhong Wenzhao, Zheng Minghua, et al. Meta-Analysis in Stata [J]. The Journal of Evidence-Based Medicine，2007，7(6): 363-368.)   
+[20] Sterne JA C.Meta-Analysis in Stata: An Updated Collection from the Stata Journal [M]. Stata Press,2009.   
+[21] Chaimani A,Higgins JP,Mavridis D,et al.Graphical Tools for Network Meta-analysis in STATA[J].PLOS ONE,2013, 8(10): e76654.   
+[22] Maindonald J,Braun W J. Data Analysis and Graphics Using R:An Example-Based Approach [M].Cambridge University Press,2010.   
+[23]侯旭宏，沈富杰，王建华，等．应用ExcelVBA高效完成统 八托 Xuhong,Shen Fujie,Wang Jianhua, et al. Application of Excel Visual Basic for Efficiently Complete Statistic Analysis [J].Chinese Journal of Epidemiology,2006,26(12): 995-998.)   
+[24] Bax L,Yu L M,Ikeda N,et al. Development and Validation of MIX:Comprehensive Free Software for Meta-analysis of Causal Research Data[J].BMCMedical Research Methodology,2006,6(1): 1-11.   
+[25]王峰娟．应用Excel完成不同类型资料的Meta分析[D].广 州：暨南大学,2011.(Wang Fengjuan.The Meta Analysis of Different Data Using Excel [D]. Guangzhou: Jinan University, 2011.)   
+[26]薛富波.SAS8.2统计应用教程[M].北京：北京希望电子出 版社,2004: 437. (Xue Fubo.SAS8.2 Statistical Applications Tutorial [M]. Beijing:Beijing Hope Electronic Press,2004: 437.)   
+[27] Jones B,Roger J,Lane P W,et al. Statistical Approaches for Conducting Network Meta-analysis in Drug Development [J]. Pharmaceutical Statistics,2011,10(6): 523-531.   
+[28] 周权，罗美玲，王冕，等．应用 SAS 软件宏命令实现剂量 反应关系 Meta 分析[J]．循证医学，2015，15(1):54-59. (Zhou Quan,Luo Meiling,Wang Mian,et al. Application of SAS Software Macro for Realizing the Dose Response Meta-Analysis [J]. The Journal of Evidence-Based Medicine, 2015, 15(1): 54-59.)   
+[29] Hedges L V,Pigot T D. The Power of Statistical Tests in Meta-Analysis [J].Psychol Methods,2001,6(3): 203-217.   
+[30] Hedges L V,Pigott T D.The Power of Statistical Tests for Moderators in Meta-Analysis [J].Psychol Methods，2004, 9(4): 426-445.   
+[31] Cafri G,Kromrey JD,Brannick M T.A SAS Macro for Statistical Power Calculations in Meta-analysis[J].Behavior Research Methods,2009,41(1): 35-46.   
+[32] 胡小刚，陈剑鸿，孙凤军，等．基于 Matlab 的 KruskalWallis 和 Nemenyi 检验的界面实现[J]．中国卫生统计, 2011，28(4): 466-467.(Hu Xiaogang,Chen Jianhong，Sun Fengjun,et al.The Interface Realization of Kruskal Wallis and Nemenyi Test Based on Matlab [J]. Chinese Journal of Health Statistics,2011,28(4): 466-467.)   
+[33]肖静，吴桂云，高月霞，等.单一率Meta分析的 Matlab 软 件实现[J]．中国卫生统计,2014,31(4):715-717.(Xiao Jing, Wu Guiyun,Gao Yuexia,et al. The Realization of Single Rate Meta-analysis Based on Matlab[J]. Chinese Journal of Health Statistics,2014,31(4): 715-717.)   
+[34]黄清水，王清生，罗忠勤，等．基于MATLAB 绘制 SROC
+
+593-594. (Huang Qingshui,Wang Qingsheng,Luo Zhongqin, et al.The Design and Application of Drowing Summary ROC Curve Software Based on MATLAB [J].Experiment and Laboratory Medicine,201,29(6): 593-594.)   
+[35]周波，陈欣，时景璞，等．率的 Meta 分析及软件实现[J]. 中国循证医学杂志,2014,14(8):1009-1016.(Zhou Bo,Chen Xin, Shi Jingpu,et al.Meta-Analysis of Rates and Software Implementation [J]. Chinese Journal of Evidence-Bases Cardiovascular Medicine,2014,14(8): 1009-1016.)   
+[36]Wallace B C,Schmid C H,Lau J,et al.Meta-Analyst: Software for Meta-analysis of Binary，Continuousand Diagnostic Data [J]. BMC Medical Research Methodology, 2009.DOI: 10.1186/1471-2288-9-80.   
+[37] 彭少麟，郑凤英.Meta 分析及 MetaWin 软件[J]．土壤与环 境，1999，8(4):295-299.(Peng Shaolin，Zheng Fengying. IntroductionofMetaWinSoftware[J].Soiland Environmental Sciences,1999,8(4): 295-299.)   
+[38]U.de Bioestadistica-Software.Meta-DiSc [EB/OL]. [2015- 09-04].http://www.hrc.es/investigacion/metadisc_en.htm.   
+[39]Zamora J,Abraira V,Muriel A,et al.Meta-DiSc:A Software for Meta-analysis of Test Accuracy Data[J].BMC Medical Research Methodology,2006.DOI: 10.1186/1471-2288-6-31.   
+[40] Pai M,Flores L L,Hubbard A，et al． Nucleic Acid Amplification Tests inthe Diagnosisof Tuberculous Pleuritis:A Systematic Review and Meta-analysis[J].BMC Infectious Diseases,2004. DOI: 10.1186/1471-2334-4-6.   
+[41]Gisbert J P,Abraira V.Accuracy of Helicobacter Pylori Diagnostic Tests in Patients with Bleeding Peptic Ulcer:A Systematic Review and Meta-analysis [J]. The American Journal of Gastroenterology,2006,101(4): 848-863.   
+[42]Goodacre S,Sutton A J, Sampson F C.Meta-analysis:The Value of Clinical Assessment in the Diagnosis of Deep Venous Thrombosis [J].Annals of Internal Medicine,2005, 143(2): 129-139.   
+[43] Briand L,Arisholm E, Counsell S,et al. Empirical Studies of Object-oriented-artifacts,Methods,and Processes:State of the Art and Future Directions [J].Empirical Software Engineering,1999, 4(4): 387-404.   
+[44] 张超，陶华,李胜，等．应用 Stata 软件mvmeta 程序包实现 网状 Meta 分析[J]．中国循证医学杂志，2014，14(9): 1150-1159.(Zhang Chao，Tao Hua,Li Sheng，et al. Implementation of mvmeta Package of Stata Software in   
+[45]Goebel M,Gruenwald L.A Survey of Data Mining and Knowledge Discovery Software Tools [J].ACM SIGKDD Exploration Newsletter,1999,1(1): 20-33.   
+[46] Gurevitch J, Hedges V.Meta-analysis: Combining the Results of Independent Experiments [M]. New York:Chapntan & Hall, 1993: 114-119.   
+[47]彭少麟，唐小焱．Meta 分析及其在生态学上的应用[J]．生 态学杂志,1998,17(5):75-80.(Peng Shaolin,Tang Xiaoyan. Meta-analysis and Its Application in Ecology[J].Chinese Journal of Ecology,1998,17(5): 75-80.)   
+[48]郑凤英，彭少麟．捕食关系的 Meta 分析[J]．生态学报, 1999,19(4): 448-451.(Zheng Fengying,Peng Shaolin.The Meta Analysis on the Relationships Between Predator and Prey[J].Acta Ecologica Sinica,1999,19(4): 448-451.)   
+[49] 郑凤英，彭少麟.植物生理生态指标对大气CO2 浓度倍增 响应的整合分析[J]．植物学报，2001，43(11):1101-1109. (Zhang Fengying，Peng Shaolin. Meta-analysis of the Response of Plant Ecophysiological Variables to Doubled Atmospheric CO2 Concentrations [J]. Acta Botanica Sinica, 2001,43(11): 1101-1109.)   
+[50]Ge Q，Zheng J，Tian Y，et al．Coherence of Climatic Reconstruction from Historical Documents in China by Different Studies [J]. International Journal of Climatology, 2008,28(8): 1007-1024.   
+[51] Zheng JY，Wang W C，Ge Q S,et al.Precipitation Variability and Extreme Events in Eastern China During the Past 150o Years [J].Terrestrial Atmospheric and Oceanic Sciences,2006,17(3): 579-592.   
+[52]Ge Q S,Zheng JY,Hao Z X,et al. Reconstruction of Historical Climate in China:High-resolution Precipitation Data from Qing Dynasty Archives[J].Bulletin of the American Meteorological Society,2005,86(5): 671-679.   
+[53] Hao Z X,Zheng JY,Ge Q S,et al. Relationship Between Precipitation and the Infiltration Depth over the Middle and Lower Reaches of the Yellow River and Yangtze-Huaihe River Valley[J]. Progress in Natural Science, 2008,18(9): 1123-1128.   
+[54]Ge Q S,Guo XF, Zheng JY,et al. Meiyu in the Middle and Lower Reaches of the Yangtze River Since 1736[J]. Chinese Science Bulletin,2008,53(1): 107-114.   
+[55]张小娟．数据挖掘技术在水资源领域的应用研究[D].北 京：中国水利水电科学研究院，2007.(Zhang Xiaojuan. Study on Data Mining Technology's Application in Water Resources [D]. Beijing: China Institute of Water Resources & Hydrogower Research,2007.)   
+[56] 秦碧君．政策锁定：2009-2020 年碳基能源排放量序列测算 及对策[D]．西安：西北大学，2012.(Qin Bijun．Policy Locking:TheEstimationandCountermeasuresof Carbon-based Energy EmissionsSequence [D]. Xi'an: Northwest University,2012.)   
+[57]刘瀚林．围填海工程对海洋环境影响的 Meta 分析[D]．大 连：大连理工大学,2014.(Liu Hanlin.The Impact of Land ReclamationProjectstoMarineEnvironment:A Meta-analysis [D]. Dalian: Dalian University of Technology, 2014.)   
+[58] Zinn Y L,Lal R,Resck D V S.Changes in Soil Organic Carbon Stocks Under Agriculture in Brazil [J]．Soil and Tillage Research,2005,84(1): 28-40.   
+[59] 张玲,李小娟，周德民，等．基于 Meta 分析的中国湖沼湿 地生态系统服务价值转移研究[J]．生态学报,2015,35(16): 5507-5517. (Zhang Ling, Li Xiaojuan, Zhou Demin, et al.An Empirical Study of Meta-analytical Value Transfer of Lake and Marsh Ecosystem [J].Acta Ecologica Sinica,2015, 35(16): 5507-5517.)   
+[60]陈仁杰．复合型大气污染对我国17城市居民健康效应研究 [D]．上海：复旦大学，2013．(Chen Renjie．The Health Effects of Complex Air Pollution in 17 Chinese Cities [D]. Shanghai: Fudan University,2013.)   
+[61]金鑫，韩旭，朱文玲，等．我国公共场所集中空调通风系 统卫生状况 Meta 分析的初步探讨[J]．环境卫生学杂志， 2014,4(6): 538-543.(Jin Xin,Han Xu, Zhu Wenling,et al. Meta-analysisonHygienicIndexesinCentralAir Conditioning Ventilation Systems in Public Buildings in China [J]. Journal of Environmental Hygiene,2014,4(6): 538-543.)   
+[62] 徐世侠，徐海琴，冯博，等．几种计算机软件在医学 Meta 分析中的应用[J]．临床儿科杂志,2010,28(9):897-900.(Xu Shixia,Xu Haiqin，Feng Bo，et al．Several Computer Software Used in Medical Meta-analysis [J].Journal of Clinical Pediatrics,2010,28(9): 897-900.)   
+[63]高星.资源环境研究中的几个科学问题[J]．地球科学进展, 2000，15(3):321-327.(Gao Xing.Review of Several Scientific Issues of Resources and Environment Research [J]. Advances in Earth Science,2000,15(3): 321-327.)   
+[64]何勇，冯雷.地球空间信息学基础[M]．杭州：浙江大学出 版社，2010.(He Yong,Feng Lei.Geomatics Basis [M]. Hangzhou: Zhejiang University Press,2010.)   
+[65]汤国安，赵牡丹，杨昕，等．地理信息系统[M].第2版. 北京：科学出版社,2010.(Tang Guoan,Zhao Mudan,Yang Xin,et al.Geographic Information Systems [M].The 2nd Edition.Beijing: Science Press,2010.)   
+[66]Bernhardsen T.GeographicInformation Systems:An Introduction [M].John Wiley& Sons,2006.   
+[67]陈生，曾行吉，梁军.基于GIS 的统计数据可视化研究[J]. 计算机工程与设计,2008,29(14):3757-3759.(Chen Sheng, Zeng Xingji,Liang Jun.Study on Visualization of Statistics Data Based on GIS [J].Computer Engineering and Design, 2008,29(14): 3757-3759.)   
+[68]陈述彭，鲁学军，周成虎．地理信息系统导论[M].北京: 科学出 版社，2000.（Chen Shupeng，Lu Xuejun，Zhou Chenghu.Introduction to Geographic Information System [M].Beijing: Science Press,2000.)   
+[69]王伟星，龚建华．地学知识可视化概念特征与研究进展[J]. 地理与地理信息科学，2009,25(4):1-7.(Wang Weixing, Gong Jianhua.Concept,Characteristics and Advances of Geographic Knowledge Visualization [J].Geography and Geo-Information Sciences,2009,25(4): 1-7.)
+
+# 作者贡献声明：
+
+刘红煦：设计研究方案，获取并分析数据，论文起草;  
+曲建升：提出研究命题及研究思路，论文最终版本修订。
+
+# 利益冲突声明：
+
+所有作者声明不存在利益冲突关系。
+
+# 支撑数据：
+
+支撑数据由作者自存储,E-mail:hbelhx $@ 1 6 3 . \mathrm { c o m } ,$ 0[1]刘红煦，曲建升.method.pdf.研究方法详细描述.[2]刘红煦，曲建升.tool.pdf.直接研究工具详细描述[3]刘红煦，曲建升.result.xls.完整版Meta分析软件对比结果.
+
+收稿日期:2015-12-11   
+收修改稿日期:2016-01-17
+
+# Using Meta-analysis Software for Domain Knowledge Discovery
+
+Liu Hongxu1,²Qu Jianshengl 1(Lanzhou Information Center, Chinese Academy of Sciences, Lanzhou 73ooo0, China) 2(University of Chinese Academy of Sciences, Beijing 10o049, China)
+
+Abstract:[Objective] We try to predictthe future trendsofMeta-analysis methodology,and improvethe performance ofdomain knowledge discovery tasks.[Methods]First, we reviewed the features of popular Meta-analysis software,as wellas their diferences in computing and graphics functions.Second, we designed a Meta-analysis tool for the resources and environment science.[Results]We developed anew concept for public oriented Meta-synthesis tool with standardized interface,simplified procedure and accurate results.[Limitations]Wedid not examine the feasibilityof the new tool ona working platform,The inherent weaknesss of Meta-analysis cannot beavoided in the domain knowledge discovery.[Conclusions] We need to build a platform for the domain knowledge discovery with Meta-analysis technology and then expand its application in literature discovery.
+
+Keywords: Meta-analysisKnowledge discoverySoftware comparison Resources and environment science
+
+# WebJunction获IMLS资助以促进小型公共图书馆创建积极学习空间
+
+WebJunction 是OCLC Research 的一个课题组，已获得IMLS(美国博物馆和图书馆服务协会)National Leadership Grant一个两年期项目，项目资金为249710美元，项目名称为"小型图书馆创建智慧空间”。
+
+通过与美国乡镇和小型图书馆协会之间的合作，WebJunction 将会为小型图书馆的建设提供指导和支持，帮助他们重新建构图书馆空间，以支持更广泛的社会参与和学习活动。
+
+“WebJunction 相信学习是一个社会化过程，通过具体实践学习会变得更为有效,”WebJunction 的主任 Sharon Streams 说道。“有了这一项目提供的专家指导和同行支持，更多的社区图书馆就能够将图书馆空间转换成实践学习的社会中心。”
+
+该项目的目标是：培养人们之间紧密的社会连接，使社区更为强大；创建图书馆空间，提供积极学习机会，鼓励更多的探索活动；使得小型图书馆能够更好的利用他们拥有的物理空间，以适应不断发展着的社区需求和利益；增强图书馆在为所有年龄段人们提供课堂外学习场所中所扮演的核心作用。
+
+参与进来的图书馆将会被推荐采用场所营造、社区参与和以人为本的空间设计原则。在社区参与、活动规划、试点活动之后，图书馆将能够利用一系列的初始材料来营造一个学习空间。
+
+这一项目在 IMLS National Leadership Grants 图书馆项目的第一轮评审通过。IMLS National Leadership Grants 图书馆项目支持了一系列的项目，这些项目能够解决图书馆和档案领域所面临的挑战，利用可被广泛复制利用的新工具、研究发现、模型、服务等，以促进图书馆和档案领域的实践活动。组委会共收到超过3100万美元的申请，并且已经为其中的20 个项目批准了6339441美元的资金。
+
+# 关于WebJunction
+
+作为一个开放学习社区，WebJunction 为图书馆馆员提供了多种在线资源、编程，以及学习机会。WebJunction 是OCLCResearch的一个课题组，她设计并且传承多种转型项目，这种转型项目将公共图书馆服务和一系列的社区需求，如终生教育、健康保健、和成功经济相结合起来。2003年以来，横跨美国 50个州的超过 $70 \%$ 的公共图书馆已经参与进WebJunction 的学习项目中来。
+
+(编译自: htps://www.webjunction.org/news/webjunction/webjunction-imls-smart-spaces-grant.htm)
+
+(本刊讯)

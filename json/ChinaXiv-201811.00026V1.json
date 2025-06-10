@@ -1,0 +1,545 @@
+[
+    {
+        "type": "text",
+        "text": "基于不同气候态对天山及其邻区气候变化的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周玲'²，孙慧兰1,²，杨余辉²，马倩²，吴珊珊1,²，周永超,2（1．新疆师范大学地理科学与旅游学院,新疆 乌鲁木齐830054;2．新疆师范大学丝绸之路经济带城市发展研究中心，新疆 乌鲁木齐830054)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：利用天山地区26个气象站1961—2015年的逐月气温和降水资料,探讨不同气候基准态对气候监测和评估的影响，为天山地区气候变化研究提供更加科学客观的依据。研究表明： $\\textcircled{1}$ 天山东段是不同气候态下气温变化的敏感区,而天山北坡是年降水变化的敏感区。以IV态(1961—2015年)的变化为基准,在I态(1961—1990 年)与Ⅱ态(1971—2000年)下气温要素与降水要素的分析结果均偏高，IⅢI态(1981—2010年)下分析结果则偏低。 $\\textcircled{2}$ 以V态的突变时间为基准,气温整体上I态没有突变、Ⅱ态出现突变偏早,Ⅲ态出现突变偏迟。 $\\textcircled{3}$ I态和Ⅱ态会使气温和降水等级偏小,而Ⅲ态会使气温和降水等级偏大。不同气候态对降水异常没有影响，ⅢI态对气温异常产生的影响最小。 $\\textcircled{4}$ 采用不同气候态分析天山地区同时段同类要素时,会出现正向变化也出现负向变化。同时在使用基准气候态进行气候变化分析时，需结合多因素对分析结果进行客观的评价。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：气候态；气候检测；气候评估；天山",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "世界气象组织（WMO)将气候基准值（气候态）定义为某个气象要素30a的平均值。应世界气象组织的要求，中国气象局预测减灾司要求各省、自治区、直辖市气象局、国家气候中心的短期气候预测业务、气候影响评价、气候诊断业务从2012年1月1日起,气候基准值由现在的1981—2010 年代替原来的1971一2000年，以期能达到更好地表达现阶段气候信息的目的。由于人类活动等原因产生的气候变暖是全球性的，但气候本身是变化的，并且原因十分复杂，这种噪声混在气候变化中，经过30a逐日的观测数据记录，气候资料的累计扩大了该噪声，使得气候观测值的误差越来越大[1]。气候变化影响着气候态的变化，当选择不同气候态作为标准气候态时,其计算的气候变化结果是不同的[2-7],故而在研究气候变化时应说明是哪个气候态时段的变化[8]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "政府间气候变化专门委员会在AR5报告（第5次评估报告）中指出，近100a全球平均增温率在$0 . 4 5 \\sim 0 . 8 5 ^ { \\ \\circ } \\mathrm { C } ^ { \\left[ 9 \\right] }$ ,并通过大量观测数据和不同气候模式，预测未来以人类影响为主的背景下全球气温还将呈上升态势(10]。山地是全球变化的前哨。天山作为新疆特殊的地理单元，是南北疆气候分界线和气候过渡带,被称为干旱区的“湿岛”]。气温和降水因子的变化对新疆广大地区的自然环境及社会经济有着深刻的影响[12-22]。天山是新疆气候的屏障，也是新疆经济重心所在地区，以往的研究多侧重于气候变化及其产生的影响，但对气候态的变化究竟会产生怎样的偏差却少有研究。为了能够更加精准地判断气候变化的状态及影响评估业务和为科研提供科学的参考依据，需要对3种不同的气候态所产生的气候差异进行科学、客观的解释。本文选取天山地区26个气象站的年气温和年降水因子，探讨不同气候态下气象因子的变化及其气象因子等级和异常等级的差异，以期更准确地反映气候变化。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "数据与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文数据由中国气象数据网（http://data.cma.$\\mathrm { c n / }$ )提供。为保证基础资料的连续性、完整性及最长时段，选取天山地区26个气象站1961—2015年的逐月平均气温和降水地面观测数据为基础数据。依据研究区的地理位置和气候特征并参考前人研究，将天山地区分为3个区：依天山主山脊为界分为南坡和北坡，将气候\"干热”和海拔较低的山区东部地区划分为东段。天山北坡的气象站有乌鲁木齐、伊宁、精河、昭苏、乌苏、温泉、达坂城,天山南坡的气象站包括阿克苏、库尔勒、拜城、巴楚、库车、巴音布鲁克、轮台、焉耆、巴伦台、喀什、阿合奇、铁干里克、库米什，天山东段的气象站包括吐鲁番、奇台、七角井、巴里坤、哈密、伊吾，以研究区内各站点的平均序列代表该地区的气候序列(图1）。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/9ce90ed018898115e78f97a89620777b53bd602b8b7f1e272e0814cee13ef318.jpg",
+        "img_caption": [
+            "周玲等：基于不同气候态对天山及其邻区气候变化的影响",
+            "图1研究区示意图",
+            "Fig.1Sketch map of the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据WMO对气候态的定义，分别选取1961—1990年、1971—2000 年、1981—2010 年和1961—2015 年为第一、第二、第三和第四基准气候态，用I态，Ⅱ态、Ⅲ态和V态表示（表1），V态具有更长的时间序列和可靠的气候信息，多年平均值是以V态下不同气象要素平均值计算的。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/3b370e9e7559585bec2feae6135864e3324fcf338eae96c0d3bfe3bb874ce760.jpg",
+        "table_caption": [
+            "表1不同气候态的定义",
+            "Tab.1 The definitions of different climate states "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>气候态</td><td>简称</td><td>时段</td></tr><tr><td>第一基准气候态</td><td>I态</td><td>1961-1990 年</td></tr><tr><td>第二基准气候态</td><td>Ⅱ态</td><td>1971-2000 年</td></tr><tr><td>第三基准气候态</td><td>Ⅲ态</td><td>1981-2010 年</td></tr><tr><td>第四基准气候态</td><td>V态</td><td>1961-2015 年</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "参考中国气象局《全国气候影响评价》标准，分析气候态的改变对气温等级和降水等级的影响。分别建立7级气温等级与降水等级来判断气温和降水是否异常(表2）。通过1态、Ⅱ态、Ⅲ态下的气象要素等级分别与基准气候态进行对比，分析气温和降水等级相对于基准气候态出现偏高或者偏低变化的幅度，分为偏高1、2、3级，等级不变或者偏低1、2、3级[9,23] O",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表2气温和降水评估等级标准",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/a51be668a56084f22c81d4d66bf2cf209c7c16df7952feabef6ee5a397ec0a90.jpg",
+        "table_caption": [
+            "Tab.2The standards of temperature level and precipitation level "
+        ],
+        "table_footnote": [
+            "注： $\\Delta T$ 为气温距平， $. \\Delta R$ 为降水距平百分率， $\\sigma$ 为标准差。"
+        ],
+        "table_body": "<html><body><table><tr><td>气温标准定义</td><td>降水标准定义</td><td>异常程度</td><td>等级</td></tr><tr><td>△T/g≥2</td><td>△R>80%</td><td>异常偏高/多</td><td>1级</td></tr><tr><td>1.5≤△T/g <2</td><td>50%<△R≤80%</td><td>显著偏高/多</td><td>2级</td></tr><tr><td>1<△T/g <1.5</td><td>20%<△R≤50%</td><td>偏高/多</td><td>3级</td></tr><tr><td>-1≤△T/g≤1</td><td>-20%≤△R≤20%</td><td>正常</td><td>4级</td></tr><tr><td>-1.5<△T/g<-1</td><td>-50%≤△R<-20%</td><td>偏低/少</td><td>5级</td></tr><tr><td>-2<△T/g≤-1.5</td><td>-80%≤△R<-50%</td><td>显著偏低/少</td><td>6级</td></tr><tr><td>△T/g≤-2.0</td><td>△R< -80%</td><td>异常偏低/少</td><td>7级</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1不同气候态及其各气候态下气象要素的变化特征",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.1气候态的变化特征从图2可以看出，年平均气温和年降水量均随气候态变化呈现持续增加的趋势，不同的是年平均气温均值Ⅲ态 $> \\mathrm { I V }$ 态 $\\mathrm { ~ > ~ I I ~ }$ 态 $> \\mathrm { ~ I ~ }$ 态，V态的年平均气温均值介于Ⅱ态和Ⅲ态之间更接近于Ⅱ态，而年降水量均值Ⅳ态 $>$ Ⅲ态 $>$ Ⅱ态 $> \\mathrm { ~ I ~ }$ 态， $\\mathrm { \\Delta } \\mathrm { W }$ 态的年降水量均值最大更接近Ⅲ态。天山北坡和南坡由丨态转 $\\mathbb { I }$ 态时，年平均气温的增温幅度为 $0 . 2 ~ \\mathrm { ^ { \\circ } C }$ ，Ⅱ态转Ⅲ态时增加幅度为 $0 . 4 ~ \\mathrm { ^ { \\circ } C }$ ：天山东段由1态转Ⅱ态时，年平均气温的增温幅度为 $0 . 3 ~ \\mathrm { ^ { \\circ } C }$ ,Ⅱ态转Ⅲ态时增加幅度为 $0 . 5 8 ~ \\mathrm { ^ { \\circ } C }$ 。年平均气温I态、Ⅱ态、Ⅲ态之间的转化天山东段的增幅大于天山北坡和南坡。年降水量天山北坡在I态转Ⅱ态时，增多了 $1 3 . 9 9 \\ \\mathrm { \\ m m }$ ，Ⅱ态转Ⅲ态时增加了$1 8 . 4 1 \\ \\mathrm { m m }$ ;天山东段在1态转Ⅱ态时，增多了7.42$\\mathbf { m } \\mathbf { m }$ ,Ⅱ态转Ⅲ态时增加了 $3 . 1 0 \\ \\mathrm { m m }$ ,天山北坡在I态转Ⅱ态时，增多了 $1 0 . 6 5 \\ \\mathrm { m m }$ ，Ⅱ态转Ⅲ态时增加了 $7 . 5 8 \\ \\mathrm { m m }$ 。年降水量增加幅度天山北坡最大，天山南坡次之，天山东段最小。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/fbbcc146f0b43ed518af324f49589d8629c645c77dc608865ecfa4d6e40eff13.jpg",
+        "img_caption": [
+            "Fig.2Variationof annual temperatureand precipitation factorsunder thediferentclimate states inthe Tianshan Mountains "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如图3所示，天山东段是不同气候态年平均气温标准差的高值区，标准差均在 $0 . 6 \\sim 0 . 9 \\mathrm { ~ \\textdegree ~ }$ ，天山北坡不同气候态年平均气温标准差在 $0 . 6 5 \\mathrm { ~ \\sim ~ }$ $0 . 7 6 ~ \\mathrm { ^ { \\circ } C }$ ，天山南坡不同气候态年平均气温标准差为$0 . 4 \\sim 0 . \\mathrm { ~ 6 ~ } \\mathrm { \\textC }$ 。随I态、Ⅱ态、Ⅲ态和Ⅳ态变化，天山东段和天山南坡标准差逐渐增大，天山北坡先减小后持续增大。若用使用Ⅱ态均值分析时，天山各区年平均气温的气候态均值较I态的差异在$0 . 0 3 \\sim 0 . 0 9 \\mathrm { ~ \\textdegree ~ }$ ,年降水量的气候态均值较I态的差异在 $2 \\sim 1 0 \\ \\mathrm { m m }$ 之间。使用Ⅲ态均值分析时，天山各区年平均气温气候态均值相比Ⅱ态均值的差异在$0 . 0 7 \\sim 0 . 1 2 \\mathrm { ~ \\textdegree C }$ ，年降水量的气候态均值较Ⅱ态均值的差异在 $0 . 1 \\sim 5 ~ \\mathrm { m m }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7578e18b78516d5625d584d3fd2d2b044ca989858a10f3df569715da9b7ec3c4.jpg",
+        "img_caption": [
+            "图2不同气候态下年平均气温和年降水要素的变化",
+            "图3天山地区不同气候态年平均气温、降水量标准差及其与V态的差值 Fig.3The standard deviations of annual temperature and precipitation under diferent climate states and the difference between standard climate states in the Tianshan Mountains "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "天山北坡是不同气候态年降水量标准差的高值区，在 $3 3 \\sim 4 7 ~ \\mathrm { m m }$ ,天山东段标准差在 $1 9 \\sim 2 3 ~ \\mathrm { m m }$ ,天山南坡的标准差在 $2 0 \\sim 2 2 . 5 \\ \\mathrm { m m }$ 。随I态、Ⅱ态、Ⅲ态和V态变化，天山北坡和天山东段标准差Ⅲ态 $> \\mathbb { N }$ 态 $> \\mathbb { I }$ 态 $> \\mathrm { ~ I ~ }$ 态，而天山南坡标准差Ⅱ态 $>$ Ⅲ态 $>$ V态 $> \\mathrm { ~ I ~ }$ 态。天山东段是年平均气温标准差差异较大的地区，也是气候态年平均气温标准差变化的敏感区。天山北坡不同气候态年降水量标准差的差异较大，是年降水量标准差变化的敏感区。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.2各气候态下气象要素的变化特征由图4可知,在不同气候态下，气温距平年际与年代变化趋势具有相似性，均呈上升趋势。天山北坡I态与Ⅱ态比气候标准态(IV态)分别偏高 $0 . 3 8 \\mathrm { ~ \\textcircled { C } ~ } , 0 . 1 7 \\mathrm { ~ \\textcircled { C } ~ }$ Ⅲ态则偏低 $0 . 2 1 ~ \\mathrm { ^ { \\circ } C }$ 。年平均气温距平的年代际变化(图略)中I态20世纪 $6 0 \\cdot 7 0$ 年代为负距平，80年代转为正距平；Ⅱ态与气候标准态(IV态)20世纪60、70、80年代为负距平，90年代转为正距平；Ⅲ态",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "21世纪转为正距平。天山东段I态与Ⅱ态比气候标准态(IV态)分别偏高 $0 . 5 6 \\mathrm { ~ \\textcircled { C } ~ } , 0 . 2 7 \\mathrm { ~ \\textcircled { C } ~ }$ ,Ⅲ态则偏低 $0 . 3 1 ~ \\mathrm { ^ { \\circ } C }$ ;年代际变化中I态与Ⅱ态20世纪80 年代转为正距平；气候标准态（N态)20世纪60、70、80年代为负距平，90年代转为正距平；Ⅲ态21世纪转为正距平。天山南坡I态与Ⅱ态比气候标准态（V态）分别偏高 $0 . 3 5 \\mathrm { ~ \\textcircled { C } ~ } , 0 . 1 6 \\mathrm { ~ \\textcircled { C } ~ }$ ;Ⅲ态则偏低$0 . 2 2 ~ \\mathrm { ^ { \\circ } C }$ 。年代际变化中I态70年代转为正距平；Ⅱ态与气候标准态（V态)90年代转为正距平；Ⅲ态21世纪转为正距平。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用不同气候态对天山地区年平均降水量进行分析，4种气候态下年际变化趋势相似且I态 $> \\mathbb { I }$ 态 $> \\mathbb { N }$ 态 $>$ Ⅲ态，但年代际距平变化具有差异性。天山北坡I态与Ⅱ态80年代转为正距平，Ⅲ态21世纪初转为正距平，气候标准态(IV态)90年代转为正距平。天山东段I态与Ⅱ态80年代转为正距平，Ⅲ态90年代转为正距平,21世纪又转为负距平，V态80年代转为正距平。天山南坡I态70年代转为正距平，Ⅱ态、Ⅲ态与V态90年代转为正距平。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ceabb592c7973513498fd926be56dc2f427d8f3ae0af1dabc383796d2c227854.jpg",
+        "img_caption": [
+            "图4天山地区不同气候态下年平均气温的变化",
+            "Fig.4Variation of annual temperature under different climate states in the Tianshan Mountains "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "与V态相比，在I态与Ⅱ态情况下气温要素与降水要素的分析结果均偏高，Ⅲ态下分析结果则偏低。在气候业务中如果使用1态、Ⅱ态和Ⅲ态年为基本气候态，则在分析气候变化过程中会使其强度增加或减小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2气候态变化对气候检测的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同气候态的差异会对气候检测产生影响。通过M-K方法对天山不同区域气温和降水的4种气候态进行突变检测，发现降水突变不明显，而气温在不同气候态下突变起始时间受到气候态变化的影响，对气候检测的结果各不相同，若以V态的突变时间为基准，整体上I态没有突变，Ⅱ态出现突变偏早，Ⅲ态出现突变偏迟",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如图5所示，自20世纪90年代开始，年平均气温呈明显的上升趋势。根据UF和UB的交点，不同气候态突变点发生时间各不相同。I态和Ⅱ态年平均气温没有超过置信水平线,故没有发生突变，在Ⅲ态和V态下UF超过置信水平线，且在信度区间内有交点，可以确定天山北坡20世纪90年代的增暖是一种突变，Ⅲ态突变年在1997年，而V态突变年",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为1995年。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由6可知，从20世纪80年代中后期开始，年平均气温呈明显的升高趋势,根据UF和UB的交点，不同气候态突变点发生时间各不相同。I态年平均气温没有超过置信水平线，故没有发生突变;在Ⅱ态、Ⅲ态和V态下UF超过置信水平线，且在信度区间内有交点，故天山东段20世纪80 年代中后期的增暖是一种突变，Ⅱ态突变年在1983年和1987年，Ⅲ态突变年在1998年，而IV态突变年为1995年。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图7可见，从20世纪90年代开始，年平均气温上升明显，根据UF和UB的交点，不同气候态突变点发生时间各不相同。1态和Ⅱ态年平均气温没有超过置信水平线，故没有发生突变，在Ⅲ态和V态下UF超过置信水平线且在信度区间内有交点，可以确定Ⅲ态突变年在1995年和1997年，而IV态突变年为1993年。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3气候态变化对气候评估的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.1气温年降水等级变化图8采用3种不同气候态分析天山各区年平均气温等级会使气温等级出现偏大和偏小两种变化趋势。I态情况下，天山北坡出现气温偏小一级的概率为 $4 7 . 3 \\%$ ，天山东段出现偏小二级和偏小一级的概率分别为 $1 4 . 6 \\%$ ！",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e75bd7e1d2aa413c6cb93e7c45ff07797e3dc34ddcdd6a2c684bec303f7cffeb.jpg",
+        "img_caption": [
+            "图5天山北坡不同气候态年平均气温的M-K突变检验"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.5M-Kmutationtestofannual temperatureunderdiferentclimaticstatesonnorthern slopeof theTianshan Mountains ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/561c7cf1d99263b7b31c2c39b90f0baaddae948494cf00146381ae1cfe6a6728.jpg",
+        "img_caption": [
+            "图6天山东段不同气候态年平均气温的M-K突变检验"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.6M-K mutation test of annual temperature under diferent climatic states in the east Tianshan Mountains ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/abfdb2ea7ba3f343dde9ed5b9687793c5115586e027595cdd5e470e3013209f4.jpg",
+        "img_caption": [
+            "图7天山南坡不同气候态年平均气温的M-K突变检验",
+            "Fig.7M-Kmutationtestofannual temperatureunderdiferentclimaticstatesonsouthern slopeoftheTianshan Mountains "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$4 1 . 8 \\%$ ，天山南坡出现偏小二级和偏小一级的概率为 $3 . 7 \\%$ $4 9 \\%$ 。 $\\mathbb { I }$ 态情况下，天山北坡出现气温偏小一级的概率为 $2 1 . 9 \\%$ ,天山东段出现偏小一级的概率为 $3 2 . 7 \\%$ ,天山南坡出现偏小一级的变化概率为 $2 5 . 5 \\%$ 。Ⅲ态情况下，天山北坡出现气温偏大一级的概率为 $2 3 . 6 \\%$ ,天山东段出现偏大一级的概率分别为 $3 4 . 5 \\%$ ，天山南坡出现偏小一级的概率为$3 8 . 2 \\%$ 。这与中国气温出现跃变有关。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/08f67b32671f4d5b2681be95b2e32dcfda877f8df4b6245242d7710632278a24.jpg",
+        "img_caption": [
+            "图8天山地区不同气候态下出现气温等级及降水等级改变的频率差异",
+            "Fig.8Thefrequencydiferencesof temperaturelevelandprecipitationlevelintheTianshanMountainsunderdiferentclimatestate "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "天山各区年降水量等级变化，1态和Ⅱ态使降水等级出现偏小的变化，Ⅲ态使降水等级出现偏大的变化趋势。I态情况下，天山北坡与东段降水偏小一级的概率均为 $20 \\%$ ,天山南坡偏小一级的概率为 $3 6 . 4 \\%$ 。 $\\mathbb { I }$ 态情况下，只有天山北坡出现气温偏小一级,概率为 $7 . 3 \\%$ ,天山东段与天山南坡未出现。Ⅲ态情况下，天山北坡出现偏大一级的概率为$1 2 . 7 \\%$ ,天山东段出现偏大一级的概率为 $3 . 6 \\%$ ，天山南坡出现偏大一级的概率为 $20 \\%$ 。在不同气候态的使用过程中，I态和 $\\mathbb { I }$ 态会使气温和降水等级偏小，而Ⅲ态会使气温和降水等级偏大。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3.2异常气温等级的差异通过分析1961—2015年天山各区历年平均气温的异常等级(表3）发现，采用I态分析平均气温异常等级时，气温异常偏高等级出现的频率增加，除天山南坡外，异常偏低等级的出现频率均减小。Ⅱ态除天山南坡外，气温异常偏高等级出现的频率增加，而异常偏低等级出现频率减小；Ⅲ态只有天山南坡气温异常偏高等级出现的频率减少，天山北坡与天山东段概率不变，而天山东段和天山南坡异常偏低等级出现频率增加，天山北坡异常偏低等级出现的概率不变。目前使用的气候态(Ⅲ态)会使天山南坡气温异常偏高概率减小，使天山东段与天山南坡气温异常偏低的概率增加，但较使用过的前两种气候态对气温异常产生的影响最小。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4极值变化趋势分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "世界气象组织的规定：当气候要素的时、日、月、年值达到25年一遇或者与相应的30a平均值之差大于标准差的2倍时，就认为发生极端天气气候事件。在气候工作中进行极值变化相关分析，选取不同气候态很可能会影响气候分析结果。通过分析不同气候态下1961—2015年天山地区平均气温极值概率偏差(表4)发现，在 $> 2 \\sigma$ 的概率偏差中，使用I态分析气象要素时，除天山东段年平均降水量无变化外，其余气象要素极值概率均增加，其中天山东段年平均气温概率最大。使用Ⅱ态分析时，只有天山北坡年平均气温和天山东段年平均气温概率增加,其余要素概率无变化。使用Ⅲ态分析时，只有天山南坡年平均气温和天山北坡年降水量概率减小,其余要素概率无变化。在 $< 2 \\sigma$ 的概率偏差中，在1态下，天山北坡和南坡年平均气温和天山南坡年降水量出现极端低温的概率减少。在Ⅱ态下，天山北坡和南坡年平均气温出现极端低温的概率减小，天山东段年降水量出现极端低温的概率增加，其余各要素不变。在Ⅲ态下，天山东段和南坡年平均气温及天山东段年降水量出现极端低温的概率增加，其余各要素不变。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由此可见，在进行极值变化分析时，3种不同气候态在分析天山各区同时期同类要素时，既呈现出正向变化，也出现负向变化，这将对气候分析工作产生一定影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/6eefd6e5deef714397ccd4999e050200450dcf01281cb93e33b809cfa4ffeedc.jpg",
+        "table_caption": [
+            "表3天山地区不同气候态下气温异常等级变化频率差值 Tab.3Differences of the change frequency of abnormal temperature grades in the Tianshan Mountains under different climatic states "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">区域</td><td colspan=\"3\">异常偏高/%</td><td colspan=\"3\">异常偏低/%</td></tr><tr><td>I态</td><td>Ⅱ态</td><td>Ⅲ态</td><td>I态</td><td>Ⅱ态</td><td>Ⅲ态</td></tr><tr><td>天山北坡</td><td>10.60</td><td>1.82</td><td>0</td><td>-3.64</td><td>-1.82</td><td>0</td></tr><tr><td>天山东段</td><td>12.73</td><td>5.45</td><td>0</td><td>-3.64</td><td>-3.64</td><td>1.82</td></tr><tr><td>天山南坡</td><td>7.27</td><td>0</td><td>-1.82</td><td>0</td><td>0</td><td>5.45</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表4气温在不同气候态下极值概率的偏差",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/1ac55fb52e1fc0a7b30cd6237914a6a9cb3aed08ec07d96e9c4ab8c150b8c53c.jpg",
+        "table_caption": [
+            "Tab.4Differences of the extreme value probability under different climate states "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">不同区域 气候因子</td><td colspan=\"3\">>2g 的概率偏差/%</td><td colspan=\"3\"><-2g 的概率偏差/%</td></tr><tr><td>I态</td><td>Ⅱ态</td><td>Ⅲ态</td><td>I态</td><td>Ⅱ态</td><td>Ⅲ态</td></tr><tr><td>天山北坡年平 均气温</td><td>9.09</td><td>1.82</td><td>0</td><td>-3.63</td><td>-1.82</td><td>0</td></tr><tr><td>天山东段年平 均气温</td><td>12.73</td><td>5.45</td><td>0</td><td>-3.63</td><td>-3.63</td><td>1.82</td></tr><tr><td>天山南坡年平 均气温</td><td>5.45</td><td>0</td><td>-1.82</td><td>0</td><td>0</td><td>3.63</td></tr><tr><td>天山北坡年平 均降水量</td><td>3.63</td><td>0</td><td>-1.82</td><td>0</td><td>0</td><td>0</td></tr><tr><td>天山东段年平 均降水量</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1.82</td><td>3.63</td></tr><tr><td>天山南坡年平 均降水量</td><td>1.82</td><td>0</td><td>0</td><td>-1.82</td><td>0</td><td>0</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）不同区域年平均气温和年降水量的I态、Ⅱ态、Ⅲ态均值呈现一致的增加趋势。年平均气温I态、Ⅱ态、Ⅲ态之间的转化，天山东段的增幅大于天山北坡和南坡，年降水量增加幅度天山北坡最大，天山南坡次之，天山东段最小。天山东段和天山北坡分别是年平均气温标准差和年降水量标准差差异较大的地区。天山东段是不同气候态下气温变化的敏感区，而天山北坡是年降水变化的敏感区。以V态为基准，在I态与Ⅱ态情况下气温要素与降水要素的分析结果均偏高，Ⅲ态下分析结果偏低。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（2）通过M-K方法对天山不同区域气温和降水的4种气候态进行突变检测，发现降水突变不明显，而气温在不同气候态下，突变起始时间受到气候态变化的影响，对气候检测的结果各不相同，若以M态的突变时间为基准，整体上I态没有突变、Ⅱ态出现突变偏早，Ⅲ态出现突变偏迟。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3）在不同气候态的使用过程中，I态和Ⅱ态会使气温和降水等级偏小，而Ⅲ态会使气温和降水等级偏大。在分析异常气温和降水时，采用不同气候态对降水异常没有影响，Ⅲ态会使天山南坡气温异常偏高概率减小，使天山东段与天山南坡气温异常偏低的概率增加。但较使用过的前两种气候态，其对气温异常产生的影响最小。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（4）采用世界气象组织对极端气候事件的定义探讨天山地区极值变化时，3种不同气候态在分析天山各区同时期同类要素时，既呈现出正向变化，也出现负向变化，这将对气候分析工作产生一定影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在气候变暖的大背景下，分析天山地区气候变化时使用不同的30a气候基准态会强化气候变暖产生的影响，会使得气候评价结果出现一定程度的偏差，特别是对极端气候事件的监测分析。故而在后期的气候变化研究中，建议使用不断更新的更长时间序列的气候平均态，以便更加客观地描述气候变化的趋势。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]林婧婧.气候变暖背景下我国气候态变化对气候检测、评估和 监测的影响[D].兰州：兰州大学,2015.［Lin Jingjing.The Influence of the Climate States Change on Climate Assessment,Detection and Monitor over China under the Background of Climate Warming[D].Lanzhou:Lanzhou University,2015.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[2]林婧婧，张强.中国气候态变化特征及其对气候变化分析的影响[J].高原气象,2015,34（6）:1593-1600.[Lin Jingjing,Zhang Qiang.Characteristics of China climate states change and itsimpact on the analysis[J].Plateau Meteorology,2015,34（6）：1 593 -1600.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[3]王劲廷,马振峰,杨小波,等.新旧气候平均值的差异及其对西 南气候业务的影响[J].高原山地气象研究，2014，34（1）：46- 50.[Wang Jinting,Ma Zhenfeng,Yang Xiaobo,et al.Difference of two 3O years averages and its influence on operational climatic analysis[J].Plateau and Mountain Meteorology Research,2O14,34 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1):46-50.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[4]房一禾,赵春雨,王颖,等.新、旧气候态的差异及对东北地区 气候业务的影响[J].气候变化研究进展，2016，12（3）：193- 201.[Fang Yihe,Zhao Chunyu,Wang Ying,etal.The difference between new and old climatic stage and its influence on climatic operation in the Northeast China[J].Progressus Inquisitiones DE Mutatione Climatis,2016,12(3）:193-201.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[5]林婧婧，张强.中国西北地区气候态变化对极端天气监测的影 响[J].中国沙漠,2016,36(6）:1 659-1 666.[Lin Jingjing, Zhang Qiang.Influence of climate state change to weather extreme monitoring in Northwest China[J].Journal of Desert Research, 2016,36(6):1 659-1666.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[6]雷向杰,黄祖英,田武文，等.两个30 年气候平均值的差异及其对气候业务的影响[J].气象科技，2005，33（2）：124-127.[Lie Xiangjie,Huang Zuying,Tian Wuwen,et al.Difference of two30-year averages and its influence on operational climatic analysis[J].Meteorological Science and Technology,2005,33（2）:124-127.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[7]王永光.多年平均值的改变对中国气候业务的影响[J].气象, 2002,28（8）:41-43.[Wang Yongguang.The influences of normals change upon climate operation of China[J].Meteorological Monthly,2002,28（8):41-43.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[8]赵宗慈，罗勇，王绍武,等.全球变暖中的科学问题[J].气象与环境学报,2015,31（1）：1-5.[Zhao Zongci,Luo Yong,WangShaowu,et al.Science issues on global warming[J]. Journal of Me-teorology and Environment,2015,31（1）:1-5.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[9]秦大河,Thomas Stocker.IPCC 第五次评估报告第一工作组报告的亮点结论[J].气候变化研究进展，2014，10（1）：1-6.[QinDahe,Thomas Stocker.Highlights of the IPCC forking group Ififth assessment report[J].Progressus Inquisitiones DE MutationeClimatis,2014,10（1):1-6.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[10]赵宗慈，王绍武，罗勇.IPCC成立以来对温度升高的评估与预 估[J].气候变化研究进展,2007,3（3）：183-184.[Zhao Zongci,Wang Shaowu,Luo Yong.Assessments and projections of temperature rising since the establishment of IPCC[J].Progressus Inquisitiones DE Mutatione Climatis,2007,3(3）:183-184.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[11］张正勇，刘琳，唐湘玲.近50 年我国天山山区降水变化区域差 异及突变特征[J].干旱区资源与境,2013,27（7)：85－90. [Zhang Zhengyong,Liu Lin,Tang Xianglin,et al.The regional difference and catastrophe of precipitation change in Tianshan Mountains in recent5O years[J].Journal of Arid Land Resources and Environment,2013,27(7):85-90.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[12]王文静，延军平，刘永林.新疆旱涝气候的南北差异性分析 [J].干旱区研究,2016,33（3）：609-618.[WangWenjing,Yan Junping,Liu Yonglin.Difference of drought/flood disasters in Xinjiang[J].Arid ZoneResearch,2016,33（3）:609-618.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[13]邢武成，李忠勤，张慧，等.1959年来中国天山冰川资源时空变 化[J].地理学报,2017,72(9）:1594-1605.[XingWucheng, Li Zhongqin,Zhang Hui,et al.Spatial-temporal variation of glacier resources in Chinese Tianshan Mountains since 1959[J].Acta Geographica Sinica,2017,72(9）:1594-1605.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[14]李江风.新疆气候[M].北京：气象出版社,1991.[Li Jiangfeng Climateof Xinjiang[M].Beijing:Meteorology Press,1991.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[15]吕婷，武胜利，刘强吉，等.1952—2013年吐鲁番市极端气温变化规律研究［J].干旱区研究，2018，35（3）：606-614.［LvTing,Wu Shengli,Liu Qiangji,etal.Variationsof extreme tempera-ture in Turpan City,Xinjiang during the period of 1952-2013[J].Arid Zone Research,2018,35(3） :606-614.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[16]刘伟,姜逢清，李小兰.新疆气候变化的适应能力时空演化特征[J].干旱区研究,2017,34（3）：531-540.［LiuWei,JiangFengqing,Li Xiaolan. Spatiotemporal evolution of adaptive capacityto climate change in Xinjiang[J].Arid Zone Research,2O17,34(3):531-540.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[17]张山清，普宗朝,李新建,等.气候变化对天山北坡经济带设施 农业气候适宜性的影响[J].中国农业气象,2016,37（5）： 495-5O4.[Zhang Shanqing,Pu Zongchao,Li Xinjian,et al. Impact of climate change on facility agriculture climatic suitability in economic belt on North Slope of Tianshan Mountains in Xinjiang [J].Chinese Journal of Agrometeorology,2016,37（5）:495- 504.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[18]陈亚宁，李稚，方功焕,等.气候变化对中亚天山山区水资源影 响研究[J].地理学报,2017,72（1）：18-26.[Chen Yaning,Li Zhi,Fang Gonghuan,et al.Impact of climate change on water resources in the Tianshan Mountians,Central Asia[J].Acta Geographica Sinica,2017,72(1）:18-26.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[19]姚俊强，杨青，韩雪云，等.气候变化对天山山区高寒盆地水资 源变化的影响——以巴音布鲁克盆地为例[J].干旱区研究， 2016,33(6):1167-1173.[Yao Junqiang,Yang Qing,Han Xueyun,et al.Impact of climate change on surface water resources in alpine basin in the Tianshan Mountains:A case study in the Bayanbuluk Basin[J].Arid Zone Research,2016,33（6）:1 167- 1 173.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[20]沈永平，苏宏超，王国亚，等.新疆冰川、积雪对气候变化的响 应Ⅱ.灾害效应[J].冰川冻土，2013，35（6)：1355-1370 [Shen Yongping,Su Hongchao,Wang Guoya,et al.The responses of glaciers and snow cover to climate change in Xinjiang II.Hazards effects[J].Journal of Glaciology and Geocryology,2013,35 (6):1 355-1370.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[21]黄晓然,包安明,郭浩,等.近20a中国天山东段典型冰川变化 及其气候响应[J].干旱区研究，2017，34（4）：870－880. [Huang Xiaoran,Bao Anming,Guo Hao,et al.Change of typical glaciers and its response to meteorological factors in the eastern Tianshan Mountains in China in recent 2O years[J].Arid Zone Research,2017,34(4):870-880.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[22]刘友存，焦克勤，赵奎，等.中国天山地区降水对全球气候变化 的响应[J].冰川冻土,2017,39（4）：748-759.[Liu Youcun, Jiao Keqin,Zhao Kui,et al. The response of precipitation to global climate change in the Tianshan Mountains,China[J].Journal of ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Glaciology and Geocryology,2017,39（4） :748-759.][23]国家气候中心.全国气候影响评价[M].北京：气象出版社，2014.［National Climate Center.The National Evaluation of Cli-matic Influence[M].Beijing:Meteorological Press,2014.]",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Effects of Different Climate States on Climate Change in the Tianshan Mountains and Neighbouring Areas ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ZHOU Ling1,2，SUN Hui-lan1•²，YANG Yu-hui'²，MA Qian $^ { 1 , 2 }$ ， WU Shan-shan1,²， ZHOU Yong-chao1,2 (1.Collge ofGeographical Scienceand Tourism，Xinjiang Normal University，Urumqi 83oo54,Xinjiang,China; 2.Study Center for Belt Urban Development along Silk Road Economic Belt，Xinjiang Normal University， Urumqi 830054,Xinjiang,China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Inthis paper，the efects of diffrent climatic states on climate change in the Tianshan Mountains were discussed based on the data of monthly temperature and precipitation from 26 meteorological stations during the period from 1961 to 2O15.The purposes of this study were to provide more scientific and objective bases for monitoring，assessing and studying climate change in the study area. Research shows are as follows : $\\textcircled{1}$ The east Tianshan Mountains was a sensitive region to the temperature change under different climatic conditions，and the northern slope of the mountains was a sensitive region to annual precipitation change.Based on referring the change of $\\mathrm { I V }$ state during the period of $1 9 6 1 - 2 0 1 5$ ，the analyzed results of temperature elements and precipitation elements under State I（1961 -1990）and State $\\mathbb { I }$ （1971 -2000）were higher，but those under State II（1981 - 2010） were lower; $\\textcircled{2}$ By taking the mutation time of $\\mathbb { N }$ state as the criterion，there was holistically no mutation of temperature under State I，but the mutation of temperature under State $\\mathbb { I }$ became earlier and that under State $\\mathbb { I }$ became later ; $\\textcircled{3}$ The grades of temperature and precipitation under State I and State $\\mathbb { I }$ were lower,but those under State $\\mathbb { I }$ were higher.There were no the effects ofdiferent climatic stateson the precipitationanomaly,and the effects of State $\\mathbb { I }$ on the temperature anomaly were the lowest； $\\textcircled{4}$ Both the positive change and negative change occurred when the diferent climatic states were used to analyze the sameelements in the Tianshan Mountains.Moreover,it is necessary to use multiple elements in making an objective evaluation on the analyzed results of climatechange using the climatic criterion. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words: climate state；climate detection；climate assessment；Tianshan Mountains ",
+        "page_idx": 9
+    }
+]

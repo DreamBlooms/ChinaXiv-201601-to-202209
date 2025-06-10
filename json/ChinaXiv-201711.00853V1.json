@@ -1,0 +1,351 @@
+[
+    {
+        "type": "text",
+        "text": "玉米干酒糟及其可溶物有效能值估测模型中定标样品选择方法的研究\"",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨　霞」　赵　峰1\\*李　珂²党方昆」张　虎」尹丽婷²张宏福1（1.中国农业科学院北京畜牧兽医研究所，动物营养学国家重点实验室，北京100193；2.新希望六和股份有限公司，北京100102）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在探讨玉米干酒糟及其可溶物（DDGS）有效能值估测模型中定标样品的选择原则。从23个玉米DDGS样品（定义为全样品库）中按酶水解物能值（EHGE）相差0.21MJ/kg左右的梯度选择9个定标玉米 DDGS 样品，定义为选择性样品库；将剩余的14个玉米DDGS 样品定义为非选择性样品库。然后，比较选择性样品库与非选择性样品库化学成分含量及变异的差异，以及通过全样品库和选择性样品库分别建立其化学成分对 EHGE 之间的回归模型，比较根据回归模型计算得到的非选择性样品库 EHGE 的差异。结果表明，选择性样品库和非选择性样品库的玉米DDGS 在粗蛋白质(CP)、粗灰分（Ash）、粗脂肪（EE）、粗纤维（CF）、中性洗涤纤维（NDF）、酸性洗涤纤维（ADF）含量及EHGE平均值上均无显著性差异（ $P { > } 0 . 0 5$ ），CP、Ash、EE、CF、ADF、NDF含量及EHGE的变异方差上均无显著性差异（ $P { < } 0 . 0 5$ ）。选择性样品库和非选择性样品库化学成分含量在第一、二主成分得分载荷分布上，选择性样品库中仅1个玉米DDGS 样品未与非选择性样品库的分布范围重叠。以选择性样品库样品建立的 EHGE 预测模型为 EHGE=(3 566+53.94×EE-32.68×NDF)×4.184/1 000（ $R ^ { 2 } { = } 0 . 7 9 8 \\ 1$ ，RSD=0.43 MJ/kg）；以全样品库样品建立的预测模型为EHGE=(3 742+29.67×EE-29.71XNDF)×4.184/1000（ $R ^ { 2 } { = } 0 . 5 3 5 0$ ，RSD=0.44MJ/kg）。由2个模型获得的非选择性样品库（ $\\scriptstyle n = 1 4$ ）玉米DDGS的EHGE计算值与其实测值的残差平均值分别为0.46 和 $0 . 3 3 \\mathrm { M J / k g }$ ，差异不显著( $. P { > } 0 . 0 5 )$ 。综上所述，在玉米DDGS 有效能值的估测建模中，以EHGE 作为定标样品的选择依据是可行的。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：玉米DDGS；酶水解物能值；定标样品中图分类号：S816.11 文献标识码： 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在饲料可消化化学成分含量的估测模型中，定标样品的选择直接影响估测模型的准确性与估测精度[1]。因此，建立定标样品的选择依据非常重要。目前，在饲料有效能值估测方程的建模中，人们通常随机采集一定数量的样品，在获得了饲料原料的化学成分数据集与有效能的实测数据后，通过逐步回归建立有效能值的估测模型[2-3]。这种建模方法可能会出现因定标样品库自变量或应变量的变异幅度小而影响模型的估测精度及稳定性[4-5]。同时，也可能出现因定标样品的变异程度不一致，而使不同学者针对同种饲料原料有效能值的估测模型在估测因子及权重上差异较大]。根据回归分析的基本原则，自变量或应变量的水平变异应呈等差距设置7,考虑到生物学法能检测到饲粮处理间鸡代谢能值的差异一般为 $0 . 2 1 { \\sim } 0 . 4 2 \\mathrm { M J / k g }$ 的经验[8]，本研究假设从23个玉米干酒糟及其可溶物（dried distiller's grains withsolubles,DDGS）（定义为全样品库）中以酶水解物能值（enzymatic hydrolyzate gross energy，EHGE）相差0.21MJ/kg左右的尺度选择的9个定标玉米DDGS（定义为选择性样品库,剩余的14个玉米DDGS样品定义为非选择性样品库）在化学成分的变异、化学成分对EHGE 的回归关系上可以代表23个玉米DDGS 的特性。为此，本研究通过比较选择性样品库与非选择性样品库在化学成分上的显著性差异与变异程度，以全样品库的主成分分析比较选择性样品库与非选择性样品库在第一、二主成分上的分布差异，以及比较以化学成分对 EHGE 的估测关系在选择性样品库与全样品库的一致性，探讨以饲料EHGE作为有效能值估测模型中定标样品的选择依据是否可行。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1饲料原料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采集来源于美国以及我国山东、河南、安徽、吉林、黑龙江等地的玉米DDGS样品23个。采用四分法取样后分为2份，一份用万能粉碎机粉碎并过40 目筛，用于化学成分检测；另一份粉碎后过60目筛，用于EHGE的测定。所有样品采用抽真空-充氮气密封，-20℃保存备用。玉米DDGS 的来源及其化学成分见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/d547253a1a96a94eafc8f02fdd25ff217ef5bc0cbf6fa7cbe0da85582a716bb4.jpg",
+        "table_caption": [
+            "表1玉米DDGS 的来源及其化学成分含量（干物质基础）",
+            "Table 1The source and chemical composition content of corn DDGS（DM basis ） "
+        ],
+        "table_footnote": [
+            "化学成分由新希望六和股份有限公司青岛质检中心测定。Chemical composition analyzed by New Hope Liuhe Co., Ltd. quality tested center (Qingdao, China). "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Taoler 项目Items</td><td rowspan=\"2\">样品编号 No. of sample</td><td rowspan=\"2\">干物 质 DM/%</td><td rowspan=\"2\">粗蛋白 质 CP/%</td><td rowspan=\"2\">粗灰分 Ash/%</td><td rowspan=\"2\">粗脂肪 粗纤维 EE/% CF/%</td><td rowspan=\"2\">p</td><td colspan=\"5\">中性洗涤 酸性洗涤</td></tr><tr><td>纤维 NDF/%</td><td>纤维 ADF/%</td><td>总能</td><td>酶水解物能值 产地 GE/(MJ/kg) EHGE/(MJ/kg) Origin</td><td></td></tr><tr><td>选择性样品</td><td>B04</td><td>89.13</td><td>30.5</td><td>5.5</td><td>12.6</td><td>6.9</td><td>30.3</td><td>8.9</td><td>22.05</td><td>13.54</td><td>黑龙江</td></tr><tr><td>库</td><td>B05</td><td>88.70</td><td>27.5</td><td>5.1</td><td>13.4</td><td>6.5</td><td>26.4</td><td>7.7</td><td>22.20</td><td>14.27</td><td>吉林</td></tr><tr><td>Selected sample</td><td>B09</td><td>90.40</td><td>29.6</td><td>4.8</td><td>12.9</td><td>6.6</td><td>27.4</td><td>7.9</td><td>22.18</td><td>13.70</td><td>吉林</td></tr><tr><td>pool</td><td>B13</td><td>90.83</td><td>27.8</td><td>6.0</td><td>12.9</td><td>6.7</td><td>32.0</td><td>9.3</td><td>22.02</td><td>13.25</td><td>吉林</td></tr><tr><td></td><td>B14</td><td>90.44</td><td>29.3</td><td>4.5</td><td>12.1</td><td>6.8</td><td>26.8</td><td>8.2</td><td>22.15</td><td>13.95</td><td>吉林</td></tr><tr><td></td><td>B17</td><td>91.09</td><td>32.2</td><td>4.2</td><td>6.5</td><td>7.5</td><td>29.9</td><td>9.0</td><td>21.33</td><td>12.39</td><td>吉林</td></tr><tr><td></td><td>B19</td><td>90.11</td><td>29.5</td><td>5.2</td><td>11.8</td><td>6.5</td><td>28.4</td><td>8.1</td><td>22.16</td><td>14.61</td><td>吉林</td></tr><tr><td></td><td>B21</td><td>89.02</td><td>29.8</td><td>4.9</td><td>9.4</td><td>7.7</td><td>30.9</td><td>9.5</td><td>22.02</td><td>12.83</td><td>吉林</td></tr><tr><td></td><td>B23</td><td>91.55</td><td>32.8</td><td>3.8</td><td>5.8</td><td>6.5</td><td>27.7</td><td>7.8</td><td>21.22</td><td>12.22</td><td>吉林</td></tr><tr><td>非选择性样 品库</td><td>B01</td><td>90.19</td><td>28.4</td><td>5.8</td><td>12.4</td><td>6.4</td><td>28.2</td><td>7.7</td><td>21.58</td><td>13.31</td><td>吉林</td></tr><tr><td>Non-selected</td><td>B02</td><td>91.34</td><td>29.6</td><td>5.5</td><td>13.4</td><td>5.9</td><td>26.1</td><td>7.3</td><td>22.09</td><td>13.84</td><td>黑龙江</td></tr><tr><td> sample pool</td><td>B03</td><td>89.86</td><td>28.6</td><td>7.4</td><td>13.3</td><td>5.9</td><td>25.5</td><td>8.5</td><td>21.96</td><td>14.35</td><td>河南</td></tr><tr><td rowspan=\"9\"></td><td>B06</td><td>91.10</td><td>28.0</td><td>4.6</td><td>13.0</td><td>7.0</td><td>27.4</td><td>7.9</td><td>22.03</td><td>13.41</td><td>吉林</td></tr><tr><td>B07</td><td>88.54</td><td>28.4</td><td>4.9</td><td>9.5</td><td>7.1</td><td>31.0</td><td>9.0</td><td>21.77</td><td>12.46</td><td>吉林</td></tr><tr><td>B08</td><td>89.90</td><td>28.4</td><td>5.0</td><td>13.6</td><td>5.9</td><td>26.5</td><td>7.6</td><td>22.30</td><td>13.75</td><td>山东</td></tr><tr><td>B10</td><td>89.51</td><td>27.4</td><td>5.4</td><td>10.8</td><td>6.2</td><td>26.5</td><td>7.9</td><td>21.65</td><td>14.32</td><td>河南</td></tr><tr><td>B11</td><td>90.36</td><td>29.5</td><td>4.8</td><td>11.5</td><td>6.6</td><td>27.2</td><td>7.8</td><td>22.12</td><td>13.73</td><td>吉林</td></tr><tr><td>B12</td><td>89.22</td><td>28.5</td><td>5.4</td><td>13.3</td><td>7.3</td><td>30.6</td><td>8.8</td><td>22.23</td><td>13.59</td><td>黑龙江</td></tr><tr><td>B15</td><td>89.12</td><td>31.2</td><td>4.7</td><td>12.7</td><td>6.8</td><td>26.7</td><td>8.7</td><td>22.46</td><td>13.60</td><td></td></tr><tr><td>B18</td><td>89.29</td><td>29.2</td><td>5.1</td><td>8.9</td><td>7.2</td><td>27.5</td><td>8.3</td><td>21.66</td><td>13.46</td><td></td></tr><tr><td>B20</td><td>90.94</td><td>29.5</td><td>5.0</td><td>11.5</td><td>6.7</td><td>26.7</td><td>7.5</td><td>21.87</td><td>13.67</td><td>吉林</td></tr><tr><td>B22</td><td>88.03</td><td>30.9</td><td>4.8</td><td>9.5</td><td>6.8</td><td>28.6</td><td>7.9</td><td>21.64</td><td></td><td>13.72 美国</td></tr><tr><td></td><td>B24</td><td>91.16</td><td>32.5</td><td>5.8</td><td>5.7</td><td>7.7</td><td>30.5</td><td>10.3</td><td>20.53</td><td>13.31</td><td>安徽</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将23个玉米DDGS 样品（全样品库）的 EHGE（EHGE 极差为 $2 . 3 9 \\mathrm { M J / k g }$ ）从低到高排列，按梯度相差 $0 . 2 1 \\mathrm { M J / k g }$ 左右的尺度选择9个定标玉米DDGS 样品，定义为选择性样品库；将剩余14个玉米",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DDGS 样品定义为非选择性样品库。首先统计全样品库、选择性样品库、非选择性样品库的化学成分含量及变异系数，并比较选择性样品库与非选择性样品库化学成分的差异显著性。然后对 23 个玉米DDGS 样品的化学成分及EHGE 进行主成分分析，检验选择性样品库与非选择性样品库的第一、二主成分得分是否重叠。最后，分别建立全样品库（23个玉米DDGS 样品）和选择性样品库（9个定标玉米DDGS 样品）的化学成分与 EHGE之间的回归模型，以此2个模型计算非选择性样品库的 EHGE，比较两者之间的差异显著性。综合上述统计分析检验基于EHGE 选择的9个定标玉米DDGS 样品是否可以代表23个玉米DDGS样品的变异情况。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3测定指标及方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "按 GB/T 6435—2014测定样品的水分并计算其干物质含量，并根据 ISO 9831:1998 的规定测定饲料样品及经仿生消化系统消化后未水解残渣的总能（GE）。饲料样品的粗蛋白质（CP）、粗灰分（Ash）、粗脂肪（EE）、粗纤维（CF）、中性洗涤纤维（NDF）、酸洗涤纤维（ADF）含量分别按照GB/T6432—1994[10]、GB/T 6438——2007[11]、GB/T 6433——2006[12]、GB/T 6434——2006[13]、GB/T 20806—2006[14]、NY/T 1459—2007[15]进行测定。EHGE 的测定参照赵峰等[16]关于单胃动物仿生消化系统（SDS-2）测定鸡饲料 EHGE 的操作过程进行。透析袋的型号与前处理、胃缓冲液、小肠前段缓冲液、小肠后段缓冲液及模拟消化液的制备按照《鸡饲料酶水解物能值测定技术规程》进行制备。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4数据处理与统计分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以 SAS 9.3的MEANS 模块对全样品库、选择性样品库、非选择性样品库中玉米DDGS 化学成分的基本统计量进行计算。根据2样本均值差异显著性的统计原理，以TTEST模块对选择性样品库与非选择性样品库的各化学成分含量差异显著性进行检验。以PRINCOMP 模块对全样品库的化学成分进行主成分分析，得出第一、二主成分组成的特征向量及选择性样品库与非选择性样品库样品主成分得分，并通过 Simca-P11.5作特征向量与主成分得分载荷图。以REG 模块的 Stepwise 选项对选择性样品库与全样品库样品的化学成分对EHGE 进行逐步回归，分别建立以化学成分估测EHGE的模型，命名为模型1、模型2。根据上述模型计算非选择性样品库玉米DDGS 的 EHGE，以MEANS 模块比较2个模型",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "EHGE计算值的差异。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1选择性样品库与非选择性样品库玉米DDGS化学成分含量的差异与变异",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表2可见，在由23个玉米DDGS 样品组成的全样品库中，根据 EHGE 分成的选择性样品库和非选择性样品库的玉米 DDGS 在CP、Ash、EE、CF、NDF、ADF 含量及 EHGE 平均值上均无显著性差异（ $. P { > } 0 . 0 5$ ）。在各化学成分含量的变异上，选择性样品库和非选择性样品库的玉米DDGS 在CP、Ash、EE、CF、ADF、NDF、GE、EHGE 的方差上无显著性差异（ $P { > } 0 . 0 5$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2全样品库、选择性样品库及非选择性样品库中玉米DDGS 的化学成分含量（干物质基础）",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/e76d789fd057b88ec5685daba72a8241371c647b23902ba4ec1212e2bec279c1.jpg",
+        "table_caption": [
+            "Table 2Chemical composition content of corn DDGS in full, selected and non-selected sample pools "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"2\">粗蛋白质 CP/%</td><td colspan=\"2\">粗灰分 Ash/%</td><td colspan=\"2\">粗脂肪 EE/%</td><td colspan=\"2\">粗纤维 CF/%</td><td colspan=\"2\">中性洗涤纤 酸性洗涤纤 维 NDF/%</td><td colspan=\"2\">维 ADF/%</td><td colspan=\"2\">酶水解物能 总能 GE/(MJ/kg）EHGE/(MJ/k</td><td colspan=\"2\">值</td></tr><tr><td>Mean</td><td>系数</td><td>Mean</td><td>平均值变异平均值变异平均值变异平均值变异 系数</td><td>Mean</td><td>系数</td><td>Mean</td><td>系数</td><td>Mean 平均值</td><td>系数</td><td>变异平均值变异平均值变异平均值变异 Mean</td><td>系数</td><td>Mean</td><td>系数</td><td>Mean</td><td>系数</td></tr><tr><td>全样品库 Full sample pool</td><td>29.5</td><td>5.22</td><td>5.1</td><td>13.81</td><td>11.2</td><td>22.34</td><td>6.7</td><td>CV 7.60</td><td>28.2</td><td>6.70</td><td>8.3</td><td>CV 8.23</td><td>21.88</td><td>CV 1.95</td><td>CV 13.54</td><td>4.54</td></tr><tr><td>选择性样品库 Selected sample pool</td><td>29.9</td><td>5.89</td><td>4.9</td><td>13.37</td><td>10.8</td><td>26.77</td><td>6.8</td><td>6.59</td><td>28.9</td><td>6.87</td><td>8.5</td><td>8.23</td><td>21.93</td><td>1.72</td><td>13.42</td><td>6.11</td></tr><tr><td>非选择性样品库 Non-selected sample pool</td><td>29.3</td><td>4.78</td><td>5.3</td><td>13.64 11.4 20.01</td><td></td><td></td><td>6.7</td><td>8.29</td><td>27.8</td><td>6.36</td><td>8.2</td><td>9.33</td><td>21.85</td><td>2.14</td><td>13.61</td><td>3.36</td></tr><tr><td>SEM</td><td>0.66</td><td></td><td>0.30</td><td></td><td>1.08</td><td></td><td>0.22</td><td></td><td>0.79</td><td></td><td>0.32</td><td></td><td>44.40</td><td></td><td>63.43</td><td></td></tr><tr><td>方差相等，P值 Equality of variances,P-valuel)</td><td>0.445</td><td></td><td>0.805</td><td></td><td>0.426</td><td></td><td>0.570</td><td></td><td>0.680</td><td></td><td>0.897</td><td></td><td>0.554</td><td></td><td>0.060</td><td></td></tr><tr><td>平均值t检验，P值 Mean t test, P-value²)</td><td>0.377</td><td></td><td>0.195</td><td></td><td>0.626</td><td></td><td>0.461</td><td></td><td>0.183</td><td></td><td>0.453</td><td></td><td>0.683</td><td></td><td>0.477</td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1)选择性样品库和非选择性样品库的方差齐次性检验。The test for equality of variances between selected sample pool and non-selected sample pool. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2)选择性样品库与非选择性样品库的各化学成分含量的 $\\mathbf { \\chi } _ { t }$ 检验统计量。The $t \\cdot$ -test statistic for chemical composition content between selected sample pool and non-selected sample pool. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 选择性样品库与非选择性样品库玉米DDGS 化学成分含量的主成分分析及得分分布",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图1、图2可见，由23个玉米 DDGS 样品的CP、Ash、EE、CF、NDF、ADF、GE及EHGE获得的第一、二主成分对总变异的贡献分别为 $5 1 . 9 7 \\%$ 和 $1 9 . 8 9 \\%$ ，两者累计占总变异的 $7 1 . 8 6 \\%$ 。第一主成分中，NDF、ADF、Ash 为主要权重因子。第二主成分中，EHGE、GE、CF、EE 为主要权重因子。选择性样品库（ $\\scriptstyle n = 9$ ）和非选择性样品库（ $n { = } 1 4$ ）在第一、二主成分得分载荷上，选择性样品库中仅1个样品（B23）在 $9 5 \\%$ 的置信区间外，得分散点图显示选择性样品库和非选择性样品库未出现明显的分组，因此，2组样品在化学成分的总体变异上是类似的。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/60ba12dbbb25accd700401c07bfc2866f947cf58c432c1138e49d7797673f14c.jpg",
+        "img_caption": [
+            "图1第一、二主成分变量的特征向量载荷",
+            "Fig.1The loadings plot of principal 1 and principal 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e3f7e91a11e1d8a524d23ad9115e90ef252168f8b314678950ebf51878dac9f1.jpg",
+        "img_caption": [
+            "图 2样品得分在第一、二主成分的载荷",
+            "g.2The scores plot of principal 1 and principal 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3 全样品库与选择性样品库玉米DDGS化学成分含量对EHGE估测模型的差异",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在 23 个玉米 DDGS 组成的全样品库中，Ash、EE 含量及GE与 EHGE 呈显著或极显著正相关关系（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ），而CP、CF、NDF含量与EHGE呈显著或极显负相关关系（ $. P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1 \\$ ）。而由9个玉米DDGS 组成的选择性样品库中，CP 含量与EHGE 呈显著负相关关系（ $_ { \\cdot \\cdot P < 0 . 0 5 }$ ），EE含量、GE 均与EHGE 呈极显著正相关（ ${ \\scriptstyle \\cdot } { \\cal P } { \\scriptstyle < } 0 . 0 1$ ），其他化学成分含量与EHGE 相关性较低。由于Ash含量与 EHGE 呈简单正相关关系不符合营养学的基本原理，因此，排除 Ash 后通过玉米 DDGS 化学成分组成对 EHGE 的逐步回归分析得出，选择性样品库的玉米DDGS 的回归模型（模型1）为 EHGE=(3566+53.94xEE-32.68xNDF）×4.184/1000（ $R ^ { 2 } { = } 0 . 7 9 8 \\ 1$ ，RSD=0.43MJ/kg），全样品库的玉米DDGS的回归模型（模型 2）为 EHGE=(3 742+29.67×EE-29.71×NDF)x4.184/1 000（ $R ^ { 2 } { = } 0 . 5 3 5$ 0，RSD=0.44MJ/kg）。2个模型中，估测因子相同。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表3全样品库与选择性样品库化学成分含量与EHEG的关系",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Table 3The relationship between chemical composition content and EHEG in fullsample pol and selected \\* mean significant correlation $( P { < } 0 . 0 5 )$ , \\*\\* mean extremely significant correlation $( P { < } 0 . 0 1 )$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/e27d679cc444969f7f6970fbca85cd143c59c883c0275ce5e4a4efbcc54be917.jpg",
+        "table_caption": [
+            "sample pool "
+        ],
+        "table_footnote": [
+            "\\*表示相关关系显著（ $P { < } 0 . 0 5$ ），\\*\\*表示相关关系极显著（ $_ { \\scriptstyle P < 0 . 0 1 }$ ）。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">简单相关系数 Simple correlation</td><td colspan=\"2\">酶水解物能值EHGE</td></tr><tr><td>全样品库 Fullsample pool (n=23)</td><td>选择性样品库 Selected sample pool (n=9)</td></tr><tr><td>coefficient 粗蛋白质CP</td><td>-0.48*</td><td>-0.72*</td></tr><tr><td>粗灰分 Ash</td><td>0.46*</td><td>0.49</td></tr><tr><td>粗脂肪 EE</td><td>0.64**</td><td>0.83**</td></tr><tr><td>粗纤维CF</td><td>-0.54**</td><td>-0.51</td></tr><tr><td>中性洗涤纤维 NDF</td><td>-0.56**</td><td>-0.42</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>-0.39</td><td>-0.42</td></tr><tr><td>总能GE</td><td>0.47*</td><td>0.85**</td></tr><tr><td>回归模型 Regression</td><td colspan=\"2\">EHGE=（3 742+29.67×EE-29.71×NDF）×4.184/1000 EHGE=（3 566+53.94xEE-32.68xNDF）×4.184/1 000</td></tr><tr><td>model 相关系数R²</td><td>0.535 0</td><td>0.798 1</td></tr><tr><td>相对标准偏差</td><td>0.44</td><td>0.43</td></tr><tr><td>RSD/(MJ/kg)</td><td></td><td></td></tr><tr><td>P值P-value</td><td>0.0005</td><td>0.0082</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表4可见，为了进一步比较2个EHGE估测模型的等效性，以非选择样品库为对象计算各样品的EHGE。结果表明，由模型1、2计算的EHGE平均值分别为13.61和 $1 3 . 6 9 \\mathrm { M J / k g }$ ，差异不显著( ${ \\cdot } P { > } 0 . 0 5 { \\rangle }$ ）由模型1获得的EHGE 计算值与实测值平均相差0.46 MJ/kg。除了B24 号样品外，单个样品相差都在0.62 MJ/kg 以内。由模型2获得的EHGE 计算值与实测值平均相差 $0 . 3 3 ~ \\mathrm { M J / k g }$ 。除了B24号样品外，单个样品的计算值与实测值相差在 $0 . 6 9 \\mathrm { M J / k g }$ 以内。模型1、2的估测标准误（SEP)分别为0.56 和0.40MJ/kg（排除B24号样品外， $\\operatorname { S E P = 0 } . 3 3$ 和 $0 . 4 4 \\mathrm { M J / k g }$ ）。上述统计结果表明，2个模型在估测玉米DDGS的EHGE 的准确性上是类似的。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/43256c31d0fff995316956f8fa8d91e8bb2606fa5c5cd744468154a903370045.jpg",
+        "table_caption": [
+            "表4非选择性样品库检验2个EHGE 估测模型的差异",
+            "Table 4Difference of two prediction models of EHGE tested by non-selected samples "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>样品编号 NO. of sample</td><td>EHGE 估测值1 Predicted EHGE1 EHGE1</td><td>EHGE 估测值2 Predicted EHGE 22</td><td>EHGE 实测值 Determined EHGE</td><td>残差1 Residual 1</td><td>残差2 Residual 2</td></tr><tr><td>B01</td><td>13.86</td><td>13.69</td><td>13.31</td><td>0.54</td><td>0.38</td></tr><tr><td>B02</td><td>14.38</td><td>14.07</td><td>13.84</td><td>0.53</td><td>0.23</td></tr><tr><td>B03</td><td>14.43</td><td>14.13</td><td>14.35</td><td>0.08</td><td>0.21</td></tr><tr><td>B06</td><td>14.10</td><td>13.86</td><td>13.41</td><td>0.69</td><td>0.46</td></tr><tr><td>B07</td><td>12.84</td><td>13.00</td><td>12.46</td><td>0.38</td><td>0.54</td></tr><tr><td>B08</td><td>14.37</td><td>14.05</td><td>13.75</td><td>0.62</td><td>0.30</td></tr><tr><td>B10</td><td>13.73</td><td>13.70</td><td>14.32</td><td>0.59</td><td>0.62</td></tr><tr><td>B11</td><td>13.80</td><td>13.70</td><td>13.73</td><td>0.07</td><td>0.03</td></tr><tr><td>B12</td><td>13.73</td><td>13.50</td><td>13.59</td><td>0.15</td><td>0.08</td></tr><tr><td>B15</td><td>14.13</td><td>13.91</td><td>13.60</td><td>0.53</td><td>0.31</td></tr><tr><td>B18</td><td>13.18</td><td>13.35</td><td>13.46</td><td>0.28</td><td>0.11</td></tr><tr><td>B20</td><td>13.86</td><td>13.77</td><td>13.67</td><td>0.19</td><td>0.10</td></tr><tr><td>B22</td><td>13.15</td><td>13.28</td><td>13.72</td><td>0.57</td><td>0.44</td></tr><tr><td>B24</td><td>12.02</td><td>12.56</td><td>13.31</td><td>1.30</td><td>0.75</td></tr><tr><td>平均值 Mean</td><td>13.69</td><td>13.61</td><td>13.61</td><td>0.46</td><td>0.33</td></tr><tr><td>估测标准误 SEP3)</td><td></td><td></td><td></td><td>0.56</td><td>0.40</td></tr><tr><td colspan=\"4\">P值P-value 0.290 5</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1 根据选择性样品库 EHGE 估测模型计算得出。Calculated by EHGE prediction model of selected sample pool. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2’根据全样品库 EHGE 估测模型计算得出。Calculated by EHGE prediction model of full sample pool. y-y)   \n3SEP= [17]。 n ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1估测模型中定标样品的选择依据 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在对饲料原料某一化学成分含量建立估测模型时，选择合适的定标样品不仅可以减少工作量，而且还能提高所建估测模型的精度和通用性[18]。在近红外光谱法估测饲料化学成分的建模（GB/T 18868—2002）中，定标样品的选择或依据光谱的每一主成分得分最大值和最小值选取定标样品，或依据光谱聚类分析后样品间 Mahalanobias 距离相差0.6 以上选取定标样品[19]。该原则选择定标样品实质上是根据多元统计分析自变量间的内在关系以降维的手段表达样品集所有自变量的整体变异，可以排除定标样品库在某一区间范围内样品数量过度集中的问题。因此，从理论上是具有很好的代表性。赵峰[20]在建立鸭对玉米代谢能值的估测模型中，为了使定标样品具有较好的代表性，在调查了427个玉米概略养分的基础上，以玉米及玉米加工副产物拟合了30个定标样品，并使定标样品集在概略养分的正态分布上与427个玉米类似。通过该定标样品集建立以EHGE 或概略养分估测的代谢能模型达到了满意的效果。然而，以该原则建立的定标样品集虽然考虑了某一化学成分的分布概率，但未考虑样品化学成分间的相关关系。Meloche 等[21]在建立肉鸡（10\\~18 日龄）对低油玉米 DDGS 代谢能值的估测模型中，虽然根据样品的EE 范围（ $3 . 1 5 \\% \\sim 1 3 . 2 3 \\%$ ）选择了15个定标样品，但是，仍出现了2个样品集中的区域（EE 含量在 $9 . 6 \\% \\sim 1 0 . 8 \\%$ 之间的样品占6个， $1 1 \\% \\sim 1 2 \\%$ 之间的样品占4个）。并且，通过该原则选择样品，并未考虑其他化学成分的变异范围是否具有代表性。本试验中,以EHGE作为玉米DDGS定标样品的选择依据，由于其与化学成分有显著的相关性，通过控制样品集 EHGE 的变异就可以间接地控制化学成分的变异。此外，从选择性样品库与非选择性样品库化学成分的差异不显著这一统计结果也表明，通过 EHGE 选择的定标样品在化学成分的差异上与未入选的样品是类似的，从而可以排除相似性样品进入定标样品库中。因此，以EHGE 为指标选择玉米DDGS 的定标样品具有可行性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2定标样品代表性的判别",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "样本的代表性指所选择的样本与样本总体在化学成分含量和生物学效应等方面的相似度。一般从统计分析的角度比较选择的样品集在考察指标符合同一概率分布的前提下，平均值、方差是否与样品总体相等来判别样品的代表性[20]。近年来，人们通过对不同来源的样品进行主成分分析，根据样品在第一、二主成分得分的载荷图直观地表述样品集是否出现分离，从而判断哪些样品属于同一类或哪些是异常样品[22-23]。因此，该方法也可以作为判断定标样品是否具有代表性的参考依据。本研究中，选择性样品库与非选择性样品库在化学成分、EHGE 的方差及平均值上均无显著性差异，并且在化学成分的第一、二主成分得分载荷分布上，2个样品库也是重叠的。这表明，选择性样品库在化学成分的含量及变异上可以代表非选择性样品库，因此，可以以选择性样品库作为定标样品。在选择性样品库与非选择性样品库化学成分含量的内在关系上，由选择性样品库建立的化学成分含量对 EHGE 的估测模型与通过全样品库建立的化学成分对EHGE的估测模型计算的非选择性样品库的EHGE无显著性差异，这表明选择性样品库化学成分与EHGE 的内在关系也可以代表非选择性样品库。综合上述3个方面，表明通过EHGE 的梯度差选择玉米DDGS 定标样品具有满意的代表性，因此，可以此作为定标样品库。4结论",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "利用玉米DDGS 样品之间EHGE 相差0.21MJ/kg 左右的原则选择的样品组成的定标样品库在化学 成分的含量与变异、化学成分含量与 EHGE 的相关性上能够代表全样品库。因此，根据 EHGE 选择玉 米DDGS有效能估测模型中的定标样品是可行的。 参考文献： [1]何锡文,郭薇.化学计量——取样学最近的进展[J].分析化学,1995,23(12):1455-1461. [2]李婷婷,蔡辉益,闫海洁,等.玉米干酒糟及其可溶物家禽表观代谢能预测模型[J].动物营养学 报,2014,26(6):1556-1562. [3]ROCHELL S J,KERR B J,DOZIER W A.Energy determination of corn co-products fed to broiler chicks from 15 to 24 days of age,and use of composition analysis to predict nitrogen-corrected apparent metabolizable energy[J].Poultry Science,2011,90(9):1999-2007. [4]CARRE B.Predicting the dietary energy value of poultry feeds[C]//WISEMAN J,COLE D J A.Feedstuff Evaluation.Guildford:Butterworths,1990:283-300. [5]ZHAO F,REN L Q,MI B M,et al.Developing a computer-controled simulated digestion system to predict the concentration of metabolizable energy of feedstuffs for rooster[J].Journal of Animal Science,2014,92(4):1537-1547. [6]URRIOLA PE,LI M,KERR B J,et al.Evaluation of prediction equations to estimate gross,digestible,and metabolizable energy content of maize dried distillers grains with solubles (DDGS) for swine based on chemical composition[J].Animal Feed Science and Technology,2014,198:196-202. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[7]袁志发,周静芋.试验设计与分析[M].北京:高等教育出版社,2000.  \n[8]DALE N M,FULLER H L.Repeatability of true metabolizable energy versus nitrogen corrected truemetabolizable energy values[J].Poultry Science,1986,65(2):352-354.[9]中华人民共和国国家质量监督检验检疫总局,中国国家标准化管理委员会.GB/T6435—2006 饲料中水分和其他挥发性物质含量的测定[S].北京:中国标准出版社,2007.  \n[10]国家技术监督局.GB/T6432—1994 饲料中粗蛋白测定方法[S].北京:中国标准出版社,1994.[11]中华人民共和国国家质量监督检验检疫总局,中国国家标准化管理委员会.GB/T6438—2007 饲料中粗灰分的测定[S].北京:中国标准出版社,2007.  \n[12]中华人民共和国国家质量监督检验检疫总局,中国国家标准化管理委员会.GB/T6433—2006 饲料中粗脂肪的测定[S].北京:中国标准出版社,2006.  \n[13]中华人民共和国国家质量监督检验检疫总局,中国国家标准化管理委员会.GB/T6434—2006 饲料中粗纤维的含量测定 过滤法[S].北京:中国标准出版社,2006.  \n[14]中华人民共和国国家质量监督检验检疫总局,中国国家标准化管理委员会.GB/T20806—2006 饲料中中性洗涤纤维(NDF)的测定[S].北京:中国标准出版社,2007.  \n[15]中华人民共和国农业部.NY/T1459—2007 饲料中酸性洗涤纤维的测定[S].北京:农业出版社,2008.[16]赵峰,张宏福,张子仪.单胃动物仿生消化系统操作手册[M].2版.北京:中国农业科学院,2011.[17]YEGANI M,SWIFT ML,ZIJLSTRA R T,et al.Prediction of energetic value of wheat and triticale inbroiler chicks:a chick bioassay and an in vitro digestibility technique[J].Animal Fed Science and  \nTechnology,2013,183(1/2):40-50.  \n[18]芦永军,曲艳玲,朴仁官,等.近红外光谱分析技术定标和预测中的相似样品剔除算法[J].光谱学与光谱分析,2004,24(2):158-161.  \n[19]中华人民共和国国家质量监督检验检疫总局.GB/T18868—2002 饲料中水分、粗蛋白质、粗纤维、",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "祖朋胁、颗氨酸、虫氨酸伏述测足近红外儿旧法[J北京:中国孙催山社,ZUU5.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[20]赵峰.用酶法评定鸭饲料代谢能的方法学研究[D].博士学位论文.北京:中国农业科学院,2006. [21]MELOCHE K J,KERR B J,SHURSON G C.et al.Apparent metabolizable energy and prediction equations for reduced-oil corn distillrs dried grains with solubles in broiler chicks from 10 to 18 days of age[J].Poultry Science,2013,92(12):3176-3183. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[22]PEDERSEN M B,DALSGAARD S,KNUDSEN K E B,et al.Compositional profile and variation of distilers dried grains with solubles from various origins with focus on non-starch polysaccharides[J].Animal Feed Science and Technology,2014,197:130-141. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[23]GALLO A,MOSCHINI M,CERIOLI C,et al.Use of principal component analysis to classify forages and predict their calculated energy content[J].Animal,2013,7(6):930-939. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Method of Selecting Calibration Samples to Establish Prediction Model for Effective Energy Values of Corn Dried Distiller's Grains with Solubles ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "YANG Xial ZHAO Feng1\\* LI $\\mathrm { K e } ^ { 2 }$ DANG Fangkun1 ZHANG $\\mathrm { H u ^ { 1 } }$ YIN Liting² ZHANG ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Hongfu1† ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1.State Key Laboratory ofAnimal Nutrition, Institute ofAnimal Sciences, Chinese Academy ofAgricultural Sciences, Beijing 100193,China; 2. New Hope Liuhe Co., Ltd., Beijing 100102,China) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The objective of this study was to investigate the rule of selecting calibration samples to establish prediction model for the effective energy of corn dried distiler's grains with solubles (DDGS). Nine corm DDGS samples were selected from 23 corn DDGS samples (defined as full sample pool) according to the enzymatic hydrolyzate gross energy (EHGE) values with an interval of about O.21 MJ/kg and defined as a ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "selected sample pool. The remaining 14 corn DDGS samples were defined as a non-selected sample pool. The content and variation of chemical composition and EHGE values were compared between selected sample pool and non-selected sample pool. The regression models to predict EHGE from chemical composition were established based on full sample pool and selected sample pool, respectively.The non-selected sample pool was used to compare the values of EHGE calculated on the models based on full sample pool and selected sample pool. The results indicated that no significant diference was observed on the content of crude protein (CP),crude ash (Ash),ether extract(EE）,crude fiber (CF), neutral detergent fiber (NDF)and acid detergent fiber (ADF) and EHGE between the corn DDGS from selected samples pool and non-selected pool $( P { > } 0 . 0 5 )$ ： Also, no significant diference was observed on coeficient of variation in CP,Ash,EE CF,NDF,ADF and EHGE between the corn DDGS from selected samples pool and non-selected pool $( P { < } 0 . 0 5 )$ . The principal component analysis showed an enormous overlapping on the score plot of principal 1 and principal 2 of selected sample pool and non-selected sample pool excluding 1 corn DDGS sample. The regression model to predict EHGE was EHGE $\\ v =$ (3 566+53.94×EE-32.68×NDF)x4.184/1 000 $R ^ { 2 } { = } 0 . 7 9 8 \\ 1$ ,RSD $\\scriptstyle 1 = 1$ 0.43 MJ/kg) for selected sample pool and EHGE $\\ c =$ (3 742+29.67×EE-29.71×NDF)x4.184/1 000（ $R ^ { 2 } { = } 0 . 5 3 5 0$ ,RSD=0.44 MJ/kg）for full sample pool, respectively. The mean residuals of calculated value and measured value of predicted EHGE of non-selected pool $( n { = } 1 4 )$ ）were 0.46 and $0 . 3 3 ~ \\mathrm { M J / k g }$ ，respectively，and no significant difference was observed( $P { > } 0 . 0 5$ ）. In conclusion, it is practicable to use EHGE to select calibration corn samples for establishing prediction models of effective energy in corn DDGS.   \nKey words: corn DDGS; enzymatic hydrolyzate gross energy; calibration samples ",
+        "page_idx": 12
+    }
+]

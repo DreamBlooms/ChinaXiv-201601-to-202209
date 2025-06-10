@@ -1,0 +1,168 @@
+# 基于SVPWM技术的单相多电平逆变器均压策略研究
+
+![](images/6dd762774abbe76a802b8db80d01bfb630836c95f1f7af7d372ec9ad3555ab08.jpg)
+
+管月女1991年生，博士研究生，研究方向为电力电子、智能电网与控制。
+
+管月李磊师贺 马爱华（南京理工大学自动化学院南京210094）
+
+摘要：多电平逆变器存在直流侧分压电容不均压问题，这会引起输出电压和电流波形畸变，使电路性能恶化或系统失控，甚至导致电平数跌落，使其失去多电平逆变器原有的诸多优点。本文分析了单相三电平正激隔离逆变器的直流侧不均压问题，并提出一种基于单相SVPWM技术的均压策略。该均压策略不增加原逆变器拓扑复杂度，仅在 SVPWM控制中加入判断环节，即可实现分压电容均压目的。最后经仿真实验验证了该均压策略可靠性，仿真实验在PowerSimulation环境下进行。
+
+关键词：均压策略多电平逆变器 单相SVPWM中图分类号：TM464
+
+# Capacitor Voltage Balancing Strategy Based on SVPWM Technology for Single-Phase Mutil-Level Inverters
+
+Guan Yue Li LeiShi He Ma Aihua (Nanjing University of Science and TechnologyNanjing 210094 China ）
+
+![](images/f62e5aa2541f1fdc9aa481fb5377b71361c964981150201599c55a550db8af80.jpg)
+
+李磊男1975年生，副教授、博士生导师，研究方向为电力电子与电力传动、智能电网与控制。
+
+Abstract: DC capacitor voltage unbalance causes the distortion of output voltage wave and the degenerate of voltage levels in multi-lever inverters.This issue of singlephase three-level inverter is analyzed and a voltage balancing control strategy based on single-phase SVPWM is proposed. This control strategy realizes the voltage balancing without any auxiliary circuit by choosing switching patterns and deciding their duration appropriately. The reliability and validity of this control strategy have been verified by the simulation results which carried in the Power Simulation environment.
+
+Keywords: Voltage balance strategy, multi-level inverter, single-phase SVPWM
+
+# 1 引言
+
+逆变电路中直流分压电容不均压的问题会引起输出电压和电流波形畸变，使电路性能恶化甚至导致系统失控[-2]，致使电平数出现跌落，使多电平逆变器失去其原有的诸多优势。对于单相的三电平逆变器直流侧均压问题，主要有两种解决方案[3-7]．一是增加硬件电路。提高分压电容的容值或并联大功率电阻。这一种方案简单有效，但降低了能量密度；二是改变控制方法。滤除调制波直流分量或监测电容电压进行前馈控制，而这增加了电路复杂程度。得益于SVPWM技术，三相逆变电源系统取得了良好的逆变控制效果[8-11]，文中将 SVPWM技术应用于单相逆变系统中，以期使其获得与三相逆变器相同的效果。
+
+本文在理论分析中点电压偏移的基础上，提出一种基于单相SVPWM控制的均压策略，只需在控制方法上添加选择环节，通过选择合理的开关电压矢量及其作用时间，即可在不增加电路复杂程度的前提下，有效地实现均压目的。
+
+# 2 单相SVPWM均压原理
+
+本文以单相三电平逆变桥为例，对均压原理进行说明。逆变器拓扑结构如图1所示。
+
+![](images/8161d767fcd6ac501da8fa04b5035290fbe3485db2f73c2fa87a65962c1a5311.jpg)  
+图1单相三电平逆变桥  
+Fig.1Single-phase three-level inverter
+
+$S _ { \mathrm { a } }$ 、 $S _ { \mathrm { b } }$ 分别代表a、b两相开关管状态，可取值为1，0，-1，分别对应a点或b点电位为 $U _ { \mathrm { d c } } / 2$ F0、 $- U _ { \mathrm { d c } } / 2$ 的三种状态。则两相工作在不同开关状态时，a、b两点间存在5种不同电势差 $U _ { \mathrm { a b } }$ ，按其值的大小分为5种电压矢量，见表1。
+
+由基尔霍夫电流定律，图1中三电平电路各连 接点满足： $i _ { c 1 } = - i _ { 2 }$ 和 $i _ { c 2 } = i _ { c 1 } - i _ { 1 }$ 。
+
+假定直流侧电压源恒定，则两分压电容电压偏 移量之和为0，且两分压电容容值相等，均为 $C$ 同时考虑到电容电压与电流的关系，故有
+
+表15种电压矢量及其对应的九种开关状态  
+Tab.1Five voltage vectors and nine corresponding switch states   
+
+<html><body><table><tr><td>电压矢量</td><td>Uab</td><td>S，Sb</td></tr><tr><td>Uo</td><td>0</td><td>0，0 1,1</td></tr><tr><td>U</td><td>Udc</td><td>-1,-1 1,-1</td></tr><tr><td>U2</td><td>Ud/2</td><td>1,0</td></tr><tr><td></td><td></td><td>0，-1</td></tr><tr><td>U3</td><td>-Ud/2</td><td>0,1</td></tr><tr><td>U4</td><td>-Udc</td><td>-1,0 -1，1</td></tr></table></body></html>
+
+$$
+i _ { c 1 } + i _ { c 2 } = C \Bigg ( \frac { \mathrm { d } U _ { c 1 } } { \mathrm { d } t } + \frac { \mathrm { d } U _ { c 2 } } { \mathrm { d } t } \Bigg ) = 0
+$$
+
+得出
+
+$$
+i _ { c 1 } = \frac { 1 } { 2 } i _ { 1 } \qquad i _ { c 2 } = - \frac { 1 } { 2 } i _ { 1 }
+$$
+
+根据电容能量公式，直流侧电容偏移总能量为
+
+$$
+\varDelta = \frac { 1 } { 2 } C \left[ \left( U _ { c 1 } - \frac { U _ { \mathrm { d c } } } { 2 } \right) ^ { 2 } + \left( U _ { c 2 } - \frac { U _ { \mathrm { d c } } } { 2 } \right) ^ { 2 } \right]
+$$
+
+式中， $U _ { \mathrm { c } }$ 为直流侧两分压电容中点电压。
+
+可知 $\varDelta \geqslant 0$ 。该值越大，则总偏移量就越大。若想实现均压，则必须使 $\varDelta$ 朝向减小方向变化。
+
+$$
+\frac { \mathrm { d } \varDelta } { \mathrm { d } t } { = } C \Bigg [ \Bigg ( \Delta U _ { c 1 } \frac { \mathrm { d } U _ { c 1 } } { \mathrm { d } t } \Bigg ) + \Bigg ( \Delta U _ { c 2 } \frac { \mathrm { d } U _ { c 2 } } { \mathrm { d } t } \Bigg ) \Bigg ]
+$$
+
+$$
+\begin{array} { l } { = \Delta U _ { { \mathrm { { c l } } } } i _ { { \mathrm { { c l } } } } + \Delta U _ { { \mathrm { { c 2 } } } } i _ { { \mathrm { { c 2 } } } } } \\ { = i _ { 1 } ( U _ { \mathrm { { c } } } - U _ { \mathrm { { d c } } } / 2 ) } \end{array}
+$$
+
+在选取电压矢量合成目标矢量时，只需始终选取能够使 $\mathrm { d } \boldsymbol { \varDelta } / \mathrm { d } t \leqslant 0$ 的电压矢量，即可实现均压目的。零矢量和全矢量为平衡无关矢量。只有1/2矢量 $( V _ { 2 } , \ V _ { 3 } )$ 作用时，不同的冗余矢量对中点电压有影响，故通过选取合适的冗余矢量，即可在保持输出电压不变的条件下，实现均压。
+
+式中， $U _ { \mathrm { c } }$ 可以通过采样中点电压值得到。对于充电电流，考虑到电平数较少(仅为三电平)，故可以通过定性分析得到不同开关状态下的电流相对大小，无需监测拓扑电流。
+
+以图1中变压器一次电感电流 $i _ { N 1 }$ 为参考，分析不同开关状态下的电容充电电流与 $i _ { N 1 }$ 的关系，见表2。
+
+表2 $i _ { 1 }$ 、 $i _ { N 1 }$ 及开关状态间的关系  
+Tab.2The relationship between $i _ { 1 }$ and $i _ { N 1 }$ under different switch states   
+
+<html><body><table><tr><td>开关状态</td><td>i与im关系</td><td>i正负</td></tr><tr><td>1,0</td><td>i=-iN1</td><td>1</td></tr><tr><td>0,-1</td><td>i=iN1</td><td>+</td></tr><tr><td>0,1</td><td>i=iN</td><td></td></tr><tr><td>-1,0</td><td>i=-im</td><td>+</td></tr></table></body></html>
+
+此时，根据采样得到的中点电压与理论中点电压值的比较结果，判断所需的 $i _ { 1 }$ 的正负，直接选取对应的开关状态。这样，在合成所需电压矢量的过程中不断判断最优矢量，即可实现均压目的。
+
+# 3 SVPWM波形的形成
+
+SVPWM控制方式是用在三相电网中的控制方式，与其类比即可得到单相SVPWM控制原理。5种不同长度的电压矢量将二维平面分为4个区域，再引入虚拟旋转矢量，从图2中 $\beta$ 轴负半轴星号处开始逆时针旋转，则其在 $\mathbf { a }$ 轴的投影 $\nu _ { \mathrm { a } }$ 为待合成的期望电压矢量。
+
+![](images/2ee576f26d8d810551eade2867dd1ba8a7455cbd3f49909e3bf586f698de2af6.jpg)  
+图2虚拟旋转电压矢量图  
+Fig.2Space voltage vectors for single-phase there-lever inverter   
+图4不均压导致电平数退化  
+Fig.4Level number degradation due to voltage imbalance without voltage balancing control
+
+通过比较 $\boldsymbol { V } _ { \mathrm { a } }$ 与各电压矢量的大小，即可判断其所在区域，利用该区域两个电压矢量，并合理设置矢量作用时间即可合成期望电压矢量。
+
+考虑到开关状态的切换可能会导致谐波损耗增加等问题，本文采用对称的分段式控制，如图3所示，在区域一和区域四中，采用1/2矢量、1矢量、1矢量、1/2矢量的作用顺序；在区域二和区域三中，采用0矢量、1/2矢量、0矢量、0矢量、1/2矢量、0矢量的作用顺序。
+
+![](images/38b51d611e181086ea0fb6a42f439198bf4e4ca55f5f193b7a09d58027756003.jpg)  
+图3 SVPWM波形示意图  
+Fig.3Switch state waveform in sector 1 and 2
+
+# 4 仿真结果及分析
+
+为了验证本文提出的均压策略的正确性，搭建了PowerSimulation仿真模型，模型关键参数为：直流电源为 $2 2 0 \mathrm { V }$ ，直流侧分压电容容值为 $2 2 0 \mu \mathrm { F }$ ，输出滤波电感 $1 5 0 \mu \mathrm { H }$ ，输出滤波电容 $1 2 5 \mu \mathrm { F }$ ，负载电阻 $1 0 \Omega$ 。取调制比 $M$ 为0.8。
+
+文中所提出的拓扑，若不采用均压策略，可能会产生某一电容一直放电直至其电压为0的状况，导致三电平退化成两电平，如图4所示。可见多电平逆变器直流侧均压问题不仅影响输出电压质量，更会导致电平数退化，使得多电平拓扑失去其多电平本来的优点。
+
+电电电电 300   
+200 YYYYI   
+100   
+0   
+-100   
+-200   
+-300   
+0 0.02 0.04 0.06 0.08 0.10 t/s
+
+图5为采用本文提出的单相多电平逆变器SVPWM均压策略后，滤波器前端电压及分压电容电压波形。从图中可以看出，采取了该均压策略后，可以保证输出完美的三电平。两分压电容电压始终保持在 $U _ { \mathrm { d c } } / 2$ 左右。验证了本文提出的均压策略的正确性。图6给出直流侧两分压电容端电压波形图，并标出了最大值和最小值，分别为110.567V和 $1 0 9 . 4 3 1 \mathrm { V }$ 。与理论值110V偏差仅为 $0 . 5 1 \%$ 和$0 . 3 9 \%$ 。
+
+电自医电医器 300  
+/审 WWWWv  
+-300  
+0 0.02 0.04 0.06 0.08 0.10t/s
+
+![](images/b59153704e56acb6c729e1c775403c1df01350c4216f9bc98fb78875c6bbf3f5.jpg)  
+图5滤波器前端电压及分压电容电压波形  
+Fig.6The waveform of the two capacitors
+
+图7中可以看出，本文提出的均压策略对两分压电容端电压的调节作用。当某一分压电容在电路中充当电压源时，不可避免会发生电压下降，此时，控制电路中选择利于中点电压向 $U _ { \mathrm { d c } } / 2$ 发展的开关矢量调节两电容电压，使之在理论值附近小范围波动。滤波后的电压波形如图8所示。可见本文提出的均压控制方法有效。
+
+![](images/813f086e372f980b46c19d84a862fa5594a5eabc66f2e485d7b1450c5256701d.jpg)  
+图6直流侧分压电容电压波形  
+图7两分压电容电压放大波形  
+Fig.7Two capacitors voltage amplification waveform
+
+图9给出了输出电压波形的FFT分析，可以看出该均压策略实现均压的同时并未降低输出电压波形质量。
+
+![](images/4787da0d6e755e8fee464ac8403135200ba26bc01bdb122682d6e016a9dde55e.jpg)  
+图8输出电压波形
+
+![](images/947b5e0b4fb60b122a8b67d6219dc86cde538d0796c2a41e44b77753e8d6a446.jpg)  
+Fig.5Output voltage waveform before filter and two capacitors voltage   
+Fig.8Output voltage waveform   
+图9输出电压波形FFT分析Fig.9FFT of output voltage waveform
+
+# 5 结论
+
+多电平逆变器中直流侧分压电容不均压问题不仅影响输出波形，还会导致电平数退化，致其失去多电平优点。文中提出的基于单相SVPWM均压策略，通过在每个开关周期选择合适的开关矢量及其作用时间，简单而有效地解决了单相三电平逆变器直流侧均压不平衡的问题，具有实用性和可推广性。
+
+# 参考文献
+
+[1] 陈丽兵，史丽萍．链式SVG直流侧电容均压控制 策略的研究[J]．电力电子技术，2013，47(12)： 45-47. Chen Libing,Shi Liping. Research on DC voltage balance control strategy for cascaded SVG[J].Power Electronics,2013,47(12): 45-47.   
+[2] 石祥花，许津铭，谢少军．三电平中点钳位变换 器电容电压自平衡机理与均压控制策略[J]．电力 系统自动化，2014，38(7)：95-100. Shi Xianghua,Xu Jinming,Xie Shaojun.Natural capacitor voltage balancing mechanism and voltage balance strategies for 3L-NPC inverters [J]. Automation of Electric Systems,2014,38(7):95- 100.   
+[3] 李继华，阮新波，王学华．级联型多电平逆变器 线电压谐波优化的SVPWM策略[J]．电工技术学 报，2014，29(6)：120-128. Li Jihua,Ruan Xinbo,Wang Xuehua.A SVPWM strategy with optimal line-to-line voltage harmonic spectrum for cascaded multilevel inverters[J]. Transactions of China Electrotechnical Society, 2014,29(6): 120-128.   
+[4] 李凯锋，朱春毅，邢卫宏，等．基于gh坐标系的 三电平变频器 SVPWM混合调制策略[J]．电气应 用，2016，35(9)：20-24.   
+[5] Verne SA,Gonzalez SA,Valla MI.An optimization algorithm for capacitor voltage balance of $n$ -level diode clamped inverters[C].IEEE Industrial Electronics Conference, Orlando,2008:3201-3206.   
+[6] Liu Z, Liu B, Duan S,et al.A novel DC capacitor voltage balance control method for cascade multilevel STATCOM[J].IEEE Transactions on Power Electronics,2012,27(1):14-27.   
+[7] Lai Y S, Chou YK, Pai SY. Simple PWM technique of capacitor voltage balance for three-level inverter with DC-link voltage sensor only[C]. IEEE Industrial Electronics Conference,the 33rd Annual, Taipei, 2007: 1749-1754.   
+[8] 赵辉，胡仁杰．SVPWM的基本原理与应用仿真[J]. 电工技术学报，2015，30(14)：350-353. Zhao Hui,Hu Renjie.Space vector pulse width modulation and it's simulation based on simulink[J]. Transactions of China Electrotechnical Society. 2015,30(14): 350-353.   
+[9] Guang Z,Y B,Zhong Y R.Cascaded multilevel STATCOM DC capacitor voltage balance method based on CPS-PWM[C]. IEEE Power Engineering and Automation Conference,Wuhan,2011:276-278.   
+[10] 朱海锋，舒泽亮，高仕斌．二极管籍位五电平变 换器的直流均压SVPWM快速算法[J]．电力自动 化设备，2013，33(11)：38-43. Zhu Haifeng,Shu Zeliang,Gao Shibin.Fast SVPWM algorithm with DC voltage equalization for five level diode-clamped converter[J].Electric Power Automation Equipment.2013,33(11): 38-43.   
+[11] 易龙强，戴瑜兴．SVPWM技术在单相逆变电源中 的应用[J]．电工技术学报，2007，22(9)：112- 117. YiLongqiang,Dai Yuxing.SVPWM technique applied to single-phase inverter power[J].Transactions of China Electrotechnical Society. 2007,22(9):112- 117.

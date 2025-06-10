@@ -1,0 +1,461 @@
+[
+    {
+        "type": "text",
+        "text": "滴灌量对冬小麦田间小气候及产量的影响研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张娜张永强 徐文修 \\*\\* 件妮平 吴培杰 程雪峰 张波",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(新疆农业大学农学院 乌鲁木齐 830052)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要为优化北疆滴灌冬小麦灌溉定额，探究不同滴灌量与冬小麦田间小气候及产量的关系，大田试验滴灌条件下，采用单因子随机区组试验设计，研究了 $3 \\ 0 0 0 \\ \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 } ( \\$ 处理TA)、 $3 \\ 7 5 0 \\ \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 }$ （处理TB)、 $4 \\ 5 0 0 \\ \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 }$ (处理 TC)3个不同灌水量对冬小麦地下 $1 5 \\ \\mathrm { c m }$ 处土壤温度、冠层温度、湿度、旗叶胞间 $\\mathrm { C O } _ { 2 }$ 浓度 $( C _ { \\mathrm { i } } )$ 、大气$\\mathrm { C O } _ { 2 }$ 浓度 $( C _ { \\mathrm { a } } )$ 、棵间蒸发量及产量的影响。结果表明：随着灌水量的增大，冬小麦生育后期灌水的土壤温度降温效应增强，不同处理间地温差异分别达 $1 . 0 9 ^ { \\circ } \\mathrm { C }$ (处理TA与处理TB)、 $1 . 6 1 \\ \\mathrm { { ^ \\circ C } }$ (处理TA与处理TC)、 $0 . 5 2 ~ \\mathrm { ^ { \\circ } C }$ （处理TB与处理TC)。随灌水量增大，冠层温度减小，湿度增大，处理间最高冠层温差达 $3 . 6 8 \\mathrm { ~  ~ { ~ C ~ } ~ }$ ，棵间蒸发、 $C _ { \\mathrm { i } }$ 均随灌水量增大先减小后增大。整个生育期内 $C _ { \\mathrm { a } }$ 则随滴灌量的增大基本呈逐渐降低趋势，产量则先升后降，在 $3 7 5 0 \\mathrm { ~ m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 灌水量时最高，达 $8 9 7 1 . 6 6 \\mathrm { \\ k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，较低灌水量(处理 TA)、高灌水量(处理 TC)分别增产$20 . 5 5 \\%$ 和 $6 . 8 6 \\%$ 。进一步将上述各要素分别与产量、灌水量进行相关性分析可知，地温、冠层温度均与产量、灌水量之间存在显著性负相关关系，冠层湿度与灌水量呈极显著性正相关，胞间 $\\mathrm { C O } _ { 2 }$ 浓度与产量呈极显著负相关性。本试验条件下，北疆冬小麦滴灌定额为 $3 \\ 7 5 0 \\ \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 时，麦田冠层温、湿度适宜，棵间蒸发量小，产量最高，可供大田生产实践参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词滴灌量冬小麦冠层温度冠层湿度棵间蒸发产量中图分类号：S512.1 文献标识码：A 文章编号：1671-3990(2016)01-0064-10",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effect of different drip irrigation amounts on microclimate and yield of winter wheat ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Na, ZHANG Yongqiang, XU Wenxiu\", WU Niping, WU Peijie, CHENG Xuefeng, ZHANG Bo (College of Agronomy, Xinjiang Agricultural University, Urumqi 830o52, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractInrecent years,drip irrigation technology has been widelyused in Xinjiang.This has especiallybeenthecase for high-intensitycrops like wheat,regardedasarevolution inirrgation technology.Despite this,problems havepersisted nthe useofdripirigationtechnologyinfield productionsuchas highamountsofirigationandincreasedirrigationtimes.Basedon the problems ofdripirigation technologyin Xinjiang,field experiments wereconducted inYiningCounty,thenortherregion of Xinjiang,toidentifytheeffectsofdiferentamountsofdripirrigationonthemicro-climateandyieldofwinterwheat,nd to provided reference for design of optimal drip irrigation amount of winter wheat.Three amounts of drip irrigation, $3 \\ 0 0 0 \\ \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 }$ （20 (TA), $3 \\ 7 5 0 \\ \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 }$ (TB) and $4 \\ 5 0 0 \\ \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 }$ (TC), were set in a randomized block experimental design. Different indicators were observed under diferent treatments,including soil temperature,canopy temperature,canopy humidity,atmosphere $\\mathrm { C O } _ { 2 }$ concentration $( C _ { \\mathrm { a } } )$ , soil evaporation, as well as leaf intercellular $\\mathrm { C O } _ { 2 }$ concentration $( C _ { \\mathrm { i } } )$ leaf, yield and yield components of wheat.Theresults showedthat increasingamountofirigationremarkably decreased soil temperatureat thelate growth stage of winter wheat. There were differences in temperature among the treatments, with $1 . 0 9 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ， $1 . 6 1 ~ \\mathrm { { ^ \\circ C } }$ and $0 . 5 2 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ differences, respectively,betwee TAandTB,TAandTC,andTBandTCtreatments.Withincreasing irrigation,canopytemperatureof wheat decreased whereas canopy humidity increased.The differences in the highest canopy temperature reached $3 . 6 8 \\ { } ^ { \\circ } \\mathrm { C }$ （20 between TA and TC.Both soil evaporation and $C _ { \\mathrm { i } }$ initially increased and then decreased,while $C _ { \\mathrm { a } }$ decreased throughout the growth stagewith increasingdripirigation.Yieldinitiallydecreasedandthnincreasewithincreasingiigationvolume.Itreached $8 ~ 9 7 1 . 6 6 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ under TB condition,which was $20 . 5 5 \\%$ higher than that of TA and $6 . 8 6 \\%$ higher than that of TC.Also a significant negative correlation was noted between soil temperature and yield,canopy temperature and yield,and $C _ { \\mathrm { i } }$ and yield. However,there wasastrong positivecorelationbetweencanopyhumidityand irrigation.It was therefore recommended that $3 \\ 7 5 0 \\ \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 }$ was the appropriate irrgation quantity for winter wheat in northern Xinjiang. This provided theoretical and practical bases for the development of a proper drip irrigation technology in the northern area of Xinjiang. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeywordsDrip irrigation amount; Winter wheat; Canopy temperature; Canopy humidity; Soil evaporation; Yield ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "农田小气候，一般是指农田近地面 $( 0 { \\sim } 2 \\mathrm { ~ m } )$ 气候及 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土壤层中的光、热、水、气各气象要素状况，它是以作物为下垫面的一种特殊的小气候，是植物光合作用不可缺少的能量和物质[1]，其特点不仅与所种植作物的种类、密度、群体长势及长相等有关，还受到不同农业技术措施的影响，种植方式、土壤覆盖、施肥、灌溉等因子均会对农田小气候产生影响[2-6]，而人工调控农田小气候的主要措施之一可通过灌溉来实现，它可在一定程度上改变农田的辐射平衡与水分平衡，从而影响土壤温度、作物群体冠层温度、湿度的分布。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "相关研究表明：常规灌溉条件下，灌溉可以提高田间最低气温 $0 . 1 { \\sim } 0 . 6 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ，减少 $_ { 1 \\sim 2 \\mathrm { ~ h ~ } }$ 的 $\\leqslant 0 \\ \\mathrm { { \\leqslant C } }$ 气温持续时间，引起 $1 5 \\ \\mathrm { c m }$ 与 $2 0 ~ \\mathrm { c m }$ 处的土壤温度差异[7]，且冠层温度随着含水量的增加整体呈下降趋势[8]。另有研究表明，喷灌使作物冠层附近温度较低且湿度较大，改变了田间小气候[9-10]，有效抑制了水分的蒸腾蒸发[11-12]，但因其存在蒸发漂移损失和冠层截留损失，在是否节水这一问题上国内一直存在较大争议。近年来，随着灌溉方式的改进，滴灌因高效节水、省工省时、增产等巨大优势，其应用面积不断扩大，学者对这一研究领域内容也不断丰富，包括对小麦耗水规律[13]、生长[14-15]、干物质积累与分配、光合特性[16-18]、根系分布[19]以及对水分利用效率及产量[20-21]的影响等方面，但以上研究多集中于对作物本身的影响，并未涉及对滴灌麦田田间小气候的影响。本文以密植作物冬小麦为研究对象,探讨不同滴灌量对其田间小气候的影响，以期为探寻冬小麦更为节水的灌溉量提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1试验区概况与研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验区概况 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验于 2014 年在新疆伊犁哈萨克自治州伊宁县农业科技示范园 $( 4 4 ^ { \\circ } \\mathrm { N } , ~ 8 1 ^ { \\circ } \\mathrm { E }$ ，海拔 $8 1 3 \\mathrm { ~ m } ,$ 进行。该试验区位于伊犁河谷中部，属中温带干旱型内陆山地气候，年平均日照可达 $2 ~ 8 0 0 { \\sim } 3 ~ 0 0 0 ~ \\mathrm { ~ h ~ }$ ，全年无霜期 $1 6 9 { \\sim } 1 7 5 \\ \\mathrm { ~ d ~ }$ ，多年平均降水量 $2 5 7 ~ \\mathrm { m m }$ ，试验年间冬小麦生育期(2013年10月20日至2014年7月10 日)内降雨量为 $2 3 7 . 2 \\ \\mathrm { m m } _ { \\circ } \\ 0 { \\sim } 2 0 \\ \\mathrm { c m }$ 土壤耕层的养分含量为有机质 $1 5 . 6 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ，碱解氮 $6 9 . 6 ~ \\mathrm { \\ m g { \\cdot } k g ^ { - 1 } }$ ，速效磷 $2 . 5 ~ \\mathrm { m g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ ，速效钾 $7 8 . 5 \\ \\mathrm { m g { \\cdot } k g ^ { - 1 } }$ 。试验地前茬作物为春玉米。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 田间试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用单因子随机区组试验设计，供试冬小麦品种为当地普遍种植的‘伊农20号'，播前结合整地基施磷酸二铵 $2 7 0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。播后为保证出苗统一滴水$3 0 0 ~ \\mathrm { \\ m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，至拔节前不予灌水；小麦拔节后，根据冬小麦需水特性及当地气候条件，共设置3个滴灌量处理(表1)，分别为 $3 ~ 0 0 0 ~ \\mathrm { { m } } ^ { 3 } { \\cdot } \\mathrm { { h m } } ^ { - 2 }$ （处理TA）、$3 \\ 7 5 0 \\ \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { h } \\mathrm { m } ^ { - 2 }$ （处理TB) $4 ~ 5 0 0 ~ \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 }$ (处理TC)，各处理均重复4次。小区面积 $3 0 \\mathrm { m } ^ { 2 } ( 5 \\mathrm { m } { \\times } 6 \\mathrm { m } )$ ，各小区进水口由水表控制灌水量，不同小区间设置 $1 \\mathrm { ~ m ~ }$ 宽的隔离带以防止水分外渗。各处理氮肥(尿素)均随水滴施，至灌浆期滴施4次，共计施氮量 $2 2 5 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/e4f88913c4934403c4607049542527732ec9037cc95fcef1698aabcab8ea50cb.jpg",
+        "table_caption": [
+            "表1不同处理冬小麦不同发育期的滴灌量Table 1Amounts of drip irrigation of different treatments at different winter wheat growth stages $\\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 }$ （20"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>处理 Treatment</td><td>拔节—孕穗期 Jointing-booting stage</td><td>孕穗—抽穗期 Booting-tasselling stage</td><td>抽穗一扬花期 Tasselling-flowering stage</td><td>扬花—灌浆期 Flowering-filling stage</td><td>总灌水量 Total water amount</td></tr><tr><td>TA</td><td>1000</td><td>600</td><td>600</td><td>800</td><td>3000</td></tr><tr><td>TB</td><td>1250</td><td>750</td><td>750</td><td>1000</td><td>3 750</td></tr><tr><td>TC</td><td>1500</td><td>900</td><td>900</td><td>1200</td><td>4 500</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 测试指标与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 地温的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "于冬小麦滴灌拔节水前，每个处理选取2个小区，将测量精度可达 $0 . 3 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 的以色列产MicroLite-U盘型温度记录仪埋入测定小区冬小麦行间地下 $1 5 \\ \\mathrm { c m }$ 处测定地温，每隔 $3 0 \\ \\mathrm { m i n }$ 自动记录1次，至小麦成熟后取出。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 冠层温、湿度的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用英国LascarEL-USB-2型温湿度记录仪，自小麦抽穗期开始，于各处理选择群体长势一致的具有代表性的小麦5株，基本上每隔7d选择晴朗无风的天气，测定选定点小麦冠层2/3处的温湿度，避开裸地的影响，记录时间为北京时间10:00—20:00,至小麦开花后 $2 6 \\textup { d }$ 结束测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.3 冬小麦旗叶胞间 $\\mathbf { C O } _ { 2 }$ 浓度与大气 $\\mathbf { C O } _ { 2 }$ 浓度的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "自冬小麦挑旗开始，于各处理每个小区随机选取长势一致冬小麦5株并标记，采用英国PPSystems公司的CARIS-2型便携式光合仪分别在孕穗期、开花期、灌浆期、蜡熟期的某一晴天于11:00—13:00测定标记小麦旗叶的胞间 $\\mathrm { C O } _ { 2 }$ 浓度 $( C _ { \\mathrm { i } } )$ 及大气$\\mathrm { C O } _ { 2 }$ 浓度 $( C _ { \\mathrm { a } } )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.4 棵间蒸发的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用微型蒸渗仪测定，蒸渗仪用内径 $1 0 \\ \\mathrm { c m }$ 、壁厚 $5 \\ \\mathrm { m m }$ 、高 $1 5 \\ \\mathrm { c m }$ 的PVC管做成。每次取土时将其垂直压入滴灌冬小麦滴灌带带侧第1、第2行间土壤内，各处理每个小区分别布置微型蒸渗仪2个，使其顶面与地面齐平，取原状土，然后用自封袋封底，另用内径为 $1 2 \\ \\mathrm { c m }$ 的PVC管做成外套，固定于行间，使其表面与附近土壤持平，操作时不致破坏周围土体结构。每隔2d用精度为 $\\mathbf { 0 . 0 1 } \\ \\mathrm { ~ g ~ }$ 的电子天平称重，两天内的重量差值即为蒸发量，称重时间为北京时间11：00。为保持测试精度，使蒸渗仪内部土壤水分与周围土壤一致，内部土体每3\\~5d更换一次，降雨或灌水后立即更换土体。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.5 产量的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "于冬小麦成熟期，各处理随机选取长势一致的3个点，量取 $1 . 1 1 \\ \\mathrm { m } { \\times } 0 . 6 \\ \\mathrm { m }$ 进行实收计产；另选取各处理小区滴灌带同侧具有代表性的小麦10株，全部收割后进行室内考种，主要测量其穗长、穗粒数、千粒重等指标。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 数据分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "运用MicrosoftExcel2010与DPS6.5软件进行数据统计与分析，方差分析采用LSD法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1不同滴灌量处理冬小麦 $\\mathbf { 1 5 \\ c m }$ 土壤温度和冠层温、湿度的变化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 冬小麦 $\\mathbf { 1 5 \\ c m }$ 土壤温度动态变化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如图1所示，自冬小麦拔节至成熟，各灌水处理土壤温度整体变化趋势一致，均表现为波动上升，受到植株长势、地面覆盖度及气温等因素的共同影响，冬小麦生育后期土壤温度大幅提高，最高可达$2 5 . 0 \\mathrm { ~ \\textdegree C }$ 。不同灌水处理对冬小麦 $1 5 \\ \\mathrm { c m }$ 处土壤温度的影响不同，随着冬小麦的生长，地温呈前期增高、后期降低的趋势，且这种降温作用在生育后期表现较为明显。随着灌水量的增大，冬小麦 $1 5 \\ \\mathrm { c m }$ 处土壤温度处理 $\\mathrm { T A } >$ 处理 $\\mathrm { T B } >$ 处理TC，且处理TA与处理TB、处理TC均呈显著性差异 $( P { < } 0 . 0 5 )$ 。自冬小麦开花至成熟期，不同处理间温差最高达 $2 . 9 8 \\mathrm { ~ \\ } ^ { \\circ } \\mathrm { C }$ 不同处理两两比较，温差分别达 $1 . 0 9 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ (处理TA与处理TB)、 $1 . 6 1 \\ \\mathrm { { ^ \\circ C } }$ (处理TA与处理TC)、 $0 . 5 2 \\mathrm { ~ \\textdegree C }$ （处理TB与处理TC)，这说明增加灌水量可有效降低冬小麦后期土壤温度，对防止冬小麦因灌浆期温度过高而减产具有积极作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d289c0809f6915fb40c6f889e189d07834b3abd63513e16eecadf7c7ae729e07.jpg",
+        "img_caption": [
+            "图1不同滴灌量处理冬小麦 $\\mathbf { 1 5 \\ c m }$ 土壤温度逐日动态变化 Fig.1Dynamic changes ona daily basis of $1 5 \\ \\mathrm { c m }$ soil temperature of winter wheat under different drip irrigation treatments "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecoagri.ac.cn ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 冬小麦冠层温、湿度动态变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对不同供水水平冬小麦冠层温度平均值作比较，自抽穗期开始，各生育时期不同灌水处理冠层温度随生育进程总体呈上升趋势(图2A\\~E)，至花后 $2 6 \\textup { d }$ 冠层平均温度最高可达 $3 7 . 2 8 \\mathrm { ~ \\ ^ { \\circ } C }$ 。对各处理冠层温度的日变化进行分析可知，各生育时期各处理冠层温度日变化均呈“凸\"型，且在16:00左右达到峰值,其日平均值表现为：处理 $\\mathrm { T A } >$ 处理 $\\mathrm { T B } >$ 处理TC，处理间最大温差达 $3 . 6 8 \\mathrm { ~  ~ { ~ C ~ } ~ }$ ，呈现出随滴灌量增大，作物冠层温度降低的趋势。进一步分析冬小麦各生育时期冠层湿度的日变化可知，在抽穗期至花后26d的测定期间，随着冬小麦生育进程的推进，各处理冬小麦冠层日湿度平均值整体变化均呈现先升高后降低的趋势，但在各个生育时期，各处理的冠层湿度日变化与冠层温度的日变化恰好相反，呈“凹\"型变化趋势，并在16:00左右达到谷底，各处理间冠层湿度白变化呈现出随着灌水量的增大而增大。由此表明，灌水能够起到调节作物冠层温、湿度的良好作用，因此，可通过适当增大冬小麦生育后期灌水量来缓解由于干热风造成的减产效应。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cab740d608a6653fe1a9252a8d4aade1ca77cf2b1dda6d0d15ee2b2deee3a879.jpg",
+        "img_caption": [
+            "图2不同滴灌量处理冬小麦抽穗期(A)、开花期(B)和花后7d(C)、14d(D)和26d(E)冠层温度、湿度日变化 Fig.2Dynamicchangesonadailybasisofanopytmperatureandhumdityattasellingstage (A),foweringstage (B),nd7(C), 14 (D)and 26 (E) days after anthesis of winter wheat under different drip irigation treatments "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 不同滴灌量处理冬小麦旗叶胞间 $\\mathbf { C O } _ { 2 }$ 浓度 $( C _ { \\mathrm { i } } )$ 与大气 $\\mathbf { C O } _ { 2 }$ 浓度 $( C _ { \\mathbf { a } } )$ 的变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "处理冬小麦旗叶不同生育时期胞间 $\\mathrm { C O } _ { 2 }$ 浓度总体均呈现出不断升高的趋势，而大气 $\\mathrm { C O } _ { 2 }$ 浓度则表现为先升后降的变化，不同处理均在开花期达到峰值，继而下降。在各生育时期，随着滴灌量的增大，各处理冬小麦旗叶胞间 $\\mathrm { C O } _ { 2 }$ 浓度均呈现先减小后增大，且处理TA与处理TB、处理TC呈极显著差异。同时，除蜡熟期以外，大气 $\\mathrm { C O } _ { 2 }$ 浓度均随滴灌量的增大呈持续降低的变化趋势，且不同处理间均达显著或极显著差异水平，这可能是因为增大灌水量相应提高了冬小麦群体的光合速率，更快地吸收了周围的 $\\mathrm { C O } _ { 2 }$ ，致使大气中 $\\mathrm { C O } _ { 2 }$ 浓度降低。由此可知，灌水量偏低偏高均不利于叶片吸收同化 $\\mathrm { C O } _ { 2 }$ ，适量灌水则在一定程度上增强了叶片吸收同化 $\\mathrm { C O } _ { 2 }$ 的能力，提高其光合速率，有利于光合产物的积累。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "■TAOTBTC350 300 ■TAOTBTC aA BAB aA.bAB 450 400 aAbAbA aAabAbA aAbAbA aAaAaAOO回 250 工 0O 3002050 100 AB AB 250 15050 1000 0孕穗期 开花期 灌浆期 蜡熟期 孕穗期 开花期 灌浆期 蜡熟期Booting Flowering Filling Dough Booting Flowering Filling Dough生育时期 Growth stage",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3不同滴灌量处理冬小麦棵间蒸发的变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.1农田蒸散量与冬小麦棵间蒸发逐日变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过对冬小麦返青后农田蒸散与不同处理棵间蒸发逐日变化分析可知(图4)，冬小麦田间蒸散量与各处理棵间蒸发均在灌水或降雨后有所升高，农田蒸散量在灌浆初期(6月4日左右)达到峰值，日蒸散量高达 $6 . 3 9 \\ \\mathrm { m m } { \\cdot } \\mathrm { d } ^ { - 1 }$ ，棵间蒸发量则在灌浆中期达最大值，棵间日蒸发量平均 $0 . 9 3 \\ \\mathrm { \\ m m } { \\cdot } \\mathrm { d } ^ { - 1 }$ ，占该时期田间蒸散量的 $3 3 . 6 3 \\%$ 。不同灌水处理之间，孕穗期(5月11日)以前，主要受到冬小麦叶面积指数的影响随着灌水量的增大，棵间蒸发量表现出：处理 $\\mathrm { T C } >$ 处理 $\\mathrm { T B } >$ 处理TA，抽穗期(5月12日)至灌浆前期(6月4日)表现为：处理 $\\mathrm { T A } >$ 处理 $\\mathrm { T C } >$ 处理TB，这是因为当叶面积指数较大时，植株间郁闭程度较好，此时，适当增大灌水量降低了冬小麦群体的冠层温度，使其保持有较高的冠层湿度，相对抑制或减弱了棵间蒸发的作用，从而减少了无效水分的散失。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 冬小麦棵间蒸发日变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如图5所示，不同生育时期不同滴灌量处理棵间蒸发日变化均呈现单峰变化趋势，峰值均出现在一天中的14:00—16:00时段；拔节期、灌浆期、蜡熟期不同处理棵间蒸发量变化均表现为处理 $\\mathrm { T C } >$ 处理 $\\mathrm { T B } >$ 处理TA，孕穗期、开花期则表现为处理 $\\mathrm { T A } >$ 处理 $\\mathrm { T C } >$ 处理TB，这是因为冬小麦生长前期叶面积较小，后期叶片干枯脱落、功能叶少，植株间遮蔽不大，部分土地裸露，此时棵间蒸发主要受表层土壤含水量的影响，灌水量越大，土壤表层含水率越高，棵间蒸发量也随之加大，而孕穗期、开花期处于冬小麦生长旺盛期，叶面积指数大，遮蔽效果好，故棵间蒸发量相对较小。由此可知，保持作物合理的叶面积指数、在冬小麦生育前期、后期适当减少灌水量、灌水时时间选择在蒸发量较小的18:00以后均可以起到减小棵间蒸发的作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1f310fe1c1793f09e105433ca7d162a16250d8d9c94f88b11d9ab797193df527.jpg",
+        "img_caption": [
+            "图4不同滴灌量处理冬小麦农田蒸散量(ET)与棵间蒸发逐日变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c911218b454988adf84bacc326a6677f277bc91e295724bffedd3c840dcc0a42.jpg",
+        "img_caption": [
+            "Fig.4Dynamicchangesofdailyevapotranspiration(ETandsoilevaporationofwinterwheatunderdiferentdripirigationtreatment 图中断点处为当天降雨或灌水。The breakpoints of the figure are the days of rainfall or irrigation. ",
+            "图5冬小麦不同生育时期各滴灌量处理棵间蒸发日变化5Diurnal variationofsoil evaporation atdiferent winter wheat growth stages under diferentdrip irrigationtreatments"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4 地温、冠层温、湿度及棵间蒸发与冬小麦产量的关系",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，不同灌水量处理冬小麦产量及其产量构成因素均随灌水量的增大呈先升后降的趋势。不同处理有效穗数、产量均达极显著性差异水平；随灌水量增加，单穗粒数显著增加，平均增大4粒·穗，继续增大灌水量，单穗粒数增加不显著；在灌水量为 $3 7 5 0 \\mathrm { ~ m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 时小麦产量最高，达 $8 \\ 9 7 1 . 6 6 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，较低灌水量、高灌水量分别增产 $20 . 5 5 \\%$ 和 $6 . 8 6 \\%$ 。进一步分析地温、冠层温、湿度、棵间蒸发、细胞间及大气 $\\mathrm { C O } _ { 2 }$ 浓度与产量、灌水量的相关关系可知(表3)，地温、冠层温度均与产量、灌水量之间存在显著性负相关，冠层湿度与灌水量间呈极显著性正相关，胞间 $\\mathrm { C O } _ { 2 }$ 浓度与产量呈极显著性负相关，其余要素与产量、灌水量之间无显著相关性。这说明可通过灌水来改变地温、冠层温湿度，进而影响小麦细胞间以及大气 $\\mathrm { C O } _ { 2 }$ 浓度从而协调它们与产量之间的关系，达到节水增产的目的。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/5e8f8648bb42d89a9cbdf174462b9bd50fe698d361a4ddc115522f1ebf450908.jpg",
+        "table_caption": [
+            "表2不同滴灌量处理冬小麦产量及产量构成因素的比较 Table 2Comparison of yield and yield components of winter wheat under different drip irrigation treatments "
+        ],
+        "table_footnote": [
+            "同列不同小写和大写字母分别表示差异显著 $( P { < } 0 . 0 5 )$ 和极显著 $( P { < } 0 . 0 1 \\dot { ] }$ 。Different small and capital letters mean significant difference at $P <$ ).05 and $P < 0 . 0 1$ levels, respectively. "
+        ],
+        "table_body": "<html><body><table><tr><td>处理 Treatment</td><td>有效穗数 Number of productive ear (104.hm-2)</td><td>单穗粒数 Kernels per spike</td><td>干粒重 1000-grain weigh (g)</td><td>产量 Yield (kg·hm-2)</td></tr><tr><td>TA</td><td>648.47±4.18cC</td><td>29.49±2.22bB</td><td>45.26±2.45c</td><td>7 441.99±5.70cC</td></tr><tr><td>TB</td><td>660.26±3.62aA</td><td>33.61±1.39aA</td><td>47.01±2.76ab</td><td>8 971.66±5.23aA</td></tr><tr><td>TC</td><td>652.47±6.64bB</td><td>32.41±1.26aA</td><td>46.14±1.80bc</td><td>8 395.94±6.09bB</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/eb4bd684bf4dddd6d47f4032c29974908d67a159e27eccd225f32901dc69a0c6.jpg",
+        "table_caption": [
+            "表3各要素与冬小麦产量及灌水量的相关关系比较 3Comparison ofcorelation coefficients between yield and various elements,and drip irrigation amount "
+        ],
+        "table_footnote": [
+            "\\*在 $P { < } 0 . 0 5$ 水平显著相关; $^ { * * }$ 在 $P { < } 0 . 0 1$ 水平显著相关。\\*:Significant correlation at $P < 0 . 0 5$ $^ { * * }$ : Significant correlation at $P < 0 . 0 1$ "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>地温 Soil temperature</td><td>冠层温度 Canopy temperature</td><td>冠层湿度 Canopy moisture</td><td>棵间蒸发 Evapotranspiration</td><td>胞间CO浓度 Intercelhta ch0</td><td>大气CO浓度 AtmosehereCO2</td></tr><tr><td>产量Yield</td><td>-0.736*</td><td>-0.761*</td><td>0.568</td><td>0.234</td><td>-0.998**</td><td>0.884</td></tr><tr><td>灌水量 Irrigation amount</td><td>-0.987*</td><td>-0.980*</td><td>0.998**</td><td>0.909</td><td>-0.665</td><td>-0.943</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3 讨论与结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "土壤温度的高低可直接影响土壤水分的运移与作物吸收，最终影响作物产量。大量研究表明[22-25],覆盖种植对农田土壤温度能够起到不同程度的调节作用，从而减轻高温或低温对作物生长发育造成的危害。但鲜有研究将灌溉与土壤温度的关系加以阐明。本研究表明，通过灌水同样可以达到调节地温的良好作用。滴灌条件下，适当增大灌水量对冬小麦生育后期降温效应明显，有助于减轻开花至灌浆期的高温危害，从而达到增加穗粒数与粒重的效果。本研究表明，不同滴灌量水平下，随灌水量增大，平均降温幅度达 $1 . 0 7 \\ \\mathrm { ^ { \\circ } C }$ ，增产 $6 3 5 . 9 6 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "冠层温度与小麦生长发育状况关系紧密，与冬小麦产量遗传的相关系数高达0.8以上[26]。有研究指出，漫灌条件下，冬小麦灌浆中后期冠层温度每升高 $1 \\ \\mathrm { { ^ \\circ C } }$ ，产量下降 $2 8 0 \\ \\mathrm { \\ k g \\cdot h m } ^ { - 2 [ 2 7 ] }$ ；此外，随着灌浆进程的推移，小麦灌浆期的冠层温度与产量的负相关性逐渐增大[26,28-29]。本试验中，产量与冠层温度相关系数为-0.753，呈显著性负相关，进一步验证了以上结论，同时也说明冠层温度受灌水定额的影响较大，而与灌溉方式无关。另有研究表明，冠层湿度大有利于缓解水稻的光合“午休”，增强其光合能力[30]，而灌水是调节冠层湿度最直接和有效的方式。本研究3个灌水处理中，滴灌量为 $3 \\ 7 5 0 \\ \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 }$ （204号时，既保持有较高的冠层湿度，同时，冬小麦叶片吸收同化 $\\mathrm { C O } _ { 2 }$ 的能力也最强，促使其迅速将大气中$\\mathrm { C O } _ { 2 }$ 吸收并快速同化利用，为获得高产奠定了良好的基础。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "棵间蒸发是农田作物蒸散的主要组成部分，且属于无效耗水，是田间小气候的重要指标之一。研究结果表明，地面灌溉条件下，棵间蒸发约占冬小麦整个生育期耗水的 $30 \\%$ 左右[31]，因此，减少棵间蒸发量对于提高农田水分利用效率和节约农田用水具有重要的意义。本研究结果表明，随着灌水量的增大，棵间蒸发量并不总是增大，受到冬小麦冠层覆盖度及土壤表层含水量的共同影响，当植株间郁闭程度较好时，适当增大灌水量，由于冠层湿度大，反而起到了抑制棵间蒸发的作用，但是，当灌水量过大时，无效水分散失量仍然很高。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "作物生长的微环境不同影响着作物的生长发育，进而对产量产生影响。本研究指出，灌水能够很好地调节地温及冠层温、湿度，从而影响棵间蒸发量及产量，不同灌水量对冬小麦生长微环境的调节作用不同，灌水量越大，其对地温、冠层温度的降温效应也越明显，冠层湿度也相应增大，但棵间蒸发量与产量并不随着灌水量的增大持续增长，适当增大灌水量可通过改善冠层湿度相对抑制无效水分散失，同时也增强了冬小麦叶片吸收同化 $\\mathrm { C O } _ { 2 }$ 的能力，对促进产量的形成具有一定的积极作用。本试验研究结果显示，当灌水量为 $3 7 5 0 \\ m ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 }$ （204号时，农田小气候适宜，产量最高，可作为大田生产实践参考。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由于本研究并未涉及到农田潜热通量和湍流热通量的研究，因此不能更加深入地对试验结果加以比较论证，这将在今后的工作中进一步完善。此外，本试验结果显示，灌水量越大，冠层温度降低，湿度增大，此时抑制和促进棵间蒸发的因素同时存在，因此，深入探讨棵间蒸发与作物冠层温湿度的关系，如何协调平衡两者的关系仍有待于进一步研究。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献References",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]包云轩，黄寿波，胡飞．气象学[M]．北京：中国农业出版社,2006:324Bao YX,Huang SB,Hu F.Meteorology[M].Beijing: ChinaAgriculture Publishing House,2oo6:324  \n[2]宋伟，赵长星，王月福，等．不同种植方式对花生田间小气候效应和产量的影响[J]．生态学报，2011，31(23):7188-7195Song W,Zhao C X,Wang YF,et al. Influence of differentplanting patterns on field microclimate effect and yield ofpeanut (Arachis hypogea L.)[J].Acta Ecologica Sinica,2011,31(23): 7188-7195  \n[3]方文松，朱自玺，刘荣花，等．秸秆覆盖农田的小气候特征和增产机理研究[J]．干旱地区农业研究，2009，27(6):123-128",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "FangW S,Zhu Z X,Liu R H,et al. Study on microclimate characters and yield-increasing mechanism in straw mulching field[J].Agricultural Research in the Arid Areas,20o9,27(6): 123-128 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[4] 孙淑娟，周勋波，陈雨海，等．冬小麦种群不同分布方式对 农田小气候及产量的影响[J]．农业工程学报，2008,24(S2): 27-31 Sun S J,Zhou X B,Chen Y H,et al. Effects of different distribution patterns of winter wheat's population on farmland micro-climate and yield[J]. Transactions of the CSAE,2008, 24(S2): 27-31   \n[5] He F. Effects of N rates on canopy microclimate and population health in irrigated rice[J].Agricultural Science & Technology,2009,10(6): 79-83   \n[6]李全起，陈雨海，于舜章，等．灌溉与秸秆覆盖条件下冬小 麦农田小气候特征[J]．作物学报,2006,32(2):306-309 Li Q Q,Chen Y H, Yu S Z,et al. Micro-climate of winter wheat field under the conditions of irrigation and straw mulching[J]. Acta Agronomica Sinica,2006,32(2): 306-309   \n[7]余卫东，成林．灌溉对孕穗期冬小麦农田温度的影响[J]. 生态学杂志,2012,31(7):1701-1706 Yu W D,Cheng L.Effects of irrigation on winter wheat field temperature at booting stage[J]. Chinese Journal of Ecology, 2012,31(7): 1701-1706   \n[8] 李丽，申双和，李永秀，等．不同水分处理下冬小麦冠层温 度、叶片水势和水分利用效率的变化及相关关系[J]．干旱 地区农业研究,2012,30(2):68-72 LiL,Shen S H,Li Y X,et al. Variation and interrelationship of winter wheat canopy temperature,leaf water potential and water use efficiency under different water treatments[J]. Agricultural Research in the Arid Areas,2012,30(2): 68-72   \n[9]刘海军，康跃虎，刘士平．喷灌对冬小麦生长环境的调节 及其对水分利用效率影响的研究[J]．农业工程学报，2003, 19(6): 46-51 Liu HJ, Kang Y H, Liu S P.Regulation of field environmental condition by sprinkler irrigation and its effect on water use efficiency of winter wheat[J].Transactions of the CSAE,2003, 19(6): 46-51   \n[10]王庆改，康跃虎，刘海军，等．喷灌对冠层水汽交换的 影响[J]．农业工程学报,2005,21(1):46-51 Wang Q G,Kang Y H,Liu HJ,et al. Effects of sprinkler irrigation on canopy water-vapor exchange[J]. Transactions of the CSAE,2005,21(1):46-51   \n[11]Thompson A L,Gilley JR,Norman JM.A sprinkler water droplet evaporation and plant canopy model: II.Model application[J]. Transactions of the ASAE，1993，36(3): 743-750 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[12]Tolk J A，Howell T A，Steiner JL，et al.Role of transpiration suppression by evaporation of intercepted waterin improving irrigation efficiency[J].Irrigation Science,1995,16(2):89-95 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[13]程裕伟，马富裕，冯治磊，等．滴灌条件下春小麦耗水规律 研究[J]．干旱地区农业研究,2012,30(2):112-117 Cheng Y W,Ma F Y,Feng Z L,et al.Study on water consumption rules in spring wheat under drip irrigation[J]. Agricultural Research in the Arid Areas,2012,30(2): 112-117   \n[14]王克全，何新林，王振华，等．不同灌水处理对滴灌春小麦 生长及产量的影响研究[J]．节水灌溉,2010(9):41-42 Wang K Q,He XL,Wang Z H,et al. Effect of different drip irrigation treatments on growth and yield of spring wheat[J]. Water Saving Irrigation,2010(9): 41-42   \n[15]张娜，张永强，唐江华，等．滴灌带配置方式对冬小麦生长 及产量的影响[J]．麦类作物学报,2013,33(6):1197-1201 Zhang N, Zhang YQ,Tang JH,et al.Effect of drip irrigation layout on growth and yield of winter wheat[J]. Journal of Triticeae Crops,2013,33(6): 1197-1201   \n[16] 张涛，马富裕，郑重，等．滴灌条件下水氮耦合对春小 麦光合特性及产量的影响[J]．西北农业学报，2010, 19(6): 69-73 Zhang T, Ma F Y, Zheng Z,et al. Effects of water-nitrogen coupling on photosynthesis characteristics and yield of spring wheat under drip irrigation condition[J].Acta Agriculturae Boreali-occidentalis Sinica,2010,19(6): 69-73   \n[17]王冀川，高山，徐雅丽，等．不同滴灌量对南疆春小麦光合 特征和产量的影响[J]．干旱地区农业研究，2012，30(4): 42-48 Wang JC,Gao S,Xu L Y,et al. Effect of drip irrigation on photosynthetic characteristics and yield of spring wheat in south Xinjiang[J].Agricultural Research in the Arid Areas, 2012, 30(4): 42-48   \n[18]张娜，张永强，李大平，等．滴灌量对冬小麦光合特性及干 物质积累过程的影响[J].麦类作物学报，2014，34(6): 795-801 Zhang N, Zhang Y Q,Li D P, et al. Effect of drip irrigation amount on photosynthesis characteristics and dry matter accumulation of winter wheat[J]. Journal of Triticeae Crops, 2014, 34(6): 795-801   \n[19]王冀川，徐雅丽，高山，等．滴灌条件下根区水分对春小麦 根系分布特征及产量的影响[J]．干旱地区农业研究，2011, 29(2): 21-26 Wang JC,Xu L Y, Gao S,et al. Effects of soil moisture of root zone on root growth and yield of spring wheat under drip irrigation[J].Agricultural Research in the Arid Areas,2011, 29(2): 21-26   \n[20] 程裕伟，马富裕，王光全，等．不同水分处理对滴灌春小麦 水分利用效率及产量的影响[J]．新疆农业科学,2013,36(4): 322-328   \nCheng Y W,Ma F Y, Wang G Q, et al.Effects of different irrigaiton intensity on water use efficiency and yield of drip irrigated spring wheat[J].Journal of Xinjiang Agricultural University,2013,36(4): 322-328   \n[21]聂紫瑾，陈源泉，张建省，等．黑龙港流域不同滴灌制度下 的冬小麦产量和水分利用效率[J]．作物学报，2013，39(9): 1687-1692 Nie Z J,Chen Y Q, Zhang JS,et al. Effects of drip irrigation patterns on wheat yield and water use efficiency in Heilonggang region[J]. Acta Agronomica Sinica, 2013,39(9): 1687-1692   \n[22] Li R,Hou X Q, Jia $Z \\mathrm { ~ K ~ }$ ,et al. Effects on soil temperature, moisture,and maize yield of cultivation with ridge and furrow mulching in the rain fed area of the Loess Plateau, China[J]. Agricultural Water Management,2013,116:101-109   \n[23]王敏，王海霞，韩清芳，等．不同材料覆盖的土壤水温 效应及对玉米生长的影响[J]．作物学报，2011，37(7): 1249-1258 Wang M,Wang H X,Han QF,et al. Effects of different mulching materials on soil water,temperature,and corn growth[J].Acta Agronomica Sinica, 2011,37(7): 1249- 1258   \n[24]李月兴，张宝丽，魏永霞．秸秆覆盖的土壤温度效应及其 对玉米生长的影响[J]．灌溉排水学报,2011,30(2):82-85 Li Y X, Zhang B L,Wei Y X. Effects of straw mulching onground temperature and growth relationship of maize[J]. Journal of Irrigation and Drainage,2011,30(2): 82-85   \n[25] 刘炜，高亚军，杨君林，等．旱地冬小麦返青前秸秆覆 盖的土壤温度效应[J]．干旱地区农业研究，2007，25(4): 197-201 Liu W,Gao Y J,Yang JL,et al.Effect of straw mulching on soil temperature before the greening stage of winter wheat in dryland[J].Agricultural Research in the Arid Areas,2007, 25(4): 197-201   \n[26] Amani I,Fischer R A,Reynolds M P. Canopy temperature depression association with yield of irrigated spring wheat cultivars in a hot climate[J]. Journal of Agronomy and Crop Science,1996,176(2): 119-129   \n[27]樊廷录，宋尚有，徐银萍，等．旱地冬小麦灌浆期冠层温度 与产量和水分利用效率的关系[J]．生态学报，2007,27(11): 4491-4497 Fan TL,Song S Y,Xu Y P,et al.Relationship between canopy temperature and water use efficiency/grain yield among dryland winter wheat genotypes during grain filling stage[J]. Acta Ecologica Sinica， 2007,27(11): 4491-4497   \n[28]崔新菊，赵奇，尤明山，等．不同灌溉条件下冬小麦灌 浆期冠层温度与产量相关性分析[J].作物杂志，2010(6): 51-54 Cui X J,Zhao Q，You M S,et al.Correlation analysis of canopy temperature and yield of winter wheat during grain filling stage under different irigation conditions[J].Crops, 2010(6): 51-54   \n[29]赵鹏，王长发，苗芳，等．小麦籽粒灌浆期冠层温度与产量 相关性状的关系[J]．西北农林科技大学学报：自然科学版, 2007,35(12): 138-142 ZhaoP,Wang CF,Miao F,et al.Relation between wheat canopy temperature and traits related to yield in grain filling stage[J].Journal of Northwest A & F University:Natural ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Science Edition,2007,35(12):138-142 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[30]翁晓燕，蒋德安．生态因子对水稻Rubisco和光合日变化的 调节[J]．浙江大学学报：农业与生命科学版，2002，28(4): 387-391 Weng X Y,Jiang D A.Regulation of Rubisco activity and diurnal changes of photosynthetic rate in rice by ecology factors[J]. Journal of Zhejiang University:Agriculture &Life Sciences,2002,28(4):387-391   \n[31]樊引琴，蔡焕杰，王健．冬小麦田棵间蒸发的试验研究[J]. 灌溉排水,2000,19(4):1-4 FanYQ,Cai HJ,Wang J.Experiment of soil evaporation from winter wheat field[J].Guangai Paishui,2ooo,19(4): 1-4 ",
+        "page_idx": 9
+    }
+]

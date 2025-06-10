@@ -1,0 +1,432 @@
+[
+    {
+        "type": "text",
+        "text": "昆仑山北麓两次极端暴雨水汽特征对比分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李海花，闵月，李桉孛，李如琦(新疆维吾尔自治区气象台，新疆 乌鲁木齐 830002)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：使用高空、地面观测资料、地面自动站雨量资料和美国国家环境预报中心(NCEP)再分析资料,通过水汽通量诊断分析、后向轨迹模型等方法，分析了昆仑山北麓和田地区2020年5月5—7日（简称 $0 5 { \\cdot } 0 6 ^ { \\prime }$ 过程)和2021年6月14—17日（简称\"06·15\"过程)两次极端暴雨过程的环流形势、中尺度系统、水汽输送和收支特征。结果表明：(1）两次暴雨过程有共同的特点：影响系统都为中亚低涡,均有来自里海、咸海一带的水汽输送;对流层低层偏东急流作用显著，最强水汽辐合集中在$7 0 0 { \\sim } 8 5 0 \\mathrm { h P a } _ { \\mathrm { o } }$ (2）两次暴雨过程也有明显差异： $^ { \\ast } 0 5 \\cdot 0 6 ^ { \\prime }$ 过程的南亚高压为带状分布，水汽输送路径为西方和偏东路径，其中西方路径水汽输送最明显，西边界水汽输入贡献占 $8 8 \\%$ $\\cdot _ { 0 6 } . 1 5 ^ { \\prime \\prime }$ 过程的南亚高压为双体型，水汽输送路径为北方和偏南路径，水汽来自阿拉伯海和孟加拉湾的偏南气流向北输送，南方路径输送量远远大于其他路径，南边界水汽输入贡献占 $78 \\%$ 。(3)和田大气可降水量(PW)增大尤其是超过平均状态时，对强降水出现有指示意义，当 $\\mathrm { P W } \\geqslant 2 0 ~ \\mathrm { m m }$ 以上时，可能会出现暴雨或极端暴雨天气。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：极端暴雨；昆仑山北麓；水汽源地；水汽输送；水汽收支文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "多年来气象专家对不同地区的极端暴雨形成机制做了大量研究，结果表明：极端暴雨出现在850hPa切变线南侧低层西南急流与东南风辐合区中[];梅雨锋附近存在一定的水平比湿梯度，且其北侧比湿梯度较大；甘肃中部中低层异常偏东气流可将已到达西北地区东部的暖湿空气继续向西北方向输送从而到达河西走廊西部，大气可降水量是夏季平均值的2倍以上3；强的水汽辐合中心，利于暖湿气流的抬升，使得高能高湿层厚度增强4；由于“列车效应\"造成的北京地区暴雨过程大多为孟加拉湾和西太平洋的暖湿季风气流共同构成5；四川盆地极端暴雨过程中 $5 0 0 ~ \\mathrm { { h P a } }$ 主要为“东高西低\"型和“两高切变\"型6；湖北东部极端暴雨西南向的水汽输送通道并在暴雨区强烈辐合[]；宁夏六盘山西侧$8 7 \\%$ 的降水个例在降水发生前大气水汽含量都在$1 2 . 0 \\mathrm { m m }$ 以上[8]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "新疆学者对南疆西部暴雨也开展了一些研究，中亚低槽(涡)型是南疆强降水有利的环境背景场[9],表明高、中及低空3支气流的有利配置，中小尺度辐合与对流是产生暴雨或极端暴雨的直接原因[10-12]。水汽的远距离输送并在南疆上空汇集是南疆西部暴雨形成的重要原因[13，除影响系统自身携带水汽外，孟加拉湾、阿拉伯海和南海的水汽输送为南疆西部强降水区提供了更充足的水汽源[14]，其路径主要为西方、南方和东方[15]。中低层切变与辐合影响暴雨落区与强度，中高层受偏南气流向暴雨区输送，低层偏东气流迅速增强导致的偏东路径水汽输送是南疆西部暴雨的关键因子[16-17]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "然而，针对和田地区暴雨的相关研究还较少。和田地区位于昆仑山北麓、塔克拉玛干沙漠南缘，是全国沙尘天气发生最频繁地区，总面积为 $2 4 . 7 8 \\times$ $1 0 ^ { 4 } \\mathrm { k m } ^ { 2 }$ ,其中沙漠戈壁占 $6 3 . 0 \\%$ ,山地占 $3 3 . 3 \\%$ ，绿洲仅占 $3 . 7 \\%$ ;受沙漠气候影响，气候干旱，水资源非常短缺，自然条件十分恶劣，生态环境极为脆弱，年平",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "均降水量小于 $5 0 ~ \\mathrm { m m }$ 。近年来，在暖湿化的气候背景下，和田地区春、夏季暴雨频发，强降水过程增多，有时一场强降水过程产生的降水量远远超过年均降水量，甚至达到年降水量的4倍。南疆地区极端暴雨事件频发，一方面有利于绿洲区农田及山区牧草水分的补给，增加河流径流量，缓解干旱；另一方面极端暴雨致灾性强，容易造成洪涝及其次生灾害，给人们生产生活带来不利影响。本文通过对比分析和田地区2020年5月5—7日（简称 $^ { 6 6 } 0 5 \\cdot 0 6 ^ { \\prime }$ 过程)和2021年6月14—17日（简称 $\\cdot _ { 0 6 } . 1 5 ^ { \\prime }$ 过程)两次极端暴雨过程的高低空配置、水汽源地、输送路径、水汽收支等，以加深对昆仑山北麓暴雨天气的认识，为此类暴雨预报预警提供科学的参考依据，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1资料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文资料包括和田地区地面观测站2020年5月3—7日和2021年6月14—17日常规气象观测资料、自动气象站逐时雨量资料和美国国家环境预报中心(NCEP)空间分辨率 $1 ^ { \\circ } \\times 1 ^ { \\circ }$ 的全球再分析资料，降水量按照新疆降水等级标准，即 $2 4 \\mathrm { h }$ 降水量 $( R ) \\geqslant$ $2 4 . 1 ~ \\mathrm { m m }$ 为暴雨, $R { \\geqslant } 4 8 . 1 ~ \\mathrm { m m }$ 为大暴雨, $R { \\geqslant } 9 6 . 1 ~ \\mathrm { m m }$ 为特大暴雨。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "水汽追踪采用HYSPLIT模式，该模式是由NO-AA的Draxler等开发的供质点轨迹、扩散及沉降分析用的综合模式系统，是一种欧拉-拉格朗日混合计算模式，其平流和扩散计算采用拉格朗日方法。这个模式通常用来跟踪气流所携带的粒子或气体移动方向。分为前向轨迹模型和后向轨迹模型，通常用来追踪气流所携带粒子或气体移动方向，其后向轨迹模型通过追踪某地、某日的气团来向，可用于分析该地、该日大气中水汽的主要来源方向。本文选取追踪点初始高度即平均海平面以上高度(AGL) $1 5 0 0 \\mathrm { m } . 3 0 0 0 \\mathrm { m } . 5 0 0 0 \\mathrm { m }$ 高度层作为模拟初始高度，选定时间向后追踪5d,模式使用的是 $1 ^ { \\circ } \\times 1 ^ { \\circ }$ GDAS资料，时间为世界时。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "水汽边界计算取地面 ${ \\sim } 7 0 0 \\mathrm { { h P a } }$ （对流层低层）、$7 0 0 { \\sim } 5 0 0 \\mathrm { h P a }$ （对流层中层） $. 5 0 0 { \\sim } 3 0 0 \\mathrm { h P a }$ （对流层高层)以及整层(地面至 $3 0 0 \\mathrm { { h P a } }$ 在 $3 1 ^ { \\circ } { \\sim } 4 0 ^ { \\circ } \\mathrm { N }  { \\mathrm { ~ . ~ } } 7 4 ^ { \\circ } { \\sim } 8 5 ^ { \\circ }$ E范围的水汽输人、输出和收支量(正值为流人，负值为流出）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1和田地区两次暴雨过程概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中 $\\cdot _ { 0 5 } \\cdot 0 6 ^ { \\prime \\prime }$ 过程，2020年5月5日20:00—7日20:00，强降水主要出现在南疆西部喀什地区、和田地区。和田地区累积降水量达 $1 2 . 1 { \\sim } 2 4 . 0 ~ \\mathrm { m m }$ 的有94站， $2 4 . 1 { \\sim } 4 8 . 0 \\ \\mathrm { m m }$ 的有49站， $4 8 . 1 { \\sim } 9 6 . 0 \\ \\mathrm { m m }$ 的有6站，共33站出现暴雨，最大暴雨中心为策勒站（表1)。5月7日策勒站日降水量 $3 7 . 7 \\mathrm { m m }$ ，居历史同期、春季和年最大日降水量第二位。5月6日18:00—7日03:00策勒站降水量 $6 5 . 3 ~ \\mathrm { m m }$ （图1a），属于200a一遇的极端降水事件。雨强最大为 $1 9 . 9 \\ \\mathrm { m m } \\cdot \\mathrm { h } ^ { - 1 }$ ，出现在6日19:00—20:00。过程中洛浦站最大日降水量 $2 1 . 8 ~ \\mathrm { m m }$ ,历史同期排第二位。强降水引发山体滑坡和泥石流，对和田地区的交通设施、农业生产和居民生活等造成直接经济损失 $1 \\times 1 0 ^ { 7 }$ 元。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4 $0 6 \\cdot 1 5 ^ { \\prime \\prime }$ 过程，2021年6月14日20:00—17日20:00，强降水集中在喀什地区、克孜勒苏柯尔克孜自治州、和田地区。和田地区累积降水量达 $1 2 . 1 \\sim$ $2 4 . 0 \\ \\mathrm { m m }$ 的有120站， $2 4 . 1 { \\sim } 4 8 . 0 \\ \\mathrm { m m }$ 的有177站，$4 8 . 1 { \\sim } 9 6 . 0 \\ \\mathrm { m m }$ 的有63站， ${ \\geqslant } 9 6 . 0 \\ \\mathrm { m m }$ 的有6站，共125站出现暴雨，暴雨中心累积降水量 $1 2 1 . 6 ~ \\mathrm { m m }$ ,洛浦站 $( 7 4 . 1 ~ \\mathrm { m m } )$ 为有观测记录以来日降水量极值（表1)。洛浦、墨玉、和田3站日降水量(图1b)均达100a一遇极端降水事件，打破测站日降水量历史极值并超过其年平均降水量。洛浦的雨强值最大，为$2 0 . 6 ~ \\mathrm { m m ^ { \\cdot } h ^ { - 1 } }$ ，出现在15日21:00—22:00。暴雨造成城市积涝并引发山洪、泥石流地质灾害，对交通、水利设施、农业生产和居民生活等造成直接经济损失达 $1 \\times 1 0 ^ { 8 }$ 元。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/05e2aa2fe39b6817341540b0e263f964d24a0c9849d1576f7774285abd0183bd.jpg",
+        "table_caption": [
+            "表1和田地区\"05·06\"过程和\"06·15\"过程各累积降水量的台站数",
+            "Tab.1 Number of stations with accumulated precipitation in the $\" 6 5 \\cdot 0 6 ^ { 3 }$ and ${ } ^ { 6 } { \\bf 0 6 } { \\bf \\cdot } { \\bf 1 5 } ^ { \\prime 3 }$ rainstorms "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">两次暴雨过程</td><td colspan=\"5\">台站数</td><td rowspan=\"2\">暴雨中心</td></tr><tr><td>12.1~24.0 mm</td><td>24.1~48.0 mm</td><td>48.1~96.0 mm</td><td>≥ 96.0 mm</td><td>日暴雨</td></tr><tr><td>“05·06\"过程</td><td>94</td><td>49</td><td>6</td><td>0</td><td>33</td><td>策勒站</td></tr><tr><td>\"06·15\"过程</td><td>120</td><td>177</td><td>63</td><td>6</td><td>125</td><td>洛浦站</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/4e2755186ae1eb33bb9e2b45d4f6e83668ca13d45af7f695791d2624f6cf857d.jpg",
+        "img_caption": [
+            "图1“ $0 5 { \\cdot } 0 6$ \"过程和\"06·15\"过程强降水站逐小时降水量",
+            "Fig.1 Hourly precipitation of heavy precipitation stations in the $^ { 6 6 } 0 5 \\cdot 0 6 ^ { \\prime \\prime }$ and $^ { 6 6 . 1 5 ^ { \\prime \\prime } }$ rainstorms ",
+            "图2“05·06\"过程和\"06·15\"过程高空环流形势",
+            "Fig.2 Upper air circulations in the $^ { 6 6 } 0 5 \\cdot 0 6 ^ { \\prime \\prime }$ and $^ { 6 6 . 1 5 ^ { \\prime \\prime } }$ rainstorms "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2两次暴雨过程高低空配置 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 ${ \\bf 5 0 0 ~ h P a }$ 高空环流形势“ $0 5 \\cdot 0 6 ^ { \\prime }$ 过程降水前（图略),欧亚范围环流为“两脊一槽\"形势，里海、咸海和贝加尔湖为脊，低槽位于巴尔喀什湖，新疆处于槽前西南气流带中。随着上游脊的发展，5日08:00—6日08:00(图略)，低槽缓慢东移南压至北疆境内， $- 2 8 \\mathrm { ~ \\textdegree C }$ 冷中心与低槽配合，造成北疆降温和大风天气。6日20:00（图2a），低槽主体进入新疆北部， $- 2 8 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 冷中心继续维持，部分冷空气从天山中部翻山进入南疆，此时影响南疆的影响系统为中亚低涡，和田地区处于低涡前偏西气流和西西伯利亚低槽底后部的偏东气流中，形成“东西夹攻”的形势。7日（图略)574dagpm低涡减弱成槽，东移出新疆西南部，降水结束。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4 ${ ^ { \\circ } 0 6 \\cdot 1 5 ^ { \\prime } }$ 过程降水前(图略），欧亚范围环流为“两脊一槽\"形势，乌拉尔山和贝加尔湖为脊，西西伯利亚为低槽，环流经向度较大。14日20:00—15日20:00(图2b)，随着里海、咸海脊向东北发展，使得西西伯利亚低槽受冷空气补充加深分裂成2段，北段在贝加尔湖附近发展成低涡， $- 2 4 ^ { \\circ } \\mathrm { C }$ 冷中心与低槽配合，新疆北部、东部受其外围冷空气影响，出现降温和大风天气。南段在塔什库尔干附近形成弱的低涡，洛浦处于偏北风与偏南风切变线附近。16日08:00(图略），位于新疆北部的低槽移出新疆，而位于 $4 0 ^ { \\circ } \\mathrm { N } , 7 0 ^ { \\circ } \\mathrm { E }$ 的中亚低槽继续南压，南疆西部受西北气流影响，而印度半岛至孟加拉湾低槽前西南气流北伸至青藏高原西北部。16日20:00（图略）,伊朗副高发展和西太平洋副高西升北挺，使得塔什库尔干附近的低涡发展加深，加强进入南疆西部地区。17日(图略)，低涡减弱成槽移出南疆，降水结束。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上所述，两次暴雨过程符合典型南疆大降水的环流配置[13-14],且\"06·15\"过程表现的更加明显。2.2.2中低层的偏东气流“ $\\mathrm { i } 0 5 \\cdot 0 6 ^ { \\prime }$ 过程： $7 0 0 \\mathrm { { h P a } }$ 上，5日20:00(图略），喀什和阿克苏之间存在一条",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a)2020年5月6日 $2 0 { : } 0 0 5 0 0 \\mathrm { h P a }$ 位势高度场和风场 (b)2021年6月15日20:00500hPa位势高度场和风场30°E 50E 70E 90°E 110E 30E 50E 70E 90°E 110E  \nNoOL . 策勒站 = NOL NOL . 洛浦站 NOL位势高度/dagpm 位势高度/dagpmI 风矢量/m·s 风速/m·s-1 风矢量/m·s 风速/m·s-1  \nNoOs No0s 40 No0s NoOs 4035 3530252013025205 6  \nN000 N00 15 N00 300 15  \n30°E 50E 70E 90E 110°E 30E 50E 70°E 90E 110°E",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "切变线；6日08:00(图略)切变线维持，风速增大，策勒处于暖舌区；6日20:00（图 $3 \\mathrm { a }$ )，切变线消失，喀什至民丰为偏西风,若羌为偏东风，东西风在南疆东部辐合。 $8 5 0 \\mathrm { { h P a } }$ 上，5日20:00(图略），和田与若羌之间存在一条切变线;6日08:00(图略)喀什至民丰为偏西风,若羌仍为偏东风,风速达 $6 \\mathrm { m } \\cdot \\mathrm { s } ^ { - 1 }$ ,东西风在南疆东部地区形成辐合；6日20:00(图3c），若羌东风增大至 $2 0 \\mathrm { m \\cdot s ^ { - 1 } }$ ，民丰风向由西北风转为西南风,风速达 $6 \\mathrm { m } \\cdot \\mathrm { s } ^ { - 1 }$ ，辐合线位于民丰和若羌之间，和田与民丰之间存在切变线，策勒处在切变线附近。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "\"06·15\"过程： $7 0 0 \\mathrm { { h P a } }$ 上，15日08:00(图略），喀什至和田为偏北风，若羌至民丰一带为偏东风，和田与民丰之间出现一条切变线，强降水站均在切变线附近；15日20:00(图3b)—16日20:00(图略），若羌-民丰-和田-喀什一带均为偏东风,且各站东风风速逐渐增大,最大值达 $1 2 { \\mathrm { m } } \\cdot { \\mathrm { s } } ^ { - 1 }$ 。 $8 5 0 \\mathrm { { h P a } }$ 上，15日08:00(图略)，喀什为偏北风，若羌-民丰-和田一带为偏东风,若羌风速达 $1 2 \\mathrm { m } \\cdot \\mathrm { s } ^ { - 1 }$ ,东西风在南疆东部继续辐合；15日20:00(图3d)，喀什至和田为偏北风，民丰为南风，和田与民丰之间存在切变线，洛浦处于切变线附近，若羌东风增大至 $1 4 ~ \\mathrm { m \\cdot s ^ { - 1 } }$ ;16日08:00(图略），喀什-和田-民丰为偏北风，若羌仍为偏东风,风速增大到 $1 8 \\mathrm { m } \\cdot \\mathrm { s } ^ { - 1 }$ ,东西风辐合出现在南疆南部。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "两次暴雨过程中， $8 5 0 \\mathrm { { h P a } }$ 偏东急流均比 $7 0 0 \\mathrm { { h P a } }$ 强，急流轴风速均大于 $1 8 \\mathrm { m } \\cdot \\mathrm { s } ^ { - 1 }$ ，不同的是 $\\cdot _ { 0 5 } . 0 6 ^ { \\prime }$ 过程的偏东气流更大，与西北风的辐合使得低层水汽迅速集中并抬升，造成和田的极端暴雨。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 水汽条件",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.1水汽源地及水汽输送强度充沛的水汽输送是形成大降水的必要条件。为分析两次暴雨过程的水汽源地与水汽输送情况，计算获得各层及地面至 $3 0 0 \\mathrm { { h P a } }$ 垂直积分水汽通量(图4)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 $\\mathrm { { 0 5 } } \\cdot \\mathrm { { 0 6 } } ^ { \\prime }$ 过程，水汽源地主要在地中海-黑海-里海、咸海，水汽一部分随中亚低槽前偏西气流进入南疆西部，另一部分随长距离偏北气流进入北疆",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a)2020年5月6日 $2 0 { : } 0 0 7 0 0 \\mathrm { h P a }$ 风场 (b)2021年6月15日20:00700hPa风场80°E 90°E 80°E 90°E 10·策勒站 ·洛浦站  \nNo0s 风矢量/ms No0s 风速/m's-1 No0s F 风矢量/m·s No0s 风速 $/ \\mathrm { m } { \\cdot } \\mathrm { s } ^ { - 1 }$   \nN54 204 20 N04 454 201818  \nN04 No04 164 12 N04 No00 164 12  \n350 350 8 253 350 880°E 90°E 80°E 90E 实(c)2020年5月6日 $2 0 { : } 0 0 8 5 0 \\mathrm { h P a }$ 风场 (d)2021年6月15日20:00850hPa风场80°E . 9勒站 80E . 9站 100  \nNo0s 风矢量/m·s No0s 风矢量 m No0s风速/ms- 风速/m·s  \n104 1 454 20 N4 454 201818  \nNo04 内 No04 164 N04 No04 16412 12  \n303330 320330 8 353350 2 353330 8X70°E 80E 90°E 100E 70°E 80°E 90°E 100E",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d7fa6d061c5fec956a6512524c17a9c069de45c7e8a02526e593e86b15ea92f0.jpg",
+        "img_caption": [
+            "图4“05·06\"过程和\"06·15\"过程地面至 $3 0 0 \\mathrm { { h P a } }$ 水汽通量和暴雨中心水汽通量散度面 Fig.4Vapor flux distributions from the ground to $3 0 0 \\mathrm { { h P a } }$ layer and profile distribution of vapor flux divergence in the center of the $^ { 6 6 } 0 5 \\cdot 0 6 ^ { \\prime \\prime }$ and $^ { 6 6 . 1 5 ^ { \\prime \\prime } }$ rainstorms "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "地区再翻山进入南疆西部，还有一部分到达新疆东部后随偏东气流以偏东路径向暴雨区输送，5月6日02:00—7日02:00降水前期水汽通量值在 $5 \\times$ $1 0 ^ { - 3 } \\ \\mathrm { g \\cdot c m ^ { - 1 } \\cdot h P a ^ { - 1 } \\cdot s ^ { - 1 } }$ 以上,6日20:00(图4a)最大水汽通量达 $1 0 { \\times } 1 0 ^ { - 3 } \\ \\mathrm { g } \\cdot \\mathrm { c m } ^ { - 1 } \\cdot \\mathrm { h P a } ^ { - 1 } \\cdot \\mathrm { s } ^ { - 1 }$ 。在暴雨中心策勒站 $( 3 7 ^ { \\circ } 0 1 ^ { \\prime } \\mathrm { N } , 8 0 ^ { \\circ } 4 8 ^ { \\prime } \\mathrm { E } )$ 上空，5日20:00—7日08:00（图 $4 \\mathrm { c }$ ）， $7 0 0 { \\sim } 8 5 0 \\ \\mathrm { h P a }$ 上水汽通量散度最大值为$- 1 5 { \\times } 1 0 ^ { - 6 } \\ \\mathrm { g } \\cdot \\mathrm { c m } ^ { - 2 } { \\cdot } \\mathrm { h P a } ^ { - 1 } { \\cdot } \\mathrm { s } ^ { - 1 }$ 。水汽通量散度大值集中在6日 $0 2 { : } 0 0 { - } 0 8 { : } 0 0 , 0 8 { : } 0 0 { - } 2 0 { : } 0 0$ 逐渐向强降水中心输送，为降水提供了较好的水汽条件。可见，中低层强的水汽输送是策勒降水强度较大的重要原因。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 $0 6 \\cdot 1 5 ^ { \\prime }$ '过程，来自挪威海的水汽，翻越乌拉尔山到达西西伯利亚，而后一部分进入新疆北部，翻越天山进入南疆;另一部分到达新疆东部后随偏东气流向暴雨区输送。来自孟加拉湾的水汽，绕过青藏高原西部以偏南路径向盆地南缘输送，6月15日02:00—7日08:00降水前期的水汽通量值达到$5 { \\times } 1 0 ^ { - 3 } ~ \\mathrm { g } \\cdot \\mathrm { c m } ^ { - 1 } \\cdot \\mathrm { h P a } ^ { - 1 } \\cdot \\mathrm { s } ^ { - 1 }$ （图略），强降水时段6月15日20:00(图4b)—16日14:00(图略)最大水汽通量维持在 $1 0 { \\times } 1 0 ^ { - 3 } \\ \\mathrm { g } { \\cdot } \\mathrm { c m } ^ { - 1 } { \\cdot } \\mathrm { h P a } ^ { - 1 } { \\cdot } \\mathrm { s } ^ { - 1 }$ ,最大值达到 $1 5 { \\times } 1 0 ^ { - 3 }$ $\\mathrm { g \\cdot c m ^ { - 1 } \\cdot h P a ^ { - 1 } \\cdot s ^ { - 1 } }$ ,其水汽通量值和大值区范围均较# $\\cdot _ { 0 5 } \\cdot 0 6 ^ { \\prime \\prime }$ 过程大。在暴雨中心洛浦站 $( 3 7 ^ { \\circ } 0 3 ^ { \\prime } \\mathrm { N }$ 、$8 0 ^ { \\circ } 1 4 ^ { \\prime } \\mathrm { E } )$ 上空，15日20:00—16日08:00（图4d），水汽辐合主要集中在 $6 0 0 { \\sim } 7 5 0 \\ \\mathrm { h P a }$ ,其值达 $- 1 0 \\times 1 0 ^ { - 6 } \\cdot$ $- 1 5 { \\times } 1 0 ^ { - 6 } \\ \\mathrm { g } \\cdot \\mathrm { c m } ^ { - 2 } \\cdot \\mathrm { h P a } ^ { - 1 } \\cdot \\mathrm { s } ^ { - 1 }$ ，与强降水时段吻合。可见，中高层较强的水汽输送是洛浦降水量更大的重要原因。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述， $^ { \\mathrm { : 6 6 . 1 5 } }$ ”过程，来自阿拉伯海和孟加拉湾丰沛的水汽被输送到南疆暴雨区，且中低层水汽辐合较 $^ { \\cdot \\cdot } 0 5 \\cdot 0 6 ^ { \\cdot }$ 过程大，是过程降水量更大的主要原因。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.2水汽收支‘ $\\mathrm { \\cdot } 0 5 \\cdot 0 6 ^ { \\prime }$ 过程，分析2020年5月5日02:00—7日14:00时段整层水汽收支（图 $5 \\mathrm { a } , \\mathrm { c } , \\mathrm { e } ,$ g)可见，西、南2个边界水汽输入量分别为 $5 3 \\times 1 0 ^ { 8 } \\mathrm { t }$ 和 $7 \\times 1 0 ^ { 8 }$ t,东、北边界水汽输出量分别为 $4 \\times 1 0 ^ { 8 } 1$ 和$1 \\times 1 0 ^ { 8 } \\mathrm { t }$ ，暴雨过程中西边界水汽输入贡献占 $8 8 \\%$ ，起到了重要作用，说明里海、咸海至巴尔喀什湖的水汽输送是非常充沛和主要的，而且进入到暴雨区，",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) $^ { 6 6 } 0 5 \\cdot 0 6 ^ { 3 }$ 过程西边界水汽输送量 (b) $^ { 6 6 } \\cdot 1 5 ^ { , }$ 过程西边界水汽输送量 543210123 0-700Pa700500hPa 54 −50面\\~700hPa → 700\\~500 hPa   \n0/ 0/ 32 1 0123 00:70 00:80 00:41 00:00 00:70 00:80 00:44 00:00 00:20 00:80 00:44 00:80 00:41 00:00 00:70 00:80 00:44 00:07 00:20 00:80 10:40 20:00 2020-05-05 2020-05-06 2020-05-07 2021-06-14 2021-06-15 2021-06-16 北京时间 北京时间 （c） $^ { 6 4 } 0 5 \\cdot 0 6 ^ { \\dprime }$ 过程东边界水汽输送量 (d) $^ { 6 6 } \\cdot 1 5$ ”过程东边界水汽输送量 地面\\~700 hPa → 700\\~500 hPa 地面\\~700 hPa 700\\~500 hPa 10 -500\\~300 hPa 10 500\\~300 hPa   \n101/ 5 101/ 5 0 0 -5 -5 -10 -10 -15 -15 00:70 00:80 00:44 20:00 00:20 00:80 00:44 20:00 00:70 00:80 10:40 00:80 00:40 00:00 00:70 00:80 00:44 00:00 00:70 00:80 10:44 20:00 2020-05-05 2020-05-06 2020-05-07 2021-06-14 2021-06-15 2021-06-16 北京时间 北京时间 (e) $^ { 6 4 } 0 5 \\cdot 0 6 ^ { \\prime }$ 过程北边界水汽输送量 (f) $^ { 6 } 0 6 \\cdot 1 5 ^ { \\circ }$ 过程北边界水汽输送量 地面\\~700 hPa → 700\\~500 hPa 地面\\~700 hPa ← 700\\~500 hPa 43210123456 500\\~300 hPa 43210123456 500\\~300 hPa   \n101/ 101/舞 + ? 00:00 00:80 00:41 00:00 00:70 00:80 00:44 00:00 00:70 00:80 00:40 00:80 00:44 00:00 00:70 00:80 00:44 00:00 00:20 00:80 00:44 20:00 2020-05-05 2020-05-06 2020-05-07 2021-06-14 2021-06-15 2021-06-16 北京时间 北京时间 (g) $^ { 6 6 } 0 5 \\cdot 0 6 ^ { \\dprime }$ 过程南边界水汽输送量 (h) $^ { \\mathrm { \\scriptsize ~ \\textit ~ { ~  ~ } ~ } } 0 6 \\cdot 1 5 ^ { \\mathrm { \\scriptsize ~ \\textit ~ { ~  ~ } ~ } }$ 过程南边界水汽输送量 1864208642024 →地面\\~700 hPa → 700\\~500 hPa 18642108642024 地面\\~700 hPa → 700\\~500 hPa   \n10/ → 500\\~300 hPa 101/ -500\\~300hPa 00:20 00:80 00:44 00:00 00:70 00:80 00:44 20:00 00:70 00:80 10:40 00:80 00:41 00:0 00:70 00:80 00:44 00:00 00:70 00:80 00:44 20:00 2020-05-05 2020-05-06 2020-05-07 2021-06-14 2021-06-15 2021-06-16 北京时间 北京时间 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "水汽的输入量远远大于输出量，进一步说明进入的水汽大部分在暴雨区进行了辐合，这和前面所分析的高、低层急流配置和水汽通量分布一致。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "“06·15\"过程，分析2021年6月14日08:00—16日20:00时段整层水汽收支可见(图5b、d、f、h)，西、南2个边界水汽输入量分别为 $4 0 \\times 1 0 ^ { 8 }$ t和 $1 4 1 \\times 1 0 ^ { 8 } \\mathrm { t }$ 东、北边界水汽输出量分别为 $6 4 \\times 1 0 ^ { 8 } \\mathrm { t }$ 和 $2 7 \\times 1 0 ^ { 8 } \\mathrm { t }$ ,暴雨过程中南边界水汽输入贡献占 $78 \\%$ ，起到了重要作用，也说明偏南的水汽接力输送是非常充沛的，而且进入到暴雨区，水汽输入量远远大于输出量，说明水汽大部分在暴雨区进行了辐合，这和前面所分析的高低层急流配置和水汽通量分布一致。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "结果表明，两次暴雨过程在降水前和降水中的中高层水汽均为西边界输人，强降水发生时东边界低层输入、高层输出，南边界有明显差异， $^ { \\mathrm { \\tiny {  } } } 0 5 \\cdot 0 6 ^ { \\mathrm { \\tiny { \\because } } }$ 过程对流层高层大部以水汽输出为主， $^ { \\mathrm { \\tiny {  } } } 0 6 \\cdot 1 5 ^ { \\mathrm { \\tiny { \\because } } }$ 过程对流层高层均为水汽输入且高层更强。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3.3拉格朗日方法的水汽追踪分析‘ $\\cdot 0 5 \\cdot 0 6 ^ { \\prime \\prime }$ 过程，由2020年5月7日14:00的水汽粒子追踪策勒站轨迹图(图6a)可见，强降水中心的水汽主要分为2支路径：（1）西路，来自 $3 0 0 0 \\mathrm { m }$ 高度上的水汽质点，经里咸海-巴尔喀什湖到达新疆东部，在5月6日$2 0 { : } 0 0 , 2 0 0 0 \\mathrm { m }$ 左右的对流层中低层输送到暴雨区；",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2)北路，来自 $5 0 0 0 \\mathrm { m }$ 高度的水汽质点以偏北路径翻越天山向暴雨区输送；来自 $1 5 0 0 \\mathrm { ~ m ~ }$ 高度的水汽，由中亚地区向东到达暴雨区。这与前述水汽输送路径分析相一致。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "“06·15\"过程，由2021年6月17日04:00的水汽粒子追踪洛浦站轨迹图(图6b)可见，强降水中心的水汽主要分为3支路径：（1）南路，来自 $5 0 0 0 \\mathrm { m }$ 高度上的水汽质点，前期由阿拉伯海、孟加拉湾低层的水汽质点沿青藏高原西侧的向北输送，受天气系统和地形升高的影响不断抬升，最后在对流层高层翻越青藏高原西北部输送到暴雨区；（2）东路，来自$3 0 0 0 \\mathrm { ~ m ~ }$ 高度上的水汽质点，前期由位于喀拉海-巴尔喀什湖进人新疆东部的水汽质点，在6月15日20:00，在 $1 0 0 0 \\mathrm { m }$ 左右的高度向暴雨区输送；(3）西路,来自 $1 5 0 0 \\mathrm { m }$ 的高度上水汽质点，主要由中亚地区翻越西天山向暴雨区输送。这与前述水汽输送路径分析相一致。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3.4大气可降水量暴雨发生前，两次暴雨过程南疆的大气可降水量均有增加趋势，‘ $0 5 \\cdot 0 6 ^ { \\prime \\prime }$ 过程局地达 $2 5 ~ \\mathrm { m m }$ ， $^ { \\cdot \\cdot } 0 6 \\cdot 1 5 ^ { \\cdot \\cdot }$ 过程局地达 $3 0 ~ \\mathrm { m m }$ ，中低层的偏东气流有利于将水汽向暴雨区输送。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了资料统一性，我们选取和田站大气可降水量（Precipitablewater,PW)数据分析（图 $7 \\mathrm { a } \\mathrm { \\sim } \\mathrm { b }$ ，两次暴雨过程，和田大气可降水量在降水开始前就开始增加，整个降水过程PW均高于平均值， $^ { 6 } 0 5 \\cdot 0 6 ^ { \\prime }$ 过程，最大值为 $2 0 ~ \\mathrm { m m }$ ， $^ { \\mathrm { 6 } } 0 6 \\cdot 1 5 ^ { \\mathrm { 7 } }$ 过程最大值为26$\\mathbf { m } \\mathbf { m }$ 。结合强降水站整层比湿随时间变化(图7c\\~d)可知,两次暴雨过程强降水时比湿值 $6 \\mathrm { g } \\cdot \\mathrm { k g } ^ { - 1 }$ 分布在$6 5 0 \\mathrm { { h P a } }$ 以下，策勒站在 $8 5 0 \\ \\mathrm { h P a }$ 附近比湿最大值7$\\mathrm { g } \\cdot \\mathrm { k g } ^ { - 1 }$ 。15日08:00,洛浦站上空 $7 0 0 \\mathrm { { h P a } }$ 和 $8 5 0 \\ \\mathrm { h P a }$ 的比湿均逐渐增加,20:00 比湿达最大值 $9 ~ \\mathrm { g \\cdot k g ^ { - 1 } }$ 。随着降水强度的减弱，比湿也逐渐减少。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8583ebc1dbd6d3ce8d3a7350a24956db961c3ab90bc2b123401734b2df64a1b5.jpg",
+        "img_caption": [
+            "注：星号为追踪点;红线、蓝线、绿线分别为平均海平面以上高度 $1 5 0 0 \\mathrm { m } \\sqrt { , 3 0 0 0 } \\mathrm { m } \\sqrt { 5 0 0 0 } \\mathrm { m } \\sqrt { }$ （20",
+            "图6暴雨中心不同高度向后 $1 2 0 \\mathrm { h }$ 气体轨迹分布",
+            "Fig.6Water vapor track distributions at different heights in the rainstorm center for the last 120 hours "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/200ee25d6a36b7b79c3d323c9cd026caa0aba7f1cd944087574f00cf9a53ae63.jpg",
+        "img_caption": [
+            "图7‘ $\\mathrm { \\dot { 0 } } 5 { \\cdot } 0 6 ^ { \\prime }$ '过程和 $^ { \\cdot } 0 6 \\cdot 1 5$ \"过程大气可降水量(PW)和比湿",
+            "Fig.7 Distributions of PW and specific humidity in the $^ { 6 6 } 0 5 \\cdot 0 6 ^ { \\prime \\prime }$ and $^ { 6 6 . 1 5 ^ { \\prime \\prime } }$ rainstorms "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "和田PW增大至平均值以上时，对未来出现强降水有指示意义，特别是当 $\\mathrm { P W } \\geqslant 2 0 ~ \\mathrm { m m }$ 以上时，可能会出现暴雨或极端暴雨天气，近地层 $8 5 0 \\mathrm { { h P a } }$ 比湿开始增加，预示强降水将出现。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文对比分析了昆仑山北麓两次极端暴雨过程的高低空环流配置、水汽输送路径、水汽收支、大气可降水量等变化特征，得到以下结论：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1) $5 0 0 \\mathrm { { h P a } }$ 上，西西伯利亚低槽进入新疆北部地区，造成降温和大风天气，中亚低涡位于塔什库尔干附近；低空 $7 0 0 \\ \\mathrm { h P a }$ 和 $8 5 0 \\ \\mathrm { h P a }$ 偏东气流在西伸的过程中加强，且 $8 5 0 ~ \\mathrm { h P a }$ 风场较 $7 0 0 \\ \\mathrm { { h P a } }$ 风场强，和田地区处于“东西夹攻”中。“ $0 6 \\cdot 1 5 ^ { \\prime }$ 过程较4 $0 5 \\cdot 0 6 ^ { \\prime }$ '过程表现明显。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）研究区常规的水汽来源：西路水汽输送和偏东气流的东路水汽输送。 $\\cdot _ { 0 5 } . 0 6 ^ { \\prime }$ 过程，水汽源地主要是地中海-黑海-里咸海，西路水汽输送强度大，贡献率达 $8 8 \\%$ ；而 $^ { \\mathrm { \\tiny {  } } } 0 6 \\cdot 1 5 ^ { \\mathrm { \\tiny { \\because } } }$ 过程，水汽源地挪威海经过乌拉尔山和里咸海一带的水汽随低槽前的西南路径，汇合后随脊前偏北气流，一部分进入新疆北部-新疆南部，还有一部分进入新疆东部，随偏东气流以偏东路径向暴雨区输送水汽。来自南方路径的水汽，自阿拉伯海-印度半岛-孟加拉湾的南路输送，南路水汽输送的强度大，贡献率占 $78 \\%$ 。“06·15\"过程的偏南水汽被远距离输送到昆仑山北麓，是该过程降水更强的主要原因，且中低层和暴雨中心的水汽通量散度值均较“ $0 5 { \\cdot } 0 6 ^ { \\prime }$ 过程大。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（3）两次暴雨过程在降水前和降水中的中高层水汽均为西边界输入，强降水发生时东边界低层输入、高层输出，南边界有明显差异，‘ $0 5 \\cdot 0 6 ^ { \\prime }$ 过程对流层高层大部以输出为主， $^ { \\mathrm { 6 } } 0 6 \\cdot 1 5 ^ { \\prime }$ ”过程对流层中高层均为水汽输入且高层更强。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(4）极端暴雨前，新疆南疆的大气可降水量增值 $2 5 { \\sim } 3 0 ~ \\mathrm { m m }$ 及和田PW增大至平均值以上时，对和田地区未来出现强降水有很好指示意义，特别是当$\\mathrm { P W } \\geqslant 2 0 ~ \\mathrm { m m }$ 以上时，可能会出现暴雨或极端暴雨天气， $8 5 0 \\ \\mathrm { h P a }$ 近地层比湿开始增加，预示强降水将出现。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文对昆仑山北麓两次暴雨过程进行了对比分析，初步得到一些和田地区极端降水的水汽特征和指标。但对于全面认识昆仑山北麓极端暴雨的形成机制仍显不足，今后将加强南疆暴雨定点、定时、定量预报，对其强降水天气产生机理深入研究，对卫星资料反演8和预估降水量的高分辨率新型观测资料应用和数值模式模拟分析等方面继续开展研究工作，提升昆仑山北部强降水精细化预报预警能力和水平。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]周云霞,翟丽萍,何珊珊.2019年\"5.27\"广西靖西市极端暴雨成 因及可预报性分析[J].气象研究与应用,2020,41(2):68-74 [Zhou Yunxia, Zhai Liping,He Shanshan. Causes and predictability of extreme rainstorm in Jingxi City on May 27,2O19[J]. Journal of Meteorological Research and Application, 2020,41(2): 68-74.]   \n[2]黄治勇,王婧羽,周文.2020年7月4—8日长江中游极端暴雨 特征分析[J].暴雨灾害,2021,40(4):333-341.[Huang Zhiyong, Wang Jingyu,Zhou Wen.Characteristics analysis of an extreme heavy rain event in the middle reaches of the Yangtse River from July 4 to 8 in 202O[J]. Torrential Rain and Disasters,2021,40(4): 333-341.]   \n[3] 孔祥伟,杨建才,李红,等.河西走廊西部干旱区一次极端暴雨 天气的水汽特征分析[J].气象,2021,47(4):412-423.[Kong Xiangwei,Yang Jiancai,Li Hong,et al.Analysis on water vapor characteristics of an extreme rainstorm in the arid region of western Hexi Corridor[J].Meteorological Monthly,2021,47(4):412- 423.]   \n[4]陈晓娟,王咏青,毛璐,等.贺兰山区两次极端暴雨动力作用数 值模拟分析[J].干旱区研究,2020,37(3):680-688.[Chen Xiao",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "juan,Wang Yongqing,MaoLu, etal.Numerical simulation analy",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "sis of the dynamic effects of terrain on two extreme rainstorms on Helan Mountain[J].Arid Zone Research,2020, 37(3): 680-688.]   \n[5]孙继松,雷蕾,于波,等.近10年北京地区极端暴雨事件的基本 特征[J].气象学报,2015,73(4): 609-623.[Sun Jisong,Lei Lei, Yu Bo,et al. The fundamental features of the extreme severe rain events in the recent 1O years in the Beijing area[J].Acta Meteorologica Sinica,2015,73(4): 609-623.]   \n[6]肖递祥,杨康权,俞小鼎,等.四川盆地极端暴雨过程基本特征 分析[J].气象,2017,43(10):1165-1175.[Xiao Dixiang,Yang Kangquan, Yu Xiaoding,et al. Characteristics analyses of extreme rainstorm events in Sichuan Basin[J]. Meteorological Monthly, 2017,43(10): 1165-1175.]   \n[7]黄思先,王保,翟红楠.2019年5月湖北东部一次大暴雨过程诊 断分析[J].沙漠与绿洲气象,2021,15(3):38-45.[Huang Sixian, Wang Bao, Zhai Hongnan. Diagnostic analysis of a heavy rainstorm process in eastern Hubei Province in May 2019[J]. Desert and Oasis Meteorology,2021,15(3):38-45.]   \n[8]林彤,桑建人,姚展予,等.基于微波辐射计的宁夏六盘山西侧 大气水汽变化特征[J].干旱区地理,2021,44(4):923-932.[Lin Tong,Sang Jianren, Yao Zhanyu,et al.Statistical analysis of water vapor change characteristics over the west valley of Liupan Mountain area based on microwave radiometer[J].Arid Land Geography,2021,44(4): 923-932.]   \n[9]黄艳,俞小鼎,陈天宇,等.南疆短时强降水概念模型及环境参 数分析[J].气象,2018,44(8):1033-1041.[Huang Yan,Yu Xiaoding, Chen Tianyu,et al.Analysis of conceptual models and ambient parameter of short time severe rainfall in south Xinjiang[J]. Meteorological Monthly,2018,44(8): 1033-1041.]   \n[10] 张云惠,陈春艳,杨莲梅,等.南疆西部一次罕见暴雨过程的成 因分析[J].高原气象,2013,32(1):191-200.[Zhang Yunhui, Chen Chunyan,Yang Lianmei, et al. Cause analysis on rare rainstorm in west of southern Xinjiang[J]. Plateau Meteorology,2013, 32(1): 191-200.]   \n[11] 张俊兰,魏荣庆,杨柳.2013年南疆2场罕见暴雨落区和强度的 对比分析[J].沙漠与绿洲气象,2014,8(5):1-9.[Zhang Junlan, Wei Rongqing,Yang Liu. Comparative analysis of two rare heavy rainfall area and intensity over the southern Xinjiang in 2O13[J]. Desert and Oasis Meteorology,2014,8(5): 1-9.]   \n[12] 热孜瓦古·孜比布拉,吕新生,王鹏飞,等.2020年春季南疆西 部一次极端暴雨成因分析[J].沙漠与绿洲气象,2021,15(3): 20-28.[Zibibula Reziwagu,Lu Xinsheng,Wang Pengfei,et al. Analysis of an extreme rainstorm in west of southern Xinjiang in spring 2020[J]. Desert and Oasis Meteorology，2021,15(3): 20- 28.]   \n[13] 张云惠,李海燕,葡喜禄,等.南疆西部持续性暴雨环流背景及 天气尺度的动力过程分析[J].气象,2015,41(7):816-824. [Zhang Yunhui,Li Haiyan,Lin Xilu,et al.Analysis of continuous rainstorm circulation background and the dynamic process of synoptic scale in west of southern Xinjiang[J].Meteorological Month",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ly,2015,41(7): 816-824.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[14] 曾勇,杨莲梅.南疆西部一次暴雨强对流过程的中尺度特征分 析[J].干旱气象,2017,35(3): 475-484.[Zeng Yong,Yang Lianmei.Mesoscale characteristic analysis of a severe convective weather with torrential rain in the west of southern Xinjiang[J]. Journal of Arid Meteorology,2017,35(3): 475-484.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[15]赵克明,黄艳,于碧馨.2013年南疆西部暴雨天气的水汽特征 [J].气象科技,2017,45(1): 121-130.[Zhao Keming,Huang Yan, Yu Bixin.Water vapor characteristics of rainstorm weather processes over western south Xinjiang in 2O13[J]. Meteorological Science and Technology,2017,45(1): 121-130.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[16]努尔比亚·吐尼牙孜,杨利鸿,米日古丽·米吉提.南疆西部一次突发极端暴雨成因分析[J].沙漠与绿洲气象,2017,11(6):75-",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "82.[Tunyaz Nurbiye,Yang Lihong,Mejet Mehregul.Cause analysis on a sudden extreme rainstorm in the west of southern Xinjiang [J]. Desert and Oasis Meteorology,2017,11(6): 75-82.]   \n[17] 杨霞,张云惠,张超,等.南疆西部\"5·21\"极端大暴雨成因分析 [J].沙漠与绿洲气象,2020,14(1):21-30.[Yang Xia,Zhang Yunhui,Zhang Chao,et al. Causation analysis of the 21 May 2O18 torrential rain in the west of southern Xinjiang[J].Desert and Oasis Meteorology,2020,14(1): 21-30.]   \n[18]郑博华,陈胜,王勇,等.喀什地区降水(雨雪)的日变化特征[J] 干旱区地理,2020,43(1):108-115.[Zheng Bohua, Chen Sheng, Wang Yong,et al. Interdiurnal variation characteristics of precipitation (rain and snow) in Kashi Prefecture[J].Arid Land Geography,2020,43(1): 108-115.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Comparative analysis of on water vapor characteristics of two extreme rainstorms in the north slope of Kunlun Mountains ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "LI Haihua, MIN Yue，LI Anbei，LI Ruqi (Xinjiang Meteorological Observatory,Urumqi 83OoO2,Xinjiang,China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract:On the basisof the meteorological observation data and the National Centers for Environmental Prediction reanalysis data and using water vapor flux diagnosis analysis and the hybrid single-particle lagrangian integrated trajectory model, two extreme rainstorms that occurred on May 5—7, 2020 (the $^ { 6 6 } 0 5 \\cdot 0 6$ \"rainstorm), and June 14—17,2021 (the $^ { 6 6 } 0 6 \\cdot 1 5 ^ { \\prime \\prime }$ rainstorm), in the Hotan Prefecture, Xinjiang in the north slope of Kunlun Mountains, China were analyzed to study the transport mechanism of water vapor and its budget in the process. The results revealed that (1) the influence system of the two rainstorms was the Central Asian vortex,and they both received water vapor from the Caspian Sea and Aral Sea.During the two rainstorms,there was a clear easterly jet in the lower troposphere,and the strongest water vapor convergence was at the level of $7 0 0 { - } 8 5 0 \\ \\mathrm { h P a }$ (2) The difference between the two rainstorms was that in the $^ { 6 6 } 0 5 \\cdot 0 6 ^ { 3 }$ rainstorm, the South Asia High was banded.Its water vapor transport path was from the west and east,and mainly from the west,because the west path contributed $88 \\%$ of the total water vapor transport. However, in the $^ { 6 6 } 0 6 \\cdot 1 5 ^ { 3 }$ rainstorm, the South Asia High was bimodal.Its water vapor transport path was from the north and south,and mainly from the south,which contributed $78 \\%$ of the total water vapor transport.(3) The southerly flow from the Arabian Sea and Bay of Bengal transported water vapor to the north.When the atmospheric precipitable water in the Hotan region increases，particularly exceeding the average state，heavy precipitation may occur. Rainstorm or extreme rainstorm is more likely to occur when the precipitable water is $\\geqslant 2 0 \\ \\mathrm { m m }$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words: extreme rainstorm; north slope of Kunlun Mountains； water vapor source； water vapor transport;vapor budget",
+        "page_idx": 9
+    }
+]

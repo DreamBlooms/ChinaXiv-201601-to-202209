@@ -1,0 +1,189 @@
+# 基于隐藏终端的时隙802.15.4网络吞吐量研究
+
+程宏斌，王晓喃，乐德广，孙霞(常熟理工学院 计算机科学与工程学院，江苏 常熟 215500)
+
+摘要：为了提高802.15.4网络吞吐量性能，设计了一种改进的节点状态转换过程，提出了一种考虑隐藏终端问题和重传的节点接入信道模型，并对模型进行分析计算。基于计算结果和信道状态模型分析，对考虑隐藏终端问题的数据碰撞概率、丢包率和网络吞吐量进行推导。最后研究了数据包到达率、退避指数和隐藏终端对网络吞吐量性能的影响。实验表明，模型较好地描述了节点接入信道过程，能够对网络吞吐量进行精准的动态分析。实验结果表明，与无重传机制的 802.15.4 网络相比，网络吞吐量增加了 $8 3 . 9 \%$ 左右。与部分条件休眠的方法比较，网络吞吐量平均增加了 $1 3 . 3 \%$ ，提出的模型能够有效提升网络吞吐量性能。
+
+关键词：隐藏终端；吞吐量；信道接入；数据包到达率；建模 中图分类号：TP393.03 doi:10.3969/j.issn.1001-3695.2018.03.0224
+
+# Study on throughput in slotted 8O2.15.4 network based on hidden terminal
+
+Cheng Hongbin,Wang Xiaonan,Le Deguang, Sun Xia (SchoolofComputer Science&Engineering,Changshu InstituteofTechnology,Changshu Jiangsu215500,China)
+
+Abstract:To increasetheperformanceof throughputfor 8O2.15.4 network,thispaperdesignedanimproved process of node state transition.Movever,it proposed a modelof nodeaccess channelconsidering the hidden terminal problemand retransmission,anditcarredoutthe analysis andcalculationof model.Basedon thecalculationresultsandtheanalysisof channelstate model,Then,itgaveoutthederivationsofthedatacollsions probability、packetlostrateandthroughputchael considering the hidden terminalproblem.Finall,it studiedthe impactofpacket arivalrate、backofexponentand hiden terminalonthe performanceof network throughput.Experimentalresults showthat,compare with 8O2.15.4 network without retransmission mechanism,the network throughput is increased by $8 3 . 9 \%$ or so. Compare with the sleep methods under some conditions,the network throughput is increased by $1 3 . 3 \%$ on average,the proposed model can effectively improve network throughput performance.
+
+Key words: hidden terminal ; throughput; channel access; packet arrival rate; model
+
+# 0 引言
+
+当前，无线传感网络已经逐渐在大部分分布式感知应用中部署实施，而大部分无线传感网是基于IEEE802.15.4协议构建。因此，802.15.4标准协议的性能研究和优化成为一个重要的问题，目前基于数学建模方法对协议分析优化成为一个重要的途径。
+
+文献[1]中提出了一种基于退避的非坚持CSMA 算法的简单协议模型，并对其进行了理论分析。文献[2]设计的模型没有考虑节点的睡眠态，另外对平均服务时间和吞吐量的计算比较繁琐。文献[3]设计了一种考虑节点休眠态的信道竞争方法，但其对节点退避过程描述不精确，并且对非饱和负载的建模不深入。文献[4]通过排队论对不饱和负载建模，但是所描述的节点的动态状态切换过程与802.15.4网络实际运行特征不符。文献[5]对802.15.4MAC层协议信道竞争访问期进行建模分析，提出改进的冲突避免方法，并对吞吐量性能进行了分析，但是文献并未考虑隐藏终端现象。文献[6]提出一个基于隐藏终端单跳通信IEEE802.15.4MAC模型，并基于模型分析了部分网络性能。文献[7]对节点分组的标准星型802.15.4网络MAC层信道建模。在考虑隐藏终端的情形下，分析了帧长度和数据到达速率对吞吐量的性能影响。但是并未对MAC层协议进行优化改进。文献[8]设计了一个基于优先级的802.15.4MAC 模型，但没有对信道接入时延性能建模。文献[9]提出一个分布式自适应算法，并进行时延和能耗性能优化，对接收数据的平均时延性能建模，
+
+但没有分析信道竞争时延性能。
+
+已有的 802.15.4MAC协议的性能建模工作都具有非常重要的意义，但相关的模型和方法还有待改进。在无线传感器网络主要性能指标中，吞吐量是 802.15.4 网络 MAC 层协议设计的主要指标之一。目前关于网络吞吐量的研究中，一般是基于标准802.15.4协议进行吞吐量性能分析，或者没有考虑隐藏终端对网络的吞吐量性能影响。本文基于802.15.4协议MAC层机制优化的基础上，对基于重传机制和隐藏终端的时隙802.15.4MAC层协议进行数学建模，并研究协议参数对网络吞吐量的影响和优化。
+
+# 1基于隐藏终端的吞吐量性能
+
+在无线传感器网络中，媒体控制层采用802.15.4协议，节点通过分时共享方法竞争MAC层信道，所以网络中肯定存在隐藏终端，隐藏终端问题对数据包冲突有较大的影响，从而影响网络和节点的主要性能。
+
+为了有效提升802.15.4网络吞吐量性能，改善802.15.4媒体介入控制层的数据包冲突问题是重要的途径。造成802.15.4媒体介入控制层的数据冲突主要有信道接入冲突 和隐藏终端造成的冲突两种原因。所以分析隐藏终端对网络吞吐量性能的影响，改进信道竞争接入的机制，对于802.15.4协议的应用有重要意义。
+
+本文深入分析考虑隐藏终端的802.15.4协议关键算法，提出一个优化的节点媒体接入控制机制，建立其关键算法的数学模型和吞吐量的模型，通过实验分析网络和协议参数对吞吐量的影响，研究改进网络吞吐量性能的有效方法。
+
+# 2 模型
+
+# 2.1模型及推导
+
+本文分析支持信标使能的IEEE802.15.4网络MAC层协议的工作机制，节点采用时隙CSMA/CA算法竞争MAC层信道。通过对传感节点的状态转移分析，设计与无线传感网络的实际运行特征更加相符的802.15.4MAC层信道竞争机制，从而能够优化节点的吞吐量性能。
+
+根据无线传感网络的非饱和负载和数据量较小的特征，开启超帧非活跃期，不考虑超帧活跃期中的非竞争访问时隙期，节点工作的超帧周期由非活跃期与活跃期构成。节点工作过程中，其可能的状态包括活跃期状态和非活跃期状态。而按照时隙CSMA/CA算法流程，活跃期状态可划分为偷听、空闲、检测信道、发送四种可能状态。其中空闲和偷听态都是节点退避等待时存在的状态。偷听发生在节点退避时接收不是给自己的广播数据。节点的工作状态变换如图1所示。
+
+网络节点按照802.15.4媒体接入控制协议竞争信道，其工作特点是一个离散的随机动态过程，节点的实际运行特征与马尔可夫链的对象特点相符，因此使用二维马尔可夫链模型对节点信道接入过程进行仿真模拟，模型[11\~13]如图2所示。
+
+![](images/445bac4e7f44b510d860eacf8d574645acaaed678fce1ac56fdc972b90824502.jpg)  
+图1节点状态转移图
+
+![](images/3803c0443b448a21e3f201fa72fbe8589b986f3a6f436ba73ef4699f0ae8eed6.jpg)  
+图2节点信道接入模型
+
+依据上述对节点工作超帧周期的设计，信道接入模型中节点的状态分别是数据包发送态T、退避态G（包含偷听态和空闲态）、信道检测态H和非活跃态。节点从发送态、非活跃态和退避三种状态转换到到非活跃态的单步概率分别是c1、c2和 $^ { c 3 }$ 。一轮退避期完成后，节点先后进行两次信道检测结果失败的概率分别是 $x$ ， $y$ 。节点在一次信道竞争过程中退避轮数的最大值是NB，其中第i轮退避期的时间为 $\mathbf { W } _ { 0 } 2 ^ { i }$ ， $\mathbf { W } _ { 0 }$ 为 $2 ^ { m i n B E }$ ，是首轮退避时间值，minBE是协议参数，即最小退避指数值。另外，本模型考虑数据包重传机制，一旦数据包发送冲突，节点会进行数据包重传，重新按照信道接入机制努力去发送数据。$j$ 为数据传输发送碰撞的概率。
+
+依据马尔可夫链模型的特点，提出的模型存在平稳分布，节点主要的单步状态转移概率和稳态概率为
+
+$$
+\begin{array} { r l } & { P \{ G _ { i + 1 , k , 0 } \mid H _ { i , 1 , 0 } \} = x / W _ { i } , i \in ( 0 , m ) , k \in ( 0 , W _ { i } - 1 ) } \\ & { P \{ G _ { 0 , k , 0 } \mid H _ { m , 1 , 0 } \} = x ( 1 - c _ { 2 } ) / W _ { 0 } , k \in ( 0 , W _ { 0 } - 1 ) } \\ & { P \{ H _ { i , 2 , 0 } \mid G _ { i , 0 , 0 } \} = 1 - c _ { 3 } - x - 4 x c _ { 3 } , i \in ( 0 , m ) } \\ & { P \{ T _ { 1 } \mid G _ { i , 0 , 0 } \} = ( 1 - x ) ( 1 - c _ { 3 } ) , i \in ( 0 , m ) } \\ & { P \{ G _ { i , k , 0 } \mid G _ { i - 1 , 0 , 0 } \} = [ x + ( 1 - x ) y ] ( 1 - c _ { 3 } ) / W _ { i } , i \in ( 1 , m ) , k \in ( 0 , W _ { 0 } - 1 ) } \\ & { P \{ G _ { 0 , k , 0 } \mid G _ { i , 0 , 0 } \} = [ ( 1 - c _ { 3 } ) ( 1 - x ) ( 1 - y ) c _ { 1 } ( 1 - x _ { 2 } ) + ( 1 - c _ { 3 } ) ( 1 - x ) ( 1 - c _ { 1 } ) } \\ & { \qquad + c _ { 3 } ( 1 - c _ { 2 } ) ] / w _ { 0 } , i \in ( 0 , m ) , k \in ( 0 , W _ { 0 } - 1 ) } \end{array}
+$$
+
+$$
+\begin{array} { l } { \pi _ { _ { G _ { i , \Delta } } } = \pi _ { _ { G _ { i , \Delta } } } S ^ { \dagger } , i \in \{ 1 , m \} , S = ( 1 - c _ { s } ) ( x + y - x y ) } \\ { \pi _ { D } = \{ \displaystyle \{ \sum _ { k = 0 } ^ { 3 } \pi _ { _ { G _ { i , \Delta } } } \varepsilon _ { _ 3 } + \langle \sum _ { i = 0 } ^ { 3 } \pi _ { _ { G _ { i , \Delta } } } \rangle S _ { i } + \pi _ { _ { \mathrm { B } _ { s , m } } } S \} / ( 1 - c _ { s } ) } \\ { \pi _ { _ { H _ { i , \Delta } } } = \pi _ { G _ { i , \Delta } } , ( 1 - c _ { s } ) = \pi _ { G _ { i , m } } ( 1 - c _ { s } ) ^ { i + 1 } ( x + y - x y ) ^ { i } = \pi _ { G _ { i , \Delta } \setminus \{ 1 - c _ { s } \} } S ^ { \dagger } } \\ { \displaystyle \sum _ { k = 0 } ^ { \infty } \pi _ { _ { H _ { i , \Delta } } } = ( 1 - c _ { s } ) \sum _ { i = 0 } ^ { m } \pi _ { _ { G _ { i , \Delta } } = 0 } - ( 1 - c _ { s } ) \cdot \pi _ { G _ { i , \Delta } } , \displaystyle \frac { 1 - S ^ { \mathrm { m i d } } } { 1 - S } } \\ { \pi _ { _ { T } } = ( 1 - y ) \sum _ { i = 0 } ^ { m } \pi _ { _ { H _ { i , \Delta } } } = ( 1 - y ) \cdot ( 1 - x ) \cdot ( 1 - c _ { s } ) \cdot \pi _ { G _ { i , \Delta } } , \displaystyle \frac { 1 - S ^ { \mathrm { m i d } } } { 1 - S } } \\ { \displaystyle \sum _ { k = 0 } ^ { \infty } \pi _ { _ { G _ { i , \Delta } } } = \frac { 1 } { 2 } [ W _ { 0 } ] ^ { \mathrm { a s s } } \pi _ { _ { G _ { i , \Delta } } } , \displaystyle \frac { S ^ { \mathrm { m a x } } \pi _ { _ { G _ { i , \Delta } } } } { 1 - S } + W _ { 0 } ^ { \mathrm { m a x } } \left( \frac { 1 - S ^ { \mathrm { m a x } } \pi _ { _ { G _ { i , \Delta } } } } { 1 - S } - \frac { 1 - S ^ { \mathrm { m a x } } \pi _ { _ { G _ { i , \Delta } } } } { 1 - S } \right) . } \end{array}
+$$
+
+# 2.2 吞吐量
+
+基于节点接入信道模型，参见文献[10]的方法，使用马尔可夫链模型对网络信道工作过程进行数学建模。802.15.4网络MAC层信道吞吐量定义为：一次成功数据传输过程中，发送单位数据包的耗时占耗费信道总时间的比例。信道的状态迁移过程如图3所示。
+
+考虑网络中隐藏终端节点的存在，由于其产生的数据传输冲突问题，从而导致数据丢包现象加重。因此，考虑隐藏终端现象的网络吞吐量表示为
+
+Tho= 理想吞吐量 $\times$ (1一数据丢包率 $\underline { { \mathcal { \bar { H } } } } \{ \underline { { \xi } } \}$
+
+![](images/5d0943c3f76ef108e0680bb592495f878b410d87b548456e4420b4038456d8ac.jpg)  
+图3信道模型
+
+根据信道模型，信道在数据发送过程中的工作状态分为A、$^ { ( A , A ) }$ 、 $F a$ 和 $T r$ 。其中： $A$ 为信道空闲态的状态； (A,A)为信道在两个连续的时隙内空闲的状态，发生的概率为$e = ( 1 - \pi _ { T } ) ^ { n }$ 。 $\mathrm { { T r } }$ 为发送数据态，从 $( A , A )$ 转移到Tr态的概率为 $f = n \pi _ { { _ T } } ( 1 - \pi _ { { _ T } } ) ^ { n - 1 }$ ： $F a$ 为发生信道冲突的状态，从(A,A)转移到Fa的概率是1-e-f。
+
+另外，根据模型，可推导信道状态的稳态概率方程组，从而推导出802.15.4网络的吞吐量的表达式为
+
+$$
+T h o \mathbf { = } [ L f / ( 1 + ( 1 + L ) ( 1 - e ) ) ] ( 1 - \ddagger \& \ddagger \in \mathcal { Q } , \mp \varXi \in \mathcal { Q } , \ - \ddagger \gg )
+$$
+
+其中：对于造成网络数据丢包的成因，本文主要考虑节点信道竞争失败和隐藏终端问题造成的数据碰撞造成的丢包现象。节点信道竞争失败造成的碰撞概率可以表示为
+
+$$
+P _ { 1 } = 1 - ( \ 1 - \pi _ { { \mathit { T } } } ) ^ { \mathrm { { n } } - 1 }
+$$
+
+其中： $\pi _ { { T } }$ 为节点处于数据传输的稳态概率； $\mathfrak { n }$ 是网络节点总数。
+
+假设隐藏终端个数是 $N _ { h }$ ，参见文献[14,15]的推导方法，隐藏终端造成的数据包冲突概率表示为
+
+$$
+p _ { 2 } = 1 - \left( \ 1 \ - p _ { s e n d } \right) ^ { ( N h \ * \ T h ) / \mathrm { D s } }
+$$
+
+其中： $T _ { h }$ 是隐藏终端导致的数据冲突概率区间，表示为(-z， $z +$ $\mathrm { S I F S } + B _ { \cdot }$ ， $z$ 是一个数据包的传送时间， $B$ 为MAC层信道传播时延，SIFS为数据包间隔最小值；Ds是一个时隙长度。
+
+基于数据冲突概率的分析，基于无重传机制的网络中MAC层数据包的丢包率表示为
+
+$$
+p _ { \mathbb { X } \mathbb { H } ; \mathbb { Z } } = 1 \ - \ ( \ 1 - p _ { 1 } ) \ ( 1 - p _ { 2 } )
+$$
+
+另外，基于有重传的网络中MAC层中，假设最大重传次数 $\mathbf { \nabla } _ { m }$ ，则网络数据包丢包率表示为
+
+$$
+p _ { \# \# \{ \# = p ^ { \ m + 1 } \} }
+$$
+
+基于数据丢包率和吞吐量的模型推导，考虑隐藏终端的网络吞吐量表示为
+
+$$
+T h o { = } L f ( 1 { \cdot } \mathsf { p } 1 ) ( 1 { \cdot } \mathsf { p } 2 ) / ( 1 { + } ( 1 { + } L ) ( 1 { - } e ) )
+$$
+
+# 3 吞吐量性能分析
+
+下面通过实验研究基于隐藏终端现象的802.15.4网络吞吐量性能。实验环境为：网络拓扑结构为部署为单跳星型，节点处于有效通信距离内。到达节点的负载为非饱和情形，假定数据包到达速率为0\~20包/秒范围内，节点总数 $N$ 为25以内。数据发送失败后最大重传的次数为3。节点超帧周期中，信标指数SO最小值为6，超帧指数BO为4。节点最大退避轮数NB为5，退避指数最小为2。下面对网络吞吐量性能进行实验研究。
+
+![](images/ade62d96d947d74f60b3f8a64809693fa5d1b22787d1fe5698a2fa952d76993a.jpg)
+
+图4描述了考虑隐藏终端现象时，随着网络负载的变化，协议参数 $B E$ 和NB对信道吞吐量的影响。很明显，网络吞吐量随着 $\lambda$ 的增加呈现先升后降的趋势。当λ较小时，吞吐量随着$\lambda$ 的递增而增加，这是因为发送任务增多的原因。此时，退避指数BE最小值越小，网络吞吐量越低，这是因为此时节点退避周期延长，节点更多时间处于退避等待，所以吞吐量有了相应的降低。当吞吐量达到最大值后，随着的逐步增加，网络吞吐量逐渐递减。这是因为数据发送任务增多后，由于隐藏终端和信道竞争的原因，数据发送冲突增加，网络吞吐量降低。此时，退避指数BE最小值越大，网络吞吐量越低，这是因为BE 越大，节点退避窗口越大。在非饱和负载情形下，节点的等待信道时间加长，降低信道的数据发送概率，降低网络吞吐量。
+
+图4还反映了退避次数NB最大值对吞吐量的影响。可以看出，NB对网络吞吐量的影响比较小。另外，较小的NB值能够获得更好的吞吐量性能。一旦网络负载饱和，网络吞吐量越来越小，吞吐量趋于饱和。这是因为信道吞吐量达到峰值之后，网络处于饱和态，增加负载只能加重信道冲突，吞吐量呈现持续下降。
+
+![](images/8cab7a75dc25eaaf5185914fd8ffc6aff4b1a1e918a35abcd04e3c59c53f1355.jpg)  
+图4吞吐量与入关系  
+图5描述了隐藏终端个数对吞吐量的影响。  
+图5隐藏终端个数对吞吐量的影响
+
+随着网络中隐藏终端个数的增加，吞吐量逐渐大幅度降低，说明隐藏终端个数对吞吐量的影响很大。而且退避指数BE最小值越大，吞吐量越低。这是因为在隐藏终端个数相同时，节点退避期耗费的时间更多，从而导致节点进行信道检测、发送数据等状态的概率降低，吞吐量相应的降低。
+
+![](images/1cacda28ca5bc039255b888676be889651ced990f48c6a1ca50b762897b57b40.jpg)  
+图6描述了不考虑隐藏终端与考虑隐藏终端的吞吐量的对比。  
+图9吞吐量与节点数目关系
+
+随着?的增加，不考虑隐藏终端的网络吞吐量明显高些，说明隐藏终端对网络吞吐量性能有明显的负面影响。
+
+![](images/90e1fb41d6e8727dcc5a2e7bf8bdbbb7a07d69193be3315a5b9c3a87d5296e94.jpg)  
+图7是本文模型与文献[10]模型的吞吐量对比。  
+图7吞吐量对比
+
+本文模型考虑了节点从退避状态转移到非活跃态的单步概率c3，即节点本轮退避期结束后发现剩余超帧时间不够两次信道检测和一个数据帧发送，节点结束信道竞争并进入不活跃态，以便等待下一个超帧到来后重新竞争信道。考虑c3的目的是为了降低数据发送失败的概率。实验结果表明，本文模型的吞吐量比文献[10]模型的吞吐量提高了 $1 3 . 3 \%$ 。
+
+![](images/900f4c17a3d98e71ac3aac50c7396cff069668ddfd993d07cc78e74eda7976bb.jpg)  
+图6吞吐量对比  
+图8是重传机制与网络吞吐量关系的实验结果。  
+图8吞吐量对比
+
+从图中可看出，本文模型加入重传机制后，比无重传机制的 802.15.4网络吞吐量平均增加了 $8 3 . 9 \%$ 左右。这是因为协议不考虑重传机制时，节点一旦传输数据后发生碰撞，数据发送失败，节点进入不活跃态。而本文模型加入了重传，网络发生数据碰撞后，节点重新按照时隙CSMA/CA算法竞争信道继续发送数据，因此能够有效提高节点传输数据的机会，相应地降低了网络丢包率，提高了网络的吞吐量性能。
+
+图9为吞吐量与节点数目关系的实验结果。
+
+0.1-   
+量 560000000000000   
+旺0.05 &   
+吞 X minBE=2有 0 minBE=3有 minBE=2无 ogob5d minBE=3无 5 10 20 30 40 节点数目(个)
+
+随着节点个数的增多，吞吐量逐渐增大。这是由于网络规模扩大后，信道中发送数据的数量增多。而在相同网络规模情况下，隐藏终端问题对网络的吞吐量影响较小。
+
+另外，节点个数相同时，minBE越大，网络吞吐量性能更好。这是因为网络规模一定条件下，节点退避期越长，信道冲突相应降低，数据发送成功的概率提高，吞吐量也随之增加。
+
+经过对基于改进模型的网络吞吐量、数据碰撞概率和丢包率和的实验研究，提出的模型能够较好地反映基于隐藏终端的时隙802.15.4网络吞吐量性能。基于本文模型能够更精确研究协议参数配置、隐藏终端对媒体接入控制层数据包发送的影响。研究工作为802.15.4协议在无线传感器网络实际应用中提供理论参考。
+
+# 4 结束语
+
+针对基于隐藏终端802.15.4网络吞吐量性能优化问题，本文提出了一个基于重传机制的时隙CSMA/CA算法的节点接入信道模型。同时结合信道状态模型的数学分析计算，分析数据碰撞和丢包问题，推导出网络吞吐量性能分析模型。通过大量实验研究表明，提出的分析模型可以有效地分析网络吞量性能，并且通过主要协议参数的优化设置能够一定程度改善吞吐量性能。下一步需要通过设计相关的协议优化策略，建立更符合实际的分析模型，使协议更加符合实际应用需求。
+
+# 参考文献：
+
+[1]Ramachandran I,Das AK,Roy S,Analysis of the contention access period of IEEE 802.15.4 MAC[J].ACM Trans on Sensor Networks,2007,3(1): 1-29.   
+[2]陆阳，方梅，官骏鸣，等．非饱和态 802.15.4网络吞吐量建模分析[J]. 系统仿真学报，2010,22(4):1037-1041.(Lu Yang，Fang Mei,Guan Junming,et al. Throughput analysis of 8O2.15.4 networks working on
+
+non-saturation situation [J].Journal of system simulation,2O1o,22 (4):
+
+1037-1041. )   
+[3]高博，何晨，蒋铃鸽．一种考虑休眠模式的 IEEE 802.15.4MAC 协议 [J].上海交通大学学报,2009,4(6):918-922.(Gao Bo,He Chen, Jiang Lingge.A Markov-based analytical model for IEEE 802.15.4 MAC considering sleep mode [J].Journal of Shanghai Jiaotong University,2009, 4 (6): 918-922.)   
+[4] 郭宁，毛剑琳，王瑞，等．基于M/G//1//K 排队理论的 IEEE 802.15.4 网络吞吐量分析[J].计算机应用，2014，34(3):619-622.(Guo Ning， Mao Jianlin,Wang Rui,et al.Network throughput analysis of IEEE 802. 15.4based on M//G//1//K queuing theory [J].Journal of Computer Applications,2014,34(3): 619-622.)   
+[5] Wang Feng,Li Dou,Zhao Yuping.On analysis of the contention access period of IEEE 802.15.4 MAC and its improvement [J].Wireless Personal Communications,2012,65 (4): 955-975   
+[6]Samaras IK,Hassapis G D.A flexible analytical Markov model for the IEEE 802.15.4 unslotted mechanism in single-hop hierarchical wireless networks with hidden nodes [J].Wireless Personal Communications,2013, 72 (4): 2389-2424   
+[7]Wijetunge S,Gunawardana U,Liyanapathirana R.Throughput analysis of IEEE 802.15.4 beacon-enabled MAC protocol in the presence of hidden nodes [J].Wireless Networks,2014,20(7):1889-1908.   
+[8]Zhao L,Bai GW,Shen H,et al.Priority-based IEEE802.15.4 CSMA//CA mechanism for WSNs [J].The Journal of China Universities of Posts and Telecommunications,2013,20(1): 47-53.   
+[9]Park P,Di Marco P,Fischione C,et al.Modeling and optimization of the IEEE 802.15.4 protocol for reliable and timely communications [J].IEEE Trans on Parallel and Distributed Systems,2013,24(3): 550-564.   
+[10] Wen H,Lin C,Chen ZJ,et al.An improved Markov model for IEEE 802. 15.4 Slotted CSMA//CA mech-anism [J]. Journal of Computer Science and Technology,2009,24 (3): 495-504.   
+[11] Prasad Y,Pachamuthu R.Analytical model of adaptive CSMA-CA MAC forreliable and timely clustered wireless multi-hop communication [C]// Proc of IEEE World Forum on Internet of Things.2014: 212-217.   
+[12] Hussein O,Sadek N M,Elnoubi S,et al. Analytical model of multihop IEEE 802.15.4 with unslotted CA//CSMA [J].International Journal of Computer and Communication Engineering,2014,3(3): 226-230.   
+[13] Kim T O,Baek S,Choi B D.Performance analysis of IEEE 8O2.15.4 superfame structure with the inactive period [J].Performance Evaluation, 2016,106:50-69.   
+[14] Jang B,Sichitiu ML.IEEE 8O2.11 saturation throughput analysis in the presence of hidden terminals [J].IEEE//ACM Trans on Networking,2012, 20 (2): 557-570.   
+[15]Patel N R,Kumar S.Enhanced clear channel assessment for slotted CSMA//CA in IEEE 802.15.4[J].Wireless Personal Communications, 2017: 1-19.

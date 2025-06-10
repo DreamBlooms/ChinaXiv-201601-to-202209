@@ -1,0 +1,476 @@
+[
+    {
+        "type": "text",
+        "text": "甘南藏区游牧民定居工程满意度研究以夏河县为例",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "雒占福，范圆圆，杨哲，张金，朱立祥（西北师范大学地理与环境科学学院,甘肃兰州730070)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：甘南藏区的游牧民定居工程既是减轻草场压力、恢复生态的重大生态工程，又是促进牧民脱离贫困、改善聚居环境的重大民生工程，其定居点满意度研究既具有城市与乡村人居环境研究的复合性特点，又具有特殊的地域性与民族性特点。在乡村振兴战略背景下，基于使用后评价视角，采用问卷调查法，运用模糊综合评价模型对夏河县游牧民定居点人居环境满意度进行评价研究，定量认识定居工程的良好表现及其存在的问题,对进一步优化生态定居工程策略具有重要的借鉴意义,结果表明：(1)夏河县牧民定居点人居环境满意度模糊综合评价结果为比较满意，各维度评价结果差异明显，呈现出“公共基础服务设施满意度 $>$ 自然环境满意度 $>$ 人文环境满意度 $>$ 居住环境满意度”的递减特征。(2)夏河县定居牧民对定居点选址环境、空气质量与水草源配置的满意度较高，对定居工程未能解决草场退化问题与有悖于牧民崇山敬水的佛教环境伦理观的垃圾污染问题而对其不满意。(3)夏河县定居牧民对定居后的饮食结构与亲朋邻里感比较满意，对定居后多样化的家庭收入基本满意，而对定居环境的地方心理归属感及其与原有宗教信仰、生活习俗的融合不满意。(4)夏河县定居牧民对居住环境的房屋质量与朝向非常满意，对家庭宗教空间设置基本满意，对缺少个性化、地方化和乡村化的过于统一的色调风貌与不适应民族生活习惯的现代厨卫浴设置表现为不满意。(5)夏河县定居工程保障了定居牧民日常生活照明、供水、用能的水电供应条件,教育设施缩短了学龄孩子的就学距离而提高了入学率，公共活动场所增加了体育锻炼健身和传统习俗的发展空间，定居牧民对此支撑体系的大幅提升比较满意，而对成效因素复杂的地方政府提供的技术服务培训表现为不满意。(6)甘南藏区游牧民定居点满意度兼具乡村与城市人居环境满意度的复合性，对定居工程的不满意体现了游牧民对原有乡村人居环境的留恋与传统文化信仰的坚守，而对定居工程满意则体现了对城市人居环境建设的接受与认可。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：定居游牧；人居环境满意度；模糊综合评价；夏河县文章编号： 1000 -6060(2019)03-0636-09(0636\\~0644)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "甘南藏区是青藏高原生态屏障的重要组成部分，是黄河重要水源补给生态功能区，是我国重要的生态主体功能区和生态文明先行示范区。甘南藏区的游牧民定居工程既是减轻草场压力、恢复生态的重大生态工程，又是促进牧民脱离贫困、改善聚居环境与有效分享现代公共服务设施与基础设施的重大民生工程。伴随着西部大开发与藏区扶持政策的深入实施，甘南藏区游牧民定居项目得到了较快推进，显著改变了迁居牧民的物质聚居条件，有力提升了迁居牧民的现代生活水平，但仍有部分游牧民对定居新环境存在诸多消极态度，主要表现为定居工程导致了游牧民由逐水草而居转变为集中定居的地方感缺失，由游牧生产转变为轮牧舍饲生产的不适应感增强，由自然松散型的乡村生活环境转变为城镇型生活环境的空间局促感。党的十九大报告中提出了乡村振兴战略，对建设美好的乡村人居环境具有重大指导意义，对甘南藏区将进一步实施生态保护下的游牧民定居工程提出了新要求。因此，科学进行已建设完成的游牧民定居工程的满意度评价研究有助于发现定居工程存在的不足与问题，为有效实施定居工程提供借鉴。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人居环境研究历来是人文地理与城市规划研究的重要内容[1],当前普遍通过多维度视角的满意度来评价认识城乡人居环境的宜居满意度。国外学者大多从建筑类型、住房条件、住房管理、社会环境等方面对公共住房[2]、公共廉价住房[3]、大学生公寓[4]、老年住区[5]以及高速路附近住区[6]等不同居住类型的居民进行满意度评价。国内学者主要从自然环境、人文环境、房屋建筑、公共设施、生态安全等方面主要对平原乡村[7]、湘西村落[8]、皖南乡村[9]乡村扶贫[10]、城市居住[11-12]进行满意度评价,也开始关注游牧民定居社区的适应性研究[13]与移民安置区人居环境研究[14]。当前国内外学者在城乡人居环境满意度研究时多从自然、人文、居住环境等宏观层面入手，关注影响其人居环境满意度的微观制约因子与影响因素，由于人居环境的地域差异及其居民群体特征差异，其满意度评价指标体系各不相同。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文选择建成环境使用后评价（Post OccupancyEvaluation,POE)方法，以甘南藏区夏河县三个已建成的牧民定居点为研究样本，采用问卷调查获取定居牧民对建成环境真实感受，通过4个维度20项指标来认识游牧民定居点人居环境的满意度，以此探求甘南藏区游牧民定居工程的设计意图与实际居住状况之间的差距与不足，为完善现有定居工程的不足和进一步提升后续定居工程的宜居满意度提供科学借鉴。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "甘南藏区的夏河县地处甘南州西北部，是甘肃省重点牧业县之一，县域内天然草原面积 $5 0 . 2 7 \\times$ $1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ ,占土地总面积的 $8 0 . 1 \\%$ 。夏河县是甘南州首批实施游牧民定居工程的重点县，定居点分别为夏河县桑科镇桑科新村、甘加镇西科村、科才镇政府驻地（图1）。到2017年底，全县共1128户9540名牧民已入住定居点，其中，桑科镇桑科新村定居游牧民235户1125人，甘加镇西科村定居游牧民191户1013人，科才镇政府驻地入驻其下辖的其莫尔村、科才村、赞布宁村三个行政村的游牧民，迁居规模分别为214户1320人、250户1272人与238户",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/afca0a6eaf1297c67a2eae256e1a32e7710e5f03f1d81050d392b93737fb0558.jpg",
+        "img_caption": [
+            "图1案例点空间分布图",
+            "Fig.1Spatial distribution of the research sample point "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1190人。目前，夏河县三处游牧民定居点初具社区规模，基础设施基本完善、交通比较便捷。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 问卷设计与数据采集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选择问卷调查法为基本方法，问卷形式为半开放式结构，重点关注定居牧民的基本情况与定居环境满意度两个方面，围绕夏河县定居工程所涉及的自然、社会、经济与环境条件进行问卷问题的选择确定，形成初步问卷。于2017年6月先后对三个牧民定居点进行预调研，对每个定居点抽调20户进行访谈问卷，获知牧民定居的真实心理感受后，更换了城市人居环境的相关指标(绿化、商业、休闲与停车位等指标），强化了涉及夏河藏族游牧民生产生活的相关指标（水草组合配置、传统习俗沿袭、宗教空间设置、生态退化与生态补偿等），形成正式问卷。并按照统计学样本数量确定方法，于2017年8月对三个定居点分别按照 $20 \\%$ ， $2 5 \\%$ 与 $5 5 \\%$ 比例采用入户访谈的方式完成300份问卷，获得有效问卷292份。通过计算，问卷Cronbach's $\\alpha$ 系数值为0.863，表明问卷中各题目之间一致性较高，问卷信度较好。由于牧民在课题组人员协助下仍对问卷问题存在理解困难，故采用李克特量表法，评定尺度设置为“非常满意、比较满意、基本满意、不太满意、很不满意”五级。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2评价指标体系构建与权重确定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "甘南藏区游牧民定居点满意度研究不同于一般的城市与乡村人居环境满意度评价，首先是定居工程服务的主体是地方游牧民，由血缘关系和地缘关系的藏族家庭群体构成，拥有相同的生产劳作方式、生活文化习俗与宗教信仰特性，很相似于以村民为主体的乡村人居环境满意度评价；其次是游牧民定居工程是规模大小不同的游牧民搬迁集聚点，离开了原有的生活聚居空间，必然对新的聚居模式、生产方式、生活条件与行为习俗产生陌生的、不适应的、不满意的复杂心理感知过程，使得其对新建聚居点的满意度研究又相似于城市人居环境评价。因此，甘南藏区游牧民定居点满意度兼具城市与乡村人居环境研究的复合性。本文按照全面性、层次性与科学性原则,根据前期调查问卷的主体内容及其调查结果，构建了体现甘南藏区游牧民定居工程满意度的POE指标体系，即由自然环境、人文环境、居住环",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1夏河县牧民定居点人居环境满意度评价指标体系及权重",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/9c0a967fdb849afccf20448405a5b8718245acfc5c598579643d58295df310de.jpg",
+        "table_caption": [
+            "Tab.1Index system and weight of satisfaction degree of herdsman settlements in Xiahe County "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>目标层</td><td>准则层(B)</td><td>指标层(C)</td></tr><tr><td>牧民 定居 点人 居环 境满</td><td>自然环境(B) [0.074 7]</td><td>定居点选址环境(C,）[0.0324] 水草源配置（C)[0.0230] 空气质量(C）[0.0070] 草场退化与卫生感知（C4)[0.0123] 区位优势（C5)[0.0133]</td></tr><tr><td>意度 评价</td><td>人文环境(B) [0.123 8] 居住环境(B） [0.319 9]</td><td>家庭收入及来源(C6)[0.0439] 饮食结构（C）[0.0108] 亲朋邻里感（C8)[0.0128] 藏族传统习俗沿袭（C9）[0.0217] 心理归属感(Cio)[0.0214] 房屋质量与朝向（C）[0.0805] 居室风貌(C1）[0.1561] 宗教空间设置(CI3）[0.0514]</td></tr><tr><td></td><td>公共基础服务 设施（B4) [0.481 6]</td><td>厨卫浴设置（C14)[0.0319] 水电供应（C1s）[0.1080] 教育条件（C16）[0.1509] 看病就医条件（C）[0.0863] 公共活动场所（C1g）[0.0552] 生态补偿及定居补贴（Cg）[0.0328] 实用技术培训(Co)[0.0483]</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "境与公共基础服务设施四个维度形成准则层，其中，自然环境是定居点工程的基本背景环境与立地条件，决定了地方居民的生产方式与生活行为；居住环境是定居点工程的物质主体，为居民提高生活空间；公共基础服务设施是定居牧民正常生活的支持系统，而人文环境则是夏河县游牧民特有的文化、习俗、心理及其宗教，它根植于甘南藏区的自然环境，渗透于居住环境与公共基础服务设施等人工环境中，是定居点工程的精神所在。各准则层由涵义明确、相互独立的20个指标构成。由于评价指标的难量化与模糊性，选择德尔菲法和模糊层次分析法（由yaahpV10.5实现)进行权重测算，按算术平均法赋于各指标权重，结果如表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 确定评价矩阵 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据评价体系各层次的权重与评价指标的五级结果，确定目标层评价矩阵 $( R )$ 与准则层评价矩阵$( R _ { k } )$ 。其中,准则层评价矩阵 $\\begin{array} { r } { R _ { k } = ( r _ { i j } ) m \\times n , k = } \\end{array}$ $^ { 1 , 2 , 3 , 4 ; m }$ 为各准则层的评价指标的个数， $n$ 为评价等级个数， $r _ { i j }$ 是通过统计问卷数据得出的选择某项的人数占总人数的比率，结果如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "0.1575 0.66780.1507 0.0171 0.0068 0.1301 0.6438 0.1301 0.0753 0.020 5   \nR= 0.7568 0.164 4 0.0788 0.0000 0.000 0 0.0993 0.0445 0.2363 0.4418 0.1438 0.1164 0.2877 0.4452 0.0993 0.051 4 0.03770.31850.36300.1815 0.099 3 0.0719 0.4144 0.2637 0.1747 0.0753   \nR= 0.28080.3253 0.2329 0.1096 0.0514 0.09930.0993 0.2568 0.2774 0.2671 0.06850.1507 0.34250.3219 0.1164 0.3664 0.50680.12670.0000 0.0003 0.0274 0.0891 0.2260 0.4315 0.2260   \nR= 0.0308 0.0616 0.5342 0.2979 0.0753 0.0822 0.2740 0.1986 0.3870 0.0582   \n$\\begin{array} { r l } { 0 . 6 9 8 \\ 6 \\ 0 . 2 1 5 8 \\ 0 . 0 5 4 8 \\ 0 . 0 1 3 7 \\ 0 . 0 1 7 \\ 1 } \\\\ { 0 . 2 8 7 7 \\ 0 . 4 7 9 5 \\ 0 . 1 8 4 9 \\ 0 . 0 2 7 4 \\ 0 . 0 2 0 5 } \\\\ { 0 . 2 6 3 7 \\ 0 . 1 6 7 8 \\ 0 . 3 4 2 5 \\ 0 . 1 3 3 6 \\ 0 . 0 9 2 5 } \\\\ { 0 . 3 2 5 \\ 3 \\ 0 . 2 8 7 7 \\ 0 . 3 1 1 \\ 6 \\ 0 . 0 6 8 \\ 5 \\ 0 . 0 0 6 \\ 8 } \\\\ { 0 . 0 3 4 2 \\ 0 . 1 7 8 1 \\ 0 . 4 1 4 \\ 4 \\ 0 . 2 8 4 2 \\ \\ 0 . 0 8 9 \\ 0 } \\\\ { 0 . 0 3 0 8 \\ 0 . 0 4 1 1 \\ 0 . 3 4 2 5 \\ 0 . 4 0 4 1 \\ 0 . 1 8 1 5 } \\end{array}$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4 评价结果 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在多层次模糊综合评价时，每一层次的综合评价由低一层次的综合评价所得，先对准则层进行模糊综合评价得出 $B _ { 1 } , B _ { 2 } , B _ { 3 } , B _ { 4 }$ ，然后建立目标层的综合评价矩阵，最后得出目标层的模糊综合评价V$= ( \\mathrm { ~ } V _ { 1 } , V _ { 2 } , V _ { 3 } , V _ { 4 } , V _ { 5 } )$ 。计算利用MATLABR2014a软件，均采用算子 $\\mathbf { M } ( \\odot , \\bullet )$ ,能够保留全部有用信息，全面考虑到各个因素的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$B _ { 1 } = W _ { 1 } R _ { 1 } = ( 0 . 1 9 6 8 , 0 . 5 1 3 5 , 0 . 1 5 2 3 ,$ （204号0.103 8,0. 033 7)  \n$B _ { 2 } = W _ { 2 } R _ { 2 } = ( 0 . 0 9 0 \\ 4 , 0 . 2 5 6 \\ 7 , 0 . 3 2 7 \\ 7 ,$ （204号0.205 8,0.119 5)  \n$B _ { 3 } = W 3 _ { _ { R 3 } } = ( 0 . 1 2 0 \\ 1 , 0 . 2 0 9 \\ 8 \\ , 0 . 2 4 8 \\ 2 ,$ （200.2951,0.126 8)  \n$B _ { 4 } = W _ { 4 } R _ { 4 } = ( 0 . 3 3 6 8 , 0 . 2 7 8 0 , 0 . 2 2 9 9 ,$ （20号0.103 4,0.051 9)  \n则目标层的模糊综合评价为：  \n$\\begin{array} { r } { A = W R = (  { \\mathrm { ~ 0 . ~ } } 2 6 0 \\ \\& \\ , 0 . \\ 2 6 5 \\ \\ 0 , 0 . \\ 2 3 6 \\ \\ 8 , } \\end{array}$ 0.161 7,0.075 7)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2夏河县游牧民定居点满意度评价结果 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/43359b0ddc9513726c6ec03cf0d13e356c9127d67758319e1984c9beef271c0b.jpg",
+        "table_caption": [
+            "Tab.2Results of satisfaction degree of herdsman "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">settlements in Xiahe County</td></tr><tr><td>评价对象</td><td>非常 比较 基本 满意 满意 满意 /% /% /%</td><td>不太 很不 满意 满意 /% /%</td><td>隶 属 度</td><td>总体 满意度 评价</td></tr><tr><td>自然环境(B)</td><td>19.7 51.3</td><td>15.2 10.4</td><td>3.4 V2</td><td>比较满意</td></tr><tr><td>人文环境(B） 居住环境(B)</td><td>9.0 25.7</td><td>32.8 20.6</td><td>11.9 V3</td><td>基本满意</td></tr><tr><td>公共基础服务</td><td>12.0 21.0</td><td>24.8 29.5</td><td>12.5</td><td>V4不太满意</td></tr><tr><td>设施（B4）</td><td>33.7 27.8</td><td>23.0 10.3</td><td>5.2</td><td>V非常满意</td></tr><tr><td>总体结果(A)</td><td>26.1 26.5</td><td>23.7 16.2</td><td>7.6 V</td><td>比较满意</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 结果分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1夏河县定居点总体比较满意，各组分满意度差 异较大 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从目标层模糊综合评价结果看，夏河县游牧民定居点五级评价结果中非常满意为 $2 6 . 1 \\%$ ，比较满意为 $2 6 . 5 \\%$ ，基本满意为 $2 3 . 7 \\%$ ，总体满意率达$7 6 . 2 \\%$ ,不太满意与很不满意占 $2 3 . 8 \\%$ 。根据最大隶属度原则，夏河县牧民对定居点整体上比较满意（图2）。表明甘南藏区游牧民定居工程彻底结束了过去“一顶帐篷一个家，一方草原一生的作坊，一条牧鞭一生的伴侣”的游牧生活，在改善游牧民生产生活环境，提升游牧民生活水平方面得到了肯定和满意，是值得推广的民心工程。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1fbf8d71d8d37bea68b100a02f979bbc1317bb05449ecf8c86903278fd818b15.jpg",
+        "img_caption": [
+            "图2夏河县游牧民定居点四大维度满意度评价结果 Fig.2Satisfaction evaluation results of four dimensions of nomadic settlements in Xiahe County "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从各准则层模糊综合评价结果的最大隶属度看，夏河县迁居游牧民对定居点工程满意度总体呈现出“公共基础服务设施满意度 $>$ 自然环境满意度$>$ 人文环境满意度 $>$ 居住环境满意度”的递减特征，居住环境尚未达到基本满意。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2对定居点自然环境比较满意，对草场退化与卫生感知不满意",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "就自然环境的各指标满意度来看，夏河县游牧民对定居点的选址环境、空气质量与水草源配置的满意度较高，满意率（非常满意、比较满意和基本满意3项之和)分别为 $9 7 . 6 \\%$ 、 $100 \\%$ 与 $9 0 . 4 \\%$ ,而在草场退化与卫生感知方面表现为不满意，满意率仅为 $3 8 \\%$ （图3）。前者满意是因为夏河县近年来所实施的游牧民定居工程，将原来位于交通不便的分散小村落与存在地震、滑坡、泥石流等不良灾害频发地段的村落搬迁到空间开阔的河谷区、公路沿线或较好的乡镇府驻地等处[15],所选安置定居区不仅平坦开阔，交通方便与安全宜居，而且水源稳定充足，生态环境良好，导致大多数定居游牧民对选址定居区自然环境满意度较高。后者不满意是由于夏河县属于典型的草原牧区，草原生态环境脆弱，超载过牧导致草场退化严重[16]。实施游牧民定居工程虽然有了牧民传统游牧方式向暖季牧场放牧、冷季舍饲乃至全年舍饲养殖的生产方式转变,但草场退化现状未能以定居而转变，同时定居后生活消费日趋多元化，垃圾（各种不易分解的塑料袋、包装袋、泡沫产品等)污染非常突出，完全相悖于牧民近山崇山、近水崇水的的佛教环境伦理观，从而导致了牧民对定居工程的草场保护与美好卫生环境不一致的期望感知。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3对定居点人文环境的亲朋邻里感与饮食结构比较满意，对传统习俗与心理归属感不满意",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "游牧民对定居点的人文环境各指标满意度差异较大，对定居后的亲朋邻里感与饮食结构的满意率分别达 $8 3 . 9 \\%$ 与 $7 5 \\%$ （图4）。表明夏河县实施的游牧民定居工程将原有分散的聚落集中到一起，空间的邻近显著增强了亲朋邻里感[17-18]。同时定居点配置良好生活服务设施，大大地方便与保障了饮食烹饪过程中对用水、用电、用能、蔬菜、食品以及其他饮食物资的供给等各种需求的配备，不仅丰富了餐桌食物，而且有效降低饮食单一所致的高寒高发病的几率，彻底改变了以往游牧过程中风餐露宿的生活状态，对此获得了较好的满意度。对定居后的家庭收入满意率为 $7 2 \\%$ ，这是因为定居后有部分牧民凭借定居点良好的区位优势逐渐兴起了牧家乐、藏餐吧、帐篷城等服务业，部分牧民走出草原进城务工，而大部分游牧民仍以牧业为主要经济来源，使得定居后的经济收入仅为基本满意，未达到定居前的期望程度，如同中国城市“新移民”聚居区的经济满意度结果[19]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "夏河县游牧民对定居后的传统习俗沿袭与心理归属感不满意，满意率仅为 $4 5 . 5 \\%$ 与 $56 \\%$ 。这是因为游牧民在长期的生产生活中形成了独特的传统习俗，建立了深深的地方心理归属感，但在搬迁定居后，这些根植在原有生产生活空间的传统习俗沿袭与地方心理归属感脱离了原有载体，导致了较低的满意度。如科才镇牧民定居点是依托基础条件较好的科才镇驻地而形成的夏河县最大游牧民定居点，集中定居改变了以往自然松散的单个村落所特有的邻里、亲缘、习俗、宗教乃至生产方式等人一村关系，难以在短时期内使定居者建立良好的地方心理归属感，因此，定居工程应重视定居游牧民心理归属感尚未建立而隐含的各类问题。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4对定居点居住环境的房屋质量与宗教空间设置比较满意，对居室风貌与厨卫浴设置不满意",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "夏河县游牧民对定居后的房屋质量朝向比较满意，满意率达 $100 \\%$ （图5）。定居工程户均建筑面积 $9 0 ~ \\mathrm { m } ^ { 2 }$ ,采用农村院落式户型，砖混结构，朝向良好，在国家定居补贴下建造了玻璃暖廊，增添了现代化生活空间，使牧民生活空间更加便利舒适，告别了四季一顶帐篷的游牧生活，这也是其比较满意的主要体现。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "夏河县游牧民对定居房屋环境的宗教空间设置表现为基本满意，满意率为 $6 2 . 6 \\%$ 。在传统观念上，藏族牧民将家庭空间分为家庭世俗空间与家庭神圣空间，相比过去，牧民定居工程的家庭空间的功能安排更多为生产生活服务，那些诸如门垛、顶拉（藏族家庭房屋最上方小屋供奉的佛像）、佛堂、塔觉(经幡)与粮仓等家庭神圣空间安排不足，导致家庭世俗空间增大而家庭神圣空间压减，使得那些年事已高与不愿出门的信众，在萨嘎达瓦节、燃灯节等大型宗教节日期间在家里没有进行宗教活动的空间，从而使得游牧民对定居后的宗教空间设置仅表现为基本满意，该结果与彭陟焱等关于藏族家庭神圣空间的研究结论较为一致[20]",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e72f0231edaf078f470b1039c072132be04c49cc562357f9228237d4dca5d4fa.jpg",
+        "img_caption": [
+            "图3夏河县游牧民定居点自然环境满意度评价结果 Fig.3Results of natural environment satisfaction of nomadic settlements in Xiahe County "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/058012a6d88acdc727c13327acc48d477514bf4f2e0dd829201a482d64e07f69.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0a06c6ccbfdf69d58aa799c6bbeaca2da11b3743712d824459c8b370c706213d.jpg",
+        "img_caption": [
+            "图4夏河县游牧民定居点人文环境满意度评价结果 Fig.4Results of cultural environment satisfaction of nomadic settlements in Xiahe County ",
+            "图5夏河县游牧民定居点居住环境满意度评价结果 Fig.5Results of living environment satisfaction of nomadic settlements in Xiahe County "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "夏河县游牧民对定居后的居室风貌与厨卫浴设置表现为不满意，满意率仅为 $3 4 . 3 \\%$ 与 $5 5 . 4 \\%$ 。对于前者，由于定居点的布局、风貌及其工程建设是整体性的规划建设过程,使得定居点房屋集中分布，排列整齐,居室风貌的色调统一，如屋顶、屋檐、墙体、墙裙乃至门窗框的粉饰颜色完全一致，虽然这有利于形成牧民定居点统一的色调,但这种居住小区式城镇型的统一色调与牧民个体的色调审美偏好有较大的出入，缺少个性化、地方化和生活气息，使得游牧民对定居后的居室风貌表现为突出的不满意。对于后者的不满意首先表现为对现代独立的厨房空间的不适应性，即依照藏族人的生活习惯，喜欢传统的火塘(灶台）,将其设置在待客的屋子中间,既便于主人做饭和煮奶茶，又可以方便取暖，同时火塘多以牛粪为燃料，牧民们认为用牛粪做燃料既取材方便、经济实惠，又燃烧后不污染环境，因而使得定居工程所设置的厨房形同虚设；其次表现为对现代卫生间的不适应性，过去游牧民是逐水草而居，居无定所，无固定厕所，因而没有形成在卫生间解手的习惯，更不具备洗澡的条件。在调研中发现很多定居家庭中虽然有安装有冲水式马桶和太阳能热水器的卫生间，但因为习惯问题与当地水资源的珍贵，现代化卫生间的使用频率普遍并不高，很多牧民家庭倾向于使用卫生条件较差但更方便的旱厕。由于上述生活环境、习惯和经济条件的关系，厨卫浴的设置对于藏区游牧民定居点来说显得有点水土不服。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.5对公共基础服务设施的水电供应、教育医疗、公共活动场所比较满意，对实用技术培训不满意",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "就公共基础服务设施的指标满意度来看，夏河县游牧民对定居后的水电供应、教育条件、公共活动场所很满意，其满意率分别为 $9 7 \\% 9 5 \\%$ 与 $9 2 . 5 \\%$ （图6）。这是因为定居工程大大提高了游牧民日常生活照明、用能、用水、烧水的便利性，同时也大幅度提高了适龄儿童的入学率，降低了辍学率。调查显示几乎所有学龄、学龄前儿童的家庭都把“子女上学方便”作为定居意愿性的首要因素，体现出了藏族牧民对学习文化知识的渴望和为下一代付出教育投资的良好意愿。同时，游牧民定居工程充分考虑了定居牧民对体育锻炼健身活动空间和藏族传统习俗发展空间的双重需求，设计建设了文化活动广场、篮球场、健身器材、玛尼房、白塔与公共厕所等，不仅满足了游牧民日常体育活动需求，为牧民邻里交流和文化交融提供了新场所，也给锅庄舞等国家级非物质文化遗产提供了生存空间，潜移默化地影响了游牧民的生活，从而也获得了很满意的评价结果。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "夏河县游牧民对定居后的医疗条件与定居补贴表现为 $7 7 . 4 \\%$ 与 $6 2 . 7 \\%$ 的满意率，前者是因为规模最小的村庄型定居点(桑科新村与西科村)都是千人以上的居民点，可以配置一定规模的医疗卫生设施，解决了以往分散小规模难以承载的医疗卫生设施，不仅大大缩短了看病就医的时空距离，而且提高了医疗服务水平，获得了基本满意度评价结果；而后者虽然定居游牧民通过生态补贴与定居补贴切实感受到了国家的关怀与支持，但面对畜牧养殖的经济效益，仍有较大部分牧民不愿意牺牲自身利益来换取环境利益[21]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "夏河县游牧民对定居后政府提供的实用技术培训服务表示不太满意，满意率仅为 $4 1 . 4 \\%$ 。通过调查，当地政府部门虽然举办过相关培训课程，但由于牧民群众受教育程度普遍较低，技能基础弱，接受能力有限,且大部分培训实用性不高，加之语言障碍、自谋职业意识弱、政府提供就业机会有限以及用工市场不确定性等主客观原因，导致实用技术培训成效不显著，难以获得满意的评价结果。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a022c90222bc1fdcc3b3214a7d0600312d21bbac739452ea26924ffa4acaccd4.jpg",
+        "img_caption": [
+            "图6夏河县游牧民定居点公共基础服务设施满意度评价结果",
+            "Fig.6Results of public basic services satisfaction of nomadic settlements in Xiahe County "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "甘南藏区夏河县游牧民定居工程满意度研究结果基本揭示了该项工程的独特性、地域性、民族性及其生态保护与民族发展的政策性，同时也揭示了定居工程满意度不同于一般城市与乡村人居环境满意度研究，具有复合性特点。结果表现为：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）夏河县定居点总体比较满意，各组分满意度差异较大。其中，总体满意率达 $7 6 . 2 \\%$ ，而对定居点所在的自然环境、公共基础服务设施、人文环境与居住环境的满意率分别达 $8 6 . \\ 2 \\% . 8 4 . \\ 5 \\%$ 、$6 7 . 5 \\%$ 与 $5 8 \\%$ ，呈现出“公共基础服务设施满意度 $>$ 自然环境满意度 $>$ 人文环境满意度 $>$ 居住环境满意度”的递减特征。这是因为夏河县游牧民对定居工程提供的公共基础服务设施（水电供应、医疗教育条件、公共活动场与实用培训技术等)大大改善了游牧民的生活条件，提高了定居游牧民的生活品质而最为满意，而新建的居住住宅在宗教空间与现代厨卫浴设置上却未能符合传统习俗而导致最为不满意。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）夏河县游牧民对定居点自然环境比较满意，对草场退化与卫生感知不满意。这是因为定居工程重视规划选址安全、环境质量与水草资源的配置组合条件，因而满意率分别达到了 $9 7 . 6 \\%$ 、 $100 \\%$ 与 $9 0 . 4 \\%$ ;而定居工程建设因未能有效阻止草场退化，且带来了现代生活垃圾污染，带来了有悖于牧民崇山敬水的传统佛教环境伦理观而表现为不满意的期望感知。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）夏河县游牧民对定居点人文环境的亲朋邻里感与饮食结构比较满意，对传统习俗与心理归属感不满意。这是因为定居工程显著改变了游牧民聚落的空间分散状态，集中式定居显著增强了亲朋邻里感，同时彻底改变了以往游牧过程中风餐露宿饮食结构不合理的生活状态，从而获得了 $8 3 . 9 \\%$ 与$7 5 \\%$ 的满意率;而定居工程尚未在短时间内建立与原有生活生产空间相一致的传统习俗与地方心理归属感而导致 $4 5 . 5 \\%$ 与 $56 \\%$ 的满意率。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（4）夏河县游牧民对定居点居住环境的房屋质量与宗教空间设置比较满意，对居室风貌与厨卫浴设置不满意。这是因为夏河县实施的游牧民定居工程重视居住环境的建设，在房屋质量与朝向选择上得到了 $100 \\%$ 的满意，在家庭宗教空间的设置上得到了 $6 2 . 6 \\%$ 的基本满意率，而对缺少个性化、地方化和民族特色的过于统一的色调风貌与不适应民族生活习惯的现代厨卫浴设置表现为不满意。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（5）夏河县游牧民对公共基础服务设施的水电供应、教育医疗、公共活动场所比较满意，对实用技术培训不满意。这是因为定居工程的公共基础服务设施建设保障了定居牧民日常生活照明、供水、用能用热的水电供应条件，缩短了学龄孩子的就学距离而提高了入学率，提供了体育锻炼健身空间和传统习俗的发展空间，从获得了 $9 7 \\%$ ） $9 5 \\%$ 与 $9 2 . 5 \\%$ 的满意率；而定居规模解决了以往分散小规模难以承载的医疗卫生设施，缩短了就医时空距离，提高了医疗服务水平，达到了 $7 7 . 4 \\%$ 的基本满意率;由于实用技术培训的成效因素复杂，对当地政府提供的技术服务培训结果表现为不满意。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（6）甘南藏区游牧民定居点满意度兼具乡村与城市人居环境满意度的复合性。这是因为夏河县游牧民因相同的地缘关系、相同的生产劳作方式、生活文化习俗与宗教信仰，对定居工程带来的有悖于牧民崇山敬水的传统佛教环境伦理观的生活垃圾污染，对过于统一色调与风貌的缺少地方化和民族特色的居住环境，对缺少承载文化习俗与宗教信仰的居住空间，以及不适应民族生活习惯的现代厨卫浴设置都表现为不满意，体现了游牧民对原有乡村人居环境的留恋与传统文化信仰的坚守。而定居工程的集中式定居在增强亲朋邻里感、公共服务设施的配套在改善游牧民饮食结构、提高教育医疗水平、提升生活品质等方面都表现为满意，体现了对城市人居环境建设的接受与认可。因此，甘南藏区游牧民定居点满意度则应以复合性视角进行评价。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文以夏河县为例，进行了甘南藏族游牧民定居工程满意度研究，虽其结果比较符合夏河县的实际状况，但其结果仍存在以下不足而需加强：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）应考虑定居时期长短对研究结果的影响，即定居工程满意度是基于人的物质需求与精神需求两个层面来判断定居工程的宜居性，特别是基于心理感知的精神需求满意度往往受到定居时间长短的影响，亦即游牧民从搬迁定居到适应与融入定居点环境是需要一定时间的适应过程，亦即建立稳定的地方感与归属感具有滞后性。由于夏河县定居工程分为多个定居点，并先后几批实施，从游牧民对定居工程的物质建设满意度较高而对精神感知指标满意度低的结果表明了地方感与归属感建立的滞后性，以及传统生活习惯对现代生活方式（使用现代的厨卫浴设施)的适应性也存在滞后性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（2）定居工程满意度会受游牧民性别、年龄、教育、文化、经济基础、收入水平以及拥有社会资源等因素的影响而表现不同。就性别而言，夏河藏族家庭中“男主外，女主内\"式的家庭生产模式和部分男子入寺为僧情况的普遍存在，社会生产任务完全转嫁给妇女，导致藏族女性在社会交往时受到诸多约束,重男轻女、男尊女卑的思想观念根深蒂固，因而生活范围相对狭小，社会参与度不高，而男性则拥有更多的时间精力、更广泛的渠道等优势来与外界进行沟通交流。因此，由于生产生活的分工不同与社会地位的差异导致定居工程的每一个组成部分每个环节的满意度都因性别差异而有所不同。当然，性别差异必然导致其教育、文化乃至社会资源的差异，由进一步影响到满意度结果",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）定居工程满意度也会因传统部落制度和藏传佛教文化的影响而使其结果有所影响。历史时期形成的部落制度对村落的布点选择具有重大影响，直接影响牧民的迁居选择行为与新聚落的认可满意度，即部落(部族)的认同问题也必然影响其满意度的结果。因此，未来可针对不同时期甘南藏族游牧民定居工程满意度差异及其影响因素与机制开展相关研究。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]吴良镛.人居环境科学导论[M].北京：中国建筑工业出版社， 2001:38.［WU Liangyong.Introduction to sciences of human settlements[M].Beijing:China Architecture and Building Press, 2001:38.]   \n[2] UKOHA O M,BEAMISHJO.Assessment of residents’satisfaction with public housing in Abuja,Nigeria[J].Habitat International, 1997,21(4) :445 -460.   \n[3] MOHIT M A,IBRAHIM M,YONG RR.Assessment of residential satisfaction in newly designed public low-cost housing in Kuala Lumpur,Malaysia[J].Habitat International,2O1O,34(1):18-27.   \n[4] AMOLE D.Residential satisfaction in students’housing[J]. Journal of Environmental Psychology,2009,29（1）:76-85.   \n[5] RIOUX L,WERNER C.Residential satisfaction among aging people living in place[J].Journal of Environmental Psychology,2011, 31(2) :158 -169.   \n[6] HAMERSMA M,TILLERMA T,SUSSMANJ,et al.Residential satisfaction close to highways:The impact of accessibility,nuisances and highway adjustment projects[J].Transportation Research Part A,2014,59(59):106-121.   \n[7] 李伯华,刘传明，曾菊新.乡村人居环境的居民满意度评价及 其优化策略研究——以石首市久合皖乡为例[J].人文地理， 2009,24(1）:28-32.[LI Bohua,LIU Chuanming,ZENG Juxin. An evaluation on the satisfaction degree and optimization strategy of rural human settlements:A case study of Jiuheyuan Town in Shishou City[J]. Human Geography,2009,24(1）:28-32.]   \n[8］曾灿,裴福旦.湘西地区传统村落人居环境调查及保护研 究——以古丈县李家村为例[J].中外建筑,2017,23（9）： 107-112.[ZENG Can,PEI Fudan.Investigation and protection of human settlements in traditional villages in western Hunan Province:With Li Villages of Guzhang Countyas an example[J]. Chinese and Overseas Architecture,2017,23(9）:107 -112.]   \n[9］杨兴柱,王群.皖南旅游区乡村人居环境质量评价及影响分析 [J].地理学报,2013,68（6）:851-867.[YANG Xingzhu, WANG qun.Evaluation of rural human settlement quality difference and its driving factors in tourism area of southern Anhui Province[J].Acta Geographica Sinica,2013,68(6）:851-867.]   \n[10］汪侠,甄峰,沈丽珍,等.基于贫困居民视角的旅游扶贫满意度 评价[J].地理研究,2017,36（12）:2355－2368.[WANG Xia, ZHEN Feng,SHEN Lizhen,et al.Evaluation of poor residents’satisfaction with tourism poverty alleviation[J].Geographical Research,2017,36(12) :2355 -2368.]   \n[11］李俊峰,高凌宇,马作幸.跨江择居居民的居住满意度及影响 因素——以南京市浦口区为例[J].地理研究,2017,36（12）： 2383-2392.[LI Junfeng,GAO Lingyu,MA Zuoxing.Residential satisfaction and its influencing factors of the residents choosing to live trans-Yangtze River[J].Geographical Research,2O17,36 （12):2383 -2392.]   \n[12］雷军,王建锋,段祖亮.基于城市地理学视角的社区居民满意 度研究——以乌鲁木齐市为例[J].干旱区地理,2014,37（1)： 153-162.[LEI Jun,WANG Jianfeng,DUAN Zuliang. Community residengts’satisfaction based on the perspective of urban geography:A case Urumqi City[J]. Arid Land Geography,2014,37(1): 153 - 162.]   \n[13］彭定萍,贺卫光.夏河游牧民定居社区适应性的现状研究- 基于夏河牧区定居新村的实地调查［J].西北民族大学学报： 哲学社会科学版,2009,31（1）:57-62.[PENG Dingping,HE Weiguang.Studieson the current situationof Xiahe nomads’adaptability of settement in community:Based on the field study of Xiahe pastoral areas settlement in new community[J]. Northwest University for National（Philosophyand Social Science）,2009,31 (1) :57 -62.]   \n[14］黄研.基于POE评价的移民安置区人居环境研究——以陕南 移民搬迁为例[J].西北大学学报：自然科学版,2016,46（5）： 751-754.[HUANG Yan.The human settlement environment of resettlement area based on POE evaluation: Take the relocation in Southern Shaanxi for example[J]. Journal of Northwest University （Natural Science Edition）,2016,46(5）:751-754.]   \n[15］马文参,徐增让.基于高分影像的牧区聚落演变及其影响因 子——以西藏当曲流域为例[J].经济地理,2017,37（6）： 215 -223.[MA Wencan, XU Zengrang. Setlements change and influencing factors in pastoral area based on high-resolutioon remote sensing image:A case study of Dangqu Watershed in Tibet [J].Economic Geography,2017,37(6）:215-223.]   \n[16］王炳煜,韩天虎,孙斌,等.基于3S技术的夏河县天然草原的 载畜能力评价[J].中国草食动物科学,2010,30（5）：46-48. [WANG Bingyu,HAN Tianhu,SUN Bin,et al.Evaluationof carying capacity of natural grassland in Xiahe County based on 3S Technology[J].China Herbivores,2010,30(5）:46 -48.]   \n[17］赵雪雁，毛笑文.社会资本对农户生活满意度的影响一—基于 甘肃省的调查数据[J].干旱区地理，2015，38（5)：1040- 1048.［ZHAO Xueyan,MAO Xiaowen.Impact of social capital on the farmer's life satisfaction:Based on investigation data in Gansu Province[J].AridLand Geography,2015,38（5）:1040-1048.]   \n[18］王子侨,石育中,杨新军，等.外部社会资本视角下的黄土高原 农户生活满意度研究——以陕西省长武县洪家镇为例[J].干 旱区地理,2017，40（6）：1317-1327.［WANGZiqiao，SHI Yuzhong,YANG Xinjun,et al.Impact of social capital on the ryral households'life satisfaction in the loess plateau：A case of Hongjia Town in Changwu County［J]．Arid Land Geography,2017,40 (6):1317 -1327.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[19］李志刚.中国城市“新移民”聚居区居住满意度研究——以北京、上海、广州为例[J].城市规划,2011，35（12）：75-82.［LI",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Zhigang.A study of residential satisfaction in the Neo-Migrant enclaves of Chinese cities:A case of Beijing,Shanghai and Guangzhou[J].City PlanningReview,2011,35(12）:75-82.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[20］彭陟焱，叶健.藏传佛教中的藏族家庭神圣空间探析——以拉萨市当巴社区为例[J].西藏民族大学学报（哲学社会科学版）,2015,36（3）:27-33.[PENG Zhiyan,YEJian.Analysis ofsacred space of Tibetan household:TakingDan-Bag ofLhasa as anexample[J].Journal of XizangUniversity for Nationalities(Philos-ophyand SocialScience）,2015,36(3):27-33.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[21］王丽佳,刘兴元.牧民对草地生态补偿政策的满意度实证研究[J].生态学报,2017,37（17）：5798-5806.[WANGLijia,LIUXingyuan.Satisfaction with grassland eco-compensation policies forherders:An empirical study on the Gansu pastoral area[J].ActaEcologica Sinica,2017,37(17） :5798-5806.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Satisfaction degree of herdsmen settlement project in Southern Gansu Tibetan area : A case of Xiahe County ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "LUO Zhan-fu， FAN Yuan-yuan, YANG Zhe，ZHANG Jin， ZHU Li-xiang (College of Geographyand Environmental Science,Northwest Normal University,Lanzhou 73oo7O,Gansu,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract：The nomadic setlement project in Southern Gansu Tibetan area,Gansu Province,China is not onlya major ecological project to reduce the pressure and restore the ecology of the pasture,but alsoa major livelihood projectto help the herdsmen to break awayfrom poverty and to improvethe inhabitation environment.The study of residents’satisfaction has a compound characteristic between urban andrural human setlements,and also has special regional and ethnic characteristics.Under thebackgroundof Rural Revitalization Strategy,basedon theperspective of post occupancy evaluation,the fuzzy comprehensive evaluation model was used to evaluate the satisfaction of the nomadic settlement project in Xiahe County with the questionnaire survey data in order to understand quantitativelythe performance and theexisting problems,and then to optimize strategyforthe future nomadic settlement project.Theresults show as folows:（1）theresults offuzzycomprehensiveevaluationonthe satisfaction of theherdsmen living environment in Xia He County are satisfactory,and theresults of each dimension areobviously different, which showed a decline order list as folows:“satisfaction about public infrastructure service facilities $>$ satisfaction about natural environment $>$ satisfaction about human environment $>$ satisfaction about living environment”.（2） The settled herdsman in Xiahe County have higher satisfaction with theair qualityand the source of the water and grass of the setlement allocation,and have dissatisfaction with the problem ofthe degradation ofthe grassland and thegarbage polution againstthe Buddhist environmental ethics with reverence to mountains and water.（3）The setled herdsman in Xiahe Countyare satisfied with the diet structure and family feeling,and thediversified family income,but notsatisfied with thesenseoflocal psychological atachment andthe integrationof theoriginal religious beliefs and living customs.（4）The settled herdsmen in Xiahe County are very satisfied with the housing quality and orientationof the living environment,andare basicallysatisfied withthesetting ofthefamilyreligious space,but are dissatisfied with the modern kitchen and bathroom seting which are not adapted to national living habits,as wel asthe over-unifiedcolor style whichare lack of the personalization,localizationand rural style.（5）Thesetled herdsmen in Xiahe Countyare very satisfied with the support system ofthe settlement project that supply the daily living lighting,water supply,educational facilities thatshortens the school distance forschool-age childrenand increases the enrollment rate.The settled herdsmen are very satisfied with the space for physical exercise and for the development of traditional customs,but disatisfied with the training of technical services provided by local governments with complex factors.（6）The satisfaction degree of nomadic settlement in Southern Gansu Tibetan area is a combinationof the satisfactiondegreeofruralandurban humansetlements.Thedissatisfaction withthesettlement projectreflects nomads'nostalgia fortheoriginal rural human settlementsand theiradherence to traditional cultural beliefs,while the satisfaction with the setlement project reflects theiracceptanceand recognitionof the construction of urban human settlements. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:settled herdsmen；human settlements satisfaction； fuzzy comprehensive evaluation；Xiahe County ",
+        "page_idx": 8
+    }
+]

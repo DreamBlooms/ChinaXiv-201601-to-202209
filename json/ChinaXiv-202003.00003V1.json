@@ -1,0 +1,391 @@
+[
+    {
+        "type": "text",
+        "text": "COVID-19 outbreak increased risk of schizophrenia in aged adults ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "W. $\\mathrm { H u } ^ { 1 , 2 }$ ,L. $\\mathrm { S u } ^ { 3 , 4 }$ , J. Qiao1,2, J. Zhu1,2\\*,Y. Zhou5.6\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Xuzhou Oriental People's Hospital, Xuzhou, Jiangsu, China   \n2. Xuzhou Medical University, Xuzhou, Jiangsu, China   \n3. CAS Key Laboratory of Behavior Science, Institute of Psychology, Chinese Academy of   \nSciences, Beijing, China   \n4.Department of Psychology, University of Chinese Academy of Sciences, Beijing, China   \n5. Department of Neurobiology, Army Medical University, Chongqing, China   \n6.Chongqing Key Laboratory of Neuroscience, Chongqing, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Correspondence should be addressed to Dr. Yi Zhou (zhouyisjtu@gmail.com) or Dr. Jing Zhu (drzhujing@163.com) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Word count: 2,395 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Aims ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We noticed an unusual increase of first-time patients with schizophrenia (F2O) in January 2020 since the outbreak of COVID-19. The aim of this retrospective study is to validate this observation and find potential risk factors, if applicable. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A total number of 13,783 records from outpatients in January 2O2O were investigated thoroughly. Comparisons between incidence of schizophrenia in outpatients in January 2020 and similar periods of 2017-2O19 were made to minimize seasonal influence.Relationship of incidence of schizophrenia and COVID-19 infections in China was calculated.Limited personal information (age, gender, approximate residence) was analyzed to find risk factors. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "After excluding seasonal factors such as Spring festival, a positive relationship between incidence of schizophrenia in first-time patients and countrywide epidemic situation was found. Statistical results further showed a significant increase of median age from 39 to 5O for firsttime patients diagnosed with schizophrenia which is unusual. Meanwhile,a slight but not significant change was found in distribution of gender and approximate residence (urban/suburb). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Our data supported that COVID-19 outbreak increased risk of schizophrenia in aged adults which is consistent with the fact that COVID-19 is more lethal to elders. We strongly appeal that public healthcare in countries either with or without infected patients should prepare in advance for potential risks in public mental health. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: schizophrenia, COVID-19, mental disorders,age, public health, risk factor ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "COVID-19 is spreading rapidly in the world. In just over two months, it has infected more than eighty thousand people and killed more than two thousand according to World Health Organization. With a growing number of additional cases being identified in more than twenty countries every day, COVID-19 is causing much more public concern in the whole world than SARS (Severe Acute Respiratory Syndrome) or MERS (Middle East Respiratory Syndrome)(Novel Coronavirus Pneumonia Emergency Response Epidemiology， 2020). Although with a much lower lethality, the explosive spreading of COVID-19 is causing worldwide panic and sometimes chaos because potential shortage of supplies (e.g. food) and medical resources (e.g. N95 respirator and surgical mask). Previous study showed that severe epidemic has a negative impact on the mental states of healthy population, causing anxiety, depression,and even insomnia(Chen et al., 2006). In a 2009 H1N1 related research, it was also found that people's tolerance to uncertainty of information， self-assessment and coping behaviors can lead to different levels of anxiety(Taha et al., 2014). Yet litle is known about what kind of risk to mental health will be induced by such severe outbroke. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Different from SARS or MERS, the incubation period of COVID-19 could be as long as 27 days according to situation report No.29 from World Health Organization. In order to slow down the spread of COVID-19,many cities and towns in China have extremely strict regulations to control population flow. For example, temporary ban of public transportation and citizens are asked to stay at home as much as possible. Despite allthe benefits of traffic control, the notable reduction in number of outpatients we observed in recent clinics is actually a dangerous sign. Although we have provided alternative ways to help people with psychological or mental problems such as online counselling, patients who cannot see a psychiatrist might be at higher risk of deterioration. Once the countrywide traffc control is relieved, the number of outpatients will be highly likely to surge. We hope this short summary can provide some helpful clues to psychiatrists: if we can beter understand what has happened, we can always prepare accordingly in advance. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Due to the large number of patients,unusual incidence of schizophrenia was first noticed by psychiatrist from different departments since the outbreak of COVID-2019. In this retrospective study, we thoroughly investigated 13783 records in January 2020 to validate this observation. Seasonal factors such as Spring festival was considered but cannot explain the unexpected rising of schizophrenia alone. Linear regression was used to find potential relationship between incidence of schizophrenia and number of COVID-19 infections in China. Limited personal information such as age, gender and approximate address (urban/suburb) were accessed to find out potential risk factors. Because significant change of schizophrenia incidence was only found in first-time outpatients,these findings may also be important for general healthy public.Again, we call on psychiatrists and researchers in different regions to join together to share data and work together to counter the challenge to public mental health. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2. Methods ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1. Study overview and participants ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As a retrospective study, all records are collected from patients who visited Xuzhou Oriental People's Hospital. Records from a total number of 4,982 first-time patients (1,168 in 2017,1,347 in 2018,1,257 in 2019 and 1,210 in 2020) and 44,710 returned patients (8,778 in 2017,11,696 in 2018,11,663 in 2019,12,573 in 2020) were enrolled for detailed analysis.For each case used in this study,a clear clinical diagnosis must be made in accordance to the International Classfication of Diseases 10th Edition (ICD-10). Diagnostic results and limited personal information (gender,age and approximate address) are collected and analyzed to find potential risk factors.This retrospective study has been reviewed and approved by the ethical board at Xuzhou Oriental People's Hospital. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2Data alignment ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Although COVID-2019 began at the end of 2019, public awareness of the epidemic began in early January 2020(Novel Coronavirus Pneumonia Emergency Response Epidemiology, 2020). Data from January $1 ^ { \\mathrm { s t } }$ to $3 1 ^ { \\mathrm { t h } }$ were chosen to reflect progressive influence of COVID2019 outbreak. Because Spring festival of202O was also in January and big holidays like Spring festival could have significant impacts to mental states of people(Sansone and Sansone, 2011, Beauchamp et al., 2014), data in similar periods (near Spring festival) from 2017 to 2019 were used as baseline to minimize seasonal influence. The Spring festival was January $2 8 ^ { \\mathrm { t h } }$ in 2017, February $1 8 ^ { \\mathrm { t h } }$ in 2018, February $5 ^ { \\mathrm { t h } }$ in 2019 and January $2 5 ^ { \\mathrm { t h } }$ in 2020. Data in each year was aligned to the day of Spring festival respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It is also worth noting that before January $1 0 ^ { \\mathrm { t h } }$ 2020, COVID-19 caused pneumonia was only known as “an unknown pneumonia in Wuhan” and has not gained broad attention. On January $2 0 ^ { \\mathrm { t h } }$ ， COVID-19 was formally added to the list of Class B infectious diseases by Chinese Center for Disease Control and Prevention (China CDC).Meanwhile, China CDC also requested that although in Class B but COVID-19 should follow the regulations of Class A infectious diseases (e.g. smalpox and cholera). Thus, the data grouping used in this study is also matched with key time points during the outbreak of COVID-19. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.Data collection of COVID-19 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For countrywide situation of COVID-19, data were collected from the website of National Health Commission of the PRC (http://en.nhc.gov.cn, English version available). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4 Statistics ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "SPSS 20 (IBM, USA) was used for statistical analysis. Mann-Whitney U test was use for analysis of age. Chi-square test was used for analysis of gender and residence. The confidence level was set at $\\mathrm { P } < 0 . 0 5$ unless specified. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1. Overview of outpatients ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As a first-class psychiatric hospital at Grade 3, Xuzhou oriental hospital is specialized in mental disorders with more than 10o,0oo outpatients per year. Figure 1A showed the total number of outpatients in 2017, 2108 and 2019. Compared with similar periods in 2017-2019 (see Methods for details), there was an increase in number of outpatients in January 2020 (Fig. 1B). However, a significant decrease of outpatients can be found in the last 1l days of January 2020 (Fig.1C). In 2020, the daily visits in Spring festival (1.20-1.31) were $43 \\%$ lower than that in early and middle January(1.1-1.20). From 2017-2019,the daily visits were $1 7 \\%$ lower. This suggested that the sharp decrease of outpatients could be a result of both country wide restrictions of traffc and the coming Spring festival. To minimize the influence of seasonal factor,all following analysis are calculated as the proportion of schizophrenia to the total ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "number of outpatients unless specified. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.First-time patients increased in late January 2020 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For a total number of 13,783 outpatients in January 2020,12,015 were finally diagnosed and the rest were for counselling purpose. There are 1,210 $( 8 . 7 5 \\% )$ ）first-time patients and 12,573 $( 9 1 . 2 2 \\% )$ ）returned patients. In recent case discussion for outpatients,several doctors from different departments both reported a significant increase of schizophrenia (F2O) in firsttime patients since the outbreak of COVID-19. We then analyzed both first-time and returned patients to validate this observation. Raw number of patients are provided in Table 1. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig. 2 showed the relative change of incidence of first-time outpatients (Fig. 2A） and returned outpatients (Fig.2B) near Spring festival. Compared with the averaged data from 2017 to 2019,a slight decrease of incidence is found in returned outpatients. For first-time outpatients, a $2 5 \\%$ increase of incidence of schizophrenia can be found compared with the early January while a $10 \\%$ increase can be found from the averaged data of 2017-2019.These results confirmed previous observation and suggested that unusual rising of schizophrenia in first-time patients should not be due to holiday season alone. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3. A positive relationship between schizophrenia and outbreak of COVID-19 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To further examine the relationship between rising of schizophrenia and the outbreak of COVID-19 we collected data of COVID-19 from the website of National Health Commission of the PRC (see Methods for details). Figure 3A showed the proportion of schizophrenia in first-time outpatients in January 2O20 as well as the number of countrywide cases of COVID19.Both data showed a highly consistent trend of change in January 2020,especially late January. To obtain a reliable linear regression, the data was further clustered into six groups with an interval of five days in a similar way to Fig. 2. Linear regresson also showed a good fitting with $\\mathrm { R } ^ { 2 }$ value of 0.753. These suggested a positive relationship between unusual rising of schizophrenia in first-time patients and outbreak of COVID-19. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4. Age is a critical risk factor in new schizophrenia caused by COVID-19 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To find out potential risk factors in COVID-19 induced schizophrenia, limited personal information (age, gender, approximate address） were used for further analysis. One known feature of COVID-19 is that it is much more lethal to elders especially those who have underlying diseases (Guan et al., 2020, Novel Coronavirus Pneumonia Emergency Response Epidemiology, 2O2O). The risk gradually increases in patients over 50 years of age and $2 7 \\%$ of patients who are over 65 are severed cases(Guan et al., 2020). Fig. 4A showed the age distribution of first-time patients diagnosed with schizophrenia. An obvious right shift towards larger age can be found. The median age significantly increased from 39 (2O17-2019, $\\mathtt { n } = 2 6 1$ ） to 50 (2020, $\\mathtt { n } = 4 5$ ） $P = 0 . 0 1 1$ , Mann-Whitney U test). This indicated that age is a risk factor in new schizophrenia induced by COVID-19. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Gender has been known as a risk factor in multiple mental disorder(Riecher-Rossler et al., 2018,Keane et al.,20o6). Figure 4B showed the gender difference of schizophrenia between 2017-2019 and 2020.A slight but not significant difference ( $\\chi 2 = 0 . 8 8 4$ $P = 0 . 3 4 7$ , Chi-square test) was found suggesting gender is not a risk factor here. This is also consistent with case reports of COVID-19 in which no gender difference was found(Guan et al., 2020). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "According to official reports from China CDC,by the end of January 2020, majority of COVID-19 infections are found in urban regions especially big cities such as Wuhan. Much less cases were found in suburb areas where population density is low. To examine if residence is also a risk factor in schizophrenia induced by COVID-19,approximate addresses of firsttime outpatients was investigated. A slight decrease of urban visits was found from $40 . 8 \\%$ (2017-2019) to $3 5 . 2 9 \\%$ (2020) $( \\mathsf { X } ^ { 2 } = 0 . 3 6 7$ $P = 0 . 5 4 5$ , Chi-square test). This change could be due to strict traffic control in urban areas. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Previous research has shown that major crises and disasters can cause people to experience negative emotions such as anxiety, depression, and anger in short term (Kane et al., 2018). Long-term efects include suffering from post-traumatic stress disorder, depression, phobia, obsessive-compulsive disorder, and substance abuse (Inoue et al.,2019,Reifels et al., 2019). Although the effects are widespread, these mental disorders have relatively limited impact on patients' social functioning (Razzouk, 2017). This retrospective study unexpectedly found that COVID-19 was associated with an abnormal increase in first-onset schizophrenia cases in short term. This may be a dangerous signal because schizophrenia belongs to severe mental disorders (Organization,2017),which seriously afects the social functioning of patients. Although pathogenesis of schizophrenia is still unknown, stressful events or environments may lead to deterioration of psychiatric symptoms, which may be related to poor susceptibility to stress in early stages of schizophrenia (Horan et al.,2Oo5). Abnormal or even anti-social behaviors in recent news reports has set off alarm bells for us,and it is urgent to pay enough atention to the incidence of severe mental disorders. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "It has been found that severe epidemic like SARS in 2OO3 could result in sharp rise in suicide rates, especially among the elders (Chan et al.， 2Oo6).Possible reasons include the collpse of social networks and difficulty to obtain medical services.As mentioned earlier, COVID-19 is also known to be more lethal to elders, especially those who are over 65(Guan et al., 2020). These findings all suggested that aged people could be mentally sensitive to the outbreak of COVID-19. Our results showed COVID-19 outbreak increased the risk of schizophrenia in aged adults. What's even more concerning is that since the outbreak of COVID-19, the daily life of many Chinese people has been totally changed. To slow down the rapid spread of COVID-19, many big cities have shut down public transportation or even private transportation (e.g. Wuhan). When urgent crisis (e.g. SARS,Fukushima Daiichi and Chernobyl nuclear disaster) happened before,only a limited number of people were affected or social isolated which still caused a series of mental abnormalities such as alcohol abuse, depression and post-traumatic stress disorder (Morita et al., 2015,Pearson et al., 2013, Bromet et al.,2O11). We have never heard or foreseen a situation like today: milions of people are restricted from going outside to minimize risk of infection. Please keep in mind that our study only investigated unusual change of schizophrenia in the first month since the outbreak of COVID-19. We might face a more serious condition in the near future because nobody knows how long will the epidemic or strict regulations lasts. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Another issue that is very different from previous situation like SARS in 2Oo3 is that the whole world has become an information society in the past 2O years. Even if you live in a city where only a few or no infections were found, rapid spreading of COVID-19 could still mentally affect you through various kinds of social medias. Uncountable news and information are generated on Internet every day and almost everyone has a smart phone to obtain latest updates of COVID-19 through social medias (e.g. Twitter,Facebook and TikTok). While timely and transparent information are critical helpful for stopping severe infectious disease like COVID-19, too much information might also bring a heavy burden to the nerve of each person especially after weeks of traffic control. This could also increase the risk of severe mental disorders such as schizophrenia. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Finally, please also be noted that Xuzhou, the location of our hospital, has about 8 million population and only 23 were confirmed infections of COVID-19 by the end of January 2020. If numbers of mental disorders are already jumping here in Xuzhou, what willbe the situation like in Wuhan, a city with a population of over 15 million, of which nearly twenty thousand have been infected by COVID-19. While nobody can answer this question at this moment, everyone especially psychiatrists, should be prepared with emergency plans to avoid mental hazards caused by outbreak of COVID-19. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We sincerely appreciate all the people especially doctors and nurses who are heroically battling this disease now. Dr. Yi Zhou received funding from National Science Foundation of China (31771152, 31970932). Juan Qiao received funding from Xuzhou Science and Technology Bureau of Jiangsu Province (KC18172). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Data Availability Statement ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The data used in this study are available on request from corresponding author. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Conflict of interests ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The authors declare that they have no conflict of interest. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Beauchamp GA, Ho ML and Yin S (2014) Variation in suicide occurrence by day and during major American holidays. The Journal of emergency medicine 46, 776-781.   \nBromet EJ, Havenaar JM and Guey L(2O11) A 25 year retrospective review of the psychological consequences of the Chernobyl accident. Clinical Oncology 23,297-305.   \nChan SM,Chiu FK, Lam CW, Leung PY and Conwell Y (2O06) Elderly suicide and the 2O03 SARS epidemic in Hong Kong. Int J Geriatr Psychiatry21,113-8.   \nChen R,Chou KR, Huang YJ,Wang TS, Liu SY and Ho LY (2OO6) Effects of a SARS prevention programme in Taiwan on nursing staf's anxiety， depression and sleep quality:a longitudinal survey. Int J Nurs Stud 43,215-25.   \nGuan W-J, Ni Z-Y, HuY, Liang W-H, Ou C-Q,He J-X, Liu L, Shan H, Lei C-L, Hui DS,Du B, Li L-J, Zeng G, Yuen K-Y,Chen R-C,Tang C-L, Wang T,Chen P-Y, Xiang J, Li S-Y, Wang J-L, Liang Z-J, Peng Y-X, Wei L, Liu Y, Hu Y-H, Peng P,Wang J-M, Liu J-Y, Chen Z, Li G,Zheng Z-J,Qiu S-Q, Luo J, Ye C-J, Zhu S-Y and Zhong N-S (2O2O) Clinical characteristicsof2019novelcoronavirusinfectioninChina.medRxiv, 2020.02.06.20020974.   \nHoran WP,Ventura J, Nuechterlein KH, Subotnik KL, Hwang SS and Mintz J (2OO5) Stressful life events in recent-onset schizophrenia: reduced frequencies and altered subjective appraisals. Schizophr Res 75,363-74.   \nInoue Y, Stickley A, Yazawa A,Aida J, Kawachi I， Kondo K and Fujiwara T (2O19) Adverse childhood experiences, exposure to a natural disaster and posttraumatic stress disorder among survivors of the 2011 Great East Japan earthquake and tsunami. Epidemiol Psychiatr Sci28,45-53.   \nKane JC,Luitel NP,Jordans MJD, Kohrt BA,Weissbecker l and Tol WA (2O18) Mental health and psychosocial problems in the aftermath of the Nepal earthquakes: findings from a representative cluster sample survey. Epidemiology and Psychiatric Sciences 27,301-310.   \nKeane TM, Marshall AD and Taft CT (2Oo6) Postraumatic stress disorder: etiology, epidemiology, and treatment outcome. Annu Rev Clin Psycho/2,161-97.   \nMorita T,Tanimoto T, Hori A and Kanazawa Y(2O15) Alcohol use disorder due to social isolation aftera nuclear disaster in Fukushima.BMJ Case Reports 2015,bcr2015209971.   \nNovel Coronavirus Pneumonia Emergency Response Epidemiology T (202O)[The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China]. Zhonghua Liu Xing Bing Xue Za Zhi41,145-151.   \nOrganization WH 2017. Helping people with severe mental disorders live longer and healthier lives: policy brief. World Health Organization.   \nPearson AL, Griffin E, Davies A and Kingham S (2O13) An ecological study of the relationship between socioeconomic isolation and mental health in the most deprived areas in Auckland, New Zealand. Health & place 19,159-166.   \nRazzouk D 2017. Burden and Indirect Costs of Mental Disorders.In: RAZZOUK,D.(ed.) Mental Health Economics:The Costs and Benefits of Psychiatric Care. Cham: Springer International Publishing.   \nReifels L, Mils K, Duckers MLA and O'donnell ML (2019) Psychiatric epidemiology and disaster exposure in Australia.Epidemiol Psychiatr Sci28,310-320.   \nRiecher-Rosser A, Butler S and Kulkarni J (2O18) Sex and gender differences in schizophrenic psychoses-a critical review. Arch Womens Ment Health 21, 627-648.   \nSansone RA and Sansone LA (2O11） The christmas effect on psychopathology. Innov Clin Neurosci8, 10-3.   \nTaha S, Matheson K, Cronin T and Anisman H (2O14) Intolerance of uncertainty，appraisals, coping,and anxiety: the case of the 2009 H1N1 pandemic. Br J Health Psycho/19,592- 605. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b4729f294e0d8a0d6e181b2685fbe3a0fe6e0c3705debe8fcead45b6c5e0ac6.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Figure 1. Overview of outpatients. A. Yearly outpatients from 2017 to 2019. B. Daily visits in January 2020 and similar periods from 2017-2019. C.Daily visits in early (20 days before Spring festival),middle (10 days before Spring festival) and late January 2O20 (Spring festival). Similar periods: 20 days before Spring festival (1.4-1.13 in 2017,1.23-2.1 in 2018,1.12-1.21 in 2019,1.1-1.10 in 2020,10 days in total),10 days before Spring festival(1.14-1.23 in 2017, 2.2-2.11 in 2018,1.22-1.31 in 2019,1.11-1.20 in 2020,10 days in total),and Spring festival (1.24-2.3 in 2017, 2.12-2.22 in 2018,2.1-2.11 in 2019,1.21-1.31 in 2020,11 days in total). Data in 2017, 2018 and 2019 were averaged. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/c6dc60c66d176712abf118858853b1f8c3e2c4146fd7486d9858182fe90b39eb.jpg",
+        "img_caption": [
+            "Figure 2. Relative change of incidence of first-time patients (A) and returned patients (B) near Spring festival of 2017-2019 and 2020.Incidence is the proportion of schizophrenia in the total number of first-time outpatients.The relative change was calculated as the ratio to the first data point (in percentage). Data was aligned in the same way as Fig. 1C. "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/9746809478edddeb7f19c199d0883822b41954b1f32c605bce36f84e848d39a9.jpg",
+        "img_caption": [
+            "Figure 3. Coincidence of unusual increase of schizophrenia and outbreak of COVID-19.(A). Change of incidence in first-time outpatients (left Y-axis) and the number of infections with COVID-19 (right Y-axis). Data was aligned in a similar way as Fig. 1C except with an interval of 5 days. Please be noted that right Y-axis is logscale due to the explosive growth of COVID19. (B). Linear regression of schizophrenia and outbreak of COVID-19. "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/684e5214ab1e18d16394af8c8f46722b7ab65eab7275919393c7b015f7ced99e.jpg",
+        "img_caption": [
+            "Figure 4. Risk factors in schizophrenia induced by COVID-19. (A). Distribution of age. (B). "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Distribution of gender. (C). Distribution of approximate residence. Data in the whole month in January 2020 were used. Data in similar periods from 2017-2019 were averaged. ",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/768c947c9b4cf39e0baf0103f547213bdd58360034b3bd147414069711a83b15.jpg",
+        "table_caption": [
+            "Table 1.Diagnosis classification of outpatients in January 2020 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\"></td><td rowspan=\"2\">Number</td><td rowspan=\"2\">Proportion(%)</td></tr><tr><td></td><td>Diagnosed</td></tr><tr><td></td><td>Total</td><td>13783</td><td>100.00</td></tr><tr><td>F00</td><td>Dementia in Alzheimer disease</td><td>66</td><td>0.48</td></tr><tr><td>F01</td><td>Vascular dementia</td><td>29</td><td>0.21</td></tr><tr><td>F02</td><td>Dementia in other diseases classified elsewhere</td><td>2</td><td>0.01</td></tr><tr><td>F06</td><td>Other mental disorders due to brain damage and</td><td>386</td><td>2.80</td></tr><tr><td>F07</td><td>dysfunction and to physical disease Personality and behavioral disorders due to brain</td><td>9</td><td>0.07</td></tr><tr><td></td><td>disease, damage and dysfunction</td><td></td><td></td></tr><tr><td>F10</td><td>Mental and behavioral disorders due to use of alcohol</td><td>72</td><td>0.52</td></tr><tr><td>F19</td><td> Mental and behavioral disorders due to multiple drug</td><td>1</td><td>0.01</td></tr><tr><td></td><td>use and use of other psychoactive substances</td><td></td><td></td></tr><tr><td>F20</td><td>Schizophrenia</td><td>3541</td><td>25.69</td></tr><tr><td>F21</td><td>Schizotypal disorder</td><td>9</td><td>0.07</td></tr><tr><td>F22</td><td>Persistent delusional disorders</td><td>39</td><td>0.28</td></tr><tr><td>F23</td><td>Acute and transient psychotic disorders</td><td>56</td><td>0.41</td></tr><tr><td>F25</td><td>Schizoaffective disorders</td><td>1</td><td>0.01</td></tr><tr><td>F30</td><td>Manic episode</td><td>64</td><td>0.46</td></tr><tr><td>F31</td><td>Bipolar affective disorder</td><td>525</td><td>3.81</td></tr><tr><td>F32</td><td>Depressive episode</td><td>3230</td><td>23.43</td></tr><tr><td>F33</td><td>Recurrent depressive disorder</td><td>42</td><td>0.30</td></tr><tr><td>F34</td><td>Persistent mood (affective) disorders</td><td>3</td><td>0.02</td></tr><tr><td>F38</td><td>Other mood (affective) disorders</td><td>18</td><td>0.13</td></tr><tr><td>F40</td><td>Phobic anxiety disorders</td><td>12</td><td>0.09</td></tr><tr><td>F41</td><td></td><td></td><td>9.32</td></tr><tr><td>F42</td><td>Other anxiety disorders Obsessive-compulsive disorder</td><td>1284 255</td><td>1.85</td></tr><tr><td>F43</td><td>Reaction to severe stress,and adjustment disorders</td><td>40</td><td>0.29</td></tr><tr><td>F44</td><td>Dissociative (conversion) disorders</td><td>289</td><td>2.10</td></tr><tr><td>F45</td><td>Somatoform disorders</td><td>345</td><td>2.50</td></tr><tr><td>F48</td><td></td><td>44</td><td></td></tr><tr><td>F50</td><td>Other neurotic disorders</td><td>4</td><td>0.32 0.03</td></tr><tr><td>F51</td><td>Eating disorders Nonorganic sleep disorders</td><td>764</td><td>5.54</td></tr><tr><td>F60</td><td>Specific personality disorders</td><td>4</td><td>0.03</td></tr><tr><td>F63</td><td>Habit and impulse disorders</td><td>1</td><td>0.01</td></tr><tr><td>F64</td><td></td><td>1</td><td>0.01</td></tr><tr><td>F70</td><td>Gender identity disorders</td><td>21</td><td>0.15</td></tr><tr><td>F71</td><td>Mild mental retardation Moderate mental retardation</td><td>18</td><td>0.13</td></tr><tr><td>F73</td><td>Profound mental retardation</td><td>5</td><td>0.04</td></tr><tr><td>F78</td><td>Other mental retardation</td><td>52</td><td>0.38</td></tr><tr><td>F80</td><td></td><td>2</td><td>0.01</td></tr><tr><td>language</td><td>Specific developmental disorders of speech and</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/5e738d3b0511101406c23756b83a1edd160fbd881242d66641b02cbe7e408390.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>F81</td><td>Specific developmental disorders of scholastic skills</td><td>1</td><td>0.01</td></tr><tr><td>F84</td><td>Pervasive developmental disorders</td><td>12</td><td>0.09</td></tr><tr><td>F88</td><td>Other disorders of psychological development Other</td><td>1</td><td>0.01</td></tr><tr><td></td><td>disorders of psychological development</td><td></td><td></td></tr><tr><td>F90</td><td>Hyperkinetic disorders</td><td>21</td><td>0.15</td></tr><tr><td>F92</td><td>Mixed disorders of conduct and emotions</td><td>2</td><td>0.01</td></tr><tr><td>F93</td><td>Emotional disorders with onset specific to childhood</td><td>28</td><td>0.20</td></tr><tr><td>F94</td><td>Disorders of social functioning with onset specific to</td><td>1</td><td>0.01</td></tr><tr><td></td><td>childhood and adolescence</td><td></td><td></td></tr><tr><td>F95</td><td>Tic disorders</td><td>20</td><td>0.15</td></tr><tr><td>F98</td><td>Other behavioral and emotional disorders with onset</td><td>6</td><td>0.04</td></tr><tr><td></td><td>usually occurring in childhood and adolescence</td><td></td><td></td></tr><tr><td>F99</td><td>Unspecified mental disorder</td><td>560</td><td>4.06</td></tr><tr><td>-</td><td>Non-psychiatric disorders</td><td>129</td><td>0.94</td></tr><tr><td>-</td><td>Others</td><td>1768</td><td>12.83</td></tr></table></body></html>",
+        "page_idx": 17
+    }
+]

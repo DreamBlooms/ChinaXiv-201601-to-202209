@@ -1,0 +1,186 @@
+# 经济态度和行为的代际传递现象及机制
+
+郭苹苹 辛自强
+
+（中央财经大学社会与心理学院心理学系，北京100081)
+
+摘 要 经济态度和行为存在从父母向孩子的代际传递现象，经济态度代际传递的研究内容较为广泛，包括金钱态度、风险态度、互惠态度和消费态度，经济行为代际传递的研究主要集中在消费行为、捐款行为和储蓄行为三个方面。除了遗传路径，其代际传递有两条社会化路径：孩子对父母的观察学习和亲子互动，其中亲子互动包含亲子沟通和财务教养两个层面，亲子沟通强调语言层面的互动，而财务教养强调行为层面的互动，但是财务教养的研究仅停留在表面，缺乏深入的剖析。未来需要加强中国文化和现实背景下的代际传递现象研究，并深入探讨其机制。
+
+关键词经济态度；经济行为；代际传递；传递机制
+
+# 1引言
+
+在市场经济的大环境下，我们每一个人都不可避免地穿梭于经济生活中，与金钱和利益打交道，而我们的经济态度就决定了我们会有怎样的经济行为甚至日常行为。所谓经济态度是指在经济生活中，我们对经济活动所持有的态度，包括对经济活动持有的观点和信念（认知层面）、好坏的判断（情感层面）以及经济行为的倾向性（行为意向层面)。鉴于金钱是经济生活中的核心要素，因此金钱态度就是经济态度中的核心内容。杜林致和乐国安（2002）认为金钱不仅仅是一种交换工具，金钱态度反映着人们的人格特点和价值期待，并由此影响到人们的思想、情感和行为。例如，认为“金钱能使鬼推磨”的人，可能会为了金钱而不择手段；而认为“君子爱财，取之有道”的人，则会遵纪守法，通过自己的劳动获得应得的回报。不管是为了社会的繁荣安定还是为了自己的幸福生活，我们都需要树立正确的经济态度，从而指导我们的经济行为。这里的经济行为是指人们参与经济生活时的各种行为，如消费行为、捐款行为、储蓄行为和投资行为等。在经济态度和行为形成的过程中，家庭的影响不可忽视。财经社会化的研究表明年轻人对金钱价值的理解受到他们社会环境中的社会代理人的影响，而父母是影响孩子的主要社会代理人(Conger，Rueter，&Conger，2000；Furnham& Stacey，1991)。我们往往是在父母的培养下形成了自己对世间的好恶以及价值态度
+
+（McCrae＆Costa，1994)，并且父母的经济态度和行为也有可能影响子女的经济态度和经济行为（王琳，伍麟，2018；Britt，2016)。那么在家庭中，亲代与子代在经济态度和行为方面存在怎样的系统关联呢？这方面的研究文献值得仔细梳理，但国内尚无相关的综述文章。
+
+在心理学和经济学领域，有大量研究关注父母和孩子经济行为之间的关系，并且发现了经济行为的代际传递现象（Bravo,Fraj，&Martinez，20o6；Brown，Srivastava，& Taylor,2015；Mittal& Royne，2010；Unur& Peters，2003；Wilhelm，Brown，Rooney，& Steinberg;2008)，也有一些研究关注互惠态度、风险态度和消费态度等不同领域里的经济态度，同样发现了这些经济态度的代际传递现象（Al-Zu'bi，2015；Dohmen，Falk，Huffman，& Sunde,2011；Gauly，2017；Lim＆ Sng，2006)。因此，本文拟梳理相关文献，探究家庭中经济态度和行为的代际传递现象，并结合已有实证和理论研究分析经济态度和行为代际传递的机制。
+
+# 2经济态度和行为的代际传递现象
+
+# 2.1代际传递
+
+代际传递（intergenerational transmission）指父母的能力、观念、行为、社会地位等传递给子女的现象。子女在各方面与父母越相似，代际传递效应越强。在实证层面上表现为父母特征与子女相应特征存在一定程度的相关，且亲代特征对子代相应特征有一定的预测性（池丽萍，辛自强，2013）。
+
+代际传递的研究涉及领域很广，不仅有心理学的研究（如发展心理学、社会心理学和经济心理学)，而且有经济学和社会学的研究。例如，发展心理学领域已有学者研究了信任和焦虑的代际传递现象（池丽萍，2013a；赵金霞，赵景欣，王美芳，2018)；在社会心理学领域，有学者研究了主观幸福感的代际传递和教养方式的传承性（范航，李丹丹，刘燊，方圣杰，张林，2019；王燕，陈斌斌，李维亚，钱啸云，2018)；在经济心理学领域，也有大量学者探讨了经济态度和经济行为的代际传递现象（王琳，伍麟，2018；Perugini，Gallucci,Presaghi，& Ercolani，2003；Schindler，Lala，& Corcoran，2014)。又如，经济学者Wilhelm等人（Wilhelmetal.，2008）开展了慷慨行为的代际传递研究，运用经济学的研究方法建模分析，从而证明了慷慨行为代际传递现象的存在。此外，还有很多研究表明，在个体发展过程中，攻击行为、风险态度、离异、金钱焦虑等多种心理和行为变量都存在代际传递现象（Amato & Cheadle，2005；De Paola，2013；Dohmen et al.，2011）。
+
+# 2.2代际传递与财经社会化
+
+理论上讲，代际传递的发生可能是遗传的结果，也可能是社会化的结果。目前，在经济态度和行为的代际传递方面，几乎所有研究都是从财经社会化的角度来解释其本质。因此，这里首先要阐明代际传递和财经社会化两个概念的关系。
+
+社会学和发展心理学都关注人的社会化过程，社会化是个体从“自然人”到“社会人”的过程（郑杭生，1994)，也就是说，为了适应群体和社会生活，并在其中发挥作用，个体习得了群体和社会的规范和行为准则，包括道德规范、性别角色和政治观点等，从而具有了社会属性。而财经社会化是指个体获得理解和参与经济活动的能力（例如，有效分配工资和其他资源的能力）的过程（Gudmunson，Ray，& Xiao，2016)，由于经济活动是社会活动的一个领域，因此，财经社会化仍属于社会化理论的范畴，只是具有领域聚焦性。
+
+本质上讲，财经社会化的过程也是个体学习财经知识、财经能力、经济态度和行为的过程。在家庭中，儿童和青少年财经社会化的主要代理人是父母，父母对孩子的财经社会化起到了关键作用，也就是说，孩子学习了父母的财经知识、财经能力、经济态度和行为，从而具备了参与经济活动的能力，完成了财经社会化的过程。既然孩子是以父母为榜样进行模仿（Mittal&Royne，2010)，那么孩子习得的经济态度和行为在理论上应当与父母保持某种一致性，即经济态度和行为具有代际传递现象，传递的原因即为：家庭是儿童和青少年财经社会化的主要场所，父母是儿童和青少年财经社会化的主要代理人。
+
+目前关于财经社会化，尤其是消费社会化的研究较多，而且有大量研究探讨了社会化的家庭路径。在家庭背景下，社会化和代际传递是同一问题的不同表达而已。社会化是从个体发展过程角度定义的概念，代际传递是从亲子代际间变量关系角度定义的概念，二者只是概念定义和关注的角度不同，但是关注的对象本质上是一样的，都是对个体心理发展变化的研究，前者关注这个变化的过程，而后者关注变化的结果及其与变化过程中主要影响者（家庭中的父母）的关系。如果把财经社会化的研究放在家庭中探讨，那么，财经社会化的家庭路径也就是经济态度和行为代际传递的路径，研究代际传递的路径可以借鉴和参考社会化的研究。为了表达的方便，下文统一从经济态度和行为代际传递的角度来刻画现象并分析机制。
+
+# 2.3经济态度的代际传递现象
+
+经济态度是指参与经济活动的主体对待客观经济现象和规律（例如，营销活动和投资的风险）等持有的态度（如风险态度)，其中，经济活动的主体是人，客体是与金钱或利益有关的活动。从文献中可以发现，目前从代际传递角度关注的经济态度包括金钱态度、风险态度、互惠态度和消费态度。
+
+（1）金钱态度的代际传递。金钱是经济活动的核心要素和载体，经济态度的本质是人们对待金钱的态度，因此金钱态度必然是经济态度根本性的内容。目前，关于金钱态度代际传递的实证研究较少，一篇关于金钱焦虑（金钱态度的一个维度）的研究（Lim& Sng，2006)发现了金钱焦虑的代际传递现象，该研究调查了新加坡一所大型大专院校的250名管理专业的本科生及其父母，其中，金钱焦虑采用Lim 和 Teo（1997）开发的量表进行测量，该量表的4个条目均反映对金钱的担忧程度。标准化参数估计的结果表明父亲和母亲的金钱焦虑均可以预测其年轻子女的金钱焦虑（ $\cdot \beta = 0 . 2 1$ ， $p < 0 . 0 1$ ； $\beta = 0 . 2 3$ ， $p < 0 . 0 5$ )，可见，金钱态度的焦虑维度在代际间存在关联性。此外，国外的一篇综述（Britt，2016）虽然在概念上提到了金钱态度的代际传递之事,但没有提及亲子之间在金钱态度上存在相关关系或预测关系的量化证据，而只是非常宽泛地阐述了早期的金钱社会化经历（如观察父母关于金钱的讨论以及父母的理财行为）与一些家庭特征（如收入、教养方式）如何影响儿童。这似乎也说明直接探讨金钱态度代际传递的实证研究比较缺乏。
+
+（2）风险态度的代际传递。风险态度（即风险偏好）是对待风险情景的行为倾向，而这个风险情景也常常和经济活动相关，因此风险态度可以认为是经济态度的一个具体内容。风险态度包括一般风险态度和特定情境中的风险态度，一般风险态度是指对待没有背景信息的普遍意义上的风险的态度，而特定情境中的风险态度是指在特定的具体的情境中（如投资)，对待该情境中所存在风险的态度。Dohmen 等人（2011）采用德国 2003\~2004 年的社会经济调查（这是一项针对德国成年人口的有代表性的面板调查）的数据分析风险态度的代际传递，样本量达3000人以上，在控制了父母的收入和教育水平后，结果显示更加愿意冒险的父母，他们的孩子也更加冒险，孩子与父亲、母亲的一般风险态度均显著正相关（该研究未提供具体的回归系数，仅提供了带有回归曲线的散点图)。但是后来，Alan，Baydar,Boneva，Crossey 和Ertac（2017）使用土耳其的 ECDET（Study of Early ChildhoodDevelopmental Ecologies in Turkey）数据研究发现子女中只有女儿的一般风险态度与母亲的一般风险态度有显著相关（ $\beta = 0 . 2 3$ ， $p < 0 . 0 1$ ；该研究没有探讨父亲与子女一般风险态度之间的关系），可见一般风险态度的代际传递可能在子代间存在性别差异。此外，特定情境下的风险态度也同样存在代际传递现象，父母在特定情境（例如，健康、金融事务和职业生涯等）下的风险态度对孩子在同样情境下的风险态度有较强的预测作用（未提供回归系数；Dohmen et al.，2011)。有研究发现对于职业的风险态度可以从父亲传递到孩子（ ${ \mathrm { \Delta } } \cdot {  { \beta } } = 0 . 0 8$ ， $p$ $< 0 . 0 1 \dot { }$ )，却不能从母亲传递到孩子，并且对于儿子的传递效应更强（儿子： $\beta = 0 . 1 7$ ， $p < 0 . 0 1$ 女儿： $\beta = 0 . 0 9$ ， $p < 0 . 0 1$ ；Necker＆Voskort，2014），可见特定情境下的风险态度的代际传递也可能在亲代间存在性别差异。此外，还有研究从多学科视角综述了风险态度的代际传递现象（王琳，伍麟，2018)。总的来看，不仅一般风险态度和特定情境中的风险态度均具有代际传递现象，而且特定情境中的风险态度的代际传递效应似乎更强；另外，风险态度的代际传递在亲代和子代间均有可能存在性别差异，研究中需要加以区分。
+
+（3）互惠态度的代际传递。互惠是个体对他人行为以同样的方式进行回应和反馈的倾向（Perugini etal.，2003)，积极的互惠被定义为对友好行为的报答，而消极的互惠指对敌对行为的惩罚（Gauly，2017)。如今的互惠行为多涉及到金钱，属于经济活动，因此我们可以认为互惠态度在一定程度上体现了经济态度。有学者（Gauly，2017）对德国 $2 0 0 8 { \sim } 2 0 1 0$ 年的社会经济追踪调查数据进行分析发现，父亲和母亲的互惠倾向与孩子的互惠倾向均呈显著正相关，即父母的互惠倾向高，其孩子的互惠倾向也较高（积极互惠： $r _ { \scriptscriptstyle  { R F F } } = 0 . 2 3$ ， $r _ { \scriptscriptstyle \langle \vec { \times } \vec { \mathrm { f } } } =$ （200.20， $p s < 0 . 0 0 1$ ；消极互惠： $r _ { \scriptscriptstyle  { R F F } } = 0 . 2 4$ ， $r _ { ☉ \vec { \cdot } } = 0 . 2 4$ ， $p s < 0 . 0 0 1 \$ )，其中母亲对孩子的互惠倾向有更大的影响；当回归分析只包含父母中的一个人时，母亲的积极互惠倾向预测孩子积极互惠倾向的回归系数（ $\beta = 0 . 2 2$ ， $p < 0 . 0 0 1$ ）只有轻微的增长（回归分析同时包含父母两人时， $\beta = 0 . 1 9$ ， $p < 0 . 0 0 1 \cdot$ )，而父亲的积极互惠倾向单独预测孩子积极互惠倾向的回归系数（ $\beta = 0 . 1 8$ ， $p < 0 . 0 0 1$ ）几乎是原来（ $\beta = 0 . 1 1$ ， $p < 0 . 0 0 1$ ）的两倍，由此我们推测父亲和母亲均对孩子态度的形成起重要作用，但是父亲的作用被母亲的作用所抑制，也就是说母亲比父亲起的作用更大。总之，在互惠态度上，父母和孩子的态度存在代际传递现象，并且母亲对孩子有更大的影响。
+
+（4）消费态度的代际传递。消费在我们日常参与的经济活动中占有较大的比重，而且大量关于代际传递的研究集中在消费领域，消费态度很典型地体现了我们的经济态度。Al-Zu'bi（2015）探讨了阿拉伯文化背景下母亲对女儿消费态度的代际影响，其中，对市场营销活动和市场营销实践的一般态度采用对问卷条目的赞同程度来表示，条目包括用特定标准选择衣服品牌、服装店的偏好、购买打折衣服的习惯和对电视广告价值观的认知。研究者使用配对样本法和结构方程建模的多元回归分析法，对57对家庭样本进行分析，其中女儿的年龄在18\~24岁之间，研究结果表明，母亲对购买打折服装的态度（β=0.52，t= 7.09，p$< 0 . 0 1 \dot { ) }$ 、对服装店的偏好（ $\beta = 0 . 4 5$ ， $t = 6 . 1 0$ ， $p < 0 . 0 0 1$ ）和对电视广告价值观的认知（ $\ B =$ 0.33， $\scriptstyle t = 4 . 4 6$ ， $p < 0 . 0 0 1$ ）较好地解释了女儿对市场营销活动和市场营销实践的一般态度的变异，即母亲的市场营销态度可以预测女儿的市场营销态度。有学者发现各代人的品牌偏好（如汽车品牌偏好）显著正相关（ $\langle \beta = 0 . 0 4$ ， $p < 0 . 0 5$ ； Anderson， Kellogg， Langer，& Salle,2015）。此外，Collado,Ortuno-Ortin 和Romeu（2012）对美国中西部和东南部的两个大学的市场营销课上的学生及其父母做了面对面的问卷调查，同样发现父母和孩子对食物消费的偏好之间存在显著正相关（ $\stackrel { \cdot } { r } = 0 . 3 2$ ， $p < 0 . 0 0 1 \$ ，例如，父母偏好甜食，其子女也会便好甜食。总之，亲子代间对于消费品（如食物、汽车和衣服的品牌）的偏好和消费价值观均存在代际传递现象。
+
+# 2.4经济行为的代际传递现象
+
+鉴于态度包含行为倾向层面，而且行为可以作为态度的外部效标，二者具有较强的相关性，因此，行为在一定程度上可以反映人们的态度。研究发现，参与经济活动的人们所表现出的行为，即经济行为，在代际间存在传递现象，而且研究多集中在消费行为、捐赠行为和储蓄行为等方面。
+
+（1）消费行为的代际传递。在消费领域，不仅父母的消费态度和偏好会传递给孩子，而且父母的消费模式和行为也会传递给孩子。例如，研究（Bravoetal.，2006）表明家庭确实会影响年轻人的消费模式和消费行为，正是由于家庭影响的存在，年轻人购买产品时倾向于选择父母所用的品牌，在总体交易的偏好上，父母和儿童具有相似性（ $\dot { \mathbf { \zeta } } _ { r } = 0 . 2 7$ ， $p < 0 . 0 1$ Schindleretal.，2014)，也就是说消费行为具有代际传递效应（Waldkirch， $\mathrm { N g }$ ，& Cox，2004),并且，不论是实用产品（utilitarian products）和共享产品（shared products），还是个人消费产品和风格独特的产品，代际传递现象均存在（Mittal&Royne，2010)。可见在消费领域中，消费态度、模式和行为的代际传递已经得到了普遍认可。
+
+（2）捐款行为的代际传递。经济领域中的花钱方面不仅包含消费行为，还包含捐款及其他涉及到金钱的慷慨行为。关于捐款行为的代际传递现象的实证研究既有经济学领域的，也有心理学领域的。例如，Wilhelm等人（2008）采用慈善事业中心追踪研究（COPPS）的数据探讨父母和孩子慷慨行为之间的关系，COPPS 是收入动态追踪调查（PSID）的一个模块，相对近期其他的捐赠调查来说,其数据有较高的作答率和极低的丢失率(Wilhelm,2007)，而 PSID 包含当前和过去收入及财富的高质量数据，因此，该研究的数据可靠程度高并且有较好质量，其结果也更有说服力。通过回归建模分析，该研究表明，父母和孩子的宗教捐赠（religiousgiving）行为存在较高相关（ $\beta = 0 . 2 6$ ， $p < 0 . 0 0 1$ )，而二者的世俗捐赠（seculargiving；如向联合慈善机构、教育机构和扶贫机构捐赠）的相关程度相对较小（ ${ \beta = 0 . 0 8 }$ ， $p <$ 0.001)。此外，Brown等人（2015）对美国收入动态追踪调查（PSID）的数据进行分析，结果发现如果父母有捐款行为，孩子向慈善机构捐款的可能性提高5.2个百分点；如果父母的捐款数目增加 $1 \%$ ，孩子向慈善机构捐款的可能性提高1个百分点，由此可见，捐赠行为存在代际传递现象。
+
+（3）储蓄行为的代际传递。研究发现无论是孩子处于童年时期还是成年时期，其储蓄行为都受到了家庭的影响（Brown& Taylor，2016；Curran，Parrott，Ahn，Serido，& Shim,2018)，但是关于储蓄行为是否存在代际传递现象这一问题，目前的研究结果存在一定争议。罗马尼亚（其文化背景是青年对父母的极端经济依赖）成年初期的成年人（emerging adults;$N = 1 4 3$ ）的储蓄行为与其父母的储蓄行为呈显著正相关（ $\beta = 0 . 2 9$ ， $p < 0 . 0 1$ ； Damian,Negru-Subtirica，Domocus，&Friedlmeier，2019)；同样地，来自美国西南部一所大学的大学生样本（ $N = 5 0 4$ ）的研究（Curran et al.，2018）发现，成年早期的成年人（young adults）的储蓄行为与其父母的储蓄行为呈显著正相关( $\cdot r = 0 . 2 2$ ， $p < 0 . 0 0 1 \cdot$ ；但是，Brown 和 Taylor(2016）使用英国家庭调查的数据（主要以11\~15岁儿童为研究对象)，发现代际间的储蓄行为不存在相关性，这或许是因为儿童样本的年龄较小，本身就少有储蓄行为。
+
+# 3经济态度和行为代际传递的机制
+
+父母作为子女的社会化代理人，其经济态度和行为对子女经济态度和行为的形成有着极其重要的影响，成年子女（特别是较年轻的受访者）认为父母在自己的金钱信念和态度的形成过程中都是最具影响力的人（Hira，1997)。那么，父母是如何影响子女经济态度和行为的呢？通过整理文献，我们发现这种社会化影响的路径可以归为两条：孩子单方面的观察学习以及父母与孩子的互动交流（Damian et al.，2019；Mital&Royne，2010；Moschis&Churchill，1978；Ward，Wackman，&Wartella，1977)。除了社会化机制，遗传因素也是造成经济态度和行为在亲子之间存在相似性的原因（如Beaveretal.，2010）。
+
+# 3.1孩子单方面的观察学习
+
+在家庭中，父母影响孩子经济态度和行为的第一个路径是孩子对父母言行单方面的观察和学习。社会学习理论（Bandura，1977）认为学习分为两种：直接经验的学习和间接经验的学习，观察学习属于间接经验的学习。根据社会学习理论，孩子作为观察者，会根据父母的言行建立榜样模型，这个榜样可以是父母本身，也可以是父母某些言行的集合体，通过自身与榜样的对比修正，从而习得与榜样相同或相似的态度和行为模式。因此，子女与父母经济态度和行为的一致性是子女对父母的态度和行为观察学习的结果，该理论解释了代际传递的第一条路径一一孩子单方面的观察学习。
+
+该路径已得到大量研究的支持。根据Garrison 和Gutter（2010）的文献综述，观察父母的财经行为对于理解个人的财经行为至关重要，而且个体在儿童时期通过观察父母（和其他人）的行为来学习社会行为是很常见的，这些社会行为会一直持续到成年。实证研究也有同样的结果，Balhom（2013）的研究表明孩子们倾向于通过观察他们父母有关经济的谈话和决策形成财经习惯，而Hibbert，Beutler和Martin（2004）通过被试对自己小时候父母行为的回忆，发现那些记得父母拥有良好信用实践（如按时支付生活账单）的大学生，更有可能避免大学期间的债务。总之，孩子会观察父母的经济言行，从而习得父母的经济态度和行为，也就是说，父母只要与孩子生活在一起，即便不通过各种方式主动教育孩子，也能够影响到孩子。
+
+此外，根据社会学习理论（Bandura，1977)，在观察学习的过程中，被观察者的示范形式不同，信息在学习者和被观察者之间的传递效果就会不同。例如，图像和实际行为比言语的示范更能引起学习者的注意，其学习效果也会更好，因此，如果父母多以身作则，而非仅仅是口头说教，那么孩子的学习效果就会更好，其经济态度和行为就与父母的越一致，即代际传递的效应更强。
+
+# 3.2父母与孩子的互动
+
+在家庭中，父母影响孩子经济态度和行为的第二条路径是父母与孩子的互动，也叫亲子互动，是指父母与孩子之间信息与情感的表达和回应，是一个交流的过程，包含互动内容、互动模式、互动质量等多个维度。根据 Bowen（1966）提出的家庭系统理论，家庭为了维持平衡，会调动各种资源和动力（例如，沟通和说服，即家庭成员间的互动）化解家庭成员间的矛盾，使得家庭成员之间的态度和行为趋于一致，于是亲子代间就会出现传递现象。多项研究（Kim，Chatterjee，& Kim，2012；Kim，LaTaillade，& Kim，201l；Rosa，Marks,LeBaron，&Hill，2018；Schindler etal.，2014）表明，父母可以通过与孩子的互动，影响孩子的财务行为，甚至使得孩子具有同父母一致的财务行为：一方面，父母将自己的信念、态度和观点等通过语言展现给孩子，希望孩子能够具备这些信念和态度，从而影响其行为；另一方面，在孩子做了父母认为正确（或错误）的事情时，父母给予其奖励和赞扬（或惩罚和批评)，也可强化孩子对父母经济态度和行为的习得。总之，父母主动向孩子灌输自己的信念和态度，或者对孩子的态度或行为进行干预和指导，从而使得孩子获得了与父母期望的态度和行为。目前，研究者主要用亲子沟通和财务教养这两种亲子互动方式来解释经济态度和行为的代际传递。
+
+（1）亲子沟通。根据互动的媒介不同，可以将亲子互动划分为肢体语言（包含眼神)互动和口头语言互动。所谓肢体语言互动，是指亲代通过肢体动作向子代传递信息，从而形成亲子间的互动，而口头语言互动则指亲子代间通过口头语言传递信息。狭义上讲，亲子沟通属于口头语言互动，亲子沟通是亲子互动中的主要部分和内在运行机制（房超,方晓义，2003)；广义上讲，亲子沟通也可以理解为亲子互动，指父母与子女通过信息、观点、情感或态度的交流，达到增强情感联系或问题解决等目的的过程（池丽萍，2013b)。本文的亲子沟通是指狭义上的通过语言与孩子进行的互动，根据“控制”与“鼓励”的不同水平，可以将其分成为四种类型：低控制－低鼓励的宽容型、低控制－高鼓励的多元型、高控制－低鼓励的禁止型和高控制－高鼓励的保护型（Aleti，Brennan，&Parker，2015）。
+
+亲子沟通不仅在子女的消费知识、技能和价值观的积累和形成中起着重要的作用（Moschis，1985)，而且对于提高家庭内财经社会化质量有重要作用（Rosa etal.，2018）。亲子沟通对子女的经济态度和行为的影响，主要是通过亲子之间针对经济问题(沟通内容)的讨论，以及这种沟通的频率和质量来实现的。例如，当父母谈到捐款的重要性时， $1 2 { \sim } 1 8$ 岁的孩子更有可能捐款并为自己的教育储蓄（Kim etal.，2011)；而且成年子女与母亲（而非父亲)的沟通频率越高，其持有的信用卡数目、贷款数目和债务数目越少(Kim etal.,2012);感知到高质量亲子沟通的青少年，其财务行为更好（Nash，McQueen，& Bray，2005），且成人后的风险行为更少（Holahan，Valentiner，&Moos，1994)。研究发现亲子沟通中介了消费行为的代际传递（Schindler etal.，2014)，而捐赠行为的代际传递有多个调节变量-捐赠类型、父母捐款数量，以及父母与子女是否谈论捐赠（Brown et al.,2015;Otoni-Wilhelm
+
+Zhang，Estell，&Perdue，2017；Wilhelm etal.，2008)。此外，值得注意的是，研究发现产品类型能够调节消费行为代际传递的程度，例如，实用和共享产品中代际传递的程度较高，而个人消费和风格独特的产品中代际传递程度较低（Mittal& Royne，2010)。
+
+（2）财务教养。在家庭中，家庭的教育对孩子观念、态度和行为的形成具有重要意义，当父母强调一些行为时，孩子更有可能重视这些行为(Shim，Xiao，Barber，&Lyons，2009)。综合相关文献，我们认为财务教养（financialparenting）是指父母对孩子的关于金钱和经济问题的家庭教育，涵盖财经知识、财经技能和财经价值观三个方面的内容，涉及储蓄、消费和投资等理财领域（辛自强，张红川，孙铃，于泳红，辛志勇，2018；周颖华，2003）。它也可称作家庭理财教育，是父母对子女如何合法获得金钱、合理利用金钱和科学支配金钱的教育（石庆新，2008)，强调父母对孩子经济态度和行为的指导和干预，目的是使子女具有父母期望的经济态度和行为。
+
+目前关于财务教养的结构和维度尚未有清晰合理的界定。财务教养一词来自于 SeridoShim，Mishra 和 Tang（2010）的研究，他们认为财务教养包括亲子财务沟通（parental financialcommunications）和父母财务期望（parental financial expectations）两个维度，亲子财务沟通是指父母和子女关于财务问题的沟通质量，而父母财务期望是指父母对孩子不同财务应对行为的期望程度或赞同程度，这些财务行为包括记录每月的支出、在预算范围内花钱以及每月全额支付信用卡欠款。然而该研究对这样的维度划分并没有介绍理论建构的过程，且稍显不太合理，由于亲子财务沟通隶属于亲子沟通的范畴，而亲子沟通的特征包括多个维度—一沟通的内容、频率、主动性、满意度和沟通中存在的问题（房超，方晓义，2003)，并非单一的沟通质量，因此财务沟通不能只包含沟通质量。总之，财务教养的结构有待进一步探讨。
+
+研究表明父母的内隐教育和外显教育都对子女经济态度和价值观产生影响（Hira，1997)，那么，父母的财务教养作为外显教育，对子女的经济态度和行为会有什么影响呢?目前关于财务教养的研究不多，但也发现财务教养对子女的经济行为有预测作用。具体地，父母对理财技能的亲自指导与子女较低的信用卡债务水平关系最为密切（Norvilitis&Maclean，2010)；并且父母对儿童管理金钱的指导数量或频率为“很多”和“一些”时（相比于没有指导)，孩子成年后的信用评分较高，信用卡债务较少（Grinstein-Weiss，Spader，Yeo，Taylor，& Freeze，2011）。
+
+# 3.3遗传的作用
+
+不仅孩子后天的学习和家庭环境在经济态度和行为的代际传递中发挥作用，而且亲子代间先天的基因相似性（即遗传因素）在经济态度和行为的代际传递中也必然发挥作用。目前这方面的研究主要集中在赌博行为、风险行为方面，通常采用双生子研究方法。例如，研究表明，当同时分析男性和女性双胞胎时，遗传因素解释了赌博行为中约 $70 \%$ 的变异，然而只分析男性双胞胎时，遗传因素对赌博行为的解释率高达 $8 5 \%$ ，而只分析女性双胞胎时，遗传因素对赌博行为没有解释作用（Beaver etal.，2010)。有关风险行为双生子研究的元分析结果显示，财经（具体是投资）风险行为的遗传率为 $2 9 \%$ ，赌博风险行为的遗传率为 $50 \%$ （Wang，Zheng，Xuan，Chen,&Li，2016)。有学者采用 fMRI技术和气球模拟风险任务（Balloon AnalogueRisk Task）对244对年轻的成年双胞胎进行研究，结果发现风险行为有中等的遗传性（遗传率 $41 \%$ )，并且风险行为与风险相关的脑区激活有中等程度的相关（Rao，Zhou，Zheng，Yang，& Li，2018）。
+
+总之，这些研究一致表明，投资、赌博方面的风险行为具有一定的遗传性，虽然针对不同变量或不同性别双生子所发现的遗传率有所差异。尽管目前没有研究直接考察父母和孩子的遗传相似性到底多大程度上能解释经济态度和行为的代际传递，但可以确信的是这种代际传递存在直接遗传机制，或者是共享的遗传因素与环境因素交互作用导致了父母和子女在后天表现出类似的态度和行为偏好。无论如何，我们应该探讨在更广泛的经济态度和行为变量上的遗传问题。
+
+# 4总结与展望
+
+由上文可知，综合各种实证发现，可以证明经济态度和行为的代际传递现象都是存在的。理论和实证研究都表明除了遗传机制外，经济态度和行为的代际传递主要有两条社会化路径：一条是孩子对父母的观察学习，父母的经济态度和行为直接传递给孩子，虽然亲代并没有刻意向子代灌输态度和行为；另一条是亲子互动，父母通过亲子互动的方式向子代灌输自己的经济态度，并指导和干预子代的经济行为，使其符合自己的经济态度和行为，并且亲子互动的概念符合“言传身教”的说法，包含亲子沟通和财务教养两个层面，亲子沟通强调语言层面的互动，而财务教养更多强调行为层面的互动。社会学习理论和家庭系统理论分别可以支持或解释以上两条路径，而财经社会理论指出了代际传递的本质，即家庭中子代社会化的结果。此外，双生子研究使我们相信，这种代际传递不仅是社会化的结果，而且可能存在
+
+遗传机制。
+
+目前的研究中，存在以下几点不足，可以成为未来的研究方向：
+
+第一，对经济态度和行为代际传递现象的现有研究，在内容领域和研究方法上均具有局限性。目前的研究多集中在消费领域，而经济领域的范围很广泛，除了消费之外，还有储蓄、投资、保险、组织行为（如薪资态度）等领域，这些都值得探讨。此外，现有研究在数据收集上主要依赖量表和问卷调查，这些都是一种依赖书面语言的自陈式测验，难以体现经济态度和行为方面的内隐成分。例如，目前关于金钱启动的研究，能揭示金钱对很多行为的影响，那么这种金钱概念的无意识影响或许也存在值得研究的代际传递现象；又如，关于态度的内隐联想测验已经很成熟，也可以移植到经济态度的代际传递研究中。总之，将来在这一领域可兼顾自陈测验和各种内隐测量方法的使用。
+
+第二，关于代际传递机制研究缺乏深入性和系统性。多数已有研究是基于理论的分析或者基于家庭系统中某个单一变量（如，家庭沟通模式、亲子互动频率、金钱管理教育等）的简单测量进行的实证研究（Duh，2014；Grinstein-Weiss，Spader，Yeo，Taylor，Freeze，2011;Grinstein-Weiss，Yeo，Irish，& Zhan，2009；Mittal & Royne，2010； Solheim，Zuiker，&Levchenko，2011)，并不能将代际传递机制的全貌和核心呈现出来。因此，未来可以采用访谈法、现场观察法探索代际传递的机制，尤其是探讨财务教养的作用，可采用“自下而上”的研究思路（如使用扎根理论方法)，刻画代际传递的全貌和细节，并提炼新的理论框架。值得注意的是，双生子研究可以区分个体心理行为变量所受遗传和环境因素的影响，今后可以藉此探讨各种经济态度和行为变量的遗传机制和环境影响机制(社会化机制)。
+
+第三，需要在中国文化背景下开展更多经济心理行为领域代际传递的研究。目前的研究多集中在欧美国家，国内研究非常缺乏，因此，可以考虑在中国文化背景下开展经济态度和行为代际传递的研究，并将结果进行跨文化的比较。例如，基于中国传统的义利观，财经价值观应该是比财经态度更值得探讨的更稳定的深层心理因素。目前，已有研究者提出可以用理财价值观、财富价值观和财经伦理观三个成分来界定财经价值观（辛志勇，于泳红，辛自强，2018），未来可以根据这一思路探讨其代际传递问题。总之，经济是我们国家发展的主要内容，我们有必要加强对更广泛经济心理和行为的研究，包括考察其代际传递现象和机制，以便有效提高国民财经素养，促进经济又好又快地发展。
+
+# 参考文献
+
+池丽萍.(2013a)．信任：父母的代内相似和亲子的代际传递．心理学报,45(3),336-344.   
+池丽萍.(2013b)．亲子沟通与儿童学业成就.北京：北京师范大学出版社.   
+池丽萍，辛自强.(2013).信任代际传递的中介机制：一个概念模型．首都师范大学学报(社会科学版),(1), 140-147.   
+杜林致，乐国安.(2002)．国外金钱心理研究综述．西北师大学报(社会科学版),(2),61-65.   
+范航,李丹丹，刘燊，方圣杰，张林.(2019).主观幸福感代际传递：有调节的中介效应．心理科学 42(4), 841-847.   
+房超，方晓义.(2003).父母-青少年亲子沟通的研究．心理科学进展,11(1),65-72.   
+石庆新.(2008)．家庭理财教育方式对大学生消费行为的影响研究(硕士学位论文)．西南大学，重庆.   
+王琳，伍麟.(2018).风险偏好可以代际传递吗?——来自多学科的证据与元理论思考．心理科学,41(3), 184-189.   
+王燕，陈斌斌，李维亚，钱啸云.(2018).进化心理学视角下母亲教养行为的代际传承性研究．心理科学,41 (3),98-104.   
+辛志勇，于泳红，辛自强.(2018).财经价值观研究进展及其概念结构分析．心理技术与应用,6(8),472-483.   
+辛自强，张红川，孙铃，于泳红，辛志勇.(2018)．财经素养的内涵与三元结构．心理技术与应用,6(8), 449-458.   
+赵金霞，赵景欣，王美芳.(2018)．留守妇女与儿童焦虑的代际传递:有调节的中介效应．心理发展与教育， 34(6), 86-93.   
+郑杭生.(1994)．社会学概论新修．北京：中国人民大学出版社.   
+周颖华.(2003).倡导理财教育提高学生经济素质．现代教育科学,(6),37-38.   
+Alan, S., Baydar,N., Boneva,T., Crossley,T.F.,& Ertac, S. (2o17).Transmisson of risk preferences from mothers to daughters.Journal of Economic Behavior & Organization, 134, 60-77.   
+Aleti,T., Brennan,L.,& Parker,L. (2o15).Family communication for the modern era: A typology. Young Consumers,16(4),367-384.   
+Al-Zu'bi, A. I. (2015). Mother-daughter intergenerational influence on clothing products: Cultural perspectives. American Journal of Business and Management, 4(4), 203-213.   
+Amato,P.R.,& Cheadle, J. (20o5). The long reach of divorce: Divorce and child well- being across three generations. Journal of Marriage and Family, 67(1),191-206.   
+Anderson,S.T.,Kellogg,R.,Langer,A.,&Salle,J.M.(O15).Theintergenerational transmissionofautomobile brand preferences. The Journal of Industrial Economics, 63(4),763-793.   
+Balhorn, N. (2013). Gender diferences in perception of spending and financial risk aversion (Unpublished doctorial dissertation). Georgetown University, Washington, D.C.   
+Bandura,A. (1977). Social learning theory. Englewood Cliffs, NJ: Prentice Hall.   
+Beaver,K.M.,Hoffman,T.,Shields,R.T., Vaughn,M. G.,DeLisi, M.,& Wright,J.P.(2010). Gender dierences in genetic and environmental influences on gambling: Results from a sample of twins from the national longitudinal study of adolescent health.Addiction,105(3),536-542.   
+Bowen, M.(1966). The use of family theory in clinical practice. Comprehensive Psychiatry,7(5),345-374.   
+Bravo,R.,Fraj,E.,& Martinez,E. (2o06). Modelling the process offamily influenceon the young adult consumer behaviour.Journal of International Consumer Marketing,19(1),35-56.   
+Brit S.L. (20l6). The intergenerational transference of money atttudes and behaviors. Journal of Consumer Affairs,50(3),539-556.   
+Brown, S.,& Taylor,K. (2O16).Early influences on saving behaviour: Analysis of British panel data. Journal of Banking&Finance,62,1-14.   
+Brown, S., Srivastava,P.,& Taylor,K.B. (2O15). Intergenerational analysis of the donating behaviourofparents and their offspring. Southern Economic Journal,82(1),22-151.   
+Collado, M.D., Ortuno-Ortin,I.,&Romeu,A. (2012).Long-run intergenerational social mobility and the distribution of surnames. Manuscript, Universidad de Alicante.   
+Conger,K.J.,Rueter,M. A.,& Conger,R.D. (200).The role ofeconomic pressure in the lives ofparents and their adolescents: The family stress model. Cambridge, England: Cambridge University Press.   
+Curran,M.A.,Parrot,E.,Ahn,S.Y.,erido,J.,&him,S. (218).Young adults’lifeoutcomesandwellbing: Perceived financial socialization from parents, the romantic partner,and young adults’own financial behaviors. Journal ofFamily and Economic Issues,39(3),45-456.   
+Damian,L.E., Negru-Subtirica,O.,Domocus,I. M.,& Friedlmeier,M.(2019). Healthy financial behaviors and financial satisfaction in emerging adulthood: A parental socialization perspective. Emerging Adulthood. https://doi.0rg/10.1177/2167696819841952   
+De Paola, M. (20l3). The determinants of risk aversion: The role of intergenerational transmission. German Economic Review,14(2),214-234.   
+Dohmen,T.,Falk,A., Huffman,D.,& Sunde, U.(2011). The intergenerational transmission ofrisk and trust attitudes. The Review of Economic Studies, 79(2), 645-677.   
+Duh, H. I. (2014). Application of the human capital life-course theory to understand generation Y south Africans' money attitudes.Journal of Economics and Behavioral Studies,6(12),974-985.   
+Furnham, A., & Stacey,B. (1991). Young people's understanding of society.London: Routledge.   
+Garrison,S.,& Guttr,M. (2OlO). Gender differences in financial socialization and willingnessto take financial risks.Journal of Financial Counseling and Planning,21(2), 6-27.   
+Gauly,B. (2017). The intergenerational transmission of atitudes: Analyzing time preferences and reciprocity. Journal ofFamily and Economic Issues,38(2),293-312.   
+Grinstein-Weiss,M.,Spader,J.,Yeo, Y.H.,Taylor,A.,&Freeze,E.B. (2011).Parental transfer offinancial knowledge and later credit outcomes among low-and moderate-income homeowners. Children and Youth Services Review,33(1),78-85.   
+Grinstein-Weis,M., Yeo,Y.H.,Irish, K.,& Zhan,M. (2o09).Parental assets: A pathway to positive child educational outcomes. Journal of Sociology & Social Welfare, 36(1), 61-85.   
+Gudmunson, C.G.,Ray,S.K.,& Xiao,J.J. (Ed.). (2016). Handbook ofconsumer finance research (p.61-63). New York: Springer.   
+Hibbert,J.,Beutler,1,& Martin,T. (2oo4).Financial prudence and next generation financial strain.Journalof Financial Counseling and Planning,15(2),51-59.   
+Hira,T. K. (1997). Financial attudes, beliefs and behaviours: Differences by age. Journal ofConsumer Studies & Home Economics,21(3),271-290.   
+Holahan, C.J., Valentiner,D.P.,& Moos,R. H. (1994).Parental support and psychological adjustment during the transition to young adulthood in a college sample. Journal ofFamily Psychology, 8(2),215-223.   
+Kim, J., Chaterjee,S.,& Kim,J. (2012). Debt burdenofyoung adults inthe United States. JournalofFinancial Counseling & Planning, 23(2),55-67.   
+Kim, J.,LaTaillade,J., & Kim, H. (2011).Family processes and adolescents’ financial behaviors. Journal of Family and Economic Issues,32(4),668-679.   
+Lim, V.K.,& Sng, Q.S.(2oo6).Does parental job insecurity mater? Money anxiety, money motives,and work motivation. Journal of Applied Psychology,91(5),1078-1087.   
+Lim, V.K.,& Teo,T. S. (1997).Sex, money and financial hardship: An empirical study of atitudes towards money among undergraduates in Singapore. Journal of Economic Psychology,18(4),369-386.   
+McCrae,R.R.,& Costa Jr,P.T.(1994). The stability of personality: Observations and evaluations.Current Directions in Psychological Science,3(6),173-175.   
+Mittal,B.,& Royne, M.B.(2Ol0). Consuming as afamily: Modes of intergenerational influence on young adults. Journal of Consumer Behaviour, 9(4),239-257.   
+Moschis, G.P. (1985). The role of family communication in consumer socialization ofchildren and adolescents. Journal of Consumer Research,11(4),898-913.   
+Moschis, G.P.,& ChurchillJr, G.A. (1978). Consumer socialization: A theoretical and empirical analysis. Journal of Marketing Research,15(4), 599-609.   
+Nash, S. G., McQueen, A.,& Bray, J. H. (2oo5). Pathways to adolescent alcohol use: Family environment, peer influence,and parental expectations. Journal of Adolescent Health,37(1),19-28.   
+Necker,S.,& Voskort,A. (2O14). Intergenerational transmission of risk atitudes-Arevealed preference approach European Economic Review, 65, 66-89.   
+Norvilitis,J.M.,& Maclean,M.G. (2010).The role of parents in college students' financial behaviors and attitudes.Journal of Economic Psychology,31(1),55-63.   
+Ottoni-Wilhelm,M.,Zhang,Y.,Estell,D.B.,&Perdue,N.H.(2017).Raising charitable children: The effectsof verbal socialization and role-modeling on children's giving. Journal of Population Economics,30(1), 189-224.   
+Perugini,M., Galucci, M.,Presaghi,F.,& Ercolani,A.P.(20o3).The personal norm ofreciprocity. European Journal of Personality,17(4),251-283.   
+Rao,L.L., Zhou,Y., Zheng,D., Yang,L. Q.,&Li,S.(2O18). Genetic contribution to variation in risk taking: A functional MRI twin study of the balloon analogue risk task. Psychological Science,29(10),1679-1691.   
+Rosa, C. M., Marks,L.D, LeBaron, A. B., & Hil, E. J. (2018). Multigenerational modeling of money management. Journal of Financial Therapy, 9(2),54-74.   
+Schindler,R.M.,Lala, V.,& Corcoran, C.(2O14). Intergenerational influence in consumer deal proneness. Psychology & Marketing,31(5),307-320.   
+Serido, J., Shim, S., Mishra,A., & Tang, C. (2o10).Financial parenting, financial coping behaviors,and well - being of emerging adults. Family Relations,59(4),453-464.   
+Shim, S., Xiao,J. J., Barber,B.L.,& Lyons,A.C. (20o9).Pathways to life success: A conceptual model of financial well-being for young adults. Journal of Applied Developmental Psychology, 30(6),708-723.   
+Solheim, C.A., Zuiker, V.S.,& Levchenko,P. (2011).Financial socialization family pathways: Reflections from college students' narratives.Family Science Review, 16(2),97-112.   
+Unur,A. S.,&Peters, H.E. (2003). Experimental analysis ofother-regarding preferences ofparents and children. Unpublished manuscript.   
+Waldkirch,A.,Ng,S.,& Cox,D. (2o04). Intergenerational linkages in consumption behavior.Journal of Human Resources,39(2),355-381.   
+Wang,X.T.,Zheng,R., Xuan, Y.H., Chen,J.,&Li, S. (2016). Not allrisks are created equal: A twin study and meta-analyses of risk taking across seven domains. Journal of Experimental Psychology: General, 145(11), 1548-1560.   
+Ward,S.,Wackman,D.B.,& Wartella,E.(197).How children learn to buy: The development ofconsumer information-processing skills. Oxford, England: Sage.   
+Wilhelm, M. O. (2oo7). The quality and comparability of survey data on charitable giving. Nonprofit and Voluntary Sector Quarterly,36(1),65-84.   
+Wilhelm,M.O.,Brown,E.,Rooney,P.M.,& Steinberg,R.(2o08).The intergenerational transmisson of generosity.Journal of Public Economics,92(10-11),2146-2156.
+
+# The phenomenon and mechanism of intergenerational transmission of economic attitudes and behaviors
+
+GUO Pingping; XIN Ziqiang
+
+(Department of Psychology at School of Sociology and Psychology, Central University of Finance and Economics,Beijing 1ooo81, China)
+
+Abstract: There is a phenomenon of intergenerational transmisson of economic atitudes and behaviors. Ample studies on intergenerational transmission of economic atitudes primarily focus on money attitude, risk atitude,reciprocity atitude,and consumption attitude,while research on intergenerational transmission of economic behaviors pays much attntion to consumption behavior, donation behavior, and saving behavior. In addition to genetic mechanism， the intergenerational transmisson has two important pathways of socialization: observational learning and parent-child interaction， in which the latter channel is comprised of parent-child communication and financial parenting.Parent-child communication emphasizes the interaction at the level of language,whereas financial parenting is mainly embodied in the interaction at the level of behavior.However, previous research on financial parenting is still in its preliminary stage without in-depth analyses. Therefore,it is necessary for future studies to strengthen the research of intergenerational transmission in the context of Chinese culture and reality, and to explore its mechanisms in depth.
+
+Key words: economic atitude; economic behavior; intergenerational transmission; transmission mechanism

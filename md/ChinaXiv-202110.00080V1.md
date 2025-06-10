@@ -1,0 +1,271 @@
+# 情绪如何引发暴力犯的攻击？基于情绪调节理论的解释
+
+刘宇平1周冰涛²杨波2
+
+(1中国政法大学刑事司法学院;²中国政法大学社会学院，北京100088)
+
+摘要 本文基于情绪调节理论，以暴力犯为被试，通过2项研究探究了情绪在攻击产生过程中的作用。研究1采用改编的反应时竞争范式测量个体攻击行为，结果发现，情绪调节动机在负性情绪与攻击间起完全中介作用，证实了负面情绪状态下，暴力犯会为了调节情绪而实施攻击。研究2进一步表明，攻击的确能起到调节情绪的作用。具体来说，在暴力犯群体中，实施反应性攻击之后，会伴随着正性情绪的提升和负性情绪的下降；实施主动性攻击之后，个体的正性情绪和负性情绪都会提升。文章从对攻击结果的预期和攻击的实际效果两个角度，对攻击的情绪调节理论进行了验证，为情绪在攻击产生过程中的作用提出了新的解释。今后的研究和实践过程中，应设法避免个体通过攻击调节情绪，引导其使用合理的方式调节情绪以减少攻击行为的产生。
+
+关键词 情绪调节理论，负性情绪，正性情绪，攻击，暴力犯
+
+# 1前言
+
+近年来，尽管我国的暴力犯罪比例逐年下降，但极端暴力事件频发，严重危害着社会公共安全(靳高风 等,2019)。同时，暴力犯给监狱内的安全造成了极大的隐患。攻击是一种典型的反社会行为(Anderson& Bushman,2002)，与一般人群相比，罪犯群体中的反社会人格障碍比例较高(蒋奖，许燕,2007;Raine,2018)，其中暴力犯与攻击行为的关联最为密切。因此，相比于大学生等正常人群，暴力犯更适合作为攻击领域研究的被试，获得的结果也更具典型性和代表性。可以说，研究暴力犯攻击行为的产生和影响因素可以为减少其攻击行为带来的社会危害提供启示，同时能有效弥补过往研究在被试选择上的不足，推动攻击领域理论的发展，具有理论意义和现实价值。
+
+# 1.1攻击行为的情绪调节理论
+
+情绪一直被视为影响攻击产生的重要因素(Anderson& Bushman，2002；Buss & Perry,1992)。传统的自我控制(Self-regulation)理论认为，负性情绪下的个体自我控制能力下降，
+
+“恼羞成怒"下丧失理智产生攻击(Leith& Baumeister,1996)。不过，根据攻击产生的原因和目的，攻击可以被分为反应性攻击（或称冲动性攻击）和主动性攻击（或称预谋性攻击)两类。前者是指个体在面对刺激或激惹时产生的丧失控制的攻击行为，后者则是个体有计划、有意识、主动选择的攻击行为(Anderson& Bushman,2002; Stanford etal.,2003)。自我控制下降只能解释反应性/冲动性攻击的产生而无法解释主动性/预谋性攻击的形成。同时，Chester(2017)提出，在攻击与情绪领域，正性和负性情绪是正交关系，而非同一维度的两端，因此，在研究攻击与情绪关系时，我们应当对正性情绪和负性情绪分别进行研究。自我控制理论只能解释负性情绪对攻击的影响而忽略了正性情绪的作用。情绪与攻击的关联普遍且密切，我们应当寻找一些适用性更广的理论解释二者之间的关系(Bushmanetal.,2001)。情绪调节理论(Emotion Regulation)可以弥补这些不足，不仅关注到了负性情绪(Bushman et al.,1999; Chester & DeWal,2017)和反应性攻击(Carlsmith et al.,2008; Eadeh et al.,2017)，还能够解释正性情绪的作用(Chester& DeWall，2017)和主动性攻击(Chester et al,2019)的产生。该理论认为，情绪之所以会导致攻击行为产生，是因为处于负面情绪状态的个体会产生情绪调节动机(Emotion Regulation Motive)(Larsen，2000)，即期望调节当下的情绪状态；攻击则被认为是一种可以调节情绪的手段(Bushman et al.,2001)。因此个体会出于调节情绪的目的实施攻击(DeWall et al.,2016)。想要证实该理论，需要从两方面入手，一是个体是否会出于调节情绪的目的实施攻击，二是攻击行为客观上是否起到了调节情绪的作用(Chester & DeWall, 2017)。
+
+# 1.2情绪调节动机对攻击的影响
+
+大量实证研究显示，个体的情绪调节动机是攻击行为产生的重要原因。当面对挑衅时，只有相信攻击可以调节情绪或自身具有高愤怒表达倾向的个体才会产生更多攻击行为(Bushman etal.,1999;Chester&DeWall,2017)；相反，如果个体相信攻击会使情绪状态恶化，即使在负性情绪下，其攻击行为也不会增加，甚至会减少(Bushman et al.,2001)。这表明，当下的负面情绪状态本身并不会必然导致攻击，对攻击后情绪的预期才是导致攻击的真正原因(Baumeister et al.,2007; DeWall et al.,2016)。可以说，个体为了调节不良的情绪状态而实施攻击，情绪调节动机在攻击行为产生过程中起到了关键作用(Chester&DeWall,2017)，这种作用可能超过了情绪本身对攻击的直接影响(Baumeister etal.，2007；DeWall etal., 2016)。
+
+值得注意的是，对情绪调节的预期并不限于消除负性情绪，也包含获得正性情绪，这体现了正性情绪在攻击形成中的作用(Chester，2017)。近期关于施虐(Sadism)与攻击行为关系的研究很好地证实了这一点(Chester&DeWall,2017; Chester et al.,2019)。施虐倾向是从他人受到伤害的过程中体验到愉悦的一种倾向(Buckels etal.,2013)，相比于愉悦感本身，它更强调对攻击行为带来的愉悦体验的预期(O'Meara et al.,2013)。Chester 和 DeWal(2017)的研究发现，负性情绪会使个体产生更多的攻击行为，施虐倾向在二者间起中介作用。这说明负性情绪会提高个体通过攻击获取愉悦（即正性情绪）的倾向和预期，导致攻击行为的产生。神经生物学研究也证实了这一观点，对报复行为的预期会激活纹状体(striatum)等与奖赏和愉悦相关的脑区，表明攻击的实施者认为攻击是获得愉悦的有效方式(de Quervain et al,2004)。
+
+# 1.3攻击对情绪的实际调节作用
+
+上述理论和研究表明，个体有通过攻击调节情绪的动机和预期，因而实施攻击行为。但仅有动机和预期并不足以充分说明情绪调节理论的有效性，对攻击行为是否真的能调节情绪进行验证同样重要(Chester＆DeWall,2017)。然而，以往的研究表明，攻击对情绪的影响是较为复杂的，攻击未必能够调节情绪。尽管确有研究证实，受到社会排斥的个体在实施攻击后，负性情绪显著降低(Chester&DeWall,2017)。但另外的一些研究和理论得到了不同或相反的结果：针对报复性攻击的研究结果发现，个体在实施报复后会产生负性情绪(Carlsmith et al.,2008; Eadeh et al.,2017; Lambert et al.,2014)；在控制了攻击前的负性情绪后，攻击大小与攻击后的负性情绪相关不显著，甚至存在正相关(Chester& DeWall,2017);攻击是一种适应不良行为，这类行为常常会导致负性情绪的增加而非减少(Baumeister et al.,2007)。这可能是由于攻击不受社会规范的允许和认同，攻击者会担心遭受不良的社会评价甚至法律的惩罚。此外，报复性攻击可能使个体回忆被他人伤害的经历，导致负性情绪的产生(Eadeh et al.,，2017)。因此有研究者提出，尽管个体期望通过攻击调节情绪，结果却可能恰恰相反(Chester et al.,2019)，攻击的情绪调节效果可能并不如个体预期的那样，反而可能使个体产生更多的负性情绪。这与情绪调节理论似乎存在着矛盾和冲突。
+
+攻击对正性情绪的影响则在一定程度上澄清了这一矛盾。Bushman 等(2001)认为，攻击对情绪的调节更多体现在获得正性情绪而非一般认为的宣泄负性情绪，近期的一些研究进一步证实了这一观点：攻击后个体负性情绪增加，但其正性情绪水平也会提升(Chester etal.,2019; Chester & DeWall,2017; Carlsmith et al.,2008; Eadeh et al.,2017)。这便解释了为什么攻击在增加负性情绪的同时，也会被当作调节情绪的手段。这也印证了Chester(2017)的观点：正性和负性情绪是正交关系，二者可能同时增加或减少。因此，在研究攻击的情绪调节理论时，我们应当将正性情绪和负性情绪分开进行研究。
+
+# 1.4不同攻击类型的差异
+
+情绪调节理论既可以解释主动性攻击，也可以解释反应性攻击。但针对不同的攻击类型，其机制可能有所不同，以往的研究没有很好地厘清这种差异。首先，一般认为，负性情绪下个体更多产生的是反应性/冲动性攻击(Krizan & Johar，2015)。但在正常人和暴力犯中，负性情绪与反应性/冲动性攻击和主动性/预谋性攻击均存在正相关 (Raine et al.，2010;刘宇平 等,2021)。第二，一些研究表明，攻击后产生的正性情绪可能更多体现在反应性/冲动性攻击中(Gollwitzer et al.,2011；Eadeh et al.,2017)，近年来的神经生物学研究也支持这一观点：反应性攻击比主动性攻击更能引发腹侧纹状体等奖赏系统的激活(Chester& Dewall,2016)。但是，个体为了获得愉悦而选择的攻击，是具有一定目的性的，更符合主动性/预谋性攻击的定义 (Stanford etal.,2003)。同时，最新的研究表明，施虐与攻击行为的相关不会受到攻击类型的调节 (Chesteretal.,2019)，换言之，为了获取快感，个体既会实施反应性/冲动性攻击，也会选择主动性/预谋性攻击。最后，有关攻击前后负性情绪变化的研究大多关注的是反应性/冲动性攻击(Carlsmith et al.,2008;Eadeh etal.,2017)，或没有对攻击类型做很好的区分(Chester& DeWall，2017)。这在一定程度上导致了攻击对负性情绪影响的争议。仅在Chester 和DeWall(2017)一文的两项子研究中，便前后出现了三种混合的结果：社会排斥组个体实施攻击后负性情绪降低，无排斥组实施攻击后负性情绪无显著变化，而回归分析显示，在控制了攻击前的负性情绪后，攻击大小能正向预测攻击后的负性情绪。值得注意的是，在回归分析中，Chester 和Dewall(2017)并没有考察社会排斥的调节作用。
+
+# 1.5本研究
+
+综上所述，情绪调节理论可以为攻击行为的产生提供解释，但现有的研究存在诸多争议，这与以往研究没有很好地对情绪和攻击类型进行区分有关。本研究中，我们将正性情绪和负性情绪当作正交关系，并将攻击也分为主动性攻击和反应性攻击，分别进行讨论。此外，以往的大多数研究是在大学生群体中开展的，攻击这种带有反社会倾向的行为在大学生中并不典型，通过攻击获得愉悦的做法在大学生中也并不普遍，这大大降低了研究的代表性和适用性，也限制了研究的现实意义(Chester et al.,2019)。暴力犯具有高攻击性、易受负面情绪影响、对奖赏刺激格外敏感等特点，他们更容易受情绪的影响实施攻击行为，攻击也更容易给其带来愉悦(Blair,2013;Raine,2018)。因此，本研究选取暴力犯为研究对象。
+
+本文通过2项研究，基于情绪调节理论解释情绪是如何导致攻击行为的。研究1从预期和动机的角度，考察个体是否会为了调节情绪而实施攻击？研究2在研究1的基础上，从攻击行为对情绪的实际影响入手，考察攻击是否如个体预期的那样起到了调节情绪的作用？根据前人的研究结果，我们提出如下假设：(1)情绪调节动机在负性情绪和攻击间起中介作用；(2)暴力犯在实施攻击后，其情绪，尤其是正性情绪会产生变化；(3)针对不同的攻击类型，上述结果可能存在差异，即攻击类型起到了调节作用。
+
+# 2研究1：个体会为了调节情绪而攻击吗？
+
+为探讨个体是否会以调节情绪为目的实施攻击，研究1采用改编后的反应时竞争范式，分别讨论情绪调节动机在正负性情绪与主动性攻击和反应性攻击间的中介作用。根据以往研究的做法，将挑畔(provocation)条件下的攻击代表反应性攻击，非挑衅条件下的攻击则代表主动性攻击(Chester et al.,2019)。
+
+# 2.1研究方法
+
+# 2.1.1 被试
+
+在湖南省某监狱中根据如下标准选取被试：年龄 $1 8 { \sim } 5 0$ 岁之间，小学及以上文化，智力正常、无阅读或书写障碍。罪名为故意杀人或故意伤害。研究1采取被试间设计，被试被随机分为反应性攻击和主动性攻击两组，对两组被试在年龄、文化水平、原判刑期和已服刑时间等基本信息进行匹配。共有93名被试完成了实验，反应性攻击组47人，主动性攻击组46人。其中5名被试因质疑伪被试的存在或未完整完成实验流程被剔除，有效被试 88人，其中反应性攻击组46人，主动性攻击组42人。研究1基于多元回归并在此基础上检验中介效应。根据刘红云（2019）提出的观点，多元回归的样本量 $N$ 应大于等于(8/f）+（204号 $( k { + } 1 )$ ，其中 $k$ 为自变量个数， ${ \mathcal { f } } ^ { 2 }$ 取0.15 为中等效应量，计算出的最小样本量为60。
+
+# 2.1.2 工具
+
+反社会人格障碍 采用人格诊断问卷-4 (Personality Diagnostic Questionnaire,PDQ-4)的反社会人格障碍(Antisocial personality disorder,ASPD)分量表测量被试的反社会人格障碍比例。该量表包含8个条目，其中第8个条目包含15个子条目，条目8得分大于等于3分且其余7个条目得分大于等于3分即符合反社会人格障碍标准(杨蕴萍等,2002)。
+
+敌意认知 对Li等(2016)研究中采用的敌意归因量表进行改编，该问卷包含5个条目，采用 $1 { \sim } 7$ 点计分。题目包括"我感觉我的对手很友好"(反向计分)、“我觉得我的对手故意要伤害我”“我的对手对我非常蛮横”、“我的对手对我很有敌意”、“我的对手对我抱有偏见”。验证性因素分析结果显示，单维度结构拟合良好， $\chi ^ { 2 } / d f { = } 1 . 8 9$ ， $C F I { = } 0 . 9 6$ GFI=0.96,$I F I { = } 0 . 9 6$ ， $S R M R { = } 0 . 0 5$ 本研究中，该量表的Cronbach's $\mathfrak { a }$ 系数为0.71。上述结果共同说明该
+
+自编问卷信效度良好。
+
+正负性情绪 采用正性负性情绪量表(Positive affect negative affect schedule，PANAS)测量个体的正/负性情绪(Watson et al.,1988；黄丽 等,2003)。该量表包含 20 个情绪词，正性情绪和负性情绪各10词。要求被试评估这些情绪词在多大程度上符合其当下的心情。本研究中，正性情绪和负性情绪的Cronbach'sα系数分别为0.88和0.86。
+
+情绪调节动机研究2采用自编问卷测量个体对调节情绪的动机。包含4个条目：“接下来，我要找地方宣泄愤怒”；“接下来，我要设法发泄心中的不满”；“接下来，用各种方式回击对手会很不错”；“接下来，把伤害还给对手会让我感觉很好”，采取 $1 { \sim } 7$ 点计分。本研究中其 Cronbach's $\mathfrak { a }$ 为0.86。验证性因素分析结果显示，单维度结构拟合良好，x²/df=1.27, CFI=0.99,GFI=0.98, $I F I { = } 0 . 9 9$ ,SRMR=0.02。上述结果共同说明该自编问卷具有良好的信效度。
+
+# 2.1.3 实验设计
+
+刘宇平等(2021)对经典的反应时竞争任务进行了改编，使其能够更好地适应监狱的特殊环境，研究2采用了与之相同的方法，具体流程如下。
+
+由主试一对一向被试解释指导语并指引被试完成每一环节的测试。首先，被试被告知将与一名来自其他监区的匿名对手(事实上是伪被试)进行反应速度比赛，游戏分为2阶段。阶段1结束后，系统会反馈游戏结果，且对手会对其进行评价。反应性攻击组中，被试被告知在阶段1失利，并收到"对手"的低评分(2分，满分9分)以及负面评价，例如"没有见过像你一样反应慢的人”；主动性攻击组中，被试被告知在阶段1获胜，并收到对手的高评分(8 分，满分9分)和正面评价，例如"表现不错”。
+
+完成阶段1后，被试根据当下的想法和体验填写敌意归因量表、正负性情绪问卷和情绪改变动机问卷。之后进行阶段2的游戏。被试将与上一阶段的对手再进行一轮比赛。回合开始前，被试依次选择噪音的大小和持续时间以向对手施加噪音，数字 $1 { \sim } 9$ 代表$6 0 { \sim } 1 0 0 \mathrm { d B }$ 的噪音大小(每 5dB 一个水平，0表示不施加噪音)或 $0 . 5 { \sim } 5 \mathrm { s }$ 的持续时间(每0.5s一个水平)。对噪音大小和持续时间分别标准化后将标准分相加，作为攻击行为的量化指标(杨晨晨等,2016)。
+
+# 2.2结果
+
+# 2.2.1差异性检验与操纵检验
+
+本研究中，88名被试有46人符合ASPD诊断标准，比例为 $52 . 3 \%$ 。如表1所示，两组被试在年龄、学历水平、原判刑期、服刑时间、上没有显著差异，主动性攻击组和反应性攻击组的 ASPD 检出率分别为和 $5 7 . 1 4 \%$ 和 $4 7 . 8 3 \%$ ，同样不存在显著差异 $( \chi ^ { 2 } = 0 . 7 6$ ， $d f { = } 1$ $p { = } 0 . 3 8 2 )$ ，表明两组被试的人口学变量匹配良好。与主动性攻击组相比，反应性攻击组被试敌意认知和负性情绪得分更高，表明实验成功地操纵了反应性攻击组个体感知到的挑畔和负性情绪，能够实现对两类攻击的区分。
+
+表1反应性攻击组与主动性攻击组描述性统计及差异检验  
+
+<html><body><table><tr><td>变量</td><td>反应性攻击组M±SD n=46</td><td>主动性攻击组M±SD</td><td>t</td><td>p</td><td>Cohen'd</td></tr><tr><td>年龄</td><td>36.02±5.57</td><td>n=42 35.60±6.25</td><td>0.34</td><td>0.736</td><td>0.07</td></tr><tr><td>学历水平</td><td>1.78±0.76</td><td>1.81±0.63</td><td>0.18</td><td>0.858</td><td>0.04</td></tr><tr><td>原判刑期(年)</td><td>19.16±7.65</td><td>18.71±8.25</td><td>0.26</td><td>0.793</td><td>0.06</td></tr><tr><td>服刑时间(年)</td><td>5.65±3.37</td><td>5.34±3.92</td><td>0.40</td><td>0.690</td><td>0.09</td></tr><tr><td>敌意认知</td><td>14.93±4.89</td><td>12.24±4.43</td><td>2.70</td><td>0.008</td><td></td></tr><tr><td>负性情绪</td><td>19.00±6.39</td><td>16.05±4.90</td><td>2.41</td><td>0.018</td><td>0.58 0.52</td></tr><tr><td>正性情绪</td><td>30.09±6.12</td><td>31.38±7.97</td><td>0.86</td><td>0.393</td><td>0.19</td></tr><tr><td>情绪调节动机</td><td>10.59±5.19</td><td>10.36±4.58</td><td>0.22</td><td>0.827</td><td>0.05</td></tr><tr><td>攻击行为</td><td>0.44±2.27</td><td>-0.48±1.34</td><td>2.27</td><td>0.026</td><td>0.49</td></tr></table></body></html>
+
+注：学历水平 $1 { = }$ 小学， $2 { = }$ 初中， $3 \mathrm { = }$ 高中/职高， $\scriptstyle 4 =$ 大学/大专及以上
+
+# 2.2.2相关分析
+
+正负性情绪、情绪调节动机和攻击行为的相关分析见表2。首先，正性情绪和负性情绪相关不显著，证实了正性情绪和负性情绪的确存在着正交关系，应当分开进行研究。负性情绪、情绪调节动机和攻击行为间存在显著正相关，正性情绪与情绪调节动机和攻击行为相关均不显著。
+
+表2正负性情绪、情绪调节动机及攻击行为相关矩阵  
+
+<html><body><table><tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>1负性情绪</td><td></td><td></td><td></td><td></td></tr><tr><td>2正性情绪</td><td>0.14</td><td></td><td></td><td></td></tr><tr><td>3情绪调节动机</td><td>0.68**</td><td>0.11</td><td></td><td></td></tr><tr><td>4攻击行为</td><td>0.38**</td><td>0.11</td><td>0.52**</td><td></td></tr></table></body></html>
+
+注： $^ { * * } p { < } 0 . 0 1$ ：
+
+# 2.2.3情绪调节动机的中介作用分析
+
+我们检验了情绪调节动机在正性/负性情绪与攻击行为间的中介作用。首先采用 SPSS中 process 组件的模型4检验情绪改变动机的中介作用，采用 Bootstrap法进行效应量显著性的检验，自抽样次数为5000。结果显示，以负性情绪为自变量，正性情绪为控制变量时，中介效应显著 $\left( \beta = 0 . 3 2 , S E = 0 . 1 1 , 9 5 \% C I [ 0 . 1 0 9 1 , 0 . 5 5 1 8 ] \right)$ ，但直接效应不显著 $\scriptstyle \operatorname { \{ \beta = 0 . 0 4 } $ $S E { = } 0 . 1 3$ $9 5 \% C I [ - 0 . 2 0 7 6$ ，0.2966])，中介效应量占比为 $8 8 . 8 9 \%$ 。以正性情绪为自变量（负性情绪为控制变量）时，中介效应不显著 $( \beta { = } 0 . 0 1$ ， $S E { = } 0 . 0 4$ ，95%CI[-0.8021,0.1002])，直接效应也不显著 $\mathrm { \beta } \mathrm { \beta } \mathrm { = } 0 . 0 5$ ， $S E { = } 0 . 0 9$ ， $9 5 \% C I [ - 0 . 1 3 5 9 , 0 . 2 3 8 4 ] )$ 。详细结果见图1。最后，使用Amos23.0对图1所示的模型进行多群组分析，检验在反应性攻击组和主动性攻击组中上述中介模型的差异。结果表明，在反应性攻击和主动性攻击组中，上述模型不存在显著差异 $( \Delta \chi ^ { 2 } { = } 3 . 5 1$ △ df=5, $\scriptstyle p = 0 . 6 2 2 )$ ，所有路径系数的差异临近比值(Critical Ratios for DifferencesbetweenParameters)也均小于1.96 的临界值 $( p s { < } 1 . 0 7 )$ ，表明攻击类型对上述模型的调节作用不显著。
+
+![](images/b72f9dae0fcfb966c1f71c2f811f0f8a91641c9718c7f52e871b0aa98d3e8206.jpg)  
+图1情绪调节动机在正负性情绪与攻击间的中介作用模型图
+
+注： $^ { * * } p { < } 0 . 0 1$ 。
+
+# 2.3 讨论
+
+本研究的被试中，ASPD 的占比高达 $52 . 3 \%$ ，远超过正常人群中的 $0 . 2 \% { \sim } 3 . 3 \%$ (American Psychiatric Association，APA，2013)，也高于一般罪犯群体中的 $32 . 8 \%$ (蒋奖，许燕，2007)，表明本研究选取的暴力犯被试具有较好的代表性和典型性。研究1结果表明，负性情绪会使得个体产生调节情绪的动机，并引发攻击行为；正性情绪本身则不会影响攻击行为，这与以往的研究结果一致(Chester&DeWall,2017)。攻击类型对上述过程不存在调节作用，意味着处于负性情绪状态的个体会将主动性攻击和反应性攻击都当作调节情绪的手段。
+
+# 3研究2：攻击能够调节情绪吗？
+
+研究1的结果表明，处于负性情绪下的个体会出于调节情绪的目的实施攻击行为，在一定程度上证实了情绪调节理论的有效性。然而，这样的结果还不能完全证实情绪调节理论。个体实施攻击后，其情绪发生了怎样的变化？攻击是否真的如他们预期的那样能够调节情绪呢？此外，以往观点认为，攻击对情绪的调节作用主要体现在获得正性情绪而非减少负性情绪(Bushman et al.,2001;Chester，2017)。研究1未涉及攻击后的情绪变化，也便很难突显正性情绪的作用。因此，研究2将在研究1基础上，从另一角度验证情绪调节理论，并厘清正性情绪在攻击产生过程中的作用。
+
+# 3.1研究方法
+
+# 3.1.1 被试
+
+研究2的被试与研究1相同，有效被试为88人。采用GPower对2（组内变量）$\times 2$ （组间变量）的混合设计进行样本量计算，统计功效power-0.8，效应量设为 $f { = } 0 . 2 5$ 的中等效应量，计算出的最小样本量为 $N { = } 6 6$ 。
+
+# 3.1.2实验设计
+
+研究2是在研究1的基础上完成的，被试在完成研究1中的竞争反应时任务后，紧接着被要求再次填写正性负性情绪量表，以测量其在实施攻击行为后的情绪状态。我们通过比较攻击前后个体正性情绪和负性情绪的变化，探讨攻击行为对情绪的影响。采取 $2 { \times } 2$ 的混合设计，将攻击前和攻击后作为组内变量，攻击类型为组间变量，正性情绪和负性情绪分别作为因变量，进行重复测量方差分析，考察个体攻击前后的正性/负性情绪变化。接下来，为进一步确认情绪的变化的确是由攻击行为而非实验过程中其他因素（例如情绪会随时间变化而消退）导致。我们使用 spss23.0 中 process 组件的模型1，将攻击大小作为自变量，攻击后的情绪为因变量，攻击前的情绪为控制变量，组别为调节变量检验在反应性攻击和主动性攻击条件下攻击大小对攻击后正负性情绪的预测作用。
+
+# 3.2结果
+
+攻击后个体的正性情绪和负性情绪相关不显著 $\scriptstyle ( r = 0 . 0 3$ ， $\scriptstyle { p = 0 . 7 7 3 ) }$ ，这再次印证了正负性情绪是正交关系的观点(Chester，2017)，为后续将正负性情绪分开进行分析提供了基础和依据。
+
+# 3.2.1攻击行为对正性情绪的作用
+
+首先，重复测量方差分析结果表明，攻击前/后的主效应显著， $F ( 1 , \ 8 6 ) { = } 4 . 4 9$ ， $\scriptstyle { p = 0 . 0 3 7 }$ 偏 $\mathfrak { \eta } ^ { 2 } = 0 . 0 5$ ，攻击后正性情绪 $( M = 3 1 . 6 7 , S D = 7 . 3 9 )$ 相比于攻击前 $( M = 3 0 . 7 0 , S D = 7 . 0 5$ 显著提高；攻击类型的主效应不显著， $F ( 1 , 8 6 ) { = } 0 . 5 5$ $\scriptstyle { p = 0 . 4 5 9 }$ ，偏 $\mathfrak { \eta } ^ { 2 } = 0 . 0 1$ ；二者的交互作用不显著， $F ( 1 , 8 6 ) { = } 0 . 1 9 , p { = } 0 . 6 6 9$ ，偏 $\mathfrak { \eta } ^ { 2 } \mathrm { < } 0 . 0 1$ (详见图2)。
+
+Process模型1的结果表明，攻击类型的调节作用不显著中 $_ { \mathrm { \tiny { ~ \beta = 0 . 0 7 } } }$ ， $S E { = } 0 . 0 7$ ， $\scriptstyle t = 0 . 9 5$ ， $\scriptstyle p = 0 . 3 4 6 )$ ，攻击大小对攻击后正性情绪有显著正向预测作用中 $\mathrm { \ B = } 0 . 1 6$ ， $S E { = } 0 . 0 6$ ， $\scriptstyle t = 2 . 6 7$ ， $\scriptstyle p = 0 . 0 0 9 )$ 。
+
+# 3.2.2攻击行为对负性情绪的作用
+
+采用相同的方法检验攻击对负性情绪的影响。重复测量方差分析结果显示，攻击前/后的主效应不显著 $F ( 1 , \ 8 6 ) { = } 0 . 9 2$ ， $\scriptstyle { p = 0 . 3 3 9 }$ ，偏 $\eta ^ { 2 } = 0 . 0 1$ ；攻击类型的主效应不显著 $F ( 1 , \ 8 6 )$ （204号$_ { = 0 . 7 9 }$ $\scriptstyle { p = 0 . 3 7 5 }$ ，偏 $\mathfrak { n } ^ { 2 } = 0 . 0 1$ ；但二者的交互作用显著 $F ( 1 , 8 6 ) { = } 1 4 . 4 4 , p { < } 0 . 0 0 1$ ，偏 $\eta ^ { 2 } = 0 . 1 4$ 。简单效应分析表明，在反应性攻击组中，攻击后负性情绪 $M = 1 7 . 6 1$ ， $S D = 5 . 9 6 )$ 显著低于攻击前 $( M = 1 9 . 0 0$ ， $S D = 6 . 3 9 _ { , }$ , $F ( 1 , 8 6 ) { = } 4 . 2 2$ $\scriptstyle { p = 0 . 0 4 3 }$ ，偏 $\mathfrak { \eta } ^ { 2 } = 0 . 0 5$ ；主动性攻击组中，攻击后负性情绪 $( M { = } 1 8 . 3 8 , S D { = } 7 . 2 1 )$ 显著高于攻击前 $( M = 1 6 . 0 5 , S D = 4 . 9 0 )$ ， $F ( 1 , 8 6 ) { = } 1 0 . 8 4 , p { = } 0 . 0 0 1$ ，偏 $\eta ^ { 2 } = 0 . 1 1$ (详见图3)。
+
+为进一步确认Process 模型1的结果显示，攻击类型的调节作用显著 $( \beta = -$ 0.34， $S E { = } 0 . 0 8$ ， $\scriptstyle t = 4 . 2 2$ ， $_ { p = 0 . 0 0 1 ) }$ 。简单斜率分析表明，控制了前测负性情绪后，反应性攻击组中，攻击大小对攻击后的负性情绪有显著的负向预测作用 $( \beta = -$ 0.20， $S E { = } 0 . 0 7$ ， $\scriptstyle t = 2 . 1 8$ ， $\scriptstyle p = 0 . 0 3 4 )$ ；主动性攻击组中，攻击大小则可以正向预测攻击后的负性情绪 $\scriptstyle \mathrm { { \{ \beta = 0 . 3 3 } } $ ， $S E { = } 0 . 1 7$ ， $\scriptstyle t = 3 . 0 1$ ， $\scriptstyle { p = 0 . 0 0 5 } )$ 。
+
+![](images/9d98c7dfde4e13be2ee41261f5212af66ad7cb7012bf3f43290bfd6ecb2778c1.jpg)  
+图2反应性攻击组和主动性攻击组个体攻击前后正性情绪变化
+
+![](images/5ec87b50c007bc7274924010d01c8ac846fe2e3a4ab43c6b014095145d5986c0.jpg)  
+图3反应性攻击组和主动性攻击组个体攻击前后负性情绪变化
+
+# 3.3讨论
+
+研究2的结果表明，主动性攻击和反应性攻击都会伴随着个体正性情绪的提升。攻击对负性情绪的影响则受到攻击类型的调节。反应性攻击后，个体的负性情绪会降低；主动性攻击后其负性情绪则会增加。这说明反应性攻击不仅伴随着快感的获得，还可能起到宣泄负性情绪的作用，更能实现情绪调节；主动性攻击则更像一把"双刃剑”，尽管同样可能带来快感，但也伴随着负性情绪的进一步恶化。这说明攻击对情绪的确存在一定的调节作用，但针对不同的攻击类型和情绪类型，这种调节作用会有所不同。这样的结果也印证了攻击对情绪的调节更多体现在帮助个体获得正性情绪(Bushman et al.,2001)，突出了正性情绪在攻击形成过程中的作用。
+
+# 4总讨论
+
+本文通过2项研究探讨了情绪调节动机在攻击行为产生中的作用以及攻击行为对调节情绪的实际效果。本文以暴力犯这一典型的高攻击群体为被试，较好地弥补了以往研究大多以大学生为被试的局限，验证了情绪调节理论在解释攻击行为产生过程中的有效性，并提高了其生态效度，同时突出了情绪调节理论在暴力犯群体中的特异性。在暴力犯群体中，负性情绪是攻击产生的重要因素，负性情绪下的个体会期望通过攻击行为调节自身的情绪状态，进而引发攻击行为。从攻击结果来看，如攻击者期望的那样，攻击的确对情绪有调节作用，实施主动性攻击和反应性攻击都会伴随着正性情绪的提升。这提示我们，尽管正性情绪本身不会引发攻击行为(Chester＆DeWall,2017)，但攻击带来的愉悦体验可能是诱发攻击的重要因素(Chester，2017)。负性情绪方面，反应性攻击伴随着负性情绪的降低；主动性攻击后负性情绪则有所上升。攻击对负性情绪的影响存在着争议，这与以往研究没有对攻击类型进行明确区分有关(Carlsmith et al.,2008; Eadeh et al.,2017; Chester &DeWall,2017),本研究的结果有助于厘清这种争议。
+
+# 4.1情绪调节动机的中介作用
+
+调节不良的情绪状态是一种重要的适应性心理功能(Larsen，2000)。长期以来，公众、媒体甚至专家都直接或间接地将攻击视作宣泄和调节情绪的手段(Bushman et al.,2001)。例如，许多心理机构会设置打沙袋或宣泄墙来帮助来访者宣泄情绪(詹鉴 等,2020)，这些行为属于替代性攻击(displaced aggression)范畴；文学作品也常常设置复仇的桥段来取悦读者。这与本研究和以往一些研究的结果一致，负面情绪状态下的个体会期望通过攻击调节情绪，进而实施攻击行为(Bushman etal.,1999,2001)。有研究者提出，这种对情绪的预期在攻击行为的形成过程中至关重要，其作用可能比当前的情绪本身更为重要(Baumeister et al.，2007;DeWall etal.,2016)。研究1中，情绪调节动机在负性情绪和攻击间起到了完全中介作用，很好地证实了上述观点。
+
+研究1中，攻击类型对中介模型的调节作用不显著。这样的结果表明，个体为了调节情绪会选择主动性/预谋性攻击也会选择反应性/冲动性攻击。这与Chester 等(2019)的研究结果一致，施虐人格(一种通过伤害他人获取快感的人格倾向)与指向挑衅者和无辜者的攻击都存在显著正相关。这说明不仅是针对挑衅者的反应性攻击，指向无辜者的主动性攻击也会让个体有获得愉悦的预期(Buckels et al.,，2013)。暴力犯等反社会人群具有高感觉寻求(刘宇平 等,2019)和施虐倾向(Buckels et al.,2013)，使其更可能为了获取刺激和愉悦而选择伤害他人。这样的结果也更加符合暴力犯的人格和行为特点。
+
+# 4.2 攻击前后的情绪变化
+
+个体期望用攻击调节情绪，从结果来看，攻击真的起到调节情绪的作用了吗？研究 2的结果表明，攻击对情绪的调节作用的确存在。具体来说，主动性和反应性攻击后暴力犯的正性情绪都有所上升，实施反应性攻击之后，其负性情绪会有所下降；但实施主动性攻击之后，负性情绪会进一步提高。此外，我们在控制了前测情绪的情况下，检验了攻击行为对后测情绪的预测作用，得到了相同的结论。这样的做法能够有效地排除其他因素（如负性情绪向均值回归、正性情绪是随着时间自然变化的结果等）的解释，而证明情绪的变化确由攻击行为引发。一方面，攻击的确给个体带来了正性情绪。个体实施攻击后正性情绪显著增加，在控制了攻击前正性情绪后，攻击的大小对攻击后正性情绪有显著的正向预测作用。这进一步证实了Chester(2017)的观点，正性情绪尽管不会直接影响攻击行为，但攻击产生的快感可能会驱使个体实施攻击行为。以往在正常人和大学生被试中的研究结果强调的都是报复性或反应性攻击带来的快感(Carlsmith et al.,2008；de Quervain et al.,2004;Eadeh et al.,2017)，神经生物学研究也表明，受到挑衅后的反应性攻击更能引发奖赏系统的激活(Chester& DeWall，2016)。而研究2发现，攻击带来的正性情绪并不受攻击类型的调节，暴力犯的主动性攻击和反应性攻击都能够给其带来愉悦。得到这样的结果并不意外，许多给人带来愉悦的娱乐活动都带有主动性攻击的性质，例如打猎(Weierstall&Elbert,2011)。加上暴力犯代表的反社会人群对奖赏更为敏感，负责奖赏的脑区(如纹状体)比常人更加活跃(Blair,2013;Raine,2018)，因此更容易从各类攻击行为中获得愉悦感。
+
+另一方面，与以往研究结果一致，攻击对负性情绪的影响相对复杂(Chester& DeWall,2017)。研究2中对攻击类型的调节作用的检验有助于厘清这一复杂的关系。具体来说，实施反应性攻击之后，个体的负性情绪会有所下降；但实施主动性攻击之后，负性情绪会进一步提高。关于攻击是否会带来负性情绪一直存在着争议，以往在正常人群的研究中，攻击虽然被视为是一种"宣泄"的手段(Bushman et al.,1999,2001)，但它作为一种适应不良行为，也很容易引发个体的负性情绪(Baumeister et al.，2007)，这可能是由于攻击的实施者会对道德谴责甚至法律惩罚产生焦虑和畏惧或对被害者感到愧疚，使得个体实施主动性攻击后负性情绪增加。研究2结果表明，尽管暴力犯为代表的反社会人群具有高攻击信念、冷酷无情、缺乏懊悔心、无法对被害者的痛苦感同身受等特点(APA，2013)，但与正常人相似，主动性攻击依然会增加其负性情绪。不同的是，在受到他人挑畔之后，暴力犯的反应性攻击更多起到的是宣泄作用而不会增加负性情绪。这可能是由于暴力犯具有较高的道德推脱
+
+(Kiriakidis，2008)和攻击信念(关慕桢等,2010)，他们倾向于认为给施加挑衅的人一些教训是合理的，被报复者是“罪有应得”，不认为自己的行为是非适应性的，因而不会伴随负性情绪的产生。
+
+# 4.3情绪调节理论解释攻击行为的产生及其非适应性
+
+本研究基于情绪调节理论解释了情绪在攻击形成过程中的作用。当个体处于负面的情绪状态时，会将攻击作为调节情绪的手段，期望通过攻击行为调节情绪(Bushmanetal.,2001；DeWall et al.,2016)。这种情绪调节动机既会驱使个体实施反应性攻击，也会增加其主动性攻击。从结果来看，尽管不同的攻击类型之间存在着差异，但总体来看，攻击行为客观上能够起到调节情绪的作用。但与消极状态缓解模型(negative state relief model)认为的个体通过实施亲社会行为来消除负面情绪状态(Cialdini etal.,1981)不同，使用攻击等反社会行为调节情绪的方式具有明显的非适应性。首先，攻击的反社会性质决定了为谋取自身的利益和快感而实施的攻击行为，其本身就与道德和法律等社会规范相违背。同时，这样的做法会反过来增加攻击行为，使个体形成高攻击的反社会行为模式。一方面，在实施攻击后，反应性攻击能如个体预期的那样调节情绪，使个体正性情绪增加，获得快感，并降低负性情绪。长此以往，攻击行为可能会受到强化，个体会产生对攻击行为的依赖，形成一种"亲攻击"的行为模式。另一方面，主动性攻击可以给个体带来正性情绪的同时，也伴随着负性情绪的增加。但这可能并不能减少以暴力犯为代表的反社会人群的攻击行为。反社会人格障碍患者具有奖赏偏好的认知特点，对于奖赏等正反馈信息更为敏感，而常常忽略惩罚等负面信息(Raine,2018)。因此，攻击带来的负性情绪很难阻碍其为了寻求快感而实施攻击。相反，负性情绪的提升会继续驱使个体实施攻击，因为研究1的结果和以往的研究都表明，负性情绪会增加攻击行为(Anderson& Bushman,2002; Bushman et al.,1999;Leith &Baumeister,1996)。更为重要的是，攻击能增加正性情绪的同时，攻击对情绪的调节作用可能只是暂时的，相比于攻击的负面作用，攻击带来的快感持续时间相对较短。Chester 等(2019)的研究结果发现：攻击后产生的快感很快会被情感上的不适取代，个体期望通过攻击调节情绪，但结果却可能适得其反。可以说，采用攻击行为调节情绪的做法无异于“饮止渴”。更为极端的情况下，个体为了寻求攻击带来的快感，会主动实施攻击行为。同时为了避免攻击带来的负性情绪，会有意无意对他人的行为做敌意归因，甚至主动寻求挑衅，为自己的攻击行为寻求合理化解释(Chester & DeWal,2017)。
+
+综上所述，攻击在客观上能够起到调节情绪的作用，这也从情绪调节理论的角度解释了攻击行为的产生原因。但这种调节手段具有非适应性，对个体和社会都存在着负面影响。
+
+为此，我们应当设法降低个体采取攻击调节情绪的倾向以减少攻击行为的产生及其危害。
+
+# 4.4启示、不足与展望
+
+本文发现，个体在负性情绪下会将攻击行为当作调节情绪的方式。研究表明，如果个体认为攻击对情绪没有调节作用，甚至会让情绪变差，其攻击行为会显著减少(Bushman etal.，2001)。这启示我们在对攻击进行预防干预时，可以帮助个体建立“攻击不是调节情绪的合理手段"的信念，并帮助其习得一些合理的情绪调节方法，例如正念冥想(Denson，2015)或实施亲社会行为(Cialdini et al.,1981)。
+
+攻击可以给个体带来快感，引发奖赏环路的激活，但也会带来负面情绪体验，并对人际、社会功能有损害作用，这与成瘾行为有很多相似之处（APA，2013；Yucens&Uzer,2018)。这可能为成瘾与攻击行为的关联(Allen etal.，1997)提供了新的解释。今后的研究可以关注攻击与成瘾行为的关联与共同点，借鉴成瘾领域的经验为攻击行为的机制、预防及干预提供启示(Chester&DeWall,2017)。
+
+本文的结果证实了詹鉴等人(2020)提出的观点，在心理治疗过程中应当谨慎使用"宣泄"疗法，在监狱环境下更是如此。个体通过击打"沙袋”“人形宣泄柱"等方式进行宣泄，其过程类似于替代性攻击。研究表明，此类的宣泄活动不仅不会降低个体的愤怒、敌意等负性情绪，还会增加其后续的攻击性(Bushman et al.,1999,2001; Parlamis,2012)，这与本文的研究结果基本一致。此外，攻击带来的快感会使攻击行为得到强化，可能使个体将宣泄时的行为模式迁移到现实生活中，导致攻击性增强。因此，在心理治疗和司法实践过程中，我们应当意识到"宣泄"疗法可能带来的负面作用，不可随意将攻击行为作为调节情绪的工具和手段。
+
+本文存在着一些局限。首先，研究仅对情绪的效价进行了区分，事实上情绪与攻击的关联可能还与唤醒度有关。对于低唤醒度的正性情绪，如放松、平静等，它们与攻击的关联并不显著(Chester，2017)。第二，本研究只关注了攻击前和攻击后的情绪，事实上，攻击过程中的情绪对预测攻击行为同样重要(Chester et al.,2019)。但自评工具很难对三个阶段的情绪做清晰准确的区分，今后的研究可以通过实时采集的生物学指标，利用情感计算等技术对个体情绪进行实时的测量以更好地厘清攻击前后个体的情绪变化过程。第三，通过攻击获得资源、地位或金钱是个体实施攻击行为的重要目的(Runions et al.,2018)，也与正性情绪为代表的奖赏和快感有密切关联，失败则会导致负性情绪的产生。因此，本研究中涉及的游戏胜负和尚未涉及的金钱、物质利益都可能影响攻击与情绪的关联。今后可以将这些因素纳入研究中，以进一步厘清攻击与情绪之间的关联。最后，本研究在统计上存在一些局限。例如，研究一的调节变量与自变量和因变量存在一定的相关，不完全符合理想的调节变量的要求（温忠麟等，2005)；研究二中的攻击是被试自己选择而非通过操纵完成的，从本质上来说不能完全说明二者之间的因果关系，类似的问题在攻击对其他变量影响的研究中同样存在（张丽华，苗丽，2019)，未来的研究应当寻找新的范式操纵改变个体的攻击行为以获得更为准确的因果关系。
+
+# 5结论
+
+本文通过2项研究对情绪在暴力犯攻击形成过程中的作用进行了研究，在暴力犯群体中验证了情绪调节理论的同时，增加了该理论的生态效度。（1）暴力犯在负性情绪状态下会产生攻击行为，情绪调节动机在二者间起中介作用。（2）攻击对暴力犯情绪的调节作用具有两面性，尽管攻击可能伴随着正性情绪的升高，但负性情绪可能也会随之升高，形成恶性循环。（3）反应性攻击后会伴随着正性情绪的升高和负性情绪的下降；而主动性攻击后正性情绪和负性情绪均会升高。
+
+# 参考文献
+
+Allen,T.J.,Moeler,F.G.,Rhoades,H.M.,& Cherek,D.R.(1997).Subjects with a history ofdrug dependence are more aggressive than subjects with no drug use history. Drug& Alcohol Dependence,46(1-2),95-103.   
+American Psychiatric Association. (20l3). Diagnostic and statistical manual of mental disorders (5th ed.). Washington, DC: American Psychiatric Association.   
+Anderson, C.A.,& Bushman,B.J. (2002). Human aggression. Annual Review of Psychology,53(1),27-51.   
+Baumeister,R.F.,Vohs,K.D.,DeWal, C.N.,& Zhang,L.Q. (2007).How emotion shapes behavior: Feedback, anticipation,and reflection,rather than direct causation.Personality and Social Psychology Review,11(2), 167-203.   
+Blair,R.J.R. (20l3).The neurobiology of psychopathic traits in youths.Nature Reviews Neuroscience,14(11), 786-799.   
+Buckels,E.E.,Jones,D.N.,&Paulhus,D.L. (2013). Behavioral confirmation of everyday sadism.Psychological Science,24(11),2201-2209.   
+Bushman,B.J.,Baumeister,R.F.,& Stack, A.D.. (1999). Catharsis,aggression,and persuasive influence: Selffulfiling or self-defeating prophecies?. Journal of Personality & Social Psychology,76(3),367-76.   
+Bushman,B.J.,Baumeister,R.F.,& Phillps,C.M.(2001).Do people aggressto improve their mood?Catharsis beliefs,affect regulation opportunity，and aggressive responding. Journal of Personality and Social Psychology, 81(1),17-32.   
+Buss,A.H.,&Perry,M.(1992).The aggression questionnaire.JournalofPersonalityand Social Psychology,63(3) 452.   
+Carlsmith, K.M., Wilson,T.D.,& Gilbert,D.T. (2o08).The paradoxical consequences of revenge.Journal of Personality and Social Psychology,95(6),1316-1324.   
+Chester,D.S. (2017).Therole of positive afct inaggression. Current Directions in Psychological Science,26(4), 366-370.   
+Chester,D. S.,& DeWall, C.N. (2016). The pleasure of revenge: retaliatory aggression arises from a neural imbalance toward reward. Social Cognitive and Affective Neuroscience, 11(7),1173-1182.   
+Chester,D. S.,& DeWal, C.N. (2017). Combating the sting of rejection with the pleasure ofrevenge: A new look at how emotion shapes aggression. Journal of Personality and Social Psychology,112(3), 413-430.   
+Chester,D.S.,DeWal,C.N.,&Enjaian,B.(2019).Sadismandaggressive behavior: Inflictingpain tofeelpleasure. Personality and Social Psychology Bulletin, 45(8),1252-1268.   
+Cialdini, R.B.,Baumann,D.J.,& Kenrick, D.T..(1981). Insights from sadness: A three-step model of the development of altruism as hedonism. Developmental Review,1(3),207 - 223.   
+de Quervain,D.J.F.,Fischbacher,U.,Treyer,V.,Schelthammer,M.,Schnyder,U.,Buck,A.,&Fehr,E.(2004). The neural basis ofaltruistic punishment. Science,305(5688),1254-158.   
+Denson,T.F.(2015).Four promising psychological interventions forreducing reactive aggresion. Current Opinion in Behavioral Sciences,3,136-141.   
+DeWall,C.N.,Baumeister,R.F., Chester,D.S.,& Bushman,B.J. (2016).Howoften does currently felt emotion predict social behavior and judgment? A Meta-Analytic test of two theories.Emotion Review,8(2),136- 143.   
+Eadeh,F.R.,Peak, S.A.,& Lambert,A.J. (2Ol7).The bitersweet taste of revenge: On the negative and positive consequences of retaliation. Journal of Experimental Social Psychology, 68, 27-39.   
+Gollwitzer，M.，Meder， M.，& SchmittM. (2011). What gives victims satisfaction when they seek revenge? European Journal of Social Psychology, 41(3), 364-374.   
+Guan,M. Z.,Liu,X.F.,Miao,D.M.,Lv,J.,Hong,X.,Yang,H. (2010). A comparison of violent atitude between passionate criminals and recidivists. Acta Psychologica Sinica, 42(05), 599-606.
+
+[关慕桢，刘旭峰，苗丹民，吕静，洪霞，杨海.(2010)．激情犯和累惯犯暴力态度的比较．心理学报,42(05), 599-606.]
+
+Huang,L., Yang,T. Z.,& Ji, Z. M. (2003). Applicabilityof the Positive and Negative Afect Scale in Chinese. Chinese Mental Health Journal, 17(1), 56-58.   
+[黄丽，杨廷忠，季忠民.(2003).正性负性情绪量表的中国人群适用性研究.中国心理卫生杂志 17(1),56-58.]   
+Jiang,J.,Xu,Y.(2oo7).Surveyonantisocial personality disorders in criminals.Chinese Journal of Special Education, (05),80-85.   
+[蒋奖，许燕.(2007)．罪犯反社会人格障碍的调查．中国特殊教育(05),80-85.]   
+Jin, G.,Shou,J.L.,&Lin,X.N. (2019). Analysis and forecast of China's crime situation (2018-2019). Journalof People's Public Security University of China (Social Sciences Edition),35(03),1-11.   
+[靳高风，守佳丽，林晞楠.(2019).中国犯罪形势分析与预测(2018—2019).中国人民公安大学学报(社会科学 版),35(03),1-11.]   
+Kiriakidis,S.P.(2oo8).Moral risengagement-relation todelinquencyand independence from indicesof social dysfunction.International journal of offender therapy and comparative criminology,52(5),571-583.   
+Krizan,Z,& Johar, O. (2015). Narcisistic rage revisited. Journal of Personality and Social Psychology，108(5), 784-801.   
+Lambert, A.J.,Peak,S.A.,Eadeh,F.R.,& Schot,J.P. (2014). How do you feelnow?On the perceptual distortion of extremely recent changes in anger. Journal of Experimental Social Psychology,52,82-95.   
+Larsen,R.J. (20oo). Toward a science of mood regulation.Psychological Inquiry,11(3),129-141.   
+Leith,K.P.,& Baumeister,R.F.(1996). Whydobad moods increase self-defeating behavior?Emotion,risk taking and self-regulation. Journal of Personality and Social Psychology, 71(6),1250-1267.   
+Li, C.,Sun, Y.,HoM.Y.,You,J.,Shaver,P.R.,& Wang,Z. (2016). State narcisism and aggression: The mediating roles of anger and hostile attributional bias.Aggressive Behavior,42(4), 333-345.   
+Liu,H.Y. (2019). Advanced Statistics for Psychology. Beijing: China Renmin University Press.   
+[刘红云.(2019)．高级心理统计．北京：中国人民大学出版社.]   
+Liu, Y.P., Guo,X., Bai, S.L.,Mo,N.J., Zhang,Z., Yang,B. (2019). Effect of child trauma on aggressive indrug abstainers:Mediating of psychopathyand sensation seeking. Chinese Journal of Clinical Psychology, 27(04), 731-735.   
+[刘宇平，郭笑，白舒靓，莫能嘉，张卓，杨波.(2019).强戒人员童年创伤经历对攻击性的影响：链式中介效 应分析．中国临床心理学杂志,27(04),731-735.]
+
+Liu,Y.P.,Li,S.S.,He,Y. Wang,D.D.,Yang,B. (2021).Eliminating threat or venting rage?The relationship between narcissism and aggression in violent offenders.Acta Psychologica Sinica,53(03),244258.
+
+[刘宇平，李姗珊，何赞，王豆豆，杨波.(2021).消除威胁或无能狂怒？自恋对暴力犯攻击的影响机制．心理 学报,53(03),244 258.]
+
+O'Meara, A., Davies,J.,& Hammond, S.(2011).The psychometric properties and utility of the Short Sadistic Impulse Scale (SSIS). Psychological Assessment, 23(2),523-531.   
+Parlamis,J.D. (2012). Venting as emotion regulation the influence of venting responses and respondent identityon anger and emotional tone. International Journal of Conflict Management, 23(1),77-96.   
+Raine,A. (2O18). Antisocial personality as a neurodevelopmental disorder. Annual review of clinical psychology 14,259-289.   
+Raine,A., Dodge,K.,Loeber,R., Gatzke-Kopp,L.,Lynam, D.,Reynolds,C., Stouthamer-Loeber,M.,&Liu,J. (2010).The Reactive-Proactive Aggression Questionnaire: Differential correlates ofreactive and proactive aggression in adolescent boys.Aggressive Behavior, 32(2),159-171.   
+Runions, K.C.,Salmivali, C.,Shaw,T.,Burns,S.,& Cros,D. (2018).Beyond the reactive-proactive dichotomy: Rage,revenge, reward, and recreational aggression predict early high school bully and bully/victim status. Aggressive Behavior, 44(5), 501-511.   
+Stanford,M.S.,Houston,R.J.,Mathias,C.W.,Villemarete-Pitman,N.R.,Helfritz,L.E.,&Conklin,S.M.(2003). Characterizing aggressive behavior. Assessment, 10(2),183-190.   
+Watson,D., Clark,L.A.,& Tellegen, A. (1988). Development and validation of brief measures of positive and negative affect: The PANAS scales.Journal of Personality and Social Psychology, 54(6),1063-1070.   
+Wen, Z. L., Hou, J.T., Zhang,L. (2oo5). A Comparison of moderator and mediator and their applications. Acta Psychologica Sinica, 37(02),268-274.   
+[温忠麟,侯杰泰,张雷.(2005)．调节效应与中介效应的比较和应用．心理学报,37(02),268-274.]   
+Weierstall, R.，& Elbert,T. (2011).The Appetitive Aggresson Scale-development of an instrument for the assessment of human's atraction to violence. European Journal of Psychotraumatology,2, Article 8430.   
+Yang, C.C.,Li, C.N. Wang, Z.H.,& Bian, Y.F. (2016). The mediational roles of perceived threat, anger,and hostile atribution bias between state narcissism and aggression. Psychological Development and Education,32(02),236-245.   
+[杨晨晨,李彩娜,王振宏,边玉芳.(2016).状态自恋与攻击行为—知觉到的威胁、愤怒情绪和敌意归因偏 差的多重中介作用．心理发展与教育,32(02),236-245.]   
+Yang,Y.P., Shen D. Y., Wang J. Y., Yang J. The reliability and validity of PDQ $^ { . 4 + }$ in China. Chinese Journal of Clinical Psychology,10(03),165-168.   
+[杨蕴萍，沈东郁，王久英，杨坚.(2002).人格障碍诊断问卷(PDQ- $\cdot 4 + { \dot { } }$ )在中国应用的信效度研究.中国临床心理 学杂志,10(03),165-168.]   
+Yucens,B.,& Uzer,A.(20l8).Therelationshipbetween internetaddiction,social anxiety,impulsivity,self-esteem, and depression in a sample of Turkish undergraduate medical students.Psychiatry Research,267,313- 318.   
+Zhan,J.,Xu,H.F.,Ren,J.,Luo,J. (202O).Iscatharsis beneficialorharmful?Thepsychological interventioefect and potential harm of catharsis.Advances in Psychological Science,28(01),22-32.   
+[詹鋆，徐宏飞，任俊，罗劲.(2020)．心理宣泄究竟是有益还是有害？—宣泄的心理干预效果及潜在危害. 心理科学进展,28(01),22-32.]   
+Zhang,L.H.,Miao,L.(2019).Hostile interpretation biasand aggresson.Advances in Psychological Science, 27(12),2097-2108.   
+[张丽华，苗丽.(2019).敌意解释偏向与攻击的关系．心理科学进展,27(12),2097-2108.]
+
+# How emotion shape aggressive behavior of violent offenders? An explanation based on emotion regulation theory
+
+LIU Yuping1, ZHOU Bingtao², YANG Bo² （ $^ { 1 }$ School ofCriminalJustice,China University ofPolitical ScienceandLaw,Beijing ooo88,China) ( SchoolofSociology,China University ofPolitical Science andLaw,Beijing 10o088,China)
+
+# Abstract
+
+Emotion is considered to be an important factor affecting aggressive behavior. According to emotion regulation theory， distressed people hope to improve their moods， and the motivation to use aggression to improve mood will increase aggressive behavior. In other words,the expectation of emotions is an important factor in the generation of aggressive behavior. Previous theories and studies mostly focused on the role of negative emotions such as anger in aggressive behavior. Recently， some researchers believe that positive affect plays an equally important role in aggression. Also， negative and positive affect are orthogonal, they should be studied separately. In addition, according to the purpose of aggression, it is often divided into premeditated/ proactive aggression and impulsive/reactive aggression, the mechanism between the two subtypes may exist differences. Finally, most of the previous studies used college students as participants,and the external validity is limited. The present study based on emotion regulation theory, selected violent offenders as participants to explore the role of negative/positive affect in proactive and reactive aggression with 2 studies.
+
+In study 1，we recruited 88 violent offenders for scenario-based experiment. Participants were randomly divided into a reactive aggression group $( \mathrm { n } = 4 6 )$ ）and a proactive aggression group $( \boldsymbol { \mathrm { n } } = 4 2 ^ { \cdot }$ ) in the adapted reaction time competition paradigm (Taylor Aggression Paradigm). Participants finished the first stage to manipulate types of aggression. Participants were told to compete with another participant (a fake participant) in racing the speed of reactions. In the reactive aggression group, participants lost the game and received negative feedback from their rivals； in the proactive aggression group, participants won the game and received positive feedback from their rivals. Then, they completed the Positive Affect Negative Affect Schedule (PANAS) and the questionnaire of emotion regulation motive. Finally, they finished the second stage in which they could send their rivals’ noises, which can be considered as the aggressive indicator. Model 4 of Process was used to test the mediating role of emotion regulation motive between negative/positive affect and aggression. Participants finished PANAS after second stage for study 2. Repeated measures ANOVA and regression analysis were used to test the change of emotion before and after aggression.
+
+Study 1 showed that the motivation to improve mood played a mediating role between negative emotion and proactive/reactive aggression, but the effect was not significant for positive emotion. Study 2 showed that positive emotions would increase after proactive and reactive aggression; reactive aggression could reduce negative emotions, while proactive aggression could increase negative emotions.
+
+The following conclusions can be obtained from the two experiments: (1) In the negative emotions, violent offenders hope to improve their mood by conducting aggressive behavior. (2) Proactive and reactive aggression can increase the positive emotions of violent offenders, indicating that aggression can produce pleasure. (3)
+
+Reactive aggression can reduce the negative emotions; proactive aggression can increase the negative emotions of violent criminals. The present study illustrates the relationship between emotion, especially positive emotion and aggressive behavior in violent offenders. Aggression can produce pleasure, but it may also increase negative emotions, which in turn increases aggressive behavior, forming a feedback loop, which reflects the non-adaptive of aggressive behavior from the perspective of emotion. In practice, especially in prison, we should help individuals to learn a reasonable way to regulate their emotions， such as mindfulness.
+
+Key Words emotion regulation theory,negative affect, positive affect, aggressive behavior, violent offenders

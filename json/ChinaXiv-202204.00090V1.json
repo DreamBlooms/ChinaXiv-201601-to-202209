@@ -1,0 +1,464 @@
+[
+    {
+        "type": "text",
+        "text": "基于多维Copula的中国干旱特征及危险性分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张世喆²，朱秀芳1,3，刘婷婷²，徐昆²，郭锐²（1.北京师范大学环境演变与自然灾害教育部重点实验室,北京100875；2.北京师范大学地理科学学部遥感科学与工程研究院,北京100875；3.北京师范大学遥感科学国家重点实验室,北京100875)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：干旱是中国主要的自然灾害之一。在全国开展干旱的特征分析，评估干旱的发生概率，有利于宏观了解中国整体干旱风险格局，对干旱监测和预警工作具有重要意义。基于1980—2019年国家气象科学数据中心地面气候资料日值数据集计算标准化降水蒸散指数(SPEI),通过游程理论识别历史干旱事件并提取干旱历时、干旱强度和烈度峰值3个特征变量，利用Copula分析了中国不同类型干旱事件的发生概率和重现期。结果表明：从干旱强度看，中国最容易发生“轻旱\"和“中旱”；从干旱历时看，中国最容易发生“跨季”干旱,其中北方干旱区较其他农业区最容易发生“半年以上\"干旱“高烈度峰值”干旱的发生概率远小于“低烈度峰值”干旱，其发生概率随干旱历时递增而增加。各类型“高烈度峰值”干旱在黄淮海平原区、长江中下游地区和华南区的联合重现期普遍较短。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：干旱；危险性；重现期；Copula ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干旱一般指持续性的水分亏缺状态[1-2],具体定义取决于不同的学科视角和干旱类型[如气象干旱（降水量不足）水文干旱（地表或地下水流不足）、农业干旱(土壤水分不足)和社会经济干旱(水资源需求衰竭)][3]。作为一个复杂的和具有一定周期性的气候现象，干旱对农业、水资源、生态环境等都存在负面效应，进而影响了经济发展和社会稳定[4-5]。在过去100a间，全球气候变暖导致的极端干旱(或极端降水)事件日益频发[，尤其是20世纪70年代后全球干旱面积显著增加[7-8]。有研究表明在1950—2008年，全球干旱地区的比例每10a增长约 $1 . 7 4 \\% ^ { \\ [ 9 ] }$ 。根据政府间气候变化专门委员会(IPCC)的第五次评估报告，地表温度升高和下垫面蒸发加剧仍是未来全球变暖的重要表现[10]。这可能会加剧包括干旱在内的极端天气事件的频率和强度[11-12]。基于干旱特征对干旱危险性进行定量评估，对于制定相应的适应战略具有重要的指导意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中国地处东亚季风区，降水变率大，干旱灾害频繁，已有不少学者针对中国干旱特征开展了研究。传统的干旱相关研究主要基于频率特征来刻画干旱事件[13-14],而干旱的发生实际与多个变量相关，其特征可以以多种方式体现，单干旱变量不足以表征复杂的干旱条件及其影响[15-16],由此干旱的特征分析逐渐从单一维度拓展到多元维度[17]。其中,Copula函数可以建立多个干旱特征变量的联合分布函数[18-19],将独立的多维干旱特征统一到干旱事件整体去估计不同类型干旱事件的发生概率，其推动了对干旱事件发生发展过程和预测的研究[20-24]。尽管Copula方法在国内干旱特征研究领域已有广泛应用，但仍存在2点不足。一是目前研究多基于站点尺度或局部区域（如锡林郭勒地区[25]、京津冀地区[26]等)，该类研究可以为小范围的干旱风险管理提供准确信息，但无法满足大范围干旱管理与风险评估的需求[27-28]。二是目前研究多集中于二维变量(干旱强度、干旱历时)的联合分布，对三维及以上维数干旱变量的研究相对较少。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上，本文使用1980—2019年 $4 0 \\mathrm { a }$ 中国气象站点的逐月气候数据，计算和分析了不同时间尺度的标准化降水蒸散指数(SPEI)的波动情况，选择能够充分反映季节性干湿变化且常用于农业干旱监测的3个月时间尺度的SPEI(SPEI-3)进行干旱识别。在此基础上，基于干旱强度、干旱历时和烈度峰值3个干旱特征变量分析了中国不同农业区干旱特征的二维/三维联合分布和重现期。本研究对全面了解中国干旱整体格局，加强干旱精准监测，提升风险评估可靠性，辅助进行水资源管理中短期和长期战略规划具有重大的理论意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文研究区域为中国 $\\mathrm { 7 3 ^ { \\circ } 4 0 ^ { \\prime } { \\sim } 1 3 5 ^ { \\circ } 0 5 ^ { \\prime } E , 1 8 ^ { \\circ } 1 0 ^ { \\prime } { \\sim } }$ $5 3 ^ { \\circ } 3 3 ^ { \\prime } \\mathrm { N } )$ ),未包含中国南海地区(图1)。中国降水的年际变化较大，干旱灾害频发4，且兼具季节性与随机性[29]。结合全球旱区边界图[30]和中国九大农业区划图，将中国九大农业区划图中的北方干旱、半干旱区进一步拆分为北方干旱区和北方半干旱区，形成本研究最终的10个子区域(图1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究数据主要包括3类：（1）来源于国家气象科学数据中心的中国地面气候资料日值数据集(http://data.cma.cn/data/cdcdetail/dataCode/SURF_CLI_CHN_MUL_DAY.html)的逐日气象数据序列，主要包括气压、气温、降水量、相对湿度、蒸发量、风向风速和日照时数等。经过缺失数据剔除，共选取1980一2019年691个基本气象观测站，所选站点均经过了严格的质量检查和控制，包括极值检验和时间一致性检验等，消除了非气候因素造成的影响。（2）来自于中国科学院地理科学与资源研究所数据共享中心（http://www.resdc.cn/）的九大农业区划图。该图遵循省级行政单元完整性原则，根据农业生产条件、特征和发展方向，详细反映了中国九大农业区的区域性分布和地带性分异。(3）来源于Li等[30]在中国北方旱地干旱研究中使用的旱区边界图。该图根据联合国千年生态系统服务评估报告中对干旱的定义，将整个旱区又细分为极端干旱区、干旱区、半干旱区和亚湿润旱区。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6ad8bc7f88a2ec8691faee678577e185c6170a2cb3de620aef8dced00c9bc6fb.jpg",
+        "img_caption": [
+            "图1研究区与气象站点分布",
+            "Fig.1Study area and distribution of the meteorological stations "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2研究方法与技术路线",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文技术路线如图2所示。主要包括：不同时间尺度SPEI的计算、干旱事件的识别与干旱变量的提取、Copula分析与重现期分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 SPEI指数计算SPEI可以捕捉温度升高对水需求的影响，其多尺度特性能够识别不同的干旱类型，对于全球变暖背景下的干旱分析和监测具有重要意义[31]。本研究计算了1980—2019年逐月的1月尺度（SPEI-1）、3月尺度（SPEI-3）、6月尺度(SPEI-6)和12月尺度(SPEI-12)的SPEI序列。其中对潜在蒸散发的计算按照联合国粮农组织推荐的Penman-Monteith方法计算得到。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2干旱事件识别本研究利用游程理论进行干旱事件的识别[32-33]。游程理论通过干旱指数与阈值的关系来确定干旱事件的开始、持续和结束，其中三阈值法相较于传统的单阈值法具有更优的识别能力[34]。参考前人的研究[35-36],制定了本研究中干旱事件的识别规则，具体如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）当干旱指数低于-0.5时判定有干旱发生（如图3中事件a、b、c和d)；(2)若干旱事件仅持续一个月且干旱指数高于-0.75，则将该次事件剔除(如图3中事件b)；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)若2次相邻干旱事件的时间间隔仅为一个月且该月干旱指数小于0,则将其合并为一次干旱事件(如图3中事件c和d);否则，这2次干旱事件被视为2个独立的干旱过程，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "识别出干旱事件后，计算每次干旱事件发生的历时(干旱事件开始到结束的持续时间）、强度(干旱事件中负游程均值的相反数)和烈度峰值(负游程极小值的相反数)。参考前人的研究[23-24定义轻、中、重和特旱的干旱强度取值分别为[0.5,1)、[1,1.5)、[1.5,2)和 $[ 2 , + \\infty )$ ;月内、季内、跨季和半年以上干旱的干旱历时取值分别为 $1 \\setminus ( 1 , 3 ] \\setminus ( 3 , 6 ] \\bar { \\ast } \\mathbb { H } ( 6 , + \\infty )$ ；低烈度峰值、高烈度峰值干旱的烈度峰值取值分别为$( - \\infty , 2 ) , [ 2 , + \\infty )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.3Copula函数计算Copula函数通过已知边缘分布构造联合分布来分析变量间的非线性相关关系[18]。本研究首先使用核密度估计法,逐站点计算各干旱变量(干旱历时、干旱强度和烈度峰值)的边缘分布，然后选用二元(三元)正态Copula函数， $t -$ Copula函数以及阿基米德Copula中的Frank、Clayton和GumbelCopula函数构建了干旱历时和干旱强度之间的二维联合分布以及干旱历时、干旱强度和烈度峰值之间的三维联合分布，最后计算理论Copula",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/77054f06ac19928291199e7c49ee8519f56a0082da28d3c3bb8f278040f0ea36.jpg",
+        "img_caption": [
+            "图2技术路线",
+            "Fig.2 Technical flowchart "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/84166bede4620eb0e4ffa4f798de686af6dcbbc1f51a12fb7123836e42135ad9.jpg",
+        "img_caption": [
+            "图3基于游程理论的干旱事件识别与干旱特征提取",
+            "Fig.3Definition of drought events and extraction of drought characteristics based on Theory ofRuns "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "与经验Copula值间的欧式距离 $( D ^ { 2 } )$ 、赤池信息量准则（Akaike informationcriterion,AIC)和贝叶斯信息准则（Bayesian informationcriterion,BIC)指标,选择3个指标最小的模型为最佳模型进行分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.4干旱重现期计算重现期表示气象灾害事件的发生周期[37]。假定干旱历时、干旱强度和烈度峰值的边缘分布函数分别为 $\\boldsymbol { u } _ { \\boldsymbol { \\cdot } \\boldsymbol { v } }$ 和 $w$ ,则干旱历时 $( D$ 月）干旱强度(S)和烈度峰值 $( I )$ 的重现期计算公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle T _ { _ { D } } = \\frac { N } { n \\left( 1 - u \\right) } } \\\\ { \\displaystyle T _ { _ { S } } = \\frac { N } { n \\left( 1 - v \\right) } } \\\\ { \\displaystyle T _ { _ { I } } = \\frac { N } { n \\left( 1 - w \\right) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $T _ { _ { D } } , T _ { s }$ 和 $T _ { _ { I } }$ 分别为干旱历时、干旱强度和烈度峰值的重现期(a); $N$ 为序列长度 ${ \\bf \\Pi } ( { \\bf a } ) { \\bf { \\sigma } } _ { ; n }$ 为发生的干旱次数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "干旱历时、干旱强度和烈度峰值大于或等于某特定值的联合重现期( ${ \\cal T } _ { \\alpha }$ )的计算公式[38如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { T _ { \\alpha } = \\cfrac { N } { \\displaystyle { n \\big [ P \\big ( D \\geqslant d \\cup S \\geqslant s \\cup I \\geqslant i \\big ) \\big ] } } } \\\\ { \\quad = \\cfrac { N } { \\displaystyle { n \\big [ 1 - C \\big ( u , v , w \\big ) \\big ] } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mathbf { \\Psi } _ { d , s , i }$ 分别为给定的干旱历时、干旱强度和烈度峰值； $P$ 为干旱历时、干旱强度和烈度峰值大于或等于某特定值的联合概率； $C ( u , v , w )$ 为干旱历时、干旱强度和烈度峰值的三维变量联合分布函数。由上可以看出，联合重现期由 $\\smash { D , S }$ 和 $I$ 中任一变量大于或等于某特定值计算得到，因此满足阈值条件下重现期最小的变量将是联合重现期的主导变量。最后，利用反距离加权插值将691个站点上计算出不同类型的干旱发生概率和重现期插值到$0 . 1 ^ { \\circ } \\times 0 . 1 ^ { \\circ }$ 的格点上用以直观反映空间变化情况[39]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1不同时间尺度干旱的变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "不同时间尺度SPEI值随时间的变化如图4所示。SPEI-1沿零值上下波动剧烈，反映了月际干湿变化(图 $\\mathrm { 4 a }$ )，一般用于不同时间尺度干旱特征的对比研究[40-41]。SPEI-3和 SPEI-6反映了干湿季节的变化规律(图 $4 \\mathrm { b } { \\sim } \\mathrm { c }$ ),其中SPEI-3常用于反映农业干旱[42-43]。SPEI-12相对稳定,代表了干旱的年际变化特征(图4d),用于监测长期的干旱[44]。中国西北地区各植被类型对SPEI-12的响应普遍较高[45]。整体来看，时间尺度越小SPEI波动越剧烈，时间尺度越大干湿转化越平稳。中国降水夏季多、冬季少[46-47],降水的季节变化导致中国[48]尤其是南方地区[49-50]干旱存在显著的季节性特征,SPEI-3能够充分反映季节性的干旱变化[51]。因此,本研究选择SPEI-3作为后续研究的干旱指标。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2基于二维干旱特征的危险性概率分布",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "不同干旱历时和干旱强度组合下干旱事件的发生概率(图5)表明，当干旱历时为“月内\"和“季内\"时，中国最易发生“轻旱”。全国大部分地区发生\"月内轻旱\"的概率在 $1 \\% \\sim 5 \\%$ 之间，仅北方干旱区(R1)的西部介于 $5 \\% { \\sim } 1 0 \\%$ （图 $5 \\mathrm { a }$ )；发生“季内轻旱”的概率在 $10 \\% { \\sim } 2 0 \\%$ 之间，部分地区超过 $20 \\%$ （图5b)。当干旱历时为“跨季\"和“半年以上\"时，中国最易发生\"中旱”。北方干旱区(R1)发生\"半年以上中旱\"的概率介于 $20 \\% { \\sim } 3 0 \\%$ ,其西部发生\"半年以上轻旱\"和\"半年以上中旱\"的概率较全国其他区域明显高(图 $5 \\mathrm { d } \\cdot \\mathrm { h }$ )。这与黄静等[52]利用温度植被干旱指数研究发现新疆西部喀什、和田、阿克苏等地年内干旱变化小且常年处于中旱状态的结论相吻合。整体上，“跨季中旱\"在所有类型干旱中的发生概率最高，“特旱\"的发生概率普遍较低。从干旱历时角度来看，中国最容易发生“跨季”干旱;从干旱强度角度来看，中国最容易发生“轻旱\"和\"中旱”。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3基于三维干旱特征的危险性概率分布",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在干旱划分方法中引入第三维干旱特征(烈度",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/68067ce4955512cc12f32b50f446220165d3effe6cacecb7e25a978ea617cb9d.jpg",
+        "img_caption": [
+            "图41980—2019年不同时间尺度的SPEI序列"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Time seriesofstandard evapotranspirationprecipitation index (SPEI) with diffrent timescale froml980 to 2019 ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f44638711c7f315c02cc0861723676067cfc6efee0969e46dc06643b46f0b32.jpg",
+        "img_caption": [
+            "图5二维干旱特征下不同干旱类型的概率空间分布"
+        ],
+        "img_footnote": [
+            "注：R1\\~R10分别为农业区域编号，具体见图1。下同。"
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.5Spatialdistributionsof probabilities under differentdrought types basedontwodimensional drought characteristics ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "峰值)，以进一步监测干旱事件内部干旱强度的差异。不同干旱历时、干旱强度和烈度峰值组合下干旱事件发生的概率(图6\\~7)表明，“低烈度峰值”下(图6)：当干旱历时为“月内\"和\"季内\"时，中国最易发生“轻旱\"（图 $6 \\mathrm { a } \\mathrm { \\sim } \\mathrm { b } .$ )；当干旱历时为“跨季\"和“半年以上”时，“中旱”是中国主要干旱类型（图6g\\~h)。“高烈度峰值\"下(图7)：全国发生“跨季中/重旱\"和\"半年以上中/重旱\"的概率较高（图 $7 \\mathrm { g } , \\mathrm { h } , \\mathrm { k }$ 、1),其他类型干旱的发生概率均小于 $1 \\%$ 。整体来看，中国各农业区的干旱类型以“低烈度峰值\"干旱为主。其中，发生概率最高的是“季内低烈度峰值轻旱”，其次是“跨季低烈度峰值中旱”。“高烈度峰值\"干旱拥有长历时特点，一般发生在\"跨季\"和\"半年以上\"的干旱事件中，其中北方干旱区(R1)发生“半年以上高烈度峰值中旱\"的概率最高。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4基于三维干旱特征的干旱重现期分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "高烈度峰值干旱的发生概率低但破坏程度高，对作物产量形成和水资源供给有严重影响，在气候变暖背景下高烈度峰值干旱引起了广泛关注。高烈度峰值下不同干旱历时和不同干旱强度组合下的联合重现期(图8\\~9)表明，当干旱历时为“月/季内”、干旱强度为“轻旱\"时，不同类型“高烈度峰值”干旱的联合重现期均值在1.0\\~1.5a之间，其中黄淮海平原区(R4）、长江中下游地区(R8)和华南区(R10)相对最短。当十旱历时为“跨季\"时，全国各地“重旱\"和“特旱”的联合重现期均大于1.5a（图$8 \\mathbf { g } , \\mathbf { k } _ { \\mathbf { \\nu } \\cdot \\mathbf { 0 } } )$ 。当干旱历时为“半年以上\"时，“中旱”、“重旱”和\"特旱\"联合重现期最短的地区分别是华南区(R10)（图8h）长江中下游地区(R8)（图81)和青藏高原区(R6）（图 $8 \\mathrm { p }$ )。总体来说，“月内高烈度峰值轻旱”的联合重现期最短，“半年以上高烈度峰值特旱\"的联合重现期最长(图9)。各农业区“高烈度峰值\"干旱的联合重现期随干旱历时/强度的递增呈非线性增长，历时越长(强度越高)联合重现期增长越明显。通过对比单变量重现期分布(图10)与联合重现期分布(图9)的差异，发现在干旱强度为“轻旱\"的干旱事件中，“轻旱\"的单变量重现期最短（图10f)，且其重现期分布与联合重现期分布类似，此时",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1bc26bb04ca77cab5b744fe035684eac485fb8421413771c4075a3e789c5b77d.jpg",
+        "img_caption": [
+            "图6“低烈度峰值”下不同干旱类型的概率空间分布",
+            "Fig.6Spatial distributions of probabilities of different drought types under a“low intensity peak\" "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9ecf1e205752cb4a507dd9da676e4e2f255d93f53efcb9c4fc73ece99400bda1.jpg",
+        "img_caption": [
+            "图7“高烈度峰值\"下不同干旱类型的概率空间分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.7 Spatial distributions of probabilities of different drought types under a“high intensity peak\" ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "987654321 (a)月内轻旱 987654321 ■ (b)季内轻旱 987654321 广 (c)跨季轻旱 987654321 [ (d)半年以上轻旱   \n更 L L   \n中中中中中中牛学中 原生中生中生生 中中中中中中中中中中 中中中中中中牛中中   \nrr 也的尔的台 的品6 的r6   \n2重 987654321 P 1 原 1 1 L   \n的尔b的台 的r名的6□ 的尔 RR9 10 er的 10 仓 区域编号 区域编号 区域编号 区域编号 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "重 987654321 中中+中中中牛牛 (i)月内重旱 987654321 便生生宝营生生牛 (ji)季内重旱 987654321 中中中 (k)跨季重旱 987654321 L (1)半年以上重旱的尔的台 的b的台 RR的□ P987654321 (m)月内特旱 87654321 (n)季内特旱 987654321 (o)跨季特旱 s5重 1 中+中中牛中 1 原中中中中中中中 中中中中的尔b的 的尔的 的 的的 R10P区域编号 区域编号 区域编号 区域编号",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e88180dde0c27467b4890b6baf4a31047bebe2171ee3c7769e04172ad91aafed.jpg",
+        "img_caption": [
+            "干辛区地理",
+            "图8“高烈度峰值\"下各农业区不同干旱类型的联合重现期箱线图",
+            "Fig.8Boxplots ofjoint return periodofdiferent droughttypes undera“high intensity peak”ineach agriculturalregion ",
+            "图9“高烈度峰值\"下各农业区不同干旱类型的联合重现期分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.9Distributions ofjointreturnperiodof diferentdrought types undera“high intensitypeak”ineach agriculturalregior干旱强度是联合重现期的主导因素。同理对于“月内”、“季内”、“跨季”干旱，干旱历时是联合重现期的主导因素。对于“半年以上重/特旱”，联合重现期分布与各单变量重现期分布差异较大，推测由干旱历时、干旱强度和烈度峰值共同影响。综上所述，短历时（“月内”、“季内”、“跨季”)和低强度（“轻旱”、“中旱\")是中国各类干旱事件联合重现期的主导因素。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/85ea2a47ae2d25a2efa396211c9095ea077399daca9e958865bf26e26791419d.jpg",
+        "img_caption": [
+            "图10各农业区不同单变量重现期分布",
+            "Fig.10 Distributions of single return period in each agricultural region "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "传统的二维干旱特征分析忽略了干旱事件内部的强度波动情况。本文引入烈度峰值，在保持干旱事件整体性的同时加强了对事件内部的区分，为干旱特征研究提供了新的思考和借鉴。本文基于全国农业区划对不同干旱类型的发生概率和重现期进行分析，有利于区分中国不同农业区的干旱特点，是农业干旱研究的良好基础和补充。未来可以结合相关的农业数据进一步研究作物水分亏缺与农业干旱的耦合关系。在干旱事件分析中，干旱指数的选择和干旱指数阈值的确定尤为重要。本研究没有进一步考虑其他时间尺度的SPEI和阈值。未来可以根据研究区的划分在不同区域结合最适宜的 SPEI和阈值进行研究[53-54]。此外,干旱是在时间和空间上同时发展的三维现象，干旱的中心和影响的区域范围同样是干旱的重要特征，对干旱强度中心和干旱强度聚集区进行识别，研究干旱中心和干旱影响区域范围的时空变化，也是未来重要的研究方向[16]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（1）中国整体最易发生“跨季中旱”,北方干旱区(R1)较其他农业区更易发生“半年以上\"干旱。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2）“高烈度峰值”干旱的发生概率远小于“低烈度峰值\"干旱，发生概率随干旱历时递增而增加。（3）各农业区“高烈度峰值\"干旱的联合重现期随干旱历时强度的递增而增长，黄淮海平原区(R4）、长江中下游地区(R8)和华南区(R10)的联合重现期普遍较短。(4）短历时(“月内”“季内”“跨季”)和低强度（\"轻旱”、“中旱”)是中国各类干旱事件联合重现期的主导因素。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]Allen C D,Macalady A K,Chenchouni H,et al.A global overview of drought and heat-induced tree mortality reveals emerging climate change risks for forests[J]. Forest Ecology and Management, 2010,259(4): 660-684.   \n[2]Mishra A K, Singh V P.A review of drought concepts[J]. Journal of Hydrology,2010,391(1-2): 202-216.   \n[3]Li J Z,Guo Y G,Wang Y X,et al. Drought propagation patterns under naturalized condition using daily hydrometeorological data [J].Advances in Meteorology,2018(2): 1-14.   \n[4]Ma M W,Song SB,Ren L L,et al.Multivariate drought characteristics using trivariate Gaussian and Student $t$ Copulas[J]. Hydrological Processes,2012,27(8): 1175-1190.   \n[5] Xu K,Yang D W, Xu X Y,et al. Copula based drought frequency analysis considering the spatio-temporal variability in southwest China[J]. Journal of Hydrology,2015,527: 630-640.   \n[6] Grayson M. Agriculture and drought[J]. Nature,2013,501(7468): S1,doi: 10.1038/501S1a.   \n[7]Dai A,Trenberth KE,Karl TR.Global variations in droughts and wet spells:1900—1995[J].Geophysical Research Letters,1998, 25(17): 3367-3370.   \n[8] Cook B I, Smerdon JE,Seager R,et al. Global warming and 21\\* century drying[J]. Climate Dynamics,2014,43(9-10): 2607-2627.   \n[9]Dai A.Drought under global warming: A review[J].Wiley Interdisciplinary Reviews: Climate Change,2011,2(1): 45-65.   \n[10]Pachauri R K,Allen MR,Barros VR,et al.IPCC: Climate change 2014: Synthesis report.Contribution of working groups I, I and II to the fifth assessment report of the intergovernmental panel on climate change[R]. Geneva: IPCC,2014.   \n[11]Mann M E,Gleick PH. Climate change and California drought in the $2 1 ^ { \\mathrm { s t } }$ century[J]. Proceedings of the National Academy of Sciences,2015,112(13): 3858-3859.   \n[12]Lweendo M K,Lu B H,Meng W,et al.Characterization of droughts in humid subtropical region,upper Kafue River Basin (Southern Africa)[J].Water,2017,9(4): 242,doi: 10.3390/w9040242.   \n[13]Zhai JQ,Buda S,Krysanova V,et al. Spatial variation and trends in PDSI and SPI indices and their relation to streamflow in 10 large regions of China[J]. Journal of Climate,2010,23(3): 649- 663.   \n[14] 卓义,包玉海,刘桂香,等.基于SPI指数的中国近50年气象干 旱灾害发生频率特征[C]/黄崇福,包玉海,赵思健.风险分析和 危机反应中的信息技术——中国灾害防御协会风险分析专业 委员会第六届年会论文集.巴黎:亚特兰蒂斯出版社,2014: 859-863.[Zhuo Yi, Bao Yuhai,Liu Guixiang,et al. Characteristics of drought disaster frequency of China in last 5O years based on the drought index SPI[C]//Huang Chongfu, Bao Yuhai, Zhao Sijian.Information Technology for Risk Analysis and Crisis Response: Proceedings of the $6 ^ { \\mathrm { u } }$ Annual Meeting of Risk Analysis Council of China Association for Disaster Prevention.Paris: Atlantis Press,2014: 859-863.]   \n[15]Mohan S,Rangacharya N C V.A modified method for drought identification[J]. Hydrological Sciences Journal,2009,36(1):11- 21.   \n[16] Zhao Z Y,Wang H R,Yu C,et al. Changes in spatiotemporal drought characteristics over northeast China from 196O to 2018 based on the modified nested Copula model[J]. Science of the Total Environment,2020,739:140328,doi:10.1016/j.scitotenv. 2020.140328.   \n[17]Ma S Y, Zhang S Q,Wang N L,et al.Prolonged duration and increased severity of agricultural droughts during 1978 to 2016 detected by ESA CCI SM in the humid Yunnan Province,southwest China[J]. Catena,2021,198:105036,doi: 10.1016/j.catena.2020. 105036.   \n[18]Nelsen R B.An introduction to Copulas[M].New York: Springer Science & Business Media,2007: 1-222.   \n[19]Carriere J. Dependent decrement theory[J]. Transactions of the Society of Actuaries,1994, 46: 45-74.   \n[20] 张强,孙鹏,白云岗,等.塔河流域枯水流量概率特征及成因与 影响研究[J].地理科学,2013,33(4):465-472.[Zhang Qiang, Sun Peng,Bai Yungang,et al.Probability behaviors of the low low of the Tarim River Basin: Possble causes and implications[J]. Scientia GeographicaSinica,2013,33(4): 465-472.]   \n[21]Wang L P, Zhang X N,Wang SF, et al. Analysis and application of drought characteristics based on theory of runs and Copulas in Yunan,southwest China[J]. International Journal of Environmental Research and Public Health,2020,17(13): 4654,doi: 10.3390/ ijerph17134654.   \n[22] 李计,李毅,宋松柏,等.基于Copulas 函数的多维干旱变量联合 分布[J].自然资源学报,2013,28(2):312-320.[LiJi,LiYi,Song Songbai,et al. Multivariate joint distributions of drought variables based on Copulas function[J]. Journal of Natural Resources,2013, 28(2): 312-320.]   \n[23] 侯陈瑶,朱秀芳,肖名忠,等.基于游程理论和Copula函数的辽 宁省农业气象干旱特征研究[J].灾害学,2019,34(2):222-227 [Hou Chenyao, Zhu Xiufang, Xiao Mingzhong,et al. Research on agricultural meteorological drought in Liaoning Province based on run theoryand Copula function[J].Journal of Catastrophology, 2019, 34(2): 222-227.]   \n[24] 左冬冬,侯威,颜鹏程,等.基于游程理论和两变量联合分布的 中国西南地区干旱特征研究[J].物理学报,2014(23):53-64. [Zuo Dongdong,Hou Wei, Yan Pengcheng,et al.Research on drought in southwest China based on the theory of run and two-dimensional joint distribution theory[J].Acta Physica Sinica,2014 (23): 53-64.]   \n[25] 吴英杰,全强,陈晓俊,等.2000—2018年锡林郭勒地区干旱时 空变化及其气候响应[J].干旱区地理,2020,43(5):1289-1297. [Wu Yingjie, Quan Qiang, Chen Xiaojun,et al. Temporaland spatial variations of drought and climatic response in the Xilingol grassland from 2000 to 2018[J].Arid Land Geography,2020,43 (5): 1289-1297.]   \n[26] 李倩,王瑛,许映军,等.基于Copula的近60 a京津冀地区干旱 灾害危险性评估[J].干旱区地理,2019,42(6):1310-1321.[Li Qian,Wang Ying,Xu Yingjun,et al. Hazard assessment of drought disasters in Beijing-Tianjin-Hebei region based on Copula for recent 60 years[J].Arid Land Geography,2019,42(6): 1310- 1321.]   \n[27] 刘晓勇.基于SPEI的中国百年干旱时空变化特征分析[J].水利 与建筑工程学报,2018,16(5): 228-232.[Liu Xiaoyong.Analysis of the spatial and temporal variation characteristics of the centurial drought in China based on SPEI[J]. Journal of Water Resources and Architectural Engineering, 2018,16(5): 228-232.]   \n[28]Amirataee B,Montaseri M,Rezaie H. Regional analysis and derivation of Copula-based drought Severity-Area-Frequency curve in Lake Urmia Basin, Iran[J]. Journal of Environmental Management, 2018,206: 134-144.   \n[29] 赵红岩,王有恒,王兴,等.1961—2008年中国西北东部旱涝异 常分布及干旱变化特征[J].干旱区地理,2012,35(4):552-558. [Zhao Hongyan,Wang Youheng,Wang Xing,etal.Anomaly distribution of drought-flood and changing characteristics of arid over eastern northwest China during 1961—2OO8[J].Arid Land Geography,2012,35(4): 552-558.]   \n[30]Li JW,Liu ZF,HeC Y,et al.Are the drylands in northern China sustainable?Aperspective from ecological footprint dynamics from 1990 to 2O10[J]. Science of the Total Environment,2016, 553: 223-231.   \n[31]Vicente-Serrano S M, Begueria S,Lopez-Moreno JI. A multiscalar drought index sensitive to global warming: The standardized precipitation evapotranspiration index[J]. Journal of Climate,2010,23 (7): 1696-1718.   \n[32]Herbst PH, Bredenkamp D B,Barker H.A technique for the evaluation of drought from rainfall data[J]. Journal of Hydrology,1966, 4: 264-272.   \n[33]Yevjevich V.An objective approach to definitions and investigationsof continental hydrologic droughts[J].Journal of Hydrology, 1967,7(3): 353,doi: 10.1016/0022-1694(69)90110-3.   \n[34] 韩会明,刘喆玥,刘成林,等.基于Copula 函数的赣江流域气象 干旱特征分析[J].水电能源科学,2020(8):9-13.[Han Huiming, Liu Zheyue,Liu Chenglin,et al.Analysis of meteorological drought characteristics in Ganjiang River Basin based on Copula function[J]. Water Resources and Power,2020(8): 9-13.]   \n[35]Liu XF,Wang SX,Zhou Y,et al. Spatial analysis of meteorological drought return periods in China using Copulas[J]. Natural Hazards,2016, 80(1): 367-388.   \n[36] 李明,张永清,张莲芝.基于Copula 函数的长春市106年来的干 旱特征分析[J].干旱区资源与环境,2017,31(6):147-153.[Li Ming,Zhang Yongqing, Zhang Lianzhi. Analysis on drought characteristics of Changchun City in 1O6 years based on Copula function[J]. Journal of Arid Land Resources and Environment,2017,31 (6): 147-153.]   \n[37] 李颖,冯玉,唐伟男,等.基于Copula函数的辽西地区农业气象 干旱灾害分析[J].干旱地区农业研究,2018,36(2):279-287. [Li Ying,Feng Yu,Tang Weinan, et al.Analysis of agricultural meteorological drought disaster around western Liaoning Province based on Copula[J].Agricultural Research in the Arid Areas, 2018,36(2): 279-287.]   \n[38]Shiau JT, Shen H W. Recurrence analysis of hydrologic droughts of differing severity[J]. Journal of Water Resources Planning and Management,2001,127(1): 30-40.   \n[39] 马轩龙,李春娥,陈全功.基于GIS 的气象要素空间插值方法研 究[J].草业科学,2008,25(11):13-19.[Ma Xuanlong,Li Chun'e, Chen Quangong. Study on the method of GIS based spatial interpo lation of climate factors in China[J].Pratacultural Science,2008, 25(11): 13-19.]   \n[40]Fang Y,Qian H, Chen J,et al. Characteristics of spatial-temporal evolution of meteorological drought in the Ningxia Hui Autonomous Region of northwest China[J]. Water,2018,10(8): 992,doi: 10.3390/w10080992.   \n[41] Liang C Z,Chen TX,Dolman H, et al. Drying and weting trends and vegetation covariations in the drylands of China[J].Water, 2020,12(4): 933,doi: 10.3390/w12040933.   \n[42] Shen Z X, Zhang Q,Singh VP,et al. Agricultural drought monitoring across Inner Mongolia, China: Model development,spatiotemporal paternsand impacts[J]. Journal of Hydrology，2019,571: 793-804.   \n[43] Guo M J,Li J, Wang Y S,etal. Spatiotemporal variations of meteorological droughts and the assessments of agricultural drought risk in a typical agricultural province of China[J].Atmosphere,2019, 10(9): 542,doi: 10.3390/atmos10090542. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[44]Tong SQ,Bao YH, Te R,et al.Analysis of drought characteristics in Xilingol grassland of northern China based on SPEI and its impact onvegetation[J]. Mathematical Problems in Engineering,   \n2017: 1-11. [45] 张华,徐存刚,王浩.2001—2018年西北地区植被变化对气象 干旱的响应[J].地理科学,2020,40(6):1029-1038.[Zhang Hua, Xu Cungang,Wang Hao.Response of vegetation change to meteorological drought in northwest China from 2OO1 to 2O18[J]. Scientia Geographica Sinica,2020,40(6): 1029-1038.] [46] 王懿贤,赵名茶,邓先瑞.中国降水的季节性[J].华中师范大学 学报(自然科学版),1983(4): 116-125.[Wang Yixian,Zhao Mingcha,Deng Xianrui. Seasonality of precipitation in China[J]. Journal of Central China Normal University (Natural Sciences Edition),1983(4): 116-125.] [47] 姚世博,姜大膀,范广洲.中国降水的季节性[J].大气科学,   \n2017,6(6): 1191-1203.[Yao Shibo,Jiang Dabang,Fan Guangzhou.Seasonality of precipitation over China[J]. Chinese Journal of Atmospheric Sciences,2017,6(6): 1191-1203.] [48]Shahzad A,Zhang H X,Ma Q,et al.Monitoring drought events and vegetation dynamics in relation to climate change over mainland China from 1983 to 2016[J]. Environmental Science and Pollution Research,2021,28:21910-21925. [49]王明珠.我国南方季节性干旱研究[J].农村生态环境,1997,13 (2):7-11.[Wang Mingzhu. Study on seasonal drought in southern China[J].Rural Eco-Environment,1997,13(2): 7-11.]   \n[50] 隋月,黄晚华,杨晓光,等.气候变化背景下中国南方地区季节 性干旱特征与适应Ⅱ.基于作物水分亏缺指数的越冬粮油作 物干旱时空特征[J].应用生态学报,2012,23(9):2467-2476. [Sui Yue,Huang Wanhua,Yang Xiaoguang,et al. Characteristics and adaption of seasonal drought in southern China under the background of global climate change II .Spatiotemporal characteristics of drought for wintering grain and oil crops based on crop water deficit index[J]. Chinese Journal of Applied Ecology,2012,23 (9): 2467-2476.]   \n[51]Huang T,Xu L G,Fan H X. Drought characteristics and its response to the global climate variability in the Yangtze River Basin, China[J].Water,2019,11(1):13,doi: 10.3390/w11010013.   \n[52] 黄静,张运,汪明秀,等.近17年新疆干旱时空分布特征及影响 因素[J].生态学报,2020,40(3):1077-1088.[Huang Jing, Zhang Yun,Wang Mingxiu,et al. Spatial and temporal distribution characteristics of drought and its relationship with meteorological factors in Xinjiang in last17 years[J].Acta Ecologica Sinica,2020,40 (3): 1077-1088.]   \n[53]Sun Y X,Liu SL,Dong Y H,et al. Effects of multi-time scales drought on vegetation dynamics in Qaidam River Basin, QinghaiTibet Plateau from 1998 to 2015[J].Theoretical and Applied Climatology,2020,141(1-2): 117-131.   \n[54] Zhao A Z, Zhang A B, Cao S,et al. Responses of vegetation productivity to multi-scale drought in Loess Plateau,China[J]. Catena,2018,163:165-171. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Drought characteristics and risk hazard in China based on multidimensional Copula model ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Shizhel²， ZHU Xiufang12³， LIU Tingting²， XU Kun²， GUO Rui² (1.KeyLaboratoryofEnvironmentalChangeandNaturalDisaster,MinistryofEducation,Beijing NormalUniversityBeijing 100875,China;2.InstituteofRemoteSensingScienceandEngineering,FacultyofGeographicalScience,BeijingNoral University,BeijingOo875,China;3.StateKeyLaboratoryofRemoteSensingScience,JointlySponsoredbyBeijingNomal Universityand Instituteof Remote Sensingand DigitalEarthof Chinese AcademyofSciences,Beijing1Oo875,China) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Drought is one of the most serious natural disasters that human society is facing,which substantially affects agriculture and animal husbandry. China is a region with high incidents of drought disasters globaly. For drought monitoring,early warning and ecological environment protection in China,analyzing the characteristics of drought and asessing its occurrence probability is crucial.The standardized precipitation-evapotranspiration index (SPEI) series at1-,3-,6-,and 12-month timescales were calculated using the daily surface climate data set of the National Meteorological Data Center from 1980 to 2019.Aftercomparing and analyzing the fluctuations in the SPEI series at diferent timescales,the 3-month-timescale SPEI (SPEI-3）was selected to identify historical drought events and extract three characteristic variables (drought duration,drought severity,and intensity peak) based on the theory of runs.SPEI-3can fully reflect the seasonal drynessand humidity and is commonly used in agricultural drought monitoring.Then,using two-and three-dimensional Copula models,the joint distribution between two-and thre-dimensional drought characteristic variables was constructed to estimate the occurrence probabilities of drought events under different combinations of drought duration and drought severity and those under diferent combinations of drought duration,drought severity,and intensity peak,respectively.Finally,the return periods of a single drought characteristic variable and the joint return periods of different types of “highintensity-peak drought” were calculated.The results show that“mild drought”and“moderate drought”are most likely to occur in China from the perspective of drought severity.In terms of drought duration,“cros-season drought”is most likely to occur in China,and“drought over half ayear”is most likely to occur in the northern arid region compared with other agricultural regions.The occurrence probabilityof“high-intensity-peak drought”is much less than thatof“low-intensity-peak drought”,and its probability increases with increasing drought duration. The joint return periods of“high-intensity-peak drought”in the North China Plain,middle and lower Yangtze River Plain,and southern China are generally shorter than those in other regions.Short duration (\"monthly drought”,“intra-season drought\",and“crossseason drought\")and low severity(\"mild drought”and“moderate drought\")are the dominant factors for the joint return periods of various drought events in China.In this study, multidimensional drought characteristic analysis and hazard assessment were conducted nationwide,which are conducive for macroscopic understanding of the overalldrought risk pattern in China and provide reference for drought control and prevention. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Key words: drought; hazard; return period; Copula ",
+        "page_idx": 12
+    }
+]

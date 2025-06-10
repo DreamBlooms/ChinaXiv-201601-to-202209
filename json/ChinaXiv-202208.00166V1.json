@@ -1,0 +1,1838 @@
+[
+    {
+        "type": "text",
+        "text": "Linear Complementarity Problem on the Monotone Extended Second Order Cone ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yingchao Gao \\* S. Z. Németh † Guohan Zhang ‡ August 24, 2022 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we study the linear complementarity problems on the monotone extended second order cones. We demonstrate that the linear complementarity problem on the monotone extended second order cone can be converted into a mixed complementarity problem on the non-negative orthant. We prove that any point satisfying the FB equation is a solution of the converted problem. We also show that the semismooth Newton method could be used to solve the converted problem,and we also provide a numerical example. Finally, we derive the explicit solution of a portfolio optimisation problem based on the monotone extended second order cone. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Complementarity problem · Monotone extended second order cone · Portfolic optimisation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The concept of complementarity and complementarity problem，which was firstly introduced by Karush in [18], is s a cross-cutting area of research and it has a wide range of applications in economics, finance and other fields, see [2,3,8,11]. Previous studies show that the second order cone programming has played a significant role in complementarity problems. The concepts of extended second order cone (ESOC) is introduced by Németh and Zhang in [24] and it is a natural extension of the notion of second order cone. Sznajder calculated the Lyapunov rank (or bilinearity rank) of ESOC in [27] and proved the irreducibly of the ESOC. Ferreira and Németh found an effcient numerical method to project onto the ESOC [7]. Furthermore,Németh and his collaborators investigated the properties of ESOC and used it as a tool for solving various complementarity problems, see [21-25]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "They also proposed an application to the optimisation problem of portfolio allocation, called the mean- $\\ell ^ { 2 }$ norm (ML2N） model in [28]. The latter paper exhibits advantages of the mean- $\\ell ^ { 2 }$ norm (ML2N） model compared to the well-known mean-variance model (MV),developed by Markowitz in [19],and the mean-absolute deviation model (MAD), introduced in [15]. The application of the ESOC to solving general complementarity problems is based on determining its isotone projection sets, concept which is an extension of the notion of isotone projection cones (see [14]） and it was introduced in [20]. For the importance of the isotone projections in applications see also [13,26]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The importance of the ESOC and ordered vector spaces in investigating and solving equilibrium problems important in economics,finance,trafic equilibrium and other fields, motivated introducing in in [12] another extension of the second order cone, namely the monotone extended second order cone (MESOC). In the latter paper the Laypunov rank of MESOC has been determined and it has also been shown that the monotone extended second order cone can by used to investigate and solve mixed compelementarity problem. Furthermore, Ferreira et. al found a numerical way to project onto MESOC [6] and suggested applying MESOC to portfolio optimization. In this paper we will show how to solve the linear complementarity problem on MESOC and we will give an explicit solution to a portfolio optimisation problem on MESOC. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The structure of the paper is as follows: In Section 2, we introduce the main terminology and definitions. In Section 3, we convert the linear complementarity problem on MESOC to a mixed complementarity problem on the non-negative orthant. In Sections 4, 5 and 6, we will introduce a numerical algorithm which can be used to solve the linear complementarity problem on MESOC andin Section 7 we will present a corresponding numerical example. Finally, in Section 8 we derive the explicit solution of the considered portfolio optimisation problem. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Preliminaries ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Let $n \\geq 2$ be an integer and $\\mathbb { R } ^ { n }$ be the $n$ -dimensional Euclidean space,whose elements are identified with column vectors of $n$ components and which is endowed with the classical inner product ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\langle \\cdot , \\cdot \\rangle : \\mathbb { R } ^ { n } \\times \\mathbb { R } ^ { n } \\to \\mathbb { R } ^ { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "defined by $\\langle x , y \\rangle = x ^ { \\top } y$ . Two vectors $x , y \\in \\mathbb { R } ^ { n }$ are called perpendicular if $\\langle x , y \\rangle = 0$ ,which is denoted by $x \\perp y$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "If $p , q$ are positive integers such that $n = p + q$ , then for simplicity of notations,we will identify the vector space $\\mathbb { R } ^ { p } \\times \\mathbb { R } ^ { q }$ with $\\mathbb { R } ^ { p + q }$ , by identifying a pair of vectors $( x , u ) \\in \\mathbb { R } ^ { p } \\times \\mathbb { R } ^ { q }$ ， where $x \\in \\mathbb { R } ^ { p }$ and $u \\in \\mathbb { R } ^ { q }$ ， with the vector $( x ^ { \\top } , u ^ { \\top } ) ^ { \\top } \\in \\mathbb { R } ^ { p + q }$ . Therefore we will call a pair of vector $( x , u )$ shortly vector. Through the above identification the inner product $\\langle \\cdot , \\cdot \\rangle$ in $\\mathbb { R } ^ { p } \\times \\mathbb { R } ^ { q }$ becomes ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\langle ( x , u ) , ( y , v ) \\rangle = \\langle x , y \\rangle + \\langle u , y \\rangle , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "for any $( x , u )$ ， $( y , v ) \\in \\mathbb { R } ^ { p } \\times \\mathbb { R } ^ { q }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the literature there are various ways of defining cones and various types of cones are used.However, in this paper we consider only cones which are closed and convex sets. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Therefore, for simplicity, we will call a closed set $\\mathcal { K }$ a cone if and only if $\\alpha x + \\beta y \\in K$ ,for any $x , y \\in \\mathcal { K }$ and any $\\alpha , \\beta \\geq 0$ . A cone $\\mathcal { K }$ is called proper if it has nonempty interior and （204号 $\\ K \\cap - \\ K = \\{ 0 \\}$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Let $\\mathcal { K }$ be a cone. The dual of $\\mathcal { K }$ is the cone defined by ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { K } ^ { * } : = \\{ y \\in \\mathbb { R } ^ { n } : \\langle x , y \\rangle \\geq 0 , \\forall x \\in \\mathcal { K } \\} .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "and the complementarity set of $\\mathcal { K }$ is the set defined by ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC ( \\mathcal { K } ) : = \\{ ( x , y ) : x \\in \\mathcal { K } , y \\in \\mathcal { K } ^ { * } , x \\perp y \\} .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Definition 1. The monotone extended second order cone (MESOC) is the proper cone defined by ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { L } : = \\{ ( x , u ) \\in \\mathbb { R } ^ { p } \\times \\mathbb { R } ^ { q } : x _ { 1 } \\geq x _ { 2 } \\geq . . . \\geq x _ { p } \\geq \\| u \\| \\} .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sometimes we will also use the notation $\\mathcal { L } ( p , q )$ to denote that the MESOC is in $\\mathbb { R } ^ { p } \\times \\mathbb { R } ^ { q }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For the sake of completeness we quote the following four results that will help us proving Theorem 5, which are Propositions 3.1, 3.2 in [12] and Propositions 4, 5 in [6]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Proposition 1. The dual of the monotone extended second order cone $\\mathcal { L }$ is the proper cone defined by ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { M } : = \\left\\{ ( x , u ) \\in \\mathbb { R } ^ { p } \\times \\mathbb { R } ^ { q } : \\sum _ { i = 1 } ^ { j } x _ { i } \\geq 0 , \\forall j \\in \\left\\{ 1 , \\ldots , p - 1 \\right\\} , \\sum _ { i = 1 } ^ { p } x _ { i } \\geq \\| u \\| \\right\\} .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "From now on, $p$ and $q$ will always denote positive integers, while $\\mathcal { L }$ will always denote the monotone extended second order cone and $\\mathcal { M }$ its dual. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Proposition 2. Let $( x , y , u , v ) \\in C ( { \\mathcal { L } } )$ .If $u \\neq 0 , v \\neq 0$ ，then ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle C ( \\mathcal { L } ) = \\{ ( x , u , y , v ) : ( x , u ) \\in \\mathcal { L } , \\ ( y , v ) \\in \\mathcal { M } ,  } } \\\\ { { \\displaystyle \\langle x , y \\rangle = \\| u \\| \\sum _ { i = 1 } ^ { p } y _ { i } , \\ ~ \\sum _ { i = 1 } ^ { p } y _ { i } = \\| v \\| , \\mathrm { a n d } \\ \\exists \\lambda > 0 \\mathrm { ~ s u c h ~ t h a t ~ } v = - \\lambda u \\} } } \\\\ { { = \\{ ( x , u , y , v ) : ( x , u ) \\in \\mathcal { L } , \\ ( y , v ) \\in \\mathcal { M } , \\ ( x _ { i } - x _ { i + 1 } ) \\sum _ { j = 1 } ^ { i } y _ { j } = 0 ,  } } \\\\ { { \\displaystyle { _ { v } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For any $i \\in \\{ 1 , 2 \\ldots , p \\}$ ， denote by $e ^ { i }$ the vector in $\\mathbb { R } ^ { p }$ which has the $i$ -th component one and all other components zero and by $e$ the vector in $\\mathbb { R } ^ { p }$ with all components one. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Proposition 3. For arbitrary points $( x , u ) , ( y , v ) \\in \\mathbb { R } ^ { p } \\times \\mathbb { R } ^ { q }$ ， we have (i) $( x , u ) \\in { \\mathcal { L } }$ if and only if $x - \\| u \\| e \\in \\mathbb { R } _ { \\geq + } ^ { p }$ （ (ii) $( y , v ) \\in \\mathcal { M }$ if and only if $\\boldsymbol { y } - \\| \\boldsymbol { v } \\| e ^ { p } \\in ( \\mathbb { R } _ { 2 + } ^ { p } ) ^ { * }$ （1 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Proposition 4. Let $x , y \\in \\mathbb { R } ^ { p }$ and $u , v \\in \\mathbb { R } ^ { q } \\setminus \\{ 0 \\}$ . Then, we have the following equivalences: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(i) $( x , 0 , y , 0 ) \\in C ( \\mathcal { L } )$ if and only if $( x , y ) \\in C ( \\mathbb { R } _ { \\geq + } ^ { p } )$   \n(ii) $( x , 0 , y , v ) \\in C ( \\mathcal { L } )$ if and only if $\\begin{array} { r } { x _ { p } = 0 , \\sum _ { i = 1 } ^ { p } y _ { i } \\geq \\| v \\| } \\end{array}$ and $( x , y ) \\in C ( \\mathbb { R } _ { \\geq + } ^ { p } )$   \n(ii) $( x , u , y , 0 ) \\in C ( \\mathcal { L } )$ if and only if $x _ { i } \\geq \\| u \\|$ for all $i$ ， $\\textstyle \\sum _ { i = 1 } ^ { p } y _ { i } = 0$ and $( x , y ) \\in C ( \\mathbb { R } _ { \\geq + } ^ { p } )$   \n(iv) $( x , u , y , v ) \\in C ( { \\mathcal { L } } )$ if and only if $x _ { p } = \\| u \\|$ ， $\\langle y , e \\rangle = \\| v \\|$ ， $\\langle u , v \\rangle = - \\| u \\| \\| v \\|$ ，and （204号 $( x - \\| u \\| e , y - \\| v \\| e ^ { p } ) \\in C ( \\mathbb { R } _ { \\geq + } ^ { p } )$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Below we list definitions of various types of complementarity problems. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Definition 2. Let $F : \\mathbb { R } ^ { n } \\to \\mathbb { R } ^ { n }$ be an arbitrary mapping and $\\mathcal { K } \\subseteq \\mathbb { R } ^ { n }$ an arbitrary cone. The complementarity problem defined by $\\mathcal { K }$ and $F$ is ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC P ( F , K ) : = { \\left\\{ \\begin{array} { l l } { \\displaystyle \\# n d ~ a n ~ x \\in K , ~ s u c h ~ t h a t } \\\\ { ( x , F ( x ) ) \\in C ( K ) } \\end{array} \\right. }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "If $T \\in \\mathbb { R } ^ { n \\times n }$ is a constant matrix, $r \\in \\mathbb { R } ^ { n }$ is a constant vector and $F ( x ) = T x + r$ ，then the problem $C P ( F , \\kappa )$ is called the linear complementarity problem defined by $T$ ， $r$ ，and $\\mathcal { K }$ （204号 and it is denoted by $L C P ( T , r , K )$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Definition 3. Let $G : \\mathbb { R } ^ { p } \\times \\mathbb { R } ^ { q } \\to \\mathbb { R } ^ { p }$ ， $H : \\mathbb { R } ^ { p } \\times \\mathbb { R } ^ { q }  \\mathbb { R } ^ { q }$ ， $F : \\mathbb { R } ^ { p } \\times \\mathbb { R } ^ { q } \\to \\mathbb { R } ^ { p }$ be arbitrary mappings and ${ \\mathcal { K } } \\subseteq \\mathbb { R } ^ { p }$ an arbitrary cone. The mixed implicit complementarity problem defined by $\\kappa$ ， $G$ ， $H$ and $F$ is ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM i I C P ( G , H , F , K ) : = \\left\\{ \\begin{array} { l l } { f n d ~ a n ~ ( x , u ) \\in \\mathbb { R } ^ { p } \\times \\mathbb { R } ^ { q } ~ s u c h ~ t h a t } \\\\ { H ( x , u ) = 0 , \\left( F ( x , u ) , G ( x , u ) \\right) \\in C ( K ) } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Definition 4. Let $G : \\mathbb { R } ^ { p } \\times \\mathbb { R } ^ { q }  \\mathbb { R } ^ { p }$ ， $H : \\mathbb { R } ^ { p } \\times \\mathbb { R } ^ { q }  \\mathbb { R } ^ { q }$ be arbitrary mappings and $\\mathcal { K }$ an arbitrary cone. Then， the mixed complementarity problem defined by $G$ ， $H$ and $\\kappa$ is ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM i C P ( G , H , K ) : = \\left\\{ \\begin{array} { l l } { \\displaystyle { \\it f i n d ~ a n ~ ( x , u ) \\in \\mathbb { R } ^ { p } \\times \\mathbb { R } ^ { q } } , \\ s u c h \\ t h a t } \\\\ { \\displaystyle H ( x , u ) = 0 \\ a n d \\ ( x , G ( x , u ) ) \\in C ( K ) } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3The Linear Complementarity Problem on the MESOC ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Theorem 5.Let $( x , u )$ ， $( y , v )$ be arbitrary vectors with $x , y \\in \\mathbb { R } ^ { p }$ and $u , v \\in \\mathbb { R } ^ { q }$ . Consider the nonsingular block matrix ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT = { \\binom { A } { C } } \\ D \\Big ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $A \\in \\mathbb { R } ^ { p \\times p }$ ， $\\boldsymbol { B } \\in \\mathbb { R } ^ { p \\times q }$ ， $C \\in \\mathbb { R } ^ { q \\times p }$ and $D \\in \\mathbb { R } ^ { q \\times q }$ are constant matrices. Then, for arbitrary vectors $z ^ { * }$ and $r$ ，such that $z = ( x , u )$ and $r = ( y , v )$ ， the following statements hold: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$( i )$ Let $u = 0$ . Then, $z$ is a solution of $L C P ( T , r , { \\mathcal { L } } )$ if and only if $x$ is a solution of （204 $L C P ( A , y , \\mathbb { R } _ { \\ge + } ^ { p } )$ ， $x _ { p } = 0$ and $\\textstyle \\sum _ { i = 1 } ^ { p } ( A x _ { i } + y _ { i } ) \\geq \\| C x + v \\|$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$( i i )$ Let $C x + D u + v = 0$ . Then, $z$ is a solution of $L C P ( T , r , { \\mathcal { L } } )$ if and only if $x$ isa solution of $M i C P ( G , H , \\mathbb { R } _ { \\geq + } ^ { p } )$ ， $x _ { i } \\geq \\| u \\|$ ，and $\\textstyle \\sum _ { i = 1 } ^ { p } ( A x + B u + v ) _ { i } = 0$ ，where $G$ （20 and $H$ are defined by the formulas $G ( x ^ { \\prime } , u ^ { \\prime } ) = A x ^ { \\prime } + B u ^ { \\prime } + y$ and $H ( x ^ { \\prime } , u ^ { \\prime } ) = 0$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$( i i i )$ Let $u \\neq 0 \\neq C x + D u + v$ . Then, $z$ is a solution of $L C P ( T , r , { \\mathcal { L } } )$ is equivalent to $z$ is a solution of $M i I C P ( G , H , F , \\mathbb { R } _ { \\ge + } ^ { p } )$ ,where $F$ ， $G$ and $H$ are defined by the formulas ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF ( x ^ { \\prime } , u ^ { \\prime } ) = x ^ { \\prime } - \\| u ^ { \\prime } \\| e , G ( x ^ { \\prime } , u ^ { \\prime } ) = A x ^ { \\prime } + B u ^ { \\prime } + y - \\| C x ^ { \\prime } + D u ^ { \\prime } + v \\| e ^ { p } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ( x ^ { \\prime } , u ^ { \\prime } ) = u ^ { \\prime } e ^ { \\top } ( A x ^ { \\prime } + B u ^ { \\prime } + y ) + \\| u ^ { \\prime } \\| ( C x ^ { \\prime } + D u ^ { \\prime } + v ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$( i v )$ Denote ${ \\bar { z } } = ( { \\bar { x } } , u ) = ( x - \\| u \\| e , u )$ and let $u \\neq 0 \\neq C x + D u + v$ . Then, $z$ is a solution of $L C P ( T , r , { \\mathcal { L } } )$ is equivalent to $\\bar { z }$ is a solution of $M i C P ( \\bar { G } , \\bar { H } , \\mathbb { R } _ { \\ge + } ^ { p } )$ ， where $\\bar { G }$ and $\\bar { H }$ are defined by the formulas ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\bar { G } ( x ^ { \\prime } , u ^ { \\prime } ) = A ( x ^ { \\prime } + \\| u ^ { \\prime } \\| | e ) + B u ^ { \\prime } + y - \\| C x ^ { \\prime } + \\| u ^ { \\prime } \\| e ) + D u ^ { \\prime } + v \\| e ^ { p } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\bar { H } ( x ^ { \\prime } , u ^ { \\prime } ) = u ^ { \\prime } e ^ { \\top } ( A ( x ^ { \\prime } + \\| u ^ { \\prime } \\| e ) + B u ^ { \\prime } + y ) + \\| u ^ { \\prime } \\| ( C ( x ^ { \\prime } + \\| u ^ { \\prime } \\| e ) + D u ^ { \\prime } + v ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(v) When $u \\neq 0 \\neq C x + D u + v$ ， the problem of finding a solution $z = ( x , u )$ of the linear complementarity problem $L C P ( T , r , { \\mathcal { L } } )$ is converted to a problem of finding a vector （204号 $z = ( x , u )$ such that $( \\alpha , \\beta ) \\in C ( \\mathbb { R } _ { + } ^ { p } )$ ， where ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha = \\left( \\begin{array} { c } { x _ { 1 } - x _ { 2 } } \\\\ { x _ { 2 } - x _ { 3 } } \\\\ { \\vdots } \\\\ { x _ { p - 1 } - x _ { p } } \\\\ { x _ { p } - \\| u \\| } \\end{array} \\right) \\ a n d \\ \\beta = \\left( \\begin{array} { c } { ( A x + B u + y ) _ { 1 } } \\\\ { \\sum _ { i = 1 } ^ { 2 } ( A x + B u + y ) _ { i } } \\\\ { \\vdots } \\\\ { \\sum _ { i = 1 } ^ { p - 1 } ( A x + B u + y ) _ { i } } \\\\ { \\sum _ { i = 1 } ^ { p } ( A x + B u + y ) _ { i } } \\end{array} \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Moreover, denote ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i } ^ { \\prime } ( w ^ { \\prime } ) = \\sum _ { j = i } ^ { p - 1 } w _ { j } ^ { \\prime } + x _ { p } ^ { \\prime } = \\sum _ { j = i } ^ { p - 1 } w _ { j } ^ { \\prime } + \\| u ^ { \\prime } \\| ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "for any $i = 1 , 2 , \\ldots , p - 1$ and any $x ^ { \\prime } , w ^ { \\prime } \\in \\mathbb { R } ^ { p }$ ， $u ^ { \\prime } \\in \\mathbb { R } ^ { q }$ Let $x _ { p } ^ { \\prime } ( w ^ { \\prime } ) = \\| u ^ { \\prime } \\|$ . Then, the problem of finding a vector $z = ( x , u )$ such that $( \\alpha , \\beta ) \\in C ( \\mathbb { R } _ { + } ^ { p } )$ is equivalent to the problem of finding a solution of $M i C P ( \\hat { G } , \\hat { H } , \\mathbb { R } _ { + } ^ { p - 1 } )$ ，where ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { G } ( w ^ { \\prime } , u ^ { \\prime } ) = \\left( \\begin{array} { c } { ( A x ^ { \\prime } ( w ^ { \\prime } ) + B u ^ { \\prime } + y ) _ { 1 } } \\\\ { \\sum _ { i = 1 } ^ { 2 } ( A x ^ { \\prime } ( w ^ { \\prime } ) + B u ^ { \\prime } + y ) _ { i } } \\\\ { \\vdots } \\\\ { \\sum _ { i = 1 } ^ { p - 1 } ( A x ^ { \\prime } ( w ^ { \\prime } ) + B u ^ { \\prime } + y ) _ { i } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { H } ( w ^ { \\prime } , u ^ { \\prime } ) = u ^ { \\prime } e ^ { \\top } ( A x ^ { \\prime } ( w ^ { \\prime } ) + B u ^ { \\prime } + y ) + \\| u ^ { \\prime } \\| ( C x ^ { \\prime } ( w ^ { \\prime } ) + D u ^ { \\prime } + v )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(vi) Let $t = \\| u \\|$ . Then, $z$ is a solution of $L C P ( T , r , { \\mathcal { L } } )$ if and only if $x$ is a solution of （204 $M i C P ( \\tilde { G } , \\tilde { H } , \\mathbb { R } _ { + } ^ { p - 1 } )$ ，where $\\tilde { G }$ and $\\tilde { H }$ are defined by the formulas ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { G } ( w ^ { \\prime } , u ^ { \\prime } , t ^ { \\prime } ) = \\left( \\begin{array} { c } { ( A x ^ { \\prime } ( w ^ { \\prime } , t ^ { \\prime } ) + B u ^ { \\prime } + y ) _ { 1 } } \\\\ { \\sum _ { i = 1 } ^ { 2 } ( A x ^ { \\prime } ( w ^ { \\prime } , t ^ { \\prime } ) + B u ^ { \\prime } + y ) _ { i } } \\\\ { \\vdots } \\\\ { \\sum _ { i = 1 } ^ { p - 1 } ( A x ^ { \\prime } ( w ^ { \\prime } , t ^ { \\prime } ) + B u ^ { \\prime } + y ) _ { i } } \\end{array} \\right) \\in \\mathbb { R } _ { + } ^ { p - 1 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { H } ( w ^ { \\prime } , u ^ { \\prime } , t ^ { \\prime } ) = \\left( { { u ^ { \\prime } e ^ { \\top } } ( A x ^ { \\prime } ( w ^ { \\prime } , t ^ { \\prime } ) + B u ^ { \\prime } + y ) + { t ^ { \\prime } } ( C x ^ { \\prime } ( w ^ { \\prime } , t ^ { \\prime } ) + D u ^ { \\prime } + v ) } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx ^ { \\prime } ( w ^ { \\prime } , t ^ { \\prime } ) = \\left( \\begin{array} { c } { w _ { 1 } ^ { \\prime } + w _ { 2 } ^ { \\prime } + \\ldots + w _ { p - 1 } ^ { \\prime } + t ^ { \\prime } } \\\\ { w _ { 2 } ^ { \\prime } + \\ldots + w _ { p - 1 } ^ { \\prime } + t ^ { \\prime } } \\\\ { \\vdots } \\\\ { w _ { p - 1 } ^ { \\prime } + t ^ { \\prime } } \\\\ { t ^ { \\prime } } \\end{array} \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Proof. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(i) By the definition of the linear complementarity problem, $z = ( x , 0 )$ is a solution of $L C P ( T , r , { \\mathcal { L } } )$ if and only if $( x , 0 , A x + y , C x + v ) \\in C ( { \\mathcal { L } } )$ ，which,by using item (ii） in Proposition 4, is equivalent to $x _ { p } = 0$ $\\textstyle \\sum _ { i = 1 } ^ { p } ( A x _ { i } + y _ { i } ) \\geq \\| C x + v \\|$ and $( x , A x + y ) \\in C ( \\mathbb { R } _ { \\ge + } ^ { p } )$ Finally, that is further equivalent to $x$ being a solution of $L C P ( A , y , \\mathbb { R } _ { \\ge + } ^ { p } )$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(ii) Let $C x + D u + v = 0$ . By the definition of the linear complementarity problem, $z = ( x , u )$ is a solution of $L C P ( T , r , { \\mathcal { L } } )$ if and only if $( x , u , A x + B u + y , 0 ) \\in C ( \\mathcal { L } )$ ,which, by using item (iii) of Proposition 4, is equivalent to $x _ { i } \\geq \\| u \\|$ ， $e ^ { \\textsf { I } } ( A x + B u + y ) = 0$ and （20 $( x , A x + B u + y ) \\in C ( \\mathbb { R } _ { \\geq + } ^ { p } )$ . We conclude that $z = ( x , u )$ is a solution of $L C P ( T , r , { \\mathcal { L } } )$ if and only if $z = ( x , u )$ is a solution of $M i C P ( G , H , \\mathbb { R } _ { \\geq + } ^ { p } )$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(iii) By using the definition of linear complementarity problem, if $z = ( x , u )$ is a solution of $L C P ( T , r , { \\mathcal { L } } )$ ， then we have $( x , u , A x + B u + y , C x + D u + v ) \\in C ( \\mathcal { L } )$ .Then，from item (iv) of Proposition 4 and the equality case of the Cauchy inequality， we have that $( x , u , A x + B u + y , C x + D u + v ) \\in C ( \\mathcal { L } )$ is equivalent to the existence of a $\\lambda > 0$ such that the following equations hold: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { p } = \\| u \\| ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C x + D u + v = - \\lambda u , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne ^ { \\top } ( A x + B u + y ) = \\| C x + D u + v \\| = \\lambda \\| u \\|\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( x - \\| u \\| e , A x + B u + y - \\| C x + D u + v \\| e ^ { p } ) \\in C ( \\mathbb { R } _ { \\geq + } ^ { p } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "By using (5),we conclude that ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( F ( x , u ) , G ( x , u ) ) \\in C ( \\mathbb { R } _ { \\geq + } ^ { p } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "By using equation (3) and (4)，we have ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ( x , u ) = u e ^ { \\top } ( A x + B u + y ) + \\| u \\| ( C x + D u + v ) = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Thus, $z$ being a solution of $L C P ( T , r , { \\mathcal { L } } )$ is equivalent to $z$ being a solution of $M i I C P ( G , H , F , \\mathbb { R } _ { \\ge + } ^ { p } )$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(iv) Let ${ \\bar { z } } = ( { \\bar { x } } , u ) = ( x - \\| u \\| e , u )$ then by using the notations and conclusion in (ii), we have ${ \\cal F } ( x , u ) \\perp { \\cal G } ( x , u )$ . We also have that ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF ( x , u ) = x - \\| u \\| e = \\bar { x }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { G ( x , u ) = A x + B u + y - \\| C x + D u + v \\| e ^ { p } } \\\\ & { \\qquad = A ( \\bar { x } + \\| u \\| e ) + B u + y - \\| C ( \\bar { x } + \\| u \\| e ) + D u + v \\| e ^ { p } } \\\\ & { \\qquad = \\bar { G } ( \\bar { x } , u ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Thus, ${ \\bar { x } } \\perp G ( { \\bar { x } } , u )$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "From the proof of (iii) we get ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { 0 = H ( x , u ) = u e ^ { \\top } ( A x + B u + y ) + \\| u \\| ( C x + D u + v ) } \\\\ & { \\quad = u e ^ { \\top } ( A ( \\bar { x } + \\| u \\| e ) + B u + y ) + \\| u \\| ( C ( \\bar { x } + \\| u \\| e ) + D u + v ) } \\\\ & { \\quad = \\bar { H } ( \\bar { x } , u ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Hence, $z = ( x , u )$ being a solution of $L C P ( T , r , { \\mathcal { L } } )$ is equivalent to $\\bar { \\boldsymbol { z } } = ( x - \\| u \\| e , u )$ being a solution of $M i C P ( \\bar { G } , \\bar { H } , \\mathbb { R } _ { \\ge + } ^ { p } )$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(v) If $z = ( x , u )$ is a solution of the linear complementarity problem $L C P ( T , r , { \\mathcal { L } } )$ we have ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { L } \\ni \\binom { x } { u } \\perp \\binom { A x + B u + y } { C x + D u + v } \\in \\mathcal { M } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "From $( x , u ) \\in { \\mathcal { L } }$ and $( A x + B u + y , C x + D u + v ) \\in \\mathcal { M }$ we have ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\begin{array} { l } { x _ { 1 } - x _ { 2 } } \\\\ { x _ { 2 } - x _ { 3 } } \\\\ { \\vdots } \\\\ { x _ { p - 1 } - x _ { p } } \\\\ { x _ { p } - \\| u \\| } \\end{array} \\right) \\in \\mathbb { R } _ { + } ^ { p } \\mathrm { ~ a n d ~ } \\left( \\begin{array} { c } { ( A x + B u + y ) _ { 1 } } \\\\ { \\sum _ { i = 1 } ^ { 2 } ( A x + B u + y ) _ { i } } \\\\ { \\vdots } \\\\ { \\sum _ { i = 1 } ^ { p - 1 } ( A x + B u + y ) _ { i } } \\\\ { \\sum _ { i = 1 } ^ { p } ( A x + B u + y ) _ { i } } \\end{array} \\right) \\in \\mathbb { R } _ { + } ^ { p } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We also note that, from Proposition 2, it follows that for an arbitrary vector $( x , u , y , v ) \\in$ $C ( \\mathcal { L } )$ ， we have the following conditions ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle x _ { p } = \\| u \\| , } \\\\ { \\displaystyle \\sum _ { i = 1 } ^ { p } y _ { i } = \\| v \\| , } \\\\ { \\displaystyle ( x _ { i } - x _ { i + 1 } ) \\sum _ { j = 1 } ^ { i } y _ { j } = 0 , \\forall i = 1 , \\dots , p - 1 . } \\\\ { \\displaystyle v = - \\lambda u } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Then, in our case,since $( x , u , A x + B u + y , C x + D u + v ) \\in C ( \\mathcal { L } )$ ， we have ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbb { R } _ { + } ^ { p } \\ni \\left( \\begin{array} { l } { x _ { 1 } - x _ { 2 } } \\\\ { x _ { 2 } - x _ { 3 } } \\\\ { \\vdots } \\\\ { x _ { p - 1 } - x _ { p } } \\\\ { x _ { p } - \\| u \\| } \\end{array} \\right) = \\alpha \\perp \\beta = \\left( \\begin{array} { l } { ( A x + B u + y ) _ { 1 } } \\\\ { \\sum _ { i = 1 } ^ { 2 } ( A x + B u + y ) _ { i } } \\\\ { \\vdots } \\\\ { \\sum _ { i = 1 } ^ { p - 1 } ( A x + B u + y ) _ { i } } \\\\ { \\sum _ { i = 1 } ^ { p } ( A x + B u + y ) _ { i } } \\end{array} \\right) \\in \\mathbb { R } _ { + } ^ { p } .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { p } = \\| u \\| , C x + D u + v = - \\lambda u , { \\mathrm { ~ a n d ~ } } \\sum _ { i = 1 } ^ { p } ( A x + B u + y ) _ { i } = \\| C x + D u + v \\| .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Then the problem of finding a solution $z = ( x , u )$ of the linear complementarity problem $L C P ( T , r , { \\mathcal { L } } )$ is converted to a problem of fnding a vector $z = ( x , u )$ such that $( \\alpha , \\beta ) \\in$ $C ( \\mathbb { R } _ { + } ^ { p } )$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Moreover， let $w \\in \\mathbb { R } ^ { p }$ such that $w _ { i } = x _ { i } - x _ { i + 1 }$ for any $i = 1 , 2 , \\ldots , p - 1$ and $w _ { p } =$ $x _ { p } - \\| u \\| = 0$ . Then we have $x = x ( w )$ where $\\begin{array} { r } { x _ { i } ( w ) = \\sum _ { j = i } ^ { p - 1 } w _ { j } + x _ { p } = \\sum _ { j = i } ^ { p - 1 } w _ { j } + \\| u \\| } \\end{array}$ for any $i = 1 , 2 , \\ldots , p - 1$ and $x _ { p } ( w ) = \\| u \\|$ . Thus,(6) is equivalent to ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathbb { R } _ { + } ^ { p } \\ni \\left( \\begin{array} { c } { w _ { 1 } } \\\\ { w _ { 2 } } \\\\ { \\vdots } \\\\ { w _ { p - 1 } } \\\\ { w _ { p } } \\end{array} \\right) = \\alpha \\perp \\beta = \\left( \\begin{array} { c } { ( A x ( w ) + B u + y ) _ { 1 } } \\\\ { \\sum _ { i = 1 } ^ { 2 } ( A x ( w ) + B u + y ) _ { i } } \\\\ { \\vdots } \\\\ { \\sum _ { i = 1 } ^ { p - 1 } ( A x ( w ) + B u + y ) _ { i } } \\\\ { \\sum _ { i = 1 } ^ { p } ( A x ( w ) + B u + y ) _ { i } } \\end{array} \\right) \\in \\mathbb { R } _ { + } ^ { p } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We also have from the solution of (iv) that ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { H } ( w , u ) = u e ^ { \\top } ( A x ( w ) + B u + y ) + \\| u \\| ( C x ( w ) + D u + v ) = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Hence, the solution of(7) is equivalent to the solution of $M i C P ( \\hat { G } , \\hat { H } , \\mathbb { R } _ { + } ^ { p - 1 } )$ （202 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(vi) Note that the function $\\hat { H } ( w , u )$ is a semi-smooth function and it is not differentiable at $u = 0$ . Thus, we need to reformulate this function to make sure it could be differentiable everywhere. Let $t = \\| u \\|$ . Then，similarly to the proof of (v), for any $( x , u , A x + B u +$ $y , C x + D u + v ) \\in C ( \\mathcal { L } )$ ，we have ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbb { R } _ { + } ^ { p } \\ni \\left( \\begin{array} { c } { x _ { 1 } - x _ { 2 } } \\\\ { x _ { 2 } - x _ { 3 } } \\\\ { \\vdots } \\\\ { x _ { p - 1 } - x _ { p } } \\\\ { x _ { p } - t } \\end{array} \\right) = \\alpha \\perp \\beta = \\left( \\begin{array} { c } { ( A x + B u + y ) _ { 1 } } \\\\ { \\sum _ { i = 1 } ^ { 2 } ( A x + B u + y ) _ { i } } \\\\ { \\vdots } \\\\ { \\sum _ { i = 1 } ^ { p - 1 } ( A x + B u + y ) _ { i } } \\\\ { \\sum _ { i = 1 } ^ { p } ( A x + B u + y ) _ { i } } \\end{array} \\right) \\in \\mathbb { R } _ { + } ^ { p } .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { p } = t , C x + D u + v = - \\lambda u , \\mathrm { ~ a n d ~ } \\sum _ { i = 1 } ^ { p } ( A x + B u + y ) _ { i } = \\| C x + D u + v \\| .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Next, let $\\hat { w } \\in \\mathbb { R } ^ { p }$ such that $\\hat { w } _ { i } = x _ { i } - x _ { i + 1 }$ for any $i = 1 , 2 , \\dotsc , p - 1$ and $\\hat { w } _ { p } = x _ { p } - t = 0$ ： Then, we have $x = x ( \\hat { w } , t )$ ，where $\\begin{array} { r } { x _ { i } ( \\hat { w } ) = \\sum _ { j = i } ^ { p - 1 } \\hat { w } _ { j } + x _ { p } = \\sum _ { j = i } ^ { p - 1 } \\hat { w } _ { j } + t } \\end{array}$ , for any $i =$ （20 $1 , 2 , \\ldots , p - 1$ and $x _ { p } ( w ) = \\| u \\|$ . Thus, (8) is equivalent to ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathbb { R } _ { + } ^ { p - 1 } \\ni \\left( \\begin{array} { c } { \\hat { w } _ { 1 } } \\\\ { \\hat { w } _ { 2 } } \\\\ { \\vdots } \\\\ { \\hat { w } _ { p - 1 } } \\end{array} \\right) = \\hat { \\alpha } \\perp \\hat { \\beta } = \\left( \\begin{array} { c } { ( A x ( \\hat { w } , t ) + B u + y ) _ { 1 } } \\\\ { \\sum _ { i = 1 } ^ { 2 } ( A x ( \\hat { w } , t ) + B u + y ) _ { i } } \\\\ { \\vdots } \\\\ { \\sum _ { i = 1 } ^ { p - 1 } ( A x ( \\hat { w } , t ) + B u + y ) _ { i } } \\end{array} \\right) \\in \\mathbb { R } _ { + } ^ { p - 1 } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We also have from the solution of(v) that ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { H } ( \\hat { w } , u , t ) = \\left( \\begin{array} { c } { u e ^ { \\top } ( A x ( \\hat { w } , t ) + B u + y ) + t ( C x ( \\hat { w } , t ) + D u + v ) } \\\\ { t ^ { 2 } - \\| u \\| ^ { 2 } } \\end{array} \\right) = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Hence, the solution of (9) is equivalent to the solution of $M i C P ( \\tilde { G } , \\tilde { H } , \\mathbb { R } _ { + } ^ { p - 1 } )$ （24号 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4 F-B function ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "From the conlcusion in the Theorem 5,we have shown that the linear complementarity problem on the monotone extended second order cones can be converted to a Mixed complementarity problem defined on the non-negative orthant (which is defined by Facchinei and Pang, see Subsection 9.4.2 in [5]） is important， since by using this transformation scheme,the converted problem,which is the mixed complementarity problem on the nonnegative orthant can be well studied by using the Fischer- Burmeister function, which was introduced by Fischer in [9,10]. For arbitrary numbers $a$ and $b$ ， the Fischer-Burmeister function is defined as follows ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi ( a , b ) = \\sqrt { a ^ { 2 } + b ^ { 2 } } - ( a + b ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "From the definition of Fischer-Burmeister function, we can conclude the following property ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi ( a , b ) = 0 \\Longleftrightarrow a \\geq 0 , b \\geq 0 { \\mathrm { ~ a n d ~ } } a b = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We also note that $\\phi ( a , b )$ is a continues differentiable function on $\\mathbb { R } ^ { 2 } \\setminus O$ . By using the function above, for any continuously differentiable function $G _ { 1 }$ ， $G _ { 2 } , \\ldots , G _ { p }$ ，where $G =$ $( G _ { 1 } , G _ { 2 } , \\ldots , G _ { p } )$ ，the mixed complementarity problem $M i C P ( G , H , \\mathbb { R } ^ { p } )$ is equivalent to the following root finding problem for $\\Phi ( x ) = 0$ ，where ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Phi ( x ) = \\left( \\begin{array} { c } { { \\phi ( x _ { 1 } , G _ { 1 } ) } } \\\\ { { \\phi ( x _ { 2 } , G _ { 2 } ) } } \\\\ { { \\vdots } } \\\\ { { \\phi ( x _ { p } , G _ { p } ) } } \\\\ { { H } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Meanwhile, the natural merit function, ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Psi ( x ) : = \\frac 1 2 \\| \\Phi ( x ) \\| ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "is also continuously differentiable,and equals to zero at a point $x ^ { * }$ if and only if $x ^ { * }$ isa solution of $M i C P ( G , H , \\mathbb { R } ^ { P } )$ . Then it is equivalent to the problem of finding the stationary point $x ^ { * }$ of the unconstrained problem $\\{ \\operatorname* { m i n } \\Psi ( x ) \\}$ . De Luca et al. used this reformulation to propose an algorithm that is proven to be globally convergent and locally Q-quadratically convergent based on considerably weaker regularity conditions than those required by the NE/SQP method in [4]. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In our case, note that $\\hat { F } _ { 2 }$ is not differentiable at $u = 0$ , then we need to do some relaxation ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5 Generalized Newton Method for semismooth function ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Now let $D _ { F } \\subseteq \\mathbb { R } ^ { n }$ denote the set of points at which $F$ is differentiable. Our aim is now to introduce several objects from nonsmooth analysis which provide generalizations of the classical differentiability concept. We start by defining the $B$ -subdifferential, where $B$ （204号 stands for \"Bouligand\"，who introduced the concept. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Definition 5.Let $F : U \\subseteq \\mathbb { R } ^ { n } \\to \\mathbb { R } ^ { m }$ ， where $U$ is open and Lipschitz continues for any （20 $x \\in U$ ，then the $B$ -differential of function $F$ at $x$ is given by: ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Algorithm 1 Newton's method for nonsmooth systems ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1: Given $F ^ { \\prime } : \\mathbb { R } ^ { n }  \\mathbb { R } ^ { n }$ be locally Lipschitz continues and $\\boldsymbol { x } _ { k } \\in \\mathbb { R } ^ { n }$ ，set $k = 0$ （204   \n2: Unless the stopping criteria is satisfied, solve the following system ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG ( x _ { k } ) d _ { k } = - F ( x _ { k } )\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "and obtain the value of $d _ { k }$ ，where $G ( x _ { k } )$ is an arbitrary element of $\\partial F ( x _ { k } )$ 3: Set $x _ { k + 1 } = x _ { k } + d _ { k }$ ， $k = k + 1$ and go back to (1). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "First, let us define the following matrix. Let $D _ { 1 } = d i a g ( d _ { 1 1 } ( x , u , t ) , \\dots , d _ { p - 1 , p - 1 } ( x , u , t ) ) |$ and $D _ { 2 } = d i a g ( d _ { 1 1 } ^ { \\prime } ( x , u , t ) , \\ldots , d _ { p - 1 , p - 1 } ^ { \\prime } ( x , u , t ) )$ ，where ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { i i } = \\frac { x _ { i } } { \\sqrt { x _ { i } ^ { 2 } + ( \\tilde { G } ) _ { i } ^ { 2 } ( x , u , t ) } } - 1\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { i i } ^ { \\prime } = \\frac { \\tilde { G } _ { i } ( x , u , t ) } { \\sqrt { x _ { i } ^ { 2 } + ( \\tilde { G } ) _ { i } ^ { 2 } ( x , u , t ) } } - 1\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "when $x _ { i } \\neq 0 \\neq ( \\tilde { F } _ { 1 } ) _ { i }$ . Note that we also have $( d _ { i i } + 1 ) ^ { 2 } + ( d _ { i i } ^ { \\prime } + 1 ) ^ { 2 } = 1$ ，then $x _ { i } = 0 = ( \\tilde { G } ) _ { i }$ we have ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { ( d _ { i i } , d _ { i i } ^ { \\prime } ) \\in \\{ ( y , z ) : ( y + 1 ) ^ { 2 } + ( z + 1 ) ^ { 2 } = 1 \\} . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Then the generalised Jacobian of the FB function is the set given by ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\partial \\Phi ( x , u , t ) \\subseteq \\binom { D _ { 1 } + D _ { 2 } J _ { x } \\tilde { G } ( x , u , t ) } { J _ { x } \\tilde { H } ( x , u , t ) } J _ { ( u , t ) } \\tilde { G } ( x , u , t ) \\rangle\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Then, for an arbitrary element in the set of generalised Jacobian ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { G } \\in \\partial \\Phi ( x , u , t )\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "when $x _ { i } \\neq 0 \\neq \\tilde { G } _ { i } ( x , u , t )$ ， we have ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle { x , u , t ) = d _ { i i } e ^ { i } + d _ { i i } ^ { \\prime } J _ { x } ( \\tilde { G } _ { i } ( x , u , t ) ) } } \\\\ { \\displaystyle { \\quad = \\left( \\frac { x _ { i } } { \\sqrt { x _ { i } ^ { 2 } + ( \\tilde { G } ) _ { i } ^ { 2 } ( x , u , t ) } } - 1 \\right) e ^ { i } + \\left( \\frac { ( \\tilde { G } ) _ { i } } { \\sqrt { x _ { i } ^ { 2 } + ( \\tilde { G } ) _ { i } ^ { 2 } ( x , u , t ) } } - 1 \\right) J _ { w } \\tilde { G } ( x , u , t ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "when $x _ { i } = 0 = \\tilde { G } _ { i } ( x , u , t )$ , we have ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { ( \\mathcal { G } _ { x } ) _ { i } ( x , u , t ) = \\Big \\{ \\Big ( d _ { 1 1 } e ^ { i } + d _ { 1 1 } ^ { \\prime } J _ { x } \\tilde { G } ( x , u , t ) : ( d _ { 1 1 } , d _ { 1 1 } ^ { \\prime } ) \\in B a l l ( ( - 1 , - 1 ) , 1 ) \\Big ) \\Big \\} } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "6 Finding the minimizer of the merit function ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$x$ is a solution to the mixed complementarity problem if it is a solution of the function $\\Psi ( x ) = 0$ . Since $\\Psi ( x )$ is a quadratic nonnegative function, the if $x$ is a solution of $\\Psi ( x ) = 0$ （204 then $x$ is a global minimizer of function $\\Psi ( x )$ . Then the problem of finding the solution to the mixed complementarity problem is equivalent to the problem of finding the satationary point of $\\Psi ( x )$ . Consider the following index sets ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathcal { C } = \\{ i : v _ { i } \\geq 0 , H _ { i } ( u , v ) \\geq 0 , v _ { i } H _ { i } ( u , v ) = 0 \\} , \\qquad \\mathrm { ( c o m p l e m e n t a r i t y ~ i n d i c e s ) } } \\\\ & { \\mathcal { R } = \\{ 1 , 2 , \\ldots , n \\} \\setminus \\mathcal { C } , \\qquad \\mathrm { ( r e s i d u a l ~ i n d i c e s ) } } \\\\ & { \\mathcal { P } = \\{ i \\in \\mathcal { R } : v _ { i } > 0 , H _ { i } ( u , v ) > 0 \\} , \\qquad \\mathrm { ( p o s i t i v e ~ i n d i c e s ) } } \\\\ & { \\mathcal { N } = \\{ 1 , 2 , \\ldots , q \\} \\setminus \\left( \\mathcal { C } \\cup \\mathcal { P } \\right) , \\qquad \\mathrm { ( n e g a t i v e ~ i n d i c e s ) } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "and for any arbitrary vector $z$ , denote $z _ { S }$ be the $i$ -th coordinate of $z$ , where $i$ is an arbitrary number such that $i \\in \\mathcal S$ and ${ \\mathcal { S } } \\in \\{ { \\mathcal { C } } , { \\mathcal { P } } , { \\mathcal { N } } \\}$ . Then we have the following definition ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Definition 6. For the general formula of mixed complementarity problem $M i C P ( G , H )$ ， for arbitrary $x \\in \\mathbb { R } ^ { p }$ ， $u \\in \\mathbb { R } ^ { q }$ and $t \\in \\mathbb { R }$ ，denote $\\tilde { u } = ( u , t ) ^ { \\top }$ ， then a point $( x , u , t ) , i s$ called FB-regular if $J _ { \\tilde { u } } G ( x , u , t )$ is non-singular and if for any non-zero vector $z \\in \\mathbb { R } ^ { q }$ such that ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nz _ { \\mathcal { C } } = 0 , \\qquad z _ { \\mathcal { P } } > 0 , \\qquad z _ { \\mathcal { N } } < 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "there exists a non-zero vector $w \\in \\mathbb { R } ^ { q }$ such that ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { \\mathcal { C } } = 0 , \\qquad w _ { \\mathcal { P } } \\geq 0 , \\qquad w _ { \\mathcal { N } } \\leq 0\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\nz ^ { \\top } \\left( M ( x , u , t ) / J _ { \\tilde { u } } G ( x , u , t ) \\right) w \\geq 0\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { M ( x , u , t ) : = \\binom { J G ( x , u , t ) } { J H ( x , u , t ) } } \\\\ & { \\qquad = \\binom { J _ { x } G ( x , u , t ) \\quad J _ { \\tilde { u } } G ( x , u , t ) } { J _ { x } H ( x , u , t ) \\quad J _ { \\tilde { u } } H ( x , u , t ) } \\in \\mathbb { R } ^ { ( p + q + 1 ) \\times ( p + q + 1 ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "and $M ( x , u , t ) / J _ { \\tilde { u } } \\tilde { H } ( x , u , t )$ is the Schur complement of $J _ { \\tilde { u } } \\tilde { H } ( x , u , t )$ in $M ( x , u , t )$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In our case, for the mixed complementarity problem $M i C P \\left( \\tilde { G } ( \\hat { w } , u , t ) , \\tilde { H } ( \\hat { w } , u , t ) \\right)$ ，the Jacobian of $\\tilde { G }$ and $\\tilde { H }$ are given as ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { J \\tilde { G } ( \\hat { w } , u , t ) = \\Big ( J _ { \\hat { w } } \\tilde { G } ( \\hat { w } , u , t ) , J _ { \\tilde { u } } \\tilde { G } ( \\hat { w } , u , t ) \\Big ) = \\big ( \\tilde { A } ~ \\tilde { B } \\big ) , } \\\\ & { J \\tilde { H } ( \\hat { w } , u , t ) = \\Big ( J _ { \\hat { w } } \\tilde { H } ( \\hat { w } , u , t ) , J _ { \\tilde { u } } \\tilde { H } ( \\hat { w } , u , t ) \\Big ) = \\big ( \\tilde { C } ~ \\tilde { D } \\big ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left( \\begin{array} { c c c c } { a _ { 1 1 } } & { a _ { 1 1 } + a _ { 1 2 } } & { \\ldots } & { a _ { 1 1 } + a _ { 1 2 } + \\ldots + a _ { 1 , p - 1 } } \\\\ { \\sum _ { i = 1 } ^ { 2 } a _ { i 1 } } & { \\sum _ { i = 1 } ^ { 2 } ( a _ { i 1 } + a _ { i 2 } ) } & { \\ldots } & { \\sum _ { i = 1 } ^ { 2 } ( a _ { i 1 } + a _ { i 2 } + \\ldots + a _ { i , p - 1 } ) } \\\\ { \\vdots } & { \\vdots } & { \\ddots } & { \\vdots } \\\\ { \\sum _ { i = 1 } ^ { p } a _ { i 1 } } & { \\sum _ { i = 1 } ^ { 2 } ( a _ { i 1 } + a _ { i 2 } ) } & { \\ldots } & { \\sum _ { i = 1 } ^ { 2 } ( a _ { i 1 } + a _ { i 2 } + \\ldots + a _ { i , p - 1 } ) } \\end{array} \\right) = L _ { I } A _ { p - 1 , p - 1 } \\ell } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { L _ { I } = \\left( \\begin{array} { l l l l } { 1 } & { 0 } & { \\dots } & { 0 } \\\\ { 1 } & { 1 } & { \\dots } & { 0 } \\\\ { \\vdots } & { \\vdots } & { \\ddots } & { \\vdots } \\\\ { 1 } & { 1 } & { \\dots } & { 1 } \\end{array} \\right) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU _ { I } = \\left( \\begin{array} { c c c c } { { 1 } } & { { 1 } } & { { \\ldots } } & { { 1 } } \\\\ { { 0 } } & { { 1 } } & { { \\ldots } } & { { 1 } } \\\\ { { \\vdots } } & { { \\vdots } } & { { \\ddots } } & { { \\vdots } } \\\\ { { 0 } } & { { 0 } } & { { \\ldots } } & { { 1 } } \\end{array} \\right) , \n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "and $A _ { i , j }$ is a sub-matrix of $A$ ，where ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { i , j } = \\left( \\begin{array} { c c c c } { a _ { 1 1 } } & { a _ { 1 2 } } & { \\ldots } & { a _ { 1 j } } \\\\ { a _ { 2 1 } } & { a _ { 2 2 } } & { \\ldots } & { a _ { 2 j } } \\\\ { \\vdots } & { \\vdots } & { \\ddots } & { \\vdots } \\\\ { a _ { i 1 } } & { a _ { i 2 } } & { \\ldots } & { a _ { i j } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\begin{array} { r } { \\left( { \\begin{array} { c c c c c } { b _ { 1 1 } } & { b _ { 1 2 } } & { \\dots } & { b _ { 1 q } } & { a _ { 1 1 } + a _ { 1 2 } + \\dots + a _ { 1 p } } \\\\ { \\sum _ { i = 1 } ^ { 2 } b _ { i 1 } } & { \\sum _ { i = 1 } ^ { 2 } b _ { i 2 } } & { \\dots } & { \\sum _ { i = 1 } ^ { 2 } b _ { i q } } & { \\sum _ { i = 1 } ^ { 2 } ( a _ { i 1 } + a _ { i 2 } + \\dots + a _ { i p } ) } \\\\ { \\vdots } & & & & { \\vdots } \\\\ { \\sum _ { i = 1 } ^ { p - 1 } b _ { i 1 } } & { \\sum _ { i = 1 } ^ { p - 1 } b _ { i 2 } } & { \\dots } & { \\sum _ { i = 1 } ^ { p - 1 } b _ { i q } } & { \\sum _ { i = 1 } ^ { p - 1 } ( a _ { i 1 } + a _ { i 2 } + \\dots + a _ { i p } ) } \\end{array} } \\right) = \\left( L _ { I } B ~ L \\right) } \\end{array} }\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { C } = \\binom { t C ^ { * } + u e ^ { \\top } A ^ { * } } { 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA ^ { * } = \\left( \\begin{array} { c c c c } { a _ { 1 1 } } & { a _ { 1 1 } + a _ { 1 2 } } & { . . . } & { \\sum _ { i = 1 } ^ { p - 1 } a _ { 1 i } } \\\\ { a _ { 2 1 } } & { a _ { 2 1 } + a _ { 2 2 } } & { . . . } & { \\sum _ { i = 1 } ^ { p - 1 } c _ { 2 i } } \\\\ { \\vdots } & { \\vdots } & { \\ddots } & { \\vdots } \\\\ { a _ { p 1 } } & { a _ { p 1 } + a _ { p 2 } } & { . . . } & { \\sum _ { i = 1 } ^ { p - 1 } a _ { p i } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC ^ { * } = \\left( \\begin{array} { c c c c } { { c _ { 1 1 } } } & { { c _ { 1 1 } + c _ { 1 2 } } } & { { . . . } } & { { \\sum _ { i = 1 } ^ { p - 1 } c _ { 1 i } } } \\\\ { { c _ { 2 1 } } } & { { c _ { 2 1 } + c _ { 2 2 } } } & { { . . . } } & { { \\sum _ { i = 1 } ^ { p - 1 } c _ { 2 i } } } \\\\ { { \\vdots } } & { { \\vdots } } & { { \\ddots } } & { { \\vdots } } \\\\ { { c _ { q 1 } } } & { { c _ { q 1 } + c _ { q 2 } } } & { { . . . } } & { { \\sum _ { i = 1 } ^ { p - 1 } c _ { q i } \\rule { 0 ex } { 5 ex } } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Or equivalent to ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { C } = \\binom { t C U _ { I } + u e ^ { \\top } A U _ { I } } { 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Moreover ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= \\binom { t D + u e ^ { \\top } B + \\left( A x ( \\hat { w } , t ) + B u + y \\right) ^ { \\top } e I _ { q \\times q } D u + v + C x ( \\hat { w } , t ) + t C e + u e ^ { \\top } e I _ { q \\times q } } { - 2 u ^ { \\top } } \\ 2 t \\ - \\ 2 u \\in { ( 0 , T ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx ( \\hat { w } , t ) = \\left( \\begin{array} { c } { \\hat { w _ { 1 } } + \\hat { w _ { 2 } } + \\hdots + w _ { p - 1 } + t } \\\\ { \\hat { w _ { 2 } } + \\hdots + w _ { p - 1 } ^ { \\hat { r } } + t } \\\\ { \\vdots } \\\\ { w _ { p - 1 } ^ { \\hat { r } } + t } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Then, if $\\tilde { D }$ is non-singular, the Schur complement of $\\tilde { D }$ of the matrix $M ( \\hat { w } , u , y )$ is ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\Pi / \\tilde { D } \\right) = \\tilde { A } - \\tilde { B } \\tilde { D } ^ { - 1 } \\tilde { C }\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Proposition 6. The matrix $M ( x , u , t )$ is nonsingular for any $\\boldsymbol { z } = ( \\boldsymbol { x } , \\boldsymbol { u } , t ) \\in \\mathbb { R } ^ { p } \\times \\mathbb { R } ^ { q } \\times \\mathbb { R }$ if the corresponding matrix $\\tilde { A }$ and $\\tilde { D }$ are nonsingular. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Then we also can conclude that the Jacobian ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\partial \\Phi ( { \\hat { w } } , u , t ) = \\left( \\begin{array} { l l } { \\tilde { A } } & { \\tilde { B } } \\\\ { \\tilde { C } } & { \\tilde { D } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "is non-singular if the corresponding matrices $\\tilde { A }$ and $\\tilde { D }$ are non-singular. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Proposition 7. Since we have the formula of Jacobian as ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\partial \\Phi ( \\hat { w } , u , t ) = \\left( \\begin{array} { c c } { D _ { 1 } + D _ { 2 } J _ { \\hat { w } } \\tilde { G } ( \\hat { w } , u , t ) } & { D _ { 2 } J _ { ( u , t ) } \\tilde { G } ( \\hat { w } , u , t ) } \\\\ { J _ { \\hat { w } } \\tilde { H } ( \\hat { w } , u , t ) } & { J _ { ( u , t ) } \\tilde { H } ( \\hat { w } , u , t ) } \\end{array} \\right) = \\left( \\begin{array} { c c } { D _ { 1 } + D _ { 2 } \\tilde { A } } & { D _ { 2 } \\tilde { B } } \\\\ { \\tilde { C } } & { \\tilde { D } } \\end{array} \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "then it is non-singular if and only if both of matrix $\\tilde { A }$ and $\\tilde { D }$ are non-singular for any vector $z = ( w , u , t ) \\in \\mathbb { R } ^ { p + 1 }$ ： ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Proof. For the generalised Jacobian in our case, which is ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\partial \\Phi ( \\hat { w } , u , t ) = \\left( \\begin{array} { c c } { { D _ { 1 } + D _ { 2 } \\tilde { A } } } & { { D _ { 2 } \\tilde { B } } } \\\\ { { \\tilde { C } } } & { { \\tilde { D } } } \\end{array} \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "We can conclude that $\\partial \\Phi ( w , u , t )$ is non-singular if and only if both of the Schur complement of $\\tilde { D }$ and the sub-matrix $D _ { 1 } + D _ { 2 } { \\tilde { A } }$ are non-singular. Which is equivalent to both of the matrix $\\tilde { A }$ and $\\tilde { D }$ are non-singular □ ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The follwing theorem was introduced by Facchinei and Pang, for the sake of completeness, we quote Theorem 9.4.4 in [5] and provide a detailed proof here. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Theorem 8. For arbitrary vectors $\\hat { w } \\in \\mathbb { R } ^ { p - 1 }$ ， $u \\in \\mathbb { R } ^ { q }$ and $t \\in \\mathbb R$ ， we have $\\boldsymbol { z } = ( \\boldsymbol { \\hat { w } } , \\boldsymbol { u } , t )$ is a solution of $M i C P ( \\tilde { G } , \\tilde { H } , \\mathbb { R } _ { + } ^ { p - 1 } )$ if and only if $z$ is a FB-regular point of $\\Psi ( x )$ as well as a stationary point of $\\Phi ( x )$ ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Proof. Firstly， suppose $z = ( \\hat { w } , u , t )$ is a solution to $M i C P ( \\tilde { G } , \\tilde { H } , \\mathbb { R } _ { + } ^ { p - 1 } )$ . Then we have $z = ( \\hat { w } , u , t )$ is a stationary point as well as the global minimum of the associate merit function $\\Phi ( x )$ .Moreover, $\\boldsymbol { z } = ( \\boldsymbol { \\hat { w } } , \\boldsymbol { u } , t )$ is a solution to $M i C P ( \\tilde { G } , \\tilde { H } , \\mathbb { R } _ { + } ^ { p - 1 } )$ ，which implies that $( \\hat { w } , \\tilde { G } ( z ) ) \\in C ( \\mathbb { R } _ { + } ^ { p - 1 } )$ . Then we have $\\hat { w } = w _ { c }$ . Thus, the FB-regularity holds for $\\hat { w }$ （20号 and $\\mathcal { P } = \\emptyset = \\mathcal { N }$ ： ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Conversely, if $\\boldsymbol { z } ~ = ~ ( \\boldsymbol { \\hat { w } } , \\boldsymbol { u } , t )$ is a stationary point of the merit function $\\Psi ( x )$ ，then $\\nabla \\Psi ( z ) = 0$ which implies that ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\partial \\Phi ( \\hat { w } , u , t ) ) ^ { \\top } \\Phi ( \\hat { w } , u , t ) = \\left( \\begin{array} { c c } { D _ { 1 } + \\tilde { A } ^ { \\top } D _ { 2 } } & { \\tilde { C } ^ { \\top } } \\\\ { \\tilde { B } ^ { \\top } D _ { 2 } } & { \\tilde { D } ^ { \\top } } \\end{array} \\right) \\Phi ( \\hat { w } , u , t ) = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Thus, for any arbitrary vector $x \\in \\mathbb { R } ^ { p + q }$ ， we have ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx ^ { \\top } \\left( \\begin{array} { c c } { D _ { 1 } + \\tilde { A } ^ { \\top } D _ { 2 } } & { \\tilde { C } ^ { \\top } } \\\\ { \\tilde { B } ^ { \\top } D _ { 2 } } & { \\tilde { D } ^ { \\top } } \\end{array} \\right) \\Phi ( \\hat { w } , u , t ) = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "For vector $x$ we have that ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { C } = 0 , \\qquad x _ { \\mathcal { P } } > 0 , \\qquad x _ { \\mathcal { N } } < 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Then if $z$ is not a solution to $M i C P ( \\tilde { G } , \\tilde { H } , \\mathbb { R } _ { + } ^ { p - 1 } )$ ， we have $\\{ 1 , 2 , \\dots , p + q \\} ~ \\backslash ~ { \\mathcal { C } } \\neq \\emptyset$ Let （20 $y : = D _ { 2 } \\Phi ( x )$ and we have ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { \\mathcal { C } } = 0 , \\qquad y _ { \\mathcal { P } } > 0 , \\qquad y _ { \\mathcal { N } } < 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "By using the definition of $D _ { 1 }$ and $D _ { 2 }$ ， we conclude that $D _ { 1 } \\Phi ( x )$ and $D _ { 2 } \\Phi ( x )$ have the same sign. Thus, ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx ^ { \\top } ( D _ { 1 } \\Phi ) = x _ { \\mathcal { C } } ^ { \\top } ( D _ { 1 } \\Phi ) _ { \\mathcal { C } } + x _ { \\mathcal { P } } ^ { \\top } ( D _ { 1 } \\Phi ) _ { \\mathcal { P } } + x _ { \\mathcal { N } } ^ { \\top } ( D _ { 1 } \\Phi ) _ { \\mathcal { N } } > 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "since $x _ { \\{ 1 , 2 , . . . , p + q \\} \\backslash c } \\neq 0$ ，and ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx ^ { \\top } J \\tilde { G } ( z ) ^ { \\top } ( D _ { 1 } \\Phi ) y \\ge 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Then these two inequalities above together are contradict to the condition (11). Thus, we have set $\\{ 1 , 2 , \\dots , p + q \\} ~ \\backslash ~ { \\mathcal { C } } = \\emptyset$ and $z$ is a solution to $M i C P ( \\tilde { G } , \\tilde { H } , \\mathbb { R } _ { + } ^ { p - 1 } )$ （ □ ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "7A Numerical Example ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In this section，we will give a numerical example to the liner complementarity problem defined on the MESOC, which is a more general case and satisfy the item (iv) in Proposition 4. Let us consider the linear complementarity problem on the MESOC $\\mathcal { L } \\subset \\mathbb { R } ^ { 3 } \\times \\mathbb { R } ^ { 2 }$ . Then for any arbitrary point $z = ( x , u ) \\in \\mathbb { R } ^ { 3 } \\times \\mathbb { R } ^ { 2 }$ , the aim of finding the solution to the linear complementarity problem,is to find $z = ( x , u ) \\in \\mathbb R ^ { 3 } \\times \\mathbb R ^ { 2 }$ such that $( z , T z + r ) \\in C ( { \\mathcal { L } } )$ ： By using item (vi） in Theorem 5,the solution $z = ( x , u )$ of the linear complementarity problem $L C P ( T , r , { \\mathcal { L } } )$ is equivalent to the solution of the mixed complementarity problem $M i C P ( \\tilde { G } , \\tilde { H } , \\mathbb { R } _ { + } ^ { p - 1 } )$ and we will have ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\begin{array} { c } { \\hat { w } _ { 1 } } \\\\ { \\hat { w } _ { 2 } } \\\\ { \\vdots } \\\\ { \\hat { w } _ { p - 1 } } \\end{array} \\right) \\perp \\tilde { G } ( \\hat { w } , u , t ) = \\left( \\begin{array} { c } { \\tilde { G } _ { 1 } ( \\hat { w } , u , t ) } \\\\ { \\tilde { G } _ { 2 } ( \\hat { w } , u , t ) } \\\\ { \\vdots } \\\\ { \\tilde { G } _ { p - 1 } ( \\hat { w } , u , t ) } \\end{array} \\right) = \\left( \\begin{array} { c } { ( A x ( \\hat { w } , t ) + B u + y ) _ { 1 } } \\\\ { \\sum _ { i = 1 } ^ { 2 } ( A x ( \\hat { w } , t ) + B u + y ) _ { i } } \\\\ { \\vdots } \\\\ { \\sum _ { i = 1 } ^ { p - 1 } ( A x ( \\hat { w } , t ) + B u + y ) _ { i } } \\end{array} \\right) \\in \\mathbb { R }\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { H } ( \\hat { w } , u , t ) = \\left( \\begin{array} { c } { u e ^ { \\top } ( A x ( \\hat { w } , t ) + B u + y ) + t ( C x ( \\hat { w } , t ) + D u + v ) } \\\\ { t ^ { 2 } - \\| u \\| ^ { 2 } } \\end{array} \\right) = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx ( \\hat { w } , t ) = \\left( \\begin{array} { c } { \\hat { w } _ { 1 } + \\hat { w } _ { 2 } + . . . + \\hat { w } _ { p - 1 } + t } \\\\ { \\hat { w } _ { 2 } + . . . + \\hat { w } _ { p - 1 } + t } \\\\ { \\vdots } \\\\ { \\hat { w } _ { p - 1 } + t } \\\\ { t } \\end{array} \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In order to finding the solution to the mixed complementarity problem,we will have the corresponding FB-based equation ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Phi ( \\hat { w } , u , t ) = \\left( \\begin{array} { c } { \\phi ( \\hat { w } _ { 1 } , \\tilde { G } _ { 1 } ( \\hat { w } , u , t ) ) } \\\\ { \\phi ( \\hat { w } _ { 2 } , \\tilde { G } _ { 2 } ( \\hat { w } , u , t ) ) } \\\\ { \\vdots } \\\\ { \\phi ( \\hat { w } _ { p } , \\tilde { G } _ { p - 1 } ( \\hat { w } , u , t ) ) } \\\\ { \\tilde { H } ( \\hat { w } , u , t ) } \\end{array} \\right) = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Let us consider the following example,where ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT = { \\binom { A } { C } } \\ B \\ = \\ { \\left( \\begin{array} { l l l l l } { 1 } & { 0 } & { - 2 } & { 1 } & { 3 } \\\\ { - 2 } & { 6 } & { - 1 } & { 0 } & { - 1 } \\\\ { 1 } & { - 3 } & { 0 } & { - 1 } & { - 2 } \\\\ { 0 } & { 1 } & { - 1 } & { 1 } & { - 1 } \\\\ { 0 } & { - 1 } & { 1 } & { 1 } & { 1 } \\end{array} \\right) } \\ { \\mathrm { ~ a n d ~ } } r = { \\binom { y } { v } } = { \\left( \\begin{array} { l } { 2 } \\\\ { 3 } \\\\ { 1 } \\\\ { 4 } \\\\ { 5 } \\end{array} \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Since we have the matrices $T$ ， $A$ and $D$ are non-singular, then by using the Semi-smooth Newton Method, the sequence $\\{ z _ { k } \\} = \\{ ( \\hat { w } , u , t ) _ { k } \\}$ will converge to a numerical solution to the mixed complementarity problem. For the solution we have ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\underbrace { \\sqrt { 8 2 - 1 2 \\sqrt { 4 6 } } } _ { 2 } , \\boldsymbol { 0 } \\sp { \\top } , \\boldsymbol { t } \\sp { * } = \\frac { \\sqrt { 8 2 - 1 2 \\sqrt { 4 6 } } } { 2 } \\mathrm { ~ a n d ~ } \\boldsymbol { u } \\sp { * } = \\left( \\frac { - 2 2 5 + 3 0 \\sqrt { 4 6 } } { 8 2 } , \\frac { 1 3 9 - 2 4 \\sqrt { 4 6 } } { 8 2 } , \\frac { 1 2 9 } { 8 2 } \\right) \\boldsymbol { t } \\sp { * } .\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Then let we check whether this solution satisfy the condition of complementarity, we have ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { w } ^ { * } = \\left( \\frac { \\sqrt { 8 2 - 1 2 \\sqrt { 4 6 } } } { 2 } , 0 \\right) ^ { \\top } \\geq 0 , \\tilde { G } ( \\hat { w } ^ { * } , u ^ { * } , t ^ { * } ) = \\left( 0 , \\frac { \\sqrt { 8 2 - 1 2 \\sqrt { 4 6 } } } { 2 } \\right) ^ { \\top } \\geq 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Then we have ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbb { R } _ { + } ^ { 2 } \\ni \\hat { w } ^ { * } \\perp \\tilde { G } ( \\hat { w } , u , t ) \\in \\mathbb { R } _ { + } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Then we confirm that $\\left( \\hat { w } ^ { * } , \\tilde { G } ( \\hat { w } , u , t ) \\right) \\in C ( \\mathbb { R } _ { + } ^ { 2 } )$ ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Then by using item (vi) in Theorem 5 again,we have the the solution to the linear complementarity problem，which is ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= \\left( { \\sqrt { 8 2 - 1 2 { \\sqrt { 4 6 } } } } , { \\frac { \\sqrt { 8 2 - 1 2 { \\sqrt { 4 6 } } } } { 2 } } , { \\frac { \\sqrt { 8 2 - 1 2 { \\sqrt { 4 6 } } } } { 2 } } , { \\frac { - 2 2 5 + 3 0 { \\sqrt { 4 6 } } } { 8 2 } } , { \\frac { 1 3 9 - 2 4 { \\sqrt { 4 6 } } } { 8 2 } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "By using the definition of the monotone extended second order cone, we have $z ^ { \\ast } \\in { \\mathcal { L } }$ ,and ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( { \\begin{array} { c c c c c } { 1 } & { 0 } & { - 2 } & { 1 } & { 3 } \\\\ { - 2 } & { 6 } & { - 1 } & { 0 } & { - 1 } \\\\ { 1 } & { - 3 } & { 0 } & { - 1 } & { - 2 } \\\\ { 0 } & { 1 } & { - 1 } & { 1 } & { 1 } \\\\ { 0 } & { - 1 } & { 1 } & { 1 } & { 1 } \\end{array} } \\right) \\left( { \\begin{array} { c } { { \\sqrt { 8 2 - 1 2 { \\sqrt { 4 6 } } } } } \\\\ { { \\frac { { \\sqrt { 8 2 - 1 2 { \\sqrt { 4 6 } } } } } { 2 } } } \\\\ { { \\frac { { \\sqrt { 8 2 - 1 2 { \\sqrt { 4 6 } } } } } { 8 2 } } } \\\\ { { \\frac { - 2 2 5 + 3 0 { \\sqrt { 4 6 } } } { 8 2 } } } \\\\ { { \\frac { 1 3 9 - 2 4 { \\sqrt { 4 6 } } } { 8 2 } } } \\end{array} } \\right) + \\left( { \\begin{array} { c } { 2 } \\\\ { 3 } \\\\ { 1 } \\\\ { 4 } \\\\ { 5 } \\end{array} } \\right) = \\left( { \\begin{array} { c } { \\frac { 1 7 8 - 2 1 { \\sqrt { 4 6 } } } { 4 1 } } \\\\ { { \\frac { 2 4 { \\sqrt { 4 6 } } + 4 1 { \\sqrt { 8 2 + 1 2 { \\sqrt { 4 6 } } } } + 1 0 7 } { 8 2 } } } \\\\ { { \\frac { 7 8 { \\sqrt { 4 6 } } - 4 1 { \\sqrt { 8 2 - 1 2 { \\sqrt { 4 6 } } } } - 4 2 1 } } { 8 2 } } \\\\ { { \\frac { - 3 6 { \\sqrt { 4 6 } } } { 8 2 } } } \\end{array} } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Then by using the definition of the the dual cone of the monotone extended second order cone we have $T x + q \\in { \\mathcal { M } }$ and $\\langle x , T x + q \\rangle = 0$ .Thus, $z ^ { * }$ is a solution to the linear complementarity problem. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "8 Example for Portfolio Optimization ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "As Facchinei and Pang summarized in [5], the Fischer-Burmeister function and the Generalized Newton Method can be used to solve both the linear and the nonlinear complementarity problems. In this section，we will consider implementing this algorithm to solve a specific nonlinear complementarity problem,which is an application of a portfolio optimization problem related to the monotone extended second order cone. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Markowitz developed the mean-variance (MV) model in [19]，which is the classical method in investigating the problem of portfolio optimization. Suppose we build portfolio by using $n$ arbitrary assets. Let $w \\in \\mathbb { R } ^ { n }$ denote the weights of the assets, $r \\in \\mathbb { R } ^ { n }$ represent the return of assets and $\\ b { \\Sigma } \\in \\mathbb { R } ^ { n } \\times \\mathbb { R } ^ { n }$ be the covariance matrix. Then, the two traditional and equivalent MV models could be given as: ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } _ { \\boldsymbol { w } } \\left\\{ \\boldsymbol { w } ^ { \\top } \\Sigma \\boldsymbol { w } : \\boldsymbol { r } ^ { \\top } \\boldsymbol { w } \\geq \\alpha , e ^ { \\top } \\boldsymbol { w } = 1 \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m a x } _ { \\boldsymbol { w } } \\left\\{ \\boldsymbol { r } ^ { \\top } \\boldsymbol { w } : \\boldsymbol { w } ^ { \\top } \\Sigma \\boldsymbol { w } \\leq \\beta , e ^ { \\top } \\boldsymbol { w } = 1 \\right\\} ,\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "where $\\alpha$ is the minimum profit that the investor demands and $\\beta$ is the minimum risk that the investor wants to tolerate. They are typical quadratic optimization problems with higher computational complexity. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "In order to reduce the complexity of solving the portfolio optimization problem, based on the traditional mean-variance model, lots of models have been introduced, such as MAD model，which has been introduced in [15], has reduced the computational complexity significantly [16,17]. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "In order to measure the uncertainty of the returns of the assets for $j = 1 , \\dots , T ^ { \\prime }$ ，let us define $U = ( U _ { 1 } , \\dots , U _ { T } ) ^ { \\top }$ ，where $U _ { j } = R ^ { j } - r$ .Let $y _ { j }$ denote the upper bound of disturbance of return at day $j$ . Then, the traditional MAD model can be represented as the following linear programming problem: ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\underset { y , w } { \\operatorname* { m i n } } } & { c _ { 0 } f ^ { \\top } y - { r ^ { \\top } } w } \\\\ { \\mathrm { s . t . } } & { y _ { j } \\geq | U _ { j } ^ { \\top } w | , \\quad j = 1 , \\ldots , T , } \\\\ & { e ^ { \\top } w = 1 , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "where $c _ { 0 } > 0$ is the Arrow-Pratt absolute risk-aversion index. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "In reality, the uncertainty of the returns of the assets willincrease with the increasing of the investment horizon. Thus, it is meaningful to optimize the MAD model to make it more in line with the real-world market behaviour. Meanwhile, by using Cauchy's inequality, we also have $| U _ { j } ^ { \\top } w | \\leq \\| U _ { j } \\| \\| w \\|$ for any $j$ . Then, based on the current MAD model, we obtain the following related problem ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\underset { y , w } { \\operatorname* { m i n } } } & { c _ { 0 } f ^ { \\top } y - r ^ { \\top } w } \\\\ { \\mathrm { s . t . } } & { y _ { T } \\geq y _ { T - 1 } \\geq . . . \\geq y _ { 1 } \\geq \\| U _ { j ^ { * } } \\| \\| w \\| , } \\\\ & { e ^ { \\top } w = 1 , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "where $j ^ { * } = \\operatorname { a r g m i n } _ { j } | U _ { j } ^ { \\top } w |$ ,for $j = 1 , \\dots , T$ . Note that the vector ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\frac { y _ { T } } { \\left. U _ { j ^ { * } } \\right. } , \\frac { y _ { T - 1 } } { \\left. U _ { j ^ { * } } \\right. } , \\ldots , \\frac { y _ { 1 } } { \\left. U _ { j ^ { * } } \\right. } , w \\right) ^ { \\top }\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "belongs to the monotone extended second order cone $\\mathcal { L } _ { T , n }$ .Thus,the last problem is equivalent to the following conic optimization problem: ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\underset { y , u } { \\operatorname* { m i n } } } & { c _ { 0 } f ^ { \\top } y - r ^ { \\top } \\frac { u } { \\| U _ { j ^ { * } } \\| } } \\\\ { \\mathrm { s . t . } } & { e ^ { \\top } u = \\| U _ { j ^ { * } } \\| , } \\\\ & { ( y _ { T } , y _ { T - 1 } , . . . , y _ { 1 } , u ) ^ { \\top } \\in \\mathcal { L } _ { T , n } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "where $u : = w \\| U _ { j ^ { * } } \\|$ ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Let us consider the KKT-conditions of the problem above. We have the Lagrange function as ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { \\Sigma } _ { t } , u ) = c _ { 0 } f ^ { \\top } y - r ^ { \\top } \\frac { u } {  U _ { j ^ { * } }  } - \\sum _ { j = 2 } ^ { T } \\theta _ { j } ( y _ { j } - y _ { j - 1 } ) - \\theta _ { 1 } ( y _ { 1 } -  u  ) - \\beta (  U _ { j ^ { * } }  - e ^ { \\top } u )\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Then we have ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial L } { \\partial y } = \\left( \\begin{array} { c } { c _ { 0 } f _ { 1 } + \\theta _ { 2 } - \\theta _ { 1 } } \\\\ { c _ { 0 } f _ { 2 } + \\theta _ { 3 } - \\theta _ { 2 } } \\\\ { \\vdots } \\\\ { c _ { 0 } f _ { T - 1 } + \\theta _ { T } - \\theta _ { T - 1 } } \\\\ { c _ { 0 } f _ { T } + \\theta _ { T } } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial L } { \\partial u } = - \\frac { r } { \\Vert U _ { j ^ { * } } \\Vert } + \\frac { \\theta _ { 1 } u } { \\Vert u \\Vert } + \\beta e\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Thus,when the condition of $e ^ { \\top } w = 1$ holds, the KKT-conditions of the problem (12) can be converted to the following complementarity problem. ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { L } \\ni \\left( \\begin{array} { c } { y _ { 1 } } \\\\ { y _ { 2 } } \\\\ { \\vdots } \\\\ { y _ { T - 1 } } \\\\ { y _ { T } } \\\\ { u } \\end{array} \\right) \\perp \\left( \\begin{array} { c } { c _ { 0 } f _ { 1 } + \\theta _ { 2 } - \\theta _ { 1 } } \\\\ { c _ { 0 } f _ { 2 } + \\theta _ { 3 } - \\theta _ { 2 } } \\\\ { \\vdots } \\\\ { c _ { 0 } f _ { T - 1 } + \\theta _ { T } - \\theta _ { T - 1 } } \\\\ { c _ { 0 } f _ { T } + \\theta _ { T } } \\\\ { - \\frac { r } { \\| U _ { j } * \\| } + \\frac { \\theta _ { 1 } u } { \\| u \\| } + \\beta e } \\end{array} \\right) \\in \\mathcal { M }\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "where $j ^ { * } = \\mathrm { a r g m i n } _ { j } | U _ { j } ^ { \\top } w |$ ,for $j = 1 , \\dots , T$ and it is a non-linear complementarity problem. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Proposition 9. $\\begin{array} { r } { I f - \\frac { r } { \\| U _ { j ^ { * } } \\| } + \\frac { \\theta _ { 1 } u } { \\| u \\| } + \\beta e \\neq 0 } \\end{array}$ ， by using Proposition $\\boldsymbol { \\mathcal { Z } }$ and Proposition 4, we have the following properties: ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(i) There exists a $\\lambda > 0$ ， such that $\\begin{array} { r } { - \\frac { r } { \\| U _ { j ^ { * } } \\| } + \\frac { \\theta _ { 1 } u } { \\| u \\| } + \\beta e = - \\lambda u . } \\end{array}$ ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { c _ { 0 } \\sum _ { i = 1 } ^ { T } f _ { i } + 2 \\theta _ { T } - \\theta _ { 1 } = \\left. - \\frac { r } { \\lVert U _ { j ^ { * } } \\rVert } + \\frac { \\theta _ { 1 } u } { \\lVert u \\rVert } + \\beta e \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(iii) $y _ { T } = u$ ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Since $u \\ : = \\ : w \\| U _ { j ^ { * } } \\|$ ，and $e ^ { \\top } w = 1$ ，we have $u \\ne 0$ . Thus,item (i) and item (ii) are inapplicable in the problem 12 while item (ii) and item (iv) are applicable. For item (iii), if we have-Ⅲ $\\begin{array} { r } { - \\frac { r } { \\| U _ { j ^ { * } } \\| } + \\frac { \\theta _ { 1 } u } { \\| u \\| } + \\beta e = 0 } \\end{array}$ ， which is equivalent to ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu = - \\frac { \\| u \\| } { \\theta _ { 1 } } \\left( \\beta e - \\frac { r } { \\| U _ { j ^ { * } } \\| } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Moreover, to make sure such $\\beta$ exists, we must have ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { \\| u \\| r _ { 1 } } { \\| U _ { j ^ { * } } \\| } } - \\theta _ { 1 } u _ { 1 } = { \\frac { \\| u \\| r _ { 2 } } { \\| U _ { j ^ { * } } \\| } } - \\theta _ { 1 } u _ { 2 } = \\ldots = { \\frac { \\| u \\| r _ { n } } { \\| U _ { j ^ { * } } \\| } } - \\theta _ { 1 } u _ { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Meanwhile, by using $e ^ { \\top } w = 1$ and $u = w \\| U _ { j ^ { * } } \\|$ , let the number of assets be $n$ and we have ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 = e ^ { \\top } w = e ^ { \\top } \\frac { u } { \\Vert U _ { j ^ { * } } \\Vert } = - \\frac { \\Vert u \\Vert } { \\theta _ { 1 } \\Vert U _ { j ^ { * } } \\Vert } \\left( n \\beta - \\frac { \\langle r , e \\rangle } { \\Vert U _ { j ^ { * } } \\Vert } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "From (13) and (14) we have ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu = \\frac { \\| U _ { j ^ { * } } \\| \\left( \\beta \\| U _ { j ^ { * } } \\| e - r \\right) } { n \\beta \\| U _ { j ^ { * } } \\| - \\langle r , e \\rangle }\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Thus, ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\| u \\| = \\frac { \\| U _ { j ^ { * } } \\| \\| ( \\beta \\| U _ { j ^ { * } } \\| e - r ) \\| } { | n \\beta \\| U _ { j ^ { * } } \\| - \\langle r , e \\rangle | }\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Substitute(16) and (15) into (13) and by using $\\begin{array} { r } { \\left\\| \\frac { u } { \\| u \\| } \\right\\| ^ { 2 } = 1 } \\end{array}$ ，we have ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\nn \\beta ^ { 2 } - 2 \\frac { \\sum _ { i = 1 } ^ { n } r _ { i } } { \\Vert U _ { j ^ { * } } \\Vert } \\beta + \\frac { \\sum _ { i = 1 } ^ { n } r _ { i } ^ { 2 } } { \\Vert U _ { j ^ { * } } \\Vert ^ { 2 } } - \\theta _ { 1 } ^ { 2 } = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Thus, following the existence of $\\beta$ , for any arbitrary solution $( y , u )$ to the optimization problem，we must have the following conditions ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { i + 1 } - u _ { i } = \\frac { r _ { i } - r _ { i + 1 } } { \\theta _ { 1 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\frac { \\sum _ { i = 1 } ^ { n } r _ { i } } { \\Vert U _ { j ^ { * } } \\Vert } \\right) ^ { 2 } - n \\left( \\frac { \\sum _ { i = 1 } ^ { n } r _ { i } ^ { 2 } } { \\Vert U _ { j ^ { * } } \\Vert ^ { 2 } } - \\theta _ { 1 } ^ { 2 } \\right) \\ge 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta = \\frac { \\frac { \\sum _ { i = 1 } ^ { n } r _ { i } } { \\Vert U _ { j ^ { * } } \\Vert } \\pm \\sqrt { \\left( \\frac { \\sum _ { i = 1 } ^ { n } r _ { i } } { \\Vert U _ { j ^ { * } } \\Vert } \\right) ^ { 2 } - n \\left( \\frac { \\sum _ { i = 1 } ^ { n } r _ { i } ^ { 2 } } { \\Vert U _ { j ^ { * } } \\Vert ^ { 2 } } - \\theta _ { 1 } ^ { 2 } \\right) } } { n } .\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Moreover, from the KKT-conditions and the definition of $\\mathcal { L }$ we have ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 = \\left( \\begin{array} { c } { c _ { 0 } f _ { 1 } + \\theta _ { 2 } - \\theta _ { 1 } } \\\\ { c _ { 0 } f _ { 2 } + \\theta _ { 3 } - \\theta _ { 2 } } \\\\ { \\vdots } \\\\ { c _ { 0 } f _ { T - 1 } + \\theta _ { T } - \\theta _ { T - 1 } } \\\\ { c _ { 0 } f _ { T } + \\theta _ { T } } \\end{array} \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Thus, ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta _ { t } = \\left\\{ \\begin{array} { l l } { c _ { 0 } \\left( \\sum _ { i = t } ^ { T - 1 } f _ { t } - f _ { T } \\right) , } & { \\mathrm { ~ w h e n ~ } t = 1 , 2 , \\dots , T - 1 } \\\\ { - c _ { 0 } f _ { T } , } & { \\mathrm { ~ w h e n ~ } t = T } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Then we can substitute $\\begin{array} { r } { \\theta _ { 1 } = c _ { 0 } \\left( \\sum _ { i = 1 } ^ { T - 1 } f _ { t } - f _ { T } \\right) } \\end{array}$ into (17) and we will have that the explicit solution of $u$ is given as ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu = - \\frac { \\| U _ { j ^ { * } } \\| \\left( \\left( \\sum _ { i = 1 } ^ { n } r _ { i } \\pm \\sqrt { \\left( \\sum _ { i = 1 } ^ { n } r _ { i } \\right) ^ { 2 } - n \\left( \\sum _ { i = 1 } ^ { n } r _ { i } - \\theta _ { 1 } ^ { 2 } \\| U _ { j ^ { * } } \\| ^ { 2 } \\right) } \\| \\right) e - n r \\right) } { \\pm n \\sqrt { \\left( \\sum _ { i = 1 } ^ { n } r _ { i } \\right) ^ { 2 } - n \\left( \\sum _ { i = 1 } ^ { n } r _ { i } ^ { 2 } - \\theta _ { 1 } ^ { 2 } \\| U _ { j ^ { * } } \\| ^ { 2 } \\right) } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Thus,we can get the explicit solution to Problem 12. Then by using the definition of $u$ ， we can obtain the weight allocation of assets of the portfolio. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Last,let we consider the general case. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Suppose $- \\frac { r } { \\| U _ { j ^ { * } } \\| } + \\frac { \\theta _ { 1 } u } { \\| u \\| } + \\beta e \\neq 0$ , then by Proposition 2, we have ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { r } { \\| U _ { j ^ { * } } \\| } - \\frac { \\theta _ { 1 } u } { \\| u \\| } - \\beta e = \\lambda u\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc _ { 0 } \\sum _ { i = 1 } ^ { T } f _ { i } + 2 \\theta _ { T } - \\theta _ { 1 } = \\left\\| \\frac { r } { \\| U _ { j ^ { * } } \\| } - \\frac { \\theta _ { 1 } u } { \\| u \\| } - \\beta e \\right\\| .\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Substituting (19) into (20) we have ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc _ { 0 } \\sum _ { i = 1 } ^ { T } f _ { i } + 2 \\theta _ { T } - \\theta _ { 1 } = \\lambda \\| u \\| .\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Thus, ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda = \\frac { 1 } { \\| u \\| } \\left( c _ { 0 } \\sum _ { i = 1 } ^ { T } f _ { i } + 2 \\theta _ { T } - \\theta _ { 1 } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "and(19) is equivalent to ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left. \\frac { r } { \\Vert U _ { j ^ { * } } \\Vert } - \\frac { \\theta _ { 1 } u } { \\Vert u \\Vert } - \\beta e \\right. = \\lambda \\Vert u \\Vert .\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Meanwhile, by using $e ^ { \\top } w = 1$ and $u = w \\| U _ { j ^ { * } } \\|$ , let the number of assets be $n$ and we have ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 = e ^ { \\top } w = e ^ { \\top } \\frac { u } { \\Vert U _ { j ^ { * } } \\Vert } = \\frac { 1 } { \\lambda \\Vert U _ { j ^ { * } } \\Vert } \\left( \\frac { \\langle r , e \\rangle } { \\Vert U _ { j ^ { * } } \\Vert } - \\frac { \\theta _ { 1 } \\langle u , e \\rangle } { \\Vert u \\Vert } - n \\beta \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "which is equivalent to ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda \\| U _ { j ^ { * } } \\| = \\frac { \\langle r , e \\rangle } { \\| U _ { j ^ { * } } \\| } - \\frac { \\theta _ { 1 } \\langle u , e \\rangle } { \\| u \\| } - n \\beta .\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Then by (21) and(19) we get ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { r } { \\| U _ { j ^ { * } } \\| } - \\frac { \\theta _ { 1 } u } { \\| u \\| } - \\beta e = \\frac { u } { \\| u \\| } \\left( c _ { 0 } \\sum _ { i = 1 } ^ { T } f _ { i } + 2 \\theta _ { T } - \\theta _ { 1 } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "which is equivalent to ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { u } { \\| u \\| } = \\frac { \\frac { r } { \\| U _ { j ^ { * } } \\| } - \\beta e } { c _ { 0 } \\sum _ { i = 1 } ^ { T } f _ { i } + 2 \\theta _ { T } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Then we have ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\nn \\beta ^ { 2 } - 2 \\frac { \\sum _ { i = 1 } ^ { n } r _ { i } } { \\Vert U _ { j ^ { * } } \\Vert } \\beta + \\frac { \\sum _ { i = 1 } ^ { n } r _ { i } ^ { 2 } } { \\Vert U _ { j ^ { * } } \\Vert ^ { 2 } } - \\left( c _ { 0 } \\sum _ { i = 1 } ^ { n } f _ { i } + 2 \\theta _ { T } \\right) ^ { 2 } = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Thus, ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta = \\frac { \\sum _ { i = 1 } ^ { n } r _ { i } \\pm \\sqrt { ( \\sum _ { i = 1 } ^ { n } r _ { i } ) ^ { 2 } - n \\left( \\sum _ { i = 1 } ^ { n } r _ { i } ^ { 2 } - \\| U _ { j ^ { * } } \\| ^ { 2 } \\left( c _ { 0 } \\sum _ { i = 1 } ^ { n } f _ { i } + 2 \\theta _ { T } \\right) ^ { 2 } \\right) } } { n \\| U _ { j ^ { * } } \\| } .\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "By using (19) and (23) we have ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda u = \\frac { r } { \\Vert U _ { j ^ { * } } \\Vert } - \\theta _ { 1 } \\frac { \\frac { r } { \\Vert U _ { j ^ { * } } \\Vert } - \\beta e } { c _ { 0 } \\sum _ { i = 1 } ^ { n } f _ { i } + 2 \\theta _ { T } } - \\beta e = \\left( \\frac { r } { \\Vert U _ { j ^ { * } } \\Vert } - \\beta e \\right) \\left( 1 - \\frac { \\theta _ { 1 } } { c _ { 0 } \\sum _ { i = 1 } ^ { n } f _ { i } + 2 \\theta _ { T } } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "By using (22) and (21) we have ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda \\| U _ { j ^ { * } } \\| = \\frac { \\langle r , e \\rangle } { \\| U _ { j ^ { * } } \\| } - \\frac { \\lambda \\theta _ { 1 } \\langle u , e \\rangle } { c _ { 0 } \\sum _ { i = 1 } ^ { n } f _ { i } + 2 \\theta _ { T } - \\theta _ { 1 } } - n \\beta .\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Then we have ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { u } { \\| U _ { j ^ { * } } \\| + \\frac { \\theta _ { 1 } \\langle u , e \\rangle } { c _ { 0 } \\sum _ { i = 1 } ^ { n } f _ { i } + 2 \\theta _ { T } - \\theta _ { 1 } } } = \\frac { \\frac { r } { \\| U _ { j ^ { * } } \\| } - \\theta _ { 1 } \\frac { \\frac { r } { \\| U _ { j ^ { * } } \\| } - \\beta e } { c _ { 0 } \\sum _ { i = 1 } ^ { n } f _ { i } + 2 \\theta _ { T } } - \\beta e } { \\frac { \\langle r , e \\rangle } { \\| U _ { j ^ { * } } \\| } - n \\beta } .\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Meanwhile, from (12),we have that $\\left. e , u \\right. = \\left\\| U _ { j ^ { * } } \\right\\|$ , then (25) is equivalent to ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { u } { \\| U _ { j ^ { * } } \\| + \\frac { \\theta _ { 1 } \\| U _ { j ^ { * } } \\| } { c _ { 0 } \\sum _ { i = 1 } ^ { n } f _ { i } + 2 \\theta _ { T } - \\theta _ { 1 } } } = \\frac { \\frac { r } { \\| U _ { j ^ { * } } \\| } - \\theta _ { 1 } \\frac { \\frac { r } { \\| U _ { j ^ { * } } \\| } - \\beta e } { c _ { 0 } \\sum _ { i = 1 } ^ { n } f _ { i } + 2 \\theta _ { T } } - \\beta e } { \\frac { \\langle r , e \\rangle } { \\| U _ { j ^ { * } } \\| } - n \\beta } .\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Then let $\\begin{array} { r } { K = c _ { 0 } \\sum _ { i = 1 } ^ { n } f _ { i } + 2 \\theta _ { T } - \\theta _ { 1 } } \\end{array}$ we have ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { u } { \\| U _ { j ^ { * } } \\| + \\frac { \\theta _ { 1 } \\| U _ { j ^ { * } } \\| } { K } } = \\frac { \\frac { r } { \\| U _ { j ^ { * } } \\| } - \\theta _ { 1 } \\frac { \\frac { r } { \\| U _ { j ^ { * } } \\| } - \\beta e } { K + \\theta _ { 1 } } - \\beta e } { \\frac { \\langle r , e \\rangle } { \\| U _ { j ^ { * } } \\| } - n \\beta } .\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Then ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu = \\frac { r - \\theta _ { 1 } \\frac { r - \\beta \\| U _ { j ^ { * } } \\| e } { K + \\theta _ { 1 } } - \\beta \\| U _ { j ^ { * } } \\| e } { \\langle r , e \\rangle - n \\beta \\| U _ { j ^ { * } } \\| } \\left( 1 + \\frac { \\theta _ { 1 } } { K } \\right) \\| U _ { j ^ { * } } \\|\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "which is equivalent to ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu = \\frac { ( r - \\beta \\| U _ { j ^ { * } } \\| e ) ( K + \\theta _ { 1 } ) - \\theta _ { 1 } ( r - \\beta \\| U _ { j ^ { * } } \\| e ) } { ( K + \\theta _ { 1 } ) ( \\langle r , e \\rangle - n \\beta \\| U _ { j ^ { * } } \\| ) } \\left( 1 + \\frac { \\theta _ { 1 } } { K } \\right) \\| U _ { j ^ { * } } \\|\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "which is equivalent to ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu = \\frac { ( r - \\beta \\| U _ { j ^ { * } } \\| e ) K } { ( K + \\theta _ { 1 } ) ( \\langle r , e \\rangle - n \\beta \\| U _ { j ^ { * } } \\| ) } \\left( 1 + \\frac { \\theta _ { 1 } } { K } \\right) \\| U _ { j ^ { * } } \\|\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "which is equivalent to ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu = \\frac { r - \\beta \\| U _ { j ^ { * } } \\| e } { \\langle r , e \\rangle - n \\beta \\| U _ { j ^ { * } } \\| } \\| U _ { j ^ { * } } \\|\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Finally we got the weights of assets, ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw = \\frac { u } { \\| U _ { j ^ { * } } \\| } = \\frac { r - \\beta \\| U _ { j ^ { * } } \\| e } { \\langle r , e \\rangle - n \\beta \\| U _ { j ^ { * } } \\| }\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "where $\\beta$ is given by (24) ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "9 Conclusion ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we illustrated a method of solving a linear complementarity problem on the monotone extended second order cone. We have shown that the linear complementarity problem on the monotone extended second order cone can be converted to a mixed complementarity problem on the non-negative orthant and reduces the complexity of the original problem. We can determine a solution of the mixed complementarity problem by using the proposition about stationary points and F-B regularity. The connection between the linear complementarity problem on the monotone extended second order cone,and the mixed complementarity problem on the non-negative orthant is also useful for applications to portfolio optimisation. The method we illustrated works for both linear and non-linear complementarity problems. We expect that this scheme will also be useful for other applications of complementarity problems. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "References   \n[1] S.C.Billups, Algorithms for complementarity problems and generalized equations. 1995   \n[2] S. C. Billups and K.G. Murty. Complementarity problems. Journal of computational and Applied Mathematics,124(1-2):303-318, 2000.   \n[3] R. W. Cottle and G. B. Dantzig. Complementary pivot theory of mathematical programming. Technical report， STANFORD UNIV CA OPERATIONS RESEARCH HOUSE, 1967.   \n[4] T.De Luca,, F.Facchinei, and C.Kanzow， A semismooth equation approach to the solution of nonlinear complementarity problems. Mathematical prograMing, 75(3)， (1996) pp.407-439.   \n[5] F.Facchinei and J.S.Pang,Finite-Dimensional Variational Inequalities and Complementarity Problems,Volumes I and II. Springer, New York 2003   \n[6] O.P.Ferreira, Y.Gao, and S.Z.Németh, Reducing the projection onto the monotone extended second order cone to the pool-adjacent-violators algorithm (PAVA） of isotonic regression. Optimization, pp.1-15., 2022.   \n[7] O.Ferreira, and S. Z. Németh, How to project onto extended second order cones, Journal of Global optimization, 70(4)， 707-718.   \n[8] M. C. Ferris and J.-S. Pang. Engineering and economic applications of complementarity problems. Siam Review, 39(4):669-713, 1997.   \n[9] A.Fischer, A special newton-type optimization method. Optimization 24(3-4), (1992) 269-284   \n[10] A.Fischer, A newton-type method for positive-semidefinite linear complementarity problems. J. Optim. Theory Appl. 86(3), (1995) 585-608   \n[11] P. T. Harker and J.-S. Pang. Finite-dimensional variational inequality and nonlinear complementarity problems: a survey of theory， algorithms and applications. Mathematical programming, 48(1):161-220, 1990.   \n[12] Y.Gao, S.Z.Németh,and R.Sznajder, The Monotone Extended Second-Order Cone and Mixed Complementarity Problems. Journal of Optimization Theory and Applications, (2021) 1-27.   \n[13] A. Guyader, N. Jégou, A.B. NémethA geometrical approach to iterative isotone regression. Applied Mathematics and Computation, 227:359-369, 2014.   \n[14] G. Isac and A. Németh Isotone projection cones in hilbert-spaces and the complementarity-problem. BOLLETTINO DELLA UNIONE MATEMATICA ITALIANA, 4(4):773-802, 1990.   \n[15] H. Konno and H. Yamazaki. Mean-absolute deviation portfolio optimization model and its applications to tokyo stock market， Management Science., 37(5):519-531, 1991.   \n[16] H. Konno and T. Koshizuka. Mean-absolute deviation model. Iie Transactions., 37(10):893-900, 2005.   \n[17] H. Konno and T. Koshizuka. Mean-absolute deviation portfolio optimization model under transaction costs. Journal of the Operations Research Society of Japan.,42(4):422- 435,1999.   \n[18] W. Karush. Minima of functions of several variables with inequalities as side conditions. In Traces and Emergence of Nonlinear Programming， pages 217-245. Springer, 2014.   \n[19] H. Markowitz. Portfolio selection. The Journal of Finance, 7(1):77-91, 1952.   \n[20] A. B. Németh and S. Z. Németh, Lattice-like operations and isotone projection sets, Linear Algebra Appl., 439 (2013) 2815-2828.   \n[21] S. Z. Németh and L. Xiao, Linear complementarity problems on extended second order cones, J. Optim. Theory Appl.,176(2018) 269-288.   \n[22] S. Z. Németh and L. Xiao, Stochastic linear complementarity problems on extended second order cones, arXiv:1910.09814v2 (2019).   \n[23] S. Z. Németh, J. Xie and G. Zhang, Positive operators on extended second order cones, Math. Hungar., 160(2) (2020),390-404.   \n[24] S. Z. Németh and G. Zhang， Extended Lorentz cones and mixed complementarity problems, J. Glob. Optim. 62 (2015) 443-457.   \n[25] S. Z. Németh and G. Zhang, Extended Lorentz cones and variational inequalities on cylinders, J. Optim. Theory Appl.， 168 (2016) 756-768.   \n[26] H. Nishimura and E. A. Ok. Soluability of variational inequalities on Hilbert lattices. Mathematics of Operations Research, 37(4):608-625, 2012.   \n[27] R. Sznajder， The Lyapunov rank of extended second order cones, J. Global Optim., 66 (2016) 585-593.   \n[28] L. Xiao. Complementarity and Related Problems. arXiv:2108.07412 ， 2021. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 23
+    }
+]

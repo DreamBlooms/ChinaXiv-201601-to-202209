@@ -1,0 +1,678 @@
+[
+    {
+        "type": "text",
+        "text": "表达性写作应用于社会灾难时期心理救援的理论探讨",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "邱小燕」葛艳莹²胡超，4（1浙江邮电职业技术学院，浙江绍兴312366）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(东南大学法学院，南京 211189)(东南大学人文学院医学人文系，南京 211189，4东南",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "大学人文学院心理学教研室，南京211189)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 疫情等社会灾难时期，创伤经历者急剧增加，加之交通阻断，传统的心理救援很难及时应对大范围的灾民心理危机；而表达性写作便于心理学工作者大规模实施，且可通过电话、网络等远程通讯工具进行指导，治疗PTSD 等心理创伤，改善生理、心理健康。社会灾难时期表达性写作的机制复杂，涉及暴露脱敏、意义重建、自我抽离一自我调节、工作记忆优化和认知神经机制正常化；其疗效受到作者特质、干预时间和写作形式等潜在因素的影响。相应地，未来应结合本土社会文化因素，重视在线干预研究，探索表达性写作相关的认知神经机制，综合不同的生理、心理健康指标评估表达性写作的疗效。  \n关键词 表达性写作，写作治疗，情绪表达，心理健康，中国文化",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2020 年开年，新冠病毒疫情席卷中国，给社会带来极大的危害，很多人在疫情中遭受隔离，甚至丧失生命。Wang 等(2020)在对中国194个城市的1210 名受访者的调查中发现，$5 3 . 8 \\%$ 受访者认为疫情给自身的心理健康带来中度或重度影响，其中 $1 6 . 5 \\%$ 出现中度至重度的抑郁症状， $2 8 . 8 \\%$ 出现中度至重度的焦虑症状， $8 . 1 \\%$ 感到中度至重度的压力。心理问题的急剧增加给家庭和社会造成了极大的负担，社会迫切需要采取一种更加便捷、高效的心理干预措施来改善国民心理健康。以口头语言来表达内心情感一直被广泛应用于咨询和其他治疗实践中；而以书面语言表达的“写作治疗”——即“表达性写作(expressive writing,EW)”,又被称为“情感表露”等——对身心健康和幸福感有积极疗效(Tarragona,2019)。与以来访者口头表达为基础的传统心理治疗相比，EW有几个优势：（1）最大程度保护来访者的隐私；（2）作者有更强的自我控制感—一个人的表露深度和水平由作者自己把握；（3）更加经济，治疗师的介入更少，可通过电话、网络等进行群体指导；（4）更有利于治疗师根据文本的内容、特征，追踪研究其作用机制。总之，EW适应性强，既可以作为独立的治疗也可以整合于传统心理治疗中。因此，本文探讨EW应用于中国本土社会灾难时期的可行性及影响因素。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1中国本土EW发展史",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中国本土的写作治疗寓于宗教、文学、艺术等活动，有一个漫长的过去，但作为实证心理学的研究范式却只有短暂的历史。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1中国写作疗愈史",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中国写作疗愈历史，可以追溯到远古时代。史前社会中的萨满、巫医等法术性仪式是社会遭遇各种危机时的治疗手段。《楚辞》中记载了中国古代神秘仪式对个人和社会的安抚作用，巫师在巫术活动中以唱诵词或者抒情歌满足人们的心理治愈需求。这种形式在流传过程中不断发展，形成了更为丰富的文学语言形式。比如在古代文献中，有大量关于“以医运文”理念的记载。《管子·内业》曾言“之怒莫如诗”，陶渊明说“夫导达意气，其惟文乎”，钟嵘在《诗品序》中说：“穷贱易安，幽居靡闷，莫尚于诗”，这些都是关于文学创作疗愈功能的例证。1988年，我国人类学者叶舒宪发表了两篇文章——《文学治疗的原理及实践》和《文学与治疗—一关于文学功能的人类学研究》，标志着“文学治疗”这一概念被明确提出。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2中国写作治疗应用研究的时代性",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近半个多世纪以来，中国经济社会的快速发展为深入开展中国本土写作治疗的心理学实证研究提供了契机。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "改革开放以来，中国人的情绪发生了显著的变化：负面情绪显著增加，而积极情绪变化不显著，特别是青少年的焦虑、抑郁等负性情绪持续上升（蔡华俭等，2020）。针对这一现象，国内学者开展了一系列EW应用研究。在学生群体EW干预研究(王永，王振宏，2011；钱君，周详，2012；徐影影，闻素霞，2014；张小聪等，2015；张东，骆方，2016等）中发现：EW对学生情绪改善、幸福感提升、考试焦虑减少、学业成绩有积极影响。生理疾病群体EW干预研究有：乳腺癌患者（张倚玮等，2016；刘少华等，2017；柯键，欧阳艳琼，2017）、妊娠期糖尿病患者（石晓等，2016）、不孕症抑郁患者（石馨等，2017）和甲状腺癌患者（高婕等，2020）等，结果发现：EW在一定程度上改善了患者的身心健康。臧寅垠将写作暴露疗法（WET）和正念疗法应用于中国PTSD 患者，以开发适合东方文化的 PTSD 治疗方案(Li等,2021)。但是以上研究的样本规模较小，未来可以在保证足够统计效力的基础上，通过大样本实验来进行重复验证，以应对当前心理学实证研究中可重复危机的挑战，并进一步检验EW等写作治疗形式在社会灾难时期、当代中国文化环境中的应用效果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "蔡华俭等（2020）回顾了半个多世纪以来中国人心理和行为变化的研究，勾画出中国人文化价值观变化的趋势：与现代社会相适应的个体主义价值日益盛行；传统社会所强调的集体主义价值日渐衰弱。不过，重大自然和社会灾难事件可能影响群体价值观，许燕等（2008）研究发现：汶川大地震后，北京、四川两地大学生的实用型价值观有所削弱，社会型价值观占据主导。因此，在疫情等社会灾难时期，需要进一步探索灾区的社会文化价值观变化，以开发最适合当地灾民的EW范式。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2EW范式起源",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "虽然中国写作疗愈有悠久的历史，但EW最早成为实证心理学的研究范式是在美国。上世纪80年代，Pennebaker在研究中发现，许多学生都有性创伤经历，并且那些从未与人谈论过该创伤的人最有可能出现各种健康问题，于是他们开始思考并开发了EW范式以帮助这些隐藏秘密的人暴露性创伤经历，从而干预其心理问题(Pennebaker,2018)。在Pennebaker和 Beal(1986)的第一个实证研究中，大学生被随机分配到四个小组：“创伤情绪组”需要写下其对痛苦经历的感受，而不用提及创伤经历的任何细节；“创伤事实组”需要写下创伤经历的事实，而不用提及任何感受；“创伤整合组”需要写下其对痛苦经历的最深刻感受以及创伤经历的事实；控制组写无关主题，比如详细描述他们所在的房间或他们的鞋子。结果显示：创伤整合组与控制组相比，在写作后的六个月里，去健康中心的次数显著减少。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过写作，个体将创伤情绪和认知结合起来，获得对自身情绪和创伤事件的洞察力，从而改善其长期的身心健康。Pennebaker认为，表达性写作的关键是：写作者公开承认并接纳他们自身的情绪，自由地表达他们压抑着的感受，因此Pennebaker在指导语中特别强调写作者“放手去写，不用担心拼写、语法和句子结构”。此后，Pennebaker又将创伤事件写作扩展到一般情绪事件或某一特定经历的写作。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3社会灾难时期EW的潜在疗效",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "社会灾难时期，EW在创伤后应激障碍（PTSD）、创伤后成长等方面有显著疗效，而在身体健康、抑郁症状上是否有显著效应仍需更多实证研究的检验。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1身体健康",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "相比健康人群，EW对身体疾病人群的疗效可能更显著。EW对多种疾病患者的生理健康都有积极影响(Tarragona,2019)，比如哮喘、类风湿性关节炎患者症状的改善；肾移植患者、乳腺癌患者生活质量的提高；癌症患者症状好转、疼痛缓解，睡眠质量的提高；心脏病患者用药减少；高血压患者血压降低等。吴琼等（2018）对国内外乳腺癌患者创伤后应激反应的EW干预效果的元分析显示，EW 可以缓解患者的躯体症状，如头痛、胃痛、胸痛、肌肉疼痛等。但以上研究针对的都是临床人群，在没有严重身体疾病的成年人群体中，则未发现EW 的显著疗效(Niles 等,2014)，其中可能存在“天花板效应”：身体症状较轻者从EW 中获益的空间有限。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "疫情、地震、山火等可能直接给灾民带来不同程度的身体损伤，例如：Lam(2009)的研究发现，SARS 幸存者的慢性疲劳显著增加；Chew 等(2020)调查了疫情期间医务人员身体症状，最常见的是头痛（ $32 . 3 \\%$ ）。那么，相较于非灾难时期，灾难时期的EW是否对个体的身体健康有更显著的积极作用呢？在丧亲人群EW干预效果的元分析中，未发现EW 可以改善丧亲者的躯体健康(李洁，缪潇羽，2019)，因此，未来的研究还需进一步检验写作者的身体健康基线水平与EW疗效之间的关系，并探究两者之间的中介变量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2心理健康",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "社会灾难时期，EW对PTSD症状的缓解、压力感知的减少、创伤后成长等可能有帮助。研究表明：EW 显著增强了门诊PTSD 患者的心理韧性、减少其抑郁症状、压力感知和反刍(Glass 等,2019)；EW促进了遭受山火的孕妇和受孕前妇女的创伤后成长，增强其适应力和情感联系(Bremault-Phillips 等,2020)；EW 显著减少了受疫情影响人群的压力感知、抑郁症状，提高其创伤后成长水平(Bechard 等,2021)。不过，一项一般人群的EW元分析表明：对没有PTSD症状，而仅感知到不同程度压力的身体健康的成年人来说，EW对其抑郁症状减少的长期疗效并不显著 (Reinhold 等,2018)。未来需要有更多的研究探索社会灾难时期，EW对抑郁症状的减少是否有稳定的长期疗效。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4社会灾难时期EW的作用机制",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "社会灾难时期，EW的作用机制是复杂的、多维的，涉及暴露脱敏、意义重建、自我抽离-自我调节、工作记忆优化等心理过程，以及认知神经机制的正常化。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1暴露脱敏",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "暴露脱敏是EW缓解灾民消极情绪的重要机制。重复地暴露于创伤刺激下会使条件反射性的应激和情绪反应消退(Foa&Kozak,1986)。Sloan等 (2005)的研究表明：有创伤史或至少有中度PTSD应激反应的大学生，在EW 中反复写作同一创伤事件比写作不同的创伤事件更有助于减少其躯体和心理症状。因此，EW中个体重复提取创伤记忆、尤其是具体的细节，可能是使恐惧等消极情绪消退的重要机制。同时，有研究表明：“战争”、“杀手”、“战斗”、“无形的威胁”等富有感染力的词语和图像有助于增加人们在定义危险时的消极情绪表露(wald,2008)。因此，未来研究可以在EW 指导语中加入创伤图片或者引导患者使用更多视觉化的语言以促进消极情感的表露，以达到暴露脱敏的目的，最终增强EW的疗效。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2意义重建 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "重建创伤事件的意义是EW中必不可少的部分，可能是EW在灾民中产生长期积极心理作用的重要机制。Bucci(1997,2001)的多重编码理论认为：人类有三个表征系统，非语言符号系统中的亚符号系统（如感觉、身体经验和行为模式等）和符号系统（如图像、画面等意象），以及语言符号系统（文字和言语），这三个系统通过双向的指称过程(referentialprocess,RP)相互连接，以表达和处理情感信息。当RP被特定的内部冲突或创伤事件打断时，情绪图式中的亚符号系统与非语言符号系统、语言符号系统间的联系就会中断，这时，通过对创伤事件的叙述，个体获得特定的记忆或意象，从而将身体感觉、行为模式与特定的创伤记忆联系起来；进而通过对事件情感意义的构建，将抽象的意义与具体的事件联系起来，重建非语言符号系统与语言符号系统之间的联系，从而使强烈的、不可陈述的情绪体验产生意义—一这对于心理治疗至关重要。Pennebaker等通过词汇分析发现，因果关系词（如，“because”,“cause”,“effect\"等）和洞察力词汇（“consider”,“know\"等）使用的增加可以正向预测 EW 疗效(Pennebaker,1993)。Negri等(2020)用计算机语言程序分析意大利疫情最严重地区人们的写作内容后发现：写作时投入的情感越多、写作者描述创伤就越生动、具体，也越能够反思创伤情感意义，即RP水平与反思重组之间存在正相关。EW的意义重建机制与智慧治疗（wisdom therapy）的机制有相似之处。柏林智慧范式训练使创伤后情感障碍（PTED）患者对人生困境的理解更加明智（更多元、广阔的视角，对人生根本事实的理解以及不确定性的接受等），其症状分数（SCL90）相比于传统治疗方案组有显著下降(Linden 等,2011)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "但是东西方的文化差异、中英文的语言差异，可能使西方文化、英文语境中反复实践的EW 不一定能有效地推广到中国本土环境中。比如，西方文学的基石—一希腊文学中最具有代表性的《荷马史诗》以叙事为主；而中国文学的源头《诗经》、《离骚》则以抒情为主，重在内心情感的抒发。因此，对中文写作，应更深入地研究作品的情感表现力、感染力、思想深度等内在因素与EW疗效的关系。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3自我抽离-自我调节 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "EW 能够帮助灾民从一个更大的心理距离去调节自我的情绪和认知过程。心理距离是自我与某人、某事、某物之间的认知分离程度，包括五个维度：时间距离、空间距离、社会距离、假设距离和信息距离(Seigiu,2014)。通常情况下，个体很难认识自身的问题是因为他们与问题融合在一起。Park等(2016)通过两个纵向实验研究发现，在干预后的第2天，写作组比控制组的自我疏远程度更高，从而导致他们在干预后的一个月（实验一和实验二）和六个月（实验二）的随访中，情绪反应更少，并且随着时间的推移，写作组使用因果关系词越来越多，使用负面情绪词和第一人称单数词越来越少，这表明，写作可以促进自我疏远，通过写作，将“现在作为叙述者的自我”与“过去作为主角的自我”分离开来，从一个远离自我的角度来思考问题，减少情绪反应，进而减少躯体症状。Rodriguez等(2021)在对疫情隔离期间伴侣冲突的EW干预研究中发现，与控制组相比，参与者从一个中立的第三方角度（使用认知重评技术）叙述与伴侣的冲突后，报告与伴侣的观点分歧更少，相互攻击的行为和冲突也更少。因此，未来可以进一步从心理距离的不同维度来检验EW疗效。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.4工作记忆优化",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "工作记忆（working memory,WM）是一个容量有限的认知加工系统，社会灾难时期复杂、不确定的信息可能会干扰WM的正常工作，而EW通过整理碎片化的信息优化WM功能。Ramirez 和Beilock(2011)于 Science上报告的研究发现：重要考试前进行10 分钟的EW，可以减少焦虑对工作记忆的干扰，提高易焦虑学生的考试成绩。首先，压力事件记忆带有强烈的情绪，当出现相似的内部或外部刺激时，创伤记忆网络就会被激活，因此，压力事件往往伴随着思想、情感和行为的反复入侵(Brewin 等 1996;Horowitz,2011)，而压抑这些侵入性思想会消耗WM资源(Klein,2002)。其次，每一次有意识的压抑又会产生一个新的的想法，从而在侵入性记忆与其他认知之间建立许多冗余联系，这一过程加剧了WM资源消耗，同时导致记忆碎片可及性进一步增强(Wegner等,1996)。最后，为了促进创伤恢复，个体需要对新的创伤信息进行加工以整合到原有的图式中，或者需要修改原有的图式以适应新的创伤信息(Foa&Kozak,1986;Creamer 等,1992)。因此，通过写作，使得创伤充分暴露，减少抑制行为，再将碎片化的信息整合到连贯的叙事中，用统一的“组块”代替分散的信息，从而减少了WM资源的消耗。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.5认知神经机制的正常化",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "社会灾难时期强烈的情感体验所牵涉的杏仁核等情感中枢的高度激活会干扰海马体的活动，影响个体对事件时空背景线索的加工，使得灾民在事件过去很久以后仍然感觉创伤经历就像最近发生一样，甚至出现“闪回”等PTSD症状；而通过EW可以形成完整、连贯的自传体叙事，重建事件的时空结构。Brewin 等(1996)的双重加工模型将创伤记忆分为语言可及记忆（VAMs，又称为自传体记忆）和自动情境线索可及记忆（SAMs）。自传体记忆嵌入在丰富的时空背景中，有助于增强自我意识，它对海马体的损伤尤其敏感(Rekkas &Constable,2005)；而自动情境线索可及记忆涉及创伤中特定情绪（主要是恐惧）的生理和行为反应等，它与杏仁核密切相关。Akiki等(2017)采用高分辨率磁共振成像技术的研究发现：较严重PTSD 患者的右侧海马体前半部与右侧杏仁核背侧区 （对应中央内侧杏仁核)出现凹陷，且这些形变与患者的情绪唤醒和再体验症状有关。Robjant 和Fazel(2010)认为，海马体功能减退使得时空信息无法整合到记忆中，导致个体叙事困难，换言之，背景信息缺失导致个体的自传体记忆破裂，使得个体无法脱离当前的威胁困境，创伤记忆不断“闪回”，从而导致更严重的心理障碍。因此，EW的目标是在自动情境线索可及记忆被激活时加强自传体记忆的编码，及时定位事件，将创伤性事件记忆“放回”到自传体叙事原有的时空结构中，使得过去的创伤真正过去，而不是永远“还在昨天”。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5社会灾难时期EW疗效的潜在影响因素",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由于EW研究中的实际效果不同，进一步探索灾难时期EW最有益的潜在条件很有必要。目前发现影响疗效的因素包括：作者特质、干预时间、写作形式等。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.1作者特质 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "灾民的个体特质（如情绪表达矛盾，情绪调节能力）、身体、心理健康基线水平等因素可能影响EW的疗效。Niles等(2014)的研究评估了健康成年人中EW疗效的调节因素，包括情绪表达，情绪处理和情绪表达矛盾，结果发现，情绪表达能力对焦虑有显著的调节作用表达性高的写作者在三个月后的随访中焦虑显著减少，表达性低的写作者焦虑显著增加，可能当写作干预与个体自然应对方式相一致时会产生更好的疗效。Negri等(2020)在疫情期间的EW研究也发现：在直面死亡的情况下，有的被试仅写作1\\~2次，健康状况就得到了很大的改善；而情绪调节困难的被试，因为太痛苦而无法顺利完成写作。这表明：个体的情绪调节能力会影响EW的实施和疗效，情绪调节能力低的写作者较难从EW中获益。Procaccia(2021)在对新冠疫情期间意大利医务人员的EW干预研究中发现：症状基线分数较高的参与者在写作后心理痛苦减少较多，而症状基线分数较低的参与者在写作后社会支持和心理韧性提高较大。因此，未来还需要进一步探究个体的情绪处理方式，身体、心理健康水平等特质在EW疗效中的调节作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.2干预时间",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从灾难发生到灾民接受EW干预之间的时间长度也会影响EW疗效。Kacewicz等(2007)分析了911恐怖袭击事件前后2个月内近1100名网络用户的博客，结果发现：发帖频率在恐怖袭击发生两周后才急剧上升。Kacewicz认为：个体的心理防御机制，诸如否认、抽离、分散、疏远等，可能在突发事件结束后的几个小时或者几天之后才会正常运作。因此，研究者建议：临床医生至少等到创伤事件结束1\\~2个月后或者病人反复思考创伤事件时再进行EW 干预。但是，以上研究针对的是单一创伤，有比较明确的结束时间，而某些社会灾难——比如新冠疫情一一是一种持续性的复杂创伤，起伏大，波及范围广，其结束时间难以确定。因此，对经历持续性复杂创伤人群进行EW的干预时间，需要治疗师根据个体遭受灾难的具体时间与受影响程度而定。未来研究可以比较在遭受灾害影响后的不同时间段内（比如，受灾害影响的6个月后或6个月内）进行EW干预的疗效。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.3写作形式",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在写作形式上，影响EW疗效的因素包括写作主题和写作视角。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.3.1写作主题",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "不同写作主题可能会影响EW疗效。VukcevicMarkovic等(2020)的研究发现：受疫情影响的灾民在完成传统的Pennebaker式EW后，压力感知反而增加；和控制组相比，抑郁、焦虑和幸福感也没有显著差异。Bechard 等(2021)采用基于积极心理学的心理韧性建设技术的写作干预课程，写作主题包括：Pennebaker 范式的创伤情感暴露，以及新的视角，对自我和他人的感恩、宽恕，自我优势、未来的希望和探索经验教训等—一旨在帮助写作者从疫情的消极情绪表达转变为对疫情生活的洞察和自我成长的关注一一结果显示，写作者的心理韧性和创伤后成长均有显著提高，压力感知和抑郁症状均有显著减少。因此，面对复杂、持久的社会灾难，单纯的情感表露写作可能不够充分，还需要更多积极心理学的主题写作来扩展视角，发现自我优势，找到人生新的希望。另外，Tsai等(2015)考察了文化机制对EW 的影响，结果显示：自我提升内容写作（向上社会比较和困难坚持）可以减少亚裔美国人的焦虑和抑郁症状，而自我强化内容写作（向下社会比较和情境归因）则增加了他们的焦虑和抑郁症状；而欧裔美国人则相反。这说明写作主题应结合作者的文化价值观：与其文化协调的主题写作可以促进心理功能改善，而与其文化不协调的主题写作可能会阻碍心理功能改善。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.3.2写作视角",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "不同人称视角写作的具体效用可能不同。Seih等(2011)发现：不管是实验一中的单一视角（第一人称、第二人称或第三人称）写作还是实验二中的切换视角（如，从第一人称转到第二人称再转到第三人称）写作，第一人称写作均比第三人称写作使用了更多的认知词，这表明在叙述消极情绪体验时，第一人称视角写作能最大程度提高认知加工深度。但是实验二中每个视角的写作只有一次，今后可以尝试从一个视角进行多次写作后再转换其它视角。Giovanetti 等(2019)也发现，第一人称视角写作组比第三人称视角写作组报告了更少的抑郁症状，第三人称视角写作组甚至比控制组报告了更多的抑郁症状。但是，Pennebaker在他的《词语的秘密生活》(2011)一书中指出，抑郁的人往往比不抑郁的人更频繁地使用代词我（“I\"）。Verduyn 等(2012)的研究也发现，在对消极事件进行反思时，自我沉浸（第一人称）视角组与自我疏远（第三人称）视角组相比，消极情绪持续时间更长。Dorfman 等(2019)发现，针对人际冲突事件进行第三人称视角写作可以增加积极情绪，而第一人称视角写作则没有显著效应。因此，在创伤事件的写作干预中，可能要根据不同的写作阶段（如：情感暴露vs.认知重评和整合）来调整写作视角（第一人称vs第三人称），以获得更好的疗效。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "6未来研究展望",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "目前已有的社会灾难时期EW研究主要存在三个不足：适用于灾难时期的在线写作研究较少；认知神经机制的探究欠缺；EW在不同因变量上的效应存在差异。因此，未来研究需要从以下三个方面做进一步探究。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "6.1网络化的EW研究",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "社会灾难时期的网络化EW可能是未来研究的重点。社会灾难时期，创伤经历者急剧增加，导致心理专业人员严重不足(Zang 等,2013)，加之交通阻断，在这种情况下，通过网络写作可以更广泛地为偏远地区社会经济地位较低的灾民或者因疫情而隔离的民众提供心理救援服务。目前研究者开展了少量灾难时期在线写作干预的研究，显示出一定的疗效，如Negri等(2020)，Bechard 等(2021)，Rodriguez 等(2021)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "随着互联网技术的发展，传统的书写方式正逐渐被社交网络（如facebook、twittr、微博、微信等）所取代，社交网络为写作者提供了表露自我、分享自我的机会(Ruini&Mortara,2021)。Sloan 等(2015)设计的网络结构化写作包括：第一阶段，PTSD 患者详细描述创伤事件的感受和想法；第二阶段，重点对创伤进行认知重评；第三阶段，与关系亲密的人分享创伤细节，且以上每一次写作，治疗师都会做出反馈。但是，在大规模实施网络写作的过程中，也要考虑分享的安全性范围。如果写作者不愿意分享，可以通过匿名、密码设置等方式保护其隐私，如，Park 等(2021)创建了一个机器人聊天助手(diarybot)，在确保隐私的前提卜鼓励写作，并为自我反思提供指导。因此，未来的研究需要探索网络化写作如何影响心理治疗的实施和发展。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "6.2探究EW治愈力的认知神经机制",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "目前结合认知神经科学技术开展的EW研究相对较少。Wang等(2015)首次检验了认知重评EW的神经电不对称性FAA（Frontal alpha asymmetry），结果发现：干预后认知重评EW 组的FAA显著低于无关写作组；而重新暴露于压力下时，认知重评EW组比无关写作组的FAA显著更高。Schroder等(2018)的研究发现：EW组的错误相关负电位（错误发生后立即引起的事件相关电位，往往与个体的焦虑水平正相关）比控制组更小。未来研究可以尝试采用无线脑电、近红外脑成像等相对不干扰写作的新技术，探索伴随EW过程的认知神经活动，以深入理解其改善生理、心理症状的认知神经机制。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "6.3EW干预疗效的综合评估 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "未来研究应结合不同的心理、生理指标对社会灾难时期EW的干预疗效进行综合评估。评估EW 疗效的心理指标包括消极症状（如：PTSD症状、抑郁、焦虑、压力感知等）与积极心理因素（如：心理幸福感、社会支持等）；生理指标包括主观的身体健康报告和客观的生理功能指标、就医次数、健康行为的变化等。目前已开展的疫情期间EW干预研究结果不一，有的减少了灾民的PTSD 症状、抑郁症状(Procaccia 等,2021)；有的减少了受疫情影响的伴侣的人际冲突(Rodriguez等,2021)；有的提高了灾民的心理韧性，减少了压力感知和抑郁症状(Bechard 等,2021)；但也有研究发现EW增加了灾民的压力感知(VukcevicMarkovic等,2020)；或者未能提高受疫情影响大学生的心理幸福感 (Sari& Saleh,2021)。Park 等(2016)研究发现，EW促进自我疏远，减少情绪反应，进而减少了身体症状。Chew 等(2020)研究发现：疫情期间，医护人员身体症状与心理症状之间存在显著相关。因此，未来还可以进一步探究EW干预后，写作者的心理症状与身体症状之间的关系。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "7总结 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "EW 作为一种经济、高效、便于通过网络大范围推广，且相对安全的心理治疗方案，在社会灾难时期具有极大的应用潜力，值得研究者深入探索。虽然目前已有大量实证研究表明EW 对生理、心理健康有显著疗效，但也有一些研究在某些人群、某些症状上发现不同的结果。鉴于EW机制的复杂性，在实施过程中应根据不同群体的生理和心理特征，“量身定制”写作方案，考虑写作者的人格特质、文化价值观、心理发展阶段等潜在影响因素，探索适应于不同群体的表达方式，更好地将EW应用到社会灾难时期的心理救援工作中。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "蔡华俭，黄梓航，林莉，张明杨，王潇欧，朱慧珺，敬一鸣.(2020).半个多世纪来中国人的心理与行为变化一一心理学视野下的研究.心理科学进展(10),1599-1618.  \n高婕，王欣，孙丽媛，王舒朗.(2020).表达性写作在首次诊断为甲状腺癌患者中的应用研究.护士进修杂志,35(05),468-472.  \n柯键，欧阳艳琼.(2017).书写表达对乳腺癌患者健康结局影响的 Meta分析.护理学杂志,32(16),96-99.  \n李洁，缪潇羽.(2019).表达性写作在丧亲人群中的应用进展.中国临床心理学杂志,27(03), 638-643. https://doi.0rg/10.16128/j.cnki.1005-3611.2019.03.043  \n刘少华，强万敏，沈傲梅，陈育红.(2017).书写表达对改善化疗期乳腺癌患者益处发现水平、抑郁情绪、睡眠质量的效果.中国护理管理,17(09),1181-1185.  \n钱君，周详.(2012).结构式写作应对高中生心理压力源的干预研究.中国健康心理学杂志,20(02),318-320. https://doi.0rg/10.13342/j.cnki.cjhp.2012.02.044  \n石晓，邵卫，刘晓.(2016).书写表达对妊娠期糖尿病患者心理弹性及自我效能的影响.护理学杂志,31(20),4-6.  \n石馨，蔡立柏，赵金珠.(2017).书写表达在降低不孕症抑郁患者中的效果研究.临床医学研究与实践，2(07)，168-169+189.https://doi.0rg/10.19347/j.cnki.2096-1413.201707085  \n干永，王振宏.(2011).书写表达积极情绪对幸福感和应对方式的效用.中国临床",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "心理学杂志,19(1),130-132.htps://doi.org/10.16128/j.cnki.1005-3611.2011.01.005 吴琼，李玉丽，陈莉军，张苹.(2018).表达性写作对乳腺癌患者创伤后应激反 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "应干预效果的Meta分析.解放军护理杂志,35(16),8-15.许燕，王芳，贾慧悦.(2008).5·12地震灾后四川和北京大学生价值观类型的对比.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "心理学探新(04),46-50.  \n徐影影，闻素霞.(2014).表达性写作对抑郁、焦虑负性情绪的干预研究.科教文汇(下旬刊)，08,207-208.  \n张东，骆方.(2016).使用表达性写作降低高中生考试焦虑的实验研究.中国特殊教育，02,92-96.  \n张倚玮，季丽丽，卢国华.(2016).书写表达对乳腺癌患者心理影响的研究进展",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "中华护理杂志(01),94-97.张小聪，张环，董云英，周仁来.(2015).书写表达对考试高焦虑大学生CET-6考试成绩的影响.中国特殊教育，03,92-96.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Akiki, T. J., Averill, C.L., Wrocklage, K. M., Schweinsburg, B., Scott, J. C., Martini, B., Averill, L. A., Southwick, S. M., Krystal, J. H., & Abdallah, C. G. (2017). The association of PTSD symptom severity with localized hippocampus and amygdala abnormalities. Chronic stress, 1, 247054701772406. https://doi.0rg/10.1177/2470547017724069 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Bechard, E., Evans, J., Cho, E., Lin, Y., Kozhumam, A., Jones, J., Grob, S., & Glass, O.(2021). Feasibility, acceptability, and potential effectiveness of an online expressive writing intervention for COvID-19 resilience. Complementary therapies in clinical practice, 45, 101460. https://doi.0rg/10.1016/j.ctcp.2021.101460 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Brewin, C. R., Dalgleish, T.，& Joseph,S. (1996). A dual representation theory of posttraumatic stress disorder. Psychological review, 103(4), 670. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Brémault-Phillips，S.，Pike，A.，Olson，J.，Severson，E.，& Olson，D. (2020). Expressive writing for wildfire-affected pregnant women: Themesof challenge and resilience. International journal of disaster risk reduction, 50, 101730. https://doi.org/10.1016/j.ijdrr.2020.101730 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Bucci, W. (1997). Symptoms and symbols: A multiple code theory of Somatization. Psychoanalytic inquiry, 17(2), 151-172. https://doi.0rg/10.1080/07351699709534117 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Bucci, W. (2o01). Pathways of emotional communication. Psychoanalytic inquiry, 21(1), 40-70. https://doi.0rg/10.1080/07351692109348923 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Chew, N. W. S., Lee, G. K. H., Tan, B. Y. Q., Jing, M., Goh, Y., Ngiam, N. J. H., Yeo, L. L.L., Ahmad, A., Ahmed Khan, F., Napolean Shanmugam, G., Sharma, A. K., Komalkumar, R. N., Meenakshi, P. V., Shah, K., Patel, B., Chan, B.P. L., Sunny， S.，Chandra， B.，Ong，J. J. Y.， ... Sharma， V. K. (2020). A multinational, multicentre study on the psychological outcomes and associated physical symptoms amongst healthcare workers during COVID-19 outbreak. Brain, behavior, and immunity, 88, 559-565. https://doi.0rg/10.1016/j.bbi.2020.04.049 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Creamer, M.，Burgess,P.,& Pattison， P. (1992). Reaction to trauma: a cognitive processing model.Journal of abnormal psychology, 101(3)， 452.Sunny, S., Chandra，B.，Ong，J. J. Y.，... Sharma，V. K. (202O). A multinational, multicentre study on the psychological outcomes and associated physical symptoms amongst healthcare workers during COVID-19 outbreak. Brain, behavior, and immunity, 88, 559-565. https://doi.0rg/10.1016/j.bbi.2020.04.049 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Dorfman， A.， Oakes,H.， Santos,H. C.，& Grossmann， I. (2019). Self-distancing promotes positive emotional change after adversity: Evidence from a microlongitudinal field experiment. Journal of Personality. https://doi.org/10.1111/jopy.12534 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Foa,E.B.，& Kozak,M. J.(1986). Emotional processing of fear: Exposure to corrective information. Psychological bulletin, 99(1), 201 35.https://doi.0rg/10.1037/0033-2909.99.1.20 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Giovanetti， A. K.， Revord, Ju. C.， Sasso， M. P.，& Haeffel, G. J. (2019). Selfdistancing may be harmful: Third-person writing increases levels of depressive symptoms compared to traditional expressive writing and no Writing. Journal of social and clinical psychology, 38(1), 50-69. https://doi.0rg/10.1521/jscp.2019.38.1.50 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Glass, O., Dreusicke, M., Evans,J., Bechard, E., & Wolever, R. Q. (2019). Expressive writing to improve resilience to trauma: A clinical feasibility trial. Complementary therapies in clinical practice, 34, 240-246. https://doi.0rg/10.1016/j.ctcp.2018.12.005 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Horowitz, M. J. (2011). Stress response syndromes: PTSD, grief, adjustment, and dissociative disorders (5th ed, pp.l1-12). Lanham， MD: Janson Aronson Publisher, Inc. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Kacewicz， E.， Slatcher, R.B.， Pennebaker, J.W. (2007). Expressive Writing: AnAlternative to Traditional Methods\\*. In: L'Abate，L. (Eds.)， Low-CostApproaches to Promote Physical and Mental Health(pp.271-284). New York:Springer. https://doi.0rg/10.1007/0-387-36899-X_13",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Klein, K. (2002). Stress, expressive writing, and working memory. In S. J. Lepore & J. M. Smyth (Eds.), The writing cure: How expressive writing promotes health and emotionalwell-being (pp.135-155). Washington, DC: American Psychological Association. https://doi.org/10.1037/10451-007 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Lam,M. H.-B. (2009). Mental morbidities and chronic fatigue in severe acute respiratory syndrome survivors: Long-term follow-up. Archives of internal medicine, 169(22), 2142. https://doi.0rg/10.1001/archinternmed.2009.384 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Li, M., Wang, B., Chen, Q., Gao, D., & Zang, Y. (2021). Written exposure therapy and app-delivered mindfulness-based meditation for PTSD and subthreshold PTSD in China: Design of a randomized controlled trial. Contemporary Clinical Trials Communications, 22, 100729. https://doi.0rg/10.1016/j.c0nctc.2021.100729 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Linden, M., Baumann, K., Lieberei, B., Lorenz, C., & Rotter, M. (2011). Treatment of posttraumatic embitterment disorder with cognitive behaviour therapy based onwisdom psychology and hedonia strategies. Psychotherapy and psychos0matics, 80(4), 199-205. https://doi.0rg/10.1159/000321580 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Negri, A., Andreoli, G., Barazzetti, A., Zamin, C., & Christian, C. (2020). Linguistic markers of the emotion elaboration surrounding the confinement period in the ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Italian Epicenter of COVID-19 outbreak. Frontiers in psychology, 11, 568281. https://doi.0rg/10.3389/fpsyg.2020.568281 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Niles,A. N. (2014). Randomized controlled trial of expressive writing for psychological and physical health: The moderating role of emotional expressivity. Anxiety, Stress, & Coping, 27(1), 1- 17.https://doi.0rg/10.1080/10615806.2013.802308 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Park, J.,Ayduk, O., & Kross, E. (2016). Stepping back to move forward: Expressive writing promotes self-distancing. Emotion, 16(3), 349-364. https://doi.org/10.1037/emo0000121 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Park, S., Thieme, A., Han, J., Lee, S., Rhee, W., & Suh, B. (2021). “I wrote as if I were telling a story to someone I knew.\": Designing chatbot interactions for expressive writing in mental health. Designing interactive systems conference 2021, 926-941. https://doi.0rg/10.1145/3461778.3462143 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Pennebaker, J. W. (2011). The secret life of pronouns: What our words say about us (1st U.S. ed, pp.122-124). London, WC:Bloomsbury Press. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Pennebaker, J. W. (1993). Putting stress into words: Health, linguistic, and therapeutic implications.Behaviourresearch and therapy, 31(6), 539-548. https://doi.0rg/10.1016/0005-7967(93)90105-4 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Pennebaker, J. W. (2018). Expressive writing in psychological science. Perspectives on psychological science, 13(2), 226-229. https://doi.0rg/10.1177/1745691617707315 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Pennebaker, J. W., & Beall, S. K. (1986). Confronting a traumatic event: Toward an understanding of inhibition and disease. Journal of abnormal psychology, ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "95(3),274-281. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Procaccia, R. (2021). Benefits of expressive writing on healthcare workers' psychological adjustment during the COVID-19 pandemic. Frontiersin psychology, 12, 10. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Ramirez, G.， & Beilock, S.L. (2011). Writing about testing worries boosts exam performance inthe classroom. Science, 331(6014), 211-213. https://doi.org/10.1126/science.1199427 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Reinhold, M., Bürkner, P.-C., & Holling, H. (2018). Effects of expressive writing on depressive symptoms—A meta-analysis. Clinical psychology: Science and practice, 25(1), e12224. https://doi.0rg/10.1111/cpsp.12224 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Rekkas, P. V.，& Constable,R. T. (2005). Evidence that autobiographic memory retrieval does not become independent of the hippocampus: An fMRI study contrasting very recent with remote events. Journal of cognitive neuroscience, 17(12), 1950-1961. https://doi.0rg/10.1162/089892905775008652 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Robjant, K.，& Fazel, M. (201o). The emerging evidence for narrative exposure therapy: A review. Clinical psychology review, 30(8)， 1030-1039. https://doi.0rg/10.1016/j.cpr.2010.07.004 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Rodriguez, L. M., Stewart, S. H.， & Neighbors, C. (2021). Effects of a brief webbasedinterpersonalconflictcognitivereappraisalexpressive-writing intervention on changes in romantic conflict during COVID-19 quarantine. Couple and family psychology: Research and practice， 10(3)， 212-222. https://doi.0rg/10.1037/cfp0000173 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Ruini, C., & Mortara, C. C. (2021). Writing technique across psychotherapies—From traditional expressive writing to new positive psychology interventions: A narrative review. Journal of contemporary psychotherapy. https://doi.0rg/10.1007/s10879-021-09520-9 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Sari,R.，& Saleh， M. N. I. (2021,January). Improving mental well-being of undergraduate students during COVID-19 pandemic: Proceedings of the 4th international conference on sustainable innovation 2O2O-Social, humanity, and education (ICoSIHESS 2020). Yogyakarta, Indonesia. https://doi.0rg/10.2991/assehr.k.210120.110 ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Schroder, H. S., Moran, T. P.,& Moser, J. S. (2018). The effect of expressive writing on the error-related negativity among individuals with chronic worry. Psychophysiology, 55(2), e12990. https://doi.org/10.1111/psyp.12990 ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Seih, Y.-T., Chung, C. K., & Pennebaker, J. W. (2011). Experimental manipulations of perspective taking and perspective switching in expressive writing. Cognition & Emotion, 25(5), 926-938. https://doi.0rg/10.1080/02699931.2010.512123 ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Sergiu Baltatescu.(2014).Psychological Distance. In_Michalos, A. C. (Eds). Encyclopedia of quality of life and well-being research. Springer Netherlands. (pp.5145). Netherlands ;Springer.   \nSloan,D.M.,Marx,B.P.,& Epstein,E. M. (2005). Further Examination of the Exposure Model Underlying the Efficacy of Written Emotional Disclosure. Journal of Consultingand Clinical Psychology， 73(3)， 549-554. https://doi.0rg/10.1037/0022-006X.73.3.549   \nSloan, D. M., Sawyer, A. T., Lowmaster, S.E., Wernick, J., & Marx, B. P. (2015). ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Efficacy of narrative writing as an intervention for PTSD: Does the evidence support its use? Journal of contemporary psychotherapy, 45(4)， 215-225. https://doi.0rg/10.1007/s10879-014-9292-x ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Tarragona, M. (2O19). Personal narratives, expressive writing and well-being. In C. R. Snyder, S. J. Lopez, L. M. Edwards,& S. C. Marques (Eds)，The Oxford Handbook of Positive Psychology(3rd Ed, pp.892-907). New York， NY: Oxford University Press. https://doi.0rg/10.1093/oxfordhb/9780199396511.013.52 ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Tsai, W., Lau, A. S., Niles, A. N., Coello, J., Lieberman, M. D., Ko, A. C., Hur, C., & Stanton,A.L. (2015). Ethnicity moderates the outcomes of self-enhancement and self-improvement themes in expressive writing. Cultural diversity and ethnic minority psychology, 21(4), 584-592. https://doi.0rg/10.1037/cdp0000012 ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Verduyn,P.， Van Mechelen, I.，Kross, E., Chezzi, C., & Van Bever, F. (2012). The relationship between self-distancing and the duration of negative and positive emotional experiences in daily life. Emotion, 12(6), 1248. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Vukcevic Markovic, M., Bjekic, J.,& Priebe, S.(2020).Effectiveness of expressive writing in the reduction of psychological distress during the COVID-19 pandemic: A randomized controlled trial. Frontiers in psychology, 11, 587282. https://doi.0rg/10.3389/fpsyg.2020.587282 ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Wald, P. (2o08). Contagious: Cultures, carriers, and the outbreak narrative(pp.23- 28).Durham, NC: Duke University Press. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Wang, C., Pan, R., Wan, X., Tan, Y., Xu,L., Ho, C. S., & Ho, R. C. (202O). Immediate psychological responses and associated factors during the Initial stage of the 2019 coronavirus disease (COVID-19) epidemic among the general population in China. International journal of environmental research and public health, 17(5), 1729. https://doi.0rg/10.3390/ijerph17051729 ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Wang,F., Wang, C., Yin, Q., Wang, K., Li, D., Mao, M., Zhu, C., & Huang, Y. (2015). Reappraisal writing relieves social anxiety and may be accompanied by changes in frontal alpha asymmetry. Frontiers in psychology， 6, 1604. https://doi.0rg/10.3389/fpsyg.2015.01604 ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Wegner, D. M.，Quillian, F.，& Houston, C. E.(1996). Memories Out of Order: Thought Suppression and the Disturbance of Sequence Memory. Journal of Personality and Social Psychology, 71(4), 680. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Zang,Y.， Hunt, N., & Cox, T. (2013).A randomised controlled pilot study: The effectiveness of narrative exposure therapy with adult survivors of the Sichuan earthquake. BMC Psychiatry, 13(1), 41. https://doi.org/10.1186/1471-244X",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "13-41 ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "A Theoretical Study on the Application of Expressive Writing to Psychological Rescue in   \nSocial Disasters   \nQIU Xiaoya1, GE Yanying², HU Chao³   \n('Zhejiang Post and Telecommunication College, Shaoxing 312366, China)   \n(School of Law, Southeast University, Nanjing 21l189, China)   \n(Department of Medical Humanities, School of Humanities, Southeast University, Nanjing   \n21189, China， 4Psychological Research & Education Center, School of Humanities,   \nSoutheast University, Nanjing 211189, China) ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Social disasters, such as epidemics, bring with them a rapidly increasing number of trauma survivors. Coupled with trafc interruption, it can be challenging for traditional psychological rescue to quickly respond to a wide range of victims of psychological crises. Expressive writing can be easily adopted by psychological workers on a large scale, providing guidance via phones, networks and other telecommunication tools and helping to treat psychological traumas, such as posttraumatic stress disorder (PTSD), thereby improving the physical and psychological health. During social disasters, expressive writing shows a complex mechanism, involving exposure desensitization, meaning reconstruction, self-extraction-selfregulation, working memory optimization and normalization of cognitive neural mechanisms. Besides,some factors can potentially affect its curative effect, such as the personality traits of participants, time of intervention and manners of writing. Therefore, more attention should be paid to local social and cultural factors, and more online intervention studies should be conducted in the future. In addition, the cognitive and neural mechanism related to expressive writing should be investigated, and its curative effect should be assessed by employing different physical and psychological indicators. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Keywords: expressive writing, writing therapy, emotional expression, mental health, Chinese culture ",
+        "page_idx": 21
+    }
+]

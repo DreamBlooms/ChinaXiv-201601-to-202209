@@ -1,0 +1,493 @@
+[
+    {
+        "type": "text",
+        "text": "提孜那甫河流域地表太阳辐射估算及其影响因素分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张淑花¹，李新功²，李奇虎¹，王默涵³(1.西安科技大学测绘科学与技术学院,陕西 西安710054；2.中国科学院新疆生态与地理研究所荒漠与绿洲生态国家重点实验室,新疆 乌鲁木齐 830011；3.河北省地质调查院,河北 石家庄050081)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：地表太阳辐射是地球表层主要能量来源，对地表能量平衡、能量交换以及生态水文过程等具有决定性意义。山区地形复杂，其地表太阳辐射时空差异较大且较难估算。采用适用于山区的地表太阳辐射模型对西北昆仑山提孜那甫河流域地表太阳辐射时空分布进行了估算，分析了该流域季节太阳辐射空间分布规律并探讨了地形和云2个重要因素对太阳辐射空间分布的影响。结果表明：(1）地形因子中周围地形阻挡即地形开阔度(Sky view factor,SVF)与年总太阳辐射的关系最为显著，太阳辐射随SVF增加而增加。(2)年总太阳辐射随着高程增加首先减少，再而随之增加。探究SVF随高程的变化，发现其与太阳辐射随高程的变化趋势较为一致，因此在山区复杂地形下地表太阳辐射估算中仅利用高程对其校正存在明显不足，需综合考虑地形效应。(3)研究计算了季节云出现频率空间分布与太阳辐射空间分布的相关系数，结果表明夏季太阳辐射受云影响较其他季节显著。定量分析了地形因子以及云对地表太阳辐射空间分布影响的贡献率，周围地形阻挡SVF对地表太阳辐射空间分布的影响最大，高程和云次之。因此综合考虑地形和云对太阳辐射的影响在山区太阳辐射模拟中是非常必要的,研究可为山区地表太阳辐射模拟提供理论依据，并为山区生态水文过程研究提供方法支撑。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：山地；太阳辐射；云；地形",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "我国是一个多山国家，山地面积占国土面积的$2 / 3 ^ { [ 1 ] }$ 。山地系统具有生物资源丰富、高山区冰雪资源丰富、系统内部受扰动较少等特点，其对气候变化和人类活动的响应更为敏感。因此，山区地表参量时空分布估算对于气候变化研究、自然灾害评估与预警、生态水文过程研究以及生态服务功能评价等具有重要的意义[2-3]。地表太阳辐射是地球表层的主要能量来源，其对地表能量平衡、能量交换、生态过程、水文循环以及天气气候过程具有决定性的意义[4-9]。山地系统因显著的地形效应,使其地表辐射过程不同于平地。受云、气溶胶以及地形等影响，山地地表太阳辐射呈现较大的时空差异性，其估算较平地更困难。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "太阳辐射经过大气到达地表过程，受气溶胶、水汽、 $\\mathrm { C O } _ { 2 }$ 等气体的吸收或散射而衰减，其中云对太阳辐射的衰减最为显著。到达地表的太阳辐射则因地形起伏而重新分配，因此复杂地形下地表太阳辐射在空间上呈现较强的异质性。目前可用于模拟山区地表太阳辐射的模型中3D辐射传输模型为理论模型，具有完善的物理机制因此精度较高，但其计算效率较低且需要输入高精度数据，因此在实际应用中具有一定的局限性[10-13]。基于遥感及GIS的模型则有2类，第1类为混合模型，其给定大气和地面等输入数据，用辐射传输模型（如MODTRAN，6S)模拟平地太阳辐射并构建大气层顶辐亮度、大气及地面参数与平地太阳辐射之间的统计关系，进而用于估算平地太阳辐射，再分别对平地直接辐射和散射辐射做相应的地形校正，从而形成复杂地形下的太阳辐射模型[14-16]。第2类采用参数化方法，用如MODIS大气产品作为模型输入，利用相对简单的参数化方程模拟大气衰减过程，并用数字高程模型(DEM)做地形校正，从而计算山地的太阳辐射，随着遥感数据时空分辨率的不断提高，该类模型在大气衰减过程以及地形校正方面精度也不断提高[17-22]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以上模型所需输入数据较多，且模型结构复杂，计算效率相对较低。构建更简单的经验方程来估算山区地表太阳辐射有利于实际应用，如可以将经验模型耦合到生态水文模型中，进而提高山区生态水文过程参量计算精度。而构建经验方程前提是选择影响山区地表太阳辐射的主要因素。晴空下影响山区地表太阳辐射空间分布的因子为地形。而有云情况下云对地表太阳辐射同样有较大影响。多项研究表明地形和云是影响山区地表太阳辐射空间分布的2个主要因素[23-25]。目前较多研究集中于研究地形因子(高程、坡度、坡向及周围地形阻挡)对晴空太阳辐射空间分布的影响[26-27]。较少研究关注所有天气情况下地形和云对地表太阳辐射的影响，且缺少定量研究地形因子和云对地表太阳辐射空间分布影响的相对贡献率，因子贡献率的确定可为构建经验模型选择因子提供依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究利用作者提出的适用于复杂地形的太阳辐射模型ASSRM[22],模拟了昆仑山提孜那甫河流域太阳辐射时空分布。基于模拟结果，本研究分析了研究区太阳辐射在不同季节的空间分布，并探讨了太阳辐射与地形的关系，即太阳辐射在不同高程带以及不同坡度和坡向的变化规律以及太阳辐射与地形开阔度(Skyviewfactor,SVF)的变化规律及相关性。同时研究也分析了云对太阳辐射空间分布在不同季节的影响。研究最后利用地理探测器定量了SVF、高程、坡度、坡向以及云对地表太阳辐射空间分布影响的贡献率。研究可为构建山区地表太阳辐射估算模型提供理论依据，同时也可为山区气候、生态水文过程研究提供理论和数据方法支持。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区、数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "提孜那甫河流域是昆仑山叶尔羌流域的一个主要支流。流域面积为 $5 5 1 8 ~ \\mathrm { k m } ^ { 2 }$ ，平均高程为3605m。提孜那甫河流域地处亚欧大陆腹地的干旱荒漠地带，位于其南部和西部的昆仑山脉和喀喇昆仑山脉阻挡了季风进入。其北部地形则较为开阔，干燥的大陆气团和北冰洋寒冷气流能够进入，从而形成典型暖带大陆干旱气候(图1a)。流域内南部区域多高山，日照时数受地形阻挡以及天气情况等因素的影响，较北部的平原地区少 $5 \\% { \\sim } 3 0 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ASSRM模型所需驱动数据集有大气数据[气溶胶光学厚度(AOD）、水汽等丨、云相关参数(云光学",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9afadf05538cf8224c310d81adc1ac0d2893e73e72d9fab83e20af4ec6a319dd.jpg",
+        "img_caption": [
+            "注：MMK为莫木克站；KD为库地站;XHX为西合休站。",
+            "图1提孜那甫河流域概况与气象站点分布",
+            "Fig.1 Overview of the Tizinafu River Basin and the distribution of meteorological stations "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "厚度、云粒子有效半径、云高等)及地面参数(地表反照率等）。本研究利用MODIS大气以及云相关属性数据集作为模型输入数据，同时因部分大气数据有缺失值，因此利用MERRA-2相应数据进行插值。驱动模型所需数据如表1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "模型验证数据为在提孜那甫河流域架设的莫木克、库地、西合休3个自动气象站的观测数据[22]（图1b)。自动气象站可以观测气温、降水、风速以及太阳辐射等气象要素，记录时间间隔为 $1 0 ~ \\mathrm { m i n }$ 。数据采集时间为2012—2014年。自动气象站观测太阳辐射数据为总太阳辐射。3个自动气象站位于不同的海拔高度，同时每个站点周围地形阻挡情况也不同。这样的站点设置为评估模型的适用性提供了较好的参考。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1太阳辐射模型本文采用ASSRM模型估算研究区地表太阳辐射（直接辐射和散射辐射），该模型的突出特点是考虑山区地形和云对直接辐射和散射辐射的影响。模型用Skyshed（即Solaranalyst中的Viewshed（图2a)来刻画每个位置的地形阻挡，用Skyweightmap(图2b)来模拟晴空散射辐射在半球天空非均匀分布，用基于云高将遥感云光学属性重新投影获得的Skycloudmap(图2c)来模拟云在半球天空非均质分布及其对散射辐射影响。模型计算散射辐射时将 Sky weight map、Skyshed 以及Skycloudmap叠加从而模拟地形以及云对辐射影响的非均质过程(图2d)，模型的直接辐射则将太阳位置投影到Skyshed 和Skycloudmap 的叠加图中，计算在太阳光线方向上地形和云对直接辐射的影响。模型采用校正后的正弦插值函数将Terra和Aqua2个卫星过境时刻瞬时值升尺度到日太阳辐射。模型具体计算过程见参考文献[22」。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文模拟了研究区2012年6月一2014年12月的瞬时太阳辐射以及日太阳辐射，对比观测站点每$1 0 \\mathrm { m i n }$ 一次的太阳辐射观测值，模型对瞬时太阳辐射模拟总体表现较好，模拟值与观测值的相关系数在所有站点都大于 $) . 7 ( P { < } 0 . 0 1 \\dot { }$ ,Terra和Aqua过境时刻总体相对偏差为 $- 0 . 2 \\%$ 。但模型相对绝对偏差较大为 $2 5 . 7 9 \\%$ 。模型在西合休(XHX)和库地(KD)2个站点表现为高估，而莫木克(MMK)站点表现为低估。日尺度太阳辐射模型整体表现为高估，且相对偏差为 $1 . 4 3 \\%$ ，日尺度模拟结果与观测值的相关系数在所有站点都大于0.9，但相对绝对偏差为$1 7 . 0 2 \\%$ ,总体日尺度模型比瞬时模型表现好。通过对比已发表模型(BESS[15])以及降尺度后的再分析产品等[22],ASSRM模型总体精度较高，因此适用于复杂地形下山区太阳辐射估算，也是本研究选取此模型的主要原因。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "表1ASSRM模型输入数据集",
+            "Tab.1 Input datasets forASSRM model "
+        ],
+        "table_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/89f6a9a990c6577f1917455ed4bc89244c9100372b689eeb8436b25d351b84e0.jpg",
+        "img_caption": [
+            "图2ASSRM模型非均质散射辐射模块",
+            "Fig.2 Anisotropic diffuse radiation modules ofASSRM model "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.2地理探测器地理探测器方法是探测空间分异性及其影响因子的统计学方法[28]。该方法假设因变量与自变量空间分布趋势一致时，认为两者之间有统计关联性。判定自变量对因变量的空间分异解释力大小的度量为 $P _ { D , H }$ [28],表达式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { _ { D , H } } = 1 - \\frac { 1 } { n \\times \\sigma _ { H } ^ { 2 } } { \\sum _ { I = 1 } ^ { m } } n _ { { D , I } } \\times \\sigma _ { H _ { { D , I } } } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $P _ { D , H }$ 为影响因子 $D$ 对太阳辐射空间分布的影响力指标; $\\sigma _ { H } ^ { 2 }$ 为研究区太阳辐射的方差； $n$ 为研究区的样本数; $I { = } 1 , 2 , \\cdots , m$ 为变量的分类数； $n _ { D , I }$ 为影响因子 $D$ 在第 $I$ 类的样本数; $\\sigma _ { H _ { _ { D , I } } } ^ { 2 }$ 为影响因子 $D$ 的第 $I$ 类中太阳辐射的方差。其中， $P _ { D , H } \\in [ 0 , 1 ]$ ，$P _ { { D } , { H } } = 0$ 时,表示影响因子不影响太阳辐射的空间分布， $P _ { D , H }$ 值越大即该影响因子对太阳辐射空间分布的解释程度越大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1提孜那甫河流域山区地表太阳辐射时空分布",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了探究山区地表太阳辐射时空分布规律，本研究模拟了提孜那甫河流域2013年每日太阳辐射空间分布，并计算4个季节以及年总太阳辐射空间分布，结果如图3所示。从图中可以发现，春季和夏季太阳辐射明显高于秋季和冬季太阳辐射。在空间上，4个季节的太阳辐射在流域下游地形相对平坦的区域表现相对均质。而在中上游山区，地形起伏较大，地形变化复杂，太阳辐射空间异质性更强。年总太阳辐射以及4个季节太阳辐射均在流域中部呈现低值区，可能的原因为流域中部地形复杂，地形阻挡较多且地形复杂区云出现概率较大，云和地形显著减少到达地表太阳辐射。而在流域下游，虽然高程较低,但地形阻挡相对较少，可增加入射太阳辐射。在流域上游，高程增加，大气路径减小，因此同样可增加入射太阳辐射。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2地形对太阳辐射空间分布的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "山地太阳辐射呈现高时空异质性，其中主要原因为地形对太阳辐射的影响。因此本研究基于模",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9f1061d08e9e355bab34b1582d95abcf3ffd30ab604ff8ecf256b1906632aad4.jpg",
+        "img_caption": [
+            "图3研究区季节及年总太阳辐射空间分布",
+            "Fig.3Spatial distributions of seasonal and annual total solar radiation in the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "型模拟结果探究了地形与太阳辐射空间分布的关系。而地形因素包括地形自身阻挡和周围地形阻挡。本研究中地形自身阻挡选择从高程、坡度以及坡向3个角度分析其与太阳辐射的关系。研究区高程范围为 $1 4 8 8 { \\sim } 6 3 0 6 ~ \\mathrm { m }$ ,按 $5 0 0 \\mathrm { ~ m ~ }$ 间隔将其等分为9个区间。计算每个高程区段在整个流域的面积比例，发现 $2 5 0 0 { \\sim } 3 0 0 0 \\mathrm { ~ m }$ 高程范围所占比例最高（ $1 6 . 0 4 \\%$ )，其次为 $3 0 0 0 { \\sim } 3 5 0 0 \\ \\mathrm { m }$ 以及 $3 5 0 0 { \\sim } 4 0 0 0 \\ \\mathrm { m }$ 高程范围，流域高程最高处( $5 5 0 0 { \\sim } 6 3 0 6 ~ \\mathrm { m } ,$ 所占面积最小，所占比例仅为 $2 . 0 0 \\%$ 。坡度范围为 $0 \\sim$ $8 0 . 4 ^ { \\circ }$ ，同样根据间隔 $1 0 ^ { \\circ }$ 将其等分，共分为8个区间。研究区内 $3 0 ^ { \\circ } { \\sim } 4 0 ^ { \\circ }$ 坡度范围所占面积最多，其次为 $2 0 ^ { \\circ } { \\sim } 3 0 ^ { \\circ }$ 坡度范围,大于 $4 0 ^ { \\circ }$ 坡度的面积较少。而坡向划分则根据从北向东每 $2 2 . 5 ^ { \\circ }$ 为1个区间划分为9个区间段。研究区不同坡向的占比相差不大，面积占比最大的坡向为东向( $1 4 . 7 2 \\%$ )，占比最小的坡向为南向！ $( 1 0 . 2 0 \\%$ )。针对高程、坡度以及坡向的不同区间段，统计每个区间年总太阳辐射的均值及其标准差，结果如图 $4 \\mathrm { a } \\mathrm { \\sim } \\mathrm { c }$ 所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "高程影响太阳光线到达地面的路径长度。一般晴空下大气路径随高程增加而减少，因此海拔较高的地方，太阳辐射相对较高。而有云情况下，太阳辐射随高程的变化则较为复杂。如图4a所示，研究区年总太阳辐射随高程变化可以分为2段，在高程小于 $3 ~ \\mathrm { k m }$ 的区间段，太阳辐射随高程增加而减少，而在高程大于 $3 \\mathrm { k m }$ 的区间段，太阳辐射随高程增加而增加。转折点主要发生在 $3 . 0 { \\sim } 3 . 5 ~ \\mathrm { k m }$ 高程带内。其中可能的原因为，在小于 $3 \\mathrm { k m }$ 的低海拔地区（流域下游），虽然大气路径相对较大，但因海拔较低区域，地形平坦，地形阻挡相对在 $3 \\mathrm { k m }$ 区域较少，因此太阳辐射相对较多。 $3 \\mathrm { k m }$ 左右高程带内，地形随之复杂，地形阻挡随之增多，使得到达地表的太阳辐射有所减少。超过 $4 \\mathrm { k m }$ 海拔的高程带，随着海拔增加，虽然仍有地形阻挡作用，但因高程较高，地形阻挡相对 $3 \\mathrm { k m }$ 高程带有所减少，因此太阳辐射增加。同时在超过 $4 ~ \\mathrm { k m }$ 的高程带，随高程增加，大气路径减少，太阳辐射增加，因此超过 $4 \\mathrm { k m }$ 的高程带，随着海拔增加太阳辐射也呈现增加趋势。利用周围地形阻挡因子SVF与高程的变化趋势分析同样证明了以上推测(具体结果见本节第4段及图5b)。另外随着高程增加，大气抬升凝结高度随之变化，从而影响云的形成。因大气拾升凝结高度近似于云底高度，因此研究统计了云底高度随高程的变化，发现在高程小于 $3 . 5 \\ \\mathrm { k m }$ 区域，云底高度随高程增加而降低。 $3 . 0 { \\sim } 3 . 5 ~ \\mathrm { k m }$ 高程带云底平均高度为$7 . 6 3 ~ \\mathrm { k m }$ 低于在 $1 . 5 { \\sim } 3 . 0 ~ \\mathrm { k m }$ 高程带区域的平均云底高度 $1 0 . 8 5 ~ \\mathrm { k m }$ 。 $1 . 5 { \\sim } 3 . 0 ~ \\mathrm { k m }$ 高程带云属于高云，其对辐射的透过率相对更高，因此到达地表的太阳辐射较 $3 . 0 { \\sim } 3 . 5 ~ \\mathrm { k m }$ 区域高，这也是太阳辐射随高程变化在该区域发生转折的另一可能的原因。基于每个高程区间段太阳辐射的标准差的变化可以看出，随着高程增加，每个区间段太阳辐射标准差随之增加，说明地形复杂区域，太阳辐射空间差异性更大。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/11632d4abd4d6f5c4efc91817f66317f786e897275650cbd6ea6dee1dcd9447d.jpg",
+        "img_caption": [
+            "注：SVF为地形开阔度。下同。",
+            "图4年总太阳辐射随高程、坡度、坡向和地形开阔度的变化",
+            "Fig.4 Annual total solar radiation changes with elevation,slope,aspect and sky view factor "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "坡度和坡向代表了地形的自身阻挡。因此坡度较大以及北向区域所接受的太阳辐射相对较少。图4b为年总太阳辐射随坡度的变化，可以发现太阳辐射呈随坡度增加而减少趋势，而区段内太阳辐射标准差呈随坡度增加而增加的趋势。同样太阳辐射随坡向的变化(图4c)呈现南向区域年总太阳辐射大于北向区域，且东南区域大于西南区域。同时太阳辐射在每个区段内的标准差也呈现在北、东、西3个区域大于南向区域。基于以上2个变量与太阳辐射的关系分析可以发现，坡度较大且北向区域意味着存在地形自身阻挡，因此总体太阳辐射相对较小。而南向区域和坡度较小的区域由于地形阻挡相对较少，太阳辐射总体值较高，且空间异",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "质性较小。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了探究周围地形阻挡对地表太阳辐射空间分布的影响，本研究计算了研究区 $1 ~ \\mathrm { k m }$ 网格中心格点处的周围地形阻挡图Viewshed(参考Solar an-alyst[)进而计算其对应的SVF(即研究点对应半球天空中可见天空所占比例)。为了探究太阳辐射与SVF的关系，研究将SVF分为5个区间段，计算其每个区间段年总太阳辐射均值与标准差，结果如图4d所示。年总太阳辐射随SVF增加呈显著增加趋势，且太阳辐射标准差随SVF增加而减少。SVF大的区域意味着地形更开阔，周围地形阻挡较少，所接受到太阳辐射更多。同时SVF大的区域地形更平坦，因此太阳辐射空间差异较小。研究同时计算了SVF与地表太阳辐射空间分布的相关性，将SVF空间分布图与年总太阳辐射以及季节太阳辐射空间分布做相关分析，结果如图5a所示，年总太阳辐射空间分布与SVF的相关系数为0.56，表明周围地形阻挡显著影响地表太阳辐射空间分布。从不同季节相关系数可以看出，不同季节太阳辐射都显著受周围地形阻挡的影响，春季影响最大，冬季影响相对较小。本研究计算了不同高程区段内SVF的均值（图5b)，可以看到其变化趋势与太阳辐射随高程变化(图4a)具有一致性，说明太阳辐射不仅受高程的影响，更受周围地形阻挡的影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "总结太阳辐射空间分布与高程、坡度和坡向以及周围地形阻挡SVF的关系可以发现，高程影响太阳光线到达地表所经过的大气路径长度，但地形自身以及周围地形的阻挡同样影响太阳辐射空间分",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3bdb4e972d927027a1ac89ec08e709ce7ed73c7e73897afacb29bff4a9a3961e.jpg",
+        "img_caption": [
+            "图5不同时间尺度太阳辐射及高程与SVF的关系",
+            "Fig.5Relationship between SVF and solar radiation,and SVF changes with elevation "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "布，尤其周围地形的阻挡对太阳辐射空间分布的影响较为显著。因此，在未来山区太阳辐射模型构建过程中，需综合考虑高程、地形自身以及周围地形阻挡对太阳辐射空间分布的影响，",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3云对太阳辐射空间分布的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "云是影响太阳辐射衰减的主要因素。山区由于地形起伏，云出现的频率较高，尤其高山区，云出现的频率较平地更高，因此本研究首先统计了研究区每个季节云出现天数的空间分布，并计算季节云出现频率与相应季节地表太阳辐射空间分布相关系数，探究云对太阳辐射空间分布的影响。图6为研究区每个季节云出现天数空间分布图，从图中可以看出，冬季云出现的频率最大，且云出现频率较高的地方主要位于地形较为复杂的高山区域,其整体空间分布与地形具有一定的一致性。云在冬季出现的频率高可能是冬季模型模拟太阳辐射误差较大的原因。除了冬季，春季和夏季云出现的频率也相对较高，春季云出现的频率空间分布与地形也具有一致性，而夏季云较多的区域则位于中海拔且地形较为复杂的区域。秋季云出现的频率最少，因此“秋高气爽”是研究区秋季的特征。另外研究计算了ASSRM模型太阳辐射空间分布与云出现频率(季节内云出现天数/季节总天数)空间分布的相关系数：春季 $\\scriptstyle ( R ^ { 2 } = 0 . 1 8 , P < 0 . 0 5 )$ ，夏季 $( R ^ { 2 } { = } \\mathrm { - } 0 . 4 8 , P { < }$ 0.05），秋季 $\\left( R ^ { 2 } { = } 0 . 0 8 , P { < } 0 . 0 5 \\right)$ 以及冬季 $\\scriptstyle ( R ^ { 2 } = 0 . 0 7 , P <$ 0.05)。从以上结果可以看出，夏季太阳辐射空间分布受云的影响较大，其他季节云对太阳辐射空间分布的影响相对较小。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了进一步探究云对太阳辐射的影响，本研究利用不考虑云对辐射衰减过程但考虑地形阻挡作用的Kumar模型5与本研究所用ASSRM模型（该模型既考虑地形阻挡也考虑云对辐射的衰减)模拟结果进行对比，从而获得云对太阳辐射的影响。利用2个模型分别模拟了研究区2013年每日太阳辐射空间分布。首先计算2个模型差异，并统计模型差异在不同时间尺度的空间均值、标准差、最大值以及最小值。如不考虑云对太阳辐射的影响(Kumar模型5），日尺度太阳辐射高估约 $6 . 5 7 ~ \\mathrm { M J } \\cdot \\mathrm { m } ^ { - 2 }$ ,最大差异可达 $1 9 . 4 8 ~ \\mathrm { M J } \\cdot \\mathrm { m } ^ { - 2 }$ 。而在不同季节，2个模型在秋季的差异最小，这与云在秋季出现的频率最低保持一致。夏季的差异最大，可能的原因为云在夏季出现的频率相对较高同时夏季整体辐射水平较高。2个模型年总太阳辐射差异较大 $\\cdot 2 3 9 8 \\mathrm { \\ M J } \\cdot \\mathrm { m } ^ { - 2 } .$ ）， $\\mathrm { K u } .$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0d22d9536206fd335aa413fc577a8fbcce5c3e0d449900f1eae8a4799967756.jpg",
+        "img_caption": [
+            "图6季节云出现天数的空间分布",
+            "Fig.6Spatial distribution of seasonal cloud occurrence days "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "mar模型[5因未考虑云的辐射衰减过程，总体模拟结果显著高于ASSRM模型。图7为每个季节2个模型差异的空间分布（Kumar模型模拟值减去ASSRM模型模拟值)。可以发现春季、夏季和冬季2个模型的差异较大，而秋季差异最小，这与图6所示云在不同季节出现的频率的规律一致。研究计算了不同季节2个模型差异与云出现的频率的空间相关系数分别为：春季 $( R ^ { 2 } { = } { - } 0 . 2 6 , P { < } 0 . 0 5 )$ ，夏季 $( R ^ { 2 } { = } 0 . 4 0 , P { < }$ 0.05)，秋季 $( R ^ { 2 } { = } { - } 0 . 1 0 , P { < } 0 . 0 5 )$ 以及冬季 $( R ^ { 2 } { = } - 0 . 0 5$ ，$P { < } 0 . 0 5$ )。可见相对其他季节，夏季云对太阳辐射空间分布的影响更显著，",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4定量地形和云对太阳辐射空间分布的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为了进一步定量分析地形因子以及云对地表太阳辐射的影响，本研究尝试利用地理探测器从空间分异角度定量各因子对地表太阳辐射空间分布的影响。研究将年总太阳辐射作为因变量，其中高程、坡度、坡向、SVF以及云出现的频率作为自变量。因地理探测器所需自变量为分类变量，因此研究将所有自变量分为10类。利用地理探测器中的因子探测器探测每个影响因子的重要性，结果如图8所示。从图中可以看出，不同因子对地表太阳辐射空间分布影响的程度为SVF( $3 7 \\%$ )>高程 $( 2 6 \\% ) >$ 云 $( 1 2 \\% ) >$ 坡度 $( 1 1 \\% ) >$ 坡向 $( 0 . 8 \\% )$ )。SVF和高程影响太阳辐射空间分布的贡献率排在前两位，说明地形对太阳辐射空间分布的影响非常显著，尤其周围地形阻挡SVF是影响太阳辐射空间分布的主要因子。从年总太阳辐射与SVF空间分布的对比图（图9)，可以看出SVF与太阳辐射空间分布特征具有一定的相似性。流域下游地形相对开阔，SVF值较大，对应该区域太阳辐射值也较大。而在流域中部，地形变化较大，SVF在区域上变化较大，对应太阳辐射也有较大的变化。影响程度排在第三位的是云出现的频率，可见云不仅对太阳辐射有明显的衰减作用，对其空间分布的影响也非常显著。以上研究结果表明山区复杂地形下地表太阳辐射模拟中考虑高程、SVF以及云的辐射效应是必要的，是提高其模拟精度的有效手段。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/00179fa9e19fc7e608609d464ac2b139b6b1614aa5db03317216226d343bac55.jpg",
+        "img_caption": [
+            "注：模型差异为Kumar模型模拟值减去ASSRM模型模拟值。",
+            "图7不同季节Kumar模型与ASSRM模型模拟值差异的空间分布",
+            "Fig.7Spatial distributions of differences between Kumar model and ASSRM model in different seasons "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "山区地表太阳辐射呈现高时空异质性特征，其中地形和云是影响山区地表太阳辐射空间分布的2个主要因素。较多现有研究分析了地形因子中高程、坡度、坡向与太阳辐射的关系特征[26-27.29]。黄盼等29在川西地区的研究发现太阳辐射随坡度增加而增加，这与本文研究太阳辐射与坡度的关系基本一致。该研究同时探讨了高程与太阳辐射的关系，发现太阳辐射并不随高程上升而单调递增，这与本文研究发现基本一致。但其变化趋势与本文不同，可能的原因为研究区域不同，同时黄盼等29只针对晴空进行了相关研究，而本文是针对所有天气情况的研究结果。另外本文还研究了周围地形阻挡与太阳辐射的关系,发现其关系非常显著。Hoch等[27]利用地面观测数据研究了地形对太阳辐射的影响。其发现第一个重要的地形要素是周围地形阻挡，因为其可以影响直接辐射量，与本研究结果基本一致。但其没有定量不同地形因子对太阳辐射影响的贡献率。本文通过地理探测器定量不同因子对太阳辐射空间分布的影响，发现周围地形阻挡对太阳辐射空间分布的影响最大。该结果可为改进晴空山区太阳辐射模型提供参考。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/60879009137279ddcb063055c22aacb6357877cff57fd2a130de7dadc097f792.jpg",
+        "img_caption": [
+            "图8不同因子对地表太阳辐射空间分布影响的贡献率Fig.8 Contribution of different factors to spatial distributionof surface solar radiation"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/67a554daba151e81c6bb78bce366a446bbe855f2ee04fd0870cf665a1bf68a29.jpg",
+        "img_caption": [
+            "图9年总太阳辐射与SVF空间分布对比图",
+            "Fig.9 Comparison of spatial distributions of annual total solar radiation and SVF "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "以上现有研究主要针对晴空太阳辐射2，并没有研究云对山区太阳辐射空间分布的影响。而山区云出现的频率较高，本研究利用遥感云数据，通过比较考虑云的太阳辐射模型与晴空太阳辐射模型差异，以及云与太阳辐射空间分布关系，进一步探讨了云对太阳辐射空间分布的影响。同时本研究定量了地形因子和云对地表太阳辐射空间分布影响的相对贡献率，研究结果可为构建经验性所有天气情况下山区地表太阳辐射模型中因子选择提供参考依据。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本文采用适用于山区的地表太阳辐射模型对西北昆仑山提孜那甫河流域地表太阳辐射时空分布进行了估算，并探究了地形和云对山区太阳辐射空间分布的影响，主要研究结论如下：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（1）研究区春季和夏季太阳辐射高于秋季和冬季。在空间上，太阳辐射在流域下游地形相对平坦的区域4个季节都表现为相对均质，而在上游山区，地形起伏较多，地形变化复杂，太阳辐射空间异质性更强。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2）地形因子中，周围地形阻挡SVF与年总太阳辐射的关系最为显著，太阳辐射随SVF增加而增加。年总太阳辐射随着高程增加首先减少，再而随之增加。转折点主要发生在 $3 . 0 { \\sim } 3 . 5 ~ \\mathrm { k m }$ 高程带内。夏季太阳辐射空间分布受云的影响较大，其他季节云对太阳辐射空间分布的影响相对夏季较小。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（3）利用地理探测器定量分析了地形因子（高程、坡度、坡向以及周围地形阻挡SVF)以及云对地表太阳辐射空间分布的影响的相对贡献率，表明周围地形阻挡SVF对地表太阳辐射空间分布的影响最显著，高程和云次之。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "基于以上结论，本研究提出未来构建山区复杂地形地表太阳辐射估算经验模型时，首选的因子为SVF、高程以及云。同时在山区复杂地形下地表太阳辐射估算中仅利用高程对其地形校正存在明显不足，需考虑周围地形影响。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)   \n[1]王根绪,邓伟,杨燕,等.山地生态学的研究进展、重点领域与趋 势[J].山地学报,2011,29(2): 129-140.[Wang Genxu,Deng Wei, Yang Yan,et al.The advances,priority and developing trend of alpine ecology[J]. Journal of Mountain Science,2011,29(2): 129- 140.]   \n[2]李爱农,尹高飞,靳华安,等.山地地表生态参量遥感反演的理 论、方法与问题[J].遥感技术与应用,2016,31(1):1-11.[Li Ainong,Yin Gaofei,Jin Hua'an, et al.Principles and methods for the retrieval of biophysical variables in mountainous areas[J]. Remote Sensing Technology and Application,2016,31(1): 1-11.]   \n[3]李爱农,边金虎,张正健,等.山地遥感主要研究进展、发展机遇 与挑战[J].遥感学报,2016,20(5):1199-1215.[Li Ainong,Bian Jinhu, Zhang Zhengjian,etal.Progresses,opportunities,and challenges of mountain remote sensing research[J]. Journal of Remote Sensing,2016,20(5): 1199-1215.]   \n[4]Tian Y Q, Davies-colley RJ, Gong P,et al. Estimating solar radiation on slopes of arbitrary aspect[J]. Agricultural and Forest Meteorology,2001,109: 67-74.   \n[5]Kumar L.Effect of rounding off elevation values on the calculation of aspect and slope from a gridded digital elevation model[J]. Spatial Science,2013,58(1): 91-100.   \n[6]Fu P,Rich P M. Design and implementation of the solar analyst: An arcview extension for modeling solar radiation at landscape scales[C]//Proceedings of the $1 9 ^ { \\mathrm { u } }$ Annual ESRI User Conference. USA: San Diego, 1999.   \n[7]Marsh CB,Pomeory J,Spiteri RJ. Implications of mountain shading on calculating energy for snowmelt using unstructured triangular meshes[J]. Hydrological Processes,2012, 26: 1767-1778.   \n[8]张美玲,陈全功,蒋文兰.不同草地类型净初级生产力(NPP)模 拟及其敏感性分析[J].干旱区地理,2021,44(2):369-378. [Zhang Meiling, Chen Quangong,Jiang Wenlan. Simulation and sensitivity analysis of net primary productivity (NPP) of different grassland types[J]. Arid Land Geography,2021, 44(2): 369-378.]   \n[9]罗瑶,彭文甫,董永波,等.基于地理探测器下的川西高原地表 温度空间格局及影响因子分析——以西昌市为例[J].干旱区 地理,2021,43(3): 739-749.[Luo Yao,Peng Wengfu,Dong Yongbo,et al. Geographical exploration of the spatial pattern of the surface temperature and its influencing factors in western Sichuan Plateau: A case of Xichang City[J].Arid Land Geography,2021,43 (3): 739-749.]   \n[10]Mayer B.Radiative transfer in the cloudy atmosphere[J]. The European Physical Journal Conferences, 2009,1: 75-99.   \n[11]Chen Y,Hall A, Liou K N.Application of three-dimensional solar radiative transfer to mountains[J]. Journal of Geophysical Re",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "search Atmospheres, 2006,111(D21): 2156-2202.   \n[12] Liou K N, Lee W L, Hall A. Radiative transfer in mountains: Application to the Tibetan Plateau[J]. Geophysical Research Letters, 2007,34:L23809,doi: 10.1029/2007GL031762.   \n[13]Wissmeier U,Buras R,Mayer B.paNTICA:A fast 3D radiative transfer scheme to calculate surface solar irradiance for NWP and LES models[J].Journal of Applied Meteorologyand Climatology, 2013,52: 1698-1715.   \n[14]Wang TX, Yan G J, Mu X H,et al. Toward operational shortwave radiation modeling and retrieval over rugged terrain[J].Remote Sensing of Environment,2018,205:419-433.   \n[15]Ryu Y,Jiang C Y,Kobayashine H,et al. MODIS-derived global land products of shortwave radiation and diffuse and total photosynthetically active radiation at 5 km resolution from 2Ooo[J]. Remote Sensing of Environment,2018,204: 812-825.   \n[16]Letu HS,Yang K,Nakajima T,et al. High-resolution retrieval of cloud microphysical properties and surface solar radiation using Himawari-8/AHI next- generation geostationary satellite[J]. Remote Sensing of Environment，2020,239:111583,doi:10.1016/j. rse.2019.111583.   \n[17]Bisht G,Bras R L. Estimation of net radiation from the MODIS data under all sky conditions: Southern Great Plains case study[J]. Remote Sensing of Environment,2010,114:1522-1534.   \n[18]Van Laake PE, Sanchez-Azofeifa G A. Simplified atmospheric radiative transfer modelling for estimating incident PAR using MODIS atmosphere products[J]. Remote Sensing of Environment, 2004, 91(1): 98-113.   \n[19]Van Laake PE,Sanchez-Azofeifa G A. Mapping PAR using MODISatmosphere products[J]. Remote Sensing of Environment, 2005,94(4): 554-563.   \n[20]Roupioz L,Jia L,Nerry F,et al.Estimation of daily solar radiation budget at kilometer resolution over the Tibetan Plateau by integrating MODIS data products and a DEM[J]. Remote Sensing,2018, 8:504, doi: 10.3390/rs8060504.   \n[21]Houborg R,Soegaard H, Emmerich W,et al. Inferences of all-sky solar irradiance using Terra and Aqua MODIS satelite data[J]. International Journal of Remote Sensing,2007,28(20): 4509-4535.   \n[22] Zhang S H,Li X G,She JF,et al.Assimilating remote sensing data into GIS-based all sky solar radiation modeling for mountain terrain[J].Remote Sensing of Environment,2019,231:111239,doi: 10.1016/j.rse.2019.111239.   \n[23] Suri M, Hifuerka J.A new GIS-based solar radiation model and its application to photovoltaic assessments[J]. Transactions in GIS, 2004,8: 175-190.   \n[24]Huang G H, Li ZQ,Li X,et al. Estimating surface solar irradiance from satelites:Past, present,and future perspectives[J]. Remote ensing of Environment, 2019,233:111371,doi: 10.1016/j.rse.2019.111371.   \n[25]Letu H S,Shi JC,Li M,et al.A review of the estimation of downward surface shortwave radiation based on satellite data: Methods, progress and problems[J]. Science China Earth Sciences,2020, 63: 774-789.   \n[26]Essery R,Marks D. Scaling and parametrization of clear-sky solar radiation over complex topography[J]. Journal of Geographical Research,2007,112: D10122,doi:10.1029/2006JD007650.   \n[27]Hoch S W,Whiteman C D.Topographic effects on the surface radiation balance in and around Arizona's meteor crater[J]. Journal of Applied Meteorology and Climatology,2010,49:1114-1128.   \n[28] 王劲峰,徐成东.地理探测器:原理与展望[J].地理学报,2017, 72(1):116-134.[Wang Jinfeng,Xu Chendong. Geodetector: Principle and prospective[J].Acta Geographica Sinica,2017,72(1): 116-134.]   \n[29] 黄盼,赵伟,李爱农.川西山区太阳辐射估算及其时空分布特征 [J].山地学报,2017,35(3): 420-428.[Huang Pan, Zhao Wei,Li Ainong.Estimation of solar radiation and its spatio-temporal distribution characteristics in the mountainous area of western Sichuan [J]. Journal of Mountain Science,2017,35(3): 420-428.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Estimation of surface solar radiation and analysis of its influencing factors in the Tizinafu River Basin ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Shuhua'， LI Xingong²， LI Qihu'， WANG Mohan³   \n(1.ColegeofGeomatics,Xi'anUnversityofSienceandTechnology,Xi'an4,haani,Cina;2.StateKeyabortoryof   \nDesertandOasisEcology,Xinjiang InstituteofEcologyandGeograpyChineseAcademyofSciences,Urumqi830l1,Xinang, China; 3.Hebei Institute of Geological Survey,Shijiazhuang O5oo81,Hebei, China) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Solar radiation is the main energy for surface energy balance.It is more complex to calculate the solar radiation over mountain areas than flat areas because of the complex terrain.We calculate the solar radiation in space and time for the Tizinafu River Basin that located northwest of the Tibetan Plateau in China.The seasonal solar radiation in space was analyzed on the basis of the calculations and we also discussed how the terrain and cloud affect the spatial pattern of solar radiation in the study area.The results show that sky view factor (SVF) has a significant connection with solar radiation. We also found that the annual solar radiation decreased first and then increased with elevation-increasing.That solar radiation did not increase with elevation-increasing was caused by surounding terrain effect because the trend of the SVFand elevation change is similar to that of solar radiation and elevation change.As a result, the topographic effect with self-shading and surounding- shading should be considered in the calculation of solar radiation over complex terrin.In addition,the cloud frequency also had a significant connection with solar radiation in space.However,the contribution of elevation, slope, aspect, SVF,and cloud to solarradiation was evaluated and the results demonstrated that SVF,elevation,and cloud had asignificant eecton solar radiation.All these indicate that it is necessarytoconsider the integrated effect of terrain and cloud for solar radiation modeling over mountain terrain.This study provided more spatial and temporal details about surface solar radiation over mountain terrin and is important for solar radiation modeling and the study of ecohydrological processes. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Keywords:mountain area; solar radiation; cloud; terrain ",
+        "page_idx": 11
+    }
+]

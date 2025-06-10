@@ -1,0 +1,429 @@
+[
+    {
+        "type": "text",
+        "text": "2001—2015年间我国陆地植被覆盖度时空变化及驱动力分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵明伟1,2,3 3，王妮¹,2,3，施慧慧ʰ，江岭¹,2.3， 王春1,2,3（1滁州学院地理信息与旅游学院,安徽滁州239000；2安徽省地理信息集成应用协同创新中心,安徽滁州239000;3安徽省地理信息智能感知与服务工程实验室，安徽滁州239000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于MODIS-NDVI遥感数据反演计算了我国陆地2001—2015年地表植被覆盖度的空间分布,讨论了植被覆盖度的时空变化规律,分析了影响植被覆盖度近十几年来动态变化的主要驱动因素。研究结果表明：我国陆地植被覆盖度从2001—2015年，植被覆盖度总体上呈增加趋势，其中淮河流域、华北平原地区、以及黄土高原地区增加趋势显著。根据植被覆盖度在时间序列上的变化特征,可将其变化类型分为持续增长型、先减小后增长等六种类型,其中农业种植区基本为一直增长型,而主要森林覆盖区,特别是西南地区的植被覆盖度在研究时段内表现出波动性的变化特征。降水是驱动华北平原北部、内蒙古、以及西北大部分区域植被覆盖度动态变化的重要因素，东北、青藏高原等地区植被覆盖度受温度的影响较大，而在中国东南沿海地区，光照条件是影响该区域植被覆盖度的主要因素。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：植被覆盖度;时空变化;变化速率;驱动力文章编号： 1000 -6060(2019)02-0324-08(0324\\~0331)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "植被是地球生态系统中最活跃成员，可以反映地球生态环境的变化情况[1]。植被覆盖度是指单位面积内植被地上部分在地面的垂直投影面积占统计区总面积的百分比[2],是反映地表植被群落生长态势的重要指标和描述生态系统的重要基础数据。植被覆盖度不仅对区域生态系统环境变化有着重要指示作用[3],也是生态、水文和气候模型中的关键参数[4]。因此,在全球气候变化背景下,掌握陆地植被覆盖度年际间的变化规律，探讨气候因素的驱动作用，对评价陆地生态系统的环境质量、调节生态过程具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关于中国不同区域植被覆盖度的时空变化，前人已开展了一系列研究，陈效逑等[3」和穆少杰等[5]基于NDVI数据计算了内蒙古地区的植被覆盖度，并对其多年变化趋势及驱动力进行分析；刘宪锋等[]和郭敏杰等[7]对黄土高原地区的植被覆盖度的时空变化进行研究，着重研究了气候变化对该区域植被覆盖度的影响。张学珍等[8分析了中国东部地区不同土地覆盖类型卜的植被覆盖度的时空变化特征，其研究显示中国东部地区绝大部分地区进入21世纪后都是呈增加趋势。刘洋等[9]基于GIMMS-NDVI数据研究了1982—2013年我国新疆地区的植被覆盖度的时空变化特征;代希波等[ 针对我国北方农牧交错带的植被覆盖度多年变化特征进行研究，分析了影响该区域植被覆盖度变化的主要因素;赵舒怡等[1]基于 MODIS-NDVI数据计算了2001一2012年间我国华北地区的植被覆盖度，讨论了植被覆盖度与干旱指数的空间相关性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文以MODIS-NDVI为基本数据源，利用像元二分模型法计算了中国陆地区域植被覆盖度值，并对2001—2015年间的中国陆地植被覆盖度时空格局变化进行分析，特别对植被覆盖度在时间序列上的变化特征进行分类和分析，并分析了中国陆地植被覆盖度时空变化的主要驱动因素。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1资料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 像元二分模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "像元二分模型形式简单但具有一定的物理意义，特别适用于较大尺度上的植被覆盖度计算。其基本原理是认为每一个像元都是由土壤和植被组成，因此像元信息可以表示为由绿色植被成分所贡献的信息和由土壤成分所贡献的信息之和。混合像元的NDVI值为土壤和植被两部分植被指数的加权平均和,权重为每一部分在像元中所占的面积比例，可以用如下表达式表示：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN D V I = f _ { v e g } N D V I _ { v e g } + ( 1 - f _ { v e g } ) N D V I _ { s o i l }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $N D V I$ 为混合像元的植被指数值， $N D V I _ { v e g }$ 为纯植被像元的植被指数值， $N D V I _ { s o i l }$ 为纯土壤像元的植被指数值 $\\mathcal { f } _ { v e g }$ 为植被覆盖度。由此可以推导出植被覆盖度的计算公式：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { v e g } = ( N D V I - N D V I _ { s o i l } ) \\bigg / \\left( N D V I _ { v e g } - N D V I _ { s o i l } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $N D V I _ { s o i l }$ 代表纯土壤像元的NDVI值，其理论值应该为0,但是由于地表湿度、粗糙度、土壤类型、土壤颜色等方面的差异，该值会随着时间与空间位置的不同而变化，一般在 $- 0 . \\ 1 \\sim 0 . \\ 2$ 之间变化; $N D -$ $\\boldsymbol { V } \\boldsymbol { I } _ { v e g }$ 代表纯植被覆盖像元的最大值,其理论值应该为1，实际上植被类型的不同，植被生长季的变化等都会造成该值的变化。通过分析多年全国NDVI数据分布特征的基础上，同时为了比较多年在相同水平上的植被覆盖度的变化，在所研究时段内分别取0.005和0.95作为 $N D V I _ { s o i l }$ 和 $N D V I _ { v e g }$ 参数的值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究计算植被覆盖度所采用的数据是基于MODIS数据计算的NDVI数据在中国范围内的合成产品,数据来源网址为http：//www.gscloud.cn,下载的NDVI数据空间分辨率为 $5 0 0 \\mathrm { ~ m ~ }$ ,时间分辨率为月尺度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2植被覆盖度时空变化分析方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在植被覆盖度的时空变化分析中，一元线性回归关系常用来分析植被覆盖度在时间序列上的变化速率，计算公式为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta _ { s l o p e } \\ = \\ \\frac { n \\times \\displaystyle \\sum _ { i = 1 } ^ { n } i \\times C _ { i } \\ - \\ \\sum _ { i = 1 } ^ { n } i \\displaystyle \\sum _ { i = 1 } ^ { n } C _ { i } } { n \\times \\ \\displaystyle \\sum _ { i = 1 } ^ { n } i ^ { 2 } \\ - \\ \\big ( \\ \\sum _ { i = 1 } ^ { n } i \\big ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\theta _ { s l o p e }$ 为植被覆盖度在多年时间序列上变化趋势的斜率， $n$ 为时间序列的年数， $C _ { i }$ 为第 $\\mathbf { \\chi } _ { i }$ 年的植被覆盖度值。计算得到的斜率为正表示在研究时段内植被覆盖度呈上升趋势，反之则表示呈下降趋势。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上述植被覆盖度变化速率的计算是假设研究区域的植被覆盖度在研究时段内呈持续上升或下降趋势时才有较显著的意义。当时间序列较长时可能在部分区域的植被覆盖度会出现波动起伏变化的情况，此时基于式(3)计算的植被覆盖度变化速率无法反映植被覆盖度的变化特征。因此，本文对时间序列上植被覆盖度变化特征进行类型定义和分类，然后结合植被覆盖度变化速率分析其时空变化特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文将问题简化,对于2001—2015 年的植被覆盖度，首先按照每3个年份计算平均值，则研究区域的每个栅格单元在相邻两个时段，其植被覆盖度的关系可以表达为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { C _ { a v g \\_ i } > C _ { a v g \\_ i + 1 } } \\\\ & { C _ { a v g \\_ i } < C _ { a v g \\_ i + 1 } } \\\\ & { C _ { a v g \\_ i } \\approx C _ { a v g \\_ i + 1 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $C _ { a v g \\_ i }$ 表示第 $\\mathbf { \\chi } _ { i }$ 时段的植被覆盖度平均值,初步数据分析发现相邻两个时段植被覆盖度基本相等的情况非常少，因此只考虑前两种情况，即“大于”或“小于”。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将2001—2015年划分为5个时段，则其植被覆盖度的变化特征可用相邻的两个时段的植被覆盖度值之间的关系组合表示，因此共有 $2 ^ { 4 } = 1 6$ 种组合,再根据变化特征的相似性，将其综合为8类，再剔除面积比例低于 $3 \\%$ 的两类，最后分为6类，具体说明见图1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3植被覆盖度变化驱动力分析方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "气候要素是影响植被在地表分布的重要因素[12],而分析气候要素对植被覆盖度时空分布格局变化的驱动作用对预测未来情景下的植被覆盖度具有重要意义[13]。本研究选择年总降水量、年平均气温、年平均日照百分率3种气候要素分析其对植被覆盖度时空格局变化的驱动作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c941b3b85fd1d3563cd11c50e961ec9438117627a67a58afb6f3d5ca512ca24.jpg",
+        "img_caption": [
+            "图1植被覆盖度时间序列上的变化类型分类",
+            "Fig.1Classification of variation types of vegetation coverage in time series "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于所获取气候要素数据的限制，本部分研究时段定为2001—2010年，以中国气象数据共享网（http：//data.cma.cn/）的国家气象台站数据为数据源，分别统计每个站点上的年总降水量、年均气温以及年均日照百分率等，然后采用空间插值方法得到10a中3种气候要素在我国陆地的分布值。基于下式分别计算气候要素与植被覆盖度之间的相关系数：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR = \\frac { \\displaystyle \\sum _ { i + 1 } ^ { n } [ ( \\chi i - \\bar { x } ) ( \\chi i - \\bar { y } ) ] } { \\displaystyle \\sqrt { \\sum _ { i = 1 } ^ { n } ( \\chi i - \\bar { x } ) ^ { 2 } \\sum _ { i = 1 } ^ { n } ( \\chi i - \\bar { y } ) ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $R$ 为 $x \\ : , y$ 两变量的相关系数， $\\mathbf { \\Delta } _ { x i }$ 为第 $i$ 年的植被覆盖度， $y i$ 为第 $\\mathbf { \\chi } _ { i }$ 年的气候要素值， $\\bar { x }$ 为多年植被覆盖度的平均值， $\\bar { y }$ 为多年气候要素的平均值，i为样本数，即年份数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1植被覆盖度空间分布格局",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究计算了2001—2015共计15a的年尺度植被覆盖度值，为便于描述其时空分布变化，按照3个年份计算平均值的方式对15a的植被覆盖度进行综合。此外，根据陈效逑等[3」的研究，将植被覆盖度划分为5个级别,分别是极低覆盖度 $( f _ { g } \\leqslant 0 . 2 )$ 、低覆盖度 $( 0 . 2 < f _ { g } \\leqslant 0 . 4 )$ ）、中覆盖度 $( 0 . 4 < f _ { g } \\leqslant$ 0.6）高覆盖度 $( 0 . 6 < f _ { g } \\leqslant 0 . 8 )$ 和极高覆盖度 $( f _ { g } >$ 0.8），5个时段植被覆盖度分级后空间分布情况（图2)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图中看出，在5个分析时段，植被覆盖度处在极低级别的面积比例都是最大，主要是因为我国陆地存在面积较大的沙漠、戈壁等区域；低级别和中级别的植被覆盖度在5个时段内总体上呈下降趋势，而高级别和极高级别的植被覆盖度在5个时段内则呈波动式上升趋势，因此，总体体现我国在2001一2015年间植被覆盖度是增加的，表明我国持续的人工植树造林、退耕还林还草等生态工程带来的生态效益已经比较显著[14-16] O",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2植被覆盖度时空变化分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2001—2015年间我国陆地植被覆盖度变化速率的分级展示结果（图3）显示淮河流域、华北平原以及黄土高原等地区增加速率较高，年平均变化速率超过了0.01，气候变化、土地覆被变化、以及人类活动等综合因素造成了上述植被覆盖度的增加[17-19]。此外,与刘宪锋等研究结果类似,新疆天山、塔里木河流域、青海的东南部、甘肃的中东部等地区也呈现较高的增加速率[20]。在全国范围内,绝大数区域植被覆盖度的变化速率都为正值，结合我国土地利用类型图（图4），看出植被覆盖度在农田区域增加速率最高，其次是草地，林地地区增加速率最低，部分地区还出现了变化速率为负值的情况。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/81162566e72b98832a014e6ab50554b358191f0ccd75927cabae55356c0064d1.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图5显示，变化类型1（即增加型)占我国国土面积最大，我国大部分农田区，部分草地等植被覆盖度在近10余年中呈增加趋势。说明人类农业生产活动水平的提高使得农田区域植被覆盖度显著增加[21],特别在我国西北干旱少雨地区,由于人类引水灌溉等活动，部分区域的植被覆盖度也呈现增加趋势[22]；变化类型3、4以及变化类型5、6都可以看作是波动形式的变化，其中前者波动程度较低。内蒙古高原及西北部分地区植被覆盖度波动形式变化可能是该区域的年降水量的波动变化引起[23]。此外，不同土地利用类型之间的转换也会引起部分区域的植被覆盖度的波动式的变化[24]。森林覆盖区域的植被覆盖度主要呈波动形式变化(类型5和类型6），结合图4,进一步看出森林区域的植被覆盖度是呈波动性下降趋势。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3植被覆盖度时空变化驱动力分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图6为3种气候要素与植被覆盖度的相关系数在空间中的分布情况，可以看出，长江中下游平原、四川盆地、华北平原、东北平原、内蒙古及西北等地区的植被覆盖度与降水量呈正相关；结合我国主要土地利用类型分布图(图4），可进一步发现，草地区域的植被覆盖度与降水呈显著正相关关系，其次是农田，森林区域则呈一定程度的负相关。这与前人的相关研究结论类似[25],原因可能是森林地区涵养水源丰富，降水过多会降低温度及光照条件，从而导致植被覆盖度下降[26]",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/95cc17d6f74b2cb6e5c653d043c7b50f746f6cf4ce997e878d7470e2ccf4b81f.jpg",
+        "img_caption": [
+            "图3植被覆盖度多年变化速率空间分布 Fig.3Spatial distribution of annual rate of change of vegetation coverage "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f4dec7373a09790d2efa7bf17b32d24d849302f4f7e355d00582e26d699920b4.jpg",
+        "img_caption": [
+            "图4我国陆地主要土地利用分类图Fig.4Land use classification map in China"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/dde4457becbf383e5e2b558462ecc76bd642887d39f83c64a687e90ec36b8ad6.jpg",
+        "img_caption": [
+            "图5植被覆盖度变化类型在空间中的分布Fig.5Spatial distribution of variation types ofvegetation coverage"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "华北平原、黄土高原以及内蒙古中部等地区与气温呈显著负相关，而东北地区的林地以及青臧高原的草地区域与气温呈明显的正相关。造成这种差异的原因是高温会增加湿润地区的积温，因而能改善植被覆盖度，而对降雨较少的地区则会使干旱加剧,影响植被覆盖度[27],此外,温度升高使植被生长季提前，或者延长植被的生长周期，也会改善高纬度地区的植被覆盖度[28]。在长江中下游地区，气温与植被覆盖度呈负相关，出现这种现象的原因可能是该区域水热不同步，温度较高的时候降水较少,影响植被生长[29]。植被覆盖度与日照百分率的相关性在空间中的分布与气温类似，特别的，在我国东南、中南地区植被覆盖度与日照百分率呈较显著的正相关，这是因为这些地区水热条件充足，因而光照成为该区域植被生长状况的主要胁迫因子[30]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）我国陆地植被覆盖度在空间分布上呈阶梯状变化，具体表现为从东南沿海到西北内陆逐渐减小的趋势。从2001一2015年，植被覆盖度的空间分布在局部有变化，但是整体趋势差异不大。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2）近10余年，我国陆地植被覆盖度总体上呈增加趋势，其中淮河流域、华北平原，以及黄土高原地区的植被覆盖度增加趋势较为明显。青藏高原、内蒙古高原等地区的植被覆盖度变化很小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（3）基于10余年的时间序列分析，发现我国主要农业种植区的植被覆盖度呈现一直增长的趋势，而我国主要森林覆盖区，特别是西南地区的植被覆盖度在研究时段内表现出波动性的变化特征。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（4）通过分析植被覆盖度与年降水量、年均气温等气候变量的相关性，发现降水是影响华北、内蒙古以及西北内陆地区植被覆盖度变化的主要因素，气温是影响东北、青藏高原地区植被覆盖度变化的主要因素，而在东南沿海其植被覆盖度受日照的影响较大。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于MODIS-NDVI数据，本文反演计算了中国陆地范围内2001—2015年植被覆盖度，重点分析了我国陆地范围内植被覆盖度的时空变化特征。以往研究在分析植被覆盖度时间序列上变化时，一般只考虑其平均变化趋势，而在研究时段内的具体变化特征则无法分析。针对此问题，本文将植被覆盖度在时间序列上的变化分为一直增长型、先减小后增长型等6种类型，并对不同变化类型在空间中的分布，以及与土地利用类型的对应关系做了细致分析，基于此，可以大致看出近10余年我国陆地植被覆盖度的波动变化特征。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0b5ca860b15bacbb000cfe74b74a026a9c21fcca6570e9d3da66005615659a47.jpg",
+        "img_caption": [
+            "图6气候要素与植被覆盖度相关系数在 空间中的分布 Fig.6Spatial distribution ofCorrelation coefficient between climatic factors and vegetation coverage "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于地理现象、格局推演其变化特征,并预测其未来变化趋势，是地理学重要研究任务之一。本文在全国尺度讨论分析了降水、气温、日照等气候要素对植被覆盖度变化的驱动作用，基本明晰了我国大部分地区植被覆盖度变化的主要驱动力，在后续研究中，应当将时间序列变化类型这一研究思路引入到气候要素的时间序列变化研究中，并与植被覆盖度的时间序列做对比研究，进而更准确的推演植被覆盖度变化的驱动因素",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] PARMESAN C,YOHE G.A globally coherent fingerprint of climate change impacts across natural systems[J].Nature,2OO3,421 (6918) :37 -42.   \n[2] GITELSON A A,KAUFMAN YJ,STARK R,et al.Novel algorithms for remote estimation of vegetation fraction[J].Remote Sensing of Environment,2002,80(1） :76 -87. [3]陈效述，王恒.1982—2003 年内蒙古植被带和植被覆盖度的时 空变化[J].地理学报,2009,64（1）:84-94.[CHEN Xiaoqiu, WANG Heng. Spatial and temporal variations of vegetation belts and vegetation cover degrees in Inner Mongolia from 1982 to 2003 [J].Acta Geographica Sinica,2009,64（1）:84-94.] [4］满多清,吴春荣,徐先英,等.腾格里沙漠东南缘荒漠植被盖度 月变化特征及生态恢复[J].中国沙漠,2005,25（1)：140-   \n144.［MANDuoqing,WUChunrong,XU Xianying,et al.Monthly changing characteristics on desert vegetation coverage and eco-restoration in southeast fringe area of Tengger Desert[J]. Journal of Desert Research,2005,25（1):140－144.] [5] 穆少杰,李建龙，陈奕兆,等.2001—2010 年内蒙古植被覆盖度 时空变化特征[J].地理学报,2012,67（9)：1255-1268.［MU Shaojie,LI Jianlong,CHEN Yizhao,et al. Spatial differences of variations of vegetation coverage in Inner Mongolia during 2Oo1—2010 [J].Acta Geographica Sinica,2012,67(9):1255-1268.] [6] 刘宪锋,杨勇，任志远,等.2000—2009 年黄土高原地区植被覆 盖度时空变化[J].中国沙漠,2013,33（4)：1244-1249.［LIU Xianfeng,YANG Yong,REN Zhiyuan,etal.Change of vegetation coverage in the Loess Plateau in 2OOO—2OO9[J].Journal of Desert Research,2013,33（4) :1244-1249.] [7］郭敏杰，张亭亭，张建军,等.1982—2006 年黄土高原地区植被 覆盖度对气候变化的响应[J].水土保持研究，2014,21（5）：   \n35-40.[GUO Minjie,ZHANG Tingting,ZHANG Jianjun,et al. Response of vegetation coverage to climate change in the Loess Plateau in 1982—2006[J].Research of Soil and Water Conserva",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3ca4120c4bf37009f25551b9b5c3491b9362972e9dcdefc3275a94b063557cea.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "tion,2014,21(5):35-40.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[8］张学珍,朱金峰.1982—2006 年中国东部植被覆盖度的变化 [J].气候与环境研究,2013,18（3）:365-374.[ZHANG Xuezhen,ZHU Jinfeng.Variations in fractional vegetation coverage over eastern China during 1982—2006[J].Climatic and Environmental Research,2013,18（3）:365-374.]   \n[9］刘洋,李诚志,刘志辉,等.1982—2013 年基于GIMMS-NDVI的 新疆植被覆盖时空变化[J].生态学报,2016,36（19）:6198- 6208.[LIU Yang,LI Chengzhi,LIU Zhihui,et al. Assessment of spatio-temporal variations in vegetation cover in Xinjiang from 1982 to 2013 besed on GIMMS-NDVI[J].Acta Ecologica Sinica, 2016,36(19) :6198 -6208.]   \n[10］代希波,高守杰,郭光毅,等.1990—2010 年间我国北方农牧交 错带植被覆盖度变化归因[J].湖北大学学报（自然科学版）， 2014,36(5）:389 -395.[DAI Xibo,GAO Shoujie,GUO Guangyi,et al.The atribution of variation of the plant coverage degree in the agricultural-animal region of northern China during 1990- 2010[J].Journal of Hubei University(Natural Science）,2014,36 (5) :389 -395.]   \n[11］赵舒怡,宫兆宁,刘旭颖.2001—2013 年华北地区植被覆盖度 与干旱条件的相关分析[J].地理学报,2015,70（5)：717- 729.[ZHAO Shuyi,GONG Zhaoning,LIU Xuying.Correlationanalysis between vegetation coverage and climate drought conditions in north China during 2001—2013[J].Acta Geographica Sinica, 2015,70(5):717 -729.]   \n[12]BACHELET D,NEILSON RP,LENIHAN JM,et al. Climate change effects on vegetation distribution and carbon budget in the United States[J].Ecosystems,2001,4:164 -185.   \n[13］张,任志远.黄土高原地区植被覆盖变化的时空差异及未来 趋势［J].资源科学,2011,33（11）：2143-2149.［ZHANG Chong,REN Zhiyuan. Temporal and spatial differences and its trends in vegetation cover change over the Loess Plateau[J].Resources Science,2011,33（11) :2143 -2149]   \n[14］孙智辉,雷廷鹏,卓静,等.延安北部丘陵沟壑区退耕还林(草) 成效的遥感监测［J].生态学报,2010,30（23）：6555-6562. [SUN Zhihui,LEI Yanpeng,ZHUO Jing,et al. Remote sensing analysis of the effectiveness of converting farmland into forest or grass in the hilly gully region of Northern Yan'an[J].Acta Ecologica Sinica,2010,30(23）:6555-6562.]   \n[15］周德成,赵淑清,朱超.退耕还林还草工程对中国北方农牧交 错区土地利用/覆被变化的影响——以科尔沁左翼后旗为例 [J].地理科学,2012,32（4）:442-449[ZHOU Decheng, ZHAO Shuqing,ZHU Chao.The impact of the grain for green project on the Land Use/Cover Change in the northern farming-pastoral ecotone:A case study of Kezuohouqi County[J].Scientia Geographica Sinica,2012,32(4）:442-449]   \n[16］周德成,赵淑清，朱超.退耕还林工程对黄土高原土地利用/覆 被变化的影响——以陕西省安塞县为例[J].自然资源学报， 2011,26（11）:1866 -1878.[ ZHOU Decheng,ZHAO Shuqing, ZHU Chao.Impacts of the sloping land conversion program on the Land Use/Cover Change in the Loess Plateau:A case study in Ansai County of Shaanxi Province[J]. Journal of Natural Resources. 2011,26(11) :1866 -1878.]   \n[17]信忠保,许炯心,郑伟.气候变化和人类活动对黄土高原植被 变化的影响[J].中国科学(D辑)：地球科学,2007,37（11)： 1504-1514.[XIN Zhongbao,XU Tongxin,ZHENG Wei. Effects ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "of climate change and human activities on vegetation change in Lo ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ess Plateau[J].Scientia Sinica:（Terrae）,2007,37（11）:1504- 1514.]   \n[18］易浪,任志远,张,等.黄土高原植被覆盖变化与气候和人类 活动的关系[J].资源科学,2014,36(1）:166-174.[YI Lang, REN Zhiyuan,ZHANG Chong,et al. Vegetationcover,climate and human activities on the Loess Plateau[J].Resources Science, 2014,36(1) :166 -174.]   \n[19］阿多,赵文吉,宫兆宁,等.1981—2013 华北平原气候时空变化 及其对植被覆盖度的影响[J].生态学报,2017,37（2）：1-17 [A Duo,ZHAO Wenji,GONG Zhaoning,et al. Temporal analysis of climate change and its relationship with vegetation cover on the north China plain from 1981 to 2013[J].Acta Ecologica Sinica, 2017,37(2) :1 -17.]   \n[20］刘宪锋,任志远.西北地区植被覆盖变化及其与气候因子的关 系[J].中国农业科学,2012,45（10）:1954-1963.[LIU Xianfeng,REN Zhiyuan.Vegetation coverage change and its relationship with climate factors in Northwest China[J].Scientia Agricultura Sinica,2012,45（10）:1954 -1963.]   \n[21］何月,樊高峰,张小伟,等.浙江省植被NDVI动态及其对气候 的响应[J].生态学报,2012,32（14）：4352－4362.[HEYue， FAN Gaofeng,ZHANG Xiaowei,et al.Variation of vegetation NDVI and its response to climate in Zhejiang Province[J].Acta Ecologica Sinica,2012,32(14):4352-4362.]   \n[22］韦振锋,王德光,张,等.1999—2010 年中国西北地区植被覆 盖对气候变化和人类活动的响应[J].中国沙漠,2014,34 (6）:1665-1670.［WEI Zhenfeng，WANG Deguang,ZHANG Chong,et al. Response of vegetation cover to climate change and human activities in Northwest China during 1999—2010[J]. Journal of Desert Research,2014,34(6):1665 -1670.]   \n[23］缪丽娟,蒋冲,何斌,等.近10 年来蒙古高原植被覆盖变化对 气候的响应[J].生态学报,2014,34（5）：1295-1301.［MIAO Lijuan,JIANG Chong ,HE Bin,et al.Response of vegetation coverage to climate change in Mongolian Plateau during recent 10 years[J]. Acta Ecologica Sinica,2014,34(5）:1295-1301.]   \n[24］毛德华,王宗明,宋开山,等.东北多年冻土区植被 NDVI变化 及其对气候变化和土地覆被变化的响应[J].中国环境科学, 2011,31(2）:283-292.[MAO Dehua,WANG Zongming,SONG Kaishan,et al.The vegetation NDVI variation and its responses to climate change and LUCC from 1982 to 2006 year in northeast permafrost region[J].China Environmental Science,2011,31 (2):283-292.]   \n[25］包刚,包玉海,覃志豪,等.近10a蒙古高原植被覆盖变化及其 对气候的季节响应[J].地理科学,2013,33（5):613-621. [ BAO Gang,BAO Yuhai,QIN Zhihao,etal. Vegetation cover changes in Mongolian Plateau and its response to seasonal climate changes in recent 10 years[J].Scientia Geographica Sinica, 2013,33(5) :613 -621.]   \n[26]CAMBERLIN P,MARTINY N,PHILIPPON N,et al. Determinants of the interannual relationships between remote sensed photosynthetic activity and rainfall in tropical Africa[J].Remote Sens Environ,2007,106:199- 216.   \n[27］徐兴奎,陈红,LEVY Jason K.气候变暖背景下青藏高原植被覆 盖特征的时空变化及其成因分析［J].科学通报,2008,53 (4）:456-462.[XU Xingkui,CHEN Hong,LEVY Jason K. Temporal and spatial variation of vegetation cover characteristics of the ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Qinghai Tibet Plateau under the background of climate warming and its cause analysis[J].Chinese Science Bulletin,2O08,53 (4):456-462.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[28］张戈丽，徐兴良，周才平，等.近30年来呼伦贝尔地区草地植被变化对气候变化的响应[J].地理学报,2011,66(1)：47-58.［ZHANG Geli,XU Xingliang,ZHOU Caiping,et al.Responsesofvegetation changes to climatic variations in Hulun Buir Grass-land in past 30 years[J].Acta Geographica Sinica,2011,66(1)：47 -58.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[29］陈晓玲，曾永年.亚热带山地丘陵区植被NPP时空变化及其与 气候因子的关系——以湖南省为例[J].地理学报，2016，71 (1）:35-48.[CHEN Xiaoling,ZENGYongnian.Spatial and temporal variability of the net primary production(NPP）and its relationship with climate factors in subtropical mountainous and hilly regions of China:A case study in Hunan Province[J].Acta Geographica Sinica,2016,71（1) :35-48.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[30］朱文泉，潘耀忠，阳小琼，等.气候变化对中国陆地植被净初级生产力的影响分析[J].科学通报,2007,52(21）：2535-2541.[ZHU Wenquan,PAN Yaozhong,YANG Xiaoqiong,et al. Impactsof climate change on net primary productivity of terrestrial vegeta-tion in China［J].Chinese Science Bulletin,2007,52（21）：2535 -2541.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Spatial-temporal variation and its driving forces of vegetation coverage in China from 2001 to 2015 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ZHAO Ming-wei'23，WANGNi,23，SHHui-hui，JIANGLing,2，WANGChun $^ { 1 , 2 , 3 }$ (1School of Geography Information and Tourism,Chuzhou University,Chuzhou 239O00,Anhui,China; 2AnhuiCenerfoboaieatioinogacalIftionItgatiodAcatiou9oa; 3Anhui EngineeringLaboratoryofGeo-information Smart SensingandServices,Chuzhou 2390,Anhui,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Vegetation coverage is a quantitative index to reflect the surface condition of plant communities，and it can indicatetheregional environmentalchange,which has important significance for theregional hydrological,ecological conditions and theregional responseof the global change.Inthis study,based on the MODIS-NDVI data during the period from 2OOl to 2O015,the mean values of vegetation coverage were Firstly calculated every three years,and the diferences of distribution during each period were investigated;Secondly,the variationrateof vegetation coverage was computed atthe national scaleduring the study period,and six variation types were defined and thedistributionof diferent types wasanalyzed inorder tounderstand the variation characteristics;Finaly,thedriversof the vegetationcoverage change in differentareas were analyzed by computing the corelation between vegetation coverage and typical climatic factors,such asannual mean temperature,annual precipitationand annual average sunshine percentage.The results were summarized as folows:（1）The spatial distribution of vegetation coverage in China isgradually reduced from the southeast coast to the northwest inland.From 2O0l to 2O15,there were regional variations ofthe vegetationcoverage which caused litle difference in termsof theoverall distribution trend.（2）Over the past 15 years,the vegetationcoverage in China had shown an increasing trend,in particular,in the Huaihe River Basin,the North China Plain area and the Loess Plateau region it was increased significantly.While the vegetation coverageof Qinghai Tibet Plateauand Inner Mongolia plateau had litlechange.（3）According to the time series analysisof the vegetation coverage,thevariation typecanbe divided into six categories,such as continuous growth,reduced-after-initially-increase,and soon.Thevegetation coverage in most plain areas showed a continuous growth,while most of the forest-covered area,especially in the southwest,the vegetation coverage showed the variationcharacteristics of volatilityduringthe study period.（4）Bycalculating thecorrelation coeficient between vegetation coverage and the selected climatic factors,itcan be found that the vegetation coverage and precipitation were significantlyand positively corelated inthe Northern China Plain,Inner Mongolia,and mostof the northwestarea, which indicated that precipitation is the main climatic factor that afects vegetation coverage in those areas.Climate factors such as temperature,sunshine have a significant positive corelation with vegetation coverage in humid climate region,while there is a significant negative correlation in arid climate region. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words:vegetation coverage； spatial-temporal variations ；rate of change;； driving force",
+        "page_idx": 7
+    }
+]

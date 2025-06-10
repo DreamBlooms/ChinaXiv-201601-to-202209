@@ -1,0 +1,329 @@
+[
+    {
+        "type": "text",
+        "text": "临床研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CDK6在早期卵巢癌中表达及其临床意义",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "凌晨,刘 蜀，王勇,张逢春,杜鹰贵州省妇幼保健院，贵州 贵阳 550003",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的探讨CDK6在早期卵巢癌组织中的表达及其临床意义。方法利用实时荧光定量PCR检测CDK6在卵巢癌以及卵巢组织中的表达;进一步，利用免疫组化检测CDK6蛋白在卵巢癌以及卵巢组织中的表达;统计分析CDK6在卵巢癌与卵巢组织中的表达差异;分析CDK6蛋白表达与临床参数以及生存预后的相关性。结果实时荧光定量PCR分析36例卵巢癌与16例卵巢组织中的CDK6mRNA表达显示,与卵巢组织相比,CDK6mRNA表达水平在卵巢癌组织中明显升高( $\\scriptstyle P = 0 . 0 0 6 3$ ；免疫组化分析121例卵巢癌和48例卵巢组织CDK6蛋白表达后显示,CDK6蛋白是一个核浆共表达因子，其表达水平在卵巢癌组织中明显高于卵巢组织( $\\scriptstyle P = 0 . 0 4 4 ,$ 。除此之外，过表达的CDK6与卵巢癌组织临床参数无明显相关性，但与患者的预后呈明显负相关 $P { = } 0 . 0 0 6 )$ 。最后，多变量分析显示,CDK6是早期卵巢癌预后不良的一个独立因子( $P { = } 0 . 0 2 5$ )。结论CDK6过表达作为不利的因素促进了早期卵巢癌发生发展。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：卵巢癌;CDK6；荧光定量PCR;免疫组化",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Expression of CDK6 in early ovarian cancer and its clinical significance ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LING Chen, LIU Shu, WANGYong, ZHANG Fengchun, DU Ying Guizhou Maternity and Child Healthcare Hospital,Guiyang 55oo03,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:ObjectiveToexplore theexpresionofCDK6inearlyovariancancerandexploreitsclinicalsignificance.Methods Real-time PCR and immunohistochemistry was used to examine the diffrential expresson of CDK6 mRNAand protein in ovarian cancer and normal ovarian tisses.The correlation of CDK6 expresson with the clinical characteristics and prognosis of the patients was analyzed.Results The expresion ofCDK6 mRNA was obviously up-regulated in36 ovariancancer tisses as compared to that in16 ovarian tissues.Immunohistochemistrydemonstrated that CDK6 protein was expresed inboth the cytoplasmandcellnuclei.Compared withthe48normal ovarian tisues,the121ovariancancertissues showedsignificantly up-regulated CDK6 protein expression $\\scriptstyle ( P = 0 . 0 4 4 )$ . Increased CDK6 protein expression was not significantly correlated with the clinical featuresof thepatientswithovariancancer,butshowedasignificantnegativecorelation withthepatients'prognosis $( P { = } 0 . 0 0 6 )$ . Multivariate analysis suggested that CDK6 expresson level was an independent prognostic indicator $_ { ( P = 0 . 0 0 8 ) }$ for the survival of patients with ovarian cancer. Conclusion Increased CDK6 protein expresion may promote the development and progression of early ovarian cancer. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: ovarian cancer; CDK6; real-time PCR; immunohistochemistry ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CDK6是一个关键性的细胞周期因子，位于人类七号染色体上，包含7个外显子，编码 $3 8 \\mathrm { k D }$ 的蛋白质。该基因与CDK6、CCND1结合成复合物，进一步诱导RB蛋白磷酸化，从而诱导细胞周期由G1向S期转化。Mb1umbres等研究显示，在体内敲除CDK6和CDK4基因后，小鼠在胚胎时期将会死于严重的贫血，该研究显示了CDK6对于发育的重要性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在以往的研究中，CDK6过表达已经展示在许多肿瘤中，显示了其对于肿瘤发病过程的重要性。Timmermann等[2]发现,与正常黏膜相比,CDK6在鳞状口腔癌中的活性明显增高，利用CDK6抑制剂，抑制cyclin-CDK-Rb通路激活，从而逆转上皮异常增生。除此之外，CDK6在慢性B淋巴细胞性白血病、髓母细胞瘤以及粘液纤维肉瘤中表达增高[3-5]。罗小鹏等[67]也发现，CDK6在鼻咽癌组织中表达升高，且抑制其表达后，能抑制细胞周期进展和细胞生长。在膀胱癌中，CDK6表达明显比癌旁组织高，并与膀胱癌的侵袭和分级明显呈正相关[8。在很多肿瘤中,CDK6被不同的miRNAs(mir-105、miR-29c、miR-340、miR-124a)[9-12靶击,导致其表达下调，从而抑制肿瘤细胞生长。以上这些研究建议CDK6在肿瘤发生发展过程中发挥了重要作用。然而，CDK6在卵巢癌中的表达与临床参数和预后的关系目前还没有相关报道。为明确CDK6在CDK6在卵巢癌在作用，我们检测了CDK6在卵巢癌组织中表达，并分析其表达与卵巢癌临床病理参数和预后的相关性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 材料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 临床资料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "收集贵州省妇幼保健院病理科2007年1月\\~2014年1月收集121例I～Ⅱ期上皮性卵巢癌和48例卵巢石蜡组织标本。患者年龄23\\~82岁。另外，我们还收集了2014年1月\\~2015年12月36例新鲜上皮性卵巢癌和16例卵巢手术切除标本，液氮立即保存。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2主要试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "逆转录试剂盒及实时荧光定量PCR试剂盒购自日本Takara公司。Trizol购自美国Invitrogen公司。免疫组化SP法试剂盒购自福建迈新公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3RNA提取及逆转录",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "常规Trizol提取总RNA。总RNA随即被逆转录成cDNA,反应条件如下：总RNA $1 ~ { \\mu \\mathrm { g } }$ 与 $2 ~ \\mu \\mathrm { L }$ dNTP$\\operatorname* { m i x } ( 1 0 { \\mathrm { ~ m m o L } } )$ 和 $2 ~ \\mu \\mathrm { L }$ oligo(dT)18( $( 0 . 5 ~ \\mu \\mathrm { g } / \\mu \\mathrm { L }$ 及无RNA酶的去离子水共 $1 3 . 5 \\mu \\mathrm { L }$ 混匀，离心。 $7 0 \\ \\mathrm { { ^ { \\circ } C } }$ 变性$5 \\mathrm { m i n }$ ,室温静置 $2 ~ \\mathrm { m i n }$ 。然后依次添加 $5 { \\times } \\mathrm { B }$ uffer $4 ~ \\mu \\mathrm { L }$ $0 . 1 ~ \\mathrm { m o L }$ DTT $1 ~ \\mu \\mathrm { L }$ ，RNase 抑制剂 $( 4 0 ~ \\mathrm { U / \\mu L } ) 0 . 5 \\mu \\mathrm { L }$ ，逆转录酶 $( 2 0 0 ~ \\mathrm { U / \\mu L } ) 1 ~ \\mu \\mathrm { L }$ ,混匀,离心,放入 $4 2 ~ \\mathrm { { ^ { \\circ } C } }$ 水浴中反应 $1 \\mathrm { h } , 9 5 ^ { \\circ } \\mathrm { C }$ 灭活 $5 \\mathrm { m i n }$ 。 $- 2 0 \\mathrm { { ^ { \\circ } C } }$ 冷冻备用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4表达检测 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实时荧光定量PCR(real-timequantitative PCR,QPCR)在胃癌组织中扩增NDRG1和E-cadherin基因,反应体系为SYBRPremix $\\operatorname { E x } ( 2 \\times ) 1 0 \\mu \\mathrm { L } .$ ,上下游引物（ $\\mathrm { 1 0 ~ \\mu m o L ) }$ 各 $0 . 4 ~ \\mu \\mathrm { L } .$ 、,ROX Reference Dye I $( 5 0 \\times )$ （204号$0 . 4 ~ \\mu \\mathrm { L }$ 、cDNA模板 $1 ~ \\mu \\mathrm { L }$ 和灭菌去离子水 $7 . 8 ~ \\mu \\mathrm { L }$ 共$2 0 \\mu \\mathrm { L } _ { \\circ }$ 反应条件如下： $9 4 ~ \\mathrm { ^ { \\circ } C }$ 变性 $2 \\operatorname* { m i n } ; 9 4 \\mathrm { ~ \\% }$ 变性 $1 0 \\mathrm { ~ s ~ }$ $5 5 ~ \\mathrm { { ^ \\circ C } }$ 退火 $1 0 \\ \\mathrm { s } , 7 2 \\ \\mathrm { ^ c }$ 延伸15s,45个循环;最后，产物在$7 2 ^ { \\circ } \\mathrm { C }$ 延伸 $5 \\mathrm { m i n }$ ,溶解曲线分析。CDK6引物见[3]。内参照引物为Betaactin,正义引物： $5 ^ { \\prime }$ -CACCCAGCACAATGAAGAT-3'，反义引物： $5 ^ { \\prime }$ CAAATAAAGCCATGCCAAT-3',全长 $2 5 5 ~ \\mathrm { b p }$ 。引物由上海英骏公司合成。实验重复3次。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5免疫组化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "取卵巢癌和卵巢石蜡切片置于 $6 0 ~ \\mathrm { { ^ { \\circ } C } }$ 烤箱烘烤 $2 \\mathrm { h }$ 依次将切片按顺序浸入二甲苯中各脱蜡 $2 0 ~ \\mathrm { m i n }$ 后将切片按顺序浸入不同梯度酒精中水化 $2 \\mathrm { m i n }$ ，然后置于超纯水中待用；将切片放入盛有柠檬酸盐抗原修复液的孵育槽中，然后高压锅中高温高压修复 $2 \\mathrm { m i n }$ ，室温自然冷却；滴加卵白素，室温孵育 $1 0 ~ \\mathrm { m i n }$ ;PBS洗 $5 \\mathrm { m i n } \\times 3$ 次；滴加d-生物素溶液，室温孵育 $1 0 ~ \\mathrm { m i n }$ ;PBS洗 $5 \\ \\mathrm { m i n } { \\times } 3$ 次;滴加内源性过氧化物酶阻断剂，室温孵育 $1 5 ~ \\mathrm { m i n }$ PBS洗 $3 \\ \\operatorname* { m i n } \\times 3$ 次后 $10 \\%$ 山羊血清封闭，室温孵育$1 0 ~ \\mathrm { m i n }$ ,弃血清;滴加 $1 : 1 0 0$ 稀释CDK6抗体（美国Santa Cruzbiotechnology公司）, $4 ~ \\mathrm { { ^ { \\circ } C } }$ 孵育过夜；PBS洗",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$5 \\mathrm { m i n } { \\times } 3$ 次后滴加二抗(生物素标记的羊抗兔IgG)室温孵育 $1 0 ~ \\mathrm { m i n }$ ;PBS洗 $3 \\operatorname* { m i n } \\times 3$ 次后滴加链霉素抗生物素蛋白-过氧化物酶溶液，室温孵育 $1 0 ~ \\mathrm { { m i n } }$ ;PBS冲洗$3 \\operatorname* { m i n } \\times 3$ 次后滴加新鲜配制的DAB液于切片中，显微镜下观察，显色约20s后，置于水中中止显色；苏木素复染，流水冲洗返蓝 $1 5 \\mathrm { m i n }$ ;切片依次浸人不同浓度酒精中脱水各 $2 \\mathrm { m i n }$ 后在二甲苯中各透明，中性树胶封片，显微镜下观察染色效果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.6免疫组化结果判定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "免疫组化评分分别采取了胞浆和胞核单独进行，具体评分标准详见[13]。最后每张切片CDK6表达量评分采用如下公式：蛋白表达量综合计分 $\\vDash$ 胞浆评分 $^ +$ 胞核评分。总分为12分；高表达： ${ \\geqslant } 7$ 分；低表达： $^ { < 7 }$ 分。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.7实验数据处理及分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用SPSS20.0统计分析软件包进行数据处理。非配对T检验用于分析CDK6mRNA在卵巢癌与卵巢组织之间的表达差异。CDK6蛋白表达与临床参数相关性采用x检验。生存预后分析采用Kaplan-Meier。Cox模型用于评估CDK6表达作为影响患者生存的独立预后因素。 $P { < } 0 . 0 5$ 为差异有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1CDK6mRNA在卵巢癌组织中表达上调",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实时荧光定量PCR检测了36例卵巢癌和16例卵巢组织CDK6mRNA表达水平，结果显示，与卵巢组织相比，CDK6在卵巢癌组织中表达明显上调(图 $1 , P { = } 0 . 0 0 6 3$ )。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/07f42d6330ae3cb94a14e34d6b0c5e1adfe4fb999464115a5ec14fe3f5f5663e.jpg",
+        "img_caption": [
+            "图1CDK6mRNA在卵巢癌组织癌组织中 表达上调 Fig.1 CDK6 mRNA was upregulated in ovarian cancer tissues. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2CDK6蛋白在卵巢癌中是一个核浆共表达因子",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "我们利用免疫组化检测了121例卵巢癌组织和48例卵巢组织中CDK6蛋白表达。结果显示，CDK6蛋白在卵巢癌组织和卵巢组织中均能检测其表达。除此之外，CDK6蛋白在两种组织中显示为核浆共表达因子(图2)。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d59994c6b03f22f28a5180ec5a11d6fd376403548485cbabc2c3387ed2239555.jpg",
+        "img_caption": [
+            "图2CDK6在卵巢癌及卵巢组织中表达",
+            "Fig.2 Expression of CDK6 in ovarian cancer tissues and normal ovarian tissue (Original magnification: $\\times 4 0 0$ ). A: Low expression of CDK6 in normalovariantisse;B:C6expressioninthecytopasmofovarancancertisse; CD:CexpressonofCDK6inthecopasmnd nuclei in ovarian cancer tissue. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3CDK6蛋白在卵巢癌中表达明显上调",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "免疫组化分析了121例卵巢癌组织和48例卵巢组织中CDK6蛋白表达差异。结果显示，与正常卵巢组织相比,CDK6蛋白在卵巢癌中表达明显上调(表1 $\\scriptstyle P = 0 . 0 4 4$ ）",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/7aa439ec2cc6306c808c2f37c04f866fa3c7897a10a47c1bec4704464c1e2011.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Tissue</td><td rowspan=\"2\">n</td><td colspan=\"2\">CDK6 expression</td><td rowspan=\"2\">P</td></tr><tr><td>High</td><td>Low</td></tr><tr><td>Ovarian cancer</td><td>121</td><td>34</td><td>87</td><td>0.044</td></tr><tr><td>Ovarian tissues</td><td>48</td><td>6</td><td>42</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4CDK6过表达与临床参数和预后之间相关性 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "统计分析显示，过表达的CDK6与卵巢癌患者年龄、病理类型、分化程度以及临床分期无明显关系(表2)。CDK6表达越高，患者综合生存时间越短(图 $3 , P { = } 0 . 0 0 6 )$ 。2.5CDK6表达是影响卵巢癌患者生存的独立预后因子",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "进一步我们利用Cox模型评估CDK6在卵巢癌中作为独立预后因子的可能性。单变量和多变量分析结果都显示，CDK6表达是影响卵巢癌患者预后的独立性因素(表3)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "细胞正常的分裂、增殖、分化与衰老维持着机体自身的稳定。细胞周期的异常会导致这一系列过程的紊乱,从而诱导肿瘤的发生[1417]",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/4037a2f411c4908eb261d78826745b3cb68219242d18d53f7699753372769b13.jpg",
+        "table_caption": [
+            "表1CDK6在卵巢癌中表达上调 Tab.1 Elevated expression of CDK6 protein in ovarian cancer ",
+            "表2CDK6表达与卵巢癌临床参数相关性分析 Tab.2 Correlation of CDK6 expression with clinical features of patients with ovarian cancer "
+        ],
+        "table_footnote": [
+            "\\*Kruskal-Wallis test. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Clinical parameter</td><td rowspan=\"2\">n</td><td colspan=\"2\">CDK6 of expression</td><td rowspan=\"2\">P</td></tr><tr><td>High expression (n)</td><td>Low expression (n)</td></tr><tr><td>Age (year)</td><td></td><td></td><td></td><td></td></tr><tr><td>≥50</td><td>55</td><td>15</td><td>40</td><td>1.0</td></tr><tr><td><50</td><td>66</td><td>19</td><td>47</td><td></td></tr><tr><td>Pathological classification</td><td></td><td></td><td></td><td></td></tr><tr><td>S</td><td>87</td><td>28</td><td>62</td><td rowspan=\"2\">0.252</td></tr><tr><td>M</td><td>31</td><td>6</td><td>25</td></tr><tr><td>Grade</td><td></td><td></td><td></td><td></td></tr><tr><td>Low</td><td>44</td><td>9</td><td>35</td><td rowspan=\"3\"></td></tr><tr><td>Middle</td><td>65</td><td>20</td><td>45</td></tr><tr><td>High</td><td>12</td><td>5</td><td>7</td></tr><tr><td>Clinical stage</td><td></td><td></td><td></td><td></td></tr><tr><td>I</td><td>101</td><td>22</td><td>79</td><td rowspan=\"2\">0.096</td></tr><tr><td>II</td><td>26</td><td>12</td><td>8</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/02c8fc85cf2ed4623b86a9da3ff99089566f8b3d4f3297d443063a26a8bf2ae3.jpg",
+        "table_caption": [
+            "表3单变量和多变量Cox回归模型综合生存分析总结 Tab.3 Univariate and multivariate Cox regression analysis of overall survival of the patients "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">Parameter</td><td colspan=\"3\">Univariate analysis</td><td colspan=\"3\">Multivariate analysis</td></tr><tr><td>P</td><td>HR</td><td>95% CI</td><td>P</td><td>HR</td><td>95% CI</td></tr><tr><td>Age (year)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>≥50 vs <50</td><td>0.082</td><td>2.024</td><td>0.915-4.479</td><td>0.046</td><td>2.334</td><td>1.013-5.375 0.685</td></tr><tr><td>Clinical stage</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>I us III</td><td>0.042</td><td>2.340</td><td>1.030-5.316</td><td>0.167</td><td>1.885</td><td>0.767-4.633</td></tr><tr><td>Pathological classification</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>S vs M</td><td>0.918</td><td>1.046</td><td>0.444-2.465</td><td>0.240</td><td>1.771</td><td>0.682-4.600</td></tr><tr><td>Grade</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Low vs middle vs high</td><td>0.694</td><td>1.123</td><td>0.631-1.998</td><td>0.915</td><td>1.033</td><td>0.560-1.876</td></tr><tr><td>CDK6 expression</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>1.286-5.666</td><td>0.025</td><td>2.440</td><td></td></tr><tr><td>Low us high</td><td>0.009</td><td>2.700</td><td></td><td></td><td></td><td>1.119-5.319</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/975c8232d65d088c9a5ad8a53964d727888115f4d25d449bcd93545369b6a9c6.jpg",
+        "img_caption": [
+            "图3CDK6表达升高诱导卵巢癌患者不良预后 Fig.3 Increased CDK6 expression is associated with a poor prognosis of ovarian cancer patients. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CDK6是一个关键的细胞周期促进因子，参与诱导肿瘤细胞的增殖[18-19]。在卵巢癌中能被miR-211直接抑制，参与了卵巢癌的发病过程[20]。然而,CDK6表达模式以及与卵巢癌临床病理参数之间的关系一直没有明确。在这次研究中，为了明确CDK6在卵巢癌中的作用，我们首先利用实时荧光定量PCR的方法检测了CDK6在卵巢癌与卵巢组织中的表达。结果显示，CDK6mRNA在卵巢癌组织中表达明显上调。进一步，免疫组化分析显示,CDK6是一个核浆共表达因子。与mRNA表达水平类似，CDK6蛋白表达水平在卵巢癌组织中也明显升高。该结果相似于Baba21和罗小鹏等在食道癌和鼻咽癌中的报导，建议CDK6在卵巢癌中发挥了重要的作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在以前的研究中，CDK6表达升高与食道癌和粘液纤维肉瘤等肿瘤的临床进展密切相关。与这些研究结果不一致的是，在我们的结果中，并没有发现过表达的CDK6与早期卵巢癌患者的临床参数包括患者的年龄、临床分期、分化程度、病理类型等相关。但我们观察到过表达的CDK6与早期卵巢癌患者的预后呈明显负相关。CDK6表达越高，卵巢患者预后与差。反之，CDK6表达越低,则患者预后越好。该结果与Tsai5等报道相似，提示过表达的CDK6导致了卵巢患者不良预后。最后，我们基于Cox模型分析还发现，CDK6表达可以作为预测卵巢癌独立预后因素，这进一步表明了CDK6在卵巢癌发病过程的重要性，并提示CDK6可以作为一个潜在的基因治疗靶标用于卵巢癌的治疗。目前，针对CDK6与CDK4复合物的抑制剂PD-0332991已经开发,能明显抑制肿瘤细胞生长[225]。综合以上结果,我们认为，CDK6是一个重要候选癌基因，其表达上调在卵巢癌发病和导致不良的预后方面发挥了重要的作用。因此，变异的CDK6表达能作为早期卵巢癌发病的一个恶性标志物。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Malumbres M,Sotillo R,Santamaria D,et al.Mammalian cells cycle without the D-type cyclin-dependent kinases Cdk4 and Cdk6 [J].Cell,2004,118(4): 493-504.   \n[2]Timmermann S,Hinds PW,Munger K.Elevated activity of cyclin-dependent kinase 6 in human squamous cell carcinoma lines [J]. Cell Growth Differ,1997,8(4): 361-70.   \n[3]Hayette S,Tigaud I,Callet-Bauchu E,et al.In B-cell chronic lymphocytic leukemias,7q21 translocations Lead to overexpression of the CDK6 gene[J].Blood,2003,102(4):1549-50.   \n[4]Mendrzyk F,Radlwimmer B,Joos S,et al.Genomic and protein expression profiling identifiesCDK6 asnovel Independent prognostic marker in medulloblastoma[J].J Clin Oncol, 2005,23 (34): 8853-62.   \n[5]Tsai JW,Li CF,Kao YC,et al.Recurrent amplification at 7q21.2 Targets CDK6 gene in primary myxofibrosarcomas and identifies CDK6 overexpression as an independent adverse prognosticator [J]. Ann Surg Oncol,2012,19(8): 2716-25.   \n[6]罗小鹏,覃继新,黄永秩,等.CDK6在鼻咽癌中的表达及临床意义 [J].南方医科大学学报,2013,33(12):1811-4.   \n[7］罗小鹏,夏 琼,覃继新,等.siRNA抑制CDK6表达影响鼻咽癌细胞 增殖和细胞周期进展[J].南方医科大学学报,2014,34(7):1071-4.   \n[8]Wang G, Zheng LY, Yu ZJ,et al. Increased cyclin-dependent kinase 6 expression in bladder cancer[J]. Oncol Lett,2012,4(1): 43-6.   \n[9]Honeywell DR,Cabrita MA,Zhao H,et al．miR-105 inhibits prostate tumour growth by suppressing CDK6 levels[J].PLoS One, 2013,8(8): e70515.   \n[10]Zhao X,Li J, Huang S,et al. MiRNA-29c regulates cell growth and invasion by targeting CDK6 in bladder cancer[J].Am J Transl Res, 2015,7(8): 1382-9.   \n[11]Li X,Gong X,Chen J,et al. miR-34O inhibits glioblastoma cell proliferation by suppressing CDK6,cyclin-D1 and cyclin-D2[J]. Biochem Biophys Res Commun,2015,460(3): 670-7.   \n[12]Agirre X,Vilas-Zornoza A,Jiménez-Velasco A,et al. Epigenetic silencing of the tumor suppressor microRNA Hsa-miR-124a regulates CDK6 expression and confers a poor prognosis in acute lymphoblastic leukemia[J].Cancer Res,2009,69(10): 4443-53.   \n[13]Wu A,Wu B,Guo J,et al. Elevated expression of CDK4 in lung cancer[J].J Transl Med,2011,9:38.   \n[14]杨金娣,庞战军.F10基因沉默及过表达对绒癌细胞系JAR[J].南方医 科大学学报,2016,36(3):351-5.   \n[15]Chen X,Chen XG,Hu X,et al.MiR-34a and miR-203 inhibit survivin expression to control cell proliferation and survival in human osteosarcoma cells[J].JCancer, 2016,7(9): 1057-65.   \n[16] Zhang ZZ,Zhao G,Zhuang C,et al. Long non-coding RNA LINCOO628 functions as a gastric cancer suppressor via long-range modulating the expression of cell cycle related genes[J]. Sci Rep, 2016(6): 27435.   \n[17]朱显军,邓海军,叶耿泰,等.TALEN介导的MYH9基因沉默及对细 胞周期与调亡的影响[J].南方医科大学学报,2016,36(3):375-80.   \n[18] Kawasaki Y,Komiya M,Matsumura K,et al.MYU,a target lncRNA for Wnt/c-Myc signaling,mediates induction of CDK6 to promote cell cycle progression[J].Cell Rep,2016,[Epub ahead of print].   \n[19]Zhu K,Liu L, Zhang J,et al.MiR-29b suppresses the proliferation and migration of osteosarcoma cells by targeting CDK6[J].Protein Cell,2016,7(6): 434-44.   \n[20]Xia B, Yang S,Liu T,et al. miR-211 suppresses epithelial ovarian cancer proliferation and cell-cycle progression by targeting cyclin D1 and CDK6[J].Mol Cancer, 2015,14: 57.   \n[21]Baba Y,Watanabe M,Murata A,et al.LINE-1 hypomethylation, DNA copy number alterations，and CDK6 amplification in esophageal squamous cell carcinoma[J].Clin Cancer Res,2014,20 (5): 1114-24.   \n[22]Logan JE,Mostofizadeh N,Desai AJ,et al.PD-0332991,a potent and selective inhibitor of cyclin-dependent kinase $4 / 6$ ,demonstrates inhibition of proliferation in renal cell carcinoma at nanomolar concentrations and molecular markers predict for sensitivity [J] Anticancer Res,2013,33(8):2997-3004.   \n[23]Leonard JP,Lacasce AS,Smith MR,et al. Selective CDK4/6 inhibition with tumor responses by PD0332991 in patients with mantle cell lymphoma[J].Blood,2012,119(20): 4597-607.   \n[24]Patnaik A,Rosen LS,Tolaney SM,et al.Efficacy and safety of abemaciclib,an inhibitor of CDK4 and CDK6,for patients with breast cancer,Non-Small cell lung cancer,and other solid tumors [J].Cancer Discov,2016,6(7): 740-53.   \n[25] Sherr CJ,Beach D, Shapiro GI. Targeting CDK4 and CDK6: from discovery to therapy[J].Cancer Discov,2016,6(4): 353-67. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(编辑：经媛)",
+        "page_idx": 4
+    }
+]

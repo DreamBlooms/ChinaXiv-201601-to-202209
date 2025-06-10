@@ -1,0 +1,189 @@
+# DOI:10.5846/stxb201703210483
+
+何奕萱,易桂花,张廷斌,李景吉,别小娟,闾利,郑飞鸽.红河流域“通道-阻隔"作用下200—2014年植被EVI变化趋势与驱动力.生态学报，2018,38(6):2056-2064.  
+HeYX,YiGH,Zg,LiJJ,ieXJ,uLegeEreddrivictosiReiverBsieedye"cofunction during 2000—2014.Acta Ecologica Sinica,2018,38(6) :2056-2064.
+
+# 红河流域“通道-阻隔”作用下2000一2014年植被EVI变化趋势与驱动力
+
+何奕萱}，易桂花2,3，\*，张廷斌1,4,5，李景吉7，别小娟}，闾利¹，郑飞鸽'
+
+1成都理工大学地球科学学院，成都610059  
+2 成都理工大学管理科学学院，成都610059  
+3中国科学院水利部成都山地灾害与环境研究所，成都610041  
+4成都理工大学工程技术学院，乐山614007  
+5国土资源部地学空间信息技术国土资源部重点实验室，成都610059  
+6 成都理工大学环境与土木工程学院,成都610059  
+7成都理工大学生态资源与景观研究所，成都610059
+
+摘要;红河流域地表生态、水热分布格局等受到“通道-阻隔”作用的显著影响,以MODIS EVI数据作为植被定量研究指标,结合全国 $1 : 1 0 0$ 万植被类型图、红河流域内部以及周边气象数据和研究区的DEM数据,利用趋势分析和相关性分析法,探讨在“通道-阻隔”作用的影响下流域内 2000—2014 年植被EVI时空变化趋势及其驱动力,重点研究了植被EVI变化对气候因子的响应规律。结果表明：(1)2000—2014年间,红河流域生长季植被EVI整体上以 $- 0 . 1 5 \% / \mathrm { a }$ 的年际变化率呈波动减少趋势,空间异质性明显。EVI呈减少趋势区域主要集中在绿春县中部和金平县西南部;EVI呈增加趋势区域集中分布在墨江县、文山县,麻栗坡中部、广南-富宁南部区域、红河-元江一带以及藤条江西南部地区。（2)通过对生长季EVI指数与四个不同时间序列的月平均气温和月累积降水量的相关分析可知,生长季EVI指数与同期气温相关性较好;与降水量呈现明显的滞后性,滞后时间约为1个月。（3)相关分析表明,整体上红河流域生长季植被EVI与气温呈负相关关系,与降水呈正相关关系。在0.05 显著性检验水平下，红河流域生长季植被EVI变化受气候影响的区域占 $3 . 1 1 \%$ ,气温以负向驱动型为主，面积约占 $1 . 2 6 \%$ ,降水以正向驱动型为主，面积约占 $0 . 4 6 \%$ ，气温降水联合驱动以弱驱动为主，面积约占 $1 . 3 9 \%$ ;大部分地区表现为受非气候因子驱动。
+
+关键词：增强型植被指数；气候变化;驱动力；红河流域
+
+# The EVI trends and driving factors in Red River Basin affected by the “ corridorbarrier" function during 20oo—2014
+
+HE Yixuan，YI Guihua2,3,\*， ZHANG Tingbin1,4.5，LI Jingji6.7，BIE Xiaojuan’,LU Li $^ 1$ , ZHENG Feige1
+
+1 Chengdu University of Technology， College of Earth Sciences， Chengdu 610059， China   
+2 Chengdu University of Technology， Colege of Management Science， Chengdu 610059，China   
+3Institude of Mountain Hazardsand Enviroment，Chinese AcadeyofSiences，hengdu 61China   
+4 The Engineering& Technical College ofChengdu University of Technology，Leshan 614007，China   
+5KeyLaboratoryofGeoscience Satial IformationTechology，MinistryofLandand Resourcesof tePR.China，Chengdu 69，China   
+6Chengdu Universityofechnology，ColegeofEnronmentaland CvilEnginering Institute，Chengdu 61059，Cina   
+7 Chengdu University of Technology，Institute of Ecological Resource and Landscape，Chengdu 610o59，China
+
+Abstract：Surfaceecologyand hydrothermaldistributionare significantlyafectedbythe“corridor-barrier”functioninthe Red River Basin.This study investigated spatiotemporal trends in theenhanced vegetation index（EVI）andthe driving forceof itsefect from 20to 2O14 intheRed River Basin.Especially，theresponseof climatic factors basedon the MODIS EVI，combined with the vegetation map，meteorological data，as wellas topographicdata，were investigatedand a trend line andcorelation analysis were used.Theresults showed that:（1）from 20O to 2014,theRedRiverBasin EVI showed a declining fluctuating trend，with an annual change rate of $- 0 . 1 5 \%$ ，with clear spatial heterogeneity. The decreasing area mainlyoccurred incentral Lvchun Countyandsouthwest Jinping County，while the increasing area was concentrated in Mojiang County，Wenshan County,the midlands of Malipo,southern Guangnan-Funing County，Yuanjiang Honghe County，and the southwestof the Tengtiao River.（2）The analysis between theEVI inthegrowing seasonand four diffrent time seriesof climatic factors（monthly mean air temperatureand monthly precipitation）showed thatthe EVI was positively corelated with contemporaneousair temperature.An evident delayed response ofEVI to precipitatio was observed，accounting for approximately1 month.（3）Correlationanalysisindicatedthat，ingeneral,EVI waspositively corelated with precipitation and negativelycorrelated withair temperature during thegrowing season.At the O.O5levelof significance，analysis of the efect of driving factors on EVI showed that about $3 . 1 1 \%$ of the study area was impacted by climatic driving factors ， whereby $1 . 2 6 \%$ ， $0 . 4 6 \%$ and $1 . 3 9 \%$ of the area was impacted by air temperature (negative driving efect），precipitation（mainlypositive driving efect），andair temperatureand precipitationcombined，respectively. However，the EVI was affected by non-climatic driving factors in most areas. ，
+
+Key Words: EVI; climate change; driving forces； Red River Basin
+
+西南纵向岭谷区是指与青藏高原隆升直接相关的横断山区及相邻的南北走向山系河谷区[1]。区域内地形呈现高山、河谷地貌沿南北向发育和东西向展布的特点,这些河谷和山脉分别构成了该区水汽输送和生态环境演变的“通道”和"屏障”2-3]。红河流域位于西南纵向岭谷区东南部,流域内纵向深切河谷对南来湿润气流北上具有明显的“通道效应”,而以哀牢山为主的南北向延伸山系对山脉两侧水汽输送表现着强烈的“阻隔作用”[4-5]。这两种生态效应控制了流域内水热分布格局,深刻影响着区域植被演替过程及其生态系统格局演变[6],形成了以哀牢山-红河为界东西两侧迥异的植物多样性与植被分布格局[7]。这种特殊“通道-阻隔”作用驱动的区域生态效应已经成为了山地生态学研究的热点之一[1,5]。
+
+目前对纵向岭谷区的研究主要集中在生态环境对气候变化的适应性[8」、植被覆盖的空间分异及时滞效应[9]、水热条件空间分布[10]]等方面;研究区域主要分布金沙江流域[12]、澜沧江流域[13-14]和怒江流域[5-16]等大流域以及盘龙河[17]等中小流域。现研究阶段归一化植被指数（Normalized Difference Vegetation Index，NDVI)是应用最普遍的植被定量监测指标,相关研究表明,当研究时段处于植被生长旺盛时期或者地面植被覆盖较高时,NDVI指数容易出现饱和现象[18]。红河流域森林覆盖处于较高水平,局部存在热带雨林等高生物区,增强型植被指数[19]（Enhanced Vegetation Index，EVI)可较为客观地反映植被生长变化情况。红河流域是典型的低纬山系河谷区,目前仅见到对该区水汽变化、气候变化与 NDVI时空变化关系的研究[2-21],但流域植被分布格局与变化趋势及其驱动原因并不清楚。本文以MODIS EVI遥感数据源以及对应年份的气象数据,探讨在“通道-阻隔”作用下红河流域植被EVI的空间分布及其变化规律,同时利用滞后分析结果研究植被 EVI与气候因子两者的相关性,旨在探讨不同时空尺度下气候变化对植被生长的影响机制和关键气候因子，反映出红河流域气候变化的趋势和特点。
+
+# 1研究区概况
+
+红河流域位于云南省中南部,地理位置 $2 2 ^ { \circ } 2 1 ^ { \prime }$ 一 $\cdot 2 5 ^ { \circ } 3 6 ^ { \prime } \mathrm { N }$ 和 $1 0 0 ^ { \circ } 0 7 ^ { \prime } - 1 0 5 ^ { \circ } 4 2 ^ { \prime } \mathrm { E }$ ,流域面积约 $7 . 4 8 \times 1 0 ^ { 4 }$ $ { \mathrm { k m } } ^ { 2 }$ 。研究区地势北高南低，岭谷交错,地形复杂,垂直落差大[22（海拔从 $7 8 \mathrm { m }$ 上升至 $3 1 3 8 \mathrm { m }$ )（图1）。该流域
+
+总体上属亚热带高原山地季风气候,气候具有干湿分明、雨热同期的特点。流域内植被多样性丰富、植被类型多样,具有三向地带性特点,南北分异显著[23]。以元江-红河为界限,流域两侧地貌格局、植被类型差异显著，西侧常绿针叶林和常绿阔叶林分布较多,东侧则主要以针阔叶混交林和落叶阔叶林为主[24]。
+
+![](images/1ae677586daad9715c176d1606b3b3441ff54cac064a86af5672b0d390552836.jpg)  
+图1 红河流域地形及气象站点分布图  
+Fig.1The terrain and meteorological stations of Red River Basin
+
+# 2研究方法
+
+# 2.1 数据来源
+
+EVI数据来源于美国 NASA（National Aeronauticsand Space Administration）戈达德航天中心 MODIS（Moderate-resolution Imaging Spectroradiometer）数据 MOD13Q1产品（https://ladsweb.nascom.nasa.gov/）的三级网格陆地植被数据,数据精度为空间分辨率 $2 5 0 \mathrm { m }$ 、时间分辨率 $1 6 \mathrm { d } ^ { [ 2 5 ] }$ ,数据周期为红河流域植被生长季5月—9月（即2000—2014年每年第129—273天数据）。同期气候数据来自中国气象科学数据共享服务网（http://data.cma.gov.cn/）,包括研究区及其周边20个气象站点2000—2014年的逐月平均气温和累积降水量。植被类型数据来源于中国科学院资源环境科学数据中心（htp://www.resdc.cn）的全国 $1 : 1 0 0$ 万植被类型图。地形数据采用 SRTM(Shuttle Radar Topography Mission) $9 0 \mathrm { m }$ 空间分辨率 DEM(Digital Elevation Model)产品,数据来源于中国科学院计算机网络信息中心科学数据中心的"地理空间数据云平台"（htp://www.gscloud.cn）。
+
+# 2.2数据处理
+
+利用 MODIS MRT（MODIS Reprojection Tols）处理工具对 MOD13Q1 数据进行数据格式转换、投影转换（投影坐标为WGS_1984_UTM_Zone_48N）等数据预处理操作,然后采用最大值合成法（Maximum ValueComposite，MVC)获取生长季逐月EVI数据,最后计算逐年生长季的EVI均值。选用红河流域及周边20个气象站点 2000—2014年生长季的平均气温和累积降水量月值数据集作为气候因子。由于研究区内地势呈现高山峡谷相间分布的格局,为确保气候因子空间插值的精度,基于薄板样条函数理论将 DEM作为协变量采用ANUSPLIN[26-28]进行气温数据空间插值处理;采用 ArcGIS 的克里金插值法处理降水量数据。植被类型、DEM、气温和降水数据经投影、裁剪、矢栅转换等处理,最后统一重采样为 $2 5 0 \mathrm { m }$ 空间分辨率的栅格数据。
+
+# 2.3 趋势分析法
+
+采用趋势分析法逐像元分析 2000—2014 年间生长季植被 EVI年均值的变化趋势[29-30],计算公式为：
+
+$$
+\theta _ { \mathrm { s l o p e } } = \frac { n \times \displaystyle \sum _ { i = 1 } ^ { n } \left( i \times \mathrm { E V I } _ { i } \right) \ : - \ : \displaystyle \sum _ { i = 1 } ^ { n } i \sum _ { i = 1 } ^ { n } \mathrm { E V I } _ { i } } { n \times \displaystyle \sum _ { i = 1 } ^ { n } i ^ { 2 } - \left( \sum _ { i = 1 } ^ { n } i \right) ^ { 2 } }
+$$
+
+式中， $n$ 为研究时间段的年数( $n = 1 5$ ）； $\mathrm { E V I } _ { i }$ 为某像元第 $i$ 年的 EVI均值; $\theta _ { \mathrm { s l o p e } }$ 代表该像元EVI年际变化斜率，$\theta _ { \mathrm { s l o p e } }$ 大于零表明植被覆盖呈改善趋势,反之表示呈退化趋势。目前该公式的稳定性和置信度已经得到了验证,并广泛应用于植被指数等时间序列分析研究[31-32]。
+
+# 2.4 相关分析法
+
+本文采用相关分析法逐像元研究2000—2014年红河流域植被EVI指数与气候因子（月平均气温与月累积降水量)的关系,以相关系数值大小来判断二者关系的密切程度;计算得出偏相关系数,综合讨论不同气候因子对植被EVI的影响程度。基于复相关分析和偏相关分析的结果研究区内植被EVI变化的驱动因子。本文采用0.05 置信水平完成偏相关分析的 $\mathbf { \chi } _ { t }$ 检验和复相关分析的 $F$ 检验。有关计算公式见王强等[30]、穆少杰等[33]、杨尚武和张勃[34]等文献。 O
+
+# 2.5 滞后性分析
+
+将研究区内2000—2014年生长季植被EVI序列（5月—9月）和生长季月平均气温序列（5月—9月)作为两组变量,计算EVI与月平均气温的相关系数[35-36]。同理,分别计算植被 EVI序列(5月—9月)与月平均气温(4月—8月、3月—7月和2月-6月)和月累积降水量(5月—9月、4月-8月、3月—7月和2月—6月)的相关系数,通过相关系数值的大小讨论植被EVI对气候要素的滞后效应。
+
+# 3结果与分析
+
+3.1 红河流域植被EVI分布及变化情况
+
+基于红河流域 2000—2014年生长季月EVI值计算得到各年生长季年平均EVI值,进行年际变化趋势分析。整体而言,近15年研究区植被生长季EVI均值介于0.47—0.54之间,植被生长季EVI表现为波动减少趋势,变化速率约为 $- 0 . 1 5 \% / \mathrm { a }$ (表1）。 n
+
+# 表1红河流域2000一2014年生长季植被EVI均值
+
+Table1 The mean EVI during growing season in Red River Basin from 2ooo to 2014   
+
+<html><body><table><tr><td>年份Year</td><td>2000</td><td>2001</td><td>2002</td><td>2003</td><td>2004</td><td>2005</td><td>2006</td><td>2007</td><td>2008</td><td>2009</td><td>2010</td><td>2011</td><td>2012 2013</td><td>2014</td></tr><tr><td>EVI均值 Mean value of EVI</td><td>0.482</td><td>0.506</td><td>0.531</td><td>0.514</td><td>0.519</td><td>0.498</td><td>0.528 0.515</td><td>0.538</td><td>0.527</td><td>0.488</td><td>0.501</td><td>0.476</td><td>0.492</td><td>0.486</td></tr><tr><td>趋势方程 The trend equation</td><td></td><td></td><td></td><td></td><td></td><td></td><td>y=-0.0015x+0.5186；R=0.336</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+根据红河流域 2000—2014年植被EVI的多年平均空间分布格局（图2）,研究区可初步划分为3个区域：$\textcircled{1}$ 红河流域西部(I-红河以西地区)植被类型以亚热带针叶林、亚热带草丛、落叶阔叶灌丛为主,植被 EVI分布由北向南逐渐增加;EVI低值区主要分布在南涧县东北部,景东县等地区;EVI高值区主要分布在江城县，绿春县西南部等地区； $\textcircled{2}$ 红河流域中部（ⅡI-红河以东、南溪河以西地区）,EVI值相对于全区总体偏小;植被类型为亚热带针叶林、亚热带常绿阔叶林等;低值区主要分布在弥渡县、易门县和禄丰县-双柏县一带等地区;高值区主要集中在建水县和屏边县等地区。 $\textcircled{3}$ 红河流域东部地区（ⅢI-南溪河以东）,本区高程起伏较小,EVI局部分异明显;植被类型以热带常绿阔叶林、亚热带季风常绿阔叶林等为主;低值区集中展现在文山县及其北部地区;高值区分布在马关县西南部,麻栗坡东南部等地区。整体上,流域内EVI指数大致表现出由北向南递增的趋势。此外,哀牢山两侧植被EVI指数的分布呈现出自西向东递减的趋势。
+
+红河流域 2000—2014 年植被EVI平均值年际变化值 $\theta _ { \mathrm { s l o p e } }$ 介于-0.038—0.021之间（图2）。整体上来看，红河流域EVI呈减少趋势（即 $\theta _ { \mathrm { s l o p e } } { < } 0 \$ )区域,其中减少较为严重的区域主要集中在绿春县中部、金平县西南部、南涧县以及文山县西部等地,尤其以哀牢山为典型代表;EVI呈增加趋势（即 $\theta _ { \mathrm { s l o p e } } { > } 0 \$ )区域集中分布在墨
+
+![](images/9749098079399cd28436f57fc2353f09c1ba7c36a5deaf9c821a45d305157a00.jpg)  
+图2红河流域2000一2014年生长季植被EVI均值和年际变化率
+
+Fig.2Thespatial distributionofmeanEVIandannualvariabilityEVIduringgrowingseasoninRedRiverBasin from20 to201 江县、文山县,麻栗坡中部、广南-富宁南部等地,且红河流域东部植被EVI整体上也呈现改善的状态。
+
+3.2植被EVI与气候因子的滞后效应分析
+
+植被指数与气候因子的响应在时间是和空间上具有显著差异[37-39],植被对气候因子的规律性变化往往表现出不同程度的滞后效应[9,4041]。红河流域生长季植被 EVI对不同时间序列月平均气温和月累积降水量相关系数统计结果表明,生长季植被EVI与四个不同时间序列月平均气温呈负相关、与月累积降水量呈正相关关系（表2)。由红河流域生长季植被 EVI与不同时间序列月平均气温和月累积降水量相关系数值（通过0.05显著性检验)可知,红河流域生长季植被EVI与同时期月平均气温之间的相关系数绝对值达到最大,两者关系最为密切,而降水滞后一个月（表2)。因此,总体上植被EVI对气候变化的响应比较迅速,对降水变化的响应则较为缓慢。
+
+表2红河流域生长季植被EVI(5月一9月)与不同时间序列月平均气温和月累积降水量相关系数  
+Table2Therelationalanalysis betwengrowngseasonEVI(May—September)andclimaticfactors（themonthlymeanairtemperaturean the monthly cumulative precipitation）of different time series in Red River Basin   
+
+<html><body><table><tr><td>相关系数 The correlation coefficient</td><td>2月-6月 February—June</td><td>3月-7月 March—July</td><td>4月—8月 April—August</td><td>5月-9月 May—September</td></tr><tr><td>月累积降水量 Monthly cumulative precipitation</td><td>0.596814</td><td>0.602267</td><td>0.607277</td><td>0.59888</td></tr><tr><td>月平均气温 Monthly mean air temperature</td><td>-0.427445</td><td>-0.47234</td><td>-0.505674</td><td>-0.51766</td></tr></table></body></html>
+
+# 3.3植被EVI与气候因子的相关分析
+
+红河流域生长季平均气温 2000—2014年间总体呈现增温趋势,增温速率为 $0 . 0 7 3 ^ { \circ } \mathrm { C } / \mathrm { a }$ （图3）。生长季累积降水量总体呈现减少趋势,减少速率为- $- 0 . 9 5 \mathrm { { m m } / \mathrm { { a } } }$ （图3)；研究时间段内多年生长季平均气温和平均降水量分别为 $2 2 . 9 3 ^ { \circ } \mathrm { C }$ 和 $8 7 8 . 8 1 \mathrm { m m }$ 。区域内生长季平均温度的空间分布表现出“东高西低”的特点[10]；累积降水量以元江-红河为界,向东减少,向西增加[11]。
+
+依据滞后性分析结果,将生长季植被EVI分别与5月—9月月平均气温和4月—8月月累积降水量进行偏相关分析。由植被EVI与气温偏相关的空间分布可知（图4）,植被EVI与气温整体呈负相关关系（面积约占比 $9 0 . 0 5 \%$ ),仅在金平县西南部、麻栗坡中部较低地势区表现出显著的正相关关系。此外,在哀牢山两侧气温与EVI指数表现出不同的相关关系,在东侧集中表现为负相关关系,西侧则表现出弱相关性。
+
+研究区植被 EVI与降水偏相关分析在空间上呈现不均匀分布的特点（图4),两者的相关系数介于
+
+![](images/81a1122294f061ee7716ba9aa78c25500407e4f58aae37f9d3f1887cd01fdfa3.jpg)  
+图3红河流域2000一2014年生长季平均气温和累计降水量
+
+Fig.3 The monthly mean air temperature and the monthly cumulative precipitation of growing season in Red River Basin from 2000 to 2014 （ n
+
+![](images/aab923fbbfafba5ac1074e56c90967187461c1e1ed61ecd9c7a183c1b5ece7b0.jpg)  
+图4红河流域 2000一2014年植被生长季EVI与气温、降水的偏相关系数  
+Fig.4ThespatialdistrbutioofpartialelatiosetwnEVadtmpeatureswellaspreiiatoninRediverBasfrom0 to 2014 ? 1
+
+-0.77—0.95之间，正相关及负相关的区域分别占研究区面积的 $7 4 . 1 9 \%$ $2 5 . 8 1 \%$ ,整体以正相关关系为主。在南涧县-弥渡县-南华县一带、建水县东南部以及哀牢山等海拔较高的地区,降水量较为丰富,加上气温背景总体较高,因此降水对植被的生长表现出促进作用。
+
+由植被年EVI均值与气候因子(月平均气温和累积降水量)的复相关分析可知(图5),二者的复相关系数在0—0.97之间。整体而言,植被 EVI与气候因子的复相关性较强的区域主要集中在双柏县和南华县-弥渡县交界处。复相关性较弱的区域主要分布在红河流域西南部以及红河流域东部地区,集中分布在景东县-墨江县和文山县等地。
+
+# 3.4植被EVI与气候因子的驱动力分析
+
+气候条件是影响区域植被分布的主要环境因子,以降水和气温表现尤为明显[42]。选取气温和降水条件作为气候因子,采用气候对植被定量因子变化的驱动分区方法,对红河流域植被EVI变化进行驱动力分区,参考多数研究者关于气候要素对植被定量因子变化的驱动分区方法[30.43-44],结合研究区“干热河谷"背景,本文进一步将气温和降水细分为正向驱动和负向驱动两类（表3）。
+
+http://www.ecologica.cn
+
+表3植被EVI变化驱动力分区准则  
+Table 3The regionalization rules of driving force for dynamic change of EVI   
+
+<html><body><table><tr><td rowspan="2">植被 EVI变化驱动因子 EVI changes driving factors</td><td rowspan="2"></td><td colspan="4">分区准则Rules</td></tr><tr><td>F</td><td>T</td><td>Tp</td><td>R</td></tr><tr><td rowspan="6">气候因子Climate factors</td><td>[T+P]#</td><td>F>Fα=0.05</td><td>It|>ta=0.05</td><td>Itl>t=0.05</td><td></td></tr><tr><td>T+</td><td>F>Fa=0.05</td><td>It|>ta=0.05</td><td></td><td>rτ>0</td></tr><tr><td>T</td><td>F>Fa=0.05</td><td>Itl>t=0.05</td><td></td><td>rr<0</td></tr><tr><td>p+</td><td>F>Fa=0.05</td><td></td><td>It|>ta=0.05</td><td>rp>0</td></tr><tr><td>P-</td><td>F>Fa=0.05</td><td></td><td>It|>ta=0.05</td><td>rp<0</td></tr><tr><td>[T+P]</td><td>F>Fa=0.05</td><td>It|≤ta=0.05</td><td>It|≤ta=0.05</td><td></td></tr><tr><td>非气候因子 Non-climate factors</td><td>NC</td><td>F≤F=0.05</td><td></td><td></td><td></td></tr></table></body></html>
+
+$F$ ：EVI与气温、降水复相关的 $F$ 显著性检验 $F$ -Test significance of the multiple correlations between EVI and temperature-precipitation ; $T _ { T }$ : EVI 与气温偏相关的 $\mathbf { \chi } _ { t }$ 显著性检验 $T$ -Test significance of the partial correlations between EVI and air temperature; $T _ { P }$ ：EVI与降水偏相关的 $\mid t \mid$ 显著性检验 T-Test significance of the partial correlations between EVI and precipitation; $R$ ：EVI与气温 $\left( \boldsymbol { r } _ { t } \right)$ 、降水 $( r _ { p } )$ 的偏相关系数 The Partial correlation coefficient between EVI and air temperature $\left( \mathbf { r } _ { \mathrm { { t } } } \right)$ or precipitation $( \mathbf { r } _ { \mathrm { p } } ) \mathbf { ; } \left[ \mathbf { \nabla } T \mathbf { + } P \right] ^ { \sharp }$ ：气温降水强驱动 Change driven by air temperature and precipitation strongly ; $T ^ { + }$ ：气温为正驱动 Change driven by air temperature positively； $T ^ { - }$ ：气温为负驱动 Change driven by air temperature negatively; $P ^ { + }$ ：降水为正 驱动 Change driven by precipitation positively; $P ^ { - }$ :降水为负驱动 Change driven by precipitation negatively；[T+P]：气温降水弱驱动 Change driven by air temperature and precipitation weakly ; $N C$ ：非气候驱动 Change driven by non-climate
+
+![](images/27042cbec53c9133e7a4ab1b75c40832b88f8d1cdc857576037d9cacd4ebaa6d.jpg)  
+图5红河流域2000—2014年植被生长季EVI与气温-降水的复相关系数和EVI变化驱动力分区  
+Fig.5ThespatialdistrbutonofultiplecoelationbetwnEVandirtemperature-precipitationdEVdrivingfactorsiRedRiver Basin from 2000 to 2014
+
+由红河流域植被EVI驱动分区图(图5)可知,红河流域内受气候因子驱动的地区大部分表现为气温、降雨弱驱动，主要集中在南华县、双柏县以及峨山县东部等地区,面积约占 $1 . 3 9 \%$ ;其次,气温对植被EVI指数变化主要表现为负向驱动,区域主要集中在哀牢山东侧以及楚雄等地区,这些区域受到哀牢山的阻隔作用,东侧生长季累积降水量明显少于西侧,因此研究时段内较高的平均气温在哀劳山东侧对植被的生长表现为明显的抑制作用,面积约占研究区面积的 $1 . 2 6 \%$ ;而降雨则主要表现为正向驱动,主要集中在元江县,区域内的元江干热河谷处于高温少雨的环境下,热量资源十分丰富,导致植被对降水的反应较其他地区更为敏感,面积约占$0 . 4 6 \%$ 。整体上，红河流域大部分地区植被EVI指数表现为非气候因子驱动。
+
+# 4结论与讨论
+
+本文利用MOD13Q1的EVI数据集分析了红河流域 2000—2014年间生长季植被EVI分布格局和变化趋势;采用相关分析法获取了研究区生长季植被EVI与4个不同时间序列的月平均气温和月累积降水量的相关系数值,在0.05的置信水平卜基于相关分析和滞后效应结果对红河流域生长季植被EVI变化的驱动因子进行分区,得出以下结论：
+
+(1)红河流域 2000—2014 年生长季植被 MODIS EVI均值介于0—0.74,整体上呈波动减少趋势,年际变化率为 $- 0 . 1 5 \% / \mathrm { a }$ ,空间异质性较为明显。红河流域 2000—2014 年生长季植被 EVI年际变化值 $\theta _ { \mathrm { s l o p e } }$ 介于-0.038—0.021之间,EVI呈减少趋势区域主要集中在在绿春县中部,金平县西南部;这些高海拔地区植被覆盖类型主要为常绿针、阔叶林,落叶阔叶林以及针阔叶混交林等[24],云南省统计年鉴相关资料表明,20002014 年间红河流域林业总产值呈现持续增长的趋势,反映区域林业活动强度的持续增加,可能是导致植被EVI处于退化状态的主要原因。同时以哀牢山为典型代表,研究时段内红河流域在较高的气温背景下（生长季平均气温约大于 $2 2 \%$ ),降水对植被生长的影响相对更为明显,由于山脉对水汽的阻隔和抬升作用,山脉迎风坡的降水量明显大于背风坡[45],因此哀牢山西侧植被覆盖呈改善的区域明显多于东侧。植被EVI呈增加趋势区域集中分布在墨江县、文山县,麻栗坡中部、广南-富宁南部区域、红河-元江以及藤条江西南部地区。一方面,该区地势相对较低,临近墨江、盘龙河、南利河等河流,良好的地理优势能够满足植物生长所需的水热条件;另一方面,红河-元江一带具有较好的区位优势以及丰富的自然资源,自然保护区比例较大[23],相关植被保护措施的实施降低了人类活动对植被生长的干扰程度,沿河谷向两岸表现出明显增加的趋势;此外,在藤条江西南部地区地势较为平坦,植被覆盖类型为一年两熟或三熟水旱轮作物、常绿果树园以及亚热带经济林，农业活动对植被覆盖影响尤为明显,整体表现出改善的趋势。
+
+(2)通过生长季植被EVI与四个不同时间序列的月平均气温和月累积降水量的相关分析可知,生长季植被EVI(5月—9月)与月平均气温和累积降水量相关系数的绝对值最大分别为0.51766（5月—9月）和0.59888（4月—8月）,生长季植被EVI与同期气温相关性较好,但与降水量呈现出滞后性,滞后时间约为1个月。该结论与相关研究结果存在差异,李运刚等[20]认为红河流域 NDVI对温度变化的滞后时间约30—165d,对降水变化的滞后时间约30—150d,总体上NDVI对降水变化的响应比较迅速,对温度变化的响应则较为缓慢;鲍雅静等[9]认为西南纵向岭谷区植被变化对温度和降水滞后时间为20—40天。导致结论差异的原因主要为李运刚等[20]和鲍雅静等[9]通过NDVI变化与气候因子变化的趋势叠加定性判定;本文则基于像元定量计算了植被EVI与不同时间序列气候因子相关系数,通过比较相关系数的大小来确定滞后时间。
+
+(3)红河流域呈现河谷与山脉相间分布的特殊地貌格局,导致相对高差很大,在海拔为 $4 0 0 \mathrm { m }$ 以下的地区人类活动对植被干扰程度十分显著，而海拔大于 $1 8 0 0 \mathrm { m }$ 的地带人为干扰程度迅速下降[40。植被EVI与气候因子复相关性在不同地区表现出明显的差异性,这种结果很可能与海拔、植被类型以及人为活动等有关[46]
+
+红河流域(东部、中部、西部)及附近20个地面气象站生长季的平均气温和累积降水量统计分析表明,红河流域 2000—2014 年生长季平均气温在 $1 8 . 5 4 { \mathrm { - } } 2 9 . 2 4 { \mathrm { ^ { \circ } C } }$ 之间,累积降水量在 $3 7 1 . 6 0 { \mathrm { - } } 1 8 7 4 . 1 0 { \mathrm { m m } }$ 之间。区域气候表现为干热背景,植被EVI与气温呈大面积的负相关关系,而与降水呈显著正相关关系。进行驱动力分区时,发现在0.1的检验水平下,红河流域整体上表现为气候因子驱动。在0.05或者0.01的置信水平检验下,植被EVI变化的驱动力主要表现为非气候因子,这与王强等[30]在横断山区的研究结果较一致。本文采用0.05的置信水平突出显示受气候因子驱动强烈的地区,结果表明,红河流域生长季植被EVI变化主要表现为受非气候因子驱动;受气候影响的区域占 $3 . 1 1 \%$ ,气温以负向驱动型为主（面积约占 $1 . 2 6 \%$ ),降水以正向驱动型为主（面积约占 $0 . 4 6 \%$ ),气温降水联合驱动以弱驱动为主（面积约占 $1 . 3 9 \%$ ）。
+
+# 参考文献（References）：
+
+[1］吴绍洪，戴尔阜，何大明.我国西南纵向岭谷区环境与发展问题初步研究.地理科学进展，2005，24（1)：31-40.  
+［2］王随继，吴绍洪，何大明，戴尔阜，周长海，魏全伟.纵向岭谷北部三江地貌演变的相似性——地貌参数统计关系证据及成因剖析.科学通报，2006，51(S2)：32-39.  
+［3］曹杰，何大明，姚平.纵向岭谷区冬、夏水热条件空间分布研究.地球科学进展，2005，20(11)：1176-1182.  
+[4］何云玲，张一平.纵向岭谷区“通道-阻隔"作用下气温和降雨的空间分布特征.山地学报，2007，25(2)：169-176.338-344.  
+[6] LiYG,HeD,eCpatialdepalratofrofediverBsiianJoualofogacales):308-318.  
+[7] 吴绍洪，潘韬，曹杰，何大明，肖子牛.西南纵向岭谷地形对季风的"通道-阻隔"作用.地理研究,2012,31（1)：1-13.  
+[8] 何云玲，张一平.纵向岭谷区生态环境对气候变化的适应性评价.山地学报，2009，27（3)：300-305.  
+[9] 鲍雅静，宋国宝，李政海，高吉喜，吕海燕，王海梅，程岩，许田.纵向岭谷区植被覆盖的空间分异及其对气候的时滞效应.科学通报2007,52(S2) : 37-42.[10] 万云霞，张万诚，肖子牛.近百年云南纵向岭谷区气温的时空变化特征．自然灾害学报，209,18(5)：183-188.[11] 张万诚，万云霞，肖子牛.中国西南纵向岭谷区近百年降水的时空变化特征．自然资源学报，2006，21（5)：802-809.  
+[12] 何锦峰，苏春江，舒兰，杨忠.基于3S 技术的金沙江干热河谷区LUCC 研究——以云南省元谋县为例．山地学报，2009，27（3）341-348.  
+[13] 张景华，封志明，姜鲁光，杨艳昭.澜沧江流域植被 NDVI与气候因子的相关性分析．自然资源学报，2015，30（9)：1425-1435.  
+[14] 李亚飞，刘高焕.澜沧江流域植被覆盖变化特征及其与气候因子的关系.资源科学，2012，34（7)：1214-1221.  
+[15] 冯彦，何大明，甘淑.纵向岭谷区怒江流域生态变化之驱动力分析.山地学报,2008，26(5）：538-545.  
+[16] 李晖，白杨，杨树华，朱雪，赵凯.基于马尔柯夫模型的怒江流域中段植被动态变化预测.生态学杂志，2009，28（2）：371-376.  
+[17] 周跃，丁文荣，曾和平，王剑.云南纵向岭谷区土地利用的侵蚀环境效应——以黑惠江、龙川江、盘龙河流域为例.山地学报，2009，27(5): 573-578. V  
+[18] 李运刚，何大明.红河流域 NDVI时空变化及其与气候因子的关系.山地学报，2009，27（3）：333-340.  
+[19] 王文玲，李运刚，何大明.红河流域气温和蒸发量时空变化分析.云南地理环境研究，2008，20(2）：109-114.[20] 李红军,郑力，雷玉平,李春强，周戡.基于EOS/MODIS 数据的NDVI与EVI比较研究.地理科学进展,2007,26(1)：26-32.[21] 王正兴，刘闯，Huete A等.植被指数研究进展：从AVHRR—NDVI到 MODIS—EVI.生态学报，2003,23(5）：979-987.[22] 李运刚，何大明，叶长青.云南红河流域径流的时空分布变化规律.地理学报，2008，63（1）：41-49.  
+[23] 郝成元，戴尔阜，吴绍洪，周长海，王昊，潘韬.纵向岭谷区南部“阻隔”作用及植被时空异质性研究.科学通报，206，51（S2)：120-128.  
+[24] 刘世梁，刘琦，张兆苓，邓丽，董世魁.云南省红河流域景观生态风险及驱动力分析.生态学报，2014，34（13)：3728-3734.[25] 何磊，王超，别强，赵传燕.利用 MOD13Q1产品监测肯尼亚2001—2010年荒漠化动态.中国沙漠，2013，33（1）：46-52.[26] 钱永兰，吕厚荃，张艳红.基于ANUSPLIN 软件的逐日气象要素插值方法应用与评估.气象与环境学报，2010,26（2）：7-15.  
+[27] ZhangXQ,ShJoXtialteplatiofrpatureihinGgserea/teatialeonRemote ortation Engineering.Nanjing，China：IEEE，2011:3465-3468.  
+[28] 刘志红，Li ，， $\operatorname { T i m } \mathrm { ~ R ~ M ~ }$ ,Van NielTG，杨勤科，李锐.专用气候数据空间插值软件 ANUSPLIN及其应用.气象,2008，34（2）：92-100.[29] 宋富强，邢开雄，刘阳，刘志超，康慕谊.基于 MODIS/NDVI的陕北地区植被动态监测与评价.生态学报，2011,31（2）：354-363.  
+[30] 王强，张廷斌，易桂花，陈田田，别小娟，何奕萱.横断山区2004-2014年植被 NPP 时空变化及其驱动因子.生态学报，2017，37（9)：3084-3095.  
+[31] 孟丹，李小娟，宫辉力，屈益挺.京津冀地区 NDVI变化及气候因子驱动分析.地球信息科学学报，2015，17（8）：1001-1007.[32] 张月丛，赵志强，李双成，孟宪锋.基于 SPOT NDVI的华北北部地表植被覆盖变化趋势.地理研究，2008,27(4)：745-754.[33] 穆少杰，李建龙，陈奕兆，刚成诚，周伟，居为民.2001-2010年内蒙古植被覆盖度时空变化特征.地理学报，2012,67（9)：1255-1268.[34] 杨尚武，张勃.基于 SPOT NDVI的甘肃河东植被覆盖变化及其对气候因子的响应.生态学杂志，2014，33（2)：455-461.[35] 沈斌，房世波，余卫国.NDVI与气候因子关系在不同时间尺度上的结果差异.遥感学报，2016，20（3）：481-490.[36] 邵怀勇，武锦辉，刘萌，杨武年．MODIS 多光谱研究攀西地区植被对气候变化响应.光谱学与光谱分析，2014，34（1)：167-171.  
+[37] JiL，PetersAJAsesngeatioresosetdughtintorhGratlaisusinggeationaddoghtindicReotesingofEnvironment, 2003,87(1) : 85-98.  
+[38]Nezlin N P, Kostianoy $\overline { { \mathrm { ~ A ~ G ~ } } }$ ,LiBL.Inter-annualvariabilityandinteractionofremote-sensedvegetationindexandatmosphericprecipitation intheAral Sea region.Journal of Arid Environments,2005,62(4）: 677-700.[39］李霞，李晓兵，陈云浩，莺歌.中国北方草原植被对气象因子的时滞响应.植物生态学报，2007，31(6)：1054-1062.[40] 李政海，宋国宝，高吉喜，鲍雅静，彭华，王海梅，姜昀，吕海燕.纵向岭谷区土地利用时空变化与岭谷格局及通道效应的关系研究.科学通报，2006,51(S2）：90-99.  
+241] GowardNrSassofteoeadstelieJalofa/)549-564.  
+[42] 罗隆诚，王俊.半干旱地区NDVI对气温和降水响应的多时间尺度分析——以甘肃省榆中县为例.干旱区资源与环境，2011，25（9)：167- 171.[43] 王永财，孙艳玲，王中良.1998—2011年海河流域植被覆盖变化及气候因子驱动分析.资源科学，2014，36(3）：594-602.[44] 陈云浩，李晓兵，史培军.1983—1992年中国陆地 NDVI变化的气候因子驱动分析.植物生态学报，2001,25(6)：716-720.[45] 潘韬，吴绍洪，何大明，戴尔阜，刘玉洁.纵向岭谷区地表格局的生态效应及其区域分异.地理学报，2012,67(1)：13-26.[46] 温敏霞，刘世梁，崔保山.纵向岭谷区生态承载力的时空动态及驱动因子研究.科学通报，2007,52（S2）：64-70.

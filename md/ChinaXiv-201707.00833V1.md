@@ -1,0 +1,201 @@
+# 人源AIuRNA工程菌的构建和表达
+
+尹舒贤¹　赵月华¹　刘　超² 吕占军2\*\* 王秀芳2\*\*(1河北医科大学口腔医学院石家庄050017)(2 河北医科大学河北省实验动物重点实验室遗传研究室石家庄050017)
+
+摘要目的：外源RNA导入细胞特异性上调或下调基因表达，目前外源RNA的制备方法主要有化学合成、体外转录、细胞提取。AluDNA和AluRNA是人基因组和转录组中最重要的成分，参与基因表达调节。建立工程菌制备基因工程人源Alu RNA（Alu RNA)的技术,所提取的RNA 满足一般生物学实验要求。方法和结果：将人Alu序列插入pET $2 8 \alpha$ 质粒（pET）,转化BL-21菌，探讨不同条件对AluRNA产生的影响。用 $\mathrm { \ p E T - A l u } \times 8$ 质粒转化BMBL-21（DE3）感受态细胞（简称DE3）,异丙基 ${ \bf \cdot \ } { \bf \ \ }$ -D-硫代半乳糖苷(IPTG)诱导减弱细菌生长;用 IPTG 诱导 $2 \mathrm { h } \ 、 4 \mathrm { h } \ 、 6 \mathrm { h } \ 、 8 \mathrm { h } \ 、 1 0 \mathrm { h } .$ 12h、14h 和 $1 6 \mathrm { h }$ ,用 Northern 杂交检测Alu RNA的量,发现诱导4小时RNA产量最高;1、2、4、8、14拷贝的Alu序列插入pET,转化DE3菌,随拷贝数增加AluRNA产量上升； $\mathrm { \ p E T - A l u } \times 8$ DE3 菌液，不加IPTG诱导，没有AluRNA产生， $0 . 1 \sim 0 . 4 \mathrm { m g / m l }$ IPTG诱导时，AluRNA产量没有区别，偏离该浓度时，RNA产量略下降； $3 4 ^ { \circ } \mathrm { C } \mathrm { ~ } , 3 7 ^ { \circ } \mathrm { C }$ 和 $4 0 \%$ 培养pET-Alu $\times 8$ DE3 菌液,IPTG诱导4h，在 $3 7 \%$ 培养条件下，RNA产量最高；将 $\mathrm { p E T - A l u } \times 8$ 质粒转化3种BL-21感受态细胞，包括DE3、BMBL21-DE3-pLysS（简称 pLysS)和 Trans BL21（简称 TransBL）,发现转化 DE3 感受态细胞后 Alu RNA 产量最高。结论：建立了基因工程制备AluRNA的技术： $\mathrm { \ p E T - A l u } \times 1 4 \$ 质粒转化DE3菌， $3 7 \mathrm { ^ { \circ } C }$ 培养至 $6 0 0 \mathrm { n m } ~ O D$ 为1.0时,加入终浓度为 $0 . 2 \mathrm { m g / m l }$ 的 IPTG诱导 $^ \mathrm { 4 h }$ ,获得最高Alu RNA 产量,纯 AluRNA 在提取的RNA中的含量达 $1 5 . 8 \%$ ，每 $1 0 0 \mathrm { m l }$ 菌液纯 Alu RNA 产量平均为 $0 . 4 6 \mathrm { m g }$ 。
+
+关键词 基因工程RNAAluRNA IPTG诱导 BL21(DE3)感受态细胞
+
+# 中图分类号 Q81
+
+RNA作为基因表达调节的重要因素越来越引起人们的重视[1]。已经证明 RNA 能上调或下调基因表达，参与基因表达调节的 RNA 有 microRNA[2-3]、小激活RNA（small activating RNA,saRNA）[4-5]、非编码 RNA（non-codingRNA,ncRNA）[6-7]等。细胞中的RNA可以由细胞中的DNA（基因组DNA或转染的质粒等)转录产生,也可以由外源导人[5,8]。获得外源导人RNA（外源 RNA)的方法有RNA合成仪合成9、体外转录[1°和从细胞中提取[11]。Alu 是人基因组中最重要的非编码序列,占人基因组的 $1 0 \%$ [12-13],Alu 序列影响基因表达[14-15]。Alu 家族是灵长类基因组特有的含量丰富的短散在重复序列（short interspersed elements,SINEs），在人基因组中的拷贝数已经达到了100万，在所有已知的基因内含子中几乎都发现了Alu序列。这一基因家族曾被认为是垃圾序列，但随着研究的深入，Alu在基因调控表达网络中的功能逐渐被发现，Alu与人类的疾病密切相关，Alu元件的插入、删除和重组导致了许多先大性遗传疾病和癌症，并且可能影响人类衰老，在人类多样性中也发挥重要作用。目前，对于Alu序列的功能了解得还不透彻，推测主要参与基因调控、基因重排、CpG甲基化、hnRNA选择性剪切、结合转录因子和激素等。本文用Alu RNA为例建立用基因工程菌制备人源AIuRNA（AluRNA)的方法，该方法也适于制备其他人源RNA。制备的人源RNA可用于细胞学实验。
+
+# 1材料与方法
+
+# 1.1 主要试剂和耗材
+
+pET $2 8 \alpha$ 质粒为本研究室保存；尼龙转移膜（Positively CHGD．Nylon transfer membrane,英国GEHealthcare公司）；卵白素-过氧化物酶（avidinperoxidase，武汉博士德生物）；生物素标记dUTP（biotin-16-dUTP，瑞士罗氏生物科技公司）；BMBL21-DE3（简称DE3）、BMBL21-DE3-pLysS（pLysS）和 TransBL21（TransBL)感受态细胞（北京博迈德生物）；辣根酶化学发光液（美国Life Technologies 公司）;HindIⅢ和NheI等限制酶（大连TaKaRa公司）;T4DNA连接酶（T4 DNA Ligase,Thermo Scientific 公司）；DNase IRNase free,Thermo Scientific 公司）;RNase A（SolarbioJ）；RNase抑制剂(RNase inhibitor，Thermo Scientific公司)；鱼精DNA（Solarbio公司）；质粒小提试剂盒（北京 Tiangen 生物公司);异丙基硫代半乳糖苷（IPTG,Solarbio 公司）;封闭专用脱脂奶粉（北京普利莱基因技术公司）。
+
+# 1.2 实验方法
+
+1.2.1pET-Alu 质粒构建本研究室在以往的研究中已经成功构建了 $\mathrm { C 1 - A l u } \times 1 \mathrm { a s }$ （将1拷贝的Alu元件反向插入pEGFP-C1质粒的EGFP基因下游构建而成）、C1-Alu $\times 2$ as $\mathrm { , C l - A l u \times 4 a s \ , C l - A l u \times 8 a s \ , C l - A l u \times 1 4 a s }$ 质粒[16]。用HindⅢl和 Nhe I分别酶切这些C1 衍生质粒 $1 \%$ 琼脂糖电泳，切胶，分离插入片段。 $\mathrm { p E T } { - } 2 8 \alpha$ 用HindⅢ和NheI酶切,电泳,切胶分离质粒片段。将插入片段和pET质粒片段用T4DNA连接酶连接，将构建的质粒转化 $\mathrm { D H } 5 \alpha$ 大肠杆菌感受态，按常规方法涂平板、提质粒、酶切和测序鉴定，即构建成pET-Alu $\times 1$ 、pET-Alu $\times 2$ 、pET-Alu $\times 4$ 、pET-Alu $\times 8$ 、pET-Alu $\times 1 4$ 质粒。
+
+1.2.2BL-21 转化及IPTG 诱导本文中使用了3种BL-21大肠杆菌（DE3、pLysS和TransBL），它们的感受态细胞用pET或pET-Alu质粒热激法转化，涂平板，提质粒，酶切鉴定，选正确质粒转化菌，摇菌用LB-卡那霉素(终浓度 $3 0 \mu \mathrm { g / m l }$ )培养至 $6 0 0 \mathrm { n m } ~ O D$ 值为0,加入IPTG（终浓度 $0 . \ 2 \mathrm { m g / m l }$ ）， $3 7 \%$ 继续摇菌 $ { 4 \mathrm { h } }$ 。改变IPTG浓度,改变摇菌时间，培养温度等条件在文中注明。
+
+1.2.3 AluRNA制备月 用热酚法制备Alu RNA[I]具体方法简述如下： $1 0 \mathrm { m l }$ 菌液离心后，在沉淀中加入$2 \%$ SDS-0.15mol NaCI $2 \mathrm { m l }$ ，再加水饱和酚 $\mathrm { 1 m l }$ ， $6 0 ^ { \circ } \mathrm { C }$ $3 0 \mathrm { m i n }$ ,冷却后加氯仿 $0 . 5 \mathrm { m l }$ ,离心取上清液，加3倍体积无水乙醇， $4 ^ { \circ } \mathrm { C }$ 沉淀 $3 0 \mathrm { { m i n } , 1 2 \ 0 0 0 \mathrm { { r / m i n } } }$ 离心， $7 5 \%$ 乙醇洗沉淀2次，加上清液 $1 / 1 0$ 体积的DNaseI（终浓度$0 . 5 \mathrm { U } / \mathrm { m l }$ )-RNase抑制剂(终浓度 $0 . 5 \mathrm { U } / \mathrm { m l }$ )消化残存的DNA，获得无DNA污染的 $\mathrm { \ A l u \ R N A }$ 。为了检测所获得的RNA是否含有DNA污染，在DNaseI消化的基础上用RNaseA（终浓度 $1 0 0 \mu \mathrm { g / m l }$ )消化。提取的AluRNA用Northern杂交进行检测。
+
+1.2.4Northern 检测 Alu RNA1mmol/L 的 dATP、dCTP、dGTP 等量混合，1mmol/LdTTP的加入量为dATP的2/3，1mmol/LBiotin-16-dUTP的加入量为dATP的1/3,配制出 $0 . 2 5 \mathrm { m m o l / L }$ Biotin-dNTP。用C1-$\mathrm { \ A l u } \times 8$ 质粒作为模板, $\mathrm { A l u l 4 0 F }$ 作为上游引物( $5 ^ { \prime } \mathrm { G T G }$ GTGGCGGGTGCCTGTAG），AluR作为下游引物 $( 5 ^ { \prime }$ TGAGACGGAGTCTCG CTG TG），扩增Alu序列的140bp片段，PCR反应液中含有终浓度为0.1mmol/L的Biotin-dNTP，PCR反应液中的其他成分为常规组成。PCR循环条件： $9 4 ^ { \circ } \mathrm { C } 3 0 \mathrm { s } , 5 0 ^ { \circ } \mathrm { C } 3 0 \mathrm { s } , 7 2 ^ { \circ } \mathrm { C } 1 \operatorname* { m i n } , 3 0$ 个循环。即制备出Biotin 标记的Alu 探针。
+
+Alu RNA经甲醛变性胶电泳后转尼龙膜[17],用次甲基蓝染色,预杂交液（含 $1 \%$ 脱脂专用奶粉， $1 0 \mathrm { m g / m l }$ 鱼精DNA)封闭，换为杂交液(预杂交液中加入Biotin标记的 Alu 探针）,于HL-200O HybriLinker 杂交炉中，$4 2 \%$ 旋转杂交过夜。冲洗后，加入 $1 : 2 0 0$ 稀释的卵白素-过氧化物酶，摇床反应1h，冲洗后加入辣根酶化学发光液,伯乐成像分析系统（ChemiDocTM Touch,Bio-RAD公司)照相。用Gel-Pro-analyzer软件分析积分光密度(IOD)值。
+
+# 2 结果与分析
+
+# 2.1表达载体构建及酶切鉴定
+
+Hind I/NheI酶切 $\mathrm { C l - A l u } \times 1 \mathrm { a s } \ : \mathrm { , C l - A l u } \times 2 \mathrm { a s } \ : \mathrm { _ { \times } }$ $\mathrm { C 1 - A l u } \times 4 \mathrm { a s } \ \mathrm { , C 1 - A l u } \times 8 \mathrm { a s } \ \mathrm { , C 1 - A l u } \times 1 4 \mathrm { a s }$ 质粒， $1 \%$ 琼脂糖电泳，切胶分离小片段，插入HindⅢI/NheI酶切的pET质粒,获得pET-Alu $\times 1$ 正（简称 $\mathrm { \ p E T - A l u } \times 1$ ）、pET-Alu $\times 2$ 、pET-Alu $\times 4$ 、pET-Alu $\times 8$ 、 $\mathrm { \ p E T - A l u \times 1 4 }$ 质粒。插入位置示意图见图 $\mathrm { 1 a }$ 。Hind II/NheI酶切电泳EB染色图见图1b，酶切电泳结果符合预计结果。
+
+# 2.2IPTG诱导和不诱导细菌生长曲线
+
+pET-Alu $\times 8$ DE3 菌、pETDE3 菌、DE3 菌,共3种
+
+![](images/7c1697dbb4a0ea920775f4356fa2e31649c8208bcd5554290e5e51b473721d8b.jpg)  
+图1质粒构建和酶切鉴定示意图 Fig.1The diagrammatic sketch of plasmid construction and enzyme digestion
+
+(a）Schematic diagram of plasmid construction（b）Agarose gel   
+electrophoresis images of plasmids being digestedlane 1：pET; lane 2 : pET-Alu $\times 2$ ; lane 3: pET-Alu $\times 4$ ; lane 4: pET;lane 5：pET-Alu $\times 1 4$ ；lane 6：Marker
+
+菌摇菌培养，调 $6 0 0 \mathrm { n m } ~ O D = 1 . ~ 0$ 。不加 IPTG或加IPTC,培养 $1 \mathrm { h } \lrcorner 2 \mathrm { h } \lrcorner 3 \mathrm { h } \lrcorner 4 \mathrm { h } \lrcorner 5 \mathrm { h } \lrcorner 7 \mathrm { h } \lrcorner 9 \mathrm { h }$ ,分别取出1份测定$6 0 { \overline { { \Theta } } } { \overline { { \operatorname* { m i n } } } } O D$ 值。发现3种菌不加IPTG诱导， $O D$ 值在2.6左右进入平台期;加IPTG诱导， $\mathrm { \ p E T - A l u } \times 8$ DE3 菌、pETDE3 菌在1.3左右进入平台期,说明IPTG 抑制该2种菌的生长，加IPTG对DE3菌生长影响不大（图2）。
+
+# 2.3 IPTG诱导时间的作用
+
+pET-Alu $\times 8$ DE3 菌在 $3 7 ^ { \circ } \mathrm { C }$ 培养至 $6 0 0 \mathrm { n m } ~ O D$ 值为1.0时,加IPTG $0 . 2 \mathrm { m g / m l }$ 诱导 $2 \mathrm { h } \ . 4 \mathrm { h } \ . 6 \mathrm { h } \ . 8 \mathrm { h } \ . 1 0 \mathrm { h } \ . 1 2 \mathrm { h } \$ ，$1 4 \mathrm { h } , 1 6 \mathrm { h }$ ，提取RNA进行Northern检测，发现 $2 \sim 4 \mathrm { h }$ RNA表达达到高峰， $8 \sim 1 4 \mathrm { h }$ 维持在相对恒定的低水平,16h时RNA表达明显下降（图3a），图3b是次甲基蓝染色显示的上样RNA量。用Gel-Pro-analyzer分析软件计算图3a中每一个泳道的条带积分光密度（IOD），所得结果如图3c所示。
+
+# 2.4IPTG浓度对RNA产量的影响
+
+pET-Alu $\times 8$ DE3菌液，不加IPTG诱导，没有AluRNA产生（图4泳道1）， $0 . 1 \sim 0 . 4 \mathrm { m g / m l }$ IPTG诱导时，
+
+![](images/3749fe948419a985774a23512b818ef8095525394592ac300baad26ea801ece2.jpg)  
+图2IPTG诱导对菌体生长的影响  
+Fig.2Effects of IPTG induction on growth of bacteria
+
+AluRNA产量没有区别,偏离该浓度时，RNA产量略下降(图4）。
+
+# 2.5插入Alu拷贝数的作用
+
+pET-Alu $\times 1$ DE3菌、pET-Alu $\times 2$ DE3菌、pET-$\mathrm { A l u } \times 4$ 、pET-Alu $\times 8$ DE3菌、pET-Alu $\times 1 4$ DE3菌, $\boldsymbol { o D }$ 1.0时加IPTG诱导4h，提取RNANorthern检测，随Alu拷贝数的增加，AluRNA产量上升（图5a），图5b是次甲基蓝染色显示的上样RNA量。图5c是根据图5a绘制的杂交信号强度图。
+
+# 2.6工程菌的培养温度对RNA产量的影响
+
+pET-Alu $\times 8$ DE3 菌在 $3 7 \%$ 培养至 $6 0 0 \mathrm { n m } ~ O D$ 值为1.0时，加入终浓度为 $0 . 2 \mathrm { m g / m l }$ 的IPTG于 $3 4 ^ { \circ } \mathrm { C } \mathrm { ~ } , 3 7 ^ { \circ } \mathrm { C }$ 和 $4 0 \%$ 培养4h,提取RNA,Northern杂交结果和次甲基蓝染色结果见图6a和图6b;图6c为图6a的软件分析IOD结果。显示， $3 7 \%$ 培养AluRNA产量最大（泳道1），其次为 $3 4 ^ { \circ } \mathrm { C }$ 培养（泳道2）， $4 0 \%$ 培养几乎没有AluRNA产生（泳道3）。
+
+# 2.7宿主菌类型对RNA产量的影响
+
+pET-Alu $\times 8$ TransBL菌 $\mathrm { \nabla . p E T - A l u } \times 8$ DE3 菌和pET-$\mathrm { A l u } \times 8 \mathrm { p L y s S }$ 菌，分别培养到 $6 0 0 \mathrm { n m } ~ O D$ 值为1.0,加入终浓度为 $0 . \ 2 \mathrm { m g / m l }$ 的IPTG,于 $3 7 \%$ 培养 $^ \mathrm { 4 h }$ ，提取RNA，Northern杂交结果和次甲基蓝染色结果见图 $\mathrm { 7 a }$ 、b;图7c为图7a的软件分析IOD结果。显示,pET- $\mathrm { A l u } \times 8$ DE3菌AluRNA产量最大（泳道2），其次为pET $\mathrm { \cdot A l u \times 8 p L y s S }$ 菌（泳道3），pET-Alu $\times 8$ TransBL菌没有AluRNA产生（泳道1）。
+
+# 2.8 DNA 酶和RNA 酶消化Alu RNA
+
+pET-Alu $\times 8$ DE3菌IPTG诱导，热酚法提取RNA， (a）The results of northern blotting after different time induced by IPTG（b）Dyeing results of methylene blue（c）IOD values of each lane of the northern bloting results（means of three independent experiments)
+
+![](images/028d3fe225d6d899d8d3eca9398700032eea4b7335eda0cf55fed011b0921eed.jpg)  
+图3IPTG诱导时间对AIuRNA产量的影响Fig.3Effect of IPTG induction timeontheyieldofAluRNA
+
+DNaseI消化去除残存的DNA（图8a,泳道1），不用DNaseI消化（图8a,泳道2），DNaseI和RNaseA消化，去除残存的DNA和RNA（图8a，泳道3），然后做Northern杂交检测AluRNA,结果见图8。泳道1和泳道2的IOD值没有明显的区别，说明热酚法提取的RNA中质粒DNA所造成的探针杂交信号不起主要作用。泳道3没有杂交信号，说明RNA在杂交信号出现中起主要作用。
+
+因为pET-Alu $\times 1 4$ DE3 菌的 Alu RNA 产量最高
+
+# 2.9 AluRNA产量的估算
+
+![](images/b9754d9779f4539ef7b298f7fd840feb32fa8456e7155d83c0ad4b99ace906b9.jpg)  
+图4IPTG浓度对AluRNA产量的影响Fig.4Effects of IPTG concentrationsonyieldofAluRNA
+
+(a）Northern detection results after 4 hours induction by different concentrations of IPTG（b）Dyeing results of methylene blue
+
+（图5，泳道6），因此用 $\mathrm { \ p E T - A l u } \times 1 4$ DE3菌进行实验，对AluRNA的产量进行估算。将菌体培养至 $\boldsymbol { o D }$ 值为1.0时加入 $0 . 2 \mathrm { m g / m l }$ IPTG, $3 7 \mathrm { ^ { \circ } C }$ 培养4h,提取RNA,6次实验每 $1 0 0 \mathrm { m l }$ 菌液获得的RNA产量为( $( 2 . 9 4 \pm$ $0 . 5 9 ) \mathrm { m g _ { \circ } R N A }$ 经Northern 检测,同时以正向Alu单链DNA作为参照（称为参照 $\mathrm { \ A l u }$ ),RNA上样量 $5 \mu \mathrm { g } /$ 孔，Alu参照 $0 . 2 \mu \mathrm { g } /$ 孔，图 $9 \mathrm { a }$ 显示 Northermn 杂交结果，图9b 是两个泳道的IOD值。Alu RNA孔的信号强度是DNA信号强度的3.95倍。如果忽略RNA和DNA结合能力的差异，那么所制备的AluRNA中有 $1 5 . 8 \%$ 属于纯AluRNA。纯AluRNA在所提取的AluRNA中所占比例的计算步骤如下：参照 $\mathrm { \ A l u \ \mu g }$ 数（本文为0.$2 \mu \mathrm { g } ) \times ( \mathrm { A l u \ R N A }$ 泳道的IOD 值/参照 Alu 的IOD 值)$\mathbf { \Sigma } = \mathbf { \Sigma }$ Alu RNA 泳道中的纯 Alu RNA的 $\mu \mathrm { g }$ 数；（纯AluRNA ${ \mu \mathrm { g / A l u } }$ RNA上样量 $\mu \mathrm { g }$ ） $\times 1 0 0 \% =$ 纯AluRNA在所提取AluRNA中所占的比例。每 $\mathrm { 1 0 0 m l }$ 菌液可提取$2 . 9 4 \mathrm { { m g } }$ RNA,其中 Alu RNA 的含量占 $1 5 . 8 \%$ ，那么每$1 0 0 \mathrm { m l }$ 菌液纯 AluRNA产量平均为 $0 . 4 6 \mathrm { m g }$ 。
+
+![](images/97e81f848d43614c21d8ebfe1f4148e621a8514bff6025b523b9110fba5d2617.jpg)  
+图5AIu拷贝数对AluRNA产生的影响Fig.5Effect of copy number of Alus onAlu RNA production
+
+(a)The results of northern detection1,2,4,8 or 14 copies of Alu elements were inserted into the pET plasmid to construct pETAlu plasmids that were transformed into DE3 bacteria，the northern blot results showed that Alu RNA production amount increased with the increase of Alu copy number（b）Dyeing result of methylene blue（c）IOD values of each lane of the northern blotting results （means of three independent experiments\* ：The Alu RNA yield of pET-Alu 14 plasmid was significantly higher than that of other
+
+# 3讨论
+
+外源 RNA 有调节基因表达作用[17-20]。Elbashir等[21]证明合成的 siRNA转染进入培养的人细胞后，能进入RNA诱导沉默复合体，降解靶mRNA进而沉默基因表达。本实验室最近的研究发现，从细胞中提取的外源性肝RNA能诱导小鼠成纤维细胞白蛋白基因的DNaseI消化敏感性上升,提示外源RNA有改变染色质构象的作用[1]
+
+外源RNA的获得途径包括：RNA合成仪合成[9]
+
+![](images/303e8dbb56c7d948ee654c6908adc9c1b7e63e8af95da5a8ce4a33d160745b15.jpg)  
+图6pET-Alu $\mathbf { \times 8 }$ DE3菌培养温度对AluRNA产量的影响  
+Fig.6Effects of culture temperature of pET-Alu $\mathbf { \times 8 }$
+
+DE5 bacteria on production amount ot Alu KNA （a）The results of Northern blottingpET-Alu $\times 8$ DE3 bacteria were cultured at $3 4 \mathrm { { ^ { q } C } }$ ， $3 7 \%$ or $4 0 \%$ and then were induced by IPTG for 4 hours，we found Alu RNA production was the highest under the $3 7 \mathrm { { } ^ { \circ } C }$ cultivation（b）Dyeing result of methylene blue（c）IOD values of each lane of the northern blotting results（means of three independent experiments）\* ：The Alu RNA yield was the highest under the $3 7 \%$ cultivation and was significantly higher than that of other culture temperature
+
+体外转录[10]和从细胞中提取[11]。BL-21大肠杆菌属于缺陷型细菌，适当质粒转化后，经IPTG诱导能产生大量基因工程蛋白[2-23],是产生基因工程蛋白的常用菌。本文中，建立用BL-21大肠杆菌基因工程方法制备人源AluRNA的方法，制备出的RNA作为外源RNA用于生物学实验。
+
+DE3菌、pET-DE3菌、pET-Alu $\times 8$ -DE3菌用LB-卡那霉素培养基培养，不加IPTG诱导，菌液 $6 0 0 \mathrm { n m } ~ O D$ 值为2.8时达到平台值。三种菌分别用IPTG诱导后，DE3 菌的生长曲线与没有诱导的类似;pET-DE3菌、pET- $\mathrm { A l u } \times 8$ -DE3 菌在OD值为1.3左右时达到平台期。pET-DE3 菌和 $\mathrm { \ p E T - A l u } \times 8 \mathrm { - D E 3 }$ 菌在不加IPTG时,不降低细菌的生长,加入IPTG后降低细菌生长;DE3菌加IPTG和不加IPTG细菌生长曲线类似（图2）。说明单纯IPTG不影响细菌的生长，IPTG和pET质粒联用才能降低细菌生长；pET和pET-Alu $\times 8$ 质粒转化加IPTG均降低细菌生长，说明降低细菌生长的原因不是来自Alu序列，而是pET质粒的原因。
+
+![](images/995fdd5f859774d755d355582d9edbae9525aad6fc242a3eb0e08b5572f47ee8.jpg)  
+图7pET-Alu $\mathbf { \times 8 }$ 转化不同类型BL-21宿主菌对AIuRNA产量的影响Fig.7Effects of types of BL-21 host bacteriaon production amount of Alu RNA  
+图8DNA 酶和RNA 酶消化的影响 Fig.8Effects of digestion of DNA enzymeandRNA enzyme
+
+$\scriptstyle { \left\{ \mathbf { a } \right\} } =$ The result of northern detection．pET-Alu $\times 8$ plasmid was transformed into three kinds of BL-21 cells，including DE3, BMBL21-DE3-pLysS（pLysS）and Trans BL-21（TransBL）, Northern bloting showed that Alu RNA production was the highest when using pET-Alu $\times 8$ DE3（b）Dyeing results of methylene blue c）IOD values of each lane of the northern blotting results means of three independent experiments） $*$ : The Alu RNA yield was the highest using DE3 engineering bacteria and was significantly higher than that of other bacteria ( $\cdot P < 0 . 0 1$ ）
+
+张树军等[24]证明YfF 融合蛋白质在IPTG 诱导 $^ { 9 \mathrm { h } }$ 时蛋白质产量达到高峰，11h和 $9 \mathrm { h }$ 的表达量类似。本文证明IPTG诱导4hAluRNA产量达到高峰,8h以后显著降低，这可能是因为RNA容易降解，蛋白质更容易积累的缘故。张树军等[24]用终浓度为 $0 . 1 \sim 1 \mathrm { m m o l / L }$ 的IPTG诱导工程菌，测定YfiF融合蛋白质，发现提高IPTG 浓度没有增加蛋白质表达量。本文中用终浓度为$0 . 0 5 \sim 1 . 6 \mathrm { { m g / m l } ( 0 . 2 1 \sim 6 . 7 2 \mathrm { { m m o l / L ) } } }$ 的IPTG诱导$\mathrm { p E T - A l u } \times 8 \mathrm { - D E } 3$ 菌,发现 $0 . \mathrm { ~ 1 ~ } \sim 0 . \mathrm { ~ 4 m g / m l }$ (0.42\~$1 . 6 8 \mathrm { m m o l / L }$ )的诱导效率较高，偏离该范围诱导量略有下降（图4）。
+
+改变串联Alu拷贝数增加RNA量是本文的独特设计。因为产生基因工程蛋白质需要考虑基因的读码框，此外还要考虑 $5 ^ { \prime }$ 上游非编码区和 $3 ^ { \prime }$ 下游非编码区
+
+8 E re  
+23S-16S123 1 23  
+(a) (b)  
+20000 \*  
+\*  
+16 000  
+oI 12000 1  
+8000  
+4000  
+0  
+x 水 消化T-Alux8DNaseI消化 3无DNaseI消化  
+ET-Alux8 pET-Alux8DaseI和RNase消E  
+(c)
+
+(a）The result of northern detectionRNA was extracted from pET$\mathrm { A l u } \times 8$ DE3 bacteria induced by IPTG and digested with DNase I （lane1），without DNaseI（lane 2），or withDNaseI plus RNase A（lane 3）．RNA was detected using Northern blotting (b）Dyeing results of methylene blue（c）IOD values of each lane of the northern blotting results（means of three independent experiments）\*：The Alu RNA yield of pET-Alu 8 DNase I digestion and pET-Alu 8 without DNase I digestion was significantly higher than that of pET-Alu 8 DNaseI plus RNase A digestion （ $P <$ 0.01)
+
+的结构，不适合通过增加基因拷贝数提高诱导量。本文的结果显示，随Alu拷贝数增加Alu RNA的诱导量明显上升（图5）， $\mathrm { p E T - A l u } \times 1 4 \mathrm { - D F }$ 3菌中AluRNA的表达量是pET-Alu $\times 8$ -DE3菌的2倍。
+
+本文中使用三种不同基因型的 BL21 菌作为宿主
+
+![](images/80e8e6b160fa77eb3523d0740982573541b270cc19a81cc8fd4f18f18e824616.jpg)  
+图9对AIuRNA的产量进行估算 Fig.9 The estimation of production amountofAluRNA
+
+(a）The results of northern detection． RNA was extracted from pET  
+Alu ×14 DE3 bacteria induced by IPTG and digested with DNase I.   
+$\widehat { \sf S } _ { \| \mathrm { d } } \widehat { \sf g }$ RNA digested with DNase I was loaded in lane 1, $0 . \ 2 \mu \mathrm { g }$ rence Aluwas loaded inlane2（b）IODvalues of each lane of 1   
+he northernblotting results（meansofthreeindependent   
+experiments)
+
+菌。DE3适合于pET衍生质粒无毒性基因工程蛋白质的表达,pLysS 适合于pET衍生质粒有毒性基因工程蛋白质的表达，TransBL不适合pET衍生质粒的基因工程蛋白质的表达。在本文中 pET-Alu $\times 8$ -DE3 菌和 pET-Alu×8-pLysS菌在IPTG诱导的情况下均能产生AluRNA,其中 pET-Alu $\times 8$ -DE3菌产量较高（图7）。
+
+为了证明 Alu RNA 诱导的特异性,本文使用 pET-Alu×8-TransBL菌株进行IPTG诱导实验，发现没有AluRNA的产生（图7泳道1），说明仅有质粒而没有合适的宿主菌，不能诱导AluRNA的产生。pET-Alu $\times 8$ 1DE3 菌如果不用IPTG诱导也不会产生AluRNA（图4泳道1），说明IPTG诱导对于AluRNA的产生是必要的。pET质粒插入序列转录需要T7RNA聚合酶,该聚合酶属于IPTG诱导型。DE3和pLysS菌中含有IPTG诱导型的T7RNA聚合酶，TransBL菌不含有IPTG诱导型的T7RNA聚合酶。pET-Alu $\times 8$ -DE3菌不加IPTG则不产生T7RNA 聚合酶,AluRNA诱导为阴性,pET-$\mathrm { { A l u } } \times 8$ -TransBL菌加IPTG也不能产生AluRNA，这说明本实验AluRNA诱导的特异性。本文中经IPTG诱导才能使基因工程菌产生AluRNA,这与基因工程蛋白质诱导的结果类似[25]
+
+为了检测DNA和RNA在Northern杂交信号中的作用，本文中进行了核酸酶消化实验。DNaseI消化与不消化的比较，杂交信号区别不显著（图8泳道1vs 泳道2），说明DNA污染在Northern杂交信号强度上所起的作用不大；于DNaseI消化的基础上再用RNaseA消化，完全失去杂交信号（图8泳道3），说明检测到的杂交信号属于RNA。
+
+本文Northern 实验中所用的AluRNA采用热酚法提取，AluRNA以小片段为主。用Gel-Pro-analyzer和伯乐分子质量分析系统检测，以23SrRNA（2900nt）与16SrRNA(1540nt)作为分子质量参照，AluRNA集中在 $6 0 0 \mathrm { b p }$ 左右。Northern印记膜次甲基蓝染色显示23SrRNA与16SrRNA的比例大约是2:1（图3b），说明热酚法提取的RNA并未降解，因此提取的AIuRNA中以小片段为主，不是提取过程中AluRNA降解的缘故。
+
+本文中用Alu单链DNA作为参照对提取的 AluRNA进行了定量检测。如果忽略DNA单链和RNA单链与探针杂交信号的差异，那么DNA的杂交信号强度就能反应RNA的杂交信号强度。上样总RNA为每孔${ 5 \mu \mathrm { g } }$ ,单链 AluDNA的量为每孔 $0 . 2 \mu \mathrm { g }$ 。 $\mathrm { A l u } \times 1 4$ RNA的信号强度是Alu参照的3.95倍（图9）。所以 ${ 5 \mu \mathrm { g } }$ 上样量中约含有 $0 . 7 9 \mu \mathrm { g }$ AluRNA,Alu RNA 约占总RNA的 $1 5 . ~ 8 \%$ 。细菌总 RNA中以rRNA为主，其次为tRNA,本文中使用T7启动子，IPTG诱导，使纯 AluRNA达到总RNA的 $1 5 . 8 \%$ ，每 $1 0 0 \mathrm { m l }$ 菌液可产生纯Alu RNA $0 . 4 6 \mathrm { m g }$ 。综上所述，本文建立了制备基因工程人源AluRNA的技术。今后的工作设想是使用亲和层析技术进一步提高 Alu RNA 的纯度。
+
+# 参考文献
+
+[1］Wang X，Ma Z,ChengJ,et al.A genetic program theory of aging using an RNA population model. Ageing Research Reviews，2014，13：46-54.   
+[2］Chen G，Gao X，Wang J，et al.Hypoxia-induced microRNA146a represses Bcl-2 through Traf6/IRAK1 but not Smad4 to promote chondrocyte autophagy．Biological Chemistry，2O17,398 (4) :499-507.   
+[3］Zhang Z，Ran Y，Shaw TS，et al.MicroRNAs 1Oa and 10b regulate the expression of human platelet glycoprotein Ibα for normal megakaryopoiesis.International Journal of Molecular Sciences，2016，17(11）:1873.   
+[4]LiLC，Okino ST，Zhao H，et al.Small dsRNAs induce transcriptional activation in human cells.Proceedings of the National Academy of Sciences of the United States of America, 2006，103(46)：17337-17342.   
+[5]Voutila J，Strom P，Mintz P，et al.Gene expression profile changesaftershort-activating RNA-mediatedinductionof endogenous pluripotency factors in human mesenchymal stem cells.Molecular Therapy Nucleic Acids,2012,1(8）： e35.   
+[6] Sun C C, Li S $\mathrm { J }$ ,Li G,et al.Long intergenic noncoding RNA 00511 acts as an oncogene in non-small-cell lung cancer by binding to EZH2 and suppressing p57. Molecular Therapy Nucleic Acids,2016,5(11）：e385.   
+[7］Ahn R,Gupta R,Lai K,et al．Network analysis of psoriasis reveals biological pathways and roles for coding and long noncoding RNAs.BMC Genomics,2016,17(1）：841.   
+[8]Helene C,Toulmé JJ. Specific regulation of gene expression by antisense，sense and antigene nucleic acids. Biochimica et Biophysica Acta，1990,1049(2）：99-125.   
+9]Wickstrom E.DNA and RNA derivatives to optimize distribution and delivery.Advanced Drug Delivery Reviews，2015，87：25- 5 34.   
+1DVoloudakis AE,Holeva MC,Sarin L P,et al. Efficient doublestranded RNA production methods for utilization in plant virus control.Methods in Molocular Biology，2015，1236：255-274.   
+11]Wang X,Ma Z,Kong X,et al.Effects of RNAs on chromatin accessibilityandgeneexpressionsuggestRNA-mediated activation． International Journal ofBiochemistry and Cell Biology，2016，79: 24-32.   
+9 Sela N,Mersch B,Gal-Mark N，et al.Comparative analysis of transposed element insertion within human and mousegenomes reveals Alu’s unique role in shaping the human transcriptome. Genome Biology，2007,8(6）： R127.   
+[13]Hasler J， Strub K.Alu RNP and Alu RNA regulate translation initiation in vitro.Nucleic Acids Research,2006,34(8）：2374- C2385.   
+[14]Ma Z,Jing X,Cheng J,et al. The effcts of a short sequence enhancer ( $5 ^ { \prime }$ -GTGAAATAAATGCAAATAAAGT）and its derived sequences on green fluorescent protein expression.Genes & Genomics，2014，36:455-464.   
+[15]Lv Z,Cheng J,Xie Y,et al.Finding of IFNy gene enhancers and their core sequences.Genome,2013,56：147-154.   
+[16］段肖翠，靳霞，谢英，等．L1-ORF2不同片段对报告基因表达 产生不同影响．遗传，2009，31（1）：50-56. expression by distinct L1-ORF2 segments，2009，31（1）：50- 56.   
+[17]Cheng J,Wang X,Cai N,et al. RNAs specifically affect gene expression in a length，position and sequence dependent manner. International JournalofClinicalandExperimental Pathology, 2014,7(3) : 48-58.   
+[18] Zheng L,Wang L,Gan J,et al.RNA activation: promise as a new weapon against cancer.Cancer Letter，2014，355（1）：18- 24.   
+[19］Morris K V.RNA-directed transcriptional gene silencing and activation inhuman cels. Oligonucleotides，20o9，19（4）：299- 306.   
+[20]Janowski BA,Younger S T,Hardy D B,et al. Activating gene expression in mammalian cellswith promoter-targetedduplex RNAs.Nature Chemical Biology，2007,3（3）：166-173.   
+[21]Elbashir S M,Harborth J,Lendeckel W,et al.Duplexes of 21- nucleotide RNAsmediate RNA interference in cultured mammalian cells．Nature，2001,411(6836）:494-498.   
+[22]Tsai W C,Wu TC,Chiang BL,et al. Cloning,expression，and purification of recombinant major mango allergen Manil in Escherichia coli.Protein Expression and Purification,2O16,130： 35-43.   
+[23]Nasiri K,Zibaee S,Nassiri M,et al. Production of specific IgY antibody to the recombinant FanC protein produced in Escherichia coli.Iranian Journal of Basic Medical Sciences,2016,19（8）： 883-889.   
+[24］张树军，狄建军，张国文．大肠杆菌yfiF基因原核表达系统 构建、表达条件优化及蛋白纯化．生物技术，2016，26（3）： 229-233. Zhang S J,DiJJ,ZhangGW,et al.Construction of prokaryotic expression system of Escherichia coli yfiF gene，optimization of expression conditions and purification of protein.Biotechnology, 2016，26(3):229-233.   
+[25］李佳楠，杨薇，吴红梅等．人 $\beta$ -NGF 在大肠杆菌中的表达、 纯化及活性测定中国药学垫志2014 49（20）：1785-1790
+
+LiJN，YangW，Wu HM,et al.Expression，purification andanctivity determination of human-NGF in Escheeichiacoli.Chinese Pharmaceutical Journal,2014，49（20）：1785-1790.
+
+# Construction and Expression of Engineering Bacteria Producing Humanized Alu RNA
+
+YIN Shu-xian1 ZHAO Yue-hua'LIU Chao²LV Zhan-jun²WANG Xiu-fang² （1 School of Stomatology，Hebei Medical University，ShijiazhuangO5o017,China) (2 Departmentof Genetics,Hebei MedicalUniversity，HebeiKeyLabofLaboratoryAnimal，ShijiazhuangO5017,China)
+
+AbstractObjective: Exogenous RNAs can specifically up-regulate or down-regulate gene expression after they enter into cells.The preparation methods of exogenous RNAs mainly include chemical synthesis，in vitro transcription and extraction from cells.Alu DNA and Alu RNA are the main constituents of human genome and transcriptome and participate in gene expression regulation.The technology method of preparing genetically enginered humanized Alu RNA（Alu RNA）from engineering bacteria was established.The extracted RNAs using this technology method can satisfy the requirement of general biology experiments.Methods and results: Different copies of human Alu elements were inserted into pET $2 8 \alpha$ plasmid（pET） to construct pET-Alu plasmids that were transformed into BL-21 bacteria.The effctsof diferent conditionson the Alu RNA production were explored.Isopropylthio $\beta$ -d-galactoside（IPTG）induction inhibited transformed bacterial growth after BMBL-21（DE3） competent cells （DE3 cells） were transformed by pET-Alu $\times 8$ plasmid (8 copies of Alus were inserted into pET）；Northern blotting was used to detect the amount of Alu RNA after2,4,6,8,10,12，14 and16 hours inducing with IPTG.The results showed that the amount of Alu RNA was highest at 4 hours; 1,2， 48or14 copies of Alu elements were inserted into the pET to construct pET-Alu plasmids that were transformed into DE3 bacteria，the Northern bloting resultsshowed that Alu RNA production amount increased with the increase of Alu copy number； pET- $\mathrm { A l u } \times 8$ DE3 bacteria did not produce Alu RNA without IPTG induction，Alu RNA production kept similar when inducing by $0 . 1 \mathrm { m g / m l }$ 0 $0 . 4 \mathrm { m g / m l }$ IPTG induction， however，Alu RNA production slightly decreased if deviating from the above concentration range； pET-Alu $\times 8$ DE3 bacteria were cultured at $3 4 \mathrm { ^ \circ C }$ ， $3 7 \%$ or $4 0 \%$ and then were induced by IPTG for 4 hours，the results showed that，under the condition of $3 7 \mathrm { ^ { \circ } C }$ cultivation，Alu RNA production was the highest；pET- $\mathrm { \ A l u } \times 8$ plasmid was transformed into three kinds of BL-21cells，including DE3，BMBL21-DE3-pLysS（pLysS）and Trans BL 21（TransBL），the results showed that Alu RNA production was the highest when using pET-Alu $\times 8$ DE3．Conclusion：The preparation technology of genetically engineered humanized Alu RNA was established.The highest production of Alu RNA can be obtained based on the following conditions:pET-Alu $\times 1 4$ plasmid was transformed into DE3 bacteria； the transformed bacteria were cultured at $3 7 \%$ to $\boldsymbol { O D } \boldsymbol { \mathrm { ~ 1 ~ . ~ 0 ~ } }$ at $6 0 0 \mathrm { n m }$ ，and then were induced by $0 . 2 \mathrm { m g / m l }$ IPTG for 4 hours.Pure Alu RNA occupies $1 5 . 8 \%$ of extractive RNA and the mean yield of pure Alu RNA in $1 0 0 \mathrm { m l }$ bacteria solution is $0 . 4 6 \mathrm { m g }$ ：
+
+Key wordsGenetically engineered RNAAlu RNA IPTG inductionBL21（DE3）competent cells

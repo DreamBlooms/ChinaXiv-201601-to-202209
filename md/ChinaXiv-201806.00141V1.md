@@ -1,0 +1,152 @@
+# 芍药苷对PM2.5诱导BEAS-2B细胞损害的保护作用
+
+吴晓芳1²,王丽云」，易建华」，雷 剑'，奥宇宏'，李建军³,韩 晶1  
+↓西安交通大学医学部公共卫生学院,陕西 西安 710061;西北妇女儿童医院,陕西 西安 710000;中国科学院  
+地球环境研究所黄土与第四纪地质国家重点实验室，陕西 西安 710075
+
+摘要：目的 探索芍药苷对PM2.5诱导人支气管上皮细胞(BEAS-2B细胞)损害的保护作用及其机制。方法 采用析因设计,分别利用MTT法,TBA法及化学荧光法,测定不同剂量芍药苷对PM2.5染毒所致BEAS-2B细胞生长抑制,细胞培养上清中丙二醛(MDA)及细胞内活性氧(ROS)的含量的影响。结果随着PM2.5干预浓度水平的增高，细胞存活率显著性降低 $( P { < } 0 . 0 5 )$ ，并呈剂量反应关系 $( r { = } { - } 0 . 7 5 9 , P { < } 0 . 0 5 )$ ,随着共处理芍药苷干预浓度的增高,PM2.5诱导BEAS-2B细胞存活率下降的幅度明显降低1 $( P { < } 0 . 0 5 )$ ，但未观察到剂量-反应关系 $( P { > } 0 . 0 5 )$ ；同时发现PM2.5染毒可致细胞培养上清中MDA,细胞内ROS含量均显著增高心 $_ { ( P < 0 . 0 5 ) }$ ,芍药苷高浓度干预时,细胞培养上清中MDA,细胞内ROS含量较染毒对照组均显著性降低 $( P { < } 0 . 0 5 )$ 。结论芍药苷对PM2.5所致BEAS-2B细胞的生长抑制有明显的保护作用,其机制可能与芍药苷抗氧化作用有关。
+
+关键词：芍药苷;PM2.5;BEAS-2B细胞;抗氧化
+
+# Protective effect of paeoniflorin against PM2.5-induced damage in BEAS-2B cells
+
+WU Xiaofang12,WANGLiyun,YI Jianhua’,LEI Jian',AOYuhong',LIJianjun3,HANJing   
+ColegefPublicHalthi'anJotongesityHealthienceCenterXinina;rthetWmendd's Hospitaliteydertte Science,Xi'an710075,China
+
+Abstract: ObjectiveToinvestigate the protectiveefectsof paeoniflorin againstPM2.5-induced damage in BEAS-2Bcels and explore theposiblemechanism.Methods Withafactorialdesign,thisstudywas performed toobserve theprotectiveefectsof diferent dosesof paeoniflorinagainstPM2.5-induced BEAS-2Bcel growth inhibitionandtheefectsof paeoniflorinonthe contents of malondialdehyde (MDA)and intracellular reactive oxygen species (ROS)in thecellcultures. Results Exposure to increased PM2.5 concentrations caused significant decrease in the cell survival rate $_ { ( P < 0 . 0 5 ) }$ with a clear dose-response relationship ${ \bf \zeta } _ { r = - 0 . 7 5 9 , }$ $P { < } 0 . 0 5 )$ . Treatment of the cells with paeoniflorin significantly attenuated PM2.5-induced inhibition of BEAS-2B cell survival $_ { ( P < 0 . 0 5 ) }$ ，but the effect of paeoniflorin was not dose-dependent $( P { > } 0 . 0 5 )$ . PM2.5 exposure also significantly increased the contents of MDA and intracellular ROS $_ { ( P < 0 . 0 5 ) }$ ， and paeoniflorin obviously antagonized these efectsof PM2.5.Conclusion Paeoniflorincan protect BEAS-2Bcells from PM2.5-inducedgrowth inhibition,andthe mechanism might be related to the anti-oxidant effects of paeoniflorin.
+
+Keywords: paeoniflorin; PM2.5; BEAS-2B cells; anti-oxidant effects
+
+可吸入颗粒物(PM)已成为日益受到重视的空气污染物，其中PM2.5对人类健康危害最为严重。而呼吸系统是PM2.5暴露和作用的主要靶器官，人群流行病学实验已证实了PM2.5暴露引起或促进了众多呼吸系统相关疾病的发生和发展[1-2]。而相关毒理学实验揭露了PM2.5引起呼吸系统损伤的作用机制主要与氧化应激
+
+炎症反应有关[]
+
+芍药苷作为中国传统中草药芍药的有效活性成分，是一种天然的抗氧化剂，具有抗炎、镇痛4，抗过敏、抗纤维化、免疫调节抗高血脂抗血小板聚集等作用]。芍药苷也对多种心肺细胞具有重要保护作用，能减轻脂多糖、过氧化氢及缺氧等所致的细胞损害，其机制可能也与芍药苷的抗氧化及抗炎症等作用相关[10-12]。为了减少PM2.5环境污染带来的危害,本研究采用中医药“治未病"的思想，利用芍药苷的抗氧化功能来干预呼吸系统损伤，探索芍药苷对大气PM2.5造成呼吸系统相关疾病的潜在药用价值13，进而对其进行防治。
+
+而芍药苷是否对经PM2.5悬浊液染毒的支气管上皮细胞有直接作用，国内外尚未见报道。因此本实验拟用人正常支气管上皮细胞(BEAS-2B细胞)在浓缩大气
+
+PM2.5悬浊液染毒的同时使用不同浓度芍药苷进行干预,测定BEAS-2B细胞的细胞存活率及毒理学指标，如胞内MDA,ROS,研究不同浓度PM2.5及不同浓度芍药苷对支气管上皮细胞的交互影响。从细胞毒理学水平评价芍药苷对PM2.5染毒致支气管上皮细胞损伤的保护作用，探索其可能的保护作用及机制。
+
+# 1 材料和方法
+
+# 1.1 实验材料
+
+人支气管上皮细胞(BEAS-2B细胞)，四甲基偶氮唑盐(MTT,Amresco)。芍药苷(索莱宝科技，分析纯，纯度 $59 8 \%$ )。
+
+KB-120F智能TSP-PM10中流量采样器(金仕达电子科技） ${ . 2 . 0 \ \mu \mathrm { m } }$ PTFE微孔滤膜（海成世过滤器材）、InfinireM200型酶标仪(Tecan）倒置相差荧光显微镜（千欣仪器）流式细胞仪(BDFACSCalibur)。
+
+# 1.2 实验方法
+
+1.2.1PM2.5的准备方法2014年11月21日 ${ \sim } 2 0 1 5$ 年3月15日-，在西安交通大学医学部公共卫生学院卫法楼七楼进行采样，每天采样 $1 0 \mathrm { { h } }$ ，滤膜每2d换1次。采样后将滤膜有尘面对折放入滤膜袋，并避光储存于 $- 2 0 \ \mathrm { { ^ circ C } }$ 冰箱中。将采集好的PM2.5的采样滤膜剪碎成若干块小片，将其完全浸入 $5 0 ~ \mathrm { m L }$ 三蒸水中，进行超声分离，制备成颗粒物悬液，将悬液分装放置于 $- 8 0 \mathrm { { ^ { \circ } C } }$ 低温冰箱中过夜，后置于SCientz-10ND真空冻干机进行除水处理，所得干燥灰色絮状颗粒物低温冰箱保存备用。将所得PM2.5颗粒装人冻存管中，后置于液氮罐中冷冻灭菌$ { 2 4 }  { \mathrm { h _ { \mathrm { o } } } }$ 用1640培养基溶解所得颗粒物，使得最终浓度为$2 \mathrm { m g / m L }$ 备用,然后置于 $- 8 0 \mathrm { { ^ { \circ } C } }$ 保存。
+
+1.2.2指标测定方法用酶标仪进行MTT法测量;用流式细胞仪定量检测细胞内ROS水平；用倒置相差荧光显微镜观察细胞内ROS的分布；用硫代巴比妥酸(TBA)比色法测定细胞培养上清MDA的含量。
+
+# 1.3统计学分析方法
+
+本实验采用析因设计，有芍药苷干预浓度与PM2.5干预浓度两个因素，利用析因设计资料的方差分析比较芍药苷干预浓度与PM2.5干预浓度的主效应及交互效应，利用单因素方差分析比较芍药苷干预浓度单独效应。检验水准 $\scriptstyle 1 = 0 . 0 5$ 。
+
+# 2结果
+
+2.1不同浓度的PM2.5染毒对BEAS-2B细胞干预后MTT的测量结果
+
+用不同浓度的PM2.5对生长状态良好的细胞进行$2 4 \mathrm { h }$ 干预，用MTT实验来评价PM2.5对BEAS-2B细胞生长繁殖的影响。PM2.5干预浓度与细胞存活率之间呈剂量-反应关系 $( r { = } { - } 0 . 7 5 9 , P { = } 0 . 0 1 8 )$ 。PM2.5干预对BEAS-2B细胞存活率的影响呈低浓度 $( 0 . 1 \mu . 1 . 0 \mu \mathrm { g / m L } )$ 促进增殖,高浓度 $( 1 0 , 2 0 0 , 4 0 0 , 8 0 0 \mu \mathrm { g / m L } )$ 抑制增殖。PM2.5以 $1 0 0 . 2 0 0 . 4 0 0 . 8 0 0 \mu \mathrm { g / m L }$ 浓度干预BEAS-2B细胞 $2 4 \mathrm { h }$ 时,其细胞存活率与对照组( $\mathrm { \Delta 0 \mu g / m L }$ )细胞存活率相比明显下降( $\scriptstyle \overbrace { P { < } 0 . 0 5 }$ ，图1)。
+
+![](images/8b39f57d06284a23ae90c9de0f9699f04577fa3919206a9fb46cf1c300aa5361.jpg)  
+图1不同浓度的 $\mathrm { P M } 2 . 5$ 对BEAS-2B细胞存活率的影响 Fig.1 Effects of different concentrations of PM2.5 on the viability of BEAS-2B cells.Compared with the control group, $^ { * } P { < } 0 . 0 5 ,$ ：Compared with the control group, $^ { \mathrm { 4 } } P <$ 0.01.   
+图2不同浓度的芍药苷对BEAS-2B细胞增殖的影响 Fig.2 Effects of different concentrations of paeoniflorin on the viability of BEAS-2B cells.Compared with the control group, $^ { * } P { < } 0 . 0 5 ,$ ：Compared with the control group, $^ { \# } P { < } 0 . 0 1$ ：
+
+# 2.2不同浓度的芍药苷对BEAS-2B细胞存活率影响的测定
+
+用不同浓度的芍药苷对生长状态良好的细胞进行$2 4 \mathrm { h }$ 干预，用MTT实验来评价芍药苷对BEAS-2B细胞生长繁殖的影响。在芍药苷低浓度(0.001、0.01、0.1、$1 . 0 \mu \mathrm { m o l / L } \rangle$ 时，抑制该细胞增殖,0.01和 $0 . 1 \ \mathrm { \mu m o l / L }$ 时，芍药苷显著降低BEAS-2B细胞存活率;高浓度(10、100、$1 0 0 0 \ \mathrm { \textmu m o l { } L \mathrm { { } ) } }$ 时,促进该细胞增殖,芍药苷 $1 0 0 \mathrm { \ : \mu m o l / L }$ 浓度时可以显著提高BEAS-2B细胞存活率( $\scriptstyle { \phantom { - } } ( P < 0 . 0 1$ .图2)。
+
+1.2 # Cerar riril 1.0 1 0.9 Mii 0.8 0 0.0010.01 0.1 1 10 100 1000 Paeoniflorin (μmol/L)
+
+# 2.3芍药苷对PM2.5染毒所致BEAS-2B细胞生长抑制保护作用的测定
+
+用不同浓度的PM2.5和不同浓度的芍药苷对生长状态良好的细胞进行十预，在十预 $2 4 \mathrm { ~ h ~ }$ 后用MTT实验来评价芍药苷对PM2.5所致BEAS-2B细胞的生长抑制的保护作用。以下是芍药苷干预浓度与PM2.5干预浓度的主效应、交互效应及单独效应分析结果(表1)。
+
+表1芍药苷干预对PM2.5染毒BEAS-2B细胞存活率测定结果的影响  
+Tab.1 Effect of paeoniflorin on the survival rate of BEAS-2B cells with PM2.5 exposure (Mean±SD, $\scriptstyle n = 3$ 0   
+
+<html><body><table><tr><td rowspan="2">PF dose group (μol/L)</td><td colspan="5">PM2.5 exposure group (ug/mL)</td><td rowspan="2">Total</td><td rowspan="2">F</td><td rowspan="2">P</td></tr><tr><td>0</td><td>100</td><td>200</td><td>400</td><td>800</td></tr><tr><td>0</td><td>1.00±0.04</td><td>0.93±0.07</td><td>0.77±0.04*</td><td>0.75±0.05*</td><td>0.67±0.02*</td><td>0.82±0.13</td><td>27.055</td><td>0.000</td></tr><tr><td>1</td><td>1.03±0.05</td><td>0.95±0.10</td><td>0.77±0.03*</td><td>0.76±0.02*</td><td>0.72±0.03*</td><td>0.85±0.13</td><td>14.945</td><td>0.006</td></tr><tr><td>10</td><td>1.08±0.07</td><td>0.96±0.01</td><td>0.81±0.05*</td><td>0.78±0.03*</td><td>0.79±0.04*#</td><td>0.88±0.13</td><td>27.253</td><td>0.000</td></tr><tr><td>100</td><td>1.14±0.10</td><td>0.99±0.02</td><td>0.86±0.03*</td><td>0.79±0.01*</td><td>0.79±0.04*#</td><td>0.92±0.15*</td><td>72.342</td><td>0.000</td></tr><tr><td>Total</td><td>1.06±0.08</td><td>0.96±0.06*</td><td>0.80±0.05*</td><td>0.77±0.03*</td><td>0.74±0.06*</td><td>0.87±0.14</td><td>93.021a</td><td>0.000</td></tr><tr><td>F</td><td>2.304</td><td>3.239</td><td>3.608</td><td>1.138</td><td>9.233</td><td>9.895a</td><td>0.634b</td><td></td></tr><tr><td>P</td><td>0.154</td><td>0.151</td><td>0.065</td><td>0.391</td><td>0.006</td><td>0.000a</td><td>0.801b</td><td></td></tr></table></body></html>
+
+aF statistic and $P$ value of the main effect; bF statistic and $P$ value of the reciprocal effect; compared with the control group $( 0 \mu \mathrm { g / m L } )$ ， $^ { * } P <$ 0.05;compared with the control group ( $\scriptstyle { \mathrm { ~ 0 ~ } \mu \ m o l / L }$ ） $^ { \# } P { < } 0 . 0 5$
+
+2.3.1不同浓度 $\mathrm { P M } 2 . 5$ 对细胞存活率的影响 采用析因设计资料的方差分析，结果发现对于不同PM2.5干预浓度水平,细胞存活率随浓度上升而下降( $P { < } 0 . 0 0 0 1 \$ 。在不同浓度芍药苷干预时，细胞存活率随浓度上升而上升中 $P { < } 0 . 0 0 0 1 )$ ，而芍药苷干预浓度与PM2.5干预浓度之间不存在显著的交互效应 $( P { > } 0 . 0 5 )$ 。
+
+2.3.2不同芍药苷浓度对各 $\mathrm { P M } 2 . 5$ 浓度组细胞存活率的影响对芍药苷干预进行单独效应分析，对于PM2.5的不同浓度组，均采用单因素方差分析比较芍药苷剂量组间细胞存活率的差异，结果表明其他 $\mathrm { P M } 2 . 5$ 浓度组未见明显统计学差异，只有 $8 0 0 ~ \mu \mathrm { g / m L }$ PM2.5浓度组中，细胞存活率随着芍药苷浓度增加而上升 $( P { < } 0 . 0 5 )$ O
+
+2.3.3 不同浓度芍药苷对细胞存活率的影响 利用Dunnett- $t$ 检验将芍药苷干预浓度逐一与对照组(0$\mu \mathrm { m o l / L }$ )进行多重比较，发现芍药苷 $1 \mu \mathrm { m o l / L }$ 浓度组与对照组相比，细胞存活率明显增高 $( P { < } 0 . 0 5 )$ ；而在芍药苷10和 $1 0 0 \mathrm { \textmu m o l / L }$ 剂量组与染毒对照组比较时，细胞存活率均显著性增高( $\scriptstyle P < 0 . 0 0 0 1$ ）
+
+# 2.4芍药苷对PM2.5诱导的BEAS-2B细胞损伤的保护效应
+
+用不同浓度的PM2.5和不同浓度的芍药苷对生长状态良好的细胞进行干预，在干预24h后细胞内ROS及细胞培养上清MDA含量结果如下。
+
+2.4.1不同浓度芍药苷对PM2.5诱导BEAS-2B细胞内ROS含量的影响采用析因设计资料的方差分析，ROS结果发现不同PM2.5干预浓度下，随浓度上升细胞内ROS含量增加（ $P { < } 0 . 0 0 0 1 \rangle$ ;不同浓度芍药苷干预时，细胞内ROS含量随浓度上升而减少( $\scriptstyle P < 0 . 0 0 0 1 ,$ ，而芍药苷干预浓度与PM2.5干预浓度之间；在细胞内ROS含量中存在显著的交互效应( $P { < } 0 . 0 0 0 1$ ）
+
+对芍药苷干预进行单独效应分析，分别利用单因素方差分析比较每个PM2.5浓度组内芍药苷剂量与ROS含量的差异，发现在每个PM2.5浓度组，不同芍药苷剂量组间细胞内ROS含量随浓度上升而减少（ $P <$ 0.0001);利用Dunnett- $t$ 检验进行芍药苷干预浓度之间的多重比较,使芍药苷 $( 1 . 0 , 1 0 , 1 0 0 \mu \mathrm { m o l / L } )$ 浓度组细胞存活率均数逐一与对照组 $\mathrm { { ( 0 \mu m o l / L ) } }$ )进行比较；发现三个芍药苷剂量组与染毒对照组比较时，细胞内ROS含量均显著性降低（ $P { < } 0 . 0 0 0 1$ ，表2)。
+
+2.4.2不同浓度芍药苷对 $\mathrm { P M } 2 . 5$ 诱导BEAS-2B细胞内MDA含量的影响采用析因设计资料的方差分析，MDA结果发现不同PM2.5干预浓度下，随浓度上升细胞培养上清MDA含量增加( $P { < } 0 . 0 0 0 1 \rangle$ ；不同浓度芍药苷干预时，细胞培养上清MDA含量含量随浓度上升而减少( $P { < } 0 . 0 0 0 1 \rangle$ ;但在MDA的产生中不存在显著的交互效应 $( P { > } 0 . 0 5 )$ 。
+
+对芍药苷干预进行单独效应分析，分别利用单因素方差分析比较每个PM2.5浓度组内芍药苷剂量与细胞培养上清中MDA的差异,发现在 $( 4 0 0 , 8 0 0 \mu \mathrm { g / m L } ) \mathrm { P M } 2 . 5$ 浓度组，不同芍药苷剂量组间细胞培养上清中MDA含量随浓度上升而显著减少( $P { < } 0 . 0 0 0 1 \rangle$ ；在（ $\mathrm { { ( 0 \mu g / m L ) } }$ PM2.5浓度组，组间MDA含量随浓度上升而减少( $P <$ 0.05);利用Dunnett- $t$ 检验进行芍药苷干预浓度之间的多重比较,使芍药苷 $( 1 . 0 \ , 1 0 , 1 0 0 \ \mathrm { \textmu m o l / L } )$ 浓度组细胞存活率均数逐一与对照组 $\mathrm { { ( 0 \mu m o l / L ) } }$ 进行比较，发现芍药苷( $1 . 0 \mu \mathrm { m o l / L } \backslash$ 剂量组与染毒对照组比较时，细胞培养上清中MDA含量显著性降低 $( P { < } 0 . 0 0 0 1 \$ )。芍药苷（204 $( 1 0 \mathrm { { . 1 0 0 } \mu m o l / L } )$ )剂量组与染毒对照组比较时，MDA含量均降低( $\scriptstyle \overbrace { P { < } 0 . 0 5 }$ ，表3)。
+
+表2芍药苷干预对PM2.5染毒BEAS-2B细胞内ROS含量测定结果的影响 Tab.2 Efect of paeoniflorin on the ROS content in BEAS-2Bcells with PM2.5 exposure (Mean±SD,n=3)   
+
+<html><body><table><tr><td rowspan="2">PF dose group (umol/L)</td><td colspan="3">PM2.5 exposure group (μg/mL)</td><td rowspan="2">Total</td><td rowspan="2">F</td><td rowspan="2">P</td></tr><tr><td>0</td><td>400</td><td>800</td></tr><tr><td>0</td><td>1167±1.8</td><td>1365±1.7*</td><td>1464±1.9*</td><td>1332±135.4</td><td>14395</td><td>0.000</td></tr><tr><td>1</td><td>1046±1.3#</td><td>1255±1.7*#</td><td>1440±4.7*#</td><td>1247±176.6#</td><td>8671</td><td>0.000</td></tr><tr><td>10</td><td>962±1.7#</td><td>1222±2.2*#</td><td>1379±2.0*#</td><td>1188±188.2#</td><td>22753</td><td>0.000</td></tr><tr><td>100</td><td>916±1.6#</td><td>1092±1.1*#</td><td>1160±0.9*#</td><td>1056±112.7#</td><td>20415</td><td>0.000</td></tr><tr><td>Total</td><td>1023±102.0</td><td>1233±104.2*</td><td>1361±128.4*</td><td>1206±178.3</td><td>52972*</td><td>0.000a</td></tr><tr><td>F</td><td>9233</td><td>8803</td><td>4986</td><td>18361a</td><td>811b</td><td></td></tr><tr><td>P</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000a</td><td>0.000b</td><td></td></tr></table></body></html>
+
+Compared with the control group $\mathrm { { 0 \mu g / m L } ) }$ ， $^ { * } P { < } 0 . 0 5$ ； compared with the control group ( ${ \mathrm { 0 } } \mu { \mathrm { m o l / L } } )$ $^ { \# } P { < } 0 . 0 5$
+
+3芍药苷干预对PM2.5染毒BEAS-2B细胞MDA含量测定结果的影响 Tab.3 Effect of paeoniflorin on MDA content in BEAS-2B cels with PM2.5 exposure (Mean±SD, n=3)   
+
+<html><body><table><tr><td rowspan="2">PF dose group (μmol/L)</td><td colspan="3">PM2.5 exposure group (μg/mL)</td><td rowspan="2">Total</td><td rowspan="2">F</td><td rowspan="2">P</td></tr><tr><td>0</td><td>400</td><td>800</td></tr><tr><td>0</td><td>0.78±0.05</td><td>0.87±0.01*</td><td>1.11±0.03*</td><td>0.92±0.15</td><td>64.182</td><td>0.000</td></tr><tr><td>1</td><td>0.75±0.04</td><td>0.81±0.03*#</td><td>1.04±0.01*</td><td>0.87±0.13#</td><td>71.608</td><td>0.000</td></tr><tr><td>10</td><td>0.66±0.08#</td><td>0.80±0.00*#</td><td>0.89±0.04*#</td><td>0.78±0.11#</td><td>13.361</td><td>0.006</td></tr><tr><td>100</td><td>0.60±0.07#</td><td>0.72±0.03*#</td><td>0.83±0.05*#</td><td>0.72±0.11#</td><td>12.761</td><td>0.007</td></tr><tr><td>Total</td><td>0.70±0.09</td><td>0.80±0.06*</td><td>0.96±0.12*</td><td>0.82±0.14</td><td>105.772a</td><td>0.000a</td></tr><tr><td>F</td><td>4.935</td><td>26.253</td><td>35.617</td><td>36.542a</td><td>2.342h</td><td></td></tr><tr><td>P</td><td>0.032</td><td>0.000</td><td>0.000</td><td>0.000a</td><td>0.064b</td><td></td></tr></table></body></html>
+
+Compared with the control group $\mathrm { { ( 0 \mu g / m L ) } }$ _， $^ { * } P { < } 0 . 0 5$ ； compared with the control group $( 0 \mu \mathrm { m o l / L } )$ _， $^ { \# } P { < } 0 . 0 5$
+
+2.4.3不同浓度芍药苷对PM2.5诱导BEAS-2B细胞内ROS含量的定性观察利用荧光显微镜定性观察BEAS-2B细胞内ROS水平，发现了随着PM2.5浓度的增加，细胞内荧光强度增强，随着芍药苷浓度的增加，细胞内荧光强度明显减弱(图3)。
+
+# 3讨论
+
+既往研究表明大气PM2.5对BEAS-2B细胞有着明显的细胞毒性,影响着细胞的生长繁殖[14-16]。本实验得到与既往研究类似的发现，PM2.5干预浓度与细胞存活率之间存在着剂量-反应关系，PM2.5具有明显的细胞毒性反应。但除此之外，从实验结果中亦发现PM2.5低浓度时能够刺激BEAS-2B细胞增殖，这可能与毒物兴奋作用有关，通过低剂量毒物对机体内稳态的微干扰，启动一系列修复和维持机制，如通过对转录因子和激酶的激活，增加细胞保护和修复性蛋白的表达
+
+由于既往研究中未曾发现研究芍药苷诱导BEAS-2B细胞毒性的实验，故对其处理阈剂量不甚清楚。故本实验采用不同浓度的芍药苷对生长状态良好的BEAS-2B细胞进行干预，在干预24h后用MTT实验来评价芍药苷对BEAS-2B细胞的毒性作用。发现用不同浓度的芍药苷干预使得BEAS-2B细胞生长曲线为S型曲线，即芍药苷在低浓度时，抑制BEAS-2B细胞的生长增殖；在高浓度时，促进BEAS-2B细胞增殖。而结合析因方差分析及多重比较发现，在有PM2.5干预细胞时，随着芍药苷浓度的增加，细胞存活率显著升高，说明芍药苷对BEAS-2B细胞具有一定保护作用。其次，实验结果显示了不同浓度的芍药苷对不同浓度PM2.5诱导的BEAS-2B细胞损伤的保护作用。尤其在 $8 0 0 ~ \mathrm { \mu g / m L }$ PM2.5浓度染毒组中，芍药苷 $1 0 \mu \mathrm { m o l / L }$ 干预的染毒组和 $1 0 0 \mathrm { \textmu m o l / L }$ 干预的染毒组细胞存活率与染毒对照组相比均显著性增高，说明芍药苷能够减轻PM2.5诱导的BEAS-2B细胞毒性，对高浓度PM2.5所致BEAS-2B细胞的生长抑制有一定的保护作用。
+
+![](images/86416b26a7a1e13455c7d26ff4f14d6d1cbb2e1c53c68bc32102b40c4554f6ad.jpg)  
+图3芍药苷处理对PM2.5诱导的BEAS-2B细胞损伤的ROS水平的定性观察 Fig.3 Qualitative observationof ROS level in BEAS-2B cels with PM2.5 exposure and paeoniflorin treatment.
+
+Yan等[13]曾体外培养BEAS-2B细胞,发现PM2.5干预能够明显地增加细胞内ROS的生成。同样本实验定量及定性地检测了BEAS-2B细胞内ROS水平，发现随着PM2.5浓度的增加，BEAS-2B细胞内ROS水平显著增加。而经芍药苷干预后，随着芍药苷干预浓度的增加，细胞内ROS含量显著下降。并在不同的PM2.5染毒浓度组中，各个芍药苷干预染毒组分别与染毒对照组相比,细胞内ROS均显著性降低。
+
+此外，本研究还发现随着PM2.5浓度的增加，MDA的含量显著增高。这与Deng等用PM2.5干预人体外培养的A549细胞发现一致，PM2.5能够明显增加细胞培养上清中MDA的释放[，说明PM2.5诱导BEAS-2B细胞发生了氧化应激损伤。同样经芍药苷干预后，随着芍药苷干预浓度的增加细胞培养上清MDA含量显著下降。在不同浓度的PM2.5染毒浓度组中，与染毒对照组相比,细胞培养上清MDA含量也显著下降。
+
+氧化应激是指机体在需要清除体内老化的细胞，或在遭受各种有害刺激时，体内高活性分子如ROS产生过多，氧化程度超出氧化物的清除能力，机体氧化系统和抗氧化系统失衡，导致中性粒细胞炎性浸润，蛋白酶分泌增加,产生大量氧化中间产物,从而导致组织损伤[19-20]。既往研究表明，芍药苷具有很强的抗氧化作用，在细胞氧化应激损伤状态下，芍药苷可以通过降低细胞内ROS的生成，增加抗氧化物谷胱甘肽及超氧化物歧化酶的产生，同时激活抗氧化通路核因子E2相关因子2/血红素氧合酶1，诱导血红素氧合酶1基因的表达来保护内皮细胞的氧化损伤,抑制细胞凋亡[21-23]。中、高浓度的ROS可通过细胞氧化应激反应诱导细胞凋亡甚至导致其坏死。细胞内ROS水平的增加就表明了氧化应激反应的进行。
+
+而在生物体内，自由基作用于脂质发生过氧化反应,氧化最终产物为MDA[24]。它可以间接测定膜系统受损程度，引起蛋白质、核酸等生命大分子的交联聚合，且具有细胞毒性，在体外可影响线粒体呼吸链复合物及线粒体内关键酶活性[25]。研究表明芍药苷能显著降低缺氧诱导的乳鼠心肌细胞产生的MDA[10],从而抑制氧化亢进。细胞上清中MDA水平的增加就表明了细胞膜已经受损，细胞生长受抑制。在本实验中，芍药苷对BEAS-2B细胞中的氧化应激过程有了明显的干预效果，对细胞的氧化应激损伤具有显著保护作用。
+
+综上所述，本文的主要发现首先是芍药苷在低浓度时抑制BEAS-2B细胞的生长增殖，在高浓度时促进BEAS-2B细胞增殖。其次，芍药苷对PM2.5所致BEAS-2B细胞的生长抑制有一定的保护作用，其机制可能与芍药苷明显减轻了PM2.5诱导的BEAS-2B细胞氧化应激损伤有关。
+
+# 参考文献：
+
+[1]Cortez-Lugo M,Ramirez-Aguilar M, Perez-Padilla R,et al. Effect of personal exposure to PM2.5 on respiratory health in a Mexican panel of patients with COPD[J].Int JEnviron Res Public Health, 2015,12(9): 10635-47.   
+[2] Zhao J,Bo L,Gong C,et al.Preliminary study to explore genePM2.5 interactive effects on respiratory system in traffic policemen [J]. Int JOccup Med Environ Health,2015,28(6): 971-83.   
+[3]Rui W,Guan L, Zhang F,et al. PM2.5-induced oxidative stress increases adhesion molecules expression in human endothelial cells through the ERK/AKT/NF- kB- dependent pathway [J]. J Appl Toxicol,2016,36(1): 48-59.   
+[4]Tao Y,Wen ZH,Song YQ,et al. Paeoniflorin attenuates hepatic ischemia/reperfusion injury via anti- oxidative,anti- inflammatory and anti-apoptotic pathways[J].Exp Ther Med,2016,11(1): 263-8.   
+[5] Zhang TZ, Yang ZC, Yang SH, et al. Immunoregulatory effects of paeoniflorin exerts anti-asthmatic effects via modulation of the Th1/ Th2 equilibrium[J].Inflammation,2015,38(6): 2017-25.   
+[6]Chen J, Liu M, Li L L,et al.ASSA14-03-02 protective effects of paeoniflorin against myocardial fibrosis in isoprenaline- induced chronic heart failure rats[C]. Scientific Sessions of Asia Pacific Heart Association & Chinese Cardiologists' Congress.2015: 465-70.   
+[7] Yu J, Zhu XY, Qi X,et al. Paeoniflorin protects human EA.hy926 endothelial cells against gamma-radiation induced oxidative injury by activating the NF-E2-related factor 2/heme oxygenase-1 pathway [J].Toxicol Lett,2013,218(3): 224-34.   
+[8]Zhang LJ, Yang B,Yu BP.Paeonillorin protects against nonalcoholic fatty liver disease induced by a high-fat diet in mice[J].Biol Pharm Bull,2015,38(7): 1005-11.   
+[9］王 慧,热娜·卡斯木,王晓梅,等.新疆赤芍抗血小板聚集作用及其不 同组分分析[J].中国药学杂志,2014,49(13):1109-12.   
+[10]Qian GQ，Ding JJ，Zhang XZ，et al.Preconditioning with glycyrrhizic,ferulic,paeoniflorin,cinnamic prevents rat hearts from ischemia/reperfusion injury via endothelial nitric oxide pathway[J]. Pharmacogn Mag,2015,11(42): 292-6.   
+[11]祁王忠,段韶军.芍药苷对肺腺癌细胞A549凋亡的诱导作用[J].中国 药房,2015,22:3103-5.   
+[12]吴晓芳,韩 晶,易建华.芍药苷对心肺细胞的保护作用及机制研究进 展[J].医学综述,2015,21(24):4531-3.   
+[13] Yan Z,Wang J,Li J,et al. Oxidative stress and endocytosis are involved in upregulation of interleukin-8 expression in airway cells exposed to PM2.5.Environ Toxicol,2015.   
+[14]Liu T,Wu B,Wang Y,et al.Particulate matter 2.5 induces autophagy via inhibition of the phosphatidylinositol 3-kinase/Akt/ mammalian target of rapamycin kinase signaling pathway in human bronchial epithelial cells[J].Mol Med Rep,2015,12(2):1914-22.   
+[15]Longhin E,Holme J, Gutzkow KB,et al. Cell cycle alterations induced by urban PM 2.5in bronchial epithelialcells: characterization of the process and possible mechanisms involved [J].Fibre Toxicol,2013,10: 63.   
+[16]Huang Q, Zhang J,Peng S,et al.Effects of water soluble PM2.5 extracts exposure on human lung epithelial cells (A549):A proteomic study[J]. JAppl Toxicol,2014,34(6): 675-87.   
+[17]Deng X, Zhang F, Rui W,et al. PM2.5- induced oxidative stress triggers autophagy in human lung epithelial A549 cells [J]. Toxicolin Vitro,2013,27(6): 1762-70.   
+[18] Filomeni G,De Zio D, Cecconi F. Oxidative stress and autophagy: the clash between damage and metabolic needs[J].Cell Death Differ,2015,22(3, SI): 377-88.   
+[19]Hancock RD.Oxidative Stress[J].Encycl Appl Plant Sci,2017: 27- 35.   
+[20] Vandemoortele A,Babat P, Yakubu M,et al.Reactivity of Free Malondialdehyde during in vitro simulated gastrointestinal digestion [J].JAgric Food Chem,2017,65(10): 2198-204.   
+[21]宋少练.芍药苷对晚期氧化蛋白产物诱导人脐静脉内皮细胞氧化应 激损伤的干预作用[D].广州:南方医科大学,2015.   
+[22]Li P, Li Z. Neuroprotective effect of paeoniflorin on HO-induced apoptosis in PC12 cells by modulation of reactive oxygen species and the inflammatory response[J].ExpTher Med,2015,9(5): 1768.   
+[23] Yan Z,Wang J,Li J,et al. Oxidative stress and endocytosisare involved in upregulation of interleukin-8 expresson in airway cells exposed to PM2.5[J].Environ Toxicol,2016,(12):1869-78.   
+[24]He L,Yang X,Xu K,et al.A mitochondria-targeted fluorescent probe for imaging endogenous malondialdehyde in HeLa cels and onion tissues[J].Chem Commun (Camb),2017,53(29): 4080-3.   
+[25]Dong H,Li R,Yu C,et al.Paeoniflorin inhibition of 6- hydroxydopamine-induced apoptosis in PC12 cells via suppressing reactive oxygen species- mediated PKC8/NF- kBpathway [J]. Neuroscience,2015,285:70-80.

@@ -1,0 +1,646 @@
+[
+    {
+        "type": "text",
+        "text": "二维光学刺激下的视觉感知定律",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "祝锐1\\*刘玉红23 王体春¹ 陈龙聪¹ 谢正祥1\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1重庆医科大学医学信息学院，重庆 400016  \n²成都医学院大健康与智能工程学院，成都 610500  \n电子科技大学 生命科学与技术学院，成都 610054  \n＊通讯作者 祝锐， zhurui@cqmu.edu.cn；谢正祥，101044@cqmu.edu.cn",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "人类对刺激量的感知分为数量感知和质量感知。无论是韦伯-费克纳(Weber-Fechner)的对数感觉定律还是史蒂文斯(Stevens)的幂函数感觉定律，都是关于感觉量与一维亮度刺激之间定量关系的定律。图像属于具有二维亮度分布特征的刺激量。本文研究的是二维亮度刺激的质量的感知，即二维亮度刺激质量好坏程度的感知。好坏程度是一个模糊的心理学概念因此我们需要用模糊数学的方法来量化图像视觉感知质量的好坏程度，即建立一个模糊隶属函数PQ来定量表示图像视觉质量的好与坏的程度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词二维光学刺激，感知定律图像视觉质量评价平均亮度 视觉质量函数中图分类号TP391",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "人类感觉分为一般感觉和特殊感觉。传统的Weber-Fechner 感觉定律是从压感的中等刺激强度条件下的实验导出的[1,2]。这里隐含着更高或更低的刺激强度条件下的感觉定律可能不满足对数律。对于感觉定律，也有过对数律和幂律的争论[3-7]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Weber-Fechner感觉定律研究的是感觉量P（perception）与物理集总刺激量S(stimulation)间的关系。研究的是感觉量与一维刺激量的关系。未研究过具有分布特征的二维刺激量（如图像）下的感觉定律，即未研究过感觉质（量）与刺激量（分布特征）的关系。本工作提出了一种全新的感觉研究，即具有分布特征的二维刺激量（图像）的视觉质量优劣程度的感觉而不是刺激量的大小的感觉。或者说，对图像视觉质量的感觉是对“质”的感觉。对于这种具有分布特征的刺激量的量的大小（如亮度）的表征只能借助于一阶统计量，即期望值。这里主要研究人类视觉对二维刺激量（如图像）的质（量）的感觉，并量化这种感觉.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "图像科学存在的基础是人类视觉。光是电磁波的一个频段，没有视觉就没有光，而仅仅是电磁波的一个频段。图像的最本质的特征是亮度。研究发现，太亮或太暗的图像的视觉质量都不好，因而图像亮度是描述图像视觉质量的最为基本的指标。图像是亮度的二维分布矩阵，因而只有平均亮度才有意义。本文研究了平均亮度与图像视觉质量的定量关系，结果表明平均亮度是度量一幅图像质量的一个重要的、有效的指标，其也是一种心理量的量化技术。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "一、关于感觉的对数定律与幂函数定律",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "传统的感觉定律研究的是感觉量与刺激量的量-量关系。感觉定律有Weber-Fechner主张的对数律和 Stevens 主张的幂律[4-7]。对于Weber-Fechner主张的对数律[4,7]，表示如下：",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP = k * l o g _ { a } S\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "式中，P表示感觉量，S表示刺激量， $k$ 为与单位选择有关的常数。a为对数的底数。符号 $\\mathit { l o g }$ 为对数算符。对于所有感觉模态(modality)，如视觉、听觉、触觉、温度觉、味觉、嗅觉，都适合。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于Stevens主张的幂律[5-7]，表示如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP = k ( S - S _ { O } ) ^ { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中，P表示感觉量，S表示刺激量，S0表示刺激阈值。幂指数为n。对于不同的感觉模态，或不同的刺激量，幂指数 $\\mathfrak { n }$ 是不同的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "二、亮度的重要意义",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1亮度的重要意义",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "这里首先研究灰度图像。光线是图像的基础，没有光线就没有图像（虽有客观事物存在，但视觉不能反映)。亮度是图像质量的基础，图像视觉质量随图像亮度的变化而变化。实验表明，图像视觉质量首先随亮度的增加而增加，然后到达最大值，此后图像质量随亮度的增加而降低，如图1。图1中，第三行的各子图像（灰度图像）是第一行的各子图像（彩色图像）经如下灰度变换而生成的：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI m _ { G ( i ) } = 0 . 3 * R I m _ { C ( i ) } + 0 . 6 * G I _ { C ( i ) } + 0 . 1 * B I m _ { - } C ( i )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $i = 1 , 2 , \\dots 6$ 表示1-6 幅图像的序号。 $I m \\_ G ( i )$ 表示变换后的灰度图像的亮度，如图1第三行的子图 $\\mathrm { g ) - m ) }$ 。 $R I m \\_ C ( i )$ ， $G I m \\_ C ( i )$ ， $B I m \\_ C ( i )$ 分别表示原始彩色图像各子图(如图1第一行的子图a)-f))的红、绿、蓝三分量。亮度的物理单位为 $\\mathrm { C D } / \\mathrm { m } ^ { 2 }$ （坎德拉/米²）。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/469e800b569e429d7cf800e412f551411ddbdaac25ec9c97105715f03d8d2fb3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Color image</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>a)ofls</td><td>b) of2s</td><td>c) of3s</td><td>d) of4s</td><td>e) of5s</td><td>f) of6s</td></tr><tr><td>Gray image</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>g)of1s_g</td><td>h)of2s_g</td><td>i) of3s_g</td><td>j)of4s_g</td><td>k)of5s_g</td><td>m)of6s_g</td></tr><tr><td colspan=\"7\">图1图像视觉感知质量随图像平均亮度的变化，图1a)-图1f)为彩图，图1g)-图1m)为彩图对应的灰度图 像 Figure1Variation of visual perception quality of images with image mean luminances.Figure la)to figure lf)are Color images,Figure lg) to figure lm) are gray images corresponding to figure la) to figure 1f).</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2入射光与反射光",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "反射光（眼睛接收到的光线）的强度与入射光（表现在被照射物体表面）的强度的关系由下式描述：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI ( c , x , y ) = R ( c , x , y ) * E ( c , x , y )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $I ( c , x , y )$ ， $R ( c , x , y )$ ， $E ( c , x , y )$ 分别表示反射光强度，物体的反射系数，入射光强度。符号 $^ { 6 6 } * ^ { 9 9 }$ 表示Hadamard积算符，即矩阵的对应元素之积。实际上 $I ( c , x , y )$ 就是人类看见的图像。如果 $E ( c , x , y )$ 具有时空不变性，则有：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI ( c , x , y ) \\propto R ( c , x , y )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "就是说， $I ( c , x , y )$ 携带的是被成像物体的反射系数的信息，这是图像的物理本质！正常视觉看的是彩图，全色盲看的是灰图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "三、图像视觉质量感觉的量化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1人类视觉对图像质量的感觉定律 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1二维刺激量",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图像是一种二维刺激量。人类视觉对图像质量的感觉不再是简单的对亮度（灰度）的大小的感觉，而是对于更复杂的亮度分布的感觉，即对于二维刺激量的感觉。显然一幅亮度为0的图像的感觉是质量不好的，因为它没有光线，更没有亮度的分布。对于亮度为255的一幅图像的质量的感觉也是不好的，因为它没有结构(或纹理)，即没有分布。对于这样的图像质量的感觉也是不好的。所以，归根到底，对图像质量的感觉是一种对于亮度分布的感觉。对于灰度图像是对于灰度分布的感觉，对于彩色图像是对色度分布的感觉。对于一幅图像的亮度而言，只是一种期望值（平均值）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2视觉阈(visual threshold)和致盲阈(blinding threshold) ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "视觉阈其实就是一般称为的JND(just noticeable difference： 恰可感知差异或简称恰感差)。实验研究发现：JND 是色度值的函数，也是色度类别（如红、绿、蓝等）的函数，可表为JND(c，ch)[8]。其中c表示色度值，ch表示色度类别。考虑视觉也应有阈值问题，故对于亮度的感觉量化公式（1）应改写成如下形式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP = k * l o g _ { a } ( S / S _ { 0 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $S _ { 0 }$ 就是 JND。公式(6)，确定了 $S \\geq S _ { 0 }$ ，否则就不会引起视觉。这样的表达式还能保证， $( S / S _ { 0 } ) \\ge 1$ ，因而保证了 $P \\geq 0$ ，不会产生难于解释的感觉(P)的负值。而(1)式就存在这个问题！",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式(6)也可称为亮度(的感觉)级的公式，因此这里P表示的感觉的亮度等级，它是取了对数的某一物理亮度S与亮度阈值 $\\mathrm { S } _ { 0 }$ 之比。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "关于P的单位，在 $\\mathtt { a } { = } 1 0$ ， $k { = } 1 0$ 时，P的单位为分贝(DB)，如果取 $\\mathrm { k } { = } 1$ ，P的单位为贝耳(Bell)，在光度学领域，也有称为Bril(布瑞)。如果 $\\mathrm { k } { = } 1$ ，$\\mathrm { a { = } e ( = 2 . 7 1 8 3 ) }$ ，则P的单位为奈特(Nat）。如果 $\\mathrm { k } { = } 1$ ， $\\mathrm { a { = } 2 }$ ，则P的单位为比特(Bit)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "就亮度而言，除了低端的视觉阈(JND)外，还有高端的致盲阈。视觉是光化学和电化学的级联过程。致盲可分暂时致盲和永久致盲。暂时致盲，是因为光照的强度过高，视紫红质耗尽，不能再对光的变化起跟随反应，强光撤销后，仍能恢复正常视觉。永久致盲是强光造成了视觉细胞的器质性损害，因而视觉不能恢复。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在低端视觉阈与高端致盲阈之间的光强区域，称为视觉区域(visualarea)，简称视区。在接近视区两端的亮度值上，都不再能保持Weber-Fechner定律。光线亮度在 $1 2 0 1 \\mathrm { x } ^ { - } 1 5 0 1 \\mathrm { x }$ （中值为1351x）是人眼最适宜的亮度。超过10000lx一般都能暂时性致盲。计算机屏幕亮度定义为全白色屏幕的亮度，约在300lx左右。0-300lx是视觉区域的一个子区域。计算机图像处理就工作在这个子区域。对于8位系统，分成0-255共256个亮度级。计算机屏幕的1亮度级之差大约为1lx。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3边界条件与图像质量感觉量化方程",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.1图像质量的感觉量不再有对数律存在",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于数字图像处理，计算机屏幕的亮度范围的设定，以舒适的观察为目的，一般设定为0-255的亮度级。255亮度级对应的亮度，约为300CD/M。这个亮度（0-300CD/M）适合于人眼的长期观察，不至于产生明显的不适的感觉。而计算机的屏幕亮度是可以在小范围内调节的，以适应于不同观察者的习惯。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "显然，对于图像这样的二维刺激量，只可用平均亮度来描述视觉系统的对于亮度的感觉。在0-255的整个视觉域范围内，对于图像质量的感觉量，不再有对数律存在，如图1和表1。对于图像质量的感觉量与图像平均亮度的关系表现为最大值函数关系。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.2图像质量感觉量边界条件",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于图像质量的感觉的特点有：在平均亮度AL小于等于为 $\\cdot$ 时，感知质量PQ(perception quality)为0。在平均亮度AL大于等于 $A L _ { E }$ 时，感知质量PQ 也为0。这称为图像质量视觉感知的两个边界条件，具体描述如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "第一边界条件：设视觉感知范围的左边界值为 $A L _ { o }$ ，则第一边界条件表达为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP Q ( A L \\leq A L _ { O } ) = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "第二边界条件：设视觉感知范围的右边界值为 $A L _ { E }$ ，则第二边界条件表达为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP Q ( A L \\geq A L _ { E } ) = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中，",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA L _ { O } = J N D _ { O } - 1\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "称为第一（低端）边界。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA L _ { E } = 2 5 5 - ( J N D _ { E } - 1 )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "称为第二（高端）边界。上式中， $J N D _ { o }$ 和 $I N D _ { E }$ 分别表示图像定义的亮度范围的起始和终末端的 $J M D _ { \\circ }$ 这里JND（just noticeabledifference）意为恰可感知(亮度)差异。JND-1就成为恰不可感知了！假定 $J N D _ { E } = J N D _ { O }$ ，称为对称的恰可感知边界条件，否则称为非对称的恰可感知边界条件。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.3图像感知质量方程",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "满足的这两个边界的条件的视觉感知规律的方程，称为图像感知质量方程，可用下式表征：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP Q ( A L ) = C C * \\left( A L - A L _ { O } \\right) * \\left( A L _ { E } - A L \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $A L$ 表示平均亮度。 $P Q ( A L )$ 表示随 $A L$ 变化的感知质量 $P Q _ { \\circ }$ $\\mathit { C C }$ 是色彩常数。对于灰度图像， $c c { = } 1$ ，即感知质量方程为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP Q _ { G r a y } ( A L ) = ( A L - A L _ { O } ) * ( A L _ { E } - A L )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于彩色图像， $c c { = } 3$ 。因子 $P Q _ { C O R E } ( A L ) = ( A L - A L _ { O } ) * ( A L _ { E } - A L )$ 称为核心因子，也就是灰度图像的感知质量方程。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图1及表1可知，对于系列拍摄图像，存在一个最佳感知质量图像对应",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "的平均最佳亮度 $A L _ { o p T }$ 。由令(11)式的一阶导数为0的求取极值算法，可得：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA L _ { O P T } = ( A L _ { E } + A L _ { O } ) / 2\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， $A L _ { E }$ 和 $A L _ { o }$ 分别表示屏幕视觉区域的终末和起始值。如果讨论的视觉区域有对称的 $J M D ,$ 即 $A L _ { O } = J N D - 1$ ， $A L _ { E } = 2 5 5 - ( J N D - 1 )$ ，则",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA L _ { O P T } = 1 2 7 . 5\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如果有非对称的 $J N D$ ，低端为 $J N D _ { O }$ ，高端为 $I N D _ { E }$ ，可得最佳平均亮度 $A L _ { O P T }$ 为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA L _ { O P T } = ( 2 2 5 - J N D _ { E } + J N D _ { O } ) / 2\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如果 $J N D _ { O } = 5$ ， $J N D _ { E } = 1$ ，则 $A L _ { O P T } = 1 2 9 . 5$ ，取整后得 $A L _ { O P T } = 1 3 0$ 。这意味着 $A L _ { O P T }$ 在平均亮度轴上右移（增加)。对应于三种边界条件组合对的 $A L _ { O P T }$ 值及其对应的 $P Q$ 值见表1。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "随着平均亮度 $A L$ 的增加，感知质量 $P Q$ 有凸性特征。对应每一 $A L$ 值的 $P Q$ 值，可由(11)式计算。表1中的3个不同边界条件的例子的 $P Q$ 随 $A L$ 变化的图像示于图2。由公式（15）和表1可知，低端 $J N D _ { o }$ 和高端为 $I N D _ { E }$ 相差越大，最佳平均亮度值离27.5越远。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表1不同的边界条件计算出的最佳质量图像对应的平均最佳亮度 $A L o P T$ 及不同的感知质量值 $P Q s$ ，归一化感知质量 $N P Q s$ ，以及归一化感知质量距离 $D N P Q s$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Table 1 Average optimal luminance,ALoPr,corresponding to optimal quality images, ImageoPt,and perception quality values, $P Q$ , normalized perception quality values, $N P Q$ ,and normalized perception quality distance values, $D N P Q$ ,computed by various boundary conditions. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/5d9c1e520158d5ff82c32fe11a9b5f16e2c38de83d27400e519cb32338bc22f5.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Note1</td><td colspan=\"9\">第一组边界条件：ALo=0.0000； ALE=255.0000；symmetric(对称)JND=0；ALoPr=127.5;</td></tr><tr><td></td><td>N/A</td><td>Fig.1a)&g)</td><td></td><td>Fig.1 b)&h)Fig.1 c)&i)</td><td>Fig.1 d)&j)</td><td>IMAGEOPT</td><td>Fig.1 e)&k)</td><td>Fig.1 f)&m)</td><td>N/A</td></tr><tr><td>AL</td><td>0.0000</td><td>10.8628</td><td>32.3990</td><td>71.9273</td><td>104.3722</td><td>127.5000</td><td>141.5250</td><td>199.4553</td><td>255.0000</td></tr><tr><td>PQ</td><td>3*0.0000</td><td></td><td></td><td></td><td>3*2652.01363*7212.0498|3*13167.9250|3*15721.35493*16256.2500|3*16059.5494|3*11078.68483*0.000</td><td></td><td></td><td></td><td></td></tr><tr><td>NPQ</td><td>0.0000</td><td>0.1631</td><td>0.4436</td><td>0.8100</td><td>0.9671</td><td>1.0000</td><td>0.9879</td><td>0.6815</td><td>0.0000</td></tr><tr><td>FPQ</td><td>Worst</td><td>Worse</td><td>Worse</td><td>good</td><td>excellent</td><td>best</td><td>excellent</td><td>OK</td><td>worst</td></tr><tr><td></td><td>DNPQ|1.0000</td><td>0.8369</td><td>0.5564</td><td>0.2900</td><td>0.0329</td><td>0.0000</td><td>0.0121</td><td>0.3185</td><td>1.0000</td></tr><tr><td colspan=\"10\"></td></tr><tr><td colspan=\"10\">第二组边界条件：ALo=4.0000；ALE=251.0000；symmetric(对称)JND=5；ALoPr=127.5;</td></tr><tr><td>Note2</td><td>N/A</td><td>Fig.1a)&g)</td><td>Fig.1 b)&h)</td><td>Fig.1 c)&i)</td><td>Fig.1 d)&j)</td><td>IMAGEOPT</td><td>Fig.1 e)&k)</td><td>Fig.1 f)&m)</td><td>N/A</td></tr><tr><td>AL</td><td>5.0000</td><td>10.8628</td><td>32.3990</td><td>71.9273</td><td>104.3722</td><td>127.5000</td><td>141.5250</td><td>199.4553</td><td>250.0000</td></tr><tr><td>PQ</td><td>3*0.0000</td><td></td><td></td><td></td><td>3*1402.01363*5962.0498|3*11917.9250|3*14471.35493*15006.2500|3*14809.5494|3*9828.6848</td><td></td><td></td><td></td><td>3*0.0000</td></tr><tr><td>NPQ</td><td>0.0000</td><td>0.0934</td><td>0.3973</td><td>0.7942</td><td>0.9644</td><td>1.0000</td><td>0.9869</td><td>0.6550</td><td>0.0000</td></tr><tr><td>FPQ</td><td>Worst</td><td>Worse</td><td>Worse</td><td>good</td><td>excellent</td><td>best</td><td>excellent</td><td>OK</td><td>worst</td></tr><tr><td></td><td>DNPQ|1.0000</td><td>0.9066</td><td>0.6027</td><td>0.2058</td><td>0.0556</td><td>0.0000</td><td>0.0131</td><td>0.3450</td><td>1.0000</td></tr><tr><td colspan=\"10\"></td></tr><tr><td colspan=\"10\">第三组边界条件：ALo=4.0000； ALE=255.0000；asymmetric(非对称)JND，JNDo=5；JNDE=1；ALoPr=130;</td></tr><tr><td>Note3</td><td>N/A</td><td>Fig.1a)&g)</td><td>Fig.1 b)&h)</td><td>Fig.1 c)&i)</td><td>Fig.1 d)&j)</td><td>IMAGEOPT</td><td>Fig.1 e)&k)</td><td>Fig.1 f)&m)</td><td>N/A</td></tr><tr><td>AL</td><td>5.0000</td><td>10.8628</td><td>32.3990</td><td>71.9273</td><td>104.3722</td><td>130.0000</td><td>141.5250</td><td>199.4553</td><td>255.0000</td></tr><tr><td>PQ</td><td>3*0.0000</td><td></td><td></td><td></td><td></td><td></td><td></td><td>3*1431.3276|3*6099.0448|3*12252.5615|3*14968.2159|3*15625.0000|3*15492.1744|3*10800.96133*0.000</td><td></td></tr><tr><td>NPQ</td><td>0.0000</td><td>0.0916</td><td>0.3903</td><td>0.7842</td><td>0.9580</td><td>1.0000</td><td>0.9915</td><td>0.6913</td><td>0.0000</td></tr><tr><td>FPQ</td><td>Worst</td><td>Worse</td><td>Worse</td><td>good</td><td>excellent</td><td>best</td><td>excellent</td><td>OK</td><td>worst</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/0358d5fb4227f1eb2b86a42974d42034f078fc722ea27f6fca82d56e6ac73542.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>DNPQ|1.0000</td><td></td><td>0.9084</td><td>0.7097</td><td>0.2158</td><td>0.0420-</td><td>0.0000</td><td>0.0085</td><td>0.4087</td><td>1.0000</td></tr><tr><td></td><td>注：Name表示图像名称。N/A表示未提供图像。IMAGEoPT表示有最佳视觉感知质量的图像。对于 PQ</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>值，除去\"3*\"因子的数据是灰度图像的数据，或称为核心数据。</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/a50b4fe164bfc8141d7717ec6c340a39c95c8b83f6b8194084b20b3133d73a79.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>模糊感知质量</td><td>最差</td><td>更差</td><td>差</td><td>一般</td><td>好</td><td>更好</td><td>很好</td><td>极好</td></tr><tr><td>FPQ</td><td>worst</td><td>worse</td><td>bad ok</td><td>good</td><td>better</td><td>excellent</td><td></td><td>best</td></tr><tr><td>数据范围(Range）%</td><td>[0,30)</td><td>[30,45)</td><td>[45,60)</td><td>[60,70)</td><td>[70,80)</td><td>[80,90)</td><td>[90,100)</td><td>100.000</td></tr><tr><td colspan=\"9\">注：符号\"[\"表示左半闭区间，符号\"(\"表示右开区间。数据单位为厘夸尔。 Note: The symbol \"[\" represents the left semi closed interval,and the symbol \"(\" represents the right open interval.The unit of data is the centi-qual.</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f84a219161a68d1118138ace86ef4bda665340f0f8eb2a3c5203902f95279b8b.jpg",
+        "img_caption": [
+            "图2三种不同边界值的三种视觉感知函数图形的比较 Figure 2 Comparison among three visual perception function graphs with three different boundary values "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由(11)式给出的对于图像质量的感觉的量化显然具有多项式 (2次三项式)特征。但是由于采用的边界条件的不同，对于同一幅图像会得出不同的感知质量值。这样必须要求采用统一的边界条件，才能使不同的研究者的结果可以比较。为了避免出现这种情况，可采用按最大值归一化的感知质量的量化方法，得到视觉感知质量的归一化方程 $N P Q ( A L )$ 如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { N P Q ( A L ) = \\frac { ( A L - A L _ { O } ) * ( A L _ { E } - A L ) } { ( A L _ { O P T } - A L _ { O } ) * ( A L _ { E } - ( A L _ { O P T } ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "三种不同边界条件的例子的 $M P Q$ 随 $A L$ 的变化见表1。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式（16）的定义域为[0,1]，为模糊隶属函数。式[13]取值为1时，表示该图像为最佳质量图像。式[16]取值为0.9，表示该图像的质量是最佳质量的$9 0 \\%$ 。式[16]是一个泛函表达式，因为其宗量 $A L = f ( \\mathrm { x } , \\mathrm { y } , \\mathrm { c } )$ ，是图像平面坐标x，y和颜色参量c的函数。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "二维刺激量的归一化感觉函数 $N P Q ( A L )$ 是一个没有量纲的量，但是如像信息熵，强度级等给以单位bit，bell等一样，也可赋以单位，如夸尔(Qual)。比夸尔小10 倍的单位称为分夸尔（deci-qual），小100 倍的单位为厘夸尔",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(centi-qual)，等等。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.4感知质量距离 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "一幅图像的归一化视觉感知质量 $N P Q ( A L )$ 与具有归一化最佳视觉感知质量$N P Q ( A L _ { O P T } )$ 的图像的视觉感知质量的距离， $\\mathrm { D N P Q }$ ，定义为：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$D N P Q ( A L ) = \\beta * ( N P Q ( A L _ { O P T } ) - N P Q ( A L ) )$ (17)式中， $\\beta$ 是与单位有关的常数。 $\\beta = 1$ 时，DNPQ的单位为qual， $\\beta = 1 0$ 时，DNPQ的单位为deci-qual， $\\beta = 1 0 0$ 时，DNPQ的单位为centi-qual。$N P Q ( A L _ { O P T } ) \\cong 1 . \\ 0 0 0 0 :$ ， $N P Q ( A L )$ 的变化范围在 $0 ^ { \\sim } 1$ 之间。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "感知质量距离越小，图像质量越好。感知质量距离大的图像得通过技术手段改善图像质量。对于图像拍摄，可调整光圈大小，或改善光照条件。或者通过图像增强方法改善图像视觉质量。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4归一化的图像质量感觉的意义",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1)最佳质量拍摄图像的归一化感觉质量为1。  \n(2)归一化感知质量小于1说明该图像可进一步增强。  \n(3)归一化感知质量小于1还说明该图像的拍摄条件没有达到最佳化拍摄条件。这样就给拍摄条件的智能最佳化提供了一种可能。  \n(4)最佳质量拍摄图像的归一化感觉质量为1的逆命题是不成立的，除非限定图像是自然图像。  \n(5)这里感知函数是一个多项式，不是Weber-Fechner的对数函数，也不是Stevens的幂函数。图像科学工作的亮度范围，不是全部视区，而是使视觉舒适的一个子区域。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.5图像视觉感知质量的模糊化",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "生活中对于图像质量的感知都是模糊化的，如好(good)，更好(better)，很好(excellent)，最佳(optimum，best)，等等。这符合视觉观察的实际情况。因此，对于(11)式的视觉感知质量的数字结果PQ，必须设计模糊化变换，将数字量变为模糊概念FPQ，如下表2。对于图1和图2中的图像系列的模糊评价见表1和表2的FPQ行。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/f0fca5a4f65c3d5fc6f2186c32fd6a0636b63d9ded530ac63e3a82d2c7ee0659.jpg",
+        "table_caption": [
+            "表2图像的数字感知质量的模糊化",
+            "Table 2 Fuzzification of digital perception quality of an image "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>模糊感知质量</td><td>最差</td><td>更差</td><td>差</td><td>一般</td><td>好</td><td>更好</td><td>很好</td><td>极好</td></tr><tr><td>FPQ</td><td>worst</td><td>worse</td><td>bad ok</td><td>good</td><td>better</td><td></td><td>excellent</td><td>best</td></tr><tr><td>数据范围(Range）%</td><td>[0,30)</td><td>[30,45)</td><td>[45,60)</td><td>[60,70)</td><td>[70,80)</td><td>[80,90)</td><td>[90,100)</td><td>100.000</td></tr><tr><td colspan=\"9\">注：符号\"[\"表示左半闭区间，符号\"(\"表示右开区间。数据单位为厘夸尔。 Note: The symbol \"[\" represents the left semi closed interval,and the symbol \"(\" represents the right open interval. The unit of data is the centi-qual.</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.6量化图像视觉感知质量的另外的例子",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "这里提供名为Patio 的一组拍摄图像的例子，P1-P6，如图3。图3a)-f)的各子图P1-P6为彩图，子图 $\\mathrm { g ) - m ) }$ 为彩色子图a)-f)对应的灰度图像。彩色-灰度的变换用(3)式实现。表3给出了图3的平均亮度AL的计算数据及其导出感知质量PQ，归一化感知质量 NPQ，以及归一化感知质量距离 DNPQs的数据。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/f9c18c32bc66875690171cbf1f7386b023c137a1b876da92475a720caa902c56.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "表3不同的边界条件计算出的最佳感知质量图像对应的平均亮度ALOPT，不同的感知质量PQs，归一化感知质量 $N P Q s$ 以及归一化视觉感知质量距离DNPQs"
+        ],
+        "table_body": "<html><body><table><tr><td>Color subimage</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>a)P1</td><td>b)P2</td><td>c)P3</td><td>d) P4</td><td>e)P5</td><td>f)P6</td></tr><tr><td>Gray subimage</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>g)P1_g</td><td>h) P2_g</td><td>i) P3_g</td><td>j) P4_g</td><td>k) P5_g</td><td>m)P6_g</td></tr><tr><td colspan=\"7\">图3不同照度获取的 Patio 系列图像的视觉感知质量随图像平均亮度的变化,“P”represents “patio\". Figure 3Image quality perception for Patio series images taken under various iluminances varies with image averageluminance.</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Table 3 Average luminance ALoPr, corresponding to the best quality images, ImageoPrs,and perception quality values, $P Q$ ,normalized perception quality values,NPQ,and normalized perception quality distance values, DNPQ, computed by various boundary conditions. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/1e316b0119fbfa3b7476a4a05a5fb5f11439024dc4c518362c3be1f7f0163917.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            ""
+        ],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"8\">NotelThe first set of boundary conditions(第一组边界条件):ALo=0.0000,ALE=255.0000。symmetric(对 称)JND=1。ALoPr=127.5。</td></tr><tr><td></td><td>N/A</td><td></td><td>Fig.3 a)&g)Fig.3 b)&h)Fig.3 c)&i)</td><td></td><td>ImageoPTS</td><td></td><td>Fig.3 d)&j) Fig.3 e)&k)</td><td>Fig.3f)&m) N/A</td><td></td></tr><tr><td>AL</td><td>0.0000|25.1982</td><td></td><td>84.5847</td><td>110.5878</td><td>127.5000</td><td>139.7881</td><td>141.5250</td><td>199.4553</td><td>255.0000</td></tr><tr><td>PQ</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.0000|5790.59172|14414.5270|15970.2275|16256.2500|16105.2526|16059.54938|11078.68480.0000</td><td></td><td></td></tr><tr><td>NPQ</td><td>0.00000.3562</td><td></td><td>0.8867</td><td>0.9824</td><td>1.0000</td><td>0.9907</td><td>0.9879</td><td>0.6815</td><td>0.0000</td></tr><tr><td>FPQ</td><td>Worst</td><td>Worse</td><td>better</td><td>excellent</td><td>best</td><td>excellent</td><td>excellent</td><td>OK</td><td>worst</td></tr><tr><td></td><td>DNPQ|1.00000.6438</td><td></td><td>0.1133</td><td>0.0179</td><td>0.0000</td><td>0.0093</td><td>0.0121</td><td>0.3185</td><td>1.0000</td></tr><tr><td colspan=\"10\"></td></tr><tr><td colspan=\"10\">Note2|The second set ofboundary conditions(第二组边界条件):ALo=4.0000,ALE=251.0000。symmetric(对 称)JND=5。ALoPT=127.5。</td></tr><tr><td></td><td>N/A</td><td></td><td>Fig.3 a)&g) Fig.3 b)&h)Fig.3 c)&i)</td><td></td><td>ImageoPT</td><td>Fig.3 d)&j) Fig.3 e)&k)</td><td></td><td>Fig.3f)&m)N/A</td><td></td></tr><tr><td>AL</td><td></td><td>5.0000|25.1982</td><td>84.5847</td><td>110.5878</td><td>127.5000</td><td>139.7881</td><td>141.5250</td><td>199.4553</td><td>250.0000</td></tr><tr><td>PQ</td><td>0.0000</td><td>4540.5917</td><td>13164.5270|14720.2274|15006.2500</td><td></td><td></td><td>14855.2526|14809.5493</td><td></td><td>9828.6848</td><td>0.0000</td></tr><tr><td>NPQ</td><td>0.00000.3026</td><td></td><td>0.8773</td><td>0.9809</td><td>1.0000</td><td>0.9899</td><td>0.9869</td><td>0.6550</td><td>0.0000</td></tr><tr><td>FPQ</td><td>Worst</td><td>Worse</td><td>better</td><td>excellent</td><td>best</td><td>excellent</td><td>excellent</td><td>OK</td><td>worst</td></tr><tr><td>DNPQ</td><td>1.00000.6974</td><td></td><td>0.1227</td><td>0.0191</td><td>0.0000</td><td>0.0101</td><td>0.0131</td><td>0.3450</td><td>1.0000</td></tr><tr><td colspan=\"10\"></td></tr><tr><td></td><td colspan=\"9\">Note3The third set of boundary conditions(第三组边界条件):ALo=5.00,ALE=255.0000。asymmetric(非对 称)JND，JNDo=5.0000，JNDE=1.0000。ALoPr=130。</td></tr><tr><td>Name N/A</td><td></td><td>Fig.3 a)&g)Fig.3 b)&h)Fig.3 c)&i)</td><td></td><td></td><td>ImageoPT</td><td>Fig.3 d)&j)</td><td>Fig.3 e)&k)</td><td>Fig.3f)&m)N/A</td><td></td></tr><tr><td>AL</td><td></td><td>5.0000|25.1982</td><td>84.5847</td><td>110.5878</td><td>130.0000</td><td>139.7881</td><td>141.5250</td><td>199.4553</td><td>255.0000</td></tr><tr><td>PQ</td><td>0.0000</td><td>4641.5827</td><td></td><td>13562.4505|15248.1664|15625.0000</td><td></td><td></td><td>15529.1931|15492.1743</td><td>10800.9613</td><td>0.0000</td></tr><tr><td>NPQ</td><td>0.00000.2971</td><td></td><td>0.8680</td><td>0.9759</td><td>1.0000</td><td>0.9939</td><td>0.9915</td><td>0.6913</td><td>0.0000</td></tr><tr><td>FPQ</td><td>Worst</td><td>Worse</td><td>better</td><td>excellent</td><td>best</td><td>excellent</td><td>excellent</td><td>OK</td><td>worst</td></tr><tr><td>DNPQ</td><td>1.00000.7029</td><td></td><td>0.1320</td><td>0.0241</td><td>0.0000</td><td>0.0061</td><td>0.0085</td><td>0.3087</td><td>1.0000</td></tr><tr><td>注：Name 表示图像名称</td><td>N/A表</td><td colspan=\"9\">未提供图像 IMAGE 无 示有最佳视觉感知质量的图像 对于PO</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "值，除去\"3\\*\"因子的数据是灰度图像的数据，或称为核心数据。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "四、结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Weber-Fechner对于感觉的量化研究奠定了基础，并由此建立了称为心理物理学（Psychophysics）的交叉学科。但是此前的研究，都限于一维刺激量感知的量化研究[1-7]。本研究的目的在于研究二维刺激量的感觉（如对于图像质量高低或好坏的感觉)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文发现了图像质量感觉与亮度的具有凸性特征的非线性的依赖性，因而推断了最佳质量图像的存在。根据边界条件，建立了对图像质量的感觉量的量化方程。这里对于图像质量的感知的量化，只凭平均亮度单一参量，是对图像质量感知的初级量化（ $\\mathrm { P P Q }$ ：primary perception quality）。只要图像的平均亮度相同，就有相同的感知值 $\\mathrm { P Q }$ ，即基于平均亮度的感知质量是相同的。但是人类视觉对于有相同平均亮度的彩色图像的视觉感知质量显然比灰度图像更好。这种进一步的区分，可由PD参数来完成。在这种意义上看，NPD是退化了的评价指标！",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "五、讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对图像（二维刺激量）质量的感知的量化方程是对于二维刺激量的感知定律。正向命题是正确的，即视觉质量相同的图像(二维刺激量)有相同的视觉感知值，因而具有相同的平均亮度。逆命题是不确定的，是因为具有相同平均亮度的图像不一定具有相同的图像质量，如单一亮度的图像与平均亮度与其相同的(多色度成份)图像。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对于图像的视觉特征的进一步分析，发现还有一些图像的物理特征影响对于图像质量的视觉感知。这些特征包括：图像的颜色通道数(彩色平面图像3通道，灰度平面图像1通道)，颜色数 (彩色 $2 ^ { 2 4 }$ ，灰度 $2 ^ { 8 }$ )，图像所含的信息量，图像的对比度，图像的色度的动态范围（带宽)。这些影响图像视觉质量的特征参数称为视觉质量参数。研究这些参数对于图像的视觉质量的贡献，可以构建精确的图像视觉感知质量评价函数（指标)。对于单幅图像视觉（感知）质量评价，可以构建一个5 维的感知质量函数PQ5D（perception quality functionwith fivedimensions）。5 维视觉质量感知函数可写成PQ5D(CC，AIE，AC,ACSTF，ABWF）。括号中的宗量(argument)的意义为：CC（colorchannels）为颜色通道数，AIE（average information entropy）为平均信息熵，AC（average contrast）为平均对比度，ACSTF（average color constituentfactor）为平均色度成份因子，ABWF(average bandwidthfactor)为色度的平均带宽（动态范围）因子。对于彩色增强图像之居然感知质量评价，可以构建一个7维的感知质量函数，PQ7D(CC，AIE，AC，ACSTF，ABWF，cor1d,cor2d)。其中宗量cor1d表示图像增强前后三维平均亮度间的一维相关系数，cor2d表示图像增强前后的三分量的平均二维相关系数。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] X.X. Wei. Weber-Fechner law(Weber-Fechner 定 律).htp://blog.sina.com.cn/s/blog_ 4ca086fc0100zur5.html. 2011-11-22. [2] G.T. Fechner. Elemente der Psychophysik. New York, Holt, Rinehart & Winston,1996. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[3] E.H. Weber.De pulsu,resorptione, auditu et tactu [On stimulation, response, hearing and touch]. 1834, Annotationes,anatomical et physiological. Leipzig,Austria: Koehler.   \n[4] S. S. Stevens.To Honor Fechner and Repeal His Law. Science,1961,133(3446): 80-86. [5] S.S. Stevens. Neural events and psychophysical law. Science,1970,170(3962): 1043-1050. [6] S. S. Stevens. The surprising simplicity of sensory metrics. American psychologist, 1962, 17: 29-39.   \n[7] M. Treisman. Sensory scaling and the psychophysical law. Quarterly Journal of Experimental Psychol0gy,1964,16(1): 11-22.   \n[8] Y.H. Liu, Z. F. Wang, Z. X. Xie. Contrast resolution measurement of three primary color of the red， the green and the blue. Proceedings-2O10 3rd International Conference on Biomedical Engineering and Informatics, BMEI 2010. Vol.1, pp.174-178. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Visual perception law under bi-dimensional optics ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "stimulation ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Rui Zhu1,\\*， Yu Hong Liu23,Ti Chun Wang1， Long Cong Chenl， Zheng Xiang Xiel\\*",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1College of Medical Informatics， Chongqing Medical University， Chongqing 400016, China   \n²College of Health and Intelligent Engineering， Chengdu Medical College， Chendu 610500，China   \n3 College of Life Science and Technology， Electronic Science and Technology University，Chendu 610054，China ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "\\*The corresponding authors: R. Zhu, zhurui@cqmu.edu.cn; Z.X.Xie:101044@cqmu.edu.cn ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Human sense of stimulus quantity is divided into quantitative sense and qualitative sense.Whether it's Weber_Fechner's logarithm sensory law or Stevens's power function sensory law are both such a law that is about the quantitative relationship between sensory quantity and one-dimensional luminance stimulus.The image belongs to the stimulus with two-dimensional distribution characteristics of the luminance.It is studied in this paper that is the qualitative sense for twodimensional luminance stimulus,that is, the sense of the good level or bad level of the quality of two-dimensional luminance stimulus are studied. Good level or bad level is a fuzzy psychological conception, so we need to use the method of fuzzy mathematics to quantify the good level or the bad level of the visual perception quality of an image,that is to establish a fuzzy membership function PQ to quantitatively represent the good level or the bad level of the visual quality of an image. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Bi-dimensional optics stimulation Perceptional law Visual quality assessment of an image Average luminance Visual quality function ",
+        "page_idx": 9
+    }
+]

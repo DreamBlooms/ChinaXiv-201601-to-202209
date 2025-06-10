@@ -1,0 +1,110 @@
+临床研究
+
+# 慢性阻塞性肺疾病患者营养状态与血浆生长素释放肽水平的相关性
+
+张秀珍，罗健平，黄景培，黄小杏，何润文广东省江门市新会区第二人民医院，广东江门529100摘要：目的了解慢性阻塞性肺疾病(COPD)患者血浆生长素释放肽(Ghrelin)水平及其营养不良和疾病严重程度之间的关系。方法采用放射免疫法测定80例稳定期COPD患者(分营养不良COPD组42例，非营养不良COPD组38例)及32例健康对照者血浆Ghrelin水平。酶联免疫吸附试验法测定肿瘤坏死因子 $\mathbf { \sigma } \cdot \mathbf { a }$ 、白细胞介素-1β,并测定身高体质量指数、三头肌皮肤皱厚度、上臂中部臂围、血清白蛋白。计算分析血浆Ghrelin水平与营养参数、细胞因子的关系。结果 营养不良COPD组血浆Ghrelin水平显著高于健康对照组及非营养不良COPD组 $( P { < } 0 . 0 1 )$ ，营养不良COPD组细胞因子水平显著高于健康对照组及非营养不良COPD组 $( P { < } 0 . 0 1 )$ 。血浆Ghrelin水平与绝大多数营养参数呈负相关( $( P { < } 0 . 0 1 )$ 。血浆Ghrelin水平与细胞因子水平呈正相关。但无统计学意义 $( P { > } 0 . 0 5 )$ 。结论COPD患者Ghrelin水平升高;病情越重,营养状况越差,Ghrelin水平越高,炎症反应越严重。关键词:慢性阻塞性肺疾病;血浆生长素释放肽;营养不良;肿瘤坏死因子 $\mathbf { \nabla } \cdot \mathbf { a }$ ；白细胞介素- $\cdot 1 \beta$
+
+# Relationship between nutrition state of chronic obstructive pulmonary disease patients and the plasma level of growth hormone releasing peptide
+
+ZHANG Xiuzhen, LUO Jianping,HUANG Jingpei,HUANG Xiaoping,HE Runwen Thesecond people'sHospital ofXinhui district,Jiangmen 5291oo,China
+
+Abstract:ObjectiveTounderstandtherelationshipof patients withchronicobstructive pulmonarydisease(COPD)betwen plasma Ghrelin level,degree of malnutrition and severity of disease.Methods Test plasma Ghrelin level of $8 0 \mathrm { C O P D }$ patients of stable stage were divided into malnutrition group 42cases andnormalnutrtion group 38cases and 32healthycontrollers wereanalysed bythemethodof radioimmunoassy.Enzyme-linked immunosorbent assy method wasused to testtumor necrosis factor-1,Leukocyteinterleukin-1andbioelectricalimpedancewasused totestbodyadiposecompositionanalysis. Body mass index,tricepsskinfold thickness,middlearm circumferenceand serum albumin weretested.The relationshipof plasma Ghrelin level,nutritionand cytokineswereanalysed.Results The plasma Ghrelinofmalnutrition COPDgroup was higher than that of normal nutrition group and healthy controls $( P { < } 0 . 0 1 )$ ， so was to the cytokines level $( P { < } 0 . 0 1 )$ . The plasma Ghrelin level was negatively related to most nutritional index $( P { < } 0 . 0 1 )$ ， and positively related to the level of cytokines without significant statistical meaning $( P { > } 0 . 0 5 )$ . Conclusion The higher level of Ghrelin of COPD patients, the more severe the patient was and the worse nutrition with more severer inflammation response.
+
+Key words: chronic obstructive pulmonary disease; ghrelin; malnutrition; TNF-1; LI-1
+
+慢性阻塞性肺疾病(COPD)是由于吸烟或吸人有害气体及颗粒，引起肺部炎症反应，蛋白酶一抗胰蛋白酶失衡和氧化应激，临床上表现为不完全可逆的气流受限。除了典型的肺部病理和病理生理改变外，COPD还存在肺外表现，包括全身炎症反应，体质量下降，人体组成改变和骨骼肌功能障碍等。这些全身效应加重了COPD患者的活动受限[1]。约 $2 5 \% { \sim } 6 0 \% \mathrm { C O P D }$ 患者存在营养不良，营养不良是COPD预后不良的独立危险因素[2]。生长素释放肽(Ghrelin)是起源于胃的脑肠多肽，主要促进食欲与能量正平衡3。近年来发现国内外有关于Ghrelin与COPD的相关报道[45],但Ghrelin与COPD患者营养不良的关系目前还不清楚。本研究观察COPD患者血浆Ghrelin水平与营养不良指标，细胞因子和疾病严重程度的相关性。
+
+# 1资料与方法
+
+1.1一般资料
+
+COPD组稳定期COPD组80例。符合《慢性阻塞性肺疾病指南》诊断标准：吸入沙丁胺醇 $4 0 0 ~ \mu \mathrm { g }$ 后，$\mathrm { F E V } _ { 1 } { < } 8 0 \%$ ， $\mathrm { F E V _ { 1 } / F V C } < 7 0 \% ^ { [ 1 ] }$ 。3月之内无急性加重、呼吸困难，咳嗽咳痰症状稳定；男45例，年龄 $6 8 { \pm } 8 . 7$ 岁，女35例，年龄 $6 6 { \pm } 1 0 . 9$ 岁。健康对照组资料共32例，身体健康，否认呼吸系统疾病，来源于我院职工，肺功能在正常范围。
+
+纳入标准：(1)体质量指数(BMI) ${ < } 2 0$ ;(2)血清白蛋白 ${ < } 3 5 ~ \mathrm { g / L }$ 两项者归入COPD营养不良组，其余归入COPD非营养不良组。排除标准：可能影响激素水平或炎症水平因素，包括口服糖皮质激素，急性感染，肝肾功能不全，高血压，冠心病，慢性左心衰，胃肠道疾病，恶性肿瘤，代谢性疾病如糖尿病，甲亢，近期手术。
+
+# 1.2 方法
+
+1.2.1营养指标的测定参考文献2方法测定反映营养状况的人体测量指标：身高、体质量，TSF、MAC，计算BMI。
+
+1.2.2 Ghrelin、TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ IL-Iβ的测定 空腹10\~12h后上午8:00\~9:00抽取静脉血 $9 \mathrm { m L }$ ,EDTA抗凝,离心分离
+
+血浆， $- 2 0 \ \mathrm { { ^ circ C } }$ 冻存待测。用放射免疫法检测总Ghrelin, ELISA测定TNF- $\alpha \mathrm { , I L - 1 \beta }$
+
+# 1.3统计学处理
+
+检测数据以均数 $\stackrel { \cdot } { \pm }$ 标准差表示。使用SPSSl6.0软件进行统计学处理。不符合正态分布资料用中位数表示，并且取自然对数后进行统计，组间比较采用 $\mathbf { \Phi } _ { t }$ 检验。相关分析用直线相关分析。 $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+# 2.1各组之间营养指标的比较
+
+营养不良COPD组与非营养不良COPD组及健康对照组相比。年龄性别无统计学差异。BMI、TSF、MAC、ALB均有统计学意义 $( P { < } 0 . 0 5 )$ )。非营养不良COPD组与健康对照组相比。年龄性别无统计学差异。BMI、TSF、MAC、ALB无统计学意义(表1)。
+
+表1两组COPD患者与对照组之间各项指标的比较 $\bar { ( x { \pm } s ) }$   
+
+<html><body><table><tr><td>指标</td><td>n</td><td>BMI(kg/m²)</td><td>三头肌皮肤皱厚度(mm)</td><td>上臂中部臂围(cm)</td></tr><tr><td>COPD组</td><td>80</td><td>21.80±3.1</td><td>12.89±5.64</td><td>24.12±4.55</td></tr><tr><td>营养不良COPD组</td><td>42</td><td>19.20±4.1*#</td><td>11.54±6.87*#</td><td>22.15±6.52*#</td></tr><tr><td>非营养不良COPD组</td><td>38</td><td>22.10±3.8</td><td>14.24±5.69</td><td>25.74±3 .71</td></tr><tr><td>健康对照组</td><td>32</td><td>23.14±2.7</td><td>15.38±4.82</td><td>26.51±6.19</td></tr></table></body></html>
+
+$^ { * } P { < } 0 . 0 5 \ v s$ 健康对照组; ${ } ^ { \# } P { < } 0 . 0 5 \ .$ us非营养不良COPD组.
+
+# 2.2各组之间炎症因子的比较
+
+营养不良COPD组与非营养不良COPD组及健康 对照组相比,TNF- $\mathbf { \alpha } _ { \cdot } \mathbf { \{ \alpha \} } _ { }$ IL-lβ浓度高于非营养不良COPD
+
+组及健康对照组，有统计学意义( $_ { ( P < 0 . 0 5 ) }$ 。非营养不良COPD组TNF- $\mathbf { \alpha } _ { \mathrm { ~ \normalfont ~ a ~ } }$ IL-Iβ浓度高于健康对照组，有统计学意义 ${ \it P } { < } 0 . 0 5$ ，表2)。
+
+表2两组COPD患者与对照组之间炎症因子的比较  
+
+<html><body><table><tr><td>指标</td><td>九</td><td>白蛋白 (g/L)</td><td>肿瘤坏死因子-α (pg/mL)</td><td>白细胞介索-1β (pg/mL)</td><td>血浆总生长素</td><td>释放肽 (pg/mL)</td></tr><tr><td>COPD组</td><td>80</td><td>36.17±4.05</td><td>1.48±0.56</td><td>2.14±0.47</td><td>902.67</td><td>711. 49~1126.05</td></tr><tr><td>营养不良COPD组</td><td>42</td><td>30.00±4.34*#</td><td>1.53±0.68*#</td><td>2.35±0.26*#</td><td>1054.32*#</td><td>856.56~2 383.79</td></tr><tr><td>非营养不良COPD组</td><td>38</td><td>39.23±3.55</td><td>1.36±0.37*</td><td>1.97±0.25*</td><td>753.14</td><td>650.58~941 .37</td></tr><tr><td>健康对照组</td><td>32</td><td>41.39±5.47</td><td>1.25±0.11</td><td>1.76±0.53</td><td>784.45</td><td>676.92~956.45</td></tr></table></body></html>
+
+$^ { * } P { < } 0 . 0 5 \ v s$ 健康对照组; $^ { \# } P { < } 0 . 0 5 \ v s$ 非营养不良COPD组.
+
+# 2.3各组之间Ghrelin的比较
+
+营养不良COPD患者血浆Ghrelin水平显著高于非营养不良COPD患者及健康者 $_ { ( P < 0 . 0 5 ) }$ 。非营养不良COPD组患者血浆Ghrelin水平与健康者之间无明显差异 $\scriptstyle \cdot \ P > 0 . 0 5$ ，表1)。
+
+2.4血浆Ghrelin与营养指标、炎症因子的相关性分析
+
+COPD组血浆Ghrelin水平经对数处理后与BMl、TSF、MAC、ALB呈负相关．有明显统计学意义（ $P <$ 0.01）,COPD组血浆Ghrelin水平与TNF- ${ \bf \cdot } { \bf a } , \mathrm { I L - } 1 \beta$ 呈正相关，但未达到统计学意义 $( P { > } 0 . 0 5 )$ 。对照组血浆Ghrelin水平与BMI、TSF、MAC、ALB、TNF- $\mathbf { \partial } \cdot \mathbf { a } , \mathbf { I L - 1 } \mathbf { \beta }$ 无显著相关性(表3)。
+
+表3血浆ghrelin浓度与营养参数TNF $ { \mathbf { \cdot } } { } _ { 0 }  { \mathrm { \cdot } }  { \mathrm { I L } } - 1$ 附相关分析  
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="2">COPD组</td><td colspan="2">健康对照组</td></tr><tr><td></td><td>P</td><td>1</td><td>P</td></tr><tr><td>BMI(kg/m²)</td><td>-0.527</td><td><0.01</td><td>0.027</td><td>>0.05</td></tr><tr><td>三头肌皮肤皱厚(mm)</td><td>-0.468</td><td><0.01</td><td>0.136</td><td>>0.05</td></tr><tr><td>上臂中部臂围(cm)</td><td>-0.476</td><td><0.01</td><td>0.145</td><td>>0.05</td></tr><tr><td>白蛋白(g/L)</td><td>-0.432</td><td><0.01</td><td>0.023</td><td>>0.05</td></tr><tr><td>肿瘤坏死因子-α(pg/mL)</td><td>0.411</td><td>>0.05</td><td>0.051</td><td>>0.05</td></tr><tr><td>白细胞介索-1β(pg/mL)</td><td>0.524</td><td>>0.05</td><td>0.109</td><td>>0.05</td></tr></table></body></html>
+
+# 2.5两组COPD血浆Ghrelin水平与营养指标、炎症因子的相关性分析
+
+营养不良COPD患者血浆Ghrelin水平与BMl、TSF、MAC、ALB呈负相关 $( P { < } 0 . 0 1 )$ ，与TNF $\mathbf { \nabla } \cdot \mathbf { a }$ IL-1β正相关，但未达到统计学显著水平。非营养不良COPD组血浆Ghrelin水平经对数处理后与BMI呈负相关( $P <$ 0.01）,与TSF、MAC、ALB、没显著相关性。TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 、IL-1β正相关，但未达到统计学显著水平(表4)。
+
+表4两组COPD血浆9hrelin浓度与营养参数TNF- $\mathbf { \sigma } \cdot \mathbf { a }$ IL-1β的相关分析   
+
+<html><body><table><tr><td rowspan="2">组别</td><td colspan="2">营养不良COPD组</td><td colspan="2">非营养不良COPD组</td></tr><tr><td></td><td>P</td><td></td><td>P</td></tr><tr><td>BMI(kg/m²)</td><td>-0.524</td><td><0.01</td><td>-0.516</td><td><0.01</td></tr><tr><td>三头肌皮肤皱厚度(mm)</td><td>-0.528</td><td><0.01</td><td>-0.466</td><td>>0.05</td></tr><tr><td>上臂中部臂围(cm)</td><td>-0.676</td><td><0.01</td><td>-0.155</td><td>>0.05</td></tr><tr><td>白蛋白(g/L)</td><td>-0.723</td><td><0.01</td><td>-0.067</td><td>>0.05</td></tr><tr><td>肿瘤坏死因子-a(pg/mL)</td><td>0.471</td><td>>0.05</td><td>0.324</td><td>>0.05</td></tr><tr><td>白细胞介索一Iβ(pg/mL)</td><td>0.536</td><td>>0.05</td><td>-0.509</td><td>>0.05</td></tr></table></body></html>
+
+# 3讨论
+
+COPD患者的营养状况日益受到人们的关注．当COPD患者合并营养不良，直接地影响其预后，是独立于肺功能的重要预后指标之一[2。COPD患者体质量下降的确切机制并不清楚，研究证实COPD患者能量消耗增加，基础代谢增加。COPD患者在营养不良，全身炎症反应，氧化应激，组织低氧，骨骼肌凋亡，激素及生长因子异常等因素协同作用下，蛋白质失衡，从而发生骨骼肌功能障碍，肺功能及活动耐力下降。
+
+细胞因子与COPD营养不良的关系随着研究的深入，COPD的发病机制从肺组织局部炎症进人到全身炎症反应，IL-α,TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 等细胞因子表达异常对COPD的发病有重要影响，细胞因子不仅导致气道炎症，肺功能减损。近来研究发现在COPD患者存在全身炎症反应，已证明TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 导致营养不良，与COPD能量代谢异常有关。与它的慢性感染及慢性缺氧有关[2]。IL-α是一个多功能的促炎症细胞因子家族。体外注射重组IL- $1 \beta$ 可以导致健康动物厌食，体质量减轻和恶液质[]1L-1β均与BMI等主要营养参数呈负相关导致机体的系统性炎症反应[8]。本研究表明COPD患者TNF- $\mathfrak { a }$ 、IL-1β水平高于对照组，并且营养不良COPD患者和非营养不良COPD患者相比，增高更明显，这提示COPD全身炎症与功能性呼吸困难有关，并且可能与COPD低体质量有关。
+
+Ghrelin是由胃底部的嗜铬细胞产生的多肽,Ghre-lin是第一个被证实具有刺激摄食和维持能量正平衡作用的循环激素[3]。给予大鼠生长索释放肽后可导致其体质量增加，而Ghrelin受体拮抗剂则减少摄食并使其体质量降低。在多种疾病的恶液质状态下血浆Ghrelin水平升高[0-1]。我们的结果显示:营养不良COPD组血浆Ghrelin水平与非营养不良COPD组和对照组相比升高。总Ghrelin主要受身体测量指标BMl、TSF、MAC、ALB影响，两者呈负相关。这个结果更支持Hoh4的研究结果，在慢性衰竭合并营养不良状态下。血浆Ghre-lin水平升高。从而促进食欲维持能量正平衡。这可能是机体对于营养不良的一种生理代偿机制。本研究与Luo5的研究结果相反，这种差异可能由以下原因引起：一是本研究包括了吸烟者，而的研究排除了吸烟者，吸烟可以显著增加血浆Ghrelin的水平[12]。二是本研究将COPD患者分出营养不良和非营养不良组，Luo等研究的COPD患者没有进行细分。三是血浆Ghrelin有辛酰化与非辛酰化两种，非辛酰化认为是无功能受体，不具有促进GH分泌的作用。目前研究有生物活性作用的是辛酰化Ghrelin[13],辛酰化Ghrelin水平增高，血浆总Ghrelin随之增高。
+
+目前认为Ghrelin与炎症密切相关，Ghrelin除了作为一种内分泌激素，参与了COPD的营养调节，还可能作为一种抗炎介质参与COPD的全身反应。Ghrelin抑制内皮细胞释放炎症因子，并且抑制NF-KB的激活[14]。在动物模型中，Ghrelin能抑制CLP大鼠炎症因子释放，减轻肺水肿[15]。另有研究[16]发现IL-B处理后的小鼠血Ghrelin水平下降，外周使用Ghrelin可以阻断IL-B导致的厌食和体质量下降。本研究中发现Ghrelin和炎症因子TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 、IL-B呈正相关，但是没有统计学意义，提示COPD全身炎症反应增加可能受Ghrelin抑制，但关系不明确，有待进一步研究。
+
+本研究结果表明，COPD患者生长素释放肽水平升高；病情越重，营养状况越差，Ghrelin水平越高，炎症反应越严重。Ghrelin对COPD患者有着重要的病理生理作用。
+
+# 参考文献：
+
+[1］中华医学会呼吸病学分会慢性阻塞性肺疾病学组.慢性阻塞性肺疾病 诊疗指南[J].中华结核和呼吸杂志,2011,30(1):640-1.   
+[2]施劲东,邓星奇.高育瑶血清瘦素在慢性阻塞性肺疾病患者营养不良 发生中的意义[J].国外医学:呼吸系统分册,2013,25(增刊):3-10.   
+[3]Kojima M,Hosoda H,Date Y,et al.Ghrelin is agrowth-holi% lone releasing aeylated peptide from stomach[J].Nature,2Oo8,402(62): 656-60.   
+[4]Hoh T,Nagaya N,Yoshikawa M,et al .Elevated plasma ghrelinlever in ungenveiht patients with chronfo obstnctive pulmonarydisease [J].Am JRespir Crlt Cear Med,2012,170(8): 879-82.   
+[5]Luo FM,Liu XJ,Li SQ,et al. Circulating ghrelin in patients with chronic obstructive pulmonary disease[J].Nutrition,2Oo5,21(7/8): 793-8.   
+[6]Bames PJ.The cytokine network in COPD[J].Am JRespir Cell Mol Biol, 2009,19(6): 432-5.   
+[7]Gonzalez PV,Cragnolini AB,Schioth HB,et al. Interleukin-1 beta-induced anorexia is reversed by ghrelin[J].Peptides,2O06,27 (12): 3220-5.   
+[8]贺丽雅,杨爱民,刘 豹,等.IL-8、IL-1β、TNF-α水平在COPD发病中意 义的探讨[J].放射免疫学杂志,2007,20(5):392-4.   
+[9]Asakawa A,Inui A,Kaga T,et al. Antagonism of ghrelin receptor reduces food intake and body weight gain in mice[J].Gut, 2003,52 (7): 947-52.   
+[10] Nagaya N, Uematsu M, Kojima M, et al. Elevated circulating level ofghrelin in cachexia associated with chronic heart failure: relationships between ghrelin and anabolic/catabolic factors [J]. Circulation,2001,104(17): 2034-8.   
+[11]Fagerberg B,Hultén LM,Hulthe J.Plasma ghrelin,body fat, insulin resistance,and smoking in clinically healthy men:the atherosclerosis and insulin resistance study[J].Metabolism,2003, 52(11): 1460-3.   
+[12]Cassoni P,Ghé C,Marrocco T,et al. Expression of ghrelin and biological activity of specific receptors for ghrelin and des-acyl ghrelin in human prostate neoplasms and related cell lines[J].Eur J Endocrinol,2004,150(2):173-84.   
+[13]Rongqian WU,Wei FD .Ghrelin attenuates sepsis-induce acute lung injury and mortality in rats[J].AmJRespir Crit Care Med,1994, 176(8): 51-2.   
+[14] ShimizuY, nagayaN,isobe T,et al. Inereassed plasma ghrelinlevelinfang cancer cachexia[J]. Clin Cancer Res,2012(9): 774-8.   
+[15]Li WG,Ga D,Liu X. Ghrelin inhibits proinflammatory responses and nuclear factor-kappaB activation in human endothelial cells[J]. Circulation,2008,109(18): 2221-6.   
+[16]Asakawa A,Inui A,Kaga T,et al. Ghrelin is an appetite-stimulatory signal from stomach with structural resemblance to motilin[J]. Gastroenterology,2001,120(2): 337-45.

@@ -1,0 +1,84 @@
+# TARGET BRIGHTNESS TEMPERATURE SIMULATION AND ANALYSIS FORTHE GEOSTATIONARY INTERFEROMETRIC MICROWAVE SOUNDER(GIMS)
+
+Ying ZHANGl,, Hao LIUl, Ji WUl, Jieying $H E ^ { I }$ ,Cheng ZHANGl
+
+1Key Laboratory of Microwave Remote Sensing, Center for Space Science and Applied Research, Chinese Academy of Sciences 2University of Chinese Academy of Sciences
+
+# ABSTRACT
+
+Target brightness temperature maps can be used in geostationary interferometric microwave sounder (GIMS) system simulation. System simulation with accurate target brightnesstemperaturemapscanevaluatesystem performance in near real case and thus help adjust design parameters for the sensor before it is finally put into use.In thispaper， methodofsimulatingtarget brightness temperature using Weather Research and Forecasting Model and Radiative Transfer for TOVS(RTTOV) has been discussed. Target brightness temperature simulation results at oxygen absorption band and water-vapor absorption band havebeen presented. Somepreliminary analysesof simulated brightness temperature for GIMS’observation have also been given.
+
+Index Terms— GIMS, brightness temperature simulation,WRF,RTTOV
+
+Laboratory，NASA [1]; GAS proposed by the European Space Research and Technology Center，ESA [2];and GIMS proposed by the National Space Science Center, Chinese Academy of Sciences [3].
+
+Geostationaryinterferometricmicrowavesounder (GIMS） has been proposed for China's next generation geostationary meteorological satellite. It uses a rotating circular array [4] and is supposed to be working in the timesharing mode. Considering its application in continuously observation of the full-earth disk,a set of highly resolved continuous full-earth disk model of GIMS brightness temperature image is useful in evaluating its performance with different design parameters[5] and determining whether or not to add an algorithm to correct the error along with time-sharing mode.
+
+Fig1 shows the framework of GIMS system simulation, which is composed of target modeling,observation process simulation of the sensor,processing of the observed data, and brightness temperature retrieval from the processed observation data.In this paper, we'll focus on validation and analysis of target modeling.
+
+# 1.INTRODUCTION
+
+Compared with low earth orbit, sensorsworkingin geostationary earth orbit (GEO） have the advantage of continuously observing the full earth disk and thus have great potential in monitoring fast changing weather such as tropical cyclone,which is one of the most important natural disasters that cause severe damages in southeastern China every year.However, the high spatial resolution requirement poses a big challenge in remote sensing from GEO satellite. The technique of interferometric aperture synthesis helps solve the problem， which uses signals intercepted by multiple small antennas to yield the angular response characteristics of a much larger antenna,hence increases spatial resolution as well as relieves system complexity. Some GEO instruments with this idea have been proposed including GeoSTAR proposed by the Jet Propulsion
+
+# 2.METHODOLOGYANDVALIDATION
+
+In this work, the NCEP FNL (Final) Operational Global Analysis data on 1-degree by 1-degree grids prepared operationally every six hours [6] are used as the initial fields to drive Weather Research and Forecasting Model, which is a state-of-the-art atmospheric modeling system capable of meteorological research and numerical weather prediction [7]， to generate predictions of atmospheric profile of temperature,water vapor, surface temperature,pressure and so on at specified time series and spatial resolution.Then the output of WRF is used to drive Radiative Transfer for TOVS [8] to model the brightness temperature map observed by GIMS at oxygen absorption band and water vapor absorption band.
+
+![](images/439e35374b2bb0af03685496c43ad63f67fbc02d4cedb60fd01ff25138170073.jpg)  
+Fig1.Framework ofGIMS system simulation
+
+![](images/dfeb150e30460849d7f41417ad6a672a9a62ca915e01f81b3d54f7b8929c9be9.jpg)  
+Fig 2.Comparison between predicted and observational brightness temperature ofFY3B (a) predicted brightness temperature of channell in FY3B-MWTS(b) observational brightness temperature of channel1 in FY3B-MWTS(c) predicted brightness temperature of channel 3 in FY3BMWHS(d) observational brightness temperature of channel 3 inFY3B-MWHS
+
+In this study， six-hour separated FNL data from October $1 ^ { \mathrm { s t } }$ ，2013 to October $7 ^ { \mathrm { t h } }$ ，2013 are chosen as the initial fields to investigate typhoon Fitow,which is the $2 1 ^ { \mathrm { s t } }$ named storm of the 2O13 Pacific typhoon season.In order to validate the target model method mentioned above， the predicted brightness temperature maps are compared with
+
+FY3B observational brightness temperature maps which overlap the predicted area for seven times during the period of research [9].
+
+Comparison between the predicted and observational brightness temperature maps of channel 1 (50.3GHz） in FY3B-MWTS and channel3(183.31GHz) inFY3B-MWHS is shown in fig2.The root mean square error between predicted and observational brightness temperature maps for all overlapping areas and all channels in FY3B-MWTS and FY3B-MWHS are presented in Table 1. From fig 2,we can find that the position and structure of predicted tropical cyclones are consistent with the observational ones although the detailed brightness temperature differs somewhat due to coarse initialization and chaos in FNL data.Table 1 shows that brightness temperature of oxygen absorption band can be better predicted using the FNL/WRF/RTTOV method than that of water-vapor absorption band. This is partly because high frequency wave is more sensitive to scattering of hydrometeors.To sum up,results above shows that the prediction method is reasonable in target modeling to simulate brightness temperature observed by the satellite sensors.
+
+Table 1.RMS error between predicted and observational brightness temperature maps for all overlappingareasandall channelsinFY3B-MWTSand FY3B-MWHS (K)   
+
+<html><body><table><tr><td></td><td>Freque ncy (GHz)</td><td>Areal</td><td>Area2</td><td>Area3</td><td>Area4</td><td>Area5</td><td>Area6</td><td>Area7</td></tr><tr><td rowspan="4">FY3B MWTS</td><td>50.3</td><td>4.4553</td><td>6.9883</td><td>5.3182</td><td>6.135</td><td>6.1713</td><td>4.9054</td><td>4.5951</td></tr><tr><td>53.596</td><td>1.2122</td><td>1.5016</td><td>1.6793</td><td>1.8324</td><td>1.4447</td><td>1.3745</td><td>1.2637</td></tr><tr><td>54.94</td><td>2.517</td><td>2.6692</td><td>2.2913</td><td>2.8835</td><td>2.4155</td><td>2.2566</td><td>2.595</td></tr><tr><td>57.29</td><td>9.7047</td><td>10.163</td><td>8.5517</td><td>8.7922</td><td>9.0821</td><td>8.5633</td><td>11.3194</td></tr><tr><td rowspan="5">FY3B MWHS</td><td>150(H)</td><td>23.371</td><td>30.444</td><td>25.492</td><td>36.057</td><td>26.314</td><td>28.635</td><td>20.105</td></tr><tr><td>150(V)</td><td>22.802</td><td>29.829</td><td>25.378</td><td>34.757</td><td>26.360</td><td>27.689</td><td>19.739</td></tr><tr><td>183.31 ±7.0</td><td>5.650</td><td>11.625</td><td>10.244</td><td>9.179</td><td>5.855</td><td>6.725</td><td>5.731</td></tr><tr><td>183.31 ±3.0</td><td>11.070</td><td>19.020</td><td>16.719</td><td>18.513</td><td>10.908</td><td>11.053</td><td>8.350</td></tr><tr><td>183.31 ±1.0</td><td>18.094</td><td>26.769</td><td>23.462</td><td>30.018</td><td>20.135</td><td>19.120</td><td>14.211</td></tr></table></body></html>
+
+# 3.TARGETMODELINGINGEOOBSERVATION
+
+When applied to target modeling in GEO observation, the FNL/WRF/RTTOV method can be used to get brightness temperature maps observed from GEO orbit.Fig 3 shows the full-earth disk brightness temperature map of $5 2 . 8 \mathrm { G H z }$ obtained by the FNL/WRF/RTTOV method in GEO application.Because of time sharing working mode, system performance of GIMS can be assessed from a set of continuous full-earth disk brightness temperature maps like this.
+
+![](images/c5e9656714669394d1d6412d5a3d0fc828285c5133fe50a6954a89eb66206b4b.jpg)  
+Fig3.Target modeling of full-earth disk brightness temperature in $5 2 . 8 \mathrm { G H z }$
+
+![](images/8ae96dbcefe14180c24d5c8869d2e68be09ef1dd82949933c24f7e0a9f97e048.jpg)  
+Fig 4.RMS value of error between brightness temperature maps of different time v.s.time interval (53.596GHz)
+
+Brightness temperature of tropical cyclone areas are modeled using this method as well. Fig 4 shows the statistical result of samples of a series of tropical cyclone region brightness temperature maps which corresponds to time seriesofhalf-hour intervalin 53.596GHz.Calculate the root mean square value of the error between any two of the samples.The vertical axis stands for average ofRMS values with the same time interval and the horizontal axis stands for the corresponding time interval or temporal resolution. Fig 4 demonstrates the relationship during the four stages in tropical cyclone formation. It shows that the higher the tropical cyclone's intensity， the more violent the RMS value's change in the same temporal resolution. But the average brightness temperature change in half an hour is quite small, which indicates that the actual brightness temperature changes of full-earth disk will have had little effect on imaging quality of GIMS’ time sharing working mode since the 5-minute imaging period of GIMS is much smaller.
+
+Fig 5 demonstrates brightness temperature maps of the same tropical cyclone with different spatial resolutions in $5 0 . 3 \mathrm { G H z }$ and183.31GHz.It shows that the helical structure of tropical cyclone can be figured out at all the three displayed spatial resolutions.But the higher the spatial resolution, the more detailed information of tropical cyclone eye and eyewall can be obtained.In the $2 0 \mathrm { k m }$ resolution images，cyclone can be clearly figured out. The $5 0 \mathrm { k m }$ resolution images can present cyclone information with little loss, although there's blur in it. However，the $8 0 \mathrm { k m }$ resolution images are highly blurred and cause serious cyclone information loss that cannot be accepted. These results indicate that $5 0 \mathrm { k m }$ resolution of GIMS isa reasonable and accepted specification after compromising between informationintegrity of mesoscaleweather characteristic and system complexity.
+
+![](images/d2e66cc66cf56e5f5f66108396c1049b20158cef13682b939b724aea0707382c.jpg)  
+Fig 5.Brightness temperature of the same tropical cyclone with different spatial resolution (a) $5 0 . 3 \mathrm { G H z }$ $2 0 \mathrm { k m }$ (b) 50.3GHz, $5 0 \mathrm { k m }$ (c) 50.3GHz, $8 0 \mathrm { k m }$ (d) 183.31GHz, $2 0 \mathrm { k m }$ (e) 183.31GHz, $5 0 \mathrm { k m }$ (f) 183.31GHz, $8 0 \mathrm { k m }$ （204号
+
+# 4.CONCLUSION
+
+Method of target brightness temperature modeling has been described.Results of brightness temperature simulation for GEOobservationhavealsobeengiven.Results preliminarily prove the feasibility and accuracy of GIMS time-sharing working mode and affirm the spatial resolution specification of GIMS.More work in system simulation based on target brightness temperature modeling results are expected in future.
+
+# ACKNOWLEDGEMENT
+
+The work is supported by the National High Technology Research and Development Program (863 program),and the Special Fund for Meteorological Research in the Public Interest.
+
+# REFERENCES
+
+[1] A. B. Tanner et al., “nitial results of the geostationary syntheticthinnedarrayradiometer(GeoSTAR) demonstrator instrument,’IEEE Trans.Geosci. Remote Sens., vol. 45,no.7, pp. 1947-1957, Jul. 2007.   
+[2] J. Christensen et al.，“GAS: Thegeostationary   
+atmospheric sounder,” in Proc.IGARSS,Barcelona, Spain,   
+Jul. 23-27,2007,pp.223-226.   
+[3]H. Liu et al.，“The geostationary interferometric   
+microwavesounder(GIMS):Instrument overviewand   
+recent progress,” in Proc.IGARSS,Vancouver,BC, Canada,   
+Jul.24-29, 2011, pp.3629-3632. [4] C. Zhang,H.Liu, J. Wu, S.W. Zhang, J.Y. Yan, L.J. Niu. W.Y. Sun，and H.L.Li,“Geostationary Interferometric Microwave SounderDemonstrator",IEEE Trans.GRS,vol. 53,issue 1, pp. 207-218.   
+[5]B.H.Lim,C.S.Ruf,“A High-Resolution Full-Earth Disk Model for Evaluating Synthetic Aperture Passive Microwave Observations From GEO,”IEEETrans.Geosci. Remote Sens., vol. 47, no. 11, pp.3731-3741.   
+[6]University Corporation for Atmospheric Research, http://rda.ucar.edu/datasets/ds083.2/,2015.   
+[7] WRF Model User's Page,   
+http://www2.mmm.ucar.edu/wrf/users/,2014-12.   
+[8] J.Hocking,P.Rayer, D.Rundle,et al. RTTOV v11 users guide,   
+http://nwpsaf.eu/deliverables/rtm/docs_rttov11/users_guide _11_vl.3.pdf,2014-11.   
+[9] C.Surussavadee,D.H. Staelin,“Comparison of AMSU millimeter-wavesatelliteobservations, MM5/TBSCAT predicted radiances, and electromagneticmodelsfor hydrometeors",IEEE Trans.Geosci.Remote Sens.,vol.44, no. 10,pp.2667-2678, Oct.2006.

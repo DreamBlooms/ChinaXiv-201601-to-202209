@@ -1,0 +1,467 @@
+[
+    {
+        "type": "text",
+        "text": "合肥光源储存环逐束团3维位置测量系统介绍及初步研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "卢平，唐雷雷，孙葆根，吴芳芳，吴睿喆，王季刚，周泽然（中国科学技术大学国家同步辐射实验室，合肥230029)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要合肥光源储存环束流位置检测器BPM的4路电极信号直接接入国产12bit分辨率、10Gsps采样率、2GHz带宽的示波器，采集程序运行在Zstack架构下的云主机上，每次触发读取 $5 0 0 \\mu \\mathrm { s }$ 的一组波形，提取出45个束团 2266 圈束团质心的X（水平位置）、Y（垂直位置）、Z（纵向相位）信息，逐束团的X、Y的分辨率约为 ${ 5 } \\mu \\mathrm { m }$ ，Z的分辨率约为 $0 . 5 \\mathrm { p s }$ ，在线运行更新周期7秒左右。得到的逐束团3维位置信息做频谱分析可得到运行常态时每个束团的3维工作点，对纽扣和条带电极信号的分析可得到激励时横向尺寸四极振荡的谱峰。关键词：合肥光源；逐束团；3 维参数；四极振荡；BBQ；EPICS；Zstack；caLab；LabView",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "一、系统概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "观测储存环中束流的逐束团3维运动情况是非常有意义的事[I[2],现在仪器技术的发展，特别是国产仪器的各项指标达到了甚至好于各光源在线常用的国际巨头的仪器性能指标，并且稳定性也达到了常年在线运行的要求，使得基于国产示波器测量逐束团3维运动信息成为可能，本论文工作使用鼎阳公司的型号为 $\\mathrm { S D S 6 2 0 4 } \\mathrm { H } 1 2 \\mathrm { P r o } ^ { [ 3 ] }$ 的示波器，在Zstack[4]虚拟架构的Win10云主机上使用LabView开发环境编写采集和处理程序，程序中通过caLab把EPICS的PV变量写入到Centos系统的IOC，之后通过OPI获取结果并展示。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "表1给出了合肥光源储存环参数表[5]。图1是合肥光源储存环束测件的布局图，本系统测量的是7号位置处的条带纽扣组合BPM，图2是逐束团3维位置测量系统框图。",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/c93b27ec43b6e7866f4cf3183ff45eb021aba1c21e9c30af49b4a6204ce93650.jpg",
+        "table_caption": [
+            "表1 合肥光源储存环参数表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>束流能量GeV</td><td>0.8</td></tr><tr><td>高频频率[MHz]</td><td>204.030MHz</td></tr><tr><td>谐波数</td><td>45</td></tr><tr><td>辐射能量损失[keV]</td><td>16.73</td></tr><tr><td>自然束流发射度［nm·rad]</td><td><40</td></tr><tr><td>注入流强[mA]</td><td>400mA</td></tr><tr><td>自然能散(rms)</td><td>0.00047</td></tr><tr><td>束流寿命[hours]</td><td>>5hours</td></tr><tr><td>自然束团长度 (mm)</td><td>14.8（约50 ps）</td></tr></table></body></html>",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/e02311133df6b86e86e9e89696026eb897463ee37b81c094d9b76c60e71d86ab.jpg",
+        "img_caption": [
+            "图1合肥光源储存环束测件的布局图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/311136d9f2fbbe4e6539d9a517c746d7d90f0c285a53f61277c1a196f42cd99a.jpg",
+        "img_caption": [
+            "图2逐束团3维位置测量系统框图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了方便对比，使用两台鼎阳该款示波器，一台接条带 BPM，一台接纽扣BPM，通过一个分频器，把时序系统1Hz的触发信号分频成 $0 . 1 \\mathrm { H z }$ 作为示波器的触发，图3是系统实物图。图4中有3组BPM，左边两组在同一段真空室上，左边那组是条带 BPM，右边那组为纽扣BPM，分别接入两个示波器；最右边四极铁旁的那组纽扣BPM是COD系统中的IVU1，接入Libera $\\mathrm { B } +$ 处理器[6]。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e40a1aadb7db8c363e771fd11af21ba275c7ee81c1132d4b8da1c8e0b5fc24a8.jpg",
+        "img_caption": [
+            "图3 系统实物图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d22ac4d63444f7e2993a37daa9d34364445a997b785705cf966eb10b65a2d166.jpg",
+        "img_caption": [
+            "图4 3组BPM"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "每次触发，采集程序获取 $5 0 0 \\mu \\mathrm { s }$ 长，每个通道5M个数据点的四组波形，去掉头尾非整圈的波形点，共包含2266整圈的逐束团信息，通过过零点插值法提取出逐束团的时间信息、通过每个束团极值处及左右各一点共3点找抛物线极值点[7或简单积分、平方和积分后开方等方法（程序中还有各方法融合功能，可选择和融合或者积融合）提取幅度信息，之后通过差比和换算出逐束团水平和垂直位置(X、Y)，此外利用DCCT的流强数据标定换算出逐束团的流强。除了发布逐束团的信息，程序中还拆分得到每个束团的逐圈信息，并做频谱分析后通过PV发布，可得到每个束团的横向和纵向工作点信息。程序中还可选择是否重采样、陷波滤波等预处理功能，并包含了SVD分解选择各成分的功能。程序处理一组波形并发布的周期为7秒，主要瓶颈在读取波形，4组5M个点的波形共40MB 的数据，要花7秒才能从示波器全部读到云主机里，平均速度 ${ 5 . 7 } \\mathrm { M B / s }$ ，为了两台示波器获取同一段时间的波形分析结果并对比，通过一个分频器触发，触发周期为10秒。程序界面如图5所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "HLSRing 3DParameter Monitor □ X  \nFileEdit View Project Operate ToolsWindow Help包= ？  \n运行状态示波器SVD重采样滤波XYGraph 401.403mA 3E+4- 2E+4-1.1- 10-1E+4- -1E+4-12- 0- 0 幅值2 20--1E+4- --1E+4-1.4- -2E+4- -2E+4 30-  \n116 -3E+4-0 450 500 550 600 6507007303长度 40-17 头 面头 x6 2E+2 =A1E-10+D SAX 407 W-1.9- B 2 6:29:13.900 MAX M -1:07-2- 4 □ C M 2021/7/25 MAY W21012 1 0 2 4 5 6 S A 单中/S490124 D N Y M -1.67A RoH 10m050 拍取数 MAX/m9 尾 BCD K 205 E TY RRK 1518MA &T 2000Hz 4.53MH51108 7.07 47.62 5.28 组数2 SA点数999 加权？ 3E+4- 1E+4 -1:99 HmM植 0- 幅值2  \nCAPO Bs Resample?interpolationmode linear sample flg -2E+4- -E44 8.88Bunch Points period/s days  \nTime6000 0 9.93 4.9 200 250 300 350 400 450 500530  \n长度 2 时间 085M 融台 B&B Histogram Graph count 5,//4-, 1.274  \n模式分 001000 2079 4- 3 0.008  \n定长积分 -2.49995 0 56.6983 -1.6 0.025  \n定长平方和开方 2  \n峰值 2083- X 1 -1.7 8:00205  \n峰值面积 1.8 0.005  \n峰值积分 -2.161-2 -1.5 -1.0987 -0984 250.0500.0750.01000.01250.01500.01750.02000.0265.1 0.000472086 412004140041600 419intervals200 Y 国数 IT&T STD/mean 0.006597 Time  \n填充模式行数5 列数 000000000  \n< 》",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "二、测量结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "得到一组波形的逐束团X、Y、Z的信息后，可以把2266圈的45个束团的3维位置通过3视图展示出来，或者要看某个逐束团信息的话，可以把束团编号和圈数做为二维图的坐标，通过不同颜色展示该信息（波纹图）。图6给出了波纹图可以很直观的看到纵向振荡的情况。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fd7347b219e18b3607bd9df812d0ae00a2be1ad08d2be0b60a40a2f88e393d79.jpg",
+        "img_caption": [
+            "图5 程序界面",
+            "图6 波纹图显示的纵向振荡的情况"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图6左边是逐束团流强的二维图，下面的曲线是每个束团2266 圈的平均流强；中间的曲线是45个束团的流强求和后的逐圈流强曲线；右边的是纵向时间的二维图。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图7给出了注入时条带和纽扣X、Y、I的波纹图，下面的曲线是频谱，可看到工作点的谱峰。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e0d8c409133980ce3976d9384abc8c3eb7e7a707dbecea244b86b7f4841ea48d.jpg",
+        "img_caption": [
+            "图7注入时条带和纽扣X、Y、I的波纹图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从三视图可以很直观的看到每个束团的运动情况，图8为正常运行状态，图9为注入状态，三视图左边那组为条带 BPM，右边为纽扣BPM，不同颜色代表不同的束团，其中最上面的红色点群为45个束团3维位置平均后的逐圈坐标在三视图中的分布。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cc1277d506d8a3326b30e24de8791facb3ceedc8e1102f417849a8ebcf314bad.jpg",
+        "img_caption": [
+            "图8正常运行状态下的三视图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/dc72553097217e27b215524c3b52a88a3aec7b29ee411503bbd9488d8840d751.jpg",
+        "img_caption": [
+            "图9注入状态下的三视图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "三、误差分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过观察3视图发现束团因为纵向振荡耦合到X方向而使俯视图有明显的画圈的现象，正视图有时也会发现有这样的现象，画圈的低频部分去除后通过计算标准差STD可以分析测量误差，图10的3幅图是取某个束团的测量值减去画圈的低频部分的分布图，得到的X，Y，Z的 STD值，分别约为 $3 . 8 \\mu \\mathrm { m }$ 、 $4 . 2 \\mu \\mathrm { m }$ 、 $0 . 4 \\mathrm { p s }$ ，各个束团以及不同组波形的数据相差不大，向上取到整分别为 ${ 5 \\mu \\mathrm { m } }$ 、 ${ 5 \\mu \\mathrm { m } }$ 、0.5ps。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e4fc2420421b9209026ed1fd5f4837cb5f4c752c51d8e8bd40368c7b2e2711d0.jpg",
+        "img_caption": [
+            "图10 逐束团3维位置的测量值减去画圈的低频部分的分布图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "一组波形（ $5 0 0 \\mu \\mathrm { s }$ ）逐束团的X、Y可以逐次平均得到逐圈、FA（快速获取 $4 4 \\mathrm { k H z }$ ）、MA（中速获取 $2 \\mathrm { k H z }$ ）的数据，由于两台示波器为了对比，处理周期为10s，如果每 $5 0 0 \\mu \\mathrm { s }$ 波形平均得到一个X、Y的话，等效为一个2KHz的信号（相当于MA）10秒抽取一个点，为了和Libera $\\mathrm { B } +$ 测量的SA（ $1 0 \\mathrm { H z }$ ）结果对比，需要把从2KHz信号抽取的200个点做平均再对比。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图11是程序在线工作时获取某组波形计算经过逐次平均得到的标准差 STD结果，图12为Libera $\\mathrm { B } +$ 测量COD系统在线状态显示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0c23ba16599aecffb761799f098e607319a007127dee3ea71f2db8c800b189e.jpg",
+        "img_caption": [
+            "图11逐次平均得到的STD结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "SR BPMOPI □   \n395.0 mA HLSIIStorageRingBPMManager 8.37 Hour   \nX [mm] Y [mm] stdX[um] stdY[um] DSC AGC Att X [mm] Y [mm] stdX[um] stdY[um] DSC AGC Att   \nSR-BD-BPM01 0.576 -0.609 0.624 0.312 31 SR-BD-BPM17 0.221 0.490 0.408 0.254 31   \nSR-BD-BPM02 -1.437 0.801 0.729 0.485 31 SR-BD-BPM18 1.242 0.091 0.555 0.380 31   \nSR-BD-BPM03 0.871 -1.687 0.473 0.576 31 SR-BD-BPM19 -0.240 0.311 0.611 31   \nSR-BD-BPM04 0.315 -2.018 0.415 0.787 31 SR-BD-BPM20 -0.07 0.454 0.1 0.410 31   \nSR-BD-BPM05 1.282 0.147 0.643 0.262 31 SR-BD-BPM21 -0.031 0.237 0.206 31   \nSR-BD-BPM06 0.530 -0.010 0.479 0.486 ON 31 SR-BD-BPM22 -0.050 0.578 0.202 31   \nSR-BD-BPM07 -0.724 -0.229 0.204 0.576 SR-BD-BPM23 0.182 0.453 0.333   \nSR-BD-BPM08 0.062 0.449 0.348 0.255 31 SR-BD-BPM24 -0.463 0.458 0.373 0.298   \nSR-BD-BPM09 -0.148 0.302 0.593 0.549 SR-BD-BPM25 0.051 0.056 0.184 0.343   \nSR-BD-BPM10 0.316 0.687 0.435 1.687 31 SR-BD-BPM26 0.051 0.236   \nSR-BD-BPM11 0.269 -0.319 0.328 0.213 SR-BD-BPM27 0.121 0.307   \nSR-BD-BPM12 .139 -0.396 0.769 0.278 31 SR-BD-BPM28 0.072 0.816 0.615   \nSR-BD-BPM13 0.627 0.277 0.556 0.279 31 SR-BD-BPM29 0.115 0.565 0.199 ON 31   \nSR-BD-BPM14 0.573 0.111 0.253 0.194 31 SR-BD-BPM30 -0.074 0.515 0.276 31   \nSR-BD-BPM15 0.442 0.419 0.263 0.213 31 SR-BD-BPM31 0.135 0.581 0.473 0.35 81   \nSR-BD-BPM16 0.015 -0.299 0.398 0.140 31 SR-BD-BPM32 -0.337 0.458 0.328 0.716   \nSR-BD-DBPM EXIT ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Libera $\\mathrm { B } +$ 测量的COD系统的32个BPM的X、Y的 SA数据的 STD 都在 $1 \\mu \\mathrm { m }$ 以内，示波器滚动平均得到的SA的 STD 和其相当，一组波形的逐圈、FA数据好于MA和SA，主要因为逐圈和FA的 STD 是在一组波形 $5 0 0 \\mu \\mathrm { s }$ 内的数据统计，而MA和 SA 是不同组波形的数据更长时间的统计。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图13给出了示波器的SA和Libera $\\mathsf { B } +$ 的SA连续2.5天监测对比。图13(a)为水平方向X，绿色曲线是Libera $\\mathbf { B } +$ 测的IVU1，蓝色和橙色分别是纽扣和条带，红色是DCCT；图13(b)为垂直方向Y，蓝色曲线是Libera $\\mathbf { B } +$ 测的IVU1，橙色和绿色分别是纽扣和条带，红色是DCCT。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从长期对比结果看，Libera $\\mathrm { B } +$ 一直稳定在 $3 , 4 \\mu \\mathrm { m }$ 范围内，如果忽略流强变化大的地方，示波器的X在 $2 0 \\mu \\mathrm { m }$ 、Y在 $1 0 \\mu \\mathrm { m }$ 范围内漂动，这应该和示波器温控的措施，以及长期工作没有交联开关等消除通道不一致性的手段有关，由此还产生结果的流强依赖性（特别是X要严重些）。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d68c8461e9b6268f7f866a7bb54236590283081ef903d06d676cb64f266aa137.jpg",
+        "img_caption": [
+            "图12Libera $\\mathrm { B } +$ 测量COD系统在线状态",
+            "(a) 水平方向X"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/490294de4c10aaf55587faf776e68a9ec0d4a387b2c44a670efe8890d63dbf0c.jpg",
+        "img_caption": [
+            "图13 示波器的SA和Libera $\\mathrm { B } +$ 的SA连续2.5天监测对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图14给出了COD 闭轨反馈系统关闭，任由轨道漂动的情况下，示波器的MA和Libera$\\mathsf { B } +$ 的 SA连续24小时监测对比，红色曲线是Libera $\\mathrm { B } +$ 测的IVU1，橙色和绿色分别是纽扣和条带，蓝色是DCCT。图14(a)为水平方向X，图14(b)为垂直方向Y。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/6dfac5e0ad3ce043b6c46b8c6ebd43185531dea93da2944df9330a25ce695abf.jpg",
+        "img_caption": [
+            "(b) 垂直方向Y ",
+            "图14不加闭轨反馈情况下，示波器的MA和Libera $\\mathrm { B } +$ 的SA连续24小时监测对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "四、初步分析结果",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1．工作点",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图15 为无束流时X、Y的频谱。由图15可见，无束流时X、Y的频谱曲线在约350KHz及其多倍频处有峰，这些是噪声在幅度提取计算X、Y时产生的，查看有束流时的谱线可以忽略这些地方的谱峰。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "YPN 100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300 KHz 组扣X频谢[mm] 出扣Y频增[mm] 带组谱[ 杀带Y聚谱[mm] 工作点系统频[DBM] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图16 为运行常态时的频谱。观察图16 的频谱，上面的 Tum By Tur 的频谱图是 45个束团各自的频谱之后求和后的曲线，合肥光源的回旋频率为 $f _ { 0 } { = } 4 . 5 3 4 \\mathrm { M H z }$ ，所以频谱能看到的范围为 $0 { \\sim } f _ { 0 } / 2 { = } 2 . 2 6 7 \\mathrm { M H z }$ ；下面的 Bunch By Bunch 是逐束团X、Y 的频谱，能看到的范围为 $0 { \\sim } 4 5 { \\times } f _ { 0 } / 2 { = } 1 0 2 \\mathrm { M H z }$ 。从图16 可以看到工作点位置的谱峰。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/9fc307008522931330819bd4fe8696a49c58401ce3670516f09c83ab7973310d.jpg",
+        "img_caption": [
+            "图15无束流时I、X、Y的二维图和频谱",
+            "图16 运行常态时的频谱 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从频谱曲线上看，信噪比和分辨率普遍好于BBQ系统的谱线，除了和BBQ谱线对应的工作点处的谱峰外，其他地方的谱峰都正好是图15显示的那些噪声峰位。通过逐束团数据，可以分析出每个束团的工作点。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图17分别为45个束团X、Y、Z的工作点频率直方图，水平工作点，平均的频率2.0094MHz，对应小数部分为0.4432；垂直工作点，平均的频率 $1 . 6 7 3 2 \\mathrm { M H z }$ ，对应小数部分为0.3690；纵向工作点，平均的频率为 $1 4 . 4 4 \\mathrm { k H z }$ ，对应工作点为0.0032。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e0f991b5693b30e3b48fe6e8025ecafacd10c0f6d8655fde378dd06371026d41.jpg",
+        "img_caption": [
+            "图1745个束团X、Y、 $Z$ 的工作点频率直方图"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2．四极振荡[8]",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.1束流横向四极振荡和二极振荡的关系",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "储存环中束流横向二极振荡是束流中粒子集体Beta 振荡的表现，振荡频率即为工作点对应的频率，表示为 $\\left( n \\pm \\Delta \\nu _ { { } _ { x , y } } \\right) f _ { 0 }$ ，其中 $n$ 为整数， $\\Delta \\nu _ { _ { x , y } }$ 分别为水平和垂直工作点的小数部分， $f _ { 0 }$ 为回旋频率。束流横向Beta 振荡是储存环横向聚焦Lattice 结构的反映，而横向四极振荡反映的是束流本身的特性。为了描述横向四极振荡与二极振荡之间的关系，将粒子的类正弦振荡简化为正弦振荡，如图18所示，考虑单束团中水平方向开始时相距最远的两个粒子的运动。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/46a31732563ee57fa77e6e4111d98c79b804e41f5b226345dc300849e4d1dfd2.jpg",
+        "img_caption": [
+            "图18 束流横向四极振荡和二极振荡的关系示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "束团横向四极振荡对应的是束团横向尺寸的振荡，如上图所示，当束团水平方向尺寸振荡了一个周期时，该束团中水平方向开始时相距最远的两个粒子都只运动了半个Beta 振荡周期。粒子Beta 振荡频率可以表示为 $\\left( n \\pm \\Delta \\nu _ { { } _ { x , y } } \\right) f _ { 0 }$ ，因此可以得到横向四极振荡频率为$\\left( n \\pm 2 \\Delta \\nu _ { _ { x , y } } \\right) f _ { _ { 0 } } \\mathrm { ~ c ~ }$ （20",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.2基于条带BPM提取横向四极信号",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "合肥光源储存环上安装了3个条带纽扣组合BPM，其中的条带BPM横截面示意图如图19 所示。可以看到4个电极是轴对称的。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ab09269cf1524e4ce6c05124c5df40d61997004bc95a5c2d84b2a6c39dcd564.jpg",
+        "img_caption": [
+            "图19条带BPM横截面示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\{ { { V _ { R } } = 1 + { Z _ { 1 x } } + { Z _ { 2 } } + { Z _ { 3 x } } + { Z _ { 4 } } + \\cdots , }  } \\\\ & {  { \\begin{array} { r l } { { V _ { L } = 1 - { Z _ { 1 x } } + { Z _ { 2 } } - { Z _ { 3 x } } + { Z _ { 4 } } \\cdots , } } \\\\ { { V _ { T } = 1 + { Z _ { 1 y } } - { Z _ { 2 } } - { Z _ { 3 y } } + { Z _ { 4 } } + \\cdots , } } \\end{array} } } \\\\ & {  { \\begin{array} { r l } { { V _ { L } } = 1 + { Z _ { 1 y } } - { Z _ { 2 } } - { Z _ { 3 y } } + { Z _ { 4 } } + \\cdots , } } \\\\ { { V _ { B } = 1 - { Z _ { 1 y } } - { Z _ { 2 } } + { Z _ { 3 y } } + { Z _ { 4 } } \\cdots . } } \\end{array} }   \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { [ Z _ { \\mathrm { k } } = 2 \\frac { \\sin ( 6 / 2 ) } { \\sin \\beta / 2 } \\frac { x _ { 0 } } { b } Z _ { \\mathrm { t } } = 2 \\frac { \\sin ( \\phi / 2 ) } { \\phi ^ { \\prime } / 2 } \\frac { y _ { 0 } } { b } , } \\\\ & { [ Z _ { 2 } = 2 \\frac { \\sin \\phi } { \\phi } \\frac { \\sigma _ { x } ^ { 2 } - \\sigma _ { y } ^ { 2 } + x _ { 0 } ^ { 2 } - y _ { 0 } ^ { 2 } } { b ^ { 2 } } ,  } \\\\ & {  \\mathcal { Z } _ { \\mathrm { x } } = 2 \\frac { \\sin ( 3 \\phi / 2 ) } { 3 \\phi / 2 } \\frac { 3 \\sigma _ { x } ^ { 2 } - 3 \\sigma _ { y } ^ { 2 } + x _ { 0 } ^ { 2 } - 3 y _ { 0 } ^ { 2 } } { b ^ { 2 } } \\frac { x _ { 0 } } { b } ,  } \\\\ & {  \\mathcal { Z } _ { \\mathrm { x } } = 2 \\frac { \\sin ( 3 \\phi / 2 ) } { 3 \\phi / 2 } \\frac { 3 \\sigma _ { x } ^ { 2 } - 3 \\sigma _ { y } ^ { 2 } + 3 x _ { 0 } ^ { 2 } - y _ { 0 } ^ { 2 } } { b } \\frac { y _ { 0 } } { b } ,  } \\\\ & {  \\mathcal { Z } _ { \\mathrm { z } } = \\frac { \\sin ( 2 \\phi ) } { \\phi } \\frac { 3 ( \\sigma _ { x } ^ { 2 } - \\sigma _ { y } ^ { 2 } + x _ { 0 } ^ { 2 } - y _ { 0 } ^ { 2 } ) ^ { 2 } - 2 ( x _ { 0 } ^ { 4 } + y _ { 0 } ^ { 4 } ) } { b ^ { 4 } } .  } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "其中 $V _ { R } , V _ { L } , V _ { T } , V _ { B }$ 分别是条带BPM的右电极、左电极、上电极和下电极的感应电压信号，当BPM的四个电极正交对称时，满足上面公式1、2。束流的横向四极信号可以通过如下公式（差比和法）计算得到：",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { \\Delta / \\Sigma } = \\frac { V _ { R } + V _ { L } - V _ { T } - V _ { B } } { V _ { R } + V _ { L } + V _ { T } + V _ { B } } = Z _ { 2 } + O \\left( \\frac { 1 } { b ^ { 6 } } \\right) = 2 \\frac { \\sin \\phi } { \\phi } ( \\frac { \\sigma _ { x } ^ { 2 } - \\sigma _ { y } ^ { 2 } } { b ^ { 2 } } + \\frac { { x _ { 0 } } ^ { 2 } - { y _ { 0 } } ^ { 2 } } { b ^ { 2 } } ) + O \\left( \\frac { 1 } { b ^ { 6 } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$\\boldsymbol { \\mathcal { Q } } _ { \\Delta / \\Sigma }$ 为计算得到的束流横向四极信号，即对角电极信号求和后差比和，从公式1、2中可看出对角电极求和后差比和时，只有 $Z _ { 2 }$ 会被放大，其他项都会被抵消。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "对于非正交对称的情况，也可以通过上述对角电极信号求和后差比和来计算四极信号，只是由于两个方向电极等效的张角 $\\phi$ 和到中心的 $b$ 不同而使除 $Z _ { 2 }$ 项外不能被正好完全抵消，束流的横向四极信号与束流位置 $( x _ { 0 } , y _ { 0 } )$ 以及横向尺寸 $( \\sigma _ { x } , \\sigma _ { y } )$ 的关系可以表示为",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { \\Delta / \\Sigma } = Q _ { 0 } + S _ { \\mathcal { Q } } ( x _ { 0 } ^ { 2 } - y _ { 0 } ^ { 2 } + \\sigma _ { x } ^ { 2 } - \\sigma _ { y } ^ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "其中 $Q _ { 0 }$ 是由于条带BPM的4个电极之间不是正交对称（只是轴对称，水平电极间距与垂直电极间距不一样）产生的一个直流信号。 $S _ { \\mathcal { Q } }$ 是基于条带BPM计算横向四极信号的灵敏度大小， $( \\mathrm { x } _ { 0 } , \\mathrm { y } _ { 0 } )$ 为束流横向位置， $( \\sigma _ { \\mathrm { x } } , \\sigma _ { \\mathrm { y } } )$ 为束流横向位尺寸大小。对于正交对称转 45 度的斜45 度对称的BPM，也可以这样计算四极信号，只是公式中的 $( x _ { 0 } , y _ { 0 } )$ 和 $( \\sigma _ { x } , \\sigma _ { y } )$ 应该是相对于旋转45度后的坐标系的坐标和尺寸，如果束团有很强的横向四极振荡， $Q _ { \\Delta / \\Sigma }$ 的频谱也会在$\\left( n \\pm 2 \\Delta \\nu _ { { } _ { x , y } } \\right) f _ { 0 }$ 这些频点附近看到谱峰，在 $f _ { 0 }$ 范围内，对应合肥光源的工作点，在 $5 1 5 \\mathrm { k H z }$ （ox）、1.188MHz（σy）、3.346MHz（ $_ \\mathrm { ( \\sigma _ { \\mathrm { y } } ) }$ 、4.019MHz（ $\\dot { } _ { \\mathbf { x } _ { } } \\mathbf { \\hat { \\Pi } } _ { }$ ）这几个频点左右。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/2ff39d74175a91503de5f6e8fcc56efc54a7535ca58db401d0847efbe3c96cc0.jpg",
+        "img_caption": [
+            "图20为运行常态时的 $\\boldsymbol { \\mathcal { Q } } _ { \\Delta / \\Sigma }$ 的谱线"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/1899c873f4d5fa8df0e0f9c524c9e45e7c89c439d455166b386a78f860ac243e.jpg",
+        "img_caption": [
+            "图21 注入时的 $\\boldsymbol { \\mathcal { Q } } _ { \\Delta / \\Sigma }$ 的谱线"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "图20为运行常态时的 $Q _ { \\Delta / \\Sigma }$ 的谱线，粉色曲线为纽扣BPM，橄榄色为条带BPM。除去噪声信号计算产生的谱峰，在常态下看不到四极振荡谱峰。图21为注入时的 $Q _ { \\Delta / \\Sigma }$ 的谱线，合肥光源是水平方向注入，注入时会产生水平方向四极振荡，图中标记QX的位置为 $\\mathbf { \\bar { o } x }$ 变化对应的水平方向四极振荡谱峰，Tum By Turn 的频谱图只能看到下边带部分，Bunch ByBunch 的频谱图对称的上下边带的四极振荡的谱峰都可以看到。条带的 $\\boldsymbol { \\mathcal { Q } } _ { \\Delta / \\Sigma }$ 四极振荡的幅度和工作点处的幅度同量级，在线性标尺下就能够看到，但是纽扣的差两个量级左右，用对数标尺才能看出来，此两幅图条带和纽扣的纵坐标标尺都是对数标尺。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "总结与展望",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "此逐束团质心3维测量系统已在合肥光源在线工作，基于其处理产生的数据在运行常态时可以得到每个束团的3维（横向和纵向）工作点，通过对BPM信号的分析，可以得到注入时束团横向尺寸四极振荡的谱峰，这个系统产生的数据，相信通过进一步的分析可以得到更多的结果。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "虽然能看到注入时水平方向四极振荡的谱峰，但是更细节的尺寸变化规律还是需要以后搭建逐束团6维（质心 $\\cdot +$ 尺寸）测量系统做进一步观测。搭建起系统只是开始，进一步的数据分析和信息挖掘需要更多感兴趣的人参与进来。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "开发的程序现在的1.0.X版本能方便的设置填充模式等参数以通用于各光源，而且对基于示波器即将搭建的逐束团6维（质心 $^ { + }$ 尺寸）测量系统，稍作修改和补充即可使用，现已开源在gitee[9]上，欢迎兄弟单位使用。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "值得一提的是在这半年的系统从零开始搭建到现在的在线运行，在国产Zstack虚拟架构下运行的虚拟机，网络和信号处理一直高负荷工作，从来没有过死机，一直稳定运行；国产鼎阳示波器也从来没有过宕机，没有过意外中断连接的情况发生，都是因为改进和调试程序而人为的停止。国产的软件架构和仪器已完全能满足大科学工程高要求的常年在线工作场合的应用。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1] 王筠华著，耦合束团不稳定性测量和抑制，科学出版社   \n[2] Yimei ZhouZhichuChen,BoGao,Ning Zhang,YongbinLeng,Bunch-bybunchphasetudy   \nof the transient state during injection,Nuclear Inst. and Methods in Physics Research,A 955 (2020)   \n163273   \n3]https://ww.siglent.com/products-model/sds60-pro/navs   \n[4] https://ww.zstack.io/   \n[5]http://ww.nsr.ustc.du.cn/16is   \n[6]https://ww.i-tech.si/products/lbera-brillinc-/   \ntps:/   \n[8]吴芳芳.HLS II储存环中束流横向四极振荡的激励和测量及相关研究[D]，博士论文，中   \n国科学技术大学，2015   \n[91]ttps://gite.com/lup9304/RingD ",
+        "page_idx": 11
+    }
+]

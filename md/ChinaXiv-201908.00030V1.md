@@ -1,0 +1,287 @@
+# 变量间的网络分析模型及其应用和特点
+
+蔡玉清1\*董书阳²袁帅胡传鹏 4,5(清华大学人文学院外语系，北京，100084)
+
+2 (Department of Developmental Psychology, Utrecht University, Utrecht, 3584CS)   
+3 (Department of Methodology and Statistics, Tilburg School of Social Science and Behavioral Science, Tilburg, 5037AB)   
+4(Deutsches Resilienz Zentrum, University Medical Center Mainz, Mainz, 55131)   
+5 (Department of Psychiatry and Psychotherapy, University Medical Centre of the Johannes Gutenberg University, 55131 Mainz, Germany) \*通讯作者，E-mail:cyq_16@outlook.com
+
+摘要 变量间的网络分析模型近年来被广泛应用于心理学研究。本文目的在于介绍网络分析的基本原理与常用指标，并进一步介绍此方法在多个领域中的实证研究，旨在推进研究者对网络分析模型的理解与应用。不同于潜变量模型将潜变量作为观测变量的共同先导因素，网络分析模型将观测变量作为初级指标，采用图论的方法建立观测变量之间的关系网络，故使观测变量之间的联系不再受到潜变量模型的局限。通过变量网络中基于各个节点特征的指标(如中心性)以及基于整体结构特征的指标(如小世界性)，网络分析为研究各种心理现象提供了新的可视化描述方式和理解视角。本文详细介绍了此方法目前在人格心理学、社会心理学和临床心理学等领域的应用，进一步讨论了在未来研究者可以发展和完善网络分析模型的方向，以使之运用到更多的数据类型和更多的研究领域。
+
+关键词网络分析 潜变量模型 心理测量 临床心理学 人格特质
+
+如何准确地描述和解释人类心理与行为是科学心理学的主要目标之一。在过去的几十年中，研究者采用潜变量模型(latent variables model)'来描述和测量人类心理与行为并取得了丰硕的成果。例如，人格心理学中的大五人格模型（“BigFive”personality model)以个体不同的行为倾向作为观测变量，采用五个潜在的特质(如外向性)来描述不同个体在这些行为倾向上的差异，进而表征为个体间不同的人格特点(McCrae＆Costa，2008)。又如，临床心理学中的精神疾病诊断与统计手册第五版(Diagnostic and Statistical Manual of MentalDisorders， DSM-V； American Psychiatric Association (APA)， 2013)将不同的症状作为观测变量，再将个体经诊断分类的精神障碍作为导致症状出现的潜变量。然而近年来，一种新的对个体心理特质进行描述的方法一一网络分析模型(network analysis model)—一迅速兴起，此方法作为对潜变量模型的补充，为研究者理解人类心理现象提供了新的思路，逐渐被应用到人格与社会心理学、临床心理学、精神病学等领域的研究中。
+
+网络分析的方法是将某一系统的特征和信息以网络的形式呈现，系统由“节点(nodes)”和“连线(edge)”组成。在传统网络分析研究中，节点一般代表实体(神经元、车站、人)，而连线代表实体之间的联系(突触、路线、人际关系)。在数据驱动下，节点与连线的变化特点显示出网络的特征。相较于这一类传统网络分析模型，基于观测变量的网络分析模型(以下简称为网络分析)的节点是态度、感受、行为等观测变量，而连线则是这些观测变量之间的联系(Borsboom，2008)，这一方法也被称为心理测量网络(psychometricnetwork)、症状网络(symptomnetwork)或者是特质网络(traitnetwork)。图1展示了将高斯图论模型(Gaussian graphical model)或称偏相关网络模型(partial correlation model)运用于三个维度的人格测量条目后所形成的网络的可视化结果。在网络分析方法中，高斯图论模型的发展历史最悠久运用也最广泛，故本文随后将以高斯图论模型为主，介绍网络分析的基本原理、主要分析指标、特点及其在多个心理学领域的应用，并在此基础上具体讨论其他种类的网络模型及网络分析未来发展的方向。
+
+![](images/d40abda2f74f5a550d156a1a8238fe71bc50abcbc354052c6a2eba17f5eea947.jpg)
+
+图1简短大五人格问卷中宜人性(agreeableness）、神经质(neuroticism)和外向性(extroversion)三个维度的偏相关网络模型。测量相同特质的问卷条目由相同颜色的节点表示(数据、代码及问卷条目见在线补充材料)。条目与条目之间的联系由连线表示，绿色连线代表正相关，红色连线代表负相关，连线越粗代表相关性越强。数据来源：Liu等人(2019).
+
+# 1网络分析的基本原理
+
+网络分析最早可追溯到1735 年Leonard Euler 解决哥尼斯堡的桥梁建设问题(the Seven Bridges of Konigsberg；Newman，2001）。随着数学中图论(graphtheory)的出现，网络分析及其数据拟合方法在20 世纪得到了极大的发展，并在自然科学与社会科学领域的研究中获得广泛应用。例如，信息科学中的网页网络(web network)和引文网络(citation-based network)、生物科学中的基因调节网络(gene regulatory network） (Levine & Davidson， 20o5； Teichmann &Babu，2004)、大脑功能联结网络(Park& Friston，2013；Sporns& Honey,2006；Xia & He， 2017)、社会科学领域中的社交网络(social network)(Borgatti， Mehra，Brass，& Labianca， 2009)。其中，Stanley Milgram 关于社交网络的“六度隔离”效应(Milgram，1967；Travers& Milgram，1969)为心理学研究者所熟知。
+
+仅考虑节点与节点间是否有联系的网络被称为无加权相关网络(unweightedassociationnetwork)。如在社交网络分析中，根据提名法测量是否互为好友而建立的网络为无加权网络，每条连线仅代表节点（这里表示个体）之间联系的有无。无加权网络仅通过有或者无的二元分类描述节点之间的联系，因此往往无法完整描述系统特点，如在心理学中采用连续型指标的研究，不仅需要描述观测变量间联系的有无，还需要考虑这些联系的强弱程度。此时，观测变量之间的联系更适合使用加权相关网络(weightedassociationnetwork)进行描述，在这一类型的网络模型中，连线表征的是节点间联系的强弱(Borsboom，2008)。由于模型拟合方法的差异，研究者在无加权相关网络的指标的基础上增加对连线加权值影响的考虑，从而获得加权相关网络中描述各节点以及网络整体结构的指标。Cramer 等研究者于2010年首次将加权相关网络应用于心理学实证研究中—一他们构建了人类精神障碍的网络来探讨重度抑郁障碍(majordepressiondisorder)和广泛性焦虑障碍(generalized anxiety disorder)共病的原因，揭示了二者在症状上的广泛重叠(Cramer，Waldorp，van der Maas，& Borsboom,2010)。
+
+Cramer等人(2010)的研究运用了高斯图论模型来分析症状的关系网络，随后此模型也成为采用网络分析处理横断数据的基础方法。具体而言，将网络分析应用于心理测量的数据时，由于节点数目众多，网络中可能存在许多“虚假”相关。如果两个节点均与第三个节点相关，即使这两个节点本身无直接联系，但二者仍然可能在统计上出现显著相关。为避免这种情况带来的误导性，Lauritzen(1996)和 Pourahmadi(2011)提出了一个解决方法，即在网络分析中使用偏相关系数以更准确地表征节点之间的真实联系。偏相关网络模型是以加权相关网络为基础的一种模型(McNally etal.，2015)，其考虑了两节点间相关被另一节点影响的可能性，为进一步准确探究节点间的因果关系提供了可能(Borsboom& Cramer，2013)。偏相关系数的取值范围为0到1，某两个节点之间的偏相关系数指的是在保障网络中的其他信息恒定后这两点之间的相关，因此也被称作“条件独立性相关(conditional independence association)”。
+
+在实际建模过程中，当网络中所有节点间联系均以连线的形式展现时，网络图像会显得过于繁复而难以对结果进行有效解释。故研究者在偏相关网络模型的基础上，引入惩罚因子(penalization factor)，如图像最小绝对值收敛和选择算法(Graphic Least Absolute Shrinkage and Selection Operator， GLASSO;
+
+Friedman，Hastie，& Tibshirani，2008)，以删除网络中联系程度相对较弱的连线。通过减少连线数目，模型可以拟合出更容易被研究者解释也更加具备预测准确性的网络结构。图2为图1使用图像最小绝对值收敛和选择算法这一惩罚因子后的网络分析结果，和图1相比，图2更加简洁，能更清晰地显示出网络中的重要连线，使得该模型更易解读。
+
+![](images/27fbbd30807e57d0199e304f46da8bc7e3c26e57db72b4d7c932d2374400fb1e.jpg)  
+图2 对图1中大五人格问卷网络使用图像最小绝对值收敛和选择算法后的网络模型示例。
+
+基于偏相关分析的高斯图论模型仅适用于所有变量都是连续型变量的横断数据。针对其他类型的数据，研究者也提出了相应的网络分析方法。例如，对于二分变量数据，van Borkulo 等人(2015)提出一种基于易辛模型(Ising model)的网络分析方法，使用逻辑回归(logistic regression)作为计算节点之间联系强弱的途径，在使用该网络分析方法时同样可以使用相似的惩罚因子来简化网络。又如，对于数据中既有分类变量也有连续变量的情况,Haslbeck 和Waldorp(2015)提出了用混合图形模型(mixed graphical model)来建立相应网络的分析方法。而针对纵向数据，研究者提出了采用变量之间的回归系数来表征节点连线数值的分析方法(Epskamp，Waldorp，Mottus，& Borsboom，2018)²。在纵向网络模型中，由于变量测量在时间上有先后顺序，变量之间的相互预测成为了可能。针对不同种类的纵向数据，研究者逐步发展出了其他种类的网络模型，例如针对单一观测变量时间序列数据的向量自回归模型(vectorautoregressive model;Bringmann et al.， 2013)和主成分自回归模型(principal component vectorautoregressive model； Bulteel， Tuerlinckx， Brose，& Ceulemans， 2018),针对多个观测变量的多层自回归网络模型(multilevel vector autoregressivemodel；Epskamp et al.，2018)以及针对少数几个测量时间点的交叉滞后网络模型(cross-lagged network model；Rhemtulla，van Bork，& Cramer，2019)。这些模型都能够计算下一章节所介绍的网络模型指标，只是在模型假设、模型构建和模型拟合过程中有所差别。限于文章篇幅，本文不对这些模型展开具体介绍。
+
+# 2网络分析的主要指标
+
+网络分析采用高斯图像模型为基础构建变量间网络，这可以得到传统潜变量模型难以捕捉的、对于观测变量间关联和结构进行描述的指标。在对实际问题开展研究的过程中，这些指标往往能够向研究者提供重要的关于变量间联系的洞见，从而帮助解决潜变量模型无法应对的研究问题(尤其是探索性研究问题)。具体而言，网络分析的指标包括描述节点特征的指标和描述网络整体特征的指标。
+
+# 2.1描述节点特征的指标
+
+# 2.2.1 中心性(centrality)
+
+中心性代表了一个节点与其他节点联系的多少、强度以及紧密程度，改变中心性高的节点会影响更多的其他节点。中心性是显示节点特点的重要指标：一个节点的中心性衡量了其与其他节点的直接相关程度(Costantini，Epskamp，etal.，2015)。中心性包括三个具体指标：点度中心性(degree)、接近中心性(closeness)和中介中心性(betweenness)。对于无加权网络来说，一个节点的点度中心性是与该节点直接相连的其他节点的数量，但这一指标未考虑网络中不与该节点直接相连的其他部分，故无法估计该节点在整个网络中的重要性和地位。而接近中心性和中介中心性引入了最短路径距离(shortest path length， SPL)的概念，将网络中所有节点都纳入衡量特定节点中心性的标准(Bringmann etal.，2013)，因此可以衡量某节点在整个网络中的地位。
+
+![](images/3c432681c321d45a8dd506a187d21a9b892ed03e9851e880609d69783b028c41.jpg)
+
+图3包含4个节点的加权网络示意图，各连线间加权值如各连线上数值所示。
+
+在无加权相关网络中，两节点之间的SPL为连接二者所需连线的数目（例如，如两节点直接连接，则 SPL为1；如两节点无法通过任何连线相连，则 SPL为无穷大)。接近中心性是网络中所有其他节点到该节点的 SPL之和的倒数(因而当网络中存在相互分离的不同部分时，即存在某些节点无法通过连线相互联系，则该网络中所有节点的接近中心性均等于0)。中介中心性也和最短路径密切相关，它表示的是某节点在其他任意两节点最短路径上的频率。从变量互动性的角度来理解，接近中心性相对较高的节点相对更容易通过直接（ $\mathrm { S P L = 1 }$ ）或者间接（SPL$\neq 1$ ）的方式被其他节点的变异所影响(Costantini，Epskamp，et al.，2015)；而中介中心性相对较高的节点往往在变量互动过程中发挥非常重要的作用，直接或者间接参与网络的变化过程。
+
+对于加权相关网络来说，在计算 SPL 时需要在无加权相关网络 SPL 的基础上考虑连线加权值(weights of edges)和连线数量(numbers of edges)的影响。早期研究仅将连线加权值纳入最短路径指标和中心性的计算中，而忽略了连线数量(Freeman，1978)。某节点所有连线的加权值之和作为该节点的点度中心性指标，称为强度(strength)，此时两节点的最短路径被定义为连结两点所有可能路径中连线加权值的倒数之和最小的路径。在这一定义下，某节点的最短路径可能并非是两节点间连线数量最少的路径,如图3中是A和B之间的最短路径为A-C-B(即$1 / 0 . 5 \substack { + 1 / 0 . 2 = 7 } )$ ，而非 $\mathrm { A { - } B } \left( 1 / 0 . \mathrm { 1 { = } 1 0 } \right)$ 。
+
+但最近的学术共识认为加权值和连线数量都是衡量节点重要性的因素，都需要被纳入最短路径、接近中心性和中介中心性的计算之中；然而，在不同的网络中，二者的相对重要程度应该有所不同。因此，Opsahi,Agneessens和Skvoretz(2010)引入调整参数(tuning parameter，α）来调节不同网络中计算中心性时加权值和连线数量的比重：当α为0时，不考虑加权值；当α为1时，不考虑连线数量(对图1网络中心性的计算结果见补充材料表S3以及图 S1)。
+
+# 2.1.2可预测性(predictability)
+
+尽管中心性反映了特定节点与相连节点之间的联系，但它无法表明该节点在多大程度上受到与它相连的其他节点的影响，即该节点的变异(variance)在多大程度上被那些与之相连的节点的变异所解释。为了在加权相关网络中量化这一指标,Haslbeck 和Waldrop(2015)提出可预测性指标来表示某一节点的变异在多大程度上可以由与其相连节点的变异所预测(其逻辑类似于回归分析中的解释率)。网络中所有节点的平均可预测性反映了该网络受到网络外因素(如环境和生物因素)的影响程度，如果平均可预测性较高，即说明该网络结构内部能较好地相互预测，外部因素能解释的变异较少。
+
+# 2.1.3 集群性(clustering)
+
+集群性关注的是与某一特定节点相连的其他节点之间的联系。这里需要引入对"三角(triangle)"的定义，对某一节点及与它相连的任意两个其他节点而言，如果这三个节点形成了一个“三角”（如图3中三个节点A、B、C)，网络中的信息就可以在三点间自由流动。一个节点的集群性通过聚集系数(clusteringcoefficient)衡量，具体为该节点与相连节点真实形成的三角个数与可能形成的三角个数的比值。如对于图3中的A节点，其真实形成的三角为“ABC”共一个，而其可能形成的三角为“ABC”，“ACD”和“ABD”，共3个，因此节点A的聚集系数为1/3。
+
+在实证研究中，中心性、可预测性和集群性会提示在网络中某一节点（即观测变量)的地位、特点和利用价值。例如，在精神障碍的网络中，点度中心性越高的症状可能对病人的影响也越大，因为出现这一症状的患者同时出现其他症状的可能性也较高(McNallyetal.，2015)。接近中心性和中介中心性则衡量了节点对网络整体信息传递的重要程度(Costantini，Epskamp，etal.，2015;Freeman，1978)，根据网络分析的假设，两个节点之间的信息往往通过两者之间的最短路径传递(Costantini，Epskamp，et al.，2015)。接近中心性较高的症状，由于它与精神障碍网络中其他症状的总体距离较近，它产生的影响会较快蔓延到其他症状(Borgatti et al.，2009)。而中介中心性较高的节点，由于它对网络中其他节点的最短路径影响较大，当它从网络中移除的时候，信息的传递成本(总体路径)大大增加。在共病相关的研究中，共病网络的桥接症状往往中介中心性较高，这些症状影响着两个或多个不同精神障碍里其他症状的发生和发展(McNally，2016)。再如，可预测性在临床治疗中具有重要意义：就个体症状而言，当某一症状可预测性很低时，希望通过改变其相连节点以改善这一症状是难以奏效的；就疾病网络而言，当某精神障碍的平均可预测性较高时，由外部因素介入来治疗这一精神障碍的难度较高(Haslbeck&Fried，2017)。
+
+# 2.2描述网络整体层面的指标
+
+# 2.2.1连接强度(connectivity)
+
+连接强度与网络中所有节点两两之间的最短路径长度的均值(averageshortest path length；习惯上以 $ { L }$ 来表示)相关4。 $ { L }$ 越小，该网络的连接强度就越大。如前文所述，加权网络和无加权网络具有不同的最短路径长度的计算方法，相应地，连接强度的计算方式也不同。网络连接强度越高，整个网络的连接就越紧密，内部稳定性越高，也就是说，需要移除更多的节点来使剩下的节点不再相连(Tio et al.，2016)。网络连接强度是比较两个网络是否相同的重要指标之一(van Borkulo etal.，2017)，假设图3代表基于女性样本的网络1，节点ABC 两两相连，仅有A和D相连，B和C与D不相连；在另一个基于男性样本的网络2中，节点BCD 相连，仅有B与A相连，C和D与A不相连。通过对比发现，网络1和网络2的结构不同，但连接强度相同。
+
+# 2.2.2 传递性(transitivity)
+
+传递性即全局聚集系数(globalclusteringcoefficient)，和节点的聚集系数具有高度相关性。与计算聚集系数使用的“三角”相对应，当一个节点与另两节点相连而构成串联体系时，这个串联体系(由三个点和两条线组成)被称为“相连的三节点”（connectedtriple)，如图3中B、C、D三节点即形成一个“相连的三节点”,而一个三角(如"ABC")则包含三个相连的三节点。Newman(2003)定义无加权相关网络中传递性为三角个数的三倍与“相连的三节点”个数的比值，Opsahi 和Panzarasa(2009)将传递性指标拓展至加权相关网络中。传递性越高，表明网络中可探测到的三个节点形成的聚集体越多，变量更容易两两聚集而非离散性地相互联系(Costantini，Epskamp，et al.，2015)。虽然网络传递性与连接强度都与网络整体连线密度相关，但两者也有着重要区别一一当网络中存在相互分离的几个部分时，网络的总体连接强度为0而传递性却可能很强。
+
+# 2.2.3 小世界指标(small-worldness index，SWI)
+
+小世界指标通过同时考虑平均最短路径长度和全局聚集系数后而计算得到，$\mathrm { S W I ~ = ~ ( C / C ^ { \star } ) ~ / ~ ( L / L ^ { \star } ) }$ ，其中L和C为该网络的最短路径长度和全局聚集系数，L’和 ${ \mathrm { c } } ^ { \prime }$ 为具有相同节点数和连线数的ER 随机网络(Erdös-Rényi model;Erdös&Rényi，1959)5的相同指标。小世界指标反映的是，和随机网络相比，任意两节点通过其他节点产生联系的难易程度(Marcus，Preszler，& Zeigler-Hill，2018)。当 SWI大于1(或严格条件下大于3)时，该网络具有小世界特点，即具有高连接强度、节点间路径较短、整体联系紧密等特征(Borsboom& Cramer,2013)。
+
+描述网络整体的三个指标(连接强度、传递性以及小世界指标)对于理解心理现象具有启示性意义。例如，Cao等人(2018)对不同性别的青少年创伤后应激反应症状的网络分析发现，女性网络结构的连接强度较高，较难取得积极的治疗效果，因此建议在医疗资源匮乏的情况下，应优先对女性采取干预措施。又如在本文示例的人格网络分析模型(图2)中，小世界指标为1.38，即在不严格的条件下该网络具有小世界的特点，说明大五人格问卷中某人格“特质”下某一行为条目并非仅单一与该特质所包含的其他行为条目相关，反而是在各个条目所测量的行为间存在广泛的联系。
+
+需要注意的是，上述对网络整体描述的指标不仅适用于整个网络，也适用于网络中不与成分外节点相连而独立存在的各个组成成分(component）。在一些网络中，存在包含节点数目众多(无明确标准，一般 $5 0 \%$ 左右)的组成成分，这时这种组成成分被称作巨大组成成分（giantcomponent）(Newman，2001)，对于这些具有巨大组成成分的网络，对巨大组成成分特征的分析往往比对网络整体特征的分析更加重要。例如Tio等人(2016)对国际疾病与相关健康问题统计分类第十版(International Classification of Diseases and Related Health Problems,ICD-10；World Health Organization (WTO)与精神疾病诊断与统计手册第四版修订版(DSM-IV-TR；APA， 200O)这两个精神障碍诊断标准网络中巨大组成成分的分析发现，相较于ICD-10，DSM-IV-TR(200O)的传递性更高，说明其在相互联系的症状组成的网络成分中内部联系更加紧密。
+
+# 3网络分析的特点
+
+网络分析关注变量之间的相互联系，通过统计建模突出其中的重要部分，因此可以揭示出在潜变量模型中难以看到的数据模式。在实际的心理学研究中，网络分析主要具有以下特点：
+
+# 3.1关注观测变量之间的联系
+
+网络分析不必依赖潜变量的定义，可以基于观测变量构建模型，并认为各个观测变量之间具有相关性，因而可以直接分析各个观测变量之间的关系。而在众多潜变量模型中，由于假定潜变量为同一维度下的观测变量的共同成因，观测变量之间的相关性完全由潜变量解释，即观测变量只具有“局部独立性”（localindependence)(Lazarsfeld& Henry，1968)；观测变量仅作为测量潜变量的指标，其与其他观测变量之间的关系不作为模型关注的焦点。但心理构念是否必然涉及潜变量(即共同成因)是个具有争议的话题。例如，在医学中癌症的各种症状的共同原因可能是肿瘤，但与癌症不同，抑郁症可能不存在一个导致各种症状的共同原因一一“抑郁因子”。心理学疾病更有可能是由于同一病症不同显性症状间互相促进和影响所最终导致发生和发展的。在这种情况下，网络分析方法作为对潜变量模型的补充，能够构建和拟合观测变量之间相互作用的系统（例如估计抑郁症各个症状之间的相互促进和作用)，从而针对同样的研究课题提供与潜变量模型不同视角的注解。不过需要注意的是，在理解和定义心理构念时，网络分析和潜变量模型具有相似的局限性，即无法直接通过各个观测变量来定义心理构念。网络本身并非等同于心理构念，它也只是描述心理构念特点的一种方法。
+
+此外，观测变量与潜变量之间的对应关系也存在理论与实践的冲突，观测变量只能受一个潜变量影响的假设也被认为太过严格，如在诊断精神障碍时，许多症状出现在多种精神障碍的诊断标准里(失眠、易激惹等)。网络分析允许观测变量相互影响，更符合实践中症状出现和发展的模式，相较而言，某单一的精神障碍潜变量并非解释这些症状间相互影响的成因。另一方面，研究者可以通过中心性等相关指标来量化不同节点在网络中的重要性，这符合实践中症状跨多个心理/心理障碍系统而相互联系的发现。例如，McNally(2016)提出共病中的桥接症状由于具有高中心性，因此对整个网络结构起重要作用；Fried等人(2015)对丧偶和抑郁症状的网络研究发现，孤独感是二者相互关联的最重要因素。
+
+# 3.2观测变量之间的互动性
+
+网络分析可以用于研究不同节点(观测变量)之间的互相影响以及其随着时间的变化过程(通过构建观测变量间的纵向模型)。如精神障碍中的症状和症状之间可能互为因果并相互影响，导致严重程度不断加强(Schmittmann etal.,2013)。在开始阶段，这一过程似乎均发生在症状水平（观测变量)，而非发生在精神障碍水平（潜变量)。研究这种互动关系的重要意义在于理解不同症状之间的因果关系及这些关系随着时间的变化进程，从而帮助研究者开发更有针对性的干预治疗方案。
+
+有研究发现受同一种精神障碍困扰的不同个体出现的症状表现可能完全不同，症状之间的相互联系也迥异。如对于有失眠症状的重度抑郁个体来说，抑郁的成因在于压力 $$ 失眠 $$ 注意力集中问题；而对于躯体症状导致抑郁的个体来说，则可能是：压力 $$ 血压上升 $$ 心机梗塞 $$ 情绪低落、容易疲倦、失眠(Borsboom& Cramer，2013)，对二者的干预理应有不同的侧重点。再如Isvoranu等人(2017)分析童年期创伤与后期精神疾病的关系的研究发现，在后期测量精神错乱(psychosis)的三个维度(正性症状、负性症状、普通精神病理症状)中，只有普通精神病症状维度与童年创伤具有直接联系，而正性和负性症状则通过普通精神病理症状与童年创伤相关联。由以上不难看出，网络视角下，不同观测变量在系统中的作用不同，因而是系统发展和变化的重要影响因素。
+
+# 3.3整体性
+
+网络分析将所有的观测变量纳入网络之中，从网络整体变化的角度来考查某一心理/行为系统的发生发展过程。例如，Cramer等人(2012)从网络分析的角度指出，人格可能是一个完整的心理系统，其形成受到遗传生物因素的影响，而在成长过程中，又不断与环境中的因素进行互动，主动寻找适合自己的行为模式，最终达到一种平衡的状态(equilibrium)。举例来说，容易感到受威胁的人会主动回避新的环境，避免与陌生人交往，因此感到紧张和孤独。这里的“感到紧张”、“感到孤独”和“容易感到受威胁”相互影响而形成了这些人行为的稳态，而并非是由于受到“神经质”特质的潜在影响。如果这个个体经历了成功的社交，他可能会增加与陌生人交往，紧张、孤独和受威胁感可能也会有所减少，所谓“牵一发而动全身”。即使一次外部反馈无法完全改变个体的行为模式，也可能改变系统中的相关成分，这种变化不需要通过改变一个假设的潜变量(如改变神经质或外向性的特质)影响整个系统，仅需要通过改变特定的观测变量及其与其他观测变量的联系就可形成。精神障碍系统也可能如此，症状与症状之间相互影响而形成稳定的系统，即达到某种精神障碍的诊断。一种治疗方式首先作用于一个或几个特定的症状，通过改善这些症状，其他相关症状也间接改变，当治疗到达某一时刻，特定症状之间的联系发生改变，随后系统整体状态发生改变。
+
+当然，除以上所提及的三点之外，网络分析还有其他的特点。例如，它能够在短时间内构建关于数十个甚至多达数百个变量之间关系的模型，从而提供探索和挖掘复杂心理系统(例如人格系统、精神障碍系统或者政治信念系统)的可能性。网络分析可以全局性地展现变量之间的繁复联系，描绘出关于心理现象的“宏大画面”。再如，网络分析具有较好的可视化特点一一网络分析所构建的变量间的网络本质上已经是一个可视化的图谱(如图1)。在实际运用中，受益于R语言程序包(如qgraph，Costantini，Epskamp，et al.，2015)的发展，通过寥寥几行代码，研究者就能够直观清晰地展现出节点与节点之间以及整个网络复杂的结构特征(Marcus et al.，2018；McNally，2016)。
+
+# 4网络分析的应用
+
+网络分析作为一种新方法，近年来在心理学中得到的广泛应用，尤其是被应用到人格心理学(如Crameret al.，2012)、社会心理学(如Dalege，Borsboom,van Harreveld，& van der Maas，2018)和临床心理学(如 Borsboom& Cramer,2013)。本文以下将分别举例说明网络分析在这些领域的实际应用。
+
+# 4.1人格与社会心理学领域的应用
+
+在人格心理学中，网络分析常常被应用于处理传统的人格测量问卷所测得的数据，其将问卷条目作为网络中的节点，以条目之间的偏相关为连线来建构网络。通过总结目前已有的研究，网络分析能从如下三个方面增进我们对人格的理解。
+
+第一，获得新的一些数据模式，从而对潜变量模型得出的结论提出补充和修正。除本文图1和图2所示案例外，研究者在对大五人格进行网络分析时发现，宜人性和外向性的条目相互渗透，说明测量宜人性维度有关的条目之间的相关性并未强于这些条目和外向性维度有关的条目之间的相关性，二者很难相互区分。从条目本身来看，外向性的一些条目(如喜欢和别人交谈)和宜人性的一些条目(如愿意花时间与别人在一起)确实具有很高的相似性和内在的行为联系(Crameret al.，2012)。另外，从基因的角度对人格特质进行分析发现，在条目的水平上，与不同条目相关的基因显示出异质性，并不符合潜变量模型提出的各变量需要保证同质性的前提假设(Nagel，Watanabe，Stringer，Posthuma，& van derSluis，2018)。对人格障碍的网络分析则补充了现有的理论体系：对自恋型人格障碍的网络分析发现具有病态自恋人格结构的个体的自恋特质较少受其他特质的预测(Di Pierro，Costantini，Benzi，Madeddu，& Preti，2018)；Hyatt 等人(2018)对自恋和自尊进行网络分析揭示了自恋和自尊的联系(果敢的交友取向)与区别(自恋与冷漠无情、不切实际、贬低的态度有关，而自尊与这些无关)。
+
+第二，突破先前研究所提出的理论。结合心理学研究中原先各自独立的研究话题或研究领域，将所有相关信息绘制成易于解读的变量间网络，网络分析承担了一个很好的“桥梁”角色，推动了不同研究话题的互动和跨领域的理论突破。
+
+例如，在探索成人气质(temperament)与人格特质的相关网络时，研究者发现人格能够被看作是由气质和其他特质组成的复杂结构，分析得到了四个集群而非常见的“大五”人格的五个维度，即(1)外向性(2)思维、尽责性和宜人性(3)灵活性、开放性和想象性思维(4)神经质(Wechsler，Benson，Machado，Bachert，&Gums，2018）。
+
+第三，交叉验证通过潜变量模型所获得的研究结果。例如，对“黑暗三角”人格特质（“DarkTriad”personality)开展网络分析后，研究者验证了操纵人际关系(interpersonal manipulation)和冷漠无情(callousness)是该人格特质网络中的核心(Marcus et al.，2018)，这一发现交叉验证了之前潜变量模型的结果（Jones＆Figueredo，2013)。相似的验证还有对尽责性的研究，研究者通过探索性因素分析和网络分析中的集群性特征分析均发现尽责性显现出负责(responsibility)、冲动控制(impulsecontrol)、有序(orderliness)和勤奋(industriousness)四个维度(Costantini，Richetin，et al.，2015)。
+
+网络分析也开始应用于社会心理学领域。例如，态度的因果网络结构研究为理解态度的形成(信念、感受和行为的相互作用)、维持和改变的原因及其强度提供了探索性的证据(Dalege et al.，2016)。实证研究指出个体的政治兴趣能够预测个体关于总统候选人态度的网络的总体连接性，而网络的总体连接性又与态度的两个决定性因素(态度的稳定性和态度对行为的影响程度)显著相关(Dalegeetal.，2018)。结合前人研究以及网络分析的视角，Brandt，Sibley和Osborne(2019)提出了“政治信念系统” (political beliefsystem)的概念—一他们认为个体的各种政治信念组成了一个网络，其中处于核心地位的是一些象征性的信念(即党派属性)，而处于边缘地位的是对于具体政策的态度。不过，网络分析方法在社会心理学领域的应用尚属于探索阶段，此技术巨大的潜力仍有待挖掘。
+
+# 4.2临床心理学领域的应用
+
+在临床心理学中，网络分析的应用主要包括探索传统精神障碍诊断标准中的症状的网络结构、探索不同精神障碍的共病情况以及探索干预对某个症状以及对整个症状网络的影响这三个方面。
+
+首先，网络分析为理解传统精神障碍诊断中不同症状之间的关系提供了新的视角。研究者采用无加权网络分析的方法，探索了不同精神障碍的症状之间的网络结构。目前主要有(1)Borsboom，Cramer，Schmittmann，Epskamp和Waldorp(2011)对精神DSM-IV(1994)中障碍与对应症状之间联系的网络分析;(2)Boschloo 等人(2015)对精神疾病诊断与统计手册中的 12 类精神障碍相关的120 种症状进行了网络分析；(3)Tio等人(2016)对ICD-10与DSM-IV-TR(2000)的网络结构的比较分析；以及(4)Borsboom(2017)基于上述研究结果总结出的精神障碍诊断标准的特点。总的来说，目前所使用的精神障碍的诊断标准具有以下特点：(1)复杂性，即心理病理网络中不同成分的复杂交互作用； (2)症状与组成成分协同回应性，即心理病理网络中组成成分对症状(节点)的变化产生协同回应;(3)直接因果关系，即网络结构由症状间直接因果联系产生； (4)精神障碍服从网络结构，即心理病理网络中一些症状间的联系更紧密，这些症状集群后相互作用引发其他症状；(5)滞后效应(hysteresis)，即精神障碍是由于较强联系的症状网络出现滞后效应所导致的，原因是引发症状的事件消失后已被激活的症状间仍能相互激活。
+
+其次，网络分析较好地描述了不同精神障碍的共病状况。网络分析通过描述节点的特征来推断节点在网络中的作用，因此能够很好地识别不同精神障碍网络之间的“桥接”节点，即共病的症状。除前述Cramer 等人(2010)探究重度抑郁障碍和广泛性焦虑症的共病机制的研究外，Ruzzano，Borsboom 和Geurts(2015)探索自闭症与强迫症的共病机制发现，虽然刻板的重复行为是二者所共有的症状诊断标准，但网络分析结果显示自闭症与强迫症是两个完全不同的症状集群一除了共有的刻板重复行为外，二者症状间少有直接相关。这从另一个角度证明了网络分析能够对精神障碍的共病性进行深层的梳理，从而识别易共病与不易共病的精神障碍。Afzali 等人(2017)对创伤后应激障碍和重度抑郁障碍的共病机制开展网络分析发现，其共病的桥接节点不仅局限于睡眠问题、易激惹性、注意力困难和兴趣丧失这四个共有的症状，还存在于自责感、悲伤感和闪回等其他一些非共有症状，该研究进一步指出个体易伤痛性和消极情绪性两个特点可能是造成这些共病症状的原因。
+
+第三，网络分析也开始应用于探究精神障碍干预的效果和鉴别干预的作用途径等方向。一些研究将干预作为观测变量引入网络中，观察该变量与不同症状之间的联系以及该变量对网络结构整体变化的影响(如 Bekhuisetal.，2018;Santos，Kossakowski，Schwartz，Beeber，& Fried，2018)。外部因素的介入能够改善症状的指标，改变网络结构，最终达到干预的效果。但不同症状(或网络中的不同部分)的联系强弱和方式也是不同的，一些症状与治疗具有强相关，而另一些则可能仅有间接联系，这对临床治疗研究具有重要意义。例如，Blanken等人(2019)将网络分析应用于探究失眠症的认知行为治疗(cognitivebehavioral therapy for insomnia，CBT-I)对失眠症和抑郁症的共病的治疗效果的研究，结果发现CBT-I对失眠症的症状作用明显，而对抑郁症的作用则更接近于通过改善失眠症状而起到的间接效应。
+
+# 5总结与展望
+
+作为对传统潜变量模型的一个有力补充，网络分析在描述心理构念上有独特的优势，因此在最近几年该方法已经被广泛用于诸多心理学领域。从当前研究的发展趋势来看，在未来几年网络分析可能会在如下方面获得进一步发展。
+
+第一，网络分析理论与实证证据结合，如验证网络分析揭示的重要节点是否也在改变网络结构过程中起到关键作用。如前文所述，从网络分析视角对精神障碍的研究发现一些症状相对重要，而最重要的症状则通常被认为是网络的核心，因此推断改变这些症状可能是改变整个网络(即治疗该障碍)的重要切入点。那么在实际治疗过程中，对那些在网络中与更多其他节点有较强联系的症状开展重点治疗能否更有效地改善与之相联系的其他症状呢？目前尚没有研究验证这一假设，因此未来精神障碍治疗方法有关的研究应着重关注这一点(Fried etal.,2017)。
+
+第二，网络分析的可重复性问题。由于网络分析本质上是一种“数据驱动”的探索性分析方法，所得的结果可能局限于特定的样本数据，故难以推广到其他样本。虽然数据越多，估计得出的结果也更接近于真实情况，但样本量难以达到完美，因此网络分析是否真实反应了心理系统的普遍特征仍待进一步验证(Epskamp，Borsboom，& Fried，2018；Forbes，Wright，Markon，& Krueger,2017）。研究者已经发展出比较两个网络结构是否有显著差异的方法(vanBorkuloetal.，2017)，尽管已有一项研究证实了网络分析在样本内和样本间的高重复性(Borsboom et al.，2017)，说明了网络结构至少在一定情况下是可重复的和可推广的，但在心理学研究的可重复性受到关注的背景下(Aartsetal.，2015；胡传鹏等，2016)，研究者对于可重复性的考察尚待进一步深入。因而，一个重要的未来研究方向是发展出验证性网络模型(confirmatorynetworkmodeling)的方法来确定基于某一特定样本所拟合出的变量间网络在多大程度上能够推广到其所在群体甚至其他群体，进而辨别如果某一网络模型不可重复其原因为何。潜在的原因有网络结构自身的问题，如研究中的样本本身无法代表其所在的群体，因此导致甚至该样本的网络结构模型局限于该样本，无法推广至其所在的群体；或者研究中的样本本身仅代表了某一个群体，而该群体可能不同于其他群体，也可能导致基于该样本的结果无法推广，如同一个网络结构无法同时适用于来自普通人群体的样本和来自病人群体的样本(Borsboom et al.，2018)。
+
+第三，与潜变量模型的进一步融合。虽然前文介绍了诸多网络分析模型相较于传统潜变量模型的创新之处和优势，但不可否认的是，潜变量模型仍然拥有网络分析模型难以替代的优势。一方面，潜变量模型(特别是广义的结构方程模型)纳入了对于测量误差的考察和控制(Borsboom，Mellenbergh，& Heerden，2003)，这有效地规避了心理测量无法做到完全精确的问题；另一方面，潜变量模型提供了有效的验证性分析的框架。未来研究应开发出一个更综合性的方法，既能够展现网络模型互动性和整体性的特点，也能够纳入对于测量误差的考量。目前Epskamp 等人(2017)提供了综合潜变量模型与网络模型的初步尝试，构建了以潜变量为节点的网络模型。未来研究可以进一步完善该模型，以结合潜变量模型和网络分析模型的优势。
+
+第四，应用于个体的网络分析(Borsboom&Cramer，2013)。由于不同个体的心理/行为特征具有独特性，建立每个个体的网络分析有利于更加准确地理解个体心理现象和精神障碍的出现、保持和发展过程。研究者应开发统计方法来建立基于个体的网络分析，帮助了解具体每个个体态度、人格、行为特征形成的原因，也帮助了解每个个体精神障碍的诱因、作用通路和潜在发病风险。最终，应用网络分析所得发现来制定个性化的干预方案，提供个性化的发展建议，促进每个个体的精神健康和积极发展。
+
+参考文献 胡传鹏，王非，过继成思，宋梦迪，隋洁，彭凯平．(2016)．心理学研究中的可重复性问题：从危机到契 机．心理科学进展，24(9)，1504－1518. 牛蕾．人格对大学生群体关系网络的影响.哈尔滨师范大学,2011.   
+Aarts,A. A.,Anderson,J.E.,Anderson, C.J.,Attridge,P.R.,Attwood,A.,Axt,J.R.,..Rijn,H. van.(2015). Estimating the reproducibility of psychological science. Science,349, O036-8075.   
+Afzali,M.H.,Sunderland,M.,Tesson,M.,Carragher,N.,Mils,K.,& Sade,T. (2o17). A network approach to the comorbidity between postraumatic stress disorder and major depressve disorder: The role of overlapping symptoms. Journal of Affective Disorders,208,490-496. htps://oi.org/10.1016/j.jad.2016.10.037   
+American Psychiatric Association(APA). (1994). Diagnostic and statistical manual of mental disorders, 4th ed. Arlington, VA, US: American Psychiatric Publishing, Inc.   
+American Psychiatric Asociation (APA). (20o0). Diagnostic and Statistical Manual of Mental Disorders, 4thtext revision edn. DC: APA: Washington.   
+American Psychiatric Association (APA).(2O13). Diagnostic and Statistical Manual of Mental Disorder,5th edn. Arlington, VA: American Psychiatric Publishing, Inc.   
+Bekhuis,E.,Schoevers,R.,de Boer,M.,Peen,J.,Dekker,J.,Van,H.,&Boschloo,L.(2018).Symptom-Specific Effects of Psychotherapy versus Combined Therapy in the Treatment of Mild to Moderate Depression: A Network Approach. Psychotherapy and Psychosomatics,87(2),121-123. https://oi.org/10.1159/000486793   
+Blanken,T.F.,Van Der Zweerde,T.,Van Straten,A.,Van Someren,E.J.W.,Borsboom,D.,&Lancee,J. (2019). Introducing Network Intervention Analysis to Investigate Sequential, Symptom-Specific Treatment Effects: A Demonstration in Co-Occurring Insomnia and Depresson. Psychotherapy and Psychosomatics,88(1),52-54. https://doi.0rg/10.1159/000495045   
+Borgati,S.P.,Mehra,A.,BrassD.J.,&Labianca,G. (2O09). Network analysis in the social sciences.Science (New York, N.Y.),323(5916),892-895. htps:/doi.org/10.1126/science.1165821   
+Borsboom, D. (2008). Psychometric perspectives on diagnostic systems. Journal of Clinical Psychology, 64(9), 1089-1108. htps://doi.org/10.1002/jclp.20503   
+Borsboom, D.(2017). A network theory of mental disorders. World Psychiatry,16(1),5-13. https://doi.org/10.1002/wps.20375   
+Borsboom,D.,& Cramer, A. O.J.(2013). Network Analysis: An Integrative Approach to the Structure of Psychopathology.Annual Review of Clinical Psychology,9(1),91-121. htps://oi.org/10.1146/annurev-clinpsy050212-185608   
+Borsboom,D.,Cramer, A. O.J.,Schmitmann, V.D.,Epskamp,S.,& Waldorp,L.J. (201). The SmallWorld of Psychopathology. PLoS ONE,6(11), e27407. https://doi.org/10.1371/journal.pone.0027407   
+Borsboom,D.,Fried,E.I.,Epskamp,S., Waldorp,L.J. van Borkulo, C.D.,van der Maas,H.L.J.,& Cramer, A. O. J. (2017). False alarm? A comprehensive reanalysis of “Evidence that psychopathology symptom networks have limited replicability” by Forbes, Wright, Markon,and Krueger (2017). Journal of Abnormal Psychology,126(7), 989-999. htps://doi.org/10.1037/abn0000306   
+Borsboom,D.,Melenbergh,G.J.,&Heerden,J.van.(2Oo3).The theoreticalstatus of latent variables.Psychological Review,110(2),203-219.htps://doi.0rg/10.1037/0033-295X.110.2.203   
+Borsboom,D.,Robinaugh,D.J.,The Psychosystems Group,Rhemtulla,M.,& Cramer,A.O.J.(2018).Robustness and replicability of psychopathology networks. World Psychiatry,17(2),143-144. https://doi.0rg/10.1002/wps.20515   
+Boschloo,L. van Borkulo,C.D., Rhemtula, M., Keyes, K. M., Borsboom,D.,& Schoevers,R.A. (2015). The Network Structure of Symptoms of the Diagnostic and Statistical Manual of Mental Disorders. PLOS ONE,10(9), e0137621. htps://doi.org/10.1371/journal.pone.0137621   
+Brandt,M.J.,Sibley, C.G.,&Osborne,D. (2019).What Is Centralto Political Belief System Networks?Personality and Social Psychology Bulletin, Urn:issn:0146-1672. https://doi.org/10.1177/0146167218824354   
+Bringmann,L.F., Vissers,N.,Wichers,., Geschwind,N.,Kuppens,P.,Peeters,F...uerlinckx,F. (013).A Network Approach to Psychopathology: New Insights into Clinical Longitudinal Data. PLoS ONE,8(4),e60188. https://doi.org/10.1371/journal.pone.0060188   
+Bulteel,K.,Tuerlinckx,F.,Brose,A.,&Ceulemans,E. (2O18).Improved Insight intoandPredictionofNetwork Dynamics by Combining VAR and Dimension Reduction. Multivariate Behavioral Research,53(6),853-875. https://doi.0rg/10.1080/00273171.2018.1516540   
+Cao,X.,Wang,L.,Cao,C.,Fang,R.,Chen,C.,Hall,B.J.,&Elhai,J.D.(2o18).Sex differences in globaland local conectivity of adolescent posttraumatic stress disorder symptoms. Journal of Child Psychology and Psychiatry, 60(2),216-224. https://oi.org/10.1111/jcpp.12963   
+Costantini, G.,Epskamp,S.,Borsboom,D.,Perugini,M., Motus,R., Waldorp,L.J.,&Cramer,A. O.J.(2015). State of the aRt personality research: A tutorial on network analysis of personality data in R. Journal of Research in Personality,54,13-29. htps://doi.0rg/10.1016/j.jrp.2014.07.003   
+Costantini,G.,Richetin,J.,Borsboom,D.,Fried,E.I.,Rhemtull,M.,&Perugini,M. (2O15).Developmentof Indirect Measures of Conscientiousness: Combining a Facets Approach and Network Analysis: A novel approach to conscientiousness.European Journal of Personality,29(5),548-567. https:/doi.org/10.1002/per.2014   
+Costantini,G.,Richetin,J.,reti,E.,Casini,E.,Epskamp,S.,&Perugini,M. (2O19).Stabilityand variabilityof personality networks. A tutorial on recent developments in network psychometrics.Personality and Individual Diffrences,136,68-78. htps://doi.org/10.1016/j.paid.2017.06.011   
+Cramer, A. O.J.,van der Sluis,S.,Noordhof,A., Wichers,M., Geschwind,N.,Aggen,S.H...Borsboom,D. (2012). Dimensions ofNormal Personality as Networks in Search of Equilibrium: You Can't Like Parties if You Don't Like People: Dimensions of normal personality as networks. European Journal of Personality, 26(4), 414 431. https://doi.org/10.1002/per.1866   
+Cramer, A. O.J., Waldorp,L. J., van der Maas,H.L.J.,& Borsboom, D. (201O). Comorbidity: A network perspective. Behavioral and Brain Sciences,33(2-3),137-150. htps://oi.org/10.1017/S0140525X09991567   
+Dalege,J.,Borsboom,D.,van Harreveld,F.,van den Berg,H.,Conner,M.,& van der Maas,H.L.J. (2O16).Toward a formalized account of atitudes: The Causal Atitude Network (CAN) model. Psychological Review,123(1), 2- 22. https://doi.0rg/10.1037/a0039802   
+Dalege,J.,Borsboom,D.,van Harreveld,F.,& van der Maas, H.L.J. (2018). The Atitudinal Entropy (AE) Framework as a General Theory of Individual Atitudes.Psychological Inquiry,29(4),175-193. https://doi.0rg/10.1080/1047840X.2018.1537246   
+DiPierro,R,Costantini,G.,enzi,I..A.,adeddu,F.,&Preti,E.(O).Grandioseandentitled,butstifragile: A network analysis of pathological narcissstic traits.Personality and Individual Differences,140,15-20. https://doi.0rg/10.1016/j.paid.2018.04.003   
+Epskamp,S.,Rhemtull,M.,& Borsboom,D.(2O17). Generalized Network Psychometrics: Combining Network and Latent Variable Models.Psychometrika,82(4),904-927. https://doi.org/10.1007/s11336-017-9557-x   
+Epskamp,S., Waldorp,L.J.,Mottus,R.,&Borsboom,D.(2O18).The Gaussian Graphical Model inCross-Sectional and Time-Series Data. Multivariate Behavioral Research,53(4), 453-480. https://doi.0rg/10.1080/00273171.2018.1454823   
+Erdös,P.,& Rényi, A. (1959). On Random Graphs.I. Publicationes Mathematicae.,6,290-297.   
+Freeman,L. C. (1978). Centrality insocial networks conceptualclarification. Social Networks,1(3),215-239. https://doi.0rg/10.1016/0378-8733(78)90021-7   
+Fried,E.I.,ockting,C.,rjadi,.,Borsboom,D.,mshoff,.,Cramer,A.O.J.,.Stroebe,.(15).Fromlo to loneliness: The relationship between bereavement and depressive symptoms. Journal of Abnormal Psychology, 124(2),256-265.https://doi.0rg/10.1037/abn0000028   
+Fried,E.I.,van Borkulo,C.D., Cramer,A.O.J.,Boschloo,L.,Schoevers,R.A.,&Borsboom,D. (2017).Mental disorders as networks of problems: Areview of recent insights. Social Psychiatry and Psychiatric Epidemiology, 52(1),1-10. https://doi.org/10.1007/s00127-016-1319-z   
+Friedman,J.,Hastie,T.,& Tibshirani,R. (2Oo8). Sparse inverse covariance estimation with the graphical lasso. Biostatistics,9(3),432-441. https://doi.org/10.1093/biostatistics/kxm045   
+Haslbeck,J. M. B.,& Fried,E. I. (2017). How predictable are symptoms in psychopathological networks? A reanalysis of 18 published datasets. Psychological Medicine,47(16),2767-2776. https://doi.0rg/10.1017/S0033291717001258   
+Haslbeck, J. M. B., & Waldorp,L. J. (2015). MGM: Estimating Time-Varying Mixed Graphical Models in HighDimensional Data. ArXiv:1510.06871. Retrieved from http://arxiv.org/abs/1510.06871   
+Hyatt, C.S.,Sleep,C.E.,Lamkin,J.,Maples-Keller,J.L.,Sedikides,C.,Campbell W. K.,&Miller,J.D.(18). Narcissism and self-esteem: A nomological network analysis. PLoS ONE,13(8). https://doi.org/10.1371/journal.pone.0201088   
+Isvoranu, A.-M.,vanBorkulo,C.D.,Boyette,L.-L.,Wigman,J.T.W.,Vinkers,C.H.,Borsboom,D.,& Group Investigators. (2O17). A Network Approach to Psychosis: Pathways Between Childhood Trauma and Psychotic Symptoms.Schizophrenia Bulltin,43(1),187-196. https:/doi.org/10.1093/schbul/sbw055   
+Jones,D.N.,&Figueredo,A.J. (2013).The Core of Darknes: Uncovering the Heart of the Dark Triad: The core of darkness. European Journal of Personality,27(6),521-531. https://doi.org/10.1002/per.1893   
+Lauritzen, S.L. (1996). Graphical Models. Clarendon Press.   
+Lazarsfeld, P.F.,& Henry,N. W. (1968). Latent Structure analysis. Boston: Houghton Mill.   
+Levine,M., & Davidson, E. H. (20o5). Gene regulatory networks for development. Proceedings of the National Academy of Sciences,102(14), 4936-4942. htps://doi.0rg/10.1073/pnas.0408031102   
+Liu, Q.-L.,Fei, W., Yan, W.,Peng, K.,Sui,J.,& Hu,C.-P. (2O19). Questionnaire Datafrom the Revision of a Chinese Version of Free Willand Determinism Plus Scale and Experiments on the Perceptual Prioritization of the Good Self. https://doi.org/10.31234/osf.io/7ngey   
+Marcus,D.K.,Preszler,J.,& Zeigler-Hil, V. (2018). Anetwork of dark personality traits: What lies at the heartof darkness? Journal of Research in Personality,73,56-62. https://doi.org/10.1016/j.jrp.2017.11.003   
+McCrae,R.R.,& Costa,P.T.,Jr. (2O08). Empiricaland Theoretical Status of theFive-Factor Modelof Personality Traits.In The SAGE Handbook of Personality Theory and Assessment: Volume 1-Personality Theories and Models (Vols.1-1, pp. 273-294). https:/doi.0rg/10.4135/9781849200462   
+McNally,R.J. (2O16). Can network analysis transform psychopathology? Behaviour Research and Therapy86, 95- 104. https://doi.org/10.1016/j.brat.2016.06.006   
+McNally,R.J.,Robinaugh,D.J., Wu, G. W.Y., Wang,L.,Deserno, M. K.,& Borsboom,D.(2015). Mental Disorders as Causal Systems: A Network Approach to Postraumatic Stress Disorder. Clinical Psychological Science,3(6), 836-849.https://doi.0rg/10.1177/2167702614553230   
+Milgram, S. (1967). The Small World Problem. Psychology Today,1(1), 61-67.   
+Millar,R.B. (2011).Latent Variable Models.In Maximum Likelihood Estimation and Inference (pp.202-232). https://doi.0rg/10.1002/9780470094846.ch10   
+Nagel,M., Watanabe,K.,Stringer,S.,Posthuma,D.,&van der Sluis,S. (2O18). Item-levelanalysesreveal genetic heterogeneity in neuroticism. Nature Communications, 9(1). https://oi.org/10.1038/s41467-018-03242-8   
+Newman, M.E.J. (20o1).The structure of scientific collaboration networks. Proceedings ofthe National Academy of Sciences,98(2),404-409. htps://doi.org/10.1073/pnas.98.2.404   
+Newman, M.E.J.(2003). The Structure and Function of Complex Networks. SIAM Review,45(2),167-256. https://doi.0rg/10.1137/S003614450342480   
+Niu,L. (2O11). The personality effect on relationship network in group of university students (Master). Harbin Normal University.   
+Onnela,J.-P.,Saramaki,J.,Kertesz,J.,&Kaski,K. (2oo5).Intensityandcoherenceof motifs inweightedcomplex networks.Physical Review E,71(6), 065103. https://doi.org/10.1103/PhysRevE.71.065103   
+Opsahl,T.,Agneessens,F.,& Skvoretz,J. (2O10).Node centrality in weighted networks: Generalizingdegree and shortest paths. Social Networks,32(3),245-251. https:/doi.org/10.1016/j.socnet.2010.03.006   
+Opsahl,T.,& Panzarasa,P. (2009). Clustering in weighted networks. Social Networks,31(2),155-163. https://doi.org/10.1016/j.socnet.2009.02.002   
+Park,H.-J.,& Friston, K. (2O13). Structuraland Functional Brain Networks: From Connections to Cognition. Science,342(6158),1238411-1238411. htps://doi.org/10.1126/science.1238411   
+Pourahmadi, M. (2011). Covariance Estimation: The GLMand Regularization Perspectives.Statistical Science, 26(3),369-387. Retrieved from JSTOR.   
+Rhemtulla, M., van Bork,R.,& Cramer,A. O.J. (2019). Cross-lagged network models. Multivariate Behavioral Research, Urn:issn:0027-3171.   
+Ruzzano,L., Borsboom,D.,& Geurts, H. M. (2015). Repetitive Behaviors in Autism and Obsessive-Compulsive Disorder: New Perspectives from a Network Analysis. Journal of Autism and Developmental Disorders,45(1), 192-202. https://doi.0rg/10.1007/s10803-014-2204-9   
+Santos,H.P.,Kosskowski,J.J.,Schwartz,T.A.,Beeber,L.,&Fried,E.I.(2O18).Longitudinal network structure of depression symptoms and self-efficacy in low-income mothers. PLoS ONE,13(1). https://doi.org/10.1371/journal.pone.0191675   
+Schmittmann, V.D., Cramer, A. O.J., Waldorp,L.J.,Epskamp,S., Kievit,R.A.,& Borsboom,D. (2013). Deconstructing the construct: A network perspective on psychological phenomena. New Ideas in Psychology, 31(1), 43-53. htps://doi.org/10.1016/j.newideapsych.2011.02.007   
+Sporns,O.,& Honey,C.J.(2Oo6).Smallworlds insidebig brains.Proceedings ofthe National Academy of Sciences, 103(51),19219-19220. htps://doi.org/10.1073/pnas.0609523103   
+Teichmann, S.A.,& Babu,M. M.(2004). Gene regulatory network growth by duplication. Nature Genetics,36(5), 492-496. htps://doi.org/10.1038/ng1340   
+Tio,P.,Epskamp,S.,Noordhof,A.,& Borsboom,D. (2016). Mapping the manuals of madnes: Comparing the ICD10 and DSM-IV-TR using a network approach: Mapping the Manuals of Madness. International Journal of Methods in Psychiatric Research,25(4),267-276. https://doi.org/10.1002/mpr.1503   
+Travers,J.,& Milgram,S.(1969).An Experimental Study of the Small World Problem. Sociometry,32(4),425. https://doi.rg/10.2307/2786545   
+van Borkulo,C.D.,Borsboom,D.,Epskamp,S.,Blanken,T.F.,Boschloo,L.,Schoevers,R.A.,& Waldorp,L.J. (2015). A new method for constructing networks from binary data. Scientific Reports,4(1). https://doi.org/10.1038/srep05918   
+van Borkulo,C.D.,Boschloo,L.,Kossakowski,J.J.,Tio,P.,Schoevers,R.,Borsboom,D.,& Waldorp,L. (2017). Comparing network structures on three aspects: A permutation test. Unpublished. https://doi.0rg/10.13140/rg.2.2.29455.38569   
+Wats,D.J.,& Strogatz,S.H. (1998). Collective dynamics of‘small-world' networks.Nature,393(6684),440-442. https://doi.org/10.1038/30918   
+Wechsler, S.M.,Benson,N.,Machado,W.deL.,Bachert,C.M.D.,& Gums,E.F. (2018).Adult temperament styles: A network analysis of their relationships with the Big Five Personality Model. European Journal of Education and Psychology,11(1),61-75   
+World Health Organization (WTO).(2004). ICD-10: International statistical classification of diseases and related health problems:tenth revision.World Health Organization.   
+Xia,M.,& He,Y. (2017).Functional connectomics from a “big data"perspective. Neurolmage,160,152-167. https://doi.org/10.1016/j.neuroimage.2017.02.031   
+Zhang,B.,& Horvath,S. (2Oo5).A General Framework for Weighted Gene Co-Expression Network Analysis. Statistical Applications in Genetics and Molecular Biology,4(1). htps://doi.org/10.2202/1544-6115.1128
+
+# Network Analysis and Its Applications in Psychology
+
+Cai Yuqing1\*, Dong Shuyang², Yuan shuan³, Hu Chuan-Peng4,5
+
+1(Department of Foreign Languages, Tsinghua University, Beijing,100084) 2 (Department of Developmental Psychology, Utrecht University, Utrecht, 3584CS) 3 (Department of Methodology and Statistics, Tilburg School of Social Science and Behavioral Science, Tilburg, 5037AB)   
+4(Deutsches Resilienz Zentrum, University Medical Center Mainz, Mainz, 55131)   
+5 (Department of Psychiatry and Psychotherapy, University Medical Centre of the Johannes Gutenberg University, 55131 Mainz, Germany) \* Corresponding author, E-mail: cyq_16@outlook.com
+
+AbstractNetwork analysis model, in which observable variables are nodes and the correlations between them are edges,has been widely used in various research fields in recent years.The purposes of this study are twofold: first introducing the principles and statistical index of network analysis,and second reviewing studies in past literature which used this method to solve research questions in psychology. Network analysis applies graph theory to describe the relations among different psychological traits, different symptoms,or different behaviors.Network analysis model is distinguished from traditional latent variable model on the underlying assumptions regarding the causality and the roles between observable variables and (latent) traits. Network analysis emphasizes on the unequal role of each observable variable, the interactions among these variables,and the dynamics of psychological systems. This method draws an inference based on the statistical index differing from latent variable model,such as centrality and small-worldness.
+
+In the past decade, the inquiries into personality, social, clinical psychology as well as psychiatry by using network analysis are gradually increasing. The present paper briefly summarizes the published findings from these relevant studies. Moreover,as a burgeoning field, the future directions are discussed mainly concerning how to extend network analysis to longitudinal data, empirical research,and case study,how to improve network analysis for the sake of replicability and assessment errors.
+
+Key wordsnetwork analysis, latent variable, psychometrics, psychopathology,personality traits.
+
+补充材料：网络分析示例，以大五人格量表（BFI-44）中三维度为例。
+
+目的：拟使用网络分析的方法对大五人格量表（BFI-44）中的宜人性、外向性和神经质的特质进行探索。
+
+数据：本次示例分析的数据来自Liu 等(2019)的数据。五人格量表(BFI-44)为使用最为广泛的人格问卷之一(中文版由牛蕾(2011)翻译)，包括外向性、宜人性、开放性、尽责性和神经质五个特质。其中，外向性含8个项目、宜人性含9个项目、开放性含10 个项目、尽责性含9个项目、神经质含8个项目。所有条目均为5点量表。在该数据集中，BFI-44 的数据样本量为 $\mathrm { ~ N ~ } = \ 5 5 5$ (年龄 $= \ 2 1 . 6 9 \ \pm \ 2 . 5 2$ ，男性 237人，女性318人）。本次分析中所采用的宜人性、外向性和神经质具体条目、年龄以及各题描述性统计数据见表 S1。
+
+# 分析过程：
+
+第一步、使用3个维度的数据（27个条目）建立偏相关网络模型。如正文所述，由于网络中可能存在“虚假”相关，我们使用偏相关系数以更加准确地描述网络真实特征。在偏相关网络的基础上进一步引入惩罚因子，即采用图像最小绝对值收敛和选择算法(GLASSO;Friedman，Hastie，& Tibshirani，2008)，删除强度较弱的连线，减少连线数目，更加清晰地显示出网络中重要的连线，也更能反映出节点与节点之间的直接联系。
+
+第二步、计算GLASSO 网络的三个中心性指标(即强度、接近中心性和中介中心性)以及聚集系数指标，以比较各节点在网络中的重要程度。另外，对于网络整体结构，计算小世界指标以了解该网络的连接特点(各指标的计算方式及理解见正文)。
+
+网络的建立以及各指标的计算均使用R程序包qgraph完成，具体代码及原始数据见：osf.io/g74dz/
+
+结果：偏相关网络和GLASSO网络示意图分别见正文图1和图2，GLASSO网络各连线权重见表S2。
+
+网络整体结构：从偏相关网络及GLASSO 网络中均可以看出，分属于不同特质的量表条目之间均具有相关性。其中，各特质内部条目之间具有较强的正相关，说明总体而言大五人格特质条目的划分能够在一定程度上反应其所属特质。神经质条目和另外两个特质条目之间均为负相关，但宜人性和外向性的条目之间具有较强的正相关，二者相互渗透，说明测量宜人性特质有关的条目之间的相关性并未强于这些条目和外向性特质有关的条目之间的相关性，二者很难相互区分。从条目本身来看，外向性的一些条目(如喜欢和别人交谈)和宜人性的一些条目(如愿意花时间与别人在一起)确实具有很高的相似性和内在的行为联系(Crameret al.，2012)。特别的是，宜人性A8“我可能会很冷淡，难以接近”与宜人性特质其他8个条目在施加惩罚因子后无联系，反而与神经质和外向性(特别是外向性)具有相对较强的联系，说明该项目更有可能反应了外向性特点而非宜人性。GLASSO 网络的小世界指标为1.38，说明其在不严格的情况下具有小世界的特点，即具有高连接强度、节点间路径较短、整体联系紧密等特征(Borsboom& Cramer，2013)，每个特质下的条目不仅与该特质其他条目具有紧密联系，也有其他特质下条目广泛联系。
+
+节点中心性和聚集系数：由于GLASSO 网络能更加简洁准确地表现心理构念的特点，因此首先对其相关指标进行分析和解读。GLASSO 网络的三个中心性指标以及聚集系数如表 S3所示(另可参考折现图 S1)。其中外向性 E37“我是开朗外向，好交际的”具有最高的中介中心性和强度，以及第二高的接近中心性，说明其在整个网络中具有较高的重要性，其变异对网络中其他节点具有较强的影响，将其从网络中删除对网络整体联系具有较大影响。从网络示意图中也可以看出该节点在外向性特质中处于中心位置，与该特质其他节点具有较强联系；外向性E41“我充满活力”具有最高的接近中心性以及较高的中介中心性和强度，说明其在整体网络中也具有较高的重要性；外向性 E44“我往往很安静”和 E40“我充满了热情”具有最高和第二高的聚集系数，说明与 E44 和与 E40 相连的节点两两之间有联系的可能性较高，说明这两个节点在网络中较为“多余”，即通过两者反应的网络特点也可通过其他节点反应(Costantini，Epskamp，et al.，2015)。
+
+分别考虑三个特质的节点指标，外向性特质三个中心性指标以及聚集系数指标均高于平均值，而宜人性特质则低于平均值(其中中介中心性和强度远低于平均值)，说明外向性特质在网络中的三个特质中处于重要位置，而宜人性指标则总体而言与其他指标具有较少联系，且很少位于其他两节点最短路径上，对于网络中信息传递影响较少。
+
+结果解读：从网络结构中可以看出，从网络结构中则能够看出大五人格量表中各项条目、以及条目与条目之间的更多信息。虽然大五人格往往被分为五个独立的特质，但特质与特质之间并不完全独立，相反，有一些衡量某一特质的条目可能与其他的特质的条目联系更加紧密。另外，不同的特质在人格整体网络中所处的地位也不尽相同，外向性的地位似乎比宜人性更核心。因此在理解人格这一心理构念时，仅通过个特质的得分高低来评价人格特点可能并不完全准确。
+
+表 S1 BFI-44大五人格问卷中宜人性、神经质和外向性三特质的问卷条目及描述性统计数据  
+
+<html><body><table><tr><td>条目内容</td><td></td><td>平均值 标准差</td></tr><tr><td>A1</td><td>我对绝大多数人都很友善</td><td>4.24 0.64</td></tr><tr><td>A2</td><td>我愿意和别人合作</td><td>3.9 0.75</td></tr><tr><td>A3</td><td>我乐于助人，不自私</td><td>3.76 0.71</td></tr><tr><td>A4</td><td>我生性宽容</td><td>3.89 0.8</td></tr><tr><td>A5</td><td>我通常是相信别人的</td><td>3.88 0.71</td></tr><tr><td>A6</td><td>我倾向于挑战别人的缺点</td><td>3.68 0.95</td></tr><tr><td>A7</td><td>我会挑起和别人的争执</td><td>4.03 0.85</td></tr><tr><td>A8</td><td>我可能会很冷淡，难以接近</td><td>3.37 1. 17</td></tr><tr><td>A9</td><td>我有时对人很粗鲁</td><td>3.59 1.07</td></tr><tr><td>N19</td><td>我可能会很情绪化</td><td>3.37 0.98</td></tr><tr><td>N20</td><td>我有时会感到忧郁或沮丧</td><td>3.6 0.94</td></tr><tr><td>N21</td><td>我很容易感到不安</td><td>3.13 1.09</td></tr><tr><td>N22</td><td>我可能会紧张</td><td>3.78 0.81</td></tr><tr><td>N23</td><td>我总是担心很多事情</td><td>3.51 1.02</td></tr><tr><td>N24</td><td>我在紧张的情境下能保持冷静</td><td>3.13 1.09</td></tr><tr><td>N25</td><td>我的情绪很稳定，不容易感到心烦意乱</td><td>3.27 1. 1</td></tr><tr><td>N26</td><td>我很放松，而且能很好地应对压力</td><td>3.04 1. 14</td></tr><tr><td>E37</td><td>我是开朗外向，好交际的</td><td>3.35 1. 05</td></tr><tr><td>E38</td><td>我很健谈</td><td>3.18 0.98</td></tr><tr><td>E39</td><td>我有坚定而自信的性格</td><td>3.5 0.87</td></tr><tr><td>E40</td><td>我充满了热情</td><td>3.65 0.82</td></tr><tr><td>E41</td><td>我充满了活力</td><td>3.65 0.8</td></tr><tr><td>E42</td><td>我通常很内向矜持</td><td>3.11 1. 18</td></tr><tr><td>E43</td><td>我有时会害羞或拘谨</td><td>2.51 1. 1</td></tr><tr><td>E44</td><td>我往往很安静</td><td>2.89 1. 15</td></tr><tr><td>年龄</td><td>年龄</td><td>21.69 2.52</td></tr></table></body></html>
+
+表 S2GLASSO网络中各连线权重（“-”表示两节点间无联系)  
+
+<html><body><table><tr><td></td><td>A1</td><td>A2</td><td>A3</td><td>A4</td><td>A5</td><td>A6</td><td>A7</td><td>A8</td><td>A9</td><td>N19</td><td>N20</td><td>N21</td><td>N22</td><td>N23</td><td>N24</td><td>N25</td><td>N26</td><td>E37</td><td>E38</td><td>E39</td><td>E40</td><td>E41</td><td>E42</td><td>E43</td><td>E44</td></tr><tr><td>A1</td><td></td><td>0.07</td><td>0.12</td><td>0.13</td><td>0.10</td><td></td><td>0.09</td><td>二</td><td>1</td><td></td><td>1</td><td></td><td>_--</td><td>1</td><td></td><td>_-</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.14</td><td></td><td></td><td></td></tr><tr><td>A2</td><td>0.07</td><td></td><td>0.11</td><td></td><td>0.07</td><td>1</td><td></td><td>1</td><td>1</td><td>1</td><td>_-</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.07</td><td>0.03</td><td></td><td>0.01</td><td>0.06</td><td></td><td></td><td>1</td></tr><tr><td></td><td>0.12</td><td>0.11</td><td>1</td><td>0.25</td><td>0.02</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>一</td><td>1</td><td>0.10</td><td>0.06</td><td></td><td>1</td><td>1</td></tr><tr><td>A3 A4</td><td>0.13</td><td></td><td>0.25</td><td></td><td>0.06</td><td></td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td><td>_-</td><td></td><td></td><td></td><td></td><td>1</td><td>1</td><td></td><td>0.01</td><td></td><td>1</td><td></td><td>1</td></tr><tr><td>A5</td><td>0.10</td><td></td><td>0.02</td><td></td><td></td><td>0.04</td><td>0.01</td><td>1</td><td>0.02</td><td></td><td>1 1</td><td>__--</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td><td></td><td>1</td><td></td><td>_--</td><td>1</td><td>1</td><td>1</td></tr><tr><td>A6</td><td></td><td>0.07</td><td></td><td>0.06</td><td></td><td></td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td><td>一</td><td>1</td><td>1</td><td></td><td></td><td></td><td>0.00</td><td></td><td>__</td><td></td><td></td><td></td><td>1</td></tr><tr><td>A7</td><td>0.09</td><td>一</td><td>1</td><td>1</td><td>0.04</td><td>二</td><td>0.20</td><td></td><td>0.02</td><td></td><td>1</td><td></td><td></td><td>0.00</td><td></td><td>一</td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td><td>一</td><td></td><td></td></tr><tr><td>A8</td><td></td><td>一</td><td>1</td><td>1</td><td>0.01</td><td>0.20</td><td></td><td></td><td>0.14</td><td></td><td></td><td></td><td></td><td></td><td>1</td><td>一</td><td></td><td></td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td><td>0.02</td></tr><tr><td></td><td>二</td><td>一</td><td>1</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td><td>1</td><td>1</td><td></td><td>0.09</td><td></td><td>0.02</td><td>0.02</td><td>0.03</td><td>0.03</td><td>0.05</td><td></td></tr><tr><td>N99</td><td>_-</td><td>_-</td><td></td><td>0.02</td><td>_-</td><td>0.02</td><td>0.14</td><td>一</td><td></td><td></td><td>0.08</td><td>0.19</td><td>0.09</td><td></td><td>_-</td><td>0.19</td><td></td><td>0.02</td><td></td><td></td><td></td><td></td><td></td><td>__</td><td></td><td>1</td></tr><tr><td>N20</td><td>一</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.02</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>N21</td><td>1</td><td>一</td><td>1</td><td>1</td><td>1</td><td></td><td></td><td></td><td></td><td>0.08</td><td></td><td>0.11 一</td><td>0.15 0.08</td><td>0.16 0.39</td><td></td><td>0.10</td><td>0.05</td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>N22</td><td></td><td></td><td>一</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td>0.19</td><td>0.11</td><td></td><td></td><td></td><td>0.07</td><td>0.09</td><td>0.08</td><td></td><td></td><td></td><td>一</td><td></td><td></td><td></td><td></td><td>1</td></tr><tr><td>N23</td><td></td><td>__</td><td></td><td>一</td><td>一</td><td></td><td></td><td></td><td></td><td>0.09 0.02</td><td>0.15</td><td>0.08</td><td></td><td>0.06</td><td></td><td>0.02</td><td></td><td></td><td></td><td></td><td></td><td>一</td><td></td><td>0.00</td><td></td><td></td></tr><tr><td>N24</td><td>1</td><td></td><td></td><td></td><td>1</td><td>0.00</td><td></td><td></td><td>1</td><td></td><td>0.16</td><td>0.39 0.07</td><td>0.06</td><td>一</td><td>1 一</td><td>0.02</td><td>0.04</td><td></td><td></td><td></td><td></td><td>一</td><td>--</td><td></td><td></td><td></td></tr><tr><td>N25</td><td></td><td>1</td><td></td><td></td><td>1</td><td></td><td>一</td><td></td><td>1</td><td>0.19</td><td>0.10</td><td>0.09</td><td>0.02</td><td>0.02</td><td>0.06</td><td>0.06</td><td>0.19 0.12</td><td>1</td><td></td><td></td><td>1</td><td>一</td><td>一</td><td>一 一</td><td>1</td><td>1</td></tr><tr><td>N26 E37</td><td>1 、</td><td></td><td></td><td></td></table></body></html>
+
+表S3GLASSO网络中心性和聚集系数指标  
+
+<html><body><table><tr><td></td><td>中介中心性</td><td>接近中心性</td><td>强度</td><td>聚集系数</td></tr><tr><td>A1</td><td>48</td><td>0.0023</td><td>0.70</td><td>0.04</td></tr><tr><td>A2</td><td></td><td>0.0018</td><td>0.42</td><td>0.06</td></tr><tr><td>A3</td><td>13</td><td>0.0021</td><td>0.75</td><td>0.05</td></tr><tr><td>A4</td><td>27</td><td>0.0021</td><td>0.66</td><td>0.05</td></tr><tr><td>A5</td><td>0</td><td>0.0016</td><td>0.30</td><td>0.07</td></tr><tr><td>A6</td><td></td><td>0.0016</td><td>0.29</td><td>0.04</td></tr><tr><td>A7</td><td>33</td><td>0.0019</td><td>0.55</td><td>0.02</td></tr><tr><td>A8</td><td>3</td><td>0.0019</td><td>0.41</td><td>0.05</td></tr><tr><td>A9</td><td>18</td><td>0.0018</td><td>0.36</td><td>0.05</td></tr><tr><td>N19</td><td>22</td><td>0.0020</td><td>0.79</td><td>0.05</td></tr><tr><td>N20</td><td>20</td><td>0. 0021</td><td>0.93</td><td>0.07</td></tr><tr><td>N21</td><td>28</td><td>0.0021</td><td>1. 19</td><td>0.04</td></tr><tr><td>N22</td><td>4</td><td>0.0019</td><td>0. 62</td><td>0.09</td></tr><tr><td>N23</td><td>5</td><td>0.0020</td><td>0.81</td><td>0.08</td></tr><tr><td>N24</td><td>0</td><td>0.0019</td><td>0.49</td><td>0.07</td></tr><tr><td>N25</td><td>18</td><td>0.0022</td><td>0. 65</td><td>0.07</td></tr><tr><td>N26</td><td>50</td><td>0.0023</td><td>0.97</td><td>0.04</td></tr><tr><td>E37</td><td>62</td><td>0.0024</td><td>1. 21</td><td>0.06</td></tr><tr><td>E38</td><td>0</td><td>0.0022</td><td>0.84</td><td>0.07</td></tr><tr><td>E39</td><td>10</td><td>0.0022</td><td>0.80</td><td>0.07</td></tr><tr><td>E40</td><td>14</td><td>0.0023</td><td>0.87</td><td>0.10</td></tr><tr><td>E41</td><td>44</td><td>0.0025</td><td>1. 17</td><td>0.06</td></tr><tr><td>E42</td><td>41</td><td>0.0023</td><td>0.78</td><td>0.05</td></tr><tr><td>E43</td><td>34</td><td>0.0021</td><td>0.75</td><td>0.04</td></tr><tr><td>E44</td><td>0</td><td>0.0019</td><td>0.45</td><td>0.15</td></tr></table></body></html>
+
+7 中心性和聚集系数指标均通过 R程序包qgraph 计算，其中中心性指标的调整参数α 使用qgraph 中默认值1。对于加权网络，目前主要有三种不同的节点聚集系数的计算方法(WS，Zhang 和Onnela)，其区别在于判断某一节点的特定连线是否应该被纳入该点的聚集系数计算的衡量标准(三种方法分别见Watts &Strogatz，1998；Onnela，Saramäki，Kertész，& Kaski，2005；Zhang& Horvath，2005)。其中，Zhang& Horvath(2005)适用于相关性数据，另外，Zhang 聚集系数中“signed”版本考虑正相关与负相关的不同，因此这里的聚集系数使用的是 Zhang(signed)版本。
+
+<html><body><table><tr><td>宜人性(A)均值</td><td>15.78</td><td>0.0019</td><td>0.49</td><td>0.05</td></tr><tr><td>神经质(N)均值</td><td>18.38</td><td>0.0021</td><td>0.80</td><td>0.06</td></tr><tr><td>外向性(E)均值</td><td>25.63</td><td>0. 0022</td><td>0.86</td><td>0.08</td></tr><tr><td>所有条目均值</td><td>19.76</td><td>0. 0021</td><td>0.71</td><td>0.06</td></tr></table></body></html>
+
+![](images/0d99fcd125fa3450ac8f7d659ae9909049c65afca41c02a546d9ddbdb8619a62.jpg)  
+图S1GLASSO网络各节点中心性折线图
+
+# 作者贡献声明：
+
+蔡玉清：研究命题的提出、设计；收集、整理相关文献；补充材料的数据分析；论文起草、修改及最终版本修订。  
+董书阳：研究命题的提出、设计；收集、整理相关文献；补充材料研究方案的提出和设计；论文修改及最终版本修订。  
+袁帅：研究命题的提出、设计；收集、整理相关文献；补充材料研究方案的提出和设计；论文修改及最终版本修订。  
+胡传鹏：研究命题的提出、设计；收集、整理相关文献；补充材料数据的获取和提供；论文修改及最终版本修订。

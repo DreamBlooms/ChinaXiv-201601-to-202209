@@ -1,0 +1,285 @@
+[
+    {
+        "type": "text",
+        "text": "壳聚糖调控家禽脂肪代谢的研究进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "盛东峰’²胥蕾」赵悦 $^ 1$ 杨海明」王杏龙1\\*王志跃 1\\*（1.扬州大学动物科学与技术学院，扬州225009；2.周口师范学院生命科学与农学学院，周□466001)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：壳聚糖是一种天然多氨基葡萄糖，广泛存在于自然界中。研究显示，壳聚糖具有抑菌、抗炎症、抗氧化、抗肿瘤、增强免疫等生物学功能。本文从壳聚糖对家禽脂肪的消化、体脂沉积、血清生化和脂肪代谢关键酶活性及其基因表达的影响等方面进行综述，初步探讨了壳聚糖对家禽脂肪代谢的调控及其机制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：壳聚糖；家禽；脂肪代谢；调控中图分类号：S816",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "壳聚糖[（1,4）-2-氨基-2-脱氧 $- \\beta - D$ -葡聚糖]是一种富含氨基的多聚高分子葡萄糖，经甲壳素（主要来源于水产品加工废弃的虾壳和蟹壳）脱乙酰基获得，具有在弱酸性环境中与质子结合而带正电荷的特性，是自然界中唯一带有正电荷的天然高分子有机物。壳聚糖的分子结构如图1所示[]",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/02a3fed39a572f146e87f674d8208fdf1952510add47ad832bf6140a8882972c.jpg",
+        "img_caption": [
+            "图1壳聚糖的分子结构",
+            "Fig.1 Chemical structure of chitosan[1] "
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "自 Sugano 等[2]1978 年首次报道壳聚糖具有降胆固醇功效之后，壳聚糖的降脂功能便成为学者们关注和研究的焦点。大量研究显示，壳聚糖能够通过减少饲粮中脂肪的吸收，增加粪便中脂质的排出，影响血脂和肝脂代谢，并通过调控脂代谢关键酶活性及其基因表达，参作者简介：盛东峰（1978-），男，河南周口人，副教授，博士研究生，主要从事畜产品安全生产与加工研究。E-mail: shengdongfeng@126.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "与动物脂肪的沉积和再分配[3-4]。随着禽产品脂肪含量偏高的问题日益突出，作为一种天然、绿色、安全的降脂产品，壳聚糖对禽脂肪代谢的影响，越来越被家禽养殖企业和研究工作者所关注。本文从壳聚糖对家禽饲粮中脂肪利用率的影响着手，综述了国内外研究中壳聚糖对家禽体脂和血脂的影响，初步分析了壳聚糖调控脂肪代谢的生化及分子机制，旨在为壳聚糖的科学应用和优质禽产品的开发提供资料参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1壳聚糖对家禽脂肪代谢的影响 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，大量研究显示，壳聚糖能够通过影响饲粮中脂肪的吸收、抑制脂肪消化及代谢酶活性，降低脂肪代谢关键基因表达水平，调控脂肪代谢。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1对饲粮脂肪消化率的影响 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，有关壳聚糖的降脂活性研究主要集中在肉鸡上，其他家禽报道较少。Razdan 等[5]报道显示，在饲粮中添加 $3 0 ~ \\mathrm { g / k g }$ 的壳聚糖，能够显著降低肉鸡回肠脂肪消化率，且这种降低幅度与壳聚糖黏度呈正相关。黎秋萍[发现，饲粮中添加 $0 . 7 5 \\%$ 壳聚糖，麒麟鸡粪便中粗脂肪的排泄量显著增加。在鹅的研究中，王润莲等[7也得出相似的结论，饲粮中添加$0 . 0 5 \\% { \\sim } 0 . 1 5 \\%$ 的壳聚糖能够显著降低肉仔鹅对饲粮中粗脂肪的利用率。因此，可以认为壳聚糖通过阻止脂肪被消化酶降解，增加了末端肠道排泄率，减少了家禽对饲粮中脂肪的利用[8]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 对体脂沉积的影响 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "体脂是动物体贮存能量的主要方式，通常包括腹脂率、肌间脂肪宽、皮下脂肪厚等指标。随着我国居民消费结构的变化，家禽体脂率，特别是腹脂率过高的问题日益突出。大量的脂肪在加工中被丢弃，高体脂不仅造成了饲料浪费、禽产品品质变差，也降低了消费者的购买意愿[9]。因此，开发能够降低或调控家禽机体脂代谢的饲料添加剂，一直是研究人员关注的重点。自 Sugano 等[2]发现壳聚糖具有降脂功效以来，后人在家禽上开展了大量相关研究。马小珍等[10]发现，饲粮中添加壳聚糖，肉鸡腹脂重显著降低。刘海英等[1]报道显示，壳聚糖能够显著降低艾维茵鸡肝脂率和腹脂率。黄冠庆等[12]研究指出，饲粮中添加 $0 . 1 \\%$ 、 $0 . 3 \\%$ 和 $0 . 5 \\%$ 的壳聚糖对试验鸡腹脂率没有显著影响，但能够显著降低其皮下脂肪重。胡忠泽等[13]的研究表明，饲粮中添加 $0 . 0 4 \\%$ 的壳聚糖，除腹脂率显著降低外，肌间脂肪宽度显著减小。壳聚糖的脱乙酰度也能够影响其降脂效果。吕丹娜[14]指出，壳聚糖的脱乙酰度对肉仔鸡的腹脂有一定抑制作用，但影响不显著。黎秋萍[6]和江国亮等[15]的研究则显示，脱乙酰度能够显著减少肉鸡肌间脂肪宽、腹脂率及肝脂率。目前，鹅的相关资料较少。赵萍[16]的研究结果显示， $1 0 0 { \\sim } 4 0 0 ~ \\mathrm { m g / k g }$ 的壳聚糖可降低天山雪鹅肌间脂肪宽度、厚度以及皮下脂肪厚度及腹脂率。壳聚糖对鹅影响是否和鸡一致，还有待进一步试验验证。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 对血脂含量的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "血脂是对血液中脂质的总称。通常包括三酰甘油（TG)、胆固醇（TC)、高密度脂蛋白（HDL）和低密度脂蛋白（LDL）等。其中TG主要参与能量的储存与供给，TC 是动物细胞膜及神经髓鞘的主要组成部分，HDL 负责将外周组织及血液中的TC 运送至肝脏代谢，LDL 则负责将肝脏合成的TC 运送到肝外[17]。江国亮等[15]的研究显示， $0 . 1 5 \\%$ 壳聚糖能够显著降低肉仔鸡血清总甘油三酯和总胆固醇含量。黄冠庆等[12]发现， $0 . 1 \\%$ 、 $0 . 3 \\%$ 和 $0 . 5 \\%$ 的壳聚糖均能降低肉鸡的血清 TC 和 TG 含量。杨正平等[18]认为，较低剂量（ $1 0 0 \\mathrm { m g / k g } \\mathrm { , }$ ）的壳聚糖也能降低试验鸡血清中的 TC 和 TG 含量 $_ { ( \\mathrm { P < 0 . 0 5 } ) }$ 。韩杰等[19]报道， $2 \\%$ 壳聚糖除能够显著降低肉仔鸡血清TC 含量外，也能显著降低血清游离脂肪酸（FFA）含量。在对蛋鸡的研究中，赵颖等[20]发现， $2 0 \\mathrm { m g / k g }$ 的低聚壳聚糖显著降低其血清 TG、LDL 和极低密度脂蛋白含量。王润莲等[在鹅的研究中也发现相似的现象，添加 $0 . 1 0 \\%$ 的壳聚糖能显著降低试验鹅血清 TG 和 TC 含量。和前面的研究结果不同，李忠荣等[21I发现，添加 $0 . 3 \\%$ 、 $0 . 5 \\%$ 壳聚糖能显著降低雌性河田鸡血清 TG 和 TC 含量，但对 HDL、LDL、载脂蛋白AI及载脂蛋白B 含量均无显著影响。刘梅[22]认为， $1 5 0 ~ \\mathrm { m g / k g }$ 的壳聚糖对肉仔鸡血液 TG 和 FFA 含量均没有显著影响。和以上研究结果相似，郑晓灵等[23]发现饲粮中添加 $0 . 1 0 \\% { \\sim } 0 . 5 0 \\%$ 的壳聚糖对1\\~3周龄黄羽肉鸡的血脂含量没有影响。在脱乙酰度对脂代谢影响的研究中，吕丹娜[14]发现，脱乙酰度能够抑制肉鸡的血脂水平。Li等[24]的进一步研究证实，除脱乙酰度外，壳聚糖的分子质量也能够影响其降脂效果。其中 50 和 $5 \\mathrm { k u }$ 的壳聚糖能显著降低麒麟鸡的血清TC 含量;5ku的壳聚糖能够极显著减低血清TG含量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4对禽产品脂质的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "禽产品是对禽蛋和禽肉的总称。在禽蛋的研究中，Nogueira 等[25]报道，添加 $2 \\%$ 或 $3 \\%$ 壳聚糖可显著降低28 周龄试验鸡蛋黄中TC 含量，Swiatkiewicz等[26]也得出相似的结论。在国内研究中，王敦等[27]发现，饲粮中添加 $1 . 0 \\%$ 的虫源性壳聚糖，试验鸡蛋黄中TC 含量降低。刘志友[28]研究结果显示， $2 5 0 { \\sim } 5 0 0 \\mathrm { m g / k g }$ 壳聚糖能够改善蛋黄饱和脂肪酸（SFA）、单不饱和脂肪酸（MUFA）、多不饱和脂肪酸（PUFA）、 $\\mathtt { n } { - } 6$ PUFA、n-3PUFA的含量以及 $\\mathrm { n } { - } 6 / \\mathrm { n } { - } 3$ 值，但高剂量的改善效果减弱。而赵颖等）[20]的研究显示， $2 0 \\mathrm { m g / k g }$ 低聚壳聚糖对鸡蛋脂肪含量和蛋品质无影响。在禽肉研究中，杜炳旺等[29指出， $0 . 0 5 \\% { \\sim } 0 . 2 0 \\%$ 的壳聚糖可降低90日龄贵妃鸡肌肉脂肪含量。Zhou 等[30]研究表明， $0 . 1 4 \\%$ 和 $0 . 2 8 \\%$ 的壳聚糖能降低胸肌 SFA的含量，增加 MUFA 的含量。王述柏等[31]的研究显示， $2 \\%$ 壳聚糖组试验鸡腿肌、胸肌 TC含量分别比对照组降低 $5 . 0 8 \\%$ 和 $4 . 9 6 \\%$ 。王云霞[32]发现， $0 . 1 \\%$ 壳聚糖组试验鸡鸡肉中亚油酸、",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PUFA含量和对照组差异极显著。常斌等[33、夏党荣等[34]认为，和鸡相似，饲粮中添加壳聚糖也能降低鹅肉脂肪含量下降。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2壳聚糖调控家禽脂肪代谢的机制",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 物理机制",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 吸附作用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "同植物纤维素相似，作为一种动物纤维素，壳聚糖对脂类物质有很强的吸附能力，通过吸附饲粮中的脂肪、胆汁酸，减少了饲粮脂质与机体消化酶的接触，增加了脂类在粪便中排泄，饲粮脂肪利用率下降，脂肪沉积减少[3]。有研究显示，壳聚糖的吸附能力和其分子结构密切相关，分子质量大、黏度高的壳聚糖吸附能力相对较强[]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 静电作用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "壳聚糖分子上富含氨基，在胃液酸性环境中，氨基游离出来并以， ${ \\mathrm { - N H } } ^ { 3 + }$ 形式存在， ${ \\bf - N H ^ { 3 + } }$ 能够与带负电荷的脂肪或胆汁酸通过静电作用结合，进一步降低了机体对脂肪的吸收利用。目前这一推论已经在体外和体内试验中得到证实[35-36]，然而，Sugano 等[2]根据试验鼠粪便中中性类固醇排出量增加，酸性类固醇没有变化的事实推断，静电作用可能不是壳聚糖发挥降脂作用的主要机制。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.3 包埋作用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "壳聚糖在酸性胃液中，能以水溶物形式存在并与脂类物质混合乳化，进入小肠后，乳化物在碱性环境中凝集、沉淀，阻碍了脂肪滴在肠道内与脂肪消化酶的接触，分解减少，排泄量增大[3]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 生化机制",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 调控血清激素水平",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "激素是调节脂质代谢的重要介质。通过自身的受体介导或干扰其他激素信号传导通路的方式，从分子水平或蛋白质水平调节脂质代谢相关基因的表达或关键酶的磷酸化，调控脂代谢酶的活性[37]。在家禽脂肪代谢研究中，胰岛素、瘦素和脂联素的研究相对较多。其中，胰岛素能够通过调节激素敏感性脂肪酶的活性，影响脂肪的分解速度；瘦素通过与下丘脑内侧的瘦素神经元受体结合，刺激大脑释放饱感信号，调控家禽采食量[38]；脂联素通过改善胰岛素的敏感性调控脂肪代谢[39]。刘志友[28]研究发现， $2 5 0 { \\sim } 5 0 0 \\ \\mathrm { m g / k g }$ 壳聚糖能够降低蛋种鸡血清瘦素，并增加胰岛素含量； $1 ~ 0 0 0 { \\sim } 2 ~ 0 0 0 ~ \\mathrm { m g / k g }$ 剂量呈相反作用。这与其低剂量的壳聚糖促进、高剂量抑制肝脏脂肪酸合成的试验结果相符。苗志国等[40]的研究显示， $0 . 1 0 \\%$ 、 $0 . 2 0 \\%$ 的壳聚糖能够使试验鸡血清中胰岛素含量分别提高 $4 . 3 0 \\%$ 和 $6 . 4 5 \\%$ ，据此他认为壳聚糖通过调控血胰岛素分泌，影响动物的生长和脂肪代谢。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.2调节消化道脂肪酶活性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "一些研究发现，壳聚糖能够通过调节家禽胃肠道中脂肪酶的活性，抑制消化道对饲粮脂肪的消化吸收，实现降脂作用。Khambualai等[41]发现，饲粮中添加 $0 . 5 \\%$ 的壳聚糖，肉鸡小肠脂肪酶活性降低，脂肪吸收减少，体脂沉积下降。李宗楠[8研究显示，饲粮中添加 $2 5 0 { \\sim } 2 0 0 0$ $\\mathrm { m g / k g }$ 的壳聚糖，试验第28、56天的肉仔鸡空肠脂肪酶呈一次线性降低，回肠脂肪酶显著二次曲线降低。黎秋萍[发现，不同分子质量的壳聚糖均能够降低麒麟鸡胰腺脂肪酶活性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.3调节脂代谢关键酶活性及关键基因表达",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对家禽而言，肝脏在脂肪酸合成中起着决定性的作用， $8 5 \\%$ 的脂肪酸均由肝脏合成。肝脏中乙酰辅酶A羧化酶（ACC）是脂肪酸合成中的第一个限速酶，催化乙酰辅酶A、三磷酸腺苷和二氧化碳合成丙二酸单酰辅酶A。脂肪酸合成酶（FAS）催化丙二酸单酰辅酶A和乙酰辅酶A从头合成脂肪酸。在鼠上的研究表明，壳聚糖被消化酶降解后，主要进入其血液、肝脏、肾脏和脂肪组织，通过影响脂质代谢关键酶酶活及关键基因的表达，调控脂肪代谢[3]。在家禽的研究中，黎秋萍[6]和江国亮等[15]研究发现，壳聚糖不影响肉仔鸡肝脏FAS 活性。刘志友[28]的研究进一步证实了这一观点，在蛋种鸡饲粮中添加 $2 5 0 { \\sim } 2 0 0 0 \\mathrm { m g / k g }$ 壳聚糖对肝脏 FAS 及其mRNA表达没有显著影响，但他同时也注意到， $2 5 0 { \\sim } 5 0 0 ~ \\mathrm { m g / k g }$ 壳聚糖能够增强第28天蛋种鸡肝脏ACC 的活性，这说明壳聚糖对家禽脂代谢的调控机制和鼠不同，有必要开展相关的家禽研究。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "脂蛋白脂肪酶（LPL）和肝脏脂肪酶（HL）能够催化脂蛋白降解，在TG代谢中具有重要作用。江国亮等[15]研究显示，饲粮中添加壳聚糖能够增加试验鸡脂肪中LPL 活性。Li 等[24]发现，中、低分子质量（5和 $2 \\mathrm { { k u } }$ ）壳聚糖能显著提高麒麟鸡肝脏LPL 和HL 活性，这意味着壳聚糖可能通过增强体脂分解调控肉鸡的脂质代谢。但刘志友[28]的研究显示，250\\~500mg/kg 壳聚糖对腹脂激素敏感脂肪酶（HSL）和血液LPL 活性有抑制作用，随着添加量的增加，腹脂HSL 和血液LPL 活性则呈上升趋势。这说明壳聚糖对脂肪酶活性的影响受壳聚糖性质、添加水平和研究对象不同而不同。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "过氧化物酶体增殖物激活受体（PPAR）是一种重要的脂代谢转录因子，与脂代谢紊乱、肥胖、糖尿病等多种疾病密切相关。有证据显示，壳聚糖能够上调试验动物肝脏PPARα的基因及蛋白表达，增强脂肪酸的β氧化，减少动物体脂沉积[42]。刘志友[28]在蛋种鸡的研究中发现， $2 5 0 { \\sim } 5 0 0 ~ \\mathrm { m g / k g }$ 的壳聚糖能够促进肝脏PPARγ的蛋白表达，且随着添加剂量的增加促进作用减弱。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 其他机制",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "有研究显示，壳聚糖具有降低血清及肝脏丙二醛含量的作用，这意味着，壳聚糖能够通过调控机体内脂质过氧化水平，调节脂质代谢[43]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3小结 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "脂肪代谢是一个多因素、多途径的复杂过程，影响因素较多。综上所述，壳聚糖能够通过影响脂肪酶及脂肪代谢酶活性，抑制脂肪代谢关键基因表达，减少脂肪的吸收利用，降低血脂水平，最终减少腹脂沉积和实现禽产品中的脂肪再分配。且低分子质量（小于 $5 0 \\mathrm { k u }$ ）壳聚糖倾向于通过生理生化机制，高分子质量壳聚糖倾向通过物理作用实现降脂功效。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]GEORGE Z K,DIMITROS N B.Recent modifications of chitosan for adsorptionapplications:a critical and systematic review[J].Marine Drugs,2015,13(1):312-337.  \n[2]SUGANO M,FUJIKAWA T,HIRATSUJI Y,et al.Hypocholesterolemic effects of chitosan incholesterol fed rats[J].Nutrition Reports International,1978,18(5):531-537.  \n[3]刘静娜.壳聚糖降脂作用机理研究[D].博士学位论文.无锡:江南大学,2008.  \n[4]黄贵东.壳聚糖及相关产物降脂活性和机制研究[D].硕士学位论文.广州:广东药学院,2015.  \n[5]RAZDAN A,PETTERSSON D.Effect of chitin and chitosan on nutrient digestibility andplasmalipid concentrationsinbroilerchickens[J].BritishJournalofNutrition,1994,72(2):277-288.  \n[6]黎秋萍.不同分子质量壳聚糖硕对麒麟鸡脂质代谢的影响及其机理研究[D].硕士学位论文.湛江:广东海洋大学大学,2015.  \n[7]王润莲,常斌,杜柄旺,等.壳聚糖对肉仔鹅生产性能、养分代谢及血液生化指标的影响[J].中国草食动物,2008,28(2):25-27.  \n[8]李宗楠.壳聚糖对蛋种鸡营养物质代谢及肠道相关指标的影响[D].硕士学位论文.呼和浩特：内蒙古农业大学,2016.  \n[9]盛东峰,朱自学,武安泉.饲粮营养素对水禽腹脂沉积影响的研究[J].动物营养学报,2016,28(2):312-318.  \n[10]马小珍,杨烨,谢新东,等.壳聚糖对肉仔鸡(公鸡)生长性能和脂肪代谢的影响[J].福建农业大学学报,2001,16(4):30-34.  \n[11]刘海英,于淼,杨桂琴.壳聚糖对肉鸡生产性能、脂肪代谢的影响[J].饲料博览,2003(5):1-4.  \n[12] 黄冠庆,黄晓亮,王润莲.壳聚糖对黄羽肉鸡脂肪沉积的影响[J].饲料研究,2007(2):5-7.  \n[13] 胡忠泽,岳益佳,邱玮.壳聚糖对淮南麻鸡肉质的影响[J].饲料研究,2013(12):57-59,79.  \n[14]吕丹娜.不同脱乙酰度壳聚糖在肉仔鸡饲料中应用研究[D].硕士学位论文.哈尔滨:东北农业大学,2015.  \n[15]江国亮,潘文,王润莲,等.不同脱乙酰度的壳聚糖对肉鸡生长、胴体性能及脂质代谢的影响[J].广东农业科学,2014,41(14):106-109.  \n[16]赵萍.不同水平壳聚糖对天山雪鹅生产性能、脂肪沉积的影响[J].农村科技,2011(5):61-62.  \n[17]马建爽,常文环,张姝,等.甜菜碱对肉鸡生长性能、脂质代谢及肌肉风味品质的影响[J].动物营养学报,2015,27(1):185-195.  \n[18]杨正平,刘福柱,邓兴照,等.壳聚糖对肉仔鸡生长性能及血清生化指标的影响[J].中国畜牧兽医,2007,43(7):28-31.  \n[19]韩杰,于宁.壳聚糖对肉仔鸡生长性能和脂类代谢的影响[J].粮食与饲料工业,2007(2):31-32.  \n[20]赵颖,乔丽红,吴大伟,等.低聚壳聚糖对蛋鸡脂类代谢及鸡蛋品质的影响[J].粮食与饲料工业,2013,12(1):45-48.  \n[21]李忠荣,冯玉兰.壳聚糖对河田鸡脂肪沉积的影响[J].中国畜牧杂志,2010,46(3):39-41.  \n[22]刘梅.壳聚糖对肉仔鸡生长性能和免疫器官指数的影响[J].枣庄学院学报,2010,27(2):117-120.  \n[23]郑晓灵,黄冠庆,刘铀,等.壳聚糖对黄羽肉鸡早期生长性能与脂肪代谢的影响[J].饲料广角,2007(5):27-28,30.  \n[24]LI Q P, GOONERAENEB S R,WANG R L,et al.Effect of different molecular weight ofchitosans on performance and lipid metabolism in chicken[J].Animal Feed Science andTechnology,2016,211:174-180.  \n[25] NOGUEIRA C M,ZAPATA JF F,FUENTES M F F,et al.The effect of supplementing layerdiets with shark cartilage or chitosan on egg components and yolk lipids[J].British PoultryScience,2003,44(2):218-223.  \n[26]SWIATKIEWICZ S,ARCZEWSKA-WLOSEK A,KRAWCZYK J,et al.Effects of selectedfeed additives on the performance of laying hens given a diet rich in maize dried distiller'sgrains with solubles (DDGS)[J].British Poultry Science,2013,54(4):475-485.  \n[27]王敦,徐英男,翟少伟.虫源性壳聚糖对产蛋鸡生产性能及蛋品质的影响[J].中国家禽,2004,26(17):7-9.  \n[28]刘志友.日粮添加壳聚糖对蛋种鸡脂质代谢的影响及其机理研究[M].博士学位论文.呼和浩特:内蒙古农业大学,2016.  \n[29]杜炳旺,王润莲,常斌,等.壳聚糖对贵妃鸡肉品质的影响[J].动物营养学报,2009,21(1):113-117.  \n[30]ZHOU T X,CHEN Y J,YOO J S,et al.Effects of chitooligosaccharide supplementation onperformance,blood characteristics,relative organ weight and meat quality in broilerchickens[J].Poultry Science,2009,88(3):593-600.  \n[31] 王述柏,王宝维,张丽英,等.新型添加剂—一壳聚糖对肉鸡肌肉中胆固醇影响的研究[J].饲料研究,1998(5):9-10.  \n[32]王云霞.低壳聚糖对肉鸡生产性能和鸡肉品质的影响研究[J].饲料广角,2012(15):34-35,38.  \n[33]常斌,王润莲,黄晓亮,等.壳聚糖对肉鹅屠宰性能及肉品质的影响[J].中国草食动物,2008,28(3):23-25.  \n[34]夏党荣,赵洁.壳聚糖对天山雪鹅屠宰性能及肉品质的影响[J].中国饲料,2010(17):22-24.  \n[35]HELGASON T,GISLASON J,CLEMENTS D,et al.Influence of molecular character ofchitosan on the adsorption of chitosan to oil droplet interfaces in an in vitro digestionmodel[J].Food Hydrocolloids,2009,23(8):2243-2253.  \n[36]DIMZON IK D,EBERT J,KNEPPER T P.The interaction of chitosan and olive oil:Effectsofdegreeofdeacetylationanddegreeofpolymerization[J].CarbohydratePolymers,2013,92(1):564-570.  \n[37]黄建珍.胚胎期肉鸡肝脏脂类代谢关键因子的筛选及DHEA的调控研究[D].博士学位论文.南京:南京农业大学,2008.  \n[38]BALOGH O,STAUB L P,GRAM A,et al.Leptin in the canine uterus and placenta:Possibleimplications in pregnancy[J].Reproductive Biology and Endocrinology,2015,13(1):13.  \n[39] LIM S,QUON M J,KOH K K.Modulation of adiponectin as a potential therapeuticstrategy[J].Atherosclerosis,2014,233(2):721-728.  \n[40] 苗志国,李国旺,谢红兵,等.壳聚糖对豁眼鹅免疫机能的影响[J].中国饲料,2011(12):70-71.  \n[41] KHAMBUALAI O,YAMAUCHI K E,TANGTAWEEWIPAT S,et al.Effects of dietarychitosan diets on growth performance in broiler chickens[J].The Journal of PoultryScience,2008,45(3):206-209.  \n[42] PAN H T,YANG Q Y,HUANG G D,et al.Hypolipidemic effects of chitosan and itsderivatives in hyperlipidemic rats induced by a high-fat diet[J].Food & Nutrition Research2016,60:31137.  \n[43]赵启龙.壳聚糖对蛋种鸡产蛋性能、免疫和抗氧化功能及相关血清生化指标的影响[D].硕士学位论文.呼和浩特:内蒙古农业大学,2015.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Chitosan: Regulation of Lipid Metabolism in Poultry ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "SHENG Dongfeng1,² XU Lei'ZHAO Yue1YANG Haiming1 WANG Xinglong1\\* WANG Zhiyue1\\* ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1. College of Animal Science and Technology, Yangzhou University,Yangzhou 22509,China; 2. School of Life Science and Agronomy, Zhoukou Normal University, Zhoukou 466001, China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Chitosan is a kind of polyglucosamine, which widespread in nature. Studies have shown that chitosan has biological functions such as bacteriostasis,anti-inflammation,anti-oxidation, anti-tumor and immunological enhancement. This article reviewed the effects of chitosan into a diet on fat digestion, fat deposition, serum biochemical parameters and fat metabolism enzyme activity and its gene expression in poultry,and discussed the chitosan regulation of poultry lipid metabolism and its mechanism. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key word: chitosan; poultry; lipid metabolism; regulation ",
+        "page_idx": 7
+    }
+]

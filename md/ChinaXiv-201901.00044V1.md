@@ -1,0 +1,243 @@
+# 基于句子跨度的哈萨克语句法分析研究
+
+柴伟1,2.3，古丽拉·阿东别克1,2,3
+
+(1．新疆大学 信息科学与工程学院，乌鲁木齐 830046;2.新疆多语种信息技术实验室，乌鲁木齐 830046；3．国家语言资源监测与研究少数民族语言中心哈萨克和柯尔克孜语文基地，乌鲁木齐 830046)
+
+摘要：由于目前哈萨克语句法分析准确率较低并缺乏基于神经网络的哈萨克语句法分析的相关研究，针对哈萨克语短语结构的句法分析，使用基于移进-归约的方法，但采用在栈中存储句子跨度而不是部分树结构，从而在进行句法树解析时不需要对句法树进行二叉化。该研究在句子特征提取时使用双向LSTM对句子跨度特征进行提取，得到句子跨度在整个句子上下文中信息，再使用多层感知机对句法分析模型进行训练，最后在解码时使用动态规划选取最优句法分析结果；最终使得哈萨克语短语句法分析准确率达到了 $7 6 . 9 2 \%$ 。研究成果对哈萨克语句法分析准确率有了进一步的提高并为后续的哈萨克语机器翻译及语义分析奠定良好的基础。
+
+关键词：双向LSTM；句子跨度；动态规划 中图分类号：TP391 doi:10.3969/j.issn.1001-3695.2018.08.0632
+
+Research of kazakh parsing based on span
+
+Chai Wei1,2.3, Gulila Altenbek1,2.3 (1.Colegeof Information Science&Enginering, Xinjiang University, Urumqi 830046,China;2. Xinjiang Laboratoryof Multi-laguage Information Technology,Urumqi830046,China;3.The Baseof Kazakh& KirghizLanguageof National Language Resource Monitoring & Research Center on Minority Language, Urumqi 830o46, China)
+
+Abstract: Due to the lowaccuracy of Kazakh parsing and the lack of correlation research based on neural network Kazakh parsing.This paper focused on the parsing of Kazakh phrase structure,based ontheshift-reduce method,butbythe stack elements were sentence spans ratherthan partial tree,then it didn't need tocarryout the binarytreein parsing.It also used the bi-directional LSTM to extract the features of sentence span,and obtained thesentence span inthe whole sentence context,using the multilayer perceptron to train the parsing model.In theend,the Kazakh parsing accuracy has been achieved $7 6 . 9 2 \%$ .The research results have improved the accuracy of Kazakh parsing and build a good foundation for Kazakh machine translation and semantic analysis.
+
+Keywords:Bi-LSTM; span; dynamic oracle
+
+# 0 引言
+
+句法分析是根据给定的语法体系，自动推导出句子的语法结构，分析句子所包含的语法单元和这些语法单元之间的关系，将句子转换为一棵结构化的语法树[1]。句法分析可为更深层次的机器翻译、语义角色标注等提供良好的基础，是自然语言处理中起承上启下的重要作用的一个研究环节。
+
+在句法分析研究中，基于规则的方法进行句法分析研究时，规则由语言学家进行提炼，例如Collins、Hallet等人[2.3]使用上下文无关文法产生的规则或根据产生的规则对句子进行打分，生成短语句法树。在基于统计的句法分析研究中，例如：Charniak4提出了单纯的PCFG的句法分析方法，并在此基础上又提出了基于词汇化的PCFG句法分析方法。目前，使用神经网络的方法对句法分析准确率有较大提高，语法规则在句法分析中的重要性降低。例如Dyer、Sterm[5.6]等人使用编码一解码模型，编码主要是将句子读入并表示为向量，解码是使用这些向量生成标记好的句法树。
+
+哈萨克语的自然语言处理目前已经进行了短语结构的句法分析研究，文献[7]利用PCFG方法，并将Viterbi算法加入解码模块，实现了有自学习能力的哈萨克语短语句法分析器。文献[8]将概率上下文无关文法模型和Chart 算法结合，实现了基于PChart算法的哈萨克语短语句法分析器；文献[9]中使用PCFG与感知机结合进行重排序，实现了由粗到精的哈萨克语短语句法分析等。
+
+虽然哈萨克语句法分析已在基于规则和统计的方法上进行了一定的研究，但随着神经网络技术的发展，对于句子序列预测的模型越来越多，准确率也越来越高，面临此类技术应用到哈萨克语句法分析中问题。本文在基于移进一归约系统基础上，将栈中存储的部分树结构改为存储句子跨度，使用双向LSTM获取句子跨度的上下文特征。双向LSTM获取的是句子级别的信息，得到句子跨度在整个句子上下文中信息。同时也将动态规划方法应用在哈萨克语句法分析中，使得在句法分析解码时不需要重排序就可取得句法分析的最好的结果。句子跨度相较于部分树结构的优势主要是：句子跨度表示句子的一个片段对应的子树，核心词必须位于段首或段尾，因此减少了解码时的搜索空间，使搜索空间复杂度降低。
+
+本文的主要贡献有：a)将神经网络应用在哈萨克语句法分析中，并取得了良好的效果；b）进行哈萨克语短语句法分析时将句子跨度作为移进一归约方法中栈中存储的基本单位；c）使用双向LSTM神经网络获取句子上下文信息；d)使用动态规划使得句法分析解码时不需要重排序就可得到最好的句法分析结果。
+
+# 1 哈萨克语句法分析系统
+
+哈萨克语属阿尔泰语系中的突厥语族，是黏着语，根据哈萨克语自身的特点目前划分了哈萨克语二级词组标注5个基本短语和10个一级词性标注[8]。
+
+在文献[10,11]中提出了一种句法分析的新方法，主要依赖于从句子表面跨度直接提取信息，而不是通过丰富的语法结构来获得信息。短语结构的句法树可以被看做是一个句子中有标记的跨度的集合。以此为指导原则，本文提出了一个模型，它由两个部分组成，一个部分给句子跨度标签分配打分，另一个部分直接对句子跨度是否存在进行打分。前者用于确定输出的标记，后者提供输出的句子跨度结构。这两部分核心问题是句子跨度的表示问题。由于一个句子跨度的正确标记在很大程度上取决于它出现的上下文，所以将这一特点与神经网络联系起来，神经网络已经被证明能够获得适合于各种自然语言的上下文信息。
+
+在整个句法分析的过程中，是以基于移进-归约的方法作为基本模型，主要涉及到两种数据结构：输入队列和分析栈。其中 $\sigma$ 表示分析栈，其中在栈中存储的是自下而上进行句法分析的句子短语对应的句子跨度；z为句法分析动作数，记录移进-归约句法分析的步骤数；i，j为栈中待分析元素；X为一元链或者非终端节点，只有一次标记动作的选择，所以对于 $\mathbf { \eta } _ { \mathrm { ~ n ~ } }$ 个单词组成的句子只需要（4n-2）个步骤就可以完成句法分析；t表示句子跨度的集合，在句法树解析完成时，存放整个句法树。句法解析过程中主要有四种动作：
+
+a）移进（shift)。将队列中的<词，词性>压入栈中；
+
+$$
+\frac { z , \sigma | j , t } { z + 1 , \sigma | j | j + 1 , t } , j < n , e \nu e n z
+$$
+
+b）归约(comb)。结合栈顶的两个句子跨度。
+
+$$
+\frac { z , \sigma | i | k | j , t } { z + 1 , \sigma | i | j , t } \quad , \qquad e \nu e n z
+$$
+
+c）标记栈顶(label-X)。
+
+$$
+\frac { z , \sigma | i | j , t } { z + 1 , \sigma | i | j , t \cup \{ i X _ { j } \} } , \qquad o d d \ z
+$$
+
+d）不进行标记(nolabel)。
+
+$$
+\frac { z , \sigma | i | j , t } { z + 1 , \sigma | i | j , t } , \ : \ : z < ( 4 n - 1 ) \ : \ : \ : o d d \ : z
+$$
+
+以上四种动作的形式化表示中，横线上方表示当前“焦点词”状态，横线下方表示执行相应分析动作之后的结果。前两种称为结构动作，后两种称为短语标记动作。短语标记动作主要是将栈中一个或更多的非终端节点的句子跨度转换成部分树结构。
+
+以上的方法与文献[12]所提出的奇偶句法分析方法相似，但由于在栈中存储的不是部分树结构，在训练和句法树解析时都不需要进行二叉化。例如，给出一个句子：
+
+$$
+\Delta A B C \cong \Delta B C ( A E C ) = \Delta B C D ( S A C ) ( S A C ) ( S A S )
+$$
+
+图1为此句子的标准句法树，定义 $i \Delta j$ 表示句子跨度(i，$j )$ ，如表1所示，步骤1-2进行移进动作，由于不是一个短语，就不进行标记(nolabel)；步骤5-6，栈顶的两个句子跨度可以组成短语，那么就进行归约动作，并进行短语标记(label-VP)，其他步骤类似。以上只是使用静态解码方法生成“短堆栈”式的句法树，意味着移进和规约动作都可以产
+
+生时，总是归约优先。
+
+![](images/04eccce6483f5750c25dd24c4cbbcae4c1f65ae6a24a04a81cddca8304d6ad2a.jpg)  
+图1哈萨克语标准句法树Fig.1Kazakh gold parse tree表1静态解码动作
+
+Table 1 Static decode actions   
+
+<html><body><table><tr><td>步数</td><td>结构动作</td><td>标记动作</td><td>栈</td><td>括号</td></tr><tr><td>1-2</td><td>shift(j/pron)</td><td>nolabel</td><td></td><td rowspan="6">0VP2</td></tr><tr><td>3-4</td><td>shift(/adv)</td><td>nolabel</td><td>02</td></tr><tr><td>5-6</td><td>comb</td><td>label-VP</td><td></td></tr><tr><td>7-8</td><td>shift(o4,§ /n)</td><td>nolabel</td><td></td></tr><tr><td>9-10</td><td>shift(§ /v)</td><td>nolabel</td><td>020304</td></tr><tr><td>11-12</td><td>shift(ewas /v)</td><td>nolabel</td><td>0d2A3△4A5</td></tr><tr><td>13-14</td><td>comb</td><td>label-VP</td><td>023点5</td><td>3VP5</td></tr><tr><td>15-16</td><td>comb</td><td>label-NP</td><td></td><td>2NP5</td></tr><tr><td>17-18</td><td>comb</td><td>label-S</td><td>5</td><td>oS5</td></tr></table></body></html>
+
+句法分析的输入是词和词性的向量，词性是事先标注好的作为句法分析的输入。词向量的初始化可以是随机初始化或是使用大规模语料库事先训练好。在本文中使用随机初始化词向量。采用的神经网络结构如图2所示：在使用2层的双向LSTM获得句子跨度特征后，使用多层感知机进行训练，将每个单词通过d维向量表示 ${ e } _ { i } ^ { w } \in \pmb { R } ^ { d }$ ；同样，将词性也用d维向量表示 $e _ { i } ^ { l } \in \pmb { R } ^ { d }$ 。将 $\boldsymbol { x } ^ { w } = [ e _ { w 1 } ^ { w } e _ { w 2 } ^ { w } \cdots e _ { w _ { n _ { w } } } ^ { w } ]$ 以及 $x ^ { l } = [ e _ { w _ { 1 } } ^ { l } e _ { w _ { 2 } } ^ { l } \ldots e _ { w _ { n _ { w } } } ^ { l } ]$ 作为输入，通过ReLU线性激活函数将输入单词和词性数据分别映射到隐藏层，其中 $W _ { 1 } ^ { s } \in R ^ { d _ { h } \times ( d \cdot n _ { w } ) }$ ， $W _ { 1 } ^ { l } \in { \pmb R } ^ { d _ { h } \times ( d \cdot n _ { l } ) }$ ; $b _ { 1 } ^ { s }$ ， $b _ { \mathbf { l } } ^ { l } \in \pmb { R } ^ { d _ { h } }$ 是偏置项。
+
+$$
+h _ { _ { S } } = \operatorname* { m a x } \{ 0 , W _ { 1 } ^ { s } x ^ { w } + b _ { 1 } ^ { s } \}
+$$
+
+$$
+h _ { l } = \operatorname* { m a x } \{ 0 , W _ { 1 } ^ { l } x ^ { l } + b _ { 1 } ^ { l } \}
+$$
+
+在隐藏层最上面添加一个softmax 层计算多类概率，得出最后的标记结果的最大概率，其中 $W _ { 2 } ^ { s } \in R ^ { 2 \times d _ { h } }$ ， $W _ { 2 } ^ { l } \in R ^ { | L | \times d _ { h } }$ ，$| L |$ 为句子短语标记的数量。
+
+$$
+p _ { _ { S } } = \operatorname { s o f t m a x } ( W _ { 2 } ^ { S } h _ { _ { S } } )
+$$
+
+$$
+p _ { l } = \operatorname { s o f t m a x } ( W _ { 2 } ^ { l } h _ { l } )
+$$
+
+# 2 句子跨度特征提取
+
+在文献[13]中提出了使用一层的双向LSTM可以表示词在句子在中上下文中的位置信息；2层的双向LSTM可以更进一步提高句法分析性能,并将两层位置特征表示的输出，成为全连接层的输入。本文使用2层双向LSTM来获得一个输入 $i$ 在前向 $f _ { i }$ 和后向 $b _ { i }$ 编码后的上下文信息，句子跨度 $( i , j )$
+
+的表示是通过计算向量 $f _ { j } - f _ { i }$ 和向量 $b _ { i } - b _ { j }$ 的不同，并与移进-归约系统结合进行句法分析。如图3所示，句子跨度345是通过计算向量 $( f _ { 5 } - f _ { 3 } )$ 和向量 $( b _ { 3 } - b _ { 5 } )$ 在这个模型中，句子输入一次，就可以将相同的循环输出用来计算句子跨度特征贯穿于整个句法分析的过程。
+
+![](images/82c8c9c0e7774c01e11680c90be37591b6b11d15437f64e615f308b2799f7bc8.jpg)  
+图2哈萨克语句法分析神经网络结构图
+
+![](images/0e0218757d97b302725ff5b53490b9cc5c02343775bed2de42cefdbcac3dbdc5.jpg)  
+Fig.2Neural network architecture of Kazakh parsing system   
+图3LSTM获取句子跨度特征   
+Fig.3Word spans are model by differences in LSTM
+
+当进行句法分析考虑到结构动作时，需要考虑是否将栈顶的两个句子跨度进行合并；在考虑标记动作时栈顶的句子跨度是动作标记的一个重要的候选。因此，使用4个句子跨度特征决定结构动作，3个句子跨度特征决定短语标记动作，这样就可以精确划分句子，在这两种情况下同时也要考虑剩余自己的前缀和后缀。特征模板如表2所示。
+
+表2句子跨度特征模板  
+Table 2Span feature templete   
+
+<html><body><table><tr><td>动作</td><td>栈</td><td>句子跨度特征</td></tr><tr><td>结构动作</td><td>σli|k|j</td><td>Oi△k△jon</td></tr><tr><td>标记动作</td><td>glilj</td><td>O0i△jon</td></tr></table></body></html>
+
+# 3 动态规划
+
+在文献[14\~16]中已经使用并证明了动态规划在标记跨度上的最优性。动态规划对于标记的决策主要有两种：
+
+a)如果分配给句子跨度的标记是标准句法树的一部分，那么就是正确的句子跨度的标记。
+
+b)如果是其他情况那么标记就为空。
+
+动态规划在结构方面主要对句法树的分支点进行决策，如果句子跨度 $( i , j )$ 在标准句法树中出现，那么 $\mathsf { b } ( i , j )$ 表示当前句子跨度的内部边界点，例如句子跨度(1,8)有子跨度(1,3)
+
+(3,5)(5,8)，那就有两个内部边界点 $\mathsf { b } ( 1 , 8 ) = \{ 3 , 5 \}$ ，那么动态规划的作用就是将句子跨度与标准句法树一致的进行精确输出。如果句子跨度 $( i , j )$ 与标准句法树不对应，就要识别与标准句法树相似的最小的句子跨度。
+
+$$
+( i ^ { * } , j ^ { * } ) = \operatorname* { m i n } \{ ( i ^ { * } , j ^ { * } ) \in T : i ^ { * } < i < j < j ^ { * } \}
+$$
+
+其中最小值取决于由跨度长度引起的偏序。然后动态规划的输出就是这个包围跨度的内部边界点的集合，它也位于原始的内部边界点, $\{ k \in b ( i ^ { * } , j ^ { * } ) : i < k < j \}$ ：
+
+# 4 实验
+
+# 4.1实验数据及评价指标
+
+本文实验数据来自是《新疆日报》（哈萨克文版)，所使用的语料都是经过人工标注和校对，并将所有语料按照8：1：1的比例分配为训练集、验证集以及测试集。
+
+实验原始数据格式为
+
+# j ij  e
+
+实验测试结果数据格式为
+
+(TOP(VP(pron jss）（adv osuyj)）(NP （nioiLj）(VP (v ysij）（v Luos)）（..))
+
+在本实验中，按照PARSEVAL的句法评测标准主要计算标记准确率（precision），标记召回率（recall）， $\_ F _ { - }$ 值（ $F _ { 1 }$ -measure）来衡量句法分析结果的好坏。评价函数的定义如下所示：
+
+准确率 召回率
+
+$F$ 值
+
+$$
+F _ { 1 } = ( \frac { 2 { \times } L P { \times } L R } { L P { + } L R } ) { \times } 1 0 0 \%
+$$
+
+# 4.2实验环境
+
+本实验使用 python 语言进行程序设计，其中，使用的LSTM神经网络模型来源于DyNet神经网络工具包[17]。DyNet是由Google以及卡内基梅隆等多所大学共同开发，是一种为自然语言处理提供动态神经网络的工具包，包含RNN，CNN以及LSTM等常用神经网络模型。
+
+实验的硬件环境为32GBRAM，使用GPU为NVIDIAGeForceGTX1080Ti，操作系统为64位Ubuntu16.04。
+
+# 4.3实验结果及分析
+
+本文提出的哈萨克语句法分析模型中，对句法分析效果影响较大的因素为词向量特征以及句子长度。本文将设计以下实验进行测试。
+
+# 4.3.1LSTM提取特征对句法分析准确率影响
+
+使用Bi-LSTM对句子特征进行提取时，其隐层节点数量会影响到句子特征提取的质量。为了考察Bi-LSTM隐层节点数量对哈萨克语句法分析性能影响，通过改变Bi-LSTM隐层节点数量进行实验，隐层数量设置为50、70、100、120、150、200，得到结果如图4所示。
+
+从实验结果可以得出以下结论：a）隐层数量的大小会影响对特征的提取，进一步会影响句法分析的效果；b）隐层数量大小增加到120后，继续增加隐层数量对于句法分析效果的提升并不明显，所以在后续实验中设置隐层大小为120。4.3.2句子长度对句法分析准确率影响
+
+在句法分析中句子长度往往也会对句法分析效果产生影响，将实验语料中句子长度按照词的数量分为1-5，6-15，15个词以上进行实验，实验结果如表3所示。
+
+![](images/bac1e5173e13bd71fd363612af18ae75f9294b90e4adbce972d3ed9d609f36f7.jpg)  
+图4不同隐层大小句法分析结果  
+Fig.4Parsing results of different hidden layer sizes
+
+Table 3Parsing results for different sentence lengths   
+
+<html><body><table><tr><td>句子长度</td><td>P/%</td><td>R/%</td><td>F/%</td></tr><tr><td>1-5</td><td>79.7</td><td>78.5</td><td>79.1</td></tr><tr><td>6-15</td><td>77.6</td><td>75.8</td><td>76.7</td></tr><tr><td>>15</td><td>73.4</td><td>71.8</td><td>72.6</td></tr></table></body></html>
+
+根据实验结果可以看出句子长度对句法分析性能有较大影响，短句子的句法分析效果相较于长句子的效果较好，主要原因是短句子中短语的嵌套较少，句法树结构较为简单，因此句法分析效果较好。
+
+# 4.3.3句法分析器性能比较
+
+为了比较本文提出的句法分析模型性能，与目前已有的哈萨克语句法分析模型进行了对比。本文提出句法分析模型的神经网络结构相关参数设置如表4所示。
+
+表3不同句子长度句法分析结果  
+
+<html><body><table><tr><td colspan="2">神经网络结构</td></tr><tr><td>词向量维度</td><td>50</td></tr><tr><td>词性向量维度</td><td>20</td></tr><tr><td>LSTM层数</td><td>2</td></tr><tr><td>LSTM隐层维度（每个方向）</td><td>120</td></tr><tr><td>ReLU隐藏层单元个数（每个动作）</td><td>120</td></tr></table></body></html>
+
+训练参数设置如表5所示。
+
+Table 4Neural network structure parameters   
+表5训练参数设置  
+Table 5Hyperparameters   
+
+<html><body><table><tr><td colspan="2">训练参数设置</td></tr><tr><td>向量初始化</td><td>随机初始化</td></tr><tr><td>迭代次数</td><td>10</td></tr><tr><td>梯度下降速率</td><td>p=0.5</td></tr><tr><td>自适应学习率</td><td>p= 0.99 ε=1×10-7</td></tr></table></body></html>
+
+按照表4、5的参数设置，将训练出的句法分析模型进行测试，所得的结果与文献[7\~9]提及的句法分析结果进行了对比如表6所示，
+
+表4神经网络结构参数  
+表6不同句法分析器结果比较  
+Table 6Comparison of performance of different parser on   
+
+<html><body><table><tr><td colspan="4">Kazakh test set</td></tr><tr><td>模型</td><td>P/%</td><td>R/%</td><td>F/%</td></tr><tr><td>文献[7]方法</td><td>68.34</td><td>67.47</td><td>67.90</td></tr><tr><td>文献[8]方法</td><td>70.27</td><td>69.39</td><td>69.83</td></tr><tr><td>文献[9]方法</td><td>71.4</td><td>69.6</td><td>70.5</td></tr><tr><td>动态规划</td><td>76.9</td><td>74.8</td><td>75.8</td></tr></table></body></html>
+
+通过表6不同方法实验结果分析，基于句子跨度的哈萨
+
+克语短语句法分析与动态规划结合对哈萨克语短语句法分析结果有了进一步提升，相比与PCFG方法、PChart、PCFG与感知机结合准确率分别提高了 $8 . 5 6 \%$ 、 $6 . 6 3 \%$ 、 $5 . 5 \%$ 。使用双向LSTM对句子跨度特征的提取在哈萨克语短语句法分析中起到了良好的效果。
+
+# 5 结束语
+
+本文研究了基于句子跨度的哈萨克语短语句法分析，相比于以往使用固定的特征模板获取句子上下文信息特征，使用了双向LSTM来获取句子跨度的上下文信息特征，在句法分析的准确率上有了一定的提高，并且将动态规划技术加入了哈萨克语短语句法分析上，取得了良好的效果。在将来的哈萨克语短语句法分析上，进一步增加训练语料的数量，采用不同的神经网络进行对比研究，进一步提高哈萨克语短语句法分析的准确率。
+
+# 参考文献：
+
+[1]Allen JF. Natural Language Understanding [M]//Natural Language Understanding.[S.l.]:Benjamin Cummings Pub.Co.,1995: 617-626.   
+[2] Colins M. Three generative,lexicalised models for statistical parsing [C]//Proc of the 35th Annual Meeting of the Association for Computational Linguistics and the 8th Conference of the European Chapter of the Association for Computational Linguistics. Stroudsburg, PA:Association for Computational Linguistics,1997:16-23.   
+[3]Hall D,Durrett G,Dan K.Less Grammar,More Features [C]//Proc of Meeting of the Association for Computational Linguistics.Stroudsburg, PA:Association for Computational Linguistics,2014: 228-237.   
+[4] Charniak E. Statistical parsing with a context-free grammar and word statistics [Cl/Proc of the 14th National Conference on Artificial Intelligence and the 9th Conference on Innovative Applications of Artificial Intelligence.AAAI Press,1997: 598-603.   
+[5]Dyer C,Kuncoro A,Ballesteros M,et al.Recurrent neural network grammars[C]//Proc of Conference of the North American Chapter of the Associationfor Computational Linguistics:Human Language Technologies.2016: 199-209.   
+[6]Stern M,Andreas J,Dan K.A minimal span-based neural constituency parser [C]//Proc of Meeting of the Association for Computational Linguistics.Stroudsburg，PA:AssociationforComputational Linguistics, 2017: 818-827.   
+[7] 尚文清，古丽拉·阿东别克，牛娜等．基于PCFG模型的哈萨克语句 法分析[J]．现代计算机，2015(5)：7-10.(Shang Wenqing，Gulila ALTENBEK,Niu Na et al. Syntactic Analysis of Kazakh Language Based on PCFG Model[J].Modern Computer,2015(5): 7-10.）   
+[8] 尚文清，古丽拉·阿东别克，牛娜等．基于PChart算法的哈萨克语句 法分析[J].计算机工程与设计,2016,37(3):832-836.(Shang Wenqing, Gulila Altenbek,Niu Na et al. Kazakh syntactic analysis based on probabilistic Chart algorithm [J]. Computer Engineering and Design, 2016,37(3):832-836.)   
+[9] 梁金莲，古丽拉·阿东别克．由粗到精的哈萨克语短语结构句法分析 研究[J].中文信息学报，2018,32(1):83-88.(Liang Jinlian，Gulila Altenbek.A coarse-to-fine Kazakh PSG parse [J]. Journal of Chinese Information Processing,2018,32(1): 83-88.)   
+[10] Hall D,Durrett G,Dan K.Less grammar,more features [C]//Proc of Meeting of the Association for Computational Linguistics.Stroudsburg, PA:Association for Computational Linguistics,20o3: 228-237.   
+[11] Cross J，Huang L. Span-based constituencyparsing witha structure-label system and provably optimal dynamic oracles[C]//Proc of Conference on Empirical Methods in Natural Language Processing. 2016: 1-11.   
+[12] Chen D,Manning C D.A fast and accurate dependency parser using neural networks [C]//Proc of Conference on Empirical Methods in Natural Language Processing.2014: 740-750.   
+[13] Cross J, Huang Liang. Incremental parsing with minimal features using bi-directionalLSTM[EB/OL].(2016-08-07).https://www.aclweb.org/ anthology/P/P16/P16-2006.pdf.   
+[14] Mi Haitao,Huang Liang. Shift-reduce constituency parsing with dynamic programming and POS tag lattice [C]//Proc of Conference of the North American Chapter of the Association for Computational Linguistics:Human Language Technologies.2015:1030-1035.   
+[15] GoldbergY,NivreJ.Trainingdeterministicparserswith non-deterministic oracles [EB/OL].(2013-10-12). http://clweb.org/ anthology/Q/Q13/Q13-1033.pdf.   
+[16]BallesterosM,Goldberg Y,Dyer C,et al.Training with exploration improvesagreedystack-LSTMparser[C].(2016-10-27). http://www.aclweb.org/anthology/D/D16/D16-1211.pdf.   
+[17] Neubig G,Dyer C,Goldberg Y,et al.DyNet: the dynamic neural network toolkit [EB/OL]. (2017-01-15). https://arxiv.org/ pdf/1701.03980.pdf.

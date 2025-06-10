@@ -1,0 +1,343 @@
+[
+    {
+        "type": "text",
+        "text": "直喷喷雾-环境气体两相流场的实验研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张铭，许敏\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（上海交通大学机械与动力工程学院，汽车电子控制技术国家工程实验室，中国·上海，200240）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "通讯作者：Tel:021-34206670 E-mail: jimmy.change@gmail.com, mxu@sjtu.edu.cn摘要：本文基于自行开发的高速双色粒子图像测试技术（High-speed two-color PIV）实现了直喷喷雾及其环境气体两相流场的同步测试，解明了某八孔直喷喷油器在不同过热度下喷雾油束与环境气体相互作用和干涉的过程。实验结果表明：随着过热度的提高，喷雾油束的膨胀及粒径的减小导致燃油油束对环境气体的动量传递增大；而环境气体的卷吸又对燃油喷雾产生了反作用力。此外在不同过热度及喷射阶段，燃油喷射惯性力与环境气体作用力间复杂的博弈关系也得到了初步的解释。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：气体卷吸；高速双色PIV；闪沸喷雾；过热度；两相流",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Experimental Study on GDI Fuel Spray-Ambient Gas Two-phase Flow ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Ming, XU Min ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(SchoolfMechacalEginering,ShnghaiJiaoTongUiversityatioalEngineringLboratoryofElectronicContrololog ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Shanghai,200240, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In this work,a new optical diagnostic technique (high-speed two-color PIV) was developed and applied to simultaneously measure the flow-fields of a multi-hole GDI fuel spray and its ambient gas.The interaction process between the fuel spray and ambient gas was investigated under various superheated conditions based on this technique.The results showed that on one hand the momentum transfer from the fuel spray to the surrounding ambient gas was enhanced with the superheat degree due to the expanded two-phase interaction area and decreased spray droplet-size. On the other hand the reaction of the ambient gas motion on the fuel spray was observed. The complicated relationship between the spray injection inertia force and the aerodynamic force was provided with a preliminary explanation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Air entrainment; high-speed two-color PIV; flash-boiling spray; superheated degree; two-phase flow ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0.前言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "相对于传统的进气道喷射技术（PFI）而言，燃油缸内直喷技术由于其精确的燃油喷射量控制、优化的冲程稳定性以及更高的压缩比等能够有效地提高发动机的性能[1]。然而，在缸内直喷模式下，混合气形成的时间十分有限，因而该技术对燃油雾化、与周围环境气体混合及蒸发过程也提出了更高的要求。缸内混合气的形成过程是在燃油喷射后与缸内的环境气体相互作用下（质量交换、能量交换等）进行的。因此，了解燃油与环境气体的相互作用对于改善混合气形成及提升发动机性能十分重要，也有助于改进发动机喷雾、燃烧系统的设计。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在国内，缸内直喷技术的研发及推广还处于起步阶段。在其燃烧系统开发过程中容易遇到活塞结碳、机油稀释、不稳定燃烧、颗粒排放等问题[1,2]。而闪急沸腾喷雾的引入有望解决上述技术难题。闪沸喷雾是由于液体燃料所处的环境压力瞬间降至饱和蒸汽压以下而发生的燃油喷雾剧烈相变的过程[3]。这一过程伴随着喷雾液柱里气泡的大量生成、剧烈膨胀以及快速破碎，能够有效减小单油束喷雾的燃油液相贯穿距，促进液体燃油的破碎、雾化、蒸发及缸内混合气形成过程[4-9]，提高缸内直喷汽油机的着火稳定性，减小燃烧的循环变动。此外，闪沸喷雾能够降低燃油喷雾对高喷射压力的依赖性，使得低成本的缸内直喷汽油机开发成为可能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文主要基于粒子图像测速技术（PIV）研究燃油过热度对喷雾速度场及其环境气体流场的影响，揭示不同过热度下燃油喷雾及环境气体的相互作用特征。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PIV已经被广泛地运用于发动机缸内流场、喷雾周围环境气体流场等的测试研究工作。例如Rhim等人[10]使用粒径为 $1 \\mu \\mathrm { m }$ 的固体颗粒作为环境气体的示踪粒子测试了柴油机喷雾油束环境气体的流场分布。然而这种技术无法对示踪粒子和燃油液滴的信号进行区分，并且由于喷雾油束周围强烈的散射光覆盖住了示踪粒子的光信号，导致喷雾油束边界区域的气体流场信息难以获取。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "相比而言，基于激光诱导荧光（LaserInducedFluorescent，LIF）的PIV技术（也即LIF-PIV技术）可以实现气液两相的区分。LIF-PIV技术通过在环境气体中添加荧光示踪粒子，用适当波长的激光激发荧光示踪粒子使之发出荧光，然后再利用安装了相应荧光滤镜的相机对示踪粒子进行成像，避免了喷雾散射光信号对环境气体流场测试的影响。比较典型的应用有：Towers 等人[1] 基于上述方法采用激光散射光波长标记了燃油相，同时用荧光示踪粒子的荧光信号标记了环境气体相，实现了两相流动的同场测速；Kosiwczuk等人[12]分别往环境气体和燃油添加了不同的荧光物质，利用不同波段的荧光信号进行气液两相的区分及两相流场的测量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上述LIF-PIV技术虽然能够实现两相区分及流场测试，但是往往需要两个不同的入射激光波长作为光源，对硬件要求较高，也使得光路布置更加复杂。通过采用新型的环境气体示踪方案，Lee 等人[13]采用单个激光器实现了更加简易的两相流场测试。他们以罗丹明B水溶液颗粒作为环境气体的示踪粒子，在 $5 3 2 \\mathrm { n m \\ N d { : } Y A G }$ 激光的激发下这一荧光示踪粒子能够发出波段为 $5 7 0 \\mathrm { - } 6 2 9 \\mathrm { n m }$ 的荧光以标记环境气体运动，而散射光信号用于标记燃油相信号。通过两台相机分别对两相信号进行采集，喷雾油束和示踪粒子流场的同步测试便得以实现[14]。但该技术由于单个激光器的硬件限制只能对两相流动选用同一个帧间间隔(dt)，因而无法兼顾喷雾流场和环境气体流场各自所需的最优动态响应要求。此外，上述两相流动PIV测试技术多为低速瞬态测试技术，不太适用于高度瞬变的直喷喷雾流动特性的研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文中，作者拟提出适用于气液两相速度场同场测试的高速双色PIV技术，为直喷喷雾等两相流甚至多相流的实验研究提供一种新的测试方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1．高速双色PIV测试原理及测试工况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1高速双色PIV测试原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图1为高速双色PIV的测试台架及示踪粒子的荧光光谱特性。实验所采用光源为高速Nd:YLF激光器（Litron，波长： $5 2 7 \\mathrm { n m }$ ，光脉冲宽度：170ns，脉冲能量： $2 3 . 0 9 \\mathrm { m J } \\ @ 1 ~ \\mathrm { K H z } )$ ，经过一系列镜片组形成厚度约为 $1 \\mathrm { m m }$ 的片状激光。实验所采用的Phantom高速相机能在双帧全画幅（ $1 2 8 0 \\times 8 0 0$ 像素）模式下达到 $6 3 5 0 \\mathrm { H z }$ 的采集频率。为了实现单个相机对两相的同时测量，本实验在相机前加装了一个图像分离器。图像分离器能够将相机芯片分成两块相互独立的子区域对相同空间区域进行成像：其中一个光学通道（以下称为“液相通道”）安装可透过散射光波长的带通滤光片用于接收来自喷雾油束的散射光信号，另一个光学通道（以下称为“气相通道\"）安装长通滤光片用于接收来自荧光示踪粒子的荧光信号。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/27b92da86f6348087e95d4a8c54b2c53619e7119c4e1659e7e0f42b3d993a912.jpg",
+        "img_caption": [
+            "图1高速双色PIV的实验测试原理"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b58d330f892e94782e36bab179aa395412e4f64d5c9b64fb05e72dd06f183920.jpg",
+        "img_caption": [
+            "Fig.1 The principal of high-speed two-color PIV ",
+            "图2本文高速双色PIV测试实验的时序策略图",
+            "Fig.2 Timing program for high-speed two-color PIV in this work "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于燃油喷射过程中气液两相的速度量级相差较大。这一测试方法通过引入两个帧间时差以解决这一问题，如图2所示。本文定义高速激光器同一次曝光的前后两个脉冲之间的帧间时差称为dt1（数个微秒)，用于关联对应的喷雾图片以进行喷雾油束快速运动的流场测速；此外定义高速激光器前后两次曝光之间的的帧间时差称为dt2（数百微秒)，用于关联对应的示踪粒子图片，以进行环境气体相对较慢的流场测速。本研究选取激光频率为 $5 0 0 0 \\mathrm { H z }$ 以同时兼顾示踪粒子荧光强度和时间分辨率的要求。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在示踪粒子的选取问题上：一方面示踪粒子直径需要尽可能小以保证它们对环境气体的跟随性；另一方面根据 Domann 的研究成果[15]，它们又必须足够大以保证足够的荧光强度。基于Basset提出的Basset-Boussinesq-Oseen方程以及后续Meilling等人[1的进一步研究工作，Stokes 数（ $\\pmb { S } _ { \\mathbf { k } }$ ）被认为是评价细微颗粒（示踪粒子）能否准确跟随环境气体运动的有效指标。本文示踪粒子的索特平均粒径（SMD）经相位多普勒干涉仪（PDI）测试为 $4 . 8 \\mu \\mathrm { m }$ （样本点数为10000个），对应的 Stokes 数小于0.1。由Samimy 等人[17]及Crowe 等人[18]的研究结果，这一数值完全满足示踪粒子对环境气体的跟随性要求。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2测试工况 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验燃油为光谱纯级别的正戊烷，测试工况如表1所示。待测喷油器安装在压力容器顶部，由高压蓄能器提供稳定的喷射压力，并由一恒温水浴进行燃油温度的精确控制。在每次燃油喷射之前，将荧光示踪粒子充入到容器内，充满静置后开始测试。本文对各测试工况分别进行20次测试以保证结果的稳定性。燃油过热度（Superheat degree,SD）定义为燃油油温与沸点之差，如文献[7所述。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/78bfa2d6188e80bd5f43cc12af347d72c76da85f233055be632d9056586e761a.jpg",
+        "table_caption": [
+            "表1测试工况 Table 1 Testing conditions "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>内容</td><td>参数</td></tr><tr><td>测试燃油</td><td>正戊烷 (99%，沸点36.1℃)</td></tr><tr><td>喷射压力 (MPa)</td><td>5.0</td></tr><tr><td>环境温度 (C)</td><td>25±1</td></tr><tr><td>燃油温度 (C)</td><td>25~90</td></tr><tr><td>环境压力 (kPa)</td><td>100</td></tr><tr><td>喷射脉宽 (μs)</td><td>1000</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.结果与讨论 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "示例实验结果如图3所示（喷射压力5MPa，环境压力 $1 0 0 \\mathrm { { k P a } }$ ，燃油温度 $2 5 ^ { \\mathrm { { \\circ } } } \\mathrm { C } \\mathrm { \\cdot }$ ：相机的液相通道可以对喷雾油束的散射光进行成像，相机的气相通道则能捕捉荧光示踪粒子发出的荧光信号而滤除燃油油束的散射光信号。利用常规的PIV算法根据上述优化的时序控制策略（图2）即可分别准确计算出喷雾油束和环境气体的流场分布。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7050cbb2006b198e7301ca11137bcd48444249c59e1f5f2fc740d698f98ab900.jpg",
+        "img_caption": [
+            "图3同一次燃油喷射的喷雾(左)及其荧光示踪粒子信号(右) Fig.3 The spray signal (left) and the seeding particle signal (right) of the same injection ",
+            "图4不同燃油过热度下八孔喷油器的喷雾形态变化 Fig.4 Spray structures under various superheat degrees "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1不同过热度下的燃油喷雾形态及两相流场特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如图4所示，以拍摄时刻为 $1 . 0 \\mathrm { m s } \\mathrm { A S O I }$ 进行不同过热度下燃油喷雾形态的比较。在油温为 $2 5 ^ { \\circ } \\mathrm { C }$ 时，测试面内的两个油束之间大约成 $7 0 ^ { \\circ }$ 夹角，单个燃油油束的宽度较窄。随着燃油温度的提高，燃油油束宽度显著增加，而贯穿距略微减小。当提高燃油温度至 $6 0 ^ { \\circ } \\mathrm { C }$ 时，喷雾形态发生的显著的变化：燃油油束开始往喷油器轴线上聚集，之前的中空喷雾结构开始变成了部分实心的钟形喷雾，贯穿距显著减小。当燃油温度继续升高至80、 $9 0 ^ { \\circ } \\mathrm { C }$ 时，燃油油束显著变形并聚集在喷油器轴线区域，喷雾贯穿距又重新开始增大。这些喷雾形态随过热度的变化过程与之前的测试结果基本吻合[5,6,19]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": ">I Tfuel=25°C(-11) $T _ { \\mathrm { f u e l } } = 6 0 ^ { \\circ } C$ (24） $T _ { \\mathrm { f u e l } } = 9 0 ^ { \\circ } C$ (54) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过对不同过热度下喷雾油束-环境气体两相流动之间的相互作用过程分析可以解明喷雾形态变化背后的流场动因。如图5所示：在油温为 $2 5 ^ { \\circ } \\mathrm { C }$ 时，喷雾油束的速度峰值约为60至 $\\mathrm { 7 0 m / s }$ （燃油喷射后$1 . 0 \\mathrm { m s } \\mathrm { A S O I } \\rangle$ ，喷雾油束沿喷孔轴线方向运动。此时由于喷雾油束的诱导在油束内外两侧均产生了强度较弱的环境气体卷吸，在近喷孔处的气体卷入速度约为 $1 . 5 \\mathrm { m / s } .$ 。燃油温度的提高增强了喷雾油束与环境气体的动量交换，导致喷雾油束的峰值速度值的降低及环境气体卷吸强度的增强。当燃油温度增加到",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$6 0 ^ { \\circ } \\mathrm { C }$ 时，喷雾油束的峰值运动速度显著降低，而近喷孔处的气体卷入速度可达 $5 \\mathrm { m / s }$ 。此时油束内侧不再有明显的空气卷入，而是在燃油油束和气体交界面形成了较为杂乱的流动结构，然后沿着喷油器轴线方向逐渐开始形成向外的环境气体运动（速度大小约为 $0 . 5 \\mathrm { m / s } \\mathrm { \\cdot }$ )。进一步提高燃油温度到 $9 0 ^ { \\circ } \\mathrm { C }$ 时，由于喷雾油束间的相互干涉，燃油喷雾在轴线处形成一个未受扰速度核区域[，这一区域内的燃油速度值显著增强，并对油束前端的环境气体形成强烈推动作用，使燃油前端气体运动速度可以高达 $4 \\mathrm { m / s }$ 。另一方面，近喷孔处的气体卷入速度和前一工况较为接近，但是卷入区域的范围显著增大。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a3c881dbe77af8348fa9282bd10e29a2349e1eff3e20e945bdf9e117a1146fe6.jpg",
+        "img_caption": [
+            "图5不同过热度下燃油-环境气体两相流场分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "superheat degrees ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "另外，按照作者之前对涡旋中心的定义[，不同过热度下燃油喷雾的涡旋中心位置在图5中按所示标识标出。由图可见：随着过热度的提高，喷雾油束的涡旋中心不断地靠近喷油器轴线，从而导致涡旋直径减小。并且喷雾油束的涡旋中心与环境气体运动的涡旋中心几乎重合。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2不同过热度下气液相互作用随时间变化的趋势",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文以测试视场内环境气体运动产生的动能大小来评估喷雾油束与环境气体两相之间的动量传递过程。如图6所示，在燃油喷射开始前环境气体处于静止状态，故各工况的环境气体动能均为0。随着燃油喷射的开始及持续，动能传递主要由喷雾油束端向环境气体端进行，导致环境气体动能不断随着时间发展而增大。而随着燃油过热度的提高，燃油粒径尺寸不断减小[4]，气液两相作用面积增大，导致动量传递效率提高，从而环境气体的动能显著增强。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3460b6813036b13c7449fd85c41b4aa8dde8a40ebc066314494ad3d6b5692131.jpg",
+        "img_caption": [
+            "图6不同过热度下的气液两相动量传递过程 Fig.6 Momentum transfer process between the two phases under various superheat degrees "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "增强的环境气体运动又对喷雾油束产生了反作用。基于与文献相同定义的无量纲喷雾油束间距，不同过热度下这一参数随时间发展的趋势如图7所示。当油温为 $2 5 ^ { \\circ } \\mathrm { C }$ 时，喷雾油束传递给环境气体的动量较小，环境气体的卷吸强度较弱，在整个时间范围内对喷雾油束的形态（油束间距）影响不大。当油温升高至 $4 5 ^ { \\circ } \\mathrm { C }$ 时，喷射持续过程中的油束间距也基本不变，而喷射结束后在略微强化的环境气体作用力下，油束间距显著减小。而当油温为 $6 0 ^ { \\circ } \\mathrm { C }$ 时，卷吸强度继续增强，使得环境气体作用力从燃油喷射开始就能够和燃油的惯性力相抗衡，导致油束间距在喷射持续期内就开始不断减小。随着油温进一步提高到80、 $9 0 ^ { \\circ } \\mathrm { C }$ 时，这一强化的环境气体作用力使得燃油喷射后极短时间内（ ${ < } 0 . 6 \\mathrm { m s }$ ）喷雾形态就发生了显著的收缩，并在随后始终保持紧凑的喷雾结构形态分布。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/eea5a38a2adffc29771284f4bb7bf38537bd9d90781ec1bdc6fdad7e5617fa72.jpg",
+        "img_caption": [
+            "Fig.5Fuel spray-ambient gas two-phase flow-field under various ",
+            "图7不同过热度下喷油油束间距随时间的发展趋势 Fig.7Sprayplumedistanceasafunction of timeASOIunder various superheat degrees "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文利用自行开发的高速双色PIV技术实现了不同过热度下燃油喷雾速度场及环境气体流场的高速同场测试，主要获得了以下结论：（1）高速双色PIV技术能够以相对简易的实验设备实现燃油及环境气体两相的分离，针对两相设置不同的帧间时差满足气液两相流场不同的动态响应要求，最终达到对两相流场进行准确测试的目的;（2）随着燃油过热度的提高，燃油油束逐渐膨胀，气液两相作用面积增大，粒径逐渐减小，由喷雾油束端向环境气体端传递的动量显著提高。（3）不同的过热度下燃油油束的惯性力与环境气体作用力之间的博弈关系十分复杂。过热度的提高增强了环境气体的卷吸强度，促进了紧凑喷雾结构的形成，导致油束间距随之减小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.致谢 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "感谢国家自然科学基金委（项目编号：51076093）及美国通用汽车公司对本研究的资助和支持。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1].Zhao，F.,Lai,M. C.,Harrington，D.L. Automotive Spark-Ignited Direct-Injection Gasoline Engines[J]. Prog Energ Combust,1999,25 (5): 437-562.   \n[2]. Zhang，M.,Drake，M.,Peterson，K.Simultaneous High-Speed Imaging of Fuel Spray, Combustion Luminosity, and Soot Luminosity in a Spray-Guided Direct Injection Engine with Different Multi-Hole Fuel Injectors.Proceedings of the ASME 2013 Internal Combustion Engine Fall Technical Conference[C],Dearborn,MI, USA,2013.   \n[3].Sher，E.,Bar-Kohany，T.,Rashkovan，A.Flash-Boiling Atomization[J].Prog Energ Combust,2008,34(4): 417-439. [4]． Zeng,W.,Xu,M.,Zhang,Y.,etc.Laser Sheet Dropsizing of EvaporatingSpraysUsing Simultaneous LIEF/Mie Techniques[J].P Combust Inst,2013,34(1): 1677-1685.   \n[5]. Zeng, W.,Xu, M.,Zhang，G.， etc. Atomization and Vaporization for Flash-Boiling Multi-Hole Sprays with Alcohol Fuels[J]. Fuel,2012,95 287-297.   \n[6].Zhang,M.,Xu, M.,Zhang,Y.,etc. Flow-Field Investigation ofMultihole Superheated Sprays Using High-Speed PIV.Part II. Axial Direction[J].Atomization Spray,2013,23 (2):119-140. [7].Zhang,M.,Xu,M.,Zhang,Y.,etc.Flow-Field Investigation of Multi-Hole Superheated Sprays Using High-Speed PIV.Part I. Cross-Sectional Direction[J]. Atomization Spray, 2012, 22 (11): 983-995.   \n[8]. Zhang， G.,Xu, M.,Zhang，Y.， etc.Macroscopic Characterization of Flash-Boiling Multi-Hole Sprays Using Planar Laser Induced Exciplex Fluorescence Technique. Part I. On-Axis Spray Structure[J]. Atomization Spray,2012, 22 (10): 861-878.   \n[9]. Zhang，G.,Xu,M.,Zhang， Y.， etc.Macroscopic Characterization of Flash-Boiling Multihole Sprays Using Planar Laser-Induced Exciplex Fluorescence. Part I: Cross-Sectional Spray Structure[J]. Atomization Spray,2013,23 (3): 265-278. [10].Rhim，D.-R.,Farrell,P.V. Characteristics of Air Flow Surrounding Non-Evaporating Transient Diesel Sprays. SAE Technical Paper 2000-01-2789,2000.   \n[11]. Towers,D.,Towers, C.,Buckberry, C., etc. A Colour PIV System Employing Fluorescent Particles for Two-Phase Flow Measurements[J]. Measurement Science and Technology,1999, 10 (9): 824.   \n[12]. Kosiwczuk, W.,Cessou,A.,Trinite,M., etc. Simultaneous Velocity Field Measurements in Two-Phase Flows for Turbulent Mixing of Sprays by Means of Two-Phase PIV[J]. Exp Fluids, 2005,39 (5): 895-908.   \n[13].Lee，J.,Nishida,K.,Yamakawa, M. An Analysisof Ambient Air Entrainment into Split Injection D.I. Gasoline SpraybyLIF-PIVTechnique.SAETechnicalPaper 2002-01-2662,2002.   \n[14]. Lee,J.,Nishida, K. Simultaneous Flow Field Measurement of D.I. Gasoline Spray and Entrained Ambient Air by LIF-PIV Technique.SAE Technical Paper 2003-01-1115,2003.   \n[15]. Domann, R.,Hardalupas, Y. Quantitative Measurement of Planar Droplet Sauter Mean Diameter in Sprays Using Planar Droplet Sizing[J]. Part Part Syst Char, 2003,20 (3): 209-218. [16]. Meling, A. Tracer Particles and Seeding for Particle Image Velocimetry[J]. Measurement Science and Technology, 1997, 8 (12): 1406-1416.   \n[17]. Samimy,M.,Lele, S.K. Motion of Particles with Inertia in a Compressble Free Shear Layer[J]. Phys.Fluids A,1991,3 (8): 1915-1923.   \n[18]. Crowe, C. C. T.,Schwarzkopf, J. D.,Sommerfeld, M., etc. Multiphase Flows with Droplets and Particles[M]. CRC PressI Llc, 2011.   \n[19]. Zeng，W.,Xu,M.,Zhang，M.， etc.Macroscopic Characteristics for Direct-Injection Multi-Hole Sprays Using Dimensionless Analysis[J].Exp Therm Fluid Sci， 2012，40 81-92. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "附上作者联系信息如下：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "姓名：张铭  \n通讯地址：上海市闵行区东川路800号上海交通大学机动学院D楼（汽车楼）222室  \n邮编：200240  \n电话：13564653514  \n邮箱：jimmy.change@gmail.com",
+        "page_idx": 5
+    }
+]

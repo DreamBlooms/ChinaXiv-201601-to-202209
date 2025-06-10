@@ -1,0 +1,122 @@
+基础研究
+
+# 雷公藤甲素对佐剂关节炎肺功能降低大鼠Notch通路受体和配体基因表达的影响
+
+万磊,刘 健，黄传兵，谌 曦，汪元'，张皖东',刘 磊'²,程园园,冯云霞41安徽中医学院第一附属医院风湿免疫科,安徽 合肥 230031；安徽中医药大学中医临床学院,安徽 合肥230038;安徽省安庆市中医院内科,安徽 安庆 246000;"安徽中医药大学中西医结合医院,安徽 合肥 23000摘要：目的观察雷公藤甲素(TPT)对佐剂关节炎(AA)大鼠Notch受体、配体表达的影响。方法将40只大鼠随机分为正常对照(NC)组、模型(MC)组、甲氨喋呤(MTX)组、TPT组,每组10只,分别向除NC组外的其余动物右后足跖皮内注射弗氏完全佐剂 $0 . 1 ~ \mathrm { m L }$ 致炎,复制AA大鼠模型,致炎后第12填开始给药。NC组及MC组均给予生理盐水，其余组分别给予MTX、TPT。给药30d后,检测各组足趾肿胀度(E)、关节炎指数(AI)、肺功能、Notch受体/配体的变化。结果MC组大鼠E、AI、Notch3、Notch4、Delta1表达明显升高;肺功能参数、Notch1、Jagged1、Jagged2表达降低 $( P { < } 0 . 0 1 )$ ;与MC组比较,TPT组肺功能参数、Notch1、Jagged1、Jagged2的表达升高,E、AI及Notch3、Notch4、Delta1表达降低,疗效优于对照组N $\mathrm { \Pi } \mathrm { I T X } ( P { < } 0 . 0 5 , P { < } 0 . 0 1 )$ 。结论 TPT可能是通过上调Delta1、Notch3、Notch4的表达、下调Jagged1、Jagged2、Notch1表达,降低炎症反应和免疫复合物沉积,改善AA关节和肺部症状。关键词：佐剂关节炎;肺功能;Notch信号通路;雷公藤多甲素
+
+# Effect of triptolide on expressions of Notch receptors and ligands in rats with adjuvant. induced arthritis and reduced pulmonary function
+
+WANLei’,LUian,UANGChuanbing',HXi,ANGuan,HANGWandong',Lei’,HENGuanyuanGi Diisionofalfdteeneel ChineseedicinenuUniesityfineseedicineHefeio8Chna;epartmentoftealdicineAnqinHospialf TraditionalCineedicneAqingoinaeprtmenotealedicinAninHospitalofditioaleicin Anqing 246000, China
+
+Abstract:ObjectiveTo investigate the effectsof triptolide on Notch receptorand ligand expressionsinrats with adjuvant-nduced arthritis (AA). Methods Fortyrats were randomly divided into normalcontrol (NC)group,model (MC) group, methotrexate group and triptolide groups.Rat models of AA were established byan intradermal injection of $0 . 1 ~ \mathrm { m L }$ Freund'scomplete adjuvantintotheright paw.Twelvedays aftertheinjection,therats weretreated withcorresponding drugs for 30 days; therats in NC group and MC group were given saline only.Paw edema volume (E),arthris index (AI), pulmonary function,histomorphologies,and Notchreceptor/ligand expression inthelungtisue wereanalyzedafter the treatments. Results Compared with the NC group,E,AI, Notch3, Notch4,and Deltal expressions in thelungtisses significantlyincreased whilepulmonaryfunctionand pulmonaryexpressnsofNotch1,Jagged1,andJaggedsigicantly decreased the model rats $( P { < } 0 . 0 1 )$ . Compared with the MC group, triptolide-treated rats showed significantly improved pulmonaryfuctisinreedexpessonsofotch1,JaggeddJaggedadreedexpessonsofotcotch4, and Deltal in the lungs $( P { < } 0 . 0 5 , \ P { < } 0 . 0 1 )$ ; the therapeutic effect of triptolide was better than that of methotrexate. Conclusion Triptolide can reduce inflammatory reaction and immune complex deposition to improve joint and pulmonary symptoms in rats with AA posiblybyup-regulating theexpressions ofNotch3,Notch4,and Deltalanddown-regulating the expresionsof Jagged1, Jagged2, and Notch1.
+
+Key words: adjuvant-induced arthritis; pulmonary function; Notch pathway; triptolide
+
+类风湿关节炎(RA)是一种以关节慢性病变为主的自身免疫疾病，可最终导致关节畸变及功能丧失，其病变除关节外尚可累及其他组织、脏器。肺由于其富含结缔组织与血管，又有着密集联系的循环体系，因而成为RA较易累及的器官之一。RA肺部病变呈起病隐匿、病情进展快、病死率高的特点，严重危及患者生命而成为RA首要死因。RA累及至肺组织主要侵犯周边肺泡、肺泡间隔、邻近小气道和小血管，从而引起肺功能降低。RA肺病变早期呼吸系统症状及肺部X线片、CT表现不典型，而肺功能降低早于临床表现及胸部影像学异常。因此，针对RA肺部病变早期无症状或不典型，较易被忽视的特点，有必要对RA肺功能降低进行研究。RA肺病变引起肺功能降低的发病机制尚不明确，其机制可能与RA炎症反应、免疫损伤，涉及细胞、细胞因子、细胞外基质及信号传导通路等因素相互作用。前期研究表明RA发生、发展可能与Notch信号传导通路有关[2]。Notch通路传导失衡导致调控Treg不足，促使免疫调节功能紊乱，最终导致RA肺功能降低。因此，从Notch信号通路对Treg调节途径研究RA肺功能降低具有重要意义。治疗RA肺功能降低应用西药如糖皮质激素、免疫抑制剂等有一定的疗效，但长期应用副反应增多，患者多不能耐受或依存性差，远程疗效不理想。而中医药在治疗RA肺病变中优势明显。中药如雷公藤制剂应用于临床治疗RA及其肺病变疗效显著[3-4]。雷公藤有效成分之一雷公藤甲素(TPT)具有抗炎及抑制细胞免疫和体液免疫等作用。TPT能显著抑制关节肿、抑制组织胺所致的毛细血管通透性增加及棉球肉芽增殖[6]同时，TPT具有抗肺间质纤维化作用，减少炎性介质对组织脏器的刺激。为了进一步探讨TPT对RA肺病变的作用机制，本文通过复制类风湿关节炎动物模型，观察该药对佐剂性关节炎大鼠肺功能及肺组织Notch受体/配体的影响，现将研究结果作简要阐述。
+
+# 1 材料及方法
+
+# 1.1实验动物
+
+体质量 $1 6 0 { \pm } 2 0 \ \mathrm { g }$ 、鼠龄5\~6月的清洁级雄性SD大鼠40只（南京医科大学实验动物中心提供，许可证号：SCXK苏2010-0008)。清洁级标准饲养。
+
+# 1.2 药品及试剂
+
+TPT由南京康惟盛生物技术公司提供(纯度 $9 8 \%$ ），CAS号38748-32-2;甲氨喋呤(MTX)： $2 . 5 ~ \mathrm { m g } /$ 片，由上海医药(集团)有限公司信谊制药总厂生产，国药准字H31020644,批号20090104;弗氏完全佐剂(FCA)：由美国SIGMA出品,批号:104k8527;Trizol总RNA提取液:上海英杰公司提供，批号：1382757；PCR试剂盒：美国DUPONT,批号：11DP0376;组织石蜡包埋机：LEICA,型号：A130395;石蜡切片机：德国LEICA，型号：RM2245;染色机:德国SLEE,型号：MAS;显微镜：日本OLYMPUS公司，型号：BX53。
+
+# 1.3关节炎模型复制及给药
+
+40只大鼠随机均分为正常对照组(NC)模型对照组(MC）、TPT组、MTX组，除NC组外，其余大鼠右足跖皮内注射FCA $0 . 1 ~ \mathrm { m L }$ 致炎，复制成佐剂关节炎(AA)大鼠模型。致炎后第12天开始给药，通过人体体表面积计算动物给药剂量。TPT组给药浓度为 $1 \mathrm { m g / 1 0 0  g }$ 1次/d;MTX组:浓度为 $0 . 3 ~ \mathrm { m g } / 1 0 0 ~ \mathrm { g } , 1$ 次/周;NC组及
+
+MC组给予生理盐水浓度为 $1 \mathrm { m L } / 1 0 0 \mathrm { g } , 1$ 次/d。各组连续用药 $3 0 \mathrm { d } _ { \mathrm { o } }$
+
+# 1.4检测指标
+
+1.4.1足跖肿胀度(E)关节炎指数(AI)肺功能的测定分别在造模前1d、致炎后第12天、给药后测量各组大鼠后足跖的容积,计算各组大鼠 $\boldsymbol { \mathrm { E } } ^ { [ 8 ] }$ 。 $\mathrm { E = }$ （造模后足趾容积一造模前足趾容积)/造模前足趾容积。 $\mathsf { A I } ^ { [ 9 ] }$ ：致炎后第12天开始观察并记录全身病变。根据未注射佐剂的其余3只肢体的病变程度累积积分5级评分法评价。肢体或关节无红肿(0分)，小趾关节红肿(1分)，趾关节和足跖关节肿胀(2分)，踝关节以下的足爪肿胀(3分)，包括踝关节在内的全部足爪肿胀(4分)。肺功能测定["：采用大鼠肺功能仪检测肺功能水平。肺功能测定参数包括用力肺活量(FVC） $2 5 \%$ 肺活量的最大呼气流量中 $\mathrm { F E F } _ { 2 5 }$ ） $5 0 \%$ 肺活量的最大呼气流量 $\mathrm { F E F } _ { 5 0 . }$ ） $, 7 5 \%$ 肺活量的最大呼气流量 $\mathrm { ( F E F _ { 7 5 } ) }$ ）、最大呼气中期流量(MMF)、用力最大呼气流量(PEF)。
+
+1.4.2关节病理学观察各组大鼠取后足远端趾间关节，用 $4 \%$ 多聚甲醛固定 $2 4 \mathrm { h }$ 后， $10 \%$ 乙二胺四乙酸(EDTA)脱钙5周;石蜡包埋，切片，HE染色。显微镜观察大鼠关节滑膜及软骨组织病理形态变化。
+
+1.4.3大鼠肺组织Notch信号通路的表达Notch受体、配体引物设计与合成由上海生工完成。肺组织总RNA提取、反转录及PCR参照试剂说明书完成。
+
+# 1.5统计学处理
+
+采用SPSS17.0处理，实验数据为连续性变量用均数+标准差表示，样本均采用正态性检验，计量资料采用t检验；等级计数资料转化为计量资料，检验水准为0.05。
+
+# 2结果
+
+2.1AA大鼠EAI的变化及TPT对其的影响
+
+给药前，除NC组外，其余大鼠均造模成功，给药前，MC组、MTX组、TPT组大鼠E、AI显著高于NC组中 $\scriptstyle \phantom { + } ( P < 0 . 0 5$ 或 $P { < } 0 . 0 1$ )。给药后，与NC组比较，MC组大鼠E、AI显著升高 $( P { < } 0 . 0 1 )$ ;与MC组比较，MTX组、TPT组大鼠E、AI显著降低；与MTX组比较，TPT组大鼠E、AI显著降低( $_ { P < 0 . 0 5 }$ ，图1、2)。
+
+# 2.2AA大鼠关节病理形态学变化及TPT对其影响
+
+MC组大鼠关节滑膜可见大量炎性细胞浸润；滑膜血管增多，血管壁及其周围附属组织可见大量炎细胞浸润；滑膜组织增生，呈绒毛状突起，部分滑膜组织嵌入关节腔内；滑膜衬细胞分层增多并增厚;部分关节软骨可见血管翳形成(图3A)。NC组大鼠关节滑膜组织结构清晰，滑膜无肥大、突起，无炎细胞浸润；滑膜细胞分界清楚，分层较少;关节面平整无损伤，关节软骨、软骨下骨及周围肌腱结构完整(图3B);TPT组大鼠关节滑膜可见少量中性粒细胞等炎细胞浸润，部分滑膜组织嵌入关节腔内；关节面较规整(图3C)；MTX组大鼠关节滑膜可见嗜中性粒细胞等炎细胞浸润，同时浸润其周围附属组织，滑膜血管增多，血管翳形成并增生，滑膜组织呈绒毛状突起并嵌入至关节腔内，滑膜衬细胞增厚(图3D)。
+
+![](images/280b3fe5ee6139c576a4d975ccd8fac45c1a4e79e67439370aca95afd0b2cd32.jpg)  
+图1各组大鼠足趾肿胀度的变化 Fig.1 Changes of the paw edema volume in the rats.
+
+![](images/5abd3178fe61d0c14c67b133b4c248d380960906b2301440f45193e17c981c3a.jpg)  
+图2各组大鼠关节炎指数的变化 Fig.2 Changes of the arthritis index in the rats.
+
+# 2.3AA大鼠肺功能的变化及TPT对其的影响
+
+给药30d后,MC组大鼠肺功能参数FVC、 $\mathrm { F E F } _ { 2 5 }$ 、$\mathrm { F E F } _ { 5 0 } \mathrm { , F E F } _ { 7 5 }$ 、MMF、PEF显著降低。经TPT治疗后,TPT组FVC、FEF25、FEF50 $\mathrm { F E F } _ { 7 5 }$ 、MMF、PEF升高 $\scriptstyle { \mathcal { P } } < 0 . 0 5$ 或$P { < } 0 . 0 1$ ，表1)。
+
+2.4AA大鼠肺组织Notch通路的变化及TPT对其的影响
+
+与NC 组相比，MC组、MTX组Notch3、Notch4、Delta1表达升高,TPT组Notch3、Delta1升高( $( P { < } 0 . 0 5$ $P { < } 0 . 0 1$ ）；MC 组、MTX 组、TPT组Notch1、Jagged1、Jagged2降低 $( P { < } 0 . 0 5 , P { < } 0 . 0 1 )$ 。与MC组相比,MTX组Jagged1升高,TPT组Notch1、Jagged1、Jagged2、Jagged1升高( $\scriptstyle \overbrace { P < 0 . 0 5 }$ ， $P { < } 0 . 0 1 \$ ）;TPT组Notch3、Notch4、Deltal降低( $\scriptstyle - ( P < 0 . 0 5$ $P { < } 0 . 0 1 \$ )。与TPT组相比,MTX组Notch1、Jagged1降低( $\scriptstyle \sum ( 2 . 0 . 0 5$ $P { < } 0 . 0 1$ ，表2)。
+
+2.5AA大鼠肺功能参数与Notch信号通路的相关性分析
+
+多元相关分析结果显示，肺功能参数FVC与Notch3、Delta1呈反比( $_ { r = - 0 . 5 8 4 }$ ， $\scriptstyle P = 0 . 0 3 4$ $_ { r = - 0 . 6 4 7 }$ ， $P =$ 0.028），PEF与Notch4呈反比（ $_ { ( r = - 0 . 6 5 1 }$ ， $P { = } 0 . 0 2 7$ ）；FEF50与Notch1呈正比( $\scriptstyle 1 = 0 . 6 8 2$ ， $\scriptstyle P = 0 . 0 2 3$ ，FEF75与Jagged1呈正比( $\stackrel { \cdot } { r = } 0 . 5 9 5$ $\scriptstyle P = 0 . 0 3 1$ ）。
+
+![](images/8bb00946af0ad4953adaaddaf8705d25f548fdb016db9fed381b7b4d7b30f571.jpg)  
+图3各组大鼠关节滑膜光镜下观察 Fig.3 HE staining of the synovial membrane in the rats (Original magnification: $\times 2 0 0 _ { , } ^ { \cdot }$ .A:MC group; B: NC group; C: TPT group; D: MTX group.
+
+表1各组大鼠肺功能的比较 Tab.1 Comparison of pulmonary function between the groups (Mean±SD, $n { = } 1 0$ 0   
+
+<html><body><table><tr><td rowspan="2">Group</td><td colspan="6">Pulmonary function</td></tr><tr><td>FVC (mL)</td><td>FEF25 (mL/s)</td><td>FEF50 (mL/s)</td><td>FEF7 (mL/s)</td><td>MMF (mL/s)</td><td>PEF (mL/s)</td></tr><tr><td>NC</td><td>9.21±1.03</td><td>45.42±5.83</td><td>39.14±2.13</td><td>37.33±3.65</td><td>39.24±3.72</td><td>39.15±5.85</td></tr><tr><td>MC</td><td>6.02±0.57b</td><td>30.75±1.63b</td><td>27.02±3.17b</td><td>37.17±2.89</td><td>39.26±4.72</td><td>39.28±2.89</td></tr><tr><td>MTX</td><td>6.43±0.65b</td><td>36.78±2.54 b</td><td>30.34±4.92b</td><td>24.17±5.82b</td><td>31.76±4.36b</td><td>33.80±3.11b</td></tr><tr><td>TPT</td><td>7.15±0.42 bee</td><td>42.28±3.68cd</td><td>40.29±4.34c</td><td>34.49±4.85cd</td><td>37.31±3.62cd</td><td>37.37±2.35cd</td></tr></table></body></html>
+
+Note: Compared with NC group, $^ { \mathrm { a } } P { < } 0 . 0 5$ $^ { \mathrm { { b } } } P { < } 0 . 0 1$ ; Compared with MC group, $^ { \mathrm { c } } P { < } 0 . 0 1$ ; Compared withMTX group, $^ { \mathrm { d } } P { < } 0 . 0 5$ $^ { \mathrm { c } } P <$ 0.01.
+
+表2各组大鼠肺组织Notch受体及配体的表达的比较 Tab.2 Comparison of expressions of Notch receptors and ligands in the rats (Mean±SD, $n { = } 8$ 0   
+
+<html><body><table><tr><td rowspan="2">Group</td><td colspan="7">Expressions of Notch receptors and ligands (mRNA,IOD)</td></tr><tr><td>Jagged1</td><td>Jagged2</td><td>Delta1</td><td>Notch1</td><td>Notch2</td><td>Notch3</td><td>Notch4</td></tr><tr><td>NC</td><td>0.67±0.09</td><td>0.58±0.09</td><td>0.46±0.05</td><td>0.68±0.12</td><td>0.58±0.09</td><td>0.47±0.06</td><td>0.42±0.04</td></tr><tr><td>MC</td><td>0.37±0.05a</td><td>0.36±0.05a</td><td>0.67±0.11a</td><td>0.50±0.06a</td><td>0.61±0.12</td><td>0.69±0.14a</td><td>0.54±0.09a</td></tr><tr><td>MTX</td><td>045±0.06ace</td><td>0.43±0.08b</td><td>0.56±0.06bd</td><td>0.48±0.07ac</td><td>0.60±0.07</td><td>0.54±0.05a</td><td>0.52±0.07b</td></tr><tr><td>TPT</td><td>0.53±0.04c</td><td>0.47±0.07d</td><td>0.53±0.08d</td><td>0.55±0.06d</td><td>0.57±0.04</td><td>0.52±0.06bd</td><td>0.45±0.06d</td></tr></table></body></html>
+
+Note: Compared with NC group, $^ { \mathrm { a } } P { < } 0 . 0 5$ $^ { \mathrm { b } } P { < } 0 . 0 1$ ; Compared with MC group, $^ { \mathrm { { c } } } P { < } 0 . 0 1$ $^ { \mathrm { d } } P { < } 0 . 0 1$ ; Compared with MTX group, $^ { \mathrm { c } } P { < } 0 . 0 5$
+
+# 3讨论
+
+Notch信号传导通路在各种免疫细胞中有广泛表达，可影响发育过程中多种细胞的分化、增殖和调亡。通过Notch(1-4)受体及Jagged1-2/Delta1配体的相互作用产生旁侧抑制效应，控制细胞对各种内、外源信息的反应，从而导致细胞特异性分化，是一种影响胚胎发育、器官形成的普遍机制[11-12]
+
+Notch信号途径可调控RA的免疫系统[13-14]。Notch信号在RA外周免疫系统的分化和调节中起作用，在成熟的淋巴细胞和APCs的表面均有Notch受体及其配体的表达。同时，Notch信号途径可调控肺泡上皮细胞的分化,在肺的生长发育中起重要作用[15]。研究表明[16-17],Notch1信号可能通过介导碱式螺旋-回旋-螺旋(bHLH)转录因子的表达，调控肺泡上皮和血管内皮细胞的增殖、分化、迁移等生物学活动。Notch1阳性反应主要定位在肺泡上皮细胞,支气管上皮细胞表达较少;Notch2均匀分布于上皮细胞、血管内皮及间质细胞;Notch3则在血管内皮细胞内呈强表达;Jagged1主要分布于成纤维细胞及肺泡腔、间质，在肺泡上皮细胞仅为弱阳性表达。在 Notch 组中 Notch1、Jagged1、Jagged2 升高，Notch3、Notch4、Delta1的表达降低，通过保护肺泡上皮细胞、支气管上皮细胞免于炎症刺激，减少RA成纤维细胞增生和肺间质纤维化的发生。在本组研究中我们发现，AA大鼠E及AI明显升高，同时肺功能检测结果显示， $\mathrm { F E F } _ { 2 5 }$ $\exists \mathrm { F } _ { 2 5 } , \mathrm { F E F } _ { 5 0 }$ $\mathrm { F E F } _ { 7 5 }$ 、MMF、PEF明显降低，表明AA大鼠在关节炎症反应的基础上可进一步导致肺功能下降，其肺功能的变化主要是表现为小气道功能的严重损伤，并伴有限制性通气功能障碍。而AA大鼠肺功能降低的过程可能与Notch通路的参与有关。本次研究中相关分析显示肺功能参数FVC与Notch3、Delta1呈反比，PEF与Notch4呈反比;FEF50与Notch1呈正比，FEF75与Jagged1呈正比。说明AA中肺组织Notch1、Notch3、Notch4、Delta1、Jagged1-2的表达部位具有高度一致性，推测肺组织细胞可能同时携带Notch受体和配体,与相邻肺细胞之间互相传递信息。Notch1、Jagged1、Jagged2的表达较正常对照组显著下调,Notch3、Notch4、Delta1的表达显著上调，说明在AA大鼠在关节处于病变期时，Notch信号通过级联放大效应促进肺组织损害作用。
+
+雷公藤生理活性是由二萜内酯、生物碱、三萜等多种成分协同产生[18-19],雷公藤制剂广泛应用于治疗RA疾病中，特别是类风湿关节炎合并肺间质病变，疗效显著。雷公藤甲素是雷公藤干燥去皮根经提取、纯化后得到的有效组分[20]。本次研究我们发现,TPT治疗后AA大鼠肺功能参数 $\mathrm { F E F _ { 2 5 } \sqrt { F E F _ { 5 0 } } , F E F _ { 7 5 } , M M F }$ PEF明显升高，提示TPT能显著改善AA大鼠肺功能的水平，提高肺功能。同时，与MC组相比，TPT组E、AI及Notch3、Notch4、Delta1的表达降低,Notch1、Jagged1、Jagged2及Treg的表达升高。并且在与MTX组比较，TPT组在调节Notch信号通路方面明显优于MTX组。说明TPT改善AA大鼠关节局部症状的机制跟激活Notch信号传导通路有关，可能是通过上调Notch1、Jagged1、Jagged2的表达，下调Notch3、Notch4、Delta1的表达。雷公藤具有免疫抑制作用,可抑制RA患者体内异常免疫反应。TPT通过抗炎、抗氧化等发挥免疫调节作用[2。雷公藤多甙能改善肺泡炎和纤维化,雷公藤制剂单体可减轻肺泡炎和肺纤维化程度。雷公藤毛单体可减轻肺纤维化模型大鼠肺组织病理学改变，降低肺泡炎和肺纤维化程度，具有一定的抗肺纤维化的疗效[22-23]。使肺泡壁重新上皮化以恢复气血屏障的重要功能。本次研究结果显示，TPT作用于AA大鼠后，调节Notch信号通路中受体、配体表达，可能是通过抑制AECⅡ和血管内皮细胞的增殖、分化，使得肺泡上皮细胞分泌肺表面活性物质及转分化功能趋于正常，致使肺泡上皮细胞数量进一步增加，改善肺泡通气/换气功能障碍,从而提高肺功能参数FVC、FEF25、FEF50、MMF、PEF等,改善肺功能水平。
+
+综上所述,TPT改善AA大鼠肺功能水平的机制可能是通过调节Notch信号传导通路受体、配体表达，从而改善关节局部症状和肺部损伤。
+
+# 参考文献：
+
+[1]Wang JX,Du CG.A retrospective study of clinical characteristics of interstitial lung disease associated with rheumatoid arthritis in Chinese patients[J].Med Sci Monit,2015,21(6): 708-15.   
+[2]Wan L,Liu J,Huang C,et al.Effects of xinfeng capsule on pulmonary function based on treg-mediated notch pathway in a rat modelof adjuvant arthritis[J].JTrad Chin Med,2012,32(3): 430-6.   
+[3」刘史佳,戴国梁,孙冰婷,等.基于PK-PD模型研究雷公藤治疗类风湿 关节炎生物靶标[J].中国中药杂志,2015,2(2):334-8.   
+[4]姜泉,曹炜,唐晓颇,等.雷公藤提取物治疗类风湿关节炎的系统评 价[J].中国中药杂志,2009(20):2637-43.   
+[5]赵庆华,李晓宇,冯 群,等.基于剂量的雷公藤抗小鼠免疫性炎症"效- 毒"关联性评价[J].中国中药杂志，2015，6(6)：1139-43   
+[6」李春杏，李太生,朱珠,等.雷公藤抗炎免疫调节活性单体的研究进展 [J].中国中药杂志,2014(21):4159-64.   
+[7]李仪奎.中药药理实验方法学[M].上海:上海科学技术出版社, 1991:305.   
+[8]徐叔云,卞如濂,陈修.药理实验方法学[M]2版.北京:人民卫生出版 社，1991:719-25.   
+[9」张均田.现代药理实验方法[M].北京:北京医科大学中国协和医科大 学联合出版社,1997:1383.   
+[10]刘 健,万 磊,盛长健,等.佐剂性关节炎大鼠肺功能变化与Th1/Th2 细胞、调节性T细胞的相关性研究[J].细胞与分子免疫学杂志,2011, 27(1): 56-60.   
+[11] Yen WC,Fischer MM, Axelrod F, et al. Targeting notch signaling with a notch2/notch3 antagonist (tarextumab)inhibits tumor growth and decreases tumor-initiating cell frequency[J]. Clin Cancer Res, 2015,21(9): 2084-95.   
+[12]Geng X, Sun T,Li JH,et al. Electroacupuncture in the repairof spinal cord injury:inhibiting the Notch signaling pathway and promoting neural stem cell proliferation[J]. Neural Regeneration Research,2015,10(3): 394-403.   
+[13]Zhang H,Hilton MJ,Anolik JH,et al.NOTCH inhibits osteoblast formation in inflammatory arthritis via noncanonical NF-kB[J].J Clin Invest,2014,124(7): 3200-14.   
+[14] Jiao Z,Wang W,Ma J,et al. Notch signaling mediates TNF（20 $\mathfrak { a }$ -induced IL-6 production in cultured fibroblast-like synoviocytes from rheumatoid arthritis[J]. Clin Dev Immunol,2012,11: 350209.   
+[15] Zhu F,Wang J, Qiu X,et al. Smoke inhalation injury repaired by a bone marrow-derived mesenchymal stem cell paracrine mechanism: Angiogenesis involving the Notch signaling pathway[J]. J Trauma Acute Care Surg,2015,78(3): 565-72.   
+[16]Capaccione KM,Hong X,Morgan KM,et al. Sox9 mediates Notchl-induced mesenchymal features in lung adenocarcinoma[J]. Oncotarget,2014,5(11): 3636-50.   
+[17]Hassan WA,Yoshida R,Kudoh S,et al. Notchl controls cell invasion and metastasis in small cell lung carcinoma cel lines [J]. Lung Cancer,2014,86(3): 304-10.   
+[18]Su MX,Song M,Yang DS,et al. Simultaneous LC-MS/MS determination of five tripterygium pyridine alkaloids in dog plasma and its application to their pharmacokinetic study after oral administration of tripterygium glycosides tablets[J].J Chromatogr B Analyt Technol Biomed Life Sci,2015,990(10): 31-8.   
+[19]Su MX, Zhou WD,Lan J,et al. Rapid and sensitive analysis of multiple bioactive constituents in tripterygium glycosides tablets using liquid chromatography coupled with time-of-flight mass spectrometry[J]. J Sep Sci,2015,38(5): 804-12.   
+[20]Li HM, Wan DW,Li RT. New abietane-type diterpene glycosides from the Roots of Tripterygium wilfordii[J]. JAsian Nat Prod Res, 2015,17(7): 761-6.   
+[21]Wei D, Huang Z. Anti-inflammatory effects of triptolide in LPSinduced acute lung injury in mice[J].Inflammation,2014,37(4): 1307-16.   
+[22] Wang X,Zhang L,Duan W,et al. Anti-inflammatory efects of triptolide by inhibiting the NF- $\kappa \mathbf { B }$ signalling pathway in LPSinduced acute lung injury in a murine model[J]. Mol Med Rep, 2014,10(1): 447-52.   
+[23]Ma M, Chen XY,Gu C,et al.Biochemical changes of oxidative stress in premature ovarian insufficiency induced bytripterygium glycosides[J].Int JClin Exp Pathol,2014,7(12): 8855-61. （日日

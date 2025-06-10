@@ -1,0 +1,284 @@
+# 嵌入于社会情境的工作重塑研究：工作重塑的新视角
+
+林新月1,2 孟亮1,2
+
+(1上海外国语大学国际工商管理学院，上海 200083)
+
+(² 上海外国语大学组织行为与组织神经科学研究所，上海 200083)
+
+摘 要工作重塑实质上是一种情境性的主动性行为。基于已有研究成果，首先系统归纳工作重塑与社会情境因素之间关系的四种研究视角，即社会情境是工作重塑的目标、社会情境因素是工作重塑的组成部分、社会情境因素影响工作重塑、社会情境因素为工作重塑设立边界条件。此外，梳理并讨论社会情境因素影响工作重塑的内在机制以及社会情境因素与个体特征的交互对于工作重塑的影响、工作重塑在特定情境中的有效性两方面的研究。在此基础上，结合其他相关变量的研究现状对嵌入于社会情境的工作重塑的未来研究进行展望，包括探索工作重塑对他人的影响、探索团队工作重塑驱动个体工作重塑的多重路径、探索社会情境影响工作重塑的内在机制、探索社会情境与个体特征的互动如何影响工作重塑，以及探讨基于中国社会情境的工作重塑的有效性。
+
+关键词社会情境，工作重塑，团队工作重塑，主动性动机，主动性行为
+
+# 1引言
+
+传统工作设计理论关注管理者为员工“自上而下(Top-down)”设计工作的过程，员工自身的主动性并未得到充分的重视与发挥。但随着工作环境不确定性以及复杂性的增加，管理者发现越来越难以设计出对每个员工都适用的规范性工作描述；新一代员工富有个性且勇于表达想法，有意愿调整工作以使其能够与自己的价值、能力以及偏好等相匹配，随着他们成为职场主力，管理者意识到员工自身可以在设计自己工作的过程中表现出主动性，进而期望员工在工作中能够表现出积极主动的调整行为(Grant& Parker,2009)。例如，同样是一名图书管理员，既可以选择只是做好自己的本职工作并将其视为繁琐且无聊的工作任务，也可以将这份工作看作是为人类文明的传承服务且能提升自我修养的有价值的工作，并在工作中选择主动承担额外任务，例如帮助读者查阅图书等人际互动。由此，工作重塑概念被提出且被认为是21世纪初出现的最有趣的工作设计研究之一(Oldham&Fried,2016)。工作重塑，将工作再设计的关注点从工作本身转向能够改变工作的员工，其核心在于主张员工积极主动地以一种“自下而上(Bottom-up)”的方式对工作进行改变，进而服务于员工个人福祉(孟亮，陈晓蝶,2021)。这一视角恰恰呼应了近年兴起的积极心理学、积极组织行为学的价值取向(田喜洲，刘美玲,2017)。
+
+工作重塑自提出以来就被普遍认为是一项员工个人层面的活动(Wrzesniewski& Dutton,2001)，由个人动机、保持积极的自我形象、增强工作意义感或提高个人的福祉和绩效所驱动。也正是由于工作重塑一直被认为是个体导向的行为(Wrzesniewski&Dutton,2001)，迄今为止大多数工作重塑相关研究都集中于探讨重塑者的个体特征，例如主动性人格、自我效能感等(Bruning&Campion,2018)；或是关注工作重塑对于个体自身相关结果变量的影响，例如个体工作意义感、个体工作满意度、个体绩效、个体工作投入等(Lichtenthaler&Fischbach,2018; Rudolph et al., 2017)。
+
+然而，员工并不是孤立地工作。所有的个体工作行为都嵌入于比个体更为广泛的工作环境中(Biddle,1986;Katz＆ Kahn,1978)，而情境特征也会影响个体的角色期望、角色行为以及角色设定的结果(Dierdorff etal.,2009)。与这种对情境的认知相一致，工作重塑也被描述为一种情境活动，且不同的情境会激活或抑制不同水平与形式的重塑(Wrzesniewski& Dutton,2001)。工作情境中最为关键的类别便是任务情境和社会情境(Johns,2018)。任务情境反映了个体工作角色执行过程中的结构性和信息性约束，社会情境则反映了个体工作中涉及的人际关系与社会互动，以及影响工作角色绩效的社会偶然因素(Morgeson& Dierdorff,2011)。相比于任务情境因素的相对不可变性，社会情境因素对员工个体工作重塑的影响具有更多的不确定性，是本研究关注的焦点。个体的工作、任务乃至角色都往往嵌入在复杂的人际结构中(Grant& Parker,2009)，他们经常需要与领导、同事和客户互动。这增加了工作环境中的其他人影响一个人如何从事工作及其工作带来的结果好坏的可能性(Bizzi,2017;Demerouti &Peeters,2018)。持交互主义(Interactionism)观点的学者认为，社会情境塑造且影响个体态度及行为(Crant,2000)，这种影响包括个体是否会考虑采取主动性行为，即进行工作重塑。
+
+随着工作重塑研究的不断深入，目前工作重塑研究也越来越多地包含了更广泛的社会情境因素，例如现有研究已经探索了组织环境、团队氛围、领导风格等因素与工作重塑的关系(Lichtenthaler&Fischbach,2018)。然而，尽管已有部分研究识别了工作重塑发生的社会情境，目前对于工作重塑有关的社会情境因素的全面审查与考虑仍然缺失。本文以此为出发点进行综述与展望，一方面针对现有的有关工作重塑与社会情境因素关系的研究进行综述，另一方面也将在此基础上对嵌入于社会情境的工作重塑进行未来研究展望。
+
+# 2关键概念界定
+
+# 2.1社会情境的界定
+
+“情境(context)”的概念最初被定义为影响个体行为的刺激和现象(Cappelli & Sherer,1991)，暗示了情境在行为塑造中的调节作用。Mowday 和 Suttn(1993)认为，情境是组织环境中行为的机会和约束。也有学者们对情境的作用进行了扩展。Bamberger(2008)指出，情境是直接影响低级别现象的周围现象或时间条件，以及在不同级别中的一个或多个变量之间的条件关系。因此，情境既是行为的调节因子，也是行为的预测因子。综合以上观点，学者John(2018)强调情境给行为提供了约束和机会，这些约束与机会影响组织行为的发生以及这些行为的意义所在，同时将情境定义为影响到关键对象的不同层次的环境刺激。
+
+本文遵循 Johns(2018)的定义，将社会情境定义为围绕个体的、来自于外部的多层次人际刺激。这一定义涵盖了广泛的人际刺激相关的因素，除了直接的人际互动和关系，如同事支持和领导成员交换关系，社会情境因素还包括团队氛围、组织价值观、行业规范和国家价值观等。社会情境是多层次的，每一个社会情境因素在理论、测量和分析上都存在不同层次水平。例如，以往研究主要基于个人和团队层面对领导风格进行了测量和分析，前者反映了个人对其领导的看法，后者反映了团队对领导者的共同看法(Chen&Bliese,2002)。
+
+# 2.2工作重塑的界定
+
+在工作重塑领域一直有两大主流学派，首先是以 Wrzesniewski 和 Dutton (2001)为首的学者，他们最早提出工作重塑概念，并将其分为任务重塑、关系重塑和认知重塑三种类型。任务重塑(Task Crafting)是指员工改变工作任务的数量、范围和类型，包括增加或减少任务量、改变任务的性质、改变时间和精力在多个任务上的分配等。关系重塑(RelationalCrafting)是指员工改变在工作执行中的人际互动形式、时间以及对象。认知重塑(Cognitive Crafting)则是指员工改变对工作中任务和关系的感知方式。作为工作重塑研究的一个主流视角，该视角最早对经典的自上而下的工作设计理论进行了有机的补充，将关注点转向员工主动进行的自下而上方式的工作再设计，其关注个人主观感受，强调员工个人福祉，具有开创性。遗憾的是，该视角下有关工作重塑的驱动因素以及可能的结果变量大多局限于个人层面，忽略了工作重塑与外在情境之间的相互影响(田启涛，关浩光,2017)。
+
+Tims 和 Bakker(2010)则基于工作要求-资源 (JD-R)模型提出工作重塑的定义，即员工为了平衡自身的工作资源及工作要求而做出的个人能力和需要的改变。工作要求-资源模型(Demerouti etal.,2001)强调任何工作特征都可以被划分为工作要求与工作资源。工作要求，指的是工作本身对个体在生理、心理等方面的要求，是需要个体付出相应的努力或成本才能完成的工作因素，例如工作过载、时间压力等。工作资源则被定义为工作中能够促进个体工作目标实现、促进个人学习、成长的与生理、心理、社会等方面相关的工作因素，例如绩效反馈、同事支持等(Demerouti etal.,2001)。Tims 等 (2012)在其后续研究中最终界定了工作重塑的维度：包括增加结构性工作资源、增加社会性工作资源、增加挑战性工作要求和减少妨碍性工作要求。与第一个视角相比，该视角强调员工个体与其工作之间的不匹配是工作重塑的直接驱动力(田启涛，关浩光,2017)，同时也强调了工作重塑与外在环境之间的联系，如员工主动获取工作中需要的外部资源等。
+
+从以上对工作重塑两大主流视角的梳理可以看出，二者在定义、内容以及目的上的不一致，导致了当前工作重塑研究的相对割裂(田喜洲等,2020)。为解决这一问题，Bruning 和Campion(2018)基于文献回顾与初期访谈，整合前人相关定义并在文章中将工作重塑初步定义为员工为了改善自己的工作而对工作所做的改变，这些变化可以采取任务结构、社会关系和认知等形式。他们在重塑研究中引入趋近-回避原则(Approach-avoidance Principle)，并将其划分为趋近型工作重塑与回避型工作重塑，前者强调主动解决问题、改善工作情况、以更积极的方式接受与处理压力源的重塑行为，后者则是寻求回避乃至消除工作中负面因素的重塑行为。Zhang 和 Parker(2019)吸收 Bruning 和Campion(2018)的观点，从三个层面对工作重塑的相关研究进行了整合。首先在最高层次上将工作重塑分为"趋近型重塑"和"回避型重塑";其次根据重塑的形式分为“认知上的重塑”和“行为上的重塑"；最后依据工作特征分为“资源重塑”和“要求重塑”，据此更为综合、全面地提出了行为上的趋近型资源重塑、认知上的回避型要求重塑等八种工作重塑类型。尽管并未在论文中正式给出工作重塑的整合性定义，这一层次化的分类第一次尝试真正将两种工作重塑的主流视角融合，可见目前工作重塑领域已经开始出现理论融合的趋势。除以上两大主流视角之外，也有学者基于个体自身而非工作本身来对工作重塑进行分类，例如 Kooij 等(2017)就基于个体自身将工作重塑分为个体优势导向型工作重塑与个体兴趣导向型工作重塑。
+
+本文综合以上观点，将工作重塑界定为个体主动采取行动来调整工作资源及工作要求从而改进自身工作的行为，行动形式可以是任务结构、社会关系乃至认知形式(Bruning&Campion,2018;Zhang&Parker,2019)。基于这一界定，本文探究工作重塑这一主动行为置身于社会情境中的化学反应。
+
+# 3嵌入于社会情境中的工作重塑
+
+虽然工作重塑指的是通过改变自己的工作而使重塑者受益的非正式行为，但越来越多的研究在研究工作重塑时已经包含了更广泛的社会情境因素(Bizzi,2017;Dust& Tims,2020;Tims et al.,2015; Tims &Parker,2020)。工作中的个体往往不可避免地嵌入于复杂的社会网络之中(Berg et al.,2010; Grant & Parker,2009)，这增加了工作环境中的其他人影响一个人如何进行工作，乃至于影响重塑者重塑结果的可能性(Berg etal.,2010; Demerouti&Peeters,2018)。回顾现有工作重塑研究，其与社会情境的关系可大抵概括为四种研究视角。除了现有的四个研究视角之外，社会情境因素影响工作重塑的内在机制，工作重塑在特定社会情境下的有效性等两方面亦有值得进一步深入探究的必要性和空间。
+
+# 3.1视角一：社会情境因素为重塑目标
+
+如前所述，工作重塑的主流视角之一的代表性学者Wrzesniewski 和Dutton(2001)提出了关系重塑这一类型，并将其界定为个体试图增加或减少工作中的社会关系边界。这种工作重塑类型强调个体与工作环境中的其他人的接触与沟通，直接涉及社会情境因素中除个体之外的其他对象。例如，Rofcanin 等(2019)在其研究中重点关注关系型工作重塑，探讨其对员工工作绩效以及建言行为影响的内在机制与边界条件；其强调员工可以通过扩大或收缩工作中的关系网络来改变他们的社会环境，但该重塑行为并不总是带来积极结果(Lu et al.,2014)。另一主流视角下的代表性学者 Tims 等(2012)也定义了涉及情境因素的工作重塑类型，即增加社会性工作资源，其中社会性资源包括同事支持、领导反馈等。总结来看，工作重塑概念自提出以来就涉及个体与社会情境中其他人(如同事和主管)的关系，社会情境中的其他人是重塑行为的目标，个体与重塑目标之间的互动机制会影响重塑可能带来的效应。值得注意的是，尽管管理学界强调了工作环境中其他人对个体行为影响的重要性，目前有关工作重塑中的社会性因素方面的研究仍未获得学者们足够的重视(Rudolph etal.,2017;Wang et al.,2016),尤其是个体与重塑目标之间存在的可能互动机制，例如交叉传递机制。
+
+诸多实证研究表明，不论是工作中产生的负面状态，例如压力和倦怠等(Bakker et al.,2003)，还是积极情感状态，例如工作投入等(Bakker& Xanthopoulou,2009)，都能够在不同个体间转移，这便是交叉传递效应(Crossover Effect)，该效应强调体验或是行为在不同个体间的传递现象(Bakker & Demerouti,2009)。Kunter 和 Mak(2018)在其研究中通过一项田野实验和多项行为学实验证明，竞争行为不仅能够提高参与竞争者自身的任务表现，还能对已知竞争存在但未参与竞争的个体产生积极影响。这些研究为工作重塑行为在不同行为主体之间的交叉传递提供一定的理论与实证上的借鉴。事实上，已有部分研究探讨了工作重塑行为在同事间的传递。Bakker 等(2016)，以及 Demerouti 和 Peeters(2018)的研究都验证了员工的工作重塑行为与同事的工作重塑行为之间存在正相关，并且会进一步影响同事的工作投入。Peeters 等(2016)则以日记法验证了个体与同事寻求工作资源与工作挑战行为之间的相互影响关系。遗憾的是，这些研究仅检验并探讨了他人重塑与个体重塑之间的直接关系，并未进一步深入研究其内在机制，以及个体特质、情境因素等可能的调节因素。
+
+# 3.2视角二：社会情境因素是工作重塑的组成部分
+
+Leana 等(2009)在个体工作重塑的基础上，最早提出合作工作重塑(Collaborative JobCrafting)，并将其定义为工作团队集体改变工作的组织和执行方式。Tims 等(2013)进而基于JD-R 模型采用团队工作重塑概念，将其定义为团队成员共同致力于增加结构性工作资源、社会性工作资源、挑战性工作要求和减少阻碍性工作要求的程度。该概念提出以来，已有研究验证了团队工作重塑的积极影响(McClelland et al.,2014; Tims et al.,2013)。随着工作团队日益成为组织工作的基本单位，有学者认为团队工作重塑比个体工作重塑更值得重视(Makikangas et al.,2017; Oldham& Hackman,2010)。团队工作重塑概念的提出，拓展了工作重塑的适用范围，也恰如其分的说明社会情境是工作重塑的重要组成部分，为工作环境对工作重塑的影响奠定了理论基础。
+
+团队相互依赖的性质使得任务边界从个体拓展到团队，团队工作背景下的员工需要与其他团队成员合作完成工作任务，同时其工作行为也时常会被同事行为所影响(曹莉娜等，2019)。因此，嵌入于团队工作背景下的个体工作重塑，将会受到团队工作重塑的跨层次影响(Leana et al.,2009)。团队相互依赖程度越高，个人与团队的认知、经验与行为越相关(Torrente etal.,2012)，团队工作重塑对个体工作重塑的影响越大。Tims 等(2013)基于社会心理学视角，指出团队成员会受到所在团队的三方面影响：情绪传染，表现为工作场景中互动的个体之间的情感体验的传递；榜样示范，传递团队中关于实际展现行为的信息；规范，传递着团队对于成员行为与角色的不成文期望。基于此，团队工作重塑亦可在团队中形成特定的情绪传染、角色榜样以及社会规范，进而激活团队成员的个体重塑行为。
+
+首先是情绪传染(Emotion Contagion)。情绪传染理论是解释工作场所中个体情绪互动、群体情绪形成和传递的重要理论之一。该理论认为，情绪传染是一种自动地模仿和同步他人的表情、声音、姿势与动作的倾向性，其结果常常使互动双方的情绪产生聚合与统一(Hatfieldet al.,1992)。群体层面的情绪传染研究指出，团队成员可以影响彼此的情绪，在团队内部的人际交往过程中，人际间的情绪体验可以有意识或无意识进行传递(Barsade,2002)。团队工作重塑过程中，工作重塑行为具有情绪传染性，个体通过有意识的感染过程，积极观察和模仿彼此的重塑行为(Bakker&Demerouti,2009)。团队成员在工作重塑中表现出的高工作投入，让个体在团队互动中感受到活力、专注与热爱，个体关注到团队成员的情绪与态度，效仿彼此的姿势、语调及表达，进而产生相同的情绪(Hatfield et al.,1992)，提升自身的工作投入，主动进行工作重塑。与其同时，积极情绪的传染会增加个体与群体层面上的合作，这种良好关系的建立进而有利于团队中社会学习的发生(曹莉娜等,2019)
+
+社会学习(SocialLearming)也是团队工作重塑发挥驱动作用的内在机制之一。社会学习理论着重解释了社会情境下的学习是如何发生的(Bandura& McClelland,1977)。该理论认为，个体可以通过观察他人的行动而习得新事物，即观察学习。Weiss(1978)较早将社会学习理论引入组织管理研究领域。总体而言，大多数组织管理研究者应用该理论考察某一主体的特征和行为如何通过榜样示范(Role Modeling)使他人表现出同样或类似的特征及行为，或者说某一主体如何通过模仿去学习他人的特征和行为(Bommer et al.,2003;Gino et al.,2009)。在团队工作重塑过程中，团队中的其他成员扮演一个角色榜样(Role Model)，员工观察到团队内成员的重塑行为，并考虑判断该行为是否适合当下的工作场景并预期执行该行为能够带来的积极成果，因此产生做出相同行为的动机(Bakker&Xanthopoulou,2009)，模仿并学习他人的工作重塑行为，进而对自身的工作重塑行为产生影响(Bakker et al.,2016; Demerouti&Peeters,2018;Tims etal.,2013)。尤其是当团队共同重塑某项任务时，个体更倾向于在自己的工作中模仿学习他人的重塑行为。此外，通过观察团队中他人的行为及相应结果，个体能够发现该团队存在的社会规范(Postmes et al.,2000)，也就是说，团队工作重塑行为的结果为个体的工作环境建立了一个规范(Tims et al.,2013)。
+
+社会规范(Social Norms)是团队工作重塑对个体重塑的另一个重要影响机制。具体到团队，个体嵌入在团队之中，团队工作重塑被团队成员在心理上解读为一种群体规范——这种规范反映了个体认为团队希望自己从事工作重塑活动的程度。团队内的社会规范主要分为指令性规范和描述性规范两类，其中指令性规范是团队成员必须执行的行为准则，描述性规范则强调被团队中大多数人采取的或者是合适的行为准则(陈建安等,2020)。团队工作重塑是旨在满足团队需要的主动性行为，其更多是作为引导成员行为的描述性群体规范，向团队成员传递工作重塑行为是有效且合适的信号，而不是强制要求成员必须采取工作重塑。社会信息加工理论(Social Information Processing Theory)指出，个体的态度和行为在很大程度上受到周围环境的影响，个体通过对特定的社会线索进行加工与解读，进而决定采取怎样的态度与行为(Salancik&Pfeffer,1978)。团队工作重塑作为这样的社会线索(SocialCues)，让嵌入于团队中的成员理解工作环境，从而激发成员的个体重塑行为，确保整个团队的工作重塑水平较高。由此，深度嵌入于团队中的个体将团队工作重塑解读为一种主观规范，在主观规范的影响下更有可能从事个体工作重塑(Leana et al.,2009; McClelland et al.,2014)。以上三种机制为探索团队工作重塑如何驱动个体工作重塑行为提供了重要的理论视角。
+
+# 3.3视角三：社会情境因素影响工作重塑(前因变量)
+
+第三种情形涉及社会情境因素是否以及如何影响个体的工作重塑行为，也是工作重塑研究中成果较为丰富的一种研究视角。Tims 和 Bakker(2010)基于JD-R理论提出工作重塑概念时便强调了外在环境因素与工作重塑的关系，例如增加社会性资源等。同时他们也指出，尽管工作重塑是一种员工个体的主动性行为，但外部因素对员工重塑行为起到一定诱导性，不同工作环境下的员工个体可能会表现出完全不同的工作重塑行为(魏新等,2018)。
+
+现有的涉及到社会情境因素的工作重塑前因变量的研究，主要集中于组织环境、团队领导或同事方面的探讨(辛迅,2017)。组织环境方面，多样化的组织环境对个体工作重塑产生影响，员工及团队会由于行业特征、组织结构、组织文化以及组织资源等因素的影响而展开不同形式的工作重塑行为(魏新等,2018)。Mcclelland 等(2014)的研究强调管理者需要重视工作重塑氛围，关注对工作重塑行为起到积极作用的组织氛围；Makikangas 等(2016)也检验了组织氛围在团队工作重塑中发挥的作用，研究发现提供丰富的组织资源有利于日常团队工作重塑行为的产生(Makikangas etal.,2017)。这些研究大抵都认为支持性组织氛围有助于员工产生积极的工作态度与行为(Shanock&Eisenberger,2006；张春雨等,2012)。较为自由的组织氛围也能够给员工带来更高水平的心理安全感，员工会更为大胆地尝试改变固有的工作模式而不担心可能的失败(田喜洲，刘美玲,2017)。此外还有研究发现，当自主性较高的工作环境与高工作压力相结合时，员工会开展更多的工作资源寻求活动(Petrou et al.,2012)。
+
+进一步细化到团队领导方面，员工直接接触到的领导者所展现出的领导风格、行为也被验证会对工作重塑带来影响。Bizzi(2017)基于角色理论(Katz& Kahn,1978)指出，工作中的其他人是角色发送者，他们根据自己的工作特点传达对任务的期望。当领导认为员工的能力是固定的、难以被提升的时候，他们的表现确实较差；领导认为其能力可以不断发展时，他们的表现则大大提升(Heslin etal.,2005)。类似的，作为领导，如果可以给予员工更大的自由度，进而发挥其自身的才能来调整工作模式以解决工作中的问题，则员工更有可能基于个体优势进行工作重塑(田喜洲，刘美玲,2017)。社会网络分析的结果表明，当其他人给予自己更多的自主权和反馈时，员工会进行更多的工作重塑，这可能是因为其他人没有限制重塑者进行工作重塑的机会。由此可见，领导方式的不同会直接影响员工做出主动性行为的可能性(Chiaburu et al.,2014)，这也是领导风格作为工作重塑的前因变量的重要理论依据之一(王颖等,2019)。基于此，学者们探讨了展现出更多以员工为导向特征的领导风格作为工作重塑前因变量所起到的积极作用，即对于员工工作重塑行为的促进作用，其中的代表包括变革型领导风格(Hetland et al.,2018; Wang et al.,2017)、服务型领导风格(Bavik et al.,2017; Harju et al.,2018)、员工导向型领导风格(Lichtenthaler&Fischbach,2019)、连接式领导(Makikangaset al,2017)等。同理，高领导-成员交换关系质量(Radstaak&Hennes,2017)、高上级支持(Leana etal.,2009)也有利于员工个体工作重塑行为的开展。
+
+# 3.4视角四：社会情境因素为工作重塑设立边界条件(调节变量)
+
+外部环境因素除了作为工作重塑直接的前因变量之外，也常常调节工作重塑及其前因变量之间的关系，或者为工作重塑及其结果变量之间的关系设立边界条件。在工作重塑领域中较为热门的组织环境、团队领导等社会情境因素，已被验证对工作重塑与其他变量之间的关系起到调节作用。Luu(2017)基于越南医院员工的研究发现，服务文化调节团队工作重塑与团队工作投入的关系。Cheng 等(2016)的研究发现，员工感知到的组织支持是影响团队工作重塑转化为积极工作结果(例如工作满意度、组织承诺和工作绩效)的重要调节因素。Shin 等人(2018)的研究结果表明，同事的情感性支持加强了个体的工作重塑及其工作投入之间的关系。相反，同事的工具性支持削弱了这种关系。与社会情境作为前因变量的理论相类似，社会情境作为调节变量时，不论是组织环境还是团队领导、同事，都涉及社会联系。作为工作资源的一种重要形式，这种联系带来的社会性支持为个体提供工作重塑所需的工作资源，进而促进员工进行重塑(Bunderson& Thompson,2009)。整体上看，这也使得有关社会情境对工作重塑的影响的研究，不论作为其前因变量还是调节变量，都存在一定交叉性。相比于将研究明确归类于特定视角，本文侧重于揭示现有工作重塑研究确实已经关注到社会情境对工作重塑的影响。现有的丰富研究成果为工作重塑的后续研究奠定了良好的研究基础，但也存在值得进一步发展的方向，例如大多数研究只考察了较为直接的前因变量与工作重塑的关系(王桢,2020)，但是对其中更深层次的中介机制缺乏考察。
+
+# 3.5社会情境因素影响工作重塑的内在机制以及社会情境与个体特征的交互
+
+社会情境因素不论是作为工作重塑行为的前因变量，还是调节变量，大多涉及社会情境因素影响工作重塑行为的内在机制。工作重塑是个体在工作设计中进行的主动性改变，是员工主动性行为的一种表现形式(Tims etal.,2012)。工作重塑的前因变量可分为远端变量与近端变量，相比于个体差异因素、工作特征和领导行为等较远端的前因变量，主动性动机则是一种更为近端的前因变量(Zhang＆Parker,2019)，其在远端前因变量和工作重塑之间起到中介作用(王桢,2020)。Parker 等(2010)提出的主动性动机模型指出了三种导致主动行为的动机状态：(1)能做(Can do)。该动机状态包括个体自我效能感知(我能做到吗？）、对控制性的评估和归因(该行为在多大程度上是可行的？)以及预估的行动成本(该行为实施的风险有多大？）。(2)有理由做(Reason to)。该动机状态有关目标选择和坚持，聚焦更为自我决定的动机形式。(3)有能量做(Energized to)。该动机状态强调个体高积极情绪状态相关的动机。
+
+尽管以往研究并未对社会情境因素影响工作重塑的内在机制进行归纳，但工作重塑属于主动性行为，学者们可以从以往聚焦个体主动性行为与社会情境因素关系的实证研究中获得借鉴。以往有关个体主动性行为与社会情境因素关系的实证研究，整体上看从主动性动机模型中的能做、有理由做、有能量做三个机制出发。例如，领导相关因素对于个体主动行为的塑造作用在以往研究中备受重视，研究发现变革型领导会提高下属关于工作任务的角色宽度自我效能感(cando)(Den Hartog＆Belschak,2012)，增强个体情感承诺或建言角色感知(reasonto) (Duan et al.,2017)，提高个体积极情绪或者工作投入(energized to) (Niessen et al.,2017),进而促进个体的主动性行为。同样，授权型领导风格、道德型领导风格、服务型领导风格、真诚型领导风格等积极领导风格类型也存在以上的影响机制(Cai et al.,2019;Den Hartog&Belschak,2017)；而与此相反，类似于辱虐型领导风格的一系列消极领导风格会削弱个体的“能做”、“有理由做”动机，进而不利于个体主动性行为的产生(Cai etal.,2019;Ouyang etal.,2015)。再者，与团队相关的因素，比如团队成员如何进行互动也会对员工的个体行为产生重要影响。在互动过程中，成员收集信息、交换资源，并根据他们收到的反馈来改变自身的行为。已有实证研究表明，从同事那里获得的信任能够激励个人冒着风险去设定并争取超过固有工作要求的工作目标，即提升了个体的角色定位(reason to)，这进而促进了他们的积极主动行为(Parkeretal.,2006)。同样，感知到的同事支持也能够提升个体“能做”、“有理由做”等动机，员工会进而采取主动性行为作为回报(Tucker,etal.,2008)。
+
+值得注意的是，工作重塑是个体导向的行为(Wrzesniewski&Duton,2001)。因此，社会情境影响工作重塑的过程，自然也离不开重塑者个人特征的作用。以往有关工作重塑的研究大多也探讨了个体特征与社会情境因素的交互关系，以期更好的解释其对工作重塑的影响。不同的个体特征与社会情境因素组合，对于个体的工作重塑行为会产生不同影响。Parker 等(2010)从人-环境交互的视角出发，指出个体特征与情境因素存在交互作用，并对主动性动机与主动性行为产生影响。Chen 和 Kanfer(2006)采用动机-匹配视角(Motivational-fit Perspective)的研究发现，具有高动机倾向的的个体(例如高水平成就动机的个体)在不允许他们表达动机倾向的情境中并不容易被激励。也就是说，当个体特征与情境因素相匹配时，个体特征因素才能发挥更大的作用。这些观点与发现大多基于特质激活理论(Tett&Burmett,2003)。该理论指出，当情境中具有与个体特质相似的线索时，个体的人格会被“激活”并对个体的行为产生影响。Erdogan 和 Bauer(2005)的研究指出，只有当良好的人-组织匹配和人-工作匹配存在时，员工的主动行为才会有助于其职业幸福感和工作绩效方面的提升。另有研究阐述了员工与其上司之间在主动性方面是否匹配的重要性。Zhang 等(2012)认为，领导者与下属在主动性人格方面越一致，他们之间的关系质量就越好，进而下属会获得越好的绩效和态度结果;但是当领导者比下属更主动时，这种不协调效应会对关系质量产生不利影响，也有可能不利于下属的绩效评价。由此可见，个体特征与社会情境之间的互动关系会进一步影响结果变量。由此推断，在以往的重塑研究中，之所以某一社会情境因素会对个体工作重塑行为存在不同影响，可能是个体特征与社会情境因素的不匹配造成的，这值得未来进一步深入研究。
+
+# 3.6基于中国社会情境的工作重塑有效性
+
+工作重塑概念自提出以来就获得了国内外学者的广泛关注，学者们在东西方的不同管理情境下开展了诸多实证研究。值得注意的是，工作重塑作为一项以自我导向为主的主动性行为，其应用于注重集体主义的中国社会文化情境下的有效性尚未获得充分的探讨。举例来说，尽管诸多研究验证主动性行为对工作绩效与职业成功起到促进作用(Fuller&Marler,2009;Thomas etal.,2010)，近年来慢慢有证据表明并不是所有的主动性行为都能带来益处。例如，Grant 和 Mayer (2009)在其研究中指出，当个体缺乏亲社会动机时，他们的主动行为并不能促进主管对其工作表现做出积极判断。Campbell(2000)进而讨论了“主动性悖论”的概念，即个体需要主动性，但前提是它符合领导者的期望。同样，若个体开展的工作重塑行为并不被领导乃至于组织所期望，或是该行为打扰到了周围人的日常工作，工作重塑可能并不会带来积极影响。中国诸多企业采用传统的等级制组织架构，企业人员处于等级序列之中，上级与下属之间的权力距离较高，在这样的背景下，个体被要求遵从权威的等级制度，个体的重塑行为可能不被组织与领导所期望。同时，中国的中庸文化主张做事含蓄与和睦，不做“出头鸟”(Wong et al.,2010)，且中国文化情境下的员工更注重集体主义。关系(Guanxi)，尤其是除正式工作之外的私人关系，在员工日常工作中扮演着重要角色(田启涛，关浩光，2017)。在这一背景下的员工工作重塑，若更多以提升自我掌控能力为目的而不考虑与整个团队的其他成员的和谐互动(刘颖等,2018)，则有可能得不到期望中的结果。
+
+Parker 等(2019)基于系统的文献检索与归纳总结，提出“明智的主动性行为”(WiseProactive Behavior)框架，识别了三种可能增加或降低主动性行为有效性的因素：分别是任务和战略因素、社会和关系因素、自我调节因素。他们认为有效的主动性行为需要个体在形成与实现自身主动性目标时平衡好以上三个因素。首先，主动性包括在特定的任务和战略情境下发起改变，这涉及到最基本的问题，即主动性是否适合该任务与战略情境。在某些情况下，例如组织或团队并未做好应对改变的准备时(Eby et al.,2000)，主动改变可能不是最好的选择，适应环境可能更为合适(Stermberg,1998)。研究表明，个体的主动性与个体所在的任务和战略情境越匹配，它就越有可能有效(Parker et al.,2019; Vough et al.,2017)。相比于采用扁平组织架构的新兴企业，以等级组织架构为主的传统制造业企业依旧在中国占有很大的比重。这类企业拥有较为规范且权威的制度，对每份工作也有明确的工作职责描述，员工被要求遵循组织规范。此时员工的重塑行为可能不被组织与领导所期望。Fang 等(2011)探究新进员工的社会化过程，强调在具有高度制度化策略的情境下，新进员工的主动性并不那么必要，因为该策略已提供了员工需要遵循的详细工作程序，减少了不必要的歧义。相比之下，当新进员工所进入的组织采用的是个体化策略时，个体角色与期望变得不明确，新员工采取主动性行为可以帮助降低不确定性，进而提升自身的绩效。个体特质，诸如政治技能、情境判断、情境了解等(Bizzi,2017; Sun&van Emmerik,2015)，能帮助个体调整自己的主动性，以适应任务和战略目标。相对的，若个体所处的任务和战略情境中强调了更多的工作自主性和较少组织制度化，则个体主动性能够被激活并充分发挥作用(Fang et al.,2011;Wang et al.,2017)。
+
+其次，诸多研究强调在了解主动性行为的影响时，需要考虑社会和人际关系因素(Parkeret al.,2019)。文化情境对于何种人际关系最有效有着重要影响。正如前文中提到的，中国文化情境注重集体主义，员工在工作中更为注重关系维护，若要进行工作重塑，需要更多的考虑社会和关系因素。例如，已有研究表明，更具亲社会导向或团队导向的主动性行为更容易被他人接受(Maynes & Podsakoff,2014)，且个体主动行为中的人际取向和动机也会影响主动性行为的效果。Wihler等(2017)则强调了个体拥有的政治技能的人际关系维度可以调节个体主动性对绩效的影响。这些研究结论都值得在东方文化情境下进行验证。除了人际关系导向的能力和动机，地位也是在中国情境下值得深入探讨的关系因素之一，因为它能塑造动态的人际过程，从而影响主动性行为的结果。Howell等(2015)认为，建言者的地位决定了他们的意见是否会被管理者考虑并采纳，管理者更倾向于考虑那些来自地位较高的人的建言并随后给予更高的绩效评价。除此之外，当个体处在更为积极的组织情境中时，如领导者对员工的积极主动持开放态度(Tucker&Turmer,2015)等，个体的主动性行为更容易被领导、同事等周边人认可并能带来积极成果；相反，源自中国传统文化背景的家长式领导的重要维度之一的威权领导(刘冰等,2017)，往往具有很高的传统性(即注重维持等级权威)，为保持其权威则更倾向于让员工服从其严格的指令而不是允许其做出主动性行为(Wang&Kim,2013)。
+
+最后，除了对外在情境的考虑之外，主动性行为更需要一种“内在”的引领，即自我调节。从这一角度来看，个体确定开展的主动性行为如果与个人的兴趣、专业技能与知识、个人资源(如自我效能感、社会支持、时间金钱)等相一致，则该主动性行为将会更加明智。也就是说，个体应该是能够发起主动性行为的“合适的人(RightPerson)”，且该主动性行为“适合个人(Right for the Person)”。考虑到主动行为是自我发起的，且以改变为核心，势必存在一定的心理风险(Fay&Frese,2001)。同时，主动性通常也需要相当高的持久性，且可能造成个体心理资源的高度消耗(Strauss &Parker,2014)。不明智的主动性行为可能会导致个体的资源枯竭以及倦怠。具备学习能力与毅力是个体能够从做出主动性行为中获益的必备条件，有效的内部自我调节则可以帮助个体提高自身的学习能力与毅力(Parker etal.,2019)。同样，促进有效学习的团队氛围和领导者往往也会促进员工的自我调节过程，进而增大员工的主动性行为产生积极结果的概率(Chen&Hou,2016)。综上所述，在中国情境下员工的工作重塑是否是一项“明智的主动性行为”需要综合以上三种因素进行通盘考虑。
+
+基于对嵌入于社会情境因素的工作重塑研究的述评，本文由此提出工作重塑的未来研究展望，研究框架如图1所示。
+
+![](images/07e3c3a4c05d6d416440af5398f76e1fcf2131b2134836e5a8b43b538f461e7d.jpg)  
+图1研究内容框架
+
+# 4工作重塑的未来研究展望
+
+在上文中，我们对现有关于工作重塑与社会情境因素关系的研究进行了较为概括的述评，并在此过程中发现：纳入社会情境因素的工作重塑研究的每一种视角，都有值得进一步探究
+
+的方向和空间。本文认为，未来有关嵌入于社会情境的工作重塑研究可以关注以下几个方面。
+
+# 4.1探索工作重塑对他人的影响
+
+在对工作重塑与社会情境因素关系的研究进行概括的基础上提出的四种研究视角中，本文首先提出了社会情境中的其他人(例如同事和主管)可以是重塑行为的目标这一种视角。以关系型工作重塑为例，工作重塑概念自提出以来就强调个体与工作环境中的其他人的接触与沟通，这种互动关系增加了工作重塑对他人产生影响的可能性，且这种影响不仅仅局限于重塑的直接对象，也可能涉及工作场景中更多的人。首先，管理者最为关心的是重塑者的工作重塑行为是否会激发团队内其他员工的重塑行为，即工作重塑的交叉传递效应。虽然已有部分研究验证了工作重塑在同事间存在传递，但未来研究还需要进一步关注其内在机制，以及个体特质、其他情境因素在其中的调节作用。
+
+再者，个体工作重塑对他人工作重塑行为的这种传递作用，大多涉及他人如何感知个体的重塑行为并对其做出反应。主动性人格相关文献中也已尝试探讨他人会如何感知个体的主动性人格并做出相应的反应。例如 Sun 等(2021)就指出，工作情境中员工的主动性人格可能会被同事嫉妒进而减少同事的帮助行为、提高同事的敌视反应。未来的研究，可以探究他人对个体工作重塑行为的感知及做出的反应，这里提到的他人可以是领导、同事乃至于客户。归因理论(Attribution Theory)指出，当个体遇到与自身可能有关的积极或消极的事件时，个体常常会开启因果搜寻(Causal Search)，即个体试图识别这些事件或行为背后的动机(Geddes& Callister,2007)，特别是当行为偏离个体原有的期望、目标或价值预期时(Douglas et al.,2008)。该理论为解释他人如何感知个体的重塑行为提供了理论基础。当个体根据个人目标进行工作重塑时，其行为与变化有时会与他人的期望相矛盾，这就使得个体自身的工作重塑对他人的工作产生积极或消极的影响，此时，他人可能会想要理解其行为产生的动机，即他人会对其行为进行归因。例如他人会对个体重塑行为的亲社会动机归因，试图理解该行为所展现出来的利他倾向(Grant&Mayer,2009)。而归因和行为(即做出反应)之间的关系已得到诸多研究检验。例如Rodell和Lynch(2016)指出，做出志愿行为的员工可能会获得好评，也可能会被污名化，这取决于他们的这些行为被同事归因于内在动机还是印象管理动机。以往研究指出，当员工所展现出来的组织公民行为被归因于较为消极的动机(如印象管理动机)时，则他人倾向于做出消极情绪与行为反应；与之相反的是，他人会对归因于积极动机(如亲社会动机、内在动机等)的组织公民行为做出积极情绪和行为反应(Halbesleben et al.,2010)。因此，当个体的重塑行为被他人做出不同归因时，他人可能会对重塑者的重塑行为做出或积极或消极的行为反应，例如社会支持与社会敌视(Chiaburu& Harrison,2008)。值得注意的是，归因理论进一步指出，个体在对特定事件进行因果搜寻过程中通常会考虑到多个信息线索(Information Cues)。这会使得个体对于特定行为的动机归因感知得到削弱或增强(Kelley,1973)。归因理论就指出个体特征会影响个体如何看待与解释事件(Hollander& Offerman,1990)。例如低信任倾向的个体常常与人际消极有关(Ferguson&Peterson,2015)，这样的个体更不容易对自身带来消极影响的行为进行积极动机归因。因此，未来有关他人如何感知个体工作重塑行为并做出反应的研究，需要更严谨地考虑其中可能存在的边界条件。除归因理论之外，诸如社会比较理论等也可以帮助学者理解他人对重塑行为的感知及做出的反应。Sun等(2021)在其研究中就基于社会比较理论探究了主动型人格可能通过相对领导成员关系及嫉妒导致同事的敌视反应。
+
+最后，这些社会情境(例如他人)是否又会进一步影响到个体接下来的工作重塑也值得未来进一步研究。Bandura(1997)的交互决定论(Reciprocal Determinism)指出，个体既是社会系统的生产者也是社会系统的产物，说明个体与社会情境因素之间存在相互作用。学者在以往研究中已经关注到这一点并对其进行了探究。Frese 等(2007)在其研究中指出，工作特征(例如控制性、复杂性)通过增强个体的控制倾向进而促进个体主动性，而当个体拥有更多主动性时，其反过来也会促使工作本身的控制性与复杂性的提升。Li等(2014)同样也认为工作特征(例如工作要求，工作社会支持等)对个体主动性人格的变化具有滞后影响，而个体主动性人格的变化又会进一步带来工作特征的变化。社会信息加工理论指出个体总是调整自己的行为以试图适应社会环境(Chen etal.,2013;Salancik&Pfeffer,1978)，而社会线索则扮演着角色传递的作用，帮助个体了解哪些行为符合个体本身角色(Bizzi,2017)。当他人对个体的工作重塑表现出支持或是敌视的反应时，这些线索可以是直接的评论或是微妙的面部表情(Carroll & Russell,1996)，这些都会被重塑者所注意到。重塑者会利用这些与他人的互动结果来评估他们的行为，进而影响对于未来是否再次进行工作重塑行为的判断(Tims et al,2020)。由此可得，基于动态视角去探究工作重塑与他人之间的交互关系，也是未来研究值得关注的方向。同样，重塑者与他人的个体特征等边界条件在这一过程中的影响也不容忽视。
+
+# 4.2探索团队工作重塑驱动个体工作重塑的多重路径
+
+团队工作重塑概念拓展了工作重塑的适用范围，说明了社会情境因素是工作重塑的组成部分的情形。随着工作团队成为组织的基本工作单元，团队工作重塑的重要性不言而喻。值得注意的是，团队工作重塑并非是个体工作重塑的简单加总(Leana etal.,2009)。个体工作重塑由员工个人主导，更多服务于个人福祉(例如个人-工作匹配)，而团队工作重塑的实施主体是团队成员整体，由团队成员共同对团队工作的边界进行改变和塑造，以求更好地实现团队整体利益(王桢，2020)。这也意味着，当团队背景下每个成员的工作重塑水平都很高时，也并不意味着团队工作重塑水平高。以个人导向为主的工作重塑行为只有较好融入于团队中，方能有利于团队效能(刘颖等,2018)。这两个变量在行为主体与目标上的区别要求未来的研究对它们进行区分。
+
+Rudolph 等(2017)在其工作重塑的元分析研究中强调了关注组织内不同层次的工作重塑行为的重要性。嵌入于团队的个体无论是认知、态度还是行为方面，不可避免地会受到团队正式、非正式规范所传递信息的影响(陈建安等,2020)。因此，未来研究可以考虑探索团队工作重塑驱动个体工作重塑的多重路径，进而对个体结果变量产生影响。正如前文所言，团队成员会受到团队中的情绪传染、榜样示范、规范三种影响(Tims et al.,2013)，未来研究可以基于情绪传染、社会学习、社会规范三个机制探索团队工作重塑如何驱动个体工作重塑行为，进而对个体结果变量产生影响，通过挖掘可能的中介变量，开展更为深入的探究。同时，个体特质、情境因素等方面的差异也可能会对这一过程构建边界条件。例如，自我效能感是个体对自己是否有能力完成特定任务的主观感知，除了存在个体水平差异之外，在某些情境下能够被激活或者增强。遵循社会学习理论，个体观察到团队中其他成员的重塑行为，会产生对该行为带来结果的积极认知或模仿此行为的效能预期(陈建安等,2020)；高自我效能感的个体对于自身从事工作重塑活动能够成功的信心更强，从而更愿意实施工作重塑(Cenciotti etal.,2017;Miraglia et al.,2017)。因此，未来研究可以更多的探讨类似的个人特质或者情境因素等方面的差异在团队工作重塑驱动个体工作重塑行为过程中的调节作用。
+
+进一步看，嵌入于团队工作背景下的个体工作重塑，不仅会受到团队工作重塑的跨层次影响，也可能会受到团队内其他个体的工作重塑行为的影响。团队内部不同个体之间工作重塑的互动机制以及效能也值得未来进一步探究。社会比较理论为诠释不同重塑者之间的互动提供了一定的理论依据，该理论认为个体为了评价自身在组织中的地位，通常会从工作环境中寻找参照对象进行“相似并向上”的社会比较(Swencionis&Fiske,2016)。团队内做出高水平工作重塑行为的个体极易成为其他较低水平重塑者的参照物，即潜在地启动了一个向上的社会比较过程。一方面，向上比较可能导致情绪耗竭和嫉妒等消极结果，但另一方面可能促使较低水平的重塑者树立追赶目标并从事有利于地位提升的积极行为(Lee& Duffy,2019)。例如，Ng(2017)有关个别协议(Idiosyncratic Deals)的研究发现，个别协议会导致旁观者与协议接受者之间嫉妒与被嫉妒的关系，这一认知加剧了二者之间的竞争氛围。那么，是否团队背景下不同数量与水平的重塑也会导致团队内部的竞争氛围？在强调团队合作的当下，以个人导向为主的工作重塑行为只有较好融入于团队中方能有利于团队效能(刘颖等,2018)。由于团队内部个体互动关系存在一定复杂性且以往研究尚未开展相关探讨，未来研究可以借鉴诸如团队多样性等领域的研究成果，进一步深入探究嵌入于团队工作背景下的工作重塑。
+
+# 4.3探索社会情境因素影响重塑行为的内在机制及其与个体特征的互动对重塑的影响
+
+一旦我们确定社会情境是工作重塑行为的前因变量及调节变量，识别其影响重塑行为的内在机制将会是未来重要的研究方向之一。工作重塑是员工主动性行为的一种表现形式(Tims et al.,2012)。基于 Parker 等(2010)提出的主动性动机模型，社会情境因素影响个体工作重塑行为的内在机制研究可以从三种动机状态入手进行，即能做、有理由做、有能量做。学者们可以寻找基于这三种机制的潜在中介变量。例如，自我效能感是个体对自我能力的知觉与评价，是个体“能做”动机状态的代表，除此之外还有角色宽度自我效能感、主动行为风险感知、核心自我评价等。而个体认同、自主动机、组织嵌入、情感承诺等可以代表个体“有理由做”的动机状态；积极情绪、工作投入等则体现了“有能量做”的个体主动性动机。
+
+同时，基于组织行为学中的交互主义视角(Interactionist Perspective)，个体特征会与社会情境因素相互作用进而影响个体的工作重塑行为。未来研究可以从个人特征与社会情境是否匹配的视角入手探究社会情境对于工作重塑行为的影响。具体而言，当个体特征与社会情境因素相匹配时，社会情境因素对重塑行为的影响将会更强。另一方面，当社会情境因素和个体特征彼此不匹配时，它们会产生负向的交互作用。无论是社会情境因素影响个体工作重塑的内在机制，还是社会情境因素与个体特征的匹配性对工作重塑的影响，都聚焦如何能让社会情境因素更好地服务于工作重塑。组织中支持重塑的管理氛围对个体主动采取重塑行为具有积极的推动作用(Mcclelland et al.,2014)，而什么形式的支持性氛围可以更好的推动重塑，学者们则可以从这些影响个体工作重塑行为的社会情境因素出发进行探究。
+
+# 4.4探索增强中国社会情境下的工作重塑有效性的举措
+
+工作重塑的概念在西方管理情境下被提出，学者们开展了一系列研究。考虑到中国与西方国家存在较大的文化差异，在中国的社会情境下这一概念是否适用，以及工作重塑产生的效果是否存在差异都值得进一步探讨(田启涛，关浩光,2017)。相比于西方崇尚个人主义，中国文化情境下的员工注重集体主义。工作重塑作为一项更多以自我为导向的主动性行为，在中国这样的社会文化情境中可能存在一定风险。因此，如何在工作中有效地开展工作重塑，是未来研究值得探究的议题。Parker 等(2019)的“明智的主动性行为”框架中指出任务和战略因素、社会和关系因素、自我调节因素均可能增加或降低主动性行为有效性。基于该框架，未来的重塑研究若要探讨个体工作重塑在中国的组织内是否有效，则可以从以上三个方面入手。需要着重指出的是，工作重塑的开展，不仅需要判断重塑行为是否适合自身当下的任务与战略情境，还要考虑社会与关系因素，这一层面也属于本文所重点关注的社会情境因素。
+
+正如本文一开始就提出的，许多工作存在相互依赖的关系，这就导致个体工作重塑很可能会影响到他人，或者可能需要获得他人支持才能有效。而在注重集体主义的中国文化情境下探讨主动性行为，更需要考虑社会情境中的其他人，尤其是领导相关因素。领导，特别是直接领导，是员工工作环境中的重要他人，对员工的工作心理、行为乃至绩效具有最直接的影响(田喜洲等,2020)。一方面，领导方式的不同会直接影响员工主动做出工作重塑行为的可能性(Chiaburu et al.,2014)，以员工为导向的领导风格对工作重塑起到积极的推进作用，例如变革型领导风格(Wang et al.,2017)与服务型领导风格(Harju et al.,2018)等。另一方面，员工也需要判断自身与领导的关系。中国文化情境下，关系在员工日常工作中扮演着重要角色(田启涛，关浩光,2017)，员工与领导之间的积极关系，例如高领导-成员交换关系质量(Radstaak&Hennes,2017)、高水平的上级支持(Leana et al.,2009)等，有利于员工个体重塑行为的开展。此外，领导也需要有意识地引导员工进行有利于组织发展与个人发展的工作重塑行为，创建支持性的工作氛围；而领导主动与员工沟通协调，传达组织愿景与目标，能很好的帮助员工了解拟开展的工作重塑行为是否被现阶段的组织发展所需要，这也是任务和战略情境因素的重要体现。值得注意的是，类似于个人协议，员工工作重塑不仅是接收方(员工)与授予方(管理者)之间的事情，占比大多数的旁观者(同事)的态度与反应，也需要得到重视并进行协调，而领导在这一过程中扮演着重要角色(王林琳等,2021)。例如领导应注意打造相对公平公正的工作氛围并鼓励员工进行有利于组织与个人发展的重塑行为，或者及时、客观、公开地对员工的重塑行为进行探讨，从而让他人对其行为做出积极的归因与解读。
+
+最后，个体需要确认其开展的重塑行为是否与个人的兴趣、专业技能，乃至个人资源等相一致，从而加强自我调节过程。举例来说，个体从事有利于积累资源的主动性行为，例如进行趋近型工作重塑(Petrou et al.,2018; Rudolph et al.,2017)；或者个体自身拥有较多的个体资源，例如高角色宽度自我效能感(Nguyen etal.,2017)，都有助于加强个体的自我调节过程。
+
+综上，当个体的主动性行为能够综合考虑到以上三种因素，即任务和战略情境、社会和关系情境、自我调节因素，则该主动性行为更有可能变得有效，能够促进所需的改变，得到他人的积极评价，个体可以从中获得学习与成长，从而进一步带来高工作绩效以及幸福感。基于中国社会情境下的工作重塑，在实施过程中可能会存在更多的风险，综合考虑以上三种因素时，工作重塑行为更有希望成为“明智的主动性行为”。未来的工作重塑研究，可以从三大因素入手，挖掘更多中国文化情境下的变量，探究其对重塑行为有效性的影响。
+
+# 5结论
+
+本文关注嵌入于社会情境中的工作重塑，首先界定了学界对社会情境与工作重塑两者的基本定义，在回顾文献的基础上针对现有关于工作重塑与社会情境因素关系的研究进行简要综述，最后结合其他相关变量(尤其是主动性行为)的研究进展，提出嵌入于社会情境中的工作重塑的未来研究展望，以期进一步推动工作重塑研究的深入发展。
+
+本研究重点关注如何能让社会情境因素更好地服务于工作重塑。组织中支持重塑的管理氛围对个体主动采取重塑行为具有积极的推动作用(McClelland etal.,2014)，而什么形式的支持性氛围可以更好的推动工作重塑行为，则可以从这些影响个体工作重塑行为的社会情境因素出发进行探索。本文的管理实践意义在于让管理者关注到可以促进员工工作重塑行为的支持性工作环境，避免抑制性工作环境。管理者可以采用强有力的工具来增强个体的主动性行为，例如采用变革型领导风格、培养创新氛围等。同时，基于交互主义视角，情境性的干预需要综合考虑员工的个体特征差异，从而让该干预在增强个体重塑行为上发挥最大的作用，即管理者应采用符合个体具体情况的方法。例如，对于缺乏“能做”动机状态的员工，管理者可以创造出一种主动促进氛围(Hong etal.,2016)。具体到中国情境下的个体工作重塑行为，如何让其变得明智且高效也是组织管理者需要细致考虑的问题。最后，本文重点关注社会情境与工作重塑之间的关系，希望对现有文献进行系统梳理，在深入思考的基础上提出完整的研究框架。不得不指出的是，社会情境与工作重塑之间的关系非常复杂。因此，为了更好的凝练科学问题、聚焦研究主线，本文选择在对工作重塑进行界定的基础上将工作重塑视为一项特定的主动性行为，在全文的讨论过程中，未对其进行更为细化的分类。未来的工作重塑实证研究如果要探讨社会情境对不同类型工作重塑更为具体的影响机制及效能，可以考虑将工作重塑进一步分类、细化，预期可以获得一系列富有成效的研究成果。
+
+# 参考文献：
+
+曹莉娜，刘德鹏,Jhony Choon Yeong Ng.(2019).合作工作重塑对个体工作重塑的影响研究．南大商学评论，(04),110-134.  
+陈建安，阮氏梅璎，陈武.(2020)．规范激活与社会学习：团队工作重塑驱动个体工作重塑的双路径．中国人力资源开发,37(11),6-21.  
+刘颖，徐森，杨忠.(2018).工作重塑：理论脉络、研究进展与本土化展望．江海学刊,(06), $8 8 - 9 4 + 2 5 4$   
+刘冰，许晓，徐璐.(2017)．威权领导与员工主动性行为：一个跨层次研究．预测,36(03),8-13.  
+孟亮，陈晓蝶.(2021).爱上工作：工作重塑的魔力．人力资源,(17),52-57.  
+田启涛，关浩光.(2017).工作设计革命：工作重塑的研究进展及展望.中国人力资源开发,(03),6-17.  
+田喜洲，刘美玲.(2017).基于个体优势的工作重塑．心理科学进展,25(09),1579-1596.
+
+田喜洲，郭小东，许浩.(2020).工作重塑研究的新动向—一基于调节定向的视角．心理科学进展,28(08),1367-1378.王林琳，张凤羽，涂艳，张璇.(2021).个别协议对旁观者的双刃剑效应．中国人力资源开发,38(09),63-75.王颖，江新会，田思雨.(2019).团队如何自组织和自适应?——团队工作重塑的概念、测量、前因与后果．中
+
+国人力资源开发,36(06),62-78.   
+王桢.(2020).团队工作重塑的形成与影响机制．心理科学进展,28(03),390-404.   
+魏新，何颖，罗伊玲，奚菁.(2018).工作重塑的研究热点与方向：一项基于知识图谱软件的可视化分析．中 国人力资源开发,35(01),71-82.   
+辛迅.(2017).社会学习理论视角下领导-下属之间的工作重塑传递效应研究．中国人力资源开发,(03),18-27.   
+张春雨，韦嘉，陈谢平，张进辅.(2012).工作设计的新视角：员工的工作重塑．心理科学进展,20(08),1305- 1313.   
+Bakker,A.B.,Demerouti,E.,De Boer,E.,&Schaufeli, W.B. (2003).Job demands and job resources as predictors of absence duration and frequency. Journal of Vocational Behavior; 62(2),341-356.   
+Bakker,A. B., & Demerouti, E. (20o9). The crossover of work engagement between working couples: A closer look at the role of empathy. Journal of Managerial Psychology, 24(3),220-236.   
+Bakker,A.B.,& Xanthopoulou,D.(2009).The crossover of daily work engagement: Test of an actor-partner interdependence model. Journal of Applied Psychology, 94(6),1562-1571.   
+Bakker,A. B.,Rodriguez-Munoz,A,& Sanz Vergel, A.I.(2016).Modeling job crafting behaviors: Implications for work engagement. Human Relations, 69(1),169-189.   
+Bamberger,P. (2o08).From the editors beyond contextualization: Using context theories to narrow the micro-macro gap in management research. Academy of Management Journal, 51(5), 839-846.   
+Bandura,A. (1997).The anatomy of stages of change. American Journal of Health Promotion,12(1),8-10.   
+Bandura,A.,& McClellnd, D. C.(1977). Social learning theory. Prentice Hall: Englewood cliffs.   
+Barsade,S. G. (2oo2). The ripple efect: Emotional contagion and its influence on group behavior. Administrative Science Quarterly, 47(4), 644-675.   
+Bavik,A.,Bavik,Y.L.,& Tang,P.M. (2017).Servant leadership,employee jobcrafting,and citizenship behaviors: A cross-level investigation. Cornell Hospitality Quarterly, 58(4),364-373.   
+Berg,J.M., Wrzesniewski,A.,& Duton,J.E. (2010).Perceiving and responding to challenges in jobcrafting at diferent ranks: When proactivity requires adaptivity.Journal of Organizational Behavior, 31(2-3),158-186.   
+Biddle,B. J. (1986). Recent developments in role theory. Annual Review of Sociology,12(1), 67-92.   
+Bizzi,L. (2017).Network characteristics: Whenan individual's job crafting depends on the jobs of others.Human Relations, 70(4),436-460.   
+Bommer, W.H.,Miles,E.W,& Grover,S.L.(2oo3). Does one good turn deserve another? Coworker influences on employee citizenship. Journal of Organizational Behavior; 24(2),181-196.   
+Bruning, P.F.,& Campion, M. A. (2018).Arole-resource approach-avoidance model ofjob crafting: A multimethod integration and extension of job crafting theory. Academy of Management Journal, 61(2), 499-522.   
+Bunderson,J.S.,&Thompson,J.A. (2009).Thecallof the wild: Zookeepers,callings,and the double-edged sword of deeply meaningful work. Administrative Science Quarterly, 54(1), 32-57.   
+Cappelli,P.,& Sherer,P.D. (1991).The missing role of context in OB: The need for a meso-level approach.Research in Organizational Behavior, 13,55-110.   
+Campbell, D. J. (20oo). The proactive employee: Managing workplace initiative. Academy of Management Perspectives,14(3),52-66.   
+Cai,Z.,Parker,S.K.,Chen,Z.,&Lam,W. (20l9).How does the social context fuelthe proactive fire?Amultilevel review and theoretical synthesis.Journal of Organizational Behavior, 40(2),209-230.   
+Caroll,J. M.,& Russell,J.A.(1996). Do facial expressions signal specific emotions?Judging emotion fromthe face in context.Journal of Personality and Social Psychology,70(2),205-218.   
+Cencioti, R., Alessndri, G.，& Borgogni, L. (2017). Psychological capital and career success over time: The mediating role of job crafting.Journal of Leadership & Organizational Studies, 24(3),372-384.   
+Chen, G.，& Kanfer,R. (20o6). Toward a systems theory of motivated behavior in work teams.Research in Organizational Behavior, 27,223-267.   
+Chen,G.,&Bliese,P.D.(2O02).Therole of different levels of leadership in predicting self-and collective fficacy: Evidence for discontinuity. Journal of Applied Psychology, 87(3), 549-556.   
+Chen,Z.,TakeuchiR,&m,C.(0l3).Asocialinformationprocesing prspectiveofo-workerifleeo a focal employee. Organization Science, 24(6),1618-1639.   
+Chen,S.Y.,& Hou,Y.H. (O16).The effcts of ethical leadership,voice behavior and climates for innovationon creativity: A moderated mediation examination. The Leadership Quarterly,27(1), 1-13.   
+Cheng,J. C., Chen,C.Y.,Teng,H.Y.,& Yen,C.H. (2016). Tour leaders' job crafting and job outcomes: The moderating role of perceived organizational support. Tourism Management Perspectives, 20,19-29.   
+Chiaburu,D.S., Smith,T.A., Wang,J.,& Zimmerman,R.D. (2014). Relative importance of leader influences for subordinates'proactive behaviors,prosocial behaviors,and task performance. Journal of Personnel Psychology, 13(2),70-86.   
+Chiaburu, D.S.,& Harison, D.A. (20o8).Do pers make the place? Conceptual synthesis and meta-analysis of coworker effects on perceptions,atitudes,OCBs,and performance.Journal of Applied Psychology， 93(5), 1082-1103.   
+Crant, J. M. (20o0). Proactive behavior inorganizations.Journal ofManagement, 26(3),435-462.   
+Demerouti,E.,& Peeters, M. C.W.(2018).Transmission ofreduction-oriented crafting among coleagues: A diary study on the moderating role of working conditions. Journal of Occupational and Organizational Psychology, 91(2),209-234.   
+Demerouti,E.,Bakker,A.B.,Nachreiner,F.,& Schaufeli, W.(2oo1).The jobdemands-resources model of burnout. Journal of Applied psychology, 86(3),499-512.   
+Den Hartog,D.N.,& Belschak,F.D. (2012). When does transformational leadership enhance employee proactive behavior? The role of autonomy and rolebreadth self-efficacy.Journal ofApplied Psychology,97(1),194-202.   
+Den Hartog,D.N.,& Belschak,F.D. (2017). Proactivity at work: Making things happen in organizations.London: Taylor & Francis.   
+Dierdorff,E.C.,Rubin,R.S.,& Morgeson,F.P. (2O09).The milieuof managerial work: An integrativeframework linking work context to role requirements.Journal of Applied Psychology, 94(4), 972-988.   
+Douglas, S.C.,Kiewitz,C.,Martinko,M.J.,Harvey,P.,Kim,Y.,& Chun,J.U. (2008).Cognitions,emotions,and evaluations: An elaboration likelihood model for workplace aggression. Academy ofManagement Review,33(2), 425-451.   
+Dust，S.B，& Tims,M. (2020). Job crafting via decreasing hindrance demands: The motivating role of interdependence misfit and the facilitating role of autonomy. Applied Psychology, 69(3),881-912.   
+Duan,J.,Li, C., Xu, Y.,& Wu, C.H.(2017).Transformational leadership and employee voice behavior:Aygmalion mechanism.Journal of Organizational Behavior; 38(5),650-670.   
+Eby,L.T.,Adams,D.M.,usl,J.E.A.,&GabyS.H. ().Perceptionsoforganzationalreadinessforchange: Factors related to employees' reactions to the implementation of team-based selling. Human Relations, 53(3), 419-442.   
+Erdogan, B.,& Bauer,T.N. (2oo5). Enhancing career benefits of employee proactive personality: The role of fit with jobs and organizations. Personnel Psychology, 58(4),859-891.   
+Fang,R.,Duffy,M.K.,& Shaw,J.D.(2O11).The organizational socialization process: Reviewand developmentof a social capital model. Journal of Management, 37(1),127-152.   
+Fay,D.,& Frese,M.(20o1).The conceptofpersonal initiative: Anoverview ofvalidity studies. Human Performance, 14(1), 97–124.   
+Ferguson,A.J.,& Peterson,R.S. (20l5). Sinking slowly: Diversity in propensity to trust predicts downward trust spirals in smal groups.Journal of Applied Psychology, 100(4),1012-1024.   
+Frese,M., Garst, H.,&Fay,D. (207). Making things happen: Reciprocal relationships between work characteristics and personal initiative in a four-wave longitudinal structural equation model. Journal of Applied Psychology, 92(4), 1084-1102.   
+Fuller, Jr.B.,& Marler,L.E.(2Oo9). Change driven by nature: A meta-analytic review ofthe proactive personality literature. Journal of Vocational Behavior, 75(3),329-345.   
+Geddes,D,& Calister,R.R. (2007). Crossing the line(s): Adualthreshold model of anger inorganizations.Academy of Management Review, 32(3),721-746.   
+Gino,F., Gu,J.,& Zhong, C.B. (2009). Contagion or restitution? When bad apples can motivate ethical behavior. Journal of Experimental Social Psychology, 45(6),1299-1302.   
+Grant,A.M.,& Parker,S.K.(209).7redesigning work design theories: The rise of relational and proactive perspectives. Academy of Management Annals, 3(1), 317-375.   
+Grant,A.M.,& Mayer,D.M.(2oo9). Good soldiers and good actors: Prosocialand impression management motives as interactive predictors of afiliative citizenship behaviors.Journal ofApplied Psychology, 94(4),900-912.   
+Halbesleben,J.R.B.,Bowler,W.M.,Bolino,M.C.,& Turnley, W.H. (2010). Organizational concern,prosocial values,or impression management? How supervisors atribute motives to organizational citizenship behavior. Journal of Applied Social Psychology, 40(6),1450-1489.   
+Harju,L. K., Schaufeli, W.B., & Hakanen, J.J. (2018). A multilevel study on servant leadership, job boredom and job crafting. Journal of Managerial Psychology, 33(1),2-14.   
+Hatfield,E., Cacioppo,J.T,&Rapson,R.L.(1992).Primitive emotional contagion.Review of Personalityand Social Psychology, 14,151-177.   
+Heslin,P.A.,Latham,G.P.,& VandeWalle,D. (20o5).The effect ofimplicit person theoryonperformanceappraisals. Journal of Applied Psychology， 90(5), 842-856.   
+Hetland,J.,Hetland,H.,Bakker,A.B.,&Demerouti,E.(2O18).Dailytransformational leadershipand employee job crafting: The role of promotion focus. European Management Journal, 36(6), 746-756.   
+Hollander,E.P.,& Offermann,L.R.(199o).Power and leadership inorganizations: Relationships in transition. American Psychologist, 45(2),179-189.   
+Howell,T.M.,Harrison,D.A.,Burris,E.R.,&Detert,J.R. (2015). Who gets credit for input?Demographic and structural status cues in voice recognition. Journal of Applied Psychology, 100(6),1765-1784.   
+Hong,Y.,Liao,H.,Raub,S.,& Han,J. H. (2O16). What it takes to get proactive: Anintegrative multilevel model of the antecedents of personal initiative. Journal of Applied Psychology, 101(5), 687-701.   
+Johns,G. (2018). Advances in the treatment of context in organizational research. Annual Review of Organizational Psychology and Organizational Behavior, 5,21-46.   
+Katz,D.,& Kahn,R.L. (1978). The social psychology of organizations ( $2 ^ { \mathrm { n d } }$ edition). New York: Wiley.   
+Kelley,H. H. (1973). The processes of causal attribution. American psychologist, 28(2),107-128.   
+Kooij,D.T.A.M.,van Woerkom,M., Wilkenloh,J.,Dorenbosch,L.,&Denissen,J.J. (2017).Jobcrafting towards strengths and interests: The effects of a job crafting intervention on person-job fit and the role of age.Journal of Applied Psychology, 102(6), 971-981.   
+Kunter,M.,& Mak, V. (2018). The influence of a competition on noncompetitors.Proceedings of the National Academy of Sciences,115(11),2716-2721.   
+Leana,C.,Appelbaum,E.,& Shevchuk,I. (20o9). Work process and quality of care in early childhood education: The role of job crafting. Academy of Management Journal, 52(6),1169-1192.   
+Lee, K.,& Duffy, M. K. (2019). A functional model of workplace envy and job performance: When do employees capitalize on envy by learning from envied targets? Academy of Management Journal, 62(4),1085-1110.   
+Lichtenthaler,P.W.,& Fischbach,A. (2O18).Leadership, job crafting,and employee health and performance. Leadership & Organization Development Journal, 39(5), 620-632.   
+Li, W. D.,Fay,D.,Frese,M.,Harms,P.D.,& Gao,X.(2O14).Reciprocal relationships between proactive personality and work characteristics: A latent change score approach. Journal of Applied Psychology, 99(5), 948-965.   
+Lu, C.,Wang,H.,Lu,J.,Du,D.Y.,& Bakker,A.B. (2O14). Does work engagement increase person-job fit? The role of job crafting and job insecurity. Journal of Vocational Behavior, 84(2),142-152.   
+Lu,T.T.(20l7). Collectivejobcrafting andteam servicerecovery prformance: Amoderated mediation mechanism. Marketing Intelligence & Planning, 35(5), 641-656.   
+Makikangas,A.,Bakker, A.B.,& Schaufeli, W.B. (2O17). Antecedents of daily team job crafting. European Journal of Work and Organizational Psychology， 26(3),421-433.   
+Makikangas, A., Aunola,K., Seppala,P.,& Hakanen, J. (2O16). Work engagement-team performance relationship: Shared job crafting as a moderator. Journal of Occupational and Organizational Psychology, 89(4),772-790.   
+Maynes,T.D.,& Podsakoff, P.M. (2O14). Speaking more broadly: An examination of the nature,antecedents,and consequences of an expanded set of employee voice behaviors.Journal of Applied Psychology, 99(1),87-112.   
+McClelland,G.P.,Leach,D.J., Clegg, C.W.,& McGowan,I. (2014). Colaborative crafting in callcentre teams. Journal of Occupational and Organizational Psychology, 87(3), 464-486.   
+Miraglia,M.,Cenciotti,R.,Alessandri, G.,&Borgogni,L.(2O17).Translating self-eficacy injob performance over time: The role of job crafting. Human Performance, 30(5),254-271.   
+Morgeson,F.P.,& Dierdorf,E.C.(2011).Work analysis: From technique to theory.APA handbook of industrial and organizational psychology (Vol 2): Selecting and developing members for the organization. American Psychological Association, 3-41.   
+Mowday,R.T.,& Suton,R.I. (1993). Organizational behavior: Linking individuals and groups to organizational contexts. Annual Review of Psychology, 44(1),195-229.   
+Ng,T. W. (2017). Can idiosyncratic deals promote perceptions ofcompetitive climate,felt ostracism, and turnover? Journal of Vocational Behavior, 99,118-131.   
+Nguyen,H.,Johnson,A., Collins,C.,&Parker,S.K. (2017).Confidence maters: Self-eficacy moderates the credit that supervisors give to adaptive and proactive role behaviours. British Journal of Management, 28(2),315- 330.   
+Niessen, C., Mader,1., Stride,C.,& Jimmieson,N.L. (2017).Thriving when exhausted: The role of perceived transformational leadership. Journal of Vocational Behavior, 103,41-51.   
+Oldham, G.R.,& Hackman,J.R.(2010). Not whatit was and not what it willbe: The future of job design research. Journal of Organizational Behavior, 31(2-3), 463-479.   
+Oldham, G.R.,&Fried,Y.(2016).Job design research and theory: Past, present and future. Organizational Behavior and Human Decision Processes,136,20-35.   
+Ouyang,K.,Lam, W.,& Wang, W. (2O15). Roles of gender and identification on abusive supervision and proactive behavior. Asia Pacific Journal of Management, 32(3), 671-691.   
+Parker,S.K., Williams,H.M.,&Turner,N.(2oo6).Modeling the antecedents ofproactivebehaviorat work.Journal of Applied Psychology, 91(3), 636-652.   
+Parker,S.K.,Wang,Y.,&Liao,J.(2019). When is proactivity wise? Areview offactors that influence the individual outcomes of proactive behavior.Annual Review of Organizational Psychology and Organizational Behavior, 6, 221-248.   
+Parker, S. K., Bindl, U.K.,& Strauss, K. (2010). Making things happen: Amodel of proactive motivation.Journal of Management, 36(4), 827-856.   
+Peeters,M.C.W.,Arts,R.,& Demerouti, E.(2016).The crossver of job crafting between coworkers and its relationship with adaptivity. European Journal ofWork and Organizational Psychology,25(6),819-832.   
+Petrou,P.,Demerouti,E.,Peeters,M.C.W., Schaufeli, W.B.,& Hetland,J. (2Ol2).Craftinga job ona daily basis: Contextual correlates and the link to work engagement. Journal ofOrganizational Behavior; 33(8),1120-1141.   
+Petrou,P., Demerouti., E,& Schaufeli, W.B. (2018). Crafting the change: The role of employee job crafting behaviors for successful organizational change. Journal of Management, 44(5),1766-1792.   
+Postmes,T., Spears,R., & Lea, M. (20oo). The formation of group norms in computer-mediated communication. Human Communication Research, 26(3),341-371.   
+Radstaak, M., & Hennes,A. (2017). Leader-member exchange fosters work engagement: The mediating role of job crafting. SA Journal of Industrial Psychology, 43(1),1-11.   
+Rodell,J. B.,& Lynch, J. W. (2016). Perceptions of employee volunteering: Is it “credited” or“stigmatized”by colleagues? Academy of Management Journal, 59(2), 611-635.   
+Rofcanin,Y.,Bakker,A.B.,Berber,A., Golgeci,I.,&Las Heras,M. (2019). Relational jobcrafting: Exploring the role of employee motives with a weekly diary study. Human Relations, 72(4), 859-886.   
+Rudolph,C.W.,Katz,I. M.,Lavigne,K.N.,& Zacher, H. (2017). Job crafting: Ameta-analysis ofrelationships with individual differences,job characteristics,and work outcomes.Journal ofVocational Behavior, 102,2-138.   
+Salancik, G.R.,& Pfeffer, J. (1978). A social information processing approach to job atitudes and task design. Administrative Science Quarterly,23(2),224-253.   
+Shanock,L.R.,& Eisenberger,R.(2006).When supervisors feel supported: Relationships with subordinates' perceived supervisor support, perceived organizational support,and performance. Journal of Applied Psychology, 91(3), 689-695.   
+Shin,I.,Hur, W. M.,& Kang,S. (2018). How and when are job crafters engaged at work? International Journal of Environmental Research and Public Health,15(10),2138-2145.   
+Swencionis,J.K.,&Fiske,S.T. (2O16).Promoteup, ingratiate down: Status comparisons drive warmth-competence tradeoffs in impression management.Journal of Experimental Social Psychology, 64,27-34.   
+Sternberg,R. J. (1998). Abalance theory of wisdom. Review of General Psychology, 2(4),347-365.   
+Strauss,K.,&Parker,S.K.(2014).Effctive and sustained proactivity in the workplace: Aself-determination theory perspective. London: Oxford University Press.   
+Sun,S.,& van Emmerik,H.I.J. (2015).Areproactive personalities alwaysbeneficial?Politicalskillas a moderator. Journal of Applied Psychology,100(3),966-975.   
+Sun,J.,Li, W.D.,Li,Y.,Liden,R. C.,Li,S.,& Zhang,X. (2021). Unintended consequences ofbeing proactive? Linking proactive personality to coworker envy,helping,andundermining,and the moderating role ofprosocial motivation.Journal of Applied Psychology,106(2),250-267.   
+Tett R. P.,& Burnet, D.D. (20o3). A personality trait-based interactionist model of job performance. Journal of Applied Psychology, 88(3),500-517.   
+Thomas, J. P., Whitman,D. S.,& Viswesvaran, C. (2010). Employee proactivity in organizations: A comparative meta-analysis ofemergent proactive constructs. Journal of Occupational and Organizational Psychology, 83(2), 275-300.   
+Tims,M.,& Bakker,A.B. (2010). Job crafting: Towards a new model of individual job redesign. SA Journal of Industrial Psychology, 36(2), 1-9.   
+Tims,M.,Bakker,A.B.,& Derks,D.(2012).Development and validation of the job crafting scale.Journal of Vocational Behavior, 80(1),173-186.   
+Tims,M.,Bakker,A.B.,Derks,D.,& Van Rhenen,W.(2O13).Jobcraftingat the team and individual level: Implications for work engagement and performance. Group & Organization Management, 38(4), 427-454.   
+Tims,M., Bakker,A.B.,& Derks,D.(2015).Examining job crafting from an interpersonal perspective: Is employee job crafting related to the well-being of colleagues? Applied Psychology, 64(4),727-753.   
+Tims,M.,& Parker, S.K. (2020). How coworkers atribute,react to,and shape job crafting.Organizational Psychology Review, 10(1),29-54.   
+Torrente,P.,Salanova,M.,Llorens,S.,& Schaufeli,W.B. (20l2).Teams make it work: How team work engagement mediates between social resources and performance in teams. Psicothema, 24(1),106-112.   
+Tucker,S.,Chmiel,N.,Turner,N.,Hershcovis,M.S.,& Stride,C.B.(2O8).Perceived organizational supportfor safety and employee safety voice: The mediating role of coworker support for safety. Journal of Occupational Health Psychology,13(4),319-330.   
+Tucker, S.,& Turner,N.(2O15).Sometimes ithurts whensupervisors don'tlisten: Theantecedents and consequences of safety voice among young workers. Journal of Occupational Health Psychology, 20(1),72-81.   
+Vough,H. C.，Bindl,U. K.,& Parker, S. K.(2017).Proactivity routines: The role of social processes in how employees self-initiate change. Human Relations,70(10),1191-1216.   
+Wang,H.,Demerouti,E.,& Bakker,A.B. (2O16). Proactivity at work: Making things happen in organizations. London: Taylor & Francis.   
+Wang,H.J.,Demerouti,E.,&LeBlanc,P. (2Ol7).Transformational leadership,adaptability,and job crafting:The moderating role of organizational identification.Journal of Vocational Behavior,1O0,185-195.   
+Wang, J.,& Kim,T.Y.(2O13).Proactive socialization behavior in China: The mediating role of perceived insider status and the moderating role of supervisors' traditionality. Journal of Organizational Behavior; 34(3),389- 406.   
+Weiss,H.M. (1978).Social learning of work values in organizations.Journal of Applied Psychology, 63(6),711- 718.   
+Wihler,A.,Blickle,G.,Ellen II,B.P.,Hochwarter,W.A.,&Feris,G.R.(2017).Personal initiative and job performance evaluations: Role of political skillin opportunity recognition and capitalization. Journal of Management, 43(5),1388-1420.   
+Wrzesniewski,A.,& Duton,J.E. (200l). Crafting a job: Revisioning employees as active crafters of their work. Academy of Management Review, 26(2),179-201.   
+Wong,Y.T., Wong,S.H.,& Wong,Y. W.(2010). Astudy ofsubordinate-supervisor guanxi in Chinese joint ventures. The International Journal of Human Resource Management, 21(12),2142-2155.   
+Zhang,F.,& Parker,S.K.(2O19). Reorienting job crafting research: Ahierarchical structure ofjob crafting concepts and integrative review. Journal of Organizational Behavior, 40(2),126-146.   
+Zhang,Z., Wang,M.O.,& Shi,J.(2Ol2). Leader-follower congruence in proactive personality and work outcomes: The mediating role of leader-member exchange. Academy of Management Journal, 55(1),111-130.
+
+# Job crafting embedded in social contexts: A new perspective on job crafting LIN Xinyue1,2, MENG Liang1,2
+
+( SchoolofBusinessand Management,Shanghai InternationalStudies University,Shanghai2Ooo83,China) (2 Institute of Organizational Behavior and Organizational Neuroscience, Shanghai International Studies University, Shanghai 200083,China)
+
+Abstract: Job crafting is a situational proactive behavior. Based on existing research findings on job crafting,four research perspectives on the intricate relationships between job crafting and social contexts are systematically summarized (i.e.， social contexts as targets of job crafting， social contexts being involved in job crafting, social contexts as antecedents of individual job crafting, social context as moderators of job crafting). In addition, mechanisms underlying effects of social contexts on job crafting, interactions of social contexts and individual characteristics on job crafting, as well as the effectiveness of job crafting in specific contexts are proposed and discussed. Incorporating research on other related constructs and variables, prospects for future research on job crafting embedded in social contexts are proposed, which include examining the influence of job crafting on coworkers, exploring the multiple paths through which team job crafting drives individual job crafting,discovering the internal mechanism underlying the influence of social contexts on job crafting, investigating interactions of social contexts and individual characteristics on job crafting,and testing the effectiveness of job crafting under the Chinese social context.
+
+Key Words: Social Context, Job Crafting, Team Job Crafting, Proactive Motivation, Proactive Behavior

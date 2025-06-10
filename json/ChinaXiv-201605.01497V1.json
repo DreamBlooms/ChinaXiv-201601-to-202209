@@ -1,0 +1,550 @@
+[
+    {
+        "type": "text",
+        "text": "IMMUNOLOGY ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The hepatitis C virus protein NS3 suppresses TNF-α-stimulated activation of NF-kB by targeting LUBAC ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yongzhi Chen,1.2 Liang He,1.2 Yanan Peng,1.2 Xiaodong Shi,1 Jizheng Chen,² Jin Zhong,4   \nXinwen Chen,² Genhong Cheng,1,5\\* Hongyu Deng1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The transcription factor nuclear factor $\\kappa B$ （20 $( N F - \\kappa B )$ is crucial for innate immune defense against viral infections,and its activation requires the ubiquitylation of upstream proteins,including the adaptor protein NEMO (NF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\kappa } \\mathbf { B }$ essential modulator). Many infectious pathogens, including hepatitis C virus (HCV), inhibit NF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\sigma } \\mathbf { \\kappa } \\mathbf { B }$ signaling in host cells, which promotes pathogen survival. Frequently, HCV-infected individuals develop a chronic infection, which suggests that HCV can subvert host antiviral responses.We found that HCV infection and replication inhibited the activation of $N F - \\kappa B$ by the inflammatory cytokine tumor necrosis factor- $\\mathbf { \\sigma } \\cdot \\mathbf { a }$ (TNF-α),which was mediated by the viral protein NS3 and, to a lesser extent, NS5B.NS3 directly interacted with linear ubiquitin chain assembly complex (LUBAC),competed with NEMO for binding to LUBAC,and inhibited the LUBAC-mediated linear ubiquitylation of NEMO and the subsequent activation of $N F - \\kappa B$ .Together, our results highlight an immune evasion strategy adopted by HCV to modulate host antiviral responses and enhance virus survival and persistence. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The tumor necrosis factor- $\\mathbf { \\boldsymbol { a } }$ (TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ )-induced activation of the transcription factor nuclear factor $\\boldsymbol { \\kappa } \\mathbf { B }$ (NF- $\\mathbf { \\nabla \\cdot } \\kappa \\mathbf { B } ^ { \\mathrm { ' } }$ ）playsacritical rolein inflammatory processes and is involved in the regulation of immune responses (1-3). Ubiquitylation is a widely used posttranslational protein modification that playsanimportantroleinregulating TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -induced ${ \\mathrm { N F } } { \\bf - } { \\bf \\times } { \\mathrm { B } }$ activity $( 2 , 4 { - } \\delta )$ Studies identified a type of polyubiquitin chain in which the C-terminal glycine residue is linked to the N terminus of another ubiquitin molecule to form head-to-tail polyubiquitin chains; this type of modification is called linearubiquitylation(7,8).The assemblyof sucha distinct polyubiquitin chain scaffold composed of linear linkages between ubiquitin moieties iscatalyzed by linear ubiquitin chain assembly complex (LUBAC) (9-12). Initially,LUBAC was reported to be a heterodimeric complex consisting of HOIL-1L (heme-oxidized iron regulatory protein ubiquitin ligase-1;also known as RBCK1) and HOIP(HOIL-1L-interacting protein; also known as RNF31). HOIL-1L and HOIP have similar domain structures and belong to a family of ubiquitin ligases characterized by a distinctive RING in between RING-RING (RBR) domain architecture (13-15). Upon stimulation of human embryonic kidney (HEK) 293T cells,HeLa cells,or U937cells with TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ ，LUBAC is recruited to the TNF receptor signaling complex and binds to the inhibitor of $\\boldsymbol { \\kappa } \\mathrm { B }$ (IkB) kinase (IKK) complex,which is composed of three proteins: the kinases IKKα and $\\mathrm { I K K \\beta }$ and the adaptor protein NF $\\mathbf { \\sigma } _ { \\cdot \\kappa \\mathrm { B } }$ essential modulator (NEMO;also knownas IKKγ) (1O).Although NEMO does not have kinase activity, it plays an important role in the canonical NF- $\\mathbf { \\sigma } _ { \\cdot \\kappa \\mathrm { B } }$ activation pathway through itsability to bind to Lys6-linked polyubiquitin chains (I6).Inaddition,NEMO can be modified byLUBAC-mediated linear polyubiquitylationatLys285andLys3whichisrequedforthfnt activation of ${ \\mathrm { N F } } { \\bf - } { \\bf \\kappa } { \\mathrm { B } }$ in response to TNF $\\mathbf { \\sigma } \\cdot \\mathbf { a }$ (9,17).Studies have identified SHARPIN(SHANK-associated RH domain interactor) as a third component of LUBAC and shown that it is essential for linear polyubiquitylation in NF- $\\mathbf { \\sigma } \\cdot \\kappa \\mathbf { B }$ signaling.A defect in SHARPIN sensitizes cells to apoptosis induced by Fas-associated death domain protein (FADD) and caspase 8 (18-20). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Viral infections often interferewith TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -induced NF- $\\mathbf { \\sigma } \\cdot \\kappa \\mathbf { B }$ activation. The hepatitis C virus (HCV),the only member of the Hepacivirus genus of theFlaviviridae family,has infected17O million people worldwide,and such infections frequently lead to cirrhosis and hepatocellular carcinoma (21).HCV is a single-stranded RNA virus.Its genome encodes a single polyprotein of about 3ooO amino acid residues,which is processed by host and viral proteases to generate 1O viral proteins,including core,E1,E2,p7, NS2,NS3,NS4A,NS4B,NS5A,and NS5B (22). NS3 functions as a serine protease and an RNA helicase,and both functions are indispensable for viral protein processingand virus replication (23).In addition,NS3 targets various host factors to modulate the response to viral infection.For example,HCVNS3 directly interacts with TANK-binding kinase 1 (TBK1) and inhibits the production of typeIinterferon (IFN) (24).Inaddition,both Toll/interleukin-1 receptor domain-containing adaptor-inducing IFN- $\\cdot \\boldsymbol { \\beta }$ (TRIF) and caspase activation and recruitment domain (CARD) adaptorinducing $\\mathrm { I F N - } \\beta$ (Cardif) are substrates for the protease activity of NS3 (25-28); however, the effects of the HCV NS3 protein on TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -induced signaling are not fully understood. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Although systemic concentrations of TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ increase in patients during HCV infection (29,30),HCV is resistant to treatment with TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ ,which suggests that HCV encodes protein(s) to evade host responses mediated by this signaling pathway (31-33).An early study reported that the HCV structural proteins Core and Envelope (when expressed by a recombinant adenovirus) inhibit hepatocellular apoptosis in mice treated with a combination ofTNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ and D-galactosamine (34).However, the regulation of NF- $\\mathbf { \\sigma } _ { \\mathbf { \\kappa } \\mathbf { \\kappa } \\mathbf { B } }$ activity in the HCV-infected cells was incompletely understood because cell culture and small-animal models of HCV infection were not available at the time.During the past decade,the establishment ofa robust and highly efficient in vitro infection system based on the Huh-7cell line and the HCV genotype 2a isolate Japanese fulminant hepatitis-1 (JFH-1) full-length genomes provided an opportunity to address the crosstalk betweenHCVand host signaling pathways (35-37).Moreover,monocistronic HCV reporter viruses have been generated by inserting sequences encoding enhanced green fluorescent protein (EGFP) or the Renilla luciferase into the JFH-1 genome,which has enabled the visualization of viral infection in live cells (38-4O).A study showed that HCV infection inhibits the TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -induced activation of NF $\\mathbf { \\sigma } _ { \\cdot \\kappa \\mathrm { B } }$ through the overexpression of core, NS4B,or NS5B; however, the mechanism involved was not elucidated (41). HCV may evade the host immune response through several mechanisms. In particular,whetherubiquitinchainmodification and its specificityin NF- $\\mathbf { \\nabla \\cdot } \\kappa \\mathbf { B }$ activation are regulated during HCV infection and how this regulation takes place are unclear. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Here,we investigated the effectofHCVinfection on TNF $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -induced ${ \\mathrm { N F } } { \\bf - } { \\bf \\times } { \\mathrm { B } }$ activity through a GFP-HCV infection model (JFH-1) with Huh-7.5.1 cells(38).WefoundthatHCVinfectioninhibitedthe TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -induced activation of ${ \\mathrm { N F } } { \\bf - } { \\bf \\kappa } { \\mathrm { B } }$ ,andwe identified the viralNS3 proteinasan inhibitorof the TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ signaling pathway. We further demonstrated that NS3 competed with NEMO for bindingto LUBAC,which resulted in decreased LUBAC-mediated linear ubiquitylation of NEMO and thus inhibited theTNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -induced,LUBAC-mediated activation of NF- $\\mathbf { \\sigma } _ { \\cdot \\kappa \\mathrm { B } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "HCVinfection and replication inhibit the TNF- $\\mathbf { a }$ -induced activationof NF- $\\kappa \\mathsf { B }$ ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Toinvestigate the effect ofHCV infection on the TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -inducedNF- $\\mathbf { \\sigma } _ { \\mathbf { \\kappa } \\mathbf { \\kappa } \\mathbf { B } }$ signalingpathway,we used a GFP reporter virus (J399EAM) (38) to infect the human hepatic celline Huh-7.5.1 and then determined the percentage ofHCV-infected cells by flow cytometry.When $5 7 0 \\%$ of the Huh-7.5.1 cellswere infected (Fig.1A), theywere treated with TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ for $3 0 \\mathrm { m i n }$ . Nucleartranslocation ofNF- $\\mathbf { \\sigma } _ { \\kappa \\mathrm { B } }$ was then examined by immunocytochemical analysis of p65,which is a major component of the NF- $\\mathbf { \\sigma } _ { \\cdot \\kappa \\mathrm { B } }$ complex. In uninfected control cells, TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ induced the translocation of NF- $\\mathbf { \\sigma } _ { \\cdot \\kappa \\mathrm { B } }$ from the cytoplasm to the nucleus (Fig.1B).In contrast, in HCV-infected cells, the TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -induced translocation of NF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\kappa } \\mathbf { B }$ was markedly reduced as demonstrated by a more diffuse pattern of p65 staining throughout the cytoplasm and the nucleus,especially in those cells in which the extent of HCV replication (as measured by GFP intensity） was relatively high (Fig. 1B). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To determine the effect ofHCV replication on TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -mediatedNF- $\\mathbf { \\sigma } _ { \\cdot \\kappa \\mathrm { B } }$ activation,HCV replicon cells harboring a subgenomic fragment derived fromJFH-1were treatedwithIFN- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -2b( $\\mathrm { 1 0 0 0 \\Pi U / m l } )$ ,andtheabundance of NS3 protein in the cells was then examined (Fig.1C).After NS3 protein became undetectable,these cells were analyzed by luciferase reporter assay to examine NF- $\\mathbf { \\sigma } _ { \\cdot \\kappa \\mathrm { B } }$ activity.These experiments demonstrated that the NF- $\\mathbf { \\sigma } _ { \\cdot \\kappa \\mathrm { B } }$ activity in HCV replicon cells was suppressed compared to that in IFN-cured replicon cells (Fig.1D),consistent with the result obtained from the JFH-1-infected cells (Fig.1B). The amount of phosphorylated IKK (pIKK) in the HCV replicon cells in response to TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ was decreased compared to that in TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -stimulated,IFN-cured cells, suggesting that IKK activation was inhibited by HCV (fig. S1A).Western blotting and densitometric analysis showed that the phosphorylation of $\\mathbf { I } \\kappa \\mathbf { B } \\mathbf { a }$ was also reduced in HCV replicon cells during the course of TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ treatment compared to that in similarly treated, IFN-cured cells;however, the total abundance of $\\mathbf { I } \\kappa \\mathbf { B } \\mathbf { a }$ did not change (Fig.1E and fig. S1B). One possible explanation for this finding is that the HCV replicon is a complex system that expresses multiple viral proteins, includingNS3,NS4A,NS4B,NS5A,and NS5B. Therefore,the total abundance of IkBα thatwe observed in the replicon cells was a result of the combined effects of multiple HCV proteins.Consistent with this explanation,a previous study showed that NS5Adegrades $\\mathbf { I } \\kappa \\mathbf { B } \\mathbf { a }$ by inducing its tyrosine phosphorylation at $\\mathrm { T y r } ^ { 4 2 }$ and $\\mathrm { T y r } ^ { 3 0 5 }$ ,which is in contrast to the classical phosphorylation of IkBα at $\\mathrm { S e r } ^ { 3 2 }$ and $\\mathrm { S e r } ^ { 3 6 }$ (42). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "By quantitative reverse transcription polymerase chain reaction (qRTPCR)analysis,we found that the expression of the TNFAIP3 gene,which encodes A20,a downstream target gene of NF- $\\mathbf { \\sigma } _ { \\cdot \\kappa \\mathrm { B } }$ ，wasreduced in HCV replicon cells compared to that in IFN-cured cells(Fig.1F).To further demonstrate thatHCVreplicationinhibited the TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -inducedactivation of ${ \\mathrm { N F } } { \\mathrm { - } } { \\mathrm { \\kappa } } \\mathrm { B }$ ，we performed knockdown experimentswithHCV replicon cells with small interfering RNA (siRNA) targeting the $5 ^ { \\prime }$ nontranslated region of the HCV genome(43),which inhibited HCV replication (fig.S1C),and then we examined ${ \\mathrm { N F } } { \\bf - } { \\bf \\kappa } { \\mathrm { B } }$ activity with a luciferase reporter assay (fig. S1D). These data indicated thatHCVreplication inhibited the TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -mediated activation of ${ \\mathrm { N F } } { \\bf - \\kappa } { \\mathrm { B } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "HCV NS3 protein blocks NF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\sigma } \\mathbf { \\kappa } \\mathbf { B }$ signaling ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We hypothesized that the inhibition of TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -induced NF- $\\mathbf { \\nabla \\cdot } \\kappa \\mathbf { B }$ activation mightbe mediated bya viral protein expressed duringHCV infection.Thus, we constructed a panel of expression plasmids that encoded the $1 0 \\mathrm { H C V }$ proteins with N-terminal epitope tags and then used a luciferase reporter assay to screen for their ability to suppress TNF- $\\mathbf { \\sigma } \\cdot \\mathbf { a }$ -mediated NF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\kappa } \\mathbf { B }$ activation.Transient transfection of HEK 293T cells with plasmids encoding P7,E1,E2,NS2,NS4A,NS4B,or NS5A proteins did not affect TNF $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 一 induced NF- $\\mathbf { \\sigma } _ { \\cdot \\kappa \\mathrm { B } }$ activation,whereas expression of the core protein resulted in a slight, but not statistically significant, reduction in NF- $\\mathbf { \\sigma } _ { \\cdot \\kappa \\mathrm { B } }$ signaling (Fig.2A).In contrast, the presence of NS3 or NS5B in the transfected cells substantially inhibited the TNF $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ dependent activation of ${ \\mathrm { N F } } { \\bf - } { \\bf \\kappa } { \\mathrm { B } }$ signaling, with NS3 having the most potent effect (Fig.2A).Because the inhibition ofTNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -induced activation of ${ \\mathrm { N F } } { \\mathrm { - } } { \\mathrm { \\kappa } } \\mathrm { B }$ by NS5A was reported previously $( 4 I )$ ，we decided to focus our efforts on studying NS3.Indeed,although transfection of HEK 293T cells with a plasmid expressing NS3 protein alone had no effect on basal NF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\kappa } \\mathbf { B }$ activity,it efficiently inhibited the induction of NF- $\\mathbf { \\nabla \\cdot } \\kappa \\mathbf { B }$ activation by TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ (Fig.2B).The extent of phosphorylation of IkB and the abundance of TNFAIP3 mRNA in response to TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ were also reduced in the presence ofNS3,suggesting that NS3 inhibited signaling downstream of NF $\\mathbf { \\sigma } \\cdot \\mathbf { \\kappa } \\mathbf { B }$ (Fig.2,C and D,and fig.S2). Together, these results suggested that NS3 was sufficient to block NF- $\\mathbf { \\sigma } _ { \\cdot \\kappa \\mathrm { B } }$ signaling in cells. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "NS3interacts with LUBAC ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A previous study of the protein-protein interaction network during HCV infection using yeast two-hybrid screening reported that NS3 interacted specificallywithHOIP,a component ofLUBAC(44). Therefore,we hypothesized thatNS3 might inhibit TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -induced NF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\kappa } \\mathbf { B }$ activation through its interaction with LUBAC.We first examined whether NS3 interacted withHOIP inmammaliancells.We transfectedHEK293T cells with plasmids encoding hemagglutinin (HA)-tagged NS3 or Flag-tagged HOIP and then performed coimmunoprecipitation experiments,which indicated that NS3 interacted with exogenously expressed HOIP (Fig.3A). In addition, in experiments with an antibody againstHOIP,we confirmed that NS3 also interacted with endogenous HOIP (Fig.3B).Furthermore, immunofluorescence staining of GFP-tagged NS3 protein and Flag-tagged HOIP protein in cotransfected Huh-7.5.1 cells showed that most of the HOIP protein colocalized with NS3 in the cytoplasm (Fig.3C), which provided further evidence of their interaction in cells. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To determine the domain(s) ofNS3 that mediated its interaction with HOIP, we made two deletion constructs to separately express either the protease or the helicase domain of NS3.The results of coimmunoprecipitation experiments showed that whereas the protease domainofNS3 interacted with HOIP, the helicase domain did not (Fig.3D),which suggests that the protease domain was responsible for mediating the interaction of fulllength NS3 with HOIP.Because HOIP is a component of LUBAC, we next determined whetherNS3 also interacted withHOIL-1L or SHARPIN, the two other components ofLUBAC, through coimmunoprecipitation studies of transiently transfected cells.We found thatNS3 did not directly interact with HOIL-1L or SHARPIN alone;however, in the presence of HOIP, NS3 interacted with both HOIL-1L and SHARPIN (Fig.3,E and F). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/69211aafb8bcb9b51c994149e5e0548b20d4c69484936cb3266953470cfa35e1.jpg",
+        "img_caption": [
+            "Fig.1.HCV infection and replication inhibitTNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -induced NF $\\mathbf { \\sigma } \\cdot \\kappa \\mathsf { B }$ activation. (A) Huh-7.5.1 cells were infected with GFP-HCV(JFH-1 strain).Ninetysix hours after infection,the cells were permeabilized by paraformaldehyde (PFA)and analyzed by flow cytometry to determine GFP abundance. Histograms are representative of three independent experiments. (B)GFPHCV-infected or mock-infected Huh-7.5.1 cells were treated with TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ （204号 $( 2 0 \\ \\mathrm { n g / m l } )$ for $1 5 \\mathrm { \\ m i n }$ .The intracellular localization of p65 was then determined by immunocytochemistry.Images are representative of three independent experiments.DAPl,4',6-diamidino-2-phenylindole.(C) HCV replicon cells were left untreated or treated with IFN for 96 hours (IFN-cured cells)and thenwereanalyzedby Westernblotingwithantibodiesagainst theindicated proteins.Western blots are representative of three independent experiments.(D) HCV replicon cells and IFN-cured replicon cells were cotransfected with an NF- $\\cdot \\kappa \\mathsf { B }$ promoter-based luciferase reporter constructand the Renilla luciferase reporter plasmid pRL-TK.The cells were ",
+            "then left untreated or were treated with TNF $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 1 $2 0 \\mathsf { n g } / \\mathsf { m l } )$ for6hoursbefore being subjected to luciferase reporter assays.Data are means $\\pm$ SEMof triplicate samples fromasingle experiment and are representative of three independent experiments. $^ { \\star \\star \\star } P < 0 . 0 0 1$ .(E)HCV replicon cells and IFN-cured replicon cells were left untreated or treated for the indicated times with TNF $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ .Cell lysates were then analyzed by Western blotting (IB) with antibodies against the indicated proteins.Western blots are representative of three independent experiments.See fig.S1B for densitometric analysis.(F) HCV replicon cells and IFN-cured replicon cells were left untreated or treated for6 hours with TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ $( 2 0 \\mathrm { \\ n g / m } | )$ .Therelativeabun dance of TNFAIP3 mRNA ineach samplenormalized to that of GAPDH (glyceraldehyde phosphate dehydrogenase)mRNA was then determinedby qRT-PCRanalysis.Dataare means $\\pm$ SEMof triplicate samples froma single experiment and are representative of three independent experiments. $^ { \\star } P < 0 . 0 5$ = $^ { \\star \\star \\star } P < 0 . 0 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e31389bff836e84b99790ea2715a10ac1fe3b802e2d7e4da9c49aa6eb7525cc2.jpg",
+        "img_caption": [
+            "Fig.2.The HCV NS3 pro$\\tt { - \\kappa B }$ signaling. (A) Effects of HCV proteins -stimulated $N F \\mathrm { \\bf - } \\kappa B$ .HEK 293T cells were cotransfected with the NF- $\\cdot \\kappa \\mathsf { B }$ ",
+            "promoter-based firefly luciferase reporter plasmid (5O ng),the Renila luciferase reporter plasmid pRL-TK( $\\cdot 1 0 { \\mathsf { n g } } ,$ ,and either empty vector or plasmid encoding oneofthe indicated HCVproteins (2O0ng).Twentyhours later,thecels were leftuntreatedortreated withTNF $\\mathbf { \\sigma } \\cdot \\mathbf { \\vec { a } } _ { } $ （20 $( 2 0 \\mathsf { n g } / \\mathsf { m l } )$ for 6 hours before being subjected to luciferase reporter assays.(B) Effect of NS3 on the TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -stimulated activation of NF $\\cdot \\kappa \\mathsf { B }$ .HEK 293T cells were cotransfected with the luciferase reporter plasmids and either pHA-NS3 (200 ng) or pHA-vector control $( 2 0 0 \\mathsf { n g } )$ .Twenty hours after transfection,the cels were left untreated or treated with TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { q }$ $( 2 0 \\mathsf { n g } / \\mathsf { m l } )$ for6hours before being subjected to luciferase reporterassays.(C)HEK293Tcelsthatwere transfectedwithpHA-NS3or empty vector as a control were left untreated or treated with TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ for the indicated times before being analyzed by Western bloting with antibodies againstheinicatedproteinsWesteotsareepresentativeoftheindepedentexperiments.SefigSfodensitometricanasis.EK 293Tcells weretransfectedwithpHA-NS3oremptyvectorasacontrolandthenwereleftuntreatedortreatedfor6hourswithTNF $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ $\\left( { 2 0 \\ n \\ g / \\mathsf { m } \\mathsf { l } } \\right)$ CellswerethensubjectedtoqRT-PCRanalysistodeterminetherelativeabundanceofTNFAlP3mRNAnormalizedtothatofGAPDHmRNA Data in (A),(B),and (D) are means $\\pm$ SEMof triplicate samples froma single experiment and are representative of three independent experiments. $^ { \\star } P < 0 . 0 5$ = $^ { \\star \\star } P < 0 . 0 1$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Together, our results suggest that NS3 interacted through its protease domain with the HOIP component of LUBAC. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "NS3blocks the LUBAC-mediated activation of NF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\sigma } \\mathbf { \\kappa } \\mathbf { B }$ ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "LUBAC is required for TNF $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -induced NF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\kappa } \\mathbf { B }$ activation,and a study showed that overexpression ofLUBAC potently activates ${ \\mathrm { N F } } { \\mathrm { - } } { \\mathrm { \\bf { \\kappa } } } { \\mathrm { B } }$ (9). Thus,we next investigated whether the binding ofNS3 to LUBAC resulted in the inhibition ofLUBAC-mediated NF- $\\mathbf { \\nabla \\cdot } \\kappa \\mathbf { B }$ activation.Luciferase reporterassaysindicated thatNS3inhibitedLUBAC-mediatedNF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\kappa } \\mathbf { B }$ activation ina concentration-dependent manner in transfected HEK 293T cells (Fig.4A) and Huh-7 cells (Fig.4B). The LUBAC-dependent linear ubiquitylation ofNEMO is essential for NF $\\mathbf { \\sigma } _ { \\cdot \\kappa \\mathrm { B } }$ activity (9).As expected, overexpression of linear Ub-NEMO stimulated NF- $\\mathbf { \\nabla \\cdot } \\kappa \\mathbf { B }$ signaling; however, activation of NF- $\\mathbf { \\sigma } _ { \\cdot \\kappa \\mathrm { B } }$ under these conditions was not inhibited by increasing amounts of NS3 protein (Fig. 4C), suggesting that the NS3-dependent blockade of NF- $\\mathbf { \\nabla \\cdot } \\kappa \\mathbf { B }$ signaling occurred upstream of the formation of linear UbNEMO.We further determined from reporter assays that the protease domain, but not the helicase domain,ofNS3 inhibitedLUBAC-mediated NF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\kappa } \\mathbf { B }$ activation in transfected HEK 293T cells (Fig.4D) andHuh-7 cells (Fig.4E). Note that the extent of inhibition of NF- $\\mathbf { \\nabla \\cdot } \\kappa \\mathbf { B }$ activation by the protease domain of NS3 was as potent as that by full-length NS3,especially in Huh-7 cells (Fig.4E).Together, these data suggest that the interaction of the protease domain of NS3 withHOIP blocked the LUBAC-mediated activation ofNF- ${ \\bf \\nabla } \\cdot { \\bf \\kappa } \\mathrm { \\bf B }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "NS3 competes with NEMO for binding to HOIP ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Because NS3 is a serine protease that cleaves its substrates (23), it is possible that the interaction of NS3 with HOIP may lead to the degradation of HOIP and the subsequent inhibition ofLUBAC-mediated NF- $\\mathbf { \\sigma } _ { \\cdot \\kappa \\mathrm { B } }$ activation. We thus examined the abundance of HOIP protein in cells expressing NS3.However, we found that the abundance of HOIP protein did not change in cells in the presence of increasing amounts of NS3, suggesting that NS3 did not lead to the degradation of HOIP (fig. S3A).Moreover, the abundance of HOIP protein in HCV-infected Huh-7.5.1 cells or in HCV repliconcells was comparable to that in uninfected or control cells (fig. S3, B and C). We further constructed a protease-inactive mutant of NS3, NS3(S139A).Luciferase reporter assays demonstrated that this mutant NS3 inhibitedTNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -induced NF $\\mathbf { \\sigma } _ { \\cdot \\kappa \\mathrm { B } }$ activity as potentlyas did wild-type NS3 (fig. S3D), indicating that the serine protease activity of NS3 was not essential for itsability to inhibit NF $\\mathbf { \\sigma } \\cdot \\mathbf { \\kappa } \\mathbf { B }$ signaling. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To dissect the mechanism by which NS3 inhibits the LUBAC-mediated activation of NF- $\\mathbf { \\sigma } _ { \\cdot \\kappa \\mathrm { B } }$ ,we first mapped the domain(s) of HOIP that were required for its interaction with NS3.HOIP has multiple domains,including a putative AAA ATPase-binding (PUB) domain,a putative zinc fingerubiquitin-binding (ZnF-RBZ) domain [including three subdomains: zinc finger (ZF),NPL4 zinc finger1 (NZF1),and NPL4 zinc finger 2 (NZF2)],a ubiquitin-associated (UBA) domain,and an RBR domain (13).We made a series of HOIP deletion mutant proteins (Fig. 5A) and performed coimmunoprecipitation experiments in transiently transfected cells to test their ability to interact with NS3.The N-terminal fragments HOIP(1 to 520 amino acids) and HOIP(1 to 670 amino acids) and the C-terminal fragment HOIP (RBR domain) physically interacted with NS3, cellswere left untransfected or cotransfectedwithpUbNEMO and increasing amounts of pHA-NS3,as indicated.Twenty-four hours after transfection, the cells were left untreated or treated with TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ （2 $( 2 0 \\mathsf { n g } / \\mathsf { m l } )$ for 6 hours before being subjected to luciferase reporterassays.(D and E) Effects of full-length NS3 protein or its domains on LUBAC-mediated ${ \\mathsf { N F - } } { \\mathsf { \\kappa B } }$ promoter activity. HEK 293T cells (D) and Huh-7 cells (E) were transfected with empty vector alone orwere cotransfected with expression plasmids for LUBAC (pHOIP and pHOlL) together with plasmids encoding full-length NS3 or its whereas the N-terminal fragment HOIP(1 to 193 amino acids) did not (Fig.5B).We performed further coimmunoprecipitation experiments and showed that the NZF2 domain within the ZnF-RBZ region of HOIP mediated the interaction of HOIP with NS3 (Fig. 5C). These data suggest thatHOIP interactswith NS3 through its NZF2 and RBR domains.We also confirmed that both the ZnF-RBZ and RBR domains ofHOIP interacted with the protease domain of NS3 (Fig. 5D). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b202ef401a3aa68489854ae2fb871c16389df003e62e4eb76877a47c2bd6a310.jpg",
+        "img_caption": [
+            "Fig.3.NS3 interactswith LUBAC.(A) NS3 interacts with HOIP.HEK293T cells were transfected with the indicated combinations of expression plasmids encoding Flag-tagged HOlP and HA-tagged NS3.Thirty-six hours later,the cells were harvested,and whole-cell lysates were prepared and subjected to immunoprecipitation (IP) with an anti-Flag antibody.Whole-cell lysates (input, left) and immunoprecipitated samples (right) were then analyzed by Western blotting with antibodies against the indicated proteins. (B) NS3 interacts with endogenous HOlP.Huh-7.5.1 cells were transfected with pGFP-NS3.Thirty-six hours later,the cells were subjected to immunoprecipitation with an anti-GFP antibody,and samples and wholecell lysates were analyzed as described in (A). (C) HOlP colocalizes with NS3.Huh-7.5.1 cells were cotransfected with pFlag-HOlP and pGFP-NS3. Thirty-six hours later, the cells were fixed and stained with a mouse antiFlagantibody,followed by incubation witha tetramethyl rhodamine isothiocyanate (TRITC)-conjugated anti-mouse antibody.The cells were then analyzed by confocal microscopy. Cells were stained with DAPl to visualize ",
+            "nuclei (blue). (D) HOIP interacts with the protease domain of NS3.HEK 293T cells were cotransfected with the indicated combinations of plasmids encoding the HA-tagged protease or helicase domains of NS3 and pFlagHOIP.Whole-cell lysates were subjected to immunoprecipitation with an anti-Flagantibody，and whole-cell lysates (left) and immunoprecipitates (right)were then analyzed by Western blottingwith antibodies against the indicted tags.(E) NS3 interacts with HOIL-1L in the presence of HOIP. HEK293T cells were cotransfected with the indicated combinations of expression plasmids.Thirty-six hours later,the cells were subjected to immunoprecipitation with anti-HA antibody，and samples and whole-cell lysates were analyzed as described in (A). (F) NS3 interacts with SHARPIN in the presence of HOIP.HEK 293T cells were cotransfected with the indicated combinations of expression plasmids.Thirty-six hours later,the cellswere subjected to immunoprecipitationwith an anti-HA antibody,and samples and whole-cell lysates were analyzed as described in (A).Data inall panels arerepresentative of three independent experiments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0b39d1f4085f96f2e922d38fdcc35410bbe6f83fc3d3d4baf7100a4f80bc82d.jpg",
+        "img_caption": [
+            "Fig.4.NS3 blocks the LUBAC-mediated activation of ${ \\mathsf { N F } } { \\mathsf { - } } { \\boldsymbol { \\kappa } } { \\mathsf { B } }$ in response to TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ (A and B) Effect of NS3 on LUBAC-dependent NF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\kappa } \\mathsf { B }$ promoter activity. HEK 293T cells (A) and Huh-7 cells (B)were left untransfected or cotransfected with expression plasmids for LUBAC (pHOIP and pHOIL) together with increasing amounts of pHA-NS3 (0,100,or 20O ng).Twenty-four hours after transfection,the cells were left untreated or treated with TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ $( 2 0 \\ \\mathrm { n g / m l } )$ for 6 hours before being subjected to luciferase reporterassays. (C) Effect of NS3 on ${ \\mathsf { N F } } { \\mathsf { - } } { \\mathsf { \\kappa B } }$ activation stimulated by Ub-NEMO.HEK 293T "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/05d8ef972a4af0a7941ed92c78b0136c2963b0272ad179c7978bd5e5a45c668b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Because we found thatNS3 bound to the ZnF-RBZ domain of HOIP, which is the same domain in LUBAC that binds to NEMO (9),we hypothesized that the binding of NS3 to HOIP might interfere with the interaction betweenHOIP and NEMO.To test this,we performed competitive coimmunoprecipitation experiments.These showed that overexpression of GFP-tagged NS3 indeed disrupted the interaction between HOIP and NEMO in a concentration-dependent manner (Fig. 5E). To exclude the possibility that GFP might have artificially inhibited the association between HOIP and NEMO,we repeated the coimmunoprecipitation experiments with HA-tagged NS3.These experiments demonstrated that HA-NS3 also inhibited the interaction between NEMO and HOIP (Fig.5F),providing further evidence that NS3 competes with NEMO for binding to HOIP. Because a study demonstrated that the NZF1 domain of HOIP is responsible for binding to NEMO (45),we performed additional competitive coimmunoprecipitation experiments and showed, as expected, that NS3,which we showed earlier interacted with the NZF2 domain ofHOIP(Fig. 5C), did not compete with the interaction between NEMO and the NZF1 domain of HOIP (fig. S4). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "indicated domains.Twenty-four hours after transfection,the cells were left untreated or treated with TNF $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ $( 2 0 \\ \\mathrm { n g / m l } )$ for 6 hours before being subjected to reporter assays.Data in all panels are means $\\pm$ SEMof triplicate samples froma single experiment and are representative of three independent experiments. $^ { \\star \\star } P < 0 . 0 1$ $^ { \\star \\star \\star } P < 0 . 0 0 1$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "NS3 inhibits the TNF- $\\mathbf { a }$ -stimulated linear ubiquitylation of NEMO ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Because the binding ofLUBAC to NEMO is crucial for the subsequent linear ubiquitylation of NEMO (9),we next investigated whether the disruption of the HOIP-NEMO interaction by the HCV NS3 protein led to decreased linearubiquitylation of NEMO.GFP-HCV-infected Huh-7.5.1 cells or uninfected control cells were left untreatedor treated with TNF-α,and coimmunoprecipitation experiments were then performed with an antibody specific for linear ubiquitin. These experiments showed that although TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ stimulated linear ubiquitylation of NEMO in uninfected cells,the extent of linearubiquitylation ofNEMO wasreduced inHCV-infected cells (Fig.6A).Moreover, overexpression of NS3 in Huh-7.5.1 cells inhibited the TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -stimulated linear ubiquitylation of NEMO in a concentrationdependent manner (Fig. 6B),suggesting that HCV NS3 alone was sufficient to mediate such an effect. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Here,we demonstrated that the HCV NS3 protein targets LUBAC,disrupts the LUBAC-NEMO interaction,inhibits linear ubiquitylation of NEMO,and interferes with NF-kB activation, thus providing a potential mechanistic explanation for the inhibition of TNF- $\\mathbf { \\sigma } \\cdot \\mathbf { a }$ -induced NF- $\\mathbf { \\sigma } _ { \\cdot \\kappa \\mathrm { B } }$ activation observed during HCV infection. Our study revealed a previously uncharacterized immune evasion strategy adopted by HCV to escape host antiviral responses. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/df83e0b52740c074328fe62e6de88b1e3278f96b08ee2472b577e6d0fe81c0cf.jpg",
+        "img_caption": [
+            "Fig. 5.NS3 competes with NEMO for binding to HOIP.(A) Schematic representation of full-length,wild-type (WT) HOlP and its indicated deletion mutants.(B) NS3 interacts with the ZnF-RBZ and RBR domains of HOIP. HEK293T cells were cotransfected with plasmids encoding the indicated deletion mutants of Flag-HOlP togetherwith pHA-NS3.Whole-cell lysates were subjected to immunoprecipitation with anti-Flag antibody,and immunoprecipitates and whole-cell lysates were analyzed by Western blotting with antibodies against the indicated targets. (C) NS3 interacts with the NZF2 domain of HOIP. HEK 293T cells cotransfected with plasmids encoding the indicated deletion mutants of Flag-HOlP togetherwith pHA-NS3 were lysed and subjected to immunoprecipitation with anti-Flagantibody as described in (B). (D) Both the ZnF-RBZ and RBR domains of HOIP in"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "teract with the NS3 protease domain.HEK 293T cells cotransfected with plasmids encoding the indicated Flag-HOlP mutants together with a plasmid encoding the HA-NS3 protease domain were lysed and subjected to immunoprecipitation with an anti-Flag antibody as described in (B). (E and F) NS3 disrupts the interaction between HOlP with NEMO in a concentrationdependent manner.HEK 293T cells were cotransfected with plasmids encoding Myc-NEMO and Flag-HOIP together with increasingamounts of a plasmid encoding GFP-NS3 (E) or a plasmid encoding HA-NS3 (F). Whole-cell lysates were subjected to coimmunoprecipitation with antibody againstMyc,and samplesand whole-cell lysateswereanalyzed as described in (B).All Western blots are representative of three independent experiments. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Various studies have demonstrated thatLUBAC plays a crucial role in the TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -stimulated activation of NF- $\\mathbf { \\nabla \\cdot } \\kappa \\mathbf { B }$ through linear ubiquitylation of NEMO (9,10,12).Here,we showed that HCV infection and replication inhibited TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ induced NF $\\mathbf { \\sigma } _ { \\mathbf { \\cdot } \\mathbf { \\kappa } \\mathbf { B } }$ activation (Fig.1),and we identified NS3 as one of the viral proteins that mediated this inhibition (Fig.2).Because linear ubiquitylation of NEMO is mediated byLUBAC,the interaction between NS3 and HOIP that we showed by coimmunoprecipitation and colocalization studies(Fig.3) suggestedthatNS3mightinhibitTNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -inducedNF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\kappa } \\mathbf { B }$ activationby interactingwithLUBAC,whichwas reported to functionas an E3ubiquitin ligase and to target NEMO for linear ubiquitylation $( 9 , l 2 , l 3 )$ Indeed,we found that this interaction blocked theLUBAC-mediated activation ofNF- $\\mathbf { \\sigma } _ { \\cdot \\kappa \\mathrm { B } }$ (Fig. 4).Moreover,we showed that the protease domain, but not the helicase domain, of NS3 bound to HOIP (Fig.3D). Consistent with this finding,the NS3 protease domain, but not the helicase domain,inhibited LUBAC-induced NF- $\\mathbf { \\sigma } _ { \\cdot \\kappa \\mathrm { B } }$ activity (Fig. 4, D and E). The interaction between LUBAC and NEMO is a crucial step in the activation of NF- $\\mathbf { \\sigma } _ { \\cdot \\kappa \\mathrm { B } }$ in response to TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ ,and the NZF1 domain within the ZnF-RBZ region of HOIP is responsible for this interaction (9,45).Results from our coimmunoprecipitation experiments showed that NS3 also interacted with the ZnF-RBZ region of HOIP;however, a detailed mapping study revealed that NS3 interacted with the NZF2 domain,but not the NZF1 domain, of HOIP(Fig.5,A to C). Thus,the binding of NS3 to the NZF2 domain ofHOIP may physically block the binding of NEMO to the neighboring NZF1 domain of HOIP, presenting a strategy that HCV has adopted to interfere with this crucial step in NF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\kappa } \\mathbf { B }$ activation. Indeed,we showed that the binding of NS3 to HOIP sequestered HOIP away from NEMO (Fig. 5E), leading to inhibition of linear ubiquitylation of NEMO (Fig. 6)and of the subsequent activation of NF- $\\mathbf { \\sigma } _ { \\cdot \\kappa \\mathrm { B } }$ (Fig.4).In addition, we showed that NS3 also interacted with the RBR domain of HOIP(Fig.5,A,B,and D).The biological effect of this interaction onHCV infectionand immunity—whether itaffects the E3ubiquitin ligase function ofHOIP and representsa parallel mechanism to contribute to the inhibition of linear ubiquitylation of NEMO by NS3—remains to be further investigated. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c40643aaa02f07cb607b02c2fcd0e7bfe114e20dd9192b188b852e4f5df75f84.jpg",
+        "img_caption": [
+            "Fig.6.NS3 inhibits linear ubiquitylation of NEMO.(A) HCV infection inhibits linearubiquitylation of NEMO.Uninfected (Mock) or GFP-HCV-infected Huh-7.5.1 cells were left untreated or treated for $3 0 ~ \\mathrm { { m i n } }$ with TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ （204号 $( 2 0 \\mathrm { \\ n g / m l } ) ,$ .Thecellswere then lysed and subjected to immunoprecipitation with antibody against NEMO and were analyzed by Western blotting with antibodies against the indicated proteins.(B) NS3 inhibits linear ubiquitylation of NEMO.Huh-7.5.1 cels were left untransfected or transfected with increasing amounts of pGFP-NS3.Thirty-six hours later, the cells were left untreated or treated for $3 0 ~ \\mathrm { m i n }$ with TNF $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 1 $\\mathsf { \\Omega } ^ { \\prime } 2 0 \\mathsf { n g } / \\mathsf { m } \\mathsf { l } .$ .Thecellswere then lysedand subjected to immunoprecipitation with antibody against NEMO and were analyzed by Western blottingwithantibodies against the indicated proteins. All Western blots are representative of three independent experiments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The regulation of NF- $\\mathbf { \\sigma } _ { \\cdot \\kappa \\mathrm { B } }$ signaling by HCV has been studied previously(32,34,46).While the current work was ongoing,Park et al.reported that HCV infection enhances TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -induced cell death by suppressing ${ \\mathrm { N F } } { \\mathrm { - } } { \\mathrm { \\kappa } } \\mathrm { B }$ ,and the authors identified the HCV proteins core,NS4B,and NS5B as mediating this suppression.Their study suggested that core,NS4B,and ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "NS5B might suppress NF $\\mathbf { \\nabla \\cdot } \\kappa \\mathbf { B }$ activity by directly interacting with IKK, although the detailed mechanisms involved were not determined (40). Here,we found thatboth NS3 and NS5B inhibited the activation of ${ \\mathrm { N F } } { \\bf - \\kappa B }$ however,NS4B did not exhibit any inhibitory function,whereas the core protein displayed some inhibitory effect that was without statistical significance (Fig.2A).Differences in experimental systems between our study and that of Park et al.(for example,different protein abundances) might account for the partially overlapping results.Another important difference between these two studiesis that Park et al.tested NS3 and NS4A together, but not individually,in their screening.Because NS3 displayed the most substantial inhibitory effect in our system,we focused on this viral proteinand elucidated the molecular mechanism underlying its function.Because NF- $\\mathbf { \\sigma } _ { \\cdot \\kappa \\mathrm { B } }$ （204号 signaling plays a critical role in antiviral immune responses,it is not surprising thatHCVusesmultiple mechanisms to block or inhibit the activation of ${ \\mathrm { N F } } { \\bf - } { \\bf \\times } { \\mathrm { B } }$ and that some of these mechanisms are independent of NS3. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In summary, we demonstrated that HCV infection suppressed TNF $\\cdot \\mathbf { { a } - }$ induced NF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\kappa } \\mathbf { B }$ activation in both HCV replicon and cell culture systems through a direct interaction between NS3 and LUBAC,which led to the sequestration ofNEMO from the LUBAC adaptor protein and the inhibition ofLUBAC-mediated linearubiquitylationofNEMO. Increased production of TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ has long been observed in many HCV patients $( 3 0 )$ ; however, HCV is resistant to TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ （20 $( 3 I )$ . Our study therefore provides a potential mechanistic explanation for the observed inhibition of NF- $\\mathbf { \\sigma } _ { \\cdot \\kappa \\mathrm { B } }$ signaling that occurs despite the increased serum concentration of TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ in chronically infected HCV patients.Because NF- $\\mathbf { \\sigma } _ { \\cdot \\kappa \\mathrm { B } }$ controls the expression of many inflammatory cytokines,the inhibition of TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -induced NF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\kappa } \\mathbf { B }$ activation may contribute to the persistence of HCV by limiting downstream inflammatory and immune responses.Because LUBAC-mediated ubiquitylation ofNEMO is essential for the activation of ${ \\mathrm { N F } } { \\mathrm { - } } { \\mathrm { \\kappa } } \\mathrm { B }$ ，disruption of the LUBAC-NEMO complex by NS3 during infection with HCV is thereforea previouslyuncharacterized strategy for viruses to modulate host inflammatory responses and enhance virus survival and persistence. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "MATERIALSANDMETHODS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Reagents and antibodies ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Recombinant TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ was obtained from eBioscience,and recombinant IFN-α-2b was obtained from ProSpec.Mouse monoclonal antibodies against Flag, HA,and $\\beta$ -actin were obtained from Sigma; those against Myc and NEMO were from Santa Cruz Biotechnology; those against NF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\kappa } \\mathbf { B }$ p65,pIkB,and total IkB were from Cell Signaling;mouse monoclonal antibody against HCVNS3 protein was from Abcam;and mouse monoclonal antibody against linear ubiquitin was obtained from LifeSensors.Rabbit polyclonal antibodies against GFP and HOIP were purchased from Abcam. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Plasmids and constructs ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Expression plasmids encoding HOIP (RNF31),HOIL-1L (RBCK1),and linear Ub-NEMO were gifts from E.Treuter, D. Chen,and K.Iwai,respectively.Mammalian expression plasmids encoding human NEMO,HOIP, and theirmutants were constructed by standard molecular biology techniques.Sequences encoding the HCV proteins core,P7,E1,E2,NS2,NS3, NS4A,NS4B, NS5A,and NS5B were amplified by PCR from a plasmid encoding the full-length genome of JFH-1 HCV and were subcloned into the vector pENTR/D-TOPO (Invitrogen). Through Gateway recombination, the1O open reading framesofHCVwere transferred individually into the vector pBabe-CMV-YFPn-DEST-neo (47,48).To construct expression plasmids forHA-and GFP-tagged NS3,the complementaryDNA fragment that encodes the NS3 protein (amino acid residues 1031 to l661),which was derived from the HCV subtype JFH-1,was amplified byPCR and subcloned into pCMV-HAvectorand pGFP vector(ClontechLaboratories Inc.) to derive pHA-NS3 and pGFP-NS3,respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "HCV replicon cells and HCV-JFH1 cell culture ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "HCVreplicon cells (JFH-1 strain) were maintained in complete Dulbecco's modified Eagle's medium (DMEM) supplemented with $10 \\%$ fetal bovine serumand G418 (O.5 g/liter,Invitrogen).To eliminate HCVRNA,cellswere maintained in complete DMEM supplemented with IFN- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -2b $( 1 0 0 0 \\mathrm { \\Pi U / m l } )$ （204号 instead of G418.After the HCV protein NS3 became undetectable, IFNcured cells were maintained in complete DMEM without IFN- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -2bor G418.For HCV infection, GFP-HCV (JFH-1 strain) was propagated and used as described previously (38). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "TransfectionofcellswithsiRNAs ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "An siRNA targeting the $5 ^ { \\prime }$ nontranslated region of the HCV genome (JFH-1 strain) ( $5 ^ { \\prime }$ -AAAGGCCUUGUGGUACUGCCU ${ \\cdot } 3 ^ { \\prime }$ ）wasused as described previously (43).Transfections of replicon cells withLipofectamine 2000 (Invitrogen) were performed according to the manufacturer's instructions. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Flowcytometricanalysis ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Cells were collected by trypsinization, fixed in $2 \\%$ PFA,and analyzed on a FACSCalibur flow cytometer (BD Biosciences） according to standard protocols. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Luciferase reporter assay ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "HEK 293T cells $( 1 . 5 \\times 1 0 ^ { 5 } )$ were seeded on 24-well plates and transfected the next day withLipofectamine 2ooO according to the manufacturer's instructions.Where necessary, empty plasmid was added to ensure that each set of cells received the same amount of total DNA.The plasmid pRL-TK was used as a control reporter for normalization. Some cells were treated with TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 0 $2 0 \\mathrm { n g / m l } )$ for 6 hours before being lysed.Twenty-four hours after transfection,luciferase activity wasmeasured withaDual-Luciferase Reporter Assay System (Promega) according to the manufacturer's instructions.Fireflyluciferase activitieswere normalized to thatof Renilla luciferase.All reporter assays were repeated at least three times in triplicate.Data shown are means $\\pm$ SEMof triplicate samples from a single experiment and are representative of three independent experiments. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "qRT-PCR analysis ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Total RNA was extracted from cultured cels with TRIzol reagent (Invitrogen). Real-time PCR was performed withPower SYBR Green PCRMaster Mix (Applied Biosystems) in an ABI 7500 Real-time PCR System (Applied Biosystems).The primers for real-time PCR analysiswere as follows:TNFAIP3 forward, ${ \\boldsymbol { 5 } } ^ { \\prime }$ -CTCAACTGGTGTCGAGAAGTCC $3 ^ { \\prime }$ ； TNFAIP3 reverse, $5 ^ { \\prime } { \\cdot }$ TTCCTTGAGCGTGCTGAACAGC $3 ^ { \\prime }$ ； GAPDHforward, ${ 5 } ^ { \\prime }$ GAACGGGAAGCTCACTGG $3 ^ { \\prime }$ ；GAPDH reverse, ${ 5 } ^ { \\prime }$ -GCCTGCTTCACCACCTTCT$3 ^ { \\prime }$ .Theabundance of TNFAIP3 mRNA in each sample was normalized to thatof GAPDH. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Coimmunoprecipitations and Western blotting analysis ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Thirty-six to 48 hoursafter transfection,cells were lysed ina buffer containing $5 0 ~ \\mathrm { m M }$ tris-HCl $\\mathrm { ( p H 8 . 0 ) }$ 1 $1 5 0 \\ \\mathrm { m M \\ N a C l }$ ，and $1 \\%$ Triton X-100. Forimmunoprecipitations,cell lysateswere incubated with the appropriate antibodies for 2 hours on ice,which was followed by precipitation with protein G Sepharose (Santa Cruz Biotechnology). Samples were resolved bySDS-polyacrylamide gel electrophoresis and transferred onto polyvinylidene difluoride(PVDF) membranes.After blocking in phosphatebuffered saline (PBS) containing $0 . 1 \\%$ Tween 20 and $5 \\%$ skim milk, the PVDF blots were incubated with antibodies specific for Flag (anti-Flag, M2; Sigma),HA (Sigma), Myc (Santa Cruz Biotechnology),actin (Sigma), or GFP (Abcam),as indicated in the figure legends.Reactive bandswere visualized by enhanced chemiluminescence and analyzed. Western blotting to analyze linear ubiquitylation was performed as described previously $( I 2 )$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Immunofluorescence staining ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Cells were fixed in $4 \\%$ PFA,permeabilized with PBS, $0 . 2 \\%$ Triton X-100, and incubated with anti-Flag or anti-p65 monoclonal antibodies,followed byincubation with a TRITC-conjugated anti-mouse antibody.Nuclei were stained with DAPI. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Statistical significance was determined by Student's $t$ test. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "SUPPLEMENTARYMATERIALS ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "www.sciencesignaling.org/cgi/content/full/8/403/ra118/DC1   \nFig.S1. HCV replication inhibits the TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -stimulated activation of $N F - \\kappa B$   \nFig.S2.Densitometric analysis of the effect of NS3 on the abundances of plxBα and total IkBα.   \nFig. S3.Analysis of the effect of NS3 on the stability of HOlP protein.   \nFig.S4.Analysis of the effect of NS3 on the interaction between the NZF1 domain of HOIP and NEMO. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "REFERENCESANDNOTES ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1.H.Wajant, P.Scheurich,TNFR1-induced activation of the classical NF $\\cdot \\kappa \\mathsf { B }$ pathway. FEBS J.278,862-876 (2011).   \n2.H.Walczak,TNF and ubiquitin at the crossroads of gene activation,cell death,inflammation,and cancer.Immunol.Rev.244,9-28 (2011).   \n3.B.Razani,G.Cheng,NF- $\\cdot \\kappa \\mathsf { B }$ ：Much learned,much to learn.Sci. Signal.3,pe29 (2010).   \n4.K. lwai, Diverse ubiquitin signaling in NF $\\cdot \\kappa \\mathsf { B }$ activation.Trends CellBiol.22,355-364 (2012).   \n5.X.M. Jiang,Z.J. Chen,The role of ubiquitylation in immune defence and pathogen evasion. Nat.Rev.Immunol.12,35-48 (2012).   \n6.J. Chen,Z.J. Chen, Regulation of NF $\\cdot \\kappa \\mathsf { B }$ by ubiquitination. Curr. Opin. Immunol.25, 4-12 (2013).   \n7.K.lwai, F.Tokunaga, Linear polyubiquitination: A new regulator of NF $\\cdot \\kappa \\mathsf { B }$ activation. EMBO Rep.10,706-713 (2009).   \n8.C.H.Emmerich,A. C.Schmukle,H.Walczak,The emerging role of linear ubiquitination in cell signaling. Sci. Signal.4,re5 (2011).   \n9.F.Tokunaga,S.-i. Sakata,Y.Saeki, Y.Satomi,T. Kirisako,K. Kamei,T.Nakagawa, M. Kato,S.Murata, S.Yamaoka,M.Yamamoto,S.Akira,T.Takao,K.Tanaka, K. lwai, Involvement of linear polyubiquitylation of NEMO in NF $\\cdot \\kappa \\mathsf { B }$ activation. Nat. Cell Biol.11, 123-132 (2009).   \n10.T.L. Haas, C.H. Emmerich,B.Gerlach,A.C.Schmukle,S.M. Cordier,E.Rieser,R.Feltham, J.Vince,U.Wamken,T.Wenger,R. Koschny, D. Komander,J. Silke,H.Walczak,Recruitment of the linear ubiquitin chain assembly complex stabilizes the TNF-R1 signaling complex and is required for TNF-mediated gene induction. Mol. Cel/36,831-844 (2009).   \n11.T. Kirisako,K. Kamei,S.Murata, M.Kato,H.Fukumoto,M.Kanie,S.Sano,F.Tokunaga, K.Tanaka,K.lwai,A ubiquitin ligase complex assembles linear polyubiquitin chains. EMBO J.25,4877-4887 (2006).   \n12.J. Niu,Y. Shi,K. Iwai, Z.-H.Wu,LUBAC regulates NF $\\cdot \\kappa \\mathsf { B }$ activation upon genotoxic stress by promoting linear ubiquitination of NEMO.EMBO J.30,3741-3753 (2011).   \n13.A.Ehrlund,E.H.Anthonisen,N.Gustafsson,N.Venteclef,K.Robertson Remen, A.E.Damdimopoulos,A. Galeeva, M.Pelto-Huikko,E.Lali,K.R. Steffensen,J.A.Gustafsson, E.Treuter, E3 ubiquitin ligase RNF31 cooperates with DAX-1 in transcriptional repression of steroidogenesis. Mol. Cell. Biol.29,2230-2242 (2009).   \n14.M. Zhang,Y.Tian,R.-P.Wang,D.Gao,Y.Zhang,F.-C. Diao,D.-Y.Chen,Z.-H.Zhai, H.-B.Shu, Negative feedback regulation of cellular antiviral signaling by RBCK1-mediated degradation of IRF3.CellRes.18,1096-1104 (2008).   \n15.K.Iwai,H. Ishikawa,T.Kirisako,Identification,expression,and assay of an oxidationspecific ubiquitin ligase,HOlL-1. Methods Enzymol.398,256-271 (2005).   \n16.F.Liu,Y.F.Xia,A.S.Parker,l.M.Verma,IKK biology.Immunol.Rev.246,239-253 (2012).   \n17.F.Tokunaga,K.Iwai,LUBAC,a novel ubiquitin ligase for linear ubiquitination,is crucial for inflammation and immune responses.Microbes Infect.14, 563-572 (2012).   \n18.F.Tokunaga,T.Nakagawa, M.Nakahara,Y.Saeki, M.Taniguchi, S.-i.Sakata,K.Tanaka, H.Nakano,K.Iwai, SHARPIN is a component of the NF-kB-activating linear ubiquitin chain assembly complex.Nature 471,633-636 (2011).   \n19.F.Ikeda,Y.L.Deribe,S.S.Skanland,B.Stiegiz,C.Grabbe,M.Franz-Wachtel,S.J.van Wijk, P.Goswami,V.Nagy,J.Terzic,F.Tokunaga,A.Androulidaki,T.Nakagawa,M.Pasparakis, K.Iwai,J.P.Sundberg,L.Schaefer,K.Rittinger,B.Macek,I. Dikic,SHARPIN formsalinear ubiquitin ligase complex regulating NF $\\cdot \\kappa \\mathsf { B }$ activity and apoptosis.Nature 471,637-641 (2011).   \n20.B. Gerlach,S.M. Cordier,A.C.Schmukle,C.H.Emmerich,E.Rieser,T.L. Haas,A.I. Webb, J.A.Rickard, H.Anderton,W.W.-L.Wong,U.Nachbur,L.Gangoda, U.Warnken, A. W.Purcell,J. Silke,H.Walczak,Linear ubiquitination prevents inflammation and regulates immune signalling. Nature 471, 591-596 (2011).   \n21.C.W.Shepard,L.Finelli, M.J.Alter, Global epidemiology of hepatitis C virus infection. Lancet Infect. Dis.5, 558-567 (2005).   \n22.B.D.Lindenbach, C.M. Rice, Unraveling hepatitis C virus replication from genome to function. Nature 436,933-938 (2005).   \n23.K.D.Raney,S.D. Sharma,I.M. Moustafa,C.E.Cameron, Hepatitis C virus nonstructural protein 3 (HCV NS3):A multifunctional antiviral target.J. Biol. Chem.285, 22725-22731 (2010).   \n24.M.Otsuka,N.Kato,M. Moriyama, H.Taniguchi,Y.Wang,N.Dharel,T. Kawabe,M.Omata, Interaction between the HCV NS3 protein and the host TBK1 protein leads to inhibition of cellular antiviral responses. Hepatology41,1004-1012 (2005).   \n25.X. D.Li,L.Sun,R. B.Seth,G. Pineda,Z.J.Chen, Hepatitis C virus protease NS3/4A cleaves mitochondrial antiviral signaling protein offthe mitochondria to evade innate immunity.Proc.Natl. Acad. Sci. U.S.A.102,17717-17722 (2005).   \n26.K.Li,E.Foy,J.C.Ferreon,M.Nakamura,A.C.M.Ferreon,M.Ikeda,S.C.Ray,M.Gale Jr., S.M.Lemon,Immune evasion by hepatitis C virus NS3/4A protease-mediated cleavage of the Tollike receptor3adaptorproteinTRIF.Proc.Nat.Acad.Sci.U.S.A.102,2992-2997 (2005).   \n27.E.MeynJuan.odourderrehgJ Cardif is anadaptor protein in the RIG-lantiviral pathway and is targeted by hepatitis C virus. Nature 437,1167-1172 (2005).   \n28.Y.-M.LoD..Owen,K.i,A.K.Erickson,C.L.JosonP..Fish,D..Caey T.Wang, H. Ishida,M.Yoneyama,T.Fujita,T.Saito,W.M.Lee, C.H. Hagedom, D.T.-Y.Lau, S.A.Weinman,S.M.Lemon,M. Gale Jr., Viral and therapeutic control of IFN ${ \\bf \\cdot \\beta }$ promoter Stimulator1 during hepatitis C virus infection.Proc.Nat.Acad.Sci. U.S.A.103,6001-6006 (2006).   \n29.H.Tilg,A.Wilmer,W.Vogel, M. Herold, B.Nolchen,G.Judmaier,C.Huber,Serum levels of cytokines in chronic liver diseases.Gastroenterology103,264-274 (1992).   \n30.D.Torre,C.Zeroli, M.Giola,G.Ferrario,G.P.Fiori, G.Bonetta,R.Tambini, Serum levels of interleukin-1α,interleukin $\\cdot 1 \\beta$ ,interleukin-6,and tumor necrosis factor in patients with acute viral hepatitis. Clin. Infect. Dis.18,194-198 (1994).   \n31.M.Frese,K. Barth,A. Kaul,V.Lohmann,V.Schwärzle,R. Bartenschlager, Hepatitis C virus RNA replication is resistant to tumour necrosis factor-α.J.Gen. Virol.84, 1253-1259 (2003).   \n32.L.Frelin,E.D.Brenndorfer, G.Ahlén, M.Weiland, C. Hultgren, M.Alheim, H. Glaumann, B.Rozell, D.R. Milich,J.G. Bode,M. Sallberg,The hepatitis C virus and immune evasion: Non-structural 3/4A transgenic mice are resistant to lethal tumour necrosis factor $\\alpha$ mediated liver disease.Gut 55,1475-1483 (2006).   \n33.R.E.Ldreetl Antiviral effect and virus-host interactions in response to $\\mathbf {  { a } }$ interferon,γ interferon,poly(l)- poly(C),tumor necrosis factor α,and ribavirin in hepatitis C virus subgenomic replicons. J.Virol.77,1092-1104 (003).   \n34.J.J. Lasarte,P.Sarobe,P. Boya,N.Casares,L.Aribillaga,A.Lopez-Diaz de Cerio, M.Gorraiz,F. Borras-Cuesta,J.Prieto,A recombinant adenovirus encoding hepatitis C virus core and E1 proteins protects mice against cytokine-induced liver damage. Hepatology 37,461-470 (2003).   \n35.J.Zhong,P.Gastaminza,G.Cheng,S.Kapadia,T.Kato, D.R. Burton,S.F.Wieland, S.L.Uprichard,T.Wakita,F.V. Chisari,Robust hepatitis C virus infection in vitro. Proc. Natl. Acad. Sci. U.S.A.102,9294-9299 (2005).   \n36.T.Wakita,T.Pietschmann,T.Kato,T.Date,M. Miyamoto,Z.Zhao, K.Murthy,A. Habermann, H.-G. Kräusslich,M. Mizokami, R. Bartenschlager,T.J.Liang,Production of infectious hepatitis C virus in tissue culture from a cloned viral genome.Nat. Med.11,791-796 (2005).   \n37.B.D.Lindenbach,M.J.Evans,A.J.Syder, B.Wolk,T.L.Telinghuisen, C.C.Liu,T.Maruyama, R. O. Hynes,D.R. Burton,J.A. McKeating, C.M. Rice,Complete replication of hepatitis C virus in cell culture.Science 309,623-626 (2005).   \n38.Q.Han, C.Xu,C.Wu,W. Zhu,R.Yang,X.Chen, Compensatory mutations in NS3 and NS5A proteins enhance the virus production capability of hepatitis C reporter virus.Virus Res.145,63-73 (2009).   \n39.C.S.Kim,J.H.Jung,T.Wakita,S.K.Yoon,S.K.Jang,Monitoring the antiviral effect of α interferon on individual cells.J. Virol.81,8814-8820 (2007).   \n40.D.M.Jones,S.N. Gretton,J.McLauchlan,P.Target-Adams,Mobility analysis of an NS5A-GFP fusion protein in cels actively replicating hepatitis C virus subgenomic RNA.J. Gen.Virol.88,470-475 (2007).   \n41.J.Park,W. Kang,S.-W.Ryu,W.-l. Kim,D.-Y.Chang,D.H.Lee,D.Y.Park,Y.-H.Choi, K. Choi, E.-C.Shin,C. Choi, Hepatitis C virus infection enhances TNFα-induced cell death via suppression of nuclear factor-kB. Hepatology 56,831-840 (2012).   \n42.G.Waris,A.Livolsi, V.Imbert,J.-F.Peyron,A. Siddiqui, Hepatitis C virus NS5A and subgenomic replicon activate NF $\\cdot \\kappa \\mathsf { B }$ via tyrosine phosphorylation of IkBα and its degradation by calpain protease.J. Biol. Chem.278,40778-40787 (2003).   \n43.T.Kanda,R.Steele,R.Ray,R.B.Ray,Small interfering RNA targeted to hepatitis C virus ${ \\boldsymbol { 5 } } ^ { \\prime }$ nontranslated region exerts potent antiviral effect.J.Virol.81,669-676 (2007).   \n44.B.de Chassey,V.Navratil,L.Tafforeau,M.S. Hiet,A.Aublin-Gex,S.Agaugué,G.Meifren, F.Pradezynski,B.F.Faria,T.Chantier,M.Le Breton,J.Pelet,N.Davoust,P.E.Mangeot, A. Chaboud,F.Penin,Y.Jacob,P.O.Vidalain,M.Vidal,P.André,C.Rabourdin-Combe, V.Lotteau, Hepatitis C virus infection protein network. Mol. Syst. Biol.4,230 (2008).   \n45.H.Fujita,S.Rahighi,M.Akita,R.Kato,Y.Sasaki,S.Wakatsuki,K.lwai,Mechanism underlying IkB kinase activation mediated by the linear ubiquitin chain assembly complex.Mol. Cell. Biol.34,1322-1335 (2014).   \n46.M.Joo,Y.S.Hahn,M.Kwon,R.T.Sadikot,T.S.Blackwel,J.W.Christman, Hepatitis C virus core protein suppresses NF $\\cdot \\kappa \\mathsf { B }$ activation and cyclooxygenase-2 expression by direct interaction with $\\mathsf { I } \\kappa \\mathsf { B }$ kinase β.J. Virol.79,7648-7657 (2005).   \n47.Y.Chen, S.Wang,Z.Yi, H.Tian,R.Aliyari,Y.Li,G.Chen,P.Liu,J.Zhong,X. Chen, P.Du,L.Su,F.X.-F. Qin, H. Deng,G.Cheng, Interferon-inducible cholesterol-25-hydroxylase inhibits hepatitis C virus replication via distinct mechanisms.Sci. Rep.4,7242 (2014).   \n48.L.-Y.Chen, D. Liu, S. Zhou,Telomere maintenance through spatial control of telomeric proteins.Mol.Cell.Biol.27,5898-5909 (2007). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments:We are grateful to E.Treuter,D.Chen,and K.Iwai for providing the expression plasmids for HOIP (RNF31), HOIL-1L (RBCK1),and linear Ub-NEMO,respectively,and we thank members of the Deng laboratory for helpful discussions.Funding: This research was supported by grant no.81325012 from the National Natural Science Foundation of China and grant nos.2015CB554302 and 2009CB522505 from the Ministry of Science and Technology of China. Author contributions: Y.C., G.C.,and H.D.designed the experiments; Y.C.,L.H.,and Y.P.performed the experiments; J.C.,J.Z.,and X.C.provided critical reagents; Y.C.,X.S., G.C.,and H.D.analyzed the data; and Y.C., G.C.,and H.D.wrote the manuscript.Competing interests:The authors declare that they have no competing interests. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Submitted 29 March 2015   \nAccepted 30 October 2015   \nFinal Publication 17 November 2015   \n10.1126/scisignal.aab2159   \nCitation: Y.Chen,L.He,Y.Peng,X.Shi,J.Chen,J.Zhong,X.Chen,G.Cheng,H.Deng, The hepatitis C virus protein NS3 suppresses TNF-α-stimulated activation of NF- $\\cdot \\kappa \\mathsf { B }$ by targeting LUBAC.Sci. Signal.8,ra118 (2015). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The following resources related to this article are available online at htp://stke.sciencemag.org. This information is current as of April 9,2016. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ArticleTools ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Visit the online version of this article to access the personalization and article tools: http://stke.sciencemag.org/content/8/403/ra118 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Supplemental Materials ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "\"SupplementaryMaterials\" http://stke.sciencemag.org/content/suppl/2015/11/13/8.403.ra118.DC1 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Related Content ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The editors suggest related resources on Science's sites: http://stke.sciencemag.org/content/sigtrans/8/361/ra11.full http://stke.sciencemag.org/content/sigtrans/7/339/ra80.full http://stke.sciencemag.org/content/sigtrans/6/290/ra75.full http://science.sciencemag.org/content/sci/347/6223/771.full http://science.sciencemag.org/content/sci/348/6232/282.full http://stm.sciencemag.org/content/scitransmed/7/282/282ra49.full ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This article cites 48 articles,21 of which you can access for free at: http://stke.sciencemag.org/content/8/403/ra118#BIBL ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Permissions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Obtain information about reproducing this article: http://www.sciencemag.org/about/permissions.dtl ",
+        "page_idx": 10
+    }
+]

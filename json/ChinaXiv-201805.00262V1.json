@@ -1,0 +1,731 @@
+[
+    {
+        "type": "text",
+        "text": "基于低秩矩阵恢复的DOA稀疏重构方法\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "房云飞，王洪雁，裴炳南(大连大学 信息工程学院，辽宁 大连 116622)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为提高非均匀噪声下波达方向（directionofarrival，DOA）角估计算法的估计精度和分辨率，基于低秩矩阵恢复理论，提出了一种二阶统计量域下的加权L1稀疏重构DOA估计算法。该算法基于低秩矩阵恢复方法，引入弹性正则化因子将接收信号协方差矩阵重构问题转换为可获得高效求解的半定规划（semidefinite programming，SDP）问题以重构无噪声协方差矩阵；而后在二阶统计量域下利用稀疏重构加权L1范数实现DOA参数估计。数值仿真表明，与传统MUSIC、L1-SVD及加权L1算法相比，所提算法能显著抑制非均匀噪声影响，具有较好的DOA 参数估计性能，且在低信噪比条件下，所提算法具有较高的角度分辨力和估计精度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：波达方向；非均匀噪声；低秩矩阵恢复；二阶统计量；加权L1范数 中图分类号：TN911.7 doi:10.3969/j.issn.1001-3695.2017.08.0886 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Low-rank matrix recovery based DOA sparse reconstruction method ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fang Yunfei, Wang Hongyan,Pei Bingnan (College of Information Engineering,Dalian University,DalianLiaoning116622,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: To increase theaccuracyand resolutionofDOA estimationalgorithmin thepresence ofnon-uniform noise,basedon thelow-rank matrix recoverytheory,this paperdeveloped aweightedL1 sparsereconstruction DOA estimation algorithm (LRWLOSRSS)under the second-order statistical domain.Folowing the low-rank matrix recovery approach,the algorithm firstly introduced theelasticregularizationfactortotransformthecovariance matrixreconstructionproblemofthereceivedsignalinto asemidefiniteprogramming (SDP)one thatcanbe solved very eficiently toreconstruct the noise-freecovariance matrixAfter that,the DOAcanbecomplemented inthe second-orderstatistical domain by employing thesparsereconstruction weightedL1 norm.Numerical simulations showthat,compared to thetraditional MUSIC,L1-SVD(L1-norm-singular valuedecomposition) and weightedLl methods,the proposed algorithmcan suppress the influenceof the non-uniformnoise significantlyprovide better DOA parameter estimation performance,as wellas improve angle estimationaccuracyand resolution in thecaseof the low SNR (signal-noise ratio) . ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: directionofarrival(DOA); nonuiformnoise;low-rank matrixrecovery;second-orderstatistics; weightedLnor ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在雷达、移动通信、无线传感器网络和射电天文学等领域，波达方向角估计(directionofarrival,DOA)是一类重要的问题，通常被称为定向（direction finding,DF）估计或DOA估计[1]。基于信号和噪声子空间的传统DOA估计算法显著改善了DOA的估计精度和分辨力，如多重信号分类（multiplesignalclassification,MUSIC）算法[2]。以MUSIC方法为代表的子空间类算法通常假设噪声是零均值、方差为1的复高斯白噪声。然而当附加在阵列传感器上的噪声为非均匀高斯噪声时[3]，对接收信号协方差进行特征空间分解会引起信号子空间泄露，诸如子空间类算法的性能将会急剧下降甚至失效。为了进一步提高DOA的估计精度和分辨力，基于压缩感知理论，LiangG等人利用目标信号的空域稀疏性，提出一种稀疏重构 $l _ { 1 }$ -SVD 算法[4]。在信源数量已知条件下，该算法将得到DOA高精度估计。然而，在非均匀高斯噪声或未知信源先验信息条件下，该算法将无法分辨两个邻近角度，因而空间分辨力较差。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着信号处理技术的快速发展，众多研究人员相继提出非均匀高斯噪声下的 DOA 估计算法。文献[5]提出一种非均匀高斯噪声下最大似然（maximumlikelihood,ML）估计算法，该算法通过逐步迭代求解信号和噪声的对数似然函数以实现DOA参数估计。然而，众所周知的ML算法具有的较强初始值依赖性及较大运算复杂度限制该算法的广泛应用。文献[6]提出一种非均匀高斯噪声下基于矩阵补全的 DOA 参数估计算法（matrix completion based music,MC-MUSIC)。该算法基于矩阵补全思想重构出无噪声信号协方差，而后采用传统类MUSIC算法实现DOA参数估计，不仅降低了非均匀噪声的影响，也进一步避免DOA估计算法的迭代求解。然而，该算法没有考虑协方差矩阵元素之间相关性，有可能导致算法求解数值不稳定，从而使得算法稳定性较差。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对上述问题，本文基于低秩矩阵恢复[78理论，提出一种二阶统计量域下的加权 $l _ { 1 }$ 稀疏重构 DOA 估计算法（Low-rankmatrix recovery based Weighted $l _ { 1 }$ Sparse Reconstruction DOAestimation algorithm under the Second-order Statistical domain,LR-WLOSRSS)。非均匀高斯噪声下，本文首先基于低秩矩阵恢复理论，引入弹性正则化因子将接收信号协方差矩阵重构问题转换为可获得高效求解的SDP问题以重构无噪声协方差矩阵，从而避免非均匀高斯噪声的影响，且提高了低秩矩阵恢复算法求解的数值稳定性；而后在二阶统计量域下利用加权 $l _ { 1 }$ 范数（Weighted $l _ { 1 }$ -norm，WL1）[9实现DOA参数估计。数值仿真表明，与传统MUSIC、 $l _ { 1 }$ -SVD子空间类算法及稀疏重构加权 $l _ { 1 }$ 算法相比，所提算法能显著抑制非均匀噪声影响，具有较好的DOA参数估计性能，且在低信噪比条件下，所提算法具有更高的角度分辨力及更优的角度估计性能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 接收信号模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设有 $\\boldsymbol { \\mathscr { Q } }$ 个远场窄带信号 $\\{ s _ { q } ( t ) \\} _ { \\mathbb { q } = 1 } ^ { Q }$ 入射至具有 $M$ 个阵元的均匀线性阵列，则阵列接收信号模型可表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { x } \\left( t \\right) = \\sum _ { q = 1 } ^ { Q } \\pmb { a } \\left( \\theta _ { q } \\right) \\mathsf { s } _ { q } \\left( t \\right) + \\pmb { n } \\left( t \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\mathbf { \\boldsymbol { x } } ( t )$ 为 $M \\times 1$ 信号接收矢量， $s _ { q } ( t )$ 和$\\pmb { a } ( \\theta _ { q } ) = [ 1 \\ \\mathrm { e } ^ { - j \\alpha } \\ \\cdots \\ \\mathrm { e } ^ { - j \\left( M - 1 \\right) \\alpha } ] ^ { \\mathrm { T } }$ 分别为第 $\\boldsymbol { q }$ 个信号源的幅度和阵列导向矢量， $\\alpha = 2 \\pi \\sin ( \\theta _ { \\mathrm { q } } ) / \\lambda$ 表示阵元之间的第 $q$ 个信号到达此阵元时的相移， $\\{ \\theta _ { 1 } , \\theta _ { 2 } , \\cdots , \\theta _ { q } , \\cdots , \\theta _ { Q } \\}$ 为 $\\boldsymbol { \\mathrm { \\ell } }$ 个窄带信号的发射角度， $d$ 为阵元间距， $\\lambda$ 为载波信号波长，通常 $d \\leq \\lambda / 2$ ，n(t)=[n(t),n(t),,nm(t)]T为互不相关的0均值非均匀高斯噪声，即 $\\pmb { n } \\big ( t \\big ) - C N \\big ( 0 , W \\big )$ ， $W$ 为噪声 ${ \\pmb n } ( t )$ 功率协方差矩阵[]，信号 $s _ { q } \\left( t \\right)$ 互不相关。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为便于推导，式(1)接收信号模型可进一步重写为 ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { x } \\big ( t \\big ) = \\pmb { A } \\pmb { s } \\big ( t \\big ) + \\pmb { n } \\big ( t \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：阵列导向流型矩阵 $\\mathbf { \\boldsymbol { A } } = \\left[ \\mathbf { \\boldsymbol { a } } { \\left( \\theta _ { 1 } \\right) } , \\mathbf { \\boldsymbol { a } } { \\left( \\theta _ { 2 } \\right) } , \\cdots , \\mathbf { \\boldsymbol { a } } { \\left( \\theta _ { \\mathcal { Q } } \\right) } \\right] \\in \\mathbb { C } ^ { M \\times Q }$ ，且 $M \\gg Q$ ，即假设阵元数量远大于信号数量，信号波形矢量$\\pmb { \\mathscr { s } } \\left( t \\right) = \\left[ \\mathscr { s } _ { 1 } \\left( t \\right) , \\mathscr { s } _ { 2 } \\left( t \\right) , \\cdots , \\mathscr { s } _ { \\mathscr { Q } } \\left( t \\right) \\right] ^ { T } \\in \\mathbb { C } ^ { \\mathscr { Q } \\times 1 } \\circ$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "多快拍数条件下，式(2)可进一步表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { X } ^ { M \\times L } = \\pmb { A } ^ { M \\times Q } \\pmb { S } ^ { Q \\times L } + \\pmb { N } ^ { M \\times L }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $X = \\left[ \\ b { x } ( 1 ) , \\ b { x } ( 2 ) , \\cdots , \\ b { x } ( L ) \\right] , \\quad S = \\left[ \\ b { s } ( 1 ) , \\ b { s } ( 2 ) , \\cdots , \\ b { s } ( L ) \\right] ,$ $N = \\left[ \\pmb { n } ( 1 ) , \\pmb { n } ( 2 ) , \\cdots , \\pmb { n } ( L ) \\right]$ 分别为 $L$ 个快拍下的接收信号矩阵、信号幅度矩阵、非均匀高斯噪声矩阵， $L$ 表示快拍数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于式(3)，上述接收信号的协方差可表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\pmb { R } = E \\Big \\{ X \\left( t \\right) X ^ { H } \\left( t \\right) \\Big \\} } } \\\\ { { \\mathrm { } } } \\\\ { { \\mathrm { } = A P A ^ { H } + W } } \\\\ { { \\mathrm { } } } \\\\ { { \\mathrm { } = { \\pmb { R } } _ { 0 } + W } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\pmb { R }$ 为接收信号协方差矩阵，$P = \\frac { 1 } { L } \\sum _ { t = 1 } ^ { L } { S S ^ { H } } = d i a g \\left\\{ P _ { 1 } , P _ { 2 } , \\cdots , P _ { q } , \\cdots , P _ { Q } \\right\\}$ 为信号功率协方差矩阵，$P _ { \\ q }$ 为单信号功率， $\\pmb { R } _ { 0 } = A \\pmb { P } \\pmb { A } ^ { H }$ 为不包含噪声的信号协方差矩阵，非均匀高斯噪声功率协方差矩阵$W = E { \\left\\{ { \\cal N } \\left( t \\right) { \\cal N } ^ { H } \\left( t \\right) \\right\\} } = d i a g \\left\\{ \\sigma _ { 1 } ^ { 2 } , \\sigma _ { 2 } ^ { 2 } , { } ^ { . . . } , \\sigma _ { m } ^ { 2 } , { } ^ { . . . } , \\sigma _ { M } ^ { 2 } \\right\\}$ ，且$\\sigma _ { 1 } ^ { 2 } \\neq \\sigma _ { 2 } ^ { 2 } \\neq \\cdots \\neq \\sigma _ { m } ^ { 2 } \\neq \\cdots \\neq \\sigma _ { M } ^ { 2 }$ ， $\\sigma _ { m } ^ { 2 }$ 为单非均匀高斯噪声功率，信号与噪声互不相关。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式(4)信号协方差矩阵模型可通过以MUSIC方法为代表的子空间类算法进行特征空间分解实现DOA参数估计。然而，非均匀高斯噪声下，信号协方差矩阵特征空间分解会引起信号子空间泄露，诸如子空间类算法的性能将会急剧下降甚至失效。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 基于低秩矩阵恢复的无噪声信号协方差重构算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设阵列信号模型中的阵元数远大于信号数（ $M \\gg Q$ ），则无噪声信号协方差的秩 $r a n k \\left( { \\pmb R } _ { 0 } \\right) = { \\pmb Q } < M$ ，即无噪声信号协方差矩阵 $\\pmb { R } _ { 0 }$ 是一个低秩矩阵，且协方差矩阵 $\\pmb { R } _ { 0 }$ 非主对角线元素值等价于接收信号对应元素值，故可进一步通过低秩矩阵恢复理论对 $\\pmb { R } _ { 0 }$ 进行主对角线元素重构，以此消除非均匀高斯噪声对信号协方差 $\\pmb { R }$ 的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对给定矩阵 $\\pmb { X } \\in \\mathbb { C } ^ { m \\times n }$ ，其在相应的子集 $\\Omega$ 内投影，即采样[10]可表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ P _ { \\Omega } \\left( X \\right) \\right] _ { i j } = { \\left\\{ \\begin{array} { l l } { X _ { i j } } & { ( i , j ) \\in \\Omega } \\\\ { 0 } & { o t h e r w i s e } \\end{array} \\right. }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：子集 $\\Omega \\subseteq [ m ] \\times [ n ]$ 表示采样元素索引集合， $m , n$ 分别为采样最大索引行数和列数， $X _ { i j } , \\big [ P _ { \\Omega } \\big ( X \\big ) \\big ] _ { i j }$ 分别为矩阵 $\\scriptstyle { \\boldsymbol { \\mathbf { \\mathit { X } } } }$ 和$P _ { \\Omega } ( X )$ 第 $i j$ 个索引元素， $P _ { \\Omega } ( \\cdot )$ 为正交投影算子。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "鉴于子集 $\\Omega$ 是随机抽取的，使得采样后的信号空域数据矩阵满足矩阵低秩特性，所以可通过低秩矩阵恢复方法重构出其中的未知元素，即重构模型可表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\operatorname* { m i n } \\ r a n k \\Big ( \\tilde { X } \\Big ) } \\\\ { s . t . \\ P _ { \\Omega } \\Big ( \\tilde { X } \\Big ) = P _ { \\Omega } \\big ( X \\big ) } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\tilde { X }$ 为待重构变量， $X$ 为其对应的已知变量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于 $r a n k ( \\tilde { X } )$ 秩函数的非凸性使得上式难以求解。为求解",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "问题式(6)，可将其松弛为凸核范数 $\\parallel \\tilde { X } \\parallel _ { * }$ ，即",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\operatorname* { m i n } \\left\\| \\tilde { X } \\right\\| _ { * } } \\\\ { s . t . } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中核范数 $\\left\\| \\tilde { X } \\right\\| _ { * }$ 等价于矩阵 $\\tilde { X }$ 所有奇异值之和。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为避免利用低秩矩阵恢复算法对强相关性数据进行求解时出现解不稳定的情况，本文引入弹性正则化项增加低秩矩阵恢复算法求解稳定性[10]，则式(7)凸优化模型进一步表示为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\operatorname* { m i n } \\ \\tau \\Big \\| { \\tilde { X } } \\Big \\| _ { * } + \\frac { 1 } { 2 } \\Big \\| { \\tilde { X } } \\Big \\| _ { F } ^ { 2 } } \\\\ { s . t . } & { P _ { \\Omega } \\big ( { \\tilde { X } } \\big ) = P _ { \\Omega } \\big ( { X } \\big ) } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\boldsymbol { \\tau }$ 为 $\\left\\| \\tilde { X } \\right\\| _ { * }$ 和 $\\frac { 1 } { 2 } \\Big \\| \\tilde { X } \\Big \\| _ { F } ^ { 2 }$ 之间的平衡度正则化因子。基于式(4)(8)，低秩矩阵恢复求解模型可改写为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\displaystyle \\operatorname* { m i n } \\ \\tau \\big \\| R _ { \\scriptscriptstyle 0 } \\big \\| _ { * } + \\frac { 1 } { 2 } \\big \\| R _ { \\scriptscriptstyle 0 } \\big \\| _ { F } ^ { 2 } } \\\\ { s . t . } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由无噪声协方差 $\\pmb { R } _ { 0 }$ 是一个半正定矩阵可得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tau \\big \\| \\mathbfcal { R } _ { \\mathrm { 0 } } \\big \\| _ { \\ast } = \\tau \\mathrm { t r } \\big ( \\pmb { R } _ { \\mathrm { 0 } } \\big ) { = } \\mathrm { t r } \\big ( \\tau \\pmb { R } _ { \\mathrm { 0 } } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\operatorname { t r } ( \\cdot )$ 表示矩阵的迹，即矩阵对角线元素之和。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（21号 $\\begin{array} { r } { \\begin{array} { r } { \\mathbb { X } \\left\\| \\pmb { R } _ { 0 } \\right\\| _ { F } ^ { 2 } = \\biggl [ \\left. \\pmb { R } _ { 0 } , \\pmb { R } _ { 0 } \\right. ^ { 1 / 2 } \\biggr ] ^ { 2 } = \\biggl [ \\sqrt { \\mathrm { t r } \\bigl ( \\pmb { R } _ { 0 } ^ { H } \\pmb { R } _ { 0 } \\bigr ) } \\biggr ] ^ { 2 } = \\mathrm { t r } \\bigl ( \\pmb { R } _ { 0 } ^ { H } \\pmb { R } _ { 0 } \\bigr ) \\sqrt { \\frac { 1 } { 2 } \\pmb { R } _ { 0 } ^ { H } \\pmb { R } _ { 0 } } \\biggr ] } \\end{array} } \\end{array}$ 则式(9)最小化项可重写为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\tau { \\left\\| { \\pmb R } _ { 0 } \\right\\| _ { * } } + \\frac { 1 } { 2 } { \\left\\| { \\pmb R } _ { 0 } \\right\\| } _ { F } ^ { 2 } = \\mathrm { t r } { \\left( \\tau { \\pmb R } _ { 0 } \\right) } + \\frac { 1 } { 2 } \\mathrm { t r } { \\left( { \\pmb R } _ { T } ^ { H } { \\pmb R } _ { 0 } \\right) } } \\ ~ } \\\\ { { \\displaystyle ~ = \\mathrm { t r } \\bigg ( \\tau { \\pmb R } _ { 0 } + \\frac { 1 } { 2 } { \\pmb R } _ { 0 } ^ { H } { \\pmb R } _ { 0 } \\bigg ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同时，式(9)约束条件 $P _ { \\Omega } \\left( { R } _ { 0 } \\right) = P _ { \\Omega } \\left( { R } \\right)$ 可等价表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { J } \\nu e c \\big ( { \\pmb { R } } _ { 0 } - { \\pmb { R } } \\big ) = { \\bf 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\textbf { J }$ 代表一个 $M \\left( M - 1 \\right) \\times M ^ { 2 }$ 的选择矩阵。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于式(11)(12)，式(9)凸优化模型可进一步改写为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\displaystyle \\operatorname* { m i n } _ { { { \\mathbf { \\phi } } } } ~ \\mathrm { t r } \\left( { \\tau { \\pmb R } _ { \\mathrm { 0 } } } + \\frac { 1 } { 2 } { \\pmb R } _ { \\mathrm { 0 } } ^ { H } { \\pmb R } _ { \\mathrm { 0 } } \\right) } \\\\ { \\displaystyle s . t . ~ { \\mathbf { J } } \\nu e c \\left( { { \\pmb R } _ { \\mathrm { 0 } } } - { \\pmb R } \\right) = \\mathbf { 0 } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式(13)凸优化模型是一个线性规划问题，约束条件Jvec(R-R)=0在实际工程中要求较为苛刻，故可将其等价松弛化为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\| \\operatorname { J } \\nu e c { \\big ( } R _ { \\mathrm { 0 } } - R { \\big ) } \\right\\| _ { 2 } \\leq \\xi\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\xi$ 表示为与接收信号协方差 $\\pmb { R }$ 相关的一误差常数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "则式(14)凸优化模型可等价表示为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\displaystyle \\operatorname* { m i n } _ { { \\bf \\phi } } ~ \\mathrm { t r } \\Bigg ( \\tau R _ { \\mathrm { 0 } } + \\frac { 1 } { 2 } R _ { \\mathrm { 0 } } ^ { H } R _ { \\mathrm { 0 } } \\Bigg ) } \\\\ { \\displaystyle s . t . ~ \\left\\| { \\bf J } \\nu e c \\big ( R _ { \\mathrm { 0 } } - R \\big ) \\right\\| _ { 2 } \\leq \\xi } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为便于后续低秩矩阵恢复算法求解，式(15)凸优化求解问题可进一步表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\displaystyle \\operatorname* { m i n } _ { R _ { 0 } , t } } & { t } \\\\ { \\displaystyle s . t . } & { \\mathrm { t r } \\Bigg ( \\tau R _ { 0 } + \\frac { 1 } { 2 } R _ { 0 } ^ { H } R _ { 0 } \\Bigg ) \\leq t } \\\\ & { \\Big \\| \\mathbf { J } \\nu e c \\big ( R _ { 0 } - R \\big ) \\Big \\| _ { 2 } \\leq \\xi } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\mathbf { \\Phi } _ { t }$ 为辅助优化变量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "优化问题(16)中约束条件可进一步改写为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\mathrm { t r } \\bigg ( \\displaystyle \\frac { 1 } { 2 } R _ { \\scriptscriptstyle 0 } ^ { \\scriptscriptstyle H } R _ { \\scriptscriptstyle 0 } \\bigg ) \\le t - \\mathrm { t r } \\big ( \\tau R _ { \\scriptscriptstyle 0 } \\big ) } \\\\ { \\left[ \\mathbf { J } \\nu e c \\big ( { R _ { \\scriptscriptstyle 0 } } - R \\big ) \\right] ^ { \\scriptscriptstyle H } \\left[ \\mathbf { J } \\nu e c \\big ( { R _ { \\scriptscriptstyle 0 } } - R \\big ) \\right] \\le \\xi ^ { 2 } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据 Schur 补定理[11]及 $\\operatorname { t r } \\Bigl ( X ^ { H } X \\Bigr ) = \\Bigl [ \\nu e c \\bigl ( X \\bigr ) \\Bigr ] ^ { H } \\nu e c \\bigl ( X \\bigr )$ 可知，式(17)凸优化求解问题可转换为SDP问题，即",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\operatorname* { m i n } _ { { R _ { 0 } , t } } ~ t } \\\\ { \\displaystyle s . t . ~ \\left[ 2 \\Big ( t - \\mathrm { t r } \\Big ( \\tau R _ { 0 } \\Big ) \\Big ) ~ \\Big ( \\nu e c \\big ( R _ { 0 } \\Big ) \\Big ) ^ { H } \\right] \\succeq 0 } \\\\ { \\displaystyle ~ \\nu e c \\big ( R _ { 0 } \\big ) ~ \\qquad \\mathrm { I } } \\\\ { \\displaystyle ~ \\left[ \\begin{array} { c c } { \\xi ^ { 2 } } & { \\big ( \\mathbf { J } \\nu e c \\big ( R _ { 0 } - R \\big ) \\big ) ^ { H } } \\\\ { \\mathbf { J } \\nu e c \\big ( R _ { 0 } - R \\big ) } & { \\mathrm { I } } \\end{array} \\right] \\succeq 0 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上述 SDP问题可运用CVX工具包实现高效求解[12]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由上述分析知，本文基于低秩矩阵恢复理论重构 $\\pmb { R } _ { 0 }$ ，以消除非均匀噪声影响，而后可采用传统子空间类算法实现DOA参数估计。然而，需要注意的是，基于 $\\pmb { R } _ { 0 }$ 的传统DOA估计算法没有考虑到协方差矩阵 $\\pmb { R } _ { 0 }$ 元素之间的的相关性，在实现 DOA参数估计的同时，会导致算法计算量较大、低信噪比条件下估计稳定性差和分辨率低等问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 二阶统计量域下的加权L1稀疏重构算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为进一步提高低信噪比条件下信号估计精度和分辨力，降低稀疏重构算法计算复杂度，本文基于低秩矩阵恢复理论，提出一种二阶统计量域下加权 $l _ { 1 }$ 范数稀疏重构算法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "无噪声协方差 $\\pmb { R } _ { 0 }$ 中的元素，即第 $i$ 行和第 $j$ 列的阵列输出互相关系数可表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr _ { i j } = \\left( { \\pmb R } _ { 0 } \\right) _ { i j } = \\left( { \\pmb A } { \\pmb P } { \\pmb A } ^ { H } \\right) _ { i j } = \\sum _ { q = 1 } ^ { Q } P _ { q } e ^ { - j 2 \\pi \\left( i - j \\right) d \\sin \\theta _ { q } / \\lambda }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对信号协方差 $\\pmb { R } _ { 0 }$ 按行展开，可表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} \\begin{array} { c } { { R _ { 0 } = \\left( \\begin{array} { c c c } { { r _ { 1 1 } } } & { { \\cdots } } & { { r _ { 1 M } } } \\\\ { { \\vdots } } & { { \\ddots } } & { { \\vdots } } \\\\ { { r _ { M 1 } } } & { { \\cdots } } & { { r _ { M M } } } \\end{array} \\right) } } \\\\ { { { } } } \\\\ { { { } } } \\\\ { { { } } } \\\\ { { { } } } \\\\ { { { } } } \\end{array} = \\left( \\begin{array} { c c c } { { { } } } & { { { \\sum _ { q = 1 } ^ { Q } { P _ { q } } } } } & { { { \\cdots } } } & { { { \\displaystyle \\sum _ { q = 1 } ^ { Q } { P _ { q } e ^ { j 2 \\alpha ( M - 1 ) d \\sin \\theta _ { q } / \\lambda } } } } \\\\ { { } } & { { } } & { { { } } } \\\\ { { { } } } & { { { \\vdots } } } & { { { \\ddots } } } & { { { \\vdots } } } \\\\ { { { } } } & { { { \\displaystyle \\sum _ { q = 1 } ^ { Q } { P _ { q } e ^ { - j 2 \\alpha ( M - 1 ) d \\sin \\theta _ { q } / \\lambda } } } } & { { { \\cdots } } } & { { { \\displaystyle \\sum _ { q = 1 } ^ { Q } { P _ { q } } } } } \\end{array} \\right) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中：当 $i - j = u - \\nu$ 时，互相关系数 $r _ { i j } = r _ { u \\nu } , i , j , u , \\nu \\in \\left[ 1 , { \\cal M } \\right]$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "即它们含有相同系数特征，可通过二阶统计量域下求和平均将多矢量问题转换为单矢量问题。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定义 $\\left( 2 M - 1 \\right) \\times 1$ 的向量 $r$ ，通过对信号协方差 $\\pmb { R } _ { 0 }$ 求和平均，其第 $\\overline { { m } }$ 个元素可表示为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle r \\big ( \\bar { m } \\big ) = \\left\\{ \\begin{array} { c } { { \\displaystyle \\frac { 1 } { \\bar { m } } \\sum _ { \\bar { n } = 1 } ^ { \\bar { m } } R _ { 0 } \\big ( \\bar { n } , M + \\overline { { n } } - \\bar { m } \\big ) , \\qquad \\bar { m } = 1 , \\cdots , M } } \\\\ { { \\displaystyle \\frac { 1 } { 2 M - \\overline { { m } } } \\sum _ { \\bar { n } = 1 } ^ { 2 M - \\overline { { m } } } R _ { 0 } \\big ( r x , r y \\big ) , \\overline { { { m } } } = M + 1 , \\cdots , 2 M - 1 } } \\end{array} \\right. } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中，rx=M+1-n,ry=2M+1-n-m。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$r$ 的向量形式可表示为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\scriptstyle { \\boldsymbol { r } } = B ( \\theta ) { \\boldsymbol { P } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\boldsymbol { P } = \\left[ P _ { 1 } , P _ { 2 } , \\cdots , P _ { Q } \\right] ^ { T } ,$ （204",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { { \\cal B } } \\left( \\theta \\right) = \\left[ \\pmb { { b } } \\left( \\theta _ { 1 } \\right) , \\cdots , \\pmb { { b } } \\left( \\theta _ { q } \\right) , \\cdots , \\pmb { { b } } \\left( \\theta _ { \\varrho } \\right) \\right] \\in \\mathbb { C } ^ { \\left( 2 M - 1 \\right) \\times Q }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为虚拟阵列流型矩阵，其第 $q$ 列可表示为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\pmb { b } \\Big ( \\theta _ { q } \\Big ) = \\mp \\Big [ e ^ { j 2 \\pi \\big ( M - 1 \\big ) d \\sin \\theta _ { q } / \\lambda } , e ^ { j 2 \\pi \\big ( M - 2 \\big ) d \\sin \\theta _ { q } / \\lambda } , \\cdots , 1 , } \\\\ { \\cdots , e ^ { - j 2 \\pi \\big ( M - 2 \\big ) d \\sin \\theta _ { q } / \\lambda } , e ^ { - j 2 \\pi \\big ( M - 1 \\big ) d \\sin \\theta _ { q } / \\lambda } \\Big ] } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "上述单矢量问题可转变为稀疏信号重构问题，将空间波达方向角 $\\theta$ 分割为 $N$ $\\textsf { } ( N \\gg M )$ 个网格，即 $\\pmb { \\mathcal { Y } } = \\left\\{ \\widetilde { \\theta } _ { 1 } , \\widetilde { \\theta } _ { 2 } , \\cdots , \\widetilde { \\theta } _ { N } , \\right\\}$ ，则稀疏后的接收信号矢量可表示为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { \\cal { Y } } = \\tilde { \\pmb { B } } ( \\pmb { \\varPsi } ) \\tilde { \\pmb { P } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\tilde { B } \\left( \\mathcal { V } \\right) = \\left[ b \\left( \\tilde { \\theta } _ { 1 } \\right) , b \\left( \\tilde { \\theta } _ { 2 } \\right) , \\cdots , b \\left( \\tilde { \\theta } _ { N } \\right) \\right] \\in \\mathbb { C } ^ { \\left( 2 M - 1 \\right) \\times N }$ 为过完备基矩阵， $\\tilde { \\pmb { P } } = \\left[ \\tilde { P } _ { 1 } , \\tilde { P } _ { 2 } , \\cdots , \\tilde { P } _ { N } \\right]$ 为 $K$ 稀疏的信号功率向量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "上述问题可通过 $l _ { \\scriptscriptstyle 1 }$ 范数约束最优化算法进行求解，即",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } \\left\\| \\tilde { \\cal P } \\right\\| _ { 1 } s . t \\left\\| \\boldsymbol r - \\tilde { \\cal B } ( \\pmb { \\mathcal { V } } ) \\tilde { \\cal P } \\right\\| _ { F } \\leq \\eta\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\eta$ 为误差参数因子， $\\left\\| \\bullet \\right\\| _ { F }$ 和 $\\left\\| \\bullet \\right\\| _ { 1 }$ 为2 范数和1范数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "业已证明：优化问题(25)中 $l _ { 1 }$ 范数约束对目标信号系数呈现不均匀惩罚，其对大系数惩罚程度大于小系数，导致其事实上是一种有偏的估计[13]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "针对此问题，本文采用加权 $l _ { \\mathrm { { l } } }$ 范数重构稀疏信号功率谱，而后通过谱峰搜索寻找最大谱峰对应信源位置从而实现非均匀噪声下DOA估计，即",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } \\left\\| W ^ { ( i ) } \\tilde { P } \\right\\| _ { 1 } s . t ~ \\left\\| r - \\tilde { B } ( \\mathcal { V } ) \\tilde { P } \\right\\| _ { F } \\leq \\eta\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式(26)可进一步改写为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } \\sum _ { i = 1 } ^ { N } w _ { i } \\Big | \\tilde { P } _ { i } \\Big | s . t . \\ \\Big \\| r - \\tilde { B } \\big ( \\mathcal { V } \\big ) \\tilde { P } \\Big \\| _ { { F } } \\leq \\eta\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式(27)凸优化问题可通过二阶锥规划（Second-orderconeprogramming,SOCP）[14]重构实现DOA参数估计。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于上述讨论，本文提出的LR-WLOSRSS算法可表述如",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "初始化",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. $\\scriptstyle { \\{ r = \\operatorname { a v r } ( { R _ { \\mathrm { 0 } } } ) }$ ，Maxiter，ε，λ，η; ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 $\\tilde { P } _ { N , 0 } = \\arg \\operatorname* { m i n } \\sum _ { i = 1 } ^ { N } \\left| \\tilde { P } _ { i } \\right|$ s $\\left\\| r - \\tilde { B } ( \\Psi ) \\tilde { P } \\right\\| _ { F } \\leq \\eta \\ ;$ （20迭代",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.权值 ${ w _ { i } } = 1 \\big / \\big ( \\tilde { P } _ { N , 0 } \\big ( i \\big ) + \\hat { \\varkappa } \\big )$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.求解如下优化问题$\\tilde { P } _ { N , m } = \\arg \\operatorname* { m i n } \\sum _ { i = 1 } ^ { N } w _ { i } \\left| \\tilde { P } _ { i } \\right| s . t . \\ \\left\\| \\boldsymbol { r } - \\tilde { B } \\big ( \\boldsymbol { \\varPsi } \\big ) \\tilde { P } \\right\\| _ { _ { F } } \\leq \\eta$ 以更新系数;",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.重复步骤3、4直至满足如下条件 $\\left| \\tilde { P } _ { N , m } - \\tilde { P } _ { N , m - 1 } \\right| \\leq \\varepsilon$ 或者 m≥Maxiter ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中：算子 $\\operatorname { a v r } ( \\cdot )$ 代表式(21)矩阵求和平均；Maxiter 表示最大迭代次数； $\\boldsymbol { \\varepsilon }$ 为迭代终止参数； $\\textstyle { \\hat { \\boldsymbol { \\pi } } }$ 为权值 $w$ 平衡约束因子，防正算法迭代时权值分母趋于无穷大； $\\eta$ 为凸优化问题误差参数；$\\mathbf { m }$ 为迭代次数； $\\tilde { P } _ { { } _ { N , 0 } }$ 为谱峰估计初始值； $\\tilde { P } _ { { } _ { N , m } }$ 为第 $\\mathrm { ~ m ~ }$ 次迭代的谱峰估计值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 实验仿真及分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本节通过实验仿真分析进一步验证所提算法的有效性。实验仿真条件如下：均匀线性阵列空间阵元个数 $M = 8$ ，信号快拍数 $\\scriptstyle { L = 5 0 0 }$ ，非相干信号功率为 $\\sigma _ { s } ^ { 2 }$ ，误差常数 $\\xi = 5$ ， $\\scriptstyle { \\tau = 6 0 }$ ，$\\scriptstyle { \\varepsilon = 0 . 0 1 }$ ， $\\scriptstyle \\mathtt { \\mathtt { X } = 0 . 1 } P _ { n }$ ，网格数量 $N = 1 8 1$ 。信噪比[15]定义为$S N R { = } \\frac { 1 } { M } { \\sum _ { m = 1 } ^ { M } } \\frac { \\sigma _ { s } ^ { 2 } } { \\sigma _ { m } ^ { 2 } }$ $\\sigma _ { m } ^ { 2 }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR M S E = \\sqrt { \\frac { 1 } { K Q } { \\sum _ { k = 1 } ^ { K } } \\sum _ { q = 1 } ^ { Q } \\Bigl ( \\hat { { \\theta } } _ { q , k } - { \\theta } _ { q } \\Bigr ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $K$ 为蒙特卡洛实验次数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "非均匀高斯噪声功率协方差定义为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW { = } \\mathrm { d i a g } \\left\\{ 2 . 0 , 1 0 , 2 . 5 , 5 . 0 , 0 . 5 , 1 . 5 , 3 . 0 , 5 . 0 \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $d i a g \\left\\{ \\bullet \\right\\}$ 表示对角化算子。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验1　考虑 $\\mathrm { S N R = } 0 \\mathrm { d B }$ 和-5dB两种情况。图1（a）为入射角度分别为 $. 3 ^ { \\circ }$ 、 $1 0 ^ { \\circ }$ 和 $1 6 ^ { \\circ }$ ， $\\mathrm { S N R = } 0 \\mathrm { d B }$ 的空域谱。由图1（a)知，MUSIC、WL1 和 $l _ { 1 }$ -SVD 算法在非均匀噪声条件下不能正确分辨位于 $1 0 ^ { \\circ }$ 和 $1 6 ^ { \\circ }$ 的两个目标，而MC-MUSIC和LR-WLOSRSS算法可正确分辨 $1 0 ^ { \\circ }$ 和 $1 6 ^ { \\circ }$ 的目标。图1（b）为入射角度分别为 $. 3 ^ { \\circ }$ 、 $1 0 ^ { \\circ }$ 和 $1 6 ^ { \\circ }$ ，且 $\\operatorname { S N R } { = } { - 5 \\mathrm { d B } }$ 的空域谱。由图1(b)知，低信噪比情况下，本文所提LR-WLOSRSS 算法可有效分辨三个角度，而MC-MUSIC 等其他算法均不能分辨 $1 0 ^ { \\circ }$ 和 $1 6 ^ { \\circ }$ 两个目标。图1表明，与MC-MUSIC 等其他传统类算法相比，所提算法在非均匀噪声和低信噪比条件下仍具有较好的DOA估计性能。另外，从图1还可看出，本文所提LR-WLOSRSS 算法具有较窄的主瓣及较低的旁瓣，表明所提算法在非均匀高斯噪声和低信噪比条件下具有较高的角度估计精度和分辨力。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4ebc1b5e8fb209f6e995a0ec98368c2e4007a24f344f821a6f3aced7ab81beaf.jpg",
+        "img_caption": [
+            "图1信噪比 $\\scriptstyle \\mathrm { S N R } = 0 \\mathrm { d B }$ 和-5dB条件下的非相干信号空域谱对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验2考虑入射角度分别为 $\\cdot 3 ^ { \\circ } , 1 0 ^ { \\circ }$ 和 $1 3 ^ { \\circ }$ 的非相干信号，$\\mathrm { S N R } { = } 5 \\mathrm { d B }$ 。图2为五种算法空域谱。由图2可知，MUSIC和WL1算法不能有效分辨 $1 0 ^ { \\circ }$ 和 $1 3 ^ { \\circ }$ 两个邻近角度，MC-MUSIC虽可重构出无噪声协方差，但受限于算法角度分辨率影响，不能对邻近角度实现有效估计。本文所提算法及理想高斯白噪声下的 $l _ { 1 }$ -SVD(Ideal $\\cdot l _ { 1 }$ -SVD）可对邻近角度实现有效分辨。需要注意的是，Ideal $\\cdot l _ { 1 }$ -SVD 虽可正确估计出两邻近角度，但相对于LR-WLOSRSS 而言，Ideal $\\cdot l _ { \\mathrm { 1 } }$ -SVD在两邻近角度之间的谱峰估计精度较差，而LR-WLOSRSS则估计精度较高，且具有更低旁瓣，表明LR-WLOSRSS对邻近角度具有较高角度分辨力。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c6663e23e9d18ee10772e9de275bfd631e454a4e8e71a6e68be6f10f47e05b7b.jpg",
+        "img_caption": [
+            "图2邻近非相干信号空域谱对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验3考虑三个入射角度分别为 ${ \\cdot } 3 ^ { \\circ }$ 、 $1 0 ^ { \\circ }$ 和 $1 6 ^ { \\circ }$ 的非相干信号，信噪比 $\\mathrm { S N R } { = } 5 \\mathrm { d B }$ ，信源数 $\\scriptstyle { \\mathrm { K } = 1 }$ ，2，3时，MUSIC、LR-WLOSRSS算法的DOA估计有效性。图3（a）为信源数变化对MUSIC算法性能影响。从3（a）可以看出，当信源数K分别为1，2时，传统MUSIC算法不能有效分辨三个角度。只有当信源数等于待估计角度数量，即 $\\scriptstyle 1 = 3$ 时，MUSIC才能有效分辨三个角度。图3（b）为信源数变化对LR-WLOSRSS算法性能影响。从3（b）可以看出，当信源数K分别为1，2，3时，本文所提LR-WLOSRSS算法均能有效分辨三个角度，信源数的变化对本文所提LR-WLOSRSS算法几乎没有影响。从图3可以看出，传统子空间类DOA估计算法由于受制于信号或信号子空间数目，即信源数目的先验信息，导致子空间类算法的DOA估计性能对信源数的变化较为敏感；本文所提LR-WLOSRSS算法利用目标空域稀疏性，采用稀疏重构对待估计信号进行稀疏逼近，而无须已知信源先验信息。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/92ef9d6e5c87720f3a90de8a5ddea61e3025a18613257627dfc141f0b562bf60.jpg",
+        "img_caption": [
+            "图3信源数变化对MUSIC、LR-WLOSRSS算法的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验4考虑两个入射角度为 ${ \\cdot } 3 ^ { \\circ }$ 和 $5 ^ { \\circ }$ 的非相干信号，快拍数 $_ { \\mathrm { L } = 5 0 0 }$ ，信噪比 $\\mathrm { S N R } { = } [ - 8 { : } 2 { : } 1 2 ]$ ，进行200 次蒙特卡洛独立重复实验。由图4和表2可知，传统MUSIC算法在低信噪比条件下的DOA估计RMSE相对较高。MC-MUSIC算法采用矩阵补全理论重构出无噪声协方差，以消除非均匀噪声的影响，故而MC-MUSIC算法在低信噪比条件下DOA估计RMSE低于传统 MUSIC 算法。在低信噪比条件下，WL1算法和 $l _ { 1 }$ -SVD算法有一个相对较低的RMSE。此外，由图4和表2还可以看出，在给定仿真条件下，本文所提LR-WLOSRSS算法估计性能RMSE意义下明显优于WL1算法和 $l _ { 1 }$ -SVD算法，在低信噪比条件下，此优势尤为明显，表明所提LR-WLOSRSS 算法具有较好的DOA估计性能。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2cdb850a2c1511b72bdbaaa732cfae55a2cc2043aa28932c4092f29bb1a00084.jpg",
+        "img_caption": [
+            "图4DOA估计RMSE 随信噪比SNR的变化对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/193de43095423094a72af083e54ef2b9781e4c7e110775fb6070b9153319520a.jpg",
+        "table_caption": [
+            "表1 DOA 估计RMSE 随信噪比 SNR变化"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">算法</td><td colspan=\"7\">SNR/dB</td></tr><tr><td>-8</td><td>-6</td><td>-4</td><td></td><td>4</td><td>8</td><td>12</td></tr><tr><td>MUSIC</td><td>2.4098</td><td>2.3965</td><td>2.3360</td><td>1.0588</td><td>0.2125</td><td>0.1010</td><td>0.0650</td></tr><tr><td>MC-MUSIC</td><td>1.8698</td><td>1. 1065</td><td>0.8060</td><td>0.3009</td><td>0.1625</td><td>0.1007</td><td>0.0641</td></tr><tr><td>WL1</td><td>1. 4698</td><td>0.7495</td><td>0.4760</td><td>0.1509</td><td>0.0726</td><td>0.0625</td><td>0.0601</td></tr><tr><td>LR-WLOSRSS 0.9098</td><td></td><td>0.4695</td><td>0.2060</td><td>0.1085</td><td>0.0725</td><td>0.0624</td><td>0.0600</td></tr><tr><td>L1-SVD</td><td>1.1698</td><td>0.7265</td><td>0.4260</td><td>0.1709</td><td>0.0725</td><td>0.0625</td><td>0.0600</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验5考虑两个入射角度为 $\\cdot 3 ^ { \\circ }$ 和 $5 ^ { \\circ }$ 的非相干信号，信噪比 $\\mathrm { S N R = } 0 \\mathrm { d B }$ ，快拍数L=[100:1200]，进行 200 次蒙特卡洛独立重复实验。由图5和表2可知，随着快拍数的增加，本文所提LR-WLOSRSS 算法及MUSIC、MC-MUSIC、WL1 和 $l _ { 1 }$ -SVD算法的RMSE逐渐降低。然而，需要注意的是，所提LR-WLOSRSS算法RMSE 均低于MUSIC、MC-MUSIC、WL1和 $l _ { \\scriptscriptstyle 1 }$ -SVD 算法,表明所提LR-WLOSRSS算法在非均匀高斯噪声下具有更优的DOA参数估计性能。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bf48ce2ad4042bd66f4c47fa9aa95d41c21f8a7e49514438a167a9d12c409714.jpg",
+        "img_caption": [
+            "图5DOA估计RMSE 随快拍数的变化对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/4b6727229d388e237b4672d0d98198a28cf94b863560707595a84a5861153ad7.jpg",
+        "table_caption": [
+            "表2DOA估计RMSE 随快拍数变化"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">算法</td><td colspan=\"8\">快拍数</td></tr><tr><td>100</td><td>300</td><td>500</td><td>700</td><td>900</td><td></td><td>1100</td><td>1200</td></tr><tr><td>MUSIC</td><td>2.4398</td><td>2.1098</td><td></td><td>1.0588</td><td>0.7088</td><td>0.6059</td><td>0.5359</td><td>0.5259</td></tr><tr><td>MC-MUSIC</td><td>1.9698</td><td>0.8106</td><td></td><td>0.3509</td><td>0.2125</td><td>0.1401</td><td>0.1301</td><td>0.1141</td></tr><tr><td>WL1</td><td>1. 7698</td><td>0.6926</td><td></td><td>0.2509</td><td>0.1429</td><td>0.1193</td><td>0.1046</td><td>0.0991</td></tr><tr><td>LR-WLOSRSS 0.9698</td><td></td><td>0.4560</td><td></td><td>0.1645</td><td>0.1355</td><td>0.1150</td><td>0.0971</td><td>0.0871</td></tr><tr><td>L1-SVD</td><td>1.4698</td><td>0.5560</td><td></td><td>0.2409</td><td>0.1425</td><td>0.1175</td><td>0.1011</td><td>0.0911</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为提高非均匀噪声下DA估计算法的估计精度和分辨率，本文基于低秩矩阵恢复理论，提出了一种二阶统计量域下的加权 $l _ { 1 }$ 稀疏重构DOA估计算法。该算法基于低秩矩阵恢复理论，引入弹性正则化因子将接收信号协方差矩阵重构问题转换为可获得高效求解的SDP问题，而后在二阶统计量域下通过矩阵求和平均将稀疏多矢量重构问题转换为单矢量重构问题，最后采用加权 $l _ { 1 }$ 范数对稀疏单矢量进行重构以实现DOA 参数估计。仿真结果表明，与传统的MUSIC、MC-MUSIC、WL1和 $l _ { 1 }$ -SVD算法相比，所提算法在非均匀高斯噪声和低信噪比条件下，具有较好的DOA参数估计性能。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Van Trees,Harry L.Optimum array processing:part IV of detection, estimation and modulation theory [M].Hoboken: Wiley,2002.   \n[2] Schmidt R.Multiple emitter location and signal parameter estimation [J]. IEEE Trans on Antennas and Propagation,1986,34(3):276-280.   \n[3]Liao B,Huang L,Guo C,et al. New approaches to direction-of-arrival estimation with sensor arrays in unknown nonuniform noise [J].IEEE Sensors Journal,2016,16 (24): 8982-8989.   \n[4] Malioutov D,Cetin M,Willsky A S.A sparse signal reconstruction perspective for source localization with sensor arrays [J]. IEEE Trans on Signal Processing,2005,53(8): 3010-3022.   \n[5]Pesavento M,Gershman A B.Maximum-likelihood direction-of-arrival estimation in the presence of unknown nonuniform noise [J].IEEE Trans on Signal Processing,2001,49(7):1310-1324.   \n[6]Liao B,Guo C,Huang L,et al.Matrix completion based direction-of-arrival estimation in nonuniform noise [C]//Proc of IEEE International Conference on Digital Signal Processing. 2016: 66-69.   \n[7] Candes E J, Recht B. Exact matrix completion via convex optimization [J]. Foundations of Computational Mathematics,2009,9 (6): 717.   \n[8]Candes E J,Plan Y. Matrix completion with noise [J].Proceedings of the IEEE,2010,98 (6): 925-936.   \n[9] Candes E J, Wakin MB,Boyd S P. Enhancing sparsity by reweighted L1 minimization [J]. Journal ofFourier Analysis and Applications,20o8,14 (5): 877-905.   \n[10] Cai JF,Candes E J,Shen Z.A singular value thresholding algorithm for matrix completion [J]. SIAMJournal on Optimization,2010,20 (4):1956- 1982.   \n[11] Horn R A,Johnson C R.Matix analysis [M].Cambridge:Cambridge university press, 2012.   \n[12] Grant M, Boyd S,Ye Y. CVX: Matlab software for disciplined convex programming,version 2.1[EB/OL].[2017-03-01]. http://cvxr.com/cvx.   \n[13] Tian Y, Sun X, Zhao S. DOA and power estimation using a sparse representation of second-order statistics vector and LO-norm approximation [J].Signal Processing,2014,105:98-108.   \n[14] Lobo MS,Vandenberghe L,Boyd S,etal.Application of second-order cone programming [J].Linear Algebra and its Applications,1998,284(1-3):193- 228.   \n[15] Liao B,Chan S C, Huang L,et al. Iterative methods for subspace and DOA estimation in nonuniform Noise [J].IEEE Trans on Signal Processing,2016, 64 (12): 3008-3020. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

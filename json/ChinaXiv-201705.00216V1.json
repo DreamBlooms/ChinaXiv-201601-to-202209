@@ -1,0 +1,175 @@
+[
+    {
+        "type": "text",
+        "text": "Multi-responsive and tough hydrogels based on triblock copolymer micelles as multi-functional macro-crosslinkerst ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yuanna Sun, Shuang Liu,Gaolai Du, Guorong Gao and Jun Fu\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Multi-stimuli responsive hydrogels are synthesized using self-assembled nanomicelles of Pluronic F127 diacrylate triblock copolymer as noncovalent macro-crosslinkers to in situ copolymerize with acrylamideand methyl chloride quaternized $\\pmb { N } , \\pmb { N }$ -dimethylaminoethylacrylatemonomers,generating positively charged hydrogels.These hydrogelsshowed high strength, toughness,and outstanding fatigue resistance,and are reversibly responsive to changes in pH and ionic strength. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Stimulus-responsive hydrogels have been attracting great research interest due to their potential in biomedical applications,including drug delivery,1 microlenses,² sensors, and artificial organs.4 Strategies to develop stimulus-responsive hydrogels include ionic cross-linking,’ supramolecular interaction,,7 reversible chemical conversion,8,9 and host-guest interaction.1° Accordingly, polyelectrolyte, reversible thiol-disulfide exchange reaction,9 pH sensitive thiol-ene click chemistry,11 and acidic hydrolysis of Schiff base bonds,7,12 have been used to create responsive hydrogels.However，most responsive hydrogels are usually brittle and weak,and some are unstable,which seriously limits their applications.It remains a great challenge to develop responsive hydrogels with high strength and toughness.13 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Manymechanisms have beendemonstrated to be successful in fabricating strong and tough hydrogels,14 including double network hydrogels,15 nanocomposite hydrogels,13 and macromolecular microspheres composite hydrogels.16 By combining these mechanisms with responsive moieties,tough and responsive hydrogels have been reported.Crosslinking thermoresponsive N-isopropylacrylamide (NIPAM) with functionalized graphene oxide (GO),together with pH-responsive sodium alginate,has yielded multi-responsive hydrogels with excellent mechanical properties.17 Interpenetrating hydrogels based on a tough elastomeric network of polyurethane and a second hydrophilic poly(acrylic acid) network showed extensibility up to $3 5 0 \\%$ and pH sensitivity.18 In very rare cases,nanocomposite hydrogels using synthetic clay as physical crosslinkers for the in situ polymerization of sodium acrylate and acrylamide monomers showed excellent strength,stretchability, and pH responsiveness.19 These hydrogels,however, may lose their responsiveness and/or strength due to the leaking of poly electrolytes17 or the irreversible fracture18 of the network upon loading.Alow ionic strength or ionic monomer concentration is required to avoid the aggregation and gelation of the charge carrying clay nanosheets.2° These problems limit the manipulation of the hydrogel properties.In order to resolve these problems,it is critical to developa versatile method that is insensitive to the ionic strength,while incorporating effective toughening mechanisms for the synthesis of hydrogels. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Block copolymer micelles,with highly functionalized coronae, have been reported to crosslink PAAm chains into mechanoresponsive hydrogels with high strength and a relativelylow fracture strain $( \\sim 5 0 0 \\% )$ .21 Previously,we have successfully demonstrated that Pluronic F127 diacrylate (F127DA) micelles served as soft macro-crosslinkers to synthesize neutral thermo-responsive andhighly stretchable hydrogels probably because there are only two vinyl groups on the F127 chain ends.22 This one-pot synthesis is orthogonal to the ionic strength or $\\mathsf { p H }$ value of the solutions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this Communication,we further advance this strategy to the synthesis of charged tough hydrogels by copolymerizing neutral and ionic monomerswith the multi-functional F127DA micelles as macro-crosslinkers.Herein,the nanomicelle crosslinkers have been demonstrated to be critical to the strength and toughness of the hydrogels.2² Moreover, the charged monomers are proposed to endow responsiveness to pH and changes in ion strength as the electrostatic interactions and/or osmotic pressure are altered. The effect of the ionic monomer content on the strength,toughness and responsiveness has been systematically investigated and discussed. The obtained charged hydrogels exhibit outstanding stretchability,strength,fatigue resistance,and responsiveness to external stimuli, including pH and ionic strength changes, which is a breakthrough in the current concepts of multiresponsive and tough hydrogels. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e767cab2461a3b46898bab93ec4b9da9e2b981309a1ed867a2ab87dd22150a5.jpg",
+        "img_caption": [
+            "Fig.1 (a) Structures of F127DA,DMAEA-Q,AAm,and $\\mathsf { Q M }$ hydrogel. (b) Schematicillustration of the synthesis of the QM-NM hydrogels with the micelles asmacro-roslinkers.(c)Tehydrogelscouldbeknotedndsynthesizedinfre-shapedmoldswithaccuratereplicationoftedetail. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Hydrogels were synthesized by in situ copolymerization of acrylamide (AAm) and methyl chloride quaternized $N , N \\mathrm { \\Omega }$ dimethylamino ethylacrylate (DMAEA-Q) using F127DA micelles as macrocrosslinkers (Fig.1).DMAEA-Qis a cationic monomer,which has a quaternary ammonium salt (QAS) group (Fig.1). The Pluronic F127 triblock copolymer was acrylated on both the ends using acryloyl chloride to yield F127DA,23 as confirmed by $^ 1 \\mathrm { H }$ NMR (Fig. S1, ESI†). F127DA micelles of about $3 0 0 \\ \\mathrm { n m }$ in diameter (according to the dynamic light scattering (DLS) data of $6 \\times 1 0 ^ { - 3 } \\mathrm { m o l } \\mathrm { L } ^ { - 1 }$ aqueous solution, Table S1,ESIt) were used to copolymerize with AAm and DMAEA-Q using potassium persulfate (KPS) as the initiator.FTIR dataprovided direct evidence for the successful copolymerization of the monomers (Figu. S2, $\\mathrm { E S I \\dag }$ ). In order to investigate the effect of the positive charge content on the mechanical and responsive properties of these hydrogels,a series of synthesis formulations wereused (Table1).Herein,Q stands forDMAEA-Q,andMfor AAm.QxMy stands fora nanomicelle hydrogel with a DMAEA-Q/ AAmratio of $x / y$ Control hydrogels were also synthesized,inwhich M-NM denotes the nanomicelle-crosslinked PAAm hydrogel,and PQM denotes the DMAEA-Q and AAm copolymer hydrogel with MBAA as the cross-linker.For the QxMy and PQM hydrogels, the concentrations of the monomers $\\left( C _ { \\mathrm { Q } + \\mathrm { M } } \\right)$ ，F127DA $\\left( C _ { \\mathrm { F 1 2 7 D A } } \\right)$ ，and MBAA (if applicable) were $5 ~ \\mathrm { m o l ~ L } ^ { - 1 }$ ， $6 \\times { 1 0 } ^ { - 3 }$ mol ${ \\bf L } ^ { - 1 }$ ,and $6 \\times$ $1 0 ^ { - 3 } \\ \\mathrm { m o l } \\ \\mathrm { L } ^ { - 1 }$ ，respectively，unless otherwise specified. These cationic hydrogels crosslinked by F127DA micelles are transparent, soft,and tough (Fig.1c). This one-pot chemistry for hydrogel synthesis enables precise replication of the details of moulds. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Compressive tests of the QxMy gels showed high strength and toughness at a crosshead speed of $0 . 1 7 \\%$ per s. The weight changes of the hydrogels before and after compression were negligible.No waterloss during compression was observed.The hydrogels did not fracture at $9 8 \\%$ compressive strain and sustained a compressive stress up to $4 4 ~ \\mathrm { { M P a } }$ (Fig.2a).As the Q content $\\left( C _ { \\mathrm { Q } } \\right)$ was increased, the compressive stress at $9 8 \\%$ strain $\\left( \\varepsilon _ { \\mathrm { c } , 0 . 9 8 } \\right)$ decreased from $4 4 \\mathrm { \\ : M P a }$ for Q1M11 to $2 8 \\mathrm { \\ : M P a }$ for Q1M5, the compressive Young's modulus was decreased from about $1 2 0 ~ \\mathrm { k P a }$ to $9 0  { \\mathrm { \\ k P a } }$ (Fig. 2b),and the toughness,as defined by the area under the compressive stressstrain curve, was decreased from about $1 . 3 7 \\mathrm { M J } \\mathrm { m } ^ { - 3 }$ to $0 . 8 4 \\mathrm { M J } \\mathrm { m } ^ { - 3 }$ (Fig. S3a,ESIt).These results indicate that the presence of a cationic monomer results in a reduction in the strength and toughness of hydrogels,probably due to the decreased chain entanglements as driven by the increased osmotic pressure in the polymer network. This hypothesis was supported by the dependence of the equilibrium swelling ratio (ESR) of QM hydrogels on $C _ { \\mathrm { Q } } .$ With the increasing $C _ { \\mathrm { Q } } ,$ the ESR values were increased (Fig. S4, ESI†). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The compression tested QxMy hydrogels could immediately recover their original shape after unloading without leaving any residual deformation. Consecutive cyclic compression tests at $9 0 \\%$ strain resulted in overlapping stress-strain curves (Fig. 2c and Fig. S3b,ESIt). The hysteresis loop for each cycle indicates energy dissipation during compression. The overlapping loops suggest that the energy dissipation was immediately recovered afterunloading. These results indicate the excellent fatigue resistance of these QxMy hydrogels against cyclic compressive loadings.This is in sharp contrast to the MBAA-crosslinked DMAEA-Q/AAm copolymer (PQM) hydrogels,which were ruptured rapidlyaftera fewcyclic tests. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/1122db4bdee69f5c9cd0031b1610035554ec46ec9c042039ef9caa4070616cc5.jpg",
+        "table_caption": [
+            "Table1Formulations for the synthesis of F127DA micelle-crosslinked hydrogels $( \\ Q \\times M y )$ through in situ copolymerization of AAm and DMAEA-G Nanomicelle-crosslinked PAAm hydrogel (M-NM)and MBAA-crosslinked DMAEA-Q/AAm copolymer $( P Q M )$ hydrogels were synthesized as controls "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Hydrogels</td><td>DMAEA-Q (g)</td><td>AAm (g)</td><td>DMAEA-Q : AAm (mol : mol)</td><td>F127DA (mol L-1)</td><td>MBAA (mol L-1)</td><td>Water content (%)</td></tr><tr><td>Q1M5</td><td>1.614</td><td>2.962</td><td>1:5</td><td>6×10-3</td><td>0</td><td>66.8</td></tr><tr><td>Q1M8</td><td>1.076</td><td>3.159</td><td>1:8</td><td>6×10-3</td><td>0</td><td>68.9</td></tr><tr><td>Q1M11</td><td>0.807</td><td>3.258</td><td>1:11</td><td>6×10-3</td><td>0</td><td>70.1</td></tr><tr><td>M-NM</td><td>0</td><td>3.556</td><td>0:5</td><td>6×10-3</td><td>0</td><td>73.7</td></tr><tr><td>PQM</td><td>1.076</td><td>3.159</td><td>1:8</td><td>0</td><td>6×10-3</td><td>68.9</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b77c6c6a63a6516987428a0f8ec642983afe1b9c6eee450ff5d93f05b0e060a4.jpg",
+        "img_caption": [
+            "Fig.2(a) Compressive stress-strain curves of the nanomicell hydrogels with different DMAEA- $a$ concentrations $( C _ { \\mathsf { Q } } )$ . (b) The dependence of $\\sigma _ { \\tt C , 0 . 9 8 }$ and Young's modulus of the $\\ Q \\times M y$ hydrogels.(c) Cyclic compressive stress-stain curves at $90 \\%$ strain for the Q1M8 hydrogel. (d) Tensile stress-strain curves of the nanomicelle hydrogels with different $C _ { \\ Q }$ and the PQM hydrogel (inset). (e) The dependence of tensile stress and fracture toughness of hydrogels with different $C _ { \\ Q }$ ：(f) Cyclic tensile stress-stain of Q1M8 at $100 \\%$ strain. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, these hydrogels exhibited very high stretchability upon uniaxial tensile tests.Cylindrical hydrogel bars $\\langle \\phi = 5 \\mathrm { m m }$ and length $1 0 ~ \\mathrm { m m }$ )were testedatacrosshead speed of $1 3 . 6 \\%$ per s.The Q1M11 gel showed a tensile fracture strain of about $1 9 0 0 \\%$ and a strength of $2 4 0 \\mathrm { k P a }$ (Fig.2d),in sharp contrast to the $2 3 9 \\%$ fracture strain and $7 6 \\mathrm { \\ k P a }$ fracture strength for the PQM gel. With the increasing $C _ { \\mathrm { Q } } ,$ the fracture strain was gradually decreased toabout $1 2 0 0 \\%$ ,thefracture stresswasdecreased to $7 4 \\mathrm { \\ k P a }$ ,and the fracture energy was decreased to $0 . 5 8 \\mathrm { M J } \\mathrm { m } ^ { - 3 }$ from $2 . 2 9 \\mathrm { M J } \\mathrm { m } ^ { - 3 }$ for Q1M11 (Fig.2e). Cyclic tensile tests were conducted with a maximum of $1 0 0 0 \\%$ strain to explore the energy dissipation mechanism of these QxMy hydrogels (Fig. 2f and Fig. S3b and c, $\\mathrm { E S I \\dag }$ ).The first loading-unloading cycle exhibited a hysteresis,but subsequent loading-unloading curves overlapped and showed negligible energy dissipation.Theseresultsindicate thatthe crosslinked structuresare irreversibly damaged upon tensile tests. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We demonstrate the multi-responsiveness of these cationic nanomicelle hydrogels with very high strength,toughness,and fatigue resistance.First, the swelling rate and equilibrium swelling ratio (ESR) were dependent on pH.At a fixed ionic strength $( I = 0 . 1 \\ \\mathbf { M } )$ and temperature $( 3 0 \\ ^ { \\circ } \\mathbf { C } )$ ,the swelling rate and ESR values increased with increasing Q content (Fig. S4,ESIt).With a high $C _ { \\mathrm { Q } } ,$ the concentration of mobile counterions and electrostatic repulsion in the gels raised the osmotic pressure in hydrogels,which drives more water uptake in the charged network.19 Asa result, the ESR values were increased. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.3a further compares the ESR values of the Q1M5,Q1M8,and Q1M11 hydrogels at pH3,5,7, 9,and 11. The ESR of the QxMy gels decreased with increasing pH. At $\\mathrm { p H } ~ 7$ ，the ESR of Q1M8, for example,wasabout 12.It was increased to about 18 as the pH decreased to 3,and decreased to about 4as the pH increased to 11.It is interesting that these hydrogels behaved differently at low pH $\\left( \\leq 7 \\right)$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/862f6c70095c94d07f0f3b9e9fa2b3fb16ee074d61e578a6e323cb2bc2535c1c.jpg",
+        "img_caption": [
+            "Fig.3(a) Equilibrium swelling ratio at different pH.(b) Oscillatory swellingshrinking $( \\mathsf { p H } 7  1 )$ 1) behavior of the Q1M8 hydrogel. (c) The pH sensitivity of a $Q \\times M y$ hydrogel. (d) Schematic illustration of reversible swelling for $Q \\times M y$ hydrogels at pH $( 7  1 1 )$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "andhigh $\\mathrm { p H } \\left( > 7 \\right)$ ,asshowninFig.3a.AtlowpH,the ESR values were the highest forQ1M5,while that forQ1M11was the lowest.The ESR value of each hydrogel decreased with increasing pH. Increases in pH to 9 and 11 further decreased the ESR of these hydrogels (Fig. 3b and c).However,at each $\\mathsf { p H }$ ,the ESR values for Q1M5 became the lowest,while that forQ1M11was thehighest,whichisdetermined by thehydrophilicity of chains.AAm is more hydrophilic than DMAEA-Q. Athigh pH,suchas 9 or11,itis likely that the electrostatic interaction is shielded by the hydroxyl ion (Fig. 3d). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "These tough hydrogels showed cyclic responses to oscillatorypH changes at a constant ionic strength $\\left( I = 0 . 1 { \\bf \\delta M } \\right)$ .The hydrogelsprepared at $\\mathrm { p H } ~ 7$ shrank to an ESR of 4 at $\\mathrm { p H } \\ 1 1$ Subsequent transfer to neutral buffer solution led to re-swelling to ESR of 11.5.Reversible cyclic responses were also found for hydrogels exposed to other pH values (Fig. 3b).These results indicate that these hydrogels and the cationic moieties are stable under acidic and alkaline conditions.Such repeated swelling and shrinking does not cause any damage to the internal network of these strong and tough hydrogels. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/594fe069ed4b42f5566e1f0845f42e0aaa36d5292489ef80db75fc2ba1fe62b8.jpg",
+        "img_caption": [
+            "Fig.4(a) The equilibrium swelling of Q1M8 hydrogels with different ionic strengths.(b) Oscillatory swelling-shrinking of the Q1M8 hydrogel upon changes in ionic strength between 0.05 and O.20.(c) Photographs of Q1M8 hydrogels experiencing reversible swelling-shrinking upon changes in ionic strength between O.10 and 0.05. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Finally,we demonstrated the responsiveness of these cationic hydrogels to ionic strength. Solutions with pH7and different ionic strengths were used as buffer solutions.Equilibrium swelling was established due to the balance between the chain stretching and the osmotic pressure that drives water uptake to swell the charged polymer network.In buffer solutions with a low ionic strength $\\left( I = 0 . 0 5 \\mathrm { ~ M } \\right)$ ,wateruptake was favored,leading to a high ESR value (Fig.4a).In contrast, the ESR values were lower with higher ionic strength.As the Q1M8 hydrogel, for example,was shuttled between buffer solutions with $I = 0 . 0 5 \\textbf { M }$ and $0 . 2 0 \\textbf { M }$ ，the ESR values gradually oscillated between 15 for $I = 0 . 0 5$ and 10 for $I = 0 . 2 0$ (Fig.4b and c). These results demonstrate reversible responses to ionic strength of these cationic hydrogels.The volume changes are fullyrecoverable for many cycles,which suggest that the micellecrosslinked network is not damaged during the abrupt changes in water content and stretching or relaxation of the polymer chains. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "These multi-responsive hydrogels using F127DA nanomicelles as soft macro-cross-linkers possess very high strength,toughness, and fatigue resistance,which have not been reported in other multi-responsive hydrogels. This merit has been pursued for a long time for the successful use of stimulus-responsive hydrogels as biomaterials,artificial muscles and actuators.In contrast,conventional responsive hydrogels are based on chemical crosslinks, which usually show poor strength and toughness due to the intrinsic inhomogeneity of the crosslinked network.24 Herein, chemical crosslinkers were replaced with functionalized triblock copolymer micelles.It is critical that the self-assembled micelles are stable and homogeneously dispersed in aqueous solution.The micelle solution is stable with the presence of charged monomers, although the ionic strength of the solution has been changed.It is reasonable to believe that these nanomicelle crosslinkers arewell distributed in the in situ polymerized network.Moreover,the soft and physical nature of the nanomicelles may enable energy dissipation,particularlyundercompressive tests,without damaging the network.Asa result, the cationic hydrogels showed high resistance to cyclic loadings.Due to the excellent capability to dissipate energy,our charged nanomicelle hydrogels show excellent structural integrity during swelling and deswelling at different pH and ionic strength (Fig.3c and 4c).One issue remains that these nanomicelle-crosslinked hydrogels are fractured under high stretching,probably due to the irreversible rupture of the micelles. It remainsachallenge to further improve the stability of the noncovalent macro-crosslinkers upon tensile loading. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In summary,we have demonstrated the synthesis of novel multiresponsive hydrogels with high strength,toughness,and fatigue resistance by in situ copolymerization of acrylamide (AAm) and DMAEA-Q with the F127DA nanomicelles as soft macro-crosslinkers.These F127DA micelle crosslinks allow for energy dissipation upon compression. Moreover，the QxMy gels show outstanding repetitive responsiveness to external stimuli such as pH and ionic strength,and maintain the structural integrity. Such strong, tough, and stimulus-responsive hydrogels may find applications in drug delivery,actuators,or artificial muscles. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the Hundred Talents Program of the Chinese Academy of Sciences (J.F.)，and the Zhejiang Natural Science Foundation of China (LR13Bo40001). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Notes and references ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1 T.Shirakura, T. J.Kelson,A.Ray,A.E.Malyarenko and R.Kopelman, ACSMacro Lett.,2014,3,602.   \n2 H. Gao,J.K. Hyun,M.H. Lee, J.-C.Yang,L.J. Lauhon and T.W. Odom,Nano Lett.,2010,10,4111.   \n3 E. Palleau,D. Morales,M.D. Dickey and O.D. Velev, Nat. Commun., 2013,4,2257.   \n4 R. Nakaoka,Y.Hirano,D.Mooney,T. Tsuchiya and A. Matsuoka, J.Artif. Organs,2013,16,284. 5 Y.-Y.Liu,X.-D. Fan,B.-R.Wei,Q.-F. Si,W.-X.Chen and L.Sun, Int. J.Pharm.,2006,308,205. 6A.Sahu,W.I.Choi and G.Tae,Chem. Commun.,2012,48,5820.   \n7B.Balakrishnan,N. Joshi and R.Banerjee,J. Mater. Chem.B,2013, 1, 5564.   \n8 P.A.Fernandes and M.J. Ramos,Chem.- Eur.J.,2004,10,257.   \n9 D.-C. Wu, X. J. Loh, Y.-L. Wu, C. L. Lay and Y. Liu,J. Am. Chem. Soc., 2010,132,15140.   \n10 C.Ma,T.Li, Q. Zhao,X. Yang,J. Wu, Y. Luo and T. Xie,Adv. Mater., 2014,26,5665.   \n11 H.Du, G. Zha,L. Gao,H.Wang, X.Li, Z. Shen and W. Zhu, Polym. Chem.,2014,5,4002.   \n12 Y.Zhang,L.Tao,S.Li and Y.Wei,Biomacromolecules,2011,12,2894.   \n13K.Haraguchi,K.Murata and T.Takehisa,Macromolecules,2011,45,385.   \n14 X. Zhao,Soft Matter,2014,10,672.   \n15 J.P.Gong,Y. Katsuyama,T.Kurokawa and Y. Osada,Adv. Mater., 2003,15,1155.   \n16 T.Huang,H.G.Xu,K.X.Jiao,L.P.Zhu,H.R.Brown and H.L.Wang,Adv. Mater.,2007,19,1622.   \n17Z.Li,J.Shen,H.Ma,X.Lu,M.Shi,N.Li and M.Ye,Soft Matter,2012, 8, 3139.   \n18S.Naficy,G.M. Spinks and G.G.Wallace,ACS Appl.Mater.Interfaces,2014,6,4109.   \n19L.Xiong,M. Zhu,X.Hu,X.Liu and Z. Tong,Macromolecules,2009, 42,3811.   \n20 F.Schosseler,S.Kaloun,M.Skouri and J.P.Munch,Phys.Rev.E: Stat.,Nonlinear,Soft Matter Phys.,2006,73,021401.   \n21 L. Xiao,J. Zhu, J.D. Londono,D.J. Pochan and X. Jia, Soft Matter, 2012,8,10233.   \n22 Y.-N. Sun, G.-R. Gao,G.-L. Du, Y.-J. Cheng and J. Fu,ACS Macro Lett., 2014,3,496.   \n23C.-J.Wu,A.K.Gaharwar,B.K.Chan and G.Schmidt,Macromolecules, 2011,44,8215.   \n24 J.H. Jeong,J.J. Schmidt, C.Cha andH. Kong, Soft Matter,201o,6,3930. ",
+        "page_idx": 3
+    }
+]

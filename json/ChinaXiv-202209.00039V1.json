@@ -1,0 +1,364 @@
+[
+    {
+        "type": "text",
+        "text": "衰弱在社区老年人淡漠与跌倒风险的中介效应",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "10.12114/j.issn.1007-9572.2022.0620 陶璐1，曾凯²，聂作婷1，宗前兴1，陈龙1，吴延1，杨如美1\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：国家自然科学基金资助项目（72004098）；2020 年度江苏高校哲学社会科学研究一般项目（2020SJA0302）；南京医科大学研究生优质教育资源建设项目（2021F005）；江苏高校优势学科建设工程项目“护理学”（苏政办发（2018）87号)；“十四五\"高等教育科学研究规划课题—网络社交媒体使用中的情绪感染效应对医学生抑郁情绪的影响及干预（苏高教会（2021）16号YB009)；南京医科大学内涵建专项护理学优势学科资助。1.211166江苏省南京市，南京医科大学护理学院  \n2.510515广东省广州市，南方医科大学护理学院  \n\\*通信作者：杨如美，副教授，硕士生导师；Email: rumeiyang@njmu.edu.cn",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】背景淡漠老年人跌倒风险高且易重复跌倒，改善淡漠虽有助于减少老年人的跌倒风险，但淡漠的干预效果不佳，而衰弱可为减少淡漠老年人跌倒风险提供新方法。目的探讨衰弱在淡漠与跌倒风险间的中介效应，为干预淡漠老年人跌倒提供新思路。方法采用便利抽样法，采用一般资料调查表、衰弱评估量表（Fried FrailtyPhenotype,FFP）、淡漠量表（Geriatric Depression Scale,GDS-3）、跌倒风险量表（Stopping Elderly Accidents,Deaths&Injuries Tool Kit,STEADI）对 212名社区老年人进行问卷调查。结果淡漠对跌倒风险的正向影响作用显著 $\\mathrm { \\mathbf { B } } =$ 0.328，t= 5.095， $P { < } ~ 0 . 0 5 0 )$ ，淡漠对衰弱的正向影响作用显著（ $\\mathrm { B } = 0 . 2 3 6$ ，t= 3.860， $P { < } ~ 0 . 0 5 0 \\$ )，衰弱对跌倒风险的正向影响作用显著 （ $\\mathrm { B } = 0 . 3 0 8$ ， $\\mathrm { t } = 4 . 1 2 5$ ， $P { < } ~ 0 . 0 5 0 \\dot { . }$ ，衰弱在淡漠应对跌倒风险的中介效应为0.22，占总效应的$2 2 . 4 5 \\%$ 。结论衰弱是社区老年人淡漠与跌倒风险之间的中介变量，改善老年人衰弱是减少淡漠老年人跌倒风险的重要途径。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】淡漠；衰弱；跌倒风险",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【中图分类号】",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The mediating effect of frailty on the apathy and fall risk of the elderly in the community TAO Lul, ZENG Kai², NIE Zuotingl, ZONG Qianxingl, CHEN Long,WU Yan, Yang Rumeil 错误!未定义书签。Nanjing Medical University School of Nursing,Nanjing 21l166,China. 2Southern Medical University School of Nursing, Guangzhou 510515, China \\*Corresponding author: Yang rumei, Associate professor Master supervisor: Email: rumeiyang@njmu.edu.cn 【Abstract】BackgroundOld adults with apathy have ahigh risk offaling and are easy to fallrepeatedly. Although improvngapathycan helpreduce therisoffallng intheelderly,it'sdificult tofindanefective interventionon apathy.But,frailty may provide a new method to reduce the risk of fals in Oldadults with apathy.ObjectiveTo investigate the mediating effect offrailty between apathyandrisk offaling.MethodsConvenience sampling method was adopted.Fried Frailty Phenotype (FFP)，Geriatric Depression Scale,(GDS-3),the Fallng Risk Scale (STEADI),and demographic information were used to investigate theresearch question with 212 community-dweling older adults.Results There was a positive correlation between apathy and falling risk scores ( $\\left. P < 0 . 0 5 0 \\right)$ . The mediating effect of frailty on the relationship between apathy and risk of falling was O.22, accounting for $2 2 . 4 5 \\%$ of the total effect. Conclusion Frailty is a mediating variable between apathyand risk offaling in community old adults.Improving frailty is an important way to reduce risk of falling in the elderly with apathy. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【Key words】 Apathy; Frailty; Fall risk前言",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "跌倒是老年人受伤和致死的主要原因[]，探寻新的跌倒风险影响因素对预防跌倒十分重要。近年来，研究发现淡漠与跌倒密切相关[2]。淡漠个体动机障碍，影响行为（主动性)，认知（兴趣）和情感方面，个体主要表现为活动减少、兴趣降低和情绪反应生硬等[3]；长此以往淡漠将导致个体平衡功能受损而发生跌倒[4]。改善老年人淡漠对预防跌倒非常重要。然而淡漠症状不典型且干预效果不佳[5]，应寻找合适的中介变量协助淡漠老年人减少跌倒风险。衰弱可导致老年人跌倒风险增加[6]；同时，衰弱可能是淡漠个体的重要不良结局[7]。这提示，衰弱可能是淡漠与跌倒风险之间的中介因素，成为淡漠干预跌倒风险的切入点。故本研究旨在通过对社区老年人进行横断面调查，分析衰弱在淡漠与跌倒风险之间的中介作用，为改善淡漠老年人跌倒提供新方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1对象与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究对象",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1.1 纳排标准",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2021年11月-2022年3月便利选取南京市和连云港市的社区老年人共 212例。其中南京社区128例，连云港社区84例。老年人纳入标准： $\\textcircled{1}$ 年龄 $\\scriptstyle \\geq 6 0$ 岁； $\\textcircled{2}$ 知情同意，自愿参加本研究； $\\textcircled{3}$ 能够独立或通过研究者协助完成问卷调查。排除标准： $\\textcircled{1}$ 昏迷或处于疾病终末期者； $\\textcircled{2}$ 伴有明显意识或精神障碍； $\\textcircled{3}$ 存在严重语言、听力障碍，不能配合完成问卷。本研究获得南京医科大学伦理委员会同意（南医大伦审[2022]761号)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1.2样本量估算 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "根据以往研究经验及多因素分析法对样本量的要求，样本量应为变量数目的 $5 { \\sim } 1 0$ 倍[8]。本研究变量共11个，",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "其中一般资料调查表8项，淡漠量表1项，衰弱量表1项，跌倒风险量表1项，故所需样本量为55\\~110例，考虑到人群的不应答率约为 $10 \\% { \\sim } 2 0 \\%$ ，因此总样本量为61\\~121例。本研究共发放问卷 212份，回收有效问卷 212 份，有效率为 $100 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1一般资料调查表",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究者在阅读文献的基础上[9]，结合受试者的实际情况，自行设计一般人口学资料调查表，包括性别、年龄、文化程度、婚姻状况、月收入、居住环境、子女数目、疼痛共8个条目。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 衰弱评估 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "衰弱评估量表（Fried Frailty Phenotype,FFP）[由学者Fried于2001年提出，是评估衰弱常用的量表，其内容契合衰弱临床表现，包括体重降低、握力下降、自我感觉的精疲力竭、步速减慢和低体力活动水平5个条目。每个条目分值1分，得分为3或3以上者为衰弱，得分为1或2者为衰弱前期，得分为0者视为健康状态。2017年我国衰弱指南发布中文版FFP条目和评分标准[10]，可作为中国老年人衰弱筛查工具。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 跌倒评估 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究使用汉化的 STEADI跌倒风险评估表以评估个体跌倒风险情况。该量表源于 2015 年美国疾病预防控制中心制定的工具包（STEADI)，STEADI工具包主要包括跌倒相关资源和评估工具两大部分[I]。学者李亚玲[12]对其第二部分跌倒自我评估工具进行汉化。量表内容包括跌倒史、助行器使用、行走不稳定感、扶家具在家中行走担心跌倒、椅子上站起、大小便控制、脚部异常、药物使用、药物副作用和情绪共12 个条目。每个条目选项均为二分类，总分0\\~14分，得分≥4分提示有跌倒风险，得分越高，跌倒风险越大。该量表在我国社区老年人中的Cronbach's $\\mathfrak { a }$ 系数为0.608，重测信度r值为0.998，效度较好，可用于社区老年人跌倒风险评估[12]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.4 淡漠评估 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究使用GDS-3（Geriatric Depression Scale）测量淡漠，GDS-3 包括：放弃爱好、做不熟悉的事情和精力充沛 3个问题，选项均为是或否，每个条目分值1分，个体得分2分及以上表明存在淡漠[13]。在国外，GDS-3 被广泛用于测量社区老年人淡漠[14]；在国内周滢在社区老年人中验证GDS-3，结果显示其具有较高的灵敏度和特异度，可作为大规模流行病学调查或社区老年人淡漠的筛查工具[15]。故本研究使用GDS-3测量社区老年人淡漠。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3资料收集过程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "调查员首先向调查对象介绍本研究的目的及意义，获得调查对象同意后现场发放问卷，问卷填写过程中调查员全程在场，并回答调查对象对题目或选项的疑问。所有问卷当场回收，对于有疑问的选项与调查对象反复确认，以提高问卷的完成质量。发放问卷212份，收回有效问卷212份，有效回收率为 $100 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4统计学处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据分析使用 SPSS 26.0及Process 3.5软件。正态分布的计量资料采用均数及标准差进行统计描述，计数资料以频数及百分比进行统计描述。采用卡方检验比较一般资料中各组间跌倒风险的差异。采用 Pearson相关分析比较衰弱、淡漠、跌倒风险的相关性。采用 Hayes 编制的 SPSS 宏程序 Process 的模型4分析衰弱、淡漠和跌倒风险之问的中介效应。数据存在缺失值，淡漠缺失3位，跌倒风险缺失6位，衰弱缺失4位，中介模型样本量为192。双侧检验水准 $\\mathtt { \\Gamma } \\mathtt { q } = 0 . 0 5$ ， $P { < } 0 . 0 5$ 为差异有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1一般资料特征",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究共纳入212名老年人，平均年龄为 $7 1 . 1 4 \\pm 6 . 8 5$ 岁，其中无跌倒风险男性65（ $44 . 5 \\%$ ）例，跌倒风险男性16 ( $2 6 . 7 \\%$ ）例；无跌倒风险女性81（ $5 5 . 5 \\%$ ）例，跌倒风险女性44（ $7 3 . 3 \\%$ ）例，其他一般资料见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2社区老年人跌倒风险、GDS-3、Fried得分",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "跌倒风险得分 $2 . 4 9 { \\scriptstyle \\pm 2 . 5 7 }$ ，GDS-3 得分 $1 . 5 1 { \\scriptstyle \\pm 0 . 9 0 }$ ，衰弱得分 $0 . 9 0 { \\scriptstyle \\pm 1 . 1 8 }$ 。统计结果显示性别、年龄、文化程度婚姻状况、月收入、居住环境、子女数目、疼痛、淡漠和衰弱与跌倒风险有关（ $P { < } 0 . 0 5 0 )$ 。详见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/346eed9e5f1c3633f28d185beadbda9c0430ade6439a5b3f8f510309d906b51b.jpg",
+        "table_caption": [
+            "表1跌倒风险基本资料单因素分析（ $_ { 1 } = 2 1 2$ ）",
+            "Table1Monofactor analysis of fall risk basic data ( $\\scriptstyle \\cdot \\ N = 2 1 2$ ） "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>无跌倒风险 n=146</td><td>跌倒风险 n=60</td><td>P</td></tr><tr><td>性别（n(%)）</td><td></td><td></td><td>0.017*</td></tr><tr><td>男</td><td>65 (44.5)</td><td>16 (26.7)</td><td></td></tr><tr><td>女</td><td>81 (55.5)</td><td>44 (73.3)</td><td></td></tr><tr><td>年龄（n(%)）</td><td></td><td></td><td>0.007*</td></tr><tr><td>60-74</td><td>106 (72.6)</td><td>36(60.0)</td><td></td></tr><tr><td>75-84</td><td>39 (26.7)</td><td>19 (31.7)</td><td></td></tr><tr><td>>84</td><td>1 (0.7)</td><td>5(8.3)</td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/483a7587701d0531a8faa3ab0d5a2ce8aca572b6a662d7cd6cf17e1e035ecb36.jpg",
+        "table_caption": [
+            "2.3 漠和 相关 "
+        ],
+        "table_footnote": [
+            "注： $^ { * } P < 0 . 0 5$ "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"3\"></td><td rowspan=\"2\">CH 0.011*</td></tr><tr><td>最高学历（n(%)）</td><td></td><td></td></tr><tr><td>未有过教育经历</td><td>42 (29.2)</td><td>28 (46.7)</td><td></td></tr><tr><td>小学</td><td>29 (20.1)</td><td>6(10.0)</td><td></td></tr><tr><td>初中</td><td>30 (20.8)</td><td>16 (26.7)</td><td></td></tr><tr><td>高中或中专</td><td>29 (20.1)</td><td>10 (16.7)</td><td></td></tr><tr><td>大专及以上</td><td>14 (9.7)</td><td>0 (0.0)</td><td></td></tr><tr><td>婚姻状况（n(%)）</td><td></td><td></td><td>0.032*</td></tr><tr><td>未婚</td><td>0(0.0)</td><td>0(0.0)</td><td></td></tr><tr><td>已婚</td><td>127 (87.6)</td><td>42 (72.4)</td><td></td></tr><tr><td>离异</td><td>2 (1.4)</td><td>2 (3.3)</td><td></td></tr><tr><td>丧偶</td><td>16 (11.0)</td><td>14 (24.1)</td><td></td></tr><tr><td>月收入（n(%)）</td><td></td><td></td><td>0.022*</td></tr><tr><td><3000</td><td>81 (56.3)</td><td>46 (76.7)</td><td></td></tr><tr><td>3000-6000</td><td>51 (35.4)</td><td>12 (20.0)</td><td></td></tr><tr><td>>6000</td><td>12 (8.3)</td><td>2 (3.3)</td><td></td></tr><tr><td>居住方式（n(%)）</td><td></td><td></td><td>0.010*</td></tr><tr><td>独居</td><td>10 (6.8)</td><td>6（10.0)</td><td></td></tr><tr><td>伴侣子女同住</td><td>51 (34.9)</td><td>18 (30.0)</td><td></td></tr><tr><td>仅伴侣同住</td><td>74 （50.7)</td><td>22 (36.7)</td><td></td></tr><tr><td>仅子女同住</td><td>11 (7.5)</td><td>14 (23.3)</td><td></td></tr><tr><td>子女数目（n(%)）</td><td></td><td></td><td>0.009*</td></tr><tr><td>无</td><td>2 (1.4)</td><td>0(0.0)</td><td></td></tr><tr><td>1个</td><td>51 (34.9)</td><td>14 (23.3)</td><td></td></tr><tr><td>2个</td><td>55 (37.7)</td><td>16 (26.7)</td><td></td></tr><tr><td>3个及以上</td><td>38 (26.0)</td><td>30 (50.0)</td><td></td></tr><tr><td>身体疼痛（n(%)）</td><td></td><td></td><td>0.000*</td></tr><tr><td>没有</td><td>80（54.8)</td><td>14 (23.3)</td><td></td></tr><tr><td>轻微</td><td>45 (30.8)</td><td>23 (38.3)</td><td></td></tr><tr><td>中度</td><td>11 (7.5)</td><td>9（15.0)</td><td></td></tr><tr><td>严重</td><td>10 (6.8)</td><td>14 (23.3)</td><td></td></tr><tr><td>淡漠(±s)</td><td>1.33±0.85</td><td>2.00±0.79</td><td>0.000*</td></tr><tr><td>衰弱(±s）</td><td>0.60±0.94</td><td>1.69±1.38</td><td>0.000*</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "衰弱、淡跌倒风险性分析淡漠与跌",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "倒风险总分呈正相关（ $\\cdot P { < } 0 . 0 5 0 \\rangle$ ，与衰弱呈正相关，衰弱与跌倒风险呈正相关。详见表2。表2老年人衰弱、淡漠、跌倒风险相关分析(r值)",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/01cdb8f2142640827c5d8cf22efe50759f777f0030acedde7cd64455ffef1415.jpg",
+        "table_caption": [
+            "Table 2Correlation analysis of the Falling Risk Scale, Geriatric Depression Scale $^ { - 3 }$ ,and Fried Frailty Phenotype "
+        ],
+        "table_footnote": [
+            "注：“----\"表示重复数据； $^ { * } P < 0 . 0 5$ "
+        ],
+        "table_body": "<html><body><table><tr><td>变量</td><td>衰弱</td><td>淡漠</td><td>跌倒风险</td></tr><tr><td>衰弱</td><td>1</td><td>----</td><td>----</td></tr><tr><td>淡漠</td><td>0.358*</td><td>1</td><td>----</td></tr><tr><td>跌倒风险</td><td>0.506*</td><td>0.421*</td><td>1</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4衰弱在淡漠与跌倒风险间的中介效应检验",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "首先，采用 Hayes(2012)编制的 SPSS 宏中的 Model4(Model4 为简单的中介模型)，在控制协变量性别、年龄、文化程度、婚姻状况、月收入、居住环境、子女数目、疼痛后，对衰弱在淡漠与跌倒风险之间的中介效应进行检验。结果表明，淡漠对跌倒风险的正向影响作用显著( $\\mathrm { B } = 0 . 3 2 8$ ，t= 5.095， $P { < } ~ 0 . 0 5 0 \\dot  \\$ ，淡漠对衰弱的正向影响作用显著（ $\\mathrm { B } { } = 0 . 2 3 6$ ， $\\mathrm { t } = 3 . 8 6 0$ ， $P { < } 0 . 0 5 0 \\rangle$ ，衰弱对跌倒风险的正向影响作用显著（ $\\mathrm { B } { = } 0 . 3 0 8$ ， $\\tan 4 . 1 2 5$ ， $P { < } 0 . 0 5 0 \\dot { . }$ ，详见图1。此外，Bootstrap 检验模型分析的结果显示，“淡漠 $$ 衰弱 $$ 跌倒风险\"路径中，衰弱效应值 $0 . 2 2 [ 9 5 \\% \\mathrm { C I }$ （0.08，0.38）]，可信区间不包括0，表明中介效应成立。淡漠可以直接影响跌倒风险以外，还可以间接通过衰弱影响跌倒风险。总效应为0.98，直接效应为0.76，中介效应为0.22，中介效应值占总效应的 $2 2 . 4 5 \\%$ 。见表3。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/edf6f903c69121558c486b15e9f73ccad86bc53e6b4cab604f8e83d05598f0e3.jpg",
+        "img_caption": [
+            "注： $^ { * } P { < } 0 . 0 5$ ",
+            "图1衰弱在淡漠和跌倒风险之间的中介关系图 Figure1The mediating effect of frailty on the relationship between apathy and risk of fall "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d38267213d56d3de1878e7f2c66f91ec517ec5b576124c716d72d1ad90103a53.jpg",
+        "table_caption": [
+            "表3总效应、直接效应及中介效应分解表（ $\\scriptstyle \\mathbf { N } = 1 9 2$ ）",
+            "ble 3Breakdown of total effect, direct effect,and intermediary effect ( $\\scriptstyle \\mathrm { N } = 1 9 2$ ）） "
+        ],
+        "table_footnote": [
+            "注：Boot 标准误、Boot CI下限和 Boot CI上限分别指通过偏差矫正的百分位 Bootstrap 法估计的间接效应的标准误差、 $9 5 \\%$ 置信区问的下限和上限；所有数值通过四舍五入保留两位小数。"
+        ],
+        "table_body": "<html><body><table><tr><td>20</td><td>效应值</td><td>Boot 标准误</td><td>Boot CI 上限</td><td>Boot CI 下限</td><td>相对效应值</td></tr><tr><td>效应</td><td>0.98</td><td>0.19</td><td>0.38</td><td>1.14</td><td></td></tr><tr><td>接效应</td><td>0.76</td><td>0.19</td><td>0.39</td><td>1.14</td><td>77.55%</td></tr><tr><td>衰弱的中介效应</td><td>0.22</td><td>0.08</td><td>0.08</td><td>0.38</td><td>22.45%</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1社区老年人跌倒问题严重",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "跌倒是老年人常见的不良事件，研究表明， $1 5 \\%$ 至 $2 6 \\%$ 社区老年人曾在一年内跌倒[16]。本研究结果显示具有跌倒风险的人群占比为 $2 9 . 1 3 \\%$ ，与社区老年人跌倒发生率较为接近。跌倒是老年人受伤的主要原因， $20 \\% - 3 0 \\%$ 的跌倒者遭受过中度至重度伤害，例如撕裂伤、骨折和创伤性脑损伤[17]；其中骨折，尤其是髋骨骨折能够产生诸如深静脉血栓栓塞和感染等严重并发症，进而延长住院时间，增加死亡率[18]。跌倒有关的伤害造成的财政支出数额巨大，我国与跌倒有关的伤害相关费用为每人每次16美元至3812美元[19]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "既往文献报道跌倒风险与多种人口学因素有关，本研究结果发现性别、年龄、文化程度、婚姻状况、月收入、居住环境、子女数目、疼痛与跌倒风险有关，与既往研究一致[20.21]。伴随年龄增长，老年人机体功能下降，疾病易感性增加，跌倒风险增高[22]；老年女性雌激素降低，抵御疾病能力减弱而易使跌倒风险增加[23]；月收入、居住方式、子女数目和婚姻状况均为社会支持重要部分，而社会支持与跌倒风险密切相关，故不同居住方式、子女数目和婚姻状况的老年人跌倒风险不同，高社会支持老年人跌倒风险较低[24]；文化程度高的个体服药依从性高，注重保持身体健康状况而降低跌倒风险[25]；疼痛可影响个人的活动能力而增加跌倒的风险[26]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2淡漠、衰弱与跌倒风险的相关性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究结果显示淡漠对跌倒风险存在正相关。与 Nagai等[27]研究结果一致。其原因可能是淡漠个体运动执行功能受损，导致活动减少，平衡功能受损，出现步态不稳，故淡漠可能通过减少个体活动方式增加个体跌倒的风险[4]。改善个体淡漠状况或引导淡漠个体活动对改善老年人跌倒风险具有重要意义。本研究还发现衰弱对跌倒风险同样呈正相关，Zhang 等[28]对社区老年人进行4年的追踪研究，研究显示在控制年龄等协变量后，衰弱老年人跌倒的机率比非衰弱老年人高 $81 \\%$ 。其原因可能是衰弱个体生理储备低，肌肉功能降低，步态不稳，跌倒风险增加[29]。综上，淡漠、衰弱同为跌倒风险影响因素。提示照护人员需及时评估淡漠和衰弱，并提高个体活动兴趣，促使个体活动，增强肌肉功能，进而降低个体跌倒的风险，提高老年人生活质量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3衰弱在淡漠与跌倒风险之间的中介作用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究结果表明，淡漠可以直接预测跌倒风险，前额叶皮层和纹状体是控制淡漠的主要区域，该区域的损伤可能导致运动兴趣降低，执行功能受损[30]，引起肌肉功能降低，步态不稳，发生跌倒。应及时干预淡漠减少跌倒风险。不仅如此，本研究发现淡漠可通过衰弱对跌倒风险产生间接作用。验证衰弱是淡漠干预跌倒风险的中介因素非常重要，老年人淡漠表现为缺乏动力，对周围环境的兴趣和情绪反应减少，这些表现由于不具备特殊性而易被忽视[31]。此外，淡漠个体多巴胺分泌减少，完成干预方案的积极性低，可能导致干预失败或效果不佳[32]。Melina 等[5对社区老年人进行护士健康教育，3\\~4年随访后指出实验组与对照组之间的淡漠变化没有差异；Dimitrios 等[33对社区老年人实施回忆疗法，发现随时间推移，实验组与对照组的淡漠评分没有显著的差异。可见，淡漠不易察觉且干预困难，而衰弱为减少淡漠老年人跌倒风险提供新的思路。本研究发现淡漠可通过衰弱对跌倒风险产生间接作用。相较于淡漠，衰弱易被发现，例如当发现老年人出现\"步速缓慢\"等衰弱前兆时，可提示护理人员进一步检测衰弱；同样地，与淡漠对比而言，衰弱干预方式更丰富多样，例如营养饮食等34]。故应重视衰弱在淡漠与跌倒风险之间发挥的作用。因此，老年照护者应早期识别老年人衰弱，鼓励老年人运动，以减缓或避免衰弱，降低跌倒风险。但同时值得注意的是，衰弱在淡漠与跌倒风险中存在部分中介效应（中介效应为0.22，中介效应值占总效应的 $2 2 . 4 5 \\%$ )，这提示可能存在其他因素同样可成为淡漠与跌倒风险的中介，协助减少淡漠老年人跌倒风险，未来应纳入相关变量进一步补充淡漠与跌倒风险的中介因素，减少淡漠老年人跌倒风险。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4 小结与局限 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "预防老年人跌倒是实现健康老龄化社会的重要前提。本研究显示社区老年人跌倒风险较高，淡漠和衰弱均可增加跌倒风险，衰弱在淡漠与跌倒风险间存在部分中介作用。本研结果为淡漠个体减少跌倒风险提供新方法，并且为解释淡漠导致跌倒风险机制提供新思路。然而，本研究也存在一些局限性。首先，本研究仅调查了两个社区，样本代表性缺乏，未来可以进一步扩大样本量。其次，本研究为横断面调查，不能验证因果关系。未来研究需要采用纵向数据证实这一推测，进而为预防社区老年人跌倒提供有效的干预建议。最后，其他因素比如慢病数目等协变量未纳入，可能影响主变量关系，未来需要控制更多协变量，查看主变量的关系。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "作者贡献：陶璐、聂作婷、曾凯、杨如美进行试验设计与实施、撰写论文；陶璐进行资料收集、数据分析；杨如美、曾凯、宗前兴、陈龙、吴延进行质量控制与审校；陶璐、曾凯、杨如美对文章监督管理。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文无利益冲突",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]陆治名,汪媛,叶鹏鹏,等.2015-2018年全国伤害监测系统中老年人跌倒/坠落病例分布特征[J].中华流行病学杂志 2021, 42(1): 137-141.DOI: 10.3760/cma.j.cn112338-20200424-00646.   \nLU Z M, WANG Y,YEPP, etal. Distributioncharacteristics offaling down/fallintheelderly in the national injury surveillance system2015-201[J].Chinese JourmalofEpidemiology,2021,42(1):137-141.DOI:10.3760/cma.j.c1338- 20200424-00646.   \n[2] ROITTOHM, OHMAN H, SALMINEN K,et al. Neuropsychiatric Symptoms as Predictors ofFals in Long-Term Car Residents With Cognitive Impairment[J].JAmMedDirAssoc,2020,21(9):1243-1248.DOI:10.1016/j.jamda.2020.04.00. [3] MARIN R S.Apathy: a neuropsychiatric syndrome[J]. JNeuropsychiatry Clin Neurosci,1991,3(3): 243-54.DOI 10.1176/jnp.3.3.243.   \n[4] HENSTRA MJ, HOUBOLT C M, SEPPALAL J, et al. Age modifies the association between apathy and recurrent falling i Dutchambulant older persons withahigh fallrisk:Recurrent falling in Dutchoutpatients,does apathy playarol Exp Ger0ntol, 2018,112:54-62. DO1: 10.1016/j.exger.2018.09.002.   \n[5] DEN BROK MG HE, HOEVENAAR-BLOM M P,COLEY N,et al. The Efect of Multidomain Interventions on Global Cognition,Symptoms ofDepression and Apathy- APooled Analysis ofTwo Randomized Controlled Trials[J]. J Prev Alzheimers Dis,2022; 9(1): 96-103. DOI: 10.14283/jpad.2021.53.   \n[6] FRIEDLP,TANGENCM, WALSTONJ,et al. Frailtyin olderadults: evidence for aphenotype[J]. JGerontolABiol Sci Med Sci, 2001, 56(3): M146-M156.DOI: 10.1093/ger0na/56.3.m146.   \n[7] AYERS E,SHAPIRO M,HOLTZER R, etal.Symptoms ofapathy independently predict vulnerabilityand disability in olderadults iving inthecommunity[J].JournalofClinical Psychiatry2017,5(78): 529-536.DOI: 0.4088/JCP.15m10113. [8]倪平,陈京立,刘娜.护理研究中量性研究的样本量估计[J].中华护理杂志,2010,45(04):378-380.DOI:   \n10.3761/j.issn.0254-1769.2010.04.037.   \nNI P, CHEN JL,LIUN.Estimation of the sample size ofa quantitative studyin nursing studies[J]. Chinese Journal of Nursing,2010, 45(04): 378-380.DO1: 10.3761/j.issn.0254-1769.2010.04.037.   \n[9]李晓旭,崔焱.老年人衰弱的测评及其影响因素的研究进展[J].实用老年医学,2017,31(6):596-600.DOI: 10.3969/j.issn.1003-9198.2017.06.028.   \nLI X X,CUIY.Research progressonthe assessmentofdebilitation inthe elderlyandits influencing factors[J].Practical Geriatrics,2017,31(6): 596-600. DO1: 10.3969/j.issn.1003-9198.2017.06.028.   \n[10]郝秋奎,李峻,董碧蓉,等.老年患者衰弱评估与干预中国 专家共识[J].中华老年医学杂志,2017,36(3):251-256. DOI: 10.3760/cma.j.issn.0254-9026.2017.03.007.   \nHAO Q K,LIJ, DONG B R, et al. Assessment and Intervention ofDebilitation in Elderly Patients China Expert Consensus[J]. Chinese Jourmal ofGeriatrics,2017,36(3): 251-256.DOI:10.3760/cma.j.isn.0254-9026.2017.03.007. [1]Panel onPreventionofFals inOlderPersons,American Geriatrics Societyand British Geriatrics Society.Summaryof the Updated American Geriatrics Society/British Geriatrics Society clinical practice guideline for prevention offals in olde persons[J]. JAm Geriatr Soc,2011, 59(1): 148-57. DOI: 10.111/j.1532-5415.2010.03234.x.   \n[12]李亚玲,丁福.STEADI跌倒风险自评量表在社区老年人中的应用研究[J].护理学杂志,2020,35(9):84-87.DOI: 10.3870/j.issn.1001-4152.2020.09.084. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "LI YL,DINGF.Applicationof the STEADIFallRisk Self-Assessment Scale in the community elderly[J]. JouralOf Nursing Science, 2020, 35(9): 84-87. DOI: 10.3870/j.issn.1001-4152.2020.09.084. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[13]KIM G,DECOSTER J,HUANG C H,et al. Ameta-analysis of the factor structure of the Geriatric Depression Scal (GDS): the effctsoflanguage[J].Intermational psychogeriatrics,2013,25(1):71-81.DOI:10.1017/S10416102001421. [14] HENSTRA MJ,RHEBERGEND,STEK ML,et al. The association between apathy,decline inphysical performance, andfals inolder persons[J].Aging ClinExpRes,2019,31(10):1491-1499.DOI:10.1007/s40520-018-1096-5.Epub 2019 Jan 2.   \n[15]周滢,张黎明,王怡丹,等.老年抑郁量表中淡漠分量表的测量学指标研究[J].中华现代护理杂志,2021,27(28) 3854-3857. DOI: 10.3760/cma.j.cn115682-20210103-00019.   \nZHOU Y, ZHANG L M, WANG YD,et al. A study of measurement indicators of the apathy subscale of the Elderly Depresion Scale[J].Chinese Journal of Modern Nursing，2021，27(28):3854-3857.DOI:10.3760/cma.j.cn115682 20210103-00019.   \n[16] KWANMM, CLOSEJC, WONGAK,etal.Falsincidence,risk factors,andconsequences in Chinese older people: a systematic review[J]. JAm Geriatr Soc,2011,59(3): 536-543. DOI: 10.111/j.1532-5415.2010.03286.x.   \n[17] STERLING DA, O'CONNOR JA, BONADIES J. Geriatric fals: injury severity is high and disproportionate to mechanism[J]. J Trauma,2001, 50(1): 116-119. DOI: 10.1097/00005373-200101000-00021.   \n[18] PANULA J,PIHLAJAMAKI H, MATTILA VM,etal. Mortality andcause of death in hip fracture patients aged 65 or older: a population-based study[J]. BMC Musculoskelet Disord,2011,12:105.DOI: 10.1186/1471-2474-12-105. [19]PENG K,TIANM,ANDERSENM,etal. Incidence,riskfactorsand economic burdenoffal-related injuries inlder Chinese people: a systematic review[J]. Inj Prev, 2019,25(1): 4-12.DOI: 10.1136/injuryprev-2018-042982.   \n[20] KIMJ,LEE W,LEES H.A Systematic Reviewof the Guidelines and Delphi Study for the MultifactorialFallRisk Assessment of Community-Dwelling Elderly[J]. Int JEnviron Res Public Health,2020,17(17): 6097.DOI:   \n10.3390/ijerph17176097.   \n[21]施宇,胡钜涛,陈红霞,等.老龄化背景下跌倒的风险因素及预防措施分析[J].中国老年保健医学,2021,19(3): 113-116. DOI: 10.3969/j.issn.1672-2671.2021.03.037.   \nSHIY,HUJT,CHENHX,etal.Analysis ofrsk factors and preventive measures forthedecline inthe backgroundof aging[J]. Chinese Journal of Geriatric Care,2021,19(3): 113-116.DOI: 10.3969/jissn.1672-2671.2021.03.037.   \n[22] NOWAKA,HUBBARDRE.Falsand frailty:lessns fromcomplex systems[J].JRSoc Med,209,102(3): 98-102. DOI: 10.1258/jrsm.2009.080274.   \n[23]周樊华,徐玉兰,吴画梦.中医护理干预对降低绝经后骨质疏松症患者跌倒发生率的影响[J].中国中医骨伤科杂 志,2015,23(7):70-71. DOI: CNKI:SUN:ZGZG.0.2015-07-027.   \nZHOUFH,XUYL,WU HM.Effect of TCM nursing interventions on reducing the incidence offalls in patients with postmenopausal osteoporosis[J]. Chinese Journal ofTraditional MedicalTraumatology&Orthopedics,20i5,23(7):70-71. DOI: CNKI:SUN:ZGZG.0.2015-07-027.   \n[24]蒋丹,刘伟,宫宁,等.老年脑卒中患者跌倒效能与社会支持的相关性研究[J].护理学报,2020,27(18):65-67.DOI: 10.16460/j.issn1008-9969.2020.18.065.   \nJIANGD,LIU W,GONGN,etal. Astudyonthecorelation between falleficacyandsocialsupport inelderlystroke patients[J]. Journal of Nursing,2020,27(18): 65-67. DOI: 10.16460/j.issn1008-9969.2020.18.065.   \n[25] GOLDMANDP,SMITHJP.Can patient self-management helpexplain the SES health gradient?[J].Proc Natl Acad Sci U S A,2002, 99(16): 10929-34. DOI: 10.1073/pnas.162086599.   \n[26] STUBBS B, WESTE,PATCHAY S,etal.Is there a relationship between painand psychological concerns related to faling in communitydweling older adults? A systematic review[J]. Disabil Rehabil,2014,36(23):1931-42.DOI: 10.3109/09638288.2014.882419.   \n[27]NAGAI K, SANO K, TAMAKI K, et al. Severe Apathy as a Risk Factor for Fals in Older Adults With Frailty Symptoms[J]. JAm Med Dir Assoc,2019,20(11):1473-1475. DOI: 10.1016/j.jamda.2019.05.014.   \n[28] ZHANGQ, ZHAOX,LIUH,et al. Frailtyasa predictoroffuture falsanddisability: afour-yearfolow-upstudyof Chinese older adults[J]. BMC Geriatr,2020,20(1): 388.DOI: 10.1186/s12877-020-01798-z.   \n[29] BARTOSCHPS, KRISTENSSON J,MCGUIGANFE,etal.Frailtyand prediction ofrecurrent falsover10 years in a communitycohortof75-year-old women[J].Aging ClinExpRes,2020,32(11): 2241-2250.DOI:10.1007/s40520-019- 01467-1.   \n[30] HOLLOCKSMJ,LAWRENCE AJ,BROOKES RL,etal,Diffrential relationshipsbetween apathyanddeprssion with white mater microstructural changes and functional outcomes[J].Brain,2015,138(Pt12),3803-3815.DOI: 10.1093/brain/awv304.   \n[31] ANDRADE C. Methylphenidate and Other Pharmacologic Treatments for Apathy in Alzheimer's Disease[J].The Journal of clinical psychiatry, 2022, 83(1):22f14398. DOI: 10.4088/JCP.22f14398.   \n[32]LE HERONCHOLROYDCB,SALAMONEJ, et al. Brain mechanisms underlying apathy[J].JNeurol Neurosurg Psychiatry, 2018, 90(3),302-312. DO1: 10.1136/jnnp-2018-318265.   \n[33] SAREDAKIS D, KEAGE HA, CORLIS M, et al. The Efect of Reminiscence Therapy Using Virtual Reality on ApathyinResidential AgedCare: Multisite Nonrandomized ControlledTrial[J].JMed InternetRes,2021,23(9): e29210. ",
+        "page_idx": 5
+    }
+]

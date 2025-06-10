@@ -1,0 +1,214 @@
+DOI:10.13930/j.cnki.cjea.170379
+
+耿丽平，高宁大，赵全利，薛培英，刘文菊．河北板蓝根产地土壤-植物中镉铅汞砷含量特征及其污染评价[J].中国生态 农业学报,2017,25(10):1535-1544 Geng L P, Gao ND, Zhao QL, Xue PY, Liu WJ. Assessment of Cd, Pb, $\mathrm { H g }$ and As contamination in soils and plants in Isatis indigotica cultivated regions in Hebei Province[J]. Chinese Journal of Eco-Agriculture,2017,25(10): 1535-1544
+
+# 河北板蓝根产地土壤-植物中镉铅汞砷含量特征及其污染评价
+
+耿丽平¹，高宁大²，赵全利，薛培英，刘文菊 1\*(1.河北农业大学资源与环境科学学院/河北省农田生态环境重点实验室保定07100;2.河北张家口市张北县河道管理处张北076450;3．河北农业大学教学实验场保定071000)
+
+摘要：采用野外调查和室内分析相结合的方法，研究了河北省安国市和蔚县板蓝根产地土壤-植物中 Cd、Pb、Hg、As 含量特征及其在菘蓝中的累积特性，并对板蓝根产地土壤和草药中Cd、Pb、 $\mathrm { H g }$ 、As 污染状况进行了评价，为该地区安全、合理地发展中草药生产提供数据支撑和科学依据。结果表明，安国市和蔚县板蓝根产地土壤中重金属Cd、Pb、 $\mathrm { H g }$ 、As含量差异不大，土壤重金属含量的变异系数在 $1 1 . 7 0 \% { \sim } 9 7 . 6 5 \%$ 。以《土壤环境质量标准》(GB15618—1995)一级标准值进行评价，综合污染指数评价结果显示 $45 \%$ 板蓝根种植区土壤Cd、Pb、Hg、As污染等级为警戒限，其他处于清洁水平；而以《土壤环境质量标准》二级标准值进行评价，种植区单项污染指数及综合污染指数结果均 $< 0 . 7$ ，土壤环境清洁。此外，菘蓝地上部(大青叶)Cd、Pb、 $\mathrm { H g }$ 、As平均含量分别为 $0 . 2 2 ~ \mathrm { \ m g ^ { . } k g ^ { - 1 } }$ 、 $0 . 8 9 \ \mathrm { \ m g { \cdot } k g ^ { - 1 } }$ 、 $0 . 0 4 \ \mathrm { \ m g { \cdot } k g ^ { - 1 } }$ 、 $0 . 2 5 ~ \mathrm { \ m g ^ { . } k g ^ { - 1 } }$ ，对重金属的富集能力表现为$\mathrm { C d } { > } \mathrm { H g } { > } \mathrm { P b } { > } \mathrm { A s }$ ；菘蓝地下部(板蓝根)Cd、Pb、Hg、As 含量均值分别为 $0 . 1 4 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ 、 $0 . 5 7 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ 、 $0 . 0 4 ~ \mathrm { { m g } { \cdot k g } ^ { - 1 } }$ 、$0 . 2 6 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ ，对重金属的富集能力表现为 $\mathrm { C d { > } H g { > } A s { > } P b }$ 。所有菘蓝样品中Pb、 $\mathrm { H g }$ 、As含量均未超出《药用植物及制剂进口绿色行业标准》(WM2—2001)，大青叶 $9 . 0 9 \%$ 样品中Cd超标，且Cd平均污染指数 ${ > } 0 . 7$ ，属警戒限污染等级。因此，在中药材GAP(良好的农业规范)产地环境质量评价时，除板蓝根产地土壤完全符合土壤环境质量二级标准外，也不应忽视板蓝根和大青叶吸收和累积重金属的自身特性。
+
+关键词：菘蓝；地上部(大青叶)；地下部(板蓝根)；重金属；污染评价；累积和转运中图分类号：X53 文献标识码：A 文章编号:1671-3990(2017)10-1535-10
+
+# Assessment of Cd, Pb, Hg and As contamination in soils and plants in Isatis indigotica cultivated regions in Hebei Province
+
+GENG Liping¹, GAO Ningda², ZHAO Quanli³, XUE Peiying],LIU Wenjul\*\* (1.College of Resources and Environmental Sciences,Hebei Agricultural University/Key Laboratory for Farmland Eco-EnvironmentinHebei Province,Baoding 0710oo,China;2.River ManagementDepartmentofZhangbei County,Zhangbei 076450,China; 3.Teaching Experiment Field, Hebei Agricultural University, Baoding 0710oo,China)
+
+Abstract:ConcentrationsofCd,Pb,HgandAsinsoilsandplants inIsatis indigotica cultivatedregionsofAnguo Cityand Yuxian County in Hebei Province were analyzed and the bioconcentration factors of $I .$ indigotica from different regions discussed.The study would provide data supportandscientific basis forfurther studies ofsafe andrational development in crude Chinese drugs. The results showed that the contents of Cd, Pb,Hg and As in soil varied little in $I .$ indigotica cultivated regions of Anguo City and Yuxian County in Hebei Province, with a range of coefficient of variation of $1 1 . 7 0 \% - 9 7 . 6 5 \%$ . In the evaluationof the levelsof soilcontamination basedonClass1standard for Cd,Pb,HgandAsof theEnvironmental Quality Standard for Soils (GB 15618—1995),and the Nemerow index background values of heavy metals were used as assessment standard. The range of Nemerow index of $45 \%$ soil samples from I. indigotica cultivated regions was 0.7-1.0, which suggested thatthe soils inthestudyareas wereatanalarming levelofpolution.When Class2qualitystandard wasused,boththesingle pollution indexand the NemerowindexdidnotexceedO.7,which suggested that theinvestigatedsoils were generallsafe for cultivation of $I .$ indigotica.In addition, the average contents of Cd, Pb, $\mathrm { H g }$ and As in shoots of $I .$ indigotica were respectively $0 . 2 2 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ $0 . 8 9 \mathrm { ~ m g { \cdot } k g ^ { - 1 } }$ ， $0 . 0 4 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ and $0 . 2 5 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ , with accumulation capacity rank of $\mathrm { C d } > \mathrm { H g } > \mathrm { P b } > \mathrm { A s }$ . The average contents of Cd, Pb, $\mathrm { H g }$ and As in roots of the herb were respectively $0 . 1 4 ~ \mathrm { m g ^ { \cdot } k g ^ { - 1 } }$ ， $0 . 5 7 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ ， $0 . 0 4 ~ \mathrm { { m g } { \cdot k g } ^ { - 1 } }$ and 0.26 $\mathrm { m g \cdot k g ^ { - 1 } }$ ,with accumulation capacity trend of $\mathrm { C d } > \mathrm { H g } > \mathrm { A s } > \mathrm { P b }$ . The concentrations of $\mathrm { P b }$ ,As and $\mathrm { H g }$ did not exceed the safety limitation basedon the Gren Trade Standards for Import-Exportof Medicinal Plants Preparations(WM2—2001). However, the contamination index of Cd in shoots of $I .$ indigotica was higher than O.7 and Cd level in $9 . 0 9 \%$ of the plant samples exceeded thesafety limitation,indicating thatthe levelsofCdinthe herbsinbothregions wereatanalarming levelof polution.It was therefore recommended to follow Class 2 standardofsoil qualityset inthe Environmental Quality Standard for Soils.The accumulation characteristics of heavy metals in roots and shoots of $I .$ indigotica should also be of significant concern in GAP (good agricultural practices) soil quality evaluation.
+
+Keywords: Isatis indigotica; Shoots (folium isatidis); Roots (isatis root);Heavy metal; Polutionevaluation;Accumulation and transfter
+
+土壤是人类赖以生存的主要自然资源之一，同时也是农业生产重要的物质基础。近年来，随着工业发展、城市污染加剧和农用化学物质的增加，重金属通过“三废"排放、农药、化肥的不合理使用和城市污泥、生活垃圾滥用等多种渠道进入土壤，并通过食物链进而威胁人体健康[1-3]。目前，世界上许多国家和地区对中药重金属含量和农药残留都有严格的指标要求，一旦某个指标超出安全限值将禁止出售并销毁。研究表明，大多数中草药都含有一定量的重金属[4-6]，有些已超过其安全限值，这已成为我国中药进入国际医药市场的绿色壁垒[7]。土壤是中草药重金属的主要来源之一，将种植区土壤重金属(包括类金属As)控制在一定限量范围内，是确保中草药质量安全的第一步[8]。
+
+近年来，针对农田[9-11]、蔬菜基地[12-14]和矿山[15-16]等土壤重金属的调查和评价均已有大量报道，但对于中草药种植区土壤重金属安全性评价报道相对较少[8,17-18]。柳晓娟等[19]研究表明，无论是直接采自药材种植区还是购自药店的板蓝根[崧蓝(Isatisindigotica)的地下部分和大青叶(菘蓝的地上部分)，砷含量是地上部 $\mathrm { > }$ 根部，控制地上部和根部碑的累积对于药材的安全性非常重要。保定安国市和张家口市蔚县为河北主要板蓝根产地。因此，本研究分别在保定安国市和张家□市蔚县采集土壤和植物样本，采用野外调查和室内分析相结合的方法，研究土壤中Cd、Pb、Hg和As含量及其在板蓝根和大青叶的累积，并对板蓝根产地土壤及草药中重金属含量进行安全性评价，以期为该地区安全、合理地发展中草药生产提供数据支撑和科学依据。
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+河北省安国市位于华北平原腹地 $( 3 8 ^ { \circ } 2 4 ^ { \prime } \mathrm { N }$ $1 1 5 ^ { \mathrm { o } } 2 0 ^ { \prime } \mathrm { E } )$ ，平均海拔约 $3 6 \mathrm { ~ m ~ }$ ，年平均降水量 $5 1 0 . 8 ~ \mathrm { m m }$ 无霜期约 $1 9 0 \ \mathrm { ~ d } _ { \circ }$ 主要土壤类型为沙壤质洪冲积潮褐土。该地区药材种植品种达223种，常年种植面积保持在 $8 6 . 7 ~ \mathrm { k m } ^ { 2 }$ 左右，年产商品药材占河北省药材总产量的 $70 \%$ 以上，素以“药都"和"天下第一药市"之称。张家口蔚县位于河北省西北部 $( 3 9 ^ { \circ } 8 5 ^ { \prime } \mathrm { N }$ ， $1 1 4 ^ { \circ } 5 7 ^ { \prime } \mathrm { E } )$ 平均海拔 $9 1 2 ~ \mathrm { m }$ ，年降水量 $4 2 5 ~ \mathrm { { m m } }$ ，无霜期约 $1 3 7 \mathrm { d } _ { \circ }$ 土质为沙壤土，因其昼夜温差大，该地区中药材种植面积达 $3 \ 3 0 0 \ \mathrm { h m } ^ { 2 }$ ，产量达到800万kg，适宜种植款冬花、板蓝根、知母、黄芩等。
+
+# 1.2 样品采集
+
+土壤和中草药采用 $1 : 1$ 取样的原则，结合当地药农实际种植情况，选择具有代表性和典型性的板蓝根种植地块，随机在安国市A、B、C、D、E、F、G和蔚县H、I、J、K采样点(图1)进行调查并根据“S"型进行取样，采集 $0 { \sim } 3 0 ~ \mathrm { c m }$ 耕层土壤，均匀混合，按四分法取部分土样，装入塑封袋，编号，备用。各采样点取4\~6个土壤样品，共采集土壤样品52个。
+
+中草药样品的采集选在秋季采收季节，取上述采样点土壤上种植的菘蓝的地上部(大青叶)和地下部(板蓝根)，分别装入自封袋，编号，备用。共采集植物样品52个，每个植物样品重量(干重) $5 0 ~ \mathrm { g _ { \circ } }$
+
+![](images/e6c55fd75f79f88432945e3800b10931e553f7a98d01c852bb5fc6f2593fb8ce.jpg)  
+图1板蓝根产地河北安国市(a)和蔚县(b)的采样点区分示意图 Fig.1Locationsofthesamplingplots in Isatis indigotica plantingareasofAnguo City (a)andYuxian County(b)ofHebei Province 图中黑色折线区域为板蓝根种植区。Theregions circled with black linesin thefigures are Isatis indigotica planting areas.
+
+# 1.3样品的制备及分析
+
+土壤样品制备：将土样风干，拣出杂质，用木辊压碎，混匀，并用四分法取压碎样，过孔径 $1 \ \mathrm { m m } ( 1 8 \$ 自)尼龙筛。过筛后的样品充分混匀，用玛瑙研钵研磨到全部过孔径 $0 . 1 5 ~ \mathrm { m m } ( 1 0 0$ 目)筛，装袋备用。
+
+植物样品制备：用自来水冲洗除去其上的泥土等附着物，分别用蒸馏水、去离子水冲洗3遍，阴干，在烘箱中 $6 5 \mathrm { ~ \textdegree ~ }$ 烘至恒重，微型粉碎机(塑料内胆不锈钢刀片)粉碎后备用。
+
+植物和土壤样品均采用 $\mathrm { H N O } _ { 3 } – \mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 闷罐消解[20],用ICP-MS 测定板蓝根和大青叶以及土壤中Cd、 $\mathrm { \sf P b }$ Hg、As含量。分析样品同时以国家一级标准物质(土壤：GBW07404；植物:GBW07603)进行准确度和精密度控制，回收率为 $8 0 \% { \sim } 9 7 \%$ ，数据已经过标准样品回收率校正。
+
+# 1.4 评价方法及标准
+
+1.4.1 土壤 Cd、Pb、 $\mathbf { H } \mathbf { g }$ 、As污染状况的评价
+
+本研究参照文献[21]，以单项污染指数和综合污染(内梅罗)指数法为评价模式，分别应用文献[22-23]中标准值对河北省安国市和蔚县中草药种植区土壤中Cd、Pb、 $\mathrm { H g } .$ 、As环境质量进行评价。
+
+土壤环境质量分级是土壤质量评价的基本内容。内梅罗综合污染指数的分级标准为： $P _ { \Xi \hat { \pi } \hat { \Xi } } { < } 0 . 7$ ，污染等级为清洁(安全级); $P _ { \Xi \Xi } { \ L _ { \Xi } } { = } 0 . 7 { \sim } 1$ ，为警戒限; $P _ { \natural \widehat { \overline { { \mathbf { e } } } } \widehat { \mathbf { e } } } =$
+
+1\~2，属轻度污染； $P _ { \frac { 4 3 } { 5 \cdot \cdot } \circled { = } } = 2 \sim 3$ ，属中度污染；当 $P _ { \Xi , \Xi } { \circ } > 3$ 为重度污染。综合污染指数公式为：
+
+$$
+P _ { \mathit { \Pi } _ { \Xi \Xi } \le = } \sqrt { [ { P _ { \operatorname* { m a x } } } ^ { 2 } + { P _ { \operatorname { a v e } } } ^ { 2 } ] / 2 }
+$$
+
+1.4.2 中草药中 Cd、Pb、 $\mathbf { H } \mathbf { g }$ 、As污染状况的评价
+
+采用单项污染指数法，以我国《药用植物及制剂进口绿色行业标准》中Cd、 $\mathrm { \sf P b }$ 、 $\mathrm { H g }$ 、As的限量值为评价标准进行评价[24]，单项污染指数法计算公式为：
+
+$$
+P _ { i } = { c _ { i } } / { S _ { i } }
+$$
+
+式中: $P _ { i }$ 为中药中Cd、 $\mathrm { \sf P b }$ 、 $\mathrm { H g }$ 、As污染物污染指数，$c _ { i }$ 为中药中Cd、 $\mathrm { \sf P b }$ 、 $\mathrm { H g }$ 、As污染物含量测定值， $S _ { i }$ 为Cd、 $\mathrm { \sf P b }$ 、 $\mathrm { H g }$ 、As 限量值，分别为 $0 . 3 \mathrm { m g } { \cdot } \mathrm { k g } ^ { - 1 }$ /$5 . 0 \ \mathrm { m g { \cdot k g } ^ { - 1 } }$ 、 $0 . 2 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ 、 $2 . 0 \ \mathrm { m g { \cdot } k g ^ { - 1 } }$ 。
+
+# 1.5 数据分析与处理
+
+转运系数：地上部与根中Cd、 $\mathrm { \sf P b }$ 、 $\mathrm { H g }$ 、As浓度的比值，分别表示Cd、 $\mathrm { \sf P b }$ 、 $\mathrm { H g }$ 、As由根系被转运至地上部的能力[20]
+
+富集系数：地上部和根系中 Cd、 $\mathrm { \sf P b }$ 、 $\mathrm { H g }$ /As 浓度分别与土壤中Cd、Pb、 $\mathrm { \nabla \ H g }$ 、As浓度的比值，分别表示Cd、 $\mathrm { \sf P b }$ 、 $\mathrm { \nabla \ H g }$ 、As在草药体内的富集情况[20]。
+
+所得数据主要采用MicrosoftExcel2003及SPSS17.0 统计软件分析。
+
+# 2 结果与分析
+
+# 2.1河北板蓝根产地土壤Cd、Pb、 $\mathbf { H } \mathbf { g }$ 、As含量特征及其污染评价
+
+2.1.1 土壤 Cd、Pb、 $\mathbf { H } \mathbf { g }$ 、As含量特征
+
+板蓝根产地土壤中 Cd、 $\mathrm { \sf P b }$ 、 $\mathrm { \nabla \ H g }$ 、As含量概况如表1所示。安国市土壤Cd含量为 $0 . 1 0 { \sim } 0 . 2 3$ $\mathbf { m g \cdot k g } ^ { - 1 }$ ，均值为 $0 . 1 6 ~ \mathrm { \ m g ^ { \cdot } k g ^ { - 1 } }$ ；土壤 Pb 含量为$1 2 . 1 4 { \sim } 2 7 . 8 6 \ \mathrm { \ m g { \cdot } k g } ^ { - 1 }$ ，均值为 $1 7 . 1 3 ~ \mathrm { \ m g ^ { \cdot } k g ^ { - 1 } }$ ；土壤$\mathrm { H g }$ 含量为 $0 . 0 2 4 { \sim } 0 . 3 9 1 ~ \mathrm { m g { \cdot } k g } ^ { - 1 }$ ，均值为0.072$\mathrm { m g } { \cdot } \mathrm { k g } ^ { - 1 }$ ；土壤As含量为 $4 . 6 1 { \sim } 7 . 2 3 ~ \mathrm { m g { \cdot } k g ^ { - 1 } }$ ，均值为$5 . 9 9 \ \mathrm { \ m g } \cdot \mathbf { k g } ^ { - 1 }$ 。板蓝根产地各元素变异系数在$1 2 . 9 0 \% { \sim } 9 7 . 6 5 \%$ ，元素含量变异强度 $\mathrm { H g { > } P b { > } C d { > } A s }$ 蔚县土壤Cd含量为 $0 . 1 0 { \sim } 0 . 2 2 \ \mathrm { m g { \cdot } k g } ^ { - 1 }$ ，均值为0.12$\mathrm { m g } { \cdot } \mathrm { k g } ^ { - 1 }$ ；土壤 $\mathrm { \sf P b }$ 含量为 $9 . 9 1 { \sim } 3 2 . 1 6 ~ \mathrm { m g { \cdot } k g ^ { - 1 } }$ ，均值为 $1 3 . 3 0 ~ \mathrm { \ m g ^ { \cdot } k g ^ { - 1 } }$ ；土壤 $\mathrm { \nabla \ H g }$ 含量为 $0 . 0 3 8 { \sim } 0 . 2 1 0$ $\mathrm { m g \cdot k g ^ { - 1 } }$ ，均值为 $0 . 0 8 8 \ : \mathrm { \ m g ^ { . } k g ^ { - 1 } }$ ；土壤 As 含量为$6 . 5 2 { \sim } 9 . 8 3 \ \mathrm { \ m g { \cdot } k g ^ { - 1 } }$ ，均值为 $7 . 6 3 ~ \mathrm { \ m g ^ { \cdot } k g ^ { - 1 } }$ 。板蓝根产地各元素变异系数在 $1 1 . 7 0 \% { \sim } 4 7 . 9 7 \%$ ，元素含量变异强度 $\mathrm { H g { > } P b { > } C d { > } A s _ { c } }$ ，由此可见，安国市和蔚县板蓝根产地土壤中重金属Cd、Pb、 $\mathrm { H g }$ 、As含量差异不大，土壤重金属含量的变异系数在$1 1 . 7 0 \% { \sim } 9 7 . 6 5 \%$ 0
+
+以国家《土壤环境质量标准》(GB15618—1995)对板蓝根产地土壤Cd、 $\mathrm { \sf P b }$ 、 $\mathrm { H g } .$ 、As含量加以衡量，安国市30个土壤样品中,2个土壤样品Cd含量分别为 $0 . 2 1 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ 和 $0 . 2 3 \mathrm { \ m g ^ { . } k g ^ { - 1 } }$ ，分别超过一级标准值 $5 . 0 0 \%$ 和 $1 5 . 0 0 \%$ ;2个土壤样品中 $\mathrm { \nabla \ H g }$ 含量分别为$0 . 2 1 7 \ \mathrm { \ m g { \cdot } k g ^ { - 1 } }$ 和 $0 . 3 9 1 \mathrm { \ m g ^ { \cdot } k g ^ { - 1 } }$ ，分别超过一级标准值 $4 4 . 6 7 \%$ 和 $1 6 0 . 0 \%$ ；蔚县22个土壤样品中，1个土壤样品 Cd 含量为 $0 . 2 2 \ \mathrm { \ m g { \cdot } k g ^ { - 1 } }$ ，超过一级标准值$10 . 0 0 \%$ ；2个土壤样品中 $\mathrm { \nabla \ H g }$ 含量分别为0.167$\mathrm { m g \cdot k g ^ { - 1 } }$ 和 $0 . 2 1 0 \ \mathrm { \ m g { \cdot } k g ^ { - 1 } }$ ，分别超过一级标准值$1 1 . 3 3 \%$ 和 $40 . 0 0 \text{‰}$ 安国市和蔚县全部土壤样品Cd、Pb、 $\mathrm { H g }$ 、As含量均低于二级标准。
+
+由此可以看出，板蓝根产地土壤符合2002年颁布实施的《中药材生产质量管理规范(GAP)实施指南》[25]中规定的中药材产地土壤应符合国家土壤质量二级标准。
+
+表1河北安国市和蔚县的板蓝根产地土壤中Cd、Pb、Hg、As含量 'able 1Contents of Cd,Pb, $\mathrm { H g }$ ,As in soils of Isatis indigotica planting areas in Anguo City and Yuxian County of Hebei Province   
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="4">安国市 Anguo City (n=30)</td><td colspan="4">蔚县Yuxian County (n=22)</td></tr><tr><td>Cd</td><td>Pb</td><td>Hg</td><td>As</td><td>Cd</td><td>Pb</td><td>Hg</td><td>As</td></tr><tr><td>范围Range (mg·kg-1)</td><td>0.10~0.23</td><td>12.14~27.86</td><td>0.024~0.391</td><td>4.61~7.23</td><td>0.10~0.22</td><td>9.91~32.16</td><td>0.038~0.210</td><td>6.52~9.83</td></tr><tr><td>平均值 Average (mg:kg-1)</td><td>0.16</td><td>17.13</td><td>0.072</td><td>5.99</td><td>0.12</td><td>13.30</td><td>0.088</td><td>7.63</td></tr><tr><td>标准差 Standard deviation (mg·kg-1)</td><td>0.03</td><td>3.42</td><td>0.07</td><td>0.77</td><td>0.03</td><td>4.45</td><td>0.04</td><td>0.89</td></tr><tr><td>变异系数 Coefficient of variance (%)</td><td>18.03</td><td>19.97</td><td>97.65</td><td>12.90</td><td>20.57</td><td>33.48</td><td>47.97</td><td>11.70</td></tr><tr><td>95.0%置信度 Confidence coefficient 95%</td><td>0.01</td><td>1.28</td><td>0.03</td><td>0.26</td><td>0.01</td><td>2.05</td><td>0.02</td><td>0.41</td></tr><tr><td>一级标准值1) First class standard</td><td>0.2</td><td>35</td><td>0.15</td><td>15</td><td></td><td></td><td></td><td></td></tr><tr><td>Second c二a级标准rd (pH>7.5)</td><td>0.6</td><td>350</td><td>1</td><td>25</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+1)代表国家土壤环境质量标准(GB5618—195)。1)represents theNationalEnvironmentalQuality StandardforSoils(GB56181995).
+
+# 2.1.2 土壤 Cd、Pb、Hg、As 相关性
+
+同一区域相同土壤类型重金属污染物来源途径可以是单一途径，也可以是多途径，而同一来源土壤重金属元素之间通常存在一定相关性，重金属元素间相关性显著和极显著说明元素一般具有同源关系[26]。Pearson 相关性分析结果表明(表 2)，安国市板蓝根产地土壤As与 $\mathrm { \sf P b }$ 相关系数为0.425，达显著正相关 $( P { < } 0 . 0 5 )$ ；蔚县板蓝根产地土壤As与 $\mathrm { \sf P b }$ 相关系数为0.663，达极显著正相关 $( P { < } 0 . 0 5 )$ ；而安国市和蔚县板蓝根产地 $\mathrm { \sf P b }$ 与Cd, $\mathrm { H g }$ 与 $\mathrm { \sf P b }$ 、Cd,As与 $\mathrm { H g } .$ Cd之间则无显著相关性 $( P { > } 0 . 0 5 )$ 。这表明安国市和蔚县板蓝根产地土壤As、Pb的来源存在相似性。
+
+# 2.1.3 河北板蓝根产地土壤Cd、Pb、 $\mathbf { H } \mathbf { g } .$ 、As污染 评价
+
+以国家《土壤环境质量标准》一级标准值与二级标准值来对板蓝根产地土壤Cd、Pb、Hg、As污染进行评价。以国家《土壤环境质量标准》一级标准值作为评价标准，土壤Cd、Pb、Hg、As单项污染指数法和综合污染（内梅罗）指数法评价结果如表3所示。板蓝根产地土壤 $\mathsf { p H }$ 为 $7 . 6 0 { \sim } 8 . 1 0$ ，从不同 Cd、Pb、$\mathrm { H g }$ 、As单项污染指数看，各采样点Cd、Pb、Hg、As污染指数均 $^ { < 1 }$ ，其中安国市B采样点土壤重金属 $\mathrm { H g }$ 污染指数为1.06，达到轻度污染；综合污染指数评价结果来看，其中安国市A、D、G采样点和蔚县I、J、K采样点土壤污染等级均为清洁水平，安国市B、C、E、F采样点和蔚县H采样点的土壤污染等级处于警戒限，占 $45 \%$
+
+表2河北安国市和蔚县的板蓝根产地土壤中Cd、Pb、Hg、As含量相关性 Table 2Correlations among Cd,Pb,Hg,As contents insoils in Isatis indigotica planting areas in Anguo City and Yuxian County ofHebei Province   
+
+<html><body><table><tr><td colspan="2"></td><td>Cd</td><td>Pb</td><td>Hg</td><td>As</td></tr><tr><td>安国市 Anguo City</td><td>Cd</td><td>1.000</td><td></td><td></td><td></td></tr><tr><td>(n=30)</td><td>Pb</td><td>0.032</td><td>1.000</td><td></td><td></td></tr><tr><td rowspan="6">蔚县 Yuxian County (n=22)</td><td>Hg</td><td>-0.265</td><td>-0.042</td><td>1.000</td><td></td></tr><tr><td>As</td><td>-0.161</td><td>0.425*</td><td>0.078</td><td>1.000</td></tr><tr><td>Cd</td><td>1.000</td><td></td><td></td><td></td></tr><tr><td>Pb</td><td>0.009</td><td>1.000</td><td></td><td></td></tr><tr><td>Hg</td><td>0.218</td><td>-0.083</td><td>1.000</td><td></td></tr><tr><td>As</td><td>0.103</td><td>0.663**</td><td>-0.091</td><td>1.000</td></tr></table></body></html>
+
+\*和 $^ { * * }$ 分别表示相关性在0.05和0.01水平显著(2-tailed)。\*and\*\*indicatesignificantcorrelationsat0.05and0.01levels(2-tailed),espec ively.
+
+我国规定中药材GAP种植基地土壤环境条件需要达到二级标准[25]，故以二级标准值作为评价依据，采用土壤重金属单项污染指数法和综合污染(内梅罗)指数法对板蓝根主产区土壤Cd、Pb、 $\mathrm { H g }$ 、As含量状况进行评价，结果如表3所示，各采样点Cd、Pb、Hg、As单项污染指数及综合污染指数均小于0.70，即所有采样点土壤均达到清洁水平，土壤环境质量属安全级，符合中药材GAP认证中产地土壤环境标准。
+
+表3基于《土壤环境质量标准》一级和二级标准值的板蓝根产地不同采样点土壤Cd、Pb、Hg、As单项污染指数(P) 和综合污染指数 Table 3Pollution indexes $( P )$ of Cd,Pb,Hg,As and comprehensive pollution index and pollution level of soil of different sampling sites nIsatisindigoticaplantingareas inAnguoCityandYuxianCountyofHebeiProvicebasedonthestandardvaluesof thefirst and second classes of the National Environmental Quality Standard for Soils (GB 15618-1995)   
+
+<html><body><table><tr><td rowspan="2">产地 Planting area</td><td rowspan="2">采样点 Sampling site</td><td colspan="6">基于一级标准值 Based on the standard value of the first class</td><td colspan="6">基于二级标准值 Based on the standard value of the second class</td></tr><tr><td colspan="4">单项污染指数 Pollution index</td><td rowspan="2">综合污染指数 Comprehensive</td><td rowspan="2">污染程度 Contamination level</td><td colspan="3">单项污染指数 Pollution index</td><td rowspan="2">综合污染指数 PAs pollution index</td><td rowspan="2">Comprehensive Contamination</td><td rowspan="2">污染程度 level</td></tr><tr><td></td><td>Pcd</td><td>PPb</td><td>PHg</td><td>pollution index</td><td>Pcd</td><td>Ppb</td><td>PHg</td></tr><tr><td>安国市 Anguo City</td><td>A</td><td>0.76</td><td>0.57</td><td>0.42</td><td>0.48</td><td>0.67</td><td>清洁Clean</td><td>0.25</td><td>0.06</td><td>0.06</td><td>0.29</td><td>0.24</td><td>清洁Clean</td></tr><tr><td rowspan="8"></td><td>B</td><td>0.70</td><td>0.43</td><td>1.06</td><td>0.38</td><td>0.88</td><td>警戒限 Warning limit</td><td>0.23</td><td>0.04</td><td>0.16</td><td>0.23</td><td>0.20</td><td>清洁Clean</td></tr><tr><td>C</td><td>0.85</td><td>0.46</td><td>0.34</td><td>0.35</td><td>0.70</td><td>警戒限 Warning limit</td><td>0.28</td><td>0.05</td><td>0.05</td><td>0.21</td><td>0.22</td><td>清洁Clean</td></tr><tr><td>D</td><td>0.85</td><td>0.52</td><td>0.24</td><td>0.34</td><td>0.69</td><td>清洁Clean</td><td>0.28</td><td>0.05</td><td>0.04</td><td>0.20</td><td>0.22</td><td>清洁Clean</td></tr><tr><td>E</td><td>0.88</td><td>0.43</td><td>0.28</td><td>0.39</td><td>0.71</td><td>警戒限 Warning limit</td><td>0.29</td><td>0.04</td><td>0.04</td><td>0.24</td><td>0.23</td><td>清洁Clean</td></tr><tr><td>F</td><td>0.86</td><td>0.60</td><td>0.53</td><td>0.44</td><td>0.74</td><td>警戒限 Warning limit</td><td>0.29</td><td>0.06</td><td>0.08</td><td>0.27</td><td>0.24</td><td>清洁Clean</td></tr><tr><td>G</td><td>0.61</td><td>0.36</td><td>0.41</td><td>0.41</td><td>0.53</td><td>清洁Clean</td><td>0.20</td><td>0.04</td><td>0.06</td><td>0.25</td><td>0.20</td><td>清洁Clean</td></tr><tr><td>H</td><td>0.59</td><td>0.32</td><td>0.90</td><td>0.47</td><td>0.75</td><td>警戒限 Warning limit</td><td>0.20</td><td>0.03</td><td>0.14</td><td>0.28</td><td>0.23</td><td>清洁Clean</td></tr><tr><td>I</td><td>0.73</td><td>0.37</td><td>0.54</td><td>0.56</td><td>0.65</td><td>清洁Clean</td><td>0.24</td><td>0.04</td><td>0.08</td><td>0.34</td><td>0.27</td><td>清洁Clean</td></tr><tr><td>J</td><td>0.58</td><td>0.35</td><td>0.40</td><td>0.46</td><td>0.52</td><td>清洁Clean</td><td>0.19</td><td>0.03</td><td></td><td>0.06 0.28</td><td>0.22</td><td></td><td>清洁Clean</td></tr><tr><td>K</td><td></td><td>0.55</td><td>0.51</td><td>0.53</td><td>0.56</td><td>0.55</td><td>清洁Clean</td><td>0.18</td><td>0.05</td><td>0.08</td><td>0.34</td><td>0.27</td><td>清洁Clean</td></tr></table></body></html>
+
+在草药GAP生产中，为了探明在土壤完全符合产地环境标准的情况下草药中重金属含量是否完全符合国家相关质量控制标准，本研究在对板蓝根产地土壤Cd、Pb、Hg、As研究的基础上，进一步分析了生长在不同土壤上的板蓝根和大青叶中Cd、Pb、Hg、As 的含量状况及其对这些元素的富集能力。
+
+# 2.2 菘蓝植株Cd、Pb、 $\mathbf { H } \mathbf { g }$ 、As含量状况及其污染评价
+
+# 2.2.1地上部(大青叶)和地下部(板蓝根)Cd、Pb、
+
+$\mathbf { H } \mathbf { g }$ 、As含量
+
+如表4所示，各采样点大青叶Cd含量为 $0 . 1 0 \sim$ $0 . 3 5 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ ，均值为 $0 . 2 2 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ ；Pb含量为$0 . 5 1 { \sim } 1 . 2 9 \ \mathrm { m g { \cdot } k g } ^ { - 1 }$ ，均值为 $0 . 8 9 \mathrm { \ m g ^ { . } k g ^ { - 1 } }$ ·， $\mathrm { \nabla \ H g }$ 含量为 $0 . 0 2 0 { \sim } 0 . 0 7 3 ~ \mathrm { m g { \cdot } k g ^ { - 1 } }$ ，均值为 $0 . 0 4 \ \mathrm { \ m g { \cdot } k g ^ { - 1 } }$ ；As含量为 $0 . 2 0 { \sim } 0 . 4 1 \ \mathrm { m g ^ { \cdot } k g ^ { - 1 } }$ ，均值为 $0 . 2 5 \mathrm { \ m g ^ { . } k g ^ { - 1 } }$ 。板蓝根各元素变异系数在 $3 2 . 2 8 \% { \sim } 7 4 . 6 0 \%$ ，其中$\mathrm { H g }$ 含量变异最大为 $7 4 . 6 0 \%$ ，其他元素含量变异强
+
+度均在 $40 \%$ 以下。
+
+根据我国《药用植物及制剂进口绿色行业标准》[24]中对 $\mathrm { C d }$ 、 $\mathrm { \sf P b }$ 、 $\mathrm { H g }$ 、As的规定 $( \mathrm { C d } \leq 0 . 3 \ \mathrm { m g } { \cdot } \mathrm { k g } ^ { - 1 }$ ，$\mathrm { P b } \leq 5 . 0 \ \mathrm { m g } { \cdot } \mathrm { k g } ^ { - 1 }$ ， $\mathrm { H g } \leq 0 . 2 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ ， $\mathrm { A s } \leq 2 . 0 \ \mathrm { m g ^ { . } k g ^ { - 1 } } )$ ，只有安国市G采样点大青叶中Cd含量为 $0 . 3 5 \mathrm { m g } { \cdot } \mathrm { k g } ^ { - 1 }$ 超过规定中Cd的限量值 $1 6 . 6 7 \%$ ，其余样品Cd含量均未超过规定中限量值。
+
+从表4可知，各采样点板蓝根Cd含量为 $0 . 0 4 \sim$ $0 . 2 3 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ ，均值为 $0 . 1 4 ~ \mathrm { m g ^ { \cdot } k g ^ { - 1 } }$ ·， $\mathrm { \sf P b }$ 含量为 $0 . 4 4 \sim$ $0 . 7 7 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ ，均值为 $0 . 5 7 ~ \mathrm { m g ^ { \cdot } k g ^ { - 1 } }$ ：， $\mathrm { H g }$ 含量为 $0 . 0 1 0 \sim$ $0 . 0 8 3 ~ \mathrm { m g ^ { - 1 } { k g } ^ { - 1 } }$ ，均值为 $0 . 0 4 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ ；As含量为 $0 . 1 8 \sim$ $0 . 3 6 \mathrm { m g ^ { . } k g ^ { - 1 } }$ ，均值为 $0 . 2 6 \mathrm { m g ^ { . } k g ^ { - 1 } }$ 。板蓝根地下部各元素变异系数在 $3 7 . 5 2 \% { \sim } 1 2 1 . 1 7 \%$ ，元素含量变异强度$\mathrm { H g { > } C d { > } A s } \approx \mathrm { P b } _ { \mathrm { c } }$
+
+全部采样点板蓝根地下部样品 Cd、Pb、 $\mathrm { H g }$ As含量均未超过我国《药用植物及制剂进口绿色行业标准》[24]中的限量值。
+
+表4板蓝根产地不同采样点菘蓝地上部(大青叶)和根部(板蓝根)的Cd、Pb、 $\mathbf { H } \mathbf { g }$ 、As含量(干重) Table4ConcentrationsofCd,Pb,Hg,AsinootsandrootsofIsatisindigoticaindierentsamplingsitesofplantingareain Anguo City and Yuxian County of Hebei Province $\mathrm { m g \cdot k g ^ { - 1 } }$   
+
+<html><body><table><tr><td rowspan="2">产地 Planting area</td><td rowspan="2">采样点 Sampling site</td><td colspan="4">地上部 Shoot</td><td colspan="4">根部 Root</td></tr><tr><td>Cd</td><td>Pb</td><td>Hg</td><td>As</td><td>Cd</td><td>Pb</td><td>Hg</td><td>As</td></tr><tr><td>安国市 Anguo City</td><td>A</td><td></td><td></td><td>0.23±0.02b 1.07±0.08abc 0.020±0.004b</td><td>0.28±0.04b</td><td>0.23±0.02a 0.70±0.04abc</td><td></td><td>0.010±0.003b</td><td>0.29±0.03abc</td></tr><tr><td></td><td>B</td><td></td><td></td><td>0.19±0.01b 1.07±0.03abc 0.047±0.004ab</td><td>0.28±0.01b</td><td>0.20±0.01ab 0.77±0.10a</td><td></td><td>0.083±0.023a</td><td>0.34±0.04ab</td></tr><tr><td></td><td>C</td><td></td><td></td><td>0.24±0.01b 0.78±0.07cd 0.033±0.004ab</td><td>0.21±0.02b</td><td></td><td>0.19±0.01ab 0.44±0.07cd</td><td>0.050±0.012ab</td><td>0.19±0.02c</td></tr><tr><td></td><td>D</td><td></td><td></td><td>0.20±0.02b 0.89±0.12bc 0.027±0.005ab</td><td>0.25±0.01b</td><td>0.14±0.01bc 0.46±0.06cd</td><td></td><td>0.004±0.002b</td><td>0.18±0.01c</td></tr><tr><td></td><td>E</td><td></td><td></td><td>0.18±0.03b 1.17±0.24ab 0.033±0.007ab</td><td>0.20±0.03b</td><td>0.20±0.04ab 0.57±0.04abcd 0.082±0.039a</td><td></td><td></td><td>0.30±0.02abc</td></tr><tr><td></td><td>F</td><td></td><td></td><td>0.24±0.03b 1.10±0.11abc 0.073±0.013a</td><td>0.24±0.04b</td><td>0.18±0.02ab 0.48±0.04bcd 0.082±0.026a</td><td></td><td></td><td>0.22±0.02bc</td></tr><tr><td>蔚县</td><td>G</td><td></td><td></td><td>0.35±0.01a 0.81±0.03cd 0.055±0.005ab</td><td>0.20±0.00b</td><td>0.09±0.05cd 0.76±0.00 a</td><td></td><td>0.016±0.004b</td><td>0.34±0.05ab</td></tr><tr><td>Yuxian County</td><td>H</td><td>0.23±0.02b 0.54±0.05d</td><td></td><td>0.032±0.005ab</td><td>0.21±0.02b</td><td>0.10±0.02cd 0.46±0.07cd</td><td></td><td>0.020±0.002b</td><td>0.25±0.05abc</td></tr><tr><td></td><td>I</td><td>0.25±0.03b 0.55±0.06d</td><td></td><td>0.072±0.037a</td><td>0.28±0.03b</td><td>0.09±0.01cd 0.44±0.04cd</td><td></td><td>0.016±0.003b</td><td>0.23±0.02abc</td></tr><tr><td></td><td>J</td><td>0.26±0.03b</td><td>0.51±0.04d</td><td>0.032±0.006ab</td><td>0.21±0.03b</td><td>0.09±0.02cd 0.40±0.06d</td><td></td><td>0.011±0.003b</td><td>0.18±0.02c</td></tr><tr><td></td><td>K</td><td>0.10±0.01c</td><td>1.29±0.08a</td><td>0.040±0.004ab</td><td>0.41±0.04a</td><td>0.04±0.01d 0.73±0.16ab</td><td></td><td>0.025±0.008ab</td><td>0.36±0.08a</td></tr><tr><td>平均值 Average</td><td></td><td>0.22</td><td>0.89</td><td>0.04</td><td>0.25</td><td>0.14</td><td>0.57</td><td>0.04</td><td>0.26</td></tr><tr><td>变异系数 Coefficient of variance (%)</td><td></td><td>32.58</td><td>39.22</td><td>74.60</td><td>32.28</td><td>51.45</td><td>37.52</td><td>121.17</td><td>38.72</td></tr></table></body></html>
+
+同列不同小写字母表示不同采样点间O.05水平差异显著Diferent lowercase letersithesamecolum indicatesignificant diferencesamongsampling sites at 0.05 level.
+
+# 2.2.2 板蓝根 Cd、Pb、Hg、As 污染评价
+
+从整体上看，依据我国《药用植物及制剂进口绿色行业标准》[24]中的限量值，各采样点板蓝根和大青叶 Cd、Pb、 $\mathrm { H g }$ 、As污染情况如表5所示，大青叶Cd、Pb、 $\mathrm { H g }$ 、As平均污染指数为 $\mathrm { C d { > } H g { > } P b { > } A s }$ 板蓝根 Cd、Pb、 $\mathrm { H g }$ 、As平均污染指数为$\mathrm { C d { > } H g { > } A s { > } P b }$ 。只有安国市G采样点大青叶的Cd污染指数为 $1 . 1 8 { > } 1$ ，说明该区域大青叶存在轻度Cd污染。其余采样点板蓝根和大青叶的 Cd、 $\mathrm { \sf P b }$ 、 $\mathrm { H g } .$ As污染指数均小于1，没有受到污染。大青叶和板蓝根各元素污染指数变异系数在 $2 5 . 0 0 \% { \sim } 8 7 . 5 4 \%$ 其 $\mathrm { H g }$ 含量变化较大，这可能和 $\mathrm { H g }$ 本身活跃的性质有关。
+
+2.3菘蓝对 Cd、Pb、 $\mathbf { H } \mathbf { g } .$ 、As富集及转运特征2.3.1 对 Cd、Pb、 $\mathbf { H } \mathbf { g }$ 、As富集特征各采样点板蓝根和大青叶对 Cd、 $\mathrm { \sf P b }$ 、 $\mathrm { H g }$ 、As的富集情况如表6所示，地上部(大青叶)平均富集系数为 $\mathrm { C d } { > } \mathrm { H g } { > } \mathrm { P b } { > } \mathrm { A s }$ ，地下部(板蓝根)平均富集系数为 $\mathrm { C d { > } H g { > } A s { > } P b }$ ；各采样点板蓝根和大青叶的Pb和As富集系数均小于0.08，这说明该草药对Pb和As两种重金属元素的富集能力较弱。安国市E、F采样点板蓝根 $\mathrm { \nabla \ H g }$ 的富集系数分别为1.981和1.037,其余各采样点板蓝根和大青叶的 $\mathrm { H g }$ 富集系数大部分小于1。大青叶和板蓝根各元素变异系数在$1 9 . 1 6 \% { \sim } 1 0 7 . 9 2 \%$ ，大青叶和板蓝根元素富集系数变异强度最大的仍为 $\mathrm { H g }$ ，而对 Cd 的富集能力最大;因此，在板蓝根中草药种植区，对于土壤中Cd含量的要求应更为严格。
+
+表5板蓝根产地不同采样点菘蓝地上部(大青叶)和根部(板蓝根)Cd、Pb、Hg、As 污染指数 Table 5PolutionindexesofCd,PbHg,AsinotsandsootsofIsatis indigoticaindierentsamplingsitsofplantingareas in Anguo City and Yuxian County of Hebei Province   
+
+<html><body><table><tr><td rowspan="2">产地 Planting area</td><td rowspan="2">采样点 Sampling site</td><td colspan="2">Cd</td><td colspan="2">Pb</td><td colspan="2">Hg</td><td colspan="2">As</td></tr><tr><td>地上部 Shoots</td><td>地下部 Roots</td><td>地上部 Shoots</td><td>地下部 Roots</td><td>地上部 Shoots</td><td>地下部 Roots</td><td>地上部 Shoots</td><td>地下部 Roots</td></tr><tr><td>安国市</td><td>A</td><td>0.76</td><td>0.78</td><td>0.21</td><td>0.14</td><td>0.10</td><td>0.05</td><td>0.14</td><td>0.15</td></tr><tr><td>Anguo City</td><td>B</td><td>0.63</td><td>0.66</td><td>0.21</td><td>0.15</td><td>0.24</td><td>0.41</td><td>0.14</td><td>0.17</td></tr><tr><td rowspan="10"></td><td>C</td><td>0.80</td><td>0.62</td><td>0.16</td><td>0.09</td><td>0.17</td><td>0.25</td><td>0.10</td><td>0.09</td></tr><tr><td>D</td><td>0.66</td><td>0.46</td><td>0.18</td><td>0.09</td><td>0.13</td><td>0.02</td><td>0.12</td><td>0.09</td></tr><tr><td>E</td><td>0.60</td><td>0.66</td><td>0.23</td><td>0.11</td><td>0.16</td><td>0.41</td><td>0.10</td><td>0.15</td></tr><tr><td>F</td><td>0.80</td><td>0.61</td><td>0.22</td><td>0.10</td><td>0.37</td><td>0.41</td><td>0.12</td><td>0.11</td></tr><tr><td>G</td><td>1.18</td><td>0.31</td><td>0.16</td><td>0.15</td><td>0.27</td><td>0.08</td><td>0.10</td><td>0.17</td></tr><tr><td>H</td><td>0.78</td><td>0.33</td><td>0.11</td><td>0.09</td><td>0.16</td><td>0.10</td><td>0.11</td><td>0.12</td></tr><tr><td>I</td><td>0.84</td><td>0.30</td><td>0.11</td><td>0.09</td><td>0.36</td><td>0.08</td><td>0.14</td><td>0.11</td></tr><tr><td>J</td><td>0.87</td><td>0.29</td><td>0.10</td><td>0.08</td><td>0.16</td><td>0.05</td><td>0.11</td><td>0.09</td></tr><tr><td>K</td><td>0.34</td><td>0.14</td><td>0.26</td><td>0.15</td><td>0.20</td><td>0.13</td><td>0.21</td><td>0.18</td></tr><tr><td>平均值 Average</td><td>0.75</td><td>0.47</td><td>0.18</td><td>0.11</td><td>0.21</td><td>0.18</td><td>0.13</td><td>0.13</td></tr><tr><td colspan="2">变异系数 Coefficient of variance (%)</td><td>27.62</td><td>43.90</td><td>30.67</td><td>25.95</td><td>42.28</td><td>87.54</td><td>25.00</td><td>26.00</td></tr></table></body></html>
+
+表6板蓝根产地不同采样点菘蓝地上部(大青叶)和根部(板蓝根)Cd、Pb、 $\mathbf { H } \mathbf { g }$ 、As的富集系数 Table6EnrichmentcoeficientsofCd,Pb,Hg,AsinrootsandsootsofIsatis indigoticindiferentsamplingsitesofplanting areas in Anguo City and Yuxian County of Hebei Province   
+
+<html><body><table><tr><td rowspan="2">产地 Planting area</td><td rowspan="2">采样点 Sampling site</td><td colspan="2">Cd</td><td colspan="2">Pb</td><td colspan="2">Hg</td><td colspan="2">As</td></tr><tr><td>地上部 Shoots</td><td>地下部 Roots</td><td>地上部 Shoots</td><td>地下部</td><td>地上部 Shoots</td><td>地下部</td><td>地上部</td><td>地下部</td></tr><tr><td>安国市</td><td>A</td><td>1.493</td><td>1.541</td><td>0.053</td><td>Roots 0.035</td><td>0.321</td><td>Roots 0.158</td><td>Shoots 0.039</td><td>Roots 0.041</td></tr><tr><td>Anguo City</td><td>B</td><td>1.350</td><td>1.412</td><td>0.071</td><td>0.051</td><td>0.297</td><td>0.519</td><td>0.048</td><td>0.059</td></tr><tr><td rowspan="10"></td><td>C</td><td>1.407</td><td>1.093</td><td>0.049</td><td>0.027</td><td>0.652</td><td>0.982</td><td>0.039</td><td>0.036</td></tr><tr><td>D</td><td>1.156</td><td>0.803</td><td>0.049</td><td>0.025</td><td>0.754</td><td>0.126</td><td>0.049</td><td>0.036</td></tr><tr><td>E</td><td>1.012</td><td>1.128</td><td>0.078</td><td>0.038</td><td>0.795</td><td>1.981</td><td>0.034</td><td>0.050</td></tr><tr><td>F</td><td>1.386</td><td>1.056</td><td>0.053</td><td>0.023</td><td>0.929</td><td>1.037</td><td>0.036</td><td>0.030</td></tr><tr><td>G</td><td>2.903</td><td>0.773</td><td>0.063</td><td>0.060</td><td>0.902</td><td>0.259</td><td>0.033</td><td>0.056</td></tr><tr><td>H</td><td>1.971</td><td>0.841</td><td>0.049</td><td>0.042</td><td>0.237</td><td>0.149</td><td>0.030</td><td>0.035</td></tr><tr><td>I</td><td>1.727</td><td>0.617</td><td>0.043</td><td>0.034</td><td>0.897</td><td>0.198</td><td>0.034</td><td>0.027</td></tr><tr><td>J</td><td>2.260</td><td>0.763</td><td>0.042</td><td>0.033</td><td>0.530</td><td>0.181</td><td>0.030</td><td>0.026</td></tr><tr><td>K</td><td>0.920</td><td>0.380</td><td>0.073</td><td>0.014</td><td>0.503</td><td>0.320</td><td>0.049</td><td>0.043</td></tr><tr><td>平均值 Average</td><td>1.599</td><td>0.946</td><td>0.057</td><td>0.037</td><td>0.620</td><td>0.537</td><td>0.038</td><td>0.040</td></tr><tr><td colspan="2">变异系数 Coefficient of variance (%)</td><td>36.75</td><td>36.03</td><td>22.05</td><td>29.81</td><td>41.58</td><td>107.92</td><td>19.16</td><td>27.37</td></tr></table></body></html>
+
+# 2.3.2 对Cd、Pb、Hg、As 转运特征
+
+菘蓝对Cd、Pb、Hg、As由地下部到地上部的转运系数如表7所示，对Cd、Pb、 $\mathrm { H g }$ 、As平均转运系数分别为1.92、1.59、2.24、1.00，转运能力高低顺序为 $\mathrm { H g { > } C d { > } P b { > } A s , }$ 。其中安国市G采样点菘蓝对Cd的转运系数最大，为3.75；安国市D采样点菘蓝对
+
+Hg的转运系数最大为5.97，是菘蓝对这4种重金属转运系数最大的一个产地。各元素变异系数在$2 4 . 2 5 \% { \sim } 8 0 . 5 6 \%$ ，各元素转运系数变异强度$\mathrm { H g { > } C d { > } P b { > } A s _ { \circ } }$ （20
+
+表7板蓝根产地不同采样点菘蓝对Cd、Pb、Hg、As 的转运系数 Table 7Biological transfer coefficients of Cd,Pb,Hg,As of Isatisindigotica in different sampling sites of planting areas in Anguo City and Yuxian County of Hebei Province   
+
+<html><body><table><tr><td>产地 Plant area</td><td>采样点 Samplingsite</td><td>Cd</td><td>Pb</td><td>Hg</td><td>As</td></tr><tr><td>安国市</td><td>A</td><td>0.97</td><td>1.53</td><td>2.02</td><td>0.96</td></tr><tr><td>Anguo City</td><td>B</td><td>0.96</td><td>1.38</td><td>0.57</td><td>0.82</td></tr><tr><td rowspan="9">蔚县 Yuxian County</td><td>C</td><td>1.29</td><td>1.79</td><td>0.66</td><td>1.10</td></tr><tr><td>D</td><td>1.44</td><td>1.94</td><td>5.97</td><td>1.37</td></tr><tr><td>E</td><td>0.90</td><td>2.05</td><td>0.40</td><td>0.67</td></tr><tr><td>F</td><td>1.31</td><td>2.32</td><td>0.90</td><td>1.07</td></tr><tr><td>G</td><td>3.75</td><td>1.06</td><td>3.49</td><td>0.59</td></tr><tr><td>H</td><td>2.34</td><td>1.17</td><td>1.60</td><td>0.86</td></tr><tr><td>I</td><td>2.80</td><td>1.25</td><td>4.53</td><td>1.23</td></tr><tr><td>J</td><td>2.96</td><td>1.27</td><td>2.92</td><td>1.19</td></tr><tr><td>K</td><td>2.42</td><td>1.77</td><td>1.57</td><td>1.16</td></tr><tr><td>平均值Average</td><td></td><td>1.92</td><td>1.59</td><td>2.24</td><td>1.00</td></tr><tr><td colspan="2">变异系数 Coefficient of variance (%)</td><td>50.81</td><td>25.60</td><td>80.56</td><td>24.25</td></tr></table></body></html>
+
+# 3讨论
+
+本研究中，河北省安国市和蔚县板蓝根产地土壤中重金属Cd、 $\mathrm { \sf P b }$ ！ $\operatorname { H g } .$ 、As含量差异不大，土壤重金属含量的变异系数在 $1 1 . 7 0 \% { \sim } 9 7 . 6 5 \%$ 。而秦樊鑫等[17]报道的贵州省11个地道中药材GAP基地土壤中的Cd、Pb、Hg、As、 $\mathtt { C u }$ 重金属含量水平差异很大，土壤重金属含量的变异系数 $6 . 6 \% \sim 7 0 . 4 \\\\% _ { \circ }$ 由此可见，虽然不同地区土壤中重金属含量变化差异不同，但是都存在变异性，且变异的程度不同，这是由于地域性所导致。以国家《土壤环境质量标准》二级标准值评价，板蓝根产地全部土壤样品Cd、Pb、 $\mathrm { H g }$ 、As含量均低于二级标准，其单项污染指数及综合污染指数均$< 0 . 7$ ，土壤环境清洁；然而以《土壤环境质量标准》一级标准值衡量， $9 . 0 9 \%$ 采样点土壤 $\mathrm { H g }$ 含量超过一级标准，属轻度污染，且综合污染指数评价结果显示 $45 \%$ 板蓝根种植区土壤Cd、Pb、 $\mathrm { H g }$ 、As污染等级为警戒级，其他尚处于清洁水平。两种评价标准有不同的侧重：二级标准可被视为警示值，即土壤重金属含量若超过此标准很可能造成污染；而以一级标准得到的评价结果反映了外源输入重金属在土壤中的富集状况。但也有学者认为，相对于我国土壤类型多样、土壤条件复杂，二级标准过于笼统，对以二级标准评价种植土壤是否能保证草药质量安全提出质疑[27]。因此，中草药GAP种植基地土壤中重金属含量安全限值标准的修订应该根据地理位置、土壤特性和温度等环境条件的不同而进行相应调整，深入开展草药安全性的系统研究。
+
+对于菘蓝地上部(大青叶)和地下部(板蓝根)中Cd、Pb、Hg、As含量而言，除某些采样点大青叶Cd含量超标外，其余板蓝根样品的药材均符合绿色行标要求。对于超标的大青叶，相应采集的土壤和地下部重金属含量均未超标，这说明某些采样点大青叶Cd超标原因可能是由于施肥、灌溉、大气沉降和雾霾等因素的影响，还有待进一步验证。韩小丽等[4]报道中草药桔梗中Cd、Pb、 $\mathrm { H g }$ 、As都存在超标问题；褚卓栋等8报道一些中草药中除As不超标外，Cd、Pb、 $\mathrm { H g }$ 也存在超标现象，这说明中草药重金属超标问题较为普遍。因此，应针对不同产地、不同种类的草药重金属超标问题展开进一步的研究。
+
+值得注意的是，目前对中草药种植区土壤重金属含量的评价一般采用国家《土壤环境质量标准》为依据，并未考虑到不同草药对土壤重金属吸收、转运能力存在的差异。本研究中对板蓝根和大青叶Cd的平均富集系数最大，富集系数分别为1.599和0.946；对Pb和As富集系数均小于0.1。而李生彬等[28]研究甘肃定西地区板蓝根、甘草、黄芪、柴胡和当归对土壤中Pb元素的生物迁移作用，结果表明这些中草药中板蓝根对Pb的富集作用最强，当归对Pb的富集作用最弱，但富集系数均 ${ \leqslant } 0 . 2 .$ 。褚卓栋等[8]对不同中草药中重金属的研究表明，紫苑、知母对Cd，白北沙参等对 $\mathrm { H g }$ 具有较高富集能力。陈璐等[29]研究了三七中As、 $\mathrm { \sf P b }$ 、Cd、Hg、 $\mathrm { C r }$ 富集系数都小于1。刘冬莲[30采用电感耦合等离子体原子发射光谱法测定了野生中药材扁蕾、秦芃、红景天、绿绒蒿、龙胆花中Cd、Pb、Fe、Mn、Cu、Zn 这6种重金属元素，结果表明这5种中草药对Cd的富集系数为$0 . 0 1 { \sim } 0 . 0 8$ ，明显低于板蓝根产地对Cd的富集能力。因此，中草药对不同重金属的富集作用不仅受植物和重金属自身特性的影响，还受多种外界环境条件的影响。
+
+因此，为了确保板蓝根和大青叶质量安全性，首先确保板蓝根种植区的土壤、大气和灌溉水应符合相应的国家标准，其次应严格控制外源重金属进入板蓝根草药种植区土壤，如控制肥料和农药的用量，减少工业污染排放的影响，最后应避免在板蓝根药材后期的贮存、加工炮制、运输等处理过程中重金属的污染，从而全程控制草药板蓝根和大青叶中重金属的含量，开发绿色中草药产品。
+
+# 4结论
+
+1)安国市和蔚县板蓝根产地土壤中重金属Cd、Pb、 $\mathrm { H g }$ 、As含量差异不大，土壤重金属含量的变异系数在 $1 1 . 7 0 \% { \sim } 9 7 . 6 5 \%$ ，以《土壤环境质量标准》(GB15618—1995)一级标准值进行评价，综合污染指数评价结果显示 $45 \%$ 板蓝根种植区土壤Cd、Pb、Hg、As污染等级为警戒限，其他处于清洁水平；而以《土壤环境质量标准》二级标准值进行评价，种植区单项污染指数及综合污染指数结果均 $< 0 . 7$ ，土壤环境清洁。
+
+2)菘蓝地上部大青叶 Cd、Pb、 $\mathrm { H g }$ 、As平均含量分别为 $0 . 2 2 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ 、 $0 . 8 9 \mathrm { m g } { \cdot } \mathrm { k g } ^ { - 1 }$ 、 $0 . 0 4 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ 、$0 . 2 5 ~ \mathrm { \ m g ^ { . } k g ^ { - 1 } }$ ，对重金属的富集能力表现为 $\mathrm { C d } >$ $\mathrm { H g > P b > A s }$ ；地下部板蓝根Cd、Pb、 $\mathrm { H g }$ 、As含量均值分别为 $0 . 1 4 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ 、 $0 . 5 7 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ 、 $0 . 0 4 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ 、$0 . 2 6 ~ \mathrm { \ m g ^ { . } k g ^ { - 1 } }$ ，对重金属的富集能力表现为 $\mathrm { C d } >$ $\mathrm { H g { > } A s { > } P b _ { \circ } }$
+
+3)所有大青叶和板蓝根样品中 $\mathrm { \bf { P b } }$ 、Hg、As含量均未超出《药用植物及制剂进口绿色行业标准》(WM2—2001)，大青叶 $9 . 0 9 \%$ 样品中Cd超标且Cd平均污染指数 ${ > } 0 . 7$ ，属警戒限污染等级。
+
+# 参考文献References
+
+[1]陈怀满，郑春荣，周东美，等．土壤中化学物质的行为与环 境质量[M]．北京：科学出版社,2002:46-48 ChenHM,Zheng CR,Zhou DM,et al.The Behavior of the Chemicals in the Soil and Environmental Quality[M]. Beijing: Science Press,2002:46-48   
+[2]Williams P N,Islam MR,Adomako E E,et al.Increase in rice grain arsenic for regions ofBangladesh irrigatingpaddies with elevated arsenic in groundwaters[J].Environmental Science & Technology,2006,40(16):4903-4908   
+[3]Khan NI,Bruce D,Naidu R,et al.Implementation of food frequency questionnaire for the assessment of total dietary arsenic intake in Bangladesh:PartB,preliminary findings[J]. Environmental Geochemistry and Health，20o9，31(S1): 221-238   
+[4]韩小丽，张小波，郭兰萍，等．中药材重金属污染现状的统 计分析[J]．中国中药杂志,2008,33(18):2041-2048 HanXL,Zhang X B,Guo LP,et al.Statistical analysis of residues of heavy metals in Chinese crude drugs[J].China Journal of Chinese Materia Medica,2008,33(18):2041-2048   
+[5]冯云霞，朱旭，张介眉．100 种常用药材重金属残留状况探 析[J]．中国药师,2014,17(10):1696-1697 FengYX,Zhu X,ZhangJM.Study on heavy metal residues Zheng Y，WeiC X.Contents ot heavy metals in solls tor ChineseherbalbasesinGuizhou[J].Journalof Agro-Environment Science,2006,25(S): 570-574   
+[7]李腾．中草药重金属元素来源分析及控制对策[J]．现代农 业科技,2015,(9):116-117 Li T. Chinese herbal medicine source of heavy metal element analysis and control countermeasures[J]. Modern Agricultural Science and Technology,2015,(9):116-117   
+[8]褚卓栋，刘文菊，肖亚兵，等．中草药种植区土壤及草药中 重金属含量状况及评价[J]．环境科学，2010，31(6): 1600-1607 Chu Z D,Liu W J, Xiao Y B,et al. Survey and assessment of heavy metals in soils and herbal medicines from Chinese herbal medicine cultivated regions[J]. Environmental Science, 2010,31(6): 1600-1607   
+[9]吴琼，赵同科，邹国元，等．北京东南郊农田土壤重金属含 量与环境质量评价[J]．中国土壤与肥料,2016,(1):7-12 Wu Q,Zhao T K, Zou G Y,et al. Heavy metals contents and environment quality evaluation of farmland soil in east-south area of Beijing[J]. Soil and Fertilizer Sciences in China,2016, (1): 7-12   
+[10]吴洋，杨军，周小勇，等．广西都安县耕地土壤重金属污染 风险评价[J]．环境科学,2015,36(8):2964-2971 Wu Y,Yang J, Zhou X Y, et al. Risk assessment of heavy metal contamination in farmland soil in Du'an Autonomous County of Guangxi Zhuang Autonomous Region,China[J]. Environmental Science,2015,36(8):2964-2971   
+[11]姚娜，彭昆国，刘足根，等．石家庄北郊土壤重金属分布特 征及风险评价[J]．农业环境科学学报,2014,33(2):313-321 Yao N,Peng K G,Liu Z G,et al. Distribution and risk assessment of soil heavy metals in the north suburb of Shijiazhuang City[J]. Journal of Agro-Environment Science,2014, 33(2): 313-321   
+[12]井永苹，李彦，薄录吉，等．不同种植年限设施菜地土壤养 分、重金属含量变化及主导污染因子解析[J]．山东农业科 学,2016,48(4): 66-71 Jing Y P,Li Y,Bo L J,et al. Variation of soil nutrient and heavy metal accumulation in greenhouse soil with cultivation years and analysis on main pollution factors[J]. Shandong Agricultural Sciences,2016,48(4): 66-71   
+[13] 索琳娜，刘宝存，赵同科，等．北京市菜地土壤重金属现状 分析与评价[J]．农业工程学报,2016,32(9):179-186 Suo L N,Liu B C, Zhao T K,et al. Evaluation and analysis of heavy metals in vegetable field of Beijing[J]. Transactions of the Chinese Society of Agricultural Engineering,2016,32(9): 179-186   
+[14]陈碧华，杨和连，周俊国，等．大棚菜田种植年限对土壤重 金属含量及酶活性的影响[J]．农业工程学报，2012，28(1): 213-218 Chen B H, Yang H L, Zhou J G,et al. Effect of cultivating years of vegetable field on soil heavy metal content and enzyme activity in plastic shed[J].Transactions of the CSAE, 2012,28(1): 213-218   
+[15]庞文品，秦樊鑫，吕亚超，等．贵州兴仁煤矿区农田土壤重 金属化学形态及风险评估[J]．应用生态学报，2016，27(5): 1468-1478 Pang W P,Qin F X,Lü Y C,et al. Chemical speciations of heavy metals and their risk assessment in agricultural soils in a coal mining area from Xingren County,Guizhou Province, China[J]. Chinese Journal of Applied Ecology,2016,27(5): 1468-1478   
+[16]刘硕，吴泉源，曹学江，等．龙口煤矿区土壤重金属污染评 价与空间分布特征[J]．环境科学,2016,37(1):270-279 Liu S,Wu Q Y, Cao X J, et al. Pollution assessment and spatial distribution characteristics of heavy metals in soils of coal mining area in Longkou City[J].Environmental Science,2016, 37(1): 270-279   
+[17] 秦樊鑫，张明时，张丹，等．贵州省地道药材GAP 基地土 壤重金属含量及污染评价[J]．土壤,2008,40(1):135-140 Qin FX,Zhang MS,Zhang D,et al. Heavy metal contents and pollution evaluation of soils in Chinese medicinal herbs GAP bases in Guizhou Province[J]. Soils,2008,40(1): 135-140   
+[18]王韶娟，李莉，赵晓松．防风种植基地土壤环境质量评价[J]. 农业环境科学学报,2008,27(1):254-259 Wang S J, Li L, Zhao X S. Evaluation of soil environmental quality of the planting bases of saposhnikovia[J]. Journal of Agro-Environment Science,2008,27(1): 254-259   
+[19]柳晓娟，刘文菊，林爱军，等．中草药砷含量特征及其健康 风险初步评价[J]．环境科学,2010,31(12):3036-3042 Liu XJ,Liu WJ,Lin AJ,et al. Survey of arsenic concentrations in Chinese herbal medicines (CHMs) and preliminary risk assessment of As in CHMs on human health[J]. Environmental Science,2010,31(12): 3036-3042   
+[20]王莹，赵全利，胡莹，等．上虞某铅锌矿区周边土壤植物重 金属含量及其污染评价[J]．环境化学，2011，30(7): 1354-1360 Wang Y, Zhao Q L, Hu Y,et al. Survey and contamination assessment of heavy metals in soil and plants around the $\mathbf { { P b } } / Z \mathbf { { n } }$ mine in Shangyu, Zhejiang Province[J]. Environmental Chemistry,2011,30(7):1354-1360   
+[21]国家环境保护总局 HJ/T 166—2004土壤环境监测技术规范[S]. 北京：中国环境科学出版社,2004 National Environmental Protection Agency.HJ/T 166—2004 Technical specification for soil environmental monitoring[S]. Beijing: China Environmental Science Press,2004   
+[22]中国环境监测总站．中国土壤元素背景值[M].北京：中国 环境科学出版社,1990 China National Environmental Monitoring Centre. China's Background Value of Soil Elements[M]. Beijing: China Environmental Science Press,1990   
+[23]国家环境保护局，国家技术监督局.GB15618—1995土壤 环境质量标准[S]．北京：中国标准出版社,2006 National Environmental Protection Agency, State Bureau of Quality and Technical Supervision.GB 15618—1995 Environmental Quality Standard Soils[S]. Beijing: China Standard Press,2006   
+[24]中华人民共和国对外贸易经济合作部．WM2一2001药用 植物及制剂进出口绿色行业标准[S].北京：中国标准出版 社,2001 Ministry of Foreign Trade and Economic Cooperation.WM2- 2001 Green Trade Standards of Importing-exporting Medicinal Plants Preparations[S].Beijing: China Standard Press,2001   
+[25]任德权，周荣汉．中药材生产质量管理规范(GAP)实施指 南[M]．北京：中国农业出版社,2003 Ren D Q,Zhou R H.Good Agricultural Practice for Chinese Crude Drugs[M].Beijing: China Agriculture Press,2003   
+[26] 秦鱼生，喻华，冯文强，等．成都平原北部水稻土重金属含 量状况及其潜在生态风险评价[J]．生态学报,2013,33(19): 6335-6344 Qin Y S,Yu H,Feng W Q,et al.Assessment on heavy metal pollution status in paddy soils in the northern Chengdu Plain and their potential ecological risk[J].Acta Ecologica Sinica, 2013,33(19): 6335-6344   
+[27] Mandal B K, Suzuki K T.Arsenic round the world: A review[J]. Talanta,2002,58(1): 201-235   
+[28]李生彬，蒲艳玲，苗金廷，等．土壤中铅元素在中草药中的 生物迁移[J]．兰州交通大学学报：自然科学版,2005,24(6): 72-74 Li S B,Pu Y L,Miao J T,et al. Biological mobility of Pb from soil to Chinese traditional herbs[J]. Journal of Lanzhou Jiaotong University: Natural Sciences,2005,24(6): 72-74   
+[29]陈璐，米艳华，林昕，等．土壤-三七系统重金属污染调查 及相关分析[J]．中国中药杂志,2014,39(14):2608-2613 Chen L,Mi Y H, Lin X, et al. Investigation and analysis of heavy metal polution related to soil-Panax notoginseng system[J]. China Journal of Chinese Materia Medica,2014, 39(14): 2608-2613   
+[30] 刘冬莲．中草药及其生长土壤中6 种重金属元素含量相关 性初探[J]．理化检验-化学分册,2010,46(7):789-792 Liu D L.Preliminary exploration on correlationship between the contents of 6 heavy metal elements in Chinese traditional herbs and in their growing soil[J].Physical Testing and Chemical Analysis (Part B: Chemical Analysis),2010,46(7): 789-792

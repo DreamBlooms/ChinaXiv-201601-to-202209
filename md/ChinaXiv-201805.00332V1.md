@@ -1,0 +1,263 @@
+# DOI:10.5846/stxb201703200474
+
+李岩,杨晓东,秦璐,吕光辉,何学敏，张雪妮.两种盐生植物根际土壤细菌多样性和群落结构.生态学报,2018,38（9);3118-3131.LiY,YangXDinL,HXaXcteaesitduitucturesiseoilfto，yruthenicum and Kalidium capsicum.Acta Ecologica Sinica,2018,38(9):3118-3131.
+
+# 两种盐生植物根际土壤细菌多样性和群落结构
+
+李岩1,2,5，杨晓东²,，秦璐4，吕光辉1,2，\*，何学敏1,²，张雪妮1,2
+
+1新疆大学干旱生态环境研究所，乌鲁木齐830046  
+2 绿洲生态教育部重点实验室，乌鲁木齐830046  
+3新疆大学资源与环境科学学院，乌鲁木齐830046  
+4新疆环境保护科学研究院，乌鲁木齐830011  
+5 新疆大学生态学博士后科研流动站，乌鲁木齐830046
+
+摘要：应用高通量测序技术对西北干旱区两种盐生植物黑果枸杞和里海盐爪爪根际土壤细菌的多样性和群落结构进行研究，旨在揭示两种耐盐植物根际土壤细菌之间以及根际与非根际细菌群落结构间的差异,为深入研究盐生植物根际土壤微生物与耐盐性之间的关系提供理论基础。结果表明:黑果枸杞、里海盐爪爪根际细菌多样性丰度高于非根际土,黑果枸杞根际土壤细菌多样性丰度高于里海盐爪爪。根际和非根际土壤细菌群落的组成和丰度存在差异,从黑果枸杞和里海盐爪爪根际土壤中分别检测出细菌21门289属和22门304属,而从非根际土壤中分别检测出28门285属和24门336属；在两种盐生植物根际土壤中,变形菌门和厚壁菌门均为优势门;拟杆菌门、放线菌门蓝细菌门及浮霉菌门在根际土壤中的丰度显著高于非根际土壤,而厚壁菌门在根际土壤中的丰度低于非根际土壤。两种植物根际土壤中的细菌优势门和优势属的数量均高于非根际土壤,在黑果枸杞和里海盐爪爪的根际土壤中的细菌优势属分别有10个和9个,而二者非根际土壤中的细菌优势属各有4个,其中假单胞菌属是根际和非根际土壤中的共有优势属。黑果枸杞和里海盐爪爪根系细菌群落组成和丰度存在差异，只有假单胞菌属和盐单胞菌属是两种植物根际土壤中的共有优势属。Unifrac 分析和聚类分析表明,两种盐生植物根际土壤细菌之间的相似性大于根际和非根际细菌群落间的相似性。细菌多样性与土壤有机碳、有机质、总氮正相关,与pH、电导率负相关,电导率和 $\mathrm { \Delta p H }$ ,有机碳和总氮分别是非根际土,根际土壤细菌群落物种组成的主要影响因素。
+
+关键词：盐生植物;根际;细菌；多样性;群落结构
+
+# The bacterial diversity and community structures in rhizosphere soil of two halophytes， Lycium ruthenicum and Kalidium capsicum
+
+LI Yan1,2.5， YANG Xiaodong2.3， QIN $\mathrm { L u } ^ { 4 }$ ，LU Guanghui1,2\*，HE Xuemin1.2， ZHANG Xueni1,2   
+1 Institute of Arid Ecology and Environment，Xinjiang University，Urumqi 830o46,China   
+2 Key Laboratory of Oasis Ecology，Education Ministry， Urumqi 830046，China   
+3 College of Resource and Environment Sciences，Urumqi 83oO46,China   
+4 Xinjiang Academy of Environmental Protection Science，Xinjiang University， Urumqi 83oo11,China   
+5 Ecology Post-Doctoral Research Station，Xinjiang University，Urumqi 830046,China
+
+Abstract：Therhizospheresoilbacterial diversityandcommunity structuresof two halophytes，Lyciumruthenicumand Kalidiumcaspicum，typicallydistributedinthearidlandof Northwest China，were studiedusing thehigh-throughput sequencing technique.Theaimof thisstudywas toreveal therhizospheresoil bacterialcommunity structuresand the diferences betweenrhizosphereandbulksoilbacterialcommunities，toprovidethebasisforfurther investigationof the relationship betweenrhizosphere soil microbesandsalttoleranceof halophytes.Theresultsshow that,therhizospheresoil bacterial diversity was higher than that of bulk soil,and the rhizosphere soil bacterial diversity of $L$ .ruthenicum was higher than that of $K .$ caspicum.The bacterial community was diferent in composition and abundance between the rhizosphere and bulk soils.Atotalof21 phylaand289genera，and22 phylaand304 genera weredetectedin therhizospheresoil of L. ruthenicum and $K .$ caspicum，respectively.The bulk soils of $L .$ ruthenicum and $K$ ， caspicum included 28 phyla and 285 genera，and 24 phyla and 336 genera，respectively.ProteobacteriaandFirmicutes were the most abundant phyla inboth rhizosphere andbulk soil bacterial communities.Theabundance of Bacteroidetes，Actinobacteria，Cyanobacteria，and Planctomycetes inrhizospheresoil was significantly higherthan inbulk soil，whiletheabundanceofFirmicutes was lower thaninbulk soil.Thenumberof dominant genera intherhizosphere soils was higher thanthatinthebulk soils.There were 10 and 9 dominant genera in the rhizosphere soils of $L .$ ruthenicum and $K .$ . caspicum respectively，but only 4 genera in bulk soils.Pseudomonas was theonlydominant genus in both rhizosphereandbulk soils.Pseudomonas and Halomonas were the commondominant generaof thetwo plants’rhizosphere soilbacterialcommunities.Unifracand cluster analysis showed that thesimilaritybetweenrhizospheresoil bacterialcommunitiesof the two plants wasgreater thanthatbetweentherhizosphere andbulk soilbacterialcommunities.There wasapositivecorrelation betweenrhizospheresoil bacterial diversityandsoil total organiccarbon（TOC），soil organic mater（SOM），and total nitrogen（TON）contents，and anegative relationship with pHandEC.EC，pH,TOC,and TON were the main influencing factorsof both bulk and rhizosphere soil bacterial communities.
+
+Key Words:halophytes；rhizosphere；bacteria；diversity；community structure
+
+土壤微生物是陆地土壤系统中极为重要和最为活跃的组成成分,在土壤的形成与发育、有机质转化、生态系统平衡、土壤环境净化、生物修复等方面起着不可替代的作用[1-2]。微生物-植物-土壤之间存在着复杂的相互作用,根际是直接受植物根系和分泌物影响的土壤区域,是土壤微生物与植物相互作用的重要场所。根际土壤微生物,特别是一些对植物生长具有促进作用的细菌和真菌,对植物生长和抗逆性,如耐盐性,发挥着重要作用[3-7]。同时,根际土壤微生物多样性和群落结构也受到植物的影响,表现出一定的植物种类特异性和生长发育阶段的特异性[8-9]。植物活动改变了根际土壤微环境,使得根际土壤与非根际土壤微生物的群落结构和组成存在明显差异]。
+
+土壤微生物群落结构也受土壤理化性质、营养状况、水分等因子的影响[12-13]。盐碱环境条件下的土壤含盐量和pH比非盐碱土高,土壤盐分对土壤微生物群落的活性、多样性和结构存在显著的影响[13-14]。作为生长在盐碱地中的植物类群,盐生植物在长期的适应和进化过程中,形成了独特的耐盐机制,以应对盐碱对自身的不利影响,除植物本身的应对机制外,根际微生物以及一些内共生菌对植物的耐盐性也起到了一定的作用[4.14]。开展盐生植物根际微生物多样性和群落结构研究有助于深人理解盐生植物的耐盐性及其与根际土壤微生物间的相互作用。在过去10年间,人们对非盐生植物在正常条件或盐胁迫条件下的根系微生物多样性开展了较多研究,然而,缺少对盐生植物根系土壤微生物群落组成的研究[7]。
+
+黑果枸杞(Lycium ruthenicum）和里海盐爪爪（Kalidium caspicum)是两种分布于我国西北干旱区的盐生植物,其中里海盐爪爪在国内仅分布于新疆。这两种植物多见于荒漠地区的盐渍化土壤中,均具有很强的耐盐碱性。国内学者从生理生态方面对它们的耐盐碱机理开展过研究[15-17],但关于它们的根际土壤微生物多样性以及根际土壤微生物与耐盐性之间的关系方面还缺少深人研究。本研究利用高通量测序技术,分析黑果枸杞和里海盐爪爪根际与非根际土壤细菌的群落结构,以及根际土壤中细菌群落之间的相似性和差异性，从而揭示它们根际土壤细菌的多样性和群落结构,为进一步揭示根际土壤细菌与两种盐生植物耐盐性之间的关系提供理论基础。
+
+http://www.ecologica.cn
+
+# 1材料与方法
+
+# 1.1 样品采集
+
+调查区位于新疆精河县西北部的准噶尔盆地西南的艾比湖湿地国家级自然保护区。该区气候干燥、降雨少、地表蒸发强烈;土壤盐分高、碱性强,浅层( $\mathrm { \ : 0 - 1 0 \ c m } \mathrm { \ : ) }$ 土壤的平均电导率为 $5 . 4 1 ~ \mathrm { m s / c m } , \mathrm { { F } }$ H值为8.77；土壤平均容重约 $1 . 3 8 ~ \mathrm { g / c m } ^ { 3 }$ ,含水量平均为 $7 . 1 9 \%$ 。该区分布有胡杨（Populuseuphratica）、怪柳（Tamarixramosisima）、梭梭（Haloxylon ammodendron）、盐穗木（Halostachys caspica）盐节木（Halocnemum strobilaceum）碱蓬（Suaeda glauca）盐爪爪（Kalidium foliatum）里海盐爪爪( $K .$ caspicum）黑果枸杞（Lycium ruthenicum）等多种耐旱、耐盐植物[18]。
+
+土壤样品于2016年8月采自精河县艾比湖湿地国家级自然保护区的盐碱地。里海盐爪爪群落和黑果枸杞群落相距大约 $2 ~ \mathrm { k m }$ ，分别在里海盐爪爪、黑果枸杞居群中选择生长状况相近的健康个体(具有相近遗传背景,个体高度、冠幅基本一致),里海盐爪爪采集3个个体,黑果枸杞5个个体,个体之间距离大约 30一 ${ \cdot } 5 0 \mathrm { ~ m ~ }$ 。将植株根系挖出,抖去根部附着比较疏松的土壤,留下与根系结合比较紧密的土壤（厚度约 $1 \ \mathrm { m m }$ ），装入50mL 无菌离心管中,于冷藏条件带回实验室。加入适量无菌PBS 溶液(137 mmol/L NaCl,2.7 mmol/L KCl,8.5mmol/L ${ \mathrm { N a } } _ { 2 } { \mathrm { H P O } } _ { 4 }$ ，1.5 mmol/L ${ \mathrm { K H } } _ { 2 } { \mathrm { P O } } _ { 4 }$ ， $\mathrm { p H } 7 . 3$ )，漩涡震荡 $1 0 ~ \mathrm { m i n }$ ,弃去根系,土壤溶液即为植株根际土壤溶液,储存于 $4 ^ { \circ } \mathrm { C }$ 备用。非根际土壤与根际土壤取自同一地点和同一时间,撇去表层土,收集0— $3 0 \ \mathrm { c m }$ 土层的土壤,装于无菌保鲜袋中，于冰上带回实验室,储存于 $4 ^ { \circ } \mathrm { C }$ ,备土壤总DNA 提取。
+
+# 1.2 研究方法
+
+# 1.2.1 土壤理化性质分析
+
+土壤 $\mathrm { \ p H }$ 和电导率(EC)分别采用 $\mathrm { \ p H }$ 计和电导率仪测定，土壤有机碳(TOC)和有机质(SOM)采用重铬酸钾容重法进行测定，全氮(TON)采用重铬酸钾-硫酸消化法进行测定。
+
+# 1.2.2土壤微生物基因组DNA的提取
+
+提取基因组DNA 时,吸取 $1 ~ \mathrm { m L }$ 根际土壤溶液至 $2 \mathrm { \ m L }$ 无菌离心管中,于 $4 ^ { \circ } \mathrm { C }$ ） $1 0 0 0 0 \ g$ 离心 $3 0 \mathrm { ~ s ~ }$ ,弃上清,所得沉淀用于根际土壤微生物基因组DNA 提取;对非根际土,用无菌药匙取大约 $0 . 2 \mathrm { ~ g ~ }$ 土壤,加入 $2 { \mathrm { ~ m L ~ } }$ 无菌离心管中,用于提取基因组DNA。利用OMEGA试剂盒E.Z.N.ATM Mag-Bind Soil DNA Kit 试剂盒（OMEGA）提取基因组 DNA,利用琼脂糖凝胶检测 DNA 的长度和完整性,利用 NanoDrop 检测 DNA 的浓度和纯度。
+
+# 1.2.3 DNA扩增及测序
+
+采用两轮法对细菌16S rDNAV3-V4区进行扩增，第一轮扩增利用融合了barcode序列的通用引物进行,上游引物 341F : cctacacgacgctcttcgatctg （barcode） cctacgggnggcwgcag，下游引物 $8 0 5 \mathrm { R }$ : gactggagttcttggcac-ccgagaattccagactachvgggtatctaatcc,反应体系 $3 0 ~ \mu \mathrm { L }$ ，包含 $1 5 ~ \mu \mathrm { L }$ $2 \times$ TaqmasterMix（Thermo），上下游引物（10μmol/L)各1μL,模板DNA $2 0 ~ \mathrm { n g }$ 。扩增条件 $: 9 4 ^ { \circ } \mathrm { C } ~ 3 ~ \operatorname* { m i n } { , 9 4 ^ { \circ } \mathrm { C } ~ 3 0 \mathrm { ~ s } , 4 5 ^ { \circ } \mathrm { C } ~ 2 0 \mathrm { ~ s } , 6 5 ^ { \circ } \mathrm { C } ~ 3 0 \mathrm { ~ s } }$ ,扩增5个循环； $9 4 ^ { \circ } \mathrm { C }$ （2020 s,55℃ 20 s,72℃ 30 s,扩增20 循环, $7 2 \%$ 延伸 $5 ~ \mathrm { m i n }$ 。第二轮扩增使用 Illumina 桥式PCR 兼容引物,反应体系同上，扩增条件： $9 5 ^ { \circ } \mathrm { { C } } 3 0 \ \mathrm { { s } } , 9 5 ^ { \circ } \mathrm { { C } } 1 5 \ \mathrm { { s } } , 5 5 ^ { \circ } \mathrm { { C } } 1 5 \ \mathrm { { s } } , 7 2 ^ { \circ } \mathrm { { C } } 3 0 \ \mathrm { { s } }$ ,扩增5个循环, $7 2 \%$ 延伸 $5 ~ \mathrm { m i n }$ 。PCR产物经磁珠法回收后,送至生工(上海)生物工程有限公司进行测序,重复样品的PCR 产物等量混合,每个混合样品包含所有重复,共测序4个样品,分别为两种植物的根际和非根际土壤样品。
+
+# 1.3 数据分析
+
+测序原始数据去除引物接头序列、去除各低质量碱基（PhredQuality Score $= 2 0$ )后进行拼接,舍弃长度短于 $2 0 0 ~ \mathrm { b p }$ 的序列,去除非特异性扩增序列及嵌合体后,得到每个样本的有效序列数据。采用Mothur1.30 软件包以 $9 7 \%$ 为划定阈值,对 16S序列划分操作分类单元（operational taxonomic unit,OTU）。采用 RDP classifier2.12对 $9 7 \%$ 相似度水平的OTU代表序列进行分类学分析,得到每个OTU 对应的物种分类信息,并在界、门、纲、目、科、属水平上统计各个样品的细菌群落组成。基于物种分类分析,绘制物种分类条形图和物种丰度热图。利用QIIME1.8 软件进行样品 Alpha 多样性分析,计算 ACE、Chao1、Shannon $\setminus$ Simpson 等物种多样性指数。基于 Alpha 多样性指数进行稀释性分析。通过unifrac 分析,评估样本的 Beta多样性,根据样本之间weightedunifrac 距离,绘制样本聚类树。采用CCA分析影响细菌物种群落结构的主要环境因子。
+
+# 2结果与分析
+
+# 2.1 土壤理化性质
+
+土壤样品理化性质测定结果见表1。两种盐生植物的根际土壤有机碳（TOC）、有机质（SOM）总氮(TON)含量均高于非根际土壤,其 $\mathrm { \ p H }$ 值均低于非根际土壤。黑果枸杞群落的非根际土壤的TOC、SOM 和TON 含量、电导率均高于里海盐爪爪群落的土壤,但其 $\mathrm { \ p H }$ 低于后者;里海盐爪爪的根际土壤的TOC、SOM 和TON 含量、电导率则高于黑果枸杞根际土， $\mathrm { \ p H }$ 则相反。黑果枸杞根际土壤电导率低于非根际土，而里海盐爪爪根际土电导率略高于非根际土壤。 Cy
+
+Table1Chemical factors of rhizosphere and bulk soils of Lycium ruthenicum and Kalidium capsicum   
+
+<html><body><table><tr><td>样品名称 Sample</td><td>物种 Species</td><td>土壤类型 Soil type</td><td>有机碳 TOC/</td><td>有机质 SOM/</td><td>总氮 TON/</td><td>pH</td><td>电导率 EC/ (ms/cm)</td></tr><tr><td>name</td><td>黑果枸杞</td><td>根际土</td><td>（g/kg) 10.25(-） *</td><td>（g/kg) 17.68(-)</td><td>（g/kg) C 0.757(-)</td><td>8.09(-)</td><td>1.96(-)</td></tr><tr><td>L. r_R L. r_B</td><td>黑果枸杞</td><td>非根际土</td><td>6.71 (0.80)</td><td>11.55 (1.37)</td><td>0.523 (0.04)</td><td>8.90 (0.07)</td><td>6.26 (1.26)</td></tr><tr><td>K. c_R</td><td>里海盐爪爪</td><td>根际土</td><td>23.40(-)</td><td>40.34(-)</td><td>0.77(-)</td><td>7.35(-)</td><td>4.94(-)</td></tr><tr><td>K.c_B</td><td>里海盐爪爪</td><td>非根际土</td><td>2.67 (0.39)</td><td>4.60 (0.68)</td><td>0.112 (0.03)</td><td>8.98 (0.18)</td><td>4.02 (1.26)</td></tr></table></body></html>
+
+数值格式：平均值(标准差)Mean（Std.Deviation）; $^ *$ ：由于根际土样品量太少,将每个重复的根际土壤混合后进行测定,只有一个值,未计算偏差，以“-”表示 )
+
+# 2.2细菌多样性及群落结构
+
+# 2.2.1 测序数据分析
+
+研究测得的有效序列长度在400—440bp之间，平均长度 $4 2 0 { \mathrm { ~ b p } }$ 左右。经土壤DNA 基因组序列分析,从黑果枸杞和里海盐爪爪的根际土壤和非根际土壤中测定和分析出的序列数分别为27501条、18801条、21198 条和35367条,有效OTU数分别为1081、1591、1788和1294（表2）。基于 Shannon指数的稀释曲线（图1)表明,样品稀释曲线均基本趋于平缓,说明取样基本合理,能够比较真实地反映土壤样本的细菌群落,另外,测序覆盖率均高于 $9 0 \%$ ,也表明本次测序深度合理,基本能代表样本的真实情况（表2）。
+
+表1根际土壤与非根际土壤的理化性质  
+表2土壤样品基因组DNA 测序数据统计及alpha多样性分析  
+Table 2 Genomic DNA sequence data statistics and alpha diversity analysis for soil samples   
+
+<html><body><table><tr><td colspan="8">D Table2 GenocDNA sandalpnadiversityanalysisIorsoilsamples</td></tr><tr><td>样品名称</td><td>序列数</td><td>OTU数目</td><td>香农指数</td><td>辛普森指数</td><td>ACE指数</td><td>Chao1l指数</td><td>覆盖率</td></tr><tr><td>name</td><td>amount</td><td>amount</td><td>index</td><td>index</td><td>index</td><td>index</td><td>Coverage</td></tr><tr><td>L. r_R</td><td>27501</td><td>1081</td><td>4.05</td><td>0.10</td><td>8539</td><td>4962</td><td>0.94</td></tr><tr><td>K.c_R</td><td>21198</td><td>1788</td><td>3.87</td><td>0.11</td><td>16765</td><td>7658</td><td>0.94</td></tr><tr><td>L.r_B</td><td>18801</td><td>1591</td><td>1.87</td><td>0.29</td><td>12013</td><td>5526</td><td>0.97</td></tr><tr><td>K. c_B</td><td>35367</td><td>1294</td><td>1.84</td><td>0.28</td><td>17656</td><td>6122</td><td>0.97</td></tr></table></body></html>
+
+# 2.2.2 细菌多样性
+
+测定的盐生植物根际和非根际土壤细菌的 Alpha多样性结果见表2。Shannon 指数和 Simpson指数表明，根际土壤细菌多样性显著高于非根际土壤( $\scriptstyle { \overrightarrow { P } } < 0 . 0 1 { \textrm { ) } }$ );黑果枸杞根际土壤细菌多样性高于里海盐爪爪,但差异不显著( $\scriptstyle P > 0 . 0 5 { \mathrm { ) } }$ ）,但其ACE、Chao1指数低于里海盐爪爪,说明黑果枸杞根际土壤细菌丰度低于里海盐爪爪;
+
+两种植物的非根际土壤细菌多样性无显著差异( $P >$ 0.05)
+
+# 2.2.3 细菌群落组成和结构
+
+根据土壤基因组DNA序列的分类学分析结果，从所有供试土壤样品中共检测出细菌30门、55纲、88目、202科、672属。优势门（丰度 $> 1 \%$ )数量少,非优势门数量多（图2）。在检测到的30个门中，变形菌门（Proteobacteria）和厚壁菌门（Firmicutes）在所有土壤样品中均为优势门，丰度分别为 $3 7 . 2 6 \% - 8 1 . 6 5 \%$ 和$1 . 7 3 \% { - 4 5 . 6 7 \% }$ 。从黑果枸杞和里海盐爪爪根际土壤中分别检测出细菌21和22门，从非根际土壤中分别检测出28和24门。根际土壤细菌优势门数量多于非根际土壤,在根际土壤细菌中共检测出6个优势门,其中黑果枸杞根际土壤细菌优势门有6个，丰度从大到小分别为变形菌门( $3 7 . 2 6 \%$ ）、厚壁菌门( $3 3 . 0 7 \% \cdot$ 、拟杆菌门（Bacteroidetes）（ $1 6 . 0 8 \%$ ）、放线菌（Actinobacteria）$( 5 . 2 7 \%$ ）、蓝细菌门（Cyanobacteria） $( 4 . 3 2 \%$ ）、浮霉菌门（Planctomycetes） $( 1 . 0 7 \% )$ ,其他16门的丰度均低于$1 \%$ ,其中Deinococcus-Thermus 等10 个门的丰度低于$0 . 1 \%$ ；里海盐爪爪根际土壤细菌中的优势门有变形菌
+
+![](images/8bae83f35ac4f02568bb324dcbab093d3c33529bbcefe17628431b1d456765d9.jpg)  
+图1相似度为0.97条件下各土壤样品中细菌群落的alpha 指数（Shannon）稀释曲线  
+Fig.1Rarefaction curves of soil bacterial community （at $9 7 \%$ identity）constructed with Shannon index
+
+L.r_R:黑果枸杞根际土壤细菌,bacterial community in rhizosphere soil of L.ruthenicum；L.r_B：黑果枸杞非根际土壤细菌,bacterial community in bulk soil of $\bar { L } .$ ruthenicum; $\mathbf { K . c _ { - } R }$ ：里海盐爪爪根际土 壤细菌,bacterial community in rhizosphere soil of $K .$ caspicum ; ${ \operatorname { K } } . { \operatorname { c } } _ { - }$ B：里海盐爪爪非根际土壤细菌,bacterial community in bulk soil of K. caspicum
+
+门 $( 8 1 . 6 5 \%$ ）、厚壁菌门 $( 1 . 7 3 \% )$ ）、拟杆菌门( $8 . 5 5 \%$ )和放线菌门 $( 4 . 3 3 \% ) 4$ 个门，其他18门的丰度均低于$1 \%$ ,其中Parcubacteria等12个门的丰度低于 $0 . 1 \%$ ;从非根际土壤细菌中检测出2个优势门，即变形菌门和厚壁菌门,占非根际土壤细菌总数的 $90 \%$ 以上，在黑果枸杞的非根际土壤中的丰度分别为 $5 2 . 6 8 \%$ 和 $4 5 . 6 7 \%$ ,在里海盐爪爪非根际土壤中丰度分别为 $5 5 . 4 \%$ 和 $4 3 . 2 2 \%$ ,而其他门的丰度均少于 $1 \%$ ,其中丰度低于 $0 . 1 \%$ 的各有23和19个。
+
+在属分类水平上,从黑果枸杞和里海盐爪爪两种盐生植物的根际土壤中分别检测出289 和304个属，而在非根际土壤中分别检测出285和336个属,优势属占比很低;在根际和非根际土壤中的优势属数量和组成也不同,其中在根际土壤中的优势属数量多于非根际土壤。在黑果枸杞和里海盐爪爪根际土壤中的细菌优势属分别有10个和9个,而在非根际土壤中的细菌优势属有4个,仅假单胞菌属（Pseudomonas）在根际和非根际土壤中均为优势属（图2）。在黑果枸杞根际土壤中的10个优势属按丰度顺序依次为：动性球菌属( Planococcus , $2 6 . 9 2 \%$ ）、盐单胞菌属（Halomonas, $1 6 . 7 \%$ ）、Pontibacter $( 6 . 5 8 \% )$ ）、假单胞菌属 $( \ 5 . 3 4 \%$ ）、Streptophyta ( $4 . 3 2 \%$ ）Salinimicrobium( $4 . 1 \%$ ）Planomicrobium( $2 . 4 5 \%$ ）、芽孢杆菌属（Bacillus， $1 . 7 7 \%$ ）、Gillisia（ $1 . 4 \%$ ）、Thioalkalispira $( 1 . 3 7 \% )$ );在里海盐爪爪根际土壤中的9个优势属按丰度顺序依次为动性球菌属（20 $( 2 8 . 3 9 \%$ ）、盐单胞菌属（ $( 1 4 . 4 7 \%$ ）、Fodinicurvata ( $1 2 . 2 4 \%$ )、Massilia $( 4 . 1 9 \%$ ）、Alifodinibius $( 3 . 5 6 \%$ ）、Cobetia1 $( 2 . 4 5 \%$ ）Aidingimonas ( $1 . 6 3 \%$ ）、Gracilimonas ( $1 . 5 1 \%$ ）、微小杆菌属（Exiguobacterium， $1 . 1 7 \%$ );在两种供试盐生植物非根际土壤中的4个优势属依次为微小杆菌属， $( 4 4 . 0 1 \% , 4 1 . 4 5 \%$ ）、柠檬酸杆菌属（Citrobacter， $2 8 . 0 7 \%$ 、$2 9 . 4 9 \%$ ）、不动杆菌属（Acinetobacter， $1 3 . 3 \% . 1 3 . 5 1 \% \rangle$ ）、假单胞菌属 $( 8 . 0 9 \% , 9 . 3 3 \% )$ ,其中微小杆菌属、不动杆菌属和柠檬酸杆菌属在根际土壤细菌中的丰度均显著降低， $( 0 . 2 5 \% - 1 . 1 7 \% )$ ，而一些低丰度属（如动性球菌属、盐单胞菌属、Pontibacter、Salinimicrobium 等)则在根际土壤中显著增高,成为优势属,表明黑果枸杞和里海盐爪爪两种植物的根际土壤细菌的群落组成和丰度与非根际土壤存在较大的差异。
+
+# 2.2.4 细菌群落相似性及差异性分析
+
+植物的根际土壤与非根际土壤细菌群落之间,以及不同植物的根际土壤细菌在群落组成和丰度上都存在
+
+![](images/8888e92e3a63380dbcfc02d2502fb1571f9a42feec44b839ee5d006d0310a205.jpg)  
+图2门和属水平上的土壤样品细菌群落结构
+
+Fig.2 The bacterial community structures of soil samples at levels of phylum and genus门图例（自上而下、自左至右,仅列出有对应中文名称的门）：变形菌门Proteobacteria;厚壁菌门Firmicutes;；拟杆菌门 Bacteroidetes;放线菌门Actinobacteria;蓝细菌门Cyanobacteria;浮菌门Planctomyetes;；分类未定unclasified;酸杆菌门Acidobacteria;疣微菌门 Verucomicrobia;绿弯菌门Chloroflexi；异常球菌-栖热菌门 Deinococcus-Thermus；芽单胞菌门 Gemmatimonadetes；硝化螺旋菌门 Nitrospirae；热脱硫杆菌门Thermodesulfobacteria;衣原体门Chlamydiae；热袍菌门Thermotogae;螺旋体门Spirochaetes;梭杆菌门Fusobacteria;绿菌门Chlorobi;纤维杆菌门Fibrobacteres；属图例（自上而下、自左至右,仅列出有对应中文名称的属)：微小杆菌属 Exiguobacterium;柠檬酸杆菌属 Ctrobacter;假单胞菌属Pseudomonas;；不动杆菌属Acinetobacter;盐单胞菌属Halomonas;动性球菌属Planococcus;分类未定unclasified;芽孢杆菌 Bacillus；小红卵菌属Rhodovulum;考克氏菌属 Kocuria;根瘤菌属 Mesorhizobium;氮单胞菌属 Azomonas
+
+显著差异。在门水平上,拟杆菌门、放线菌门、蓝细菌门、浮霉菌门、疣微菌门（Verrucomicrobia）、绿弯菌门(Chloroflexi)在根际土壤中的丰度显著高于非根际土壤,而厚壁菌门的丰度则低于非根际土壤(图2，附图1A，B)。变形菌门、厚壁菌门、拟杆菌门、蓝细菌门、酸杆菌门丰度在两种植物的根际土壤中的丰度也具有显著的差异(图2，附图1C),而非根际土壤细菌丰度在门水平上差异较小。在属水平上的细菌多样性丰度图(图3)显示,与根际土壤细菌群落相比,非根际土壤中的4个优势属组成相同,而且丰度也基本一致,除假单胞菌属外,不动杆菌属、柠檬酸杆菌属、微小杆菌属3个优势属的丰度在根际土壤细菌群落中显著降低（附图2A,B)。另外,多个非优势属的丰度也在根际土壤中下降,甚至消失，如氮单胞菌属（Azomonas）、Brevundimonas Enterococcus 、Kluyvera 等;与之相反,许多属的丰度在根际土壤中则显著增加,如盐单胞菌属、Streptophyta Alifodinibius 、Gracilimonas 等;动性球菌属、Pontibacter、Thioalkalispira、Cobetia 和Aidingimonas 是根际土壤中的特有属,在非根际菌群中未检测到（图3）。 2
+
+通过对两种植物根际土壤细菌群落结构的比较，发现假单胞菌属和盐单胞菌属两属为这两种植物根际土壤中的共有优势属（图2），假单胞菌属在黑果枸杞根际土壤的丰度 $( 5 . 3 4 \% )$ )显著低于里海盐爪爪根际土壤0 $2 8 . 3 9 \%$ ）。动性球菌属、Planomicrobium、Pontibacter、Salinimicrobium、芽孢杆菌属、Gillisia及Thioalkalispira是黑果枸杞根际土壤中的优势属，丰度为 $1 . 3 7 \%$ 一$2 6 . 9 2 \%$ ，但在里海盐爪爪根际土壤中的丰度为0一0$4 9 \%$ ;Aliifodinibius、微小杆菌属、Gracilimonas、Massilia、FodinicurvataCobetia及Aidingimonas为里海盐爪爪根际土壤中的优势属，丰度为 $1 . 1 7 \% { - 1 2 . 2 3 \% }$ ，但在黑果枸杞根际土壤中的丰度为 $0 . 0 7 \% - 0 . 9 5 \%$ ,它们在根际和非根际土壤中的丰度具有显著差异（附图2C）。黑果枸杞和里海盐爪爪两种植物的遗传背景不同，其根系细菌群落结构组成和丰度也不同，表明不同植物即使在同一种盐碱环境条件下，它们的根际细菌群落结构和组成明显不同，植物种类的不同是影响其根际土壤细菌多样性的重要因子。
+
+黑果枸杞和里海盐爪爪的根际土壤细菌群落之间的unifrac距离为0.44，而二者的非根际土壤细菌群落之间的距离为0.04，二者根际土壤与非根际土壤细菌群落间的距离分别为0.69和0.65。由聚类图（图3）可以看出，黑果枸杞和里海盐爪爪的根际土壤细菌群落聚为一个分支,二者的非根际土壤细菌群落聚为一个分支，表明两种植物的根际土壤细菌群落之间的相似性大于根际土壤和非根际土壤细菌群落间的相似性。
+
+![](images/202c447499a63bb51313e8b34b42d46068bf0d78ada10a1f382dc98d286fdda5.jpg)  
+图3各土壤样品中在属水平上的细菌群落结构热度图及聚类图Fig.3The heatmap and clustering map of bacterial communitystructures of soil samples at level of genus热度图列代表样本，行代表群落结构，颜色块代表相对物种丰度值(由蓝到红，相对丰度逐渐升高），只显示丰度最高的前50个属，剩余的合并成other；热图上方的分支结构为样品聚类树
+
+表3两种植物根际土壤细菌多样性指数与土壤理化性质之间的相关性  
+
+<html><body><table><tr><td>多样性指数 Diversity index</td><td>有机碳TOC</td><td>有机质SOM</td><td>总氮TON</td><td>pH</td><td>电导率EC</td></tr><tr><td>香农指数 Shannon index</td><td>0.74</td><td>0.72</td><td>0.83</td><td>-0.89</td><td>-0.58</td></tr><tr><td>辛普森指数 Simpson index</td><td>-0.75</td><td>-0.73</td><td>-0.81</td><td>0.90</td><td>0.59</td></tr><tr><td>ACE指数ACE index</td><td>0.17</td><td>0.15</td><td>0.5</td><td>-0.04</td><td>-0.41</td></tr><tr><td>Chao 1指数 Chaol index</td><td>0.73</td><td>0.72</td><td>0.12</td><td>-0.59</td><td>-0.39</td></tr></table></body></html>
+
+# 2.2.5细菌多样性和群落结构与土壤理化性质的关系
+
+通过对二种植物根际土壤细菌多样性与土壤理化因子之间相互关系的分析,发现根际土壤细菌多样性的Shannon、ACE、Chao1指数与TOC、SOM 和TON呈正相关关系（表3）,但与pH和EC 呈负相关,但相关性均未达到显著水平( $P { > } 0 . 0 5 )$ 。通过对二种植物根际土壤细菌群落(物种)组成与土壤理化因子CCA间的关系分析,发现电导率和 $\mathrm { \ p H }$ ,TOC 和TON分别是非根际土壤,根际土壤细菌群落组成的主要影响因子（图4）。
+
+# 3讨论
+
+植物对根际土壤细菌群落结构具有主动选择性[19],植物通过根系活动改变根际环境，从而有选择性地提高或降低某些根际土壤细菌类群的丰度或多样性，使有益于植物自身生长的细菌种类的丰度增加，而不利于自身生长的细菌种类减少甚至消失，从而形成有益于自身的根际细菌群落结构，导致不同植物具有不同的根际细菌组成结构[8]。如Comamonadaceae、Flavobacteri-aceae、Rhizobiaceae是大麦根际土壤细菌的主要类群[20];变形菌门、放线菌门、拟杆菌门和酸杆菌门是菊芋根际土壤中的优势类群[2I]；厚壁菌门、变形菌门、放线菌门是西瓜根际土壤中的优势类群[22]
+
+![](images/f3df4262243a9ef78600523e50d50a65f25243aec9ab6d98cc934df2fc79a758.jpg)  
+图4两种植物根际土壤细菌群落组成与土壤理化因子的CCA 分析图 Fig.4CCA analysis of two plants' rhizosphere soil bacterial community composition and soil chemical factors
+
+黑果枸杞和里海盐爪爪的根际土壤与非根际土壤细菌群落的多样性和群落组成具有显著差异。Alpha多样性分析表明,植物根际土壤细菌多样性高于非根际土壤,这与其他植物的相关研究成果[23-24]相一致。变形菌门和厚壁菌门在植物根际和非根际土壤中均为优势类群,但变形菌门的丰度更高于厚壁菌门,变形菌门和厚壁菌门细菌是我国许多盐渍化土壤中的优势菌群[25],这两个门细菌在多种植物根际土壤中也是优势类群,如菊芋[21]、葡萄[26]红芸豆[27],Stelera chamaejasme[28]。变形菌门包括多样的病原菌和固氮菌,厚壁菌门细菌可发生于多种环境中,其中许多细菌可耐受极端条件,如干旱、盐碱等环境,常与植物的抗耐逆性有关,厚壁菌门在黑果枸杞和里海盐爪爪根际土壤中的丰度在 $3 0 \%$ 以上，高于葡萄[26]野燕麦[11]等非盐生植物,表明该类群细菌适宜盐碱环境的生长和繁殖,具有较强的抗耐盐性。非根际土壤中的大部分细菌门的丰度较低$( < 0 . 1 \% )$ ）,然而拟杆菌门、蓝细菌门、疣微菌门、放线菌门在根际土壤中的丰度均有提高。
+
+聚类分析表明，两种植物根际细菌群落的相似性高于根际土壤与非根际土壤之间的相似性,暗示在盐碱化胁迫下两种植物趋向于选择和形成相似的根际土壤细菌结构,可能是盐生植物在长期的盐碱胁迫下,形成的一种对根际细菌群落的趋同性选择机制。两种植物根际土壤中的优势细菌属的数量多于非根际土壤,非根际土壤的优势属有3个,不动杆菌属、柠檬酸杆菌属、微小杆菌属,但它们在根际土壤中的丰度均显著降低;而在非根际土壤中的低丰度属,如动性球菌属、盐单胞菌属、Salinimicrobium 等,在根际土壤中则为优势属。与非根际土壤细菌群落结构相比,根际土壤细菌丰度增加的种类大多具有抗耐盐性,微小杆菌属中有些种类具有耐盐性（可耐受 $\mathrm { \Delta N a C l }$ 浓度为 $1 3 \%$ )，适生 $\mathrm { p H } 5 { - } 1 1 ^ { [ 2 9 ] }$ ;盐单胞菌属为嗜盐菌,可以在 $5 \%$ 1 $2 5 \%$ NaCl环境中生长[30];Salinimicrobium 分布于盐渍化土壤中,可以耐受含 $1 \% - 3 \% \ \mathrm { N a C l }$ 胁迫[31];Fodinicurvata 是一类嗜盐菌,可在盐分含量 $5 \%$ 一 $2 0 \%$ 的土壤中生存[32]。假单胞菌属是盐碱土壤中的优势菌群,是一种耐盐碱菌群,大多数种不需要有机生长因子,同时还可降解环境中广泛存在的多种有机分子[3]。
+
+两种植物根际细菌群落组成具有相似性,同时也具有一定的差异,表现为优势菌群相对丰度不同,低丰度菌群组分不同，这反映了根际群落结构的植物特异性。每种植物有自己的遗传背景和物质代谢过程,两种植物根际分泌物的种类、数量不同,根际土壤微环境不同,如根际土壤理化性质(表1)所示， $\mathrm { \ s o u \mathrm { _ { \cdot } p H } } .$ EC差异显著。黑果枸杞根际土壤中的细菌优势门数多于里海盐爪爪,虽然从两种植物根际土壤中检测出的细菌属总数和优势属数目几乎相同,但其具体种类和丰度均具有很大差异,仅假单胞菌属和盐单胞菌属是两种植物根际土壤共有的优势属，且假单胞菌属在黑果枸杞根际土壤中的丰度显著低于里海盐爪爪根际土壤。动性球菌属、Pontibacter 等是黑果枸杞根际土壤中的细菌优势属,它们的丰度明显高于里海盐爪爪根际土壤中的丰度;而 Alifodinibius、微小杆菌属、Gracilimonas 等是里海盐爪爪根际土壤中的细菌优势属,它们的丰度明显高于黑果枸杞根际土壤中的丰度。无论是优势属，还是低丰度属，它们在植物根际土壤和非根际土壤中均存在显著差异,尤其在两种植物的根际土壤中存在的差异更大,说明低丰度细菌类群比高丰度类群细菌对土壤环境更敏感[25]。
+
+在盐渍化地区,含盐量是土壤微生物群落结构的重要限制因子,对土壤细菌群落结构和多样性具有显著影响[21]。干旱区盐碱化土壤养分含量低,且盐分含量高、碱性高,不利于土壤微生物的生长和繁殖。盐分胁迫会降低植物根际土壤细菌的多样性[3435],然而,对耐盐植物而言,盐胁迫可增加根际土壤细菌多样性和生物量[36],这可能是由于盐分的升高促进了耐盐或嗜盐细菌的增殖[21]。本研究发现,黑果枸杞和里海盐爪爪两种植物的根际土壤的有机碳、有机质、总氮含量均高于非根际土壤,根际土壤细菌多样性亦高于非根际土壤,而相关性分析也证明土壤细菌的多样性与有机碳、有机质、总氮含量呈正相关,而与电导率和pH呈负相关;含盐量和pH是非根际土壤细菌群落组成的主要影响因子,而土壤有机质和总氮含量是根际土壤细菌群落组成的主要影响因子，这与以往研究一致[37]。植物根际土壤有机质增加、pH降低、细菌丰度增加,这一结果表明耐盐植物根系可以缓解土壤盐渍化的胁迫效应,并为相应细菌生长提供更有利的微生境[25],同时,植物根际土壤细菌可以缓解土壤盐分对植物的胁迫作用[38]。
+
+# 参考文献（References）：
+
+[1]GansJ，WoisbrJomputatialimproetsealeatcteldiesiydealitiil(5739):1387-1390.  
+[2］刘彩霞，黄为一.耐盐碱细菌与有机物料对盐碱土团聚体形成的影响.土壤，2010,42（1)：111-116.  
+[3]PalanandiS,DmoaranK，angH,uhJWtreptomcespain39aleviatessastresandprotesgrowthof'tomato plants.Journal of Applied Microbiology，2014，117(3）:766-773.  
+[4]daSilveiraLciW,eLacedaCF,FiPFHeradezFFF,NevesALR,Goms-FioE.Gowhandphsilgicalrespossofelnplants inoculated with mycorrhizal fungi under salt stress.Semina-Ciencias Agrarias,2013,34(4）：1587-1602.  
+[5]VishAJ,soA,aS,urRK,oaryDffiidelicterialreatedaplatdealstress.Archives of Microbiology，2013，195(8）：571-577.  
+[6] VaishnavA,KmariS,Jin,VAoarD.utativebcteralvolaileedategrowthiban（GlyineaxLilldexpression of induced proteins under salt stress.Journal of Applied Microbiology，2015,119(2）:539-551.  
+[7]RuppelSFnWizelKropeiofhloeobedercatflantsaltlea.ctialatlo2013，40(9): 940-951.  
+[8]ZieglerMEngelM，WellG，oterM.Develpentofsimpletodeltudyetsfgeexudatesevetfbacterial community structure. Journal of Microbiological Methods,2013,94(1）: 30-36.  
+[9]LiXZuiJaYYaarellA,ackieRamicsoftebacterialcouittructureinhesprefiaroilBiology and Biochemistry，2014, 68：392-401.  
+[10] CicazoSiliEeieenvironment.Biomed Research International,2014,2014：480170.  
+2[11 Shi SJ,NuccoE,HermanDJ,RijkersR,EsteraK,LiJB,daRocha UN,HeZL,Pet-RidgeJ,BrodieEL,ZhouJZ,FirestoneM.Successional trajectoriesof rhizospherebacterial communitiesover consecutive seasons.mBio,2015,6(4）：eO0746-15.RamirezKSinJerosistetctsofrgdetsoolobaluiidprcossooblChange Biology，2012，18(6)：1918-1927.  
+[13]BllCW,AsaoS，alderon，WolB，WallsteinMDPlantntrogeuptakrissperebacterialontseblrigplatgrowth.Soil Biology and Biochemistry，2015,85：170-182.  
+[14]CandrasearanougasS,HuSJ,OSH,SaAmaalyisofbularyalectsoplantsgodeMycorrhiza，2014，24(8):611-625.  
+[15] 王龙强.盐生药用植物黑果枸杞耐盐生理生态机制研究[D].兰州：甘肃农业大学，2011.  
+[16] 姜霞.黑果枸杞耐盐机理的相关研究[D].西安：西北农林科技大学，2012.  
+[17］杨瑞瑞，曾幼玲.盐生植物盐爪爪的耐盐生理特性探讨.广西植物，2015，35(3)：366-372.  
+[18] 张雪妮，杨晓东，吕光辉.水盐梯度下荒漠植物多样性格局及其与土壤环境的关系.生态学报，2016,36(11)：3206-3215.  
+[19]KowalcuGDeoererGanVJAEftsoeodatisiodeiediversity of soil-borne microorganisms.Antonie van Leeuwenhoek,2002,81; 509-520.  
+[20]BulgareliDGaidoOter,unch，Wean，rgeJ,anY,HadyAC,hze-Leferructureaductioofheacteilroot microbiota in wild and domesticated barley.Cell Host & Microbe,2015,17(3）：392-403.  
+[21]YangH,HuJX,gXH,uZRegelZliitylteredotdistrbioadceaseddiversityofceralcouitierhizosphere soil of Jerusalem artichoke.Scientific Reports，2016,6：20687.  
+[22]Ling N,DengKY,SongY，WuYC,ZhaoJ，azaW,HuangW,ShnQR.Variationofrzospherebacteialcommunityinateeloncontinuousmoogsloatioeacrtlaleah（）.  
+[23]AiraMbeeS，omguezJaivoydootangetezosprecteralouitofteplantDroseraiteredipldSilEcology，2015,92：14-17.  
+[24]CuiHgX,DX,Jin,YaZQJX,LiXZ,QiBolatdhacterztiocteriesksoil of Stellera chamaejasme L. Canadian Journal of Microbiology,2015,61(3）：171-181.  
+[25] YangJ,MaLAngHC,WuG,ongHiityapesicobaldvesitydoitystructureinufacedientsfTibetan Lakes.Scientific Reports,2016,6：25078.  
+[26]Vega-AvilaAD,GmiereT,AnradePA,ia-PeriJE,Drr，igoriVazquezFndreoteFDBacteriaoirhizospherofVitisfeLuliatedderdistictaicuralpractisingetiantonLeuekO）：88.  
+[27]SuyalDC,YadavA,hocheY,GoelR.acterialdiverstndcounttructureofWesteIdaHalaadidneyban（hseosvulgaris）rhizosphere as revealed by 16S rRNA gene sequences.Biologia,2015,70(3):305-313.  
+[28]JinH,YangXY,YanZQ,LuQ,LiXZ,CenJX,ChenJX,ZangDH,ZengLMinB.Characteizationofrhzospereandedohtcbacterialcommuisfromlaves，sdtsfedicialeleramaejseLSysteaticndApedcroblog7（）：376-385.  
+[29]Ordoe,zarotiE,KrthiFevaleVqrs,ursiAG.DageoecfepolyextreophilEiguobctetrioaedfrraesintia.Gooct,4e00480-13.  
+3VreeldtoEotdsteclSystematic Bacteriology，1980,30(2）：485-495.  
+[31]ChenYG,CuiXL,ZangYQ,LiWJ,WagYX,KimCJ,LimJM,XuLH,JiagCLlinimicrobiumterae sp.nov.solatedfrosalinesoilddtofusleialulfeticdEryob(11)：2501-2504.  
+[32]Infante-DominguezC，LawonPA，JsonCnchez-PoroC，VentosaA.Fodinicuratahlophilspnov，moderatelyhalohilicbacterium from a marine saltern.Inte nal Journal of Systematic andEvolutionary Microbiology，2015,65：766-771.  
+[33］李新，焦燕，代钢，杨铭德，温慧洋.内蒙古河套灌区不同盐碱程度的土壤细菌群落多样性.中国环境科学,2016,36(1)：249-260.  
+[34]IbekweAsJAaSeeCaeDctelesits）shesposoilpH,and boron.Soil Biologyand Biochemistry，2010,42(4): 567-575.  
+35]encfebJelctbalandmcrfloaoaoedimrrtaallidddsecofalEt,2015, 533: 488-494.  
+[36]NieM,ZhangXD,WangJQ,JangLF,YangJ，QuanZX,CuiXH,FangCM,LiB.Rhizosphereefetsonsoilbacterialabundanceanddiverstyilvesdetroatidlialt,41( 12) : 2535-2542.PavloudiC，OulasA，VasileiadouKaoulouEKotolasG,aitidisCitisthafctorfucingtsdentctealcommunities ina Mediteranean lagoonal complex（AmvrakikosGulf,Ionian Sea）.Marine Genomics，2O16,28：71-81.38] BorrusoL，BacciG，MengoniA，DePilippisR，BrusetiLRhizosphereectandsalinitycompetingtoshapemicrobialcomunitiesinPhragmites australis（Cav.）Trin.ex-Steud.FEMS Microbiology Leters，2014,359(2）：193-200.L.r_B L.r_R $9 5 \%$ 置信区间  
+ASynergistetes | ： 1.000Candidate division WPS-1l · 1.000Cloacimonetes | 0 1.000衣原体门 Chlamydiae | · 1.000Amicicenantes | · 0.651芽单胞菌门 Gemmatimonadetes | 9 0.579Ignavibacteriae | · 0.518热袍菌门 Thermotogae | 0 0.518硝化螺旋菌门 Nitrospirae | · 0.452螺旋体门 Spirochaetes | · 0.406热脱硫杆菌门 Thermodesulfobacteria · 0.027 utrParcubacteria | · 9.41×10-3 D  
+异常球菌-热cs · 2.65×103 早d绿弯菌门 Chloroflexi| · 3.40×10-4疣微菌门 Verrucomicrobia | · 1.91×10-8Candidatus Saccharibacteria | . 1.53×10-15酸杆菌门 Acidobacteria| d <1×10-15分类未定Unclassified · <1×10-15浮霉菌门 Planctomycetes · <1×10-15厚壁菌门 Firmicutes 一 互 <1×10-15变形菌门 Proteobacteria 一 豆 <1×10-15放线菌门 Actinobacteria · 一 <1×10-15蓝细菌门Cyanobacteria · T <1×10-15拟杆菌门 Bacteroidetes a - <1×10-15L 上 上 上 上 上 上 上 L0 52.7 -20 -15 -10 -5 0 5 10 15 20口 L K.c_B K.c_R 95%置信区间  
+B 纤维杆菌门 Fibrobacteres … 1.000热袍菌门 Thermotogae · 1.000硝化螺旋菌门 Nitrospirae 0 0.753Synergistetes 0 0.657酸杆菌门 Acidobacteria 0 0.651Woesearchaeota 0 0.531梭杆菌门 Fusobacteria ： 0.375衣原体门 Chlamydiae · 0.375绿弯菌门 Chloroflexi · 0.325芽单胞菌门 Gemmatimonadetes · 0.214 ggadAminicenantes 0 0.165Candatdrgsen dems · 0.140 期d  
+异常球菌-栖热菌门 Deinococcus-Thermus · 0.081热脱硫杆菌门 Thermodesulfobacteria · 0.013Parcubacteria · 2.77×10-3疣微菌门 Verrucomicrobia · <1×10-15分类未定 Unclassified · <1×10-15浮霉菌门 Planctomycetes · <1×10-15蓝细菌门 Cyanobacteria | d <1×10-15Candidatus Saccharibacteria · <1×10-15放线菌门 Actinobacteria ab · <1×10-15拟杆菌门 Bacteroidetes · 一 <1×10-15厚壁菌门 Firmicutes 1 · <1×10-15变形菌门 Proteobacteria □ · - <1×10-15L L 上 上 上 上 上 F L0 81.7-30 -20 -10 0 10 20 30 40 50  
+C L.r_R K.c_R 95%置信区间Candidate division WPS-1l 10 1.000Wonavircheia 101 1.000热脱硫杆菌门 Thermodesulfobacteria | ·101 0.758硝化螺旋菌门 Nitrospirae| 0.713衣原体门 Chlamydiae| . 0.604  
+异常球菌-栖热菌门 Deinococcus-Thermus o 0.526Poribacteria | 0 0.470Pacearchaeota| O 0.470Aminicenantes | oo 0.470芽单胞菌门体门 spirochaetes] ： 0.470 naad绿弯菌门 Chlorontexi o1o1oi·i 0.02 dParcubacteria | 7.03×10-3疣微菌门 Verrucomicrobia l 2.16×10-3浮霉菌门 Planctomycetes 10 3.57×10-4放线菌门 Actinobacteria日 b 9.85×10-6Candidatus Saccharibacteria | 5.70×10-8分类未定Unclassified 1 7.11×10-10酸杆菌门 Acidobacteria| ！ <1×10-15拟杆菌门 Bacteroidetes □ 一 0 <1×10-15蓝细菌门 CyanobacteriaP 一 <1×10-15厚壁菌门 Firmicutes 一 0 <1×10-15变形菌门 Proteobacteria T a 一 <1×10-15L 上 L F 上 上 上 上 F 上 L0 81.7 -50 -40 -30 -20 -10 0 10 20 30 40丰度Abundance $1 \%$ （204号 丰度差异 Difference between abundances/%
+
+Fig.S1The differential analysis of bacterial community composition between rhizosphere and bulk soil of $\pmb { L }$ 、ruthenicumand K.caspicum at level of phylum
+
+A:黑果枸杞根际 vs非根际菌群;B:里海盐爪爪根际vs非根际菌群;C:黑果枸杞根际菌群 vs 里海盐爪爪根际菌群; L.r_R:黑果枸根际土壤细菌,bacterialcommunityinzospheresoilofLruthenicum；L.rB：黑果枸杞非根际土壤细菌,bacterialcomnity inbulk soilofLruthenicum;K.c_R:里海盐爪爪根际土壤细菌,bacterialcomunity izospheresoilofK.caspicu;K.c_B:里海盐爪爪非根际 土壤细菌,bacterial community in bulk soil of K.caspicum
+
+A Derisona  .r L.r_R （204号 $9 5 \%$ 信区间  
+： <1X10-15  
+Microbulbifer <1×10-15  
+Thioprofundum · <1×10-15  
+Gracilimonas · <1X10-15  
+Proticoccus · <1X10-15  
+假单胞菌属 Pseudomonas · <1×10-15  
+Rubrivirga ！ <1×10-15  
+Gp10I d <1×10-15  
+Pelagibius | · <1×10-15  
+Bosea ·.· <1×10-15  
+Nafulsella <1×10-15  
+考克氏菌属 Kocuria <1×10-15  
+Thioalkalispira h Alifodinbia · . 10 <1×10-15  
+Planomicrobium b <1×10-15  
+Salinimicrobium …- <1X10-15  
+Streptophyta · <1X10-15  
+不动杆菌属Acinetobacter 一 · <1X10-15  
+柠檬酸杆菌属 Citrobacter □ <1X10-15  
+Pontibacter · 一 <1×10-15  
+盐单胞菌属Halomonas · 1 <1×10-15  
+动性球菌属 Planococcus · 一 <1×10-15  
+微小杆菌属 Exiguobeseie · 一 <1X10-15  
+□  
+F 上 上 L  
+0 44.0-30 -20 -10 0 10 20 30 40 50  
+□ L K.c_B L K.c_R （204 $9 5 \%$ 置信区间  
+-  
+B 根瘤菌属 Mesorhizobium · <1×10-15  
+Thioalkalispira · <1×10-15  
+Idiomarina · <1×10-15  
+Marinimicrobium · <1×10-15  
+Saccharibacteria_genera_incertae_sedis · <1×10-15  
+Methylohalomonas · <1×10-15  
+Streptophyta h 1 <1×10-15  
+Rubrivirgae h · <1×10-15  
+小红卵菌属 Rhodovulum b … <1×10-15  
+Porserer h ： <1×10-15 ppgr dgd  
+Chelativorans · 110  
+Haliea b $\mathrm { ~ \varsigma ~ } _ { \mathrm { ~ \tiny ~ O ~ } }$ （2 <1X10-15  
+Gracilimonas h （20号 $\mathsf { o }$ （20 （20 $< 1 \times 1 0 ^ { - 1 5 }$   
+Aidingimonas b d <1×10-15  
+Cobetia b · <1×10-15  
+Alifodinibius “ <1×10-15  
+十  
+Fodinicurvata · <1×10-15  
+一  
+unclassified = = · | <1×10-15  
+Massilia ·_ <1×10-15  
+盐单胞菌属 Halomonas · - <1×10-15  
+不动杆菌属 Acinetobacter 一 · <1×10-15  
+假单胞菌属 Pseudomonas · - <1×10-15  
+柠檬酸杆菌属 Citrobacter 一 · <1×10-15  
+微小杆菌属 Exiguobacterium □ - · <1×10-15  
+L  
+Lo 以 10 上 上 上 上 50  
+41.5 -20 -10 10 20 30 40
+
+1L.r_R K.c_R 95%置信区间 C Gracilimonas <1×10-15 Sinomicrobium l <1×10-15 Alcanivorax · <1×10-15 Marinimicrobium a <1×10-15 Pelagibiusβ P <1×10-15 ThioalkalispiraP P <1×10-15 Chromatocurvus · <1×10-15 考克氏菌属Kocuria| b <1×10-15 Idiomarina h ： <1×10-15 Serpens 6 9 <1×10-15 Haliea · <1×10-15 小红卵菌属 Rhodovulum · <1×10-15 a 芽孢杆菌BacillusP Gillisia P 1 l <1×10-15 <1×10-15 5P 值 P Aliifodinibius P · <1 X10-15 Aidingimonas b · <1×10-15 Cobetia □ ：- <1×10-15 Streptophyta 一 0 <1×10-15 Planomicrobium P <1×10-15 Salinimicrobium □ . <1×10-15 Massilia L . 一 <1×10-15   
+动性球菌属Planococcus 1 a <1×10-15 Fodinicurvata · 一 <1×10-15   
+假单胞菌属Pseudomonas a 一 <1×10-15 Pontibacter 。 <1×10-15 1 上 上 1 1 上 Z 0 28.4-30 -20 -10 0 10 20 30 丰度 Abundance/% 丰度差异 Difference between abundances/%
+
+Fig.S2ThediferentialaalyssofbacterialcommunityompositionbtweenrhzsphreandbulksoilofLrutenicmandK.caspicmat level of genus
+
+L. $\mathbf { r _ { - } R }$ ：黑果枸杞根际土壤细菌,bacterialcommunityinrhzospheresoilofLruthenicum；L.r_B：黑果枸杞非根际土壤细菌,bacterialcommunity in bulk soil of L.ruthenicum;K.c_R;里海盐爪爪根际土壤细菌,bacterial community in rhizosphere soil of $K .$ caspicum; $\mathrm { K . c \_ B }$ ：里海盐爪爪非根际 土壤细菌,bacterial community in bulk soil of $K .$ caspicum

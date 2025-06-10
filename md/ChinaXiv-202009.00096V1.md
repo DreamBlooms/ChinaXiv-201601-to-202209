@@ -1,0 +1,305 @@
+# 基于二次插值的天牛须搜索算法
+
+廖列法，欧阳宗英
+
+(江西理工大学，信息工程学院，江西 赣州 341000)
+
+摘要：针对天牛须搜索算法在高维空间中搜索精度低和易陷入局部最优的问题进行了研究，提出一种新的天牛须优化算法-基于二次插值的天牛须搜索算法，称之为QIBAS。算法在天牛进行移动后，将天牛当前位置左右两触须作为插值坐标点，利用二次插值生成一个新的解，再对比插值产生的解与当前最优解、全局最优解的适应度值，更新全局最优解。对多个单峰函数和多峰函数进行数值仿真测试，其维度分别取100、500、1000、5000、10000，仿真结果表明，引入二次插值有效提升了BAS 算法跳出局部最优的能力。QIBAS 在求解最优值时，其求解精度有极大的提升，收敛速度也有较明显提升，改进算法的有效性得以验证。
+
+关键词：天牛须搜索算法；二次插值；高维空间；全局最优；收敛速度 中图分类号：TP18 doi:10.19734/j.issn.1001-3695.2020.03.0052
+
+Beetle antennae search based on quadratic interpolation
+
+Liao Liefat, Ouyang Zongying (Jiangxi UniversityofScience&Technology,SchoolofInformationEngineering,GanzhouJiangxi 3410o0,China)
+
+Abstract: Focus onthe problems thatlow-precisionand easilytofallintolocaloptimumresult inthe high-dimensional space bythelonghomsearchalgorithm,weproposedanewoptimizationalgorithmoftheshort-livedbeetles-theshor-lived search algorithmbasedonquadratic interpolation which iscalled QIBAS.The algorithm takes tentacle's leftand righttentacles as interpolation coordinate points after thebeetle moved.And generate new solution with asecond interpolation,then compare to the currentoptimal solutionandthe globaloptimalsolution with the fitnessof interpolation solution.At thesame timeto update the globaloptimalsolution.Numericalsimulation tests were performedonmultipleunimodalandmultimodal functions, andtheir dimensionstakeas100,50o,0oo,50oand0o.Thesimulationresultsshowthattheintroductionofquadratic interpolation effectively improves the abilityof the BAS algorithm to jumpoutof the local optimum.When QIBAS solves theoptimalvalue,itssolutionaccuracyis greatlyimproved,andtheconvergence speed is alsosignificantlyimproved.The effectiveness of the improved algorithm is verified.
+
+Key words: beetle antennae search; quadratic interpolation; high-dimensional space; globaloptimal; convergencespeed
+
+# 0 引言
+
+群智能优化算法是人类对大自然的探索而形成的，对自然界各类生物行为的仿真模拟。智能算法广泛应用在图像处理、工业控制、生产调度、模式识别等诸多领域。智能算法的种类也颇多，有蚁群算法[1]、粒子群算法[2]、遗传算法[3]、人工蜂群算法[4]、鲸鱼算法[5]等等。在处理优化问题时，这些算法都有一定缺陷，如蚁群算法所需设置的参数较为复杂，且计算量大；粒子群算法在处理问题时易早熟收敛，尤其是复杂多峰问题；遗传算法需对问题进行编码和解码，其复杂度较高。国内外众多学者也针对这些问题对算法进行优化[6\~10]。
+
+天牛须搜索算法(beetle antennae search，BAS)[12]是 Jiang和Li在2017年在提出的新型智能优化算法。该算法模拟天牛觅食行为，以此实现对复杂优化问题的寻优求解。BAS算法广泛应用于各领域。如文献[13]将BAS算法应用于微电网多目标能量管理中，为微电网的能源优化管理和调度提供了新的解决方案；文献[14]用BAS优化神经网络权值和阈值，来预测喷射灌浆混凝土的无侧限抗压强度。但针对BAS算法易陷入局部最优、稳定性不足以及仅能解决单目标优化问题[15]的缺点，学者们提出了一系列的改进方法。如文献[16]受群体优化算法启发，将群体引入BAS算法中，提出了天牛群优化算法(beetle swarmantennae search，BSAS)，BSAS克服了BAS随机种子导致的不同优化结果和优化精度低的问题。文献[17]将模拟退火的蒙特卡洛准则引入BAS中，加快算法跳出局部最优，并将优化后的算法应用于分布式电源选址定容；文献[18]将BAS与粒子群算法相结合，提升了其收敛速度和搜索精度。文献[19]结合BAS和梯度下降，选择梯度下降方向或天牛“左右须"最优解方向进行迭代。
+
+上述对BAS算法的改进均取得一定效果，但对于BAS算法在高维空间中搜索精度低的情况，上述算法均未提出解决方案。经研究发现，在高维空间中甚至出现天牛个体不移动的情况，这大大降低了算法的寻优精度。而针对该问题，本文将二次插值引入到BAS算法中。在天牛进行一次移动后，借助天牛的左右两须，利用二次插值法产生新的解，再对比新解与当前全局最优解，以此更新全局最优解。仿真结果表明，改进的算法(QIBAS)在求解高维问题时相较于天牛须算法(BAS)、粒子群算法(PSO)和遗传算法(GA)，在求解精度上有了进一步的提升。
+
+# 1 天牛须搜索算法
+
+天牛须搜索算法区别于其他优化算法，该算法只包含单个个体，不需要清楚具体函数和梯度信息就能进行寻优，因此该算法运算量小、寻优速度快且易于实现。
+
+# 1.1基本原理
+
+天牛须搜索算法的仿生机理是，天牛在觅食时不清楚食物的具体位置，利用头上一对触须来感应食物气味的浓度，如果左触须感受到的气味浓度高，天牛朝左移动，反之则朝右移动，最后寻找到食物的确切位置。图1为天牛搜索食物的过程。
+
+![](images/a21fbad21dd32ebcc7abfa4f4296b662d3f3c120e31ac043eed4672fa3c81ce8.jpg)  
+图1天牛搜索食物过程
+
+天牛须搜索算法的智能机理是，单个天牛在搜索食物时，食物气味浓度即为适应度函数，这个函数在空间的不同位置有不同的值，而天牛两须分别采集自身附近两点的气味值，对比二者气味浓度，取最优值，如此迭代，知道左右两须所探测的气味浓度相差满足一定精度则停止迭代，所找到的中心点则为空间食物浓度最高点，即食物所在地。
+
+天牛搜寻食物的过程就是天牛须算法的寻优过程。分为如下几个步骤：
+
+a)天牛初始朝向创建
+
+$$
+\vec { d } = \frac { r a n d s ( K , 1 ) } { \parallel r a n d s ( K , 1 ) \parallel }
+$$
+
+其中rands()为随机函数； $K$ 为空间维度。
+
+设置步长因子 $\xi$ 。天牛的区域搜索能力由 $\xi$ 决定，为了提高天牛的搜索范围，本文选取了较大初始步长，并线性方式递减步长。公式如下：
+
+$$
+\xi _ { t + 1 } = \xi _ { t } * e t a ( t = 1 , \cdots , n )
+$$
+
+其中 $e t a$ 为递减因子，范围为[0.1]， $t$ 为当前迭代次数， $n$ 为总迭代次数。
+
+b)建立天牛两须位置坐标
+
+$$
+\left\{ \begin{array} { l } { { x _ { l } = x _ { \mathrm { t } } - d _ { 0 } { \frac { \vec { d } } { 2 } } } } \\ { { { } } } \\ { { x _ { r } = x _ { \mathrm { t } } + d _ { 0 } { \frac { \vec { d } } { 2 } } } } \end{array} \right. \quad ( t = 1 , 2 \cdots n )
+$$
+
+其中： $x _ { l }$ 表示左须的位置坐标； $x _ { r }$ 表示左须的位置坐标； $x _ { t }$ 表示迭代次数为 $t$ 时天牛的质心坐标； $d _ { 0 }$ 为两触须之间长度，其值应足够大以覆盖适当的搜索区域，以便在开始时跳出局部最小点。
+
+计算适应度函数 $f ( \cdot )$ ， $f ( \cdot )$ 指的是左右须气味浓度，即$f ( x _ { l } )$ 和 $f ( x _ { r } )$ 的大小。 $f ( \cdot )$ 其根据实际需求定，对适应度函数的选取，将在后文详细阐述。
+
+$$
+f i t n e s s = \frac { 1 } { n } \sum _ { i = 1 } ^ { n } ( d _ { f i } - d _ { v i } ) ^ { 2 }
+$$
+
+其中： $\boldsymbol { d } _ { f i }$ 为第 $i$ 个样本模型输出值； $\boldsymbol { d } _ { v i }$ 为第 $i$ 个样本实际值。
+
+更新天牛的位置，比较左右触须适应度值的大小，若$f ( x _ { l } ) > f ( x _ { r } )$ ，天牛向左移动；反之，向右移动。其更新公式如下：
+
+$$
+x ^ { t + 1 } = x ^ { \prime } - \xi _ { t } * \overrightarrow { d } * s i g n ( f ( x _ { l } - x _ { r } ) )
+$$
+
+其中 $\xi _ { t }$ 表示 $t$ 次迭代步长因子； $s i g n ( \cdot )$ 为符号函数。
+
+# 1.2性能分析
+
+天牛须搜索算法的优化过程，主要是依靠天牛两触须对左右两端的食物气味进行辨别，哪边触须接收到的食物气味浓郁则天牛就向哪边移动，虽能大大加快天牛位置的更新和提升寻优速度，但也会导致天牛陷入局部最优，而天牛又没有跳出局部最优的能力，因此BAS算法在每次寻优的结果都有不同。针对高维问题，由于BAS算法是单个体搜索算法，单个天牛对食物气味浓度的分辨能力不足以让其在高维空间中找到最优解，这就可能导致天牛位置不更新，完全陷入局部最优，大大降低了BAS在高维空间的搜索精度。
+
+# 2 天牛须搜索算法的改进
+
+# 2.1算法改进
+
+本文为解决BAS在高维空间中优化精度低的情况，引入了二次插值算子式(6)。二次插值法是一种用于在确定初始区间中搜索极值点的方法，是一种曲线拟合方法。其利用目标函数在若干点的信息构成一个与目标函数值相近的低次多项式，再用此式的最优解作为函数的近似最优解，随着区间的逐步缩短，多项式的最优解与原函数的最优点之间的距离逐步减小，最后满足一定精度要求为止。其原理图如图2所示。
+
+![](images/d913d55c217feccc9d18ae1f267194a3cf998fdd8e5a2a0c9fd9cb65b624d769.jpg)  
+Fig.1Beetle searching for food   
+图2二次插值原理  
+Fig.2Principle of quadratic interpolation
+
+本文在每一次天牛位置更新时，将左右两须所在的点作为二次插值的区间，构成一个与目标函数值相近的低次多项式，利用该式求出最优解，根据最优解再缩小区间，迭代进行，最后再满足一定精度的情况下，得到一个区间最优解，即区间最优位置。并与全局最优解进行对比，取两者最优为新全局最优解。利用这种方法大大提升了天牛须搜索算法的局部搜索能力，进而提高了天牛在高维空间中跳出局部最优的能力、搜索精度和收敛性能。
+
+设天牛的第 $\textit { t }$ 代在高维空间中质心位置为$X _ { t } = ( x _ { t 1 } , x _ { t 2 } , \cdots x _ { t K } ) ^ { T }$ ，当前天牛两须位置坐标分别为$X _ { \iota } = ( x _ { \iota 1 } , x _ { \iota 2 } , \cdots x _ { \iota \kappa } ) ^ { T }$ 和 $X _ { r } = ( x _ { r 1 } , x _ { r 2 } , \cdots x _ { r K } ) ^ { T }$ ，当前全局最优位置为$X _ { b } = ( x _ { b 1 } , x _ { b 2 } , \cdots x _ { b K } ) ^ { T }$ ，则二次插值生成的位置为
+
+$$
+x _ { i k } = \frac { 1 } { 2 } \frac { ( x _ { l k } ^ { 2 } - x _ { b k } ^ { 2 } ) f ( x _ { r } ) + ( x _ { b k } ^ { 2 } - x _ { r k } ^ { 2 } ) f ( x _ { l } ) + ( x _ { r k } ^ { 2 } - x _ { l k } ^ { 2 } ) f ( x _ { b } ) } { [ ( x _ { l k } - x _ { b k } ) f ( x _ { r } ) + ( x _ { b k } - x _ { r k } ) f ( x _ { l } ) + ( x _ { r k } - x _ { l k } ) f ( x _ { b } ) ] + e p s }
+$$
+
+$$
+k = 1 , 2 , \cdots , K
+$$
+
+其中： $f ( \cdot )$ 为适应度函数； $e p s$ 是个非常小的正数，为防止分母为 $0$ 。
+
+QIBAS算法的具体步骤如下：
+
+a)初始化天牛。根据式(1)随机生成天牛的初始朝向$\overrightarrow { d _ { 0 } } = ( d _ { 1 } , d _ { 2 } , \cdots d _ { K } ) ^ { T }$ ，随机生成天牛的初始质心位置$X _ { 0 } = ( x _ { 1 } , x _ { 2 } , \cdots x _ { K } ) ^ { T }$ ，并根据式(4)求得适应度值为 $f ( X _ { 0 } )$ ，全局最优值 $X _ { b e s t } = X _ { 0 }$ ，适应度值为 $f ( X _ { b e s t } )$ ，设定步长因子为 $\xi$ ，递减因子 $e t a$ ，令 $t = 0$ 。
+
+b）计算天牛两须坐标和适应度值。根据当前天牛的位置确定天牛两须的坐标，如式(3)所示，计算出左右触须位置坐标分别为 $X _ { t } ^ { l } = ( x _ { t 1 } ^ { l } , x _ { t 2 } ^ { l } , \cdots , x _ { t K } ^ { l } ) ^ { T }$ 和 $X _ { t } ^ { r } = ( x _ { t 1 } ^ { r } , x _ { t 2 } ^ { r } , \cdots , x _ { t K } ^ { r } ) ^ { T } t = 1 , 2 , \cdots n$ ，其中 $n$ 为总迭代次数。根据式(4)求得两须的适应度值 $f ( X _ { t } ^ { l } )$ 和$f ( X _ { t } ^ { r } )$ 。
+
+c）二次插值和天牛位置更新。根据式(5)来天牛移动的位置坐标 $X _ { t }$ ，并求出此时质心位置对应的适应度值 $f ( X _ { t } )$ 。根据式(6)，求得插值产生的位置坐标为 $X _ { t } ^ { q } = ( x _ { t 1 } ^ { q } , x _ { t 2 } ^ { q } , \cdots , x _ { t K } ^ { q } ) ^ { T }$ ，并计算出适应度值为 $f ( X _ { t } ^ { q } )$ 。对比 $f ( X _ { t } ^ { q } )$ 和 $f ( X _ { t } )$ ，若 $f ( X _ { t } ^ { q } ) < f ( X _ { t } )$ 则更新天牛位置坐标，反之，则保持当前位置。
+
+d）更新全局最优值 $X _ { b e s t }$ 。对比 $f ( X _ { t } )$ 和 $f ( X _ { b e s t } )$ ，取两者 中最优值替换全局最优值，更新 $f ( X _ { b e s t } )$ 和 $X _ { b e s t }$ 。
+
+e）若达到算法终止条件，则停止，否则 $t = t + 1$ ，返回步驟b)。
+
+# 2.2改进算法时间复杂度分析
+
+本文的改进主要是在天牛位置更新后，利用二次插值产生一个异于当前位置的点，最后对比当前位置，取两者优值。优化问题维度为 $K$ 时，本文算法计算复杂度分析如下：初始化天牛的计算复杂度为 $O ( K )$ ；迭代过程，计算两须坐标和适应度值，计算复杂度为 $O ( 2 K )$ ，更新天牛位置和计算适应度值，计算复杂度为 $O ( 2 K )$ ，二次插值产生新位置，计算复杂度为 $O ( 2 K )$ 。每一次迭代的计算复杂度为 $O ( 6 K )$ ，高于标准天牛须算法的 $O ( 4 K )$ 。计算复杂度可近似为 $O ( K )$ 。表1列举了遗传算法(GA)、粒子群算法(PSO)、标准天牛须算法(BAS)及本文改进算法(QIBAS)的计算复杂度。表中 $N$ 为种群数目。
+
+表1算法复杂度  
+
+<html><body><table><tr><td>算法</td><td>计算复杂度</td></tr><tr><td>GA</td><td>O(NK + N²)</td></tr><tr><td>PSO</td><td>O(NK + N)</td></tr><tr><td>BAS</td><td>O(K)</td></tr><tr><td>QIBAS</td><td>O(K)</td></tr></table></body></html>
+
+从上表可以看出，算法计算复杂度与问题维度和种群数量有关，根据大 $o$ 的概念，若优化问题维度 $K$ 远大于种群数目 $N$ 时，GA和PSO两者的计算复杂度均为 $O ( N K )$ ，而BAS和QIBAS的计算复杂度为 $O ( K )$ 0
+
+# 2.3改进算法参数分析
+
+根据上述算法模型可知，改进天牛须搜索算法需要设定的参数有：初始步长 $\xi _ { 0 }$ ，步长递减因子 $e t a$ ，总迭代次数 $n$ ，空间维度 $\boldsymbol { K }$ 。对于绝大多数应用问题可根据需要设定初始步长 $\xi _ { 0 }$ ，本文取值为1。通过单因素数值实验测试函数分析改进算法其他3个参数对算法性能的影响。测试函数如表2所示。
+
+Tab.1Algorithm complexity   
+表2测试函数  
+
+<html><body><table><tr><td>函数名称</td><td>表达式</td></tr><tr><td>Sphere</td><td>Mx²</td></tr><tr><td>Rosenbrock</td><td>D i=1 ∑[100(xi+1-x2）²+(1-x²)2]</td></tr><tr><td>Rastrigin</td><td>∑[x²-10cos 2πx +10]</td></tr></table></body></html>
+
+算法参数的经验设置见表3，在进行单因素实验时，固定其他参数，改变一个参数进行仿真实验。
+
+Tab.2 Test function   
+表3经验参数设置   
+Tab.3Experience parameter setting   
+
+<html><body><table><tr><td>算法参数</td><td>变量名</td><td>取值</td></tr><tr><td>步长递减因子</td><td>eta</td><td>0.9</td></tr><tr><td>迭代次数</td><td>n</td><td>1000</td></tr><tr><td>空间维度</td><td>K</td><td>10</td></tr></table></body></html>
+
+a）步长递减因子对算法性能的影响
+
+根据常用递减因子取值区间 $e t a = [ 0 , 1 ]$ ，设置步长因子为$e t a = 0 . 1 , 0 . 2 , 0 . 3 , 0 . 4 , \cdots 0 . 9 , 1$ 。对测试函数进行独立20次数值实验。实验结果如表4所示。
+
+步长递减因子的设定是为了算法在不同时期有不同的搜索半径，在算法前期搜索范围很大，需要更大的搜索半径，用来加快收敛速度。随着迭代次数的不断增加，求解值也不断逼近最优值，此时搜索半径不需要太大，需要更小的搜索范围来确定最优值。
+
+而根据表4得出，对Sphere函数而言当递减因子 $e t a = 0 . 1$ 时算法性能最优。对Rosenbrock函数而言当递减因子 $e t a = 0 . 9$ 时算法性能最优。对Rastrigin函数而言当递减因子 $e t a = 0 . 1$ 时 算法性能最优。最后本文取 $e t a = 0 . 1$ 。
+
+Tab.4Effect of decreasing factor on algorithm performance   
+
+<html><body><table><tr><td>函数</td><td>递减因子</td><td>0 最优解</td><td>0 最差解</td><td>平均收敛代数</td></tr><tr><td rowspan="9">Sphere</td><td>0.1</td><td>0</td><td>0</td><td>11.4</td></tr><tr><td>0.2</td><td>0</td><td>0</td><td>13.8</td></tr><tr><td>0.3</td><td>0</td><td>0</td><td>16.5</td></tr><tr><td>0.4</td><td>0</td><td>0</td><td>20.5</td></tr><tr><td>0.5</td><td>0</td><td>0</td><td>24.3</td></tr><tr><td>0.6</td><td>0</td><td>0</td><td>31.1</td></tr><tr><td>0.7</td><td>0</td><td>0</td><td>42.6</td></tr><tr><td>0.8</td><td>0</td><td>0</td><td>59.8</td></tr><tr><td>0.9</td><td>0</td><td>0</td><td>116.4</td></tr><tr><td rowspan="11">Rosenbrock</td><td>1.0</td><td>0</td><td>0</td><td>807.5</td></tr><tr><td>0.1</td><td>10</td><td>10</td><td>8.2</td></tr><tr><td>0.2</td><td>10</td><td>10</td><td>10.4</td></tr><tr><td>0.3</td><td>9.99</td><td>10</td><td>12.5</td></tr><tr><td>0.4</td><td>9.95</td><td>9.99</td><td>16.2</td></tr><tr><td>0.5</td><td>9.62</td><td>9.98</td><td>20.3</td></tr><tr><td>0.6</td><td>9.92</td><td>10.0</td><td>26.1</td></tr><tr><td>0.7</td><td>7.68</td><td>9.88</td><td>36.5</td></tr><tr><td>0.8</td><td>5.12</td><td>9.62</td><td>57.7</td></tr><tr><td>0.9</td><td>4.04</td><td>8.23</td><td>130.6</td></tr><tr><td>1.0</td><td>4.97</td><td>7.97</td><td>853.2</td></tr><tr><td rowspan="8">Rastrigin</td><td>0.1</td><td>-90</td><td>-90</td><td>8.5</td></tr><tr><td>0.2</td><td>-90</td><td>-90</td><td>11.3</td></tr><tr><td>0.3</td><td>-90</td><td>-90</td><td>14.5</td></tr><tr><td>0.4</td><td>-90</td><td>-90</td><td>17.6</td></tr><tr><td>0.5</td><td>-90</td><td>-90</td><td>21.7</td></tr><tr><td>0.6</td><td>-90</td><td>-90</td><td>28.9</td></tr><tr><td>0.7</td><td>-90</td><td>-90</td><td>38.4</td></tr><tr><td>0.8</td><td>-90</td><td>-90</td><td>59.8</td></tr><tr><td></td><td>0.9</td><td>-90</td><td>-90</td><td>108.6</td></tr><tr><td></td><td>1.0</td><td>-86</td><td>-81</td><td>337.6</td></tr></table></body></html>
+
+b）最大迭代次数对算法性能的影响
+
+最大迭代次数分别取 $n = 1 0 0 0 , 2 0 0 0 , 3 0 0 0 , 4 0 0 0$ 。对测试函数进行独立20次数值实验。实验结果如表5所示。
+
+表5最大迭代次数的对算法性能影响
+
+表4递减因子的对算法性能影响  
+Tab.5Effect of maximum iterations on algorithm performance   
+
+<html><body><table><tr><td>函数</td><td>迭代次数</td><td>最优解</td><td>最差解</td><td>平均收敛代数</td></tr><tr><td rowspan="4">Sphere</td><td>1000</td><td>0</td><td>0</td><td>116.2</td></tr><tr><td>2000</td><td>0</td><td>0</td><td>115.5</td></tr><tr><td>3000</td><td>0</td><td>0</td><td>117.6</td></tr><tr><td>4000</td><td>0</td><td>0</td><td>116.9</td></tr><tr><td rowspan="4">Rosenbrock</td><td>1000</td><td>4.96</td><td>8.01</td><td>130.6</td></tr><tr><td>2000</td><td>4.95</td><td>7.89</td><td>130.8</td></tr><tr><td>3000</td><td>5.28</td><td>8.12</td><td>130.5</td></tr><tr><td>4000</td><td>5.06</td><td>7.88</td><td>131.5</td></tr><tr><td rowspan="4">Rastrigin</td><td>1000</td><td>-90</td><td>-90</td><td>129.9</td></tr><tr><td>2000</td><td>-90</td><td>-90</td><td>130.1</td></tr><tr><td>3000</td><td>-90</td><td>-90</td><td>129.6</td></tr><tr><td>4000</td><td>-90</td><td>-90</td><td>129.9</td></tr></table></body></html>
+
+由上表可知，最大迭代次数对于本文算法的影响不大，综合考虑本文取 $n = 2 0 0 0$ 。
+
+# 3 仿真测试与结果分析
+
+# 3.1参数设置
+
+本文基于Matlab2018b平台仿真测试并分析QIBAS算法对测试函数的计算性能。BAS和QIBAS的初始步长 $\xi _ { 0 }$ 设置为1，递减因子分别取为 $e t a _ { 1 } = 0 . 9$ $e t a _ { 2 } = 0 . 1$ ，总迭代次数为$n = 2 0 0 0$ ，优化问题维度分别设为 $K = 1 0 0 .$ ，500,1000，共运行50次测试。GA和PSO的种群数量均设为200，PSO中学习因子均设为1。
+
+# 3.2测试函数
+
+为验证算法的性能，本文选取单峰和多峰等共11个标准测试函数[20]进行测试，测试函数如表6、7。
+
+# 3.3 实验结果与分析
+
+将QIBAS算法与GA算法、PSO算法以及BAS算法进行对比测试，各运行50次，取平均值，并计算标准差，实验结果如表8(维度 $K = 2 0 0$ )。同时，对计算结果进行Friedman非参数统计分析，其中显著性水平设为 $5 \%$ ，实验结果如表9所示。表10是各算法运行50次 $f _ { 1 } , f _ { 6 } , f _ { 1 1 }$ 三个函数所需的时间。
+
+从表8可以看出(最优值已加粗)，在50次的函数测试中，QIBAS算法在对 $f _ { 1 } \setminus f _ { 2 } \setminus f _ { 3 } \setminus f _ { 4 } \setminus f _ { 1 1 }$ 函数的计算都收敛到了最小值0，标准差也为0，证明了算法的稳定性较高。其他的如f、fs、f $f _ { 1 0 }$ 4个函数虽没有收敛到最小值，但与其他算法相比其收敛效果都要好。而 $f _ { 5 \setminus f _ { 6 } 2 }$ 个函数与PSO相比收敛效果还是较差的，但比GA算法效果更优。在与标准BAS算法比较时，除了 $f _ { 5 } , \ f _ { 6 } , \ f _ { 1 0 }$ 三个函数的计算结果相差不大，其余函数计算结果的平均值和标准差都较优。由此可以看出改进天牛须搜索算法的计算精度和稳定性都有较明显的提升，验证了改进算法寻优的有效性。
+
+Tab.6Unimodal function  
+
+<html><body><table><tr><td>函数</td><td>测试函数</td><td>函数</td><td>测试函数</td></tr><tr><td>f</td><td>Sphere</td><td>f</td><td>Rosenbrock</td></tr><tr><td>f</td><td>SchwefelProblem 2.22</td><td>f</td><td>Step</td></tr><tr><td>f</td><td>Schwefel Problem 1.2</td><td>f</td><td>Quartic</td></tr><tr><td>f4</td><td>SchwefelProblem 2.21</td><td>f</td><td>Schwefel Problem 2.26</td></tr></table></body></html>
+
+表7多峰函数
+
+Tab.7Multimodal function   
+
+<html><body><table><tr><td>函数</td><td>测试函数</td></tr><tr><td>f</td><td>Rastrigin</td></tr><tr><td>f0</td><td>Ackley</td></tr><tr><td>f</td><td>Griewank</td></tr></table></body></html>
+
+Tab.8Comparison of algorithm test results   
+
+<html><body><table><tr><td rowspan="2">函数</td><td colspan="2">GA</td><td colspan="2">PSO</td><td colspan="2">BAS</td><td colspan="2">QIBAS</td></tr><tr><td>平均值</td><td>标准差</td><td>平均值</td><td>标准差</td><td>平均值</td><td>标准差</td><td>平均值</td><td>标准差</td></tr><tr><td>f</td><td>25.9571</td><td>1.3570</td><td>0.0823</td><td>0.0322</td><td>52.9531</td><td>3.9961</td><td>0</td><td>0</td></tr><tr><td>f</td><td>47.7552</td><td>3.2680</td><td>1.4682</td><td>0.5800</td><td>84.8440</td><td>3.6806</td><td>0</td><td>0</td></tr><tr><td>f</td><td>8.62E+04</td><td>9.35E+03</td><td>4.47E+02</td><td>8.12E+03</td><td>9.69E+05</td><td>5.88E+06</td><td>0</td><td>0</td></tr><tr><td>f4</td><td>0.7854</td><td>0.0233</td><td>0.0455</td><td>0.8096</td><td>0.9957</td><td>3.40E-03</td><td>0</td><td>0</td></tr><tr><td>f5</td><td>3.499E+02</td><td>19.7682</td><td>8.65E-07</td><td>1.40E-06</td><td>7.00E+02</td><td>11.9674</td><td>2.01E+02</td><td>7.08E-07</td></tr><tr><td>f6</td><td>2.00E+02</td><td>0</td><td>0</td><td>0</td><td>99.80</td><td>6.4175</td><td>99.22</td><td>5.9395</td></tr><tr><td>f</td><td>5.65E+04</td><td>3.35E+02</td><td>2.61E+03</td><td>9.5392</td><td>2.82E+03</td><td>4.30E+02</td><td>3.29E-04</td><td>3.15E-04</td></tr><tr><td>fs</td><td>-81.1058</td><td>1.2893</td><td>-1.69E-02</td><td>9.13E-04</td><td>-22.7833</td><td>7.2362</td><td>-1.33E+03</td><td>7.84E+03</td></tr><tr><td>f</td><td>9.91E+02</td><td>30.1911</td><td>1.5973</td><td>0.9359</td><td>-6.25E+02</td><td>58.9376</td><td>-1.99E+03</td><td>0</td></tr><tr><td>f10</td><td>-4.0824</td><td>0.0231</td><td>-4.7104</td><td>3.90E-03</td><td>-20.2773</td><td>0.1413</td><td>-21.7376</td><td>1.3725</td></tr><tr><td>f</td><td>0.1748</td><td>7.91E-03</td><td>5.62E-04</td><td>2.63E-04</td><td>1.0136</td><td>1.12E-03</td><td>0</td><td>0</td></tr></table></body></html>
+
+从表9的结果可以看出，四个算法中本文改进算法的秩均值最小，由此得出QIBAS 的性能强于其他三种算法。
+
+从表10可以看出，不论单峰函数或者多峰函数，QIBAS算法和BAS算法的运行时间远小于PSO算法和GA算法，时间最高相差达到100多倍。QIBAS与BAS两个算法的运行时间相差不多，QIBAS所需时间要长一些。PSO和GA各有优劣。因此QIBASh和BAS运行所需时间要小的多，算法性能更优。
+
+为了进一步检验二次插值对BAS算法带来的效果，分别进行天牛须结合模拟退火(SABAS)、变步长天牛须(VSBAS)、天牛群算法(BSAS)，共进行50次测试，测试结果如表11。
+
+由表11的计算平均值和标准差可知，SABAS 算法和VSBAS相比于标准BAS算法其性能都有不同程度的提升，但其效果并不太明显。QIBAS算法相比于SABAS算法除了f5 $f _ { 6 }$ ，其他函数的优化效果明显QIBAS远高于SABAS。而相比于VSBAS算法，QIBAS在f6、fi函数的计算结果稍差，其余函数均优于VSBAS 算法。大部分测试结果优于BSAS算法。
+
+从表12的检验来看，本文算法的秩均值比SABAS、VSBAS和BSAS等改进算法都要小，因此性能要更优。
+
+结合表8和10可以看出，50次的测试结果，所得的标准差中，本文改进算法相较于其他算法，明显降低了，由此证明了本文算法的稳定性和可靠性。
+
+为了更直观的展现各算法在测试函数上的收敛情况，选取结果与50次实验平均值最为接近的实验，同时对比VSBAS算法、SABAS算法、BSAS算法以及BAS算法，绘制收敛曲线。选取 $f _ { 1 } , \ f _ { 4 } , \ f _ { 9 } , \ f _ { 1 1 }$ 四个测试函数在空间维度$K = 2 0 0$ 进行收敛曲线对比，如图 $3 { \sim } 6 _ { \circ }$ 图7是 $K = 5 0 0$ 时 $f _ { 1 } , \ f _ { 9 }$ 函数的收敛曲线。图8是 $K = 1 0 0 0$ 时 $f _ { 1 } , \ f _ { 9 }$ 函数的收敛曲线。
+
+表6单峰函数  
+表9Friedman 检验 Tab.9 Friedman test   
+
+<html><body><table><tr><td>算法</td><td>秩均值</td><td>算法</td><td>秩均值</td></tr><tr><td>QIBAS</td><td>1.64</td><td>BAS</td><td>3.25</td></tr><tr><td>PSO</td><td>2.55</td><td>GA</td><td>3.49</td></tr></table></body></html>
+
+表10算法运行时间
+
+表8算法测试结果对比  
+Tab.10Algorithm running time   
+
+<html><body><table><tr><td>算法</td><td>fi时间/s</td><td>f时间/s</td><td>f时间/s</td></tr><tr><td>QIBAS</td><td>2.860</td><td>5.476</td><td>7.766</td></tr><tr><td>PSO</td><td>135.736</td><td>169.136</td><td>278.286</td></tr><tr><td>BAS</td><td>1.540</td><td>2.302</td><td>3.416</td></tr><tr><td>GA</td><td>189.886</td><td>241.669</td><td>160.109</td></tr></table></body></html>
+
+Tab.11Comparison of algorithm test results   
+
+<html><body><table><tr><td rowspan="2">函数</td><td colspan="2">BAS</td><td colspan="2">SABAS</td><td colspan="2">VSBAS</td><td colspan="2">BSAS</td><td colspan="2">QIBAS</td></tr><tr><td>平均值</td><td>标准差</td><td>平均值</td><td>标准差</td><td>平均值</td><td>标准差</td><td>平均值</td><td>标准差</td><td>平均值</td><td>标准差</td></tr><tr><td>f</td><td>59.1806</td><td>3.9961</td><td>41.6044</td><td>3.9460</td><td>55.5218</td><td>3.5925</td><td>4.93E-30</td><td>0</td><td>0</td><td>0</td></tr><tr><td>f</td><td>84.8440</td><td>3.6806</td><td>77.2043</td><td>3.5957</td><td>99.3674</td><td>3.9986</td><td>2.22E-15</td><td>2.6354</td><td>0</td><td>0</td></tr><tr><td>f</td><td>9.69E+05</td><td>5.88E+06</td><td>9.46e+04</td><td>7.25e+04</td><td>2.47e+02</td><td>3.91e+03</td><td>2.32E-41</td><td>2.68E+02</td><td>0</td><td>0</td></tr><tr><td>f4</td><td>19.7657</td><td>3.40E-03</td><td>19.1583</td><td>0.2346</td><td>17.6290</td><td>1.12E-02</td><td>1.57E-15</td><td>1.0238</td><td>0</td><td>0</td></tr><tr><td>f5</td><td>7.00E+02</td><td>11.9674</td><td>45.5127</td><td>9.73E+02</td><td>1.04e+04</td><td>1.09e+03</td><td>0.9899</td><td>9.1165</td><td>2.01E+02</td><td>7.08E-07</td></tr><tr><td>f</td><td>99.80</td><td>6.4175</td><td>94.9400</td><td>6.8436</td><td>98.4400</td><td>6.0243</td><td>730</td><td>2.96E+02</td><td>99.22</td><td>5.9395</td></tr><tr><td>f</td><td>2.82E+03</td><td>4.30E+02</td><td>1.73e+03</td><td>2.97E+02</td><td>4.09E+02</td><td>4.30E+02</td><td>3.37E-05</td><td>2.15E-02</td><td>3.29E-04</td><td>3.15E-04</td></tr><tr><td>f</td><td>-22.7833</td><td>7.2362</td><td>-35.7983</td><td>6.7151</td><td>-21.4780</td><td>6.9626</td><td>-87.7179</td><td>6.8965</td><td>-1.33E+03</td><td>7.84E+03</td></tr><tr><td>f</td><td>-6.25E+02</td><td>58.9376</td><td>-9.05E+02</td><td>56.9366</td><td>-88.1146</td><td>61.7779</td><td>3.9798</td><td>8.21E+02</td><td>-1.99E+03</td><td>0</td></tr><tr><td>f10</td><td>-20.2773</td><td>0.1413</td><td>-20.8196</td><td>0.1154</td><td>-29.5700</td><td>0.4623</td><td>-21.1639</td><td>2.3569</td><td>-21.7376</td><td>1.3725</td></tr><tr><td>f1</td><td>7.5749</td><td>1.12E-03</td><td>6.2596</td><td>8.25e-04</td><td>8.0248</td><td>9.02e-04</td><td>10.2728</td><td>3.21E+02</td><td>0</td><td>0</td></tr></table></body></html>
+
+表11算法测试结果对比  
+表12Friedman 检验Tab.12 Friedman test  
+
+<html><body><table><tr><td>算法</td><td>秩均值</td><td>算法</td><td>秩均值</td></tr><tr><td>QIBAS</td><td>1.64</td><td>VSBAS</td><td>2.86</td></tr><tr><td>BSAS</td><td>2.26</td><td>BAS</td><td>3.25</td></tr><tr><td>SABAS</td><td>2.77</td><td></td><td></td></tr></table></body></html>
+
+从图3\~6可知，在维度 $K = 2 0 0$ 时，对于不同函数BAS、BSAS算法和SABAS算法的收敛效果各有优劣，而VSBAS算法的收敛效果一直优于BAS算法，但与本文改进的算法相比，效果并不显著。从图中可以看出QIBAS算法的收敛效果远远高于其他四种算法。
+
+![](images/440e8d5102497c0aa4092ae7dfc95d0a1067c9faf14d3cde96b76aae9474c9f5.jpg)  
+图3函数 $f _ { 1 }$ 收敛性能
+
+![](images/95b2c18fabd1d8515df917d04b656da40929e0261e98f302080dd197d385ec41.jpg)  
+Fig.3Function $f _ { 1 }$ convergence performance   
+图4函数 $f _ { 4 }$ 收敛性能  
+Fig.4Function $f _ { 4 }$ convergence performance
+
+![](images/9207dd557d36086910abde0cb3f875ae2f8100d29d034f47b7897980713f5325.jpg)  
+图5函数 $f _ { 9 }$ 收敛性能
+
+![](images/411d9278ef74c876727ce5660cf78898c4e6aeb6b36df394f2b8b5827a0d535e.jpg)  
+Fig.5Function $f _ { 9 }$ convergence performance   
+图6函数 $f _ { 1 1 }$ 各算法收敛性能对比  
+Fig.6Function $f _ { 1 1 }$ convergence performance
+
+从图7和8可知，BAS算法、VSBAS算法和SABAS算法在维度分别为 $K = 5 0 0$ 和 $K = 1 0 0 0$ 时，基本没有太大的收敛效果，甚至不收敛，而BSAS算法只是对函数 $f _ { 1 }$ 的收敛效果较好。这也证实了BAS算法在高维空间搜索的局限性。但本文改进的算法却依旧有较好的收敛性，甚至在 $K = 1 0 0 0$ 时，针对$f _ { 9 }$ 函数的收敛效果比在 $K = 5 0 0$ 的最优值更接近实际最优值。
+
+为了更进一步验证在更高维的问题中，本文算法的可行性，设计空间维度 $K = 5 0 0 0 , 1 0 0 0 0$ ，其结果如图9和10所示。从图中可以看出在维度为5000，10000时，本文算法依旧有更好的寻优性能。
+
+![](images/1fb29be88311e3515ff559373c8250a92db5d3e00299c0fcd28c27b66c52c82a.jpg)
+
+![](images/ac63e9ee6c4873646ff07121035151007d5547d6d6e997c64717f0099396624a.jpg)  
+Fig.7 （20 $K = 5 0 0$ ,convergence performance of functions   
+图8 $K = 1 0 0 0$ 时函数收敛性能
+
+![](images/7a2a054ff238e610bd12d74cb3a593070b2002b61bb9ff3a35c2a7eac84f14ab.jpg)  
+Fig.8 （2 $K = 1 0 0 0$ ,convergence performance of functions   
+图9 $K = 5 0 0 0$ 时各函数收敛性能
+
+![](images/bb6abe12147d5cad368b555721545e8e7d69812f44944f13d1e7d1a4d7c81a67.jpg)  
+图7 $K = 5 0 0$ 时函数收敛性能  
+Fig. 9 $K = 5 0 0 0$ ,convergence performance of functions   
+图10 $K = 1 0 0 0 0$ 时各函数收敛性能  
+Fig.10 $K = 1 0 0 0 0$ ,convergence performance of functions
+
+综合上图可以得出结论，本文改进算法(QIBAS)在维度不断加高时，依旧有较高的收敛精度，还有极快的收敛速度。而且在针对不同函数时，本文改进算法的收敛效果均较好，也侧面突出了改进策略的稳定性。而其他四种算法却随着维度的加高，针对不同函数来说，有些函数存在收敛效果，但对比低维度时效果大大减弱，收敛速度也大大降低。而有些则存在不收敛的情况。这也更进一步验证改进策略的稳定性和有效性。
+
+# 4 结束语
+
+为解决天牛须搜索算法在高维空间中搜索精度低和易陷入局部最优的问题，本文提出一种基于二次插值的天牛须搜索算法。通过二次插值的方式提升天牛跳出局部最优的能力，也有效的提升了天牛在高维空间中的搜索精度。仿真实验里对11个测试函数进行计算，结果表明，相比于遗传算法、粒子群算法和标准天牛须算法，改进算法在计算精度、稳定性和收敛速度上有明显的提升。同时也比较了引入模拟退火的天牛须算法、变步长策略的天牛须算法以及天牛群搜索算法，统计分析和计算结果均证明本文改进策略的有效性和稳定性。
+
+# 参考文献：
+
+[1]Dorigo M,Maniezzo V, Colorni A.Ant system: optimization by a colony of cooperating agents[J].IEEE Trans on Systems Man& Cybernetics Part B Cybernetics A,1996,26(1):29.   
+[2]Kennedy J,EberhartR.Particle swarm optimization [C]//Proc of IEEE International Conference on Neural Networks.Perth,Australia,USA: IEEE Press,1995:1942-1948.   
+[3]Coit D.Genetic algorithms and engineering design [J].Engineering Economist,1998,43 (4): 379-381.   
+[4]Karaboga D.An idea based on honey bee swarm for numerical optimization: Technical Report-TRo6 [R]. Kayseri: Erciyes University, 2005.   
+[5]Mirjalili S,Lewis A.The whale optimization algorithm[J].Advances in Engineering Software,2016,95:51-67.   
+[6]Deng Wu,Xu Junjie,Zhao Huimin.An improved ant colony optimization algorithm based on hybrid strategies for scheduling problem [J].IEEE access,2019,7:20281-20292.   
+[7]Nouiri M,BekrarA,Jemai A,et al.An effective and distributed particle swarm optimization algorithm for flexible job-shop scheduling problem [J].Journal of Intelligent Manufacturing,2018,29 (3): 603-615.   
+[8]AbdelhalimH,Ali D,IyadR.A genetic algorithm approach for locationinventory-routing problem with perishable products [J].Journal of Manufacturing Systems,2017,42.   
+[9]Wang Wenjie,Tian Guangdong,Chen Maoning,et al. Dual-objective program and improved artificial bee colony for the optimization of energy-conscious milling parameters subject to multiple constraints [J]. Journal of Cleaner Production,2020,245.   
+[10]褚鼎立，陈红，王旭光．基于自适应权重和模拟退火的鲸鱼优化算 法[J]．电子学报,2019,47(05):992-999.(Chu Dingli,Chen Hong, Wang Xuguang.Whale optimization algorithm based on adaptive weights and simulated annealing[J].Acta Electronica Sinica,2019,47 (05): 992-999.)   
+[11]肖理庆，王化祥．利用改进粒子群算法优化ERT有限元模型[J].计 算机应用研究,2017,34(05):1581-1584.(Xiao Liqing,Wang Huaxiang. Optimization of ERT finite element model using improved particle swarm optimization [J].Application Research of Computers,2017,34 (05): 1581-1584.)   
+[12] Jiang Xiangyuan,Li Shuai.BAS:beetle antennae search algorithm for optimization problems [J].arXiv preprint arXiv:1710.10724,2017.   
+[13] Zhu Zongyao,Zhang Zhiyu,Man Weishi,et al.A new beetle antennae search algorithm for multi-objective energy management in microgrid [C]// Pro of the 13th IEEE Conference on Industrial Electronics and Applications(ICIEA) .IEEE,2018:1599-1603.   
+[14] Sun Yuantian, Zhang Junfei,Li Guichen,et al.Optimized neural network using beetle antennae search for predicting the unconfined compressive strength of jet grouting coalcretes [J].International Journal for Numerical and Analytical Methods in Geomechanics,2019,43 (4):801- 813.   
+[15] Jiang Xiangyuan,Li Shuai.Beetle antennae search without parameter tuning (BAS-WPT) for multiobjective optimization [J].arXiv preprint arXiv:1711.02395,2017.   
+[16]Wang Jiangyu,Chen Huanxin.BSAS:Beetle Swarm Antennae Search Algorithm for Optimization Problems [J].arXiv preprint arXiv:1807. 10470,2018.   
+[17]卢光辉，滕欢，廖寒逊，等．基于改进天牛须搜索算法的分布式电源 选址定容[J]．电测与仪表,2019,56(17):6-12.(Lu Guanghui,Teng Huan,Liao Hanxun,et al.Location and volume of distributed power supply based on improved beetle search algorithm [J].Electrical Measurement and Instrumentation,2019,56 (17): 6-12.)   
+[18] Chen Tingting,Zhu Yongjian,Teng Jun.Beetle swarm optimization for solving investment portfolio problems [J].The Journal of Engineering, 2018,2018(16):1600-1605.   
+[19]孔慧华，孙英博，张雁霞．基于天牛须搜索的全变分最小化算法在 计算机断层成像内重建中的应用[J].激光与光电子学进展,2019, 56(21):90-96.(Kong Huihua,Sun Yingbo,Zhang Yanxia.The application of the full variational minimization algorithm based on the beetle whisker search in the reconstruction of computer tomography [J]. Las Optoelect Prog,2019,56 (21): 90-96.)   
+[20] Fang Wei,Sun Jun,Chen Huanhuan,et al.A decentralized quantuminspired particle swarm optimization algorithm with cellular structured population [J].Information Sciences,2016,330(C):19-48.

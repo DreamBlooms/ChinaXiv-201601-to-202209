@@ -1,0 +1,182 @@
+# 对CM0S相机采集的激光测距图像处理方法研究
+
+赵雪1,2，张训方1，汤儒峰1，张海涛1，李祝莲1(1．中国科学院云南天文台，云南 昆明 650011；2．中国科学院大学，北京 100049)
+
+摘要：将CMOS相机应用于云南天文台53cm双筒望远镜激光测距系统，使得空间目标测距回波率以及测距成功率得到大幅提升。在分析CMOS相机采集的数字图像信息的基础上，提出了优化的图像处理和激光光尖提取算法，有效实现了激光光尖的识别和目标质心坐标的提取。首先采用中值滤波和均值滤波对图像进行去噪声处理，然后使用最大类间方差法(Otsu)计算阈值对图像进行二值化以及选用Roberts算子进行边缘提取，最后采用最小二乘法进行直线拟合求解光尖坐标并计算其位置偏差。结果对进一步研究CMOS相机在 $5 3 \mathrm { c m }$ 双筒望远镜激光测距系统中的应用有重要意义。
+
+关键词：激光测距；图像分割；边缘检测；直线拟合；激光光尖识别中图分类号： 文献标识码：A 文章编号：1672-7673 （2018)
+
+云南天文台自1998年以来一直开展激光测距工作，积累了丰富的测距经验，2009年开展kHz卫星激光测距常规观测和空间碎片激光测距观测试验，观测的圈数和有效数据点数都在不断增加，在国际激光测距网中扮演着重要角色[1]。2016年新建了 $5 3 \mathrm { c m }$ 双筒望远镜激光测距系统，为分光路测距方式，一个镜筒发射激光，另一个镜筒接收被空间目标反射回的回波信号，2017年正式加入国际激光测距网，代号为7819。除了开展常规激光测距工作外，该系统还可用来进行空间碎片激光测距试验。
+
+激光测距时，望远镜根据卫星轨道预报跟踪测距目标，对于可见的测距目标，通过接收光路中的相机监测。卫星预报指根据卫星星历数据对当天经过测站上空的卫星进行总体预报，生成可观测卫星列表，以帮助观测人员合理规划卫星的观测计划，根据相应的卫星星历数据计算计划观测卫星在方位和高度上的预报位置，即望远镜跟踪引导数据[2]。由于空间目标（尤其是空间碎片）的预报轨道位置与实际位置存在一定的偏差，使得观测目标偏离相机视场的中心，因此，对于可见目标，53cm双筒望远镜控制系统采用电视闭环跟踪的方式将目标锁定在接收相机视场中心，2015年跟踪相机从视频CCD更换为CMOS相机。使用CMOS相机后，可以看到更高星等的目标，增强了系统的暗弱目标探测能力，使得识别目标与光尖变得切实可行。
+
+激光发射并通过大气时，与大气中的分子和气溶胶粒子之间相互作用产生各种物理过程，包括分子的瑞利散射、气溶胶粒子的米散射等多种散射过程，产生后向散射光。这种后向散射光直接代表了发射激光的出射方向[3]。因此，激光测距时，后向散射光进入CMOS相机，激光后向散射背景噪声信号直接影响测距目标识别与脱靶量提取，这是分光路式激光测距系统皆存在的问题。我国长春人造卫星观测站应用图像处理方法对目标质心和激光光尖识别解决该问题，文[1]给出了有效的目标识别和光尖提取方法。调研得[1，4-5]都是对相关问题的部分解决方法，文[4]是应用平均滤波法对白天测距图像进行预处理，矢量边界扫描法检测光束边缘信息；文[5]中提出图像累加的降噪处理方法。但由于53cm双筒望远镜接收光路中的分光镜是楔形且前后表面均有反射，二者反射的光不能聚到一起，使得在CMOS相机上成两个像，从采集的图像中可以看到有两个光束和两个目标，采用上述文献中的方法不能识别光尖，故需要为其研究新的光尖识别方法。
+
+本文针对53cm望远镜测距系统接收光路的特点，研究强背景噪声下目标和激光光尖的有效识别方法。结果可应用于望远镜目标跟踪闭环，发射激光方向修正，激光回波信号搜索以及跟踪目标的一些特性如亮度、旋转周期等的分析研究。
+
+# 1激光测距图像处理方法
+
+# 1.1激光测距图像
+
+![](images/3e63a56ba65c465a856049ac7641e72166e66f98cc0c89d07f6f86c3127d6974.jpg)  
+图153cm双筒望远镜激光测距收/发光路图  
+Fig.1 53cm binocular telescope laser ranging transmitting and receiving optical path
+
+图1为53cm双筒望远镜激光测距系统光路图[，测距跟踪空间目标时，C-SPAD探测器用来接收目标回波信号，CMOS相机跟踪监测可见的测距目标。望远镜CMOS相机接收系统具体参数如表1，例如，相机视场为0.5°，像素尺寸为 $6 . 5 \mu \mathrm { m } \times 6 . 5 \mu \mathrm { m }$ 。如上文中所说，因空间目标轨道预报有偏差，所以按轨道预报跟踪目标时，CMOS相机采集到的图像如图2所示，往往相机视场中心、目标以及光尖并不重合。为了测到回波信号，需要将目标和光尖均调至CMOS相机视场中心，如图3。从采集的图像中，可以明显看到有两个光束的情况；若目标比较亮则也能同时看到两个目标。
+
+表1望远镜接收系统参数  
+Table 1 Parameters of the telescope receiving system   
+
+<html><body><table><tr><td>参数</td><td>参数值</td></tr><tr><td>望远镜口径</td><td>530 mm</td></tr><tr><td>相机有效像素</td><td>2048(H)x2048(V)</td></tr><tr><td>视场角</td><td>0.5°</td></tr><tr><td>相机像素尺寸</td><td>6.5μm×6.5μm</td></tr><tr><td>相机曝光时间</td><td>10μs-10s</td></tr></table></body></html>
+
+![](images/a7b0f8a4f65c1a09be2c7d65dfe671494af3225c0acaed035906da5d32803063.jpg)  
+图2刚进入视场的图像
+
+![](images/0586edf47023b4e0be348a7170ec5d81ef89f96fc9915e7f69f7b618f81eceeb.jpg)  
+Fig.2The image just entering the field of view
+
+针对CMOS相机采集图像的特点，本文对采集的图像数据先滤波去除噪声，然后通过阈值分离目标和光束；分离后，一方面提取目标质心坐标，另一方面对二值图像进行开闭运算，检测光束的边缘，用最小二乘法直线拟合边缘数据，获得光尖坐标。因 $5 3 \mathrm { c m }$ 双筒望远镜一直在开展常规国际激光测距项目，因此这里借助激光测距卫星的数字图像数据进行53cm双筒望远镜的CMOS数据图像处理方法研究。
+
+# 1.2图像的预处理
+
+图4为激光测距卫星Lageos1的数字图像，卫星轨道高度 $5 8 5 0 \mathrm { k m }$ ，相机曝光时间 $5 0 0 \mathrm { m s }$ ，从图中可以看到有两个光束和两个目标。因后表面反射率小，反射的光较弱，从图像上可见有一个目标和光束较弱。这里对激光测距图像预处理是指对图像进行滤波去噪声和二值化。
+
+分别采用中值滤波，高斯滤波，均值滤波和负相变换等对大量采集的激光测距图像进行滤波去噪声处理，对比分析处理结果，本文采取中值滤波和均值滤波。由于图像的噪声来源主要有两部分，系统噪声和天空背景噪声，采用均值滤波和中值滤波对图像进行预处理，结果如图5，均值滤波的滤波窗为 $5 { \times } 5$ ，中值滤波的滤波窗为 $3 { \times } 3$ ，相应等高图如图6和图7。从等高图中可以看出，两种滤波进行预处理的效果较好，去除目标和光束周围的噪声，保留目标和光束的边缘完整。
+
+![](images/a643769fa633bd68d02f5da02dd42200ffcca8e502ede50c5a975184e7712a4b.jpg)  
+图3有回波信号的图像 Fig.3 Echoes of the image   
+图5滤波后图像Fig.5Filtered image
+
+![](images/6c87e75782ca372db27f4aeb85deae73fd0c6020614e2d4cb93b47097a413854.jpg)  
+图4采集的图像 Fig. 4 Captured image
+
+![](images/e203ad75cf7cdafe56c9e15cca18ef9e74488f673880ba3ce2fe43e943b6571f.jpg)  
+图6均值滤波对应的等高分布
+
+![](images/bbf767f7d86783be1d9702c91f5eafb2fe700ff20f9a7bf94f082f9f3ab77da0.jpg)  
+图7中值滤波对应的等高分布
+
+由于存在两个光束，二值化时在两个光束连接处无法确定边缘，影响对光束的提取，两光束在像素上相差较大，可通过阈值进行分割。阈值分割是图像分割的典型算法，常用的方法有直方图双峰法、最大墒法、Otsu法、梯度统计法等[7]。其中Otsu法以其分割效果好、适用范围广得到了广泛的应用。Otsu法也称为最大类间方差法或最小类内方差法，该方法基于图像的灰度直方图，以目标和背景的类间方差最大或类内方差最小为阈值选取准则[8]，在很多情况下能取得良好的分割效果。
+
+本文采用Otsu进行阈值分割，处理结果如图8和图9。该方法满足大部分目标，暗弱目标分割较困难。二值图像的中间出现空洞，是由于53cm双筒望远镜为中心同轴反射式望远镜，接收副镜在中心遮挡，导致图像中激光光束的中间像素较小。
+
+![](images/164beb24eaf31893e6c4d5cdb168e44bebb84c2818f896e9ef89e46031d6fce7.jpg)  
+Fig. 6 Average filter related contour plot surfaces   
+图8二值图像(1) Fig.8 Binary image (1)
+
+![](images/ffa338ebdcfb329f5c648bdc6eef33390c5ff25c37bdfd0d0a4706f8d4bded48.jpg)  
+Fig.7Median filter related contour plot surfaces   
+图9二值图像(2)Fig. 9 Binary image(2)
+
+# 1.3目标识别及其质心坐标计算
+
+卫星目标为近似圆的光斑，在二值图像中卫星目标的像素分布较集中，且目标的长和宽近似相等[5]。在二值化过程中因目标与光束在像素上有较大的差别，故可通过阈值分离目标和光束。在图像中搜索连通区域即目标区域，用传统质心算法求目标质心[9]，方法的计算过程如下：
+
+$$
+\begin{array} { r } { x _ { c } = \frac { \sum _ { i = 0 } ^ { n } \sum _ { j = 0 } ^ { n } x _ { i } G \left( x _ { i } , y _ { j } \right) } { \sum _ { i = 0 } ^ { n } \sum _ { j = 0 } ^ { n } G \left( x _ { i } , y _ { j } \right) } \mathrm { ~ , ~ } y _ { c } = \frac { \sum _ { i = 0 } ^ { n } \sum _ { j = 0 } ^ { n } y _ { i } G \left( x _ { i } , y _ { j } \right) } { \sum _ { i = 0 } ^ { n } \sum _ { j = 0 } ^ { n } G \left( x _ { i } , y _ { j } \right) } } \end{array}
+$$
+
+其中， $( x _ { c } , y _ { c } )$ 为目标质心坐标； $\left( x _ { i } , y _ { j } \right)$ 为各个像素点的图像坐标； $G \left( x _ { i } , y _ { j } \right)$ 为灰度值。即先对星点的灰度值求面积的矩，然后在该区域内作面积平均，进行求质心坐标，质心坐标记为
+
+$p _ { 0 } ( x _ { 0 } , y _ { 0 } )$ ，结果如图10。
+
+![](images/8aa3dd657a7a999b338691e9ff354b994f5e28f7b1161b9378dd6158e6aacf29.jpg)  
+图10质心坐标  
+Fig.10 Center of mass coordinates
+
+# 1.4激光光尖识别及光尖坐标计算
+
+激光光尖识别是在二值化的基础上对图像进行边缘检测和直线拟合求交点的。
+
+边缘是图像的最基本特征且包含了图像的大部分信息，边缘检测的实质是采用某种算法提取图像中对象与背景之间的交界线。通过边缘检测，提取边缘才能将目标和背景区分开来[10]。常用的方法有差分边缘检测、Roberts边缘检测算子、Sobel边缘检测算子、Prewitt边缘检测算子、Laplace边缘检测算子、Canny算子等。这些算子利用一阶导数取最大值，二阶导数过0点，或者选取合适的阈值，获取图像边缘，但它们都存在一定的局限性[]。有的抑制噪声的能力较差，有的在保持边缘连通性上能力较差。
+
+Roberts算子采用对角线方向相邻两像素之差近似的梯度幅值来检测边缘。算子定位比较精确，该算子包含两组 $2 \times 2$ 矩阵，但由于不包括平滑，所以对噪声比较敏感[12]。Roberts算子其卷积矩阵为： $\left[ { \begin{array} { c c } { 1 } & { 0 } \\ { 0 } & { - 1 } \end{array} } \right] \quad \left[ { \begin{array} { c c } { 0 } & { 1 } \\ { - 1 } & { 0 } \end{array} } \right]$ 具体公式为： $\operatorname { g } ( x , y ) = | f ( x , y ) - f ( x + 1 , y + 1 ) | +$ $| f ( x + 1 , y ) - f ( x , y + 1 ) |$ 。本文在预处理时已对图像进行滤波去噪声，经过对比大量激光测距图像处理结果，比较优缺点，采用Roberts算子，处理后得到如图11的边缘图像。
+
+二值图像光束中出现的空洞影响边缘检测后的数据提取，本文采用对二值图像进行填充的方法消除空洞。图像处理中用具有一定形态的结构元素度量和提取图像中的对应形状，以达到图像分析和识别的目的。数学形态学的应用可以简化图像数据，保持他们基本的形状特性,并除去不相干的结构[13]。
+
+把滤波后的二值图像先闭运算，消弥狭窄的间断和长细的鸿沟，消除小的空洞，并填补轮廓线中的断裂[14]，再进行开运算，使对象的轮廓变得光滑，断开狭窄的间断和消除细的突出物[15]，即把光束中间部分补齐（如图12)，又因大气的散射和反射作用的影响，激光图像有一定的偏差，特别是激光束尖端和尾部数据误差较大[4]，不能准确反映激光束的边缘信息，通过求最大的连通区域，将光束尖端和尾部剔除（如图13)，边缘检测之后不作为直线拟合的数据点，可以得到更好的激光束边缘信息，提高光尖的定位精度。
+
+![](images/df0eaf59db70c71864b53403d6380b80bcf5d30d9d7cff6b285a35ab85c233ca.jpg)  
+图11Roberts 提取边缘
+
+![](images/d9d0fe4dd7300664864a7a0176009e9175b059d45e6ee5656d420920d5b135ba.jpg)  
+图12填充图像 Fig.12Filled image
+
+![](images/cdd67e0062d270324b12c3864ed6dedb6a1bca1625cbfdc87f7ab8ac49f59411.jpg)  
+Fig.11 Roberts extract the edge   
+图14Roberts提取边缘Fig.14Robertsextractthe edge
+
+传统的边缘检测算法处理的边缘比较粗，定位精度低，采用对卷积后的梯度图像进行非极大值抑制及二值化处理可对边缘进行细化。非极大值抑制即将当前像素的梯度值和沿其梯度方向相邻的2个梯度值进行比较，如果比相邻的梯度值小，则此像素点为非边缘点；反之，则为边缘点[16]。若梯度值比设定的阈值大（本文设定阈值为100)，并且该点是局部变化的最大点，则将此点定义为图像边缘点，反之，则为非边缘点。
+
+对开闭运算后二值图像用Roberts算子进行边缘检测（如图14)，采用非极大值抑制后的图像边缘定位相对准确（如图15)。采用最小二乘法对激光光束边缘数据进行直线拟合，两条直线的交点即为光尖，光尖坐标记为 $p ( x , y )$ ，计算得到激光光尖坐标如图16。
+
+![](images/08c830c0ae7e01ddd45516a1e0980a6cec289923fed84606c0c3a22675322d00.jpg)  
+图13最大连通区域  
+图15 细化后的边缘  
+Fig.15 Refinement of the edge
+
+![](images/4ccb66f2012a2bca966b5addaddc39daf2490ec98014b81586a159ff0d3f7e17.jpg)  
+Fig.13 The largest connected area   
+图16直线拟合  
+Fig.16 Linear fitting
+
+# 2结果分析
+
+2018年1月7、23、24日和2月26、27日夜间，使用53cm双筒望远镜对激光测距卫星进行观测并采集图像，表2列出了采集图像的激光测距卫星，图像是在有回波信号时采集的，即光尖对准目标。图17为Hy2a和jason2两颗卫星激光测距图像经过图像处理后光尖拟合图和填充后的图像叠加，从图上可以看出拟合的光尖位置对准目标。对glonass102不同曝光时间的图像进行处理，共13幅图都能得到较好的效果，不同曝光时间（ $3 0 0 \mathrm { { m s } }$ ， $5 0 0 \mathrm { m s }$ 、 $8 0 0 \mathrm { { m s } }$ ）的光尖坐标与目标质心之差的数据如图18。
+
+经过一系列算法对测距图像进行处理，可以很好地识别目标质心和激光光尖位置，该方法可以取得较好的效果如图17。采集有回波的图像进行处理，共91幅图像，对光尖坐标和质心坐标做差，不同目标不同曝光时间的数据如图19，图中横坐标为处理图像目标数，纵坐标分别为x和y方向的差值，从图上可以看出，光尖与目标质心的差值范围较小，整体趋势平稳，因此该方法在实用中较好地应对大部分情况，能有效识别目标和光尖。
+
+![](images/bb94ac312f15aa8b23a748ce047af3d937d4baf50577d6eb521552a9b9ee80c5.jpg)  
+图17(a)海洋二号卫星拟合效果；(b)jason2拟合效果;  
+Fig.17 (a) hy2a fitting effect; (b) jason2 fitting effect
+
+表2目标列表  
+Table 2 List of Missions   
+
+<html><body><table><tr><td>测距目标</td><td>轨道高度</td><td>曝光时间</td></tr><tr><td>SwarmB</td><td>460km</td><td>500ms</td></tr><tr><td>Cryosat2</td><td>720km</td><td>100ms 300ms</td></tr><tr><td>Saral</td><td>814km</td><td>500ms</td></tr><tr><td>Geoik2</td><td>943.5-973.5km</td><td>300ms</td></tr><tr><td>Beacon</td><td>972km</td><td>500ms</td></tr><tr><td>Ajisai</td><td>1485km</td><td>500ms</td></tr><tr><td>Hy2a</td><td>971km</td><td>200ms 300ms 500ms 800ms</td></tr><tr><td>Jason2</td><td>1336km</td><td>300ms 400ms 500ms 600ms 800ms</td></tr><tr><td>Jason3</td><td>1336km</td><td>300ms 400ms 500ms 600ms 800ms</td></tr><tr><td>Lageos2</td><td>5625km</td><td>400ms 600ms 800ms</td></tr><tr><td>Lageos1</td><td>5850km</td><td>500ms</td></tr><tr><td>Glonass102</td><td>19140km</td><td>300ms 500ms 800ms</td></tr><tr><td>Galileo101</td><td>23220km</td><td>800ms</td></tr></table></body></html>
+
+![](images/c67231502bfc634612bafa151f4cbd1df4d6433f660adde7d1298f9596820108.jpg)  
+图18(a)、(b)glonass102不同曝光时间的光尖坐标与质心在x方向和y方向的差值
+
+![](images/b70ab3700413f1f0c199900ab77b6f921ab7ec6c4d417b29b368199a1b0104f5.jpg)  
+Fig.18(a)、(b) glonasslO2 deviation of light point coordinates and centroid at diferent exposure times in $\mathbf { \boldsymbol { x } }$ -direction and y-direction   
+图19 (a)、(b)为不同目标光尖坐标与质心在x方向和y方向的差值  
+Fig.19 (a)、(b) The deviation oflight point coordinates and centroid on different missions in $\mathbf { \boldsymbol { x } }$ -direction and $\mathbf { y }$ -direction
+
+# 3总结
+
+云南天文台53cm双筒望远镜激光测距系统采用高性能CMOS相机进行目标跟踪，使空间目标测距回波率以及测距成功率有一定程度的提高。激光测距中，因存在强激光后向散射，从而使得CMOS相机采集的图像中同时出现目标和激光光束。由于望远镜接收光路中的分光镜是楔形，而且镜子的前后表面均有反射，两表面反射的光不能聚到一起，所以在CMOS相机出现两个星像和两个光尖。因此，研究目标质心和光尖坐标提取，对进一步有效利用CMOS相机采集的数据具有重要意义。
+
+本文对卫星激光测距图像，在经典图像处理方法上加入了形态学的开闭运算，解决了图像出现双光束对图像处理的影响，实现了强激光后向散射背景噪声下的目标有效识别，通过多组试验，提取效果较好，但对于暗弱目标的识别还是存在问题。接下来，将进一步研究识别结果在望远镜电视闭环跟踪和其它目标特性分析中的应用。
+
+# Research on laser ranging image processing method captured by CMOS
+
+Zhao Xuel,2， Zhang Xunfang1,Tang Rufengl, Zhang Haitaol，Li Zhulianl (1．Yunnan Observatories，Chinese Academy of Sciences，Kunming 65oo11，China;
+
+Abstract: The CMOS camera used in Yunnan Observatory 53cm binocular laser ranging system, making space target ranging echo rate and ranging success rate has been greatly improved. On the basic of analyzing the CMOS digital image information of laser ranging,an optimized image processing and laser light point feature extraction algorithm is proposed，which has efficiently achieved laser light point recognition and target centroid coordinate extraction. Median filter and average filter to remove noise in the image; the Otsu method calculates the thresholds to realize image binarization and the Roberts operator is selected to detect the edge; linear fiting using least squares method solves the light point coordinates and calculates the position deviation. The results have important implications for further research in the application of CMOS camera binoculars $5 3 \mathrm { c m }$ laser ranging system.
+
+Key words: laser ranging; image segmentation; edge detection; linear fiting; laser light point recognition
+
+# 参考文献：
+
+[1] 黄宝利，韩兴伟，张楠，等.卫星激光测距系统的指向偏差修正[J].激光与红外，2014,  
+44(7): 715-719.Huang Baoli, Han Xingwei, Zhang Nan, et al. Axis correction of satelite laser ranging systembased on image processing technique[J].Laser & Infrared， 2014， 44(7): 715-719.  
+[2]黄涛，李祝莲，张海涛，等. $5 3 \mathrm { c m }$ 双筒激光测距望远镜控制系统的设计与实现[J].现代  
+电子技术，2014，37(16)：1-10.Huang Tao，Li Zhulian， Zhang Haitao，etal.Design and implementation for controlsystem of 53 cm binocular laser ranging telescope [J]. Modern ElectronicsTechnique，2014，37(16): 1-10.  
+[3]薛向尧，高云国.利用光束后向散射提高激光跟踪发射精度方法[J].红外与激光工程,  
+2013，42(8): 2001-2007.Xue Xiangyao， Gao Yunguo.Improvement method of laser pointing accuracy for thetracking and lasing system by backward scattering[J]. Infrared and LaserEngineering， 2013，42(8): 2001-2007.  
+[4] 王媛媛，刘艳红，胡元航,等.卫星激光测距系统中激光指向偏差测量的图像处理方法研究[J].东北师范大学报:自然科学版，2012，44(4)：66-70.Wang Yuanyuan，Liu Yanhong， Hu yuanhang，et al. Research on image processing methodsfor measuring laser pointing deviation in satellite laser ranging system[J].Journal ofNortheast University: Natural Science Edition， 2012， 44(4): 66-70.  
+[5] 王雅杰.空间碎片激光测量图像跟踪技术研究[D].武汉：中国地震局地震研究所，2013.  
+[6]翟东升，李语强，徐蓉,等.云文一发多收激光测距系统设计与实现[J].天文研究与技术，2017，14(3): 310-316.Zhai Dongsheng，Li Yuqiang， Xu Rong， et al. Design and realization of single telescopetransmiting and twin receiving laser ranging system at Yunnan Observatories[J]. AstronomicalResearch & Technology，2017，14(3):310-316.  
+[7]郝颖明，朱枫.2维Otsu自适应阈值的快速算法[J].中国图象图形学报，2005，10(4):  
+484-488.Hao Yingming， Zhu Feng. Fast algorithm for two dimensional Otsu adaptive thresholdalgorithm [J]. Journal of Image and Graphics， 2005，10(4): 484-488.  
+[8] 范九伦，赵凤.灰度图像的二维Otsu曲线阈值分割法[J].电子学报，2007，35(4)：751-755.Fan Jiulun， Zhao Feng. Two-dimensional Otsu's curve thresholding segmentation method forgray-level images [J]. Acta Electronica Sinica， 2007， 35(4): 751-755.  
+[9] 王洪涛，罗长洲，王渝，等.一种改进的星点质心算法[J].光电工程，2009，7(36)：55-59.Wang Hongtao， Luo Changzhou， Wang Yu， et al. An improved centroid algorithm for starpoint [J]. Opto-Electronic Engineering，2009，7(36): 55-59.  
+[10]王文丽.各种图像边缘提取算法的研究[D].北京：北京交通大学，2010.  
+[11] 陈汶滨，杨洋，彭博,等.基于自适应柔性形态学边缘检测算法研究[J].计算机工程与设计，2010,31:11.Chen Wenbin，Yang Yang，Peng Bo，et al. Edge detection based on adaptive softmorphological algorithm [J]. Computer Engineering and Design，2013，31(11): 250-2510.  
+[12]从焕武，郭福娟，吕飞,等.基于CCD图像处理的焊缝识别技术研究[J].电子测量技术，2012，3(35): 73-77.Cong Huanwu， Guo Fujuan，Lv Fei， et al. Research on weld seam recognition technologybased on CCD image processing [J].Electronic Measurement Technology， 2012，3(35): 73-77.  
+[13] 李朝锋，潘婷婷.基于形态学开闭运算的梯度优化的分水岭算法的目标检测方法[J].计算机应用研究，2009，26(4)：1593-1601.Li Chaofeng，Pan Tingting. Object detection method based on morphologicalopening-and-closing operation and gradient optimization [J]. Applications Research ofComputer，2009，26(4):1593-1601.  
+[14] 欧阳平，张玉方.形态学开闭运算在居民地边缘检测中的应用[J].测绘通报，2009,  
+2009(1):40-41.Ou Yangping, Zhang Yufang,Application of morphology open and close operation in residentedge detection[J]. Bulletin of Surveying and Mapping， 2O09(1):40-41.  
+[15] 张春成，牟能文.箔条干扰下海上舰船的图像识别方法[J].兵工自动化，2010，29(7)：81-83.Zhang Chuncheng, Mou Nengwen. Image recognition method for chaff jamming vessel atsea[J].Ordnance Industry Automation，201O，29(7): 81-83.  
+[16] 曹杨，苏丽娜，沈琪，等.一种改进的Sobel边缘检测算法的设计及其FPGA实现[J].微电子学与计算机，2012，29(10)：124-127.Cao Yang，Sui Lina， Shen Qi，et al. Design and realization of improved Sobel edge detectionalgorithm based on FPGA[J].Microelectronics & Computer，2012，29(10): 124-127.

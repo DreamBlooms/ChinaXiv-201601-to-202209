@@ -1,0 +1,204 @@
+# 氨气对肉鸡健康的影响及应对措施
+
+孙永波 邢焕栾素军 王亚萨仁娜 张宏福
+
+（中国农业科学院北京畜牧兽医研究所，动物营养学国家重点实验室，北京100193）摘要：氨气是鸡舍内危害最大的气体，长期氨气应激不利于肉鸡的健康生长。加强对肉鸡舍氨气浓度的监测，研究氨气对肉鸡健康的影响以及减排措施对指导鸡舍氨气浓度的合理调控和健康养殖的发展具有重要意义。本文主要通过综述舍内氨气的来源，氨气对肉鸡生长性能、屠宰性能和肉品质、免疫功能、呼吸道、繁殖性能、福利等方面的影响以及舍内氨气的监测和减排措施，为深入研究氨气对肉鸡健康影响的作用机制以及合理调控肉鸡舍内氨气浓度提供参考。
+
+关键词：氨气；肉鸡；危害；减排中图分类号：S831.4 文献标识码： 文章编号：
+
+随着肉鸡养殖集约化和规模化的发展，环境对肉鸡健康的影响越来越突出。在高密度密闭舍饲条件下，肉鸡舍内会产生大量有毒有害气体，其中氨气危害最大[1]。有研究报道，肉鸡在1\~3 周龄舍内氨气浓度应不超过 $1 3 \mathrm { m g / k g }$ ，在 4\~6 周龄应不超过 $2 0 \mathrm { m g / k g ^ { [ 2 ] } }$ 。我国行业标准中规定雏鸡舍氨气浓度不能超过 $1 0 \mathrm { m g / m } ^ { 3 }$ ，成鸡舍内的氨气浓度不能超过 $1 5 \mathrm { m g / m } ^ { 3 [ 3 ] }$ 然而在肉鸡养殖实践过程中，鸡舍内氨气浓度经常出现超标现象[4],养殖后期达到 $5 0 \mathrm { m g / k g }$ 甚至更高[5]。鸡对氨气的敏感性高，氨气强烈刺激肉鸡的眼睛，导致其觅食困难，影响鸡群生长性能以及代谢机能[6-7]；降低抗氧化能力[8]，损伤肝脏和小肠黏膜[9-10]，影响体温的调节[1]；氨气从呼吸道进入肺泡诱导多种呼吸道疾病的发生，经肺泡进入血液危害机体免疫系统[12]；此外，氨气易附于肉鸡的呼吸道以及消化道黏膜上，减弱肉鸡对细菌以及病毒等有害物的抵抗能力，给养殖业造成了严重的经济损失。因此，了解氨气对肉鸡健康的影响，降低舍内氨气含量，对于肉鸡健康养殖的发展具有重要意义。本文通过总结和分析氨气的来源、危害以及减排措施，为深入研究氨气的作用机理以及生产健康优质鸡肉提供理论依据。
+
+# 1舍内氨气的来源
+
+欧洲环境署研究报道， $92 \%$ 的氨气排放来自农业生产活动，其中 $80 \%$ 来自畜牧业[13]。肉鸡体内时刻都在产生氨气，大部分由器官组织代谢活动产生，少部分由肠道微生物分解产生[14]。研究报道，家禽饲粮中大约 $67 \%$ 的氮被排出体外，仅 $3 3 \%$ 的氮进入到组织或蛋中[]。1\~42 日龄，每只肉鸡的粪氮和挥发性氨氮总产量为每天 $0 . 3 7 \ \mathrm { g }$ ，最高可达每天 $0 . 7 8 \ \mathrm { g } ^ { [ 1 5 ] }$ 。张晓迪等[16研究发现，1\~42日龄，白羽肉鸡平均每只鸡排放氨气 $2 7 7 8 \ \mathrm { m g }$ ，平均氨气排放率为每天每只 $6 6 ~ \mathrm { { m g } }$ 。禽舍内氨气的来源主要包括以下方面：1）家禽的氮代谢主要通过氨基酸降解以及嘌呤核苷酸代谢生成尿酸，而相当数量的这些尿酸被排到动物胃肠道，在微生物脲酶的催化作用下，水解生成氨；2）家禽消化道短，营养物质消化率低，未消化的蛋白质、氨基酸等含氮营养物质以粪便形式排出，在各种微生物的作用下分解产生氨气；3）舍内饲料残渣和垫料等堆积发酵含氮有机物分解产生氨气[17]；此外，肉鸡饲养密度过高，鸡舍通风不良，湿度过高等多种因素均导致舍内氨气浓度升高[18]。
+
+# 2氨气对肉鸡健康的影响
+
+# 2.1 对生长性能的影响
+
+动物血液中氨气浓度过高会影响脑神经和肌肉细胞的新陈代谢，导致氨中毒，抑制采食中枢；另外，高浓度氨会加剧机体肝脏等器官解毒，消耗大量的能量，进而降低肉鸡的生长性能[19]。高浓度的氨气会降低肉鸡的体增重、采食量及饲料转化率。研究报道， $5 2 \mathrm { \ m g / k g }$ 的氨气显著降低 21日龄肉鸡的饲料转化率， $8 0 \ \mathrm { m g / k g }$ 的氨气显著降低42日龄肉鸡的平均日增重和平均日采食量[2]。李聪等[20]研究报道，随着鸡舍内氨气浓度的升高，肉鸡的平均日增重和日采食量降低。Charles 等[21]研究报道， $1 0 2 \mathrm { m g / k g }$ 的高浓度氨气持续处理1周，显著降低肉鸡的平均日采食量和日增重。李东卫等[22研究报道， $8 0 \ \mathrm { m g / k g }$ 氨气显著降低肉鸡的平均日增重和平均日采食量。Miles 等[23]研究发现， $0 , 2 5 , 5 0 , 7 5 \mathrm { m g / k g }$ 氨气处理肉鸡 $2 8 \textup { d }$ ,50和 $7 5 \mathrm { m g / k g }$ 组的肉仔鸡体重量显著低于对照组。综上，氨气应激能够降低肉鸡的生长性能，不利于肉鸡的健康生长。
+
+# 2.2对屠宰性能和肉品质的影响
+
+氨气应激可以在不同程度上降低肉鸡屠宰率、半净膛率、全净膛率、胸肌率和腿肌率;氨气应激显著升高了腿肌中饱和脂肪酸含量，降低了不饱和脂肪酸含量以及多不饱和脂肪酸与饱和脂肪酸的比值[24]。鸡舍高浓度氨气影响肉鸡的肉品质，研究发现，随着舍内氨气浓度的升高影响逐渐增强，并且具有时间累加效应[25]。高浓度的氨气使胸肌水疱发生，降低胴体评分等级[26]，增加胸肌滴水损失和剪切力，增加胸肌的亮度（L\*）值和黄度（b\*）值，降低了红度（a\*）值[27]。高通量测序表明， $2 5 \mathrm { \ m g / k g }$ 氨气导致胸肌重96个基因下调和 67个基因上调[28]。李聪等[20]研究报道，氨气显著升高肉鸡胸肌的滴水损失，但是胸肌pH、肉色的影响都未达显著水平；同时随氨气浓度的升高，腹脂率提高，表明高氨对肉鸡脂肪沉积有一定的影响。周风珍[29研究发现， ${ 5 0 } \mathrm { m L } / \mathrm { m } ^ { 3 }$ 氨气处理2周后，肉鸡胸肌pH显著降低，肉色L值显著增加。以上研究表明，氨气刺激能够降低肉鸡的屠宰性能和肉品质。
+
+# 2.3对免疫功能和血液生理指标的影响
+
+在氨气应激条件下，肉鸡产生大量的球蛋白来进行防御，但是，随着氨气应激时间的延长，动物机体的免疫功能逐渐下降[30]。胃肠道内氨和舍内环境氨共同作用影响肉鸡的免疫功能，有研究报道，氨气浓度达到 $1 5 ~ \mathrm { m g / k g }$ 时明显降低动物的抵抗力[31]。氨气经肺泡进入血液，与血红蛋白结合，使血红素变为正铁血红素，降低血红蛋白的携氧能力，使机体抵抗力下降[32]。氨气应激影响血液中细胞因子的含量，损害肉鸡的免疫功能[19]。有研究报道，高浓度氨气显著降低肉鸡血液中溶菌酶活性以及自然杀伤细胞杀伤活性[33]。李聪[34]研究发现， $5 0 \ \mathrm { m g / k g }$ 氨气显著降低42日龄肉鸡血清中白细胞介素 $- 1 \beta$ （IL-1β）和白细胞介素-6（IL-6）含量。氨气应激显著降低肉鸡血浆谷胱甘肽过氧化物酶活性，显著增加血浆丙二醛含量和谷氨酸丙酮酸转氨酶活性[35]。Zhang 等[9]研究报道， $7 5 \mathrm { m g / k g }$ 氨气导致肉鸡肝脏脂类合成、氨基酸分解、氧化应激和肝损伤相关蛋白上调21个，能量代谢、细胞骨架结构、免疫及炎症反应和解毒功能相关蛋白下调17个。宋弋等2研究报道，氨气通过肺泡进入血液，部分能够进入肝脏转化为尿酸，但是大部分存留在血液中，导致血氨浓度升高。张西雷[36]报道，舍内高浓度（ $7 7 0 \mathrm { \ m g / k g }$ ）氨气显著升高肉鸡血氨水平、血清总蛋白、球蛋白以及尿素氮含量；显著提高肉鸡血液中乳酸脱氢酶、肌酸激酶和碱性磷酸酶的活性。有研究报道，血液中红细胞数量、红细胞压积和红细胞平均体积随着氨气浓度的增加而升高[37。氨气显著升高了血清中与脂肪代谢有关的激素三碘甲腺原氨酸（T3）和四碘甲腺原氨酸（T4）含量，进而影响肉鸡的脂肪代谢[38]。
+
+# 2.4对呼吸系统的影响
+
+呼吸系统对氨气的刺激较为敏感，氨气经气管到达动物肺部，长时间处于氨气刺激下，气管和肺部组织会发生病变甚至坏死，严重时造成细支气管的上皮层堵塞、水肿、肺不张、出血和肺泡气肿，导致呼吸机能紊乱[39]。李聪[34]研究发现，随着氨气浓度升高，肉鸡气管组织中紧密连接蛋白-1（claudin-1）和黏蛋白-2（muc2）表达量皆显著降低，气管组织细胞半胱天冬酶-3（caspase-3）的表达量显著升高，表明氨气应激破坏了肉鸡气管组织的黏膜屏障作用，诱导肉鸡气管组织细胞发生调亡。有研究报道，氨气应激导致肉鸡气管上皮细胞脱落坏死和出血，肺脏明显出血和淤血，并且气管损伤和肺部损伤的程度随着氨气浓度的升高而增加[40-41]。
+
+# 2.5 对繁殖性能的影响
+
+高浓度的氨气会危害动物的繁殖机能，对胚胎发育造成危害[42-43]。氨气应激使得蛋鸡的产蛋性能下降，且随着氨气浓度的增高，影响越显著[44]。研究报道，当氨气浓度达到 23.4$\mathrm { m g / m } ^ { 3 }$ 时，氨气浓度每增加 $\mathrm { { 1 ~ m g / m } } ^ { 3 }$ ，产蛋率下降 $0 . 8 1 \% ^ { [ 4 5 ] }$ ；在 $5 0 { \sim } 8 0 ~ \mathrm { m g / k g }$ 的环境中饲养8周，产蛋量下降 $9 \%$ ， $1 0 0 ~ \mathrm { { m g / k g } }$ 饲养10周，产蛋率由 $81 \%$ 降低至 $6 8 \% ^ { [ 4 6 ] }$ ；当氨气浓度达到$2 0 0 \mathrm { m g / k g }$ 时，显著降低蛋鸡的产蛋量[47]。以上研究表明，氨气应激能够降低蛋鸡的产蛋量，损害繁殖性能。
+
+# 2.6 对福利的影响
+
+氨气对动物的损害程度取决于空气中氨气的浓度和与接触氨气时间的长短。长期氨气刺激影响肉鸡的福利。当鸡舍内氨气浓度达到 $2 5 \mathrm { \ m g / k g }$ 时，鸡的气囊炎发病率增加；当达到$5 0 ~ \mathrm { m g / k g }$ 时，鸡的眼睛角膜炎和结膜炎发病率增加[48]。李东卫等[22]研究报道， $5 0 ~ \mathrm { m g / k g }$ 氨气显著降低肉鸡的趴卧持续时间， $8 0 \mathrm { m g / k g }$ 氨气极显著降低肉鸡趴卧持续时间。孟丽辉等[49]研究报道，氨气显著影响了肉鸡的脚垫评分、跗关节评分及步态评分，随着舍内氨气浓度的升高，肉鸡羽毛污损、脚垫感染以及跛行等状况的发生率及严重程度加大。 $2 5 \mathrm { \ m g / k g }$ 氨气显著降低蛋鸡觅食、休息以及整理羽毛的行为频率[12]。Wathes[50研究报道，舍内氨气超过$5 0 \mathrm { \ m g / k g }$ 导致肉鸡跛行明显，加剧跗关节或脚垫处的皮肤损伤及炎症，福利水平降低。王忠等[37研究报道，氨气浓度低于 $4 0 \mathrm { m g / k g }$ 不会导致肉鸡腹水征的发生，而 $8 0 ~ \mathrm { m g / k g }$ 的氨气会诱发腹水征。
+
+# 3应对措施
+
+# 3.1加强饲养管理和环境监测
+
+研究发现，畜禽舍内氨气浓度与舍内温度、湿度密切相关[51]。Ferguson 等[52]研究发现，湿度较高导致舍内垫料氨气释放量增加。Wheeler 等[53]发现垫料重复使用的鸡舍氨气排放量显著高于使用新鲜垫料的鸡舍。因此，保持畜禽舍内清洁及时清除舍内粪便，更换新鲜垫料，控制适宜的温度和湿度，合理的通风换气，能够有效降低舍内氨气浓度。此外，对肉鸡舍内氨气浓度进行监测，了解舍内氨气变化情况，才能及时地调控舍内氨气状况。目前，采用现代化的鸡舍环境监测系统结合多种环境指标传感器，进行肉鸡舍环境多点连续监测，能够实时监测舍内温度、湿度和氨气等多种环境指标，并实现数据自动分析处理和超阈值自动报警，为鸡舍管理提供科学的方法，提高管理效率[54-55]。彭占武等[56]设计基于 ZigBee 的无线环境监测系统，能够对鸡舍内温度、湿度、氨气等环境参数进行监测，养殖户可通过互联网随时随地查看鸡舍内环境的实时数据。
+
+# 3.2 合理调控饲粮
+
+饲粮组成是影响肉鸡舍内氨气浓度的一个主要原因。利用理想蛋白质技术配制低蛋白饲粮，降低饲粮蛋白质水平，提高蛋白质的利用率，减少氮的排出量。氨气的产生与饲粮中蛋白质含量及消化率有关。研究发现，鸡舍内氨气的主要来源是微生物降解肉鸡排泄物中的氮，而排泄物中的氮 $9 9 \%$ 来自饲料[15]。研究报道，在肉鸡饲粮中保持必需氨基酸摄入量的同时降低总蛋白质的含量能够减少氮的损失，饲粮蛋白质水平每降低 $1 \%$ ，尿氮和粪氮的排出分别减少 $8 \% \sim 9 \%$ 和 $2 \% \sim 3 \%$ ，氨气的排放量减少 $8 . 0 \% \sim 1 2 . 5 \% ^ { [ 5 7 . 5 8 ] } \$ 0
+
+# 3.3 合理使用添加剂
+
+通过在饲粮中添加酶制剂、益生菌、植物提取物降低粪中氨气的排放。在饲粮中添加酶制剂能够降低肠道内容物的黏度，提高肠道酶活，提高营养物质的消化率，进而降低粪便中氮含量，减少舍内氨气的产量[59]。益生菌可减少氨及其他有害物质的生成，使肠道中氨含量降低，从而降低氨气的排放量。Hossain等[6研究报道饲粮中添加 $0 . 1 \%$ 复合益生菌（枯草芽孢杆菌、丁酸梭菌和嗜酸乳酸杆菌）显著减少氨气的排放量。孙瑞锋等[61]研究发现，饲粮中添加 $0 . 3 \%$ 菊糖和 $0 . 1 \%$ 芽孢杆菌能够有效的减少肉鸡排泄物中氨气散发量。丝兰属等植物提取物有较强的吸附能力,改善肠道内环境，减少氨气的排放量,改善鸡舍空气质量[62-64]。此外，脲酶抑制剂能够抑制肠道内容物或排泄物中微生物脲酶的活性，从而抑制含氮化合物尿酸、尿素等的分解，减少氨气的排放。研究报道，在饲粮中添加脲酶抑制剂能够影响体内氮代谢，有效降低粪尿中氨态氮的分解速度，减少排泄物中总氮的排放量进而降低舍内氨气含量[65-60]。此外，铝盐引起鸡粪中pH的下降和脲酶活性、氮损失的改变，从而控制鸡粪中氨的释放[67]。
+
+# 3.4 排泄物处理
+
+粪便堆肥是对畜禽粪便无害化处理最常用，最有效的方法之一，但在堆肥过程中会产生大量氨气，许多研究表明，可通过改善堆肥条件，降低氨气排放，如粪中添加小麦桔、椰子壳纤维或泥煤进行堆肥发酵，通过提高碳氮比，可有效减少氨气挥发，降低氮损失[8]。粪便含氮物质降解产生的氨首先以铵根离子（ $\mathrm { N H _ { 4 } } ^ { + }$ ）的形式溶于水中，随着水中 $\mathrm { N H _ { 4 } } ^ { + }$ 浓度的逐渐升高，使得电离平衡 $\mathrm { N H _ { 4 } } ^ { + } $ 氨 $^ +$ 氢离子（ $\boldsymbol { \mathrm { H } } ^ { + }$ ）向右移动；当水中氨升高至一定的浓度后，氨便以气态形式释放进入空气[17,9-70]，降低粪便 $\mathfrak { p H }$ ，氨则会向 $\mathrm { N H } _ { 4 } ^ { + }$ 的方向转化，氨的产生量越少。微生物除臭剂施用于粪便中后能快速产生优势菌群，通过微生物的硝化作用，可以实现废弃物的无害化处理，抑制产氨微生物生长或增强优势菌群对氨的吸收，降低氨气排放量[71-72]。有研究表明，在鸡粪便中接种部分土壤，增加新鲜粪便中细菌和真菌的数量，能够加速粪便中铵态氮（ $\mathrm { N H } _ { 4 } ^ { + }$ -N）的转化，降低氨气的排放[73-74]。Gutarowska 等[75研究报道，将多株菌添加到家禽粪便中，能够有效减少粪便氨气的产生。Kim 等[7向肉鸡粪便中添加硝化细菌，有效降低粪便中 $\mathrm { N H _ { 4 } ^ { + } { - } N }$ 的浓度，进而降低氨气的散发量。刘雪兰等[77研究显示，鸡舍内铺洒中药渣垫料能显著降低舍内氨气浓度，可能是氨气被中药渣吸附后，在微生物的硝化作用下转化为硝态氮。活性炭、沸石等吸附剂表面积大、孔隙多、吸附能力强能够有效降低舍内氨气浓度[17]。研究表明，通过向家禽粪便加入膨润土、沸石、明矾等，可以最有效地减少氨气排放量[78-79]。
+
+# 4小结
+
+随着肉鸡产业集约化的发展以及遗传育种技术的不断提高，肉鸡的生长性能不断提高，出栏日龄逐渐缩短，但是肉鸡受环境的影响越来越大。本文总结分析了肉鸡舍内氨气的来源、危害和减排措施，但是氨气对肉鸡健康影响的具体作用机制尚不清晰。而且目前多数为评估鸡舍氨气浓度单一因素对肉鸡的影响，而结合温、湿度等多因素组合效应的研究鲜有报道。因此，深入研究鸡舍内氨气浓度变化，结合多组学等新技术明确氨气对肉鸡健康的影响的作用机理，探索降低舍内氨气的切实有效措施，对我国肉鸡产业的健康发展意义重大。
+
+# 参考文献：
+
+[1] FIONA S,CARLILE.Ammoniain poultryhouses:a literature review[J].Pigs& Poultry,1986,40(2):99-113.   
+[2] 宋弋,王忠,姚中磊,等.氨气对肉鸡生产性能、血氨和尿酸的影响研究[J].中国家 禽,2008,30(13):10-12,16.   
+[3] 中华人民共和国农业部.中华人民共和国农业行业标准畜禽场环境质量标准 NY/T 388-1999[J].养猪,2005(1):42-43.   
+[4] WHYTE R T.Aerial pollutants and the health of poultry farmers[J].Worlds Poultry Science Journal,1993,49(2):139-156.   
+[5] MILLER W W,MASLIN W R,THAXTON JP,et al.Interactive effects of Ammonia and light intensity on ocular,fear and leg health in broiler chickens[J].International Journal of Poultry Science,2007,6(10):762-769.   
+[6] RITZ C W,FAIRCHILD B D,LACY M P.Implications of ammonia production and emissions from commercial poultry facilities:a review[J].Journal of Applied Poultry Research,2004,13(4):684-692.   
+[7] BOBERMIN L D,QUINCOZES-SANTOS A,GUERRA M C,et al.ResVeratrol prevents ammonia toxicity in astroglial cells[J].PLoS One,2012,7(12):e52164.   
+[8] WEI F X,HU X F,SA R N,et al.Antioxidant capacity and meat quality of broilers exposed to different ambient humidity and ammonia concentrations[J].Genetics and Molecular Research,2014,13(2):3117-3127.   
+[9] ZHANG J Z,LI C,TANG X F,et al.High Concentrations of atmospheric ammonia induce alterations in the hepatic proteome of broilers (Gallus gallus):An iTRAQ-based quantitative proteomic analysis[J].PLoS One,2015,10(4):e0123596.   
+[10] ZHANG J Z,LI C,TANG X F,et al.Proteome changes in the small intestinal mucosa of broilers(Gallusgallus） inducedbyhighconcentrationsofatmospheric ammonia[J].Proteome Science,2015,13(1):9.   
+[11]YAHAV S.Ammonia affectsperformance and thermoregulation of male broiler chickens[J].Animal Research,2004,53(4):289-293.   
+[12]KRISTENSEN H H,WATHES C M.Ammonia and poultry welfare:a review[J].Worlds Poultry Science Journal,2000,56(3):235-245.   
+[13]KLIMEK A W,CURE D B,HOLMAN S,et al.Status report on emissions and deposition of atmospheric nitrogen compounds from animal production in north Carolina division of air quality[J].1999,39(2):494.   
+[14]赵勇,沈伟,张宏福.大气微粒、氨气和硫化氢影响动物繁殖机能和生产性能的研究进展 [J].中国农业科技导报,2016,18(4):132-138.   
+[15]MITRAN L,HARTER-DENNIS JM,MEISINGER J J.Determining the nitrogen budget and total ammoniacal nitrogen emissions from commercial broilers grown in environmental chambers[J].Journal of Applied Poultry Research,2008,17(1):34-46.   
+[16]张晓迪,卢庆萍,张宏福,等.利用呼吸舱测定肉鸡氨气排放的研究[J].畜牧兽医学 报,2014,45(2):249-254.   
+[17]陈国营,詹凯,李吕木.家禽生产过程中 $\mathrm { N H } _ { 3 }$ 的产生及控制研究进展[J].中国农学通 报,2012,28(5):8-12.   
+[18]赵建文.微生态制剂对鸡舍氨气和肉鸡免疫系统的影响[D].硕士学位论文.泰安:山东农 业大学,2011.   
+[19]魏凤仙,胡骁飞,张敏红,等.相对湿度和氨气应激对肉仔鸡血氨水平及细胞因子含量的 影响[J].动物营养学报,2013,25(10):2246-2253.   
+[20]李聪,卢庆萍,唐湘方,等.不同氨气浓度对肉鸡生长性能及肉质性状的影响[J].中国农业 科学,2014,47(22):4516-4523.   
+[21] CHARLES D R,PAYNE C G.The influence of graded levels of atmospheric ammonia on chickens:II .Effectsontheperformanceoflayinghens[J].BritishPoultry
+
+Science,1966,7(3):189-198.
+
+[22]李东卫,卢庆萍,白水莉,等.模拟条件下鸡舍氨气浓度对肉鸡生长性能和日常行为的影 响[J].动物营养学报,2012,24(2):322-326.
+
+[23]MILES D M,BRANTON S L,LOTT B D.Atmospheric ammonia is detrimental to the performance of modern commercial broilers[J].Poultry Science,2004,83(10):1650-1654.
+
+[24]XING H,LUAN S J,SUN Y B,et al.Effects of ammonia exposure on carcass traits and fatty acid composition of broiler meat[J].Animal Nutrition,2016,2(4):282-287.
+
+[25]邢焕,栾素军,孙永波,等.舍内不同氨气浓度对肉鸡抗氧化性能及肉品质的影响[J].中国农业科学,2015,48(21):4347-4357.
+
+[26]QUARLES C L,KLING H F.Evaluation of ammonia and infectious bronchitis vaccination stress on broiler performance and carcass quality[J].Poultry Science,1974,53(4):1592-1596.
+
+[27]魏凤仙,徐彬,萨仁娜,等.不同湿度和氨水平对肉仔鸡抗氧化性能及肉品质的影响[J].畜牧兽医学报,2012,43(10):1573-1581.
+
+[28]YI B,CHEN L,SA R N,et al.Transcriptome Profile analysis of breast muscle tissues from high or low levels of atmospheric ammonia exposed broilers (Gallus gallus)[J].PLoS One,2016,11(9):e0162631.
+
+[29]周风珍.鸡舍氨浓度对肉仔鸡免疫机能和肉品质影响的研究[D].硕士学位论文.广州:华南农业大学,2003.
+
+[30]ANDERSON D P,BEARD C W,HANSON R P.The Adverse effects of ammonia on chickens including resistance to infection with Newcastle disease virus[J].Avian Diseases,1964,8(3):369-379.
+
+[31] JONES K D,MARTINEZ A,MAROO K,et al.Kinetic evaluation of $\mathrm { H } _ { 2 } \mathrm { S }$ and $\mathrm { N H } _ { 3 }$ biofiltration for two media used for wastewater lift station emissions[J].Journal of the Air and Waste Management Association,2004,54(1):24-35.
+
+[32]阳艳林,薛国聪.畜舍内氨的产生、危害及调控措施[J].养猪,2009(2):46-48,3.
+
+[33]宋弋,王忠,姚中磊,等.慢性氨气暴露对肉鸡NK细胞杀伤活性和血清新城疫抗体效价和溶菌酶的影响[J].中国畜牧杂志,2009,45(7):47-50.
+
+[34]李聪.不同浓度氨气对肉鸡生长性能及呼吸道黏膜屏障的影响[D].硕士学位论文.北京:中国农业科学院,2014.
+
+[35]LU M,BAI J,XU B,et al.Effect of $\mathfrak { a }$ -lipoic acid on relieving ammonia stress and hepatic proteomic analyses of broilers[J].Poultry Science,2016,96(1):88-97.
+
+[36]张西雷.氨气对肉鸡的影响及地衣芽孢杆菌对氨气减量排放的技术研究[D].硕士学位论文.泰安:山东农业大学,2006.
+
+[37]王忠,宋弋,汪以真,等.氨气对肉鸡生产性能、血液常规指标和腹水症发生率的影响[J].中国畜牧杂志,2008,44(23):46-49.
+
+」邢焕.舍内氨气对肉鸡脂肪代谢的影响[D].硕士学文论文.北京:中国农业科学院,2015.
+
+[39]BOYD E M,MACLACHLAN M L,PERRY W F.Experimental ammonia gas poisoning in rabbits and cats[J].Journal of Industrial Hygiene and Toxicology,1944,26(1):29-34.
+
+[40] 张西雷,张莉平,王春民,等.试验性肉鸡氨气急性中毒的病理学研究[J].家畜生态学报,2006,27(1):63-65.
+
+[41] BEKER A,VANHOOSER S L,SWARTZLANDER J H,et al.Atmospheric ammonia concentration effects on broiler growth and performance[J].Journal of Applied Poultry Research,2004,13(1):5-9.
+
+[42] BEHERA S N,SHARMA M,ANEJA V P,et al.Ammonia in the atmosphere:a review on emission sources,atmospheric chemistry and deposition on terrestrial bodies[J].Environmental Science and Pollution Research,2013,20(11):8092-8131.
+
+[43]HAMMON D S,HOLYOAK G R,DHIMAN T R.Association between blood plasma urea nitrogen levels and reproductive fluid urea nitrogen and ammonia concentrations in early lactation dairy cows[J].Animal Reproduction Science,2005,86(3/4):195-204.
+
+[44]郝二英,陈辉,赵宇,等.不同浓度氨气对蛋鸡生产性能、蛋品质的影响[J].中国家禽,2015,37(19):36-39.
+
+45]布仁,红华.环境因子对蛋鸡生产性能的影响[J].家畜生态学报,2001,22(2):40-43.
+
+[46]ALCHALABI D.Environmental management ofthepoultryhouse[J].Poultry International,2003,42(3):26-31.
+
+[47]DEATON J W,REECE F N,LOTT B D.Effect of atmospheric ammonia on laying hen performance[J].Poultry Science,1982,61(9):1815-1817.
+
+[48]ESTEVEZ I.Ammonia and poultry welfare[J].Poultry Perspectives,2002,4(1):1-3.   
+[49]孟丽辉,李聪,卢庆萍,等.不同氨气浓度对肉鸡福利的影响[J].畜牧兽医学 报,2016,47(8):1574-1580.   
+[50] WATHES C M.Aerial emissions from poultry production[J].Worlds Poultry Science Journal,1998,54(3):241-251.   
+[51] CAREY J B,LACEY R E,MUKHTAR S.A Review of literature concerning odors,ammonia,and dust from broiler production facilities:2.flock and house management factors[J].Journal of Applied Poultry Research,2004,13(3):509-513.   
+[52]FERGUSON N S,GATES R S,TARABA JL,et al.The effect of dietary crude protein on growth,ammoniaconcentration,andlittercompositioninbroilers[J].Poultry Science,1998,77(10):1481-1487.   
+[53] WHEELER E F,CASEY K D,GATES R S,et al.Ammonia emissons from twelve U.S. broiler chicken houses[J].Transactions of the ASABE,2006,49(5):1495-1512.   
+[54]王欢,李骅,尹文庆,等.基于无线传输的鸡舍环境远程监测系统[J].南京农业大学学 报,2016,39(1):175-182.   
+[55]苏扬,刘亮.基于 Zigbee 和嵌入式系统的养殖场环境智能监控系统[J].中国农机化学 报,2016,37(5):76-80.   
+[56]彭占武,王雪,袁洪印.鸡舍环境无线监测系统的设计与实现[J].中国农机化学 报,2015,36(5):108-111,124.   
+[57]朱丽媛,卢庆萍,张宏福,等.猪舍中氨气的产生、危害和减排措施[J].动物营养学 报,2015,27(8):2328-2334.   
+[58]MCLEOD M G,MCNEILL L,KIM J H.Food intake,weight gain,food conversion ratio,breast muscle weight and abdominal fat weight in broiler chickens fed on diets of varying protein quality[J].British Poultry Science,2003,44(1S):28-29.   
+[59]魏凤仙.湿度和氨暴露诱导的慢性应激对肉仔鸡生长性能、肉品质、生理机能的影响及
+
+其调控机制[D].博士学位论文.杨凌:西北农林科技大学,2012.
+
+[60]HOSSAIN M M,BEGUM M,KIM I.Effect of Bacillus subtilis,Clostridium butyricum and Lactobacillus acidophilus endospores on growth performance,nutrient digestibility,meat quality,relative organ weight,microbial shedding and excreta noxious gas emission in broilers[J].Veterinarni Medicina,2015,60(2):77-86.
+
+[61]孙瑞锋,步长英,李同树.菊糖和枯草芽孢杆菌对肉鸡肠道菌群数量及排泄物氨气散发量的影响[J].华北农学报,2008,23(S1):252-256.
+
+[62]周霞,张海滨,周明东,等.4 种植物提取物对肉鸡氨气散发、生长性能及血液生化指标的影响[J].中国兽医学报,2012,32(5):793-797,804.
+
+[63]LI H L,ZHAO P,LEI Y,et al.Phytoncide,phytogenic feed additive as an alternative to conventional antibiotics,improved growth performance and decreased excreta gas emission withoutadverseeffecton meatquality inbroilerchickens[J].Livestock Science,2015,181:1-6.
+
+[64]BOSTAMI A B M R,AHMED S T,ISLAM M M,et al.Growth performance,fecal noxious gas emission and economic efficacy in broilers fed fermented pomegranate byproducts as residue of fruit industry[J].International Journal,2015,3(3):102-114.
+
+[65]MACKIE R I,STROOT PG,VAREL V H.Biochemical identification and biological origin of key odor components in livestock Waste[J].Journal of Animal Science,1998,76(5):1331-1342.
+
+[66]许金新.饲料源樟科植物提取物对肉鸡氮代谢及排泄物氨逸失的影响[D].硕士学位论文.杭州:浙江大学,2004.
+
+[67]焦洪超,张洪芳,林海.铝盐对鸡粪中氨气释放的影响及其机理研究[J].畜牧兽医学报,2009,40(4):522-527.
+
+[68]刘志云.氨氮降解菌的分离鉴定及其抑制鸡粪氨气挥发效果的研究[D].硕士学位论文.北京：中国农业科学院,2015
+
+[69]LIU Z F,WANG L J,BEASLEY D,et al.Effect of moisture content on ammonia emissions from broiler litter:a laboratory study[J].Journal of Atmospheric
+
+Chemistry,2007,58(1):41-53.
+
+[70]陈国营.鸡粪抑氨菌的分离、鉴定及其制剂的研究[D].硕士学位论文.合肥:安徽农业大学,2012.
+
+[71]陈书安,袁晓凡,赵兵,等.应用微生物与秸秆降低鸡粪氨气释放量(英文)[J].微生物学通报,2011,38(4):503-507.
+
+72]陈国营,詹凯,陈丽园,等.降低鸡粪氨释放的微生物研究[J].中国家禽,2011,33(8):9-13.
+
+[73]DIAZ D A R,SAWYER J E,MALLARINO A P.Poultry manure supply of potentially available nitrogen with soil incubation[J].Agronomy Journal,2008,10o(5):1310-1317.
+
+[74]刘志云,刘国华,蔡辉益,等.鸡粪中氨氮降解菌的分离鉴定及除氨适宜条件研究[J].中国农业科学,2016,49(6):1187-1195.
+
+[75]GUTAROWSKA B,MATUSIAK K,BOROWSKI S,et al.Removal of odorous compounds frompoultry manure by microorganisms on perlite-bentonite carrier[J].Journal of Environmental Management,2014,141:70-76.
+
+[76]KIM W K,PATTERSON P H.Ammonium-nitrogen transformation and nitrogen retention in broilermanuresupplementedwithasoilamendmentcontainingnitrifying bacteria[J].Journal of Environmental Science and Health: Part B,2006,41(2):121-133.
+
+[77]刘雪兰,张燕,高金波.不同垫料对肉鸡舍内氨气浓度、肉鸡生产性能及血液生化指标的影响[J].家畜生态学报,2015,36(11):42-47.
+
+[78] WLAZLO L,NOWAKOWICZ-DEBEK B,KAPICA J,et al.Removal of ammonia from poultry manure by aluminosilicates[J].Journal of Environmental Management,2016,183:722-725.
+
+[79] EUGENE B,MOORE Jr,P A,LI H,et al.Effect of alum additions to poultry litter on in-house ammonia and greenhouse gas concentrations and emissions[J].Journal of Environmental Quality,2015,44(5):1530-1540.
+
+Effects of Ammonia on Health of Broilers and the Countermeasures   
+SUN Yongbo XING Huan LUAN Sujun WANG Ya SA Renna\*ZHANG Hongfu   
+(State Key Laboratory of Animal Nutrition, Institute of Animal Science, Chinese Academy of Agricultural Science,Beijing 10o193, China)
+
+Abstract: Ammonia is the most harmful gas in the chicken house,and long-term ammonia stress is not conducive to the healthy growth ofbroiler chickens.It is of great significance to strengthen the monitoring of ammonia concentration in broiler houses and study the effects of ammonia on the health of broilers,and to reduce the emission of ammonia nitrogen for guiding the rational control of the ammonia in broiler houses and the development of healthy breeding. In this paper, we mainly reviewed the effects of ammonia on growth performance, slaughter performance and meat quality, immune functions,respiratory tract, reproductive performance and welfare and other aspects of broilers,and the monitoring and abatement measures of ammonia, aiming to provide a reference for further researches on the mechanism of ammonia affects broiler health and reasonable regulation of ammonia in broiler house.
+
+Key words: ammonia; broiler; harm; emission reduction

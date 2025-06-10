@@ -1,0 +1,837 @@
+[
+    {
+        "type": "text",
+        "text": "能效优先的用户关联与功率控制协同优化机制",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "彭大芹1,²，王付龙1,2，孙向月1,2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．“新一代信息网络与终端”重庆市协同创新中心，重庆 400065;2.重庆邮电大学电子信息与网络工程研究院，重庆400065)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在异构蜂窝网络中，针对系统的能效，提出了一种基于效用函数最大化模型的用户关联与功率控制协同优化方案，该方案表示为非线性混合整数问题。为了求得该问题的最优解，设计了一种迭代算法，首先将原问题转换为带参数的多项式形式的问题，在外层循环利用Dinkelbach方法求得最佳的能效因子，然后在内层循环分别求得最佳的用户关联矩阵和传输功率。最终实验结果表明，用户关联与功率控制协同的优化方案在能效和负载平衡方面比固定功率条件下的用户关联策略的性能更优。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：能效；异构蜂窝网络；效用函数；用户关联；功率控制；非线性混合整数；迭代算法中图分类号：TN929.5 doi:10.3969/j.issn.1001-3695.2017.12.0827",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Collaborative optimization mechanism of energy efficient user association and power control ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Peng Daqin1, 2, Wang Fulong1, 2†, Sun Xiangyuel, 2 (1.ChongqingColaborative Innovation Center for InformationCommunication Technology,Chongqing 4065,China;2. Electronic Information&Networking Research Institute,Chongqing UniversityofPosts &Telecommunications,Chongqing 400065, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:This paper presentedacollborativeoptimizationschemebasedontheutility function maximization modelforuser associationand powercontrolto increaseenergy eficiency in heterogeneous celular networks,this schemeexpressedasa nonlinearand mixed integerproblem.Inordertofoundtheoptimal solutionofthisproblem,designedaniterativealgorithm, first,the original problem was transformedintoapolynomialproblem with parameters,then,found thebest energy effciency factor byDinkelbach method inouter layer,next,obtained the optimal userassociation matrixandtransmission power respectively ininer layer.Atlast,experimentalresults shows thatthe proposed scheme has beterperformance in termsof energy efficiency and load balancing than the user association strategy at fixed power. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:energyeficiency;heterogeneouscelularnetwork;utityfunction;userassociation;powercontrol; nonliearand mixed integer problem; iterative algorithm ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着移动通信的发展，智能终端设备得到了快速的普及，并且移动数据流量也呈现出飞速的增长，现有的无线通信技术很难满足这种需求。为了应对日益剧增的数据流量的需求以及紧张的频谱资源问题，异构蜂窝网络应运而生[1]。异构蜂窝网络架构的引入带来了跨层干扰，使系统内的干扰更加复杂，另外，密集部署的小基站也给能源和环境带来了巨大的挑战[2]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "许多文献研究了异构蜂窝网络基站（BS)端的能效问题[3]。在基站共用相同的频谱资源时，文献[1,2]研究了异构蜂窝网络下行链路基于功率控制的能效问题。文献[4]将能效问题建模为离散的分式最优化问题，在给定的传输功率情况下最优化用户调度，然后更新传输功率，基站根据更新后的传输功率再次进行最佳的用户调度，通过反复迭代得到最佳的能效值。文献[5]提出一种基于功率控制的微基站分类机制，根据微基站的负载和相邻微基站之间的干扰对微基站进行分类，然后根据效用函数最大化原则对微基站分配传输功率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "功率控制技术可以降低干扰和提高系统能效，但是传统的用户关联方式使大部分用户接入到宏基站，导致基站负载不均衡，微基站的频谱资源得不到有效利用，致使系统吞吐量和能效不能得到有效提高，单单利用功率控制不能够有效提高系统能效。文献[6-7]研究了能效优先的用户关联策略，文献[6]提出一种基于基站睡眠的用户关联策略，并通过量子粒子群优化算法求得次最优解。为了实现基站负载平衡指数与用户QoS 的折中，文献[7]提出一种基于效用函数最大化原则的系数可调的用户关联策略，该策略将效用函数最大化问题转换为二部图的最大匹配，通过匈牙利算法求得最佳解。以上用户关联策略中的传输功率为固定值，并且文献[7]没有将能效做为用户关联的关键指标。文献[8]提出一种基于效用函数最大化模型的用户关联与功率控制的协同优化方案，通过迭代算法分别求解用户关联子问题和功率控制子问题，但是该效用函数表示为系统吞吐量，没有将能效作为效用函数。文献[9]将具有权重的有效速率和基站的有效负载作为用户关联的关键指标，并且利用功率控制联合优化系统能效，但是该方法并没有考虑用户QoS的要求。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文的贡献是：a）在执行用户关联和功率控制时，将用户的信干噪比（SINR）作为约束条件，使其满足用户的QoS;b)本文利用迭代方法求解能效优化问题，外层循环利用Dinkelbach方法求解最佳的能效因子，内层循环利用对偶分解和凸优化方法求解用户关联子问题和功率控制子问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 系统模型与问题建模",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1系统模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在宏基站和微基站组成的双层异构蜂窝网络下行链路环境中，用户和微基站随机分布在传统的宏蜂窝网络中，图1表示一个宏基站与若干微基站组成的双层异构蜂窝网络场景，所有的基站使用相同的频谱资源。网络中有N个基站和K个用户，集合 $B = \\left\\{ 1 , 2 , 3 . . . , N \\right\\}$ 表示所有的基站，集合 $U = \\left\\{ 1 , 2 , 3 . . . , K \\right\\}$ 表示所有的用户。用户 $\\textbf { k }$ 接收到来自于BS $n$ 的信干噪比为：$S I N R _ { n k } = \\frac { p _ { n } g _ { n k } } { j \\in \\sum _ { j \\in B \\backslash \\{ n \\} } p _ { j } g _ { j k } + \\sigma _ { n } ^ { 2 } }$ ，其中 $p _ { n }$ 表示BS $n$ 的发射功率，$P = \\left\\{ p _ { n } , \\forall n \\in B \\right\\} \\mathrm { ~ ; ~ }$ ， ${ { g } _ { n k } }$ 表示 $\\operatorname { B S } n$ 和用户 $\\mathbf { k }$ 之间的信道增益， $\\sigma _ { n } ^ { 2 }$ 表示 $ { \\mathrm { B S } } _ { \\mathrm { ~ n ~ } }$ 的噪声功率。用户 $k$ 到 $\\mathrm { B S } ~ n $ 的可达速率为$r _ { n k } = \\log _ { 2 } \\left( 1 + S I N R _ { n k } \\right)$ $k$ $\\operatorname { B S } n$ $R _ { n k } = \\frac { r _ { n k } } { \\sum _ { i \\in B } x _ { n i } }$ 其中 $x _ { n k }$ 表示用户 $\\mathsf { K }$ 与 $\\mathrm { B S } \\mathrm { ~ n ~ }$ 的关联指数，当用户K关联到BS$n$ 时， $x _ { n k } = 1$ ，否则 $x _ { n k } = 0$ ， $X = \\{ x _ { n k } , \\forall n \\in B , \\forall k \\in U \\}$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/78366cd323ee92f23c40199cf3f756ed3c9e24046ef027560d7f5d6fc469a203.jpg",
+        "img_caption": [
+            "图1双层异构蜂窝网络架构"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2问题建模",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文将能效作为用户关联的最优目标，为了降低系统干扰和基站端能耗，引入了功率控制技术，同时，为了保证用户的",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "QoS的需求，将SINR作为约束条件，最终提出一种在最小SINR限制下的能效优先的用户关联与功率控制协同优化机制，问题建模为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { 1 } \\qquad \\operatorname* { m a x } _ { X , P } E E { \\big ( } p , x { \\big ) } = { \\frac { \\sum _ { n \\in B } \\sum _ { k \\in U } x _ { n k } R _ { n k } } { \\sum _ { n \\in B } { \\Big ( } \\rho _ { n } p _ { n } + p _ { n } ^ { c } { \\Big ) } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { n \\in B } x _ { n k } = 1 , \\forall k \\in U ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ { x } _ { n k } } \\in \\left\\{ 0 , 1 \\right\\} , \\forall k \\in U , \\forall n \\in B ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { n \\in N } x _ { n k } S I N R _ { n k } \\geq \\delta , \\forall k \\in U ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 \\leq p _ { n } \\leq p _ { n } ^ { \\mathrm { m a x } } , \\forall n \\in B\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中: $p _ { n } ^ { \\mathrm { m a x } }$ 是 $\\operatorname { B S } n$ 允许的最大传输功率， $\\rho _ { n }$ 表示功率放大器系数， $p _ { n } ^ { c }$ 表示基站 $\\mathfrak { n }$ 中电路消耗的固有功率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 能效算法设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "问题 $P _ { 1 }$ 是一个混合整数规划问题，并且该问题是一种非凸的形式，直接求解非常困难，通过将该问题的目标函数转换为带参数的相减的形式进行求解：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m a x } _ { X , P } \\left\\{ \\underset { n \\in B } { \\sum } \\sum _ { k \\in U } x _ { n k } R _ { n k } - \\eta \\underset { n \\in B } { \\sum } \\left( \\rho _ { n } p _ { n } + p _ { n } ^ { c } \\right) \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\eta$ 是一个非负的参数,其中 $\\eta = \\operatorname* { m a x } _ { x , p } E E \\left( p , x \\right)$ ,定义",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF \\left( \\eta \\right) = \\operatorname* { m a x } _ { X , P } \\left\\{ \\sum _ { n \\in B } \\sum _ { k \\in U } x _ { n k } R _ { n k } - \\eta \\sum _ { n \\in B } \\left( \\rho _ { n } p _ { n } + p _ { n } ^ { c } \\right) \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "容易证明 $F ( \\eta )$ 是一个连续的并且随着 $\\eta$ 递减的函数，该函数有唯一解。下面对唯一解进行证明。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "证明：考虑到传输功率的限制可知：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 \\leq \\sum _ { n \\in B } \\sum _ { k \\in U } x _ { n k } R _ { n k } \\leq \\sum _ { n \\in B } \\sum _ { k \\in U } x _ { n k } r _ { n k } \\leq \\sum _ { k \\in U } r _ { n _ { k } k } ^ { \\operatorname* { m a x } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\underset { n \\in B } { \\sum } p _ { n } ^ { c } \\leq \\underset { n \\in B } { \\sum } \\left( \\rho _ { n } p _ { n } + p _ { n } ^ { c } \\right) \\leq \\underset { n \\in B } { \\sum } \\left( p _ { n } ^ { \\operatorname* { m a x } } + p _ { n } ^ { c } \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中: $r _ { n k } ^ { \\mathrm { m a x } } = \\log ( 1 +  p _ { n } ^ { \\mathrm { m a x } } g _ { n k } / / \\sigma _ { n } ^ { 2 } )$ 表示基站以最大传输功率发送时，当且仅当不考虑其他干扰的情况下用户到基站的可达速率，（204号 $n _ { _ k } = \\arg \\operatorname* { m a x } _ { n \\in B } r _ { n k } ^ { \\operatorname* { m a x } }$ 表示用户以最大数据速率 $r _ { n k } ^ { \\mathrm { m a x } }$ 选择基站，$\\sum _ { n \\in B } \\sum _ { k \\in U } x _ { n k } R _ { n k }$ 实现了它的下界。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据式（4）可知：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF \\left( \\eta \\right) \\le \\sum _ { k \\in U } r _ { n _ { k } k } ^ { \\operatorname* { m a x } } - \\eta \\sum _ { n \\in B } p _ { n } ^ { c }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF \\left( \\eta \\right) \\geq - \\sum _ { n \\in B } \\left( p _ { n } ^ { \\operatorname* { m a x } } + p _ { n } ^ { c } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据式（6）（7）可知， $\\operatorname* { l i m } _ { \\eta  + \\infty } F ( \\eta ) = - \\infty$ ， $\\operatorname* { l i m } _ { \\eta  - \\infty } F ( \\eta ) = + \\infty$ ，又因为 $F ( \\eta )$ 是连续并且递减的函数，所以 $F ( \\eta ) = 0$ 有唯一解,证明完毕。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据以上可知，将原问题 $p _ { 1 }$ 转换为$F \\left( \\eta \\right) = \\operatorname* { m a x } _ { p , x } \\left\\{ \\sum _ { n \\in B } \\sum _ { k \\in U } x _ { n k } R _ { n k } - \\eta \\sum _ { n \\in B } \\Bigl ( \\rho _ { n } p _ { n } + p _ { n } ^ { c } \\Bigr ) \\right\\} = 0$ 问题。假设问题$P _ { 1 }$ 的最佳解为 $\\left\\{ \\boldsymbol { X } ^ { * } , \\boldsymbol { P } ^ { * } \\right\\}$ ，那么 $P _ { 1 }$ 等价于在给定 $\\boldsymbol { \\eta } = \\boldsymbol { \\eta } ^ { * }$ 时问题(2)的解为 $\\left\\{ \\boldsymbol { X } ^ { * } , \\boldsymbol { P } ^ { * } \\right\\}$ ，利用 Dinkelbach 求得最佳的 $\\eta ^ { * }$ ，此时 $\\eta ^ { * }$ 相当于最佳的能效值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1最佳能效参数 $\\eta ^ { * }$ 问题",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文设计一种迭代算法，外层循环通过Dinkelbach方法求得最佳的 $\\eta$ 值，内层循环利用对偶分解和凸优化方法求得最佳的用户关联矩阵X和传输功率 $\\mathrm { ~ \\bf ~ P ~ }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "首先求解最佳 $\\eta$ ，根据Dinkelbach 方法可知， $\\eta$ 是一个连续的值，则",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 \\leq \\eta \\leq \\eta ^ { * }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据式（4）和（5）可知 $\\eta ^ { * } \\leq \\sum _ { k \\in U } r _ { n _ { k } k } ^ { \\operatorname* { m a x } } \\bigg / \\sum _ { n \\in B } p _ { n } ^ { c }$ （9），所以有$0 \\leq \\eta ^ { * } \\leq \\sum _ { k \\in U } r _ { n _ { k } k } ^ { \\operatorname* { m a x } } \\bigg / \\sum _ { n \\in B } p _ { n } ^ { c }$ （10），根据以上性质可知，问题（2）可以通过Dinkelbach方法在给定的关联指数 $\\mathrm { \\Delta } \\mathrm { X }$ 和最佳传输功率P条件下迭代搜索最佳的 $\\eta ^ { * }$ 。算法描述如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于Dinkelbach方法的最佳能效因子搜索算法：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)对参数进行初始化 $\\mathrm { i } { = } 0$ 、 $\\Delta = 0 . 0 1$ ， $\\eta _ { i } = 0$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)在给定的 $\\eta _ { i }$ 情况下求解问题式（2），初始化关联矩阵 $\\boldsymbol { X } _ { i } ^ { * }$ 和传输功率P。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)当 $\\left| F ( \\eta _ { i } ) \\right| > \\Delta$ 时执行循环 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\bf d } ) i = i + 1\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e)在给定的 $\\boldsymbol { X } _ { i - 1 } ^ { * }$ 和 $\\boldsymbol { P } _ { i - 1 } ^ { * }$ 情况下更新 $\\eta _ { i } = \\sum _ { n \\in B } \\sum _ { k \\in U } x _ { n k } R _ { n k } \\bigg / \\sum _ { n \\in B } \\Big ( \\rho _ { n } p _ { n } + p _ { n } ^ { c } \\Big )$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "f)在给定n情况下求解问题（2），获得最佳的用户关联矩阵 $\\boldsymbol { X } _ { i } ^ { * }$ 和传输功率 $\\boldsymbol { P } _ { i } ^ { * }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "g)循环结束。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由以上算法可知，该算法的关键是求解问题式（2），下面对问题式（2）进行求解。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2用户关联算法子问题",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在给定的功率的情况下，问题式（2）简化为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m a x } _ { X } \\sum _ { n \\in B } \\sum _ { k \\in U } x _ { n k } R _ { n k }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { n \\in B } x _ { n k } = 1 , \\forall k \\in U ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ { x } _ { n k } } \\in \\left\\{ 0 , 1 \\right\\} , \\forall k \\in U , \\forall n \\in B ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { n \\in N } x _ { n k } S I N R _ { n k } \\geq \\delta , \\forall k \\in U ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了进一步提高系统的吞吐量，提高用户接入基站的公平性，选择一种比例公平的用户关联策略[10]，因此问题式（11)的目标函数转换为如下形式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m a x } _ { X } \\sum _ { n \\in B } \\sum _ { k \\in U } x _ { n k } \\log R _ { n k }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "引入辅助变量θ={0n,∀n∈B}，θn表示基站n的有效负载，则问题式（12）变为如下形式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m a x } _ { X , y } F { \\Big ( } x , y { \\Big ) } = \\sum _ { n \\in B } \\sum _ { k \\in U } \\left\\{ x _ { n k } \\log r _ { n k } - \\theta _ { n } \\log \\theta _ { n } \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { n \\in B } x _ { n k } = 1 , \\forall k \\in U\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { x _ { n k } \\in \\left\\{ 0 , 1 \\right\\} , \\forall k \\in U , \\forall n \\in B , } \\\\ { \\underset { n \\in N } { \\sum } x _ { n k } S I N R _ { n k } \\geq \\delta , \\forall k \\in U , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { k \\in U } x _ { n k } = \\theta _ { n } , \\forall n \\in B ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "问题式（13）第四个限制条件是耦合的，为了解耦合，引入变量 $\\alpha = \\{ \\alpha _ { n } , \\forall n \\in B \\}$ ，对问题式（13）第三个限制条件引入拉格朗日因子 $\\beta = \\{ \\beta _ { k } , \\forall k \\in U \\}$ ,则问题式（13）的局部拉格朗日函数为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\Phi \\left( x , \\theta , \\alpha , \\beta \\right) = \\sum _ { n \\in B } \\sum _ { k \\in U } x _ { n k } \\log r _ { n k } - \\sum _ { n \\in B } \\theta _ { n } \\log \\theta _ { n } + } } \\\\ { { \\displaystyle \\sum _ { k \\in U } \\beta _ { k } \\left( \\sum _ { n \\in B } x _ { n k } S I N R _ { n k } - \\delta \\right) + \\sum _ { n \\in B } \\alpha _ { n } \\left( \\theta _ { n } - \\sum _ { k \\in U } x _ { n k } \\right) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "则问题式（13）变为 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m a x } _ { X , \\theta } \\Phi ( x , \\theta , \\alpha , \\beta )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { n \\in B } x _ { n k } = 1 , \\forall k \\in U ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ { x } _ { n k } } \\in \\left\\{ 0 , 1 \\right\\} , \\forall k \\in U , \\forall n \\in B ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过对式（14）进行观察，利用对偶分解的方法分别求得最佳的X和θ，则式（15）等价于q(αβ)+Q(a,β)，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } {  { { \\mathcal Q } _ { 1 } \\big ( \\alpha , \\beta \\big ) = \\{ \\begin{array} { l l } { \\displaystyle \\operatorname* { m a x } _ { X , \\theta } \\sum _ { n \\in B } \\sum _ { k \\in U } x _ { n k } u _ { n k } } \\\\ { \\displaystyle \\sum _ { n \\in B } x _ { n k } = 1 , \\forall k \\in U , } \\\\ { \\displaystyle x _ { n k } \\in \\{ 0 , 1 \\} , \\forall n \\in B , \\forall k \\in U } \\end{array}  } \\qquad } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { 2 } \\big ( \\alpha , \\beta \\big ) = \\operatorname* { m a x } _ { \\theta } \\sum _ { n \\in B } \\theta _ { n } \\big ( \\alpha _ { n } - \\log \\theta _ { n } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { n k } = \\log r _ { n k } + \\beta _ { k } S I N R _ { n k } - \\alpha _ { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当任意用户 $\\mathbf { k }$ 选择基站 $\\mathfrak { n }$ 使得 $u _ { n k }$ 最大时，得到最佳用户关联矩阵 $X ^ { \\ast }$ ，被选择的基站表示如下： $\\boldsymbol { n } ^ { * } = \\underset { \\boldsymbol { n } \\in B } { \\arg \\operatorname* { m a x } } \\boldsymbol { u } _ { \\boldsymbol { n } k } , \\forall k \\in \\boldsymbol { U }$ ，问题式（16）中自变量 $x _ { n k }$ 是0-1变量，因此该问题是组合优化问题，采用文献[11]中的方法，将自变量 $x _ { n k }$ 约束条件松弛为[0,1]内的连续变量，从而将问题式（16）转换为凸优化问题：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m a x } _ { X , \\theta } \\sum _ { n \\in B } \\sum _ { k \\in U } x _ { n k } u _ { n k }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { n \\in B } x _ { n k } = 1 , \\forall k \\in U\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { n k } \\in \\left[ 0 , 1 \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "问题式（19）用凸优化工具求解，求得最优的解再进行取整：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { n k } = \\left\\{ { 1 , n = \\arg \\operatorname* { m a x } _ { n } x _ { n k } } \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "文献[11\\~13]说明了在对最优解取整后，得到的次优解的效用函数非常接近最大值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式（17）是一个关于 $\\theta _ { n }$ 的凸函数，利用牛顿方法求的最佳的有效负载 $\\theta _ { n } ^ { t + 1 }$ 为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { \\theta } _ { n } ^ { t + 1 } = e ^ { \\alpha _ { n } ^ { t } - 1 } , \\forall n \\in \\boldsymbol { B }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\boldsymbol { \\theta } _ { n } ^ { t + 1 }$ 表示第 $_ { \\mathrm { t + l } }$ 次迭代时的有效负载，下面对拉格朗日参数 $\\alpha _ { n }$ 和 $\\beta _ { n }$ 更新",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha _ { n } ^ { t + 1 } = \\alpha _ { n } ^ { t } - \\xi _ { 1 } \\frac { \\partial \\Phi } { \\partial \\alpha _ { n } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta _ { k } ^ { t + 1 } = \\left[ \\beta _ { k } ^ { t } - \\xi _ { 2 } \\frac { \\hat { \\sigma } \\Phi } { \\hat { \\sigma } \\beta _ { k } } \\right] ^ { + }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\alpha _ { n } ^ { t + 1 }$ 和 $\\beta _ { k } ^ { t + 1 }$ 分别表示第 $_ { \\mathrm { t + l } }$ 次迭代时的拉格朗日因子 $\\alpha _ { n }$ 和 $\\beta _ { k }$ ,其中 $\\xi _ { 1 }$ 和 $\\boldsymbol { \\xi } _ { 2 }$ 表示数值较小的更新步长， $\\left[ A \\right] ^ { + } = \\operatorname* { m a x } \\left\\{ A , 0 \\right\\}$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用户关联算法描述如下：初始化参数 $\\scriptstyle { \\mathrm { t } } = 0$ 、初始化用户关联矩阵 $\\mathrm { \\Delta X }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "执行循环 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用式（19）执行用户关联  \n利用式（21）计算有效负载  \n利用式（22）和（23）更新拉格朗日因子 $\\boldsymbol { \\alpha } _ { n } ^ { t + 1 }$ 和 $\\beta _ { n } ^ { t + 1 }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\scriptstyle { \\mathrm { t } } = { \\mathrm { t } } + 1$ ：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "直到X收敛或者 $t = T _ { \\mathrm { l } }$ 时循环结束。其中 $T _ { 1 }$ 表示迭代的最大次数，t表示迭代指数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 功率控制子问题",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在给定关联指数 $\\mathbf { x }$ 条件下，问题式（2）变为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m a x } _ { P } \\sum _ { n \\in B } \\sum _ { k \\in U } y _ { n k } r _ { n k } - \\eta \\sum _ { n \\in B } \\Big ( \\rho _ { n } p _ { n } + p _ { n } ^ { c } \\Big )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { n \\in B } x _ { n k } S I N R _ { n k } \\geq \\delta _ { k } , \\forall k \\in U\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 \\leq p _ { n } \\leq p _ { n } ^ { \\mathrm { m a x } } , \\forall n \\in B\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $y _ { n k } = x _ { n k } \\Big / _ { i \\in U } x _ { n i }$ 。为了算法的设计，当 $\\sum _ { i \\in U } x _ { n i } = 0$ 时ynk =0，表示当没有用户关联时，基站的吞吐量为零。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\log _ { 2 } { \\left( 1 + { \\cal S I N R } _ { n k } \\right) } = \\frac { \\log \\left( 1 + { \\cal S I N R } _ { n k } \\right) } { \\log 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\log _ { n \\in U } x _ { n k } S I N R _ { n k } = \\sum _ { n \\in U } x _ { n k } \\log S I N R _ { n k }$ ，对问题式（24)进行变形，得到如下形式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m a x } _ { P } \\sum _ { n \\in B } \\sum _ { k \\in U } \\mathcal { S } _ { y _ { n k } } \\log \\left( 1 + S I N R _ { n k } \\right) - \\eta \\sum _ { n \\in B } \\rho _ { n } p _ { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\underset { n \\in B } { \\sum } x _ { n k } \\log S I N R _ { n k } \\geq \\overset { - } { \\delta _ { k } } , \\forall k \\in U\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 \\leq p _ { n } \\leq p _ { n } ^ { \\mathrm { m a x } } , \\forall n \\in B\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\begin{array} { r } { \\boldsymbol { \\vartheta } = \\displaystyle et { } { ' } \\big / \\sb { \\log 2 } \\ : , \\ : \\ : \\ : \\ : \\overline { { \\delta } } _ { k } = \\log \\delta _ { k } \\qquad } \\end{array}$ ，δ =logδκ。为了算法的设计，对目标函数进行松弛，令 $\\log \\left( 1 + S I N R _ { n k } \\right) \\simeq \\log S I N R _ { n k }$ ，对自变量 $\\mathsf { p }$ 进行变化，令 ${ \\overset { - } { p _ { n } } } = \\log p _ { n }$ ，问题式（25）转换为如下形式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m a x } _ { \\overline { { { p } } } } \\sum _ { n \\in B } \\sum _ { k \\in U } \\vartheta y _ { n k } \\log S I N R _ { n k } ^ { - } - \\eta \\sum _ { n \\in B } \\rho _ { n } e ^ { \\overline { { { p _ { n } } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\underset { n \\in B } { \\sum } x _ { n k } \\log S I N R _ { n k } \\geq \\delta , \\forall k \\in U\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\displaystyle { \\overline { { p } } \\leq \\log p _ { n } ^ { \\mathrm { m a x } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $S I N R _ { n k } = \\frac { e ^ { \\stackrel { \\_ } { p _ { n } } } g _ { n k } } { \\underset { j \\in U \\backslash \\{ n \\} } { \\sum } e ^ { \\stackrel { \\_ } { p _ { j } } } g _ { j k } + \\sigma _ { n } ^ { 2 } }$ ，对式（26）第一个限制条件引入拉格朗日因子 $\\gamma$ ，则该条件下的拉格朗日函数为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\Phi \\displaystyle \\biggl ( \\stackrel { - } { p } , \\gamma \\biggr ) = \\sum _ { n \\in B } \\sum _ { k \\in U } \\vartheta y _ { n k } \\log S I \\bar { N } R _ { n k } - \\eta \\sum _ { n \\in B } \\rho _ { n } e ^ { \\bar { p _ { n } } } + } } \\\\ { { \\displaystyle \\sum _ { k \\in U } \\gamma _ { k } \\biggl ( \\sum _ { n \\in B } x _ { n k } \\log S I \\bar { N } R _ { n k } - \\bar { \\delta _ { k } } \\biggr ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "问题式（26）转换为如下形式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\displaystyle \\operatorname* { m a x } _ { \\overline { { p } } } \\Phi \\left( { \\overset { - } { p } } , \\gamma \\right) \\qquad { \\overset { - } { p } } \\log p _ { n } ^ { \\operatorname* { m a x } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "问题式（28）是一个凸函数，根据极值准则，对于任意的基站 $\\mathfrak { n }$ ，最佳的传输功率满足条件 $\\frac { \\partial \\Phi } { \\partial \\stackrel { - } { p _ { m } } } = 0$ ，则",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne ^ { \\overset { - } { p _ { m } } } = \\frac { \\underset { k \\in U } { \\sum } \\left( \\vartheta y _ { n k } + \\gamma _ { k } x _ { n k } \\right) } { \\underset { n } { \\binom { - } { p } } + \\eta \\rho _ { n } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { I } _ { n } \\binom { - } { p } = \\sum _ { m \\in \\cal { B } \\backslash \\{ n \\} } \\sum _ { k \\in \\cal { U } } \\frac { \\left( \\vartheta y _ { m k } + \\gamma _ { k } x _ { m k } \\right) g _ { n k } } { \\stackrel { - } { \\jmath } _ { \\displaystyle { j } \\in { \\cal { B } } \\backslash \\{ m \\} } e ^ { \\displaystyle p _ { j } } g _ { j k } + \\sigma _ { m } ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据文献[14]中的引理3（box-constrained projection）可知，问题式（26）在p域中有最佳解，又因为p定义域是p定义域",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "的投影，故问题式（25）也有最佳解，将式（29）自变量 $\\overset { - } { p }$ 换回到 $\\mathsf { p }$ ，则传输功率用以下式子进行更新：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\np _ { n } ^ { t + 1 } = \\frac { \\sum _ { k \\in U } \\left( \\mathcal { S } y _ { n k } + \\gamma _ { k } x _ { n k } \\right) } { \\mathbf { M } _ { n } \\left( p ^ { t } \\right) + \\eta \\rho _ { n } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { M } _ { n } \\left( \\boldsymbol { p } ^ { t } \\right) = \\sum _ { m \\in B \\setminus \\{ n \\} } \\sum _ { k \\in U } \\frac { \\left( \\vartheta y _ { m k } + \\gamma _ { k } x _ { m k } \\right) g _ { n k } } { \\boldsymbol { j } \\in B \\setminus \\{ m \\} } p _ { j ^ { g } j k } ^ { t } + \\sigma _ { m } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "然后对拉格朗日变量 $\\gamma _ { _ { k } }$ 更新：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma _ { k } ^ { t + 1 } = \\left[ \\gamma _ { k } ^ { t } - \\xi _ { 3 } \\frac { \\partial \\Phi } { \\partial \\gamma _ { k } } \\right] ^ { + }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\xi _ { 3 }$ 表示数值较小的更新步长，传输功率控制算法描述  \n下：初始化t=0、p'=pmax执行循环开始：利用式（31）更新功率对 $\\boldsymbol { p } _ { n } ^ { t + 1 }$ 标准化： $p _ { n } ^ { t + 1 } = p _ { n } ^ { t + 1 } p _ { n } ^ { \\operatorname* { m a x } } \\big / \\operatorname* { m a x } _ { i } p _ { i } ^ { t + 1 }$ （204利用式（33）更新拉格朗日因子 $\\gamma _ { k } ^ { t }$ 对 $\\gamma _ { k } ^ { t + 1 }$ 进行标准化： $\\gamma _ { k } ^ { t + 1 } = \\gamma _ { k } ^ { t + 1 } \\bigg / \\sum _ { i } \\gamma _ { i } ^ { t + 1 }$ （204 $\\scriptstyle { \\mathrm { t } } = { \\mathrm { t } } + 1$ 当 $\\mathfrak { p }$ 收敛或者 $t = T _ { 2 }$ 时循环结束。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $T _ { 2 }$ 表示迭代的最大次数，t表示迭代指数，利用文献[6]中的定义3和文献[15]中的方法能够证明功率控制算法的收敛性质。利用用户关联子算法和功率控制子算法交替迭代解决问题式（2）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 仿真实验 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "仿真场景为一个 $1 0 0 0 \\mathrm { m } ^ { * } 1 0 0 0 \\mathrm { m }$ 的区域，宏基站和微基站的最大传输功率分别为 $4 6 \\mathrm { d B m }$ 和 $2 0 \\mathrm { d B m }$ ，宏基站和微基站的电路消耗功率分别为 $1 0 \\mathrm { W }$ 和 $0 . 1 \\mathrm { W }$ 。宏基站和微基站的路径损耗模型分别为 $1 2 8 . 1 + 3 7 . 6 \\log 1 0 ( d )$ 和 $1 4 0 . 7 + 3 6 . 7 \\log 1 0 ( d )$ ，d表示用户到BS的距离，阴影效应方差设置为7dB，系统带宽为 ${ 1 0 } \\mathrm { { M H z } }$ ，噪声的功率频谱密度为 $\\mathrm { . 1 7 4 \\ d B m / H z }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了说明本文提出的能效优先的用户关联与功率控制协同优化算 法（joint user association and power control withmaximisingwhole energy effciency，JUAPCMWEE）的性能，将本文提出的算法与最大化吞吐量的用户关联策略（userassociationwith maximal throughput,UAMT)进行比较，UAMT算法是本文在固定传输功率限制条件下的用户关联策略。为了说明JUAPCMWEE算法在负载平衡方面的性能，本文引入了负载平衡指数：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varphi = \\frac { \\left( \\sum _ { n \\in B } \\theta _ { n } \\right) ^ { 2 } } { N \\displaystyle \\sum _ { n \\in B } \\theta _ { n } ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\theta _ { n } = \\sum _ { k \\in U } x _ { n k }$ 表示基站 $\\mathfrak { n }$ 的有效负载，参数 $\\varphi$ 的值域为$[ 1 / N , 1 ]$ ， $\\varphi$ 值越大说明负载分布更加均衡。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图2表示JUAPCMWEE算法和UAMT算法在微基站最大传输功率影响下的负载平衡的性能。NU表示一个宏蜂窝内的用户数量，用户根据关联策略选择一个宏基站或者是一个微基站进行关联，根据仿真结果可知，平衡指数随着微基站最大传输功率的增加而增加，原因是微基站的最大传输功率比宏基站的最大传输功率小，微基站最大传输功率的增加能够减小宏基站与微基站功率之间的差值，使其中的一些用户从宏基站卸载到微基站中，故而增加了负载平衡指数。另外，随着用户的增加，负载平衡指数有所增加，原因是较多数量的用户能够提供更高负载平衡的条件，即用户数量越多，越有可能达到更高的负载平衡。根据图2可知，JUAPCMWEE算法比UAMT算法具有更高的负载平衡指数，原因是在固定传输功率限制下，用户会受到宏基站和附近微基站强烈的干扰，因此一部分用户会选择信道质量好的宏基站，利用功率控制技术可以减小微基站之间的干扰，使更多用户接入到微基站中。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f7892419b19cffb43f721a407df2950ccd02415521439f400749d6040e169565.jpg",
+        "img_caption": [
+            "图2微基站最大传输功率和用户总数对平衡指数的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图3表示在微基站最大传输功率限制下的总数据速率的变化，根据仿真结果可知，随着微基站传输功率的增加，总的数据速率呈现递增的趋势，原因是随着微基站最大传输功率的增加，一部分用户从宏基站被卸载到微基站中，又因为宏基站关联用户数量比单个微基站关联的用户数量多，从而宏基站中关联用户的数量相对变少，微基站中关联的用户数量相对变多，提高了负载平衡，使得频谱资源得到充分的利用，总速率数值得到提高。另外，当用户数量增加时，负载平衡指数增加，总的数据速率也随着增加。JUAPCMWEE 算法比UAMT 算法具有更高的总的数据速率值，原因是功率控制可以确保最小的SINR，并且加入功率控制技术提高了负载平衡，所以根据上面的分析可知，JUAPCMWEE算法具有更高的总的数据速率值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图4表示系统总的能效值随着微基站最大传输功率和用户数量的变化情况，随着微基站最大传输功率的增加，能效值呈现递增的趋势，在低功率区域内，有效速率的增加超过了功耗，但是随着功率的增加，有效速率的增加并没有功耗增加的快，致使能效值有所降低。另外，随着用户数量的增加，UAMT算法下的能效值呈递增的趋势，原因是随着用户数量的增加，有效速率值呈递增的趋势，并且此时为固定功率，所以能效值随着用户数量的增加而增加。在低功率区域，JUAPCMWEE算法下的能效值随着用户数量的增加而增加，但是在高功率区域内，随着用户数量的增加，JUAPCMWEE 算法下能效值的增加变小，在微基站最大传输功率为35dBm时，该算法下的能效值与用户数量成反比，在低功率区域内，JUAPCMWEE算法下的能效值的变化与UAMT算法下能效值的变化相同，但是在高功率和多用户情况下，功率控制需要减小宏基站的传输功率，这造成宏用户的SINR降低，此时功耗的减小没有有效速率减小的多，造成能效值随着用户数量的增加而减小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c37113beaae5732afddf8402a3793bdd498aa4e5c6394c3c2214b3d2801485ed.jpg",
+        "img_caption": [
+            "图3微基站最大传输功率和用户总数对总速率的影响",
+            "图4微基站最大传输功率和用户总数对总能效的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "0. 110.10.09T □—UAMT with NU=25—UAMT with NU=35111111 θ—JUAPCMWEE with NU=25JUAPCMWEE with NU=350中0.04总0.0380. 0215 20 30 35微基站的最大传输功率（dBm）",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文针对宏基站和微基站构成的双层异构蜂窝网络的能效问题，提出了一种能效优先的用户关联算法，该算法建模为效用函数最大化模型，通过迭代的方法求得最佳能效因子、用户关联矩阵和最佳传输功率。通过实验表明，该方法相比固定功率下的能效优先的用户关联策略有更高的负载平衡指数和更高的系统能效值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Bhushan N,Li Junyi,Malladi D,et al.Network densification: the dominant theme for wireless evolution into 5G[J].IEEE Communications Magazine, 2014,52 (2): 82-89.   \n[2]Jiang D, Zhang P,Lyu Z,et al. Energy-efficient multi-constraint routing algorithmwith load balancing for smartcity applications [J].IEEE Internet of Things Journal,2016,3 (6): 1437-1447.   \n[3]YangC,elti energy efficiency in heterogeneous small cell networks: a bargaining gametheoretic perspective [J]. IEEE Trans on WirelessCommunications,2016, 15 (2): 1364-1376.   \n[4]H.H. Nguyen and W.J. Hwang,Distributed Scheduling and Discrete Power Control forEnergy EficiencyinMulti-Cell Networks[J] IEEE Communications Letters,2015,19 (12): 2198-2201.   \n[5]Zhao Y,Xia H, Zeng Z. Grouping based power control forimproving energy efficiency in dense small cell networks [C]// Proc of the 26th Annual International Symposiumon Personal，Indoor,andMobile Radio Communications. [S.1.]: IEEE Press,2015: 1644-1648.   \n[6]Zhu Y,Zeng Z, Zhang T,etal,Anenergy efficientuserassciationheme based on cell sleeping in LTE heterogeneous networks [Cl// Proc of InternationalSymposiumonWirelessPersonalMultimedia Communications.[S.1.] : IEEE Press,2014:75-79.   \n[7]苏恭超，陈彬，林晓辉，等．异构蜂窝网络中一种基于匈牙利算法的用 户关联方法[J].电子科技大学学报,2017,46(2):346-351.   \n[8] 苏恭超，陈彬，林晓辉，等．异构蜂窝网络中用户关联与基站功率的协 同优化[J].电讯技术,2016,56(1):7-13.   \n[9]Zhou T,Liu Z, Zhao J,etal,Joint user association and power control for load balancing in downlink heterogeneous celllar networks [J] IEEE Transactions on Vehicular Technology,2017,PP(9): 1-1.   \n[10] Garcia-SaavedraA,Serrano P,Banchs A,etal, Energy-efficient fair channel access for IEEE 802.11 WLANs[C]// Proc of IEEE International Symposium ona World of Wireless,Mobile and Multimedia Networks.New York: IEEE Press,2011: 1-9.   \n[11] YeQ,RongB,Chen Y,et al,User association for load balancing in heterogeneouscellularnetworks[J]IEEETranson Wireless Communications,2013,12 (6): 2706-2716.   \n[12] Shen K,Yu W.Downlink cell association optimization for heterogeneous networksvia dual coordinate descent [C]//Proc of IEEE International Conference on Acoustics, Speech and Signal Processing.[S.1.] : IEEE Press, 2013: 4779-4783.   \n[13] Prasad N, Arslan M,Rangarajan S.Exploiting cell dormancyand load balancing in LTE HetNets:optimizing the proportional fairness utility [J] IEEE Trans on Communications,2014,62 (10): 3706-3722.   \n[14] Tan CW,Chiang M,Srikant R.Fast algorithms and performance bounds for sum rate maximization in wireless networks [J] IEEE//ACM Transon Networking,2013,21(3): 706-719.   \n[15] Sung C W,Leung K K.A generalized framework for distributed power control in wireless networks [J] IEEE Trans on Information Theory,2005, 51 (7): 2625-2635. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

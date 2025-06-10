@@ -1,0 +1,849 @@
+[
+    {
+        "type": "text",
+        "text": "有中介的调节模型的拓展及其效应量",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘红云1²袁克海4 甘凯宇1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1北京师范大学心理学部；²北京师范大学心理学部应用实验心理北京市重点实验室，北京，100875）（南京邮电大学理学院，南京，210023；美国圣母大学心理系，美国，46556）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要传统的有中介的调节（mediated moderation,meMO）模型关于误差方差齐性的假设经常被违背，应用研究中也缺乏测量meMO 效应大小的指标。对于单层数据，本文借助于两层建模的思想，提出了一种可用于处理方差非齐性的两层有中介的调节（2meMO）模型；给出了用于测量meMO 分析中总调节效应、直接调节效应和有中介调节效应大小的效应量。通过 Monte Carlo 模拟研究，比较了meMO 和 2meMO 模型在参数和效应量估计上的表现。并通过实际案例解释了2meMO 模型的应用以及效应量的计算和解释。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词有中介的调节；方差齐性；效应量；贝叶斯估计 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号 B841.2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在很多领域的实际研究中，中介（mediation）效应分析和调节（moderation）效应分析是探讨自变量 $X$ 和因变量Y之间复杂关系常用的两类方法。随着研究问题的深入，在更系统的理论框架下，将中介效应与调节效应结合，探讨变量之间更为复杂关系的研究方法越来越受到重视（Kwan& Chan,2018；叶宝娟，温忠麟,2013)。其中，有中介的调节（mediatedmoderation，简称meMO）模型在探讨调节变量作用机制方面，提供了强有力的分析方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "meMO 模型分析的重点是探讨调节变量 $Z$ 对自变量（ $X )$ 与因变量（Y）之间关系的作用机制，如果 $Z$ 对 $X$ 和 $Y$ 之间关系的调节通过中介的调节变量（M）（mediatingmoderator)起作用，则称 $Z$ 通过 $M$ 对 $X$ 和Y之间关系间接的调节为有中介的调节（meMO)。基于不同理论的假设，meMO 模型近年来在心理学研究中得到了广泛的应用(如,Baron&Kenny,1986;",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Liu et al.,2012; Muler et al.,2005；王玲晓等,2019；杨文圣等,2019；杨逸群等,2020)。在方法研究领域，也有许多研究者就meMO 模型的分析步骤和检验方法进行了较为详尽的介绍和总结(Hayes,2018; Kwan,& Chan,2018; $\\mathrm { N g }$ et al.,2019；叶宝娟，温忠麟,2013)。然而，在实际应用中meMO 模型仍至少面临以下三个方面的问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "首先，对于meMO 模型，由于缺乏合理的meMO 效应量的指标，应用研究中很少报告其效应量，或者研究中所选用的替代性指标与meMO 研究感兴趣的问题不匹配。针对研究报告中过分强调统计显著性的问题，越来越多的期刊要求研究者提供效应量和区间估计的结果(如，American Education Research Association, 2006; Cumming, 2014; Funder et al., 2013;Rozeboom, 1960; Wilkinson & American Psychological Association Task Force on StatisticalInference,1999)，国内的《心理学报》和《心理科学》等杂志也有同样的要求。然而，到目前为止，研究者没有结合 meMO 问题的特点对其效应量进行针对性的测量和解释。有研究者借鉴其他类似的效应量作为替代品，如采用回归分析中常用的 $\\varDelta R ^ { 2 }$ 描述增加了有中介的调节路径后，因变量变异解释率的增加(Aiken et al.,1991)，但这些指标并不合适。因为从效应量定义的本质来看，效应量是反应某种现象（如影响程度）大小的数量化表示，合适的效应量应直接针对所感兴趣的研究问题（Kelley&Preacher,2012）。因此，亟待解决的问题是如何围绕meMO分析感兴趣的“Z通过 $M$ 调节 $X$ 和 $Y$ 之间的关系”问题，构建合理的效应量指标，对meMO分析中关注的有中介的调节效应大小进行评价。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其次，有中介的调节（meMO）和有调节的中介（moderated mediation，简称 moME）虽然解释的侧重点不同，但是在实际应用中经常被研究者混淆。Baron 和 Kenny(1986)最早提出了meMO 和 moME 的概念，很多研究随后就这两类分析进行了详细的阐述(Edwards &Lambert,2007;Liu et al.,2012; Muller et al.,2005)。Hayes (2018)结合概念模型和统计模型，对 meMO 和moME 进行了详细的分类，并提供了PROCESS 分析软件。然而，对于应用研究者来讲清晰区分两类模型并不容易，研究中经常会出现理论假设中变量之间的关系是moME（或meMO）的叙述，而在统计模型结果的解释上却采用了meMO（或moME）的解释(如,Gonzalez-Mulé et al.,2016; Liang & Chi,2013; Park & Searcy,2012; Tang,2016; Tang &Naumann,2016; Zacher et al.,2012；杨文圣等,2019)。究其根本原因是因为在数据分析上，meMO 与moME 对应的统计模型相同，导致研究者对meMO 和moME产生了混淆。具体来讲，常用的 meMO 模型分为meMO-I型和 meMO-II型两类,meMO-I模型与第一阶段 moME模型等价，meMO-II模型与第二阶段 meMO 模型等价(Kwan＆ Chan,2018)。本文关注的问题是如何从概念模型出发，在统计模型的表述上突出meMO 模型关注的变量间关系以及调节变量的作用机制，定义合理的效应量，以在结果解释上区分meMO 和moME 两类模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "最后，meMO模型假设误差方差齐性，回归系数显著性的检验也基于这一假设，然而实际应用中这一假设常常不成立，尤其是包含调节效应的模型(Aguinis＆Pierce,1998;DeShon& Alexander,1996)。例如，对于含有交互作用的回归模型",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { i } = b _ { 0 } + b _ { 1 } X _ { i } + b _ { 2 } Z _ { i } + b _ { 3 } X _ { i } Z _ { i } + \\varepsilon _ { i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式（1)中 $\\smash {  { Y _ { \\perp } } }$ $X$ 和 $Z$ 分别表示因变量、自变量和调节变量； $b$ 表示非标准化的回归系数;误差 $\\scriptstyle \\varepsilon _ { i } \\sim N ( 0 , \\sigma ^ { 2 } )$ ， $i = I , 2 , . . . , n , n$ 表示样本量。方差齐性的假设条件，意味着对于自变量$X$ 取不同的值 $x _ { i }$ 时，误差方差相等。然而，含有显著交互作用的模型很难满足方差齐性的前提假设，由此会导致第二类错误的增大和检验力的下降，当交互作用项对应的回归系数显著不为零时，其参数估计对应的标准误有偏，从而导致推断统计的结果（包括效应量）出现偏差（Aguinis & Pierce,1998;DeShon& Alexander,1996）。本研究拟对传统的 meMO 模型进行拓展，在此基础上定义更合理的测量meMO 效应量的指标，同时也解决误差依赖于自变量的方差非齐性问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了处理调节效应分析容易导致的方差非齐性的问题，Yuan 等人 (2014)采用两层模型扩展了传统的调节效应回归模型，并据此定义了测量调节效应大小的指标。虽然Yuan 等人(2014)没有涉及meMO 模型，但他们提出的两层建模的思想和效应量定义的出发点对调节效应拓展到更复杂的模型是有启发的。本研究将借鉴两层模型定义的思路，将其拓展到复杂的有中介的调节模型的情景，并基于此定义既适用于方差齐性条件，又适用于方差非齐性条件的 meMO效应量指标。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上，本研究主要解决以下问题：首先从有中介的调节的概念模型出发，将Yuan 等人(2014)定义的两层调节回归模型拓展到两层有中介的调节（2meMO）模型；其次通过对自变量 $X$ 与因变量Y之间关系变异来源的分解，给出测量meMO效应量大小的指标；然后通过模拟研究评估模型参数以及效应量估计的精度，并通过与传统meMO 比较，验证拓展模型的合理性；同时采用实际数据案例和 Mplus(Muthen& Muthen,2017)语句介绍 2meMO 模型的应用以及效应量的估计和解释，以方便应用者使用；最后指出方法的可拓展性以及效应量指标的优缺点和实际应用中应注意的问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2有中介的调节模型的拓展",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "虽然 meMO 模型可以分为meMO-I型和meMO-II型，但从可解释性和变量具体意义的角度，meMO-II模型更有意义，有很多研究者认为 meMO-I模型中对应的变量没有实际意义，应用中不应被关注(Edwards&Lambert,2007;Hayes&Preacher,2013)。因此，本文重点讨论更具解释性和理论意义的 meMO-II模型(Kwan &Chan,2018;Hayes,2018)，其对应的概念模型见图1。图1中如果 $Z$ 调节了 $X  Y$ 间的关系，且 $Z$ 在 $X  Y$ 上的调节效应被变量 $M$ 所中介，这时就产生了有中介的调节（粗线条标出的间接路径），变量 $M$ 称为中介的调节变量。典型地， $M$ 可能只是部分中介了 $Z$ 的调节效应，所以Z 在 $X  Y$ 上的直接路径被保留。图1的概念模型只是各变量之间关系的理论表达，不能直接进行分析。只有将其转换为能够反应概念模型特征的统计模型，才能进行进一步的数据分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/31b5b6dde401a23cd8548babdfb827f1599d579fbc0fad97e822bf2010cb3c1d.jpg",
+        "img_caption": [
+            "图1有中介的调节效应的概念模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文借助于Yuan 等人(2014)的思想，采用两层建模的思路构建图1对应的统计分析模型。图1的概念模型重点关注 $X$ 对 $Y$ 影响程度如何受到调节变量的影响，即对于不同的个体i， $X$ 对Y的影响程度如何随着其在调节变量上取值的不同而变化。第一层模型描述meMO分析中自变量 $X$ 对因变量 $Y$ 影响程度的变化；第二层描述 $Z$ 和 $M$ 对 $X$ 和 $Y$ 之间关系的影响，以及调节变量 $Z$ 和中介的调节变量 $M$ 之间的关系。值得注意的是，对于 $X$ 和Y之间关系的变异，在考虑了模型中涉及到的调节变量 $Z$ 和中介的调节变量 $M$ 外，可能还会存在没有解释的变异，因此在模型中增加 $X  Y$ 影响的随机误差项。2meMO模型可表示为：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "层1: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { i } = d _ { i } + c _ { i } X _ { i } + \\varepsilon _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "层2: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { d _ { i } = \\gamma _ { d 0 } + \\gamma _ { d 1 } M _ { i } + \\gamma _ { d 2 } Z _ { i } + u _ { d i } } } \\\\ { { \\ } } \\\\ { { c _ { i } = \\gamma _ { c 0 } + \\gamma _ { c 1 } M _ { i } + \\gamma _ { c 2 } Z _ { i } + u _ { c i } } } \\\\ { { \\ } } \\\\ { { M _ { i } = \\gamma _ { M 0 } + \\gamma _ { M 1 } Z _ { i } + e _ { M i } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "方程（2）-（4)描述了自变量 $X$ ，调节变量 $Z$ 和中介的调节变量 $M$ 与因变量 $Y$ 之间的关系;方程（5）描述了调节变量 $Z$ 和中介的调节变量 $M$ 之间的关系。其中 $\\gamma _ { d 0 } \\mathfrak { F } \\mathbb { I } \\gamma _ { M 0 }$ 分别表示因变量 $Y$ 和中介的调节变量 $M$ 的回归截距; $\\gamma _ { d 1 } , \\gamma _ { d 2 } , \\gamma _ { c 0 } , \\gamma _ { c 1 } , \\gamma _ { c 2 } \\mathcal { F } ^ { \\sharp } \\gamma _ { M 1 }$ 为回归系数。假设 $X$ $Z$ 和 $M$ 是均值中心化的变量，即 $E ( Z _ { i } ) = E ( X _ { i } ) = E ( M _ { i } ) = 0$ 。残差项 $e _ { Y i } = \\varepsilon _ { i } + u _ { d i }$ ， $\\boldsymbol { e } _ { M i }$ 和$u _ { c _ { i } }$ 服从正态分布，且 $\\mathsf E ( e _ { Y i } ) = E ( e _ { M i } ) = E ( u _ { c i } ) = 0 , \\mathrm { v a r } ( e _ { Y i } ) = \\sigma _ { e Y } ^ { 2 } , \\mathrm { v a r } ( e _ { M i } ) = \\sigma _ { e M } ^ { 2 } ,$ （20$\\mathrm { v a r } ( u _ { c i } ) = \\sigma _ { u c } ^ { 2 }$ 。 $\\boldsymbol { e _ { M i } }$ ， $e _ { Y i }$ 和 $u _ { c i }$ 是相互独立的。值得注意的是，模型虽然用两层的形式表达，但是实际数据并不是嵌套的两层数据，在参数估计上没法区分 $\\varepsilon _ { i }$ 和 $u _ { d i }$ ，因此将其合并为 $e _ { Y i }$ 。另外，在模型的定义中，允许 $\\cdot c _ { i }$ 存在随机变异，以此来处理误差方差随 $X _ { i }$ 变化的方差非齐性问题（后面我们再详细讨论这一问题)。2meMO 模型对应的两层统计模型可用图2表示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/dd3347fd65148ba36d4b28341e904d6e7a9fa37e94f63fa2b1a8c72eadf6999f.jpg",
+        "img_caption": [
+            "图2拓展的有中介的调节（2meMO）分析对应的分层统计模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "第一层模型描述meMO 重点关注和解释的关系是 $X$ 对 $Y$ 的影响，其中截距 $d _ { i }$ 和斜率 $c _ { i }$ 为随机系数；第二层模型进一步解释 $Z$ 和 $M$ 对随机系数 $d _ { i }$ 和 $c _ { i }$ 的解释，同时第二层模型还定义了 $Z$ 和 $M$ 之间的关系。具体来讲，方程（3）描述了模型中 $Y$ 对 $X$ 回归的截距 $d _ { i }$ 受到的影响（除了 $X$ 外直接指向因变量Y的变量)；方程（4）描述了 $X$ 对 $Y$ 的回归系数 $\\cdot _ { c _ { i } }$ 受到的调节（指向 $X$ 到 $Y$ 回归线上的变量)，其中 $\\gamma _ { c 0 }$ 表示 $X$ 对 $Y$ 的主效应， $\\gamma _ { c 1 }$ 表示 $M$ 对 $X$ 和 $Y$ 之间关系的调节， $\\gamma _ { c 2 }$ 表示 $Z$ 对 $X$ 和 $Y$ 之间关系的直接调节；方程（5）描述了 $M$ 对 $Z$ 的回归。这种采用两层定义模型的方式突出了meMO 模型中解释的重点是 $X$ 和 $Y$ 之间的关系（层1)如何被调节（直接调节或间接调节)，从而可有效区分meMO与moME所关注问题的差异。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "下面通过合并模型的表达进一步明确2meMO 模型和传统meMO 模型的联系和区别。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将（3）和（4）代入到（2）中，得到合并模型的表达式为：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { Y _ { i } = d _ { i } + c _ { i } X _ { i } + \\varepsilon _ { i } } \\\\ { \\ } & { \\ = \\gamma _ { d 0 } + \\gamma _ { d 1 } M _ { i } + \\gamma _ { d 2 } Z _ { i } + u _ { d i } + ( \\gamma _ { c 0 } + \\gamma _ { c 1 } M _ { i } + \\gamma _ { c 2 } Z _ { i } + u _ { c i } ) X _ { i } + \\varepsilon _ { i } } \\\\ { \\ } & { \\ = \\gamma _ { d 0 } + \\gamma _ { d 1 } M _ { i } + \\gamma _ { d 2 } Z _ { i } + \\gamma _ { c 0 } X _ { i } + \\gamma _ { c 1 } X _ { i } M _ { i } + \\gamma _ { c 2 } X _ { i } Z _ { i } + u _ { c i } X _ { i } + e _ { Y i } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "再将等式（5）代入到等式（6）中，得到：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { Y _ { i } = ( \\gamma _ { d 0 } + \\gamma _ { d 1 } \\gamma _ { M 0 } ) + ( \\gamma _ { d 2 } + \\gamma _ { d 1 } \\gamma _ { M 1 } ) Z _ { i } + ( \\gamma _ { c 0 } + \\gamma _ { c 1 } \\gamma _ { M 0 } ) X _ { i } } \\\\ & { \\mathrm { ~ } + ( \\gamma _ { c 2 } + \\gamma _ { c 1 } \\gamma _ { M 1 } ) X _ { i } Z _ { i } + \\gamma _ { d 1 } e _ { M i } + \\gamma _ { c 1 } X _ { i } e _ { M i } + u _ { c i } X _ { i } + e _ { Y i } } \\\\ & { \\mathrm { ~ } = \\big ( \\gamma _ { d _ { 0 } } + \\gamma _ { d _ { 1 } } \\gamma _ { M 0 } \\big ) + \\big ( \\gamma _ { d _ { 2 } } + \\gamma _ { d _ { 1 } } \\gamma _ { M 1 } \\big ) Z _ { i } } \\\\ & { \\mathrm { ~ } + [ ( \\gamma _ { c 0 } + \\gamma _ { c 1 } \\gamma _ { M 0 } ) + ( \\gamma _ { c 2 } + \\gamma _ { c 1 } \\gamma _ { M 1 } ) Z _ { i } + ( \\gamma _ { c 1 } e _ { M i } + u _ { c i } ) ] X _ { i } + ( \\gamma _ { d 1 } e _ { M i } + e _ { Y i } ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "需要说明的是，相比传统的meMO模型，方程（6）和（7）多了 $u _ { c i } X _ { i }$ 这一项，此项可以有效区分模型解释的重点是有中介的调节，而非有调节的中介（我们将在讨论部分进一步解释meMO和moME的区别)。另外，合并后的方程（7）中隐含着 $X \\to X M$ 和 $X Z \\to X M$ 两条路径以及对两条路径系数的限定（见图2和图3)，即限定 $X \\to X M$ 的路径系数与 $M$ 对X回归的截距（即 $1 \\to M$ ）相等，均为 $\\gamma _ { M 0 }$ ；限定 $X Z \\to X M$ 的路径系数与 $Z \\to M$ 相等，均为 $\\gamma _ { M 1 }$ 。其原因如下：从方程（7）可看出， $X$ 对Y的影响为 $\\gamma _ { c 0 } + \\gamma _ { c 1 } \\gamma _ { M 0 }$ ，包括X对Y的直接影响 $\\gamma _ { c 0 }$ ，以及X通过XM对Y的间接影响 $\\gamma _ { c 1 } \\gamma _ { M 0 }$ ，XM对Y的影响为 $\\gamma _ { c 1 }$ ，则可通过限定 $X \\to X M$ 为 $\\gamma _ { M 0 }$ ，使得 $X $ $X M  Y .$ 为 $\\lvert \\gamma _ { c 1 } \\gamma _ { M 0 }$ ；同理，XZ对Y的影响 $\\gamma _ { c 2 } + \\gamma _ { c 1 } \\gamma _ { M 1 }$ ，包括XZ对Y的直接影响 $\\dot { \\gamma } _ { c 2 }$ ，以及XZ通过XM对Y的间接影响 $\\gamma _ { c 1 } \\gamma _ { M 1 }$ ， $\\mathit { X M }$ 对Y的影响为 $\\gamma _ { c 1 }$ ，可通过限定 $X Z \\to X M$ 为 $\\gamma _ { M 1 }$ 使得 $X Z $ $X M  Y$ 为 $\\gamma _ { c 2 } + \\gamma _ { c 1 } \\gamma _ { M 1 }$ 。根据方程（6）和（7），用于2meMO分析所对应的合并统计模型如图3所示。对比图2和图3，图2的解释更加直接。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图3中 $X$ 到Y路径系数上的实心圆点表示其对应的回归系数含有随机效应 $u _ { c i }$ ，用以描述Y的残差方差可以随X的变化而变化（方差非齐性)，传统meMO模型中不包含这项。2meMO模型允许包含随机项 $u _ { c i }$ 不仅不再需要误差方差齐性的假设，而且更符合实际情况。因为除了模型中考虑到的调节变量， $X$ 和Y之间的关系还有可能依赖于模型中没包含的其他调节变量，X对Y影响的随机误差项 $u _ { c i }$ 也合理的刻画了这一点。除了这一随机路径，该模型与传统的meMO对应的统计模型(Grant＆ Berry,2011;Liu etal.,2012)相比，传统模型中 $X Z \\to X M$ 和$X \\to X M$ 的路径自由估计，而在我们推导的统计模型中这两条路径分别限定为与Z对M回归的斜率和截距相等，对于模型的自由度增加了2。除了随机效应 $u _ { c i }$ 外，虽然2meMO对应合并统计模型中的其他部分与Kwan和Chan(2018)从另一视角推导的meMO的统计模型相同，但两者建构和解释meMO影响效应的思路存在本质差异。2meMO分层统计模型（图2）与概念模型的对应关系更清晰，模型中关于X和Y之间关系变异的解释也更易于理解，可以围绕X和Y之间关系变异 $( c _ { i } )$ 的解释，定义调节变量Z的总调节效应、直接调节效应以及间接调节效应，而且这一定义效应量的思路同样适用于 $u _ { c i } = 0$ 的模型。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/cff9df79f23c9df3a0219e28066cf64f20ecf0e635fbd2b906e77cdd5a18e193.jpg",
+        "img_caption": [
+            "图3拓展的有中介的调节（2meMO）分析对应的合并统计模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3meMO效应量的定义 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在方程（2）－（5）所定义的2meMO模型中，将（5）代入（4），可以将X对Y总的影响效应 $c _ { i }$ 表示为：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { c _ { i } = \\gamma _ { c 0 } + \\gamma _ { c 1 } M _ { i } + \\gamma _ { c 2 } Z _ { i } + u _ { c i } } \\\\ & { \\quad = \\gamma _ { c 0 } + \\gamma _ { c 1 } ( \\gamma _ { M 0 } + \\gamma _ { M 1 } Z _ { i } + e _ { M i } ) + \\gamma _ { c 2 } Z _ { i } + u _ { c i } } \\\\ & { \\quad = ( \\gamma _ { c 0 } + \\gamma _ { c 1 } \\gamma _ { M 0 } ) + ( \\gamma _ { c 2 } + \\gamma _ { c 1 } \\gamma _ { M 1 } ) Z _ { i } + \\gamma _ { c 1 } e _ { M i } + u _ { c i } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "第一项 $\\gamma _ { c 0 } + \\gamma _ { c 1 } \\gamma _ { M 0 }$ 表示 $X$ 对Y的影响，其中 $\\gamma _ { c 0 }$ 表示 $X$ 对Y的直接影响， $\\gamma _ { c 1 } \\gamma _ { M 0 }$ 表示 $X$ 通过XM对Y的间接影响，这一项与调节变量Z的取值无关。第二项 $( \\gamma _ { c 2 } + \\gamma _ { c 1 } \\gamma _ { M 1 } )$ 表示调节变量Z对 $X $ Y的总调节效应，其中 $\\gamma _ { c 2 }$ 是Z对 $X \\to Y$ 的直接调节效应， $\\gamma _ { c 1 } \\gamma _ { M 1 }$ 是Z通过M对 $X \\to Y$ 的中介的调节效应（对应概念模型（图2）中粗体线表示的Z通过M对X和Y之间回归系数的影响，对应于合并统计模型（图3）中的 $X Z  X M  Y ^ { \\cdot }$ ）， $\\gamma _ { c 1 } \\gamma _ { M 1 }$ 即为meMO模型关注的有中介的调节，记为YmeMo。推断统计中将中介调节效应的检验转换为检验 $H _ { 0 } \\colon \\gamma _ { m e M O } = 0$ 是否显著的问题。实际中，经常通过对调节变量Z取给定的值 $z$ （如高于或低于均值1个标准差)，计算得到$\\gamma _ { c 1 } \\gamma _ { M 1 } z$ ，来解释调节变量Z取不同值时，Z通过中介变量M对 $X$ 和Y之间关系的影响程度（简单meMO)。类似于调节效应中简单效应差异的检验，对于给定的不同调节效应值 $Z _ { 1 } = z _ { 1 }$ 和$Z _ { 2 } = z _ { 2 }$ ，可得到中介调节效应差异 $d i f _ { m e M O } = \\gamma _ { c 1 } \\gamma _ { M 1 } ( z _ { 1 } - z _ { 2 } )$ ，实际中也可对 $H _ { 0 } \\colon d i f _ { m e M O } =$ （200进行检验，以回答调节变量Z取不同值 $z _ { 1 }$ 和 $\\stackrel { \\cdot } { z } _ { 2 }$ 时，中介调节作用是否存在差异。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "X对Y影响程度的变异，即 $c _ { i }$ 的方差为：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\mathrm { v a r } ( c _ { i } ) = \\mathrm { v a r } ( \\gamma _ { c 0 } + \\gamma _ { c 1 } M _ { i } + \\gamma _ { c 2 } Z _ { i } + u _ { c i } ) } \\\\ { = ( \\gamma _ { c 2 } + \\gamma _ { c 1 } \\gamma _ { M 1 } ) ^ { 2 } \\mathrm { v a r } ( Z _ { i } ) + \\gamma _ { c 1 } ^ { 2 } \\sigma _ { e M } ^ { 2 } + \\sigma _ { u c } ^ { 2 } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "下面我们基于 $c _ { i }$ 变异的不同来源来定义可以测量meMO大小的效应量。第一个效应量",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi _ { M O \\_ t o t } = \\frac { ( \\gamma _ { c 2 } + \\gamma _ { c 1 } \\gamma _ { M 1 } ) ^ { 2 } \\mathrm { v a r } ( Z _ { i } ) } { ( \\gamma _ { c 2 } + \\gamma _ { c 1 } \\gamma _ { M 1 } ) ^ { 2 } \\mathrm { v a r } ( Z _ { i } ) + \\gamma _ { c 1 } ^ { 2 } \\sigma _ { e M } ^ { 2 } + \\sigma _ { u c } ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为调节变量Z对回归系数 $c _ { i }$ 总变异所解释的比例，可以用来测量X对Y影响的变异中，调节变量Z所能解释的总变异所占的比例。效应量",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi _ { M O _ { - } d i r } = \\frac { \\gamma _ { c 2 } ^ { 2 } \\mathrm { v a r } ( Z _ { i } ) } { ( \\gamma _ { c 2 } + \\gamma _ { c 1 } \\gamma _ { M 1 } ) ^ { 2 } \\mathrm { v a r } ( Z _ { i } ) + \\gamma _ { c 1 } ^ { 2 } \\sigma _ { e M } ^ { 2 } + \\sigma _ { u c } ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "则描述了变量Z的直接调节效应对回归系数 $c _ { i }$ 总变异所解释的比例，可以用来测量调节变量Z对 $X \\to Y$ 路径直接调节效应的大小。而效应量",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi _ { m e M O } = \\phi _ { M O \\_ i n d } = \\frac { ( \\gamma _ { c 1 } \\gamma _ { M 1 } ) ^ { 2 } \\mathrm { v a r } ( Z _ { i } ) } { ( \\gamma _ { c 2 } + \\gamma _ { c 1 } \\gamma _ { M 1 } ) ^ { 2 } \\mathrm { v a r } ( Z _ { i } ) + \\gamma _ { c 1 } ^ { 2 } \\sigma _ { e M } ^ { 2 } + \\sigma _ { u c } ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "描述了变量Z通过中介的调节变量M的间接调节效应（也叫做有中介的调节)对回归系数 $\\cdot _ { c _ { i } }$ 总变异所解释的比例，可以用来衡量调节变量Z通过中介的调节变量 $M _ { ☉ }$ 对 $X \\to Y$ 路径系数的调节效应的大小。值得注意的是，基于变异分解所定义的效应量，由于直接调节效应对应的路径系数 $\\cdot \\gamma _ { c 2 }$ 与间接调节效应对应的路径系数 $\\gamma _ { c 1 } \\gamma _ { M 1 }$ 均与变量Z有关，两者之间不具有独立性。因此，通过路径系数定义的变异解释率不具有可加性，其直接调节效应量与间接调节效应量的和并不等于总的调节效应量，即： $\\phi _ { M O _ { - } t o t } \\neq \\phi _ { M O _ { - } d i r } + \\phi _ { M O _ { - } i n d } \\circ$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "当方差齐性假设被满足时，回归系数 $c _ { i }$ 的残差随机部分为零，即 $u _ { c i } = 0$ ，等式（2）-(5)中的模型被还原为传统的有中介的调节模型（简称为meMO)，上面定义的公式（10）-（12）被简化为以下公式。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "总调节效应：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi _ { M O _ { - } t o t } ^ { ( f ) } = \\frac { ( \\gamma _ { c 2 } + \\gamma _ { c 1 } \\gamma _ { M 1 } ) ^ { 2 } \\mathrm { v a r } ( Z _ { i } ) } { ( \\gamma _ { c 2 } + \\gamma _ { c 1 } \\gamma _ { M 1 } ) ^ { 2 } \\mathrm { v a r } ( Z _ { i } ) + \\gamma _ { c 1 } ^ { 2 } \\sigma _ { e M } ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "直接的调节效应：",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi _ { M O _ { - } d i r } ^ { ( f ) } = \\frac { \\gamma _ { c 2 } ^ { 2 } \\mathrm { v a r } ( Z _ { i } ) } { ( \\gamma _ { c 2 } + \\gamma _ { c 1 } \\gamma _ { M 1 } ) ^ { 2 } \\mathrm { v a r } ( Z _ { i } ) + \\gamma _ { c 1 } ^ { 2 } \\sigma _ { e M } ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "中介的调节效应：",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi _ { m e M O } ^ { ( f ) } = \\phi _ { M O \\_ i n d } ^ { ( f ) } = \\frac { ( \\gamma _ { c 1 } \\gamma _ { M 1 } ) ^ { 2 } \\mathrm { v a r } ( Z _ { i } ) } { ( \\gamma _ { c 2 } + \\gamma _ { c 1 } \\gamma _ { M 1 } ) ^ { 2 } \\mathrm { v a r } ( Z _ { i } ) + \\gamma _ { c 1 } ^ { 2 } \\sigma _ { e M } ^ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "这里，我们使用上标 $\\boldsymbol { \\mathcal { O } }$ 来区分定义中不包含的 $X$ 对 $Y$ 未解释的随机残差。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "公式（13）-（15）同样适用于2meMO模型，其分母表示的意义是在不考虑 $X  Y$ 影响系数的随机误差（ $\\cdot u _ { c i }$ ）时，调节变量 $Z$ 对 $X  Y$ 影响系数的调节。其包含可解释的调节$( \\gamma _ { c 2 } + \\gamma _ { c 1 } \\gamma _ { M 1 } ) ^ { 2 } \\mathrm { v a r } ( Z _ { i } )$ 和通过中介的调节变量 $M$ 间接未解释的调节 $\\gamma _ { c 1 } ^ { 2 } \\sigma _ { e M } ^ { 2 }$ 两部分。在可解释的调节中包含调节变量 $Z$ 直接的调节和通过中介的调节变量 $M$ 间接的调节。因此，不论是误差方差满足齐性的条件还是误差方差依赖于 $X$ 的情况，我们都给出了测量有中介调节效应的效应量指标。公式（13）-（15）同时适用于meMO 和2meMO 模型，而公式（10）-（12）仅适用于 2meMO 模型。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由于本研究拓展的2meMO模型随机部分参数更复杂，极大似然估计方法会遇到基本假设（误差方差齐性）被违背的问题。考虑到贝叶斯估计在处理复杂模型，尤其是含有更复杂的随机变异模型时更加灵活的优势(Wang＆ Preacher,2015；Muthen＆ Asparouhov,2012;Asparouhov&Muthen,2020)，我们使用贝叶斯方法估计2meMO中的参数及效应量。为了便于比较，贝叶斯估计方法也用于meMO模型的参数估计。在指定模型和先验分布后，采用马尔可夫链蒙特卡洛（Markov Chain Monte Carlo,MCMC）Gibbs采样获得模型参数的后验分布(Gilks et al.,1996)。关于Gibbs采样收敛性的检查，使用Gelman-Rubin势能缩减（potentialscale reduction,PSR)统计量。根据Brooks和Gelman(1998)的研究，如果PSR统计量小于1.05,则认为参数估计达到收敛。对于收敛样本，我们将参数的贝叶斯估计定义为其后验分布的均值（称为后验均值，实际中也可用中位数），并且使用收敛样本的标准差获得后验标准差。基于每个参数后验分布 $2 . 5 \\%$ 和 $9 7 . 5 \\%$ 的分位数，得到 $9 5 \\%$ 可信区间（Credibility Interval，CI）（Song & Lee,2012）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4模拟研究",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究通过模拟研究的方法，比较不同条件下，meMO和2meMO在参数估计精度和效应量估计方面的表现。通过meMO和2meMO的比较，验证方差齐性条件不满足时，拓展的2meMO模型的必要性。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1模拟设计",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "对于方程（2）-（5)，参考Wen等人(2010)以及Liu等人(2019)的模拟条件，参数真值的设定如下：（1）调节回归系数 $\\cdot \\gamma _ { c 1 }$ 的大小取3个水平：0、0.2和0.4；（2）随机误差 $\\boldsymbol { u _ { c i } }$ 的方差 $\\sigma _ { u c } ^ { 2 }$ 取3个水平：0、0.25和0.5；（3）样本量取4个水平：100、200、500和1000。注意条件 $\\sigma _ { u c } ^ { 2 } = 0$ （204号时，表示Y的误差方差满足齐性假设，这时对应的真模型为meMO模型。其他条件的设定如下：将截距 $\\cdot \\gamma _ { M 0 }$ 和 $| \\gamma _ { d 0 }$ 设置为0；将 $X  Y$ ， $Z \\to Y$ ， $M  Y$ 和 $| Z \\to M$ 的主效应均设置为0.4，即$\\gamma _ { d 1 } = \\gamma _ { d 2 } = \\gamma _ { c 0 } = \\gamma _ { M 1 } = 0 . 4$ ; $Z _ { i }$ 对 $X \\to Y$ 路径的直接调节效应设置为0.2，即 $\\gamma _ { c 2 } = 0 . 2$ 。自变量 $X$ ，调节变量 $Z$ ，误差项 $e _ { M i }$ 和 $e _ { Y i }$ 服从标准正态分布 $N ( 0 , 1 )$ 。共有36个条件，每个条件重复500次。基于2meMO模型，使用R软件(RCore Team,2016)模拟生成数据。根据公式（10）-（15）可以得到对应于 $\\gamma _ { c 1 }$ 和 $\\sigma _ { u c } ^ { 2 }$ 组合下，效应量的真值，结果见表1。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/1d1317580bc2b3a867e9293a0e1c58ddd5b4aed51d686860be4ac55edef79952.jpg",
+        "table_caption": [
+            "表1模拟设计条件对应的效应量真值"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Yc1</td><td colspan=\"3\">0</td><td colspan=\"3\">0.2</td><td colspan=\"3\">0.4</td></tr><tr><td>uc</td><td>0</td><td>0.25</td><td>0.5</td><td>0</td><td>0.25</td><td>0.5</td><td>0</td><td>0.25</td><td>0.5</td></tr><tr><td>中otot</td><td>1</td><td>1</td><td>1</td><td>0.6622</td><td>0.6622</td><td>0.6622</td><td>0.4475</td><td>0.4475</td><td>0.4475</td></tr><tr><td>中oatr</td><td>1</td><td>1</td><td>1</td><td>0.3378</td><td>0.3378</td><td>0.3378</td><td>0.1381</td><td>0.1381</td><td>0.1381</td></tr><tr><td>(f) memo</td><td>0</td><td>0</td><td>0</td><td>0.0541</td><td>0.0541</td><td>0.0541</td><td>0.0884</td><td>0.0884</td><td>0.0884</td></tr><tr><td>mo_tot</td><td>1</td><td>0.1379</td><td>0.7410</td><td>0.6622</td><td>0.2128</td><td>0.1268</td><td>0.4475</td><td>0.2402</td><td>0.1641</td></tr><tr><td>Φmo_dir</td><td>1</td><td>0.1379</td><td>0.7410</td><td>0.3378</td><td>0.1086</td><td>0.0647</td><td>0.1381</td><td>0.0741</td><td>0.0507</td></tr><tr><td>Φmemo</td><td>0</td><td>0</td><td>0</td><td>0.0541</td><td>0.0174</td><td>0.0103</td><td>0.0884</td><td>0.0474</td><td>0.0324</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.2数据分析和评价指标",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "对于2meMO模型和meMO模型，使用JAGS(Plummer,2015)和R软件(R Core Team,2016)中的程序包“R2jags”进行贝叶斯估计，共迭代15000次，采用最后5000次迭代获得参数的后验分布，即内燃(burm in)的值设定为10000。对于模型中参数先验分布的选择，基于文献建议(e.g.，Song&Lee，2012；Wang&Preacher，2015），对于回归系数 $\\gamma =$ （204号 $( \\gamma _ { M 0 } , \\gamma _ { M 1 } , \\gamma _ { d 0 } , \\gamma _ { d 1 } , \\gamma _ { d 2 } , \\gamma _ { c 0 } , \\gamma _ { c 1 } , \\gamma _ { c 2 } )$ 采用独立正态分布的先验，对于误差方差 $\\sigma ^ { 2 } = $ $( \\sigma _ { e M } ^ { 2 } , \\sigma _ { e Y } ^ { 2 } , \\sigma _ { u c } ^ { 2 } )$ 采用独立的逆伽马分布的先验，这些先验是回归分析和结构方程模型常用的半共轭先验(Gelman etal.,2004)。具体而言，对于回归系数，设定先验分布为： $\\gamma _ { k } { \\sim } N ( 0 , 1 0 ^ { 6 } )$ 对于误差方差，设定先验分布为： $\\sigma _ { l } ^ { 2 }$ \\~IGamma(0.001,0.001)。链条数设为3，为了降低后验分布间的自相关和节约存储空间，将抽取后验分布的间隔设定为10（即thir $_ { 1 = 1 0 }$ )。感兴趣的参数包括中介调节效应 $\\gamma _ { m e M O }$ 和中介调节效应的差异 $d i f _ { m e M O }$ ，取 $Z = 1$ 来评估的简单meMO效应 $( \\gamma _ { m e M O } )$ 的估计，取 $Z = 1$ 和 $Z = - 1$ 来检验调节变量Z取不同值时两个简单meMO效应的差异（ $d i f _ { m e M O } )$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "对于参数 $\\gamma _ { m e M O }$ 和 $d i f _ { m e M O }$ ，使用参数估计的偏差（Bias）、均方误差（MSE）、 $9 5 \\%$ 可信区间的覆盖率、检验力和第一类错误5个指标评估参数估计的精度。对于效应量，采用前3个指标评估其估计精度。同时采用meMO和2meMO模型进行估计，对于2meMO模型，可以得到動 $\\phi _ { M O \\_ t o t } ^ { ( f ) }$ ， $\\phi _ { M O \\_ d i r } ^ { ( f ) }$ ， $\\phi _ { m e M o } ^ { ( f ) }$ ， $\\phi _ { M O \\_ t o t }$ ， $\\phi _ { M O \\_ d i r }$ 愛和機 $\\phi _ { m e M O }$ 的估计结果，对于meMO模型，可得到前3个效应量的估计值。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "偏差（Bias）和均方误差（MSE）的定义如下：",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB i a s \\bigl ( \\hat { \\theta } \\bigr ) = \\bar { \\theta } - \\theta _ { 0 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { M S E \\big ( \\widehat \\theta \\big ) = \\frac { \\sum _ { r = 1 } ^ { R } \\left( \\widehat \\theta _ { r } - \\theta _ { 0 } \\right) ^ { 2 } } { R } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\begin{array} { r } { \\bar { \\theta } = \\sum _ { r = 1 } ^ { R } \\hat { \\theta } _ { r } / R } \\end{array}$ 表示 $R { = } 5 0 0$ 次重复参数估计的均值， ${ \\hat { \\theta } } _ { r }$ 为第 $r$ 次重复的参数估计值。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$9 5 \\%$ 可信区间的覆盖率是指 $R { = } 5 0 0$ 次重复中贝叶斯估计得到的后验分布中第 $2 . 5 \\%$ 和第$9 7 . 5 \\%$ 可信区间内包含参数真值的次数所占的比例。检验力是在参数对应的真值不为0的条件下， $R { = } 5 0 0$ 次重复中能够检验出参数显著不为零的次数所占的比例。第一类错误是在参数对应的真值为0的条件下， $R { = } 5 0 0$ 次重复中错误的检验出参数显著不为0的次数所占的比例。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.3结果",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "对于每一组模拟条件，模型中所有参数对应的PSR统计量均小于1.05，说明对于meMO和 2meMO 模型，贝叶斯估计均不存在不收敛的问题。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.3.1 Ymemo和 $d i f _ { m e M O }$ 的估计精度 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "表2给出了有中介调节效应估计值 $\\hat { \\gamma } _ { \\mathrm { m e M } 0 }$ 的偏差，均方误差， $9 5 \\%$ 可信区间覆盖率和拒绝率。对于拒绝率， $\\gamma _ { m e M O } = 0$ 时拒绝率的值代表第一类错误率， $\\gamma _ { m e M O } \\neq 0$ 时拒绝率的值代表检验力。可以看出，对于参数估计的偏差和均方误差两种模型得到的参数估计结果几乎没有差异（差异在小数点后第四位）。在满足方差齐性的条件下，meMO模型与2meMO模型得到的参数估计结果也基本一致。但是当方差齐性条件不满足时，随着 $\\sigma _ { u c } ^ { 2 }$ 方差增加，对于 $9 5 \\%$ 可信区间覆盖率和第一类错误的结果，2meMO模型的结果明显更有优势。对于检验力的结果，meMO在小样本时略高于2meMO，其主要原因可能是因为这些条件下，meMO模型过高的第一类错误导致检验力的虚假提高。随着样本量和调节回归系数 $\\cdot \\gamma _ { c _ { 1 } }$ 的增加，检验力提高。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "difmemo与Ymemo所得结论一致。传统meMO和2meMO模型的偏差都很小。在方差齐性的条件下，两种模型中Bias、MSE、对应的 $9 5 \\%$ 可信区间的覆盖率和第一类错误的差异很小。然而，在误差方差非齐性条件下，2meMO对 $d i f _ { m e M O }$ 进行估计更加准确，同时2meMO对应的 $9 5 \\%$ 可信区间的覆盖率更接近 $9 5 \\%$ 。2meMO方法在控制第一类错误率方面表现更好，随着$\\sigma _ { u c } ^ { 2 }$ 值的增加，meMO的第一类错误率有所增大。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.3.2效应量的估计结果",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "对于总体中存在中介调节效应（ ${ \\dot { \\gamma } } _ { c 1 } = 0 . 2$ 或0.4）时，可以使用meMO模型和2meMO模型，利用公式（13）-（15）得到效应量 $\\phi _ { M O \\_ t o t } ^ { ( f ) }$ ， $\\phi _ { M O \\_ d i r } ^ { ( f ) }$ 愛和機 $\\phi _ { m e M O } ^ { ( f ) }$ 的估计值；当回归系数 $\\cdot _ { c _ { i } }$ 对应的误差方差 $\\sigma _ { u c } ^ { 2 } \\neq 0$ 时，可以采用2meMO模型，利用公式（10）-（12）得到效应量 $\\phi _ { M O \\_ t o t }$ ，$\\phi _ { M O \\_ d i r }$ 和 $\\phi _ { m e M O }$ 的估计值。效应量的结果表明，不同测量指标的结果表现出相同的模式，所以文中仅给出 $\\phi _ { m e M o } ^ { ( f ) }$ 和 $\\phi _ { m e M O }$ 的结果。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "表3给出了两种模型得到的 $\\phi _ { m e M o } ^ { ( f ) }$ 的估计值。样本量越大， $\\sigma _ { u c } ^ { 2 }$ 的值越小， $\\phi _ { m e M o } ^ { ( f ) }$ 的估计精度越高。在 $\\sigma _ { u c } ^ { 2 } = 0$ 的情况下，meMO模型和2meMO模型间的差异很小。但是，当 $\\sigma _ { u c } ^ { 2 } \\neq 0$ 时，2meMO的结果更加精确，并且随着 $\\sigma _ { u c } ^ { 2 }$ 值的增加，2meMO模型相对于meMO模型的优势变得越来越明显。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "表4给出了2meMO 模型得到的效应量 $\\phi _ { m e M O }$ 的估计值。从结果可以看出，在所有条件下，MSE 值都很小， $\\phi _ { m e M O }$ 对应的 $9 5 \\%$ 可信区间的覆盖率也接近 $9 5 \\%$ 。随着 $\\sigma _ { u c } ^ { 2 }$ 和样本量的增加， $\\phi _ { m e M O }$ 估计的精度越来越高。但是，值得注意的是，当样本量较小时， $\\phi _ { m e M O }$ 估计的偏差较大，尤其是对于较小的有中介的调节效应而言。因此，在实践中，为了获得对 $\\phi _ { m e M O }$ 更准确的估计，可能需要更大的样本量，或者类似于传统回归分析中对 $R ^ { 2 }$ 的估计，需要对其偏度进行校正。",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/8ae1f7c717f5dbb11e064f13c605fc2128773c0c4c3b69629333ed08b81bb14e.jpg",
+        "table_caption": [
+            "表2 两种模型得到的 $\\gamma _ { m e M O }$ 的偏差，均方误差， $9 5 \\%$ 可信区间覆盖率和拒绝率"
+        ],
+        "table_footnote": [
+            "注：覆盖率低于0.9，第一类错误率高于 $8 \\%$ 的值用粗体字表示。 $\\gamma _ { m e M O } = 0$ 时拒绝率的值代表第一类错误率， $\\gamma _ { m e M o } \\neq 0$ 时拒绝率的值代表检验力。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">Yc1</td><td rowspan=\"2\"></td><td rowspan=\"2\">真值</td><td colspan=\"4\"></td><td colspan=\"4\"></td></tr><tr><td>100</td><td>200mem0</td><td></td><td>1000</td><td>100</td><td>202meMO</td><td></td><td>1000</td></tr><tr><td>Bias</td><td>0</td><td>0</td><td>0</td><td>0.002</td><td>0.001</td><td>0.000</td><td>-0.001</td><td>0.002</td><td>0.001</td><td>0.000</td><td>-0.001</td></tr><tr><td></td><td></td><td>0.25</td><td>0</td><td>-0.002</td><td>-0.001</td><td>0.000</td><td>0.001</td><td>-0.001</td><td>-0.001</td><td>0.000</td><td>0.001</td></tr><tr><td></td><td></td><td>0.5</td><td>0</td><td>0.003</td><td>0.000</td><td>0.001</td><td>-0.001</td><td>0.003</td><td>0.000</td><td>0.001</td><td>-0.001</td></tr><tr><td></td><td>0.2</td><td>0</td><td>0.08</td><td>-0.002</td><td>-0.002</td><td>0.000</td><td>0.001</td><td>-0.002</td><td>-0.002</td><td>0.000</td><td>0.001</td></tr><tr><td></td><td></td><td>0.25</td><td>0.08</td><td>-0.006</td><td>0.000</td><td>0.000</td><td>0.000</td><td>-0.006</td><td>0.000</td><td>0.000</td><td>0.000</td></tr><tr><td></td><td></td><td>0.5</td><td>0.08</td><td>-0.002</td><td>0.002</td><td>-0.002</td><td>0.001</td><td>-0.001</td><td>0.000</td><td>-0.002</td><td>0.002</td></tr><tr><td></td><td>0.4</td><td>0</td><td>0.16</td><td>0.000</td><td>0.001</td><td>0.001</td><td>0.000</td><td>0.000</td><td>0.001</td><td>0.001</td><td>0.000</td></tr><tr><td></td><td></td><td>0.25</td><td>0.16</td><td>-0.004</td><td>-0.001</td><td>0.002</td><td>0.000</td><td>-0.004</td><td>-0.001</td><td>0.002</td><td>0.000</td></tr><tr><td></td><td></td><td>0.5</td><td>0.16</td><td>-0.002</td><td>-0.004</td><td>0.000</td><td>0.002</td><td>-0.002</td><td>-0.003</td><td>0.001</td><td>0.002</td></tr><tr><td>MSE</td><td>0</td><td>0</td><td>0</td><td>0.002</td><td>0.001</td><td>0.000</td><td>0.000</td><td>0.002</td><td>0.001</td><td>0.000</td><td>0.000</td></tr><tr><td></td><td></td><td>0.25</td><td>0</td><td>0.003</td><td>0.001</td><td>0.001</td><td>0.000</td><td>0.003</td><td>0.001</td><td>0.001</td><td>0.000</td></tr><tr><td></td><td></td><td>0.5</td><td>0</td><td>0.004</td><td>0.002</td><td>0.001</td><td>0.000</td><td>0.004</td><td>0.002</td><td>0.001</td><td>0.000</td></tr><tr><td></td><td>0.2</td><td>0</td><td>0.08</td><td>0.002</td><td>0.001</td><td>0.000</td><td>0.000</td><td>0.002</td><td>0.001</td><td>0.000</td><td>0.000</td></tr><tr><td></td><td></td><td>0.25</td><td>0.08</td><td>0.004</td><td>0.002</td><td>0.001</td><td>0.000</td><td>0.003</td><td>0.002</td><td>0.001</td><td>0.000</td></tr><tr><td></td><td></td><td>0.5</td><td>0.08</td><td>0.005</td><td>0.002</td><td>0.001</td><td>0.001</td><td>0.005</td><td>0.002</td><td>0.001</td><td>0.000</td></tr><tr><td></td><td>0.4</td><td>0</td><td>0.16</td><td>0.004</td><td>0.002</td><td>0.001</td><td>0.000</td><td>0.004</td><td>0.002</td><td>0.001</td><td>0.000</td></tr><tr><td></td><td></td><td>0.25</td><td>0.16</td><td>0.005</td><td>0.002</td><td>0.001</td><td>0.000</td><td>0.005</td><td>0.002</td><td>0.001</td><td>0.000</td></tr><tr><td></td><td></td><td>0.5</td><td>0.16</td><td>0.006</td><td>0.003</td><td>0.001</td><td>0.001</td><td>0.005</td><td>0.003</td><td>0.001</td><td>0.001</td></tr><tr><td>覆盖率</td><td>0</td><td>0</td><td>0</td><td>0.952</td><td>0.942</td><td>0.942</td><td>0.942</td><td>0.952</td><td>0.956</td><td>0.944</td><td>0.940</td></tr><tr><td></td><td></td><td>0.25</td><td>0</td><td>0.908</td><td>0.920</td><td>0.918</td><td>0.872</td><td>0.940</td><td>0.956</td><td>0.942</td><td>0.932</td></tr><tr><td></td><td></td><td>0.5</td><td>0</td><td>0.912</td><td>0.874</td><td>0.852</td><td>0.870</td><td>0.948</td><td>0.952</td><td>0.936</td><td>0.948</td></tr><tr><td></td><td>0.2</td><td>0</td><td>0.08</td><td>0.962</td><td>0.950</td><td>0.966</td><td>0.924</td><td>0.968</td><td>0.954</td><td>0.972</td><td>0.926</td></tr><tr><td></td><td></td><td>0.25</td><td>0.08</td><td>0.920</td><td>0.918</td><td>0.922</td><td>0.908</td><td>0.930</td><td>0.944</td><td>0.956</td><td>0.946</td></tr><tr><td></td><td></td><td>0.5</td><td>0.08</td><td>0.894</td><td>0.882</td><td>0.884</td><td>0.882</td><td>0.928</td><td>0.946</td><td>0.936</td><td>0.944</td></tr><tr><td></td><td>0.4</td><td>0</td><td>0.16</td><td>0.960</td><td>0.948</td><td>0.958</td><td>0.950</td><td>0.962</td><td>0.950</td><td>0.958</td><td>0.946</td></tr><tr><td></td><td></td><td>0.25</td><td>0.16</td><td>0.935</td><td>0.937</td><td>0.930</td><td>0.933</td><td>0.960</td><td>0.948</td><td>0.942</td><td>0.962</td></tr><tr><td>拒绝率</td><td></td><td>0.5</td><td>0.16</td><td>0.926</td><td>0.928</td><td>0.896</td><td>0.882</td><td>0.946</td><td>0.954</td><td>0.940</td><td>0.940</td></tr><tr><td></td><td>0</td><td>0</td><td>0</td><td>0.048</td><td>0.058</td><td>0.058</td><td>0.058</td><td>0.048</td><td>0.044</td><td>0.056</td><td>0.060</td></tr><tr><td rowspan=\"8\"></td><td></td><td>0.25</td><td>0</td><td>0.092</td><td>0.080</td><td>0.082</td><td>0.129</td><td>0.060</td><td>0.044</td><td>0.058</td><td>0.068</td></tr><tr><td></td><td>0.5</td><td>0</td><td>0.088</td><td>0.126</td><td>0.148</td><td>0.130</td><td>0.052</td><td>0.048</td><td>0.064</td><td>0.052</td></tr><tr><td>0.2</td><td>0</td><td>0.08</td><td>0.438</td><td>0.762</td><td>0.998</td><td>1.000</td><td>0.399</td><td>0.760</td><td>0.996</td><td>1.000</td></tr><tr><td></td><td>0.25</td><td>0.08</td><td>0.390</td><td>0.650</td><td>0.970</td><td>1.000</td><td>0.314</td><td>0.606</td><td>0.950</td><td>1.000</td></tr><tr><td></td><td></td><td>0.08</td><td>0.362</td><td>0.600</td><td>0.882</td><td>0.994</td><td>0.269</td><td>0.488</td><td>0.838</td><td>0.990</td></tr><tr><td>0.4</td><td>0.5 0</td></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "表3 两种模型得到的效应量 $\\phi _ { m e M O } ^ { ( f ) }$ 估计的偏差，均方误差， $9 5 \\%$ 可信区间覆盖率",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/4a4be12e00bf10255ea3784db800bac86fe2b7f0af753bc673cca17561e6224b.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：覆盖率低于0.9的值用粗体字表示。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">Yc1</td><td rowspan=\"2\">c</td><td rowspan=\"2\">真值</td><td colspan=\"4\">20mM500</td><td colspan=\"4\"></td></tr><tr><td>100</td><td></td><td></td><td>1000</td><td>100</td><td>202m0M500</td><td></td><td>1000</td></tr><tr><td>Bias</td><td>0.2</td><td>0</td><td>0.054</td><td>0.014</td><td>0.006</td><td>0.002</td><td>0.002</td><td>0.015</td><td>0.006</td><td>0.003</td><td>0.002</td></tr><tr><td rowspan=\"5\"></td><td></td><td>0.25</td><td>0.054</td><td>0.015</td><td>0.009</td><td>0.004</td><td>0.001</td><td>0.016</td><td>0.010</td><td>0.004</td><td>0.001</td></tr><tr><td></td><td>0.5</td><td>0.054</td><td>0.023</td><td>0.013</td><td>0.003</td><td>0.003</td><td>0.022</td><td>0.012</td><td>0.003</td><td>0.003</td></tr><tr><td>0.4</td><td>0</td><td>0.088</td><td>0.003</td><td>0.001</td><td>0.001</td><td>0.001</td><td>0.004</td><td>0.001</td><td>0.001</td><td>0.001</td></tr><tr><td></td><td>0.25</td><td>0.088</td><td>0.000</td><td>0.001</td><td>0.002</td><td>-0.001</td><td>0.000</td><td>0.001</td><td>0.002</td><td>-0.001</td></tr><tr><td></td><td>0.5</td><td>0.088</td><td>0.001</td><td>-0.002</td><td>0.002</td><td>0.001</td><td>0.002</td><td>-0.002</td><td>0.001</td><td>0.001</td></tr><tr><td rowspan=\"5\">MSE</td><td>0.2</td><td>0</td><td>0.054</td><td>0.003</td><td>0.001</td><td>0.001</td><td>0.000</td><td>0.003</td><td>0.001</td><td>0.001</td><td>0.000</td></tr><tr><td></td><td>0.25</td><td>0.054</td><td>0.003</td><td>0.002</td><td>0.001</td><td>0.000</td><td>0.003</td><td>0.002</td><td>0.001</td><td>0.000</td></tr><tr><td></td><td>0.5</td><td>0.054</td><td>0.004</td><td>0.002</td><td>0.001</td><td>0.001</td><td>0.003</td><td>0.002</td><td>0.001</td><td>0.000</td></tr><tr><td>0.4</td><td>0</td><td>0.088</td><td>0.002</td><td>0.001</td><td>0.000</td><td>0.000</td><td>0.002</td><td>0.001</td><td>0.000</td><td>0.000</td></tr><tr><td></td><td>0.25</td><td>0.088</td><td>0.003</td><td>0.001</td><td>0.001</td><td>0.000</td><td>0.003</td><td>0.001</td><td>0.001</td><td>0.000</td></tr><tr><td>覆盖率</td><td></td><td>0.5</td><td>0.088</td><td>0.003</td><td>0.002</td><td>0.001</td><td>0.000</td><td>0.003</td><td>0.001</td><td>0.001</td><td>0.000</td></tr><tr><td rowspan=\"6\"></td><td>0.2</td><td>0</td><td>0.054</td><td>0.962</td><td>0.940</td><td>0.956</td><td>0.926</td><td>0.958</td><td>0.944</td><td>0.954</td><td>0.922</td></tr><tr><td></td><td>0.25</td><td>0.054</td><td>0.958</td><td>0.926</td><td>0.922</td><td>0.914</td><td>0.970</td><td>0.950</td><td>0.962</td><td>0.948</td></tr><tr><td></td><td>0.5</td><td>0.054</td><td>0.958</td><td>0.902</td><td>0.882</td><td>0.874</td><td>0.980</td><td>0.954</td><td>0.952</td><td>0.934</td></tr><tr><td>0.4</td><td>0</td><td>0.088</td><td>0.968</td><td>0.952</td><td>0.948</td><td>0.954</td><td>0.966</td><td>0.952</td><td>0.948</td><td>0.950</td></tr><tr><td></td><td>0.25</td><td>0.088</td><td>0.964</td><td>0.944</td><td>0.948</td><td>0.952</td><td>0.964</td><td>0.944</td><td>0.948</td><td>0.952</td></tr><tr><td></td><td>0.5</td><td>0.088</td><td>0.932</td><td>0.908</td><td>0.914</td><td>0.874</td><td>0.950</td><td>0.940</td><td>0.956</td><td>0.932</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/c0d9ec6634c41549ccfc769632cc4cbfa2cb53f16ae7721e79372a7e818a83ee.jpg",
+        "table_caption": [
+            "表 $4 \\ 2 \\mathrm { m e M O }$ 模型得到的效应量 $\\phi _ { m e M O }$ 估计的偏差，均方误差， $9 5 \\%$ 可信区间覆盖率"
+        ],
+        "table_footnote": [
+            "注：对于2meMO 模型，由于方差估计大于0，置信区间的覆盖率均不包含0。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>Yc1</td><td>uc</td><td>真值</td><td>100</td><td>200</td><td>500</td><td>1000</td></tr><tr><td>Bias</td><td>0</td><td>0</td><td>0</td><td>0.040</td><td>0.024</td><td>0.013</td><td>0.007</td></tr><tr><td></td><td></td><td>0.25</td><td>0</td><td>0.030</td><td>0.016</td><td>0.005</td><td>0.002</td></tr><tr><td></td><td></td><td>0.5</td><td>0</td><td>0.023</td><td>0.009</td><td>0.003</td><td>0.001</td></tr><tr><td></td><td>0.2</td><td>0</td><td>0.0541</td><td>-0.002</td><td>-0.005</td><td>-0.006</td><td>-0.004</td></tr><tr><td></td><td></td><td>0.25</td><td>0.0174</td><td>0.021</td><td>0.016</td><td>0.006</td><td>0.002</td></tr><tr><td></td><td></td><td>0.5</td><td>0.0104</td><td>0.020</td><td>0.010</td><td>0.002</td><td>0.002</td></tr><tr><td></td><td>0.4</td><td>0</td><td>0.0884</td><td>-0.009</td><td>-0.008</td><td>-0.005</td><td>-0.004</td></tr><tr><td></td><td></td><td>0.25</td><td>0.0474</td><td>0.013</td><td>0.011</td><td>0.006</td><td>0.002</td></tr><tr><td>MSE</td><td></td><td>0.5</td><td>0.0324</td><td>0.017</td><td>0.007</td><td>0.003</td><td>0.002</td></tr><tr><td></td><td>0</td><td>0</td><td>0</td><td>0.003</td><td>0.001</td><td>0.000</td><td>0.000</td></tr><tr><td></td><td></td><td>0.25</td><td>0</td><td>0.002</td><td>0.001</td><td>0.000</td><td>0.000</td></tr><tr><td></td><td></td><td>0.5</td><td>0</td><td>0.001</td><td>0.000</td><td>0.000</td><td>0.000</td></tr><tr><td></td><td>0.2</td><td>0</td><td>0.0541</td><td>0.002</td><td>0.001</td><td>0.000</td><td>0.000</td></tr><tr><td></td><td></td><td>0.25</td><td>0.0174</td><td>0.001</td><td>0.001</td><td>0.000</td><td>0.000</td></tr><tr><td></td><td></td><td>0.5</td><td>0.0104</td><td>0.001</td><td>0.001</td><td>0.000</td><td>0.000</td></tr><tr><td></td><td>0.4</td><td>0</td><td>0.0884</td><td>0.002</td><td>0.001</td><td>0.000</td><td>0.000</td></tr><tr><td></td><td></td><td>0.25</td><td>0.0474</td><td>0.002</td><td>0.001</td><td>0.000</td><td>0.000</td></tr><tr><td>覆盖率</td><td></td><td>0.5</td><td>0.0324</td><td>0.002</td><td>0.001</td><td>0.000</td><td>0.000</td></tr><tr><td rowspan=\"5\"></td><td>0.2</td><td>0</td><td>0.0541</td><td>0.932</td><td>0.936</td><td>0.948</td><td>0.922</td></tr><tr><td></td><td>0.25</td><td>0.0174</td><td>0.978</td><td>0.954</td><td>0.954</td><td>0.936</td></tr><tr><td></td><td>0.5</td><td>0.0104</td><td>0.976</td><td>0.964</td><td>0.940</td><td>0.948</td></tr><tr><td>0.4</td><td>0</td><td>0.0884</td><td>0.946</td><td>0.946</td><td>0.950</td><td>0.932</td></tr><tr><td></td><td>0.25</td><td>0.0474</td><td>0.962</td><td>0.946</td><td>0.936</td><td>0.936</td></tr><tr><td></td><td></td><td>0.5</td><td>0.0324</td><td>0.960</td><td>0.962</td><td>0.932</td><td>0.948</td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5应用案例",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5.1数据和模型",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "为了便于2meMO模型与meMO模型的比较，这里我们采用Kwan和Chan（2018）研究中所用的数据（下载地址：htp://dx.doi.org/10.1037/met0000160.supp）。其数据来源于2012年OECD (Organization for Economic Cooperation and Development)组织的PISA测试（the Programfor Intermational Student Assessment,PISA)，具体介绍见Kwan和Chan (2018)研究中的介绍。该数据样本量为3047，分析的变量包括：因变量数学学业成绩(MATH)，自变量数学自我效能(MEFF)，调节变量社会经济地位(ESCS)以及中介的调节变量家庭教育资源(HRES)。模型假设：ESCS可以调节MEFF与MATH之间的关系，ESCS较低的学生，MEFF对MATH的影响较强，而ESCS较高的学生，MEFF对MATH的影响较弱；进一步，ESCS对MEFF与MATH之间关系的调节作用被HRES所中介，ESCS高的学生拥有较多的HRES，所以MEFF对MATH的影响较弱。对应的概念模型见图4，分析的模型包括传统meMO模型和2meMO模型，分析过程中对MEFF、ESCS和HRES做均值中心化处理。为了帮助应用者理解和便于应用者使用分析程序，我们在附录中给出了默认先验设置时Mplus8.3的语句(附录1)。需要再次强调的是这里的数据是单层次结构，在Mplus中我们借助于多层模型采用贝叶斯估计方法实现2meMO的参数估计，一个个体就是一个cluster。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/c95f8545ee96f5c0187031559a1420bdb5d87e0d653d49bd895e880a2a5b29c9.jpg",
+        "img_caption": [
+            "图4家庭教育资源对社会经济地位与数学自我效能与数学成绩之间中介调节效应模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "5.2分析结果",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "对于meMO模型和2meMO模型，在默认先验设置条件下模型中所有参数对应的PSR统计量均介于1.00到1.02之间，进一步检查3条不同链的轨迹图发现不同链条收敛到同样的后验分布。表6给出了两个模型的参数估计结果、中介的调节效应估计值和本研究提出的效应量指标。2meMO模型对应的DIC（Deviance Information Criteria）为78000.4，meMO模型对应的DIC为78069.2，两个模型对应的DIC的差异 $\\Delta \\mathrm { D I C } { = } 6 8 . 8$ ，2meMO模型的DIC较小，根据Cain和Zhang(2019)所建议的△DIC>7的模型比较标准，2meMO模型的拟合优于meMO模型。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "从表5的结果可以看出，两个模型得到的参数估计结果在大多数参数上相差不大。meMO和2meM0估计得到的有中介调节效应的后验均值分别为-2.019和-2.165，对应的 $9 5 \\% \\mathrm { C I }$ 分别为(-3.439,-0.614)和(-3.757,-0.673)，CI不包含0，说明有中介的调节效应显著。2meMO模型结果表明，第一层数学自我效能对数学成绩影响的总变异的后验均值 $\\widehat { \\mathrm { v a r } } ( c _ { i } ) = 4 8 4 . 2 3 9$ ， $9 5 \\%$ 的CI为(229.158,737.546)；数学自我效能对数学成绩影响的变异中可以被调节变量社会经济地位和中介的调节变量家庭教育资源联合解释部分 $( \\gamma _ { c 2 } + \\gamma _ { c 1 } \\gamma _ { M 1 } ) ^ { 2 } V a r ( Z _ { i } ) + \\gamma _ { c 1 } ^ { 2 } \\sigma _ { e M } ^ { 2 }$ 的后验均值为46.643， $9 5 \\%$ 的CI为(13.412,83.211)。由贝叶斯估计得到的效应量 $\\hat { \\phi } _ { M O \\_ t o t }$ ， $\\hat { \\phi } _ { M O \\_ d i r }$ 和$\\hat { \\phi } _ { m e M O }$ 的后验均值分别为0.059,0.025和0.010， $9 5 \\%$ CI分别为(0.007,0.122)，(0.000,0.068)和(0.000,0.023)，说明在数学成绩对数学自我效能影响的总变异中，社会经济地位调节效应的",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "总解释率的后验均值为 $5 . 9 \\%$ ，社会经济地位直接调节效应的解释率的后验均值为 $2 . 5 \\%$ ，间接调节效应（即有中介的调节效应）的解释率的后验均值为 $1 . 0 \\%$ 。分母上去掉误差 $u _ { c i }$ 的方差后，得到效应量 $\\hat { \\phi } _ { M O \\_ t o t } ^ { ( f ) }$ ， $\\hat { \\phi } _ { M O \\_ d i r } ^ { ( f ) }$ 愛和機 $\\hat { \\phi } _ { m e M O } ^ { ( f ) }$ 的后验均值的估计值分别为0.637，和.6，$9 5 \\%$ CI分别为(0.296,1.000)，(0.000,0.667)和(0.000,0.206)，说明在不考虑数学自我效能 $$ 数学学业成绩影响系数的随机误差 $( u _ { c i } )$ 时，在社会经济地位和家庭教育资源联合解释的数学自我效能对数学成绩影响的变异中，社会经济地位总解释率的后验均值为 $6 3 . 7 \\%$ ，社会经济地位直接调节效应的解释率的后验均值为 $2 7 . 5 \\%$ ，间接调节效应的解释率的后验均值为$10 . 6 \\%$ 。本例中， $\\hat { \\phi } _ { m e M O }$ 与寶 $\\hat { \\phi } _ { m e M O } ^ { ( f ) }$ 在数值上差异较大，其主要原因是因为所用分母的差异，也从另一角度说明了2meMO模型中考虑 $X  Y$ 随机误差的意义。",
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/ba74ba0f3790db4d071cb1cb77009e7b7b7710d7eb443b2a02d2732a0035dac4.jpg",
+        "table_caption": [
+            "表5meMO和2meMO模型参数估计结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">统计量</td><td colspan=\"2\">meMO</td><td colspan=\"2\">2meMO</td></tr><tr><td>后验均值</td><td>后验标准差</td><td>后验均值</td><td>后验标准差</td></tr><tr><td>路径系数</td><td></td><td></td><td></td><td></td></tr><tr><td>ESCS→HRES (γm1)</td><td>0.484***</td><td>0.011</td><td>0.484***</td><td>0.011</td></tr><tr><td>MEFF→MATH(𝑌co)</td><td>46.438***</td><td>1.385</td><td>48.436***</td><td>1.571</td></tr><tr><td>ESCS→MATH (Ya2)</td><td>14.621***</td><td>1.687</td><td>14.368***</td><td>1.676</td></tr><tr><td>HRES→MATH (Yd1)</td><td>3.492*</td><td>1.672</td><td>3.418*</td><td>1.644</td></tr><tr><td>ESCS×MEFF→MATH(γc2)</td><td>-2.911*</td><td>1.501</td><td>-3.284*</td><td>1.640</td></tr><tr><td>HRES×MEFF→MATH(1)</td><td>-4.171**</td><td>1.478</td><td>-4.471**</td><td>1.631</td></tr><tr><td>ESCS×MEFF→HRES×MEFF (Ym1)</td><td>0.484***</td><td>0.011</td><td>0.484***</td><td>0.011</td></tr><tr><td>残差方差 M</td><td>6197.923</td><td>160.921</td><td>5668.715</td><td>189.195</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.749</td><td>0.019</td><td>0.749</td><td>0.019</td></tr><tr><td></td><td></td><td></td><td>484.239</td><td>130.388</td></tr><tr><td>有中介调节meMO</td><td></td><td></td><td></td><td></td></tr><tr><td>YM1Yc1</td><td>-2.019</td><td>0.718</td><td>-2.165</td><td>0.791</td></tr><tr><td>效应量 mo_tot</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>0.059</td><td>0.032</td></tr><tr><td>mo_dir</td><td></td><td></td><td>0.025</td><td>0.022</td></tr><tr><td>memo</td><td></td><td></td><td>0.010</td><td>0.007</td></tr><tr><td>Otot</td><td>0.623</td><td>0.193</td><td>0.637</td><td>0.192</td></tr></table></body></html>",
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/cbe54404424cb9da093ae47cddd4e1ef9d8037680debde530df13a47a2fb5b49.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Moair</td><td>0.261</td><td>0.203</td><td>0.275</td><td>0.206</td></tr><tr><td></td><td>0.110</td><td>0.057</td><td>0.106</td><td>0.056</td></tr></table></body></html>",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "本例中，通过模型拟合的比较我们倾向于采用2meMO，研究者可以基于感兴趣的研究问题，在公式（10）-（15）所定义的6种不同的效应量中选择合适的效应量，解释调节变量对 $X \\to Y$ 之间关系变异的解释。但如果实际中，我们倾向于选择meMO模型，则根据感兴趣的研究问题，在公式（13）－（15）中选择合适的效应量。另外，虽然从概念模型到统计模型的转换过程中，我们强调模型中隐含了的对 $Y  X M$ 和 $X Z \\to X M$ 两条路径系数的限定，但在实际中，这两个限定条件对于参数估计结果的影响很小，甚至可以忽略。因此，为了简化操作，正如Kwan和Chan(2018)指出的实际中也可以忽略这两个限定。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "6讨论与建议",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "本文基于单层的数据拓展了meMO 模型，采用两层模型的框架定义了可处理误差方差非齐性的2meMO 模型，基于此模型将 $X$ 对Y影响系数变异的来源进行分解，并由此定义了可以测量总调节效应、直接调节效应和有中介的调节效应大小的效应量指标。进一步将贝叶斯方法用于2meMO模型的参数估计，并通过Monte Carlo模拟研究考查了参数估计的精度，并与传统的meMO 模型进行了比较，验证了2meMO模型在处理方差非齐性条件下的优势。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "根据模拟研究的结果，在方差满足齐性的假设时，meMO和2meMO 得到的结果几乎没有差异，也就是说即便在传统meMO的假设下，2meMO也能得到无偏的精度较高的估计结果。但是在方差齐性的条件不满足时，2meMO得到的参数估计结果在 $9 5 \\%$ 可信区间覆盖率和控制第一类错误上的表现优于meMO 模型，这一结果与方差非齐性的潜变量交互作用模型(Liu et al.,2019)和观测变量的调节效应回归分析模型得到的结果一致(Yang& Yuan,2016)。2meMO 模型的拓展为调节效应模型中常见的方差齐性假设条件的违背(Aguinis& Pierce,1998；Alexander& DeShon,1994)提供了解决思路。基于贝叶斯估计方法的可实现性以及模拟研究的结果，我们推荐研究者使用2meMO 模型处理方差非齐性的情况，在研究中报告与感兴趣的研究问题相对应的效应量指标。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "在有中介的调节效应的分析中，本文提出的2meMO 模型和对应的效应量指标有以下几方面的优点：（1）采用两层模型定义meMO 统计模型的方式，在概念模型的理解和效应量的定义上为如何区分变量的角色提供了更为一般化的框架。可以将模型关注的自变量和因变量关系的变化，定义为层1的模型，然后根据调节变量的定义，在层2模型中解释调节变量对因变量和自变量之间关系的影响，以及调节变量和中介的调节变量之间的关系。这样分层次的模型表达，合理且有效地区分了自变量、因变量、调节变量和中介的调节变量的不同角色。（2）文中提出的效应量指标是基于自变量和因变量之间总变异（即 $\\mathrm { v a r } ( c _ { i } )$ ）的分解所得到的，这就为紧密围绕“ $X$ 与Y之间关系的调节”这一关键问题，定义合适的效应量提供了基础，基于此所定义的效应量是围绕meMO 分析所感兴趣的问题提出的，更具可解释性，同时也更符合效应量概念的核心内涵(e.g.,Kelley& Preacher,2012)。（3）基于 2meMO 提出的效应量指标，不仅适用于方差齐性而且适用于方差非齐性的条件，有更广的适用范围。研究者在使用过程中不用担心由于实际数据不满足方差齐性而带来的估计偏差，检验力降低等问题。（4）2meMO 模型的参数估计很容易在Gibbs取样的框架下，借用已有的免费贝叶斯估计程序实现。如 2meMO 的参数估计很容易通过常用的 JAGS (Plummer,2015)、WinBugs(Lunn et al.,2012)和 Mplus 等软件实现。（5）更重要的是，本文所提出的有中介的调节模型的效应量指标可满足应用研究者报告效应量的需求，弥补了目前尚没有合适的测量 meMO影响的效应量指标的局限。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "另外，本研究定义模型的方法和效应量的思路具有拓展性。本文提出的定义2meMO模型的思路，可以在概念上为如何有效区分meMO和moME两类模型提供一些借鉴。从概念模型来看，2meMO模型和moME-II强调的重点不同，两者并不等价，2meMO模型是为了解释调节效应是如何通过中介的调节变量发挥作用的；而moME-II是为了解释中介效应是如何依赖于调节变量取值的。然而，传统的方差齐性假设下由于两者对应的统计模型相同，在结果解释上很难有效帮助应用研究者区分两类模型的本质区别。在两层建模的框架下，对于moME模型可以借鉴本文的建模思路，在层1定义与中介效应有关的路径（a和b），而在层2解释中介路径中某个阶段的效应被调节。例如，含有第二阶段被调节的中介模型可以定义为：层1:",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { i } = a _ { i } X _ { i } + e _ { M i }\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { i } = d _ { i } + b _ { i } M _ { i } + c _ { i } X _ { i } + \\varepsilon _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "层2: ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { a _ { i } = \\gamma _ { a 0 } } \\\\ { \\ } \\\\ { d _ { i } = \\gamma _ { d 0 } + \\gamma _ { d 1 } Z _ { i } + u _ { d i } } \\\\ { b _ { i } = \\gamma _ { b 0 } + \\gamma _ { b 1 } Z _ { i } + u _ { b i } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc _ { i } = \\gamma _ { c 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "上述模型合并后的表达式中包含 $M _ { i } u _ { b i }$ 这一项，而2meMO模型中包含的是 $X _ { i } u _ { c i }$ ，这样统计模型的定义上可将两者加以区分。即便上述模型中不包含随机误差项 $u _ { b i }$ ，这一两层模型建构的思路也有利于研究者区分两类模型解释上的区别。未来研究中可以借鉴本文定义效应量的思路，基于被调节的中介所关注的问题发展合适的效应量指标，以解决有中介的调节模型与第二阶段被调节的中介模型经常出现的结果解释上被混淆的问题。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Lachowicz,Preacher和Kelley(2018）讨论了合理的效应量指标应该满足的特性(Kelley&Preacher,2012;Preacher& Kelley,2011;Wen&Fan,2015)。本研究所定义的效应量指标具有以下特性。（1）效应量的定义与meMO的概念模型匹配，在变异分解的框架下，效应量具有可解释的尺度，可以回答有中介调节对总调节变异方差的贡献率。（2）效应量指标不依赖于样本量，且基于贝叶斯估计的后验分布可得到效应量的可信区间（CI）。（3） $\\phi _ { M O \\_ t o t } ^ { ( f ) }$ 和ä$\\phi _ { M O \\_ t o t }$ 的取值介于0和1之间。大多数情况下， $\\phi _ { M O \\_ d i r } ^ { ( f ) }$ ， $\\phi _ { m e M O } ^ { ( f ) }$ ， $\\phi _ { M O \\_ d i r }$ 和樂 $\\phi _ { m e M O }$ 的取值也介于0和1之间；但在实际应用中，可能会出现这四个效应量的数值大于1(Lutz,1983;Maassen& Bakker,2001;Tzelgov&Henik,1991)，此时说明Z对 $X {  } \\dot$ Y的直接调节（ $\\cdot \\gamma _ { c 2 }$ ）和通过M对 $X$ →Y的间接调节 $( \\gamma _ { c 1 } \\gamma _ { M 1 }$ ）方向相反，出现了变量之间的抑制效应（suppression effect)。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "虽然所提出来的效应量具有很多优点，但在应用时也应关注其局限性。首先，类似于方差分析中的偏 $\\eta ^ { 2 }$ ， $\\mathrm { v a r } ( c _ { i } )$ 是定义效应量的基础（分母），即效应量的解释都是以var(ci)作为比较基准的，因此这些效应量本质上是一个相对的效应量指标。因此，在实际应用中，在报告效应量的时候应同时报告分母的大小，以避免过度夸大meMO效应，同时也有助于了解在X对Y的影响中，var(ci)的大小是否有实际的意义。研究者应该在关注var(ci)本身大小的前提下，进一步解释meMO效应的大小。另外，我们建议在报告效应量的时候，同时报告本研究提出的多个效应量指标，为全面了解变量的影响关系和强度提供更多的补充信息。同时，应该注意基于变异分解所定义的直接调节效应和间接调解效应的效应量指标不具有可加性。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "大量的研究证明不同先验分布会影响参数估计的精度(Yuan&MacKinnon,2009)，因此，实际中如何选择合适的先验分布是研究者应该注意的问题。本研究选取了最常用也是研究者广泛推荐的无信息先验(Browne＆Draper,2006)，结果证明即使是无信息的先验也能够得到准确的参数估计结果，但是这一结论在实际应用中并不一定具有普适性。已有研究表明合适的有信息先验可以使得参数估计精度更高，Zondervan-Zwijnenburg等人(2017）提供了如何收集先验信息的指导。如果研究者可以得到合适的有信息的先验，我们也鼓励采用有信息的先验以提高参数估计的精度。然而，为了避免由于特定先验设置带来的主观性，应当考虑采用敏感性分析进一步确认贝叶斯估计结果并不严重依赖于某个特定的先验分布(van de Schootet al., 2017; Zondervan-Zwijnenburg et al., 2017)。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "本研究只考虑了含有一个调节变量Z和一个中介的调节变量 $M$ 的情况，对于方差非齐性也只考虑了结果变量Y的方差非齐性，未来研究中可以考虑更为复杂的meMO 模型和更复杂的方差非齐性的情况。另外，对于本研究提出的效应量指标，如何结合效应量的特点，给出效应量“小”、“中”、“大”的判断标准，也是未来值得进一步研究的问题。最后，模型中被忽略的变量、变量的测量误差和其他影响回归系数估计精度的因素也会对效应量的估计精度产生影响，未来研究需要对这些影响因素进行更为系统和深入的探讨。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Aguinis,H.,&Pierce, C.A. (1998). Heterogeneityof error variance and the assessment of moderating effects of categorical variables: A conceptual review. Organizational Research Methods,1(3),296-314.   \nAiken,L.S.,West,S.G.,&Reno,R.R. (1991). Multiple regression: Testing and interpreting interactions.London, UK: SAGE Publications.   \nAlexander,R.A.,& DeShon,R.P. (1994).Effect of error variance heterogeneity on the power oftests forregression slope differences.Psychological Bulletin,115(2),308-314.   \nAmerican Education Research Association. (2oo6). Standards for reporting on empirical social science research in AERA publications.Educational Researcher,35(6),33-40.   \nAsparouhov,T.,& Muthén,B.(2O20).Bayesian estimation of single and multilevel models with latent variable interactions.Structural Equation Modeling:AMultidisciplinary Journal,1-15.   \nBaron,R.M.,& Kenny,D.A. (1986).The moderator-mediator variable distinction in social psychologicalresearch: Conceptual,strategic,and statistical considerations.Journal of Personality and Social Psychology,51(6), 1173-1182.   \nBrooks,S.P.,& Gelman,A.(1998). General methods for monitoring convergence of iterative simulations.Journal ofComputational and Graphical Statistics,7(4),434-455.   \nBrowne,W.J.,& Draper,D.(2oo6).Acomparison of Bayesianand likelihood-based methods for fiting multilevel models. Bayesian Analysis,1, 473-514.   \nCain,M. K.,& Zhang,Z. (2O19).Fit for a Bayesian: An evaluation of PPP and DIC for structural equation modeling. Structural Equation Modeling: A Multidisciplinary Journal,26(1),39-50.   \nCumming,G. (2014). The new statistics: Why and how. Psychological Science,25(1),7-29.   \nDeShon, R.P.,& Alexander, R.A. (1996). Alternative procedures for testing regression slope homogeneity when group error variances are unequal. Psychological Methods,1(3),261.   \nEdwards, J. R.,& Lambert,L. S. (2Oo7). Methods for integrating moderation and mediation: A general analytical framework using moderated path analysis.Psychological Methods,12(1),1-22.   \nFunder,D.,Levine,J.,Mackie,D.,Morf,C.,Sansone,C., West,S.,& Vazire,S. (2013).Task force on publication and research practices. Retrieved from htp://ww.spsp.org   \nGelman,A., Carlin,J.B.,Stern,H.S.,&Rubin,D.B. (2004).Bayesian data analysis (2nd ed.).Boca Raton,FL, USA: Chapman & Hall/CRC.   \nGilks, W.R., Richardson, S.,& Spiegelhalter,D.J. (1996). Introducing Markov chain Monte Carlo.In Gilks, W.R., Richardson, S.,& Spiegelhalter, D.J. (Eds.), Markov chain Monte Carlo in practice (pp.1-20). London, UK: Chapman & Hall.   \nGonzalez-Mule,E., Courtright, S.H., DeGeest,D.,Seong,J.-Y.,& Hong,D.-S.(2016). Channeled autonomy: The joint effects of autonomy and feedback on team performance through organizational goal clarity. Journal of Management, 42,2018 -2033.   \nGrant,A.M.,& Berry,J.W. (2Ol1).The necesity of others is the mother of invention: Intrinsic and prosocial motivations, perspective taking,and creativity. Academy of management journal, 54(1),73-96.   \nHayes，A.F.(2O18). Partial， conditional,and moderated mediation: Quantification， inference，and interpretation. Communication Monographs,85(1), 4-40.   \nHayes,A.F.,& Preacher,K.J. (2013). Conditionalprocess modeling: Using structural equation modeling to examine contingent causal processes. In G.R. Hancock & R. O. Mueller (Eds.), Quantitative methods in education and the behavioral sciences: Issues,research, and teaching. Structural equation modeling: A second course (pp. 219-266). IAP Information Age Publishing.   \nKelley,K.,& Preacher,K.J. (2012). On efect size. Psychological Methods,17(2),137-152.   \nKwan, J.L.Y.& Chan, W. (2018).Variable system: Analternative approach for the analysis ofmediated moderation. Psychological Methods, 23(2),262-277.   \nLachowicz,M.J.，Preacher，K.J.,& Kelley，K.(2018).A novel measure of effect size for mediation analysis.Psychological Methods,23(2),244-261.   \nLiang,S.G.,& Chi, S.C. S. (2O13). Transformational leadership and follower task performance: The role of susceptibility to positive emotions and follower positive emotions. Journal of Business and Psychology，28, 17-29.   \nLiu, D.,Zhang,Z.,& Wang,M. (2O12). Mono-level and multilevel mediated moderation and moderated mediation: Theorizing and test. In X. Chen,A. Tsui, &L.Farh (Eds.), Empirical methods in organization and management research [in Chinese](2nd ed., pp.545-579). Beijing, China: Peking University Press.   \nLiu.,H.Y., Yuan,K-H,& Liu,F. (2O19).A two-level moderated latent variable model with single-level data, Multivariate Behavioral Research. Advance online publication. https://doi.0rg/10.1080/00273171.2019.1689350   \nLun,D.,Jackson, C.,Best,N.,Spiegelhalter,D.,&Thomas,A. (2Ol2).The BUGS book: Apractical introduction to Bayesian analysis. Boca Raton, FL, USA: Chapman and Hall/CRC.   \nLutz, J.G.(1983).Amethod for constructing data which ilustrate three types of suppressor variables.Educational and Psychological Measurement, 43,373-377.   \nMaassen, G. H.,& Bakker, A. B. (20o1). Suppresor variables in path models: definitions and interpretations. Sociological Methods & Research,30,241-270.   \nMuller，D.， Judd,C.M.，& Yzerbyt，V.Y. (2005).When moderation is mediated and mediation is moderated. Journal of Personality and Social Psychology, 89(6), 852-863.   \nMuthén,B.,& Asparouhov,T. (2Ol2). Bayesian structural equation modeling: A more flexible representation of substantive theory. Psychological Methods,17(3),313-335.   \nMuthen,L.K.,& Muthen,B.O.(2017).Mplus: statistical analysis with latent variables: User's guide (Version 8). Los Angeles, CA: Authors.   \nNg,J. C.K., Chan,W., Kwan,J.L. Y,& Chen, X. H. (2019). Unpacking structure-oriented cultural diferences through a mediated moderation model: A tutorial with an empirical illustration. Journal of Cross-Cultural Psychology, 50(3),358-380.   \nPark,R.,& Searcy,D. (2O12). Job autonomy as a predictor of mental well-being: The moderating role of quality competitive environment. Journal of Business and Psychology, 27,305-316.   \nPlummer, M. (2015). JAGS Version 4.0.0 User Manual. Retrieved from http://www.uvm.edu/\\~bbeckage/Teaching/PBIO_294/Manuals/manual.jags.pdf   \nPreacher,K.J.，& Kelley,K.(20l1).Effect size measures for mediation models: Quantitative strategies for communicating indirect effects. Psychological Methods,16(2), 93-115.   \nR Core Team. (2016). R: A language and environment for statistical computing. Vienna, Austria: R foundation for statistical computing. Retrieved from htps://www.r-project.org/   \nRozeboom, W.W. (1960).The fallacy of the null-hypothesis significance test.Psychological Buletin,57(5),416 428.   \nSong，X.Y.，& Lee,S.Y. (2O12). A tutorial on the Bayesian approach for analyzing structural equation models. Journal of Mathematical Psychology,56(3),135-148.   \nTang,C. (2016). Accessed external knowledge,centrality of intra-team knowledge networks,and R&D employee creativity. R & D Management, 46(Suppl. 3), 992-1005.   \nTang, C.,& Naumann,S.E.(2016). Team diversity, mood,and team creativity: The role of team knowledge sharing in Chinese R&D teams. Journal of Management & Organization, 22, 420-434.   \nTzelgov,J.,& Henik,A.(1991).Suppresson situations in psychological research: Defiitions,implications,and applications. Psychological Bulletin,109,524-536.   \nvan de Schoot,R., Winter,S.,Ryan,O., Zondervan-Zwijnenburg,M.,& Depaoli,S.(2017). Asystematic reviewof Bayesian papers in psychology: The last 25 years.Psychological Methods,22(2),217-239.   \nWang,L.,& Preacher, K. J. (2O15). Moderated mediation analysis using Bayesian methods.Structural Equation Modeling:A Multidisciplinary Journal,22(2),249-263.   \nWang,L., Zhang,L.,& Chang, S.(2019).The relationship between maternal rejectionand peer rejection: Amediated moderation model. Journal of Psychological Science, 42(6),1347-1353.   \n[王玲晓，张丽娅，常淑敏.(2019).儿童母亲拒绝与同伴拒绝的关系—一个有中介的调节模型．心理科学， 42(6）,1347-1353.]   \nWen, Z.,& Fan, X. (2015). Monotonicity of effect sizes: Questioning kappa-squared as mediation effect size measure.Psychological Methods,20(2),193-203.   \nWen, Z., Marsh, H. W.,& Hau, K. T. (2010). Structural equation models of latent interactions: An appropriate standardized solution and its scale-free properties. Structural Equation Modeling,17(1),1-22.   \nWilkinson,L.,& Task Force on Statistical Inference, American Psychological Association, Science Directorate. (1999). Statistical methods in psychology journals: Guidelines and explanations. American Psychologist, 54(8), 594-604.   \nYang, W., Mu,J.,Li,B.,& Wang, J. (2019). Relationship between proactive personality and employeebehaviors: The role of proactive socialization behavior and political skil. Journal of Psychological Science, 42(6),1488- 1454.   \n[杨文圣，牟家增，李博文，王佳颖.(2019).主动性人格与员工行为的关系：政治技能视角下有中介的调节 模型．心理科学,42(6),1488-1454.]   \nYang，M.，& Yuan，K-H. (2016).Robust methods for moderation analysis with a two-level regression model. Multivariate Behavioral Research, 51(6),757-771.   \nYang,Y., Chen,L., ChenG.,& Zhang,W. (2O2O).Peer rejection,friendship support and adolescent depressive symptoms: A mediated moderation model. Chinese Journal of Clinical Psychology,28(2),348-353.   \n[杨逸群，陈亮，陈光辉，张文新.(2020).同伴拒绝、友谊支持对青少年抑郁的影响：有中介的调节模型．中 国临床心理学杂志,28(2),348-353.]   \nYe, B.,& Wen, Z. (2013). A Discussion on Testing Methods for Mediated Moderation Models: Discrimination and Integration.Acta Psychological Sinica, 45(9),1050-1060.   \n[叶宝娟，温忠麟.(2013).有中介的调节模型检验方法：甄别和整合．心理学报,45(9),1050-1060.]   \nYuan，K-H.，Cheng，Y.，& Maxwell， S. (2014).Moderation analysis using a two-level regression model. Psychometrika, 79(4),701-732.   \nYuan,Y.,& MacKinnon, D.P. (2009). Bayesian mediation analysis.Psychological Methods,14(4),301-322.   \nZacher,H.,Jimmieson,N.L.,& Winter,G. (2O12).Eldercare demands,mental health,and work performance: The moderating role of satisfaction with eldercare tasks. Journal of Occupational Health Psychology,17,52-64.   \nZondervan-Zwijnenburg,M.,Peters,M.,Depaoli,S.,& van de Schoot,R. (2017). Where do priors come from? Applying guidelines to construct informative priors in smallsample research. Research in Human Development, 14(4),305-320. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "附录1：meM0和2meM0模型贝叶斯估计的Mplus语句",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "1. meMO模型",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "TITLE:mediated moderation model   \nDATA: FILE $\\ O =$ memo.csv;   \nVARIABLE: NAMES ARE IDMATHESCS HRES MEFF CESCS CHRES CMEFF XCESCS XCHRES   \n!CESCSCHRESCMEFF 为均值中心化的变量;   \n！XCESCS $\\ c =$ CMEFF\\*CESCS，XCHRES $\\ c =$ CMEFF\\*CHRES;   \nUSEVARIABLES $\\ O =$ MATHCESCSCHRESCMEFFXCESCSXCHRES;   \nANALYSIS:ESTIMATORISBAYES；POINT $\\ c =$ MEAN;CHAINS $^ { = 3 }$ ; PROCESSORS $^ { = 3 }$ $\\mathrm { T H I N } = 1 0$ ；BITERATIONS=(10000); BCONVERGENCE $= 0 . 0 2 5$ ·，   \nMODEL: MATH ON CMEFF (rc0); MATH ON CHRES (rdy1); MATH ON CESCS (rdy2); CHRES ON CESCS (rml); MATH ON XCHRES (rc1); MATH ON XCESCS (rc2); XCHRES ON CMEFF (rm0); XCHRES ON XCESCS (rm1); [CHRES MATH] $\\left( \\mathrm { r m } 0 \\mathrm { r y } 0 \\right)$ ） CHRES MATH (sig_em, sig_ey); CMEFFWITHCESCS; CMEFF WITHXCESCS; CESCS WITH XCESCS;   \nMODEL CONSTRAINT:   \nNEW(var_zv1 v2 v3 v5 phi_fl phi_f2 phi_f3);   \nvar_ $\\scriptstyle z = 0 . 9 3 5$ ；！ $z$ 的方差;   \n$\\mathrm { v } 1 = ( \\mathrm { r c } 2 \\mathrm { + r c } 1 ^ { \\ast } \\mathrm { r m } 1 ) ^ { \\ast } ( \\mathrm { r c } 2 \\mathrm { + r c } 1 ^ { \\ast } \\mathrm { r m } 1 ) ^ { \\ast } \\mathrm { v a r \\_ z } ;$   \n$\\mathrm { v } 2 = \\mathrm { r c } 2 ^ { \\ast } \\mathrm { r c } 2 ^ { \\ast } \\mathrm { v a r \\ \\_ } \\mathrm { z } ;$ （204号   \n$\\mathrm { v } 3 = \\mathrm { r c } 1 ^ { \\ast } \\mathrm { r m } 1 ^ { \\ast } \\mathrm { r c } 1 ^ { \\ast } \\mathrm { r m } 1 ^ { \\ast } \\mathrm { v a r } \\_ \\mathrm { Z } ;$ （204号   \nv5 = v1+rc1\\*rc1\\*sig_em;   \nphi_f $\\mathrm { \\dot { \\hat { \\mathbf { \\Lambda } } } } _ { 1 } = \\mathrm { \\mathbf { v } } 1 / \\mathrm { v } 5$ ，   \nphi_ ${ \\bf f } 2 = { \\bf v } 2 / { \\bf v } 5$   \nphi_ ${ \\mathrm { f } } 3 = { \\mathrm { v } } 3 / { \\mathrm { v } } 5$ ：，   \nMODEL CONSTRAINT: NEW(memo memol memo2 dif); memo $= \\mathrm { r c l } ^ { * } \\mathrm { r m l }$ · memo1 $\\ O =$ $\\mathrm { r c l ^ { * } r m l ^ { * } } 0 . 9 6 7$ · （204 $! z$ 的标准差为0.967; memo2 $= { \\mathrm { r c } } 1 ^ { * } { \\mathrm { r m } } 1 ^ { * } ( - 0 . 9 6 7 ) ;$ dif $\\ c =$ memol-memo2; PLOT: $\\mathrm { T Y P E } = \\mathrm { P L O T } 2$ OUTPUT: CINTERVAL(hpd) TECH8; ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "2. 2meMO 模型的Mplus 语句 ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "TITLE: two-level mediated moderation model with single-level data (2moME)   \nDATA: FILE $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ memo.csv;   \nVARIABLE: NAMES ARE ID MATH ESCS HRES MEFF CESCS CHRES CMEFF XCESCS XCHRES;   \nUSEVARIABLES $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ MATH CESCS CHRES CMEFF XCESCS XCHRES;   \nCLUSTER ${ \\bf \\mu } = { \\bf I D } { \\bf \\Lambda }$ ；！对于单层数据每一个组只有一名被试   \nWITHIN $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ MATHCESCSCHRESCMEFFXCESCSXCHRES；!单层数据中指定所有变量为组内变量   \nANALYSIS:TYPEISTWOLEVELRANDOM; ESTIMATOR IS BAYES; POINT $\\risingdotseq$ MEAN; CHAINS $^ { = 3 }$ · PROCESSORS $^ { = 3 }$ $\\mathrm { T H I N } = 1 0$ BITERATIONS $\\ c =$ (10000); BCONVERGENCE $= 0 . 0 2 5$ · ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "MODEL: %WITHIN% c |MATH ON CMEFF; MATH ON CHRES (rdy1); MATH ON CESCS (rdy2); CHRES ON CESCS (rm1); MATH ON XCHRES (rc1); MATH ON XCESCS (rc2); XCHRES ON CMEFF (rm0); XCHRES ON XCESCS (rm1); [CHRES] (rm0); [MATH] (ry0); CHRES (sig_em); MATH; CMEFFWITHCESCS; CMEFFWITHXCESCS; CESCSWITHXCESCS; ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "%BETWEEN% ",
+        "text_level": 1,
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "[c] (rc0);   \nc (sig2_uc); MODELCONSTRAINT:   \nNEW(var_zv1v2 v3v4v5 phi_1 phi_2 phi_3 phi_f1 phi_f2 phi_f3); var $\\mathbf { \\Lambda } _ { - } z = 0 . 9 3 5$ ； ！ the variance of $\\textbf { z }$   \n$\\mathrm { v } 1 = ( \\mathrm { r c } 2 \\mathrm { + r c } 1 ^ { \\ast } \\mathrm { r m } 1 ) ^ { \\ast } ( \\mathrm { r c } 2 \\mathrm { + r c } 1 ^ { \\ast } \\mathrm { r m } 1 ) ^ { \\ast } \\mathrm { v a r \\_ z } ;$ （204号   \nv2 = rc2\\*rc2\\*var_z;   \nv3 = rc1\\*rm1\\*rc1\\*rm1\\*var_z;   \nv4=v1+rc1\\*rc1\\*sig_em+sig2_uc; v5 = v1+rc1\\*rc1\\*sig_em; pl $\\mathrm { i i } \\_ { 1 } = \\mathrm { v } 1 / \\mathrm { v } 4$   \nphi $\\scriptstyle 2 = \\mathrm { v } 2 / \\mathrm { v } 4$   \nphi $\\scriptstyle 3 = { \\mathrm { v } } 3 / { \\mathrm { v } } 4$   \nphi $\\_ { \\mathrm { f 1 } } = \\mathrm { v } 1 / \\mathrm { v } 5$   \nphi ${ \\mathrm { ~ \\underline { { ~ } } f 2 ~ } } = \\mathrm { v } 2 / \\mathrm { v } 5$   \nphi_ $\\mathrm { f } 3 = \\mathrm { v } 3 / \\mathrm { v } 5$   \nMODELCONSTRAINT: NEW(memo memol memo2 dif); memo $\\ u = \\mathrm { r c l } ^ { * } \\mathrm { r m } 1$ · memol $\\mathrm { \\Omega } = \\mathrm { r c } 1 { } ^ { * } \\mathrm { r m } 1 { } ^ { * } 0 . 9 6 7$ （20 ${ \\mathrm { m e m o 2 } } = { \\mathrm { r c 1 } } ^ { * } { \\mathrm { r m 1 } } ^ { * } ( - 0 . 9 6 7 ) ;$ dif $\\mathbf { \\tau } = \\mathbf { \\tau }$ memol-memo2;   \nPLOT: TYPE $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ PLOT2;   \nOUTPUT: CINTERVAL(hpd); TECH8; ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Two-level Mediated Moderation Models with Single Level Data ",
+        "text_level": 1,
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "and New Measures ofEffect Sizes ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "LIUHongyun1,2; YUAN Ke-Hai $^ { 3 , 4 }$ ; GAN Kaiyul ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "(Faculty ofPsychology,Beijing Normal University,Beijing loo875,China, ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "(BeijingKeyboratoyofppledExperimentalshologyFacultyfyholgeingNalUnivesitye, ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "China) ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "(School ofScienceofNanjing UniversityofPosts and Telecommunications,Nanjing,2loo23,China) ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "(4DepartmentofPsychology,UniversityofNotreDame,IN46556,USA) ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Mediation and moderation analyses are commonly used methods for studying the relationship between an independent variable $( X )$ and a dependent variable $( Y )$ in conducting empirical research. To better understand the relationships among variables,there is an increasing demand for a more general theoretical framework that combines moderation and mediation analyses. Recently, statistical analysis of mediated moderation (meMO) effects has become a powerful tool for scientists to investigate complex processes.However, the traditional meMO model is formulated based on the homoscedasticity assumption, which is most likely to be violated when moderation effects exist. In addition,routinely reporting effect sizes has been recommended as the primary solution to the issue of overemphasis on significance testing. Appropriate effect sizes (ES) for measuring meMO effects are very important in reporting and interpreting inferential results. However, there does not exist an effective measure that allows us to answer the question regarding the extent to which a variable $Z$ moderates the effect of $X$ on $Y$ via the mediator variable $( M )$ in the meMO model. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "The article is organized as follows.First, the two-level moderated regression model proposed by Yuan, Cheng,& Maxwel (2014) was extended to a two-level mediated moderation (2meMO) model with single-level data, the statistical path diagram was structured according to the conceptual model and the equations. Second, several effect sizes were developed for the 2meMO effect by decomposing the total variance of the moderation effect. Third, to estimate the parameters of the 2meMO model and the ES measures of the meMO effects, we developed a Bayesian estimation method to estimate the parameters of the 2meMO model. Fourth,a Monte Carlo simulation study was conducted to evaluate the performance of the 2meMO model and the proposed ES measures against those with the meMO model. Finally, we illustrate the application of the new model and measures with a real data example. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "The simulation results indicate that the size ofbias and MSE for parameter estimates are small under both meMO and 2meMO models whether the homoscedasticity assumption hold or not. The results of the coverage rate of the $9 5 \\%$ CI for $d i f _ { m o M E }$ following 2meMO is comparable to those following meMO when the variance of moderation error is zero, which is the assumption the meMO model is based. However, when the moderation-error variance is nonzero, 2meMO yields more accurate estimates for $d i f _ { m e M O }$ than meMO does, the advantages of 2meMO over meMO become more obvious as the moderation-error variance increases. The results of Type I error rate indicate that 2meMO controls Type I error rather wel, and the rates are close to O.05 or below 0.05 under all the conditions.However, the Type Ierror rates of meMO tend to be higher than O.05 when the moderation-error variance is nonzero. The power rates following the meMO and 2meMO models are comparable for the medium or large sample size, or when there is a large difference in meMO effects. While the value of power following 2meMO is slightly lower than that following meMO at small sample size, this result is mostly due to the inflated Type I error rate of meMO,and larger sample sizes and the smaller moderation-error variances correspond to more accurate estimates of $\\phi _ { m e M o } ^ { ( f ) }$ s is satisfied,the effect size estimates following the two models are about the same.However, when the moderation-error variance is not zero,the results following 2meMO are more accurate than those following meMO. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "In summary,the article developed a 2meMO model with single-level data and proposed several measures to evaluate the size of the meMO effect explained by moderator variables in total,directly, or indirectly. The performance of the 2meMO model is compared against that of the traditional meMO model via Monte Carlo simulations. Results indicate that, when the assumption of homoscedasticity holds,2meMO yields comparable results with those under meMO.When the homoscedasticity assumption is violated, estimates under 2meMO are more accurate than those under meMO.More importantly, the measures of the size of the meMO effect proposed in this article can be used as a supplement to the test of meMO effects and will meet the needs for reporting ES in practice.Consequently, the 2meMO model is recommended for the analysis of mediated moderation,and the effect sizes (ESs) for the interpretation of the effect according to the questions of interest are better reported. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Key words mediated moderation; heteroscedasticity; effect size; Bayesian estimation ",
+        "page_idx": 29
+    }
+]

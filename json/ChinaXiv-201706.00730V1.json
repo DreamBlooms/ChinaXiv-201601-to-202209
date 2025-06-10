@@ -1,0 +1,248 @@
+[
+    {
+        "type": "text",
+        "text": "Experimental Study on the Condensation of a Thermosyphon by Electrical Capacitance Tomography ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HAN Zhenxing\\*, MU Huaiping, LEI Jing, ZHANG Jingyin, LI Zhihong, LIU Shi ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "School ofEnergy,Powerand Mechanical Enginering,North China Electric PowerUniversity,Changping District,Bei.jing 102206, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\circledcirc$ Science Press and Institute of Engineering Thermophysics, CAS and Springer-Verlag Berlin Heidelberg 2016 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The study on the condensation and the two-phase flow pattern in the condensation section is important to understand the operating mechanisms in a thermosyphon.In this paper,a new electric capacitance tomography (ECT) sensor was designed for the visualization measurement in a liquid by removing the shielding case and sealing with insulating hydrophobic material. It was successfully used to measure the condensation process in a thermosyphon under different operating temperatures.The thermosyphon was made of silica glas,and alcohol was used as a working fluid.The alcohol vapor was cooled to condense through the heat convection with the cooling water. The operating temperature was controlled by a heater with diferent power outputs.The experimental results show that the alcohol vapor condensed in stripes and unevenly on the wall surface at a low operating temperature.The liquid bridge will be formed periodically at the operating temperature of $9 0 ^ { \\circ } \\mathrm { C }$ ,and the time interval between two liquid bridges will be shorter with the increase of the operating temperature. At $1 1 7 ^ { \\circ } \\mathrm { C }$ or even higher operating temperatures,the complete liquid bridge cannot be formed sometimes due to the diffrence of the growth rate of the surface wave around the circumference. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Thermosyphon,Condensation,ECT,Visualization ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The thermosyphon has no wick structure compared with traditional heat pipes,and it absorbs and rejects heat circularly relying mainly on the gravity effect. The thermosyphon has the appealing properties,including simple structure,convenient manufacture,reliable operation, etc. As one kind of efficient heat exchange elements,it has been widely used in many fields,e.g.,refrigeration,chemical engineering,renewable energy development,comprehensive utilization of thermal energy，recycling of waste heat, and even for the temperature calibration [1-5]. As its important component, the condenser section will influence its performances. The physical process in the condenser section is a complex phenomenon involving vapor-liquid two phase flow,condensation and convection heat transfer simultaneously. Researches on the transformation of the liquid film and vapor-liquid distributions in the condensing section may be beneficial for understanding the operation characteristics of the thermosyphon and the optimization design of the geometrical structure. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Most of the experimental studies focus mainly on the influences of the heat transfer performances with different working fluids,body materials,geometric dimensions, etc.l6-9]. A number of thermocouples are usuallyfixed on the thermosyphon wall to measure the axial temperature distribution to calculate the relevant performance parameters.Few researchers pay attention to the condensation characteristics happened in the condenser section.Anjankar[o] et al.studied the effect on the thermal performance of different condenser length. The filling ratio and aspect ratio were $60 \\%$ and 11.53 respectively，and the distilled water was adopted as the working fluid. The result shows that the condenser section length should be 1.5 times to that of the evaporator length to get good thermal performance. Ong and Haider-E-Alahi [i1] investigated performance variation of a thermosyphon filled with $\\mathtt { R 1 3 4 a }$ due to the temperature difference between the bath and condenser section，fill ratio and coolant mass flow rate. They found that the heat flux transferred increased with increasing coolant mass flow rate, filling ratio,and temperature difference between bath and condenser section. Rahimi[12] et al. investigated the effect of the condenser and evaporator resurfacing on overall performances of the thermosyphon. They found that the thermal performances of the thermosyphon increases by $1 5 . 2 7 \\%$ and the thermal resistance decreased by 2.35 times compared with plane one. Wang and $\\mathbf { M } \\mathbf { a } ^ { [ 1 3 ] }$ studied condensation heat transfer inside vertical and inclined thermosyphons.The result shows that the inclination angle has a notable influence on the condensation coefficient,and the optimum inclination angle varies with the liquid filling from 20-50 degrees. Hussein[14] et al. developed Wang and Ma correlation for the laminar-film condensation heat transfer inside inclined wickless heat pipes flat-plate solar collector. They also found that the inclination angle has a significant effect on the condensation heat transfer. Some researchers discovered the condensation process in a thermosyphon in theory. Shiraish5] divided the whole thermosyphon into three parts, i.e.,the condenser section,the adiabatic section and the evaporator section. Nusselt theory was used to solve the laminar film condensation in the condenser section without considering the influence of the shear stress at the liquid-vapor interface and the sub-cooling of the liquid film. Bharathan[16] et al. gave the same conclusion at a low Reynolds liquid film.However, the shear stress at the liquid-vapor interface becomes progressively important at intermediate and high Reynolds numbers liquid film.EL-Genk[17] et al. developed a one-dimensional, steady-state analytical model to predict the counter current flow limit at the exit of the condenser and evaporator section which treated the shear stress at the liquid-vapor interface as the sum of adiabatic shear stress and dynamic shear stress. Seban and Faghri8l presented a one-dimensional model for laminar-wavy film condensation with laminar or turbulent vapor flow considering the effect of wave formation. $\\mathrm { P a n } ^ { [ 1 9 ] }$ developed a condensation model by considering the interfacial stress due to mass transfer and interfacial velocity.It was found that the condensationheat transferis greatlyaffectedbytherelative velocity ratio and the momentum transfer factor and the subflooding limit was proposed. Teng[20] adopted the Rayleigh method to analyze the stability of the condensation film in concurrent and counter flow,and the capillary block phenomenon in a small diameter thermosyphon Wasattributedto Rayleigh instabilitywhichcausedbreakupof the condensate filmandLaplace instability which induced breakup of condensate collars into liquid bridges. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In order to understand the thermosyphon works,some attempts were made to study its operation characteristics in a thermosyphon by the visualization method. Shirai$\\mathrm { s h i } ^ { [ 2 1 ] }$ et al. made the evaporator section and the adiabatic section with glass to observe the flow phenomena at in clined angles. Storch[22] et al. developed a special pressure lock system for the head of the thermosyphon.A miniature camera can enter into the thermosyphon for the visual observations to study the starting process of the wetted areas and the liquid pool. Fukano[23] et al. visually observed the aspects of the vapor-liquid flow in the adiabatic section of a pipe,and clarified the relation between the flow pattern and the operating limit in a closed two-phase thermosyphon with a uniform heated pipe. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In a multi-phase flow system, the dielectric constants of different phases are different.With the variations of the distribution or the concentration of these phases,the equivalent dielectric constants of the mixtureswill change.According to this theory，the ECT technology uses a certain number of electrodes to gather the capacitance values between different electrode pairs and applies an appropriate algorithm to reconstruct the spatial material distribution from the given capacitance values[24-25] As one kind of non-contact measurement technique, the ECTmethodis consideredto bean effective tool for the on-line flow pattern identification and the porosity measurement in a liquid-vapor two-phase flow system.Waristo[26] et al. developed a new reconstruction algorithm based on a modified Holleld dynamic neural network optimization technique to reconstruct the tomographic data to obtain the cross-sectional distribution of the gas hold-up. $\\mathrm { C u i } ^ { [ 2 7 ] }$ used the ECT method to investigate distribution of the oil film thickness of the air/oil flow. Liu[28] designed a kind of transducer which was as part of the heat pipe as well to detect the two-phase flow in the adiabatic section of a thermosyphon. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The ECT method will be used to study the vaporliquid two-phase flow in the condenser section of the thermosyphon in this paper.A new ECT sensor is proposed for the visualization measurement in a liquid, which can achieve the measurementof the condensation process in the thermosyphon.Under different operating temperatures,the condensation characteristics,including the vapor-liquid distribution and the variation of the liquid film on the wall, will be experimentally studied with ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "the proposed ECT sensor. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Experimental Setup ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The experimental system mainly includes the thermo syphon,the heating subsystem,the circular cooling water subsystem,and the ECT system,which are shown in Fig 1.The thermosyphon is made of quartz glass.Its inner diameter is $1 6 ~ \\mathrm { m m }$ and the wall thickness is $1 . 5 \\mathrm { m m }$ .The length is $5 0 0 ~ \\mathrm { { m m } }$ ， $1 0 0 ~ \\mathrm { { m m } }$ for the evaporator section, $1 0 0 ~ \\mathrm { { m m } }$ for the condenser section,and the remainder for the adiabatic section.Alcohol is used as a working fluid in the thermosyphon.The quantity of the injection is about $16 \\%$ of the total thermosyphon volume, $8 0 ~ \\mathrm { m m }$ in length.The evaporator section of the thermosyphon is embedded in a copper block in which four heating rods are installed. The rated heating power for each heating rod is $5 0 \\mathrm { ~ W ~ }$ .The heating power can be adjusted via changing the voltage in the circuit. The temperature of the copper block is measured with copper constantan thermocouples,with a accuracy of $\\pm 0 . 5 ~ \\mathrm { ~ \\ ^ ~ { \\circ ~ } C ~ }$ ,which is regarded as the operation temperature of the thermosyphon.The adiabatic section is wrapped in a thermal insulation layer of $2 0 ~ \\mathrm { m m }$ thickness.The working fluid is cooled and condensed in the condenser section of the thermosyphon by cooling water. The inlet temperature and the flow rate of the cooling water are fixed during the experiments. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "An 8-electrode capacitance sensor is installed around the wall of the condenser section to observe the condensing process under different operational conditions. The sensor,whichis shown in Fig 2,has 8 measurement electrodes,2 circular terminal shielding electrodes,8 separating electrodes,and cables for signal transmission. The length and width of the measurement electrode is 30 mm and $4 . 3 ~ \\mathrm { m m }$ ,respectively.With the consideration of the limitation of the measurement condition,the sensor does not include the shielding,which is different from traditional structures.The sensor is sealed by a layer of insulating hydrophobic material to prevent water. The signal transmission cables are drawn from the top cover of the cooling jacket,and connected to the data acquisition system. The measured capacitance data will be transmitted to the computer, and the linear back projection method is employed to reconstruct the vapor-liquid phase distribution images.Before the experiments,the capacitance sensor is calibrated with an empty (alcohol vapor）and full field (liquid alcohol),in which the corresponding image colors are blue and red in this paper, respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0fa76622ef5653173f4c5fad9a56b68045c110c79dfba52fbc244c621e06de0.jpg",
+        "img_caption": [
+            "Fig.1Schematic Diagram of the Experimental Setup "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b98be0797e872a950473060ca312453fc9068dcb768a511d725b3dd189ea5377.jpg",
+        "img_caption": [
+            "Fig.2Structure of the Capacitance Sensor in the Experiments "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results and Discussion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Experiments were conducted under different operating temperatures of the evaporator section of the thermosyphonby adjusting the power output of the heating rods. By changing the voltage in small steps,the thermosyphon operated from one steady state to another. The circuit voltage varied between $3 0 – 8 0 \\mathrm { V } ,$ ，the electrical powers correspond to 9-56 W. The operating temperature was limited in the range of $7 0 – 1 3 5 ^ { \\circ } \\mathrm { C }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 shows the online monitoring results at the oper ating temperatures of 70 and $8 0 ^ { \\circ } \\mathrm { C }$ . At the two temperatures,the heat exchange load of the thermosyphon is low, so the amount of evaporation is small. The alcohol vapor is condensed into liquid after the heat exchange with the cooling Water, which presents an uneven distribution on the wall of the condenser section.The flow appears in stripes.Before the striped flow,the alcohol steam is cooled into small liquid drops and attach to the thermosyphon wall. The number of the liquid drops increases, and they even cover the entire wall of the condensation section.With the increase of the heat exchange load, the size of the liquid drops will also increase. The adjacent drops will agglomerate together with the action of the surface tension and gravity. When gravity on the liquid drops is larger than the adhesive force from the wall, the liquid drops will fall off and form the strip flow [29]. Due to the weak signal at the edge of the measurement domain and the limitation of the image reconstruction method, the interface between the liquid and vapor is blurred under the two operation conditions.But the reconstructed images can still reflect the distribution characteristics of the liquid and vapor qualitatively,and can be used to monitor the variations of the flow patterns. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The stripe flow continues before the operating temperature is increased to $9 0 ^ { \\circ } \\mathrm { C }$ . A kind of periodic phenomenon appeared in the condenser section at the operating temperature of $9 0 ^ { \\circ } \\mathrm { C }$ . The variation of the condensate film for one cycle is shown in Fig 4.Firstly,a circular flow happens around almost the whole circumference ata time due to the increase of the condensation amount, then the condensing liquid occupied the whole cross section and changes into the circular flow again. At the end of periodic phenomenon，the condensate flow nearly recovers into the stripe flow.Because of the vapor condensation, the condensate film thickens during its downward flow, and the vapor upward from the evaporator thickens it further. Owing to either the hydrodynamic force or the surface tension,the inner surface of the annular condensate film is inherently unstable and surface waves will format the vapor-liquid interface.The wave crest of the surface wave with the maximum growth rate meets the centerline of the tube to form a liquid bridge,so the whole cross section of the condenser is occupied by the condensate liquid. After the transit of the liquid bridge, the condensate film will recover to the original state finally. At the operating temperature of $9 0 ^ { \\circ } \\mathrm { C }$ , the time interval between two liquidbridgesis about 1O minutes. With the increase of the operating temperature, the amount of the condensate liquid and the relative velocity between the vapor and the condensate film increase.The time for forming the liquid bridge will be shorter.At the operating temperature of $1 0 0 ^ { \\circ } \\mathrm { C }$ ，the evolution of the condensate film is almost similar to that of $9 0 ^ { \\circ } \\mathrm { C }$ shown inFig.4,but the time interval becomes much shorter,i.e., about 5 minutes.At the operating temperature of $1 0 8 ^ { \\circ } \\mathrm { C }$ thetimeintervalisreducedto2Oseconds. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The condensate film evolution at the operating temperature of $1 1 7 ^ { \\circ } \\mathrm { C }$ is shown in Fig.5.The instability of the condensate film may demonstrate different shapes. In ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "8888 （ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "O 00000 。。0. 1 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Case 1 O 。 Q 。 。。 8888 Case 3 T 888 0 O d ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Case 1, the condensate film also forms a liquid bridge, which is similar to that at $9 0 ^ { \\circ } \\mathrm { C }$ ,but the end state is more closed to the circularflow due to the increased condensate liquid at higher thermal load and the shorter time interval. Because of distribution difference of the con densate film aroundthe circumference ofthe condenser section, the instability of the surface waves may happen just in some part of the circumference,and the complete liquid bridge cannot be formed just as shown in Cases 2 and 3.Under such operating temperature,a much larger amount of the working fluid is involved in the thermal cycle.The thickness of the condensate film and the vapor velocity near to the condensate film rises further. Compared with the low vapor velocities, the vapor-liquid interface at high vapor velocities is often more irregular because disturbance waves easily break up due to a large hydrodynamic interfacial force.The time interval between the adjacent broken surface waves is shortened further to about 1O seconds. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.6 shows two kinds of the variation of the conden",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Case 1?Case 2●··。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "sate film,Cases 1 and 2,at the operating temperature of $1 2 4 ^ { \\circ } \\mathrm { C }$ . At this temperature, the condensate film variation characteristics are similar to that at $1 1 7 ^ { \\circ } \\mathrm { C }$ ,but the concentration of liquid alcohol is much lower when the surface wave unsteadily happens according to the reconstruct images.This phenomenon can be attributed to two reasons.Firstly,the flow rate,and the inlet temperature of the coolant water remains unchanged in the experiments,and the latent heat of the vapor condensation only changes a little with the increase of the operating temperature,so there is a maximum amount of vapor that can be condensed into liquid,corresponding to a critical operat ing temperature of the thermosyphon. The vapor concentration in the condenser section will get higher with the increase of the operating temperature if it exceeds the critical value,so no red color is observed when the liquid bridge go through the ECT sensor. Another reason is that the part of the condensate liquid is pushed to the close end of the condenser section due to the high vapor velocity [20l. Only part of the working fluid cycles between the condenser and the evaporator. The possibility cannot be observed because almost thewhole condenser section is sealed with the insulating hydrophobic material. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we proposed a new ECT sensor to investigate the flow patterns in a thermosyphon system under different operational conditions by the removal of the shielding case of a traditional measuring sensor.The new sensor is used to qualitatively study the operation characteristics of the condensation section in a thermosyphon under different operational conditions.The experimental results show that alcohol vapor will condense into strips at a low operating temperature.At the operating temperature of $9 0 ^ { \\circ } \\mathrm { C }$ ，liquid bridges are formed periodicallyin the condenser section due to the instability of the surface wave,and the time interval between two liquid bridges will shorter with the increase of the operating temperature.The surface wave may unsteadily happen at just part of the circumference owing to the vapor distribution difference on the wall of the condenser section at the operating temperature of $1 1 7 ^ { \\circ } \\mathrm { C }$ . Research findings provide a new approach for understanding the physical machines of the thermosyphon. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The authors wish to thank the Programme of Introducing Talents of Discipline to Universities (B13009), theNational Natural Science Foundation of China (No. 51206O48) and the Fundamental Research Funds for the Central Universities(No.13MS11) for supporting this research. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Barzi Y.M.,Assadi M.,Evaluation of a thermosyphon heat pipe operation and application in a waste heat recovery system,Experimental heat transfer,2015,28(5): 493-510.   \n[2]Critoph R.E., The use of thermosyphon heat pipes to improve the performance of a carbon-ammonia adsorption refrigerator,International Journal of Environmentally Conscious Design &Manufacturing,20oo,9(3): 3-10.   \n[3]Zhang H.N., Shao S.Q.,Xu H.B., Zou H.M., Tian C. Q.,Integrated system of mechanical refrigeration and thermosyphon for free cooling of data centers,Applied Thermal Engineering,2015,75(22):185-192.   \n[4]Shukla R.， Sumathy K.，Performance evaluation of a thermosyphon solar water heater using supercritical CO2 as working fluid, International Journal of Advances in Mechanical & Automobile Engineering，2014，1(1): 2349-1493.   \n[5]Sanchez-Silva F., Carvajal-Mariscal I.,Moreno-Cordobés A. E., Quinto Diez P., Toledo Velázquez M., Study of an annular two-phase thermosyphon used as an isothermal source in thermometry, Journal of Mechanical Engineering,2015,61(4): 273-282.   \n[6]Karthikeyan M.，Vaidyanathan S.， Sivaraman B.,Heat transfer analysis of two phase closed thermosyphon using aqueous solution of n-butanol, International Journal of Engineering and Technology,2013,3(6): 661-667.   \n[7]Noie S.H., Heat transfer characteristics of a two-phase closed thermosyphon， Applied Thermal Engineering, 2005,25 (4): 495-506.   \n[8]Ashok F.N., Mali K. V.,Anjankar P. G.,Effect of filling ratio on thermal performance of thermosyphon heat pipe, International Journal on Theoretical and Applied Research in Mechanical Engineering,2015,4(1): 1-8.   \n[9]Patil A.D.,Yarasu R.B., Factors affecting the thermal performance of two phase closed thermosyphon: a review, International Journal of Emerging Technology and Advanced Engineering,2012,2 (9): 202-206.   \n[10]Anjankar P.G.,Yarasu R.B.,，Experimental analysis of condenser length effect on the performance of thermosyphon, International Journal of Emerging Technology and Advanced Engineering,2012,2(3): 494-499.   \n[11]Ong K.S.,Haider-E-Alahi Md.,Performance of an R134a-filled thermosyphon，Applied thermal engineering (2003),2003,23(18): 2373-2381.   \n[12]Rahimi M.,Asgary K., Jesri S., Thermal characteristics of a resurfaced condenser and evaporator closed two phase thermosyphon. International Communications in Heat and Mass Transfer,2010,37 (6): 703-710.   \n[13]Wang J.C.Y.,Ma Y.W., Condensation heat transfer inside vertical and inclined thermosyphons,Journal of Heat Transfer,1991,113(3): 777-780.   \n[14]Husseina H.M. S.,Mohamada M.A.,El-Asfourib A.S., Theoretical analysis of laminar-film condensation heat transfer inside inclined wickless heat pipes flat-plate solar collector,Renewable Energy, 2001,23(3-4): 525-535.   \n[15]Shiraishi M., Kiiuchi K., Yamanishi T., Investigation of heat transfer characteristics of a closed thermosyphon, Journal of Heat Recovery Systems,1981,1(4): 287-297.   \n[16]Bharathan,D.,Wallis,G.B.and Richter,H.J.,Air-water countercurrent annular flow. EPRI Report,EPRI NP1165, 1979.   \n[17]El-Genk M. S., Sabert H. H.,Flooding limit in closed, two-phase flow thermosyphons, International Journal of Heat and Mass Transfer, 1997,40(9): 2147-2164.   \n[18]Seban R.A., Faghri A.,Film Condensation in a Vertical Tube with a Closed Top,International Journal of Heat and Mass Transfer,1984,27: 944-948.   \n[19] Pan Y.,Condensation heat transfer characteristicsand concept of sub-flooding limit in a two-phase closed thermosyphon， International Communications of Heat and Mass Transfer,2001,28(3): 311-322.   \n[20]Teng H., Cheng P., Zhao T. S., Instability of condensate film and capillary blocking in small-diameter thermosyphon condensers,International Journal of Heat and Mass Transfer,1999,42(16): 3071-3083.   \n[21]Shiraishi M., Terdtoon P.,Murakami M., Visual study on flow behavior in an inclined two-phase closed thermosyphon,Heat Transfer Engineering,1995,16(1): 53-59.   \n[22]Storch T., Grab T.,Gross U., Wagner S., Visual observations inside a geothermal thermosyphon，Heat Pipe Science and Technology,An International Journal, 2013, 4(3), 217-226.   \n[23]Fukano T., Kadoguchi K., Imuta H., Experimental study on the heat flux at the operating limit of a closed twophase thermosyphon, Transactions of Japanese Society of Engineering, Series B,1987,53(487): 1065-1071.   \n[24]Xie C.G.,Huang S.M.,Hoyle B.S.; Thorn R.,Lenn C., Snowden D.,Beck M.S.，Electrical capacitance tomography for flow imaging: system model for development of image reconstruction algorithms and design of primary sensors,IEE PROCEEDINGS-G, 1992,139(1): 89-98.   \n[25]Huang S. M., Plaskowski A. B., Xie C.G., Beck M. S., Tomographic imaging of two-component flow using capacitance sensors,Journal of Physics E: Science Instrument,1989,22 (3): 173-177.   \n[26]Warsito W.,Fan L. S.,Measurement of real-time flow structures in gas-liquid and gas-liquid-solid flow systems using electrical capacitance tomography (ECT), Chemical Engineering Science,2001,56(21-22): 6455-6462.   \n[27]Cui Z. Q., Yang C. Y., Sun B. Y., Wang H. X.; Liquid fim thickness estimation using electrical capacitance tomography, Measurement Science Review,2014,14(1): 8-15.   \n[28]Liu S.,Li J. T., Chen Q., Visualization of flow pattern in thermosyphon by ECT,Flow Measurement and Instrumentation,2007,18 (3-6): 216-222.   \n[29] Zhao Y. B., Sun Z. R., Zhang Y. H., Experimental investigation of condensation heat transfer procedure of twophase closed thermosyphon, Journal of Nanjing Institute of Chemical Technology(in Chinese),1989,11(3): 83-90. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

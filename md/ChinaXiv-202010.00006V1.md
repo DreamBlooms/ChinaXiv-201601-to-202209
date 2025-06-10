@@ -1,0 +1,138 @@
+# 童年贫困与晚年认知老化：加速还是延缓？\*
+
+# 赵鑫1,2 郑巧萍 1,2
+
+(1甘肃省行为与心理健康重点实验室；²西北师范大学心理学院，兰州730070)
+
+摘要童年贫困与晚年认知老化的关系尚存争议。有的研究表明，童年贫困会加速个体的认知老化，但是也有研究发现童年贫困会延缓个体的认知老化，这与社会流动性起到的调节作用有关。对于童年贫困个体，低稳定或者社会经济地位的向下流动（即长期贫困）会使逆境产生的消极影响不断累积，从而加速个体的认知老化；而心理韧性高的童年贫困个体，可能会促使社会经济地位向上流动，这会增加个体的认知储备，并提升特定认知能力，进而延缓认知老化。今后该领域的研究应该探讨童年主观贫困与认知老化之间的关系以及童年贫困对不同认知能力老化的影响，也应关注童年贫困与晚年认知老化关系研究中的幸存者偏差效应。
+
+关键词社会经济地位；贫困；认知老化；社会流动；认知储备
+
+# 1引言
+
+贫困代表着较低的社会经济地位，社会经济地位（Socioeconomic status,SES）是个体或群体在社会中根据其所拥有的物质和非物质社会资源而决定的社会位置的反映（Bradley&Corwyn,2002;Evans,2004），通常以父母受教育程度、父母职业、家庭收入三个指标来衡量（Duncan&Magnuson,2012;Farah,2017）。已有研究表明，贫困会对个体健康产生消极影响，如免疫系统更糟糕（Fagundes&Way,2014）、心理压力更大（Merz et al.,2019）、情绪调节能力更差（Liberzon et al.,2015）以及社会功能衰退的更快（Steptoe＆ Zaninotto,2020）。同时，贫困还会对个体的认知能力产生影响，如有的研究发现，来自贫困家庭儿童的执行功能的水平更低（Lawson etal.,2017），这种不良的效应还会延续至成年期，童年期成长在低社会经济地位家庭的成年人在思维速度、注意力（Horvat et al.,2014）、情景记忆以及执行功能（Liu&Lachman,2019）等方面的表现更差。
+
+一般而言，童年贫困会加速个体认知老化，大量研究为此提供了支持，例如，Oi和 Haas（2019）发现相较于童年高家庭社会经济地位的个体，童年低家庭社会经济地位个体的一般认知能力衰退程度更大。但最近有研究表明，童年贫困反而会减缓个体认知老化，如 Aartsen等人（2019）发现，来自童年低家庭社会经济地位的个体，其执行功能呈现更慢的下降速度。童年贫困与个体晚年认知老化存在什么关系？是加速还是延缓？还存在一定的争议。本文将在梳理相关研究的基础上，尝试阐述童年贫困与个体晚年认知老化之间的关系以及从社会流动性的角度解释争议的原因。
+
+# 2 童年贫困与晚年认知老化关系的争议
+
+# 2.1童年贫困加速个体认知老化
+
+已有研究表明，童年贫困会加速个体认知老化。如Liu 和Lachman（2019）以24\~75岁个体为研究对象，采用父母受教育程度最高一方的总受教育年数衡量童年家庭社会经济地位，结果显示，童年家庭社会经济地位高的个体，成年中后期中央执行能力的衰退程度更小；Zaninotto 等人（2018）的研究以个体14岁时父亲职业等级为童年家庭社会经济地位的指标，对 50 岁以上个体的认知能力发展趋势进行长达8年追踪，发现在男性被试中童年低家庭社会经济地位会加速个体老年加工速度的衰退；Melrose 等人（2013）在一个多民族样本中也得到相同结论，发现童年低家庭社会经济地位会加速个体认知老化；近期 Yang 和Wang（2020）探索早期生活条件和认知功能之间的关系，研究结果显示，童年有利的家庭社会经济地位能防止中年个体认知能力的下降。而且研究还发现，个体的童年家庭社会经济地位越高,老年时罹患认知障碍的风险就越小（Zhang et al.,2008)。近期的一项研究以 9446名 70\~76岁个体为被试，进一步证实了童年贫困与个体认知能力下降程度呈显著负相关，研究认为，童年高家庭社会经济地位促使个体进入有利的教育和职业领域，这些领域所提供的物质、认知、心理社会资源通过发展认知储备保护个体认知能力(Oi&Haas,2019)。Lyu和Burr(2016)对 65 岁以上个体进行了长达12年追踪，发现在控制所有协变量以后，母亲受教育程度高的个体其一般认知能力下降程度更小，这可能是由于相比于受教育程度低的母亲，受教育程度高的母亲容易为孩子提供更多的认知刺激以及学业支持，并通过遵守卫生保健规范为子女提供更丰富的营养，促进身体健康，从而对认知能力的发展产生积极作用。
+
+# 2.2童年贫困延缓个体认知老化
+
+虽然有研究证实了童年贫困会加速个体认知老化，但是另外的一些研究却发现，童年贫困会延缓个体认知老化。Barmes等人（2012）的研究探索早期生活逆境与个体老年认知能力下降率之间的关系，发现在非裔美国人中，童年食物越匮乏，个体老年认知衰退程度更小，也就是说早期生活逆境对认知老化具有保护作用；研究者进一步发现，童年低家庭社会经济地位个体的记忆力老化程度明显低于童年高家庭社会经济地位个体（Zaninotto etal.,2018），这可能是由于童年劣势增加个体对环境的适应力以及恢复力，促使个体发展出有效应对策略，从而减缓认知下降速度；具有良好自我调节能力的童年贫困个体可以通过发展更加有效的策略来应对压力（Blair,2010）或增强自身的注意控制能力（Eigsti etal.,2006），减少童年贫困对个体成年期认知能力的消极影响（Evans＆ Fuller-Rowell,2013）；Glymour 等人（2012）以65岁以上个体为研究对象，在9年时间内对其认知能力进行了5次测试，发现父母受教育程度越高的个体，其言语流畅性呈现更快的衰退；近期Aartsen 等人（2019）的研究明确童年家庭社会经济地位高的个体，其言语流畅性测验分数的下降量是童年家庭社会经济地位低的个体的1.6倍，即童年家庭社会经济条件越好，执行功能衰退程度反而更大。通过高等教育提高的技能和获得的策略在认知老化早期容易受到影响（Savage etal.,2001），前额叶结构和功能的退化是大脑衰老的早期特征（Hedden&Gabrieli,2004），该脑区的退化可能不会降低受教育程度低的个体的认知表现，因为这些个体在早年不太依赖言语流畅性策略的使用，相反，随着受教育程度高的个体愈加难以使用该策略，其在语言流畅性中的表现将会恶化。另外，童年处于不良环境会促进个体在成年期面对不确定情境时的转换能力，这可能是由于童年期生活在不可预测的环境中（如奖励与成本迅速变化），具有良好的转换能力可以帮助个体利用当前的奖励，并避免潜在的成本（Mittal et al.,2015）。
+
+# 3社会流动性调节童年贫困与晚年认知老化之间的关系
+
+从整个生命历程的角度来看，童年贫困个体的社会经济地位可能会发生流动，如社会经济地位继续向下流动或者处于低稳定状态，使个体长期处于贫困；或者社会经济地位发生向上流动，使个体摆脱贫困。
+
+# 3.1低稳定或者社会经济地位的向下流动加速童年贫困个体的认知老化
+
+童年贫困个体在成年期处于不利社会经济地位的风险更大（Lyu& Burr,2016），他们可能更多接触长期处于贫困的群体，这会降低个体对社会经济地位向上流动的信念，减弱摆脱贫困的动机（Browman et al.,2017; Roderick, 2003; Oyserman et al.,2006; Thomas et al.,2003），使其在一生中处于低社会经济地位或者社会经济地位继续向下流动。而长期处于不利环境会加速童年贫困个体认知能力的衰退，与一直处于高社会经济地位的个体相比，长期贫困的老年个体记忆衰退程度更大（Marden etal.,2017），在整体认知功能以及言语短时记忆测试中的表现也更差（Haan etal.,2011）。
+
+低稳定或者向下的社会经济流动之所以会加速童年贫困个体的认知老化，一个重要原因是贫困会对个体的心理、生理等健康产生消极影响，而长期处于贫困不仅会使这些消极影响不断累积，也使个体缺乏有利资源进行应对，从而对个体的认知能力产生更大的负面影响，并加速认知能力的衰退。贫困环境会增加个体的慢性压力（Evans&Fuller-Rowell,2013），并促使父母采用消极的养育方式（Vrantsidis et al.,2020），而且贫困个体面临着物质资源（Larson et al.,2015）和认知资源的匮乏（Daneri et al.,2019），生命历程中不利条件的持续和累积会促使个体认知能力下降，并增加个体罹患认知障碍的几率（Nguyen et al.,2008）。另外，童年贫困也会对个体大脑结构产生损伤。童年贫困个体在海马体积（McDermott et al.,2019）、前额叶皮质厚度（Lawson et al.,2013）以及双侧额叶表面积（Noble etal.,2015）的比例上均处于劣势，长期贫困的个体不仅缺少补偿大脑损伤的有利资源，脑损伤还会降低个体储备认知资源的能力，从而加速认知老化。收入向下流动的频率越高，对大脑微观结构完整性和脑白质体积的损伤也越大（Grasset et al.,2019）。
+
+总之，社会经济地位的向下流动或者低稳定状态，会使童年贫困个体长期处于贫困。长期贫困会使恶劣环境持续存在，由此产生的消极影响也不断累积，加上童年贫困个体应对损伤的有利资源匮乏，从而降低了童年贫困个体的认知能力并加速了其认知老化。
+
+# 3.2社会经济地位的向上流动延缓童年贫困个体的认知老化
+
+虽然童年不利的社会经济地位会对个体带来一系列负面影响，但是逆境也会增强童年贫困个体在不确定环境中应对挑战的能力（Ellis etal.,2017）。而且逆境中的一些保护因素（如家庭）会增强童年贫困个体的心理韧性（Bonanno etal.,2007），使其能够承受高水平的破坏性变化，也会从消极的经历中迅速进行调整并适应，表现出较少的不良行为，从而比一般人发展的更好（Lazarus,1993;Masten,2001），促使童年贫困个体在成年期处于高社会经济地位，即社会经济地位向上流动。
+
+与童年高社会经济地位个体相比，成年期有利的社会经济地位可能会对童年贫困个体的认知健康带来更多积极影响（Luo&Waite,2005），社会经济地位的向上流动可能会更大程度地提升童年贫困个体的认知健康，进而延缓认知老化。教育在很大程度上影响个体成年期的社会经济地位，会促使个体参加认知活动来丰富所处环境的认知刺激（Liu&Lachman,2020），并促进认知技能在生活中的反复使用；会改变个体执行认知任务的方式、增强大脑可塑性，使得成年期处于有利社会经济地位的童年贫困个体，认知储备得到更大提升，从而在认知老化过程中，能够有效调用神经网络，采取更优的策略执行认知任务，表现出更小的认知衰退程度（Fratiglioni et al.,2004; Golja et al.,2020; Ihle et al.,2020; Stern,2002; 2012）。
+
+社会经济地位的向上流动不仅会提升童年贫困个体的认知能力，抵消早年逆境给个体认知能力带来的消极影响（Liu&Lachman,2019;Marden etal.,2017），而且还会促进童年贫困个体特定认知能力的发展，并优于童年高社会经济地位个体，这在一定程度上可以延缓童年贫困个体认知能力的衰退。部分童年贫困个体虽然身处逆境，但仍然保持着高水平的学习动机（Oyserman,2013），会通过利用有限资源（如学校）来获得学业成功，不断提升自己的受教育程度，使其在成年期处于高社会经济地位（Browman et al.,2017）。相比于童年高社会经济地位个体,童年贫困个体需要在更大程度上依赖工作记忆获得学业成功（Alloway&Alloway,2010），这反而会使童年贫困个体在追求社会经济地位向上流动的过程中，工作记忆能力得到更大提升并优于童年高社会经济地位个体（Nweze etal.,2020），进而延缓童年贫困个体的认知老化。
+
+总体而言，社会经济地位的向上流动会提升童年贫困个体的认知储备，并使特定认知能力得到更好的发展，从而延缓童年贫困个体的认知老化。
+
+# 4研究展望
+
+如前所述，童年贫困会加速或者延缓个体的认知老化，二者之间的关系可能受到社会流动性的调节，未来仍有一些问题需要进一步探索。
+
+第一，探讨童年主观贫困与认知老化之间的关系。目前研究采用童年客观社会经济地位指标考察其与认知老化之间的关系，忽视了主观社会经济地位可能在认知能力衰退中发挥的作用。有研究表明，客观贫困的度量与主观贫困的度量存在很大重叠，但是主观贫困包含更多维度的信息，一些家庭特征可能会导致个体低估家庭支出水平，降低客观贫困度量的准确性（Posel&Rogan,2016）；客观贫困也不能完全反应主观贫困，如Wang等人（2020）在中国农村家庭中发现， $2 9 \%$ 客观非贫困家庭在主观上不感到贫困；此外，主观社会经济地位比客观社会经济地位有更好的预测效度，如相比于客观社会经济地位，主观社会经济地位能更好的预测个体的心理压力（Sakurai etal.,2010）以及生理疾病（Wolf et al.,2010），这些因素会对个体认知能力的衰退产生影响。今后研究可以考察童年主观贫困与客观贫困对认知老化的影响是否存在差异，对童年贫困与认知老化之间的关系进行深入探索。
+
+第二，探索童年贫困与不同认知能力老化之间的关系。目前研究更多关注童年贫困对个体产生的消极影响，但是恶劣、不可预测的环境也会促进个体特定认知能力的发展，以适应不同情境（Elis & Del Giudice,2014; Frankenhuis & de Weerth,2013; Mital et al.,2015），即逆境可能会降低个体的某种认知能力，如工作记忆（Leonard et al.,2015），但也会提高个体的特定认知能力，如程序性记忆（Dang etal.,2016），这是否与童年贫困仅仅加速特定认知能力的衰退有关呢？这也暗示着不同认知能力对童年贫困环境的敏感性可能存在差异，如相比于记忆，执行功能与童年贫困的联系是否更加紧密？童年家庭社会经济地位的不同指标（收入；父母受教育程度；父母职业）与执行功能不同部分（刷新；抑制；转换）的老化是否又存在不同关系？未来的研究应细致化探索童年贫困与认知老化之间的关系。
+
+第三，关注童年贫困与认知老化关系研究中的幸存者偏差效应。目前多数研究选取65岁以上个体考察童年贫困与晚年认知老化之间的关系，一个重要原因是个体的认知能力在65 岁以后更容易出现衰退（Korten et al.,2014;Lyu&Burr,2016），但是相比于童年高社会经济地位个体，童年贫困个体死亡率较高（Stringhini etal.,2017），导致部分童年贫困个体因为死亡原因未被纳入研究，被纳入研究的个体身体状况更好或者童年贫困程度较低，如研究者在探索童年贫困与认知老化之间的关系时，研究对象的社会经济地位相对有利，而且在个体65 岁测量认知能力时， $43 \%$ 被试由于死亡等原因脱落（Zhang etal.,2020）。因此，在不考虑幸存者偏差的影响下，会低估童年贫困与认知老化之间的关系。未来研究应考虑寿命对个体认知能力衰退的影响，并在个体的认知能力开始下降前（如65岁以前），将童年贫困个体的死亡风险纳入模型加以考察（Okamoto,2019），也需关注童年贫困个体此时的认知能力呈现何种衰退程度。
+
+参考文献   
+Aartsen,M.J.,Cheval,B.ieber,S.,VanderLinden,B.W.,Gabriel,R.,Courvisier,D.S.,..Cullati,S.(2019) Advantaged socioeconomic conditions in childhood are associated with higher cognitive functioning but strongercognitive decline in older age. Proceedings of the National Academy of the Sciences of the United States of America, 116(12), 5478-5486.   
+Alloway,T.P.,& Alloway,R. G. (20l0). Investigating the predictive rolesof working memory and IQin academic attainment. Journal ofExperimental Child Psychology,106(1),20-29.   
+Barnes,L.L., Wilson,R.S.,Everson-Rose,S.A.,Hayward,M.D.,Evans,D.A.,& de Leon, C.F.M. (2012). Effects of early-life adversity on cognitive decline in older African Americans and whites. Neurology, 79(24), 2321-2327.   
+Blair,C.(2010). Stressand the development of self-regulation in context. Child Development Perspectives， 3, 181-188.   
+Bonanno,G.A., Galea,S.，Bucciarelli,A.，& Vlahov,D.(2007).What predictspsychological resilience after disaster? The role of demographics,resources,andlife stress. Journal of Consulting and Clinical Psychology, 75(5), 671-682.   
+Bradley,R. H.，& Corwyn, R. F. (2002). Socioeconomic status and child development. Annual Review of Psychology, 53(1),371-399.   
+Browman,A.S.,Destin,M.,Carswel,K.L.,& Svoboda,R.C. (2017).Perceptionsof socioeconomicmobility influence academic persistence among low socioeconomicstatus students. Journal of Experimental Social Psychology, 72, 45–52.   
+Daneri,M.P.,Blair,C.,Kuhn,L.J.,Vernon-Feagans,L.,Greenberg,M.,Cox,M.,..ils-Koonce,R.(2019) Maternal language and child vocabulary mediate relations between socioeconomic status and executive function during early childhood. Child Development, 90(6),2001-2018.   
+Dang,J.,Xiao,S.,Zhang,T.,Liu,Y., Jiang,B.,& Mao,L. (2016).When the poor excel: Poverty facilitates procedural learning. Scandinavian Journal of Psychology, 57(4),288-291.   
+Duncan,G.J.,& Magnuson, K. (2012). Socioeconomic status and cognitive functioning: Moving from correlation to causation. Wiley Interdisciplinary Reviews Cognitive Science, 3(3),377-386.   
+Eigsti,I. M.,Zayas,V.,Mischel,W.,Shoda,Y.,Ayduk,O.,&Dadlani,M.B. (2o06).Predicting cognitivecontrol from preschool to late adolescence and young adulthood. Psychological Science,17, 478-484.   
+Elis,B.J.,& Del Giudice,M.(2014). Beyond allstatic load: Rethinking the role of stress inregulating human development. Development and Psychopathology,26(1), 1-20.   
+Elis,B.J.,Bianchi,J.,Griskevicius,V.,&Frankenhuis,W.E.(2017).Beyond risk and protective factors: An adaptation-based approach to resilience. Perspectives on Psychological Science,12(4),561-587.   
+Evans, G. W. (2004). The environment of childhood poverty. American Psychologist, 59(2),77-92.   
+Evans, G. W.,& Fuler-Rowell,T.E. (2013). Childhood poverty, chronic stres,and young adult working memory: The protective role of self-regulatory capacity. Developmental Science,16(5), 688-696.   
+Fagundes,C.P.,& Way,B.(2014).Early-life stressand adult inflammation. Current Directions in Psychological Science,23(4),277-283.   
+Farah,M. J. (2017). The neuroscience of socioeconomic status: Correlates, causes,and consequences. Neuron, 96(1), 56-71.   
+Frankenhuis,W.E.,&de Weerth, C. (2013).Does early-life exposure to stress shapeor impaircognition? Current Directions in Psychological Science, 22(5),407-412.   
+Fratiglioni,L.,Paillard-Borg,S.,& Winblad,B. (2O04).Anactiveandsocially integrated lifestyle inlate life might protect against dementia. Lancet Neurology, 3(6), 343-353.   
+Glymour, M. M.,Tzourio,C.,& Dufouil, C. (2012). Is cognitive aging predicted by one's own or one's parents' educational level? Results from the three-city study.American Journal ofEpidemiology,175(8),750-759.   
+Golja,L., Daugherty,A. M.,& Kavcic, V. (2020). Cognitive reserve and depresson predict subjective reports of successfulaging.Archivesofgerontologyandgeriatrics，90,Articlee104137. https://doi.org/10.1016/j.archger.2020.104137   
+Grasset,L.，Glymour,M.,Elfassy,T.,Swift,S.L.,Yaffe,K.,Singh-Manoux,A.,& Al Hazzouri,A. Z. (2019). Relation between 20-year income volatility and brain health in midlife. Neurology, 93(20),1890-1899.   
+Haan,M. N.,Al-Hazzouri, A. Z.,& Aiello,A. E. (2011).Life-span socioeconomic trajectory，nativity，and cognitive aging in mexican americans: The sacramento area latino study on aging. The Journalsof Gerontology, Series B:Psychological Sciences and Social Sciences,66(1),102-110.   
+Hedden,T.,& Gabrieli, J. D.E. (2O04). Insights into the ageing mind: A view from cognitive neuroscience. Nature Reviews Neuroscience, 5(2), 87-96.   
+Horvat,P.,Richards,M.,Malyutina,S.,Pajak,A.,Kubinova,R.,Tamosiunas,A.,..Bobak,M. (2014). Life course socioeconomic position and mid-late life cognitive function in eastern europe. Journals of Gerontology Series B-Psychology Sciences and Social Sciences, 69(3), 470-481.   
+Ihle,A.,Rimmele, U.,Oris,M.,Maurer,J.,& Kliegel,M. (2020).The longitudinal relationshipofperceivedstress predicting subsequent decline in executive functioning in old age is atenuated in individuals with greater cognitive reserve. Gerontology, 66(1), 65-73.   
+Korten,N. C.M.,Penninx,B.W.J. H.,Pot,A.M.,Deeg,D.J.H.,& Comijs, H. C.(2014).Adverse childhood and recent negative life events: Contrasting associations with cognitive decline in older persons. Journal of Geriatric Psychiatry,27(2),28-18.   
+Larson,K., Russ, S.A., Nelson,B.B.,Olson,L. M.,& Halfon,N. (2015). Cognitive ability at kindergarten entry and socioeconomic status. Pediatrics,135(2), 440-448.   
+Lawson,G.M.，Duda,J. T.，Avants,B.B.,Wu,J.,& Farah,M.J. (2013).Associations between children's socioeconomic status and prefrontal cortical thickness. Developmental Science,16(5), 641-652.   
+Lawson,G.M.,Hook, C.J.,& Farah,M.J. (2017).A meta-analysis of the relationship between socioeconomic status and executive function performance among children. Developmental Science, 21(2), 1-22.   
+Lazarus,R. S. (1993).From psychological stress to the emotions :A history of changing outlooks.Annual Review of Psychology, 44(1),1-22.   
+Leonard,J.A.,Mackey,A.P.,inn,A.S.,&Gabrieli,J.D.(O5).Dierentialfctsofsocioeconomicstatuson working and procedural memory systems. Frontiersin Human Neuroscience, 9, Article e554. https://doi.0rg/10.3389/fnhum.2015.00554   
+Liberzon, I., Ma, S.T., Okada, G.，Ho,S.S.， Swain,J. E.,& Evans, G.W. (2015). Childhood poverty and recruitment of adult emotion regulatory neurocircuitry. Social Cognitive and Affective Neuroscience, 10(11), 1596-1606.   
+Liu,Y. J.,& Lachman, M.E. (2019).Socioeconomic status and parenting style from childhood: Long-term effects on cognitive function in middle and later adulthood. Journals of Gerontology: Social Sciences,74(6),13-24.   
+Liu, Y.,& Lachman, M. E. (202o). Education and cognition in middle age and later life: The mediating role of physical and cognitive activity.The Journals of Gerontology，Series B: Psychological Sciencesand Social Sciences,75(7),93-104.   
+Luo,Y.,& Waite,L. J. (2O05). The impact of childhood and adult SESon physical, mental,and cognitive well-being in later life. Journal of Gerontology: Social Sciences, 60(2),93-101.   
+Lyu, J.,& Burr,J.A. (20l6). Socioeconomic status across the life course and cognitive function among older adults: An examination of the latency,pathways,and accumulation hypotheses. Journal of Aging and Health, 28(1),40-67.   
+Marden,J.R.,Tchetgen,E.J.T.,Kawachi,1.,&Glymour,M.M. (2017).Contribution of socioeconomic status at 3 life-course periods to late-life memory function and decline: Early and late predictors of dementia risk. American Journal of Epidemiology, 186, 805-814.   
+Masten,A. S. (200l). Ordinary magic-resilience processes in development. American Psychologist, 56(3), 227-238.   
+McDermot, C.L.，Seidlitz,J.,，Nadig,A.,Liu,S., Clasen,L. S.，Blumenthal, J.D.，..Raznahan,A. (2019). Longitudinally mapping childhood socioeconomic status associations with cortical and subcortical morphology. The Journal ofNeuroscience,39(8),1365-1373.   
+Melrose,R.J.,Brewster,P.,Marquine,M.J.,MacKay-Brandt,A.,Reed,B.,Tomaszewski Farias,S.,&Mungas,D. (2013).Early life development in a multiethnic sample and the relation to late life cognition. Journals of Gerontology, Series B: Psychological Sciences and Social Sciences,70(4),519-531.   
+Merz,E.C.,Desai,P.M.,Maskus,E.A.,Melvin,S.A.,Rehman,R.,Torres,S.D.,..Noble,K.G.(2019). Socioeconomic disparities in chronic physiologic stress are associated with brain structure in children. Biological Psychiatry, 86(12), 921-929.   
+Mittal,C.,Griskevicius,V.Simpson,J.A.,Sung,S.Y.,&Young,E.S.(2O15).Cognitive adaptations torful environments: When childhood adversity enhances adult executive function. Journal of Personality and Social Psychology, 109(4), 604-621.   
+Nguyen,C. T.,Couture,M. C.，Alvarado,B.E.,& Zunzunegui, M. V. (2008).Life course socioeconomic disadvantage and cognitive function among the elderly population of seven capitals in latin america and the caribbean. Journal of Aging and Health, 20(3),347-362.   
+Noble,K. G.,Houston,S..,Brito,N.H.,Bartsch,H.,Kan,E.,Kuperman,J..,..Sowel,E.R. (25).Family income,parental education and brain structure in children and adolescents. Nature Neuroscience,18(5), 773-778.   
+Nweze,T., Nwoke, M. B., Nwufo,J. I., Aniekwu, R. I.,，& Lange,F. (2020). Working for the future: Parentally deprived nigerian children have enhanced working memory ability. Journal of Child Psychology and Psychiatry. Advance online publication. htps://doi.org/10.1111/jcpp.13241   
+Oi, K.，& Haas，S. (2019). Cardiometabolic risk and cognitive decline: The role of socioeconomic status in childhood and adulthood. Journal of Health and Social Behavior, 60(3),326-343.   
+Okamoto,S. (2019). Socioeconomic factors and the risk of cognitive decline among the elderly population in Japan. International Journal of Geriatric Psychiatry,34(2),265-271.   
+Oyserman,D.(20l3).Not justany path: Implications of identity-based motivation for disparities in school
+
+outcomes.EconomicsofEducationReview,33,179-190.
+
+Oyserman, D., Bybee, D.,& Terry,K.(206).Possible selves and academic outcomes: How and when possible selves impel action. Journal of Personality and Social Psychology, 91(1),188-204.   
+Posel,D.,& Rogan, M. (2016). Measured as poor versus feling poor: Comparing money-metric and subjective poverty rates in south africa.Journal of Human Development and Capabilities,17(1),55-73.   
+Roderick, M. (2003). What's happening to the boys? Early high school experiences and school outcomes among african american male adolescents in chicago. Urban Education,38(5), 538-607.   
+Sakurai,K.,Kawakami,N.,Yamaoka,K.,Ishikawa,H.,& Hashimoto,H. (201o).The impactof subjectiveand objective social status on psychological distress among men and women in Japan. Social Science and Medicine,70(11),1832-1839.   
+Savage,C.R.,Deckersbach,T.,Heckers,S., Wagner,A.D.,Schacter,D.L.,Alpert,N.M.,..Rauch,S.L.(2001). Prefrontal regions supporting spontaneous and directed application of verbal learning strategies-evidence from PET. Brain,124,219-231.   
+Steptoe,A.,& Zaninotto,P. (202O). Lower socioeconomic status and the acceleration of aging: An outcome-wide analysis. PNAS, 117(26),14911-14917.   
+Stern, Y. (2002). What is cognitive reserve? Theory and research application of the reserve concept. Journal of the International Neuropsychological Society, 8(3), 448-460.   
+Stern,Y.(20l2). Cognitive reserve inageing and alzheimer's disease. Lancet Neurology,11(11),1006-1012.   
+Stringhini，S.，Carmeli,C., Jokela,M.，Avendano，M.，Muennig，P.，Guida,F.，..Kivimaki，M.(2017). Socioeconomic status and the $2 5 \mathrm { ~ x ~ } 2 5$ risk factors as determinants of premature mortality: A multicohort study and meta-analysis of 1.7 million men and women. Lancet, 389(10075),1229-1237.   
+Thomas,D.E.,Townsend,T.G.,& Belgrave,F.Z. (2Oo3).The influenceofcultural and racial identificationon the psychosocial adjustment of inner-city african american children in school. American Journal of Community Psychology, 32(3),217-228.   
+Vrantsidis,D. M., Clark, C.A. C., Chevalier, N., Espy, K. A.,& Wiebe, S.A. (2020). Socioeconomic statusand executive function in early childhood: Exploring proximal mechanisms.Developmental Science, 23(3), Article e12917. https://doi.0rg/10.1111/desc.12917   
+Wang,H. J., Zhao,Q.R., Bai, Y.L., Zhang,L. X.,& Yu, X. H. (202O). Poverty and subjective poverty in rural china.Social Indicators Research,150(1),219-242.   
+Wolf,L. S.， Subramanian,S.， Acevedo-Garcia,D.，Weber,D.，& Kawachi.I. (2010). Compared to whom? Subjective social status,self-rated health,and referent group sensitivity in a diverse US sample. Social Science and Medicine,70(12),2019-2028.   
+Yang,L.,& Wang,Z.B.(2O2O).Early-life conditions and cognitive function in middle-and old-aged chinese adults:A longitudinal study. International Journal of Environmental Research and Public Health,17(10), Article e3451.https://doi.org/10.3390/ijerph17103451   
+Zaninotto,P.，Baty,G.D.，Allerhand,M.，& Deary,I.J. (2018). Cognitive function trajectories and their determinants in older people: 8 years of follow-up in the english longitudinal study of ageing. Journal of Epidemiology and Community Health,72(8),685-694.   
+Zhang,Z.M.,Liu,H.,& Choi,S.W.(202O).Early-life socioeconomic status,adolescent cognitive ability,and cognition in late midlife: Evidence from the wisconsin longitudinal study.Social Science & Medicine,244, Article e112575. https://doi.org/10.1016/j.socscimed.2019.112575   
+Zhang,Z.,Gu,D.,& Hayward, M. D.(2008).Early life influences on cognitive impairment among oldest old chinese.Journal of Gerontology Series B-Psychological Sciences and Social Sciences,63(1),25-33.
+
+# Childhood Poverty and Cognitive Aging
+
+ZHAO Xin1,2; ZHENG Qiaoping1,2
+
+( KeyLaboratory ofBehavioral and Mental HealthofGansu Province; 2 School ofPsychology,Northwest Normal University,Lanzhou,73oo7o,Cina)
+
+Abstract: How the childhood poverty influences cognitive aging remains controversial. Some studies have shown that childhood poverty can accelerate individual cognitive aging, but other studies have found that childhood poverty can delay individual cognitive aging,which is related to the moderation of social mobility.For poor individuals in childhood,low stability or the downward mobility of socioeconomic status will make the negative effects of adversity accumulate continuously， thus accelerating the cognitive aging of individuals.However, poor childhood individuals with high psychological resilience may promote upward socioeconomic mobility， which will increase the individual's cognitive reserve and enhance specific cognitive abilities,thus delaying cognitive aging. Future research in this field should explore the relationship between childhood subjective poverty and cognitive aging and the influence of childhood poverty on the aging of different cognitive abilities. It should also focus on the survivor bias effect in studies on the relationship between childhood poverty and cognitive aging in later life.
+
+Key words: socioeconomic status; poverty; cognitive aging; social mobility; cognitive reserve

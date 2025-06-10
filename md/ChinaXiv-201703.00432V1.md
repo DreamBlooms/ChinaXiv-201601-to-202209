@@ -1,0 +1,195 @@
+# DOI:10.5846/stxb201510082021
+
+徐崎,李锋,韩宝龙,陶宇.动态适应性生态经济区划模型及其应用.生态学报,2017,37(5):1740-1748.XuCQ,LiFanadtieciatioeldtsaictaolcaca4
+
+# 动态适应性生态经济区划模型及其应用
+
+徐翀崎},²,李锋\*，韩宝龙¹，陶宇}
+
+1中国科学院生态环境研究中心城市与区域国家重点实验室，北京100085  
+2 中国科学院大学，北京100049
+
+摘要;提高城市生态经济区划的精确性和动态性,对科学指导城市化发展具有重要的理论意义和应用价值。利用夜间灯光数据与人口密度建立线性模型,探索了以往用行政区域为最小统计单元数据的模拟细化问题;然后通过引入可变参数构建了动态适应性生态经济区划模型,在增强模型动态适应性的同时,将一级区划结果统一划分为生态管控区域、生态优先区域、优化开发区域和重点开发区域4个区域。以广州市增城区为典型案例,通过改进的动态适应性生态经济区划模型,运用GIS将增城区在两种情景下进行了模拟和对比，并提出了政策建议。区划结果符合当地发展特征，也为其他城市与区域的生态经济区划研究提供了科学方法。
+
+关键词：生态经济区划;人口密度模拟;夜间灯光数据;动态适应性;情景模拟
+
+# Adaptive eco-economic regionalization model and its application
+
+XU Chongqi1,²，LI Feng1,\*，HAN Baolong¹，TAO ${ \mathrm { Y u } ^ { 1 } }$ （20   
+1StateKeLaboratoryofUrbanndRegonalcologResearhenterforcoEniroentalSciences，ChinseAcademyofSciences，ein   
+100085，China   
+2 The University of Chinese Academy of Sciences，Beijing 1Ooo49,China
+
+Abstract：Achieving sustainable urban development during rapidurbanization isoneofthe important issues worldwide.Ecoeconomicregionalization（EER）isacomplexregionalization method fordividing urbanregions intodiferent eco-economic functional zonesbyconsidering awiderangeoflocalenvironmental（water-heatcondition，biodiversity，vegetationcoverage rate，etc.）and socio-economic（gross domestic product（GDP），population density，humanactivity pressure，road network density，etc.）factors.Urbanandregional planing basedonEERmightbebeneficialforlocal environmental protection，as wellas sustainable economic growth.Previous studies have investigated the principles，methods，and ndex system for EER application.However，improving theaccuracyand dynamicadaptabilityof EERisessential inorderto ensure itsapplication tosmallurbanregions.Inthis study,theEERapproach was modified bysimulating populationdensity in urban areas of Zengcheng District，Guangzhou，andanadaptive regionalization model was developedusing remote sensing （RS）and geographical information system（GIS）techniques.Improving the acuracyof raw input data for calculating the indices is important toensure theaccuracyof the EER results.Previously，populationdensity wasaggregatedonan administrativeregional basis，whereas，inthis study，weestimated populationdensitygridbygrid withinthebuilt-uparea of Zengcheng Districtbylinear modelingof thegrayvalue ineachpixelfromtheDefense Meteorological SateliteProgram/ OperationalLinescan Systemnightimelightdata.Acording tothelinear model,thetotalnumberagregatedfromallthese pixels wasqual tothestatisticalpopulationineachadministrativeregion byassumingthatnobodylives outsidethe built-up area.Further,an Adaptive Eco-economic Regionalization model（AEER）was developed for Zengcheng Districtinorder to enhance the dynamicadaptabilityof theEERapproach.Inour AEERmodel，thestudyarea was first divided into four
+
+Zones—ecological conservation zone，ecological priorityzone，development optimizationzone，and keydevelopment zone allowing thecomparisonof EERresultsacross variouscase studyareas.Next,theareaand locationofeach ofthe four zones were determined by introducing six parametersinto theAEER modelso that theresultscould be moreadaptive to local management objectives.Further，two scenarioswere developed for the applicationof this AEER model in Zengcheng District.Ourresults indicated thatthe AEER model yields highlyaccuratezoningresults that are more adaptiveto helocal context.Therefore,thismodel mightbeapowerful tolforurbanandregionalEERapplications inothercityareas.Further, three perspectives have been proposedon improving thecurrent EER model:（1）Producing spatially explicit input data for indexestimation（suchas GDPandavailableresources，both of whichare normallyaggregatedonadministrativeregional basis）is the keyto improving theaccuracyof the zoning results.（2）Theresults fromtheEER modelareonly useful when the zoning processis more adaptive to local management objectives.（3）The zoning resultsshould be presented foreach administrativeregioninorder toobtain strong policyimplications；further,theyshouldbepresentedgridbygridsothatthe vital ecological processes can be better preserved based on this EER approach.
+
+Key Words：eco-economicregionalization；population density simulation；DMSP/OLSnightime lightdata；dynamic adaptability；scenario analysis
+
+快速城市化进程中,许多城市出现了无序的扩张蔓延,社会经济发展与生态环境保护的矛盾日益突出。如何权衡和管理城市复合生态系统的社会、经济、自然等方面[1],保障城市化过程遵循可持续发展原则,依然是当今世界研究的重要课题之一[2]。生态经济区划运用系统分析方法,综合考虑生态经济结构和功能异质性的基础上,从社会经济发展和生态环境保护的角度,将区域划分为不同的生态经济区,并通过不同层次提出系统的生态经济发展方向、途径和对策[3-4]。因此,科学的生态经济区划可以为城市化发展与管理提供科学引导,有利于实现城市社会-经济-自然复合生态系统协调、可持续发展。
+
+生态经济区划也称为生态经济功能区划[5-6],是伴随生态经济学理论的发展,综合考虑生态环境与社会经济等因素逐渐发展起来的区划方法[7-8]。经过多年的研究,相应的区划原则[9]、区划体系[5-6,10]、区划指标[1-13]日益完善,所用到的计算方法[14-15]和3S 技术[4]也不断与时俱进。但是,现有的生态经济区划仍存在许多不足,如区划结果行政边界化、缺乏系统化方案、结果横向可比性差、动态适应性差等。特别是近年来我国提出的生态保护红线[16]、基本生态控制线[17]等概念,进一步强调了区划结果需打破行政边界保留完整的重要生态用地的意义。另外,环境保护部 2015年出台的《生态保护红线划定技术指南》中,还强调了生态保护红线面积可随实际情况不断增加的动态性。因此,在原有基础上进一步提高城市生态经济区划的精确性和动态性，对科学指导城市化发展具有重要的理论意义和应用价值。
+
+因此,本文以广州市增城区为研究对象,在进行城市生态经济区划过程中,将人口密度繁衍数据和动态适应性纳入到生态经济区划模型中，一是为增城区生态经济区划服务，二是探索提高生态经济区划精确性和动态性的方法，三是适当统一区划类型,为增强结果的横向对比性提供参考。
+
+# 1动态适应性生态经济区划
+
+# 1.1 研究区域与数据预处理
+
+增城区位于广东省中部,广州市区东部,珠江三角洲东北角。 $1 1 3 ^ { \circ } 3 2 ^ { \prime } - 1 1 4 ^ { \circ } 0 0 ^ { \prime } \mathrm { E } , 2 3 ^ { \circ } 0 5 ^ { \prime } - 2 3 ^ { \circ } 3 7 ^ { \prime } \mathrm { N } _ { \circ }$ 该区属南亚热带海洋性季风气候区,降雨量北多南少;地处丘陵山地与平原过渡地带,地形北高南低,山地以低山为主;北部山区存在多处地质灾害易发点。其境内水系发达,水资源丰富,现有生态用地比例较大。增城区总的行政面积为 $1 6 1 6 . 4 7 \mathrm { k m } ^ { 2 }$ ,辖区有6个镇(新塘、石滩、中新、派潭、小楼、正果)和3个街道(荔城、增江、朱村）。2013年末,全市户籍总人口85.44万人、生产总值达到989.45亿元,人均生产总值达到94072元。2013年，三大产业结构为5.4:60.61;33.98。
+
+随着广州"东进”战略的加快推进,增城作为广州市重点发展的五大片区之一,相关产业和轨道交通等城市基础设施也在逐渐向增城转移。因此,综合考虑当地的生态系统重要性、社会经济发展以及资源环境承载力的生态经济区划对增城既做好广州的后花园,又能把握机遇加快发展,具有重要的意义。
+
+基础研究资料与底图包括增城区相关部门提供的增城区行政区划图、2013年土地利用分类现状图、2013年卫星遥感影像图、数字高程图(DEM)以及人口、经济、交通、区位、土壤、植被、地质、气象、水文等资料。在ArcGIS软件的支持下，将所有数据进行最小单元为 $3 0 \mathrm { m } \times 3 0 \mathrm { m }$ 的空间网格化,受数据来源制约将部分数据行政边界空间化。收集和派生出的所有数据用于建立社会经济发展度、生态系统保护度、资源环境承载力三大数据库。
+
+# 1.2生态经济区划指标体系与技术路线图
+
+本文结合前人的指标体系[1-13],并综合考虑经济发展水平、人口活动强度[18-19]、区位优势度[20]、生态敏感性与脆弱性[2I-24]、生态系统服务功能重要性[14,25]、资源可利用量[26-27]、环境容量超载度[28-29]等各种指标的计算合理性,整合为社会经济发展度、生态系统保护度以及资源环境承载力三大类来综合评判区划功能。
+
+具体指标体系见表1,模型技术路线图见图1。
+
+表1生态经济区划指标体系  
+Table1 The index system of eco-economic regionalization   
+
+<html><body><table><tr><td>一级指标层 First level indexes</td><td>二级指标层 Second level indexes</td><td>三级指标层 Third level indexes</td><td>基本指标层 Basic indexes</td></tr><tr><td>动态适应性生态经济区 划模型</td><td>社会经济发展度SED[13]</td><td>经济发展水平</td><td>人均GDP、GDP 增长率</td></tr><tr><td>Adaptive eco-economic</td><td></td><td>人口集聚度[18-19]</td><td>人口密度、人口流动强度</td></tr><tr><td>regionalization model</td><td></td><td>区位优势度[20,30]</td><td>交通网络密度、交通干线影响度、受到周围城镇发展水 平影响度</td></tr><tr><td></td><td>生态系统保护度ESP[13]</td><td>生态系统脆弱性[22,24]</td><td>距河流距离、植被覆盖度、地面坡度、地貌类型、土地利 用类型、距道路距离</td></tr><tr><td></td><td></td><td>生态系统服务功能重 要性[25]</td><td>水源涵养重要性、土壤保持重要性、生物多样性分级</td></tr><tr><td></td><td>资源环境承载力REC[13]</td><td>可利用资源量</td><td>可利用水资源量[27]、可利用土地面积[31]</td></tr><tr><td></td><td></td><td>环境容量超载度[28]</td><td>水污染程度（COD、NH4）、大气污染程度（SO、PM10、 PM2.5)</td></tr></table></body></html>
+
+SED：社会经济发展度 Social Economic Development degre;ESP：生态系统保护度Eco-System Protection degre;REC：资源环境承载力
+
+![](images/bc9a6812486ba822baed7647f0692d9a2d866f7db64eacfb8714b5bff3820c60.jpg)  
+图1模型技术路线图  
+Fig.1Technology roadmap of the model
+
+http://www.ecologica.cn
+
+# 1.3基于夜间灯光图的人口密度繁衍数据
+
+影响生态经济区划精度的一项重要制约因素就是存在一些以行政辖区为单位的统计数据,如人口数量、GDP、可利用资源量等。提高区划精度,需尝试将以行政辖区为单位的统计数据进行科学的网格化模拟,提高数据精度。而进行数据的网格化模拟,尤其是社会经济类的统计数据,解决方法之一是找到统计上与之有显著相关关系的栅格数据进行模拟。
+
+鉴于利用DMSP/OLS 遥感数据进行人口密度网格化模拟方面的研究已经有很多,已证明灯光区内灯光强度与人口密度存在显著相关关系[32-35]。并且,人口密度网格化模拟,通过将人口数据按照单位面积的地域网格进行空间表达,相比以行政单元为口径进行的人口数据表达更接近人口实际空间分布,有利于实现人口数据与其它社会统计数据、资源数据、环境数据的复合,提高人口、资源、环境的综合管理能力[19]。因此,本文在前人研究的基础上，结合现有的居住单元边界数据和夜间灯光强度数据,尝试将行政边界统计的人口数据进行人口密度网格化模拟。
+
+下载2013年稳定平均夜间灯光强度图(F182013.v4c_web.stable_lights.avg_vis.tif）,并用ArcGIS 提取增城区作为研究区（图2)。同时提取增城区国土局提供的2013年土地利用现状图中的城市、建制镇、村庄等居住单元边界。参考曹丽琴等[18]与卓莉等[19]的研究成果,将网格中人口数量与平稳夜间灯光强度值进行线性建模,公式如下：
+
+$$
+P D = P \times V _ { \mathrm { l g t } } / \sum V _ { \mathrm { l g t } }
+$$
+
+式中，PD为常住人口密度( $\mathcal { N } \mathrm { k m } ^ { 2 }$ ）； $P$ 为以街镇行政单元为单位统计的年末常住人口; $V _ { \mathrm { l g t } }$ 为单元网格上稳定平均夜间灯光强度值,取值范围0—63； $\sum V _ { \mathrm { l g t } }$ 为以街镇行政单元为单位的人居边界内的灯光强度之和。
+
+运用该模型模拟各街镇内部常住人口密度结果如图3所示,增城区常住人口多集中在工业发达的南部地区和市区周围,而北部山区人口较少,与实际情况相符。因此该方法在市域范围内能较好的反映人口的分布趋势和聚集状况,又能准确的区别居住区与非居住区,对于提高生态经济发展度指标的准确性具有重要意义。
+
+![](images/9ea5723ccd10b6dfb6ea4527f852e2fcfbeb0c8f37440e058b8b6526c789c1bb.jpg)  
+图2增城区稳定平均夜间灯光强度图  
+Fig.2Stable average nighttime light data of Zengcheng
+
+![](images/ba5c454eb5f0b38d402e13886ddb0fdcfa0a8d0dab2f38d8a71fda4a5222435b.jpg)  
+图3增城区常住人口密度图  
+Fig.3Resident population density of Zengcheng
+
+# 1.4动态适应性生态经济区划模型
+
+对于城市生态经济区划,既要和实际情况有一定程度的吻合，又能对不合理的现状提出科学的依据,还可以对未来的规划提供科学参考。另外,不论是城市现状本身,还是城市对于未来的规划管理目标,始终都处于动态变化之中。为解决实际情况与规划需求灵活多变的现象,增加生态经济区划模型的动态适应性显得十分必要。因此,本文综合考虑多种因素,利用ArcGIS构建了动态适应性生态经济区划模型（表2）,试图将城市生态经济区划中一级区划方法系统化;同时通过引人可调参数,可根据需要调整各个分区的比例,并确定其空间区位,增加模型的适应性和实用性。模型区划类型所涵盖的现状和未来发展趋势详见表3。
+
+Table 2 Adaptive eco-economic regionalization model   
+
+<html><body><table><tr><td></td><td>生态经济发展现状</td><td>社会经济发展度）</td><td>生态系统保护P)</td><td></td><td></td></tr><tr><td>AEER=f(SED-ESP,</td><td>β） SED-ESP ≤β</td><td>SED≤βSED</td><td>ESP>βESP</td><td>REC≤βREC1</td><td>生态管控区域</td></tr><tr><td rowspan="6">REC)</td><td></td><td></td><td></td><td>REC>βREC1</td><td>生态优先区域</td></tr><tr><td>β<SED-ESP≤β</td><td>SED≤βSED</td><td>ESP≤βESP</td><td>REC≤βREC2</td><td>优化开发区域</td></tr><tr><td></td><td></td><td></td><td>REC>β REC2</td><td>重点开发区域</td></tr><tr><td></td><td>SED>βSED</td><td>ESP>βESP</td><td>REC≤βREC1</td><td>生态优先区域</td></tr><tr><td></td><td></td><td></td><td>REC>βREC1</td><td>优化开发区域</td></tr><tr><td rowspan="3">SED-ESP>β2</td><td>SED>βSED</td><td>ESP≤βEsP</td><td>REC≤βREC2 REC>βREC2</td><td>优化开发区域</td></tr><tr><td></td><td></td><td></td><td></td><td>重点开发区域</td></tr></table></body></html>
+
+$\beta _ { 1 } \sqrt { \beta _ { 2 } }$ ;划分当地现状主导功能的阈值 ${ \mathrm { \Omega } } { ; } \beta _ { \mathrm { S E D } }$ ：划分当地社会经济发展度强弱阈值： ${ \displaystyle \langle \beta _ { \mathrm { E S P } } }$ ：划分当地生态系统保护度强弱阈值； ${ \displaystyle : \beta _ { \mathrm { R E C 1 } } \ , \beta _ { \mathrm { R E C 2 } } }$ ：分别为在当地生态系统保护度强和弱的情况下，区分当地资源环境承载力强弱的阈值
+
+表2动态适应性生态经济区划模型  
+表3区划类型发展现状及未来发展对策  
+Table3Present situation and future development suggestions for different regionalization types   
+
+<html><body><table><tr><td>区划类型 Regionalization types</td><td>发展现状 Present situation</td><td>发展对策 Future development suggestions</td></tr><tr><td>生态管控区域 Ecological conservation zone</td><td>资源环境承载力很弱</td><td>以生态保护为主,社会经济未充分发展,且继续以生态保护为主，做为城市的永久生态 用地</td></tr><tr><td>生态优先区域 Ecological priority zone</td><td>以生态保护为主，或经济发展程度较低但资 源环境承载力较强，或经济发展程度较高但 资源环境承载力变差</td><td>以生态保护为主，适度开发建设的前提是必须 维护保持社会经济建设与资源环境承载力的 平衡</td></tr><tr><td>优化开发区域 Development optimization zone</td><td>资源环境承载力较强</td><td>生态系统保护度不强，且资源环境承载力较应在现有的经济发展方式和结构上进行优化， 差;或经济发展与生态保护达到了双赢，且提高资源利用率,减轻环境污染，同时将强生 态环境的保护</td></tr><tr><td>重点开发区域 Key development zone</td><td>生态系统脆弱性较差，提供的生态系统服务 功能也较弱，且资源环境承载力较强</td><td>应作为以后城市建设发展的重点区域</td></tr></table></body></html>
+
+模型结果通过三步运算得到：
+
+Step 1计算生态经济发展现状值,由表2中社会经济发展度指标和生态系统保护度指标相减得到。两项指标的计算方法均直接引用王森[13]的研究成果，指标值均为空间网格化数据且取值范围相同。生态经济发展现状值的结果可分为四种情况(表2),值越高说明该研究单元现状是偏向社会经济发展，反之则是偏向生态系统保护,而值处于中间则可能是当地经济发展和生态保护达到了双赢,也可能是两者均缺乏。
+
+Step 2在 step1的四种情况下,分别考虑当地的资源环境承载力状况。资源环境承载力计算方法直接引用王森[13]的研究成果,取值越大说明资源可利用量相对较多而环境污染程度相对较低,值越小则相反。最终，模型将所有情况归并为八大类。
+
+Step 3将八类结果依据实际情况和保护原则归并为四类一级区域：生态管控区域、生态优先区域、优化开发区域和重点开发区域。
+
+运用适应性生态经济区划模型进行一级区划分类,可充分考虑管理部门对于本区域生态保护用地和建设发展用地面积比例的需求,调节模型中的 $\beta _ { 1 } \sqrt { \beta } _ { 2 } \sqrt { \beta } _ { \mathrm { S E D } } \sqrt { \beta } _ { \mathrm { E S P } } \sqrt { \beta } _ { \mathrm { R E C 1 } } \sqrt { \beta } _ { \mathrm { R E C 2 } }$ 等参数,从而控制各个一级分区的面积比例,增加了模型的灵活性,但又不失科学性和精确性。利用 ArcGIS 进行模型构建,调整参数时,可实现快速视图，增强了模型的直观性和实用性。
+
+# 2实证结果分析
+
+# 2.1基于动态适应性区划的情景分析
+
+为了对动态适应性生态经济区划模型进行验证,本文选取了两种情景(表4)进行模拟。情景1为增城区生态用地有关数据的现状值,可用来进行模型准确性验证;情景2为模拟达到生态县要求的增城区生态用地相关数据,用来进行模型动态适应性验证。在情景分析中，“受保护地区占国土比例"指辖区内各类(级)自然保护区、风景名胜区、森林公园、地质公园、生态功能保护区、水源保护区、封山育林地等面积占全部陆地（湿地)面积的百分比,此区域从结构和功能角度应划为区划类型中的生态管控区域。“生态用地面积占国土面积比例"则是林地、草地、水体等生态用地占全部陆地(湿地)面积的百分比,此区域绝大部分应划入生态管控区域和生态优先区域。因此,两个情景的主要区别在于需按照不同比例划定生态管控区域和生态优先区域，并明确其对应的空间区位。
+
+表4情景分析  
+Table 4 Scenario analysis   
+
+<html><body><table><tr><td>情景 Scenarios</td><td>受保护地区占国土比例/% The proportion of protected land</td><td>生态用地面积占国土面积比例/% The proportion of ecological land</td></tr><tr><td>增城区现状(情景1)</td><td>22</td><td>43</td></tr><tr><td>The present situation of Zengcheng District（scenario 1)</td><td></td><td></td></tr><tr><td>生态县要求(情景2) The demand of building Ecological County（scenario 2)</td><td>30</td><td>50</td></tr></table></body></html>
+
+若增城区未来生态环境发展以保持现状为主（情景1),则其生态管控区域约占国土比例的 $2 2 \%$ ,生态优先区域约占国土面积比例为 $2 1 \%$ ,对应区划如图4所示。与实际状况进行对比,增城北部山区现有的自然风景区、森林公园以及海拔高、坡度陡、地面起伏度大的区域、派潭河的源头等重要的生态用地均包括在生态管控区域中。而生态优先区域则涵盖了植被覆盖度较高，与现有城镇化较强区域的过渡区域。可见,动态适应性生态经济区划模型模拟的准确性较好。
+
+若增城区以低碳生态城市为发展目标,参考环保部《生态县、生态市、生态省建设指标》以及增城区十二五的远期规划（情景2）,则其生态管控区域占国土比例应提高至约 $30 \%$ ,生态优先区域约占国土面积的 $20 \%$ ，区划结果如图4所示。与情景1相比,生态管控区域的比例增大,而生态优先区域的比例基本保持不变。从区域的空间分布来看，情景2中生态管控区域面积完全包含情景1中的生态管控区域,并围绕其边缘连续的扩张。通过实际验证,扩张的区域也以生态系统服务功能强或者生态脆弱性高的区域优先。另外,由于生态管控区域的增大,即使生态优先区域的面积未发生显著改变,但是其空间区位却发生了很大变化。情景2中生态优先区域除了涵盖了未被生态管控区域的增大而吞并的情景1中生态优先区域范围外,还将一部分紧邻的优化开发区域划分过来。但是,在生态优先区域中间依然包含了部分优化开发区域,实际的村庄和建制镇得以保留和体现出来。因此,模型结果在保持动态适应性的同时,仍然保留了细节,具有较好的准确性。
+
+![](images/6351cf47edde9880c6c5abc4804c053faa23fd8d16625ccc166d8830be344055.jpg)  
+图4生态经济分区一级区划图  
+Fig.4First level eco-economic regions
+
+# 2.2实证区划结果与政策建议
+
+本文参考增城区构建低碳生态城市的规划目标,采用自下而上的方法,对地形、地貌、降雨、植被等自然生态因子和人口、经济、交通等社会经济因子层层运算并进行聚类,综合考虑水污染、可利用土地面积等资源环境承载力指标,并运用上述适应性生态经济区划模型,通过专家讨论确定模型中的各个参数,得到了生态经济分区一级区划图(图4）。各个区面积比为重点开发区域:优化开发区域:生态优先区域:生态管控区域 $= 1 5 { : } 2 7$ =27:31。在此基础上综合考虑行政边界和土地利用类型、地形等自然边界,结合当地的实际发展状况,自上而下进行进一步划分,定性分析得到生态经济分区二级区划（图5、表5）,并明确了各个二级分区的主要发展方向，提出了相关建议。
+
+# 表5生态经济分区二级区划
+
+Table 5Second level eco-economic regions   
+
+<html><body><table><tr><td>一级分区</td><td>二级分区</td></tr><tr><td>First level eco-economic regions I重点开发区域</td><td>Second level eco-economic regions</td></tr><tr><td>Key development zone</td><td>I-1南部新型生态产业区；I-2西部生态物流区</td></tr><tr><td>Ⅱ优化开发区域 Development optimization zone</td><td>II-1中部城市复合功能区；II-2南部城市生态工业区；II-3中部特色生态农业区</td></tr><tr><td>II生态优先区域</td><td>III-1北部低山丘陵生态旅游区；III-2西福河上游水源涵养区;</td></tr><tr><td>Ecological priority zone</td><td>III-3增城林场生态涵养区；III-4增江街东部生态缓冲区</td></tr><tr><td>IV 生态管控区域</td><td>IV-1派潭河源头生态功能保护区；IV-2东部畲族生态文化保护区；IV-3二龙河水源涵养生态</td></tr><tr><td>Ecological conservation zone</td><td>功能区</td></tr></table></body></html>
+
+例如，II-2南部城市生态工业区，是增城区的工商业集中区，发展程度较高，资源消耗量大，生产加工工业和排污口集中，水污染和大气污染最为严重。因此，该区在保证经济发展的同时，应以提高河湖水质和空气质量为目标，对现有的产业布局、生产工艺、绿色隔离带等进行优化。具体来说，对于当地支柱产业牛仔服装制造业，要规范行业准入，提高现有印染加工工艺，集中管理印染工厂，加装废气处理装置，可适当修建针对印染污水的小型污水处理厂。在工业集中开发区周围要建立绿化隔离带，降低对周围居民的噪声影响。产业结构方面,依托当地的国家级经济技术开发区，引进一些节能高科技产业，逐步淘汰高能耗高污染企业。同时适当增加商业服务业用地、居住用地比例,改造农村居民点用地，提高城市化水平，改善民生环境，促进土地集约节约利用，提升城镇形象。
+
+IV-1派潭河源头生态功能保护区，地势起伏大、坡度陡，生物多样性高，发挥着重要的水源涵养和土壤保持的功能。由于自然景观资源丰富，包含多个森林公园和白水寨风景区，应作为永久生态用地予以保护，避免人口聚集，杜绝工业。同时，依靠当地丰富独特的自然景观和资源，合理规划当地旅游业的发展。对于当地与旅游相关的配套基础设施应选择合适的工程措施进行低影响、低程度开发,使得其对环境的扰动减小。对于农家乐的数量和生活垃圾的排放应做好严格控制,制定相应奖惩措施并加强监管,避免当地环境承受过大的压力。
+
+![](images/485d4c04404dae2ec703adb83057dc5e14958bfa4469c1df213e686eeae6cca5.jpg)  
+图5生态经济分区二级区划图  
+Fig.5Second level eco-economic regions
+
+# 3结论与讨论
+
+综上所述,本文首先利用夜间灯光数据与人口密度建立线性模型,探索了以行政区域为最小统计单元数据的模拟细化问题;然后通过引入可变参数构建了动态适应性生态经济区划模型,在增强模型动态适应性的同时,将一级区划结果统一划分为生态管控区域、生态优先区域、优化开发区域和重点开发区域四个区域。最后以增城区为案例进行了情景模拟,验证模型的精确性和动态性,并进行了分析与政策建议。
+
+与以往研究相比，本文提出的人口密度模型方法避免了单独利用夜间灯管数据通过寻找灯光强度值阈值来确定人口分布范围的误差,将街镇行政辖区统计的人口数据准确分布到人口聚集区,简单有效的提高了空间范围上人口分布数据的精确性。对于人口聚集区内部则通过灯光强度和人口数据成正比的线性关系[18]进行建模,进一步优化人口聚集区内部的人口分布状况。由于该模型适用范围是最小的人口统计单位,即本文中的街镇行政单元,因此还可以有效的避免不同街镇之间因为经济发展差异而造成的夜间灯光强度与人口分布数量对应关系存在差异的现象。另外,运用ArcGIS 构建的动态适应性生态经济区划模型,将一级区划结果统一分为四类,既增强了区划方案的系统性,又有利于各地区划的横向对比。一级区划结果还打破了行政边界的限制,保留了重要生态过程的完整性,也能体现行政单位内部功能差异。模型中还可以通过结合当地的规划管理目标,调节模型参数,进而调整各个区域的比例,进一步增强了模型的灵活性和实用性。
+
+虽然,经过我国学者30 多年的研究,生态经济区划原则、方法和指标已经日渐成熟[4,6.9,12,15]。但是,随着区划结果精确度和可操作性的要求则越来越高,别特是市(县)域中小尺度的区划,今后还应从以下几方面进行进一步改进和创新。（1)运用GIS技术,尽可能的摆脱区划指标行政边界化,将指标数据依据真实情况进行合理空间网格化。数据空间精细化程度越高,与真实情况越接近,区划结果精度也越高,操作性越强。(2)依据研究区域的实际情况对区划指标进行筛选和调整,同时结合当地的战略规划,将目标管理机制引入指标的计算过程中,进一步提高区划精度和可用性。（3)生态经济区划方案系统化,发展“自上而下"分化和“自下而上"聚类相结合的区划方法,而不是对指标数据进行简单的聚类。分区结果既要考虑到行政边界，有利于行政边界间的相互比较,又要考虑到自然经济发展边界,有利于行政边界内的实际区划与管理。
+
+# 参考文献（References）：
+
+[1］马世骏，王如松.社会-经济-自然复合生态系统.生态学报，1984，4(1)：1-9.  
+［2］王如松,李锋，韩宝龙，黄和平，尹科.城市复合生态及生态空间管理.生态学报,2014,34(1)：1-11.  
+[3] 卞有生.生态示范区、生态县、生态市、生态省建设规划编制导则.环境保护，2003，（10)：22-26.  
+[4] 高群，毛汉英.基于GIS 的三峡库区云阳县生态经济区划.生态学报，2003，23(1)：74-81.  
+[5］樊自立，叶茂，徐海量，乔木，张青青，张鹏.新疆玛纳斯河流域生态经济功能区划研究.干旱区地理，2010,33（4）：493-501.  
+[6］王传胜，范振军，董锁成，薛东前，李泽辉.生态经济区划研究——以西北6省为例.生态学报，2005，25（7)：1804-1810.  
+［7］高群.国外生态—经济系统整合模型研究进展.自然资源学报，2003，18（3）：375-384.  
+[8]Common M,Perings C.Towardsanecological economicsof sustainability.Ecological Economics，1992,6(1）：7-34.  
+[9］生态学研究中心生态区划组.生态经济区划原则（讨论稿).生态学报，1983，3（2)：102-120.  
+[10] 孟令尧.城市生态经济区划—以承德市为例.地理学与国土研究，1994，10(1)：36-41.  
+[11]ZhangQF，WuFQ，WangL,YuanLF,ZhaoL.AplicatioofPCAintegratedwithCAadGSico-coomicregionaliztioofCeseLoess Plateau.Ecological Economics，2011，70(6）：1051-1056.  
+[12］李勇，肖笃宁.辽宁三角洲区域生态经济分区及其功能分析.应用生态学报，1995,6(S1)：105-111.  
+［13］王森.基于生态环境与社会经济的生态经济区划研究[D].太原：太原理工大学，2010.  
+[4]BaiYugHouaidclaltitalsidChina.Environmental Earth Sciences，2014，71(8）：3715-3726.  
+[15］黄和平，彭小琳，孔凡斌，张利国.鄱阳湖生态经济区生态经济指数评价.生态学报，2014，34(11)：3107-3114.  
+[16] 高吉喜.国家生态保护红线体系建设构想.环境保护，2014，42(2/3)：18-21.  
+[17] 盛鸣.从规划编制到政策设计：深圳市基本生态控制线的实证研究与思考.城市规划学刊，2010，（7）：48-53.  
+[18] 曹丽琴，李平湘，张良培.基于DMSP/OLS夜间灯光数据的城市人口估算——以湖北省各县市为例.遥感信息，2009,（1）：83-87.  
+[19] 卓莉，陈晋，史培军，辜智慧，范一大，一之濑俊明.基于夜间灯光数据的中国人口密度模拟.地理学报,2005，42（2)：266-276.  
+[20] 徐明德，王森.基于道路和城镇的区位优势度分析.世界地理研究，,2009，18(4)：91-99.  
+[21] 程红芳，章文波，陈锋.植被覆盖度遥感估算方法研究进展.国土资源遥感，2008，（1)：13-18.  
+[22］邱彭华，徐颂军，谢跟踪，唐本安，毕华，余龙师.基于景观格局和生态敏感性的海南西部地区生态脆弱性分析.生态学报，2007，27(4):1257-1264.  
+[23］杨秀梅.基于GIS 的地质灾害危险性评价［D].兰州：兰州大学，2008.  
+[24] 杨志峰，徐俏，何孟常，毛显强，鱼京善.城市生态敏感性分析.中国环境科学，2002，22(4)：73-77.  
+[25］李月臣，刘春霞，闵婕，王才军，张虹，汪洋.三峡库区生态系统服务功能重要性评价.生态学报，2013，33（1)：168-178.  
+[26]LiF,YY,SonBW，WangRSEluatiofubansuitableologcalanddonhiulatieesistaceodelsestudy from Changzhou，China.Ecological Modelling，2015，318：194-203.  
+[27］胡彩虹，吴泽宁，高军省，席献军.区域水资源可利用量研究.干旱区地理，2010,33（3）：404-410.  
+[28] 邓伟．山区资源环境承载力研究现状与关键问题.地理研究，2010,29(6)：959-969.  
+[29] LiuHM.Compreesivecaingapacityfterbnagomerationieangtzeivereltahina.HabitatInteatioal，6（4)：462-470.  
+［30］张新，刘海炜，董文，陈华斌，池天河.省级主体功能区划的交通优势度的分析与应用——以河北省为例.地球信息科学学报，2011,13(2)：170-176,280-280.  
+[31］徐勇，汤青，樊杰，刘若梅，周艺.主体功能区划可利用土地资源指标项及其算法.地理研究，2010,29（7)：1223-1232.  
+[32]AmaralS，MonteioAMV,CmaraG,QuintaniJA.SP/OSgtiligtiageryforurbaopatioestiatesinerailianAmazon.International Journal of Remote Sensing，2006,27(5/6）：855-870.  
+[]LoCPodehlatofCigatoaligdtaaeicgg&oig，2001,67(9)：1037-1047.  
+[34]ZhuoL,inoseT,ZhengJ，henJ,hiJ,LiX.ModelingthpopulationdenitofCinaattepiellevelbaseonD/Soradiance-calibrated night-time light images.International Journal of Remote Sensing,2O09,3O(4）：1003-1018.  
+[35]SutonelpulaositigteligedutesvotdUbSsts99/4227- 244.

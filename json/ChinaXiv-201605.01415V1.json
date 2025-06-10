@@ -1,0 +1,398 @@
+[
+    {
+        "type": "text",
+        "text": "A Novel Motion-on-Color Paradigm for Isolating Magnocellular Pathway Function in Preperimetric Glaucoma ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wen Wen,1-3 Peng Zhang,4 Tingting Liu,1 Ting Zhang,1 Jian Gao,5 Xinghuai Sun,1-3.6   \nand Sheng He4,7   \n1DepartmentofOphthalmology&VisualSience,Eye&ENHospital,Shanghaiedical Collge,FudanUniversityangn   \n2Key Laboratory of Myopia, Ministry of Health, Fudan University, Shanghai, China   \n3Shanghai Key Laboratory of Visual Impairment and Restoration, Fudan University, Shanghai, China   \n4State Key Laboratoryof Brainand Cognitive Science,Institute of Biophysics,Chinese Academyof Sciences,Beijing,China   \n5Center of Clinical Epidemiology and Evidence-based Medicine, Fudan University, Shanghai, China   \n6State Key Laboratoryof Medical Neurobiology, Institutes of BrainScience,Fudan UniversityShanghai China   \n7Department of Psychology, University of Minnesota, Minneapolis, Minnesota, United States ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Correspondence:Xinghuai Sun,Department of Ophthalmology& Visual Science,Eye&ENThospital,Fudan University, 83FenyangRd., Shanghai 200031, China;   \nxhsun@shmu.edu.cn.   \nSheng He,State Key Laboratory of Brain and Cognitive Sciences,IBP, 15 Datun Road, Chaoyang District,   \nBeijing 100101,China   \nand   \nDepartment of Psychology,University of Minnesota, 75 East River Rd., Minneapolis,MN55455,USA;   \nsheng@umn.edu. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Submitted: January7,2015   \nAccepted:May20,2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation:Wen W, Zhang P, Liu T, et al. A novel motion-on-color paradigm for isolating magnocellular pathway function in preperimetric glaucoma. Invest OpbtbalmolVisSci.2015;56:4439- 4446.DOI:10.1167/iovs.15-16394 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PURPOSE.This study investigated a novel motion-on-color paradigm to functionally isolate the magnocellular pathway and evaluate its diagnostic value in preperimetric glaucoma patients. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "METHoDs.Thirty patients with preperimetric primary open-angle glaucoma and 30 controls participated in this study. They were tested in both the foveal and peripheral locations. Contrast sensitivity was assessed for the direction discrimination of a moving luminancemodulated grating presented on top of a red/green isoluminant grating.The moving test grating was designed to target the magnocellular pathway,while the background red/green isoluminant grating was designed to saturate the parvocelular pathway. The luminancemodulated grating was presented at spatial frequency of O.5 cyc/deg, moving horizontally at four temporal frequencies $( 3 ~ \\mathrm { H z } , 8 ~ \\mathrm { H z } , 1 5 ~ \\mathrm { H z } , 2 5 ~ \\mathrm { H z } )$ .Participants were asked to indicate the direction of motion for the luminance grating. As a comparison condition,frequency-doubling stimuli were also presented in the periphery and participants were asked to detect the occurrence of the frequency-doubled pattern. Two-way repeated-measures analysis of variance was performed with temporal frequency modulations as within-subject factor and group as between-subject factor,while contrast sensitivity was the dependent variable. Receiver operating characteristic (ROC） analysis was used to characterize diagnostic performance of the new procedure in comparison with the frequency-doubling tests for preperimetric glaucoma. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "REsULTs.The contrast sensitivity function in both the fovea and the periphery showed an inverted “V” shape with highest sensitivity in the intermediate temporal frequencies, consistent with physiological properties of the magnocellular pathway. At the fovea, compared to the control group,the sensitivity for the glaucoma patients was slightly but not significantlyreduced $( P > 0 . 0 5 )$ ,and there wasno significantinteraction between groups and temporal frequency $( P > 0 . 0 5 )$ . In the periphery,patients’sensitivity was significantly lower $( P < 0 . 0 0 1 )$ than that of normal participants,especially in high temporal frequencies,as supported by a statistically significant interaction between groups and temporal frequency $( P$ $< 0 . 0 0 1 )$ . The areas under ROC curves (AUROC) obtained for the motion-on-color paradigm in the periphery were 0.957( $( 2 5 ~ \\mathrm { H z } )$ ,0.870 (15 Hz), 0.758 (8 Hz),and 0.561 (3 Hz) and were 0.761 for the traditional frequency-doubling test. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CoNCLUsioNs.The motion-on-color paradigm revealed a loss of contrast sensitivity in the peripheral visual field in preperimetric glaucoma.When applied with stimuli at high temporal frequency，the new paradigm had higher diagnostic sensitivity and specificity than the traditional frequency-doubling test. The findings also support the viewpoint that selective evaluation of magnocellular pathway function could facilitate the earlier detection of functional defects in glaucoma before visual field defects by standard perimetry. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:psychophysics,glaucoma,magnocellular/parvocellular ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "laucoma is one of the leading causes of irreversible Jblindness worldwide. Late diagnosis is a significant risk factor for low vision and blindness in glaucoma.Definite diagnosis of glaucoma generally relies on findings of structural damage of the optic nerve combined with deficits of visual function. Nowadays,structural imaging techniques such as confocal scanning laser ophthalmoscopy, scanning laser polarimetry, and optical coherence tomography $( \\mathrm { O C T } ) ^ { 1 , 2 }$ have been extensively used to aid the evaluation of retinal nerve fiber layer defects.In terms of functional assessment,since glaucomatous optic neuropathy would be missed by standard automated perimetry (SAP) in $54 \\%$ of glaucoma patients,it is important to find more sensitive paradigms for the detection of preperimetric functional damage. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Both the large cell loss theory of glaucoma4-6 and the hypothesis of “reduced redundancy\"7 predict that selective perimetric techniques such as frequency-doubling technology (FDT） and motion perimetry targeting the magnocellular pathway(M-pathway）could be more effective than SAP to provide earlier detection of functional deficits.Frequencydoubling illusion occurs when a sinusoidal grating with low spatial frequency is modulated in a counterphase way at high temporal frequencies，due to the nonlinear luminance response function in the visual system.Maddess et al.8.9 attributed this visual illusion to a class of magnocellular ganglion cells, $\\mathbf { M } _ { \\mathrm { y } }$ cells,which resemble Y-cells of cats in their linearity response property,and these primate Y-cells (the smooth monostratified cells） have recently been found.10-12 Although evidence supports the advantage of FDT over SAP in detecting early glaucomatous defects,13 recent studies implied that it may isolate mechanisms similar to those isolated bya spatially uniform flickering patch,and it may stimulate Mpathway no better than Goldmann size II stimuli.14,15 Motion perimetry, localized random-dot kinematograms with varying degrees of coherence on a uniform gray background presented in different locations,was also designed to test the sensitivity of magnocellular ganglion cells.16-i8 But some scholars have questioned the selectivity of this functional tool because the parvocellular pathway(P-pathway） is also capable of processing motion information.19 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "With the goal to measure M-pathway response with minimal contribution fromP-pathway,we developed a novel M-pathway isolating strategy, named the motion-on-color paradigm,and investigated its sensitivity and specificity in diagnosis of preperimetric glaucoma patients. Since the parasol ganglion cells(also called M- or MC-cells) transmit low-contrast luminance information with high temporal frequency and low spatial frequency and the midget ganglion cells (also termed $\\mathbf { P } \\mathrm { - }$ or PC-cells）convey color information with low temporal frequency and high spatial frequency,2o-2 the key element in this new approach is to measure the sensitivity of the magnocellular system while rendering the P-pathway saturated using a high-contrast chromatic background.Our study addressed two main questions:whether earlyglaucomatous loss could be detected by the new M-pathway isolating strategy and whether the new paradigm has higher diagnostic value than the FDT. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "METHODS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Participants ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Thirty patients with preperimetric primary open-angle glaucoma(POAG）and 3O control subjects participated. These two groups of participants were age and sex matched,with approximately matched refractive errors.Age in the glaucoma group was $4 0 . 0 ~ \\pm ~ 3 . 3 4$ years (mean $\\pm \\ \\mathrm { s D } \\rangle$ .All participants were enrolled in both the peripheral experiment on motionon-color paradigm and the frequency-doubling experiment, while 2O participants from each group were enrolled in the foveal experiment. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Glaucoma participants were recruited from the Glaucoma Clinic of the Eye and ENT Hospital of Fudan University (Shanghai,China).The research followed the tenets of the Declaration of Helsinki, and all procedures and protocols were approved by the human subjects review committee of the Eye and ENT Hospital of Fudan University,Shanghai,China.All participants gave written informed consent before experiments.Both glaucoma and control participants were required to be free of a history of intraocular surgery，cataract, secondary causes of elevated IOP (e.g., corticosteroid induced, trauma,iridocyclitis),other diseases impairing the visual field (e.g.，diabetic retinopathy， pituitary neoplasms)，and any systemic diseases known to affect visual function or $\\mathbf { M } \\mathbf { - } / \\mathbf { P } .$ pathway function (e.g.,migraine,congenital color deficiencies).Before experiments,all the glaucoma and control participants received comprehensive ophthalmologic examinations including best-corrected visual acuity,applanation tonometry,direct ophthalmoscopy,digital fundus photography,B-ultrasonic examination,OCT,and SAP. They needed to have best-corrected visual acuity of at least 2O/25 and to have refractive errors no greater than $\\pm 5 . 0 0$ diopters (D） sphere with no more than $2 . 0 0 \\mathrm { ~ D ~ }$ cylinder. Preperimetric glaucoma was characterized by glaucomatous optic neuropathy (GON) and reliable and reproducible normal visual field.Glaucomatous optic neuropathy was identified by any of the following signs:neuroretinal rim thinning,notching,excavation,retinal nerve fiber layer defects,or asymmetry or vertical cup-to-disc $\\geq 0 . 2$ between the two eyes.23 The GON was judged by two glaucoma specialists independently，and inconsistencies between thetwo specialistswereadjudicatedbya third glaucoma specialist. Only one eye of each patient and the matched eye of eachnormal control were tested in our study.If both eyes in one patient conformed to the inclusion criteria,one eye was randomly selected to be tested in the study. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Each glaucoma patient performed SAP before experimentation with the Octopus 9OO perimeter (Haag-Streit,Koeniz, Switzerland),G standard white/white TOP program.Reliable visual field results were defined as $\\leq 3 3 \\%$ false positives, $\\leq 3 3 \\%$ false negatives,reliability factor $\\leq 1 5 \\%$ ，and pupil diameter $\\geq 3 ~ \\mathrm { m m }$ .Visual field tests were defined as abnormal when they met one of the following conditions:（1） presence ofthree or more adjacent points in the superior or inferior field with $P < 5 \\%$ probability of normal range and one or more pointswith $P < 1 \\%$ probability of normal range; $\\left( 2 \\right)$ presence of two or more adjacent points with $P < 1 \\%$ probability of normal range and one or more points with $P < 2 \\%$ probability. Each subject underwent two visual field tests at two consecutive visits;and if both visual field tests reached the same conclusions (with/without glaucomatous visual field defects),they were regarded as reproducible or repeatable visual field tests.Patients with at least one eye having GON with normal visual field results were enrolled in our study. Optical coherence tomography was performed with RTvue100 Fourier-domain OCT (Optovue, Inc.,Fremont,CA,USA) and the standard glaucoma protocol was used,including a three-dimensional optic disc scan for definition of the disc margin，an optic nerve head (ONH) scan，and a standard ganglion cell complex(GCC) scan. The ONH scan wasused to image and analyze the peripapillary nerve fiber layer (ppNFL), which would include nearly all the axons of ganglion cells, while the GCC scan measured the summation of three layers in the macula: the nerve fiber layer, the ganglion cell layer,and theinner plexiform layer,whichwere onbehalfof the ganglion cell axons,the ganglion cell bodies,and the ganglion cell dendrites,respectively.24-26 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "VisualFieldLocationsfor Tests ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experiments were performed in either central or peripheral visual fields.Peripheral conditions utilized stimuli presented at $1 2 ^ { \\circ }$ from fixation in whichever quadrant of the nasal visual field (superior or inferior) had the most advanced GON as assessed ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DownloadedFrom: htp://ovs.arvojournals.org/pdfaccess.ashx?url=/data/Journals/IOVS/934219/on04/10/2016 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "by direct observation and OCT. These are possibly the regions most vulnerable to early glaucomatous loss. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Apparatus and Calibration ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Stimuli were generated and controlled by MATLAB (MathWorks，Inc.，Nattick，MA，USA）with Psychophysics Toolbox extensions,27,28 running on a MacBook Pro computer (Apple, Cupertino,CA,USA) and displayed ona 22-inch HP(HewlettPackard Company，Palo Alto，CA，USA）123O monitor. The monitor had a pixel resolution of $1 0 2 4 \\times 7 6 8$ Spectroradiometric calibration was performed on three phosphors of the monitor with a spectroradiometer (Konica CS-1oOA;Konica Minolta, Inc.,Tokyo, Japan). The MATLAB with Psychophysics Toolbox extensions were also used in the phosphor calibrations and colorimetric calculations. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Stimuli and Procedures ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Experiment 1: Motion-on-Color Paradigm. The frame rate of the monitor was set at $6 0 ~ \\mathrm { H z }$ in most conditions of experiment 1 with the exception of $1 0 0 ~ \\mathrm { H z }$ for the $2 5 \\mathrm { - H z }$ condition. The background stimulus was a red/green squarewave gratingwith vertically oriented stripes,extending $2 ^ { \\bar { \\circ } } \\times 2 ^ { \\circ }$ in the fovea with spatial frequency of 2.5 cyc/deg, or extending $5 ^ { \\circ } \\times 5 ^ { \\circ }$ with spatial frequency of 1 cyc/deg in the periphery. The peripheral stimulus was presented on the diagonal meridians,and the center of the stimulus was $1 2 ^ { \\circ }$ away from the fixation. The chromatic gratings,used to saturate the $\\mathrm  \\bf P - \\mathrm  \\bf ~ P - \\mathrm  \\bf ~ P - \\mathrm  \\bf ~ P - \\mathrm  \\bf ~ P - \\mathrm  \\bf ~ P - \\mathrm  \\bf ~ P - \\mathrm  \\bf ~ P - \\mathrm  \\bf ~ P - \\mathrm  \\bf ~ P - \\mathrm  \\bf ~ \\ c ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\delta ~ \\cdot ~ \\mathrm  ~ \\bf ~ \\$ pathway, were made isoluminant at approximately $1 5 \\ \\mathrm { c d } / \\mathrm { m } ^ { 2 }$ by heterochromatic flicker photometry for each participant before experiments.During experiments, the phase of red/ green grating alternated every half trial $( 5 0 0 ~ \\mathrm { ~ m s } )$ to avoid between-trial buildup of adaptation,while the luminance of the grating was modulated sinusoidally at O.5 cyc/deg and moved randomly either to the right or the left (see Equation1). Thus the final stimulus was an achromatic sine wave grating drifting horizontally on top of the chromatic grating (Fig.1). The luminance-modulated grating drifted at four temporal frequencies $( 3 ~ \\mathrm { H z } , ~ 8 ~ \\mathrm { H z } , ~ 1 5 ~ \\mathrm { H z } , ~ 2 5 ~ \\mathrm { H z } )$ in the periphery and three temporal frequencies $( 3 ~ \\mathrm { H z } , ~ 8 ~ \\mathrm { H z } , ~ 1 5 ~ \\mathrm { H z } )$ in the fovea. The luminance contrasts were specified as Michelson contrasts [(Lmax-Lmin) $/ ( L m a x + L m i n ) ]$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL ( x , t ) = L m + A s i n [ 2 \\pi ( f _ { s } x + f _ { r } t ) ] g ( t )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Where $f _ { s }$ is the drift spatial frequency, $f _ { r }$ is the drift temporal frequency $3 \\ \\mathrm { H z } , 8 \\ \\mathrm { H z } , 1 5 \\ \\mathrm { H z } , 2 5 \\ \\mathrm { H z } )$ ，and $g ( t ) = 1 + \\mathrm { c o s } \\ ( 2 \\pi / T )$ where $T$ is the presentation time ( $\\mathrm { 1 0 0 0 ~ m s } ,$ .Lmisthemean luminance $( 1 5 \\mathrm { c d } / \\mathrm { m } ^ { 2 } )$ ,and $A$ is the amplitude luminance of the grating. If $x$ is within the red column of the grating, $A$ should be modulated only in the red gun. The same is true for $x$ within the green column. The overall background was yellow with the same luminance as the mean luminance of stimuli. Presumably theP-pathway was driven primarily by the high-contrast color modulation; the detection of motion of the low-contrast luminance grating was supported mainly by M-pathway. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Experiment 2: Frequency-Doubling Test. The frequency-doubling test was generated on the same monitor except that the frame rate was changed to $1 0 0 ~ \\mathrm { H z }$ The spatialtemporal properties of the frequency-doubling stimuli used here were similar to those of commercial frequency-doubling perimetry (24-2).Each stimulus subtended $\\bar { 5 } ^ { \\circ } \\times 5 ^ { \\circ }$ with a spatial frequency of O.5 cyc/deg and a temporal frequency of $2 5 \\mathrm { { H z } }$ .The total stimulus duration was $7 2 0 \\mathrm { m s }$ ,including a 160- ms interval in which the frequency-doubling stimulus contrast was ramped up to the test contrast,a 4Oo-ms duration at the contrast，and a 16o-ms interval ramped down to zero contrast.14 The participants were asked to respond when they detected the occurrence of the frequency-doubled pattern. The location of frequency-doubling stimuli was chosen only in the peripheral field, the same location as the peripheral target in experiment 1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Procedures.During experiments, the participants sat in a dimlylit roomat $5 5 \\ \\mathrm { c m }$ away from thedisplayand viewed the stimuli monocularly. Participants’head positions were fixed with the help of a chin rest.A black eye patch covered the nontested eye.The participants wore their normal distance spectacle correction for the entire experiment.In each trial of experiment 1,the stimulus was presented for 1 second,after which the participants' task was to identify the direction of the moving grating，left or right.A 3-up-1-down staircase $( 7 9 \\%$ correct performance level)29 with binary-choice procedure wasused to determine the contrast threshold of the luminancedrifting grating in experiment 1 or the contrast threshold in experiment 2.The starting contrast was also set at $2 5 \\%$ .When participants made three correct responses，the luminance contrast would be decreased by $10 \\%$ ；for one incorrect response it was increased by $10 \\%$ .The staircase ended up with1O reversals,and the average of the mean of the last six reversals was taken as the threshold.Each condition in each location was repeated twice.Auditory feedback regarding inaccuracy was provided. The sequence of runs was assigned randomly,and the entire experiment for each participant lasted approximately1 hour, including short breaks between runs. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Data Analysis and Statistics.All data are presented in terms of contrast sensitivity，which was calculated using Equation 2. ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { C o n t r a s t ~ S e n s i t i v i t y } = 1 / \\mathrm { C o n t r a s t ~ T h r e s h o l d }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The glaucoma and control groups’performance in experiment 1 were compared using two-way, repeated-measures analyses of variance(RMANOvA) with test conditions (temporal frequency modulations) as within-subject factor, group as between-subject factor,and contrast sensitivity as the dependent variable.An independent t-test was used to compare the groups in the frequency-doubling test. Receiver operating characteristic (ROC) analysis was used to characterize diagnostic performance of the new procedures and frequencydoubling tests for preperimetric glaucoma. A perfect procedure would have the best diagnostic value with an area under curve(AUROC)of1( $100 \\%$ sensitivity and $100 \\%$ specificity at the appropriate cutoff value),whereas a procedure with no diagnostic value wouldhave an AUROC around O.5.The larger the AUROC,the higher the diagnostic capabilities of the test. The RMANOVA was performed with SPSS Statistics (International Business Machines Corp.,Armonk,NY,USA),and ROC analysis was performed with MedCalc (MedCalc Software, Ostend，Belgium） software. $\\begin{array} { l } { P \\ < \\ 0 . 0 5 } \\end{array}$ was regarded as statistically significant. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Contrast Sensitivity in the Fovea ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 2A shows the foveal performance for glaucoma (red symbols, $n = 2 0 _ { , }$ ）and normal participants (blue symbols, $n =$ 20).Mean contrast sensitivities $( \\pm 9 5 \\%$ confidence interval [CI])are shown for the three temporal frequency conditions. Both groups demonstrated inverted V-shaped curves with the highest contrast sensitivity in the intermediate temporal frequency condition $( 8 \\ \\mathrm { ~ H z } )$ ．There was no significant difference between the normal participants and those with glaucoma $( F ~ [ 1 , 3 8 ] ~ = ~ 1 . 6 7 2$ ，not significant [n.s.]).Not surprisingly, there were significant differences across temporal frequencies $( F \\ [ 2 , 7 6 ] = 6 9 . 4 8 5$ 5 $P < 0 . 0 0 1 \\mathrm { \\Omega }$ ,but there was no significant interaction between groups and temporal frequency $( F \\left[ 2 , 7 6 \\right] = 2 . 0 1 2$ ，n.s.). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e389162e04bfaf26988b432e47b430112d1f5f9a541483594222b45ddf4149a.jpg",
+        "img_caption": [
+            "FIGURE1Iustratoofteotioolorparadigm.(A)ShematicofstiuusposionnginfearintheperiperyInthepiperal condition,teusspreseedoteagoalmeridasiinteperororferorasalvisualfeldgiosostuabltaly glaucomatous loss.The black crosswas presented in thecenterofthe screenas fixation,andthecenters ofthe stimuli were $1 2 ^ { \\circ }$ away from the fixation. The stimulus was presented for $1 0 0 0 ~ \\mathrm { { m s } }$ in duration with a sinusoidal temporal window (Equation 1),and participants were instructed to respond. $\\mathbf { \\left( B \\right) }$ Stimulusconfguration.Thebasisof thestimulus isacombinationofanisoluminantred/greensquare-wavegratingwithverticaly orientedtrips.ThelminanceoftegratigasodulatedsinusdallinspatialfequcyofO.5ccdegadinfoutmpoalfreency conditions (3 Hz,8 Hz, $1 5 ~ \\mathrm { H z }$ 25 Hz). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/84e1e2d286f94d989d5796c5628232cec92a0e156204f24f1252c6aaa0f28ea1.jpg",
+        "img_caption": [
+            "FGURE2.Contrastsesitityasfunctiooftemporalfequencyaveragedforthegaucoa group(edandtheagematchedolgoup (blue). The error bars represent $9 5 \\%$ CI of the mean for each group. (A) Contrast sensitivityin fovea. (B) Contrast sensitivity in the periphery. (C) Scaterdiagasofmotioonolorparadigndfrequecydoublingparadigmiperiperallocationforthetogroupseozotalns indicate the cutoff values for each condition described in the ROC analysis in Figure 3. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1639056f7e2f94c794c3a49f73203eb6bbd4a349ab37683eb299790a0a13c633.jpg",
+        "img_caption": [
+            "FIGURE3.ROCofmotionocolorparadigandfquencyoublingparadigm.heareasbetwnlghtcuresindicatethecofdenceteal (CI) for the ROC curve; the value of the AUROC and its $9 5 \\%$ CI are givenunder tbe $4 5 ^ { \\circ }$ line.(A) ROC of motion-on-color paradigm in the foveal location.(B)ROsofotoadfreqecoubgparadintealcatiooasctsabesAgosup with increase of temporal frequencies; AUROC for $2 5 \\mathrm { - H z }$ condition in the periphery is much higher than that for the frequency-doubling paradigm. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Contrast Sensitivity in Peripheral Locations ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Of 30 glaucoma patients,18 were tested in the inferior nasal visual field and12 were tested in the superior nasal visual field. The test length of each run in the motion-on-color paradigm waswithin 2.5 minutes.Figure 2B compares the performance of glaucoma (red symbols, $n = 3 0 .$ ）and normal participants (blue symbols, $n = 3 0 ,$ )forperipherally presented stimuli.Mean contrast sensitivities ( $1 \\%$ CI) obtained with the motion-oncolor paradigm are shown for four temporal frequency conditions $( 3 \\mathrm { \\ H z } , \\mathrm { \\ 8 \\ H z } , \\mathrm { \\ 1 5 \\ H z } , \\mathrm { \\ 2 5 \\ H z } )$ . Both groups again demonstrated inverted V-shaped curves with the highest contrast sensitivity in the intermediate temporal frequency condition $( 8 ~ \\mathrm { H z } )$ .Patients showed significantly lower contrast sensitivities than normal participants $( F \\ [ 1 , 5 8 ] = 3 5 . 8 3 8$ ， $P <$ 0.001). There was a significant difference among the four temporal frequency conditions $( F [ 3 , 1 7 4 ] = 2 9 . 8 1 7$ ， $\\textit { P } <$ 0.001)，as well as a significant interaction between the temporal frequency and groups $( F \\ [ 3 , 1 7 4 ] \\ = \\ 1 4 . 0 7 5$ ， $P <$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "0.001).Independent t-tests showed significant differences between the two groups in the $\\mathbf { 8 \\mathrm { - } H z }$ ， $1 5 \\mathrm { - H z }$ ，and $2 5 \\mathrm { - H z }$ conditions $( P < 0 . 0 0 1 )$ .At the same peripheral locations,the mean contrast sensitivities obtained with the frequencydoubling stimuli were 24.69 (22.43-26.94，lower $9 5 \\%$ CIupper $9 5 \\%$ CI) in control group and 16.82(13.58-20.07,lower $9 5 \\%$ CI-upper $9 5 \\%$ CI) in the patient group. Independent $t$ -test showed a significant difference between the two groups $( t$ [58] $= 4 . 0 6 7$ $P < 0 . 0 0 1 \\rangle$ .Figure 2C showsthe contrast sensitivities in the peripheral location for control and patient groups in the form of scatter diagrams to facilitate the comparison between the motion-on-color paradigm and frequency-doubling paradigm.The horizontal lines indicate the cutoff values for each condition described in ROC analysis below.Itis apparent that the $2 5 \\mathrm { - H z }$ test condition of the new paradigm yielded the best segregation between the control and patient groups. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ROC Analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The ROC curves for the new paradigm and frequency-doubling conditions in the foveal and peripheral visual field are shown in Figure3.The AUROC values,the cutoff values with the best simultaneous sensitivity and specificity for motion-on-color and frequency-doubling paradigms,are listed in the Table.Among all conditions in the peripheral location, significant diagnostic valuescanbe found at $8 ~ \\mathrm { H z }$ 1 $\\mathrm { \\langle A U R O C = 0 . 7 5 8 }$ ， $P = 0 . 0 0 0 1 \\mathrm { \\rangle }$ ，15 （20 $\\mathrm { H z \\ ( A U R O C = 0 . 8 7 0 }$ P $P < 0 . 0 0 0 1 \\$ ） $2 5 \\ : \\mathrm { H z }$ $\\mathbf { \\langle A U R O C = 0 . 9 5 7 }$ 、 $P <$ 0.0001)，and the frequency-doubling paradigm $( \\mathbf { A U R O C } \\ =$ 0.761, $P = 0 . 0 0 0 1 \\rangle$ ； onlyaweak diagnosticvalue canbe found in the 8-Hz condition $( \\mathrm { A U R O C } = 0 . 6 9 0$ ， $P = 0 . 0 3 3 1 \\mathrm { \\cdot }$ ）offoveal tests.Pairwise comparison of ROC curves (DeLong's method) showed that in the peripheral location the $2 5 \\mathrm { - H z }$ condition of the new paradigm had significantly higher diagnostic capacity than the frequency-doubling paradigm $( P < 0 . 0 1 )$ ，the 8-Hz condition $( P ~ < ~ 0 . 0 1 )$ ，and the $3 { \\cdot } \\mathrm { H z }$ condition $( P \\mathrm { ~ < ~ } 0 . 0 0 1 )$ _ while no significant difference could be found between other conditions of the new paradigm and the frequency-doubling paradigm $( P > 0 . 0 5 )$ . ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/9620c0c97b3cfe1d95311bb81b93e6dfce2e0b97009944be6b9f28c7fb9fccec.jpg",
+        "table_caption": [
+            "TABLE。AUROC Values Obtained for Motion-on-Color Paradigm and Frequency-Doubling Paradigm "
+        ],
+        "table_footnote": [
+            "\\* Indicates statistical significance $( P < 0 . 0 5 )$ "
+        ],
+        "table_body": "<html><body><table><tr><td>Paradigm</td><td>AUROC</td><td>SE</td><td>95% CI</td><td>P Value</td><td>Cutoff Value</td><td>Sensitivity, %</td><td>Specificity, %</td></tr><tr><td>Motion-on-color paradigm</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Foveal location</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3 Hz</td><td>0.553</td><td>0.096</td><td>0.387-0.710</td><td>0.5825</td><td>18.76</td><td>40.00</td><td>80.00</td></tr><tr><td>8 Hz</td><td>0.690</td><td>0.090</td><td>0.524-0.826</td><td>0.0331*</td><td>27.86</td><td>65.00</td><td>80.00</td></tr><tr><td>15 Hz</td><td>0.508</td><td>0.095</td><td>0.345-0.669</td><td>0.5950</td><td>18.315</td><td>15.00</td><td>70.00</td></tr><tr><td>Peripheral location</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3 Hz</td><td>0.561</td><td>0.0794</td><td>0.426-0.689</td><td>0.4456</td><td>16.81</td><td>53.33</td><td>76.67</td></tr><tr><td>8Hz</td><td>0.758</td><td>0.0640</td><td>0.630-0.860</td><td>0.0001*</td><td>17.01</td><td>63.33</td><td>90.00</td></tr><tr><td>15 Hz</td><td>0.870</td><td>0.0517</td><td>0.758-0.943</td><td><0.0001*</td><td>12.71</td><td>80.00</td><td>96.67</td></tr><tr><td>25 Hz</td><td>0.957</td><td>0.0260</td><td>0.870-0.992</td><td><0.0001*</td><td>12.71</td><td>96.67</td><td>86.67</td></tr><tr><td>Frequency-doubling paradigm</td><td>0.761</td><td>0.0658</td><td>0.634-0.862</td><td>0.0001*</td><td>14.06</td><td>60.00</td><td>96.67</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this study,a new M-pathway-isolating paradigm was used to measure visual performance in preperimetric glaucoma patients as well as normal controls.Results show that when high temporal frequency tests were used to target the M-pathway, the new procedure had more diagnostic power compared to the traditional frequency-doubling test. The reduced sensitivity of the patient group for high temporal frequency motion signal with minimal involvement of the parvocellular system also provides support to the idea that preperimetric glaucomatous changes have more to do with the parasol retinal ganglion cells. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the new paradigm,P-pathway is saturated by a highcontrast isoluminant chromatic background pattern,leaving the detection of fast motion signal of alow-contrast luminance pattern supported by the M-pathway. Our results showing an inverted V shape of temporal contrast sensitivity in both control participants and patients Were consistent with the temporal response properties of the M-pathway,as observed in physiological studies demonstrating a band pass response for M-cells (peaking at approximately $8 \\mathrm { - } 1 0 ~ \\mathrm { ~ H z } )$ ）and low-pass response for P-cells.3o.3i Our results are also consistent with contrast sensitivity measured in macaque monkeys with selective lesions of the parvocellular layers of the Lateral Geniculate Nucleus (LGN),32 in which reduced sensitivity for low temporal frequency can be found. This supports that the newpsychophysical paradigm was effective in isolating the Mpathway function. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In experiment 1,both foveal and peripheral locations with normal visual field asassessed by SAP were selected for tests to see if the new paradigm could detect preperimetric dysfunction in glaucoma patients.Indeed, contrast sensitivity deficits could be found in the peripheral visual field while foveal performance was not affected in preperimetric glaucoma. This pattern of results is in agreement with the consensus that glaucomatous damage first occurs in peripheral retina, although some studies have reported that foveal visual function (e.g.，contrast sensitivity）can be impaired to some extent despite good visual acuity.33 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the peripheral location,patients performed worse at high temporal frequencies,while the deficit was minimal at low temporal frequency (Fig.2).This pattern of results is consistent with the selective M-pathway damage theory,since M-pathway contributes more in the high temporal frequency condition.34 Willis and Anderson35 measured contrast sensitivity for the direction discrimination of low spatial frequency (0.5 cyc/deg),and temporal-modulated $( 4 \\mathrm { - } 2 4 ~ \\mathrm { H z } )$ sinusoidal gratings in POAG patients with near-normal visual fields in the fovea and the periphery. Their stimuli were similar to ours with the exception that we added the P-pathway-saturating background. The rate of decline in sensitivity to motion was consistently greater in the POAG group,but no significant differences in mean sensitivity were found between glaucoma and age-matched control groups for any of the conditions used in their study.35 We suspect that their measurements included contributions from residual functions of the parvocellular neurons.With P-pathway saturated with the isoluminant background,our paradigm has the advantage of isolating the M-pathway function,making it more sensitive to differences between patients and controls in mid and high temporal frequency conditions. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The original frequency-doubling stimulus and FDT N30 used $1 0 ^ { \\circ }$ targets with a spatial frequency of O.25 cyc/deg undergoing $2 5 \\mathrm { - H z }$ counterphase flickering. The FDT 24-2 test wasperformed in the Humphrey Matrix(Carl Zeiss Meditec, Dublin，CA，USA）with smaller stimuli $( 5 ^ { \\circ } )$ having a spatial frequency of O.5 cyc/deg and a temporal frequency of 18 Hz.36-39 Johnson et al.36 showed that the sensitivity of FDT to glaucomatous loss was maintained using the smaller stimuli in Humphrey Matrix 24-2.The work of Racette et al.37 showed no difference between FDT 24-2 $( 5 ^ { \\circ }$ stimuli with a spatial frequencyofO.5cyc/deg)andFDTN-30（ ${ \\cdot } { 1 0 } ^ { \\circ }$ stimuli with a spatial frequency of O.25 cyc/deg) in discriminating between healthy and glaucomatous eyes.In our study，we adopted frequency-doubling stimuli with the same size $( 5 ^ { \\circ } )$ and spatial frequency (O.5 cyc/deg) as the motion-on-color stimuli,and these parameters were similar to the pattern used in Humphrey Matrix 24-2，though with a higher temporal frequency of $2 5 ~ \\mathrm { { \\ H z } }$ .The results of Rosli et al.4o seem to suggest that the spatiotemporal frequency combination 0.5 cyc/deg, $2 5 ~ \\mathrm { H z }$ would yield an approximately $70 \\%$ chance of seeing the frequency doubling illusion at high contrast,with the highest in their study being $90 \\%$ .Their data also seem to suggest that at $2 5 ~ \\mathrm { H z }$ ，the chance of seeing FD with spatial frequency at O.5 cyc/deg is slightly smaller (maybe $10 \\%$ smaller） than with spatial frequency at $0 . 2 5$ cyc/deg. The parameters used for the FD in our study may not be the most optimal,and there is the possibility that with different parameters used, one could potentially drive different underlying mechanisms. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In our study, it was reassuring that the frequency-doubling paradigm could distinguish performance between patients and normal controls,and the AUROC(O.761) obtained in our study was consistent with previous studies conducted in preperi metric to early glaucoma patients (0.685-0.774).37,41 Importantly,our newparadigm yields significantlyhigher diagnostic values at high temporal frequencies,especially in the $2 5 \\mathrm { - H z }$ condition.The preselected testing quadrant,based on the indication of structural damage according to GON,presumably helped to increase diagnostic value of both the new procedure and the frequency-doubling paradigm.The relationship between the new paradigm and OCT parameters such as RNFL or GCC will benefit from further investigation to verify the structure-function correspondence. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "At least a dozen kinds of low-density ganglion cells that project to LGN have been identified in this decade,such as smooth monostratified cells and blue-off/yellow-on cells. According to recent work by Crook et al.,1112 primate smooth monostratified cells,which were reported to share many physiological properties with parasol cells but with smaller cell bodyandlargerdendritic and receptive fields,weremore likely projected to the M layer of LGN as well.Since smooth monostratified cells exhibit Y-like nonlinearity,whereas parasol cells lack characteristic frequency-doubling responses,12 the frequency-doubling paradigm is more likely measuring responses of a small part of M-cells (the smooth monostratified cells).Given that the smooth monostratified cells also showed high achromatic contrast gain and temporal frequency ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DownloadedFrom: htp:/iovs.arvojournals.org/pdfaccess.ashx?url=/data/Journals/IOVS/934219/on 04/10/2016 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "responses above $1 0 \\mathrm { H z }$ ,we speculate that it is possible that the smooth monostratified cells also react to the motion-on-color paradigm. It is not clear how the blue-off/yellow-on cells transmit signals from retina to LGN,since some experiments showed that the blue-off cells had connections with midget-PC pathway,42,43 predicting that the blue-off cells may form part of theP-pathway,while subsequent research indicated that a portion of these blue-off cells were located in the koniocellular layers.44 Considering that the projection and physiological properties of most newfound ganglion cells are not completely known yet and midget/parasol cells are still considered the main components of the two pathways,for now we choose to follow the traditional usage of“M-pathway/P-pathway” to denote the parasol-M pathway/midget-P pathway. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In conclusion,we have developed a novel psychophysical paradigm,named motion-on-color paradigm,to measure Mpathway function in isolation.Results support the validity of this approach in that the selective evaluation of M-pathway function could facilitate the earlier detection of ganglion cell loss in glaucoma before the development of visual field defects with standard clinical perimetry. The new paradigm had a higher diagnostic value than the frequency-doubling paradigm. Therelationship between the functional deficits in the new paradigm and structural damage in glaucoma will be the subject of further investigations. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Supported byNational Nature Science Foundation of China Grants (81020108017,81123002), the State Key Program of the National Natural Science Foundation of China (8143ooO7)，the National Health and Family Planning Commission of China (2o13o2015), and a Chinese Academy of Science Grant (XDBo2o5ooo1).The sponsor or funding organization had no role in the design or conduct of this research. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Disclosure:W. Wen，None;P. Zhang，None; T. Liu, None；T. Zhang,None; J.Gao,None; X. Sun, None;S.He, None ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.Leung CK. Diagnosing glaucoma progression with optical coherence tomography. Curr Opin Opbtbalmol. 2014;25: 104-111.   \n2.Mansouri K,Leite MT,Medeiros FA,Leung CK,Weinreb RN. Assessment of rates of structural change in glaucoma using imaging technologies. Eye.2011;25:269-277.   \n3.Sample PA，Bosworth CF,Blumenthal EZ,Girkin C,Weinreb RN. Visual function-specific perimetry for indirect comparison of different ganglion cell populations in glaucoma. Invest Opbtbalmol Vis Sci.2000;41:1783-1790.   \n4.Quigley HA,Dunkelberger GR,Green WR.Chronic human glaucoma causing selectively greater loss of large optic nerve fibers. Opbtbalmology. 1988;95:357-363.   \n5.Weber AJ,Chen H,Hubbard WC,Kaufman PL.Experimental glaucoma and cell size,density,and number in the primate lateral geniculate nucleus.Invest Opbtbalmol Vis Sci.2o00;41: 1370-1379.   \n6.Ito Y, Shimazawa M, Chen YN,etal.Morphological changes in the visual pathway induced by experimental glaucoma in Japanese monkeys. Exp Eye Res. 2009;89:246-255.   \n7.Johnson CA. Selective versus nonselective losses in glaucoma. J Glaucoma.1994;3(suppl1):S32-S44.   \n8.Maddess T,GoldbergI,DobinsonJ,Wine S,Welsh AH, James AC. Testing for glaucoma with the spatial frequency doubling illusion. Visi0n Res. 1999;39:4258-4273.   \n9.Maddess T,Henry GH.Performance of nonlinear visual units in ocular hypertension and glaucoma.Clin Vis Science.1992;7: 371-383.   \n10.Petrusca D,Grivich MI,Sher A，et al. Identification and characterization of a Y-like primate retinal ganglion cell type. $J$ Neurosci. 2007;27:11019-11027.   \n11.Crook JD，Peterson BB，Packer OS，et al．The smooth monostratified ganglion cell: evidence for spatial diversity in the Y-cell pathway to the lateral geniculate nucleus and superior collculus in the macaque monkey. J Neurosci. 2008; 28:12654-12671.   \n12.Crook JD，Peterson BB，Packer OS,Robinson FR,Troy JB, Dacey DM. Y-cell receptive field and collicular projection of parasol ganglion cells in macaque monkey retina. J Neurosci. 2008;28:11277-11291.   \n13． Sponsel WE, Arango S, Trigo Y, Mensah J. Clinical classification of glaucomatous visual field loss by frequency doubling perimetry. Am J Opbtbalmol. 1998;125:830-836.   \n14.White AJ, Sun H, Swanson WH,Lee BB.An examination of physiological mechanisms underlying the frequency-doubling illusion. Invest Opbtbalmol Vis Sci.2002;43:3590-3599.   \n15. Anderson AJ, Johnson CA. Mechanisms isolated by frequencydoubling technology perimetry. Invest Opbtbalmol Vis Sci. 2002;43:398-401.   \n16.Bosworth CF, Sample PA， Weinreb RN.Perimetric motion thresholds are elevated in glaucoma suspects and glaucoma patients.Vision Res.1997;37:1989-1997.   \n17.Bosworth CF Sample PA, Gupta N, Bathija R,Weinreb RN. Motion automated perimetry identifies early glaucomatous field defects. Arcb Opbtbalmol. 1998;116:1153-1158.   \n18.Bullimore MA，Wood JM, Swenson K. Motion perception in glaucoma.Invest Opbtbalmol Vis Sci.1993;34:3526-3533.   \n19. Schiller PH, Logothetis NK. The color-opponent and broadband channels of the primate visual system. Trends Neurosci. 1990;13:392-398.   \n20.Silveira LC, Saito CA,Lee BB, et al. Morphology and physiology of primate M-and P-cells.Prog Brain Res.2004;144:21-46.   \n21.Rodieck RW,Binmoeller KF, Dineen J. Parasol and midget ganglion cells of the human retina. J Comp Neurol. 1985;233: 115-132.   \n22. Callaway EM. Structure and function of parallel pathways in the primate early visual system. J Pbysiol. 2005;566(pt 1):13- 19.   \n23.Sample PA，Medeiros FA，Racette L， et al. Identifying glaucomatous vision loss with visual-function-specific perimetry in the diagnostic innovations in glaucoma study. Invest Opbtbalmol Vis Sci.2006;47:3381-3389.   \n24.Guedes V, Schuman JS, Hertzmark E, et al. Optical coherence tomography measurement of macular and nerve fiber layer thickness in normal and glaucomatous human eyes. Opbtbalmology. 2003;110:177-189.   \n25. Chen J, Huang H, Wang M, Sun X, Qian S. Fourier domain OCT measurement of macular,macular ganglion cell complex,and peripapillary RNFL thickness in glaucomatous Chinese eyes. EurJ Opbtbalmol. 2012;22:972-979.   \n26.Wolstein G, Schuman JS,Price LL,et al. Optical coherence tomography (OCT） macular and peripapillary retinal nerve fiber layer measurements and automated visual fields. Am $J$ Opbtbalmol. 2004;138:218-225.   \n27.Pelli DG. The VideoToolbox software for visual psychophysics: transforming numbers into movies. Spat Vis. i997;10:437- 442.   \n28.Brainard DH. The Psychophysics Toolbox. Spat Vis. 1997;10: 433-436.   \n29.Wetherill GB,Levitt H. Sequential estimation of points on a psychometric function.BrJMatb Stat Psycbol.1965;18:1-10.   \n30.Merigan WH, Byrne CE, Maunsell JH. Does primate motion perception depend on the magnocellular pathway? J Neurosci. 1991;11:3422-3429.   \n31.Merigan WH,Katz LM,Maunsell JH.The effects of parvocellular lateral geniculate lesions on the acuity and contrast sensitivity of macaque monkeys. J Neurosci. 1991;11:994-   \n1001.   \n32.Merigan WH,Maunsell JH.Macaque vision after magnocellular lateral geniculate lesions. Vis Neurosci. 199o;5:347-352.   \n33.LahavK,Levkovitch-VerbinH,Belkin M,GlovinskyY,PolatU. Reduced mesopic and photopic foveal contrast sensitivity in glaucoma. Arcb Opbtbalmol.2011;129:16-22.   \n34.Merigan WH,Maunsell JH.How parallel are the primate visual pathways? Annu Rev Neurosci.1993;16:369-402.   \n35.Willis A，Anderson SJ. Effects of glaucoma and aging on photopic and scotopic motion perception.Invest Opbtbalmol Vis Sci. 2000;41:325-335.   \n36.Johnson CA,Cioffi GA,Van Buskirk EM.Frequency doubling technology perimetry using a 24-2 stimulus presentation pattern. Opt0m Vis Sci.1999;76:571-581.   \n37.Racette L，Medeiros FA，Zangwill LM,Ng D,Weinreb RN, Sample PA.Diagnostic accuracy of the Matrix 24-2 and original N-3O frequency-doubling technology tests compared with standard automated perimetry. Invest Opbtbalmol Vis Sci.   \n2008;49:954-960.   \n38. Choi JA,Lee NY, Park CK. Interpretation of the Humphrey Matrix 24-2 test in the diagnosis of preperimetric glaucoma. JpnJ Opbtbalmol. 2009;53:24-30.   \n39.Mastropasqua L,Brusini P, Carpineto P,et al.Humphrey matrix frequency doubling technology perimetry and optical coherence tomographymeasurement of the retinal nerve fiber layer thickness in both normal and ocular hypertensive subjects. $J$ Glauc0ma. 2006;15:328-335.   \n40.Rosli Y,Bedford SM，Maddess T. Low-spatial-frequency channels and the spatial frequency-doubling illusion.Invest Opbtbalmol Vis Sci. 2009;50:1956-1963.   \n41.Horn FK,Mardin CY,Bendschneider D, Junemann AG,Adler W, Tornow RP.Frequency doubling technique perimetry and spectral domain optical coherence tomography in patients with early glaucoma. Eye. 2011;25:17-29.   \n42.Klug K,Herr S,Ngo IT, Sterling P, Schein S.Macaque retina contains an S-cone OFF midget pathway.J Neurosci. 2o03;23: 9881-9887.   \n43.Lee SC,Telkes I,Grunert U. S-cones do not contribute to the OFF-midget pathway in the retina of the marmoset,Callithrix jacchus.EurJNeurosci.2005;22:437-447.   \n44.Szmajda BA,Buzas P, Fitzgibbon T, Martin PR.Geniculocortical relayof blue-off signals in the primate visual system.Proc Natl Acad SciUSA. 2006;103:19512-19517. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

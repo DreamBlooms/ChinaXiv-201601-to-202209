@@ -1,0 +1,579 @@
+[
+    {
+        "type": "text",
+        "text": "裂壶藻脂肪酸合酶途径合成多不饱和脂肪酸的研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "马淑霞1³张玲²闫晋飞1\\*\\*游松",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1国家海洋局天津海水淡化与综合利用研究所天津3001922首都儿科研究所附属儿童医院，检验中心北京1000203.沈阳药科大学 沈阳110016)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Study on the synthesis of Polyunsaturated Fatty Acids by fatty acid synthase pathway of Schizochytrium sp. ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MA Shu-xia 1， ZHANG Ling YAN Jin-fei1 YOU Song 3 (1The Institute of Seawater Desalination and Comprehensive Utilization,SOA Tianjin 300192,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.Children’s Hospital,Capital Institute Of Pediatrics BeiJing 100020,China, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3.Shenyang Pharmaceutical University Shenyang 11oo16,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：裂壶藻作为一种生产DHA 的重要菌种，其脂肪酸合成途径除了已经被广泛了解的聚酮合酶（PKS）途径外，还残存着作为真核微生物中常见的脂肪酸合酶（FAS）途径中的功能酶和中间产物。经过前期的研究，运用基因工程手段，将载有与裂壶藻近缘藻种中已知的△12-desaturase表达模块和相关筛选标记构建入载体，通过电击转化导入Schizochytriumsp.ATCC2088中，以期望修复裂壶藻中FAS 途径合成的合成能力由气相色谱分析转化。通过分子水平检测确定目的功能基因已稳定转化后，再株油脂中相关脂肪酸含量分布情况。经过长期筛选验证，最终证明获得了两株阳性转化株，其生物量初步测定分别较野生株提高11. $14 \\%$ 和4. $12 \\%$ ，其油脂中DHA含量分别较野生株提高了 $1 9 . 5 0 \\%$ 及 $1 4 . 6 5 \\%$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 基因工程 脂肪酸合酶途径 裂壶藻 DHA",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract As an excellent species for the production of DHA， Schizochytrium sp. has two distinct pathways for producing DHA, fatty acid synthase pathway and polyketide synthase pathway， of which fatty acid synthase pathway played limited role in the DHA synthesis process due to its low activity of one or more of the enzymes, resulted in its only responsible for some short chain fatty acid synthesis. In order to enhance the ability of fatty acid synthase pathway for producing DHA in Schizochytrium sp. to improve the DHA content of its oil， the exogenous △12-desaturase expression plasmid with screening markers for Schizochytrium sp.ATCC20888 from the brown algae was constructed, then Schizochytrium sp. were transformed through electroporation. After long-term screening， two positive transformants were obtained by DNA and RNA identification. Their initial biomass measurements were 11. $1 4 \\%$ and $4 . 1 2 \\%$ higher than the wild strains while the DHA content in oils and fats were $1 9 . 5 0 \\%$ and $1 4 . 6 5 \\%$ higher than the wild strains. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words Genetic Engineering Fatty Acid Synthase Pathway Schizochytrium sp. DHA ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DHA（二十二碳六烯酸）作为人体的必须脂肪酸之一，是人类的大脑，大脑皮层、皮肤和视网膜的重要组成部分，合理应用能够提高人类的认知能力、降低心血管疾病风险、抵抗炎症等[。目前DHA广泛应用于保健品、食品添加剂、饲料等，随着人们生活水平的提高，对 DHA的需求也日益增加。DHA主要有两种来源：鱼油和微藻油；微藻油相比鱼油要安全、稳定，人体代谢吸收率高，无异味，重金属含量低，对环境更友好，因而寻找高产DHA 的藻种具有重要的意义[2]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "裂壶藻具有生长繁殖快、发酵周期短、不饱和脂肪酸组成简单、DHA含量高、品质好、易于提取以及对人畜无毒害等特点，是目前最佳 DHA工业化生产藻种之一[3]。裂壶藻内脂肪酸代谢存在脂肪酸合酶（FAS）和聚酮合酶（PKS）两条途径[4，10]，FAS 途径是以乙酰coA、丙二酸单酰coA为底物，首先在FAS复合酶的作用下生成软脂酸，又在碳链延长酶作用下生成硬脂酸，随后在一系列脱氢酶/延长酶（ $\\Delta 9 ^ { - }$ -desaturase、△12-desaturase、△$6 -$ desaturase、 $\\Delta 5 -$ desaturase、△4-desaturase、 $\\mathrm { n } { - } 3$ desaturase及一些延长酶等）作用下生成包括终产物DHA在内的一系列不饱和脂肪酸；PKS途径则是PKS 多酶复合体以乙酰-辅酶A和丙二酸单酰cOA为底物，通过形成一系列酯酰中间体最终生成EPA和DHA；PKS途径通常省略了FAS 循环中的脱水步骤，烯脂酰中间体减少，整个途径中生成含有酮基和羟基的中间体,两者最终生成 DHA 的中间产物不同。同时，研究表明[4-11]，裂壶藻合成 DHA 主要依靠 PKS 途径，FAS 途径由于其某个或某些功能酶的活性低下在裂壶藻 DHA合成过程中作用有限，只负责一些短链脂肪酸的合成。其中，2009年，Lippmeier等通过放射性脂肪酸标记追踪以及色谱分析技术对PKS 途径基因缺陷型 Schizochytrium sp.ATCC20888的表型分析，指出裂壶藻中FAS脂肪酸合成途径无法正常运作的原因可能是由于FAS途径中 $\\Delta$ 12-desaturase 活性过低导致的。2015年，Ren等[将外源 $\\omega - 3$ desaturase基因成功转入Schizochytrium sp. HX $- 3 0 8$ ，通过分析转化株脂肪酸组成，发现 $\\omega - 3$ desaturase 外源基因的引入使裂壶藻脂肪酸代谢朝着有利于DHA合成的方向进行，证明了通过改造裂壶藻 FAS合成多不饱脂肪酸途径以提高其油脂中DHA含量的可行性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究运用基因工程手段，构建了针对 Schizochytrium sp.ATCC20888 的来源于三角褐指藻的外源 $\\Delta 1 2 -$ desaturase表达载体，用电击法[12转化裂壶藻，以期增强其脂肪酸合成的FAS 途径，并最终通过气相色谱来验证外源性△12-desaturase的引入是否提高了裂壶藻 DHA的表达水平，以及对相关脂肪酸合成的影响。由于目前对提高裂壶藻 DHA产量的研究主要集中在优化培养基及发酵条件、筛选诱变高产菌株等，这些方法的本质都在于提高其PKS 途径合成DHA的能力。通过基因工程改造裂壶藻产多不饱和脂肪酸的FAS途径，以期提高其DHA产量，不仅在分子机理上与以往研究不同，定向改造也更加高效，此外，对研究裂壶藻合成DHA的机制也具有重要意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.1藻种Schizochytriumsp.ATCC20888，三角褐指藻由本实验室保存。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.2质粒 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "pPICZ A、pBluescriptII SK $\\left( + \\right)$ 、pcDNA3.1（+）、pUXSHCL由本实验室保存。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.3实验试剂",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "总RNA提取试剂盒:PromegaEastepTM；RevertAid第一链cDNA合成试剂盒：Thermo；胶回收试剂盒：Axgen；质粒提取试剂盒：Axgen；Xmn I：NEB；PrimeSTAR、SpeI、Sac I、BamI、NotI:Takara；提真菌基因组试剂盒：solarbio等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.4培养基",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "YPD：液体培养基为酵母粉 $1 0 \\mathrm { g }$ 、葡萄糖 $2 0 \\mathrm { g }$ 、蛋白陈20g溶于1：1的天然灭菌海水和蒸馏水中，定容至1L；固体培养基每升再加入15g琼脂粉； $1 2 1 ^ { \\circ } \\mathrm { C }$ 灭菌20min。LB:液体培养基为LB营养肉汤20g溶于1L蒸馏水中，固体培养基为LB营养琼脂 $4 0 \\mathrm { g }$ 溶于1L水中； $1 2 1 ^ { \\circ } \\mathrm { C }$ 灭菌 $2 0 \\mathrm { { m i n } }$ 。以上培养基除葡萄糖购于天津市化学试剂三厂外，其余均购于索莱宝。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.5 实验仪器 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PCR 仪：eppendorf；电转仪：Bio-rad；恒温振荡器:crystal；人工气候培养箱：哈尔滨电子仪器技术开发有限公司；冷冻干燥机：CHRIST；水浴锅：上海精宏实验设备有限公司等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1质粒的构建 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设计裂壶藻18srDNA同源臂、三角褐指藻的外源 $\\Delta$ 12-desaturase基因表达框以及G418抗性基因表达框，用Vector NTI画出相应的△12-desaturase 外源基因表达载体，构建质粒所用引物见表。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/bcc9646b439bfd28276ed0e07b6e44ceac26193fa5d6adc344d140e716e7a429.jpg",
+        "img_caption": [
+            "图1表达载体pBlu2SKP-Pht△12",
+            "Fig.1 Expression vector of pBlu2SKP-Pht△12 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）构建质粒各片段的克隆",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "所构建的质粒（图1）主要由同源臂 LB18S、RB18S，△12-desaturase基因表达框（三角褐指藻的 $\\Delta 1 2 -$ desaturase的CDS区，启动子ubiquitin，终止子Upoly）以及G418抗性表达框（启动子PTEF1-PEM7，抗性基因neo，终止子CYC1TT）组成。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以裂壶藻基因组DNA，克隆其18S片段，NCBI比对测序结果正确后。然后以胶回收的18S 为模板，分别克隆 LB18S，RB18S。提取三角褐指藻 RNA后，立即反转录为cDNA，然后克隆三角褐指藻的 $\\Delta 1 2 -$ desaturase基因，胶回收产物记为Pht12。以质粒pCXUN为模板，克隆ubiquitin启动子，胶回收产物记为Ubi。以质粒pUXSHCL为模板，克隆Upoly，胶回收产物记为Upoly。以 $\\mathrm { \\ p c D N A 3 . 1 \\left( + \\right) }$ 为模板，克隆neo 基因，胶回收产物记为neo。以pPICZA为模板，克隆启动子PTEF1-PEM7，胶回收产物记为PTE。以pPICZA为模板，克隆终止子CYC1TT,胶回收产物记为CYC。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（2）构建质粒各部分的连接",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "G418 抗性表达框各部分与同源臂 RB18S、△12-desaturase 基因表达框终止子Upoly、质粒pBluescript II SK $\\left( + \\right)$ 的连接：重叠PCR 连接 RB18S、CYC、neo片段三片段，胶回收产物记为neo-CYC-RB18S；再重叠 PCR 连接Upoly、PET两片段，胶回收产物记为Upoly-PET;最后重叠PCR 连接neo-CYC-RB18S、Upoly-PET两片段，胶回收产物记为Upoly-PET-neo-CYC-RB18S。Spe I、BamHI双酶切质粒 pBluescript II SK $\\left( + \\right)$ 以及Upoly-PET-neo-CYC-RB18S 片段，胶回收两者大片段，T4连接酶连接，转化大肠杆菌DH5α，筛选阳性克隆测序，选择测序正确者菌液记为Ecoli-pSKII-pht-1,相应质粒记作pBlu2SKP-Pht△12-1。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "LB18S、Ubi连接质粒pBlu2SKP-Pht△12-1：重叠PCR 连接 LB18S、Ubi两片段，胶回收产物记为LB18S-Ubi。Sacl、NotI双酶切pSK Il-pht1、LB18S-Ubi，胶回收两者大片段，T4 连接酶连接，转化大肠杆菌 DH5α，筛选阳性克隆测序，测序正确者记为 Ecoli-pSKIl-pht-2，相应质粒记作pBlu2SKP-Pht△12-2。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Pht12 连接质粒 pBlu2SKP-Pht△12-2:SpeI、NotI双酶切 pBlu2SKP-Pht△12-2、pht12,取两者大片段胶回收。T4连接酶连接后，转化大肠杆菌DH5α，筛选阳性克隆测序，测序正确者记为Ecoli-pBlu2SKP-Pht△12，相应质粒为pBlu2SKP-Pht△12，即为所构建质粒。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.2电击转化裂壶藻 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）抗性梯度实验",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "设计G418 浓度梯度100mg/L、200mg/L、300mg/L、 $4 0 0 \\mathrm { { m g / L } }$ ，配置YPD 固体平板培养基，裂壶藻涂板，找到G418 对 Schizochytrium sp.ATCC20888 的最低抑制浓度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（2）线性化质粒",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "过夜培养大肠杆菌 Ecoli-pBlu2SKP-Pht△12，提取质粒，XmnI线性化质粒后，胶回收试剂盒回收收线性化质粒。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（3）电击转化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "取指数生长期的裂壶藻，电转化预处理后，10ul线性化质粒混合80ul感受态细胞，静置半小时，调节电击仪参数至 $2 . 1 \\mathrm { K V } , 2 0 0 \\Omega$ 电击。电击后细胞加YPD培养基至1ML,转入1.5ML离心管中， $2 8 ^ { \\circ } \\mathrm { C }$ ， $1 8 0 \\mathrm { r p m }$ 活化2到3小时，最后涂匀于含 $3 5 0 \\mathrm { { m g / L } }$ 的G418固体平板中，至28 度培养箱中暗培养[13]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（4）传代筛选 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "每3-5天，对抗生素平板上长出的菌落划线传代1次，抗性平板传代3次；继而含200mlYPD培养基的 $2 5 0 \\mathrm { m l }$ 锥形瓶无抗性传代1次，七天后，再抗性平板划线1次，如此连续两轮；得到初步筛选的转化株（在筛选过程中人为舍去虽然抗性板上状态好，但生物量低的藻株）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.3DNA水平鉴定转化株 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "提取初步抗性筛选获得的裂壶藻转化株的DNA，以其为模板，以Jh-F（CCAAAGCAAGGAACAGGTATGGACTTCGTC)/Jh-R（GCACACCCTCGTTTGACTCCACATAGTGACAG)为引物，扩增转入的△12-desaturase片段，约 $1 . 2 \\mathrm { k b }$ ，以筛选转化株。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.4RT-PCR 鉴定转化株 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "提取转化株RNA，反转录为cDNA，同样以Jh-F/R为引物，鉴定转化株在RNA水平是否有表达，同时以18S作为参考，估计其表达水平。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.5转化株产量的测定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将筛选的转化株种子液及野生株（约 ${ 5 * 1 0 } ^ { \\mathrm { 7 } }$ 个/ml）以1:20的比例接种至含200mlYPD培养基的摇瓶中，设三组平行，先 $2 8 ^ { \\circ } \\mathrm { C }$ ， $1 8 0 \\mathrm { r p m }$ 摇瓶培养4天，然后 $2 3 ^ { \\circ } \\mathrm { C }$ ， $1 8 0 \\mathrm { r p m }$ 培养3天，收集藻体，蒸馏水洗两遍后，冷冻干燥机冻干，称重。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.2.6气相色谱测定油脂含量",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "BlighDyer 法提取转化株油脂[4]，以37脂肪酸甲酯混标为标准品，安捷伦气相色谱仪（7693A,America）（氢火焰检测器，SUPELCO $\\mathrm { S P ^ { T M } - 2 5 6 0 }$ filmthinkness）检测油脂成分，检测器温度 $2 8 0 ^ { \\circ } \\mathrm { C }$ ，进样量1ul,分流比1：3，柱流量1ml/min。每株藻的油脂含量重复测定三次。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1质粒构建结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将构建质粒所需的各片段克隆以后，质粒的构建过程主要分了三部分，第一部分将质粒pBluescript II SK $\\left( + \\right)$ 与片段Upoly、PET、neo、CYC、RB18S 相连，得到质粒pBlu2SKP-Pht$\\triangle 1 2 – 1$ ；第二部分将片段LB18S、Ubi连介入质粒pBlu2SKP-Pht△12-1，得到质粒pBlu2SKP-Pht△12-2；最后将 $\\Delta 1 2 -$ desaturase 酶基因pht12 连介入质粒pBlu2SKP-Pht△12-2，得到了最终构建的质粒pBlu2SKP-Pht△12。每次加入新片段后，送公司测序，测序无误后进行下一步以确保最终构建质粒的正确性。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f8c71d94a860c7d1ce3b18b8e3541ad1766870385d22f925fbb1255a7325a9f.jpg",
+        "img_caption": [
+            "图2质粒pBlu2SKP-Pht△12-1的构建",
+            "Fig.2 Construction of plasmid pBlu2SKP-Pht△12-1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(UP:fragment of Upoly-PET；NR:fragment of neo-CYC-RB18S；UNPCR:fragmentof Upoly-PET-neo-CYC-RB18S；QUNPCR: fragment of Upoly-PET-neo-CYC-RB18S after digestion of Spe I, BamHI; PSKII: plasmid of pBluescript II SK $( + )$ ; QPSKII: plasmid of pBluescript II SK $( + )$ after digestion of Spe I，BamH I；M:DL5000.) ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/69cdba2c933dd4ff5eb53c82f36303a4b3694b67060fdbcc967e88aa25b70a71.jpg",
+        "img_caption": [
+            "图3质粒pBlu2SKP-Pht△12-2的构建"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(LU:fragmentofLB18S-Ubi;QLU:fragmentofLB18S-Ubiafterdigestionof SacI,NotI;P-1: plasmidof pBlu2SKP-Pht △12-1;QP-1:plasmid of pBlu2SKP-Pht△12-1 after digestion of Sac I，Not I；M:DL5000.) ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/46873cbf4fa033a2ea97a59d087cc0a199a85a62941451614856f1d3290e3232.jpg",
+        "img_caption": [
+            "Fig.3 Construction of plasmid pBlu2SKP-Pht△12-2 ",
+            "图4质粒pBlu2SKP-Pht△12的构建 ",
+            "Fig.4 Construction of plasmid pBlu2SKP-Pht△12 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(Qpht12:fragment of LB18S-Ubiafter digestionof SpeI，NotI；P-2:plasmidof pBlu2SKP-Pht△12-2；QP-2:plasmid of pBluSKP-Pht△12-1after digestionof SpeI，NotI;P-3:plasmidpBlu2SKP-Pht△12；QP-3:plasmid pBlu2SKP-Pht △12after digestion of XmnI；M:DL5000.) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2电击转化结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "抗性筛选实验结果如图5显示，至第8天后，G418浓度在 $3 0 0 \\mathrm { { m g / L } }$ 以下时不能有效抑制裂壶藻生长，G418浓度在 $3 0 0 \\mathrm { { m g / L } }$ 时有数个克隆长出，G418浓度在 $4 0 0 \\mathrm { { m g / L } }$ 时有一个克隆长出，综合考虑提高转化株的阳性率及生存率，选择 $3 5 0 \\mathrm { { m g / L } }$ 作为初步筛选浓度。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/34e613543392a0be86b6217bd2a963cef0f553e69525d819e6fbf54b3622f944.jpg",
+        "img_caption": [
+            "图5抗性筛选实验结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "电击转化两天后，抗性板上开始有细小单克隆长出，四天后第一次传代，挑选比较大的克隆，传代筛选以后，最终还剩15株转化株。另外，本次研究中发现，裂壶藻的生长状态对电击转化的成功率具有重大影响，指数生长期的裂壶藻转化率明显高于平台期。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3DNA鉴定结果",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "提取转化株DNA后，以Jh-F/R为引物鉴定转化株，得到了两株阳性株，转化率很低。说明裂壶藻本身具有很强的清除外来基因的倾向，虽然过了连续的抗生素筛选，但只有两株转化成功。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0e663a70835e9ac181664eee9bcc51d59419ddd341a40c86be7dd1e2d358208.jpg",
+        "img_caption": [
+            "Fig.5 Experimental results of resistance screening ",
+            "图6DNA水平筛选转化株",
+            "Fig.6 DNA level screening of transformants "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(the positive bands on 1.2kb are fragments of functional gene phtl2 amplified by primer Jh-F/R) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4RT-PCR 鉴定结果 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "以18S为参照，可以发现，两组阳性转化株在RNA水平均有表达，转化株1的RNA水平要高于转化株2。此外，qPCR功能基因的鉴定选择了与DNA鉴定相同的引物，一方面是为了方便，另一方面，由于所选裂壶藻虽然 $\\Delta 1 2 -$ desaturase酶活性低，但相关基因极有可能仍表达，且可能与三角褐指藻的 $\\Delta 1 2 -$ desaturase 同源性较高，此引物已在DNA鉴定过程中经过验证，可在本株藻内特异性扩增三角褐指藻的 $\\Delta 1 2 -$ desaturase片段。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/32f0e6829d91fa4a697bad0365de5bb69fe194fbfad85998e4c3d605753011a6.jpg",
+        "img_caption": [
+            "图7转化株的RT-PCR结果",
+            "Fig.7 RT-PCR results of the transformants "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(H:the fragment amplified by primer Jh-F/R,a part of the functional gene pht12.) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.5生物量测定结果",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "通过对野生株及转化株生物量的初步测定，可以发现，在本实验条件下，转化株生物量较野生株有提高，转化株1生物量提高了 $1 1 . 1 4 \\%$ ，转化株2生物量提高了 $4 . 1 2 \\%$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表2野生株及转化株的生物量比较",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/2cbc055d24cfd4ea4c679a9d48d50b1bc276275eb6c8393bcfc691cb4972e363.jpg",
+        "table_caption": [
+            "Table 2 Biomass comparison between the wild and thetransformants "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"4\">生物量干重g/L</td></tr><tr><td></td><td>组一</td><td>组二</td><td>组三</td><td>平均重量</td></tr><tr><td>转化株1</td><td>8.13</td><td>7.97</td><td>7. 93</td><td>8.01</td></tr><tr><td>转化株2</td><td>7.28</td><td>7.32</td><td>7.87</td><td>7. 49</td></tr><tr><td>野生株</td><td>7. 12</td><td>7. 18</td><td>7.28</td><td>7. 19</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.6气相色谱结果",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "取所提油脂一组气相色谱分析图如下，可以明显看出转化株棕榈酸的峰面积要小于野生株，其DHA峰面积要明显大于野生株。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/d7e388f89a285a855bbe29c123ccc0d90dd599b33e1e7a87e57cad4aced409da.jpg",
+        "img_caption": [
+            "图8转化株与野生株的气相色谱图",
+            "Fig.8 Gas chromatograms of the transformants and the wild "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表3转化株与野生株部分脂肪酸在其油脂中的百分含量",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Table 3Percentage content of fatty acids in the oil of the transformants and the wild ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/74958c1f20bf3ecef89c30665f6f8a4f339c833ff27f64c9ce13659bcde71d92.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：表中数据为三次测量的平均值。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>转化株1/%</td><td>转化株/2%</td><td>野生株/%</td></tr><tr><td>棕榈酸(C16:0)</td><td>22.02720</td><td>19.78947</td><td>26.70299</td></tr><tr><td>硬脂酸（C18:0)</td><td>0.82123</td><td>0.90567</td><td>1. 13169</td></tr><tr><td>反油酸（C18:1（9））</td><td>0. 37645</td><td>0.43127</td><td>0. 74775</td></tr><tr><td>亚油酸(C18:2（9,12））</td><td>1. 36318</td><td>1. 78281</td><td>0.81834</td></tr><tr><td>α-亚麻酸(C18:3n3)</td><td>0.11395</td><td>0.12157</td><td>0.10589</td></tr><tr><td>EPA (C20:5n3)</td><td>0. 41827</td><td>0.33802</td><td>0. 4497</td></tr><tr><td>DHA(C22:6 (DHA))</td><td>44.34088</td><td>42.54043</td><td>37. 10451</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表3为根据气相结果比对出的部分FAS 途径合成DHA的中间产物。根据表中数据，结合图9，可以发现在FAS 途径合成不饱和脂肪酸的过程中，由 $\\Delta 1 2 -$ desaturase催化的反应其底物反油酸含量减少，产物亚油酸含量增加，该反应的上游脂肪酸棕榈酸、硬脂酸含量减少，尤其棕榈酸含量减少幅度较大，转化株1、2分别较野生株减少了 $1 7 . 5 1 \\%$ 及 $2 5 . 8 9 \\%$ ；下游的α-亚麻酸、EPA变化不大，DHA 含量较野生株明显增加，其在转化株1、转化株2中分别较野生株增加了 $1 9 . 5 0 \\%$ 及 $1 4 . 6 5 \\%$ 。说明转入的 $\\Delta 1 2 -$ desaturase发挥了作用，其催化的反应活性增强，同时使FAS 途径的终产物DHA含量增加。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/e7653c625d3eab9a7dfae55c77478c5b3dc16d9a462c14d367f88d0a79a8e3ff.jpg",
+        "img_caption": [
+            "图9合成多不饱和脂肪酸的FAS途径[5]",
+            "Fig.9 polyunsaturated fatty acidssynthesisof FAS pathway[5] "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本研究经过构建质粒、电击转化、DNA及RNA水平的鉴定，最终成功获得了两株稳定的转化株。两株转化株在生物量及DHA含量上都要明显优于野生株，两株转化株之间也有明显差别，转化株1生物量及DHA含量要优于转化株2，其 RNA 表达水平也比转化株2高，因而推测转化株间生物量及DHA含量的差别是由于转入基因的拷贝数不同造成的，此外，整合位点的不同也会造成转化株之间的差异[13]。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "裂壶藻本身具有两条脂肪酸合成途径，但其FAS 途径由于某个或某类酶的缺失使其合成不饱和脂肪酸的能力较低，本研究猜想两条途径如果都能高效工作，其油脂中不饱和脂肪酸的成分就会增加，极有可能会提高其油脂中DHA的含量，最终证明了提高 Schizochytriumsp.ATCC20888 $\\Delta$ 12-desaturase 的表达确实有助于提高其油脂成分中DHA的百分含量，证实了这一猜想，也为通过增强裂壶藻生成不饱和脂肪酸的FAS 途径的活性以增强其产 DHA 的能力提供了理论及技术支持。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "虽然目前我们获得了两株品质优良的转化株，但往往生物量的积累与生物油脂积累并不一致，而且工业化的应用涉及到高密度发酵，需要对培养基及发酵条件进行进一步优化，只有在发酵过程中既要保证生产的低成本，又做到DHA产量的最大化，才有应用价值。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1］曹万新，孟橘，田玉霞．DHA的生理功能及应用研究进展［J]．中国油脂，2011,36(3) :1-4.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Cao W X, Meng J， Tian Y X. Research advance in application and physiological functions of DHA[J]. China Oils and Fats， 2011，36 (3): 1-4.   \n[2］陈殊贤，郑晓辉．微藻油和鱼油中DHA的特性及应用研究进展［J]．食品科学，2013, 34(21) :439-444. Chen S X, Zheng X H. Research Progress in Characteristics and Applications of DHA in Microalga Oil and Fish Oil [J]. Food Science，2013，34 (21): 439-444.   \n[3]Ashford A, Barclay W R, Weaver C A,et al. Electron microscopy may reveal structure of docosahexaenoic acid-rich oil with in Schizochytrium sp.[J]. Lipids, 2000, 35(12) :1377-1386.   \n[4] Qiu X. Biosynthesis of docosahexaenoic acid (DHA, 22:6-4, 7,10,13,16,19): two distinct pathways[J]. Prostaglandins Leukot Essent Fatty Acids, 2003, 68(2) :181-186.   \n[5] Ratledge C. Fatty acid biosynthesis in microorganisms being used for Single Cell Oil production[J]. Biochimie, 2004， 86(11) :807-815.   \n[6] Hauvermale A， Kuner J，Rosenzweig B D,et al. Fatty acid production in Schizochytrium sp.: Involvement of a polyunsaturated fatty acid synthase and a type I fatty acid synthase[J]. Lipids， 2006, 41(8):739-747.   \n[7] Metz JG， Roessler P, Facciotti D,et al. Production of polyunsaturated fatty acids by polyketide synthases in both prokaryotes and eukaryotes[J]. Science, 2001，293(5528) :290-300.   \n[8] Lippmeier JC, Crawford K S, Owen C B, et al. Characterization of both polyunsaturated fatty acid biosynthetic pathways in Schizochytrium sp.[J]. Lipids，2009，44(7) :621-630.   \n[9] Song X, Tan Y， Liu Y, et al. Different Impacts of Short-Chain Fatty Acids on Saturated and Polyunsaturated Fatty Acid Biosynthesis in Aurantiochytrium sp. SD116[J]. Journal of Agricultural & Food Chemistry， 2013，61(41) :9876-9881.   \n[10] Nagano N， Sakaguchi K， Taoka Y，et al. Detection of genes involved in fatty acid elongation and desaturation in thraustochytrid marine eukaryotes[J]. Journal of 0leo Science， 2011，60(9) :475-481.   \n[11]Re L, Zhuang X, Chen S,et al. Introduction of @-3 desaturase obviously changed the fatty acid profile and sterol content of Schizochytrium sp.[J]. Journal of Agricultural & Food Chemistry， 2015， 63(44) :9770-9776.   \n[12]闫晋飞，杨玉莹，马淑霞．微藻基因工程概述[J]．生物学通报，2017，52(4):1-5. Yan JF, Yang Y Y， Ma S X. Overview of microalgae gene engineering[J]. Bulletin of Biology，2017，52 (4): 1-5.   \n[13] Yan J, Cheng R, Lin X,et al. Overexpression of acetyl-CoA synthetase increased the biomass and fatty acid proportion in microalga Schizochytrium [J]. Applied Microbiology & Biotechnology， 2013，97(5):1933-1939.   \n[14] Bligh E G,Dyer W J. A rapid method of total lipid extraction and purification[J].Canadian Journal of Biochemistry & Physiology，1959, 37(8) :911-917. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

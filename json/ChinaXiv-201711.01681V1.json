@@ -1,0 +1,484 @@
+[
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1  \n2 王杰 崔　凯 毕研亮 柴建民　祁敏丽张 帆王世琴 刁其玉 张乃锋\\*  \n3 （中国农业科学院饲料研究所，农业部饲料生物技术重点开放实验室，北京100081)  \n4 摘要：本试验旨在研究蛋氨酸限制与补偿对羔羊生长性能及内脏器官发育的影响。选取  \n5 12 对1周龄断奶的湖羊双胞胎公羔羊，采用配对试验设计，每对双胞胎羔羊分别分到2组  \n6 中。第1阶段， $2 { \\sim } 8$ 周龄，分别补充[基础代乳粉 $+ 0 . 7 0 \\%$ 蛋氨酸，基础开食料 $+ 0 . 4 0 \\%$ 蛋氨酸，  \n7 对照（control，CON）组]和限制蛋氨酸[基础代乳粉，基础开食料，限制（restriction，RES）  \n8 组]；第2阶段， $9 \\sim 1 2$ 周龄，2组羔羊饲喂相同的饲粮（基础开食料 $+ 0 . 4 0 \\%$ 蛋氨酸)。在8  \n9 周龄末和12 周龄末，各选取6对双胞胎羔羊进行屠宰，分离内脏器官并称重。结果表明：1)  \n10 8 周龄，RES 组的体重显著低于CON 组（ $\\scriptstyle P < 0 . 0 5 { \\mathrm { : } }$ ； $2 { \\sim } 8$ 周龄，RES 组平均日增重极显著  \n11 低于CON组（ $P { < } 0 . 0 1 \\rangle$ ，而RES组料重比显著高于CON组（ $P { < } 0 . 0 5 \\rangle$ ； $9 \\sim 1 2$ 周龄，2组  \n12 平均日增重和料重比均无显著差异（ $P { > } 0 . 0 5$ )。2）8周龄，RES 组的宰前活重、空体重、胴  \n13 体重均显著低于CON 组（ $P { < } 0 . 0 5 \\$ ，但2组间的屠宰率无显著差异（ $P { > } 0 . 0 5 \\$ ；12周龄，  \n14 RES 组和CON组宰前活重、空体重、胴体重、屠宰率均无显著差异（ $P { > } 0 . 0 5$ )。3）8周龄  \n15 和12周龄，2组的各内脏器官在重量、占宰前活重比例均无显著差异( $. P { > } 0 . 0 5$ )。4)8周龄，  \n16 RES 组的瘤胃重量显著低于CON 组( $. P { < } 0 . 0 5 \\$ ,其余各胃肠道指数均无显著差异( $\\cdot P { > } 0 . 0 5 )$ ·  \n17 12 周龄，2组间各胃肠道指数也无显著差异（ $P { > } 0 . 0 5$ )。由此可见，限制饲粮蛋氨酸水平降  \n18 低了羔羊瘤胃重量、生长性能和屠宰性能，恢复饲粮蛋氨酸水平后，羔羊生长性能及内脏器  \n19 官发育状况也随之恢复。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：羔羊；蛋氨酸限制；蛋氨酸补偿；生长性能；内脏器官发育 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S826",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "必需氨基酸是指动物机体本身不能合成，必须通过从饲粮中摄取以满足机体需要的一类氨基酸。蛋氨酸作为必需氨基酸中唯一的含硫氨基酸，与赖氨酸一起形成玉米-豆粕型饲粮或微生物蛋白合成的第一或第二限制性氨基酸[1-3]。随着我国羔羊早期断奶技术的推广应用，",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "25 代乳粉的应用越来越广泛，含有植物蛋白质（尤其是豆类原料）的代乳粉中蛋氨酸往往成为  \n26 第一限制性氨基酸[4-5]。如果羔羊机体蛋氨酸缺乏或达不到营养需要，就会影响其正常生命  \n27 代谢，甚至导致各种疾病的发生。  \n28 蛋氨酸作为饲料添加剂能够提高动物机体的生产性能、增强免疫力及预防疾病等[6-8]。  \n29 El-Tahawy 等研究发现，饲粮中添加 $0 . 3 3 \\%$ 蛋氨酸能显著提高羔羊的生产性能和增加经济  \n30 收益。Abdelrahman 等[0]研究报道，饲粮中补充蛋氨酸不仅提高了羔羊对矿物质的生物利用  \n31 率，还能增加羔羊的生长性能。然而，Obeidat 等[研究发现，饲粮中补充蛋氨酸对羔羊采  \n32 食量、营养物质消化率及生长性能的影响不显著。同样，Hussein等[12]研究发现，饲粮中补  \n33 充蛋氨酸不能提高犊牛的平均日增重。这些结果的差异可能与蛋氨酸的用量或羔羊日龄、饲  \n34 养管理的差异性等因素有关，具体原因还有待于进一步研究证实。另外，内脏器官发育状况  \n35 对于动物生长发育和新陈代谢具有重要作用，虽然内脏器官仅占到总体重的 $6 \\% \\sim 1 0 \\%$ ，但  \n36 却占有机体总蛋白质合成和氧消耗的 $4 0 \\% \\sim 5 0 \\% ^ { [ 1 3 - 1 4 ] }$ 。因此，理论上饲粮蛋氨酸水平限制  \n37 可能会影响羔羊内脏器官的发育进而影响生长性能，但还缺乏试验验证；同时，饲粮蛋氨酸  \n38 限制取消后，羔羊内脏器官及生长的发育是否能得到恢复或补偿,还有待进一步研究。因此，  \n39 本试验从生长性能及内脏器官发育角度，研究饲粮蛋氨酸限制与补偿对湖羊双胞胎断奶羔羊  \n40 的影响，为羔羊营养参数研究和合理科学饲养提供理论依据。  \n41 1材料与方法  \n42 1.1试验时间和地点  \n43 试验于2015年9月25日至2015年12月24日在山东省临清市润林牧业有限公司开展。  \n44 1.2试验设计  \n45 试验选取初始体重为（ $4 . 9 3 { \\scriptstyle \\pm 0 . 2 0 }$ ）kg、发育正常的12对新生湖羊双胞胎公羔羊。所有  \n46 试验羔羊在出生到1周龄随母哺乳；1周龄后断母乳，人工饲喂代乳粉至8周龄；从2周龄  \n47 开始补饲开食料，直到12周龄试验结束。  \n48 试验采用配对设计，分为2阶段。第1阶段， $2 { \\sim } 8$ 周龄，分别补充[基础代乳粉 $+ 0 . 7 0 \\%$   \n49 蛋氨酸，基础开食料 $+ 0 . 4 0 \\%$ 蛋氨酸，对照（control，CON）组]和限制蛋氨酸[基础代乳粉，  \n50 基础开食料，限制（restriction，RES）组]；第2阶段， $9 \\sim 1 2$ 周龄，2组羔羊饲喂相同的饲  \n51 粮（基础开食料 $+ 0 . 4 0 \\%$ 蛋氨酸)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3试验饲粮 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验用蛋氨酸规格：DL-蛋氨酸含量≥；干燥减重≤；砷≤；重金属≤；硫酸盐≤；氯化物≤；灼烧残渣≤；亚硝基铁氰化钠试验合格；硫酸铜试验合格。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CON 组代乳粉中蛋氨酸水平设定参考我国发明专利ZL02128844.5[15]；开食料中蛋氨酸水平根据 Mirand 等[报道设定。基础代乳粉营养水平见表1，基础开食料组成及营养水平分别见表2。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1基础代乳粉营养水平(干物质基础) ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "营养水平 Nutrient levels 含量Content  \n干物质 DM 95.69  \n代谢能 ME/(MJ/Kg) 15.10  \n粗蛋白质CP 21.66  \n粗脂肪 EE 6.44  \n粗灰分 Ash 5.88  \n钙Ca 1.02  \n总磷TP 0.51  \n赖氨酸Lys 2.77  \n蛋氨酸Met 0.21  \n色氨酸Try 0.29  \n苏氨酸Thr 1.17",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "60 由于涉及专利申请，未列出代乳粉组成。Due to patent application,composition of milk replacer was not given. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2基础开食料组成及营养水平(干物质基础)",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/7adb27d4a707c27c349c0d3086f3f64e8a928cf7f7724734867ca9c89a45b065.jpg",
+        "table_caption": [
+            "Table 1Nutrient levels of the basal milk replacer (DM basis) % ",
+            "Table 2Composition and nutrient levels of the basal starter (DM basis) % "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">Table2 starter (DM basis) %</td></tr><tr><td>原料 Ingredients</td><td>含量Content</td><td>营养水平 Nutrient levels) 含量Content</td></tr><tr><td>玉米Corn</td><td>63.93</td><td>干物质 DM 88.20</td></tr><tr><td>麸皮Wheat bran</td><td>15.00</td><td>粗蛋白质CP 16.16</td></tr><tr><td>豆粕 Soybean meal</td><td>6.79</td><td>粗脂肪 EE 4.68</td></tr><tr><td>石粉Limestone</td><td>2.34</td><td>粗灰分 Ash 9.38</td></tr><tr><td>脂肪粉 Fat powder</td><td>2.00 钙Ca</td><td>1.23</td></tr><tr><td>磷酸氢钙CaHPO4</td><td>1.48 总磷TP</td><td>0.54</td></tr><tr><td>食盐 NaCl</td><td>0.93</td><td>代谢能ME/(MJ/Kg) 10.75</td></tr><tr><td>复合氨基酸 Compound amino acids1)</td><td>6.53 赖氨酸Lys</td><td>1.01</td></tr><tr><td>预混料 Premix2)</td><td>1.00</td><td>蛋氨酸Met 0.20</td></tr><tr><td>合计 Total</td><td>100.00 色氨酸Try</td><td>0.18</td></tr><tr><td></td><td>苏氨酸 Thr</td><td>0.60</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1)复合氨基酸是由赖氨酸、色氨酸、苏氨酸、氨酸、组氨酸等多种氨基酸组成。Compound amino acids ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊 were composed ofLys,Try,Thr,Val,His and otheramino acids. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2)每千克预混料含有 One kg of premix contained the following：Fe $4 { \\sim } 3 0 ~ \\mathrm { g }$ ，Mn $2 { \\sim } 2 5 \\ \\mathrm { g }$ ， $ { \\mathrm { C u } } 0 . 8  { \\sim } 2 \\ \\mathrm { g }$ ，Zn4\\~25 g，Se 0.04\\~0.3g，I0.04\\~0.5 g， $\\mathrm { C o } 0 . 0 3 { \\sim } 0 . 0 5 \\ \\mathrm { g }$ ，VA 800 000\\~2 500 000IU，VD3 200 000\\~400 000 IU,VE≥3000 IU。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3)营养水平除代谢能外均为实测值。ME was a calculated value,while others were measured values. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4饲养管理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验正式开始之前，用强力消毒灵溶液对整个圈舍进行全面的消毒，之后每周对所有栏位重复消毒1次。同时，试验开始时所有试验羔羊均进行正常的免疫程序。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验羔羊在1周龄时断母乳，开始饲喂代乳粉。2周龄每天饲喂4次， $3 { \\sim } 4$ 周龄每天饲喂3次， $5 { \\sim } 8$ 周龄每天饲喂2次。代乳粉的饲喂方法参照王波等[17报道的方法进行。同时，饲喂量根据试验过程中羔羊的健康状况进行适当的调整，以保证羔羊的正常生长。另外，除了每天按要求进行饲喂外，还需保证CON 组和RES 组羔羊补饲相近量的代乳粉，同时整个过程自由饮水。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5测定指标和方法及样品采集",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.1 饲粮营养水平",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "代乳粉和开食料中营养水平测定方法：氨基酸含量使用A300全自动氨基酸分析仪测定；代谢能使用 $ { \\mathrm { P a r r } }  { - } 6 4 0 0$ 氧氮量热仪测定；干物质、粗蛋白质、粗脂肪、粗灰分、钙、磷含量参考《饲料分析及饲料质量检测技术》[18]测定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.2生长性能",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "体重：准确称量并记录羔羊的1周龄末、8周龄末和12周龄末晨饲前体重，计算平均日增重。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采食量：开食料每天准确记录饲喂量和剩料量，用以计算羔羊的采食量；同时，饲喂量根据试验过程中羔羊的健康状况进行适当的调整，以准确记录代乳粉的饲喂量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "料重比：根据平均日增重及采食量计算各阶段的料重比。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.3器官指数及屠宰性能",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "器官指数：分别在8周龄末和12周龄末屠宰6对双胞胎羔羊，CON 组和RES 组各6只，屠宰前 16 h 需要禁食、禁水[19]，屠宰当日 O8:00 称宰前活重(live weight before",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "slaughter,LWBS)。试验羊经二氧化碳致晕后，颈静脉放血致死。之后剥皮，去头、蹄、内脏后称量胴体重。分离内脏，称量心脏、肝脏、脾脏、肺脏、肾脏、小肠及大肠重并计算各器官占宰前活重比例；分离瘤胃、网胃、瓣胃及皱胃并称重，计算每个胃占宰前活重比例及占复胃总重(total stomachus compositus weight,TCsW)比例，准确记录相关的数据。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "相关指标计算公式：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "空体重(empty bodyweight,EBW,kg) $\\vDash$ 宰前活重一胃肠道内容物总重；",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "胴体重(carcassweight. $\\mathrm { { . C W , k g ) = } }$ 宰前活重一皮毛、头、蹄、生殖器官及周围脂肪、内脏（保留肾脏及周围脂肪）的重量；屠宰率(dressing percentage, $\\%$ $\\scriptstyle 1 = 1 0 0 \\times$ 胴体重/宰前活重[20]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.6 数据处理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试验数据经过Excel2010初步整理后，使用SAS9.2统计软件Paired $t \\cdot$ -test进行配对t检验， $P { < } 0 . 0 5$ 为差异显著， $P { < } 0 . 0 1$ 为差异极显著。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1蛋氨酸限制与补偿对羔羊生长性能的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "蛋氨酸限制与补偿对羔羊生长性能的影响见表3。CON 组和RES 组羔羊1周龄体重差异不显著（ $P { > } 0 . 0 5 \\$ ，而8周龄RES组体重显著低于CON组（ $P { < } 0 . 0 5 \\rangle$ ，但12周龄2组体重差异不显著( $\\cdot P { > } 0 . 0 5$ 。 $2 { \\sim } 8$ 周龄，RES组平均日增重极显著低于CON组（ $\\scriptstyle P < 0 . 0 1 { \\dot { ) } }$ ，同时RES 组料重比显著高于CON（ $P { < } 0 . 0 5 \\rangle$ 。在 $9 \\sim 1 2$ 周龄和 $2 \\sim 1 2$ 周龄2阶段，CON组和RES 组的平均日增重和料重比差异均不显著（ $P { > } 0 . 0 5 \\rangle$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/521ae1eae0710eb9dc7f9371e97e9ead2dc9adfbb840af91bc3c61fb9c6fd9b3.jpg",
+        "table_caption": [
+            "表3蛋氨酸限制与补偿对羔羊生长性能的影响",
+            "Table 3Effects of methionine restriction and compensation on growth performance of lambs "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"2\">组别Groups</td><td rowspan=\"2\">SEM</td><td>P值</td></tr><tr><td>CON</td><td>RES</td><td>P-value</td></tr><tr><td>体重 Body weight/kg</td><td></td><td></td><td></td><td></td></tr><tr><td>1周龄1 week of age</td><td>4.93</td><td>4.93</td><td>0.20</td><td>0.9840</td></tr><tr><td>8周龄8 weeks of age</td><td>9.82a</td><td>8.31b</td><td>0.54</td><td>0.0171</td></tr><tr><td>12 周龄12 weeks of age</td><td>15.41</td><td>13.57</td><td>1.48</td><td>0.2688</td></tr><tr><td>代乳粉采食量 Milk replacer intake/(g/d)</td><td></td><td></td><td></td><td></td></tr><tr><td>2～8 周龄 2 to 8 weeks of age</td><td>137.07</td><td>137.07</td><td></td><td></td></tr><tr><td>开食料采食量 Starter intake/(g/d)</td><td></td><td></td><td></td><td></td></tr><tr><td>2～8周龄 2 to 8 weeks of age</td><td>104.72</td><td>110.49</td><td>2.66</td><td>0.053 2</td></tr><tr><td>9～12 周龄 9 to 12 weeks of age</td><td>590.82</td><td>608.46</td><td>9.94</td><td>0.1361</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊同行数据肩标不同小写字母代表有显著差异（ $P { < } 0 . 0 5 \\$ 。下表同。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/dacc15209cd4b4ec20c17732ec458010544a59ba0c46cd8d093074c8598e5167.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>2～12 周龄 2 to 12 weeks of age</td><td>278.80</td><td>276.46</td><td>5.70</td><td>0.6982</td></tr><tr><td>平均日增重 Average daily gain/（g/d)</td><td></td><td></td><td></td><td></td></tr><tr><td>2～8 周龄 2 to 8 weeks of age</td><td>103.99a</td><td>72.07b</td><td>8.60</td><td>0.0034</td></tr><tr><td>9～12 周龄 9 to 12 weeks of age</td><td>196.43</td><td>184.52</td><td>22.91</td><td>0.6254</td></tr><tr><td>2～12 周龄 2 to 12 weeks of age</td><td>110.67</td><td>117.56</td><td>11.63</td><td>0.579 5</td></tr><tr><td>料重比F/G</td><td></td><td></td><td></td><td></td></tr><tr><td>2～8 周龄 2to 8 weeks of age</td><td>2.67b</td><td>4.27a</td><td>0.56</td><td>0.0159</td></tr><tr><td>9～12 周龄 9 to 12 weeks of age</td><td>3.55</td><td>3.45</td><td>0.54</td><td>0.8544</td></tr><tr><td>2～12 周龄 2 to 12 weeks of age</td><td>3.06</td><td>3.31</td><td>0.41</td><td>0.564 9</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the same row,values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ．The same as below. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2蛋氨酸限制与补偿对羔羊屠宰性能的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "蛋氨酸限制与补偿对羔羊屠宰性能的影响见表4。8周龄，CON 组羔羊的宰前活重、空体重和胴体重均显著高于RES 组（ $P { < } 0 . 0 5 \\rangle$ ，但是2组的屠宰率差异不显著（ $P { > } 0 . 0 5$ 。12周龄，2组羔羊的宰前活重、空体重、胴体重和屠宰率均差异不显著（ $P { > } 0 . 0 5 \\$ ）°",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表4蛋氨酸限制与补偿对羔羊屠宰性能的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/35535a0975bd8c596d4156840b91748e8bbc6e6bf5e332bc409c6d841192fb47.jpg",
+        "table_caption": [
+            "Table 4Effects of methionine restriction and compensation on slaughter performance of lambs "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>组别Groups</td><td></td><td>SEM</td><td>P值</td></tr><tr><td></td><td>CON</td><td>RES</td><td></td><td>P-value</td></tr><tr><td>8周龄8 weeks of age</td><td></td><td></td><td></td><td></td></tr><tr><td>宰前活重LWBS/kg</td><td>9.73a</td><td>8.23b</td><td>0.53</td><td>0.0377</td></tr><tr><td>空体重 EBW/kg</td><td>7.77a</td><td>6.44b</td><td>0.43</td><td>0.027 4</td></tr><tr><td>胴体重CW/kg</td><td>4.29a</td><td>3.50b</td><td>0.23</td><td>0.019 2</td></tr><tr><td>屠宰率Dressing percentage/%</td><td>43.94</td><td>42.42</td><td>0.71</td><td>0.083 7</td></tr><tr><td>12 周龄12 weeks of age</td><td></td><td></td><td></td><td></td></tr><tr><td>宰前活重LWBS/kg</td><td>15.41</td><td>13.57</td><td>1.48</td><td>0.2688</td></tr><tr><td>空体重EBW/kg</td><td>11.87</td><td>10.09</td><td>1.29</td><td>0.2288</td></tr><tr><td>胴体重CW/kg</td><td>6.81</td><td>5.83</td><td>0.87</td><td>0.310 3</td></tr><tr><td>屠宰率Dressing percentage/%</td><td>43.61</td><td>42.68</td><td>1.52</td><td>0.566 5</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3蛋氨酸限制与补偿对羔羊内脏器官指数的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "蛋氨酸限制与补偿对羔羊内脏器官指数的影响见表5。8周龄和12周龄，CON组和RES 组羔羊内脏器官指数均差异不显著（ $P { > } 0 . 0 5 \\$ )° ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表5蛋氨酸限制与补偿对羔羊内脏器官指数的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table 5Effects of methionine restriction and compensation on internal organ indexes of lambs 项目Items 组别Groups SEM P值 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/e3fa6eb58bb45c290ba6e17680362bdb4c69d3f50657c251e83790a8a8b052b0.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">重量Weight/g</td></tr><tr><td></td><td>心脏Heart</td><td>51.40</td><td>46.65</td><td>3.03</td><td>0.177 5</td></tr><tr><td>8周龄</td><td>肝脏Liver</td><td>193.13</td><td>168.37</td><td>13.36</td><td>0.1231</td></tr><tr><td>8 weeks of age</td><td>脾脏 Spleen</td><td>14.17</td><td>13.10</td><td>1.87</td><td>0.593 0</td></tr><tr><td></td><td>肺脏Lung</td><td>148.43</td><td>154.95</td><td>28.37</td><td>0.827 4</td></tr><tr><td></td><td>肾脏Kidney</td><td>44.05</td><td>44.23</td><td>5.29</td><td>0.973 7</td></tr><tr><td></td><td>心脏Heart</td><td>75.32</td><td>69.27</td><td>9.89</td><td>0.567 3</td></tr><tr><td>12周龄</td><td>肝脏Liver</td><td>403.63</td><td>344.00</td><td>40.55</td><td>0.201 4</td></tr><tr><td>12 weeks of age</td><td>脾脏 Spleen</td><td>21.72</td><td>18.48</td><td>2.16</td><td>0.194 5</td></tr><tr><td></td><td>肺脏Lung</td><td>215.67</td><td>224.45</td><td>27.52</td><td>0.762 5</td></tr><tr><td>占宰前活重比例</td><td>肾脏Kidney</td><td>60.37</td><td>54.93</td><td>4.46</td><td>0.277 2</td></tr><tr><td></td><td>Percentage of LWBS/%</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>心脏Heart</td><td>0.53</td><td>0.58</td><td>0.03</td><td>0.2059</td></tr><tr><td>8周龄</td><td>肝脏Liver</td><td>1.97</td><td>2.06</td><td>0.09</td><td>0.359 5</td></tr><tr><td>8 weeks of age</td><td>脾脏 Spleen</td><td>0.14</td><td>0.16</td><td>0.02</td><td>0.543 0</td></tr><tr><td></td><td>肺脏Lung</td><td>1.52</td><td>1.91</td><td>0.36</td><td>0.330 0</td></tr><tr><td></td><td>肾脏Kidney</td><td>0.46</td><td>0.55</td><td>0.05</td><td>0.162 8</td></tr><tr><td></td><td>心脏Heart</td><td>0.50</td><td>0.54</td><td>0.09</td><td>0.688 7</td></tr><tr><td>12周龄</td><td>肝脏Liver</td><td>2.60</td><td>2.53</td><td>0.13</td><td>0.624 4</td></tr><tr><td>12 weeks of age</td><td>脾脏 Spleen</td><td>0.15</td><td>0.14</td><td>0.003</td><td>0.2031</td></tr><tr><td></td><td>肺脏Lung</td><td>1.42</td><td>1.71</td><td>0.15</td><td>0.1100</td></tr><tr><td></td><td>肾脏Kidney</td><td>0.40</td><td>0.41</td><td>0.07</td><td>0.598 2</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4蛋氨酸限制与补偿对羔羊胃肠道指数的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "蛋氨酸限制与补偿对羔羊胃肠道指数的影响见表6。8周龄，CON组羔羊的瘤胃重量显著高于RES组（ $\\scriptstyle P < 0 . 0 5 { \\mathrm { , } }$ ，2组羔羊其他胃肠道指数上差异不显著（ $P { > } 0 . 0 5$ )。12周龄，2组胃肠道指数均差异不显著（ $P { > } 0 . 0 5 \\$ )°",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/04fb0d380f526d6a4c565e70c0c50dd9f5cefbc7f8935e728f77e7e7ac554df7.jpg",
+        "table_caption": [
+            "表6蛋氨酸限制与补偿对羔羊胃肠道指数的影响",
+            "Table6Efects of methionine restriction and compensation on gastrointestinal tract indexes of lambs "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">项目Items</td><td rowspan=\"2\">SEM</td><td>P值</td></tr><tr><td colspan=\"2\"></td><td>CON</td><td>组别Groups RES</td><td>P-value</td></tr><tr><td colspan=\"2\">重量Weight/g</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>瘤胃Rumen</td><td>196.33a</td><td>147.60b</td><td>18.26</td><td>0.044 4</td></tr><tr><td>8周龄</td><td>网胃 Reticulum</td><td>28.68</td><td>24.20</td><td>2.86</td><td>0.178 2</td></tr><tr><td>8 weeksof</td><td>瓣胃Omasum</td><td>13.05</td><td>9.63</td><td>2.33</td><td>0.202 4</td></tr><tr><td>age</td><td>皱胃Abomasum</td><td>59.70</td><td>59.82</td><td>5.50</td><td>0.9839</td></tr><tr><td></td><td>小肠 Small intestine</td><td>340.03</td><td>291.58</td><td>36.67</td><td>0.243 7</td></tr><tr><td></td><td>大肠 Large intestine</td><td>155.93</td><td>150.07</td><td>14.81</td><td>0.7083</td></tr><tr><td>12周龄</td><td>瘤胃Rumen</td><td>407.60</td><td>360.5</td><td>52.48</td><td>0.416 2</td></tr><tr><td>12weeksof</td><td>网胃Reticulum</td><td>50.17</td><td>51.33</td><td>3.51</td><td>0.7528</td></tr><tr><td>age</td><td>瓣胃Omasum</td><td>35.17</td><td>30.67</td><td>4.01</td><td>0.312 4</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/1fdcea447274276b510bdb6782a49a9e69b2a38b3036a9caaf8a63c34be20608.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>皱胃Abomasum</td><td>123.67</td><td>107.67</td><td>10.81</td><td>0.1989</td></tr><tr><td></td><td>小肠 Small intestine</td><td>459.17</td><td>441.85</td><td>27.29</td><td>0.553 6</td></tr><tr><td></td><td>大肠 Large intestine</td><td>203.67</td><td>183.17</td><td>21.09</td><td>0.375 6</td></tr><tr><td>占复胃总重比例 Percentage of TCSW/%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>8周龄</td><td>瘤胃 Rumen</td><td>65.35</td><td>59.72</td><td>3.07</td><td>0.1260</td></tr><tr><td>8 weeks of</td><td>网胃Reticulum</td><td>9.75</td><td>9.97</td><td>0.90</td><td>0.819 3</td></tr><tr><td>age</td><td>瓣胃Omasum</td><td>4.35</td><td>4.21</td><td>0.91</td><td>0.881 3</td></tr><tr><td></td><td>皱胃Abomasum</td><td>20.55</td><td>26.11</td><td>2.79</td><td>0.103 3</td></tr><tr><td>12周龄</td><td>瘤胃Rumen</td><td>65.62</td><td>65.77</td><td>2.26</td><td>0.949 6</td></tr><tr><td>12 weeks of</td><td>网胃Reticulum</td><td>8.40</td><td>9.30</td><td>0.72</td><td>0.2639</td></tr><tr><td>age</td><td>瓣胃Omasum</td><td>5.68</td><td>5.50</td><td>0.43</td><td>0.702 3</td></tr><tr><td></td><td>皱胃Abomasum</td><td>20.30</td><td>19.42</td><td>1.57</td><td>0.602 9</td></tr><tr><td>占宰前活重比例Percentage ofLWBS/%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>瘤胃Rumen</td><td>1.98</td><td>1.76</td><td>0.19</td><td>0.2913</td></tr><tr><td>8周龄</td><td>网胃Reticulum</td><td>0.29</td><td>0.29</td><td>0.03</td><td>0.849 4</td></tr><tr><td>8 weeks of</td><td>瓣胃Omasum</td><td>0.13</td><td>0.12</td><td>0.03</td><td>0.741 2</td></tr><tr><td>age</td><td>皱胃Abomasum</td><td>0.62</td><td>0.77</td><td>0.09</td><td>0.1651</td></tr><tr><td></td><td>小肠 Small intestine</td><td>3.52</td><td>3.59</td><td>0.30</td><td>0.844 5</td></tr><tr><td></td><td>大肠 Large intestine</td><td>1.62</td><td>1.89</td><td>0.23</td><td>0.2780</td></tr><tr><td></td><td>瘤胃Rumen</td><td>2.66</td><td>2.71</td><td>0.19</td><td>0.821 2</td></tr><tr><td>12周龄</td><td>网胃Reticulum</td><td>0.34</td><td>0.38</td><td>0.03</td><td>0.279 8</td></tr><tr><td>12 weeks of</td><td>瓣胃Omasum</td><td>0.23</td><td>0.23</td><td>0.02</td><td>0.768 3</td></tr><tr><td></td><td>皱胃Abomasum</td><td>0.83</td><td>0.80</td><td>0.08</td><td>0.7352</td></tr><tr><td>age</td><td>小肠 Small intestine</td><td>3.02</td><td>3.30</td><td>0.26</td><td>0.322 5</td></tr><tr><td></td><td>大肠 Large intestine</td><td>1.37</td><td>1.36</td><td>0.08</td><td>0.969 2</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "132 3讨论",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1蛋氨酸限制与补偿对羔羊生长性能的影响i4 由于早期断奶羔羊胃肠道发育不成熟，断母乳后的羔羊极易受到培育方式[21-23]、饲粮组i5 成和环境因素的影响。所以，各营养素含量的均衡性是早期断奶羔羊进行新陈代谢的物质基6 础。而蛋氨酸作为动物生长过程中蛋白质合成的主要限制性氨基酸1]，对于提高动物生长性i7 能和饲粮中蛋白质利用率及降低氮排放具有重要作用。Goedeken 等[24]研究发现，反刍动物8 饲粮补充蛋氨酸可提高动物的生长性能和氮的有效利用率。Mata 等[25]报道，饲粮中每天添i9 加 $2 . 5 \\ \\mathrm { g }$ 蛋氨酸可显著提高美利奴羊羔羊的生长性能，最终有利于羔羊后期的培育。然而，-0 Wiese 等[26]研究发现饲粮中补充过瘤胃蛋氨酸对于美利奴羊的生长性能、饲粮转化率及胴体:1 重的影响均差异不显著。造成不同的试验结果的原因可能在于试验羔羊的品种、饲粮组成和2 蛋氨酸水平不一致等。从前人研究发现，饲粮中补充蛋氨酸会影响到羔羊的生长性能。因此，13 我们推断饲粮蛋氨酸水平限制同样会影响羔羊的生长发育。同时，饲粮蛋氨酸限制取消后，",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "给予补偿充足的蛋氨酸，羔羊生长发育是否能得到恢复或补偿，还有待进一步研究。另外，单一补充或限制蛋氨酸水平对羔羊生长发育进行研究,这也将很难建立蛋氨酸前期限制与后期补偿对羔羊生长发育影响的内在联系。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本试验为了排除遗传因素对试验造成的差异，选择初始重相近的双胞胎公羔羊。同时，本试验基础饲粮中蛋氨酸水平通过人为控制在最低水平，以便研究蛋氨酸限制对早期断奶羔羊生长发育的影响。另外，补充蛋氨酸水平最大限度满足羔羊生长的营养需要，以便研究补充蛋氨酸对早期断奶羔羊生长性能的补偿程度。本试验中，8周龄，RES 组羔羊的体重显著低于CON 组羔羊。在 $9 \\sim 1 2$ 周龄阶段，RES组蛋氨酸补偿后，12周龄2组的体重差异不显著。这说明蛋氨酸限制对羔羊前期生长有抑制作用，通过补充蛋氨酸后羔羊体重有一定的补偿作用。同样，刘小刚[27通过研究饲粮不同能氮营养水平营养限制及补偿对羔羊生长发育的影响，结果发现，营养水平限制后通过营养补偿对羔羊生长有一定程度恢复。另外，本试验中在2组羔羊饲喂量保持相近水平的条件下， $2 { \\sim } 8$ 周龄阶段的CON组羔羊平均日增重极显著高于RES 组，进一步说明蛋氨酸限制对早期断奶羔羊的平均日增重有抑制作用。 $2 { \\sim } 8$ 周龄阶段，CON 组处于蛋氨酸限制状态，其料重比显著高于CON组，而补充蛋氨酸后，2组料重比差异不显著。说明蛋氨酸限制不利于羔羊的消化吸收，补充蛋氨酸后2组羔羊对饲粮的消化利用率差异不显著。结果提示，蛋氨酸限制降低了早期断奶湖羊羔羊平均日增重，抑制其生长速度，不利于羔羊对饲粮的消化吸收。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2蛋氨酸限制与补偿对羔羊屠宰性能的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在8周龄之前，RES 组羔羊处于蛋氨酸限制状态，从生长性能可以看出，断代乳粉时，RES 组的体重显著低于CON组，屠宰羔羊是随机选取的。本试验结果表明，除屠宰率外，RES 组其余屠宰指标（宰前活重、空体重和胴体重）均显著低于CON组，说明蛋氨酸限制不仅影响生长性能，还显著降低了屠宰性能，最终影响羔羊的产肉。而经过4周蛋氨酸补偿后，在12周龄，RES 组的屠宰性能与CON组之间差异不显著，这也与12 周龄末的生长性能结果相对应，表明8周龄前代乳粉和开食料的蛋氨酸水平限制了羔羊屠宰性能，在 $9 \\sim 1 2$ 周龄阶段蛋氨酸补偿后，RES 组在营养恢复阶段其生长速率较快，缩小了与CON 组屠宰性能之间的差距，这与12周龄屠宰时2组羔羊的体重状况相符。同样，Galvani等[28]研究发现，早期断奶羔羊营养物质不足时，影响其后期的饲粮利用，并延迟达到屠宰体重的时间，而充",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "足的营养物质则可以较快地达到屠宰体重要求，并且能够提高经济效益和肉品质。进一步说明动物在营养限制期结束后，通过营养补偿会不同程度地恢复限制阶段失去的体重[29]。而Obeidat 等[1]通过饲粮中添加不同水平[0、7、 $\\mathrm { 1 4 ~ g / }$ （头·天）]蛋氨酸，研究对Awassi 公羊生长性能、屠宰性能及肉品质的影响，结果发现，随着蛋氨酸水平的增加，蛋氨酸对羔羊的生长性能、屠宰性能和肉品质的影响不显著，这可能由于前期补充蛋氨酸的效果在试验的时间内还没有体现出来或者添加量还达不到Awassi公羊的最佳生长需要。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3蛋氨酸限制与补偿对羔羊内脏器官指数的影响",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "内脏器官的发育情况是由营养状况和生理状况共同决定的，动物内脏器官重量和器官指数反应了动物机体的发育状况[19.30]。本试验中，8 周龄，CON 组和 RES 组在各内脏器官重量及占宰前活重比例上均差异不显著，这与本试验2组羔羊的体重状况不一致。这可能蛋氨酸限制对于羔羊生长抑制首先表现在机体的重量上，对于具体各内脏器官重量差异还没表现出来。在 $9 \\sim 1 2$ 周龄阶段蛋氨酸补偿后，2组在各内脏器官指数上均差异不显著。同样，Atti等[31指出，营养限制及营养补偿对动物机体内脏器官影响不显著。而李东[32]曾报道，蒙古羔羊经过一段时间营养限制后，当营养水平恢复时，其内脏器官可以完全恢复正常。本试验研究结果与其不相符，因为动物的补偿生长不但受到营养限制开始时的日龄、营养限制的程度以及营养限制的持续时间影响，还受其品种、性别、遗传等方面的影响。因此，本试验中蛋氨酸水平前期限制及后期补偿对于羔羊各内脏器官指数影响均不显著。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.4蛋氨酸限制与补偿对羔羊胃肠道指数的影响",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由于羔羊幼龄期各胃肠道发育还不健全，此时的营养水平对于胃肠道的发育至关重要。营养物质水平的变化不仅影响胃肠道的分化，还能对各胃室、肠道重量及相对比重产生较大影响[33]。本试验中，8周龄末，RES 组羔羊比CON 组显著地降低了瘤胃的重量。这可能由于 $2 { \\sim } 8$ 周龄阶段瘤胃还未发育成熟，并且RES 组的蛋氨酸水平较低，因而不利于胃肠道的发育，造成胃肠道失重[34]。随着日龄的增加，在12周龄时羔羊对营养物质消化吸收主要通过瘤胃和小肠，RES 组蛋氨酸补偿后，2组之间的胃肠道指数之间差异不显著。而刘小刚等[35]通过营养限制及补偿研究对羔羊小肠黏膜生长发育的影响，结果发现，前期营养限制对羔羊的小肠黏膜影响较大，通过补偿后期恢复速度较慢，进而降低其发育速度。本试验结果与其报道不相符，这可能由于本试验中2组饲粮中只有蛋氨酸水平不同，前期蛋氨酸限制对",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "羔羊瘤胃发育的抑制可以通过后期补偿得以恢复。 4结论 $\\textcircled { 1 } 2 { \\sim } 8$ 周龄，蛋氨酸限制对双胞胎羔羊生长发育产生抑制作用，影响了羔羊的生长性 能、屠宰性能。 $\\textcircled { 2 } 9 \\sim 1 2$ 周龄，蛋氨酸补偿后，蛋氨酸限制的双胞胎羔羊在生长性能和内脏器官发育得 到恢复。 参考文献： [1]STORM E,ORSKOV E R.The nutritive value of rumen micro-organisms in ruminants.4.the limiting amino acids of microbial protein in growing sheep determined by a new approach[J.The British Journal of Nutrition,1984,52(3):613-620. [2]BEQUETTE B J.Amino acid metabolism in farm animals:an overview[M]//D’MELLO JP F.Amino acids in farm animal nutrition.Wallingford:CAB International..2Oo3:1-10. [3]DILGER R N,BAKER D H.DL-methionine is as efficacious as $L$ methionine,but modest L-cystine excesses are anorexigenic in sulfur amino acid-deficient purified and practical-type diets fed to chicks[J].Poultry Science,2007,86(11):2367-2374. [4]SCHWAB C G,BOZAK C K,NOCEK JE.Change in amino acid patern of soybean meal and cornglutenmealuponexposuretorumenfermentation[J].JournalofAnimal Science,1986,63(S1):158-161. [5]张乃锋.蛋白质与氨基酸营养对早期断奶犊牛免疫相关指标的影响[D].博士学位论文.北 京:中国农业科学院,2008. [6]CHENG Z JJ,HARDY R W,USRY JL.Plant protein ingredients with lysine supplementation ：19 reduce dietary protein level in rainbow trout (Oncorhynchus mykis） diets,and reduce ammonia :20 nitrogen and soluble phosphorus excretion[J].Aquaculture,2003,218(1/2/3/4):553-565. ：21 [7] MATAG,MASTERSDG,BUSCALLD,etal.Responsesinwool :22 growth,liveweight,glutathione and amino acids,in merino wethers fed increasing amounts of :23 methionine protected from degradation in the rumen[J].Australian Journal of Agricultural :24 Research,1995,46(6):1189-1204. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 [8]TSIAGBE V K,COOK M E.HARPER A E,et al.Enhanced immune responses in broiler 5 chicks fed methionine-supplemented diets[J].Poultry Science,1987,66(7):1147-1154.   \n7 [9] EL-TAHAWY A S.ISMAEIL A M.Methionine-supplemented diet increases the general 3 performanceandvalueofRahmanilambs[J].IranianJournalofAppliedAnimal ） Science,2013,3(3):513-520.   \n） [10] ABDELRAHMAN M M,HUNAITI D A.The effect of dietary yeast and protected 1 methionine on performance and trace minerals status of growing Awassi lambs[J].Livestock 2 Science,2008,115(2/3),235-241.   \n3 [11] OBEIDAT B S,ABDULLAH A Y,AWAWDEH M S,et al.Effect of methionine 4 supplementation on performance and carcass characteristics of Awassi ram lambs fed finishing 5 diets[J].Asian-Australasian Journal of Animal Sciences,20o8,21(6):831-837.   \n5 [12]HUSSEIN H S,BERGER L L.Fedlot performance and carcass characteristics of Holstein 7 steers as affected by source of dietary protein and level of ruminally protected lysine and 3 methionine[J].Journal of Animal Science,1995,73(12):3503-3509.   \n） [13]CHILLIARD Y,BOCQUIER F,DOREAU M.Digestive and metabolic adaptations of ） ruminantstoundernutrition,and consequenceson reproduction[J].Reproduction Nutrition 1 Development,1998,38(2):131-152.   \n2 [14]NOZIERE P,ATTAIX D,BOCQUIER F,et al.Efects of underfeeding and refeeding on 3 weightandcelllarityofsplanchnicorgansinewes[J].JournalofAnimal 4 Science,1999,77(8):2279-2290.   \n5 [15]刁其玉,屠焰.一种犊牛羔羊用代乳粉:中国,ZL02128844.5[P].2004-05-12.   \n5 [16]MIRAND P P,THERIEZ M.Amino acid requirements of preruminant lambs[J].Annales de 7 Zootechnie,1977,26 (2):287-287.   \n3 [17] 王波,柴建民,王海超,等.蛋白质水平对湖羊双胞胎公羔生长发育及肉品质的影响[J.动 ） 物营养学报,2015,27(9):2724-2735.   \n） [18]张丽英.饲料分析及饲料质量检测技术[M].2版.北京:中国农业大学出版社,2003. 1 [19]许贵善,刁其玉,纪守坤,等.不同饲喂水平对肉用绵羊生长性能、屠宰性能及器官指数的 影响[J].动物营养学报,2012,24(5):953-960.   \n[20] 许贵善.20—35 kg 杜寒杂交羔羊能量与蛋白质需要量参数的研究[D].博士学位论文.北 京:中国农业科学院,2013.   \n[21]王海超,张乃锋,柴建民,等.人工哺育代乳粉对湖羊双胎羔羊生长发育、营养物质消化和 血清学指标的影响[J].动物营养学报,2015,27(2):436-447.   \n[22] 柴建民,刁其玉,屠焰,等.早期断奶时间对湖羊羔羊组织器官发育、屠宰性能和肉品质的 影响[J].动物营养学报,2014,26(7):1838-1847.   \n[23]NAPOLITANO F,CIFUNI G F,PACELLI C,et al.Effect of artificial rearing on lamb welfare and meat quality[J].Meat Science,2002,60(3):307-315.   \n[24]GOEDEKENF K,KLOPFENSTEIN TJ,STOCKR A,et al.Protein value of feather meal for ruminants as affected by blood additions[J].Journal of Animal Science,1990,68(9):2936-2944. [25]MATA G,MASTERS D G,LIU S,et al.Responses to protected canola meal and methionine ingrazing Merino weaners-Liveweight and wool[J].Asian-Australasian Journal of Animal Sciences,2000,13,179.   \n[26]Wiese S C,White C L,Masters D G,et al.The growth performance and carcass atributes of Merino andPollDorset $\\times$ merino lambsfedrumen-protected methionine(SmartamineTM-M)[J].Australian Journal of Agricultural Research,2003,54(5):507- 513.   \n[27] 刘小刚.营养限制及补偿对羔羊内脏器官和血液中 $\\mathrm { C D ^ { 4 + } } .$ ， $\\mathrm { C D ^ { 8 + } T }$ 淋巴细胞的影响[D].硕 士学位论文.呼和浩特:内蒙古农业大学,2010.   \n[28]GALVANI D B,PIRES C C,HUBNER C,et al.Growth performance and carcass traits of early-weaned lambs as affected by the nutritional regimen of lactating ewes[J].Small Ruminant Research,2014,120(1):1-5.   \n[29]HORNICK JL,VAN EENAEME C,GERARD O,et al.Mechanisms of reduced and compensatory growth[J].Domestic Animal Endocrinology,20oo,19(2):121-132.   \n[30]官丽辉,刘海斌,张立永,等.日粮不同能量水平对育成鸡体增质量、血液生化指标及内脏 器官发育的影响[J].中国兽医学报,2014,34(2):350-356. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[31]ATTI N,SALEM H B.Compensatory growth and carcass composition of Barbarine lambs receiving different levels of feeding with partial replacement of the concentrate with feed blocks[J].Animal Feed Science and Technology,2008,147(1/2/3):265-277.   \n[32]李东.蒙古羔羊补偿生长能力的研究[D].硕士学位论文.呼和浩特:内蒙古农业大学,2011. [33]CHURCHD C.Digestive physiology[M].Corvallis:O&B Books,1975:350.   \n[34]BURRIN D G,FERRELL C L,BRITTON R A,et al.Level of nutrition and visceral organ size and metabolic activity in sheep[J].British Journal of Nutrition,1990,64(2):439-448.   \n[35]刘小刚,李大彪,侯先志,等.营养限制及补偿对羔羊小肠黏膜生长发育的影响[J].中国农 业科学,2011,44(17):3613-3621.   \nEffects of Dietary Methionine Restriction and Compensation on Growth Performance and Visceral Organ Development of Lambs   \nWANG JieCUI KaiBIYanliang CHAI JianminQIMinliZHANG Fan   \nWANG Shiqin DIAO Qiyu ZHANG Naifeng\\*   \n(Feed Research Institute of Chinese Academy of Agricultural Sciences,Key Laboratory of Feed Biotechnology of Ministry of Agriculture,Beijing 10o081,China)   \nAbstract: The aim of this study was to assess the effects of dietary methionine (Met) restriction and compensation on growth performance and visceral organ development of lambs.Twelve pairs of male Hu twin lambs weaned at one week of age were selected and divided into two groups with a matched-pairs design. During 2 to 8 weeks of age,lambs were fed diets containing either sufficient [basal milk replacer $+ 0 . 7 0 \\%$ Met and basal starter $+ 0 . 4 0 \\%$ Met,control（CON） group] or deficient Met [basal milk replacer and basal starter, restriction（RES） group].During 9 to 12 weeks of age,all lambs were fed diets containing sufficient Met (basal starter $+ 0 . 4 0 \\%$ Met). Six twins each time were slaughtered at the end of 8 and 12 weeks of age for weighting visceral organs,respectively. The results showed as follows:1) body weight of 8-week-old lambs in RES group was significantly lower than that in CON group $( P { < } 0 . 0 5 )$ ; average daily gain in RES group was significantly lower than that in CON group during 2 to 8 weeks of age $( P { < } 0 . 0 1 )$ ，whereas feed to gain ratio was significantly higher $( P { < } 0 . 0 5 )$ ； no significant differences were found in ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "average daily gain and feed to gain ratio between two groups during 9 to 12 weeks of age （号 $( P { > } 0 . 0 5 )$ .2)Live body weight before slaughter, empty body weight,carcass weight of 8-week-old lambs in RES group were significantly lower than those in CON group $( P { < } 0 . 0 5 )$ ，but no significant difference was found in dressing percentage between two groups $( P { > } 0 . 0 5 )$ ；no significant differences were observed in live body weight before slaughter,empty body weight, carcass weight,and dressing percentage between groups at 12 weeks of age $( P { > } 0 . 0 5 )$ .3)No significant differences were observed in weights and percentages of live body weight before slaughter of visceral organs between groups at 8 and 12 weeks of age ( $( P { > } 0 . 0 5 )$ .4) No significant differences were observed in gastrointestinal tract indexes between groups at 8 and 12 weeks of age $( P > 0 . 0 5 )$ except rumen weight at 8 weeks of age,which was significantly lower in RES group than in CON group $( P { < } 0 . 0 5 )$ .In conclusion,dietary restriction of Met level results in decreased rumen weight，growth performance and slaughter performance of lambs,but subsequent recoveries of growth performance and visceral organ development appear after the compensation of dietary Met level. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Key words： lamb； methionine restriction；methionine compensation； growth performance;visceral organ development",
+        "page_idx": 14
+    }
+]

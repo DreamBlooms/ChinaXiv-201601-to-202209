@@ -1,0 +1,174 @@
+# 分流流道内流动结构的测试与分析
+
+薛翔王彤
+
+(上海交通大学燃气轮机研究院，上海 200240)
+
+摘要分叉管道常见于工程上的流量分配装置、飞行器内外涵道结构，其中分流流道的流动结构影响着主流道的通流量，且回流涡的产生与扩大会引起分流流道的阻塞，使之失去分流的作用。本文采用高速摄影对分流流道内部的流动结构进行识别，发现在其入口处存在明显的回流涡，进而对回流涡处壁面进行了压力动态测量。压力动态测试与高速摄影的结果显示出分流通道中回流涡流场变化的频率信息。在不同的管道入口雷诺数（ $R e _ { \mathrm { i n } } = 8 0 2 4 9$ 到179414）下，回流涡处的壁面压力变化具有混沌特性，随着入口雷诺数的增加，压力脉动的幅值增大，而随机性却减小，确定性和稳定性增强，且在回流涡产生位置尤为显著，影响整个分流流道的通流能力。
+
+关键词分流流道；回流涡；高速摄影；压力动态测量中图分类号：O357.5 文献标识码：A 文章编号:0253-231X(2017)03-0529-06
+
+# Test and Analysis of Flow Structure in a Furcated Duct
+
+XUE Xiang WANG Tong (Gas Turbine Research Institute,Shanghai Jiao tong University，Shanghai 2Oo240,China)
+
+AbstractThe furcated duct is a common engineering device of flow distribution or an aircraft bypass construction,in which the structure of split fow affects the passing fow rate of main flow path. The generation and expansion of reflux vortex may cause obstruction of split flow and make it loss the effct of fow distribution. In this paper,the flow structure in the split fow channel was identified through high-speed photography test at first,and an obvious reflux vortex structure was found at the inlet of scavenge flow passage. Then, the wall static pressure near it was dynamic tested and recorded. The results of both the dynamic pressre test and high-speed photography captured the frequency information caused by the vortex flow field. It was further found that wall pressure variation near reflux vortex has chaotic characteristics at diferent inlet Reynolds number （ $R e _ { \mathrm { i n } } ~ = ~ 8 0 2 4 9$ to 179414). With inlet Reynolds number increasing， pressure pulsation amplitude increases, the randomness decreases， certainty and stability enhance， especially vortex generation position, to affect the flow-passing capacity of split flow channel.
+
+Key wordssplit fow channel; reflux vortex; high-speed photography; pressure dynamic measurement
+
+# 0引言
+
+在生活和生产中，分叉管道有很多应用。分叉管道本身具有分配流量的作用，但在水利工程、工业生产等方面，又常常利用离心力、惯性力等，使之具有两相流动分离的作用，应用十分广泛。
+
+20 世纪80 年代，为了解决发动机在一些特殊环境下工作会吸入粉尘砂砾的实际问题，惯性粒子分离器得以推广，其轴向流道为分叉管道模型，因而这也推进了分叉管道内部流动结构的实验研究。
+
+国外的相关研究开始于70年代：TabakoffW[1]使用LDV技术对惯性粒子分离器进行了大量的颗粒碰撞试验，对气固两相流动中粒子与管道壁面的碰撞规律做了全面的研究；而Robert $\mathrm { ~ J ~ D ^ { [ 2 ] } }$ 主要考虑气流场的影响，对流道形线进行了改进；2013年Dominic $\mathrm { B ^ { [ 3 ] } }$ 首次利用 PIV 对分叉管道模型的气固两相流动进行了测试，在分流流道入口处发现了回流涡；2015年，Snyder $\mathrm { P ^ { [ 4 ] } }$ 使用了 MP-PIV 和高速摄影对三种不同流线的分叉管道进行了气固两相流动实验，并详细分析了气流场分布和颗粒运动的情况。国内从90 年代末以后也开始了相关研究：吴恒刚[5进行了相关实验，讨论分析了分离部件位置对分离效率的影响；王彤[在对惯性粒子分离器的分叉管道模型进行了PIV测量中发现，分流流道入口处的回流涡结构受到壁面影响较大，且回流涡尺度主要与分流流道和主流道的流量比有关。
+
+总体看来，目前国内还较为缺乏对于分叉管道的实验研究，尤其是对分叉管道的内部流动情况和产生的回流涡结构进行细致的实验研究。
+
+本文使用了高速摄影和压力动态测量，着眼于分叉管道内流动结构的动态测试，重点分析了分流流道入口处回流涡的动态特性。希望可以通过高速摄影的测试手段可以直观地确定回流涡的具体位置和变化特征，并能与动态压力结果取得一定对应，进行相互验证。进而根据动态测试结果，对该流场结构的旋涡脱落频率、压力脉动强度以及非线性特征等进行了分析。
+
+# 1实验设备和方法
+
+# 1.1 实验设备
+
+实验采用采用双风机抽气负压来控制实验中两个流道出口的流量，主要是通过变频仪调节风机转速来改变流量，调节实验工况。图1为试验台的示意图，整个实验台由（1）进口段、(2）圆转方实验件、(3)进口稳流段、(4)分叉管道实验段、(5）出口延伸段、(6)方转圆实验件和布置在进、出口处的流量计等主要部件组成。
+
+![](images/152900426b6155c48a9052179c876c43d43dcd1636c0c120e59cdc976f7319db.jpg)  
+图1分叉管道实验系统 Fig.1 Experimental system of furcated duct
+
+置帧数为 $6 0 0 0 ~ \mathrm { f p s }$ ，通过数据线与计算机相连，使用专门的测试软件进行操作。
+
+测试中使用激光发生器在清除流道一侧提供连续光源，激光发生器的工作电压为 $1 3 2 0 { \mathrm { V } }$ ，产生激光的波长为 $5 3 2 { \mathrm { n m } }$ 。在入口处均匀喷洒直径在 $2 0 0 \mu \mathrm { m }$ 以下的示踪粒子 (石英颗粒)，颗粒随气流进入分叉管道流动，全程拍摄，每秒钟等时间间隔拍摄6000张照片，照片直接储存在计算机中。
+
+2）压力动态测量：压力传感器使用的是Kulite公司生产的小型高速动态压力传感器，型号为XCS-190M-30A，探头直径为 $3 . 8 ~ \mathrm { m m }$ ，螺纹孔，压力感应原理为惠更斯全桥，分辨率为无限小，综合非线性、迟滞性和重复性满足精度等级为 $0 . 0 5 \%$ ；动态压力信号采集使用NI公司的9215采集卡和cDAQ-9178机箱，可以实现多路通道的高速同步采样，本实验中选取采样频率为 $1 0 0 ~ \mathrm { k H z }$ ，采集到的动态压力数据，使用网线接口与计算机通信，测量数据直接存储进计算机。
+
+在分叉管道分流流道一侧壁面 $5 0 \%$ 的高度处布置压力测点，图2为分叉管道模型的横截面图，红色圆圈处为测点位置，位于入口稳点段的测点为对照点，在分流流道入口处的5个测点为实验测点，用来探究分流流道入口前后的流动情况。为了方便说明，沿流动方向分别命名为测点1到5。其中各测点之间的位置关系均以标出。
+
+![](images/736dd9766ca2ca0c80fe23f6544ed0be69de731697e6ed59c5ec1bd9228b9444.jpg)  
+图2压力测点位置与模型具体尺寸  
+Fig.2 Pressure measuring point and parameters of the model
+
+# 1.3实验工况
+
+# 1.2 实验方法
+
+实验包括光学测量 (高速摄影)和压力动态测量两部分：
+
+1）光学测量：使用的CCD 相机由Nikon公司出产，分辨率可以达到 $2 0 4 8 \times 2 0 4 8$ 像素。使用支架将其固定在分叉管道的上方，与流动平面平行。设
+
+在之前进行过的PIV实验研究发现，在分流流道和主流道的流量比 $Q _ { 1 } / Q _ { 2 }$ 不变时，回流涡的空间尺度上变化不大[。而本文关注点在于当回流涡的空间尺度变化不大时，流场特征随着入口雷诺数的不同而是否存在差异。因而设计流量比 $Q _ { 1 } / Q _ { 2 }$ 基本保持不变而入口雷诺数不同的5组实验工况如表1。
+
+表1实验工况 Table 1 Test conditions   
+
+<html><body><table><tr><td></td><td>Q1/m3·h-1</td><td>Q2/m3·h-1</td><td>Q1/Q2</td><td>Rein</td></tr><tr><td>工况一</td><td>321.8</td><td>54.7</td><td>0.1700</td><td>80249</td></tr><tr><td>工况二</td><td>451</td><td>76.62</td><td>0.1699</td><td>112463</td></tr><tr><td>工况三</td><td>505</td><td>86</td><td>0.1703</td><td>125991</td></tr><tr><td>工况四</td><td>598.07</td><td>101.75</td><td>0.1701</td><td>149149</td></tr><tr><td>工况五</td><td>719</td><td>122.6</td><td>0.1705</td><td>179414</td></tr></table></body></html>
+
+# 2 实验结果
+
+# 2.1高速摄影结果
+
+图3中左图为连续的1000 幅照片的平均结果，照片动态连续播放可以清楚地看到旋涡的生成与消失，反映在照片上即为图像明暗的变化。正方形的区域为一个 $1 0 0 \times 1 0 0$ 像素大小的观察窗口，由于光源的关系，这里明暗变化最为明显。图4右侧为观察窗口在不同时刻的照片，可以明显看出，该区域由暗到亮，再到暗，呈现周期变化。图片中明暗程度的变化主要受到相应位置处旋涡的影响，因而也一定程度上说明了旋涡脱落频率的大致范围，可以作为从动态数据中提取旋涡脱落频率的参考。
+
+![](images/ddc4754f7497a3cfa07c0c1d52a0ab1e45b3ca2f4ff7105039e9d3e88784d663.jpg)  
+图3高速摄影平均结果及观察区域内不同时刻结果 Fig.3 Average and instantaneous resultswithin the observation area of high-speed photography
+
+动数据，以测点1为例，图4为其在五个工况下一段时间内采集到的压力变化情况。
+
+实验中已经屏蔽掉了电源和变频仪的干扰，检验方式为使用对照点在5个工况下得到的压力数据进行FFT，各个频率段的幅值处于一个较低的量级且没有某频率或频率段的幅值明显高于其他部分，说明实验中信号采集未受到直流电源和变频仪的影响，FFT中分布在各个频率的信号主要是压力测量系统产生的白噪音；同时说明了对照点布置在入口稳流段，无法感受到分流流道入口处旋涡带来的压力变化信息。
+
+# 2.3压力动态测量与高速摄影结果对比
+
+压力实验测点处采集到的压力值和高速摄影观察窗口处提取的灰度值，理论上都能捕捉到旋涡变化的信息。因此，分别对同样工况下的压力值和灰度值进行FFT，在三个相近工况下选取高速摄影中旋涡产生和消失明显的时间段结果进行FFT，与压力动态测量的FFT结果进行对比，如图5(其中 $A$ 为FFT 变换后的幅值)。
+
+工况五 MMNW   
+工况四 mwm   
+工况三 MMMwWywmmm 兄 m wwWwwMWwMwMMMMWm   
+工况- wWwmmmMwwWwWwwWmm 0.00 0.05 0.10 0.15 t/s
+
+![](images/82045ff2ed1e01803615e66df82cb8c05840dc084abfce49db37eb835475f1cf.jpg)  
+图4测点1的压力数据示例 Fig.4 Pressure data of the measuring point 1   
+(b)对照工况二
+
+# 2.2动态压力测量结果
+
+测得各个测点在5个工况下的10s内的压力脉
+
+![](images/3f2624b9037e4a9b5f6b250269432a525afbc4f53876ba9d4963f33ed4572611.jpg)  
+图5压力值与高速摄影灰度值FFT 结果对比 Fig.5 FFT results contrast between pressure and gradation in high-speed photography
+
+在压力值和灰度值的FFT结果中，均捕捉到相同或相近的特征频率，这从一定程度上相互验证了实验的可靠性。其频率与图3中旋涡产生与消失的周期较为吻合，因而认为其为旋涡的脱落频率。
+
+# 3压力数据分析
+
+# 3.1旋涡特征频率
+
+对10s内五个工况下各个测点的压力数据进行FFT，在5个实验测点都捕捉到了回流涡的脱落频率，而在对照点处没有发现任何特征频率。在不同进口雷诺数下的回流涡脱落频率如图6所示，可以看出，在几何条件固定和流量比 $Q _ { 1 } / Q _ { 2 }$ 保持不变时,回流涡的特征频率与入口雷诺数之间存在某种正向线性关系。
+
+![](images/2e6fedcf70921a701a05ca10cb29d54644d09baff512beb42e3c369bbaa0d0f4.jpg)  
+图6不同入口雷诺数下的特征频率Fig.6 Characteristic frequenciesat different inlet Reynoldsnumber
+
+# 3.2压力脉动幅值
+
+用压力数据的标准偏差来表示压力脉动幅值，求出不同工况下各个实验测点和对照点的压力脉动幅值进行对比，如图7所示。同时，图7中还包括同一测点位置在不同工况下各点的二次拟合线。
+
+![](images/7f94bc23af041c3c4e3e52a7def73e72768fc0db702a4863dcba6a946bf769c2.jpg)  
+图7不同入口雷诺数下的各测点压力脉动幅值 Fig.7 Pressure fluctuating amplitude of each measuring point in different Reynolds number
+
+可见，实验测点的压力脉动幅值随着入口流速的增加而增加，且增加的趋势用二次曲线拟合，5个实验测点的拟合结果较好。入口雷诺数从80249增加到179414时，压力脉动幅值扩大了近3倍；而入口处布置的对照点压力脉动幅值却基本保持不变，这也说明回流涡处各测点压力脉动幅值的增大是由回流涡结构造成的，不是由于传感器特性引起。
+
+压力脉动变化的特征和回流涡的特性息息相关，因而进一步通过非线性分析方法对这种压力脉动的混沌特性进行提取和分析。
+
+# 3.3混沌特性
+
+混沌是指在确定性动力系统中局限于相空间的高度不稳定运动，是非线性动力系统的一种常见属性。具有混沌特性的行为对初值十分敏感，其短期是可以预测的，不像随机行为，即使短期也很难预测；混沌运动的控制方程和初值条件构成的是确定性问题，而随机运动只是统计意义上的确定。
+
+而实验测点处的压力脉动由于受到回流涡的影响，具有这种混沌特性。因而，采用一种较为简单直观的分析方法对压力数据中的混沌特性进行了分析，即当量递归分析方法。
+
+设 $Y = \{ X _ { i } \colon i = 1 , 2 , \cdot \cdot \cdot , \mathrm { N } \}$ 为动态压力传感器采集的某测点的压力时间序列。适当选择嵌入维数 $\mathrm { ~ m ~ }$ 和延迟时间 $t$ ，将单变量 $Y$ 采用延时重构法重构，使相空间嵌入 $m$ 维欧氏空间 ${ \boldsymbol { R } } _ { m }$ 中，相空间元素记作：
+
+$$
+Y _ { i } ( m , t ) = ( X _ { i } , X _ { i + 1 } , X _ { i + 2 t } , \cdot \cdot \cdot X _ { i + ( m - 1 ) t } )
+$$
+
+式中 $i = 1 , 2 , \cdots$ ， $[ N - ( m - 1 ) t ]$ 。
+
+重构相空间中任意两向量的距离为 $\mathbf { r } _ { i j }$ ，表示为：
+
+$$
+r _ { i j } = \| Y _ { i } - Y _ { j } \| = \sqrt { \sum _ { k = 0 } ^ { m - 1 } ( Y _ { i + k t } - Y _ { j + k t } ) ^ { 2 } }
+$$
+
+设置 $\mathbf { \Omega } _ { a }$ 为阈值系数，当 $r _ { i j } ~ < ~ a \times S D ( Y )$ 时$S D ( Y )$ 为压力波动时间序列的标准差)， $R _ { i j } = 1$ ，否则为0。当 $R _ { i j } = 1$ 时，在二维坐标图上的 $( i , j )$ 位置上描点，这样便可绘出 $\boldsymbol { n } \times \boldsymbol { n }$ 的二维图，即递归图。递归图中规则的图案是系统中确定成分的反映，无序不规则的图案是系统中随机成分的表现。为了进一步量化分析，从递归图中可以提取两个主要的特征量：确定性(构成与主对角线方向平行线段的递归点占总递归点的百分比，反映系统的确定性)和平均对角线长度（主对角线方向线段长度的加权平均值，反映系统的周期性)。
+
+根据本实验的具体情况选取适当参数，即嵌入维数 $\scriptstyle { m = 3 }$ ，延迟时间 $\scriptstyle t = 4$ 及阈值系数 $a { = } 0 . 3$ 。为了方便说明，选择测点1在前三个工况下的递归图如图 $8 ( \mathrm { a } ) \mathrm { \sim ( c ) }$ 所示和对照点在相同工况下的递归图如图 $8 ( \mathrm { d } ) { \sim } ( \mathrm { f } )$ 进行对比。
+
+可以看出，测点1在工况一时的递归图呈现类似均匀分散的孤立点和沿主对角线方向发育的线条纹理结构的组合特征，表示流动的不规则使系统呈现非线性，压力存在较大随机波动，而沿主对角线方向线条纹理明显仍表现出一定的混沌特性，随着入□雷诺数的增加，递归图逐渐呈现出沿主对角线方向线条纹理明显仍表现出一定的混沌特性，随着入□雷诺数的增加，递归图逐渐呈现出沿主对角线方向较发育的线条纹理结构与间歇性矩形块纹理结构的组合特征，表明系统的确定成分在增多，周期性在增强；而对照点在这三个工况下的递归图没有明显区别，均为类似均匀分散的孤立点和沿主对角线方向发育的线条纹理结构的组合特征，随着雷诺数增加，没有出现代表周期性的间歇性矩形块纹理结构。
+
+从递归图中提取出各组数据的确定性、平均对角线长度如图9所示。
+
+可见，随着入口雷诺数增大，压力脉动信号的确定性、平均对角线长度都相应增大，说明随入口流速增大，由回流涡结构引起的压力脉动幅值增大，而随机性却在减小，且系统的周期性在增强。
+
+![](images/099c9c7182028aac8b058e23c422be7d71c319825a4225ccc39bc62c4e93d07f.jpg)  
+图8实验点和对照点不同工况下递归图对比  
+Fig.8 Recurrence plots of the measuring point 1 and contrast point
+
+同时从测点位置上看，各工况下的确定性和前三个工况下的平均对角线长度都在测点2处取得最大值，而测点2正是高速摄影结果中回流涡产生的地方。因而推测：由于回流涡的产生，可以提高系统的确定性和稳定性，尤其是回流涡的产生位置；而稳定性在工况四和五时没有在测点2去的最大值，可能和测点2到测点3管道截面宽度变化剧烈等情况有关。
+
+![](images/1b0f02a001cff797e0dfacaa7a834b17a3c581ae267a80f379faef78d1750dd1.jpg)  
+图9递归定量分析特征值  
+Fig.9 Eigen values of recurrence quantification analysis
+
+# 4结论
+
+本文通过高速摄影和动态压力传感器对不同入□雷诺数下分叉管道分流流道内气流的流动情况进行了测试，主要研究了分流流道入口处的回流涡结构对流场产生的影响，并进行了参数动态特性分析。发现该回流涡各项特性如下：
+
+1)频率特性：在几何条件和流量比情况固定时，分流流道处的脱落涡频率与入口雷诺数之间存在正向线性关系;2)强度特性：分叉管道入口雷诺数增加时，回流涡处各实验测点的脉动壁压幅值会受到回流涡的影响而增大;3)混沌特性：清除流道处流场结构受到回流涡的影响而具有混沌特性，随着入口流速的增加，系统随机性减小，确定性和稳定性增强，尤其是在旋涡产生处。
+
+# 参考文献
+
+[1] Tabakoff W.Measurements of Particles Rebound Characteristics on Materials used in Gas Turbines [J].Journal of Propulsion and Power,1991,7(5):805-813   
+[2]Robert JD,Bevnnard S.Integral Engine Inlet Particle Separator:Volume II-Design Guide [R].USAAMRDLTR-75-31B,1975   
+[3]Barone D,Loth E,Snyder P.Efficiency ofan Inertial Particle Separator [J]. Journal of Propulsion and Power, 2015, 31(4): 997-1002   
+[4]Snyder PH,Barone D,Loth E.Unsteady Flow Dynamics Within an Inertial Particle Separator [C]//ASME Turbo Expo 2O15: Turbine Technical Conference and Exposition.American Society of Mechanical Engineers,2015: V001T01A030   
+[5]吴恒刚.无叶片整体式粒子分离器性能研究[D].南京：南京 航空航天大学，2007 WU Henggang. Numerical simulation of vaneless inertial particle separator [D].Nanjing:Nanjing University of Aeronautices and Astronautics,2007   
+[6]王彤,孙亮亮,邵昱昌.惯性粒子分离器清除流道 PIV 测量 与分析[J].航空学报，2016(10)：2961-2969 WANG Tong,SUNLiangliang,SHAO Yuchang.PIV Test andFlow Analysis on the Scavenge Passage in an Inertial Particle Separator [J].Acta Aeronautica et Astronautica Sinica,2016(10): 2961-296

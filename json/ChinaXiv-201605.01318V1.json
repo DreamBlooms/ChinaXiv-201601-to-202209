@@ -1,0 +1,616 @@
+[
+    {
+        "type": "text",
+        "text": "Originalarticle ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A novel phosphodiesterase-5 Inhibitor: Yonkenafil modulates neurogenesis, gliosis to improve cognitive function and ameliorates amyloid burden in an APP/PS1 transgenic mice model ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lei Zhua, Jing-yu Yanga, Xue XueC, Ying-xu Donga, Yang Liua, Feng-rong Miaoa, Yong-feng Wangd, Hong Xuea,b,\\*, Chun-fu Wua,\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "aDepartmentofarmacology,ShenyangarmaceuticalUnversityBox31,03WenaRod,1o16enang,a bDepartmentofiochemistry,HongKong UniversityfScienceandTechnologyClearWaterBayKowloon,HongKong,China CKey Laboratoryofomacromolecules,stitteofioysics,secdemyofienceseijingina d Zhuhai Oxforston PharmTech Co.Ltd,Tangjiawan,519085 Zhuhai,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE INFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article history:   \nReceived 20 December 2014   \nReceived in revised form 1O July 2015   \nAccepted 14 July 2015   \nAvailable online 19 July 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: $\\beta$ -amyloid Neurogenesis Cognitive Microglia Yonkenafil ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In Alzheimer's disease (AD),activated microglia invade and surround $\\beta$ -amyloid plaques,possibly contributing to the aggregation of amyloid $\\beta$ (Aβ),which affect the survival of neurons and lead to memory loss.Phosphodiesterase-5(PDE-5) inhibitors have recently been shownapotential therapeutic effecton AD.In this study,the efects of yonkenafil(yonk),a novelPDE-5inhibitor,oncognitivebehaviors as well as the pathological features in transgenic AD mice were investigated.Seven-month-old APP/PS1 transgenic mice were treated with yonk (2,6,or $1 8 \\mathrm { m g } / \\mathrm { k g }$ ,intraperitoneal injection(i.p.))or sildenafil (sild) $\\mathrm { \\langle 6 \\ m g / k g , }$ i.p.)daily for 3 months and then behavioral tests were performed.The results demonstrated that yonk improved nesting-buildingability,ameliorated working memory deficits in the Y-maze tasks, and significantly improved learning and memory function in the Morris water maze(MWM) tasks.In addition,yonk reduced the area of $\\mathsf { A } \\mathsf { \\beta }$ plaques,and inhibited over-activation of microglia and astrocytes.Furthermore,yonk increased neurogenesis in the dentate granule brain region of APP/PS1 mice, indicated by increased BrdU+/NeuN+and $\\mathrm { B r d U ^ { + } / D C X ^ { + } }$ cells compared to vehicle-treated transgenic mice. These results suggest that yonk could rescue cognitive deficits by ameliorated amyloid burden through regulating APP processing,inhibited the over-activation of microglia and astrocytes as well as restored neurogenesis. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\mathfrak { C }$ 2015Elsevier IrelandLtd.All rightsreserved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Alzheimer's disease(AD) is the most prevalent neurodegenerative disease (NDD),characterized by progressive impairment of memory and cognition (Hou et al., 2O1O),accumulation of senile plaques,neurofibrillary tangles,aswell as degenerationof synapses and death of neuronsin the brain (Mattson,2oo4).Meanwhile, the activation of microglia and astrocytes increase the inflammatory response to extracellular $\\mathsf { A } \\mathsf { \\beta }$ deposits that cause neuronal dysfunction (Heneka and Obanion,2oO7),ultimately leading to dementia through a cascade of neurotoxic events and finally resulting in cognitive defects. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Recent findings have suggested that selective inhibitors of Phosphodiesterase-5(PDE-5)may alleviate memory deficits in AD and show benefits in the AD phenotype in a mouse model of amyloid deposition via regulation of the inflammatory response and reduction of $\\mathbf { \\dot { A } \\beta }$ levels (Puzzo et al.,2009; Zhang et al.,2013), which is possibly due to increase cGMP levels (Wang etal.,2oo5a).Moreover,inhibition of PDE-5 appears to block the activation of the microgliainducedby $\\mathsf { A } \\mathsf { \\beta }$ (Paris et al.,20oob). Among the various PDE-5 inhibitors,yonkenafil(yonk),an analogue of sildenafil(sild), is a novel PDE5 inhibitor (Wang et al., 2O08). Wang et al. demonstrated that yonk and sild have strong inhibition effects against ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PDE-5,with an IC50 of $2 . 0 1 \\mathrm { n M }$ ,which is $4 . 4 6 \\mathrm { n M }$ in sild.Moreover, the effect of yonk is two folds stronger than that of sild (Wang, 2009).Our previous studies have reported the therapeutic effect of yonk in an acute experimental stroke model was through the protection of synapses by increasing the expression of the neurotrophic receptors TrkA and TrkB,along with their ligands,NGF and BDNF, respectively(Chen et al.,2O14a). Zhao etal. showed yonk inhibit microglial activation by decreasing PDE-5 expressionand increasing the cGMP level (Zhao et al.,2015).In the present study,we thus used a well-established transgenic mouse model (APP/PS1) which exhibits neurogenesis and cognitive impairments to further explore the influence of yonk. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study,we firstly report that chronic administration of yonk significantly improves the cognitive impairments and reduces the $\\mathsf { A } \\mathsf { \\beta }$ burden in APP/PS1 mice,which may be associated with the regulation of yonk on APP processing and $\\beta$ -CTF generation.Meanwhile,yonk exerts significant neuroprotection through decreasing the number of over-activated microglia and astrocytes and promoting the neurogenesis in the brain. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Animals ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All animals were approved by Beijing HFK bioscience CO.,LTD (http://www.hfkbio.com/cn/index.aspx). Seven-monthold male C57BL/6 $( n = 1 2 )$ and APPswe/PS1deltaE9 transgenic mice expressing a chimeric mouse/human amyloid precursor protein (Mo/HuAPP Swedish mutations K59M5/N596L) and mutant human presenilin 1(PS1 deltaE9)on a C57BL/6J background were used. This double-transgenic mouse model shows cognitive behavioral deficits from 3 months of age and displays $\\mathsf { A } \\mathsf { \\beta }$ plaques from 6 months of age(Wirz et al.,2013). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mice were housed in groups in standard individual ventilated cages $( 3 2 \\mathrm { c m } \\times 2 0 \\mathrm { c m } \\times 1 2 . 5 \\mathrm { c m } )$ ,with wood shavings as litter in a temperature $( 2 0 - 2 2 ^ { \\circ } { \\mathsf { C } } )$ and humidity $( 4 5 - 5 5 \\% )$ controlled environment with a $1 2 / 1 2 \\mathrm { h }$ modified dark-light cycle.Food and water were available ad libitum.All efforts were made to minimize pain and suffering to reduce the number of animals used.All experimental procedures were conducted in accordance with the Regulations ofExperimental Animal Administration issued by the State Committee of Science and Technology of the People's Republic of China. Behavioral test was performed between 8:00 and 12:00 every day. At the beginning of the injection period,animals were weighed approximately every 2 days,to monitor any weight changes following daily injections. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Drug administration ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Yonk and sild (yonkenafil hydrochloride,purity $9 8 \\%$ ,supplied by Zhuhai Oxforston PharmTech Co.Ltd,China;sildenafil citrate, purity $9 8 \\%$ ,supplied by Tianjin Tasly Company Ltd.,Tianjin,China) were dissolved in normal saline.Six experimental groups were generated by random group allocation,and the C57 and APP/PS1 groups were administered normal saline.Yonk was administered by the i.p. route at doses of2,6,or $1 8 \\mathrm { m g / k g }$ ,sildwasadministeredata dose of $6 \\mathrm { m g / k g }$ (i.p.),and these two PDE5 inhibitors were administered to mice for three months. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "After the behavioral test,all mice received injections of 5- Bromo-2-deoxyuridine (BrdU) $5 0 \\mathrm { m g / k g }$ (i.p.) for three consecutive days (Jin etal.,2oo4),administered twice daily, to label proliferation cells in the hippocampus.Mice were sacrificed $^ { 2 \\mathrm { h } }$ after the last injection of BrdU $( n = 4 – 6 )$ at the age of 10 months.To examine differentiation of proliferation cells in the hippocampus,the rest of themice ( $\\cdot n = 4 { - } 6 )$ were sacrificed 4 weeksafter the last injection, at the age of 11 months. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.Measure yonk in blood and brain samples ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To determine the ability yonk to penetrate the blood-brain barrier(BBB),yonk wasadministered to mice byi.p.at $5 0 \\mathrm { m g / k g }$ (Puzzo et al.,2oo9).Brain and blood samples were collected at eight time points (0,5,15,20,30,60,120,360 min) from three animals per time point.For plasma measurements,blood was collected into tubes containing sodium heparin $( 1 0 \\% )$ .Plasma wasseparated via centrifugation ( $4 ^ { \\circ } \\mathsf C ,$ 13000 rpm, $1 0 \\mathrm { { m i n } }$ )and stored at $- 8 0 ^ { \\circ } C$ For measurementof brain yonk concentrations,the brains were immediately excised,weighed,and rinsed by cold saline.On the day of the assay,frozen tissue samples were thawed at room temperature. Each tissue sample of $3 0 0 \\mathrm { m g }$ was weighed and placed into a plastic tube.Methanol-water $( 5 0 { : } 5 0 \\ \\mathrm { v / v } , \\ 1 \\ \\mathrm { m l } )$ was added to facilitate homogenization for1min.The homogenized samples were sonicated for $1 0 \\mathrm { { m i n } }$ .Then the samples were centrifuged at 13,000 rpm for $1 0 \\mathrm { { m i n } }$ and stored at $- 8 0 ^ { \\circ } \\mathsf C .$ At the time of measurement,sample $( 1 0 0 \\mu \\mathrm { l } )$ was transferred into round bottom glass tube.One hundred $\\mu \\mathrm { l }$ of methanol and $1 0 0 \\mu \\mathrm { l }$ sodium hydroxide were added.The sample mixture was vortexed for $3 0 s$ And thenaether-dichloromethane $( 3 { : } 2 \\mathrm { v } / \\mathrm { v } , 3 \\mathrm { m l } ) ,$ wasadded,thesample mixturewas vortexed for3 min.After centrifugation at $1 3 , 0 0 0 \\mathrm { r p m }$ for $1 0 \\mathrm { { m i n } }$ ,the upper organic layer was transferred to sharp bottom glass tube and evaporated at $4 0 ^ { \\circ } C$ undera gentle stream of nitrogen.Residues were dissolved in $2 0 0 \\mu \\mathrm { l }$ of the mobile phase and mixed using vortex mixer.One $\\lvert \\mu \\rvert$ aliquot was injected into the LC/MS/MS system for analysis.We found that the concentration of yonk in the brainwas highestafter $1 5 \\mathrm { m i n }$ (Supplementary Fig.1). Finally, by $6 \\mathrm { h }$ ,most of the drug was eliminated from both plasma and brain. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Supplementry material related to this article found,in the online version, at http://dx.doi.0rg/10.1016/j.mad.2015.07.002. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4.Behavioral procedures ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The behavioral procedures were conducted inan isolated room with no disturbing during the tests.Three AD-related behavioral functions were assessed: species-type behavior,long-term learning and memory,and working memory.Nest building was observed first,followed by the test ofY-maze and MWM(Fig.1 shows a global timeline of the behavioral procedures). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4.1.Nestbuildingbehavior ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Nest building in rodents involves active interaction with the environment.It isa species typical behavior,and it is disrupted in some AD relevant transgenic models (Wesson and Wilson, 2011). Mice were individually housed in a cage containing sawdust with food and wateravailable,for3days ina quiet testing room.Three pieces of paper( $2 \\mathsf { c m } \\times 2 \\mathsf { c m }$ ,Kitchen towel) were introduced inside the home cage to allow nest building behavior assessment.After $2 4 \\mathrm { h }$ ,the nest was photographed and the quality of the nest was determined according to a five-point scale as described by Roof,R et al. (Roof et al., 2010): $1 =$ Bedding evenly spread out/No cluster is formed, $2 =$ Bedding spread out/Loose cluster is formed, $3 =$ Bedding spread out over $1 / 2$ of the cage/Loose cluster is formed, $4 =$ Bedding spread out over $1 / 3$ of the cage/Cluster is formed, $5 =$ Bedding spread out over $1 / 4$ of the cage/Cluster is formed. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4.2. Y-maze ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Spatial working memory was assessed by spontaneous alternation behavior in the Y-maze (Leigh Holcome et al.,1998).The Y-maze is made of iron and consists of three arms;each arm is $3 8 \\mathrm { c m }$ long, $1 2 . 5 \\mathrm { c m }$ high, $5 \\mathrm { c m }$ wide at the bottom and $9 . 5 \\mathrm { c m }$ wide at the ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experimentaldesign ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8de1c33c1db09061930995bd7ea8dbed3af6db536a5bc64ecd1935e7dc562551.jpg",
+        "img_caption": [
+            "igel untilmonthsfageengstwasivfistflodbtaendttosateaAllmicereceidectio $5 0 \\mathrm { m g / k g }$ (i.p.) on three consecutive days to label proliferation cells in the hippocampus,and mice were sacrificed $^ { 2 \\mathrm { h } }$ afterthe last injection of BrdU $\\scriptstyle ( n = 4 - 6 )$ at the age of 10 months.To determine the differentiation of hippocampal proliferating cels in the hippocampus,the remaining mice $( n = 4  – 6 )$ were sacrificed 4 weeks after the last BrdU injection,at the age of 11 months. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "top.Each mouse was placed in the center of the symmetrical Ymaze,and the sequence of arm entries over 8 min was recorded.The percentage alternations consists of the number of triads containing entries into all three arms(ABC,ACB,CAB,etc.) divided by the maximum possible alternations((the total number of entries minus $2 ) \\times 1 0 0 )$ (Fig.2C). Between sessions,the maze was cleaned thoroughly with a $7 5 \\%$ ethanol solution.Alternation performance above chance level (i.e., $5 0 \\%$ )is indicative of functional spatial working memory (Hooper et al., 1996). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4.3.Morriswatermaze ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Morris water maze(MWM) consisted of a white circular pool ( $1 2 0 \\mathrm { c m }$ in diameter, $4 0 \\mathrm { c m }$ in height),which was divided into four quadrants referred to southeast,southwest,northeast and northwest,and a movable white circular platform ( $9 \\mathrm { c m }$ in diameter) that was located in the center of one quadrant and submerged to $1 \\mathrm { c m }$ below the water surface.The water was colored with $\\mathrm { T i O } _ { 2 }$ forAPP/PS1 mice and maintained at a temperature at $2 2 \\pm 1 ^ { \\circ } \\mathsf C$ and the tank was placed in a dimly lit area.In the place navigation test, the MWM test consisted of an acquisition phase and a probe trial in a soundproof test room without visual cues.The acquisition phase consisted of five consecutive days with four trials per day.Four points(North,South,East,and West),which served as starting positions,were equally spaced along the circumference of the pool,and mice were placed in the water facing the pool wall at these points. If the mice did not find the platform within $1 2 0 s .$ theywere guided to the platform and allowed to stay for $1 0 s$ 、If the mice found the platform within 120 s,they remained on it forat least1O s.The mice were kept dry between each trial,and returned to their home cage to rest for $1 2 0 s$ after each trail.The escape latency and path length were recorded ( $\\overset { \\cdot } { n } = 1 0 - 1 2$ per group) to study the effect of yonk and sild on learning activity,memory retention of the platform location. After the place navigation test,platform crossing times and duration on the hidden platform.These activities were recorded and analyzed usingan Ethovision $\\mathrm { X T } 8 . 0$ (Noldus Information Technology,Wageningen,the Nether-lands) computerized video tracking system. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/73aee8fd650814151ddd99042cec82d755320ae595dfbe5bc88d068842389730.jpg",
+        "img_caption": [
+            "Fig.2.NestbdletriC)fodcreacle $\\pm \\mathsf { S } . \\mathsf { E } . \\mathsf { M }$ $\\stackrel { * * } { p } < 0 . 0 1$ $^ { * * } p < 0 . 0 0 1$ compared with the $C 5 7 +$ saline group, $^ { \\# } p < 0 . 0 5$ $^ { \\# \\# } p < 0 . 0 1$ = $^ { \\# \\# \\# } p < 0 . 0 0 1$ for the sild and yonk treated groups compared with the APP/PS1 $^ +$ saline group(B, D). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e29fbc28ce454bff8ca501a9c451a9ac3a39655d74bcc30c0d5e8659732799de.jpg",
+        "img_caption": [
+            "Fig.3.Morris water maze test for yonk and vehicle-treated APP/PS1 mice.The resultsare presentedas the means $\\pm \\mathsf { S } . \\mathsf { E } . \\mathsf { M }$ $^ { * } p < 0 . 0 5$ $p { < } 0 . 0 1$ $^ { * * } p < 0 . 0 0 1$ ,differences betweer escape latency(A),path length(B),platform ossing times (C),and duration in the hidden platform quadrant(D) in the APP) $\\left. \\mathrm { P S } 1 + \\right.$ saline group compared with the $C 5 7 +$ saline group, $^ { \\# } p < 0 . 0 5$ $^ { \\# \\# } p < 0 . 0 1$ $^ { \\# \\# \\# } p < 0 . 0 0 1$ significantly diferences in sildl and yonk treated groups compared with the APP/PS1 $^ +$ saline group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5.Tissue preparation ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Mice were fully anesthetized with chloral hydrate $( 4 0 0 \\mathrm { m g / k g } ,$ i.p.),transcardially perfused with saline solution,and their brains were carefully removed.The right hemisphere $\\scriptstyle \\cdot n = 3$ per group) was fixed in $4 \\%$ buffered paraformaldehyde for $2 4 \\mathrm { h }$ ,then transferred to $20 \\%$ and $30 \\%$ sucrose/phosphate-buffered saline(PBS)respectivelyat $4 ^ { \\circ } \\mathsf C$ .After that the right hemisphere of each mouse which included the hippocampus and cortex was sectioned on a freezing microtome(AS-620,Shandon,Astmoor,UK)at a thickness of $2 0 \\mu \\mathrm { m }$ in each region (bregma $- 1 . 8 2 \\mathrm { m m } \\mathrm { - } 2 . 5 4 \\mathrm { m m }$ ).Every6th coronal section for a total and three sections were used for staining. After cutting,sections were stored at $- 2 0 ^ { \\circ } C$ until further processing.The hippocampus from the lefthemisphere was isolated,stored at $- 8 0 ^ { \\circ } \\mathsf C$ and used for western blotting analysis. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.6.Immunohistochemistry ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The sections $( n = 3 )$ were removed from $- 2 0 ^ { \\circ } \\mathsf C ,$ allowed to adapt to room temperature(RT) for half an hour and then washed in $0 . 0 1 \\mathrm { M }$ PBS $\\langle \\mathsf { p H } \\ 7 . 4 \\rangle$ for 5 min in 3-4 times consecutively. Antigen retrieval was performed in $1 0 \\mathrm { m M }$ trisodium citrate buffer 0 $\\mathrm { \\ p H \\ 6 . 0 }$ $8 5 \\mathrm { - } 9 5 ^ { \\circ } C )$ for5 min.Sections were washed twice in PBS, treated with $0 . 3 \\%$ hydrogen peroxide in methanol for $2 0 \\mathrm { m i n }$ ，preblocked with normal goat serum ( $4 \\%$ in $0 . 3 \\%$ triton-X100) for $^ { 1 \\mathrm { h } }$ in a humid chamber at $3 7 ^ { \\circ } \\mathsf { C }$ and then incubated with polyclonal Rabbit anti-NeuN primaryantibody(1:1ooo,Millipore,Billerica, MA,USA)；polyclonal Rabbit anti-DCX primary antibody(1:800, Abcam,Cambridge,UK)；monoclonal mouse anti-Iba-1 primary antibody(1:8oo,Millipore,Billerica,MA, USA);and polyclonal Rabbit anti-GFAP primary antibody(1:5oo,Abcam,Cambridge,UK) for $2 4 \\mathrm { h }$ after dilution in PBS.Then,sections were incubated with a secondaryantibody(biotinylated goat-anti rabbit or mouse）and streptavidin-coupled horseradish peroxidase inHistostain'M TM-Plus Kits（ZSGB-BIO,Beijing,China) for $^ { 1 \\mathrm { h } }$ at $3 7 ^ { \\circ } \\mathsf { C }$ and visualized with DAB(ZSGB-BIO,Beijing,China) for 1O-6O s.Finally,sections were dehydrated in graded alcohol solutions,cleared in xylene and covers-lipped with Permount TMMounting Medium.Thioflavin-S (ThioS)(Sigma,St.Louis,MO） staining for fibrillar $\\mathsf { A } \\mathsf { \\beta }$ was performed as described previously(Schmidt etal.,1995).The stained sections were digitized using $4 \\times$ ， $2 0 \\times$ or $4 0 \\times$ objective(Olympus BX4o,Tokyo,Japan) with an MCID computer imaging analysis system(Image-Pro 3DPlus Workstation,Media Cybernetics, Inc., Rockville,MD,USA).The number of NeuN+ and $\\mathsf { D C X ^ { + } }$ neurons and the positively stained areas for Iba-1 across the cortex and hippocampus were measured in each section.Data were presented as the number of positive cells per field or the percentage of positive areas per field. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\mathsf { A } \\mathsf { \\beta }$ deposition in the brain was visualized by immunostaining of frozen sections in $70 \\%$ formicacid for $2 0 \\mathrm { m i n }$ at RTand then incubating sections with a mouse monoclonal antibody to 6E1o(1:1000, Covance,Dedham,MA) in PBS overnight at $4 ^ { \\circ } \\mathsf C$ Further progressing was performed as described in the immunohistochemistry section. Data were presented the percentage of positive areas per field. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.7.Immunofluorescence ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "BrdU has been used as a principal marker for mitotic cells in studies of adult neurogenesis (Gratzner,1982). Injection of BrdU can be used to evaluate the survival time and track the fate of dividing cells and their progeny (Kee et al.,2oo2b).Double fluorescent immunohistochemistry was performed with NeuN,DCX,and BrdU as previously described.The sections were incubated in HCl(1N) for $1 0 \\mathrm { m i n }$ onice to fracture the DNA structure of the labeled cells, followed by incubation in HCl(2N) for $1 0 \\mathrm { m i n }$ at RT.Sections were then moved to an incubator for $2 0 \\mathrm { m i n }$ at $3 7 ^ { \\circ } \\mathsf { C }$ ，rinsed twice in ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/404ac50caa01799b0901c091eec787a4aca353adb88c466729d7fe16a52dd5a6.jpg",
+        "img_caption": [
+            "Fig.4. Effect of yonk on $\\beta$ -amyloid(Aβ) plaque pathology(A)and APP progressng(C) in the APP/PS1 mice.Mice were treated with sild $( 6 \\mathrm { m g } / \\mathrm { k g } )$ or yonk (2,6,or $1 8 \\mathrm { m g / k g } )$ （204号 (i staining against $\\mathsf { A } \\mathsf { \\beta }$ withE10antibody)igitalimagesfrotheorteandpoampusreapturedndalyedithageProusediaCbeicsc Rockville,MD,USA).Scale bar: $1 0 0 \\mu \\mathrm { { m } . }$ Data are presented as the percentage of positive areas in per field and expressed as the means $\\pm \\mathsf { S } . \\mathsf { E } . \\mathsf { M }$ ： $n = 3 - 4$ mice per group.(B) Quantification of the percent amyloid load in the brain. $^ { * * } p < 0 . 0 0 1$ ,compared with the $C 5 7 +$ saline group; $^ { \\# \\# \\# } p < 0 . 0 0 1$ ,compared to the APP/PS1 $^ +$ saline group.(B) Levels of FL-APP(ful-lengthAPP)and APPC-terminalfragments in the hippocampus were visualized by Western blottig(C). $^ { * } p < 0 . 0 5$ $^ { * * * } p < 0 . 0 0 1$ compared with the $C 5 7 +$ saline group; $^ { \\# } p < 0 . 0 5$ ,compared with the APP/PS1 $^ +$ saline group (D). "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$0 . 1  { \\mathrm { M } }$ borate buffer $\\left( \\mathsf { p H } 8 . 5 \\right)$ ,blocked with $5 \\%$ normal goat serum (diluted in $0 . 3 \\%$ Triton X-100 in $0 . 1  { \\mathrm { M } }$ PBS）for $6 0 \\mathrm { { m i n } }$ at $3 7 ^ { \\circ } \\mathsf C ,$ andincubated with BrdU primaryantibody(1:3o,Abcam,Cambridge,UK),NeuN primaryantibody(1:1ooo,Millipore,Billerica, MA,USA),and DCX primary antibody(1:8oo,Abcam,Cambridge, UK) diluted in $0 . 1  { \\mathrm { M } }$ PBS,overnight at $4 ^ { \\circ } \\mathsf C$ Secondaryantibodies used for detection consisted of FITC-conjugated goat anti-mouse IgG $( \\mathsf { H } + \\mathsf { L } )$ (1:200,Beyotime Institute of Biotechnology),and Cy3- conjugated goatanti-rabbit IgG $( \\mathsf { H } + \\mathsf { L } )$ (1:200,Beyotime Institute of Biotechnology). Sections were washed for $^ { 1 \\mathrm { h } }$ at $3 7 ^ { \\circ } \\mathsf { C }$ and coverslipped with anti-fade mounting medium(Pro-Long Gold,Molecular Probes). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.8.Western blotting ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The hippocampus from the left hemisphere was lysed with T-PER Tissue Protein Extraction Reagent(1:9, ${ \\mathfrak { s } } _ { \\mu \\mathrm { l } }$ reagent $/ 1 \\mathrm { m g }$ tissue,Thermo Scientific,Rockford,USA), $0 . 1 \\%$ phenylmethanesulfonyl fluoride (PMSF), $0 . 1 \\%$ sodium fluoride (NaF),and $0 . 1 \\%$ sodium orthovanadate $( \\mathsf { N a } _ { 3 } \\mathsf { V O } _ { 4 } )$ ,sonicated for $3 \\mathrm { { m i n } }$ on ice with a probe sonicator and centrifuged for 5 min at $1 2 0 0 0 { \\mathrm { g } }$ at $4 ^ { \\circ } \\mathsf C$ ，and then the supernatant was extracted and boiled in water bath.Protein extracts $( 3 0 - 5 0 \\mu \\mathrm { g } )$ wereseparated by $12 \\%$ sodiumdodecyl sulfatepolyacrylamide gel electrophoresis(SDS-PAGE) $( n = 3 / { \\mathrm { g r o u p } } )$ and electrophoretically transferred to a nitrocellulose membrane at $4 ^ { \\circ } \\mathsf C .$ Blots were incubated for $^ { 1 \\mathrm { h } }$ with $5 \\%$ milk to block nonspecific binding sites and then incubated with primary antibodies, including mouse anti-APP C-Terminal Fragment (1:5oo, Covance, Dedham,MA),mouse anti-6E10(1:5oo,Covance,Dedham,MA) and mouse anti- ${ \\bf \\cdot \\beta }$ -acting（1:5oo,Santa Cruz Biotechno） overnight at $4 ^ { \\circ } \\mathsf C$ ，secondaryantibodies for $^ { 1 \\mathrm { h } }$ at RT. Immunoreactive proteins were detected with a chemiluminescent substrate (pierce ECL western blotting substrate,thermo scientific). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.9.Enzyme-linked immunosorbent assay ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Three or four cortex and hippocampi form each group were homogenized with1O volumes of ice-cold tris-buffered saline(TBS; PH 7.4)with protese inhibitors (PMSF,Beyotime).The samples were centrifuged at $2 0 { , } 0 0 0 { \\mathrm { g } }$ for $2 0 \\mathrm { m i n }$ at $4 ^ { \\circ } \\mathsf C$ Supernatant(TBS extract)was transferred toa new tube and stored at $- 8 0 ^ { \\circ } C$ until analyzed.Thelevelsof $\\mathsf { A B 1 - 4 0 }$ and $\\mathsf { A } \\mathsf { \\beta } 1 \\mathsf { - } 4 2$ in the TBS soluble were determined with $\\mathsf { A B 1 - 4 0 }$ and $\\mathsf { A B 1 - } 4 2$ specific enzymelinked immunosorbent assay kits （TSZ,Waltham,MA,according to the manufacturer's protocol.ELISA signals were reported as the mean $\\pm { \\cal S } . \\mathrm { E . M } \\rangle$ 二 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.10.Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Datawere expressed as the mean $\\pm$ standard error of the mean (S.E.M.).MWM data were analyzed with two-way ANOvA for repeated measureswith“training\"and“day\"and their interactionsas fixed factors.After ANOVA analysis,Tukey's HSD post hoc analysis was used to compare the differences among three or more groups. Otherbehavioral data and immunohistochemical data were analyzed by one way ANOVA performed with Tukey's HSD post hoc comparison. Graphical presentation were performed with the Graph Pad Prism 6.O(Graph Pad Software,San Diego,CA,USA). Statistical analysis was performed using SPSS 13.O software for Windows (SPSS Inc, Chicago,IL,USA). The level of significance was set at a $p < 0 . 0 5$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/18781438155b0778ea065deb7319051ac8fcbf3387357c11759b2ef3699ec109.jpg",
+        "img_caption": [
+            "Fig5o captured and analyzed with Image Pro Plus (Media Cybernetics,Inc.,Rockvill,MD,USA).Scale bar: $5 0 \\mu \\mathrm { m }$ Data are presented as the number of positive cells per field (B)in thecortex or the percentage of positive areas per field(C)in the hippocampus and expressed as the means $\\pm \\mathsf { S } . \\mathsf { E } . \\mathsf { M }$ ： $n = 3 - 4$ mice per group.\" $^ { * } p < 0 . 0 0 1$ significantly compared with the $C 5 7 +$ saline group, $^ { \\# } p < 0 . 0 5$ $^ { \\# \\# \\# } p < 0 . 0 0 1$ for the sild and yonk treated groups compared with the APP $\\mathsf { \\Pi } ^ { \\mathsf { P S 1 + } }$ saline group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3. Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1.Behavioral tests ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1.1.Yonk improved the nesting-building ability of APP/PS1 transgenicmiceduringnestbuildingbehavior ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Nestbuilding behavior is disrupted in some AD relevant transgenic models (Wesson and Wilson,2011),which maybe evaluate the“activities of daily living\"disrupted in AD(Galasko etal.,2005) Therefore,changes of nest-building ability with yonk treatment were assessed (Fig.2A).Three months after treatment with yonk, individual one-way ANOVA revealed the nesting score of yonktreated group $( F ( 5 , 5 6 ) = 3 . 2 4 2$ = $p < 0 . 0 5 \\cdot$ ).Thenest-buildingability ofAPP/PS1 group was lower than that of C57 group $\\left( p < 0 . 0 1 \\right)$ ,and treatment with yonk increased nest-building ability compared with APP/PS1 group (6 mg/kg: $p { < } 0 . 0 1$ ：， $1 8 \\mathrm { m g / k g }$ $\\scriptstyle p < 0 . 0 5$ ,respectively) (Fig. 2B). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1.2.Yonk increased the sequence of arm entries of APP/PS1 transgenic mice in the Y-maze ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the Y-maze test,we observed a significant group difference in alternation or arm entries in the chronic experiment (F(5, ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$6 9 ) = 3 . 3 4 4$ 1 $p { < } 0 . 0 1$ ).In post hoc multiple comparisons,APP/PS1 mice displayed a decreased alternation or arm entries compared with C57 group $( p < 0 . 0 0 1 )$ ,and treatment with yonk increased alternation or arm entries compared with APP/PS1 group $( 2 \\mathrm { m g } / \\mathrm { k g } ,$ （204号 18 mg/kg: $p { < } 0 . 0 1$ ; 6 mg/kg: $p { < } 0 . 0 0 1$ ) (Fig. 2D). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1.3.Yonk improved the learning and memory of APP/PS1 transgenic mice in the Morris watermaze ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the place navigation test,path length was analyzed with twoway ANOvA for repeated measures revealed significant effects of training $( F ( 4 , 2 9 0 ) = 2 0 . 1 3 1 , p < 0 . 0 0 1 _ { . }$ andgroup $( F ( 5 , 5 8 ) = 2 3 . 6 7 4$ $p { < } 0 . 0 0 1$ )，butno significant effect of training $\\times$ group ( $F$ (20, $2 9 0 ) = 0 . 6 4 9$ = $p { > } 0 . 0 5 \\$ ).Tukey'sHSD tests furtherrevealed that the APP/PS1 mice consistently indicated a significantly longer path length compared with that of the C57 group $( p < 0 . 0 0 1 )$ .Yonk (6 and $1 8 \\mathrm { m g / k g ) }$ significantly decreased the path length compared with that of the APP/PS1 group( $_ { ( p < 0 . 0 0 1 }$ for day 3, $p { < } 0 . 0 1$ for day 4 and 5).An increased path length was observed in yonktreated mice $( 2 \\mathrm { m g } / \\mathrm { k g } )$ on the third and fifth training day $( p < 0 . 0 5 )$ (Fig.3B).Escape latency was analyzed by two-way ANOVA for repeated measures,which revealed significant effects of training ( $\\dot { F }$ $( 4 , 2 9 0 ) = 2 4 . 2 9 6$ $p { < } 0 . 0 0 1$ )and group $( F ( 5 , 5 8 ) = 1 6 . 2 9 4$ $p { < } 0 . 0 0 1 \\$ ) but no significant effect of training $\\times$ group $\\left( F \\ ( 2 0 , \\ 2 9 0 ) = 0 . 9 4 2 \\right.$ $p > 0 . 0 5 \\cdot$ ).Tukey'sHSD tests further revealed that the APP/PS1 group consistently indicated a significant longer escape latency compared with that of the C57 group $\\scriptstyle \\left( p < 0 . 0 1 \\right.$ for day1,2and 4 and $p { < } 0 . 0 0 1$ for day3and5),yonk (6 and $1 8 \\mathrm { m g / k g ) }$ decreased the escape latency of APP/PS1 mice ( $_ { . p < 0 . 0 0 1 }$ for day 3, $p { < } 0 . 0 1$ for day 4 and 5) (Fig. 3A). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b34a5668669c587915f062a3df1bfd40696253709a0f22a1c515de286371279.jpg",
+        "img_caption": [
+            "Figatheoo USA).Scale bar: $5 0 \\mu \\mathrm { m }$ Data are presented the percentage of positive areas in per field (P)and expressed as the means $\\pm$ standard error of the mean (S.E.M.); $n = 3 { - } 4$ mice per group. Quantification of the percent of Iba-1 and GFAP immunoreactive area in the brain, $p { < } 0 . 0 5$ $^ { * * * } p < 0 . 0 1$ ,compared with the $C 5 7 +$ saline group, $^ { \\# } p < 0 . 0 5$ $^ { \\# \\# } p < 0 . 0 1$ $^ { \\# \\# \\# } p < 0 . 0 0 1$ for the sild and yonk treated groups compared with the APP/PS1 $^ +$ saline group (D, E). "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the spatial probe test,memory retention of the platform location was measured after the place navigation test.As shown,there Wwasa significant overall group difference in the platform crossing times $( F \\ ( 5 , \\ 5 3 ) = 2 . 3 9 5$ $\\scriptstyle p = 0 . 0 5$ ),but not in duration in the hidden platform quadrant $( F \\left( 5 , 5 3 \\right) = 1 . 5 5 1$ ， $p { > } 0 . 0 5 \\$ ).Tukey'sHSD test further revealed that treatment with yonk (6 and $1 8 \\mathrm { m g } / \\mathrm { k g } )$ increased the platform crossing times compared with the APP/PS1 group $( p < 0 . 0 5 )$ (Fig. 3C,D). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2.Yonk significantly reduced $A \\beta$ deposition in APP/PS1 transgenicmice brain ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Immunohistochemistry was performed on brain sections to evaluate $\\mathsf { A } \\mathsf { \\beta }$ deposition,as shown in Fig. 4A. $\\mathsf { A } \\mathsf { \\beta }$ deposition was found in the brain of the APP/PS1 group to a large extent,but mice treated with yonk exhibited remarkablyless $\\mathsf { A } \\mathsf { \\beta }$ burden compared to those in the APP/PS1 group ${ \\mathopen { } \\mathclose \\bgroup \\left( p < 0 . 0 0 1 \\aftergroup \\egroup \\right. }$ )(Fig.4B).We detected the $\\mathsf { A B 1 - } 4 0$ and $\\mathsf { A B 1 - } 4 2$ level in APP/PS1 mice.However,no significant differences in yonk treated groups compared with the APP/PS1 mice (Supplementary Fig.2). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Supplementry material related to this article found,in the online version, at http://dx.doi.org/10.1016/j.mad.2015.07.002. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.Yonk reduced the expressionof APP and CTFsin APP/PS1 transgenicmice ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "APP/PS1 mouse is a well-established AD model,consisting of a double mutant of $\\mathsf { A P P } _ { \\mathsf { s w e } }$ and deletion of PS1 on exon 9 $( \\mathsf { A P P } _ { \\mathsf { s w e } } / \\mathsf { P S 1 d E 9 } )$ (Balducci and Forloni,2O11). Previous report has shown that $\\mathsf { A } \\mathsf { \\beta }$ production and plaque deposition can be detected after 6 months old(Wirz et al.,2013).After APP processing, $\\mathsf { A } \\mathsf { \\beta }$ and membrane-bound C-terminal fragments (CTFs),which have been identified as key toxic fragments that contribute to AD pathology, are produced by $\\beta$ -secretaseand $\\gamma$ -secretase complex(Chow et al., 2009;Zhang et al., 2O11d). To determine whether the decrease in $\\mathsf { A } \\mathsf { \\beta }$ load observed in the yonk and sild-treated group was due to its influence on $\\mathsf { A } \\mathsf { \\beta }$ generation from APP,western blotting was used to analyze the levelsofFL-APP(Full-length APP) and CTFs.As Fig.4C shown,the expression ofAPPdecreased after treatmentwith yonk $( p < 0 . 0 5 )$ ,and the level of $\\beta$ -CTFwas significantly altered after treatment with yonk $( p < 0 . 0 5 )$ ,thelevel of $\\alpha$ -CTFwasdecreased after treatment with yonk $( 2 \\mathrm { m g } / \\mathrm { k g } )$ $( p < 0 . 0 5 )$ compared with the APP/PS1 mice (Fig.4D).These data indicated that yonk decreased Aβ deposition byaffecting APP processingand $\\beta$ -CTF generation. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/cacfdfa67b2c46ac73e51691572c2b451b0ad11f798aebd67e2bd4bac731f956.jpg",
+        "img_caption": [
+            "Fig.7.NeuN(A)andDCX(B)diferentiationinthedentate gyrus (DG)oftehippocampus aftersildandyonkadministration.Mice $\\left( n = 4 \\ – 6 \\right)$ were sacrificed 4 weeks after the last BrdU injection $( 5 0 \\mathrm { m g } / \\mathrm { k g } )$ ,atheageof11months.Then,doubleimmunofluorescencewithBrdUand NeuNorBrdUandDCXwasperformedwithboth groups.Te digital images show BrdU+(green),NeuN +(red),DCX+(red),andco-labeling cells (yellow).Scale bar: $5 0 \\mu \\mathrm { m }$ .(For interpretation of the references to colour in this figure legend,the reader is referred to the web version of this article.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4.Yonk alleviated the loss of neurons in APP/PS1 transgenic mice ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Cell apoptosis contributes to a severe loss of neurons in the hippocampus of AD brain(Zhang et al.,2O11a).The survival of neurons was determined by staining with NeuN(Fig.5A).The number of NeuN positive cellswas reduced in both the cortex and hippocampus of the APP/PS1 group $\\cdot p < 0 . 0 0 1 ;$ ,yonk increased thearea of surviving neurons in the DG $( p < 0 . 0 5 )$ (Fig.5C).Yonk (6 and $1 8 \\mathrm { m g / k g ) }$ increased the number of surviving neurons in the cortex $\\scriptstyle { \\cdot } p < 0 . 0 0 1 { \\dot { } } .$ )(Fig. 5B).The results showed that yonk prevented neuronal damage and increased the number of surviving neurons in AD mice. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.5.Yonk inhibited the activation of microglia and astrocytes in the cortex and hippocampal region of APP/PS1 transgenic mice ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\mathsf { A } \\mathsf { \\beta }$ can activate microglia to produce cytokines and neurotoxins,which trigger the pathological process of neurodegeneration (Coraci etal.,2oo2),Double immunofluorescence staining was used to analyze the location of $\\mathsf { A } \\mathsf { \\beta }$ plaques and microglia (Fig. 6C).A large number of activated microglia were observed around amyloid plaques.Microglialactivation wasanalyzed bymeasuring the percent of Iba-1 stained area in the cortex and hippocampal sections of six groups.Compared to the C57 group,the activation of microglia presented in the APP/PS1 group was significantly increased $\\scriptstyle { \\cdot p < 0 . 0 0 1 }$ ).Similar to sild(cortex: $p { < } 0 . 0 1$ ;hippocampus: $p { < } 0 . 0 0 1 \\$ ),yonktreatmentdramaticallyinhibitedtheactivationof microglia compared to the APP/PS1 group(2 and $1 8 \\mathrm { m g } / \\mathrm { k g } , p < 0 . 0 1$ ： 6 mg/kg, $p { < } 0 . 0 0 1$ )(Fig.6Aand D).Meanwhile,yonkalso inhibited astrocytes activation (Fig.6B and E). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.6.Yonk promoted neurogenesisin APP/PS1transgenicmice ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Neurogenesis regulates multiple physiological steps,including cell division,migration and the subsequent differentiation of cellsinto neurons (Bath et al.,2O12).DCX is a reliable marker of newly generated neurons in the adult DG(Shetty,2Oo4) and also a microtubule-stabilizing factor expressed early in neuronal differentiation (Verret et al.,2oo7).Notably,when alterations in neurogenesis occur at very early stage,neuronal loss,amyloid deposition and inflammation subsequently emerge during AD progression (Mu and Gage,2O11).Yonk and sild were administered over3 months,which enhanced newcells differentiationassessed by double immunofluorescence of $\\mathrm { B r d U ^ { + } } / \\mathrm { N e u N ^ { + } }$ and $\\mathrm { B r d U ^ { + } / D C X ^ { + } }$ The number of $\\mathrm { B r d U ^ { + } } / \\mathrm { N e u N ^ { + } }$ and $\\mathrm { B r d U ^ { + } / D C X ^ { + } }$ cells (yellow part) was significantly increased in DG region (Fig.7A and B). In this study,the DCX positive cells of the DG were reduced in the APP/PS1 group ( $_ { . p < 0 . 0 0 1 }$ yonk(6 $\\mathfrak { s } , 1 8 \\mathrm { m g } / \\mathrm { k g } )$ and sild increased the expression of DCX compared with APP/PS1 group $\\scriptstyle ( p < 0 . 0 0 1 )$ .Surprisingly, yonk $( 2 \\mathrm { m g } / \\mathrm { k g } )$ also restored the number of DCX in AD transgenic mice $\\scriptstyle ( p < 0 . 0 1 )$ (Fig.8A and B). One useful feature of BrdU is its longtermretention in divided cells (Kee etal.,2oo2a). In our research, the results of BrdU staining showed that proliferation cells were decreased in APP/PS1 mice,and did not differ between yonk and vehicle-treated APP/PS1 mice(Fig.8Cand D).Taken together,these data provide demonstrated that yonk prevented the death of the newly born neurons in APP/PS mice but did not affect cell proliferation. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/60514dcdde1713d0b0065a23abdf92c1cfb4a753110cbe809cabb7c9de82e16a.jpg",
+        "img_caption": [
+            "g mice were sacrificed 2h after the last injection of BrdU $( 5 0 \\mathrm { m g } / \\mathrm { k g } )$ atthe age of 1O months to label the newly proliferating cels.The digitalimages were captured and analyzed with Image Pro Plus (Media Cybernetics,Inc,Rockville,MD,USA).Scale bar: $5 0 \\mu \\mathrm { m } .$ (B) Quantification of the percent of DCX immunoreactive areas and BrdU positive cells in the brain $^ { * * } p < 0 . 0 0 1$ compared with the $C 5 7 +$ saline group, $^ { \\# \\# } p < 0 . 0 1$ $^ { \\# \\# \\# } p < 0 . 0 0 1$ for the sild and yonk treated groups compared with the APP/PS1 $^ +$ saline group (B, D). "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.Discussion ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In the present study,we report for the first time that yonk can prevent the cognitive impairmentsand $\\mathsf { A } \\mathsf { \\beta }$ accumulation observed in APP/PS1 mice..Administration (i.p.) with yonk for 3 months significantly improved Y-maze spontaneous alternation performance, ameliorated spatial learningand memory impairments,reduced deficits in organized behavior and loss of initiative in nesting buildingin APP/PS1 mice.Moreover,yonk decreased the $\\mathsf { A } \\mathsf { \\beta }$ burden through regulating the APP processing and blocked the abnormal activation of microglia and astrocytes in the brain of APP/PS1 mice. In addition,yonk augmented the number of new generated neurons.These results indicated that yonk ameliorated the memory impairment and naturalistic behaviors,possibly due to the reduction of $\\mathsf { A } \\mathsf { \\beta }$ burden,the inhibitory effects of glial cells and the recovery of neurogenesis (Fig. 9). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "PDE-5 inhibitor can inhibit apoptosis and $\\mathsf { A } \\mathsf { \\beta }$ load in aged mice, which suggest that PDE-5 inhibitor might be beneficial to treat age-related detrimental features in a physiological animal model of aging(Puzzo et al.,2O14). Orejana et al. showed that sild induced reduction in $\\beta$ -siteamyloid precursor protein cleaving enzyme I and cathepsin B expression was associated with a decrease in hippocampal Aβ1-42 level in SAMP8 mice (Orejana et al., 2015). In similar researches about PDE-5 inhibitors,there is no report about the drugs reducing $\\mathsf { A } \\mathsf { \\beta }$ deposition in APP/PS1 mice (CuadradoTejedor etal.,2O11).In present study,we observed that yonk,a novel PDE5 inhibitor is able to reduce the area of $\\mathsf { A } \\mathsf { \\beta }$ plaques in transgenic mouse brains.All these evidence indicate the beneficial effects of PDE-5 inhibitors in reducing $\\mathsf { A } \\mathsf { \\beta }$ levels and improving pathology of AD.APP is cleaved by the BACE1 enzyme at the terminal region to obtain membrane-bound C-terminal fragments (CTFs) (Zhang etal.,2011d),which are further cleaved by $\\gamma$ -secretase to generate $\\mathsf { A } \\mathsf { \\beta }$ that mainly consistof40 or42 amino acids,hereafter as $\\mathsf { A } \\mathsf { \\beta } _ { 4 0 }$ and $\\mathsf { A } \\mathsf { \\beta } _ { 4 2 }$ (Zhang et al., 2011b). Aβ1-40 and Aβ1-42 are two main component of $\\mathsf { A } \\mathsf { \\beta }$ . Zhang et al.demonstrate that soluble $\\mathsf { A } \\mathsf { \\beta }$ might primarily contribute to cognitive deficits in AD（Zhang et al.,2011c),which suggested that soluble $\\mathsf { A } \\mathsf { \\beta }$ played animportant roleinAD.Inpathological conditions,monomeric $\\mathsf { A } \\mathsf { \\beta }$ becomes misfolded into dimers,which can rapidly expand to create dimer-based protofibrils,ultimately contributing to the formation of fibrillar $\\mathsf { A } \\mathsf { \\beta }$ as amyloid plaques.Moreover, the fact that the volume of plaques keeps stable rather than increase as the disease progresses,there isadynamic balance betweenamyloid depositionand soluble $\\mathsf { A } \\mathsf { \\beta }$ (Wang etal.,2015). Secreted $\\mathsf { A } \\mathsf { \\beta }$ was thought to gradually increase in the extracellular space until it began aggregating to form insoluble $\\beta$ -pleated amyloid plaques,which in turn could propagate $\\mathsf { A } \\mathsf { \\beta }$ toxicity to surrounding neurons and their processes (Gouras et al., 2005).In our research,the mice of 1O months old are in the late stage of AD by their pathological changes,a lot of $\\mathsf { A } \\mathsf { \\beta }$ plaques (Wirz et al., 2013). The $\\mathsf { A } \\mathsf { \\beta }$ plaques were reduced after long-term yonk administration,but there were no significant changes in the soluble $\\mathsf { A } \\mathsf { \\beta }$ 1-40 and 1-42 level (supplemental Fig.2).It has been found that $\\beta$ -CTFisa key fragment that contributes to the $\\mathsf { A } \\mathsf { \\beta }$ deposition (Puglielli et al.,2oo3). In our case,we found that the attenuation of $\\mathsf { A } \\mathsf { \\beta }$ deposition observed in the yonk-treated group was due to the decrease in the APP expression and $\\beta$ -CTFlevel detected by western blotting,in accordance with the research by Puzzo et al.(Puzzo et al.,2014)(Fig.4C),while it has little effect on soluble $\\mathsf { A } \\mathsf { \\beta }$ level yet. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/03acf20b4deab24c3aef22b1ffe666848683c65950f5c3f8aa49e87cb7b60095.jpg",
+        "img_caption": [
+            "Fig9 decreases the generation of $\\beta$ -CTF to reduce the $\\mathsf { A } \\mathsf { \\beta }$ plaques.On the other hand,yonk can inhibit theactivationof microgliaand astrocytes; meanwhileitcan increase the neurogenesis to prevent neuronal dysfunction. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Microglia are macrophage-like cells that playan important role inresponses to the injury and infection in the brain(Mattson,2004). Bornemann et al.demonstrated that microglia associated with compact amyloid plaques are in an activated state(Bornemann et al.,2oO1),which is consistent with our research.The microglialspecific marker Iba-1 markedly increased,indicating the high abundance of activated microglia near amyloid plaques (Fig. 6B). In AD,activated microglia congregate around amyloid plaques and degenerating neurons (Mattson,2oo4).Reactive astrocytesare also observed and appear to be walling off the senile plaques (McGeer and McGeer,2Oo3). It has been considered that prolonged astrocytes activation has a detrimental effect on neuron survival (Mori et al.,2O1O). In the present study, the inhibitory effect of yonk on astrocyte is also exhibited.These results support the hypothesis that inhibition of glial cells abnormal activation is beneficial for the degradation of APP and $\\beta$ -CTF proteins (Handattu et al., 2009). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "PDE-5 are specific for cGMP,exhibiting the greatest affinity forcGMP( $\\mathrm { K } _ { \\mathrm { m } } = 1 7 0 \\mathrm { n M } .$ )(DAFetal.,1998),highlightingitsimportance in the regulation of cGMP downstream signaling pathways (Garcia-Osta et al.,2012). Strengthening intracellular cGMP signalingmitigatesmicroglial activationand isa novel strategies for reducing microglial activation (Paris et al., 2OoOa). Lines of evidence indicate that PDE-5 inhibitors exert neuroprotective effects through the stimulation of NO/cGMP signaling and inhibition of the elevation of $\\mathsf { A B 1 - } 4 0$ and $\\mathsf { A } \\mathsf { \\beta }$ 1-42 protein levels in the brain of APP/PS1 mice (Jin et al.,2O14). Interestingly, tadalafil, a specific PDE-5 inhibitor can cross the blood-brain barrierand influence the PDE-5 expression,then reverts the AD-related alterations in the Tau pathology (Garcia-Barroso et al.,2013).We also offered the evidence to confirm that yonk could cross the BBB(supplemental Fig.1).Yonk,as an selective inhibitor of PDE-5,reduces neurological deficits,infarction and Nogo-R expression mainly through the cGMP/PKA pathway in stroke (Chen et al.,2014a). The potential benefits of PDE5 inhibitors in AD may be in relation to regulate the cGMP levels of brain.Our previous results have shown that sild decreased inflammatory cytokines expression accompanied by microglial activation (Zhao et al.,2O11). There are some studies have shown that sild plays important roles in CNS diseases through the increase incGMP levels (Jin etal.,2O14; Prickaerts et al., 2002；Rutten etal.,2oo5). In our preliminary study,we found that yonk exerted protective against microglial-mediated neuron injury through the ERK1/2/NF-kB pathwayto elevate cGMP levels (Zhao et al., 2015). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Amyloid plaques cause an overall reduction in the number of adult-generated hippocampal neurons(Verret et al.,2oo7),which may contribute to the cognitive decline observed in APP/PS1 mice. It isreported that sild mayalso potentially inhibit microglial activation (Paris et al.,2ooOa) and exert it's in vitro anti-inflammatory effect in LPS-activated microglial cells (Zhao et al., 2O11). Overactive state of microglia can lead to neuronal death (Combs et al., 2001).In our previous studies,Chen et al.demonstrated that yonk and sild reduce neurological deficits after brain injuryand increase the number of surviving neurons in both the cortex and striatum viaacGMP-dependent Nogo-R pathway (Chen et al.,2O14a,c).The present data has shown that treatmentwith yonk inhibits the activation of microglia and astrocytes,while increasing the number of neurons in brain of APP/PS1 transgenic mice,which may be responsible for the improvement in cognitive performance and reduction of $\\mathsf { A } \\mathsf { \\beta }$ burden.However, the mechanism of action of yonk on AD needs to be studied in more depth. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Pathological changes in several diseases of the CNS including AD,Parkinson's disease(PD),stroke and others involve the loss of neural cells (Chuang,2O1O). Stimulation of neurogenesis might provide a way to remedy neurons lost due to AD (Frank et al., 2006).Sild can inhibit PDE-5 expression,increase the cGMP level (Andric et al.,201O; Rutten et al.,20o5), and enhance neurogenesis, which isassociated withan increase in phosphorylated Akt.Additionally,inhibitionof thePI3K/Akt pathwayabolishes sild-induced neurogenesis(Wang et al.,2oo5b). In vitro,sild enhances nestin induced neurogenesis and oligodendrogenesis after stroke (Zhang et al.,2O12). These data suggest that the PI3K/Akt signaling pathwayplaysan important role in regulatingadult neurogenesis.Our previous studies had shown that yonk as an analogue of sild,could increase the expression of PI3K and p-Akt after stroke(Chen etal., 2014b).In present research,most newly proliferated cells differentiated into neurons in the DG and cortex after treatment with yonk. We speculated that yonk would enhance neurogenesis after AD through this way,but the conclusion need to be further confirmed. Together,these results suggest that yonk rescued neurogenesis and increased the number of neurons,maintained the cognitive activity of mice after AD onset. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In summary,this study clearly demonstrates that long-term treatment with yonk improves learning and memory in APP/PS1 transgenic mice.The data shows that Yonk exerts the neuroprotective effects through decreasing APP processing,inhibiting the activation of glial cells and restoring neurogenesis to improve cognitive deficits in AD model.In this research,we find that sild can also ameliorate amyloid burden.These results support the assumption that the PDE-5 inhibitor has the potential to be a novel therapeutic tool against CNS diseases. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Disclosure statement ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "No actual or potential conflicts of interest. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This research was partially supported by the National Natural Science Foundation of China （81102455）and the Open Research Foundation for Key Laboratory ofNeurodegenerative Diseases,Ministry of Education,of Capital Medical University(Grant No.2014SJBX02). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Andric,S.A.,Janjic,M.M.,Stojkov,N.J., Kostic,T.S.,2010.Sildenafil treatment in vivo stimulates Leydig cell steroidogenesis via the cAMP/cGMP signaling pathway. Am. J. Physiol. Endocrinol. Metab. 299, E544-E550.   \nBalducci, C.,Forloni, G.,2011. APP transgenic mice: their use and limitations. Neuromolecular Med.13,117-137.   \nBath,K.G., Akins, M.R., Lee,F.S.,2012. BDNF control of adult SVZ neurogenesis. Dev. Psychobiol. 54, 578-589.   \nBornemann,K.D.,Wiederhold,K.H.,Pauli, C., Ermini,F., Stalder,M., Schnell,L., Sommer, B., Jucker, M., Staufenbiel, M., 2oo1.Abeta-induced inflammatory processes in microglia cells of APP23 transgenic mice. Am.J. Pathol. 158, 63-73.   \nChen,X.,Wang,N.,Liu,Y.,Liu,Y., Zhang,T.,Zhu,L.,Wang,Y.,Wu, C.,Yang,J.,2014a. Yonkenafil: a novel phosphodiesterase type 5 inhibitor induces neuronal network potentiation by a cGMP-dependent Nogo-R axis in acute experimental stroke. Exp.Neurol.261C,267-277.   \nChen,X.,Wang,N.,Liu,Y.,Liu,Y., Zhang,T., Zhu,L.,Wang,Y.,Wu, C.,Yang,J., 2014b. Yonkenafil:a novel phosphodiesterase type 5 inhibitor induces neuronal network potentiation by a cGMP-dependent Nogo-R axis in acute experimental stroke. Exp. Neurol. 261,267-277.   \nChen,X.M.,Wang,N.N., Zhang,T.Y.,Wang,F.,Wu, C.F., Yang,J.Y.,2014c. Neuroprotection by sildenafil: neuronal networks potentiation in acute experimental stroke. CNS Neurosci. Ther.20, 40-49.   \nChow,V.W.,Mattson,M.P.,Wong,P.C.,Gleichmann,M.,20o9.An overview of APP processing enzymes and products. Neuromolecular Med.12,1-12.   \nChuang, T.T., 201o. Neurogenesis in mouse models of Alzheimer's disease. Biochim. Biophys. Acta 1802, 872-880.   \nCombs,C.K.,Karlo,J.C,Kao,S.-C.,LandrethG,0 $\\beta$ Amyloid stimulation of microglia and monocytes results in TNFα-dependent expression of inducible nitric oxide synthase and neuronal apoptosis.J. Neurosci. 21,1179-1188.   \nCoraci,IS.,Husemann,J.,Berman,JW,Hulette,C.,Dufour,J.H.,Campanella,G.K, Luster,A.D,Silverstein,S.C,ElKhoury,JB,202.CD36,alassBsavenger receptor, is expressed on microglia in Alzheimer's disease brains and can mediate production of reactive oxygen species in response to $\\beta$ amyloid fibrils. Am. J. Pathol. 160,101-112.   \nCuadrado-ejedor,M.,Hervias,I.,icobaraza,A.,uerta,E.,erez-Roldan,J.. Garcia-Barroso, C., Franco,R., Aguirre,N., Garcia-Osta, A.,201. Sildenafil restores cognitive function without affcting beta-amyloid burden in a mouse model of Alzheimer's disease. Br.J. Pharmacol.164, 2029-2041.   \nDAF,JFS,JSP,SHSD,JB,C,Isolation and characterization of PDE9A,a novel human cGMP-specific phosphodiesterase The Journal of Biological Chemistry 273,1998;15559-15564.   \nFrank,M.,Longo,T.Y.,Youmei, X.,Massa, A.S.M.,2oo6.Small molecule approaches for promoting neurogenesis. Curr. Alzheimer Res.3,5-10.   \nGalasko,D,Shmitt,F.,Tomas,R.,Jin,S.,Benne,D,Ferris,S.,2.Detailed assessment of activities of daily living in moderate to severe Alzheimer's disease.J. Int. Neuropsychol. Soc.11,446-453.   \nGarcia-Barroso,Ciobaraa,APsualucas,Unceta,NicoAJe M.A.,Salles,J.,Lanciego,J.L.,Oyarzabal,J.,Franco,R., Cuadrado-Tejedor,M., Garcia-Osta, A.,2013.Tadalafil crosses the blood-brain barrierand reverses cognitive dysfunction in a mouse model of AD. Neuropharmacology 64, 114-123.   \nGarcia-Osta,A.,Cuadrado-Tejedor,M., Garcia-Barroso, C.,Oyarzabal,J.,Franco,R 2012. Phosphodiesterases as therapeutic targets for Alzheimer's disease. ACS Chem. Neurosci. 3, 832-844.   \nGouras, G.K., Almeida, C.G.,Takahashi, R.H.,2oo5. Intraneuronal abeta accumulation and origin of plaques in Alzheimer's disease. Neurobiol. Aging 26,1235-1244   \nGratzner, H.G.,1982. Monoclonal antibodyto 5-bromo-and 5-iododeoxyuridine: a new reagent for detection of DNA replication. Science 218, 474-475.   \nHandattu,S.P.,Garber,DW.,Monroe,C.E.,vanGroen,T.,Kadish,I,Nayyar,G,Cao, D.,Palgunachari, M.N,Li,L,Anantharamaiah, G.M.,20o9.Oral apolipoprotein A-I mimetic peptide improves cognitive function and reduces amyloid burden in a mouse model of Alzheimer's disease. Neurobiol. Dis.34, 525-534.   \nHeneka,,bninIfatoyprcessesinemersdiseae.J. Neuroimmunol. 184, 69-91.   \nHooper, N.,Fraser,C., Stone,T.W.,1996. Effects of purine analogues on spontaneous alternation in mice. Psychopharmacology 123, 250-257.   \nHou,Y,Aboukhatwa,MA,Lei,D.L, Manaye, K., Khan,L,Luo,Y,2010. Anti-depressnt natural flavonols modulate BDNF and beta amyloid in neurons and hippocampus of double TgAD mice. Neuropharmacology 58, 911-920.   \nJin,F., Gong,Q-H.,Xu,Y.-S.,Wang,L.-N.,Jin,H.,Li,F.,Li,L.-S.,Ma,Y.-M.,Shi,J.-S., 2014. Icariin,a phoshphodiesterase-5 inhibitor,improves learning and memory in APP/PS1 transgenic mice by stimulation of NO/cGMP signalling. Int. J. Neuropsychopharmacol. 17, 871-881.   \nJin, K,Galvan,V.,ie,L,ao,X.O.,Gorosiza,O.F.,redesenD.E.,Greenbrg,DA., 2004. Enhanced neurogenesis in Alzheimer's disease transgenic (PDGF-APPSw,Ind) mice. Proc. Natl. Acad. Sci. U.S.A 101,13363-13367.   \nKee,N.SivaingaSoosa,WjtoizJaheutityfd BrdU as proliferative markers of adult neurogenesis.J. Neurosci. Methods 115, 97-105.   \nKee,N,Sivalingam,S., Boonstra,R.,Wojtowicz,J.M.,2002b.The utilityof Ki-67and BrdU as proliferative markers of adult neurogenesis.J. Neurosci. Methods 115, 97-105.   \nLeigh Holcome,Eileen,M.N.G.,Mcgowan, XinYu,Stan Benkovie,PaulJaten Kristal Wright, Irene Saad, Ryan Mueller, Dave Morgan, Sunnny Sanders, Cindy Zehr, Kassandra O'campo,John Hardy, Cristian-mihail Prada,Steve Younkin, Karen Hsiao, Karen Duff,1998. Accelerated Alzheimer-type Phenotype in Transgenic Mice Carrying Both Mutant Amyloid Precursor Protein and Presenilin 1 Transgenes, 4. Nature Publishing Group, pp.97-100.   \nMattson, M.P.,2004. Pathways towards and Away from Alzheimer's Disease, 430. Nature Publishing Group, pp. 631-639.   \nMcGeer, E.G., McGeer,P.L.,2003. Inflammatory processes in Alzheimer's disease. Prog. Neuro-Psychopharmacol. Biol. Psychiatry 27, 741-749.   \nMori,T., Koyama, N., Arendash,G.W, Horikoshi-Sakuraba,Y,Tan,J,Town,T. 2010. Overexpression of human S10oB exacerbates cerebral amyloidosis and gliosis in the Tg2576 mouse model of Alzheimer's disease. Glia 58, 300-314.   \nMu, Y.,Gage, F.H.,2011. Adult hippocampal neurogenesis and its role in Alzheimer's disease. Mol. Neurodegener. 6, 85.   \nOrejana,L,Barros-inones,L,Jordan,J.,Cedazo-Mingue,A.,Tordera,R., Aguirre, N., Puerta, E.,2015.Sildenafil Decreases BACE1 and Cathepsin B Levels and Reduces APP Amyloidogenic Processing in the SAMP8 Mouse.J. Gerontol. Ser. A, Biol. Sci. Med. Sci. 70, 675-685.   \nParis,D.,Town,T., Mullan, M.,2ooOa. Novel strategies for opposing murine microglial activation. Neurosci. Lett. 278,5-8.   \nParis,D.,Town,T.,Parker,T.,Humphrey,J.,Mullan,.,0b. $\\beta$ Amyloid vasoactivity and proinflammation in microglia can be blocked by cGMP-elevating agents. Ann. N.Y. Acad. Sci. 903, 446-450.   \nPrickaerts,J,Van Staveren, W.,Sik,A.,Markerink-van Itersum,M., Niewohner, U., Van der Staay,F.,Blokland,A,De Vente,J.,20o2.Efectsof twoselective phosphodiesterase type 5 inhibitors,sildenafil and vardenafil, onobject recognition memory and hippocampal cyclic GMP levels in the rat. Neuroscience 113,351-361.   \nPuglielli,L.,Ellis,B.C., Saunders,A.J.,Kovacs,D.M.,2oo3. Ceramide stabilizes beta-site amyloid precursor protein-cleaving enzyme 1 and promotes amyloid beta-peptide biogenesis.J. Biol. Chem. 278,19777-19783.   \nPuZzo,D.,Loreto, C.,Giunta,S.,Musumeci,G.,Frasca,G.,Podda,M.V.,Arancio,O., Palmeri,A.,2014. Effect of phosphodiesterase-5 inhibition on apoptosis and betaamyloid load in aged mice. Neurobiol. Aging 35, 520-531.   \nPuzzo, D.,Staniszewski,A.,Deng, S.X.,Privitera,L.,Leznik,E.,Liu,S., Zhang,H.,Feng, Y., Palmeri,A.,Landry, D.W., Arancio, O.,2oo9.Phosphodiesterase 5 inhibition improves synaptic function, memory,and amyloid-beta load in an Alzheimer's disease mouse model. J. Neurosci. Off. J. Soc. Neurosci. 29, 8075-8086.   \nRoof,R.,Yabe,Y., Zaleska,M.,2010. Use of Ethological Rodent Behavior to Assess Efficacy of Potential Drugs for Alzheimer's Disease.AJ Spink FG,OE,Krips,LW, Loijens,LPJJ Noldus,and PH Zimmerman,editor.   \nRutten,K.,Vente,J.D.,Sik,A.,Ittersum,M.M.,Prickaerts,J.,Blokland,A.,2o05.The selective PDE5 inhibitor, sildenafil, improves object memory in Swiss mice and increases cGMP levels in hippocampal slices. Behav. Brain Res.164,11-16.   \nSchmidt,M.L.,Robinson,K.A.,Lee,V.,Trojanowski,J.Q.,1995.Chemical and immunological heterogeneity of fibrillaramyloid in plaques of Alzheimer's disease and Down's syndrome brains revealed by confocal microscopy. Am. J. Pathol. 147, 503.   \nShetty,M.S.R.A.K.,2oo4.Efficacyof doublecortinasa marker to analyse the absolute number anddendritic growth of newly generated neurons in the adult dentate gyrus. Eur.J. Neurosci. 19,234-246.   \nVerret,L.,Jankowsky,J.L., Xu, G.M., Borchelt,D.R.,Rampon,C.,2007. Alzheimer's-type amyloidosis in transgenic mice impairs survival of newborn neurons derived from adult hippocampal neurogenesis. J. Neurosci. Off.J. Soc. Neurosci. 27, 6771-6780.   \nWang, G.,20o9. Design, Synthesis and Development of PDE5 Inhibitors. Aston University.   \nWang,J.,Jiang,Y.,Wang,Y.,Tang,Y.,Teng,G.,Fawcett,J.P.,Kong,J.,Gu,J.,2008.A rapid and sensitive LC-MS/MS assay to quantify yonkenafil in rat plasma with application to preclinical pharmacokinetics studies. J. Pharm. Biomed. Anal. 47, 985-989.   \nWang,L.,Gang Zhang,Z., Lan Zhang,R., Chopp,M.,2oo5a. Activation of the PI3-K/Akt pathway mediates cGMP enhanced-neurogenesis in the adult progenitor cells derived from the subventricular zone.J. Cereb. Blood Flow Metab. Off.J.Int.Soc. Cereb.Blood Flow Metab.25,1150-1158.   \nWang,L., Zhang, Z.G., Zhang,R.L., Chopp,M.,2005b. Activation of the PI3-K/Akt pathway mediates cGMP enhanced-neurogenesis in the adult progenitor cells derived from the subventricular zone.J.Cereb.Blood Flow Metab.25, 1150-1158.   \nWang,Z.X.,Tan,L.,Liu,J.,Yu, J.T.,2o15.The essential role of soluble Abeta Oligomers in Alzheimer's dis.Mol. Neurobiol.   \nWesson, D.W.,Wilson, D.A.,2011. Age and gene overexpression interact to abolish nesting behavior in Tg2576 amyloid precursor protein (APP) mice. Behav. Brain Res. 216,408-413.   \nWirz,K.T.S., Bossers,K., Stargardt,A.,Kamphuis,W., Swaab,D.F.,Hol,E.M., Verhaagen,J.,2o13. Cortical beta amyloid protein triggers an immune response, but no synaptic changes in the APPswe/PS1dE9 Alzheimer's disease mouse model. Neurobiol. Aging 34, 1328-1342.   \nZhang, H., Cao,H.J., Kimelberg, H.K., Zhou,M.,2011a.Volume regulated anion channel currents of rat hippocampal neurons and their contribution to oxygen-and-glucose deprivation induced neuronal death. PloS One 6, e16803.   \nZhang,J., Guo,J., Zhao,X., Chen,Z.,Wang, G.,Liu,A.,Wang, Q.,Zhou,W.,Xu,Y., Wang,C.,2013.Phosphodiesterase-5 inhibitor sildenafil prevents neuroinflammation,lowers beta-amyloid levelsand improves cognitive performance in APP/PS1 transgenic mice. Behav. Brain Res.250, 230-237.   \nZhang, Q.,Yang,G.,Li,W.,Fan,Z., Sun,A.,Luo,J.,Ke,Z.-J.,2O11b.Thiamine deficiency increases $\\beta$ -secretase activityand accumulation of $\\beta$ -amyloid peptides. Neurobiol. Aging 32, 42-53.   \nZhang, R.L.,Chopp,M.,Roberts,C.,Wei,M.,Wang,X.,Liu,X.,Lu,M.,Zhang, Z.G., 2012.Sildenafil enhances neurogenesis and oligodendrogenesis in ischemic brain of middle-aged mouse. PloS One 7,e48141.   \nZhang,W.,Hao,J.,Liu,R.,Zhang,Z.,Lei,G., Su,C.,Miao,J.,Li,Z.,2O11c.Soluble Aβ levels correlate with cognitive deficits in the 12-month-old APPswe/PS1dE9 mouse model of Alzheimer's disease. Behav. Brain Res.222,342-350.   \nZhang, Y.-w.,Thompson,R., Zhang, H., Xu,H.,2011d.APP processing in Alzheimer's disease. Mol. Brain 4, 3.   \nZhao,S., Yang,J.,Wang,L.,Peng,S., Yin,J.,Jia,L.,Yang,X.,Yuan,Z.,Wu, C.,2015. NF-kB upregulates type 5 phosphodiesterase in N9 microglial cells: inhibition by sildenafil and yonkenafil. Mol. Neurobiol., 1-12.   \nZhao,S., Zhang,L.,Lian,G.,Wang,X., Zhang,H., Yao,X.,Yang,J.,Wu, C.,2011. Sildenafil attenuates LPS-induced pro-inflammatory responses through down-regulation of intracellular ROS-related MAPK/NF-kB signaling pathways in N9 microglia. Int. Immunopharmacol. 11, 468-474. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

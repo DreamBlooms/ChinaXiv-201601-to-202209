@@ -1,0 +1,487 @@
+[
+    {
+        "type": "text",
+        "text": "基于多块格子Boltzmann方法模拟接触热阻",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "方文振　任兴杰　陶文钰",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(西安交通大学热流科学与工程教育部重点实验室，能源与动力工程学院，西安710049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要本文基于OpenMP 并行语言，采用拼接式的多块格子 Boltzmann 方法研究了接触压力、粗糙度、间隙介质导热系数对接触热阻的影响规律。结果表明：铝之间的接触热阻随着接触压力的增加而降低，随着粗糙度的增加而增加；当块体气凝胶之间的间隙填充空气时，气凝胶之间的接触热阻随压力的增加变化不大；而当气凝胶间隙趋于真空时，接触热阻随压力的增大而降低；间隙介质的气体导热对于接触热阻起着关键的作用，在低接触压力时，气凝胶间隙趋于真空时的接触热阻是填充空气的大约50 倍。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词多块；格子Boltzmann 方法；接触热阻；间隙介质中图分类号：TK123 文献标识码：A 文章编号:0253-231X(2017)03-0595-05",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Numerical Predictions of Thermal Contact Resistance Based on the Multi-block Lattice Boltzmann Method ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "FANG Wen-Zhen REN Xing-Jie TAO Wen-Quan (KeyLaboratoryofThermo-FuidScienceandEngineringofMOE,ScholofEnergyandPowerEngineering,Xi'anJaotong University，Xi'an 710049,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract In the present paper,a patched-type multi-block latice Boltzmann method is adopted to study the influences of contact pressure,roughness,gas thermal conductivity of interstice media on the thermal contact resistance. The results show that thermal contact resistance of aluminum pairs decreases with the increasing contact pressure,while increases with roughness. Besides,the thermal contact resistance of bulk aerogel pairs changes slightly with the increase of contact pressure when the interstices are filled with air, while significantly decreases if the interstice is approaching vacuum. In addition,the gas conduction of interstice media plays a key role on the thermal contact resistance. At low contact pressure,the thermal contact resistance of the vacuum gap is about 50 times of that of the air gap. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key wordsmulti-block; lattice Boltzmann method; thermal contact resistance; interstice media ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0前言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "函数[3被广泛用于生成粗糙表面。对于接触变形机制，存在塑性变形、弹性变形，弹塑性变形三种模型。弹性变形理论基于Hertz理论，而塑性变形认为接触压力超过弹性极限时发生的都是塑性变形。本文采用塑性变形理论来分析接触变形机制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "真实表面都是粗糙表面，因而当两材料相互接触时，只有很少接触点会接触上，这导致了接触热阻。接触热阻在热防护系统、电子设备中扮演着重要的作用。从1950年开始，有了很多预测接触热阻大小的研究工作。接触热阻的大小取决于材料表面形貌，接触变形机制、及传热分析。对于表面形貌，Greenwood 和Williamson[1]发现，粗糙表面的轮廓高度近似服从高斯分布。在这个模型中，用一些统计参数，如粗糙度、曲率，来描述粗糙表面。然而，这些统计参数和测量仪器的分辨率是相关的，且由于粗糙表面形貌的多尺度特性，并不能唯一描述表面形貌。Majumdar和Tien[2]采用分形理论来描述粗糙表面的形貌，在这之后，基于分形理论的W-M",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在材料的接触面上，存在三种传热途径：1）通过接触点的导热；2)通过间质介质的导热；3)通过辐射[4]。在以往的研究中，很多学者忽略了间质介质（气体)导热和辐射的贡献[3,5]。因而本文的目的是为了考虑气体导热和辐射对接触热阻的影响。描述具有一定分辨率的粗糙表面需要大量的网格，为节省计算资源，本文采用如图1所示多块网格的方法来描述接触界面。在接触区域采用细网格，而对于接触材料则采用粗网格。在粗细网格的界面上需保证热流、温度等物理量连续。格子Boltzmann方法具有易于并行计算的特点，因而本文基于OpenMP并行语言，采用格子Boltzmann方法用于数值预测接触热阻。在验证了多块Boltzmann方法程序的准确性后，研究了接触压力、粗糙度、接触材料的导热系数、间隙介质导热系数、温度、以及辐射对接触热阻的影响规律。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1数值方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "计算区域如图1所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/10ac71021c66da0469a53ef424f930b6773b6e1527f869c079aa46ace0355ed7.jpg",
+        "img_caption": [
+            "图1接触热阻的示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于整个计算区域，能量传输方程如下所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial T } { \\partial t } = \\frac { \\partial } { x _ { i } } \\left( \\frac { \\lambda } { \\rho c _ { p } } \\frac { \\partial T } { \\partial x _ { i } } \\right) + S\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "边界条件为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\left. T \\right| _ { z = l } } = { T _ { 1 } } ; { \\quad T | _ { z = 0 } } = { T _ { 2 } } ; { \\quad \\left. \\lambda \\frac { { \\partial T } } { { \\partial { x } } } \\right| _ { x = { \\partial \\Omega } } } = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中, $T$ 是温度, $\\lambda$ 是导热系数， $\\rho c _ { p }$ 是体积比热容, $S$ 是源项。如果没有内热源，则 $\\scriptstyle S = 0$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 一般格子Boltzmann 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在格子Boltzmann方法，对应式（1）的温度分布演化方程如下[6]：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { \\alpha } ( x + e _ { \\alpha } \\delta t , t + \\delta t ) - f _ { \\alpha } ( x , t ) =\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 } { \\tau } ( f _ { \\alpha } ( x , t ) - f _ { \\alpha } ^ { \\mathrm { e q } } ( x , t ) ) + \\delta t \\omega _ { \\alpha } S\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\textbf { \\em x }$ 代表位置， $t$ 是时间， $\\delta t$ 是时间间隔， $f _ { \\alpha }$ 是温度分布函数， $f _ { \\alpha } ^ { \\mathrm { e q } }$ 是平衡态温度分布函数，定义为",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(D3Q7 模型)[7]：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { \\alpha } ^ { \\mathrm { e q } } = \\omega _ { \\alpha } T , \\quad \\alpha = 0 - 6\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\omega _ { \\alpha } = 1 / 7 , \\vec { e } _ { \\alpha } =$ 是离散速度：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\vec { e } } _ { \\alpha } = { \\left[ \\begin{array} { l l l l l l l } { 0 } & { 1 } & { - 1 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 1 } & { - 1 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 1 } & { - 1 } \\end{array} \\right] } c\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "热扩散系数和松弛时间的关系：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\na = { \\frac { 2 } { 7 } } c ^ { 2 } \\left( \\tau - { \\frac { 1 } { 2 } } \\right) \\delta t\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当地温度可由下式计算得到：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT = \\sum _ { \\alpha } f _ { \\alpha }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "而当地热流密度[8]：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nq = - \\rho c _ { p } \\frac { \\tau - 0 . 5 } { \\tau } \\sum _ { \\alpha } e _ { \\alpha z } f _ { \\alpha }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 多块格子Boltzmann 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图2所示的是两块网格系统的示意图，用于说明界面上信息的传递过程。网格比例：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm = \\delta x _ { c } / \\delta x _ { f } = \\delta t _ { c } / \\delta t _ { f }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6594d93cc46e360c8de95f18f4e3f4730f19d501d511a16dc2ce726a1f09887b.jpg",
+        "img_caption": [
+            "Fig.1 Schematic diagram of thermal contact resistance ",
+            "图2两块网格系统 Fig.2 Two-block grid system "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "可以推导出，网格上的信息量从细网格传递到粗网格的过程可由下式获得[9]：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { \\alpha , c } ^ { + } = f _ { \\alpha , f } ^ { \\mathrm { e q } } + \\frac { \\tau _ { c } - 1 } { \\tau _ { f } - 1 } \\frac { \\lambda _ { f } } { m \\lambda _ { c } } \\left( f _ { \\alpha , f } ^ { + } - f _ { \\alpha , f } ^ { \\mathrm { e q } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $f _ { \\alpha } ^ { + }$ 是碰撞后的温度分布函数，下标 $\\boldsymbol { \\mathbf { \\mathit { c } } }$ 代表的是粗网格，而下标 $f$ 代表的是细网格。从粗网格传递到细网格的过程可由下式计算得到：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { \\alpha , f } ^ { + } = f _ { \\alpha , c } ^ { \\mathrm { e q } } + m \\frac { \\tau _ { f } - 1 } { \\tau _ { c } - 1 } \\frac { \\lambda _ { c } } { \\lambda _ { f } } \\left( f _ { \\alpha , c } ^ { + } - f _ { \\alpha , c } ^ { \\mathrm { e q } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式(10)和式(11）)可以确保热流在粗细网格界面上连续。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "值得注意的是，在界面上黑色实体格点·的信息需要插值得到，我们采用三次样条插值获得。粗细网格的步进时间步长也不一样，时间上的插值采用三点拉格朗日来获得。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3接触热阻 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "接触热阻模型的示意图如图1所示。粗网格$1 0 0 \\times 1 0 0 \\times 1 0 0$ ，细网格 $8 0 0 \\times 8 0 0 \\times 3 0$ 。为保证热流在气固界面上热流连续，还应使：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\rho c _ { p } \\right) _ { f } = \\left( \\rho c _ { p } \\right) _ { s }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "这样的假设，当达到稳定状态时，并不影响温度场。对于图1所示的计算区域，上下给定等壁温，边界绝热。则当温度场稳定时，接触热阻可由下式计算得到[10]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { c } = \\frac { \\Delta t } { q }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\Delta t$ 是接触界面的温差， $q$ 是热流密度。粗糙表面采用W-M函数获得：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle z \\left( x , y \\right) = L \\left( \\frac { G } { L } \\right) ^ { D - 2 } \\left( \\frac { \\ln \\gamma } { M } \\right) ^ { 1 / 2 } } } \\\\ { { \\displaystyle \\sum _ { m = 1 } ^ { M } \\sum _ { n = 0 } ^ { n = n _ { \\mathrm { m a x } } } \\gamma ^ { ( D - 3 ) n } \\Biggl \\{ \\cos \\phi _ { m , n } - } }  \\\\ { { \\displaystyle \\cos \\left[ \\frac { 2 \\pi \\gamma ^ { n } \\left( x ^ { 2 } + y ^ { 2 } \\right) ^ { 1 / 2 } } { L } \\times \\right. } } \\\\ { { \\displaystyle \\left. \\cos \\left( \\tan ^ { - 1 } \\left( \\frac { y } { x } \\right) - \\frac { \\pi m } { M } \\right) + \\phi _ { m , n } \\right] \\Biggr \\} } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "接触压力由下式计算得到[4] ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { A _ { r } } { A _ { a } } } = { \\frac { P } { H _ { c } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e8ce90498de6ab994a000a7d8d3b041b99583ef829275df3fd61051dbc7c701.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/35e45d29e53c799423137148b692f9fcba2bc90396e3678370c5f6b963024c45.jpg",
+        "img_caption": [
+            "图3接触表面对Fig.3 Contact surface pairs"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "生成的粗糙表面对如图3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2模型验证 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图4(a)给出了接触热阻的简单计算模型，用两个固体之间夹着一层空气来模拟接触热阻。间隙距离为 $5 . 2 \\mu \\mathrm { m }$ ，间隙介质导热系数 $0 . 0 2 6 \\mathrm { W } / ( \\mathrm { m } { \\cdot } \\mathrm { K } )$ ，固体导热系数 $1 \\ \\mathrm { W / ( m { \\cdot } K ) }$ 。粗网格 $1 1 \\times 1 1 \\times 1 1$ ，细网格$2 1 \\times 2 1 \\times 2 1$ 。用多块格子Boltzmann方法预测得到的接触热阻为 $2 { \\times } 1 0 ^ { - 4 } \\ \\mathrm { m ^ { 2 } { \\cdot } K / W _ { ☉ } }$ 。和理论预测值一样说明了该方法的准确性。从图4(b）可以看出，热流密度在粗细网格界面上连续。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce1c26fc23c70865f6334712f24e51da4dc1a557357d1536d0b208633f0a790d.jpg",
+        "img_caption": [
+            "(a)温度分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e5ca2658e3c090bf2a256ba3a259d1bdd49d7ebcdbe1f209ea32b2fc488a746.jpg",
+        "img_caption": [
+            "图4接触热阻的简单模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结果与讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1接触压力的影响 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图5给出了铝接触热阻随着接触压力的变化关系。铝的平均表面粗糙度是 $R _ { \\mathrm { a } } { = } 1 . 9 5 ~ { \\mu \\mathrm { m } }$ 。从图中可以看出，随着接触压力的增加，接触热阻先是急剧降低而后下降得平缓。接触压力的增加导致了接触间隙的减小，而间隙介质的导热系数比接触材料的导热系数低。因而随着接触压力的增加，材料之间的接触热阻会降低。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/08a7ac946766b4bd16da31c544f67f64cd2c6f80d132056413b11e95748129ce.jpg",
+        "img_caption": [
+            "图5接触热阻随压力的变化"
+        ],
+        "img_footnote": [
+            "Fig.5 Pressure dependence of thermal contact resistance "
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2间隙介质导热系数的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "气凝胶常用在飞行器的热防护系统中。本文研究了块材气凝胶之间的接触热阻。气凝的导热系数设为 $0 . 0 3 \\mathrm { ~ W } / ( \\mathrm { m } { \\cdot } \\mathrm { K } )$ 。气凝胶表面的平均粗糙度为$R _ { \\mathrm { a } } { = } 1 . 9 5 ~ \\mu \\mathrm { m }$ 。图6中给出了间隙介质导热系数对气凝胶接触热阻的影响规律。由于气凝胶固体本身的导热系数和空气的导热系数(0.026W/(m·K)）差不多，因而当间隙介质填充空气时，气凝胶固体之间的接触热阻随压力增大的下降趋势并不明显。而当间隙介质导热系数 $2 . 6 { \\times } 1 0 ^ { - 4 } \\mathrm { W } / ( \\mathrm { m } { \\cdot } \\mathrm { K } )$ 时，气凝胶固体之间的接触热阻随着压力的增大而增大。因而，间隙介质的导热系数的对接触热阻的影响很大。在低接触压力时，间隙介质的导热系数为 $2 . 6 \\times 1 0 ^ { - 2 }$ $\\mathrm { W / ( m { \\cdot } K ) }$ 的接触热阻是间隙介质导热系数 $2 . 6 \\times 1 0 ^ { - 4 }$ $\\mathrm { W / ( m { \\cdot } K ) }$ 时的大约 50 倍。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/46345eac6fcce39e110aac40a522c63a8c0846499d5249e6868f764119177dc0.jpg",
+        "img_caption": [
+            "Fig.4 Simple model of thermal contact resistance ",
+            "图6间隙介质导热系数对接触热阻的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3表面粗糙度的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表面形貌会对接触热阻产生很大的影响。这里，我们研究了铝材料表面的粗糙度对接触热阻的影响。图7给出了表面粗糙度对接触热阻的影响规律。这里的表面粗糙度是平方根平均粗糙度。从图中可以看出，接触热阻随着粗糙度的增加而增加。这是因为随着粗糙度的增加，上下接触表面之间的平均距离增加，而间隙介质之间的导热热阻是主要热阻。因而随着表面粗糙度的增加，接触热阻也会增加。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e5e21e8539429260305adce3489e43c7d95602ac94e496c34a29fe99338a5514.jpg",
+        "img_caption": [
+            "Fig.6 Gap medium influence on thermal contact resistance ",
+            "图7表面粗糙度对接触热阻的影响",
+            "Fig.7 Influence of roughness on thermal contact resistance "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文采用多块格子Boltzmann方法数值计算了接触材料间的接触热阻，并得到以下结论：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1）铝的接触热阻随着接触压力的增加而降低，随着表面粗糙度的增加而增加;",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2）当块体气凝胶之间的间隙填充空气时，气凝胶之间的接触热阻随压力的增加变化不大；而当气凝胶间隙趋于真空时，接触热阻随压力的增大而降低；间隙介质的气体导热对于接触热阻起着关键的作用，在低接触压力时，气凝胶间隙趋于真空时的接触热阻是填充空气的大约50倍。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Greenwood JA,WilliamsonJB P.Contact of Nominally Flat Surfaces [C]//Proceedings of the Royal Society of London A:Mathematical,Physical and Engineering Sciences.The Royal Society, 1966,295(1442):300-319   \n[2] MajumdarA,Tien CL.Fractal Characterization and Simulation of Rough Surfaces [J].Wear,1990,136(2):313-327   \n[3] Murashov MV,Panin S D.Modeling of Thermal Contact Conductance [C]//14th International Heat Transfer Conference.American Society of Mechanical Engineers,2010: 387-392   \n[4] Yovanovich M M.Four Decades of Research on Thermal Contact,Gap,and Joint Resistance in Microelectronics [J].Components and Packaging Technologies,IEEE Transactions on,2005,28(2):182-206   \n[5]Cui T,Li Q,Xuan Y,et al.Multiscale Simulation of Thermal Contact Resistance in Electronic Packaging [J]. International Journal of Thermal Sciences,2014,83:16- 24   \n[6]Mishra S C,Poonia H,Vernekar RR,et al.Lattice Boltzmann Method Applied to Radiative Transport Analysis in a Planar Participating Medium [J].Heat Transfer Engineering,2014,35(14/15): 1267-1278   \n[7] Xuan Y M,Zhao K,Li Q. Investigation on Mass DiffusionProcess inPorous Media Based onLattice Boltzmann Method [J].Heat and Mass Transfer,2010,46(1O):1039- 1051   \n[8]Wang M,WangJ,Pan N,et al.Mesoscopic Predictions of the Effective Thermal Conductivity for Microscale Random Porous Media [J].Physical Review E,2007,75(3): 036702   \n[9] Yu D,Mei R,Shyy W.A Multi-block Lattice Boltzmann Method for Viscous Fluid Flows [J].International Journal for Numerical Methods in Fluids,2002,39(2): 99-120   \n10]Madhusudana CV,Madhusudana CV.Thermal Contact Conductance [M].New York:Springer-Verlag,1996 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

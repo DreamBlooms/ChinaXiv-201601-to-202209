@@ -1,0 +1,427 @@
+[
+    {
+        "type": "text",
+        "text": "陇东地区油污土壤紫花苜蓿(Medicagosativa)和金鸡菊(Coreopsis lanceolata)",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "植物修复效应比较",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "井明博¹²，王金成123，张威³，周立辉4，张绍鹏\\$  \n（1.陇东学院生命科学与技术学院甘肃 庆阳745000；2.甘肃省陇东生物资源保护利用与生态修复重点实验  \n室陇东学院甘肃 庆阳745000；3.甘肃省极端环境微生物资源与工程重点实验室中国科学院西北生态环境资  \n源研究院,甘肃 兰州730000；4.安全环保技术研究所长庆油田公司油气工艺研究院陕西 西安710021;5.中国石油天然气股份有限公司长庆油田分公司第十一采油厂，甘肃 庆阳745000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：对陇东黄土高原地区油污土壤紫花苜蓿(Medicago sativa)和金鸡菊(Coreopsis lanceolata)植物修复效应进行分析比较。经5个月场地修复试验,相关植物生理、土壤理化及微生物指标分析结果表明：(1)金鸡菊和紫花苜蓿根区土壤总石油烃(Total PetroleumHydrocarbons,TPH)去除率最高可达 $7 5 . 3 3 \\%$ 和 $6 9 . 8 8 \\%$ ;(2) $7 \\%$ 和 $9 \\%$ 油污土壤对金鸡菊生理特性的抑制作用相对较小,且其根区土壤pH、脲酶和碱性磷酸酶活性显著高于紫花苜蓿( $( P { < } 0 . 0 5 )$ ；（3）金鸡菊根区土壤中食烷菌属（Alcanivorax）、嗜盐单胞菌(Halomonas )和类诺卡氏菌属(Nocardioides)等相对丰度显著高于紫花苜蓿( $_ { \\scriptstyle P < 0 . 0 5 } )$ ;(4）油污浓度增加抑制了紫花苜蓿植物生理进而限制其根区TPH去除率，而土壤理化和微生物的共同作用使得金鸡菊根区土壤TPH去除率高于紫花苜蓿。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：原油污染土壤；紫花苜蓿；金鸡菊；植物修复；陇东地区",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "原油污染土壤生物修复技术是当今环境修复领域研究热点和难点，其中植物修复技术因其成本低、效果好、无二次污染、可持续性大面积原位修复和美化环境等优点而备受青睐[]。目前，紫花苜蓿(Medicago sativa）地毯草(Axonopuscompressus）、大米草（Spartina anglica）黑麦草（Loliumperenne）、凤仙花(Impatiensbalsamina)和长药八宝(Hylotelephiumspectabile)等已成功应用于油污土壤植物修复[2-8]然而，油污土壤植物修复过程易受多种因素的影响，其中气候条件、地形地貌、土壤性质等是影响植物修复效果的关键因素[6-7]。因此,筛选本土适生耐油植物应用于油污土壤植物修复不仅能保证修复效果，而且能有效提高植物定植率，防止枯黄病的发生，促进根区油污去除效果[9-10]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作为油田主产区的陇东黄土高原干旱少雨、土壤贫瘠、盐碱化程度高，因此植被分布有明显的地域性[1]。本研究团队多年来在该地区实施油污土壤场地生态修复工作，期间发现菊科植物不仅根区修复效果好，而且具有极强的油污耐受性、抗寒性以及牲畜不可食用性等特点，并陆续报道了金盏菊(Calendulaofficinalis）和非洲菊（Gerbera jamesonii）对陇东地区油污土壤植物修复效应[9,12],但尚未开展与其他植物修复效果的比较研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为此,本研究以豆科植物紫花苜蓿（Medicagosativa)为参照[3],以菊科植物金鸡菊(Coreopsis basa-lis)为受试植物，在油田某采油厂作业区进行了5个月的场地修复试验。通过比较2种受试植物生理特性、土壤理化特性和土壤微生物特性对不同油污浓度胁迫时的响应情况，解析在陇东地区紫花苜蓿和金鸡菊对油污土壤植物修复效果的主要微生态影响因素，为陇东地区油污土壤植物修复提供备选植物品种及其基础参考数据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1供试样地选择和试验设置 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区位于甘肃省庆阳市庆城县( $1 0 7 ^ { \\circ } 1 6 ^ { \\prime } 3 2 ^ { \\prime \\prime } .$ ）$1 0 8 ^ { \\circ } 0 5 ^ { \\prime } 4 9 ^ { \\prime \\prime } \\mathrm { E }$ $3 5 ^ { \\circ } 4 2 ^ { \\prime } 2 9 ^ { \\prime \\prime } { \\sim } 3 6 ^ { \\circ } 1 7 ^ { \\prime } 2 2 ^ { \\prime \\prime } \\mathrm { N } )$ ，海拔 $1 0 1 1 \\sim$ $1 6 2 3 \\mathrm { ~ m ~ }$ ,土壤类型为黄绵土[9]。为了最大程度评价原位状态下植物修复效果，油污土样源自油田某采油厂作业区内所收集的不同浓度 $( 0 . 7 2 \\% \\sim 3 6 . 3 7 \\% )$ ）油污土壤,其中原油污染物为落地原油和清罐原油混合物。油污土壤养分背景值为全氮含量 $1 . 4 9 \\sim$ $3 . 2 7 ~ \\mathrm { g \\cdot k g ^ { - 1 } }$ 、全磷 $0 . 3 1 { \\sim } 1 . 8 1 \\ { \\mathrm { g } } \\cdot { \\mathrm { k g } } ^ { - 1 } ,$ 碱解氮 $2 2 . 6 9 \\sim$ $2 6 . 3 7 ~ \\mathrm { m g } \\cdot \\mathrm { k g } ^ { - 1 }$ 、速效磷 $1 6 . 1 5 { \\sim } 1 8 . 7 1 ~ \\mathrm { m g } \\cdot \\mathrm { k g } ^ { - 1 }$ 、有机质$1 0 . 5 1 { \\sim } 1 3 . 1 9 \\ \\mathrm { g \\cdot { k g } ^ { - 1 } \\cdot \\ p H }$ 为 $7 . 7 8 { \\sim } 7 . 9 4$ 。试验以总石油烃（Total Petroleum Hydrocarbons，TPH）含 量为$3 . 0 7 \\% , 6 . 9 3 \\% \\ , 9 . 1 2 \\%$ 和 $1 1 . 4 3 \\%$ 油污土壤为供试土样，在文中分别标识为 $3 \\% . 7 \\% . 9 \\%$ 和 $1 1 \\%$ ，试验设计如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验采用场地修复方式，修复池长 $\\times$ 宽 $\\times$ 深为3$\\mathrm { m } { \\times } 3 \\ \\mathrm { m } { \\times } 0 . 5 \\ \\mathrm { m }$ 。为确保受试植物根系能自然延伸到油污土层，根据前期试验数据金鸡菊在非油污土壤中根长为 $1 7 . 5 { \\sim } 2 2 . 3 ~ \\mathrm { c m }$ ,将油污土层厚度铺设为 $2 5 \\sim$ $3 0 \\mathrm { c m }$ 。包括对照组(CK)在内，每个浓度设置3个重复，共计45个修复池。于2020年3月20日播种，每个对应的修复池播撒种子1000粒，覆土约 $1 \\mathrm { c m }$ ，采用人工补水方式保持最大田间持水量的 $6 5 \\%$ 左右进行发苗。于4月30日对株高约 $1 0 \\ \\mathrm { c m }$ 植株幼苗进行间苗，以确保受试植物根区修复效果将每个修复池黑心菊和紫花苜蓿种植密度保持在50株·m-2[1]。以2020年5月1日开始，修复试验进行5个月，于2020年9月30日结束。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2植物生理指标、土壤理化和酶活性测定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "修复结束后按对角线五点法收获长势相对一致的供试植物各20株。采用抖根法收集每株供试植物的根区土样混匀并随机分为两份，一份用于土壤微生物(细菌)高通量测序;另一份阴干过 $2 \\mathrm { m m }$ 筛后测定相关土壤理化和酶活性指标。土壤碱解氮、速效磷、脲酶和多酚氧化酶分别采用碱解扩散法、 $. 0 . 5 \\ \\mathrm { m o l } \\cdot \\mathrm { L } ^ { - 1 } \\mathrm { N a H C O } _ { 3 }$ 浸提-钼锑抗比色法、靛酚蓝比色法和邻苯三酚比色法测定[2]；植物根活力、植物叶片叶绿素a和b含量、地上及地下生物量、根冠比和出苗率参照Zhen等[5]和祁迎春等[13]进行测定。土壤TPH残留量采用超声-索氏萃取-重量法测定[2],土壤TPH去除率计算公式为：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土壤TPH去除率 $( \\% ) =$   \n实验前TPH含量 $( \\mathrm { m g \\cdot k g ^ { - 1 } } )$ -实验后TPH含量(mg·kg-1) × 100% 实验前TPH含量 $\\mathrm { ( m g \\cdot k g ^ { - 1 } ) }$ （24 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3土壤微生物多样性测序 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "委托某公司基于IlluminaMiseqPE2500平台进行土壤微生物(细菌)高通量测序。扩增引物为341",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/87e674ed5e1e4f400331fb9aee40637ac10b16a8d1e05e06a65f783a1c31cf7d.jpg",
+        "table_caption": [
+            "Tab.1 Design of experiment "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>处理组编号</td><td>TPH含量/%</td><td>处理方式</td></tr><tr><td rowspan=\"5\">对照组</td><td rowspan=\"5\">CK</td><td>0</td><td>非污染擢荒地土壤</td></tr><tr><td>3</td><td>原始油污土壤+自然降解</td></tr><tr><td>7</td><td>原始油污土壤+自然降解</td></tr><tr><td>9</td><td>原始油污土壤+自然降解</td></tr><tr><td>11</td><td>原始油污土壤+自然降解</td></tr><tr><td rowspan=\"4\">紫花苜蓿处理组</td><td rowspan=\"4\">TZ</td><td>0</td><td>非污染擢荒地土壤+紫花苜蓿</td></tr><tr><td>3</td><td>原始油污土壤+紫花苜蓿</td></tr><tr><td>7</td><td>原始油污土壤+紫花苜蓿</td></tr><tr><td>9</td><td>原始油污土壤+紫花苜蓿</td></tr><tr><td rowspan=\"5\">金鸡菊处理组</td><td rowspan=\"5\">TJ</td><td>11</td><td>原始油污土壤+紫花苜蓿</td></tr><tr><td>0</td><td>非污染畧荒地土壤+金鸡菊</td></tr><tr><td>3</td><td>原始油污土壤+金鸡菊</td></tr><tr><td>7</td><td>原始油污土壤+金鸡菊</td></tr><tr><td>9</td><td>原始油污土壤+金鸡菊</td></tr><tr><td></td><td></td><td>11</td><td>原始油污土壤+金鸡菊</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "F/805R（341F引I物:5'-CCCTACACGACGCTCTTCC-GATCTG-3';805R引物:5'-GACTGGAGTTCCTTG-GCACCCGAGAATTCCA-3'），对土壤微生物总DNA进行PCR扩增[14]。采用Ilumina测序工作流程完成文库制备、测序和下机数据初步分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4数据分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用SPSS25.0和R3.3.1对数据进行分析，用GraphPadPrism5.0和R3.3.1作图。土壤微生物群落结构（属分类水平）分析利用云平台（www.bio-cloud.org)进行。运用\"Vegan\"包的\"Varpart\"函数分析不同油污浓度胁迫时上述3类指标对土壤TPH去除率的贡献率，所有数据均经过Hellinger转换，用Venn图表示2种受试植物生长特性、土壤理化特性和微生物特性对根区土壤TPH去除率的纯效应以及共同效应，图中的数字代表上述3类指标对不同油污浓度影响时受试植物根区土壤TPH降解情况的信息解释率[15]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1不同油污浓度胁迫时2种受试植物根区土壤TPH去除率变化情况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$F$ 检验和多重比较(Duncan, $\\scriptstyle \\alpha = 0 . 0 5$ 结果显示（图1)：TZ和TJ处理组根区土壤TPH去除率均随油污浓度增加而下降( $( P { < } 0 . 0 5 )$ 。与 $3 \\%$ 油污组相比，TZ处理组在 $7 \\%$ 、 $9 \\%$ 和 $1 1 \\%$ 时分别显著下降了$3 9 . 0 6 \\% . 7 2 . 5 2 \\%$ 和 $9 7 . 1 2 \\%$ ,而TJ处理组则在 $9 \\%$ 和$1 1 \\%$ 油污浓度时显著降低了 $4 3 . 6 2 \\%$ 和 $9 7 . 0 7 \\% ( P <$ 注：不同大写字母表示各指标在不同油污浓度间差异显著；不同小写字母表示各指标在同一油污浓度时差异显著。图1不同油污浓度胁迫时紫花苜蓿和金鸡菊根区土壤TPH去除率变化",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5381a7b23e3972251fad4dd125b23d4ae32553398a36d61c8b0c57036ec3b7eb.jpg",
+        "img_caption": [
+            "Fig.1 Changes of the root-zone soil TPH removal rate of Medicago sativa and Coreopsislanceolata under different TPH concentrations stress "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "0.05)，表明2种受试植物根区土壤TPH去除率均随油污浓度增加而降低，这与大多数研究结论基本一致[3.6.9.12],原因在于原油污染物进入土壤后会增加土壤黏度，阻碍土壤和植物根区呼吸作用3，加之原油污染物对植物根系所产生的生理毒害作用随油污浓度增加而加剧，因此植物根区土壤原油污染物的去除率逐渐下降。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其次，独立样本 $\\mathbf { \\Phi } _ { t }$ 检验结果显示(图1)： $3 \\%$ 油污浓度时TJ和TZ根区土壤TPH去除率无显著差异，而 $7 \\%$ 和 $9 \\%$ 油污浓度时TJ处理组根区土壤TPH去除率与TZ处理组相比分别高出 $7 5 . 8 1 \\%$ 和 $1 2 1 . 2 1 \\%$ 中 $_ { ( P < 0 . 0 5 ) }$ ，但在 $1 1 \\%$ 油污浓度时二者与CK间无显著差异。即 $7 \\% \\mathrm { \\sim } 9 \\%$ 油污浓度时，金鸡菊根区土壤TPH去除率均显著高于紫花苜蓿，但当油污浓度高达$1 1 \\%$ 时2种受试植物均未表现出明显根区修复效应。研究指出油污浓度增加对不同种属植物根区TPH去除率的抑制程度不尽相同[10],原因在于油污土壤植物修复依赖于根区土壤微生物的降解作用，即植物根区土壤原油降解功能菌属种类和数量是决定其TPH去除率的关键因素5，但不同种属植物根区土壤微生物对此过程的响应方式不尽相同最终导致了根区TPH去除率有所差异",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2不同油污浓度胁迫时2种受试植物生理指标变化情况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于 $1 1 \\%$ 油污浓度时2种受试植物均未表现出明显根区修复效应，因此仅对 $3 \\% { \\sim } 9 \\%$ 油污浓度时2种受试植物各项指标做后续分析。首先，与非油污土壤对照组相比， $7 \\%$ 和 $9 \\%$ 油污浓度下TZ处理组出苗率和叶绿素比分别下降了 $4 3 . 0 8 \\% \\sim 1 0 6 . 9 2 \\%$ 和$3 1 . 4 2 \\% \\sim 8 7 . 1 5 \\%$ ，而TJ处理组则分别下降了 $2 0 . 0 0 \\% \\sim$ （204号$6 8 . 1 5 \\%$ 和 $2 8 . 7 0 \\% \\sim 7 0 . 4 8 \\% ( P < 0 . 0 5 )$ ，但在 $3 \\%$ 油污浓度时二者间均无显著差异（图 $2 \\mathrm { a }$ ,图2b);其次，与非油污土壤相比，TJ处理组根冠比、地上和地下部干重在 $3 \\%$ 油污浓度时分别增加了 $8 . 4 0 \\%$ 、 $1 6 . 4 8 \\%$ 和$2 6 . 4 3 \\% ( P { < } 0 . 0 5 )$ ,TZ处理组则无显著变化，而当油污浓度增至 $7 \\%$ 和 $9 \\%$ 时，TZ处理组上述3项指标的下降程度明显高于TJ处理组( $\\scriptstyle \\cdot { P < 0 . 0 5 } ,$ （图2c，图2d，图2e);此外，TJ处理组根活力在 $3 \\% { \\sim } 9 \\%$ 油污浓度时与非油污对照组相比分别增加了 $1 6 4 . 6 4 \\%$ 、$2 1 6 . 9 5 \\%$ 和 $5 7 . 6 8 \\%$ ，但TZ处理组仅在 $3 \\%$ 和 $7 \\%$ 油污浓度时增加了 $1 5 0 . 9 4 \\%$ 和 $7 8 . 8 9 \\% ( P { < } 0 . 0 5 )$ （图2f）。上述结果说明,浓度为 $3 \\%$ 油污土壤对2种受试植物",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TZTJ(a)出苗率 ${ \\cal F } _ { \\mathrm { T Z } } { = } 9 7 . 0 8 \\$ (b)叶绿素比 $F _ { \\mathrm { T Z } } { = } 4 6 4 . 1 1$ ， (c)地上部干重 $F _ { \\mathrm { T Z } } { = } 3 6 . 1 7 ,$ 中Frj=140.39,P<0.01 Frj=606.01,P<0.01 $F _ { \\mathrm { T J } } { = } 1 3 6 . 0 9 , P { < } 0 . 0 1$ 100 Aaa 3.0 8 a  \n8 工工 B 店 25205 Aa Aa Bb /重士 64 A b A cHBc C dC40 工 1.0 1 2 C0 3 7 9 0 3 7 9 03 7 9(d)Frz=152.84, (e)Frz=47.88, (f)FTz=35.70,5[ Fr-98439B5.0 70 b-9P-0.1 -o8u/ 30 Fr-28161, F6.011  \n8/重士 3 A工 A C 比 冠 0.5 工 C 20 工 B2 根 0.4 BH 工 CCB d Bd 10 -Cd 工1 C 0.3 工0 0.2 00 3 7 9 0 3 7 9 0 3 7 9油污浓度/% 油污浓度/% 油污浓度/%注：不同大写字母表示紫花苜蓿处理组(TZ)各指标在不同油污浓度间差异显著;不同小写字母表示金鸡菊处理组(TJ)各指标在同一油污浓度时差异显著。图）不同油污浓度肿追叶些花节荣和金鸡菊牛理货标亦化",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "的影响相对较小，但浓度介于 $7 \\% \\mathrm { \\sim } 9 \\%$ 的油污土壤对紫花苜蓿出苗率、叶绿素比、地上部干重、地下部干重和根冠比的抑制程度显著高于金鸡菊。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究指出，浓度低于 $5 \\%$ 油污土壤对非洲菊(Gerberajamesonii)地上及地下部干重有明显促进作用，但 $7 \\%$ 时则为抑制作用[12]；而浓度 $\\leqslant 1 \\%$ 的油污土壤对互花米草(Spartinaanglica)植物生物量、根冠比、叶绿素比和根活力无显著影响，但浓度达到 $3 \\%$ 2$5 \\%$ 时则可产生明显抑制作用5，上述研究结论与本研究结果有相似之处，即不同植物应对不同浓度原油污染物胁迫时各项生理指标的耐受性不尽相同，但总体而言，过高的油污浓度对其生理指标可产生明显抑制作用。究其原因，除通过土壤因素间接影响外，还在于原油污染物可通过细胞膜渗透进入植物根系组织，后经过植物富集作用对植物体地上及地下部分产生毒害作用，进而阻碍植物正常生理功能[16]。就本研究结果来看,金鸡菊对浓度在 $3 \\% { \\sim } 9 \\%$ 油污土壤的耐受性明显优于紫花苜蓿。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3不同油污浓度胁迫时2种受试植物根区土壤理化指标变化情况",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表2可知,2种受试植物根区土壤 $\\mathrm { \\ p H }$ 随油污浓度增加而升高，而碱解氮、速效磷、脲酶、碱性磷酸酶活性则随之降低（ $( P { < } 0 . 0 5 )$ 。原因在于原油进入土壤后因其强疏水性可引起表层和次表层土壤干旱，加剧土壤盐渍化，导致 $\\mathrm { C a } ^ { 2 + }$ 和 $\\mathrm { N a } ^ { + }$ 积累的同时降低阳离子交换量，从而升高土壤 $\\mathrm { \\ p H } ^ { [ 1 7 ] }$ 。而油污浓度增加所导致土壤pH升高会限制土壤养分的有效化水平[5.9],加之原油污染物进入土壤后促使土壤养分比例的失衡4,抑制了植物根区土壤微生物生长繁殖[18],最终导致土壤速效养分含量降低。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2种受试植物相较而言，在非油污土壤 $( 0 \\% )$ 中TZ处理组根区土壤碱解氮含量相对较高（ $( P { < } 0 . 0 5 )$ ，但在3种浓度油污土壤中2种受试植物根区土壤碱解氮含量并无显著差异； $7 \\%$ 和 $9 \\%$ 污染土壤中TZ处理组根区土壤速效磷含量与TJ处理组相比分别高出 $2 6 . 7 1 \\%$ 和 $5 3 . 0 8 \\% ( P { < } 0 . 0 5 )$ ，由此说明原油污染物对紫花苜蓿根区碱解氮含量和金鸡菊根区速效磷含量的抑制作用相对较大。目前多数学者认为，一定浓度的原油污染物会驱动植物根区土壤微生物群落结构发生改变，有利于原油污染物的生物降解，但原油降解功能微生物的生长会消耗土壤速效养分[69]。为了说明土壤碱解氮和速效磷含量的降低与根区土壤微生物和植物生长消耗之间的联系，笔者测定了2种受试植物根区土壤脲酶和碱性磷酸酶活性(表2)。 $\\mathbf { \\chi } _ { t }$ 检验结果显示，在 $7 \\%$ 和 $9 \\%$ 油污浓度时TJ处理组根区土壤脲酶活性与TZ处理组相比分别增加了 $5 4 . 4 2 \\%$ 和 $6 8 . 3 9 \\% ( P { < } 0 . 0 5 )$ ，碱性磷酸酶活性增加了 $6 5 . 8 5 \\%$ 和 $1 8 8 . 8 0 \\% ( P { < } 0 . 0 5 )$ ，说明在$7 \\% \\mathrm { \\sim } 9 \\%$ 油污浓度范围内TJ处理组根区土壤脲酶和碱性磷酸酶活性显著高于TZ处理组，但相对较高的土壤脲酶和碱性磷酸酶活性并未增加TJ处理组根区土壤碱解氮和速效磷含量，加之相对较低的土壤$\\mathrm { \\ p H }$ 反而有利于土壤养分有效化水平，由此说明，可能由于金鸡菊根区修复过程中土壤微生物的生长繁殖消耗了土壤养分进而导致其速效磷含量低于紫花苜蓿，而紫花苜蓿根区碱解氮含量的下降则可能与根区土壤微生物群落结构受原油污染物的影响有关。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/be86b7f1c6db0e1be502e59eeb9a52933a389d74087d2d54bfc15d3a16f5c32c.jpg",
+        "table_caption": [
+            "表2不同油污浓度胁迫时紫花苜蓿和金鸡菊根区土壤理化指标变化情况",
+            "Tab.2 Changes of physical and chemical index of Medicago sativaand Coreopsis lanceolata root-zone soil under different TPH concentrations stress "
+        ],
+        "table_footnote": [
+            "注：同行不同小写字母表示各指标在不同处理间差异显著( $\\stackrel { \\cdot } { F }$ 检验，Duncan, $\\scriptstyle \\alpha = 0 . 0 5$ )，同列不同大写字母表示紫花苜蓿与金鸡菊处理组间各指标差异显著(t检验， $\\scriptstyle \\alpha = 0 . 0 5$ )。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">理化指标</td><td rowspan=\"2\">处理</td><td colspan=\"4\">油污浓度/%</td><td rowspan=\"2\">F值</td></tr><tr><td>0</td><td>3</td><td>7</td><td>9</td></tr><tr><td>碱解氮/(mg·kg-1)</td><td>TZ</td><td>48.79 ± 2.29aA</td><td>35.84 ±1.46a</td><td>19.15 ± 2.57b</td><td>14.51 ± 1.62c</td><td>36.70**</td></tr><tr><td></td><td>TJ</td><td>41.72 ± 2.15aB</td><td>33.03 ±2.31a</td><td>18.40 ± 1.52b</td><td>13.89 ± 1.78c</td><td>42.81**</td></tr><tr><td>t值</td><td></td><td>2.228*</td><td></td><td></td><td></td><td></td></tr><tr><td>速效磷/(mg·kg-1)</td><td>TZ</td><td>17.17 ± 0.89a</td><td>16.85 ±0.99aA</td><td>13.13 ± 0.87bA</td><td>3.31 ± 0.32c</td><td>65.76**</td></tr><tr><td></td><td>TJ</td><td>15.16 ± 1.09a</td><td>12.35 ±0.94bB</td><td>6.16 ± 0.81cB</td><td>3.50 ± 1.03d</td><td>53.42**</td></tr><tr><td>t值</td><td></td><td></td><td>4.044*</td><td>5.867**</td><td></td><td></td></tr><tr><td>pH</td><td>TZ</td><td>7.96 ± 0.13dA</td><td>8.07 ±0.09c</td><td>8.25 ± 0.12bA</td><td>8.37 ± 0.07aA</td><td>50.13**</td></tr><tr><td></td><td>TJ</td><td>7.81 ± 0.14dB</td><td>7.97 ±0.12c</td><td>8.10 ±0.11bB</td><td>8.24 ± 0.08aB</td><td>64.40**</td></tr><tr><td>t值</td><td></td><td>3.82*</td><td></td><td>4.279*</td><td>5.479**</td><td></td></tr><tr><td>脲酶/[μg·g-1·(3h)-1]</td><td>TZ</td><td>9.05 ± 1.01a</td><td>7.58 ±0.86b</td><td>3.51 ± 0.95cA</td><td>1.93 ± 0.61dA</td><td>292.27**</td></tr><tr><td></td><td>TJ</td><td>8.41 ± 0.74a</td><td>7.32 ±0.41b</td><td>5.42 ± 0.75cB</td><td>3.25 ± 0.91dB</td><td>52.08**</td></tr><tr><td>t值</td><td></td><td></td><td></td><td>4.462*</td><td>5.885**</td><td></td></tr><tr><td>碱性磷酸酶</td><td>TZ</td><td>0.85 ± 0.04a</td><td>0.79 ±0.03a</td><td>0.41 ± 0.05bA</td><td>0.18 ± 0.03cA</td><td>239.54**</td></tr><tr><td>/[mg·g\"1·(24h)-1]</td><td>TJ</td><td>0.89 ± 0.07a</td><td>0.87 ±0.03a</td><td>0.68 ± 0.04bB</td><td>0.52 ± 0.02cB</td><td>67.35**</td></tr><tr><td>t值</td><td></td><td></td><td></td><td>7.89**</td><td>13.525**</td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4不同油污浓度胁迫时2种受试植物根区土壤微生物群落变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，与非油污土壤相比，随着油污浓度从 $3 \\%$ 增至 $9 \\%$ ，TZ处理组根区土壤微生物OTU数量、Chao1指数和Shannon指数分别下降了 $1 4 . 2 1 \\%$ ）$7 2 . 2 0 \\% 2 8 . 8 6 \\% - 6 7 . 1 0 \\% 3 0 . 9 6 \\% - 5 7 . 5 4 \\%$ ，而TJ处理组则依次下降了 $6 . 3 5 \\% { \\sim } 6 1 . 7 9 \\%$ ） $2 . 1 7 \\% \\sim 3 2 . 8 5 \\%$ 和 $1 . 1 1 \\% { \\sim } 2 7 . 6 6 \\% ( P { < } 0 . 0 5 )$ ,表明2种受试植物根区土壤微生物丰富度和多样性均随油污浓度增加而降低,原因在于油污毒性效应随浓度增加而加剧[7],导致植物根区微生物群落多样性下降。然而3种油污浓度胁迫时TJ处理组根区土壤OTU数量、Chao1指数和Shannon指数显著高于TZ处理组（ $( P { < } 0 . 0 5 )$ ，这表明油污浓度增加对金鸡菊根区土壤微生物群落丰富度和多样性的抑制作用相对较小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2种受试植物根区土壤微生物高通量测序结果显示(图3)：相对丰度 $> 1 \\%$ 的优势菌属包括食烷菌属（Alcanivorax）纤细单胞菌属（Gracilimonas）、海杆菌属（Marinobacter）Halanaerobium属、嗜盐单胞菌属（Halomonas）、鞘氨醇单胞菌属（Sphingomonas）、假黄色单胞菌属（Pseudoxanthomonas）Lutibacter属、Fodinicurvata属、Proteiniphilum属、假单胞菌属（Pseudomonas）类诺卡氏菌属（Nocardioides）分支杆菌属（Mycobacterium）海细菌属（Marinobacteri-um)和深海弯曲菌属（Thalassolituus）。优势菌属聚类结果(欧式距离法)将供试土样划为3个类群，类群I为TJ处理组，类群ⅡI为TZ处理组，类群Ⅲ则为非油污土壤，上述结果在一定程度上反映出植物种属差异是决定油污土壤微生物群落结构的关键因素。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "此外，食烷菌属 $( 5 . 0 1 \\% { \\sim } 1 2 . 5 0 \\%$ ）、纤细单胞菌属 $( 3 . 9 2 \\% - 8 . 4 9 \\%$ ）、海杆菌属 $( 4 . 1 0 \\% \\sim 1 4 . 1 5 \\%$ ） $\\mathbf { \\nabla } \\cdot H a$ lanaerobium属 $( 2 . 9 9 \\% { \\sim } 4 . 8 6 \\%$ 、嗜盐单胞菌( $1 2 . 9 7 \\% \\sim$ $1 8 . 0 1 \\%$ )和类诺卡氏菌属 $( 8 . 6 2 \\% \\sim 1 9 . 6 9 \\%$ )在TJ处理组中的相对丰度显著高于其他处理组( $( P { < } 0 . 0 5 )$ ;而TZ处理组中鞘氨醇单胞菌属（ $( 5 . 4 6 \\% \\sim 1 0 . 2 5 \\%$ ）、Lutibacter属 $( 8 . 8 1 \\% { \\sim } 9 . 6 7 \\%$ ）、假单胞菌属 $( 7 . 8 1 \\% \\sim$ $1 4 . 6 5 \\%$ )和分枝杆菌属 $( 1 0 . 1 5 \\% \\sim 1 2 . 5 9 \\%$ )的相对丰度则相对较高( $( P { < } 0 . 0 5 )$ 。根据目前已有研究[9,9-21]可知，食烷菌属、Gracilimonas属、海杆菌属、Halan-aerobium属、鞘氨醇单胞菌属、假黄色单胞菌属、假单胞菌属、类诺卡氏属、分支杆菌属、海细菌属和深海弯曲菌属中存在于原油降解功能菌，这为金鸡菊和紫花苜蓿进行油污土壤根区修复提供了生物学基础。对上述优势菌属相对丰度进一步分析表明，与 $9 \\%$ 油污浓度组相比，在 $3 \\%$ 和 $7 \\%$ 油污浓度时，TJ处理组食烷菌属相对丰度分别高出2.15倍和2.50倍，海杆菌属分别高出2.06倍和2.01倍，类诺卡氏菌属分别为高出2.28倍和1.74倍，而海细菌属则分别高出2.64倍和2.58倍( $P { < } 0 . 0 5 )$ ，因此与 $9 \\%$ 油污浓度组相比， $3 \\%$ 和 $7 \\%$ 油污浓度组土壤微生物群落结构相似度更高(图3)；而TZ处理组中原油降解功能菌属仅有鞘氨醇单胞菌属、假单胞菌属和分枝杆菌属，其相对丰度在 $3 \\%$ 和 $7 \\%$ 油污浓度也均显著高于$9 \\%$ 油污浓度胁迫组。综上所述，油污浓度相对较低时 $( 3 \\% { \\sim } 7 \\% ) 2$ 种受试植物对原油降解功能菌属的富集作用相对较强，这在一定程度决定了土壤TPH去除率相对较高，而TJ处理组根区土壤原油降解功能菌属的富集作用明显强于TZ处理组则可能是决定金鸡菊根区土壤TPH去除率显著高于紫花苜蓿的关键生物学环境因素。此外，非油污土壤中2种受试植物( $12 \\mathrm { - } 0 \\%$ 和TJ- $. 0 \\%$ )根区土壤微生物群落结构较为相似的原因可能是与植物根系效应相比，土壤母质、理化性质和气候条件等环境因素对土壤微生物群落结构的影响相对较强，加之植物修复时间相对较短，因此非油污土壤中2种受试植物优势菌属（相对丰度 $> 1 \\%$ )的群落结构与油污土壤相比更为相似。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/0ccc1a5be498738c0ac0615675f8af0d8a9bc69a787c37e28a9391d200b57640.jpg",
+        "table_caption": [
+            "表3不同油污浓度胁迫时紫花苜蓿和金鸡菊根区土壤微生物群落丰富度和多样性变化(相似度为 $9 7 \\%$ ）Tab.3Changes of root-zone soil microbial richness and diversityof M.sativaand C.lanceolata under differentTPHconcentrations stress (Similarity is $9 7 \\%$ ）"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">α多样性</td><td rowspan=\"2\">处理</td><td colspan=\"4\">TPH浓度/%</td><td rowspan=\"2\">F值</td></tr><tr><td>0</td><td>3</td><td>7</td><td>9</td></tr><tr><td>覆盖度/%</td><td>TJ</td><td>99.43± 0.08</td><td>99.27 ± 0.03</td><td>99.25 ± 0.05</td><td>99.41 ± 0.08</td><td></td></tr><tr><td rowspan=\"3\">OTU数量</td><td>TZ</td><td>99.16 ± 0.05</td><td>99.31± 0.05</td><td>99.64 ± 0.05</td><td>99.34 ± 0.03</td><td></td></tr><tr><td>TJ</td><td>1197.00±75.24a</td><td>1121.00±16.58aA</td><td>796.33±19.35bA</td><td>457.33±12.47cA</td><td>89.12**</td></tr><tr><td>TZ</td><td>1114.33±30.68a</td><td>956.00±17.23aB</td><td>574.67±55.73bB</td><td>308.67±20.54cB</td><td>105.72**</td></tr><tr><td>t值</td><td></td><td></td><td>3.86*</td><td>5.33*</td><td>4.94°</td><td></td></tr><tr><td rowspan=\"2\">Chaol指数</td><td>TJ</td><td>1076.44±27.41a</td><td>1053.06±12.59aA</td><td>811.47±6.49bA</td><td>722.55±23.06cA</td><td>83.48**</td></tr><tr><td>TZ</td><td>963.40±30.75a</td><td>685.39±29.32bB</td><td>411.93±18.69cB</td><td>316.95±22.12dB</td><td>143.30**</td></tr><tr><td>t值</td><td></td><td></td><td>11.52**</td><td>36.84**</td><td>12.69**</td><td></td></tr><tr><td>Shannon指数</td><td>TJ</td><td>6.29±0.03a</td><td>6.22±0.07aA</td><td>5.55±0.08bA</td><td>4.55±0.02cA</td><td>649.49**</td></tr><tr><td></td><td>TZ</td><td>6.17±0.03a</td><td>4.26±0.11bB</td><td>3.15±0.09cB</td><td>2.62±0.07dB</td><td>179.31**</td></tr><tr><td>t值</td><td></td><td></td><td>10.68**</td><td>29.40**</td><td>19.88**</td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d983fa9fb775aca776e2d169380c98fccb7d3186bb0a7e443e3f44b2e2afd2c9.jpg",
+        "img_caption": [
+            "图3不同油污浓度胁迫时紫花苜蓿和金鸡菊根区土壤微生物优势菌属聚类结果heatmap 图",
+            "Fig.3Heatmapofrelative abundance ofthe dominant genus of microbialcommunity ofrot-zone soil ofM.sativa and the $C .$ lanceolata under different TPH concentrations stress "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了进一步解析不同处理组间细菌群落结构的差异，相对丰度 $\\geqslant 0 . 1 \\%$ 的菌属LEfSe分析（LDA值 $\\geqslant 4 . 0 \\dot { }$ )结果显示(图4)：在属分类水平上，3种油污浓度胁迫时TJ处理组中差异指示菌多为原油降解功能菌属，其中Algiphilus属、鞘氨醇单胞菌属、类诺卡氏菌属、Subgroup_7和深海弯曲菌属等均已被揭示为具备芳烃降解能力的功能菌属[14.22-23],这在一定程度上亦体现出金鸡菊对根区原油降解功能菌属的富集效应优于紫花苜蓿。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.52种受试植物生理特性、土壤理化特性和微生物特性对土壤TPH去除率的方差分解",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了揭示紫花苜蓿和金鸡菊植物生理特性、土壤理化特性和土壤微生物特性对土壤原油污染物去除率的信息解释量，本研究采用方差分解来解析上述3类指标对浓度分别为 $3 \\% . 7 \\%$ 和 $9 \\%$ 污染土壤根区TPH去除率的贡献率的结果显示(图5)：随着油污浓度从 $3 \\%$ 增至 $9 \\%$ ,TZ处理组植物生理特性、土壤理化特性和微生物特性对土壤TPH去除率的贡献率纯效应分别从 $4 1 \\%$ ） $3 6 \\%$ 和 $2 9 \\%$ 降至 $4 \\% 9 \\%$ 和 $14 \\%$ （图5a，图5b，图5c)，而TJ处理组则从 $4 8 \\%$ /$3 1 \\%$ 和 $34 \\%$ 降至 $9 \\%$ ） $1 8 \\%$ 和 $3 0 \\%$ ，表明油污浓度增加对紫花首蓿和金鸡菊植物生理特性的抑制作用导致其对土壤TPH去除率的贡献率逐渐下降，而金鸡菊土壤理化特性和微生物特性则决定其根区TPH去除率显著高于紫花苜蓿(图5b，图5c，图5e,图5f)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3类指标共同效应方面， $3 \\%$ 油污浓度时植物生理特性 $\\times$ 微生物特性的共同作用[TZ( $6 1 \\%$ ）、TJ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "TZ TJ (9%) (7%) (3%) (0%) (9%) (7%) (3%) (0%) 4 3 2 1 0 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.4LDAvalue distribution histogram based on LEfSe comparison analysis among diferent treatments 图5紫花苜蓿和金鸡菊应对3种油污浓度胁迫下植物生理特性、土壤理化特性和土壤微生物特性对土壤 ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/4b07fe0a32b22ee0e71ea9368b308b03ede126211d5f0c09105372521d5c0333.jpg",
+        "img_caption": [
+            "Fig.5Pureeffectsandco-efectsofplantphysiologicaltraits,soilphysical-chemicalpropertisandsoilmicrobialpropertiesofM. sativa and $C .$ lanceolata under3 kinds of soil TPH concentrations stressacorrding to variance decomposition analysis "
+        ],
+        "img_footnote": [
+            "注：植物生理特性包括植物生物量(地上 $^ +$ 地下部干重）根冠比、根活力和叶绿素比;土壤理化特性包括：碱解氮、速效磷、pH、脲酶和碱性磷酸酶；土壤微生物特性包括:Shannon指数、Chaol指数、OTU数量。"
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "TPH去除率的纯效应和共同效应",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$( 5 8 \\% )$ 是贡献土壤TPH去除率的关键环境因素（图5a，图5d)，而 $7 \\%$ 和 $9 \\%$ 油污浓度时，土壤理化特性 $\\times$ 微生物特性的共同作用[T $\\mathbf { \\boldsymbol { Z } } ( 5 2 \\% , 2 3 \\% )$ 、TJ( $5 9 \\%$ ，$5 7 \\%$ ）则是决定根区土壤TPH去除率的关键环境因素，但 $9 \\%$ 油污浓度时TZ处理组土壤理化特性 $\\times$ 微生物特性共同作用降至 $23 \\%$ ，这可能与植物生理指标 $\\times$ 土壤理化特性共同作用降至 $7 \\%$ 有关（图5b，图5c,图5e,图5f)，由此说明，油污浓度增加对紫花苜蓿植物生理特性的抑制作用间接影响了土壤理化特性和微生物特性，最终导致其根区土壤TPH去除率相对较低，而金鸡菊根区土壤微生物特性在 $7 \\%$ 和$9 \\%$ 油污浓度时依然高达 $4 6 \\%$ 和 $3 0 \\%$ 则是决定其根区土壤TPH去除率显著高于紫花苜蓿的决定性因素。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "油污浓度从 $3 \\% . 7 \\%$ 增至 $9 \\%$ ,金鸡菊根区土壤TPH去除率均高于紫花苜蓿。浓度介于 $7 \\% \\mathrm { \\sim } 9 \\%$ 油污土壤对金鸡菊根冠比、根活力指数、叶绿素比、土壤pH、脲酶和碱性磷酸酶活性的抑制作用显著低于紫花苜蓿。 $3 \\% { \\sim } 9 \\%$ 油污浓度范围内，金鸡菊根区土壤OTU数量、Chao1指数和Shannon指数均显著高于紫花苜蓿,且金鸡菊根区土壤原油降解功能菌属相对丰度高于紫花苜蓿。油污浓度增加抑制了紫花苜蓿植物生理特性进而限制其根区TPH去除率，而土壤理化特性和微生物特性的共同作用使得金鸡菊根区土壤TPH去除率高于紫花苜蓿。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References):",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] Sara Y,Amirhossein M,Nasiman B S.A review on phytoremediation of crude oil spills[J].Water Air Soil Pollution,2O15,226: 279-297.   \n[2] Panchenko L, Muratova A,Turkovskaya O.Comparison of the phy toremediation potentials ofMedicago falcataL.And Medicago sativa L.in aged oil-sludge-contaminated soil[J].Environmental Science and Pollution Research,2017,24(3): 1-14.   \n[3]宋曦,王金成,井明博,等.紫花苜蓿对陇东黄土高原油污土壤 场地生态修复的综合响应[J].草业科学,2019,36(7):1754- 1764.[Song Xi,Wang Jincheng,Jing Mingbo,et al. Comprehensive response of Medicago sativa when used to ecologically remedi ate a site in the eastern region of the Loess Plateau contaminated with different concentrations of oil[J]. Pratacultural Science,2019, 36(7): 1754-1764.]   \n[4]Bordoloi S,Basumatary B,Saikia R,et al.Axonopuscompresus (Sw.)P.Beauv.A native grass species for phytoremediation of hydrocarbon-contaminated soil in Assam, India[J]. Journal of Chemical Technology and Biotechnology,2012,87(9): 1335-1341.   \n[5]Zhen M,Chen H,Liu Q,et al. Combination of rhamnolipid and biochar in assisting phytoremediation of petroleum hydrocarbon contaminated soil using Spartina anglica[J]. Journal of Environmental Sciences-China,2019,85: 107-118.   \n[6]Tang JC, Wang R,Niu X,et al. Enhancement of soil petroleum remediation by using a combination of ryegrass (Lolium perenne) and different microorganisms[J]. Soil & Tillage Research,2O10,110: 87-93.   \n[7]Cai Z, Zhou Q X,Peng S W,et al.Promoted biodegradation and microbiological effects of petroleum hydrocarbons by Impatiens balsamina L. with strong endurance[J]. Journal of Hazardous Materials,2010,183(1/3): 731-737.   \n[8]程立娟,周启星.野生观赏植物长药八宝对石油烃污染土壤的 修复研究[J].环境科学学报,2014,34(4):980-986.[Cheng Lijuan,Zhou Qixing.Phytoremediation of petroleum hydrocarbon contaminated soils using a wild ornamental plant Hylotelephium spectabile (Boreau) H. Ohba[J]. Acta Scientiae Circumstantiae,2014, 34(4): 980-986.]   \n[9]王金成,井明博,段春艳,等.陇东黄土高原石油污染土壤环境 因子对金盏菊(Calendula officinalis)——微生物联合修复的响 应[J].环境科学学报,2015,35(9):2971-2981.[Wang Jincheng, Jing Mingbo,Duan Chunyan,et al. Environmental factors responses to petroleum-contaminated soil in situ remediation byusing a combination of Calendula offcinalis and microbial agent in eastern Gansu Province[J].Acta Scientiae Circumstantiae,2015,35 (9): 2971-2981.]   \n[10]Onotasamiderhi TI,Paola M,RussellJD,etal.Impacts of activated carbon amendments,added from the start or after five months,on the microbiology and outcomes of crude oil bioremediation in soil[J]. International Biodeterioration & Biodegradation,2019,142:1-10.   \n[11] 王金成,周天林,井明博,等.陇东黄土高原地区石油污泥原位 修复过程中土壤主要肥力指标动态变化分析[J].环境科学学 报,2015,35(1):280-287.[Wang Jincheng,Zhou Tianlin,Jing Mingbo,et al.Fertility dynamics of petroleum-contaminated sludge during in situ remediation in eastern Gansu Province[J].Acta Scientiae Circumstantiae,2015,35(1): 280-287.]   \n[12] 王金成,井明博,周立辉,等.非洲菊对陇东地区油污土壤的生 态修复[J].草业科学,2020,37(2):273-286.[Wang Jincheng, Jing Mingbo, Zhou Lihui, et al.Phytoremediation of crude oil-contaminated soils using a wild ornamental plant Gerbera jamesoni in eastern Gansu Province of the Loess Plateau[J]. Pratacultural Science,2020,37(2): 273-286.]   \n[13] 祁迎春,王建,同延安,等.陕北石油污染土壤植物修复品种的 筛选[J].生态科学,2015,34(1):148-153.[Qi Yingchun,Wang Jian,Tong Yan'an,etal.Screening of weed plants for phytoremediation of petroleum-contaminated soils[J]. Ecological Science,2015, 34(1): 148-153.]   \n[14]Wang JC,Jing M B,Zhang W,et al. Assessment of organic compost and biocharin promoting phytoremediationof crude-oil contaminated soil using Calendula offcinalis in the Loess Plateau, China[J]. Journal of Arid Land,2021,13(6): 612-628.   \n[15]焦硕.微生物群落构建和演替对石油污染物的响应研究[D].杨 凌：西北农林科技大学,2017.[Jiao Shuo.Microbial Assembly and Succession Patterns in Response to Oil Contamination[D]. Yangling: Northwest A&FUniversity,2017.]   \n[16]Saum L,Jiménez M B,Crowley D.Influence of biochar and compost on phytoremediation of oil-contaminated soil[J]. International Journal of Phytoremediation, 2018,20(1): 54-60.   \n[17]Wang X Y,Feng J, Zhao JM.Efects of crude oil residuals on soil chemical properties inoil sites,Momoge Wetland, China[J].Environmental Monitoring and Assessment, 2010,161(1): 271-280.   \n[18]Wei J, Zhang X,Liu X,et al.Influence of root components of celery on pyrene bioaccessibility,soil enzymes and microbial communities in pyrene and pyrene-diesel spiked soils[J]. Science of the Total Environment,2017,599-600: 50-57.   \n[19] Moubasher HA,Hegazy A K, Mohamed N H, et al. Phytoremediation of soils polluted with crude petroleum oil using Bassia scoparia and its associated root-zone microorganisms[J]. International Biodeterioration & Biodegradation,2015,98:113-120.   \n[20] Cheng L J, Wang Y N, Cai Z H,et al.Phytoremediation of petroleum hydrocarbon-contaminated saline-alkali soil by wild ornamental Iridaceae species[J]. International Journal of Phytoremediation, 2017,19(3): 300-308.   \n[21]Yemisi D O, Olugbenga S T, Oladele JO,et al. Biodegradation of crude petroleum by bacterial consortia from oil-contaminated soils in Ota,Ogun State,South-Western,Nigeria[J],Environmental Technology& Innovation, 2018,12: 230-242.   \n[22]Xiao N,LiuR,Jin C X,etal.Eficiency of five ornamental plant species in the phytoremediation of polycyelic aromatic hydrocarbon(PAH)-contaminated soil[J]. Ecological Engineering,2015,75: 384-391.   \n[23]Gutierrez T,Green D H,Whitman W B,et al.Algiphilus aromaticivorans gen. nov.sp.nov.an aromatic hydrocarbon-degrading bacterium isolated from a culture of the marine dinoflagellate Lingulodinium polyedrum,and proposal of Algiphilaceae fam. nov. [J]. International Journal of Systematic and Evolutionary Microbiology,2012,62(11): 2743-2749. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Comparison of phytoremediation effects of Medicago sativa and Coreopsis basalis on crude-oil-contaminated soil in eastern Gansu Province ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "JING Mingbol2， WANG Jincheng12³， ZHANG Wei’， ZHOU Lihui4， ZHANG Shaopeng'   \n(1. College ofLife Science and Technology,Longdong University,Qingyang 745oo0, Gansu,China; 2. Gansu Key   \nLaboratory ofProtectionand Utilization for Biological Resources and Ecological Restoration,Longdong University, Qingyang 745ooo,Gansu,China;3.Key Laboratory of Extreme Environmental Microbial Resources and Engineering of Gansu Province,Northwest Institute of Eco-Environment and Resource,Chinese Academy of   \nSciences,Lanzhou 3oo,Gansu,China;4.InstituteofSafetyandEnvironmental ProtectionTechnology,Oiland   \nGas Technology Research Instituteof Changqing Oilfield Company,Xi'an710021,Shaanxi,China;5.No.11Oil Production Plant, Changqing Oilfield Company, CNPC, Qingyang 745ooo, Gansu, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Phytoremediation is the most eco-friendly,economically sustainable,cost-effective technologyavailable for the biodegradation of soil polutants,while crude-oil-contaminated soil is susceptible to many factors in the process of phytoremediation,including climatic conditions,landformand soil properties,etc.The main properties of the Loess Plateau are high degree of salinization,anarid,and lack of soil fertility,thereby there are obvious regional vegetation distribution in this area. Compositae have strong drought resistance and tolerance and it is a ubiquitousplant growing wild and widely distributed throughout Northwest China.However， the phytoremediation efect of crude oil contaminated soil by Compositae has not been further studied in the Loess Plateau.Thus,in order to analyze and compare the phytoremediation efficiencyof Medicago sativa and Coreopsis lanceolata on oil-contaminated soil in eastern Gansu Province of the Loess Plateau.The indigenous plants M.sativa and $C .$ lanceolata were selected as the test plants,and a five months site remediation experiment was conducted in Changqing Oilfield Company， Qingyang City of Gansu Province. The changes of TPH(Total petroleum hydrocarbon,TPH) removal rate,plant growth index,soil physical-chemical properties and enzyme activities as well as microbial community structure in root- zone soil of $M .$ sativa and $C .$ lanceolata under different crude oil concentrations,i.e., light pollution group $( \\mathrm { T P H } { = } 3 \\%$ ),moderate pollution group $( \\mathrm { T P H } { = } 7 \\%$ ）and heavy pollution group $\\mathrm { T P H } { = } 9 \\%$ ),were measured.We found that: (1） With the crude oil concentration increase from $3 \\%$ to $9 \\%$ ， the removal rates of TPH in the root-zone soil of $M .$ sativa were $6 9 . 8 8 { \\scriptstyle \\pm 4 . 1 6 \\% }$ 、 $4 2 . 5 9 { \\pm } 3 . 9 4 \\%$ 、 $1 9 . 2 0 { \\scriptstyle \\pm 2 . 7 7 \\% }$ and $2 . 0 1 { \\pm } 0 . 1 9 \\%$ ，whilewere7 $5 . 3 3 { \\pm } 2 . 9 1 \\%$ 、 $7 4 . 8 7 { \\scriptstyle \\pm 2 . 7 9 \\% }$ 、 $4 2 . 4 7 { \\pm } 1 . 9 9 \\%$ and $2 . 2 0 { \\pm } 0 . 5 1 \\%$ in the root-zone soil of $C$ lanceolata,respectively. (2） The emergence rate and chlorophyll $\\mathbf { a } / \\mathbf { b }$ value of the two tested plants were not significantly affected by crude oil concentrations at $3 \\%$ ,while the effects of oil concentrations ranged from $7 \\%$ to $9 \\%$ on seedling emergence rate,chlorophyll $\\mathrm { { a / b } }$ value,aboveground and underground dry weight, root vitality and root- shoot ratio of $M .$ sativa were relatively significant $( P { < } 0 . 0 5 )$ .(3）Oil concentration ranged from $3 \\%$ to $7 \\%$ had relatively litle inhibition on soil available P content in the root-zone soil of $M .$ sativa $( P { < } 0 . 0 5 )$ ,while the soil $\\mathfrak { p H }$ , urease and alkaline phosphatase activities in the root zone of $C .$ lanceolata were significantly higher than those of $M .$ sativa in the concentration ranged from $7 \\%$ to $9 \\%$ $( P { < } 0 . 0 5 )$ . (4) High throughput sequencing results showed that the relative abundance of crude oil degrading bacteria，i.e.，Alcanivorax，Marinobacter, Halanaerobium, Halomonas and Nocardioides,etc.in the root-zone soil of $C$ 、lanceolata were significantly higher than those in the $M .$ sativa $( P { < } 0 . 0 5 )$ .(5）Variance decomposition results indicated that the inhibition of oil concentration on the physiological characteristics of $M .$ sativa was the decisive factor limiting the root zone soil TPH removal rate,while the combined effect of soil physicochemical $\\times$ microbial characteristics was the main environmental factor determining the root zone soil TPH removal rate of $C$ 、lanceolata higher than that in the treatment group of $M .$ sativa $( P { < } 0 . 0 5 )$ . In conclusion, the phytoremediation efficiency of $C .$ lanceolata on crudeoil-contaminated soil in eastern Gansu Province of the Loess Plateau is beter than that of $M .$ sativa. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Keywords: crude-oil-contaminated soil； Medicago sativa； Coreopsis lanceolata; phytoremediation；easternGansu Province of the Loess Plateau",
+        "page_idx": 9
+    }
+]

@@ -1,0 +1,509 @@
+[
+    {
+        "type": "text",
+        "text": "不同道德领域对面孔来源记忆效果的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨宇翔",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "湖北大学教育学院心理学系,武汉420062;",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Department of Psychology, Graduate School of Letters,Hokkaido University, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sapporo, Hokkaido, 060-0810, Japan; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘媛媛",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "湖北大学教育学院心理学系,武汉420062;",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "胡传鹏",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "清华大学心理学系，北京100086",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Neuroimaging Center, Johannes Gutenberg University, 55131 Mainz, Germany; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "彭凯平",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "清华大学心理学系，北京100086\\*本研究为杨宇翔的本科毕业论文中的部分工作。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨宇翔、胡传鹏讨论研究想法及实验设计，杨宇翔、刘媛媛完成实验数据的收集，杨宇翔、胡传鹏完成数据的分析，所有作者均同意对本文的署名。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "我们支持科学研究中的开放与透明的做法(Schonbrodt,Maier,Heene,& Zehetleitner,2015)。因此，我们将本文（未发表的论文）提交到预印平台（Chinaxiv.org）并将我们的结果数据在OSF上公开（htps://osf.io/mnp9y/)。本文所报告的研究仍然非常初步（见文章最后对本文不足的讨论）、且未经同行评议。因此，如要引用本文，或对本研究的数据有疑问，或希望在本文的基础上进行完善这个研究，我们将非常乐意提供程序和其他帮助，请联系胡传鹏博士：hcp4715@hotmail.com。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对他人的道德品行信息的了解，有助于个体在社会中寻找潜在的合作者并且规避潜在损失。正是由于道德品行信息的重要性，人们可能对他人道德品行相关的信息进行优先加工。基于道德基础理论，本研究探索了伤害道德和纯洁道德领域的积极与消极信息对面孔记忆的影响。32名被试首先学习与不同道德信息相联系的中性男性面孔24张，其中道德信息包括（道德领域：伤害/关爱领域和神圣/纯洁领域） $\\times 2$ （效价：积极和消极）这4个维度。暂短的算术分心任务之后，被试进行面孔再认记忆和来源记忆的测试。结果表明，在来源记忆效果上，纯洁道德领域相匹配的面孔可能优于与伤害道德领域相匹配的面孔。这个结果可能说明不同道德行为可能会对面孔记忆有不同的影响，纯洁领域的信息可能因为具有更强烈的情绪而让人们对面孔记忆更加深刻。作为一个探索性的研究，本实验的结论需要进一步的研究进行验证。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关键词：道德品行 纯洁 伤害 面孔来源记忆",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The influence of moral character information on source memory of faces† Yuxiang Yang ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Department of Psychology, Hubei University, 42o062 Wuhan, China Department of Psychology, Graduate School of Letters,Hokkaido University, Sapporo,Hokkaido, 060-0810, Japan ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Yuanyuan Liu ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Department of Psychology, Hubei University, 420o62 Wuhan, China ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Chuan-Peng Hu ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Department of Psychology, Tsinghua University, 10oo86 Beijing, China Neuroimaging Center, Johannes Gutenberg University, 55131 Mainz, Germany ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Kaiping Peng ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Department of Psychology, Tsinghua University, 10oo86 Beijing, China ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Information about other's moral character is important for the success of individual's social life. Such information helps people to avoid‘bad guys’ and find potential cooperators. Given the importance of moral character information, it is possible that people tend to process this information deeper than other information. Test this hypothesis, the current study explored the impact of positive and negative moral information from harm and purity moral domains on the memory of faces.32 participants first learned 24 neutral male faces that were associated with different moral behaviors, these behaviors included both positive and negative behavioral concerning the harm/care domain and sacred/pure domain. After a short arithmetic filler task, participants were tested for the old/new recognition and the source memory (e.g., if one face is recognitive as old, participants were further asked with which moral domain was this face associated). The results showed that participant performed better on source memory for the faces paired with behaviors from pure moral domain than the faces paired with behaviors from harm moral domain, regardless of the valence. These preliminary results may suggest that different moral behaviors may have different effects on face memory. However, these preliminary results need to be confirmed by further experiment with more powerful design. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Keywords: moral character, harm, purity, face, source memory ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "我们在日常生活中总会伴随着一系列道德判断，比如我们从客观的角度来评价一件事情的好坏，这个时候我们一般会采用道德作为我们的评判标准，好事一般指的就是道德的事，不好的事一般指的是不道德的事。同样在人际交往中，对一个人的道德评价也是我们衡量一个人非常重要的标准。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于道德信息的重要性，道德信息可能在人们的认知加工中具有优势作用。尤其是与他人道德品行相关的信息，直接与个体的潜在利益相关。在与他人直接互动前获知他人的道德品行行为，将有助于个体规避潜在的损失（例如合作中被欺骗)，寻找潜在的合作者（例如找到值得信任且有能力的伙伴)。社会心理学的研究表明，他人道德品行相关的信息确实能够被更多地注意、以及更容易被记住。例如，Anderson,Siegel,Bliss-Moreau,and Barrett(2011)采用双眼竞争的方法，探索了与不同行为匹配的人脸在双眼竞争中占主导的时间，结果表明，与不道德行为相匹配的面孔在意识中出现的时间更长。Bell等采用面孔来源记忆的研究也发现，在新旧在认结果上，欺骗者的面孔与中性和值得信赖的面孔并没有优势，但在来源记忆优势却非常显著(Bell&Buchner,2011;Belletal.,2012;Buchner,Bell,Mehl,& Musch,2009)。这可能是由于当被试对道德品行信息较消极的面孔更加希望进行回避(Bell, Schain,&Echterhoff,2014)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了进一步探索欺骗之外的道德信息对面孔来源记忆的影响，我们选取了道德基础理论（Moral Foundation Theory）中的伤害领域与纯洁领域进行研究。在道德基础理论中，根据进化来源将道德分为五组不同的道德领域，其分别为伤害/关爱领域（Harm/care）、互惠/公平领域（Fairness/reciprocity）、内群体/忠诚领域（Ingroup/loyalty）、权力/尊敬领域（Authority/respect）和纯洁/神圣领域",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（Purity/sanctity）(Haidt&Joseph,2004)。这些不同的道德领域也与不同的道德情绪联系在一起，如纯洁/神圣领域与厌恶情绪，伤害关爱领域与愤怒情绪联系在一起(Chakroff&Young,2015)。Dehghani 等人的研究发现：对于和自己纯洁领域道德观念不相符的人，比起其他领域，人们更倾向于保持更远的空间和社会距离(Dehghani etal.,2016)，这表明人们可能对于与自己纯洁领域道德观念不相符的人，厌恶情绪同样得到激活。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在本实验中，我们选取了道德基础理论中的伤害/关爱领域和纯洁/神圣领域作为自变量进行研究。这两个领域所对应的是迥然不同的两种情绪（伤害/关爱领域对应愤怒，纯洁/神圣领域对应厌恶）而厌恶又作为人类的保护者而存在(Haidt&Joseph,2004;胡传鹏,2012;叶勇豪等,2016)。所以我们假设人们对纯洁领域相关信息的面孔源记忆效果更好，因为这样更符合进化上的意义，我们在认出一个人的面孔的同时，回忆起他做过的纯洁领域相关的事情，从而决定我们是避开他、还是与他进一步的进行社会交往。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.方法",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1被试 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在湖北大学招募大学生32名(23名女性，年龄为 $2 0 . 6 9 \\pm 1 . 3 6 )$ ，视力或矫正视力正常。所有被试在实验开始前均填写知情同意书。实验完成后获得一定经济报酬。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2实验材料",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "面孔材料 本实验中的面孔选自CAS-PEAL-R1面孔数据库，该数据库包括1040 名中国人的30,900 张面孔，从不同的角度进行拍摄(Gao etal.,2008)。本研究选取该面孔库中的150 张18\\~30岁之间的无表情的男性面孔图片。随后，对将该150 张面孔图片去掉头发和衣服，仅保留面孔部分，并裁剪为 $2 2 0 \\times 2 5 0$ 像素大小；之后，让不参加主实验的被试对这些图片从吸引力、能力、攻击性、可信赖程度、成熟度、支配性和喜爱程度进行七点评分，每个图片至少有34人进行评分（每个面孔至少有10 份有效数据)。根据前人的研究，面孔的吸引力(Marzi & Viggiano,2010; Tsukiura & Cabeza,2011)和可信任程度(Bell & Buchner,2011；Bell etal.,2014;Buchner etal.，2009)会影响对面孔的记忆，所以，本研究中，挑选了在可信任程度和吸引力得分上相似的面孔48张（其中，可信任得分为 $3 . 7 4 \\pm 0 . 1 9 6$ ，吸引力评分为 $3 . 9 4 \\pm 0 . 4 5 4 )$ 。48张面孔中，随机选择一半作为学习时与行为描述进行匹配的面孔，另一半在面孔再认中作为新面孔出现。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "描述材料 根据前人研究中用过的道德领域的描述材料(Graham,Haidt,&Nosek,2009;胡传鹏,2012)，以及 Haidt 等(Graham et al.,2011;Haidt,2007)对各个道德领域的定义，依据道德领域（包括伤害/关爱领域和神圣/纯洁领域）和道德效价（包括积极和消极）的区别，共编写40条行为描述，每种条件下各10条。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了验证这些材料的有效性，实验前招募一批独立于正式实验的本科生对于这40条描述从两个维度进行7点评分：道德程度评分（ $- 3 =$ 非常不道德; $3 =$ 非常道德）、所属道德领域。共回收39份问卷，排除不认真作答（通过检测题判定）数据，得到20名有效样本数据（11名女性，年龄为 $2 1 . 9 \\pm 1 . 7 7 4 )$ 。根据20 份有效数据的结果，挑选出最符合各个领域以及在道德得分上相似的条目各6 条，其中伤害领域消极描述的得分为： $- 2 . 3 9 \\pm 0 . 2 8$ ；伤害领域积极得分为：$2 . 3 2 \\pm 0 . 1 2$ ；纯洁领域消极得分为： $- 2 . 1 7 \\pm 0 . 4 3$ ；纯洁领域积极得分为： $1 . 9 2 \\pm$ 0.25。其中每个维度选择指定领域的平均比例都在 $80 \\%$ 以上。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/57827615b0b1f5c432f3995a943d3812215db0887fe3ca134a1c05483f705ee1.jpg",
+        "table_caption": [
+            "表1描述材料道德程度评分"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"2\">消极</td><td colspan=\"2\">积极</td></tr><tr><td></td><td>M</td><td>(SE)</td><td>M</td><td>(SE)</td></tr><tr><td>伤害领域</td><td>-2.39</td><td>.28</td><td>2.32</td><td>.12</td></tr><tr><td>纯洁领域</td><td>-2.17</td><td>.43</td><td>1,92</td><td>.25</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对道德评分进行2（道德领域：伤害vs.纯洁） $\\times 2$ （道德效价：消极vs.积极）的重复测量方差分析。道德效价的主效应显著， $F ( 1 , 1 0 ) = 3 4 0 7 . 9 1$ ， $p < . 0 0 1$ ，$\\eta _ { \\mathrm { ~ p ~ } } ^ { 2 } = . 9 9 7$ ；道德领域的主效应不显著 $F ( 1 , 1 0 ) = 0 . 3 3 0 , p = . 5 7 8 , \\eta _ { \\mathrm { ~ p ~ } } ^ { 2 } = . 0 3 2$ ；交互作用显著 $F ( 1 , 1 0 ) = 1 7 . 2 2 , p = . 0 0 2$ ， $\\eta ^ { 2 } { _ { p } } \\mathrm { = } . 6 3 3$ 。为了进一步比较在积极条件下和消极条件下，伤害领域与纯洁领域之间道德得分的差异，进一步进行简单效应分析，结果表明，伤害领域消极和纯洁领域消极之间没有显著差异（ $F = 1 . 1 3$ ，$p = . 3 1 2 )$ ，伤害领域积极和纯洁领域积极之间存在显著差异（ $F = 1 2 . 2 6$ ， $p$ （204$= . 0 0 6 )$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3实验仪器",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "通过E-prime2.0在PC上呈现。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4实验程序",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）让被试进行个人信息填写并签署知情同意书（2）正式实验开始前，主试给被试阅读指导语，具体内容如下：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "您好，欢迎参加本此实验。本次实验共有两个阶段，在正式开始实验之前您需要先阅读一段材料（材料见附录II)，在确认完全理解阅读材料中的内容之后，方可进行正式实验，若存在不明白的地方，可以随时向主试提问；在完成两个阶段的实验之后，您还需要做一个简单地问卷调查，如果确认不存在问题，请跟随程序中的指导语正式开始实验。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（3）正式实验包括两部分：学习阶段和再认阶段。学习阶段，每个试次以$5 0 0 \\mathrm { m s }$ 的注视点开始；之后同时呈现面孔和行为描述5秒（其中面孔图片的视角为 $1 4 . 6 3 ^ { \\circ } \\times 1 6 . 5 9 ^ { \\circ }$ ，面孔中央与注视点的距离视角为 $4 . 0 1 ^ { \\circ }$ ，行为描述文字的视角为： $3 8 . 5 8 ^ { \\circ }$ ，与注视点之间的距离视角为 $1 1 . 9 9 ^ { \\circ } .$ )。随后仅行为描述消失，图片下面出现一个从1（完全不喜欢）到7（非常喜欢）的喜爱程度评价表。被试通过按键进行评分，按键后图片与文字消失，进入下个试次。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "学习阶段被试共需评价30张面孔，包括正式实验筛选的面孔24张，以及6张填充面孔。填充面孔与中性的描述相匹配，在学习阶段的开始和结束时各呈现3张，以消除首因效应和近因效应。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "学习阶段之后，被试进行简单的算术任务，该任务与实验目的无关，仅作为干扰任务。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/83ec6ef4e7add9062daa5a5ff75d08083ed2b27b174b950d6c67fc924e7e0e8e.jpg",
+        "img_caption": [],
+        "img_footnote": [
+            "Gotonext new-old discrimination "
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "图1.实验流程图.上部分为学习阶段，被试在完成学习阶段之后立即进入干扰任务。干扰任务完成之后，立即进入再认阶段。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（4）完成算术任务后，被试进行再认阶段。再认阶段中，将编码阶段中的 24张旧面孔与24张未学习过的新面孔混合之后，以随机的顺序呈现。被试需要判断是否见过这个面孔。被试可选择“见过\"或\"没见过”；若被试选择“见过”，则继续问“他做了一件怎样的事？”，被试可选择\"道德的事\"或\"不道德的事”，之后继续问\"他做的事属于什么道德领域？”，被试可选择\"伤害/关爱领域\"和\"神圣/纯洁领域”；若被试选择\"没见过”，则直接进入下一试次。48张图片全部呈现完后，E-prime程序结束。整个实验的流程见图1。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（5）随后，需要被试填写厌恶敏感性问卷以及社会经济地位量表；最后，被试对学习的48张面孔的可信任程度和吸引力程度进行评分。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.5数据分析 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "所有数据均使用JASP(Love etal.,2015;胡传鹏,孔祥祯,Wagenmakers,Ly,彭凯平,2018)进行统计分析。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本次实验在实验前确定如下数据排除标准：",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "a．被试未完成实验，或数据记录不全。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "b．被试并没有完全集中注意力。（由于实验前告知实验为记忆实验，且新旧再认正确率的随机水平是 $50 \\%$ ，前人研究中同样范式新旧再认正确率的平均值都在 $80 \\%$ 左右(Bell & Buchner, 2010,2011; Bell et al.,2012; Bellet al.,2014;Buchner etal.,2009)，因此本研究中将面孔的新旧再认的正确率低于 $60 \\%$ 的被试视作没有集中注意力来进行实验的被试）。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "c．存在极端数据的被试的数据也被排除（在这里极端数据指大于或小于三个标准差。)",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.结果",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "根据数据排除标准，8名被试的数据由于符合数据排除标准而被排除，剩下24名被试的数据用于正式分析。且在本研究中，我们仅对行为实验的结果进行分析，而量表结果以及面孔后测评分结果则没有进行分析。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "为检验面孔的描述是否影响被试的感受，我们对被试在每个面孔的喜爱程度的评价得分进行（道德领域：伤害vs.纯洁） $\\times 2$ （效价：消极vs.积极）的重复测量方差分析，交互作用不显著， $F ( 1 , 2 3 ) = 1 . 4 3 5 , p = . 2 4 3 , \\Theta ^ { 2 } = . 0 1 7$ 道德领域间的主效应显著，伤害领域的喜爱程度评价得分显著高于纯洁领域的得分， $F ( 1 , 2 3 ) = 1 4 . 9 9 1 , p < . 0 0 1 , \\omega ^ { 2 } = . 3 5 9$ ；效价间的主效应显著，积极的喜爱程度评价得分显著高于消极的得分， $F ( 1 , 2 3 ) = 1 7 0 . 0 1 7 , p < . 0 0 1 , \\omega ^ { 2 } = . 8 7 1 \\epsilon$ 0",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.1新旧再认 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "对新旧再认正确率（各维度正确率见表1）进行2（道德领域：伤害vs.纯洁） $\\times 2$ （效价：消极vs.积极）的重复测量方差分析，效价的主效应不显著 $F$ $( 1 , 2 3 ) \\ = . 0 8 7 , p = . 7 7 0 , \\omega ^ { 2 } = . 0 0 0$ ；道德领域的主效应也不显著 $F$ $^ { , } ( 1 , 2 3 ) = . 0 4 2$ （20 $p = . 8 4 0$ ， $\\mathbf { \\omega } _ { 0 } ^ { 2 } = \\mathbf { \\gamma } . 0 0 0$ ；道德领域和效价之间没有出现交互作用 $F \\ ( 1 , 2 3 ) = . 2 1 5 , p$ （204$= . 6 4 7$ ， $\\mathbf { \\omega } _ { 0 } ^ { 2 } = . 0 0 0$ 。",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/1d53a30bef50015ef7eecc8e0f4831e3bf1be4cf9d88104a17761ab4590c6e8a.jpg",
+        "table_caption": [
+            "表1四个维度的新旧再认正确率"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"2\">消极</td><td colspan=\"2\">积极</td></tr><tr><td></td><td>M</td><td>(SE)</td><td>M</td><td>(SE)</td></tr><tr><td>伤害领域</td><td>64.6%</td><td>.048</td><td>67.4%</td><td>.054</td></tr><tr><td>纯洁领域</td><td>65.3%</td><td>.044</td><td>65.3%</td><td>.044</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2来源记忆",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "我们先对四个维度（伤害领域消极、伤害领域积极、纯洁领域消极和纯洁领域积极）的击中数（hit）进行分析（这里的击中数即对面孔的两个维度的来源信息完全记忆正确的个数，见表2)，先对面孔所对应的两个维度的信息完全记忆正确的个数（即这四个维度的击中数）进行2（道德领域：伤害vs.纯洁） $\\times 2$ （效价：消极vs.积极）的重复测量方差分析，结果表明，道德领域的主效应不显著， $F ( 1 , 2 3 ) = . 3 2 4 , p = . 5 7 5 , \\omega ^ { 2 } = . 0 0 0$ ；效价的主效应不显著 $F ( 1 , 2 3 = . 0 3 9 )$ ，$p = . 8 6 6 , \\omega ^ { 2 } = . 0 0 0$ ；交互作用不显著， $F ( 1 , 2 3 ) = . 8 5 7 , p = . 3 6 4 , \\omega ^ { 2 } = . 0 0 0 .$ 。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/1249dbdb552d242cb488a894f5e50bb2b1025db82c7b3c32f356505936aa3b8c.jpg",
+        "table_caption": [
+            "表2面孔所对应的两个维度的信息完全记忆正确的个数及 $d ^ { \\prime }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"5\">消极</td><td colspan=\"4\">积极</td></tr><tr><td></td><td colspan=\"2\">正确个数</td><td colspan=\"2\"></td><td>d'</td><td colspan=\"2\">正确个数</td><td colspan=\"2\">d'</td></tr><tr><td></td><td>M</td><td>(SE)</td><td>M</td><td>(SE)</td><td>M</td><td></td><td>(SE)</td><td>M</td><td>(SE)</td></tr><tr><td>伤害领域</td><td>1.292</td><td>.208</td><td>.555</td><td>.107</td><td></td><td>1.458</td><td>.243</td><td>.745</td><td>.114</td></tr><tr><td>纯洁领域</td><td>1.625</td><td>.211</td><td>.915</td><td>.120</td><td></td><td>1.375</td><td>.203</td><td>.910</td><td>.129</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "随后，我们分别计算出这四个维度的 $d$ 分数（击中率为击中数/6，虚报率为非该维度的面孔虚报为该面孔的概率， $d$ '分数见表2）（Snodgrass&Corwin,1988)，并对其 $d$ 分数进行2（道德领域：伤害vs.纯洁） $\\times 2$ （效价：消极vs.积极）的重复测量方差分析，结果表明，道德领域间的主效应显著，纯洁领域的维度来源记忆 $d$ 分数显著高于伤害领域的 $d$ 分数， $F ( 1 , 2 3 ) = 6 . 0 4 0$ $p = . 0 2 2$ ， $\\omega ^ { 2 }$ $= . 0 8 1 , \\mathrm { B F } _ { 1 0 } = 2 . 3 3$ ；效价间的主效应不显著， $F ( 1 , 2 3 ) = . 4 8 9 , p = . 4 9 2 , \\omega ^ { 2 } = . 0 0 0$ $\\mathrm { B F } _ { 1 0 } = 0 . 2 8 6$ ，交互作用不显著 $F ( 1 , 2 3 ) = . 7 2 6 , p = . 4 0 3 , \\omega ^ { 2 } = . 0 0 0 , \\mathrm { B F } _ { 1 0 } = 0 . 3 9 7$ （见图2）。",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/9961626d15d9a52878f16d194e5cdb643ceb7fd13169850a21519faf690060f5.jpg",
+        "img_caption": [
+            "图2"
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.讨论",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "通过将面孔与不同的道德行为联系起来，并让被试随后进行记忆测试，本研究发现，与纯洁领域匹配的面孔的来源记忆的记忆效果可能优于与伤害领域匹配的面孔。但这一结果仅在 $d$ 作为因变量时出现，而在再认正确率上没有出现。使用默认先验的贝叶斯因子分析表明，当前数据只提供了微弱的证据(Wagenmakers et al.,2018；胡传鹏等,2018)。因此，该效应是否存在需要进一步研究验证。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "本研究得到与前人研究不一致的结果：我们并未发现效价的主效应。过去研究发现人们对不道德信息的认知\"偏好\"(Anderson etal.,2011)，或是对欺骗者的来源记忆的记忆优势(Buchner etal.,2009)。这种消极的结果有多种可能原因。其中一个可能的原因是对于欺骗者的来源记忆的记忆优势可能是由于欺骗者可能危机到我们自身的利益：为了防止自身的利益受到损害，我们才产生了欺骗者的来源记忆优势。如Bel1等(2014)发现，，同样是不道德的事件所匹配的面孔，自己利益受损的不道德事件的来源记忆要显著优于其他事件；同样是不道德事件，自己获益的不道德事件的来源记忆不仅没有优势，而且显著低于其他事件(Bell etal.,2014)。因此，本研究的结果中，人们未表现出对伤害领域或纯洁领域的不道德信息的记忆偏见，可能是由于本研究中未操纵被试动机，因此未引发这种回避潜在伤害的动机状态。。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5.本研究的不足",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "第一、本研究的样本量不足。我们收集了32名被试的数据，但是有8名被试的数据由于不满足我们设定的数据标准因而被排除，最后仅剩下24名被试的数据被用于正式分析。我们利用G\\*power3.2将这24名被试的来源记忆 $d$ 的道德领域间的结果 $( F ( 1 , 2 3 ) = 6 . 0 4 0 , p = . 0 2 2 , \\omega ^ { 2 } = . 0 8 1 , \\eta _ { \\mathrm { ~ p } } ^ { 2 } = . 2 0 8$ ）作为priori来估计被试数量。要达到 $9 5 \\%$ 的power，需要53名被试的数据。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "第二、本研究的实验设计上还存在改进之处。由于本研究中，需要挑选中性的男性面孔作为刺激材料。正是由于面孔材料相对不足，仅设置了来自不同道德领域中积极与消极两种不同效价的句子，而未设置中性条件。这样一来，我们无法检索效价的效应。未来的研究中，可能需要加入中性条件，以进一步检验效价的效应。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "第三、对于面孔刺激的处理可能还存在一些不足。在本研究中，我们对于面孔刺激的处理是将挑选出的面孔图片调整为正立后进行灰化以及裁剪，但是CAS-PEAL-R1面孔数据库中的面孔图片没有固定的服饰，裁剪时很难完全裁剪掉所有服饰的部分；同时面孔刺激的发型也各异，这些都可能会成为被试记忆的线索，而不是单纯的记忆面孔。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Anderson, E., Siegel, E.H.,Bliss-Moreau, E.,& Barrett L.F.(2011). The visual impact of gossip. Science, 332(6036), 1446-1448.   \nBell, R., & Buchner, A. (2010). Valence modulates source memory for faces. Mem Cognit, 38(1), 29-41.   \nBell, R.,& Buchner,A. (2O11). Source memory for faces is determined by their emotional evaluation. Emotion, 11(2), 249-261.   \nBell, R., Buchner, A., Erdfelder, E., Giang, T., Schain, C., & Riether,N. (2012). How specific is source memory for faces of cheaters? Evidence for categorical emotional tagging. J Exp Psychol Learn Mem Cogn, 38(2), 457-472.   \nBell, R., Schain, C.,& Echterhoff, G. (2014). How selfish is memory for cheaters? Evidence for moral and egoistic biases. Cognition, 132(3), 437-442.   \nBuchner,A., Bell, R., Mehl, B., & Musch, J. (2009). No enhanced recognition memory, but better source memory for faces of cheaters. Evolution and Human Behavior; 30(3), 212-224.   \nChakroff, A., & Young, L. (2015). Harmful situations, impure people: an atribution asymmetry across moral domains. Cognition, 136, 30-37. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Dehghani, M., Johnson, K., Hoover, J., Sagi, E., Garten, J., Parmar, N., J.,. . . ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Graham, J. (2016). Purity Homophily in Social Networks. Journal of Experimental Psychology: General, 145, 366-376. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Gao, W., Cao,B., Shan, S., Chen, X., Zhou, D., Zhang, X.,& Zhao, D. (2008). The CAS-PEAL Large-Scale Chinese Face Database and Baseline Evaluations. IEEE Transactions on Systems, Man, and Cybernetics - Part A: Systems and Humans, 38, 149-161. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Graham, J., Haidt, J.,& Nosek, B.A. (2009). Liberals and conservatives rely on different sets of moral foundations. J Pers Soc Psychol, 96(5),1029-1046.   \nGraham, J., Nosek, B.A., Haidt, J., Iyer,R., Koleva, S.,& Dito, P.H. (2011). Mapping the moral domain. J Pers Soc Psychol, 101(2),366-385.   \nHaidt, J. (2007). The new synthesis in moral psychology. Science, 316(5827), 998- 1002.   \nHaidt, J., & Joseph, C. (2O04). Intuitive ethics: How innately prepared intuitions generate culturally variable virtues. . Daedalus, 133(4), 55-66.   \nLove, J., Selker, R., Marsman, M., Jamil, T., Dropmann, D., Verhagen, A. J.,.. Wagenmakers, E.-J. (2015). JASP. Retrieved from https://jaspstats.org/download/   \nMarzi, T., & Viggiano, M. P. (2010). When memory meets beauty: Insights from event-related potentials. Biol Psychol, 84(2), 192-205.   \nSchönbrodt, F.D., Maier, M., Heene, M.,& Zehetleitner, M. (2015). Voluntary commitment to research transparency. Retrieved from http://www.researchtransparency.org/   \nSnodgrass, J. G., & Corwin, J. (1988). Pragmatics of measuring recognition memory: applications to dementia and amnesia. J Exp Psychol Gen, 117(1), 34-50.   \nTsukiura, T.,& Cabeza,R. (2011). Remembering beauty: roles of orbitofrontal and hippocampal regions in successful memory encoding of attractive faces.   \nNeuroimage, 54(1), 653-660.   \nWagenmakers,E.-J.,Love,J.,Marsman, M., Jamil,T.,Ly,A., Verhagen,J,. Morey, R. D. (2018). Bayesian Inference for Psychology. Part II: Example Applications with JASP. Psychonomic Bulletin & Review, 25(1), 58-76.   \n胡传鹏.(2012).情绪与认知在不同道德领域道德判断中的作用——以伤害和纯洁 领域为例. (D),湖北大学硕士论文.   \n胡传鹏,孔祥祯,Wagenmakers,E.-J.,Ly,A.,彭凯平.(2018).贝叶斯因子及其在 JASP 中的实现.心理科学进展,26(6),951-965.   \n叶勇豪,许燕,朱一杰,梁炯潜,兰天,于淼.(2016).网民对\"人祸\"事件的道德情绪 特点——基于微博大数据研究.心理学报,48(3),290-304. doi:10.3724/sp.j.1041.2016.00290 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    }
+]

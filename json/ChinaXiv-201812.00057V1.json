@@ -1,0 +1,508 @@
+[
+    {
+        "type": "text",
+        "text": "序列优化的小鼠IL-33基因在哺乳动物细胞中的有效分泌",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "表达",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高福兰1，2,3,4 齐家龙2,3,4舒聪妍2,3,4 谢航航²,3,4黄惟巍²,3，4刘存宝²，3，4杨 旭2,3,4 孙文佳²2,3,4 白红妹²,3,4 马雁冰2,3，4\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1 昆明医科大学昆明6505002中国医学科学院/北京协和医学院 医学生物学研究所昆明 650118)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(3 云南省重大传染病疫苗研发重点实验室 昆明650118 4云南省重大传染病疫苗工程技术研究中心昆明650118）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要目的：白细胞介素(IL)-33 具有重要的免疫调控作用，在疾病中扮演着重要的角色。本文旨在通过基因优化实现IL-33 在哺乳动物细胞中的高效表达，为疾病机理研究以及疫苗免疫佐剂应用等提供基础。方法：根据小鼠白细胞介素-33 成熟肽(mIL-33)的氨基酸序列，以哺乳动物细胞基因表达密码子偏好性进行基因优化设计;化学合成优化的mIL-33 基因片段，通过搭桥PCR将编码人CD8α信号肽的核酸序列分别与优化或未优化的mIL-33 基因连接,并与绿色荧光蛋白（EGFP)基因分别构建到双表达单元质粒 pBudCE4.1的不同启动子下;重组质粒经 lipofectamine 3000 和PEI 转染 293FT 细胞;以 Western blot 和 ELISA 检测重组蛋白的表达;收集表达的mIL-33 刺激巨噬细胞 Raw264.7，ELISA 检测培养上清的 TNFα水平，以证明IL-33 的生物学活性。结果:重组质粒经酶切鉴定及测序分析证实构建成功;lipofectamine 3000 转染效率较 PEI转染更高；Western blot 和 ELISA 结果显示密码子优化的 mIL-33表达水平较未优化序列更高，在EF-1α 启动子和CMV启动子指导下mIL-33 在293FT 细胞表达水平相当，CD8α信号肽成功引导mIL-33的分泌，产物具生物学活性。结论：密码子优化操作显著改善了mIL-33 在哺乳动物细胞中的表达水平，为进一步研究奠定了基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 表达优化白细胞介素-33成熟肽(mIL-33）293FT",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "白细胞介素(IL)-33最初是由 Baekkevold从高内皮细胞中分离得到，在 2005 年被Schmitz 证实为IL-1家族的新成员[1-2],广泛存在于多种组织细胞中,并作为一种具有核定位和分泌双功能的因子，主要参与免疫应答启动及 Th1/Th2 型免疫的调节[3-4]。正常情况下，IL-33定位于细胞核中，对应的完整长度蛋白的分子量约为 $3 0 \\mathrm { k D }$ ，发挥转录因子调控功能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "当组织细胞遭受损伤等压力时，具有生物学活性的IL-33成熟片段以特殊的、非传统信号肽介导的机制分泌到细胞外，通过结合其特异受体 ST2，发挥细胞因子功能。IL-33因感受外界刺激而激发下游免疫应答，被认为是组织的“警报素”[5]。IL-33 可诱导固有淋巴细胞2型（ILC2）、M2、及Th2等2型免疫细胞应答，并作用于嗜中性、嗜酸性粒细胞，起始和促进炎症发生；此外，IL-33也可促进Th1/CTL 免疫应答的产生，从而在抗病毒及抗肿瘤细胞免疫中发挥重要作用。然而，近年的研究发现，IL-33 在髓源抑制细胞（MDSC）的分化增殖及向肿瘤组织的浸润中发挥重要作用，因此在肿瘤免疫抑制微环境形成与发展中又扮演了重要角色。介于 IL-33 具有多重功能，在固有免疫和适应性免疫中发挥着重要调节作用[7],其在肿瘤、炎症、自身性疾病和心肺疾病等特定疾病中实际发挥的作用及机制仍未完全清楚，需要进一步探索。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "考虑到IL-33 实际发挥的作用与具体所处组织、病理环境、疾病状态，即表达的时空性密切相关。本研究旨在通过基因优化的方法在哺乳动物中实现小鼠IL-33 成熟蛋白的高效分泌表达，为特定疾病模型背景下、实现控制性的 IL-33 表达、以研究探讨其作用发挥及免疫影响因素提供基础；同时，也为将其应用于核酸疫苗及载体疫苗、促进抗病毒或抗肿瘤细胞免疫应答提供条件。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. 1 质粒、菌株及细胞系",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "具有双表达单元的质粒 pBudCE4.1 购自Invitrogern 公司。大肠杆菌(E.coli）DH5 α购自北京全式金生物技术有限公司。人胚肾细胞系293FT细胞由本室（中国医学科学院医学生物学研究所分子免疫实验室)保存，小鼠巨噬细胞系(Raw264.7)由昆明医科大学第二附属医院陈斌老师惠赠。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2主要试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DNA marker、Taq 多聚酶、 $\\mathrm { T _ { 4 } }$ DNA 连接酶、限制性内切酶购自大连TaKaRa 公司;质粒提取试剂盒和 DNA 凝胶回收试剂盒购自北京天根生化科技有限公司；兔抗IL-33 多克隆抗体及 HRP 标记羊抗兔IgG 购自美国 Santa Cluz 公司;显色底物 Pierce ECL 购自美国Thermo 公司；生物素标记的羊抗鼠 IL-33、TNF-α抗体购自eBioscience 公司；辣根过氧化物酶标记Streptavidin购自碧云天生物技术公司;TMB 单组分显色液购自 Solarbio 公司;IL-33 标准品购自 Peprotech 公司；lipo-fectamine 3000 转染试剂购自 Invitrogen 公司；PEI转染试剂购自Proteintech 公司；DMEM培养基、新生胎牛血清购自 BiologicalIndustries 公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3IL-33不同基因序列与引物的设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据Genebank中登录的氨基酸序列［AY905582.1]，通过哺乳动物细胞密码子偏好设计优化的小鼠成熟IL-33的基因序列，设计过程中避免稀有密码子(氨基酸同义密码子的使用频率 $< 0 . 1 \\rangle$ 和构建过程中使用的内切酶位点，尽量选用最偏好密码子。优化及未优化的野生型基因序列由生工生物工程(上海)股份有限公司合成，并克隆于质粒 pUC57。全长IL-33是核定位蛋白质，仅由应激细胞释放，因此通过将编码人CD8α信号肽序列的核苷酸序列[NM_171827.3］与mIL-33（S109至I266）序列通过搭桥PCR融合，然后连接至pBudCE4.1载体。另外，根据GenBank 中登录的氨基酸序列号［LC008492.1」设计 EGFP引物，引物序列在上海生物工程有限公司合成，见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1PCR引物序列",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/4624f6e6989a745b74f7277074413a8a03973bcc9931e93f50936ff487888222.jpg",
+        "table_caption": [
+            "Tab 1． Primers used for the amplification of CD8 α $+ \\mathrm { m I L - 3 3 }$ and EGFP gene sequences "
+        ],
+        "table_footnote": [
+            "注：黑体下划线为酶切位点"
+        ],
+        "table_body": "<html><body><table><tr><td>引物名称</td><td>引物序列（5’→3’）</td><td>酶切位点</td></tr><tr><td>IL-33-F1</td><td>CTGCAGGCCACCATGGCCTTACCAGTGACCGCCTTGCTCCTGCCG</td><td>Pst I</td></tr><tr><td>IL-33-F2</td><td>GTGACCGCCTTGCTCCTGCCGCTGGCCTTGCTGCTCCACGCCGCC</td><td></td></tr><tr><td>IL-33-F3</td><td>GCCTTGCTGCTCCACGCCGCCAGGCCGAGCATCCAAGGAACTTCACTT（Not optimi zed)</td><td></td></tr><tr><td>IL-33-F4</td><td>GCCTTGCTGCTCCACGCCGCCAGGCCGAGTATTCAAGGCACCAGCTTG（optimized）</td><td></td></tr><tr><td>IL-33-R</td><td>GGATCCTTAGATTTTCGAGAGCTTAAACATAATATTGTTGCAGCTC（Not optimized）</td><td>BamHI</td></tr><tr><td>IL-33-R2</td><td>GGATCCTCAGATTTTGCTCAGCTTGAACATGATGTTGTTGCAGCTC（optimized）</td><td>BamH I</td></tr><tr><td>IL-33-F5</td><td>GGTACCATGGCCTTACCAGTGA</td><td>Kpn I</td></tr><tr><td>IL-33-R</td><td>AGATCTTCAGATTTTGCTCAGCTTGAAC（optimized）</td><td>Bgl II</td></tr><tr><td>EGFP-F</td><td>GGTACCGCCACCATGGTGAGCAAGGG</td><td>Kpn I</td></tr><tr><td>EGFP-R</td><td>AGATCTTCACTTGTACAGCTCGTCCATGCCGA</td><td>Bgl II</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. 4 CD8 α $^ +$ mIL-33及EGFP基因的扩增以pPUC57/IL-33（Notoptimized）为模板， $\\mathrm { I L - 3 3 - F _ { 1 } }$ ， $\\mathrm { I L 3 - 3 - F _ { 2 } }$ ，IL-33-F，IL-33-R为引物进行 PCR 扩增。以 pUC57/IL-33（optimized）为模板， $\\mathrm { I L ^ { - } 3 3 ^ { - } F _ { 1 } }$ ， $\\mathrm { I L ^ { - } 3 3 ^ { - } F _ { 2 } }$ ，$\\mathrm { I L - 3 3 - F _ { 4 } }$ ， $\\mathrm { I L - 3 3 - R _ { 2 } }$ 为引物进行 PCR 扩增。两个扩增分别获得可克隆于 pBudCE4.1质粒 $\\mathrm { P } _ { \\mathrm { C M V } }$ 下指导表达的优化与未优化的IL-33基因片段。反应条件为： $9 5 ^ { \\circ } \\mathrm { C }$ 预变性 $3 \\mathrm { m i n }$ ， $9 5 ^ { \\circ } \\mathrm { C }$ 变性30sec， $6 0 ^ { \\circ } \\mathrm { C }$ 退火30sec， $7 2 ^ { \\circ } \\mathrm { C }$ 延伸1min，34个循环， $7 2 \\mathrm { { ^ \\circ C } }$ 延伸 $1 0 \\ \\mathrm { m i n }$ ， $1 2 ^ { \\circ } \\mathrm { C }$ 保持。PCR扩增产物经 $1 \\%$ 琼脂糖凝胶电泳进行鉴定。另外以构建的 pBudCE4.1／CD8α+mIL-33（ $\\mathrm { \\cdot P _ { c u v } }$ ）为模板，以 $\\mathrm { I L 3 3  – F _ { 5 } }$ 、IL33-R为引物进行PCR扩增，获得可克隆于pBudCE4.1质粒 $\\mathrm { P } _ { \\mathrm { E F - 1 } } ,$ 指导下的优化的IL-33 基因片段。反应条件为： $9 5 ^ { \\circ } \\mathrm { C }$ 预变性3min， $9 5 ^ { \\circ } \\mathrm { C }$ 变性30sec， $5 5 ^ { \\circ } \\mathrm { C }$ 退火30sec， $7 2 ^ { \\circ } \\mathrm { C }$ 延伸1 min，34个循环， $7 2 \\mathrm { { ^ \\circ C } }$ 延伸 $1 0 \\mathrm { \\ m i n }$ ， $1 2 ^ { \\circ } \\mathrm { C }$ 保持。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以pLvcT为模板，采用 EGFP-F，EGFP-R为引物进行PCR 扩增获得可插入pBudCE4.1质粒处于 $\\mathrm { ~ P ~ } _ { \\mathrm { E F - 1 } \\mathrm { ~ a ~ } }$ 指导下表达的 EGFP 基因。反应条件： $9 5 ^ { \\circ } \\mathrm { C }$ 预变性3min， $9 5 ^ { \\circ } \\mathrm { C }$ 变性 30sec,$6 0 ^ { \\circ } \\mathrm { C }$ 退火30sec， $7 2 ^ { \\circ } \\mathrm { C }$ 延伸1 min，34个循环， $7 2 ^ { \\circ } \\mathrm { C }$ 延伸 $1 0 \\mathrm { \\ m i n }$ ， $1 2 ^ { \\circ } \\mathrm { C }$ 保持。PCR 扩增产物经 $1 \\%$ 琼脂糖凝胶电泳进行鉴定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5 表达mIL-33和 EGFP的重组质粒的构建及鉴定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将 pBudCE4.1质粒分别经PstI+BamHI和] $\\mathrm { \\langle p n \\textit { I } + B g 1 }$ II 双酶切，以同样双酶切处理PCR扩增的 $\\mathrm { C D 8 \\ a + m I L ^ { - 3 3 } }$ 和 EGFP片段，经胶回收后，质粒载体与基因片段在 $\\mathrm { T } _ { 4 } \\mathrm { D N A }$ 连接酶作用下 $1 6 ^ { \\circ } \\mathrm { C }$ 连接过夜，转化DH5α 感受态细胞，涂布于含Zeocin 的LB 琼脂平板，$3 7 ^ { \\circ } \\mathrm { C }$ 过夜培养后挑取单菌落，摇菌并提取质粒。将提取的质粒分别用PstI+ BamHI和K $\\mathrm { \\ p n \\ I + \\ B g l \\ I }$ I进行双酶切并以 $1 \\%$ 琼脂糖电泳鉴定，重组质粒送生工生物工程（上海）股份有限公司进行DNA 测序分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "具体的构建包括，将 $\\mathrm { C D 8 \\ a + m I L ^ { - 3 3 } }$ 和 EGFP的基因片段克隆到具有双表达单元的质粒pBudCE4.1，获得共表达 mIL-33 和 EGFP 的质粒 pBudCE4.1/CD8α + mIL-33（ $\\mathrm { P } _ { \\mathrm { C M V } }$ ）/EGFP( $\\mathrm { \\cdot P _ { E F - 1 } }$ a） (图1)。将 $\\mathrm { C D 8 \\thinspace a \\ + \\ m I L ^ { - 3 3 } }$ 的基因片段克隆到质粒 pBudCE4.1的 EF-1α 启动子表达单元中，获得表达 mIL-33 的质粒 pBudCE4.1/CD8α + mIL-33（ $\\mathrm { P _ { E F - 1 9 } }$ ）(图2)。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/19d2b1cf25f75e462f231d6662d99a67167e12c3c0c059a1aacb9c981555d4d1.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 The construction map of recombinant pBudCE4.1 co-expressing mIL-33 and ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d326646c5d6dae0a6c10b5c2e85ab6ead4e682cde76af653215b1cb046a0d4d6.jpg",
+        "img_caption": [
+            "图1基于 pBudCE4.1 的共表达 mIL-33 和 EGFP 的重组质粒",
+            "图2基于 pBudCE4.1 的表达mIL-33 的重组质粒",
+            "Fig.2The construction map of recombinant pBudCE4.1 expressing mIL-33 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.6重组质粒转染293FT细胞 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "293FT细胞培养于含 $1 0 \\%$ 新生牛血清及 $1 \\%$ 青霉素-链霉素的 DMEM 培养基，转染前一天按 $1 \\times 1 0 ^ { \\mathrm { ~ 6 ~ } }$ 个/孔铺于6孔板， $3 7 ^ { \\circ } \\mathrm { C }$ ， $5 \\%$ CO，培养。接种细胞至 $7 0 – 8 0 \\%$ 汇合度时转染，Opti-MEM稀释lipofectamine 3000（ $7 . 5 \\mu 1 .$ /孔）以及质粒（ $2 . 5 \\mu \\mathrm { g } .$ /孔)，并以1:1混合lipofectamine 3000 和质粒稀释液，孵育15min 后加入细胞培养液中；同样，Opti-MEM 稀释PEI转染试剂（ $7 . 5 \\mu \\mathrm { ~ g / }$ 孔）以及质粒（ $2 . 5 \\mu \\mathrm { g } /$ 孔)，1:1混合，孵育15min 后加入细胞培养液中。转染表达 $\\mathrm { \\ m I L ^ { - 3 3 } }$ 和 EGFP的重组质粒，以质粒空载体为对照，并设空白对照（除不加质粒外与其他孔操作相同)，转染24h、48h 后荧光显微镜下观察，48h 收集细胞及培养上清。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.7重组蛋白表达的分析鉴定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.7.1 Western blot ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "收集细胞培养上清后用RIPA裂解液裂解细胞，经 $12 \\%$ SDS-PAGE 分离蛋白后,转移至PVDF 膜，恒压(20V)转膜1h，以含 $5 \\%$ 脱脂奶粉的 TBS（50 mmol/L Tris，pH7.2）室温封闭 $2 \\mathrm { { h } }$ ，加入兔抗鼠IL-33多克隆抗体 $( 1 : 1 0 0 0$ 稀释)， $4 ~ \\mathrm { { ^ \\circ C } }$ 孵育过夜，加 HRP 标记的羊抗兔二抗 (按 $1 : 8 0 0 0$ 稀释)，室温孵育 $^ \\mathrm { ~ 1 ~ h ~ }$ ，洗膜后 ECL 化学发光法曝光显影。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.7.2ELISA ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ELISA 采用夹心法按 Ebioscience 公司产品说明进行。简单过程如下，用稀释好的IL-33捕获抗体（1：250）包被96孔板， $5 0 \\mu \\mathrm { ~ l ~ } .$ /孔，于湿盒中4℃孵育过夜；用PBST（含",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$0 . 5 \\text{‰}$ 的Tween20 的 PBS， $\\mathrm { \\ p H ~ } 7 . 2$ ）洗涤3次，加入含 $2 \\%$ BSA 的 PBST 室温封闭 $^ \\mathrm { ~ 2 ~ h ~ }$ PBST 洗涤3次，加入收集的293FT细胞及上清样品（ $1 : 1 0 0$ 稀释)，同时设置标准曲线，室温下孵育1h；PBST 洗涤3次，加入生物素化标记的二抗（ $\\mathbf { \\varepsilon } _ { 1 } : 2 5 0$ 稀释)， $3 7 ^ { \\circ } \\mathrm { C }$ 作用2h；加入辣根过氧化物酶标记Streptavidin（ $. 1 : 1 0 0 0 0$ 稀释）， $3 7 \\ \\mathrm { { ^ \\circ C } }$ 作用1h；用 PBST 洗涤 3次，加入TMB 单组分显色液，室温避光孵育 $1 0 ^ { - } 3 0 \\mathrm { m i n }$ ，以 $5 0 \\mu \\mathrm { ~ l ~ }$ ／孔1M的硫酸溶液终止反应，在 $4 5 0 \\mathrm { n m }$ 测吸光值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.8mIL-33 的生物活性检测",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "用系列稀释的商业化的重组小鼠IL-33 和细胞表达的成熟形式的 mIL-33，分别刺激培养的Raw264.7巨噬细胞(浓度为 $1 \\times 1 0 ^ { 5 } / \\mathrm { m l }$ )，培养 $1 2 \\mathrm { ~ h ~ }$ 后，收集上清，以ELISA 检测上清中 TNF-α 的表达水平，并 计 算mIL-33 的 半 最 大 效 应(EC50)值。ELISA 采用夹心法按 Ebioscience 公司产品说明进行，实验方法同上（1.7.2）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2．结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1编码mIL-33蛋白的基因优化",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "依据IL-33蛋白的氨基酸序列，按哺乳动物细胞表达的偏爱密码子进行编码，获得优化的 IL-33基因序列，相应的IL-33优化前序列和优化后序列比对见表2。为了分析基因序列密码子不同分布情况和蛋白表达水平之间的关系，首先经在线网站(http://www.enscript.com/cgi-bin/tools/codon_req_table)引用 IL-33 密码子的使用频率表，然后通过网站(http://www.genscript.com/cgi-bin/tools/rare_codon analysis)分析 mIL-33基因序列密码子在哺乳动物细胞中的使用分布情况，横坐标密码子质量显示偏好性（图3)。此外，通过网站(http://rna.tbi.univie.ac.at/）预测 mRNA 折叠自由能、并进行GC含量分析，结果见表3。优化的基因有超过 $8 0 \\%$ 的密码子为最偏好密码子，而质量等级在70以上的密码子占了 $9 5 \\%$ 以上；而未优化序列分别为 $4 5 \\%$ 左右和 $6 5 \\%$ ，且有较稀有密码子。优化的序列具有更高的GC 含量且分布均匀，而较低的自由能显示更高的mRNA 稳定性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2IL-33基因优化与否的序列对比",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/c371ac93905f7ddf8f6559cf93df2f0df7b17fefb636f3825cd19312676440a6.jpg",
+        "table_caption": [
+            "Table2 Comparison of optimized and not optimized IL-33 gene sequences "
+        ],
+        "table_footnote": [
+            "N: Not optimized O:Optimized A: Amino acid "
+        ],
+        "table_body": "<html><body><table><tr><td>Series number</td><td></td><td></td><td>Sequences</td><td></td><td></td></tr><tr><td>N-1</td><td>AGCATCCAAGGA</td><td>ACTTCACTTTTA</td><td>ACACAGTCTCCT</td><td>GCCTCCCTGAGT</td><td>ACATACAATGAC</td></tr><tr><td>0-1</td><td>AGTATTCAAGGC</td><td>ACCAGCTTGCTG</td><td>ACCCAGAGCCCG</td><td>GCCAGCCTCAGC</td><td>ACCTACAACGAC</td></tr><tr><td>A</td><td>S I Q G</td><td>T S LL</td><td>T Q S P</td><td>A S L S</td><td>TY N D</td></tr><tr><td>N-61</td><td>CAATCTGTTAGT</td><td>TTTGTTTTGGAG</td><td>AATGGATGTTAT</td><td>GTGATCAATGTT</td><td>GACGACTCTGGA</td></tr><tr><td>0-61</td><td>CAAAGCGTCAGT</td><td>TTCGTGCTGGAG</td><td>AACGGTTGCTAC</td><td>GTCATCAACGTG</td><td>GACGACAGCGGC</td></tr><tr><td>A</td><td>Q S V S</td><td>F V L E</td><td>N G C Y</td><td>V I N V</td><td>D D S G</td></tr><tr><td>N-121</td><td>AAAGACCAAGAG</td><td>CAAGACCAGGTG</td><td>CTACTACGCTAC</td><td>TATGAGTCTCCC</td><td>TGTCCTGCAAGT</td></tr><tr><td>0-121</td><td>AAGGACCAGGAG</td><td>CAAGACCAGGTG</td><td>TTGCTACGCTAC</td><td>TATGAGAGCCCA</td><td>TGCCCCGCCAGC</td></tr><tr><td>A</td><td>K D Q E</td><td>Q D Q V</td><td>L L R Y</td><td>Y E S P</td><td>C P A S</td></tr><tr><td>N-181</td><td>CAATCAGGCGAC</td><td>GGTGTGGATGGG</td><td>AAGAAGCTGATG</td><td>GTGAACATGAGT</td><td>CCCATCAAAGAC</td></tr><tr><td>0-181</td><td>CAGAGCGGCGAC</td><td>GGCGTGGACGGT</td><td>AAGAAGCTGATG</td><td>GTGAACATGAGC</td><td>CCAATCAAGGAC</td></tr><tr><td>A</td><td>Q S GD</td><td>G V D G</td><td>KKLM</td><td>V N M S</td><td>P I KD</td></tr><tr><td>N-241</td><td>ACAGACATCTGG</td><td>CTGCATGCCAAC</td><td>GACAAGGACTAC</td><td>TCCGTGGAGCTT</td><td>CAAAGGGGTGAC</td></tr><tr><td>0-241</td><td>ACCGACATCTGG</td><td>CTGCACGCCAAC</td><td>GACAAGGACTAC</td><td>AGCGTCGAGCTG</td><td>CAACGCGGCGAC</td></tr><tr><td>A</td><td>T D I W</td><td>L H A N</td><td>D K D Y</td><td>S V E L</td><td>Q R G D</td></tr><tr><td>N-301</td><td>GTCTCGCCTCCG</td><td>GAACAGGCCTTC</td><td>TTCGTCCTTCAC</td><td>AAAAAGTCCTCG</td><td>GACTTTGTTTCA</td></tr><tr><td>0-301</td><td>GTGAGCCCACCA</td><td>GAACAAGCCTTC</td><td>TTCGTGCTGCAC</td><td>AAGAAGAGCAGT</td><td>GACTTCGTGAGT</td></tr><tr><td>A</td><td>V S P P</td><td>E Q A F</td><td>F V L H</td><td>K K S S</td><td>D F V S</td></tr><tr><td>N-361</td><td>TTTGAATGCAAG</td><td>AATCTTCCTGGC</td><td>ACTTACATAGGA</td><td>GTAAAAGATAAC</td><td>CAGCTGGCTCTA</td></tr><tr><td>0-361</td><td>TTCGAGTGCAAG</td><td>AACCTACCCGGC</td><td>ACCTACATCGGT</td><td>GTGAAGGACAAC</td><td>CAGCTGGCCCTG</td></tr><tr><td>A</td><td>F E CK</td><td>NLP G</td><td>T Y I G</td><td>V K D N</td><td>Q LAL</td></tr><tr><td>N-421</td><td>GTGGAGGAGAAA</td><td>GATGAGAGCTGC</td><td>AACAATATTATG</td><td>TTTAAGCTCTCG</td><td>AAAATCTAA</td></tr><tr><td>0-421</td><td>GTAGAGGAAAAG</td><td>GACGAGAGCTGC</td><td>AACAACATCATG</td><td>TTCAAGCTGAGC</td><td>AAAATCTGA</td></tr><tr><td>A</td><td>V E E K</td><td>D E S C</td><td>N N I M</td><td>F K L S</td><td>KI</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/576ef22c2c29713e62ff68276ed42bd316699b1d72bbe08a7cd1b2090f6de344.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/12a0903d41ec392e817e5880f3357283412aa95afc8ac9e54436262eedd60732.jpg",
+        "img_caption": [
+            "图3mIL-33不同基因序列在哺乳动物细胞中的密码子质量等级分布情况"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig. 3 Codon quality class distribution of different gene versions of mIL-33 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "for expression in Mammalian cells ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/4647b19d6d280ab48d2fa00a073c9ea5cc5f964ff15f672932d931ee8b9ecd14.jpg",
+        "table_caption": [
+            "表3不同mIL-33基因序列特征分析",
+            "Table 3 Structure characteristics of mRNA transcribed from different mIL-33 gene versions "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>mlL-33(Notoptimized)</td><td>mIL-33(Optimized)</td></tr><tr><td>Foldingfreeenergy(kcal/mol)</td><td>-166.67</td><td>-191.52</td></tr><tr><td>GC%</td><td>48%</td><td>58%t</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2重组表达质粒鉴定 $1 \\%$ 琼脂糖凝胶电泳分析显示，重组表达质粒pBudCE4.1/CD8α +mIL-33/EGFP、pBudCE4.1/CD8 α $^ +$ mIL-33的双酶切(Pst $\\mathrm { ~ I ~ } ^ { + }$ BamHI以及 $\\mathrm { { K p n } \\ I + \\ B g l \\ I I ) }$ 产物分别可见 550bp 左右的条带和 $7 5 0 \\mathrm { b p }$ 左右的条带，大小与预期的 $\\mathrm { C D 8 \\ : a \\ : + \\ : m I L ^ { - } 3 3 \\ : 5 5 2 b p }$ 及EGFP738bp分子量相符，见图4。测序结果证实编码 $\\mathrm { C D 8 \\thinspace a \\ + \\ m I L ^ { - 3 3 } }$ 和 EGFP蛋白的基因片段正确插入，序列正确。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/6cef1454f479f7dda8cd62ed075be0fbc5b7dc4d1ffdc6418c23f21e7ee605fd.jpg",
+        "img_caption": [
+            "图4重组质粒的酶切鉴定"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "rig.4 Iuentilication ol recombinant piasmid by restriction enzyme digestion (a） M: DNA marker DL10000;1: Plasmid pBudCE4.1/CD8 α $^ +$ mIL-33（Not optimized） $( \\mathrm { P _ { _ { C M V } } } )$ （20 digested by Pst I+ BamHI ；2: Plasmid pBudCE4.1/CD8 α $^ +$ mIL-33（optimized）（ $\\cdot \\mathrm { P } _ { \\mathrm { C M V } }$ ） digested by Pst $\\mathrm { \\Delta I + B a m H \\mathrm { \\Delta I } }$ (b）1: Plasmid pBudCE4.1/CD8 a $^ +$ mIL-33（optimized） $\\left( \\mathrm { P } _ { \\mathrm { E F - 1 } } \\right.$ a）digested by $\\mathrm { K p n \\ I + B g l } \\ \\cdot$ II(c）1:Plasmid pBudCE4.1/CD8 α $^ +$ mIL-33 (Not optimized) （204 $\\mathrm { ( P _ { C M V } ) }$ /EGFP $\\left( \\mathrm { P } _ { \\mathrm { E F - 1 } \\mathrm { ~ a ~ } } \\right)$ ）digested by Kj $\\mathrm { ~ \\ o n ~ I ~ + ~ \\mathrm { { B g 1 } } }$ II；2: Plasmid pBudCE4.1/CD8 α $^ +$ （204号 mIL-33（optimized） $( \\mathrm { P } _ { \\mathrm { C M V } } )$ /EGFP $\\left( \\mathrm { P } _ { \\mathrm { E F - 1 } \\mathrm { ~ a ~ } } \\right)$ ）digested by $\\mathrm { \\ K p n \\ I + \\ B g l }$ II ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.3重组表达质粒转染293FT细胞的结果",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "将空质粒 pBudCE4.1 及重组质粒 pBudCE4.1/CD8α $^ +$ mIL-33 和 pBudCE4.1/CD8 α +mIL-33/EGFP转染293FT细胞，分别于24h、 $^ { 4 8 \\mathrm { ~ h ~ } }$ ，荧光显微镜下观察到绿色荧光，且随着时间的延长，荧光细胞比例增多。 结果显示 lipofectamine 3000 较 PEI转染效率更高，如图5所示。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/c2765abd42b29cdb867f9edc702b3ff66d053a04b73939afc79e7548b8347916.jpg",
+        "img_caption": [
+            "图5荧光显微镜观察真核表达载体转染293FT细胞"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.5 Observation of eukaryotic plasmids transfection into 293FT cells ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "with fluorescence microscope ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A.B:pBudCE4.1/CD8 α $^ +$ mIL-33/EGFP with Lipofectamine 3000 C.D:pBudCE4.1/CD8 α $^ +$ mIL-33/EGFP with PEI; 1: Fluorescence fields; 2: Fluorescence fields and clear fields superposition ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.3表达产物的鉴定",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "以Western blot 分析转染后 293FT 细胞的裂解液样品。结 果 显示，pBudCE4.1/CD8 α $^ +$ mIL-33（Not optimized/optimized） $\\mathrm { ( P _ { C M V } ) }$ ）/EGFP，pBudCE4.1/CD8α $^ +$ mIL-33(optimized) $( \\mathrm { P _ { E F - 1 } } \\mathrm { { a } }$ )质粒转染的细胞在预期的目的蛋白位置都可见明显的mIL-33特异反应条带，而转染质粒pBudCE4.1对照中没有相应的条带(图6)。优化序列质粒转染细胞的mIL-33表达较未优化质粒转染明显增强，且优化序列在EF-1α启动子表达单元与CMV 启动子表达单元表达水平相当。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/a5fde65ca429a52bd0600fdcb6d53003a0b5f08efe2710673324dbb77f26ca62.jpg",
+        "img_caption": [
+            "图6Westernblot检测重组mIL-33蛋白在293FT细中的表达"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig.6 Detection of recombinant mIL-33 protein in 293FT cell with Western blot 1:pBudCE4.1 alone；2: pBudCE4.1/CD8 α $^ +$ mIL-33(Not optimized） $\\mathrm { \\cdot P _ { c u v } } ,$ /EGFP; 3：pBudCE4.1/CD8 α $^ +$ mIL-33（optimized） $\\left( \\mathrm { P } _ { \\mathrm { C M V } } \\right)$ /EGFP；4:pBudCE4.1/CD8 α $^ +$ mIL-33 （optimized） $\\big ( \\mathrm { P } _ { \\mathrm { E F - 1 } \\mathrm { ~ a ~ } } \\big )$ ）’ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "以ELISA分别检测转染细胞培养上清及细胞裂解液样品。结果表明，通过参考商业化获得的IL-33制备的标准曲线，密码子未优化基因对比密码子优化基因转染的细胞，其细胞裂解液和培养上清中 mIL-33 的浓度分别为 $5 6 1 . 1 5 ~ \\mathrm { n g / m l }$ 对 $1 5 5 3 . 5 ~ \\mathrm { n g / m l }$ ，以及 $2 1 . 9 7 ~ \\mathrm { n g / m l }$ 对 $7 8 . 6 3 ~ \\mathrm { n g / m l }$ )。结果表明密码子优化的mIL-33在293FT细胞中的表达水平较之未优化序列提高了3倍左右，经One-way ANOVA统计学比较分析，表达水平差异显著。此外，培养上清中检出IL-33，表明CD8α信号肽成功介导了成熟IL-33分子向细胞外的分泌，见图7",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/6c344a1bd5e3a785f10d2372ef386ebdb9ee4f9c33adf921647181cf2c91ca88.jpg",
+        "img_caption": [
+            "图7ELISA检测重组mIL-33在293FT细中的表达与分泌"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Fig.7 Detection of the expression and secretion of recombinant mIL-33 protein ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "in 293FT cell with ELISA ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) Cells transfected with the recombinant plasmids; (b) Culture supernatants ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.4IL-33的生物学活性检测",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "将商业化途径获得的重组IL-33及真核表达的mIL-33（以ELISA 结果定量）从 50ng/ml开始倍比稀释，刺激培养的 Raw264.7巨噬细胞，通过 ELISA 检测培养上清中 产生的TNF-α水平，绘制其IL-33 剂量依赖的表达曲线。结果显示，IL-33 标准品及重组表达的IL-33的EC50值分别约为3．037ng/ml及 $6 . 1 5 2 ~ \\mathrm { n g / m l }$ ，表明293FT细胞表达的IL-33成熟蛋白具有细胞生物学活性。其中重组表达的IL-33刺激剂量依赖曲线见图8。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2a8ab0754036dad027cd4c8ca4d743608525a8294318ae98bedb8925e8bb7df.jpg",
+        "img_caption": [
+            "图 8 ELISA 检测 密码子优化序列的mIL-33 刺激 Raw264.7 细胞产生 $\\mathrm { T N F ^ { - } } \\mathrm { a }$ 的剂量效应"
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Fig 8 Dose dependent production of TNF-α by Raw264.7 cells stimulated with mIL-33. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "讨论",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "IL-33 作为IL-1家族的细胞因子，在上皮细胞和内皮细胞的细胞核中组成型表达8，作为“警报素”在细胞损伤、应激或坏死压力下高表达并向细胞外释放，在固有免疫和适应性免疫中发挥着重要的调节作用。最初的IL-33 研究主要集中于过敏反应与哮喘等变态性炎症疾病与动物模型，认为IL-33是Th2型应答的关键驱动性细胞因子。最近有研究显示,IL-33在肿瘤疫苗研究中显著增强 Th1 和 $\\left. \\mathrm { C D 8 ^ { + } T } \\right.$ 的细胞免疫应答，诱导抗肿瘤免疫[10-]，此外,IL-33信号传导也被证明是 $\\mathrm { C D 8 ^ { + } T }$ 细胞根除病毒感染所必需的[12。因此，IL-33 具有多功能性，是某些疾病中关键的调控因子，具有潜在的临床疾病干预靶点或治疗应用前景。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本研究着手通过基因优化实现IL-33在哺乳动物中的高效表达，为进一步在小鼠动物模型研究中了解IL-33的疫苗免疫佐剂应用以及开展疾病机理研究奠定基础。在不同物种中编码氨基酸的密码子使用的频率并非平均分布，绝大多数生物倾向于优先利用密码子中的一部分，密码子优化方法正是基于这样的偏向性。宿主细胞蛋白翻译过程中使用的 tRNA具有不同的丰度，对应的密码子使用频率高则有利于蛋白的高水平合成。以密码子偏好优化目的基因序列，是最为广泛使用的提高外源基因表达水平的方法。同时，密码子优化会改变 mRNA 的组成及二级结构，影响 mRNA 的折叠与稳定性从而影响蛋白翻译水平。然而，以 mRNA 二级结构预测指导基因表达优化缺乏可靠的理论指导。有文献报道通过自由能预测基因序列的mRNA 二级结构来预测目的蛋白的表达量[13-14]，我们对密码子未优化和优化的基因序列的GC碱基含量、分布以及自由能进行了分析，结果提示，一定范围内降低自由能增强mRNA 稳定性以及GC 碱基的均匀分布或许对蛋白高水平表达有利。另外，启动子的应用是外源基因真核表达的关键，决定着转录水平的高低。然而，不同的启动子在不同细胞中由于受到甲基化等调控因素的影响，可能具有不同的转录活力，因此，我们检测了IL-33 基因分别在CMV启动子和EF-1α 启动子指导下、在293FT 细胞中的表达水平。结果显示，这两种启动子获得了相似水平的高效表达。同时，我们比较了两种常用转染试剂lipofectamine 3000 和 PEI转染重组质粒至 293FT细胞的转染效率，通过共表达 EGFP作为分子标记，我们有效实现了转染水平的监测与控制。图5显示，lipofectamine 3000 对 293FT细胞有较高的转染效率，尽管 PEI效率稍低，但由于其价格便宜，我们的实验为大规模的细胞转染提供了可能的质粒转染方案。此外，我们用Western 证明表达的IL-33分子量正确，以ELISA显示在CD8α 信号肽引导下成熟的IL-33获得了分泌表达。有文献报道[9，利用IgE 信号肽引导成熟 IL-33以及直接以全长的IL-33在人横纹肌肉瘤（RD）细胞中进行表达，在培养上清液中含有浓度分别为约 20,000pg／ml 和 $6 0 0 \\mathrm { p g / \\ m l }$ 的重组 IL-33。与之相比，我们未优化的序列在 CD8α 信号肽引导下分泌表达水平为 $2 1 . 9 7 ~ \\mathrm { n g / m l }$ ，与该文献报道相似，提示不同信号肽未显著影响表达水平；而我们优化序列的 IL-33 分泌表达量达 $7 8 . 6 3 ~ \\mathrm { n g / m l }$ ，显著高于未优化序列及该文报道，表明密码子优化是有效的提高异源基因表达的手段。进一步的，我们以表达的IL-33 刺激培养的 RAW264．7巨噬细胞，通过ELISA 检测上清中 TNF-α 的表达水平，表明293FT 细胞表达的IL-33成熟蛋白具有生物活性。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本研究立足于哺乳动物表达系统，通过密码子优化成功构建了高效分泌表达IL-33 成熟蛋白的pBudCE4.1真核表达质粒，为进一步研究IL-33的功能和免疫佐剂的活性奠定了基础，而相关表达尝试工作为外源基因在哺乳动物细胞中的高效表达提供了参考。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "致谢：",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "本文研究工作受国家自然科学基金面上项目（N0.81773270）和云南省应用基础研究重点项目（NO.2016FA049）资助。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[1] Baekkevold E, Roussigene M, Yamanaka T,etal. Molecular Characterization of NF-HEV,a Nuclear Factor Preferentially Expressed in Human High Endothelial Venules. The American joural of pathology， 2003， 163(1) : 69-79.   \n[2] Schmitz J,Owyang A， Oldham E，etal. IL-33，an interleukin-1-like cytokine that signals via the IL-1 receptor-related protein ST2 and induces T helper type 2-associated cytokines. Immunity， 2005， 23(5): 479-490.   \n[3] Villarreal D, Weiner D. Interleukin 33: a switch-hitting cytokine. Curr Opin Immunol，2014，28C:102-106.   \n[4] Milovanovic M, Volarevic V, Radosavljevic G, etal. IL-33/ST2 axisin inflammation and immunopathology. Immunol Res， 2012， 52: 89 - 99.   \n[5] Lu B, Yang M, Wang Q. Interleukin-33 in tumorigenesis, tumor immune evasion, and cancer immunotherapy. J Mol Med, 2016，94(5): 535-43.   \n[6] Dominguez D， Ye C， Gang Z, etal. Exogenous IL-33 restores dendritic cell activation and maturation in established cancer. J Immunol， 20l7, 198(3): 1365 - 1375.   \n[7] Lucarini V, Ziccheddu G, Macchia I， etal. IL-33 restricts tumor growth and inhibits pulmonary metastasis in melanoma-bearing mice through eosinophils. Oncoimmunol- ogy， 2017，6(6): e1317420.   \n[8] Moussion C, Ortega N, Girard J. The IL-1-like cytokine IL-33 is constitutively expressed in the nucleus of endothelial cells and epithelial cells in vivo: a novel‘alarmin’．PLoS One，2008，3:e3331.   \n[9] Tordesillas L, Goswami R, Benede S, etal. Skin exposure promotes a Th2-dependent sensitization to peanut allergens. J Clin Invest， 2014， 124: 4965-4975.   \n[10] Villarreal D, Wise M, Walters J,etal. Alarmin IL-33 acts as an immunoad juvant to enhance antigen-specific tumor immunity. Cancer Res, 2014， 74: 1789 -1800.   \n[11] Gao X, Wang X, Yang Q, etal. Tumoral expression of IL-33 inhibits tumor growth and modifies the tumor microenvironment through $C D 8 { + } \\mathrm { T }$ and NK cells.J Immunol,2015， 194: 438-445.   \n[12] Bonilla W， Frohlich A， Senn K, etal. The alarmin interleukin-33 drives protective antiviral CD8 $\\left( + \\right)$ T cell responses. Science， 2012， 335: 984-989.   \n[13] Kim H, Lee S. Optimizing the secondary structure of human papillomavirus type 16 L1 RNA enhances L1 protein expression in Saccharomyces cerevisiae.J Biotechnol，2010，150(1) : 31-36.   \n[14] Bartoszewski R, Jablonsky M,Bartoszewska S,etal.A synonymous single nucleotide polymorphism in DeltaF508 CFTR alters the secondary structure of the mRNA and ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "the expression of the mutant protein. JBiol Chem, 2010, 285 (37) : 28741-28748. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Efficient Secretory Expression of Optimized Mouse Interleukin-33 Gene in Mammalian Cells ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Abstrast Objective:Interleukin (IL) $- 3 3$ has important immunoregulatory effects and plays an important role in the disease. The aim of this paper is to achieve high-efficient expression of IL-33 in mammalian cells through gene optimization, and provide an important basis for disease mechanism research and vaccine immunoadjuvant application. Methods: The gene optimization for mammalian cell expression was carried out according to codon preference. The optimized and not optimized mIL-33 gene sequences were chemically synthesized. The human CD8α signal peptide sequence was ligated to $5 ^ { \\prime }$ end of the mIL-33 genes and led to fused CD8 α +mIL-33(Not optimized） and $\\mathrm { C D 8 \\ a \\ + m I L ^ { - 3 3 } }$ (optimized） gene fragments by bridge PCR. The gene sequences of CD8 α $^ +$ mIL-33 (Not optimized) or CD8α +mIL-33 (optimized) and EGFP expressing green fluorescent protein were respectively constructed into different expression units of plasmid pBudCE4.1 which has double expression units, and then 293FT cells were transfected with the recombinant plasmids using lipofectamine 3000 or PEI. The expression of recombinant proteins was detected by Western blot and ELISA. The expressed mIL-33s were used to stimulate macrophage Raw264.7,and the TNFα level of the culture supernatant was detected by ELISA to confirm the biological activity of expressed products. Results: The constructed recombinant plasmids were confirmed by restriction endonuclease digestion and sequencing analyses. The transfection efficiency of lipofectamine 30o0 was higher than that of PEI. Western blot and ELISA showed higher levels of expression and secretion of IL-33 using optimized gene version. The expression level of mIL-33 in 293FT cells under the control of EF- 1α promoter or CMV promoter was comparable. Expressed mIL-33 showed dose-dependent biological activity to stimulate TNF-α production in RAW264.7. Conclusion: The codon optimization significantly improved the secretory expression of mIL-33 with biological activity in mammalian cells, which laid a foundation for further research. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Key words: expression; optimization; mature interleukin-33 (mIL-33)； 293FT",
+        "page_idx": 15
+    }
+]

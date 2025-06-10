@@ -1,0 +1,154 @@
+基础研究
+
+# 低频脉冲电磁场通过cAMP/PKA信号通路促进成骨细胞分化的研究
+
+方清清'，李志忠²,周 建'，石文贵}，闫娟丽'，谢艳芳'，陈克明'  
+1兰州军区兰州总医院全军创伤骨科研究所,甘肃 兰州 730050；兰州理工大学生命科学与工程学院,甘肃 兰  
+州730050
+
+摘要：目的研究 $5 0 \mathrm { H z } 0 . 6 \mathrm { m T }$ 低频脉冲电磁场(pulsed electromagnetic fields,PEMFs)是否通过cAMP/PKA信号通路促进成骨细胞分化。方法 体外培养大鼠颅骨成骨细胞(ratcalvarial osteoblasts,ROBs),传代融合后采用 $5 0 \mathrm { H z } 0 . 6 \mathrm { m T }$ 低频脉冲电磁场处理不同时间后检测细胞内cAMP浓度及PKA磷酸化水平的变化。使用2',3'-双脱氧腺苷(DDA)抑制细胞内腺苷酸环化酶(AC)活性,检测经低频脉冲电磁场刺激后细胞碱性磷酸酶(ALP)活性及成骨性基因转录的变化；使用KT5720抑制PKA的磷酸化,检测经低频脉冲电磁场刺激后细胞成骨性基因转录及蛋白表达的变化。结果 采用 $5 0 \mathrm { H z } 0 . 6 \mathrm { m T }$ 低频脉冲电磁场处理$2 0 \mathrm { m i n }$ 后，ROBs内cAMP浓度显著升高，持续至 $4 0 \mathrm { m i n }$ 后迅速下降，至2h时再次升高，p-PKA亦表现出同样的变化趋势，说明低频脉冲电磁场激活了cAMP/PKA信号通路;使用DDA抑制腺苷酸环化酶活性后，由低频脉冲电磁场引起的ALP活性及成骨性基因转录升高显著下降，同样使用KT5720抑制PKA磷酸化后，由低频脉冲电磁场引起的成骨性基因转录及蛋白表达亦下降，说明cAMP/PKA信号通路参与低频脉冲电磁场促进ROBs分化的过程。结论 $5 0 \mathrm { H z } 0 . 6 \mathrm { m T }$ 低频脉冲电磁场通过cAMP/PKA信号通路促进ROBs分化。
+
+关键词：骨质疏松症；脉冲电磁场;成骨细胞;cAMP/PKA信号通路
+
+# Low-frequency pulsed electromagnetic fields promotes rat osteoblast differentiation in vitro through cAMP/PKA signal pathway
+
+FANG Qingqing',LIZhizhong2,ZHOUJian’,SHIWengui,YANJuanli’,XIEYanfang',CHENKeming InstituteofOopicsuealsitalofoi;gfifeecedie UniversityofTechnology,Lanzhou730050,China
+
+Abstrac: ObjectiveTostudywhetherlow-frequencypulsed electromagneticfeldspromotes thediferentiationofculturedrat Osteoblasts through the cAMP/PKA signal pathway. Methods Ratcalvarial osteoblasts isolated by enzyme digestion were exposed to $5 0 ~ \mathrm { H z } ~ 0 . 6 ~ \mathrm { m T }$ low-frequency pulsed electromagnetic field for varying lengths of time, and the concentration of cAMP and levels of phosphorylatedPKA in thecells were assayed. Incells treated with DDA to inhibit the activity of adenylate cyclase，the changes of ALP activity and transcription of osteogenic gene were detected after exposure to low-frequencypulsed electromagnetic field.Thechanges of osteogenic gene transcriptionand protein expresionwere tested in the osteoblasts pretreated with KT5720 in response to low-frequency pulsed electromagnetic field exposure. Results The intracellular cAMP concentration in the cells increased significantly at $2 0 \ \mathrm { m i n }$ during exposure to low-frequency pulsed electromagnetic field, began to decrease at $4 0 ~ \mathrm { m i n }$ during the exposure, and increased again after a 2-h exposure; the same patern of variation was also observed in p-PKA level. Application of DDA and KT5720 pretreatment both suppressed the increasein ALP activity and osteogenic gene transcription induced by electromagnetic field exposure. Conclusion Lowfrequency pulsed electromagneticfield exposure improves the diferentiation ofcultured rat osteoblasts by activating cAMP/ PKA signal pathway.
+
+Key words: osteoporosis; pulsed electromagnetic fields; osteoblasts; cAMP/PKA signal pathway
+
+随着人口结构日趋老龄化，骨质疏松症的防治已成为全球关注的重大课题1。虽然采用补充维生素D、增加钙摄入量以及雌激素替代疗法取得了不错的疗效，但却增加了患者罹患高钙血症以及乳腺癌的风险[2-3]。电磁场作为一种物理刺激，因具有无创伤、无疼痛、使用便捷等优点引起了人们的广泛关注。研究表明电磁场可以提高实验动物的骨密度以及骨生物力学性能4，减缓骨量丢失[5],增加骨质疏松症患者的骨矿盐沉积[。但其作用机制仍不十分明确，有待进一步的研究。
+
+G蛋白偶联的cAMP/PKA信号通路参与调节诸多细胞功能。细胞外信号分子与相应受体结合后激活与受体偶联的G蛋白，进而活化腺苷酸环化酶，引起第二信使cAMP浓度升高，cAMP再通过结合底物PKA的调节亚基而使其催化亚基释放，直接或间接地调节一系列细胞活动。研究表明cAMP/PKA/CREB信号通路参与人骨髓间充质干细胞的成骨性分化；调节MC3T3的成骨性分化[8,促进骨涎蛋白以及骨钙素的基因表达[9];而特异性敲除实验动物G蛋白的α亚基，其骨小梁数量明显减少[0]。那么电磁场是否通过G蛋白偶联的cAMP/PKA信号通路促进骨形成，对此本文进行了研究，以深入探讨电磁场促进骨形成的分子机理。
+
+# 1 材料和方法
+
+# 1.1低频电磁场细胞处理仪
+
+本研究所用低频电磁场细胞处理仪由本课题组自行研制，发明专利号：ZL201110423102.0。整套装置由计算机控制模块、数模转化模块、信号放大模块、线圈、磁场传感器和温度传感器组成，可产生正弦波、三角波、方波、脉冲波、锯齿波等不同类型的均匀电磁场，频率 $5 { \sim } 2 0 0 ~ \mathrm { H z }$ ,强度 $0 . 0 { \sim } 9 . 0 ~ \mathrm { m T }$ 精确可调。可确保 $6 0 ~ \mathrm { m m }$ 培养皿内所有细胞受到相同电磁场处理。实验过程中线圈置于细胞培养箱中，通过导线与外部装置连接(图1)。
+
+![](images/f65929c83e4caa5559821e9cd46b303b51655e30ea25265db66d413c6d1a5eb4.jpg)  
+图1低频电磁场细胞处理仪 Fig.1 The device producing electromagnetic fields for cell exposure.
+
+# 1.2 材料
+
+出生 $4 8 \mathrm { { h } }$ 以内的SPF级Wistar大鼠(甘肃省中医药大学动物实验中心，合格证号：SCXK(甘)2004-0006-152); $\mathfrak { a }$ -MEM培养基、Ⅱ型胶原酶(Gibco,美国);胎牛血清(兰州民海生物公司);胰蛋白酶(西安科吴生物工程有限责任公司）；大鼠cAMPELISA试剂盒(R&D,美国);p-PKA抗体、PKA抗体、RUNX-2抗体、OSX抗体(abcam,美国）; $\beta$ -Actin抗体(bioworld,美国）；DDA、KT5720（Sigma,美国）；二甲基亚砜(Dimethyl sulfoxide,DMSO,AMRESCO,美国）;碱性磷酸酶(ALP)试剂盒(南京建成生物工程研究所)；焦碳酸二乙酯(diethypyrocarbonate,DEPC)、SDS-PAGE凝胶制备试剂盒 $\cdot 5 \times$ 蛋白上样缓冲液、BCA蛋白浓度测定试剂盒、ECLPlus超敏发光液(北京索莱宝科技有限公司）;RNAiso Plus Reagent、Prime ScriptTM reagent Kit、PCR扩增试剂盒(大连宝生物工程有限公司)。
+
+# 1.3大鼠颅骨成骨细胞分离培养
+
+如文献[11]所述，取出生 $4 8 \mathrm { { h } }$ 以内的Wistar大鼠5只，置于 $7 5 \%$ 的酒精中消毒后处死，取颅骨，剪成约$2 \mathrm { m m } ^ { 2 }$ 大小的骨碎片，PBS漂洗后置于培养瓶中，加入适量 $0 . 2 5 \%$ 的胰蛋白酶， $3 7 ^ { \circ } \mathrm { C }$ 水浴消化 $1 0 \mathrm { m i n }$ ,弃消化液，换用 $0 . 1 \%$ 的 $\mathbb { I }$ 型胶原酶 $3 7 ^ { \circ } \mathrm { C }$ 水浴消化 $1 0 \mathrm { m i n }$ ,弃消化液，之后用 $0 . 1 \%$ 的 $\mathbb { I }$ 型胶原酶 $3 7 \ \mathrm { { ^ { \circ } C } }$ 水浴消化3次，每次$2 0 \mathrm { m i n }$ ，收集消化液于盛有适量培养液的培养瓶中，200目细胞筛过滤， $1 0 0 0 ~ \mathrm { r / m i n }$ 离心 $5 \mathrm { m i n }$ ，弃上清，细胞沉淀使用培养液重悬，调整密度至 $3 { \times } 1 0 ^ { 4 }$ 细胞 $/ \mathrm { m L }$ ,接种于$9 0 ~ \mathrm { m m }$ 培养皿中,置于 $3 7 \%$ $\mathrm { C O } _ { 2 }$ 培养箱中培养，待细胞生长至 $90 \%$ 以上融合时，用 $0 . 2 5 \%$ 的胰蛋白酶消化传代用于实验。
+
+# 1.4细胞内cAMP浓度测定
+
+P1代ROBs以 $3 { \times } 1 0 ^ { 4 } / \mathrm { m L }$ 的密度均匀接种于 $6 0 \mathrm { m m }$ 培养皿中，待生长至接近融合时置于低频电磁场细胞处理仪中分别处理 $0 . 5 , 1 0 , 2 0 , 4 0 \operatorname* { m i n } , 1 , 2 \mathrm { h }$ ，弃培养液， $4 ~ \mathrm { { ^ { \circ } C } }$ 预冷的PBS清洗3次，加入 $5 0 0 ~ { \mu \mathrm { L } } ~ 0 . 1 ~ \mathrm { m o l / L }$ HCI室温裂解细胞，收集细胞裂解液并吹打均匀， $4 \mathrm { { ^ \circ C } }$ $1 2 \mathrm { ~ 0 0 0 ~ r / m i n }$ 离心 $1 0 ~ \mathrm { m i n }$ ，取上清，按照ELISA试剂盒说明书检测cAMP浓度。
+
+# 1.5蛋白表达分析
+
+P1代ROBs以 $3 { \times } 1 0 ^ { 4 } / \mathrm { m L }$ 的密度均匀接种于 $6 0 \mathrm { m m }$ 培养皿中，待生长至接近融合时采用不同条件处理：$5 0 \mathrm { H z } 0 . 6 \mathrm { m T }$ 低频脉冲电磁场分别处理 $0 . 1 0 { \cdot } 2 0 . 4 0 \operatorname* { m i n }$ 、$1 . 2 \mathrm { h }$ 后检测p-PKA及PKA的蛋白表达量；设立对照组、低频脉冲电磁场处理组、KT5720组、 $. \mathrm { K T } 5 7 2 0 +$ 低频脉冲电磁场处理组，分别予以不同条件处理，即对照组除加入与KT5720等量的DMSO[2外不做任何处理，低频脉冲电磁场处理组使用 $5 0 \mathrm { H z } 0 . 6 \mathrm { m T }$ 低频脉冲电磁场每天处理 $1 . 5 \mathrm { h } , \mathrm { K T } 5 7 2 0$ 组使用 $1 0 \mu \mathrm { m o l } \mathrm { K T } 5 7 2 0 ^ { [ 1 3 } \$ 处理， $\mathrm { K T } 5 7 2 0 +$ 低频脉冲电磁场处理组在使用 $1 0 ~ \mathrm { \mu m o l }$ KT5720处理的同时采用 $5 0 \mathrm { H z } 0 . 6 \mathrm { m T }$ 低频脉冲电磁场每天处理 $1 . 5 \mathrm { h }$ ,连续处理3d后检测OSX、RUNX-2、$\beta$ -actin的蛋白表达量，之后弃培养液， $4 \mathrm { { ^ circ C } }$ 预冷的PBS漂洗3遍，加入PIRA蛋白裂解液 $4 0 0 ~  { \mu \mathrm { L } }$ ,充分裂解细胞，收集细胞裂解液， $. 4 \mathrm { ~ ‰ ~ }$ 离心 $3 0 \mathrm { m i n }$ ，收集上清，取 $2 5 ~ \mu \mathrm { L }$ 进行蛋白质浓度测定，剩余加入1/4体积的 $5 \times$ 蛋白上样缓冲液，沸水浴 $1 0 ~ \mathrm { m i n }$ ,待冷却后取$2 0 ~ { \mu \mathrm { g } }$ 进行SDS-PAGE凝胶电泳，然后电转至PVDF膜上， $5 \%$ 脱脂奶粉室温封闭 $^ { 2 \mathrm { ~ h ~ } }$ ,一抗(p-PKA:1:500,PKA: 1: 1000;OSX: $1 : 8 0 0$ ;RUNX-2: 1: 600; $\beta$ -Actin:$1 : 1 0 0 0 ) 4 \mathrm { ~ \textdegree C }$ 孵育过夜,TBST清洗4遍，每遍 $8 ~ \mathrm { m i n }$ ，二抗 $( 1 : 1 0 0 0 0 )$ 室温振荡孵育 $2 \mathrm { h }$ ,TBST清洗4遍，每遍$8 \mathrm { m i n }$ ,ECLPlus超敏发光液暗室发光显影，结果拍照后使用ipp软件进行扫描量化处理。
+
+# 1.6ALP活性测定
+
+P1代ROBs以 $3 { \times } 1 0 ^ { 4 } / \mathrm { m L }$ 的密度均匀接种于 $3 0 \mathrm { m m }$ 培养血中，分别设定对照组、低频脉冲电磁场处理组、DDA组、 $\mathrm { \ D D A + }$ 低频脉冲电磁场处理组，待细胞生长至接近融合时分别予以不同条件处理，即对照组除加入与DDA等量的DMSO[12]外不做任何处理,低频脉冲电磁场处理组使用 $5 0 \mathrm { H z } 0 . 6 \mathrm { m T }$ 低频脉冲电磁场每天处理$1 . 5 \mathrm { h } , \mathrm { D D A }$ 组使用 $1 0 \mathrm { \ : \mu m o l }$ DDA[13-14]处理, $\mathrm { \ D D A + }$ 低频脉冲电磁场处理组在使用 $1 0 \mathrm { \ : \mu m o l }$ DDA处理的同时采用 $5 0 \ \mathrm { H z } \ 0 . 6 \ \mathrm { m T }$ 低频脉冲电磁场每天处理 $1 . 5 \mathrm { h }$ ，,连续处理3、6、9d后测定其ALP活性，检测方法如试剂盒说明书所述，即弃培养基，PBS漂洗3次，加入基质液和缓冲液各 $2 5 0 ~ \mu \mathrm { L }$ ，轻微震荡混匀， $3 7 ~ \mathrm { ^ { \circ } C }$ 孵育 $1 5 ~ \mathrm { m i n }$ ，加入显色液 $7 5 0 ~ \mu \mathrm { L }$ ，轻微震荡混匀， $5 2 0 ~ \mathrm { n m }$ 处测定吸光值，根据公式换算得到ALP活性值。
+
+# 1.7成骨性基因转录分析
+
+P1代ROBs以 $3 \times 1 0 ^ { 4 }$ 细胞 $/ \mathrm { m L }$ 的密度均匀接种于$6 0 ~ \mathrm { m m }$ 培养皿中，分别设定对照组、低频脉冲电磁场处理组、DDA组、 $\mathrm { \cdot D D A } +$ 低频脉冲电磁场处理组、KT5720组 $. \mathrm { K T } 5 7 2 0 +$ 低频脉冲电磁场处理组，待细胞生长至完全融合时分别予以不同条件处理，即对照组除加入与DDA/KT5720等量的DMSO外不做任何处理，低频脉冲电磁场处理组使用 $5 0 \mathrm { H z } 0 . 6 \mathrm { m T }$ 低频脉冲电磁场每天处理 $1 . 5 \mathrm { h } , \mathrm { D D A }$ 组使用 $1 0 ~ \mathrm { \mu \mathrm { m o l } }$ DDA处理, $\mathrm { \ D D A + }$ 低频脉冲电磁场处理组在使用 $1 0 \mu \mathrm { m o l }$ DDA处理的同时采用 $5 0 \mathrm { H z } 0 . 6 \mathrm { m T }$ 低频脉冲电磁场每天处理 $1 . 5 \mathrm { h }$ KT5720组使用 $1 0 ~ \mathrm { \mu \mathrm { m o l } }$ KT5720处理, $\mathrm { K T } 5 7 2 0 +$ 低频脉冲电磁场处理组在使用 $1 0 \mu \mathrm { m o l }$ KT5720处理的同时采用 $5 0 \mathrm { H z } 0 . 6 \mathrm { m T }$ 低频脉冲电磁场每天处理 $1 . 5 \mathrm { h }$ ，连续处理3d后弃培养液， $4 ^ { \circ } \mathrm { C }$ 预冷的PBS漂洗3次，加入$1 ~ \mathrm { m L }$ RNAisoPlusReagent于冰上裂解细胞,收集细胞裂解液，加入 $2 0 0 ~ \mu \mathrm { L }$ 氯仿，振荡混匀后 $4 \mathrm { ~ ‰ ~ }$ 离心 $1 5 \mathrm { m i n }$ ,吸取上清，加入等体积异丙醇,轻微上下颠倒混匀， $4 \mathrm { ~ ‰ ~ }$ 离心 $2 0 ~ \mathrm { m i n }$ ,弃上清，加人 $1 \mathrm { m L } 7 5 \%$ 乙醇(DEPC水现配现用)清洗沉淀， $4 \mathrm { { ^ { \circ } C } }$ $1 2 \ : 0 0 0 \ : \mathrm { r / m i n }$ 离心 $1 5 \mathrm { m i n }$ ，弃上清，加入适量DEPC水溶解沉淀，紫外分光光度计于 $2 3 0 . 2 6 0 . 2 8 0 . 3 2 0 \mathrm { n m }$ 处检测RNA质量，根据RNA浓度使用Prime ScriptTMreagentKit进行反转录； $: 3 7 \mathrm { ~ \textcircled { C } } 1 5 \mathrm { ~ m i n } , 8 5 \mathrm { ~ \textcircled { C } } 5 :$ s,反转录产物cDNA使用PCR扩增试剂盒进行扩增： $9 5 \mathrm { ~ \textdegree C ~ } 3 0 \mathrm { ~ s ~ }$ 变性， $9 5 \mathrm { ~ \textdegree ~ { ~ } ~ } 5 \mathrm { ~ s ~ }$ 退火， $6 0  { \mathrm { ~ \circ ~ } }  { \mathrm { ~ C ~ } } 3 1 \mathrm { ~ s ~ }$ 延伸，40个循环。引物序列如表1所示。数据使用 $2 ^ { - \triangle \triangle \mathrm { c T } }$ 法进行分析。
+
+表1引物序列 Tab.1 Primer sequences   
+
+<html><body><table><tr><td>Gene</td><td>GeneBankNo.</td><td>Primer sequences</td></tr><tr><td>Gapdh</td><td>NM_017008.3</td><td>Forward5'-GGCACAGTCAAGGCTGAGAATG-3' Reverse5'-ATGGTGGTGAAGACGCCAGTA-3'</td></tr><tr><td>Bmp-2</td><td>NM_017178</td><td>Forward5'-ACCGTGCTCAGCTTCCATCAC-3' Reverse5'-TTCCTGCATTTGTTCCCGAAA-3'</td></tr><tr><td>Osx</td><td>NM_001037632.1</td><td>Forward5'-GCCTACTTACCCGTCTGACTTT-3' Reverse 5'-GCCCACTATTGCCAACTGC-3'</td></tr><tr><td>Collagen-1</td><td>NM_053356</td><td>Forward 5'-TTCCCGGTGAATTCGGTCTC-3' Reverse5'-ACCTCGGATTCCAATAGGACCAG-3'</td></tr></table></body></html>
+
+# 1.8统计学处理
+
+所有数据使用SPSS20.0统计软件进行分析，其中组间差异采用单因素方差分析，组间多重比较采用LSD方法统计分析。结果以平均数 $\stackrel { \cdot } { \pm }$ 标准差表示，当 $P { < } 0 . 0 5$ 时表示差异有统计学意义，当 $P { < } 0 . 0 1$ 时表示差异有显著统计学意义。
+
+# 2结果
+
+2.1低频脉冲电磁场处理后ROBs内cAMP浓度变化
+
+低频脉冲电磁场处理后ROBs内cAMP浓度变化如图2所示，在电磁场连续处理 $5 . 1 0 \mathrm { m i n }$ 时cAMP浓度未发生明显变化，至处理 $2 0 \mathrm { m i n }$ 后出现升高，较对照组有显著的统计学意义 $( P { < } 0 . 0 1 )$ ,持续至 $4 0 \mathrm { m i n }$ 后开始下降，至1h时较对照组无统计学差异， $2 \mathrm { h }$ 时再次升高，较对照组有统计学意义 $( P { < } 0 . 0 5 )$ ,说明低频脉冲电磁场引起第二信使cAMP浓度的升高。
+
+# 2.2低频脉冲电磁场处理后ROBs内PKA磷酸化水平的变化
+
+为检测cAMP浓度升高是否引起PKA磷酸化水平的变化，实验检测了低频脉冲电磁场处理后不同时间p-PKA的浓度变化，结果如图3所示，经电磁场处理后，p-PKA浓度出现短暂降低,之后升高，在 $2 0 . 4 0 \ \mathrm { m i n }$ 时较对照组有显著的统计学意义（ $^ { * * } P { < } 0 . 0 1 \$ ,之后回归至对照组水平，于 $2 \mathrm { h }$ 时再次升高 $( * * P { < } 0 . 0 1 )$ ,说明第二信使cAMP浓度的升高引起了PKA磷酸化水平的变化。
+
+![](images/6d94ce354a37d5d29bdcdff38aca9e0071acb37507bf7c833a80e659a839ffd3.jpg)  
+图2低频脉冲电磁场处理后ROBs内cAMP浓度变化 Fig.2 Changes of cAMP concentrations after PEMF treatment. $^ { * } P { < } 0 . 0 5$ $* * P { < } 0 . 0 1$
+
+![](images/6f05f6ad370264f6a163293ef10006d9c4831200ffda6619e9a79defeb6fac4e.jpg)  
+图3低频脉冲电磁场处理后ROBs内 $\mathsf { p }$ -PKA浓度变化Fig.3 Changes of the levels of $\mathrm { \Delta p }$ -PKAafterPEMF treatment.$^ { * * } P { < } 0 . 0 1$ ：
+
+# 2.3抑制剂DDA对低频脉冲电磁场处理后ALP活性变 化的影响
+
+为明确电磁场所引起的成骨性分化过程与第二信使cAMP之间的关系，ROBs经相应分组处理后测定其ALP活性，结果如图4所示，不论处理3、6d还是9d,低频脉冲电磁场处理组ALP活性均显著升高，其差异较对照组有统计学意义( $^ { * * } P { < } 0 . 0 1$ $^ { * } P { < } 0 . 0 5 ) ,$ ，单纯DDA处理未对ROBs的ALP活性产生明显影响，而使用DDA抑制AC活性后，低频脉冲电磁场促ALP活性升高的能力减弱，其差异较单纯低频脉冲电磁场处理组有统计学意义 $^ { \# \# } P < 0 . 0 1$ $^ { \# } P { < } 0 . 0 5 )$ ，说明低频脉冲电磁场促进ALP活性升高与cAMP浓度变化紧密联系。
+
+![](images/9b4ea31a66be19c7a01202644b69e39b393322c08168e5a19f3152f53cb4b9d6.jpg)  
+图4抑制剂DDA对低频脉冲电磁场处理后ALP活性 变化的影响 Fig.4 Effect of DDA on the ALP activities after PEMF treatment. C: Control group; P: PEMP group; D: DDA group; $\scriptstyle \mathrm { D + P }$ ：DD $\mathsf { A } { + } \mathrm { P E M P }$ group. $^ { * } P { < } 0 . 0 5$ $^ { * * } P { < } 0 . 0 1$ us C group, $^ { \sharp } P { < } 0 . 0 5 ,$ $^ { \sharp \sharp } P < 0 . 0 1$ ：
+
+# 2.4抑制剂DDA对低频脉冲电磁场处理后成骨性基因转录变化的影响
+
+ROBs经分组处理后收集基因检测成骨相关因子的基因转录水平，结果如图5所示，低频脉冲电磁场处理组 $\mathrm { O s x } \ 、 \mathrm { C o l } \mathrm { - I } \ 、 \mathrm { B m p } \mathrm { - } 2$ 的表达量均较对照组显著升高$^ { ' * * } P { < } 0 . 0 1$ ， $^ { * } P { < } 0 . 0 5 )$ ,单纯DDA处理未对ROBs的成骨性基因转录产生明显影响，而使用DDA抑制AC活性后，低频脉冲电磁场促Osx、Col-I、Bmp-2基因转录的能力明显削弱，说明低频脉冲电磁场介导的成骨性基因转录增强与cAMP浓度升高相关。
+
+# 2.5抑制剂KT5720对低频脉冲电磁场处理后成骨性基 因转录变化的影响
+
+为检测电磁场骨形成效应与PKA磷酸化之间的关系，实验使用PKA特异性抑制剂KT5720预处理ROBs，观察其对电磁场提高成骨性基因转录的影响，结果如图6所示，低频脉冲电磁场显著提高了成骨性基因Osx、Col-I、Bmp-2的表达 $^ { ' * * } P { < } 0 . 0 1$ $^ { * } P { < } 0 . 0 5 ,$ ，抑制剂KT5720未对ROBs成骨性基因的转录产生明显影响，而当其抑制PKA的活性后，由低频脉冲电磁场引起的成骨性基因转录增强的现象消失 $^ { ( \# \# } P < 0 . 0 1 )$ ，说明cAMP下游底物PKA参与了低频脉冲电磁场促进成骨性基因转录的过程。
+
+# 2.6抑制剂KT5720对低频脉冲电磁场处理后成骨性蛋白表达变化的影响
+
+上文显示抑制剂KT5720削弱了电磁场引起的成骨性基因转录的变化，那么其是否也影响了成骨性蛋白
+
+s 1.8 \*\* 3s313383g2 \*   
+\*\* 1.6 T   
+2.0 42   
+1.5 m 1.0 m m   
+1.0 0.8 0.6   
+0.5 0.4 0.2   
+0.0 0.0   
+C P D D+P C P D D+P C P D D+P
+
+## ##A B C\* \*\*\*\*1.4 1.6 1.61.2 1.4 1.41.0 1.2 1.2800 0.4 10806 0.4 0.4 108860 10.2 0.2 0.20.0 0.0 0.0C P D D+P C P D D+P C P D D+P的表达呢？为此实验采用Westernblotting检测了KT5720预处理后低频脉冲电磁场对成骨性蛋白表达的影响，结果如图7所示，低频脉冲电磁场处理后成骨性蛋白的表达升高 $( * * P { < } 0 . 0 1 )$ ,单纯使用KT5720未对
+
+![](images/09d1c508c01c8d937bd4ef65a247ad42bc357cd95620f69fb1fa62910a48152f.jpg)  
+图5抑制剂DDA对低频脉冲电磁场处理后成骨性基因转录变化的影响Fig.5 Effect of DDA on the osteogenic gene transcription after PEMF treatment. $^ { * } P { < } 0 . 0 5 ,$ （2号 $* * P { < } 0 . 0 1$   
+图6抑制剂KT5720对低频脉冲电磁场处理后成骨性基因转录变化的影响 Fig.6 Effect of KT5720 on the osteogenic gene transcription after PEMF treatment. $^ { * } P { < } 0 . 0 5 ,$ $^ { * * } P { < } 0 . 0 1$ Us C group, $^ { \sharp \sharp } P < 0 . 0 1$
+
+ROBs成骨性蛋白的表达产生明显影响，而KT5720却抑制了低频脉冲电磁场所引起的成骨性蛋白表达的增强 $^ { ( \# \# } P < 0 . 0 1 )$ ，说明PKA也参与了低频脉冲电磁场引起的成骨性蛋白的表达。
+
+图7抑制剂KT5720对低频脉冲电磁场处理后成骨性蛋白表达变化的影响 Fig.7 Effect of KT5720 on the osteogenic protein expression after PEMF treatment. $^ { * } P { < } 0 . 0 5 ,$ $^ { * * } P { < } 0 . 0 1$ us C Group, $^ { \sharp \sharp } P < 0 . 0 1$
+
+# 3讨论
+
+低频脉冲电磁场在临床上用于骨折愈合已有近半个世纪的历史[15],许多研究表明低频脉冲电磁场可以促进骨形成[16-17]。本课题组经研究发现 $5 0 \mathrm { H z } 0 . 6 \mathrm { m T }$ 低频脉冲电磁场可以显著促进ROBs矿化成熟[18]，然而其具体的作用机制仍不十分清楚，有待研究。cAMP作为第二信使，广泛参与调节细胞功能，自发现以来就引起人们的广泛关注。研究表明小分子的cAMP类似物可以特异性地激活PKA,进而促进MC3T3-E1的矿化成熟[19],cAMP/PKA信号通路参与淫羊藿苷促进骨形成的过程2]。本文通过一系列研究发现,cAMP/PKA信号通路参与 $5 0 \mathrm { H z } 0 . 6 \mathrm { m T }$ 低频脉冲电磁场促进骨形成的过程
+
+cAMP作为第二信使，在细胞内的浓度受到严格的控制，以完成对细胞功能的精确调控。本文通过检测经低频脉冲电磁场不同时间处理后细胞内cAMP及p-PKA浓度的变化发现,在电磁场处理 $2 0 \mathrm { m i n }$ 后ROBs内cAMP浓度显著升高，持续至 $4 0 \mathrm { m i n }$ 后降低，至2h时再次升高，PKA的磷酸化也表现出相同的变化趋势，在电磁场处理 $2 0 . 4 0 \ \mathrm { m i n }$ 时较对照组有显著的统计学意义，之后降低， $2 \mathrm { h }$ 时再次升高，说明低频脉冲电磁场激活了cAMP/PKA信号通路。而使用DDA抑制cAMP的合成后发现，成骨性分化早期指标ALP活性显著下降,成骨相关基因 $\mathrm { O s x . C o l – I }$ 和Bmp-2的转录亦显著下降，说明低频脉冲电磁场通过第二信使cAMP调节ROBs的成骨性分化。同样，使用KT5720抑制PKA的磷酸化之后，由电磁场所引起的成骨性基因转录及蛋白表达的增强亦减弱，说明cAMP下游底物PKA也参与了低频脉冲电磁场促进骨形成的过程
+
+作为普遍存在于生物有机体中的重要信号转导方式，cAMP/PKA信号通路通过多种方式调节细胞功能，在骨代谢调节过程中发挥着重要作用，本文通过研究发现 $5 0 \mathrm { H z } 0 . 6 \mathrm { m T }$ 低频脉冲电磁场通过激活cAMP/PKA信号通路促进骨形成，然而亦有研究显示cAMP/PKA信号通路在骨髓间充质干细胞的分化过程中扮演相反的角色,促进其成脂性分化而抑制其成骨性分化[21-22],参与破骨细胞的分化[23],那么，在细胞复杂而高度可控的代谢调节网络中，低频脉冲电磁场通过cAMP/PKA信号通路促进骨形成的过程又受到了哪些调节，与其他信号通路之间存在何种关联,仍有待进一步的研究。
+
+# 参考文献：
+
+[1]高堪达,俞永林,周建伟.脉冲电磁场治疗骨质疏松症研究进展[J].国 外医学：骨科学分册,2005,25(5):307-9.   
+[2]Paterson CR.Vitamin-D poisoning: survey of causes in 21 patients with hypercalcaemia[J].Lancet,1980,1(8179):1164-5.   
+[3]Mahavni V, Sood AK.Hormone replacement therapy and cancer risk [J]. Curr opin oncol, 2001,13(5): 384-9.   
+[4]罗二平,焦李成,申广浩,等.不同强度脉冲电磁场对兔股骨骨密度及 生物力学特性的影响[J].生物医学工程学杂志,2006,22(6): 1168-70.   
+[5]Jing D,Shen G,Huang J,et al.Circadian rhythm affects the preventive role of pulsed electromagnetic fields on ovariectomyinduced osteoporosis in rats[J].Bone,2010,46(2): 487-95.   
+[6]Garland DE,Adkins RH,Matsuno NN,et al. The effect of pulsed electromagnetic fields on osteoporosis at the knee in individuals with spinal cord injury[J].JSpinal Cord Med,1998,22(4):239-45.   
+[7]Kim JM, Choi JS,Kim YH,et al.An activator of the cAMP/PKA/ CREB pathway promotes osteogenesis from human mesenchymal stem cells[J].JCell Physiol,2013,228(3): 617-26.   
+[8]Ghayor C,Ehrbar M,San Miguel B,et al.cAMP enhances BMP2-signaling through PKA and MKP1-dependent mechanisms [J]. Biochem Biophys Res Commun,2009,381(2): 247-52.   
+[9]Huang WC,Xie Z, Konaka H,et al. Human osteocalcin and bone sialoprotein mediating osteomimicry of prostate cancer cells:role of cAMP-dependent protein kinase A signaling pathway[J]. Cancer Res,2005,65(6): 2303-13.   
+[10] Sakamoto A,Chen M,Nakamura T,et al．Deficiency of the G-protein $\mathfrak { a }$ -subunit Gsa in osteoblasts leads to differential effects on trabecular and cortical bone[J].J Biol Chem,2005,280(22): 21369-75.   
+[11]方清清,李志忠,陈克明,等. $5 0 \mathrm { H z } 1 . 8 \mathrm { m T }$ 正弦交变电磁场通过调节 成骨细胞 PGE2 分泌影响 Opg/Rankl 的基因表达[J].中国生物化学 与分子生物学报,2015,31(9):983-8.   
+[12] Guicheux J,Lemonnier J,Ghayor C,et al. Activation of p38 Mitogen-Activated Protein Kinase and c-Jun-NH2-Terminal Kinase by BMP-2 and Their Implication in the Stimulation of Osteoblastic Cell Differentiation[J].JBone Mine Res,2003,18(11):2060-8.   
+[13]Park YG,Kang SK,Noh SH,et al. PGE 2,induces IL $1 \beta$ gene expression in mouse osteoblasts through a cAMP-PKA signaling pathway[J]. Int Immunopharmacol,2004,4(6): 779-89.   
+[14]Haslam RJ,Davidson MM, Desjardins JV.Inhibition of adenylate cyclase by adenosine analogues in preparations of broken and intact human platelets.Evidence for the unidirectional control of platelet function by cyclic AMP[J]. Biochem J,1978,176(1): 83-95.   
+[15]Heckman JD,Ingram AJ, Loyd RD,et al. Nonunion treatment with pulsed electromagnetic fields[J]. Clin Orthop Relat Res,1981,161: 58-66.   
+[16]Fu YC,Lin CC,Chang JK,et al.A novel single pulsed electromagnetic field stimulates osteogenesis of bone marrow mesenchymal stem cells and bone repair[J].PloS One,2014,9(3): e91581.   
+[17]McLeod KJ, Rubin CT. The effct of low-frequency electrical fields on osteogenesis[J]. JBone Joint Surg Am,1992,74(6): 920-9.   
+[18]Yan JL,ZhouJ,MaH,etal.Pulsed electromagneticfieldsroote osteoblast mineralization and maturation needing the existence of primary cilia[J].Mol Cell Endocrinol,2015,404:132-40.   
+[19] Lo KW,Kan HM,Ashe KM,et al. The small molecule PKAspecific cyclic AMP analogue as an inducer of osteoblast-like cells differentiation and mineralization[J].J Tissue Eng Regen Med, 2012, 6(1): 40-8.   
+[20]石文贵,李雪雁,陈克明,等.基于cAMP-PKA信号通路的淫羊藿苷 促进骨形成研究[J].中国现代应用药学,2015,32(2):131-6.   
+[21]Zhao Y, Ding S.A high-throughput siRNA library screen identifies osteogenic suppressors in human mesenchymal stem cells[J]. Proc Natl Acad Sci USA,2007,104(23): 9673-8.   
+[22] Siddappa R,Mulder W, Steeqhs I, et al.cAMP/PKA signaling inhibits osteogenic differentiation and bone formation in rodent models[J]. Tissue Eng Part A,2009,15(8): 2135-43.   
+[23]Kobayashi Y,Mizoguchi T,Take I,etal.Prostaglandin E2 enances Osteoclastic differentiation of precursor cells through protein kinase A-dependent phosphorylation of TAK1[J]. JBiol Chem,2005,280 (12): 11395-403.
+
+(编辑：经缓)

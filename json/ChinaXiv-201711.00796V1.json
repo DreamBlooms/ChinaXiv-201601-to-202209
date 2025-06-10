@@ -1,0 +1,489 @@
+[
+    {
+        "type": "text",
+        "text": "畜禽呼吸道黏膜屏障的结构和功能及其改善措施",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孙永波 栾素军 王 亚 萨仁娜\\* 张宏福",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（中国农业科学院北京畜牧兽医研究所，动物营养学国家重点实验室，北京100193）摘要：呼吸道黏膜屏障是机体防御的重要屏障，主要包括机械屏障、化学屏障、微生物屏障和免疫屏障，各屏障有机地结合在一起，共同阻止有害物质的侵袭，保护呼吸道健康。畜禽舍内粉尘、有害气体及温度、湿度等因子容易引起呼吸道疾病，导致呼吸道黏膜损伤，加重畜禽病情，甚至诱发脏器病理损伤。本文主要通过总结呼吸道黏膜屏障的结构和功能以及改善畜禽呼吸道黏膜屏障的措施，为深入研究呼吸道黏膜屏障进而防治畜禽呼吸道疾病提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：畜禽；呼吸道；黏膜屏障；改善措施中图分类号：S811.2 文献标识码： 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "畜禽呼吸道与畜禽舍内环境相通，时刻受到舍内温度、湿度、细菌、病毒、粉尘颗粒以及多种有害气体的刺激，有害物质通过损伤呼吸道黏膜或通过气道上皮细胞间隙进入动物体内，引发呼吸道疾病。随着集约化养殖的飞速发展，畜禽呼吸道疾病逐渐增多，导致动物生产性能下降，免疫功能降低，严重者直接导致畜禽死亡，给畜牧业生产和发展带来严重的经济损失[I-2]。畜禽呼吸道综合征、传染性支气管炎、流感等呼吸道传染病的大规模爆发引起了人们高度重视，畜禽呼吸道疾病的预防和治疗变得尤为重要。呼吸道黏膜屏障作为黏膜屏障的重要组成部分，与外界环境直接相通，将外界环境中各种有害物质与机体环境相隔离，是保护畜禽健康，尤其是保护畜禽呼吸道免受病原微生物、粉尘等有害物质侵袭的重要屏障。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "呼吸道黏膜屏障能够清除气道内致病菌、粉尘等异物，抵制病原菌感染，维护呼吸道健康。因此，深入了解呼吸道黏膜屏障的结构和功能以及呼吸道疾病的发病机理，对畜禽呼吸道疾病的治疗和新药物的研发以及健康养殖的发展意义重大。目前，关于黏膜屏障的报道多集中于肠道黏膜，而对呼吸道黏膜的研究报道较少，呼吸道黏膜是呼吸系统抵抗外界有害物质的重要屏障，是保护机体健康的重要防线。此外，养殖户多采用抗生素防治畜禽呼吸道疾病，导致致病菌产生耐药性[3]。本文通过简要综述畜禽呼吸道黏膜屏障的结构和功能及呼吸道黏膜屏障的改善措施，引起人们对呼吸道黏膜屏障的关注，为改善畜禽健康及疫苗研制提供新的研究方向。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1呼吸道黏膜屏障概述 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "动物机体黏膜系统主要包括呼吸道及胃肠道黏膜，其中呼吸道黏膜作为机体的第二大黏膜系统，是维护呼吸道健康的有效屏障。呼吸道黏膜屏障由机械屏障、化学屏障、微生物屏障和免疫屏障共同组成，各自通过不同的分子调控机制、信号通路以及生物学功能相互结合共同保护机体呼吸道屏障，抵御病原菌等有害物质的攻击[4]。当各种外界致病因子相互作用时，破坏呼吸道黏膜屏障完整性，导致气道氧化应激及炎症和感染，引发呼吸道疾病，降低免疫功能，甚至导致畜禽肺脏损伤，严重危害动物的健康[5-6]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2呼吸道黏膜屏障的结构与功能",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 机械屏障 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "呼吸道黏膜上皮细胞以及细胞间的紧密连接(tight junction,TJ)构成呼吸道黏膜的机械屏障[7]。机械屏障的各部分相互作用，阻止病原微生物穿透呼吸道黏膜进入机体深部组织，是构成呼吸道黏膜屏障的结构基础。呼吸道黏膜上皮细胞（图1）主要有纤毛细胞、杯状细胞、基底细胞以及黏膜下分泌腺体等[8-9]。纤毛细胞是呼吸道黏膜上皮的主要细胞，纤毛细胞上附有一定数量的纤毛并按一定频率进行摆动，通过纤毛的摆动作用，及时清除进入鼻腔、气管内的细菌和粉尘等有害物质[10]。纤毛细胞受到外界有害因子如细菌、病毒、粉尘等应激时，纤毛的运动功能下降，导致呼吸道内有害物质清除功能降低，致病菌、粉尘等在呼吸道停留时间延长，进而导致呼吸道发生氧化应激及炎症感染[7I]。纤毛细胞还具有可塑性，可化生成杯状细胞[12]。纤毛细胞之间的杯状细胞和Clara 细胞，在一定的条件下可继续分化为纤毛细胞。基细胞借助黏附分子固定在基膜上，能够增殖分化形成纤毛细胞[13]；杯状细胞及黏膜下腺体是主要的分泌细胞，通过分泌黏蛋白等化学物质保护呼吸道黏膜。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d732532a89317239c549484ffab110c92eb35fe36b801520bf406665a31c42d.jpg",
+        "img_caption": [
+            "图1呼吸道上皮细胞组成 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Antimicrobial peptides：抗菌肽；Airway surface liquid：气道表面液体；Apico-lateral junctional complex:顶端侧面连接复合物；Environmental factors：环境因素；Mucus layer：黏液层；Periciliary layer：纤毛层；Ciliated cell：纤毛细胞；Serous cell：浆液细胞；Goblet cell :杯状细胞；Basal cell：基细胞。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Components of airway tract epithelium[9] ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "呼吸道黏膜细胞之间通过各种连接蛋白和信号分子形成紧密连接、黏附连接及桥粒连接来维持上皮细胞的正常结构和功能，细胞间通过多种连接蛋白互相作用，保持上皮细胞的完整，调节各种物质有效转运[14]。上皮细胞之间的连接方式主要有紧密连接、黏附连接和缝隙连接（图2)，紧密连接是最重要的连接方式[151；黏附连接起着细胞与细胞之间的黏附和细胞内信号传递的作用[16]；缝隙连接是细胞之间进行物质及信息交换的通道，对细胞增殖、分化及机体的生长发育至关重要。紧密连接是多种蛋白质相互作用下形成的复合结构，主要位于相邻细胞间连接的最顶部，是细胞间最基本、最常见的组织结构形式，通过封闭相邻细胞间的缝隙，阻止呼吸道内致病菌等外来有害物质通过细胞间隙渗入机体组织，保证动物内环境的相对稳定[17]。紧密连接蛋白主要包括跨膜蛋白和胞浆蛋白，其中跨膜蛋白有闭锁蛋白（Occludin）、闭合蛋白（Claudins）和连接黏附分子（junction adhesion molecules，JAM）[18]，胞浆蛋白是闭合小环蛋白（zonula occludens，ZO)，包括 ZO-1、ZO-2、ZO-3，这些跨膜蛋白通过胞浆蛋白连接于肌动蛋白细胞骨架，进而形成紧密连接复合体与上皮细胞一起形成完整的上皮结构并调节细胞的屏障功能[19-22]。紧密连接蛋白能够调节呼吸道上皮细胞间多种大分子物质的通透性与渗透性，阻止致病原、粉尘颗粒等外来有害物质进入机体，同时参与机体信号传导和固有免疫[23]。细胞间紧密连接的稳定性与Claudins 间及Claudins 与其他紧密连接蛋白间复杂的相互作用有关，Claudins 是构成紧密连接的主要骨架蛋白。Occludin能够密封上皮细胞间的空隙，具有维持机体渗透屏障以及上皮细胞极性、调节细胞之间的黏附性、接受并传递细胞信号等生物学功能[24]。ZO具有连接跨膜蛋白与细胞骨架及传递信号分子、调节和运输细胞内物质、维持上皮细胞的极性等功能，是紧密连接支持结构的基础[25]。ZO-1和 ZO-2使Claudins 与肌动蛋白紧密结合在一起，构成稳定的连接系统[26]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/699514b823553db376c0001698a61f38a8fad7ae5ae02db18d698bce1f247caf.jpg",
+        "img_caption": [
+            "图2气道上皮细胞连接结构示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Occludin：闭锁蛋白；Claudins：闭合蛋白；JAM：连接黏附分子 junction adhesion molecules；ZO-1:闭合小环蛋1 zonula occludens-1；ZO-2：闭合小环蛋 2 zonula ocudens-2；ZO-3：闭合小环蛋3 zonulaoccludens-3；E-cadherin：E-钙黏蛋白；α/β-actin：α/β肌动蛋白；Actin：肌动蛋白；Cortactin：皮肌动蛋白；Cingulin：扣带蛋白。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Cartoon diagram of airway epithelial cells indicating junction structures[27] ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 化学屏障",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "呼吸道黏膜化学屏障主要由覆盖在整个呼吸道表面的具有一定弹性和黏性的表面液体组成，主要包括黏液层和浆液层，能够保持气道湿润，阻止多种有害因子侵袭。黏液层主要由黏膜下腺体、上皮细胞分泌物以及组织渗出液等组成，如防御素、溶菌酶、抗菌肽等多种化学组分，能够破坏多种细菌的细胞壁，消灭入侵的病原菌[28]。黏液主要成分为水，占$84 \\% { \\sim } 9 4 \\%$ ，此外包括蛋白质、糖类、脂质等，其中黏蛋白是黏液中最重要的蛋白质成分[29]。黏蛋白可分为膜结合黏蛋白以及分泌型黏蛋白，膜结合黏蛋白存在于上皮细胞的表层，具有保护细胞、黏附细菌、促进上皮细胞增殖等作用；分泌型黏蛋白具有润滑、保护黏膜屏障作用[30-31]。杯状细胞和黏膜下腺体细胞是呼吸道黏蛋白的主要来源，其中MUC5AC 主要通过杯状细胞分泌产生，MUC5B主要由黏膜下腺体的浆液细胞产生。通常情况下，呼吸道存在少量的黏液，保护和润滑呼吸道黏膜，维持呼吸道的正常功能，但在外界有害物质应激作用下，杯状细胞肥大、增生，呼吸道黏蛋白MUC5AC表达上调，使气道黏液分泌增加，加重呼吸道阻塞[32-33]。浆液层作为呼吸道的化学屏障能够为纤毛生长提供良好的环境，对于维持纤毛的运动具有重要意义。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 微生物屏障",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "呼吸道黏膜表面时刻定居着一定数量和种类的微生物，这些微生物之间以及微生物和宿主之间相互作用形成动物机体稳定的微生态环境。一般微生态环境处于动态平衡状态，形成了抵御病原菌感染的微生物屏障。呼吸道有许多细菌定植，构成上呼吸道的正常菌群，这些菌群有助于宿主体内的食物代谢和营养吸收，同时还参与黏膜免疫稳态的维持以及外源病原体的抵抗和清除，通过竞争机体呼吸道黏膜上的黏附、分泌抗菌物质、增加黏液分泌来抑制致病菌的定植和生长，在发挥局部免疫功能和抵御外籍菌入侵方面具有重要的作用。随着肉鸡日龄的增加，喉部和气管菌群香农指数与丰富度逐渐增加，在微生物门水平上主要为厚壁菌门以及放线菌门和拟杆菌门[34-35]。潘康成等[36]研究报道，肉鸡呼吸道中微生物主要是肠杆菌科，其次是不可培养微生物。栾素军等[37采用16S 高通量测序方法测定肉鸡呼吸道微生物群落，结果表明，在肉鸡21日龄时，呼吸道微生物主要以厚壁菌门为主，在肉鸡 42日龄时，呼吸道微生物菌群主要包括厚壁菌门和变形菌门；呼吸道微生物科水平的主要优势菌群为乳酸杆菌科、芽孢杆菌科、肠球菌科、葡萄球菌科、链球菌科和肠杆菌科等。呼吸道的特殊结构决定其容易受到环境中多种因子的影响，一旦呼吸道菌群失调，将会诱发机体产生多种呼吸道疾病。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4 免疫屏障 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "呼吸道黏膜免疫系统主要包括黏膜相关淋巴组织和弥散性淋巴组织，其中黏膜相关淋巴组织是免疫应答的传入淋巴区，外来抗原从黏膜相关淋巴组织进入呼吸道黏膜，被呼吸道上皮细胞提取，通过抗原递呈细胞呈递给T细胞和B 细胞，引发免疫应答[38]；弥散淋巴组织则是免疫应答的传出淋巴区，通过归巢机制，桨细胞和致敏淋巴细胞迁移至弥散淋巴组织并发挥生物学功能[39-40]。呼吸系统的黏膜相关淋巴组织主要是由支气管相关淋巴组织以及鼻相关淋巴组织组成[41]。杨树宝[41研究报道，肉鸡呼吸道黏膜相关淋巴组织在4和7日龄时出现，形成呼吸道免疫的组织结构基础；随着日龄的增长，呼吸道相关淋巴组织抗原递呈细胞及T、B 淋巴细胞等不断发育，35日龄之前主要以发挥细胞免疫功能为主，35日龄之后以发挥体液免疫为主。闫梦菲等[42]报道，鸡鼻腔中分布有丰富的鼻相关淋巴组织。冯小刚[43]研究报道，鸡鼻腺形成于18胚龄，出壳后鼻腔黏膜发生明显变化，21日龄时鸡鼻相关淋巴组织完全发育成熟。弥散性淋巴组织是免疫应答的效应部位，主要在黏膜固有层中，包括上皮内淋巴细胞和固有层淋巴细胞[44]。上皮内淋巴细胞参与细胞介导的黏膜免疫，维持上皮细胞的完整性，它能够表达CD 和B整合素，分泌干扰素（IFN）、白细胞介素（IL）-2、IL-5等细胞因子，具有抗原特异性辅助功能和自然杀伤细胞（NK细胞）的活性[45]。固有层淋巴细胞存在着多种免疫相关细胞，主要位于黏膜上皮固有层内，如B 细胞、T细胞、NK 细胞、巨噬细胞等。当受到外界抗原刺激时，B 细胞分泌大量分泌型免疫球蛋白A（sIgA)，通过分泌片的介导来发挥作用；T细胞通过CD4 和CD8细胞，分泌转化生长因子（TGF）、IL-4、IL-5、IL-6、IL-10 等发挥免疫功能[46]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "sIgA 对呼吸道黏膜防御起着重要作用[47-49]。李鹏成等[50]研究报道，猪呼吸道含有较多的抗体分泌细胞，免疫球蛋白A（IgA）分泌细胞在气管中分布最多，其次是咽扁桃体、软腭扁桃体，肺中最少。sIgA由浆细胞产生，由J链和分泌片各1条以及2个IgA单体组成，能够阻止病原微生物的黏附，结合黏膜上皮细胞分泌的分泌片，中和抗原物质，溶解细菌[46]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "呼吸道黏膜中存在大量抗原呈递细胞，其中主要有树突状细胞（DC 细胞）和巨噬细胞，能够表达主要组织相容性复合体（MHC）-II类分子，参与黏膜免疫。DC 细胞迁移到黏膜表面，摄取抗原后带回黏膜淋巴组织诱导免疫应答，同时还能捕捉黏附于上皮的抗原，把抗原带到淋巴组织引发免疫应答[51-52]。此外，DC 细胞还能有效激活 T 细胞，活化的 DC 细胞通过淋巴循环进入免疫器官，进而与淋巴组织中的T细胞和B 细胞互相作用，启动、调节和维持免疫反应[53-54]。巨噬细胞是重要的天然免疫细胞，其数量占气道表面免疫细胞数量的$90 \\%$ 以上[6]。微皱褶细胞(microfold cell，IM细胞)存在于靠近黏膜相关淋巴组织的上皮中，能快速地将抗原不经修饰地转运给抗原递呈细胞[55]。此外，呼吸道肥大细胞能够加工和提呈抗原，吞噬病原微生物，调节呼吸道免疫应答反应。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "气道黏液也是呼吸道免疫防御的重要物质，如 sIgA、抗菌肽、防御素、溶菌酶、乳铁蛋白及蛋白酶抑制剂等，是机体黏膜的天然液态性防御物质，能够破坏细胞壁的完整性，干扰细菌的作用途径，同时竞争细菌生存所需的营养物质，进而起到杀菌作用[28]。呼吸道黏膜上皮细胞也可通过分泌多种活性物质发挥免疫调节作用。上皮细胞可表达多种免疫模式识别受体（PRR）、MHC 分子、协同刺激分子和黏附分子，识别微生物病原相关分子模式，启动抵御病原微生物的天然免疫反应。呼吸道上皮细胞还能够产生和分泌多种化学物质，如炎症介质、细胞因子和氧自由基等，参与介导呼吸道内各种炎性细胞的生存、趋化和活化[56]。如上皮细胞通过识别 Toll 样受体来激活核转录因子-kB（NF-kB）等转录调节因子，分泌溶菌酶、蛋白酶抑制剂等物质来消灭入侵的微生物[57]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3畜禽呼吸道黏膜屏障的改善措施",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1加强饲养管理，改善畜禽舍环境",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "畜禽舍内有害气体、粉尘颗粒、病原微生物等能够刺激呼吸道黏膜，导致动物黏膜损伤。如李聪等[58]研究报道， $2 5 ~ \\mathrm { m g / k g }$ 氨气组的肉鸡气管组织MUC2mRNA表达量显著升高，50和 $7 5 \\mathrm { m g / k g }$ 氨气组的肉鸡气管组织MUC2和Claudin1mRNA表达量均显著下降。加强饲养管理，改善畜禽舍环境具体包括以下几方面：1）合理控制畜禽舍内小气候环境，保持畜禽舍内适宜的温度和湿度，如刚出壳的肉仔鸡的育雏温度为 $3 3 { \\sim } 3 5 \\ \\mathrm { ~ \\textdegree C }$ ，以后每周根据雏鸡的生长发育，气温下降 $2 { \\sim } 3 \\ \\mathrm { ~ \\textdegree C }$ ，直至 $1 8 { \\sim } 2 3 \\ \\mathrm { ~ \\textdegree C }$ 为止；相对湿度前期控制在 $6 0 \\% \\sim 7 0 \\%$ ，后期控制在 $5 0 \\% \\sim \\sim \\mathrm { { } } 6 0 \\%$ ；饲养密度控制在 $3 0 { \\sim } 3 3 \\ \\mathrm { B W / m ^ { 2 } } \\ .$ 2）合理通风，冬季执行最小通风量，夏季执行最大通风量。3）每周定期消毒，及时清洁舍内卫生。4）使用磷酸氢钙、沸石等化学、物理除臭剂，降低舍内有害气体含量。5）采用全进全出的饲养方式，空舍期对畜禽舍全面冲洗、消毒。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 使用饲料添加剂",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "近年来研究发现，维生素、益生菌等饲料添加剂能促进畜禽黏膜的发育和损伤的修复，维护畜禽呼吸道黏膜健康。饲粮中添加维生素A能够维持畜禽上皮细胞的结构和功能，阻挡致病菌的入侵。研究报道，维生素A参与呼吸道黏膜免疫调控，缓解脂多糖（LPS）和氨气（ $\\mathrm { \\Delta N H } _ { 3 }$ ）对呼吸道的应激作用，提高呼吸道免疫功能[59-60]，当维生素A的供给量不足时，可导致呼吸道黏膜上皮鳞状化生和脱落，使黏膜的屏障作用降低[61-62]。其次饲粮中添加益生菌制剂不仅能提高畜禽的生产性能和免疫功能，还能改善呼吸道黏膜屏障。王迪等[63]研究表明，乳酸菌能够抑制大肠杆菌的定植，调节肉鸡呼吸道菌群的多样性，同时还能提高呼吸系统的免疫力。具体实施可以每天喷雾 $\\mathrm { 1 \\ m L / m ^ { 3 } }$ 的枯草芽孢杆菌 $( 1 0 ^ { 8 } { \\bf C F U / m L }$ 或者 $2 \\mathrm { m L } / \\mathrm { m } ^ { 3 }$ 复合芽孢杆菌（ $4 { \\times } 1 0 ^ { 8 }$ CFU/mL）[36-37]。此外，在饲粮中添加金银花、黄芪等中草药或植物提取物等能够提高动物的细胞修复能力，改善呼吸道黏膜屏障[64]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3 合理免疫和用药",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "合理免疫及用药能够有效地增强畜禽的局部免疫功能。具体措施有：1）通过点眼、滴鼻以及喷雾等方法免疫，做好新城疫、传染性支气管炎等呼吸道疾病的疫苗接种。研究表明，猪呼吸道是黏膜免疫的理想位点[65]，通过鼻腔免疫猪肺炎支原体弱毒株，呼吸道IgA 和免疫球蛋白G（IgG）分泌细胞显著增加，能够有效提高呼吸道黏膜局部的体液免疫应答[6]。通过点眼、滴鼻以及喷雾等方法免疫能够有效刺激呼吸道黏膜免疫细胞，产生免疫球蛋白、细胞因子等提高呼吸道局部免疫功能，提高呼吸道黏膜免疫屏障[67]。2）畜禽场要根据实际情况合理选用抗菌药物。研究表明，呼吸道菌群对抗菌药物的敏感性有明显的区域性与区域差异[68]，因此要尽可能减轻药物对畜禽呼吸道正常菌群的影响，合理选择抗菌药物，增强畜禽的免疫力。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4小结 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "呼吸道黏膜组织各组分相互作用，形成了有机的网络，对于保护呼吸道健康意义重大。近年来，随着研究方法的创新和进步，为研究黏膜屏障提供了良好的技术，但呼吸道微生物作用方式、呼吸道黏膜免疫机理等问题都亟待我们去探索。加强呼吸道黏膜屏障的研究，深入了解呼吸道黏膜屏障的作用机制，进而为畜禽呼吸道疾病的预防和治疗提供全新的方法，对于健康养殖的发展意义重大。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] HOLTKAMP D J,KLIEBENSTEIN JB,NEUMANN EJ,et al.Assessment of the economic impact of porcine reproductive and respiratorysyndrome viruson U.S. pork producers[J].Journal of Swine Health & Production,2013,21(2):72-84.   \n[2] SALAMA S S.Preliminary Study on Bacterial Strains Used in the Preparation of Polyvalent Inactivated Vaccine Against Chronic Respiratory Disease in Chickens[J].Global Veterinaria, 2015,14(3):287-291.   \n[3] LOW D.Reducing antibioticuse in influenza: challengesand rewards[J].Clinical Microbiology and Infection,2008,14(4):298-306.   \n[4]魏刚才,郑爱武.家禽的第一道防范病原微生物入侵的屏障——黏膜系统的\"护卫\"组合 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "性功能[J].中国动物保健,2008,6:79-83.   \n[5]NIKITASG,COSSARTP.Adherensjunctionsandpathogenentry[J].Sub-Cellular Biochemistry,2012,60:415-425.   \n[6]吴晓东,施毅.气道防御屏障[J].中国呼吸与危重监护杂志,2011,10(3):301-304.   \n[7]游曼清,王宋平.气道上皮屏障在支气管哮喘防御机制中的研究进展[J].国际呼吸杂 志,2013,33(17):29-33.   \n[8] CRYSTAL R G,RANDELL S H,ENGELHARDT J F,et al.Airway epithelial cels: current concepts and challenges[J].Proceedings of the American Thoracic Society,2008,5(7):772-7.   \n[9]GANESAN S,COMSTOCK A T,SAJJAN U S.Barrier function of airway tract epithelium[J].Tissue Barriers,2013,1(4):e24997-e24997.   \n[10]魏刚才,梁秀荣,郑爱武.呼吸道黏膜保护与鸡新城疫的控制[J].养禽与禽病防 治,2008,06:9-11.   \n[11]BARTLETT J,FISCHER A,MCCRAY P B Jr.Innate Immune Functions of the Airway Epithelium[J].Contributions to Microbiology,2008,15:147-63.   \n[12]RANDELL S H.Airway Epithelial Stem Cells and the Pathophysiology of Chronic ObstructivePulmonaryDisease[J].ProceedingsoftheAmericanThoracic Society,2006,3(8):718-25.   \n[13]DAVIDP,RICHARDL.Epithelialcellsandairwaydiseases[J].Immunological Reviews,2011,242(1):186-204.   \n[14]黄武锋.高迁移率族蛋白1(HMGB1)对气道上皮屏障功能失调的机制研究[D].南方医科 大学,2014.   \n[15]吴晓东,施毅.气道防御屏障[J].中国呼吸与危重监护杂志,2011,10(3):301-304.   \n[16]PEREZMORENO M,FUCHS E.Catenins: keeping cells from getting their signals crossed[J].Developmental Cell,2006,11(5):601-612.   \n[17]纪笑英.Th2/Th17偏转微环境对人支气管上皮细胞重塑的作用及其机制研究[D].博士学 位论文.长沙：中南大学,2013.   \n[18]呙于明,刘丹,张炳坤.家禽肠道屏障功能及其营养调控[J].动物营养学 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "报,2014,26(10):3091-3100. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[19] 游曼清,王宋平.气道上皮屏障在支气管哮喘防御机制中的研究进展[J].中华哮喘杂志:电子版,2013,7(5):29-33.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[20]KAST JI,WANKE K,SOYKA M B,et al.The broad spectrum of interepithelial junctions in skin and lung[J].Journal of Allergy & Clinical Immunology,2012,130(2):544-547. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[21] 段甦,矫健,张罗.组胺对呼吸道上皮紧密连接表达的影响[J].中国耳鼻咽喉头颈外 科,2015,22(8):426-430. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[22] 游曼清.布地奈德对哮喘小鼠气道上皮occludin 和 E-cadherin 表达的影响[D].硕士学位论文.泸州：泸州医学院,2014",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[23]SAWADA N.Tight junction-related human diseases[J].Pathology International,2013,63(1):1-12. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[24] 车东升,潘丽,钟荣珍,等.闭合蛋白:结构、功能及其相关调节机制[J].动物营养学报,2013,25(12):2783-2789.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[25]BERKES J,VISWANATHAN V K,SAVKOVIC S D,et al.Intestinal epithelial responses to entericpathogens: effects on the tight junction barrier,ion transport,and inflammation[J].Gut,2003,52(3):439-451. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[26] 邢晓辉,李力仙,郭天林,等.Claudin 蛋白在紧密连接中的作用机制及与疾病的关系[J].中华临床医师杂志:电子版,2013,7(23):229-231.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[27] GEORAS S N,REZAEE F.Epithelial barrier function: At the front line of asthma immunology and allergic airwayinflammation[J].Journal ofAllergy & Clinical Immunol0gy,2014,134(3):509-520. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[28] AUVYNET C,ROSENSTEIN Y.Multifunctional host defense peptides: antimicrobial peptides,thesmallyetbigplayersininnateandadaptiveimmunity[J].Febs Journal,2009,276(22):6497-6508. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[29]LINDEN S K,SUTTON P,KARLSSON N G,et al.Mucins in the mucosal barrier to infection[J].Pragmalinguistica,2008,1(3):183-197. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[30]THORNTON D J,ROUSSEAU K,MCGUCKIN M A.Structure and function of the polymeric mucins in airways mucus[J].Physiology,2008,70(1):459-486. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[31] JOHNSON D C.Airway mucus function and dysfunction[J].New England Journal of Medicine,2011,364(10):2233-2247. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[32]强丽霞,石昭泉.MUC5AC与气道黏液高分泌[J].国际呼吸杂志,2011,31(5):385-387.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[33] ROSE M C,NICKOLA T J,VOYNOW J A.Airway mucus obstruction: mucin glycoproteins,MUC gene regulation and goblet cell hyperplasia[J].American Journal of Respiratory Cell & Molecular Biology,2001,25(5):533-537. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[34]SOHAIL M U,HUME M E,BYRD J A,et al.Molecular analysis of the caecal and tracheal microbiome of heat-stressed broilers supplemented with prebiotic and probiotic[J].Avian Pathology Journal of the W.V.P.A,2015,44(2):67-74. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[35]孙春阳.复合芽孢杆菌喷剂对鸡舍环境及肉鸡呼吸道菌群结构的影响[D].硕士学位论文.北京：中国农业科学院,2014",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[36] 潘康成,古从伟,杨晓尧,等.枯草芽孢杆菌Pab02喷雾剂对肉鸡呼吸道菌群的影响[J].中国兽医学报，2012,32(3):387-392.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[37]栾素军.芽孢杆菌喷雾制剂对鸡舍环境及肉鸡呼吸道黏膜屏障的影响[D].硕士学位论文.北京：中国农业科学院,2016",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[38] RANGEL-MORENO J,CARRAGHER D,RANDALL T D.Role of lymphotoxin and homeostatic chemokines in the development and function of local lymphoid tissues in the respiratory tract[J].Inmunologia,2007,26(1):13-28. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[39] TANGO M,SUZUKI E,GEJYO F,et al.The presence of specialized epithelial cells on the bronchus-associated lymphoid tissue (BALT） in the mouse[J].Archives of Histology & Cytology,2000,63(1):81-9. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[40] 雷娜,李娴,林青.sIgA 在呼吸道黏膜免疫中的作用[C]//世界中医药学会联合会首届中医全球化与人类健康高峰论坛，[S.1.]:[s.n.]:2011：303-310.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[41]杨树宝.鸡呼吸道相关性淋巴组织发育及其免疫功能发生的研究[D].博士学位论文.长春：吉林农业大学,2014",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[42] 闫梦菲,康海泓,杨倩.鸡鼻腔组织学特点及鼻相关淋巴组织分布的研究[J].畜牧兽医学",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "报,2014,45(12):2043-2049. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[43] 冯小刚.鸡鼻相关淋巴组织的发育和功能建立[D].硕士学位论文.长春：吉林农业大学,2013.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[44]王悦芸,刘琪,安欣宇,等.黏膜免疫系统及黏膜免疫研究进展[J].畜牧与兽医,2015,47(7):116-119.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[45]吕茂杰,梁武,何召庆,等.动物黏膜免疫系统的研究进展[J].黑龙江畜牧兽医,2013,15:36-39.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[46]张蕊,高雪丽,郑世民.家禽黏膜免疫系统与疫苗免疫[J].中国家禽,2012,34(16):46-48.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[47]PETERSON D A,MCNULTY N P,GURUGE JL,et al.IgA Response to symbiotic bacteria as a mediator of gut homeostasis[J].Cell Host & Microbe,2007,2(5):328-339. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[48]MACPHERSON A J,HUNZIKER L,MCCOY K,et al.IgA responses in the intestinal mucosa againstpathogenicandnon-pathogenicmicroorganisms[J].Microbes& Infecti0n,2001,3(12):1021-1035. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[49]SAINI M S,LIBERATI D M,DIEBEL L N.Sequential changes in mucosal immunity after hemorrhagic shock[J].American Surgeon,2001,67(8):797-801. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[50] 李鹏成,刘志学,高君恺,等.猪呼吸道 IgA 和 IgG 分泌细胞的分布[J].畜牧兽医学报,2010,41(7):873-877.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[51]蔡晓华,王全溪.呼吸道黏膜免疫的综述[C]//福建省畜牧兽医学会畜禽传染病防治专业委员会猪病学术研讨会.福清：福建省畜牧兽医学会，2009:160-163.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[52] SATO S,KIYONO H.The mucosal immune system of the respiratory tract[J].Current Opinion in Virology,2012,2(3):225-232. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[53]MCCORMICK S,SHALER C R,XING Z.Pulmonary mucosal dendritic cels in T-cell activation: implications for TB therapy[J].Expert Review of Respiratory Medicine,2011,5(1):75-85. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[54] 来薛,赵丹,俞庆声,等.中医药对呼吸道黏膜免疫影响的研究进展[J].中华中医药杂志,2013,1:164-167.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[55]吴高慧,李超乾.呼吸道黏膜免疫的研究进展[J].国际呼吸杂志,2007,27(22):1711-1714.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[56]KNIGHT D A,HOLGATE S T.The airway epithelium: Structural and functional properties in health and disease[J].Respirology,2003,8(4):432-446. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[57]REGUEIRO V,MORANTA DCAMPOS M A.Klebsiella pneumoniae increases the levels ofTol-like receptors2and 4 inhumanairwayepithelial cels[J].Infection&Immunity,2009,77(2):714-24.  \n[58]李聪.不同浓度氨气对肉鸡生长性能及呼吸道黏膜屏障的影响[D].硕士学位论文.北京：中国农业科学院,2014.  \n[59] 范肖肖.日粮维生素A添加水平与应激对肉仔鸡呼吸道黏膜免疫的影响[D].硕士学位论文.泰安：山东农业大学,2015.  \n[60] FAN X,LIU S,LIU G,et al.Vitamin A deficiency impairs mucin expression and suppressesthemucosalimmunefunctionoftherespiratorytractinchicks[J].PlosOne,2015,10(9):e0139131.  \n[61]艾琳,李学民,刘文华,等.维生素 A 对家禽呼吸道黏膜的调节作用[J].中国家禽,2013,35(24):54-55.  \n[62]郭超.维生素A与慢性阻塞性肺疾病[J].中国临床研究,2008,21(1):102-103.  \n[63]王迪.乳酸菌调节的雏鸡呼吸道菌群变化及免疫调节作用研究[D].硕士学位论文.长春：吉林农业大学,2015.  \n[64]魏刚才,陈永耀,齐红霞.家禽呼吸道黏膜保护措施[J].中国家禽,2006,28(1):31-32.  \n[65]杨倩,庾庆华,李玉磊.猪呼吸道淋巴组织发育的亚显微结构变化[J].畜牧兽医学报,2006,37(4):374-378.  \n[66]李云锋,王建美,李鹏成,等.猪肺炎支原体弱毒株与佐剂配合鼻腔免疫对仔猪呼吸道抗体分泌细胞的影响[J].南京农业大学学报,2013,36(1):103-107.  \n[67]张鉴日,张福亮.维护呼吸道黏膜完整的措施[J].中国畜禽种业,2010,6(9):149-150.  \n[68]龚大春.鸡呼吸道正常菌丛对抗菌药物敏感性的研究[J].长江大学学报：自科版,2014,(23):30-32.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Structure and Functions of Mucosal Barrier of the Respiratory Tract in Livestock and Poultry and ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Improvement Measures ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "SUN Yongbo LUAN Sujun WANG Ya SA Renna\\* ZHANG Hongfu (State Key Laboratory of Animal Nutrition, Institute of Animal Science, Chinese Academy of Agricultural Science,Beijing 100193, China) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Respiratory mucosal barrier is an important barrier to the body's defense,including mechanical barriers，chemical barriers，microbial barriers and immune barriers，organically combined together to prevent the invasion of harmful substances to protect the respiratory health. Dust, harmful gases and temperature, humidity and other factors in animal house are easily lead to respiratory diseases of livestock and poultry, resulting in respiratory mucosal injury, aggravate severity of the disease,and even induce organ pathology injury. In this paper, we summarized the structure and functions of respiratory mucosal barrier and the measures to improve the mucosal barrier of the respiratory tract in livestock and poultry in order to provide theoretical basis for further study of respiratory mucosa barrier and prevention of respiratory diseases of livestock and poultry. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Key words: livestock and poultry; respiratory tract; mucosal barrier; improvement measures ",
+        "page_idx": 13
+    }
+]

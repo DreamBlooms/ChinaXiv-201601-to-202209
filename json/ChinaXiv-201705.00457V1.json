@@ -1,0 +1,267 @@
+[
+    {
+        "type": "text",
+        "text": "Single-indicator-based Multidimensional Sensing: Detection and Identification of Heavy Metal lons and Understanding the Foundations from Experiment to Simulation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yumin Leng1,²,Sihua Qian¹,Yuhui Wang1,Cheng ${ \\mathsf { L } } { \\mathsf { u } } ^ { 2 }$ ,Xiaoxu Ji²,Zhiwen Lu²& Hengwei Lin1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Multidimensional sensing offers advantages in accuracy,diversityand capability for the simultaneous detection and discrimination of multiple analytes, however,the previous reports usually require complicated synthesis/fabrication process and/or need a variety of techniques (orinstruments)to acquire signals.Therefore,to take fulladvantages ofthisconcept, simple designs are highly desirable. Herein,a novel concept is conceived to construct multidimensional sensing platforms based ona single indicatorthat has capability of showing diverse color/fluorescence responses with the addition of different analytes.Through extracting hidden information from these responses, such as red, green and blue(RGB)alterations,a triple-channel-based multidimensional sensing platform could consequently befabricated,and the RGB alterations are further applicable to standard statistical methods.As a proof-of-concept study,a triple-channel sensing platform is fabricated solely using dithizone with assistance of cetyltrimethylammonium bromide (CTAB)for hyperchromicity and sensitization,which demonstrates superior capabilities in detection and identification often common heavy metalions attheirstandard concentrations of wastewater-discharge of China.Moreover,this sensing platform exhibits promising applications in semi-quantitative and even quantitative analysis individuals of these heavy metal ions with high sensitivity as well.Finally,density functionaltheory calculations are performed to reveal the foundations for this analysis. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Multidimensional sensing devices,which ofer advantages inaccuracy,diversityand capability for the simultaneous detection and discrimination of multiple analytes,have received increasing attention in recent years1-24. Traditionall,thre strategies are often employed to construct multidimensional sensing systems: i)combining a varietyofcros-reactivelycolorimetricorfluorometric indicators (i..sensorarray approach)1-1;ii) mechanicaly incorporatingseveral,such as mass-sensitive,capacitiveand calorimetric transducers ontoasinglechip (i.e. smart chipapproach)l3-15;and ii integratingfluorescent, phosphorescent,light-scattering,absorbing,and/or electrochemiluminescent (ECL)reporters on a molecule ora nanoparticle (i.e.lab-on-a-molecule/nanoparticle approach)16-24 These effrts have made great progress toward developing multidimensional sensing systems, however, they either require complicated synthesis/fabrication process and/or need a varietyof techniques (or instruments)to acquiresensing signals,thus limiting their widespread applications.Inorder to take fulladvantages of the concept of multidimensional sensing,more simple design strategies are highly desirable and have in fact emerged recently.For example,Ouyang et al. reported a visual sensor array for recognition and analysis of proteins using two types offluorescent gold nanoclusters25.Song et al. designed and fabricated microchips for recognition of metal ions based ona single indicator via multiple fluorescent channels26,27.Encouraged by these advances, we are interested in seeking even more simple but general strategies to construct multidimensional sensing systems. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/0886558d2a3db3a320c49569cc3a85406eedeb92b6d6172e8aaa4dd908596525.jpg",
+        "img_caption": [
+            "Figure1.Schematic illustrationof the concept of a single-indicator-based triple-channel multidimensional sensing platform. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Inspired by the knowledge that certain indicators show distinct color or fluorescent responses to diffrent analytes25-29,inthis current study,atriple-channel-based multidimensional sensing platform is proposed to fabricate through extracting more hidden information,such as red,greenand blue(RGB)alterations,from the color orfluorescent responses ofasingle indicator.As a proof-of-concept study,dithizone was taken as an example of the single indicator.Through extracting RGBcolor alterations of dithizone with the addition of diverse metal ions,atriple-channel based multidimensional sensing platform could in principle be fabricated.Importantly, much better sensing performances are achieved with assstance by the addition of cetyltrimethylammonium bromide (CTAB),a surfactant that is known for hyperchromicity and sensitization to a probe. This sensing platform is found to beexcellentin the detection and identification of ten common heavy metal ions at their standard concentrations of wastewater-discharge of China.In addition,this sensor also shows great potentials in semi-quantitative and even quantitative analysis each of these heavy metal ions with high sensitivity.The approach to multidimensional sensing systems is considered to be maximall simplified,including no need complicated synthesis,fabrication and utilization of expensive instruments. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The interactions between dithizone and heavy metal ions had solely been investigated from experimental characterization3or conjecture31.Herein,the experimental means and density functional theory(DFT)calculations are performed to clarify the nature of interactions between dithizone and diverse metal ions.The accurate chelates of dithizone products and nine heavy metal ions are determined at B3LYP/6-31G\\*level.The corresponding frontier molecular orbital energies (i.e.HOMOs and LUMOs)and electronic distributions of the optimized chelates are also determined.More importantly, the calculated HOMO-LUMO gaps are found in good agreement with the experimental data,confirming the reliabilityofthe optimizedconfigurations.Thecombinationof experimental characterizations and theoretical calculations demonstrate that the distinctcolor responses of the probe to metal ions result from the different interactions,electron distributions and transitions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It's known that certain indicators show distinct color orfluorescence responses to diferent analytes25-29.For example,the dithizone and CTABco-modified gold nanoparticles had been foundto respond ten types of heavy metal ions with diferent colors in our previous study29.Based on this knowledge,a triple-channel-based multidimensional sensing platform could be attmpted to fabricate through simply extracting red,green and blue (RGB)alterations from the indicator'scolor responses with the addition of diverse analytes,as shown in Fig.1. These RGB alterations are also applicable to standard statistical methods (e.g.Hierarchical clustering analysis (HCA)and principal component analysis (PCA)) for further evaluating the capability ofsuch a sensing platform in detection and discrimination of multiple analytes. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To do a proof-of-concept study,dithizone was taken as an example in this study, which had been reported showing diferent color responses to diverse metal ions32,33. Given requirements of the practical application, ten common heavy metal ions (i.e. $\\mathrm { H g } ^ { 2 + }$ 0 $\\mathrm { C d } ^ { 2 + }$ $\\mathrm { P b } ^ { 2 + }$ $\\mathrm { C r ( V I ) }$ 0 ${ \\mathrm { C o } } ^ { 2 + }$ $\\mathrm { N i } ^ { 2 + }$ ${ \\bar { \\mathrm { C u } } } ^ { 2 + }$ $Z \\mathrm { n } ^ { 2 + }$ $ { \\mathrm { M n } } ^ { 2 + }$ ,and ${ \\mathrm { A g } } ^ { + }$ )at their standard concentrations of wastewater-discharge of China (Supplementary Information (SI) Table S1)are evaluated4. As shown inFig.S1(SI),dithizonedoes show diferent colorresponses to sixofthe selected ten heavy metal ions (i.e. ${ \\mathrm { C o } } ^ { 2 + }$ $\\mathrm { N i ^ { 2 + } }$ 0 $\\mathrm { C u } ^ { 2 + }$ $Z \\mathrm { n } ^ { 2 + }$ $ { \\mathrm { M n } } ^ { 2 + }$ ,and ${ \\mathrm { A g } } ^ { + } .$ ),but not to four of them (i.e. $\\mathrm { H g ^ { 2 + } }$ $\\mathrm { C d ^ { 2 + } }$ $\\mathrm { C r ( V I ) }$ ,and $\\mathrm { P b } ^ { 2 + }$ ),might be due to their relativelylowconcentrations of wastewater-discharge standard.Through extracting the RGB alterations from thesecolor responses,a triple-channelsensing platform is fabricated,which clearly shows different recognition patterns forthose six metalionsthatcan producecolorchanges todithizone (Fig.S2in SI).Moreover, when these RGB alterations are subjected to standard statistical analysis (e.g. HCA and PCA),similar results as those triple-channel recognition patterns are observed (Fig.S3 in SI). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Although the above results verified our concept,the relatively poor detection performance may restrict its practicalapplications.However, keping in mind that the sensitivity of a probe might be significantly improved withthepresenceofsurfactants (i.e.well-knownsensitization effects ofsurfactants)35-39,andacationic surfactant CTAB was attempted to sensitize dithizone's response to metal ions.It's astonishing to us that much stronger responses of dithizone to the ten heavy metal ions are observed with the addition of CTAB.The sensitization effects of CTAB here probablycanbe ascribedto itssolubilization capacityto dithizone inaqueous solution,and meanwhile forming a microenvironment that favouring interaction between metalions and the probe35-39. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/09e71eac52307d87d8936a41a167026a4c3c74de31690259b6e925ab3ba01c83.jpg",
+        "img_caption": [
+            "Figure 2.Performances of the single-indicator-based sensing platform to multiple metal ions.(a) Color images of the dithizone-CTAB mixture before and after exposure to ten heavy metal ions attheir standard concentrations of wastewater discharge of China,and the color diference map.For purposes ofvisualization, thecolor range of the diffrence map was expanded from 4to8 bits percolor (RGB rangeof4-19 expanded to 0-255). $( \\mathbf { b } , \\mathbf { c } )$ Recognition patterns (b)and HCA(c) for the ten heavy metal ions at their wastewater discharge standard concentrations of China and a control based on their corresponding $\\Delta$ RGB values obtained from the \"before\"and \"after\"images.No confusions or errors in classfication were observed in 66 trials.Error bars in (b) represent standard deviations of six parallel measurements. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To obtain beter sensing performances to metal ions with the dithizone and CTAB ensemble,further optimized experiments are performed.First of all, $3 0 \\mu \\mathrm { M }$ of dithizone was selected and fixed (for observing a clearly colored solution),and different ratiosof CTAB to dithizone were examined.As seen inFig.S4(SI),the color responses (described by the total Euclidean distances,EDs,i.e.square rootof the sums of the squares of the $\\Delta \\mathrm { R G B }$ values)of the mixture to $5 \\mu \\mathrm { M C d } ^ { 2 + }$ are found to be increased and reach a maximum at the ratio of 3:1 (CTAB to dithizone),and then drop down at higher ratios.Secondly, $\\mathrm { \\Delta p H }$ influences on the color responses of thedithizone and CTAB mixture to metalions were investigated.Experimental results exhibited that higher pH conditions (e.g. $\\mathrm { \\ p H } > 7$ )are in favour of the recognition of metal ions,but precipitations tend to appear due to the formation of metal hydroxides if $\\mathrm { \\ p H } > 8$ Hence,a $9 0 \\mu \\mathrm { M }$ CTAB and $3 0 \\mu \\mathrm { M }$ dithizone mixture in $\\mathrm { \\bar { p } H 7 . 4 }$ buffer is used as the optimal condition for the detection of metal ions in the following study. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The color responses of the single indicator (i.e.dithizone, $3 0 \\mu \\mathrm { M } _ { \\cdot } ^ { \\cdot }$ in the presence of CTAB $( 9 0 \\mu \\mathrm { M } )$ to the ten common heavy metal ions at their wastewater-discharge standard concentrations of China are investigated.For further reducingthe instrumental requiements,an ordinary flatbed scanner (or evena digital camera) is used to acquire digital images.As shown in Fig.2a,from thecolor profiles of the dithizone-CTAB mixture in the absence (named \"before\" images)and presence (named “after”images)of metal ions,distinctive color changes are observed toeach of the ten heavy metalions,even by naked eye.For quantitative comparisons of these color changes,a diference map can beacquired by taking the difference of the RGB values fromthe“before\"and \"after\" images. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Through exctracting the RGB alterations of the dithizone and CTAB mixture after addition of metalions (the fulldata set are summarized in Table S2 of SI),a triple-channel sensing platform could thus be constructed.To probe reproducibilityof the sensing system and further statistical analysis,sextuple data are acquired.As shown inFig.2b,theten heavy metal ions exhibit distinctRGB recognition paterns (canalsobecalled fingerprints)at their wastewater-discharge standard concentrations with good reproducibility, which demonstrates the excellnt detection and discriminationcapabilityof this sensing system.The multiple dispersion of this colorimetric sensor data requiresa clasificationalgorithm thatuses the fulldimensionalityof thedata.Herein,HCA,which is a model-free method based on the grouping of the analyte vectors according to their spatial distances in their full vector space is employed40,41.On thebasis of the clustering of the sensor responsedata in the three-dimensional △RGB color space (Table S2 in SI),dendrograms formed byHCAare depicted inFig.2c.Remarkably,allthe ten heavy metalions and a controlare accurately classified with no errors out of66cases.This three-dimensional response paterns are also explored byPCA,which is astatisticaltreatment used to reduce multidimensional data for easier interpretation42.The resulting two-dimensional PCA score plot (Fig.S5in SI) shows clear clustering of ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "After Image Difference Map   \na Before Image △RGB ·。。.。 1 3 5 6 8 10 15 20μM 1 3 5 68101520μM △RGB . . . . 1 1 1 3 5 6 8 101520μM 1 3 5 6 8 10 1520μM   \nb C d 120 \"Dithizone+CTAB 120 ·Dithizone+CTAB 150 ·Dithizone 100 Dithizone PC2 72 5 6 [Cd²+] (uM)   \n6030 R²=0.999 D80 604020 R2=0.99 22.7 Control 1 3 [Hg21 (m) 0 0 -120 10 0 5 10 15 20 0 5 10 15 20 -4 4 1220 2836 [Hg²+] (uM) [Cd²+] (μM) PC1 (97.2%) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "the data using only the first two principal components (representing $9 1 . 5 \\%$ of the total variance),with excellent discriminatorycapacity.Thelarge distancebetween clusters inthePCAscore plotreflects significantlydifferential responses ofthe sensing system to heavy metal ions at their wastewater-discharge standard concentrations. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To further explore capabilities of this sensing platform,such as responses at other concentrations rather than wastewater-discharge standards,potentialy quantitative analysis and limitof detection (LOD),the color responses ofdithizone-CTAB mixture with the addition ofan individual metal ion atvarious concentrations are examined $\\mathrm { \\cdot } \\mathrm { H } \\mathrm { g } ^ { 2 + }$ and $\\mathrm { C d } ^ { 2 + }$ are taken as examples).As shown in Fig.3a, more and more intense color responses are observed with increasing concentrations of the two metal ions up to about $1 0 \\mu \\mathrm { M }$ ,and these color changes can further be quantitatively indicated with total EDs (Fig. $^ { 3 \\mathrm { b , c } }$ ). Importantly, nice linear fitting curves are obtained with excellent correlations ( $\\mathrm { R } ^ { 2 } = 0 . 9 9 9 \\mathrm { \\Omega }$ between the total EDs and the concentrations of the two representative heavy metal ions from 1 to $1 0 \\mu \\mathrm { M }$ ,which actually provide possibilities for quantitative analysis.By means of extrapolating these fitting curves,the LODs are estimated to be $0 . 1 3 \\mu \\mathrm { M }$ and $0 . 1 4 \\mu \\mathrm { M }$ for $\\mathrm { H g } ^ { 2 + }$ and $\\mathrm { C d } ^ { 2 + }$ ,respectively (see Table S3 in SI for fitting parameters),both being wellower than their concentrations of wastewater-discharge standard of China.Interestingly,PCA furtherdemonstrates thatthe dithizone-CTAB solution can be applied for not only effective identification and discrimination between $\\mathrm { H g } ^ { 2 + }$ and $\\mathrm { C d } ^ { 2 + }$ ,but their different concentrations (Fig.3d).Furthermore,it's worthy to note herein,the comparisons of the color responses of dithizone to $\\operatorname { C d } ^ { 2 + }$ and $\\mathrm { H g } ^ { 2 + }$ in the absence and presence of CTAB clearly show that the sensitivities of dithizone are significantly enhanced with the addition of CTAB (Fig. ${ 3 \\mathrm { b } , \\mathrm { c } } ^ { \\cdot }$ ).Therefore,theas-developed single-indicator-based sensing platform demonstrates not only great potentials in detection and diferentiation of multiple metal ions,but semi-quantitative and even quantitativeanalysis of individuals with high sensitivity, based on thecorsponding color response profiles,RGB recognition paterns, HCA/PCA,and EDs fiting curves. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To reveal the natureofdistinctcolor responses ofdithizone to diverse metal ions,of which laythe foundation for constructing the as-proposed triple-channel multidimensional sensing platform,we extend our efforts to applythe experimental means and density functionaltheory(DFT) calculations to studythe interactions between the probe and heavy metal ions. Experimentally, the UV-vis absorption at the maximal wavelength $( \\lambda _ { \\operatorname* { m a x } } )$ is mainly attributed to the electron transitions of HOMO to $\\mathrm { L U M O ^ { 4 3 - \\bar { 4 } 6 } }$ As shown in Fig.S6 (SI),discinct UV-vis spectra are observed with the addition of diferent metal ions,and the corresponding HOMO-LUMO energy gaps are calculated (see Table 1).But it's hard to achieve useful diferentiation information solely from these spectra.Nevertheless,the HOMO-LUMO energy gaps ofthe sensing system with each of these heavy metal ions could be calculated.Theoretically,DFThas been proven to be a powerful tool for determining the molecular structures and molecular orbitals45-52.Therefore,DFTcalculations are applied to determine the chelate structures of the probe to heavy metalions,and further for the corresponding HOMO to LUMO energy states. Based on the fact that dithizone decomposes to $\\mathrm { [ S C H _ { 2 } N _ { 4 } ] ^ { 2 - } }$ in alkaline solution²9,the chelates of $[ \\mathrm { S C } \\bar { \\mathrm { H } _ { 2 } } \\mathrm { N } _ { 4 } ] ^ { 2 - }$ to nine heavy metal ions (expect $\\mathrm { C r } ( \\mathrm { V I } ) \\mathrm { \\ : , \\ : }$ are actually performed.Note that the special structure of $\\mathrm { C r ( V I ) }$ (i.e. $\\mathrm { C r } _ { 2 } \\mathrm { O } _ { 7 } { } ^ { 2 - } )$ （204 would produce completely diferent structures with the probe from the other nine metal ions,and therefore, $\\mathrm { C r ( V I ) }$ will not be discussed below.Through extensive DFTcalculations using the optimized trial structures at B3LYP/6-31G\\*level,we obtained the accurate chelates of $\\mathrm { S C H } _ { 2 } \\mathrm { N } _ { 4 } \\mathrm { M }$ 0 $\\begin{array} { r } { \\mathbf { M } = \\mathbf { N i } , } \\end{array}$ Mn,Co,Cu,Zn,Pb,Hg,Cd,and Ag)(Fig.4).The shorter average distances of M-NHand M-Nfor Ni,Mn,Co,Cu,and Zn than that of Pb,Hg, ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/06fd53edb45ba8094237c3b1cca54cdea752999e04e46347da30bf33171e6a0e.jpg",
+        "table_caption": [
+            "Table 1. Comparison of the HOMO-LUMO energy gaps of the chelate structures of $[ \\mathsf { S C H } _ { 2 } \\mathbf { N } _ { 4 } ] ^ { 2 - }$ and heavy metal ions from DFT calculations and UV-vis measurements. Note: experimental HOMO-LUMO energy $\\mathrm { g a p s = h c / \\lambda _ { \\mathrm { m a x } } , h = 6 . 6 2 6 \\times 1 0 ^ { - 3 4 } . }$ .s, $\\mathrm { c } = 3 \\times 1 0 ^ { 8 } \\mathrm { m } / s$ ： "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"2\">HOMO-LUMO energy gaps (eV)</td></tr><tr><td>DFTcalculations</td><td>Experimental (Xmax/nm)</td></tr><tr><td>SCH2N4Cd</td><td>2.01</td><td>2.17 (570nm)</td></tr><tr><td>SCH2N4C0</td><td>2.09</td><td>2.12 (585 nm)</td></tr><tr><td>SCH2N4Zn</td><td>2.29</td><td>2.29 (541 nm)</td></tr><tr><td>SCH2N4Pb</td><td>2.30</td><td>2.38 (520 nm)</td></tr><tr><td>SCH2N4Cu</td><td>2.37</td><td>2.30 (540 nm)</td></tr><tr><td>SCH2N4Mn</td><td>2.42</td><td>2.52 (492 nm)</td></tr><tr><td>SCH2N4Hg</td><td>2.50</td><td>2.55 (485 nm)</td></tr><tr><td>SCH2N4Ag</td><td>2.58</td><td>2.55 (487 nm)</td></tr><tr><td>SCH2N4Ni</td><td>2.73</td><td>2.73 (455 nm)</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b019825ec1e4b44aac10628afa87097e8ee64d5e45a60421c3b566cf5ab03dc8.jpg",
+        "img_caption": [
+            "Figure 4.Density functional theory calculations.The optimized structures,HOMOs and LUMOs of the chelate structures of $\\mathrm { [ S C H _ { 2 } N _ { 4 } ] ^ { 2 - } }$ and heavy metal ions,as wellas the selected bond length parameters (A). "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Cd,and $\\mathrm { A g }$ reveal their stronger coordination capabilities with $[ \\mathrm { S C H } _ { 2 } \\mathrm { N } _ { 4 } ] ^ { 2 - }$ . The Cartesian coordinates of the optimized structures are summarized in Table S4(SI).Moreover,forthe purpose of clarifying the significant differences in the electronic distributionandtransitions amongthe optimized chelates,their molecularorbitals have been theoretically investigated on the basis of DFT calculations with B3LYP $/ 6 { - } 3 1 G ^ { * }$ level as well.As shown in Fig.4,the corresponding frontier molecularorbital energies (i.e.HOMOs and LUMOs)and electronic distributions ofthe optimized chelates are found tobe distinctivelydiffrent.Their HOMO-LUMO gaps and the frontier molecular orbital energies are presented in Tablel andFig.S7(SI).Thecalculated HOMO-LUMO gap increases in the order from $2 . 0 \\mathrm { e V }$ for $\\mathrm { S C H } _ { 2 } \\mathrm { N } _ { 4 } \\mathrm { C d }$ $2 . 1 0 \\mathrm { e V }$ for $\\mathrm { S C H } _ { 2 } \\mathrm { N } _ { 4 } \\mathrm { C o } , 2 . 2 9 \\mathrm { e V }$ for $\\mathrm { S C H } _ { 2 } \\mathrm { N } _ { 4 } Z \\mathrm { n } ,$ $2 . 3 0 \\mathrm { e V }$ for ${ \\mathrm { S C H } } _ { 2 } { \\mathrm { N } } _ { 4 } { \\mathrm { P b } } ,$ （204 $2 . 3 7 \\mathrm { e V }$ for $\\mathrm { S C H } _ { 2 } \\mathrm { N } _ { 4 } \\mathrm { C u }$ $2 . 4 2 \\mathrm { e V }$ for $\\mathrm { S C H } _ { 2 } \\mathrm { N } _ { 4 } \\mathrm { M n }$ 0 $2 . 5 0 \\mathrm { e V }$ for $\\mathrm { S C H } _ { 2 } \\mathrm { N } _ { 4 } \\mathrm { H g }$ $2 . 5 8 \\mathrm { e V }$ for ${ \\mathrm { S C H } } _ { 2 } { \\mathrm { N } } _ { 4 } { \\mathrm { A g } } ,$ to $2 . 7 2 \\mathrm { e V }$ for $\\mathrm { S C H } _ { 2 } \\mathrm { N } _ { 4 } \\mathrm { N i }$ Importantly, these calculated HOMO-LUMO gaps are found in high agreement with the experimental data(Table1),which confrms the assumed chelating structures of the probe to metal ions.Thecombination ofexperimental characterizationsand theoretical calculations demonstrate that the distinct color changes of the probe to heavy metal ions result from the different interactions,electron distributions and transitions. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The practical applicabilityoftheas-developed sensing platform is preliminarily evaluated using real wastewater samples (taken from Yongjiang River in Ningbo,China).Firstly,thereal watersample was spiked with the ten heavy metalions attheir standard concentrations of wastewater-discharge,and then subjectto the same analysis process as that ofin deionized water.As shown inFig.S8 (SI),clearlydistinct color response profiles of the sensor to each ofthe ten metalions are observed,even bythe naked eye.Similarly,the sextuple data are acquired to probe reproducibility of the sensing system and further for statistical analysis. Again,the as-developed triple-channel sensing platform exhibits distinct $\\Delta \\mathrm { R G B }$ recognition patterns to the ten heavy metal ions and are wellseparated from each other based on PCA and HCA (Fig.S9 in SI).These findings demonstrate that the single-indicator-based triple-channel sensing platform can potentiallbe applied in analysis of real wastewater samples. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In summary,a novel concept to fabricate multidimensional sensing platforms is proposed through simply extracting more hiddern information,such as RGB alterations,froma single indicator that could show distinct color or fluorescence responses to diverse substances.As a proof-of-concept study,a triple-channel multi-ion analysis platform is developed solelyusing dithizone with assistance of a surfactant (i.e.CTAB)for hyperchromicity and sensitization.Through extracting the RGB alterations of dithizone and CTAB mixture to ten common heavy metalionsattheir concentrations of wastewater-discharge of China,diferent recognition patterns (fingerprints)can be observed,and HCA/PCA further demonstrate its detection and discrimination capability. Moreover, this as-developed single-indicator-based sensing platform could as well as beapplied insemiquantitative and even quantitative analysis of a specific metal ions with high sensitivity based on their corresponding color response profiles and EDs fiting curves,respectively.To reveal the nature ofdistinct color responses of dithizone to metalions,DFTcalculations are employed todetermine their chelate structuresandthecorresponding HOMO-LUMO energy gaps. The high agreement of experimental characterizations and theoretical calculations demonstrate thatthe optimized chelatesare credible,and thedistinctcolorchanges ofthe probe to heavy metal ions result from the diferent interactions,electron distributions and transitions.Compared to the traditional strategies for multidimensional sensing systems,the greatest advantage of the as-proposed approach is considered to be maximally simiplify the fabrication process.Notably,this work is only regarded as a preliminary step for exploration and application of the suggested single-indicator-based multidimensional sensing concept, and we are now focusing on extending its applications.The more recent research found that multiple proteins could also be detected and discriminated through applying asingle Au nanoparticles-based probe,demonstrating great potentials of general applicabilityof the as-proposed concept,and the relevant results willbe published separately elsewhere later. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Methods ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Materials and instruments. Dithizone,cetyltrimethylammonium bromide (CTAB) and $ { \\mathrm { K } } _ { 2 }  { \\mathrm { C r } } _ { 2 }  { \\mathrm { O } } _ { 7 }$ were from Sinopharm Chemical Reagent Co.,Ltd (Beijing, China). $\\mathrm { M n } ( \\mathrm { C l O } _ { 4 } ) _ { 2 } { \\cdot } 6 \\mathrm { H } _ { 2 } \\mathrm { O }$ ， $\\mathrm { N i } ( \\mathrm { C l O } _ { 4 } ) _ { 2 } { \\cdot } 6 \\mathrm { H } _ { 2 } \\mathrm { O }$ $\\mathrm { C d } ( \\mathrm { C l O } _ { 4 } ) _ { 2 } { \\cdot } 6 \\mathrm { H } _ { 2 } \\mathrm { O }$ 2 $\\mathrm { H g } ( \\mathrm { C l O } _ { 4 } ) _ { 2 } { \\cdot } 3 \\mathrm { H } _ { 2 } \\mathrm { O }$ and $\\mathrm { Z n ( C l O _ { 4 } ) _ { 2 } { \\cdot } 6 H _ { 2 } O }$ were obtained from Strem Chemicals Inc. (Newburyport,USA). $\\mathrm { P b } ( \\mathrm { C l O } _ { 4 } ) _ { 2 } { \\cdot } 3 \\mathrm { H } _ { 2 } \\mathrm { O }$ and $\\mathrm { C o ( C l O _ { 4 } ) _ { 2 } { \\cdot } 6 H _ { 2 } O }$ were purchased from Sigma-Aldrich Co.(USA). ${ \\mathrm { A g N O } } _ { 3 }$ and 4-(2-hydroxyethyl)piperazine-1-ethanesulfonic acid (HEPES)were from Aladdin Reagent Co.Ltd (Shanghai, China). $\\mathrm { C u ( C l O _ { 4 } ) _ { 2 } { \\cdot } 6 H _ { 2 } O }$ was purchased from J&K Chemical Ltd.All chemicals were used as received without further purification.96-wellplates (Corning 3632)were obtained from Genetimes Technology.The stock solutions of metal ions were prepared using $5 0 \\mathrm { m M }$ HEPES $\\left( \\mathsf { p H 7 . 4 } \\right)$ buffer. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The $\\mathrm { \\ p H }$ measurements were performed using a PHS-3C pH meter. For all sensing experiments,imagings wereacquired with aflatbed scanner (Epson Perfection V300) in 96-wellplates. UV-vis absorption spectra were recorded usinga Lambda 950 UV-vis spectrophotometer from Perkin Elmer.Fourier transform infra-red (FT-IR) spectroscopy was performed using a Nicolet 6700 spectrometer. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Method for metal ions detection and discrimination. $1 . 0 \\mathrm { m L }$ of dithizone solution ( $\\mathrm { 1 . 0 { m M } }$ in $0 . 2  { \\mathrm { M } }$ $\\mathrm { \\Delta N a O H ) }$ was firstly mixed with $2 4 \\mathrm { m L }$ of CTAB solution ( $0 . 1 2 5 \\mathrm { m M }$ in $\\mathrm { H } _ { 2 } \\mathrm { O }$ ),and then mixed withHEPES buffer thatin the absence (control solutions)orin the presence of certain concentrations of metalions (work solutions) at a volume ratio of 3:1.The final concentrations of dithizone,CTAB and HEPES are $3 0 \\mu \\mathrm { M }$ $9 0 \\mu \\mathrm { M }$ and $1 0 \\mathrm { m M }$ 0 respectively. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$3 0 0 \\mu \\mathrm { L }$ of the control and work solutions were loaded into a 96-wellplate,respectively,and the “before(from the control solutions)and“after\"(from the work solutions)images were acquired onan Epson Perfection V300 photo flatbed scanner. Diference maps were acquired by taking the diference of the RGB values from the center of the indicator solution (in 96-wellplates) fromthe“before\"and\"after\" images using the commercial Photoshop software. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The chemometric analysis was performed on the color difference vectors using the Multi-Variate Statistical Package (MVSPv.3.1,Kovach Computing); inallcases,hierarchicalcluster analysis (HCA)and principal component analysis (PCA) were performed on the database library(Table S2)using the minimum variance for classification. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Analysis of metal ions in real samples.Metalions detection in wastewater from Yongjiang River(located in Ningbo,China) was taken as an example to preliminarily test the capability of the as-developed sensing platform for realsamples.The analysis procedure was the same as the above description, just by using wastewater from Yongjiang River instead of deionized water. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Calculations.The geometry optimizations of dithizone,dithizone products and thechelate structures of dithizone productand heavy metal ions,their molecular orbitals were performed by means of DFTmethods using the GaussianO3 quantum chemistry package at the B3LYP/6-31G\\* level. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "8649-8682 (2013)   \n3.Diehl,K.L.&Asln,E.VArrassingusingopticalmetodsforetectionohemicalandiologicalzards.Chemc.Rev. 42,8596-8611(2013)   \n4.Anzenbcr,PJubal,e,cio,A.&eo.E.Aracialochiloeac arrays. Chem.Soc.Rev.39,3954-3979 (2010).   \n5.Albert,K.J.et al. Cross-reactive chemical sensor arrays.Chem. Rev.100,2595-2626 (2000). 6.Kreno,L.E.et al.Metal-organic framework materials as chemicalsensors.Chem.Rev.112,1105-1125(2012).   \n7.Qian,S..&Lin,H.W.Colorimetrcsaraforetetionndentifatioofoganoosporusndbamatesticides. Anal. Chem.87,5395-5400 (2015).   \n8.Liu,L.&Ln,HWPaperbsedlorimericrrtestriforeletieadmquaitatieltiaalsis:aous detection of $\\mathrm { H g } ^ { 2 + }$ $\\mathrm { A g ^ { + } }$ ,and $\\mathrm { C u } ^ { 2 + }$ Anal. Chem.86,8829-8834(2014).   \n9.SelvakumarK,MotieL.&arglies,DEarticaleeiteractiosameansfodisnatigamongstucally similar isozymes.J.Am. Chem.Soc.137,4892-4895 (2015).   \n10.Liu,Y.&on,pramoleularsingafoalitatiedantiativealysisrganostesinterJA Chem. Soc.136,14223-14229 (2014).   \n11. Grenu,..etal.Forsetiscriiatioewentracsoficalarfareagetsaneiriics.JAm.moc., 4125-4128 (2014).   \n12.Zhang,Z.etalExpandedporphi-niosupramolecularassmblies:environmentallyesponsivesensors frorganicsolentsand anions.J. Am. Chem.Soc.137,7769-7774 (2015).   \n13.Hagleitner,C.etal.Smartsingle-chipgassensormicrosystem.Nature414,293-296 (2001).   \n14.Hierlemann,A.&Gutierrez-Osuna,R.Higher-orderchemicalsensing.Chem.Rev.108,563-613(2008).   \n15.Kwon,O..etalultimesioalonductingeanotubefoulrasesitiehemicanereagetsesing.NnoLe2 2797-2802 (2012).   \n16.Chen,K.,SuQ.&Schmitel,M.Designstrategiesforlab-n-a-moleculeprobesandrthogonalsensing.Chem.Soc.Rev.44, 136-160 (2015)   \n17.Schmitel,M.&Lin,H.-W.Quadruple-chanelsensing:amolecularsensorwithasingle typeofreceptorsiteforselectiveand quantitative multi-ion analysis.Angew. Chem.Int.Ed.46,893-896 (2007).   \n18.Ling,,GaoZEZou,Q,Li,N..&LuoH.ultidmensionalticalsesingpatforfordetectiofheparindesible molecular logic gate operation based on the phloxine B/polyethyleneimine sys 1.Anal.Chem.87,1575-1581(2015).   \n19.Wu,P.,i-ng,H-G.n-loigevceforisaioe based on manganese-doped ZnS quantum dots.Angew.Chem.Int.Ed.50,8118-8121(2011).   \n20.Lee,J.,,Jg,Juilplleooroidedoicesfale agent sensing application.ACS Nano 7,10139-10147 (2013).   \n21.Bajaj,A.taeodicoetaticelii Proc.Nat.Acad.Sci.USA106,10912-10916(2009).   \n22.Magri,DC.Fa,M.C.&Malla,C.JAodum-enabledpourbaixssor':atree-inputAgigateasalbon-olele for monitoring $\\mathrm { { N a ^ { + } } }$ pH and pE.Chem.Commun.50,1009-1011(2014).   \n23.Lu,Y,Kong,H.,Wen,E,Zang,S.&Zang,X.Lbongrapene: graeneoideasatriplehanelsensingdeviceforotein discrimination.Chem.Commun.49,81-83(2013).   \n24.SangL.J.&Wang,H.FAminophenylboronic-acid-conjugatedpolyacrylicacidMn-doped ZnSquantumdotforhighlysensitive discrimination of glycoproteins. Anal. Chem.86,5706-5712 (2014).   \n25.Xu,Setal.AisualesoaforaecgioalisfprotesgoebueiioreetGodaustes Anal Chem.86,11634-11639 (2014)   \n26.Huang,Y,LiF,Qin,M.,Jng,L.&Song,Y.Amulti-stopbandpotonic-rystalmicrochipforig-performancemetalion recognition based on fluorescent detection.Angew. Chem.Int.Ed.52,7296-7299 (2013).   \n27.Huang,Y.tal.Aphotochromicsensormicrochipforhigh-performancemultiplex metalionsdetection.SciRep.5,9724(2015).   \n28.Pan,L.etal.Trulyfluorescentexcitation-dependentcarbondotsandtheiapplicationsinmulticolorcelllarimagingand multidimensional sensing.Adv. Mater.27,7782-7787 (2015).   \n29.LengY.etal.Colorimetricresponseofdithzoneproductandhexadecyltrimethylammoniumbromidemodifedgoldnanoparticle dispersion to10 typesofheavy metalions: understanding theinvolved molecules from experiment to simulation.Langmuir 29, 7591-7599 (2013)   \n30.Ly,N.H.&Joo,S.Zn(I)oncentratiodependentRamanspectraintheditzonecomplex ongoldnanoparticlesrfacs in environmental water samples.Appl. Surf. Sci.356,1005-1011(2015).   \n31.Sedghi,R,eidari&bani,Jtsisrcterzatidlcatioolycdeethebsacide) nanocompositeascolorimetricchemosensorforvisualetectionoftracelevelsofHgandPbions.JHazardMater.85,09-16 (2015).   \n32.White,W.E.Dithizoneas an analytical reagent.J. Chem.Edu.13,369-373 (1936).   \n33.Wichmann,H.J. Isolation and detemination tra ofmet ls.Ind.Eng.Chem.Anal.Ed.11,66-72(1939).   \n34.Integratedwastewaterdischargestandard.Chinesenationalstandards.(GB8978-1996)Availableat:htp://englismepov.cn/ standards_reports/standards/water_environment/Discharge_standard/200710/t20071024_11803.htm.(Accessed:18th March 2016).   \n35.Pedro,J.A.etal.Surfacechargeofwiterionicsulfobetaine miceles with2-naphtholasafluorescentprobe.Langmuir28, 17623-17631 (2012)   \n36.Kumari,NDey,N,Ja,.&atacharya,SRatiometric,eversible,ndpartsperbilionlveldetectionofulipletoic transition metal ions usinga single probe in micelar media.ACS Appl.Mater. Interfaces 5,2438-2445 (2013)   \n37.Priebe,JPtal.echamelen-lienaureofzwirioicmicells:effctofcatioinding.Lngmur8,758-64(12).   \n38.Fiedler,H.D.etal.Cd(II)determinationin the presenceofaqueous micellar solutions.Talanta64,190-195(2004).   \n39.Nasr,A.T.,Alexander,K., Schreiner,L.J.& McAuley,K. crystal-violet micelle gel dosimeters: I. influence of recipe nd potential sensitizers.Phys.Med.Biol.60,4665-4683 (2015).   \n40.Haswell,S.J.Practical Guide to Chemometrics,(New York,1992)   \n41.Johnon,RA.&hn,DWAppledultivaateStatisticalnalysis,hed,(PrnticeHalUppeddleive,).   \n42.Jollife,I.T.Principal Component Analysis,(New York,2002)   \n43.Shiraish,scilso linkage under UV irradiation. Chem. Commun.48,5485-5487(2012).   \n44.Zhang,Pangia,Wng.&Lieoatiestigiticalotieseeocs the alkoxy-tuned1,3,4-oxadiazole derivatives.Mater. Chem.Phys.119,243-248 (2010).   \n45.Qi,D,ZangLang,an,Y.&Jang,Jtureofthteseea-bsotioaduusalbroadUble-sta of azulenocyanines: density functional theory studies.J.Phys.Chem.A114,134l1-13417 (2010).   \n46.Kityk,A.VAbsorptionndfuorscencespectaofeterocyclicisomersfromlong-range-corectedensityfunctionalthoryin polarizable continuum approach.J.Phys. Chem.A116,3048-3055 (2012).   \n47.Leng,Y.et al.A rapid and sensitive colorimetric assay method for ${ \\mathrm { C o } } ^ { 2 + }$ based on the modified Au nanoparticles (NPs): understanding the involved interactions fromexperiments and simulations.Talanta94,271-277 (2012).   \n48.Leng,Y,Zhang,M.,Song,C,Chen,M.&Lin,Z.Asemi-empiricalandAbInitioombinedapproachforthefullconformatioal searches of gaseous lysine and lysine- $\\mathrm { \\cdot H } _ { 2 } \\mathrm { O }$ complex.J.Mol. Struct.(THEOCHEM) 858,52-65 (2008).   \n49.Pena,I,anz,.E.,Lpez,J.C.&onso,J.LPreferedconformersofproteinogenicglutamicacid.J.Am.Cem.c.4, 2305-2312 (2012).   \n50.Baget,.Guo,,u,S&Jkle,gigarsisboegdioio stabilized by $\\mathrm { N { - } H \\mathrm { \\mathrm { . } . . \\mathrm { \\pi } } }$ interactions.Angew. Chem.Int.Ed.54,11191-11195 (2015).   \n51.Alonso,J.L.et al.The conformational behaviour of free D-glucose-at last. Chem Sci.5,515-522 (2014).   \n52.Pena,I,Cabezas,C.&lonsoJ.Lenucleosideuridinesolatednthegasphase.Ange.Chem.Int.Ed1734-30(0). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This work is supported by the Natural Science Foundation of China (21277149 and 51374132), Zhejiang Provincial Natural Science Foundation of China (LR13Bo50ool),and the Ningbo Science and Technology Bureau (2014B820l0).Y.L.would also like to thank the financial support from the Science and Technology Program of Education Department of Henan Province (14A430024), Natural Science Foundation of Nanyang Normal University (zx2014087)and China Postdoctoral Science Foundation (2015M581970).Z.L.would also like to thank the financial support from Technicians Troop Construction Projects of Henan Province (No.C20150029). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "AuthorContributions ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Y.L. performed the experiments,calculations anddrafted the manuscript.Y.L.,S.Q.,Y.W., C.L.,X.J.and Z.L.   \nanalysed the data.Y.W.and H.L.conceived the idea,designed the experiments,and wrote the paper. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Additional Information ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Supplementary information accompanies this paper at http://www.nature.com/srep ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Competing financial interests: The authors declare no competing financial interests. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "How to cite thisarticle: Leng,Y.etal. Single-indicator-based Multidimensional Sensing: Detection and Identification of Heavy Metal Ions and Understanding the Foundations from Experimentto Simulation. Sci. Rep.6,25354;doi: 10.1038/srep25354 (2016). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This work is licensed under a Creative Commons Attribution 4.0 International License.The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is notincluded under the Creative Commons icense, users will need to obtain permission from the license holder to reproduce the material.To viewacopy of this license,visit http://creativecommons.org/licenses/by/4.0/ ",
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,210 @@
+# DOI: 10.5846/stxb201507271565
+
+雒丽,赵雪雁,王亚茹,张钦,薛冰.高寒生态脆弱区农户对气候变化的感知——以甘南高原为例.生态学报,2017,37（2)：593-605.LuoL,ZhaoXWang,ZangQ，XueBFars’perceptioofliateangeinighfridoogcaleableregionaseofGnPlateau.Acta Ecologica Sinica,2017,37(2):593-605.
+
+# 高寒生态脆弱区农户对气候变化的感知以甘南高原为例
+
+雒丽¹，赵雪雁1，\*，王亚茹}，张 钦,薛冰²
+
+1西北师范大学地理与环境科学学院，兰州730070  
+2中国科学院沈阳应用生态研究所，沈阳110016
+
+摘要：气候变化作为人类当前面临的最严峻挑战，已对生态脆弱区农户生计产生严重的负面影响,明确农户对气候变化的感知对于制定有效的气候变化适应政策非常关键。以甘南高原为研究区,基于人户调查数据,构建了农户对气候变化的感知度指数,分析了甘南高原农户的气候变化感知特征,并采用经济计量模型分析了影响农户气候变化感知的关键因素。结果表明：(1)甘南高原农户对气温变化的感知能力强于对降水变化的感知,并对近期发生的、规模较大、影响较严重的极端天气记忆较深;(2)农户对气候变化的严重性及可能性感知较强烈,感知到的适应成本与适应功效也较高,但感知到的自我效能较弱，其气候变化严重性、可能性、适应功效、自我效能及适应成本感知度指数分别为3.76、3.34、3.43、2.85、3.53,且农区农户对气候变化的风险感知与适应感知均最强,半农半牧区次之,纯牧区最弱;(3)气候变化信息、农户的客观适应能力、农户对社会话语的信任度、适应激励均会影响农户的气候变化感知,其中,适应激励为最关键的影响因素,其与农户的气候变化适应功效感知、自我效能感知均呈正相关，而与风险感知、适应成本感知呈负相关。最后，针对如何提高农户气候变化感知的准确度,增强农户应对气候变化的能力，提出相关的政策建议。
+
+关键词：甘南高原；农户；气候变化;感知;适应
+
+# Farmers‘ perception of climate change in high-frigid ecological vulnerable region: a case of Gannan Plateau
+
+LUO $\mathrm { L i } ^ { 1 }$ ， ZHAO Xueyan1,\*，WANG Yaru1， ZHANG Qin'， Xue Bing² 1TheColegeofGeographyand Environment Scienceof North-westNormal University,Lanzhou 73O070,China 2Institute of Applied Ecology，Chinese Academy of Sciences，Shenyang11oo16,China
+
+Abstract:Globalclimatechange has increased thevulnerabilityof natural ecosystemsandbroughta hugechallnge to humanbeing，how toadapttoclimatechange hasbecomeahotspotin the world.Thefarmers whorelyonnaturalresources for livelihoods isoneofthevulnerable groups toadapt to climate change.Climate change hasa serious negative impacton thefarmers'livelihood，especiallyinthehigh-frigidcologicallyvulnerableregion.Perceptionofclimatechangeisthebasis of climate changeadaptation，clearing the features of climate change perception of farmers isconducive to a beter understandingof their responseaction.SelectingGannan Plateauas the studyarea,，basedon539 household surveydata and the MPPACC（Model of Private Proactive Adaptation to Climate Change），built a index of the farmers’perceptionof climate change,this paperanalyzes the featuresoffarmers‘perception toclimatechangeandthe keyfactors that affctthe farmers'perceptionof climate change byusing theeconometric model.Theresults showthat:（1）Farmers’perceptionof temperature change is more accurate than the perception of precipitation change, $7 9 . 9 6 \%$ of farmers have sensed accurately the trend of rising temperatures over the past 3O years，which is consistent with the meteorologicaldata,and only $3 6 . 9 2 \%$ of farmers havesensed the trendof rising precipitation，whichis inconsistent with the actual meteorological data;Atthesame time,farmers haveadeep memoryofthe influentialand larger scale extreme weather that happened inrecent years;(2) Farmers'severityperception，probability perception，adaptation eficacyperception and adaptation costs perception of climatechangearestrong，but theself-eficiency perception of climatechange is weak，theindex of their severity perception，probability perception，adaptation eficacy perception，self-effcacy perception and adaptation cost perception are3.76,3.34，3.43,2.85，3.53respectively.And theseperceptionis the strongest infarming area，next inthe plantingpasturing area，thepure pasturing area is the weakest.（3）Climate change information，farmer's objectively adaptive capacity,farmers'trustonthesocial discourse，andadaptationincentivesareallafect thefarmer'sperceptionofclimate change，among them，adaptation incentiveis the keyfactors influence farmers’climatechange perception，andthe more adaptation incentives，the weaker farmers’severityperception，probability perceptionandadaptation costs perception，but the stronger farmers’adaptation eficacy perceptionandself-effciencyperception.Finall，weput forward somerelevant policyrecommendations,the purpose is improvethe accuracyof farmers'perception to climate change and enhance their adaptive capacity.
+
+Key Words: Gannan Plateau；the farmers ；climate change；perception；adaptation
+
+全球气候变化加剧了社会及自然生态系统的脆弱性,致使人类生产及生活面临巨大的风险与挑战,探索有效的适应策略及适应模式已成为当前急需解决的问题[1]。感知作为人类能动响应气候变化的基础,不仅影响着公众对适应策略的选择,更影响适应政策与适应计划的执行效果[2-3],对人类的气候变化适应行为起着尤为关键的作用。以自然资源为生计基础的农户作为应对气候变化的弱势群体,受气候变化的影响尤为严重,他们不仅是气候变化的直接感知者,更是适应性行为的选择者和受益者[4],知晓农户的气候变化感知特征有助于更好地理解他们所采取的响应行动,并有助于制定有效的适应政策。
+
+气候变化感知对适应行为如此重要,故从20世纪90年代、特别是21世纪以来,众多学者进行了公众对气候变化感知的研究[5」。为了阐释气候变化感知与适应的关系,Grothmann和Patt建立了个人主动适应气候变化的社会认知模型;Kroemker和Mosler[7]基于气候变化风险感知与适应选择,提出了气候变化适应理论模型;Sander[8]结合认知、经验和社会文化因素,提出了气候变化风险认知的心理模型;Brody[9]等利用地理信息系统与空间分析技术测量了受访者的预期气候变化风险感知,并绘制了气候变化风险感知地图。已有研究也发现,农户对气候变化的关注度很高,通过对气温、降雨、谷物生产条件改变的观察,可获得对气候变化的认知,但这需要花费一定的时间[10];多数农户能准确的感知到近年来气候趋势及极端天气的变化,但因受到个体客观背景环境的影响，一些农户的感知结果较为模糊[1I-1];同时,农户对近期发生的极端天气事件及短期气候变化趋势的感知更清晰、准确,并常依据近期气候变化感知来判断较长期气候变化趋势[14-15];此外,农户对气候变化发生原因的认知较浅显,并将气候变化主要归因于城市建设、车辆增加、大气污染、工业排放废气等[5,16],却对气候变化影响的感知较深刻,部分农户还意识到了气候变化对生态服务功能的影响[17-18]。这些研究不仅带来了有关气候变化感知的新观点,而且加强了对适应性响应认知要素的理解。但目前,对气候变化感知的形成关注较少,需进一步了解影响气候变化感知的关键因素,辨明各要素在气候变化感知形成中的作用。
+
+甘南高原位于青藏高原东缘,高寒阴湿,属于典型的高寒生态脆弱区,不仅是黄河上游重要的水源补给区,更是全球气候变化的敏感区[19-20]。气候变化已对该区农户生计造成严重的影响,农户能否有效地适应气候变化直接关系到该区的可持续发展,更影响到黄河上游乃至我国北方地区的生态安全。辨明甘南高原农户的气候变化感知特征及影响因素,有助于筛选有效的气候变化适应策略、制定切实可行的气候变化适应政策,这对整个黄河流域的生态安全乃至全球气候变化的减缓与适应都非常关键。为此,本文基于农户调查资料,构建了农户对气候变化的感知度指数,分析了甘南高原农户的气候变化感知特征,并利用经济计量模型分析了影响农户气候变化感知的关键因素,旨在为高寒生态脆弱区制定有效的气候变化适应政策提供借鉴和参考。
+
+# 1 研究区
+
+甘南高原位于青藏高原东缘，大部分区域海拔 $3 0 0 0 { - } 3 6 0 0 \mathrm { m }$ ，气候寒冷湿润，年均温普遍低于 $3 ^ { \circ } \mathrm { C }$ ，年均降水量在 $4 0 0 { \mathrm { - } } 7 0 0 { \mathrm { m m } }$ 之间,植被以高寒草甸、灌丛和山地森林为主,水系发达,黄河干流、洮河、大夏河3条河流在该区的流域面积达 $3 . 0 5 7 \times 1 0 ^ { 4 } \mathrm { k m } ^ { 2 }$ ,多年平均补给黄河水资源 $6 5 . 9 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ ,从而使该区不仅成为黄河上游最重要的水源补给区,而且成为青藏高原“中华水塔”的重要水源涵养区,其蓄水、补水功能对整个黄河流域水资源调节起到关键作用。然而,近年来在气候变化与人类活动的交互胁迫下,草地资源严重退化、水土流失加剧、湿地萎缩、生物多样性损失、水源涵养能力下降,致使该区生态系统服务功能锐减,严重影响了黄河流域、乃至整个北方地区的生态安全。
+
+甘南高原内部分异明显,依据自然地理环境、资源禀赋及农业生产特征[21],可分为纯牧区、半农半牧区和农区3个农业生态区(图1)。其中,纯牧区农户生计以畜牧业为主,畜牧业产值占该区农业总产值的 $8 6 . 6 2 \%$ ，农民人均纯收入为5296元，畜牧业收入占总收入的 $5 2 . 0 5 \%$ ,玛曲县该比例更是高达 $7 5 . 7 7 \%$ ,畜牧业产值占农业总产值的 $9 8 . 8 8 \%$ ;半农半牧区农户农牧业兼营,种植业与畜牧业产值分别占该区农业总产值的 $5 6 . 7 8 \%$ 、$2 3 . 0 6 \%$ ,农民人均纯收入为4707元,种植业、畜牧业及工资性收入分别占总收入的 $3 2 . 4 6 \% . 2 3 . 3 6 \% . 2 2 . 5 6 \%$ ;农区农户生计以种植业为主,种植业产值占该区农业总产值的 $5 1 . 1 6 \%$ ,农民人均纯收入为4384元,种植业及工资性收入分别占总收入的 $2 3 . 6 4 \% \ 、 3 8 . 9 3 \%$ 。
+
+![](images/fc0281ddeaacde092d73f2c158cd35ad4f2f1ba8d6f47143c5a04fd7ef5ec196.jpg)  
+图1 研究区及调查点  
+Fig.1The distribution of study area and survey points
+
+# 2数据来源及方法
+
+# 2.1 数据来源
+
+2014年7月,课题组采用调查问卷、观察法、小型座谈会等参与式农村评估(PRA)工具在甘南高原进行了农户调查,以获取研究所需的数据及信息。入户调查中,采取分层随机抽样法选取受访农户,由于甘南高原地域辽阔、农牧民居住分散,访谈难度较大,共抽取37个乡 548户,收回有效问卷539份,问卷有效率为$9 8 . 4 \%$ ,其中纯牧区186份,半农半牧区168份,农区185份。受访户户主的平均年龄为43.24岁,平均务农年限为24.15a,平均家庭规模为5.52人/户,劳动力数量为3.2人/户,人均年收入为5976.15元。农区、半农半牧区、纯牧区受访户的劳动力文化水平依次降低,小学及以下文化程度的劳动力比重分别为 $3 6 . 1 6 \% . 5 9 . 7 2 \%$ 、$6 8 . 2 4 \%$ 。虽然受访农户数量较少,但将其特征与 2013年甘南统计年鉴资料对比发现,样本可以反映研究区农户的基本情况,具有一定的代表性（表1）。
+
+气象数据来自中国气象科学数据共享服务网(http://cdc.cma.gov.cn/home.do)的中国地面气候资料日值数据集,包括甘南境内的玛曲( $1 0 2 . 4 ^ { \circ } \mathrm { E } , 3 3 . 5 9 ^ { \circ } \mathrm { N } \rangle$ 、合作 $( 1 0 2 . 9 ^ { \circ } \mathrm { E } , 3 4 . 9 9 ^ { \circ } \mathrm { N } )$ 及临近甘南的临夏( $\cdot 1 0 2 . 9 8 ^ { \circ } \mathrm { E }$ ，$3 5 . 5 0 ^ { \circ } \mathrm { N }$ ）、岷县( $1 0 4 . 1 ^ { \circ } \mathrm { E } , 3 4 . 2 6 ^ { \circ } \mathrm { N } \rangle$ 共4个站点1983—2013年的平均气温及降水资料。
+
+表1受访户特征  
+Table1The farmers'information in Gannan Plateau   
+
+<html><body><table><tr><td colspan="2">农户 Farmers</td><td>纯牧区农户 Pure pasturing</td><td>半农半牧区农户 Planting-pasturing</td><td>农区农户 Farming area</td><td>全体农户 All farmers</td></tr><tr><td colspan="2">户主平均年龄/岁 Average age</td><td>area farmers 42.55</td><td>area farmers 44.38</td><td>farmers 43.15</td><td>43.24</td></tr><tr><td colspan="2">平均务农年限/年 Average years of farming</td><td>26.64</td><td>24.99</td><td>20.63</td><td>24.15</td></tr><tr><td colspan="2">家庭规模Family size/（人/户）</td><td>5.41</td><td>5.89</td><td>5.32</td><td>5.52</td></tr><tr><td colspan="2">劳动力数量 The Labor force/（人/户)</td><td>2.7</td><td>3.48</td><td>3.44</td><td>3.2</td></tr><tr><td colspan="2">人均年收入Per people income/元</td><td>6313.41</td><td>5910.53</td><td>5704.51</td><td>5976.15</td></tr><tr><td>劳动力受教育情况/%</td><td>文盲</td><td>29.44</td><td>34.78</td><td>15.96</td><td>26.18</td></tr><tr><td rowspan="4">Labour education</td><td>小学</td><td>36.49</td><td>24.57</td><td>22.12</td><td>27.06</td></tr><tr><td>初中</td><td>15.12</td><td>13.67</td><td>36.65</td><td>22.56</td></tr><tr><td>高中或中专</td><td>9.88</td><td>18.51</td><td>17.22</td><td>15.49</td></tr><tr><td>大专及以上</td><td>9.07</td><td>9.17</td><td>9.79</td><td>9.35</td></tr></table></body></html>
+
+# 2.2 问卷设计
+
+Grothman 和Patt[6]基于心理学与行为经济学提出了个人主动适应气候变化的社会认知模型（MPPACC,Model of Private Proactive Adaptation to Climate Change）,它在气候变化风险感知的基础上,融入了以往研究所忽视的适应能力感知,将个人的气候变化感知分解为风险感知与适应感知,其中,风险感知包括可能性感知(对未来气候发生变化的可能性感知)和严重性感知(对气候变化影响程度的感知);适应感知包括适应功效感知(对适应行动预期结果的感知）、自我效能感知(对自己实施或执行适应行动的能力的感知)及适应成本感知(对执行适应行动预期成本的感知),从而能更好地解释个人的气候变化感知特征,该模型已在气候变化适应性研究中得到广泛应用。
+
+本文基于MPPACC分析框架,结合预调查中对村社干部及农户的访谈,设计了农户的气候变化感知调查问卷。调查内容主要包括：(1)农户的基本情况,包括户主年龄、务农年限、受教育程度、生产方式、家庭收支状况等；(2)农户对气候变化趋势与极端天气变化趋势的感知,包括对近30年来气温、降水变化趋势以及当地频发的暴雨、暴雪、冰雹、干旱等极端天气的感知；(3)农户对气候变化的风险感知,包括对气候变化的严重性感知和可能性感知；(4)农户对气候变化的适应感知,包括对气候变化的适应功效感知、自我效能感知和适应成本感知。
+
+# 2.3气候变化感知度的测量
+
+为了定量分析甘南高原农户对气候变化感知的差异,特引入气候变化感知度指数。基于MPPACC 分析框架,将农户对气候变化的风险感知(包括严重性感知和可能性感知)及适应感知(包括适应功效感知、自我
+
+效能感知及适应成本感知)作为测度指标。计算农户的气候变化感知度指数时,首先对农户的各类气候变化感知度赋值,再将不同区域农户的各种感知度加总平均。计算公式如下：
+
+$$
+G _ { j } = \frac { 1 } { n } \sum _ { i = 1 } ^ { n } g _ { i j }
+$$
+
+式中， $G _ { j }$ 表示农户对 $j$ 问题的感知度指数， $g _ { i j }$ 表示第 $i$ 个农户对 $j$ 问题的感知度赋值， $n$ 为农户的个数。
+
+表2农户的气候变化感知度测量指标及赋值   
+Table 2The measure index and evaluation of the farmers'climate change perception   
+
+<html><body><table><tr><td>气候变化感知 Climate change perception</td><td>测量指标 Measure index</td><td>测度问题 Measure issues</td><td>赋值 Value</td></tr><tr><td>风险感知 Risk perception</td><td>严重性感知度</td><td>气候变化对生产生活的影响是 否严重</td><td>非常严重=5;比较严重=4;一般=3;不太严 重=2;很不严重=1</td></tr><tr><td rowspan="3">适应感知 Adaptive perception</td><td>可能性感知度</td><td>未来气候进一步变化的可能性 有多大</td><td>非常大=5;比较大=4;一般=3;比较小=2; 非常小=1</td></tr><tr><td>适应功效感知度</td><td>采取措施能否减弱气候变化的 负面影响</td><td>肯定能=5;有可能=4；一般=3;不太可能= 2；肯定不能=1</td></tr><tr><td>自我效能感知度</td><td>自身应对气候变化的能力如何</td><td>非常强=5;比较强=4;一般=3;比较弱=2; 非常弱=1</td></tr><tr><td></td><td>适应成本感知度</td><td>适应气候变化的成本有多高</td><td>非常高=5;比较高=4;一般=3;比较低=2; 非常低=1</td></tr></table></body></html>
+
+# 2.4农户气候变化感知的影响因素分析模型
+
+本文在 SPSS17.0环境下采用多元线性回归模型来分析影响农户气候变化风险感知及适应感知的因素。多元线性回归模型是有多个解释变量的线性回归模型,揭示被解释变量与其它多个解释变量之间的线性关系。其数学模型为：
+
+$$
+P = \beta _ { 0 } + \beta _ { 1 } X _ { 1 } + \beta _ { 2 } X _ { 2 } + \cdots + \beta _ { i } X _ { i }
+$$
+
+式中， $P$ 为被解释变量， $X _ { 1 } , X _ { 2 } , \cdots , X _ { i }$ 为解释变量, $\beta _ { 0 }$ 为常数项, $\beta _ { i } \ , \beta _ { 2 } \ , \cdots , \beta _ { i }$ 为回归系数。若回归系数为正值,表示解释变量每增加一个单位值,发生比会相应增加;若回归系数为负值,表示解释变量每增加一个单位值,发生比会相应减少。
+
+# 3结果与分析
+
+3.1农户对气候变化趋势及极端天气的感知
+
+3.1.1农户对气候变化趋势的感知
+
+近30年甘南高原气温总体呈上升趋势，倾向率为 $0 . 5 \mathrm { ^ { \circ } C } / 1 0 \mathrm { a }$ （图2)。有 $7 9 . 9 6 \%$ 的受访户准确地感知到了气温的升高,与实际情况相符。其中,农区农户对升温的感知最准确,半农半牧区次之,纯牧区最低,感知到气温升高的受访户比例依次为 $8 4 . 8 6 \% . 8 0 . 3 6 \% . 7 4 . 7 3 \%$ 。访谈中,大部分农户提到他们主要根据穿衣多少、取暖的早晚、河流解冻及户外结冰时间、牧草返青及谷物种植时间等判断气温是否升高,部分农户还提到他们时常从手机、电视等中听到全球变暖的消息,这些信息都加剧了农户对当地气温升高的感知。
+
+近 30 年甘南高原降水总体呈微弱的上升趋势,倾向率为 $5 . 1 \mathrm { m m } / 1 0 \mathrm { a }$ （图2）。农户对降水变化的看法不一，且对降水增多的感知不明显,仅有 $3 6 . 9 2 \%$ 的受访户准确地感知到这一事实，其中，半农半牧区准确感知到降水增多的受访户最多,纯牧区次之,农区最少,感知到降水增多的受访户比例依次仅为 $4 1 . 6 7 \% , 3 8 . 1 7 \%$ 、$3 1 . 3 5 \%$ 。可见,甘南高原多数农户对降水变化趋势的感知不准确,与气象数据出现偏差。
+
+# 3.1.2农户对极端天气的感知
+
+近年来,甘南高原极端天气频发且危害严重,有 $5 1 . 5 8 \%$ 的受访户认为极端天气发生频率呈增多趋势。其中,认为暴雨增多的受访户比例高达 $7 2 . 1 7 \%$ （半农半牧区 $7 7 . 3 8 \%$ 、纯牧区 $6 9 . 8 9 \%$ 、农区 $6 9 . 7 3 \%$ )，其次是暴雪、冰雹、干旱,持"增多”观点的受访户比例依次为 $4 7 . 6 8 \% . 4 3 . 6 0 \% . 4 2 . 8 6 \%$ 。由此看出,暴雨已成为当地农
+
+http://www.ecologica.cn
+
+![](images/b2592b38ae2b4e69da2319cfc10e4e04312cd1a67b28c798f69d44c554e6cfb0.jpg)  
+图2近30a甘南高原气温及降水量的变化趋势  
+Fig.2 Trend of average temperature and precipitation in recent 3O years in Gannan Plateau
+
+户感知最强的极端天气事件,事实上,甘南高原近30 年的强降水量及发生频次均呈增加趋势,增幅分别为$4 2 . 4 1 \mathrm { { m m } / 1 0 a , 1 . 0 6 \mathrm { { d } / 1 0 a } }$ ,可见,农户对暴雨增加的感知与实际情况较为相符。访谈中,很多农户指出暴雨通过毁坏作物、农田、牲畜、房屋及道路等对其生计造成了巨大损失,舟曲县的农户更强调了由强降雨引发的山洪、泥石流对他们的财产乃至生命安全造成的极大威胁。此外,农户对近期发生的、规模较大、影响较严重的极端天气记忆较深刻,而当问及时间久远或规模较小的极端天气时,他们往往表示记不清楚,甚至已经忘记。访谈中,很多人对2013年9月甘南的冰雹(造成直接经济损失18.3亿元)记忆很深,玛曲县大多数受访户对2009 年7月该县发生的百年不遇的特大暴雨灾害(造成直接经济损失3.9938亿元)印象深刻,舟曲县受访户则对2010年8月该县发生的强降雨和由其引发的特大泥石流灾害（此次灾害造成两万多人受灾，使当地经济发展受到重创)记忆犹新。
+
+表3农户对气候变化及极端天气的感知  
+Table 3The farmers'perception of climate change and extreme weather events in Gannan Plateau   
+
+<html><body><table><tr><td>类型 Type</td><td>农户 Farmers</td><td>增加/% Increased</td><td>没变/% Not changed</td><td>减少/% Reduced</td><td>不知道/% Have no idea</td></tr><tr><td>气温 Temperature</td><td>纯牧区农户</td><td>74.73</td><td>10.22</td><td>13.98</td><td>1.08</td></tr><tr><td rowspan="4">降水量 Precipitation</td><td>半农半牧区农户</td><td>80.36</td><td>14.29</td><td>2.98</td><td>2.38</td></tr><tr><td>农区农户</td><td>84.86</td><td>10.81</td><td>3.24</td><td>1.08</td></tr><tr><td>纯牧区农户</td><td>38.17</td><td>16.13</td><td>42.47</td><td>3.23</td></tr><tr><td>半农半牧区农户</td><td>41.67</td><td>21.43</td><td>35.12</td><td>1.79</td></tr><tr><td rowspan="3">暴雨 Rainstorm</td><td>农区农户</td><td>31.35</td><td>24.86</td><td>41.62</td><td>2.16</td></tr><tr><td>纯牧区农户</td><td>69.89</td><td>19.89</td><td>9.14</td><td>1.08</td></tr><tr><td>半农半牧区农户</td><td>77.38</td><td>18.45</td><td>4.17</td><td>0.00</td></tr><tr><td rowspan="3">暴雪 Snowstorm</td><td>农区农户</td><td>69.73</td><td>20.00</td><td>7.57</td><td>2.70</td></tr><tr><td>纯牧区农户</td><td>51.61</td><td>30.11</td><td>16.67</td><td>1.61</td></tr><tr><td>半农半牧区农户</td><td>41.07</td><td>47.62</td><td>9.52</td><td>1.79</td></tr><tr><td rowspan="3">干旱 Drought</td><td>农区农户</td><td>49.73</td><td>22.16</td><td>25.41</td><td>2.70</td></tr><tr><td>纯牧区农户</td><td>27.42</td><td>46.77</td><td>22.04</td><td>3.76</td></tr><tr><td>半农半牧区农户</td><td>54.17</td><td>28.57</td><td>14.88</td><td>2.38</td></tr><tr><td rowspan="4">冰雹Hail</td><td>农区农户</td><td>48.11</td><td>36.76</td><td>10.81</td><td>4.32</td></tr><tr><td>纯牧区农户</td><td>48.39</td><td>35.48</td><td>14.52</td><td>1.61</td></tr><tr><td>半农半牧区农户</td><td>45.24</td><td>34.52</td><td>17.86</td><td>2.38</td></tr><tr><td>农区农户</td><td>37.30</td><td>20.54</td><td>38.92</td><td>3.24</td></tr></table></body></html>
+
+# 3.2农户对气候变化的风险感知
+
+甘南高原农户对气候变化的严重性感知较强，感知度指数为3.76，有 $6 2 . 9 9 \%$ 的受访户认为气温、降水的变化及极端天气的增加对其生产及生活产生了严重的负面影响。其中,农区农户对气候变化的严重性感知最强,半农半牧区次之,纯牧区最低,感知度指数依次为4.05、3.63、3.57,认为气候变化严重影响其生计的受访户比例依次为 $7 4 . 0 5 \% . 5 7 . 8 \% . 5 6 . 5 5 \%$ 。其主要原因在于,近年来甘南高原气温明显升高,暴雨、暴雪、干旱、冰雹等极端天气频发,且超载过牧、滥采滥挖、过度砍伐等不合理活动的强度增大,二者叠加,放大了气候变化对农户生计的冲击,从而增强了农户对气候变化的严重性感知。
+
+甘南高原农户对未来气候进一步发生变化的可能性感知也较强,感知度指数为3.34,有 $4 1 . 5 6 \%$ 的受访户认为未来气候发生变化的可能性极大,仅有 $1 5 . 4 \%$ 的受访户认为未来气候发生变化的可能性较小。其中,农区农户对气候变化的可能性感知最强、半农半牧区次之、纯牧区最低,感知度指数依次为3.46、3.41、3.16,认为未来气候极可能发生变化的受访户比例依次为 $4 8 . 8 1 \% . 4 6 . 3 1 \% . 3 0 . 2 9 \%$ ,而认为未来气候发生变化可能性较小的受访户比例分别仅为 $9 . 1 \% 1 8 . 7 5 \% , 1 8 . 6 4 \%$ 。
+
+# 3.3农户对气候变化的适应感知
+
+甘南高原农户感知到的气候变化适应功效比较强，适应功效感知度指数为3.43，有 $4 7 . 6 8 \%$ 的受访户认为采取措施能够减缓气候变化的负面影响,认为不能减缓负面影响的受访户比例仅为 $1 3 . 7 3 \%$ 。其中,农区农户对气候变化适应功效的感知最强,半农半牧区次之,纯牧区最低,感知度指数依次为 $3 . 8 2 , 3 . 2 4 , 3 . 2 0$ ，认为采取措施能够减缓气候变化负面影响的受访户比例依次为 $6 9 . 1 9 \% . 3 7 . 6 3 \% . 3 5 . 1 2 \%$ 。可见,在气候变化的严重影响下,农户总是会主动采取一些有效的措施来规避气候风险,且对所采取措施的实施效果较为认同。访谈中,大多数从事种植业的农户反映调整农时及增加灌溉是他们采取最多且效果最好的适应措施，而多数牧户则表示减少牲畜及提前转场最为有效。
+
+甘南高原农户感知到的气候变化自我效能比较弱,气候变化自我效能感知度指数仅为2.85,仅有 $1 6 . 7 \%$ 的受访户认为自身有较强的适应能力。其中,纯牧区农户感知到的自我效能最弱、半农半牧区次之、农区最强,感知度指数依次为2.74、2.89、2.9,认为自身适应能力较强的受访户比例分别仅为 $1 2 . 5 \% , 1 7 . 2 \% , 2 0$ $2 0 \%$ 。总体来看，甘南高原农户对自身适应能力缺乏充分的信心,与其风险感知强度存在一定反差。
+
+甘南高原农户感知到的气候变化适应成本比较高,适应成本感知度指数为 $3 . 5 3 , 5 5 . 8 4 \%$ 的受访户认为适应气候变化需要很高的成本。其中,农区农户感知到的适应成本的最高,半农半牧区次之,纯牧区最低,感知度指数依次为3.75、3.58、3.26,认为适应气候变化需要很高成本的受访户比例依次为 $7 0 . 2 7 \% . 5 6 . 5 5 \%$ 、$4 0 . 8 6 \%$ 。访谈中,大部分农户反映适应气候变化所需的成本比较高,购买饲料及农药化肥、租用草场、引进新品种及新技术、完善农牧业设施等适应措施使其农业生产成本增加,家庭负担加重。
+
+表4甘南高原农户对气候变化的风险感知及适应感知  
+Table 4The farmers'risk perception and adaptive perception of climate change in Gannan Plateau   
+
+<html><body><table><tr><td rowspan="3">农户 Farmers</td><td colspan="2">气候变化风险感知 Climate change risk perception</td><td colspan="3">气候变化适应感知 Climate change adaptive perception</td></tr><tr><td>严重性感知</td><td>可能性感知</td><td>适应功效感知</td><td>自我效能感知</td><td>适应成本感知</td></tr><tr><td>纯牧区农户 Pure pasturing area farmers</td><td>3.57</td><td>3.16</td><td>3.20</td><td>2.74</td><td>3.26</td></tr><tr><td>半农半牧区农户Planting-pasturing area farmers</td><td>3.63</td><td>3.41</td><td>3.24</td><td>2.89</td><td>3.58</td></tr><tr><td>农区农户Farming area farmers</td><td>4.05</td><td>3.46</td><td>3.82</td><td>2.90</td><td>3.75</td></tr><tr><td>全体农户 All farmers</td><td>3.76</td><td>3.34</td><td>3.43</td><td>2.85</td><td>3.53</td></tr></table></body></html>
+
+# 3.4气候变化风险感知及适应感知的关系
+
+为了进一步辨明甘南高原农户对气候变化的风险感知与适应感知的关系,特采用Pearson相关分析法计算二者的相关系数(表4)。发现：(1)甘南高原农户对气候变化的严重性感知与可能性感知在0.01的水平上显著正相关,说明气候变化对农户生产及生活的影响越严重,农户越会认为未来气候极有可能发生变化。
+
+(2)农户对气候变化的适应功效感知、自我效能感知及适应成本感知显著正相关,其中,适应功效感知与自我效能感知、适应成本感知在0.01水平上显著正相关,而自我效能感知与适应成本感知在0.1水平上显著正相关。（3)甘南高原农户的气候变化风险感知与气候变化适应功效感知、适应成本感知在0.01的水平上显著正相关,但与自我效能感知在0.1的水平上呈负相关关系。说明农户对气候变化的风险感知越强烈,越认同适应行动的有效性。同时,农户对气候变化的风险感知越强烈,采取适应行动的预期成本也越高,农户对自身应对风险的能力越不自信。
+
+表5甘南农户的气候变化风险感知及适应感知相关矩阵  
+
+<html><body><table><tr><td>Tabls Thccorrciatonhatrx 气候变化感知</td><td>严重性感知 Severity</td><td>HISkperetptolrar 可能性感知 Probability</td><td>adaptrvepereeptlo 适应功效感知 Adaptation</td><td>自我效能感知 Self-efficiency</td><td>适应成本感知 Adaptation costs</td></tr><tr><td>Climate change perception</td><td>perception</td><td>perception</td><td>efficacy perception</td><td>perception</td><td>perception</td></tr><tr><td>严重性感知 Severity perception</td><td>1.000</td><td>0.369 ***</td><td>0.254*** 0.319 ***</td><td>-0.076 * -0.047 *</td><td>0.303 *** 0.260 ***</td></tr><tr><td>可能性感知Probability perception</td><td>0.369 *** 0.254 ***</td><td>1.000 0.319 ***</td><td>1.000</td><td>0.184 ***</td><td>0.325 ***</td></tr><tr><td>适应功效感知 Adaptation efficacy perception 自我效能感知 Self-fficiency perception</td><td>-0.076 *</td><td>-0.047 *</td><td>0.184 ***</td><td>1.000</td><td>0.079 *</td></tr><tr><td>适应成本感知 Adaptation costs perception</td><td>0.303 ***</td><td>0.260 ***</td><td>0.325 ***</td><td>0.079 *</td><td>1.000</td></tr></table></body></html>
+
+\*在0.1水平(双侧)上显著， $* *$ 在0.05水平(双侧)上显著； $* * *$ 在0.01水平(双侧)上显著
+
+# 3.5影响农户气候变化感知的关键因素
+
+农户对气候变化的感知是社会、经济及环境等因素共同作用的结果。Grothman 和 $\mathrm { P a t t } ^ { [ 6 ] }$ 在个人主动适应气候变化的社会认知模型(MPPACC)中提出,个人风险经验、客观适应能力和对气候变化风险及适应的社会话语、适应激励等因素共同影响着个人的气候变化感知。已有研究也显示，感知源于信息的刺激,风险感知常常受所获取的信息、过去的风险经验、认知偏见与直观判断的影响,当气候变化信息不及时、不准确时,农户会错误估计气候变化风险,从而产生不恰当的气候变化风险感知与适应感知（例如,过低估计适应功效或过高估计适应成本)[2-4];同时，个人感知总是依赖于社会-自然环境,农户往往通过社会交流来获取气候变化风险信息与适应信息,适应激励(如减税、补贴、相关法律与技术、信息服务支持等)以及他们对气候变化社会话语的信任度通常会影响其感知[6.24-25];农户的客观适应能力也在农户的气候变化感知及适应行为中起着关键作用[14,26-27],当农户缺乏客观适应能力(例如,缺乏时间、货币、持久力、知识、权利、社会或制度支持)时,会使其形成较低的适应效能感知，从而约束其采取有效的适应行为。
+
+为了进一步明确影响甘南高原农户的气候变化风险感知与适应感知的因素,特以农户对气候变化的严重性感知、可能性感知、适应功效感知、自我效能感知、适应成本感知为因变量，以气候变化信息、农户的客观适应能力、农户对社会话语的信任度、适应激励为自变量,并引入地区虚拟变量（是否农区：是 ${ \bf \mu } = 1 { \bf \sigma }$ ，否 $= 0$ ;是否纯牧区：是 ${ \bf \mu } = 1 { \bf \Lambda }$ ，否 $= 0$ ),采用最小二乘法来分析影响农户气候变化感知的关键因素。其中,气候变化信息用信息获取渠道、信息的及时性与准确性来表征。对社会话语的信任度用农户对专家、权威机构、媒体发布的气候变化信息的信任度来表征。适应激励用政府是否提供技术推广服务、气象信息服务、气候变化预警服务来表征。Nelson 等[28把农户的适应能力看作各种生计资本联合起来所产生的期望结果或效果,认为农户的适应能力与其拥有的生计资本直接相关,鉴于此,基于甘南高原资源禀赋、生态环境及农户生计特征,设计了农户生计资本测量指标用来表征其客观适应能力。其中,人力资本用家庭整体劳动能力及劳动力平均受教育程度来表征;自然资本用农户拥有的人均耕地面积及草地面积来表征;金融资本用人均收入来表征;社会资本用农户的亲戚数量来表征。计算各指标值时,采用极差标准化方法将其测量指标标准化,然后加总平均得出。
+
+# 3.5.1影响农户气候变化风险感知的因素
+
+模型(1)考察了上述变量与农户的气候变化严重性感知之间的关系,其 $F$ 统计值的显著性水平为0.01,拟合优度为0.216,说明选取的变量能够解释农户气候变化严重性感知的 $2 1 . 6 \%$ 。结果显示,气候变化信息、自然资本、社会资本、对社会话语的信任度与农户的气候变化严重性感知显著正相关;而适应激励与其显著负相关。说明农户获取气候变化信息的渠道越多、所获信息越及时、准确,对气候变化的严重性感知越强；农户拥有的耕地及草地面积、亲戚数量越多,对气候变化的严重性感知越强;农户对专家、权威机构及媒体话语越信任,越会增强对气候变化的严重性感知;但是,农户享受到技术推广、气象信息及气候变化预警服务,会削弱对气候变化的严重性感知。其中,适应激励对农户的气候变化严重性感知影响最大，气候变化信息次之，其显著性水平均为0.01,非标准化系数分别为-0.357、0.513,标准系数分别为-0.250、0.174。
+
+表6解释变量描述  
+Table 6The model variable description   
+
+<html><body><table><tr><td>变量 Variable</td><td>测量指标 Measure index</td><td>指标赋值 Value</td><td>均值 Mean value</td><td>标准差 Standard deviation</td></tr><tr><td>气候变化信息 Climate change information</td><td>信息获取渠道</td><td>1条渠道为1,n条渠道为n</td><td>3.70</td><td>1.100</td></tr><tr><td></td><td>信息的及时性</td><td>及时为1,不及时为0</td><td>0.70</td><td>0.458</td></tr><tr><td></td><td>信息的准确性</td><td>很准确为1,比较准确为0.75,一般为0.5,不 太准确为0.25,非常不准确为0</td><td>0.53</td><td>0.107</td></tr><tr><td>人力资本 Human capital</td><td>家庭整体劳动能力</td><td>非劳动力为0;半劳动力为0.5;全劳动力为 1.0</td><td>4.10</td><td>0.563</td></tr><tr><td></td><td>劳动力平均受教育程度</td><td>文盲为0;小学为0.25;初中为0.5;高中为 0.75;大专及以上为1</td><td>0.47</td><td>0.205</td></tr><tr><td>自然资本 Nature capital</td><td>人均耕地面积</td><td>人均实际耕种面积(×666.7m²)</td><td>2.99</td><td>11.294</td></tr><tr><td></td><td>人均草地面积</td><td>人均实际草地面积(×666.7m²)</td><td>13.74</td><td>25.654</td></tr><tr><td>物质资本 Material capital</td><td>家庭固定资产拥有量</td><td>所拥有固定资产项数占所列选项的比例</td><td>0.37</td><td>0.165</td></tr><tr><td>金融资本 FinancialCapital</td><td>人均年收入</td><td>人均年收入/元</td><td>5976.15</td><td>6010.866</td></tr><tr><td>社会资本 Social Capital</td><td>亲戚数量</td><td>亲戚数量：很多为1，较多为0.75，一般为 0.5,较少为0.25,很少为0</td><td>0.51</td><td>0.155</td></tr><tr><td>对社会话语的信任度 Trust in the social discourse</td><td>对专家话语的信任度</td><td>非常信任为1;比较信任为0.75;一般信任 为0.5;不太信任为0.25;根本不信任为0</td><td>0.62</td><td>0.171</td></tr><tr><td></td><td>对权威机构话语的信 任度</td><td>非常信任为1;比较信任为0.75;一般信任 为0.5；不太信任为0.25；根本不信任为0</td><td>0.58</td><td>0.171</td></tr><tr><td>适应激励</td><td>对媒体话语的信任度</td><td>非常信任为1;比较信任为0.75;一般信任 为0.5;不太信任为0.25;根本不信任为0</td><td>0.50</td><td>0.177</td></tr><tr><td>Adaptation incentives</td><td>技术推广服务</td><td>政府是否提供技术推广服务，是为1,否为0</td><td>0.56</td><td>0.496</td></tr><tr><td></td><td>气象信息服务</td><td>政府是否提供村镇气象信息服务，是为1,否 为0</td><td>0.44</td><td>0.496</td></tr><tr><td></td><td>气候变化预警服务</td><td>政府是否提供气候变化预警服务,是为1,否 为0</td><td>0.66</td><td>0.474</td></tr></table></body></html>
+
+模型(2)考察了上述变量与农户气候变化可能性感知之间的关系，其 $F$ 统计值的显著性水平为0.01,拟合优度为0.205，说明选取的变量能够解释农户气候变化可能性感知的 $2 0 . 5 \%$ 。结果显示，气候变化信息、人力资本、社会资本、对社会话语的信任度与农户的气候变化可能性感知显著正相关;而物质资本、适应激励与其显著负相关。说明农户的气候变化信息获取渠道越多、所获信息越及时、准确,对气候变化的可能性感知越强;家庭整体劳动力越多、受教育程度越高、且亲戚数量越多的农户,对气候变化的可能性感知越强烈;农户对专家、权威机构及媒体话语越信任,越会增强对气候变化的可能性感知;但是,农户拥有的家庭固定资产越多，且享受到技术推广、气象信息及气候变化预警服务,会减弱对气候变化的可能性感知。其中,气候变化信息对农户的气候变化可能性感知影响最大,适应激励次之,其显著性水平均为0.01,非标准化系数分别为0.789、
+
+http://www.ecologica.cn -0.336,标准系数分别为 $0 . 2 9 2 , - 0 . 2 5 8$ ○
+
+农户的气候变化严重性感知及可能性感知与“是否农区”的回归系数为正,而与“是否纯牧区”的回归系数为负,说明相对于半农半牧区农户,农区农户对气候变化的严重性及可能性感知更强,而纯牧区农户的感知更弱。
+
+# 3.5.2影响农户气候变化适应感知的因素
+
+模型(3)考察了上述变量与农户气候变化适应功效感知之间的关系,其 $F$ 统计值的显著性水平为0.01,拟合优度为0.632,说明选取的变量能够解释农户气候变化适应功效感知的 $6 3 . 2 \%$ 。结果显示，气候变化信息、人力资本、金融资本、社会资本、对社会话语的信任度及适应激励均与农户的气候变化适应功效感知显著正相关。说明农户获取气候变化信息的渠道越多、所获信息越及时、准确,对气候变化的适应功效感知越强;农户的家庭劳动力越多且受教育程度越高、人均收入及亲戚数量越多,对气候变化的适应功效感知越强;农户对专家、权威机构及媒体话语越信任，越会增强对气候变化的适应功效感知;享受到技术推广、气候变化信息及气候变化预警服务,也会加强农户的气候变化适应功效感知。其中,人力资本对农户的气候变化适应功效感知影响最大,适应激励次之,其显著性水平均为0.01,非标准化系数分别为2.372、0.490,标准系数分别为0.411、0.218。
+
+表7甘南高原农户气候变化感知影响因素的模型参数  
+Table7Model parameters and test offactors affecting farmers'perceptionof climate change in Gannan Plateau   
+
+<html><body><table><tr><td rowspan="2">变量 Variable</td><td colspan="4">风险感知Risk perception</td><td colspan="6">适应感知 Adaptive perception</td></tr><tr><td colspan="2">模型(1)Model (1)</td><td colspan="2">模型(2)Model (2)</td><td colspan="2">模型(3)Model(3)</td><td colspan="2">模型(4) Model(4)</td><td colspan="2">模型(5)Model（5)</td></tr><tr><td></td><td>标</td><td>标准系数</td><td>标</td><td>标准系数</td><td></td><td>标准系数</td><td>标</td><td>标准系数</td><td>北标</td><td>标准系数</td></tr><tr><td>常数 Constant</td><td>3.050 *** (0.125)</td><td></td><td>2.533 *** (0.115)</td><td></td><td>0.903 *** (0.135)</td><td></td><td>1.215 *** (0.152)</td><td></td><td>2.797*** (0.200)</td><td></td></tr><tr><td>气候变化信息</td><td>0.513***</td><td>0.174</td><td>0.789 ***</td><td>0.292</td><td>0.408 **</td><td>0.088</td><td>1.251***</td><td>0.314</td><td>0.030</td><td>0.007</td></tr><tr><td>Climate change information</td><td>(0.150) 0.056</td><td>0.015</td><td>(0.138) 0.731***</td><td>0.218</td><td>(0.162) 2.372 ***</td><td>0.411</td><td>(0.183) 0.120</td><td>0.024</td><td>(0.239) 1.526 ***</td><td>0.277</td></tr><tr><td>人力资本 Human capital</td><td>(0.205) 0.866***</td><td></td><td>(0.188) 0.224</td><td>0.046</td><td>(0.221) 0.270</td><td>0.032</td><td>(0.249) 0.423</td><td>0.059</td><td>(0.326) 0.574</td><td>0.071</td></tr><tr><td>自然资本 Nature capital</td><td>(0.254) -0.011</td><td>0.161</td><td>(0.234) -0.272 *</td><td></td><td>(0.274) 0.170</td><td></td><td>(0.309) 0.287</td><td>0.063</td><td>(0.405) -0.681 **</td><td></td></tr><tr><td>物质资本 Material capital 金融资本 Financial Capital</td><td>(0.167) -0.006</td><td>-0.003</td><td>(0.153) 0.066</td><td>-0.088</td><td>(0.180) 0.597 *</td><td>0.032</td><td>(0.203) 0.050</td><td></td><td>(0.266) 0.638</td><td>-0.134</td></tr><tr><td>社会资本 Social Capital</td><td>(0.284) 0.308 *</td><td>0.000</td><td>(0.261) 0.307 **</td><td>0.011</td><td>(0.306) 0.630 ***</td><td>0.057</td><td>(0.345) 0.610 ***</td><td>0.006</td><td>(0.452) 0.420</td><td>0.064</td></tr><tr><td>对社会话语的信任度</td><td>(0.165) 0.429 **</td><td>0.085</td><td>(0.152) 0.369 **</td><td>0.093</td><td>(0.178) 0.427 **</td><td>0.111</td><td>(0.201) 0.549 **</td><td>0.125</td><td>(0.263) 0.182</td><td>0.077</td></tr><tr><td>Trust in the social discourse</td><td>(0.198) -0.357 ***</td><td>0.103</td><td>(0.182) -0.336 ***</td><td>0.097</td><td>(0.213) 0.490 ***</td><td>0.065</td><td>(0.240)</td><td>0.097</td><td>(0.315)</td><td>0.029</td></tr><tr><td>适应激励 Adaptation incentives</td><td>(0.077)</td><td>-0.250</td><td>(0.070)</td><td>-0.258</td><td>(0.082)</td><td>0.218</td><td>0.455*** (0.093)</td><td>0.237</td><td>-0.276 ** (0.122)</td><td>-0.129</td></tr><tr><td>是否农区Farming area</td><td>0.391 (0.057)</td><td>0.332</td><td>0.124 ** (0.053)</td><td>0.115</td><td>0.223 *** (0.062)</td><td>0.120</td><td>0.107 (0.069)</td><td>0.067</td><td>0.047 (0.091)</td><td>0.027</td></tr><tr><td>是否纯牧区 Pure pasturing area</td><td>-0.005 (0.066)</td><td>-0.004</td><td>(0.060) -0.244 ***</td><td>-0.227</td><td>-0.044 (0.071)</td><td>-0.024</td><td>-0.048 (0.080)</td><td>-0.030</td><td>(0.105) -0.364 ***</td><td>-0.206</td></tr><tr><td>调整R²</td><td>0.216</td><td>0.205</td><td>0.632</td><td>0.364</td><td>0.117</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>F统计值</td><td>15.837 **</td><td>14.871 **</td><td>93.257 ***</td><td>31.788 **</td><td>8.139 ***</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+\*在0.1水平上显著， $\ast \ast$ 在0.05水平上显著； $* * *$ 在0.01水平上显著;括号内为标准差
+
+模型(4)考察上述变量与农户气候变化自我效能感知之间的关系,其 $F$ 统计值的显著性水平为0.01,拟合优度为0.364,说明选取的变量能够解释农户气候变化自我效能感知的 $3 6 . 4 \%$ 。结果显示,气候变化信息、社会资本、对社会话语的信任度、适应激励均与农户的气候变化自我效能感知显著正相关。说明气候变化信息获取渠道越多、所获信息越及时、准确的农户,感知到的自我效能越强;亲戚数量越多的农户,感知到的自我效能越强;农户对专家、权威机构及媒体话语越信任,越会增强对气候变化的自我效能感知;享受到技术推广、气候变化信息及气候变化预警服务,也会加强农户的气候变化自我效能感知。其中气候变化信息对农户的气候变化自我效能感知影响最大,适应激励次之,其显著性水平均为0.01,非标准化系数分别为1.251、0.455,标准系数分别为0.314、0.237。
+
+模型(5)考察上述变量与农户气候变化适应成本感知之间的关系,其F统计值的显著性水平为0.01,拟合优度为0.117，说明选取的变量能够解释农户气候变化适应成本感知的 $1 1 . 7 \%$ 。结果显示，人力资本与农户的气候变化适应成本感知显著正相关,而物质资本及适应激励与其显著负相关,说明农户的家庭劳动力越多且受教育程度越高,认为适应气候变化所需的成本越高;但是农户的家庭固定资产越多，且享受到技术推广、气候变化信息及气候变化预警服务，反而认为适应气候变化所需成本越低。其中，人力资本对农户的气候变化适应成本感知影响最大,物质资本次之,其显著性水平分别为0.01、0.05,非标准化系数分别为1.526、-0.681,标准系数分别为 $0 . 2 7 7 , - 0 . 1 3 4$ 。
+
+农户的气候变化适应功效、自我效能、适应成本感知与“是否农区”的回归系数为正,而与“是否纯牧区”的回归系数为负,说明相对于半农半牧区农户,农区农户对气候变化的适应功效、自我效能、适应成本感知更强,而纯牧区农户的感知更弱。
+
+# 4结论与讨论
+
+辨明农户对气候变化的感知,不仅有助于理解农户所采取的适应行为,更有助于执行有效的适应政策，对于缓解气候变化冲击下农户生计的脆弱性有极为重要的意义。本文基于农户调查数据,分析了甘南高原农户的气候变化感知特征及其影响因素,发现：
+
+(1)农户对气温变化的感知能力较强,但对降水变化的感知能力较弱,这与侯向阳[15]在内蒙古地区得出的牧户对气温变化的感知能力强于对降水变化感知能力的结论一致。研究结果发现，甘南高原 $7 9 . 9 6 \%$ 的农户准确地感知到了近30年气温的升高,其感知基本与气象数据相符,但对降水变化的感知出现偏差,与实际的气象数据不相符，仅有 $3 6 . 9 2 \%$ 的农户认为降水呈增多趋势。究其原因,主要在于近30 年甘南高原降水增幅微弱,远远小于气温的上升幅度,不易被察觉,且各地降水量时空分布不均、降水波动幅度较大[29],加之受干旱及水资源紧缺等因素的干扰,故农户对降水变化的看法不一,多数农户对降水的感知出现偏差。
+
+(2)农户对近期发生的、规模较大、影响较严重的极端天气记忆较深刻,却对时间较为久远,规模及影响较小的极端天气记忆模糊,这与沈兴菊[12的研究结果一致。主要原因在于,人的感知会受记忆及情感的影响,人们可记忆气候变化的时间往往较短,并会在气候风险的冲击之下产生强烈的焦虑及危机感,增强对气候变化的感知[30-31]。研究结果发现,甘南高原农户对暴雨的感知最为强烈,访谈中许多农户表示,近年来暴雨的频发造成农田、牲畜、房屋及道路等的严重损失,尤其引发的滑坡、泥石流灾害更是严重威胁当地人的生命安全，而问及干旱或者10年以前的极端天气时,农户反映并不强烈。
+
+(3)农户对气候变化的负面影响感受深刻,认为未来气候发生变化的可能性较大，自身应对气候变化的能力较弱,所需的成本较高,但是对于所采取措施的预期效果还是较为自信的,农户的气候变化严重性、可能性、适应功效、自我效能及适应成本感知度指数分别为3.76、3.34、3.43、2.85、3.53。相较之下,农区农户对气候变化的风险及适应感知最强,半农半牧区次之,而纯牧区农户的感知最弱。其原因主要在于,人们对气候风险的感知主要取决于气候变化对个人或家庭的影响程度[32],农区沟壑纵横,地形复杂,草地、林地及坡耕地均有分布,气候变化不仅造成当地草地退化加剧、作物减产,农业基础设施受损,农业成本投入剧增,还导致地质灾害(如滑坡、泥石流等)频发,使农户的生命及财产安全遭受威胁,农户面临的气候风险最大,故其对气候变化的风险感知最强,且认为应对气候变化所需的成本最高;同时,农区农户文化水平相对较高（小学及以下文化水平劳动力比例仅为 $3 6 . 1 6 \%$ ),外出务工人员较多（比例高达 $4 3 . 2 4 \%$ ，）,思想观念较为开放，面对气候变化会采取多元化的应对方式，无论是收入途径或者新技术信息的获取，都较为丰足，故感知到的适应功效及自我效能最强;而纯牧区牧户生计主要依赖当地丰富的草地资源,牧户面临的最主要气候风险为草地退化、沙化及盐渍化的加剧,牲畜疾病发生率的增多,故牧户对气候变化的风险感知不及农区农户强烈,认为应对气候变化所需的成本最低;此外,纯牧区牧户的文化水平普遍偏低（小学及以下文化水平劳动力比例高达 $6 8 . 2 4 \%$ ，受传统观念影响,接受新事物及新技术的能力较差,加之其生计方式单一,收入渠道少,客观适应能力弱,眼看着频发的"天灾”却无能为力,致使牧户感知到的适应功效及自我效能最低。
+
+(4)适应激励是影响农户气候变化感知的最关键因素。适应激励能提升农户对气候变化的认知及适应能力,例如,政府提供的气候变化信息项目及补贴政策，一些特定领域专家所制定的特定政策（如增强气候相关信息的沟通或保险网络的发展),会丰富农户的气候信息获取渠道,加强所获信息的及时性及准确性,刺激农户增加观察气候变化的频率,增强农户应对气候变化的信心,促进农户主动采取适应行动。当农户没有风险感知时,适应激励同样会成为农户采取适应行为的动力[24」。研究结果发现,适应激励对甘南高原农户的气候变化风险及适应感知均有显著的影响,激励机制越多，农户对气候变化的风险感知越小，认为适应气候变化所需的成本越低,对适应行动的预期效果越自信,认为自己应对气候变化的能力越强。但是,统计发现， $71 \%$ 的受访农户表示所处村镇没有气象信息服务,访谈中,很少有人提到会有广播或其他方式发布气候变化预警信息,故多数农户未能做好充分应对气候变化的准备,使其生计受损程度加大,这进一步说明甘南各级政府急需完善适应气候变化的激励机制。
+
+# 5建议及展望
+
+农户如何准确地感知气候变化,增强适应气候变化的能力,减少应对气候变化所需的成本,不仅是农户自身担忧的问题,更是政府在气候变化适应决策中首要考虑的问题。未来高寒生态脆弱区各级地方政府应大力开展气候变化专项研究,完善农村气象基础服务设施，为农户提供及时、便捷、准确的气象信息服务,并加强极端天气预报工作,及时发布预警信息;同时,要加大气候变化相关知识的宣传力度,开展气候变化教育活动，提高农户对气候变化的认知水平;此外,应积极开展技术推广及技能培训活动,拓宽农户的增收渠道,加快农村合作组织建设,加大对受灾农户的救助及扶持力度,并加强补贴力度,提高农户应对气候变化的能力。
+
+本文仅以甘南高原为研究区,分析了农户对气候变化的风险感知、适应感知特征,并简要分析了气候变化信息、客观适应能力、社会话语及适应激励对气候变化感知的作用强度,但是模型的拟合优度较低,说明还有其他因素影响着农户的气候变化感知,未来需要进一步探索影响农户气候变化感知的关键因素,解析农户如何获得与感知风险信息,分析各要素在气候变化感知形成中的作用,探明农户气候变化感知的形成机制;需要进一步关注气候变化感知与适应策略选择间的关系,揭示气候变化感知对适应决策的作用机制;同时,还需系统评估气候变化对农牧业生产及农户生计的影响。
+
+# 参考文献（References）：
+
+[1]IPCC.CateCange2-thehysicalSienceBsis：WkingGoupContributiotoheFourthAsessentReportoftheICCabridge：Cambridge University Press，2007.  
+[2]BordRsr,orEublicreptsofalag：Unidaitetilpsetiateea,11(1) : 75-84.  
+3]Leseroit.tegisepteereslftagedtia/）45-72.  
+[4] 谭灵芝，马长发.中国干旱区农户气候变化感知及适应性行为研究.水土保持通报，2014，34(1)：220-225.  
+[5] 常跟应，黄夫朋，李曼，李国敬.黄土高原和鲁西南案例区乡村居民对全球气候变化认知.地理研究，2012,31（7):1233-1247.  
+[6]GrothannTPattA.Adaptivecapacityandhumancogition：thprocessofindividualadaptationtolimateang.GlobalEviontalChange，2005，15（3）：199-213.  
+[7]KroemkerD,oslerHJumanulnrabilit-factorsifuencingteimplementatioofpreventiodprotetionmeasures：antbasedapproach/SteiingerK，Weck-HanemannH,ds.GobalEnviromentalChangeinlpineRegionsImact，Recogition，Adaptatioad
+
+Mitigation.Cheltenham：Edward Elgar,2002：93-112.[8]vaderLindenS.Thesocial-psychologicaldeterminantsofclimatechangeriskperceptions：towardsacomprehensiveodel.JoualfEnvironmental Psychology，2015,41：112-124.[9]BrodySD,anS，VeditzA,GoerHxamngteelatishetwnpaleabltndublcperceptiosofobalitechange in the United States.Environment& Behavior,2008，40(1）：72-95.[0Brodi,oaEaesofategeeabiltofallsinooalctRoyal Society B：Biological Sciences，2008，363（1498）：1803-1809.[11]HabibaU，Shaw，akeuciY.Faerspereptioanddaptatiopracticstopeitdoght:perspeisfroNotesteBgdesh.International Journal of Disaster Risk Reduction,2O12,1：72-84.[12］沈兴菊.青藏高原农牧民对气候变化和灾害的认知及适应对策研究.云南民族大学学报：哲学社会科学版，2013，30(6)：15-19.[13］田青，姚冬萍，苏桂武，刘健，谢今范.吉林省敦化市乡村人群气候变化感知的偏差及群体分异研究.气候变化研究进展，2011,7（3)：217-223.[14]BryanE，DeresaTT，GbetibouoGA，RinglerC.AdaptationtoclimatechangeinEthiopiaandSouthAfrica：optionsandconstrants.Environmental Science & Policy，2009，12(4）：413-426.[15］侯向阳，韩颖.内蒙古典型地区牧户气候变化感知与适应的实证研究.地理研究,2011,30(10)：1753-1764.[16］吕亚荣，陈淑芬.农民对气候变化的认知及适应性行为分析.中国农村经济，2010，（7)：75-86.[17]SmithJr,LuZWfiefK.ltegetiseatdortiuraldparaiealisNative Americans，non-nativeranchersandfarmersandmainstream America.Environmental Science&Policy，2014,42：101-122.[18]SjojerstenS，AtkinC，ClarkeML，MoneyS，WuB，WestHM.ResponsestoclimatechangeandfarmingpoiciesbyuralcouitisinnortheChieportofieldbeatoadfesperetioidryndotSaaiadngxiaLndUseicO：-.[19］姚檀栋，朱立平.青藏高原环境变化对全球变化的响应及其适应对策.地球科学进展,2006,21（5）：459-464.［20］姚玉璧，邓振镛，尹东，张秀云，杨金虎，陈昌平，安华银.黄河重要水源补给区甘南高原气候变化及其对生态环境的影响.地理研究，2007,26(4) : 844-852.［21］洛桑·灵智多杰.青藏高原甘南生态经济示范区研究.兰州：甘肃科学技术出版社，2005.[22］朱红根，周曙东.南方稻区农户适应气候变化行为实证分析——基于江西省36县（市）346份农户调查数据．自然资源学报，2011，26(7)：1119-1128.[23]ranEiatittitiotatioaeisiiGlobal Environmental Change，2011,21(1）：66-76.[24］赵雪雁.农户对气候变化的感知与适应研究综述.应用生态学报，2014，25（8)：2440-2448.[25]BoheskyELajgreteiousehldevelggetithatehageindosiatureCliaeCae(4): 348-351.[26]KuruuaptigateosateaeinbatieporaceofuralusdeanioentaSie&Policy，2009,12（7）：799-809.[27]Smit B,WandelJ.Adaptation，adaptivecapacityandvulnerabilty.GlobalEnvironmental Change，26,16(3）：282-292.[28]NelsonR，Kokic，EistonL，KingJAStructuralajustment；aulnerabilitydexforAustralanbroaacreagicultureustralianCommodities:Forecasts and Issues，2005，12(1）:171-179.[29］杨帆，赵庆云，张武.甘南高原气候变化及对水资源的影响.干旱气象，2012，30(3)：404-409.[30］云雅如，方修琦，田青，张学珍.黑龙江省漠河县乡村人群对气候变化的感知方式与认知结果.地理科学，2009,29(5)：745-749.[31］张慧，徐富明，李彬，罗寒冰，郑秋强.基于气候变化的风险认知.心理科学进展，2013，21（9)：1677-1685.[32］常跟应，李曼，黄夫朋.陇中和鲁西南乡村居民对当地气候变化感知研究.地理科学，2011,31(6)：708-714.

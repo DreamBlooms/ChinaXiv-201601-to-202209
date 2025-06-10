@@ -1,0 +1,1147 @@
+[
+    {
+        "type": "text",
+        "text": "提升机构知识库作用的实践一一多元学科教育资源的集成与再利用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "顾立平",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "香港城市大学邵逸夫图书馆 香港 九龙塘",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[摘要］在机构知识库的文献回顾基础上，比较香港多所大学图书馆以及北京的国家科学图书馆的机构知识库功能。设计： $\\textcircled{1}$ 根据用户的工作流程扩展机构知识库的功能； $\\textcircled{2}$ 根据用户行为重新设计机构知识库主页； $\\textcircled{3}$ 考虑电子邮件认证系统； $\\textcircled{4}$ 增加跨机构搜索； $\\textcircled{5}$ 整合Web2.0服务元素到机构知识库。采用参与观察法和案例研究法，提出一条工业化生产线：策划、宣传、举办活动，收藏、整理、分类图书馆活动，以及管理、检索与提供网络服务,此工作流可将图书馆活动转化为网上教育资源。[关键词]学习对象开放获取图书馆活动知识管理机构知识库",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1前言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在传统教育训练中，学生们透过讲课、教科书和测验（Talk，Text，Test）来学习一项技能。虽然透过这样的训练能够创造出一流的专业人才，但是他们进入到社会后需要面临来自不同学科专业的同事。在过去，透过这种专业训练的学生，毕业后或许能够立刻从事专业工作，但是在科技导致社会快速变迁的现代社会，这些毕业生有可能陷入无法和其它人相互（和谐）交流、相互（快速）理解与相互（有效）合作的困境。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为了解决上述可能存在的威胁，教育事业除了持续探讨如何加强专业技能外，也提倡对学生进行跨学科训练，以期让每个学生有欣赏别人、学习别人、与别人交流的机会。图书馆，作为一个教育资源的中心，负担收集、整理、组织信息的功能与作用。如何充分利用图书馆有限资源：那些资料和那片场地，以发挥最大效益是图书馆所面临的共同课题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "图书馆办理许多活动，包括：展览、讲座、研讨会、座谈会、说明会与培训。这些活动在举办前、举办当日与举办后，都产生大量的档案，这些档案可能是文字、图片、视频、声频等形式，但是都具有教育资源的价值。为妥善处理这些教育资源，进而发挥它在知识管理、文化养成与大学部门共同合作等影响，本研究针对图书馆活动的档案典藏与展示，进行工作流程、系统与服务的整体工作流程（TotalWorkflow）描述。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文多重案例研究：从图书馆策划、宣传、举办活动，到收藏、整理、组织这些活动成果的过程。为了培养学生具有多元学科训练的氛围，香港城市大学的中国文化中心、建筑工程与科学系和图书馆合作举办了学生作品展览，图书馆提供场地和活动策划，并且有系统地组织活动成果以利其它教职员、学生与校外人士查询。另外，对于学者专家的讲座，组织起一系列的活动课程。综合展览与讲座的举办、教育资源采集和信息组织的经验，研究结果形成一套管理系统与检索路径，以支持将图书馆活动转化为教育资源并提供网上服务。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 相关研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在数字图书馆与虚拟学习环境的议题上，SirjeVirkus 等人（2009）梳理从 2000年至2008 年在 LISA的相关文献，指出典藏（collaborative approach）朝着资源再利用（re-usability of resources）、跨搜索（cross-search）、节省学者时间（saving for academics）、图书馆员与学生的关系（librariansand students）等方向发展[1]。在图书馆建立IR的综述方面，Ashalatha Laxminarsaiah等人（2007）讨论从Archimede、CERN、DSpace、E-Prints 和Greenstone 中选择 DSpace 建立IR 的过程和结果，并且讨论了元数据的转换问题[2]。Plato L．Smith II（2007）讨论 IR 在数字对象描述和研究者间的中介关系[3]。John C．Kelly（2007）讨论如何解省IR建置的财务和技术资源[4]。而Marinne A．Buehler等人（2007）则认为[5]在组织典藏(organization’s archives)和机构知识库之间，存在许多灰色地带(Gray areas)值得未来研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在开放获取（Open access）和 IR 建置的政策方面，Elisavet Chantavaridou（2009）[和AndreasGeyrecker等人（2008）[]分别描述几个希腊运用 DSpace建立IR 的案例和政策。MarieWise等人（2007）[8]和 Sai Deng 等人（2009）都是说明美国的IR案例，但更着重在不同时期的元数据规范研究。而 NicholasJoint（2009）则比较了英美两国不同的机构典藏政策，指出这有利于相互借鉴，共同发展开放获取和 IR等机制[10]。这说明了不同区域之间的 IR可以相互学习，本文选择香港七所大学和中国科学院的IR 进行比较。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在大中华地区的IR研究中，香港的Irene S．M．Wong（2009）等人开发了集成香港七所大学的论文收藏系统[11]。这种跨校集成服务事实上也是一种新的跨机构的机构知识库，本文对此进行了解和比较。台北的 Kuan-hua Chen（2009）等人[12]比较台湾地区的大学图书馆IR 收藏量，并且利用所属大学的 IR数据提出改进方式。本文同样采取这种比较区域性相同机构，而后探索自身服务不足的研究模式。上海的GuoJing（2009）等人[13]论述泛在知识环境（Ubiquitous knowledge environment）下大学图书馆数字系统的导向（Orientation）、服务原则（Service principle）与服务概念（Service concept），例如：我到我选（I moveI search）等用户行为的考虑与设计。本文运用这些架构探讨香港的IR机制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在学习对象(Learning Object)方面，吴砥（2007）对学习资源进行过标准化和组织技术的讨论[14]。魏来（2007）对以学习对象为核心的机构知识库，所涉及的元数据、内容封装、系统互操作等进行过分析[15]。李静和周竹荣（2006）把学习对象和超级分布对象结合，以实现学习资源和学习服务的非集中式处理[16]。郑莉等人（2005）给出具体解决学习内容的入库效率、检索效率、数据一致性和完整性的方案[17]。周竹荣等人（2005）较早地提出了“资源库-概念图-网络课件”的模式[18]。梁慧芝与张小真（2005）较早地验证了学习型知识库的模型与框架[19]。透过上述文献所揭示的实际工作内容，学习对象即可获得充分与广泛的理解。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在 DSpace 应用方面，林颖和张智雄（2007）有系统地梳理了DSpace 对中文语言的支持、文件格式与元数据扩展的模式、工作流的制定和管理，以及与其它服务系统的集成等架构和方法[20]。马建霞等人（2008)则进一步详解如何将 Excellent 数据导入 DSpace 系统，以及如何定制元数据输入和显示界面的过程[21]。黄纯艳和曾为众（2009）向读者介绍如何安装 DSpace 和操作[22]。祝忠明等人（2009）有系统地说明 CAS-IR平台的设计和经验[23]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在储存模式的讨论方面，都平平等人（2009）定义和比较了机构仓储、学科仓储和个人主页博客的异同[24]。李静（2009）讨论了机构知识库、图书馆自动化、一站式服务、数字图书馆等信息管理方式[25]。范亚芳（2007）讨论机构知识库对资源建设、信息组织和信息服务的影响[26]。刘华（2007）讨论机构知识库进行长期保存的重要性[27]。李霞等人（2007）讨论了知识型客户服务的机构知识库[28]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对机构知识库作用的讨论，则有赵继海（2006）梳理了IR具有：学术传播、电子出版、长期保存、知识管理、教育、科研评价、共享机制等功能[29]。常唯（2006）指出 IR对机构成员智力资产进行收集、组织、保存并提供服务的作用[30]。曾英姿（2007）认为IR具有：展示成果、提升开放获取、隐形知识显性化、长期保存、提升信息获取效率、学术交流等特点[31]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "推广机构知识库方面，王学勤（2009）指出合作团队的组成与分工，以及政策支持的重要性[32]。李大玲与柯平（2009）则研究如何激励工作人员提交智力成果到机构知识库中的因素[33]。赖荣辉（2009）则提倡多元化策略以解决机构知识库的资源建设问题[34]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 观察IRs比较优点",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在香港城市大学图书馆的网站，会发现了一个特殊现象是不同数字的论文收藏量。在机构知识库有1968项标题（包括城大论文）[5]，但在其它系统的目录则包括3251个城市大学的论文[8]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第二个现象是，两个系统中的同一个作者有不同的文献。以Ahsan Ullah，A．K．M为例，一方面机构知识库收藏了该作者的一个文件[37；另一方面，目录系统显示相同的学生有三个文件[38]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "最后，两个系统无法进行双向交互，从catalog可以找到IR的内容，而从IR就不能有Catalog 内的所有数据和资源。形成IR功能在无形中被弱化，甚至造成资源重复建设的不良印象（尽管其功能和目的是不同的）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "这样的观察仅仅是片面的，因为每个系统都有不同的目标、功能、支持和典藏。但是它可能会造成终端使用者在信息搜寻行为（information seeking behavior）中的混乱和焦虑（请参考[39]）：他们会想图书馆出了什么问题，为什么当我使用信息检索系统时会出现两个不同的结果，以及如何确定最后的搜索结果是正确的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "然而，对于第一个现象，其实是IR只包括了博士与研究型硕士的毕业论文（Thesis）而Catalog不仅包括 thesis 也包括了部分本科生和非研究型硕士的毕业论文或作品（Dissertation）[40]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于第二个现象，其实是IR收藏了该作者的毕业论文，而Catalog收藏了该作者的论文与著作。此外，在catalog中有纸本和电子版的书目数据，而IR只有电子版的书目数据，这也是同一作者不同作品数量的另一个原因。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于第三个现象，其实是因为工作流程上，目前使用Marc元数据格式，先由Catalog完成MARC 数据后，再转成 XML檔，由DublinCore格式输入IR系统。而关于2003年以前的纸本数据已全部数字元化，并且由Catalog完成 MARC数据后在 Series Online上服务。因为Catalog 和IR的数据都是来自同一个服务器，所以不会有资源重复建设的问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如果读者熟悉每个图书馆系统的目标、功能、支持和典藏，那么就不会有疑问，但是我们不能保证每个读者都有图书馆员一样的系统熟练度，也不能保证每个用户都受过完整的操作训练。因此，如果从工作流程和接口设计上略作调整，就可以在原有基础上增进IR的收藏与服务。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "提出改进IRs的要点",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.1根据用户工作流程而扩展IR页面的基本服务功能",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在香港浸会大学的IR里[4]，读者一边查询一边可以看到IR 的部门（department）、学位（degree）、年份和语言的收藏数量，虽然是简单统计但是相关辅助查寻的书目资料一目了然，相反，香港城市大学图书馆 IR 没有提供类似的功能与服务。虽然香港城市大学图书馆 IR可以直接看到标题（title）、作者（authors）、主题（subjects）和、最新上载（date）的条目（item）和数量，可是标示并不如浸会大学清楚和直接（需要再次点击）。对于Communities& Collections（与 Department 同义）的条目和数量是个别呈现，而且需要读者依次查询每个学院下的每个学位所包括的论文（共需要点击三次）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "香港中文大学的论文收藏，则是将之与catalog系统结合在一起，在查询结果下方会出现纸本的物理位置和电子版连结[42]。这样，虽然没有名之“IR”的收藏与服务。但是对于使用者而言，只需要查询一个信息系统，就可以完成包括对学位论文在内的该图书馆馆藏的查询。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "香港理工大学博硕士论文库，虽然不是建立在DSpace 系统而是以JAVA构建整个系统，但是它拥有的功能可比一般商业数据库[43]。使用者可以选择需要的论文后，点击“输出（Export）”将它下载或传递到Email信箱中。对于使用者来说，使用IR就如同使用电子期刊数据库，他们不需要额外学习新的系统。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "上述三所大学的学位论文制度和IR 系统虽然与香港城市大学有所不同，但是，在IR页面的功能扩展方面，他们提供了几个有意义的思考： $\\textcircled{1}$ 现有的IR服务应该在使用者接口上，根据使用者工作流程(user’sworkflow）提供相应的基本统计资料； $\\textcircled{2}$ 学位论文查询系统应当力求符合使用者查询数据库的习惯，或者至少将图书馆内的各个系统统一成某一类交互接口的模式（The modelof interfaces）； $\\textcircled{3}$ 在IR页面上应该增加一些连结（links），这些连结应该出现在不同页面的相同位置，而且有利于用户使用其它该图书馆的系统和服务。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2根据用户使用习惯而设计IR主页和页面链接",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "香港岭南大学的Catalog 系统中，虽然论文收藏137篇，但是它提供了“Search Google scholar”和“find relative resources”两项功能[44]，来弥补论文数量不足所可能导致的服务困难。此外，这两个连结虽然不是IR的主要服务，但是它们将IR和图书馆外的网络服务（Google）结合，同时将 IR 和图书馆内的其它电子资源服务（relative resources－catalog）结合。对用户而言，与香港城市大学IR比较起来，岭南大学IR 像是一个介于图书馆内外的中介者，而不是Catalog的一部分。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "此外，香港教育学院IR 也是在 DSpace 的基础上建立[45]，但是它的主页仅有一个查询（Query）符合一般用户在Google上的查询习惯，如果进入到Advance Search 才会出现多个查询窗口。在IR主页右侧也有其它相关连结，主页下方不是空白而是当前 Browse的内容条目。对用户而言，虽然教育学院IR 与城市大学 IR 相差不多，但是前者的设计较为符合用户使用的习惯，也较为细致和完整地呈现建立在 DSpace上的 IR 的可拓展功能。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.3IR电子邮件认证系统",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在香港大学的 IR 机构里，需要特别关注“香港大学论文在线（HKUTO）”［46]。在 HKUTO 里有一套电子邮件认证系统（E-mail authentication system）。他们可以确认每个用户下载什么、在哪里、如何发现该论文，以及可以自愿填写意见的用户反馈，这意味他们可以计算出用户行为，在统计的基础上改进服务。此外，在下载之前用户必需确认识别码的这一系统工作流程，也是一种限制下载频率的有效方法。这一套系统和Sum 公司的在线论文一样，是有限度地开放论文下载。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "香港理工大学博硕士论文库和香港大学论文在线不同，前者强调用户可以一次性地下载所需要的资料，而后者强调使用者每下载一篇论文都需要说明其理由和邮寄一次。前者缺乏后者对于用户行为的数据采集，这对于分析使用者行为改善服务流程有所局限；而后者缺乏前者对于用户行为的配合性，只能服务到专门采集某一篇论文的检索型使用者，而不能服务到采集多篇论文的浏览型用户。如果香港城市大学IR系统能够将前两者截长补短，将会有更多地服务空间和服务机会。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.4增加跨校搜寻引擎",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "我们能借鉴香港科技大学的比我们在网站能看到的还要多。当然，科技大学的服务不完全是世界上最好的，但是他们有许多我们同样能够去做而且做更好的事情。在典藏论文的议题上，香港科技大学类似城市大学有两套制度，其中之一是“电子论文”系统，另一种是“香港机构知识库”。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "作为早期投入IR的实践者，“香港机构知识库”在英文期刊中被报导[47]，似乎代表了亚洲的案例，即使是D-Space 的网站里也介绍过它[48]。其中一项最令人感到有趣的是它的名字是“香港机构知识库”不是“香港科技大学机构知识库”，而隐藏在这个名字后面的是跨校搜寻引擎[49]。透过点击香港科技大学网页，凭借跨校搜寻引擎，用户可以搜索任何一篇香港制造的论文，这就是我们为什么关注“香港机构知识库”的原因。例如，我们可以在科技大学的机构知识库系统中搜索到香港城市大学的博士毕业论文。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.5加入Web2.0的服务元素",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在香港特区以外，中国科学院国家科学图书馆也是一个重要案例，因为该图书馆在内地属于规模较大的图书馆(有超过470名员工，服务超过来自24个中国内地城市的89个中国科学院研究所)与欧洲的EIFL、德国国家图书馆、史丹福大学图书馆、日本 JST和韩国KISTI等机构都有长期合作。最近则开发了机构知识库[50]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "类似城市大学，中国科学院的机构知识库也是基于D-Space但是增加了更多交互式服务（Interactiveservice）[51]。例如，在网站的搜寻引擎只有一个查询窗口整合所有的数据库系统。如果用户进入机构知识库网页，有很明显的最新上传项目（10项）、下载排名（10项），以及与其它图书馆的系统的连结。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "点击后，用户不仅可以读取元数据和下载档案的资料，而且还有版权确认、推荐引用，以及与谷歌学术、Scirus、社会书摘、终端使用者浏览器日志记录等[52]这些Web2.0服务的元素。因为IR的作用在于自由学术交流（free scholar communication）而 Web2.0的重点在共建（Common Building）、共享（CommonSharing）、共创（Common Creating）的服务，透过加载在IR 网页的连结，可以更加完善IR的服务，使它变得更具有自由学术交流的氛围，进而降低用户的排斥感而提升它收藏的速度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5改良IR的实践工具",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.1关于DSpace的选择与利用",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由麻省理工学院和修伊特开发的DSpace是一个开放源码的系统，它符合倡议元数据传输协议的OAI-PMH格式，并且允许项目索引和容易通过互联网发现。它最大的特色在于档案不仅能存放在仓库，也被机构所指定的标示符所定位，从而能够长期储存与索引数字对象。对本研究来说，基于DSpace的机构知识库是目前香港城市大学所具有的数字化典藏系统之一，根据这个基础，可以较为经济地发展图书馆活动的档案集成系统。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.2关于Dreamweaver的选择与利用",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由Adobe公司出品的Dreamweaver网页编写软件，是一套符合高效率与简易性操作策略的工具。它最大的特色在于方便、省时，并且能处理各种类型的网页编写语言。对本研究来说，这套软件可以方便制作出集成系统所需要的交互式网页。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6 图书馆工作流",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在数字图书馆 (DL)中，作为一个组成部分的机构知识库(IR)具有两种功能，一是收纳学术社群活动成果的数据库，二是收纳图书馆本身活动成果的数据库。在香港城市大学图书馆的机构知识库中，已包括了电子学位论文、得奖作品与优秀论文等学术活动成果的内容与管理。而图书馆本身活动的内容与管理，则是本项研究所讨论的另一项增进机构知识库功能的工作。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据调查，图书馆活动可分述如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A．人文与艺术 (Humanities and Arts)  \nB.跨学科合作 (Interdisciplinary Collaboration)  \nC. 跨机构合作 (Inter-institutional Collaboration)  \nD. 长三角与珠三角信息中心活动(Pearl River Delta and Yangtze River Delta InformationServices Centre Events)  \nE．阅读力提升(Reading Promotion)  \nF．其他 (Others)",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将上述图书馆活动转化为教育资源的工作，可建立在如图1所示的机构知识库框架：",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/89a6ae2612f4c1e5705da40b49cee469e3304c16c37b2dbc2d0509ba9c41c2a0.jpg",
+        "img_caption": [
+            "图1 机构知识库架构(源自Jantz R.C．& WiIson M.Y.[53]本文翻译)"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据 MIT Libraries在 2004年所标示之服务模型[54]以及Awre C.和 Swan A.(2007）[5]、Jones R.(2007)[56]、Rumsey S.(2006）[57]等人的案例。可化约为：服务使命、文件类型、关键用户与发展策略等四项。按此四项定义图书馆活动转化为教育资源的集成服务系统模型如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A．服务使命a．增加机构知识库的馆藏数量b．保存图书馆活动的工作档案c. 宣传图书馆活动的成效d. 管理此类教育资源  \nB．文件类型a. 正式出版物b．活动记录c．学习材料  \nC．关键用户a. 图书馆工作人员b．大学行政人员C. 校内外大学生d. 参与活动的贵宾",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "D．发展策略",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "a．长期资源保存，并且发展可持续的教育资源集成。  \nb. 以活动团队与行政团队支持系统团队的资源采集。  \nC. 视情况需要，可改变呈现方式等服务策略。  \nd. 以著名学者和大型活动为主，其余为辅，依次整理与汇集。  \ne. 经相关人士同意后，尽量发布相关活动的内容与过程。  \nf．若在资源稀缺的条件下，则提供基本书目和元数据内容。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1整体工作流程",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "整体工作流程分为三个部份：图书馆活动的档案生产、储存与利用（服务）。这三个部份的具体结果",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "是：档案整理、知识机构库操作与网页呈现。如图2所示：",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/6734c7b6fc8a16fd7d7a3a9fdab00127277b20219892188806589b87758dbfc6.jpg",
+        "img_caption": [
+            "图2整体工作流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A．生产流程(活动管理）",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "生产流程是指：举办一个活动，并且在举办活动的前期准备、活动当日与后期整理等三个过程中，所产生的相关档案，以及对相关档案的整理。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "B．储存流程 (系统管理）",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "储存流程是指：对生产流程之后的大量经整理过的档案，由数据库系统执行上传档案、查询档案与下载文件的工作。这涉及对该图书馆活动的描述、数据库系统的操作，以及对档案使用的测试。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "C．服务流程（网页管理）",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "服务流程是指：对储存流程之后的大量事件纪录与附加档案，按照用户特征与行为的模式，经过网页链接所呈现的资源管理。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2生产流程",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A．图书馆活动流程",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图书馆的活动流程中，包括了五个阶段，如图3所示：",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/6c4d9188703cfa93d49e21b68b6fcdcbabfeea92ce2b28291e71e4dc48d4771f.jpg",
+        "img_caption": [
+            "图3图书馆活动流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图书馆活动与机构知识库的关系，如图4所示：",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/efea72b93f72665346275e0bc1c0444396b53d040507b25414165cc27a7a4b82.jpg",
+        "img_caption": [
+            "图4图书馆活动与机构知识库的关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "B．图书馆活动的生产力",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "若举办图书馆活动所产生的档案为一种产品的话，则根据图书馆的活动流程，可再描述一个图书馆活动的生产力如图5，图6所示：",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/b5a4d968db6b997e8c28a1b1735264871d7db293a61cb7a06feb7f9b0e3554ef.jpg",
+        "img_caption": [
+            "图5内部交流的不公开档案"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/394ebeb21b5f7376496f28b7b41daebbaa3242f79e9ff2698b17577fab711ef2.jpg",
+        "img_caption": [
+            "图6对外交流的可公开档案"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "C．图书馆活动所产生的档案",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "虽然每项图书馆活动的执行状况各有不同，但是从图书馆的生产力角度来看(见图5和图6)，档案可以被分类如图7所示：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "01邀請說明信 13大幅海報  \n02请者个人資料 14小幅傳單  \n03演題目與大網 15電子郵件（民眾）  \n16新聞草稿  \n04相關與會人員  \n05場地與時間 17當日日程  \n06接待人員 18司儀講稿  \n07接待方式（旅館交通） 19活動照片01-講者獨照  \n08茶水與點心 20活動照片02-交流實景  \n21活動照片03-④體合照  \n09演講摘要 22演講紀錄  \n10演講草稿  \n11邀請信（貴賓) 23手册  \n12合約書（講者） 24多媒體CD",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "图书馆活动所产生的档案，无论是何种文件类型、无论有没有该类档案、无论档案内容是什么，都以下列标准化格式，将它们的文件类型、格式、名称等统一口径。如下：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "·包括文字、图片、简报的档案，储存成「pdf」的文件格式。  \n·格式为「pdf」的档案，大小以A4或A3为宜，原件超过A3则等比例缩小。  \n·视频档案，储存成「wmv」以利于网上传播。  \n·声频档案，储存成「mp3」以利于网上传播。  \n重要的演讲录像，且作为不公开档案，格式为「avi」以保存其画面质量。  \n·檔名「日期+LIB+分隔符 $+$ 事件类型 $^ +$ 分隔符 $^ { + }$ 尊称 $^ +$ 姓 $\\cdot +$ 次序 $\\cdot +$ 文件类型」。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "例如：「20091104LIB_lecture_profchow02.pdf」表示「2009年11月25日在图书馆做讲座的邹教授的第二份档案」。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在举办前、举办当日与举办后所产生的大量档案，经过系统性整理后，可以分为两个部分，一种是提供大众与公众人物使用的文件类型与系统权限，另一种是提供工作人员使用的知识管理。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "针对图书馆活动的档案典藏与展示，所进行相关系统规划，如表1所示：",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/2cc85fe599cd7c2ee9bed4012d08b7ba5b21f8ccef3d715e4355e153d2bd531f.jpg",
+        "table_caption": [
+            "表1总结系统规划"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>提供一般民众使用</td><td>提供工作人员使用</td></tr><tr><td>对象</td><td>社会人士 大学学生 受访贵宾</td><td>图书馆员</td></tr><tr><td>系统功能</td><td>浏览、下载</td><td>浏览、下载、上传</td></tr><tr><td>系统要求</td><td>快速、准确、可下载</td><td>完整性</td></tr><tr><td>系统权限</td><td>开放获取</td><td>开放获取+控制获取</td></tr><tr><td>文件类型</td><td>可公开档案</td><td>可公开档案+不公开档案</td></tr><tr><td>文件格式</td><td>PDF (+WAV)</td><td>PDF+AVI+JPEG+HTML</td></tr><tr><td>档案存放</td><td>服务器</td><td>数据仓库</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "具体工作情况是：将「Discovery of the Architectural and Cultural Values of Chinese Bridges ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Exhibition」和「Protecting the Environment in China and in the World」的数据予以系统性梳理。已将每个活动所产生的档案予以列表(List)，对列表中的每个项目(Item)给与文件类型(File type)与权限(Access)的说明。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.3储存流程",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A．机构知识库上传档案流程利用标准化格式将图书馆活动所生产的档案整理建档后，即可上传。步骤如图8-图13所示：",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "GyU Diital University Artives 1.5(Test）:llue-Winduwsinenet xuure -×   \n8 p//144/14.175p. ④×L St 8   \ntUtlUvelyAele 图Pa , RunRun ShawLibrary 1 二 abb CityUniversity of HongKong CityUUniversityArchives   \nSearch CltyU Dlqltal Unlverslty Archives 1.'（1esting）>   \nAdrat Welcome to the CityU University Archives DctalUnytAchives   \nSubject Search (CityUUA)! DigiaTieTon mwhal wcollur pluau   \nIome Whal is Ciyl UnivnrilyArthivns visit the nbove slte.   \ncouin CityUnivetyAieistiglalcnialasen:lrpurinyandpresvinyIn II s:hdlnrlyculpulolIhn{Inivcasilycprrnunily,TIinhuillonDSpstn,nnopertsbtrcn   \nBrowse system tointly developed by M1land Hewett Pnckord.Ihe Repository Is compllont Recent Submissions   \necorc rous wIth the Upen Archlves Initlative Metncinta Harvestinq Protocol (OAl PMH),which   \neDte Cxhibtln Openg   \nAmor E Book Conference 20u8 Search   \nSutjeel Ihe At of Sun Isz and   \n1020 Fnlersorneexlinthchox?clDw（scsrch DSm:. Menagrnen   \nypn   \nOllicn G Mgrigete Perspective on lalwon   \nGo to Communities in DSpace   \nun Ru.hay ctyu Ctama:dcommunilyIolrbwea:ilstxlkusire. Top downloads librdey Cnnfernnces ond 1xhihmons[5] 2008-09（from CityU aqe Azum |21 UA）   \nSign on to: endeipinatylemng Reenes4]   \necelveemell ined Title Download   \nMy DSp Publcetun anl Newsle17 28th Senate   \nPelirars Gtnrlt Meting1 55 +   \n5 (III 1 t|tteacn €1073 +   \nGtyU Diital UiversityArdies1.5(Testi):RerdGroupndSeies-WinuowsIntenetple -×   \n-hp/4/14.17sjspmmity li ×L .   \neUalUelyNthee 图Pa , RunRun ShawLibrary Aa ba City University of HongKong CityUUniversityArchives   \nLecged in as dscerin CItyU Dlqital Unlversity Archlves 1.5(1estinq)>   \n(Legout)   \nSearch Recard Group and Series Admin Iools G Create top-Level Communtty..   \nAdlvancselSncd Shovn belowisistolrcordroupsantithe seris withinthemClick un   \nNuhjer:1Seearult nnme to vlewthnt qroup orserles home poge. Achrin Melp...   \nllome. Login ·Conferences and Exhibitions [3] I1 CityUMeneahilixibiin[2] F-bon onx20n8[1]   \nRend Grs Browse Image Album |2| Libroy Imoge Album [21 ASei   \nissue Dabe ·Interdisciplinary Learning Resources[4]   \nAuthor Lectuire Serles [1]   \nTiltn Prajes []   \nSubject 10020 ·MultidisciplinaryE-LearningResources[4]   \nTyp EV   \nOllicu Lectures,seminars, workshops[1]   \nGo to ■Ptoteuling theEnvironmenlinChina znd inthe World byG.Chuw |11   \nCityU   \nRuRun Shaw Online Videos[2] Librdry Fnmons Scholnrs/Wrters lerture ieries[]   \nSign on to: Pubiatnde[7]   \nRecelve emal] o Suhuol ol Law Newslcller [3] updalc; - · (III 1 rtmterte acn 电1073.   \nGUiUi -×   \n2 http:/144714.175,40/jsp.i/hndle//137/5409 ×L St 。   \n会云 ClyU lUversilyAhwesL.5 le. 图Pai - RunRun Shaw Library 1 0 Bbb CityUniversity of HongKong CityUUniversityArchives   \n[egpdtn asdcein > AdminTols   \nSearch G Exhibitions:[3] Ctsale coleclion   \nstjnaedah Record Groups home page Ctesile Sab caerunily   \nllome Login In:Fxhibiliotr Srairth for - Cporl GCorrrutily =   \nRendGroups Browse SutpclTieAutter or browsc leae:Dakes Export (migrste) Comnuntty Adir Heip..   \nssue Date Recent Submissions Series in this record group   \nTille Dlscovery of the Architectural ond   \nSubject 10020 DsoveyfthAchtectuadultaVuesCnesed Culural Valus ofChineselritlgns Cxhibiion(Promniion Mainrials)   \nTe ■ ullVui Exhlbition（Office Documents)   \nGot iayfl   \nRunRun Shaiw Fxhibilion（lcening Objtais) Library   \nSign on to: RSS Feeds   \nKecelve emal palc; 四 四 +   \nt -- 111 1 t|mtte ac 51073. .   \nC CtyU Digital =0x   \n2 http://144.214.125.40/jspui/toois/edit-item?item_jd=5271&submit=Edit. xeSe 8·   \nCityUDigtalUiversy Archves.5(.. ···Page·Ts = Run Run ShawLibrary City University of Hong Kong CityUUniversity Archives   \n③ Communities/ CityU Digital University Archives 1.5 (Testing) > Collections Administer > 二   \n@E-pple Edit Item   \nItems PLEASE NOTE:These changes arenot validated inany way.Youareresponsiblefor entering the data inthece   \nMetadata you are not sure what the format is,please do NOT make changes. Registry   \nBitstream Format More Help...   \n@Workftrw Item internal ID: 5271 Wendraw.   \n③ Authorization Handle: 2132/5496   \nEdit Default ③ Edit News Last modified: 24-Nov-2009 10:25:54 Delete (Expunge...   \ns Move Item   \n③ Withdrawn Items Authorizations:   \n⑤ Help   \n@ Log Out Schema Element Qualifier Value Language Chov, Gregory 1 dc contributor author Remove . 2009-11-24101:58:16z . dc date accessioned Remove - 2009-11-24T01:58:162 - dc date available Remove . \\* , Intemet | Protected Mode: On 100% 1 ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/4eef8a8aa6f9df095c95360c1e4d2ccd7a70ad25cd5cdf128d7daf3753d3ec7d.jpg",
+        "img_caption": [
+            "图8进入机构知识库主页选择login登入",
+            "图9 登入机构知识库输入账号和密码"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/2228c6015ad962a41ede5fbd6e05ce921ac4d15529ac1373c8a4e1a2a1b7d798.jpg",
+        "img_caption": [
+            "图10 进入编辑系统后选择RecordGroups准备记录",
+            "图11选择Multidisciplinary E-learning resource位置 "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "B．机构知识库查询档案流程",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "将图书馆活动所生产的档案上传后，即可提供读者查询。查询步骤如图14-图17所示：",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "GyU Diital University Artives 1.5(Test）:llue-Winduwsinenet uure -× e p/14414.175p. ×L St . 雪 CtyUlUversilyAhsL.5le Paeo - RunRun ShawLibrary b雪如 CityUniversityofHongKong CityUUniversityArchives Search CltyU Dlqltal Unlverslty Archives 1.'（1estino）> Adog Welcome to the Cityu University Archives DtalUnveyAclves Sublect Search (CityUUA)! DigilaTniaveTolern iwhat wc ollur,pluatu Ipne Whal is Ciyl nivnily Arrhivns visit the nbove slte. Louin III CityUUniversityArhivemisstligilal cnlintalatealr aplnrinyandpresyvinyIhn s:hdlarlyaulpulolIhn{Inivcasilycornenunily.TIishuillonDSpsta,xnope1sourcn Browse system 1ointly developed by M1l and Hewett Packord.Ihe kepository Is compliont Recent Submissions ecord Groups wIth the Upen Archlves Initlative Metncinta Harvestinq Protocol (OAl PMH),which Aeet Ecxhibtlon ipening Auror E book Conference 2008 Search Suljee Ihe At of Sun Isz and   \n10020 Fnlersorneexlinhchox?clbw{scarchDSgm. Menagrnen; [G] Moriged Perspective on lalwon Go to Communities in DSpace RunRun.Sha Cityu CwdcmmunilyIolroeea:ilsxlkusirei Topdownloads librdry fenesond1hhons[] 2008-09 （from CityU Inaqe Abum 121 UA） Sign on to: eiay lemi Re celveemo) Title Download   \n28thenate 55 + ! (III 1   \n1on t|tte oa €1073   \nGtyU Diial Unveityrs1.5Testi):Muidsipliy -LerResce-WinoInep -×   \n②-tp/144/14.17sjp./hnd/1325408 ×L Set 8   \n会 tUalUle Paeo - Run Run Shaw Library 1 ##如国 City University of HongKong CityUUniversityArchives   \nSearch CItyU Dlgltal Unlversity Archlves 1.(1estinq）> Recent Submissions   \nS Multidisciplinary E-Learning Resources:[4] Archiveryfthned   \nIlome Record Groups home page Cllal   \nLouin Mnterlnls) Dn:MulidisciplinaryFIcaining Rozuntcs   \nBrowse SHirch lur Gu Archiceryfthed   \nRecordGroups Cullural Valuus el ASerics browse Chinese Bridges II   \nIssue Dale Sutject Iite Author Issue Uate Exibition Ofice   \nAuthor Dacenl:i)   \nTill: Discnvery of lhe   \nSuhjeel Sub-series within this record group Archilcn:iural snd   \n1020 Cultural values of   \n1ypn Exhlbitlons[3] Chinese Brldges £xhibition (learniny   \nollic Objtis) Lcctures, seminars, workshops [1]   \nGotu Ermegi   \nun Run.Shaw   \nSign on to: RSS Feeds   \necelveemall   \nMy DSpx uthcrzce ucrs   \ndit pfi +   \n1 III 1 rtmtete oacn 1078. GtyU Digital UniversityArdies 5(Testinu): Druwsiny CiLyU UA - Wirxuws Irterrel Explurer -点×   \n? p/44/14175/p/hnde/132/408/hrowrtyp-tits.bmit bw-Tit ×L t 8 lU Dal UwerslyAhsL.5le 图Pai = Run Run Shaw Library b CityUniversityof HongKong CityUUniversityArchives   \nLeged in a: iD CltyU Dlgltal Unlversity Archlves 1. (1estinq）>   \n[Logout) Browsing \"Multidisciplinary E-Learning Resources\" by Title   \nSearch Gu JuMPtO:O-9ABCDEFGHIJKLMNOPQRSTUVWXYZ   \nAtlvancalSeurch   \nNuthjet:1Searth orenterfirst few letters: [Gul   \nIone Sorl by:tte In orclur：AsoendingRculs/Payc 2OAuturs/Ruvord;Al·updste   \nLogln Showing resnls 1 to f   \nBrowse IseamDaic Title Aulher(:)   \nRerd Grops e cA   \nTill 2y Oct 2uugDiscovery of theArchitectural and Cultural Values of Chinese Bridges Exhibition LB;CCIV;   \nSubject (Promotion Materials) RS1   \n1020 10-Ntv-2nngProtecting the Environment in China and in the World Grcury   \nOllicu Shwiny rcll: 1 to 4 c 4   \nGo to   \nCityU   \nRun Run Shaw Library   \nSign on to:   \nRecelve emal [dal; tmtte Mac 风1073. GtyU Digital Universiy Arves 1.5Testinu）: Prutectinq thevirun eininWe -x £9 htp://144714.175,0/p./hnde/2132/5406 ·×L Set 8 elU Dal Uverst hesL.5e. Paeo , Run Run Shaw Library Ra bs b CityUniversity ofHongKong CityUUniversityArchives Lecged in a: iD CItyU Dlgital Unlversity Archlves 1.（1esting）> (Legout) Intnrdisclnlinary 1carning Knnotnes> IedrnSivies> Search G plense use thls Identiflerto cite orlnk to thls tem:htto:1/4.214.125.10/1spul/handle/2132/>190 AdlvancaedSenurch Nuhjer:1 Neearth Title:Prolecing IinFnviterennlinChinia nd irrlhc Werkd Ilorme. Originati \\* LogIn Issue Date:1n-Nv-20n9 Event Date:10-Nuv-2009 Browse Summary:Ihis lecture will present important nccomplishments In developinq cleanenergyand In RedGup rAgulnting air pollution In Chlnn and nropase a solutlon to the prohlam of limlting ranbon teniszsicnizt(hcwnrltl1hrcughrcoslulienqflhe:Unil:ulNaliarii. &Seis Issue Dote Keywords:EnvirorenLel proleclion Author AppearsinClle Till Prble(ing IhtFrvirorrmrnl.inChintsndi:1lhcWorldbyG.Chow Subject   \n10020 Files in This Item: Typ llicu rile Description Size rurrriat tyl HK 1ibmry 1D Nov >op)iegory Chow.ppt i (nly 122.5kli Mcmsoft Powrpont Vew/tp Go to CityU RunRun Shaw Qtyl nkhmrynNov 2oo)timgnryCChow poste.Jng 7.0 kli G Librdry Vew/Open Sign on to: Recelve emall sC45. 4.(1 MIi JPI 鑫   \n1xlcm; - Vicw/tipen + ( I1 1 eraet|mtertedModc 风1073. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "C．机构知识库下载文件流程查询到图书馆活动的记录后，即可提供读者下载。下载的两种情况如图18、图19所示：",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/03a55d4668272d2248abb6514168c2eaf0490543e3eadc12c4eab17f38255c17.jpg",
+        "img_caption": [
+            "图18直接下载可公开档案",
+            "图19 需要输入账号密码才可下载不公开档案"
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "2 t/144214154546 产   \nyU ga 15Te CU Uty 15LgWdL .   \nSeh CyUDgal u G Interdisdiplinan P Mp01.2141250 P Lecture Series 啤 · 1   \nSebject Seardh 国 i dk/2132/5496   \nHome Run Run Shaw Library   \n③ LagIn A City Universily of Hong Kong Originating   \nBrowse   \n3, Recoerd Groups Log In to DSpace Hetp... &Serles A Bean enrgy ard in   \nIssue Date New user? Click hre to register. Em ef limiting carbon Aa in C Pesets   \nTep 20 Files i E-mal Address   \nType   \n@ Offoe Pasmmerd: Pat   \nGo to OHH LgIn p W   \nnRun Sha @ Gtyu OyH Hive you foe gotten yeur pastuordr Librarγ Poeed by D5pce Sotwe nd Heae-Pan Wen/Opes   \nSign on to: 20og OtyU Uthiry - 5ed feedback to Ubnery Systemi   \n@.Receve emall DSC_4 update   \n.My DSpace VesyOpen ed e OHUHX Vew/Opes   \nEdit Profte 5   \nAbet CtyuUA D5C_4 · e Mde On 10% ： 厦 T   \n中 二 1 ot Me n 电L0% \" ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "在系统建置部分，建立一个社群(Community)，称为「Interdisciplinary learning Resources」（跨学科学习资源)，再设定两组典藏空间(Collection Spaces)，分别称为「Pro ject」（计划)和「LectureSeries」 (讲座系列)。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "在试验样本部分，已将「Discovery of the Architectural and Cultural Values of Chinese BridgesExhibition」桥梁结构展览的元数据内容和四个档案，存入「Projects」空间，并将「Protecting theEnvironment in China and in the World」邹教授演讲的元数据内容和四个档案，存入「Lecture Series」",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "空间。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "在检索流程部分，已针对「参与活动的贵宾」、「大学行政人员」、「校内外大学生」、「图书馆工作人员」等四组关键用户，设计符合使用需求的用户检索流程。四种用户建模，分别为「To know the events」(想了解活动的用户；针对教务人员与大学生)、「To review the event」（想回顾活动的用户；针对贵宾与大学生)、「To use the resource」（想使用资源的用户；针对大学生与图书馆员)、「To re-organize& to make the resource」 (想提供资源的用户；针对图书馆员与教务人员)等。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "在权限管理部份，已设定系统的「Open Access」(开放获取)和「Control Access」(控制获取)两部分。根据关键用户的特征，实际上可分为两种用户群组：公众与工作人员；对应用户群组的数据类别，则可分为「可公开档案」与「不公开档案」两种。两种文件类型的权限，可为系统所编辑、设定与管理。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4.4服务流程",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "A．图书馆网站架构",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "介绍图书馆活动的网页如图20所示：",
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae4a76048c143b84808e426e0b4785e1c550666e5ceb9150dc023ae7cfd43916.jpg",
+        "img_caption": [
+            "图20介绍图书馆活动的网页"
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "机构知识库架构于图书馆网站的关系如图21所示：",
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/4425f9af529bf83e9fd143be13225b78fe5613f36047323f068c1d199f8ec31a.jpg",
+        "img_caption": [
+            "图21机构知识库架构与图书馆网站的关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "B．用户特征与行为",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "关键用户是图书馆工作人员、大学行政人员、校内外大学生、参与活动的贵宾。实际上可分为两组：工作人员与公众。对应数据类别则为非公开数据的用户与公开数据的用户。定义用户特征如表2所示：",
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/5de1ea91e82b3caf239d482cf00e51527f3142e6d4ffc76068bbe712e79181c8.jpg",
+        "table_caption": [
+            "表2用户特征的定义"
+        ],
+        "table_footnote": [
+            "根据用户特征的定义，设计用户行为如表3所示："
+        ],
+        "table_body": "<html><body><table><tr><td>可能访问的对象</td><td>使用目的</td><td>使用行为</td><td>图书馆熟悉度</td><td>资源需求度</td></tr><tr><td>大学行政人员</td><td>了解活动</td><td>浏览全部活动</td><td>低</td><td>低</td></tr><tr><td>参与活动的贵宾</td><td>回顾活动</td><td>搜索特定活动</td><td>低</td><td>高</td></tr><tr><td>校内外大学生</td><td>使用资源</td><td>下载资源</td><td>中</td><td>中</td></tr><tr><td>图书馆工作人员</td><td>举办活动 整理资料</td><td>上传资源</td><td>高</td><td>低</td></tr></table></body></html>",
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/d1a9dfda30c47d10cdf637f31f9ad7b27853ddbc93eb901b5c0d6ff4da7d8afb.jpg",
+        "table_caption": [
+            "表3对用户行为的设定"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>任务</td><td>主要服务内容</td><td>目标</td><td>检索路径</td></tr><tr><td>了解活动</td><td>元数据内容</td><td>快速性</td><td>1) 搜索引擎→事件纪录 2) 图书馆网页→事件纪录</td></tr><tr><td>回顾活动</td><td>元数据内容</td><td>准确性</td><td>1) 搜索引擎→事件纪录 2) 图书馆系统→事件纪录 3) 图书馆网页→事件纪录</td></tr><tr><td>使用资源</td><td>可公开的档案</td><td>获取性 2) 3)</td><td>1) 搜索引擎 →事件纪录→开放获取档案 图书馆系统→事件纪录→开放获取档案 图书馆网页→事件纪录→开放获取档案</td></tr><tr><td>提供资源</td><td>可公开的档案 内部流通档案</td><td>完整性 2)</td><td>1) 可公开档案→图书馆系统→开放设定 不公开档案→图书馆系统→控制设定</td></tr></table></body></html>",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "C．用户搜寻流程根据用户行为的设计，对用户搜寻流程的描述，如图22-图25所示：",
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/e411cd912d580d74a1aece37189d0f95956568e11a3fb78af3726edc939ffc2c.jpg",
+        "img_caption": [
+            "图22想了解活动的用户 (教务人员&大学生)"
+        ],
+        "img_footnote": [],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/24980812bf75bd07e18e76a11deb6d852a2ab2bc41ec78c2a652f767dfff45ef.jpg",
+        "img_caption": [
+            "图23 想回顾活动的用户 (访问贵宾&大学生)"
+        ],
+        "img_footnote": [],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/6bd33645adfcbe0daf8042cd31ebb32d74eb9ceb9dc840447f101c6b0c731859.jpg",
+        "img_caption": [
+            "图24想使用资源的用户 (大学生&图书馆员)"
+        ],
+        "img_footnote": [],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/4220913d0f6cae64dafbeaa5cf2f5322d798d41876a7e67942506f2e5516508d.jpg",
+        "img_caption": [
+            "图25想提供资源的用户 (图书馆员&教务人员)"
+        ],
+        "img_footnote": [],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "4.5其它服务模式",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "A．第一种模式",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "a．系统架构",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "此系统架构为：在现有机构知识库内增建一组类别与项目。  \n·首先在机构知识库(IR)内，建立一个新的群组(Group）。  \n·然后在群组内，建立不同的主题(Subject）。·接着在主题内，建立起不同的项目（Item）。  \n·最后在项目内，输入元数据内容与附加档案(Attachment）。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "b．操作范例",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "根据系统架构的描述，操作范例如图26所示：",
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/62013e77a1d12e4987270f6c39082a7fb4b11b828e70c9af1486de4de8b85e8c.jpg",
+        "img_caption": [
+            "图26在机构知识库中建立教育资源主题"
+        ],
+        "img_footnote": [],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "c．元数据要求",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "此元数据要求：对该图书馆活动本身进行描述。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "题目(Title):Protecting the Environment in China and in the World   \n讲者(Speaker):Professor Gregory Chow   \n日期(Date)：10 November 2009   \n时间(Time):5:00 p.m. - 6:30 p.m.   \n场地(Venue):Library Lounge，Library ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "B．第二种个别模式",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "a．系统架构",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "此系统架构为：与现有机构知识库分离，另建一类似的数据库与服务器，采用共通的数据仓库(DataWarehouse)，但新的数据库系统是以档案类别作为索引(Indexing)和标示。采用的原理和工作流程与第一种个别模式相同，只是在分类与呈现上有所区别，此方式同时可建立获取控制(Access Control)以区别图书馆员使用与校内外人士使用的权限。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "b．操作范例",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "根据系统架构的描述，操作范例如图27所示：",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "CrtyU Digrtal Univcrsrty Archie 1.5 (lesting Hecod Group andSencs Windows Interct Explorer =× 专 hp:/14414154/sul/cmmyt Live Serc 0   \nCityu Cigital Universty vchive 1.5Te Pag 1 Run Run Shaw Library 1 City University uf Hung Kung CityUUniversityArchives   \nSearch CityU Digital University Archives 1.5 （Testing)> An   \nAcvanced Scarch Record Group and Series   \nSubject Seardh Shown below is olist of record groups enci the series within them. Click one name to view thet group o series nome   \nIlome poge.   \n③ Login Conferences and Exhibitions[3] CityU Mcmorabilia Exhibition[2]   \nBrowse E-book Conference 2008 [1]   \ncord Grdp Tssue a Imege Album [2] Librery Image Abum [2] 二   \n③ Author ·Online Videos[2]   \nTite o Famous S:dolarsWrilers lFture Seies [2]   \n③ Subject   \nT 20 Publicationsand Newsletters[7]   \nime Sho  et] RG03-Senate4]   \nGoto Senate Decisions 4   \nLin Run Shew cityu •Test Item bit stream level [4] Test[4] Library Test Item level [1]   \nSign on to: test access[⊥]   \nRecelve emall Updates   \nMy DSpace authorized uzars   \nFdit Profile   \n4 F Ineel|PrueteuMoueCr @100% \\* ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "c．元数据要求",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "此元数据要求：对该图书馆活动本身进行描述，并且增列一项「Description」元数据，用以将文字型档案的内容(Text)转化为对该活动本身的描述。",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "这种方式参考自香港科技大学图书馆的机构知识库系统，并根据香港城市大学图书馆网页的图书馆事件(Library Events)页面内容，而予以改进",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "C．第三种个别模式",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "a．系统架构",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "上述第一种与第二种个别模式的系统架构虽然不同，但是两者都可适用于第三种个别模式。第三种个别模式与上述两种的不同之处，在于它是以面向对象(Object-0rientation)而不是结构化数据(Structural data)的管理模式。简言之，它是处理“那个档案”而不是“那个包括很多档案的事件”的一种管理方式。",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "b．操作范例",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "根据系统架构的描述，操作范例可参考4.1和5.1的介绍。在此需要特别指出：容易混淆并造成困扰的重点。如下：",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "·各种文件类型的元数据是不一样的，不能用一种共通元数据格式去描述同一事件中的不同档案。·一个事件包括许多档案，因此，对档案和对事件的描述不能混淆。对许多事件的信息组织是“教育资源集成”的层次，对一个事件下所产生的许多档案的信息组织是“图书馆活动”的层次。·描述《Protecting the Environment in China and in the World》海报中的「Prof Gregory Chow」，不能用「讲者」或「作者」，只能用「标签」或「关键词」。这是因为「Prof GregoryChow」代表海报中的一组词汇，而不是影响事件的人。",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "c．元数据要求",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "此元数据要求：对该图书馆活动所产生的档案进行个别描述。以照片为例，可分为下列描述数据与元数据：",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "：主题(Topic):Protecting the Environment in China and in the World   \n相关人物(Relevant Persons):Gregory Chow， Steven Ching， City U Students. 相关动作(Relevant Activies):Speak，Talk，Smile，Listen…   \n·相关对象(Relevant Things)：Table，Glass，Microphone…   \n·拍摄日期(Date)：10 November 2009   \n·拍摄地点(Location)：Library Lounge，Library ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "D．第四种个别模式",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "a．系统架构",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "此系统架构为：基于档案管理的网页链接系统，而不是数据库系统。",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "·首先针对不同的照片、声音、录像建立起个别的html网页，作为一项项对象。  \n·然后将一项项对象(Object)所建立起的网页，链接至描述某一事件的网页。  \n·接着将网页(Webpage)，链接至描述某一类型活动的主页。  \n·最后将该主页(Main page)，链接至图书馆网页(Home page)或机构知识库。",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "b．操作范例",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "根据系统架构的描述，操作范例如图28所示：",
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/85e9321b52ebede06b6e4ee8dad165a7fdb1799b6ce969d7ea73f45ee7341827.jpg",
+        "img_caption": [
+            "图28建立以网页链接的教育资源范例之一"
+        ],
+        "img_footnote": [],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "c．元数据要求",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "此元数据要求：对该图书馆活动所产生的档案进行描述，并且将所有档案转化为网页html文件格式，在html中区分起元数据描述与实际档案对象。元数据，例如：<meta name $\\mathrel { \\mathop : } \\ l = \\ l ^ { \\prime \\prime }$ Title\" content $\\cdot ^ { - \\prime \\prime }$ discovery of the architectural and cultural values of Chinesebridges\" /><meta name $\\ c =$ \"Keywords\"content $=$ \"bridges exhibition， Chinese culture， Chinese bridge\" /><meta name $u ^ { \\prime \\prime }$ Description\" content $\\cdot = ^ { \\prime \\prime }$ abcdefghi jklmnopqresuvwxy.\" />",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "E．个别模式的比较",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "a．系面、操作面和工作面的比较",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "比较上述四种个别模式，可以比较出系统复杂度和工作需求量，作为评估工作进度的概略参考。四种模式，基本上都能完成权限控制与检索路径，但是管理者对权限的控制以及用户对路径的检索，则可能有难易程度的差别。如图4所示：",
+        "page_idx": 23
+    },
+    {
+        "type": "table",
+        "img_path": "images/262f3ecf444132002e00df828a9205b30436d3ac6470cc36261371fd292fca3e.jpg",
+        "table_caption": [
+            "表4建立教育资源集成的四种方式比较"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>系统复杂度</td><td>工作需求量</td><td>权限控制</td><td>检索路径</td></tr><tr><td>第一种</td><td>中</td><td>低</td><td>困难</td><td>困难</td></tr><tr><td>第二种</td><td>中</td><td>中</td><td>容易</td><td>容易</td></tr><tr><td>第三种</td><td>高</td><td>高</td><td>容易</td><td>困难</td></tr><tr><td>第四种</td><td>低</td><td>高</td><td>困难</td><td>容易</td></tr></table></body></html>",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "b．说明比较结果",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "第一种模式在现有IR 上增加教育资源，好处是最快达成目标，坏处是必须符合现有的系统功能与服务模式。",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "第二种模式在现有 Dspace上建立新系统，好处是可以重新设计我们现在所需要的功能，坏处是未来该系统变化程度有限。",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "第三种模式针对每一个档案建立元数据内容，好处是未来变化的可操作性强，坏处是现在就必须投入大量人工与等待完成的时间。",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "第四种建立网页与网页链接，好处是兼具上述三种模式的好处，坏处是现阶段还没有开发新一代检索系统的基础，只能以最原始和最普通的方法呈现教育资源。",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "4.6政策建议",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "如同王状（2009）所述：“…许多知识型企业的知识管理战略成为一种时髦的管理概念和技术摆设，知识管理并没有帮助企业实现核心竞争力的提升…”[58]。知识管理需要从精神、制度、物质三个层面入手，发挥企业文化的导向作用、沟通作用、激励作用。",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "图书馆作为一个共同成长的有机体，将图书馆活动转化为教育资源的同时，也促进本身的团结与合作。虽然生产流程、储存流程与服务流程在时间轴上呈现线性，但是要完成「Multidisciplinary E-LearningResources」的任务却是相互协助互助的。如图29所示：",
+        "page_idx": 23
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d3dfdcde51bd538424aa9cf87a37a511ba00d4025942e31396c94fb28205ab9.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "图29相互支持的团体协作图",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "若能收集、整理并分类展览、讲座、研讨会、座谈会、说明会与培训等图书馆活动的档案，就能将资源再利用，发挥它们的最大效益。",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "6 结论 ",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "讨论 IR的时候，目前更多地着重图书馆如何利用IR 扩展服务，或者建立IR这项任务，较少讨论如何建立IR来满足读者需要的服务。当想到“我们不是要谈论“盒子”-我们需要关注的是盒子里的东西和可以向教职员工提供什么样的服务[59]”这个课题的时候，往往是经过了深刻的挫折经验。而大中华地区的图书馆其实可以在别人已有的成功和失败案例中汲取教训。本文是从用户如何在图书馆 IR 中使用学位论文的角度，来看待上述这个问题。获得的结论是 IR 除了应该有别于其它图书馆系统之外，也应该和这些系统有所交互，而且可以考虑加入Web2.0服务等新功能，一方面降低用户的混乱和焦虑，另一方面吸引用户的参与和支持。毕竟，设立IR的目的不仅是数字仓储，也有创造学术交流等的成分[60]。",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "本研究建立起典藏图书馆活动过程中的档案管理模式，根据模式提供相关元数据格式，以及基于管理模式的操作样本。研究结果形成一套管理系统与检索路径，以支持将图书馆活动转化为教育资源并提供网上服务。",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "本研究旨在为图书馆活动建立元数据描述体系以及搜索与使用档案的模式。具体将Discovery of theArchitectural and Cultural Values of Chinese Bridges Exhibition这一相关档案较多（50余项）的展览活动，和Protecting the Environment in China and in the World这一相关档案较少（6项）的讲座活动，所产生之相关内容予以储存和管理，期望使得校内外人士能够使用相关教育资源。",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "此项研究的意义在于：将图书馆活动的成果转化为与可为教学活动所利用之材料，并且成为图书馆办理相关活动时的检讨与改进的知识管理内容。从图书馆的角度来提供对大学教学活动的辅助作用。",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "根据本项研究，我们建议：在系统设计与实现之前，先决定未来所要服务与提供的功能，再选择模型与推展相关工作，以利敦节成本并发挥最大效能。如图30所示：",
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/bbad277a4cf02748df6e968487c22a743947b20c94989f5e101dc83e842f142e.jpg",
+        "img_caption": [
+            "图30 建立教育资源集成的四种方式比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "比如：工作小组假设未来图书馆要分别对两种群体服务，一是对校内外人士提供活动成果的展示并可以让它们下载相关档案，二是只对图书馆员工提供整个活动前、中、后的工作档案，使图书馆员能够不断增加对外服务的质量与提升效率；因此工作小组就会建议采用第二种模式。",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "这项研究观察了几个大学和研究机构的机构知识库，样本性不足是其限制。透过访谈和实地调查，集中讨论了如何增进香港城市大学图书馆 IR 的收藏与服务，但是还有待实际操作后的成果评量。如果研究条件许可，未来应该增加系统数据和使用者调查，同时也需要持续参考更多的案例研究。",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "值得注意的是，近期出现许多Web2.0应用方面的研究，例如 DeanJames等人（2009）描述美国最大的医学图书馆 HAM-TMC利用Velocity6.0建立跨搜索（Cross-Search）系统的情况，指出这种附加在网页上的软件工具（software tool）有利于用户更快更方便的找数据[61]。而Nguyen Cuong Linh（2009）则整理、调查和比较澳大利亚各大学图书馆应用Web2.0的情况，提出许多实际应用（不限于IR）的案例[]。这类技术和调查适合引入到IR收藏与服务的讨论，增加本文观察和研究的面向。",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "作为示范样本，短期计划只为两项活动的档案进行典藏与展示；中期计划则划定目前已有之活动项目成果，约为三十项活动及其档案的典藏与利用；长期计划为可持续发展的教育资源集成系统。",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "建立 IR 往往需要获得机构政策支持、使用者群体支持，以及系统不断测试和改良，实属不易。在完成一项项任务之后，如果再努力增强一点加值服务（addedvalue）就能得到更多的掌声和回馈。",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "致谢：本研究得益于Prof.Steve Ching，Mr.Edward So，Ms.L.C.Lau，Ms.Stella Chung，Ms.SheenaShum，Ms.Wendy Yau，Mr.Henry Ip，Ms.Helen Lee，Ms.Wendy Ho，Mr.Mak Wai Hong 在实务经验上的提供与协助，在此致谢。",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "[1] Virkus S,Alemu GA, Demissie TA,etal.Integrationof digital libraries and virtual learning environments: a literature review. Emerald group publishing limited. (20o9-09-09).   \nhttp://www.emeraldinsight.com/0307-4803.htm.   \n[2]Laxminarsaiah A,Rajgoli Iad U. Building institutional repository:anoverview.Emerald group publishing limited. (2009-09-09). http://www.emeraldinsight.com/1065-075X.htm.   \n[3] Smith IIPL. Using “Open access”to extend the reach and richness of faculty research within a university. (2009-09-09). http://www.emeraldinsight.com/1065-075X.htm.   \n[4] KellyJC.Creating an institutional repositoryatachallenged institution.Emerald group publishing limited. (2009-09-09). http://www.emeraldinsight.com/1065-075X.htm.   \n[5] BuehlerMA,Trauernicht MS.Fromdigital library to institutional repository:abrief look at one library's path.Emerald group publishing limited.(2009-09-09)． http://www.emeraldinsight.com/1065-075X.htm. [6] Chantavaridou E. Open access and institutional repositories in Greece: Progress so far. Emerald group publishing limited. (2009-09-09). http://www.emeraldinsight.com/1065-075X.htm.   \n[7]Geyrecker A，WildF.The Green and Gold Road:Journal Management and Publishing Workflow Extensions for the DSpace Repository Platform. Lytras M D,et al. WSKS.Berlin:ringer-Verlag， 2008.   \n[8]Deng S,Reese T.Customized mapping and metadata transfer from DSpace to OCLC toimprove ETDwork flow.Emerald group publishing limited. (2009-09-09). http://www.emeraldinsight.com/0307-4803.htm.   \n[9] WiseM, Spiro L,Henry G,et al.Expanding roles for the institutional repository.Emerald group publishing limited. (2009-09-09). http://www.emeraldinsight.com/1065-075X.htm.   \n[10] Joint N.Onlinedigitalthesiscollectionsand nationalinformationpolicy.Emerald grouppublishing limited. (2009-09-09). http://www.emeraldinsight.com/0024-2535.htm.   \n[11]Wong $\\mathrm { ~ I ~ S ~ M ~ }$ ， Li Y O. Creating a virtual union catalog for Hong Kong dissertations and theses collections. Emerald group publishing limited. (2009-09-09). http://www.emeraldinsight.com/0264-0473.htm.   \n[12]Chen Kh, Hsiang J.Theunique approach to institutional repository-Practiceof National Taiwan University. Emerald group publishing limited. (2009-09-09). http://www.emeraldinsight.com/0264-0473.htm.   \n[13]Jing Guo,Chen Jin. The innovative university library: strategic choice，construction practices and development ideas. Emerald group publishing limited. (20o9-09-09).   \nhttp://www.emeraldinsight.com/0143-5124.htm.   \n[14]吴砥.学习资源的标准化描述与组织技术．中国远程教育,2007,(9):67-69.   \n[15]魏来．E-learning环境下学习对象的组织及其知识库建设研究．图书情报工作,2007,(1):35-38.   \n[16]李静,周竹荣．超级分布学习对象的研究．计算器工程与应用,2006,(24):211-214;255. [17]郑莉,刘兆宏,王绚．学习内容管理系统的体系结构和关键技术．华中科技大学学报(自然科学版),2005(S1)：360-363.   \n[18]周竹荣,吴敬花,邱玉辉．基于概念图的网络课件与资源库集成．计算器应用,2005,(10):2302-2305.   \n[19]梁慧芝,张小真．学习资源库知识服务模型研究．计算器工程与应用,2005,(12):183-185;212.   \n[20]林颖,张智雄．构建基于DSpace的中文机构仓储系统．图书情报工作,2007,(2):87-91.   \n[21]马建霞,祝忠明,唐润寰等．机构知识库与科研管理信息化环境集成的尝试．现代图书情报技术,2008,(2):14-18.   \n[22]黄纯艳，曾为众．基于DSpace机构知识库系统的安装及相关问题的分析．现代情报,2009,(9):59-61.   \n[23]祝忠明,马建霞，卢利农,等．机构知识库开源软件DSpace的扩展开发与应用．现代图书情报技术,2009(Z1):11-17.   \n[24]都平平,曹作华,黄敏,等．机构仓储的存储模式分析．情报理论与实践,2009,(11):65-67.   \n[25]李静．图书馆信息集成多系统方案研究．图书馆工作与研究,2009,(9):32-33.   \n[26]范亚芳．机构知识库学术信息资源组织方法研究．现代情报,2007,(12):168-171.   \n[27]刘华．国外机构知识库的长期保存研究及其启示．情报资料工作,2007,(3):49-52.   \n[28]李霞,樊治平,冯博等．知识型客户服务机构的知识库构建研究．科学学与科学技术管理,2007,(8):92-96;102.   \n[29]赵继海．机构知识库:数字图书馆发展的新领域．中国图书馆学报,2006,(2):33-36;50.   \n[30]常唯．数字学术环境中的机构知识库探析．图书情报工作,2006,(7):46-50.   \n[31]曾英姿．机构知识库属性与功能之理论探讨．现代情报,2007,(10):16-18;21.   \n[32]王学勤．机构知识库建设相关政策研究．中国图书馆学报,2007,(3):44-47.   \n[33]李大玲,柯平．基于知识管理的学术机构知识库激励模式研究．图书情报工作,2009,(10):98-101.   \n[34]赖辉荣．破解机构知识库建设中资源收集难题之策略．国家图书馆学刊,2009,(3):59-61.   \n[35]Browse by Title CityU Library.(2009-09-09). http://dspace.cityu.edu.hk/browse-title.   \n[36]library catalog Run Run Shaw Library， City University of Hong Kong.   \n(2009-09-09).http://lib.cityu.edu.hk/search/d?SEARCH=city+univsersity+of+hong+kong+dissertations.   \n[37]Browse by author CityU Library.(2009-09-09).   \nhttp://dspace.cityu.edu.hk/items-by-author?author=Ahsan+Ullah%2C+A.+K. +M.   \n[38]library catalog Run Run Shaw Library， City University of Hong Kong.   \n(2009-09-09).http://lib.cityu.edu.hk/search/a?SEARCH=Ahsan+Ullah%2C+A.+K. +M.   \n[39]Kuhlthau CC. Seeking Meaning: A Process Approach toLibraryand Information Services .2nd wdition. Norwood, NJ:Ablex Publishing，2003.   \n[40]Policy on Electronic ThesesRun Run Shaw Library，City University of Hong Kong.   \n2008(2009-09-09). http://www.cityu.edu.hk/lib/digital/thesis/guideline/research/policy.htm..   \n[41]HKBU These & Dissertation HKBU Library.(2009-09-09).   \nhttp://libproject.hkbu.edu.hk/was40/outline?searchword=\"%25'&channelid=48892&sortfield=%2BaTitle.   \n[42]CUHK Online library Users Multimedia Network[EO] HKBU Library.(2009-09-09).   \nhttp://library.cuhk.edu.hk/search\\~S2/X?SEARCH=(\\*)&searchscope $\\ R =$ 2&SORT=R [43]Poly U Electronic ThesesPoly ULibrary.(2009-09-09).htp://elink.lib.polyu.edu.hk/thesis/search.do [44]Online catalog lingnan university digital library.(2009-09-09).   \nhttp://library.ln.edu. hk/record=b1617311.   \n[45]HKIEd Research Repository.(2009-09-09). http://repository.ied.edu.hk/dspace/.   \n[46]Hong Kong University Theses Online HKUTo.(209-09-09)． http://sunzi1.lib.hku.hk/hkuto/index.jsp.   \n[47] LamK T,Chan DLH. Building an institutional repository : sharing experiences at the HJUST library Emerald group publishing limited.(2009-09-09).http://emeraldinsight.com/1065-075X.htm.   \n[48]Repository List D-Space.org.(2009-09-09)． ww.dspace.org/index.php/.../Repository-List.html [49]HKIR .HKUST Library.(2009-09-09)．http://lbapps.ust.hk/hkir/.   \n[50]General Information .National Science Library， Chinese Academy of Sciences. (2o09-09-09).   \nhttp://www.las.ac.cn/las en/. [51]NSLIR .National Science Library， Chinese Academy of Sciences.(209-09-09)． http://ir.las.ac.cn/ [52]NSLIR .National Science Library， Chinese Academy of Sciences.(2009-09-09).   \nhttp://ir.las.ac.cn/handle/12502/1170   \n[53] Jantz RC，Wilson MC.Institutional Repositories:Faculty Deposits,Marketing,and the Reformof Scholarly Communication. The Journal of Academic Librarianship,2008 34 (3):186-195.   \n[54] DSpace 2004, Creating a Service Model Definition for an Institutional Repository.   \n[2009-10-10].http://sohrab.eiah.org:3080/arch/bitstream/123456789/94/1/Institutional%20Repository%20Work%2 OSheet:%20Service%20Model%20Definition.pdf   \n[55]AwreC，Swan A.Linking repositories-Scopingthe development of cross-institutional user-oriented services. International digital library perspectives,2007 23 (4) :372-381.   \n[56] Jones R.Giving birth to next generation repositories. Information Management,2007 27:154-158. [57] Rumsey S.The purposeof institutional repositories in UK higher education: A repository manager’s view. International Journal of Information Management,2006 26:181-186.   \n[58]王壮．多维度知识型企业文化模型构建—知识管理视角的分析．图书情报知识,2009(3).[2009-11-04].   \nhttp://www.dik.whu.edu.cn/showHistoryPaperDetails.aspx?paperId=2009-0324182543   \n[59]Albanese An Ri. Institutional Repositories:Thinking Beyond the Box- Repositories leapt into the national spotlight in 2008.Now what?.(2009-09-09） http://www.library journal.com/article/CA6639327.html.   \n[60]Mary R. Barton. Creating an Institutional Repository:LEADIRS Workbook.MIT Libraries，2005，pl1. (2009-09-09) http://www.dspace.org/implement/leadirs.pdf.   \n[61]Albanese A R. Institutional Repositories:Thinking Beyond the Box- Repositories leapt into the national spotlight in 2008. Now what?. (2009-09-09） http://www.library journal.com/article/CA6639327.html.   \n[62]Barton MR.Creatingan Institutional Repository:LEADIRS Workbook.MITLibraries,2005,p11.(2009-09-09) http://www.dspace.org/implement/leadirs.pdf. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 27
+    }
+]

@@ -1,0 +1,391 @@
+[
+    {
+        "type": "text",
+        "text": "干热河谷石漠化区顶坛花椒叶片功能性状的海拔分异规律 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李红1，喻阳华 2\\*(1．贵州师范大学 地理与环境科学学院，贵阳，550025；2.贵州师范大学 喀斯特研究院/国家喀斯特石漠化防治工程技术研究中心，贵阳 550001)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：阐明顶坛花椒人工林叶片功能性状的海拔分异规律，探讨顶坛花椒对不同海拔生境的适应策略，为顶坛花椒人工林复壮、高产与稳定，及喀斯特石漠化区生态修复提供科学依据。本研究测定了叶片厚度、比叶面积、叶全氮含量等9个功能性状和土壤有机碳、全氮、全磷等8个环境因子，揭示了顶坛花椒人工林叶片功能性状的内在关联及其随海拔的分异规律。结果表明：（1）随海拔升高，顶坛花椒比叶面积、叶全磷、叶全钾含量先升高后降低，叶干物质含量、叶全氮含量先降低后逐渐升高，叶片厚度、叶面积及叶片含水率逐渐增大。（2）顶坛花椒叶片功能性状间具有显著的相关性，叶全氮与叶全磷呈显著负相关，与叶片厚度的关系则相反；叶干物质含量与比叶面积、叶片含水率呈显著的抑制效应。（3）土壤因子对顶坛花椒叶片的影响表现为速效氮 $, >$ 速效钾 $>$ 有机碳，其他土壤因子的影响较小。研究显示顶坛花椒主要通过增强防御功能性状、协调叶片养分含量的生存策略来提高获取资源和抵御外界环境胁迫的能力，对土壤养分具有强烈的依赖性，其干旱适应属性为干旱避免。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：干热河谷，石漠化，顶坛花椒人工林，叶片功能性状，海拔分异中图分类号：Q948.114 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Leaf functional traits of Zanthoxylum planispinum var. ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "dintanensis at different altitudes in dry-hot valley rocky ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "desertification region ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Hong1, YU Yanghua² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.School of Geography and Environmental Science,Guizhou Normal University,Guiyang 550025,China; 2 Schoolof KarstScience/StateEnginneringTechnology InstituteforKarst DecertificationControl,Guizhou Normal University,Guiyang 550001, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Expounding the law of altitude differentiation of leaf traits of Zanthoxylum planispinum var. dintanensis plantation,and exploring the adaptation strategies in diferent altitude habitats, thus to provide a scientific basis for the rejuvenation, high yield and stability of Zanthoxylum planispinum var. dintanensis plantation and ecological restoration in karst rocky desertification area.This study measured nine leaf traits such as leaf thickness,specific leaf area and leaf total nitrogen，and eight soil chemical indexes such as organic carbon，total nitrogen and total potassium that aim to analyze the correlation of functional traits of Zanthoxylum planispinum var. dintanensis and its differentiation with altitude.The results showed that: (1) With the increase of altitude, the specific leaf area, leaf total phosphorus and leaf total potassium of Zanthoxylum planispinum var. dintanensis increased first and then decreased while leaf dry mater content, leaf total nitrogen and leaf organic carbon decreased first and then increased gradually； and leaf thickness,leaf area and leaf water content increased gradually. (2） There was a significant correlation between the functional traits of Zanthoxylum planispinum var. dintanensis leaves. Leaf total nitrogen had a significant negative with total phosphorus in leaves, significant positively with leaf thickness.Leaf dry matter content has a significant inhibitory effect on specific leaf area and leaf water content. (3) The effect of soil factors on the leaves of Zanthoxylum planispinum var. dintanensis:available nitrogen $>$ available potassium $>$ organic carbon,while other soil factors had less effect on it. Research indicate that Zanthoxylum planispinum var. dintanensis mainly enhances the ability to acquire resources and resist external environmental stress by enhancing defense function traits and coordinating leaf nutrient content survival strategies.It has a strong dependence on soil nutrients,and its drought adaptation is drought avoidance. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: dry-hot valley， rocky desertification, Zanthoxylum planispinum var. dintanensis plantation, leaf functional traits,altitude differentiation ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物功能性状是植物在长期进化过程中，为降低外界环境干扰，适应并利用周围环境中各种资源所形成的形态、生理和物候等属性（孟婷婷等，2007)，能够揭示植物适应环境的能力与策略。叶片是捕获转换光能、生产有机物最重要的器官，与植物生存发展（Wohlfahartetal.,2010）、生态系统服务功能（Lundholmetal.,2015）等密切相关。近年来，诸多学者开展了植物功能性状随海拔变异的研究。何桂萍等（2018）研究表明摩天岭木本植物叶片功能性状在物种和群落水平上沿海拔梯度变化的规律一致；李宗杰等（2018)发现植物叶片全氮、全磷含量在高海拔地区随海拔降低，而在低海拔地区则相反，揭示了叶片功能性状对不同环境的响应规律；李曼等（2017）分析了不同海拔黄山松枝-叶大小的权衡关系，验证了植物的资源利用策略和权衡与协同机制；王元元（2016）和刘玉平等（2017）阐明随着海拔上升，土壤水分含量减少，叶片厚度和叶干物质量逐渐增加，揭示了叶片通过功能性状变化来降低植物蒸腾、提高储水能力和光合效率。上述结果均表明植物功能性状沿海拔梯度变化会发生变异，其特征、权衡与协同关系能够揭示植物利用资源环境的生存策略。故通过探究植物叶片功能性状特征及其变化规律，阐明植物对环境的适应机制，揭示物种分布格局的形成机理，对生态修复的物种筛选、培育奠定科学基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "顶坛花椒(Zanthoxylum planispinum var.dintanensis)具喜钙、耐旱、适应性强等特点，是重要的水土保持经济树种（李安定等，2008；鲍乾等，2017)，对黔中喀斯特区石漠化治理和生态经济功能提升具有重要作用（李苇洁等，2010)。贵州关岭花江喀斯特峡谷的顶坛花椒种植年限已达30余年，且其种植规模超过 $4 6 \\mathrm { k m } ^ { 2 }$ ，建植了相对稳定的人工群落，与环境之间形成了协同耦合的互作关系，开展基于植物功能性状的人工林适应机理研究尤为必要。目前，顶坛花椒林存在林龄降低、产量减少和地力贫瘠等生长衰退现象（黄伟等，2018)，对顶坛花椒人工林进行复壮，能够巩固来之不易的石漠化治理成果，促进当地生态、经济、社会协调发展。基于此，本研究以顶坛花椒人工林为对象，主要回答如下3个科学问题：（1)探讨顶坛花椒叶片功能性状之间的内在关联；（2)阐明叶片功能性状随海拔变化的分异规律；（3）揭示顶坛花椒对不同海拔生境的适应策略。旨在为顶坛花椒人工林复壮、高产与稳定，及喀斯特石漠化区生态修复提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "位于贵州省贞丰县北盘江镇查耳岩村（ $1 0 5 ^ { \\circ } 3 8 ^ { \\prime } 4 8 . 4 8 ^ { \\prime \\prime }$ E， $2 5 ^ { \\circ } 3 9 ^ { \\prime } 3 5 . 6 4 ^ { \\prime \\prime } \\mathrm { N } )$ ，属于北盘江流域，为典型喀斯特高原峡谷地貌，地势起伏大，海拔 $5 5 0 { \\sim } 9 0 0 \\mathrm { m }$ 。 $8 5 0 \\mathrm { m }$ 以上为中亚热带河谷气候， $8 5 0 \\mathrm { m }$ 以下为南亚热带干热型河谷气候，气候要素垂直分布明显（苏维词和杨华，2005)，年均气温为 $1 8 . 4 \\mathrm { ~ \\ ^ ~ { \\circ ~ } C ~ }$ ，极端最高、最低气温依次为32.4、 $6 . 6 \\mathrm { ~ \\ ^ ~ } \\mathrm { { C } }$ ，光热资源丰富；年均降水量 $1 \\ 1 0 0 \\ \\mathrm { m m }$ ，集中分布在5—10月，占全年的 $8 3 \\%$ ，冬春旱及伏旱严重。区内土壤以石灰土为主，土层浅薄且容易流失，基岩裸露率高，土壤肥力质量较低；种植的经济作物主要有顶坛花椒、金银花(Loniceraf ulvotomentosa)、核桃(Juglans regia)等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2野外调查与样品采集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1样地设置 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2018 年6月，根据气候、河谷位置（谷底、谷坡、谷顶）、顶坛花椒种植分布现状，将种植区域划分为5个样地，每个样地大小为 $8 0 0 \\mathrm { m } ^ { 2 }$ ，依次为南亚热带干热河谷气候—谷底、南亚热带干热河谷气候—缓冲区、南亚热带干热河谷气候—谷坡、气候过渡区—谷坡、中亚热带河谷气候—谷顶，分别记为YD1\\~YD5。在每个样地内根据花椒林立地和生长条件近似原则，设置3个 $1 0 \\mathrm { m } { \\times } 1 0 \\mathrm { m }$ 的样方，样方间间距大于 $1 0 \\mathrm { m }$ 。测定并记录样地的海拔、经度、纬度、土壤厚度、种植密度、平均株高和平均冠幅（表1)。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/05e1c6dc050371a9d67f15ae797ea1b14975dae60afe44ce2aafb95a3c8e2826.jpg",
+        "table_caption": [
+            "表1样地概况",
+            "Table 1 General characteristics of the sample plots "
+        ],
+        "table_footnote": [
+            "注：YD 代表样地。 Note: YD means sample plot. "
+        ],
+        "table_body": "<html><body><table><tr><td>样地 Plot</td><td>海拔 Altitude (m)</td><td>经纬度 Longitude and latitude</td><td>土壤厚度 Soil thickness (cm)</td><td>种植密度 Planting density (plant·ha-1)</td><td>平均株高 Average tree height (m)</td><td>平均冠幅 Average crown (m)</td></tr><tr><td>YD1</td><td>582</td><td>105°38'15\"E 25°39'16\"N</td><td>15</td><td>2 500</td><td>2.2</td><td>2.5</td></tr><tr><td>YD2</td><td>670</td><td>105°38'35.5\"E 25°39'23.2\"N</td><td>25</td><td>2 000</td><td>4.2</td><td>2.9</td></tr><tr><td>YD3</td><td>722</td><td>105°39'5.2\"E 25°39'37.4\"N</td><td>20</td><td>1 600</td><td>2.8</td><td>2.3</td></tr><tr><td>YD4</td><td>814</td><td>105°39'5.2\"E 25°39'43.2\"N</td><td>22</td><td>2 000</td><td>2.5</td><td>2.8</td></tr><tr><td>YD5</td><td>877</td><td>10539'34.2\"E 25°40'2.6\"N</td><td>18</td><td>2 778</td><td>2.1</td><td>2.1</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2样品采集",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在设置的每个样方内选取3\\~5株生长良好、大小一致、没有遮阴的个体，作为该生境下顶坛花椒的代表植株。采集10片完全展开、未被损伤的成熟叶片，将采集的叶片置于两片湿润的滤纸之间，放入自封袋内，带回实验室用于功能性状测定；另采集约 $2 0 0 \\ \\mathrm { g }$ 叶片制成混合样，用于叶片养分测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "每个样方按照梅花五点法采集土样，因人工施肥为距离树干 $1 0 { \\sim } 3 0 ~ \\mathrm { c m }$ 范围内，且种植区域多在石沟、石缝、石槽等小生境中，故采样点应避开施肥区域，取土深度为 $0 { \\sim } 2 0 \\mathrm { c m }$ （不足 $2 0 \\ \\mathrm { c m }$ 的以实际为准)。采样时，首先剔除土体表面的凋落物、动植物残体和碎石，将样方内各样品混匀，清除土样中植物根系、凋落物和砂砾等，于室内自然风干、研磨，过 $2 \\mathrm { m m }$ 与 $0 . 1 5 \\mathrm { m m }$ 筛后用于理化性质分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3指标测定方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "叶片厚度（leaf thickness，LT）采用精度 $0 . 0 1 \\mathrm { m m }$ 的电子游标卡尺，在叶片沿着主脉方向均匀选3个点（上、中、下）测量（避开叶脉)；采用 Delta-T叶面积仪(Cambridge，UK)扫描测定叶片面积(leaf area，LA)；用精度 $_ { 0 . 0 \\ 0 0 1 \\ \\mathrm { g } }$ 电子分析天平称取叶片鲜重(leaf freshweight，LFW)，将叶片放入 $6 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 烘箱内 $4 8 \\mathrm { h }$ ，取出后称取叶干重（leaf dry weight，LDW）;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用（1）\\~（3）公式计算比叶面积（specific leaf area，SLA）、叶干物质含量（leaf dry mattercontent，LDMC）与叶片含水率（leaf water content，LWC）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SLA $\\ c =$ LA/LDW (1) LDMC $\\varXi$ LDW/LFW (2) LWC $\\ c =$ (LFW-LDW)/LFW ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "叶片、土壤有机碳（organic carbon，OC）采用重铬酸钾外加热法，全氮（total nitrogen，TN）采用高氯酸-硫酸消煮后用半微量凯氏定氮法，全磷（total phosphorus，TP）采用高氯酸-硫酸消煮-钼锑抗比色-紫外分光光度法，全钾（total potassium，TK）采用氢氟酸-硝酸-高氯酸消解-火焰光度计法，土壤速效氮（available nitrogen，AN）采用碱解扩散法，速效磷（available phosphorus，AP）采用氟化铵-盐酸浸提-钼锑抗比色-紫外分光光度法，速效钾（available potassium，AK）采用中性乙酸铵溶液浸提-火焰光度计法，pH值采用电极电位法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3数据处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "运用软件Excel2010 对数据进行初步整理，SPSS19.0对植物叶片功能性状、土壤化学性质进行单因素方差分析（One-way ANOVE）差异性检验，采用 Pearson 相关性法分析叶片功能性状间的相关性，用Origin 8.0 制图。通过R 语言Vegan 包对顶坛花椒的叶片功能性状和土壤因子关系进行冗余分析（Redundancy Analysis，RDA）；数据表达形式为平均值 $\\pm$ 标准差。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1叶片功能性状 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1叶片功能性状随海拔的变化特征",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图1可知，各功能性状变幅为：叶片厚度 $0 . 3 0 1 { \\sim } 0 . 3 3 5 ~ \\mathrm { \\ m m }$ ，叶片含水率$5 9 . 9 7 \\% { \\sim } 6 8 . 9 4 \\%$ ，叶片面积 $8 . 1 6 1 { \\sim } 1 3 . 6 7 8 \\ \\mathrm { c m } ^ { 2 }$ ，比叶面积 $9 0 . 3 4 9 { \\sim } 1 3 3 . 5 2 9 \\ \\mathrm { c m } ^ { 2 } \\cdot \\mathrm { g } ^ { - 1 }$ ，叶干物质含量 $3 4 . 6 4 7 \\% \\sim 4 0 . 0 2 9 \\%$ ，全氮 $0 . 9 5 7 { \\sim } 5 . 6 8 9 \\ \\mathrm { g } \\ { \\cdot } \\mathrm { i g } ^ { - 1 }$ ，全磷 $2 . 1 7 1 { \\sim } 5 . 6 0 2 \\ \\mathrm { g } \\ { \\cdot } \\mathrm { g } ^ { - 1 }$ ，全钾6.418\\~17.869$\\mathbf { g } \\cdot \\mathbf { \\mathrm { k g } } ^ { - 1 }$ ，有机碳 $3 9 3 . 2 5 6 { \\sim } 7 7 0 . 1 9 5 \\mathrm { g } \\cdot \\mathrm { k g } ^ { - 1 }$ 。随着海拔升高，比叶面积、全磷、全钾、叶片含水率呈现先升高后降低的特征，依次在YD2\\~4、YD2\\~3、YD3、YD4 达到最高水平；叶片厚度在YD1\\~4、叶片面积在YD1\\~3无显著差异，均随海拔的升高而增大，最大值在YD5;叶干物质含量、叶全氮及叶片有机碳先降低后逐渐升高。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/934e31929cce2f745a993b3589c6afc4852d9cb0cd61f47cb9205a69f6295ba4.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "注：LT.叶片厚度；LA.叶片面积；SLA．比叶面积；LWC.叶片含水率；LDMC.叶干物质含量；LTN．叶全氮；LTP．叶全磷；LTK．叶全钾；LOC．叶片有机碳。不同小写字母表示同一性状在不同海拔之间差异显著（ $\\scriptstyle P < 0 . 0 5 .$ 。下同。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Note: LT. Leaf thickness; LA. Leaf area; SLA. Specific leaf area; LWC. Leaf water content; LDMC.Leaf dry mater content; LTN.Leaf total nitrogen; LTP.Leaf total phosphorus; LTK.Leaf total potassium; LOC.Leaf organiccarbon; Differentlowercase leters indicate thatthesametraitissignificantlydiferent between different altitudes $( P < 0 . 0 5 )$ .The same below. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Functional traits of leaves of Zanthoxylum planispinum var. dintanensis in different regions ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.2叶片功能性状间的相关关系",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "叶片厚度与叶片面积、叶全氮呈显著正相关关系（ $P { < } 0 . 0 5$ ，下同)，与叶全磷呈极显著负相关关系（ $P { < } 0 . 0 1$ ，下同)；比叶面积与叶片含水率之间呈显著增强效应，与叶干物质含量的关系则相反；叶全氮随叶全磷的增加呈现降低趋势；叶片含水率与叶干物质含量之间为反向作用效应；其他叶片功能性状间无显著相关性（表2)。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/42ce6b27332bd0fd609ae57a90a7f8220679321d2850c46a2bbc3b45bbd613cb.jpg",
+        "table_caption": [
+            "表 2顶坛花椒叶片功能性状的相关关系",
+            "Table 2 Correlation of leaf functional traits of Zanthoxylum planispinum var. dintanensis "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>LT</td><td>LA</td><td>SLA</td><td>LWC</td><td>LDMC</td><td>LTN</td><td>LTP</td><td>LTK</td><td>LOC</td></tr><tr><td>LT</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>LA</td><td>0.898*</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SLA</td><td>-0.606</td><td>-0.223</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>LWC</td><td>-0.658</td><td>-0.399</td><td>0.897*</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>LDMC</td><td>0.661</td><td>0.405</td><td>-0.893*</td><td>-1.000**</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>LTN</td><td>0.888*</td><td>0.753</td><td>-0.474</td><td>-0.369</td><td>0.368</td><td>1</td><td></td><td></td><td></td></tr><tr><td>LTP</td><td>-.978**</td><td>-0.797</td><td>0.701</td><td>0.682</td><td>-0.682</td><td>-.926*</td><td>1</td><td></td><td></td></tr><tr><td>LTK</td><td>-0.814</td><td>-0.554</td><td>0.844</td><td>0.731</td><td>-0.729</td><td>-0.694</td><td>0.844</td><td>1</td><td></td></tr><tr><td>LOC</td><td>0.048</td><td>-0.092</td><td>-0.545</td><td>-0.739</td><td>0.74</td><td>-0.347</td><td>-0.028</td><td>-0.261</td><td>1</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "注：LT.叶片厚度；LA.叶片面积；SLA．比叶面积；LWC.叶片含水率；LDMC.叶干物质含量；LTN. 叶全氮；LTP．叶全磷；LTK.叶全钾；LOC．叶片有机碳。 $^ { * * }$ 在 $P < 0 . 0 1$ 水平（双侧）上显著相关， \\*.在 $P < 0 . 0 5$ 水平（双侧）上显著相关。下同。   \nNote: LT. Leaf thickness; LA. Leaf area; SLA. Specific leaf area; LWC.Leaf water content; LDMC. Leaf dry mater content; LTN.Leaf total nitrogen; LTP.Leaf total phosphorus; LTK.Leaf total potassium; LOC.Leaf organic carbon. \\*\\*. Significantly correlated at the $P < 0 . 0 1$ level (both sides), \\*. Significantly correlated at the $P <$ 0.05 level (both sides). The same below. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2土壤理化性质 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图2可知，5个样地内，除土壤速效磷无显著差异外，其他土壤化学性质均存在一定的显著差异。随海拔升高，土壤有机碳、全氮、全磷、速效氮先降低后增加，均在YD5 达到最高水平，YD2为最低水平（有机碳在YD2\\~4间无显著差异，速效氮在YD2\\~3间无显著差异)；全钾、速效钾先升高后降低，均在YD3、YD2达到最高、最低水平。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/60cbaded2c24ece8ea390bdf9f042f9e051204c9f06d234190932fe479947200.jpg",
+        "img_caption": [
+            "图2不同样地土壤养分含量比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "注：STP.土壤全磷；STN.土壤全氮；STK．土壤全钾；SOC.土壤有机碳；SAN．土壤速效氮； SAP.土壤速效磷；SAK.土壤速效钾。下同。   \nNote:STP.Soil total phosphorus; STN. Soil total nitrogen; STK.Soil total potassium; SOC.Soil organic carbon;   \nSAN.Soil available nitrogen; SAP. Soil available phosphorus; SAK. Soil available potassium. The same below. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Comparison of soil nutrient content in different regions ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3叶片功能性状与土壤养分的关系",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了解土壤环境因子对花椒叶片功能性状的影响大小和机制，对叶片功能性状进行RDA分析。如图3所示，土壤因子对花椒叶片功能性状的解释率 $9 7 . 5 8 \\%$ ，箭头表示顶坛花椒的叶片功能性状或土壤因子，箭头连线越长，表明环境因子对顶坛花椒的影响越大，反之越小。空心箭头与实心箭头连线夹角指示两者间的正负相关性，锐角为正相关，钝角为负相关。土壤因子对顶坛花椒叶片的影响表现为速效氮 $>$ 速效钾 $>$ 有机碳，而其他土壤因子的影响则较小。土壤速效氮与叶全氮、叶干物质含量呈正相关，与叶全钾、叶全磷、比叶面积则相反；土壤速效钾与叶片有机碳呈负相关，与叶片面积呈正相关；土壤有机碳与叶片面积、叶全氮、叶片有机碳、叶片厚度和叶干物质含量呈正相关，与叶全磷、叶全钾、叶片含水率和比叶面积呈负相关。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/aba952c707aadd9112fe09bcbd92b089727ece557cb0f8149bbc098572f9d9c5.jpg",
+        "img_caption": [
+            "图3顶坛花椒叶片功能性状与土壤因子关系的RDA二维排序图 Fig.3 RDA two-dimensional ordination diagram of the relationship between leaf functional traits of Zanthoxylum planispinum var. dintanensis and the soil factors "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1顶坛花椒叶片功能性状的海拔分异规律与适应策略",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在有限的资源环境中，植物会在性状间进行\"此消彼长\"的资源优化配置，以达到“生存、生长、繁殖\"三者平衡的目的（张大勇，2004；Whitman＆Aarssen，2010)。他人研究表明，随海拔升高，植物叶片厚度增大、比叶面积减小、叶干物质含量增加（张奇平，2011)，原因是随着海拔升高，光照辐射增强，植物生存环境愈加严酷，为了防止过度失水和遭遇虫害，叶片将投入更多资源构建防卫结构。在云南元谋干热河谷区，植物叶干物质含量、叶片厚度与比叶面积均随海拔的升高而降低（杨锐等，2015)，可能是干热河谷地区因焚风效应，随着海拔升高，其温度、蒸发量减少，形成湿度、降水量、光照辐射增强的水热组合格局，使得植物水分胁迫减少，生存环境资源逐渐丰富。本研究中，随海拔升高，顶坛花椒叶片厚度增大（在YD1\\~4无显著差异)，比叶面积、叶片含水率先增大后减小，叶干物质含量先减小后增加，与云南元谋干热河谷区研究结果不完全一致。其原因可能是花江峡谷拥有喀斯特地貌特有的二元形态结构，高温、低湿的干热河谷气候及深切河谷地形，使不同海拔的土壤养分、厚度、持水性能各异，导致植被覆盖、水热资源等存在显著差异（彭旭东等，2016;喻阳华等，2018)。YD1\\~YD4气候类型为南亚热带干热河谷气候，区域降水量约 $1 \\ 1 0 0 \\mathrm { m m }$ 加之北盘江水电站蓄水，使水热组合较好，花椒将更多的资源用于生长和繁殖，故随海拔升高，顶坛花椒比叶面积、叶片含水率增大，叶干物质含量减少，叶片厚度无显著变化。而YD4\\~YD5是南亚热带干热河谷气候过渡到中亚热带河谷气候，其气态水资源变少、光照辐射增强，此时顶坛花椒通过减少比叶面积和叶片含水率，不断合成叶片有机碳，通过增加叶干物质含量、叶片厚度来抵御环境胁迫，提高花椒的适应能力，从而用于生长和繁殖的投资减少。顶坛花椒叶片含水率为 $5 9 . 9 7 \\% \\sim 6 8 . 9 4 \\%$ ，呈极小的鳞片状，表皮外壁上发达的角质层，有效提高了植物能量反射，降低了蒸腾速率；加之花椒叶片厚度较大 $( 0 . 3 0 1 { \\sim } 0 . 3 3 5 \\ \\mathrm { m m } )$ )，栅栏组织发达，表皮细胞气孔小且下陷，有效减少了植物的机械损伤（刘金玉等，2012)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "顶坛花椒叶全氮与叶全磷呈负相关关系，叶全氮含量随海拔升高先降低后增加，叶全磷则相反。植物中营养元素与土壤因子存在密切联系，其含量的高低通常与土壤中营养元素呈正相关（张志才等，2016)；另一方面，植物为了满足生长、繁殖所需求的蛋白质和核酸，对氮和磷的吸收率较高，且会将更多的营养元素分配到繁殖性状器官，使得叶片中营养元素含量相对降低（孙书存和陈灵芝，2001)。顶坛花椒叶全氮与叶片厚度呈正相关，叶片氮元素含量的增加，可以促进叶绿素的合成和叶片净光合速率（吴楚等，2005)，增强叶片获取和利用资源的能力。顶坛花椒叶干物质含量增加，叶片含水率降低，指示叶片建成投入增多，增大了叶片内部水分向叶片表面扩散的距离或阻力（胡耀升等，2014)；比叶面积降低，单位质量干物质所获得的捕光面积减少，降低了内部水分散失，增强了顶坛花椒的耐旱能力。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2土壤理化性质对顶坛花椒叶片功能性状的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "花江峡谷在流水侵蚀作用下，谷底碳、氮、磷等土壤肥力相对丰富；加之中度、重度石漠化发育，其裸露的岩石可以将高海拔地区流失的土壤养分和自身溶蚀产物聚集在周围土壤，增加了土壤中碳、氮等养分含量，在一定程度上改善了土壤质量（盛茂银等，2013);同时也使不同小生境的土壤质量具有高度异质性。植物所需的养分主要通过根系从土壤中吸收，根系承担着水分和养分吸收、运输及机械固定的作用，因此土壤氮、磷含量增加能够影响叶片全氮、全磷（宾振钧等，2015）、比叶面积和叶干物质含量（万宏伟，2008；詹书侠等2016)，进而影响叶片光合能力。速效氮、速效钾是土壤中能够被植物直接吸收利用的营养物质，植物从土壤中吸收的钾可以促进植物光合作用及蛋白质合成，从而提高植物的叶片面积（陈超凡等，2018)。植物从土壤中吸收氮，使叶片氮含量增加，促进了磷脂和叶绿素的合成，使得叶片光合能力增加，资源获取能力增强，进而叶片建成投入增多，导致叶干物质含量增加、比叶面积减少。土壤有机碳含量高，利于叶片获取更多的碳资源，使得叶片有机碳含量、叶片面积增大，光捕获面积亦增大，导致光合能力增强，使植物对氮元素的吸收加快（盘远方等，2018)。且研究表明氮元素是顶坛花椒生长的主要限制元素（喻阳华等，2019)，土壤因子中土壤速效氮与顶坛花椒叶片的相关性最大。另外，顶坛花椒具有强大的根系系统（付兴涛等，2008)，具有较强的养分和水分吸收能力，其根系可以分泌有机酸（赵宽，2014)，以及土壤环境中的碳酸酐酶促进 $\\mathrm { C O } _ { 2 }$ 固定 $\\boldsymbol { \\mathrm { H } } ^ { + }$ (李强等 2011)，促使顶坛花椒在碱性土壤中具有较强的适应能力。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）随着海拔升高，顶坛花椒比叶面积、叶全磷、叶全钾、叶片含水率均呈现先升高后降低，叶干物质含量、叶全氮含量先降低后逐渐升高，叶片厚度、叶片面积增大，结果表明海拔支配着顶坛花椒人工林资源分配。（2）通过叶片功能性状间内在关联分析，发现花椒人工林主要通过增加叶片厚度、叶干物质含量、叶片含水率，以及减小比叶面积来降低外界环境的干扰；同时，通过增加叶片内部氮、磷等养分含量，提高获取资源能力，以适应干旱、资源贫瘠的环境，其干旱属性为干旱避免。（3）叶片功能性状受土壤有机碳、速效氮和速效钾的影响较大，其他因子的影响较小，表明顶坛花椒叶片对土壤养分具有强烈的依赖性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "BAO Q,LIANG JF, WANG Q,et al.， Characteristics of soil water storage under differenteco-vegetation types in huajiang Karst Rocky desertification[J]. J Soil Water Conserv, 24(1):18-24.[鲍乾，梁建发，王棋，等，2017．花江喀斯特石漠化区不同经济型植物的土壤蓄水特征[J]．水土保持研究,24(1):18-24.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "BIN ZJ, ZHANG RY, ZHANG WP, et al.， 2015. Effects of nitrogen, phosphorus and silicon additions on carbon, nitrogen and phosphorus concentration of Elymus nutans of alpine meadow on Qinhai-Tibetan Plateau, China[J]. Acta Ecol Sin,35(14): 4699-4706.[宾振钧, 张仁懿，张又鹏，等，2015．氮磷硅添加对青臧高原高寒阜甸垂標披碱阜叶片氮磷的 影响[J]．生态学报,35(14):4699-4706.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CHEN CF, QIN L, DUAN YX, et al.， 2018. Effects of different management models on leaf functional traits and soil physical and chemical properties of natural secondary forest of Quercus mongolica[J].Acta Ecol Sin,38(23):108-119.[陈超凡，覃林，段艺璇，等,2018. 不同经营模式对蒙古栎次生林叶功能性状和土壤理化性质的影响[J].生态学报, 38(23):108-119. ]   \nFU XT, ZHANG LP, YU LF, et al., 2O08. Experimental study on soil reinforcement of seeding rootsystems-Taking Broussonetia papyrifera and Zanthoxylum planispinum var. dintanens as examples[J].JSoil Water Conserv,22(3):5-9.[付兴涛，张丽萍，喻理飞，等,2008．植 物苗期根系抗侵蚀特性试验研究—以构树和顶坛花椒为例[J]．水土保持学报, 22(3):5-9. ]   \nHE GP, TIAN Q, LI ZJ,et al.，2018.Change in leaf functional traits of woody plants along altitudinal gradients at species and community levels on the Motianling northern slope[J]. Acta Bot Boreal-Occident Sin,38(3): 553-563.[何桂萍，田青，李宗杰，等,2018．摩天岭 北坡森林木本植物叶性状在物种和群落水平沿海拔梯度的变化[J]．西北植物学报, 38(3):553-563.]   \nHUANG W, YANG SP, LUO XM, et al., 2018. Tree and soil nutrition analysis of Zanthoxylum planispinum var. dintanens in Guizhou province[J]. J Anhui Agric Sci, 46(18): 109-110.[黄 伟，杨仕品，罗孝明，等，2018．贵州顶坛花椒树体与土壤营养分析[J]．安徽农业科学， 46(18):109-110. ]   \nHU YS, YAO XY,LIU YH, 2014. The functional traits of forest at different succession stages and their relationship to terrain factorsin Changbai mountains[J]. Acta Ecol Sin, 34(20):5915-5924.[胡耀升，么旭阳，刘艳红,2014．长白山不同演替阶段森林植物性状 及其与地形因子间的关系[J]．生态学报,34(20):5915-5924.]   \nLUNDHOLM J, TRAN S, GEBERT L, 2015. Plant functional traits predict green roof ecosystem services[J]. Environ Sci Technol, 49(4):2366-2374.   \nLI ZJ,TIAN Q, SONG LL, 2O18. Variation and correlation of leaf traits in woody plants on the north slope of Motianling, Gansu province [J].JDesert Res,38(1): 149-156.[李宗杰，田青, 宋玲玲，2018．甘肃省摩天岭北坡木本植物叶性状变异及关联[J]．中国沙漠, 38(1):149-156.]   \nLI M, ZHENG Y, GUO YR, et al.,2017. Scaling relationships between twig size and leaf size of Pinus hwangshanensis along an altitudinal gradient in Wuyi Mountains, China[J]. Chin J Appl Ecol,28(2):537-544.[李曼，郑媛，郭英荣，等,2017．武夷山不同海拔黄山松枝叶 大小关系[J]．应用生态学报,28(2):537-544.]   \nLI WJ, WANG TM, WANG GP, et al., 2010. Evaluation of ecosystem service function value of Zanthoxylum planispinum var. dintanensis forest in Huajiang Karst Gorge[J]. Carsolog Sin, 29(2):152-154.[李苇洁，汪廷梅，王桂萍，等,2010．花江喀斯特峡谷区顶坛花椒林生态 系统服务功能价值评估[J]．中国岩溶,29(2):152-154.]   \nLI AD,LU YF, WEI XL, et al., 2O08.Dynamics of soil moisture in diferent niches in Huajiang Karst Gorge area[J].Carsolog Sin,(1): 56-61.[李安定，卢永飞，韦小丽，等,2008．花江喀 斯特峡谷地区不同小生境土壤水分的动态研究[J].中国岩溶,(1):56-61.]   \nLI Q, HE YY, CAO JH, et al., 2O11. Effects of plant carbonic anhydrase on karstification and its ecological effect[J].JEco-Environ,20(12):1867-1871.[李强，何媛媛，曹建华，等,2011. 植物碳酸酐酶对岩溶作用的影响及其生态效应[J]．生态环境学报,20(12):1867-1871.]   \nLIU YP,LIU GF, BAIYILA DF, et al.， 2017.Effects of topographic factors on leaf traits of dominant species in different forest communities in Daqinggou nature reserve [J]. Sci Silv Sin，53(3):154-162.[刘玉平，刘贵峰，达福白乙拉，等,2017．地形因子对大青沟自然 保护区不同森林群落叶性状的影响[J]．林业科学,53(3):154-162.]   \nLIU JY, FU PL, WANG YJ, et al., 2O12. Different drought-adaptation strategies as characterized by Hydraulic and water-relations traits of evergreen and deciduous figs in a tropical Karst forest [J].JPlant Sci,30(5):484-493.[刘金玉，付培立，王玉杰，等,2012．热带喀斯特森 林常绿和落叶榕树的水力特征和水分关系与抗旱策略[J]．植物科学学报, 30(5):484-493.]   \nMENG TT, NI J，WANG GH, 2O07. Plant functional traits and environmental and ecosystem functions[J].Chin JPlant Ecol,31(1):150-165.[孟婷婷，倪健，王国宏,2007．植物功能性 状与环境和生态系统功能[J]．植物生态学报,31(1):150-165.]   \nPENG XD, DAI QH, YANG Z,et al., 2016. Characteristics of surface sediment erosion and sediment production during rocky desertification in karst mountainous areas[J]. Acta Petr Sin, 53(5):1237-1248[彭旭东，戴全厚，杨智，等,2016．喀斯特山地石漠化过程中地表地下 侵蚀产沙特征[J]．土壤学报,53(5):1237-1248.]   \nPAN YF, CHEN XB, JIANG Y, 2018. Changes in leaf functional traits and soil environmental factors in response to slope gradient in Karst hills of Guilin[J]. Acta Ecol Sin, 38(5):1581-1589.[盘远方，陈兴彬，姜勇，等，2018，桂林岩溶石山灌丛植物叶功能性状 和土壤因子对坡向的响应[J].生态学报,38(5):1581-1589.]   \nSHENG MY, LIU Y, XIONG KN, 2013. Response of soil physical-chemical properties to rocky desertification succession in South China Karst[J]. Acta Ecol Sin,33(19):6303-6313.[盛茂 银，刘洋，熊康宁，2013．中国南方喀斯特石漠化演替过程中土壤理化性质的响应[J]. 生态学报,33(19):6303-6313.]   \nSU WC, YANG H, 2005. A study on the models of eco-agricultural development in typical karst region—A case study from Dingtan district of Huajiang gorge in Guizhou province[J]. Chin J Eco-Agric,13(4):217-220.[苏维词，杨华,2005．典型喀斯特峡谷石漠化地区生态农业模 式探析——以贵州省花江大峡谷顶坛片区为例[J]．中国生态农业学报,13(4):217-220.]   \nSUN SC, CHEN LZ, 2001. Leaf nutrient dynamics and resorption eficiency of Quercus liaotungensis in the Dongling Mountain region[J]. Chin J Plant Ecol, 25(1): 76-82.[孙书存, 陈灵芝，2001．东灵山地区辽东栎叶养分的季节动态与回收效率[J]．植物生态学报, 25(1):76-82.]   \nWU C, WANG ZQ, SUN HL,et al., 2O05. Efects of different concentration of nitrogen and phosphorus on chlorophyll biosynthesis chlorophylla fluorescence and photosynthetic rate in Larix olgensis seedlings[J].Sci Silv Sin,41(4):31-36.[吴楚，王政权，孙海龙，等,2005. 氮磷供给对长白落叶松叶绿素合成、叶绿素荧光和光合速率的影响[J]．林业科学, 41(4):31-36. ]   \nWAN HW, YANG Y, BAI SQ, et al.,2O08. Variations in leaf functional traits of 6 species along a nitrogen addition gradient in Leymus chinensis steppe in Inner mongolia[J]. Chin J Plant Ecol, 32(3):611-621.[万宏伟，杨阳，白世勤，等,2008．羊草草原群落6种植物叶片功能特性对 氮素添加的响应[J]．植物生态学报,32(3):611-621.]   \nWANG YY, QI DH, LIU WS,et al.， 2016.Comparison on leaf phenotypic and anatomical structure of Polygonum paleaceum along altitudinal gradients at Yulong mountains[J]. Acta Bot Boreal-Occident Sin,36(1):70-77.[王元元，齐丹卉，刘文胜，等,2016.玉龙雪山不 同海拔草血竭叶片形态与解剖结构的比较研究[J]．西北植物学报,36(1):70-77.]   \nWOHLFAHART G, BAHN M，HAUBNER E,et al.，2010. Inter-specific variation of the biochemical limitation to photosynthesis and related leaf traits of 30 species from mountain grassland ecosystems under different land use[J]. Pl Cell Environ,22(1O):1281-1296.   \nWHITMAN T, AARSSEN LW， 2010. The leaf size/number trade-off in herbaceous angiosperms[J]. Chin J Plant Ecol, 3(1):49-58.   \nYANG R, ZHANG BR, WANG LL, et al., 2O15. The response of plant functional traits group to gradients of altitude in dry-hot valley of Yuan-Mou[J]. Ecol Environ Sci, 24(1): 49-56.[杨锐, 张博睿，王玲玲，等，2015．元谋干热河谷植物功能性状组合的海拔梯度响应[J]．生态环 境学报,24(1):49-56.]   \nYU YH, QIN SY, ZHONG XP, 2018. Soil quality characteristics of different Micro-Habitat in Zanthoxylum bungeamun forest of Guizhou Karst areas[J]. SW J Agric Sci, 31(11): 2340-2347. [喻阳华，秦仕亿，钟欣平，2018．贵州喀斯特山区花椒林小生境的土壤质量特征[J]．西南 农业学报,31(11):2340-2347.]   \nYU YH, ZHONG XP, LI H, 2019. Ecological stoichiometry of Zanthoxylum planispinum var. dintanensis plantation at different altitudes in rocky desertification area of central Guizhou[J]. Acta Ecol Sin,39(15):5536-5545.[喻阳华，钟欣平，李红,2019．黔中石漠化区不同海拔 顶坛花椒人工林生态化学计量特征[J].生态学报,39(15):5536-5545]   \nZHANG QP,2O11.Differentiation paterns of leaf traits of main tree along altitudinal and micro-topography gradients on Tianmushan Mountain[D]. Shanghai: East Chin Nor Univ. [张 奇平,2011．天目山主要树种叶性状在海拔梯度和微地形上的分异格局[D]．上海：华东师 范大学.]   \nZHANG ZC,HUANG JH, YE DQ,et al.， 2016. Nitrogen and phosphorus stoichiometry of different families of Cornus wilsoniana and their relationships to nutrient availability[J] J NW For Univ,31(4):53-58.[张志才，黄金华，叶代全，等,2016．光皮树不同家系叶片氮、磷化 学计量特征及其与土壤养分的关系[J]．西北林学院学报,31(4):53-58.]   \nZHANG DY, 2O04. Plant life-history evolution and reproductive ecology[M]. Beijing: Science Press:1-419.[张大勇，2004．植物生活史进化和繁殖生态学[M]．北京：科学出版 社:1-419.]   \nZHAN SX， ZHENG SX，WANG Y, et al.， 2016. Response and correlation of above-and below-ground functional traits of Leymus chinensis to nitrogen and phosphorus additions[J]. Chin JPlant Ecol,40(1):36-47.[詹书侠，郑淑霞，王扬，等,2016．羊草的地上-地下功能 性状对氮磷施肥梯度的响应及关联[J]．植物生态学报,40(1):36-47.]   \nZHAO K, 2014. Characteristics of photosynthetic and organic acids in several plants and its application in karst stress measurement[D]. Zhenjiang: Jiangsu University.[赵宽,2014．几 种植物光合及有机酸特征及其在喀斯特逆境检测中的应用[D].镇江:江苏大学] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

@@ -1,0 +1,997 @@
+[
+    {
+        "type": "text",
+        "text": "时变能量网络中烟的动态演化机理分析与仿真陈皓勇(华南理工大学电力学院，广东省广州市510641)",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Analysis and Simulation of Exergy Dynamic Evolution Mechanism in Time-varying Energy Networks ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CHEN Haoyong ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(SchoolofElectricPowerEngineering,SouthChina UniversityofTechnology,Guangzhou510641,GuangdongProvine,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT:Exergy is an index to measure energy quality which reveals the essence of work capacity loss in the process of energy transfer.In order to study the dynamic evolution mechanism of exergy in time-varying energy networks,the constitutive relations between physical quantities in energy networks are listed based on the energy network theory,and the generalized expressions of exergy are given,including the generalized description and loss equation of exergy based on the second law of thermodynamics,and the energy level factor is introduced to evaluate the energy quality. The dynamic evolution process of different forms of exergy in the energy transfer tube (line） is analyzed,including electric exergy,thermal exergy and pressure exergy,and the output equation and efficiency calculation method of exergy are given.The dynamic evolution process of exergy in energy conversion equipment is analyzed,and the loss,storage and efficiency of exergy are calculated.Finally, the dynamic evolution process of exergy in an integrated energy system is simulated by a specific example. The study of this paper can fully tap the energy efficiency potential of the integrated energy system,and lay a solid theoretical foundation for better realization of energy cascade utilization. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KEY WORDS: exergy；time-varyingenergy networks； energy network theory ； integrated energy; energy efficiencypotential ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：烟是衡量能量品质的指标，深刻揭示能量传递过程中做功能力损失的实质。为研究时变能量网络中烟的动态演化机理，本文基于能量网络理论列写能量网络中物理量间的本构关系，给出烟的普遍化表达式，包括基于热力学第二定律形成烟的普遍化描述与烟损方程，同时引入了能级因子评价能量品质；分析了不同形式烟在能量传递管（线）中的动态演化过程，包括电焊、热烟与压烟，给出了烟的输出方程与效率计算方法；分析了能量转换设备中烟的动态演化过程，进行了烟的损耗量、存储量与效率分析；最后，通过具体算例对烟在某综合能源系统中的动态演化过程进行动态仿真。本文所研究的内容能够充分挖掘综合能源系统的能效潜力，为更好地实现能源梯级利用打下了坚实的理论基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：烟；时变能量网络；能量网络理论；综合能源系统；能效潜力",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为应对全球能源与环境危机，各个国家积极推进低碳综合能源系统（integrated energysystems，IES）的建立，以促进能量梯级利用，实现节能减排[I]。因此，亟需寻求提升IES 能效的相关技术。由热力学第二定律可知，提升IES能效不仅要关注能量“量”的变化，更要关注能量“质”的变化，即烟（exergy）[2-4]。研究烟的动态演化机理能够揭示能量传递、转化过程中有用能的存储与耗散情况，发现IES用能的薄弱环节，从而给出合理的IES能效提升指导意见[5-8]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "自IES概念提出，IES的优化运行与控制等领域已有诸多研究，例如文献[9]提出基于优化的住宅型能源枢纽的能量管理方案，考虑了热电联产单元、插电式混合动力汽车、太阳能电池板、蓄热等部分以及电－气输入间的相互影响；文献[10]对冷热电联供的IES建立经济性数学模型，并基于模糊层次分析法研究了系统多目标优化评估方法与运行控制策略；文献[11]为解决集成IES 的经济性、排放性和多目标调度问题，提出了一种结合改进的交叉粒子群算法和代替价值交换法来寻找最优的非支配解。然而，以往的研究中大多只考虑能量守恒定律而忽略了能量在不可逆传递过程中的降质现象。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着IES能效提升技术遇到瓶颈，有部分学者开始重视烟在IES中的应用。已有学者将烟指标纳入IES的综合能效评价，文献[12]引入了能值理论，建立基于能值分析的IES价值定量评估方法，有助于挖掘IES能源互补价值；也有学者将烟效率引入了IES的多目标优化调度中[13]，建立并求解了综合考虑能源利用效率、经济效益以及环境效益的IES优化调度模型；文献[14]则给出了考虑烟的区域IES多目标规划方法，利用能源集线器模型构建并求解了考虑烟效率和经济性的双层优化结构。然而，尚未有文献分析烟在能量网络中的动态演化过程，无法深刻解析IES中能量品质的逐级递减现象。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "分析烟在IES系统中的动态演化过程需要精确的IES模型。目前，国内外学者已就IES建模展开了诸多研究。文献[15]指出键合图基于能量守恒原理能够对复杂非线性的IES进行统一建模该建模方法虽然结构简明规范，但无法揭示能量传递的动力学机理。文献[16]回顾了适用于IES综合管理的“能源枢纽”概念与模型，分析不足并展望未来发展需求，但该模型内部是黑箱模型，无法对IES进行统一建模，在模型上仍然相对分立。近年来，借鉴电网络理论的IES统一建模方法逐渐被关注[17-20]，这种方法根据不同能源网络间物理量的本构关系，利用广义阻性 $R$ 、容性$C$ 和感性元件 $L$ ，建立通用的能量传递模型[21]，模型统一、简明，这将给烟的动态演化分析带来极大便利。因此，本文利用基于能量网络理论[22]建立的IES统一时变模型，首次提出一种时变能量网络中烟的动态演化机理分析方法，精确度量了不同形式能量在IES传递过程中对应形式烟的存储量、损耗量以及效率，具体研究分为4个步骤：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1）给出烟的普遍化表达：给出能量网络常用物理量间本构关系及统一符号；基于烟的物理意义，给出烟的普遍化描述；结合拉格朗日方法推导出烟损的普遍化表达方程；引入能级因子衡量能量品质。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2）分析具体形式烟的动态演化机理：基于时变能量传递模型，分析电、热、压三种类型能量在时变网络中的耗散与存储情况以及能量中不可用能的大小，最后给出了烟的输出方程和效率计算公式。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3）分析能量转换设备中烟的动态演化机理：基于能量转化设备的时变等值模型，分析了感应电动机以及离心泵中烟的动态演化过程，给出了烟的损耗、存储与做功效率情况分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4）通过具体算例，对烟在网络中的动态演化过程进行仿真与分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 能量网络中烟的普遍化表达",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "焊指能量在环境条件下可转化为有用功的部分，体现了能量的品质。由热力学第一定律知，能量是守恒的，在数值上大于或等于烟；热力学第二定律则指出，能量的具体转换过程有明显的方向性，如电能可以完全转换为热能，但热能却无法全部转换为电能[23-24]。可见，部分能量在传递、转换过程中会不可避免地退化为不可用能，且过程不可逆，而这部分损失的能量就是烟损。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1能量网络常用物理量间本构关系及统一符号",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "能量网络的物理量包括四大类：广义位移（基本广延量） $\\phi$ 、广义流变量（基本广延量流量） $\\varphi$ 、广义强度量 $\\chi$ 和广义动量 $X$ 。它们之间的本构关系为： $\\chi = R \\varphi$ ， $\\scriptstyle { \\phi = C \\chi }$ ，$X { = } L \\varphi$ 。不同能量网络的物理量及符号详见表1，包括电力、热力、水力和机械能量网络中上述四类广义变量以及能量功率、火用功率以及能级系数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "烟的普遍化描述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "描述体系状态的基本参量包括两大类：强度量与广延量，其中广延量又包括基本广延量、能量与烟。体系中任何形式烟的函数都可用强度量变量与广延量变量表示[25]。体系的烟源于体系与环境间的强度量差，由此得到任意形式烟的普遍",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "化微分式如下。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { d } E _ { x i } = ( \\chi _ { i } - \\chi _ { i 0 } ) \\mathrm { d } \\phi _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中，下标 $i$ 表示与第 $i$ 种形式能量有关的量， $E _ { x i }$ 为烟， $\\chi _ { i 0 }$ 为强度量的寂态值。式中，$\\chi _ { i 0 } \\mathrm { d } \\phi _ { i }$ 项表征能量中不能被利用的部分。基于式（1），探讨能量微观传递过程品质的宏观变化，以热力系统能量品质分析为例，如图1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/4a0c8dc019547a1a635af83fb91a2ae1e52776bf3be348d7e27b844b6d1c8eb2.jpg",
+        "table_caption": [
+            "表1不同能量网络的物理量及符号",
+            "Table1Physical quantities and symbols of different energy networks "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>变量</td><td colspan=\"2\">电力变量</td><td colspan=\"2\">热力变量</td><td colspan=\"2\">水力变量</td><td colspan=\"2\">机械变量</td></tr><tr><td>广义位移</td><td>电荷q</td><td>/C</td><td>熵</td><td>/JK-1</td><td>体积v</td><td>/m²</td><td>角位移Φ</td><td>/rad</td></tr><tr><td>广义流变量φi</td><td>电流q</td><td>/A</td><td>熵流Ps</td><td>/JK1s1</td><td>体积流量φv</td><td>/m³s1</td><td>角速度φω</td><td>/ rad's</td></tr><tr><td>广义强度量 xi</td><td>电势xu</td><td>/V</td><td>温度XT</td><td>/K</td><td>压强xP</td><td>/Pa</td><td>1 转矩xt</td><td>/Nm</td></tr><tr><td>广义动量Xi</td><td>磁通链Xy</td><td>/Wb</td><td>温度</td><td>－时间积分XT</td><td>压强动量Xp</td><td>/Pas</td><td>角动量Xt</td><td>/Nms</td></tr><tr><td colspan=\"9\">/Ks</td></tr><tr><td>能量功率Pi</td><td>电功率Pe</td><td>/W</td><td>热功率P</td><td>/W</td><td>压功率Pp</td><td>/W</td><td>机械功率Pj</td><td>/W</td></tr><tr><td>烟功率Pxi</td><td>电烟功率Pxe</td><td>/</td><td>热烟功率 Pxh</td><td>/W</td><td>压烟功率 Pxp</td><td>/W</td><td>机械烟功率Pxj</td><td>/</td></tr><tr><td colspan=\"9\"></td></tr><tr><td>能级系数&i</td><td colspan=\"2\">电能能级εe</td><td>热能能级&h</td><td></td><td>压能能级εp</td><td></td><td>机械能能级εj</td><td>W</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/43964242c46b3633a41749dff2b84f06a322d3f2aa3050af9ef2c6fc9cd13f37.jpg",
+        "img_caption": [
+            "图1热力系统能量品质分析示意图",
+            "Fig.1 Schematic diagram of energy quality analysis of thermal system "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设有一定数量的热能从系统I的恒定热源$\\chi _ { \\mathrm { { T 1 } } }$ 传递到系统ⅡI的恒定热源 $\\chi _ { \\mathrm { T } 2 }$ ，温度寂态值 $\\chi _ { \\mathrm { { T 0 } } }$ 保持不变。由热力学第一定律可知，$\\chi _ { \\mathrm { T 1 } } \\varPhi _ { \\mathrm { s 1 } } = \\chi _ { \\mathrm { T 2 } } \\varPhi _ { \\mathrm { s 2 } }$ ；由热力学第二定律可知，随着过程的进行熵不断增大，不可用能也随之由$\\chi _ { \\mathrm { T 0 } } \\phi _ { \\mathrm { s l } }$ 增大到 $\\chi _ { \\mathrm { r 0 } } \\phi _ { \\mathrm { s } 2 }$ ，故系统Ⅱ的烟 $E _ { \\mathrm { x h } 2 }$ 小于系统I的烟 $E _ { \\mathrm { x h 1 } }$ 。分析可知，传热过程发生烟损！热能做功能力损失了，热能降质。可见，要保证能量数量不变就要牺牲能量的品质；反之，要维持能量品质不变就要损失更多数量的能量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "烟损普遍化方程",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "结合式（1）与拉格朗日方法[2]，得到烟的动力学平衡方程如下。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $J _ { E x i }$ 是烟流密度， $J _ { { _ i } }$ 是基本广延量流密度， $\\sigma _ { i }$ 是基本广延量源强度。等号左边为单位体积内烟随时间的变化量；等号右边第一项为净流入体积元边界的烟，第二项为在强度量差推动下不同形式烟间相互转换后产生的烟，第三项为随基本广延量源产生的烟。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于综合能源系统中能量通常在圆柱形管（线）中传递，故对式（2）方程左右两边进行体积分，并移项整理后得到下式。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\chi _ { \\mathrm { A } } - \\chi _ { 0 } \\right) \\varphi _ { \\mathrm { A } } - \\left( \\chi _ { \\mathrm { B } } - \\chi _ { 0 } \\right) \\varphi _ { \\mathrm { B } } = \\frac { \\mathrm { d } E _ { x } } { \\mathrm { d } t } - \\begin{array} { c } { \\mathrm { B } } \\\\ { \\mathrm { A } } \\end{array} \\varphi \\mathrm { d } \\chi -\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中，省略了下标 $i$ ，角标A、 $\\mathbf { B }$ 分别代表",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "能量传入截面A与能量传出截面B， $x _ { g }$ 是能量传递过程与长度相关的基本广延量的函数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "方程（3）等号左边两项即单位时间能量在截面A、B之间传递所产生的烟损，如下。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta P _ { x } = \\Delta P + \\chi _ { 0 } \\Delta \\varphi = { \\frac { \\mathrm { d } E _ { x } } { \\mathrm { d } t } } - { \\frac { \\mathrm { d } _ { x } ^ { \\mathrm { B } } } { \\mathrm { d } t } } \\varphi \\mathrm { d } \\chi - { \\begin{array} { l } { \\mathrm { ~ \\mathrm { ^ B _ { \\Delta } ~ } } ( \\chi - \\chi _ { 0 } ) \\mathrm { d } x _ { g } } \\\\ { \\mathrm { ~ \\mathrm { ^ d } ~ } } \\end{array} }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\Delta P _ { x }$ 是能量从截面A传递到截面B产生的烟损， ${ \\Delta } P$ 是传递过程消耗的可用能，$\\chi _ { \\scriptscriptstyle 0 } \\Delta \\varphi$ 代表了不可逆性产生的可用能损失。可见：能量传递过程产生的烟损主要包含了传递过程消耗的可用能以及不可逆性造成的可用能损失，又等于体积内烟随时间的变化量减去强度量差推动下转化为该形式的烟，再减去随基本广延量源而产生的烟。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "能级",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "引入能级因子 $\\varepsilon$ 评价能量的品质。体系中第$i$ 种形式能量对应的能级因子 $\\ \\varepsilon _ { i }$ 的大小等于对应烟微分与能量微分（ $\\mathrm { d } E _ { i } = \\chi _ { i } \\mathrm { d } \\phi _ { i }$ ）的比值，$\\ \\varepsilon _ { i }$ 大小如下。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varepsilon _ { i } = { \\frac { \\mathrm { d } E _ { x i } } { \\mathrm { d } E _ { i } } } = 1 - { \\frac { \\chi _ { i 0 } } { \\chi _ { i } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分析可知，当 $\\varepsilon _ { i } = 0$ ，表明此时体系强度量$\\chi _ { i }$ 等于寂态值 $\\chi _ { i 0 }$ ，烟的大小为0；当 $\\varepsilon _ { i } = 1$ ，表明强度量寂态值 $\\chi _ { i 0 }$ 为0，能量在数值上等于烟，此时体系烟达到最大值。可见，体系能级越高表明能量中烟的比例越大，能量作用于相关外界的功就越多，则能量的利用价值越显著。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 具体形式烟的动态演化机理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "按照能量网络中物质的运动形式分类，得到不同形式的烟，例如，电力网络中电荷定向移动产生电焊；热力网络中熵的运动产生热烟；水力网络中体积流量的运动产生压烟。以下基于能量网络理论所建时变模型，分析具体形式烟在管（线）控制体截面A、截面B间的动态演化机理。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "电烟的动态演化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "电力网络中，电焊表征电场作用下带电体系向相关外界做出的最大有用功的能力。由电荷守",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "恒定律知，电荷源强度 $\\sigma _ { \\mathrm { q } } = 0$ ，由式（4）得到电烟功率损失方程如下。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta P _ { \\mathrm { x e } } = \\Delta P _ { \\mathrm { e } } + \\chi _ { \\mathrm { U 0 } } \\left( \\varphi _ { \\mathrm { q B } } - \\varphi _ { \\mathrm { q A } } \\right) = \\Delta P _ { \\mathrm { e } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\Delta P _ { \\mathrm { x e } }$ 是电能从截面A传递到截面B产生的电烟损， $\\Delta P _ { \\mathrm { e } }$ 是传递过程的电能损失， $\\chi _ { \\mathrm { U 0 } }$ 为电势寂态值，由于通常取大地为零电势点，故$\\chi _ { \\mathrm { U 0 } } = 0$ ，电能能级 $\\varepsilon _ { \\mathrm { e } } = 1$ 。因此，电烟损失与电能损失变化相同。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以电能在平行双传输线传递过程为例分析电烟的演化，时变等值模型如图2所示。图2中，$R _ { \\mathrm { e } }$ 是电阻，由于电阻发热使得部分电能转化成低品位热能，产生烟损； $C _ { \\mathrm { e } }$ 是电容，大小与电势 $\\chi _ { \\mathrm { U } }$ 变化快慢有关，体现烟的存储效应； $L _ { \\mathrm { e } }$ 是电感，反应电流 $\\varphi _ { \\mathrm { q } }$ 变化的快慢，体现烟的惯性效应。电烟功率损失计算方法与电能功率相同，根据电路理论[27]可以求得，此处不赘述。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3fa80a15602e295d6fbda80badc92e0d97ce257493ac719c4d0a473f5b371acb.jpg",
+        "img_caption": [
+            "图2电能传递过程的时变等值模型",
+            "Fig.2 Time-varying equivalent model of power transfer "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "process ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "热烟的动态演化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "热力网络中管道流体在压力差的推动下发生对流传热。热烟表征由于体系温度与环境温度的不同而能向相关外界作最大有用功的能力。由式（4）得到热烟功率损失方程如下。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta P _ { x \\mathrm { h } } = \\Delta P _ { \\mathrm { h } } + \\chi _ { \\mathrm { T 0 } } \\Delta \\varphi _ { \\mathrm { s } } = \\frac { \\mathrm { d } E _ { \\mathrm { x h } } } { \\mathrm { d } t } - \\begin{array} { c } { \\mathrm { ~ B } } \\\\ { \\mathrm { ~ A } } \\end{array} \\varphi _ { \\mathrm { s } } \\mathrm { d } \\chi _ { \\mathrm { T } } -\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\Delta P _ { \\mathrm { x h } }$ 是热烟损失， $\\Delta P _ { \\mathrm { h } }$ 是热能损失，$\\varphi _ { \\mathrm { s } }$ 是熵流， $x _ { \\mathrm { g s } }$ 是熵源随管道长度变化的函数，$\\chi _ { \\mathrm { { T 0 } } }$ 为温度寂态值，通常取为环境温度，由式（5）可知热能能级 $ { \\varepsilon } _ { \\mathrm { h } }$ 小于1，热能属于低品位能量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由式（7）分析得，热烟损失主要包括热能损失以及传热和扩散不可逆性引起的能量损失，也等于单位时间内总热烟的变化量（非稳态项）减去热烟的产生量。以一维单层圆柱形管道中热能的传递过程为例具体分析。由能量网络理论建模方法得到传热过程等值回转器GY模型如图3所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e75db259c0d2d3343b18b6ff34e60ccbd27c339ae7712f036466ab00f7f6d871.jpg",
+        "img_caption": [
+            "图3对流传热过程的时变等值模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 Time-varying equivalent model of convective heat ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "transfer process ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图中， $\\chi _ { \\mathrm { T A } }$ 是输入温度， $\\chi _ { \\mathrm { T B } }$ 是微元控制体内的温度， $C _ { \\mathrm { h } }$ 是热容， $R _ { \\mathrm { h } }$ 是管壁径向总热阻。由图3所示模型，写出传热微元控制体内的能量损耗如下。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\Delta P _ { \\mathrm { h c } } = C _ { \\mathrm { h } } \\dot { \\chi } _ { \\mathrm { T B } } } \\\\ & { \\Delta P _ { \\mathrm { h r } } = \\frac { \\left( \\chi _ { \\mathrm { T B } } - \\chi _ { \\mathrm { T 0 } } \\right) } { R _ { \\mathrm { h } } } } \\\\ & { \\Delta P _ { \\mathrm { h a } } = \\left( 1 - \\varepsilon _ { \\mathrm { h B } } \\right) P _ { \\mathrm { h B } } - \\left( 1 - \\varepsilon _ { \\mathrm { h A } } \\right) P _ { \\mathrm { h A } } } \\\\ & { \\qquad = \\chi _ { \\mathrm { T 0 } } \\left( \\varphi _ { \\mathrm { s B } } - \\varphi _ { \\mathrm { s A } } \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\Delta P _ { \\mathrm { h c } }$ 是储热效应下热容元件中存储的热功率，即流体温度随时间变化而在管道累积的能量， $\\Delta P _ { \\mathrm { h r } }$ 是热阻元件上损失的热功率，即导热与对流过程沿管侧泄漏的热能， $\\Delta P _ { \\mathrm { h a } }$ 是热能中由于能级下降所产生的不可逆耗散对应的热功率损失， $\\varepsilon _ { \\mathrm { { h A } } } { = } 1 - \\chi _ { \\mathrm { { T 0 } } } / \\chi _ { \\mathrm { { T A } } }$ 是控制体能量输入处热能能级， $\\varepsilon _ { \\mathrm { h B } } { = } 1 - \\chi _ { \\mathrm { T 0 } } / \\chi _ { \\mathrm { T B } }$ 旻是控制体内热能能级。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "结合公式（7）、（8），得到控制体内热烟的动态演化方程如式（9）所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } {  { P _ { \\mathrm { x h B } } { = } P _ { \\mathrm { x h A } } - \\Delta P _ { \\mathrm { h c } } - \\Delta P _ { \\mathrm { h r } } - \\Delta P _ { \\mathrm { h a } } } \\quad } & { } \\\\ & { = P _ { \\mathrm { x h A } } - C _ { \\mathrm { h } } \\dot { \\chi } _ { \\mathrm { T B } } - \\frac { ( \\chi _ { \\mathrm { T B } } - \\chi _ { \\mathrm { T 0 } } ) } { R _ { \\mathrm { h } } } - \\chi _ { \\mathrm { T 0 } } ( \\varphi _ { \\mathrm { s B } } - \\varphi _ { \\mathrm { s A } } ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， $P _ { \\mathrm { x h B } }$ 为控制体输出的热烟功率， $P _ { \\mathrm { x h A } }$ 为控制体输入的热烟功率。由式（9）画出热烟在单层圆柱形管道传递过程的动态过程如图4所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/250219a30f02beb725ae7bbf711ae43465e24266be1d753f46b27a35d1922132.jpg",
+        "img_caption": [
+            "图4单层圆柱形管道热烟动态演化示意图",
+            "Fig.4Diagramof thermal dynamic evolutionof single layercylindrical pipe "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图4易得，热烟在管道中传递的烟效率如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\eta _ { \\mathrm { h } } = \\frac { P _ { \\mathrm { _ { x h A } } } - C _ { \\mathrm { h } } \\dot { \\chi } _ { \\mathrm { T B } } - \\frac { \\left( \\chi _ { \\mathrm { _ { T B } } } - \\chi _ { \\mathrm { _ { T 0 } } } \\right) } { R _ { \\mathrm { h } } } - \\chi _ { \\mathrm { _ { T 0 } } } \\left( \\varphi _ { \\mathrm { _ { s B } } } - \\varphi _ { \\mathrm { _ { s A } } } \\right) } { P _ { \\mathrm { _ { x h A } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "压烟的动态演化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在流体网络中，压烟表征体系在不同压力环境下对相关外界作最大有用功的能力。流体网络中体积源强度 $\\sigma _ { \\mathrm { v } } = 0$ ，由式（4）得到压烟功率损失方程如下。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta P _ { x \\mathrm { p } } = \\Delta P _ { \\mathrm { p } } + \\chi _ { \\mathrm { P 0 } } \\Delta \\varphi _ { \\mathrm { v } } = { \\frac { \\mathrm { d } E _ { \\mathrm { x p } } } { \\mathrm { d } t } } - \\mathrm { \\Lambda } _ { \\mathrm { A } } ^ { \\mathrm { B } } \\varphi _ { \\mathrm { v } } \\mathrm { d } \\chi _ { \\mathrm { P } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\Delta P _ { \\mathrm { x p } }$ 是压能传递过程压烟功率损失，$\\Delta P _ { \\mathrm { p } }$ 是压能传递过程的压能功率损失， $\\varphi _ { \\mathrm { v } }$ 是体积流量， $\\chi _ { \\mathrm { { P 0 } } }$ 为压强寂态值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以圆形管路的流体压能传递过程为例具体分析压烟的演化，由能量网络理论建模方法得到压能传递过程通用等值模型如图5所示。考虑在一维管流中，平铺的流体管线，法向方向上流体受到的压力和重力相平衡，管路和流体不发生弹性形变与线性形变，且一般忽略对流项。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b2e30ae895f43869732b2bc33a0addb90b0aa49e807c68811154594c692453d.jpg",
+        "img_caption": [
+            "图5压能传递过程的时变等值模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "transferprocess ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图中， $\\chi _ { \\mathrm { { P A } } }$ 为截面A压强， $\\chi _ { \\mathrm { { P B } } }$ 为截面B压强， $\\varphi _ { \\mathrm { v } }$ 为体积流量， $C _ { \\mathrm { v } }$ 是流容， $R _ { \\mathrm { v } }$ 是流阻， $L _ { \\mathrm { v } }$ 是流感。由图5所示模型，写出压能传递过程微元控制体内的能量损耗如下。",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\Delta P _ { \\mathrm { p c } } = \\chi _ { \\mathrm { p A } } C _ { \\mathrm { v } } \\dot { \\chi } _ { \\mathrm { p A } } } \\\\ & { \\Delta P _ { \\mathrm { p r } } = \\varphi _ { \\mathrm { v B } } ^ { 2 } R _ { \\mathrm { v } } } \\\\ & { \\Delta P _ { \\mathrm { p l } } = \\varphi _ { \\mathrm { v B } } L _ { \\mathrm { v } } \\dot { \\varphi } _ { \\mathrm { v B } } } \\\\ & { \\Delta P _ { \\mathrm { p a } } = \\left( 1 - \\varepsilon _ { \\mathrm { p B } } \\right) P _ { \\mathrm { p B } } - \\left( 1 - \\varepsilon _ { \\mathrm { p A } } \\right) P _ { \\mathrm { p A } } } \\\\ & { \\qquad = \\chi _ { \\mathrm { p 0 } } \\left( \\varphi _ { \\mathrm { v B } } - \\varphi _ { \\mathrm { v A } } \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\Delta P _ { \\mathrm { p c } }$ 是流容上存储的压功率大小，$\\Delta P _ { \\mathrm { p r } }$ 是流阻上产生的沿程压功率损失，即由于流体的黏性或管壁的粗糙引起的， $\\Delta P _ { \\mathrm { p l } }$ 是流感存储的压功率大小， $\\Delta P _ { \\mathrm { p a } }$ 是能级下降的不可逆过程所产生的压功率损失， $\\varepsilon _ { \\mathrm { { p A } } } { = } 1 { - } \\chi _ { \\mathrm { { P } 0 } } { \\big / } \\chi _ { \\mathrm { { P A } } }$ 是压能输入处能级， $\\varepsilon _ { \\mathrm { { p B } } } { = } 1 { - } \\chi _ { \\mathrm { { P } 0 } } { \\big / } \\chi _ { \\mathrm { { P B } } }$ （204号 是压能输出处能级。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "结合式（11）、（12），得到控制体内压烟的动态演化方程如下。",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { P _ { \\mathrm { x p B } } = P _ { \\mathrm { x p A } } - \\Delta P _ { \\mathrm { p c } } - \\Delta P _ { \\mathrm { p r } } - \\Delta P _ { \\mathrm { p l } } - \\Delta P _ { \\mathrm { p a } } } \\\\ & { \\qquad = P _ { \\mathrm { x p A } } - \\chi _ { \\mathrm { p A } } C _ { \\mathrm { v } } \\dot { \\chi } _ { \\mathrm { P A } } - \\varphi _ { \\mathrm { v B } } ^ { 2 } R _ { \\mathrm { v } } - \\varphi _ { \\mathrm { v B } } L _ { \\mathrm { v } } \\dot { \\varphi } _ { \\mathrm { v B } } - } \\\\ & { \\qquad \\chi _ { \\mathrm { p 0 } } \\left( \\varphi _ { \\mathrm { v B } } - \\varphi _ { \\mathrm { v A } } \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中， $P _ { \\mathrm { x p B } }$ 为控制体输出的热烟功率， $P _ { \\mathrm { x p A } }$ 为控制体输入的热烟功率。从能量的角度进一步分析容性元件与感性元件上的：流容表征流体压缩性，与压力变化快慢有关，流容如同电容将外界能量转变为电场能储存起来一样，把流体的动能转变为压力势能存储起来，当流体处于稳态和低频时可不予考虑；流感表征流体惯性，当流体高频运动时，在惯性作用下使流体流量发生变速，并进一步引起压力的变化，此时，流感如同电感将电场能转化为磁场能储存起来一样，把压力能转换为动能储存起来。可见，流体传递过程压能与动能相互变换，过程无损可逆。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由上式得压烟在管道中传递的烟效率如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\eta _ { \\mathrm { p } } = \\frac { \\sharp \\sharp } { \\sharp \\sharp } \\times \\mathrm { p A } - \\chi _ { \\mathrm { p A } } C _ { \\mathrm { v } } \\dot { \\chi } _ { \\mathrm { P A } } - \\varphi _ { \\mathrm { v B } } ^ { 2 } R _ { \\mathrm { v } } -  \\\\ { \\sharp \\sharp \\qquad \\mathrm { / { \\vphantom { \\frac { \\partial } { \\partial } } \\chi \\mathrm { p A } }  \\kern - delimiterspace } P _ { \\mathrm { x p A } } }  \\kern - delimiterspace \\egroup  \\kern - delimiterspace  \\kern - delimiterspace  \\kern - delimiterspace  \\kern - delimiterspace  \\begin{array} { l } { P _ { \\mathrm { x p A } } } \\\\ { \\rule { 0 ex } { 5 ex } } \\end{array}  \\kern - delimiterspace  P _ { \\mathrm { x p A } }  \\kern - delimiterspace \n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 能量转换设备中烟的动态演化",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "能量转换设备是耦合不同能源子网络的重要元件，最为常见的类型有感应电动机和离心泵，以下基于能量网络理论所建时变模型，分析烟在其中的演化机理。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "感应电动机",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过电磁感应，感应电动机将输入电压 $\\chi _ { \\mathrm { U } }$ 与感应电流 $\\varphi _ { \\mathrm { q } }$ 共同作用所产生的电功率 $P _ { \\mathrm { e } }$ 转换成感应转矩 $\\chi _ { \\mathrm { t } }$ 与线圈转动速度流 $\\varphi _ { \\omega }$ 共同作用所产生的机械功率。机械能是高品质能量，能级系数为1，因此机械烟功率 $P _ { \\mathrm { x j } }$ 等于机械能量功率。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据能量网络理论，将感应电动机等效为回旋器 $\\mathrm { G Y } ( k _ { \\mathrm { m } } )$ ，得到的时变等值模型如图6所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/775084c31666c40ab9b3b25fd13c9c5f51b0862306b3f6cd45b7dd1ccfb853bb.jpg",
+        "img_caption": [
+            "Fig. 5 Time-varying equivalent model of pressure energy ",
+            "图6感应电动机时变等值模型",
+            "Fig. 6 Time varying equivalent model of induction motor "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图中， $R _ { \\mathrm { m o } }$ 表征电动机转速差， $R _ { \\mathrm { m f } }$ 表征电动机轴承与转子摩擦； $L _ { \\mathrm { m x } }$ 表征电动机转子惯性；$C _ { \\mathrm { m k } }$ 表征机轴的柔度等特性； $k _ { \\mathrm { m } }$ 为电动机转矩转换系数 $\\mathrm { ~ ( ~ } \\chi _ { \\mathrm { U } } \\mathrm { ~ / ~ } k _ { \\mathrm { m } \\omega } { = } \\varphi$ ， $\\varphi _ { \\mathrm { q } } \\ \\mathbf { \\hat { \\psi } } \\varphi _ { \\mathrm { m } }$ $\\chi _ { \\mathrm { t } }$ ，用于能量方程列写）。由图6分析得到能量转换过程产生的烟",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "损失如下。",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\Delta P _ { \\mathrm { j o t } } = \\chi _ { \\mathrm { m o } } ^ { 2 } \\big / R } \\\\ & { \\Delta P _ { \\mathrm { j f o } } { \\overline { { \\mathbb { P } } } } ^ { 2 } } \\\\ & { \\Delta P _ { \\mathrm { j l o } } { \\overline { { \\mathbb { T } } } } \\llangle _ { \\mathrm { n o } } L \\quad \\dot { \\varphi } } \\\\ & { \\Delta P _ { \\mathrm { j c } } = \\chi _ { \\mathrm { t } } ^ { \\star } C _ { \\mathrm { m k } } \\ddot { \\chi _ { \\mathrm { t } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\Delta P _ { \\mathrm { j o } }$ 是转动机械功率损失， $\\Delta P _ { \\mathrm { j f } }$ 是摩擦机械功率损失， $\\Delta P _ { \\mathrm { j l } }$ 是感性存储机械功率，$\\Delta P _ { \\mathrm { j c } }$ 是容性存储机械功率。根据图6分析可得，感应电动机输出的机械烟功率 $P _ { \\mathrm { x j } }$ 方程以及感应电动机的烟效率 $\\eta _ { \\mathrm { G } }$ 计算公式如下。",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { \\mathrm { x j } } = P _ { \\mathrm { e } } - \\chi _ { \\mathrm { t } } ^ { 2 } \\big / R _ { \\mathrm { m o o } \\overline { { \\jmath } } } \\varphi _ { \\mathrm { m f } } ^ { 2 } \\overleftarrow { \\wp } R _ { \\mathrm { m a x } \\overline { { \\jmath } } | } \\varphi  { L } _ { \\mathrm { t } } \\underbrace { \\dot { \\varphi } } _ { \\mathrm { m } \\mathrm { K } } , \\ \\chi ^ { ' } C \\dot { \\chi } ^ { ^ { \\bullet } }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\eta _ { \\mathrm { G } } = \\frac { P _ { \\mathrm { e } } - \\chi _ { \\mathrm { t } } ^ { 2 } / R _ { \\mathrm { m o o } \\overline { { 1 } } } \\varphi _ { \\mathrm { \\ m f } } ^ { 2 } \\star \\star _ { \\mathrm { \\ m a v } } } { P _ { \\mathrm { e } } } \\ L _ { \\mathrm { t } } \\stackrel { . } { \\ m \\mathrm { ~ a ~ t ~ } } \\chi \\dot { C } \\stackrel { . } { \\chi } ^ { \\cdot }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "离心泵 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "离心泵将转矩 $\\chi _ { \\mathrm { t } }$ 和角速度流 $\\varphi _ { \\mathrm { { o } } }$ 产生的机械功率 $P _ { \\mathrm { j } }$ 转换成流体压强 $\\chi _ { \\mathrm { p } }$ 和流量 $\\varphi _ { \\mathrm { v } }$ 产生的流体压功率 $P _ { \\mathfrak { p } }$ ，使流体升压。离心泵转动部件的机械能常由感应电动机提供，使流体压能增加的烟称为有效功。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据能量网络理论，将离心泵等效为回旋器$\\mathrm { G Y } \\left( r _ { \\mathrm { p } } \\right)$ ，得到离心泵的等值模型如图7所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/654d027809a552e805883f1d211340d3656e1bc768df1616152cadb30c3a4cbb.jpg",
+        "img_caption": [
+            "图7离心泵的时变等值模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图中， $R _ { \\mathrm { p f } }$ 表征转子摩擦特性， $L _ { \\mathrm { p x } }$ 表征转子转动惯量特性， $R _ { \\mathrm { p \\xi } }$ 表征泄漏特性， $R _ { \\mathrm { p r } }$ 表征阀门出口压力损失特性， $r _ { \\mathrm { p } }$ 为叶轮回旋器模数（$\\chi _ { \\mathrm { t } } / r _ { \\mathrm { p } } = \\varphi _ { \\mathrm { v } }$ ， $\\varphi _ { \\mathrm { { o p } } } \\hat { \\pmb { \\varphi } }$ $\\mathsf { \\Pi } _ { \\mathtt { P } } \\boldsymbol { \\mathcal { X } }$ ，用于能量方程列写）。由图7分析得到能量转换过程产生的焊损失为：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\Delta P _ { \\mathrm { j f o p } } ^ { \\mathrm { ' } } \\overline { { \\varphi } } ^ { 2 } R } \\\\ & { \\Delta P _ { \\mathrm { j l o \\overline { { p } } x \\mathrm { \\overline { { o } } \\it { \\phi } L } } } ^ { \\mathrm { ' } } } \\\\ & { \\Delta P _ { \\mathrm { p \\xi p } } = \\chi _ { \\mathrm { p \\xi } } ^ { 2 } \\Big / R } \\\\ & { \\Delta P _ { \\mathrm { p r } } = \\varphi _ { \\mathrm { v 1 } } ^ { 2 } R _ { \\mathrm { p r } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\Delta P _ { \\mathrm { j f } } ^ { \\mathrm { i } }$ 是叶轮机械功率损失，主要由离心泵转子摩擦造成， $\\Delta P _ { \\mathrm { j l } } ^ { ' }$ 是存储的机械功率大小， $\\Delta P _ { \\mathrm { p \\xi } }$ 是容积功率损失，主要由离心泵的泄漏特性造成， $\\Delta P _ { \\mathrm { p r } }$ 是水力功率损失，主要由阀门出口压力损失造成。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "考虑到液体压强寂态值不为零，部分压能无法转化为有用功，并产生不可逆能量损失 $\\chi _ { \\mathrm { p 0 } } \\varphi _ { \\mathrm { v 1 } }$ u故机械能在离心泵中转换为液体压能时，离心泵输出的压烟功率烟 $P _ { \\mathrm { x p } }$ 方程与离心泵的烟效率$\\eta _ { \\mathrm { { B } } }$ 计算公式如下。",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { \\mathrm { x p } } = P _ { \\mathrm { j o p f } } \\varphi ^ { 2 } R _ { \\mathrm { p } } \\ - \\gamma _ { \\mathrm { s v } } ^ { 2 } \\Big / \\frac { \\ d } { \\ d t } P _ { \\mathrm { p r o p x i o } } \\beta Q ^ { 2 } \\underset { \\mathrm { s t } } { R } - \\varphi \\ L \\ \\stackrel { . } { \\varphi } \\ - \\chi \\ \\varphi\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\eta _ { \\mathrm { B } } = \\frac { P _ { \\mathrm { j o p f } } \\varphi ^ { 2 } R _ { \\mathrm { p } } \\ - \\chi _ { \\mathrm { g v 1 } } ^ { 2 } \\big / R _ { \\mathrm { p r o p x o p } } \\varphi ^ { 2 } R ^ { \\ } - \\varphi \\textit { L } \\dot { \\varphi } \\ - \\chi \\textit { \\varphi } } { P _ { \\mathrm { j } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由式（16）与（19）得到IES能量转换元件将电能转化为压能的过程中烟的动态演化如图8所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/96a572c45ee6a18461fb695cff2fa3f76cf0ac4cac1efa2e9d2e9bfd600d1641.jpg",
+        "img_caption": [
+            "Fig. 7 Time varying equivalent model of centrifugal pump ",
+            "图8感应电动机与离心泵中烟的动态演化示意图 Fig. 8 Dynamic evolution diagram of exergy in induction motor and centrifugal pump "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 算例分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "算例描述",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本节以某综合能源系统为例[28]，拓扑图如图9所示，该系统含4节点电力网络以及6节点热力网络，由热电联产机组（CHP）分别提供电源与热源，热电比为1.3。电力网络节点 $\\mathbf { e } _ { 3 }$ 连接电源，节点 ${ \\bf e } _ { 1 }$ 、 $\\mathbf { e } _ { 2 }$ 负荷大小都为 $0 . 1 5 \\mathrm { M W }$ ，节点 ${ \\bf e } _ { 4 }$ 为连接大电网的松弛节点。热力供水网络节点 $\\mathbf { h } _ { 1 }$ 、 $\\mathbf { h } _ { 2 }$ 负荷大小为 $0 . 3 \\mathrm { M W }$ ，节点 $\\mathbf { h } _ { 3 }$ 连接热源，回水网络对称。供、回水网络间连接热源与循环水泵，循环水泵由感应电动机驱动。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a3b68e026ec6175cfd72b69285d43d9fa34f22c4c19cdfc8f34054039bc1cf80.jpg",
+        "img_caption": [
+            "图9某区域综合能源系统拓扑图"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "算例中流体介质为工质水，电势寂态值 $\\chi _ { \\mathrm { U 0 } }$ 为 $0 \\mathrm { v }$ ，压强寂态值 $\\chi _ { \\mathrm { { P 0 } } }$ 取 $0 . 1 \\mathrm { M P a }$ ，温度寂态值设为环境温度 $\\chi _ { \\mathrm { { T 0 } } }$ 为 $1 0 ^ { \\circ } \\mathsf { C } ,$ 热负荷出口处温度$\\chi _ { \\mathrm { { T O } } }$ 为 $5 0 ^ { \\circ } \\mathsf { C } ,$ 热源供应温度 $\\chi _ { \\mathrm { { T S } } }$ 为 $9 9 . 9 ^ { \\circ } \\mathsf { C }$ 。采用分段集中参数模型。控制CHP热源出口温度不变，步长0.01s，仿真时长 $2 0 0 \\mathrm { ~ s ~ }$ 。设热负荷$\\phi _ { \\mathrm { h } 2 }$ 由 $0 . 3 \\mathrm { M W }$ 突变到 $0 . 3 2 \\mathrm { M W }$ ，基于Matlab软件，首先构建时变能量网络方程，利用四阶龙格库塔法（Runge-Kutta）求解状态变量，结合本文所提烟分析方法进行仿真与讨论。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "能量网络方程建立",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "借鉴电路图论知识，由图9画出对应的能量网络的图如图10所示。热力网络与水力网络的图是一样的（共用节点与支路），但所包含的内容（元件）是不同的，图10(a）中虚线表示回水网",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "络。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/edf8d3c9814d33f92142b7319a597d3e9eefc8b54d380e73711ab30ec7498b07.jpg",
+        "img_caption": [
+            "(a) 电力网络和热力／水力网络 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a) Powernetworkand thermal/hydraulicnetwork ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/74691e215bba36f9d212c12c4622b8b583e8a8cf2e0676780be8a16f49c26fc7.jpg",
+        "img_caption": [
+            "Fig.9 Topological diagramof a regional comprehensive energysystem ",
+            "图10某区域综合能源系统能量网络的图 Fig.10 Diagram of energy network of a regional comprehensive energy system "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在流体网络中，根据储能元件个数选取状态变量：选取热力网络管道末端温度，水力网络管道流量与管道末端压强。共16个状态变量（包含6个温度变量，4个压强变量，6个体积流量变量），在网络中可以列出16个方程。结合能量耦合元件，可以再列出3个方程，一共19个状态变量，19个方程。在电力网络中设节点 $\\mathbf { e } _ { 1 }$ 、 $\\mathbf { e } _ { 2 }$ 2个电压幅值变量，除节点 $\\mathbf { e } _ { 4 }$ 外3个电压相角变量。结合广义基尔霍夫定律与烟功率方程得到状态方程 $f _ { 1 } ( \\mathbf { \\xi } )$ 、 $f _ { 2 }$ （）与输出方程 $g ( \\ u )$ 如下。",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\dot { \\varphi } = f _ { 1 } \\big ( \\varphi , \\chi , t \\big ) } } \\\\ { { \\dot { \\chi } = f _ { 2 } \\big ( \\varphi , \\chi , t \\big ) } } \\\\ { { P _ { x } = g \\big ( \\varphi , \\dot { \\varphi } , \\chi , \\dot { \\chi } , t \\big ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.3 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "仿真与分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1）首先给出流体网络状态变量动态响应图，如图11所示，包含热源流出质量流量Mout、流入热荷2质量流量Min与热源返回温度Tr、热负荷2供应温度Tsload。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/67472d64eb772c12a51f5e52f20be4aba9a4c1df519e123793ec4cdef661f686.jpg",
+        "img_caption": [
+            "图11流体网络状态变量响应"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图11得，M_out从 $2 . 9 9 \\mathrm { k g / s }$ 增加了 $3 . 3 \\%$ ，稳定在 $3 . 0 9 \\mathrm { k g / s }$ ；M_in 则从初值 $1 . 5 2 \\mathrm { k g / s }$ 动态上升 $6 . 4 \\%$ 并稳定在 $1 . 6 2 \\mathrm { k g / s }$ 。而Tr由 $4 9 . 1 2 5 ^ { \\circ } \\mathsf { C }$ 下降到 $4 9 . 1 0 1 ^ { \\circ } \\mathsf { C }$ ，再缓慢上升，经过 $1 0 0 \\mathrm { ~ s ~ }$ 最后稳定于 $4 9 . 1 5 1 ~ ^ { \\circ } \\mathrm { C }$ ；Ts_load由 $9 7 . 1 4 ~ ^ { \\circ } \\mathsf { C }$ 下降到$9 6 . 8 2 ~ ^ { \\circ } \\mathsf { C }$ ，最后经过90s稳定在了 $9 7 . 1 8 ^ { \\circ } \\mathsf { C }$ ，两处温度变化非常小，增量都不到 $0 . 1 \\%$ 。热力网络惯性大，动态响应时间较长。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "分析得，热力网络中，热源、热负荷处温度变化极微导致对应节点能级大小基本保持不变，而工质水质量流量的变化幅度则是影响负荷消耗热能数量与热源供应热能数量的主要因素。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2）在热力网络中，关注负荷突变量 $\\phi _ { \\mathrm { h } 2 }$ 处、热源处以及热网管道中烟的演化情况。热力网络中烟的动态变化仿真结果如图12所示，包括热源处供应的热烟Pxh_s、热负荷 $\\phi _ { \\mathrm { h } 2 }$ 消耗的热烟Pxhload以及热源处的不可用能 $\\mathrm { P h 0 _ { \\underline { { ~ s ~ } } } }$ 、热负荷 $\\phi _ { \\mathrm { h } 2 }$ 处的不可用能Ph0_load和热力网络管道中的能量损耗Ph_pipe 情况。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/89dc74b22fd9ed2a8b2b64fbb8fb5719c37708f32c9b1315ee2a72039fda15ee.jpg",
+        "img_caption": [
+            "Fig.11Fluid network state variable response ",
+            "图12热力网络中烟的动态演化图",
+            "Fig.12Dynamic evolution diagramof exergyin thermal "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "network ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由图12可见，热源供应热烟Pxh_s从0.57MW稳定到 $0 . 5 9 \\mathrm { M W }$ ，增加了 $3 . 1 7 \\%$ ；热负荷 $\\phi _ { \\mathrm { h } 2 }$ 消耗热烟Pxh_load从 $0 . 2 6 9 \\mathrm { M W }$ 稳定到$0 . 2 8 7 ~ \\mathrm { M W }$ ，增加了约 $6 . 6 8 \\ \\%$ ；热源不可用能$\\mathrm { P h 0 \\_ s }$ 由 $0 . 0 6 3 5 \\mathrm { M W }$ 稳定在 $0 . 0 6 5 7 \\mathrm { M W }$ ，增加了$3 . 4 6 \\ \\%$ ；热负荷不可用能Ph0load由0.0309MW稳定于 $0 . 0 3 2 9 \\mathrm { M W }$ ，动态上升 $6 . 5 2 \\%$ 。管道能量损耗 Ph_pipe 由 $0 . 0 3 4 \\ 3 \\ \\mathrm { M W }$ 稳定在$0 . 0 3 6 9 \\mathrm { M W }$ ，增大了 $7 . 5 8 \\%$ 0",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "分析上述仿真结果可知，热源处质量流量增加的百分比大于返回温度增加的百分比，因此其供应热能增加，由于热源供应温度不变，热能能级不变，故热源供应热烟Pxhs以及热源不可用能 $\\mathrm { P h 0 \\_ s }$ 都随热能的增加而增加；而热负荷处供应温度的升高使热能能级变大，热烟损失占比减小，但其减小幅度小于热负荷升高幅度，因此，热负荷 $\\phi _ { \\mathrm { h } 2 }$ 热烟消耗量Pxh_load增加的同时不可用能PhO_load也增加。此外，源处的不可用能高于管道能量损耗Ph_pipe，热荷 $\\phi _ { \\mathrm { h } 2 }$ 处的不可用能接近管道能量损耗Ph_pipe，可见，能量网络中仅关注网络能量损耗是不够的，还需要关注不可用能的大小。从本例仿真可以看出该部分能量占比高于管道能量损耗，不应忽视。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3）为使更多工质水产生流动以满足突变的负荷需求，离心泵出口处需要提供更多的压烟。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图13为水力／电力网络以及能量耦合元件中烟的动态演化图，包括感应电动机供应电焊Pxe_s、离心泵出口压烟Pxp_s、管道压能损耗Pp_pipe、能量耦合元件能量损耗P_coupling以及电力网络能量损耗Pe_pipe。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "0.004600.00456 0.0 管道压烟损(MW)  \n(MW） 8.002 -3.0x10-5-6.0x10-50.00264 0.00268 感应电动机供应电烟Pxe_s 离心泵出口压烟Pxp_s -9.0x10-50.00260 -1.2x10-40 20 40 60 80时间(s)0.0015874 0.037W 烟损耗(MW)0.0015872 0.036  \n耗0.0015870 电力网络能量损耗Pe_pipe  \n爆0.0015868 能量耦合元件能量损耗P_coupling 0.0350.0015866 0.034上 10 20 40 60 80 100时间(s)",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "图13可见，离心泵出口压烟Pxps从2618W上升到2709W，增加了 $3 . 5 \\%$ 。离心泵的压烟由感应电动机电烟转换而来，从图中看到电焊Pxes从4527W降到4478W，降了 $1 . 0 8 \\%$ 。同时，管道流量增加带来更多的管道压能损耗Pp_pipe，在动态过程初始时刻，由于管道末端的压强随时间不断减小，导致容性元件吸收负功率，且其绝对值大于流阻与流感所吸收的正功率，管道压能损耗Pp_pipe 曲线在一开始是小于零的。而管道压能损耗从初始值2.8W最终稳定在3.1W，基本可忽略不计。此外，耦合元件的总能量损耗P_coupling的初值为 $1 5 8 6 . 7 \\mathrm { W }$ ，并最终稳定在了 $1 5 8 7 . 2 \\mathrm { W }$ ，前后相差不大，但由于储能元件作用使过程震荡较大。随着热源供应热能的上升，电源供应电能也随之增加，电力网络能量损耗Pe_pipe 增加，从 $0 . 0 3 3 7 \\mathrm { M W }$ 增大到 $0 . 0 3 6 9 \\mathrm { M W }$ ，增加了 $9 . 5 \\%$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "分析可知，热负荷的增加使得热力、水力、电力网络以及能量耦合元件中的能量损耗都相应的增加，且不同网络、元件的能源输入与输出也产生相应变化。系统提供的总能量包括CHP机组产生的总电能与总热能。（1）电力网络中电能流经电阻转化为低品位的热能，产生焊损耗；（2）热力网络中热能含有的不可用能损失到环境中后，剩下的即热烟，由于热阻与热容的存在，在热网中随着流体的流动发生损耗，到达负荷处又有一部分新的不可用能损失到环境中；（3）在能量耦合元件中，感应电动机消耗电能，在电能转换为机械能的过程中伴随着机械能损耗，感应电动机驱动离心泵后，机械能转化为压能的同时设备产生一定压能损耗并在离心泵出口处伴随着不可用能的损耗，最终离心泵出口压烟带动流体的流动满足负荷需求；（4）在流体网络中由于流阻、流感以及流容的存在产生管道上的压能损耗，相比于热烟损，管道流动产生的压能损几乎可以忽略不计，但驱动流体流动的机泵是不能忽略的。该综合能源系统用能过程中，在能级基本不变的情况下保证了能量的品质，但损失了更多数量的能量，对应的也产生了更多的不可用能。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/9fcc6f125c8add914b2902b303f769134df4ed84a94023778fa4d4f4510d4ee9.jpg",
+        "img_caption": [
+            "图13水力／电力网络以及能量耦合元件中烟的动态演化图",
+            "Fig.13Dynamic evolution diagramof exergy in hydraulic/electric power network and energy coupling elements ",
+            "图14热力／电力网络以及能量耦合元件中的焊效率 Fig.14 Exergy efficiency in thermal /electric power network and energy coupling elements "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4)图14为热力／电力网络以及能量耦合元件中烟的总传递效率。热力网络中热烟总效率初始值为 $9 4 . 4 \\%$ ，由于系统储能元件的综合作用，效率动态震荡较大，最后稳定在 $9 4 . 2 \\%$ ，减少了$0 . 2 \\%$ 。热荷 $\\phi _ { \\mathrm { h } 2 }$ 输出的热烟增量较输入的热烟增量大，这有赖于管道流量的增加以及管道温度的升高，但注意到管道热烟损在数量上也随之增加，热火用传递效率并未增加。此外，电力网络电烟效率初始值为 $9 3 . 1 \\%$ ，下降稳定至 $9 2 . 6 \\%$ ，减少了 $0 . 5 \\%$ 。耦合元件烟效率从 $5 7 . 8 \\%$ 上升到$60 . 5 \\%$ ，增加了 $2 . 7 \\%$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "分析可知，能量耦合元件烟效率不到61",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$9 \\%$ ，这就意味着流动烟价至少比电价高出1/0.61倍，当能量耦合元件效率提升 $2 . 7 \\%$ 时，热烟效率并没有得到提升，而电能的品位却远高于热能的品位。所以提高能量耦合元件烟效率固然重要，但如何避免或减少能量品级的降低才更值得思考。另外，流体流速的增加使热网管道传热系数增大，但压降也随之增加，这使得离心泵要提供更多的压畑来补偿，若压降相对值较大，则提高流体流速的代价大于效益，因此，不同运行工况下的效益不能一概而论，此外，一般将流量核定为多数运行工况下的值，而不取由于储能元件作用在短时间内可能达到的最大值。而增大管径可以提高流体流量，获得更多热烟、降低流动能量损耗，但同时也会增加设备成本，需折中考虑。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5 结论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "基于能量网络理论，针对时变能量网络中烟  \n的动态演化进行机理分析。从烟的普适公式出发，  \n结合能级的定义，给出烟在时变能量网络中的平  \n衡方程，并在负荷产生扰动工况下对某热电联产  \n综合能源系统进行仿真，得出如下结论与展望：1）烟在网络中的动态演化机理能够探析不  \n同类型能源传递与转化过程“质”的降低和损耗，  \n弥补了能量分析只关注到量的损失的缺陷，可以  \n为提升能源系统能效提供合理的指导意见。2）随着综合能源系统不确定性的增加，本  \n文所提基于能量网络理论的分析方法能够为非稳  \n态过程的系统能效研究提供了理论基础和仿真方  \n法。3）烟效率应推广为综合能源系统的综合效  \n益评价指标之一，在用能的各环节，烟效率与能  \n量效率计算方式的差异意味着以两者各自为目标  \n因素对综合能源系统进行优化计算得到的结果必  \n然不同。如果要真正实现能量的梯级利用必然要  \n考虑烟效率指标。4）烟效率最高并不能使系统总运行费用最  \n低，在本文关于烟的动力学行为分析的基础上，  \n可以借鉴烟经济学原理，构建基于烟的经济指",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "标。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本文的研究内容为实现综合能源系统的能源效率、烟经济成本等多目标优化打下了理论基础，对综合能源系统优化运行与规划以及综合能源服务等具有深远意义。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1] Fattahi A， Sijm J ， Faaij A.A systemicapproach toanalyze integratedenergysystemmodeling tools: A review of national models[J].Renewable and Sustainable EnergyReviews，2020，133：110195.  \n[2]Ahmadi G，Toghraie D，AkbariO，Energy,exergy and environmental (3E) analysis of the existingCHP system in a petrochemical plant[J]. Renewableand Sustainable Energy Reviews，2019，99:234-242.  \n[3]郭艳飞，吴强，程林，等．基于火用效率的综合能源系统能效分析模型[J].可再生能源，2017，35(09): 1387-1394.Guo Yanfei，Wu Qiang ，Cheng Lin，etal.Efficiency analysis model of integrated energysystem based on the exergy efficiency[J]. RenewableEnergy Res0urces，2017，35(09)： 1387-1394(in Chinese).  \n[4]吴仲华．能的梯级利用与燃气轮机总能系统[M].北京：机械工业出版社，1988：49-80.Wu Zhonghua. Cascade utilization of energy and totalenergysystem of gasturbine[M].BeijingMechanical Industry Press,1988.49-80(in Chinese).  \n[5]孙青琳．基于烟分析的能源效率评价模型研究及应用[D].北京：华北电力大学,2016.Sun Qinglin. Research and application of energyefficiencyevaluationmodel basedonexergyanalysis[D]. Beijing :North China Electric PowerUniversity，2016(in Chinese).  \n[6]Gaggiolo R. Second law analysis for process andenergy engineering[J]. Acs Symposium,1983, 235: 3-50.  \n[7]Abbasi M, Chahartaghi M, Hashemian S M. Energy,Exergy, and Economic Evaluations of a CCHP Systemby Using the Internal Combustion Engines and GasTurbine as Prime Movers[J]. Energy Conversin andManagement,2018,173: 359-374.  \n[8]林汝谋，金红光，蔡睿贤．燃气轮机总能系统及其能的梯级利用原理[J]．燃气轮机技术,2008,21(1): 1-12.LinRumou, JinHongguang， CaiRuixian.Integrated energy system of gas turbine andcascade utilization[J]. Gas Turbine Technology, 2008,21(1):1-12(in Chinese).  \n[9]Rastegar M，Fotuhi-Firuzabad M，ZareipourH， et al.A probabilistic energy management schemefor renewable-based residential energy hubs[J]. IEEETransactions on Smart Grid ， 2017， 8(5)： 2217-2227.  \n[10]  \n蒋润花，李洪强，尹辉斌，等．冷热电联供系统多目标评估与运行策略研究[J]．工程热物理学报，2019，40(5):1016-1024.Jiang Runhua，Li Hongqiang， Yin Huibin，et al.Research on multi-objective evaluation and operationstrategies of combined cooling ， heating and powersystem[J]. Journal of Engineering Thermophysics,2019,40(5): 1016-1024(in Chinese).  \n[11]  \nPatwal R S， Narang N. Multi-objective generationscheduling of integrated energy system using fuzzybased surrogate worth trade-off approach[J]. RenewableEnergy，2020，156：864-882.  \n[12]  \n田立亭，程林，郭剑波，等．基于能值分析的多能互补综合能源系统价值评估方法[J]．电网技术，2019，43(08):2925-2934.Tian Liting，Cheng Lin，Guo Jianbo，et al. Multi-energy System Valuation Method Based on EmergyAnalysis[J]. Power SystemTechnology，2019， 43(08）:2925-2934(inChinese).  \n[13]  \n陈聪，沈欣炜，夏天，等．计及火用效率的综合能源系统多目标优化调度方法[J]．电力系统自动化，2019，43(12) : $6 0 - 6 8 + 1 2 1$ ，Chen Cong，Shen Xinwei， Xia Tian， et al. Multi-objective optimal dispatch method for integrated energysystem considering exergy efficiency[J]. Automation ofElectric Power Systems ， 2019， 43(12) ：60-68+121(in Chinese).  \n[14]  \n胡枭，尚策，陈东文，等．考虑能量品质的区域综合能源系统多目标规划方法[J]．电力系统自动化，2019，43(19) : $2 2 - 3 8 + 1 3 9$ ，Hu Xiao ， Shang Ce，Chen Dongwen，etal.Multi-objectiveplanning method forregionalintegratedenergysystemsconsideringenergyquality[J].Automation of Electric PowerSystems， 2019， 43(19）： $2 2 - 3 8 + 1 3 9$ (inChinese).  \n[15]  \nBorutzky W.Bond Graph Modelling of EngineeringSystems: theory， applications and software support[M]. New York: Springer. 2011: 3-52.  \n[16]  \nMohammadi M,Noorollahi Y,Mohammadi-ivatloo B,etal.Energy Hub: From a Model to a Concept - AReview[J].Renewable and Sustainable EnergyReviews,2017,80: 1512-1527.  \n[17]  \n陈皓勇，李明，邱明，等．时变能量网络建模与分析[J]．中国科学：技术科学，2019，49(3)：243-254.Chen Haoyong ， Li Ming， Qiu Ming， etal .Modeling and analysis of time-varying energynetwork[J] Scientia SinicaTechnologica， 2019， 49(3）: 243-254(inChinese） .  \n[18]  \n陈彬彬，孙宏斌，陈瑜玮，等．综合能源系统分析的统-能路理论（一）：气路[J]．中国电机工程学报，2020，40(2)：436-443.Chen Binbin ， Sun Hongbin，Chen Yuwei，etal.Energy circuit theory of integrated energy systemanalysis(I) : gaseous circuit[J]·Proceedingsof the CSEE，2020，40(2): 436-443(inChinese） .  \n[19]  \n陈彬彬，孙宏斌，尹冠雄，等．综合能源系统分析的统-能路理论（二）：水路与热路[J]．中国电机工程学报， 2020，40(7): 2133-2142.ChenBinbin SunHongbin， YinGuanxiong ，et al .Energy circuit theory ofintegrated energy system analysis(I): hydraulic circuitandthermalcircuit[J]. Proceedingsof theCSEE，2020，40(7):2133-2142(in Chinese).  \n[20]  \n杨经纬，张宁，康重庆．多能源网络的广义电路分析理论：（一）支路模型[J]．电力系统自动化，2020， 44(9): 21-35.Yang Jingwei, Zhang Ning， Kang Chongqing.Generalized Electric Circuit Analysis Theory for Multi-EnergyNetworks:PartOneBranchModel[J].Automation of Electric Power Systems， 2020, 44(90:21-35(in Chinese).  \n[21]  \n陈皓勇，文俊中，王增煜，等．能量网络的传递规律与网络方程[J]．西安交通大学学报,2014,48(10):66-76.Chen Haoyong, Wen Junzhong, Wang Zengyu，et al.Transfer laws and equations of energy networks[J].Journal of Xi'an JiaotongUniversity，2014，48(10): 66-76(in Chinese).  \n[22]  \n陈皓勇，陈思敏，陈锦彬，等．面向综合能源系统建模与分析的能量网络理论[J]．南方电网技术2020, 14(2): 62-74.Chen Haoyong， ChenSimin， CHENJinbin ，et al.Energy network theory for modelingand analysis of integrated energy system[J].SouthernPower System Technology,2020，14(2): 62-74(inChinese).  \n[23]  \n华贲．工艺过程用能分析及综合 [M].北京：烃加工出版社，1989.4-48.Hua Ben.Analysis and Synthesis of Process EnergyConsumption[M]. Beijing:HydrocarbonProcessingPress， 1989: 4-48(in Chinese).  \n[24]  \n陈则韶，李川．热力学第二定律的量化表述及其应用例[J]．工程热物理学报，2016，37(1)：1-5.Chen Zeshao ， Li Chuan. Quantifiable expression ofthesecondlawofthermodynamicsandit'sapplication[J]. Journal of EngineeringThermophysics， 2016， 37(1): 1-5(in Chinese).  \n[25]  \n王松平，华贲．寂态热力学发展的新趋势[J]．自然杂志,1998,20(2)：79-81.Wang Songping ， Hua Ben.The new trend ofdevelopment of dead state thermodynamics[J]. ChineseJournal of Nature， 1998 ， 20(2): 79-81(inChinese).  \n[26]  \n德格鲁托．非平衡态热力学[M].上海：上海科学技术出版社，1981：8-21.Degroot S R.Nonequilibrium thermodynamics[M].Shanghai：Shanghai Science and TechnologyPress， 1981: 8-21(in Chinese).  \n[27]  \n邱关源，罗先觉．电路[M].北京：高等教育出版社，2006:1-136.Qiu Guanyuan LuoXianjue. Circuit[M].Beijing ：Higher EducationPress ， 2006:1-136(in Chinese).  \n[28]  \n葛海麟．基于能量网络理论的多能互补系统建模与分析[D].广州：华南理工大学，2017.Ge Hailin.Modeling and Analysis of Multi-EnergyComplementary System Based on Energy NetworkTheory[D].Guangzhou ：South China Universityof Technology，2017(in Chinese).",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "作者简介：",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f50cb6dd7f54d9334341698d8a7628fa005e231ddd6c9ca562bc8ab43c82323.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "陈皓勇(1975)，男，教授，研究方向包括综合能源系统与能源物联网，新能源发电与智能电网技术，电力经济与电力市场等，eehychen@scut.edu.cn。",
+        "page_idx": 12
+    }
+]

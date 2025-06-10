@@ -1,0 +1,181 @@
+# $E _ { P }$ 和 $\alpha$ “双追踪” GRB131231A的能谱特性研究
+
+王晨，彭朝阳+，陈家明（云南师范大学 物理与电子信息学院，云南昆明650500）
+
+摘要：GRB131231A 是一个具有 $\dot { \boldsymbol E } _ { P }$ 和 $\alpha$ “双追踪”行为的特殊暴。为了进一步分析该暴的能谱特征，我们使用贝叶斯方法对它做了详细的时间分辨光谱分析后发现24个分辨谱中16个有明显热成分，这些热成分主要分布在脉冲的前期和峰值附近，支持了伽玛暴喷流从物质主导到磁主导的过渡。加入热成分后参数 $\cdot { \cal E } _ { P }$ 、 $\alpha$ 都变硬，而峰值流量 $\mathrm { F _ { p } }$ 几乎不变。我们使用光球层成分计算了相对论流出物的特性参数后发现流出物特性参数初始半径 $r _ { 0 }$ 、饱和层半径 $\mathit { \Delta } \cdot \mathit { r _ { s } }$ 、光球层半径 $r _ { p h }$ 、流出物滑行运动阶段洛伦兹因子 $\mathrm { ~ \bf ~ r ~ }$ 均发生较为明显的演化；其温度随时间的演化也能用拐折幂律模型拟合，其上升和下降阶段的幂律指数分别为 $\textsf { a } = \ 7 . \ 6 5$ $\pm 3 . 4 8$ 、 $\textbf { b } = \mathbf { \tau } - 2 . 1 0 \pm 3 . 4 8$ ，下降指数b与前人得出的接近于 $^ { - 2 / 3 }$ 有较大偏差。
+
+关键词：Fermi伽玛射线暴；瞬时辐射能谱；光谱拟合；数据分析；最优模型中图分类号:P172.3 文献标识码：A 文章编号：
+
+0.引言
+
+人类对于伽玛暴的研究已经有五十多年的历史，伽玛暴的瞬时辐射在几个基本问题上依然让人感到困惑，一些非常基础的问题是喷流成分（重子主导的火球或是坡印廷流量主导的流出物)，它决定或至少强烈影响能量耗散机制（激波或磁重联)，粒子加速机制（热主导或磁主导)，特别是辐射机制（同步辐射）或光球准热辐射的康普顿化[1]。伽玛暴辐射有瞬时辐射和余辉两个主要阶段。瞬时辐射阶段通常持续几秒到几分钟。伽玛暴瞬时辐射具有丰富的观测特征，但是其中的大多数没有被很好的解释。伽玛暴的瞬时辐射阶段的光谱成分主要来自两种起源：同步辐射成分（非热成分）和光球层（热成分）[2]。过去的研究表明，GRBs 能谱中可能存在三种基础成分[3]：（1）能被 Band 函数拟合的非热成分；（2）能被普朗克函数拟合的热成分；（3）出现在能量较高区域的幂律成分。目前已观测到的GRBs中能够用发现两种或两种以上的成分[4]。热成分主导的GRBs 非常稀少，所以对于暴的能谱处理时多采用组合模型，常用的基础模型通常是Band 或者CPL。多数情况下,组合模型往往能得到更优的参数值，这更有助于我们推断GRB 能源机制和中心引擎。在 BATSE 时期，Ep显示出几种不同的演化：（1）“从硬到软"的趋势，无论Flux的升降如何，它都是单调递减的[5][6]；（2）“流量跟踪”趋势，即参数的演化跟随Flux上升和下降[7]。(3)"软到硬"的趋势或混乱的演变)8。2008 年费米卫星升空后，大量的伽玛暴观测数据证实前两种模式占主导地位:"由硬到软"约占三分之二，“Flux 跟踪"约占三分之一 [9]。这些演化模式的物理起源仍然没有解决，尽管文献中已经提出了一些方案[0][]。与 Ep 演化相比， $\mathfrak { a }$ 演化更加混乱,因此研究和物理解释相对较少。李亮发现GRB131231A的Ep 和 $\mathfrak { a }$ 演化都表现出“通量跟踪”行为，并且定义为光谱演化的“双跟踪”模式]。但李亮等并没有加入热成分进行详细的能谱分析，既然很多研究表明伽玛暴能谱中包含热成分，为了更详细地研究光谱参数 $E _ { P }$ 和$\alpha$ 的“双追踪”情况的能谱特性，我们使用贝叶斯分区并使用MCMC（蒙特卡罗模拟方法）处理GRB131231A。在GRB的研究中,研究人员发现次主导的热成分，一般出现在Band 谱[12]的左侧[13]，即热成分一般出现在低能 Band 谱区域。针对这种现象，李亮在探究八个具有较明显热成分的GRBs中热成分对于非热成分中几个特征参数值的影响时，都选用CPL 作为基础模型与BB 模型组合来进行探究[2]。对于绝大多数伽玛暴的时间分辨谱，CPL 模型是适合的[14][l15]。然而在一些例子中，Band 模型的高能幂律指数 $\beta$ 显著地提高拟合。在同步辐射的情况下，高能幂律指数 $\beta$ 提供了有关粒子加速和激波的本质，而在光球辐射的情况下，它提供了有关辐射区域能量耗散的信息[16]。考虑到这种状况，我们以统计值BIC 作为判断标准[17]，对伽玛暴的每个拟合区间选用最优模型的数据，并研究使用最优模型之后GRB131231A中能谱参数的变化。
+
+# 1数据处理和分析方法
+
+GRB131231A（触发号:131231198）由 Fermi卫星中的伽玛暴探测器 (GBM:8 keV-40 MeV)于 2013的12月31触发的。本工作中，我们使用贝叶斯分析包，即最大似然工作框架(3ML)来对所有伽玛暴的光谱分析。该工具包是采用马尔可夫链蒙特卡罗理论(Markov Chain MonteCarlo，MCMC)对时间分辨谱进行处理,该种方法的优点请参阅[1]。我们获取费米卫星的GBM[18]来自网站(https://ermi.gsfc.nasa.gov/)，在 GBM 的数据中有三种数据类型：CTIME文件、CSPEC文件和TTE文件，我们选择具有最小时间分辨率 $( 2 \mu \mathrm { s } )$ 的TTE文件来进行数据分析。在该贝叶斯统计的MCMC拟合例子中，为了确定能谱拟合的最优模型，我们选取BIC (Bayesian information criterion)[17]作为判断标准，我们通过比较不同模型 BIC 的差值（△BIC）来确定最佳模型。一般来说，Band 模型[2和CPL 模型2在伽玛暴拟合时是两种较为优越的模型，我们把这两种模型选作基础模型，让它们分别与BB模型组合，我们在伽玛暴的时间分辨谱的每一个区间都经过模型对比，进而选择出该区间适用的最优模型。为了更好地研究光谱随时间的演化，对光谱进行时间分辨谱分区是一种有效的研究方法。BurgesS研究过四种对光变曲线分时间片的工具[19]，其中信噪比(S/N)和贝叶斯分区(BBs）[20]是两种最有效的分区方法，他指出这两种方法各有优缺点，传统的信噪比分区可以确保每个时间段能分到足够多的光子去做光谱拟合，但是有时它会破坏物理结构。关于贝叶斯分区的优缺点请参阅[19]，我们采用贝叶斯区间(BBs)分区，但是依然使用信噪比作为一种筛选方法去剔除所得区间中不满足某一标准的区间(本工作中我们选取信噪比 $S / \mathrm { N } \geqslant 2 0$ 的区间，因为信噪比 $\mathsf { S } / \mathsf { N } \langle 2 0 \$ 的区间在拟合时会出现较大的误差1)，这两种方法的共同使用让我们得到更有研究意义的区间。表1给出了该暴的相关参数，注： $\mathrm { C P L } ^ { 1 }$ 代表 $\Delta \mathrm { B I C } \leqslant - 8$ 的时间分辨谱区间使用CPL 模型， $\mathrm { C P L } ^ { 2 }$ 代表-8<△BIC<8的时间分辨谱区间使用CPL 模型。图1给出了一个例子分辨谱拟合结果。
+
+表1伽玛暴参数及使用的探测器编号
+
+lable.1 Gamma-ray burst parameters and detector numbers used GRBs T90/s Detector 总区间数 有热成分 适用CPL'区间 适用CPL区间数 适用Band区间 的区间数 数（△BIC≤-8) (-8<△BIC<8) 数（8≤△BIC)   
+131231A 31.232 nO,n3,n4,b0 24 16 0 11 5 10 (-ssuo 10² ndimerat 100 nO_intervul10 Model b0_interval10 Model n3_interval10 Model n0_interval10 10-2 n4_interval10 Modcl 10-3 n3_interval10 n4_interval10 + + bo._interal1 model n3_interval10   
+ssenpised 50 b0_interval10 n4 _interva110 -5 0 州 -10 -5 -15 -10 -15 101 10² 10 104 101 10² 103 104 Energy Energy (keV) (keV)
+
+图1一个黑体成分最显著的计数率时间分辨谱（时间区间为24.59-25.86)拟合结果（左图为Band 模型，右图为Band+bb）
+
+Fig.1 Example of count spectral fit results with the most significant black body components in the time bin 24.59s-25.86s, where the left panel is band model,and the
+
+right panel is Band+bb.
+
+# 3．分析结果
+
+我们使用的波段函数模型、康普顿函数模型、普朗克函数模型，对GRB131231A进行拟合，得到了它们的时间分辨谱数据，如表2。我们从时间分辨谱的△BIC来看，有些暴的某些时间段中CPL模型的拟合结果优于Band 模型，有些结果相反；综合考虑之后我们把每个暴的每个时间分辨谱区间进行最优模型选择，我们所用的选择方法是用每个区间单独用CPL 模型拟合时产生的BIC减去单独用Band模型拟合时产生的△BIC 作为筛选标准，当$\Delta \mathrm { B I C } \leqslant - 8$ 时我们认为该区间更适合CPL模型，当 $\Delta \mathrm { B I C } \rangle 8$ 时我们认为该区间更适合Band模型，当 $- 8 { \big < } \Delta \mathrm { B I C } { \big < } 8$ 时我们认为该区间更适合CPL模型(当两种模型中任何一种模型优势不明显时，一般是选用参数少的模型)。然后再使用该区间选定基础模型的BIC与基础模型加上BB 模型的组合模型的BIC差值是否大于等于8来判断该区间是否有热成分，最后筛选出信噪比 $\mathsf { S } / \mathsf { N } \geqslant 2 0$ 的区间，作为研究对象,如表4。
+
+光谱分析时，我们得到的单个时间区间的时间跨度远小于整体的时间跨度，我们假设在每个时间区间中参数的变化是准静态的，我们用时间区间中值时刻参量的特征代表整个时间区间参数的行为[22]。在文中，我们展示了伽玛暴的能谱参数演化图。
+
+# 3.1参数的分布
+
+图2 显示了Best模型参数分布，包括 $\mathfrak { a }$ 、Ep、Fp。表2列出了分布的平均值和标准偏差。我们对各个参数分布进行了核密度估计（KDE)，采用高斯函数核。如表2所示，未加入黑体成分和加入了黑体成分时低能光子指数 $\mathfrak { a }$ 分布的均值分别为： $- 1 . 0 6 { \pm } 0 . 2 9 , - 1 . 0 0 { \pm } 0 . 2 9$ 加入黑体成分后， $\alpha$ 轻微地变硬了，但他们都与典型值 $\mathfrak { a } \sim - 1$ 基本一致，且都没有超过所谓的同步“死线” $( - 3 / 2 < a < - 2 / 3 )$ 。在加入黑体后，峰值能量 $E _ { P }$ 的核密度曲线的峰值向右发生了偏移，均值为 $1 9 9 . 8 4 \pm 1 6 1 . 6 1 \$ ，和未加入黑体成分相比，峰值能量 $\mathrm { E _ { p } }$ 确实也变硬了；而$\mathrm { F _ { p } }$ 加入黑体前后没有明显变化，平均值仅有微弱变化，这些结果和前人的研究结果一致。
+
+![](images/0ba85244aea3c3a641abda4b712381fee1b9f1a6bfa22731af0391aa1b531f36.jpg)  
+图2Best模型的参数 $\alpha$ 、 $E _ { P }$ 、 $F _ { P }$ 分布Fig.2 The distribution of the parameter values $E _ { P }$ ， $\alpha$ and $F _ { P }$ （204号
+
+表2模型参数均值与标准偏差  
+Table 2 Mean and standard deviation of model parameters.   
+
+<html><body><table><tr><td>模型</td><td>α</td><td>Ep(keV)</td><td>Fp(erg scm2)</td></tr><tr><td>Best</td><td>-1.06±0.29</td><td>196.96±124.82</td><td>（6.11±4.57） ×10</td></tr><tr><td>Best+BB</td><td>-1.0±0.29</td><td>199.84±161. 61</td><td>（6.17±4.62）×106</td></tr></table></body></html>
+
+# 3.2加入黑体前光谱参数的演化
+
+我们用我们分析的数据重新分析未加入黑体成分的峰值能量和低能谱指数的演化情况，
+
+图3中展示贝叶斯区间中 $\mathrm { { S } \geqslant \mathrm { { 2 0 } } }$ 的时间分辨谱区间对应的数据点。GRB131231A的参数 $E _ { P }$ 和$\alpha$ 表现为较好的“流量跟踪”趋势，我们得到的结果和李亮的结果一致。
+
+![](images/c4e04567c1784b01e8de6b380bdc5edb218e4ee089550819b2dbf1490a065c97.jpg)  
+图3.GRB131231A的最优模型的时间分辨谱的参数值 $E _ { P }$ 值和 $\alpha$ 值的分布。Fig.3 The distribution of the parameter values $E _ { P }$ and $\alpha$ of the time-resolved spectrum ofthe optimal model of GRB131231A.
+
+# 3.3加入热成分后光谱参数的演化及变化
+
+当加入黑体成分后，我们找出探测到热成分的16个时间分辨谱区间发现，两个参数 Ep和α的演化趋势和未加入热成分的趋势一致，依然表现出双追踪行为。如3.1节所述值，这两个参数发生了变化，α和 $\mathrm { E _ { p } }$ 轻微变硬，但从图4中我们能发现这两个参数变化的细节，GRB131231A中有热成分的区间的 $E _ { P }$ 值的整体变化并不一致，如图4(a)。我们发现GRB131231A中 $E _ { P }$ 值在峰值之前，加入BB成分后变硬（值变大)；峰值之后，加入BB 成分后变软（值变小)。其中 $E _ { P }$ 值变硬的点有6个，均分布在峰值之前； $E _ { P }$ 值变软的点有10个，均分布在峰值后。GRB131231A中 $\alpha$ 的整体变化也不一致，如图4 (b)。有一个点分布在同步辐射死线之上其余的点都分布在同步辐射死线之下；在加入BB成分后， $\alpha$ 出现了明显的变化，在峰值之前，加入BB成分后 $\alpha$ 值变软；峰值之后，加入BB成分后变硬。在加入黑体前，GRB131231A中仅有最后两个点的 $\alpha$ 值小于-3/2；加入热成分之后，脉冲峰值处有两个点的 $\alpha$ 值上升到超过同步辐射死线，最后两个点的 $\alpha$ 值略有上升，但是依然小于-3/2。
+
+![](images/56c3b42a1e6f650c1945c6edd575fe7bbb48bffabbeea3ffe966b252e3c5942d.jpg)  
+图4.GRB131231A中探测到热成分的时间分辨谱区间中 $E _ { P }$ 值和 $\alpha$ 值的分布，（b）图上下两条红色虚线分别代表 $\scriptstyle \alpha = - 2 / 3$ 和 $\scriptstyle \alpha = - 3 / 2$ 的位置。
+
+Fig.4 Distribution of $E _ { P }$ and $\alpha$ in the time-resolved spectral interval of thermal components detected in GRB131231A, the upper and lower red dashed lines represent $\scriptstyle { \mathfrak { a } } = - 2 / 3$ and $\scriptstyle \mathtt { a } = - 3 / 2$
+
+表3GRB131231A在不同模型中 $^ 1 E _ { P } - \mathrm { F } _ { \mathrm { p } } \setminus E _ { P } - \alpha , \mathrm { F } _ { \mathrm { p } } - \alpha$ 参数关系(Spearman 相关性系数 $\mathbf { r }$ 和置信度p)Table 3 GRB131231A parameter relationship of $E _ { P } \mathrm { - } \boldsymbol { \mathrm { F } } _ { \mathrm { p } }$ 、 $E _ { P } - \alpha$ and$\operatorname { F } _ { \mathfrak { p } } - \alpha$ in different models  
+
+<html><body><table><tr><td colspan="8">(Spearman correlation coefficient r and confidence p)</td></tr><tr><td rowspan="2">模型</td><td colspan="2">Ep-Fp</td><td colspan="2">Ep-α</td><td colspan="2">Fp-α</td></tr><tr><td>r</td><td>p</td><td>r</td><td>p</td><td>r</td><td>p</td></tr><tr><td>Best</td><td>0.426</td><td>0.0378</td><td>0.412</td><td>0.0453</td><td>0.765</td><td><10-4</td></tr><tr><td>Best+BB</td><td>0.332</td><td>0.208</td><td>0.065</td><td>0.812</td><td>0.738</td><td>0.001</td></tr><tr><td>Band</td><td>0.687</td><td>0.00021</td><td>0.70</td><td>0.00014</td><td>0.655</td><td>0.00052</td></tr><tr><td>Band+BB</td><td>0.444</td><td>0.085</td><td>0.476</td><td>0.062</td><td>0.871</td><td><10-4</td></tr><tr><td>CPL</td><td>0.566</td><td>0.0039</td><td>0.731</td><td><10-4</td><td>0.756</td><td><10-4</td></tr><tr><td>CPL+BB</td><td>0.368</td><td>0.161</td><td>-0.082</td><td>0.762</td><td>0.70</td><td>0.003</td></tr></table></body></html>
+
+# 3.4光谱参数的相关性
+
+相关分析在理解GRB 物理学中起着重要作用，因为它提供了一些线索来帮助我们揭示它们的本质。我们即 $\mathrm { l o g ( E _ { p } ) { \ - } l o g ( F _ { p } ) }$ 、 $\log ( \mathrm { F _ { p } } ) \mathrm { - } \mathrm { a }$ 、 $\mathrm { l o g ( E _ { p } ) - a }$ ，表3具体给出了相关系数。相关的强度由 Spearman 的系数 $\mathbf { r }$ 给出，强相关性 $\mathrm { r } { > } 0 . 7$ ，弱相关性 $\mathrm { \bf { r } } < 0 . 4$ 。[7][24][25]揭示了$\log ( \mathrm { F } ) \ – \mathfrak { a }$ 关系主要有三种类型:非单调关系(包含正和负幂律段，在峰值流量处典型地具有明显的间断)、单调关系(由单个幂律描述)和没有明显的趋势。GRB131231A 三种模型中$\log ( \mathrm { F _ { p } } ) \mathrm { - l o g ( E _ { p } ) }$ 相关性Best: $\scriptstyle 1 = 0 . 4 2 6$ $\mathrm { p } { = } 0 . 0 3 7 8$ ,Band : $\scriptstyle \mathrm { r = 0 } . 6 8 7$ ， $\mathsf { p } { < } 1 0 ^ { - 4 }$ ，CPL: $\scriptstyle \mathrm { r = 0 } . 5 6 6$ ， $\mathsf { p } { < } 1 0 ^ { - 4 }$ 最好的是 Band 模型；三种模型中 $\mathrm { l o g ( E _ { p } ) - a }$ 相关性 Best: $\scriptstyle \mathbf { r = } 0 . 4 1 2$ ， $\scriptstyle \mathtt { p } = 0 . 0 4 5 3$ ,Band : $\mathrm { r } { = } 0 . 7 0$ $\mathrm { p { = } 0 . 0 0 0 1 4 }$ ，CPL: $\scriptstyle \mathrm { r = 0 } . 7 3 1$ ， $\mathsf { p } { < } 1 0 ^ { - 4 }$ 最好的是 Band 模型；三种模型中 $\mathrm { l o g ( F ) - \mathfrak { a } }$ 相关性 Best:$\mathrm { r } { = } 0 . 7 6 5$ ， $\mathsf { p } { < } 1 0 ^ { - 4 }$ ,Band: $\scriptstyle \mathrm { r = 0 } . 6 5 5$ ， $\mathrm { p { = } 0 . 0 0 0 5 2 }$ ，CPL: $\mathrm { \ r = } 0 . 7 5 6$ ， $\mathsf { p } { < } 1 0 ^ { - 4 }$ 最好的是 Best 模型。在Band 和 CPL 模型中 $\log ( \mathrm { E _ { p } } ) { \mathrm { - l o g } } ( \mathrm { F } )$ 、 $\log ( \mathrm { F _ { p } } ) \mathrm { - } \mathrm { a }$ 、 $\mathrm { l o g ( E _ { p } ) - a }$ 都表现出极强的相关性，当我们使用 Best 模型时， $\log ( \mathrm { F _ { p } ) - l o g ( E _ { p } ) }$ 、 $\mathrm { l o g ( E _ { p } ) { - } a }$ 的相关性均变差;Best 模型的 $\mathrm { l o g ( F _ { p } ) - a }$ 相关性强于Band 和 CPL。
+
+![](images/8967ea7d3a5026a6a213e82db6057167cdbaa6a84b098bacaa852b17d60b0620.jpg)  
+图5 (a)△BIC 随脉冲的演化和分布图，绿色和红色虚线分别表示△BIC 等于0、-8的位置；(b) 探测到热成分的光谱中热成分流量与总能量流量的比率，红色虚线代表比率为1。 Fig.5(a) The evolution and distribution of $\Delta$ BIC with pulse, and the green and red dotted lines represent the positions where $\Delta$ BIC is equal to O and - 8 respectively; (b) The ratio of thermal
+
+component flow to total energy flow in the spectrum of detected thermal component,and the red dotted line represents the ratio of 1.
+
+# 3.5热成分分析
+
+为了检查能谱中的热成分，我们先寻找对应于时间分辨谱的最优模型，接着用最优模型加入BB成分拟合，查看加入黑体前后统计量（BIC）的差值△BIC，如果 $\Delta \mathrm { B I C } < - 8$ 说明光谱中显著含有热成分。图5中a图给出了BIC在脉冲中的演化和分布图，b图给出了热成分流量与总能量流量的比率。
+
+GRB131231A具有明显的脉冲上升阶段和脉冲下降阶段；我们对GRB131231A中出现热成分的区域进行了统计，从a图统计的结果来看 $\Delta \mathrm { B I C } < - 8$ 的光谱主要出现在对应高的光子计数的光变曲线的位置，这说明热成分主要存在于脉冲前期，并且随着时间逐渐减少。b图表明热成分流量与总能量流量的比率多数分布在0.1之下，比率较高的区域主要分布在高脉冲区域。
+
+# 3.6与热成分相关的参数值
+
+现在的研究表明热成分起源于光球层，根据高纬辐射解释，最高温度和最强热流最初从光球层辐射轴上发出，并朝向观测者。因此从原则上来说，光子辐射位置的半径可以被确定[26]。按照［26]的理论，对于一个已知红移的伽玛暴当我们知道了该暴的观测温度和热能量流量，我们可以计算出流出物的初始半径 ${ { \mathbf { } } \cdot } { { r } _ { 0 } }$ （从中心引擎到喷流喷射处的距离)，对于 $\cdot r _ { p h } > r _ { s }$ 的情况可以更进一步计算伽玛暴的饱和层半径 $\mathbf { \varPsi } \cdot \mathbf { \varPsi } \left( \mathbf { \varPsi } \cdot \mathbf { \varPsi } \right)$ ，光球层半径 ${ { r } _ { p h } }$ ，流出物滑行运动阶段洛伦兹因子 $\Gamma$ 。文章[22]中1式，可以判断光球层和饱和层的相对位置，我们发现GRB131231A中有热成分区间均满足 $( F _ { B B } / \mathrm { F } _ { N T } ) ^ { - 3 / 2 } > 1 ;$ ，所以我们判定这个暴的所有壳层的光球层位于饱和层之上 $( r _ { p h } > r _ { s } )$ ，所以我们应用[26]中的理论计算这个暴的初始半径 ${ { \mathbf { } } \cdot } { { r } _ { 0 } }$ 、饱和层半径 $r _ { s }$ 、光球层半径 $r _ { p h }$ 、流出物滑行运动阶段洛伦兹因子 $\Gamma$ 。
+
+我们能得到与热成分相关的参数值 $\mathcal { R } : \mathcal { R }$ 可以解释为辐射区的有效横向尺度[22],常数 $\mathcal { R }$ 意味着光球的有效辐射区域与时间无关。我们可以通过如下关系式计算得到伽玛暴的 $\mathcal { R }$ 值。
+
+$$
+\begin{array} { r } { \mathcal { R } = ~ ( \frac { F _ { B B } } { \sigma _ { S B } T ^ { 4 } } ) ^ { 1 / 2 } ~ = ~ ( 1 . 0 6 ) \frac { ( 1 + z ) ^ { 2 } } { d _ { L } } \frac { r _ { p h } } { \Gamma } } \end{array}
+$$
+
+$\sigma _ { S B }$ 是斯特藩-玻尔兹曼常量，单位为 $\mathrm { 7 e r g } \cdot s ^ { - 1 } \cdot c m ^ { - 2 } \cdot K ^ { - 4 } ; F _ { B I }$ 是观测到的黑体能量流量,单位为erg $s ^ { - 1 } \cdot c m ^ { - 2 }$ ： $T$ 是黑体的观测温度，单位为keV， $\textbf { z }$ 为伽玛暴的宇宙学红移， $d _ { L }$ 是光度距离，单位为 $\mathrm { c m }$ ，r为流出物滑行阶段的洛伦兹因子。
+
+如图6（a）所示在脉冲起始阶段 $\mathcal { R }$ 表现为快速的上升，在22s后 $\mathcal { R }$ 没有表现出单调递增的趋势，变化较为平缓。流出物速度方向与视线的夹角为0，在脉冲峰值时刻之后， $\scriptstyle { \Theta = 0 }$ 区域的辐射减弱，高纬辐射起主导作用[26]，此时光球的有效辐射区域与时间无关。
+
+为了分析温度随时间的演化，Ryde 依据文章[28]的拐折幂律模型派生了一种模拟温度的拐折幂律模型[27]。拐折幂律的形式如[27]中6式，我们使用它去拟合该暴探测到热成分区间的温度与时间,如图6(b)。我们得到对应于6式的参量拟合值分别为 $\Phi = 2 . 7 7 \pm 2 . 4 4 { \mathrm { , } }$ （2$\mathbf { t } _ { 0 } = 2 4 . 5 9 \pm 0 . 9 5$ 、 $\xi = - 4 . 8 8 \pm 2 . 4 9$ 、 ${ \delta } = \ 0 . \ 0 0 2 8 \pm 1 . \ 0 8$ ；由拟合参量我们得到拐折幂律函数的两段上升和下降阶段幂律指数分别为 $\mathrm { ~ a ~ } = \mathrm { ~ 7 . 6 5 \pm 3 . 4 8 ~ }$ ， $\mathrm { ~ b ~ } = \ - 2 . \ 1 0 \pm 3 . \ 4 8 .$ 0
+
+![](images/1d2857949ea026a332025d35cd36a3eee4f495668444f19902585d5434aa7fcc.jpg)  
+图6.a图中展示 $\mathcal { R }$ 随脉冲的演化图；b图中展示探测到热成分的光谱中温度随脉冲的演化，蓝色虚线为拟合线。
+
+Fig.6 The figure (a) shows the evolution of $\mathcal { R }$ with pulse; The figure (b) shows the evolution of temperature with pulse in the spectrum of detected thermal components,and the blue dotted line is the fitting line.
+
+GRB131231A的洛伦兹因子呈现先上升后随时间衰减的演化，起始值为 $1 5 7 \pm 0 . 5$ ，峰值为 $3 8 5 . 6 \pm 0 . 3 4$ ，。它能用拐折幂律较好的拟合，如图7(a)上升阶段的幂律指数 $\mathtt { a } _ { 1 } = 1 . 3 7$ $\pm 0 . 3 9$ ，下降阶段的幂律指数 $\beta _ { 1 } { = } { - } 1 . 3 8 { \pm } 0 . 3 9$ 。S.Iyyani发现具有显著光球成分的伽玛暴中，洛伦兹因子随时间单调减小r $\propto ( F / R ) ^ { 1 / 4 } Y ^ { 1 / 4 [ 2 2 ] [ 2 9 ] }$ 。在脉冲的上升阶段，总流量F和 $\mathcal { R }$ 的增加速率几乎相同，洛伦兹因子接近固定值或有时仅微弱的随时间衰减。我们所得到的洛伦兹因子呈现为先增加后衰减，不符合传统光球模型预言的洛伦兹因子在初始阶段近似常数。
+
+初始半径表示喷流开始加速。在GRB131231A中 $r _ { 0 }$ 从初始值 $( 3 . 6 { \times } 1 0 ^ { 6 } { \pm } 1 . 5 6 { \times } 1 0 ^ { 6 } )$ $Y ^ { 3 / 2 } \mathrm { c m }$ 开始随光变曲线上升,在脉冲峰值处(22s)达到最大值 $\left( 1 . 3 9 { \times } 1 0 ^ { 8 } { \pm } 5 . 1 7 { \times } 1 0 ^ { 7 } \right)$ $Y ^ { 3 / 2 } \mathrm { c m }$ ，但是并没有很好的追踪光变曲线；在脉冲峰值后， $r _ { 0 }$ 又呈现出上升的情况，这可能是由于中心引擎的再活动导致；在脉冲后期 $| r _ { 0 }$ 下降 $( 6 . 9 { \times } 1 0 ^ { 5 } { \pm } 1 . 0 2 { \times } 1 0 ^ { 6 } )$ $Y ^ { 3 / 2 } \mathrm { c m }$ ，低于初始值。 $r _ { 0 }$ 的变化量级分布在 ${ { 1 0 } ^ { 6 } } \sim { { 1 0 } ^ { 8 } }$ ，这个演化范围在黑洞的视界半径（ $1 0 ^ { 6 - 7 } \mathrm { c m }$ ;对于一个黑洞质量 $5 \sim$ $1 0 \mathbf { M } _ { \odot }$ ）与Wolf-Rayet前身星的核心大小之间，这表明 $r _ { 0 }$ 与喷流和前身星之间的相互作用有关[22][29]。
+
+![](images/ef141f7c2b87fd36b508eb9d579e82d817221262acfc8e5de523b5f5f155c5fc.jpg)  
+图7.GRB131231A的r、 $r _ { 0 }$ 、 $r _ { s }$ 和 $\dot { r } _ { p h }$ 的演化。
+
+Fig.7 The evolution of $\Gamma$ ， $r _ { 0 }$ ， $r _ { s }$ and $r _ { p h }$ of GRB131231A.
+
+饱和层半径 $\mathit { \Delta } \cdot \mathit { r _ { s } }$ 的演化与初始半径在脉冲中的行为相似，在数值上相差接近三个数量级。$r _ { s }$ 初始值为 $( 5 . 7 { \times } 1 0 ^ { 8 } { \pm } 2 . 4 6 { \times } 1 0 ^ { 8 } )$ $Y ^ { - 5 / 4 } \mathrm { c m }$ ， $r _ { s }$ 最大值为 $( 4 . 7 2 \times 1 0 ^ { 1 0 } \pm 1 . 7 6 \times 1 0 ^ { 1 0 } )$ ） $Y ^ { - 5 / 4 } \mathrm { c m }$ ， $r _ { s }$ 演化过程中的最小值为 $( 1 . 2 { \times } 1 0 ^ { 8 } \pm 1 . 8 3 { \times } 1 0 ^ { 8 } )$ $Y ^ { - 5 / 4 } \mathrm { c m }$ 。
+
+光球层是可以观察到光子的最深区域。在脉冲起始至达到峰值阶段（22s)，光球层半径 $\cdot r _ { p h }$ 呈现跟随脉冲上升 (追踪)，从初始值 $( 2 . 0 6 { \times } 1 0 ^ { 1 1 } { \pm } 8 . 6 8 { \times } 1 0 ^ { 1 0 } )$ $Y ^ { - 1 / 4 } \mathrm { c m }$ 在近似脉冲峰值处达到最大值 $\left( 1 . 1 \times 1 0 ^ { 1 2 } \pm 5 . 8 9 \times 1 0 ^ { 1 0 } \right)$ $Y ^ { - 1 / 4 } \mathrm { c m }$ ；脉冲峰值后， $r _ { p h }$ 快速下降，变化范围在一个量级内，之后仅微弱变化。GRB131231A的光球层，最小值为 $( 1 . 4 1 \times { 1 0 } ^ { 1 1 } \pm 6 . 8 7 \times { 1 0 } ^ { 1 1 } )$ $Y ^ { - 1 / 4 } \mathrm { c m }$ 。脉冲下降阶段 ${ r _ { p h } }$ 变化与GRB110721A[22]、GRB140329B 和 GRB160625B[1]一致。$\begin{array} { r } { r _ { p h } \propto \frac { L _ { 0 } } { \Gamma ^ { 3 } } \propto \frac { \mathsf { M } } { \Gamma ^ { 2 } } } \end{array}$ ， $L _ { 0 }$ 为伽玛暴总的运动学光度， $\mathtt { M }$ 是重子载量,满足 $\mathsf { M } = L _ { 0 } / \Gamma c ^ { 2 }$ ； $r _ { p h }$ 的变化与洛伦兹因子r和M有关。脉冲的上升阶段， $r _ { p h }$ 随脉冲上升， $\Gamma$ 也随时间增加，这要求 $L _ { 0 }$ 或M要以更快的速率增加，而重子载量的增加，导致与它相关的电子增加了不透明度，从而增加了光球层半径。在脉冲衰减阶段， $\Gamma$ 和 $L _ { 0 }$ 都减少，而 $\dot { r } _ { p h }$ 保持常数或仅微弱地变化，为了出现这种状况，就要满足 $L _ { 0 } \propto \Gamma ^ { 3 }$ （或 $ { \mathsf { M } } \propto  { \Gamma } ^ { 2 }$ ）[29]。
+
+# 4.结论与讨论
+
+GRB131231A 是一个比较明亮且较为接近单脉冲的长暴。我们应用了贝叶斯方法，利用经验光谱模型和物理模型，即CPL模型、Band模型和普朗克函数模型（BB)，执行详细的时间分辨谱分析，并在每个时间分辨谱区间上进行模型比较，来确定适合某一区间的最优模型，我们总共获得了24个光谱并研究了它们的性质。这个伽玛暴的 $E _ { P }$ 和 $\alpha$ 值都表现为较好的追踪行为。 $E _ { P }$ 的流量追踪行为可能与两种同步辐射模型有联系[8][30]。图 2(b)中显示$\mathfrak { a }$ 的值均分布于同步辐射死线之下，整体分布非常符合同步辐射模型；李亮等人指出在上升阶段， $\mathfrak { a }$ 变得更硬，这表明电子正在从快速冷却区向慢速冷却区演化[9]。在衰减的阶段， $\mathfrak { a }$ （204号在观察上变得更软，宽脉冲的衰减阶段可能由“曲率效应”控制[31][32][33]。
+
+通过最优模型与BB 模型的共同拟合，我们探测到16个有明显热成分的时间分辨谱区间，该暴不是热主导的伽玛暴。李亮系统研究了8个含有热成分伽玛暴的能谱特性[]，对于非热成分主导的伽玛暴，他发现加入了热成分后， $\mathfrak { a }$ 值变软， $\mathrm { E } _ { \mathrm { c } }$ 变硬，能量流量 $\mathrm { F _ { p } }$ 在不同的模型下没有明显的不同。对于GRB131231A，在光变曲线峰值之前，加入BB 成分后 $E _ { P }$ 值变硬；峰值之后，加入BB成分后 $E _ { P }$ 值变软。在光变曲线峰值之前，加入BB成分后 $\alpha$ 值变软；峰值之后，加入BB成分后变硬。GRB131231A具有特殊的光谱演化。
+
+GRB 喷流的中央引擎很可能是一个混合系统，既有一个热的火球成分，又有一个冷的坡印廷流成分[34]。一些明亮的暴（例如GRB 090902B）在脉冲的开始处或峰值附近表现出类似热的时间分辨谱，在随后的脉冲中出现非热的时间分辨谱，这可能表明喷流成分的逐渐变化[35]。高鹤等人在解释伽玛暴的喷流成分的起源方面做了更全面的描述，即混合喷流模型[34]。李亮使用此方法分析了8个Fermi GRBl]，发现大多数爆发可以用混合喷流情况很好地解释。GRB131231A的低能光子指数 $\mathfrak { a }$ 的值不超过所谓的同步辐射死线；但加入热成分后，拟合统计量明显改善，其中△BIC $< - 8$ 的光谱主要集中脉冲开始阶段和峰值阶段（10\~26s)，随后热成分逐渐减少，说明伽玛暴可能从物质主导火球过渡到磁主导的坡印廷流量(Poynting-Flux)；在脉冲后期又出现热成分，这可能是中心引擎再活动导致。
+
+虽然温度也能用拐折幂律拟合，但是与Ryde拟合伽玛暴中热脉冲所得到的上升阶段和下降阶段的指数值均存在较大差异[27]。
+
+我们计算了与热成分相关参数r、 $r _ { 0 } \mathrm { ~ , ~ } r _ { s } \mathrm { ~ , ~ } r _ { p h }$ 。我们得到的洛伦兹因子呈现为先增加后衰减，不符合传统光球模型预言的洛伦兹因子在初始阶段近似常数[22][29]，之后以指数衰减的情况，这可能是因为内激波模型导致[3；另一种解释是孤立磁星诞生的情况，此时洛伦兹因子随时间增加[37],但是GRB131231A的光度远大于磁星模型的光度，所以磁星模型的设想不太可能成立。我们得到 $\dot { \boldsymbol { r } } _ { 0 }$ 、 $r _ { s }$ 和 $r _ { p h }$ 的参数值的变化范围与具有显著光球成分的伽玛暴GRB 081224A、GRB 090719A、GRB 100707A 等[2]29]变化范围吻合。其中， $r _ { 0 }$ 的演化范围在黑洞的视界半径（ ${ { 1 0 } ^ { 6 - 7 } } \mathrm { { c m } ; }$ 对于一个黑洞质量 $\mathrm { 5 \sim 1 0 M _ { \odot } }$ ）与Wolf-Rayet前身星的核心大小之间，这表明 $r _ { 0 }$ 与喷流和前身星之间的相互作用有关[29]。 $r _ { s }$ 的演化行为与 $r _ { 0 }$ 近似,在数值上相差三个数量级之内。在脉冲起始至达到峰值阶段（22s)，光球层半径 ${ { r } _ { p h } }$ 呈现跟随脉冲上升(追踪)；脉冲峰值后， $r _ { p h }$ 快速下降，变化范围在一个量级内，之后仅微弱变化。脉冲的上升阶段， $r _ { p h }$ 随脉冲上升，「也随时间增加，这要求 $\cdot L _ { 0 }$ 或M要以更快的速率增加，而重子载量的增加，导致与它相关的电子增加了不透明度，从而增加了光球层半径。在脉冲衰减阶段，r和 $L _ { 0 }$ 都减小，而 $\dot { r } _ { p h }$ 保持常数或仅微弱地变化，这种状况就要求 $L _ { 0 } \propto \Gamma ^ { 3 }$ （或 $ { \mathsf { M } } \propto  { \Gamma } ^ { 2 }$ ）[29]。
+
+GRB131231A的能谱特征行为表明这个暴有一些特殊性，需要寻求合适的理论进行解释，值得进一步深入研究。
+
+# 参考文献
+
+[1] Li L.Multipulse Fermi Gamma-Ray Bursts.I.Evidence of the Transition from Fireball to Poynting-flux-dominated Outflow[J]. The Astrophysical Journal Supplement Series,2019.   
+[2] Li L.Thermal Components in Gamma-ray Bursts.I. How Do They Affect Non-Thermal Spectral Parameters?[J]. 2019.   
+[3] BBZhang， Zhang B,Liang E W,et al. A Comprehensive Analysis of Fermi Gamma-Ray Burst Data. I. Spectral Components and Their Possble Physical Origins of LAT/GBM GRBs[J].2010. [4] Guiriec S , Kouveliotou C,F Daigne, et al. TOWARD A BETTER UNDERSTANDING OF THE GRB PHENOMENON: A NEW MODEL FOR GRB PROMPT EMISSION AND ITS EFFECTS ON THE NEW LiNT-Epeak, irest, NTRELATION[J]. The Astrophysical Journal,2015,807(2):148-148. [5] Norris JP, Share G H, Messina D C, et al. Spectral evolution of pulse structures in gamma-ray bursts[J]. Astrophysical Journal, 1986,301(1).   
+[6] Bhat PN,Fishman G J, Meegan C A,et al. Spectral evolution of a subclass of Gamma-Ray Bursts observed by BATSE[J]. The Astrophysical Journal,1994,426(2).   
+[7] Hakkila J, Preece R D. Unification of Pulses in Long and Short Gamma-Ray Bursts: Evidence from Pulse Properties and their Correlations[J].Physics,2O11,740(2).   
+[8] Kargatis V E.Continum spectral evolution of gamma-ray bursts[J]. Physics Astronomy & Astrophysics,1996.   
+[9] Li L,Geng JJ, Meng Y Z, et al. "Double-tracking" Characteristic of the Spectral Evolution of GRB 131231A: Synchrotron Origin?[J]. 2019.   
+[10] Oganesyan G,Nava L, Ghirlanda G, et al. Characterization of Gamma-Ray Burst prompt emission spectra down to soft X-rays[J]. 2017.   
+[11] Oganesyan G, Nava L, Ghirlanda G, et al. Prompt optical emission as a signature of synchrotron radiation in gamma-ray bursts[J]. Astronomy and Astrophysics,2019.   
+[12] Band DL,Matteson J,Ford L,et al. BATSE observations of gamma-ray burst spectra.I - Spectral diversity[J]. The Astrophysical Journal,1993,413(1).   
+[13] Axelsson M,Baldini L，Barbielini G,et al. GRB110721A: An Extreme Peak Energy and [14] Burgess JM, Greiner J,D Bégué,et al. A Bayesian Fermi-GBM short GRB spectral catalogue[J]. Monthly Notices of the Royal Astronomical Society, 2O17, 490(1).   
+[15] Yu H F，H Dereli-Bégue, Ryde F . Bayesian Time-Resolved Spectroscopy of GRB Pulses. 2018.   
+[16] Li L，Ryde F, Pe'Er A ，et al. Bayesian Time-resolved Spectroscopy of Multipulse GRBs: Variations of Emisson Properties among Pulses[J]. The Astrophysical Journal Supplement Series, 2021, 254(2):35 (48pp).   
+[17] Zhang B-B，Zhang B，Castro-Tirado A J，et al． Transition from fireball to Poynting-flux-dominated outflow in the three-episode GRB 160625B[J]. Nature Astronomy, 2018. [18] Meegan C,Lichti G,Bhat PN,et al. The Fermi Gamma-Ray Burst Monitor[J]. The Astrophysical Journal,2009, 702(1):791.   
+[19] Michael B J. On Spectral Evolution and Temporal Binning in Gamma-Ray Bursts[J]. Monthly Notices of the Royal Astronomical Society,2014, 445(3):2589-2598.   
+[20] Scargle JD, Norris JP,Jackson B,et al. Studies in Astronomical Time Series Analysis. VI. Bayesian Block Representations[J]. The Astrophysical Journal, 2012, 764(2).   
+[21] Gruber D, Goldstein A,Ahlefeld V V, et al. The Fermi GBM Gamma-Ray Burst Spectral Catalog: Four Years Of Data[J]. The Astrophysical Journal Supplement Series, 2014, 211(1).   
+[22]S,Iyyani,F, et al. Variable jet properties in GRB110721A: time resolved observations of the jet photosphere[J]. MNRAS, 2013, Vol.:2739-2748.   
+[23] Preece R D, Briggs M S, Mallozzi R S, et al. The BATSE Gamma-Ray Burst Spectral Catalog. I. High Time Resolution Spectroscopy of Bright Bursts using High Energy Resolution Data[J]. The Astrophysical Journal Supplement Series, 2008,126(1):19-36.   
+[24] Firmani C, Cabrera JI, Avila-Reese V, et al. Time-resolved spectral correlations of long-duration γ-ray bursts[J]. Monthly Notices of the Royal Astronomical Society, 2009.   
+[25] Ghirlan DaG，Nava L,Ghisellini G. Spectral-luminosity relation within individual Fermi gamma rays bursts[J]. Astronomy & Astrophysics,2010,511(2):A43.   
+[26] Pe'Er A， Ryde F, Wijers R A MJ,et al. A NEW METHOD OF DETERMINING THE INITIAL SIZE AND LORENTZ FACTOR OF GAMMA-RAY BURST FIREBALLS USING A THERMAL EMISSION COMPONENT[J]. The Astrophysical journal, 2007, 664(1Pt2):L1-L4.   
+[27] Ryde F, Pe'Er A . Quasi-blackbody component and radiative eficiency of the prompt emission of gamma-ray bursts[J]. 2008.   
+[28] Ryde F . Smoothly Broken Power Law Spectra of Gamma-Ray Bursts[J]. Astrophysical lettrs & communications,1998,39(1).   
+[29]Iyyani, S, Ryde, et al. Synchrotron emission in GRBs observed by Fermi: its limitations and the role of the photosphere[J]. Monthly Notices of the Royal Astronomical Society, 2016.   
+[30] Lucas U Z， Bing Z， Judith R .TOWARD AN UNDERSTANDING OF GRB PROMPT EMISSION MECHANISM: II PATTERNS OF PEAK ENERGY EVOLUTION AND THEIR CONNECTION TO SPECTRAL LAGS[J]. The Astrophysical journal, 2020,2018 年 869 卷 2 期. [31] Kumar P,Panaitescu A. Afterglow Emission from Naked Gamma-Ray Bursts[J]. The Astrophysical Journal, 2000, 541(2):L51-L54.   
+[32] Uhm Z L， Zhang B. ON THE CURVATURE EFFECT OF A RELATIVISTIC SPHERICAL SHELL[J]. Astrophysical Journal, 2015, 808(1):33.   
+[33] Uhm Z L， Zhang B. TOWARD AN UNDERSTANDING OF GRB PROMPT EMISSION MECHANISM. I. THE ORIGIN OF SPECTRAL LAGS[J]. Astrophysical Journal, 2016, 825(2). [34] Gao H, Zhang B.Photosphere emission from a hybrid relativistic outflow with arbitrary dimensionless entropy and magnetization in GRBs[J]. Astrophysical Journal, 2O14, 801(2).   
+[35],Axelsson M, Zhang B B,et al.Identification and properties of the photospheric emission in GRB090902B[J]. The Astrophysical Journal Letters,2010, 709(2):L172.   
+[36] Hascoet T R，Daigne F, Mochkovitch R. Prompt thermal emission in gamma-ray bursts[J]. Astronomy & Astrophysics,2013,551(3): pags. 1075-1082.   
+[37] BD Metzger. Gamma-Ray Burst Central Engines: Black Hole Versus Magnetar[J]. arXiv,2010.
+
+# Study on energy spectrum characteristics of $E _ { P }$ and $\alpha$ "double tracking" gamma-ray bursts
+
+Wang Chen，Peng Zhao-Yang， Chen Jia-Ming (College of Physics and Electronic Information，Yunnan Normal University，Kunming 65o5oo，China,
+
+Email: pengzhaoyang412 @163.com)
+
+Abstract: GRB 131231A is a special gamma-ray burst (GRB） with $\mathrm { E _ { P } }$ and α having "dual tracking" behavior. To further analyze the energy spectrum characteristics of the burst, we used the Bayesian method to perform a detailed time-resolved spectral analysis and found that 16 of the 24 resolved spectra have significant thermal components,which are mainly distributed in the early and peak stages of the pulse. Near the peak， the transition from matter-dominated to magnetic-dominated GRB jets is supported. After adding thermal components, parameters $\mathrm { E _ { P } }$ and $\mathfrak { a }$ become hard,while the peak flux $\mathrm { F _ { p } }$ is almost unchanged. We calculated the characteristic parameters of the relativistic flow using the composition of the photosphere,and found that the initial radius $\mathbf { r } _ { 0 }$ of the flow characteristic parameter, the radius of the saturation layer $\mathbf { r } _ { \mathrm { { s } } }$ , the radius of the photosphere layer $\mathbf { r } _ { \mathrm { p h } } .$ ，and the Lorentz factor Γ during the coast phase of the flow all occurred significantly. The evolution of temperature over time can also be fited by the inflection power-law model. The power-law index of its rising and falling stages are $\mathbf { a } = 7 . 6 5 { \pm } 3 . 4 8$ and ${ \mathfrak { b } } =$ $\cdot 2 . 1 0 { \pm } 3 . 4 8$ ,respectively.Butb has a large deviation from the index value close to $- 2 / 3$ obtained by previous study of other thermal pulses.
+
+Key Words: Fermi Gamma-ray burst; Prompt emission; Spectral fiting; Data analysis; optimal model
+
+表4伽玛暴131231A最优模型拟合的时间分辨谱  
+Table.4 The best fiting results of models to fit the time-resolved spectrum of GRB 131231A   
+
+<html><body><table><tr><td>Tstart: Tend</td><td>Models</td><td>S/N</td><td>a</td><td>Ep(keV)</td><td></td><td>kT(keV) Fp (erg s'cm-2)</td><td>FBB (erg s1cm-2)</td><td>BIC</td></tr><tr><td>12.0: 14.17</td><td>CPL²</td><td>29</td><td>-0.95±0.09</td><td>162.28±24.9</td><td></td><td>7.46E -07+35E08</td><td></td><td>3192</td></tr><tr><td></td><td>CPL²+BB</td><td></td><td>−1.02±0:11</td><td>196.4±37.0</td><td>21.32±7.28</td><td>7.62E－07+4.34E-08</td><td>2.03E -08+4.49E-08</td><td>3184</td></tr><tr><td>14.17:15.32</td><td>CPL²</td><td>31</td><td>-1.05±0.07</td><td>284.02±52.0</td><td></td><td>1.36E-06+7.26E08</td><td></td><td>2331</td></tr><tr><td></td><td>CPL²+BB</td><td></td><td>-1.09+0.08</td><td>329.6+76.4</td><td>22.72±6.921</td><td>1.37E - 06±7.56E-08</td><td>3.07E-08+2.67E-08</td><td>2324</td></tr><tr><td>15.32:18.03</td><td>CPL²</td><td>85</td><td>-1.0±0.03</td><td>346.34±25.0</td><td></td><td>3.29E- 06+612E-08</td><td></td><td>3903</td></tr><tr><td></td><td>CPL²+BB</td><td></td><td>-1.07+0.03</td><td>492.7+66.8</td><td>24.20±2.15</td><td>3.38E- 06+5.62E08</td><td>2.10E -07+4.9E-08</td><td>3885</td></tr><tr><td>18.03:20.08</td><td>Band</td><td>108</td><td>-0.77±0.05</td><td>207.34+14.0</td><td></td><td>4.93E-06+5.92E-08</td><td></td><td>3564</td></tr><tr><td></td><td>Band +BB</td><td></td><td>−1.04±0.06</td><td>388.3±306.36</td><td>25.34±1.92</td><td>5.08E-06+9.47E-08</td><td>4.62E-07+1.05E-07</td><td>3560</td></tr></table></body></html>
+
+<html><body><table><tr><td>20.08:21.35</td><td>Band</td><td>102</td><td>-0.83±0.04</td><td>233.60±17.0</td><td></td><td>5.89E-06-8.36E-08</td><td></td><td>2934</td></tr><tr><td></td><td>Band + BB</td><td></td><td>-0.81-0.2</td><td>234.4±107.6</td><td>54.95-34</td><td>5.95E-06+101E-07</td><td>5.73E-07-2.04E86</td><td>2912</td></tr><tr><td>21.35:21.91</td><td>CPL²</td><td>85</td><td>-0.93±0.03</td><td>360.86+260</td><td></td><td>9.50E-06+18E-87</td><td></td><td>1811</td></tr><tr><td></td><td>CPL²+BB</td><td></td><td>−0.97+,03</td><td>481.0+4.5</td><td>27.13+5.15</td><td>9.65E-061.78E-07</td><td>7.01E- 07±1.5E-07</td><td>1777</td></tr><tr><td rowspan="2">21.91:22.41</td><td>CPL²</td><td>94</td><td>-0.91±0.03</td><td>389.18±26.0</td><td></td><td>1.25E－ 05±2.16E二87</td><td></td><td>1754</td></tr><tr><td>CPL²+BB</td><td></td><td>-0.93+0.03</td><td>435.0+51.6</td><td>31.10±2.18</td><td>1.25E－ 05+202E-07</td><td>4.09E -07±2.3E07</td><td>1736</td></tr><tr><td>22.41:23.41</td><td>CPL²</td><td>159</td><td>-0.87±0.02</td><td>322.88±13.0</td><td></td><td>1.47E - 05±1.65E-87</td><td></td><td>3014</td></tr><tr><td></td><td>CPL²+BB</td><td></td><td>-0.91±0.02</td><td>375.44±22.08</td><td>26.65±2.47</td><td>1.48E-05+1.55E-087</td><td>6.01E-07±1.52E=07</td><td>3003</td></tr><tr><td>23.41:23.72</td><td>CPL²</td><td>83</td><td>-0.86+0.04</td><td>220.87±15.0</td><td></td><td>1.02E-05±2.23E=87</td><td></td><td>1188</td></tr><tr><td rowspan="2">23.72:24.59</td><td>CPL²+BB</td><td></td><td>-0.63+0.10</td><td>115.3+30.4</td><td>102.1+21.4</td><td>1.05E-05+2.60E-07</td><td>4.28E-06+4.73E-07</td><td>1171</td></tr><tr><td>Band</td><td>125</td><td>-0.81+0.04</td><td>196.32±11.0</td><td></td><td>9.09E－ 06+1.21E-07</td><td></td><td>2480</td></tr><tr><td>24.59: 25.87</td><td>Band + BB</td><td></td><td>-0.69±0.06</td><td>143.9-15.2</td><td>83.71+1514</td><td>9.13E-06+125E07</td><td>1.67E - 06-5.42E-07</td><td>2462</td></tr><tr><td></td><td>Band</td><td>165</td><td>−0.77±0.04</td><td>185.0±11.0</td><td></td><td>1.05E- 05±943E-08</td><td></td><td>3315</td></tr><tr><td>25.87:26.54</td><td>Band + BB</td><td></td><td>-0.61±004</td><td>129.97±5.7</td><td>114.7±7.89</td><td>1.08E- 05+1.31E07</td><td>2.66E－06±3.1E-87</td><td>3266</td></tr><tr><td></td><td>Band</td><td>110</td><td>-0.83+0.05</td><td>148.44±10.0</td><td></td><td>8.06E-06+123E-07</td><td></td><td>2062</td></tr><tr><td>26.54:27.39</td><td>Band + BB</td><td></td><td>-0.72±0.07</td><td>110.9±10.0</td><td>71.8+9.94</td><td>7.99E-06+123E-87</td><td>1.26E - 06±3.58E-07</td><td>2044</td></tr><tr><td></td><td>Band</td><td>111</td><td>-0.84+0.04</td><td>118.37+60</td><td></td><td>6.42E-06+942E-08</td><td></td><td>2281</td></tr><tr><td rowspan="4">27.39:29.31</td><td></td><td></td><td></td><td></td><td>35.84+27.4</td><td>6.42E－06±10E0</td><td>4.55E-08±3.45E-07</td><td>2275</td></tr><tr><td>and</td><td></td><td>-0.84+0.05</td><td>114.9±8.5</td><td></td><td></td><td></td><td></td></tr><tr><td>Band</td><td>149</td><td>-0.89+004</td><td>88.81+34</td><td></td><td>4.84E-06+5.39E-08</td><td></td><td>3529</td></tr><tr><td>Band +BB</td><td></td><td>-0.85±0.05</td><td>83.4+5.</td><td>56.74+382</td><td>4.82E-06+6.14E-08</td><td>2.72E-07±7.16E=07</td><td>3521</td></tr><tr><td>29.31: 31.01</td><td>Band</td><td>128</td><td>-1.08±0.05</td><td>73.88±2.86</td><td></td><td>3.65E-06±5.01E-08</td><td></td><td>3142</td></tr><tr><td rowspan="3">31.01: 32.61</td><td>Band</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>+BB</td><td></td><td>−1.01±0.12</td><td>66.3-12.6</td><td>28.62±14.9</td><td>3.64E-06+5.55E08</td><td>7.97E-07±2.44E-07</td><td>3141</td></tr><tr><td>Band</td><td>144</td><td>-1.08+0.05</td><td>72.54+2.73</td><td></td><td>4.22E-06±5.46--08</td><td></td><td>3193</td></tr><tr><td></td><td>Band + BB</td><td></td><td>-1.01±0.09</td><td>65.0+7.3</td><td>35.0±14.6</td><td>4.19E-06+629E-08</td><td>1.84E- 07+2.32E-07</td><td>3194</td></tr><tr><td>32.61: 33.45</td><td>CPL²</td><td>91</td><td>−1.29±0.04</td><td>109.1+8.1</td><td></td><td>3.22E-0654E-08</td><td></td><td>2025</td></tr><tr><td></td><td>CPL²+BB</td><td></td><td>-1.28+0.06</td><td>102.7±17.8</td><td>30.47+23.6</td><td>3.22E-06+4.08E-08</td><td>3.18E-08±2.65E=07</td><td>2019</td></tr><tr><td>33.45: 35.41</td><td>CPL²</td><td>113</td><td>−1.36+0.04</td><td>103.6+6.3</td><td></td><td>2.35E-06+321E=08</td><td></td><td>3373</td></tr><tr><td></td><td>CPL²+BB</td><td></td><td>-1.13+0.2</td><td>57.9±6.22</td><td>60.93+8.16</td><td>2.38E-06+447E-08</td><td>4.41E - 07+847E-08</td><td>3351</td></tr><tr><td>35.41: 37.26</td><td>Band</td><td>87</td><td>−1.34+0.05</td><td>52.97+3.55</td><td></td><td>1.88E-06+401E-08</td><td></td><td>3091</td></tr><tr><td></td><td>and</td><td></td><td></td><td>40.4+10</td><td>24.80±3.23</td><td>1.87E- 06-4.22E-08</td><td>1.40E - 07+839E-08</td><td>3095</td></tr><tr><td>37.26: 38.65</td><td>CPL²</td><td>94</td><td>-1.27+0.13</td><td>141.5±12.0</td><td></td><td>2.55E-06+462E-08</td><td></td><td></td></tr><tr><td></td><td>CPL²+BB</td><td></td><td>−1.37±0.05</td><td></td><td>46.44+20.17</td><td>2.55E-06+5.01E-08</td><td></td><td>2767</td></tr><tr><td>38.65: 39.61</td><td>CPL²</td><td>64</td><td>−1.27±0.13 -1.44+0.05</td><td>103.5±36.6</td><td></td><td>1.98E-06+5.4E08</td><td>3.91E- 07+207E-07</td><td>2755</td></tr><tr><td></td><td>CPL²+BB</td><td></td><td></td><td>156.31±19.0</td><td>26.89±16.37</td><td>1.97E-06+52208</td><td></td><td>2116</td></tr><tr><td>39.61: 40.98</td><td>CPL²</td><td></td><td>−1.44+0.06</td><td>148.9±25.8</td><td></td><td>1.48E- 06+362E-08</td><td>2.37E-08±2.087</td><td>2108</td></tr><tr><td></td><td>CPL2+BB</td><td>64</td><td>−1.50±0.05</td><td>137.1±16.4</td><td>41.34±16.9</td><td>1.47E-06+33E08</td><td></td><td>2525</td></tr><tr><td>40.97: 42.01</td><td>CPL²</td><td></td><td>-1.32±0.20</td><td>86.8+51.64</td><td></td><td></td><td>2.87E-07+1.15E-07</td><td>2512</td></tr><tr><td></td><td></td><td>44</td><td>-1.56+0.05</td><td>178.3+32.2</td><td></td><td>1.20E-06+455E-08</td><td></td><td>2056</td></tr><tr><td>42.01: 45.0</td><td>CPL²+BB CPL²</td><td></td><td>-1.53+0.13</td><td>156.5±52.8</td><td>28.67±13.38</td><td>1.20E-06+42E-08</td><td>1.81E - 08+2.3E-07</td><td>2046</td></tr><tr><td></td><td></td><td>58</td><td>-1.53+0.05</td><td>130.8±16.0</td><td></td><td>8.35E-07±2.14E-08</td><td></td><td>3647</td></tr><tr><td></td><td>CPL²+BB</td><td></td><td>−1.5±0.07</td><td>122.5±24.0</td><td>22.2±15</td><td>8.31E-07±2.15E=08</td><td>9.81E- 09+5.57E-0</td><td>3638</td></tr></table></body></html>
